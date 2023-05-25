@@ -16,7 +16,7 @@ a) az egy mezőgazdasági vízszolgáltatási idényre eső üzemeltetési költ
 
 b)[^18] a fenntartási és karbantartási költségek esetében az 1. melléklet 2. táblázata alapján
 
-## kell meghatározni.
+kell meghatározni.
 
 (3) A térségi vízpótló és -elosztó művek, valamint a kettős működésű csatornák mezőgazdasági vízszolgáltatásra terhelhető költségeit az igénybevétel és a vízmérlegek alapján a mezőgazdasági célú vízfelhasználás arányában kell megállapítani. A kettős működésű csatornák működési költségeinek meghatározásánál a fenntartási költségek maximum 50%-át lehet a vízszolgáltatásra terhelni.
 

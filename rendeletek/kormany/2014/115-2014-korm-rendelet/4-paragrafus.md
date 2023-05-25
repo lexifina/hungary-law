@@ -1,12 +1,10 @@
-## kell figyelembe venni.
-
 4. §[^10] (1)[^11] A vízszolgáltatási egységben felmerülő
 
 a) állandó költségeket a rendelkezésre állást biztosító alapdíj (a továbbiakban: alapdíj),
 
 b) a változó költségeket a felhasznált vízmennyiséggel arányos díj (a továbbiakban: változó díj)
 
-## tartalmazza.
+tartalmazza.
 
 (2)[^12] A mezőgazdasági vízhasználó a vízjogi üzemeltetési engedélyében lekötött éves vízmennyiség alapján alapdíjat, a vízszolgáltatótól átvett vízmennyiség alapján változó díjat fizet a mezőgazdasági vízszolgáltatónak.
 

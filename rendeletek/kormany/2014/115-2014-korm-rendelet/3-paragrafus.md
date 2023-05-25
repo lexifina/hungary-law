@@ -6,5 +6,7 @@ a) a tényleges ráfordításokat és költségeket meghaladó mértékű díjat
 
 b) a tényleges ráfordításokat és költségeket el nem érő mértékű díjat állapított meg, akkor azt a következő évben költségnövelő tényezőként
 
+kell figyelembe venni.
+
 [^8]: A 3. § (1) bekezdése a 288/2018. (XII. 21.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
 [^9]: A 3. § (2) bekezdés nyitó szövegrésze a 288/2018. (XII. 21.) Korm. rendelet 4. § (10) bekezdés a) pontja szerint módosított szöveg.

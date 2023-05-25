@@ -14,6 +14,8 @@ b) az egyes mezőgazdasági vízszolgáltatók egymás közötti szolgáltatási
 
 c) a mezőgazdasági vízszolgáltató és a mezőgazdasági vízhasználó közötti szolgáltatási
 
+szerződés tartalmazza.
+
 [^19]: A 6. § a 232/2016. (VII. 29.) Korm. rendelet 9. §-ával megállapított szöveg.
 [^20]: A 6. § (1) bekezdése a 288/2018. (XII. 21.) Korm. rendelet 4. § (10) bekezdés c) pontja szerint módosított szöveg.
 [^21]: A 6. § (2) bekezdése a 288/2018. (XII. 21.) Korm. rendelet 4. § (10) bekezdés d) pontja szerint módosított szöveg.

@@ -1,3 +1,0 @@
-## 8/B. §[^36] A rendkívüli öntözési célú vízhasználat esetében a mezőgazdasági vízszolgáltatási díjat a vízhasználó a 8. § szerint viseli azzal, hogy az alapdíj számítása során a mezőgazdasági vízhasználó vízjogi üzemeltetési engedélyében lekötött éves vízmennyiség alatt a rendkívüli öntözési célú vízhasználat vízhasználó általi bejelentésében megjelölt, a vízgazdálkodási hatósági jogkör gyakorlásáról szóló 72/1996. (V. 22.) Korm. rendelet 5. § (14a) bekezdés e) pontja szerint kivenni tervezett víz mennyiségét kell érteni.
-
-[^36]: A 8/B. §-t a 98/2019. (IV. 30.) Korm. rendelet 2. §-a iktatta be.

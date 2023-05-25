@@ -1,0 +1,3 @@
+8/D. §[^38] A mezőgazdasági vízszolgáltatás díjképzési rendjéről szóló 115/2014. (IV. 3.) Korm. rendelet módosításáról szóló 193/2023. (V. 22.) Korm. rendelettel megállapított 8/C. § hatálybalépését követő negyvenöt napon belül a 2023. évre vonatkozó mezőgazdasági vízszolgáltatási szerződéseket a 8/C. §-sal való összhang érdekében módosítani kell, és a mezőgazdasági vízhasználó részére a 2023. évre vonatkozóan már befizetett mezőgazdasági vízszolgáltatási díjat a mezőgazdasági vízszolgáltató visszatéríti. A szerződésmódosításokat a mezőgazdasági vízszolgáltató készíti elő.
+
+[^38]: A 8/D. §-t a 193/2023. (V. 22.) Korm. rendelet 1. §-a iktatta be.
