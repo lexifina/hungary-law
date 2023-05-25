@@ -1,4 +1,4 @@
-## 176/A. §[^117] A kedvezményezett az e fejezet szerinti ellenőrzést nem kezdeményezi azon, közbeszerzéssel beszerzett költségtétel vonatkozásában, amelynek az elszámolása egyszerűsített elszámolás alkalmazásával történik.
+## 176/A. §[^147] A kedvezményezett az e fejezet szerinti ellenőrzést nem kezdeményezi azon, közbeszerzéssel beszerzett költségtétel vonatkozásában, amelynek az elszámolása egyszerűsített elszámolás alkalmazásával történik.
 
 177. § (1) A kedvezményezett az e fejezet szerinti ellenőrzésre benyújtandó dokumentumokat a monitoring és információs rendszeren keresztül küldi meg az irányító hatóság, illetve a közbeszerzésekért felelős miniszter részére.
 
@@ -12,4 +12,4 @@
 
 (6) A kedvezményezett a Kbt. szerinti jogorvoslati eljárás indításáról az irányító hatóságot és – ha a közbeszerzési ellenőrzés a hatáskörébe tartozik – a közbeszerzésekért felelős minisztert értesíti.
 
-[^117]: A 176/A. §-t a 156/2022. (IV. 19.) Korm. rendelet 23. §-a iktatta be.
+[^147]: A 176/A. §-t a 156/2022. (IV. 19.) Korm. rendelet 23. §-a iktatta be.

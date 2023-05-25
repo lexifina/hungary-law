@@ -1,5 +1,3 @@
-## 131. § A szakaszolt projekt e rendelet szerinti programozási időszakra eső szakasza vonatkozásában a támogatási kérelem benyújtására és elbírálására e fejezet rendelkezéseit kell alkalmazni.
-
 ## VIII. Fejezet
 
 ## A TÁMOGATÁSI JOGVISZONY

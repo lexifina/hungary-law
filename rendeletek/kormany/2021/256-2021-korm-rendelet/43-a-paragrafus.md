@@ -2,7 +2,7 @@
 
 ## 20. Az összeférhetetlenség
 
-43/A. §[^58] E Fejezet szabályait
+43/A. §[^65] E Fejezet szabályait
 
 a) az Unió általános költségvetésére alkalmazandó pénzügyi szabályokról, az 1296/2013/EU, az 1301/2013/EU, az 1303/2013/EU, az 1304/2013/EU, az 1309/2013/EU, az 1316/2013/EU, a 223/2014/EU és a 283/2014/EU rendelet és az 541/2014/EU határozat módosításáról, valamint a 966/2012/EU, Euratom rendelet hatályon kívül helyezéséről szóló, 2018. július 18-i (EU, Euratom) 2018/1046 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU, Euratom) 2018/1046 európai parlamenti és tanácsi rendelet] 61. cikkével,
 
@@ -12,4 +12,4 @@ c) a fejlesztéspolitikai intézményrendszer munkatársa jogállására vonatko
 
 összhangban kell értelmezni és alkalmazni.
 
-[^58]: A 43/A. §-t a 374/2022. (IX. 30.) Korm. rendelet 19. §-a iktatta be.
+[^65]: A 43/A. §-t a 374/2022. (IX. 30.) Korm. rendelet 19. §-a iktatta be.

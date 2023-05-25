@@ -16,7 +16,7 @@ való összhangját.
 
 (3) A miniszter a felhívástervezetben foglalt indikátorok minőségbiztosítása keretében a következő szempontok teljesülését ellenőrzi:
 
-a) a technikai segítségnyújtás felhívás és az előkészítési célú felhívás kivételével a felhívásnak legalább egy, a programba foglalt indikátort kell tartalmaznia,
+a)[^116] a technikai segítségnyújtás tárgyú felhívás és az előkészítési célú felhívás kivételével a felhívásnak legalább egy, a programba foglalt indikátort kell tartalmaznia,
 
 b) a felhívásnak tartalmaznia kell az adott felhívás esetén releváns, közösségi jog alapján meghatározott közös indikátorokat,
 
@@ -29,3 +29,5 @@ c) a felhívás csak a szükséges és indokolt számú indikátort tartalmazza.
 (6) A miniszter a minőségbiztosítás lezárását követően a felhívást – kivéve a technikai segítségnyújtási projektek felhívását – közzéteszi a www.palyazat.gov.hu oldalon.
 
 (7) A felhívás nem minősül az Ávr. 45. § (1) bekezdése szerinti kötelezettségvállalásnak.
+
+[^116]: A 90. § (3) bekezdés a) pontja a 195/2023. (V. 22.) Korm. rendelet 69. § (1) bekezdés 1. pontja szerint módosított szöveg.

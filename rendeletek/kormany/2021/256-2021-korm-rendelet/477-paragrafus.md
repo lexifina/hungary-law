@@ -1,1 +1,0 @@
-## 476. § A kedvezményezett támogatásra való jogosultságát, az irányító hatóság és a kedvezményezett tevékenységét, valamint a támogatás felhasználását a jogszabályokban, a felhívásban és a támogatási szerződésben meghatározott szervezet ellenőrizheti.

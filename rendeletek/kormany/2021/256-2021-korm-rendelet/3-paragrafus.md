@@ -34,11 +34,11 @@
 
 15. projekt fizikai befejezése: a projekt keretében támogatott tevékenységnek a felhívás és a támogatási szerződés szerinti végrehajtása,
 
-16. projektmegvalósítás befejezése: a projekt pénzügyi befejezését követően a projekt keretében támogatott tevékenységek végrehajtását igazoló kifizetési kérelem és beszámoló irányító hatóság általi jóváhagyása és a támogatás kifizetése,
+16.[^4] projektmegvalósítás irányító hatóság általi befejezése: a projekt keretében támogatott tevékenységek végrehajtását igazoló záró beszámoló jóváhagyását követően a záró kifizetési kérelem jóváhagyása és a támogatás kifizetése az irányító hatóság által,
 
 17. projekt pénzügyi befejezése: a projekt fizikai befejezését követően a projekt végrehajtása során keletkezett bizonylatok kiegyenlítése,
 
-18.[^4] szabálytalanság: az (EU) 2021/1060 európai parlamenti és tanácsi rendelet 2. cikk 31. pontjában ekként meghatározottak, továbbá nemzeti jogszabály vagy támogatási szerződés, pénzügyi eszköz esetén végső kedvezményezettel vagy a pénzügyi közvetítővel kötött szerződés alapján a kedvezményezettet vagy a végső kedvezményezettet terhelő kötelezettségek megsértése, amely alapján Magyarország pénzügyi érdekei sérülnek vagy sérülhetnek,
+18.[^5] szabálytalanság: az (EU) 2021/1060 európai parlamenti és tanácsi rendelet 2. cikk 31. pontjában ekként meghatározottak, továbbá nemzeti jogszabály vagy támogatási szerződés, pénzügyi eszköz esetén végső kedvezményezettel vagy a pénzügyi közvetítővel kötött szerződés alapján a kedvezményezettet vagy a végső kedvezményezettet terhelő kötelezettségek megsértése, amely alapján Magyarország pénzügyi érdekei sérülnek vagy sérülhetnek,
 
 19. szabálytalansági gyanú: szabálytalanság elkövetésére utaló tények, körülmények vagy dokumentumok, amelyek alapján megalapozottan lehet következtetni a szabálytalanság tényállási elemeinek fennállására,
 
@@ -51,4 +51,5 @@
 [^1]: A 3. § 5. pontja az 562/2021. (X. 1.) Korm. rendelet 13. §-ával megállapított szöveg.
 [^2]: A 3. § 6. pontja az 562/2021. (X. 1.) Korm. rendelet 36. § 1. pontja szerint módosított szöveg.
 [^3]: A 3. § 11. pontja az 562/2021. (X. 1.) Korm. rendelet 37. § a) pontja szerint módosított szöveg.
-[^4]: A 3. § 18. pontja az 562/2021. (X. 1.) Korm. rendelet 36. § 2. pontja szerint módosított szöveg.
+[^4]: A 3. § 16. pontja a 195/2023. (V. 22.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^5]: A 3. § 18. pontja az 562/2021. (X. 1.) Korm. rendelet 36. § 2. pontja szerint módosított szöveg.

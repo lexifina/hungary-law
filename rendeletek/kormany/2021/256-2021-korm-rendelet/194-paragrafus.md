@@ -1,5 +1,8 @@
 194. § (1) A kedvezményezett részére támogatás a támogatási előleg kivételével akkor fizethető ki, ha a közbeszerzésekért felelős miniszter a közbeszerzési eljárásra vonatkozóan támogató vagy feltétellel támogató tartalmú, az eljárás megindítására vonatkozó tanúsítványt, támogató tartalmú közbeszerzési záró tanúsítványt vagy utóellenőrzésről szóló jelentést, valamint az irányító hatóság támogató tartalmú nyilatkozatot állított ki.
 
-(2) Ha a támogató tartalmú közbeszerzési záró tanúsítvány kiállítását követően közbeszerzési elszámolhatósági akadály miatt a kedvezményezettel szemben szabálytalansági eljárás indul, a támogatás kifizetése tekintetében a szabálytalansági döntés tartalma irányadó.
+(2)[^153]
 
-(3) Az irányító hatóság az (1) és (2) bekezdés szerinti feltételeket a támogatási szerződésbe beépíti.
+(3)[^154] Az irányító hatóság az (1) bekezdés szerinti feltételt a támogatási szerződésbe beépíti.
+
+[^153]: A 194. § (2) bekezdését a 195/2023. (V. 22.) Korm. rendelet 70. § 3. pontja hatályon kívül helyezte.
+[^154]: A 194. § (3) bekezdése a 195/2023. (V. 22.) Korm. rendelet 44. §-ával megállapított szöveg.

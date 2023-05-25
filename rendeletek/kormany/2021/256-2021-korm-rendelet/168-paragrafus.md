@@ -2,7 +2,7 @@
 
 168. § (1) A támogatási szerződés módosítása nem irányulhat a támogatási döntésben meghatározott támogatási összegen felüli, a központi költségvetés valamely fejezetéből nyújtott többlettámogatás biztosítására, kivéve, ha közszféra szervezet esetén
 
-a) az eredeti támogatási összeg 15%-át, de legfeljebb ötvenmillió forintot el nem érő többlettámogatás vonatkozásában – feltéve, hogy a program érintett prioritása eredeti keretösszegének 110%-án belül szabad forrás áll rendelkezésre – az irányító hatóság,
+a)[^140] az eredeti támogatási összeg 30%-át, de legfeljebb százmillió forintot el nem érő többlettámogatás vonatkozásában – feltéve, hogy a program érintett prioritása eredeti keretösszegének 110%-án belül szabad forrás áll rendelkezésre – az irányító hatóság,
 
 b) a nettó bevételt termelő, nem kiemelt projekt finanszírozási hiányának meghatározása során a támogatási intenzitás változik akként, hogy a projekt elszámolható összköltsége változatlan marad – feltéve, hogy a program érintett prioritása eredeti keretösszegének 110%-án belül szabad forrás áll rendelkezésre – az irányító hatóság,
 
@@ -14,4 +14,7 @@ eltérően dönt.
 
 (3) Az eredményességi keretbe tartozó indikátorok célértékeihez nem vagy aránytalanul alacsony mértékben hozzájáruló projektek esetén nem lehetséges hazai költségvetési többlettámogatás biztosítása.
 
-(4) Nem minősül költségnövekménynek, ha a többlettámogatás a szakpolitikai felelős által kezdeményezett és az éves fejlesztési keret módosítása során elfogadott műszaki-szakmai tartalombővítés végrehajtását szolgálja.
+(4)[^141] Nem minősül költségnövekménynek, ha a többlettámogatás a projekt műszaki-szakmai tartalmának bővítését szolgálja.
+
+[^140]: A 168. § (1) bekezdés a) pontja a 195/2023. (V. 22.) Korm. rendelet 69. § (1) bekezdés 7. pontja szerint módosított szöveg.
+[^141]: A 168. § (4) bekezdése a 195/2023. (V. 22.) Korm. rendelet 41. §-ával megállapított szöveg.

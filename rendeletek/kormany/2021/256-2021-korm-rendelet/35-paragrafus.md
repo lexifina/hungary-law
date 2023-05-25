@@ -1,6 +1,6 @@
 ## 34. § A monitoring bizottság és a Partnerségi Megállapodás monitoring bizottság elnökét a miniszterelnök nevezi ki.
 
-35. § (1) A monitoring bizottságba az irányító hatóság felkérésére tagot delegálnak
+35. § (1)[^58] A monitoring bizottságba az irányító hatóság felkérésére tagot delegál
 
 a) a miniszter,
 
@@ -8,46 +8,40 @@ b) az irányító hatóság,
 
 c) az államháztartásért felelős miniszter,
 
-d) a szakpolitikai felelősök,
+d) a szakpolitikai felelős,
 
-e) a konstrukciófelelősök,
+e) a konstrukciófelelős,
 
-f)[^53] területi érintettség esetén a területfejlesztés stratégiai tervezéséért felelős miniszter,
+f) területi érintettség esetén a területfejlesztés stratégiai tervezéséért felelős miniszter,
 
-g) a gazdaságfejlesztési zóna komplex fejlesztéséért felelős kormánybiztos,
+g) a gazdaságfejlesztési zóna komplex fejlesztéséért felelős kormánybiztos és
 
-h)[^54] a vármegyei önkormányzatok érdekképviseleti szerve,
+h) az (EU) 2021/1060 európai parlamenti és tanácsi rendelet 8. cikk (1) bekezdése szerinti szervezet.
 
-i) a fővárosi közgyűlés,
+(2)[^59] A monitoring bizottságba az irányító hatóság felkérésére állandó meghívott szakértőt delegálhat különösen
 
-j) a gazdasági és szakmai érdekképviseleti szervek,
+a) – ha az adott program finanszírozásához hozzájárul – az Európai Beruházási Bank,
 
-k) a szociális partnerek és
+b) az Európa Tanács Fejlesztési Bank,
 
-l) a civil szervezetek.
+c) a nemzetközi pénzügyi kapcsolatokért felelős miniszter,
 
-(2) A monitoring bizottságba az irányító hatóság felkérésére tanácskozási joggal rendelkező tagot delegálhat különösen
+d) a vállalkozásfejlesztésért felelős miniszter,
 
-a) az Európai Bizottság,
+e) az igazoló hatóság,
 
-b) – ha az adott program finanszírozásához hozzájárul – az Európai Beruházási Bank,
+f) az audit hatóság,
 
-c) az Európa Tanács Fejlesztési Bank,
+g) a holdingalapot végrehajtó szervezet,
 
-d) a nemzetközi pénzügyi kapcsolatokért felelős miniszter,
+h) – ha kijelölésre került – a közreműködő szervezet és
 
-e)[^55] a vállalkozásfejlesztésért felelős miniszter,
+i) a Magyarország Helyreállítási és Ellenállóképességi Terve végrehajtásának alapvető szabályairól és felelős intézményeiről szóló kormányrendelet szerinti nemzeti hatóság.
 
-f) az igazoló hatóság,
-
-g) az audit hatóság,
-
-h) a holdingalapot végrehajtó szervezet és
-
-i) – ha kijelölésre került – a közreműködő szervezet.
+(2a)[^60] A monitoring bizottság munkájában az Európai Bizottság képviselője tanácskozási joggal vesz részt.
 
 (3) A monitoring bizottság (1) bekezdés szerint delegált tagjai egyenlő szavazati joggal rendelkeznek.
 
-[^53]: A 35. § (1) bekezdés f) pontja a 258/2022. (VII. 20.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
-[^54]: A 35. § (1) bekezdés h) pontja a 616/2022. (XII. 29.) Korm. rendelet 316. § a) pontja szerint módosított szöveg.
-[^55]: A 35. § (2) bekezdés e) pontja a 258/2022. (VII. 20.) Korm. rendelet 6. § (1) bekezdés 21. pontja szerint módosított szöveg.
+[^58]: A 35. § (1) bekezdése a 195/2023. (V. 22.) Korm. rendelet 31. §-ával megállapított szöveg.
+[^59]: A 35. § (2) bekezdése a 195/2023. (V. 22.) Korm. rendelet 31. §-ával megállapított szöveg.
+[^60]: A 35. § (2a) bekezdését a 195/2023. (V. 22.) Korm. rendelet 31. §-a iktatta be.

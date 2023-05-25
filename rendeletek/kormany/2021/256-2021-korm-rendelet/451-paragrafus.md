@@ -2,4 +2,6 @@
 
 (2) A felülvizsgált éves ellenőrzési tervnek tartalmaznia kell az első félévben lefolytatott helyszíni ellenőrzésekre vonatkozó adatokat is.
 
-(3) Az irányító hatóság az éves ellenőrzési terv módosítását elektronikus úton megküldi az államháztartásért felelős miniszter és az igazoló hatóság részére.
+(3)[^291]
+
+[^291]: A 451. § (3) bekezdését a 195/2023. (V. 22.) Korm. rendelet 70. § 11. pontja hatályon kívül helyezte.

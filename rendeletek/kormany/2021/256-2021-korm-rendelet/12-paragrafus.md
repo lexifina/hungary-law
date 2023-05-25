@@ -1,3 +1,3 @@
-12. §[^18]
+12. §[^21]
 
-[^18]: A 12. §-t a 123/2023. (IV. 12.) Korm. rendelet 21. § a) pontja hatályon kívül helyezte.
+[^21]: A 12. §-t a 123/2023. (IV. 12.) Korm. rendelet 21. § a) pontja hatályon kívül helyezte.

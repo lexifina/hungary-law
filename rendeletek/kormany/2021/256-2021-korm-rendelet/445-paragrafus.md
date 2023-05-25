@@ -1,5 +1,3 @@
-## 444. § A helyszíni ellenőrzés a kedvezményezett dokumentált egyetértése és a technikai feltételek rendelkezésre állása esetén történhet elektronikus alkalmazás használatával is. A helyszíni ellenőrzés tervezett helyszínén a kedvezményezett által készített olyan kép- és videófelvétel, amely kétségkívül igazolja a bizonyítandó tényt, elfogadható helyszíni ellenőrzésnek.
-
 ## 112. Az összesítőn szereplő tételek helyszíni ellenőrzésére vonatkozó szabályok
 
 445. § (1) Ha a helyszíni ellenőrzés során ellenőrzött, jóváhagyott kifizetési kérelemben az összesítővel elszámolt támogatás aránya

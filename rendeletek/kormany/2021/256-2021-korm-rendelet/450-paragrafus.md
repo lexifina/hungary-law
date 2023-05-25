@@ -10,4 +10,6 @@ c) az ellenőrzések ütemezését féléves bontásban,
 
 d) a szükséges humán erőforrást, betervezve a rendkívüli ellenőrzéseket is.
 
-(3) Az irányító hatóság az éves ellenőrzési tervet és a kockázatelemzést november 15-ig elektronikus úton megküldi az államháztartásért felelős miniszter és az igazoló hatóság részére.
+(3)[^290]
+
+[^290]: A 450. § (3) bekezdését a 195/2023. (V. 22.) Korm. rendelet 70. § 10. pontja hatályon kívül helyezte.
