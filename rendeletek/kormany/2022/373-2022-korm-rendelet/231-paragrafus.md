@@ -14,9 +14,9 @@ f) átmeneti támogatásként vagy
 
 g) közszolgáltatásért járó ellentételezésként
 
-h)[^141] csekély összegű támogatásként,
+h)[^150] csekély összegű támogatásként,
 
-i)[^142] válságtámogatásként
+i)[^151] válságtámogatásként
 
 nyújtható.
 
@@ -72,7 +72,7 @@ i) átmeneti támogatásként
 
 nyújtható.
 
-(6)[^143] Ha az „Állam és közigazgatás” komponens keretében támogatható intézkedések finanszírozása az EUMSz 107. cikk (1) bekezdése értelmében állami támogatásnak minősül, akkor a támogatás
+(6)[^152] Ha az „Állam és közigazgatás” komponens keretében támogatható intézkedések finanszírozása az EUMSz 107. cikk (1) bekezdése értelmében állami támogatásnak minősül, akkor a támogatás
 
 a) kis- és középvállalkozások részére tanácsadáshoz nyújtott támogatásként
 
@@ -82,6 +82,6 @@ c) átmeneti támogatásként
 
 nyújtható.
 
-[^141]: A 231. § (1) bekezdés h) pontját a 463/2022. (XI. 15.) Korm. rendelet 27. §-a iktatta be.
-[^142]: A 231. § (1) bekezdés i) pontját a 463/2022. (XI. 15.) Korm. rendelet 27. §-a iktatta be.
-[^143]: A 231. § (6) bekezdés nyitó szövegrésze a 154/2023. (IV. 27.) Korm. rendelet 20. § (1) bekezdés j) pontja szerint módosított szöveg.
+[^150]: A 231. § (1) bekezdés h) pontját a 463/2022. (XI. 15.) Korm. rendelet 27. §-a iktatta be.
+[^151]: A 231. § (1) bekezdés i) pontját a 463/2022. (XI. 15.) Korm. rendelet 27. §-a iktatta be.
+[^152]: A 231. § (6) bekezdés nyitó szövegrésze a 154/2023. (IV. 27.) Korm. rendelet 20. § (1) bekezdés j) pontja szerint módosított szöveg.

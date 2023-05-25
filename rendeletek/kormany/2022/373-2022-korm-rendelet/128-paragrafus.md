@@ -6,14 +6,14 @@
 
 (3) A dinamikus beszerzési rendszer alapján megkötött szerződések ellenőrzése vonatkozásában a végső kedvezményezett a nemzeti hatóság, majd a közbeszerzésekért felelős miniszter utóellenőrzését kezdeményezi a 129. § és 130. § szerint.
 
-(4)[^76] A dinamikus beszerzési rendszer fennállása alatt benyújtott valamennyi részvételi jelentkezés esetén a végső kedvezményezett a közbeszerzésekért felelős miniszter utóellenőrzését kezdeményezi.
+(4)[^85] A dinamikus beszerzési rendszer fennállása alatt benyújtott valamennyi részvételi jelentkezés esetén a végső kedvezményezett a közbeszerzésekért felelős miniszter utóellenőrzését kezdeményezi.
 
 (5) A részvételi jelentkezések utóellenőrzése során – a (6) és (7) bekezdésben foglalt eltérésekkel – a 130. § (2)–(6) bekezdése és a 131. § megfelelően alkalmazandó.
 
-(6)[^77] A végső kedvezményezett a dinamikus beszerzési rendszerbe történő felvételről vagy annak elutasításáról hozott döntést követő öt munkanapon belül megküldi a részvételi jelentkezést és annak bírálatához kapcsolódó valamennyi dokumentumot a közbeszerzésekért felelős miniszter részére.
+(6)[^86] A végső kedvezményezett a dinamikus beszerzési rendszerbe történő felvételről vagy annak elutasításáról hozott döntést követő öt munkanapon belül megküldi a részvételi jelentkezést és annak bírálatához kapcsolódó valamennyi dokumentumot a közbeszerzésekért felelős miniszter részére.
 
-(7)[^78] A közbeszerzésekért felelős miniszter a (6) bekezdés szerinti dokumentumok kézhezvételét követő tizenkét munkanapon belül jelentést állít ki a részvételi jelentkezések elbírálásának közbeszerzési elszámolhatóságáról, amelyet megküld a végső kedvezményezett részére.
+(7)[^87] A közbeszerzésekért felelős miniszter a (6) bekezdés szerinti dokumentumok kézhezvételét követő tizenkét munkanapon belül jelentést állít ki a részvételi jelentkezések elbírálásának közbeszerzési elszámolhatóságáról, amelyet megküld a végső kedvezményezett részére.
 
-[^76]: A 128. § (4) bekezdése a 154/2023. (IV. 27.) Korm. rendelet 20. § (2) bekezdés d) pontja szerint módosított szöveg.
-[^77]: A 128. § (6) bekezdése a 154/2023. (IV. 27.) Korm. rendelet 20. § (2) bekezdés d) pontja szerint módosított szöveg.
-[^78]: A 128. § (7) bekezdése a 154/2023. (IV. 27.) Korm. rendelet 20. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^85]: A 128. § (4) bekezdése a 154/2023. (IV. 27.) Korm. rendelet 20. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^86]: A 128. § (6) bekezdése a 154/2023. (IV. 27.) Korm. rendelet 20. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^87]: A 128. § (7) bekezdése a 154/2023. (IV. 27.) Korm. rendelet 20. § (2) bekezdés d) pontja szerint módosított szöveg.

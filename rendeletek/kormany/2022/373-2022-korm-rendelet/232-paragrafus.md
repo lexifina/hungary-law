@@ -42,6 +42,6 @@
 
 21. átmeneti támogatás esetén a 255/2014. (X. 10.) Korm. rendelet 41/A. alcíme
 
-22. [^144] válságtámogatás esetén a 255/2014. (X. 10.) Korm. rendelet 41/D. alcíme
+22. [^153] válságtámogatás esetén a 255/2014. (X. 10.) Korm. rendelet 41/D. alcíme
 
-[^144]: A 232. § 22. pontját a 463/2022. (XI. 15.) Korm. rendelet 28. §-a iktatta be.
+[^153]: A 232. § 22. pontját a 463/2022. (XI. 15.) Korm. rendelet 28. §-a iktatta be.

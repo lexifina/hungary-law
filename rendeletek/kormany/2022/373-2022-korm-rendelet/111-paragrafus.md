@@ -1,4 +1,4 @@
-111. §[^70] (1) Ha a végső kedvezményezett a közbeszerzési záró tanúsítványban foglaltakkal nem ért egyet, a közbeszerzési záró tanúsítvánnyal szemben egy alkalommal jogorvoslattal élhet. A jogorvoslatra az 54–57. alcím rendelkezéseit kell alkalmazni a (2)–(9) bekezdésben foglalt eltérésekkel.
+111. §[^71] (1) Ha a végső kedvezményezett a közbeszerzési záró tanúsítványban foglaltakkal nem ért egyet, a közbeszerzési záró tanúsítvánnyal szemben egy alkalommal jogorvoslattal élhet. A jogorvoslatra az 54–57. alcím rendelkezéseit kell alkalmazni a (2)–(9) bekezdésben foglalt eltérésekkel.
 
 (2) Ahol az 54–57. alcím
 
@@ -32,4 +32,4 @@ b) a közbeszerzési záró tanúsítványt módosítja.
 
 (9) A közbeszerzési záró tanúsítvánnyal szemben lefolytatott jogorvoslati eljárás esetén a 206. § (1) és (2) bekezdését, a 208. § (1) bekezdését, a 209. §-t, a 211. § (1) bekezdés f) pontját, a 213. §-t, a 214. §-t, a 215. § (1) és (2) bekezdését, valamint a 217. § (1), (3), (4) és (6) bekezdését nem kell alkalmazni.
 
-[^70]: A 111. § a 123/2023. (IV. 12.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^71]: A 111. § a 123/2023. (IV. 12.) Korm. rendelet 24. §-ával megállapított szöveg.

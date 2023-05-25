@@ -4,6 +4,6 @@
 
 ## 61. Állami támogatásokra vonatkozó szabályok
 
-230/A. §[^140] E rendelet alapján támogatás az EUMSZ 107. és 108 cikkével összhangban nyújtható.
+230/A. §[^149] E rendelet alapján támogatás az EUMSZ 107. és 108 cikkével összhangban nyújtható.
 
-[^140]: A 230/A. §-t a 463/2022. (XI. 15.) Korm. rendelet 26. §-a iktatta be.
+[^149]: A 230/A. §-t a 463/2022. (XI. 15.) Korm. rendelet 26. §-a iktatta be.
