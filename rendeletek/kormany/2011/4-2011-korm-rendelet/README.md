@@ -53,3 +53,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-4-20-22
 | 2022-05-25 | 2011-4-20-22.45 | 183/2022. (V. 24.) Korm. rendelet |
 | 2022-07-21 | 2011-4-20-22.46 | 548/2013. (XII. 30.) Korm. rendelet |
 | 2023-01-01 | 2011-4-20-22.47 | 615/2022. (XII. 29.) Korm. rendelet |
+| 2023-05-25 | 2011-4-20-22.48 | 195/2023. (V. 22.) Korm. rendelet |

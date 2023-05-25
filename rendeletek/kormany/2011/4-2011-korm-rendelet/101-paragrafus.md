@@ -16,11 +16,11 @@
 
 (3)[^488] Ha a kedvezményezett visszafizetési kötelezettségének feltételei bekövetkeznek, a támogató a követelés összegét az adott projektre vonatkozóan a kedvezményezett részére megítélt, de még ki nem fizetett támogatási összegbe beszámítja. Ha a beszámítás nem vagy csak részben lehetséges, a visszafizetési kötelezettséget a támogató értesítésben vagy fizetési felszólításban közli a kedvezményezettel, amelyek másolati példányát az értesítés, vagy a fizetési felszólítás a kedvezményezett részére történt megküldését követő 7 napon belül meg kell küldeni a kincstárnak.
 
-(4) A visszafizetési kötelezettség a támogató döntése alapján részletekben is teljesíthető, a visszafizetés ütemezését külön megállapodásban kell rögzíteni.
+(4)[^489] A visszafizetési kötelezettség a támogató döntése alapján részletekben is teljesíthető, a visszafizetés ütemezését külön megállapodásban kell rögzíteni. Pénzügyi eszköz esetén a részletfizetés futamideje nem haladhatja meg a harminchat hónapot.
 
-(5)[^489] Ha a kedvezményezett a visszafizetési kötelezettség teljesítésével késedelembe esik, a késedelme után a Ptk. 6:48. §-a szerinti késedelmi kamatot kell fizetnie.
+(5)[^490] Ha a kedvezményezett a visszafizetési kötelezettség teljesítésével késedelembe esik, a késedelme után a Ptk. 6:48. §-a szerinti késedelmi kamatot kell fizetnie.
 
-(6)[^490] Kincstári körbe tartozó költségvetési szervek esetén az (1), (2) és (5) bekezdés szerinti kamatfizetési kötelezettséget nem kell érvényesíteni.
+(6)[^491] Kincstári körbe tartozó költségvetési szervek esetén az (1), (2) és (5) bekezdés szerinti kamatfizetési kötelezettséget nem kell érvényesíteni.
 
 [^483]: A 101. § (1) bekezdése a 203/2014. (VIII. 14.) Korm. rendelet 9. § 12. pontja szerint módosított szöveg.
 [^484]: A 101. § (1a) bekezdését a 25/2012. (II. 29.) Korm. rendelet 50. §-a iktatta be.
@@ -28,5 +28,6 @@
 [^486]: A 101. § (1c) bekezdését a 25/2012. (II. 29.) Korm. rendelet 50. §-a iktatta be, hatályon kívül helyezte a 302/2013. (VII. 29.) Korm. rendelet 55. § c) pontja.
 [^487]: A 101. § (2) bekezdését a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 16. pontja hatályon kívül helyezte, újonnan a 176/2012. (VII. 26.) Korm. rendelet 24. § (1) bekezdése iktatta be, szövege a 203/2014. (VIII. 14.) Korm. rendelet 9. § 12. pontja szerint módosított szöveg.
 [^488]: A 101. § (3) bekezdése a 302/2013. (VII. 29.) Korm. rendelet 43. §-ával megállapított szöveg.
-[^489]: A 101. § (5) bekezdése a 86/2011. (V. 31.) Korm. rendelet 13. § (5) bekezdése, a 203/2014. (VIII. 14.) Korm. rendelet 9. § 13. pontja szerint módosított szöveg.
-[^490]: A 101. § (6) bekezdését a 176/2012. (VII. 26.) Korm. rendelet 24. § (2) bekezdése iktatta be.
+[^489]: A 101. § (4) bekezdése a 195/2023. (V. 22.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^490]: A 101. § (5) bekezdése a 86/2011. (V. 31.) Korm. rendelet 13. § (5) bekezdése, a 203/2014. (VIII. 14.) Korm. rendelet 9. § 13. pontja szerint módosított szöveg.
+[^491]: A 101. § (6) bekezdését a 176/2012. (VII. 26.) Korm. rendelet 24. § (2) bekezdése iktatta be.

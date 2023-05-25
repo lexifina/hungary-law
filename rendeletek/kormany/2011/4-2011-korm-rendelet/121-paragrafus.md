@@ -1,4 +1,4 @@
-121. §[^560] (1) A határidőbe nem számít bele a közlés, kézbesítés napja.
+121. §[^561] (1) A határidőbe nem számít bele a közlés, kézbesítés napja.
 
 (2) Ha a határidő kezdőnapja nem munkanap, a határidő a következő munkanapon kezdődik.
 
@@ -14,4 +14,4 @@
 
 (8) A határidőt kétség esetén megtartottnak kell tekinteni.
 
-[^560]: A 121. § a 25/2012. (II. 29.) Korm. rendelet 55. §-ával megállapított szöveg.
+[^561]: A 121. § a 25/2012. (II. 29.) Korm. rendelet 55. §-ával megállapított szöveg.
