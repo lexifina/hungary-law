@@ -1,20 +1,20 @@
 70. § (1) Az országos kihatású projekt esetén a 46–61. § rendelkezéseit az e §-ban meghatározott eltérésekkel kell alkalmazni.
 
-(2)[^466] A projekt szakmai tartalma szerinti felelős irányító hatóság vezetője az általa benyújtott éves fejlesztési keret elfogadását követően a VEKOP-ra eső támogatási keretösszeg feletti rendelkezési jogot a Gazdaság-újraindítási Alap uniós fejlesztései fejezetbe tartozó fejezeti és központi kezelésű előirányzatok felhasználásának rendjéről szóló 481/2021. (VIII. 13.) Korm. rendelet [a továbbiakban: 481/2021. (VIII. 13.) Korm. rendelet] alapján gyakorolja. A projekt szakmai tartalma szerinti felelős irányító hatóságra e támogatási keretösszeg tekintetében a 12. alcímet kell alkalmazni.
+(2)[^467] A projekt szakmai tartalma szerinti felelős irányító hatóság vezetője az általa benyújtott éves fejlesztési keret elfogadását követően a VEKOP-ra eső támogatási keretösszeg feletti rendelkezési jogot a Gazdaság-újraindítási Alap uniós fejlesztései fejezetbe tartozó fejezeti és központi kezelésű előirányzatok felhasználásának rendjéről szóló 481/2021. (VIII. 13.) Korm. rendelet [a továbbiakban: 481/2021. (VIII. 13.) Korm. rendelet] alapján gyakorolja. A projekt szakmai tartalma szerinti felelős irányító hatóságra e támogatási keretösszeg tekintetében a 12. alcímet kell alkalmazni.
 
-(3)[^467]
+(3)[^468]
 
-(4)[^468]
+(4)[^469]
 
-(5)[^469] Országos kihatású projekt esetén a támogatási szerződést a projekt szakmai tartalmáért felelős irányító hatóság köti meg.
+(5)[^470] Országos kihatású projekt esetén a támogatási szerződést a projekt szakmai tartalmáért felelős irányító hatóság köti meg.
 
-(6)[^470]
+(6)[^471]
 
-(7)[^471] A monitoring és információs rendszerben a támogatási kérelemmel, a döntéssel és a projekt lebonyolításával kapcsolatos adatokat – programonkénti megbontásban – a projekt szakmai tartalmáért felelős irányító hatóság rögzíti és kezeli.
+(7)[^472] A monitoring és információs rendszerben a támogatási kérelemmel, a döntéssel és a projekt lebonyolításával kapcsolatos adatokat – programonkénti megbontásban – a projekt szakmai tartalmáért felelős irányító hatóság rögzíti és kezeli.
 
-[^466]: A 70. § (2) bekezdése a 98/2016. (V. 13.) Korm. rendelet 23. §-ával megállapított, a 658/2021. (XI. 30.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
-[^467]: A 70. § (3)–(4) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 101. § 15. pontja hatályon kívül helyezte.
+[^467]: A 70. § (2) bekezdése a 98/2016. (V. 13.) Korm. rendelet 23. §-ával megállapított, a 658/2021. (XI. 30.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
 [^468]: A 70. § (3)–(4) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 101. § 15. pontja hatályon kívül helyezte.
-[^469]: A 70. § (5) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 76. pontja szerint módosított szöveg.
-[^470]: A 70. § (6) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 101. § 15. pontja hatályon kívül helyezte.
-[^471]: A 70. § (7) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 77. pontja szerint módosított szöveg.
+[^469]: A 70. § (3)–(4) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 101. § 15. pontja hatályon kívül helyezte.
+[^470]: A 70. § (5) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 76. pontja szerint módosított szöveg.
+[^471]: A 70. § (6) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 101. § 15. pontja hatályon kívül helyezte.
+[^472]: A 70. § (7) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 77. pontja szerint módosított szöveg.

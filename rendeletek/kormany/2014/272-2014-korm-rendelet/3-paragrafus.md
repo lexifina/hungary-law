@@ -100,7 +100,7 @@
 
 40.[^47] projekt fizikai befejezése: az az állapot, amikor a projekt keretében támogatott tevékenységeket a felhívásban és a támogatási szerződésben meghatározottak szerint elvégezték,
 
-41.[^48] projektmegvalósítás befejezése: az 1303/2013/EU európai parlamenti és tanácsi rendelet 2. cikk 14. pontjára tekintettel egy projekt megvalósítása akkor tekinthető befejezettnek, ha a projekt fizikailag és pénzügyileg is befejezett, valamint a kedvezményezettnek valamennyi támogatott tevékenysége befejezését igazoló és alátámasztó kifizetési igénylését az irányító hatóság – EMVA forrás esetén a kifizető ügynökség – jóváhagyta és a támogatás folyósítása megtörtént,
+41.[^48] projektmegvalósítás irányító hatóság általi befejezése: a projekt keretében támogatott tevékenységek végrehajtását igazoló záró beszámoló és záró kifizetési igénylés jóváhagyása, valamint a támogatás kifizetése az irányító hatóság – EMVA esetén a kifizető ügynökség – által,
 
 42.[^49] projekt pénzügyi befejezése: ha a projekt fizikai befejezése megtörtént, valamint a projektmegvalósítás során keletkezett elszámoló bizonylatok – szállítói kifizetés esetén az előírt önrész szállítók részére történő – kiegyenlítése megtörtént. A 100%-os támogatási intenzitású, kizárólag szállítói finanszírozású projektek esetében a projekt pénzügyi befejezésének napja az elszámoló bizonylatok irányító hatóság, EMVA-ból történő finanszírozás esetén a kifizető ügynökség által történő kiegyenlítésének napja. A projekt pénzügyi befejezésének dátuma a projekt megvalósítási ideje alatt felmerült, a kedvezményezett által megfelelően elszámolt költségek közül a legkésőbbi kiegyenlítés dátuma,
 
@@ -229,7 +229,7 @@ szerint kell értelmezni.
 [^45]: A 3. § (1) bekezdés 37. pontja a 91/2016. (IV. 29.) Korm. rendelet 8. § a) pontja, a 658/2021. (XI. 30.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
 [^46]: A 3. § (1) bekezdés 39. pontja a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 4. pontja szerint módosított szöveg.
 [^47]: A 3. § (1) bekezdés 40. pontja a 144/2015. (VI. 12.) Korm. rendelet 5. § (8) bekezdésével megállapított szöveg.
-[^48]: A 3. § (1) bekezdés 41. pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 9. pontja szerint módosított szöveg.
+[^48]: A 3. § (1) bekezdés 41. pontja a 195/2023. (V. 22.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^49]: A 3. § (1) bekezdés 42. pontja a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 5. pontja szerint módosított szöveg.
 [^50]: A 3. § (1) bekezdés 45. pontja a 247/2016. (VIII. 17.) Korm. rendelet 2. § (5) bekezdésével megállapított szöveg.
 [^51]: A 3. § (1) bekezdés 47. pontja a 144/2015. (VI. 12.) Korm. rendelet 5. § (9) bekezdésével megállapított szöveg.

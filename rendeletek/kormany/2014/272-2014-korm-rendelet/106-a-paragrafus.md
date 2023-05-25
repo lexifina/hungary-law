@@ -1,4 +1,4 @@
-106/A. §[^695] (1) Ha a támogatást igénylő vagy a kedvezményezett a közbeszerzési záró tanúsítványban foglaltakkal nem ért egyet, a közbeszerzési záró tanúsítvánnyal szemben egy alkalommal jogorvoslattal élhet. A jogorvoslatra a XXII. Fejezet rendelkezéseit kell alkalmazni a (2)–(9) bekezdésben foglalt eltérésekkel.
+106/A. §[^701] (1) Ha a támogatást igénylő vagy a kedvezményezett a közbeszerzési záró tanúsítványban foglaltakkal nem ért egyet, a közbeszerzési záró tanúsítvánnyal szemben egy alkalommal jogorvoslattal élhet. A jogorvoslatra a XXII. Fejezet rendelkezéseit kell alkalmazni a (2)–(9) bekezdésben foglalt eltérésekkel.
 
 (2) Ahol a XXII. Fejezet
 
@@ -32,4 +32,4 @@ b) a közbeszerzési záró tanúsítványt módosítja.
 
 (9) A közbeszerzési záró tanúsítvánnyal szemben lefolytatott jogorvoslati eljárás esetén a 166. § (1)–(3) bekezdését, a 169. §-t, a 172. § (1), (6) és (7) bekezdését, valamint a 173. § (1) és (2) bekezdését nem kell alkalmazni.
 
-[^695]: A 106/A. §-t a 123/2023. (IV. 12.) Korm. rendelet 4. §-a iktatta be.
+[^701]: A 106/A. §-t a 123/2023. (IV. 12.) Korm. rendelet 4. §-a iktatta be.
