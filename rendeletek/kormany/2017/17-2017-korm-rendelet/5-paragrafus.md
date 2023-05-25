@@ -1,3 +1,3 @@
-## 4. §[^3]
+5. §[^6]
 
-[^3]: A 4. §-t a 35/2017. (II. 24.) Korm. rendelet 5. §-a hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 4. §-át.
+[^6]: Az 5. §-t a 195/2023. (V. 22.) Korm. rendelet 22. § b) pontja hatályon kívül helyezte.
