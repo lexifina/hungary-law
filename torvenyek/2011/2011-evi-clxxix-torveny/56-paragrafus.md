@@ -4,7 +4,7 @@
 
 (2) Az országos nemzetiségi önkormányzat a nemzetiség adott településen való honosságának vizsgálata során köteles kikérni a Magyar Tudományos Akadémia elnökének állásfoglalását.
 
-(3) Az országos nemzetiségi önkormányzat azokról a településekről, ahol az (1) bekezdés szerinti vizsgálat alapján a nemzetiségi közösség önigazgatása szükséges, a választás évében a választást megelőző év november 30-áig tájékoztatja – a Nemzeti Választási Bizottság által meghatározott módon – a Nemzeti Választási Bizottságot.
+(3) Az országos nemzetiségi önkormányzat azokról a településekről, ahol az (1) bekezdés szerinti vizsgálat alapján a nemzetiségi közösség önigazgatása szükséges, a választást megelőző év november 30-áig tájékoztatja – a Nemzeti Választási Bizottság által meghatározott módon – a Nemzeti Választási Bizottságot.
 
 (4) A területi nemzetiségi önkormányzati képviselők választását ki kell tűzni, ha a fővárosban, vármegyében kitűzött települési választások száma legalább tíz.
 
