@@ -1,0 +1,1 @@
+2. § Hatályát veszti a Rendelet 1. melléklet I. pontjában foglalt táblázat 97. sorában a „ , fokozott biztonságú vagy minősített elektronikus aláírással ellátva, és a kezdeti jelentés tekintetében titkosított elektronikus levél” szövegrész.
