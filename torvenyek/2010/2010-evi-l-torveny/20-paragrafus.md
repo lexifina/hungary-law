@@ -14,6 +14,8 @@
 
 (5) Ha az egyéni választókerületi képviselő vagy a polgármester, főpolgármester megbízatása megszűnik, időközi választást kell kitűzni.
 
+(5a) Ha jelölő szervezet jelöltjeként indult egyéni választókerületi képviselő megbízatása szűnik meg és az időközi választás nem tűzhető ki, a mandátumot a jelölő szervezet − közös kompenzációs lista esetén az érintett jelölő szervezetek − által a kompenzációs listán szereplő jelöltek közül megnevezett jelölt, ennek hiányában a kompenzációs listán soron következő jelölt szerzi meg.
+
 (6) Ha az önkormányzati képviselő-testületet feloszlatták vagy feloszlott, időközi választást kell tartani.
 
 (7) A fővárosi közgyűlés feloszlása esetén időközi választást kell kiírni valamennyi fővárosi kerület polgármesteri tisztségére.
