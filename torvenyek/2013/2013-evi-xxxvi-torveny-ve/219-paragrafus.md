@@ -2,4 +2,4 @@
 
 (2) A bírság legmagasabb összege természetes személy esetén a kötelező legkisebb munkabér havi összegének ötszöröse, egyébként a kötelező legkisebb munkabér havi összegének tizenötszöröse.
 
-(3) A bírság, ha azt a kötelezett az azt kiszabó határozat jogerőre emelkedésétől számított tizenöt napon belül nem fizette meg, adók módjára behajtandó köztartozásnak minősül, amelyet a Nemzeti Választási Iroda megkeresésére az állami adóhatóság szed be.
+(3) Ha a kötelezett a bírságot az azt kiszabó határozat jogerőre emelkedésétől számított tizenöt napon belül nem fizette meg, a Nemzeti Választási Iroda – önkéntes teljesítésre való felhívásban foglalt határidő eredménytelen elteltét követően – a bírság fennmaradó összegének adók módjára behajtandó köztartozásként történő behajtása érdekében megkeresi az állami adóhatóságot.

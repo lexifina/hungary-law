@@ -4,4 +4,6 @@
 
 (1a) A választási bizottság a fellebbezés benyújtásától számított tizenöt napon belül dönt, ha a kérelem nem olyan választáshoz kapcsolódik, amelynek kitűzése már megtörtént, de a választás eredménye még nem emelkedett jogerőre.
 
-(2) A bírósági felülvizsgálat iránti kérelemről a bíróság legkésőbb a beérkezésétől számított harmadik napon dönt. A bírósági eljárásban a polgári perrendtartásról szóló törvény közigazgatási perekre vonatkozó rendelkezéseit kell – az e törvényben foglalt eltérésekkel – megfelelően alkalmazni.
+(2) A bírósági felülvizsgálat iránti kérelemről a bíróság legkésőbb a beérkezésétől számított harmadik napon dönt. A bírósági eljárásban a közigazgatási perrendtartásról szóló törvény rendelkezéseit kell – az e törvényben foglalt eltérésekkel – megfelelően alkalmazni.
+
+(3) A bíróság a felülvizsgálati kérelem beérkezésétől számított tizenöt napon belül dönt, ha a kérelem nem olyan választáshoz kapcsolódik, amelynek kitűzése már megtörtént, de a választás eredménye még nem emelkedett jogerőre.

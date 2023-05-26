@@ -10,6 +10,6 @@ b) a kérelem benyújtójának nevét, lakcímét (székhelyét) és – ha a la
 
 c) a kérelem benyújtójának személyi azonosítóját, illetve ha a külföldön élő, magyarországi lakcímmel nem rendelkező választópolgár nem rendelkezik személyi azonosítóval, a személyazonosságát igazoló igazolványának típusát és számát, vagy jelölő szervezet vagy más szervezet esetében a bírósági nyilvántartásba-vételi számát.
 
-(4) A fellebbezés, illetve a bírósági felülvizsgálati kérelem tartalmazhatja benyújtójának telefaxszámát vagy elektronikus levélcímét, illetve kézbesítési megbízottjának nevét és telefaxszámát vagy elektronikus levélcímét.
+(4) A fellebbezés, illetve a bírósági felülvizsgálati kérelem tartalmazhatja benyújtójának elektronikus levélcímét vagy postai értesítési címét.
 
 (5) A bírósági felülvizsgálati eljárásban az ügyvédi képviselet kötelező. A jogi szakvizsgával rendelkező személy – a szakvizsga-bizonyítvány egyszerű másolatának csatolásával – saját ügyében ügyvédi képviselet nélkül is eljárhat.

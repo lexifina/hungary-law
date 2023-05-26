@@ -8,4 +8,4 @@ b) a jogsértőt eltiltja a további jogszabálysértéstől,
 
 c) a választási eljárást vagy annak a jogorvoslattal érintett részét megsemmisíti és megismételteti,
 
-d) a választási kampány szabályainak megsértése, illetve a 124. § (2) bekezdésében és a 155. §-ban foglalt kötelezettség megszegése esetén bírságot is kiszabhat.
+d) a választási kampány szabályainak megsértése, illetve a 155. §-ban foglalt kötelezettség megszegése esetén bírságot is kiszabhat.

@@ -22,6 +22,6 @@ b) elnöke az őt a bizottság tagjának megválasztó képviselő-testület, k�
 
 címzett, a választási iroda vezetőjéhez benyújtott írásbeli nyilatkozattal mondhat le megbízatásáról. A lemondás nem vonható vissza. A megbízatás a nyilatkozat átvételének napján szűnik meg.
 
-(4) A megbízatás (1) bekezdés a) és c)–f) pontja szerinti megszűnését a választási bizottság elnöke a bizottság soron következő ülésén bejelenti. A megbízatás megszűnését a bizottság jegyzőkönyvbe foglalt döntéssel tudomásul veszi.
+(4) A megbízatás (1) bekezdés a) és c)–f) pontja szerinti megszűnését a választási bizottság elnöke a bizottság soron következő ülésén bejelenti.
 
 (5) E § rendelkezéseit a póttagokra is alkalmazni kell.

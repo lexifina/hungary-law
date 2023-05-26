@@ -21,3 +21,5 @@ c) a helyi választási bizottság döntése elleni fellebbezésről, valamint a
 a) minden olyan kifogásról, amely nem tartozik az (1) vagy a (2) bekezdés alá, és az elkövetés helye nem határozható meg,
 
 b) a területi választási bizottság döntése elleni fellebbezésről.
+
+(4) A helyi önkormányzati képviselők és polgármesterek választásának, valamint a nemzetiségi önkormányzati képviselők választásának eredménye elleni bírósági felülvizsgálat iránti kérelemről a Kúria legkésőbb a kérelem beérkezésétől számított nyolcadik napon dönt.
