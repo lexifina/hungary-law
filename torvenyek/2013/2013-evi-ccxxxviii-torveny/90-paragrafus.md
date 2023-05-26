@@ -4,4 +4,4 @@
 
 (2) Az e fejezetben a helyi választási bizottság számára megállapított hatáskört a területi választási bizottság, a területi választási bizottság számára megállapított hatáskört a Nemzeti Választási Bizottság, a helyi választási iroda és annak vezetője számára megállapított hatáskört a területi választási iroda és vezetője gyakorolja.
 
-(3) Az e fejezetben a törvényszék számára megállapított hatáskört a Kúria gyakorolja.
+(3)
