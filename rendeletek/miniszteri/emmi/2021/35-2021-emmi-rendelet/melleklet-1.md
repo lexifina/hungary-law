@@ -1,3 +1,3 @@
-1. melléklet a 35/2021. (VIII. 16.) EMMI rendelethez[^58]
+1. melléklet a 35/2021. (VIII. 16.) EMMI rendelethez[^56]
 
-[^58]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^56]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
