@@ -2,34 +2,34 @@
 
 67. § Hatályát veszti a választási eljárásról szóló 2013. évi XXXVI. törvény
 
-1. 3. § (2) bekezdése,
+1.
 
 2. 30. § (3) bekezdésében a „ , magyarországi lakcímét” szövegrész,
 
 3. 89. § (2) bekezdése,
 
-4. 106. § (2) bekezdésében a „– vagy megbízása alapján a területi választási iroda –” szövegrész,
+4.
 
-5. 115. § (2) bekezdésében az „értesítési címére, ennek hiányában” szövegrész,
+5.
 
-6. 115. § (4) bekezdésében az „a helyi választási irodától” szövegrész,
+6.
 
-7. 116. § (1) bekezdésében a „helyi” szövegrész,
+7.
 
-8. 120. § (3) bekezdés c) pontja,
+8.
 
-9. 129. § (1) bekezdés c) pontja,
+9.
 
 10. 218. § (2) bekezdés d) pontjában a „124. § (2) bekezdésében és a” szövegrész,
 
-11. 224. § (3) bekezdés b) pontjában az „és – ha a lakcímétől (székhelyétől) eltér – postai értesítési címét” szövegrész,
+11.
 
-12. 259. § (3) bekezdésében az „a 92. § (1) vagy (3) bekezdésében foglalt adatokon túl” szövegrész,
+12.
 
-13. 267/A. §-ában az „ , illetve – a 263. §-ban foglalt rendelkezés alkalmazásával – továbbítja” szövegrész,
+13.
 
-14. 268. § (2) bekezdése,
+14.
 
-15. 296. § (1) bekezdése,
+15.
 
-16. 334. § (1) bekezdés nyitó szövegrészében az „a 92. § (1) vagy (3) bekezdésében foglalt adatokon túl” szövegrész,
+16.
