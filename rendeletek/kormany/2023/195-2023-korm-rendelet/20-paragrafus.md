@@ -1,3 +1,3 @@
-20. § A 17/2017. (II. 1.) Korm. rendelet a következő 10. §-sal egészül ki:
+20. §[^21]
 
-„10. § E rendeletnek az egyes fejlesztéspolitikai tárgyú kormányrendeletek, továbbá a Nemzeti Hírközlési és Informatikai Tanácsról, valamint a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság és a kormányzati informatikai beszerzések központosított közbeszerzési rendszeréről szóló 301/2018. (XII. 27.) Korm. rendelet módosításáról szóló 195/2023. (V. 22.) Korm. rendelettel [a továbbiakban: 195/2023. (V. 22.) Korm. rendelet] megállapított rendelkezéseit a 195/2023. (V. 22.) Korm. rendelet hatálybalépését követően benyújtott, a 272/2014. (XI. 5.) Korm. rendelet szerinti szerződésmódosítási kérelmek esetén kell alkalmazni.”
+[^21]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

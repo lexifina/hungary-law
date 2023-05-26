@@ -1,3 +1,3 @@
-6. § A 272/2014. (XI. 5.) Korm. rendelet 87. §-a a következő (1j) bekezdéssel egészül ki:
+6. §[^7]
 
-„(1j) Nem minősül költségnövekménynek, ha a többlettámogatás a projekt műszaki-szakmai tartalmának bővítését szolgálja.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

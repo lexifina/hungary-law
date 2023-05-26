@@ -1,3 +1,3 @@
-37. § A 256/2021. (V. 18.) Korm. rendelet 106. §-a a következő h) ponttal egészül ki:
+37. §[^38]
 
-(Az irányító hatóság olyan értékelési szempontokat alkalmaz, amelyek)
+[^38]: A 37. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

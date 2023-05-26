@@ -1,3 +1,3 @@
-10. § A 272/2014. (XI. 5.) Korm. rendelet 146. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+10. §[^11]
 
-(A helyszíni ellenőrzések során ellenőrizni kell különösen)
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

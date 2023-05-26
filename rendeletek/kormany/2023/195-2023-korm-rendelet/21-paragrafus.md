@@ -1,9 +1,3 @@
-21. § A 17/2017. (II. 1.) Korm. rendelet
+21. §[^22]
 
-a) 3. § (1) bekezdésében a „15%-át” szövegrész helyébe a „30%-át” szöveg,
-
-b) 6. §-ában a „3–5. §-t megfelelően alkalmazni” szövegrész helyébe a „3. és 4. §-t alkalmazni” szöveg,
-
-c) 6/A. §-ában az „az” szövegrész helyébe az „a” szöveg
-
-lép.
+[^22]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

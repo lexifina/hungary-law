@@ -1,3 +1,3 @@
-34. § A 256/2021. (V. 18.) Korm. rendelet a következő 64/A. §-sal egészül ki:
+34. §[^35]
 
-„64/A. § Az e rendelet szerinti, napokban megállapított határidőbe nem számít bele a Kormány által elrendelt igazgatási szünet időtartama.”
+[^35]: A 34. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

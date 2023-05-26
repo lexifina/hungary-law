@@ -1,3 +1,3 @@
-52. § A 256/2021. (V. 18.) Korm. rendelet 249. §-a a következő (3a) bekezdéssel egészül ki:
+52. §[^53]
 
-„(3a) Projektfejlesztés esetén a támogatási szerződés projektfejlesztést lezáró módosításáig kizárólag a projekt előkészítési költségeire igényelhető támogatási előleg.”
+[^53]: Az 52. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

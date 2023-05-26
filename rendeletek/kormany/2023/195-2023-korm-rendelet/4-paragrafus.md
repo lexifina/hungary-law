@@ -1,3 +1,3 @@
-4. § A 272/2014. (XI. 5.) Korm. rendelet 3. § (1) bekezdés 41. pontja helyébe a következő rendelkezés lép:
+4. §[^5]
 
-(E rendelet alkalmazásában)
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

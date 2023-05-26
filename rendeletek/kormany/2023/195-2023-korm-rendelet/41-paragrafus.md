@@ -1,3 +1,3 @@
-41. § A 256/2021. (V. 18.) Korm. rendelet 168. § (4) bekezdése helyébe a következő rendelkezés lép:
+41. §[^42]
 
-„(4) Nem minősül költségnövekménynek, ha a többlettámogatás a projekt műszaki-szakmai tartalmának bővítését szolgálja.”
+[^42]: A 41. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

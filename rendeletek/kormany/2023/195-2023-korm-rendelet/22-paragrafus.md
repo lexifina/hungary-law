@@ -1,5 +1,3 @@
-22. § Hatályát veszti a 17/2017. (II. 1.) Korm. rendelet
+22. §[^23]
 
-a) 3. § (3) bekezdése,
-
-b) 5. §-a.
+[^23]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

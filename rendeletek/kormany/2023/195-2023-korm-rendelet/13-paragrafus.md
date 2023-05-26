@@ -1,3 +1,3 @@
-13. § A 272/2014. (XI. 5.) Korm. rendelet 199. §-a a következő (1a) bekezdéssel egészül ki:
+13. §[^14]
 
-„(1a) Az e rendelet szerinti, napokban megállapított határidőbe nem számít bele a Kormány által elrendelt igazgatási szünet időtartama.”
+[^14]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

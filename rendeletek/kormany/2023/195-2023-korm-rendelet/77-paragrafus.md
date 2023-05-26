@@ -1,1 +1,3 @@
-77. § Hatályát veszti a 373/2022. (IX. 30.) Korm. rendelet 114. § (2) bekezdése.
+77. §[^78]
+
+[^78]: A 77. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

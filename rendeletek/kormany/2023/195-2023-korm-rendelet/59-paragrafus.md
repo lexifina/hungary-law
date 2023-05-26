@@ -1,3 +1,3 @@
-59. § A 256/2021. (V. 18.) Korm. rendelet 372. § (5) bekezdése helyébe a következő rendelkezés lép:
+59. §[^60]
 
-„(5) A kifogást a benyújtója mindaddig visszavonhatja, amíg a kifogás elbírálása nem történt meg. A visszavont kifogást nem lehet ismételten benyújtani.”
+[^60]: Az 59. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

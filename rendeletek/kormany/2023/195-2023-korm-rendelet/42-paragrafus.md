@@ -1,3 +1,3 @@
-42. § A 256/2021. (V. 18.) Korm. rendelet 171. §-a a következő (1a) bekezdéssel egészül ki:
+42. §[^43]
 
-„(1a) Ha a költségnövekmény jogszabályban meghatározott építőanyag vagy termék árának emelkedésével függ össze, amelynek alátámasztását a jogszabály szerint kérelmezték, akkor a költségnövekmény piaci árnak megfelelése szempontjából az építésgazdaságért felelős miniszter szakvéleménye irányadó.”
+[^43]: A 42. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

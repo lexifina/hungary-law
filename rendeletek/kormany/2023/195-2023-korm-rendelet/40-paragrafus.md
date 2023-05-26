@@ -1,3 +1,3 @@
-40. § A 256/2021. (V. 18.) Korm. rendelet 162. §-a a következő (2a) bekezdéssel egészül ki:
+40. §[^41]
 
-„(2a) Ha az irányító hatóság nem járul hozzá az új kedvezményezett támogatási jogviszonyba történő belépéséhez, akkor elállhat a támogatási szerződéstől.”
+[^41]: A 40. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

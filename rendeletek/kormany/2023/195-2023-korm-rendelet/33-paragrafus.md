@@ -1,3 +1,3 @@
-33. § A 256/2021. (V. 18.) Korm. rendelet 63. §-a a következő (1a) bekezdéssel egészül ki:
+33. §[^34]
 
-„(1a) Ha a határidő kezdőnapja nem munkanap, a határidő a következő munkanapon kezdődik.”
+[^34]: A 33. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
