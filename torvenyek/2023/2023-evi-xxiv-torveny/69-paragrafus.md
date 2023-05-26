@@ -1,0 +1,3 @@
+69. § A népszavazás kezdeményezéséről, az európai polgári kezdeményezésről, valamint a népszavazási eljárásról szóló 2013. évi CCXXXVIII. törvény 19. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A szervező az aláírásgyűjtő ívek 14. § (1) vagy (2) bekezdésben meghatározott átvételét, de legkésőbb a 14. § (1) bekezdésében meghatározott eseményt követő tizedik napot követő százhúsz napon belül, egy alkalommal nyújthatja be a népszavazás kitűzésére irányuló állampolgári kezdeményezés aláírásgyűjtő íveit a Nemzeti Választási Irodához az aláírások ellenőrzése céljából. E határidőbe a 18. § (1) bekezdésében meghatározott időtartam és a 19/B. § (6) bekezdés b) pontja szerinti szünetelés nem számít bele.”
