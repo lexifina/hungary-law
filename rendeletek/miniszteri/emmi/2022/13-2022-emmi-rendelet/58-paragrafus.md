@@ -1,4 +1,4 @@
-## 57. §
+## 57. § Az egyes orvostechnikai eszközökkel összefüggő miniszteri rendeletek jogharmonizációs célú módosításáról szóló 35/2021. (VIII. 16.) EMMI rendelet 4. melléklete a 4. melléklet szerinti szöveggel lép hatályba.
 
 ## 14. Záró rendelkezések
 

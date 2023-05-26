@@ -1,6 +1,5 @@
 ## 56. §[^56]
 
-## 13.[^57]
+## 13. Az egyes orvostechnikai eszközökkel összefüggő miniszteri rendeletek jogharmonizációs célú módosításáról szóló 35/2021. (VIII. 16.) EMMI rendelet eltérő szöveggel történő hatályba léptetéséről
 
 [^56]: Az 56. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^57]: A 13. alcím (57. §) az 59. § (2) bekezdése alapján 2023. május 26-án lép hatályba.
