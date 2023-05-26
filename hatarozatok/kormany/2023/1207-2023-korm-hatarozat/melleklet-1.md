@@ -16,6 +16,8 @@
 
 ## d) egyetért azzal, hogy a belügyminiszter a c) alpont szerinti egyedi költségvetési támogatást a támogatói okirat kiadását követően folyósítsa az érintett vármegyei önkormányzatok számára.
 
-## 2. A Központi Maradványelszámolási Alapból és a Gazdaság-újraindítási programok előirányzatból történő átcsoportosításról szóló 1366/2021. (VI. 9.) Korm. határozat 3. pontjában az „ingatlanvásárlásának támogatása” szövegrész helyébe az „ingatlanvásárlásának, útfelújításának és csapadékvíz-elvezetés építésének támogatása” szöveg lép.
+## 2.[^1]
 
 1. melléklet az 1207/2023. (V. 25.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
