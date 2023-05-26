@@ -2,7 +2,7 @@
 
 ## I.
 
-## 2X07703M.docx
+## 3X03005N.docx
 
 |  | MNB azonosító kód | Megnevezés | Az adatszolgáltatók köre | Az adatszolgáltatás |
 
@@ -202,7 +202,7 @@
 
 | 96 | P61 | Bankváltás statisztika | fizetési rendszer működtetését végző szervezet | havi | elektronikus úton (ERA rendszer) | a tárgyidőszakot követő hónap 10. munkanap |
 
-| 97 | P64 | Pénzforgalmi szolgáltatói tájékoztatás súlyosabb működési, biztonsági eseményről | pénzforgalmi szolgáltató, az ezen típusú EGT-fióktelep | eseti | elektronikus úton (ERA rendszer, űrlap), fokozott biztonságú vagy minősített elektronikus aláírással ellátva, és a kezdeti jelentés tekintetében titkosított elektronikus levél | kezdeti jelentés: a minősítést követő 4 órán belül; időközi jelentés: a kitöltési előírások eltérő rendelkezése hiányában a kezdeti jelentés beküldését követő 3 munkanapon belül; záró jelentés: a kitöltési előírások eltérő rendelkezése hiányában a működés szokásos szintjének helyreállítását követő 20 munkanapon belül, visszaminősítés esetén a visszaminősítést követő 1 órán belül; eseti kiértékelés: az MNB felhívását követő 20 munkanapon belül; |
+| 97 | P64 | Pénzforgalmi szolgáltatói tájékoztatás súlyosabb működési, biztonsági eseményről | pénzforgalmi szolgáltató, az ezen típusú EGT-fióktelep | eseti | elektronikus úton (ERA rendszer, űrlap) | kezdeti jelentés: a minősítést követő 4 órán belül; időközi jelentés: a kitöltési előírások eltérő rendelkezése hiányában a kezdeti jelentés beküldését követő 3 munkanapon belül; záró jelentés: a kitöltési előírások eltérő rendelkezése hiányában a működés szokásos szintjének helyreállítását követő 20 munkanapon belül, visszaminősítés esetén a visszaminősítést követő 1 órán belül; eseti kiértékelés: az MNB felhívását követő 20 munkanapon belül; |
 
 | 98 | P65 | Meg nem térített fizetési műveletek | számlavezető pénzforgalmi szolgáltató, az ezen típusú EGT-fióktelep | eseti | elektronikus úton (ERA rendszer) | az ügyfél bejelentését követő munkanap |
 
@@ -338,4 +338,4 @@
 
 2. melléklet az 54/2021. (XI. 23.) MNB rendelethez[^8]
 
-[^8]: A 2. melléklet a 62/2021. (XII. 9.) MNB rendelet 3. §-a, a 22/2022. (VI. 11.) MNB rendelet 5. §-a, a 44/2022. (IX. 30.) MNB rendelet 3. §-a, a 49/2022. (XI. 22.) MNB rendelet 1. § b) pontja, az 58/2022. (XII. 22.) MNB rendelet 2. §-a szerint módosított szöveg. [ A 2. melléklet I.A.!. pontjában a 49/2022. (XI. 22.) MNB rendelet 1. § b) pontja (2. melléklet 29. pont a) alpontja által elrendelt módosítás, amely szerint a „szervezetekről is listát publikál az 5.2.2. alpontban foglaltak szerint” szövegrész helyébe a „szervezeteket is felteszi a 3. melléklet 1. pontja szerinti, az MNB honlapján közzétett listára” szöveg lép, nem vezethető át. ]
+[^8]: A 2. melléklet a 62/2021. (XII. 9.) MNB rendelet 3. §-a, a 22/2022. (VI. 11.) MNB rendelet 5. §-a, a 44/2022. (IX. 30.) MNB rendelet 3. §-a, a 49/2022. (XI. 22.) MNB rendelet 1. § b) pontja, az 58/2022. (XII. 22.) MNB rendelet 2. §-a, a 21/2023. (V. 11.) MNB rendelet 1. §-a szerint módosított szöveg. [ A 2. melléklet I.A.!. pontjában a 49/2022. (XI. 22.) MNB rendelet 1. § b) pontja (2. melléklet 29. pont a) alpontja által elrendelt módosítás, amely szerint a „szervezetekről is listát publikál az 5.2.2. alpontban foglaltak szerint” szövegrész helyébe a „szervezeteket is felteszi a 3. melléklet 1. pontja szerinti, az MNB honlapján közzétett listára” szöveg lép, nem vezethető át. ]
