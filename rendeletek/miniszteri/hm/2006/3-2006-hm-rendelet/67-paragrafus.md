@@ -6,14 +6,14 @@ a) a repülési tervek (FPL) vétele, ellenőrzése és továbbítása az érint
 
 b) légtérigénylések vétele, ellenőrzése és továbbítása az érintettek felé;
 
-c)[^67] a MILAIP módosításához és kiegészítéséhez, valamint a katonai NOTAM-okhoz szükséges repülőtérre vonatkozó változások továbbítása a katonai légiforgalmi tájékoztató szolgálat számára;
+c)[^68] a MILAIP módosításához és kiegészítéséhez, valamint a katonai NOTAM-okhoz szükséges repülőtérre vonatkozó változások továbbítása a katonai légiforgalmi tájékoztató szolgálat számára;
 
-d)[^68] a Repülés Előtti Tájékoztató Bulletin (PIB) összeállítása és repülés előtti tájékoztatás (Pre-Flight Information, Pre-Flight Briefing) a légijármű személyzetek számára;
+d)[^69] a Repülés Előtti Tájékoztató Bulletin (PIB) összeállítása és repülés előtti tájékoztatás (Pre-Flight Information, Pre-Flight Briefing) a légijármű személyzetek számára;
 
-e)[^69] a légiforgalmi tájékoztatásokban szereplő információk pontatlanságra utaló repülés utáni tájékoztatás (Post Flight Information) vétele a légijármű személyzetektől, a pontatlanságra utaló információk továbbítása a katonai légiforgalmi tájékoztató szolgálat számára;
+e)[^70] a légiforgalmi tájékoztatásokban szereplő információk pontatlanságra utaló repülés utáni tájékoztatás (Post Flight Information) vétele a légijármű személyzetektől, a pontatlanságra utaló információk továbbítása a katonai légiforgalmi tájékoztató szolgálat számára;
 
 f) légiforgalmi tájékoztatások nyújtása a légijármű személyzetek, a légiközlekedésben érintett szolgálatok és személyek számára.
 
-[^67]: A 67. § c) pontja a rendelet 85. § (2) bekezdése alapján 2007. január 1-jén lép hatályba.
-[^68]: A 67. § d) pontja a rendelet 85. § (2) bekezdése alapján 2007. január 1-jén lép hatályba.
-[^69]: A 67. § e) pontja a rendelet 85. § (2) bekezdése alapján 2007. január 1-jén lép hatályba.
+[^68]: A 67. § c) pontja a rendelet 85. § (2) bekezdése alapján 2007. január 1-jén lép hatályba.
+[^69]: A 67. § d) pontja a rendelet 85. § (2) bekezdése alapján 2007. január 1-jén lép hatályba.
+[^70]: A 67. § e) pontja a rendelet 85. § (2) bekezdése alapján 2007. január 1-jén lép hatályba.

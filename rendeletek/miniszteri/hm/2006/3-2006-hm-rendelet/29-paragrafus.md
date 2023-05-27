@@ -7,3 +7,5 @@
 a) katonai légijármű vezetők esetében az üzemben tartó,
 
 b) rendvédelmi légijármű vezetők esetében az üzemeltető
+
+végzi, illetve határozza meg.

@@ -22,7 +22,7 @@ i) az összesített kiképzési nyilvántartót nevekkel, azonosítókkal, iskol
 
 a) a vonatkozó utasítások és intézkedések,
 
-b)[^35] szolgálati intézkedés, együttműködési megállapodások,
+b)[^36] szolgálati intézkedés, együttműködési megállapodások,
 
 c) repülőtérrend,
 
@@ -32,4 +32,4 @@ e) nagy méretarányú térkép és szektorokra osztott repülőtérvázlat a k�
 
 f) egyéb, hasznos információkat tartalmazó táblázatok, emlékeztetők (pl. frekvencia táblázat, földi mozgás nyilvántartó tábla).
 
-[^35]: A 45. § (2) bekezdésének b) pontja a 12/2009. (VIII. 19.) HM rendelet 16. §-ával megállapított szöveg.
+[^36]: A 45. § (2) bekezdésének b) pontja a 12/2009. (VIII. 19.) HM rendelet 16. §-ával megállapított szöveg.

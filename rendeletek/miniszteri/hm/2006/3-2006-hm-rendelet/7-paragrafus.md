@@ -10,15 +10,15 @@ a) a műveleti feladat során a végrehajtással kapcsolatos kérdésekben való
 
 b) a szakszemélyzet felkészítése és felkészültségének ellenőrzése;
 
-c)[^4] a honvédelmi célú légi közlekedés területén a műveleti repülési feladat kivételével a feladat végrehajtásának megtagadása, ha az üzemelési és működési körülmények nem felelnek meg a repülési szabályokban leírtaknak, vagy veszélyeztetik a repülés biztonságát;
+c)[^5] a honvédelmi célú légi közlekedés területén a műveleti repülési feladat kivételével a feladat végrehajtásának megtagadása, ha az üzemelési és működési körülmények nem felelnek meg a repülési szabályokban leírtaknak, vagy veszélyeztetik a repülés biztonságát;
 
 d) a személyzet tagjainak értékelése a repülési feladat végrehajtását követően.
 
 (2) A légijármű kötelék parancsnok joga és kötelessége az (1) bekezdésben foglaltakon túl:
 
-a)[^5] a kötelékrepülés egészének a repülési feladatban foglaltak szerinti végrehajtása, a kötelék más légi járművektől és akadályoktól való elkülönítése;
+a)[^6] a kötelékrepülés egészének a repülési feladatban foglaltak szerinti végrehajtása, a kötelék más légi járművektől és akadályoktól való elkülönítése;
 
-b)[^6] a kötelékbe tartozó gépszemélyzetek részére a repülési feladattal kapcsolatos utasítások és parancsok kiadása a felkészülés során, valamint a repülés időtartama alatt.
+b)[^7] a kötelékbe tartozó gépszemélyzetek részére a repülési feladattal kapcsolatos utasítások és parancsok kiadása a felkészülés során, valamint a repülés időtartama alatt.
 
 (3) Az üzemeltető:
 
@@ -38,7 +38,7 @@ a) felelős az állami légijárművek üzemeltetését, üzemben tartását meg
 
 b) köteles az állami légijárművek tulajdonosi jogait gyakorolni, valamint az üzemeltetés, üzemben tartás feltételeit előírni.
 
-(6)[^7] A katonai repülésirányító és a repülésvezető szolgálat tagja
+(6)[^8] A katonai repülésirányító és a repülésvezető szolgálat tagja
 
 a) a kezelése alatt álló légi járművek vonatkozásában felelős a repülési szabályok betartásáért és betartatásáért, valamint a repülések biztonságának elősegítéséért;
 
@@ -50,7 +50,7 @@ bb) a feladat befejezésére utasítást adni, amennyiben a légijármű-vezető
 
 c) jogosult a szolgáltatás csökkentésére vagy felfüggesztésére, gyakorló repülés esetén a feladat végrehajtásának megtagadására, amennyiben a tevékenységet biztosító híradó, illetve radar berendezések, meteorológiai mérőrendszerek nem az előírásoknak megfelelően üzemelnek, és veszélyeztetik a repülések biztonságát.
 
-[^4]: A 7. § (1) bekezdésének c) pontja a 12/2009. (VIII. 19.) HM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^5]: A 7. § (2) bekezdésének a) pontja a 12/2009. (VIII. 19.) HM rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^6]: A 7. § (2) bekezdésének b) pontja a 12/2009. (VIII. 19.) HM rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^7]: A 7. § (6) bekezdését a 12/2009. (VIII. 19.) HM rendelet 2. § (3) bekezdése iktatta be.
+[^5]: A 7. § (1) bekezdésének c) pontja a 12/2009. (VIII. 19.) HM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^6]: A 7. § (2) bekezdésének a) pontja a 12/2009. (VIII. 19.) HM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^7]: A 7. § (2) bekezdésének b) pontja a 12/2009. (VIII. 19.) HM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^8]: A 7. § (6) bekezdését a 12/2009. (VIII. 19.) HM rendelet 2. § (3) bekezdése iktatta be.

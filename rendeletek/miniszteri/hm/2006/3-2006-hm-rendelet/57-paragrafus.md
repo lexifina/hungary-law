@@ -2,21 +2,21 @@
 
 a) a szolgáltatott magassági információk a következők:
 
-aa)[^39] a bejövetel megkezdése előtt a szolgálat ismerteti a MAP-ot,
+aa)[^40] a bejövetel megkezdése előtt a szolgálat ismerteti a MAP-ot,
 
-ab)[^40] a szolgálat megadja az adott eljárás OCA/OCH értékét a légi jármű kategóriájának megfelelően, amelyre a légi jármű vezetője MDA/MDH értékkel válaszol; amennyiben az MDA/MDH érték nem került meghatározásra, az OCA/OCH érték az irányadó, mely alá kerülni a megszakított megközelítési eljárás során tilos,
+ab)[^41] a szolgálat megadja az adott eljárás OCA/OCH értékét a légi jármű kategóriájának megfelelően, amelyre a légi jármű vezetője MDA/MDH értékkel válaszol; amennyiben az MDA/MDH érték nem került meghatározásra, az OCA/OCH érték az irányadó, mely alá kerülni a megszakított megközelítési eljárás során tilos,
 
-ac)[^41] a szolgálat a süllyedés kezdőpontjának elérése előtt figyelmezteti a légijármű-vezetőt a süllyedés megkezdésére, és megadja a süllyedés kezdőpontjáig hátralévő távolságot,
+ac)[^42] a szolgálat a süllyedés kezdőpontjának elérése előtt figyelmezteti a légijármű-vezetőt a süllyedés megkezdésére, és megadja a süllyedés kezdőpontjáig hátralévő távolságot,
 
-ad)[^42] legalább két kilométerenként a szolgálat tájékoztat a siklópálya javasolt magasságáról;
+ad)[^43] legalább két kilométerenként a szolgálat tájékoztat a siklópálya javasolt magasságáról;
 
 b) utasítás a süllyedésre a következők szerint történik:
 
 ba) a süllyedési utasítás kiadása előtt, a kezdőponttól számított 2–5 km távolságra, a szolgálat figyelmezteti a légijármű vezetőt, hogy közeledik a siklópálya keresztezésének a pontjához,
 
-bb)[^43] a süllyedést a szolgálat az MDA/MDH vagy OCA/OCH értékig engedélyezi, mely alá kerülni a megszakított megközelítési eljárás során tilos;
+bb)[^44] a süllyedést a szolgálat az MDA/MDH vagy OCA/OCH értékig engedélyezi, mely alá kerülni a megszakított megközelítési eljárás során tilos;
 
-c)[^44] a futópálya tengelyéhez viszonyított helyzetről a szolgálat 15 másodperces gyakorisággal ad tájékoztatást;
+c)[^45] a futópálya tengelyéhez viszonyított helyzetről a szolgálat 15 másodperces gyakorisággal ad tájékoztatást;
 
 d) a szolgálat szükség esetén irányhelyesbítési utasítást ad, tájékoztatja a légijármű személyzetét a futópálya tengelyéhez viszonyított helyzetéről, valamint a helyesbítés mértékéről;
 
@@ -30,7 +30,7 @@ fb) ha a MAP biztonságos megközelítése kétségesnek látszik,
 
 fc) a MAP elérésekor.
 
-(2)[^45] A PAR bejövetelek során a bevezető irányító:
+(2)[^46] A PAR bejövetelek során a bevezető irányító:
 
 a) a siklópálya elérése előtt 10–30 másodperccel figyelmezteti a légi jármű vezetőjét, hogy közelít a süllyedés kezdőpontjához;
 
@@ -64,10 +64,10 @@ c) forgalmi konfliktus miatt;
 
 d) egyéb okból.
 
-[^39]: Az 57. § (1) bekezdésének aa) alpontja a 12/2009. (VIII. 19.) HM rendelet 18. § (1) bekezdésével megállapított szöveg.
-[^40]: Az 57. § (1) bekezdésének ab) alpontja a 12/2009. (VIII. 19.) HM rendelet 18. § (1) bekezdésével megállapított szöveg.
-[^41]: Az 57. § (1) bekezdésének ac) alpontja a 12/2009. (VIII. 19.) HM rendelet 18. § (1) bekezdésével megállapított szöveg.
-[^42]: Az 57. § (1) bekezdésének ad) alpontját a 12/2009. (VIII. 19.) HM rendelet 18. § (1) bekezdése iktatta be.
-[^43]: Az 57. § (1) bekezdésének bb) alpontja a 12/2009. (VIII. 19.) HM rendelet 18. § (2) bekezdésével megállapított szöveg.
-[^44]: Az 57. § (1) bekezdésének c) pontja a 12/2009. (VIII. 19.) HM rendelet 18. § (3) bekezdésével megállapított szöveg.
-[^45]: Az 57. § (2) bekezdése a 12/2009. (VIII. 19.) HM rendelet 18. § (4) bekezdésével megállapított szöveg.
+[^40]: Az 57. § (1) bekezdésének aa) alpontja a 12/2009. (VIII. 19.) HM rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^41]: Az 57. § (1) bekezdésének ab) alpontja a 12/2009. (VIII. 19.) HM rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^42]: Az 57. § (1) bekezdésének ac) alpontja a 12/2009. (VIII. 19.) HM rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^43]: Az 57. § (1) bekezdésének ad) alpontját a 12/2009. (VIII. 19.) HM rendelet 18. § (1) bekezdése iktatta be.
+[^44]: Az 57. § (1) bekezdésének bb) alpontja a 12/2009. (VIII. 19.) HM rendelet 18. § (2) bekezdésével megállapított szöveg.
+[^45]: Az 57. § (1) bekezdésének c) pontja a 12/2009. (VIII. 19.) HM rendelet 18. § (3) bekezdésével megállapított szöveg.
+[^46]: Az 57. § (2) bekezdése a 12/2009. (VIII. 19.) HM rendelet 18. § (4) bekezdésével megállapított szöveg.
