@@ -3,3 +3,5 @@
 a) nem teljesíti a tevékenységi engedély kiadásának alapjául szolgáló feltételeket,
 
 b) a légifuvarozó a tevékenységi engedélyben foglaltaktól eltérően végzi a tevékenységét
+
+3 hónapot meg nem haladó határidő tűzésével kötelezi a hiányosságok megszüntetésére, illetve a tevékenységi engedélyben foglaltaknak megfelelő működésre.

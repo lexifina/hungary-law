@@ -28,9 +28,9 @@ j) ellenőrzi az 57/2016. (XII. 22.) NFM rendelet 14. mellékletének 1. pontjá
 
 k)[^2] elvégzi az (EU) 2017/373 bizottsági végrehajtási rendelet 8. cikk (2) bekezdésében meghatározott feladatot.
 
-l)[^3] kiadja a magyar légtér légiközlekedés céljára történő kijelöléséről szóló miniszteri rendelet szerinti koordinált légtér koordinációs feladatait ellátó szervezeti engedélyt, a Drop Zone légtér koordinációs feladatait ellátó szervezeti engedélyt, valamint a versenylégtér koordinációs feladatait ellátó szervezeti engedélyt.
+l)[^3] kiadja a magyar légtér légiközlekedés céljára történő kijelöléséről szóló miniszteri rendelet szerinti koordinált légtér (a továbbiakban: koordinált légtér) koordinációs feladatait ellátó szervezet engedélyét, Drop Zone légtér koordinációs feladatait ellátó szervezet engedélyét, a versenylégtér koordinációs feladatait ellátó szervezet engedélyét, valamint a tanúsítási célú veszélyes légtér koordinációs feladatait ellátó szervezet engedélyét.
 
 (2) Mindazon hatósági eljárásokban, amelyek e rendelet hatálya alá tartoznak és amelyek ügyintézési határidejéről törvény nem rendelkezik, az ügyintézési határidő 25 nap.
 
 [^2]: A 2. § (1) bekezdés k) pontját a 402/2020. (VIII. 17.) Korm. rendelet 7. §-a iktatta be.
-[^3]: A 2. § (1) bekezdés l) pontját a 713/2020. (XII. 30.) Korm. rendelet 58. § (1) bekezdése iktatta be, szövege a 609/2021. (XI. 5.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^3]: A 2. § (1) bekezdés l) pontját a 713/2020. (XII. 30.) Korm. rendelet 58. § (1) bekezdése iktatta be, szövege a 199/2023. (V. 22.) Korm. rendelet 4. §-ával megállapított szöveg.

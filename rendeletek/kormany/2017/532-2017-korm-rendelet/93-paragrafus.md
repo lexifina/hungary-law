@@ -8,6 +8,6 @@ b) a tanúsítás engedélyese az időbeli hatály utolsó évében részt vett 
 
 c) az időbeli hatály utolsó évében az a) ponttal összhangban lefolytatott jártassági vizsgák, készségellenőrzések vagy gyakorlati vizsgák egyikét másik vizsgáztató felügyelte.
 
-## akkor a vizsgáztatói tanúsítást a légiközlekedési hatóság kérelemre 3 évre meghosszabbítja.
+akkor a vizsgáztatói tanúsítást a légiközlekedési hatóság kérelemre 3 évre meghosszabbítja.
 
 (3) A lejárt vizsgáztatói tanúsítást a légiközlekedési hatóság kérelemre megújítja, ha a kérelmező részt vett a légiközlekedési hatóság által szervezett ismeretfrissítő egységesítési tanfolyamon, valamint sikeresen teljesítette a Légijármű és repülőeszköz személyzeti rendelet 123. §-a szerinti kompetencia felmérést.

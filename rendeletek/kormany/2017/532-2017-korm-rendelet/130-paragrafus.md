@@ -4,7 +4,7 @@ a) megfelel a Légijármű műszaki alkalmassági rendeletben meghatározott kö
 
 b) az Lt. 46. § (5) bekezdése alapján elfogadta más állam illetékes hatóságának igazolását arról, hogy a típus a nemzetközi előírásoknak megfelel és a biztonságos repülésre, illetve rendeltetésszerű használatra alkalmas,
 
-## akkor a könnyű légijármű típusra a típusalkalmassági tanúsítványt határozatlan időtartamra kiadja.
+akkor a könnyű légijármű típusra a típusalkalmassági tanúsítványt határozatlan időtartamra kiadja.
 
 (2) A könnyű légijármű típusalkalmassági tanúsítványát magyar és angol nyelven kell kiállítani.
 

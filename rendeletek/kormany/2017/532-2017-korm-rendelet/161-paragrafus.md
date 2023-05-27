@@ -35,3 +35,5 @@ a) a fejlesztés befejeződött vagy eredménytelensége nyilvánvalóvá vált,
 b) a kérelmező a kísérleti tervben szereplő ütemezéstől több mint 6 hónappal eltért,
 
 c) a mentesítés feltételét képező előírásokat, korlátozásokat a kérelmező
+
+ismételten megsértette.

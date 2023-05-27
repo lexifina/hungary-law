@@ -6,7 +6,7 @@ a) repüléstájékoztató vizsga esetén repüléstájékoztató szakszolgálat
 
 b) légiforgalmi tiszt vizsga esetén legalább 3 éve érvényes légiforgalmi tiszt szakszolgálati engedéllyel, jogosítással és – amennyiben a jogosításhoz kapcsolódhat – jogosítás-kiterjesztéssel rendelkező személy
 
-## végzi.
+végzi.
 
 (3) A repüléstájékoztató gyakorlati vizsga során a gyakornok repüléstájékoztató valós forgalmi környezetben, munkahelyi gyakorlati oktató felügyelete mellett lát el szolgálati tevékenységet. A vizsgán a munkahelyi gyakorlati oktató abban az esetben ad utasítást a vizsgázónak, vagy akkor köteles átvenni a szolgálati tevékenység ellátását, ha az a repülésbiztonság érdekében szükséges.
 

@@ -1,5 +1,3 @@
-## ismételten megsértette.
-
 ## 58. A zajbizonyítvány
 
 162. § (1) A légiközlekedési hatóság a zajminősítés eredményéről zajbizonyítványt állít ki, magyar és angol nyelven.

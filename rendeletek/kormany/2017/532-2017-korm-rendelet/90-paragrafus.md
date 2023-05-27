@@ -8,7 +8,7 @@ c) a vezető beosztású személyek megváltozása vagy
 
 d) a szervezet nevének vagy telephelyének megváltozása
 
-## esetén a változást a képző szervezet akkor vezetheti be, ha a változást a légiközlekedési hatóság jóváhagyja. A jóváhagyás iránti kérelemhez csatolni kell a szervezet nyilatkozatát és indokolását arról, hogy a tervezett változás megvalósítása továbbra is biztosítja az e rendeletnek való megfelelést, a szervezet kézikönyveinek módosítással érintett cserelapjait és az e rendeletnek való megfelelést igazoló dokumentumokat. A légiközlekedési hatóság a változtatást akkor hagyja jóvá, ha az az e rendeletben foglalt követelményeknek megfelel.
+esetén a változást a képző szervezet akkor vezetheti be, ha a változást a légiközlekedési hatóság jóváhagyja. A jóváhagyás iránti kérelemhez csatolni kell a szervezet nyilatkozatát és indokolását arról, hogy a tervezett változás megvalósítása továbbra is biztosítja az e rendeletnek való megfelelést, a szervezet kézikönyveinek módosítással érintett cserelapjait és az e rendeletnek való megfelelést igazoló dokumentumokat. A légiközlekedési hatóság a változtatást akkor hagyja jóvá, ha az az e rendeletben foglalt követelményeknek megfelel.
 
 (2) A képző szervezet a vezető beosztású személyekkel kapcsolatban bekövetkezett, előre nem ismerhető változást az annak bekövetkezését követő 5 munkanapon belül bejelenti a légiközlekedési hatóságnak és kéri a módosítás jóváhagyását.
 
