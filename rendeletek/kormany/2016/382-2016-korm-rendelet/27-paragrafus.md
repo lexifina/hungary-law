@@ -1,3 +1,3 @@
-27. §[^184]
+27. §[^185]
 
-[^184]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^185]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

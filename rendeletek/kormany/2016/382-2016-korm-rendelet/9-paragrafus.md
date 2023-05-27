@@ -202,7 +202,7 @@ d) a polgári célú légiközlekedés földi létesítményeire és a polgári 
 
 86b.[^132] jóváhagyja a repülőtér létesítésének, fejlesztésének és megszüntetésének, valamint a leszállóhely létesítésének és megszüntetésének szabályairól szóló 159/2010. (V. 6.) Korm. rendelet 2. mellékletében foglalt Kényszerhelyzeti Tervet,
 
-86c.[^133] kiadja a magyar légtér légiközlekedés céljára történő kijelöléséről szóló miniszteri rendelet szerinti koordinált légtér koordinációs feladatait ellátó szervezeti engedélyt, a Drop Zone légtér koordinációs feladatait ellátó szervezeti engedélyt, valamint a versenylégtér koordinációs feladatait ellátó szervezeti engedélyt,
+86c.[^133] kiadja a magyar légtér légiközlekedés céljára történő kijelöléséről szóló miniszteri rendelet szerinti koordinált légtér koordinációs feladatait ellátó szervezet engedélyét, Drop Zone légtér koordinációs feladatait ellátó szervezet engedélyét, versenylégtér koordinációs feladatait ellátó szervezet engedélyét, valamint a tanúsítási célú veszélyes légtér koordinációs feladatait ellátó szervezet engedélyét,
 
 86d.[^134] jóváhagyja a léginavigációs szolgálatot és légiforgalmi szolgáltatást ellátó szakszemélyzet szakszolgálati engedélyéről és képzéséről szóló 17/2008. (IV. 30.) GKM rendelet 1. számú és 4. számú mellékletében jóváhagyáshoz kötött dokumentumokat.
 
@@ -210,9 +210,11 @@ d) a polgári célú légiközlekedés földi létesítményeire és a polgári 
 
 88.[^136] jóváhagyja a repülőtereken a kockázatértékelés alapján a megfigyelés és az őrjárat ellátásának gyakoriságát és módját,
 
-89.[^137] jóváhagyja a repülőtereken vagy a repülőterek elkülönített területein alkalmazott alternatív légiközlekedés védelmi intézkedéseket,
+88.[^137] jóváhagyja a magyar légtér légiközlekedés céljára történő kijelöléséről szóló miniszteri rendeletben meghatározott, a légiforgalmi szolgálat és a tanúsítási célú veszélyes légtér koordinációs feladatait ellátó szervezet közötti együttműködési megállapodást.
 
-90.[^138] lefolytatja az (EU) 2015/1998 bizottsági végrehajtási rendelet Melléklet 11.1.3. b) és d) pontja, valamint 11.1.4. b) pontja szerinti védelmi háttérellenőrzési eljárást.
+89.[^138] jóváhagyja a repülőtereken vagy a repülőterek elkülönített területein alkalmazott alternatív légiközlekedés védelmi intézkedéseket,
+
+90.[^139] lefolytatja az (EU) 2015/1998 bizottsági végrehajtási rendelet Melléklet 11.1.3. b) és d) pontja, valamint 11.1.4. b) pontja szerinti védelmi háttérellenőrzési eljárást.
 
 (5) A (4) bekezdés 7. pontjában megjelölt légiközlekedési akadálynak minősül minden olyan, a környezetéből kiemelkedő természeti objektum, építmény vagy mozgó tárgy, amely a légiközlekedés számára veszélyt jelenthet, ezért nyilvántartása és jelzéssel való ellátása indokolt.
 
@@ -259,9 +261,10 @@ eljárás során az ügyfél a kérelmet hiányosan nyújtotta be, a légiközle
 [^130]: A 9. § (4) bekezdés 86. pontját a 609/2021. (XI. 5.) Korm. rendelet 5. § (2) bekezdése iktatta be.
 [^131]: A 9. § (4) bekezdés 86a. pontját a 789/2021. (XII. 27.) Korm. rendelet 57. §-a iktatta be.
 [^132]: A 9. § (4) bekezdés 86b. pontját a 789/2021. (XII. 27.) Korm. rendelet 57. §-a iktatta be, szövege a 76/2023. (III. 10.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^133]: A 9. § (4) bekezdés 86c. pontját a 789/2021. (XII. 27.) Korm. rendelet 57. §-a iktatta be.
+[^133]: A 9. § (4) bekezdés 86c. pontját a 789/2021. (XII. 27.) Korm. rendelet 57. §-a iktatta be, szövege a 199/2023. (V. 22.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^134]: A 9. § (4) bekezdés 86d. pontját a 789/2021. (XII. 27.) Korm. rendelet 57. §-a iktatta be.
 [^135]: A 9. § (4) bekezdés 87. pontját a 609/2021. (XI. 5.) Korm. rendelet 5. § (3) bekezdése iktatta be.
 [^136]: A 9. § (4) bekezdés 88. pontját a 76/2023. (III. 10.) Korm. rendelet 2. § (4) bekezdése iktatta be.
-[^137]: A 9. § (4) bekezdés 89. pontját a 76/2023. (III. 10.) Korm. rendelet 2. § (4) bekezdése iktatta be.
-[^138]: A 9. § (4) bekezdés 90. pontját a 76/2023. (III. 10.) Korm. rendelet 2. § (4) bekezdése iktatta be.
+[^137]: A 9. § (4) bekezdés újabb 88. pontját a 199/2023. (V. 22.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^138]: A 9. § (4) bekezdés 89. pontját a 76/2023. (III. 10.) Korm. rendelet 2. § (4) bekezdése iktatta be.
+[^139]: A 9. § (4) bekezdés 90. pontját a 76/2023. (III. 10.) Korm. rendelet 2. § (4) bekezdése iktatta be.
