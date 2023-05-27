@@ -1,6 +1,6 @@
-## Az eseti légtér igénybevétele[^64]
+## Az eseti légtér igénybevétele[^65]
 
-5/A. §[^65] (1) Az eseti légtér igénybevételének megkezdését – a határozatban engedélyezett kezdő időpontja, illetve a b) pont esetében a szüneteltetés időpontja előtt legalább 30 perccel – az 5. § (1) bekezdés e) pontjában vagy ha ilyet megbíztak, akkor az f) pontjában meghatározott személy köteles a Budapest ATS Központnak megadni a következő információkkal:
+5/A. §[^66] (1) Az eseti légtér igénybevételének megkezdését – a határozatban engedélyezett kezdő időpontja, illetve a b) pont esetében a szüneteltetés időpontja előtt legalább 30 perccel – az 5. § (1) bekezdés e) pontjában vagy ha ilyet megbíztak, akkor az f) pontjában meghatározott személy köteles a Budapest ATS Központnak megadni a következő információkkal:
 
 a) az igénybevétel valós kezdésének időpontja (a továbbiakban: aktiválás), és a tervezett befejezés időpontja,
 
@@ -38,14 +38,14 @@ a) az ellenőrzött légtérben kijelölt eseti légtér felső magasságát,
 
 b) az eseti légtér alsó határát, ha az nem a földfelszín, és az eseti légteret olyan ellenőrzött légtérben jelölték ki, amelynek alsó határa nem a földfelszín.
 
-(9)[^66] Ha az eseti légteret vagy annak egy részét az Együttes rendelet 3. mellékletében meghatározott, a légiközlekedési hatóság engedélyével igénybe vehető korlátozott légtérben jelölik ki, akkor az eseti légtérnek a korlátozott légtérrel átlapolásban kijelölt része a kijelölésre irányuló határozatban jogosított által kizárólag a légiközlekedési hatóságnak a korlátozott légtér igénybevételére vonatkozó engedélye mellett vehető igénybe.
+(9)[^67] Ha az eseti légteret vagy annak egy részét az Együttes rendelet 3. mellékletében meghatározott, a légiközlekedési hatóság engedélyével igénybe vehető korlátozott légtérben jelölik ki, akkor az eseti légtérnek a korlátozott légtérrel átlapolásban kijelölt része a kijelölésre irányuló határozatban jogosított által kizárólag a légiközlekedési hatóságnak a korlátozott légtér igénybevételére vonatkozó engedélye mellett vehető igénybe.
 
-(10)[^67] Budapest CTR-ben az Együttes rendelet 3. melléklet 5. táblázatában meghatározott No Drone Zone légtérben a pilóta nélküli légijármű vagy pilóta nélküli állami légijármű működése céljából kijelölt eseti légtér tekintetében Budapest ATS Központ az eseti légtér igénybevételére vonatkozó igényt a forgalmi helyzet által indokolt esetben elutasíthatja, az eseti légtér működését korlátozhatja vagy megtilthatja.
+(10)[^68] Budapest CTR-ben az Együttes rendelet 3. melléklet 5. táblázatában meghatározott No Drone Zone légtérben a pilóta nélküli légijármű vagy pilóta nélküli állami légijármű működése céljából kijelölt eseti légtér tekintetében Budapest ATS Központ az eseti légtér igénybevételére vonatkozó igényt a forgalmi helyzet által indokolt esetben elutasíthatja, az eseti légtér működését korlátozhatja vagy megtilthatja.
 
-(11)[^68] Szolnok MCTR-ben, Kecskemét MCTR-ben és Pápa MCTR-ben az Együttes rendeletben meghatározott, pilóta nélküli légijárművek és pilóta nélküli állami légijárművek számára korlátozott légtérben a légteret érintő forgalmi helyzet által indokolt esetben az illetékes katonai légiforgalmi szolgálat kérésére Budapest ATS Központ az eseti légtér igénybevételére vonatkozó igényt elutasíthatja, az eseti légtér használatát korlátozhatja vagy megtilthatja.
+(11)[^69] Szolnok MCTR-ben, Kecskemét MCTR-ben és Pápa MCTR-ben az Együttes rendeletben meghatározott, pilóta nélküli légijárművek és pilóta nélküli állami légijárművek számára korlátozott légtérben a légteret érintő forgalmi helyzet által indokolt esetben az illetékes katonai légiforgalmi szolgálat kérésére Budapest ATS Központ az eseti légtér igénybevételére vonatkozó igényt elutasíthatja, az eseti légtér használatát korlátozhatja vagy megtilthatja.
 
-[^64]: Az 5/A. §-t megelőző alcímet a 457/2017. (XII. 28.) Korm. rendelet 55. § (5) bekezdése iktatta be.
-[^65]: Az 5/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 55. § (5) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^66]: Az 5/A. § (9) bekezdése a 39/2021. (II. 2.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
-[^67]: Az 5/A. § (10) bekezdését a 39/2021. (II. 2.) Korm. rendelet 4. § (7) bekezdése iktatta be.
-[^68]: Az 5/A. § (11) bekezdését a 39/2021. (II. 2.) Korm. rendelet 4. § (7) bekezdése iktatta be.
+[^65]: Az 5/A. §-t megelőző alcímet a 457/2017. (XII. 28.) Korm. rendelet 55. § (5) bekezdése iktatta be.
+[^66]: Az 5/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 55. § (5) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^67]: Az 5/A. § (9) bekezdése a 39/2021. (II. 2.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
+[^68]: Az 5/A. § (10) bekezdését a 39/2021. (II. 2.) Korm. rendelet 4. § (7) bekezdése iktatta be.
+[^69]: Az 5/A. § (11) bekezdését a 39/2021. (II. 2.) Korm. rendelet 4. § (7) bekezdése iktatta be.
