@@ -2,7 +2,7 @@
 
 10. § (1) Az időszakosan korlátozott légtérben illetékes katonai repülésirányító egység és a TRA-val határos légtérben illetékes polgári légiforgalmi irányító egység között együttműködési megállapodást kell kötni a légtér-igénybevétel biztosítása érdekében. Az együttműködési megállapodás az adatcsere módjára és a GAT-szabályok szerint működő légijárművek működő TRA-n engedéllyel történő áthaladásával kapcsolatos eljárásokra terjed ki.
 
-(2)[^28] Az időszakosan korlátozott légtér igényelt kezdési időpontja előtt legalább 30 perccel az igénylő katonai szervezet köteles a tényleges kezdés időpontját a Budapest ATS Központtal egyeztetni.
+(2)[^29] Az időszakosan korlátozott légtér igényelt kezdési időpontja előtt legalább 30 perccel az igénylő katonai szervezet köteles a tényleges kezdés időpontját a Budapest ATS Központtal egyeztetni.
 
 (3) Ha a Budapest ATS Központtal egyeztetett kezdési időpontot követő 30 percen belül a légtér igénybevételét nem kezdik meg, az igénylő katonai szervezetnek új kezdési időpontot kell egyeztetnie.
 
@@ -16,4 +16,4 @@ b) az engedélyezett légtér méretének (magasságtartományának) csökkenté
 
 (6) Az időszakosan korlátozott légtér igénybevételének az engedélyezett befejezési idő előtti megszűnését és a további légtérigény törlését az igénylő katonai szervezet kéri a Budapest ATS Központtól.
 
-[^28]: A 10. § (2) bekezdése a 34/2019. (IX. 13.) ITM rendelet 7. § c) pontja szerint módosított szöveg.
+[^29]: A 10. § (2) bekezdése a 34/2019. (IX. 13.) ITM rendelet 7. § c) pontja szerint módosított szöveg.
