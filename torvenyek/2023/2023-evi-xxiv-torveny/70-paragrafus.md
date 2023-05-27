@@ -1,3 +1,1 @@
-70. § A népszavazás kezdeményezéséről, az európai polgári kezdeményezésről, valamint a népszavazási eljárásról szóló 2013. évi CCXXXVIII. törvény 43. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A helyi választási bizottság elnöke a képviselő-testület tagjai vagy bizottsága által benyújtott kérdés hitelesítéséről a kérdést hitelesítő döntés elleni jogorvoslati határidő eredménytelen elteltét – jogorvoslat esetén a törvényszék döntésével szembeni alkotmányjogi panasz benyújtására rendelkezésre álló határidő eredménytelen elteltét, illetve az Alkotmánybíróság alkotmányjogi panaszt visszautasító vagy elutasító döntésének az Alkotmánybíróság Határozatai hivatalos lapban történő megjelenését – követő öt napon belül tájékoztatja a polgármestert.”
+### 70. §

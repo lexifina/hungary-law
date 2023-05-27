@@ -1,1 +1,1 @@
-5. § A helyi önkormányzati képviselők és polgármesterek választásáról szóló 2010. évi L. törvény 11. § (1)–(2) bekezdésében a „több mint felében” szövegrész helyébe a „legalább kétharmadában” szöveg lép.
+### 5. §

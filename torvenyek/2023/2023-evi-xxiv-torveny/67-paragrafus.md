@@ -4,9 +4,9 @@
 
 1.
 
-2. 30. § (3) bekezdésében a „ , magyarországi lakcímét” szövegrész,
+2.
 
-3. 89. § (2) bekezdése,
+3.
 
 4.
 
@@ -20,7 +20,7 @@
 
 9.
 
-10. 218. § (2) bekezdés d) pontjában a „124. § (2) bekezdésében és a” szövegrész,
+10.
 
 11.
 
