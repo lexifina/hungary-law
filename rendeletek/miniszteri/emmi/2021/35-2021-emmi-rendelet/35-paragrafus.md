@@ -1,1 +1,3 @@
-## 34. § Az R5. 13. melléklete helyébe a 4. melléklet lép.
+## 34. §[^37]
+
+[^37]: A 34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
