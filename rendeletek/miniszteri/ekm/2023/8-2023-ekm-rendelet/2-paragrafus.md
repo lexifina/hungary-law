@@ -1,3 +1,3 @@
-2. §[^1]
+2. §[^2]
 
-[^1]: A 2. § a 4. § (2) bekezdés alapján 2023. november 18-án lép hatályba.
+[^2]: A 2. § a 4. § (2) bekezdés alapján 2023. november 18-án lép hatályba.
