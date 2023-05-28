@@ -1,3 +1,3 @@
-2. § A Rendelet 84. § 3. pontja helyébe a következő rendelkezés lép:
+2. §[^3]
 
-(E rendelet alkalmazásában:)
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
