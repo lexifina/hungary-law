@@ -1,5 +1,3 @@
-## „c) az állami célú UAS műveletek kivételével veszélyes légtérben – ide nem értve a magyar légtér légiközlekedési céljára történő kijelöléséről szóló miniszteri rendelet szerinti tanúsítási célú veszélyes légteret –, valamint időszakosan korlátozott légtérben annak működési ideje alatt,”
+2. §[^3]
 
-2. § A 4/1998. Korm. rendelet 4/B. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Budapest FIR-ben pilóta nélküli állami légijárművel vagy állami célú műveletet végrehajtó pilóta nélküli polgári légijárművel az állami repülések céljára kijelölt légterekben (időszakosan korlátozott légtér, MTMA, MCTR, veszélyes légtér) és korlátozott légtérben az illetékes légiforgalmi szolgálati egységgel vagy repülésvezetővel, tanúsítási célú veszélyes légtérben a koordinációs feladatokat ellátó szervezettel történt előzetes koordináció alapján lehet repülni. Budapest FIR-ben az állami légijárművek számára kijelölt olyan eseti légtérben, amelyben más állami légijármű is feladatot hajthat végre, pilóta nélküli állami légijárművel a légiforgalom szervezéséért felelős személlyel történt előzetes koordináció alapján lehet repülni.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

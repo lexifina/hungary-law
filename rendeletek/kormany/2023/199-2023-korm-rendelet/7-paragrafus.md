@@ -1,1 +1,3 @@
-7. § Az 532/2017. Korm. rendelet 9. § (7) bekezdésében az „a Nemzeti Média és Hírközlési Hatósággal (a továbbiakban: NMHH)” szövegrész helyébe az „az NMHH-val” szöveg lép.
+7. §[^8]
+
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
