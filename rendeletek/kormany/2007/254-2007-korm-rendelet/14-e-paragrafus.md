@@ -1,4 +1,4 @@
-14/E. §[^138] (1) Ha a tulajdonosi joggyakorló jogutód nélküli megszűnésére azt megelőzően kerül sor, hogy a tulajdonosi joggyakorlói adatszolgáltatási kötelezettségét teljesítette volna, a tulajdonosi joggyakorlói adatszolgáltatás elkészítése a megszűnő tulajdonosi joggyakorló zárómérlegének elkészítésére köteles szervezet (a továbbiakban: tulajdonosi joggyakorlói adatszolgáltatásra köteles szervezet) feladata. A tulajdonosi joggyakorlói adatszolgáltatásra köteles szervezetnek a tulajdonosi joggyakorlói adatszolgáltatást az MNV Zrt. által az adatszolgáltatási keretrendszer felhasználási szabályzatban meghatározott módon kell teljesítenie.
+14/E. §[^139] (1) Ha a tulajdonosi joggyakorló jogutód nélküli megszűnésére azt megelőzően kerül sor, hogy a tulajdonosi joggyakorlói adatszolgáltatási kötelezettségét teljesítette volna, a tulajdonosi joggyakorlói adatszolgáltatás elkészítése a megszűnő tulajdonosi joggyakorló zárómérlegének elkészítésére köteles szervezet (a továbbiakban: tulajdonosi joggyakorlói adatszolgáltatásra köteles szervezet) feladata. A tulajdonosi joggyakorlói adatszolgáltatásra köteles szervezetnek a tulajdonosi joggyakorlói adatszolgáltatást az MNV Zrt. által az adatszolgáltatási keretrendszer felhasználási szabályzatban meghatározott módon kell teljesítenie.
 
 (2) Ha a tulajdonosi joggyakorló jogutódlással történő megszűnésére azt megelőzően kerül sor, hogy a tulajdonosi joggyakorlói adatszolgáltatási kötelezettségét teljesítette volna, és a jogutód szervezet is tulajdonosi joggyakorló, a jogutód tulajdonosi joggyakorlónak a tulajdonosi joggyakorlói adatszolgáltatást a tulajdonosi joggyakorlókra előírt szabályok szerint kell teljesítenie azzal, hogy az adatszolgáltatás során utalnia kell arra, hogy az adatszolgáltatást jogutódként teljesíti.
 
@@ -8,4 +8,4 @@
 
 (5) Ha a tulajdonosi joggyakorló tulajdonosi joggyakorlói kijelölése azt megelőzően szűnik meg, hogy a tulajdonosi joggyakorlói adatszolgáltatási kötelezettségét teljesítette volna, az adatszolgáltatást a jogutódnak az e rendeletben a tulajdonosi joggyakorlókra előírt adatszolgáltatási szabályok szerint kell teljesítenie.
 
-[^138]: A 14/E. §-t az 592/2020. (XII. 17.) Korm. rendelet 5. §-a iktatta be.
+[^139]: A 14/E. §-t az 592/2020. (XII. 17.) Korm. rendelet 5. §-a iktatta be.

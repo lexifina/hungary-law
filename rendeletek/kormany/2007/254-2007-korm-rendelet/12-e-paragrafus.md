@@ -12,4 +12,6 @@ e) a felvilágosítás igénylésének és a panasz bejelentésének lehetőség
 
 (2) A bérleti licit rendszer nyilvános felületén bárki számára ingyenesen elérhető tájékoztatást kell közzétenni az elektronikus bérleti licit felhasználási szabályzatról, valamint az elektronikus bérleti licitre vonatkozó jogszabályi rendelkezésekről.
 
-(3) Az elektronikus bérleti licit felhasználási szabályzatot az MNV Zrt. Igazgatósága fogadja el, és a miniszter hagyja jóvá.
+(3)[^116] Az elektronikus bérleti licit felhasználási szabályzatot az MNV Zrt. Igazgatósága fogadja el.
+
+[^116]: A 12/E. § (3) bekezdése a 191/2023. (V. 22.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.

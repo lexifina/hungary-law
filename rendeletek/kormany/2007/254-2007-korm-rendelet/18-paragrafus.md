@@ -1,4 +1,4 @@
-18. § (1)[^150] Ha az egyéb vagyonkezelő a vagyonkezelésében lévő állami vagyonon értéknövelő beruházást, felújítást végzett, vagy új – állami vagyonba tartozó – eszközt hozott létre, a vagyonnövekmény számviteli rendezése érdekében az alábbi bontásban tájékoztatja a tulajdonosi joggyakorlót a felhasznált források összetételéről:
+18. § (1)[^151] Ha az egyéb vagyonkezelő a vagyonkezelésében lévő állami vagyonon értéknövelő beruházást, felújítást végzett, vagy új – állami vagyonba tartozó – eszközt hozott létre, a vagyonnövekmény számviteli rendezése érdekében az alábbi bontásban tájékoztatja a tulajdonosi joggyakorlót a felhasznált források összetételéről:
 
 a) saját pénzeszközök, az igénybe vett kölcsön, hitel vagy ezek körébe sorolható más külső forrás felhasználása;
 
@@ -6,28 +6,28 @@ b) a vagyonkezelésbe vett állami vagyonba tartozó eszköz elszámolt értékc
 
 c) elszámolási kötelezettséggel kapott külső forrás.
 
-(2)[^151]
+(2)[^152]
 
-(3)[^152] A vagyonnövekmény számviteli rendezéséhez az állami vagyonon megvalósított értéknövelő beruházás, felújítás, valamint a létrehozott új – állami vagyonba tartozó – eszköz értékét az egyéb vagyonkezelő a tulajdonosi joggyakorló által meghatározott módon és gyakorisággal, adatszolgáltatás keretében igazolja a tulajdonosi joggyakorló felé. Az adatszolgáltatás módját és gyakoriságát, annak rendjét és tartalmát a vagyonkezelési szerződésben kell rögzíteni. Amennyiben a tulajdonosi joggyakorló és az egyéb vagyonkezelő között számviteli rendezésre kerül sor, vagy az Nvtv. 11. § (6a) bekezdése értelmében a vagyonkezelői jog a törvény erejénél fogva kiterjed a létrehozott vagyonra, úgy a vagyonkezelési szerződés módosítása nem szükséges.
+(3)[^153] A vagyonnövekmény számviteli rendezéséhez az állami vagyonon megvalósított értéknövelő beruházás, felújítás, valamint a létrehozott új – állami vagyonba tartozó – eszköz értékét az egyéb vagyonkezelő a tulajdonosi joggyakorló által meghatározott módon és gyakorisággal, adatszolgáltatás keretében igazolja a tulajdonosi joggyakorló felé. Az adatszolgáltatás módját és gyakoriságát, annak rendjét és tartalmát a vagyonkezelési szerződésben kell rögzíteni. Amennyiben a tulajdonosi joggyakorló és az egyéb vagyonkezelő között számviteli rendezésre kerül sor, vagy az Nvtv. 11. § (6a) bekezdése értelmében a vagyonkezelői jog a törvény erejénél fogva kiterjed a létrehozott vagyonra, úgy a vagyonkezelési szerződés módosítása nem szükséges.
 
-(3a)[^153] Amennyiben a vagyonkezelő a 17. § (2) bekezdése hatálya alá tartozik, a megvalósított értéknövelő beruházás, felújítás, valamint a létrehozott új eszköz értékére vonatkozó elszámolást minden esetben független könyvvizsgálóval kell ellenjegyeztetnie.
+(3a)[^154] Amennyiben a vagyonkezelő a 17. § (2) bekezdése hatálya alá tartozik, a megvalósított értéknövelő beruházás, felújítás, valamint a létrehozott új eszköz értékére vonatkozó elszámolást minden esetben független könyvvizsgálóval kell ellenjegyeztetnie.
 
-(3b)[^154] A felek megállapodhatnak abban, hogy a tulajdonosi joggyakorló vagy megfizeti a megvalósított értéknövelő beruházásnak, felújításnak, illetve létrehozott új eszköznek a vagyonkezelőnél a vagyonkezelés alatt keletkező visszapótlási kötelezettségének összegét meghaladó értékét, vagy azt a vagyonkezelőnek a tulajdonosi joggyakorlóval szemben a vagyonkezelői jogviszony időtartama alatt fennálló visszapótlási kötelezettségén kívüli kötelezettségének csökkentésével vagy a vagyonkezelői díj megfizetésének kötelezettségéből származó követelés beszámításával rendezi.
+(3b)[^155] A felek megállapodhatnak abban, hogy a tulajdonosi joggyakorló vagy megfizeti a megvalósított értéknövelő beruházásnak, felújításnak, illetve létrehozott új eszköznek a vagyonkezelőnél a vagyonkezelés alatt keletkező visszapótlási kötelezettségének összegét meghaladó értékét, vagy azt a vagyonkezelőnek a tulajdonosi joggyakorlóval szemben a vagyonkezelői jogviszony időtartama alatt fennálló visszapótlási kötelezettségén kívüli kötelezettségének csökkentésével vagy a vagyonkezelői díj megfizetésének kötelezettségéből származó követelés beszámításával rendezi.
 
-(3c)[^155] Az Nvtv. 11. § (6a) bekezdésére figyelemmel azokban az esetekben, ahol a felújítás, beruházás eredményére a meglévő vagyon részeként a vagyonkezelői jog a törvény erejénél fogva kiterjed, a számviteli szabályok szerinti elszámolásra a vagyonkezelő (3) bekezdésben meghatározott adatszolgáltatásának a tulajdonosi joggyakorló írásbeli elfogadása alapján kerül sor.
+(3c)[^156] Az Nvtv. 11. § (6a) bekezdésére figyelemmel azokban az esetekben, ahol a felújítás, beruházás eredményére a meglévő vagyon részeként a vagyonkezelői jog a törvény erejénél fogva kiterjed, a számviteli szabályok szerinti elszámolásra a vagyonkezelő (3) bekezdésben meghatározott adatszolgáltatásának a tulajdonosi joggyakorló írásbeli elfogadása alapján kerül sor.
 
-(4)[^156] A vagyonkezelő által vagyonkezelt állami vagyonon végzett értéknövelő beruházás, felújítás, valamint a létrehozott új eszköz tulajdonosi joggyakorló felé igazolt értékéből az (1) bekezdés c) pontja szerinti elszámolási kötelezettséggel kapott külső forrásnak megfelelő összegű követelést a tulajdonosi joggyakorló nem téríti meg, ezen követelést a vagyonkezelő az e célra, elszámolási kötelezettséggel kapott külső forrás miatt fennálló kötelezettségével szemben számolja el.
+(4)[^157] A vagyonkezelő által vagyonkezelt állami vagyonon végzett értéknövelő beruházás, felújítás, valamint a létrehozott új eszköz tulajdonosi joggyakorló felé igazolt értékéből az (1) bekezdés c) pontja szerinti elszámolási kötelezettséggel kapott külső forrásnak megfelelő összegű követelést a tulajdonosi joggyakorló nem téríti meg, ezen követelést a vagyonkezelő az e célra, elszámolási kötelezettséggel kapott külső forrás miatt fennálló kötelezettségével szemben számolja el.
 
-(5)[^157]
+(5)[^158]
 
-(6)[^158] A Vtv. 2. § (2) bekezdésére is figyelemmel, a központi költségvetési szerv által állami vagyonon teljesített értéknövelő beruházás, felújítás megvalósításának, új – állami vagyonba tartozó – eszköz létrehozatalának vagy beszerzésének elszámolásakor a feleknek egymással szembeni megtérítési kötelezettsége nem keletkezik. Az állami vagyon növekedésének a tulajdonosi joggyakorló által vezetett vagyonnyilvántartásban történő elszámolása a központi költségvetési szervek 14. §-ban foglalt adatszolgáltatási kötelezettségének teljesítésével – külön elszámolás nélkül – következik be.
+(6)[^159] A Vtv. 2. § (2) bekezdésére is figyelemmel, a központi költségvetési szerv által állami vagyonon teljesített értéknövelő beruházás, felújítás megvalósításának, új – állami vagyonba tartozó – eszköz létrehozatalának vagy beszerzésének elszámolásakor a feleknek egymással szembeni megtérítési kötelezettsége nem keletkezik. Az állami vagyon növekedésének a tulajdonosi joggyakorló által vezetett vagyonnyilvántartásban történő elszámolása a központi költségvetési szervek 14. §-ban foglalt adatszolgáltatási kötelezettségének teljesítésével – külön elszámolás nélkül – következik be.
 
-[^150]: A 18. § (1) bekezdése a 148/2019. (VI. 25.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^151]: A 18. § (2) bekezdését a 148/2019. (VI. 25.) Korm. rendelet 23. § f) pontja hatályon kívül helyezte.
-[^152]: A 18. § (3) bekezdése a 148/2019. (VI. 25.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
-[^153]: A 18. § (3a) bekezdését a 457/2013. (XI. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^154]: A 18. § (3b) bekezdését a 457/2013. (XI. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 77/2014. (III. 14.) Korm. rendelet 26. § c) és e) pontja szerint módosított szöveg.
-[^155]: A 18. § (3b) bekezdését a 457/2013. (XI. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 148/2019. (VI. 25.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
-[^156]: A 18. § (4) bekezdése a 457/2013. (XI. 29.) Korm. rendelet 2. § (3) bekezdésével megállapított, a 77/2014. (III. 14.) Korm. rendelet 26. § i) pontja szerint módosított szöveg.
-[^157]: A 18. § (5) bekezdését a 48/2008. (III. 11.) Korm. rendelet 2. §-a iktatta be, a 356/2011. (XII. 30.) Korm. rendelet 16. §-a hatályon kívül helyezte.
-[^158]: A 18. § (6) bekezdését a 348/2010. (XII. 28.) Korm. rendelet 13. § (4) bekezdése iktatta be, szövege a 148/2019. (VI. 25.) Korm. rendelet 12. § (4) bekezdésével megállapított szöveg.
+[^151]: A 18. § (1) bekezdése a 148/2019. (VI. 25.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^152]: A 18. § (2) bekezdését a 148/2019. (VI. 25.) Korm. rendelet 23. § f) pontja hatályon kívül helyezte.
+[^153]: A 18. § (3) bekezdése a 148/2019. (VI. 25.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^154]: A 18. § (3a) bekezdését a 457/2013. (XI. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^155]: A 18. § (3b) bekezdését a 457/2013. (XI. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 77/2014. (III. 14.) Korm. rendelet 26. § c) és e) pontja szerint módosított szöveg.
+[^156]: A 18. § (3b) bekezdését a 457/2013. (XI. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 148/2019. (VI. 25.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^157]: A 18. § (4) bekezdése a 457/2013. (XI. 29.) Korm. rendelet 2. § (3) bekezdésével megállapított, a 77/2014. (III. 14.) Korm. rendelet 26. § i) pontja szerint módosított szöveg.
+[^158]: A 18. § (5) bekezdését a 48/2008. (III. 11.) Korm. rendelet 2. §-a iktatta be, a 356/2011. (XII. 30.) Korm. rendelet 16. §-a hatályon kívül helyezte.
+[^159]: A 18. § (6) bekezdését a 348/2010. (XII. 28.) Korm. rendelet 13. § (4) bekezdése iktatta be, szövege a 148/2019. (VI. 25.) Korm. rendelet 12. § (4) bekezdésével megállapított szöveg.

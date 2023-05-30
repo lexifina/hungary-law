@@ -49,3 +49,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-254-20-
 | 2022-11-01 | 2007-254-20-22.45 | 315/2022. (VIII. 16.) Korm. rendelet |
 | 2023-01-01 | 2007-254-20-22.46 | 604/2022. (XII. 28.) Korm. rendelet |
 | 2023-02-23 | 2007-254-20-22.47 | 49/2023. (II. 22.) Korm. rendelet |
+| 2023-05-30 | 2007-254-20-22.48 | 191/2023. (V. 22.) Korm. rendelet |
