@@ -6,7 +6,7 @@
 
 28. § (1) Felhatalmazást kap a Kormány, hogy rendeletben meghatározza
 
-a)
+a) a tanúsító hatóság által kiszabható bírság mértékét, megállapításának szempontrendszerét, valamint a bírság megfizetése módjának részletes eljárási szabályait,
 
 b) a 4. § (1) bekezdés b) pontja szerinti tanúsító hatóság feladatának, a tanúsító hatósági tevékenység eljárásrendjének, az engedélyezési eljárásnak, a hatósági ellenőrzésnek, a nyilvántartás vezetésének részletes szabályait, valamint a nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a megfelelőségi jelölés elhelyezésére vonatkozó szabályokat,
 

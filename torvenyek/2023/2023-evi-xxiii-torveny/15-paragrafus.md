@@ -1,1 +1,3 @@
-### 15. §
+15. § (1) Ha a tanúsító hatóság tudomására jut vagy az ellenőrzése során megállapítja, hogy a megfelelőségértékelő szervezet vagy a gyártó a vonatkozó európai uniós vagy magyar jogszabályokban foglalt biztonsági követelményeket és a kapcsolódó eljárási szabályokat nem teljesíti vagy nem tartja be, – a figyelmeztetést tartalmazó döntésében határidő tűzésével – felszólítja a megfelelőségértékelő szervezetet vagy a gyártót a vonatkozó európai uniós és magyar jogszabályokban foglalt biztonsági követelmények és a kapcsolódó eljárási szabályok teljesítésére.
+
+(2) Ha az (1) bekezdésben meghatározottak ellenére a megfelelőségértékelő szervezet vagy a gyártó a jogszabályban foglalt biztonsági követelményeket és az ehhez kapcsolódó eljárási szabályokat nem teljesíti vagy nem tartja be, a tanúsító hatóság – az eset összes körülményének mérlegelésével, kormányrendeletben meghatározottak szerint – bírságot szabhat ki, amely további nemteljesítés esetén megismételhető.
