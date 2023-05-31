@@ -1,5 +1,3 @@
-5. § Hatályát veszti a Vhr.
+5. §[^6]
 
-a) 12/E. § (3) bekezdésében az „ , és a miniszter hagyja jóvá” szövegrész,
-
-b) 47/D. § (3) bekezdésében az „és a miniszter hagyja jóvá” szövegrész.
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
