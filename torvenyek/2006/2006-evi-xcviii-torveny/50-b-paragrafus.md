@@ -1,6 +1,6 @@
 50/B. § (1) Azon a legalább három napig tartó, előreláthatólag 20 000 fő egyidejű részvételét meghaladó, megszakítás nélkül folyamatosan üzemelő szabadtéri rendezvényen, ahol a rendezvény területén közforgalmú vagy fiókgyógyszertár nem működik, az egészségügyi államigazgatási szerv kérelemre egy ideiglenesen telepített fiókgyógyszertár működtetését engedélyezi a rendezvény időtartamára és helyszínére, ha a kérelmező megfelel e törvényben és e törvény felhatalmazása alapján kiadott miniszteri rendeletben előírt feltételeknek.
 
-(2) Az ideiglenesen telepített fiókgyógyszertár működtetésére a közúton történő megközelítés figyelembevételével, a távolság szerinti sorrendiséget betartva a három legközelebb eső közforgalmú gyógyszertárat működtető egyike kaphat engedélyt. Ha
+(2) Az ideiglenesen telepített fiókgyógyszertár működtetésére a közúton történő megközelítés figyelembevételével, a távolság szerinti sorrendiséget betartva a rendezvény főbejáratához viszonyítva a három legközelebb eső közforgalmú gyógyszertárat működtető egyike kaphat engedélyt. Ha
 
 a) a kérelmező nem felel meg az e törvényben és e törvény felhatalmazása alapján kiadott miniszteri rendeletben előírt feltételeknek,
 

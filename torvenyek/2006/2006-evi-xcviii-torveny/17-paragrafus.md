@@ -64,6 +64,6 @@ g) olyan gyógyászati segédeszköz reklámját, amely a társadalombiztosítá
 
 (9) A kereskedelmi gyakorlat tekintetében tilos a gyógyszertárat működtető vállalkozás által civil szervezet, egészségügyi, szociális és gyermekintézmény (a továbbiakban e § tekintetében: intézmény) részére olyan adomány nyújtása, amely az intézmény vagy azok tagjai, illetve az intézmény által ellátottak részére történő gyógyszerbeszerzéshez köthető.
 
-(10) A nyomdi vagy elektronikus úton előállított egészségügyi felvilágosító, tájékoztató, egészséges életmóddal, prevencióval, betegségek kezelésével kapcsolatos, gyógyszerészi gondozást támogató könyvek, kiadványok, brosúrák kivételével tilos a beteg, illetve a fogyasztó részére a gyógyszertárban forgalmazható termékek ajándékozása.
+(10) A nyomdai vagy elektronikus úton előállított egészségügyi felvilágosító, tájékoztató, egészséges életmóddal, prevencióval, betegségek kezelésével kapcsolatos, gyógyszerészi gondozást támogató könyvek, kiadványok, brosúrák kivételével tilos a beteg, illetve a fogyasztó részére a gyógyszertárban forgalmazható termékek ajándékozása.
 
 (11) A gyógyszertár és a gyógyszertár által nyújtott szolgáltatások hirdetése körében a gyógyszertár elnevezéséről, címéről, elérhetőségéről, szolgálati idejéről, szolgáltatásairól adható tájékoztatás, beleértve az elektronikus eszközök alkalmazását is. A más gyógyszertárakkal történő összehasonlítást tartalmazó adatközlés és figyelemfelkeltő tájékoztatás tilos.

@@ -31,3 +31,5 @@ cb) a működést engedélyező határozat számát; valamint
 d) a hatósági, a felelős és az ideiglenes vezetőkről,
 
 e) az interneten igényelt gyógyszerek kiszolgáltatását végző gyógyszertárakról.
+
+f) a gyógyszertárat működtetők nevében és felelősségére egészségügyi tevékenységet végző egészségügyi dolgozóknak az egészségügyi tevékenység végzésével összefüggő adatairól.

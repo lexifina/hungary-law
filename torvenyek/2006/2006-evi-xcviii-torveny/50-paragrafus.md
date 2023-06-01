@@ -2,7 +2,7 @@
 
 50. § (1) Azon a településen vagy önálló településrészi önkormányzattal (részönkormányzattal) rendelkező településrészen, ahol közforgalmú vagy fiókgyógyszertár nem működik, kérelemre fiókgyógyszertár létesítését és működtetését engedélyezi az egészségügyi államigazgatási szerv, amennyiben a kérelmező megfelel e törvényben előírt feltételeknek. A fiókgyógyszertár épületben, illetve mozgó egységként működtethető. A fiókgyógyszertár működése az ügyfél kérelmére – amennyiben annak e törvényben és a felhatalmazása alapján kiadott jogszabályban meghatározott feltételei fennállnak – meghatározott időszakra (idényre) is engedélyezhető. Erről a működtetést engedélyező határozatban rendelkezni kell.
 
-(2) A 49. § (10) bekezdés a) pontjában foglalt kivétellel fiókgyógyszertár működtetésére – a közúton történő megközelítés figyelembevételével – a legközelebb eső közforgalmú gyógyszertárat működtető kaphat engedélyt. Amennyiben
+(2) A 49. § (10) bekezdés a) pontjában foglalt kivétellel fiókgyógyszertár működtetésére – a közúton történő megközelítés figyelembevételével – az eljárást kezdeményező kérelmező által megjelölt létesítési címen lévő ingatlan bejáratához vagy a létesítendő ingatlan műszaki tervdokumentációban megjelölt bejáratához legközelebb eső közforgalmú gyógyszertárat működtető kaphat engedélyt. Amennyiben
 
 a) a kérelmező nem felel meg az e törvényben és e törvény felhatalmazása alapján kiadott miniszteri rendeletben előírt feltételeknek,
 

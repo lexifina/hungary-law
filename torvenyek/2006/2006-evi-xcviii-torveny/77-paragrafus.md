@@ -24,6 +24,8 @@ k) a gyógyászatisegédeszköz-szállítójegyzékre és a szállító-előmin�
 
 l) az egyedi méretvétel alapján készített gyógyászati segédeszközök támogatásával kapcsolatos eljárások szabályait
 
+m) az intézeti és a közvetlen lakossági gyógyszerellátási feladatok elkülönített nyilvántartásának hatékony ellenőrzéséhez szükséges hatósági hozzáférés részletes szabályait
+
 rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap az egészségügyért felelős miniszter, hogy rendeletben szabályozza

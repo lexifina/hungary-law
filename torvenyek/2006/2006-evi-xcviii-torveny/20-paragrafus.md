@@ -34,4 +34,4 @@ jogviszonyt és a ténylegesen megvalósuló tevékenységet vizsgálni, a szolg
 
 (10) A gyógyszerészeti államigazgatási szerv – amennyiben a tényállás tisztázása érdekében szükségesnek tartja – elrendelheti az általa meghallgatott tanú adatainak zártan kezelését.
 
-(11) A 14. §-ban és a 15. § szerinti jogszabályban foglaltak végrehajtásának ellenőrzésével összefüggésben indított eljárások során az ügyintézési határidő 60 nap. Az e fejezetben és a 15. § szerinti jogszabályban foglaltak megsértése tárgyában hivatalból indult hatósági eljárás ügyintézési határideje 110 nap.
+(11) Az e fejezetben és az emberi felhasználásra kerülő gyógyszer, illetve gyógyászati segédeszköz ismertetésére, az ismertetői tevékenységet végző személyek nyilvántartására, és a gyógyszerrel, gyógyászati segédeszközzel kapcsolatos, fogyasztókkal szembeni kereskedelmi gyakorlatra vonatkozó részletes szabályokról szóló miniszteri rendeletben foglaltak megsértése tárgyában hivatalból indult hatósági eljárás ügyintézési határideje 110 nap.

@@ -97,3 +97,5 @@ c) a kereskedelmi árlista, feltéve, hogy nem tartalmaz a gyógyszer hatásáva
 45. gyógyszertári készenlét: a gyógyszertár nyitvatartási idején túl – ideértve a heti pihenőnapot vagy munkaszüneti napot is – nyújtott közvetlen lakossági gyógyszerellátás biztosítása olyan módon, hogy a készenlétet teljesítő gyógyszerész az ellátást telefonhívást követően 30 perces várakozási időn belül kezdi meg.
 
 46. tételes elszámolás alá eső hatóanyagot tartalmazó gyógyszer: az egészségbiztosítási szerv által közbeszerzés útján természetben vagy pénzügyi keret formájában biztosított, speciális támogatásban részesülő gyógyszer;
+
+47. intézeti és a közvetlen lakossági gyógyszerellátási feladatok elkülönített nyilvántartása: átlátható és technikailag zárt, kizárólag hatósági ellenőrzési tevékenység részére hozzáférhető elektronikus szakmai nyilvántartási rendszer.

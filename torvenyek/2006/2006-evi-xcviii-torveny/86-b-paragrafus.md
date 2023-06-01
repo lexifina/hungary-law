@@ -1,1 +1,1 @@
-86/B. §
+86/B. § A 11. §-tól eltérően az önellenőrzési célt szolgáló SARS-CoV-2-fertőzés kimutatására szánt antigén gyorsteszt in vitro diagnosztikai orvostechnikai eszköz forgalmazását 2023. december 31-ig a 67. § (1) bekezdése szerinti vállalkozás is végezheti a gyártó által rendelkezésre bocsátott tájékoztatóban foglaltaknak megfelelően, összhangban a SARS-CoV-2-fertőzés diagnosztizálására szolgáló antigén gyorstesztek európai uniós alkalmazási követelményeivel.

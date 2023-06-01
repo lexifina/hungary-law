@@ -1,1 +1,1 @@
-86/A. §
+86/A. § E törvénynek az egyes egészségügyi, egészségbiztosítási és gyógyszerészeti tárgyú törvények módosításáról szóló 2023. évi XIX. törvénnyel (a továbbiakban: Módtv.) megállapított 48. § (1) bekezdését, 50. § (2) bekezdését, 50/B. § (2) bekezdését, 53/B. § (2) bekezdését és 74. § (3) bekezdését a 2023. június 1-jén folyamatban lévő ügyekben is alkalmazni kell.
