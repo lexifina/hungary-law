@@ -6,7 +6,7 @@ b) a szabadfoglalkozású egészségügyi dolgozó szakmai felettesének megneve
 
 c) amennyiben a szabadfoglalkozású egészségügyi dolgozó feladatkörébe más egészségügyi dolgozók szakmai irányítása is beletartozik, az általa irányított, illetve felügyelt egészségügyi dolgozók munkakörének megnevezését,
 
-d) az adott időszakban, de legfeljebb 6 hónap alatt a szabadfoglalkozású egészségügyi dolgozó által végzendő egészségügyi tevékenység időtartamát és beosztását, illetve a szabadfoglalkozású egészségügyi dolgozó nyilatkozatát az önkéntesen vállalt többletmunka tervezett mértékéről,
+d) az adott időszakban, de legfeljebb 6 hónap alatt a szabadfoglalkozású egészségügyi dolgozó által végzendő egészségügyi tevékenység időtartamát és beosztását,
 
 e) az ellátott feladatok díjazását,
 

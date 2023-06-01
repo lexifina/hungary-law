@@ -20,7 +20,7 @@ részt vehet.
 
 (6) Az önkéntes segítő egészségügyi dolgozó által – kizárólag az egészségügyi tevékenysége végzésével a betegnek – okozott kár esetén a közérdekű önkéntes tevékenységről szóló törvény alapján a foglalkoztató által követelhető kártérítés mértéke gondatlan károkozás esetén nem haladhatja meg
 
-a) az (1) bekezdés a) vagy b) pontja szerinti, egészségügyi szakképesítéssel rendelkező személy esetében az egészségügyi szolgáltatónál azonos munkakörben, azonos gyakorlati idővel foglalkoztatott egészségügyi dolgozó munkabére, illetménye, ilyen egészségügyi dolgozó hiányában az adott szakképesítéssel rendelkező egészségügyi dolgozók – Kjt. szabályainak alapulvételével meghatározott besorolási osztályhoz és fokozathoz tartozó – garantált illetménye alapján számított távolléti díja,
+a) az (1) bekezdés a) és b) pontja szerinti, egészségügyi szakképesítéssel rendelkező személy esetében az egészségügyi szolgáltatónál azonos munkakörben, azonos gyakorlati idővel foglalkoztatott egészségügyi dolgozó munkabére, illetménye, ilyen egészségügyi dolgozó hiányában az adott szakképesítéssel rendelkező egészségügyi dolgozók – Eszjtv. szabályainak alapulvételével meghatározott, az Eszjtv. 8. § (3) bekezdése szerinti személyi kör esetén a fizetési fokozathoz, az egészségügyi szakdolgozók esetén a fizetési osztályhoz és fizetési fokozathoz tartozó – illetménye alapján számított távolléti díjának a,
 
 b) az (1) bekezdés c) pontja szerinti, egészségügyi szakképesítéssel nem rendelkező személy esetében a minimálbér
 
