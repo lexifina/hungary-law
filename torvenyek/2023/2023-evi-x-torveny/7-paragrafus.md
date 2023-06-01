@@ -1,0 +1,3 @@
+7. § Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény 99. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A nem szakirányú felsőfokú iskolai végzettséggel és a munkakörére meghatározott, szakirányú felsőfokú szakképesítéssel is rendelkező igazságügyi alkalmazottat kivételesen lehet besorolni a III. fizetési osztályba; a besorolás részletes szabályait a bíróságokkal, illetve az OBH-val szolgálati jogviszonyban álló igazságügyi alkalmazottak tekintetében az OBH elnöke szabályzatban, az OBT-vel szolgálati jogviszonyban álló igazságügyi alkalmazottak tekintetében az OBT határozatban, az 1. § (1) bekezdés c) pontjában meghatározott igazságügyi alkalmazottak tekintetében a miniszter rendeletben állapítja meg.”
