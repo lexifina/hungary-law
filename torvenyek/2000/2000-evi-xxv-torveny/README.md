@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2000-25-00-00
 | 2021-01-01 | 2020. évi CLXVIII. törvény | 2000-25-00-00.31 |
 | 2021-03-01 | 2021. évi II. törvény | 2000-25-00-00.32 |
 | 2021-06-29 | 2021. évi CI. törvény | 2000-25-00-00.33 |
+| 2023-06-01 | 2023. évi XIX. törvény | 2000-25-00-00.34 |

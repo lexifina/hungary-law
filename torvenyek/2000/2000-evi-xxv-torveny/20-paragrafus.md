@@ -4,7 +4,7 @@
 
 ## Egészségvédelem, munkavédelem, környezetvédelem
 
-20. § (1) A veszélyes anyagok, illetve a veszélyes keverékek előállításának, gyártásának, feldolgozásának, továbbá felhasználásának megkezdése előtt – ideértve a külföldről történő behozatalt is – a tevékenységhez az azonos célra alkalmas veszélyes anyagok, illetve veszélyes keverékek közül – lehetőség szerint – a kevésbé veszélyes anyagot (keveréket) kell kiválasztani. A kiválasztás indokolására a tevékenységet végző elvégzi a szükséges kockázatbecslést, valamint költség-haszon elemzést és azt az ellenőrzést végző hatóságnak – kérésére – bemutatja.
+20. § (1) A veszélyes anyagok, illetve a veszélyes keverékek előállításának, gyártásának, feldolgozásának, továbbá felhasználásának megkezdése előtt – ideértve a külföldről történő behozatalt is – a tevékenységhez az azonos célra alkalmas veszélyes anyagok, illetve veszélyes keverékek közül – lehetőség szerint – a kevésbé veszélyes anyagot (keveréket) kell kiválasztani.
 
 (2)
 
