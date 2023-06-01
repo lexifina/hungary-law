@@ -1,0 +1,5 @@
+## 18. A Magyar Agrár- és Élettudományi Egyetemért Alapítvány létrehozásáról, valamint a Magyar Agrár- és Élettudományi Egyetemért Alapítvány és a Magyar Agrár- és Élettudományi Egyetem működéséhez szükséges feltételek és forrás biztosításáról szóló 2020. évi CXLII. törvény módosítása
+
+100. § A Magyar Agrár- és Élettudományi Egyetemért Alapítvány létrehozásáról, valamint a Magyar Agrár- és Élettudományi Egyetemért Alapítvány és a Magyar Agrár- és Élettudományi Egyetem működéséhez szükséges feltételek és forrás biztosításáról szóló 2020. évi CXLII. törvény (a továbbiakban: 2020. évi CXLII. törvény) 5. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján, az Nftv.-ben meghatározott oktatási, tudományos kutatási és betegellátási feladatok ellátását szolgáló, a 3. melléklet 227a. sorában szereplő, Herceghalom 267/3 helyrajzi számú ingatlant ingyenesen, nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kell adni. Az ingatlan tulajdonjogát az Egyetem a terhekkel együtt szerzi meg.”
