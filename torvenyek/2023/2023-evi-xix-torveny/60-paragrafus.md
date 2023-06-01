@@ -2,4 +2,4 @@
 
 a) 25. § (2e) bekezdésében az „a megbetegedés feltételezett vagy igazolt terjedésének megakadályozása érdekében” szövegrész,
 
-b) 32/D. §-a.
+b)

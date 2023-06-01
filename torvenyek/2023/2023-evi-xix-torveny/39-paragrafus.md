@@ -1,6 +1,6 @@
 39. § Az Eütv.
 
-a) 3. § e) pontjában az „ideértve a gyógyszerekkel,” szövegrész helyébe az „ideértve a plasztikai helyreállító és az esztétikai plasztikai invazív és minimál invazív beavatkozásokat, a gyógyszerekkel,” szöveg,
+a)
 
 b) 29. § (1) bekezdésében a „panaszt tenni” szövegrész helyébe a „szóban, írásban panaszt tenni” szöveg,
 

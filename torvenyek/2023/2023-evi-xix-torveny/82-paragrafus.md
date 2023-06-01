@@ -1,8 +1,6 @@
 ## 14. Az egészségügyi alapellátásról szóló 2015. évi CXXIII. törvény módosítása
 
-82. § Az egészségügyi alapellátásról szóló 2015. évi CXXIII. törvény (a továbbiakban: Eatv.) 6. §-a a következő
-
-(3) és (4) bekezdéssel egészül ki:
+82. § Az egészségügyi alapellátásról szóló 2015. évi CXXIII. törvény (a továbbiakban: Eatv.) 6. §-a a következő (3) és (4) bekezdéssel egészül ki:
 
 „(3) A praxiskezelőnek a körzetek kialakításánál a körzetek határát közterületek és házszámok, házszámok hiányában helyrajzi számok által határoltan kell meghatározni, kivéve, ha a település teljes területe az adott szakmában egy alapellátási körzethez tartozik.
 

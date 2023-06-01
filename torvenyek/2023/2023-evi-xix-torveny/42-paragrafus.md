@@ -2,9 +2,9 @@
 
 42. § Az Nvt.
 
-a) 2. § (1) bekezdésében a „vagy dohányzást imitáló elektronikus eszközt” szövegrész helyébe a „ , dohányzást imitáló elektronikus eszközt vagy vízipipát” szöveg,
+a)
 
-b) 3. § (1) bekezdésében és 7. § (1) bekezdésében az „eszköz használatára” szövegrész helyébe az „eszköz, vagy vízipipa használatára” szöveg,
+b)
 
 c) 5. § (1)–(3) bekezdésében a „b)–h)” szövegrész helyébe a „b)–i)” szöveg
 
