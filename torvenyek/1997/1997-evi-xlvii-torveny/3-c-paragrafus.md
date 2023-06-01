@@ -1,0 +1,1 @@
+3/C. § E törvény alkalmazásában a kezelést végző orvossal egy tekintet alá esik a jogszabályban meghatározott halottvizsgálatra jogosult és azt végző, valamint a mentési feladatokat ellátó mentőtiszt, továbbá igazságügyi szakértői tevékenysége körében jogszabályban meghatározott halottvizsgálatot, halottakkal kapcsolatos orvosi eljárást végző orvos.
