@@ -20,6 +20,6 @@
 
 (9) Az e törvényben foglaltak nem érintik a hatálybalépését megelőzően hivatalt betöltött volt elnöknek a korábbi jogszabályok alapján megállapított juttatásait azzal, hogy az e törvény hatálybalépését megelőzően hivatalt betöltött volt elnök a köztársasági elnök, a miniszterelnök, az Országgyűlés elnöke, az Alkotmánybíróság elnöke és a Legfelsőbb Bíróság elnöke tiszteletdíjáról és juttatásairól szóló 2000. évi XXXIX. törvény 25. § (1) bekezdése és 22. § (1) bekezdése szerinti juttatásokra akkor jogosult, ha e törvény hatálybalépéséig az öregségi nyugdíjkorhatárt betöltötte, és a juttatást kérelmezte.
 
-(10) Az Alkotmánybíróság az egyes törvényeknek az egyfokú járási hivatali eljárások megteremtésével összefüggő módosításáról szóló 2019. évi CXXVII. törvény hatálybalépésekor hivatalban lévő tagja – ha még nem töltötte be az Alaptörvény 26. cikk (2) bekezdése szerinti általános öregségi nyugdíjkorhatárt – kérelmezheti – az Alkotmánybíróság elnöke útján – a köztársasági elnöknél bíróvá történő kinevezését. A kérelemről az Alkotmánybíróság elnöke – annak a köztársasági elnökhöz történő továbbításával egyidejűleg – tájékoztatja az Országos Bírósági Hivatal elnökét.
+(10)
 
 (11) Az Alkotmánybíróság 2020. január 1-jén hivatalban lévő elnöke a megbízatása megszűnéséig jogosult – hivatalos és magánprogramokra is kiterjedően – a védett személyek és a kijelölt létesítmények védelméről szóló jogszabályban foglaltak szerint személyvédelemre.

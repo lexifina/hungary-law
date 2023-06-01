@@ -1,1 +1,1 @@
-10/A. § Az Alkotmánybíróság tagja kérelmezheti – az Alkotmánybíróság elnöke útján – a köztársasági elnöknél a bíróvá történő kinevezését. A kérelemről az Alkotmánybíróság elnöke – annak a köztársasági elnökhöz történő továbbításával egyidejűleg – tájékoztatja az Országos Bírósági Hivatal elnökét.
+### 10/A. §

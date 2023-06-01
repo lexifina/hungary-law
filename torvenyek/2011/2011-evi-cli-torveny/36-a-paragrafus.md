@@ -1,0 +1,3 @@
+36/A. § (1) Az Alkotmánybíróság a bíróságok szervezetéről és igazgatásáról szóló 2011. évi CLXI. törvény 108/A. § (1), illetve (9) bekezdésében meghatározott jogosult által benyújtott, határozott kérelmet tartalmazó jogorvoslati kérelemre vizsgálja, hogy a kötelezett eleget tett-e a bíróságok szervezetéről és igazgatásáról szóló 2011. évi CLXI. törvény 108/A. § (1), illetve (9) bekezdésében foglalt rendelkezéseknek.
+
+(2) A jogorvoslati kérelem alapján az elnök gondoskodik az ügynek a bíróságok szervezetéről és igazgatásáról szóló 2011. évi CLXI. törvény 108/A. § (5) bekezdése szerinti határidő betartását szolgáló időben történő napirendre vételéről.
