@@ -6,4 +6,6 @@
 
 (3) E rendelet 12–23. §-a 2023. június 1-jén lép hatályba.
 
-(4) Hatályát veszti a Közös Agrárpolitika tagállami végrehajtásával összefüggő feladatokat ellátó egyes szervezetek kijelöléséről szóló 168/2014. (VII. 18.) Korm. rendelet.
+(4)[^10]
+
+[^10]: A 25. § (4) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

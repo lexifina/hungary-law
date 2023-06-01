@@ -1,3 +1,1 @@
-22. §[^14]
-
-[^14]: A 22. § a 25. § (3) bekezdés alapján 2023. június 1-jén lép hatályba.
+22. § A Hegyközségek Nemzeti Tanácsa az egyes intézkedésekben való részvételi feltételek teljesítésének ellenőrzési, valamint az ehhez kapcsolódó adatszolgáltatási feladatait a miniszterrel kötött megállapodásban foglaltak szerint látja el.

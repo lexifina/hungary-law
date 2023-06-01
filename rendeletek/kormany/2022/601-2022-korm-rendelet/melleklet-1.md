@@ -1,4 +1,4 @@
-1. melléklet a 601/2022. (XII. 28.) Korm. rendelethez[^21]
+1. melléklet a 601/2022. (XII. 28.) Korm. rendelethez[^14]
 
 Jogszabályban foglalt gazdálkodási követelményeket ellenőrző szervek és döntéshozó szervek kijelölése
 
@@ -28,4 +28,4 @@ Jogszabályban foglalt gazdálkodási követelményeket ellenőrző szervek és 
 
 | 12. | JFGK11. | A tenyésztés céljából tartott állatok védelméről szóló, 1998. július 20-i 98/58/EK tanácsi irányelv 4. cikke | az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró járási hivatal | a fővárosi és vármegyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró szervezeti egysége |
 
-[^21]: Az 1. mellékletet a 139/2023. (IV. 24.) Korm. rendelet 8. §-a iktatta be.
+[^14]: Az 1. mellékletet a 139/2023. (IV. 24.) Korm. rendelet 8. §-a iktatta be.

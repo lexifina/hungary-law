@@ -1,3 +1,1 @@
-23. §[^15]
-
-[^15]: A 23. § a 25. § (3) bekezdés alapján 2023. június 1-jén lép hatályba.
+23. § A Nemzeti KAP-hálózat titkársági feladatait a Nemzeti Irányító Hatóság a Herman Ottó Intézet Nonprofit Kft. útján látja el.

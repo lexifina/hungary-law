@@ -1,3 +1,1 @@
-20. §[^12]
-
-[^12]: A 20. § a 25. § (3) bekezdés alapján 2023. június 1-jén lép hatályba.
+20. § A Nemzeti Kifizető Ügynökség szakértő közreműködését veheti igénybe a fehér cukor magántárolásának támogatása esetében a helyszíni ellenőrzés során vett minta laboratóriumi vizsgálatához.
