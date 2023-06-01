@@ -6,4 +6,6 @@ a) a határozatot a Kúria hozta,
 
 b) a törvénysértés perújítás, felülvizsgálat vagy egyszerűsített felülvizsgálati eljárás útján orvosolható.
 
+(2a) Nincs helye a jogorvoslat bejelentésének a 490. § alapján hozott végzéssel szemben.
+
 (3) A jogorvoslat bejelentése nincs határidőhöz kötve.
