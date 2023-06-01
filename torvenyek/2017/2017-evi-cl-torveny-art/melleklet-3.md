@@ -275,17 +275,3 @@
 ## AZ ÖNKORMÁNYZATI ADÓHATÓSÁGHOZ TELJESÍTENDŐ BEFIZETÉSEK
 
 ## Általános rendelkezések
-
-## Ha a helyi adóban az esedékes adó összege az ezer forintot nem éri el, akkor azt az adózónak kizárólag akkor kell megfizetnie, amikor a meg nem fizetett és a jövőben esedékessé váló adó együttes összege az ezer forintot eléri. Az ezer forintot el nem érő, korábban esedékessé vált adó után – az adónemben ezer forintot elérő adófizetési kötelezettség esedékességéig – késedelmi pótlék nem számítható fel.
-
-## Az önkormányzati adóhatóság az adónemben túlfizetésként fennálló, ezer forintot el nem érő adót nem téríti vissza, azt a jövőben esedékes – az önkormányzati adóhatóságnál nyilvántartott – adóra, egyéb közteherre számolja el.
-
-## A) Helyi adók
-
-## 1. Az adózó az állandó jellegű helyi iparűzési tevékenység utáni adóban
-
-## a) az adóelőlegét az adóév harmadik hónapjának tizenötödik napjáig, valamint kilencedik hónapjának tizenötödik napjáig fizeti meg;
-
-## b)
-
-## c) a megfizetett adóelőleg, valamint az adóévre megállapított adó pozitív különbözetét az adóévet követő év ötödik hónapjának utolsó napjáig fizeti meg, illetve a túlfizetést ettől az időponttól igényelheti vissza.
