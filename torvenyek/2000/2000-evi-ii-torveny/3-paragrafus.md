@@ -4,7 +4,7 @@
 
 (5) A területi ellátási kötelezettséggel működő háziorvosok működtetési joga 2012. január 1-jével praxisjognak minősül, amely jog arra a körzetre terjed ki, ahol a háziorvos 2012. január 1-jén területi ellátási kötelezettséggel háziorvosi ellátást nyújt, ideértve a munkavégzésben akadályozott, működtetési joggal rendelkező orvost is.
 
-(5a) A praxisjogot a törvény erejénél fogva megszerző háziorvos kérelmére az egészségügyi államigazgatási szerv a praxisjog meglétét hatósági bizonyítvánnyal igazolja.
+(5a) A praxisjogot a törvény erejénél fogva megszerző háziorvos kérelmére a praxiskezelő a praxisjog meglétét hatósági bizonyítvánnyal igazolja.
 
 (6) Azok a működtetési joggal rendelkező háziorvosok, akik 2012. január 1-jén nem rendelkeznek területi ellátási kötelezettséggel (a továbbiakban: működtetési joggal rendelkező háziorvos), tartósan betöltetlen körzetben működtetési joguk alapján területi ellátási kötelezettséget vállalhatnak 2015. december 31-éig. A tartósan betöltetlen körzetek betöltésénél a működtetési joggal rendelkező háziorvosok előnyt élveznek. A működtetési joggal rendelkező háziorvos működtetési joga a tartósan betöltetlen körzet betöltésével – illetékmentesen – praxisjognak minősül. Azon működtetési joggal rendelkező háziorvos működtetési joga, aki 2015. december 31-éig nem tölt be tartósan betöltetlen háziorvosi körzetet, 2015. december 31-i hatállyal megszűnik.
 

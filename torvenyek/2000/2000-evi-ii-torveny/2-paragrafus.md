@@ -12,7 +12,7 @@ b) az egyenesági leszármazó
 
 jogosult. A b) pontban meghatározott személyek között a leszármazási fok határozza meg a praxisjog folytatására való jogosultság sorrendjét.
 
-(5) Ha a (4) bekezdés b) pontja alapján több, a jogszabályban meghatározott feltételeknek megfelelő személy lenne jogosult a praxisjog folytatására, e jogosultak a korábbi jogosult halálától számított 30 napon belül – jogvesztés terhe mellett – nyújthatják be az egészségügyi államigazgatási szervhez azt a megállapodásukat, amelyben megjelölik a praxisjog folytatására egyedül jogosult személyt.
+(5) Ha a (4) bekezdés b) pontja alapján több, a jogszabályban meghatározott feltételeknek megfelelő személy lenne jogosult a praxisjog folytatására, e jogosultak a korábbi jogosult halálától számított 30 napon belül – jogvesztés terhe mellett – nyújthatják be a praxiskezelőhöz azt a megállapodásukat, amelyben megjelölik a praxisjog folytatására egyedül jogosult személyt.
 
 (6) Ha a (4) bekezdés alapján a praxisjog folytatására jogosult személy nem felel meg a jogszabályban meghatározott feltételeknek:
 

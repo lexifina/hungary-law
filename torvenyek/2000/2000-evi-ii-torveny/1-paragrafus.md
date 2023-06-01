@@ -6,4 +6,4 @@ a) önálló orvosi tevékenység: a területi ellátási kötelezettség köré
 
 b) orvos: a külön jogszabály szerint vezetett alap- és működési nyilvántartásban szereplő orvosi, fogorvosi szakképesítéssel rendelkező személy;
 
-c) praxisjog: az egészségügyi államigazgatási szerv által az a) pont szerinti orvos részére adott önálló orvosi tevékenység nyújtására jogosító engedélyben foglalt jog, amely alapján önálló orvosi tevékenység területi ellátási kötelezettséggel, meghatározott körzetben végezhető.
+c) praxisjog: a praxiskezelő által az a) pont szerinti orvos részére adott önálló orvosi tevékenység nyújtására jogosító engedélyben foglalt jog, amely alapján önálló orvosi tevékenység területi ellátási kötelezettséggel, meghatározott körzetben végezhető.

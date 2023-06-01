@@ -42,4 +42,6 @@ b) a háziorvos önálló egészségügyi tevékenység végzésére való jogos
 
 (7) Az egészségügyi szolgálati jogviszonyban álló, praxisjoggal rendelkező háziorvos esetében az (1) bekezdésben foglaltakat – az egészségügyi szolgálati jogviszonyra vonatkozó szabályokkal összhangban – megfelelően alkalmazni kell.
 
-(8) A feladat-ellátási szerződés megkötésekor felmerülő vitás kérdések rendezésében a praxisjog engedélyezésére jogosult egészségügyi államigazgatási szerv – a felek által meghatározott kérdések eldöntésében – segítséget nyújt.
+(8) A feladat-ellátási szerződés megkötésekor felmerülő vitás kérdések rendezésében a praxiskezelő – a felek által meghatározott kérdések eldöntésében – segítséget nyújt.
+
+(9) Ha a feladatellátási szerződés az (1) bekezdés szerinti tartalmi elemeket nem vagy nem a jogszabályban előírtak szerint tartalmazza, a praxiskezelő annak érvénytelensége megállapítása céljából a bíróság előtt megtámadhatja.

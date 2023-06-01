@@ -2,7 +2,7 @@
 
 (1a) A praxiskezelő kizárólag akkor jelölhet az önkormányzat véleményének kikérését követően más orvost, ha azt jogszabályban meghatározott ellátásbiztonsági és gazdaságossági szempontok indokolják és az ezeknek megfelelő orvost az érintett önkormányzat(ok) a javaslattételt követő 6 hónapon belül sem jelöli(k) meg.
 
-(2) Ha az (1) bekezdés szerinti önkormányzat – a praxisjog engedélyezésére jogosult egészségügyi államigazgatási szerv véleményének kikérését követően –
+(2) Ha az (1) bekezdés szerinti önkormányzat – a praxiskezelő véleményének kikérését követően –
 
 a) a praxisjogot megszerezni kívánó orvossal – a praxisjog megszerzése esetén – az adott körzetben a 2/B. § szerinti feladat-ellátási szerződést kíván kötni, erről a felek előszerződést kötnek,
 
