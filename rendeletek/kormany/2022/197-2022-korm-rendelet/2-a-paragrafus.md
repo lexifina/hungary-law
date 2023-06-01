@@ -1,4 +1,4 @@
-2/A. §[^11] (1) A 2. § szerinti adóalany a 2023. adóévre vonatkozóan az e §-ban foglaltak szerinti különadó önadózás útján történő megállapítására, bevallására és megfizetésére kötelezett.
+2/A. §[^21] (1) A 2. § szerinti adóalany a 2023. adóévre vonatkozóan az e §-ban foglaltak szerinti különadó önadózás útján történő megállapítására, bevallására és megfizetésére kötelezett.
 
 (2) Az e § szerinti adó alapja a 2022. adóévi éves beszámoló alapján meghatározott nettó árbevétel.
 
@@ -14,4 +14,4 @@
 
 (8) Az e § szerinti különadóból származó bevétel a központi költségvetés Rezsivédelmi Alapjának bevétele.
 
-[^11]: A 2/A. §-t a 100/2023. (III. 29.) Korm. rendelet 1. §-a iktatta be.
+[^21]: A 2/A. §-t a 100/2023. (III. 29.) Korm. rendelet 1. §-a iktatta be.

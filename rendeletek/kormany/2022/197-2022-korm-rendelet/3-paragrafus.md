@@ -4,7 +4,7 @@ a) a megújuló energiaforrásból vagy hulladékból nyert energiával termelt 
 
 b) a megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló 299/2017. (X. 17.) Korm. rendelet (a továbbiakban: METÁR rendelet) hatálya alá tartozó kötelező átvételre jogosult termelő, és
 
-c) a METÁR rendelet hatálya alá tartozó zöld prémium típusú támogatásra jogosult termelő,
+c)[^22] a METÁR rendelet hatálya alá tartozó zöld prémium típusú támogatásra jogosult termelő,
 
 ha a KÁT rendelet szerinti mérlegkör tagsági, a prémium támogatás vagy a zöld prémium típusú támogatás igénybevételéhez szükséges szerződése a 2022. vagy a 2023. adóévben megszűnik, vagy ha a 2022. vagy a 2023. adóévben a kereskedelmi üzemét megkezdi, de nem köti meg a KÁT rendelet szerinti mérlegkör tagsági, prémium támogatási vagy zöld prémium típusú támogatás igénybevételéhez szükséges szerződést.
 
@@ -24,7 +24,7 @@ Az a) és b) pontban a termelő számára a Hivatal végleges határozatában me
 
 (5) Az (1) bekezdés szerinti termelő az e § szerinti különadó kötelezettséget – a (7) bekezdésben foglalt kivétellel – havonta, a tárgyhónapot követő hónap 20. napjáig megállapítja, az állami adóhatóság által rendszeresített nyomtatványon bevallja és megfizeti.
 
-(6) E § rendelkezéseit az (1) bekezdés szerinti termelő első alkalommal a mérlegkör tagsági, a prémium támogatási vagy a zöld prémium típusú támogatás igénybevételéhez szükséges szerződés megszűnése napját követő nap vagy – abban az esetben, ha a termelő a kereskedelmi üzemét megkezdi, de nem köti meg a mérlegkör tagsági, prémium támogatási vagy zöld prémium típusú támogatás igénybevételéhez szükséges szerződést – a kereskedelmi üzem megkezdésének napját magában foglaló teljes adóévére, de legkorábban 2022-ben kezdődő, utoljára a 2023. december 31. napját magában foglaló teljes adóévére alkalmazza.
+(6)[^23] E § rendelkezéseit az (1) bekezdés szerinti termelő első alkalommal a mérlegkör tagsági, a prémium támogatási vagy a zöld prémium típusú támogatás igénybevételéhez szükséges szerződés megszűnése napját követő nap vagy – abban az esetben, ha a termelő a kereskedelmi üzemét megkezdi, de nem köti meg a mérlegkör tagsági, prémium támogatási vagy zöld prémium típusú támogatás igénybevételéhez szükséges szerződést – a kereskedelmi üzem megkezdésének napját magában foglaló teljes adóévére, de legkorábban 2022-ben kezdődő, utoljára a 2024. december 31. napját magában foglaló teljes adóévére alkalmazza.
 
 (7) Az (1) bekezdés szerinti termelő a 2022. január 1-je és 2022. július 1-je közötti időszak egyes hónapjaira az e § szerint fizetendő különadót 2022. szeptember 20. napjáig állapítja meg, vallja be és fizeti meg.
 
@@ -33,3 +33,6 @@ Az a) és b) pontban a termelő számára a Hivatal végleges határozatában me
 (9) Az e § szerinti különadó adónak minősül. Az e §-ban nem szabályozott kérdésekben az adóigazgatási rendtartásról szóló törvény és az adózás rendjéről szóló törvény rendelkezései az irányadók.
 
 (10) Az e § szerinti különadóból származó bevétel az államháztartás központi alrendszerének bevétele.
+
+[^22]: [A 3. § (1) bekezdés c) pontjában a 206/2023. (V. 31.) Korm. rendelet 12. § b) pontja által elrendelt módosítás, amely szerint a „2022. vagy a 2023. adóévben” szövegrészek helyébe a „2022., a 2023. vagy a 2024. adóévekben” szöveg lép, nem vezethető át.]
+[^23]: A 3. § (6) bekezdése a 206/2023. (V. 31.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.

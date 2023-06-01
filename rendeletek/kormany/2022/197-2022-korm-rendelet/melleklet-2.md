@@ -10,8 +10,8 @@
 
 | 5. | 120 felett | 81 000 forint | 61 000 forint | 41 000 forint |
 
-2. melléklet a 197/2022. (VI. 4.) Korm. rendelethez[^40]
+2. melléklet a 197/2022. (VI. 4.) Korm. rendelethez[^74]
 
 A népegészségügyi termékadó-köteles termék
 
-[^40]: A 2. melléklet a 257/2022. (VII. 18.) Korm. rendelet 6–7. §-a, a 441/2022. (XI. 7.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^74]: A 2. melléklet a 257/2022. (VII. 18.) Korm. rendelet 6–7. §-a, a 441/2022. (XI. 7.) Korm. rendelet 6. §-a szerint módosított szöveg.
