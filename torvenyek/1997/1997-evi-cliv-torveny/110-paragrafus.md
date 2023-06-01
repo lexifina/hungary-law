@@ -46,6 +46,8 @@ c) a (8) bekezdés szerinti személy megfelelő oktatására vagy felkészítés
 
 okozta.
 
+(9a) Az Eütev. 4. § a) pont ab) alpontja szerinti egészségügyi dolgozó tevékenysége feletti felügyelet a tevékenység végzésének helye szerinti egészségügyi szolgáltatónál tevékenységet végző egészségügyi dolgozó által biztosítandó, foglalkoztatási jogviszonyára tekintet nélkül.
+
 (10) A (4) bekezdésben foglaltaktól eltérően
 
 a) az a szabad mozgás és tartózkodás jogával rendelkező személy, aki Magyarországon elismerhető egészségügyi szakképesítéssel rendelkezik, továbbá

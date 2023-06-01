@@ -64,6 +64,8 @@ m) a felügyelet melletti tevékenységgyakorlás kezdete és időtartama, a fel
 
 n) a 110. § (16) bekezdés b) pontja szerint kapott, az egészségügyi dolgozó külföldi tevékenységvégzési jogosultágát érintő adat.
 
+o) jogszabályban meghatározott halottvizsgálatra jogosult mentőtiszt esetén a halottvizsgálati képzésről szóló igazolást.
+
 (4a) Az egészségügyi dolgozó hivatásának gyakorlásakor
 
 a) a saját családi nevét és utónevét vagy a születési nevét,
@@ -82,7 +84,7 @@ használja. Ennek keretében az egészségügyi dolgozó az egészségügyi tev�
 
 (7) A működési nyilvántartást vezető szerv az egészségügyi dolgozó működési nyilvántartásból való törlésének tényéről, valamint az egészségügyi dolgozók (4) bekezdés a), b) és e)–g) pontja szerinti adatairól a működési nyilvántartásból való törlést vagy az abba történő felvételt követő naptári hónap során, továbbá az ezen adatokban bekövetkezett változásokról havi rendszerességgel – törvény szerinti hatósági ellenőrzés elvégzése céljából – elektronikus úton tájékoztatást nyújt az egészségbiztosítási szerv részére.
 
-(7a) A működési nyilvántartást vezető szerv az egészségügyi dolgozók működési nyilvántartásából az (5) bekezdés szerinti – bárki számára megismerhető – adatokat a nyilvántartásba történő felvételt követő naptári hónap során, továbbá az ezen adatokban bekövetkezett változásokat havi rendszerességgel – a jogszabályban előírt feladatai ellátása érdekében – elektronikus úton megküldi az országos tisztifőorvosi feladatokat ellátó szerv részére.
+(7a) A működési nyilvántartást vezető szerv az egészségügyi dolgozók működési nyilvántartásából a (4) bekezdés b)–c), e), k) és m) pontja, továbbá a (4) bekezdés a) pontjából az egészségügyi dolgozó neve, illetve az egészségügyi tevékenység gyakorlása során használt neve, valamint a (4) bekezdés g) pontjából az egészségügyi tevékenység szüneteltetésének ténye szerinti adatokat a nyilvántartásba történő felvételt követően, továbbá az ezen adatokban bekövetkezett változásokat napi rendszerességgel – a jogszabályban előírt feladatai ellátása érdekében – elektronikus úton, informatikai rendszerkapcsolat útján megküldi az országos tisztifőorvosi feladatokat ellátó szerv részére.
 
 (8) A működési nyilvántartást vezető szerv az egészségügyi dolgozó működési nyilvántartásból való törlésének tényéről, elhalálozás esetén annak dátumáról,, valamint az egészségügyi dolgozók (4) bekezdés b) és e)–g) pontja szerinti adatairól a működési nyilvántartásból való törlést követő naptári hónap során, továbbá az ezen adatokban bekövetkezett változásokról – az egészségügyi tevékenység végzéséhez szükséges feltételek fennálltával kapcsolatos adategyeztetés céljából –, annak a működési nyilvántartásba történt bejegyzését követő 15 napon belül elektronikus úton tájékoztatja az illetékes szakmai kamarát. A működési nyilvántartást vezető szerv a szakmai kamara megkeresésére, a kamarai tagság létesítéséhez jogszabály alapján szükséges, a (4) bekezdés b) és k) pontja szerinti adatairól 15 napon belül elektronikus úton tájékoztatja a szakmai kamarát.
 

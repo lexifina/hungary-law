@@ -28,7 +28,9 @@ kezeli.
 
 (3) Az (1) bekezdés a) pontjában foglaltak megállapítására a mentőtiszt vagy a külön jogszabály szerinti orvos jogosult. Az (1) bekezdés b) és c) pontjában foglaltak megállapítására kizárólag kormányrendeletben meghatározott orvos jogosult.
 
-(4) A halottat, perinatális halál esetén a magzatot, valamint az újszülöttet csak a halál bekövetkezését megállapító orvosi halottvizsgálat után lehet kórbonctani vizsgálat, eltemetés, elhamvasztás vagy szerv-, szövetkivétel céljából a halál bekövetkezésének helyéről elszállítani.
+(3a) Az (1) bekezdés b) pontjában foglaltak valószínűsítésére mentőtiszt is jogosult.
+
+(4) A halottat, perinatális halál esetén a magzatot, valamint az újszülöttet csak a halál bekövetkezését megállapító orvosi vagy jogszabályban meghatározott esetekben mentőtiszt által végzett halottvizsgálat után lehet kórbonctani vizsgálat, eltemetés, elhamvasztás vagy szerv-, szövetkivétel céljából a halál bekövetkezésének helyéről elszállítani.
 
 (5) Korai vagy középidős magzati halál esetén halottvizsgálatnak nincs helye, ilyen halálozásról halottvizsgálati bizonyítványt kitölteni nem kell.
 

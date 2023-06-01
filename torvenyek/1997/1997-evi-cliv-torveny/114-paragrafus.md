@@ -28,7 +28,7 @@ k) az engedélyezett és nyilvántartásba vett gyógyszerismertetői tevékenys
 
 l) az adott évre vonatkozó Országos Statisztikai Adatgyűjtési Program keretében gyűjtött, az egyes egészségügyi szakképesítésekhez kapcsolódó bér- és létszám-statisztikai adatokat, valamint az egészségügyi állás- és létszámkimutatásra vonatkozó adatokat,
 
-m) az Ehi. 6. § (4) bekezdése, valamint a 6/A. § (2) bekezdése szerinti nyilvántartás adatait,
+m) az Ehi. 6. § (4) és (4a) bekezdése, 6/A. § (2) bekezdése, valamint 6/B. § (1) és (2) bekezdése szerinti nyilvántartás adatait,
 
 n) az egészségbiztosítási államigazgatási szervvel közvetlenül fennálló finanszírozási szerződés alapján az alapellátás körébe tartozó egészségügyi tevékenységet végző egészségügyi szolgáltatók egészségügyi tevékenység végzésére vonatkozó miniszteri rendeletben meghatározott adatait,
 

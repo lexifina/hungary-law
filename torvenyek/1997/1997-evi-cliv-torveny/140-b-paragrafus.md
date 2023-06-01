@@ -2,7 +2,7 @@
 
 140/B. § (1) Az orvosokkal, fogorvosokkal, továbbá a nem orvosi- és egészségtudományi képzési területen szerzett alap szakképesítéssel rendelkező, de egészségügyi felsőfokú szakirányú szakképzésben egészségügyi szakképesítést szerzett egészségügyi dolgozókkal (e § alkalmazásában a továbbiakban együtt: orvos) szemben szakmai-etikai eljárás (e § alkalmazásában a továbbiakban: etikai eljárás) lefolytatására az egészségügyben működő szakmai kamarákról szóló 2006. évi XCVII. törvény (a továbbiakban: Ekt.) VI. Fejezetében foglaltakat e §-ban foglalt eltérésekkel kell alkalmazni. Etikai vétség a (4) bekezdés szerinti szakmai-etikai szabályzatban foglalt szabályok vagy kötelezettségek vétkes megszegése.
 
-(2) Az etikai eljárást – közfeladatként – az ETT folytatja le, első fokon az ETT-nek a Kormány rendeletében meghatározott testülete, másodfokon az ETT elnöksége jár el. Az etikai eljárásra – törvény eltérő rendelkezése hiányában – az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell alkalmazni azzal, hogy
+(2) Az etikai eljárást – közfeladatként – az ETT folytatja le, első fokon az ETT-nek a Kormány rendeletében meghatározott első fokon eljáró testülete, másodfokon az ETT-nek a Kormány rendeletében meghatározott másodfokon eljáró testülete jár el. Az etikai eljárásra – törvény eltérő rendelkezése hiányában – az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell alkalmazni azzal, hogy
 
 a) nem alkalmazhatók a törvénynek
 
@@ -14,13 +14,15 @@ vonatkozó rendelkezései, továbbá
 
 b) az ügyintézési határidő negyvenöt nap.
 
-(3) Az etikai eljárás tekintetében az Ekt. VI. Fejezet rendelkezéseinek alkalmazása során a területi szervezet etikai bizottságán orvos esetén az ETT-nek a Kormány rendeletében meghatározott testületét, országos etikai bizottság esetén az ETT-t, a kamarai tag alatt az orvost kell érteni. Az Ekt. 25. § (3) bekezdésétől eltérően az ETT az etikai eljárás során első és másodfokon legalább háromtagú bizottságként jár el.
+(3) Az etikai eljárás tekintetében az Ekt. VI. Fejezet rendelkezéseinek alkalmazása során a területi szervezet etikai bizottságán orvos esetén az ETT-nek a Kormány rendeletében meghatározott első fokon eljáró testületét, országos etikai bizottság esetén az ETT-nek a Kormány rendeletében meghatározott másodfokon eljáró testületét, a kamarai tag alatt az orvost kell érteni. Az Ekt. 25. § (3) bekezdésétől eltérően az ETT az etikai eljárás során első és másodfokon legalább háromtagú bizottságként jár el.
 
 (4) Az orvosokra kiterjedő szakmai-etikai szabályzatot – kamarai tagságtól függetlenül – az ETT a miniszter jóváhagyásával adja ki. Az ETT a szakmai-etikai szabályzatot – annak miniszteri jóváhagyását megelőzően – megfelelő határidő tűzésével véleményezés céljából megküldi a Magyar Orvosi Kamara részére. Az ETT a Magyar Orvosi Kamara véleményéről tájékoztatja a minisztert. A szakmai-etikai szabályzatot a miniszter a központi kormányzati honlapon, valamint az ETT a honlapján az elfogadást követő 8 napon belül közzéteszi.
 
 (5) Az etikai gyakorlat egységességének biztosítása érdekében az ETT elvi állásfoglalásokat adhat ki.
 
-(6) Az ETT-nek az etikai eljárás során hozott végleges döntésével szemben bírósági jogorvoslatnak van helye. A kereset a határozat kézbesítésétől számított 30 napon belül terjeszthető elő.
+(6) Az ETT-nek az etikai eljárás során hozott végleges döntésével szemben közigazgatási pernek van helye. A kereset a határozat kézbesítésétől számított 30 napon belül terjeszthető elő.
+
+(6a) Az ETT etikai eljárásban hozott döntését a bíróság nem változtathatja meg.
 
 (7) Az orvosok tekintetében kiszabható etikai büntetések:
 
