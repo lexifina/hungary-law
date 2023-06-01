@@ -10,7 +10,7 @@ b) harminc év jogviszony esetén háromhavi,
 
 c) negyven év jogviszony esetén öthavi
 
-illetményének megfelelő összeg.
+alapilletményének megfelelő összeg.
 
 (3) A szolgálati elismerés a (2) bekezdés szerinti egészségügyi szolgálati jogviszonyban töltött idő betöltésének a napján esedékes.
 

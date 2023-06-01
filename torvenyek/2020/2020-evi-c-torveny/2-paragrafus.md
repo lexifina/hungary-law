@@ -34,7 +34,7 @@ c) szándékos bűncselekmény miatt végrehajtásában felfüggesztett szabads�
 
 (7) A Kormány rendeletében az egészségügyi szolgálati jogviszony létesítésének feltételeként további feltételeket állapíthat meg.
 
-(8) A (3)–(6) bekezdésben és a (7) bekezdés szerinti rendeletben meghatározott alkalmazási feltételek alól felmentés nem adható. Az egészségügyi szolgálati jogviszonyban álló személynek az egészségügyi szolgálati jogviszony teljes időtartama alatt meg kell felelnie az e törvényben és a (7) bekezdés szerinti rendeletben meghatározott feltételeknek, azok hiánya azonnali hatályú felmondási oknak minősül.
+(8) A (3)–(6) bekezdésben és a (7) bekezdés szerinti rendeletben meghatározott alkalmazási feltételek alól felmentés nem adható. Az egészségügyi szolgálati jogviszonyban álló személynek az egészségügyi szolgálati jogviszony teljes időtartama alatt meg kell felelnie az e törvényben és a (7) bekezdés szerinti rendeletben meghatározott feltételeknek, azok hiánya esetén az érvénytelenség jogkövetkezményeit kell alkalmazni.
 
 (9) Az egészségügyi szolgálati munkaszerződésben a munkavégzés helyeként több – e törvény hatálya alá tartozó – egészségügyi szolgáltató meghatározható, feltéve, hogy az egészségügyi szolgálati jogviszonyban álló személy tekintetében a munkáltató ugyanaz.
 

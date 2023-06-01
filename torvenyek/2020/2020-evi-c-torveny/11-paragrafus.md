@@ -2,7 +2,7 @@
 
 (1) Az egészségügyi szolgáltató fenntartója döntése alapján – az érintett egészségügyi szolgáltató vezetője véleményének kikérését követően – egészségügyi közfeladat ellátása érdekében az egészségügyi szolgálati jogviszonyban álló személy határozott időre kirendelhető egy másik – ugyanazon fenntartóhoz tartozó – egészségügyi szolgáltatóhoz.
 
-(2) A kirendelés időtartama nem haladhatja meg az egy évet. A kirendelés ugyanarra a feladatra egy alkalommal, legfeljebb egy évvel meghosszabbítható. A kirendelés lejártát követően az egészségügyi szolgálati jogviszonyban álló személyt az egészségügyi szolgálati munkaszerződése szerinti egészségügyi szolgáltató köteles eredeti munkakörében továbbfoglalkoztatni.
+(2) A kirendelés időtartama nem haladhatja meg tizenkét hónapos időszak alatt összesen a negyvennégy beosztás szerinti munkanapot vagy háromszázötvenkét órát. A kirendelés ugyanarra a feladatra egy alkalommal, legfeljebb egy évvel meghosszabbítható. A kirendelés lejártát követően az egészségügyi szolgálati jogviszonyban álló személyt az egészségügyi szolgálati munkaszerződése szerinti egészségügyi szolgáltató köteles eredeti munkakörében továbbfoglalkoztatni.
 
 (3) A kirendelés időtartamára az egészségügyi szolgálati jogviszonyban álló személy az egészségügyi szolgálati munkaszerződésben foglalt illetményre jogosult a kirendelés helye szerinti szervtől, a kirendelés időtartama alatt az illetmény csak az egészségügyi szolgálati jogviszonyban álló személy javára módosítható.
 

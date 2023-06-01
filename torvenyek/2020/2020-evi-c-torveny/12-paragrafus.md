@@ -16,7 +16,7 @@ c) az e törvény hatálya alá tartozó egészségügyi szolgáltató és a hon
 
 (5) A (4) bekezdés szerinti áthelyezésre alkalmazni kell a 11. § (4) és (5) bekezdését, valamint az Mt. 53. § (3)–(4) bekezdését.
 
-(6) Az egészségügyi szolgálati jogviszonyt felmondással meg kell szüntetni, ha a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdésében foglalt feltételt legkésőbb a felmondási idő leteltekor teljesítő közalkalmazott kérelmezi.
+(6) Az egészségügyi szolgálati jogviszonyt felmondással meg kell szüntetni, ha a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdésében foglalt feltételt legkésőbb a felmondási idő leteltekor teljesítő egészségügyi szolgálati jogviszonyban álló személy kérelmezi.
 
 (7) A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdésében foglalt feltétel megállapításához szükséges jogosultsági időt a nyugdíjbiztosítási igazgatási szerv határozatával kell igazolni.
 

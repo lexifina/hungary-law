@@ -1,18 +1,14 @@
 ### 1. § [A törvény hatálya]
 
-(1) E törvény hatálya kizárólag – ide nem értve a munkavállalói résztulajdont – az állami és az önkormányzati fenntartású egészségügyi szolgáltatóra, annak fenntartójára, valamint az állami vagy önkormányzati fenntartású egészségügyi szolgáltatónál egészségügyi szolgálati jogviszonyban álló személy (a továbbiakban: egészségügyi szolgálati jogviszonyban álló személy) jogállására terjed ki.
+(1) E törvény hatálya kizárólag – a munkavállalói résztulajdon kivételével – az állami és az önkormányzati fenntartású egészségügyi szolgáltatóra, annak fenntartójára, valamint az állami vagy önkormányzati fenntartású egészségügyi szolgáltatónál egészségügyi szolgálati jogviszonyban álló személy (a továbbiakban: egészségügyi szolgálati jogviszonyban álló személy) jogállására terjed ki.
 
 (2) Ha jogszabály rendelkezése folytán valamely egészségügyi szolgáltató az e törvény hatálya alá tartozó egészségügyi szolgáltatóvá alakul át, az egészségügyi szolgáltatóra és annak foglalkoztatottjára – törvény vagy kormányrendelet eltérő rendelkezése hiányában – e törvény rendelkezéseit az egészségügyi szolgáltató átalakulását követő harmadik hónap első napjától kell alkalmazni.
 
-(3) Egészségügyi szolgálati jogviszonyban foglalkoztatható az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény (a továbbiakban: Eütev.)
+(3) Egészségügyi szolgálati jogviszonyban foglalkoztatható – a jogszabályban meghatározott esetekben – az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény (a továbbiakban: Eütev.)
 
-a) 4. § a) pontja szerinti egészségügyi dolgozó,
+a) 4. § a) és c) pontja szerinti egészségügyi dolgozó,
 
-b) 4. § b) pontja szerinti egészségügyben dolgozó,
-
-c) 4. § c) pontja szerinti rezidens
-
-a jogszabályban meghatározott esetekben.
+b) 4. § b) pontja szerinti egészségügyben dolgozó.
 
 (4) Az (1) bekezdés szerinti egészségügyi szolgáltatónál – az (5) bekezdésben foglalt kivétellel – csak egészségügyi szolgálati jogviszony keretében lehet egészségügyi tevékenységet és az egészségügyi szolgáltató működőképességének, illetve az egészségügyi szolgáltatások üzemeltetésének biztosítására irányuló tevékenységet végezni. Az egészségügyi szolgáltató működőképességének, illetve az egészségügyi szolgáltatások üzemeltetésének biztosítására irányuló tevékenységek szabályait a Kormány rendeletben határozza meg.
 

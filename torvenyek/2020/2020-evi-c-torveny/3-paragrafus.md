@@ -6,7 +6,7 @@
 
 (3) A próbaidő nem hosszabbítható meg. A próbaidő tartama alatt az egészségügyi szolgálati jogviszonyt bármelyik fél azonnali hatállyal indokolás nélkül megszüntetheti.
 
-(4) Nem kell próbaidőt kikötni
+(4) Nem lehet próbaidőt kikötni
 
 a) áthelyezés esetén,
 

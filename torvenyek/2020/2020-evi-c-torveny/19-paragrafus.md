@@ -18,7 +18,7 @@ a jogviszony megszűnésekor érvényes illetményének megfelelő összegű vé
 
 (5) E törvény hatálybalépése nem szakítja meg a 2020. december 31. napján fennálló jogviszonyból eredő igények elévülését.
 
-(6) Az egészségügyi szolgálati jogviszonyban álló személy a 2020. december 31-én meglévő szabadságát 2023. december 31-ig kiveheti.
+(6) Az egészségügyi szolgálati jogviszonyban álló személynek a 2020. december 31-én meglévő szabadságát 2023. december 31-ig ki kell adni.
 
 (7) A 2021. március 1. napján fennálló és e törvény alapján engedélykötelessé váló tevékenység, illetve jogviszony engedélyeztetése iránti kérelmet az egészségügyi szolgálati jogviszony létrejöttét követő 60 napon belül kell az egészségügyi szolgálati jogviszonyban álló személynek a Kormány rendeletében meghatározottak szerint előterjesztenie.
 

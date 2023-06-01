@@ -14,7 +14,7 @@ a) az egészségügyi szolgálati jogviszonyban álló személy felettese,
 
 b) a minősítést végző vezető,
 
-c) feladatkörének keretei között a törvényességi ellenőrzést végző vagy törvényességi felügyeletet gyakorló szerv,
+c) feladatkörének keretei között a törvényességi ellenőrzést végző vagy törvényességi felügyeletet gyakorló szerv, valamint a fenntartó,
 
 d) munkaügyi, polgári jogi, közigazgatási per kapcsán a bíróság,
 
