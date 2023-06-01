@@ -10,10 +10,10 @@
 
 a) a bírót az Országgyűlés az Alkotmánybíróság tagjává választotta, a hivatalba lépésétől az Alkotmánybíróságban betöltött tagsága megszűnéséig,
 
-b) a 3. § (4a) bekezdés szerint jön létre, a kinevezésétől az Alkotmánybíróságban betöltött tagsága megszűnéséig
+b)
 
 szünetel.
 
 (2) A szolgálati viszony szünetelését követően a bíró beosztására az 58. § (3) és (4) bekezdésében foglalt rendelkezéseket kell megfelelően alkalmazni.
 
-(3) A szolgálati viszony (1a) bekezdés szerinti szünetelését követően a Kúria elnöke a bírót a Kúriára osztja be.
+(3) A szolgálati viszony (1a) bekezdés a) pontja szerinti szünetelését követően a bírót az Alkotmánybíróság tagjává történt választását megelőző szolgálati helyére kell beosztani.

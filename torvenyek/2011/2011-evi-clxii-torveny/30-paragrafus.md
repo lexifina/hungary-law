@@ -6,7 +6,7 @@
 
 (2) A büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 680. § (4) bekezdésében meghatározott ügyekben ítélkező, továbbá a bírósági közvetítői tevékenységet végző bírákat – a bíróság elnökének javaslatára – az OBH elnöke jelöli ki.
 
-(3) Az (1), (1a) és (2) bekezdésben foglalt hatásköröket a Kúria bírái tekintetében a Kúria elnöke megfelelően gyakorolja.
+(3) Az (1), (1a), (2) és (7) bekezdésben foglalt hatásköröket a Kúria bírái tekintetében a Kúria elnöke megfelelően gyakorolja.
 
 (4) A jogszabálysértő önkormányzati rendelet felülvizsgálatára irányuló, valamint a helyi önkormányzat törvényen alapuló jogalkotási kötelezettségének elmulasztása miatti eljárásban eljáró bírákat a Kúria elnöke jelöli ki.
 
@@ -15,5 +15,7 @@
 (6) A bíró kijelöléséhez a bíró hozzájárulása szükséges.
 
 (7) Az OBH elnöke a kijelölést a kijelölés kezdeményezésére jogosult indítványára megszünteti.
+
+(7a) Ha az OBH elnöke vagy a Kúria elnöke a kijelölést a bíró hozzájárulása nélkül kívánja megszüntetni, előzetesen be kell kérnie az OBT egyetértését, és a megszüntetésre az OBT egyetértésével kerülhet sor.
 
 (8) Az érintett szervhez történő beosztás kivételével a beosztási hely változása esetén a kijelölés megszűnik.

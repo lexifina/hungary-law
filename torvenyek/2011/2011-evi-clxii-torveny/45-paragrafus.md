@@ -6,4 +6,4 @@
 
 (3) A törvényszék, az ítélőtábla, valamint a Kúria elnöke biztosítja a bíró (1) bekezdésben foglalt kötelezettségeinek teljesítéséhez szükséges feltételeket.
 
-(4) Az (1) bekezdés szerinti képzés rendszerének és a képzési kötelezettség teljesítésének szabályait az OBH elnöke szabályzatban határozza meg.
+(4) Az OBH elnöke az (1) bekezdés szerinti képzés rendszerének és képzési kötelezettség teljesítésének szabályait az OBT egyetértésével kiadott szabályzatban határozza meg.

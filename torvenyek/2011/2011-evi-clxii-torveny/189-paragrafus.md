@@ -14,12 +14,14 @@ f) illetményelőleg,
 
 g) a bírói szolgálati viszonyban töltött idő anyagi elismerése,
 
-h) hosszú bírói szolgálati viszony esetén megtakarítás jellegű életbiztosítás kötése,
+h) jutalom,
 
-i) a helyi munkába járás támogatása,
+i) hosszú bírói szolgálati viszony esetén megtakarítás jellegű életbiztosítás kötése,
 
-j) kezességvállalással vagy kedvezményes kölcsönnel gépkocsi-vásárlás támogatása.
+j) a helyi munkába járás támogatása,
+
+k) kezességvállalással vagy kedvezményes kölcsönnel gépkocsi-vásárlás támogatása.
 
 (2) A nyugállományú bíró pénzbeli és természetbeni támogatásban részesíthető.
 
-(3) Az (1) és (2) bekezdésben meghatározott juttatások részletes feltételeit és mértékét az OBH elnöke – az érdek-képviseleti szervekkel együttműködve – szabályzatban állapítja meg.
+(3) Az (1) és (2) bekezdésben meghatározott juttatások mértékét és részletes feltételeit – ideértve a juttatások odaítélésének feltételeit is – az OBH elnöke az érdek-képviseleti szervekkel együttműködve, valamint az OBT egyetértésével, szabályzatban állapítja meg.

@@ -2,7 +2,7 @@
 
 (2) A bíró hivatali tevékenysége során köteles végrehajtani az OBH elnökének intézkedéseit, utasításait.
 
-(3) A hivatali beosztás megszűnését követően a bírót tényleges bírói álláshelyre, indokolt esetben pályázat nélkül tanácselnöki munkakörbe kell beosztani, illetve kinevezni a bíró hivatali tevékenységét megelőző vagy azzal legalább azonos szintű, lehetőleg a bíró lakóhelye szerinti szolgálati helyre.
+(3) A hivatali beosztás megszűnését követően a bírót tényleges bírói álláshelyre, indokolt esetben pályázat nélkül tanácselnöki munkakörbe kell beosztani, illetve kinevezni a bíró hivatali tevékenységét megelőző vagy azzal azonos szintű, lehetőleg a bíró lakóhelye szerinti szolgálati helyre.
 
 (4) A bíró – hozzájárulásával – más szolgálati helyre is beosztható.
 
