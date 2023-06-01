@@ -2,7 +2,7 @@
 
 a) az OBH elnökhelyettese és egyéb alkalmazottai tekintetében az OBH elnöke,
 
-b)
+b) az OBT alkalmazottai tekintetében az OBT elnöke,
 
 c) az egyéb igazságügyi szerv vezetője, vezetőjének helyettese, valamint az egyéb igazságügyi szerv igazságügyi alkalmazottai tekintetében – a 8/A. § (1) bekezdésében meghatározott kivétellel – jogszabályban meghatározott személy
 

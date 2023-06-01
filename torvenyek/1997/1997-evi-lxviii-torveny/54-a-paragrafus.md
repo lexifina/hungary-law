@@ -12,4 +12,4 @@
 
 (7) A teljesítményértékeléssel szembeni jogorvoslatra az 53. § (9) bekezdésében foglaltakat kell alkalmazni.
 
-(8) Az igazságügyi alkalmazott teljesítményértékelésének részletes szabályait a bíróságokkal, illetve az OBH-val szolgálati jogviszonyban álló igazságügyi alkalmazottak tekintetében az OBH elnöke szabályzatban, az 1. § (1) bekezdés c) pontjában meghatározott igazságügyi alkalmazottak tekintetében a miniszter rendeletben állapítja meg.
+(8) Az igazságügyi alkalmazott teljesítményértékelésének részletes szabályait a bíróságokkal, illetve az OBH-val szolgálati jogviszonyban álló igazságügyi alkalmazottak tekintetében az OBH elnöke szabályzatban, az OBT-vel szolgálati jogviszonyban álló igazságügyi alkalmazottak tekintetében az OBT határozatban, az 1. § (1) bekezdés c) pontjában meghatározott igazságügyi alkalmazottak tekintetében a miniszter rendeletben állapítja meg.

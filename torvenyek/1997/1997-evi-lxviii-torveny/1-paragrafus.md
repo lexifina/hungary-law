@@ -6,7 +6,7 @@
 
 a) a bíróságok,
 
-b) az Országos Bírósági Hivatal (a továbbiakban: OBH),
+b) az Országos Bírósági Hivatal (a továbbiakban: OBH), és az Országos Bírói Tanács (a továbbiakban: OBT),
 
 c) az igazságügyi szakértői intézmény (a továbbiakban: egyéb igazságügyi szerv)
 

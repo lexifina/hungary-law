@@ -12,7 +12,11 @@
 
 (7) A képesítési követelményekkel kapcsolatos részletes rendelkezéseket – így az (5) bekezdés szerinti vizsgákra vonatkozó szabályokat is –
 
-a) az OBH és a bíróságok képesítési követelményei esetében az OBH elnöke véleményének kikérésével az igazságügyért felelős miniszter,
+a) az igazságügyért felelős miniszter
+
+aa) az OBH és a bíróságok képesítési követelményei esetében az OBH elnöke véleményének kikérésével,
+
+ab) az OBT képesítési követelményei esetében az OBT véleményének beszerzése mellett,
 
 b) egyéb igazságügyi szerv esetében – a c) pontban foglalt kivétellel – az a miniszter,
 
