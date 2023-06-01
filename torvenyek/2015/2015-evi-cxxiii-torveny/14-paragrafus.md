@@ -1,1 +1,3 @@
-14. § A védőnői ellátás egységes színvonalú ellátása érdekében járási, vármegyei, valamint a védőnői ellátás szakmai irányításáért felelős országos egészségügyi államigazgatási szerv keretében országos szakmai vezető védőnő működik. A szakmai vezető védőnők választására, jogállására, feladataira és juttatásaira vonatkozó részletes szabályokat a miniszter rendeletben állapítja meg.
+14. § (1) Az egészségügyi államigazgatási szerv jogszabályban foglaltak szerint járási, vármegyei, valamint országos hatáskörrel védőnői hatósági felügyeleti tevékenységet lát el.
+
+(2) Az egészségügyi szolgáltatás irányításáért felelős szerv, az országos szakmai vezető védőnő irányításával a védőnői szolgáltatás szakmai irányítását, felügyeletét és megfelelőségének ellenőrzését végzi a kollegiális védőnői mentorrendszeren keresztül a védőnői ellátás egységes színvonalú biztosítása érdekében.

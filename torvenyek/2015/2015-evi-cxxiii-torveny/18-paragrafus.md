@@ -16,12 +16,12 @@ e) az iskola-egészségügyi ellátás részletes szakmai szabályait,
 
 f) a foglalkozás-egészségügyi alapellátás körében végezhető megelőző ellátásokat,
 
-g) a kollegiális szakmai vezető háziorvos, házi gyermekorvos, fogorvos, valamint a szakmai vezető védőnők választására, jogállására, feladataira, juttatásaira vonatkozó részletes szabályokat,
+g) a kollegiális szakmai vezető háziorvos, házi gyermekorvos, fogorvos, valamint a hatósági felügyeleti tevékenységet ellátó védőnők kiválasztására, jogállására, feladataira, juttatásaira és területi illetékességük meghatározására vonatkozó részletes szabályokat,
 
 h) az otthoni szakápolás és otthoni hospice ellátás részletes szakmai szabályait
 
 i) a 8. § (6a) bekezdése szerinti feltételeket,
 
-j) az egészségügyi alapellátások körzetei kialakításának szempontjait és a praxiskezelőnek a háziorvosi körzetek ellátása biztosításával kapcsolatos feladatait, valamint a 21. §-ban meghatározott időpontot
+j) az egészségügyi alapellátások körzetei kialakításának szempontjait, eljárási szabályait és a praxiskezelőnek a háziorvosi körzetek ellátása biztosításával kapcsolatos feladatait, valamint a 21. §-ban meghatározott időpontot
 
 rendeletben állapítsa meg.
