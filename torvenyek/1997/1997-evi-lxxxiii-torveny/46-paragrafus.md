@@ -22,7 +22,7 @@ a) tizennyolc éves kora előtt válik keresőképtelenné, vagy
 
 b) iskolai tanulmányai megszűnését követő 180 napon belül biztosítottá válik, és keresőképtelenségéig megszakítás nélkül biztosított.
 
-(5) Ha a biztosított a keresőképtelenség első napját közvetlenül megelőző egy éven belül már táppénzben vagy a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény 33. § (2) bekezdése szerinti díjazásban részesült, ennek időtartamát az újabb keresőképtelenség alapján járó táppénz folyósításának időtartamába be kell számítani.
+(5) Ha a biztosított a táppénzre való jogosultság első napját közvetlenül megelőző egy éven belül már táppénzben vagy a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény 33. § (2) bekezdése szerinti díjazásban részesült, ennek időtartamát az újabb táppénz folyósításának időtartamába be kell számítani, kivéve, ha a biztosított a 44. § g) pontja alapján minősül keresőképtelennek.
 
 (6) Az (5) bekezdés alkalmazásában nem számít előzménynek az az idő, amely alatt a biztosított
 

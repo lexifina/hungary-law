@@ -14,6 +14,8 @@ b) a Tbj. 17. § (1) bekezdés a) pontja hatálya alá tartozó magyar állampol
 
 köteles a külföldön, illetve a nemzetközi szervezet szociális biztonsági rendszerében létrejött biztosítását és annak megszűnését 15 napon belül bejelenteni az egészségbiztosítónak.
 
+(5a) Ha a TAJ-számmal rendelkező személy nem teljesíti az (5) bekezdés szerinti bejelentési kötelezettségét, azonban a külföldi biztosító részéről jogosultságigazolás kerül kiadásra, akkor a jogosultságigazolást a külföldi biztosítás létrejöttére vonatkozó bejelentésnek kell tekinteni.
+
 (6) Az e törvényben meghatározott bejelentési, nyilvántartási, adatszolgáltatási kötelezettséget nem vagy késedelmesen teljesítő, annak nem az előírt módon eleget tevő vagy valótlan adatokat közlő
 
 a) természetes személy 10 ezertől 100 ezer forintig,

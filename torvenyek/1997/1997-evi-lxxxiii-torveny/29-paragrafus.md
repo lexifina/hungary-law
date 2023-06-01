@@ -30,7 +30,7 @@ igazolja.
 
 (8) A nemzetközi egyezmény vagy az uniós rendeletek hatálya alá tartozó személy az egyezményben vagy az uniós rendeletekben meghatározott egészségügyi szolgáltatásra vonatkozó jogosultságát az egyezményben vagy az uniós rendeletekben meghatározott módon igazolja.
 
-(9) Az egészségügyi szolgáltatás igénybevételére való jogosultság a Tbj.-ben meghatározott belföldi személy részére a biztosítási jogviszonynak, illetve a Tbj. 22. § (1) bekezdés a)–o) és r) pontjában meghatározott jogosultsági feltételnek a megszűnését követően
+(9) A magyar közfinanszírozott egészségügyi szolgáltatónál az egészségügyi szolgáltatás igénybevételére való jogosultság a Tbj.-ben meghatározott belföldi személy részére a biztosítási jogviszonynak, illetve a Tbj. 22. § (1) bekezdés a)–o) és r) pontjában meghatározott jogosultsági feltételnek a megszűnését követően
 
 a) 45 napig marad fenn, ha a jogosultsági feltétel a megszűnést megelőzően megszakítás nélkül legalább 45 napig fennállt,
 

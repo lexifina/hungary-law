@@ -1,6 +1,6 @@
 20. § (1) A finanszírozási szerződés szerinti ellátásra kötelezett szolgáltató
 
-a) a fekvőbeteg-gyógyintézeti ellátások elvégzését – ha a biztosított egészségi állapota nem indokolja az azonnali ellátását, figyelemmel a (3) bekezdésben foglaltakra is – a (2) bekezdésben meghatározott esetben intézményi várólista alapján teljesíti,
+a) a fekvőbeteg-gyógyintézeti ellátások elvégzését a (2) bekezdésben meghatározott esetben intézményi várólista alapján teljesíti,
 
 b) a járóbeteg-szakellátások elvégzését a jogszabály szerinti betegfogadási lista alapján teljesíti,
 
@@ -64,8 +64,8 @@ c) az a)–b) pont hatálya alá nem tartozó személyek közül az, akinek egé
 
 (8) A biztosítottat a várólistáról vagy betegfogadási listáról törölni kell, ha egészségi állapotában olyan változás áll be, amely az adott beavatkozás elvégzését véglegesen lehetetlenné vagy orvosszakmai szempontból indokolatlanná teszi.
 
-(9) Az intézményi várólistát vezető személy gondoskodik a biztosított intézményi várólistára történő felvételéről és az intézményi előjegyzési listából történő egyidejű törléséről, ha az intézményi várólista szerint adható legkorábbi időpont eléri vagy meghaladja a beteg kérésére az intézményi előjegyzési listában rögzített időpontot.
+(9)
 
-(10) Az intézményi előjegyzési lista tekintetében a (3c) és (9) bekezdésben nem szabályozott kérdésekben a (2)–(2b), (3b), (6) és (8) bekezdésében, valamint a 20/A. § (1)–(6) bekezdésében foglaltak szerint kell eljárni.
+(10) Az intézményi előjegyzési lista tekintetében a (3c) bekezdésben nem szabályozott kérdésekben a (2)–(2b), (3b), (6) és (8) bekezdésében, valamint a 20/A. § (1)–(6) bekezdésében foglaltak szerint kell eljárni.
 
 (11) Az intézményi regisztrációs lista tekintetében a (2) bekezdés a) pontjában, a (2a) és (2b) bekezdésben, a (3b) bekezdésben, a (6) bekezdésben és a (8) bekezdésben, valamint a 20/A. § (1)–(6) bekezdésében foglaltak szerint kell eljárni.

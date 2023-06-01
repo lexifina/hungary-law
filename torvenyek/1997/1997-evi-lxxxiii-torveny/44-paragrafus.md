@@ -2,7 +2,7 @@
 
 a) aki betegsége miatt munkáját nem tudja ellátni;
 
-b) aki várandóssága, illetőleg szülése miatt nem tudja munkáját ellátni, és csecsemőgondozási díjra nem jogosult;
+b) aki várandóssága, illetőleg szülése miatt nem tudja munkáját ellátni;
 
 c) az anya, ha kórházi ápolás alatt álló egyévesnél fiatalabb gyermekét szoptatja;
 

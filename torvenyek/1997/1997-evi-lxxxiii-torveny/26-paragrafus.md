@@ -46,6 +46,8 @@ kivéve azon gyógyszereket, melyekre vonatkozó azonos indikációs területre 
 
 c) a 3000 forint havi terápiás költséget el nem érő készítményekre.
 
+d) a vény nélkül kiadható, nem támogatott gyógyszerekre.
+
 (5) Az (1) bekezdés alapján méltányosságból támogatás
 
 a) gyógyszerhez az E. Alap gyógyszertámogatás jogcímcsoport előirányzatának a különös méltánylást érdemlő körülmények esetén felhasználható összeg időarányos részének terhére,

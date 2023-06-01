@@ -8,7 +8,9 @@
 
 (4) Az egészségbiztosító ellenőrzi az egészségügyi dokumentáció vezetésére, a beutalás rendjére, továbbá a támogatással rendelhető gyógyszer, gyógyászati segédeszköz rendelésére, készletben tartására, kiszolgáltatására és nyilvántartására, valamint gyógyszer, gyógyászati segédeszköz, gyógyászati ellátás támogatással történő rendelésére és nyújtására vonatkozó előírások megtartását, érvényesülését. A gyógyszer, gyógyászati segédeszköz és gyógyászati ellátás támogatással történő rendelésére a 32. § alapján jogosult orvos az ellenőrzést végző személy rendelkezésére bocsátja az érintett biztosítottra vonatkozó, az ellenőrzés lefolytatásához szükséges egészségügyi dokumentációt.
 
-(5) Az (1)–(4) bekezdésben foglaltak során az ellenőrzéssel érintett személyes és egészségügyi adatok kezelésére az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény vonatkozó rendelkezéseit kell alkalmazni.
+(4a) A bértámogatások igénylésének és felhasználásának nyomon követése és jogszerűségének ellenőrzése érdekében az egészségbiztosító jogosult megismerni a jogosult nevét, születési idejét, adóazonosító jelét, TAJ-számát, valamint a foglalkoztatása teljesítésére vonatkozó adatokat.
+
+(5) Az (1)–(4a) bekezdésben foglaltak során az ellenőrzéssel érintett személyes és egészségügyi adatok kezelésére az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény vonatkozó rendelkezéseit kell alkalmazni.
 
 (6) Az egészségbiztosító az ellenőrzés megállapításairól és javaslatairól tájékoztatja a szolgáltatót és a közszolgáltatásért felelős szervet, továbbá az egészségügyi szolgáltató fenntartóját, ha az nem a közszolgáltatásért felelős szerv.
 

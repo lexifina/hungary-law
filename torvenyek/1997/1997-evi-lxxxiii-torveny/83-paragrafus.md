@@ -118,7 +118,7 @@ a) a betegségek megelőzését és korai felismerését szolgáló egészségü
 
 b) a szűrővizsgálatok igazolására vonatkozó rendelkezéseket,
 
-c) az egyes főbb betegségcsoportok finanszírozási, vizsgálati és terápiás eljárási rendje, valamint a gyógyszerterápiás ajánlások kidolgozásának, szerkesztésének, valamint az ezeket érintő szakmai egyeztetések lefolytatásának egységes szabályait,
+c) az egyes főbb betegségcsoportok finanszírozási eljárásrendje szerkesztésének, a szakmai ellenőrzés alapját képező szempontoknak, valamint az egyes főbb betegségcsoportok vizsgálati és terápiás eljárási rendje és a gyógyszerterápiás ajánlások kidolgozásának, szerkesztésének, valamint az ezeket érintő szakmai egyeztetések lefolytatásának egységes szabályait,
 
 d) a meddőség kezelésére vonatkozó rendelkezéseket,
 
@@ -182,7 +182,7 @@ zs)
 
 (6) Felhatalmazást kap az egészségbiztosításért felelős miniszter, hogy rendeletben határozza meg
 
-a) a (4) bekezdés c) pontja alapján kiadott rendeletben előírt szabályoknak megfelelően a finanszírozási eljárásrendeket,
+a)
 
 b) a sürgős szükség körébe tartozó egészségügyi szolgáltatásokat,
 
@@ -190,7 +190,7 @@ c) az orvosi bélyegzők formai és tartalmi elemeire vonatkozó részletes szab
 
 d) a gyógyító-megelőző eljárások során alkalmazott egészségügyi technológiák egészségbiztosítási finanszírozásba történő befogadásához kapcsolódó eljárás során alkalmazandó szakmai szempontrendszert és szakmapolitikai prioritásokat,
 
-e) a háziorvosi indikátorrendszerre vonatkozó részletes szabályokat, az egyes indikátorok meghatározását, a háziorvosok gyógyító-megelőző tevékenységének értékelési módszerét és ennek alapjául szolgáló célértékeket,
+e) a háziorvosi és fogorvosi indikátorrendszerre vonatkozó részletes szabályokat, az egyes indikátorok meghatározását, és a háziorvosok és fogorvosok gyógyító-megelőző tevékenységének értékelési módszerét, és ennek alapjául szolgáló célértéket,
 
 f) az egészségügyi ellátás finanszírozásában használt kódrendszerek meghatározását és alkalmazásainak részletszabályait,
 

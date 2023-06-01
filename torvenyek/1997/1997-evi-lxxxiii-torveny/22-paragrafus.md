@@ -22,9 +22,9 @@ c) a megfelelő feltételekkel rendelkező, bármely más – a biztosított lak
 
 (6) Az utazási költségekhez nyújtott támogatás a külön jogszabályban foglaltak szerint illeti meg
 
-a) a 16 éven aluli gyermek kísérőjét,
+a) a 18 éven aluli gyermek kísérőjét,
 
-b) a 16 éven felüli biztosított kísérőjét, amennyiben egészségi állapota miatt a kíséretet az utazási költségtérítési támogatásra vonatkozó igényt rögzítő egészségügyi szolgáltató szükségesnek tartja.
+b) a 18 éven felüli biztosított kísérőjét, amennyiben egészségi állapota miatt a kíséretet az utazási költségtérítési támogatásra vonatkozó igényt rögzítő egészségügyi szolgáltató szükségesnek tartja.
 
 (7) Helyi utazás költségeihez támogatás nem vehető igénybe.
 
