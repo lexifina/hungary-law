@@ -48,9 +48,15 @@ f) lejárati idejét és tárolásának körülményeit.
 
 (6) A forgalomba hozatali eljárás ügyintézési határideje a kérelem beérkezését követő naptól számított legfeljebb kettőszáztíz nap. Forgalomba hozatali engedély csak EGT-megállapodásban részes államban letelepedett kérelmezőnek adható. A forgalomba hozatali engedély jogosultja felelős a gyógyszer forgalomba hozataláért. A képviselő kijelölése nem mentesíti a forgalomba hozatali engedély jogosultját a termékért viselt egyéb jogi felelősség alól.
 
-(7) Az (1)–(6) bekezdés szerint kiadott forgalomba hozatali engedély öt évig hatályos. Az engedély – a hatályosság lejártát megelőzően legalább kilenc hónappal benyújtott kérelemre, az előny/kockázat arány újraértékelése alapján – megújítható. A gyógyszerészeti államigazgatási szerv a megújítási kérelmet 90 nap alatt bírálja el. A megújítást követően a gyógyszer forgalomba hozatali engedélye korlátlan ideig hatályos, kivéve, ha a gyógyszerészeti államigazgatási szerv úgy dönt, hogy az e bekezdés alapján benyújtott farmakovigilanciával kapcsolatos adatok alapján vagy az adott gyógyszerrel történő betegexpozíció elégtelensége miatt öt évre újítja meg.
+(7) Az (1)–(6) bekezdés szerint kiadott forgalombahozatali engedély öt évig hatályos. Az engedély – a hatályosság lejártát megelőzően legalább kilenc hónappal benyújtott kérelemre, az előny/kockázat arány újraértékelése alapján – megújítható. Ha a gyógyszer tekintetében az Európai Gazdasági Térség területén lefolytatott, az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló, 2001. november 6-i 2001/83/EK európai parlamenti és tanácsi irányelv III. cím 4. fejezetében szabályozott első eljárásban előírt megújítás dátuma az (1)–(6) bekezdés szerint kiadott forgalombahozatali engedély ötéves hatályosságának lejártát megelőzi, a megújítás iránti kérelem benyújtására ezen időpontot megelőzően legalább kilenc hónappal van lehetőség. A gyógyszerészeti államigazgatási szerv a megújítási kérelmet 90 nap alatt bírálja el. A megújítást követően a gyógyszer forgalombahozatali engedélye korlátlan ideig hatályos, kivéve, ha a gyógyszerészeti államigazgatási szerv úgy dönt, hogy azt öt évre újítja meg, ha azt
 
-(8)
+a) az e bekezdés alapján benyújtott farmakovigilanciával kapcsolatos adatok vagy
+
+b) az adott gyógyszerrel történő betegexpozíció elégtelensége
+
+szempontjai alátámasztják.
+
+(8) A (7) bekezdés szerinti megújításnak minősül, ha a gyógyszer forgalombahozatali engedélyét az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló, 2001. november 6-i 2001/83/EK európai parlamenti és tanácsi irányelv III. cím 4. fejezete szerinti eljárás referencia tagállamában már határozatlan időre megújították.
 
 (9) Ha a gyógyszer gyártója, illetve a forgalomba hozatali engedély jogosultja személyében változás következik be, a forgalomba hozatali engedély jogosultja köteles a változást – a változást megtörténtét követő harminc napon belül – a gyógyszerészeti államigazgatási szervhez bejelenteni.
 

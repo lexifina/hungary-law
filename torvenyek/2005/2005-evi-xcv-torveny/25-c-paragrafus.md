@@ -12,7 +12,7 @@ b) a gyógyszer alkalmazását a kezelőorvos olyan beteg kezelése érdekében 
 
 c) a beteg vagy annak törvényes képviselője az engedélyezés előtti gyógyszeralkalmazáshoz a kockázatokra is kiterjedő tájékoztatáson alapuló írásos beleegyezését adja, és
 
-d) az engedélyezés előtti gyógyszeralkalmazáshoz a gyógyszer gyártója hozzájárul és vállalja, hogy a gyógyszert térítésmentesen rendelkezésre bocsátja a kezelés teljes időtartama alatt, vagy ha az korábban bekövetkezik, a gyógyszer társadalombiztosítási támogatásba történő befogadásáig, és garantálja annak minőségét a helyes gyártási gyakorlatnak megfelelően,
+d) az engedélyezés előtti gyógyszeralkalmazáshoz a gyógyszer gyártója hozzájárul és vállalja, hogy a gyógyszert térítésmentesen rendelkezésre bocsátja a kezelés teljes időtartama alatt – ideértve a kérelemben meghatározott várható kezelési időtartamot meghaladó, a beteg kezeléshez szükséges további időtartamot –, vagy ha az korábban bekövetkezik, a gyógyszer társadalombiztosítási támogatásba történő befogadásáig, és garantálja annak minőségét a helyes gyártási gyakorlatnak megfelelően,
 
 e) az engedélyezés előtti gyógyszeralkalmazás nem valósít meg a Gyftv. alapján tiltott kereskedelmi gyakorlatot.
 
@@ -26,18 +26,20 @@ e) az engedélyezés előtti gyógyszeralkalmazás nem valósít meg a Gyftv. al
 
 (5) A gyógyszerészeti államigazgatási szerv az engedély kiadásáról a kérelem beérkezését követő naptól számított huszonegy, sürgős szükség esetén soron kívül, de legkésőbb három napon belül dönt, szükség esetén az illetékes szakmai kollégium véleményének kikérését követően.
 
+(5a) Az engedélyezés előtti gyógyszeralkalmazásra irányuló kérelem benyújtásának időpontjában fennálló, az engedélyezés alapjául szolgáló körülmények változása esetén az engedély módosítását kell kérelmezni.
+
 (6) Az engedélyezés előtti gyógyszerrendelés engedélyezési eljárása igazgatási szolgáltatási díjmentes.
 
-(7) Az (1)–(6) bekezdést kell akkor is alkalmazni, ha az alkalmazni kívánt gyógyszer forgalomba hozatalát az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerek engedélyezésére és felügyeletére vonatkozó közösségi eljárások meghatározásáról és az Európai Gyógyszerügynökség létrehozásáról szóló 726/2004/EK európai parlamenti és tanácsi rendelet szerinti központosított eljárásban már engedélyezték, azonban kereskedelmi forgalomba hozatala az Európai Unió területén még nem történt meg.
+(7) Az (1)–(6) bekezdést kell akkor is alkalmazni, ha az alkalmazni kívánt gyógyszer forgalomba hozatalát a 726/2004/EK európai parlamenti és tanácsi rendelet szerinti központosított eljárásban már engedélyezték, azonban kereskedelmi forgalomba hozatala az Európai Unió területén még nem történt meg.
 
-(8) Engedélyezés előtti gyógyszeralkalmazás keretében gyógyszert – kiemelt járványügyi érdekből vagy egyéb, az egészségügyről szóló 1997. évi CLIV. törvény szerinti egészségügyi válsághelyzettel közvetlenül összefüggő – kiemelten különös méltánylást érdemlő betegellátási érdekből az (1), (2) és (7) bekezdésben foglaltaktól a következő eltérésekkel lehet a gyógyszerészeti államigazgatási szerv engedélye alapján alkalmazni, amennyiben a már rendelkezésre álló klinikai evidenciákra tekintettel a gyógyszer alkalmazásától várható előny/kockázat arány kedvező:
+(8) Engedélyezés előtti gyógyszeralkalmazás keretében gyógyszert kiemelt közegészségügyi vagy járványügyi érdekkel összefüggő különös méltánylást érdemlő betegellátási érdekből az (1), (2) és (7) bekezdésben foglaltaktól a következő eltérésekkel lehet a gyógyszerészeti államigazgatási szerv engedélye alapján alkalmazni, amennyiben a már rendelkezésre álló klinikai evidenciákra tekintettel a gyógyszer alkalmazásától várható előny/kockázat arány kedvező:
 
 a) az (1) bekezdés a) pont aa) alpontja szerinti feltétel olyan gyógyszerrel is teljesíthető, amely az adott indikációra vonatkozóan az Európai Gyógyszerügynökség vagy az Egészségügyi Világszervezet ajánlásában vagy programjában szerepel,
 
-b) az (1) bekezdés b) pontja azzal az eltéréssel alkalmazandó, hogy a kérelmező egészségügyi szolgáltató vagy – az ellátásért felelős egészségügyi szolgáltató vagy orvos megjelölése esetén – szponzor is lehet, és a kérelem előre meghatározott betegcsoportra vagy programra vonatkozóan is benyújtható,
+b) az (1) bekezdés b) pontja azzal az eltéréssel alkalmazandó, hogy a kérelmező egészségügyi szolgáltató vagy – az ellátásért felelős egészségügyi szolgáltató vagy orvos megjelölése esetén – klinikai vizsgálat megbízója vagy az állami egészségügyi tartalék kezelője is lehet, és a kérelem előre meghatározott betegcsoportra vagy programra vonatkozóan is benyújtható,
 
 c) az (1) bekezdés d) pontjától indokolt kérelem alapján a gyógyszerészeti államigazgatási szerv kivételes esetben eltekinthet, amennyiben a gyógyszer gyártója részéről a hozzájárulás, illetve a gyógyszer térítésmentes rendelkezésre bocsátására vonatkozó kötelezettségvállalás beszerzése bizonyíthatóan olyan késedelemmel járna vagy olyan aránytalan nehézségekbe ütközne, amelyek az engedély kiadását ellehetetlenítenék,
 
-d) a (2) bekezdés szerinti indokolási kötelezettséget az (1) bekezdés a) pont aa) alpontja szerinti klinikai vizsgálat megbízója is teljesítheti, és
+d) a (2) bekezdés szerinti indokolási kötelezettséget az (1) bekezdés a) pont aa) alpontja szerinti klinikai vizsgálat megbízója vagy – ha a kérelmet az állami egészségügyi tartalék kezelője nyújtotta be – az állami egészségügyi tartalék kezelője is teljesítheti, és
 
 e) a (7) bekezdés szerinti feltétel abban az esetben is teljesül, ha az alkalmazni kívánt gyógyszer kereskedelmi forgalomba hozatala Magyarország területén nem történt meg, és a c) pont szerinti kivétel nem kerül alkalmazásra.

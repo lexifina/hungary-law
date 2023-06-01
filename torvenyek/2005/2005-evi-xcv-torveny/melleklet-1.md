@@ -3740,7 +3740,7 @@ III.G.4.
 
 |
 
-A III.G.1. és a III.G.2. sor szerinti engedélyezési eljárás, ha a kérelmező csak az értékelő jelentés I. részére nézve kér értékelést
+A III.G.1. és a III.G.2. sor szerinti, az 536/2014/EU európai parlamenti és tanácsi rendelet 11. cikke szerint zajló engedélyezési eljárás az értékelő jelentés I. részére vonatkozó szakasza
 
 |
 
@@ -3756,7 +3756,7 @@ III.G.5.
 
 |
 
-A III.G.1. és a III.G.2. sor szerinti engedélyezési eljárás, ha a kérelmező csak az értékelő jelentés II. részére nézve kér értékelést
+A III.G.1. és a III.G.2. sor szerinti, az 536/2014/EU európai parlamenti és tanácsi rendelet 11. cikke szerint zajló engedélyezési eljárás az értékelő jelentés II. részére vonatkozó szakasza
 
 |
 
@@ -3772,9 +3772,7 @@ III.G.6.
 
 |
 
-A III.G.3. sor szerinti engedélyezési eljárás, ha a kérelmező csak az értékelő jelentés
-
-I. részére nézve kér értékelést
+A III.G.3. sor szerinti, az 536/2014/EU európai parlamenti és tanácsi rendelet 11. cikke szerint zajló engedélyezési eljárás az értékelő jelentés I. részére vonatkozó szakasza
 
 |
 
@@ -3790,9 +3788,7 @@ III.G.7.
 
 |
 
-A III.G.3. sor szerinti engedélyezési eljárás, ha a kérelmező csak az értékelő jelentés
-
-II. részére nézve kér értékelést
+A III.G.3. sor szerinti, az 536/2014/EU európai parlamenti és tanácsi rendelet 11. cikke szerint zajló engedélyezési eljárás az értékelő jelentés II. részére vonatkozó szakasza
 
 |
 

@@ -34,7 +34,7 @@ f) cégjegyzékszámát, nem gazdasági társaságként működő gazdálkodó s
 
 g) kábítószer felelősének nevét.
 
-(11) Az egészségügyi államigazgatási szerv a tisztítatlan ipari mákszalmamaradványokkal szennyezett mákmagot, ipari mák kifejtetlen tokját felvásárló, illetve annak szétválasztását és tisztítását végző, valamint tisztítás utáni ipari mákvetőmag fémzárolását, ipari mákszalma pellettálását, további ipari mákszalmát, kifejtetlen máktokot és kannabiszt, valamint magas THC-tartalmú kendert tároló, annak megsemmisítését végző gazdálkodó szervezetekről nyilvántartást vezet.
+(11) A tisztítatlan ipari mákszalma-maradványokkal szennyezett mákmagot, ipari mák kifejtetlen tokját felvásárló, illetve annak szétválasztását és tisztítását végző, valamint tisztítás utáni ipari mákvetőmag fémzárolását, ipari mákszalma pelletálását, továbbá ipari mákszalmát, kifejtetlen máktokot, alacsony THC-tartalmú kender virágzatát begyűjtő, cséplését végző, tároló, felvásárló, exportáló, reklamáció esetén importáló, valamint annak megsemmisítését végző gazdálkodó szervezetekről az egészségügyi államigazgatási szerv nyilvántartást vezet.
 
 (12) A (11) bekezdés szerinti nyilvántartás tartalmazza:
 
@@ -63,6 +63,8 @@ h) a biztonsági berendezések, intézkedések leírását,
 i) a gazdálkodó szervezettel szerződésben álló tevékenységi engedéllyel rendelkező nevét,
 
 j) alvállalkozó nevét.
+
+(12a) A (12) bekezdés j) pontja értelmében alvállalkozónak minősül az a természetes személy, aki a nyilvántartásba vett gazdálkodó szervezet részére alacsony THC-tartalmú kendert termeszt.
 
 (13) A (11) bekezdés szerinti nyilvántartás a (12) bekezdés a)–c) pontja szerinti adatai tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
