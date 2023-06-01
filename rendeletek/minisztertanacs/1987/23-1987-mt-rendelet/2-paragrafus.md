@@ -1,1 +1,0 @@
-## 1. § A Minisztertanács a Magyar Népköztársaság Kormánya és a Csehszlovák Szocialista Köztársaság Kormánya között Budapesten, 1986. évi november hó 24. napján aláírt, a magyar-csehszlovák vasúti forgalom szabályozásáról szóló Egyezményt e rendelettel kihirdeti.
