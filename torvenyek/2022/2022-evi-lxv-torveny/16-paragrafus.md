@@ -14,4 +14,28 @@ c) a (3)–(5) bekezdésben megjelöltek tájékoztatása.
 
 (5) Az adatkezelő az intézkedésben való jogosulatlan részvétel végrehajtásához való jogra vonatkozó elévülési időn belül kérelemre tájékoztatja az adó- és vámhatóságot a támogatási titokról, ha az adó-, vám és egyéb terhek, illetve vámhiány vagy adóhiány feltárását, behajthatóságának megállapítását szolgálja, továbbá vám-, illetve adóigazgatási eljárás lefolytatásához szükséges.
 
-(6)
+(6) Az adatkezelő tájékoztatja a támogatási titokról – közfeladatának ellátásához szükséges mértékben –:
+
+a) a bíróságot;
+
+b) az ügyészséget;
+
+c) a nyomozó hatóságot;
+
+d) az illetékes nemzetbiztonsági szerv által engedélyezett megkeresés alapján a törvényben meghatározott feladatkörében eljáró nemzetbiztonsági szolgálatot;
+
+e) az Állami Számvevőszéket, a Kormány által kijelölt belső ellenőrzési szervezetet, az Európai Csalás Elleni Hivatalt (OLAF), a tanúsító szervet, az adó- és vámhatóságot, ha a tájékoztatás az ellenőrzéshez szükséges;
+
+f) az Európai Bizottságot, az Európai Számvevőszéket, az Európai Bíróságot;
+
+g) az illetékes hatóságot;
+
+h) a költségvetési fejezetet irányító szervet, ha a tájékoztatás az államháztartásról szóló törvény szerinti belső ellenőrzéshez szükséges;
+
+i) a hatáskörrel rendelkező hatóságot;
+
+j) a Magyar Államkincstár által működtetett monitoringrendszert;
+
+k) az utólagos ellenőrzések végrehajtásáért felelős hatóságot, ha az a kedvezményezett intézkedésben való részvételének utólagos ellenőrzésére irányul;
+
+l) egyéb közfeladatot ellátó szervet, jogszabályban meghatározott, kizárólag a támogatási titok megismerése útján elvégezhető közfeladat ellátása céljából, az e cél eléréséhez feltétlenül szükséges mértékben.

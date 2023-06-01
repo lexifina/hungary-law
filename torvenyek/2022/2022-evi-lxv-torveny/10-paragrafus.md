@@ -66,4 +66,12 @@ d) a kizárólag nemzeti hatáskörben nyújtott támogatások tekintetében a j
 
 22. területi monitoring: a KAP II rendelet 65. cikk (4) bekezdés b) pontja szerinti eljárás.
 
-(2)
+(2) A Kedvezményezetti Nyilvántartási Rendszer (a továbbiakban: KNYR) az eljárásokban részt vevő kedvezményezettek törzsadatainak, elérhetőségük és működésük ellenőrzésére szolgáló adatainak nyilvántartási rendszere, amely tekintetében e törvény alkalmazásában:
+
+a) törzsadat: a 21. § (1) bekezdés szerinti adatok;
+
+b) támogatási azonosító: a KNYR keretében megállapított, a kedvezményezett beazonosítását szolgáló szám;
+
+c) kérelemre nyilvántartásba vett kedvezményezett: a KNYR-ben beazonosított és támogatási azonosítóval rendelkező kedvezményezett, aki, vagy amely kérte a nyilvántartásba vételét;
+
+d) hivatalból nyilvántartásba vett kedvezményezett: a KNYR-ben beazonosított és támogatási azonosítóval rendelkező személy, akit, vagy amelyet a KNYR-t kezelő szerv nem kérelemre indult eljárás során vett nyilvántartásba, továbbá akinek, vagy amelynek KNYR-ben való nyilvántartásba vétele a nem kérelemre induló eljárás során a jogszabályban meghatározott feladatok végrehajtásához szükséges.
