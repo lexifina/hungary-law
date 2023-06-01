@@ -62,11 +62,13 @@ b) táplálkozás-egészségügy szakterületen
 
 ba) vizsgálatokat végez a lakosság táplálkozási helyzetére, tápláltsági állapotára, a táplálkozás és az egészségi állapot közötti összefüggésekre vonatkozóan,
 
-bb) a ba) alpont szerinti feladatokkal összefüggésben táplálkozás-egészségügyi vizsgálatokat végez, különös tekintettel a vendéglátás – ezen belül kiemelten a munkahelyeken, az egészségügyi intézményekben, a nevelési-oktatási intézményekben, továbbá a szociális ellátás, a gyermekjóléti és gyermekvédelmi szolgáltatás keretében bármely formában nyújtott étkeztetés – területén a szolgáltatott élelmiszerekre, ételekre, étrendre vonatkozóan, tápanyagszámítással és biokémiai elemzéssel, valamint a nevelési-oktatási intézményekben eladásra szánt élelmiszerek tápanyag-beviteli értékének megfelelősége tekintetében,
+bb) a ba) alpont szerinti feladatokkal összefüggésben táplálkozás-egészségügyi ellenőrzést, vizsgálatokat végez, különös tekintettel a vendéglátás – ezen belül kiemelten a munkahelyeken, az egészségügyi intézményekben, a nevelési-oktatási intézményekben, továbbá a szociális ellátás, a gyermekjóléti és gyermekvédelmi szolgáltatás keretében bármely formában nyújtott étkeztetés – területén a szolgáltatott élelmiszerekre, ételekre, étrendre vonatkozóan, tápanyagszámítással és biokémiai elemzéssel, valamint a nevelési-oktatási intézményekben eladásra szánt élelmiszerek tápanyag-beviteli értékének megfelelősége tekintetében,
 
 bc) a ba) és a bb) alpont szerinti területeken közreműködik a táplálkozás-egészségügyi előírások kidolgozásában,
 
-bd) a ba)–bc) alpont szerinti feladatok végrehajtásával összefüggő eredményekről tájékoztatja az élelmiszerlánc-biztonsági tudományos szervet;
+bd) a ba)–bc), be) alpont szerinti feladatok végrehajtásával összefüggő eredményekről tájékoztatja az élelmiszerlánc-biztonsági tudományos szervet;
+
+be) a bb) alpont szerinti területeken táplálkozás-egészségügyi minősítést végez.
 
 c) egyes élelmiszerekkel kapcsolatosan
 

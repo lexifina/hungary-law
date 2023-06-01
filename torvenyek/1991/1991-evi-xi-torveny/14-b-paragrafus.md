@@ -19,3 +19,5 @@
 (7b)
 
 (8) Az ivóvízbiztonsággal, az ivóvíz vizsgálatával, valamint a természetes gyógytényezőkkel, természetes ásványvizekkel kapcsolatos hatósági ügyekben nincs helye sommás eljárásnak.
+
+(9) Az ivóvíz-, fürdővíz- és használati melegvíz-ellátásban a vízzel közvetlenül érintkező anyagok, termékek bejelentésével és a technológiák, termékek vízbiztonsági engedélyezésével kapcsolatos hatósági ügyekben nincs helye sommás eljárásnak.

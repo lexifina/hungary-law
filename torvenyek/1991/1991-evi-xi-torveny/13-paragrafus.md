@@ -21,3 +21,5 @@ d) ha az egészségügyi szolgáltató tevékenységét nem a működési enged�
 e) ha az egészségügyi szolgáltató a működési engedélyben nem szereplő szolgáltatást nyújt, és a figyelmeztetés szankció alkalmazása keretében vagy egészségügyi bírság kiszabásával egyidejűleg megállapított határidőre sem kérte a működési engedélye módosítását, az egészségügyi államigazgatási szerv az adott szakmára, szaktevékenységre vonatkozó működési engedélyét visszavonja;
 
 f) ha a szakfelügyeleti vizsgálat olyan szakmai szabályok súlyos megsértését tárta fel, mely a betegek biztonságos ellátását veszélyezteti, az egészségügyi államigazgatási szerv az adott szakmára, szaktevékenységre vonatkozó működési engedélyét visszavonja.
+
+(4) Az egészségügyi államigazgatási szerv az állami adó- és vámhatóság által az adózás rendjéről szóló 2017. évi CL. törvény 131. § (29) bekezdése szerint közölt adatokat – az érintett egészségügyi szolgáltató egészségügyi tevékenységére vonatkozó jogszabályi követelmények betartásának ellenőrzése, az egészségügyi szolgáltatás nyújtása tekintetében hatáskörébe tartozó közigazgatási hatósági eljárás lefolytatása céljából – a közléstől számított egy évig kezeli.

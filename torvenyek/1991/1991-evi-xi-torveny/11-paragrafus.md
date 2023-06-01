@@ -2,11 +2,11 @@
 
 (2) Az egészségügyi államigazgatási szerv figyelmeztetés szankció alkalmazása keretében vagy egészségügyi bírság kiszabásával egyidejűleg elrendeli
 
-a) a hiányosságok megszüntetését, illetőleg a szükséges intézkedések végrehajtását;
+a) a hiányosságok megszüntetését, illetőleg a szükséges intézkedések végrehajtását, engedélyek visszavonását, bejelentések nyilvántartásból törlését;
 
 b) a hiányosságok megszüntetéséig az intézmény, létesítmény stb. működésének, illetőleg az egészségre ártalmas vagy veszélyes tevékenységnek a korlátozását vagy felfüggesztését, ha e szabálytalanságok fennállása egészségkárosodást okozhat;
 
-c) súlyos vagy tömeges egészségkárosodás megelőzése érdekében az egészségre ártalmas tárgyak, vagy anyagok használatának és forgalmazásának megszüntetését, szükség esetén megsemmisítését;
+c) a jogszabályokban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusában foglaltak megsértése, vagy súlyos vagy tömeges egészségkárosodás megelőzése érdekében az egészségre ártalmas, 13/A. § (1) bekezdése szerinti élelmiszerek, termékek, tárgyak, vagy anyagok használatának és forgalmazásának megszüntetését, szükség esetén megsemmisítését;
 
 d) egészségügyi szolgáltatónál észlelt hiányosság esetében az a)–c) pontban felsoroltakon túl – külön jogszabályban foglaltak szerint – az egészségügyi dolgozónak a tevékenységben való jártassága igazolását.
 

@@ -4,7 +4,7 @@
 
 a) a bejelentés nyilvántartási számát,
 
-b) a forgalmazó, illetve a gyártó nevét,
+b) a forgalmazó és a gyártó nevét,
 
 c) a termék, anyag nevét, valamint
 
@@ -14,7 +14,7 @@ d) a termék, anyag rendeltetését.
 
 a) az ivóvíz-biztonsági engedély számát,
 
-b) az engedélyes nevét, valamint
+b) az engedélyes és a forgalmazó nevét, valamint
 
 c) az engedélyezett technológia megjelölését.
 

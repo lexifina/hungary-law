@@ -1,59 +1,23 @@
-6/A. § (1) Az egészségügyi államigazgatási szerv az egészségügyi szolgáltatás gyakorlásának általános feltételeiről, valamint a működési engedélyezési eljárásról szóló kormányrendeletben foglaltak szerint az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 108/A. § (2) bekezdésében foglalt feltételeknek megfelelő személyt vagy szervezetet, valamint az Eütev. 7. § (2) bekezdés a) pontja szerinti szabadfoglalkozású jogviszonyban álló személyt vagy szervezetet – annak bejelentése alapján – hatósági nyilvántartásba veszi. A nyilvántartás – a (2) bekezdés a) pont aa) alpontja szerinti névadatok, a (2) bekezdés e) pont ea) alpontja és f) pont fa) alpontja szerinti természetes személyazonosító adatok, valamint az e) pont eb) alpontja szerinti nyilvántartási adatok kivételével – közhiteles hatósági nyilvántartásnak minősül. A nyilvántartásba vételről az egészségügyi államigazgatási szerv a bejelentő személyt vagy szervezetet értesíti.
+6/A. § (1) Az egészségügyi államigazgatási szerv az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 108/A. § (2) bekezdésében foglalt feltételeknek megfelelő személyt vagy szervezetet – annak bejelentése alapján – hatósági nyilvántartásba veszi. A nyilvántartásba vételt az egészségügyi államigazgatási szerv közli a bejelentő személlyel vagy szervezettel.
 
-(2) Az (1) bekezdés szerinti hatósági nyilvántartás a következő adatokat tartalmazza:
+(2) Az (1) bekezdés szerinti hatósági nyilvántartás tartalmazza:
 
-a) a nyilvántartásba vétel alapján működő egészségügyi szolgáltató
+a) a nyilvántartásba vétel alapján működő egészségügyi szolgáltató 6. § (4) bekezdés a) pont aa)–ag) alpontjában és c) pontjában meghatározott adatait,
 
-aa) cégnevét, egyéni vállalkozó esetén nevét,
+b) a nyilvántartásba vétel alapján működő egészségügyi szolgáltató székhelyére vonatkozó címadatokat,
 
-ab) cégjegyzékszámát vagy bírósági nyilvántartásba vétele számát, egyéni vállalkozó esetén nyilvántartásba vétele számát,
+c) a nyilvántartásba vétel alapján működő egészségügyi szolgáltatóra vonatkozóan a 6. § (4) bekezdés e) pont ea), ed), eh) és el) alpontjában meghatározott adatokat,
 
-ac) a nyilvántartó rendszer által meghatározott egyedi azonosító számát,
+d) a nyilvántartásba vétel alapján működő egészségügyi szolgáltatót foglalkoztató, illetve igénybe vevő egészségügyi szolgáltatóra vonatkozóan azon szervezeti egység engedélyező hatóság által kiadott egyedi azonosítóját, valamint megnevezését, amelynek működtetésében a nyilvántartásba vétel alapján működő egészségügyi szolgáltató részt vesz,
 
-b) a nyilvántartásba vétel alapján működő egészségügyi szolgáltató székhelyére és az egészségügyi szolgáltatás végzésének helyszínéül szolgáló telephelyére vonatkozó következő adatokat:
-
-ba) helységnév,
-
-bb) utca, házszám,
-
-bc) postai irányítószám,
-
-c) a nyilvántartásba vétel alapján működő egészségügyi szolgáltatóra vonatkozóan:
-
-ca) a gyakorolható egészségügyi szakmát vagy szakmákat a hozzájuk tartozó kóddal és az ellátási forma megnevezését a hozzá tartozó kóddal,
-
-cb) a járóbeteg-szakellátásban a heti rendelési időt napi bontásban,
-
-d) a közreműködőt igénybe vevő egészségügyi szolgáltatóra vonatkozóan:
-
-da) azon szervezeti egység engedélyező hatóság által kiadott egyedi azonosítóját, valamint megnevezését, amelynek működésében a nyilvántartásba vétel alapján működő egészségügyi szolgáltató közreműködik,
-
-db) az engedélyező hatóság megnevezését,
-
-e) a nyilvántartásba vétel alapján működő egészségügyi szolgáltató nevében személyesen szolgáltatást nyújtó természetes személy vagy személyek
-
-ea) természetes személyazonosító adatait,
-
-eb) alap- és működési nyilvántartási számát,
-
-ec) a szolgáltatóval fennálló jogviszonyának típusát,
-
-f) a szabadfoglalkozású jogviszonyban álló személy vagy szervezet esetében
-
-fa) cégnevét vagy természetes személyazonosító adatait,
-
-fb) az egészségügyi szakmát vagy szakmákat a hozzá tartozó kóddal és az ellátási forma megnevezését a hozzá tartozó kóddal,
-
-fc) a szabadfoglalkozású jogviszonyban álló személyt vagy szervezetet foglalkoztató egészségügyi szolgáltató azon szervezeti egységének engedélyező hatóság által kiadott egyedi azonosítóját, valamint megnevezését, amelynek működésében a szabadfoglalkozású jogviszonyban álló személy vagy szervezet részt vesz, továbbá az engedélyező hatóság megnevezését,
-
-fd) járóbeteg-szakellátásban a heti rendelési időt napi bontásban.
+e) a nyilvántartásba vétel alapján működő egészségügyi szolgáltató nevében személyesen szolgáltatást nyújtó, az egészségügyi szolgáltatásban részt vevő egészségügyi és nem egészségügyi dolgozók 6/B. §-ban meghatározott adatait szervezeti egységenként és azon belül szakmánként.
 
 (3) A (2) bekezdésben meghatározott adatok a szolgáltató azonosítójához rendelten szerepelnek a nyilvántartásban.
 
-(4)
+(4) A nyilvántartásba vétel alapján működő egészségügyi szolgáltató a (2) bekezdésben foglaltak változását haladéktalanul, de legkésőbb nyolc munkanapon belül bejelenti az egészségügyi államigazgatási szervnek. Az egészségügyi államigazgatási szerv a változást a nyilvántartásba bejegyzi, és ennek tényét közli a bejelentő személlyel vagy szervezettel.
 
-(5) A nyilvántartásba vett egészségügyi szolgáltató vagy a szabadfoglalkozású jogviszonyban álló személy vagy szervezet a (2) bekezdésben foglaltak változását 8 napon belül bejelenti az egészségügyi államigazgatási szervnek. Az egészségügyi államigazgatási szerv a változást a hatósági nyilvántartáson átvezeti és erről a bejelentő személyt vagy szervezetet értesíti.
+(5) A (4) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv értesíti az egészségügyi államigazgatási szervet.
 
-(5a) Az (5) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a nyilvántartásba vett egészségügyi szolgáltató vagy a szabadfoglalkozású jogviszonyban álló személy vagy szervezet kéri – az (5) bekezdés szerinti határidőben értesíti az egészségügyi államigazgatási szervet.
+(6) Az (1) és (4) bekezdés szerinti bejelentés a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 57. § (2) bekezdés a)–d) pontja szerinti bentlakásos intézmények (a továbbiakban: bentlakásos intézmény) által nyújtott, jogszabályban meghatározott kötelező szolgáltatásai körébe tartozó egészségügyi tevékenység vonatkozásában a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásába (a továbbiakban együtt: szolgáltatói nyilvántartás) történő bejegyzésre vagy adatmódosításra irányuló eljárás keretében is előterjeszthető.
 
-(6) Az egészségügyi államigazgatási szervnek a bejelentés alapján egészségügyi szolgáltatóként közhiteles nyilvántartásba vételre irányuló, kérelemre lefolytatott eljárásáért vagy igazgatási szolgáltatásáért – az egészségügyért felelős miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott – igazgatási szolgáltatási díjat kell fizetni.
+(7) Az egészségügyi államigazgatási szervnek a bejelentés alapján egészségügyi szolgáltatóként közhiteles nyilvántartásba vételre irányuló, kérelemre lefolytatott eljárásáért vagy igazgatási szolgáltatásáért – az egészségügyért felelős miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott – igazgatási szolgáltatási díjat kell fizetni, amely átutalással vagy elektronikus díjfizetéssel (EFER) teljesíthető.

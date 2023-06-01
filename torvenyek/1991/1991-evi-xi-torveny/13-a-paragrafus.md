@@ -56,7 +56,7 @@ d) az egészségügyi dolgozó a külön jogszabály szerint előírt alkalmass�
 
 e) az egészségügyi közszolgáltatásért felelős szerv nem teljesíti az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény 2. § (7) és (8) bekezdésében meghatározott bejelentési kötelezettségét.
 
-(3) Egészségügyi bírság abban az esetben szabható ki, ha külön jogszabály az egészségügyi államigazgatási szerv eljárásával összefüggésben szabálysértési vagy közigazgatási – kivéve eljárási – bírságot nem helyez kilátásba.
+(3) Egészségügyi bírság abban az esetben szabható ki, ha külön jogszabály az egészségügyi államigazgatási szerv eljárásával összefüggésben szabálysértési bírságot nem helyez kilátásba.
 
 (4) Az egészségügyi bírság természetes személlyel, jogi személlyel vagy jogi személyiség nélküli jogalannyal szemben szabható ki.
 

@@ -28,7 +28,7 @@ c) a kórházakban és más egészségügyi szolgáltatóknál az éles vagy heg
 
 rendeletben állapítsa meg.
 
-(10) Felhatalmazást kap az egészségügyért felelős miniszter, hogy – az adópolitikáért felelős miniszterrel egyetértésben – a 14. § szerinti igazgatási szolgáltatási díj körét és mértékét, valamint a díj fizetésére vonatkozó egyéb rendelkezéseket rendeletben határozza meg.
+(10) Felhatalmazást kap az egészségügyért felelős miniszter, hogy – az adópolitikáért felelős miniszterrel egyetértésben – a 6. § (7) bekezdése, a 6/A. § (7) bekezdése és a 14. § szerinti igazgatási szolgáltatási díj körét és mértékét, valamint a díj fizetésére vonatkozó egyéb rendelkezéseket rendeletben határozza meg.
 
 (11) Felhatalmazást kap az egészségügyért felelős miniszter, hogy
 
@@ -36,7 +36,7 @@ a) a szúnyogirtószer és szúnyoglárvairtó-szer légi úton történő körn
 
 b) a táboroztatás személyi és tárgyi egészségügyi feltételeit, továbbá a táboroztatás bejelentésére, a bejelentés személyes adatnak nem minősülő további adattartalmára, valamint a táboroztatás hatósági ellenőrzésére és a jogsértő táboroztatás jogkövetkezményeire vonatkozó részletes szabályokat,
 
-c) az élelmiszerekben lévő transz-zsírsavak megengedhető legnagyobb mennyiségét, a transz-zsírsav tartalmú élelmiszerek forgalmazásának feltételeit és hatósági ellenőrzésének szabályait, valamint a lakosság transz-zsírsav bevitelének nyomon követésére vonatkozó szabályokat az élelmiszerlánc-felügyeletért felelős miniszterrel egyetértésben
+c) a transz-zsírsav tartalmú élelmiszerek forgalmazásának feltételeit és hatósági ellenőrzésének szabályait, valamint a lakosság transz-zsírsav bevitelének nyomon követésére vonatkozó szabályokat az élelmiszerlánc-felügyeletért felelős miniszterrel egyetértésben
 
 rendeletben határozza meg.
 
