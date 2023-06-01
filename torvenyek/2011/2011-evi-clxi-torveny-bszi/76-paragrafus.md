@@ -24,11 +24,15 @@ c) javaslatot tesz az OBH elnökhelyetteseinek kinevezésére és felmentésére
 
 (3) Az OBH elnöke a bíróságok költségvetésével kapcsolatos feladatkörében
 
-a) összeállítja – a központi költségvetésről szóló törvény Bíróságokról szóló fejezete, valamint az OBT tekintetében az OBT, továbbá a Kúria tekintetében a Kúria elnöke véleményének kikérésével és ismertetésével – a bíróságok költségvetésére vonatkozó javaslatát és az annak végrehajtására vonatkozó beszámolóját, amelyet a Kormány a központi költségvetésről szóló törvényjavaslat és az annak végrehajtására vonatkozó törvényjavaslat részeként változtatás nélkül terjeszt az Országgyűlés elé,
+a) összeállítja – a központi költségvetésről szóló törvény Bíróságokról szóló fejezete, valamint az OBT tekintetében az OBT által meghatározott, továbbá a Kúria tekintetében a Kúria elnöke véleményének kikérésével és ismertetésével meghatározott – a bíróságok költségvetésére vonatkozó javaslatát és az annak végrehajtására vonatkozó beszámolóját, amelyet a Kormány a központi költségvetésről szóló törvényjavaslat és az annak végrehajtására vonatkozó törvényjavaslat részeként változtatás nélkül terjeszt az Országgyűlés elé,
 
 b) meghívottként részt vesz a Kormány, továbbá az Országgyűlés költségvetéssel foglalkozó bizottságának ülésén a központi költségvetésről szóló törvényjavaslat és az annak végrehajtására vonatkozó törvényjavaslat bíróságokra vonatkozó költségvetési fejezetének megtárgyalásakor,
 
-c) ellátja a fejezetet irányító szerv vezetőjének feladatait a központi költségvetésről szóló törvény bíróságok fejezete tekintetében azzal, hogy év közben a Kúria előirányzatait a fejezetébe tartozó költségvetési szervekhez – a költségvetési szervek létszám-előirányzatának változása miatt szükséges átcsoportosítások kivételével – a Kúria elnökének egyetértésével csoportosíthatja át,
+c) az OBT cím kivételével ellátja a fejezetet irányító szerv vezetőjének feladatait a központi költségvetésről szóló törvény Bíróságokról szóló fejezete tekintetében azzal, hogy év közben
+
+ca) az OBT előirányzatait nem csoportosíthatja át,
+
+cb) a Kúria előirányzatait a fejezetébe tartozó költségvetési szervekhez – a költségvetési szervek létszám-előirányzatának változása miatt szükséges átcsoportosítások kivételével – a Kúria elnökének egyetértésével csoportosíthatja át,
 
 d) gyakorolja a bírósági fejezet gazdálkodásával kapcsolatos feladatokat,
 
@@ -36,11 +40,11 @@ e) irányítja a bíróságok belső ellenőrzését,
 
 f) az érdek-képviseleti szervekkel együttműködve meghatározza a cafetéria-juttatás éves összegét, és
 
-g) az érdek-képviseleti szervekkel együttműködve megállapítja az egyéb juttatások részletes feltételeit és mértékét.
+g) az érdek-képviseleti szervekkel együttműködve, valamint az OBT egyetértésével megállapítja a bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény 189. § (1) és (2) bekezdése szerinti egyéb juttatások részletes feltételeit és mértékét.
 
 (4) Az OBH elnöke a statisztikai adatgyűjtéssel, az ügyelosztással és a munkateherméréssel kapcsolatos feladatkörében
 
-a) a központi költségvetésről szóló törvény bíróságokra vonatkozó költségvetési fejezetének létszám-előirányzata, valamint a peres és nemperes eljárások átlagos országos munkaterhének mutatói alapján meghatározza a bíróságok – a törvényszékek esetében az illetékességi területükön működő járásbíróságokkal együttes – szükséges bírói és igazságügyi alkalmazotti létszámát,
+a) a központi költségvetésről szóló törvény Bíróságokról szóló fejezetének létszám-előirányzata, valamint a peres és nemperes eljárások átlagos országos munkaterhének mutatói alapján meghatározza a bíróságok, a bíróságokon belül a kollégiumok, a törvényszékek esetében az illetékességi területükön működő járásbíróságokkal együttes, szükséges bírói és igazságügyi alkalmazotti létszámát az OBT – központi költségvetésről szóló törvényben meghatározott keretek figyelembevételével adott – egyetértésével,
 
 b)
 
@@ -48,7 +52,7 @@ c)
 
 d) dönt a bírósági statisztikai adatok gyűjtéséről és az adatok feldolgozásával kapcsolatos központi feladatokról, és
 
-e) meghatározza és szükség esetén évente felülvizsgálja a bírói munkateher mérésére szolgáló adatlapokat és módszereket, legalább évente egy alkalommal áttekinti a munkateher és az országos ügyforgalmi adatok alakulását, valamint bírósági szintenként és ügyszakonként meghatározza a peres és nemperes eljárások átlagos országos munkaterhét.
+e) meghatározza és szükség esetén évente felülvizsgálja az OBT egyetértésével a bírói munkateher mérésére szolgáló adatlapokat és módszereket, legalább évente egy alkalommal áttekinti a munkateher és az országos ügyforgalmi adatok alakulását, valamint bírósági szintenként és ügyszakonként meghatározza a peres és nemperes eljárások átlagos országos munkaterhét.
 
 (5) Az OBH elnöke a személyzeti kérdésekkel kapcsolatos feladatkörében
 
@@ -60,13 +64,13 @@ c) a bírót első kinevezésekor – a bírák jogállásáról és javadalmaz�
 
 d) beosztja a katonai bírót a katonai tanácsba, valamint a Magyar Honvédségnél fennálló hivatásos szolgálati viszonyának megszűnésekor más bírói munkakörbe,
 
-e) kijelöli – a bírák jogállásáról és javadalmazásáról szóló törvényben foglaltak szerint – a büntetőeljárásról szóló 2017. évi XC. törvény 680. § (4) bekezdésében meghatározott ügyekben ítélkező bírákat és a bírósági közvetítői tevékenységet végző bírákat, valamint a Fővárosi Ítélőtábla elnökének javaslatára a Fővárosi Ítélőtáblán, a törvényszék elnökének javaslatára a törvényszéken közigazgatási és munkaügyi ügyekben eljáró bírákat, továbbá dönt a bírák jogállásáról és javadalmazásáról szóló törvényben foglaltak szerint a kijelölés megszüntetéséről,
+e) kijelöli – a bírák jogállásáról és javadalmazásáról szóló törvényben foglaltak szerint – a büntetőeljárásról szóló 2017. évi XC. törvény 680. § (4) bekezdésében meghatározott ügyekben ítélkező bírákat és a bírósági közvetítői tevékenységet végző bírákat, valamint a Fővárosi Ítélőtábla elnökének javaslatára a Fővárosi Ítélőtáblán közigazgatási ügyben, az ítélőtábla elnökének javaslatára az ítélőtáblán munkaügyi ügyekben, a törvényszék elnökének javaslatára a törvényszéken közigazgatási és munkaügyi ügyekben eljáró bírákat, továbbá dönt a bírák jogállásáról és javadalmazásáról szóló törvényben foglaltak szerint a kijelölés megszüntetéséről, a bíró hozzájárulása nélküli megszüntetés esetén az OBT egyetértésével,
 
-f) beoszthatja a bírót a Kúriára, az OBH-ba, továbbá a bírák jogállásáról és javadalmazásáról szóló törvényben meghatározott szervhez (a továbbiakban: érintett szerv), illetve dönt a beosztás megszüntetéséről és a bírónak ismét tényleges bírói álláshelyre történő beosztásáról,
+f) beoszthatja a bírót a Kúriára, az OBH-ba, továbbá a bírák jogállásáról és javadalmazásáról szóló törvényben meghatározott szervhez (a továbbiakban: érintett szerv), – az OBH-ba történő beosztás kivételével – az OBT egyetértésével, illetve dönt a beosztás megszüntetéséről és a bírónak ismét tényleges bírói álláshelyre történő beosztásáról,
 
 g) dönt a bíró áthelyezéséről,
 
-h) dönt a bíró más szolgálati helyre történő kirendeléséről, ha a kirendelés nem a törvényszék és az illetékességi területén működő járásbíróság között vagy a törvényszék illetékességi területén működő járásbíróságok között történik,
+h) dönt az OBT egyetértésével – továbbá a Kúriára történő kirendelés esetén a Kúria bírói tanácsa, valamint a Kúriának a kirendelendő bíró ügyszakának megfelelő ügyszakú kollégiuma egyetértésével – a bíró más szolgálati helyre történő kirendeléséről, ha a kirendelés nem a törvényszék és az illetékességi területén működő járásbíróság között vagy a törvényszék illetékességi területén működő járásbíróságok között történik,
 
 i) dönt a bíró tekintetében a tartós külszolgálat ellátásáról,
 
@@ -96,7 +100,7 @@ d) a b) és c) pont szerinti vizsgálat megállapításaitól függően megteszi
 
 a) dönt a központi oktatási feladatokról és felügyeli azok végrehajtását, továbbá meghatározza a regionális képzési feladatokat, és
 
-b) meghatározza a bírák képzési rendszerének és a képzési kötelezettség teljesítésének szabályait,
+b) meghatározza az OBT egyetértésével a bírák képzési rendszerének és a képzési kötelezettség teljesítésének szabályait,
 
 c) kinevezi a Magyar Igazságügyi Akadémia vezetőjét,
 
@@ -104,7 +108,7 @@ d) meghatározza a bírósági fogalmazók egységes központi képzésének ren
 
 (8) Az OBH elnöke a tájékoztatással kapcsolatos feladatkörében
 
-a) félévente tájékoztatja a tevékenységéről az OBT-t,
+a) félévente tájékoztatja a tevékenységéről az OBT-t, az OBT által meghatározott felépítésű tájékoztatóban,
 
 b) évente tájékoztatja a Kúria, az ítélőtáblák, valamint a törvényszékek elnökeit a tevékenységéről,
 
@@ -143,3 +147,5 @@ f) a bíróságok igazgatásával és
 g) a képzéssel
 
 kapcsolatos feladatai ellátásához szükséges mértékben megilleti a fejezethez tartozó költségvetési szerveknél kezelt adatok kezelésének joga.
+
+(11) Az OBH elnöke az OBT-nek az OBT által a (3) bekezdés a) pontja szerint meghatározott költségvetésére vonatkozó javaslatát és az annak végrehajtására vonatkozó beszámolóját, változtatás nélkül rögzíti a bíróságok költségvetésére vonatkozó javaslatában és az annak végrehajtására vonatkozó beszámolójában.

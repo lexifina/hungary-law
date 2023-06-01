@@ -5,3 +5,5 @@
 (3) Az OBT akkor határozatképes, ha az ülésén tagjainak legalább kétharmada jelen van.
 
 (4) Az OBT a határozatát szótöbbséggel hozza. Szavazategyenlőség esetén az elnök szavazata dönt.
+
+(5) Az OBT bírósági elnök tagjai – ideértve a Kúria elnökét is –, valamint elnökhelyettes tagjai nem vehetnek részt az igazgatási tevékenységükkel kapcsolatos tanácskozásokon és határozatok meghozatalában.

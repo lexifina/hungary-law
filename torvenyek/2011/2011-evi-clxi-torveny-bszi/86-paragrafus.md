@@ -6,7 +6,7 @@
 
 (3) Az OBH
 
-a) előkészíti az OBH elnökének határozatait és gondoskodik azok végrehajtásáról, valamint ellátja az OBT működésével kapcsolatos ügyviteli feladatokat,
+a) előkészíti az OBH elnökének határozatait és gondoskodik azok végrehajtásáról,
 
 b) képviseli az OBH elnökét és a bíróságokat a bírósági eljárásokban,
 

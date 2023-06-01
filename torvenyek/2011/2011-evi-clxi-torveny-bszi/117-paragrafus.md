@@ -48,4 +48,6 @@ t) ellátja azokat az egyéb feladatokat, amelyeket jogszabály, az OBH elnöké
 
 (2) Az (1) bekezdés b) és c) pontjában meghatározott beszámolókat és tájékoztatókat a központi honlapon, továbbá a bíróságok hivatalos lapjában közzé kell tenni.
 
+(2a) A Kúria elnöke indokolja azokat a döntéseit, amelyekhez az OBT egyetértése vagy kötelező véleménye szükséges.
+
 (3) A Kúria elnöke az (1) bekezdés e), g)–j), n), r) és t) pontjában meghatározott feladatait a Kúria elnökhelyettese, a Kúria főtitkára, valamint a Kúria főtitkár-helyettese közreműködése útján is gyakorolhatja a szervezeti és működési szabályzatban meghatározottak szerint.

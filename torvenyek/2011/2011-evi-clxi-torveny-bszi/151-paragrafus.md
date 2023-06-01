@@ -6,6 +6,14 @@ b) kezdeményezheti a járásbírósági elnök, elnökhelyettes, csoportvezető
 
 c) véleményezi a bíróság éves költségvetési tervét és a jóváhagyott költségvetés felhasználását, és
 
-d) véleményezi a bíróság szervezeti és működési szabályzatát és ügyelosztási tervét.
+d) véleményezi a bíróság szervezeti és működési szabályzatát és – a (2) bekezdés b) pont bb) alpontjában foglalt kivétellel – ügyelosztási rendjét.
 
-(2)
+(2) A Kúria bírói tanácsa
+
+a) véleményt nyilvánít a 131. § d) és e) pontjában meghatározott bírósági vezető pályázatáról,
+
+b) egyetértési jogot gyakorol
+
+ba) bírónak a Kúriára való kirendelése tekintetében,
+
+bb) a Kúria ügyelosztási rendje tekintetében.

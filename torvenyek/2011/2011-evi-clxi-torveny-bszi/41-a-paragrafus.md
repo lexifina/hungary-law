@@ -1,6 +1,6 @@
 ## 12/A. A jogegységi panasz elbírálása
 
-41/A. § (1) A jogegységi panaszt a jogegységi panasz tanács bírálja el. A jogegységi panasz tanácsot a Kúria elnöke vagy elnökhelyettese vezeti. A jogegységi panasz tanács az elnökből és további legalább 8 tagból áll, a tagokat az elnök a Kúria kollégiumaiból jelöli ki úgy, hogy minden kollégiumból legalább 1-1 tagot ki kell jelölni.
+41/A. § (1) A jogegységi panaszt a jogegységi panasz tanács bírálja el. A jogegységi panasz tanácsot a Kúria elnöke vagy elnökhelyettese vezeti. A jogegységi panasz tanács tagjai az elnök és további 40 bíró: az elnökhelyettesek, a főtitkár, a kollégiumvezetők, a kollégiumvezető-helyettesek és a tanácselnökök. A Kúria kollégiumai az ügyelosztási rendben dönthetnek úgy, hogy a jogegységi panasz tanács két, az elnökön kívül 20-20 bíró tagból álló résztanácsban jár el. Ebben az esetben a jogegységi panasz tanács azonos ítélkező tanácsba tartozó tagjait a vezetéknevük ítélkező tanácson belüli ABC rendjében kell az I-es és a II-es résztanácsba beosztani, hogy azokban minden ítélkező tanács egyenlő arányban legyen képviselve. Az ügyeket automatikusan felváltva kell kiosztani, a páratlan számú ügyek az I., a páros számú ügyek a II. résztanácsba kerülnek. A jogegységi panasz tanács (résztanács) akkor határozatképes, ha tagjainak kétharmada jelen van. Az eljárás jegyzőkönyvének vezetéséről a főtitkár gondoskodik.
 
 (2) A jogegységi panasz tanács
 

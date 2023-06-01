@@ -6,7 +6,7 @@
 
 88. § (1) Az OBT a bíróságok központi igazgatásának felügyeleti testülete. Az OBT a felügyeleti feladatai mellett közreműködik a bíróságok igazgatásában.
 
-(2) Az OBT székhelye Budapest.
+(2) Az OBT önállóan gazdálkodó központi költségvetési szerv, székhelye Budapest.
 
 (3) Az OBT létszáma 15 fő. Tagjai: a Kúria elnöke, továbbá 14 bíró.
 
