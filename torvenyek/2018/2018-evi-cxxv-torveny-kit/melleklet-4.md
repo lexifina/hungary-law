@@ -209,17 +209,3 @@ A toborzási adatbázis adatköre
 ## II.
 
 ## 1. szakmai tapasztalat
-
-## 2. munkáltatói megnevezése, tevékenységi területe
-
-## 3. betöltött feladatkör
-
-## 4. időtartam
-
-## III.
-
-## 1. iskolai végzettség, (szak)képzettség, képesítés
-
-## 2. képző intézmény megnevezése (kar, szak megjelölésével)
-
-## 3. képzés időtartama, végzés időpontja
