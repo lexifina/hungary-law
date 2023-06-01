@@ -1,1 +1,3 @@
-2. § Az R. 1. §-ában a „veszélyhelyzet ideje alatt a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvényt (a továbbiakban: Sztv.)” szövegrész helyébe a „veszélyhelyzet (a továbbiakban: veszélyhelyzet) ideje alatt a közúti közlekedésről szóló 1988. évi I. törvényt (a továbbiakban: Kkt.), a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvényt (a továbbiakban: Sztv.)” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
