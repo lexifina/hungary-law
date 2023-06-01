@@ -1,6 +1,6 @@
 5/B. § (1) A kapacitás-nyilvántartásban szereplő ellátási területet az egészségügyi államigazgatási szerv
 
-a) a (2) bekezdésben meghatározott esetekben kérelemre,
+a) a (2) bekezdésben meghatározott esetekben elektronikus űrlapon benyújtott kérelemre,
 
 b) a (4) bekezdésben meghatározott esetben hivatalból
 
@@ -16,7 +16,9 @@ c) települési önkormányzatok.
 
 (3) Abban az esetben, ha az érintett egészségügyi szolgáltatók fenntartói – megállapodás hiányában – nem tudtak a (2) bekezdés a) pontja alapján közösen kérelmet benyújtani, a kérelmet az érintett fenntartók bármelyike külön is benyújthatja.
 
-(4) Az egészségügyi államigazgatási szerv hivatalból állapítja meg, illetve módosítja az ellátási területet, ha az jogszabályváltozás, vagy a kapacitást érintő e törvény szerinti módosulás miatt, illetve ellátási érdekből szükséges.
+(3a) Ha a fenntartók a (2) bekezdés a) pontja szerint az ellátási terület módosítása ügyében közös kérelmet nyújtanak be az egészségügyi államigazgatási szerv felé, az elektronikus űrlapon történő kérelem benyújtására e fenntartók bármelyike jogosult.
+
+(4) Az egészségügyi államigazgatási szerv hivatalból állapítja meg, illetve módosítja az ellátási területet, ha az jogszabályváltozás miatt, vagy ellátási érdekből szükséges.
 
 (5) Az egészségügyi államigazgatási szerv az (1) bekezdés alapján indult eljárásban egészségbiztosító véleményének és a (6) bekezdésben foglaltak, továbbá
 

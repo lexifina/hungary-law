@@ -10,7 +10,7 @@
 
 (5) Az (1)–(4) bekezdés szerinti átcsoportosítás részletes feltételeit a Kormány rendeletben állapítja meg.
 
-(6)
+(6) A (2) és (4) bekezdés szerinti eljárás keretében az 5/B. §-ban foglaltakat kell alkalmazni.
 
 (7) A kérelmet az egészségügyi államigazgatási szervhez kell benyújtani. Az egészségügyi államigazgatási szerv a döntést megelőzően kikéri az egészségbiztosító véleményét. Az egészségügyi államigazgatási szerv ötvenöt napon belül dönt.
 

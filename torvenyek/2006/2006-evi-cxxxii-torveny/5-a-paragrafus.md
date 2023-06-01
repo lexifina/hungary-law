@@ -2,7 +2,7 @@
 
 5/A. § (1) A fekvőbeteg-szakellátási kapacitásokhoz kapcsolódó ellátási területek kivételével az ellátási területeket az egészségügyi államigazgatási szerv a (2)–(6), (9) és (10) bekezdésben foglaltak, valamint egészségbiztosító véleményének figyelembevételével, az e törvény végrehajtására kiadott kormányrendelet szerint járóbeteg-szakellátásban finanszírozható szakmánként állapítja meg.
 
-(2) Az ellátási területet településenként kell meghatározni. Ha az ellátási terület valamely településnek csak egy részére terjed ki, akkor az ellátási területet a háziorvosi körzethez igazodva, vagy a település érintett részének közterületek általi lehatárolásának pontos meghatározásával kell kijelölni.
+(2) Az ellátási területet településenként kell meghatározni. Ha az ellátási terület valamely településnek csak egy részére terjed ki, akkor az ellátási területet a háziorvosi körzethez igazodva, vagy a település érintett része közterületek általi lehatárolásának pontos meghatározásával, vagy az adott település irányítószámának megadásával kell kijelölni.
 
 (3) Az ellátási területeket úgy kell meghatározni, hogy azok – a (9) bekezdésben foglalt kivétellel – átfedés- és hézagmentesen megfeleljenek az adott egészségügyi térség területének, azzal, hogy az (5) bekezdés és a (9) bekezdés b) pontja szerinti esetben az ellátási terület az egészségügyi térség határán túlterjedhet. Amennyiben az adott egészségügyi térségben valamely szakmában ellátást nyújtó egészségügyi szolgáltató nincs, egy másik egészségügyi térségben működő, a hiányzó szakma vonatkozásában megfelelő kapacitással rendelkező szolgáltató ellátási területe a térséghatáron túlterjedhet.
 
@@ -22,7 +22,7 @@
 
 a) a (7) bekezdés szerinti kapacitásokra és ellátási területekre,
 
-b) az egészségügyi szolgáltató fenntartójának bejelentése alapján szünetelő kapacitásokra,
+b)
 
 c) a tartalékkapacitásokra,
 
@@ -46,9 +46,9 @@ d) a kapacitás szerinti szakma megnevezését, kódját,
 
 e) a kapacitás mennyiségét (óraszám, illetve ágyszám, illetve egyéb finanszírozási egység),
 
-f) a kapacitások módosításának dátumát,
+f) a kapacitások módosításának, illetve változásának dátumát,
 
-g) a szünetelő kapacitások mennyiségét, a szünetelés kezdő időpontját és a szünetelés befejezésének időpontját, továbbá a szünetelés idejére más egészségügyi szolgáltató kijelölésének tényét,
+g)
 
 h) a tartalékkapacitásokat,
 
@@ -78,7 +78,7 @@ a) a térség megnevezését,
 
 b) az egészségügyi szolgáltató nevét, egyedi azonosítóját, székhelyét,
 
-c) az ellátás nyújtásának telephelyét,
+c)
 
 d) a szakma megnevezését, kódját,
 
@@ -136,8 +136,8 @@ i) a (2) és (10) bekezdésében foglaltak figyelembevételével
 
 a) az ellátási terület megállapítása következtében az intézmény által végzett szakmák tekintetében a területi ellátási kötelezettségbe tartozó települések között területi hézag alakulhatna ki, vagy
 
-b) az ellátási terület megállapítása a szakmánál kisebb egységekben valósulna meg, és ennek következtében az egészségügyi szolgáltatók által ellátott feladatokkal lefedett települések között területi hézag alakulhatna ki, vagy
+b) az ellátási terület megállapítása a szakmánál kisebb egységekben valósulna meg, és ennek következtében az egészségügyi szolgáltatók által ellátott feladatokkal lefedett települések között területi hézag alakulhatna ki,
 
-c) az ellátási érdek alapján a beutalási rend keretében a betegút pontosan meghatározható ellátási terület külön megállapítása nélkül is.
+c)
 
 (12) A sürgősségi ellátást igénylő esetben a (2)–(11) bekezdésen foglaltak alapján megállapított ellátási területnek és az e törvény végrehajtásáról szóló kormányrendeletben meghatározott egészségügyi térségnek a határai figyelmen kívül hagyhatóak, amennyiben a beteg sürgősségi ellátására alkalmas legközelebbi egészségügyi szolgáltatónál történő ellátás-igénybevétel érdekében szükséges.
