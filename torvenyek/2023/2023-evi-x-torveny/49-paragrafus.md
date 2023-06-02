@@ -1,3 +1,1 @@
-49. § A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény 14. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Az igazságügyért felelős miniszter rendeletben határozza meg az (1)–(3) bekezdésben felsorolt szempontokhoz rendelhető pontszámot a bírói, a magasabb bírói álláshelyre benyújtott pályázat esetén. Magasabb bírói álláshelyre pályázó esetében az (1) és (3) bekezdésben foglaltak súlyozásakor az (1) bekezdés a) pontjában és a (3) bekezdés a) pontjában foglalt szempontnak kell kiemelt jelentőséget tulajdonítani. A rendelet tervezetére az OBT által kialakított véleménytől nem térhet el az igazságügyért felelős miniszter. A rendelet kihirdetése és hatálybalépése között legalább 60 napnak el kell telnie.”
+### 49. §
