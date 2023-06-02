@@ -86,7 +86,7 @@ c) az állásportálokkal való együttműködési megállapodás tartalmi eleme
 
 20. a kormánytisztviselő képzésére, továbbképzésére, átképzésére, illetve közigazgatási vezetőképzésére, valamint a továbbképzés ágazati irányítására és felügyeletére vonatkozó szabályokat;
 
-21. a kormányzati igazgatási szünet időszakát;
+21.
 
 22. a Közszolgálati Döntőbizottság szervezetére és eljárására, határozatára, működését támogató szervezetre, eljárási határidőkre, valamint a Közszolgálati Döntőbizottság jogállására, juttatásaira, továbbá a Közszolgálati Döntőbizottság tagjának összeférhetetlenségére vonatkozó részletes szabályokat;
 
