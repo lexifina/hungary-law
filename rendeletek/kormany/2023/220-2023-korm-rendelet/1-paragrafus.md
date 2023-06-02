@@ -1,0 +1,3 @@
+1. § Az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet (a továbbiakban: R.) a következő 3/A. §-sal egészül ki:
+
+„3/A. § A 2. mellékletben foglalt táblázat 94. és 95. sora szerinti beruházás esetében a településtervek tartalmáról, elkészítésének és elfogadásának rendjéről, valamint egyes településrendezési sajátos jogintézményekről szóló 419/2021. (VII. 15.) Korm. rendelet 55. §-a szerinti közterület alakítási terv készítésének és alkalmazásának nincs helye.”
