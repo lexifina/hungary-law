@@ -4,7 +4,39 @@ a) az országos településrendezési és építési követelményekről szóló
 
 b)[^6] ha a hatályos településrendezési terv és az OTÉK a beépítés (2)–(4) bekezdésben meghatározott sajátos szabályaival ellentétes vagy azzal össze nem egyeztethető előírást tartalmaz, akkor a településrendezési tervet és az OTÉK-ot nem lehet alkalmazni.
 
-(2)[^7]
+(2)[^7] Az 1. § (1) bekezdése szerinti, Budapest VII. kerület belterület 33298 helyrajzi számú ingatlan esetén
+
+1. a meglévő épületeket meglévő épületként kell figyelembe venni az épületszerkezetek hőtechnikai, energetikai és a tűzvédelmi követelmények szempontjából,
+
+2. az OTÉK 4. számú melléklete szerint meghatározott számú személygépkocsi-várakozóhely legalább 25%-ának elhelyezését kell biztosítani,
+
+3. a beépítettség megengedett legnagyobb mértéke 45%,
+
+4. a zöldfelület megengedett legkisebb mértéke 20%,
+
+5. a legnagyobb terepszint feletti szintszám alapértéke 7 darab,
+
+6. a legnagyobb terepszint alatti legmagasabb szintszám alapértéke 4 darab,
+
+7. a meglévő épületekhez csatlakozó épületrészeknél zártsorú beépítési módot kell alkalmazni,
+
+8. az épület legnagyobb épületmagasságát a meglévő épületekhez csatlakozó épületrészeknél a kialakuló új épülettömegre vonatkozóan kell alkalmazni,
+
+9. az épületmagasság megengedett legnagyobb értéke 29,0 méter,
+
+10. kijelölt építési helyen kívül is létesíthető terepszint alatti beépítés, illetve az épület működését szolgáló épületrész, különösen hő- és füstelvezető kürtő, gépészeti felépítménye, az épület megközelítését szolgáló, illetve menekítő lépcső,
+
+11. az első pinceszint alatti funkcióktól eltérő funkciók is létesíthetők földszint alatti szinteken, és azoknak mesterséges világítás biztosítása elegendő,
+
+12. a kialakuló lapostető-felületen tetőkertet nem kell kialakítani,
+
+13. több gépkocsibehajtó esetén a gépkocsibejáratok nyílásainak összegzett szélessége maximum 34 méter lehet,
+
+14. a szomszédos építési telken lévő épületek közötti telepítési távolság legkisebb mértéke 14 méter lehet,
+
+15. az udvari homlokzat és annak külső oldalán csatlakozó telekhatár csatlakozásától mérve szögtől függetlenül legalább 1,0 méter távolságra létesíthető nyílászáró,
+
+16. elő- és oldalkertet nem kell biztosítani.
 
 (3) A Beruházással érintett ingatlanokon egészségügyi, oktatási, iroda, sport, labor, állatház, kollégium és apartman funkciójú épületek is elhelyezhetők, továbbá a meglévő épületek rendeltetése az előbbiekben felsorolt funkciókra megváltoztatható.
 
@@ -15,7 +47,7 @@ b)[^6] ha a hatályos településrendezési terv és az OTÉK a beépítés (2)�
 (6)[^10] A Beruházás megvalósításának helyszíne és annak közvetlen környezete tekintetében a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 48. § (2) bekezdése szerinti, a fás szárú növények védelmére vonatkozó önkormányzati előírások helyett, a magántulajdonban álló ingatlanokon lévő fás szárú növények vonatkozásában is a fás szárú növények védelméről szóló 346/2008. (XII. 30.) Korm. rendelet 6–8. §-át kell megfelelően alkalmazni, azzal, hogy amennyiben a fás szárú növény pótlása az ingatlan adottsága miatt nem vagy csak részben teljesíthető, a pótlást a Pest Vármegyei Kormányhivatal által kijelölt, az Állatorvostudományi Egyetem tulajdonában álló, másik ingatlanon kell teljesíteni, valamint az értékes növények tekintetében azok áttelepítése kötelező ugyanazon ingatlanra, amelyen az értékes növények megtalálhatók. Az áttelepítésről az engedélyes az engedélyt követő 2 éven belül köteles gondoskodni.
 
 [^6]: Az 5. § (1) bekezdés b) pontja a 420/2021. (VII. 15.) Korm. rendelet 110. §-a szerint módosított szöveg.
-[^7]: Az 5. § (2) bekezdését az 546/2022. (XII. 22.) Korm. rendelet 244. § b) pontja hatályon kívül helyezte.
+[^7]: Az 5. § (2) bekezdését az 546/2022. (XII. 22.) Korm. rendelet 244. § b) pontja hatályon kívül helyezte, újonnan a 219/2023. (VI. 1.) Korm. rendelet 2. §-a iktatta be.
 [^8]: Az 5. § (4) bekezdése a 621/2021. (XI. 8.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^9]: Az 5. § (5) bekezdését a 621/2021. (XI. 8.) Korm. rendelet 4. § (3) bekezdése iktatta be.
 [^10]: Az 5. § (6) bekezdését a 621/2021. (XI. 8.) Korm. rendelet 4. § (3) bekezdése iktatta be, szövege az 546/2022. (XII. 22.) Korm. rendelet 243. § b) pontja szerint módosított szöveg.

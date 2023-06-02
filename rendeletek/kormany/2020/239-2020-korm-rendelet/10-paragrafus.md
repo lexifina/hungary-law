@@ -1,0 +1,8 @@
+## 9. §[^12] E rendeletnek az Állatorvostudományi Egyetem kampuszának komplex infrastrukturális fejlesztése projekt keretében megvalósuló egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint az eljáró hatóságok kijelöléséről szóló 239/2020. (V. 26.) Korm. rendelet, továbbá a megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló 299/2017. (X. 17.) Korm. rendelet módosításáról szóló 621/2021. (XI. 8.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1. § (1) bekezdését, 1/A. §-át, 2. §-át, 5. § (2) és (4)–(6) bekezdését, 5/A. §-át a Módr. hatálybalépésekor[^13] folyamatban levő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+10. §[^14] E rendeletnek a földművelésügyi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló 383/2016. (XII. 2.) Korm. rendelet és az Állatorvostudományi Egyetem kampuszának komplex infrastrukturális fejlesztése projekt keretében megvalósuló egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint az eljáró hatóságok kijelöléséről szóló 239/2020. (V. 26.) Korm. rendelet módosításáról szóló 219/2023. (VI. 1.) Korm. rendelettel (a továbbiakban: Módr.2) módosított 1. § (1) bekezdését és a Módr.2-vel megállapított 5. § (2) bekezdését a Módr.2 hatálybalépésekor[^15] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+[^12]: A 9. §-t a 621/2021. (XI. 8.) Korm. rendelet 6. §-a ikktatta be.
+[^13]: A hatálybalépés időpontja 2021. november 9.
+[^14]: A 10. §-t a 219/2023. (VI. 1.) Korm. rendelet 3. §-a iktatta be.
+[^15]: A hatálybalépés időpontja 2023. június 2.
