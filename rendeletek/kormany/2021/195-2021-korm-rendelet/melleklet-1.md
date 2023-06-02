@@ -1,5 +1,3 @@
-## 8. § E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
-
 1. melléklet a 195/2021. (IV. 26.) Korm. rendelethez
 
 A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek

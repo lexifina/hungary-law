@@ -6,4 +6,6 @@ a) a Beruházás előkészítéséhez, megvalósításához, használatbavétel�
 
 b) a Beruházáshoz közvetlenül kapcsolódó, az (1) bekezdés szerinti létesítmény megközelítését, működését és városképi illeszkedését segítő – magasépítési, mélyépítési, közterület- és zöldfelület-rendezési, útépítési, közműcsatlakozási és -fejlesztési, valamint azokkal közvetlenül összefüggő – munkákkal kapcsolatosak.
 
-(3) A Kormány kiemelten közérdekű beruházássá nyilvánítja a Beruházást. A Beruházás helyszíne az (1) bekezdésben meghatározott ingatlanok területe. A Beruházás közvetlen környezete a Budapest VIII. kerület, belterület 36559/11, 36561, 36562, 36583 és 36593 helyrajzi számú ingatlanok.
+(3)[^1] A Kormány kiemelten közérdekű beruházássá nyilvánítja a Beruházást. A Beruházás helyszíne az (1) bekezdésben meghatározott ingatlanok területe. A Beruházás közvetlen környezete a Budapest VIII. kerület, belterület 36522, 36553, 36559/11, 36560, 36561, 36562, 36573, 36583, 36585/9, 36587/2, 36590, 36591, 36592, 36593, 36732 és 36746 helyrajzi számú ingatlanok.
+
+[^1]: Az 1. § (3) bekezdése a 215/2023. (VI. 1.) Korm. rendelet 7. §-a szerint módosított szöveg.
