@@ -11,3 +11,5 @@ b) nagy nyilvánosság előtt, vagy
 c) jelentős érdeksérelmet okozva
 
 követik el.
+
+(3) Nem büntetendő rágalmazás miatt annak a cselekménye, aki az (1) bekezdésben meghatározottakat a közügyek szabad megvitatása körében sajtótermék vagy médiaszolgáltatás útján követi el, feltéve, hogy cselekménye nem irányul a sértett emberi méltóságának nyilvánvaló és súlyosan becsmérlő tagadására.
