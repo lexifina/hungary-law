@@ -1,3 +1,3 @@
-12. §[^75]
+12. §[^79]
 
-[^75]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^79]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

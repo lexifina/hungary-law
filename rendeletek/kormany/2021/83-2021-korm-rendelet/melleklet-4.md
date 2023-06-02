@@ -30,8 +30,8 @@
 
 | 14. | Miskolci Egyetem Tudományos és Innovációs Park megvalósítása | Miskolc belterület 40592/4, 40592/10, 40592/11, 40593/1, 40593/5, 40593/9, 40593/17, 40593/18, 40593/20 helyrajzi számú ingatlanok | 2023. 01. 01. – 2026. 12. 31. |
 
-4. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^183]
+4. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^189]
 
 A 2. mellékletben foglalt táblázat 8. sora szerinti beruházással érintett ingatlan Egységes Országos Vetületi Rendszerben megadott koordináták által lehatárolt része
 
-[^183]: A 4. mellékletet újonnan az 590/2021. (X. 20.) Korm. rendelet 5. §-a iktatta be.
+[^189]: A 4. mellékletet újonnan az 590/2021. (X. 20.) Korm. rendelet 5. §-a iktatta be.

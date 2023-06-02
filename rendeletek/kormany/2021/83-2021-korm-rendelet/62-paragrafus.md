@@ -1,4 +1,4 @@
-62. §[^172] E rendeletnek az egyes kormányrendeleteknek a Mohács 500 program keretében megvalósuló fejlesztésekkel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításával összefüggő módosításáról szóló 198/2023. (V. 22.) Korm. rendelettel (a továbbiakban: Módr54.) módosított 1. § (9) bekezdését, valamint 2. mellékletében foglalt táblázat 93. sorát a Módr54. hatálybalépésekor[^173] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+62. §[^176] E rendeletnek az egyes kormányrendeleteknek a Mohács 500 program keretében megvalósuló fejlesztésekkel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításával összefüggő módosításáról szóló 198/2023. (V. 22.) Korm. rendelettel (a továbbiakban: Módr54.) módosított 1. § (9) bekezdését, valamint 2. mellékletében foglalt táblázat 93. sorát a Módr54. hatálybalépésekor[^177] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^172]: A 62. §-t a 198/2023. (V. 22.) Korm. rendelet 5. §-a iktatta be.
-[^173]: A hatálybalépés időpontja 2023. május 23.
+[^176]: A 62. §-t a 198/2023. (V. 22.) Korm. rendelet 5. §-a iktatta be.
+[^177]: A hatálybalépés időpontja 2023. május 23.

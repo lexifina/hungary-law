@@ -1,4 +1,4 @@
-## 34. §[^116] E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 559/2021. (IX. 29.) Korm. rendelettel (a továbbiakban: Módr26.) megállapított 3. § (4) bekezdését és 2. mellékletében foglalt táblázat 51. sorát a Módr26. hatálybalépésekor[^117] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 34. §[^120] E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 559/2021. (IX. 29.) Korm. rendelettel (a továbbiakban: Módr26.) megállapított 3. § (4) bekezdését és 2. mellékletében foglalt táblázat 51. sorát a Módr26. hatálybalépésekor[^121] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^116]: A 34. §-t az 559/2021. (IX. 29.) Korm. rendelet 1. §-a iktatta be.
-[^117]: a hatálybalépés időpontja 2021. szeptember 30.
+[^120]: A 34. §-t az 559/2021. (IX. 29.) Korm. rendelet 1. §-a iktatta be.
+[^121]: a hatálybalépés időpontja 2021. szeptember 30.

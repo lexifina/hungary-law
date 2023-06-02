@@ -1,4 +1,4 @@
-7/V. §[^67] (1) A 2. mellékletben foglalt táblázat 48. sora szerinti beruházással érintett ingatlanon hitéleti, oktatási célú épületek és azok kiszolgáló építményei helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával, azzal, hogy
+7/V. §[^71] (1) A 2. mellékletben foglalt táblázat 48. sora szerinti beruházással érintett ingatlanon hitéleti, oktatási célú épületek és azok kiszolgáló építményei helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával, azzal, hogy
 
 a) a hatályos településrendezési tervek és az OTÉK előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni, és
 
@@ -18,4 +18,4 @@ b) ha a hatályos településrendezési terv vagy az OTÉK a beépítés (2) bek
 
 6. a beruházással összefüggésben összesen 10 új parkolóhelyet kell megvalósítani.
 
-[^67]: A 7/V. §-t az 525/2021. (IX. 8.) Korm. rendelet 5. §-a iktatta be.
+[^71]: A 7/V. §-t az 525/2021. (IX. 8.) Korm. rendelet 5. §-a iktatta be.
