@@ -1,0 +1,3 @@
+1. A Kormány a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet 4. § (1) bekezdés e) pontjában meghatározott feladatkörében eljárva egyetért az Emberi Erőforrás Fejlesztési Operatív Program keretében hárommilliárd forint támogatást meghaladó összegű, európai uniós szintű előzetes beszerzési megállapodás alapján már beszerzett, COVID–19 kezelésére alkalmazott gyógyszerek és SARS-CoV-2 (Covid–19) fertőzöttség kimutatására szolgáló gyorstesztek elszámolására irányuló projektek támogatásával.
+
+2. Ez a határozat a közzétételét követő napon lép hatályba.
