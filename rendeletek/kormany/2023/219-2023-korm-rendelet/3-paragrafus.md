@@ -1,0 +1,3 @@
+3. § Az R. a következő 10. §-sal egészül ki:
+
+„10. § E rendeletnek a földművelésügyi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló 383/2016. (XII. 2.) Korm. rendelet és az Állatorvostudományi Egyetem kampuszának komplex infrastrukturális fejlesztése projekt keretében megvalósuló egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint az eljáró hatóságok kijelöléséről szóló 239/2020. (V. 26.) Korm. rendelet módosításáról szóló 219/2023. (VI. 1.) Korm. rendelettel (a továbbiakban: Módr.2) módosított 1. § (1) bekezdését és a Módr.2-vel megállapított 5. § (2) bekezdését a Módr.2 hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
