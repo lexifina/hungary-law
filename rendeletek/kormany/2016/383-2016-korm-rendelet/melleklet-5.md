@@ -10,7 +10,7 @@
 
 | 5. | Fejér Vármegyei Kormányhivatal | Fejér, Heves, Nógrád, Pest és Veszprém vármegyére |
 
-5. melléklet a 383/2016. (XII. 2.) Korm. rendelethez[^335]
+5. melléklet a 383/2016. (XII. 2.) Korm. rendelethez[^336]
 
 A gazdaságátadást érintő feladatok tekintetében mezőgazdasági igazgatási szervként több vármegyére kiterjedő illetékességgel eljáró kormányhivatalok illetékességi területe
 
@@ -26,4 +26,4 @@ A gazdaságátadást érintő feladatok tekintetében mezőgazdasági igazgatás
 
 | 5. | Baranya Vármegyei Kormányhivatal | Baranya, Somogy, Tolna, Vas és Zala vármegye |
 
-[^335]: Az 5. mellékletet a 170/2023. (V. 12.) Korm. rendelet 35. §-a iktatta be.
+[^336]: Az 5. mellékletet a 170/2023. (V. 12.) Korm. rendelet 35. §-a iktatta be.

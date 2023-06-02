@@ -18,11 +18,12 @@ jogszabályban meghatározottak szerint támogatja.
 
 (5) A (4) bekezdésben meghatározott közigazgatási hatósági ügyekben a felügyeleti szervet megillető hatásköröket a miniszter gyakorolja.
 
-(6)[^4] A fővárosi és vármegyei kormányhivatalok, valamint a földmérési és térinformatikai államigazgatási szervnek az 1. § a), d) és h) pontjában meghatározott feladat- és hatáskörei gyakorlásával összefüggésben a Ksztv.-ben meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a Miniszterelnökséget vezető miniszter gyakorolja.
+(6)[^4] A fővárosi és vármegyei kormányhivataloknak, valamint a földmérési és térinformatikai államigazgatási szervnek az 1. § a) pontjában meghatározott feladat- és hatáskörei gyakorlásával összefüggésben a Ksztv.-ben meghatározott, a törvényességi és szakszerűségi ellenőrzési, valamint közigazgatási hatósági ügyekben a felügyeleti szervet megillető hatásköröket szakmai irányító miniszterként az ingatlan-nyilvántartásért felelős miniszter gyakorolja.
 
-(7) A (6) bekezdésben meghatározott közigazgatási hatósági ügyekben a felügyeleti szervet megillető hatásköröket a Miniszterelnökséget vezető miniszter gyakorolja.
+(7)[^5] A fővárosi és vármegyei kormányhivataloknak, valamint a földmérési és térinformatikai államigazgatási szervnek az 1. § d) és h) pontjában meghatározott feladat- és hatáskörei gyakorlásával összefüggésben a Ksztv.-ben meghatározott, a törvényességi és szakszerűségi ellenőrzési, valamint közigazgatási hatósági ügyekben a felügyeleti szervet megillető hatásköröket szakmai irányító miniszterként a térképészetért felelős miniszter gyakorolja.
 
 [^1]: A 2. § a 29/2020. (II. 28) Korm. rendelet 2. §-ával megállapított szöveg.
 [^2]: A 2. § (1) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 242. § a) pontja szerint módosított szöveg.
 [^3]: A 2. § (3) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 242. § b) pontja szerint módosított szöveg.
-[^4]: A 2. § (6) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 242. § b) pontja szerint módosított szöveg.
+[^4]: A 2. § (6) bekezdése a 219/2023. (VI. 1.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^5]: A 2. § (7) bekezdése a 219/2023. (VI. 1.) Korm. rendelet 1. §-ával megállapított szöveg.

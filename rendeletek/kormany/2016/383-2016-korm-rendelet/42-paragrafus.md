@@ -10,23 +10,23 @@ c) az Mkk tv.-ben,
 
 d) a 2012. évi CXX. törvény 9. § (3) bekezdés g) pontjában,
 
-e)[^205] a mezőgazdasági termékpiacok szervezésének egyes kérdéseiről, a termelői és a szakmaközi szervezetekről szóló 2015. évi XCVII. törvény (a továbbiakban: Mgtpt.) 20. § (1) és (2) bekezdésében, 22. § (1), (2) és (5) bekezdésében
+e)[^206] a mezőgazdasági termékpiacok szervezésének egyes kérdéseiről, a termelői és a szakmaközi szervezetekről szóló 2015. évi XCVII. törvény (a továbbiakban: Mgtpt.) 20. § (1) és (2) bekezdésében, 22. § (1), (2) és (5) bekezdésében
 
-f)[^206] a családi gazdaságokról szóló 2020. évi CXXIII. törvényben
+f)[^207] a családi gazdaságokról szóló 2020. évi CXXIII. törvényben
 
 foglaltak tekintetében.
 
-(2)[^207] A Kormány mezőgazdasági igazgatási szervként a családi gazdaságokról szóló 2020. évi CXXIII. törvény 4. § (4) bekezdés f) pontjában, 5. §-ában, 11. §-ában, 12. § (3) és (4) bekezdésében, 13. § (2)–(4) bekezdésében, 15. § (8) és (9) bekezdésében, valamint 19. § (6) bekezdésében foglaltak tekintetében a NÉBIH-et jelöli ki.
+(2)[^208] A Kormány mezőgazdasági igazgatási szervként a családi gazdaságokról szóló 2020. évi CXXIII. törvény 4. § (4) bekezdés f) pontjában, 5. §-ában, 11. §-ában, 12. § (3) és (4) bekezdésében, 13. § (2)–(4) bekezdésében, 15. § (8) és (9) bekezdésében, valamint 19. § (6) bekezdésében foglaltak tekintetében a NÉBIH-et jelöli ki.
 
-(2a)[^208] A Kormány mezőgazdasági igazgatási szervként az Mgtpt. 7. § (3) bekezdésében, 7/A. § (5) bekezdésében, valamint 8. § (7) bekezdésében foglaltak tekintetében a NÉBIH-et és a földművelésügyi igazgatási hatáskörben eljáró vármegyei kormányhivatalt jelöli ki azzal, hogy az Mgtpt. 7/A. § (5) bekezdésében foglaltak tekintetében a feldolgozó mezőgazdasági üzemközpontja szerint illetékes földművelésügyi igazgatási hatáskörben eljáró vármegyei kormányhivatal jár el.
+(2a)[^209] A Kormány mezőgazdasági igazgatási szervként az Mgtpt. 7. § (3) bekezdésében, 7/A. § (5) bekezdésében, valamint 8. § (7) bekezdésében foglaltak tekintetében a NÉBIH-et és a földművelésügyi igazgatási hatáskörben eljáró vármegyei kormányhivatalt jelöli ki azzal, hogy az Mgtpt. 7/A. § (5) bekezdésében foglaltak tekintetében a feldolgozó mezőgazdasági üzemközpontja szerint illetékes földművelésügyi igazgatási hatáskörben eljáró vármegyei kormányhivatal jár el.
 
-(3)[^209]
+(3)[^210]
 
-(4)[^210] A Kormány mezőgazdasági igazgatási szervként a földművelésügyi igazgatási hatáskörben eljáró vármegyei kormányhivatalt jelöli ki
+(4)[^211] A Kormány mezőgazdasági igazgatási szervként a földművelésügyi igazgatási hatáskörben eljáró vármegyei kormányhivatalt jelöli ki
 
-a)[^211]
+a)[^212]
 
-b)[^212]
+b)[^213]
 
 c) a termőföld védelméről szóló 2007. évi CXXIX. törvény (a továbbiakban: Tfvt.) 64. §-ában,
 
@@ -34,27 +34,27 @@ d) a hegyközségi törvény 34. § (4) bekezdésében, 51. § (2) és (3) bekez
 
 e) a Bit. 138. § (1) bekezdés t) pontjában és 145. § (1) bekezdés h) pontjában,
 
-f)[^213] a Földforgalmi tv. 35. § (1) bekezdésében, (4) bekezdésében és (5) bekezdés második mondatában
+f)[^214] a Földforgalmi tv. 35. § (1) bekezdésében, (4) bekezdésében és (5) bekezdés második mondatában
 
-g)[^214] a kábítószer előállítására alkalmas növények termesztésének, forgalmazásának és felhasználásának rendjéről szóló 162/2003. (X. 16.) Korm. rendelet 5. § (1) bekezdésében
+g)[^215] a kábítószer előállítására alkalmas növények termesztésének, forgalmazásának és felhasználásának rendjéről szóló 162/2003. (X. 16.) Korm. rendelet 5. § (1) bekezdésében
 
-g)[^215] az Éltv. 57/B. §-ában
+g)[^216] az Éltv. 57/B. §-ában
 
 foglaltak tekintetében.
 
-(5)[^216] A Kormány mezőgazdasági igazgatási szervként a támogatást igénylő székhelye vagy lakóhelye szerint illetékes földművelésügyi igazgatási jogkörben eljáró vármegyei kormányhivatalt jelöli ki a Széchenyi 2020 pályázati felhívásokban a mezőgazdasági termelők részére előírt igazolások kiállítása tekintetében.
+(5)[^217] A Kormány mezőgazdasági igazgatási szervként a támogatást igénylő székhelye vagy lakóhelye szerint illetékes földművelésügyi igazgatási jogkörben eljáró vármegyei kormányhivatalt jelöli ki a Széchenyi 2020 pályázati felhívásokban a mezőgazdasági termelők részére előírt igazolások kiállítása tekintetében.
 
 (6) A Kormány mezőgazdasági igazgatási szervként a Tfvt. 5. § (6) bekezdése és a 61. § (1) bekezdése tekintetében a Magyar Államkincstárt jelöli ki.
 
-[^205]: A 42 § (1) bekezdés e) pontja a 171/2017. (VI. 29.) Korm. rendelet 24. § (5) bekezdésével megállapított szöveg.
-[^206]: A 42. § (1) bekezdés f) pontját a 665/2020. (XII. 28.) Korm. rendelet 15. § (2) bekezdése iktatta be.
-[^207]: A 42. § (2) bekezdése a 31/2020. (II. 29.) Korm. rendelet 17. § (4) bekezdés c) pontja, a 665/2020. (XII. 28.) Korm. rendelet 15. § (3) bekezdése szerint módosított szöveg.
-[^208]: A 42 § (2a) bekezdését a 171/2017. (VI. 29.) Korm. rendelet 24. § (6) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 159. § (37) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 242. § a) pontja szerint módosított szöveg.
-[^209]: A 42. § (3) bekezdését a 616/2022. (XII. 29.) Korm. rendelet 243. §-a hatályon kívül helyezte.
-[^210]: A 42. § (4) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 4. pontja, a 616/2022. (XII. 29.) Korm. rendelet 242. § b) pontja szerint módosított szöveg.
-[^211]: A 42. § (4) bekezdés a) pontját a 454/2021. (VII. 30.) Korm. rendelet 10. §-a hatályon kívül helyezte.
-[^212]: A 42. § (4) bekezdés b) pontját a 454/2021. (VII. 30.) Korm. rendelet 10. §-a hatályon kívül helyezte.
-[^213]: A 42. § (4) bekezdés f) pontját a 457/2017. (XII. 28.) Korm. rendelet 589. § (1) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 618. §-át.
-[^214]: A 42. § (4) bekezdés g) pontját a 668/2020. (XII. 28.) Korm. rendelet 43. § (1) bekezdése iktatta be.
-[^215]: A 42. § (4) bekezdés újabb g) pontját a 713/2020. (XII. 30.) Korm. rendelet 44. § (5) bekezdése iktatta be.
-[^216]: A 42. § (5) bekezdését a 31/2020. (II. 29.) Korm. rendelet 17. § (4) bekezdés d) pontja hatályon kívül helyezte, újonnan a 668/2020. (XII. 28.) Korm. rendelet 43. § (2) bekezdése iktatta be, szövege a 616/2022. (XII. 29.) Korm. rendelet 242. § b) pontja szerint módosított szöveg.
+[^206]: A 42 § (1) bekezdés e) pontja a 171/2017. (VI. 29.) Korm. rendelet 24. § (5) bekezdésével megállapított szöveg.
+[^207]: A 42. § (1) bekezdés f) pontját a 665/2020. (XII. 28.) Korm. rendelet 15. § (2) bekezdése iktatta be.
+[^208]: A 42. § (2) bekezdése a 31/2020. (II. 29.) Korm. rendelet 17. § (4) bekezdés c) pontja, a 665/2020. (XII. 28.) Korm. rendelet 15. § (3) bekezdése szerint módosított szöveg.
+[^209]: A 42 § (2a) bekezdését a 171/2017. (VI. 29.) Korm. rendelet 24. § (6) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 159. § (37) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 242. § a) pontja szerint módosított szöveg.
+[^210]: A 42. § (3) bekezdését a 616/2022. (XII. 29.) Korm. rendelet 243. §-a hatályon kívül helyezte.
+[^211]: A 42. § (4) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 4. pontja, a 616/2022. (XII. 29.) Korm. rendelet 242. § b) pontja szerint módosított szöveg.
+[^212]: A 42. § (4) bekezdés a) pontját a 454/2021. (VII. 30.) Korm. rendelet 10. §-a hatályon kívül helyezte.
+[^213]: A 42. § (4) bekezdés b) pontját a 454/2021. (VII. 30.) Korm. rendelet 10. §-a hatályon kívül helyezte.
+[^214]: A 42. § (4) bekezdés f) pontját a 457/2017. (XII. 28.) Korm. rendelet 589. § (1) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 618. §-át.
+[^215]: A 42. § (4) bekezdés g) pontját a 668/2020. (XII. 28.) Korm. rendelet 43. § (1) bekezdése iktatta be.
+[^216]: A 42. § (4) bekezdés újabb g) pontját a 713/2020. (XII. 30.) Korm. rendelet 44. § (5) bekezdése iktatta be.
+[^217]: A 42. § (5) bekezdését a 31/2020. (II. 29.) Korm. rendelet 17. § (4) bekezdés d) pontja hatályon kívül helyezte, újonnan a 668/2020. (XII. 28.) Korm. rendelet 43. § (2) bekezdése iktatta be, szövege a 616/2022. (XII. 29.) Korm. rendelet 242. § b) pontja szerint módosított szöveg.
