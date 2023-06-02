@@ -1,8 +1,8 @@
-6/F. §[^69] (1) A 2. mellékletben foglalt táblázat 35. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:35 mezőjében megjelölt telkekre a beépítés szabályait és az egyedi építési követelményeket a (2)–(5) bekezdés állapítja meg, azzal, hogy
+6/F. §[^70] (1) A 2. mellékletben foglalt táblázat 35. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:35 mezőjében megjelölt telkekre a beépítés szabályait és az egyedi építési követelményeket a (2)–(5) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos OTÉK előírásait a (2)–(5) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
-b)[^70] amennyiben a hatályos településrendezési terv vagy az OTÉK a beépítés és az egyedi építési követelmények (2)–(5) bekezdésben meghatározott sajátos szabályaival ellentétes, vagy azzal össze nem egyeztethető előírást tartalmaz, akkor a településrendezési tervet és az OTÉK-ot nem lehet alkalmazni.
+b)[^71] amennyiben a hatályos településrendezési terv vagy az OTÉK a beépítés és az egyedi építési követelmények (2)–(5) bekezdésben meghatározott sajátos szabályaival ellentétes, vagy azzal össze nem egyeztethető előírást tartalmaz, akkor a településrendezési tervet és az OTÉK-ot nem lehet alkalmazni.
 
 (2) A 2. mellékletben foglalt táblázat B:35 mezőjében megjelölt telkeken a környezetre jelentős hatást nem gyakorló ipari és gazdasági tevékenységi célú építmények, különleges nagy kiterjedésű szállítmányozási, raktározási és logisztikai, kutatás-fejlesztési célú építmények, irodaépületek és azok kiszolgáló építményei helyezhetők el az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával:
 
@@ -28,5 +28,5 @@ b) autóbusz-várakozóhelyet nem kell biztosítani.
 
 (5) A 2. mellékletben foglalt táblázat 35. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:35 mezőjében megjelölt telkeken a beruházással összefüggésben megvalósuló építmények között nem kell telepítési távolságot tartani, a telekhatárokon is csatlakozhatnak egymáshoz.
 
-[^69]: A 6/F. §-t a 23/2020. (II. 20.) Korm. rendelet 1. §-a iktatta be.
-[^70]: A 6/F. § (1) bekezdés f) pontja a 420/2021. (VII. 15.) Korm. rendelet 99. § b) pontja szerint módosított szöveg.
+[^70]: A 6/F. §-t a 23/2020. (II. 20.) Korm. rendelet 1. §-a iktatta be.
+[^71]: A 6/F. § (1) bekezdés f) pontja a 420/2021. (VII. 15.) Korm. rendelet 99. § b) pontja szerint módosított szöveg.

@@ -248,8 +248,10 @@
 
 | 114. | Mohács város szállodai kapacitásainak növelése a Szent János Hotel korszerűsítésével, bővítésével | Mohács belterület 1456/5, 1544, 1547/1, 1547/2, 2388/2, 2388/4, 2388/7, 3015/1, 3016 helyrajzi számú ingatlanok | Baranya Vármegyei Kormányhivatalt vezető főispán |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^344]
+| 115. | Ipari-innovációs terület kialakítása Ács város területén | Ács külterület 0421/31, 0421/32, 0421/33 és a 0422/6 helyrajzi számú ingatlanok | Komárom-Esztergom Vármegyei Kormányhivatalt vezető főispán |
+
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^347]
 
 A 2. mellékletben foglalt táblázat 7 és 7a sora szerinti beruházások közlekedési kapacitásbővítéssel összefüggő útszélesítései
 
-[^344]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^347]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
