@@ -1,0 +1,1 @@
+Az Országgyűlés a közfeladatok ellátásáról való állami és önkormányzati gondoskodás, valamint a közfeladatok ellátásában részt vevő foglalkoztatottak pihenéshez való jogának összehangolt biztosítása céljából a következő törvényt alkotja:
