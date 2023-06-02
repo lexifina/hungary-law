@@ -1,5 +1,1 @@
-56. § A Gytv. 25. § (2a) és (2b) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(2a) A (2) bekezdésben foglaltaktól eltérően, az állami egészségügyi tartalék kezeléséért felelős szerv kérelmére kiemelt közegészségügyi vagy járványügyi érdekkel összefüggő különös méltánylás érdemlő betegellátási érdekből a gyógyszerészeti államigazgatási szerv a (2b)–(2h) bekezdés szerint határozott időtartamra engedélyezheti EGT-megállapodásban részes államban nem, de más országban forgalombahozatali vagy alkalmazási engedéllyel rendelkező gyógyszer ideiglenes hozzáférhetővé tételét, alkalmazását vagy adományozását.
-
-(2b) A (2a) bekezdés szerinti feltételek fennállása esetén a gyógyszerészeti államigazgatási szerv az engedélyt abban az esetben adhatja ki, ha a készítmény minőségileg megfelelő, és az elvégzett vizsgálatok alapján előnyös terápiás előny/kockázat aránnyal rendelkezik. Az engedély legfeljebb egy évre adható ki, ami különösen indokolt esetben kérelmenként legfeljebb további egy évvel meghosszabbítható.”
+### 56. §

@@ -2,20 +2,20 @@
 
 a)
 
-b) 29. § (1) bekezdésében a „panaszt tenni” szövegrész helyébe a „szóban, írásban panaszt tenni” szöveg,
+b)
 
-c) 108/A. § (1) bekezdésében a „megtett bejelentés” szövegrész helyébe az „elektronikus űrlapon megtett bejelentés” szöveg,
+c)
 
-d) 140/B. § (2) bekezdésében az „az ETT-nek a Kormány rendeletében meghatározott testülete” szövegrész helyébe az „az ETT-nek a Kormány rendeletében meghatározott első fokon eljáró testülete”, az „az ETT elnöksége” szövegrész helyébe az „az ETT-nek a Kormány rendeletében meghatározott másodfokon eljáró testülete” szöveg,
+d)
 
-e) 140/B. § (3) bekezdésében az „az ETT-nek a Kormány rendeletében meghatározott testületét” szövegrész helyébe az „az ETT-nek a Kormány rendeletében meghatározott első fokon eljáró testületét”, az „az ETT-t” szövegrész helyébe az „az ETT-nek a Kormány rendeletében meghatározott másodfokon eljáró testületét” szöveg,
+e)
 
-f) 140/B. § (6) bekezdésében a „bírósági jogorvoslatnak” szövegrész helyébe a „közigazgatási pernek” szöveg,
+f)
 
-g) 158. § (3) bekezdésében az „ötvenöt” szövegrész helyébe a „kilencven” szöveg,
+g)
 
-h) 217. § (4) bekezdésében az „orvosi halottvizsgálat” szövegrész helyébe az „orvosi vagy jogszabályban meghatározott esetekben mentőtiszt által végzett halottvizsgálat” szöveg,
+h)
 
-i) 247. § (1a) bekezdés m) pontjában az „első fokon eljáró testületét” szövegrész helyébe az „első és másodfokon eljáró testületét” szöveg
+i)
 
 lép.

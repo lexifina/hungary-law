@@ -1,3 +1,1 @@
-89. § Az Art. 131. §-a a következő (29) bekezdéssel egészül ki:
-
-„(29) Ha az állami adó- és vámhatóság az egészségügyről szóló törvény szerinti egészségügyi szolgáltató tekintetében számla- vagy nyugtakibocsátási kötelezettség megszegését állapítja meg, akkor a kötelezettség megszegéséről szóló tényt és az egészségügyi szolgáltató azonosító adatait a 112/B. § szerinti adatszolgáltatást követő 15 napon belül elektronikus úton megküldi az egészségügyi igazgatási és koordinációs feladatokért felelős egészségügyi államigazgatási szerv részére az érintett egészségügyi szolgáltató egészségügyi tevékenységére vonatkozó jogszabályi előírások betartásának ellenőrzése, valamint hatáskörébe tartozó közigazgatási hatósági eljárás lefolytatása céljából.”
+### 89. §

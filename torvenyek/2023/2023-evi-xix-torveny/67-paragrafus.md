@@ -1,3 +1,1 @@
-67. § A Gyftv. 53/B. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az (1) bekezdés szerinti áthelyezésre kizárólag az adott településen, településrészen, illetve kerületen belül kerülhet sor akkor, ha a meglévő közforgalmú gyógyszertárak betegforgalmi bejárata és az áthelyezendő közforgalmú gyógyszertár betegforgalmi bejárata között 50 000 lélekszámot meghaladó településen vagy fővárosi kerületben legalább 250 méter, egyéb településeken és fővárosi kerületekben legalább 300 méter távolság van. A meglévő és az áthelyezendő közforgalmú gyógyszertárak közötti legkisebb távolságon, a közúton vagy közterületen történő megközelítéshez szükséges legrövidebb utat kell érteni.”
+### 67. §

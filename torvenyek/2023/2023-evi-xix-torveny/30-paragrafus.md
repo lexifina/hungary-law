@@ -1,3 +1,1 @@
-30. § Az Eütv. 111. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) Az alapnyilvántartást vezető szerv az egészségügyi dolgozók alapnyilvántartásából a (3) bekezdés szerinti adatokat – kivéve a (3) bekezdés a) pontjából a szakképesítést szerzett személy neme, állampolgársága, lakóhelye és tartózkodási helye, valamint a (3) bekezdés b) pontjából a képzés nyelve – a nyilvántartásba történő felvételt követően, továbbá az ezen adatokban bekövetkezett változásokat napi rendszerességgel – jogszabályban előírt feladatai ellátása érdekében – elektronikus úton, informatikai rendszerkapcsolat útján megküldi az országos tisztifőorvosi feladatokat ellátó szerv részére.”
+### 30. §

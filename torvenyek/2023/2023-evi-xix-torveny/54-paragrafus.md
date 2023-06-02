@@ -1,3 +1,1 @@
-54. § A Gytv. 15. § (11) bekezdése helyébe a következő rendelkezés lép:
-
-„(11) A tisztítatlan ipari mákszalma-maradványokkal szennyezett mákmagot, ipari mák kifejtetlen tokját felvásárló, illetve annak szétválasztását és tisztítását végző, valamint tisztítás utáni ipari mákvetőmag fémzárolását, ipari mákszalma pelletálását, továbbá ipari mákszalmát, kifejtetlen máktokot, alacsony THC-tartalmú kender virágzatát begyűjtő, cséplését végző, tároló, felvásárló, exportáló, reklamáció esetén importáló, valamint annak megsemmisítését végző gazdálkodó szervezetekről az egészségügyi államigazgatási szerv nyilvántartást vezet.”
+### 54. §
