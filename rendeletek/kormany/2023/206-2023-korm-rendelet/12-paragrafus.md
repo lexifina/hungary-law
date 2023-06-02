@@ -1,27 +1,37 @@
 12. § A Korm. rendelet
 
-a) 1. § (1) bekezdésében, 2. § (1) bekezdésében, 4/A. § (1) bekezdésében és 8. § (1) bekezdésében a „2022. és a 2023. adóévre” szövegrész helyébe a „2022–2024. adóévekre” szöveg;
+a)[^12]
 
-b) 3. § (1) bekezdés c) pontjában a „2022. vagy a 2023. adóévben” szövegrészek helyébe a „2022., a 2023. vagy a 2024. adóévekben” szöveg;
+b)[^13]
 
-c) 3. § (6) bekezdésében és 16. § (1) bekezdésében a „2023. december” szövegrész helyébe a „2024. december” szöveg;
+c)[^14]
 
-d) 4/A. § (4) bekezdésében a „mértéke” szövegrész helyébe a „mértéke 2023. december 31. napjáig” szöveg;
+d)[^15]
 
-e) 7. § (1) bekezdésében a „2022-ben és 2023-ban” szövegrész helyébe a „2022-ben, 2023-ban és 2024-ben” szöveg, az „esetén 28 százalékos” szövegrész helyébe az „esetén 40 százalékos” szöveg;
+e)[^16]
 
-f) 8. § (6) és (7) bekezdésében a „2023.” szövegrész helyébe a „2023. és a 2024.” szöveg;
+f)[^17]
 
-g) 14. § (1) bekezdésében a „2023-ban” szövegrész helyébe a „2023-ban, továbbá a 2024-ben” szöveg;
+g)[^18]
 
-h) 14. § (2) bekezdésében a „2023-ban kezdődő adóévi,” szövegrész helyébe a „2023-ban kezdődő adóévi, a 2024-ben kezdődő adóévben a 2024-ben kezdődő adóévi,” szöveg;
+h)[^19]
 
-i) 16. § (1) bekezdésében a „2023. december 31.” szövegrész helyébe a „2024. december 31.” szöveg;
+i)[^20]
 
-j)[^1]
+j)[^21]
 
-k) 25. § (2) bekezdésében a „2022. és a 2023.” szövegrész helyébe a „2022., a 2023. és a 2024.” szöveg
+k)[^22]
 
 lép.
 
-[^1]: A 12. § j) pontja a 14. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^12]: A 12. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 12. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 12. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 12. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 12. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 12. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 12. § g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 12. § h) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 12. § i) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 12. § j) pontja a 14. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^22]: A 12. § k) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-5. § A Korm. rendelet 14. § (7) bekezdése a következő c) ponttal egészül ki:
+5. §[^5]
 
-(Az adóalanynak)
+[^5]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
