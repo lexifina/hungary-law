@@ -28,6 +28,6 @@
 
 ## 11. Földmérési jelek, geodéziai pontok kezelői.
 
-2. melléklet a 20/2020. (XII. 18.) NMHH rendelethez[^24]
+2. melléklet a 20/2020. (XII. 18.) NMHH rendelethez[^22]
 
-[^24]: A 2. mellékletet a 34. § (1) bekezdés c) pontja hatályon kívül helyezte.
+[^22]: A 2. mellékletet a 34. § (1) bekezdés c) pontja hatályon kívül helyezte.
