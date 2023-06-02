@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-42-20-2
 | 2021-01-01 | 2018-42-20-22.8 | 729/2020. (XII. 31.) Korm. rendelet |
 | 2021-07-16 | 2018-42-20-22.9 | 420/2021. (VII. 15.) Korm. rendelet |
 | 2022-12-23 | 2018-42-20-22.10 | 729/2020. (XII. 31.) Korm. rendelet |
+| 2023-06-02 | 2018-42-20-22.11 | 215/2023. (VI. 1.) Korm. rendelet |
