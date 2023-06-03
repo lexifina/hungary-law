@@ -1,13 +1,3 @@
-1. melléklet a 218/2023. (VI. 1.) Korm. rendelethez
+1. melléklet a 218/2023. (VI. 1.) Korm. rendelethez[^5]
 
-Az R. 2. mellékletében foglalt táblázat a következő 115. sorral egészül ki:
-
-|  | (A | B | C |
-
-| 1 | A beruházás megnevezése | A beruházás megvalósításának helyszíne | Koordinációra kijelölt főispán) |
-
-„
-
-| 115. | Ipari-innovációs terület kialakítása Ács város területén | Ács külterület 0421/31, 0421/32, 0421/33 és a 0422/6 helyrajzi számú ingatlanok | Komárom-Esztergom Vármegyei Kormányhivatalt vezető főispán |
-
-”
+[^5]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
