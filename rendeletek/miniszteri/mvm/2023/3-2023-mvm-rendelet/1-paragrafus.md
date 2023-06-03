@@ -1,0 +1,3 @@
+1. § A fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 8/2016. (III. 25.) MvM rendelet (a továbbiakban: R.) 42. §-a a következő (29) bekezdéssel egészül ki:
+
+„(29) E rendeletnek a fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 8/2016. (III. 25.) MvM rendeletnek a 2023. évi felhasználási szabályok megállapítására irányuló módosításáról szóló 3/2023. (VI. 2.) MvM rendelettel (a továbbiakban: Módr27.) megállapított 2/A. §-át, 2/B. § 9. pontját, 40/A. § (1) bekezdését, 40/B. § (1) bekezdését, 40/F. § (4) bekezdését, 43. § f) pontját, valamint 1. melléklet 16. és 22. sorát a Módr27. hatálybalépése napján folyamatban lévő ügyekben is alkalmazni kell.”
