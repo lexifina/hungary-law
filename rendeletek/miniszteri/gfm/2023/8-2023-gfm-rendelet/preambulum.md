@@ -1,0 +1,1 @@
+A fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény 30/A. § c) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 103. § (1) bekezdés 2. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
