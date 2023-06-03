@@ -1,4 +1,4 @@
-## 3/B. §[^8] A központi költségvetés XI. Miniszterelnökség fejezetébe sorolt Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Lechner Tudásközpont) nemzeti tervvagyonnal kapcsolatos bevételek és kiadások elszámolására szolgáló központi kezelésű előirányzatok kezelő szerve a Lechner Tudásközpont.
+## 3/B. §[^9] A központi költségvetés XI. Miniszterelnökség fejezetébe sorolt Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Lechner Tudásközpont) nemzeti tervvagyonnal kapcsolatos bevételek és kiadások elszámolására szolgáló központi kezelésű előirányzatok kezelő szerve a Lechner Tudásközpont.
 
 ## III. Fejezet
 
@@ -10,13 +10,13 @@
 
 1. alapkutatás: a 651/2014/EU bizottsági rendelet 2. cikk 84. pontja szerinti kísérleti vagy elméleti munka,
 
-1a.[^9] acélipar: a 651/2014/EU bizottsági rendelet 2. cikk 43. pontja szerinti ipar,
+1a.[^10] acélipar: a 651/2014/EU bizottsági rendelet 2. cikk 43. pontja szerinti ipar,
 
 2. állami támogatás: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet (a továbbiakban: Atr.) 2. § 1. pontja szerinti támogatás,
 
 3. átlátható formában nyújtott támogatás: olyan támogatás, amelynél előzetesen, kockázatértékelés nélkül kiszámítható a bruttó támogatástartalom,
 
-3a.[^10] áttelepítés: ha
+3a.[^11] áttelepítés: ha
 
 a) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó azonos vagy hasonló tevékenységet vagy annak egy részét az EGT megállapodás egyik szerződő felének területén található létesítményből az EGT megállapodás egy másik szerződő felének területén található azon létesítménybe helyezi át, ahol a támogatott beruházásra sor kerül,
 
@@ -26,7 +26,7 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 4. belső energiapiaci szabályozás: a 651/2014/EU bizottsági rendelet 2. cikk 131. pontja szerinti szabályok,
 
-4a.[^11] bérköltség: a 651/2014/EU bizottsági rendelet 2. cikk 31. pontja szerinti költség,
+4a.[^12] bérköltség: a 651/2014/EU bizottsági rendelet 2. cikk 31. pontja szerinti költség,
 
 5. dedikált infrastruktúra: olyan infrastruktúra, amely ex-ante módon meghatározhatóan az érintett vállalkozás igényeihez igazítottan jön létre,
 
@@ -56,7 +56,7 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 18. immateriális javak: a 651/2014/EU bizottsági rendelet 2. cikk 30. pontja szerinti javak,
 
-18a.[^12] induló beruházás: a 651/2014/EU bizottsági rendelet 2. cikk 49. pontja szerinti beruházás,
+18a.[^13] induló beruházás: a 651/2014/EU bizottsági rendelet 2. cikk 49. pontja szerinti beruházás,
 
 19. innovációs klaszter: a 651/2014/EU bizottsági rendelet 2. cikk 92. pontja szerinti csoport,
 
@@ -96,17 +96,17 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 37. működési eredmény: a beruházás a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Sztv.) 3. § (4) bekezdés 5. pontja szerinti hasznos élettartama alatt diszkontált bevétele és diszkontált működési költsége – például személyi jellegű ráfordítás, anyagköltség, szerződéses szolgáltatás, a távközlés, az energia és a karbantartás költsége, bérleti díj, adminisztrációs költség, kivéve az olyan értékcsökkenési és a finanszírozási költséget, amelyet beruházási támogatásból már fedeztek – közötti pozitív előjelű különbség,
 
-37a.[^13] nagyberuházás: az az induló beruházás vagy új gazdasági tevékenység végzésére irányuló induló beruházás, amelyhez kapcsolódóan az elszámolható költségek összege az összeszámítási szabályt figyelembe véve jelenértéken meghaladja az 50 millió eurónak megfelelő forintösszeget,
+37a.[^14] nagyberuházás: az az induló beruházás vagy új gazdasági tevékenység végzésére irányuló induló beruházás, amelyhez kapcsolódóan az elszámolható költségek összege az összeszámítási szabályt figyelembe véve jelenértéken meghaladja az 50 millió eurónak megfelelő forintösszeget,
 
 38. nagyvállalkozás: a 651/2014/EU bizottsági rendelet 2. cikk 24. pontja szerinti vállalkozás,
 
-39.[^14] nehéz helyzetben lévő vállalkozás: az Atr. 6. § (4a) és (4b) bekezdésében meghatározott vállalkozás,
+39.[^15] nehéz helyzetben lévő vállalkozás: az Atr. 6. § (4a) és (4b) bekezdésében meghatározott vállalkozás,
 
-39a.[^15] összeszámítási szabály: a nagyberuházás elszámolható költségei kiszámításakor egyetlen beruházásnak kell tekinteni a kérelemben szereplő beruházást és a kérelmet benyújtó beruházó, valamint a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó által a kérelemben szereplő beruházás megkezdésétől számított háromszor háromszázhatvanöt napos időszakon belül a kérelemben szereplő beruházással azonos vármegyében megkezdett, regionális beruházási támogatásban részesülő beruházást,
+39a.[^16] összeszámítási szabály: a nagyberuházás elszámolható költségei kiszámításakor egyetlen beruházásnak kell tekinteni a kérelemben szereplő beruházást és a kérelmet benyújtó beruházó, valamint a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó által a kérelemben szereplő beruházás megkezdésétől számított háromszor háromszázhatvanöt napos időszakon belül a kérelemben szereplő beruházással azonos vármegyében megkezdett, regionális beruházási támogatásban részesülő beruházást,
 
 40. pénzügyi közvetítő: a 651/2014/EU bizottsági rendelet 2. cikk 34. pontja szerinti pénzügyi intézmény,
 
-40a.[^16] regionális beruházási támogatás: a 651/2014/EU bizottsági rendelet 2. cikk 41. pontja szerinti támogatás,
+40a.[^17] regionális beruházási támogatás: a 651/2014/EU bizottsági rendelet 2. cikk 41. pontja szerinti támogatás,
 
 41. saját forrás: a kedvezményezett által a projekthez igénybe vett, állami támogatást, valamint az Európai Unió intézményei, ügynökségei, közös vállalkozásai vagy más szervei által központilag kezelt, a tagállam ellenőrzése alá közvetlenül vagy közvetve nem tartozó uniós finanszírozást nem tartalmazó forrás,
 
@@ -134,12 +134,12 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 53. uniós szabvány: a 651/2014/EU bizottsági rendelet 2. cikk 102. pontja szerinti szabvány.
 
-[^8]: A 3/B. §-t az 1/2021. (II. 9.) MvM rendelet 2. §-a iktatta be.
-[^9]: A 4. § 1a. pontját a 17/2022. (X. 18.) MVM rendelet 3. § (1) bekezdése iktatta be.
-[^10]: A 4. § 3a. pontját a 17/2022. (X. 18.) MVM rendelet 3. § (2) bekezdése iktatta be.
-[^11]: A 4. § 4a. pontját a 17/2022. (X. 18.) MVM rendelet 3. § (3) bekezdése iktatta be.
-[^12]: A 4. § 18a. pontját a 17/2022. (X. 18.) MVM rendelet 3. § (4) bekezdése iktatta be.
-[^13]: A 4. § 37a. pontját a 17/2022. (X. 18.) MVM rendelet 3. § (5) bekezdése iktatta be.
-[^14]: A 4. § 39. pontja a 18/2020. (XII. 8.) MvM rendelet 1. §-ával megállapított szöveg.
-[^15]: A 4. § 39a. pontját a 17/2022. (X. 18.) MVM rendelet 3. § (6) bekezdése iktatta be, szövege az 1/2023. (II. 20.) MVM rendelet 7. § b) pontja szerint módosított szöveg.
-[^16]: A 4. § 40a. pontját a 17/2022. (X. 18.) MVM rendelet 3. § (7) bekezdése iktatta be.
+[^9]: A 3/B. §-t az 1/2021. (II. 9.) MvM rendelet 2. §-a iktatta be.
+[^10]: A 4. § 1a. pontját a 17/2022. (X. 18.) MVM rendelet 3. § (1) bekezdése iktatta be.
+[^11]: A 4. § 3a. pontját a 17/2022. (X. 18.) MVM rendelet 3. § (2) bekezdése iktatta be.
+[^12]: A 4. § 4a. pontját a 17/2022. (X. 18.) MVM rendelet 3. § (3) bekezdése iktatta be.
+[^13]: A 4. § 18a. pontját a 17/2022. (X. 18.) MVM rendelet 3. § (4) bekezdése iktatta be.
+[^14]: A 4. § 37a. pontját a 17/2022. (X. 18.) MVM rendelet 3. § (5) bekezdése iktatta be.
+[^15]: A 4. § 39. pontja a 18/2020. (XII. 8.) MvM rendelet 1. §-ával megállapított szöveg.
+[^16]: A 4. § 39a. pontját a 17/2022. (X. 18.) MVM rendelet 3. § (6) bekezdése iktatta be, szövege az 1/2023. (II. 20.) MVM rendelet 7. § b) pontja szerint módosított szöveg.
+[^17]: A 4. § 40a. pontját a 17/2022. (X. 18.) MVM rendelet 3. § (7) bekezdése iktatta be.

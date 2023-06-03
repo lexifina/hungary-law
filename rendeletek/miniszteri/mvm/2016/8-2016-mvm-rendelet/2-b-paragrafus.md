@@ -16,8 +16,9 @@
 
 8. 19b. sora alapján a Modern Városok Program megvalósításáról szóló 250/2016. (VIII. 24.) Korm. rendelet 8/F–8/Z. §-a szerinti támogatás,
 
-9. 4–26. sora alapján az SA.104850 számú, valamint az azt módosító európai bizottsági határozatokban foglaltakkal összhangban „Az állami támogatásokra vonatkozó, az Ukrajna elleni orosz invázióval összefüggésben a gazdaság támogatását célzó ideiglenes válságkeret” című, 2022/C 426/01 számú európai bizottsági közlemény 2.1. szakasza szerinti támogatás
+9.[^6] 4–26. sora alapján az SA.104850 számú, valamint az azt módosító európai bizottsági határozatokban foglaltakkal összhangban „Az állami támogatásokra vonatkozó, az Ukrajna elleni orosz agresszióval összefüggésben a gazdaság támogatását célzó ideiglenes válság- és átállási keret” című, 2023. március 17-i, 2023/C 101/03. számú európai bizottsági közlemény 2.1. szakasza szerinti támogatás
 
 nyújtható.
 
 [^5]: A 2/B. §-t a 2/2022. (I. 21.) MvM rendelet 1. §-a iktatta be, szövege az 1/2023. (II. 20.) MVM rendelet 2. §-ával megállapított szöveg.
+[^6]: A 2/B. § 9. pontja a 3/2023. (VI. 2.) MvM rendelet 3. § a) pontja szerint módosított szöveg.
