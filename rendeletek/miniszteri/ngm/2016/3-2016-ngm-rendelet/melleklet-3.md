@@ -1,5 +1,3 @@
-## A jelzáloghitellel kapcsolatos személyre szóló tájékoztatás formája
-
 | Bevezető szöveg |
 
 | Ez a dokumentum [aktuális dátum]-án/-én [a fogyasztó neve] részére készült. Ez a dokumentum az Ön által ezidáig megadott adatok és a jelenlegi pénzügyi piaci feltételek alapján készült. Az alábbi tájékoztatás (adott esetben) a kamat és egyéb költségek kivételével [érvényességi dátum]-ig érvényes. Ezt követően a piaci feltételek függvényében változhat. (Adott esetben) Ez a dokumentum nem kötelezi [a hitelező neve]-t arra, hogy hitelt nyújtson Önnek. |
@@ -230,7 +228,7 @@ Amennyiben a hitelszerződés egyéb termékekkel egy csomagban szerepel, akkor 
 
 11.2. Amennyiben a fogyasztót gondolkodási idő illeti meg, ezt egyértelműen jelezni kell.
 
-11.3.[^3] A távértékesítés keretében kötött pénzügyi ágazati szolgáltatási szerződésekről szóló 2005. évi XXV. törvény 3. §-ával összhangban, ha az ügyletet távértékesítéssel kínálják, a fogyasztót tájékoztatni kell az elállás jogának meglétéről vagy hiányáról.
+11.3.[^4] A távértékesítés keretében kötött pénzügyi ágazati szolgáltatási szerződésekről szóló 2005. évi XXV. törvény 3. §-ával összhangban, ha az ügyletet távértékesítéssel kínálják, a fogyasztót tájékoztatni kell az elállás jogának meglétéről vagy hiányáról.
 
 12. Panaszok
 
@@ -260,4 +258,4 @@ Amennyiben a hitelező a szerződés időtartama alatt a fogyasztóval a személ
 
 15.1. Itt kell feltüntetni a hitelezés szerződéskötést megelőző szakaszának felügyelete tekintetében illetékes hatóságot, illetve hatóságokat.
 
-[^3]: A 3. melléklet 11. pont 11.3. alpontja a 14/2021. (XII. 8.) PM rendelet 10. §-ával megállapított szöveg.
+[^4]: A 3. melléklet 11. pont 11.3. alpontja a 14/2021. (XII. 8.) PM rendelet 10. §-ával megállapított szöveg.

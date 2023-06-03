@@ -1,8 +1,8 @@
-## 5. §[^1] Az 1. melléklet 2. pont 2.5. alpontja a pénzügyi eszközökben és pénzügyi ügyletekben referenciamutatóként vagy a befektetési alapok teljesítményének méréséhez felhasznált indexekről, valamint a 2008/48/EK és a 2014/17/EU irányelv, továbbá az 596/2014/EU rendelet módosításáról szóló, 2016. június 8-i (EU) 2016/1011 európai parlamenti és tanácsi rendelet 58. cikkének való megfelelést szolgálja.
+## 5. §[^2] Az 1. melléklet 2. pont 2.5. alpontja a pénzügyi eszközökben és pénzügyi ügyletekben referenciamutatóként vagy a befektetési alapok teljesítményének méréséhez felhasznált indexekről, valamint a 2008/48/EK és a 2014/17/EU irányelv, továbbá az 596/2014/EU rendelet módosításáról szóló, 2016. június 8-i (EU) 2016/1011 európai parlamenti és tanácsi rendelet 58. cikkének való megfelelést szolgálja.
 
 1. melléklet a 3/2016. (I. 7.) NGM rendelethez
 
-## A jelzáloghitelekről szóló általános tájékoztatás tartalmi követelményei
+A jelzáloghitelekről szóló általános tájékoztatás tartalmi követelményei
 
 1. A hitelezővel kapcsolatos adatok:
 
@@ -10,7 +10,7 @@
 
 1.2. adott esetben a hitelközvetítő, közvetítői alvállalkozó neve (cégneve) és címe (székhelye).
 
-2.[^2] A jelzáloghitellel kapcsolatos adatok:
+2.[^3] A jelzáloghitellel kapcsolatos adatok:
 
 2.1. felhasználási célok, amelyre a hitel fordítható,
 
@@ -44,5 +44,5 @@
 
 2.16. adott esetben, például ha a fogyasztó által fizetett részletek nem eredményezik haladéktalanul a hitelösszeg törlesztését, hanem a hitelszerződésben vagy ahhoz kapcsolódó megállapodásban meghatározott időszakokban és feltételek szerint tőkeképzésre fordítják, egyértelmű és tömör tájékoztatás arról, hogy a hitelszerződés feltételeinek betartása nem eredményezi automatikusan a hitel teljes összegének visszafizetését.
 
-[^1]: Az 5. §-t a 3/2018. (VI. 29.) PM rendelet 1. §-a iktatta be.
-[^2]: Az 1. melléklet 2. pontja a 3/2018. (VI. 29.) PM rendelet 2. §-ával megállapított szöveg.
+[^2]: Az 5. §-t a 3/2018. (VI. 29.) PM rendelet 1. §-a iktatta be.
+[^3]: Az 1. melléklet 2. pontja a 3/2018. (VI. 29.) PM rendelet 2. §-ával megállapított szöveg.
