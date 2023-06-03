@@ -1,7 +1,3 @@
-1. melléklet a 215/2023. (VI. 1.) Korm. rendelethez
+1. melléklet a 215/2023. (VI. 1.) Korm. rendelethez[^11]
 
-A védett személyek és a kijelölt létesítmények védelméről szóló 160/1996. (XI. 5.) Korm. rendelet 1. melléklet 2. pontja a következő r) alponttal egészül ki:
-
-(Létesítménybiztonsági intézkedés céljából kijelölt létesítmények és értékek)
-
-„r) az energiaügyi miniszter elhelyezését biztosító épület.”
+[^11]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

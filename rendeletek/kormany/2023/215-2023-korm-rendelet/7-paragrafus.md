@@ -1,1 +1,3 @@
-7. § Az R. 1. § (3) bekezdésében a „Budapest VIII. kerület, belterület 36559/11, 36561, 36562, 36583 és 36593 helyrajzi számú ingatlanok” szövegrész helyébe a „Budapest VIII. kerület, belterület 36522, 36553, 36559/11, 36560, 36561, 36562, 36573, 36583, 36585/9, 36587/2, 36590, 36591, 36592, 36593, 36732 és 36746 helyrajzi számú ingatlanok” szöveg lép.
+7. §[^8]
+
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
