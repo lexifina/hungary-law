@@ -1,3 +1,3 @@
-1. § A járóbeteg-ellátás keretében rendelt gyógyszerek, gyógyászati segédeszközök és gyógyfürdőellátások árához nyújtott támogatások elszámolásáról és folyósításáról szóló 134/1999. (VIII. 31.) Korm. rendelet (a továbbiakban: Kr.) 6/C. §-a a következő (2b) bekezdéssel egészül ki.
+1. §[^1]
 
-„(2b) A fiókgyógyszertárral is rendelkező, (1) bekezdés a) és c) pontja szerinti közforgalmú gyógyszertárat működtető vállalkozás, ha az (1) bekezdés b) pontja szerinti időszakra számított árréstömege nem haladja meg a 9 millió forintot, egyszeri alkalommal fiókgyógyszertáranként 90 ezer forint támogatásban részesül, ha azt az elsőfokú állami adóhatóságnál kérelmezi. A támogatás csak abban az esetben vehető igénybe, ha a fiókgyógyszertár egész évben biztosítja a lakosság gyógyszerellátását.”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
