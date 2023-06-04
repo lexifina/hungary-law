@@ -1,5 +1,3 @@
-4. § Hatályát veszti az R.
+4. §[^5]
 
-a) 2/A. §-a,
-
-b) 1. mellékletében foglalt táblázat C:22 mezőjében a „Fővárosi és vármegyei” szövegrész.
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
