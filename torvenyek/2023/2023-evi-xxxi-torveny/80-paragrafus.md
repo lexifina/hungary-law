@@ -1,0 +1,1 @@
+80. § A civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény 93. § (2a) bekezdésében a „szervezetet” szövegrész helyébe a „nyilvános szerkezetátalakítással összefüggésben bejegyzett adatokat, ideértve a szervezet nevéhez (rövidített nevéhez) kapcsolódó toldatot is,” szöveg lép.

@@ -1,0 +1,7 @@
+8. § (1) A közjegyzőkről szóló 1991. évi XLI. törvény 37/D. §-a a következő (2) bekezdéssel egészül ki:
+
+„(2) A közjegyzői díj a tartós helyettest, illetve közjegyzői irodáját illeti. A helyettesített közjegyző munkavállalói felett a munkáltatói jogkört a helyettesítés időtartama alatt a tartós helyettes gyakorolja azzal, hogy a munkaviszony létesítéséről, illetve megszüntetéséről csak a területi kamara elnökének előzetes írásbeli engedélye alapján intézkedhet. Ha a tartós helyettes mint közjegyző közjegyzői iroda keretében folytatja tevékenységét, akkor a helyettesítési tevékenységet is a közjegyzői irodája keretében folytatja.”
+
+(2) A közjegyzőkről szóló 1991. évi XLI. törvény 37/D. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A (3) bekezdés szerinti esetben a területi kamara elnöksége hatósági eljárás keretében dönt a helyettesített közjegyző irodavezetői megbízásának megszüntetéséről és a tartós helyettest a helyettesített közjegyző irodájának irodavezetőjévé jelöli ki (a továbbiakban: helyettes irodavezető). A helyettes irodavezetőre az irodavezetőre irányadó szabályokat kell alkalmazni, ebben az esetben a (2) bekezdésben foglaltak nem alkalmazhatóak. A helyettesítés megszűntével a területi kamara elnöksége hatósági eljárás keretében dönt a helyettes irodavezetői megbízásának megszüntetéséről és a helyettesített közjegyzőt a közjegyző irodája irodavezetőjévé jelöli ki.”
