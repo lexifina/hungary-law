@@ -1,1 +1,1 @@
-49. § Hatályát veszti a bűncselekmények áldozatainak segítéséről és az állami kárenyhítésről szóló 2005. évi CXXXV. törvény 46. § (1) bekezdés c) pontjában a „magyar állampolgárságú áldozatai és a szabad mozgás és tartózkodás jogával rendelkező” szövegrész.
+### 49. §

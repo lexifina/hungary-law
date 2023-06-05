@@ -1,1 +1,1 @@
-97. § A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény „Biztonsági zárkába vagy részlegre helyezés felülvizsgálata” alcím címe helyébe a következő rendelkezés lép:
+### 97. §

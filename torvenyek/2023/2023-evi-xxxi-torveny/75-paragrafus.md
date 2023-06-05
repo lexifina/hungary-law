@@ -1,5 +1,3 @@
-## 16. A határon átnyúló tartási ügyekben a központi hatósági feladatok ellátásáról szóló 2011. évi LXVII. törvény módosítása
+## 16.
 
-75. § A határon átnyúló tartási ügyekben a központi hatósági feladatok ellátásáról szóló 2011. évi LXVII. törvény 8. alcíme a következő 25/A. §-sal egészül ki:
-
-„25/A. § Ha a kérelmező a hágai egyezmény alapján előterjesztett, határozat elismerése és végrehajtása iránti kérelemhez a végrehajtani kért határozat mellett benyújtja a határozatnak az eredeti eljárás helye szerinti állam hatáskörrel rendelkező hatósága által a hágai egyezményhez ajánlott nyomtatvány formájában készített összefoglalását vagy kivonatát és annak magyar nyelvű fordítását, a bíróság eltekint a határozat teljes szövegének magyar nyelvű fordításától. A bíróság akkor rendelheti el a végrehajtani kért határozat magyar nyelvű fordításának benyújtását, ha az az elismerés és végrehajtás közrendbe ütközésének vizsgálatához vagy a végrehajthatóvá nyilvánítás tárgyában hozott végzés ellen benyújtott fellebbezés elbírálásához szükséges.”
+### 75. §

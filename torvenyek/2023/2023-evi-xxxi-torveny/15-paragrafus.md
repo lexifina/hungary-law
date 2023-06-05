@@ -1,3 +1,1 @@
-15. § A közjegyzőkről szóló 1991. évi XLI. törvény 142. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A közjegyző a nyilatkozat vagy értesítés szövegét szó szerint jegyzőkönyvbe foglalja, és az okiratot postán ajánlott vagy tértivevényes küldeményként, illetve az E-ügyintézési törvényben meghatározott módon a másik fél részére továbbítja. A közjegyző a jegyzőkönyvbe foglalt nyilatkozat vagy értesítés szövegét a nyilatkozattevő – képviselő eljárása esetén a képviselő – előtt felolvassa, e jegyzőkönyvet a nyilatkozattevőnek – képviselő eljárása esetén a képviselőnek – alá kell írnia. A közjegyző a nyilatkozat vagy értesítés közléséről a kérelmet előterjesztő félnek jegyzőkönyvet állít ki, amelybe belefoglalja a nyilatkozat vagy értesítés szó szerinti szövegét, a felek nevét, lakóhelyét, ennek hiányában tartózkodási helyét, illetve székhelyét, a feladás évét, hónapját, napját, a kérelmet előterjesztő kívánságára óráját is.”
+### 15. §
