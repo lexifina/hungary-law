@@ -18,9 +18,11 @@ ad) a választottbírósági tanács összetétele vagy a választottbírósági
 
 b) a bíróság úgy ítéli meg, hogy
 
-ba) a vita tárgya a magyar jog szerint választottbírósági útra nem tartozhat, vagy
+ba) a vita tárgya a magyar jog szerint választottbírósági útra nem tartozhat,
 
-bb) a választottbírósági ítélet a magyar közrendbe ütközik.
+bb) a választottbírósági ítélet a magyar közrendbe ütközik, vagy
+
+bc) a választottbíróság a felek bármelyike által becsatolt Teljesítésigazolási Szakértői Szerv által készített szakvélemény tartalmát – a bizonyítékként történő értékelés vagy mellőzés okaira kiterjedően – ítéletében érdemben nem értékelte.
 
 (3) Az érvénytelenítés iránti kereset a választottbírósági ítéletnek, ha pedig a 46. § szerinti kérelmet terjesztettek elő, a választottbírósági tanács e kérelem alapján hozott döntésének átvételét követő hatvan napon belül terjeszthető elő. E határidő elmulasztása jogvesztéssel jár.
 
