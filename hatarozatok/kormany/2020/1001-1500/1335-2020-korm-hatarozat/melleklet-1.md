@@ -1,10 +1,10 @@
-## 1.[^1] – figyelemmel a Fiumei úti temető vagyonkezelésével, működtetésével és fejlesztésével kapcsolatos intézkedésekről szóló 1157/2015. (III. 17.) Korm. határozatban foglaltakra – egyetért azzal, hogy a Fiumei úti Nemzeti Sírkert és Nemzeti Emlékhely a nemzeti emlékezet központjává és egyedülálló kulturális és idegenforgalmi látványossággá váljon, ennek érdekében egyetért a Fiumei Úti Sírkert Nemzeti Emlékhellyel, valamint a kapcsolódó Salgótarjáni utcai zsidó temetővel kapcsolatos beruházások és fejlesztési feladatok (a továbbiakban együtt: Beruházások) ellátásával, a Beruházások előkészítésével, valamint – a Beruházások előkészítésével egyidejűleg – a Fiumei úti Nemzeti Sírkert ledőlt és élet- és balesetveszélyes kerítése helyreállításával, a Fiumei úti Sírkert északi temetőfala mellett a Budapest, belterület 34589 hrsz. ingatlanon található, felhagyott benzinkút és földalatti tartálya megszüntetésével, a terület környezetvédelmi kármentesítésével, továbbá a Budapest, belterület 38821/6 hrsz. bővítési területen álló, balesetveszélyes állapotban lévő volt szolgálati lakások bontásával (a továbbiakban együtt: Helyreállítási Feladatok);
+## 1.[^1] – figyelemmel a Fiumei úti temető vagyonkezelésével, működtetésével és fejlesztésével kapcsolatos intézkedésekről szóló 1157/2015. (III. 17.) Korm. határozatban foglaltakra – egyetért azzal, hogy a Fiumei úti Nemzeti Sírkert és Nemzeti Emlékhely a nemzeti emlékezet központjává és egyedülálló kulturális és idegenforgalmi látványossággá váljon, ennek érdekében egyetért a Fiumei Úti Sírkert Nemzeti Emlékhellyel, valamint a kapcsolódó Salgótarjáni utcai zsidó temetővel kapcsolatos beruházások és fejlesztési feladatok (a továbbiakban együtt: Beruházások) ellátásával, a Beruházások előkészítésével, valamint – a Beruházások előkészítésével egyidejűleg – a Fiumei úti Nemzeti Sírkert ledőlt és élet- és balesetveszélyes kerítése helyreállításával, – az északi temetőfal esetében a Budapest, belterület 34589 hrsz. ingatlan déli határvonala menti területének szükség szerinti igénybevételével –, továbbá a Budapest, belterület 38821/6 hrsz. bővítési területen álló, balesetveszélyes állapotban lévő volt szolgálati lakások bontásával (a továbbiakban együtt: Helyreállítási Feladatok);
 
 ## 2.[^2] a Beruházások előkészítésének és a Helyreállítási Feladatok megvalósításának kormányzati felelőseként a Miniszterelnökséget vezető minisztert jelöli ki;
 
-## 3.[^3] egyetért azzal, hogy a Beruházások előkészítésének és a Helyreállítási Feladatoknak a megvalósítója a Steindl Imre Program Nonprofit Zártkörűen működő Részvénytársaság (a továbbiakban: Társaság) legyen;
+## 3.[^3] egyetért azzal, hogy a Beruházások előkészítésének és a Helyreállítási Feladatoknak a megvalósítója a Steindl Imre Program Nonprofit Zártkörűen működő Részvénytársaság (a továbbiakban: Társaság) legyen, azzal, hogy a Beruházás Előkészítési Alap felhasználásáról szóló 233/2018. (XII. 6.) Korm. rendelet [a továbbiakban: 233/2018. (XII. 6.) Korm. rendelet] 2. § (2) bekezdés e) pontja szerinti feladatot a Nemzeti Örökség Intézete bevonásával és szakmai közreműködésével kell elvégezni;
 
-## 4.[^4] egyetért azzal, hogy a Beruházások előkészítése során a Beruházás Előkészítési Alap felhasználásáról szóló 233/2018. (XII. 6.) Korm. rendelet 2. § (2) bekezdés d) és p) pontja szerinti előkészítési fázisok kerüljenek megvalósításra – azaz beruházási terv készítése, ami tartalmazza a Beruházásokkal kapcsolatos feladatok leírását, ütemezés és felelősök bemutatását, továbbá kivitelezési dokumentáció készítését –, és egyetért azzal, hogy a Beruházások előkészítésére és a Helyreállítási Feladatok megvalósítására a 2020. évben összesen 866 500 000 forint kerüljön biztosításra, valamint hogy a Beruházások előkészítését és a Helyreállítási Feladatokat legkésőbb 2023. szeptember 30. napjáig kell megvalósítani;
+## 4.[^4] egyetért azzal, hogy a Beruházások előkészítése során a 233/2018. (XII. 6.) Korm. rendelet 2. § (2) bekezdés d), e), n) és p) pontja szerinti előkészítési fázisok kerüljenek megvalósításra, és egyetért azzal, hogy a Beruházások előkészítésére és a Helyreállítási Feladatok megvalósítására a 2020. évben összesen 866 500 000 forint kerüljön biztosításra, valamint hogy a Beruházások előkészítését és a Helyreállítási Feladatokat legkésőbb 2026. január 31. napjáig kell megvalósítani;
 
 ## 5.[^5] az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva, a Beruházások előkészítési feladatainak finanszírozása érdekében a 2020. évben összesen 160 000 000 forint egyszeri átcsoportosítását rendeli el a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelési előirányzatok cím, 1. Célelőirányzatok alcím, 6. Nemzeti Sírkerthez és Emlékhelyekhez kapcsolódó kiadások jogcímcsoport javára, elszámolási és a fel nem használt, valamint a nem rendeltetésszerűen felhasznált rész tekintetében visszafizetési kötelezettséggel, az 1. melléklet szerint;
 
@@ -92,6 +92,8 @@
 
 1. melléklet az 1335/2020. (VI. 22.) Korm. határozathoz
 
+0X03928_0
+
 | XI. Miniszterelnökség |
 
 | XV. Pénzügyminisztérium |
@@ -162,10 +164,10 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
-[^1]: Az 1. pont az 1133/2022. (III. 8.) Korm. határozat 1. pontjával megállapított szöveg.
+[^1]: Az 1. pont az 1133/2022. (III. 8.) Korm. határozat 1. pontjával megállapított, az 1217/2023. (VI. 5.) Korm. határozat 1. pont a) pontja szerint módosított szöveg.
 [^2]: A 2. pont a 2013/2020. (XII. 24.) Korm. határozat 1. pontjával megállapított szöveg.
-[^3]: A 3. pont a 2013/2020. (XII. 24.) Korm. határozat 1. pontjával megállapított szöveg.
-[^4]: A 4. pont az 1133/2022. (III. 8.) Korm. határozat 2. pontjával megállapított szöveg.
+[^3]: A 3. pont a 2013/2020. (XII. 24.) Korm. határozat 1. pontjával megállapított, az 1217/2023. (VI. 5.) Korm. határozat 1. pont b) alpontja szerint módosított szöveg.
+[^4]: A 4. pont az 1133/2022. (III. 8.) Korm. határozat 2. pontjával megállapított, az 1217/2023. (VI. 5.) Korm. határozat 1. pont c)-d) alpontja és 2. pontja szerint módosított szöveg.
 [^5]: Az 5. pont a 2013/2020. (XII. 24.) Korm. határozat 6. pontja, az 1133/2022. (III. 8.) Korm. határozat 6. pontja szerint módosított szöveg.
 [^6]: Az 5a. pontot a 2013/2020. (XII. 24.) Korm. határozat 2. pontja iktatta be.
 [^7]: A 6a. pontot a 2013/2020. (XII. 24.) Korm. határozat 3. pontja iktatta be.
