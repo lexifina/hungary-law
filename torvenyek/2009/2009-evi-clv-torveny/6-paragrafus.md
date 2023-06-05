@@ -1,4 +1,4 @@
-6. § (1) A minősítést az köteles kezdeményezni, akinél az állami vagy közfeladata ellátása során a minősítési feltételeknek megfelelő adat keletkezik.
+6. § (1) A minősítést az adat keletkezésekor az köteles kezdeményezni, akinél az állami vagy közfeladata ellátása során a minősítési feltételeknek megfelelő adat keletkezik.
 
 (2) A minősítendő adat minősítéséhez a kezdeményező indokolással ellátott minősítési javaslatot készít.
 
@@ -6,7 +6,7 @@
 
 (4) A minősítési eljárás alatt álló, minősíthető adatot tartalmazó adathordozót a kezdeményező minősítés céljából a minősítési javaslattal együtt haladéktalanul felterjeszti a minősítőhöz. A minősítő a felterjesztés kézhezvételét követő 30 napon belül dönt az adat minősítéséről. Ha a minősítő a határidő lejártáig az adat minősítéséről nem dönt, a nemzeti minősített adat nem jön létre.
 
-(5) Ha az (1) bekezdésben meghatározott adat a minősítőnél keletkezik, döntését a (3) bekezdésben meghatározott minősítési javaslat tartalmával megegyező módon köteles írásba foglalni és az adatot minősíteni.
+(5) Ha az (1) bekezdésben meghatározott adat a minősítőnél keletkezik, döntését a (3) bekezdésben meghatározott minősítési javaslat tartalmával megegyező módon köteles írásba foglalni és a keletkezéskor az adatot minősíteni.
 
 (6) A minősítési eljárás alatt álló adatot a minősítő döntéséig a kezdeményezett minősítési szintre vonatkozó személyi, fizikai, adminisztratív és elektronikus biztonsági szabályok szerint kell kezelni.
 

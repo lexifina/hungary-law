@@ -12,6 +12,8 @@ c) minősítését megszünteti, ha minősítésének feltételei a továbbiakba
 
 (3) A minősítés megszüntetéséről, illetve a minősítési szint vagy az érvényességi idő módosításáról minden olyan címzettet vagy annak jogutódját értesíteni kell, akinek a nemzeti minősített adatot továbbították.
 
+(3a) Minősítési jelölés megismétlésével készült minősített adat esetén a (3) bekezdés alapján kapott felülvizsgálat eredményéről vagy a megismételt minősítési jelölés egyéb okból történő módosulásáról a minősítési jelölést megismétlő szerv értesíti a megismételt minősítési jelöléssel ellátott és továbbított minősített adat címzettjét vagy annak jogutódját.
+
 (4) A minősítésre jogosult személy az általa minősítői jogkörrel felruházott személyek minősítését a minősítés felülvizsgálatára vonatkozó szabályok szerint felülbírálhatja, ennek eredményeként megszüntetheti a minősítést, módosíthatja a minősítési szintet, illetve a minősítés érvényességi idejét.
 
 (5) A legfőbb ügyész az ügyészség vezetője, a miniszterelnök, a miniszterelnök politikai igazgatója, a miniszterelnöki biztos és a kormánybiztos, a Kormány tagja – felügyeleti jogkörében – a kormányzati főhivatal vezetője minősítését a minősítés felülvizsgálatára vonatkozó szabályok szerint felülbírálhatja, ennek eredményeként megszüntetheti a minősítést, módosíthatja a minősítési szintet, illetve a minősítés érvényességi idejét.
