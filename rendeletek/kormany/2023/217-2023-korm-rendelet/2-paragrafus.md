@@ -1,5 +1,3 @@
-## „c) beruházás megvalósításához szükséges ingatlanokon vasúti pályatartozékok, vasúti üzemi létesítmények – ideértve az elektronikus hírközlési építményt is – az élet- és vagyonbiztonság, valamint az egészséges környezet biztosítása mellett elhelyezhetőek, azzal, hogy ha a hatályos településrendezési terv, a településképi rendelet vagy az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) ezen létesítmények elhelyezésére vonatkozó előírásokkal ellentétes vagy azzal nem összeegyeztethető szabályozást tartalmaz, akkor a településrendezési tervet, a településképi rendeletet és az OTÉK-ot nem kell alkalmazni.”
+2. §[^3]
 
-2. § Az R1. a következő 3. §-sal egészül ki:
-
-„3. § E rendeletnek az egyes vasúti beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 75/2008. (IV. 3.) Korm. rendelet, valamint a vasúti építmények építésügyi hatósági engedélyezési eljárásainak részletes szabályairól szóló 289/2012. (X. 11.) Korm. rendelet módosításáról szóló 217/2023. (VI. 1.) Korm. rendelettel (a továbbiakban: Módr1.) megállapított 1. § (4) bekezdés c) pontját a Módr1. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-6. § Az R2. 18. § (2) bekezdés nyitó szövegrészében az „az ERTMS projektekhez” szövegrész helyébe az „az Európai Vasúti Forgalomirányítási Rendszer (a továbbiakban: ERTMS) projektekhez” szöveg lép.
+6. §[^7]
+
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
