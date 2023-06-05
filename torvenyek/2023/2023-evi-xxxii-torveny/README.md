@@ -5,3 +5,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2023-32-00-00
 | Hatályos (In-force) | Módosította (made by) | NJT időállapot |
 | --- | --- | --- |
 | 2023-06-05 | 2023. évi XXXII. törvény | 2023-32-00-00.0 (közlönyállapot) |
+| 2023-06-05 | Nemzeti Jogszabálytár (egységes szerkezet) | 2023-32-00-00.1 |
