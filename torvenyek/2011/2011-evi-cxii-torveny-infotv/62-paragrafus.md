@@ -1,6 +1,6 @@
 ## 33. Titokfelügyeleti hatósági eljárás
 
-62. § (1) Ha a Hatóság vizsgálata alapján vagy egyébként valószínűsíthető, hogy a nemzeti minősített adat minősítése jogellenes, a Hatóság titokfelügyeleti hatósági eljárást indíthat.
+62. § (1) Ha a Hatóság vizsgálata alapján vagy egyébként valószínűsíthető, hogy a nemzeti minősített adat minősítése vagy a minősítési jelölésének megismétlése jogellenes, a Hatóság titokfelügyeleti hatósági eljárást indíthat.
 
 (1a) Ha a bíróság a 31. § (6a) bekezdésében meghatározottak szerint a Hatóság titokfelügyeleti hatósági eljárását kezdeményezi, a Hatóság titokfelügyeleti hatósági eljárást indít.
 
@@ -12,7 +12,11 @@
 
 (3) A titokfelügyeleti hatósági eljárás kizárólag hivatalból indítható, az akkor sem minősül kérelemre indult eljárásnak, ha a titokfelügyeleti hatósági eljárást a Hatóság bejelentésen alapuló vizsgálata előzte meg, vagy a titokfelügyeleti hatósági eljárást a bíróság a 31. § (6a) bekezdésében meghatározottak alapján kezdeményezte. Ha azonban a titokfelügyeleti hatósági eljárást a Hatóság bejelentésen alapuló vizsgálata előzte meg, a bejelentőt a titokfelügyeleti hatósági eljárás megindításáról és befejezéséről értesíteni kell.
 
-(4) A titokfelügyeleti hatósági eljárásban ügyfél a minősítő.
+(4) A titokfelügyeleti hatósági eljárásban ügyfél
+
+a) a minősítés jogellenessége vizsgálata esetén a minősítő,
+
+b) a minősítési jelölés megismétlése jogellenessége vizsgálata esetén a minősítési jelölést megismétlő.
 
 (5) A titokfelügyeleti hatósági eljárásban a tényállás tisztázása során a tanú, a szakértő és a szemletárgy birtokosa meghallgatható akkor is, ha nem kapott felmentést a vizsgált nemzeti minősített adatra vonatkozó titoktartási kötelezettség alól.
 
