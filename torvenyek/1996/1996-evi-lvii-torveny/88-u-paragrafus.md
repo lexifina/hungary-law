@@ -6,4 +6,4 @@
 
 (3) Az Európai Bizottság észrevételeinek, véleményének megtételével és az eljárás felfüggesztésével összefüggésben megfelelően alkalmazni kell a 88/B. § (1), (2) és (4)–(7) bekezdését.
 
-(4) A bíróság – azokban a perekben, amelyek elbírálása során az EUMSz. 101., illetve 102. cikkét alkalmazta – az ítéletét haladéktalanul megküldi az igazságügyért felelős miniszternek az 1/2003/EK tanácsi rendeletben előírt, az Európai Bizottság irányában fennálló tájékoztatási kötelezettség teljesítése céljából. Az igazságügyért felelős miniszter az ítéletet tájékoztatásul megküldi a Gazdasági Versenyhivatalnak.
+(4) A bíróság az ítéletét haladéktalanul megküldi az igazságügyért felelős miniszternek az 1/2003/EK tanácsi rendeletben előírt, az Európai Bizottság irányában fennálló tájékoztatási kötelezettség teljesítése céljából azokban a polgári jogi igény érvényesítése iránti perekben, amelyek elbírálása során az EUMSz. 101., illetve 102. cikkét alkalmazta. Az igazságügyért felelős miniszter az ítéletet tájékoztatásul megküldi a Gazdasági Versenyhivatalnak is.

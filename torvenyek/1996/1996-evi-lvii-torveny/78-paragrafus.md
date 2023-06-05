@@ -38,6 +38,8 @@ számított legfeljebb napi háromszázezer forint. A bírság összegének szá
 
 (3) A bírság összegét az eset összes körülményeire – így különösen a jogsérelem súlyára, a jogsértő állapot időtartamára, a jogsértéssel elért előnyre, a jogsértő piaci helyzetére, a magatartás felróhatóságára, az eljárást segítő együttműködő magatartására, a jogsértő magatartás ismételt tanúsítására, gyakoriságára – tekintettel kell meghatározni. A jogsérelem súlyát különösen a gazdasági verseny veszélyeztetettségének foka, a végső üzletfelek érdekei sérelmének köre, kiterjedtsége alapozhatja meg.
 
+(3a) Az eljáró versenytanácsot a (3) bekezdés szerinti mérlegelés körében az (1b) bekezdés nem köti. Az (1b) bekezdést a 76. § (1) bekezdés k) pontja szerinti döntés meghozatalakor kell alkalmazni.
+
 (4) Az (1) bekezdés c) pontja, illetve az (1a) bekezdés szerinti bírság összegét az eset összes körülményeire – így különösen a kötelezettség megszegésének súlyára, a kötelezettséggel érintett piaci, gazdasági viszonyok jellegére, a fennálló versenyfeltételekre, valamint a vállalt kötelezettséget előíró határozat alapját képező közérdekre, a vállalkozás piaci helyzetére, a kötelezettség megszegésének felróhatóságára, a kötelezettség addigi teljesítésére – tekintettel kell meghatározni. A kötelezettség megszegésének súlyát különösen a gazdasági verseny veszélyeztetettségének foka, az üzletfelek, versenytársak érdekei sérelmének köre, kiterjedtsége alapozhatja meg.
 
 (5) Az eljáró versenytanács a vállalkozáscsoport jogsértést megvalósító tagját és a vállalkozáscsoportnak a határozatban nevesített tagjait egyetemlegesen kötelezi a bírság megfizetésére.

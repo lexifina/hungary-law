@@ -8,8 +8,8 @@
 
 (5) A közösen irányított vállalkozás nettó árbevételét egyenlő arányban kell megosztani az azt irányító vállalkozások között, oly módon, hogy az azonos vállalkozás-csoporthoz tartozó vállalkozásokat az irányítási arány számítása szempontjából egynek kell tekinteni.
 
-(6) Az összefonódás bejelentése esetén a nettó árbevételt az összefonódást létrehozó nyilvános ajánlati felhívás közzétételének, szerződés megkötésének, az irányítási jog megszerzésének vagy az összefonódás-bejelentés benyújtásának időpontjai közül a legkorábbi időpontot megelőző utolsó hitelesen lezárt üzleti évre vonatkozó éves beszámoló vagy egyszerűsített éves beszámoló szerinti nettó árbevétel alapján kell meghatározni.
+(6) A nettó árbevételt az összefonódást létrehozó nyilvános ajánlati felhívás közzétételének, szerződés megkötésének, az irányítási jog megszerzésének vagy az összefonódás-bejelentés benyújtásának időpontjai közül a legkorábbi időpontot megelőző utolsó hitelesen lezárt üzleti évre vonatkozó éves beszámoló vagy egyszerűsített éves beszámoló szerinti nettó árbevétel alapján kell meghatározni.
 
-(6a) A 67. § (3) bekezdése szerinti eljárás indítása esetén a nettó árbevételt az összefonódás végrehajtásának időpontjához képest utolsó hitelesen lezárt üzleti évre vonatkozó éves beszámoló vagy egyszerűsített éves beszámoló szerinti nettó árbevétel alapján kell meghatározni.
+(6a)
 
 (7) A külföldi devizában meghatározott összegek forintra történő átszámításakor a Magyar Nemzeti Bank által közzétett, az adott vállalkozás üzleti évének lezárásakor érvényes deviza-középárfolyamot kell alkalmazni.
