@@ -12,13 +12,13 @@
 
 ## b) jogcím (kölcsön/támogatás)
 
-## c) kölcsön, vissza nem térítendő támogatás összege.”
+## c) kölcsön, vissza nem térítendő támogatás összege.
 
 ## (5) Az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény 360. § (1) bekezdés 37. pontja a következő szöveggel lép hatályba:
 
 ## [Az Art.]
 
-## „37. 100. § (2) bekezdésében az „egyszerűsített ellenőrzés kivételével” szövegrész helyébe a „egyszerűsített ellenőrzés, egyes gazdasági események valódiságának vizsgálatára irányuló ellenőrzés kivételével” szöveg, illetve a „kérheti” szövegrész helyébe az „egy alkalommal kérheti” szöveg;”
+## „37. 100. § (2) bekezdésében az „egyszerűsített ellenőrzés kivételével” szövegrész helyébe a „egyszerűsített ellenőrzés, egyes gazdasági események valódiságának vizsgálatára irányuló ellenőrzés kivételével” szöveg, illetve a „kérheti” szövegrész helyébe az „egy alkalommal kérheti” szöveg;
 
 ## [lép]
 
