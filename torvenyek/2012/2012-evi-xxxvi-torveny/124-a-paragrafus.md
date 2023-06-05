@@ -9,3 +9,5 @@
 a) szakmai munkájának ellenőrzésére, értékelésére a kultúráért felelős miniszter a házelnök kezdeményezése alapján jogosult,
 
 b) számára a házelnök kiemelt feladatot határozhat meg.
+
+(5) Az Országgyűlés Hivatala az (1)–(3) bekezdésben meghatározott feladatai ellátásához kapcsolódó könyvkiadási tevékenységet végezhet, az általa kiadott könyveket és egyéb kiadványokat jogszabályban meghatározottak szerint átruházhatja.
