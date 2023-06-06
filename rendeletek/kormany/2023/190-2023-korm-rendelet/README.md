@@ -1,0 +1,9 @@
+# 190/2023. (V. 22.) Korm. rendelet
+
+a talajjavító mederanyag és a kezelt mederiszap termőföldön történő felhasználásának szabályairól
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-190-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2023-06-06 | 2023-190-20-22.1 | 190/2023. (V. 22.) Korm. rendelet |

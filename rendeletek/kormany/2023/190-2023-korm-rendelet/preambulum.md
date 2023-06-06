@@ -1,0 +1,1 @@
+A Kormány a termőföld védelméről szóló 2007. évi CXXIX. törvény 66. § (1a) bekezdés d) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:

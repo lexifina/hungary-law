@@ -1,0 +1,1 @@
+9. § A vízügyi igazgatási szerv kezelésében lévő mederből kotort, iszapdepóniában elhelyezett talajjavító mederanyag vagy kezelt mederiszap mezőgazdasági felhasználása legfeljebb a deponálás befejezését követő második év február 28. napjáig történhet meg. A határidő lejártát követően a mederiszap mezőgazdasági felhasználása tilos.
