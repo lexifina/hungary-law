@@ -2,6 +2,6 @@
 
 a)
 
-b) 62. § (1) bekezdésében a „minősítése jogellenes” szövegrész helyébe a „minősítése vagy a minősítési jelölésének megismétlése jogellenes” szöveg
+b)
 
 lép.
