@@ -1,3 +1,1 @@
-30. § A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 88/U. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A bíróság az ítéletét haladéktalanul megküldi az igazságügyért felelős miniszternek az 1/2003/EK tanácsi rendeletben előírt, az Európai Bizottság irányában fennálló tájékoztatási kötelezettség teljesítése céljából azokban a polgári jogi igény érvényesítése iránti perekben, amelyek elbírálása során az EUMSz. 101., illetve 102. cikkét alkalmazta. Az igazságügyért felelős miniszter az ítéletet tájékoztatásul megküldi a Gazdasági Versenyhivatalnak is.”
+### 30. §
