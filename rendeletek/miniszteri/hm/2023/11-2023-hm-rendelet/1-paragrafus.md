@@ -1,1 +1,3 @@
-1. § A fejezeti kezelésű előirányzatok kezelésének és felhasználásának szabályairól szóló 5/2018. (III. 8.) HM rendelet (a továbbiakban: HM rendelet) 1. melléklete az 1. melléklet szerint módosul.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
