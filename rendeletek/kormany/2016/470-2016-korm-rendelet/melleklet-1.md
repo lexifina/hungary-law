@@ -1,5 +1,3 @@
-## 7. § E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
-
 1. melléklet a 470/2016. (XII. 23.) Korm. rendelethez
 
 A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
