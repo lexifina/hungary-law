@@ -2,7 +2,7 @@
 
 a) az engedély jogosultja a vizsgálóállomásra vonatkozó engedély visszavonására irányuló kérelmet nyújt be,
 
-b)[^23] az engedély jogosultja tanúsító szervezetként jogutóddal vagy jogutód nélkül megszűnik – ide nem értve azt az esetet, amikor az egyéni vállalkozó vállalkozói tevékenységének folytatására a 2009. évi CXV. törvény 19/C. §-a alapján korlátolt felelősségű társaságot alapít –, vagy ellene felszámolási eljárás indult,
+b)[^27] az engedély jogosultja tanúsító szervezetként jogutóddal vagy jogutód nélkül megszűnik – ide nem értve azt az esetet, amikor az egyéni vállalkozó vállalkozói tevékenységének folytatására a 2009. évi CXV. törvény 19/C. §-a alapján korlátolt felelősségű társaságot alapít –, vagy ellene felszámolási eljárás indult,
 
 c) a közlekedési hatóság megállapította, hogy az engedély jogosultja a korábbi engedélyezési feltételeknek nem felel meg, és az erre irányuló felszólításában meghatározott határidő eredménytelenül telik el,
 
@@ -16,4 +16,4 @@ g) két egymást követő auditálás nem megfelelő minősítéssel zárult.
 
 (2) Amennyiben az engedélyt a közlekedési hatóság az (1) bekezdés e) vagy f) pontja alapján vonja vissza, a vizsgálóállomás részére újabb engedély a visszavonás napját követő 3 év elteltével adható.
 
-[^23]: A 14. § (1) bekezdés b) pontja a 60/2023. (II. 28.) Korm. rendelet 38. §-ával megállapított szöveg.
+[^27]: A 14. § (1) bekezdés b) pontja a 60/2023. (II. 28.) Korm. rendelet 38. §-ával megállapított szöveg.

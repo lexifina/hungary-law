@@ -8,8 +8,8 @@ c) annak a járműkategóriának az 1. melléklet szerinti megnevezését, amely
 
 d) annak a közúti járművek műszaki megvizsgálásáról szóló rendeletben nevesített eljárásnak a megjelölését, amely szerint a kérelmező szervezet a vizsgálóállomást működtetni kívánja, valamint
 
-e)[^5]
+e)[^9]
 
 (2) A díjat telephelyenként kell megfizetni.
 
-[^5]: A 3. § (1) bekezdés e) pontja a 457/2017. (XII. 28.) Korm. rendelet 611. §-a alapján nem lép hatályba.
+[^9]: A 3. § (1) bekezdés e) pontja a 457/2017. (XII. 28.) Korm. rendelet 611. §-a alapján nem lép hatályba.

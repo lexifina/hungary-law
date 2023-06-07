@@ -1,4 +1,4 @@
-1. melléklet a 181/2017. (VII. 5.) Korm. rendelethez[^34]
+1. melléklet a 181/2017. (VII. 5.) Korm. rendelethez[^38]
 
 1. Forgalomba helyezés előtti műszaki vizsgálat keretében érvényes általános forgalomba helyezési engedély (ÁFE) vagy típusbizonyítvány alapján kiadott megfelelőségi nyilatkozat felhasználásával végzett műszaki megvizsgálás)
 
@@ -278,4 +278,4 @@
 
 | 26. | Sb2 |  |
 
-[^34]: Az 1. melléklet a 722/2020. (XII. 31.) Korm. rendelet 47. §-ával megállapított szöveg.
+[^38]: Az 1. melléklet a 722/2020. (XII. 31.) Korm. rendelet 47. §-ával megállapított szöveg.

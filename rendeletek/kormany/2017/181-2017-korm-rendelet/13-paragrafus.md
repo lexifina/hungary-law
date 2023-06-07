@@ -2,6 +2,6 @@
 
 (2) A közlekedési hatóság a vizsgálóállomás működését a feltételek teljesítéséig – de legfeljebb 6 hónapra – felfüggeszti.
 
-(3)[^22] Ha az auditált vagy akkreditált státusz megszűnése vagy visszavonása miatt került sor a tevékenység felfüggesztésre, úgy tevékenység csak sikeres auditálást vagy akkreditálást követően folytatható.
+(3)[^26] Ha az auditált vagy akkreditált státusz megszűnése vagy visszavonása miatt került sor a tevékenység felfüggesztésre, úgy tevékenység csak sikeres auditálást vagy akkreditálást követően folytatható.
 
-[^22]: A 13. § (3) bekezdése a 722/2020. (XII. 31.) Korm. rendelet 44. §-ával megállapított szöveg.
+[^26]: A 13. § (3) bekezdése a 722/2020. (XII. 31.) Korm. rendelet 44. §-ával megállapított szöveg.
