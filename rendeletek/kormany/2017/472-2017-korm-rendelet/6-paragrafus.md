@@ -6,7 +6,7 @@ b) az utazási szolgáltatásra vonatkozó szerződésben vállalt részszolgál
 
 c) az adott utazási szolgáltatás esetében irányadó devizaárfolyamok
 
-## változása miatt kerülhet sor.
+változása miatt kerülhet sor.
 
 (2) A díjemelés mértékének arányosnak kell lennie a költségek emelkedésének mértékével, és a szerződésben pontosan meg kell határozni a módosított díj számításának módját.
 

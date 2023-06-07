@@ -1,5 +1,3 @@
-## Az elektronikus úton kötött utazási csomagra vonatkozó szerződéshez kapcsolódó tájékoztató formanyomtatvány kötelező elemei
-
 ## Az Önnek felkínált utazási szolgáltatások kombinációja az utazási szolgáltatásokra vonatkozó szerződésekről, különösen az utazási csomagra és az utazási szolgáltatásegyüttesre vonatkozó szerződésekről szóló 472/2017. (XII. 28.) Korm. rendelet értelmében vett utazási csomag.
 
 ## Ennélfogva az utazási csomagra vonatkozó valamennyi jogosultság megilleti Önt. Az utazási csomag szerződésszerű teljesítéséért teljes egészében a(z) ....... társaság(ok) felelős(ek).
@@ -37,3 +35,5 @@
 ## – Ha az utazásszervező fizetésképtelenné válik, a befizetett pénzösszegeket visszafizetik. Ha az utazásszervező az utazási csomag megkezdése után válik fizetésképtelenné, és az utazók szállítása a csomag részét képezi, gondoskodnak az utazók hazaszállításáról. .... társaság a fizetésképtelenséggel szembeni védelemért felelős ... szervezet révén gondoskodott a fizetésképtelenséggel szembeni védelemről. Az utazók ezzel a szervezettel vagy adott esetben az illetékes hatósággal vehetik fel a kapcsolatot (elérhetőség, így többek között név, cím, e-mail, telefonszám), ha a szolgáltatások teljesítését az utazásszervező fizetésképtelensége miatt megtagadják.
 
 2. melléklet a 472/2017. (XII. 28.) Korm. rendelethez
+
+Az utazási csomagra vonatkozó szerződéshez, az 1. mellékletben foglaltaktól eltérő esetekre vonatkozó tájékoztató formanyomtatvány kötelező elemei

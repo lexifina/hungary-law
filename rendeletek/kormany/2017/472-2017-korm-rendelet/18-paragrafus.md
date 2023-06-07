@@ -8,7 +8,7 @@ b) az utazási szerződésben vállalt részszolgáltatásokkal kapcsolatos, a t
 
 c) az adott utazási szolgáltatás esetében irányadó devizaárfolyamok
 
-## változása miatt kerülhet sor.
+változása miatt kerülhet sor.
 
 (2) Ha az (1) bekezdés szerinti díjemelés mértéke az utazó által fizetendő teljes díj nyolc százalékát meghaladja, a 19. § (2)–(6) bekezdés alkalmazandó.
 

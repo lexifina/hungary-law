@@ -1,5 +1,3 @@
-## Az utazásszervező által a 2. § 6. pont b) pont be) alpontjának megfelelő adattovábbításra vonatkozó tájékoztató formanyomtatvány kötelező elemei
-
 ## Amennyiben Ön a foglalás .............. társaság általi visszaigazolásának beérkezése után legkésőbb 24 órán belül szerződést köt a(z) ......... társasággal, a(z) ........... és a(z) ........... társaság által nyújtott utazási szolgáltatás az utazási szolgáltatásokra vonatkozó szerződésekről, különösen az utazási csomagra és az utazási szolgáltatásegyüttesre vonatkozó szerződésekről szóló 472/2017. (XII. 28.) Korm. rendelet értelmében vett utazási csomagnak minősül.
 
 ## Az utazási csomagra vonatkozó szerződésből fakadó valamennyi jogosultság megilleti Önt. Az utazási csomag szerződésszerű teljesítéséért teljes egészében a(z) ............ társaság felelős.

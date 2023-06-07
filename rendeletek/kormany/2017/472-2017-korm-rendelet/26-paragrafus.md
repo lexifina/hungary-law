@@ -6,6 +6,6 @@ a) az egészségügyi szolgáltatásokról, a helyi hatóságokról és a konzul
 
 b) a távközlési eszközökkel végzett kommunikációhoz, illetve a helyettesítő utazási megoldás megtalálásához való segítségnyújtással
 
-## kerülhet sor.
+kerülhet sor.
 
 (2) Az utazásszervező az (1) bekezdés szerinti szolgáltatásért arányos díjra jogosult, ha a nehéz helyzetet az utazó szándékosan vagy gondatlanságból maga idézte elő. E díj nem haladhatja meg az utazásszervező ténylegesen felmerült költségeit.
