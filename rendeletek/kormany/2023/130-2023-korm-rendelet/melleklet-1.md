@@ -1,4 +1,4 @@
-1. melléklet a 130/2023. (IV. 18.) Korm. rendelethez
+1. melléklet a 130/2023. (IV. 18.) Korm. rendelethez[^11]
 
 Érzékeny termékek köre
 
@@ -6,71 +6,52 @@
 
 | 1. | Vámtarifaszám | Termék megnevezése |
 
-| 2.[^11] |  |  |
+| 2. |  |  |
 
-| 3.[^12] |  |  |
+| 3. |  |  |
 
-| 4.[^13] |  |  |
+| 4. |  |  |
 
-| 5.[^14] |  |  |
+| 5. |  |  |
 
-| 6.[^15] |  |  |
+| 6. |  |  |
 
-| 7.[^16] |  |  |
+| 7. |  |  |
 
-| 8.[^17] |  |  |
+| 8. |  |  |
 
-| 9.[^18] |  |  |
+| 9. |  |  |
 
-| 10. | 1001 | Búza és kétszeres |
+| 10. | ex 1001 99 00 | Közönséges búza (a vetőmag kivételével) |
 
-| 11.[^19] |  |  |
+| 11. |  |  |
 
-| 12.[^20] |  |  |
+| 12. |  |  |
 
-| 13. | 1005 | Kukorica |
+| 13. | 1005 90 00 | Kukorica (a vetőmag kivételével) |
 
-| 14.[^21] |  |  |
+| 14. |  |  |
 
-| 15.[^22] |  |  |
+| 15. |  |  |
 
-| 16.[^23] |  |  |
+| 16. |  |  |
 
-| 17.[^24] |  |  |
+| 17. |  |  |
 
-| 18. | 1205 | Repce- vagy olajrepcemag, törve is |
+| 18. | 1205 10 90; ex 1205 90 00 | Olajrepce- vagy repcemag, törve is (a vetőmag kivételével) |
 
-| 19. | 1206 | Napraforgómag, törve is |
+| 19. | 1206 00 91; 1206 00 99 | Napraforgómag, törve is (a vetőmag kivételével) |
 
-| 20.[^25] |  |  |
+| 20. |  |  |
 
-| 21.[^26] |  |  |
+| 21. |  |  |
 
-| 22.[^27] |  |  |
+| 22. |  |  |
 
-| 23.[^28] |  |  |
+| 23. |  |  |
 
-| 24.[^29] |  |  |
+| 24. |  |  |
 
-| 25.[^30] |  |  |
+| 25. |  |  |
 
-[^11]: Az 1. mellékletben foglalt táblázat 2. sorát a 177/2023. (V. 12.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.
-[^12]: Az 1. mellékletben foglalt táblázat 3. sorát a 177/2023. (V. 12.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.
-[^13]: Az 1. mellékletben foglalt táblázat 4. sorát a 177/2023. (V. 12.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.
-[^14]: Az 1. mellékletben foglalt táblázat 5. sorát a 177/2023. (V. 12.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.
-[^15]: Az 1. mellékletben foglalt táblázat 6. sorát a 177/2023. (V. 12.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.
-[^16]: Az 1. mellékletben foglalt táblázat 7. sorát a 177/2023. (V. 12.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.
-[^17]: Az 1. mellékletben foglalt táblázat 8. sorát a 177/2023. (V. 12.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.
-[^18]: Az 1. mellékletben foglalt táblázat 9. sorát a 177/2023. (V. 12.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.
-[^19]: Az 1. mellékletben foglalt táblázat 11. sorát a 177/2023. (V. 12.) Korm. rendelet 4. § c) pontja hatályon kívül helyezte.
-[^20]: Az 1. mellékletben foglalt táblázat 12. sorát a 177/2023. (V. 12.) Korm. rendelet 4. § c) pontja hatályon kívül helyezte.
-[^21]: Az 1. mellékletben foglalt táblázat 14. sorát a 177/2023. (V. 12.) Korm. rendelet 4. § d) pontja hatályon kívül helyezte.
-[^22]: Az 1. mellékletben foglalt táblázat 15. sorát a 177/2023. (V. 12.) Korm. rendelet 4. § d) pontja hatályon kívül helyezte.
-[^23]: Az 1. mellékletben foglalt táblázat 16. sorát a 177/2023. (V. 12.) Korm. rendelet 4. § d) pontja hatályon kívül helyezte.
-[^24]: Az 1. mellékletben foglalt táblázat 17. sorát a 177/2023. (V. 12.) Korm. rendelet 4. § d) pontja hatályon kívül helyezte.
-[^25]: Az 1. mellékletben foglalt táblázat 20. sorát a 177/2023. (V. 12.) Korm. rendelet 4. § e) pontja hatályon kívül helyezte.
-[^26]: Az 1. mellékletben foglalt táblázat 21. sorát a 177/2023. (V. 12.) Korm. rendelet 4. § e) pontja hatályon kívül helyezte.
-[^27]: Az 1. mellékletben foglalt táblázat 22. sorát a 177/2023. (V. 12.) Korm. rendelet 4. § e) pontja hatályon kívül helyezte.
-[^28]: Az 1. mellékletben foglalt táblázat 23. sorát a 177/2023. (V. 12.) Korm. rendelet 4. § e) pontja hatályon kívül helyezte.
-[^29]: Az 1. mellékletben foglalt táblázat 24. sorát a 177/2023. (V. 12.) Korm. rendelet 4. § e) pontja hatályon kívül helyezte.
-[^30]: Az 1. mellékletben foglalt táblázat 25. sorát a 177/2023. (V. 12.) Korm. rendelet 4. § e) pontja hatályon kívül helyezte.
+[^11]: Az 1. melléklet a 224/2023. (VI. 6.) Korm. rendelet 2. §-ával megállapított szöveg.
