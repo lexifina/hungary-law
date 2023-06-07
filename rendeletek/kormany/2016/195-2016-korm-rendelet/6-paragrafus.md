@@ -1,6 +1,6 @@
 ## 6. Menetjegy
 
-6. § (1) A menetjegyen az 1371/2007/EK európai parlamenti és tanácsi rendelet I. melléklet 7. cikk (2) bekezdésében felsoroltakon túl fel kell tüntetni:
+6. § (1)[^9] A menetjegyen az EU rendelet I. melléklet 7. cikk (2) bekezdésében felsoroltakon túl fel kell tüntetni:
 
 a) az igénybe vehető személyszállítási szolgáltatás megnevezését,
 
@@ -20,7 +20,7 @@ f) többszöri utazásra kiadott menetjegy esetében az utazási lehetőségek j
 
 (4) A különböző menetjegyfajták kezelésére, érvényesítésére, felhasználhatóságának időbeli és térbeli hatályára, illetve a kedvezmények igénybevételének szabályaira vonatkozó részletes feltételeket a vasúti társaság a személyszállítási üzletszabályzatában állapítja meg.
 
-(5) Az utasnak a menetjegyet az 1371/2007/EK európai parlamenti és tanácsi rendelet I. melléklet 9. cikk (1) bekezdésében meghatározottakon túl a vasúti társaság által az utazási jogosultság ellenőrzése céljából kijelölt területen való tartózkodás tartama alatt meg kell őriznie, és a vasúti társaság által jegyvizsgálatra és menetjegy-ellenőrzésre feljogosított személy részére – a kedvezményes jegyváltásra jogosító igazolvánnyal együtt – fel kell mutatnia, kérésre át kell adnia.
+(5)[^10] Az utasnak a menetjegyet az EU rendelet I. melléklet 9. cikk (1) bekezdésében meghatározottakon túl a vasúti társaság által az utazási jogosultság ellenőrzése céljából kijelölt területen való tartózkodás tartama alatt meg kell őriznie, és a vasúti társaság által jegyvizsgálatra és menetjegy-ellenőrzésre feljogosított személy részére – a kedvezményes jegyváltásra jogosító igazolvánnyal együtt – fel kell mutatnia, kérésre át kell adnia.
 
 (6) A névre szóló menetjeggyel csak az arra jogosult utazhat. A nem névre szóló menetjegy mindaddig másra átruházható, ameddig azzal az utazást nem kezdték meg.
 
@@ -29,3 +29,6 @@ f) többszöri utazásra kiadott menetjegy esetében az utazási lehetőségek j
 (8) A (7) bekezdés alkalmazása szempontjából egy felszállási állomásnak tekintendő a különböző helyi járatok által igénybe vett, azonos elnevezésű megállóhelyeket magába foglaló közlekedési csomópont.
 
 (9) A 14. § (2) bekezdésében meghatározottak kivételével, ha a vasúti társaság a járműre történő fel- és leszállásra kijelölt peronon vagy a járművön nem biztosítja a menetjegyvásárlás lehetőségét, köteles a közlekedési csomóponton belüli legközelebbi jegyváltási lehetőségről az utasokat a helyszínen tájékoztatni.
+
+[^9]: A 6. § (1) bekezdés nyitó szövegrésze a 223/2023. (VI. 6.) Korm. rendelet 20. § b) pontja szerint módosított szöveg.
+[^10]: A 6. § (5) bekezdése a 223/2023. (VI. 6.) Korm. rendelet 20. § c) pontja szerint módosított szöveg.

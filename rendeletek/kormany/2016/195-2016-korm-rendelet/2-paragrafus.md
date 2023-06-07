@@ -6,7 +6,7 @@
 
 a) a díj ellenében végzett személyszállítási szolgáltatások körét,
 
-b) a személyszállítási szolgáltatás igénybevételének feltételeit,
+b)[^7] a személyszállítási szolgáltatás igénybevételének feltételeit, beleértve a fogyatékossággal élő és csökkent mozgásképességű személy segítségnyújtásra irányuló igénye benyújtásának módját is,
 
 c) az utasok tájékoztatására vonatkozó szabályokat,
 
@@ -39,3 +39,5 @@ tekintetében a személyszállítási üzletszabályzatában e rendelet rendelke
 (5) A vasúti társaság az üzletszabályzatát a (4) bekezdés szerinti határidő lejártát követő 15 napon belül a vasúti igazgatási szervnek jóváhagyásra nyújtja be. A kérelemhez csatolja a személyszállítási üzletszabályzatra érkezett, el nem fogadott észrevételeket, valamint azok el nem fogadásának indokolását.
 
 (6) A vasúti társaság személyszállítási üzletszabályzatát – a vasúti igazgatási szerv jóváhagyásától számított 8 napon belül – hivatalos honlapján közzéteszi, valamint biztosítja, hogy azt a jegypénztárakban papíralapon az utas megtekinthesse.
+
+[^7]: A 2. § (2) bekezdés b) pontja a 223/2023. (VI. 6.) Korm. rendelet 20. § a) pontja szerint módosított szöveg.

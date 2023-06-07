@@ -1,6 +1,6 @@
 ## 8. A felek jogai és kötelezettségei
 
-8. § (1) A vasúti társaság az 1371/2007/EK európai parlamenti és tanácsi rendelet I. melléklet 6. cikk (1) bekezdésében meghatározottakon túl köteles az utast a személyszállítási üzletszabályzatban meghatározottak feltételek szerint a célállomásra szállítani.
+8. § (1)[^12] A vasúti társaság az EU rendelet I. melléklet 6. cikk (1) bekezdésében meghatározottakon túl köteles az utast a személyszállítási üzletszabályzatban meghatározottak feltételek szerint a célállomásra szállítani.
 
 (2) Az utas jogosult a járaton utazni, a kiszolgáló létesítményeket, berendezéseket használni, valamint a személyszállításhoz kapcsolódó szolgáltatásokat igénybe venni.
 
@@ -13,3 +13,11 @@
 (6) Az utas a személyszállítás – így különösen fel- és leszállás, várakozás, utazás – során tartózkodni köteles a közlekedés biztonságát, a közlekedési eszközök, az utaskiszolgáló létesítmények és berendezések épségét veszélyeztető, az utastársak kényelmét és nyugalmát zavaró magatartástól.
 
 (7) Az állomáson való tartózkodásra, a járművön való elhelyezkedésre és az utazás alatti magatartásra vonatkozó szabályokat a vasúti társaság az üzletszabályzatba foglalja, amelynek kivonatát – utazási feltételként – a járműben vagy az állomásokon jól látható helyen kifüggeszti.
+
+(8)[^13] A vasúti társaság üzletszabályzatában meghatározza a fogyatékossággal élő és csökkent mozgásképességű személy segítségnyújtásra irányuló igénye benyújtásának módját és a benyújtásra nyitva álló határidőt.
+
+(9)[^14] A (8) bekezdés szerinti határidő legfeljebb az utazás tervezett megkezdését megelőző 36 óra lehet.
+
+[^12]: A 8. § (1) bekezdése a 223/2023. (VI. 6.) Korm. rendelet 20. § d) pontja szerint módosított szöveg.
+[^13]: A 8. § (8) bekezdését a 223/2023. (VI. 6.) Korm. rendelet 15. §-a iktatta be.
+[^14]: A 8. § (9) bekezdését a 223/2023. (VI. 6.) Korm. rendelet 15. §-a iktatta be.
