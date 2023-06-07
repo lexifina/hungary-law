@@ -1,0 +1,9 @@
+# 223/2023. (VI. 6.) Korm. rendelet
+
+vasúti közlekedési tárgyú kormányrendeletek jogharmonizációs célú módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-223-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2023-06-07 | 2023-223-20-22.1 | 223/2023. (VI. 6.) Korm. rendelet |
