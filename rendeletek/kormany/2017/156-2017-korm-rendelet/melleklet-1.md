@@ -1,3 +1,3 @@
-1. melléklet a 156/2017. (VI. 16.) Korm. rendelethez[^66]
+1. melléklet a 156/2017. (VI. 16.) Korm. rendelethez[^67]
 
-[^66]: Az 1. melléklet a 360/2022. (IX. 19.) Korm. rendelet 31. § (1) bekezdésével megállapított szöveg.
+[^67]: Az 1. melléklet a 204/2023. (V. 31.) Korm. rendelet 2. §-ával megállapított szöveg.
