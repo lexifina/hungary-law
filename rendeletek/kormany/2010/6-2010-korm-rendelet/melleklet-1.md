@@ -1,8 +1,6 @@
-## 11. § Ez a rendelet – a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvénnyel együtt – a vasúti személyszállítást igénybe vevő utasok jogairól és kötelezettségeiről szóló, 2007. október 23-i 1371/2007/EK európai parlamenti és tanácsi rendelet 12. cikk (1) bekezdésének végrehajtásához szükséges rendelkezéseket állapítja meg.
+1. melléklet a 6/2010. (I. 21.) Korm. rendelethez[^24]
 
-1. melléklet a 6/2010. (I. 21.) Korm. rendelethez[^23]
-
-## Vasúti társaságokra irányadó fedezeti összeghatárok
+Vasúti társaságokra irányadó fedezeti összeghatárok
 
 1. Fedezeti összeghatárok számítása országos vasúti személyszállítási működési engedély esetében
 
@@ -74,4 +72,4 @@ stl = a tárgyévben tervezett utaslétszám.
 
 Egy károsult személyre (utasra) eső fedezeti összeghatár (szublimit): legalább egy kárból egy személy esetében összesen 1 millió forint.
 
-[^23]: Az 1. melléklet a 193/2016. (VII. 13.) Korm. rendelet 23. § a) pontjával megállapított, az 516/2017. (XII. 29.) Korm. rendelet 16. §-a szerint módosított szöveg.
+[^24]: Az 1. melléklet a 193/2016. (VII. 13.) Korm. rendelet 23. § a) pontjával megállapított, az 516/2017. (XII. 29.) Korm. rendelet 16. §-a szerint módosított szöveg.
