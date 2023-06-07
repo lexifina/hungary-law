@@ -1,6 +1,6 @@
-## Mentesség az EK rendelet egyes rendelkezéseinek alkalmazása alól
+## Mentesség az EU rendelet egyes rendelkezéseinek alkalmazása alól[^11]
 
-3. §[^8] (1) A belföldi és a jelentős részben az EGT-államok területén kívül megvalósuló vasúti személyszállításra az EK rendelet
+3. §[^12] (1) A belföldi és a jelentős részben az EGT-államok területén kívül megvalósuló vasúti személyszállításra az EK rendelet
 
 a) 10. cikk (1), (2) és (4) bekezdését,
 
@@ -22,4 +22,5 @@ nem kell alkalmazni.
 
 (3) Az (1)–(2) bekezdésben foglaltaktól eltérően, az EK rendelet rendelkezéseinek megfelelő szintű szolgáltatást biztosítani kell, ha a szolgáltatás nyújtásának műszaki feltételei az adott állomáson vagy megállóhelyen, illetve vonaton rendelkezésre állnak.
 
-[^8]: A 3. §-t a 24. § (4) bekezdés e) pontja hatályon kívül helyezi 2024. december 3. napjával.
+[^11]: A „Mentesség az EU rendelet egyes rendelkezéseinek alkalmazása alól” alcím címe a 223/2023. (VI. 6.) Korm. rendelet 10. § c) pontja szerint módosított szöveg.
+[^12]: A 3. §-t a 24. § (4) bekezdés e) pontja hatályon kívül helyezi 2024. december 3. napjával.

@@ -8,26 +8,29 @@
 
 (2) A 25. § 2013. január 1-jén lép hatályba.
 
-(3)[^48]
+(3)[^61]
 
-(4)[^49] E rendelet
+(4)[^62] E rendelet
 
 a) 24. § (3) bekezdése a rendelet hatálybalépését követő napon,
 
-b)[^50]
+b)[^63]
 
 c) 26. § (2) bekezdése 2010. december 3-án,
 
 d) 25. §-a 2013. január 2-án,
 
-e)[^51] 3. §-a, 4. § (1) bekezdése, valamint 22. §-a 2024. december 3-án,
+e)[^64] 1. § (1a) bekezdése, 3. §-a, valamint 22. §-a 2024. december 3-án,
 
-f)[^52] 24. § (4) bekezdése 2024. december 4-én
+f)[^65] 24. § (4) bekezdése 2024. december 4-én
+
+g)[^66] 9. § (3) bekezdése 2030. június 7-én
 
 hatályát veszti.
 
-[^48]: A 24. § (3) bekezdését a (4) bekezdés a) pontja hatályon kívül helyezte.
-[^49]: A 24. § (4) bekezdését ugyanezen bekezdés f) pontja hatályon kívül helyezi 2014. december 4. napjával.
-[^50]: A 24. § (4) bekezdés b) pontját a 328/2013. (IX. 3.) Korm. rendelet 17. § e) pontja hatályon kívül helyezte.
-[^51]: A 24. § (4) bekezdés e) pontja a 285/2019. (XI. 29.) Korm. rendelet 1. §-a szerint módosított szöveg.
-[^52]: A 24. § (4) bekezdés f) pontja a 285/2019. (XI. 29.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^61]: A 24. § (3) bekezdését a (4) bekezdés a) pontja hatályon kívül helyezte.
+[^62]: A 24. § (4) bekezdését ugyanezen bekezdés f) pontja hatályon kívül helyezi 2014. december 4. napjával.
+[^63]: A 24. § (4) bekezdés b) pontját a 328/2013. (IX. 3.) Korm. rendelet 17. § e) pontja hatályon kívül helyezte.
+[^64]: A 24. § (4) bekezdés e) pontja a 223/2023. (VI. 6.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^65]: A 24. § (4) bekezdés f) pontja a 285/2019. (XI. 29.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^66]: A 24. § (4) bekezdés g) pontját a 223/2023. (VI. 6.) Korm. rendelet 7. § (3) bekezdése iktatta be.

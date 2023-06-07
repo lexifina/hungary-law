@@ -1,14 +1,14 @@
 ## Előzetes kifizetés az utas halála vagy súlyos sérülése esetén
 
-4. § (1)[^9] Az EK rendelet 13. cikkének alkalmazása szempontjából
+4. § (1)[^14] Az EU rendelet 15. cikkének alkalmazása szempontjából
 
-a)[^10] az utas halála esetén a vasúti társaság által kifizetendő kártérítés és sérelemdíj mértéke a halál napján hivatalos, a Magyar Nemzeti Bank által meghatározott középárfolyam szerint számított forint összege,
+a)[^15] az utas halála esetén a vasúti társaság által kifizetendő kártérítés és sérelemdíj mértéke a halál napján hivatalos, a Magyar Nemzeti Bank által meghatározott középárfolyam szerint számított forint összege,
 
-b)[^11] halállal nem járó sérülés esetében a sérülés súlyosságára tekintettel a vasúti társaság által kifizetendő kártérítés és sérelemdíj összegét az üzletszabályzat tartalmazza. A végtagvesztéssel járó maradandó fogyatékosság esetében a kifizetés összege nem lehet kevesebb az (1) bekezdésben meghatározottnál.
+b)[^16] halállal nem járó sérülés esetében a sérülés súlyosságára tekintettel a vasúti társaság által kifizetendő kártérítés és sérelemdíj összegét az üzletszabályzat tartalmazza. A végtagvesztéssel járó maradandó fogyatékosság esetében a kifizetés összege nem lehet kevesebb az (1) bekezdésben meghatározottnál.
 
 (2) Az előzetes kifizetési kötelezettség teljesítése nem zárja ki és nem korlátozza az utas egyéb igényérvényesítését.
 
-(3) Az EK rendelet 13. cikkének alkalmazásában utasnak az a személy minősül, aki a haláleset vagy sérülés időpontjában
+(3)[^17] Az EU rendelet 15. cikkének alkalmazásában utasnak az a személy minősül, aki a haláleset vagy sérülés időpontjában
 
 a) az állomás utasforgalom számára nyitva álló területén utazási céllal tartózkodott,vagy
 
@@ -16,6 +16,7 @@ b) a vonaton tartózkodott és érvényes menetjeggyel, vagy utazási igazolván
 
 c) a vonaton tartózkodott, de a 11. § (7) bekezdésben foglaltak alapján nem rendelkezett érvényes menetjeggyel.
 
-[^9]: A 4. § (1) bekezdését a 24. § (4) bekezdés e) pontja hatályon kívül helyezi 2024. december 3. napjával.
-[^10]: A 4. § (1) bekezdés a) pontja az 53/2014. (III. 3.) Korm. rendelet 22. §-a szerint módosított szöveg.
-[^11]: A 4. § (1) bekezdés b) pontja az 53/2014. (III. 3.) Korm. rendelet 22. §-a szerint módosított szöveg.
+[^14]: A 4. § (1) bekezdés nyitó szövegrésze a 223/2023. (VI. 6.) Korm. rendelet 10. § d) pontja szerint módosított szöveg.
+[^15]: A 4. § (1) bekezdés a) pontja az 53/2014. (III. 3.) Korm. rendelet 22. §-a szerint módosított szöveg.
+[^16]: A 4. § (1) bekezdés b) pontja az 53/2014. (III. 3.) Korm. rendelet 22. §-a szerint módosított szöveg.
+[^17]: A 4. § (3) bekezdés nyitó szövegrésze a 223/2023. (VI. 6.) Korm. rendelet 10. § e) pontja szerint módosított szöveg.
