@@ -2,7 +2,7 @@
 
 ## A minősítő jel négyzetbe írt, nyomtatott, álló nagy H betű. A négyzet és a betű mérete arányos a jelzéssel ellátott pótalkatrész, illetőleg tartozék méretével, de a négyzet oldalhosszúsága 6 mm-nél kevesebb nem lehet. A minősítő jel mellett feltüntetendő a minősítő vizsgálatot végző intézmény megfelelőséget tanúsító vizsgálati jelentésének száma.
 
-5. számú melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^419]
+5. számú melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^420]
 
 A forgalomba helyezés előtti és az időszakos vizsgálat tárgyi feltételei, technológiája és ügyrendje
 
@@ -164,7 +164,7 @@ f) a 1.13. pont szerinti mélységmérőt.
 
 1.1.13. A 1. pontban felsorolt vizsgáló eszközök megváltozását a vizsgálati technológiában történő alkalmazásba vétele előtt – jóváhagyás végett – a közlekedési hatóságnak be kell jelenteni.
 
-1.1.14. A T1-T4 kategóriájú mezőgazdasági vontatóknak, lassú járműveknek, valamint e járművek által vontatható pótkocsiknak a 12. § (10) bekezdése alapján az üzemeltető kérelmére a közlekedési hatóság által kijelölt telephelyen végzett időszakos vizsgálata esetében az 1. pontban meghatározott eszközök közül
+1.1.14. A 40 km/h-nál nem nagyobb tervezési sebességű mezőgazdasági vontatóknak, lassú járműveknek, valamint e járművek által vontatható pótkocsiknak a közúti közlekedésre vonatkozó közigazgatási hatósági ügyekben alkalmazandó kiegészítő eljárási szabályokról szóló 511/2017. (XII. 29.) Korm. rendelet 5. § (6) bekezdése alapján az üzemeltető kérelmére a közlekedési hatóság által kijelölt telephelyen végzett időszakos vizsgálata esetében az 1. pontban meghatározott eszközök közül
 
 a) az 1.2. pontban meghatározott vizsgálóakna helyettesíthető sík, száraz, kemény burkolatú, a vizsgálat céljára lezárt útfelülettel, valamint a vizsgálat jármű tengelyeinek emelésére szolgáló emelővel és kerékmozgató kézi eszközzel,
 
@@ -172,9 +172,11 @@ b) az 1.3., illetve 1.4. pontban meghatározott görgős fékerőmérő berendez
 
 c) az 1.18. pont j) alpontjában meghatározott informatikai rendszerhez való csatlakozás feltételeit a közlekedési hatóság biztosítja,
 
-d) nem kell biztosítani az 1.6. pont szerinti mérő-adatgyűjtő, az 1.9–1.12., 1.14–1.17. pontban, az 1.18. pont f) és h) alpontjában meghatározott eszközöket.
+d) nem kell biztosítani az 1.6. pont szerinti mérő-adatgyűjtő, az 1.8–1.12., 1.14–1.17. pontban, az 1.18. pont f) és h) alpontjában meghatározott eszközöket.
 
 1.1.15. Bármely az 1.2–1.18. pontban meghatározott készülékek egy készülékké egyesíthetők, amennyiben ez nem befolyásolja az egyes készülékek mérési pontosságát.
+
+1.1.16. 40 km/h-nál nem nagyobb tervezési sebességű mezőgazdasági vontatók, lassú járművek, valamint e járművek által vontatható pótkocsik vizsgálatát a vizsgálóállomás – az 1.1.14. pontban meghatározott feltételek teljesítése esetén – az engedélyező közlekedési hatóság által jóváhagyott technológiával végezheti.
 
 1.2. Megfelelő méretű vizsgálati sáv az egyes vizsgálatokhoz és vizsgálóakna, amely megfelelő megvilágítással és szükség esetén szellőztető berendezéssel rendelkezik:
 
@@ -254,7 +256,7 @@ Fordulatszámmérő a kipufogógáz szennyezőanyag tartalmának méréséhez, a
 
 A gumiabroncsok futófelületének gumiabroncs-bordázat mélységének vizsgálatához szükséges kivitelben.
 
-1.14. Az elektronikus jármű-interfészhez csatlakoztatható olyan OBD-kiolvasó eszköz, amely alkalmas az (EU) 2021/392 bizottsági végrehajtási rendelet 10. cikk (1) bekezdésében meghatározottak szerinti adatgyűjtésre.
+1.14. Az elektronikus jármű-interfészhez csatlakoztatható OBD kiolvasó eszköz. Amennyiben az OBD kiolvasó eszköz nem alkalmas a személygépkocsik és a könnyű haszongépjárművek szén-dioxid-kibocsátásával kapcsolatos adatok (EU) 2019/631 európai parlamenti és tanácsi rendelet szerinti nyomon követéséről és bejelentéséről, valamint az 1014/2010/EU, a 293/2012/EU, az (EU) 2017/1152 és az (EU) 2017/1153 bizottsági végrehajtási rendelet hatályon kívül helyezéséről szóló, 2021. március 4-i (EU) 2021/392 bizottsági végrehajtási rendelet által meghatározott adatok kiolvasására, a vizsgálóállomás a 2021. január 1-jét követően forgalomba helyezett, az (EU) 2021/392 bizottsági végrehajtási rendelet hatálya alá tartozó járművek vizsgálatát nem végezheti.
 
 1.15. A cseppfolyós gáz, sűrített földgáz és cseppfolyós földgáz szivárgását ellenőrző kézi gázszivárgás-ellenőrző készülék, amennyiben ilyen üzemű járművet vizsgálnak.
 
@@ -286,7 +288,7 @@ i) erőmérő (kormányzási erőmérő), azokon a vizsgáló állomásokon, aho
 
 j) a közlekedési hatóság informatikai rendszeréhez való csatlakozáshoz szükséges informatikai eszközök,
 
-k) fékfolyadék-forráspont ellenőrző,
+k) a DOT 3, DOT 4, DOT 4 Plus és DOT 5.1. fékfolyadék pontos forráspontját °C-ban, ±5% pontossággal meghatározni képes fékfolyadék-forráspont ellenőrző,
 
 l) a hibrid és elektromos jármű villamos biztonságának vizsgálatára alkalmas készülék.
 
@@ -448,4 +450,4 @@ c) Veszélyes hiba: a közúti biztonságra közvetlen és azonnali veszélyt je
 
 5.2. A vizsgálatok tartalmára és módszereire, a járművek hiányosságának értékelésére vonatkozó táblázat
 
-[^419]: Az 5. számú mellékletet a 14/1999. (IV. 28.) KHVM rendelet 3. §-a iktatta be, szövege a 2/2018. (II. 5.) NFM rendelet 10. § (1) bekezdésével megállapított, a 28/2018. (XI. 15.) ITM rendelet 7. § (1) bekezdése, 8. § j) pontja, 9. § b) pontja, a 29/2020. (VII. 17.) ITM rendelet 3. § (1) bekezdése és 4. § b)–c) pontja, a 42/2021. (IX. 8.) ITM rendelet 4. § d) pontja, az 1/2023. (I. 19.) ÉKM rendelet 3. § (1) bekezdése, a 6/2023. (IV. 5.) ÉKM rendelet 3. §-a szerint módosított szöveg.
+[^420]: Az 5. számú mellékletet a 14/1999. (IV. 28.) KHVM rendelet 3. §-a iktatta be, szövege a 2/2018. (II. 5.) NFM rendelet 10. § (1) bekezdésével megállapított, a 28/2018. (XI. 15.) ITM rendelet 7. § (1) bekezdése, 8. § j) pontja, 9. § b) pontja, a 29/2020. (VII. 17.) ITM rendelet 3. § (1) bekezdése és 4. § b)–c) pontja, a 42/2021. (IX. 8.) ITM rendelet 4. § d) pontja, az 1/2023. (I. 19.) ÉKM rendelet 3. § (1) bekezdése, a 6/2023. (IV. 5.) ÉKM rendelet 3. §-a, a 10/2023. (VI. 2.) ÉKM rendelet 2. §-a szerint módosított szöveg.

@@ -1,6 +1,6 @@
 ## Részecske kibocsátást csökkentő rendszer utólagos beépítése
 
-16/A. §[^253] (1) A részecske kibocsátást csökkentő rendszer utólagos beépítésére jogosító alkalmazási engedélyt a közlekedési hatóság kérelemre adja ki. A kérelemhez csatolni kell
+16/A. §[^254] (1) A részecske kibocsátást csökkentő rendszer utólagos beépítésére jogosító alkalmazási engedélyt a közlekedési hatóság kérelemre adja ki. A kérelemhez csatolni kell
 
 a) az Európai Gazdasági Térségről szóló Megállapodásban részes államban kiadott, a részecske kibocsátást csökkentő rendszerre vonatkozó jóváhagyást, vagy típusvizsgáló által két évnél nem régebben kiállított olyan szakvéleményt, amely igazolja, hogy a részecske kibocsátást csökkentő rendszer megfelel az MR.-ben foglaltaknak, továbbá
 
@@ -12,4 +12,4 @@ b) a részecske kibocsátást csökkentő rendszer beépítését végző gépj�
 
 (4) A részecskeszűrő utólagos beépítése esetén az időszakos vizsgálatról kiadott Műszaki adatlapon fel kell tüntetni a részecskeszűrű beépítésére és a részecske osztályra (PMO) utaló záradékot.
 
-[^253]: A 16/A. §-t és az azt megelőző alcímet a 22/2012. (V. 8.) NFM rendelet 8. §-a iktatta be.
+[^254]: A 16/A. §-t és az azt megelőző alcímet a 22/2012. (V. 8.) NFM rendelet 8. §-a iktatta be.
