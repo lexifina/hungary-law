@@ -1,0 +1,1 @@
+6. § Ez a rendelet az Ukrajnából származó egyes termékekre vonatkozó megelőző intézkedések bevezetéséről szóló (EU) 2023/1100 bizottsági végrehajtási rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
