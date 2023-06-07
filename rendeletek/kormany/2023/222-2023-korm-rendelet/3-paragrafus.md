@@ -1,0 +1,1 @@
+3. § A KR 1/A. § (1) bekezdésében a „KTI Közlekedéstudományi Intézet Nonprofit Korlátolt Felelősségű Társaság” szövegrész helyébe a „KTI Magyar Közlekedéstudományi és Logisztikai Intézet Nonprofit Korlátolt Felelősségű Társaság” szöveg lép.
