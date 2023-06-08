@@ -1,7 +1,3 @@
-3. § Az R.
+3. §[^4]
 
-a) 3. § (1) bekezdésében a „termékekre vonatkozóan” szövegrész helyébe a „termékekre (vetőmag kivételével) vonatkozóan” szöveg,
-
-b) 5. § (2) bekezdésében a „július 1-jén” szövegrész helyébe a „szeptember 16-án” szöveg
-
-lép.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
