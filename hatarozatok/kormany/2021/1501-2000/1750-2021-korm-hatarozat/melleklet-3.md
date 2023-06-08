@@ -1,4 +1,4 @@
-3. melléklet az 1750/2021. (X. 27.) Korm. határozathoz
+3. melléklet az 1750/2021. (X. 27.) Korm. határozathoz[^6]
 
 Felújítással érintett schengeni határátkelőhelyek
 
@@ -50,16 +50,4 @@ Felújítással érintett schengeni határátkelőhelyek
 
 | 23. | magyar–szerb | Hercegszántó | 51. sz. főút | Hercegszántó 03 |
 
-| 24. | magyar–horvát | Udvar | 56. sz. főút | Udvar 57, 105 |
-
-| 25. | magyar–horvát | Beremend | 5708. j. út | Beremend 0174, 0175, 0176, 0193, 0194/3, 0194/2, 0194/4, 0194/7, 0195, 0196 |
-
-| 26. | magyar–horvát | Drávaszabolcs | 58. sz. főút | Drávaszabolcs 0114/3, 0114/2, 0114/1, 0105/4 |
-
-| 27. | magyar–horvát | Barcs | 6. sz. főút | Barcs 2726/5 |
-
-| 28. | magyar–horvát | Berzence | 6815. j. út | Berzence 0216, 0215/4 |
-
-| 29. | magyar–horvát | Letenye | M7 gyorsforgalmi út | Letenye 0196/5 |
-
-| 30. | magyar–horvát | Letenye | 7. sz. főút | Letenye 0212, 0214, 0263, 0264/33, 0215/2, 0215/1 |
+[^6]: A 3. melléklet az 1223/2023. (VI. 8.) Korm. határozat 3. pont b) pontjával megállapított szöveg.
