@@ -1,7 +1,3 @@
-1. melléklet a 204/2023. (V. 31.) Korm. rendelethez
+1. melléklet a 204/2023. (V. 31.) Korm. rendelethez[^4]
 
-„1. melléklet a 156/2017. (VI. 16.) Korm. rendelethez
-
-3X03509.PDF
-
-”
+[^4]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
