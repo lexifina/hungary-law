@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-29-20-2
 | 2020-06-30 | 2017-29-20-2W.4 | 22/2020. (VI. 29.) ITM rendelet |
 | 2022-08-05 | 2017-29-20-2W.5 | 18/2022. (VIII. 4.) IM rendelet |
 | 2023-01-01 | 2017-29-20-2W.6 | 22/2020. (VI. 29.) ITM rendelet |
+| 2023-06-08 | 2017-29-20-2W.7 | 4/2023. (V. 31.) IM rendelet |
