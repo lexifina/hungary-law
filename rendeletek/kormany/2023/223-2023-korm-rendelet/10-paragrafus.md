@@ -1,33 +1,46 @@
 10. § Az R1.
 
-a) 2. § f) pontjában az „EK rendelet” szövegrész helyébe az „EU rendelet” szöveg,
+a)[^12]
 
-b) 2. § g) pontjában az „EK rendelet” szövegrész helyébe az „EU rendelet” szöveg,
+b)[^13]
 
-c) „Mentesség az EK rendelet egyes rendelkezéseinek alkalmazása alól” alcím címében az „EK rendelet” szövegrész helyébe az „EU rendelet” szöveg,
+c)[^14]
 
-d) 4. § (1) bekezdés nyitó szövegrészében az „EK rendelet 13. cikkének” szövegrész helyébe az „EU rendelet 15. cikkének” szöveg,
+d)[^15]
 
-e) 4. § (3) bekezdés nyitó szövegrészében az „EK rendelet 13. cikkének” szövegrész helyébe az „EU rendelet 15. cikkének” szöveg,
+e)[^16]
 
-f) 11. § (1) bekezdés nyitó szövegrészében az „EK rendelet” szövegrész helyébe az „EU rendelet” szöveg,
+f)[^17]
 
-g) 12. § (1) bekezdésében az „EK rendelet” szövegrész helyébe az „EU rendelet” szöveg,
+g)[^18]
 
-h) 12. § (3) bekezdésében a „fogyatékkal” szövegrész helyébe a „fogyatékossággal” szöveg és az „EK rendelet 3. cikk 15. pont” szövegrész helyébe az „EU rendelet 3. cikk 21. pont” szöveg,
+h)[^19]
 
-i) 13. § (1) bekezdésében az „EK rendelet 6. cikk (1) bekezdésében” szövegrész helyébe az „EU rendelet 7. cikk (1) bekezdésében” szöveg,
+i)[^20]
 
-j)[^3]
+j)[^21]
 
-k) 14. §-ában az „EK rendelet” szövegrész helyébe az „EU rendelet” szöveg,
+k)[^22]
 
-l) 16/A. §-ában az „EK rendelet” szövegrészek helyébe az „EU rendelet” szöveg,
+l)[^23]
 
-m) 19. § (2) bekezdésében a „fogyatékkal” szövegrész helyébe a „fogyatékossággal” szöveg,
+m)[^24]
 
-n) 23/A. §-ában az „EK rendelet 18. cikke” szövegrész helyébe az „EU rendelet 20. cikke” szöveg
+n)[^25]
 
 lép.
 
-[^3]: A 10. § j) pontja a 25. § (3) bekezdés alapján 2026. július 1-jén lép hatályba.
+[^12]: A 10. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 10. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 10. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 10. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 10. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 10. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 10. § g) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 10. § h) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 10. § i) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 10. § j) pontja a 25. § (3) bekezdés alapján 2026. július 1-jén lép hatályba.
+[^22]: A 10. § k) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 10. § l) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 10. § m) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 10. § n) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

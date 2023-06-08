@@ -1,3 +1,3 @@
-22. § Az R3. a következő 8. §-sal egészül ki:
+22. §[^41]
 
-„8. § E rendeletnek a vasúti közlekedési tárgyú kormányrendeletek jogharmonizációs célú módosításáról szóló 223/2023. (VI. 6.) Korm. rendelettel megállapított 3. § (4) bekezdését a folyamatban lévő ügyekben is alkalmazni kell.”
+[^41]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

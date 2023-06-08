@@ -1,15 +1,9 @@
-7. § (1)[^2]
+7. § (1)[^7]
 
-(2) Az R1. 24. § (4) bekezdés e) pontja helyébe a következő rendelkezés lép:
+(2)[^8]
 
-(E rendelet)
+(3)[^9]
 
-## „e) 1. § (1a) bekezdése, 3. §-a, valamint 22. §-a 2024. december 3-án,”
-
-## (hatályát veszti.)
-
-(3) Az R1. 24. § (4) bekezdése a következő g) ponttal egészül ki:
-
-(E rendelet)
-
-[^2]: A 7. § (1) bekezdése a 25. § (2) bekezdés alapján 2024. december 4-én lép hatályba.
+[^7]: A 7. § (1) bekezdése a 25. § (2) bekezdés alapján 2024. december 4-én lép hatályba.
+[^8]: A 7. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 7. § (3) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,15 +1,19 @@
 20. § Az R2.
 
-a) 2. § (2) bekezdés b) pontjában a „feltételeit,” szövegrész helyébe a „feltételeit, beleértve a fogyatékossággal élő és csökkent mozgásképességű személy segítségnyújtásra irányuló igénye benyújtásának módját is,” szöveg,
+a)[^35]
 
-b) 6. § (1) bekezdés nyitó szövegrészében az „1371/2007/EK európai parlamenti és tanácsi rendelet” szövegrész helyébe az „EU rendelet” szöveg,
+b)[^36]
 
-c) 6. § (5) bekezdésében az „1371/2007/EK európai parlamenti és tanácsi rendelet” szövegrész helyébe az „EU rendelet” szöveg,
+c)[^37]
 
-d) 8. § (1) bekezdésében az „1371/2007/EK európai parlamenti és tanácsi rendelet” szövegrész helyébe az „EU rendelet” szöveg,
+d)[^38]
 
-e)[^4]
+e)[^39]
 
 lép.
 
-[^4]: A 20. § e) pontja a 25. § (3) bekezdés alapján 2026. július 1-jén lép hatályba.
+[^35]: A 20. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^36]: A 20. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^37]: A 20. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^38]: A 20. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^39]: A 20. § e) pontja a 25. § (3) bekezdés alapján 2026. július 1-jén lép hatályba.

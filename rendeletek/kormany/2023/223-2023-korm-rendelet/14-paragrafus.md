@@ -1,3 +1,3 @@
-14. § Az R2. 7. §-a a következő (3) bekezdéssel egészül ki:
+14. §[^29]
 
-„(3) Az e rendeletben meghatározott személyszállítás esetén, ha a pályahálózat-működtető a műszaki, technológiai feltételek hiánya miatt nem képes a valós idejű adatszolgáltatásra az utasok tájékoztatása érdekében, akkor az EU rendelet 10. cikk (1) bekezdését nem kell alkalmazni.”
+[^29]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

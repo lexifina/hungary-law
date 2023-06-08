@@ -1,3 +1,3 @@
-19. § Az R2. 17. §-a helyébe a következő rendelkezés lép:
+19. §[^34]
 
-„17. § Ez a rendelet a vasúti személyszállítást igénybe vevő utasok jogairól és kötelezettségeiről szóló, 2021. április 29-i (EU) 2021/782 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.”
+[^34]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-16. § Az R2. 11. §-a a következő (3) bekezdéssel egészül ki:
+16. §[^31]
 
-„(3) A vasúti társaság az EU rendelet 6. cikk (5) bekezdése szerinti kerékpárszállítási tervet készít, amelyet megküld a vasúti igazgatási szervnek.”
+[^31]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
