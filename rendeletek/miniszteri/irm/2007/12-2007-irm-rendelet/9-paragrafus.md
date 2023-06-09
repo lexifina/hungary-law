@@ -20,7 +20,11 @@ h)[^34] a külön jogszabályban előírt hosszúsági vagy szélességi mérete
 
 i)[^35] a mezőgazdasági vontatóból vagy lassú járműből és mezőgazdasági vontatmányból álló járműszerelvényre, ha az a külön jogszabályban előírt hosszúsági vagy szélességi méretet meghaladja.
 
-j)[^36] a polgárőri szolgálat ellátása során használt járműre,
+j)[^36] a polgárőri szolgálat
+
+ja) ellátására rendszeresített, a polgárőr szervezet üzemeltetésében, tulajdonában lévő járműre, valamint
+
+jb) ellátása során használt járműre,
 
 k)[^37] a polgári frekvenciagazdálkodó hatóság rádióellenőrzési, rádiófelderítési, rádiómegfigyelési, zavarvizsgálati és mérőszolgálati tevékenység ellátására rendszeresített járművére,
 
@@ -36,13 +40,15 @@ p)[^42] a személy- és vagyonvédelmi tevékenységet folytató vállalkozás v
 
 q)[^43] a Közbeszerzési és Ellátási Főigazgatóság kormányzati logisztikai feladatokat ellátó gépjárműveire.
 
-(2)[^44] Az (1) bekezdés e), f), h)–j) és p) pontja esetében csak mozgatható üzemmódú (mobil) figyelmeztető jelzést adó készüléket szabad használni, amelyet az adott feladat végrehajtásához szükséges időtartamra lehet a járműre felszerelni.
+r)[^44] a Nemzeti Szakértői és Kutató Központ szakértői tevékenységének ellátása során használt gépjárműveire.
+
+(2)[^45] az (1) bekezdés e), f), h) pontja, j) pont jb) alpontja, p) és r) pontja esetében csak mozgatható üzemmódú (mobil) figyelmeztető jelzést adó készüléket lehet használni, amelyet az adott feladat végrehajtásához szükséges időtartamra lehet a járműre felszerelni.
 
 [^32]: A 9. § (1) bekezdés b) pontja a 4/2010. (II. 23.) IRM rendelet 17. § (1) bekezdésével megállapított szöveg.
 [^33]: A 9. § (1) bekezdés g) pontját a 4/2010. (II. 23.) IRM rendelet 17. § (2) bekezdése iktatta be.
 [^34]: A 9. § (1) bekezdés h) pontját a 22/2011. (VII. 19.) BM rendelet 2. §-a iktatta be.
 [^35]: A 9. § (1) bekezdés i) pontját a 22/2011. (VII. 19.) BM rendelet 2. §-a iktatta be.
-[^36]: A 9. § (1) bekezdés j) pontját a 62/2011. (XII. 29.) BM rendelet 72. § (5) bekezdése iktatta be.
+[^36]: A 9. § (1) bekezdés j) pontját a 62/2011. (XII. 29.) BM rendelet 72. § (5) bekezdése iktatta be, szövege a 13/2023. (V. 25.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^37]: A 9. § (1) bekezdés k) pontját az 1/2013. (I. 25.) BM rendelet 3. §-a iktatta be.
 [^38]: A 9. § (1) bekezdés l) pontját a 63/2013. (XI. 28.) BM rendelet 18. §-a iktatta be, szövege a 16/2019. (V. 3.) BM rendelet 8. §-a szerint módosított szöveg.
 [^39]: A 9. § (1) bekezdés m) pontját a 2/2016. (I. 13.) BM rendelet 1. §-a iktatta be.
@@ -50,4 +56,5 @@ q)[^43] a Közbeszerzési és Ellátási Főigazgatóság kormányzati logisztik
 [^41]: A 9. § (1) bekezdés o) pontját a 27/2018. (X. 4.) BM rendelet 3. §-a iktatta be.
 [^42]: A 9. § (1) bekezdés p) pontját a 16/2019. (V. 3.) BM rendelet 4. §-a iktatta be.
 [^43]: A 9. § (1) bekezdés q) pontját a 16/2019. (V. 3.) BM rendelet 4. §-a iktatta be.
-[^44]: A 9. § (2) bekezdése a 16/2019. (V. 3.) BM rendelet 5. §-ával megállapított szöveg.
+[^44]: A 9. § (1) bekezdés r) pontját a 13/2023. (V. 25.) BM rendelet 2. § (2) bekezdése iktatta be.
+[^45]: A 9. § (2) bekezdése a 13/2023. (V. 25.) BM rendelet 2. § (3) bekezdésével megállapított szöveg.

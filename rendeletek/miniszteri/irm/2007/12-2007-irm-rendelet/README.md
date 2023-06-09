@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-12-20-1
 | 2021-08-01 | 2007-12-20-1U.22 | 23/2021. (VII. 29.) BM rendelet |
 | 2023-01-01 | 2007-12-20-1U.23 | 2/2015. (II. 3.) BM rendelet |
 | 2023-02-02 | 2007-12-20-1U.24 | 62/2011. (XII. 29.) BM rendelet |
+| 2023-06-09 | 2007-12-20-1U.25 | 13/2023. (V. 25.) BM rendelet |
