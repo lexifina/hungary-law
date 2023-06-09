@@ -6,7 +6,7 @@ a) védelmi és biztonsági alapismereti tanfolyam,
 
 b) védelmi és biztonsági céltanfolyam vagy
 
-c) védelmi és biztonsági igazgatási szakértő szakmai képzés
+c)[^1] védelmi és biztonsági igazgatási szakirányú továbbképzés
 
 útján teljesítendő.
 
@@ -20,9 +20,9 @@ c) a Vbö. 49. § (1) bekezdésében meghatározott szerv védelmi és biztonsá
 
 d) a védelmi és biztonsági tevékenységre való települési szintű felkészülés keretében kijelölt referens,
 
-e) az önkéntes jelentkezés alapján részt vevő személy.
+e)[^2] önkéntes jelentkezés alapján a kormányzati szolgálati jogviszonyban álló személy.
 
-(4) A (3) bekezdés a)–d) pontja szerinti állomány számára a védelmi és biztonsági igazgatási képzés teljesítése a munkakör betöltéséhez szükséges követelményként előírható.
+(4)[^3]
 
 (5) A (3) bekezdés szerinti személyi állomány védelmi és biztonsági igazgatási képzésével kapcsolatos követelmény meghatározása körében a védelmi és biztonsági igazgatás központi szerve meghatározza és hivatalos elérhetőségén közzéteszi a (2) bekezdés a) pontjában meghatározott képzés
 
@@ -38,6 +38,11 @@ e) számonkérési módozatának főbb elemeit, valamint
 
 f) tartalmi felülvizsgálatára és a továbbképzési céllal való megismétlésére vonatkozó követelményeket.
 
-(6) A védelmi és biztonsági igazgatási feladatok végrehajtására kötelezett személy képzésen, felkészítésen való részvételét a foglalkoztató szerv vezetője – a védelmi és biztonsági igazgatás központi szervével egyeztetve – tervezi és biztosítja.
+(6)[^4] A (3) bekezdés a)–d) pontja szerinti, a védelmi és biztonsági igazgatási feladatok végrehajtására kijelölt személy képzésen, felkészítésen való részvételét a foglalkoztató szerv vezetője a védelmi és biztonsági igazgatás központi szervével egyeztetve tervezi és biztosítja.
 
 (7) A védelmi és biztonsági igazgatási képzés szakmai ellenőrzésére a védelmi és biztonsági igazgatás központi szerve jogosult.
+
+[^1]: Az 1. § (2) bekezdés c) pontja a 231/2023. (VI. 8.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^2]: Az 1. § (3) bekezdés e) pontja a 231/2023. (VI. 8.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (4) bekezdését a 231/2023. (VI. 8.) Korm. rendelet 4. §-a hatályon kívül helyezte.
+[^4]: Az 1. § (6) bekezdése a 231/2023. (VI. 8.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
