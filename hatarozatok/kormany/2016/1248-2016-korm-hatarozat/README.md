@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1248-30
 | 2022-02-16 | 2016-1248-30-22.15 | 1476/2016. (VIII. 31.) Korm. határozat |
 | 2022-09-30 | 2016-1248-30-22.16 | 1476/2016. (VIII. 31.) Korm. határozat |
 | 2022-12-23 | 2016-1248-30-22.17 | 1476/2016. (VIII. 31.) Korm. határozat |
+| 2023-06-09 | 2016-1248-30-22.18 | 1476/2016. (VIII. 31.) Korm. határozat |
