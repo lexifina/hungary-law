@@ -1,5 +1,11 @@
 9. § (1) A felszámoló a 8. § (11) bekezdése szerinti jegyzőkönyv Cégközlönyben történő közzétételétől számított 2 napon belül intézkedik aziránt, hogy a Cégközlönyben történő közzététel útján kézbesítsék az ajánlattételi felhívást azoknak, akik megfeleltek a részvételi feltételeknek, és a közzététel napján rövid úton értesíti a címzetteket a közzétételről. A felszámoló az ajánlattételi felhívást megküldi a bíróságnak. A bíróság haladéktalanul intézkedik az ajánlattételi felhívás Cégközlönyben történő közzétételéről. A Cégközlönyben történő közzétételre a Cégközlöny honlapján napi feltöltéssel kerül sor. Amennyiben az adós gazdasági tevékenységének folytatására alapított gazdasági társaság még nem került a cégjegyzékbe bejegyzésre, az e bekezdés szerinti határidőt a bejegyzés napjától kell számítani.
 
+(1a)[^1] A felszámoló az ajánlattételi felhívás kézbesítésére nyitva álló határidő leteltéig megszünteti az értékesítési eljárást, ha az értékesítési eljárás valószínűsíthetően nem lesz eredményes.
+
+(1b)[^2] A felszámoló az értékesítési eljárás megszüntetésének napján intézkedik aziránt, hogy az eljárás megszüntetéséről hozott döntést a Cégközlönyben történő közzététel útján kézbesítsék azoknak, akik jelentkeztek a részvételi felhívásra, és ennek érdekében a felszámoló a döntést megküldi a bíróságnak. A bíróság haladéktalanul intézkedik a döntés Cégközlönyben történő közzétételéről. A Cégközlönyben történő közzétételre a Cégközlöny honlapján napi feltöltéssel kerül sor.
+
+(1c)[^3] A felszámoló az (1a) bekezdés szerinti döntés Cégközlönyben történő közzétételét követő 5 napon belül intézkedik a részvételi biztosíték összegének visszautalása iránt a részvételi jelentkezők részére.
+
 (2) A felszámoló intézkedik aziránt, hogy az ajánlattételi felhívással együtt közzétegyék az adós gazdasági tevékenységének folytatására alapított gazdasági társaságban fennálló részesedés átruházására vonatkozó szerződés tervezetét, valamint az arra vonatkozó tájékoztatást, hogy melyek azok a lényeges szerződési feltételek a tervezetben, amelyektől a felszámoló és a nyertes ajánlattevő által kötött szerződésben nem lehet eltérni.
 
 (3) Az ajánlati felhívásban meg kell határozni
@@ -45,3 +51,7 @@ h) a bizonyított környezeti terhet, tartós környezeti kár mértékét.
 (15) Amennyiben az ajánlattételi felhívásban meghatározott határidőn túl, vagy nem az abban meghatározott módon nyújtanak be ajánlatot, a felszámoló az ajánlat beérkezését követő 3 napon belül írásban tájékoztatja erről az ajánlattevőt, és egyidejűleg a benyújtott iratokat visszaküldi neki.
 
 (16) A Cstv. 51. §-át azzal az eltéréssel kell alkalmazni, hogy a felszámoló értékesítési eljárással kapcsolatos jogszabálysértő intézkedése vagy mulasztása kizárólag a nyertes ajánlattevő személyének vagy az eljárás eredménytelenségéről szóló tájékoztatásnak a Cégközlönyben történő közzétételétől számított 8 napon belül előterjesztett kifogásban támadható, amelyről a bíróság 5 napon belül határoz. A kifogást elbíráló végzés elleni fellebbezés határideje 3 nap. A fellebbezést az iratok másodfokú bírósághoz érkezését követő 5 napon belül kell elbírálni. A kifogást elbíráló végzés ellen felülvizsgálatnak nincs helye.
+
+[^1]: A 9. § (1a) bekezdését a 232/2023. (VI. 8.) Korm. rendelet 1. §-a iktatta be.
+[^2]: A 9. § (1b) bekezdését a 232/2023. (VI. 8.) Korm. rendelet 1. §-a iktatta be.
+[^3]: A 9. § (1c) bekezdését a 232/2023. (VI. 8.) Korm. rendelet 1. §-a iktatta be.
