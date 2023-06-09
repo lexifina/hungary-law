@@ -1,6 +1,4 @@
-## 12. §[^31] E rendeletnek az egyes kiemelt beruházásokhoz kapcsolódó kormányrendeletek módosításáról szóló 792/2021. (XII. 27.) Korm. rendelettel (a továbbiakban: Módr4.) megállapított 5/B. § (3) és (4) bekezdését, valamint 1. mellékletét a Módr4. hatálybalépésekor[^32] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
-
-1. melléklet a 210/2016. (VII. 21.) Korm. rendelethez[^33]
+1. melléklet a 210/2016. (VII. 21.) Korm. rendelethez[^42]
 
 1. A Budai Palotanegyed fenntartható fejlesztését, valamint tervszerű és egységes szemléletű helyreállítását szolgáló, kiemelten közérdekű beruházások felsorolása
 
@@ -26,7 +24,7 @@
 
 | 10. | A Csikós udvar és a Hunyadi udvar között feljáró rámpa újraépítése | Budapest I. kerület, belterület 6452/4 helyrajzi számú ingatlan | Budapest I. kerület, 7124/2 helyrajzi számú ingatlan | 2020. 10. 21. – 2023. 06. 03. |
 
-| 11. | Várgarázs I. (projektszámozás szerint 2.) befejezése, középkori támfal stabilizálása | Budapest I. kerület, belterület 6452/4, 6452/5 és 6452/6 helyrajzi számú ingatlan | Budapest I. kerület, 7124/2 helyrajzi számú ingatlan | 2021. 01. 31. – 2023. 07. 31. |
+| 11. | Várgarázs I. (projektszámozás szerint 2.) befejezése, középkori támfal stabilizálása | Budapest I. kerület, belterület 6452/4, 6452/5 és 6452/6 helyrajzi számú ingatlan | Budapest I. kerület, 7124/2 helyrajzi számú ingatlan | 2021. 01. 31. – 2023. 12. 31. |
 
 | 12. | A Nyugati kert (Csikós udvar) alatti mélygarázs közvetlen közelében további mélygarázs (Várgarázs II.) kialakítása, Fehérvári rondella és Nyugati kert rekonstrukció | Budapest I. kerület, belterület 6452/4, 6452/5 és 6452/6 helyrajzi számú ingatlan | Budapest I. kerület, 7124/2 helyrajzi számú ingatlan | 2021. 03. 26. – 2025. 11. 03. |
 
@@ -36,11 +34,11 @@
 
 | 15. | Erzsébet pergola rekonstrukciója | Budapest I. kerület, belterület 6452/3 és 6452/4 helyrajzi számú ingatlan | - | 2020. 10. 21. – 2024. 05. 01. |
 
-| 16. | Budavári Palota teljes műszaki felmérése, a használathoz szükséges sürgős beruházások előkészítése és kivitelezése, OSZK gyorslift fejlesztése | Budapest I. kerület, belterület 6452/4 helyrajzi számú ingatlan | Budapest I. kerület, belterület 6351 helyrajzi számú ingatlan | 2020. 10. 21. – 2023. 12. 31. |
+| 16. | Budavári Palota teljes műszaki felmérése, a használathoz szükséges sürgős beruházások előkészítése és kivitelezése, OSZK gyorslift fejlesztése | Budapest I. kerület, belterület 6452/4 helyrajzi számú ingatlan | Budapest I. kerület, belterület 6351 helyrajzi számú ingatlan | 2020. 10. 21. – 2025. 12. 31. |
 
 | 17. | A Budai Palota „A” „B”, „C”, „D”, „E” és „F” épület külső rekonstrukciója, illetve belső tereinek műemléki rekonstrukciója | Budapest I. kerület, belterület 6452/4 helyrajzi számú ingatlan | Budapest I. kerület, belterület 6351 helyrajzi számú ingatlan | 2024. 12. 01. – 2030. 12. 31. |
 
-| 18. | A Budai Palotanegyed közműveinek felmérése, terveztetése és kiváltása | Budapest I. kerület, belterület 6452/2, 6452/3, 6452/4, 6452/5, 6452/6, 6456/1, 6461, 6462, 6464 és 6516 helyrajzi számú ingatlan | Budapest I. kerület, belterület 6351, 6457, 6459, 6514, 7124/2, 7139, 7140 és 14363/1 helyrajzi számú ingatlan | 2020. 10. 21. – 2023. 09. 30. |
+| 18. | A Budai Palotanegyed közműveinek felmérése, terveztetése és kiváltása | Budapest I. kerület, belterület 6452/2, 6452/3, 6452/4, 6452/5, 6452/6, 6456/1, 6461, 6462, 6464 és 6516 helyrajzi számú ingatlan | Budapest I. kerület, belterület 6351, 6457, 6459, 6514, 7124/2, 7139, 7140 és 14363/1 helyrajzi számú ingatlan | 2020. 10. 21. – 2026. 12. 31. |
 
 | 19. | Hidegenergia központ fejlesztése II. ütem: a Budavári Palotanegyed hűtővíz ellátó rendszerének rekonstrukciója | Budapest I. kerület, belterület 6452/4, 6452/5, 6452/6, 6456/1, 6462, 6464 és 6516 helyrajzi számú ingatlan | Budapest I. kerület, belterület 6457, 6459, 6461 és 14363/1 helyrajzi számú ingatlan | 2020. 10. 21. – 2022. 05. 15. |
 
@@ -48,7 +46,7 @@
 
 | 21. | A Budai Palotanegyed várkertjeinek, közterületeinek felmérése, tervezése, kivitelezése, üzemeltetésre felkészítése | Budapest I. kerület, belterület 6331, 6452/2, 6452/3, 6452/4, 6452/5, 6452/6, 6456/1, 6461, 6464, 14358, 14359, 14360, 14361, 14362, 14363/1, 14369, 14371/1 és 14371/2 helyrajzi számú ingatlan | Budapest I. kerület, belterület 6335, 7124/2, 14339/3, 14363/2 és 14365 helyrajzi számú ingatlan | 2020. 10. 21. – 2026. 05. 31. |
 
-| 22. | Turisztikai célú területrendezés és infrastruktúra elemek kialakítása több helyszínen | Budapest I. kerület, belterület 6330, 6331, 6452/2, 6452/3, 6452/4, 6452/5, 6452/6, 6456/1, 6458, 6459, 6461, 6462, 6464, 6471, 6515, 6516, 6546, 14359, 14360, 14361, 14362, 14363/1, 14369, 14371/1 és 14371/2 helyrajzi számú ingatlan | Budapest I. kerület, belterület 6514 és 7124/2 helyrajzi számú ingatlan | 2020. 10. 21. – 2022. 11. 13. |
+| 22. | Turisztikai célú területrendezés és infrastruktúra elemek kialakítása több helyszínen | Budapest I. kerület, belterület 6330, 6331, 6452/2, 6452/3, 6452/4, 6452/5, 6452/6, 6456/1, 6458, 6459, 6461, 6462, 6464, 6471, 6515, 6516, 6546, 14359, 14360, 14361, 14362, 14363/1, 14369, 14371/1 és 14371/2 helyrajzi számú ingatlan | Budapest I. kerület, belterület 6514 és 7124/2 helyrajzi számú ingatlan | 2020. 10. 21. – 2025. 12. 31. |
 
 | 23. | Egykori Külügyminisztérium épületének újjáépítése, tervezése, kivitelezése | Budapest I. kerület, belterület 6516 helyrajzi számú ingatlan | Budapest I. kerület, belterület 6514, 6518 és 14339/3 helyrajzi számú ingatlan | 2021. 04. 01. – 2025. 12. 31. |
 
@@ -58,9 +56,11 @@
 
 | 26. | Szökőkutak helyreállítása (Halászó fiú, Mátyás kút) | Budapest I. kerület, belterület 6452/4 helyrajzi számú ingatlan | – | – |
 
-| 27. | Várkert Bazár kivitelezői jótállási időszakot követő felújítási munkálatai | Budapest I. kerület, belterület 6331 és 6452/2 helyrajzi számú ingatlan | Budapest I. kerület, belterület 6271/1 és 6271/2 helyrajzi számú ingatlan | 2020. 11. 01. – 2023. 12. 31. |
+| 27. | Várkert Bazár kivitelezői jótállási időszakot követő felújítási munkálatai | Budapest I. kerület, belterület 6331 és 6452/2 helyrajzi számú ingatlan | Budapest I. kerület, belterület 6271/1 és 6271/2 helyrajzi számú ingatlan | 2020. 11. 01. – 2025. 12. 31. |
 
-| 28. | Turisztikai célú és látogatóirányítási IT fejlesztésekkel összefüggő építési beruházások | Budapest I. kerület, belterület 6331, 6452/2, 6452/3, 6452/4, 6452/5, 6452/6, 6456/1, 6461, 6462, 6464, 14358, 14359, 14360, 14361, 14362, 14363/1, 14369, 14371/1 és 14371/2 helyrajzi számú ingatlan | Budapest I. kerület, belterület 6330, 6514, 7124/2, 14363/2, 14365, 14367, 14368, 14370, 14372 és 14373/2 helyrajzi számú ingatlan | 2021. 01. 01. – 2023. 12. 31. |
+| 28. | Turisztikai célú és látogatóirányítási IT fejlesztésekkel összefüggő építési beruházások | Budapest I. kerület, belterület 6331, 6452/2, 6452/3, 6452/4, 6452/5, 6452/6, 6456/1, 6461, 6462, 6464, 14358, 14359, 14360, 14361, 14362, 14363/1, 14369, 14371/1 és 14371/2 helyrajzi számú ingatlan | Budapest I. kerület, belterület 6330, 6514, 7124/2, 14363/2, 14365, 14367, 14368, 14370, 14372 és 14373/2 helyrajzi számú ingatlan | 2021. 01. 01. – 2025. 12. 31. |
+
+| 29. | Az egykori Koronaőrség épületének rekonstrukciója révén a Budai Várőrség épületének megvalósítása és környezetének rendezése | Budapest I. kerület, belterület 7139 és 7140 helyrajzi számú ingatlan | Budapest I. kerület, belterület 6335, 7124/2, 7138, 7142 és 7147 helyrajzi számú ingatlan | 2021. 01. 01. – 2027. 12. 31. |
 
 2. A Budai Várnegyed területén megvalósuló egyéb beruházások
 
@@ -74,10 +74,8 @@
 
 | 4. | Gyalogos kapcsolatok fejlesztése | Budapest I. kerület, belterület 6335, 6539, 6546, 6350, 6351, 14130, 14154, 14155, 14167, 14192, 14193, 14194, 14231, 14271, 14440/11, 14441/2, 14443, 14444, 14445, 14446 és 14447/1 helyrajzi számú ingatlan | Budapest I. kerület, belterület 6329, 6514, 6564, 6588, 7140, 7141 és 14477/6 helyrajzi számú ingatlan | 2021. 01. 01. – 2025. 09. 01. |
 
-| 5. | Az egykori Koronaőrség épületének rekonstrukciója révén a Budai Várőrség épületének megvalósítása és környezetének rendezése | Budapest I. kerület, belterület 7139 és 7140 helyrajzi számú ingatlan | Budapest I. kerület, belterület 6335, 7124/2, 7138, 7142 és 7147 helyrajzi számú ingatlan | 2021. 01. 01. – 2026. 12. 31. |
+| 5. |  |  |  |  |
 
 | 6. | A Magyar Nemzeti Levéltár épületének rekonstrukciója és bővítése | Budapest I. kerület, belterület 6627 és 6628 helyrajzi számú ingatlan | Budapest I. kerület, belterület 6563, 6622 és 6632 helyrajzi számú ingatlan | 2021. 01. 01. – 2026. 12. 31. |
 
-[^31]: A 12. §-t a 792/2021. (XII. 27.) Korm. rendelet 6. §-a iktatta be.
-[^32]: A hatálybalépés időpontja 2021. december 27.
-[^33]: Az 1. melléklet a 792/2021. (XII. 27.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^42]: Az 1. melléklet a 792/2021. (XII. 27.) Korm. rendelet 7. §-ával megállapított, a 228/2023. (VI. 8.) Korm. rendelet 6. §-a, 7. § b)-g) pontja és 8. §-a szerint módosított szöveg.
