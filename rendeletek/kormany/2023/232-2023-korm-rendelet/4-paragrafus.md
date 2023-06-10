@@ -1,3 +1,3 @@
-4. § A Korm. rendelet 14. §-a a következő (1a) bekezdéssel egészül ki:
+4. §[^5]
 
-„(1a) Az (1) bekezdésben meghatározott 30 napos határidő az értékesítési eljárás 9. § (1a) bekezdése szerinti megszüntetése esetén az erről szóló döntés Cégközlönyben történő közzétételét követő napon kezdődik.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
