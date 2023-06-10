@@ -1,1 +1,3 @@
-5. § Az R. 11. § (4) bekezdésében a „figyelmezetőt” szövegrész helyébe a „figyelmeztető” szöveg lép.
+5. §[^6]
+
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
