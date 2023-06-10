@@ -1,4 +1,4 @@
-61/D. § (1) A Nyilvántartás a 61/B. § (3) bekezdés b)–d) és (5) bekezdés a) pontjai kivételével nyilvános, azt a Hivatal köztisztviselőjének jelenlétében személyesen bárki megtekintheti, tartalmáról feljegyzést készíthet, vagy arról másolatot kérhet.
+61/D. § (1) A Nyilvántartást a Hivatal köztisztviselőjének jelenlétében személyesen bárki megtekintheti, tartalmáról feljegyzést készíthet, vagy arról másolatot kérhet.
 
 (2) Az adatszolgáltatás teljesítésekor a másolatot vagy kivonatot a Hivatal hitelesítési és érvényességi záradékkal látja el.
 

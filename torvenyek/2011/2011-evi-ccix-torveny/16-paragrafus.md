@@ -2,7 +2,7 @@
 
 (2) Az (1) bekezdés szerinti pályázatot több ellátásért felelős közösen is kiírhatja.
 
-(3) A pályázat kiírására a pályázati kiírás Hivatal által történő jóváhagyását követően kerülhet sor.
+(3) A pályázat kiírására a pályázati kiírási dokumentáció Hivatal által az e törvényben és az e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint történő jóváhagyását követően kerülhet sor.
 
 (4) Az üzemeltetési szerződést a pályázat nyertesével kell megkötni.
 

@@ -1,9 +1,9 @@
-26. § (1) A gördülő fejlesztési tervben a víziközmű könyv szerinti értékének megőrzésén túl a Hivatal jóváhagyhatja:
+26. § (1) A gördülő fejlesztési tervben a víziközmű könyv szerinti értékének megőrzése érdekében a Hivatal – az e törvényben és az e törvény végrehajtására kiadott kormányrendeletben, továbbá a víziközművek gördülő fejlesztési terve részét képező felújítási és pótlási tervrész, valamint beruházási tervrész részletes tartalmi és formai követelményeiről szóló miniszteri rendeletben foglaltak szerint – jóváhagyja
 
-a) a szükség szerinti felújítás körében a víziközmű jogszabályi követelményeknek biztonsággal eleget tevő állapotának megőrzését, vagy
+a) a szükség szerinti felújítás, pótlás körében a víziközmű jogszabályi követelményeknek biztonsággal eleget tevő állapotának megőrzését célzó beavatkozásokat, és
 
-b) az a) pontban foglaltak előírása mellett a víziközmű műszaki fejlesztését.
+b) az a) pontban foglaltakon túl a víziközműveken végzendő beruházásokat.
 
-(2) A vagyonkezelő kötelezettsége a vagyonkezelésbe vett víziközmű vonatkozásában a felújítási terv részeként a felújítási és pótlási terv elkészítése, valamint az (1) bekezdés b) pontja esetében a beruházási terv elkészítése is.
+(2)
 
 (3) A vagyonkezelési szerződés megszűnésekor a vagyonkezelő igényt tarthat a gördülő fejlesztési tervben jóváhagyott azon – vagyonkezelői felelőssége körében indokoltan felmerült, a víziközművet gyarapító – ráfordításai könyv szerinti nettó értékének a megtérítésére, amelyekre a víziközmű vagyonkezelési szerződés megszűnéséig elszámolt értékcsökkenése nem nyújtott fedezetet.

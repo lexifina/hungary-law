@@ -1,4 +1,4 @@
-64. § (1) A fogyasztással arányos díjak tekintetében a lakossági felhasználókra nézve – a víziközmű-szolgáltatást megalapozó, elsődlegesen lakossági felhasználói ellátást szolgáló társadalmi érdekre tekintettel – a nem lakossági felhasználókhoz képest alacsonyabb díjakat eredményező díjrendszer is meghatározható.
+64. § (1) A fogyasztással arányos díjak, valamint az alapdíjak tekintetében a lakossági felhasználókra nézve – a víziközmű-szolgáltatást megalapozó, elsődlegesen lakossági felhasználói ellátást szolgáló társadalmi érdekre tekintettel – a nem lakossági felhasználókhoz képest alacsonyabb díjakat eredményező díjrendszer is meghatározható.
 
 (2)
 

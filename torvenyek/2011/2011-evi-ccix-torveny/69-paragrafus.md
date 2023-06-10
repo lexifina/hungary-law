@@ -6,7 +6,7 @@ a) közszolgáltatási szerződéses jogviszony esetében a felhasználási hely
 
 b) a víziközmű-szolgáltatásba bekapcsolt ingatlanhoz biztosított kapacitás általa kezdeményezett bővítéséért,
 
-c) a víziközmű-szolgáltatás minőségének (a víz minőségi paramétereinek) általa igényelt emelése esetében, továbbá
+c) a víziközmű-szolgáltatás minőségének általa igényelt emelése esetében, továbbá
 
 d) az új bekötés megvalósítását megelőzően, ha a bekötés a nem lakossági felhasználó által, nem továbbértékesítésre épített újépítésű lakás víziközmű-szolgáltatását szolgálja.
 

@@ -14,7 +14,7 @@ ba) a víziközmű-szolgáltatási vagy a víziközmű-üzemeltetési tevékenys
 
 bb) a kiszervezésre vonatkozó jogszabályi vagy a Hivatal határozatában foglalt előírást megsérti,
 
-bc) a 42. §-ban meghatározott cégjogi változást a Hivatal hozzájárulása nélkül kérelmez,
+bc) a 42. §-ban meghatározott cégjogi eseménnyel vagy befolyásszerzéssel összefüggő változás bejegyzését a Hivatal előzetes hozzájárulása nélkül kérelmezi,
 
 bd) a tevékenységét a beszerzési szabályzat, üzletszabályzat Hivatal általi jóváhagyása nélkül folytatja;
 
@@ -43,3 +43,5 @@ cd) a Hivatal részére rosszhiszeműen, valótlan adatot közölt,
 ce) a 18. § (5) bekezdésében meghatározott határidőt elmulasztotta.
 
 (2) Víziközmű-felügyeleti bírság szabható ki azzal a gazdálkodó szervezettel szemben is, amely víziközmű-szolgáltatási tevékenységet a Hivatal engedélye nélkül végez.
+
+(3) Az e törvényben meghatározott egyes cégjogi eseményekre vonatkozó rendelkezések megszegése, vagy az előírt kötelezettségek elmulasztása esetén a Hivatal a befolyásszerzővel szemben bírságot szab ki.

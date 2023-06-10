@@ -1,4 +1,4 @@
-45. § (1) Az e törvény végrehajtására kiadott kormányrendeletben meghatározott esetben, az ott meghatározott tartalommal és formában víziközmű-üzemeltetés meghatározott részeinek kiszervezéséről a Hivatalt tájékoztatni szükséges vagy a kiszervezéshez előzetes engedélyét kell beszerezni.
+45. § (1) Az e törvény végrehajtására kiadott kormányrendeletben meghatározott esetben, az ott meghatározott tartalommal és formában víziközmű-üzemeltetés meghatározott részeinek kiszervezéséről a Hivatalt tájékoztatni szükséges vagy a kiszervezéshez, továbbá annak módosításához a Hivatal előzetes engedélyét kell beszerezni. A Hivatal az előzetes engedély megadásáról az e törvényben és az e törvény végrehajtására kiadott kormányrendeletben meghatározott szempontok szerint dönt.
 
 (2) A kiszervezés nem eredményezheti azt, hogy az engedélyezési kötelezettség alá eső kiszervezett tevékenységek szerződési értékének összege az adott évben, a víziközmű-szolgáltatásból származó előző évi nettó árbevétel tíz százalékát meghaladja.
 

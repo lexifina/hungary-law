@@ -2,4 +2,6 @@
 
 (2) A víziközmű-szolgáltató a tulajdonában lévő rendszerfüggetlen víziközmű-elemet számviteli elszámolásaiban az egyéb saját tulajdonú eszközeitől elkülönítetten tartja nyilván, és gondoskodik a szükségessé váló felújításáról, pótlásáról.
 
-(3) Az üzemeltetési szerződés megszűnése esetében a víziközmű-szolgáltató a tulajdonában álló rendszerfüggetlen víziközmű-elemet legfeljebb könyv szerinti nettó értéken az ellátásért felelős részére írásban megvételre felajánlja. Ha az ellátásáért felelős települési önkormányzat 30 napon belül az ajánlatot nem fogadja el, a vételi jog átszáll az államra.
+(3) Az üzemeltetési szerződés megszűnése esetében a víziközmű-szolgáltató a tulajdonában álló rendszerfüggetlen víziközmű-elemet legfeljebb könyv szerinti nettó értéken az ellátásért felelős részére írásban megvételre felajánlja.
+
+(4) Ha a felajánlott rendszerfüggetlen víziközmű-elemet víziközmű-fejlesztési hozzájárulás terhére újították fel, a könyv szerinti nettó érték víziközmű-fejlesztési hozzájárulásból ráfordított összegével csökkentett értéken kerül felajánlásra.

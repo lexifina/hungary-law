@@ -36,7 +36,7 @@
 
 15. a víziközmű-szolgáltatás díjainak szerkezetét;
 
-16. a víziközműves kapcsolódó szolgáltatás körében az átadási árra vonatkozó javaslat minimális tartalmi követelményeit, az ivóvíz átadási árszerkezetét, valamint az átvett szennyvíz kezelési díjainak szerkezetét;
+16. a víziközműves kapcsolódó szolgáltatás körében az átadási árra vonatkozó javaslat, valamint az átmeneti átadási ár megállapítására irányuló kérelem minimális tartalmi követelményeit, az ivóvíz átadási árszerkezetét, valamint az átvett szennyvíz kezelési díjainak szerkezetét;
 
 17.
 
@@ -80,7 +80,7 @@ rendeletben állapítsa meg.
 
 7.
 
-8. szabályozza a gördülő fejlesztési terv részét képező felújítási és pótlási terv, valamint beruházási terv részletes tartalmi és formai követelményeit;
+8. szabályozza a gördülő fejlesztési terv részét képező felújítási és pótlási tervrész, valamint beruházási tervrész részletes tartalmi és formai követelményeit;
 
 9. állapítsa meg a Hivatal miniszter részére történő adatszolgáltatási és javaslattételi kötelezettségének rendjére, módjára, tartalmára, formájára és időpontjára vonatkozó részletes szabályokat;
 
@@ -96,9 +96,13 @@ rendeletben állapítsa meg.
 
 2. a rendszeres adatszolgáltatásra kötelezett engedélyesek vagy ellátásért felelősök és az általuk szolgáltatandó adatok körét, valamint az adatszolgáltatási kötelezettség határidejét,
 
-3. a közszolgáltatási szerződés felek általi megszegésére vonatkozó jogkövetkezmények mértékére és alkalmazására vonatkozó rendelkezéseket,
+3. a közszolgáltatási szerződés felek általi megszegése megállapításának ellenőrzési, szakértői vizsgálati és dokumentálási szabályait, valamint – a bírság kivételével – az e törvény szerinti jogkövetkezmények mértékére és alkalmazására vonatkozó rendelkezéseket,
 
 4. a víziközmű-fejlesztési hozzájárulás mértékét
+
+5. a 31/A. § (4) bekezdés szerinti átmeneti díj meghatározására irányuló kérelemhez benyújtandó adatok körét,
+
+6. a 18. § (5) bekezdés szerinti elszámoló jelentés tartalmi követelményeit
 
 rendeletben állapítsa meg.
 

@@ -1,0 +1,3 @@
+13/B. § (1) A víziközmű-szolgáltatásért felelős miniszter (a továbbiakban: miniszter) – a vízgazdálkodásért felelős miniszter és a Hivatal bevonásával – szakmai bizottságot hoz létre, amely a 2020. december 16-i (EU) 2020/2184 európai parlamenti és tanácsi irányelv 4. cikk (3) bekezdése szerint értékeli a víziközmű-rendszereken a hálózati fizikai vízveszteség mértékét, valamint megvizsgálja a hálózati fizikai vízveszteség csökkentése céljából szükséges intézkedéseket és azok lehetséges eredményeit.
+
+(2) A miniszter az (1) bekezdés szerinti vizsgálat eredményéről tájékoztatja az Európai Bizottságot, továbbá a hálózati fizikai vízveszteség mérséklésére cselekvési tervet dolgoz ki, és gondoskodik annak végrehajtásáról.

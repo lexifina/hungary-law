@@ -2,7 +2,7 @@
 
 (2) A 2012. július 15-én működő, vagy a működését ezen időpontot követően megkezdő víziközmű-szolgáltatást végző gazdálkodó szervezet az (1) bekezdés szerinti kérelem jogerős elbírálásáig jogosult e törvény szerint engedélyköteles tevékenységét az e törvényben előírtak szerint folytatni azzal, hogy rá alkalmazni kell e törvény víziközmű-szolgáltatókra vonatkozó rendelkezéseit.
 
-(3) A 2012. július 15-én víziközmű-szolgáltatást végző a 2012. év tekintetében az 5. § szerinti felügyeleti díj arányos részét a 2012. július 15-i adatok alapján fizeti meg, és a kiszámításához szükséges adatszolgáltatást 2012. augusztus 15-ig küldi meg a Hivatal részére. A 2012. évi felügyeleti díj a fenti adatok alapján meghatározott éves díj mértékének a 6/13-ada.
+(3)
 
 (4) A 2012. július 15-én a víziközmű-szolgáltatást végző tulajdonában lévő víziközmű felújítása és pótlása a víziközmű tulajdonjogának 79. § szerinti átruházásáig a víziközmű-szolgáltatást végző kötelessége.
 

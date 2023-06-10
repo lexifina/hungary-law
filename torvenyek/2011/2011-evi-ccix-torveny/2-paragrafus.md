@@ -18,7 +18,7 @@
 
 8. gördülő fejlesztési terv: víziközmű-rendszerre vonatkozó hosszú távú, felújítási és pótlási, valamint beruházási tervrészből álló terv,
 
-9. házi ivóvízhálózat: a felhasználási hely ivóvízfogyasztását biztosító – az ingatlan alkotórészét képező – vezeték, amely a vízkivételi helyig szállítja a vizet, valamint annak kiegészítő elemei (így különösen vízmérő berendezés elhelyezésére szolgáló akna),
+9. házi ivóvízhálózat: a felhasználási hely ivóvízfogyasztását biztosító – az ingatlan alkotórészét képező – vezeték, amely a vízkivételi helyig szállítja a vizet, valamint annak kiegészítő elemei (így különösen vízmérő berendezés elhelyezésére szolgáló akna és a fogyasztói csap),
 
 10. házi szennyvízhálózat: a felhasználási helyen keletkező szennyvíz összegyűjtését szolgáló – az ingatlan alkotórészét képező – vezeték, valamint annak kiegészítő elemei (így különösen szennyvízmennyiség-mérő, szennyvízminőség-ellenőrző akna, szennyvíz-előkezelő mű),
 
@@ -66,9 +66,9 @@ a) önállóan, kizárólag egy település ellátását biztosítja (szigetüze
 
 b) önállóan, több település ellátását is szolgálja,
 
-c) átadási pontokkal egyértelműen körülhatárolt, a kapcsolódó szolgáltatás nyújtását is, vagy kizárólagosan azt biztosítja,
+c) átadási pontokkal egyértelműen körülhatárolt, kapcsolódó szolgáltatás nyújtásával, illetve igénybevételével egy vagy több településre nézve közvetlenül vagy közvetve biztosítja a víziközmű-szolgáltatás műszaki feltételeit,
 
-d) átadási pontokkal egyértelműen körülhatárolt, kapcsolódó szolgáltatással kiegészülve vagy kapcsolódó szolgáltatás nélkül egy vagy több településre nézve képes biztosítani a víziközmű-szolgáltatás műszaki feltételeit,
+d)
 
 24. víziközmű-szolgáltatás: közszolgáltatási szerződés keretében nyújtott közműves ivóvízellátás az ahhoz kapcsolódó tűzivíz biztosítással, továbbá a közműves szennyvízelvezetés és -tisztítás, ideértve az egyesített rendszerű csapadékvíz-elvezetést is (a továbbiakban együtt: víziközmű-szolgáltatási ágazatok),
 

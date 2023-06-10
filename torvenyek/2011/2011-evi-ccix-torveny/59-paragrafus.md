@@ -6,4 +6,4 @@
 
 (2) Az átadott adatokat kizárólag a víziközmű fejlesztésével és a víziközmű-szolgáltatás biztosításával kapcsolatos tevékenység ellátásával összefüggésben lehet használni.
 
-(3) A víziközmű szolgáltatók kötelesek adatot szolgáltatni az ivóvízfogyasztást igénybe vevő fogyasztókról a nem közművel összegyűjtött háztartási szennyvízszállítási közszolgáltatást végző közszolgáltatók részére, amennyiben a közszolgáltatás díját kéttényezős módon határozzák meg.
+(3) A víziközmű-szolgáltató adatot szolgáltat az ivóvíz-szolgáltatást igénybe vevő felhasználókról a nem közművel összegyűjtött háztartási szennyvízszállítási közszolgáltatást végző közszolgáltatók részére, ha a közszolgáltatás díját kéttényezős módon határozzák meg.

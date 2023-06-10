@@ -6,4 +6,8 @@
 
 (3) E törvény 14. § (4) és (5) bekezdése a hálózati és információs rendszerek biztonságának az egész Unióban egységesen magas szintjét biztosító intézkedésekről szóló, 2016. július 6-i 2016/1148 európai parlamenti és tanácsi irányelv 14. cikk (1)–(2) bekezdésének való megfelelést szolgálja.
 
+(3a) E törvény 13/B. §-a és 76/A. §-a az emberi fogyasztásra szánt víz minőségéről szóló, 2020. december 16-i
+
+(EU) 2020/2184 európai parlamenti és tanácsi irányelv 4. cikk (3) bekezdésének való megfelelést szolgálja.
+
 (4) E törvény 45. § (6) bekezdése a víz újrafelhasználásra vonatkozó minimumkövetelményekről szóló, 2020. május 25-i (EU) 2020/741 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.

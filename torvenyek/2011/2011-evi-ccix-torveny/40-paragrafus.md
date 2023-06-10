@@ -1,4 +1,4 @@
-40. § (1) A Hivatal hatósági eljárásaiban a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvényben (a továbbiakban: Szankciótv.) foglaltakon túlmenően az alábbi jogkövetkezményeket alkalmazhatja közigazgatási szabályszegés megállapítása esetén:
+40. § (1) A Hivatal hatósági eljárásaiban a közigazgatási szabályszegések szankcióiról szóló törvényben (a továbbiakban: Szankciótv.) foglaltakon túlmenően az alábbi jogkövetkezményeket alkalmazhatja közigazgatási szabályszegés megállapítása esetén a szabályszegés súlyával és jellegével összhangban:
 
 a) jogellenes magatartás megszüntetésére kötelezés,
 
@@ -10,7 +10,7 @@ d) jogszerű víziközmű-szolgáltatási díj alkalmazására kötelezés,
 
 e) jogsértő víziközmű-szolgáltatási díj alkalmazásából eredő többletbevétel visszatérítésére kötelezés,
 
-f) a Hivatal által kiadott hatósági engedély módosítása,
+f) a Hivatal által kiadott hatósági engedély módosítása, vagy
 
 g) a Hivatal által kiadott hatósági engedély visszavonása.
 

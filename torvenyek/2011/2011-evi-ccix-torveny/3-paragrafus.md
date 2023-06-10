@@ -32,7 +32,7 @@ ha az eljárás a 2003. évi uniós csatlakozási szerződésben rögzített der
 
 (6) Ha az ügyfél a kérelmet hiányosan nyújtotta be, a Hivatal a kérelem beérkezését követő naptól számított harminc napon belül bocsáthat ki hiánypótlási felhívást.
 
-(7) A Hivatal véglegessé vált határozatait – a személyes és védett adatok kivételével – a honlapján közhírré teszi.
+(7) A Hivatal véglegessé vált határozatait – a személyes és védett adatok, illetve a panaszügyben hozott határozatok kivételével – a honlapján közzéteszi.
 
 (8) A Hivatal eljárásában történő szakhatósági közreműködésért a szakhatóság részére igazgatási szolgáltatási díjat kell fizetni.
 

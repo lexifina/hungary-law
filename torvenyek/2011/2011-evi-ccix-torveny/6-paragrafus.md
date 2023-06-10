@@ -16,7 +16,7 @@ b) a Hivatal egyedi határozatában víziközműnek minősített olyan vízilét
 
 (5) Nem lehet víziközműnek minősíteni, és víziközmű-szolgáltatás keretében működtetni azt a vízilétesítményt amely:
 
-a)
+a) vízjogi engedéllyel nem rendelkezik,
 
 b) nem közterületi ingatlan területén, olyan belső hálózatként került kialakításra, amely esetében az ellátás valamely szervezett formában működő, legalább részben közös célú ingatlan használathoz kötődik (különösen: nyugdíjas otthon, szolgálati lakások, lakópark),
 
@@ -25,3 +25,7 @@ c) műszaki kialakítása miatt aránytalan (az újraelőállítási érték 30%
 (6) A vízilétesítmény (4) bekezdés a) pontja és az (5) bekezdés alapján történő minősítésére a Hivatal az ellátásért felelős, az érintett önkormányzat vagy a vízilétesítmény tulajdonosa, üzemeltetője kérelmére induló eljárásban, vagy hivatalból hoz egyedi döntést. A (4) bekezdés b) pontja szerinti eljárást az ellátásért felelős kezdeményezheti.
 
 (7) A (6) bekezdésben megjelölt személyek a vízilétesítmény (4) és (5) bekezdés szerinti minősítési eljárásában ügyfélnek minősülnek.
+
+(8) A Hivatal víziközmű minősítéséről hozott döntése a döntés tárgyát képező vízilétesítmény vízjogi létesítési vagy vízjogi üzemeltetési engedélye hatályvesztésével hatályát veszti.
+
+(9) A (6) bekezdés szerinti kérelem kötelező tartalmi elemeit az e törvény végrehajtására kiadott kormányrendelet tartalmazza.

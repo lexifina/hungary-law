@@ -4,6 +4,6 @@
 
 (3)
 
-(4) Ha az üzemeltetési szerződés felmondással szűnik meg, az ellátásért felelős azt a megszüntető nyilatkozat hatályosulását követő 8 napon belül a Hivatalnak bejelenti.
+(4) Ha az üzemeltetési szerződés felmondással vagy közös megegyezéssel szűnik meg, az ellátásért felelős a megszüntető nyilatkozat vagy a közös megegyezés hatályosulását követő 8 napon belül a Hivatalnak bejelenti az üzemeltetési szerződés megszűnésének tényét.
 
 (5)

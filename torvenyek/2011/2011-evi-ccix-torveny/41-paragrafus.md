@@ -16,4 +16,4 @@ f) a jogsértő állapot megszüntetésére hozott intézkedéseket segítő mag
 
 (3)
 
-(4) A bírság a díjmegállapítás során költségnövelő tényezőként nem vehető figyelembe.
+(4) A víziközmű-szolgáltatóval szemben kiszabott bírság a díjmegállapítás során az indokolt költséget növelő tényezőként nem vehető figyelembe.

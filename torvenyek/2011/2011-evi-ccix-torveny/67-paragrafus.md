@@ -6,6 +6,6 @@
 
 (2) A víziközmű-szolgáltatók között a mennyiségi elszámolás mérőberendezés mérési adatai alapján történik.
 
-(3) Az ivóvíz átadási árát és az átvett szennyvíz kezelési díját (a továbbiakban együtt: átadási ár) – az átadási mennyiségek figyelembevételével a miniszter rendeletben állapítja meg. Az átadási ár megállapításakor rendelkezni kell arról, hogy az átadási árat mely – a rendelet hatálybalépését követő – időponttól kell alkalmazni.
+(3) Az ivóvíz átadási árát és az átvett szennyvíz kezelési díját (a továbbiakban együtt: átadási ár) – az (1) bekezdés szerinti átadási pontonként – a miniszter az e törvény végrehajtására kiadott rendeletében állapítja meg. Az átadási ár megállapításakor rendelkezni kell arról, hogy az átadási árat mely – a rendelet hatálybalépését követő – időponttól kell alkalmazni.
 
 (4) Az átadási ár megállapítására a 65. § rendelkezéseit kell alkalmazni azzal, hogy hatósági díj alatt átadási árat kell érteni, valamint a tájékoztatási és adatszolgáltatási kötelezettség kizárólag a víziközmű-szolgáltatót terheli.

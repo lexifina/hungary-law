@@ -15,3 +15,5 @@
 (5) Amennyiben az ideiglenes szolgáltatás ellátásának lehetősége meglévő víziközmű-rendszer bővítéseként nyílt meg és az arról ellátott településeken azonos víziközmű-szolgáltatási díjat alkalmaznak, úgy a (4) bekezdés szerinti kérelem előterjesztésének nincs helye és a szerződött víziközmű-szolgáltató az ideiglenes szolgáltatás tekintetében a víziközmű-rendszer egészére megállapított díjat alkalmazhatja.
 
 (6) Az ideiglenes szolgáltatásról – a (4) bekezdésben meghatározott bővítésként megvalósított víziközmű-rendszeren nyújtott szolgáltatás kivételével – a szerződött víziközmű-szolgáltató elkülönített pénzügyi-számviteli nyilvántartást vezet.
+
+(7) A Hivatal elnöke az e törvény végrehajtására kiadott rendeletében meghatározza és honlapján közzéteszi a (4) bekezdés szerinti átmeneti díj meghatározására irányuló kérelemhez benyújtandó adatokat.

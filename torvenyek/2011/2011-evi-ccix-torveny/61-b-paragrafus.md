@@ -1,4 +1,4 @@
-61/B. § (1) A víziközmű-szolgáltatással kapcsolatos kiemelt jelentőségű adatok teljessége, a víziközmű-vagyon védelme, valamint a víziközmű-szolgáltatással kapcsolatos állami feladatok megalapozottsága érdekében a Hivatal Nemzeti Víziközmű Nyilvántartást (a továbbiakban: Nyilvántartás) vezet.
+61/B. § (1) A Hivatal a víziközmű-szolgáltatással kapcsolatos kiemelt jelentőségű adatok teljessége, a víziközmű-vagyon védelme, valamint a víziközmű-szolgáltatással kapcsolatos állami feladatok megalapozottsága érdekében vezeti a Nyilvántartást.
 
 (2) A Nyilvántartás a víziközművekre, az ellátásért felelősökre és a víziközmű-szolgáltatókra vonatkozó alrendszerekből áll.
 
@@ -8,7 +8,7 @@ a) a víziközmű-rendszer megnevezését és a Hivatal által képzett azonosí
 
 b) a víziközmű-szolgáltatási ágazat megnevezését és a víziközmű-rendszer 2. § 23. pont szerinti besorolását,
 
-c) a felhasználók számosságát kifejező, a működési engedélyben a Hivatal által megállapított, a tárgyév január 1-jén fennálló felhasználói egyenértéket,
+c) a felhasználók számosságát kifejező felhasználói egyenértéket,
 
 d) a víziközmű tulajdonosainak nevét és tulajdoni részesedését,
 
@@ -17,6 +17,10 @@ e) a víziközmű működésében érintett ellátásért felelős(ök) nevét, 
 f) a működési engedély számát és az engedélyes víziközmű-szolgáltató nevét,
 
 g) a víziközmű rendszer térképi nyilvántartási adatait.
+
+h) az ellátási területet, és
+
+i) a működési engedély időbeli hatályát.
 
 (4) Az ellátásért felelősök nyilvántartása az egyes ellátásért felelősökre nézve tartalmazza:
 
@@ -32,9 +36,9 @@ b) a víziközmű-szolgáltatói, valamint a működési engedély kiadásáról
 
 c) a működtetett víziközmű-rendszerek Hivatal által képzett azonosító kódjait és az ezekre vonatkozó üzemeltetési jogviszony (ide értve a közérdekű üzemeltetői jogviszonyt is) típusát.
 
-(6) A nyilvántartás a (3) bekezdés a), c), d) és g) pontja, valamint a (5) bekezdés a) pontja kivételével közhiteles.
+(6) A Nyilvántartás a (3) bekezdés b), e), f) és i) pontja, a (4) bekezdés a) és b) pontja, valamint az (5) bekezdés b) és c) pontja szerinti adatkörök tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
-(7) Eltérő megállapodás hiányában a (3) és (4) bekezdésben meghatározott adatokat az ellátásért felelős, az (5) bekezdésben meghatározott adatokat a víziközmű-szolgáltató szolgáltatja a Hivatal részére. Nem áll fenn adatszolgáltatási kötelezettség azon adatra, amelyet a Hivatal honlapján közzétett tájékoztató „Hivatalból bejegyzendő” minősítéssel lát el.
+(7) Eltérő megállapodás hiányában a (3) bekezdés d) pontjában és a (4) bekezdésben meghatározott adatokat az ellátásért felelős, a (3) bekezdés a)–c) és e)–i) pontjában, valamint az (5) bekezdésben meghatározott adatokat a víziközmű-szolgáltató szolgáltatja a Hivatal részére. Nem áll fenn adatszolgáltatási kötelezettség azon adatra, amelyet a Hivatal honlapján közzétett tájékoztató „Hivatalból bejegyzendő” minősítéssel lát el.
 
 (8) Adat keletkezését, változását vagy megszűnését az arra okot adó körülmény vagy tény bekövetkezését követő 15 napon belül a Hivatalhoz, a változás tényét bizonyító okirat egyidejű megküldésével kell bejelenteni.
 

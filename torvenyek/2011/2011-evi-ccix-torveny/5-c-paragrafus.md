@@ -1,13 +1,7 @@
-5/C. § (1) Az ellenőrzés befejezését követő 8 napon belül a Hivatal az ellenőrzött szerv részére megküldi az ellenőrzést lezáró jegyzőkönyv vagy feljegyzés tervezetét.
+5/C. § (1) Az ellenőrzés lezárásakor a Hivatal a megállapításait ellenőrzési jelentésbe foglalja. Az ellenőrzési jelentés tartalmazza az ügy azonosításához szükséges adatokat, a feltárt tényeket, az azokból levont jogi következtetéseket.
 
-(2) A jegyzőkönyv vagy feljegyzés tervezetére az ellenőrzött szerv a kézhezvételtől számított 15 napon belül észrevételt tehet.
+(2) Ha a Hivatal az ellenőrzés során jogsértést nem tapasztal, az ellenőrzés lezárását követő 8 napon belül az ellenőrzési jelentést megküldi az ellenőrzött szervnek.
 
-(3) A (2) bekezdésben meghatározott határidő lejártát követően a Hivatal véglegesíti az ellenőrzést lezáró jegyzőkönyvet vagy feljegyzést, amelyben az ellenőrzött szerv elutasított észrevételeit külön megindokolja.
+(3) Ha a Hivatal az átfogó ellenőrzés során megállapítja, hogy a víziközmű-szolgáltató a jogszabályban, illetve hatósági döntésben foglalt előírásokat megsértette, az ellenőrzés lezárását követő 8 napon belül az ellenőrzési jelentés tervezetét megküldi az ellenőrzött víziközmű-szolgáltatónak. Az ellenőrzési jelentés tervezetére az ellenőrzéssel érintett víziközmű-szolgáltató a kézhezvételtől számított 15 napon belül észrevételt tehet. A határidő lejártát követően a Hivatal véglegesíti az ellenőrzési jelentést, amelyben rögzíti az ellenőrzött víziközmű-szolgáltató figyelmen kívül hagyott észrevételeire vonatkozó indokolást.
 
-(3a) Ha a Hivatal az ellenőrzés során jogsértést nem tapasztal, az ellenőrzés befejezését követő 8 napon belül az ellenőrzést lezáró végleges jegyzőkönyvet megküldi az ellenőrzött szervnek.
-
-(4) Ha a Hivatal a hatósági ellenőrzés során megállapítja, hogy az ügyfél a jogszabályban, illetve hatósági döntésben foglalt előírásokat megsértette,
-
-a) és a jogszabály vagy hatósági döntés megsértése a jogellenes magatartás megszüntetésével vagy a jogszerű állapot helyreállításával orvosolható, a Hivatal tájékoztatja az ügyfelet a jogszabálysértés tényéről, és határidő tűzésével kötelezi annak megszüntetésére,
-
-b) ha az a) pont szerinti kötelezésben meghatározott határidő eredménytelenül telt el, vagy az a) pont alkalmazása kizárt, a Hivatal hivatalból megindítja a hatáskörébe tartozó eljárást, ideértve a hatáskörébe tartozó eljárási cselekmények megtételét és a jogkövetkezmény megállapítását is.
+(4) Ha a Hivatal a témaellenőrzés, célellenőrzés vagy utóellenőrzés során megállapítja, hogy az ellenőrzött szerv a jogszabályban, illetve hatósági döntésben foglalt előírásokat megsértette, az ellenőrzés lezárását követő 8 napon belül az ellenőrzési jelentést megküldi az ellenőrzött szervnek. Az ellenőrzési jelentésre az ellenőrzött szerv a kézhezvételtől számított 15 napon belül észrevételt tehet. Az észrevételben foglaltakat a Hivatal a jogkövetkezmények megállapítására irányuló hatósági eljárás során értékeli, és az eljárást lezáró határozatban az észrevételek elutasítását külön megindokolja.

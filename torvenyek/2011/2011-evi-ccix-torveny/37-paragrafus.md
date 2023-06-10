@@ -8,6 +8,6 @@ b) a kérelemben meghatározott ellátási terület, víziközmű-szolgáltatás
 
 c) a kérelmező nem felel meg az e törvény és végrehajtására kiadott jogszabályokban meghatározott követelményeknek, vagy
 
-d) a kérelmező működési engedélyeiben, ideértve a folyamatban lévő eljárásokat is az 1. melléklet szerinti képlet alapján kiszámított felhasználói egyenérték összesítve nem éri el a 150 ezret.
+d) a kérelmező 1. melléklet szerint kiszámított felhasználói egyenértéke a Nyilvántartásban – figyelmembe véve a felhasználói egyenérték változását eredményező folyamatban lévő eljárásokat is – nem éri el a 150 ezret.
 
 (3) A (2) bekezdés d) pontjában meghatározott követelménynek eleget nem tevő kérelmező működési engedély iránti kérelme nem utasítható el, ha a kérelmező 2011. december 31. előtt megkötött és hatályos üzemeltetési szerződéssel rendelkezik és működési engedély iránti kérelmének elutasítása Magyarország által megkötött nemzetközi beruházásvédelmi szerződés rendelkezéseibe ütközik.

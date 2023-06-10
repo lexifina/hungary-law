@@ -1,1 +1,1 @@
-76/A. § A 63. § (6) bekezdése szerint 2015. január 1-jét megelőzően kibocsátott tanúsítvány 2017. december 31-ig hatályos.
+76/A. § A 13/B. § (2) bekezdése szerinti tájékoztatást a miniszter 2026. január 12-ig küldi meg az Európai Bizottság részére, továbbá a cselekvési tervet az Európai Uniónak a 2020. december 16-i (EU) 2020/2184 európai parlamenti és tanácsi irányelv 4. cikk (3) bekezdése szerinti felhatalmazáson alapuló jogi aktusa elfogadásának időpontjától számított két éven belül készíti el.

@@ -1,4 +1,6 @@
-5/B. § (1) A Hivatal ellenőrzési tervbe foglalt ütemezés szerint végzi az 5/A. § (3) bekezdése szerinti felügyeletet. A Hivatal az ellenőrzés megindításáról szóló értesítéssel egyidejűleg megküldi a víziközmű-szolgáltatónak az ellenőrzési programot.
+5/B. § (1) A Hivatal az ellenőrzési tervbe foglalt ütemezés szerint végzi az 5/A. § (2) bekezdése szerinti felügyeletet és hatósági ellenőrzést. Az ellenőrzési terv tartalmazza a tárgyévben elvégzendő ellenőrzések tárgyát, típusát, tervezett időpontját, az ellenőrzést végző szervezeti egység megnevezését, valamint az ellenőrizendő időszakot.
+
+(1a) Az 5/A. § (3) bekezdése szerinti átfogó ellenőrzést a Hivatal ellenőrzési program alapján végzi. Az ellenőrzési programot a Hivatal az ellenőrzés megindításáról szóló értesítés közlésével egyidejűleg megküldi a víziközmű-szolgáltató részére.
 
 (2) Az ellenőrzési program tartalmazza:
 
@@ -37,3 +39,5 @@ d) más hatóságok megkeresése útján beszerzett információk,
 e) elektronikus nyilvántartások adatai,
 
 f) az elektronikus közműnyilvántartásba szolgáltatott adatok.
+
+(4) A helyszíni ellenőrzés során feltárt tényekről, az ellenőrzött szerv és a Hivatal nyilatkozatairól jegyzőkönyv készül.

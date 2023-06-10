@@ -2,4 +2,4 @@
 
 (1a) Ha az (1) bekezdés alapján a díjat nem lehet megállapítani, az átadási árról a felek a 67. § (1) bekezdésében meghatározott szerződésben állapodnak meg.
 
-(2) A Hivatal az átadási árra vonatkozó javaslatát első alkalommal 2014. október 15-ig küldi meg.
+(2)

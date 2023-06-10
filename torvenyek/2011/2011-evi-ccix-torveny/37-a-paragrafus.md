@@ -25,3 +25,5 @@ d) az e törvényben meghatározott más esetben.
 (9) Ha a Hivatal a működési engedélyt úgy módosítja, hogy annak következtében a víziközmű-szolgáltatót megillető felhasználói egyenérték csökken, a víziközmű-szolgáltató az üzemeltetési szerződései közül azokat megszünteti, amelyek tekintetében a jogszabályban és a Hivatal határozatában előírt követelmények nem teljesülnek.
 
 (10) A víziközmű-szolgáltató a felmondási kötelezettségének a Hivatal (9) bekezdés szerinti határozatának kézhezvételétől számított harminc napon belül eleget tesz. Ha az üzemeltetési szerződés a víziközmű-szolgáltató részére kedvezőbb feltételt nem biztosít, akkor a szerződést az év végére szólóan, de legalább nyolc hónapos felmondási idő alkalmazása mellett kell felmondani.
+
+(11) A Hivatal a víziközmű-szolgáltatói engedélyt visszavonó döntésében adatszolgáltatásra kötelezheti a korábbi engedélyest a Hivatal 65. § (2) bekezdésében meghatározott feladatának teljesítése érdekében.

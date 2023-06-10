@@ -10,7 +10,7 @@ a) díjaknak ösztönözniük kell a biztonságos és legkisebb költségű víz
 
 b) figyelembe kell venni a folyamatos és biztonságos víziközmű-szolgáltatás indokolt költségeit, valamint a környezetvédelmi kötelezettségek teljesítésének indokolt költségeit, ideértve különösen a vízbázisvédelem indokolt költségeit.
 
-(2) A víziközmű-szolgáltatás díjában csökkentő tényezőként kell figyelembe venni a víziközmű-szolgáltatás teljesítéséhez biztosított, a költségek ellentételezésére kapott költségvetési és önkormányzati támogatásokat.
+(2)
 
 (3)
 

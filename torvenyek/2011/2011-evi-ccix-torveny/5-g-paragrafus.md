@@ -6,7 +6,7 @@ b) az ellátásért felelősök képviseletéről.
 
 (2) Az ellátásért felelősök az (1) bekezdésben meghatározott megállapodást egyszerű többséggel hozzák meg, ahol a szavazati arány az ellátásért felelősök víziközmű-rendszeren fennálló tulajdoni érdekeltsége nettó könyv szerinti értékének megfelelően alakul.
 
-(3) Az (1) bekezdésben meghatározott megállapodást az ellátásért felelősök képviselője az aláírástól számított 30 napon belül megküldi a Hivatalnak és a víziközmű-szolgáltatónak.
+(3) Az (1) bekezdésben meghatározott megállapodást vagy annak módosítását az ellátásért felelősök képviselője az aláírástól számított 30 napon belül megküldi a Hivatalnak és a víziközmű-szolgáltatónak.
 
 (4) Ha az (1) bekezdésben meghatározott kérdésben a (2) bekezdés szerint azonos szavazati arány alakul ki, a döntést a tárgyév január 1-jén legnagyobb felhasználói egyenértékkel rendelkező ellátásért felelős szavazata határozza meg.
 
