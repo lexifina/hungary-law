@@ -19,3 +19,5 @@ f) a nemzeti értékek, a kiemelkedő nemzeti értékek és a hungarikumok digit
 g) a nemzeti értékek értéktárakba történő felvételének eljárására vonatkozó szabályokat, valamint
 
 h) a kiemelkedő nemzeti értékké és a hungarikummá minősítés eljárására vonatkozó részletes szabályokat.
+
+i) a 12. alcímben meghatározott digitális közszolgáltatásra vonatkozó részletes szabályokat és jelölje ki az Üzemeltetőt.
