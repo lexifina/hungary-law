@@ -1,1 +1,3 @@
-8. § Hatályát veszti a 210/2016. (VII. 21.) Korm. rendelet 1. melléklet 2. pontjában foglalt táblázat 5. sora.
+8. §[^9]
+
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

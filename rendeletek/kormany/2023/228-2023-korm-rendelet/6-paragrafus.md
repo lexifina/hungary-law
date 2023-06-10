@@ -1,1 +1,3 @@
-6. § A 210/2016. (VII. 21.) Korm. rendelet 1. melléklete az 1. melléklet szerint módosul.
+6. §[^7]
+
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
