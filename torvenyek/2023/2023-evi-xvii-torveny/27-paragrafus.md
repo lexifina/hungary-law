@@ -1,0 +1,3 @@
+27. § A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény 45. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az e törvény végrehajtására kiadott kormányrendeletben meghatározott esetben, az ott meghatározott tartalommal és formában víziközmű-üzemeltetés meghatározott részeinek kiszervezéséről a Hivatalt tájékoztatni szükséges vagy a kiszervezéshez, továbbá annak módosításához a Hivatal előzetes engedélyét kell beszerezni. A Hivatal az előzetes engedély megadásáról az e törvényben és az e törvény végrehajtására kiadott kormányrendeletben meghatározott szempontok szerint dönt.”

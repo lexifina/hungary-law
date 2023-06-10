@@ -1,0 +1,9 @@
+5. § A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény 5/C. §-a helyébe a következő rendelkezés lép:
+
+„5/C. § (1) Az ellenőrzés lezárásakor a Hivatal a megállapításait ellenőrzési jelentésbe foglalja. Az ellenőrzési jelentés tartalmazza az ügy azonosításához szükséges adatokat, a feltárt tényeket, az azokból levont jogi következtetéseket.
+
+(2) Ha a Hivatal az ellenőrzés során jogsértést nem tapasztal, az ellenőrzés lezárását követő 8 napon belül az ellenőrzési jelentést megküldi az ellenőrzött szervnek.
+
+(3) Ha a Hivatal az átfogó ellenőrzés során megállapítja, hogy a víziközmű-szolgáltató a jogszabályban, illetve hatósági döntésben foglalt előírásokat megsértette, az ellenőrzés lezárását követő 8 napon belül az ellenőrzési jelentés tervezetét megküldi az ellenőrzött víziközmű-szolgáltatónak. Az ellenőrzési jelentés tervezetére az ellenőrzéssel érintett víziközmű-szolgáltató a kézhezvételtől számított 15 napon belül észrevételt tehet. A határidő lejártát követően a Hivatal véglegesíti az ellenőrzési jelentést, amelyben rögzíti az ellenőrzött víziközmű-szolgáltató figyelmen kívül hagyott észrevételeire vonatkozó indokolást.
+
+(4) Ha a Hivatal a témaellenőrzés, célellenőrzés vagy utóellenőrzés során megállapítja, hogy az ellenőrzött szerv a jogszabályban, illetve hatósági döntésben foglalt előírásokat megsértette, az ellenőrzés lezárását követő 8 napon belül az ellenőrzési jelentést megküldi az ellenőrzött szervnek. Az ellenőrzési jelentésre az ellenőrzött szerv a kézhezvételtől számított 15 napon belül észrevételt tehet. Az észrevételben foglaltakat a Hivatal a jogkövetkezmények megállapítására irányuló hatósági eljárás során értékeli, és az eljárást lezáró határozatban az észrevételek elutasítását külön megindokolja.”
