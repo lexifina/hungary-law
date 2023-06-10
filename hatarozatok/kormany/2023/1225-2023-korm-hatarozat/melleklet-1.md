@@ -1,51 +1,20 @@
-## 1. A Magyar Halgazdálkodási Operatív Program éves fejlesztési keretének megállapításáról szóló 1056/2016. (II. 17.) Korm. határozat [a továbbiakban: 1056/2016. (II. 17.) Korm. határozat] 1. melléklete az 1. melléklet szerint módosul.
+## 1.[^2]
 
-## 2. Az 1056/2016. (II. 17.) Korm. határozat
+## 2.[^3]
 
-## 2.1. 1. melléklet 2. pontjában foglalt táblázat C:2 mezőjében az „1,682” szövegrész helyébe az „1,507” szöveg,
+## 3.[^4]
 
-## 2.2. 1. melléklet 2. pontjában foglalt táblázat C:3 mezőjében az „5,863” szövegrész helyébe az „5,243” szöveg,
+## 4.[^5]
 
-## 2.3. 1. melléklet 2. pontjában foglalt táblázat C:4 mezőjében az „5,780” szövegrész helyébe a „4,447” szöveg,
-
-## 2.4. 1. melléklet 2. pontjában foglalt táblázat C:7 mezőjében a „0,877” szövegrész helyébe a „0,876” szöveg,
-
-## 2.5. 1. melléklet 2. pontjában foglalt táblázat C:8 mezőjében a „0,210” szövegrész helyébe a „0,203” szöveg
-
-## lép.
-
-## 3. Az 1056/2016. (II. 17.) Korm. határozat
-
-## 3.1. 1. melléklet 4. pontjában foglalt táblázat C:3 mezőjében a „0,960” szövegrész helyébe a „0,952” szöveg,
-
-## 3.2. 1. melléklet 4. pontjában foglalt táblázat C:4 mezőjében a „3,214” szövegrész helyébe a „2,173” szöveg
-
-## lép.
-
-## 4. Az 1056/2016. (II. 17.) Korm. határozat
-
-## 4.1. 1. melléklet 5. pontjában foglalt táblázat C:2 mezőjében a „0,160” szövegrész helyébe a „0,175” szöveg lép.
-
-## 5. Az 1056/2016. (II. 17.) Korm. határozat
-
-## 5.1. 2. mellékletében foglalt táblázat D:3a. mezőjében a „0,960” szövegrész helyébe a „0,952” szöveg,
-
-## 5.2. 2. mellékletében foglalt táblázat D:4 mezőjében a „0,160” szövegrész helyébe a „0,175” szöveg
-
-## lép.
+## 5.[^6]
 
 ## 6. Ez a határozat a közzétételét követő napon lép hatályba.
 
-1. melléklet az 1225/2023. (VI. 8.) Korm. határozathoz
+1. melléklet az 1225/2023. (VI. 8.) Korm. határozathoz[^7]
 
-Az 1056/2016. (II. 17.) Korm. határozat 1. melléklet 4. pontjában foglalt táblázat a következő 5. sorral egészül ki:
-
-|  | [A | B | C | D | E |
-
-| 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje] |
-
-„
-
-| 5. | MAHOP-5.3.4-2023 | Krízishelyzetre szóló támogatás | 3,170 | egyszerűsített | 2023. július |
-
-”
+[^2]: Az 1. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
