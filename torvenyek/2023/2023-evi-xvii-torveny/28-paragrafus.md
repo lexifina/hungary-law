@@ -1,3 +1,1 @@
-28. § A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény 55. § (10) bekezdése helyébe a következő rendelkezés lép:
-
-„(10) A vízgazdálkodási hatósági jogkör gyakorlója az (1) bekezdésben meghatározott feltétel fennállásán, valamint a (4)–(8) bekezdésben meghatározott esetkörön túl kötelezi a tulajdonost az ingatlan beköttetésére és ezzel a víziközmű-szolgáltatás igénybevételére, ha a saját célú vízellátó létesítménye, saját célú szennyvízkezelő létesítménye, egyedi szennyvízkezelő berendezése vagy az egyedi zárt szennyvíztárolója közegészségügyi, környezetvédelmi vagy vízgazdálkodási szempontból káros.”
+### 28. §

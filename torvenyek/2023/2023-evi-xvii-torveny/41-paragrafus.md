@@ -1,3 +1,1 @@
-41. § A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény 76/A. §-a helyébe a következő rendelkezés lép:
-
-„76/A. § A 13/B. § (2) bekezdése szerinti tájékoztatást a miniszter 2026. január 12-ig küldi meg az Európai Bizottság részére, továbbá a cselekvési tervet az Európai Uniónak a 2020. december 16-i (EU) 2020/2184 európai parlamenti és tanácsi irányelv 4. cikk (3) bekezdése szerinti felhatalmazáson alapuló jogi aktusa elfogadásának időpontjától számított két éven belül készíti el.”
+### 41. §
