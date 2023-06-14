@@ -1,0 +1,337 @@
+# A Miniszterelnöki Kabinetirodát vezető miniszter 13/2023. (VI. 14.) MK rendelete
+
+Magyar Közlöny 2023. évi 85. szám, 2023. június 14. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/fyvZK3iH4n76hOgYWbXF647a2eb11cc1b/dokumentumok/bd90158710f32e217c189e03373123944f3cd11f/letoltes)
+
+---
+
+A Miniszterelnöki Kabinetirodát vezető miniszter 13/2023. (VI. 14.) MK rendelete
+a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagjai szolgálati igazolványának és szolgálati
+jelvényének rendszeresítéséről, valamint szolgálati igazolvánnyal és szolgálati jelvénnyel történő
+ellátásának rendjéről
+A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 341. §
+(1) bekezdés 4. pont a) és b) alpontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló
+182/2022. (V. 24.) Korm. rendelet 9. § (1) bekezdés 14. és 15. pontjában meghatározott feladatkörömben eljárva a következőket
+rendelem el:
+1. §
+E rendelet alkalmazásában
+1. megszemélyesítés: az adatok nélküli igazolvány ellátása a polgári nemzetbiztonsági szolgálatra, valamint
+a szolgálati igazolvány birtokosára vonatkozó adattartalommal;
+2. polgári nemzetbiztonsági szolgálat:
+a) az Alkotmányvédelmi Hivatal,
+b) az Információs Hivatal,
+c) a Nemzetbiztonsági Szakszolgálat és
+d) a Nemzeti Információs Központ.
+2. §
+A polgári nemzetbiztonsági szolgálat hivatásos állománya tagjának (a továbbiakban: hivatásos állomány tagja)
+szolgálati igazolványa (a továbbiakban: szolgálati igazolvány) a polgári nemzetbiztonsági szolgálat hivatásos
+állományába tartozáson túl a hivatásos állomány tagja fegyverviselésre való jogosultságát is igazolja.
+3. § (1) A szolgálati igazolvány a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról
+szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) 18. § (3) bekezdésében meghatározottakon túl tartalmazza
+a) a polgári nemzetbiztonsági szolgálat címerét,
+b) a hivatásos állomány tagja jogosultsági körét vagy állományviszonyának megnevezését,
+c) az igazolvány érvényességi idejét,
+d) az igazolvány kitöltésének dátumát,
+e) az„AZ IGAZOLVÁNY TULAJDONOSA NEMZETBIZTONSÁGI FELADATOT LÁT EL”feliratot, valamint
+f) a gépi kódot.
+(2) A szolgálati igazolvány adattartalmának részletes leírását az 1–4. melléklet határozza meg.
+(3) A hivatásos állomány tagja szolgálati jelvényének (a továbbiakban: szolgálati jelvény) leírását az 5–8. melléklet
+tartalmazza.
+4. § (1) A hivatásos állomány tagját a Hszt. szerinti hivatásos szolgálati jogviszony (a továbbiakban: szolgálati jogviszony)
+létesítésekor az e rendeletben meghatározottak szerint kell szolgálati igazolvánnyal és szolgálati jelvénnyel,
+valamint bőrtokkal ellátni.
+(2) A hivatásos állomány tagja a szolgálati igazolványt és a szolgálati jelvényt írásban, aláírásával igazoltan átveszi,
+amelyek őt szolgálati jogviszonya megszűnésének időpontjáig megilletik.
+5. § (1) A szolgálati igazolvány elkészítéséhez szükséges adatok felvételéről a polgári nemzetbiztonsági szolgálat
+gondoskodik.
+(2) A szolgálati igazolványok és szolgálati jelvények megrendeléséért, elkészíttetéséért, kiadásáért, naprakész
+nyilvántartásáért, visszavonásáért és cseréjéért a polgári nemzetbiztonsági szolgálat felel.
+
+6. § (1) A szolgálati igazolvány megszemélyesítését a Nemzetbiztonsági Szakszolgálat végzi.
+(2) A szolgálati igazolvány kitöltéséhez szükséges adatokat a polgári nemzetbiztonsági szolgálat küldi meg
+a megszemélyesítést végző szerv részére.
+(3) A szolgálati igazolvány első alkalommal történő kiadásával egyidejűleg, valamint az arcképmás, illetve a név
+megváltozása esetén az arcképmás és a saját kezű aláírásminta másolatát a személyi anyagban el kell helyezni.
+(4) A szolgálati igazolvány és a szolgálati jelvény előállításának, valamint az azok tárolására szolgáló bőrtok
+legyártásának költségét a polgári nemzetbiztonsági szolgálat a saját költségvetéséből biztosítja.
+(5) A hivatásos állomány tagját a szolgálati jogviszony létesítésekor térítésmentesen kell ellátni szolgálati jelvénnyel,
+szolgálati igazolvánnyal, valamint bőrtokkal.
+(6) A szolgálati igazolvány érvényességének lejárta esetén a hivatásos állomány tagját térítésmentesen kell ellátni
+szolgálati igazolvánnyal.
+7. § (1) A hivatásos állomány tagja a részére kiadott szolgálati igazolványt köteles jogszerűen és rendeltetésszerűen
+használni.
+(2) A szolgálati igazolvány arra illetéktelen személy számára át nem adható, Magyarország területén kívülre nem vihető.
+(3) A szolgálati igazolvány elvesztését, eltulajdonítását, megrongálódását, megsemmisülését a hivatásos állomány
+tagja a tudomására jutást követően haladéktalanul köteles jelenteni a közvetlen szolgálati elöljárójának és a polgári
+nemzetbiztonsági szolgálat ügyeleti szolgálatának.
+(4) A szolgálati igazolvány elvesztését, eltulajdonítását – a szolgálati igazolvány körözésének elrendelése érdekében –
+a hivatásos állomány tagja a szolgálati igazolvány eltűnésének észlelését követően haladéktalanul köteles
+bejelenteni az általános rendőrségi feladatok ellátására létrehozott szervnek. A hivatásos állomány tagja
+a bejelentésről készült irat másolatát köteles a polgári nemzetbiztonsági szolgálathoz eljuttatni.
+(5) A szolgálati igazolvány elvesztése, eltulajdonítása, megrongálódása, megsemmisülése esetén a polgári
+nemzetbiztonsági szolgálat azonnal intézkedik e ténynek a személyügyi nyilvántartásba történő bejegyzése,
+a szolgálati igazolványhoz kapcsolódó jogosultságok letiltása, valamint a szolgálati igazolvány pótlása iránt.
+(6) Az elveszett, de később megtalált szolgálati igazolványt a hivatásos állomány tagja haladéktalanul köteles leadni
+a polgári nemzetbiztonsági szolgálatnak.
+(7) A szolgálati igazolvány elvesztésének, megsemmisülésének, valamint megrongálódásának körülményeit a polgári
+nemzetbiztonsági szolgálat az esetleges fegyelmi és kártérítési felelősség megállapítása érdekében köteles
+kivizsgálni.
+(8) A szolgálati jelvény használatára, kezelésére az (1)–(7) bekezdésben foglaltakat kell megfelelően alkalmazni.
+8. § (1) A szolgálati igazolvány visszavonásig vagy az azon feltüntetett érvényességi idő lejártáig érvényes.
+(2) A polgári nemzetbiztonsági szolgálat a szolgálati igazolványt
+a) a szolgálati jogviszony megszűnése vagy megszüntetése esetén a szolgálatteljesítés utolsó napján,
+b) a hivatásos állomány olyan tagja esetében, akivel szemben nemzetbiztonsági kockázat feltárására alapozva
+a szolgálati kötelezettség teljesítése, illetve munkavégzés alóli mentesítésre kerül sor, e mentesség kezdő
+napját megelőző napon,
+c) ha elveszett vagy eltulajdonították, majd megkerült, a megkerülését követően haladéktalanul,
+d) ha megrongálódás vagy adatváltozás miatt cserére szorul, a csere napján,
+e) ha az érvényességi idő közelgő lejárata miatt cserére szorul, és az érvényességi idő még nem járt le, a csere
+napján
+visszavonja.
+(3) A hivatásos állomány tagja a szolgálati igazolványát a polgári nemzetbiztonsági szolgálatnak megőrzésre leadja
+a) a beosztásából történő felfüggesztése idejére a felfüggesztés kezdő napján,
+b) a szolgálati jogviszonyának a szüneteltetése idejére az aktív szolgálata utolsó napján.
+(4) A hivatásos állomány felfüggesztett, valamint a szolgálati jogviszonyát szüneteltető tagjának leadott szolgálati
+igazolványát a polgári nemzetbiztonsági szolgálat megőrzi. A felfüggesztést, valamint a szolgálati jogviszony
+szünetelésének megszüntetését követő első munkanapon a polgári nemzetbiztonsági szolgálat visszaadja a leadott
+szolgálati igazolványt a hivatásos állomány tagjának, vagy – ha a megőrzés ideje alatt bekövetkezett adatváltozás
+vagy az érvényességi idő lejárta miatt a szolgálati igazolvány cseréje válik szükségessé – gondoskodik a cseréről.
+
+(5) A szolgálati igazolványt ki kell cserélni, ha az azon feltüntetett adatokban változás következett be, vagy
+megrongálódott. A hivatásos állomány tagja köteles haladéktalanul bejelenteni a polgári nemzetbiztonsági
+szolgálatnak, ha a szolgálati igazolványban szereplő adataiban változás következett be, vagy ha az igazolvány
+megrongálódott. Az adatváltozási bejelentéshez a csere indokát hitelt érdemlően tanúsító dokumentumot
+kell bemutatni.
+(6) A polgári nemzetbiztonsági szolgálat a szolgálati igazolványon feltüntetett érvényességi idő lejártát megelőzően
+gondoskodik a szolgálati igazolvány cseréjéről.
+9. § (1) A szolgálati jelvény visszavonásig érvényes.
+(2) A polgári nemzetbiztonsági szolgálat a szolgálati jelvényt
+a) a szolgálati jogviszony megszűnése vagy megszüntetése esetén a szolgálatteljesítés utolsó napján,
+b) a hivatásos állomány olyan tagja esetében, akivel szemben nemzetbiztonsági kockázat feltárására alapozva
+a szolgálati kötelezettség teljesítése, illetve munkavégzés alóli mentesítésre kerül sor, e mentesség
+kezdő napját megelőző napon,
+c) ha elveszett vagy eltulajdonították, majd megkerült, a megkerülését követően haladéktalanul,
+d) ha megrongálódás miatt cserére szorul, a csere napján
+visszavonja.
+(3) A hivatásos állomány tagja a szolgálati jelvényét a polgári nemzetbiztonsági szolgálatnak megőrzésre leadja
+a) a beosztásából történő felfüggesztése idejére a felfüggesztés kezdő napján,
+b) a szolgálati jogviszonyának szüneteltetése idejére az aktív szolgálata utolsó napján.
+(4) A hivatásos állomány felfüggesztett, valamint a szolgálati jogviszonyát szüneteltető tagjának leadott szolgálati
+jelvényét a polgári nemzetbiztonsági szolgálat megőrzi. A felfüggesztést, valamint a szolgálati jogviszony
+szünetelésének megszüntetését követő első munkanapon a polgári nemzetbiztonsági szolgálat visszaadja
+a leadott szolgálati jelvényt a hivatásos állomány tagjának.
+(5) A szolgálati jelvényt ki kell cserélni, ha az megrongálódott. A hivatásos állomány tagja köteles haladéktalanul
+bejelenteni a polgári nemzetbiztonsági szolgálatnak, ha a szolgálati jelvénye megrongálódott.
+10. §
+Ha a polgári nemzetbiztonsági szolgálat a szolgálati igazolvány és a szolgálati jelvény visszavonására intézkedik,
+a visszavonandó szolgálati igazolványt és szolgálati jelvényt a hivatásos állomány tagja köteles leadni a polgári
+nemzetbiztonsági szolgálat részére.
+11. § (1) A hivatásos állomány azon tagját, akinek a szolgálati jogviszonya nyugállományba helyezésével szűnik meg,
+a szolgálati igazolvány visszavonásával egyidejűleg nyugdíjas-igazolvánnyal kell ellátni.
+(2) A hivatásos állomány tagjának halála esetén a szolgálati igazolványt és a szolgálati jelvényt a polgári
+nemzetbiztonsági szolgálat visszavonja, és azt a hagyaték kezelésére jogosult személytől bekéri. A hagyaték
+kezelésére jogosult személy a visszavonandó szolgálati igazolványt és szolgálati jelvényt köteles leadni a polgári
+nemzetbiztonsági szolgálat részére.
+12. § (1) A polgári nemzetbiztonsági szolgálat az érvényüket vesztett szolgálati igazolványokat és szolgálati jelvényeket
+– a központi személyügyi nyilvántartásnak történő adatszolgáltatást követően – évente selejtezi.
+(2) A selejtezésről jegyzőkönyvet kell felvenni, amelynek adatait a központi személyügyi nyilvántartásban
+kell rögzíteni. A selejtezési jegyzőkönyv egy példányát a selejtezéstől számított tíz évig meg kell őrizni. A központi
+személyügyi nyilvántartásban a szolgálati igazolvány, valamint a szolgálati jelvény visszavonásának okát, a selejtezés
+tényét, a selejtezési jegyzőkönyv nyilvántartási számát és a szolgálati igazolvány adataihoz tartozó tételszámot
+kell rögzíteni.
+(3) A selejtezett szolgálati igazolványok és szolgálati jelvények megsemmisítéséről a polgári nemzetbiztonsági szolgálat
+gondoskodik a polgári nemzetbiztonsági szolgálatnál előírt szabályok szerint.
+13. §
+Ez a rendelet a kihirdetését követő harmadik hónap első napján lép hatályba.
+14. §
+Az e rendelet hatálybalépését megelőzően kiadott szolgálati igazolvány és szolgálati jelvény az azon feltüntetett
+időpontig vagy visszavonásig érvényes.
+
+15. §
+ Hatályát veszti a belügyminiszter irányítása alatt álló fegyveres szervek hivatásos állományú tagjai szolgálati
+igazolványának rendszeresítéséről, kiadásának és nyilvántartásának eljárási rendjéről szóló 14/2012. (III. 30.)
+BM rendelet
+a)
+1. § a) pontjában az „ , az Alkotmányvédelmi Hivatal (a továbbiakban: AH), a Nemzetbiztonsági Szakszolgálat
+(a továbbiakban: NBSZ), valamint a Terrorelhárítási Információs és Bűnügyi Elemző Központ (a továbbiakban:
+TIBEK)” szövegrész,
+b)
+2. § (2) bekezdés b) pontjában az „ , az AH, az NBSZ, valamint a TIBEK” szövegrész,
+c)
+2. § (5) bekezdés g) pontja,
+d)
+3. § (4) bekezdés d) pontja,
+e)
+10. § (5) bekezdése,
+f)
+6., 7. és 9. melléklete.
+16. §
+ Hatályát veszti a belügyminiszter irányítása alatt álló rendvédelmi szervek szolgálati jelvényeinek rendszeresítésével,
+valamint az ilyen szerveknél szolgálati jogviszonyban álló személyek szolgálati jelvénnyel történő ellátásának
+rendjével összefüggő szabályokról szóló 32/2015. (VI. 16.) BM rendelet
+a)
+1. § b) pontjában az „ , az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, valamint a Terrorelhárítási
+Információs és Bűnügyi Elemző Központ” szövegrész,
+b)
+3. § d) pontja,
+c)
+4., 5. és 7. melléklete.
+17. §
+ Hatályát veszti az Információs Hivatalban rendszeresített szolgálati igazolványról és szolgálati jelvényről szóló
+58/2015. (XII. 28.) MvM rendelet.
+
+Rogán Antal s. k.,
+
+Miniszterelnöki Kabinetirodát vezető miniszter
+1. melléklet a 13/2023. (VI. 14.) MK rendelethez
+Az Alkotmányvédelmi Hivatal hivatásos állományú tagjai szolgálati igazolványának leírása
+
+1. Az igazolvány felépítése:
+1.1.
+Az igazolvány az ISO 7810 (1995) szabványnak megfelelő, ID-1 méretű, világoskék színű címsorban sötétkék
+felirattal ellátott többrétegű műanyag kártyaigazolvány.
+1.2.
+Az első oldalon holografikus biztonsági elem található.
+
+2. Az igazolvány első oldalának adattartalma:
+2.1.
+az Alkotmányvédelmi Hivatal címere,
+2.2.
+az „ALKOTMÁNYVÉDELMI HIVATAL” felirat,
+2.3.
+a „FEGYVERVISELÉSRE JOGOSULT” felirat,
+2.4.
+az állományviszony megnevezése,
+2.5.
+arcképmás,
+2.6.
+név,
+2.7.
+rendfokozat megnevezése.
+
+3. Az igazolvány hátoldalának adattartalma:
+3.1.
+az „ÉRVÉNYES:” felirat, mellette az érvényesség ideje,
+3.2.
+sorszám,
+3.3.
+a „SAJÁT KEZŰ ALÁÍRÁS” felirat, alatta a saját kezű aláírásminta digitalizált képe,
+3.4.
+az „AZ IGAZOLVÁNY TULAJDONOSA NEMZETBIZTONSÁGI FELADATOT LÁT EL” felirat,
+3.5.
+a „KITÖLTÉS DÁTUMA:” felirat, alatta a megszemélyesítés dátuma,
+3.6.
+az igazolvány alsó harmadán elhelyezkedő gépi kód.
+
+2. melléklet a 13/2023. (VI. 14.) MK rendelethez
+Az Információs Hivatal hivatásos állományú tagjai szolgálati igazolványának leírása
+1. Az igazolvány felépítése:
+1.1. Az igazolvány az ISO 7810 (1995) szabványnak megfelelő, ID-1 méretű, világoskék színű címsorban
+sötétkék felirattal ellátott többrétegű műanyag kártyaigazolvány.
+1.2. Az első oldalon holografikus biztonsági elem található.
+2. Az igazolvány első oldalának adattartalma:
+ 2.1. Magyarország címere és mellette a„MAGYARORSZÁG”felirat,
+ 2.2. az Információs Hivatal címere,
+ 2.3. az„INFORMÁCIÓS HIVATAL”felirat,
+ 2.4. az állományviszony megnevezése,
+ 2.5. arcképmás,
+ 2.6. név,
+ 2.7. rendfokozati jelző rövidítése, rendfokozat megnevezése,
+ 2.8. sorszám,
+ 2.9. az„ÉRVÉNYES:”felirat,
+2.10. az érvényesség ideje,
+2.11. a hivatásos állomány vezetői beosztású tagjai esetében a jobb alsó sarokban kb. 5 mm széles, negyed körívű,
+piros színű, hullámos szalagot formázó sáv.
+3. Az igazolvány hátoldalának adattartalma:
+3.1. sorozatszám,
+3.2. a„SAJÁT KEZŰ ALÁÍRÁS:”felirat, alatta a saját kezű aláírásminta digitalizált képe,
+3.3. az„AZ IGAZOLVÁNY TULAJDONOSA NEMZETBIZTONSÁGI FELADATOT LÁT EL”felirat,
+3.4. a„FEGYVERVISELÉSRE JOGOSULT”felirat,
+3.5. az„A TALÁLT IGAZOLVÁNYT A RENDŐRSÉGNEK ÁT KELL ADNI!”felirat,
+3.6. a„KITÖLTÉS DÁTUMA:”felirat, alatta a megszemélyesítés dátuma,
+3.7. az igazolvány alsó harmadán elhelyezkedő gépi kód.
+3. melléklet a 13/2023. (VI. 14.) MK rendelethez
+A Nemzetbiztonsági Szakszolgálat hivatásos állományú tagjai szolgálati igazolványának leírása
+1. Az igazolvány felépítése:
+1.1. Az igazolvány az ISO 7810 (1995) szabványnak megfelelő, ID-1 méretű, világosbarna színű címsorban bordó
+felirattal ellátott többrétegű műanyag kártyaigazolvány.
+1.2. Az első oldalon holografikus biztonsági elem található.
+2. Az igazolvány első oldalának adattartalma:
+2.1. a Nemzetbiztonsági Szakszolgálat címere,
+2.2. a„NEMZETBIZTONSÁGI SZAKSZOLGÁLAT”felirat,
+2.3. a„FEGYVERVISELÉSRE JOGOSULT”felirat,
+2.4. az állományviszony megnevezése,
+2.5. arcképmás,
+2.6. név,
+2.7. rendfokozat megnevezése.
+3. Az igazolvány hátoldalának adattartalma:
+3.1. az„ÉRVÉNYES:”felirat, mellette az érvényesség ideje,
+3.2. sorszám,
+3.3. a„SAJÁT KEZŰ ALÁÍRÁS:”felirat, alatta a saját kezű aláírásminta digitalizált képe,
+3.4. az„AZ IGAZOLVÁNY TULAJDONOSA NEMZETBIZTONSÁGI FELADATOT LÁT EL”felirat,
+3.5. a„KITÖLTÉS DÁTUMA:”felirat, alatta a megszemélyesítés dátuma,
+3.6. az igazolvány alsó harmadán elhelyezkedő gépi kód.
+
+4. melléklet a 13/2023. (VI. 14.) MK rendelethez
+A Nemzeti Információs Központ hivatásos állományú tagjai szolgálati igazolványának leírása
+1. Az igazolvány felépítése:
+1.1. Az igazolvány az ISO 7810 (1995) szabványnak megfelelő, ID-1 méretű, középbarna színű címsorban
+sötétbarna felirattal ellátott többrétegű műanyag kártyaigazolvány.
+1.2. Az első oldalon holografikus biztonsági elem található.
+2. Az igazolvány első oldalának adattartalma:
+2.1. a Nemzeti Információs Központ címere,
+2.2. a„NEMZETI INFORMÁCIÓS KÖZPONT”felirat,
+2.3. a„FEGYVERVISELÉSRE JOGOSULT”felirat,
+2.4. az állományviszony megnevezése,
+2.5. arcképmás,
+2.6. név,
+2.7. rendfokozat megnevezése.
+3. Az igazolvány hátoldalának adattartalma:
+3.1. az„ÉRVÉNYES:”felirat, mellette az érvényesség ideje,
+3.2. sorszám,
+3.3. a„SAJÁT KEZŰ ALÁÍRÁS:”felirat, alatta a saját kezű aláírásminta digitalizált képe,
+3.4. az„AZ IGAZOLVÁNY TULAJDONOSA NEMZETBIZTONSÁGI FELADATOT LÁT EL”felirat,
+3.5. a„KITÖLTÉS DÁTUMA:”felirat, alatta a megszemélyesítés dátuma,
+3.6. az igazolvány alsó harmadán elhelyezkedő gépi kód.
+5. melléklet a 13/2023. (VI. 14.) MK rendelethez
+Az Alkotmányvédelmi Hivatal hivatásos állományú tagjai szolgálati jelvényének leírása
+1. A szolgálati igazolvány bőrtokjának felső részében található plakett vastartalmú ötvözött lemezből sajtoló
+fémnyomással készül. A plakett fémlemez széle vékonyodó, lekerekített. A plakett felszínét szürkés-feketés fémes
+hatású bevonat borítja. A plakett optikailag két elkülöníthető részből, egy körből és a kör mögött található pajzsból
+áll. A pajzs alapvetően keskenyebb a körnél, annak alsó és felső széle azonban kilóg a logót tartalmazó kör alól.
+A pajzs felső íve enyhébb, az alsó szélét a pajzs szélességével azonos átlójú körív zárja.
+2. A plakett látható részének mérete ennél csekély mértékben kisebb, a dombornyomott lemez a látható felület felé
+kúposodik.
+3. A plakett alsó részét záró körív bal és jobb oldalán szimmetrikus, zöld színű tölgyfalevél ékítmények láthatók,
+amelyek az igazolványszámot fogják közre. A pajzs legalsó részében apró, szabályos négylevelű lóherén két,
+egymásra helyezett villás végződésű zászlószalag díszítőelem található.
+4. A kör felső ívén körfeliratban a szolgálat megalakulásának évszáma, alsó ívén megnevezése látható, a jelvény
+középpontjában egy kiterjesztett szárnyú turulmadár található, amely csőrében István-kardot, karmai között pedig
+lovagi pajzsot és „A haza minden előtt!” feliratú szalagot tart. A lovagi pajzs 4/3 osztású, egymást váltó fehér és
+piros színű sávozással.
+
+6. melléklet a 13/2023. (VI. 14.) MK rendelethez
+Az Információs Hivatal hivatásos állományú tagjai szolgálati jelvényének leírása
+1. A szolgálati jelvény optikailag két elkülöníthető részből, egy körből és a kör mögött található pajzsból áll.
+A pajzs keskenyebb a kör átmérőjénél, annak alsó és felső széle azonban kilóg a kör alól. A pajzs alsó szélét
+a pajzs szélességével azonos, felső ívét nagyobb átlójú körív zárja.
+2. A pajzs felső ívén „MAGYARORSZÁG” felirat olvasható. A pajzs alsó körívében, annak közepéből balra és jobbra
+kiterjedő, szimmetrikus, zöld színű tölgyfalomb ékítmények láthatók, amelyek a szolgálati igazolvány számának
+megfelelő, aranyszínű számsort fogják közre. A pajzs legalsó részében apró, szabályos négylevelű lóherén két,
+egymásra helyezett villás végződésű zászlószalag díszítőelem található.
+3. A kör felső ívén „INFORMÁCIÓS HIVATAL” körfelirat, a jelvény középpontjában egy kiterjesztett szárnyú turulmadár
+található, amely csőrében István-kardot, karmai között pedig lovagi pajzsot és „A haza minden előtt!” feliratú
+szalagot tart. A lovagi pajzs 4/4 osztású, egymást váltó piros és ezüst/fehér színű sávozással.
+7. melléklet a 13/2023. (VI. 14.) MK rendelethez
+A Nemzetbiztonsági Szakszolgálat hivatásos állományú tagjai szolgálati jelvényének leírása
+1. A szolgálati jelvény ezüst/szürke színű, köriratában a szolgálat megnevezését és a megalakulásának
+dátumát tartalmazza.
+2. Középen jobboldalra néző, kiterjesztett szárnyú turulmadár, amely csőrében István-kardot, karmai között
+pedig lovagi pajzsot és „Fortes fortuna adiuvat” feliratú szalagot tart. A lovagi pajzs 4/4 osztású, egymást váltó
+piros és ezüst/fehér színű sávozással. A jelvény felső harmada a jelvény sorszámát tartalmazza.
+8. melléklet a 13/2023. (VI. 14.) MK rendelethez
+A Nemzeti Információs Központ hivatásos állományú tagjai szolgálati jelvényének leírása
+1. A szolgálati igazolvány bőrtokjának kihajtható részében található kör alakú, domborított plakett réztartalmú
+ötvözött lemezből sajtoló fémnyomással készül. A fémlemez széle enyhén lekerekített. A felszínén aranyszínű
+kontúrok látszanak, amelyek között a színezett felületeket zománc alkotja.
+2. A plakett a Nemzeti Információs Központ címerét ábrázolja. A címerben szereplő sólyom lábai alatt stilizált szalag
+látható, amelyen gravírozott jelvényszám szerepel.
