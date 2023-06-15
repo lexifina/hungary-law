@@ -4,19 +4,29 @@
 
 (2) Magyarország konzuli tisztviselője a diplomáciai vagy konzuli képviseleten a miniszter megbízása alapján konzuli feladatot ellátó személy. Konzuli tisztviselőnek minősül a hivatásos konzuli tisztviselő és a tiszteletbeli konzuli tisztviselő.
 
-(2a) Hivatásos konzuli tisztviselőnek a külpolitikáért felelős miniszter által vezetett minisztériummal (a továbbiakban: a minisztérium) kormányzati szolgálati jogviszonyban álló azon kormánytisztviselő nevezhető ki, aki
+(2a) Hivatásos konzuli tisztviselőnek a külpolitikáért felelős miniszter által vezetett minisztériummal (a továbbiakban: minisztérium) kormányzati szolgálati jogviszonyban álló azon kormánytisztviselő nevezhető ki, aki
 
-a) közigazgatási alapvizsgával rendelkezik vagy az alól jogszabály alapján mentesült, és legalább kétévi közigazgatási gyakorlattal rendelkezik, amelyből legalább három hónap szakmai gyakorlatot szerzett a minisztérium konzuli ügyekben illetékes főosztályán, vagy
+a) közigazgatási alapvizsgával rendelkezik vagy az alól jogszabály alapján mentesül,
 
-b) jogi szakvizsgával vagy közigazgatási szakvizsgával, illetve jogszabály alapján ezzel egyenértékű vizsgával rendelkezik, és legalább egy hónap szakmai gyakorlatot szerzett a minisztérium konzuli ügyekben illetékes főosztályán, és
+b) a minisztérium konzuli ügyekért felelős főosztályán legalább
 
-a konzuli szakmai tanfolyamon való részvételt követően sikeres konzuli szakmai vizsgát tett.
+ba) két hónap szakmai gyakorlatot szerzett, amennyiben első alkalommal kerül tartós külszolgálatra konzuli feladatkört magában foglaló beosztott diplomata külszolgálati munkakörbe – konzulként – külszolgálati kihelyezésre, vagy
 
-(2b) Konzuli szakmai vizsgára a minisztérium diplomáciai ranggal rendelkező munkatársa bocsátható. A jelöltnek a konzuli szakmai vizsga során a minisztérium és az igazságügyért felelős miniszter vezetése alatt álló minisztérium képviselőjéből álló vizsgabizottság előtt számot kell adnia a konzuli tevékenységgel kapcsolatos magyar és nemzetközi jogi háttérre vonatkozó, normatív utasításban meghatározott ismereteiről.
+bb) – a (2i) bekezdés kivételével – egy hónap szakmai gyakorlatot szerzett, amennyiben nem első alkalommal kerül konzuli feladatkört magában foglaló beosztott diplomata külszolgálati munkakörbe – konzulként – tartós külszolgálatra kihelyezésre, és
 
-(2c) A konzuli tisztviselő konzuli feladatainak ellátásában – ideértve a hatósági tevékenységet is – a miniszter által felhatalmazott, a diplomáciai vagy hivatásos konzuli képviseleten igazgatási munkakörben eljáró személy közreműködik.
+c) a konzuli szakmai tanfolyamot magában foglaló felkészítő képzésen való részvételt követően sikeres konzuli szakvizsgát tett.
 
-(2d) Diplomáciai vagy hivatásos konzuli képviseleten a konzuli tisztviselő munkájában igazgatási munkakörben való közreműködésre a minisztériummal kormányzati szolgálati jogviszonyban álló azon kormánytisztviselő nevezhető ki, aki közigazgatási alapvizsgával rendelkezik vagy az alól jogszabály alapján mentesült és legalább kétévi közigazgatási gyakorlattal rendelkezik, amelyből legalább egy hónap szakmai gyakorlatot szerzett a minisztérium konzuli ügyekben illetékes főosztályán, továbbá a konzuli szakmai tanfolyamon való részvételt követően sikeres konzuli ügyintézői vizsgát tett.
+(2b) Konzuli szakvizsgára a minisztérium diplomáciai ranggal rendelkező munkatársa bocsátható. A jelöltnek a – konzuli szakvizsga részét képező – konzuli vizsga során a minisztérium és az igazságügyért felelős miniszter vezetése alatt álló minisztérium képviselőjéből álló vizsgabizottság előtt számot kell adnia a konzuli tevékenységgel kapcsolatos magyar és nemzetközi jogi háttérre vonatkozó, normatív utasításban meghatározott ismereteiről.
+
+(2c) Diplomáciai vagy hivatásos konzuli képviseleten a konzuli tisztviselő feladatainak ellátásában – ideértve a hatósági tevékenységet is – való közreműködésre igazgatási munkakörben eljáró személyként (konzuli ügyintéző) a minisztériummal kormányzati szolgálati jogviszonyban álló azon kormánytisztviselő nevezhető ki, aki
+
+a) közigazgatási alapvizsgával rendelkezik vagy az alól jogszabály alapján mentesül,
+
+b) legalább egy hónap szakmai gyakorlatot szerzett a minisztérium konzuli ügyekért felelős főosztályán, és
+
+c) a konzuli szakmai tanfolyamot magában foglaló felkészítő képzésen való részvételt követően sikeres konzuli ügyintézői szakvizsgát tett.
+
+(2d)
 
 (2e) Diplomáciai vagy hivatásos konzuli képviseleten a konzuli tisztviselő munkájában igazgatási munkakörben való közreműködéssel a külképviseletekről és a tartós külszolgálatról szóló törvényben meghatározott külképviselet által foglalkoztatott munkavállalóként, illetve külképviselet által foglalkoztatott házastársként olyan személy bízható meg, aki
 
@@ -32,9 +42,15 @@ e) jogszabályban meghatározott típusú és szintű nyelvismerettel rendelkezi
 
 f) legalább egy hónap szakmai gyakorlatot követően, a munkakörének ellátásához szükséges konzuli ismeretekből sikeres vizsgát tett.
 
-(2f) A (2a) bekezdés szerinti konzuli szakmai vizsgát, illetve a (2d) és (2e) bekezdések szerinti konzuli ügyintézői vizsgát minden tartós külszolgálat, illetve konzuli feladatok ellátásában közreműködő munkakörben való foglalkoztatás megkezdése előtt teljesíteni kell, kivéve, ha a kormánytisztviselő, külképviselet által foglalkoztatott házastárs illetve külképviselet által foglalkoztatott munkavállaló az újabb kirendelés vagy foglalkoztatás napját megelőző egy éven belül legalább hat hónapos időtartamban a vizsga típusának megfelelő konzuli feladatokat látott el.
+(2f) A (2a) bekezdés c) pontja szerinti konzuli szakvizsgát, illetve a (2c) bekezdés c) pontja szerinti konzuli ügyintézői szakvizsgát minden konzuli vagy konzuli ügyintézői feladatkört magában foglaló tartós külszolgálati munkakörbe tartós külszolgálat teljesítése céljából történő kihelyezés előtt teljesíteni kell, kivéve ha a kormánytisztviselő a kihelyezés napját megelőző egy éven belül eredményes konzuli szakvizsgát vagy konzuli ügyintézői szakvizsgát tett.
 
-(2g) A konzuli munkát érintő joganyagban történt lényeges változás esetén a miniszter – a konzuli tisztviselőként vagy a konzuli feladatokban közreműködő munkatársként való további foglalkoztatás feltételeként – az adott részanyagból kötelező jelleggel, kiegészítő vizsga letételét rendelheti el.
+(2g) A (2a) bekezdés c) pontja szerinti konzuli szakvizsgát, illetve a (2c) bekezdés c) pontja szerinti konzuli ügyintézői szakvizsgát minden konzuli vagy konzuli ügyintézői feladatok ellátására történő ideiglenes külföldi kiküldetés előtt teljesíteni kell, kivéve ha az ideiglenes külföldi kiküldetésre a minisztérium konzuli ügyekért felelős főosztályának személyi állományából kerül sor, és a kormánytisztviselő a kiküldetés időpontját megelőző öt éven belül – a kiküldetés keretében ellátandó feladatkörtől függően – eredményes konzuli vagy konzuli ügyintézői szakvizsgát tett.
+
+(2h) A (2e) bekezdés f) pontja szerinti konzuli ügyintézői vizsgát minden, külképviselet által foglalkoztatott munkavállalóként, valamint külképviselet által foglalkoztatott házastársként történő foglalkoztatás előtt teljesíteni kell.
+
+(2i) Ha a kormánytisztviselő előző kihelyezése az újabb kihelyezés napját megelőző egy éven belül szűnt meg és az előző kihelyezés során konzuli vagy konzuli ügyintézői (rész)munkakört látott el, a kormánytisztviselőnek az újabb kihelyezés előtt a konzuli szakmai tanfolyamot magában foglaló felkészítő képzésen való részvételt követően konzuli vagy konzuli ügyintézői szakvizsgát kell tennie, azonban a minisztérium konzuli ügyekért felelős főosztályán nem kell szakmai gyakorlatot szereznie.
+
+(2j) A konzuli munkát érintő joganyagban történt lényeges változás esetén a miniszter – a konzuli tisztviselőként vagy a konzuli feladatokban közreműködő konzuli ügyintézőként való további foglalkoztatás feltételeként – az adott részanyagból kötelező jelleggel kiegészítő vizsga letételét rendelheti el.
 
 (3) A miniszter tiszteletbeli konzuli tisztviselőnek a fogadó vagy harmadik állam azon állampolgárát vagy a fogadó államban élő azt a magyar állampolgárt nevezheti ki, aki a magyar jog és a fogadó állam joga szerint is büntetlen előéletű, külön rendeletben meghatározott feltételek szerint alkalmas az e tisztséggel járó feladatok teljesítésére, és írásban vállalja azok ellátását. A tiszteletbeli konzuli tisztviselőt a miniszter jogszabályban meghatározott korlátozásokkal és terjedelemben bízhatja meg konzuli feladatok ellátásával.
 

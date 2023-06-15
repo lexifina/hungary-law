@@ -26,4 +26,4 @@ b) munkakörhöz tartozó konzuli feladatok;
 
 c) konzuli feladatok ellátásához szükséges jogosultságok, azok gyakorolhatóságának kezdő és befejező időpontja.
 
-(4) A konzuli szolgálat a (2)–(3) bekezdésben meghatározott adatokat a 2. § (2a) és a 2. § (2d) bekezdésben meghatározott szakmai gyakorlat megkezdésének időpontjától kezeli.
+(4) A konzuli szolgálat a (2)–(3) bekezdésben meghatározott adatokat a 2. § (2a) és (2c) bekezdésében meghatározott szakmai gyakorlat megkezdésének időpontjától kezeli.

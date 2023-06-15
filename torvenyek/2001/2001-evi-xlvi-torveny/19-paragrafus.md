@@ -20,7 +20,7 @@ d) okirat, pénz és egyéb érték megőrzésre való átvétele (konzuli leté
 
 (6) A konzuli tisztviselő, azokban az állampolgársági és közigazgatási hatósági eljárásokban, melyekben közreműködőként vesz részt, jogosult a hatóság által kiállított elektronikus közokiratról papíralapú hiteles másolatot kiállítani.
 
-(7) Ha közigazgatási hatósági ügyben első fokon a konzuli tisztviselő jár el, a fellebbezés elbírálására a miniszter jogosult.
+(7)
 
 (8) A konzuli tisztviselő a közigazgatási hatósági eljárásokban kizárólag a jogszabályoknak, valamint a vonatkozó nemzetközi jogi szabályoknak van alávetve, hatósági eljárása során és hatósági döntéseinek tartalmával összefüggésben – a feladat elvégzésére vagy mulasztás pótlására irányuló utasítás kivételével – nem utasítható.
 
