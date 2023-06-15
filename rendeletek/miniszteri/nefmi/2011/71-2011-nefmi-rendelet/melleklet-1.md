@@ -1,8 +1,6 @@
-## 6. § Ez a rendelet 2012. január 1-jén lép hatályba.
-
 1. melléklet a 71/2011. (XII. 23.) NEFMI rendelethez
 
-## A fogászati beavatkozások kódlistája
+A fogászati beavatkozások kódlistája
 
 I. Vizsgálatok, dokumentációk
 
@@ -156,17 +154,17 @@ IV. Érzéstelenítés, gyógyszerrendelés
 
 ## Elszámolható: a terminális vagy felületi érzéstelenítés foganként, a fog jelölésével, a vezetéses érzéstelenítés kvadránsonként, a kvadráns jelölésével.
 
-V. Megtartó fogászat
+V.[^5] Megtartó fogászat
 
 ## (konzerváló és endodoncia)
 
-## FA 098 Gyökérkezelés
+## TA 098 Gyökérkezelés
 
 ## Gyökércsatorna tisztítása, tágítása, gyógyszeres átöblítése, ideiglenes gyógyszeres zárása.
 
 ## Elszámolható: foganként, a fog jelölésével.
 
-## TA 100 Amalgám tömés készítése maradó fogban, egy felszínen
+## FA 100 Amalgám tömés készítése maradó fogban, egy felszínen
 
 ## Amalgám tömés készítése egy fogfelszínre kiterjedően, beleértve az alábélelést és a külön ülésben végzett polírozást is. Az egészségügyi szolgáltató egyéves jótállást köteles vállalni: adott fogfelszínen egy éven belül újabb tömés, inlay, onlay készítése, fogkorona felépítése gyári csappal nem számolható el.
 
@@ -176,7 +174,7 @@ V. Megtartó fogászat
 
 ## Nem elszámolható, ha időkorláton belül volt adott fogfelszínen: TA 100, TA 101, TA 102, TA 103, TE 105, TA 109 kód.
 
-## TA 101 Amalgám tömés készítése maradó fogban, több felszínen
+## FA 101 Amalgám tömés készítése maradó fogban, több felszínen
 
 ## Amalgám tömés készítése több fogfelszínre kiterjedően, beleértve az alábélelést és a külön ülésben végzett polírozást is. Az egészségügyi szolgáltató egyéves jótállást köteles vállalni: adott fogfelszíneken egy éven belül újabb tömés, inlay, onlay készítése, fogkorona felépítése gyári csappal nem számolható el.
 
@@ -250,7 +248,7 @@ V. Megtartó fogászat
 
 ## Elszámolható: gyökércsatornánként a kezelés megkezdésekor, a fog jelölésével, évente egyszer.
 
-## FA 112 Ideiglenes tömés készítése
+## TA 222 Ideiglenes tömés készítése
 
 ## A végleges ellátás akadálya esetén készített tömés.
 
@@ -344,7 +342,7 @@ VI. Szájbetegségek és parodontológia
 
 ## Elszámolható: foganként, a fog jelölésével.
 
-VII. Dentoalveoláris sebészet
+VII.[^6] Dentoalveoláris sebészet
 
 ## TB 127 Műtéti utókezelés (kontroll, sebkezelés, csíkcsere, varratszedés, átöblítés)
 
@@ -372,7 +370,7 @@ VII. Dentoalveoláris sebészet
 
 ## Együtt nem elszámolható: TA 135 kóddal.
 
-## Együtt nem elszámolhatóak ugyanazon fogra a fogeltávolítással egy ülésben, valamint azt követően a TA 100, TA 101, TA 102, TA 103, TA 104, TA 105, TA 107, TA 116, TA 109, TA 110, TA 114, TB 113, TB 114, TB 115, TA 120, TA 121, TB 126, TB 132, TB 141, TB 142, TA 148, TB 152, TA 171, TA 172, TA 161, TA 162, TA 164, TA 167, TA 190, TA 192, TA 193, TA 194, TA 197, TA 198 kódok.
+## Együtt nem elszámolhatóak ugyanazon fogra a fogeltávolítással egy ülésben, valamint azt követően a TA 100, TA 101, TA 102, TA 103, TA 104, TE 105, TA 107, TA 116, TA 109, TA 110, TA 114, TB 113, TB 114, TB 115, TA 120, TA 121, TB 126, TB 132, TB 141, TB 142, TA 148, TB 152, TA 171, TA 172, TA 161, TA 162, TA 164, TA 167, TA 190, TA 192, TA 193, TA 194, TA 197, TA 198 kódok.
 
 ## TB 131 Fogeltávolítás feltárással
 
@@ -382,7 +380,7 @@ VII. Dentoalveoláris sebészet
 
 ## Együtt nem elszámolható: TA 135 kóddal.
 
-## Együtt nem elszámolhatóak ugyanazon fogra a fogeltávolítással egy ülésben, valamint azt követően a TA 100, TA 101, TA 102, TA 103, TA 104, TA 105, TA 107, TA 116, TA 109, TA 110, TA 114, TB 113, TB 114, TB 115, TA 120, TA 121, TB 126, TA 130, TB 131, TB 132, TB 141, TB 142, TA 148, TB 152, TA 171, TA 172, TA 161, TA 162, TA 164, TA 167, TA 190, TA 192, TA 193, TA 194, TA 197, TA 198 kódok.
+## Együtt nem elszámolhatóak ugyanazon fogra a fogeltávolítással egy ülésben, valamint azt követően a TA 100, TA 101, TA 102, TA 103, TA 104, TE 105, TA 107, TA 116, TA 109, TA 110, TA 114, TB 113, TB 114, TB 115, TA 120, TA 121, TB 126, TA 130, TB 131, TB 132, TB 141, TB 142, TA 148, TB 152, TA 171, TA 172, TA 161, TA 162, TA 164, TA 167, TA 190, TA 192, TA 193, TA 194, TA 197, TA 198 kódok.
 
 ## TB 132 Retineált vagy impaktált fog eltávolítása
 
@@ -392,7 +390,7 @@ VII. Dentoalveoláris sebészet
 
 ## Együtt nem elszámolható: TA 135 kóddal.
 
-## Együtt nem elszámolhatóak ugyanazon fogra a fogeltávolítással egy ülésben, valamint azt követően a TA 100, TA 101, TA 102, TA 103, TA 104, TA 105, TA 107, TA 116, TA 109, TA 110, TA 114, TB 113, TB 114, TB 115, TA 120, TA 121, TB 126, TA 130, TB 131, TB 132, TB 141, TB 142, TA 148, TB 152, TA 171, TA 172, TA 161, TA 162, TA 164, TA 167, TA 190, TA 192, TA 193, TA 194, TA 197, TA 198 kódok.
+## Együtt nem elszámolhatóak ugyanazon fogra a fogeltávolítással egy ülésben, valamint azt követően a TA 100, TA 101, TA 102, TA 103, TA 104, TE 105, TA 107, TA 116, TA 109, TA 110, TA 114, TB 113, TB 114, TB 115, TA 120, TA 121, TB 126, TA 130, TB 131, TB 132, TB 141, TB 142, TA 148, TB 152, TA 171, TA 172, TA 161, TA 162, TA 164, TA 167, TA 190, TA 192, TA 193, TA 194, TA 197, TA 198 kódok.
 
 ## TA 135 Alveolus excochleatio sebellátással
 
@@ -544,21 +542,21 @@ VII. Dentoalveoláris sebészet
 
 ## Elszámolható: a szájsebészeti fekvőbeteg ellátásra kijelölt ellátóhelyen.
 
-VIII. Fogpótlás
+VIII.[^7] Fogpótlás
 
-## FA 156 Teljes lemezes fogpótlás készítéséhez anatómiai lenyomatvétel
+## TA 223 Teljes lemezes fogpótlás készítéséhez anatómiai lenyomatvétel
 
 ## A teljes foghiány pótlásához anatómiai lenyomatvétel.
 
 ## Elszámolható: állcsontonként, az állcsont jelölésével.
 
-## FA 157 Teljes lemezes fogpótlás készítéséhez funkciós lenyomatvétel
+## TA 157 Teljes lemezes fogpótlás készítéséhez funkciós lenyomatvétel
 
 ## A teljes foghiány pótlásához funkciós lenyomatvétel.
 
 ## Elszámolható: állcsontonként, az állcsont jelölésével.
 
-## FA 158 Részleges lemezes fogpótlás készítéséhez lenyomatvétel
+## TA 158 Részleges lemezes fogpótlás készítéséhez lenyomatvétel
 
 ## Részleges foghiány pótlásához lenyomatvétel.
 
@@ -720,7 +718,7 @@ VIII. Fogpótlás
 
 ## Elszámolható: állcsontonként, az állcsont jelölésével, a kötelező egészségbiztosítás keretében ellátásra jogosult biztosítottaknál.
 
-IX. Gyermek-, iskolai és ifjúsági fogászat
+IX.[^8] Gyermek-, iskolai és ifjúsági fogászat
 
 ## TA 187 Helyi fluoridálás, segédeszköz nélkül
 
@@ -795,3 +793,8 @@ IX. Gyermek-, iskolai és ifjúsági fogászat
 ## Elszámolható: alkalmanként egyszer, diagnózisonként, legfeljebb háromszor.
 
 X. Fogszabályozási szolgáltatások
+
+[^5]: Az 1. melléklet V. pontja a 16/2023. (VI. 14.) BM rendelet 8. §-a szerint módosított szöveg.
+[^6]: Az 1. melléklet VII. pontja a 16/2023. (VI. 14.) BM rendelet 8. §-a szerint módosított szöveg.
+[^7]: Az 1. melléklet VIII. pontja a 16/2023. (VI. 14.) BM rendelet 8. §-a szerint módosított szöveg.
+[^8]: [Nem vezethető át a 16/2023. (VI. 14.) BM rendelet 8. §-ában foglalt azon módosítás, amely szerint az 1. melléklet IX. pont „TA 197 Tejfogtömés – egy felszínen” megjelölésű részében az „Elszámolható: foganként” szövegrész helyébe az „Elszámolható: tejfoganként” szöveg lép.]
