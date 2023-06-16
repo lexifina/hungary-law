@@ -1,16 +1,16 @@
 A Kormány
 
-1. egyetért az alábbi fejlesztéseknek a Pannónia Szíve és a Velencei-tó területfejlesztéséért felelős miniszterelnöki biztos közreműködése mellett, 2022. december 31. napjáig történő megvalósításával:
+1.[^1] egyetért az alábbi fejlesztéseknek a Pannónia Szíve és a Velencei-tó területfejlesztéséért felelős miniszterelnöki biztos közreműködése mellett, 2023. december 31. napjáig történő megvalósításával:
 
 a) a „Velencei-tavi partfal komplex fenntartható rehabilitációja” projekt kapcsán felmerülő, rendezett tóhasználat feltételeinek megteremtése, valamint a Velencei-tavi csónakkikötők vendégmólóinak újjáépítése (Gárdony, Velence, Sukoró),
 
-b)[^1] a közforgalmú hajóállomások korszerűsítése (Agárd, Gárdony, Pákozd, Velence, Sukoró);
+b)[^2] a közforgalmú hajóállomások korszerűsítése (Agárd, Gárdony, Pákozd, Velence, Sukoró);
 
 2. felhívja a pénzügyminisztert, hogy gondoskodjon a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XLVII. Gazdaságvédelmi Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 5. Gazdaságvédelmet szolgáló pénzügyi fejezeti kezelésű előirányzatok alcím, 2. Területfejlesztési feladatok jogcímcsoport javára
 
 a) az 1. pont a) alpontjában meghatározott fejlesztés megvalósítása érdekében 506 047 186 forint,
 
-b) az 1. pont b) alpontjában meghatározott cél érdekében 275 737 800 forint
+b)[^3] az 1. pont b) alpontjában meghatározott cél érdekében 285 141 207 forint
 
 forrás biztosításáról;
 
@@ -38,4 +38,6 @@ Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 Határidő: 2021. szeptember 1.
 
-[^1]: Az 1. pont b) alpontja az 1953/2021. (XII. 22.) Korm. határozat 12. pontja szerint módosított szöveg.
+[^1]: Az 1. pont nyitó szövegrésze az 1232/2023. (VI. 16.) Korm. határozat 6. pont a) pontja szerint módosított szöveg.
+[^2]: Az 1. pont b) alpontja az 1953/2021. (XII. 22.) Korm. határozat 12. pontja szerint módosított szöveg.
+[^3]: A 2. pont b) alpontja az 1232/2023. (VI. 16.) Korm. határozat 6. pont b) pontja szerint módosított szöveg.
