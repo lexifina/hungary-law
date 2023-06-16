@@ -1,1 +1,0 @@
-A házasságról, a családról és a gyámságról szóló 1952. évi IV. törvényt módosító 1986. évi IV. törvény 39. §-a (1) bekezdésének b) pontjában, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 162. §-ának (3) bekezdésében foglalt felhatalmazás alapján a következőket rendelem el:
