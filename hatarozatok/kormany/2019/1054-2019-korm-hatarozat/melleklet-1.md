@@ -4,7 +4,7 @@
 
 ## 3. egyetért azzal, hogy a Beruházás előkészítésének megvalósítója, valamint a Beruházás megvalósítója – a Beruházással érintett ingatlanok tulajdonosaként és fenntartójaként – Kecskemét Megyei Jogú Város Önkormányzata legyen;
 
-## 4.[^1] a Beruházásnak a Beruházás Előkészítési Alap felhasználásáról szóló 233/2018. (XII. 6.) Korm. rendelet (a továbbiakban: Rendelet) 2. § (2) bekezdés a), n), o) és p) pontja szerinti előkészítési fázisaira – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – a 2019. és a 2020. évben összesen 239 800 000 forint forrást biztosít azzal, hogy az előkészítési fázisokat legkésőbb 2023. március 31. napjáig kell megvalósítani;
+## 4.[^1] a Beruházásnak a Beruházás Előkészítési Alap felhasználásáról szóló 233/2018. (XII. 6.) Korm. rendelet (a továbbiakban: Rendelet) 2. § (2) bekezdés a), n), o) és p) pontja szerinti előkészítési fázisaira – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – a 2019. és a 2020. évben összesen 239 800 000 forint forrást biztosít azzal, hogy az előkészítési fázisokat legkésőbb 2024. július 31. napjáig kell megvalósítani;
 
 ## 5.[^2]
 
@@ -32,7 +32,7 @@
 
 1. melléklet az 1054/2019. (II. 21.) Korm. határozathoz[^6]
 
-[^1]: A 4. pont az 1939/2020. (XII. 17.) Korm. határozat 1. pont a) alpontja, az 1302/2022. (VI. 22.) Korm. határozat 9. pontja szerint módosított szöveg.
+[^1]: A 4. pont az 1939/2020. (XII. 17.) Korm. határozat 1. pont a) alpontja, az 1231/2023. (VI. 16.) Korm. határozat 1. pontja szerint módosított szöveg.
 [^2]: Az 5. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
 [^3]: A 6. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
 [^4]: A 9. pont a) alpontját az 1302/2022. (VI. 22.) Korm. határozat 10. pontja visszavonta.

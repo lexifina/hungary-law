@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-1054-30
 | 2020-12-17 | 2019-1054-30-22.2 | 1939/2020. (XII. 17.) Korm. határozat |
 | 2022-06-22 | 2019-1054-30-22.3 | 1939/2020. (XII. 17.) Korm. határozat |
 | 2023-01-01 | 2019-1054-30-22.5 | 2011: CXCV. törvény |
+| 2023-06-16 | 2019-1054-30-22.4 | 1939/2020. (XII. 17.) Korm. határozat |
