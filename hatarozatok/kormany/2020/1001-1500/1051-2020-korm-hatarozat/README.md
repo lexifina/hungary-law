@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1051-30
 | --- | --- | --- |
 | 2020-02-19 | 2020-1051-30-22.1 | 1051/2020. (II. 19.) Korm. határozat |
 | 2022-06-22 | 2020-1051-30-22.2 | 1302/2022. (VI. 22.) Korm. határozat |
+| 2023-06-16 | 2020-1051-30-22.3 | 1232/2023. (VI. 16.) Korm. határozat |

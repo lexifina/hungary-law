@@ -20,7 +20,7 @@
 
 ## Felelős: külgazdasági és külügyminiszter
 
-## Határidő: 2023. június 1.
+## Határidő: 2024. március 31.
 
 ## 6. felhívja a pénzügyminiszert, hogy – a külgazdasági és külügyminiszter bevonásával – gondoskodjon a 4. pont szerinti előkészítési fázisokra vonatkozóan 345 000 000 forint biztosításáról a 2021. évre a XVIII. Külgazdasági és Külügyminisztérium fejezet javára;
 
@@ -39,6 +39,8 @@
 ## Határidő: a Beruházás megvalósítását célzó feltételes közbeszerzési eljárást követően
 
 1. melléklet az 1051/2020. (II. 19.) Korm. határozathoz
+
+0X00904_0
 
 | XV. Pénzügyminisztérium |
 
@@ -102,4 +104,4 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
-[^1]: Az 5. pont az 1302/2022. (VI. 22.) Korm. határozat 13. pontja szerint módosított szöveg.
+[^1]: Az 5. pont az 1232/2023. (VI. 16.) Korm. határozat 4. pontja szerint módosított szöveg.
