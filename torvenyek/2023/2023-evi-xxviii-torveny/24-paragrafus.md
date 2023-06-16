@@ -11,15 +11,3 @@
 (5) Az 5. § (3) bekezdése 2024. július 1-jén lép hatályba.
 
 (6) Az 5. § (6) bekezdése, a 21. § és a 22. § 2025. január 1-jén lép hatályba.
-
-|
-
-Novák Katalin s. k.,
-
-köztársasági elnök
-
-|
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
