@@ -8,7 +8,7 @@ a) a fenntartó az általa fenntartott középiskolában az Arany János Tehets�
 
 b) a fenntartó az általa fenntartott középiskolai kollégiumban vagy többcélú szakképző intézmény kollégiumi intézményegységében a 9/AJTP és a 9–12. évfolyamon az Arany János Tehetséggondozó Programban részt vevő tanulók után 420 000 Ft/fő/év
 
-## programtámogatásra jogosult.
+programtámogatásra jogosult.
 
 (3)[^2] Az AJTP programtámogatás a miniszter által kiadott és közzétett az Arany János Tehetséggondozó Program kerettantervében és a kollégiumi nevelés országos alapprogramjában foglaltak szerint az Arany János Tehetséggondozó Programot megvalósító köznevelési intézmények számára meghatározott, a 9/AJTP és a 9–12. évfolyam vonatkozásában rögzített többlettevékenységek költségeire használható fel az (1) és (2) bekezdésben, valamint az 1. mellékletben foglalt feltételek szerint.
 

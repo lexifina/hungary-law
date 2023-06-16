@@ -14,7 +14,7 @@
 
 (7)[^17] A miniszter a felhívásban meghatározott feltételeknek megfelelő támogatási igény alapján az AJTP programtámogatás és az AJKP programtámogatás mértékéről a rendelkezésre álló forrásra tekintettel az 1. § (2) bekezdésében és a 2. § (2) bekezdésében meghatározott keretek között dönt.
 
-(8)[^18] A miniszter döntését írásban, papíralapon közli a pályázóval a tárgyév május 31-éig.
+(8)[^18] A miniszter döntését írásban, elektronikus úton közli a pályázóval a tárgyév május 31-éig.
 
 (9)[^19] Az AJTP programtámogatást és az AJKP programtámogatást elnyert intézmények vonatkozásában a miniszter támogatási szerződést köt a programban való részvétel feltételeiről.
 
@@ -26,6 +26,6 @@
 [^15]: A 12. § (5) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 203. § b) pontja szerint módosított szöveg.
 [^16]: A 12. § (6) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 203. § b) pontja szerint módosított szöveg.
 [^17]: A 12. § (7) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 203. § c) pontja szerint módosított szöveg.
-[^18]: A 12. § (8) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 203. § c) pontja szerint módosított szöveg.
+[^18]: A 12. § (8) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 203. § c) pontja, a 212/2023. (VI. 1.) Korm. rendelet 12. §-a szerint módosított szöveg.
 [^19]: A 12. § (9) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 203. § b) pontja szerint módosított szöveg.
 [^20]: A 12. § (10) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 203. § b) pontja szerint módosított szöveg.
