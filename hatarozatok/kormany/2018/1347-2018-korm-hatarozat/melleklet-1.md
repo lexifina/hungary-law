@@ -54,11 +54,11 @@
 
 ## e) egyetért azzal, hogy a pénzügyminiszter
 
-## ea)[^2] a Tarján–Bajót–(Péliföldszentkereszt) kerékpárút nyomvonal tervezéséhez, engedélyeztetéséhez és a kapcsolódó ingatlanvásárláshoz 118 000 000 forint,
+## ea)[^2] a Tarján–Bajót–(Péliföldszentkereszt) kerékpárút nyomvonal tervezéséhez, engedélyeztetéséhez és a kapcsolódó ingatlanvásárláshoz 119 262 011 forint,
 
 ## eb)[^3] a megvalósult Etyek–Bicske–Csabdi–Tarján közötti kerékpárút és a Szent László-patak kivitelezés előtt álló mederrendezéséhez csatlakozó gyalogút megvalósításához 70 000 000 forint,
 
-## ec)[^4] az 1-es főút átkelési szakaszán közlekedésbiztonsági szempontból szükséges további kerékpárút építésére 325 000 000 forint,
+## ec)[^4] az 1-es főút átkelési szakaszán közlekedésbiztonsági szempontból szükséges további kerékpárút építésére 314 334 582 forint,
 
 ## ed) az Etyek újhegyi alsó út burkolásához és eszközbeszerzéshez 166 000 000 forint,
 
@@ -273,9 +273,9 @@
 1. melléklet az 1347/2018. (VII. 26.) Korm. határozathoz
 
 [^1]: Az 1. pont b) alpontja az 1104/2019. (III. 8.) Korm. határozat 9. pontja, az 1263/2019. (V. 7.) Korm. határozat 8. pontja, az 1343/2019. (VI. 11.) Korm. határozat 3. pontja, az 1432/2019. (VII. 26.) Korm. határozat 4. pontja, az 1528/2019. (IX. 17.) Korm. határozat 8. pontja, az 1591/2019. (X. 16.) Korm. határozat 3. pontja, az 1619/2019. (X. 28.) Korm. határozat 2. pontja, az 1668/2019. (XI. 28.) Korm. határozat 9. pontja, az 1755/2019. (XII. 20.) Korm. határozat 6. pontja szerint módosított szöveg.
-[^2]: A 2. pont e) alpont ea) pontja az 1207/2019. (IV. 18.) Korm. határozat 9. pontja, az 1348/2020. (VI. 30.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^2]: A 2. pont e) alpont ea) pontja az 1207/2019. (IV. 18.) Korm. határozat 9. pontja, az 1232/2023. (VI. 16.) Korm. határozat 2. pont a) pontja szerint módosított szöveg.
 [^3]: A 2. pont e) pont eb) alpontja az 1348/2020. (VI. 30.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
-[^4]: A 2. pont e) pont ec) alpontja az 1348/2020. (VI. 30.) Korm. határozat 2. pont c) alpontja szerint módosított szöveg.
+[^4]: A 2. pont e) pont ec) alpontja az 1232/2023. (VI. 16.) Korm. határozat 2. pont b) pontja szerint módosított szöveg.
 [^5]: A 7. pontot az 1099/2020. (III. 12.) Korm. határozat 3. pont b) alpontja visszavonta.
 [^6]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^7]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
