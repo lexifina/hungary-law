@@ -38,7 +38,7 @@
 
 ## Felelős: külgazdasági és külügyminiszter
 
-## Határidő: 2023. június 1.
+## Határidő: 2024. március 31.
 
 ## d) az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 1 850 632 626 forint egyszeri átcsoportosítását rendeli el, a 4. melléklet szerint;
 
@@ -59,5 +59,5 @@
 1. melléklet az 1021/2021. (II. 2.) Korm. határozathoz
 
 [^1]: Az 1. pont a) alpontja az 1953/2021. (XII. 22.) Korm. határozat 10. pontja szerint módosított szöveg.
-[^2]: Az 1. pont c) alpontja az 1302/2022. (VI. 22.) Korm. határozat 19. pontja szerint módosított szöveg.
+[^2]: Az 1. pont c) pontja az 1232/2023. (VI. 16.) Korm. határozat 7. pontja szerint módosított szöveg.
 [^3]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
