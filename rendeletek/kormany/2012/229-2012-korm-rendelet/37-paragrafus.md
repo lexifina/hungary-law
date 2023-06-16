@@ -8,10 +8,10 @@
 
 (4)[^110] Az egyházi köznevelési intézmény és a magán köznevelési intézmény, ha a tanuló alapfokú művészetoktatásban vesz részt, beiratkozáskor köteles beszerezni a tanuló, kiskorú tanuló esetén a szülő írásbeli nyilatkozatát azzal összefüggésben, hogy meg lehessen állapítani, hogy a tanuló az érintett képzést ingyenesen, térítési díj vagy tandíj megfizetése mellett jogosult igénybe venni.
 
-(5)[^111] Az egyházi, a magán, illetve a nemzetiségi önkormányzati fenntartású óvodai feladatot ellátó köznevelési intézmény beiratkozáskor köteles beszerezni a szülő írásbeli nyilatkozatát arról, hogy a gyermek első alkalommal veszi igénybe az óvodai nevelést.
+(5)[^111]
 
 [^107]: A 16. alcím címe a 297/2013. (VII. 29.) Korm. rendelet 81. § e) pontja szerint módosított szöveg.
 [^108]: A 37. § (1) bekezdése a 73/2013. (III. 8.) Korm. rendelet 29. § n) pontja, a 297/2013. (VII. 29.) Korm. rendelet 81. § e)–f) pontja, a 307/2017. (X. 27.) Korm. rendelet 9. § 3. pontja szerint módosított szöveg.
 [^109]: A 37. § (3) bekezdése a 297/2013. (VII. 29.) Korm. rendelet 81. § e) pontja szerint módosított szöveg.
 [^110]: A 37. § (4) bekezdését a 353/2013. (X. 4.) Korm. rendelet 1. §-a iktatta be, szövege a 102/2016. (V. 13.) Korm. rendelet 8. § k) pontja szerint módosított szöveg.
-[^111]: A 37. § (5) bekezdését a 3/2015. (I. 28.) Korm. rendelet 1. §-a iktatta be.
+[^111]: A 37. § (5) bekezdését a 3/2015. (I. 28.) Korm. rendelet 1. §-a iktatta be, a 212/2023. (VI. 1.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.

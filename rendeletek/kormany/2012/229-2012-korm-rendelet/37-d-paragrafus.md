@@ -12,7 +12,7 @@ gyermekek, tanulók létszáma alapján, a 37/C. § (2) bekezdése szerinti adat
 
 a) a képviseletére jogosult személy közjegyzői aláírás-hitelesítéssel ellátott aláírási címpéldányát – az (5) bekezdés kivételével –, adószámát, valamennyi fizetési számlája bankszámlaszerződésének hiteles másolatát, több fizetési számla esetén annak a fizetési számlának a megjelölésével, amelyre a támogatások folyósítását kéri,
 
-b)[^143] a köznevelési intézmény nyilvántartásba vételéről szóló végleges határozatot, költségvetési szerv esetén a törzskönyvi bejegyzésről szóló határozatot, a végleges működési engedélyt, alapító okiratot, fizetési számlaszámot, adószámot,
+b)[^143] alapító okiratot, fizetési számlaszámot, adószámot,
 
 c) valamennyi fizetési számlájára vonatkozó felhatalmazó nyilatkozatát beszedési megbízás benyújtására,
 
@@ -31,7 +31,7 @@ f) pedagógiai szakszolgálati feladat ellátása esetén a miniszterrel kötöt
 [^140]: A 37/D. § (1) bekezdése a 278/2019. (XI. 21.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^141]: A 37/D. § (2) bekezdése a 3/2015. (I. 28.) Korm. rendelet 5. § (1) bekezdésével megállapított, nyitó szövegrésze a 790/2021. (XII. 27.) Korm. rendelet 20. § 1. pontja szerint módosított szöveg.
 [^142]: A 37/D. § (2) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 402. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^143]: A 37/D. § (3) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 402. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^143]: A 37/D. § (3) bekezdés b) pontja a 212/2023. (VI. 1.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
 [^144]: A 37/D. § (3) bekezdés e) pontját a 13/2020. (II. 7.) Korm. rendelet 74. § (2) bekezdés 2. pontja hatályon kívül helyezte, újonnan a 65/2021. (II. 15.) Korm. rendelet 18. §-a iktatta be.
 [^145]: A 37/D. § (5) bekezdése a 3/2015. (I. 28.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 393/2017. (XII. 13.) Korm. rendelet 49. § b) pontja szerint módosított szöveg.
 [^146]: A 37/D. § (6) bekezdését a 196/2019. (VIII. 1.) Korm. rendelet 8. § c) pontja hatályon kívül helyezte.

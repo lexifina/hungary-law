@@ -53,3 +53,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-229-20-
 | 2022-01-01 | 2012-229-20-22.45 | 790/2021. (XII. 27.) Korm. rendelet |
 | 2022-07-01 | 2012-229-20-22.46 | 73/2013. (III. 8.) Korm. rendelet |
 | 2023-01-01 | 2012-229-20-22.47 | 616/2022. (XII. 29.) Korm. rendelet |
+| 2023-06-16 | 2012-229-20-22.48 | 3/2015. (I. 28.) Korm. rendelet |
