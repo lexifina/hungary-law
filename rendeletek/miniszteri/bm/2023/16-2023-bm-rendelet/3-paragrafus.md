@@ -1,5 +1,5 @@
 ## 2. A háziorvosi, házi gyermekorvosi és fogorvosi tevékenységről szóló 4/2000. (II. 25.) EüM rendelet módosítása
 
-3. § A háziorvosi, házi gyermekorvosi és fogorvosi tevékenységről szóló 4/2000. (II. 25.) EüM rendelet (a továbbiakban: EüM r.) 4. § (2) bekezdés e) pontja helyébe a következő rendelkezés lép:
+3. §[^4]
 
-(A háziorvos feladatkörébe tartozik továbbá:)
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

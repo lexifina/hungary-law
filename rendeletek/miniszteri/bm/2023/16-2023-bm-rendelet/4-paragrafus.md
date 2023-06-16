@@ -1,5 +1,3 @@
-## „e) a háziorvosi, házi gyermekorvosi ügyelet működtetőjével kötött szerződésben rögzítettek szerint az ügyeleti szolgálatban való, az egészségügyi ellátás folyamatos működtetésének egyes szervezési kérdéseiről szóló miniszteri rendeletben meghatározottak szerinti részvétel,”
+4. §[^5]
 
-## (ellátása.)
-
-4. § Hatályát veszti az EüM r. 13. § (10) bekezdés b) pontja.
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
