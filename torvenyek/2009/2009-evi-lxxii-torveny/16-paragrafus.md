@@ -6,7 +6,7 @@
 
 (2b) A megelőző távoltartás elrendelésével egyidejűleg – a bántalmazott erre irányuló kérelmére – a bíróság védelmi tanúsítványt állít ki.
 
-(3) A bíróság a határozatát a meghallgatás alkalmával közli a felekkel, azt nekik átadja. Ha a meghallgatáson a bántalmazó nem jelent meg, a bíróság – szükség esetén faxon vagy elektronikus úton – a rendőrség útján intézkedik a kézbesítésről. A rendőrség köteles a határozat kézbesítéséről gondoskodni és a kézbesítés megtörténtéről a bíróságot haladéktalanul tájékoztatni.
+(3) A bíróság a határozatát a meghallgatás alkalmával közli a felekkel, azt nekik átadja. Ha a meghallgatáson a bántalmazó nem jelent meg, a bíróság – szükség esetén elektronikus úton – a rendőrség útján intézkedik a kézbesítésről. A rendőrség köteles a határozat kézbesítéséről gondoskodni és a kézbesítés megtörténtéről a bíróságot haladéktalanul tájékoztatni.
 
 (3a) A bíróság a bántalmazottal a védelmi tanúsítványt, a bántalmazóval a védelmi tanúsítványról szóló, a 606/2013/EU rendelet 8. cikkének (1) bekezdése szerinti értesítést a (3) bekezdésben foglaltak szerint közli.
 

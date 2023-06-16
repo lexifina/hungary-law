@@ -1,4 +1,4 @@
-15. § (1) Az eljárás során a bíróság a felek személyes meghallgatását legalább egyszer köteles megkísérelni. A személyes meghallgatásra szóló idézés kézbesítése iránt a bíróság – szükség esetén faxon vagy elektronikus úton – a rendőrséget is megkeresheti. Szabályszerű az idézés, ha a fél a meghallgatásról igazolhatóan értesült.
+15. § (1) Az eljárás során a bíróság a felek személyes meghallgatását legalább egyszer köteles megkísérelni. A személyes meghallgatásra szóló idézés kézbesítése iránt a bíróság – szükség esetén elektronikus úton – a rendőrséget is megkeresheti. Szabályszerű az idézés, ha a fél a meghallgatásról igazolhatóan értesült.
 
 (2) Hivatalból indult eljárásban a döntéshozatalnak nem akadálya, ha a meghallgatáson személyesen egyik fél sem jelenik meg.
 

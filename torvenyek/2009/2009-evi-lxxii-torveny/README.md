@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-72-00-00
 | 2015-01-11 | 2014. évi LXXIII. törvény | 2009-72-00-00.6 |
 | 2018-01-01 | 2017. évi L. törvény | 2009-72-00-00.7 |
 | 2020-01-01 | 2019. évi CXII. törvény | 2009-72-00-00.8 |
+| 2023-06-16 | 2023. évi XXVIII. törvény | 2009-72-00-00.9 |

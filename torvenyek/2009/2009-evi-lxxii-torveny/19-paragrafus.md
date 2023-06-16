@@ -1,3 +1,3 @@
 ## Módosuló jogszabályok
 
-19–23. §
+### 19. §
