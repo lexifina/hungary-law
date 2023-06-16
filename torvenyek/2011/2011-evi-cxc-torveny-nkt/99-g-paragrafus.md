@@ -1,3 +1,1 @@
-99/G. § (1) A tankerületi központ által fenntartott, települési önkormányzat által működtetett köznevelési intézmény 76. §-ban meghatározott működtetésével kapcsolatos jogviszonyokból származó jogok és kötelezettségek a tankerületi központot 2017. január 1-jétől illetik meg, illetve terhelik.
-
-(2) 2017. január 1-jével a tankerületi központ foglalkoztatotti állományába kerülnek a működtető önkormányzat által irányított költségvetési szervnél a tankerületi központ által fenntartott köznevelési intézmény működtetését és a működtetéshez kapcsolódó funkcionális feladatokat ellátó köztisztviselők, közalkalmazottak, munkavállalók, ha – a munkaviszonyban foglalkoztatottak kivételével – megfelelnek a 2016. december 31-én betöltött munkakörükre vonatkozóan a közszolgálati tisztviselőkről szóló törvényben, a közalkalmazottak jogállásáról szóló törvényben és végrehajtási rendeleteikben meghatározott képesítési előírásoknak.
+### 99/G. §
