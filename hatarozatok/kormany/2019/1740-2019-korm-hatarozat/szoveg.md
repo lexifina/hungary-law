@@ -1,6 +1,6 @@
 A Kormány
 
-1. egyetért azzal, hogy Válon a műemlék Ürményi–Dreher-kastély és a hozzá tartozó park, valamint a korábbi történeti állapotnak megfelelő ingatlanegyüttes hasznosítása a kastélypark eredeti állapotának minél teljesebb mértékű helyreállítására és felújítására irányuló alábbi fejlesztések ütemezetten, 2025-ig megvalósuljanak:
+1.[^1] egyetért azzal, hogy Válon a műemlék Ürményi–Dreher-kastély és a hozzá tartozó park, valamint a korábbi történeti állapotnak megfelelő ingatlanegyüttes hasznosítása a kastélypark eredeti állapotának minél teljesebb mértékű helyreállítására és felújítására irányuló alábbi fejlesztések megvalósuljanak:
 
 a) az Ürményi–Dreher-kastély és kertjének rekonstrukciója, funkcióbővítő átalakítása,
 
@@ -14,7 +14,7 @@ e) a Nagypince vendéglátási, turisztikai és kulturális célú hasznosítás
 
 2. egyetért a Vereb–Vál–Gyúró–Etyek új úthálózati elem létesítésének szükségességével, azzal, hogy a fejlesztést 2026-ig szükséges megvalósítani;
 
-3. egyetért azzal, hogy az 1. és 2. pont szerinti fejlesztések előkészítését a Velencei-tó és Térsége, Váli-völgy, Vértes Térségi Fejlesztési Tanács valósítsa meg, Vál Község Önkormányzatával, valamint a kormányzati magasépítési beruházásként megvalósítandó beruházások esetében a nemzeti vagyon kezeléséért felelős tárca nélküli miniszterrel együttműködve;
+3.[^2] egyetért azzal, hogy az 1. és 2. pont szerinti fejlesztések előkészítését a Velencei-tó és Térsége, Váli-völgy, Vértes Térségi Fejlesztési Tanács valósítsa meg, Vál Község Önkormányzatával, valamint a kormányzati magasépítési beruházásként megvalósítandó beruházások esetében az építési és közlekedési miniszterrel együttműködve;
 
 4. felhívja a pénzügyminisztert, hogy gondoskodjon az 1. és 2. pont szerinti fejlesztések előkészítéséhez – a kifizetésekhez kapcsolódó kincstári díjakkal együtt – szükséges 1 412 476 000 forint biztosításáról a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XV. Pénzügyminisztérium fejezet, 25. Fejezeti kezelésű előirányzatok cím, 4. Területfejlesztési feladatok alcím, 3. Területfejlesztéssel összefüggő feladatok jogcímcsoport javára, az alábbi ütemezéssel:
 
@@ -26,7 +26,7 @@ Felelős: pénzügyminiszter
 
 Határidő: a 2020. évi központi költségvetés végrehajtása során, az a) és b) alpont szerinti ütemezéssel
 
-5.[^1] felhívja a pénzügyminisztert, hogy a 4. pont alapján biztosított forrás terhére létesítsen támogatási jogviszonyt a Velencei-tó és Térsége, Váli-völgy, Vértes Térségi Fejlesztési Tanáccsal, azzal, hogy az előkészítési feladatokat 2022. október 30-ig szükséges megvalósítani;
+5.[^3] felhívja a pénzügyminisztert, hogy a 4. pont alapján biztosított forrás terhére létesítsen támogatási jogviszonyt a Velencei-tó és Térsége, Váli-völgy, Vértes Térségi Fejlesztési Tanáccsal, azzal, hogy az előkészítési feladatokat 2024. december 31-ig szükséges megvalósítani;
 
 Felelős: pénzügyminiszter
 
@@ -56,4 +56,6 @@ pénzügyminiszter
 
 Határidő: a 2. pont szerinti fejlesztés 4. pont eredményeként történő előkészítését követően
 
-[^1]: Az 5. pont az 1736/2021. (X. 14.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^1]: Az 1. pont nyitó szövegrésze az 1232/2023. (VI. 16.) Korm. határozat 8. pontja szerint módosított szöveg.
+[^2]: A 3. pont az 1232/2023. (VI. 16.) Korm. határozat 3. pont a) pontja szerint módosított szöveg.
+[^3]: Az 5. pont az 1232/2023. (VI. 16.) Korm. határozat 3. pont b) pontja szerint módosított szöveg.
