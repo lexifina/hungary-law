@@ -20,7 +20,7 @@
 
 ## Felelős: külgazdasági és külügyminiszter
 
-## Határidő: 2023. június 1.
+## Határidő: 2024. március 31.
 
 ## 6. felhívja a pénzügyminiszert, hogy – a külgazdasági és külügyminiszter bevonásával – gondoskodjon a Beruházás előkészítési költségeihez a 2021. évben szükséges 119 130 000 forint biztosításáról a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény (a továbbiakban: Kvtv.2.) 1. melléklet XLVII. Gazdaságvédelmi Alap, 1. Központi kezelésű előirányzatok cím, 2. Beruházás Előkészítési Alap jogcímcsoport terhére, a Kvtv.2. 1. melléklet XVIII. Külgazdasági és Külügyminisztérium fejezet, 2. Külképviseletek igazgatása cím javára, elszámolási és a fel nem használt, valamint a nem rendeltetésszerűen felhasznált rész tekintetében visszafizetési kötelezettséggel;
 
@@ -39,6 +39,8 @@
 ## Határidő: a Beruházás megvalósítását célzó feltételes közbeszerzési eljárást követően azonnal
 
 1. melléklet az 1665/2020. (X. 15.) Korm. határozathoz
+
+0X07086_0
 
 | XV. Pénzügyminisztérium XVIII. Külgazdasági és Külügyminisztérium ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA Költségvetési év: 2020. forintban |
 
@@ -90,4 +92,4 @@
 
 * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
 
-[^1]: Az 5. pont az 1302/2022. (VI. 22.) Korm. határozat 17. pontja szerint módosított szöveg.
+[^1]: Az 5. pont az 1232/2023. (VI. 16.) Korm. határozat 5. pontja szerint módosított szöveg.
