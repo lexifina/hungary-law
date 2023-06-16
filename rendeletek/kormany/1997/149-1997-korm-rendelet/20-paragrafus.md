@@ -6,10 +6,13 @@
 
 (3) A gyámhivatal a kérelem előterjesztését követően személyesen meghallgatja a Gyvt. 128. §-ában meghatározott személyeket és a vita eldöntése céljából
 
-a) felajánlja a 30/A. § (2) bekezdés a) pontja szerinti, vagy
+a)[^87] felajánlja a 30/A. § (3) bekezdés a) pontja szerinti, vagy
 
-b) a gyermek érdekében – a szülői felügyeletet gyakorló szülő és a gyermekétől különélő szülő közötti megfelelő együttműködés kialakítása céljából – elrendeli a 30/A. § (2) bekezdés b) pontja szerinti
+b)[^88] a gyermek érdekében – a szülői felügyeletet gyakorló szülő és a gyermekétől különélő szülő közötti megfelelő együttműködés kialakítása céljából – elrendeli a 30/A. § (3) bekezdés b) pontja szerinti
 
 közvetítői eljárás igénybevételét.
 
 (4) A közvetítői eljárás kérelemre vagy hivatalból történő igénybevétele esetén a 30/A–30/D. §-t kell alkalmazni.
+
+[^87]: A 20. § (3) bekezdés a) pontja a 212/2023. (VI. 1.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^88]: A 20. § (3) bekezdés b) pontja a 212/2023. (VI. 1.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.

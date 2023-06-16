@@ -72,3 +72,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-149-20-
 | 2022-08-01 | 1997-149-20-22.89 | 208/2022. (VI. 14.) Korm. rendelet |
 | 2023-01-01 | 1997-149-20-22.91 | 629/2022. (XII. 30.) Korm. rendelet |
 | 2023-03-07 | 1997-149-20-22.90 | 564/2021. (X. 4.) Korm. rendelet |
+| 2023-06-16 | 1997-149-20-22.92 | 212/2023. (VI. 1.) Korm. rendelet |

@@ -1,8 +1,7 @@
-## 69/A. §[^563] Ha a kérelmező kérelmében nem igazolja
+69/A. §[^571] Ha a kérelmező kérelmében nem csatolja a 69. § (4) bekezdésében meghatározott mellékleteket, a gyámhivatal az adat beszerzése érdekében megkeresi a 69. § (4) bekezdés
 
-a)[^564]
+a) b) pontja esetén a bíróságot,
 
-b) a 69. § (4) bekezdés c) pontja szerinti adatot, a gyámhivatal az adat beszerzése érdekében megkeresi a tanulói és hallgatói nyilvántartást vezető szervet.
+b) c) pontja esetén a tanulói és hallgatói nyilvántartást vezető szervet.
 
-[^563]: A 69/A. §-t a 173/2009. (VIII. 29.) Korm. rendelet 25. §-a iktatta be. E módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^564]: A 69/A. § a) pontját a 354/2021. (VI. 24.) Korm. rendelet 3. § b) pontja hatályon kívül helyezte.
+[^571]: A 69/A. §-t a 173/2009. (VIII. 29.) Korm. rendelet 25. §-a iktatta be, szövege a 212/2023. (VI. 1.) Korm. rendelet 3. § (9) bekezdésével megállapított szöveg.

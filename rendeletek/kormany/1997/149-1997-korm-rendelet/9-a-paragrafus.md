@@ -1,4 +1,4 @@
-## Gyámhatósági vélemény az elítélt kiskorú gyermekének védelmében[^37]
+## Gyámhatósági vélemény az elítélt kiskorú gyermekének védelmében[^38]
 
 9/A. § (1) A gyámhivatal a büntetés-végrehajtási intézettől a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény (a továbbiakban: Bv. tv.) 188. § (2a) bekezdés c) pontja alapján érkezett megkeresésre 30 napon belül – kivételesen soron kívül, ha a beszámításra figyelemmel a feltételes szabadságra bocsátás esedékes – elkészíti és megküldi a véleményét az elítélt kiskorú gyermekével kapcsolatban.
 
@@ -40,4 +40,4 @@ g) a kiskorú gyermek hazavárja-e az elítéltet,
 
 h) – az alapul szolgáló körülmények megjelölésével – felmerülhet-e a gyermek védelme érdekében az elítélttel szemben – a pártfogó felügyelet külön magatartási szabályaként – távoltartás elrendelésének szükségessége, vagy felmerült-e más, a gyermekkel összefüggő, a feltételes szabadságra bocsátást befolyásoló körülmény.
 
-[^37]: A „Gyámhatósági vélemény az elítélt kiskorú gyermekének védelmében” alcímet (9/A. §) a 10/2021. (I. 20.) Korm. rendelet 1. §-a iktatta be.
+[^38]: A „Gyámhatósági vélemény az elítélt kiskorú gyermekének védelmében” alcímet (9/A. §) a 10/2021. (I. 20.) Korm. rendelet 1. §-a iktatta be.

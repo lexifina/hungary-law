@@ -1,4 +1,4 @@
-124. §[^952] (1) A fiatal felnőtt az utógondozói ellátásra irányuló kérelméhez csatolja
+124. §[^959] (1) A fiatal felnőtt az utógondozói ellátásra irányuló kérelméhez csatolja
 
 a) jövedelemnyilatkozatát az azt alátámasztó igazolásokkal együtt, vagy igazolást az álláskeresőként való nyilvántartásba vételéről,
 
@@ -10,4 +10,7 @@ d) az ellátást biztosító nevelőszülő és működtetője együttes, a gyer
 
 (2) A befogadás megtagadása esetén a gyámhivatal kikérheti az intézmény érdekképviseleti fórumának véleményét.
 
-[^952]: A 124. § a 97/2013. (III. 29.) Korm. rendelet 46. §-ával megállapított szöveg.
+(3)[^960] Ha a fiatal felnőtt nem csatolja, a gyámhivatal gondoskodik az (1) bekezdés b)–d) pontja szerinti mellékletek beszerzéséről.
+
+[^959]: A 124. § a 97/2013. (III. 29.) Korm. rendelet 46. §-ával megállapított szöveg.
+[^960]: A 124. § (3) bekezdését a 212/2023. (VI. 1.) Korm. rendelet 3. § (11) bekezdése iktatta be.
