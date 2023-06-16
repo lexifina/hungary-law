@@ -84,7 +84,7 @@ ea) az a) pont af) alpont szerinti adatokat,
 
 eb) a települési önkormányzat(ok) befizetéseit,
 
-ec) az ea) alpontban foglalt rendelkezéstől függetlenül is, a 6. § (5) bekezdésének rendelkezése alapján a szülő, illetőleg a gyermek lakóhelyét, levelezési címét.
+ec) az ea) alpontban foglalt rendelkezéstől függetlenül is, a szülő, illetőleg a gyermek lakóhelyét, levelezési címét.
 
 (15) Az életkezdési letéti számlán nyilvántartott összeget a kiutaló a Start-számlára annak megnyitásától számított 8 munkanapon belül vezeti át.
 

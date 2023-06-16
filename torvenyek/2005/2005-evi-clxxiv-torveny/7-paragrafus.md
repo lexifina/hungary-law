@@ -18,9 +18,9 @@ af) a gyermek jogosultságának bármely okból történő megszűnésének napj
 
 a jóváírás évét megelőző naptári évre vonatkozóan a Központi Statisztikai Hivatal által hivatalosan közzétett éves átlagos fogyasztói árindex százalékos mértékével megegyező kamat, negatív éves fogyasztói árindex esetén nullaszázalékos kamat alapján a nyilvántartott követelés utolsó fordulónapjától számított időszakban meghatározott átlagos állománya után számított támogatást,
 
-b) a területi gyermekvédelmi szakszolgálat által a naptári évet követő év február első munkanapjáig megküldött – a nevelés naptári évben fennálló időtartamára vonatkozó adatszolgáltatást is tartalmazó – értesítés alapján a jogosultság időszakával arányosan az igénylés kézhezvételétől, de legkorábban a benyújtási határidő lejártától számított 30 naptári napon belül évi 24 ezer forint támogatást,
+b) a nevelés naptári évben fennálló időtartamával arányosan a 6. § (5) bekezdésében meghatározott határidőn belül évi 24 ezer forint támogatást,
 
-c) a tárgyévben legalább hat hónapig Magyarországon nevelésbe vett és az adatszolgáltatás napján is nevelés alatt álló, 2005. december 31-ét követően született gyermek javára a kiutaló a területi gyermekvédelmi szakszolgálat adatszolgáltatása alapján (1) bekezdés b) pontja szerinti támogatáson felül további 24 ezer forint támogatást
+c) a tárgyévben legalább hat hónapi Magyarországon nevelésbe vett és a tárgyévet követő év február 1-jén is nevelés alatt álló, 2005. december 31-ét követően született gyermek javára a b) pont szerinti támogatáson felül további 24 ezer forint támogatást
 
 ír jóvá.
 
@@ -56,7 +56,7 @@ c) a kincstár a Start-számla megnyitásáról a kiutalót 10 napon belül táj
 
 a) a kiutaló – kivéve a (9) bekezdésben szabályozott esetet – a támogatásnak a 7. § (1) bekezdés b) pontja szerinti jóváírását követő 8 munkanapon belül a kérelemben megjelölt módon kifizeti;
 
-b) a számlavezető – kivéve a (10) bekezdésben szabályozott esetet – a támogatásnak a 6. § (4) bekezdése szerinti kiutalását követő 8 munkanapon belül készpénzben vagy a kérelemben megjelölt folyószámlára utalással, a magyarországi lakcímmel nem rendelkező jogosult esetében kizárólag átutalással fizeti ki.
+b) a számlavezető – kivéve a (10) bekezdésben szabályozott esetet – a támogatásnak a 6. § (5) bekezdése szerinti kiutalását követő 8 munkanapon belül készpénzben vagy a kérelemben megjelölt folyószámlára utalással, a magyarországi lakcímmel nem rendelkező jogosult esetében kizárólag átutalással fizeti ki.
 
 (9) A kiutaló a (8) bekezdésben említetteket megillető összeget az örökös kérelmének és a jogerős magyar nyelvű öröklési bizonyítvány vagy a magyar nyelvű hagyatéki határozat – feltéve, ha az a nemzetközi magánjog szabályai szerint Magyarországon joghatást fejt ki – eredeti vagy hiteles másolati példányának kézhezvételétől, valamint az örökös személyazonosságának igazolását követő 8 munkanapon belül
 
