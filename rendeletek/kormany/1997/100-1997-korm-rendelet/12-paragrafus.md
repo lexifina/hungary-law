@@ -62,7 +62,7 @@ a)[^73] május–júniusi vizsgaidőszak esetén március 1-ig,
 
 b) október–novemberi vizsgaidőszak esetén szeptember 10-ig
 
-a kétszintű érettségi vizsga adminisztrációs rendszerében elektronikusan meg kell küldeni a Hivatalnak, továbbá kinyomtatva, papír alapon tájékoztatás céljából a középiskola fenntartójának.
+a kétszintű érettségi vizsga adminisztrációs rendszerében elektronikusan meg kell küldeni a Hivatalnak, továbbá elektronikus úton tájékoztatás céljából a középiskola fenntartójának.
 
 (12)[^74] Az összesítő jelentés alapján
 
@@ -98,7 +98,7 @@ b) a Hivatal a központi vizsgakövetelményekre épülő vizsgatárgyak esetéb
 [^69]: A 12. § új (8) bekezdését a 256/2005. (XII. 7.) Korm. rendelet 4. § (4) bekezdése iktatta be, egyidejűleg az eredeti (8)–(12) bekezdés számozását (9)–(13) bekezdésre változtatva. A 12. § (8) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 6. § (2) bekezdésével megállapított, a 122/2018. (VII. 10.) Korm. rendelet 3. §-a, a 278/2019. (XI. 21.) Korm. rendelet 2. § (1) bekezdés c) pontja szerint módosított szöveg.
 [^70]: A 12. § eredeti (8) bekezdésének számozását a 256/2005. (XII. 7.) Korm. rendelet 4. § (4) bekezdése (9) bekezdésre változtatta, szövege a 253/2006. (XII. 7.) Korm. rendelet 3. § (2) bekezdésével megállapított, valamint a 6/2008. (I. 22.) Korm. rendelet 2. § (2) bekezdése, a 351/2010. (XII. 30.) Korm. rendelet 41. § f) pontja, a 106/2012. (VI. 1.) Korm. rendelet 9. § j) pontja, a 36/2015. (III. 6.) Korm. rendelet 11. § g) pontja, az 5/2016. (I. 22.) Korm. rendelet 18. § 7. pont b) alpontja, a 307/2017. (X. 27.) Korm. rendelet 1. §-a, a 278/2019. (XI. 21.) Korm. rendelet 2. § (2) bekezdése, a 417/2020. (VIII. 30.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
 [^71]: A 12. § eredeti (9) bekezdésének számozását a 256/2005. (XII. 7.) Korm. rendelet 4. § (4) bekezdése (10) bekezdésre változtatta, szövege a 6/2008. (I. 22.) Korm. rendelet 12. § (3) bekezdésének h) pontja, a 106/2012. (VI. 1.) Korm. rendelet 9. § f) pontja, a 106/2012. (VI. 1.) Korm. rendelet 9. § j) pontja szerint módosított szöveg.
-[^72]: A 12. § eredeti (10) bekezdésének számozását a 256/2005. (XII. 7.) Korm. rendelet 4. § (4) bekezdése (11) bekezdésre változtatta, szövege a 253/2006. (XII. 7.) Korm. rendelet 3. § (3) bekezdésével megállapított, záró szövegrésze a 307/2006. (XII. 23.) Korm. rendelet 42. § (4) bekezdésének a) pontja, a 196/2019. (VIII. 1.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^72]: A 12. § eredeti (10) bekezdésének számozását a 256/2005. (XII. 7.) Korm. rendelet 4. § (4) bekezdése (11) bekezdésre változtatta, szövege a 253/2006. (XII. 7.) Korm. rendelet 3. § (3) bekezdésével megállapított, záró szövegrésze a 307/2006. (XII. 23.) Korm. rendelet 42. § (4) bekezdésének a) pontja, a 196/2019. (VIII. 1.) Korm. rendelet 1. § b) pontja, a 212/2023. (VI. 1.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
 [^73]: A 12. § (11) bekezdés a) pontja a 423/2012. (XII. 29.) Korm. rendelet 46. § (2) bekezdésével megállapított, a 47. § (2) bekezdése szerint módosított szöveg.
 [^74]: A 12. § eredeti (11) bekezdésének számozását a 256/2005. (XII. 7.) Korm. rendelet 4. § (4) bekezdése (12) bekezdésre változtatta, szövege a 351/2010. (XII. 30.) Korm. rendelet 40. § (6) bekezdésével megállapított szöveg.
 [^75]: A 12. § eredeti (12) bekezdésének számozását a 256/2005. (XII. 7.) Korm. rendelet 4. § (4) bekezdése (13) bekezdésre változtatta, a bekezdést hatályon kívül helyezte a 253/2006. (XII. 7.) Korm. rendelet 26. § (4) bekezdése.

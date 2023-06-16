@@ -1,6 +1,6 @@
 ## Az érettségi vizsga iratai és záradékai
 
-## I.[^423] Nyomtatványok
+## I.[^425] Nyomtatványok
 
 ## 1. Érettségi bizonyítvány*
 
@@ -10,11 +10,11 @@
 
 ## 4. Jelentkezés érettségi vizsgára
 
-## 5.[^424]
+## 5.[^426]
 
 ## 6. Jegyzőkönyv az írásbeli, szóbeli vizsgáról és a vizsgabizottság üléseiről, illetve a tantárgyi vizsgabizottság üléseiről
 
-## 7.[^425] Tanúsítvány az érettségi vizsgáról*
+## 7.[^427] Tanúsítvány az érettségi vizsgáról*
 
 ## 8. Jelentés a vizsgaeredményekről
 
@@ -28,7 +28,7 @@
 
 ## A *-gal jelölt nyomtatványok gyártásához és forgalmazásához a miniszter által vezetett minisztérium engedélye szükséges.
 
-## II*[^426]
+## II*[^428]
 
 ## Záradékok
 
@@ -70,9 +70,9 @@
 
 ## 18. A/Az .......................................................... ismeretek ágazaton belüli specializáció az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről szóló 150/2012. (VII. 6.) Korm. rendelet 3. melléklete szerinti ............. ágazathoz tartozik.
 
-2. számú melléklet a 100/1997. (VI. 13.) Korm. rendelethez[^427]
+2. számú melléklet a 100/1997. (VI. 13.) Korm. rendelethez[^429]
 
-ELSŐ RÉSZ[^428]
+ELSŐ RÉSZ[^430]
 
 AZ ÉRETTSÉGI VIZSGA VIZSGATÁRGYAI ÉS A VIZSGA FORMÁI
 
@@ -298,7 +298,7 @@ AZ ÉRETTSÉGI VIZSGA VIZSGATÁRGYAI ÉS A VIZSGA FORMÁI
 
 | 31. | Artista ismeretek | írásbeli | szóbeli | írásbeli | szóbeli |
 
-MÁSODIK RÉSZ[^429]
+MÁSODIK RÉSZ[^431]
 
 AZ ÉRETTSÉGI VIZSGATÁRGYAK ÁLTALÁNOS KÖVETELMÉNYEI
 
@@ -2886,10 +2886,10 @@ Tartalmi követelmények
 
 KÖZÉPSZINT
 
-[^423]: Az 1. számú melléklet I. Nyomtatványok része a 78/2002. (IV. 13.) Korm. rendelet 30. § (1) bekezdésével megállapított, valamint a 6/2008. (I. 22.) Korm. rendelet 12. § (3) bekezdésének o) pontja, a 65/2021. (II. 15.) Korm. rendelet 13. § (1) bekezdés 8. pontja szerint módosított szöveg.
-[^424]: Az 1. számú melléklet I. részének 5. pontját a 253/2006. (XII. 7.) Korm. rendelet 26. § (4) bekezdése hatályon kívül helyezte.
-[^425]: Az 1. számú melléklet I. részének 7. pontja a 6/2008. (I. 22.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^426]: Az 1. számú melléklet II. Záradékok alcíme a 36/2015. (III. 6.) Korm. rendelet 10. § a) pontjával megállapított, az 5/2016. (I. 22.) Korm. rendelet 17. § a) és b) pontja, a 18/2018. (II. 14.) Korm. rendelet 1. §-a szerint módosított szöveg.
-[^427]: A 2. számú melléklet a 324/2011. (XII. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^428]: A 2. számú melléklet Első Része a 18/2018. (II. 14.) Korm. rendelet 2. §-ával megállapított, a 165/2022. (IV. 28.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.
-[^429]: A 2. számú melléklet Második Része a 233/2004. (VIII. 6.) Korm. rendelet 50. §-ának (5) bekezdése, a 338/2004. (XII. 18.) Korm. rendelet 9–10. §-a és 12. § (1) bekezdésének b) pontja, a 256/2005. (XII. 7.) Korm. rendelet 26. § (3) bekezdése és 28. § (1) bekezdésének c) pontja, a 331/2007. (XII. 13.) Korm. rendelet 1. § 18. pontja és 3. § 9. pontja, a 6/2008. (I. 22.) Korm. rendelet 11. § (4)–(5) bekezdése és 12. § (3) bekezdésének x)–z) pontja, a 347/2008. (XII. 31.) Korm. rendelet 4–22. §-a, a 172/2011. (VIII. 24.) Korm. rendelet 5. §-a, a 106/2012. (VI. 1.) Korm. rendelet 11. § d) pontja és 8. §-a, a 221/2014. (IX. 4.) Korm. rendelet 172. § c)–s) pontja, az 5/2016. (I. 22.) Korm. rendelet 17. § c) pontja és 19. § f) pontja, a 311/2016. (X. 14.) Korm. rendelet 2. § a) és b) pontja, a 307/2017. (X. 27.) Korm. rendelet 2. §-a, a 18/2018. (II. 14.) Korm. rendelet 2. §-a, a 122/2018. (VII. 10.) Korm. rendelet 2. §-a, a 65/2021. (II. 15.) Korm. rendelet 11. §-a, a 165/2022. (IV. 28.) Korm. rendelet 7. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^425]: Az 1. számú melléklet I. Nyomtatványok része a 78/2002. (IV. 13.) Korm. rendelet 30. § (1) bekezdésével megállapított, valamint a 6/2008. (I. 22.) Korm. rendelet 12. § (3) bekezdésének o) pontja, a 65/2021. (II. 15.) Korm. rendelet 13. § (1) bekezdés 8. pontja szerint módosított szöveg.
+[^426]: Az 1. számú melléklet I. részének 5. pontját a 253/2006. (XII. 7.) Korm. rendelet 26. § (4) bekezdése hatályon kívül helyezte.
+[^427]: Az 1. számú melléklet I. részének 7. pontja a 6/2008. (I. 22.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^428]: Az 1. számú melléklet II. Záradékok alcíme a 36/2015. (III. 6.) Korm. rendelet 10. § a) pontjával megállapított, az 5/2016. (I. 22.) Korm. rendelet 17. § a) és b) pontja, a 18/2018. (II. 14.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^429]: A 2. számú melléklet a 324/2011. (XII. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^430]: A 2. számú melléklet Első Része a 18/2018. (II. 14.) Korm. rendelet 2. §-ával megállapított, a 165/2022. (IV. 28.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.
+[^431]: A 2. számú melléklet Második Része a 233/2004. (VIII. 6.) Korm. rendelet 50. §-ának (5) bekezdése, a 338/2004. (XII. 18.) Korm. rendelet 9–10. §-a és 12. § (1) bekezdésének b) pontja, a 256/2005. (XII. 7.) Korm. rendelet 26. § (3) bekezdése és 28. § (1) bekezdésének c) pontja, a 331/2007. (XII. 13.) Korm. rendelet 1. § 18. pontja és 3. § 9. pontja, a 6/2008. (I. 22.) Korm. rendelet 11. § (4)–(5) bekezdése és 12. § (3) bekezdésének x)–z) pontja, a 347/2008. (XII. 31.) Korm. rendelet 4–22. §-a, a 172/2011. (VIII. 24.) Korm. rendelet 5. §-a, a 106/2012. (VI. 1.) Korm. rendelet 11. § d) pontja és 8. §-a, a 221/2014. (IX. 4.) Korm. rendelet 172. § c)–s) pontja, az 5/2016. (I. 22.) Korm. rendelet 17. § c) pontja és 19. § f) pontja, a 311/2016. (X. 14.) Korm. rendelet 2. § a) és b) pontja, a 307/2017. (X. 27.) Korm. rendelet 2. §-a, a 18/2018. (II. 14.) Korm. rendelet 2. §-a, a 122/2018. (VII. 10.) Korm. rendelet 2. §-a, a 65/2021. (II. 15.) Korm. rendelet 11. §-a, a 165/2022. (IV. 28.) Korm. rendelet 7. § (2) bekezdés b) pontja szerint módosított szöveg.
