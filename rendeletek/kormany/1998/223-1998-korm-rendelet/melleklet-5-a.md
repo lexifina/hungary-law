@@ -1,4 +1,4 @@
-5/a. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^277]
+5/a. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^279]
 
 Az anyasági támogatás iránti kérelem adattartalma külföldön született magyar állampolgárságú, illetve nem magyar állampolgárságú, „Magyar igazolvánnyal” rendelkező gyermek esetén
 
@@ -80,4 +80,4 @@ Az anyasági támogatás iránti kérelem adattartalma külföldön született m
 
 4.5. a 2.1. alpontban feltüntetett gyermek (ikergyermek) másik vér szerinti vagy örökbefogadó szülőjének aláíróhelye.
 
-[^277]: Az 5/a. számú mellékletet a 405/2017. (XII. 15.) Korm. rendelet 9. §-a iktatta be.
+[^279]: Az 5/a. számú mellékletet a 405/2017. (XII. 15.) Korm. rendelet 9. §-a iktatta be.
