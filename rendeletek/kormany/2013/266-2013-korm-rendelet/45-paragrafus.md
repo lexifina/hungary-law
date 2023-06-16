@@ -1,4 +1,4 @@
-45. §[^113] (1) Ha a névjegyzékből való törlésre a 44. § (5) bekezdés d) pontja alapján került sor, a szakmagyakorlási tevékenység csak a továbbképzési kötelezettség igazolása után engedélyezhető.
+45. §[^124] (1) Ha a névjegyzékből való törlésre a 44. § (5) bekezdés d) pontja alapján került sor, a szakmagyakorlási tevékenység csak a továbbképzési kötelezettség igazolása után engedélyezhető.
 
 (2) Ha a szakmagyakorlási tevékenység folytatásának megtiltására és ezzel egyidejűleg a névjegyzékből való törlésre
 
@@ -6,7 +6,7 @@ a) a 44. § (5) bekezdés a)–c), g) vagy j) pontja alapján került sor, a sza
 
 b) a 44. § (5) bekezdés e), f) vagy i) pontja alapján került sor, a szakmagyakorlási tevékenységet végző személy a határozat véglegessé válásától számított három éven belül
 
-## a névjegyzékbe nem vehető fel.
+a névjegyzékbe nem vehető fel.
 
 (3) A szakmagyakorlási tevékenység folytatásának megtiltása és ezzel egyidejűleg a névjegyzékből való törlés után szakmagyakorlási tevékenység csak abban az esetben engedélyezhető, ha a kérelmező a kamara felé fennálló fizetési kötelezettségének eleget tesz.
 
@@ -14,4 +14,4 @@ b) a 44. § (5) bekezdés e), f) vagy i) pontja alapján került sor, a szakmagy
 
 (5) Igazságügyi szakértői tevékenységet is végző építésügyi műszaki szakértő szakmagyakorlási tevékenységének megtiltásáról, névjegyzékből való törléséről, illetve a 33. § (1) bekezdése szerinti szüneteltetésről szóló határozatát a területi kamara titkára az igazságügyi szakértői névjegyzék vezetését végző szervvel is közli.
 
-[^113]: A 45. § a 618/2021. (XI. 8.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^124]: A 45. § a 618/2021. (XI. 8.) Korm. rendelet 12. §-ával megállapított szöveg.

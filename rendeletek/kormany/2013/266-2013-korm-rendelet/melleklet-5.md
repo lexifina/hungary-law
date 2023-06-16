@@ -1,5 +1,3 @@
-## A szakirányú szakképzettség egyenértékűségének vizsgálatához tudományterület szerinti bontás alapján meghatározott minimum kreditszámok összege a szakképzettségek tekintetében
-
 ## 1. rész
 
 ## Építészeti-műszaki tervezési, építésügyi műszaki szakértői jogosultsághoz szükséges képesítési követelmény kredittartalma (MSc, MA fokozat)
@@ -34,6 +32,6 @@
 
 | 40 | 15 | 70 | 55 | 180 |
 
-5. melléklet a 266/2013. (VII. 11.) Korm. rendelethez[^150]
+5. melléklet a 266/2013. (VII. 11.) Korm. rendelethez[^159]
 
-[^150]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^159]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

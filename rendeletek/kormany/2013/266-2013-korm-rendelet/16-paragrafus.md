@@ -4,7 +4,7 @@
 
 (2) A tervezési programban rögzíteni kell minden olyan fontos tényt, amelyet a tervezés során figyelembe kell venni. A tervezési programban vizsgálni kell a megújuló energiaforrások használatának lehetőségét, és igény szerint rögzíteni kell a vagyonbiztonsági elvárások mértékét.
 
-(3)[^51] A tervezési programban – amelyet az építtető és tervező közösen készít elő – a tervezés tárgyától és nagyságrendjétől függően ismertetni kell
+(3)[^60] A tervezési programban – amelyet az építtető és tervező közösen készít elő – a tervezés tárgyától és nagyságrendjétől függően ismertetni kell
 
 a) tervezési feladat részletes leírását, az építési tevékenység megnevezését,
 
@@ -28,18 +28,18 @@ j) a közmű és energia ellátási igényeket, módokat,
 
 k) az akadálymentesítésre vonatkozó információkat,
 
-l)[^52] műemlék esetén az értékleltár és az építéstörténeti tudományos dokumentáció alapján rögzített műemlékvédelmi szempontokat,
+l)[^61] műemlék esetén az értékleltár és az építéstörténeti tudományos dokumentáció alapján rögzített műemlékvédelmi szempontokat,
 
-m)[^53] a szükséges szakági tervezői és szakértői feladatok körét,
+m)[^62] a szükséges szakági tervezői és szakértői feladatok körét,
 
 n) az egyéb meghatározó követelmények általános szempontjait,
 
-o)[^54] a tervezendő építmény használatának, üzemeltetésének, karbantartásának feltételeit,
+o)[^63] a tervezendő építmény használatának, üzemeltetésének, karbantartásának feltételeit,
 
-p)[^55] a helyszínen fennálló régészeti érintettség vagy védelem tényét a közhiteles örökségvédelmi nyilvántartástól lekért adatok alapján.
+p)[^64] a helyszínen fennálló régészeti érintettség vagy védelem tényét a közhiteles örökségvédelmi nyilvántartástól lekért adatok alapján.
 
-[^51]: A 16. § (3) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
-[^52]: A 16. § (3) bekezdés l) pontja a 677/2020. (XII. 28.) Korm. rendelet 34. §-a szerint módosított szöveg.
-[^53]: A 16. § (3) bekezdés m) pontja a 618/2021. (XI. 8.) Korm. rendelet 16. § 13. pontja szerint módosított szöveg.
-[^54]: A 16. § (3) bekezdés o) pontja a 306/2016. (X. 13.) Korm. rendelet 17. §-a szerint módosított szöveg.
-[^55]: A 16. § (3) bekezdés p) pontját a 306/2016. (X. 13.) Korm. rendelet 16. §-a iktatta be.
+[^60]: A 16. § (3) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^61]: A 16. § (3) bekezdés l) pontja a 677/2020. (XII. 28.) Korm. rendelet 34. §-a szerint módosított szöveg.
+[^62]: A 16. § (3) bekezdés m) pontja a 618/2021. (XI. 8.) Korm. rendelet 16. § 13. pontja szerint módosított szöveg.
+[^63]: A 16. § (3) bekezdés o) pontja a 306/2016. (X. 13.) Korm. rendelet 17. §-a szerint módosított szöveg.
+[^64]: A 16. § (3) bekezdés p) pontját a 306/2016. (X. 13.) Korm. rendelet 16. §-a iktatta be.

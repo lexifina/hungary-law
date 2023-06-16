@@ -8,23 +8,23 @@
 
 (3) A 24. § (2)–(6) bekezdése és a 25. § 2014. július 1-jén lép hatályba.
 
-(4)[^124] A 2014. január 1-jét megelőzően engedélyezett és névjegyzékbe vett, vagy bejelentés alapján névjegyzékbe vett 1–3. melléklet szerinti szakmagyakorlási tevékenység a továbbképzési kötelezettségek teljesítése mellett folytatható.
+(4)[^135] A 2014. január 1-jét megelőzően engedélyezett és névjegyzékbe vett, vagy bejelentés alapján névjegyzékbe vett 1–3. melléklet szerinti szakmagyakorlási tevékenység a továbbképzési kötelezettségek teljesítése mellett folytatható.
 
 (5) A területi kamara titkára a változással érintett jogosultság tekintetében az 1. melléklet szerinti szak- és részterületnek megfelelő besorolásról a szakmagyakorlót a továbbképzési időszakának befejezéséig hivatalból értesíti. Ezen időszakig a szakmagyakorló a korábbi jogosultsági besorolásának megfelelően folytathatja a tevékenységet.
 
-(6)[^125] Azon jogosultságok tekintetében, amelyeket az 1–3. melléklet nem tartalmaz, – a (7) és (8) bekezdésben foglaltak kivételével – az e rendelet hatálybalépésétől számított 30 napon belül a területi kamara titkára köteles a jogosultság megszűnéséről a szakmagyakorlót írásban értesíteni.
+(6)[^136] Azon jogosultságok tekintetében, amelyeket az 1–3. melléklet nem tartalmaz, – a (7) és (8) bekezdésben foglaltak kivételével – az e rendelet hatálybalépésétől számított 30 napon belül a területi kamara titkára köteles a jogosultság megszűnéséről a szakmagyakorlót írásban értesíteni.
 
 (7) A 2014. január 1-jét megelőzően építésügyi igazgatási szakértői területen kiadott engedélyek 2014. július 1-ig hatályosak, ezt követően a tevékenység engedély nélkül folytatható.
 
-(8)[^126] A 2014. január 1-jét megelőzően geodéziai tervezési szakterületen, geodéziai szakértői szakterületen, az építmények gépészeti tervezése szakterületen anyagmozgatógépek, építőgépek és felvonók tervezési jogosultsággal, és az építmények technológiai tervezés szakterületen építéstechnológiai tervezési jogosultsággal végezhető tevékenység vonatkozásában kiadott engedélyek – jogszabály eltérő rendelkezésének hiányában – 2015. december 31-éig hatályosak.
+(8)[^137] A 2014. január 1-jét megelőzően geodéziai tervezési szakterületen, geodéziai szakértői szakterületen, az építmények gépészeti tervezése szakterületen anyagmozgatógépek, építőgépek és felvonók tervezési jogosultsággal, és az építmények technológiai tervezés szakterületen építéstechnológiai tervezési jogosultsággal végezhető tevékenység vonatkozásában kiadott engedélyek – jogszabály eltérő rendelkezésének hiányában – 2015. december 31-éig hatályosak.
 
-(9)[^127] Az 1. mellékletben meghatározott képesítési követelménytől eltérően az igazságügyi szakértői szakterületnek megfelelő építésügyi műszaki szakértői tevékenység engedélyezhető annak az igazságügyi szakértőnek is, aki műszaki felsőoktatás keretében szerzett szakirányú főiskolai szakképzettséggel rendelkezik, és akit 2006. január 1-jét megelőzően az igazságügyi szakértői névjegyzékbe jogszabály alapján az építésügyi szakterületre felvettek, és az igazságügyi szakértői névjegyzékben építésügyi szakterületen jelenleg is szerepel, továbbá rendelkezik 2006. január 1-jét megelőző tízéves szakmai gyakorlattal.
+(9)[^138] Az 1. mellékletben meghatározott képesítési követelménytől eltérően az igazságügyi szakértői szakterületnek megfelelő építésügyi műszaki szakértői tevékenység engedélyezhető annak az igazságügyi szakértőnek is, aki műszaki felsőoktatás keretében szerzett szakirányú főiskolai szakképzettséggel rendelkezik, és akit 2006. január 1-jét megelőzően az igazságügyi szakértői névjegyzékbe jogszabály alapján az építésügyi szakterületre felvettek, és az igazságügyi szakértői névjegyzékben építésügyi szakterületen jelenleg is szerepel, továbbá rendelkezik 2006. január 1-jét megelőző tízéves szakmai gyakorlattal.
 
-(10)[^128] A 34. § (1) bekezdés szerinti továbbképzési időszak a 2014. január 1-jét megelőzően megkezdett ötéves továbbképzési időszak utolsó napját követő napon kezdődik. Az a szakmagyakorló, akinek a továbbképzési kötelezettségét 2014. június 30-ig kell teljesítenie, továbbképzését legkésőbb 2014. december 31-ig teljesítheti.
+(10)[^139] A 34. § (1) bekezdés szerinti továbbképzési időszak a 2014. január 1-jét megelőzően megkezdett ötéves továbbképzési időszak utolsó napját követő napon kezdődik. Az a szakmagyakorló, akinek a továbbképzési kötelezettségét 2014. június 30-ig kell teljesítenie, továbbképzését legkésőbb 2014. december 31-ig teljesítheti.
 
 (11) A beruházáslebonyolítói tevékenység 2014. január 1-jét követően bejelentési kötelezettség teljesítése nélkül folytatható.
 
-(12)[^129] Ez a rendelet
+(12)[^140] Ez a rendelet
 
 a) a szakmai képesítések elismeréséről szóló, 2005. szeptember 7-i 2005/36/EK európai parlamenti és tanácsi irányelvnek,
 
@@ -32,14 +32,14 @@ b) a szakmai képesítések elismeréséről szóló 2005/36/EK irányelv és a 
 
 c) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek
 
-## való megfelelést szolgálja.
+való megfelelést szolgálja.
 
-(13)[^130] E rendelet gyakorlati idő számítására vonatkozó szabályait a felelős műszaki vezetői tevékenységek engedélyezése során az építési szakterület részszakterülete, az építménygépészeti szakterület részszakterülete, az építményvillamossági szakterület részszakterülete, valamint a villamosság szakterület részszakterülete esetében úgy kell alkalmazni, hogy az eljárás során szakmai gyakorlati időként az előírt végzettséget megelőzően, a végzettséggel megegyező szakterületen szerzett mestervizsgát követően teljesített szakmai gyakorlat is figyelembe vehető.
+(13)[^141] E rendelet gyakorlati idő számítására vonatkozó szabályait a felelős műszaki vezetői tevékenységek engedélyezése során az építési szakterület részszakterülete, az építménygépészeti szakterület részszakterülete, az építményvillamossági szakterület részszakterülete, valamint a villamosság szakterület részszakterülete esetében úgy kell alkalmazni, hogy az eljárás során szakmai gyakorlati időként az előírt végzettséget megelőzően, a végzettséggel megegyező szakterületen szerzett mestervizsgát követően teljesített szakmai gyakorlat is figyelembe vehető.
 
-[^124]: A 47. § (4) bekezdése a 62/2014. (III. 6.) Korm. rendelet 47. § 23. pontja szerint módosított szöveg.
-[^125]: A 47. § (6) bekezdése a 62/2014. (III. 6.) Korm. rendelet 47. § 24. pontja szerint módosított szöveg.
-[^126]: A 47. § (8) bekezdése az 522/2013. (XII. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított, a 168/2015. (VI. 30.) Korm. rendelet 4. § (7) bekezdés a) pontja szerint módosított szöveg.
-[^127]: A 47. § (9) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 741. §-ával megállapított szöveg.
-[^128]: A 47. § (10) bekezdése az 522/2013. (XII. 30.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^129]: A 47. § (12) bekezdése a 290/2019. (XII. 5.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^130]: A 47. § (13) bekezdését a 618/2021. (XI. 8.) Korm. rendelet 13. §-a iktatta be.
+[^135]: A 47. § (4) bekezdése a 62/2014. (III. 6.) Korm. rendelet 47. § 23. pontja szerint módosított szöveg.
+[^136]: A 47. § (6) bekezdése a 62/2014. (III. 6.) Korm. rendelet 47. § 24. pontja szerint módosított szöveg.
+[^137]: A 47. § (8) bekezdése az 522/2013. (XII. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított, a 168/2015. (VI. 30.) Korm. rendelet 4. § (7) bekezdés a) pontja szerint módosított szöveg.
+[^138]: A 47. § (9) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 741. §-ával megállapított szöveg.
+[^139]: A 47. § (10) bekezdése az 522/2013. (XII. 30.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^140]: A 47. § (12) bekezdése a 290/2019. (XII. 5.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^141]: A 47. § (13) bekezdését a 618/2021. (XI. 8.) Korm. rendelet 13. §-a iktatta be.

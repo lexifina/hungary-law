@@ -30,7 +30,7 @@ d) az örökségvédelem,
 
 e) a kamarai etikai-fegyelmi eljárás
 
-## ismerete.
+ismerete.
 
 (5) A vizsga szakterületi része (szakmagyakorlók speciális, szakterületi ismeretanyagát képező ismeretek) az energetikai tanúsító jogosultság kivételével az alábbi ismeretkörből áll:
 
@@ -51,6 +51,8 @@ be) a tevékenység végzésével összefüggő egyéb kapcsolódó szakmai ter�
 bf) az engedélyezési és a kivitelezési terv tartalmi követelményei,
 
 c) a településtervezési szakterületen a b) pont bc) és bf) alpontjában felsoroltak helyett a szakterületnek megfelelő településrendezési követelmények ismerete.
+
+d)[^115] a magasépítési szakterület műemléki részszakterületén műemlékekkel kapcsolatos emelt szintű ismeretek, ha a szakmagyakorló nem rendelkezik okleveles építészmérnök szakképzettséggel vagy műemlékvédelmi szakmérnöki képesítéssel.
 
 (6) A vizsga szakterületi része az energetikai tanúsítói jogosultság esetén az alábbi ismeretkörökből áll:
 
@@ -81,3 +83,5 @@ i) a tanúsítás dokumentálása.
 (10) A vizsga követelményeit az teljesítette, aki az írásbeli kérdések legalább 70%-át helyesen válaszolta meg. Az 50–70% közötti eredmény esetében a vizsgázó szóbeli vizsgát tesz. Az 50% alatt teljesített írásbeli vizsga eredménytelen, szóbeli vizsgára a vizsgázó nem bocsátható, az írásbeli vizsgát ismételni köteles.
 
 (11) A vizsgaszervező a vizsga eredményét a vizsgát követő legfeljebb 5 napon belül megküldi a szakmagyakorlónak, a letételét igazolja, külön kérelem nélkül gondoskodik az elektronikus nyilvántartásba történő bejegyzéséről.
+
+[^115]: A 39. § (5) bekezdés d) pontját a 229/2023. (VI. 8.) Korm. rendelet 5. §-a iktatta be.

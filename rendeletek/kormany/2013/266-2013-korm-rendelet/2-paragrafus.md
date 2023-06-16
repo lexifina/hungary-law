@@ -24,7 +24,7 @@ b) hitelintézettel vagy
 
 c) egyéb szakmai biztosítást nyújtó szervezettel
 
-## kötött szerződés vagy más jogviszony alapján a szolgáltatónak a szolgáltatási tevékenységével összefüggően a szolgáltatás igénybe vevőjének vagy adott esetben más személynek okozott károkért való felelősségéből eredő követelések fedezetére szolgál;
+kötött szerződés vagy más jogviszony alapján a szolgáltatónak a szolgáltatási tevékenységével összefüggően a szolgáltatás igénybe vevőjének vagy adott esetben más személynek okozott károkért való felelősségéből eredő követelések fedezetére szolgál;
 
 10. tagállam: a külföldi bizonyítványok és oklevelek elismeréséről szóló törvényben tagállamként meghatározott állam;
 

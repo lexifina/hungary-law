@@ -1,6 +1,6 @@
 ## 29. Jogkövetkezmények típusai
 
-44. §[^112] (1) A területi kamara titkára figyelmeztetésben részesíti a szakmagyakorlót,
+44. §[^123] (1) A területi kamara titkára figyelmeztetésben részesíti a szakmagyakorlót,
 
 a) ha a Kamtv. 43. § (5) bekezdése szerinti adatváltozás bejelentési kötelezettségének nem tett eleget,
 
@@ -54,4 +54,4 @@ j) a kötelezettségét a (4) bekezdés e) pontja szerinti megtiltás alatt sem 
 
 k) a (4) bekezdés e) pontja szerinti határidőig sem igazolja a díjfizetési kötelezettségének teljesítését.
 
-[^112]: A 44. § a 618/2021. (XI. 8.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^123]: A 44. § a 618/2021. (XI. 8.) Korm. rendelet 12. §-ával megállapított szöveg.

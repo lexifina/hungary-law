@@ -12,7 +12,7 @@
 
 ## ”
 
-2. melléklet a 266/2013. (VII. 11.) Korm. rendelethez[^147]
+2. melléklet a 266/2013. (VII. 11.) Korm. rendelethez[^156]
 
 I. Az építész kamarák által nyilvántartott, korábbi jogszabály alapján megállapított építészeti tervezési jogosultságok és a hozzájuk tartozó építészeti-műszaki tervezési tevékenységek
 
@@ -20,7 +20,7 @@ I. Az építész kamarák által nyilvántartott, korábbi jogszabály alapján 
 
 | 1. | Korlátozott szakterület (tervezői fokozat) megnevezése, jelölése | Feladatok, amelyeket az adott szakterületi jogosultsággal lehet végezni |
 
-| 2. | É2 jelű építész tervezői fokozat | a) Építmények építészeti tervezése terepszint fölött legfeljebb öt szint magasságig és összesen 2000 m2 szintterület nagyságig. b) Meglévő építmény bővítése maximum 2000 m2 összes szintterület nagyságig. c) Bontási, felújítási, korszerűsítési és helyreállítási tervek, korlátozás nélkül. Az É2 jelű tervezői fokozat tevékenységi köre nem terjed ki a helyi vagy műemléki védelem alatt álló építménnyel kapcsolatos, valamint jogszabállyal védetté nyilvánított területen (világörökség, műemléki jelentőségű területen, műemléki környezetben, tájvédelem vagy helyi védelem alatt álló területen) új építmény létesítésével és meglévő építmény tömegét megváltoztató átalakításával kapcsolatos építészeti-műszaki terveinek készítésére. |
+| 2. | É2 jelű építész tervezői fokozat | a) Építmények építészeti tervezése terepszint fölött legfeljebb öt szint magasságig és összesen 2000 m2szintterület nagyságig. b) Meglévő építmény bővítése maximum 2000 m2 összes szintterület nagyságig. c) Bontási, felújítási, korszerűsítési és helyreállítási tervek, korlátozás nélkül. Az É2 jelű tervezői fokozat tevékenységi köre nem terjed ki a helyi vagy műemléki védelem alatt álló építménnyel kapcsolatos, valamint jogszabállyal védetté nyilvánított területen (világörökség, műemléki jelentőségű területen, műemléki környezetben, tájvédelem vagy helyi védelem alatt álló területen) új építmény létesítésével és meglévő építmény tömegét megváltoztató átalakításával kapcsolatos építészeti-műszaki terveinek készítésére. |
 
 | 3. |  |  |
 
@@ -72,4 +72,4 @@ A sajátos építményfajták építési műszaki ellenőri szakterületei
 
 III. Az építész és a mérnöki kamarák által nyilvántartott, korábbi jogszabály alapján megállapított felelős műszaki vezetői jogosultságok és a hozzájuk tartozó tevékenység
 
-[^147]: A 2. melléklet a 38/2015. (III. 11.) Korm. rendelet 22. § (5) bekezdése, a 168/2015. (VI. 30.) Korm. rendelet 4. § (9) bekezdése, a 290/2019. (XII. 5.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
+[^156]: A 2. melléklet a 38/2015. (III. 11.) Korm. rendelet 22. § (5) bekezdése, a 168/2015. (VI. 30.) Korm. rendelet 4. § (9) bekezdése, a 290/2019. (XII. 5.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.

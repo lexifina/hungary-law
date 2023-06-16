@@ -1,8 +1,6 @@
 A Kormány
 
-az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 3., 4., 7., 9., 19. és 32. pontjában, 62. § (1b) bekezdésében,
-
-a 48. § és az 55. § a) pontja tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 5. pontjában,
+az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 3., 4., 7., 9., 19. és 32. pontjában, 62. § (1b) bekezdésében, a 48. § és az 55. § a) pontja tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 5. pontjában,
 
 a 49. § és az 55. § b) pontja tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 3. pontjában,
 

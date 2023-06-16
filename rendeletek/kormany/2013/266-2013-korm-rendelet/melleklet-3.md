@@ -10,6 +10,6 @@
 
 | 5. | „ÉV” kategória | ÉV/C | Legfeljebb négy beépíthető szintig, 6,6 m falköz (oszlopköz) méretű, és összesen 2000 m2 szintterület nagyságig az építmények villamos, hírközlő és építésfelügyeleti rendszer berendezései – az épület fogyasztásmérő készülékéig – szerelési munkáinak felelős műszaki vezetése. |
 
-3. melléklet a 266/2013. (VII. 11.) Korm. rendelethez[^148]
+3. melléklet a 266/2013. (VII. 11.) Korm. rendelethez[^157]
 
-[^148]: A 3. mellékletet a 290/2019. (XII. 5.) Korm. rendelet 9. § d) pontja hatályon kívül helyezte.
+[^157]: A 3. mellékletet a 290/2019. (XII. 5.) Korm. rendelet 9. § d) pontja hatályon kívül helyezte.
