@@ -1,3 +1,0 @@
-168. §[^172]
-
-[^172]: A 166–168. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

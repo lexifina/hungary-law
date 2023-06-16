@@ -1,7 +1,0 @@
-## 3. Az egyes bányászati dolgozók társadalombiztosítási kedvezményeiről szóló
-
-## 23/1991. (II. 9.) Korm. rendelet módosítása
-
-3. §[^4]
-
-[^4]: A 3–4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
