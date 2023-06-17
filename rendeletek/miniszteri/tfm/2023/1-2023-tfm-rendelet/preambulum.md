@@ -1,0 +1,1 @@
+A Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló 2011. évi CCII. törvény 24. § (6) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 178. § (1) bekezdésében meghatározott feladatkörömben eljárva a következőket rendelem el:
