@@ -1,4 +1,4 @@
-3. §[^4] Az Európai Unió működéséről szóló szerződés (a továbbiakban: EUMSz) 107. cikk (1) bekezdése szerinti állami támogatások esetében
+3. §[^5] Az Európai Unió működéséről szóló szerződés (a továbbiakban: EUMSz) 107. cikk (1) bekezdése szerinti állami támogatások esetében
 
 1. az 1. mellékletben foglalt táblázat 6. sora, 8. sora, F:5 mezője és F:9 mező 3. és 4. pontja az 1407/2013/EU bizottsági rendelet szerinti csekély összegű támogatás,
 
@@ -28,6 +28,9 @@
 
 14. az 1. mellékletben foglalt táblázat 6. sora alapján a 651/2014/EU bizottsági rendelet 56. cikke szerinti helyi infrastruktúrára irányuló támogatás,
 
-15. az 1. mellékletben foglalt táblázat 6. sora, 8. sora, F:9 mező 3. és 4. pontja és F:5 mezője alapján az „Az állami támogatásokra vonatkozó, az Ukrajna elleni orosz invázióval összefüggésben a gazdaság támogatását célzó ideiglenes válságkeret” című, 2022/C 426/01 számú európai bizottsági közlemény 2.1. szakasza szerinti támogatás
+15.[^6] az 1. mellékletben foglalt táblázat 3–12. sora alapján az SA.103089 (2022/N) számú, valamint az azt módosító európai bizottsági határozatokban foglaltakkal összhangban az „Az állami támogatásokra vonatkozó, az Ukrajna elleni orosz agresszióval összefüggésben a gazdaság támogatását célzó ideiglenes válság- és átállási keret” című, 2023. március 17-i 2023/C 101/03 számú európai bizottsági közlemény 2.1. szakasza szerinti támogatás
 
-[^4]: A 3. § a 23/2022. (XII. 23.) PM rendelet 3. §-ával megállapított szöveg.
+nyújtható.
+
+[^5]: A 3. § a 23/2022. (XII. 23.) PM rendelet 3. §-ával megállapított szöveg.
+[^6]: A 3. § 15. pontja a 3/2023. (VI. 16.) PM rendelet 1. §-ával megállapított szöveg.

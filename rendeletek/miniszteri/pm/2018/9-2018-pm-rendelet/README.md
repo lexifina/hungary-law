@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-9-20-53
 | 2022-10-27 | 2018-9-20-53.14 | 7/2022. (X. 26.) PM rendelet |
 | 2022-12-24 | 2018-9-20-53.17 | 24/2020. (XII. 30.) PM rendelet |
 | 2023-01-01 | 2018-9-20-53.15 | 23/2022. (XII. 23.) PM rendelet |
+| 2023-06-17 | 2018-9-20-53.16 | 3/2023. (VI. 16.) PM rendelet |

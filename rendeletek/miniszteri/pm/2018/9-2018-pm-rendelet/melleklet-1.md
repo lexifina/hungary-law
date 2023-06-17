@@ -1,5 +1,3 @@
-1. melléklet a 9/2018. (X. 19.) PM rendelethez[^82]
+1. melléklet a 9/2018. (X. 19.) PM rendelethez[^88]
 
-XV. Pénzügyminisztérium fejezet 2023. évi fejezeti kezelésű előirányzatainak feladatterve
-
-[^82]: Az 1. melléklet a 23/2022. (XII. 23.) PM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^88]: Az 1. melléklet a 3/2023. (VI. 16.) PM rendelet 4. §-ával megállapított szöveg.

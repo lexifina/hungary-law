@@ -1,4 +1,4 @@
-3. melléklet a 9/2018. (X. 19.) PM rendelethez[^84]
+3. melléklet a 9/2018. (X. 19.) PM rendelethez[^90]
 
 | A Kárrendezési célelőirányzat és egyéb kártalanítási feladatok előirányzatból ár- és belvíz kártalanításra jogosult személyek fizetendő éves díja |
 
@@ -36,4 +36,4 @@
 
 | 14 000 001 – 15 000 000 | 26 000 | 20 800 | 15 600 |
 
-[^84]: A 3. mellékletet a 24/2020. (XII. 30.) PM rendelet 6. § (3) bekezdése iktatta be.
+[^90]: A 3. mellékletet a 24/2020. (XII. 30.) PM rendelet 6. § (3) bekezdése iktatta be.

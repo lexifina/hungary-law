@@ -4,7 +4,7 @@
 
 ## 1. Általános rendelkezések
 
-1. §[^1] E rendelet hatálya
+1. §[^2] E rendelet hatálya
 
 a) a központi költségvetésről szóló törvénynek a XV. Pénzügyminisztérium fejezetében eredeti előirányzatként megállapított fejezeti kezelésű előirányzatokra,
 
@@ -14,4 +14,4 @@ c) az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban:
 
 [az a)–c) pont a továbbiakban együtt: előirányzatok] terjed ki.
 
-[^1]: Az 1. § a 23/2022. (XII. 23.) PM rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § a 23/2022. (XII. 23.) PM rendelet 1. §-ával megállapított szöveg.

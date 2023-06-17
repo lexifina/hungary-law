@@ -64,11 +64,11 @@ c) kis- és középvállalkozás esetén a beruházó a beruházás megkezdések
 
 d) nagyvállalkozás esetén a beruházó a beruházás megkezdésekor már létező, továbbá a beruházással létrejött új munkahelyeket a munkahely első betöltésétől számított legalább öt évig az érintett területen fenntartja.
 
-(8a)[^50] Nem minősül a (8) bekezdés c) és d) pontja szerinti fenntartási kötelezettség megsértésének, ha a beruházó a beruházás megkezdésekor már létező, továbbá a beruházással létrejött új munkahelyeket 2020. január 1. és 2021. június 30. között szüntette meg.
+(8a)[^52] Nem minősül a (8) bekezdés c) és d) pontja szerinti fenntartási kötelezettség megsértésének, ha a beruházó a beruházás megkezdésekor már létező, továbbá a beruházással létrejött új munkahelyeket 2020. január 1. és 2021. június 30. között szüntette meg.
 
 (9) Ha a tárgyi eszköz és az immateriális javak beszerzéséhez a vásárlást megelőzően már nyújtottak támogatást, ezen tárgyi eszköz és immateriális javak költségét le kell vonni a létesítmény felvásárlásához kapcsolódó elszámolható költségekből. Ha egy kisvállalkozást az eredeti tulajdonos családtagjai vagy korábbi munkavállalók vesznek át, a tárgyi eszköznek és az immateriális javaknak a vevőtől független harmadik féltől való megvásárlására vonatkozó feltételnek nem kell teljesülnie.
 
-(10)[^51] A veszélyhelyzet kihirdetéséről és a veszélyhelyzeti intézkedések hatálybalépéséről szóló 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet ideje alatt fennálló vagy ezen idő alatt létrejött támogatási jogviszonyokban különös méltánylást érdemlő esetben és a kedvezményezett indokolt kérelmére a támogató a kedvezményezett létszámvállalási, létszámtartási kötelezettségének teljesítésétől eltekinthet.
+(10)[^53] A veszélyhelyzet kihirdetéséről és a veszélyhelyzeti intézkedések hatálybalépéséről szóló 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet ideje alatt fennálló vagy ezen idő alatt létrejött támogatási jogviszonyokban különös méltánylást érdemlő esetben és a kedvezményezett indokolt kérelmére a támogató a kedvezményezett létszámvállalási, létszámtartási kötelezettségének teljesítésétől eltekinthet.
 
-[^50]: A 17. § (8a) bekezdését a 19/2021. (XII. 28.) PM rendelet 4. § (1) bekezdése iktatta be.
-[^51]: A 17. § (10) bekezdését a 19/2021. (XII. 28.) PM rendelet 4. § (2) bekezdése iktatta be, szövege a 7/2022. (X. 26.) PM rendelet 5. §-ával megállapított szöveg.
+[^52]: A 17. § (8a) bekezdését a 19/2021. (XII. 28.) PM rendelet 4. § (1) bekezdése iktatta be.
+[^53]: A 17. § (10) bekezdését a 19/2021. (XII. 28.) PM rendelet 4. § (2) bekezdése iktatta be, szövege a 7/2022. (X. 26.) PM rendelet 5. §-ával megállapított szöveg.

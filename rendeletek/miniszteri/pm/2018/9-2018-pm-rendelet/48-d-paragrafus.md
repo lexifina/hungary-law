@@ -1,5 +1,7 @@
 48/D. § (1) Azonos vagy részben azonos elszámolható költségek esetén a támogatás abban az esetben halmozható más állami támogatással, ha az nem vezet az Atr. 2. § 2a. pontja szerinti csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitás vagy összeg túllépéséhez.
 
-(2) Ha a támogatás mellett a kedvezményezett az Atr. 2. § 1. pontja szerinti rendeletekben meghatározott csekély összegű támogatásban is részesül, az igénybe veendő vagy igénybe vett csekély összegű támogatás nem csökkenti a támogatás 48/B. § (1) és (2) bekezdése szerinti legmagasabb mértékét. Ha a támogatás mellett a kedvezményezett azonos vagy részben azonos elszámolható költségek vonatkozásában csekély összegű támogatást is igénybe vesz, a támogatáshalmozás nem vezethet a támogatás 48/B. § (1) és (2) bekezdése szerinti legmagasabb mértékének túllépéséhez.
+(2)[^74] Ha a támogatás mellett a kedvezményezett az Atr. 2. § 1. pontja szerinti rendeletekben meghatározott csekély összegű támogatásban is részesül, az igénybe veendő vagy igénybe vett csekély összegű támogatás nem csökkenti a támogatás 48/B. § (1)–(3) bekezdése szerinti legmagasabb mértékét. Ha a támogatás mellett a kedvezményezett azonos vagy részben azonos elszámolható költségek vonatkozásában csekély összegű támogatást is igénybe vesz, a támogatáshalmozás nem vezethet a támogatás 48/B. § (1)–(3) bekezdése szerinti legmagasabb mértékének túllépéséhez.
 
 (3) A támogatás akkor halmozható az EUMSz 107. cikk (2) bekezdés b) pontja szerinti támogatással, ha az nem vezet a kedvezményezett által elszenvedett kár túlkompenzációjához.
+
+[^74]: A 48/D. § (2) bekezdése a 3/2023. (VI. 16.) PM rendelet 5. § c) pontja szerint módosított szöveg.

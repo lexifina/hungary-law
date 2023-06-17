@@ -4,6 +4,6 @@
 
 (3) A támogatást nyújtó és a kedvezményezett a támogatással kapcsolatos iratokat a támogatás odaítélésétől számított tíz évig megőrzi.
 
-(4)[^71] A közlemény 81. pontjára figyelemmel a támogatást nyújtó átadja az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére az Európai Bizottság megkeresésének megválaszolásához szükséges összesített adatokat.
+(4)[^75] A közlemény 92. pontjára figyelemmel a támogatást nyújtó átadja az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére az Európai Bizottság megkeresésének megválaszolásához szükséges összesített adatokat.
 
-[^71]: A 48/E. § (4) bekezdése a 23/2022. (XII. 23.) PM rendelet 7. § f) pontja szerint módosított szöveg.
+[^75]: A 48/E. § (4) bekezdése a 3/2023. (VI. 16.) PM rendelet 5. § d) pontja szerint módosított szöveg.
