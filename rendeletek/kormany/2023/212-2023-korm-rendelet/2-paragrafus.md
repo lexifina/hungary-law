@@ -1,7 +1,3 @@
-2. § Hatályát veszti az R1.
+2. §[^2]
 
-a) 60/B. § (1) és (3)–(6) bekezdése,
-
-b) 60/C. §-a,
-
-c) 61. § (10) bekezdése.
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

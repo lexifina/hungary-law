@@ -1,9 +1,5 @@
 ## 1. Az érettségi vizsga vizsgaszabályzatának kiadásáról szóló 100/1997. (VI. 13.) Korm. rendelet módosítása
 
-1. § Az érettségi vizsga vizsgaszabályzatának kiadásáról szóló 100/1997. (VI. 13.) Korm. rendelet (a továbbiakban: R1.)
+1. §[^1]
 
-a) 12. § (11) bekezdés záró szövegrészében a „kinyomtatva, papír alapon” szövegrész helyébe az „elektronikus úton” szöveg,
-
-b) 59. § (2) bekezdésében a „kézbesítővel” szövegrész helyébe az „elektronikus úton” szöveg
-
-lép.
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
