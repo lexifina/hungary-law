@@ -1,3 +1,3 @@
-5. § A Szakgyr. 39. § (5) bekezdése a következő d) ponttal egészül ki:
+5. §[^6]
 
-[A vizsga szakterületi része (szakmagyakorlók speciális, szakterületi ismeretanyagát képező ismeretek) az energetikai tanúsító jogosultság kivételével az alábbi ismeretkörből áll:]
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

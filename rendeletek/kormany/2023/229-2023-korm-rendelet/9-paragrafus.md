@@ -1,5 +1,3 @@
-9. § Hatályát veszti a Szakgyr.
+9. §[^10]
 
-a) 13. § (8) bekezdésében az „ , építési műszaki ellenőr” szövegrész, valamint
-
-b) 1. melléklet IV. Szakma alcímében foglalt táblázat D:39 mezőjében a „ , műemléki értékek dokumentálása és épületdiagnosztika készítése” szövegrész.
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

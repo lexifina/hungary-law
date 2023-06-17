@@ -1,7 +1,3 @@
-1. § Az építésügyi és az építésüggyel összefüggő szakmagyakorlási tevékenységekről szóló 266/2013. (VII. 11.) Korm. rendelet (a továbbiakban: Szakgyr.) 8. §-a a következő (3a)–(3c) bekezdéssel egészül ki:
+1. §[^2]
 
-„(3a) Az 5. § (8) bekezdésében meghatározott részszakterületek vonatkozásában a képesítési követelménynek nem megfelelő szakképzettség esetén a szakmagyakorlás a Magyar Építész Kamara szakértői testületének véleménye alapján engedélyezhető annak is, aki az 1. melléklet V. Szakma alcím 1. rész 3. és 4. pontja szerinti részszakterületen vagy VI. Szakma alcím 1. rész 4. pontja szerinti részszakterületen előírt legmagasabb szakmai gyakorlati idővel rendelkezik, és a teljesített kreditszámai 80%-ban megegyeznek a képesítési követelményben előírt szakképzettség során megszerezhető kreditekkel, és rendelkezik az általános építmények magasépítési részszakterületén a szakterületnek megfelelő jogosultsággal.
-
-(3b) A Magyar Építész Kamara szakértői testülete a (3a) bekezdés szerinti véleményének kialakítása során figyelemmel van az igazolt szakképzettségre, a teljesített kreditszámokra, a szakirányú szakmai gyakorlatra, a szerzett jogokra és a meglévő jogosultságokra.
-
-(3c) A településtervezés szakma gyakorlása engedélyezhető okleveles építészmérnök, okleveles tájépítész mérnök vagy okleveles tájépítész és kertművész végzettséggel rendelkezőnek, ha urbanista felsőfokú szakirányú továbbképzésen megszerzett szakképzettséggel is rendelkezik. Ebben az esetben az 1. melléklet szerint előírt öt év szakmai gyakorlati időbe az urbanista felsőfokú szakirányú továbbképzés ideje csak akkor számít bele, ha az öt év szakmai gyakorlat kizárólag településtervezési gyakorlattal igazolt.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
