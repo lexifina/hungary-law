@@ -128,17 +128,11 @@ XIV. Tulajdonosi joggyakorló: Országos Kórházi Főigazgatóság
 
 |  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
 
-| 1. | FORGÁCS INTÉZET Egészségügyi és Szolgáltató Korlátolt Felelősségű Társaság | 01-09-713453 | 2026. december 31. |
+| 1. | DUNAMENTI REK Reprodukciós Központ Korlátolt Felelősségű Társaság | 01-09-160446 | 2026. december 31. |
 
-| 2. | VÁRANDÓS Egészségügyi Szolgáltató Korlátolt Felelősségű Társaság | 01-09-949707 | 2026. december 31. |
+| 2. | Nemzeti Egészségügyi Kutatási Ügynökség Nonprofit Korlátolt Felelősségű Társaság | 01-09-389952 | 2026. december 31. |
 
-| 3. | STERILITAS Egészségügyi Ellátó Korlátolt Felelősségű Társaság | 01-09-567042 | 2026. december 31. |
-
-| 4. | DUNAMENTI REK Reprodukciós Központ Korlátolt Felelősségű Társaság | 01-09-160446 | 2026. december 31. |
-
-| 5. | Pannon Reprodukciós Intézet Egészségügyi és Szolgáltató Korlátolt Felelősségű Társaság | 19-09-505155 | 2026. december 31. |
-
-| 6. | Róbert Károly Meddőségi Centrum Korlátolt Felelősségű Társaság | 01-09-381773 | 2026. december 31. |
+| 3. | Vasútegészségügyi Szolgáltató Nonprofit Közhasznú Korlátolt Felelősségű Társaság | 01-09-919878 | 2026. december 31. |
 
 XV. Tulajdonosi joggyakorló: Slachta Margit Nemzeti Szociálpolitikai Intézet
 
@@ -184,4 +178,4 @@ XIX. Tulajdonosi joggyakorló: Nemzetbiztonsági Szakszolgálat
 
 XX. Tulajdonosi joggyakorló: Nemzeti Kommunikációs Hivatal
 
-[^4]: A 2. melléklet a 2/2022. (VI. 20.) GFM rendelet 2. §-a, a 4/2022. (VII. 14.) GFM rendelet 2. §-a, a 12/2022. (XI. 7.) GFM rendelet 1. §-a, a 17/2022. (XII. 13.) GFM rendelet 1. §-a, a 21/2022. (XII. 27.) GFM rendelet 1. §-a, a 22/2022. (XII. 27.) GFM rendelet 1. §-a, a 23/2022. (XII. 27.) GFM rendelet 1. §-a, a 6/2023. (IV. 27.) GFM rendelet 1. § c) pontja szerint módosított szöveg.
+[^4]: A 2. melléklet a 2/2022. (VI. 20.) GFM rendelet 2. §-a, a 4/2022. (VII. 14.) GFM rendelet 2. §-a, a 12/2022. (XI. 7.) GFM rendelet 1. §-a, a 17/2022. (XII. 13.) GFM rendelet 1. §-a, a 21/2022. (XII. 27.) GFM rendelet 1. §-a, a 22/2022. (XII. 27.) GFM rendelet 1. §-a, a 23/2022. (XII. 27.) GFM rendelet 1. §-a, a 6/2023. (IV. 27.) GFM rendelet 1. § c) pontja, a 10/2023. (VI. 16.) GFM rendelet 2. §-a szerint módosított szöveg.

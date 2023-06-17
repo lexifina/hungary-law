@@ -104,11 +104,11 @@ V. Tulajdonosi joggyakorló: a Belügyminisztérium
 
 | 3. | Kézmű Fővárosi Kézműipari Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 01-09-919882 | 2026. december 31. |
 
-| 4. | Vasútegészségügyi Szolgáltató Nonprofit Közhasznú Korlátolt Felelősségű Társaság | 01-09-919878 | 2026. december 31. |
+| 4. |  |  |  |
 
 | 5. | NEOEMKI Nemzeti Orvostechnikai Eszköz Megfelelőségértékelő és Tanúsító Korlátolt Felelősségű Társaság | 01-09-357519 | 2026. december 31. |
 
-| 6. | Nemzeti Egészségügyi Kutatási Ügynökség Nonprofit Korlátolt Felelősségű Társaság | 01-09-389952 | 2026. december 31. |
+| 6. |  |  |  |
 
 | 7. | ESZFK Egészséginformatikai Szolgáltató és Fejlesztési Központ Nonprofit Korlátolt Felelősségű Társaság | 01-09-358749 | 2026. december 31. |
 
@@ -132,7 +132,7 @@ VI. Tulajdonosi joggyakorló: az Építési és Közlekedési Minisztérium
 
 | 5. | NÖF Nemzeti Örökségvédelmi Fejlesztési Nonprofit Korlátolt Felelősségű Társaság | 01-09-324951 | 2026. december 31. |
 
-| 6. |  |  |  |
+| 6. | VB Szolgáltató Központ Korlátolt Felelősségű Társaság | 17-09-012751 | 2026. december 31. |
 
 | 7. | Eszterháza Kulturális, Kutató- és Fesztiválközpont Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 08-09-027255 | 2026. december 31. |
 
@@ -322,4 +322,4 @@ XIII. Tulajdonosi joggyakorló: a területfejlesztési miniszter
 
 XIV. Tulajdonosi joggyakorló: a nemzetpolitikáért, nemzetiségpolitikáért, egyházpolitikáért és egyházdiplomáciáért felelős miniszter
 
-[^3]: Az 1. melléklet a 7. §, a 2/2022. (VI. 20.) GFM rendelet 1. §-a és 3. §-a, a 3/2022. (VII. 13.) GFM rendelet 1–2. §-a, az 5/2022. (VII. 27.) GFM rendelet 1. § (1) és (2) bekezdése és 2. §-a, a 7/2022. (VIII. 11.) GFM rendelet 1. §-a, a 8/2022. (VIII. 31.) GFM rendelet 1. és 3. §-a, a 10/2022. (X. 5.) GFM rendelet 1. §-a, a 14/2022. (XI. 21.) GFM rendelet 1. § a) pontja és a 3. §-a, a 16/2022. (XII. 6.) GFM rendelet 1. §-a, a 18/2022. (XII. 20.) GFM rendelet 1. és 2. §-a, a 20/2022. (XII. 27.) GFM rendelet 1. §-a, az 1/2023. (I. 9.) GFM rendelet 1. §-a, a 3/2023. (III. 30.) GFM rendelet 1. §-a, a 4/2023. (IV. 11.) GFM rendelet 1. §-a, az 5/2023. (IV. 17.) GFM rendelet 2. §-a, a 6/2023. (IV. 27.) GFM rendelet 1. § a)-b) pontja és 2. §-a, a 7/2023. (V. 16.) GFM rendelet 1. §-a és 3. §-a szerint módosított szöveg.
+[^3]: Az 1. melléklet a 7. §, a 2/2022. (VI. 20.) GFM rendelet 1. §-a és 3. §-a, a 3/2022. (VII. 13.) GFM rendelet 1–2. §-a, az 5/2022. (VII. 27.) GFM rendelet 1. § (1) és (2) bekezdése és 2. §-a, a 7/2022. (VIII. 11.) GFM rendelet 1. §-a, a 8/2022. (VIII. 31.) GFM rendelet 1. és 3. §-a, a 10/2022. (X. 5.) GFM rendelet 1. §-a, a 14/2022. (XI. 21.) GFM rendelet 1. § a) pontja és a 3. §-a, a 16/2022. (XII. 6.) GFM rendelet 1. §-a, a 18/2022. (XII. 20.) GFM rendelet 1. és 2. §-a, a 20/2022. (XII. 27.) GFM rendelet 1. §-a, az 1/2023. (I. 9.) GFM rendelet 1. §-a, a 3/2023. (III. 30.) GFM rendelet 1. §-a, a 4/2023. (IV. 11.) GFM rendelet 1. §-a, az 5/2023. (IV. 17.) GFM rendelet 2. §-a, a 6/2023. (IV. 27.) GFM rendelet 1. § a)-b) pontja és 2. §-a, a 7/2023. (V. 16.) GFM rendelet 1. §-a és 3. §-a, a 10/2023. (VI. 16.) GFM rendelet 1. §-a és 3. § (2) bekezdése szerint módosított szöveg.
