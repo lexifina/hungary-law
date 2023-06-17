@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2022-15-00-00
 | 2022-07-23 | 2022. évi XV. törvény | 2022-15-00-00.0 (közlönyállapot) |
 | 2022-07-23 | Nemzeti Jogszabálytár (egységes szerkezet) | 2022-15-00-00.1 |
 | 2023-06-16 | Nemzeti Jogszabálytár (egységes szerkezet) | 2022-15-00-00.2 |
+| 2023-06-17 | 2010. évi CXXX. törvény | 2022-15-00-00.3 |
