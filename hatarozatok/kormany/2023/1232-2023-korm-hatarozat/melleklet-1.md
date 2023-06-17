@@ -18,36 +18,26 @@
 
 | Határidő: | azonnal |
 
-## 2. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból és a Központi Maradványelszámolási Alapból történő átcsoportosításról, a 2017. évi költségvetési maradványok egy részének felhasználásáról, fejezetek közötti és fejezeten belüli átcsoportosításról, a Honvédelmi Minisztérium fejezet szociális hozzájárulási adó felhasználásáról és egyes kormányhatározatok módosításáról szóló 1347/2018. (VII. 26.) Korm. határozat 2. pont e) alpont
+## 2.[^1]
 
-## a) ea) pontjában a „118 000 000 forint” szövegrész helyébe a „119 262 011 forint” szöveg,
+## 3.[^2]
 
-## b) ec) pontjában a „325 000 000 forint” szövegrész helyébe a „314 334 582 forint” szöveg
+## 4.[^3]
 
-## lép.
+## 5.[^4]
 
-## 3. A Pannónia Szíve Program keretében a Váli Örökség turisztikai célú fejlesztéséről szóló 1740/2019. (XII. 19.) Korm. határozat [a továbbiakban: 1740/2019. (XII. 19.) Korm. határozat]
+## 6.[^5]
 
-## a) 3. pontjában az „a nemzeti vagyon kezeléséért felelős tárca nélküli miniszterrel” szövegrész helyébe az „az építési és közlekedési miniszterrel” szöveg,
+## 7.[^6]
 
-## b) 5. pontjában a „2022. október 30-ig” szövegrész helyébe a „2024. december 31-ig” szöveg
-
-## lép.
-
-## 4. A Magyarország Bécsi Nagykövetsége hivatali épületének teljes körű felújítása előkészítésének a Beruházás Előkészítési Alapból történő támogatásáról szóló 1051/2020. (II. 19.) Korm. határozat 5. pontjában a „2023. június 1.” szövegrész helyébe a „2024. március 31.” szöveg lép.
-
-## 5. A Párizsi Magyar Intézet épületének teljes körű felújítása előkészítésének a Beruházás Előkészítési Alapból történő támogatásáról szóló 1665/2020. (X. 15.) Korm. határozat 5. pontjában a „2023. június 1.” szövegrész helyébe a „2024. március 31.” szöveg lép.
-
-## 6. A Velencei-tavi partfal komplex fenntartható rehabilitációja projekthez kapcsolódó feladatokhoz szükséges forrás biztosításáról szóló 1219/2021. (IV. 29.) Korm. határozat
-
-## a) 1. pontjában a „2022. december 31.” szövegrész helyébe a „2023. december 31.” szöveg,
-
-## b) 2. pont b) alpontjában a „275 737 800 forint” szövegrész helyébe a „285 141 207 forint” szöveg
-
-## lép.
-
-## 7. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Beruházás Előkészítési Alapból, a Központi Maradványelszámolási Alapból, a Gazdaságvédelmi programok előirányzatból történő, valamint fejezetek közötti előirányzat-átcsoportosításról és kormányhatározat módosításáról szóló 1021/2021. (II. 2.) Korm. határozat 1. pont c) alpontjában a „2023. június 1.” szövegrész helyébe a „2024. március 31.” szöveg lép.
-
-## 8. Hatályát veszti az 1740/2019. (XII. 19.) Korm. határozat 1. pontjában az „ütemezetten, 2025-ig” szövegrész.
+## 8.[^7]
 
 1. melléklet az 1232/2023. (VI. 16.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 6. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 8. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
