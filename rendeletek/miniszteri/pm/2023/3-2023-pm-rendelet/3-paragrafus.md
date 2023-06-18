@@ -1,3 +1,3 @@
-3. § A Rendelet 60. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
+3. §[^4]
 
-(Az 1. mellékletben foglalt táblázat)
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
