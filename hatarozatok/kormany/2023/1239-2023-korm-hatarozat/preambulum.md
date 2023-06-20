@@ -1,0 +1,1 @@
+A Kormány – a Magyarország szomszédságában zajló háború idején a rezsicsökkentés megvédése és a honvédelmi célok teljesítése érdekében szükséges költségvetési intézkedésekről szóló 1281/2022. (VI. 4.) Korm. határozat alapján elvégzett közútfejlesztési beruházások felülvizsgálatára tekintettel –
