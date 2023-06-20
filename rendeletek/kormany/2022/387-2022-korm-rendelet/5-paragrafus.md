@@ -1,1 +1,0 @@
-5. § Az e rendelet hatálybalépésekor az Szjtv. 35. § (4) bekezdésében meghatározott célok teljesítésére benyújtott támogatási igények elbírálása érdekében folyamatban lévő eljárások e rendelet hatálybalépésének napján megszűnnek, amiről a támogatási igény elbírálására jogosult szerv 30 napon belül értesíti a támogatási igény benyújtóját.
