@@ -74,11 +74,11 @@ Miniszterelnökséget vezető miniszter
 
 Határidő: 2016. december 31., majd azt követően folyamatos
 
-8. A Kormány a Stratégia végrehajtásának elősegítése érdekében kezdeményezi a Digitális Exportfejlesztési Tárcaközi Bizottság (a továbbiakban: DETB) létrehozását.
+8.[^1] A Kormány a Stratégia végrehajtásának elősegítése érdekében kezdeményezi a Nemzetközi Technológiai Transzfer Tárcaközi Bizottság létrehozását.
 
-Felelős: külgazdasági és külügyminiszter
+Felelős: gazdaságfejlesztési miniszter
 
-nemzetgazdasági miniszter
+külgazdasági és külügyminiszter
 
 miniszterelnöki biztos
 
@@ -113,3 +113,5 @@ Felelős: miniszterelnöki biztos
 Határidő: az a) alpont vonatkozásában folyamatos,
 
 a b) alpont vonatkozásában első alkalommal 2017. június 30., majd évente június 30.
+
+[^1]: A 8. pont az 1240/2023. (VI. 20.) Korm. határozat 2. pontja szerint módosított szöveg.
