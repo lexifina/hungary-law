@@ -2,6 +2,6 @@
 
 (2) A Tartalékrendelet szerinti minimálisan tartandó kötelező tartalék (1) bekezdésben meghatározott mértékét meghaladó összege után az MNB jegybanki alapkamatot fizet.
 
-(3)[^1] A kötelező tartaléknak az (1) és (2) bekezdésben meghatározottakat meghaladó összege után az MNB 17% mértékű kamatot fizet.
+(3)[^1] A kötelező tartaléknak az (1) és (2) bekezdésben meghatározottakat meghaladó összege után az MNB 16% mértékű kamatot fizet.
 
-[^1]: Az 1. § (3) bekezdése a 23/2023. (V. 23.) MNB rendelet 1. §-ával megállapított szöveg.
+[^1]: Az 1. § (3) bekezdése a 26/2023. (VI. 20.) MNB rendelet 1. §-ával megállapított szöveg.
