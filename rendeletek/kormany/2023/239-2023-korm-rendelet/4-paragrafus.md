@@ -1,1 +1,3 @@
-4. § Hatályát veszti a veszélyhelyzetre tekintettel egyes rendelkezések alkalmazásának a Rezsivédelmi Alap növelése érdekében történő felfüggesztéséről szóló 387/2022. (X. 14.) Korm. rendelet.
+4. §[^1]
+
+[^1]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
