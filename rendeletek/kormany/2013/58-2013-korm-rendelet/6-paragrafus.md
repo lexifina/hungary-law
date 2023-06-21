@@ -1,5 +1,5 @@
 6. § (1) A pályázatot az ellátásért felelős – a 2. § (2) bekezdése esetén a képviseletet ellátó személy – székhelyén kell benyújtani a pályázati kiírási dokumentációban meghatározott módon és határidőben.
 
-(2)[^48] A pályázat benyújtására nyitva álló jogvesztő határidő a hirdetmény közzétételétől számítva nem lehet rövidebb 30 napnál.
+(2)[^50] A pályázat benyújtására nyitva álló jogvesztő határidő a hirdetmény közzétételétől számítva nem lehet rövidebb 30 napnál.
 
-[^48]: A 6. § (2) bekezdése az 53/2014. (III. 3.) Korm. rendelet 39. § (4) bekezdés b) pontja szerint módosított szöveg.
+[^50]: A 6. § (2) bekezdése az 53/2014. (III. 3.) Korm. rendelet 39. § (4) bekezdés b) pontja szerint módosított szöveg.

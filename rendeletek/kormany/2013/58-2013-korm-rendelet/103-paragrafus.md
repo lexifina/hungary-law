@@ -1,3 +1,3 @@
-## 102. §[^328] A 2013. évben mennyiségi korrekció alapján jogszerűen alkalmazott és a 62. § (4) bekezdésében meghatározott locsolási vízhasználati díjkedvezményhez új igénybejelentést nem kell teljesíteni.
+103. §[^365]
 
-[^328]: A 102. §-t a 292/2014. (XI. 26.) Korm. rendelet 35. §-a iktatta be.
+[^365]: A 103. §-t a 477/2016. (XII. 27.) Korm. rendelet 68. § (1) bekezdése iktatta be, a 243/2023. (VI. 20.) Korm. rendelet 18. § f) pontja hatályon kívül helyezte.

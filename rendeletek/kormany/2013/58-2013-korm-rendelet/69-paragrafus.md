@@ -1,5 +1,3 @@
-## 68/A. §[^217] A Magyar Honvédség és a rendvédelmi szervek kezelésében lévő ingatlanon a víziközmű-működtetéssel kapcsolatos minden tevékenység végzéséhez a létesítmény parancsnoka által adott belépési engedély szükséges. Az engedélykérelmet a tervezett tevékenység megkezdése előtt legalább 14 nappal kell kérni a létesítmény parancsnokától. Az engedély csak honvédelmi vagy nemzetbiztonsági érdekre tekintettel tagadható meg.
+## 27.[^239] Szerződésszegés és annak jogkövetkezményei
 
-## 27. Szerződésszegés és elszámolás szerződésszegés esetén
-
-[^217]: A 68/A. §-t a 292/2014. (XI. 26.) Korm. rendelet 17. §-a iktatta be.
+[^239]: A 27. alcím címe a 243/2023. (VI. 20.) Korm. rendelet 17. § 17. pontja szerint módosított szöveg.

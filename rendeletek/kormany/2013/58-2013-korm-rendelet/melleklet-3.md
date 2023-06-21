@@ -176,7 +176,7 @@
 
 ## 4. A működési engedélykérelem mellékletei
 
-## A működési engedély iránti kérelemhez mellékelni kell az érintett víziközmű-rendszer vonatkozásában:
+## A működési engedély kiadása iránti kérelemhez mellékelni kell az érintett víziközmű-rendszer vonatkozásában:
 
 ## 1. a víziközmű-rendszer alábbi adatait
 
@@ -184,7 +184,7 @@
 
 ## b) a szolgáltatási ágazat megnevezését és műszaki leírását,
 
-## c) a szolgáltatási terület pontos lehatárolását (helyrajzi szám, cím, terület nagysága [ha]),
+## c) a szolgáltatási terület (víziközmű-rendszer) térképi lehatárolását,
 
 ## d) a szolgáltatási területen érintett felhasználók számosságát és jellegét,
 
@@ -194,7 +194,7 @@
 
 ## 3. a rendszerfüggetlen víziközmű-elemek felsorolását,
 
-## 4. a víziközmű tulajdonjogi helyzetének bemutatását,
+## 4.
 
 ## 5. a vagyonleltárt, vagyonnyilvántartást,
 
@@ -204,9 +204,9 @@
 
 ## 8. a Vksztv. 27. § (2) bekezdésébe foglalt kivétel teljesülése esetén ennek igazolása és a koncessziós társaság nyilatkozatát, valamint az egyetemleges felelősségvállalásról szóló nyilatkozatot,
 
-## 9. a víziközmű-szolgáltatási tevékenységen kívüli tervezett vállalkozási tevékenység(ek) bemutatását,
+## 9.
 
-## 10.
+## 10. a víziközmű-rendszer hatályos vízjogi üzemeltetési engedélyét,
 
 ## 11. a feladatellátás egyes résztevékenységeihez szükséges műszaki eszközök rendelkezésére állását, azok avultságát jellemző paramétereket,
 
@@ -218,7 +218,7 @@
 
 ## 15. a műszaki diszpécserszolgálat kialakítását, a reagáló képességre jellemző paramétereket,
 
-## 16. az ellátási terület egybefüggőségét, az ellátási területet jellemző felhasználói egyenértékeket, ezek súlyponti jellemzőit, valamint ezekből az adottságokból következő üzemeltetés-hatékonysági és gazdaságossági intézkedések, továbbá szervezeti és szervezési megoldások bemutatását,
+## 16. az ellátási területet bemutató térképet a kérelem tárgyát képező víziközmű-rendszer kiemelésével, továbbá a szervezeti és szervezési megoldások bemutatását,
 
 ## 17. az üzemeltetési szabályzatot,
 
@@ -230,8 +230,8 @@
 
 ## 21. annak bemutatását, hogy a működési engedély kiadása esetében mely víziközmű-üzemeltetési tevékenységet vagy tevékenységeket kívánja kiszervezés keretében ellátni, 43. § (2) bekezdésében foglalt kérelem tartalmi elemeivel együtt,
 
-## 22.
+## 22. működési engedély módosítása iránti kérelem esetén az 1–21. pontban meghatározott mellékletek közül elegendő azokat mellékelni, amelyek vonatkozásában a korábbi engedélyezési eljárásban benyújtotthoz képest változás történt, és a változatozással nem érintett tárgykörök esetében elegendő azok változatlanságáról nyilatkozni.
 
-3. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^336]
+3. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^373]
 
-[^336]: A 3. melléklet a 342/2016. (XI. 17.) Korm. rendelet 37. § (3) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 437. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^373]: A 3. melléklet a 243/2023. (VI. 20.) Korm. rendelet 16. § (3) bekezdésével megállapított szöveg.

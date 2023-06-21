@@ -1,4 +1,4 @@
-1. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^334]
+1. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^370]
 
 Üzemeltetési szerződés minimális tartalmi követelményei
 
@@ -33,6 +33,8 @@ c) a víziközmű tulajdonosát terhelő víziközmű-fejlesztési kötelezetts�
 11. az ellátási terület pontos megjelölését,
 
 12. a víziközmű-üzemeltetés személyi feltételeit,
+
+12a.[^371] a víziközmű tulajdonjogi helyzetének, több tulajdonos esetén a víziközmű-rendszeren fennálló tulajdoni hányadok bemutatását,
 
 13. a víziközmű-üzemeltetés tárgyi feltételeit, ezen belül
 
@@ -80,4 +82,5 @@ a) a koncessziós tevékenység gyakorlására vonatkozó jogosultság igazolás
 
 b) a megépülő vagyontárgyak (vízilétesítmények) tulajdonjogára, az állami tulajdonba, illetve önkormányzati törzsvagyonba történő átadás-átvételre vonatkozó szándéknyilatkozatokat.
 
-[^334]: Az 1. melléklet a 342/2016. (XI. 17.) Korm. rendelet 37. § (1) bekezdésével megállapított szöveg.
+[^370]: Az 1. melléklet a 342/2016. (XI. 17.) Korm. rendelet 37. § (1) bekezdésével megállapított szöveg.
+[^371]: Az 1. melléklet 12a. pontját a 243/2023. (VI. 20.) Korm. rendelet 16. § (1) bekezdése iktatta be.

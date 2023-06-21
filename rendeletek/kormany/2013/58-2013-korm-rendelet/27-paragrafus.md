@@ -1,7 +1,8 @@
 27. § (1) A működési engedély módosítására irányuló eljárásra az engedélyezés szabályai az irányadók.
 
-(2) A kérelmező a víziközmű-szolgáltatói és működési engedély iránti kérelemhez mellékeli a 3. melléklet szerinti nyilatkozatot.
+(2)[^95]
 
-(3)[^91] A kérelmet és mellékleteit írásban és tartós adathordozón is meg kell küldeni a Hivatalnak.
+(3)[^96]
 
-[^91]: A 27. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 437. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^95]: A 27. § (2) bekezdését a 243/2023. (VI. 20.) Korm. rendelet 18. § a) pontja hatályon kívül helyezte.
+[^96]: A 27. § (3) bekezdését a 243/2023. (VI. 20.) Korm. rendelet 18. § a) pontja hatályon kívül helyezte.

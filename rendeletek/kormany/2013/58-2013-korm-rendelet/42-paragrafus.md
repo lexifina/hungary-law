@@ -1,18 +1,13 @@
-## 41. § A Hivatal a Vksztv. 42. § (1) és (2) bekezdéseiben meghatározott hozzájárulását határozatba foglalja.
+42. §[^117] (1) Az előzetes hozzájárulásra vonatkozó kérelmet
 
-42. § (1)[^109]
+a) a Vksztv. 42. § (1) bekezdésében meghatározott cégjogi esemény esetén a cégjogi eseménnyel érintett víziközmű-szolgáltató, több érintett víziközmű-szolgáltató esetén valamennyi érintett víziközmű-szolgáltató egyenként vagy közösen,
 
-(2) A 41. § szerinti hozzájárulás kiadása iránti kérelemnek tartalmaznia kell:
+b) a Vksztv. 42. § (2) bekezdésében meghatározott befolyásszerzés esetén a befolyásszerző
 
-a) a kérelmező nevét, székhelyét,
+nyújtja be a Hivatalhoz.
 
-b) a kérelmező adószámát, cégjegyzékszámát, statisztikai azonosító számát,
+(2) Az (1) bekezdés a) és b) pontja szerinti kérelemhez a 6. melléklet szerinti iratokat és adatokat kell mellékelni.
 
-c) a cégjogi esemény alapjául szolgáló döntést,
+(3) A Vksztv. 42. § (8) bekezdése szerinti kérelemhez a kérelmező mellékeli az előzetes hozzájárulásban foglaltaknak való megfelelést alátámasztó nyilatkozatokat és dokumentumokat.
 
-d) a cégjogi eseményt alátámasztó írásbeli indokolást.
-
-(3)[^110]
-
-[^109]: A 42. § (1) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 193. §-a hatályon kívül helyezte.
-[^110]: A 42. § (3) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 193. §-a hatályon kívül helyezte.
+[^117]: A 42. § a 243/2023. (VI. 20.) Korm. rendelet 5. §-ával megállapított szöveg.

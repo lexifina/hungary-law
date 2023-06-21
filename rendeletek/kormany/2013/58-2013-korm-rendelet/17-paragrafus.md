@@ -2,27 +2,27 @@
 
 ## A KÖZÉRDEKŰ ÜZEMELTETŐ KIJELÖLÉSÉRE VONATKOZÓ SZABÁLYOK
 
-17. § (1)[^59] Közérdekű üzemeltetői tevékenységet kizárólag az a víziközmű-szolgáltató végezhet, amelynek a víziközmű-szolgáltatói engedélyét a Hivatal nem a Vksztv. szerinti kivételes szabályokra tekintettel bocsátotta ki.
+17. § (1)[^61] Közérdekű üzemeltetői tevékenységet kizárólag az a víziközmű-szolgáltató végezhet, amelynek a víziközmű-szolgáltatói engedélyét a Hivatal nem a Vksztv. szerinti kivételes szabályokra tekintettel bocsátotta ki.
 
-(2)[^60] A víziközmű-szolgáltatói engedély iránti kérelemben – az (1) bekezdés szerinti kivétellel – a kérelmező nyilatkozik arra vonatkozóan, hogy az engedély megszerzése esetén vállalja-e, hogy a közérdekű üzemeltetőként kijelölhető engedélyesek lajstromába felvételre kerüljön.
+(2)[^62] A víziközmű-szolgáltatói engedély iránti kérelemben – az (1) bekezdés szerinti kivétellel – a kérelmező nyilatkozik arra vonatkozóan, hogy az engedély megszerzése esetén vállalja-e, hogy a közérdekű üzemeltetőként kijelölhető engedélyesek lajstromába felvételre kerüljön.
 
-(3)[^61] A lajstromba nem vehető fel, vagy onnan törölni kell azt a víziközmű-szolgáltatót, amelynek működési engedélyeibe foglalt felhasználói egyenérték nem éri el a 150 000-et.
+(3)[^63] A lajstromba nem vehető fel, vagy onnan törölni kell azt a víziközmű-szolgáltatót, amelynek működési engedélyeibe foglalt felhasználói egyenérték nem éri el a 150 000-et.
 
-(3a)[^62] A víziközmű-szolgáltató a víziközmű-szolgáltatói vagy működési engedély módosítására irányuló kérelmében visszavonhatja a (2) bekezdés alapján megtett nyilatkozatát. Ha korábban a víziközmű-szolgáltató a közérdekű üzemeltetőként kijelölhető engedélyesek lajstromába történő felvételét nem kérte, a (2) bekezdés szerinti nyilatkozatot a víziközmű-szolgáltatói vagy működési engedély módosítására irányuló kérelmében is megteheti.
+(3a)[^64] A víziközmű-szolgáltató a víziközmű-szolgáltatói vagy működési engedély módosítására irányuló kérelmében visszavonhatja a (2) bekezdés alapján megtett nyilatkozatát. Ha korábban a víziközmű-szolgáltató a közérdekű üzemeltetőként kijelölhető engedélyesek lajstromába történő felvételét nem kérte, a (2) bekezdés szerinti nyilatkozatot a víziközmű-szolgáltatói vagy működési engedély módosítására irányuló kérelmében is megteheti.
 
-(3b)[^63] A nyilatkozat (3a) bekezdés szerinti visszavonása nem érinti a közérdekű üzemeltető kijelölésére vonatkozó korábbi határozatok hatályát.
+(3b)[^65] A nyilatkozat (3a) bekezdés szerinti visszavonása nem érinti a közérdekű üzemeltető kijelölésére vonatkozó korábbi határozatok hatályát.
 
-(4)[^64] Amennyiben az ellátási területen nyújtott víziközmű-szolgáltatás tekintetében a Vksztv. 32. § (1) és (1a) bekezdése szerinti körülmények bekövetkezése közvetlenül fenyeget, vagy azok bekövetkeztek, e körülményeket a víziközmű-szolgáltató és az ellátásért felelős a Hivatalnak köteles bejelenteni.
+(4)[^66] Amennyiben az ellátási területen nyújtott víziközmű-szolgáltatás tekintetében a Vksztv. 32. § (1) és (1a) bekezdése szerinti körülmények bekövetkezése közvetlenül fenyeget, vagy azok bekövetkeztek, e körülményeket a víziközmű-szolgáltató és az ellátásért felelős a Hivatalnak köteles bejelenteni.
 
 (5) A (4) bekezdés szerinti bejelentési kötelezettségnek írásban, legkésőbb a körülményekről történt tudomásszerzést követő napon, a Hivatal honlapján e célból közzétett elérhetőségekre kell eleget tenni.
 
 (6) A bejelentési kötelezettség elmulasztása vagy késedelmes teljesítése a mulasztó személy részéről a víziközmű-szolgáltatás tekintetében fennálló kötelezettségei súlyos megszegésének minősül.
 
-(7)[^65] A Hivatal a bejelentés alapján rendelkezésre álló információk kiegészítése, a kialakult állapot tisztázása érdekében ellenőrzést tart.
+(7)[^67] A Hivatal a bejelentés alapján rendelkezésre álló információk kiegészítése, a kialakult állapot tisztázása érdekében ellenőrzést tart.
 
-(8)[^66] A Hivatal a közérdekű üzemeltető kijelölésére irányuló eljárást (e fejezet alkalmazásában a továbbiakban: kijelölési eljárás) a Vksztv. 32. § (1) és (1a) bekezdésében meghatározott feltételek fennállása esetén az ellenőrzés lezárását követő három munkanapon belül, hivatalból megindítja.
+(8)[^68] A Hivatal a közérdekű üzemeltető kijelölésére irányuló eljárást (e fejezet alkalmazásában a továbbiakban: kijelölési eljárás) a Vksztv. 32. § (1) és (1a) bekezdésében meghatározott feltételek fennállása esetén az ellenőrzés lezárását követő három munkanapon belül, hivatalból megindítja.
 
-(9)[^67] A kijelölési eljárás megindításáról a Hivatal – az ellátásért felelősön kívül – értesíti az érintett ellátási terület szerint illetékes, az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló kormányrendeletben meghatározott népegészségügyi szervet (a továbbiakban: népegészségügyi szerv), vízügyi, valamint katasztrófavédelmi hatóságot.
+(9)[^69] A kijelölési eljárás megindításáról a Hivatal – az ellátásért felelősön kívül – értesíti az érintett ellátási terület szerint illetékes, az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló kormányrendeletben meghatározott népegészségügyi szervet (a továbbiakban: népegészségügyi szerv), vízügyi, valamint katasztrófavédelmi hatóságot.
 
 (10) A kijelölési eljárás során a víziközmű-szolgáltatás fenntartása érdekében a Hivatal mind a víziközmű-szolgáltatót, mind az ellátásért felelőst haladéktalanul intézkedések megtételére kötelezheti, egyidejűleg kísérletet tesz a víziközmű-szolgáltatás zavartalan működésének helyreállítására.
 
@@ -40,24 +40,24 @@ d) a víziközmű-szolgáltatók közérdekű üzemeltetés során felmerülő a
 
 e) a feladatok átvételéhez szükséges előkészület időigényét.
 
-(13)[^68] A Hivatal a (12) bekezdés szerinti kijelölési szempontoknak leginkább eleget tevő, a lajstromban szereplő víziközmű-szolgáltatókkal tárgyalást folytat az ellátandó közérdekű üzemeltetői feladatokról.
+(13)[^70] A Hivatal a (12) bekezdés szerinti kijelölési szempontoknak leginkább eleget tevő, a lajstromban szereplő víziközmű-szolgáltatókkal tárgyalást folytat az ellátandó közérdekű üzemeltetői feladatokról.
 
-(14)[^69] Ha a víziközmű-szolgáltatás a (13) bekezdés szerinti víziközmű-szolgáltatókkal nem biztosítható, a Hivatal a (12) bekezdésben foglalt szempontok alapján bármely víziközmű-szolgáltatót kijelölheti közérdekű üzemeltetőnek, amelynek a víziközmű-szolgáltatói engedélyét nem a Vksztv. szerint kivételes szabályokra tekintettel bocsátotta ki.
+(14)[^71] Ha a víziközmű-szolgáltatás a (13) bekezdés szerinti víziközmű-szolgáltatókkal nem biztosítható, a Hivatal a (12) bekezdésben foglalt szempontok alapján bármely víziközmű-szolgáltatót kijelölheti közérdekű üzemeltetőnek, amelynek a víziközmű-szolgáltatói engedélyét nem a Vksztv. szerint kivételes szabályokra tekintettel bocsátotta ki.
 
-(15)[^70] A Hivatal a közérdekű üzemeltető kijelölését szükségessé tevő, a Vksztv. 32. § (1) és (1a) bekezdésében rögzített körülményeket, az addigi víziközmű-szolgáltató és az ellátásért felelős ezzel összefüggő tevékenységét a kijelölési eljárással egyidejűleg megvizsgálja, és ha jogszabálysértést állapít meg, bírságot szab ki.
+(15)[^72] A Hivatal a közérdekű üzemeltető kijelölését szükségessé tevő, a Vksztv. 32. § (1) és (1a) bekezdésében rögzített körülményeket, az addigi víziközmű-szolgáltató és az ellátásért felelős ezzel összefüggő tevékenységét a kijelölési eljárással egyidejűleg megvizsgálja, és ha jogszabálysértést állapít meg, bírságot szab ki.
 
-(16)[^71] A Vksztv. 83. § (3a) bekezdésében foglalt kötelezettség elmulasztása esetében a Hivatal a (15) bekezdésben foglaltak szerint jár el.
+(16)[^73] A Vksztv. 83. § (3a) bekezdésében foglalt kötelezettség elmulasztása esetében a Hivatal a (15) bekezdésben foglaltak szerint jár el.
 
-[^59]: A 17. § (1) bekezdése a 342/2016. (XI. 17.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^60]: A 17. § (2) bekezdése a 342/2016. (XI. 17.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^61]: A 17. § (3) bekezdése a 342/2016. (XI. 17.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^62]: A 17. § (3a) bekezdését a 367/2015. (XII. 2.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 342/2016. (XI. 17.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^63]: A 17. § (3b) bekezdését a 367/2015. (XII. 2.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^64]: A 17. § (4) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 27. § 2. pontja szerint módosított szöveg.
-[^65]: A 17. § (7) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^66]: A 17. § (8) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 27. § 3. pontja szerint módosított szöveg.
-[^67]: A 17. § (9) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 139. § a) pontja, a 292/2014. (XI. 26.) Korm. rendelet 37. § 11. pontja szerint módosított szöveg.
-[^68]: A 17. § (13) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 28. § (2) bekezdés 1. pontja szerint módosított szöveg.
-[^69]: A 17. § (14) bekezdése a 342/2016. (XI. 17.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^70]: A 17. § (15) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 27. § 4. pontja szerint módosított szöveg.
-[^71]: A 17. § (16) bekezdését a 342/2016. (XI. 17.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^61]: A 17. § (1) bekezdése a 342/2016. (XI. 17.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^62]: A 17. § (2) bekezdése a 342/2016. (XI. 17.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^63]: A 17. § (3) bekezdése a 342/2016. (XI. 17.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^64]: A 17. § (3a) bekezdését a 367/2015. (XII. 2.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 342/2016. (XI. 17.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^65]: A 17. § (3b) bekezdését a 367/2015. (XII. 2.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^66]: A 17. § (4) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 27. § 2. pontja szerint módosított szöveg.
+[^67]: A 17. § (7) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^68]: A 17. § (8) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 27. § 3. pontja szerint módosított szöveg.
+[^69]: A 17. § (9) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 139. § a) pontja, a 292/2014. (XI. 26.) Korm. rendelet 37. § 11. pontja szerint módosított szöveg.
+[^70]: A 17. § (13) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 28. § (2) bekezdés 1. pontja szerint módosított szöveg.
+[^71]: A 17. § (14) bekezdése a 342/2016. (XI. 17.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^72]: A 17. § (15) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 27. § 4. pontja szerint módosított szöveg.
+[^73]: A 17. § (16) bekezdését a 342/2016. (XI. 17.) Korm. rendelet 6. § (3) bekezdése iktatta be.

@@ -1,6 +1,6 @@
 ## 18. A felhasználó személyében bekövetkező változás
 
-60. §[^164] (1) Ha a felhasználási helyen a felhasználó személye megváltozik, a korábbi és az új felhasználó a változást legkésőbb – a (6) bekezdésben foglalt kivétellel – a birtokátruházástól számított 15 napon belül kötelesek a víziközmű-szolgáltatónak az üzletszabályzatban foglaltak szerint bejelenteni és annak rendelkezései szerint eljárni.
+60. §[^179] (1) Ha a felhasználási helyen a felhasználó személye megváltozik, a korábbi és az új felhasználó a változást legkésőbb – a (6) bekezdésben foglalt kivétellel – a birtokátruházástól számított 15 napon belül kötelesek a víziközmű-szolgáltatónak az üzletszabályzatban foglaltak szerint bejelenteni és annak rendelkezései szerint eljárni.
 
 (2) A korábbi felhasználó az (1) bekezdés szerinti bejelentés keretében a közszolgáltatási szerződését is felmondja. A felmondás az új felhasználóval létrejött közszolgálati szerződés hatálybalépése napján hatályosul.
 
@@ -34,9 +34,9 @@ g) a korábbi felhasználó vagy annak helyén a (6) bekezdés szerinti bejelent
 
 (4) Az (1) bekezdés szerinti bejelentés egyúttal az új felhasználó közszolgáltatási szerződés megkötésére vonatkozó igényének is minősül.
 
-(5)[^165] Az (1) bekezdés szerinti bejelentést a víziközmű-szolgáltató üzletszabályzatában meghatározott adattartalmú formanyomtatványon vagy a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 1. § (1) bekezdés 2. pontjában meghatározott adatváltozás-kezelési szolgáltatás útján (a továbbiakban: adatváltozás-kezelési szolgáltatás) kell benyújtani. A víziközmű-szolgáltató a formanyomtatványt az ügyfélszolgálatán hozzáférhetővé teszi és honlapján elektronikusan letölthető formátumban közzéteszi, továbbá azt kérés esetén a korábbi felhasználó vagy az új felhasználó számára postai úton is megküldi.
+(5)[^180] Az (1) bekezdés szerinti bejelentést a víziközmű-szolgáltató üzletszabályzatában meghatározott adattartalmú formanyomtatványon vagy a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 1. § (1) bekezdés 2. pontjában meghatározott adatváltozás-kezelési szolgáltatás útján (a továbbiakban: adatváltozás-kezelési szolgáltatás) kell benyújtani. A víziközmű-szolgáltató a formanyomtatványt az ügyfélszolgálatán hozzáférhetővé teszi és honlapján elektronikusan letölthető formátumban közzéteszi, továbbá azt kérés esetén a korábbi felhasználó vagy az új felhasználó számára postai úton is megküldi.
 
-(6)[^166] A felhasználó elhalálozása esetén az örökös az elhalálozás tényét legkésőbb annak tudomására jutása napjától számított 60 napon belül a víziközmű-szolgáltató számára az (5) bekezdésben meghatározott formanyomtatványon vagy adatváltozás-kezelési szolgáltatás útján bejelenti. A bejelentésnek legalább az (3) bekezdés a) pontja, b) pont ba) alpontja, valamint d)–g) pontja szerinti adatokat, valamint a halotti anyakönyvi kivonat másolatát kell tartalmaznia. A bejelentés az örökös közszolgáltatási szerződés megkötésére vonatkozó igényének minősül.
+(6)[^181] A felhasználó elhalálozása esetén az örökös az elhalálozás tényét legkésőbb annak tudomására jutása napjától számított 60 napon belül a víziközmű-szolgáltató számára az (5) bekezdésben meghatározott formanyomtatványon vagy adatváltozás-kezelési szolgáltatás útján bejelenti. A bejelentésnek legalább az (3) bekezdés a) pontja, b) pont ba) alpontja, valamint d)–g) pontja szerinti adatokat, valamint a halotti anyakönyvi kivonat másolatát kell tartalmaznia. A bejelentés az örökös közszolgáltatási szerződés megkötésére vonatkozó igényének minősül.
 
 (7) Ha a felhasználó a felhasználási helyen a víziközmű-szolgáltatás igénybevételével felhagy, a felhasználási hely tekintetében mindaddig felel a víziközmű-szolgáltatóval szemben a víziközmű-szolgáltatási szerződésben foglaltak teljesítéséért, amíg az (1) bekezdés szerinti bejelentést meg nem teszi vagy nem kéri a szüneteltetést.
 
@@ -48,6 +48,6 @@ g) a korábbi felhasználó vagy annak helyén a (6) bekezdés szerinti bejelent
 
 (11) Ha a víziközmű-szolgáltató a (9) bekezdésben foglalt ellenőrzési feladatának a felhasználóváltás bejelentésétől számított 30 napon belül nem tesz eleget, nem hivatkozhat felhasználói szerződésszegésre, és ezen a jogcímen nem érvényesíthet igényt a felhasználóval szemben.
 
-[^164]: A 60. § a 342/2016. (XI. 17.) Korm. rendelet 20. §-ával megállapított szöveg.
-[^165]: A Vhr. 60. § (5) bekezdése a 672/2021. (XII. 2.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
-[^166]: A Vhr. 60. § (6) bekezdése a 672/2021. (XII. 2.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
+[^179]: A 60. § a 342/2016. (XI. 17.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^180]: A Vhr. 60. § (5) bekezdése a 672/2021. (XII. 2.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
+[^181]: A Vhr. 60. § (6) bekezdése a 672/2021. (XII. 2.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.

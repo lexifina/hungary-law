@@ -1,4 +1,4 @@
-31. § (1)[^93] A víziközmű-szolgáltatói engedélyezési eljárásban a kérelmező műszaki eszközfelkészültsége tekintetében a Hivatal vizsgálja:
+31. § (1)[^98] A víziközmű-szolgáltatói engedélyezési eljárásban a kérelmező műszaki eszközfelkészültsége tekintetében a Hivatal vizsgálja:
 
 a) a feladatellátás egyes résztevékenységeihez szükséges műszaki eszközök rendelkezésére állását,
 
@@ -10,7 +10,7 @@ d) a zavartalan feladatellátás érdekében szükséges készenléti és szüks
 
 e) az üzemeltetés hatékonyságát és biztonságát szolgáló felügyeleti és folyamatirányító megoldásokat.
 
-(2)[^94] A víziközmű-szolgáltatói engedélyezési eljárásban a kérelmező szervezeti, logisztikai képességei tekintetében a Hivatal vizsgálja, s az ellátandó feladat területi kiterjedtségére tekintettel ítéli meg:
+(2)[^99] A víziközmű-szolgáltatói engedélyezési eljárásban a kérelmező szervezeti, logisztikai képességei tekintetében a Hivatal vizsgálja, s az ellátandó feladat területi kiterjedtségére tekintettel ítéli meg:
 
 a) a kérelmező szervezeti felépítését, annak tagoltságát, különös tekintettel a területi üzemeltetés feladataira,
 
@@ -24,19 +24,19 @@ e) a 24 órás műszaki diszpécserszolgálat kialakítását, annak hatékonys�
 
 f) a hibaelhárítás érdekében folyamatosan rendelkezésre álló (készenlét, vagy ügyelet) kapacitások meglétét, azok munkaszervezését, területi lefedettségét.
 
-(3)[^95] A Hivatal a víziközmű-szolgáltatói engedélyezési eljárásban a kérelmező személyi állománya tekintetében, mint engedélyezési követelményt, vizsgálja:
+(3)[^100] A Hivatal a víziközmű-szolgáltatói engedélyezési eljárásban a kérelmező személyi állománya tekintetében, mint engedélyezési követelményt, vizsgálja:
 
 a) a kérelmezőnek a munka törvénykönyvéről szóló törvény szerinti vezetője és annak helyettesei:
 
 aa) rendelkeznek-e a c) pont – ennek hiányában – a (4) bekezdés szerinti végzettséggel, vagy
 
-ab)[^96] rendelkeznek-e gazdasági, vagy jogi szakirányú felsőfokú szakképesítéssel vagy felsőfokú végzettséggel, továbbá
+ab)[^101] rendelkeznek-e gazdasági, vagy jogi szakirányú felsőfokú szakképesítéssel vagy felsőfokú végzettséggel, továbbá
 
-ac) a víziközmű-szolgáltatásban szerzett szakmai tapasztalatuk időtartama eléri-e az öt évet,
+ac)[^102] rendelkeznek-e a víziközmű-szolgáltatásban szerzett – gazdasági vezető esetén gazdasági területen szerzett – legalább öt év szakmai tapasztalattal.
 
 b) az üzemeltetés műszaki irányítását, felügyeletét végző, jogszabályban rögzített képesítési követelménnyel és legalább kétéves szakmai gyakorlattal rendelkező szakemberek főállású munkaviszonyban vannak-e foglalkoztatva,
 
-c)[^97] hogy a kérelmező rendelkezik-e főállású munkaviszonyban álló, osztatlan képzésben, vagy mesterképzésben oklevelet szerzett, a szakterületének megfelelő munkakörben foglalkoztatott:
+c)[^103] a kérelmező rendelkezik-e főállású munkaviszonyban álló, osztatlan képzésben, vagy mesterképzésben oklevelet szerzett, a szakterületének megfelelő munkakörben foglalkoztatott:
 
 ca) vízépítő mérnökkel,
 
@@ -58,8 +58,9 @@ ch) ivóvíz-szolgáltatás esetén hidrogeológussal.
 
 (5) A (3) bekezdés a) és b) pontjai tekintetében az engedély feltétel tűzésével nem adható ki.
 
-[^93]: A 31. § (1) bekezdés nyitó szövegrésze a 342/2016. (XI. 17.) Korm. rendelet 39. § 11. pontja szerint módosított szöveg.
-[^94]: A 31. § (2) bekezdés nyitó szövegrésze a 342/2016. (XI. 17.) Korm. rendelet 39. § 12. pontja szerint módosított szöveg.
-[^95]: A 31. § (3) bekezdés nyitó szövegrésze a 342/2016. (XI. 17.) Korm. rendelet 39. § 13. pontja szerint módosított szöveg.
-[^96]: A 31. § (3) bekezdés a) pont ab) alpontja a 602/2021. (X. 29.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^97]: A 31. § (3) bekezdés c) pontja a 367/2015. (XII. 2.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^98]: A 31. § (1) bekezdés nyitó szövegrésze a 342/2016. (XI. 17.) Korm. rendelet 39. § 11. pontja szerint módosított szöveg.
+[^99]: A 31. § (2) bekezdés nyitó szövegrésze a 342/2016. (XI. 17.) Korm. rendelet 39. § 12. pontja szerint módosított szöveg.
+[^100]: A 31. § (3) bekezdés nyitó szövegrésze a 342/2016. (XI. 17.) Korm. rendelet 39. § 13. pontja szerint módosított szöveg.
+[^101]: A 31. § (3) bekezdés a) pont ab) alpontja a 602/2021. (X. 29.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^102]: A 31. § (3) bekezdés a) pont ac) alpontja a 243/2023. (VI. 20.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^103]: A 31. § (3) bekezdés c) pontja a 367/2015. (XII. 2.) Korm. rendelet 6. §-ával megállapított, a 243/2023. (VI. 20.) Korm. rendelet 17. § 6. pontja szerint módosított szöveg.

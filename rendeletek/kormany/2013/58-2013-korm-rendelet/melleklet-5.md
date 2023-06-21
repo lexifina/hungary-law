@@ -1,6 +1,6 @@
-## A víziközmű-szolgáltatókra vonatkozó engedélyezési feltételek közgazdasági viszonyainak meghatározása
+## A víziközmű-szolgáltatói engedélyezési feltételek közgazdasági viszonyainak meghatározása
 
-## A számvitelről szóló 2000. évi C. törvény (a továbbiakban: Sztv.) fogalmainak felhasználásával az alábbi gazdasági mutatókat és értékhatárokat kell figyelembe venni a víziközmű-szolgáltatás végzéséhez előírt víziközmű-szolgáltatói és működési engedély (a továbbiakban: engedély) kiadásához.
+## A számvitelről szóló 2000. évi C. törvény (a továbbiakban: Sztv.) fogalmainak felhasználásával az alábbi gazdasági mutatókat és értékhatárokat kell figyelembe venni a víziközmű-szolgáltatói engedély kiadásához.
 
 ## A meghatározott mutatókat a víziközmű-szolgáltatóknak az engedélykérelem benyújtását megelőző lezárt üzleti évről szóló, könyvvizsgáló által hitelesített, Sztv. által előírt beszámoló alapján kell igazolniuk.
 
@@ -70,6 +70,6 @@
 
 ## A 0,8 értéket el nem érő mutatóval rendelkező Kérelmező részére engedélyt a Hivatal nem ad.
 
-5. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^338]
+5. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^375]
 
-[^338]: Az 5. melléklet a 292/2014. (XI. 26.) Korm. rendelet 37. § 54. pontja, a 70/2015. (III. 30.) Korm. rendelet 223. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^375]: Az 5. melléklet a 292/2014. (XI. 26.) Korm. rendelet 37. § 54. pontja, a 70/2015. (III. 30.) Korm. rendelet 223. § (3) bekezdés a) pontja szerint módosított szöveg.

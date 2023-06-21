@@ -1,3 +1,3 @@
-58. §[^162]
+58. §[^177]
 
-[^162]: Az 58. §-t a 292/2014. (XI. 26.) Korm. rendelet 38. § (1) bekezdés 7. pontja hatályon kívül helyezte.
+[^177]: Az 58. §-t a 292/2014. (XI. 26.) Korm. rendelet 38. § (1) bekezdés 7. pontja hatályon kívül helyezte.
