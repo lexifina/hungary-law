@@ -1,1 +1,3 @@
-5. § Hatályát veszti a Digitális Jólét Program végrehajtásával összefüggő egyes feladatokról, valamint a Kormányzati Informatikai Fejlesztési Ügynökségről szóló 268/2010. (XII. 3.) Korm. rendelet módosításáról szóló 127/2017. (VI. 8.) Korm. rendelet 3. §-a, 4. § (1) bekezdés e), f) pontja és i) pont id), if)–ih) alpontja, valamint 4. § (2) bekezdés d)–h) pontja.
+5. §[^1]
+
+[^1]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
