@@ -1,16 +1,8 @@
 ## 3. A súlyos üzemzavar és a súlyos baleset bejelentése és vizsgálata
 
-3. § (1) A bejelentést
+3. §[^4] (1) A bányászatról szóló 1993. évi XLVIII. törvény 35. § (1) bekezdése szerinti bejelentést a bányavállalkozó vagy a gázipari engedélyes (a továbbiakban: engedélyes) a súlyos üzemzavar vagy a súlyos baleset bekövetkezésétől vagy az arról való tudomásszerzést követően szóban azonnal, és a következő munkanapon – az addig megismert tények és körülmények közlésével együtt – írásban teszi meg.
 
-a) a Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: bányafelügyelet),
-
-b) – ha a súlyos üzemzavar vagy súlyos baleset bányászati hulladékkezelés során következik be, vagy az üzemzavar környezetszennyezést, környezetkárosodást okozott, vagy a környezetkárosodás védett természeti területen, Natura 2000 területen történt, vagy azokra hatást gyakorol – a területi környezetvédelmi és természetvédelmi hatóság, valamint
-
-c)[^1] a vármegyei, fővárosi katasztrófavédelmi igazgatóság
-
-részére a súlyos üzemzavar vagy a súlyos baleset bekövetkezésétől vagy az arról való tudomásszerzéstől számított 2 órán belül szóban, és a következő munkanapon – az addig megismert tények és körülmények közlésével együtt – írásban teszi meg.
-
-(2) A bejelentés – a (3) bekezdésben foglaltakra figyelemmel – tartalmazza
+(2) A bejelentés tartalmazza
 
 a) a súlyos üzemzavar vagy súlyos baleset időpontjának és helyének megjelölését, rövid leírását,
 
@@ -20,10 +12,8 @@ c) a sérültek állapotára vonatkozó adatokat, valamint
 
 d) az engedélyes által megtett és megtenni tervezett intézkedések ismertetését.
 
-(3) A környezetvédelmi és természetvédelmi hatóságnak vagy a vízügyi hatóságnak tett bejelentés a (2) bekezdés a) és d) pontjában foglaltakat tartalmazza.
+(3) Ha a súlyos baleset a súlyos üzemzavar során keletkezett, az engedélyes azt a súlyos üzemzavarral együtt jelenti be és vizsgálja ki.
 
-(4) Ha a súlyos baleset a súlyos üzemzavar során keletkezett, azt a súlyos üzemzavarral együtt kell bejelenteni és kivizsgálni.
+(4) A bejelentés nem érinti az engedélyes más jogszabályban előírt bejelentési kötelezettségét.
 
-(5) A bejelentés nem érinti a bányavállalkozó és a gázipari engedélyes (a továbbiakban: engedélyes) egyéb jogszabályban előírt bejelentési kötelezettségét.
-
-[^1]: A 3. § (1) bekezdés c) pontja a 40/2022. (XII. 19.) SZTFH rendelet 44. §-a szerint módosított szöveg.
+[^4]: A 3. § a 12/2023. (VI. 14.) SZTFH rendelet 1. §-ával megállapított szöveg.

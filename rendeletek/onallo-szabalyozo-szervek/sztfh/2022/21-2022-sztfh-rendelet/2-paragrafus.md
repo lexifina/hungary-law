@@ -64,12 +64,16 @@ j) egyéb anyag robbanása;
 
 k) a bányafelügyelet tűzvédelmi hatósági felügyelete alá tartozó létesítményben vagy tevékenység során keletkezett, tűzoltósági beavatkozást is igénylő tűz;
 
-l) a Szabályozott Tevékenységek Felügyeleti Hatósága elnökének a bányászati hulladékok kezeléséről szóló rendelete szerinti súlyos baleset;
+l)[^1]
 
-m) szénhidrogén nem szándékos kiszabadulása folyadék esetében 100 m3-nél, gázok esetében 100 000 m3-nél nagyobb mennyiségben; valamint
+m)[^2] szénhidrogén nem szándékos kiszabadulása folyadék esetében 100 m3-nél, gázok esetében 100 000 m3-nél nagyobb mennyiségben;
 
-n) az a)–m) pontban meghatározottakon túl, amennyiben a bányafelügyelet alá tartozó tevékenység ellátása során, a tevékenység végzésének környezetében tartózkodó személyek megsérülnek, vagy ennek közvetlen veszélye fennáll.
+n)[^3]
 
 (2) Az (1) bekezdés c) pont ca)–cc) alpontjában foglalt magánút és közutak fogalmát a közúti közlekedésről szóló törvény határozza meg.
 
 (3) E rendelet alkalmazásában súlyos baleset a munkavédelemről szóló törvény szerinti súlyos munkabaleset.
+
+[^1]: A 2. § (1) bekezdés l) pontját a 12/2023. (VI. 14.) SZTFH rendelet 2. § a) pontja hatályon kívül helyezte.
+[^2]: A 2. § (1) bekezdés m) pontja a 12/2023. (VI. 14.) SZTFH rendelet 2. § b) pontja szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdés n) pontját a 12/2023. (VI. 14.) SZTFH rendelet 2. § c) pontja hatályon kívül helyezte.
