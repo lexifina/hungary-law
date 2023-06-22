@@ -230,7 +230,7 @@ h) a robbantás során szükséges biztonsági intézkedéseket, a védendő lé
 
 i) a robbantás műszaki leírását, valamint
 
-j) – a földalatti bányában és a geofizikai mérések esetében végzett robbantás kivételével – olyan méretarányú térképet három, természetvédelmi hatóság érintettsége esetén négy példányban, amelyen a tervezett robbantás helye, hatásterülete és biztonsági távolságai, az ezen belül lévő valamennyi építmény, védendő létesítmény, ezek védőterülete, védőövezete, biztonsági övezete, továbbá a vízi utak és a védett természeti területek jól látható módon feltüntetésre kerültek.
+j)[^4] – a földalatti bányában és a geofizikai mérések esetében végzett robbantás kivételével – olyan méretarányú térképet, amelyen a tervezett robbantás helye, hatásterülete és biztonsági távolságai, az ezen belül lévő valamennyi építmény, védendő létesítmény, ezek védőterülete, védőövezete, biztonsági övezete, továbbá a vízi utak és a védett természeti területek jól látható módon feltüntetésre kerültek.
 
 4.2. A kérelem benyújtásakor igazolni kell
 
@@ -241,3 +241,5 @@ b) épület robbantásos bontása esetén az építésügyi hatóság végleges 
 c) a robbantandó építmény vagy tárgy tulajdonosának, kezelőjének robbantásra vonatkozó megrendelését, ha az nem a robbantás végzője.
 
 4.3. A kőolaj- és földgázbányászat, vagy a víz kitermelése céljából fúrólyukban tervezett robbantás esetében nem kell a 4. pont 4.1. alpont j) pontja szerinti térképet mellékelni, ha a robbantás biztonsági távolságán belül nem található építmény vagy más védendő létesítmény.
+
+[^4]: A 2. melléklet 4. pont 4.1. alpont j) pontja a 12/2023. (VI. 14.) SZTFH rendelet 4. §-a szerint módosított szöveg.

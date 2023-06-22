@@ -1,6 +1,6 @@
 ## 4. Bejelentési kötelezettség
 
-5. § (1)[^1] A robbanóanyag-felhasználás tervezett időpontját – a (2) bekezdésben foglalt kivétellel – a bányafelügyeletnek, a felhasználás helye szerint illetékes vármegyei rendőr-főkapitányságnak és környezetvédelmi hatóságnak, továbbá épület vagy építmény robbantása esetén a hivatásos katasztrófavédelmi szerv területi szervének a 3. melléklet szerinti adattartalommal a robbantás előtt legalább 72 órával korábban be kell jelenteni. A bejelentéshez a hivatásos katasztrófavédelmi szerv a honlapján formanyomtatványt tesz közzé.
+5. § (1)[^1] A robbanóanyag-felhasználás tervezett időpontját – a (2) bekezdésben foglalt kivétellel – a bányafelügyeletnek, a felhasználás helye szerint illetékes vármegyei rendőr-főkapitányságnak, települési önkormányzat jegyzőjének és környezetvédelmi hatóságnak, továbbá épület vagy építmény robbantása esetén a hivatásos katasztrófavédelmi szerv területi szervének a 3. melléklet szerinti adattartalommal a robbantás előtt legalább 72 órával korábban be kell jelenteni. A bejelentéshez a hivatásos katasztrófavédelmi szerv a honlapján formanyomtatványt tesz közzé.
 
 (2)[^2] Nem kell bejelenteni a mélyműveléses bányában tervezett robbanóanyag-felhasználást, továbbá – a vármegyei rendőr-főkapitányság részére – a külszíni művelésű bányában tervezett robbanóanyag-felhasználást.
 
@@ -14,5 +14,5 @@ b) a felhasznált robbanóanyag megnevezését és mennyiségét, valamint
 
 c) a robbantásvezető nevét, lakcímét, a robbantásvezetői engedély számát.
 
-[^1]: Az 5. § (1) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 46. § a) pontja szerint módosított szöveg.
+[^1]: Az 5. § (1) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 46. § a) pontja, a 12/2023. (VI. 14.) SZTFH rendelet 3. §-a szerint módosított szöveg.
 [^2]: Az 5. § (2) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 46. § b) pontja szerint módosított szöveg.

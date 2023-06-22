@@ -368,7 +368,7 @@
 
 6. melléklet a 28/2022. (I. 31.) SZTFH rendelethez
 
-(XXXX. sz.) EU-MEGFELELŐSÉGI NYILATKOZAT[^4]
+(XXXX. sz.) EU-MEGFELELŐSÉGI NYILATKOZAT[^5]
 
 1. ......... szám (termék-, típus-, tétel- vagy sorozatszám):
 
@@ -392,4 +392,4 @@ A nyilatkozatot a nevében és megbízásából írták alá:
 
 (név, beosztás) (aláírás):
 
-[^4]: A gyártótól függ, hogy megszámozza-e a megfelelőségi nyilatkozatot.
+[^5]: A gyártótól függ, hogy megszámozza-e a megfelelőségi nyilatkozatot.
