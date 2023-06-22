@@ -1,4 +1,4 @@
-11. §[^31] (1) Az elhunyt honvéd állományilletékes parancsnoka engedélye alapján a Honvédség az elhalálozás időpontjában az elhunyttal közös háztartásban élő házastárs vagy élettárs részére, ha ilyen nincs, az intézkedésre jogosult közeli hozzátartozó részére intézményes temetési segélyt folyósít,
+11. §[^33] (1) Az elhunyt honvéd állományilletékes parancsnoka engedélye alapján a Honvédség az elhalálozás időpontjában az elhunyttal közös háztartásban élő házastárs vagy élettárs részére, ha ilyen nincs, az intézkedésre jogosult közeli hozzátartozó részére intézményes temetési segélyt folyósít,
 
 a) ha a honvéd a szolgálati feladat teljesítése közben baleset vagy betegség következtében veszíti életét,
 
@@ -10,4 +10,4 @@ b) ha a halál a tényleges katonai szolgálat megszűnését követő egy éven
 
 (4) A (3) bekezdés szerinti kérelmet a jogosult a miniszternek címezve az állományilletékes parancsnoknál nyújthatja be.
 
-[^31]: A 11. § a 22/2021. (XI. 5.) HM rendelet 9. §-ával megállapított szöveg.
+[^33]: A 11. § a 22/2021. (XI. 5.) HM rendelet 9. §-ával megállapított szöveg.

@@ -26,9 +26,10 @@ j)[^25] a temetéskor, a síremlék avatásakor és a koszorúzáskor elhelyezet
 
 k)[^26] a részvétnyilvánítás alkalmával küldött gyásztávirat költsége.
 
-(3) A kegyeleti költségek az elhunyt minősítéséről szóló döntés, a halotti anyakönyvi kivonat másolata és a költségekről szóló, a honvédelmi szervezet nevére kiállított számlák alapján számolhatók el.
+(3)[^27] A kegyeleti költségek az elhunyt minősítéséről szóló döntés, a halotti anyakönyvi kivonat másolata és a költségekről szóló, a honvédelmi szervezet nevére kiállított számlák alapján, a 9. §-ban foglaltak szerint számolhatóak el.
 
 [^23]: A 8. § (2) bekezdés b) pontja a 11/2015. (IX. 28.) HM rendelet 3. §-ával megállapított szöveg.
 [^24]: A 8. § (2) bekezdés c) pontja a 11/2015. (IX. 28.) HM rendelet 3. §-ával megállapított szöveg.
 [^25]: A 8. § (2) bekezdés j) pontja a 16/2018. (IX. 27.) 4. § (1) bekezdésével megállapított szöveg.
 [^26]: A 8. § (2) bekezdés k) pontját a 16/2018. (IX. 27.) 4. § (2) bekezdése iktatta be.
+[^27]: A 8. § (3) bekezdése a 12/2023. (VI. 19.) HM rendelet 1. §-ával megállapított szöveg.

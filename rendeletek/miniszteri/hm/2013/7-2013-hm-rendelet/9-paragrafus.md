@@ -1,4 +1,4 @@
-9. §[^27] (1) A Honvédség viseli
+9. §[^28] (1) A Honvédség viseli
 
 a) a „Hősi halottá” nyilvánított elhunytak esetén a 8. § (2) bekezdés c) és e) pontja szerinti költségeket legfeljebb a felszámítási alap tizenötszöröséig, valamint a 8. § (2) bekezdés a) és b) pontja szerinti költségnek a ténylegesen felmerült és a honvédelmi szervezet részére kiállított, számlával igazolt összegét,
 
@@ -24,7 +24,7 @@ gb) a „Honvédelmi Minisztérium saját halottjává”, valamint a „Magyar 
 
 (2) A 4. § (3) és (4) bekezdése szerinti esetekben, illetve a 4. § (1) bekezdés h) pontja szerinti egyéb megemlékezéskor a koszorú költsége a honvédelmi szervezet költségvetése terhére a honvédelmi szervezet nevére kiállított számla alapján számolható el.
 
-(3)[^28] Az állományilletékes parancsnok a hivatásos és szerződéses katona, a honvéd altiszt-jelölt, a kormánytisztviselő, illetve a honvédelmi alkalmazott házastársa, élettársa, – a nagyszülő és dédszülő kivételével – egyenesági rokona halála esetén egy koszorú költségének elszámolását engedélyezheti.
+(3)[^29] Az állományilletékes parancsnok a hivatásos és szerződéses katona, a honvéd altiszt-jelölt, a kormánytisztviselő, illetve a honvédelmi alkalmazott házastársa, élettársa, – a nagyszülő és dédszülő kivételével – egyenesági rokona halála esetén egy koszorú költségének elszámolását engedélyezheti.
 
 (4) A (2) és (3) bekezdés szerinti koszorú költségeként a felszámítási alap 40%-a, sírcsokorra a felszámítási alap 20%-a számolható el. A koszorú és sírcsokor költségeként elszámolható összeget október 15. és március 15. között 25%-kal kell növelni. A miniszter, a miniszter által vezetett minisztérium (a továbbiakban: HM) parlamenti államtitkára, a HM közigazgatási államtitkára, a HM honvédelmi államtitkára, a HM helyettes államtitkára, valamint az MH PK nevében elhelyezett koszorú költségeként a felszámítási alap 100%-a számolható el.
 
@@ -32,5 +32,5 @@ gb) a „Honvédelmi Minisztérium saját halottjává”, valamint a „Magyar 
 
 (6) A 3. § (2) bekezdése szerint minősítettek eltemetésével összefüggő költségekhez való hozzájárulást a minősítésre jogosult parancsnok munkáltatói döntésben engedélyezi. A költségek megtérítésére és elszámolására a „Katonai szolgálat halottjára” vonatkozó rendelkezéseket kell alkalmazni.
 
-[^27]: A 9. § a 22/2021. (XI. 5.) HM rendelet 7. §-ával megállapított szöveg.
-[^28]: A 9. § (3) bekezdése a 7/2022. (IV. 14.) HM rendelet 3. § b) pontja, a 18/2022. (XII. 28.) HM rendelet 2. § b) pontja szerint módosított szöveg.
+[^28]: A 9. § a 22/2021. (XI. 5.) HM rendelet 7. §-ával megállapított szöveg.
+[^29]: A 9. § (3) bekezdése a 7/2022. (IV. 14.) HM rendelet 3. § b) pontja, a 18/2022. (XII. 28.) HM rendelet 2. § b) pontja szerint módosított szöveg.
