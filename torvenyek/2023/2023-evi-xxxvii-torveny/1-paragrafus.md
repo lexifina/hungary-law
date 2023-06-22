@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Délkelet-európai Rendőri Együttműködési Egyezmény Felei között létrejött, a DNS-adatok, a daktiloszkópiai adatok és a gépjármű-nyilvántartási adatok automatizált cseréjéről szóló Megállapodás (a továbbiakban: Megállapodás) módosításáról szóló Jegyzőkönyv (a továbbiakban: Jegyzőkönyv) kötelező hatályának elismerésére.
