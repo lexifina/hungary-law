@@ -1,7 +1,3 @@
-3. § Az R. 31. § (3) bekezdés a) pont ac) alpontja helyébe a következő rendelkezés lép:
+3. §[^4]
 
-(A Hivatal a víziközmű-szolgáltatói engedélyezési eljárásban a kérelmező személyi állománya tekintetében, mint engedélyezési követelményt, vizsgálja:
-
-a kérelmezőnek a munka törvénykönyvéről szóló törvény szerinti vezetője és annak helyettesei:)
-
-„ac) rendelkeznek-e a víziközmű-szolgáltatásban szerzett – gazdasági vezető esetén gazdasági területen szerzett – legalább öt év szakmai tapasztalattal.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

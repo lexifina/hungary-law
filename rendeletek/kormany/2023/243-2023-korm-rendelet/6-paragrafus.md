@@ -1,3 +1,3 @@
-6. § Az R. 45. § (10) bekezdése helyébe a következő rendelkezés lép:
+6. §[^7]
 
-„(10) Ha a kiszervezésre irányuló szerződést a víziközmű-szolgáltató a kiszervezési engedély véglegessé válásától számított 1 éven belül nem köti meg, vagy a létrejött szerződést az 1 éves határidő lejárta előtt nem küldi meg a Hivatal részére, a Hivatal az engedélyt visszavonja.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

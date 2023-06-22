@@ -1,3 +1,3 @@
-12. § Az R. 89. § (8) bekezdése helyébe a következő rendelkezés lép:
+12. §[^13]
 
-„(8) A víziközmű-szolgáltató az üzletszabályzatát évente felülvizsgálja. Az üzletszabályzat felülvizsgálatának ki kell terjednie a jogszabályok és a kapcsolódó szabályzatok változására és a víziközmű-szolgáltató által alkalmazott működési gyakorlatból eredő változásokra, valamint szerződéses rendszerekre. Ha a felülvizsgálat során a víziközmű-szolgáltató megállapítja, hogy a változás a jóváhagyott üzletszabályzat tartalmát lényegesen érinti, a módosítást átvezeti, és a változásokkal egységes szerkezetbe foglalt üzletszabályzat tervezetét haladéktalanul benyújtja a Hivatalhoz, amely az e rendeletben foglaltak szerint dönt annak jóváhagyásáról. Ha a felülvizsgálat alapján nem indokolt az üzletszabályzat módosítása, a víziközmű-szolgáltató erről elektronikus úton tájékoztatja a Hivatalt.”
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
