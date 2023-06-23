@@ -1,1 +1,0 @@
-20. § E rendelet 7., 8. és 13. §-a a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
