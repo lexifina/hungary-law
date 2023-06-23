@@ -1,0 +1,1 @@
+1. § Az egyes sajátos ipari építményekre vonatkozó építésügyi hatósági eljárások szabályairól szóló 31/2014. (II. 12.) Korm. rendelet [a továbbiakban: 31/2014. (II. 12.) Korm. rendelet] 2. § 9. pontjában a „belső égésű motorok” szövegrész helyébe a „belső égésű motorok vagy üzemanyagcella-rendszerek” szöveg lép.
