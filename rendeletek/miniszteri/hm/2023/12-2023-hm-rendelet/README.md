@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-12-20-1
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2023-06-22 | 2023-12-20-15.1 | 12/2023. (VI. 19.) HM rendelet |
+| 2023-06-23 | 2023-12-20-15.2 | 2010. évi CXXX. törvény |
