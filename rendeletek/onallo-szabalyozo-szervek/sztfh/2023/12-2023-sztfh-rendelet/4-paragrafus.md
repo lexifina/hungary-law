@@ -1,1 +1,3 @@
-4. § Hatályát veszti az R2. 2. melléklet 4. pont 4.1. alpont j) pontjában a „három, természetvédelmi hatóság érintettsége esetén négy példányban” szövegrész.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

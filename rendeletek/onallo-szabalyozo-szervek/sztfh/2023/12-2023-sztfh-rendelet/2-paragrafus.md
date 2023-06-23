@@ -1,7 +1,3 @@
-2. § Hatályát veszti az R1.
+2. §[^3]
 
-a) 2. § (1) bekezdés l) pontja,
-
-b) 2. § (1) bekezdés m) pontjában a „valamint” szövegrész,
-
-c) 2. § (1) bekezdés n) pontja.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
