@@ -10,11 +10,11 @@ b) az a) pont szerinti kereskedő által forgalmazott termék
 
 ba) azonosításához szükséges adatot,
 
-bb) ártípusát és a kereskedő üzletében vagy üzleteiben alkalmazott napi árát és
+bb)[^4] ártípusát és a kereskedő üzletében vagy üzleteiben alkalmazott napi árát és korábbi árát; valamint
 
 bc) törzsvásárlói kedvezmény használatával elérhető legalacsonyabb bruttó eladási árát és egységárát (a továbbiakban: törzsvásárlói ár), ha a törzsvásárlói ár – ide nem értve a kuponos, továbbá mennyiségi kedvezményhez kötött bruttó eladási árat – alacsonyabb, mint a napi ár, és a kereskedő törzsvásárlói árat alkalmaz.
 
-(2) Az árfigyelő rendszer a termék napi árát és törzsvásárlói árát kereskedőnként és üzletenként tartja nyilván.
+(2)[^5] Az árfigyelő rendszer a termék napi árát, korábbi árát és törzsvásárlói árát kereskedőnként és üzletenként tartja nyilván.
 
 (3) A napi ár megállapítása során nem lehet figyelembe venni azt a bruttó kiskereskedelmi árat, amelynek alkalmazására az adott termék esetében minőségmegőrzési vagy fogyaszthatósági idejének 72 órán belüli lejárata miatt került sor.
 
@@ -37,3 +37,6 @@ c) a Központi Statisztikai Hivatal
 számára biztosít hozzáférést.
 
 (6) Az archivált adatokat az archiválástól számított tíz év elteltével törölni kell.
+
+[^4]: A 4. § (1) bekezdés b) pont bb) alpontja a 252/2023. (VI. 22.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^5]: A 4. § (2) bekezdése a 252/2023. (VI. 22.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.

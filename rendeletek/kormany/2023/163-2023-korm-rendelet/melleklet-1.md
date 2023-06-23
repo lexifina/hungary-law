@@ -1,3 +1,3 @@
-1. melléklet a 163/2023. (V. 8.) Korm. rendelethez[^2]
+1. melléklet a 163/2023. (V. 8.) Korm. rendelethez[^19]
 
-[^2]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

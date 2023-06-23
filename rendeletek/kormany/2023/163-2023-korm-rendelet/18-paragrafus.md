@@ -8,9 +8,11 @@ b) az árfigyelő rendszerbe a 7. § (1) bekezdése, a 13. § (1) bekezdése vag
 
 c) ha a termék üzletben feltüntetett aznapi ára vagy törzsvásárlói ára magasabb, mint az árfigyelő rendszerben nyilvántartott napi ár vagy törzsvásárlói ár.
 
+d)[^9] az árfigyelő rendszer teszteléséhez szükséges, a 21. § (4) bekezdése szerinti tesztadat rendelkezésre bocsátási kötelezettség elmulasztása miatt.
+
 (2) Az (1) bekezdés szerinti rendelkezések az Fgytv. alkalmazásában fogyasztóvédelmi rendelkezések.
 
-(3) Az adatszolgáltatási kötelezettség teljesítésének elmulasztásáról a Gazdasági Versenyhivatal a mulasztás észlelésétől számított nyolc napon belül értesíti az üzlet helye szerint illetékes fogyasztóvédelmi hatóságot. Az (1) bekezdés c) pontja szerinti jogsértés körébe eső panaszt a Gazdasági Versenyhivatal megküldi az üzlet helye szerint illetékes fogyasztóvédelmi hatóságnak.
+(3)[^10] Az adatszolgáltatási kötelezettség teljesítésének elmulasztásáról – ideértve a 21. § (4) bekezdése szerinti tesztadat-szolgáltatási kötelezettség elmulasztását is – a Gazdasági Versenyhivatal a mulasztás észlelésétől számított nyolc napon belül értesíti az üzlet helye szerint illetékes fogyasztóvédelmi hatóságot. Az (1) bekezdés c) pontja szerinti jogsértés körébe eső panaszt a Gazdasági Versenyhivatal megküldi az üzlet helye szerint illetékes fogyasztóvédelmi hatóságnak.
 
 (4) Az (1) bekezdés szerinti rendelkezések megsértése esetén a hatóság a Gst. 38/B. §-ától, a Szankció tv. 2. § (3) bekezdésétől és az Fgytv. 47. § (1) bekezdésétől eltérően
 
@@ -20,6 +22,12 @@ b) az (1) bekezdés b) pontja szerinti jogsértés miatt, ha a jogsértés több
 
 c) az (1) bekezdés c) pontja szerinti jogsértés miatt minden jogsértéssel érintett termék után 50 000 forint
 
+d)[^11] az (1) bekezdés d) pontja szerinti jogsértés miatt, ha a jogsértés több, mint 10 terméket érint, minden jogsértéssel érintett termék után 25 000 forint, de legfeljebb 3 000 000 forint
+
 bírságot szab ki.
 
 (5) A bírságot a bírságot kiszabó határozat véglegessé válását követő 15 napon belül kell megfizetni.
+
+[^9]: A 18. § (1) bekezdés d) pontját a 252/2023. (VI. 22.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+[^10]: A 18. § (3) bekezdése a 252/2023. (VI. 22.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^11]: A 18. § (4) bekezdés d) pontját a 252/2023. (VI. 22.) Korm. rendelet 4. § (3) bekezdése iktatta be.
