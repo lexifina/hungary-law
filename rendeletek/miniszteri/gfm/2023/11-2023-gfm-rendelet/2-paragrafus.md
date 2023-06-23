@@ -1,0 +1,1 @@
+2. § Az árfigyelő rendszerbe tartozó termékkategóriák megnevezését, az egyes termékkategóriákon belül a bejelentési kötelezettséggel érintett termékek körének meghatározását a termékek kiszerelése és leírása alapján, valamint az egyes termékekhez tartozó napi ár és törzsvásárlói ár típusát az 1. melléklet tartalmazza.
