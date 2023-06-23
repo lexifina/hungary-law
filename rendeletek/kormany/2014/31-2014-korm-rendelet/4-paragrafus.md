@@ -21,3 +21,5 @@ i) veszélyhelyzet esetén szükségessé váló építési tevékenység tudom�
 j) építési engedély módosítási, valamint
 
 k) kötelezési
+
+eljárásokat folytat.

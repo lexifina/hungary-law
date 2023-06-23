@@ -16,16 +16,16 @@ b) tájékoztatásul azzal, akinek az építési tevékenységgel érintett tele
 
 c) azzal a hatósággal, amely az ügyben szakhatósági állásfoglalást adott.
 
-(3)[^35] A végleges döntést közölni kell
+(3)[^36] A végleges döntést közölni kell
 
 a) az építtetővel vagy meghatalmazottjával,
 
-b)–d)[^36]
+b)–d)[^37]
 
 e) mindazokkal, akiknek értesítését jogszabály előírja.
 
-(4)[^37] Az építési engedélyezési eljárás során hozott végleges döntés a hozzátartozó, engedélyezési záradékkal ellátott tervdokumentációban foglaltakkal együtt hatályos.
+(4)[^38] Az építési engedélyezési eljárás során hozott végleges döntés a hozzátartozó, engedélyezési záradékkal ellátott tervdokumentációban foglaltakkal együtt hatályos.
 
-[^35]: A 14. § (3) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 485. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^36]: A 14. § (3) bekezdés b)–d) pontját a 70/2015. (III. 30.) Korm. rendelet 243. § (6) bekezdés b) pontja hatályon kívül helyezte.
-[^37]: A 14. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 485. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^36]: A 14. § (3) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 485. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^37]: A 14. § (3) bekezdés b)–d) pontját a 70/2015. (III. 30.) Korm. rendelet 243. § (6) bekezdés b) pontja hatályon kívül helyezte.
+[^38]: A 14. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 485. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

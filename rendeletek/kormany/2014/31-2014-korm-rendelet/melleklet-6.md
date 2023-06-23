@@ -1,6 +1,6 @@
 6. melléklet a 31/2014. (II. 12.) Korm. rendelethez
 
-## A használatbavétel tudomásulvételére irányuló kérelem adattartalma
+A használatbavétel tudomásulvételére irányuló kérelem adattartalma
 
 1. Az építtető megnevezése és elérhetősége. A költségviselő megnevezése, székhelye, adószáma, bankszámlaszáma.
 

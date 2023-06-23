@@ -1,6 +1,6 @@
 2. melléklet a 31/2014. (II. 12.) Korm. rendelethez
 
-## A szakhatósági megkereséshez csatolandó műszaki dokumentáció tartalmi követelményei a kérelem tartalmától függően
+A szakhatósági megkereséshez csatolandó műszaki dokumentáció tartalmi követelményei a kérelem tartalmától függően
 
 1. Adószámmal rendelkező építtető esetében az építtető adószáma.
 
@@ -18,6 +18,6 @@
 
 8. A biztonságtechnikai, az egészségvédelmi, a tűzvédelmi és a környezetvédelmi előírások teljesítése, külterületen, illetve védett természeti területen a sajátos építmény tájba illesztésének módja.
 
-9.[^60] Zajjal járó tevékenységekre irányuló hatósági engedélyezési eljárásokban az építészeti-műszaki dokumentációnak a zaj- és rezgésvédelmi szabályozás tekintetében a környezeti zaj és rezgés elleni védelem egyes szabályairól szóló 284/2007. (X. 29.) Korm. rendelet 2. számú mellékletében meghatározott tartalmú zaj elleni védelemről szóló munkarészt kell tartalmaznia.
+9.[^61] Zajjal járó tevékenységekre irányuló hatósági engedélyezési eljárásokban az építészeti-műszaki dokumentációnak a zaj- és rezgésvédelmi szabályozás tekintetében a környezeti zaj és rezgés elleni védelem egyes szabályairól szóló 284/2007. (X. 29.) Korm. rendelet 2. számú mellékletében meghatározott tartalmú zaj elleni védelemről szóló munkarészt kell tartalmaznia.
 
-[^60]: A 2. melléklet 9. pontja a 70/2015. (III. 30.) Korm. rendelet 243. § (3) bekezdésével megállapított szöveg.
+[^61]: A 2. melléklet 9. pontja a 70/2015. (III. 30.) Korm. rendelet 243. § (3) bekezdésével megállapított szöveg.

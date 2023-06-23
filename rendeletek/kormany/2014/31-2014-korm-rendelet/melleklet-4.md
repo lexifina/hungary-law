@@ -1,5 +1,3 @@
-## Az építésügyi hatóság engedélyezési eljárásában az eljáró hatóság által vizsgált szakkérdések
-
 |  | A | B |
 
 | 1. | Szakkérdés vizsgálatának feltétele | Szakkérdés |
@@ -32,7 +30,7 @@
 
 4. melléklet a 31/2014. (II. 12.) Korm. rendelethez
 
-## Az építésügyi hatósági eljárásban közreműködő közmű-, közút-, vasút-üzemeltetők
+Az építésügyi hatósági eljárásban közreműködő közmű-, közút-, vasút-üzemeltetők
 
 1. Víz- és csatornázási mű, gázmű, távhőellátó-, áramszolgáltató, távközlési szolgáltató és a villamosmű üzembentartója
 
@@ -40,6 +38,6 @@
 
 3. A vasúti pályahálózat működtetői
 
-4.[^63] Kéményseprő-ipari szerv, kéményseprő-ipari szolgáltató, kéményseprő-ipari közszolgáltató
+4.[^64] Kéményseprő-ipari szerv, kéményseprő-ipari szolgáltató, kéményseprő-ipari közszolgáltató
 
-[^63]: A 4. melléklet 4. pontja a 99/2016. (V. 13.) Korm. rendelet 9. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 5. § (2) bekezdését.
+[^64]: A 4. melléklet 4. pontja a 99/2016. (V. 13.) Korm. rendelet 9. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 5. § (2) bekezdését.

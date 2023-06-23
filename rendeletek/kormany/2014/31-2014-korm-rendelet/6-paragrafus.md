@@ -1,5 +1,3 @@
-## megtartják.
-
 ## 4. Az építésügyi hatósági engedély iránti kérelem
 
 6. § (1) Az építésügyi hatósági engedély iránti kérelmet az építtető az 1. melléklet szerinti adattartalmú, erre a célra rendszeresített formanyomtatványon – a kérelem tartalmából következő, speciális eltérésekkel – írásban terjesztheti elő az építésügyi hatósághoz. A kérelemhez csatolni kell:

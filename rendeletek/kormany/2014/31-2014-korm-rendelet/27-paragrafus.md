@@ -16,6 +16,6 @@ b) módosított műszaki tervrészletet, és
 
 c) a műszaki leírás változása esetén módosított műszaki leírást
 
-## kell mellékelni a 6. § (1) bekezdés a) pontja szerinti példányban.
+kell mellékelni a 6. § (1) bekezdés a) pontja szerinti példányban.
 
 (3) Az építésügyi hatóság teljes körű tervdokumentáció elkészítésére kötelezheti az építtetőt, ha a tervezett módosítás az engedélyezett tervdokumentáció több részletére terjed ki.
