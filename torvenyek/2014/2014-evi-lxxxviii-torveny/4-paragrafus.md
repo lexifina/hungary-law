@@ -218,7 +218,7 @@ a) az 1. melléklet A) rész 4–7., valamint 11. és 12. pontjában meghatároz
 
 b) az 1. melléklet A) rész 14. és 15. pontjában meghatározott ágazatba besorolt kockázatok, ha a szerződő szakmája szerint ipari vagy kereskedelmi tevékenységet végez vagy szellemi szabadfoglalkozású és a kockázatok ehhez a tevékenységhez kapcsolódnak, valamint amennyiben a biztosítási összeg meghaladja az 200 millió forintot;
 
-c) az 1. melléklet A) rész 3., 8–10., 13. és 16. pontjában meghatározott ágazatba besorolt kockázatok, ha a szerződő a következő feltételek határértékei közül legalább kettőt túllép:
+c) az 1. melléklet A) rész 3., 8–10., 13. és 16. pontjában meghatározott ágazatba besorolt kockázatok, ha a szerződő a következő feltételek határértékei közül legalább kettőt túllép – konszolidálásba bevont szerződő esetén az összevont (konszolidált) éves beszámolóra vonatkozóan –:
 
 ca) a 6,6 millió euró összegű mérlegfőösszeg,
 

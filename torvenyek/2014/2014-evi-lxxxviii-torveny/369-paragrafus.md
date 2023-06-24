@@ -16,7 +16,7 @@
 
 (3) Biztosításközvetítői tevékenységet csak olyan természetes személy kezdhet, illetve végezhet – beleértve a biztosításközvetítői tevékenységet végző gazdálkodó szervezet, vagy e szervezettel megbízási jogviszonyban álló, biztosításközvetítői tevékenységet végző szervezet keretein belül végzett tevékenységet is –, aki
 
-a) felsőfokú végzettséggel vagy biztosításközvetítő (függő és független) szakképesítéssel vagy a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendeletben meghatározott hatósági vizsgával rendelkezik,
+a) felsőfokú végzettséggel vagy közgazdasági területen szerzett középfokú végzettséggel, illetve szakképzettséggel vagy felsőoktatásban szerezhető felsőfokú szakképzésen, illetve felsőoktatási szakképzésen szerzett gazdaságtudományi szakképesítéssel, illetve szakképzettséggel vagy biztosításközvetítő (függő és független) szakképesítéssel vagy a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendeletben meghatározott hatósági vizsgával rendelkezik,
 
 b) a 376. §-ban meghatározott szakmai továbbképzési kötelezettségnek eleget tesz, és
 
