@@ -1,3 +1,3 @@
-1. § Az árfigyelő rendszer létrehozásáról és működéséről szóló 163/2023. (V. 8.) Korm. rendelet (a továbbiakban: Rendelet) 2. §-a a következő 10–12. ponttal egészül ki:
+1. §[^2]
 
-(E rendelet alkalmazásában)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

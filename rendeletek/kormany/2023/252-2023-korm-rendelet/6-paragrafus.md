@@ -1,7 +1,3 @@
-6. § A Rendelet
+6. §[^7]
 
-a) 21. § (1) és (3) bekezdésében a „július 1-jén” szövegrész helyébe a „június 30-án” szöveg,
-
-b) 21. § (2) bekezdésében a „július 2-át” szövegrész helyébe a „július 1-jét” szöveg
-
-lép.
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
