@@ -1,0 +1,3 @@
+60. § A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 66. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Az idegenrendészeti hatóság a bíróság, az ügyészség, illetve a nyomozó hatóság külföldre utazási korlátozás feloldása érdekében megküldött értesítése alapján, vagy ha egyéb módon a tudomására jut, hogy a harmadik országbeli állampolgár már nem áll a külföldre utazásról szóló törvény szerinti külföldre utazási korlátozás hatálya alatt, a külföldre utazási korlátozást haladéktalanul törli és a harmadik országbeli állampolgár visszatartott úti okmányát visszaadja.”

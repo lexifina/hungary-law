@@ -1,0 +1,1 @@
+29. § A fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény 7. § (2) bekezdésében az „A fegyveres” szövegrész helyébe az „A (2a) bekezdés hatálya alá tartozó személyek egészségi és pszichikai alkalmasságát ide nem értve, a fegyveres” szöveg lép.
