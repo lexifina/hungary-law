@@ -45,3 +45,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-16-00-00
 | 2022-04-11 | 2021. évi LVIII. törvény | 2014-16-00-00.38 |
 | 2022-08-06 | 2022. évi XX. törvény | 2014-16-00-00.39 |
 | 2023-01-01 | 2022. évi XX. törvény | 2014-16-00-00.40 |
+| 2023-06-24 | 2023. évi XXXIX. törvény | 2014-16-00-00.42 |

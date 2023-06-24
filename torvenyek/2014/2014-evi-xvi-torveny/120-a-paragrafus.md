@@ -20,6 +20,6 @@ f) kapcsolattartó pontként való közreműködés a felügyeleti hatóságokka
 
 a) annak az EGT-államnak a hivatalos nyelvén vagy hivatalos nyelveinek egyikén, ahol az ABA kollektív befektetési értékpapírjait forgalmazzák, vagy az adott EGT-állam felügyeleti hatósága által jóváhagyott nyelven, és
 
-b) maga az ABAK vagy egy olyan harmadik fél révén, amelyre az elvégzendő feladatokat szabályozó rendelkezés és felügyelet vonatkozik.
+b) maga az ABAK, vagy egy olyan harmadik fél, amelyre az elvégzendő feladatokat szabályozó rendelkezés és felügyelet vonatkozik, vagy mindkettőjük révén,
 
 (4) Ha – a (3) bekezdés b) pontjának alkalmazása során – harmadik fél végzi a feladatokat, akkor a kijelölést rögzítő írásbeli szerződésben meg kell határozni az (1) bekezdésben felsorolt feladatok közül a harmadik fél által ellátandó feladatokat, és a szerződésnek tartalmazni kell azt is, hogy az ABAK biztosítja a feladatok ellátásához szükséges összes információt és dokumentumot.
