@@ -21,3 +21,5 @@ h) tartási és életjáradéki jog,
 i) jelzálogjog (önálló zálogjog, ideértve az átalakításos önálló zálogjogot is),
 
 j) végrehajtási jog.
+
+k) építményi jog.
