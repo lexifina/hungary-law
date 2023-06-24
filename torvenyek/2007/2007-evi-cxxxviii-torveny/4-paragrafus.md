@@ -268,11 +268,11 @@ b) ha a befektetési vállalkozás vagy a külföldi befektetési vállalkozás 
 
 c) ha a befektetési vállalkozás vagy a külföldi befektetési vállalkozás jogi személy és a nemzeti jog szerint nem rendelkezik létesítő okirat szerinti székhellyel, az az EGT-állam, amelyben a központi irodája található,
 
-d) ha az adatszolgáltatási tevékenységet végző APA, CTP vagy ARM természetes személy, az az EGT-állam, amelyben a központi irodája található;
+d)
 
-e) ha az adatszolgáltatási tevékenységet végző APA, CTP vagy ARM jogi személy, az az EGT-állam, ahol a létesítő okirat szerinti székhelye található;
+e)
 
-f) ha az adatszolgáltatási tevékenységet végző APA, CTP vagy ARM jogi személy és nemzeti joga szerint nem rendelkezik létesítő okirat szerinti székhellyel, az az EGT-állam, amelyben a központi irodája található,
+f)
 
 63. szoros kapcsolat: olyan helyzet, amelyben két vagy több természetes vagy jogi személy a következő tényezők valamelyike révén kapcsolatban áll egymással:
 

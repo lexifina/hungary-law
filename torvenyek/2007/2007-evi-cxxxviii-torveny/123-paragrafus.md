@@ -30,7 +30,7 @@ m) a befektetési vállalkozás anyavállalatának – ha az vegyes tevékenysé
 
 n) a vele szoros kapcsolatban álló személyek körét.
 
-(1a) Az adatszolgáltatási tevékenységet végző APA, ARM és CTP, a 154/I. §-ban meghatározott vezető testületének tagjaiban bekövetkezett változást a (4) bekezdés d) pontjában meghatározottaknak megfelelően bejelenti a Felügyeletnek, és ezzel egyidejűleg közzéteszi azt.
+(1a)
 
 (2) A fióktelep az (1) bekezdésben foglaltakon kívül köteles a Felügyeletnek bejelenteni és ezzel egyidejűleg nyilvánosságra hozni
 

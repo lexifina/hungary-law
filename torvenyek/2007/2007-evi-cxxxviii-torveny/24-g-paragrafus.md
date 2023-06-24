@@ -12,4 +12,4 @@ c) a befektetési vállalkozáson belüli jogsértést bejelentő személy, vala
 
 (3) A befektetési vállalkozás a jogsértés befektetési vállalkozáson belüli jelentésére független és önálló csatornát és eljárásokat dolgoz ki és működtet.
 
-(4) A jogsértések jelentésére vonatkozó rendelkezéseket az adatszolgáltatókra is alkalmazni kell.
+(4) A jogsértések jelentésére vonatkozó rendelkezéseket az adatszolgáltatókra és a piacműködtetőkre is alkalmazni kell.
