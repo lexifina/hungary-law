@@ -1,12 +1,12 @@
 46. § (1) A fizető fél pénzforgalmi szolgáltatója visszatéríti a kedvezményezett által vagy rajta keresztül kezdeményezett, és a fizető fél által jóváhagyott fizetési művelet összegét, ha:
 
-a) a jóváhagyás időpontjában a fizető fél a fizetési művelet összegét nem ismerte, és
+a) a jóváhagyás a megadásának időpontjában nem tartalmazta a fizetési művelet pontos összegét, és
 
 b) a fizetési művelet összege meghaladta azt az összeget, amely a fizető fél részéről az adott helyzetben észszerűen elvárható volt.
 
 (2) A fizető fél részéről a fizetési művelet adott helyzetben észszerűen elvárható összegének megítélése során a pénzforgalmi szolgáltatónak a fizető fél korábbi fizetési műveleteit, a keretszerződésben foglaltakat és a fizetési művelet körülményeit kell figyelembe vennie.
 
-(3) Az (1) bekezdésben foglalt feltételek fennállása tekintetében a bizonyítás a fizető felet terheli.
+(3) Az (1) bekezdésben foglalt feltételek fennállása tekintetében a pénzforgalmi szolgáltató kérésére a bizonyítás a fizető felet terheli.
 
 (3a) A visszatérítendő összeg megegyezik a teljesített fizetési művelet teljes összegével. A fizető fél fizetési számláján a jóváírás értéknapja nem lehet későbbi, mint az összeggel való megterhelés napja.
 

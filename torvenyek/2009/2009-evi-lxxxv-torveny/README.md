@@ -38,3 +38,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-85-00-00
 | 2020-12-26 | 2020. évi CX. törvény | 2009-85-00-00.34 |
 | 2022-08-06 | 2022. évi XX. törvény | 2009-85-00-00.35 |
 | 2023-01-01 | 2022. évi LXIX. törvény | 2009-85-00-00.36 |
+| 2023-06-24 | 2023. évi XXXIX. törvény | 2009-85-00-00.38 |
