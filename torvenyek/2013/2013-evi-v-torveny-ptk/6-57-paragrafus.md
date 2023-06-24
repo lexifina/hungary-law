@@ -6,7 +6,9 @@
 
 (2) Ha a kötelezett és a harmadik személy közötti jogviszonyból más nem következik, a harmadik személyt megtérítési igény illeti meg a kötelezettel szemben.
 
-(3) Ha a követelés teljesítésére tekintettel a harmadik személynek követelése keletkezik a kötelezettel szemben, a megszűnt követelés biztosítékai fennmaradnak, és e követelést biztosítják. Ezt a rendelkezést kell alkalmazni akkor is, ha a követelés kielégítésére zálogjog vagy biztosítékot nyújtó személy helytállása alapján kerül sor.
+(3) Ha a jogosultnak harmadik személy teljesít, ennek erejéig a megtérítési igénye kielégítéséül a követelés és annak biztosítékai a teljesítő harmadik személyre szállnak át. Ezt a rendelkezést kell alkalmazni akkor is, ha a követelés kielégítésére zálogjog vagy biztosítékot nyújtó személy helytállása alapján kerül sor.
+
+(4) A kötelezettnek a harmadik személy teljesítéséről való értesítése a harmadik személyre átszálló követelés elévülését megszakítja.
 
 ## MÁSODIK RÉSZ
 

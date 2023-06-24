@@ -2,7 +2,7 @@
 
 A kötelem megszűnik
 
-a) a szolgáltatás teljesítésével;
+a) a szolgáltatás teljesítésével, ha e törvény eltérően nem rendelkezik;
 
 b) abban az esetben, ha ugyanaz a személy lesz a jogosult és a kötelezett, ha e törvény eltérően nem rendelkezik;
 

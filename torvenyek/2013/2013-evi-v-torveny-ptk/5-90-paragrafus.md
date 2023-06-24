@@ -4,4 +4,4 @@ Ha a zálogkötelezett természetes személy, és a zálogtárgy elsősorban a z
 
 a) zálogtárgy a zálogkötelezett tulajdonában álló, egyedileg meghatározott vagyontárgy vagy olyan vagyontárgy lehet, amelynek tulajdonjogát a zálogkötelezett a zálogjogosult által nyújtott kölcsön, illetve fizetési haladék segítségével szerzi meg;
 
-b) a biztosított követelés meghatározásának tartalmaznia kell a követelés – járulékok nélküli – összegének megjelölését, vagy azt az összeget, amelynek erejéig a zálogjogosult a zálogtárgyból kielégítést kereshet.
+b)

@@ -14,6 +14,6 @@ c) a zálogjogosult választása szerint, az elzálogosított követelés kötel
 
 (4) A zálogtárgy fajta és mennyiség szerint vagy más, a zálogtárgy azonosítására alkalmas körülírással is meghatározható. A meghatározás magában foglalhat olyan vagyontárgyat is, amely még nem létezik, vagy amely felett a zálogkötelezettet nem illeti meg a rendelkezési jog.
 
-(5) A zálogjoggal biztosított követelést annak azonosítására alkalmas módon - az alapul fekvő egy vagy több jogviszonyra utalással és az összeg meghatározásával vagy a biztosított követelés azonosítására alkalmas más hasonló módon - kell meghatározni. A meghatározás magában foglalhat olyan követelést is, amely még nem jött létre.
+(5) A zálogjoggal biztosított követelést – ideértve az olyan követelést is, amely még nem jött létre – annak azonosítására alkalmas módon, az alapjául szolgáló egy vagy több jogviszonyra és a követelés összegére utalással vagy az alapul szolgáló egy vagy több jogviszonyra utalással és annak az összegnek a megjelölésével kell meghatározni, amelynek erejéig a zálogjogosult a zálogtárgyból kielégítést kereshet.
 
 (6) A zálogszerződést írásba kell foglalni. Kézizálogjog esetén a zálogszerződést pótolhatja a zálogjogosult által kiállított értékpapír, amely a zálogjogosulttal szemben feljogosítja az okirat birtokosát arra, hogy az értékpapírban meghatározott összeg ellenében, az értékpapírban meghatározott időtartamon belül megkapja a zálogtárgyat.
