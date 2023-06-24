@@ -8,7 +8,7 @@
 
 1. effektív névleges teljesítmény: a gyártó által előírt és garantált maximális leadott hőteljesítmény (kW-ban kifejezve), amely a folyamatos működés során átadható, ugyanakkor megfelel a gyártó által megjelölt hasznos teljesítménynek;
 
-2. egyéni fellépés: olyan fellépés, amely ellenőrizhető, és mérhető vagy megbecsülhető energiahatékonysági javulást eredményez és arra egy szakpolitikai intézkedés nyomán került sor;
+2. egyéni fellépés: olyan energiahatékonysági beruházás, energiahatékonyságot javító intézkedés vagy ezek kombinációja, amely ellenőrizhető és mérhető vagy megbecsülhető energiahatékonysági javulást eredményez, és arra egy szakpolitikai intézkedés szerinti lényeges hozzájárulás nyomán került sor;
 
 2a. „első az energiahatékonyság” elve: az energiapolitikai tervezés, valamint a szakpolitikai és beruházási döntéshozatal során a költséghatékony, technikailag, gazdaságilag és környezetvédelmi szempontból megfelelő energiahatékonysági intézkedéseknek a lehető legnagyobb mértékű figyelembevétele;
 
@@ -71,6 +71,8 @@
 24a. lakóépület: jellemzően lakást és a hozzá tartozó kiszolgáló helyiségeket magába foglaló épület;
 
 24b. légkondicionáló rendszer: a beltéri légkezelés egy adott formájához szükséges komponensek olyan kombinációja, amely által szabályozható vagy csökkenthető a hőmérséklet;
+
+24c. lényeges hozzájárulás: az alternatív szakpolitikai intézkedés végrehajtása, valamint az energiamegtakarítási kötelezettség teljesítése érdekében kifejtett olyan hatás, amely nélkül a végső felhasználó nem döntött volna az egyéni fellépés megvalósítása mellett;
 
 25. nagy hatásfokú kapcsolt energiatermelés: a nagy hatásfokú, hasznos hőenergiával kapcsoltan termelt villamos energia és a hasznos hő mennyisége megállapításának számítási módjáról szóló rendelet szerint nagy hatásfokúnak minősülő kapcsolt energiatermelés;
 

@@ -42,7 +42,7 @@ e) az energetikai jellemző javulását jelző, más releváns, átlátható és
 
 (7) A (6) bekezdés szerinti jelentéshez az energiapolitikáért felelős miniszter felhívására a Hivatal a felhívás érkeztetéstől számított 90 napon belül megküldi
 
-a) a szakpolitikai intézkedések által elért energiamegtakarítás számításának és hitelesítésének módszertanát, beleértve az addicionalitás meghatározásának módját, valamint a várható és a nagyságrendi megtakarítás tekintetében alkalmazott módszertanok és referenciaértékek megjelölését;
+a) a szakpolitikai intézkedések által elért energiamegtakarítás számításának és hitelesítésének módszertanát, beleértve az addicionalitás és a hozzájárulás lényegessége meghatározásának módját, valamint a várható és a nagyságrendi megtakarítás tekintetében alkalmazott módszertanok és referenciaértékek megjelölését;
 
 b) az intézkedések élettartamát és számításának módját, valamint azt, hogy ezek a számítások min alapulnak;
 

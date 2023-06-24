@@ -12,7 +12,7 @@ b) 70 kW-nál nagyobb effektív névleges teljesítményű légkondicionáló re
 
 hozzáférhető részeinek vonatkozásában rendszeres energetikai felülvizsgálatot kell készíteni.
 
-(2) Az (1) bekezdésben meghatározott rendszerek vonatkozásában az energetikai felülvizsgálatot – amennyiben energetikai auditálást kell lefolytatni – a kötelező energetikai auditálás részeként, egyéb esetben nyolcévente kell elvégezni.
+(2) Az (1) bekezdésben meghatározott rendszerek vonatkozásában az energetikai felülvizsgálatot – amennyiben energetikai auditálást kell lefolytatni – a kötelező energetikai auditálás alkalmával, egyéb esetben nyolcévente kell elvégezni.
 
 (3) Nem szükséges energetikai felülvizsgálat elvégzése azon lakóépületek vonatkozásában, amelyekben az (1) bekezdésben meghatározott rendszer üzemel, és amely rendelkezik
 

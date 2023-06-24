@@ -18,7 +18,7 @@ e) a felújítási kötelezettség alá eső kormányzati épületekből a tény
 
 f) a közintézmények által az energiahatékonysági célú beszerzéseik során megköthető energiahatékonyság-alapú szerződés kötelező tartalmi elemeit,
 
-g) az energiahatékonysági kötelezettségi rendszerben az energiamegtakarítási kötelezettség más kötelezett felek, kötelezett félnek nem minősülő energiahatékonysági szolgáltatók vagy egyéb harmadik személyek által megvalósított, hitelesített energiamegtakarítás szervezett piacon történő átruházásának, továbbá az energiahatékonysági intézkedések és az energetikai felújítások finanszírozásának részletszabályait
+g) az energiahatékonysági kötelezettségi rendszerben a hitelesített energiamegtakarítás szervezett piacon történő átruházásának, továbbá az energiahatékonysági intézkedések és az energetikai felújítások finanszírozásának részletszabályait, valamint a hitelesített energiamegtakarítások szervezett piacát működtető szervezet kijelölését,
 
 h) a 7. § f) pontja szerinti költség-haszon elemzésre kötelezettek körét, a költség-haszon elemzéssel érintettek jogait és kötelezettségeit, a költség-haszon elemzés jóváhagyásának és a költség-haszon elemzéssel kapcsolatos mentesség részletes szabályait, valamint a költség-haszon elemzés módszertanának kialakítása érdekében a Hivatal részére történő adatszolgáltatás részletes szabályait,
 
