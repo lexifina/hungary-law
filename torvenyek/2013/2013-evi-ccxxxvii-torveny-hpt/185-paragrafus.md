@@ -30,7 +30,11 @@ h) kötelezheti a hitelintézetet a jogszabályban meghatározott nyilvánosság
 
 (2) Az előírások megsértése vagy hiányosság megállapítása esetén – ha azok a pénzügyi intézmény prudens működését jelentősen vagy súlyosan veszélyezteti – a Felügyelet a következő intézkedéseket alkalmazhatja:
 
-a)
+a) előírhatja
+
+aa) a szavatoló tőke követelmények tekintetében egyedi értékvesztés képzési vagy céltartalék képzési eljárások alkalmazását, vagy egyes eszközök kezelésének módját,
+
+ab) a pénzügyi intézmény szolgáltatásaiban és rendszereiben rejlő kockázat csökkentését, ideértve a kiszervezett tevékenységhez kapcsolódó kockázatokat is;
 
 b) kötelezheti a pénzügyi intézményt
 
@@ -50,7 +54,7 @@ bg) más könyvvizsgáló választására;
 
 c) megtilthatja, korlátozhatja vagy feltételhez kötheti
 
-ca) az osztalék kifizetését,
+ca) a részvényeseknek, a tagoknak vagy az egyéb alapvető tőkeinstrumentumok tulajdonosainak járó osztalék-, nyereség- vagy kamatfizetést, amennyiben ez nem minősül a pénzügyi intézmény általi nemteljesítésnek,
 
 cb) a vezető tisztségviselők díjainak kifizetését,
 
@@ -67,6 +71,8 @@ cg) fiókok megnyitását, új pénzügyi szolgáltatások megkezdését, valami
 d) a teljesítményjavadalmazás nettó bevétel százalékában történő meghatározására kötelezheti a hitelintézetet, ha a teljesítményjavadalmazás nincs összhangban a prudenciális követelmények teljesítésével;
 
 e) kötelezheti a hitelintézetet a 114. § szerinti helyreállítási terv életbe léptetésére, az abban foglalt lépések alkalmazására, vagy – ha a Felügyelet által alkalmazandó intézkedést kiváltó esemény eltér a helyreállítási tervben foglalt feltételezéstől – a helyreállítási terv harminc napon belül történő felülvizsgálatára és a módosított helyreállítási tervben foglalt lépések megtételére.
+
+f) egyedi likviditási követelményt írhat elő, ideértve a források és az eszközök lejárati eltérésének korlátozását is.
 
 (3)
 

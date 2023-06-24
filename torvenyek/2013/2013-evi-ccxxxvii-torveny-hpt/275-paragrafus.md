@@ -14,7 +14,7 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 
 (4) A hitelintézet az (1) bekezdésben meghatározott kivonatot, valamint a (3) bekezdésben meghatározott kimutatást – a felek eltérő megállapodásának hiányában – magyar nyelven köteles kiállítani és megküldeni.
 
-(5) A hitelintézet évente az OBA által meghatározott formában kimutatást készít a betétesnek a hitelintézetnél elhelyezett biztosított betétei összevont egyenlegéről és az annak alapján a betétes javára fennálló betétbiztosítási összegről.
+(5)
 
 (6) Az OBA tagintézet által a betétes részére küldött kivonaton fel kell tüntetni, hogy vonatkozik-e rá a betétbiztosítás és utalni kell a 6. melléklet szerinti tájékoztatóra. A 6. melléklet szerinti tájékoztatót az OBA tagintézete legalább évente egyszer megküldi a betétes részére.
 

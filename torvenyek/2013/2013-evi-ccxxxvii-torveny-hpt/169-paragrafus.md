@@ -2,7 +2,7 @@
 
 a) a likviditás,
 
-b) a szolvencia,
+b) a szolvencia (ideértve a tőkeáttételt is),
 
 c) a kockázatvállalás,
 

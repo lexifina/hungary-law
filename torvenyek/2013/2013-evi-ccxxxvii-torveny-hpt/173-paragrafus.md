@@ -22,6 +22,8 @@ b) az (1) bekezdés b) pontja tekintetében a hiánytalan kérelem beérkezésé
 
 c) az (1) bekezdés c) pontja tekintetében a hiánytalan kérelem beérkezését követően a Felügyelet által a tőke ajánlásban megállapítottaknak megfelelően a csoport kockázatértékeléséről elkészített jelentésnek az eljárásban résztvevő felügyeleti hatóságok részére történő továbbításától számított négy hónap.
 
+(3a) A Felügyelet többoldalú eljárás keretében hozott határozata figyelembe veszi az eljárásban részt vevő EGT-állam illetékes felügyeleti hatóságának a tőkemegfelelés belső értékelési eljárása és a felügyeleti felülvizsgálata és értékelése, valamint a tőke ajánlás alapján elvégzett, a leányvállalatokra vonatkozó kockázatértékeléseket.
+
 (4) Ha az eljárásban résztvevő EGT-állam illetékes felügyeleti hatósága egyetértésének hiánya miatt a többoldalú eljárás eredménytelen, akkor a (3) bekezdésben rögzített határidőn belül az eljárásban résztvevő bármelyik EGT-állam illetékes felügyeleti hatósága kérésére a Felügyelet az EBH-val a többoldalú eljárás eredménytelensége vonatkozásában egyeztetést köteles folytatni vagy saját kezdeményezésére egyeztetést folytathat.
 
 (5) Ha az eljárásban részt vevő EGT-állam felügyeleti hatósága egyetértésének hiánya miatt a többoldalú eljárás eredménytelen, a Felügyelet a többoldalú eljárás lezárultát követő tíz munkanapon belül, az eljárásban részt vevő valamennyi EGT-állam illetékes felügyeleti hatóságának a többoldalú eljárás során adott véleményére, elemzésére és fenntartására figyelemmel hozza meg a határozatát.
