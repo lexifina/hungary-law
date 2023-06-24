@@ -1,0 +1,5 @@
+16. § A Vht. a következő 304/M. §-sal egészül ki:
+
+„304/M. § (1) A 2023. szeptember 1. és 2024. december 31. napja közötti időszakban benyújtott végrehajtási kérelmek esetén a gazdaság versenyképességének növelése érdekében történő törvénymódosításokról szóló 2023. évi XXXIX. törvénnyel (a továbbiakban: Módtv.16.) megállapított 11. § (2) bekezdése, valamint 12. § (2) és (6)–(8) bekezdése szerinti eljárás során az alzálogjogosult – ha nincs az ingatlan-nyilvántartásba bejegyzett alzálogjoga – jogosultságát igazolhatja a közjegyző által az egyes közjegyzői nemperes eljárásokról szóló 2008. évi XLV. törvény alapján kiállított, az alzálogjog fennállásának igazolásáról szóló jogerős bizonyítvánnyal.
+
+(2) A Módtv.16.-tal megállapított 114/A. § (14) bekezdés rendelkezéseit a 2023. szeptember 1. napján folyamatban lévő zálogjogosulti bekapcsolódással indult végrehajtási ügyekben is alkalmazni kell.”

@@ -1,0 +1,5 @@
+## 16. A pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény módosítása
+
+73. § A pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény (a továbbiakban: Pft.) 20. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A számlatulajdonos szervezet jogi formáját szabályozó jogszabályban a szervezet képviseletére jogszabály erejénél fogva jogosultként meghatározott személy, ideértve a számlatulajdonos szervezet törvényes képviselőjét, valamint a számlatulajdonos szervezet törvényes képviselője által e célból meghatalmazott személyt (e § alkalmazásában a továbbiakban együtt: szervezetet képviselő) – a pénzforgalmi szolgáltató által rendszeresített módon – írásban jelenti be (e § alkalmazásában a továbbiakban: bejelentés) a fizetési számla felett rendelkezésre jogosultat. A pénzforgalmi szolgáltató nem vizsgálja, hogy a számlatulajdonos, illetve a szervezetet képviselő által a fizetési számla feletti rendelkezésre jogosultként bejelentett személy az egyéb jogszabályokban előírt feltételeknek megfelel-e.”

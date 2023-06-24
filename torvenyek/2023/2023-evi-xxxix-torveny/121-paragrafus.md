@@ -1,0 +1,3 @@
+121. § A Hpt. 159. §-a a következő (11) bekezdéssel egészül ki:
+
+„(11) Nem jelenti az üzleti titok sérelmét a fizetési rendszerben részt vevő hitelintézet által a fizetési rendszert működtető pénzügyi vállalkozás központi visszaélésszűrő rendszerébe történő, valamint a fizetési rendszert működtető pénzügyi vállalkozás központi visszaélésszűrő rendszeréből a fizetési rendszerben részt vevő hitelintézet, valamint a nyomozó hatóság részére, a fizetési műveletekkel kapcsolatos visszaélési kockázatok meghatározása, valamint az ezen fizetési műveletekkel kapcsolatos visszaélések felderítésének és megelőzésének támogatása céljából történő, jogszabályban előírt adattovábbítás.”

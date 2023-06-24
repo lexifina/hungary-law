@@ -1,0 +1,3 @@
+90. § A Ptk. 5:100. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) Az önálló zálogjoggal terhelt zálogtárgy tulajdonjogát megszerző fél a biztosítéki szerződésben a zálogkötelezett helyébe lép. A biztosítéki szerződés szerint kielégíthető követelést teljesítő kötelezettet, zálogkötelezettet vagy harmadik személyt – ha az nem pénzügyi intézmény – a teljesítése erejéig a megtérítési igénye kielégítéséül az önálló zálogjog ranghelyén, annak helyébe lépő követelést biztosító zálogjog illeti meg. A biztosítéki szerződés szerint kielégíthető követelést teljesítő pénzügyi intézményre a teljesítése erejéig a megtérítési igénye kielégítéséül az önálló zálogjog átszáll.”

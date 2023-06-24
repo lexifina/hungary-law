@@ -1,0 +1,33 @@
+153. § (1) Az Ehat. 15/D. §-a a következő (1a)–(1c) bekezdéssel egészül ki:
+
+„(1a) A kötelezett fél (1) bekezdés szerinti bejelentése a hitelesített energiamegtakarítások nyilvántartásában az adott energiamegtakarítás jogosultjaként való feltüntetésével történik meg. A bejelentéshez szükséges adatokat a hitelesítő szervezet vezeti fel a Hivatal online felületén az energiamegtakarításnak a hitelesített energiamegtakarítások nyilvántartásába való felvezetésével egyidejűleg.
+
+(1b) A kötelezett fél az (1) bekezdés szerinti bejelentése során a következő személyes adatokat is átadja a Hivatal részére:
+
+a) ingatlanon megvalósuló egyéni fellépés esetén az ingatlan címe, helyrajzi száma,
+
+b) ingóságon megvalósuló egyéni fellépés esetén az ingóság gyári száma, gépjármű esetén alvázszáma, és
+
+c) az egyéni fellépéssel érintett végső felhasználó neve, lakcíme.
+
+(1c) Az (1b) bekezdés szerinti adatokat a Hivatal az elért energiamegtakarítás számbavétele és hitelesítése céljából az adott kötelezettségi időszak lejártát követő ötödik év végéig kezeli.”
+
+(2) Az Ehat. 15/D. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A kötelezett fél a tárgyévet követő március 31-ig nyilatkozik arról, hogy a számára az adott évre előírt kötelezettség teljesítésén felüli energiamegtakarításból mennyit kíván a korábbi évekre visszamenőlegesen elszámolni. A korábbi évekre el nem számolt, adott évre előírt kötelezettség teljesítésén felüli energiamegtakarítást a Hivatal a következő évek energiamegtakarítási kötelezettsége teljesítéseként veszi figyelembe. Az adott évre előírt kötelezettség teljesítésén felüli, a korábbi évekre el nem számolt energiamegtakarítást a Hivatal másfélszeres szorzóval veszi figyelembe a következő évek megtakarítási kötelezettsége teljesítéseként, feltéve, hogy az energiamegtakarítás hitelesített élettartama legalább három év. A másfélszeres szorzóval egyszer már beszámított energiamegtakarítás ismételten nem másfélszerezhető. A 2025. évi és az azt követő évekre meghatározott kötelezettség teljesítésére a másfélszeres szorzóval történő elszámolás akkor alkalmazható, ha az érintett energiamegtakarítás hitelesített élettartama legalább öt év.”
+
+(3) Az Ehat. 15/D. § (7) bekezdése helyébe a következő rendelkezés lép, és a 15/D. § a következő (7a)–(7c) bekezdéssel egészül ki:
+
+„(7) A tárgyévben hitelesített energiamegtakarítások reprezentatív módon kiválasztott, statisztikailag jelentős részének megfelelőségét a Hivatal ellenőrzi, függetlenül attól, hogy azt kötelezett fél az energiamegtakarítási kötelezettség teljesítéseként az (1) bekezdés alapján elszámolásra bejelentette-e. A statisztikailag jelentős hányadot a Hivatal éves ellenőrzési tervben határozza meg.
+
+(7a) Ha a Hivatal az ellenőrzés során megállapítja, hogy az energiamegtakarítás, vagy annak egy része nem megfelelően került megállapításra – ideértve, ha több energiamegtakarítást kellett volna megállapítani –, a hitelesítő szervezetet a nem megfelelően megállapított energiamegtakarítással, vagy – ha több energiamegtakarítást kellett volna megállapítani – a megállapítható energiamegtakarítás és a nem megfelelően megállapított energiamegtakarítás különbözetével egyező mértékű energiamegtakarításnak a végső felhasználók körében történő 90 napon belüli teljesítésére kötelezi, amely kötelezettség hitelesítő szervezet választása szerint a Hivatal elnökének e törvény végrehajtására kiadott rendeletében megállapított mértékű megváltási díj (a továbbiakban: megváltási díj) megfizetésével is teljesíthető. A Hivatal az energiamegtakarítás teljesítésére kötelező határozatában a teljesítésre nyitva álló határidő elmulasztása esetére a hitelesítő szervezetet minden nem teljesített 1 GJ energiamegtakarítás után 70 000 Ft mértékű bírság fizetésére kötelezi. A jogkövetkezmény meghatározására irányuló, illetve bírságot kiszabó eljárásban figyelmeztetés közigazgatási szankció nem alkalmazható. Ha a Hivatal az ellenőrzése során megállapítja, hogy az energiamegtakarítás, vagy annak egy része nem megfelelően került megállapításra, az nem befolyásolja az energiamegtakarítás teljes mértékű elszámolhatóságát.
+
+(7b) Ha a Hivatal az ellenőrzése során megállapítja, hogy az adott egyéni fellépés kapcsán a hitelesített energiamegtakarításnál több energiamegtakarítást kellett volna megállapítani, a többlet jogosultjaként a Hivatal az energiamegtakarítás első jogosultját tünteti fel a hitelesített energiamegtakarítások nyilvántartásában. Több első jogosult esetén a különbözet a hitelesítés időpontja szerinti jogosulti arány szerint kerül szétosztásra az első jogosultak közt.
+
+(7c) A (7a) bekezdés szerinti megváltási díjat az energiahatékonysági járulék megfizetésére szolgáló számlára kell megfizetni. Az energiapolitikáért felelős miniszter a jóváírást követően haladéktalanul tájékoztatja a Hivatalt a befizető személyéről, a megfizetett összegről és a jóváírás dátumáról. A megváltási díjból származó bevételeket az energiahatékonysági járulékkal egyező módon és célra kell felhasználni.”
+
+(4) Az Ehat. 15/D. § (8) bekezdése helyébe a következő rendelkezés lép, és a 15/D. § a következő (9) bekezdéssel egészül ki:
+
+„(8) Ha a Hivatal a hitelesítő szervezettel szemben két éven belül a (7a) bekezdés alapján négy alkalommal jogkövetkezményt alkalmaz, a Hivatal a jogkövetkezményt alkalmazó negyedik határozatában két évre eltiltja a hitelesítő szervezetet a hitelesítés végzésétől. Erről a hitelesítő szervezetet a (7a) bekezdés szerinti jogkövetkezmény első három alkalmazásakor tájékoztatni kell. A tiltás hatálya alatt az energetikai auditáló szervezet energetikai auditoraként bejegyzett személlyel későbbiekben bejegyzésre kerülő energetikai auditáló szervezet sem végezhet hitelesítést.
+
+(9) A Hivatal (7a) bekezdés szerinti, energiamegtakarítás teljesítésére kötelező határozatában foglalt mértékig a hitelesítő szervezet hitelesített energiamegtakarítást vásárolhat. A (7a) bekezdés szerinti határozat alapján teljesítendő energiamegtakarítás bejelentésének módját a Hivatal elnöke az e törvény végrehajtására kiadott rendeletében határozza meg. A (7a) bekezdés szerinti határozatban foglaltak teljesítése céljából bejelentett hitelesített energiamegtakarítás forgalomképtelen és kizárólag a (7a) bekezdés szerinti határozatban foglalt kötelezettség teljesítésére használható fel.”

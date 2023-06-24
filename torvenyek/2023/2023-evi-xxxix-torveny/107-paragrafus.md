@@ -1,0 +1,3 @@
+107. § Az Ávt. a következő 23/A. §-sal egészül ki:
+
+„23/A. § A részvénytársaság a Ptk. 3:40. §-ában foglaltakon túl nem határozhat el, illetve nem folytathat le egyesülést, ha a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvény, vagy a központi szerződő felek helyreállítására és szanálására irányuló keretrendszerről, továbbá az 1095/2010/EU, a 648/2012/EU, a 600/2014/EU, a 806/2014/EU és az (EU) 2015/2365 rendelet, valamint a 2002/47/EK, a 2004/25/EK, a 2007/36/EK, a 2014/59/EU és az (EU) 2017/1132 irányelv módosításáról szóló, 2020. december 16-i (EU) 2021/23 európai parlamenti és tanácsi rendelet szerinti szanálási eszközök, hatáskörök és mechanizmusok hatálya alatt áll.”
