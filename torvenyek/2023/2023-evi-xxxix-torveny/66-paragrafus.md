@@ -1,9 +1,1 @@
-66. § (1) A Gfbt. 57. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(2) A Magyarországon székhellyel rendelkező biztosítók a magyarországi és bármely másik tagállamból származó előző évi kötelező gépjármű-felelősségbiztosítási összdíjbevételük 0,25%-ának megfelelő összegben, negyedévente, a MABISZ elkülönített szervezeti egysége – mint a Kártalanítási Alap kezelője – részére befizetést teljesítenek, amely befizetési kötelezettség ezen biztosítók számára az adott negyedéves szerződésállományukban lévő gépjárművek darabszámának – gépjármű-kategóriánként a Kártalanítási Alap kezelője által megállapított kockázati szorzókkal súlyozott – mértékében áll fenn. A befizetési kötelezettség – az e törvény szerinti tevékenységét megkezdő, Magyarországon székhellyel rendelkező biztosítót terhelő kötelezettség kivételével – mindaddig szünetel, amíg a Kártalanítási Alap egyenlege meghaladja a Magyarországon székhellyel rendelkező biztosítók magyarországi és bármely másik tagállamból származó előző évi kötelező gépjármű-felelősségbiztosítási összdíjbevételének 6%-át.
-
-(3) A kötelező gépjármű-felelősségbiztosítást művelő, Magyarországon székhellyel rendelkező biztosítók minden év január 15-ig jelentik – a magyar és bármely másik tagállamból származó – előző évi kötelező gépjármű-felelősségbiztosítási díjbevételüket, és negyedévente minden tárgynegyedévet követő hónap tizenötödik napjáig az általuk biztosított gépjárművek gépjármű kategóriánkénti darabszámát a MABISZ-nak.”
-
-(2) A Gfbt. 57. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) A biztosítók az előző évi díjbevételük arányában minden év január 31-ig a MABISZ elkülönített szervezeti egysége – mint a Nemzeti Iroda feladatait ellátó szervezet, a Kártalanítási Számla és a Kártalanítási Alap kezelője – részére az e szervezeteket terhelő működési költségeik fedezetére és a 11. § (3) bekezdése, továbbá a 23. § (3) bekezdése szerinti közzétételi kötelezettség költségeinek fedezetére befizetést teljesítenek, amelynek mértékét a számviteli rendért felelős vezető és a vezető aktuárius ellenjegyzésével az elkülönített szervezeti egység állapítja meg.”
+### 66. §

@@ -4,6 +4,6 @@
 
 a) 4. § (1) bekezdés 79. pont c) alpontjában a „kettőt túllép:” szövegrész helyébe a „kettőt túllép – konszolidálásba bevont szerződő esetén az összevont (konszolidált) éves beszámolóra vonatkozóan –:” szöveg,
 
-b) 260. § (3) bekezdésében a „negyvenöt” szövegrész helyébe az „ötven” szöveg
+b)
 
 lép.

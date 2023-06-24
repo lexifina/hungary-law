@@ -1,5 +1,3 @@
 ## „f) egyedi likviditási követelményt írhat elő, ideértve a források és az eszközök lejárati eltérésének korlátozását is.”
 
-127. § A Hpt. 197. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Ha a Felügyelet a 185. § (2) bekezdés c) pont cf) alpontja, a 189. § (1) bekezdés e) pontja és az 55. § (2) bekezdése szerinti intézkedését, valamint a 48. § (1) bekezdés szerinti határozatát a Tvt. alapján fizetést korlátozó eljárásnak minősíti, akkor az erről való döntés közlését követő hatállyal jogosult az eljárás alá vont, a fizetési rendszerhez közvetlenül csatlakozó résztvevő esetében a javára benyújtott fizetési megbízásnak a fizetési rendszer általi elszámolását, teljesítését átmenetileg vagy véglegesen megtiltani. A Felügyelet ezen döntéséről haladéktalanul értesíti a fizetési rendszer rendszerüzemeltetőjét.”
+### 127. §

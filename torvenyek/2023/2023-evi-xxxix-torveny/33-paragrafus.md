@@ -1,3 +1,1 @@
-33. § A Ctv. a következő 131/T. §-sal egészül ki:
-
-„131/T. § E törvénynek a gazdaság versenyképességének növelése érdekében történő törvénymódosításokról szóló 2023. évi XXXIX. törvénnyel módosított 61/A. § rendelkezéseit a 2024. január 1-jét megelőzően bejegyzett üzletrészt terhelő zálogjog esetében azzal az eltéréssel kell alkalmazni, hogy a cégjegyzéki adatok kiegészítését a 61/A. § szerinti kérelmező a cégjegyzék egyéb adatát érintő következő módosítás alkalmával, legkésőbb 2024. december 31. napjáig előterjesztett változásbejegyzési kérelemben köteles kérni illeték és közzétételi költségtérítés megfizetése nélkül.”
+### 33. §
