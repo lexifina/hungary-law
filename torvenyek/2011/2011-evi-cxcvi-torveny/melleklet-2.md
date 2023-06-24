@@ -353,7 +353,3 @@
 ## 9. HAJDÚ-BIHAR VÁRMEGYE
 
 ## | 9.1. | DEBRECEN Déri tér 1. | Déri Múzeum | 9.2. | DEBRECEN, Egyetem tér 1. | Kossuth Lajos Tudományegyetem | 9.3. | DERECSKE Nyárfa utca 30. | tájház | 9.4. | HAJDÚBÖSZÖRMÉNY Kossuth u. 1. | Hajdúkerületi Székház | 9.5. | HORTOBÁGY a 33. sz. főút (71+879 szelvény) | Nagyhortobágyi kőhíd | 9.6. | HORTOBÁGY Petőfi tér 1. | Nagyhortobágyi csárda | 9.7. | HORTOBÁGY Petőfi tér | egykori szekérállás | 9.8. | NAGYKEREKI Bocskai tér | Bocskai-várkastély együttese
-
-## 10. HEVES VÁRMEGYE
-
-## | 10.1. | EGER Dózsa György tér 3. | Validé Szultana törökfürdő romjai | 10.2. | EGER | vár és erődrendszer romjai | 10.3. | EGER Knézich K. u. | minaret | 10.4. | | | 10.5. | HATVAN Kossuth tér | Grassalkovich-kastély együttese | 10.6. | NOSZVAJ Dobó u. 10. | De la Motte-kastély együttese | 10.7. | PARÁD Sziget u. 8. | falumúzeum | 10.8. | SIROK | várrom

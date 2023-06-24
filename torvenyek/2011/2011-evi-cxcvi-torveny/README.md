@@ -62,3 +62,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-196-00-00
 | 2022-01-01 | 2021. évi CXXXIII. törvény | 2011-196-00-00.55 |
 | 2022-07-02 | 2021. évi CXXXIII. törvény | 2011-196-00-00.56 |
 | 2023-01-01 | 2022. évi LXVIII. törvény | 2011-196-00-00.57 |
+| 2023-06-24 | 2023. évi XXXIX. törvény | 2011-196-00-00.59 |
