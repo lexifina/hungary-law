@@ -24,6 +24,8 @@ g) az (EU) 2019/2033 rendelet 23. cikk (1) bekezdés első albekezdés c) pontja
 
 (5) Az MNB akkor is köteles felügyeleti kollégiumot létrehozni, ha magyarországi székhelyű, összevont alapú felügyelet alá nem tartozó hitelintézet, biztosító, viszontbiztosító vagy befektetési vállalkozás az Európai Unió másik tagállamában rendszerszinten jelentős fióktelepet létesített, azzal, hogy ezen felügyeleti kollégium működésére a (3) és (4) bekezdésben foglaltak megfelelően alkalmazandóak.
 
+(5a) A felügyeleti kollégiumot akkor is létre kell hozni, ha az EU-szintű hitelintézeti anyavállalat, EU-szintű befektetési vállalkozás anyavállalat, EU-szintű pénzügyi holding társaság anyavállalat vagy EU-szintű vegyes pénzügyi holding társaság anyavállalat valamennyi határon túli leányvállalata harmadik országban rendelkezik székhellyel, feltéve, hogy az adott harmadik ország hatáskörrel rendelkező pénzügyi felügyeleti hatóságára a magyar szabályozással legalább egyenértékű titoktartási védelem vonatkozik.
+
 (6) Az MNB tájékoztatja az Európai Bankhatóságot és az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóságot a felügyeleti kollégium őket érintő tevékenységéről és közli velük a felügyeleti konvergencia szempontjából lényeges információkat.
 
 (7) Az MNB a fogadó ország felügyeleti szerepét ellátva részt vesz más külföldi pénzügyi felügyeleti hatóság által alapított felügyeleti kollégium tevékenységében.

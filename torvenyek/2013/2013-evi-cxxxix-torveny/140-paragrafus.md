@@ -192,7 +192,7 @@ c) a 4. § (8) bekezdésben meghatározott feladatára tekintettel az Európai B
 
 5.3. a 35. § (2) bekezdésében meghatározott információkról,
 
-5.4. az egyéb rendszerszinten jelentős intézmény és a globálisan rendszerszinten jelentős intézmény nevéről és az alkategóriáról, amelyikbe a globálisan rendszerszinten jelentős intézmény tartozik,
+5.4. az egyéb rendszerszinten jelentős intézmény és a globálisan rendszerszinten jelentős intézmény nevéről és az alkategóriáról, amelyikbe a globálisan rendszerszinten jelentős intézmény tartozik, továbbá teljeskörű indokolást készít arra vonatkozóan, hogy miért élt vagy nem élt a Hpt. 89. § (11) bekezdés a), b) vagy c) pontja szerinti lehetőséggel,
 
 5.5. a 35. § (1) bekezdésében és a Hpt. 89. § (9) bekezdésében meghatározott felülvizsgálatok eredményéről,
 
