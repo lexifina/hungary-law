@@ -30,6 +30,6 @@ b) más EGT-állam szanálást finanszírozó rendszerétől.
 
 (4) Az Alap – 126. § (3) bekezdése szerinti célok megvalósítása érdekében – kötvényt bocsáthat ki.
 
-(4a) Az Alap kizárólag akkor vehet fel hitelt, valamint bocsáthat ki kötvényt, ha a tagjai által fizetett díjak nem elegendőek a 126. § (3) bekezdése szerinti célok megvalósításához. Az Alap más EGT-állam szanálást finanszírozó rendszerétől kizárólag akkor vehet fel hitelt, ha más jogi személytől történő hitelfelvételre, valamint kötvény kibocsátására észszerű feltételek mellett rövid időn belül nincs lehetőség.
+(4a) Az Alap kizárólag akkor vehet fel hitelt, valamint bocsáthat ki kötvényt, ha az Alap rendelkezésére álló pénzügyi eszközök nem elegendőek a 126. § (3) bekezdése szerinti célok megvalósításához. Az Alap más EGT-állam szanálást finanszírozó rendszerétől kizárólag akkor vehet fel hitelt, ha más jogi személytől történő hitelfelvételre, valamint kötvény kibocsátására észszerű feltételek mellett rövid időn belül nincs lehetőség.
 
 (5) Az állam készfizető kezesként felel az Alap azon fizetési kötelezettségeiért, amelyek a 126. § (3) bekezdése szerinti kötelezettségei teljesítése érdekében – a Kormány által jóváhagyott összegű – felvett hiteleiből, kölcsöneiből és kötvénykibocsátásából erednek. Az Alap kötelezettségei biztosítékaként az állami készfizető kezességvállaláson túl a hitelező további biztosíték előírására nem köteles. Az állami kezességvállalásért az Alapnak kezességvállalási díjat kell fizetnie.

@@ -34,7 +34,7 @@ e) dönt az Alap költségvetéséről, ezen belül a működési költségeirő
 
 f) évente egyszer, legkésőbb a gazdasági év befejezését követő év május 30. napjáig elfogadja az Alap éves beszámolóját és a könyvvizsgáló jelentését, megállapítja az Alap vagyoni helyzetét és az ezekről szóló beszámolóját benyújtja az Állami Számvevőszéknek,
 
-g)
+g) elfogadja az Alap szabályzatait,
 
 h) határoz a megemelt, illetve rendkívüli díjfizetési kötelezettség előírásáról,
 
