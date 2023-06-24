@@ -1,19 +1,19 @@
 69. § Hatályát veszti a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény
 
-a) 18. § (1b) bekezdés f) pontjában a „vagy” szövegrész,
+a)
 
-b) 20. § (4) bekezdés c) pontjában a „keresőtevékenység folytatása céljából,” szövegrész,
+b)
 
-c) 20. § (5) bekezdésében a „vagy hatvanhat munkanapon” szövegrész,
+c)
 
-d) 20/A. § (2) bekezdés e) pontja,
+d)
 
-e) 20/A. § (2) bekezdés h) pontja,
+e)
 
-f) 45/A. § (1) bekezdés d) pontjában a „súlyos” szövegrész,
+f)
 
-g) 54. § (6) bekezdés d) pontjában a „vagy” szövegrész,
+g)
 
-h) 73. § (1) bekezdés e) pontjában az „és” szövegrész,
+h)
 
-i) 73. § (1) bekezdés f) pontja.
+i)

@@ -1,7 +1,1 @@
-## „e) beleegyezésével, ha az egészségi, pszichológiai vagy fizikai alkalmasság megállapítására irányuló vizsgálat során jogszabály alapján „Alkalmas kategória-váltással” minősítést kap, és a számára megállapított új alkalmassági kategóriában biztosítható szolgálati beosztás ellátásához szükséges képesítési és alkalmassági feltételeknek megfelel.”
-
-86. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 62. §-a következő (5) és (6) bekezdéssel egészül ki:
-
-„(5) Ha kormányzati, rendvédelmi, nemzetbiztonsági vagy egyéb biztonsági érdek szükségessé teszi, az (1) bekezdés alapján elrendelt más szervhez vezénylést a miniszter a más szervet irányító vagy vezető miniszter, a más szerv és a rendvédelmi szerv megállapodása alapján – a hivatásos állomány tagjának beleegyezésével – meghosszabbíthatja. Ebben az esetben a más szervhez vezénylés folyamatos és a vezénylés időtartama a (2) bekezdésben foglalt öt éves időtartamot a hosszabbítás időtartamával meghaladhatja.
-
-(6) Ha a miniszter az (5) bekezdés szerinti meghosszabbításra vonatkozó döntését az (1) bekezdés alapján elrendelt, más szervhez vezénylés leteltét követő harminc napon belül hozza meg, és ennek következtében a vezénylés meghosszabbítására a más szervhez vezénylés leteltét követően kerül sor, abban az esetben a más szervhez vezénylést a vezénylés leteltét követően a meghosszabbítás időpontjáig folyamatosnak kell tekinteni.”
+### 86. §
