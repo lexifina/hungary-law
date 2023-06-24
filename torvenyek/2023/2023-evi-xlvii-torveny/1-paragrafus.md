@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a nagy távolságra jutó, országhatárokon átterjedő levegőszennyezésről szóló 1979. évi egyezményhez (a továbbiakban: Egyezmény) kapcsolódóan a környezetben tartósan megmaradó szerves szennyező anyagokról szóló jegyzőkönyvet (a továbbiakban: Jegyzőkönyv) e törvénnyel kihirdeti.
