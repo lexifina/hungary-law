@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-176-00-00
 | 2016-06-16 | 2016. évi LXVI. törvény | 2013-176-00-00.2 |
 | 2019-10-01 | 2019. évi LXVI. törvény | 2013-176-00-00.3 |
 | 2020-01-01 | 2019. évi CXVII. törvény | 2013-176-00-00.4 |
+| 2023-06-24 | 2023. évi XXXIX. törvény | 2013-176-00-00.5 |
