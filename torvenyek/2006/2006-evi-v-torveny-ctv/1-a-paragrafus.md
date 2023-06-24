@@ -8,7 +8,7 @@ b) az egyéni cég, a közkereseti társaság, a betéti társaság, – e törv
 
 c)
 
-d) a cég átalakulásának, egyesülésének, szétválásának (a továbbiakban együtt: átalakulás) a bejegyzésére irányuló eljárásban hozott határozatok;
+d) a cég átalakulásának, egyesülésének, szétválásának a bejegyzésére irányuló eljárásban hozott határozatok;
 
 e)
 

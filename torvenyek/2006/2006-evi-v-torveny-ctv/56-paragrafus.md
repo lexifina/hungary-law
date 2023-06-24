@@ -14,4 +14,4 @@
 
 16. CÍM
 
-A cég átalakulásának bejegyzése iránti eljárás
+A cég átalakulásának, egyesülésének, szétválásának bejegyzése iránti eljárás

@@ -62,3 +62,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-5-00-00
 | 2022-08-01 | 2021. évi CXXIV. törvény | 2006-5-00-00.79 |
 | 2022-09-01 | 2021. évi CXXIV. törvény | 2006-5-00-00.80 |
 | 2023-01-01 | 2022. évi LV. törvény | 2006-5-00-00.81 |
+| 2023-06-24 | 2023. évi XXXIX. törvény | 2006-5-00-00.87 |
