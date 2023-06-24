@@ -18,4 +18,4 @@ a) amelyben a MABISZ legfőbb szerve vagy ellenőrző szerve tagjának vagy e sz
 
 b) amelynek a MABISZ legfőbb szervének, ellenőrző szervének tagja vagy e személy közeli hozzátartozója vezető tisztségviselője.
 
-(9) A kiszervezésre vonatkozó szerződésnek – az elkülönített szervezeti egység tevékenységének jellege figyelembe vételével – megfelelően tartalmaznia kell a Bit. 212. §-ában meghatározott elemeket.
+(9) A kiszervezésre vonatkozó szerződésnek – az elkülönített szervezeti egység tevékenységének jellege figyelembe vételével – megfelelően tartalmaznia kell a Bit. 214. §-ában meghatározott elemeket.
