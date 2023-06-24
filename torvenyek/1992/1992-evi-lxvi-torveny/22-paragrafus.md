@@ -30,4 +30,4 @@ n) az Elektronikus Egészségügyi Szolgáltatási Tér útján az intézetben t
 
 o) a közúti közlekedési nyilvántartó szerv, valamint a közlekedési igazgatási hatóság a nyilvántartásban szereplő polgárok adatai változásának követéséhez.
 
-p) a személyazonosító igazolványt kiadó és nyilvántartó hatóság, valamint a személyazonosító igazolvány kiadása során közreműködő hatóságként eljáró bv. szerv, e hatósági hatáskörében ellátandó feladatai végrehajtásához.
+p) a személyazonosító igazolványt kiadó és nyilvántartó hatóság az e hatósági hatáskörében ellátandó feladatai végrehajtásához.
