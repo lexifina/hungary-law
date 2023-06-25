@@ -32,7 +32,7 @@ o) külön törvényben meghatározott referenciaadat-szolgáltató és központ
 
 p) a hivatalbóli bejegyzéssel nyilvántartásba vett, hibás adatokon alapuló vagy más okból hibás bejegyzések kijavítása iránti eljárásban, valamint abban az eljárásban, mely annak megállapítására irányul, hogy valamely hatóság vagy bíróság nem tett eleget a cégjegyzékbe hivatalbóli bejegyzéssel nyilvántartásba kerülő adat megküldésére vonatkozó kötelezettségének;
 
-r)
+r) a fogyasztóvédelemről szóló törvény alapján indított képviseleti kereseti eljárásban,
 
 s) a választási bizottság határozatának felülvizsgálatára irányuló nemperes eljárásban,
 
