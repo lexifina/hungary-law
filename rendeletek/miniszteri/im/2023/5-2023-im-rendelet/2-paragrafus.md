@@ -1,0 +1,1 @@
+2. § A kamara az 1. §-ban foglaltak szerint, elektronikus úton legalább huszonöt, legfeljebb harminc napra a honlapján közzétett pályázati felhívással kezdeményezi az új békéltető testületi elnök kiválasztását.

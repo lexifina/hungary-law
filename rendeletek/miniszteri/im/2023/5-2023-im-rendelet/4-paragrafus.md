@@ -1,0 +1,1 @@
+4. § Elkésett pályázat nem fogadható be. Az elkésett pályázat elutasításáról a kamara a kézhezvételtől számított nyolc napon belül a pályázati anyag visszaküldésével együtt írásban értesíti a pályázót.
