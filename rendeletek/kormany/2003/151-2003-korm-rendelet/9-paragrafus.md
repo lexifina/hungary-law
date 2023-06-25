@@ -1,6 +1,6 @@
-9. §[^28]
+9. §[^29]
 
-Melléklet a 151/2003. (IX. 22.) Korm. rendelethez[^29]
+Melléklet a 151/2003. (IX. 22.) Korm. rendelethez[^30]
 
 1. 10 000 forintot elérő eladási árú háztartási készülékek, így különösen hűtőszekrény, fagyasztó, kombinált hűtőszekrény, villanytűzhely, mosógép, centrifuga, szárítógép és ezek bármely kombinációja, mosogatógép, vasaló, vízmelegítő, fűtő-, légkondicionáló- és egyéb légállapot-szabályozó berendezés, porszívó, gőzzel működő tisztítógép, szőnyegtisztító-gép, padlósúroló- és fényesítőgép, varrógép, kötőgép, villanybojler, szivattyú;
 
@@ -76,5 +76,5 @@ Melléklet a 151/2003. (IX. 22.) Korm. rendelethez[^29]
 
 37. 10 000 forintot elérő eladási árú, az előzőekben felsorolt termékcsoportokhoz tartozó termékek tartozékai és alkotórészei.
 
-[^28]: A 9. §-t a 97/2014. (III. 25.) Korm. rendelet 1. § (9) bekezdése iktatta be, hatályon kívül helyezte a 373/2021. (VI. 30.) Korm. rendelet 31. § (3) bekezdése. Alkalmazására lásd ez utóbbi módosító rendelet 29. §-át.
-[^29]: A melléklet a 373/2021. (VI. 30.) Korm. rendelet 31. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 29. §-át.
+[^29]: A 9. §-t a 97/2014. (III. 25.) Korm. rendelet 1. § (9) bekezdése iktatta be, hatályon kívül helyezte a 373/2021. (VI. 30.) Korm. rendelet 31. § (3) bekezdése. Alkalmazására lásd ez utóbbi módosító rendelet 29. §-át.
+[^30]: A melléklet a 373/2021. (VI. 30.) Korm. rendelet 31. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 29. §-át.
