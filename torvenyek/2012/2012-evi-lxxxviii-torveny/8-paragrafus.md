@@ -2,7 +2,7 @@
 
 (2) A gyártó köteles a terméket azonosításra alkalmas jelöléssel ellátni. Az azonosító jelölésnek olyannak kell lennie, hogy az alapján a termék pontosan beazonosítható legyen. A termék azonosító jelölése lehet a termék típus-, tétel-, modell- vagy sorozatszáma, vagy más egyedi jelölése, amely megfelel ezen bekezdés követelményeinek.
 
-(3) A gyártó köteles a terméken feltüntetni a nevét, kereskedelmi nevét vagy bejegyzett kereskedelmi védjegyét és a székhelyét.
+(3) A gyártó köteles a terméken feltüntetni a nevét, kereskedelmi nevét vagy bejegyzett kereskedelmi védjegyét és azt a címét, amelyen kapcsolatba lehet lépni vele.
 
 (4) Amennyiben a termék mérete, kialakítása vagy egyéb sajátossága miatt az azonosító jelölés és a (3) bekezdésben meghatározott adatok nem tüntethetők fel magán a terméken, azokat jogszabály eltérő rendelkezésének hiányában a termék csomagolásán vagy a termék kísérő dokumentációján kell megadni.
 
