@@ -1,0 +1,25 @@
+3. § A fogyasztóvédelemről szóló 1997. évi CLV. törvény 21. §-a helyébe a következő rendelkezés lép:
+
+„21. § (1) A békéltető testület elnökből, – a munkateherre és az ügyek számára tekintettel szükség szerint – elnökhelyettesből és tagokból áll.
+
+(2) A békéltető testületi elnökök a területileg illetékes kamara által lefolytatott pályázat alapján kerülnek kiválasztásra. Ha a területileg illetékes kamara a békéltető testületi elnöki és tagsági feladat ellátására vonatkozó kiválasztási eljárás szabályairól és a békéltető testületi elnökök és tagok díjazásáról, képzéséről és a békéltető testületi alapvizsgáról, valamint az online adásvételi vagy online szolgáltatási szerződéssel összefüggő határon átnyúló fogyasztói jogvita esetén eljáró békéltető testületek kijelöléséről szóló miniszteri rendeletben meghatározott időpontban nem indítja meg a pályázati eljárást, akkor helyette azt a Magyar Kereskedelmi és Iparkamara (a továbbiakban: MKIK) bonyolítja le.
+
+(3) A pályázat érvényes lezárását követően az illetékes kamara a pályázatokat, azok előzetes értékelését követően megküldi az MKIK részére, aki azt véleményezve továbbítja a fogyasztóvédelemért felelős miniszter részére.
+
+(4) A békéltető testületi elnököt a jelöltek közül a fogyasztóvédelemért felelős miniszter választja ki. A kiválasztást követően az elnököt természetes személyként az MKIK bízza meg vagy alkalmazza négy évre. A békéltető testület elnöke a békéltető testületi eljárásban semleges fél. Az elnöki és elnökhelyettesi tisztség egyidejű betöltetlensége esetén a kamara javaslatára az MKIK által kijelölt testületi tag látja el az új elnök kiválasztásáig az elnöki feladatokat. Az elnök teljes jogkörrel képviseli a testületet.
+
+(5) Ha a testület munkaterhe és az ügyek száma indokolja, a kamara javaslatot tehet elnökhelyettes jelölésére a testületi tagok közül az MKIK részére, aki a javaslatot véleményezve továbbítja a fogyasztóvédelemért felelős miniszter részére. Az elnökhelyettest a jelöltek közül a fogyasztóvédelemért felelős miniszter választja ki. A kiválasztást követően az elnökhelyettest természetes személyként az MKIK bízza meg vagy alkalmazza a békéltető testület megbízatásának időtartamára. Az elnököt akadályoztatása esetén az elnökhelyettes teljes jogkörrel helyettesíti. Elnökhelyettes hiányában az elnököt szükség esetén az általa az adott alkalommal történő helyettesítésre kijelölt tag a kijelölésben meghatározott körben helyettesítheti.
+
+(6) A békéltető testületi tagok az illetékes kamara által lefolytatott eljárás alapján kerülnek kiválasztásra. A tagok egyharmadára a fogyasztói érdekek képviseletét ellátó egyesület tehet javaslatot. A fogyasztói érdekek képviseletét ellátó egyesület által békéltető testületi tagnak jelölt személynek meg kell felelnie a 22. § (1) és (2) bekezdésében meghatározott feltételeknek. A fennmaradó helyekre a békéltető testületi tagok a területileg illetékes kamara által lefolytatott pályázat alapján kerülnek kiválasztásra. Ha a békéltető testület illetékességi területén a fogyasztói érdekek képviseletét ellátó egyesület nem vagy nem a szükséges arányban tesz javaslatot békéltető testületi tagokra, akkor a békéltető testületi tagok pályázat alapján kerülnek kiválasztásra. Ha a területileg illetékes kamara a békéltető testületi elnöki és tagsági feladat ellátására vonatkozó kiválasztási eljárás szabályairól és a békéltető testületi elnökök és tagok díjazásáról, képzéséről és a békéltető testületi alapvizsgáról, valamint az online adásvételi vagy online szolgáltatási szerződéssel összefüggő határon átnyúló fogyasztói jogvita esetén eljáró békéltető testületek kijelöléséről szóló miniszteri rendeletben meghatározott időpontban nem indítja meg az eljárását, akkor helyette azt az MKIK folytatja le.
+
+(7) Az eljárás érvényes lezárását követően az illetékes kamara a pályázatokat előzetesen értékeli, majd megküldi az MKIK részére, aki azokat véleményezve továbbítja a fogyasztóvédelemért felelős miniszter részére. A békéltető testületi tagokat a pályázók közül a fogyasztóvédelemért felelős miniszter választja ki, a kiválasztást követően természetes személyként a megbízásukat a területileg illetékes kamarától kapják meg. A fogyasztóvédelemért felelős miniszter döntése során figyelembe veszi, hogy a békéltető testületekbe a fogyasztók és a vállalkozások képviselői azonos számban kerüljenek be.
+
+(8) A testületi tagok száma testületenként legalább tizenkettő fő, legfeljebb huszonhét fő. Az eljárás érvényes lezárását követően a békéltető testületi tagok számát a területileg illetékes kamara megküldi az MKIK és a fogyasztóvédelemért felelős miniszter részére.
+
+(9) A békéltető testület megalakulásakor legfeljebb a testületi tagok fele lehet olyan személy, aki az általános öregségi nyugdíjkorhatárt betöltötte.
+
+(10) A békéltető testületi tagok (7) bekezdés szerinti megbízásával megalakul a békéltető testület.
+
+(11) A békéltető testület megbízatása négy évre szól. A békéltető testületi tagok megbízatási idejük lejártát követően újra jelölhetők vagy újra pályázhatnak.
+
+(12) A békéltető testület tagjai tevékenységüket megbízási szerződés keretében látják el.”
