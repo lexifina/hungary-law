@@ -1,3 +1,3 @@
-12. §[^14]
+12. § Az R4. 8. § (1) bekezdése a következő h) ponttal egészül ki:
 
-[^14]: A 12. § a 14. § (2) bekezdés alapján 2023. június 25-én lép hatályba.
+(E rendelet)
