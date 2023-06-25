@@ -4,9 +4,10 @@
 
 (3) A fejezetet irányító szerv a hatáskörében végrehajtott előirányzat-módosításokról, átcsoportosításokról öt munkanapon belül tájékoztatja a Kincstárt.
 
-(4) Az államháztartás központi alrendszerébe tartozó költségvetési szerv a saját hatáskörében végrehajtott előirányzat-módosításokról, átcsoportosításokról az intézkedés meghozatalát követő öt munkanapon belül tájékoztatja a Kincstárt és a fejezetet irányító szervet.
+(4)[^728] Az államháztartás központi alrendszerébe tartozó költségvetési szerv a saját hatáskörében végrehajtott előirányzat-módosításokról, átcsoportosításokról az intézkedés meghozatalát követő öt munkanapon belül tájékoztatja a Kincstárt.
 
-(5)[^728] A költségvetési szerv alkalmazásban álló személyek besorolásán és illetményének összetételén alapuló, egységes kódot használó kulcsszámrendszert az államháztartásért felelős miniszter a Kincstár honlapján közzéteszi.
+(5)[^729] A költségvetési szerv alkalmazásban álló személyek besorolásán és illetményének összetételén alapuló, egységes kódot használó kulcsszámrendszert az államháztartásért felelős miniszter a Kincstár honlapján közzéteszi.
 
 [^727]: Az Ávr. 167. § (2) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 19. pontja szerint módosított szöveg.
-[^728]: Az Ávr. 167. § (5) bekezdését a 397/2014. (XII. 31.) Korm. rendelet 36. §-a iktatta be.
+[^728]: Az Ávr. 167. § (4) bekezdése a 249/2023. (VI. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^729]: Az Ávr. 167. § (5) bekezdését a 397/2014. (XII. 31.) Korm. rendelet 36. §-a iktatta be.

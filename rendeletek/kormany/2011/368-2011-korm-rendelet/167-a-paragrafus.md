@@ -1,4 +1,4 @@
-## [Az Áht. 104–105/B. §-ához][^729]
+## [Az Áht. 104–105/B. §-ához][^730]
 
 167/A. § (1) A törzskönyvi nyilvántartás tartalmazza a törzskönyvi jogi személy
 
@@ -8,11 +8,11 @@
 
 3. székhelyét,
 
-4.[^730] főtevékenységét az államháztartási szakágazatok rendje, valamint közfeladatát, alaptevékenységeit a kormányzati funkciók rendje szerint,
+4.[^731] főtevékenységét az államháztartási szakágazatok rendje, valamint közfeladatát, alaptevékenységeit a kormányzati funkciók rendje szerint,
 
 5. törzskönyvi nyilvántartásba történő bejegyzésének és törlésének időpontját,
 
-6.[^731] vezetőjének vagy a vezetői jogok gyakorlására ideiglenesen jogosult személynek a nevét, kinevezésének, megbízásának módját, időpontját, időtartamát, adóazonosító jelét,
+6.[^732] vezetőjének vagy a vezetői jogok gyakorlására ideiglenesen jogosult személynek a nevét, kinevezésének, megbízásának módját, időpontját, időtartamát, adóazonosító jelét,
 
 7. KSH statisztikai számjelét,
 
@@ -24,13 +24,13 @@
 
 1. idegen nyelvű megnevezését, rövidített nevét,
 
-2.[^732] levelezési címét, hivatali kapu vagy cégkapu azonosítóját,
+2.[^733] levelezési címét, hivatali kapu vagy cégkapu azonosítóját,
 
 3. önálló ügyintézésre jogosult vagy más szervezeti egysége által történő feladatellátását szolgáló, a törzskönyvi jogi személy székhelyétől tartósan elkülönült telephelyének címét, és – ha a törzskönyvi jogi személy elnevezésétől eltérő megnevezéssel rendelkezik – megnevezését,
 
 4. adószámát, közösségi adószámát,
 
-5.[^733] az általános forgalmi adóról szóló törvényben meghatározott adózási módokra vonatkozó választásáról, kizárólag adómentes tevékenység végzéséről, az adómegállapítás különös módjának alkalmazásáról tett nyilatkozatának adatait és az ilyen nyilatkozat benyújtásának időpontját,
+5.[^734] az általános forgalmi adóról szóló törvényben meghatározott adózási módokra vonatkozó választásáról, kizárólag adómentes tevékenység végzéséről, az adómegállapítás különös módjának alkalmazásáról tett nyilatkozatának adatait és az ilyen nyilatkozat benyújtásának időpontját,
 
 6. által ténylegesen végzett adóköteles tevékenységek TEÁOR szerinti besorolását,
 
@@ -50,7 +50,7 @@
 
 14. megszűnése esetén a jogutódlással összefüggő információkat, különösen a jövőbeni közfeladat-ellátás, vagyonátadás, foglalkoztatottak vonatkozásában,
 
-15.[^734] létesítő, módosító és megszüntető okiratát digitalizált, vagy elektronikus formában.
+15.[^735] létesítő, módosító és megszüntető okiratát digitalizált, vagy elektronikus formában.
 
 (3) Az (1) és (2) bekezdésben meghatározottakon kívül a törzskönyvi nyilvántartás
 
@@ -66,9 +66,9 @@ a) költségvetési szerv törzskönyvi jogi személy esetében tartalmazza
 
 5. az államháztartás központi alrendszerébe tartozó költségvetési szerv középirányító szervének PIR számát,
 
-6–7.[^735]
+6–7.[^736]
 
-8.[^736] a költségvetési szervnél alkalmazásban álló személyek jogviszonyának megnevezését,
+8.[^737] a költségvetési szervnél alkalmazásban álló személyek jogviszonyának megnevezését,
 
 b) helyi önkormányzat, nemzetiségi önkormányzat, társulás, térségi fejlesztési tanács esetében tartalmazza a helyi önkormányzat, a nemzetiségi önkormányzat, a társulás és a térségi fejlesztési tanács létrejöttének és megszűnésének időpontját és módját,
 
@@ -76,11 +76,11 @@ c) jogszabály alapján a költségvetési szervek gazdálkodására vonatkozó 
 
 (4) A törzskönyvi nyilvántartás – az (1)–(3) bekezdésben meghatározottakon kívül – az államháztartási információs rendszer által igényelt, más nyilvántartásokkal való kapcsolattartáshoz, továbbá a törzskönyvi jogi személy működésének, ellenőrzésének elősegítéséhez szükséges következő adatokat is tartalmazza:
 
-1.[^737] a törzskönyvi jogi személynek az Áht. 6. § (1) bekezdése szerinti adminisztratív osztályozás alapjául szolgáló azonosító számát (a továbbiakban: államháztartási egyedi azonosító szám),
+1.[^738] a törzskönyvi jogi személynek az Áht. 6. § (1) bekezdése szerinti adminisztratív osztályozás alapjául szolgáló azonosító számát (a továbbiakban: államháztartási egyedi azonosító szám),
 
 2. az államháztartás központi alrendszerébe tartozó költségvetési szerv esetében a központi költségvetésről szóló törvény szerinti szerkezeti rend szerinti besorolását,
 
-3.[^738] a költségvetési szervként működő köznevelési intézmény, szakképző intézmény és felsőoktatási intézmény OM azonosítóját, tevékenysége megkezdésének, illetve befejezésének időpontját,
+3.[^739] a költségvetési szervként működő köznevelési intézmény, szakképző intézmény és felsőoktatási intézmény OM azonosítóját, tevékenysége megkezdésének, illetve befejezésének időpontját,
 
 4. a szociális, gyermekjóléti és gyermekvédelmi törzskönyvi jogi személy ágazati azonosítóját, szolgáltató tevékenysége megkezdésének, illetve megszűnésének időpontját,
 
@@ -90,7 +90,7 @@ c) jogszabály alapján a költségvetési szervek gazdálkodására vonatkozó 
 
 7. a törzskönyvi jogi személy önkormányzattípusát, településtípusát,
 
-8.[^739] az államháztartás önkormányzati alrendszerébe tartozó törzskönyvi jogi személy esetében a vármegye számát, KSH kódját, a költségvetési szerv gazdasági szervezetének PIR számát, valamint az államháztartás önkormányzati alrendszerébe tartozó törzskönyvi jogi személy esetében a költségvetési gazdálkodás egységét meghatározó kódot (a továbbiakban: pénzügyi körzet) és a társult feladatellátás egységét meghatározó kódot (a továbbiakban: társulási körzet),
+8.[^740] az államháztartás önkormányzati alrendszerébe tartozó törzskönyvi jogi személy esetében a vármegye számát, KSH kódját, a költségvetési szerv gazdasági szervezetének PIR számát, valamint az államháztartás önkormányzati alrendszerébe tartozó törzskönyvi jogi személy esetében a költségvetési gazdálkodás egységét meghatározó kódot (a továbbiakban: pénzügyi körzet) és a társult feladatellátás egységét meghatározó kódot (a továbbiakban: társulási körzet),
 
 9. a helyi önkormányzat működésének jellegét (polgármesteri hivatalt, közös önkormányzati hivatalt működtető önkormányzat),
 
@@ -100,9 +100,9 @@ c) jogszabály alapján a költségvetési szervek gazdálkodására vonatkozó 
 
 12. a közös önkormányzati hivatalt létrehozó települési önkormányzatok felsorolását,
 
-13.[^740] a társulásban részt vevő települési önkormányzatok felsorolását, a társulási megállapodás szerinti székhely önkormányzatot, a társulási tanács munkaszervezeti feladatait ellátó törzskönyvi jogi személy nevét, címét, PIR számát,
+13.[^741] a társulásban részt vevő települési önkormányzatok felsorolását, a társulási megállapodás szerinti székhely önkormányzatot, a társulási tanács munkaszervezeti feladatait ellátó törzskönyvi jogi személy nevét, címét, PIR számát,
 
-14.[^741] a helyi önkormányzat, a nemzetiségi önkormányzat, a társulás, a térségi fejlesztési tanács fizetési számlájának, valamint a 145. § (2) bekezdése és (4) bekezdés f) pontja szerinti alszámlájának számát, a számlákat vezető hitelintézet nevét és címét,
+14.[^742] a helyi önkormányzat, a nemzetiségi önkormányzat, a társulás, a térségi fejlesztési tanács fizetési számlájának, valamint a 145. § (2) bekezdése és (4) bekezdés f) pontja szerinti alszámlájának számát, a számlákat vezető hitelintézet nevét és címét,
 
 15. valamennyi adat, tény bejegyzése, módosítása és törlése hatályossá válásának időpontját,
 
@@ -110,26 +110,26 @@ c) jogszabály alapján a költségvetési szervek gazdálkodására vonatkozó 
 
 17. a törzskönyvi okiratok iktató számát.
 
-(5)[^742] A törzskönyvi nyilvántartásban
+(5)[^743] A törzskönyvi nyilvántartásban
 
-a)[^743] a székhelyet, a telephelyet és az iratmegőrzési helyet, ha az eltér a székhelytől vagy valamely telephelytől legalább az irányítószám, település, közterület megnevezése, közterület jellege, házszám – ezek hiányában – a helyrajzi szám,
+a)[^744] a székhelyet, a telephelyet és az iratmegőrzési helyet, ha az eltér a székhelytől vagy valamely telephelytől legalább az irányítószám, település, közterület megnevezése, közterület jellege, házszám – ezek hiányában – a helyrajzi szám,
 
 b) a levelezési címet az a) pontban meghatározott módon, vagy az irányítószám, településnév és postafiók
 
 feltüntetésével kell megjelölni.
 
-[^729]: Az Ávr. „[Az Áht. 104–105. §-ához]” alcímét (Ávr. 167/A–167/L. §) a 307/2013. (VIII. 14.) Korm. rendelet 25. §-a iktatta be, szövege a 397/2014. (XII. 31.) Korm. rendelet 44. § 68. pontja szerint módosított szöveg.
-[^730]: Az Ávr. 167/A. § (1) bekezdés 4. pontja a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 57. pontjával megállapított szöveg.
-[^731]: Az Ávr. 167/A. § (1) bekezdés 6. pontja a 175/2018. (IX. 27.) Korm. rendelet 7. § 2. pontja szerint módosított szöveg.
-[^732]: Az Ávr. 167/A. § (2) bekezdés 2. pontja a 282/2019. (XI. 27.) Korm. rendelet 18. § 10. pontja szerint módosított szöveg.
-[^733]: Az Ávr. 167/A. § (2) bekezdés 5. pontja a 475/2017. (XII. 28.) Korm. rendelet 47. § 5. pontja szerint módosított szöveg.
-[^734]: Az Ávr. 167/A. § (2) bekezdés 15. pontja a 310/2018. (XII. 27.) Korm. rendelet 31. § 27. pontja szerint módosított szöveg.
-[^735]: Az Ávr. 167/A. § (3) bekezdés a) pont 6–7. alpontját a 497/2013. (XII. 29.) Korm. rendelet 63. § (1) bekezdés 22. pontja hatályon kívül helyezte.
-[^736]: Az Ávr. 167/A. § (3) bekezdés a) pont 8. alpontja a 397/2014. (XII. 31.) Korm. rendelet 44. § 69. pontja szerint módosított szöveg.
-[^737]: Az Ávr. 167/A. § (4) bekezdés 1. pontja a 310/2018. (XII. 27.) Korm. rendelet 31. § 28. pontja szerint módosított szöveg.
-[^738]: Az Ávr. 167/A. § (4) bekezdés 3. pontja a 13/2020. (II. 7.) Korm. rendelet 64. § 1. pontja szerint módosított szöveg.
-[^739]: Az Ávr. 167/A. § (4) bekezdés 8. pontja a 282/2019. (XI. 27.) Korm. rendelet 10. § (1) bekezdésével megállapított, a 480/2022. (XI. 28.) Korm. rendelet 12. § 9. pontja szerint módosított szöveg.
-[^740]: Az Ávr. 167/A. § (4) bekezdés 13. pontja a 282/2019. (XI. 27.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^741]: Az Ávr. 167/A. § (4) bekezdés 14. alpontja a 480/2022. (XI. 28.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^742]: Az Ávr. 167/A. § (5) bekezdése a 310/2018. (XII. 27.) Korm. rendelet 23. §-ával megállapított szöveg.
-[^743]: Az Ávr. 167/A. § (5) bekezdés a) pontja a 282/2019. (XI. 27.) Korm. rendelet 18. § 11. pontja szerint módosított szöveg.
+[^730]: Az Ávr. „[Az Áht. 104–105. §-ához]” alcímét (Ávr. 167/A–167/L. §) a 307/2013. (VIII. 14.) Korm. rendelet 25. §-a iktatta be, szövege a 397/2014. (XII. 31.) Korm. rendelet 44. § 68. pontja szerint módosított szöveg.
+[^731]: Az Ávr. 167/A. § (1) bekezdés 4. pontja a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 57. pontjával megállapított szöveg.
+[^732]: Az Ávr. 167/A. § (1) bekezdés 6. pontja a 175/2018. (IX. 27.) Korm. rendelet 7. § 2. pontja szerint módosított szöveg.
+[^733]: Az Ávr. 167/A. § (2) bekezdés 2. pontja a 282/2019. (XI. 27.) Korm. rendelet 18. § 10. pontja szerint módosított szöveg.
+[^734]: Az Ávr. 167/A. § (2) bekezdés 5. pontja a 475/2017. (XII. 28.) Korm. rendelet 47. § 5. pontja szerint módosított szöveg.
+[^735]: Az Ávr. 167/A. § (2) bekezdés 15. pontja a 310/2018. (XII. 27.) Korm. rendelet 31. § 27. pontja szerint módosított szöveg.
+[^736]: Az Ávr. 167/A. § (3) bekezdés a) pont 6–7. alpontját a 497/2013. (XII. 29.) Korm. rendelet 63. § (1) bekezdés 22. pontja hatályon kívül helyezte.
+[^737]: Az Ávr. 167/A. § (3) bekezdés a) pont 8. alpontja a 397/2014. (XII. 31.) Korm. rendelet 44. § 69. pontja szerint módosított szöveg.
+[^738]: Az Ávr. 167/A. § (4) bekezdés 1. pontja a 310/2018. (XII. 27.) Korm. rendelet 31. § 28. pontja szerint módosított szöveg.
+[^739]: Az Ávr. 167/A. § (4) bekezdés 3. pontja a 13/2020. (II. 7.) Korm. rendelet 64. § 1. pontja szerint módosított szöveg.
+[^740]: Az Ávr. 167/A. § (4) bekezdés 8. pontja a 282/2019. (XI. 27.) Korm. rendelet 10. § (1) bekezdésével megállapított, a 480/2022. (XI. 28.) Korm. rendelet 12. § 9. pontja szerint módosított szöveg.
+[^741]: Az Ávr. 167/A. § (4) bekezdés 13. pontja a 282/2019. (XI. 27.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^742]: Az Ávr. 167/A. § (4) bekezdés 14. alpontja a 480/2022. (XI. 28.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^743]: Az Ávr. 167/A. § (5) bekezdése a 310/2018. (XII. 27.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^744]: Az Ávr. 167/A. § (5) bekezdés a) pontja a 282/2019. (XI. 27.) Korm. rendelet 18. § 11. pontja szerint módosított szöveg.

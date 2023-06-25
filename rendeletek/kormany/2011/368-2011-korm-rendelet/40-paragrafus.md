@@ -1,3 +1,3 @@
-40. §[^164] A Kincstár az Áht. 33. § (6) bekezdése szerinti adatokat a 156. § (4) bekezdése szerinti egyeztetést követően, a tárgyhónapot követő hónap utolsó napjáig, a december hónapról készült adatokat a tárgyévet követő év február 15-éig teszi közzé.
+40. §[^164] A Kincstár az Áht. 33. § (6) bekezdése szerinti adatokat a 156. § szerinti kincstári költségvetési jelentés alapján a tárgyhónapot követő hónap 12. napjáig teszi közzé.
 
-[^164]: Az Ávr. 40. §-a a 397/2014. (XII. 31.) Korm. rendelet 19. §- ával megállapított, a 465/2015. (XII. 29.) Korm. rendelet 24. § 5. pontja szerint módosított szöveg.
+[^164]: Az Ávr. 40. §-a a 249/2023. (VI. 22.) Korm. rendelet 1. §-ával megállapított szöveg.

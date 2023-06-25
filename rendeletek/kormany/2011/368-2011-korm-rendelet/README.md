@@ -107,3 +107,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-368-20-
 | 2022-12-01 | 2011-368-20-22.99 | 480/2022. (XI. 28.) Korm. rendelet |
 | 2023-01-01 | 2011-368-20-22.100 | 480/2022. (XI. 28.) Korm. rendelet |
 | 2023-03-30 | 2011-368-20-22.101 | 95/2023. (III. 29.) Korm. rendelet |
+| 2023-06-25 | 2011-368-20-22.102 | 249/2023. (VI. 22.) Korm. rendelet |
