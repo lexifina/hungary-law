@@ -99,3 +99,5 @@
 ## e) a kibocsátó, az ajánlattevő, az értékpapír szabályozott piacra történő bevezetését kezdeményező személy között
 
 ## ea) a kibocsátási tájékoztató közzétételének jóváhagyására,
+
+## eb) az alaptájékoztató közzétételének jóváhagyására,
