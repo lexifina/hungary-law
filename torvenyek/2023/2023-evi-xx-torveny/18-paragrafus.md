@@ -2,6 +2,6 @@
 
 a) 17/A. § (6) bekezdésében az „igazolható megválaszolni” szövegrész helyébe az „igazolható módon megválaszolni” szöveg,
 
-b) 57. § (1) bekezdés d) pontjában a „c) pontja” szövegrész helyébe a „c) és d) pontja” szöveg
+b)
 
 lép.

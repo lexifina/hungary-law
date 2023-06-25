@@ -1,5 +1,3 @@
-## „d) a vállalkozás megsérti a békéltető testületi eljárásban fennálló, a 36. § (5a) bekezdésében meghatározott tájékoztatási kötelezettségét.”
-
 15. § A fogyasztóvédelemről szóló 1997. évi CLV. törvény 55. § (1) bekezdés j) pontja helyébe a következő rendelkezés lép:
 
 (Felhatalmazást kap a Kormány, hogy)
