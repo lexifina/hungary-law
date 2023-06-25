@@ -14,7 +14,9 @@ e) 5. § (4) bekezdés c) pontja az energiával kapcsolatos termékek energia- �
 
 f) 5. § (4) bekezdés i) pontja a fogyasztói jogviták alternatív rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról szóló, 2013. május 21-i 2013/11/EU európai parlamenti és tanácsi irányelvnek (fogyasztói alternatív vitarendezési irányelv),
 
-g)[^58] a fogyasztóvédelmi hatóság kijelöléséről szóló 387/2016. (XII. 2.) Korm. rendelet módosításáról szóló 522/2017. (XII. 29.) Korm. rendelet 1. § (2) bekezdésével megállapított 3. § (4) bekezdés t) pontja az utazási csomagokról és az utazási szolgáltatásegyüttesekről, valamint a 2006/2004/EK rendelet és a 2011/83/EU európai parlamenti és tanácsi irányelv módosításáról, továbbá a 90/314/EGK tanácsi irányelv hatályon kívül helyezéséről szóló 2015/2302/EU (2015. november 25.) európai parlamenti és tanácsi irányelvnek
+g)[^59] a fogyasztóvédelmi hatóság kijelöléséről szóló 387/2016. (XII. 2.) Korm. rendelet módosításáról szóló 522/2017. (XII. 29.) Korm. rendelet 1. § (2) bekezdésével megállapított 3. § (4) bekezdés t) pontja az utazási csomagokról és az utazási szolgáltatásegyüttesekről, valamint a 2006/2004/EK rendelet és a 2011/83/EU európai parlamenti és tanácsi irányelv módosításáról, továbbá a 90/314/EGK tanácsi irányelv hatályon kívül helyezéséről szóló 2015/2302/EU (2015. november 25.) európai parlamenti és tanácsi irányelvnek
+
+h)[^60] 3. § (3) bekezdése és (3a) bekezdés a) pontja a fogyasztók kollektív érdekeinek védelmére irányuló képviseleti keresetekről szóló, 2020. november 25-i (EU) 2020/1818 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
@@ -22,25 +24,26 @@ való megfelelést szolgálja.
 
 a) 3. § (1) bekezdés a) pontja a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről („Rendelet a fogyasztóvédelmi együttműködésről”) szóló, 2004. október 27-i 2006/2004/EK európai parlamenti és tanácsi rendelet,
 
-b)[^59] 3. § (4) bekezdés m) pontja a piacfelügyeletről és a termékek megfelelőségéről, valamint a 2004/42/EK irányelv, továbbá a 765/2008/EK és a 305/2011/EU rendelet módosításáról szóló, 2019. június 20-i (EU) 2019/1020 európai parlamenti és tanácsi rendelet,
+b)[^61] 3. § (4) bekezdés m) pontja a piacfelügyeletről és a termékek megfelelőségéről, valamint a 2004/42/EK irányelv, továbbá a 765/2008/EK és a 305/2011/EU rendelet módosításáról szóló, 2019. június 20-i (EU) 2019/1020 európai parlamenti és tanácsi rendelet,
 
 c) 3. § (7) bekezdése a textilszál-elnevezésekről és a textiltermékek szálösszetételének ehhez kapcsolódó címkézéséről és jelöléséről, valamint a 73/44/EGK tanácsi irányelv, és a 96/73/EK és a 2008/121/EK európai parlamenti és tanácsi irányelv hatályon kívül helyezéséről szóló, 2011. szeptember 27-i 1007/2011/EU európai parlamenti és tanácsi rendelet,
 
 d) 3. § (8) bekezdése az építési termékek forgalmazására vonatkozó harmonizált feltételek megállapításáról és a 89/106/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2011. március 9-i 305/2011/EU európai parlamenti és tanácsi rendelet,
 
-e)[^60] 3. § (1) bekezdés j) pontja és 3. § (3) bekezdés f) pontja az (EU) 2018/302 rendelet,
+e)[^62] 3. § (1) bekezdés j) pontja és 3. § (3) bekezdés f) pontja az (EU) 2018/302 rendelet,
 
-f)[^61] 3. § (1) bekezdés k) pontja és 3. § (3a) bekezdése az (EU) 2017/2394 rendelet,
+f)[^63] 3. § (1) bekezdés k) pontja és 3. § (3a) bekezdése az (EU) 2017/2394 rendelet,
 
-g)[^62] 3. § (4) bekezdés u) pontja az (EU) 2018/644 rendelet,
+g)[^64] 3. § (4) bekezdés u) pontja az (EU) 2018/644 rendelet,
 
-h)[^63] a tengeri és belvízi közlekedést igénybe vevő utasok jogairól, valamint a 2006/2004/EK rendelet módosításáról szóló, 2010. november 24-i 1177/2010/EU európai parlamenti és tanácsi rendelet
+h)[^65] a tengeri és belvízi közlekedést igénybe vevő utasok jogairól, valamint a 2006/2004/EK rendelet módosításáról szóló, 2010. november 24-i 1177/2010/EU európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^58]: A 8. § (1) bekezdés g) pontját az 522/2017. (XII. 29.) Korm. rendelet 1. § (4) bekezdése iktatta be.
-[^59]: A 8. § (2) bekezdés b) pontja a 246/2020. (V. 28.) Korm. rendelet 9. § (4) bekezdésével megállapított szöveg.
-[^60]: A 8. § (2) bekezdés e) pontját a 215/2018. (XI. 22.) Korm. rendelet 3. §-a iktatta be.
-[^61]: A 8. § (2) bekezdés f) pontját a 170/2019. (VII. 12.) Korm. rendelet 4. § (1) bekezdése iktatta be.
-[^62]: A 8. § (2) bekezdés g) pontját a 170/2019. (VII. 12.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^63]: A 8. § (2) bekezdés h) pontját a 712/2020. (XII. 30.) Korm. rendelet 18. § (2) bekezdése iktatta be.
+[^59]: A 8. § (1) bekezdés g) pontját az 522/2017. (XII. 29.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^60]: A 8. § (1) bekezdés h) pontját az 531/2022. (XII. 19.) Korm. rendelet 12. §-a iktatta be.
+[^61]: A 8. § (2) bekezdés b) pontja a 246/2020. (V. 28.) Korm. rendelet 9. § (4) bekezdésével megállapított szöveg.
+[^62]: A 8. § (2) bekezdés e) pontját a 215/2018. (XI. 22.) Korm. rendelet 3. §-a iktatta be.
+[^63]: A 8. § (2) bekezdés f) pontját a 170/2019. (VII. 12.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+[^64]: A 8. § (2) bekezdés g) pontját a 170/2019. (VII. 12.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^65]: A 8. § (2) bekezdés h) pontját a 712/2020. (XII. 30.) Korm. rendelet 18. § (2) bekezdése iktatta be.

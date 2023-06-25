@@ -1,5 +1,5 @@
-## 3.[^57]
+## 3.[^58]
 
 6. §
 
-[^57]: A 3. alcímet (6. §) az 500/2021. (VIII. 18.) Korm. rendelet 11. § c) pontja újból hatályon kívül helyezte.
+[^58]: A 3. alcímet (6. §) az 500/2021. (VIII. 18.) Korm. rendelet 11. § c) pontja újból hatályon kívül helyezte.
