@@ -1,19 +1,43 @@
-## Közérdekű igényérvényesítés
+## A fogyasztók kollektív érdekeinek védelmére irányuló képviseleti keresetek
 
-38. § (1) A fogyasztóvédelmi hatóság vagy a fogyasztói érdekek képviseletét ellátó egyesület pert indíthat a fogyasztók polgári jogi igényeinek érvényesítése iránt az ellen, akinek a 45/A. § (1)–(3) bekezdésében meghatározott fogyasztóvédelmi rendelkezésekbe ütköző tevékenységét a fogyasztóvédelmi hatóság véglegesen megállapította, ha a jogsértő tevékenység a fogyasztók széles, személyében nem ismert, de a jogsértés körülményei alapján meghatározható körét érinti.
+38. § (1) Belföldi képviseleti keresetet és határon átnyúló képviseleti keresetet azok a feljogosított szervezetek indíthatnak, amelyek megfelelnek a következő feltételek mindegyikének:
 
-(2) A jogsértés bekövetkezésétől számított három év – vagy ha külön törvény a fogyasztók polgári jogi igényeinek elévülésére rövidebb időtartamot állapít meg, akkor annak – eltelte után perindításnak nincs helye. E határidő elmulasztása jogvesztéssel jár. Ha a jogsértő magatartás folyamatos, a határidő a magatartás abbahagyásakor kezdődik. Ha a jogsértő magatartás azzal valósul meg, hogy valamely helyzetet vagy állapotot nem szüntetnek meg, a határidő mindaddig nem kezdődik el, amíg ez a helyzet vagy állapot fennáll. Az igény érvényesítésére nyitva álló határidőbe nem számít bele a fogyasztóvédelmi hatóság eljárásának időtartama.
+a) magyarországi székhelyű jogi személy, és igazolni tud tizenkét hónapnyi, a fogyasztók érdekeinek védelme céljából a kijelölés iránti kérelem benyújtását megelőzően kifejtett tényleges nyilvános tevékenységet;
 
-(3) Ha a jogsértéssel érintett fogyasztók tekintetében az érvényesített igény jogalapja és az igényben megjelölt kár összege, illetve egyéb követelés esetén a követelés tartalma – a jogsértéssel érintett egyes fogyasztók egyedi körülményeire tekintet nélkül – egyértelműen megállapítható, a fogyasztóvédelmi hatóság vagy a fogyasztói érdekek képviseletét ellátó egyesület kérheti, hogy a bíróság ítéletében kötelezze a vállalkozást a követelés teljesítésére, ellenkező esetben kérheti, hogy a bíróság állapítsa meg a jogsértés tényét a keresetben meghatározott valamennyi fogyasztóra kiterjedő hatállyal. Ha a bíróság a jogsértés tényét a keresetben meghatározott valamennyi fogyasztóra kiterjedő hatállyal állapította meg, a jogsértéssel érintett fogyasztó az általa a jogsértő ellen indított perben kizárólag a kárának összegét, valamint a jogsértés és a kára közötti okozati összefüggést köteles bizonyítani.
+b) a létesítő okiratban meghatározott célja igazolja, hogy jogos érdeke fűződik ahhoz, hogy védje a fogyasztóknak az (EU) 2020/1828 irányelv I. mellékletében meghatározott uniós jogi rendelkezések szerinti érdekeit;
 
-(4) A bíróság ítéletében meghatározza azoknak a jogosult fogyasztóknak a körét és az azonosíthatóságukhoz szükséges adatokat, akik tekintetében a jogsértés tényét megállapította, illetve akik jogosultak az ítéletbeli kötelezés teljesítésének követelésére.
+c) a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény vagy az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény alapján nonprofit jellegű;
 
-(5) Ha a bíróság ítéletében a jogsértés tényének megállapításán túl a vállalkozást meghatározott követelés teljesítésére is kötelezte, a vállalkozás köteles az (5) bekezdés szerint meghatározott jogosult fogyasztó igényét az ítéletnek megfelelően kielégíteni. Önkéntes teljesítés hiányában a jogosult fogyasztó kérheti az ítélet bírósági végrehajtását. A fogyasztó jogosultságát a bíróság az ítéletben meghatározott feltételek alapján a végrehajtási lap kiállítására irányuló eljárásában vizsgálja.
+d) nem áll csőd- vagy felszámolási eljárás, végelszámolás vagy kényszertörlés alatt;
 
-(6) A bíróság az igény érvényesítőjének kérelmére ítéletében elrendelheti, hogy a vállalkozás saját költségére közlemény közzétételéről gondoskodjon. A közlemény szövegéről és a közzététel módjáról a bíróság dönt. Közzététel alatt érteni kell különösen az országos napilapban és az Internet útján történő nyilvánosságra hozatalt.
+e) független és nem áll a fogyasztóktól eltérő más olyan személyek – különösen vállalkozások – befolyása alatt, akiknek gazdasági érdeke fűződik képviseleti keresetek indításához, még abban az esetben sem, ha a szervezetnek harmadik felek nyújtanak finanszírozást, és e célból az ilyen befolyás megelőzése, továbbá a saját maga és a finanszírozói, valamint a fogyasztók érdekei közötti összeférhetetlenség megelőzésére irányuló eljárásokat alakított ki; valamint
 
-(7) A fogyasztóvédelmi hatóság vagy a fogyasztói érdekek képviseletét ellátó egyesület általi igényérvényesítés nem érinti a fogyasztónak azt a jogát, hogy a jogsértővel szemben a polgári jog szabályai szerint igényét önállóan érvényesítse.
+f) bármely megfelelő eszköz segítségével – így különösen a honlapján – világos és közérthető megfogalmazásban nyilvánosságra hozza a szervezetnek az a)–e) pontban felsorolt feltételeknek való megfelelését igazoló információkat, továbbá információkat a finanszírozási forrásairól a pénzbeli vagy egyéb vagyoni jellegű juttatásról arról, hogy milyen a szervezeti, irányítási és tagsági struktúrája, valamint mi a létesítő okiratban meghatározott célja és mik a tevékenységei.
 
-(8) Az e § szerinti igényérvényesítési jog megilleti az Európai Gazdasági Térség bármely más tagállamának joga alapján létrejött azon feljogosított szervezeteket az általuk védett fogyasztói érdekek védelme körében, amelyek a 2009/22/EK európai parlamenti és tanácsi irányelv 4. cikkének (3) bekezdése alapján az Európai Unió Hivatalos Lapjában közzétett jegyzéken szerepelnek, feltéve, hogy a keresetben érvényesíteni kívánt igény a 2009/22/EK európai parlamenti és tanácsi irányelv I. mellékletében felsorolt európai uniós jogi rendelkezéseket átültető olyan jogszabályi rendelkezések megsértésén alapul, amelyek miatti eljárás a 45/A. § (1)–(3) bekezdése alapján a fogyasztóvédelmi hatóság hatáskörébe tartozik.
+(2) Az adott szervezet kérelme alapján eseti alapon feljogosított szervezetként kijelölhető a szervezet egy konkrét belföldi képviseleti kereset megindítására, amennyiben a szervezet megfelel az e törvényben előírt, feljogosított szervezetként való kijelölésre vonatkozó feltételeknek.
 
-(9) Az e § szerinti pert a Pp. közérdekből indított perre vonatkozó rendelkezései alapján kell lefolytatni.
+(3) A feljogosított szervezetként történő keresetindítási jogosultságról a feljogosított szervezetként történő kijelölésről a fogyasztóvédelemért felelős miniszter dönt.
+
+(4) Feljogosított szervezetként való kijelölési eljárás lefolytatása nélkül e törvény alapján jogosult belföldi képviseleti kereset indítására:
+
+a) a fogyasztóvédelmi hatóság,
+
+b) az ügyész,
+
+c) Magyar Nemzeti Bank, valamint
+
+d) minden olyan központi kormányzati igazgatási szerv, autonóm államigazgatási szerv és önálló szabályozó szerv,
+
+amelynek a feladatai közé tartozik az (EU) 2020/1828 irányelv I. mellékletében meghatározott uniós jogi rendelkezéseken vagy más jogszabályi rendelkezéseken alapuló fogyasztói jogok védelme.
+
+(5) A fogyasztóvédelemért felelős miniszter megküldi az Európai Bizottság részére a határon átnyúló képviseleti keresetek indítására az előzetesen kijelölt feljogosított szervezetek jegyzékét, beleértve a feljogosított szervezetek nevét és alapszabályban meghatározott célját. A fogyasztóvédelemért felelős miniszter tájékoztatást ad az Európai Bizottság részére az említett jegyzékben szereplő adatok módosulása esetén is.
+
+(6) A fogyasztóvédelemért felelős miniszter – a feljogosított szervezetként történő kijelölésről szóló döntéséről szóló közlemény közhírré tételével egyidejűleg – honlapján közzéteszi a képviseleti keresetek indítására jogosult feljogosított szervezetek jegyzékét.
+
+(7) A fogyasztóvédelemért felelős miniszter szükség esetén soron kívül, de legalább ötévente felülvizsgálja, hogy a feljogosított szervezetek megfelelnek-e az (1) bekezdésben felsorolt feltételeknek. Ha a feljogosított szervezet nem felel meg az (1) bekezdésben felsorolt feltételek közül legalább egynek, akkor a fogyasztóvédelemért felelős miniszter a feljogosított szervezetet törli a nyilvántartásból.
+
+(8) Ha egy tagállam vagy az Európai Bizottság aggályokat fogalmaz meg azzal kapcsolatban, hogy egy feljogosított szervezet megfelel-e az (1) bekezdésben felsorolt feltételeknek, akkor a fogyasztóvédelemért felelős miniszter kivizsgálja az aggályokat. Amennyiben a feljogosított szervezet egy vagy több feltételnek már nem felel meg, a fogyasztóvédelemért felelős miniszter a feljogosított szervezetet törli a nyilvántartásból.
+
+(9) A képviseleti kereset alapján indult eljárásban a vállalkozás a bíróság tudomására hozhatja azokat az indokokat, amelyek miatt aggályosnak látja a feljogosított szervezet megfelelőségét. Ha az eljárást lefolytató bíróság a feljogosított szervezeti jogállás feltételeinek fennállásával kapcsolatos aggályok kivizsgálásának szükségességét – a rendelkezésre álló adatok alapján – megalapozottnak tartja, a (7) bekezdés szerinti vizsgálat lefolytatása érdekében megkeresi a fogyasztóvédelemért felelős minisztert. A bíróság megkeresésére a fogyasztóvédelemért felelős miniszter a vizsgálatot soron kívül lefolytatja, és annak eredményéről haladéktalanul tájékoztatja a bíróságot. Amennyiben a feljogosított szervezet egy vagy több feltételnek már nem felel meg, a fogyasztóvédelemért felelős miniszter a feljogosított szervezetet törli a nyilvántartásból.
+
+(10) A fogyasztóvédelemért felelős miniszter látja el a (8) bekezdés alkalmazása céljából a nemzeti kapcsolattartó pont feladatait.

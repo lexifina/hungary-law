@@ -4,17 +4,15 @@
 
 a) a hulladékokról szóló 2008/98/EK irányelv módosításáról szóló, 2018. május 30-i (EU) 2018/851 európai parlamenti és tanácsi irányelv;
 
-b) az Európai Parlament és a Tanács 98/6/EK irányelve (1998. február 16.) a fogyasztók számára kínált termékek árának feltüntetésével kapcsolatos fogyasztóvédelemről [a 2. § m) és n) pontja, a 14. § (1)–(3), (5) és (6) bek., az 56/A. § (5) bekezdésében adott felhatalmazás alapján megalkotott miniszteri rendelettel együtt];
+b) a fogyasztók számára kínált termékek árának feltüntetésével kapcsolatos fogyasztóvédelemről szóló, 1998. február 16-i 98/6/EK európai parlamenti és tanácsi irányelv [a 2. § 7–8. pontja, a 14. § (1)–(3), (5) és (6) bekezdés, az 56/A. § (5) bekezdésben adott felhatalmazás alapján megalkotott miniszteri rendelettel együtt];
 
-c) az Európai Parlament és a Tanács 2009/22/EK irányelve (2009. április 23.) a fogyasztói érdekek védelme érdekében a jogsértés megszüntetésére irányuló eljárásokról [a 38. § (6) és (8) bekezdése, a 39. § (2) és (3) bekezdése, a 46. § (2) bekezdés b) pontja, a 47. § (1) bekezdés a) és b) pontja, a 49. § (1) bekezdése, az 51. § (2)–(4) bekezdése, a fogyasztóvédelmi hatóság eljárásában];
+c) a fogyasztók kollektív érdekeinek védelmére irányuló képviseleti keresetekről és a 2009/22/EK irányelv hatályon kívül helyezéséről szóló, 2020. november 25-i (EU) 2020/1828 európai parlamenti és tanácsi irányelv [2. § 5., 11., 15., 20., 21., 22., 23., 25., 34. pontja, 38. §, 38/A.–38/G. §, 46. § (2) bekezdés b) pontja, 47. § (1) bekezdés a) és b) pontja, 49. § (1) bekezdése, 51. § (2)–(4) bekezdése, 56/E. §];
 
-d) az Európai Parlament és a Tanács 2013. május 21-i 2013/11/EU irányelve a fogyasztói jogviták alternatív rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról (fogyasztói alternatív vitarendezési irányelv) [2. § j), k), o), p), s) pontja, 17/A. § (1) és (1a) bekezdése, 18. § (1), (6) és (7) bekezdése, 29. § (4), (5a), (5b), (8), (11) és (12) bekezdése, 36/A. § (1) és (2) bekezdése, 37/A. § (3)–(9) bekezdése, 45/A. § (1) bekezdés e) pontja, 47/C. § (5) bekezdés e) pontja];
+d) a fogyasztói jogviták alternatív rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról (fogyasztói alternatív vitarendezési irányelv) szóló 2013. május 21-i 2013/11/EU európai parlamenti és tanácsi irányelv [2. § 1., 3., 14., 27., 31. pontja, 17/A. § (1) és (1a) bekezdése, 18. § (1), (6) és (7) bekezdése, 29. § (4), (5a), (5b), (8), (11) és (12) bekezdése, 36/A. § (1) és (2) bekezdése, 37/A. § (3)–(9) bekezdése, 45/A. § (1) bekezdés e) pontja, 47/C. § (5) bekezdés c) pontja];
 
-e) a Bizottság 98/257/EK ajánlása (1998. március 30.) a fogyasztói jogviták bírósági eljáráson kívüli rendezésére hatáskörrel rendelkező testületekre vonatkozó elvekről (a 18–37/A. §).
+e) a fogyasztói jogviták bírósági eljáráson kívül rendezésére hatáskörrel rendelkező testületekre vonatkozó elvekről szóló, 1998. március 30-i 98/247/EK bizottsági ajánlás [18–37/A. §];
 
-f) az Európai Parlament és a Tanács 2006/123/EK irányelve (2006. december 12.) a belső piaci szolgáltatásokról
-
-[a 2. § i) pontja, a 16/B. § (1) és (3) bekezdése, a 17/D. § (4) bekezdése].
+f) a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv [2. § 12. pontja, a 16/B. § (1) és (3) bekezdése, a 17/D. § (4) bekezdése].
 
 g) a villamos energia belső piacára vonatkozó közös szabályokról és a 2012/27/EU irányelv módosításáról szóló, 2019. június 5-i (EU) 2019/944 európai parlamenti és tanácsi irányelv [a 37/B. § (1)–(2) bekezdése],
 
@@ -32,7 +30,7 @@ b)
 
 c)
 
-d) az Európai Parlament és Tanács 2013. május 21-i 524/2013/EU rendelete a fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról (fogyasztói online vitarendezési irányelv) [2. § a),18. § (8) bekezdés, 29. § (11) bekezdés];
+d) a fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról (fogyasztói online vitarendezési irányelv) szóló, 2013. május 21-i 524/2013/EU európai parlamenti és tanácsi rendelet [2. § 9. pont, 18. § (8) bekezdés, 29. § (11) bekezdés];
 
 e) a belső piacon belül a vevő állampolgársága, lakóhelye vagy letelepedési helye alapján történő indokolatlan területi alapú tartalomkorlátozással és a megkülönböztetés egyéb formáival szembeni fellépésről, valamint a 2006/2004/EK és az (EU) 2017/2394 rendelet, továbbá a 2009/22/EK irányelv módosításáról szóló, 2018. február 28-i (EU) 2018/302 európai parlamenti és tanácsi rendelet.
 

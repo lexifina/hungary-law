@@ -18,7 +18,7 @@ h) a fogyasztóvédelmi hatóság vagy hatóságok kijelölésére, feladat- és
 
 i)
 
-j) a 2009/22/EK európai parlamenti és tanácsi irányelv 4. cikk (2) bekezdésének végrehajtása céljából a fogyasztói érdekek képviseletét ellátó egyesületeknek az irányelv 4. cikk (3) bekezdésében meghatározott jegyzékre való felkerülése céljából lefolytatandó eljárásra,
+j) az (EU) 2020/1828 irányelvnek való megfelelés céljából a feljogosított szervezetek jegyzékre való felkerülése céljából lefolytatandó eljárására, valamint a jogsérelem orvoslására irányuló képviseleti keresetek finanszírozásának vizsgálatára,
 
 k) az Európai Fogyasztói Központok Hálózatában való részvételre,
 

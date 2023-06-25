@@ -1,1 +1,5 @@
-### 38/A. §
+38/A. § (1) A valamely másik tagállamban előzetesen kijelölt feljogosított szervezetek határon átnyúló képviseleti keresetet indíthatnak a magyar bíróságok előtt.
+
+(2) Ha az (EU) 2020/1828 irányelv I. mellékletében szereplő uniós jogi rendelkezéseknek – ideértve ezen rendelkezések nemzeti jogba átültetett megfelelőit is – a fogyasztók kollektív érdekeit hátrányosan vagy feltételezhetően hátrányosan érintő, vállalkozás általi megsértése ténylegesen vagy valószínűleg különböző tagállamokbeli fogyasztókat érint, a különböző tagállamokbeli fogyasztók kollektív érdekeinek védelme érdekében több, különböző tagállamokból származó feljogosított szervezet is indíthat együttesen képviseleti keresetet magyar bíróság előtt.
+
+(3) A bíróságoknak az (EU) 2020/1828 irányelv 5. cikk (1) bekezdése szerinti jegyzéket el kell fogadniuk annak igazolásaként, hogy a feljogosított szervezet jogosult határokon átnyúló képviseleti keresetek indítására, de ez nem érinti az eljáró bíróság annak megvizsgálására vonatkozó jogát, hogy az adott feljogosított szervezet alapszabályban vagy létesítő okiratában meghatározott célja indokolja-e az adott ügyben az általa történő keresetindítást.

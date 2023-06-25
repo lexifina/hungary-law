@@ -1,6 +1,6 @@
 29/A. § (1) A békéltető testület eljárása során az iratokat a természetes személynek, valamint az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési törvény) szerint gazdálkodó szervezetnek nem minősülő fogyasztónak – a (2) és (3) bekezdésben foglalt kivétellel – postai szolgáltató útján, a hivatalos iratok kézbesítésére vonatkozó rendelkezések szerint kell kézbesíteni.
 
-(2) Elektronikus kapcsolattartásra kötelezett gazdálkodó szervezetek, és az E-ügyintézési törvény szerinti elektronikus ügyintézésre köteles, a 2. § a) pontja szerint fogyasztónak minősülő szervezetek részére az iratokat az E-ügyintézési törvényben meghatározott elektronikus úton kell kézbesíteni.
+(2) Elektronikus kapcsolattartásra kötelezett gazdálkodó szervezetek, és az E-ügyintézési törvény szerinti elektronikus ügyintézésre köteles, a 2. § 10. pontja szerint fogyasztónak minősülő szervezetek részére az iratokat az E-ügyintézési törvényben meghatározott elektronikus úton kell kézbesíteni.
 
 (3) Az elektronikus kapcsolattartásra nem kötelezett természetes személyt, valamint az E-ügyintézési törvény szerint gazdálkodó szervezetnek nem minősülő fogyasztót megilleti az elektronikus kapcsolattartás választásának joga. Erre irányuló kérelmét az eljárás során bármikor előterjesztheti.
 

@@ -1,1 +1,5 @@
-56. § Felhatalmazást kap a fogyasztóvédelemért felelős miniszter, hogy a békéltető testületi tagsági feladat ellátására vonatkozó pályázat szabályairól, a pályázatok előzetes értékeléséről, a békéltető testületi tagok számának növeléséről, a békéltető testületi tagok díjazásáról szóló részletes szabályokat és az online adásvételi vagy online szolgáltatási szerződéssel összefüggő határon átnyúló fogyasztói jogvita esetén az eljárásra kijelölt kamarák által működtetett békéltető testületek kijelölését rendeletben állapítsa meg.
+56. § Felhatalmazást kap a fogyasztóvédelemért felelős miniszter, hogy rendeletben
+
+a) állapítsa meg a békéltető testületi elnöki és tagsági feladat ellátására vonatkozó kiválasztási eljárás szabályait és a békéltető testületi elnökök és tagok díjazásáról, képzéséről és a békéltető testületi alapvizsgáról szóló részletes szabályokat, valamint
+
+b) az online adásvételi vagy online szolgáltatási szerződéssel összefüggő határon átnyúló fogyasztó jogvita esetén eljáró békéltető testületeket kijelölje.
