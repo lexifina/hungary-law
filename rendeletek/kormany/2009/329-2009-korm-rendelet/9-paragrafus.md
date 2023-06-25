@@ -1,1 +1,0 @@
-9. § E rendelet a fogyasztói érdekek védelme érdekében a jogsértés megszüntetésére irányuló eljárásokról szóló, 2009. április 23-i 2009/22/EK európai parlamenti és tanácsi irányelv 3. cikkének és 4. cikke (2) bekezdésének való megfelelést szolgálja.
