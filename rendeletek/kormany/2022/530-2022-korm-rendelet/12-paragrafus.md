@@ -1,0 +1,1 @@
+12. § E rendelet a fogyasztók kollektív érdekeinek védelmére irányuló képviseleti keresetekről és a 2009/22/EK irányelv hatályon kívül helyezéséről szóló, 2020. november 25-i (EU) 2020/1828 európai parlamenti és tanácsi irányelv 4. cikkének, 5. cikk (1) bekezdésének és 14. cikk (1) bekezdésének való megfelelést szolgálja.

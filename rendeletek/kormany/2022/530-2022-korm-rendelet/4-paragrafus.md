@@ -1,0 +1,1 @@
+4. § Ha a jegyzékben szereplő feljogosított szervezet 2. § (4) bekezdése szerinti fogyasztóvédelmi tevékenységi köre módosul, akkor azt haladéktalanul bejelenti a miniszternek. A miniszter a bejelentés alapján kezdeményezi az Európai Bizottságnál a határon átnyúló kereset indítására jogosult feljogosított szervezet tevékenységi köre módosulásának a jegyzékben történő átvezetését.

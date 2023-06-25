@@ -1,0 +1,1 @@
+A Kormány a fogyasztóvédelemről szóló 1997. évi CLV. törvény 55. § (1) bekezdés j) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:

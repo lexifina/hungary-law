@@ -1,0 +1,3 @@
+6. § (1) Ha a jegyzékben szereplő feljogosított szervezet megszűnésének megállapítása, a fogyasztóvédelmi szervezet feloszlatása vagy intézkedésre okot adó bármely körülmény a miniszter hivatalos tudomására jut, az erről szóló bírósági határozat alapján a miniszter kezdeményezi az Európai Bizottságnál a feljogosított szervezet határon átnyúló jegyzékből való törlését.
+
+(2) Ha a jegyzékben szereplő feljogosított szervezet megszűnésének megállapítása, a fogyasztóvédelmi szervezet feloszlatása vagy intézkedésre okot adó bármely körülmény a miniszter hivatalos tudomására jut, az erről szóló bírósági határozat alapján törli a feljogosított szervezetet a belföldi jegyzékből.
