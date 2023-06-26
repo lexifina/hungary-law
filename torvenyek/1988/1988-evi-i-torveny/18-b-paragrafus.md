@@ -12,7 +12,7 @@ ba) minden olyan idő, amely nem minősül munkaidőnek és pihenőidőnek, és 
 
 bb) több gépjárművezetős járatok esetében a jármű vezetési ideje alatt a járművet vezető személy mellett, vagy a fekvőhelyen eltöltött idő;
 
-c) munkahely: a közúti személyszállítást, illetve árufuvarozást végző vállalkozás valamennyi telephelye és székhelye, az ilyen tevékenység végezéséhez használt jármű, továbbá bármely egyéb hely, ahol a személyszállítási, illetve árufuvarozási tevékenységgel kapcsolatos feladatokat végzik;
+c) munkahely: a közúti személyszállítást vagy árufuvarozást végző vállalkozás valamennyi telephelye és székhelye, az ilyen tevékenység végezéséhez használt jármű, a közösségi közlekedésben foglalkoztatott járművezető általános tartózkodási helyeként szolgáló munkáltatói működési központ, továbbá bármely egyéb hely, ahol a személyszállítási vagy árufuvarozási tevékenységgel kapcsolatos feladatokat végzik;
 
 d) közúti szállításban közreműködő személy: a munkavállaló és az önálló vállalkozói tevékenységet folytató gépjárművezető;
 
@@ -29,3 +29,5 @@ ed) akinek a jövedelme közvetlenül a megtermelt nyereségtől függ, és
 ee) akinek megvan az a lehetősége, hogy egyénileg vagy más önálló vállalkozó gépjárművezetőkkel történő együttműködés keretein belül több ügyféllel is üzleti kapcsolatot tartson fenn.
 
 f) a hét: a munkavégzés helye szerinti helyi időszámítás szerint, hétfő 00:00 órától vasárnap 24:00 óráig terjedő időszak.
+
+g) a közösségi közlekedésben foglalkoztatott járművezető általános tartózkodási helyeként szolgáló munkáltatói működési központ: munkaviszonyra vonatkozó szabály eltérő rendelkezése hiányában a járművezető konkrét állomáshelye, azaz a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény szerinti autóbuszos személyszállítási közszolgáltatást végző vállalkozás azon létesítménye, parkolási hely, és egyéb meghatározott földrajzi pont, ahonnan kiindulva a járművezető a szolgálatát rendszeresen ellátja, továbbá ahová annak végeztével visszatér feladatainak szokásos ellátása során anélkül, hogy erre munkáltatója külön utasítaná.

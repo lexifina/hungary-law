@@ -12,6 +12,8 @@ a) az üzemben tartó olyan nem természetes személy, amely rendszeres tevéken
 
 b) a jármű tulajdonosa a jármű forgalomba helyezését a közlekedési igazgatási hatóságnál már kezdeményezte.
 
+c) a jármű a díj ellenében végzett közúti árutovábbítási, a saját számlás áruszállítási, valamint az autóbusszal díj ellenében végzett személyszállítási és a saját számlás személyszállítási tevékenységről szóló kormányrendelet szerinti bérelt tehergépjármű.
+
 (3) A (2) bekezdés b) pontja alkalmazása során forgalomba helyezés kezdeményezésének minősül a jármű származás ellenőrzési nyilvántartásba vétele is.
 
 (4) Az (1) bekezdés b) pontjában foglaltakat nem kell alkalmazni, ha a járművezető

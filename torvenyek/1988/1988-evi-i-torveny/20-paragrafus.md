@@ -48,7 +48,7 @@ o) a Nemzeti Tengelysúlymérő Rendszer keretében végzett mérés eredménye 
 
 p) a közúti közlekedési ellenőrzés lefolytatására, annak során hozott hatósági intézkedésekre
 
-q) a külföldi járművezető által végzett közúti szállítás kiküldetési előírásaira
+q) a járművezető által végzett közúti szállítás kiküldetési előírásaira
 
 vonatkozó rendelkezések megsértői bírság fizetésére kötelezhetők.
 
@@ -146,4 +146,4 @@ jogosult együtt vagy önállóan ellenőrizni. A közúti forgalomban közleked
 
 (16) Ha az ellenőrzésre jogosult hatóság a közúti ellenőrzés során megállapítja, hogy a 21. § (1) bekezdés d), h) vagy i) pontjában meghatározott rendelkezés megszegése miatt közigazgatási eljárás még nem indult, vagy a megindított közigazgatási eljárásban az üzembentartó személye még nem került megállapításra, úgy – tekintet nélkül a szabályszegés elkövetési helyére – a (7)–(10) bekezdésben foglaltak szerint kell eljárnia.
 
-(17)
+(17) Az eljáró hatóság az (1) bekezdés d) és h) pontjában meghatározott előírások megszegői által a jogsértés elkövetéséhez használt vagy arra alkalmas, megtévesztésre szolgáló eszközt – ide nem értve a járművet – elkobozza.

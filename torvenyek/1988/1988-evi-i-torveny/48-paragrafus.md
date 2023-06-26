@@ -74,9 +74,9 @@ a) a Kormány, hogy
 
 34. az országos közutak, valamint az állam tulajdonában álló közforgalom elől el nem zárt magánutak, terek, parkok és egyéb közterületek vonatkozásában díjfizetési kötelezettséggel érintett várakozási területek kijelölését, azok kategóriáját, várakozási területenként vagy kategóriánként a díjköteles várakozási időszakot, a fizetendő várakozási díj mértékét, a díjköteles várakozás megengedett leghosszabb időtartamát, valamint a díjfizetés alól mentesítettek, valamint a kedvezményes várakozásra jogosultak körét, a kedvezményes várakozási díj mértékét,
 
-35. az Információs Hivatal állományának tagjai, járművei és magánútjai, valamint az általa üzemben tartott járművek forgalomba helyezése és időszakos vizsgálata tekintetében az eltérő rendelkezéseket
+35.
 
-36. a 33/A. § szerinti használati díj és pótdíj központi költségvetésbe történő befizetésének rendjét, részletes szabályait, továbbá az elszámolás számviteli szabályait;
+36. a használati díjból származó bevétel központi költségvetésbe történő befizetésének rendjét, részletes szabályait, továbbá az elszámolás számviteli szabályait;
 
 37. a közúti hírközlő hálózatok kapacitásainak hasznosítására vonatkozó részletes szabályokat;
 
@@ -196,7 +196,7 @@ b) a miniszter, hogy
 
 36. a közút lakott területen kívüli szakasza mellett a közlekedés biztonságát elősegítő közérdekű tájékoztató táblák szakmai tartalmát, valamint engedélyezésüket meghatározó testület létrehozásának, valamint a testület eljárásának részletes szabályait,
 
-37. a közúti forgalom biztonságát veszélyeztető módon veszteglő gépjárművek elszállításának, tárolásának és értékesítésének szabályait,
+37. a közúti forgalom biztonságát veszélyeztető módon veszteglő jármű elszállításának, tárolásának és értékesítésének szabályait,
 
 38. a közút és műtárgyai tervezésére, építésére, valamint a forgalom biztonságát és forgalmi rendjét meghatározó technikai eszközökre, továbbá a közutak kezelésére vonatkozó jogszabályi szintű szabályozást nem igénylő műszaki előírások, útmutatók megalkotására és kiadására, közzétételére vonatkozó eljárási szabályokat,
 
@@ -232,6 +232,8 @@ b) a miniszter, hogy
 
 53. a biztonságos és védett parkolóhelyek létrehozásának és működtetésének részletes szabályait
 
+54. a közlekedési hatóság részére fizetendő felügyeleti díj megfizetésének részletszabályait,
+
 c) a miniszter, hogy a közúti járművek környezetvédelmi felülvizsgálatával kapcsolatos szabályokat a környezetvédelemért felelős miniszter egyetértésével kiadott,
 
 d) a közlekedésrendészetért felelős miniszter, hogy a közlekedésrendészeti intézkedések végrehajtásának módját;
@@ -240,7 +242,7 @@ e) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben 
 
 f) a miniszter, hogy a 18. § (7) bekezdésében, a 20. § (1) bekezdésében és a 29/A. § (1) bekezdésében meghatározott bírság felhasználásának rendjét az államháztartásért felelős miniszterrel egyetértésben,
 
-g) a miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben
+g) a miniszter, hogy az államháztartásért felelős miniszterrel és az útdíjfizetési-szolgáltatásért felelős miniszterrel egyetértésben
 
 1. a díjfizetéssel érintett országos közutakat – ideértve az erre irányuló koncessziós szerződés alapján működtetett országos közutat is – vagy azok egyes szakaszait,
 
@@ -266,7 +268,7 @@ m) a közlekedésért felelős miniszterrel egyetértésben
 
 ma) a honvédelemért felelős miniszter, hogy a Magyar Honvédség és a Katonai Nemzetbiztonsági Szolgálat tagjai, járművei és magánútjai, valamint az általuk üzemben tartott járművek forgalomba helyezése és időszakos vizsgálata tekintetében az eltérő rendelkezéseket, valamint
 
-mb) az egyes rendvédelmi szerveket irányító miniszter, hogy – az Információs Hivatal kivételével – a rendvédelmi szervek állományának tagjai, járművei és magánútjai, valamint az általuk üzemben tartott járművek forgalomba helyezése és időszakos vizsgálata tekintetében az eltérő rendelkezéseket,
+mb) az egyes rendvédelmi szerveket irányító miniszter, hogy a rendvédelmi szervek állományának tagjai, járművei és magánútjai, valamint az általuk üzemben tartott járművek forgalomba helyezése és időszakos vizsgálata tekintetében az eltérő rendelkezéseket,
 
 mc) a Nemzeti Adó- és Vámhivatalt irányító miniszter, hogy a Nemzeti Adó- és Vámhivatal állományának tagjai, járművei és magánútjai, valamint az általuk üzemben tartott járművek forgalomba helyezése és időszakos vizsgálata tekintetében az eltérő rendelkezéseket;
 
@@ -279,6 +281,8 @@ p) a miniszter, hogy a közúti jármű előéleti nyilvántartás vezetésével
 q) a miniszter, hogy a 21/B. § (3) bekezdésében említett, az útdíjfizetés elmulasztásával kapcsolatos információk határokon átnyúló cseréjének elősegítése során alkalmazandó formanyomtatványt,
 
 r) a közlekedésrendészetért felelős miniszter, valamint a honvédelemért felelős miniszter, hogy a feladat- és hatáskörébe tartozó tevékenységhez kapcsolódó, továbbá a járműre szerelt, önjáró, vagy vontatott, valamint emelő-, rakodó gépek, az egyes technológiai műveletekben részfeladatokat ellátó, stabil kivitelezésű – telepített – gépsorok részét képező gépeket működtető gépkezelők képzésére és vizsgáztatására vonatkozó szabályokat
+
+s) az útdíjfizetési-szolgáltatásért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben az útdíjszolgáltatási gazdasági társaság által a viszonteladóknak fizetendő átalány-költségtérítés mértékét és számításának módját
 
 rendeletben állapítsa meg.
 

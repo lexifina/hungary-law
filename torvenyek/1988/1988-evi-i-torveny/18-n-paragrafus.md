@@ -12,4 +12,4 @@ b) az utas felvétele és letétele a székhely szerinti tagállamban történik
 
 3. tranzit áru- és személyszállítási művelet: a jármű másik tagállam területén áru be- vagy kirakodása, utasok felvétele vagy letétele nélkül halad át;
 
-4. gazdálkodó szervezet: más tagállam gazdálkodó szervezete.
+4. gazdálkodó szervezet: más tagállam területén székhellyel rendelkező gazdálkodó szervezet.

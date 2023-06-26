@@ -48,7 +48,7 @@ Magyarország területén van.
 
 21. vizsgabiztos: a közúti járművezetők vizsgáztatását végző személy (járművezetői vizsgabiztos), valamint a közúti közlekedési szakemberek vizsgáztatását végző személy (szaktanfolyami vizsgabiztos);
 
-22. közúti közlekedési szakember: szakoktató, iskolavezető, vizsgabiztos, továbbá
+22. közúti közlekedési szakember: szakoktató, iskolavezető, vizsgabiztos, utánképzés-foglalkozásvezető, továbbá
 
 22.1. a közúti közlekedési szolgáltatásokról és a közúti járművek üzemben tartásáról szóló külön jogszabályban meghatározott
 
@@ -119,3 +119,7 @@ Magyarország területén van.
 36. tehergépjármű: a tehergépkocsi, a vontató, a lassú jármű, valamint a tehergépkocsiból, vontatóból vagy lassú járműből és pótkocsiból (félpótkocsiból) álló járműszerelvény;
 
 37. úthálózat-védelem: az országos út- és hídvagyon preventív védelme és megóvása, a közúti közlekedés biztonságát veszélyeztető, a megengedett legnagyobb össztömeget vagy tengelyterhelés-korlátozást túllépő, valamint a megengedett méretet meghaladó járművek közlekedésének szabályozásával és ellenőrzésével.
+
+38. használati díjból származó bevétel: a használati díjakból, pótdíjakból, valamint egyéb eljárási jellegű díjakból származó valamennyi bevételnek az útdíjszolgáltatási gazdasági társaság 33/A. § (6) bekezdésében meghatározott feladatainak ellátásával összefüggésben felmerült – kormányrendeletben meghatározott – indokolt költségeivel csökkentett összege;
+
+39. utánképzés-foglalkozásvezető: a közúti járművezetők utánképzését végző, az utánképzési foglalkozás tartására az adott programnak megfelelő minősítéssel feljogosított szakoktató.

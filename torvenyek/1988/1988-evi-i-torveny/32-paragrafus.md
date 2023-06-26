@@ -20,7 +20,7 @@ d) a közparkokban és a telepszerű beépítésű lakóövezetben elhelyezhető
 
 (3c) A (3b) bekezdés szerinti hatósági bizonyítvány alapján az érintett ingatlanok – amennyiben azok kizárólag a magyar állam és a helyi önkormányzat tulajdonában állnak – és szükség esetén a közút tulajdonjogának átruházására vonatkozóan a magyar állam képviseletében eljáró szerv és a helyi önkormányzat az ingatlan-nyilvántartáson való átvezetésére alkalmas megállapodást köthet. Az átruházásra ingyenesen, könyv szerinti értéken kerül sor.
 
-(4) A 8. § (1) bekezdés a) pontja 3. alpontjában, a 11. § (2) bekezdésében, a 34. § (1) bekezdésében, valamint más jogszabályban meghatározott, az országos közúthálózat üzemeltetésére, fenntartására és fejlesztésére, a díjpolitika megalapozására, valamint a használati díj- és pótdíjszedésre, a pótdíj behajtására és a díj ellenőrzésére vonatkozó állami feladatok pénzügyi forrásait a központi költségvetésről szóló törvényben kell megállapítani.
+(4) A 8. § (1) bekezdés a) pontja 3. alpontjában, a 11. § (2) bekezdésében, a 34. § (1) bekezdésében, valamint más jogszabályban meghatározott, az országos közúthálózat üzemeltetésére, fenntartására és fejlesztésére, a díjpolitika megalapozására vonatkozó állami feladatok pénzügyi forrásait a központi költségvetésről szóló törvényben kell megállapítani.
 
 (5)
 

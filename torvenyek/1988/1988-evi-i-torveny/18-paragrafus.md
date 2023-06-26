@@ -1,8 +1,8 @@
 18. § (1) A közúti járművezetők képzése állami alap- és középfokú oktatási intézményekben, vagy – a Honvédelmi Sportszövetségről szóló törvényben meghatározott esetben – köztestületnél vagy tanfolyamon, a közúti közlekedési szakemberek képzése és továbbképzése szaktanfolyamon történik. A tanfolyami és a szaktanfolyami elméleti képzés és továbbképzés – a közlekedési hatóság engedélye alapján – zárt rendszerű elektronikus képzési (e-learning) formában, zárt rendszerű elektronikus képzésmenedzsment rendszer alkalmazása mellett is végezhető. A járművezetői vizsgabiztosok, a műszaki vizsgabiztosok, a szakoktatók és az iskolavezetők, valamint az utánképzési foglalkozásvezetők képzését és továbbképzését a Kormány rendeletében kijelölt állami tulajdonú gazdasági társaság végzi vagy – a Honvédelmi Sportszövetségről szóló törvényben meghatározott esetben – köztestületnél történik.
 
-(2) A közúti járművezetők és a közúti közlekedési szakemberek tanfolyami, illetve szaktanfolyami képzése, továbbképzése és utánképzése a közlekedési hatóság engedélye alapján végezhető. A közúti járművezetők és a közúti közlekedési szakemberek képzésére, továbbképzésére, utánképzésére engedéllyel rendelkező szervezetekről a közlekedési hatóság jogosult a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott, valamint a közlekedési hatóság tevékenységével összefüggésben adatokat nyilvántartani, amely nyilvántartás a képzésre engedéllyel rendelkező szerv neve, fantázianeve, székhelye, cégjegyzékszáma, adószáma, a tárgyi feltételek biztosításának helyére, valamint a személyi feltételekre vonatkozó adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül. Az iskolavezetői, a szakoktatói és a vizsgabiztosi tevékenység folytatásához a közlekedési hatóság engedélye szükséges. A tanfolyami és szaktanfolyami képzést, továbbképzést és utánképzést a közlekedési hatóság ellenőrzi, valamint ellátja annak szakfelügyeletét.
+(2) A közúti járművezetők és a közúti közlekedési szakemberek tanfolyami, illetve szaktanfolyami képzése, továbbképzése és utánképzése a közlekedési hatóság engedélye alapján végezhető. A közúti járművezetők és a közúti közlekedési szakemberek képzésére, továbbképzésére, utánképzésére engedéllyel rendelkező szervezetekről a közlekedési hatóság jogosult a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott, valamint a közlekedési hatóság tevékenységével összefüggésben adatokat nyilvántartani, amely nyilvántartás a képzésre engedéllyel rendelkező szerv neve, fantázianeve, székhelye, cégjegyzékszáma, adószáma, a tárgyi feltételek biztosításának helyére, valamint a személyi feltételekre vonatkozó adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül. Az iskolavezetői, a szakoktatói, a vizsgabiztosi és az utánképzés-foglalkozásvezetői tevékenység folytatásához a közlekedési hatóság engedélye szükséges. A tanfolyami és szaktanfolyami képzést, továbbképzést és utánképzést a közlekedési hatóság ellenőrzi, valamint ellátja annak szakfelügyeletét.
 
-(2a) A közúti járművezetők és a közúti közlekedési szakemberek képzése, továbbképzése és utánképzése, valamint a szakoktatói, iskolavezetői és vizsgabiztosi tevékenység határon átnyúló szolgáltatásnyújtás keretében nem végezhető.
+(2a) A közúti járművezetők és a közúti közlekedési szakemberek képzése, továbbképzése és utánképzése, valamint a szakoktatói, iskolavezetői vizsgabiztosi és az utánképzés-foglalkozásvezetői tevékenység határon átnyúló szolgáltatásnyújtás keretében nem végezhető.
 
 (3) A közúti közlekedési szakember tevékenységét akkor folytathatja, ha a közúti közlekedési szakemberek képzésére, vizsgáztatására, valamint a tevékenységének végzésére vonatkozó rendeletekben előírt ismereteket – a vizsgakövetelmények teljesítésével igazoltan – megszerezte és az időszakos szakirányú kötelező továbbképzésen részt vett és vizsgakötelezettségének eleget tett.
 
@@ -22,7 +22,7 @@ a) az eltiltás csak járműkategóriára vagy járműfajtára terjed ki, és az
 
 b) a vezetői engedélyét az eljáró hatóság kizárólag, a közúti közlekedési előéleti pontrendszerről szóló 2000. évi CXXVIII. törvény végrehajtásáról szóló kormányrendeletben a közigazgatási bírsággal sújtandó jogsértéshez tartozó 9 pont megállapítására alapozottan vonta vissza.
 
-(7) A közlekedési hatóság a (2) bekezdésben meghatározott engedélyköteles tevékenységet engedély nélkül vagy az engedélyben foglaltaktól eltérő módon végzőt bírság fizetésére kötelezi. A bírság ismételten kiszabható. A bírság kiszabása mellett a közlekedési hatóság a képző szerv, az iskolavezető és a szakoktató tevékenységét – törvényben vagy kormányrendeletben meghatározott esetekben – felfüggesztheti, az engedélyt visszavonhatja, valamint törvényben vagy kormányrendeletben meghatározott esetben a képzőszervet, az iskolavezetőt és a szakoktatót valamint a vizsgabiztost a tevékenység végzésétől eltilthatja.
+(7) A közlekedési hatóság a (2) bekezdésben meghatározott engedélyköteles tevékenységet engedély nélkül vagy az engedélyben foglaltaktól eltérő módon végzőt bírság fizetésére kötelezi. A bírság ismételten kiszabható. A bírság kiszabása mellett a közlekedési hatóság a képző szerv, az iskolavezető és a szakoktató tevékenységét – törvényben vagy kormányrendeletben meghatározott esetekben – felfüggesztheti, az engedélyt visszavonhatja, valamint törvényben vagy kormányrendeletben meghatározott esetben a képzőszervet, az iskolavezetőt és a szakoktatót valamint a vizsgabiztost és az utánképzés-foglalkozásvezetőt a tevékenység végzésétől eltilthatja.
 
 (7a) A (7) bekezdésben meghatározott eljárásokban figyelmeztetés alkalmazásának nincs helye.
 
@@ -30,7 +30,7 @@ b) a vezetői engedélyét az eljáró hatóság kizárólag, a közúti közlek
 
 (8a) A vizsgaközpontnak a közúti járművezetők, valamint a közúti szakemberek vizsgára bocsátásával összefüggő feladatai ellátásában a képző szerv a Kormány által kiadott rendeletben meghatározott körben közreműködik.
 
-(9) A közlekedési hatóság a (2) bekezdés szerinti iskolavezetői, a szakoktatói és a vizsgabiztosi tevékenység végzésére jogosultakról névjegyzéket vezet. A névjegyzék – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – tartalmazza a következő adatokat:
+(9) A közlekedési hatóság a (2) bekezdés szerinti iskolavezetői, szakoktatói, vizsgabiztosi és utánképzés-foglalkozásvezetői tevékenység végzésére jogosultakról névjegyzéket vezet. A névjegyzék – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – tartalmazza a következő adatokat:
 
 a) természetes személyazonosító adatok,
 
@@ -68,21 +68,19 @@ f) a nyilvántartásba vétel száma, időpontja,
 
 (10) A névjegyzék adatai közül a (2) bekezdés szerint tevékenység végzésére jogosultak családi neve és utóneve, születési családi neve és utóneve, a névjegyzéket vezető közlekedési hatóság megnevezése és a névjegyzékbe vételt igazoló okmány száma, a kiadás dátuma nyilvánosak.
 
-(11) Az iskolavezetői, a szakoktatói és a vizsgabiztosi tevékenység végzésére jogosító engedélyt a közlekedési hatóság visszavonja, felhívja a figyelmet arra, hogy a tevékenység ennek hiányában nem végezhető, továbbá az iskolavezetőt, a szakoktatót, a vizsgabiztost a névjegyzékből törli, ha:
+(11) Az iskolavezetői, a szakoktatói, a vizsgabiztosi és az utánképzés-foglalkozásvezetői tevékenység végzésére jogosító engedélyt a közlekedési hatóság visszavonja, és felhívja a figyelmet arra, hogy a tevékenység ennek hiányában nem végezhető, továbbá az iskolavezetőt, a szakoktatót, a vizsgabiztost, az utánképzés-foglalkozásvezetőt a névjegyzékből törli, ha a névjegyzékbe felvett személy
 
-a) az engedélyezés vagy a bejelentés feltételei nem állnak fenn,
+a) vonatkozásában az engedélyezés vagy a bejelentés feltételei nem állnak fenn,
 
 b) az iskolavezető kivételével nem rendelkezik érvényes vezetői engedéllyel,
 
 c) kötelező továbbképzésen nem vett részt vagy nem tett sikeres vizsgát,
 
-d) a névjegyzékbe felvett személy elhunyt,
+d) ezt kérelmezi, vagy
 
-e) a névjegyzékbe felvett személy ezt kérelmezi, vagy
+e) az iskolavezetői, a szakoktatói és a vizsgabiztosi tevékenységre – a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályairól szóló rendeletben –, valamint az utánképzés-foglalkozásvezetői tevékenységre – a közúti járművezetők utánképzéséről szóló kormányrendeletben – meghatározott rendelkezéseket súlyosan vagy ismételten megsérti.
 
-f) az iskolavezetői, a szakoktatói és a vizsgabiztosi tevékenységre – a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályairól szóló rendeletben – meghatározott rendelkezéseket súlyosan vagy ismételten megsérti.
-
-(12)
+(12) A közlekedési hatóság a névjegyzékből törli az elhunyt iskolavezetőt, szakoktatót, vizsgabiztost, utánképzés-foglalkozásvezetőt.
 
 (13) A közúti járművezetők és a közúti közlekedési szakemberek képesítésmegszerzési kötelezettségéhez kapcsolódó elméleti és gyakorlati vizsgák sikeres teljesítéséről a közúti járművezetők részére a vizsgaigazolást, illetve a közúti közlekedési szakemberek részére a képesítés megszerzését igazoló okmányt a vizsgaközpont adja ki.
 
