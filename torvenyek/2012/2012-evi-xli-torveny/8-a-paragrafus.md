@@ -12,4 +12,4 @@ d) körözött személy vagy tárgy azonosítása érdekében
 
 is felhasználható.
 
-(3) Felhasználásnak minősül, ha a 8. § (5) bekezdésében meghatározott felvételt a szolgáltató a rendőrség, a nemzetbiztonsági szolgálat, a hivatásos katasztrófavédelmi szerv részére megkeresésük esetén továbbítja a (2) bekezdésben meghatározott célból.
+(3) A szolgáltató a 8. § (5) és (5a) bekezdésében foglaltak szerint rögzített felvételt a (2) bekezdésben meghatározott célból erre irányuló megkeresés esetén a rendőrség, a nemzetbiztonsági szolgálat, a hivatásos katasztrófavédelmi szerv részére továbbítani köteles.

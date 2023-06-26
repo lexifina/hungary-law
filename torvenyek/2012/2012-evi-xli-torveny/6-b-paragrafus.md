@@ -1,0 +1,1 @@
+6/B. § A 7. § (1) bekezdése szerinti szervezetek a személyhez kötött utazási jogosultság, valamint az egyes kedvezmények ellenőrzése érdekében közlekedési elektronikus azonosítót bocsáthatnak ki, illetve üzemeltethetnek.

@@ -6,9 +6,15 @@ b) a vasút-, trolibusz-, autóbusz-, hajóállomás vagy megállóhely, kiköt�
 
 c) a 22. § (4a) bekezdése szerint működtetett közösségi kerékpáros rendszer vagy közösségi autóbérlő rendszer üzemeltetője.
 
-(2) A szolgáltató – az utasok, valamint a szolgáltató munkavállalói és megbízottai élete, személye, testi épsége, vagyontárgyai védelme, valamint a járművei, berendezései, eszközei, egyéb vagyontárgyai és a nemzeti vagyon védelme érdekében – az (5) bekezdésben meghatározott helyeken, elektronikus biztonságtechnikai rendszeren keresztül, az (5)–(15) bekezdésben foglalt feltételekkel folytathat megfigyelést, készíthet rögzített képfelvételt, és kezelheti a rögzített képfelvételeket.
+(2) Az utasok, valamint a szolgáltató munkavállalói és megbízottai élete, személye, testi épsége, vagyontárgyai védelme, valamint a járművei, berendezései, eszközei, egyéb vagyontárgyai és a nemzeti vagyon védelme érdekében
 
-(3) A szolgáltató – az utasok, valamint a szolgáltató munkavállalói és megbízottai élete, személye, testi épsége, vagyontárgyai ellen irányuló jogsértő cselekmény felderítése, bizonyítása, továbbá a járművei, berendezései, eszközei, egyéb vagyontárgyai és a nemzeti vagyonba tartozó vagyontárgyak védelme érdekében – elektronikus biztonságtechnikai rendszeren; így különösen testkamerán a gépjárműben elhelyezett vagy a jegyértékesítési terület megfigyelésére alkalmazott fedélzeti kamerán keresztül az (5)–(15) bekezdésben foglalt feltételekkel folytathat megfigyelést. A szolgáltató a megfigyelés során képfelvételt vagy kép- és hangfelvételt készít, valamint kezeli a rögzített képfelvételt vagy kép- és hangfelvételt. Testkamera esetében a szolgáltató biztosítja a testkamera viselője általi rögzítés indításának és befejezésének technikai lehetőségét.
+a) a szolgáltató az (5) bekezdésben meghatározott helyeken, valamint
+
+b) az (1) bekezdés a) és b) pontjában meghatározott szolgáltató – az a) ponton túlmenően – a jármű közlekedése során, a jármű közlekedésével közvetlenül érintett területen
+
+elektronikus biztonságtechnikai rendszeren keresztül, a (6)–(15) bekezdésben foglalt feltételekkel folytathat megfigyelést, készíthet rögzített képfelvételt, és kezelheti a rögzített képfelvételeket.
+
+(3) A szolgáltató – az utasok, valamint a szolgáltató munkavállalói és megbízottai élete, személye, testi épsége, vagyontárgyai ellen irányuló jogsértő cselekmény felderítése, bizonyítása, továbbá a járművei, berendezései, eszközei, egyéb vagyontárgyai és a nemzeti vagyonba tartozó vagyontárgyak védelme érdekében – elektronikus biztonságtechnikai rendszeren keresztül működtetett testkamerán, valamint a gépjárműben elhelyezett, a jegyértékesítési terület megfigyelésére alkalmazott fedélzeti kamerán az (5)–(15) bekezdésben foglalt feltételekkel folytathat megfigyelést. A szolgáltató a megfigyelés során képfelvételt vagy kép- és hangfelvételt készít, valamint kezeli a rögzített képfelvételt vagy kép- és hangfelvételt. Testkamera esetében a szolgáltató biztosítja a testkamera viselője általi rögzítés indításának és befejezésének technikai lehetőségét.
 
 (4) A szolgáltató a jogszabályi felhatalmazás alapján végzett szolgáltatás minőségének és mennyiségének ellenőrzése érdekében, valamint bűnüldözési célból, az (5) bekezdésben meghatározott helyeken elektronikus biztonságtechnikai rendszeren keresztül, az (5)–(15) bekezdésben foglalt feltételekkel folytat megfigyelést, készít rögzített képfelvételt, és kezeli a rögzített képfelvételeket.
 
@@ -25,6 +31,8 @@ d) személyszállítási szolgáltatás céljára alkalmazott járművein,
 e) közösségi kerékpár gyűjtőállomásán, valamint
 
 f) közösségi autóbérlő rendszer személygépkocsijának belső terében.
+
+(5a) Az (5) bekezdéstől eltérően a (3) bekezdésben meghatározott célból és feltételekkel működtetett testkamerán keresztül felvétel a járművet érintő baleset, illetve káreset bekövetkezése esetén – a baleset, illetve káreset körülményeinek rögzítése érdekében – a járművet érintő balesettel, illetve káresettel közvetlenül érintett területen is készíthető.
 
 (6) A szolgáltató a (2) és (3) bekezdés szerinti elektronikus biztonságtechnikai rendszer alkalmazásáról az (5) bekezdésben felsorolt helyeken megjelenő személyek számára észlelhető módon figyelemfelhívó jelzést helyez el, továbbá – a vakok és gyengén látók tájékoztatására alkalmas módon, valamint a magyar nyelvet nem ismerők számára legalább angol nyelven, továbbá indokolt esetben a szolgáltató által meghatározott más nyelven – a személyes adatok kezeléséről tájékoztatást nyújt
 
@@ -44,13 +52,13 @@ f) a közösségi autóbérlő rendszer személygépkocsijának belső terében.
 
 (8) Felvétel nem készíthető olyan helyen, ahol az az emberi méltóságot sértheti, így különösen mosdóban, illemhelyen.
 
-(9) A szolgáltató a felvételt a rögzítéstől számított 16. napon törli, ha annak felhasználására bírósági vagy hatósági eljárásban nem kerül sor.
+(9) A szolgáltató a felvételt a rögzítéstől számított 16. napon törli.
 
 (10) Akinek jogát vagy jogos érdekét a felvétel érinti, jogának vagy jogos érdekének igazolásával, aki a felvételen maga is szerepel (a továbbiakban együtt e § alkalmazásában: érintett), jogának vagy jogos érdekének igazolása nélkül kérheti, hogy a felvételt a szolgáltató a (9) bekezdésben meghatározottak szerint ne törölje. Ez a jog nem érinti a személyes adatok védelmére vonatkozó, az Európai Unió jogi aktusa, illetve a nemzeti jog alapján az érintett által gyakorolható egyéb jogokat.
 
-(11) Bíróság vagy hatóság erre irányuló megkeresése esetén a szolgáltató a felvételt haladéktalanul megküldi a megkereső részére.
+(11) Bíróság vagy hatóság erre irányuló megkeresése esetén a szolgáltató a felvételt haladéktalanul megküldi a megkereső részére. A szolgáltató a felvételt a bíróság vagy hatóság részére történő megküldést követő 90. napon törli, kivéve, ha a (13) bekezdés szerinti vizsgálat lefolytatása miatt, vagy a (12) bekezdés szerint az érintett által előterjesztett kérelemben megjelölt ok miatt a felvétel további megőrzése indokolt.
 
-(12) A (10) bekezdés szerint benyújtott kérelmet követően a felvétel mindaddig nem törölhető, amíg a (11) bekezdés szerinti megkeresés meg nem érkezik a szolgáltatóhoz vagy az érintett által a (10) bekezdés szerint előterjesztett kérelemben megjelölt indok miatt arra szükség van, de legfeljebb a kérelem beérkezésétől számított hat hónapig.
+(12) A (10) bekezdés szerint benyújtott kérelmet követően a felvétel mindaddig nem törölhető, amíg a (11) bekezdés szerinti megkeresés meg nem érkezik a szolgáltatóhoz, vagy az érintett által a (10) bekezdés szerint előterjesztett kérelemben megjelölt indok miatt annak további kezelésére szükség van, de legfeljebb a kérelem beérkezését követő hat hónapig. A szolgáltató köteles a jelen bekezdés szerinti hat hónapos törlési határidőt megelőzően legalább 30 nappal tájékoztatni az érintettet a törlés időpontjáról, valamint köteles kérni az érintett arra vonatkozó nyilatkozatát, hogy kéri-e a felvétel további megőrzését. Ha az érintett a szolgáltató felhívására nem nyilatkozik, úgy a felvételt a jelen bekezdésben foglaltak szerint törölni kell. Ha az érintett nyilatkozata alapján – az abban megjelölt indok miatt – a felvétel további megőrzésére szükség van, úgy a nyilatkozatot a (10) bekezdés szerinti új kérelemnek kell tekinteni.
 
 (13) A szolgáltató a felvételt felhasználhatja:
 
@@ -68,9 +76,11 @@ f) a jogszabályi felhatalmazás alapján az általa megrendelt szolgáltatást
 
 érintő esemény, baleset, káreset körülményeinek, továbbá a szolgáltatónál tett panaszbejelentések kivizsgálása érdekében.
 
-(14) A (9) bekezdésben meghatározott időtartam a (13) bekezdés szerinti vizsgálat időtartamával, de legfeljebb 45 nappal meghosszabbodik.
+(13a) Az (1) bekezdés a) és b) pontjában megjelölt szolgáltatók a (13) bekezdés alapján lefolytatott vizsgálatukhoz a (2) és (3) bekezdésben foglalt célból egymás felvételeit – a felvétel rendelkezésre bocsátására irányuló kérelem előterjesztését és a felvétel rendelkezésre bocsátását követően – felhasználhatják. A felvétel rendelkezésre bocsátása iránti kérelem akkor teljesíthető, ha a kérelmező szolgáltató igazolja a (13) bekezdés szerinti vizsgálati eljárás megindítását és azt, hogy a vizsgálat megfelelő lefolytatásához a felvétel szükséges. A felvétel rendelkezésre bocsátása iránti kérelem előterjesztésének módjára, a kérelem elbírálására és a felvétel rendelkezésre bocsátására vonatkozó részletes szabályokat – a személyes adatok kezelésére irányadó szabályok figyelembevételével – a szolgáltatók megállapodásban rendezik.
 
-(15) A vizsgálat során felhasznált felvételt a vizsgálat és az annak eredményeként tett intézkedés, továbbá bírósági vagy hatósági eljárás esetén az azt lezáró határozat jogerőre emelkedését vagy véglegessé válását követő 15. napon törölni kell.
+(14) A (13) bekezdés szerint lefolytatott vizsgálat esetén a felvételt a vizsgálat lezárását követő 15. napon törölni kell.
+
+(15) Ha a szolgáltató által a (13) bekezdés szerint lefolytatott vizsgálat eredményeként bírósági vagy hatósági eljárás kezdeményezésére kerül sor, a szolgáltató a felvételt a bírósági vagy hatósági eljárást lezáró határozat jogerőre emelkedéséről vagy véglegessé válásáról szóló bírósági, hatósági tájékoztatás kézhezvételét követő 16. napon törli.
 
 (16) A szolgáltató az (5) bekezdésben meghatározott felvételt a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 6. § (9) bekezdése szerinti tisztántartási kötelezettség teljesítéséről való meggyőződés érdekében is felhasználhatja.
 

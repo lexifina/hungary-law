@@ -8,11 +8,13 @@ b) a tiszta és energiahatékony közúti járművek használatának előmozdít
 
 c) a 2012/34/EU európai parlamenti és tanácsi irányelvnek a belföldi vasúti személyszállítási szolgáltatások piacának megnyitása és a vasúti infrastruktúra irányítása tekintetében történő módosításáról szóló, 2016. december 14-i 2016/2370 európai parlamenti és tanácsi irányelv
 
+d) az intelligens közlekedési rendszereknek a közúti közlekedés területén történő kiépítésére, valamint a más közlekedési módokhoz való kapcsolódására vonatkozó keretről szóló, 2010. július 7-i 2010/40/EU európai parlamenti és tanácsi irányelv.
+
 (2) Ez a törvény a következő rendeletek végrehajtásához szükséges rendelkezéseket állapítja meg:
 
 a) az Európai Parlament és a Tanács 1370/2007/EK rendelete (2007. október 23.) a vasúti és közúti személyszállítási közszolgáltatásról, valamint az 1191/69/EGK és az 1107/70/EGK tanácsi rendelet hatályon kívül helyezéséről;
 
-b) az Európai Parlament és a Tanács 1371/2007/EK rendelete (2007. október 23.) a vasúti személyszállítást igénybe vevő utasok jogairól és kötelezettségeiről,
+b) az Európai Parlament és a Tanács (EU) 2021/782 rendelete (2021. április 29.) a vasúti személyszállítást igénybe vevő utasok jogairól és kötelezettségeiről,
 
 c) a 49. § (1) bekezdés d) pontja alapján kiadott jogszabállyal együttesen az Európai Parlament és a Tanács 181/2011/EU rendelete az autóbusszal közlekedő utasok jogairól és a 2006/2004/EK rendelet módosításáról, valamint
 

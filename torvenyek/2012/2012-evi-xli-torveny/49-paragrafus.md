@@ -10,7 +10,7 @@ a) a közszolgáltatási utazási kedvezmények mértékének és igénybevétel
 
 b) a szociálpolitikai menetdíj-támogatás megállapításának és igénybevételének szabályait,
 
-c) a vasúti személyszállításnak az 1371/2007/EK rendeletben nem szabályozott részletes feltételeit, az 1371/2007/EK rendeletben foglaltak alóli mentességeket, a személyszállítási üzletszabályzat tartalmára és jóváhagyására vonatkozó részletes szabályokat,
+c) a vasúti személyszállításnak az (EU) 2021/782 rendeletben nem szabályozott részletes feltételeit, az (EU) 2021/782 rendeletben foglaltak alóli mentességeket, a személyszállítási üzletszabályzat tartalmára és jóváhagyására vonatkozó részletes szabályokat,
 
 d) az autóbuszos személyszállítási szolgáltatásnak a 181/2011/EU rendeletben nem szabályozott részletes feltételeire, valamint a 181/2011/EU rendeletben foglaltak alóli mentességekre, a közúti személyszállítási üzletszabályzatra, továbbá annak jóváhagyására vonatkozó szabályokat,
 
@@ -24,11 +24,9 @@ h) a személygépkocsival díj ellenében végzett közúti személyszállítás
 
 i) a vízi személyszállítási szolgáltatás feltételeire, a víziközlekedési személyszállítási üzletszabályzatra, továbbá annak jóváhagyására vonatkozó szabályokat,
 
-j) az 5. § (1) bekezdés e) pontjában, valamint a 32. § (1) bekezdés e)–h) pontjában, a (4) és (6) bekezdésében, a 35. § (7) bekezdésében meghatározott adatok, adatbázisok és elektronikus adatkommunikációs technológiák egységességét és átjárhatóságát biztosító műszaki és technológiai előírásokat, valamint a 35/A–35/C. §-ban meghatározott Központi Rendszer és Kapcsolódó Szolgáltatások kialakításával, működtetésével, fejlesztésével, igénybevételével és finanszírozásával kapcsolatos feladatok ellátásának szabályait, a 35/C. § (5) bekezdése szerinti közreműködő szervezet kijelölésével, valamint a közreműködő szervezettel köthető szolgáltatási szerződés tartalmi elemeire vonatkozó szabályokat, a közlekedési kártya és kapcsolódó utasmédia kibocsátásával és működtetésével kapcsolatos szabályokat, a személyszállítási közszolgáltatási kedvezményekkel, és egyéb kedvezményekkel összefüggésben a 35/C. §-ban meghatározott nyilvántartással és adatszolgáltatásokkal kapcsolatos részletes szabályokat,
+j) az 5. § (1) bekezdés e) pontjában, a 32. § (1) bekezdés e)–h) pontjában, a 32. § (4) és (6) bekezdésében, valamint a 35. § (7) bekezdésében meghatározott adatok, adatbázisok és elektronikus adatkommunikációs technológiák egységességét és átjárhatóságát biztosító műszaki és technológiai előírásokat, valamint a 35/A–35/C. §-ban meghatározott Központi Rendszer és Kapcsolódó Szolgáltatások kialakításával, működtetésével, fejlesztésével, igénybevételével és finanszírozásával kapcsolatos feladatok ellátásának szabályait, a 35/A. § szerinti működtető kijelölésével, a 35/C. § (5) bekezdése szerinti közreműködő szervezet kijelölésével, valamint a közreműködő szervezettel köthető szolgáltatási szerződés tartalmi elemeire vonatkozó szabályokat, a közlekedési kártya és kapcsolódó utasmédia kibocsátásával és működtetésével kapcsolatos szabályokat, a személyszállítási közszolgáltatási kedvezményekkel, és egyéb kedvezményekkel összefüggésben a 35/C. §-ban meghatározott nyilvántartással és adatszolgáltatásokkal kapcsolatos részletes szabályokat,
 
-k)
-
-k) a személyszállítást igénybe vevő utasok jogainak védelme érdekében a vasúti igazgatási szerv és az autóbuszos hatóság által vasúti és autóbuszos személyszállító szolgáltatókkal, valamint a közlekedésszervezőkkel szemben alkalmazható bírság mértékére, alkalmazására, valamint megfizetésére vonatkozó részletes szabályokat, továbbá,
+k) a személyszállítást igénybe vevő utasok jogainak védelme érdekében a vasúti igazgatási szerv és az autóbuszos hatóság által vasúti és autóbuszos személyszállító szolgáltatókkal, valamint a közlekedésszervezőkkel szemben alkalmazható bírság mértékére, alkalmazására, valamint megfizetésére vonatkozó részletes szabályokat, továbbá
 
 l) a közösségi autóbérlő rendszer részletes szabályait
 
@@ -52,11 +50,11 @@ g) a 45. § szerinti, az új nemzetközi vasúti személyszállítási szolgált
 
 h) az autóbuszos hatóság eljárásáért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj megfizetésére kezelésére, nyilvántartására és visszatérítésére vonatkozó részletes szabályokat az adópolitikáért felelős miniszterrel egyetértésben
 
-i) a 21. § (1a) bekezdése szerinti országos közlekedésszervezőt rendeletben jelölje ki,
+i)
 
-j) a 21. § (2) bekezdésében meghatározott felügyeleti jog gyakorlásának részletes feltételeit, a kötelezettségvállalás részletes feltételeit és felelősségi rendjét, valamint a 21/A. §-ban meghatározott feladatok teljesítésének és a döntési jogok megosztásának részletes szabályait az államháztartásért felelős miniszter egyetértésével,
+j)
 
-k) a végső menedékes helyi személyszállítási közszolgáltató kijelölésére vonatkozó, az 5/A. §-ban meghatározott eljárás részletes szabályait az államháztartásért felelős miniszter egyetértésével
+k)
 
 rendeletben állapítsa meg.
 

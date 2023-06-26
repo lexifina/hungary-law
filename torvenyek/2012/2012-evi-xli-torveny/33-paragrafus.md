@@ -4,9 +4,9 @@
 
 (2) A személyszállítási közszolgáltatási utazási kedvezmények ellentételezésére szociálpolitikai menetdíj-támogatás vehető igénybe – az e törvényben meghatározott feltételek szerint – személyszállítási közszolgáltatás tevékenység közszolgáltatási szerződés alapján történő nyújtása esetén.
 
-(3) Szociálpolitikai menetdíj-támogatást a közlekedési szolgáltató, más közlekedési szolgáltató által saját nevében történő továbbértékesítés esetén – a szolgáltatást nyújtó közlekedési szolgáltatóval történő elszámolási kötelezettség mellett – a szolgáltatást nyújtó közlekedési szolgáltató jogosult igényelni. A közlekedésszervező jogosult a szociálpolitikai menetdíj-támogatás igénylésére, amennyiben a közszolgáltatással összefüggő díjakból származó bevételek beszedését a 21/A. § vagy a 22. § (5) bekezdése alapján a közlekedésszervező végzi.
+(3) Szociálpolitikai menetdíj-támogatást a közlekedési szolgáltató, más közlekedési szolgáltató által saját nevében történő továbbértékesítés esetén – a szolgáltatást nyújtó közlekedési szolgáltatóval történő elszámolási kötelezettség mellett – a szolgáltatást nyújtó közlekedési szolgáltató jogosult igényelni. A közlekedésszervező jogosult a szociálpolitikai menetdíj-támogatás igénylésére, amennyiben a közszolgáltatással összefüggő díjakból származó bevételek beszedését a 22. § (5) bekezdése alapján a közlekedésszervező végzi.
 
-(3a) Szociálpolitikai menetdíj-támogatást kedvezményes összekapcsolt és kedvezményes integrált díjtermékek vonatkozásában a személyszállítási közszolgáltatást nyújtó közlekedési szolgáltató vagy a – közszolgáltatással összefüggő díjakból származó bevételek beszedését a 21/A. § vagy a 22. § (5) bekezdése alapján végző – közlekedésszervező az 5. § (3) és (4) bekezdés, vagy a 32. § (2) bekezdés alapján kötött megállapodásban rögzített díjrészesedés szerinti arányban, a szociálpolitikai menetdíj-támogatás megállapításának és igénybevételének szabályairól szóló jogszabály szerint igényelhet.
+(3a) Szociálpolitikai menetdíj-támogatást kedvezményes összekapcsolt és kedvezményes integrált díjtermékek vonatkozásában a személyszállítási közszolgáltatást nyújtó közlekedési szolgáltató vagy a – közszolgáltatással összefüggő díjakból származó bevételek beszedését a 22. § (5) bekezdése alapján végző – közlekedésszervező az 5. § (3) és (4) bekezdés, vagy a 32. § (2) bekezdés alapján kötött megállapodásban rögzített díjrészesedés szerinti arányban, a szociálpolitikai menetdíj-támogatás megállapításának és igénybevételének szabályairól szóló jogszabály szerint igényelhet.
 
 (4) Nem vehető igénybe szociálpolitikai menetdíj-támogatás
 
@@ -14,7 +14,7 @@ a) azon utazási kedvezmények után, amelynek pénzügyi fedezetére jogszabál
 
 b) azon utazási kedvezmények után, amelyet a támogatás alanya üzletpolitikai céllal nyújt, vagy
 
-c) a nevelési-oktatási vagy gyermekvédelmi szakellátási feladatot ellátó intézménnyel (a továbbiakban együtt: intézmény) jogviszonyban álló gyermek, tanuló, ellátott részére – a tankerületi központ által fenntartott intézmény esetében a tankerület, egyéb esetben az intézmény vagy annak fenntartója által történő vásárlások kivételével – a jogi személyek és a jogi személyiséggel nem rendelkező szervezetek által vásárolt jegyek, bérletek után.
+c) a jogi személyek és a jogi személyiséggel nem rendelkező szervezetek által vásárolt jegyek, bérletek után, kivéve a nevelési-oktatási vagy gyermekvédelmi szakellátási feladatot ellátó intézménnyel (a továbbiakban együtt: intézmény) jogviszonyban álló gyermek, tanuló, ellátott részére, valamint ezen gyermekek, tanulók, ellátottak csoportját kísérő felnőttek részére a tankerületi központ által fenntartott intézmény esetében a tankerület, egyéb esetben az intézmény vagy annak fenntartója által történő vásárlásokat.
 
 (5) A nemzeti mobil fizetési szervezet, vagy közlekedésszervező, vagy közlekedési szolgáltató általi továbbértékesítés esetén a (4) bekezdés alkalmazásában a jegy vagy bérlet megvásárlójának az a személy minősül, aki azt a nemzeti mobil fizetési szervezettől vagy a közlekedésszervezőtől vagy a közlekedési szolgáltatótól vagy ezek viszonteladójától megvásárolja.
 

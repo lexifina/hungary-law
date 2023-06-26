@@ -22,4 +22,4 @@
 
 (11) A Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvény hatálybalépésével a KTI Nonprofit Kft. menetrend szerinti személyszállítással, közlekedési stratégiai és hálózat tervezéssel, forgalmi modellezéssel, elektronikus jegyrendszerrel, valamint utastájékoztatással kapcsolatos feladatai, tárgyi eszközei, vagyoni értékű jogai tulajdonjoga az országos közlekedésszervezőre, mint jogutódra szállnak át térítésmentesen, olyan módon, hogy ez az országos közlekedésszervező és a KTI Nonprofit Kft. számára adó- és közteherfizetési kötelezettséget nem keletkeztet.
 
-(12) A Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvény hatálybalépésével az országos közlekedésszervező feladatainak teljesítése érdekében jogutódként átveszi a közvetlen vagy közvetett állami tulajdonú személyszállítási közszolgáltató társaságoktól a feladatok teljesítéséhez szükséges vagyonelemeket és egyéb erőforrásokat térítésmentesen, olyan módon, hogy ez az országos közlekedésszervező és a személyszállítási közszolgáltató társaságok számára adó- és közteherfizetési kötelezettséget nem keletkeztet.
+(12)

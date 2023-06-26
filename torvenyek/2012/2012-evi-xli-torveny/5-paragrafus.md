@@ -26,4 +26,16 @@ c) a regionális vagy elővárosi személyszállítási közszolgáltatás köz�
 
 (4) A (3) bekezdés szerinti megállapodásban meg kell határozni a helyi személyszállítási közszolgáltatásra, így különösen a közszolgáltatási menetrendre, annak módosítására, a díjrendszerre és a közszolgáltatási kötelezettség körébe eső személyszállítási szolgáltatást végző közlekedési szolgáltató kiválasztására, valamint annak esetleges veszteségei ellentételezésére vonatkozó rendelkezéseket.
 
-(5) Az 1370/2007/EK rendelet 7. cikk (1) bekezdésében meghatározott összevont jelentést az ellátásért felelős a felelősségi körébe tartozó közszolgáltatási tevékenységről a tárgyévet követő év október 31. napjáig készíti el. A jelentést az önkormányzat a honlapján, a miniszter a Kormány honlapján teszi közzé. A jelentést a miniszter és az önkormányzat megküldi a 21. § (1a) bekezdésében meghatározott szervezet részére, amely a jelentéseket saját honlapján közzéteszi.
+(5) Az 1370/2007/EK rendelet 7. cikk (1) bekezdésében meghatározott összevont jelentést az ellátásért felelős a felelősségi körébe tartozó közszolgáltatási tevékenységről a tárgyévet követő év október 31. napjáig készíti el. A jelentést az önkormányzat a honlapján, a miniszter a Kormány honlapján teszi közzé. A jelentést a miniszter és az önkormányzat megküldi a KTI Magyar Közlekedéstudományi és Logisztikai Intézet Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: KTI Kft.) részére, amely a jelentéseket saját honlapján közzéteszi.
+
+(6) A KTI Kft. a
+
+a) 4. § (3) bekezdés i) és j) pontjában,
+
+b) 26–28. §-ban,
+
+c) 31–32. §-ban, valamint
+
+d) 35. §-ban
+
+szabályozott feladatok tekintetében ellátja a miniszter szakmai háttértámogatását, közreműködik a szakmai előkészítésben.

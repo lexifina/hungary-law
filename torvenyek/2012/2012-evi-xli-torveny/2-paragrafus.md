@@ -22,7 +22,7 @@ c) olyan egyéb gazdasági társaság, amelyben a települési (fővárosi) önk
 
 6. elővárosi személyszállítási szolgáltatás: a főváros vagy megyei jogú város és annak legfeljebb 100 km-es vonzáskörzete között végzett személyszállítási szolgáltatás;
 
-6a. egyéb kötöttpályás közlekedési mód: az országos, elővárosi, regionális vasúti személyszállítási szolgáltatásoktól eltérő technológiai és működési megoldásokkal üzemeltetett kötöttpályás közlekedési szolgáltatások, különösen a metró, a villamos, a budapesti elővárosi helyi érdekű vasút (HÉV);
+6a.
 
 7. határon átmenő személyszállítási szolgáltatás: az a személyszállítási szolgáltatás, amelyben az utazás megkezdésének a helye és a célállomás helye vagy legalább azok egyike Magyarország területén kívül van, de az útvonal részben Magyarország területén halad;
 
@@ -131,3 +131,7 @@ b) a járművet a személyszállítást végző üzemeltető, annak tagja, a vel
 50. összekapcsolt díjtermék: összekapcsolt személyszállítási közszolgáltatás igénybevételére jogosító bérlet vagy menetjegy, amely az 5. § (3) és (4) bekezdés szerinti, vagy a 32. § (2) bekezdés szerinti együttműködési megállapodás alapján kerül alkalmazásra;
 
 51. integrált díjtermék: integrált személyszállítási közszolgáltatás igénybevételére jogosító bérlet és menetjegy, amely az 5. § (3) és (4) bekezdés szerinti vagy a 32. § (2) bekezdés szerinti együttműködési megállapodás alapján kerül alkalmazásra.
+
+52. személyhez kötött utazási jogosultság: kizárólag az utazásra jogosító menetjegy, utazási bérlet megvásárlásának időpontjában az utasmédia vagy utazási okmány által azonosítható módon megjelölt utast megillető utazási jogosultság;
+
+53. közlekedési elektronikus azonosító: olyan – közhiteles adatokkal megszemélyesített, a közforgalmú személyszállítási szolgáltatás igénybevétele céljából kibocsátott, jogszabályban meghatározott – elektronikus azonosító, amely biztosítja a személyszállítási szolgáltatások igénybe vételét; közlekedési elektronikus azonosítónak minősül az a közforgalmú személyszállítási szolgáltatás igénybevétele céljából, a 7. § (1) bekezdése szerinti szervezetek által kibocsátott vagy működtetett (a továbbiakban együtt: kibocsátott), elektronikus adat tárolására vagy művelet elvégzésére alkalmas eszközt tartalmazó hordozó vagy elektronikus rendszer is, amely a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény (a továbbiakban: Nytv.) 29. § (19) és (20) bekezdésében meghatározottak szerint a személyazonosító igazolvány szolgáltatásazonosítójához rendelten kezeli a polgár adatait, és igazolja a polgár utazásra, utazási kedvezményre vonatkozó jogosultságait.
