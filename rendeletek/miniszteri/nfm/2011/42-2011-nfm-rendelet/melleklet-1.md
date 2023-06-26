@@ -10,49 +10,51 @@ Az eljáró hatóságok számlaszámai
 
 3. A közlekedési hatóság vármegyei központosított bevételek számlái:
 
-|  | A | B |
+| A | B | C |
 
 | 1. | Név | Magyar Államkincstár számlaszáma |
 
-| 2. | Közlekedési hatóság Budapesti központosított bevételek számla | 10032000-01040511-00000000 |
+| 2. | Közlekedési hatóság központosított bevételek számla | 10032000-00003582-09060096 |
 
-| 3. | Közlekedési hatóság Borsod-Abaúj-Zemplén vármegyei központosított bevételek számla | 10032000-01040504-00000000 |
+| 3. | Közlekedési hatóság Budapesti központosított bevételek számla | 10032000-00003582-09060144 |
 
-| 4. | Közlekedési hatóság Csongrád-Csanád vármegyei központosított bevételek számla | 10032000-01040528-00000000 |
+| 4. | Közlekedési hatóság Borsod-Abaúj-Zemplén vármegyei központosított bevételek számla | 10032000-00003582-09060137 |
 
-| 5. | Közlekedési hatóság Győr-Moson-Sopron vármegyei központosított bevételek számla | 10032000-01040542-00000000 |
+| 5. | Közlekedési hatóság Csongrád-Csanád vármegyei központosított bevételek számla | 10032000-00003582-09060151 |
 
-| 6. | Közlekedési hatóság Hajdú-Bihar vármegyei központosított bevételek számla | 10032000-01040559-00000000 |
+| 6. | Közlekedési hatóság Győr-Moson-Sopron vármegyei központosított bevételek számla | 10032000-00003582-09060175 |
 
-| 7. | Közlekedési hatóság Heves vármegyei központosított bevételek számla | 10032000-01040566-00000000 |
+| 7. | Közlekedési hatóság Hajdú-Bihar vármegyei központosított bevételek számla | 10032000-00003582-09060182 |
 
-| 8. | Közlekedési hatóság Komárom-Esztergom vármegyei központosított bevételek számla | 10032000-01040580-00000000 |
+| 8. | Közlekedési hatóság Heves vármegyei központosított bevételek számla | 10032000-00003582-09060199 |
 
-| 9. | Közlekedési hatóság Jász-Nagykun-Szolnok vármegyei központosított bevételek számla | 10032000-01040573-00000000 |
+| 9. | Közlekedési hatóság Komárom-Esztergom vármegyei központosított bevételek számla | 10032000-00003582-09060216 |
 
-| 10. | Közlekedési hatóság Tolna vármegyei központosított bevételek számla | 10032000-01040638-00000000 |
+| 10. | Közlekedési hatóság Jász-Nagykun-Szolnok vármegyei központosított bevételek számla | 10032000-00003582-09060209 |
 
-| 11. | Közlekedési hatóság Békés vármegyei központosított bevételek számla | 10032000-01040494-00000000 |
+| 11. | Közlekedési hatóság Tolna vármegyei központosított bevételek számla | 10032000-00003582-09060261 |
 
-| 12. | Közlekedési hatóság Baranya vármegyei központosított bevételek számla | 10032000-01040487-00000000 |
+| 12. | Közlekedési hatóság Békés vármegyei központosított bevételek számla | 10032000-00003582-09060120 |
 
-| 13. | Közlekedési hatóság Zala vármegyei központosított bevételek számla | 10032000-01040669-00000000 |
+| 13. | Közlekedési hatóság Baranya vármegyei központosított bevételek számla | 10032000-00003582-09060113 |
 
-| 14. | Közlekedési hatóság Veszprém vármegyei központosított bevételek számla | 10032000-01040652-00000000 |
+| 14. | Közlekedési hatóság Zala vármegyei központosított bevételek számla | 10032000-00003582-09060292 |
 
-| 15. | Közlekedési hatóság Szabolcs-Szatmár-Bereg vármegyei központosított bevételek számla | 10032000-01040621-00000000 |
+| 15. | Közlekedési hatóság Veszprém vármegyei központosított bevételek számla | 10032000-00003582-09060278 |
 
-| 16. | Közlekedési hatóság Bács-Kiskun vármegyei központosított bevételek számla | 10032000-01040470-00000000 |
+| 16. | Közlekedési hatóság Szabolcs-Szatmár-Bereg vármegyei központosított bevételek számla | 10032000-00003582-09060254 |
 
-| 17. | Közlekedési hatóság Fejér vármegyei központosított bevételek számla | 10032000-01040535-00000000 |
+| 17. | Közlekedési hatóság Bács-Kiskun vármegyei központosított bevételek számla | 10032000-00003582-09060106 |
 
-| 18. | Közlekedési hatóság Vas vármegyei központosított bevételek számla | 10032000-01040645-00000000 |
+| 18. | Közlekedési hatóság Fejér vármegyei központosított bevételek számla | 10032000-00003582-09060168 |
 
-| 19. | Közlekedési hatóság Nógrád vármegyei központosított bevételek számla | 10032000-01040597-00000000 |
+| 19. | Közlekedési hatóság Vas vármegyei központosított bevételek számla | 10032000-00003582-09060285 |
 
-| 20. | Közlekedési hatóság Somogy vármegyei központosított bevételek számla | 10032000-01040614-00000000 |
+| 20. | Közlekedési hatóság Nógrád vármegyei központosított bevételek számla | 10032000-00003582-09060223 |
 
-| 21. | Közlekedési hatóság Pest vármegyei központosított bevételek számla | 10032000-01040607-00000000 |
+| 21. | Közlekedési hatóság Somogy vármegyei központosított bevételek számla | 10032000-00003582-09060247 |
+
+| 22. | Közlekedési hatóság Pest vármegyei központosított bevételek számla | 10032000-00003582-09060230 |
 
 4. Az általános rendőrségi feladatok ellátására létrehozott szerv központosított bírságbeszedési számlaszámai:
 
@@ -108,4 +110,4 @@ Az eljáró hatóságok számlaszámai
 
 6. Az Országos Katasztrófavédelmi Főigazgatóság Magyar Államkincstár számlaszáma: 10032000-01040047-00000000 Közúti közlekedési bírság letéti számla.
 
-[^34]: Az 1. melléklet az 1/2017. (I. 3.) NFM rendelet 61. § (3) bekezdésével megállapított, a 36/2017. (IX. 18.) NFM rendelet 31. § (3) bekezdése, a 42/2017. (XI. 7.) NFM rendelet 1. §-a, a 22/2020. (VI. 29.) ITM rendelet 22. § (2) bekezdése, a 12/2021. (III. 5.) ITM rendelet 16. §-a, a 15/2021. (IV. 9.) ITM rendelet 38. § (2) bekezdése, a 2/2023. (II. 20.) ÉKM rendelet 10. § e) és f) pontja szerint módosított szöveg.
+[^34]: Az 1. melléklet az 1/2017. (I. 3.) NFM rendelet 61. § (3) bekezdésével megállapított, a 36/2017. (IX. 18.) NFM rendelet 31. § (3) bekezdése, a 42/2017. (XI. 7.) NFM rendelet 1. §-a, a 22/2020. (VI. 29.) ITM rendelet 22. § (2) bekezdése, a 12/2021. (III. 5.) ITM rendelet 16. §-a, a 15/2021. (IV. 9.) ITM rendelet 38. § (2) bekezdése, a 2/2023. (II. 20.) ÉKM rendelet 10. § e) és f) pontja, a 11/2023. (VI. 23.) ÉKM rendelet 54. §-a szerint módosított szöveg.
