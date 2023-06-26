@@ -1,6 +1,6 @@
-4. számú melléklet a 30/2008. (XII. 31.) KvVM rendelethez[^36]
+4. számú melléklet a 30/2008. (XII. 31.) KvVM rendelethez[^38]
 
-## Az egyedi szennyvízkezelő létesítmény által kibocsátott tisztított szennyvíz határértékei
+Az egyedi szennyvízkezelő létesítmény által kibocsátott tisztított szennyvíz határértékei
 
 1. Egyedi szennyvízkezelő berendezésből felszíni vízbe történő bevezetés
 
@@ -11,6 +11,8 @@
 |  | 2. | Ammónia-ammónium-nitrogén | NH4-N | mg/l | minősített pontminta | 40 |
 
 2. Egyedi szennyvízkezelő létesítményből földtani közegbe történő bevezetés
+
+2K25605_1
 
 |  | Sor- szám | Szennyezőanyagok | Mérték- egység | Mintavétel típusa | Földtani közegbe történő bevezetés esetén határérték felszín alatti víz szempontjából |
 
@@ -28,6 +30,6 @@
 
 |  | 24 órás átlagminta | 25 | – |
 
-(1) A mintavétel típusa vagylagosan írható elő, egy-egy paraméterre mindkettő együtt nem alkalmazható.
+(1)A mintavétel típusa vagylagosan írható elő, egy-egy paraméterre mindkettő együtt nem alkalmazható.
 
-[^36]: A 4. számú mellékletet a 115/2012. (XI. 16.) VM rendelet 3. §-a iktatta be.
+[^38]: A 4. számú mellékletet a 115/2012. (XI. 16.) VM rendelet 3. §-a iktatta be.

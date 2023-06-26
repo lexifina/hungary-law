@@ -1,6 +1,6 @@
 3. számú melléklet a 30/2008. (XII. 31.) KvVM rendelethez
 
-## A Fertő-tóra vonatkozó szintek
+A Fertő-tóra vonatkozó szintek
 
 1. A Fertő-tó egységes kezelése érdekében a jogi partvonalon belül a nyilvántartási magassági értékek az osztrák nyilvántartási alapszintre (mOAf.) vonatkoznak, jogi partvonalon kívül a Balti (mBf.) alapszint használata kötelező. A kapcsolódó területek, létesítmények és vízrendszerek esetén a terveken mindkét alapszintet fel kell tüntetni. A Balti alapszint az Osztrák alapszintnél 0,585 m-rel alacsonyabban van (kiszámítás: mBf = mOAf–0,585m).
 

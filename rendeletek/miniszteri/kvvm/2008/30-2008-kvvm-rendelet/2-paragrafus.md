@@ -1,5 +1,3 @@
-## terjed ki.
-
 2. § (1) A vízilétesítményeket, illetve a vízimunkákat
 
 a) az igények várható fejlődését, a víztestekre vonatkozó környezeti célkitűzéseket (jó ökológiai állapot potenciál elérését) figyelembe véve,
@@ -8,7 +6,7 @@ b) a rendeltetésüknek megfelelő kialakításuk érdekében vízgazdálkodási
 
 c) a kezelő előírásainak és a vízgyűjtő-gazdálkodási tervnek megfelelően
 
-## kell tervezni.
+kell tervezni.
 
 (2) A kialakítás mértékét és a bővítés lehetőségeit műszaki-gazdasági számítással kell meghatározni. Az igények várható növekedése folytán szükségessé váló bővítés idejét a vízilétesítmény tervezett élettartamával összhangban kell számításba venni.
 
@@ -20,6 +18,6 @@ a) az iszap és a hordalék eltávolítása, esetleges elhelyezése, a növényz
 
 b) a vízilétesítmény és az azt védő gyeptakaró gépi fenntarthatósága biztosítható
 
-## legyen.
+legyen.
 
 (5) Vízkivételi mű létesítésénél a meder és a part állékonyságát biztosítani kell.

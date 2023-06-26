@@ -2,6 +2,6 @@
 
 (2) Az útfeljárót – a keresztező út jellegének figyelembevételével – a vonatkozó előírásoknak megfelelően kell kialakítani.
 
-(3)[^17] Az árvízvédelmi töltéseken való közlekedés szabályozására, ha azon egyébként nincs kijelölt közforgalmú út, a helyi viszonyoknak megfelelő közlekedést szabályozó töltéstartozékokat, így sorompókat, kerékvetőket és tiltó táblákat kell elhelyezni. A közforgalmú útnak nem minősülő töltések használata az árvízvédelmi töltés fenntartója által szabályozottan történhet.
+(3)[^19] Az árvízvédelmi töltéseken való közlekedés szabályozására, ha azon egyébként nincs kijelölt közforgalmú út, a helyi viszonyoknak megfelelő közlekedést szabályozó töltéstartozékokat, így sorompókat, kerékvetőket és tiltó táblákat kell elhelyezni. A közforgalmú útnak nem minősülő töltések használata az árvízvédelmi töltés fenntartója által szabályozottan történhet.
 
-[^17]: A 35. § (3) bekezdése a 36/2018. (XII. 21.) BM rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^19]: A 35. § (3) bekezdése a 36/2018. (XII. 21.) BM rendelet 4. § (4) bekezdésével megállapított szöveg.

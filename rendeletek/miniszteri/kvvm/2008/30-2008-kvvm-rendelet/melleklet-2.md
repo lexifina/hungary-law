@@ -1,6 +1,6 @@
-2. számú melléklet a 30/2008. (XII. 31.) KvVM rendelethez[^35]
+2. számú melléklet a 30/2008. (XII. 31.) KvVM rendelethez[^37]
 
-## A Balaton és a Velencei-tó partvédő művei
+A Balaton és a Velencei-tó partvédő művei
 
 | Tó | Legkisebb magasság (cm) |
 
@@ -18,4 +18,4 @@
 
 2. A Balaton déli partjára vonatkozó előírások Balatonkenesétől Keszthelyig (az 1 ÉVO-tól a 78 DVO-ig, Fenékpusztáig) érvényesek.
 
-[^35]: A 2. számú melléklet a 80/2011. (VIII. 3.) VM rendelet 10. §-a szerint módosított szöveg.
+[^37]: A 2. számú melléklet a 80/2011. (VIII. 3.) VM rendelet 10. §-a szerint módosított szöveg.

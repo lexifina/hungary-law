@@ -2,8 +2,8 @@
 
 32. § (1) Az elsőrendű árvízvédelmi vonal mentén szükség szerinti sűrűséggel magassági alappontot, a műtárgyakon pedig mérőpontokat kell elhelyezni.
 
-(2)[^16] Az árvízvédelmi vonalat legfeljebb kétszáz méterenként szelvénykövekkel kell ellátni, amelyeket időjárásálló módon, számozással meg kell jelölni.
+(2)[^18] Az árvízvédelmi vonalat legfeljebb kétszáz méterenként szelvénykövekkel kell ellátni, amelyeket időjárásálló módon, számozással meg kell jelölni.
 
 (3) A töltéskoronán és rézsűn, illetve a mentett és vízoldali védősávokban csak a töltéstartozékok és – szükség esetén – az árvízvédelmi mű infrastrukturális létesítményei helyezhetők el.
 
-[^16]: A 32. § (2) bekezdése a 36/2018. (XII. 21.) BM rendelet 4. § (7) bekezdés d) pontja szerint módosított szöveg.
+[^18]: A 32. § (2) bekezdése a 36/2018. (XII. 21.) BM rendelet 4. § (7) bekezdés d) pontja szerint módosított szöveg.

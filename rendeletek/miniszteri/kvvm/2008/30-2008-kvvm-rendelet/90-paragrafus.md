@@ -8,12 +8,12 @@
 
 (3) Nem minősül a (2) bekezdés szerinti eljárásnak, ha a vízimunka, vízilétesítmény vagy a vízhasználat elvi vagy létesítési vízjogi engedélyét a vízügyi hatóság már kiadta.
 
-(4)[^30]
+(4)[^32]
 
-(5)[^31]
+(5)[^33]
 
-(6)[^32]
+(6)[^34]
 
-[^30]: A 90. § (4) bekezdését a 36/2020. (IX. 22.) BM rendelet 3. §-a hatályon kívül helyezte.
-[^31]: A 90. § (5) bekezdését a 36/2020. (IX. 22.) BM rendelet 3. §-a hatályon kívül helyezte.
-[^32]: A 90. § (6) bekezdését a 36/2020. (IX. 22.) BM rendelet 3. §-a hatályon kívül helyezte.
+[^32]: A 90. § (4) bekezdését a 36/2020. (IX. 22.) BM rendelet 3. §-a hatályon kívül helyezte.
+[^33]: A 90. § (5) bekezdését a 36/2020. (IX. 22.) BM rendelet 3. §-a hatályon kívül helyezte.
+[^34]: A 90. § (6) bekezdését a 36/2020. (IX. 22.) BM rendelet 3. §-a hatályon kívül helyezte.

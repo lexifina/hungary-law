@@ -10,6 +10,6 @@ c) a vízkivétel által a vízkészlet mennyiségi és minőségi viszonyaiban 
 
 d) a külön jogszabályban előírt vízmintavétel biztosítható
 
-## legyen.
+legyen.
 
 (3) Az (1) bekezdésben meghatározott vízilétesítmények egymástól való távolságát úgy kell meghatározni, hogy az azonos vízadó szintekre települt kutak együttes üzemeltetése esetén – ugyanazon üzemi vízszinthez tartozó – kialakuló vízhozamcsökkenés mértéke ne haladja meg az eredeti, üzemszerűen kitermelhető vízhozam 10%-át. A távolság elfogadható mértékének meghatározásánál figyelembe kell venni a helyi adottságokat, a vízhozam csökkenését, a vízszintben, nyomásviszonyokban, vízminőségben és vízhőmérsékletben bekövetkezett változásokat.
