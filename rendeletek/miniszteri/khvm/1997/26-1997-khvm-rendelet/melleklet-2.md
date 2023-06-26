@@ -450,13 +450,13 @@
 
 | [93/2012. (V. 10.) Korm. rendelet 29. §] |  |
 
-2. számú melléklet a 26/1997. (XII. 12.) KHVM rendelethez[^13]
+2. számú melléklet a 26/1997. (XII. 12.) KHVM rendelethez[^14]
 
 |  | A | B |
 
 | Eljáró hatóság megnevezése | Eljáró hatóság előirányzat-felhasználási keretszámlájának száma |
 
-| 1. | Nemzeti Fejlesztési Minisztérium | 10032000-00290713-38100004 |
+| 1. | ÉKM | 10032000-00003582-06020015 |
 
 | 2. | Bács-Kiskun Vármegyei Kormányhivatal | 10025004-00299657-00000000 |
 
@@ -498,4 +498,4 @@
 
 | 21. | Zala Vármegyei Kormányhivatal | 10049006-00299509-00000000 |
 
-[^13]: A 2. számú mellékletet a 97/2006. (XII. 28.) GKM rendelet 17. § (2) bekezdésének a) pontja hatályon kívül helyezte, újonnan a 6/2014. (II. 12.) NFM rendelet 3. §-a iktatta be, szövege az 1/2017. (I. 3.) NFM rendelet 10. § (2) bekezdése, a 42/2020. (XI. 17.) ITM rendelet 2. §-a, a 2/2023. (II. 20.) ÉKM rendelet 2. § e) pontja szerint módosított szöveg.
+[^14]: A 2. számú mellékletet a 97/2006. (XII. 28.) GKM rendelet 17. § (2) bekezdésének a) pontja hatályon kívül helyezte, újonnan a 6/2014. (II. 12.) NFM rendelet 3. §-a iktatta be, szövege az 1/2017. (I. 3.) NFM rendelet 10. § (2) bekezdése, a 42/2020. (XI. 17.) ITM rendelet 2. §-a, a 2/2023. (II. 20.) ÉKM rendelet 2. § e) pontja, a 11/2023. (VI. 23.) ÉKM rendelet 2. §-a szerint módosított szöveg.
