@@ -2,6 +2,8 @@
 
 (2) Eltérő megállapodás hiányában a közvetlenül egymást követő munkanapok után ugyanannyi egymást követő pihenőnapot kell biztosítani.
 
+(2a) Eltérő megállapodás esetén az egymást követő pihenőnapok (3) bekezdésben meghatározott legkisebb számát közvetlenül az egymást követően ledolgozott munkanapok után kell biztosítani.
+
 (3) Ha a munkarend szerint több a munkanap, mint a pihenőnap, akkor a közvetlenül az egymást követő munkanapok után biztosítandó, egymást követő pihenőnapok minimális számát a következőképpen kell meghatározni:
 
 a) az 1–10. egymást követő munkanap esetében minden egyes egymást követő munkanapra 0,2 pihenőnap jár;

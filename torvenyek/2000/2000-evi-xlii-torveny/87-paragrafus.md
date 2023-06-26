@@ -127,3 +127,5 @@ b) szélerővel vagy gépi berendezéssel hajtott vízijármű, amelynek hossza 
 51. Európai Unió baleseti biztosításra vonatkozó kötelező erejű jogi aktusa: a tengeri utasszállítók baleseti felelősségéről szóló, 2009. április 23-i 392/2009/EK európai parlamenti és tanácsi rendelet;
 
 52. átadás-átvétel fordulónapja: a létrehozott, illetve megszerzett eszközök műszaki átadás-átvételének napja, vagy engedélyköteles tevékenység alapján létrehozott, illetve megszerzett eszköz esetén a használatbavételi, üzemeltetési engedély véglegessé válásának napja.
+
+53. vizsgabiztos: az úszólétesítményen fedélzeti és gépüzemi szolgálatot ellátó személy, a hajózási üzemeltetési vezető, valamint a kedvtelési céllal közlekedő úszólétesítmény vezetőjének vizsgáztatását végző személy.
