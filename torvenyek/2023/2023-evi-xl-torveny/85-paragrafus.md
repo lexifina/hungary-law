@@ -25,15 +25,3 @@ e) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK 
 f) az intelligens közlekedési rendszereknek a közúti közlekedés területén történő kiépítésére, valamint a más közlekedési módokhoz való kapcsolódására vonatkozó keretről szóló, 2010. július 7-i 2010/40/EU európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
-
-|
-
-Novák Katalin s. k.,
-
-köztársasági elnök
-
-|
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

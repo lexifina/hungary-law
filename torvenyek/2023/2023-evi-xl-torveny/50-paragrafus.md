@@ -6,4 +6,4 @@ b) 85/D. § (1) bekezdésében a „vasúti igazgatási szervhez és a” szöve
 
 c) 87/J. §-a,
 
-d) 88. § (2) bekezdés 38. pontja.
+d)

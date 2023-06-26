@@ -2,7 +2,7 @@
 
 15. § A közúti közlekedésről szóló 1988. évi I. törvény
 
-a) 9. § (5) bekezdésében a „közlekedési hatóságként eljáró fővárosi és vármegyei kormányhivatal, valamint járási (fővárosi kerületi) hivatal” szövegrész helyébe a „közlekedési hatóság” szöveg,
+a)
 
 b) 18. § (2) bekezdésében az „iskolavezetői, a szakoktatói és a vizsgabiztosi” szövegrész helyébe az „iskolavezetői, a szakoktatói, a vizsgabiztosi és az utánképzés-foglalkozásvezetői” szöveg,
 
@@ -14,7 +14,7 @@ e) 18. § (9) bekezdés nyitó szövegrészében az „iskolavezetői, a szakokt
 
 f) 18/N. § 4. pontjában a „más tagállam gazdálkodó szervezete” szövegrész helyébe a „más tagállam területén székhellyel rendelkező gazdálkodó szervezet” szöveg,
 
-g) 21. § (4b) bekezdésében a „rendeletben kijelölt hatóság által” szövegrész helyébe a „rendeletben kijelölt hatóság – kivéve a közlekedési hatóság – által” szöveg,
+g)
 
 h) 33/A. § (5) bekezdésében a „díjakból” szövegrész helyébe a „díjból” szöveg,
 
