@@ -1,0 +1,3 @@
+20. § A 24/2005. (IV. 21.) GKM rendelet 3. §-a a következő (5a) bekezdéssel egészül ki:
+
+„(5a) A tanulóval a képzésre irányuló szerződéses jogviszony létrehozására, a szerződés megkötésére, továbbá az ehhez kapcsolódó, a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának általános szabályairól szóló 179/2011. (IX. 2.) Korm. rendelet 2. § (1) bekezdés 8. pontja szerinti képzési költség (a továbbiakban: képzési költség), valamint az annak alapját képező díjtételek beszedésére és számla kiállítására a képző szerv jogosult, amely a tanuló részére erről tájékoztatást ad.”

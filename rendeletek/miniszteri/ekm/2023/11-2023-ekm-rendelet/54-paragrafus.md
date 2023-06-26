@@ -1,0 +1,3 @@
+## 14. Az egyes közúti közlekedési szabályokra vonatkozó rendelkezések megsértésével kapcsolatos bírságolással összefüggő hatósági feladatokról, a bírságok kivetésének részletes szabályairól és a bírságok felhasználásának rendjéről szóló 42/2011. (VIII. 11.) NFM rendelet módosítása
+
+54. § Az egyes közúti közlekedési szabályokra vonatkozó rendelkezések megsértésével kapcsolatos bírságolással összefüggő hatósági feladatokról, a bírságok kivetésének részletes szabályairól és a bírságok felhasználásának rendjéről szóló 42/2011. (VIII. 11.) NFM rendelet 1. melléklete a 2. melléklet szerint módosul.

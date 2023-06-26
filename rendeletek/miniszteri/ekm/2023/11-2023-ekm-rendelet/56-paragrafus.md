@@ -1,0 +1,3 @@
+## 16. A nem közúti mozgó gépek belső égésű motorjaival kapcsolatos típusjóváhagyási eljárással összefüggésben fizetendő igazgatási szolgáltatási díjakról szóló 35/2019. (IX. 18.) ITM rendelet módosítása
+
+56. § A nem közúti mozgó gépek belső égésű motorjaival kapcsolatos típusjóváhagyási eljárással összefüggésben fizetendő igazgatási szolgáltatási díjakról szóló 35/2019. (IX. 18.) ITM rendelet 2. § (1) bekezdésében az „Innovációs és Technológiai” szövegrész helyébe az „Építési és Közlekedési” szöveg és az „10032000-00290713-38100004” szövegrész helyébe az „10032000-00003582-06020015” szöveg lép.
