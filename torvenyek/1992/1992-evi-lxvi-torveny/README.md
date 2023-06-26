@@ -95,3 +95,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-66-00-00
 | 2023-03-07 | 2020. évi XLII. törvény | 1992-66-00-00.131 |
 | 2023-06-01 | 2022. évi LXV. törvény | 1992-66-00-00.130 |
 | 2023-06-24 | 2023. évi XXXVIII. törvény | 1992-66-00-00.133 |
+| 2023-06-26 | 2023. évi XL. törvény | 1992-66-00-00.134 |
