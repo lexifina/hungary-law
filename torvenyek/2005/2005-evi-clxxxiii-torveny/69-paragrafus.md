@@ -20,7 +20,7 @@
 
 7. döntés a 79/B. § (1) bekezdése szerinti jogvitás ügyekben,
 
-8. a pályahálózat-működtető függetlenségét biztosító jogi, szervezeti és döntéshozatali függetlenségi feltételei meglétének ellenőrzése,
+8. a pályahálózat-működtető, valamint a VPSZ függetlenségét biztosító jogi, szervezeti és döntéshozatali függetlenségi feltételek meglétének ellenőrzése,
 
 9. annak ellenőrzése, hogy a hálózati üzletszabályzat nem tartalmaz-e diszkriminatív rendelkezéseket vagy nem ruházza-e fel a pályahálózat-működtetőt olyan mérlegelési jogkörrel, amelyet fel lehetne használni a kapacitásigénylőkkel szembeni hátrányos megkülönböztetésre,
 

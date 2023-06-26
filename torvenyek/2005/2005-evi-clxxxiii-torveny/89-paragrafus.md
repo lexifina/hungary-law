@@ -20,7 +20,7 @@ g) a 2012/34/EU európai parlamenti és tanácsi irányelvnek a belföldi vasút
 
 a) a vasúti és közúti személyszállítási közszolgáltatásról, valamint az 1191/69/EGK és az 1107/70/EGK tanácsi rendelet hatályon kívül helyezéséről szóló, 2007. október 23-i 1370/2007/EK európai parlamenti és tanácsi rendelet;
 
-b) a vasúti személyszállítást igénybe vevő utasok jogairól és kötelezettségeiről szóló, 2007. október 23-i 1371/2007/EK európai parlamenti és tanácsi rendelet;
+b) a vasúti személyszállítást igénybe vevő utasok jogairól és kötelezettségeiről szóló, 2021. április 29-i (EU) 2021/782 európai parlamenti és tanácsi rendelet;
 
 c) a versenyképes árufuvarozást szolgáló európai vasúti hálózatról szóló, 2010. szeptember 22-i 913/2010/EU európai parlamenti és tanácsi rendelet;
 

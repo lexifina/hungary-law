@@ -20,7 +20,7 @@
 
 9. az EUROFIMA Európai Vasúti Gördülőállomány-finanszírozási Társaság által nyújtott gördülőállomány-finanszírozás esetében az állami kezességre vonatkozó részletes szabályokat,
 
-10. a vasúti pályákkal, a vasúti pálya tartozékaival és a vasúti üzemi létesítményekkel kapcsolatos építésügyi hatósági engedélyezési eljárások és a rendszerintegritási vizsgálat lefolytatásának részletes szabályait, valamint üzemeltetése, és üzemben tartása ellenőrzésének szabályait,
+10. a vasúti pályákkal, a vasúti pálya tartozékaival és a vasúti üzemi létesítményekkel kapcsolatos építésügyi hatósági engedélyezési eljárások, üzemeltetésük és üzemben tartásuk ellenőrzésének, továbbá a rendszerintegritási vizsgálat lefolytatásának részletes szabályait, valamint az országos jelentőségű pályahálózathoz történő csatlakozás hatósági megszüntetése elrendelésének feltételeit,
 
 11. az országos vasúti mellékvonalak felsorolását,
 
@@ -38,7 +38,7 @@
 
 18. a vasúti telekalakítás szabályait, továbbá a vasúti telekalakítási eljárást lefolytató hatóság vagy hatóságok kijelölését, eljárásuk részletes szabályait,
 
-19. a vasút-villamosra alkalmazandó engedélyezési eljárások eljárásjogi szabályait,
+19. a vasút-villamosra és a multiszegmensű személyszállító vasúti rendszerekre alkalmazandó engedélyezési eljárások eljárásjogi szabályait,
 
 20. a vasúti járművek
 
@@ -136,7 +136,7 @@ rendeletben állapítsa meg.
 
 29.
 
-30. a független pályahálózat-működtető függetlenségét biztosító jogi, szervezeti és döntéshozatali függetlenségi feltételeket,
+30. a pályahálózat-működtető, valamint a VPSZ függetlenségét biztosító jogi, szervezeti és döntéshozatali függetlenségi feltételeket,
 
 31. a kiszolgáló létesítményben nyújtott szolgáltatások igénybevétele érdekében szükséges, a kiszolgáló létesítmény üzemeltetője által nyújtott naprakész információk felsorolását,
 

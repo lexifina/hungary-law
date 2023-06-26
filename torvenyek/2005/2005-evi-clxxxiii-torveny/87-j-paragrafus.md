@@ -1,1 +1,1 @@
-87/J. § A Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvénnyel megállapított 28. § (1) bekezdése alapján kötött pályaműködtetési szerződésekben rögzített, a minisztert megillető jogok és kötelezettségek az országos közlekedésszervezőre szállnak át.
+### 87/J. §

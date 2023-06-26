@@ -36,9 +36,13 @@
 
 1.16. nemzeti ajánlás: a vasúti műszaki bizottság által kiadott, nem kötelező erejű vélemény, amely meghatározza a megfelelés nemzeti szinten elfogadható módját, a nemzeti előírásoknak való megfelelés megállapításának különböző módjait, vagy a vasúti rendszer biztonságos üzemeltethetősége érdekében, a vasúti pályára és tartozékaira, a vasúti üzemi létesítményekre és az azokhoz kapcsolódó felvonókra, mozgólépcsőkre és mozgójárdákra, valamint a felszín alatti vasúti pályahálózat vasúti állomási épületeire vonatkozó elvárt rendszerintegritási követelményeket, a vasúti pálya és tartozékai, a vasúti üzemi létesítmények létesítése, átalakítása vagy korszerűsítése során az elvárt szintű rendszerintegritás érdekében teljesítendő feltételeket és eljárásokat;
 
-1.17. a megfelelés nemzeti szinten elfogadható módja: a vasúti műszaki bizottság által kiadott, nem kötelező erejű vélemény, amely meghatározza a nemzeti szabályoknak való megfelelés megállapításának különböző módjait;
+1.17. a megfelelés nemzeti szinten elfogadható módja: a vasúti műszaki bizottság által kiadott, nem kötelező erejű vélemény, amely meghatározza a vasúti műszaki előírásoknak (nemzeti szabály, nemzeti előírás, nemzeti ajánlás) való megfelelés megállapításának ajánlott módjait;
 
 1.18. helyi jellegű szabály: olyan nemzeti szabály, amely a vasút-villamosra, vagy az uniós vasúti rendszer magyarországi rendszerére vonatkozóan a vasúti pályahálózat egy meghatározott szakaszára vonatkozik, és az uniós vasúti rendszer részét képező magyarországi rendszer egy pályaszakaszára adott esetben olyan előírást is tartalmaz, amely egy adott nemzeti szabályban megfogalmazott előírástól való eltérést határoz meg.
+
+1.19. intermodális csomópont: a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 6/Q. §-a szerinti közlekedési létesítmény;
+
+1.20. multiszegmensű személyszállító vasúti rendszer: olyan speciális vasúti rendszer, amely kettő vagy több eltérő vasúti rendszer (pl.: metró és HÉV vagy HÉV és hagyományos vasúti rendszer) felhasználásával jön létre;
 
 2. Vasúti pályákkal, vasúti létesítményekkel, vasúti pályahálózatokkal és azok létesítésével kapcsolatos fogalmak:
 
@@ -383,3 +387,15 @@ d) a forgalomirányítás, az ellenőrző-irányító, biztosító- és a jelző
 10.12. turisztikai kézi- vagy gépi hajtány: az a turisztikai célból – nem a vasúti pályafelügyelet ellátása vagy a vasútvonalak állapotának ellenőrzése céljából – üzemeltetett hajtány, amelyet a jármű vezetője, utasa kézi vagy gépi erővel hajt meg;
 
 10.13. turisztikai sínbicikli, lábhajtány: az a turisztikai célból – nem a vasúti pályafelügyelet ellátása vagy a vasútvonalak állapotának ellenőrzése céljából – üzemeltetett hajtány, amelyet a jármű vezetője, utasa a hajtáslánc részeként lábbal hajt meg.
+
+11. Az intermodális csomópont működtetésével kapcsolatos fogalmak:
+
+11.1. intermodális csomópont fejlesztése: hálózattervezés, pénzügyi és beruházástervezés, valamint az intermodális csomópont építése és korszerűsítése;
+
+11.2. intermodális csomópont üzemeltetése: intermodális csomópont, valamint ezek működéséhez szükséges eszközök üzem- és forgalombiztos állapotban tartása, folyamatos működésének biztosítása és műszaki felügyelete;
+
+11.3. intermodális csomópont karbantartása: a meglévő intermodális csomópont állagának és kapacitásának megőrzését célzó munkák;
+
+11.4. intermodális csomópont felújítása: a meglévő intermodális csomóponton belüli cserékre irányuló nagyobb munkák;
+
+11.5. intermodális csomópont korszerűsítése: az intermodális csomóponton belüli módosításokra irányuló nagyobb munkák, amelyek javítják annak összteljesítményét.

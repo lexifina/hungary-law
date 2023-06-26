@@ -19,3 +19,5 @@ a vagyonkezelési szerződést – a miniszter és az állami vagyon felügyelet
 (4) Az állam tulajdonába kerülő és a már állami tulajdonban lévő, a vasúti pályahálózat működtetéséhez szükséges vagyonelem tekintetében az állam nevében a tulajdonosi jogokat az MNV Zrt. gyakorolja.
 
 (5) Állami tulajdonba kerülés esetén a vasúti pályahálózat működtetéséhez szükséges vagyonelemekre vonatkozó szerződéses jogviszonyokban az állam a korábbi tulajdonos jogutódjának minősül. Az ezen vagyonelemekre korábban kötött szerződések az abban rögzített feltételek szerint továbbra is hatályban maradnak, a felek külön rendelkezése nélkül.
+
+(6) Az országos vasúti pályahálózat-működtető az állami tulajdonú áruterminál, konténerterminál, logisztikai központ üzemeltetését közfeladatként látja el.

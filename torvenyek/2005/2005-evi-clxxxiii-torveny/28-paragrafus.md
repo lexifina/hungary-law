@@ -1,6 +1,6 @@
 ## A vasúti pályahálózat működtetésére kötött szerződés
 
-28. § (1) Az állam képviseletében eljáró miniszter nevében a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 21. § (1a) bekezdésében meghatározott országos közlekedésszervező – a miniszter jóváhagyásával és az államháztartásért felelős miniszter egyetértésével – legalább ötéves szerződésben kötelezettséget vállal az országos jelentőségű vasútvonalakat tartalmazó vasúti pályahálózat működtetését végző pályahálózat-működtetőnek a pályahálózat működtetésével kapcsolatban felmerült, és a hálózat-hozzáférési díjból, valamint a vasúti társaság egyéb üzleti tevékenységéből nem fedezett, indokoltnak elismert költségei megtérítésére (a továbbiakban: pályaműködtetési szerződés).
+28. § (1) Az állam nevében a miniszter – az államháztartásért felelős miniszter egyetértésével – legalább ötéves szerződésben kötelezettséget vállal az országos jelentőségű vasútvonalakat tartalmazó vasúti pályahálózat működtetését végző pályahálózat-működtetőnek a pályahálózat működtetésével kapcsolatban felmerült, és a hálózat-hozzáférési díjból, valamint a vasúti társaság egyéb üzleti tevékenységéből nem fedezett, indokoltnak elismert költségei megtérítésére (a továbbiakban: pályaműködtetési szerződés).
 
 (2) A pályaműködtetési szerződés feltételeit úgy kell meghatározni, hogy
 

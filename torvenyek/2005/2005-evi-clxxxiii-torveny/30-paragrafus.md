@@ -80,6 +80,8 @@ a közlekedési hatóság a nemzeti szabály vagy annak hatályon kívül helyez
 
 (8) Ha a vasút-villamosra vonatkozóan nincs hatályban átjárhatósági műszaki előírás, a rá vonatkozó nemzeti szabályokat úgy kell megalkotni, hogy biztosítsák a vasút-villamosnak a vasúti rendszer kölcsönös átjárhatóságáról szóló rendeletben meghatározott alapvető követelményeknek történő megfelelését.
 
+(8a) A multiszegmensű személyszállító vasúti rendszerre vonatkozó nemzeti szabályok biztosítják a vasúti rendszer kölcsönös átjárhatóságáról szóló rendeletben meghatározott alapvető követelményeknek történő megfelelést, ha a multiszegmensű személyszállító vasúti rendszer egyik eleme az uniós vasúti rendszer részét képező vasúti pályahálózat bármely magyarországi szakasza. Ha a multiszegmensű személyszállító vasúti rendszer átjárhatósága érdekében szükséges, a rá vonatkozó vasúti műszaki előírások eltéréseket határozhatnak meg a hatályos nemzeti szabályokhoz képest.
+
 (9) A helyi jellegű szabályt és korlátozást megállapító, az infrastruktúra-nyilvántartásban feltüntetésre került nemzeti szabály esetében a (6)–(7) bekezdést nem kell alkalmazni.
 
 (10) Ha az Ügynökség az (EU) 2016/796 európai parlamenti és tanácsi rendelet 26. cikke szerinti vizsgálata után a kihirdetett nemzeti szabály módosítását vagy hatályon kívül helyezését kéri, a közlekedési hatóság haladéktalanul intézkedik a nemzeti szabály módosítása vagy hatályon kívül helyezése iránt.
