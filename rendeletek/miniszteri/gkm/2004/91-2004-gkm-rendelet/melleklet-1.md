@@ -1,6 +1,6 @@
-## 10. §[^24] Ez a rendelet a közúti közlekedésben használt menetíró készülékekről, a közúti közlekedésben használt menetíró készülékekről szóló 3821/85/EGK tanácsi rendelet hatályon kívül helyezéséről és a közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról szóló 561/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2014. február 4-i 165/2014/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+## 10. §[^25] Ez a rendelet a közúti közlekedésben használt menetíró készülékekről, a közúti közlekedésben használt menetíró készülékekről szóló 3821/85/EGK tanácsi rendelet hatályon kívül helyezéséről és a közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról szóló 561/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2014. február 4-i 165/2014/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-1. számú melléklet a 91/2004. (VI. 29.) GKM rendelethez[^25]
+1. számú melléklet a 91/2004. (VI. 29.) GKM rendelethez[^26]
 
 I. FEJEZET
 
@@ -172,5 +172,5 @@ A MENETÍRÓ KÉSZÜLÉKRŐL SZÓLÓ MINISZTERI RENDELETBEN MEGHATÁROZOTT HATÓ
 
 V. FEJEZET
 
-[^24]: A 10. §-t a 75/2015. (XII. 29.) NFM rendelet 10. §-a iktatta be.
-[^25]: Az 1. számú melléklet a 81/2009. (XII. 29.) KHEM rendelet 5. §-ával megállapított, a 8/2010. (II. 18.) KHEM rendelet 2. § (4) bekezdése, a 27/2010. (III. 31.) KHEM rendelet 8. §-a, a 75/2015. (XII. 29.) NFM rendelet 12. § b) pontja, 11. § c) pontja, a 74/2016. (XII. 29.) NFM rendelet 1. §-a, a 12/2017. (IV. 24.) NFM rendelet 6. § (7) bekezdése, a 15/2021. (IV. 9.) ITM rendelet 14. §-a, a 36/2021. (VII. 29.) ITM rendelet 1. §-a szerint módosított szöveg.
+[^25]: A 10. §-t a 75/2015. (XII. 29.) NFM rendelet 10. §-a iktatta be.
+[^26]: Az 1. számú melléklet a 81/2009. (XII. 29.) KHEM rendelet 5. §-ával megállapított, a 8/2010. (II. 18.) KHEM rendelet 2. § (4) bekezdése, a 27/2010. (III. 31.) KHEM rendelet 8. §-a, a 75/2015. (XII. 29.) NFM rendelet 12. § b) pontja, 11. § c) pontja, a 74/2016. (XII. 29.) NFM rendelet 1. §-a, a 12/2017. (IV. 24.) NFM rendelet 6. § (7) bekezdése, a 15/2021. (IV. 9.) ITM rendelet 14. §-a, a 36/2021. (VII. 29.) ITM rendelet 1. §-a szerint módosított szöveg.

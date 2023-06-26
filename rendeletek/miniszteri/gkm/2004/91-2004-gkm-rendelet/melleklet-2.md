@@ -1,5 +1,5 @@
 | 1. | Vizsgálóállomás engedélyezésére irányuló eljárás díja | 46 900 Ft |
 
-2. számú melléklet a 91/2004. (VI. 29.) GKM rendelethez[^26]
+2. számú melléklet a 91/2004. (VI. 29.) GKM rendelethez[^27]
 
-[^26]: A 2. számú mellékletet a 97/2006. (XII. 28.) GKM rendelet 17. § (2) bekezdésének j) pontja hatályon kívül helyezte.
+[^27]: A 2. számú mellékletet a 97/2006. (XII. 28.) GKM rendelet 17. § (2) bekezdésének j) pontja hatályon kívül helyezte.
