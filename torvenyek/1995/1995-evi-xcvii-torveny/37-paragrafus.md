@@ -26,6 +26,6 @@ bc) közös felhasználású repülőtér.
 
 (4) Az (1) bekezdés b) pont bb) és bc) alpontjaiban meghatározott repülőterek létesítésére, fejlesztésére és megszüntetésére – az illetékes települési önkormányzat véleményének megkérésével – a honvédelemért felelős miniszter ad engedélyt.
 
-(5) A 139/2014/EU bizottsági rendelet hatálya alá tartozó repülőterek, állami repülések céljára szolgáló repülőterek, valamint közös felhasználású repülőterek esetében, továbbá azon repülőterek esetében, ahol a tárgyévet megelőző év legforgalmasabb 6 hónapjának összesített műveletszáma meghaladja a 4500-at, legalább a repülőtér területét magába foglaló biztonsági és zajgátló védőövezetet vagy fokozottan zajos területet kell kijelölni.
+(5) Zajgátló védőövezetet kell kijelölni a 139/2014/EU bizottsági rendelet hatálya alá tartozó repülőterek, állami repülések céljára szolgáló repülőterek, valamint közös felhasználású repülőterek esetében, továbbá azon repülőterek esetében, ahol a tárgyévet megelőző év legforgalmasabb 6 hónapjának összesített műveletszáma meghaladja a 4500-at.
 
 (6) A 2018/1139 EU európai parlamenti és tanácsi rendelet 33. cikkében meghatározott alapvető követelményeket alkalmazni kell azon repülőtérre, amely a 2018/1139 EU európai parlamenti és tanácsi rendelet 2. cikk (7) bekezdésében meghatározott mentességet kapott, és a közös felhasználású repülőtérre, amennyiben az ilyen repülőteret megnyitják a nyilvánosság számára.

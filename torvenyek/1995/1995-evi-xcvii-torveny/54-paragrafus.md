@@ -8,6 +8,14 @@
 
 (3a) A pilóta nélküli állami légijármű parancsnoka a pilóta nélküli állami légijármű kezelője.
 
-(4) A meghosszabbító vizsgák kivételével vizsgáztatóval együtt végzett vizsgarepülés során a légijármű parancsnoka a vizsgáztató, amennyiben kezelőszervekkel ellátott pilótaülésben foglal helyet. A meghosszabbító vizsgák során az 54. § (1) bekezdésében foglaltakat kell alkalmazni.
+(4) Egypilótás légijármű esetén a vizsgáztatóval együtt végzett vizsgarepülés során a légijármű parancsnoka a vizsgáztató.
 
-(5) Vizsgáztatóval együtt végzett vizsgarepülés során a vizsgázó a légijármű parancsnoka, amennyiben a vizsgáztató nem kezelőszervekkel ellátott ülésben foglal helyet.
+(5) A (4) bekezdéstől eltérően a légijármű parancsnoka a vizsgázó, ha
+
+a) a vizsgáztató nem kezelőszervekkel ellátott ülésben foglal helyet,
+
+b) a vizsga oktatói vagy vizsgáztatói jogosultság megszerzésére, meghosszabbítására vagy megújítására irányul, vagy
+
+c) a vizsga jogosítás meghosszabbítására irányul.
+
+(6) Többpilótás légijármű esetén a vizsgáztatóval együtt végzett vizsgarepülés során az (1) bekezdésben foglaltakat kell alkalmazni.

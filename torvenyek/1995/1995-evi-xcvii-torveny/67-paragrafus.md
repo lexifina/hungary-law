@@ -12,7 +12,7 @@
 
 (5) A (3) bekezdésben meghatározott esetben az általános rendőrségi feladatok ellátására létrehozott szerv a védelmi ellenőrzés átvételéről határozatot hoz.
 
-(6) A repülőtér üzembentartója a légiközlekedés védelme érdekében, továbbá a (17) bekezdésben meghatározott védelmi háttérellenőrzés, valamint a személyek és gépjárművek repülőtéri mozgásának nyilvántartása céljából, a repülőtérre repülőtéri belépőkártyát kapott személyek természetes személyazonosító adatait, lakcímét, az általuk választott kapcsolattartási formára vonatkozó adatot, a behajtáshoz használt gépjárművek adatait, a korábban bevont állandó repülőtéri belépőkártya bevonásának idejére és annak indokára vonatkozó adatokat, a belépőkártya kibocsátásától számított 5 évig kezeli.
+(6) A repülőtér üzembentartója a légiközlekedés védelme érdekében, továbbá a (12) bekezdésben meghatározott védelmi háttérellenőrzés, valamint a személyek és gépjárművek repülőtéri mozgásának nyilvántartása céljából, a repülőtérre repülőtéri belépőkártyát kapott személyek természetes személyazonosító adatait, lakcímét, az általuk választott kapcsolattartási formára vonatkozó adatot, a behajtáshoz használt gépjárművek adatait, a korábban bevont állandó repülőtéri belépőkártya bevonásának idejére és annak indokára vonatkozó adatokat, a belépőkártya kibocsátásától számított 5 évig kezeli.
 
 (7) Az (1) bekezdésben meghatározott szervezetek és személyek légiközlekedés védelmével kapcsolatos tevékenységét a légiközlekedési hatóság és az általános rendőrségi feladatok ellátására létrehozott szerv, a Kormány által rendeletben meghatározottak szerint felügyeli és ellenőrzi.
 
@@ -22,43 +22,53 @@
 
 (10) A felügyeleti díjat a légiközlekedési hatóság csak a légiközlekedés védelmével kapcsolatos feladatainak ellátásával összefüggésben használhatja fel.
 
-(11) A légiközlekedés védelme érdekében a 185/2010/EU európai parlamenti és bizottsági rendelet szerint védelmi háttérellenőrzésre vagy foglalkoztatást megelőző ellenőrzésre kötelezett személyeknél minden esetben védelmi háttérellenőrzést kell végezni.
+(11) A légiközlekedés védelme érdekében a 2015/1998 bizottsági végrehajtási rendelet szerint az ellenőrzésre kötelezett személyeknél védelmi háttérellenőrzést kell végezni.
 
-(12) A (11) bekezdésben meghatározott védelmi háttérellenőrzésre kötelezett személyeken kívül védelmi háttérellenőrzést kell végezni
+(12) A légiközlekedés védelme érdekében a 2015/1998 bizottsági végrehajtási rendelet Melléklet
 
-a) a repülőtérnek a polgári légiközlekedés védelmének közös szabályairól és a 2320/2002/EK rendelet hatályon kívül helyezéséről szóló, 2008. március 11-i 300/2008/EK európai parlamenti és tanácsi rendeletben meghatározott szigorított védelmi területére (a továbbiakban: SRA),
+a) 11.1.3. pont a) és c) alpontjában, valamint 11.1.4. pont a) és c) alpontjában megjelölt adatokat a légiközlekedés védelmében közreműködő szervezet,
 
-b) a légiforgalmi irányító szolgálatot ellátó szervezet létesítménye légiközlekedés védelme szempontjából korlátozott hozzáférésű területére
+b) 11.1.3. pont b) alpontjában és 11.1.4. pont b) alpontjában megjelölt adatokat az általános rendőrségi feladatokat ellátó szerv,
 
-rendszeres belépésre jogosító személyazonosító kártyát igénylő személy esetében is.
+c) 11.1.3. pont d) alpontjában megjelölt adatokat a terrorizmust elhárító szerv és az Alkotmányvédelmi Hivatal
 
-(13) A védelmi háttérellenőrzés a belépésre jogosultság fennállása, valamint a védelmi ellenőrző tevékenység végzésének időtartama alatt megismételhető.
+kezeli.
 
-(14) A (11) és (12) bekezdésben nem említett esetekben, az SRA-ra kíséret nélkül belépő vagy ott tartózkodó személyek ellenőrzését az általános rendőrségi feladatok ellátására létrehozott szerv végzi.
+(12a) A légiközlekedési hatóság a védelmi háttérellenőrzés alá vont személy természetes személyazonosító adatait, valamint az általa lefolytatott hatósági eljárás során a (12) bekezdésben foglaltakkal összefüggésben tudomására jutott adatokat a védelmi háttérellenőrzésre kötelezett személy foglakoztatásának megszűnésétől számított 5 évig jogosult kezelni.
 
-(15) Az SRA-ra és a légiforgalmi irányító szolgálatot ellátó szervezet létesítménye légiközlekedés védelme szempontjából korlátozott hozzáférésű területére belépő személy sikeres védelmi háttérellenőrzést követően vagy sikeres védelmi háttérellenőrzésen átesett személy kíséretével léphet be.
+(13) A (12) bekezdés b) és c) pontja szerinti szervek a 2015/1998 bizottsági végrehajtási rendelet szerinti védelmi háttérellenőrzés keretében történő megalapozott döntéshozatal érdekében adattovábbításra felhívhatják azt a szervet, intézményt, gazdasági szereplőt, amelynek a 2015/1998 bizottsági végrehajtási rendelet szerinti védelmi háttérellenőrzéssel érintett személy tekintetében a 2015/1998 bizottsági végrehajtási rendelet Melléklet 11.1.3. pont c) alpontja szerinti adatok rendelkezésére állnak. A megkeresésben kizárólag a 2015/1998 bizottsági végrehajtási rendelet szerinti védelmi háttérellenőrzés céljából szükséges adat továbbítása kérhető. Az adattovábbítást a megkeresésétől számított nyolc munkanapon belül kell teljesíteni. Az adattovábbításért ellenszolgáltatás nem kérhető.
 
-(16) Az SRA-ra kizárólag utasként vagy kísérettel léphet be, továbbá a légiközlekedés területén – e törvény eltérő rendelkezése hiányában – nem foglalkoztatható és a repülőtér légi oldalára állandó belépési engedélyt nem kaphat
+(14) A (12) bekezdés b) és c) pontja szerinti szervek a 2015/1998 bizottsági végrehajtási rendelet szerinti védelmi háttérellenőrzés során ellenőrizhetik a kezelésükben lévő valamennyi olyan adatot, amely szükséges és alkalmas annak megállapítására, hogy a 2015/1998 bizottsági végrehajtási rendelet szerinti védelmi háttérellenőrzéssel érintett személy alkalmas olyan munkakörben dolgozni, amelynek előfeltétele a védelmi háttérellenőrzés elvégzése.
 
-a) aki büntetett előéletű,
+(15) A (12) bekezdésben meghatározott szervezetek és szervek a védelmi háttérellenőrzés keretében általuk kezelt adatokat a 2015/1998 bizottsági végrehajtási rendelet szerinti védelmi háttérellenőrzésre kötelezett személy foglalkoztatásának megszűnésétől számított 5 évig megőrzik. A védelmi háttérellenőrzés a kötelezett személyekkel szemben a 2015/1998 bizottsági végrehajtási rendelet Melléklet 11.1.7. pont b) alpontjában meghatározott időtartamon belül is bármikor megismételhető.
 
-b) az a külföldi állampolgár, aki a magyarországi tartózkodás szabályait megszegi, magyarországi tartózkodásának jogszerűségét hitelt érdemlően nem tudja igazolni, illetve aki a schengeni információs rendszerben körözés hatálya alatt áll,
+(16) Foglalkoztatást kizáró oknak minősül, ha a 2015/1998 bizottsági végrehajtási rendelet szerinti háttérellenőrzés alkalmával végrehajtott vizsgálat a következő tények valamelyikét állapítja meg a háttérellenőrzésre kötelezett személyről:
 
-c) aki bűntett vagy háromévi vagy ennél súlyosabb szabadságvesztés büntetéssel büntetendő vétség miatt büntetőeljárás hatálya alatt áll,,
+a) büntetett előéletű,
 
-d) aki ezzel nemzetbiztonsági érdeket sért,
+b) bűntett vagy három évi vagy ennél súlyosabb szabadságvesztés büntetéssel büntetendő vétség, továbbá a 2. mellékletben felsorolt bűncselekmények miatt folyamatban lévő büntetőeljárás hatálya alatt áll, annak jogerős befejezéséig,
 
-e) aki esetében a védelmi háttérellenőrzést 5 évre visszamenőleg a hatóságok nem tudják végrehajtani.
+c) vele szemben munkaköréből adódóan elzárással is büntethető szabálysértési eljárás van folyamatban,
 
-(17) A rendőrség a légiközlekedés védelme és a védelmi háttérellenőrzés céljából jogosult kezelni és közvetlen hozzáféréssel átvenni a bűntettesek nyilvántartásából, a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásából, a büntetőeljárás alatt állók nyilvántartásából, az idegenrendészeti nyilvántartásból és a schengeni információs rendszer körözési adatbázisából, valamint a repülőtér üzemben tartója által kiadott repülőtéri belépőkártyák, továbbá a személyek és gépjárművek repülőtéri mozgásának nyilvántartására szolgáló nyilvántartásból a (16) bekezdésben meghatározott feltételekre vonatkozó adatokat, valamint az arra vonatkozó adatokat, hogy az igazolás alanya nem áll-e a munkakörének megfelelő foglalkoztatástól eltiltás hatálya alatt
+d) a schengeni információs rendszerben és nemzeti körözési rendszerben körözött személyként szerepel,
 
-a) a (12) bekezdés a) pontjában meghatározott területre történő belépést megelőző, illetve azt követő ellenőrzés során,
+e) külföldi állampolgárként a magyarországi tartózkodás szabályait megszegi, magyarországi tartózkodásának jogszerűségét hitelt érdemlően igazolni nem tudja,
 
-b) annak ellenőrzése céljából, hogy a foglalkoztatott személy foglalkoztatására irányuló jogviszonya létesítésekor és annak fennállása alatt rendelkezik-e a feltételekkel.
+f) az érintettel szemben a védelmi háttérellenőrzést 5 évre visszamenőleg a hatóságok nem tudják végrehajtani,
 
-(18) A (17) bekezdés alapján átvett adatokat a rendőrség a légiközlekedés védelme és a közbiztonsági feltételek vizsgálatára irányuló ellenőrzés befejezéséig, az ellenőrzés során feltárt adatok alapján hivatalból indult eljárás esetén az eljárás végleges döntéssel történő befejezéséig kezelheti. A rendőrség a (17) bekezdésben meghatározott adatokat az SRA-ra történő belépés ellenőrzésének időtartamáig kezelheti. A légiközlekedési hatóság és a katonai légügyi hatóság az eljárásában a kizáró ok fennállásának tényére vagy hiányára vonatkozó adatokat kezelheti az eljárása végleges befejezéséig.
+g) a személye vagy tevékenysége nemzetbiztonsági érdeket sért,
 
-(19) A rendőrség és az Alkotmányvédelmi Hivatal a (11) és (12) bekezdésben meghatározott védelmi háttérellenőrzés alapján felmerülő kizáró ok fennállásának tényéről vagy annak hiányáról az SRA-ra történő belépésre jogosító engedélyt kiállító szervet, szervezetet tájékoztatja.
+h) az érintettel szemben a légiközlekedés elleni jogellenes cselekménnyel kapcsolatos kockázati tényező merül fel,
+
+i) terrorkockázati szempontból a légiközlekedés biztonságára fenyegetést jelent,
+
+j) a vele szemben fennálló, törvényben nevesített kizáró okról a munkáltatójának nem tett bejelentést.
+
+(17) A (16) bekezdés szerinti kizáró ok fennállása ellenére foglalkoztatható az a személy, akinek vonatkozásában a 2015/1998 bizottsági végrehajtási rendelet szerinti védelmi háttérellenőrzést végzők nemzetbiztonsági, bűnüldözési érdeket állapítanak meg.
+
+(18) A más tagállamban sikeresen elvégzett, a 2015/1998 bizottsági végrehajtási rendelet szerinti háttérellenőrzés nem mentesíti a kérelmezőt a jogszabályok szerinti védelmi háttérellenőrzés alól, azonban annak adatai az e § szerinti védelmi háttérellenőrzés során figyelembe vehetők.
+
+(19)
 
 (20) A védelmi ellenőrzést végzők vizsgáztatását az általános rendőrségi feladatok ellátására létrehozott szerv végzi.
 

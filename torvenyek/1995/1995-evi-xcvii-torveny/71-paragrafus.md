@@ -149,3 +149,5 @@ g) veszélyes áru feladása légi úton történő továbbításra;
 55. gazdasági célú UAS-művelet: pilóta nélküli légijármű megrendelésre vagy saját célra történő, gazdasági tevékenységként végzett vagy gazdasági céllal összefüggő használata, ideértve különösen a filmforgatást, a sajtótermékek előállítását vagy a kereskedelmi célból végzett képfelvétel készítését;
 
 56. szabadidős célú UAS-művelet: pilóta nélküli légijármű kedvtelési célú, gazdasági célú használattal össze nem függő, és nem állami szerv feladatának végrehajtása érdekében végzett használata.
+
+57. légiközlekedés védelmében közreműködő szervezet: a 300/2008/EK európai parlamenti és tanácsi rendelet 3. cikk 3–6. pontjában felsorolt olyan vállalkozás vagy jogalany, amely a védelmi háttérellenőrzésre kötelezett személyt foglalkoztatja, illetve repülőtér esetében az állandó belépési engedélyt kibocsátja.

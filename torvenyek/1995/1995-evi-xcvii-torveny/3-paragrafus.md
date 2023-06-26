@@ -102,6 +102,8 @@ h) az állami légijármű és a pilóta nélküli állami légijármű típusal
 
 i) az állami repülések céljára szolgáló repülőtér és a közös felhasználású repülőtér repülőtérrendjének jóváhagyására irányuló hatósági eljárásokban.
 
+j) a légiközlekedés-védelmi háttérellenőrzési eljárásban.
+
 (2f) Az ügyintézési határidő 70 nap a katonai légügyi hatóság következő közigazgatási hatósági eljárásaiban:
 
 a) állami légi jármű, pilóta nélküli állami légijármű, légijármű-berendezés és pilóta nélküli állami légijármű rendszer karbantartó szervezetek jóváhagyása,

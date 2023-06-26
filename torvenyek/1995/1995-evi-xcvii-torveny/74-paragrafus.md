@@ -32,7 +32,7 @@ o) a miniszter, hogy a földi kiszolgálás feltételeinek a részletes szabály
 
 p)
 
-q) a rendészetért felelős miniszter, hogy a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel, az adópolitikáért felelős miniszterrel, valamint a miniszterrel egyetértésben a légiközlekedés védelme érdekében a 67. § (11) és (12) bekezdésében meghatározott ellenőrzés alá vonható munkavállalók, az SRA-ra belépő személyek körét, valamint az ellenőrzési eljárás rendjét,
+q) a rendészetért felelős miniszter, hogy a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel, az adópolitikáért felelős miniszterrel, valamint a miniszterrel egyetértésben a légiközlekedés védelme érdekében a 67. § (12) bekezdésében meghatározott ellenőrzés alá vonható munkavállalók, az SRA-ra belépő személyek körét, valamint az ellenőrzési eljárás rendjét,
 
 r) a miniszter, hogy a nem gazdasági célú légiközlekedési tevékenységet ellátó légijármű fedélzetén hajózó személyzet, valamint a légiutas-kísérő repülési idejére vonatkozó szabályokat,
 
@@ -56,7 +56,7 @@ rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap
 
-a) a miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben a légiközlekedési hatóság eljárási díjai fizetésének feltételeit, módját és a díj összegét,
+a) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a légiközlekedési hatóság eljárási díjai fizetésének feltételeit, módját és a díj összegét,
 
 b) a miniszter, hogy a 19. § (1) bekezdésének a) és c) pontjában meghatározott esetben az üzemben tartás feltételeinek a részletes szabályait, és az üzembentartási engedély kiadásával, felfüggesztésével és visszavonásával összefüggő anyagi jogi szabályokat,
 
