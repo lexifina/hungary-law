@@ -1,1 +1,3 @@
-10. § Hatályát veszti a fogyasztói érdekek képviseletét ellátó társadalmi szervezeteknek a 2009/22/EK európai parlamenti és tanácsi irányelv szerinti jegyzékbe való felkerülése céljából lefolytatandó eljárásról szóló 329/2009. (XII. 29.) Korm. rendelet.
+10. §[^1]
+
+[^1]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
