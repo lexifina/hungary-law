@@ -16,7 +16,7 @@ f) a miniszter részére a miniszter által előírt adatszolgáltatások teljes
 
 g) mindazon feladatok ellátása, amelyeket jogszabály a feladatkörébe utal.
 
-(2) A vasúti igazgatási szerv kérelemre induló eljárásáért igazgatási szolgáltatási díjat kell fizetni. Az igazgatási szolgáltatási díjat pénzforgalmi számláról történő átutalással kell megfizetni.
+(2)
 
 (3) Az egyéb kötöttpályás közlekedési tevékenységet végző személy vagy szervezet a vasúti igazgatási szerv feladatai ellátásához szükséges adatokat, iratokat átadja, a vasúti igazgatási szerv által meghatározott, ésszerű határidőn belül.
 

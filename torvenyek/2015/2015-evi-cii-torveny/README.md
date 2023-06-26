@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-102-00-00
 | 2019-07-25 | 2019. évi LXVII. törvény | 2015-102-00-00.10 |
 | 2021-01-01 | 2020. évi CLXVIII. törvény | 2015-102-00-00.11 |
 | 2022-01-01 | 2021. évi CXXXVI. törvény | 2015-102-00-00.12 |
+| 2023-06-26 | 2023. évi XL. törvény | 2015-102-00-00.13 |
