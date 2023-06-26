@@ -16,6 +16,6 @@
 
 | Qi | = a különböző tevékenységek engedélyezett szennyvízkibocsátásainak összege |
 
-4. számú melléklet a 28/2004. (XII. 25.) KvVM rendelethez[^7]
+4. számú melléklet a 28/2004. (XII. 25.) KvVM rendelethez[^8]
 
-[^7]: A 4. számú melléklet a Magyar Közlöny 2005. évi 12. számában megjelent helyesbítésnek megfelelő szöveg.
+[^8]: A 4. számú melléklet a Magyar Közlöny 2005. évi 12. számában megjelent helyesbítésnek megfelelő szöveg.

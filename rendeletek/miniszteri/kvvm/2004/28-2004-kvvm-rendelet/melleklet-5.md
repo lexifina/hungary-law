@@ -98,7 +98,7 @@
 
 ## * A veszélyes és mérgező anyagok időszakos vízfolyásba való közvetett bevezetése esetén a küszöbértékeket a 10/2000. (VI. 2.) KöM–EüM–FVM–KHVM együttes rendelet 3. sz. melléklete B szennyezettségi határértékeinek megfelelően kell megállapítani a 5. számú táblázat minimum és maximum értékei között az elővizsgálati eredmények figyelembevételével.”
 
-5. számú melléklet a 28/2004. (XII. 25.) KvVM rendelethez[^8]
+5. számú melléklet a 28/2004. (XII. 25.) KvVM rendelethez[^9]
 
 A befogadóba való közvetlen bevezetésre a hatóság által megállapítható egyedi határértékek szennyezőanyagok szerinti legkisebb és legnagyobb értékei
 
@@ -228,4 +228,4 @@ A befogadóba való közvetlen bevezetésre a hatóság által megállapítható
 
 2. Fajlagos mértékegységben (g/terméktonna, illetve kg/terméktonna szennyező anyag kibocsátásban) megadott határértékek: A fajlagos mértékegységben megadott jogszabályi technológiai határértéknek az egyedi határérték maximum a 2-szerese lehet.
 
-[^8]: Az 5. számú melléklet a Magyar Közlöny 2005. évi 12. számában megjelent helyesbítésnek megfelelő szöveg. Az 5. számú melléklet a 136/2013. (XII. 31.) VM rendelet 1. § (4) bekezdése szerint módosított szöveg.
+[^9]: Az 5. számú melléklet a Magyar Közlöny 2005. évi 12. számában megjelent helyesbítésnek megfelelő szöveg. Az 5. számú melléklet a 136/2013. (XII. 31.) VM rendelet 1. § (4) bekezdése szerint módosított szöveg.

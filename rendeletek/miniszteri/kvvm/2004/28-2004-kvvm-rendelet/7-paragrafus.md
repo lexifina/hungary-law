@@ -6,7 +6,7 @@
 
 (2) Azon határértékeket megállapító határozatok érvényességét, melyeket a hatóság a 9/2002. (III. 22.) KöM–KöViM együttes rendelet és a 203/2001. (X. 26.) Korm. rendelet alapján állapított meg, e rendelet hatálybalépése nem érinti.
 
-(3)[^3]
+(3)[^4]
 
 (4) Ez a rendelet a következő irányelveknek való megfelelést szolgálja:
 
@@ -32,7 +32,7 @@ j) az elérhető legjobb technika alapján meghatározott kibocsátási határé
 
 k) a Tanács a vízpolitika területén a közösségi cselekvés kereteinek meghatározásáról szóló 2000/60/EK irányelve 11. cikk, 3. bekezdése; IX és X. melléklet,
 
-l)[^4] az ipari kibocsátásokról (a környezetszennyezés integrált megelőzése és csökkentése) című, 2010. november 24-i 2010/75/EU európai parlamenti és tanácsi irányelv 3. cikk 37–43. pontja, 42–55. cikke és VI. melléklete.
+l)[^5] az ipari kibocsátásokról (a környezetszennyezés integrált megelőzése és csökkentése) című, 2010. november 24-i 2010/75/EU európai parlamenti és tanácsi irányelv 3. cikk 37–43. pontja, 42–55. cikke és VI. melléklete.
 
-[^3]: A 7. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 31. §-ának 68. pontja hatályon kívül helyezte.
-[^4]: A 7. § (4) bekezdés l) pontját az 52/2014. (XI. 28.) BM rendelet 4. § (1) bekezdése iktatta be.
+[^4]: A 7. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 31. §-ának 68. pontja hatályon kívül helyezte.
+[^5]: A 7. § (4) bekezdés l) pontját az 52/2014. (XI. 28.) BM rendelet 4. § (1) bekezdése iktatta be.

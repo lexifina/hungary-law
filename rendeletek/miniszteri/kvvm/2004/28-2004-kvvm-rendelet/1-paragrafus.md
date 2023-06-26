@@ -19,3 +19,7 @@ b) a felszíni vizekre, a csapadékvíz, szennyvíz elvezetését, tisztításá
 a) a természetes és mesterséges eredetű radioaktív anyagoktól eredő vízszennyezésre,
 
 b) az egyedi házi szennyvízkibocsátásokra.
+
+c)[^1] a szennyvizek és szennyvíziszapok mezőgazdasági felhasználásának és kezelésének szabályairól szóló kormányrendeletben szabályozott mezőgazdasági öntözésre szánt visszanyert vízre.
+
+[^1]: Az 1. § (2) bekezdés c) pontját a 7/2023. (III. 13.) BM rendelet 1. §-a iktatta be.

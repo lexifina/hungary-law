@@ -2726,7 +2726,7 @@
 
 | BTEX (benzol, toluol, etil-benzol, xilol) | 0,2 |
 
-2. számú melléklet a 28/2004. (XII. 25.) KvVM rendelethez[^6]
+2. számú melléklet a 28/2004. (XII. 25.) KvVM rendelethez[^7]
 
 A szennyvizek befogadóba való közvetlen bevezetésére vonatkozó, vízminőségvédelmi területi kategóriák szerint meghatározott kibocsátási határértékek
 
@@ -2877,4 +2877,4 @@ A felszín alatti vizek védelméről szóló 219/2004. (VII. 21.) Korm. rendele
 4. Általánosan védett befogadók: minden az 1., 2. és 3. kategóriába nem tartozó felszíni víz befogadó.”
 
 [^*,]: Természetes anyagú bioszűrőt, mikro és makro élő szervezeteket, esetenként növényeket és napfényt is igénybevevő szennyvíztisztítási eljárás, amely a természet öntisztulási folyamataira alapoz, a szennyező anyag lebontásához szükséges oxigén mesterséges bevitele nélkül, a szennyvizek és szennyvíziszapok mezőgazdasági felhasználásának és kezelésének szabályairól szóló 50/2001. (IV. 3.) Korm. rendelet hatálya alá tartozó tevékenységek kivételével.
-[^6]: A 2. számú melléklet a Magyar Közlöny 2005. évi 12. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 136/2013. (XII. 31.) VM rendelet 1. § (3) bekezdése szerint módosított szöveg.
+[^7]: A 2. számú melléklet a Magyar Közlöny 2005. évi 12. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 136/2013. (XII. 31.) VM rendelet 1. § (3) bekezdése szerint módosított szöveg.
