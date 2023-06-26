@@ -1,0 +1,7 @@
+61. § (1) A személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 18. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Vasúti személyszállítás esetén panaszt benyújtani a vasúti társaság vagy közlekedésszervező panaszkezelési eljárását lezáró dokumentum panaszossal való közlésétől számított, ennek hiányában az üzletszabályzat panaszkezelésre vonatkozó részében az eljárásra meghatározott határidő leteltét követő 3 hónapon belül lehet. A vasúti társaság vagy a közlekedésszervező a panaszkezelési eljárását lezáró dokumentumban tájékoztatni köteles a panaszost arról, hogy a panaszkezelési eljárással szemben a vasúti igazgatási szervhez fordulhat. E határidőn túl a vasúti igazgatási szervhez benyújtott panasz vizsgálatát a vasúti igazgatási szerv mellőzi. A vasúti társaság vagy a közlekedésszervező panaszkezelési eljárásában hozott, az ügyet lezáró dokumentumot a vasúti igazgatási szerv részére a panasz mellékleteként be kell nyújtani. Ennek hiányában a vasúti igazgatási szerv hiánypótlási felhívást bocsát ki. A vasúti igazgatási szerv a bejelentésnek minősülő beadványok megtételének elősegítése érdekében honlapján is közzéteszi a panasz megtételére szolgáló űrlapot.”
+
+(2) A személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 18. §-a a következő (8) bekezdéssel egészül ki:
+
+„(8) E § alkalmazásában panaszkezelési eljárást lezáró dokumentum a panaszos eredeti panaszára a vasúti társaság vagy közlekedésszervező által adott első érdemi, indokolással ellátott válasz.”

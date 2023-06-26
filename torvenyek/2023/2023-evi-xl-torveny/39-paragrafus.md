@@ -1,0 +1,3 @@
+39. § A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 30. §-a a következő (8a) bekezdéssel egészül ki:
+
+„(8a) A multiszegmensű személyszállító vasúti rendszerre vonatkozó nemzeti szabályok biztosítják a vasúti rendszer kölcsönös átjárhatóságáról szóló rendeletben meghatározott alapvető követelményeknek történő megfelelést, ha a multiszegmensű személyszállító vasúti rendszer egyik eleme az uniós vasúti rendszer részét képező vasúti pályahálózat bármely magyarországi szakasza. Ha a multiszegmensű személyszállító vasúti rendszer átjárhatósága érdekében szükséges, a rá vonatkozó vasúti műszaki előírások eltéréseket határozhatnak meg a hatályos nemzeti szabályokhoz képest.”
