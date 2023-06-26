@@ -1,5 +1,7 @@
-61. § (1) Szennyvízöntözést végezni a szennyvizek és szennyvíziszapok mezőgazdasági felhasználásának és kezelésének szabályairól szóló kormányrendeletben előírt feltételek szerint és csak előtisztított szennyvízzel szabad. A tisztítás mértékét a talajadottságok, a vízvédelmi, illetve az egészségügyi követelmények, és a felhasználás technológiája alapján kell meghatározni.
+61. §[^92] (1) A tisztított szennyvizet mezőgazdasági terület talajára kijuttatni, vagy visszanyert vízzel öntözni a szennyvizek és szennyvíziszapok mezőgazdasági felhasználásának és kezelésének szabályairól szóló kormányrendelettel összhangban lehet.
 
-(2) Az öntözött területen a szennyvíz szétosztására szolgáló hálózatot és az öntözött területet úgy kell megtervezni, illetve üzemeltetni, hogy az öntözőtelepen pangó szennyvíz ne keletkezzék.
+(2) Az öntözött területen a tisztított szennyvíz vagy a visszanyert víz szétosztására szolgáló hálózatot és az öntözött területet úgy kell megtervezni és üzemeltetni, hogy az öntözőtelepen pangó víz ne keletkezzen.
 
-(3) Meg kell akadályozni, hogy az öntözőtelepről tisztított szennyvíz a szomszédos területre, védett természeti területre, Natura 2000 területre, a talajvízbe vagy befogadóba jusson.
+(3) Az engedélyes megakadályozza, hogy az öntözőtelepről tisztított szennyvíz vagy visszanyert víz szomszédos területre, védett természeti területre, Natura 2000 területre, vízbázisok belső vagy külső védőövezetére, a talajvízbe vagy a befogadóba jusson.
+
+[^92]: A 61. § a 7/2023. (I. 12.) Korm. rendelet 15. §-ával megállapított szöveg.

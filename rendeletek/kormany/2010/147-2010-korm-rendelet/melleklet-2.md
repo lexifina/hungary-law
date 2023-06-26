@@ -444,6 +444,6 @@
 
 ## 9.3.6 Száraz talajban vezetett ivóvizet szállító nyomóvezeték esetén, ha az előírt távolságok betartása valamilyen ok miatt nem lehetséges, a távolság csökkenthető, de az egyéb vezetéket az érintett szakaszon védőcsőben kell vezetni.
 
-2. melléklet a 147/2010. (IV. 29.) Korm. rendelethez[^120]
+2. melléklet a 147/2010. (IV. 29.) Korm. rendelethez[^121]
 
-[^120]: A 2. mellékletet a 83. § (1) bekezdése hatályon kívül helyezte.
+[^121]: A 2. mellékletet a 83. § (1) bekezdése hatályon kívül helyezte.

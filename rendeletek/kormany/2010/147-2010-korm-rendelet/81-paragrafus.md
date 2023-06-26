@@ -1,13 +1,13 @@
-## 80. §[^107] E rendeletnek az egyes vízgazdálkodási és vízvédelmi tárgyú kormányrendeletek módosításáról szóló 100/2016. (V. 13.) Korm. rendelettel (a továbbiakban: Mód. Kr. 1.) megállapított 2. § 9., 28a. és 30a. pontját, 16/A–16/C. §-át, valamint 18. § (5) bekezdését a Mód. Kr. 1. hatálybalépésekor[^108] folyamatban lévő első fokon még el nem bírált ügyekben és a megismételt eljárásokban is alkalmazni kell azzal, hogy a 16/B. § (2) bekezdésében foglalt ellenőrzést első alkalommal 2019. június 30-ig kell elvégezni.
+## 80. §[^108] E rendeletnek az egyes vízgazdálkodási és vízvédelmi tárgyú kormányrendeletek módosításáról szóló 100/2016. (V. 13.) Korm. rendelettel (a továbbiakban: Mód. Kr. 1.) megállapított 2. § 9., 28a. és 30a. pontját, 16/A–16/C. §-át, valamint 18. § (5) bekezdését a Mód. Kr. 1. hatálybalépésekor[^109] folyamatban lévő első fokon még el nem bírált ügyekben és a megismételt eljárásokban is alkalmazni kell azzal, hogy a 16/B. § (2) bekezdésében foglalt ellenőrzést első alkalommal 2019. június 30-ig kell elvégezni.
 
-## 81. §[^109] E rendeletnek az egyes kormányrendeleteknek a vízkészletek hasznosításának egyszerűsítéséhez kapcsolódó, valamint más vízgazdálkodási tárgyú kormányrendeletek módosításáról szóló 518/2017. (XII. 29.) Korm. rendelettel (a továbbiakban: Mód. Kr. 2.) megállapított
+## 81. §[^110] E rendeletnek az egyes kormányrendeleteknek a vízkészletek hasznosításának egyszerűsítéséhez kapcsolódó, valamint más vízgazdálkodási tárgyú kormányrendeletek módosításáról szóló 518/2017. (XII. 29.) Korm. rendelettel (a továbbiakban: Mód. Kr. 2.) megállapított
 
-a) 2. § 22. és 24 pontját, valamint 80. §-át a Mód. Kr. 2. hatálybalépésekor[^110] első fokon még el nem bírált ügyekben és a megismételt eljárásokban is alkalmazni kell,
+a) 2. § 22. és 24 pontját, valamint 80. §-át a Mód. Kr. 2. hatálybalépésekor[^111] első fokon még el nem bírált ügyekben és a megismételt eljárásokban is alkalmazni kell,
 
-b) 4/A. § (1) és (2) bekezdését a Mód. Kr. 2. hatálybalépését[^111] követően indult ügyekben és a megismételt eljárásokban kell alkalmazni.
+b) 4/A. § (1) és (2) bekezdését a Mód. Kr. 2. hatálybalépését[^112] követően indult ügyekben és a megismételt eljárásokban kell alkalmazni.
 
-[^107]: A 80. §-t a 83. § (1) bekezdése hatályon kívül helyezte, újonnan a 100/2016. (V. 13.) Korm. rendelet 17. §-a iktatta be, szövege az 518/2017. (XII. 29.) Korm. rendelet 32. § c) pontja szerint módosított szöveg.
-[^108]: A hatálybalépés időpontja 2016. június 15.
-[^109]: A 81. §-t a 83. § (1) bekezdése hatályon kívül helyezte, újonnan az 518/2017. (XII. 29.) Korm. rendelet 31. §-a iktatta be.
-[^110]: A hatálybalépés időpontja 2018. január 1.
+[^108]: A 80. §-t a 83. § (1) bekezdése hatályon kívül helyezte, újonnan a 100/2016. (V. 13.) Korm. rendelet 17. §-a iktatta be, szövege az 518/2017. (XII. 29.) Korm. rendelet 32. § c) pontja szerint módosított szöveg.
+[^109]: A hatálybalépés időpontja 2016. június 15.
+[^110]: A 81. §-t a 83. § (1) bekezdése hatályon kívül helyezte, újonnan az 518/2017. (XII. 29.) Korm. rendelet 31. §-a iktatta be.
 [^111]: A hatálybalépés időpontja 2018. január 1.
+[^112]: A hatálybalépés időpontja 2018. január 1.
