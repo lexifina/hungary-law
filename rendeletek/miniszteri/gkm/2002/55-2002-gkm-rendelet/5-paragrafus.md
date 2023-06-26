@@ -1,5 +1,3 @@
-## 4. §[^8] A mellékletben meghatározott engedély és ellenőrzési okmány (menetlevéltömb) szigorú elszámolású nyomtatvány, amelyet az eljáró hatóság és az engedélyt kérő a külön jogszabály[^9] előírásai szerint köteles kezelni és megőrizni.
-
 5. § Ez a rendelet 2003. január 1-jén lép hatályba, egyidejűleg hatályát veszti a nemzetközi árufuvarozási és személyszállítási engedélyek díjairól szóló 33/1998. (XII. 23.) KHVM rendelet és az azt módosító 53/2001. (XII. 23.) KöViM rendelet.
 
 Melléklet az 55/2002. (XII. 29.) GKM rendelethez[^10]
@@ -34,6 +32,4 @@ Melléklet az 55/2002. (XII. 29.) GKM rendelethez[^10]
 
 3 Az Európai Parlament és a Tanács 2002. március 1-jei 484/2002/EGK rendelete a 881/92/EGK és a 3118/93/EGK tanácsi rendeletnek a járművezetői igazolvány létrehozása érdekében történő módosításáról 3. Cikk (1) bek.
 
-[^8]: A 4. § a 97/2006. (XII. 28.) GKM rendelet 10. §-a, a 12/2014. (III. 14.) NFM rendelet 9. §-a szerint módosított szöveg.
-[^9]: A számvitelről szóló 2002. évi C. törvény.
 [^10]: A melléklet a 38/2005. (VI. 11.) GKM rendelet 1. §-ával megállapított szöveg, e módosító rendelet 2. §-ának (1) bekezdése alapján rendelkezéseit a 2005. június 19. napját követően kezdeményezett eljárásokra kell alkalmazni.
