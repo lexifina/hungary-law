@@ -1,3 +1,3 @@
-## 1. §[^1] A szabályozás célja, hogy egyes szennyvizek, kezelt iszapok, ideértve a szennyvíziszap komposztokat, mezőgazdasági területen való szakszerű felhasználásával elkerülhetővé váljanak a talajra, a felszíni és felszín alatti vizekre, valamint az emberek egészségére, a növényekre és az állatokra gyakorolt káros hatások.
+2. §[^2] A rendelet szabályozza a szennyvízelvezető művel összegyűjtött és szennyvíztisztító műben tisztított szennyvíz, a visszanyert víz, illetve iszap és kezelt iszap, ideértve a szennyvíziszap komposzt mezőgazdasági területre történő kijuttatását, illetve felhasználásának szakmai feltételeit, ideértve a gyűjtött és kezelt települési folyékony hulladékok mezőgazdasági felhasználásának feltételeit is.
 
-[^1]: Az 1. § a 40/2008. (II. 26.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § a 40/2008. (II. 26.) Korm. rendelet 2. §-ával megállapított, a 7/2023. (I. 12.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.

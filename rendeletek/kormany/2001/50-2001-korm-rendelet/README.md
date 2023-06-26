@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-50-20-2
 | 2020-03-01 | 2001-50-20-22.14 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2023-01-01 | 2001-50-20-22.15 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2023-01-15 | 2001-50-20-22.16 | 7/2023. (I. 12.) Korm. rendelet |
+| 2023-06-26 | 2001-50-20-22.17 | 7/2023. (I. 12.) Korm. rendelet |

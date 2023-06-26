@@ -1,0 +1,3 @@
+1. §[^1] A szabályozás célja, hogy egyes szennyvizek, kezelt iszapok, ideértve a szennyvíziszap komposztokat, valamint az (EU) 2020/741 európai parlamenti és tanácsi rendelet alapján a tisztított szennyvíznek már nem minősülő visszanyert vizek mezőgazdasági területen való szakszerű felhasználásával elkerülhetővé váljanak a talajra, a felszíni és felszín alatti vizekre, valamint az emberek egészségére, a növényekre és az állatokra gyakorolt káros hatások.
+
+[^1]: Az 1. § a 40/2008. (II. 26.) Korm. rendelet 1. §-ával megállapított, a 7/2023. (I. 12.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.

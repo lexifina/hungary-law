@@ -1,0 +1,3 @@
+2/A. §[^3] Az e rendeletben rögzített kivételi szabályok alapján mezőgazdasági területen az (EU) 2020/741 európai parlamenti és tanácsi rendeletben meghatározott, a víziközmű-szolgáltatásról szóló törvény hatálya alá tartozó települési szennyvíztisztító telepen keletkező tisztított szennyvízből előállított visszanyert vízzel az (EU) 2020/741 európai parlamenti és tanácsi rendelet D. minőségi osztálya szerinti, nem élelmezési és nem takarmányozási célú ipari növények, energianövények és vetőmagkultúrák (a továbbiakban: terménykategória) öntözhetőek.
+
+[^3]: A 2/A. §-t a 7/2023. (I. 12.) Korm. rendelet 1. §-a iktatta be.
