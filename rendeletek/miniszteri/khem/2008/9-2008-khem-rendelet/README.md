@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-9-20-2M
 | 2017-01-03 | 2008-9-20-2M.9 | 66/2016. (XII. 29.) NFM rendelet |
 | 2017-04-25 | 2008-9-20-2M.10 | 66/2016. (XII. 29.) NFM rendelet |
 | 2021-04-14 | 2008-9-20-2M.11 | 15/2021. (IV. 9.) ITM rendelet |
+| 2023-06-26 | 2008-9-20-2M.12 | 51/2024. (XII. 30.) ÉKM rendelet |
