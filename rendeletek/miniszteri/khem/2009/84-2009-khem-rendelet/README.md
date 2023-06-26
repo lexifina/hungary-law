@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-84-20-2
 | 2018-01-01 | 2009-84-20-2M.6 | 46/2013. (VIII. 7.) NFM rendelet |
 | 2019-01-07 | 2009-84-20-2M.7 | 1/2019. (I. 7.) ITM rendelet |
 | 2020-01-01 | 2009-84-20-2M.8 | 45/2019. (XII. 20.) ITM rendelet |
+| 2023-06-26 | 2009-84-20-2M.9 | 1/2019. (I. 7.) ITM rendelet |

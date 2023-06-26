@@ -1,5 +1,3 @@
-## kell megfelelően alkalmazni, azzal, hogy ahol az Itv. illetéket említ, azon e rendelet tekintetében igazgatási szolgáltatási díjat kell érteni.
-
 5. § (1) Ez a rendelet 2010. január 1-jén lép hatályba, rendelkezéseit a hatálybalépését követően indult eljárásokban kell alkalmazni.
 
 (2) Hatályát veszti a közúti járművezetői vizsga és az egyes közúti közlekedési szakképesítésekkel összefüggő vizsgák díjairól szóló 34/1998. (XII. 23.) KHVM rendelet.
