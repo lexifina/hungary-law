@@ -32,7 +32,9 @@
 
 14. a gépjárművek hulladékká válását megelőző tevékenységek, valamint a hulladékká vált gépjárművekkel kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait;
 
-15. az építési-bontási hulladék képződésének megelőzésével kapcsolatos tevékenységek, az építési-bontási törmelék újrahasználatának, valamint az építési-bontási hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait;
+15. – a 15a. pont kivételével – az építési-bontási hulladék képződésének megelőzésével kapcsolatos tevékenységek, az építési-bontási törmelék újrahasználatának, valamint az építési-bontási hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait;
+
+15a. az országos vagy helyi közúton végzett állami beruházások kapcsán, valamint az országos vasúti pályahálózaton és a térségi, elővárosi vasúti pályahálózaton végzett építési tevékenységekhez kapcsolódó hulladékképződés megelőzésével kapcsolatos tevékenységek részletes szabályait;
 
 16. a szennyvíziszapok és a szennyvíziszapkomposzt mezőgazdasági felhasználásának és a szennyvíziszapokkal kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait;
 

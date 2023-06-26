@@ -53,3 +53,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-185-00-00
 | 2022-07-28 | 2022. évi XXIV. törvény | 2012-185-00-00.46 |
 | 2023-01-01 | 2022. évi LXXVI. törvény | 2012-185-00-00.47 |
 | 2023-02-01 | 2022. évi LXXVI. törvény | 2012-185-00-00.54 |
+| 2023-06-26 | 2023. évi XL. törvény | 2012-185-00-00.56 |
