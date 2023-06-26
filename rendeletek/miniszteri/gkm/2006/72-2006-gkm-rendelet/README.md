@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-72-20-0
 | 2017-01-03 | 2006-72-20-0L.12 | 52/2012. (IX. 11.) NFM rendelet |
 | 2020-01-01 | 2006-72-20-0L.13 | 52/2012. (IX. 11.) NFM rendelet |
 | 2021-10-09 | 2006-72-20-0L.14 | 52/2012. (IX. 11.) NFM rendelet |
+| 2023-06-26 | 2006-72-20-0L.15 | 52/2012. (IX. 11.) NFM rendelet |

@@ -1,5 +1,5 @@
-1. § (1)[^1] Az Innovációs és Technológiai Minisztériumnak és a Vasútegészségügyi Szolgáltató Nonprofit Kiemelten Közhasznú Korlátolt Felelősségű Társaságnak a kérelemre indult vasúti hatósági eljárásokért a 2. mellékletben meghatározott igazgatási szolgáltatási díjakat (a továbbiakban: díj) kell fizetni.
+1. § (1)[^2] Az Építési és Közlekedési Minisztériumnak (a továbbiakban: ÉKM) és a Vasútegészségügyi Szolgáltató Nonprofit Kiemelten Közhasznú Korlátolt Felelősségű Társaságnak a kérelemre indult vasúti hatósági eljárásokért a 2. mellékletben meghatározott igazgatási szolgáltatási díjakat (a továbbiakban: díj) kell fizetni.
 
 (2) Ha a közlekedési hatóság a hatósági eljárás során több építmény, berendezés vagy jármű engedélyezése tárgyában dönt, a díjakat a 2. melléklet szerint, építményenként, berendezésenként, illetve járművenként kell megállapítani.
 
-[^1]: Az 1. § (1) bekezdése az 52/2012. (IX. 11.) NFM rendelet 4. §-ával megállapított, az 1/2017. (I. 3.) NFM rendelet 49. § a) pontja, a 45/2019. (XII. 20.) ITM rendelet 30. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdése az 52/2012. (IX. 11.) NFM rendelet 4. §-ával megállapított, az 1/2017. (I. 3.) NFM rendelet 49. § a) pontja, a 45/2019. (XII. 20.) ITM rendelet 30. § a) pontja, a 11/2023. (VI. 23.) ÉKM rendelet 50. § a) pontja szerint módosított szöveg.
