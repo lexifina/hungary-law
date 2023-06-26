@@ -1,3 +1,9 @@
-2. §[^2]
+2. § (1) Az R1. 3. § h) pontja helyébe a következő rendelkezés lép:
 
-[^2]: A 2. § a 16. § (2) bekezdés alapján 2023. június 26-án lép hatályba.
+(A rendelet alkalmazásában)
+
+## „h) mezőgazdasági felhasználás: olyan tevékenység, ami szennyvíznek, szennyvíziszapnak, valamint szennyvíziszap-komposztnak mezőgazdasági terület talajára történő kijuttatását, talajba való bedolgozását, továbbá az (EU) 2020/741 európai parlamenti és tanácsi rendelet alapján meghatározott D. minőségi osztálya szerinti terménykategória visszanyert vízzel történő öntözését célozza;”
+
+(2) Az R1. 3. §-a a következő k)–p) ponttal egészül ki:
+
+(A rendelet alkalmazásában)

@@ -1,3 +1,3 @@
-9. §[^9]
+9. § Az R1. 15. §-a a következő (4) bekezdéssel egészül ki:
 
-[^9]: A 9. § a 16. § (2) bekezdés alapján 2023. június 26-án lép hatályba.
+„(4) A visszanyert víz átadásáról, átvételéről az (1) bekezdés szerinti bizonylatot évenként egy alkalommal, a tárgyév november 30-áig szükséges kiállítani.”

@@ -1,3 +1,3 @@
-10. §[^10]
+10. § Az R1. a következő 18/A. §-sal egészül ki:
 
-[^10]: A 10. § a 16. § (2) bekezdés alapján 2023. június 26-án lép hatályba.
+„18/A. § A vízvisszanyerő létesítmények üzembe helyezése előtt a tulajdonos vagy a tulajdonos megbízásából a kivitelező ellenőrzést végez.”
