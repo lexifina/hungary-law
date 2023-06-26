@@ -1,3 +1,3 @@
-12. § Az R4. 8. § (1) bekezdése a következő h) ponttal egészül ki:
+12. §[^12]
 
-(E rendelet)
+[^12]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
