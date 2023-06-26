@@ -20,6 +20,10 @@ d) az útdíjköteles elemi útszakaszok használatáért fizetendő útdíj meg
 
 e) az útdíjszedő által az e törvény végrehajtására kiadott rendeletben meghatározott területi nyilatkozat teljes szövegéről.
 
+f) az EETS-területbe tartozó útdíjköteles elemi útszakaszokról.
+
+(3a) A nyilvántartásban a felügyeleti szerv elérhetőségeit – az e-mail-címét és a telefonszámát is ideértve – fel kell tüntetni.
+
 (4) Amennyiben a nyilvántartott adataiban változás áll be, a nyilvántartásban szereplő személy vagy szervezet köteles a változást 15 napon belül a felügyeleti szervnek bejelenteni. A bejelentett változást a felügyeleti szerv a változások idejének megjelölésével vezeti át. Amennyiben a felügyeleti szerv a változásról hivatalból szerez tudomást, úgy a változás átvezetéséről is hivatalból gondoskodik, az adatváltoztatásról a nyilvántartott személyt, szervezetet 15 napon belül értesíti. Amennyiben a bejelentés megtételére köteles személy bejelentési kötelezettségének nem tesz eleget és a felügyeleti szerv hivatalból sem szerez tudomást a változásról annak bekövetkezésétől számított 15 napon belül, úgy a felügyeleti szerv a 20. § (1) bekezdés a) és b) pontjában meghatározott jogkövetkezményeket alkalmazhatja.
 
 (4a) A (4) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a nyilvántartásban szereplő személy vagy szervezet kéri – a (4) bekezdés szerinti határidőben értesíti a felügyeleti szervet.

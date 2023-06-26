@@ -50,10 +50,12 @@ a) rendeletben állapítsa meg a törvény hatálya alá tartozó, díjfizetési
 
 b) rendeletben állapítsa meg a Kormány által megállapított egyes díjkategóriákba tartozó gépjárművek díjszedési környezetvédelmi besorolását;
 
-c) rendeletben állapítsa meg az államháztartásért felelős miniszterrel egyetértésben – a Kormány által rendeletben megállapított díjpolitikai alapelvek alapján – az útdíjköteles elemi útszakaszok használatáért fizetendő útdíj – beleértve az infrastruktúra díjat és a külsőköltség-díjat – alapmértékét,
+c) rendeletben állapítsa meg az államháztartásért felelős miniszterrel és az útdíjfizetési-szolgáltatásért felelős miniszterrel egyetértésben – a Kormány által rendeletben megállapított díjpolitikai alapelvek alapján – az útdíjköteles elemi útszakaszok használatáért fizetendő útdíj – beleértve az infrastruktúradíjat és a külsőköltség-díjat – alapmértékét,
 
 d) rendeletben állapítsa meg a felügyeleti szerv nyilvántartás vezetésével kapcsolatos jogaira és kötelezettségeire, valamint a nyilvántartás vezetésére vonatkozó eljárási szabályokat;
 
 e) rendeletben jelölje ki a tanúsító szervet,
 
-f) rendeletben határozza meg az útdíjszedő által az útdíjszolgáltatóknak fizetendő átalány-költségtérítés mértékét és számításának módját, és az egyetemes útdíjszolgáltató által a bevallási közreműködők-, és a viszonteladók részére fizetendő átalány-költségtérítés mértékét és számításának módját.
+f)
+
+(3) Felhatalmazást kap az útdíjfizetési-szolgáltatásért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben az útdíjszedő által az útdíjszolgáltatóknak fizetendő átalány-költségtérítés mértékét és számításának módját, és az egyetemes útdíjszolgáltató által a bevallási közreműködők és a viszonteladók részére fizetendő átalány-költségtérítés mértékét és számításának módját rendeletben határozza meg.

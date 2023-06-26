@@ -14,7 +14,7 @@
 
 6. EETS szolgáltató: a székhelye szerinti EU tagállamban nyilvántartásba vett, jogi személyiséggel rendelkező útdíjszolgáltató, amely az EETS felhasználók számára hozzáférést biztosít az EETS-hez, és továbbítja az útdíjakat a megfelelő útdíjszedőnek;
 
-7. egyetemes útdíjszolgáltató: olyan útdíjszolgáltató, amely köteles valamennyi díjfizetésre kötelezett számára biztosítani az úthasználati jogosultság megszerzésének lehetőségét az UD rendszerben;
+7. egyetemes útdíjszolgáltató: olyan kiemelt útdíjszolgáltató, amely köteles valamennyi díjfizetésre kötelezett számára biztosítani az úthasználati jogosultság megszerzésének lehetőségét az UD rendszerben;
 
 8. fedélzeti eszköz: az elektronikus útdíjszedési tevékenység támogatására alkalmas eszköz, olyan hardver- és szoftverelemek összessége, amely alkalmas az elektronikus útdíjszedési műveletek elvégzéséhez szükséges adatok összegyűjtésére, tárolására, feldolgozására, valamint távolból történő fogadására és továbbítására;
 
@@ -65,3 +65,21 @@
 31. útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartása: a közúti közlekedési nyilvántartásról szóló törvény szerinti közúti közlekedési nyilvántartás.
 
 32. egyenleg: úthasználati jogosultság keletkezése érdekében, a fizetendő útdíj-követelés kiegyenlítése céljából a szerződött díjfizető által megfizetett, az egyetemes útdíjszolgáltató által nyilvántartott és rendelkezésre tartott, forintban kifejezett pénzösszeg, a szolgáltatás ellenértéke, amelynek terhére a szerződött díjfizető útdíjfizetési kötelezettségének eleget tehet.
+
+33. átjárhatósági rendszerelem: olyan, az EETS-be beépített vagy beépítésre szánt alapvető összetevő, összetevőcsoport, berendezés-részegység vagy teljes berendezés, amelytől a szolgáltatás átjárhatósága függ, ideértve az anyagi és a szellemi javakat – például szoftvert – is;
+
+34. EETS nyújtására alkalmas rendszer: az UD rendszer azon elemei, amelyek kifejezetten szükségesek az EETS-szolgáltatók rendszeren belüli integrációjához és az EETS működéséhez;
+
+35. EETS-terület: az EETS-szolgáltatásba bevont magyarországi útdíjköteles elemi útszakaszok összessége;
+
+36. elektronikus útdíjszedési rendszer: olyan útdíjszedési rendszer, amelyben a felhasználó számára kizárólag abban az esetben keletkezik útdíjfizetési kötelezettség, ha az automatikus észlelő rendszer a járműben található fedélzeti eszközzel való távoli kommunikáció vagy automatikus rendszámfelismerés útján érzékeli, hogy a jármű egy bizonyos helyen tartózkodik;
+
+37. használatra való alkalmasság: az EETS-be reprezentatív jelleggel integrált átjárhatósági rendszerelem alkalmassága a meghatározott működési teljesítmény elérésére és fenntartására az UD rendszer tekintetében;
+
+38. kiemelt szolgáltató: olyan útdíjszolgáltató, amelyet a többi útdíjszolgáltató kötelezettségeitől eltérő egyedi kötelezettségek terhelnek, illetve amely egyedi jogokkal rendelkezik;
+
+39. útdíjbevallás: az útdíjszedőnek tett bejelentés, amely az útdíjszolgáltató és az útdíjszedő között megállapodott formátumban igazolja egy adott gépjármű jelenlétét egy EETS-területen;
+
+40. útdíj megállapításával összefüggő adatok: az útdíjszedő által meghatározott olyan információk, amelyek egy adott gépjárműre vonatkozó útdíj megállapításához, kivetéséhez és beszedéséhez szükségesek;
+
+41. útdíjból származó bevétel: az útdíjakból származó valamennyi bevételnek az útdíjszedési, egyetemes útdíjszolgáltatói, útdíjellenőrzési, útdíjellenőrzés-támogatói rendszer működtetése és fenntartása, valamint az azokhoz kapcsolódó – különösen műszaki szakmai, pénzügyi, számviteli és jogi – tevékenységek pénzügyi fedezetének biztosításával kapcsolatban felmerült indokolt költségekkel – a Kormány által rendeletben meghatározottak alapján – csökkentett összege.
