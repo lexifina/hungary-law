@@ -1,4 +1,4 @@
-## Hajózási képesítő vizsgák vizsgadíjai
+## 2X02532M_0
 
 |  | A | B |
 
