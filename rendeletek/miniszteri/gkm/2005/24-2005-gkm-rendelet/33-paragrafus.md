@@ -1,18 +1,38 @@
-## Közúti közlekedési szakemberek szaktanfolyami képzése és vizsgáztatása[^236]
+## Közúti közlekedési szakemberek szaktanfolyami képzése és vizsgáztatása[^239]
 
-33. §[^237] (1) Szaktanfolyami képzésre az jelentkezhet, aki a Kkt. 19. § (5) bekezdés szerinti, valamint a jelentkezésre vonatkozóan e rendeletben, valamint a jogszabályban rögzített feltételeknek megfelel. A szaktanfolyami képzést követő vizsgára az bocsátható, aki megfelel a jogszabályban meghatározott feltételeknek.
+33. §[^240] (1) A közúti közlekedési szakemberek képzése a közlekedési hatóság engedélye alapján szaktanfolyamon végezhető.
 
-(2) A vizsgát a vizsgaközpont által – szakmai szempontok figyelembevételével – kijelölt független vizsgabiztos vagy vizsgabizottság előtt kell teljesíteni. A vizsgabizottság elnökének és tagjának kijelölése a kijelöléssel érintett vizsgára szól. A vizsgabizottság elnöke és tagja felelős a vizsga szabályos és zavartalan lefolytatásáért.
+(2) Szaktanfolyam szervezésére képzési engedélyt az a szaktanfolyami képző szerv kaphat, amely megfelel
 
-(3) A vizsgabizottság elnöke és tagja olyan személy lehet, aki szerepel a szaktanfolyami vizsgabiztosi névjegyzékben és az adott vizsgatárgy vonatkozásában megfelel a jogszabályban és a tantervi és vizsgakövetelményekben meghatározott feltételeknek. A vizsgán vizsgabizottság elnöke és tagja nem lehet az, aki a vizsgázó vizsgára történő felkészítésében részt vett, a vizsgázónak a Ptk. szerinti közeli hozzátartozója, alkalmazottja, vagy akitől egyébként – fennálló jogviszonya, gazdasági érdekeltsége miatt – nem várható el a vizsga tárgyilagos megítélése.
+a) a jó hírnév és
 
-(4) A vizsgabiztosi névjegyzékbe olyan személy vehető fel, aki jogszabályban meghatározott szakmai képesítéssel, végzettséggel, és gyakorlati idővel rendelkezik, valamint, akinek a névjegyzékbe való felvételét megelőző két éven belül a szakoktatói, a vizsgabiztosi, és az iskolavezetői tevékenységi engedélyét a közlekedési hatóság nem vonta vissza.
+b) a szakmai alkalmasság
 
-(5) A szaktanfolyami vizsgabiztos csak azon szaktanfolyami képesítésekhez tartozó vizsgatárgyak vonatkozásában kerülhet vizsgabiztosi névjegyzékbe, amelyekre nézve rendelkezik a vizsgabiztosra vonatkozóan – jogszabályban, illetve a tantervi és vizsgakövetelményekben – meghatározott képesítéssel, iskolai végzettséggel, valamint szakmai gyakorlati idővel.
+e rendelet által támasztott követelményeinek, és a kérelemnek a közúti járművezetők és a közúti közlekedési szakemberek képzésével, továbbképzésével, utánképzésével és vizsgáztatásával összefüggő díjakról szóló jogszabály szerinti díját megfizette.
 
-(6) A szaktanfolyami képzés vizsgabiztosának kétévente a KTI által szervezett időszakos, szakirányú továbbképzésen kell részt vennie és a továbbképzéshez kapcsolódóan vizsgakötelezettségét sikeresen teljesítenie kell.
+(3) A (2) bekezdés a) pontja szerinti jó hírnév követelményének nem felel meg az a szaktanfolyami képző szerv, amelyben a szaktanfolyami képzésért felelős iskolavezető
 
-(7) A szaktanfolyami képzésre és vizsgáztatásra a tanfolyami képzésre és vizsgáztatásra vonatkozó hatályos jogszabályi rendelkezések mellett a szaktanfolyami képzés tekintetében a közlekedésért felelős miniszter, a szaktanfolyami vizsgáztatás tekintetében a vizsgaközpont által a képzés, vizsgáztatás tárgykörében jogszabály alapján kiadott szabályzatait alkalmazni kell.
+a) a szaktanfolyami képzésre vonatkozó előírásokat két éven belül ismételten megsértette, és ezért a közlekedési hatóság végleges döntéssel közigazgatási szankciót alkalmazott,
 
-[^236]: A 33. §-t megelőző alcím a 85/2009. (XII. 30.) KHEM rendelet 18. § (1) bekezdésével megállapított szöveg.
-[^237]: A 33. § a 9/2022. (VIII. 1.) TIM rendelet 45. §-ával megállapított szöveg.
+b) irányítása mellett a szaktanfolyam tartására való jogosultságát a szaktanfolyami képző szerv – az a) pontban foglaltak miatt – két éven belül elvesztette.
+
+(4) A (2) bekezdés b) pontja szerinti szakmai alkalmasság feltételeinek az a szaktanfolyami képző szerv felel meg, amelynél igazolt az adott szaktanfolyam megtartásához szükséges, a vizsgaközpont által meghatározott személyi feltételek, továbbá a 3. melléklet 3.1.1. és 3.1.2. alpontja és az e rendelet szerinti tárgyi feltételek megléte.
+
+(5) Szaktanfolyamra vagy szakképesítő vizsgára az bocsátható, aki megfelel a közlekedési hatóság által előírt feltételeknek.
+
+(6) A vizsgát a vizsgaközpont által megbízott képző szerv szervezheti. A közúti közlekedési szakembereket a szaktanfolyamot követő vizsgán a vizsgaközpont által kizárólag szakmai szempontok figyelembevételével vezényelt – a vizsgajegyzőkönyvben megnevezett és a szaktanfolyami vizsgabiztosi névjegyzékben szereplő – vizsgabiztosok vizsgáztatják. A szaktanfolyami vizsgabiztosnak – a vizsgabiztosi engedélye hatályban tartásához – évente a KTI által szervezett továbbképzésen kell részt vennie.
+
+(6a) A szaktanfolyami vizsgabiztosi névjegyzékbe olyan személy vehető fel,
+
+a) aki felsőfokú, szakirányú iskolai végzettséggel és az adott szakterületen legalább 2 év szakmai gyakorlattal rendelkezik,
+
+b) aki a közlekedési hatóság által meghatározott szakmai képesítéssel, végzettséggel rendelkezik,
+
+c) akinek a névjegyzékbe való felvétel előtti két éven belül a szakoktatói, a vizsgabiztosi, az iskolavezetői tevékenységi engedélyét a közlekedési hatóság közigazgatási szankcióként nem vonta vissza.
+
+(7) Vizsgaszervezési megbízás csak annak a képző szervnek adható, amely megfelel a (2)–(4) bekezdésben meghatározott feltételeknek.
+
+(8) A szakképesítést igazoló okmányokat – a sikeres vizsgát tett jelöltek részére – a vizsgaközpont adja ki.
+
+[^239]: A 33. §-t megelőző alcím a 85/2009. (XII. 30.) KHEM rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^240]: A 33. § a 11/2023. (VI. 23.) ÉKM rendelet 40. § (1) bekezdésével megállapított szöveg.

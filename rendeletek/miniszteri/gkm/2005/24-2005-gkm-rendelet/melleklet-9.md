@@ -452,6 +452,6 @@
 
 ## 38. a jelzőcsengő megszólalása után nyitott ajtóval indul el a trolibusszal.
 
-9. melléklet a 24/2005. (IV. 21.) GKM rendelethez[^347]
+9. melléklet a 24/2005. (IV. 21.) GKM rendelethez[^331]
 
-[^347]: A 9. mellékletet a 45/2019. (XII. 20.) ITM rendelet 29. § 13. pontja hatályon kívül helyezte.
+[^331]: A 9. mellékletet a 45/2019. (XII. 20.) ITM rendelet 29. § 13. pontja hatályon kívül helyezte.

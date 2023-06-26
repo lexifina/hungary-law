@@ -1,20 +1,22 @@
-## A gépjárművezetői képesítési igazolvány kiadása, nyilvántartása[^265]
+## A Gépjárművezetői képesítési igazolvány kiadása, nyilvántartása[^268]
 
-33/F. §[^266] (1) Az e fejezet szerinti sikeres vizsga esetén a vizsgázó részére – hatályos vezetői engedély megléte esetén – a vizsgaközpont a 14. számú melléklet szerinti, a 95. harmonizált uniós kódot tartalmazó, öt évig hatályos gépjárművezetői képesítési igazolványt állít ki és azt hivatalos iratként, vagy a vizsgaközpont kijelölt ügyfélszolgálatán keresztül személyes átvétellel bocsátja a vizsgázó rendelkezésére.
+33/F. §[^269] (1) A vizsga nélküli továbbképzési szaktanfolyamot – a Bizonylati Albumban meghatározottak szerint – igazoltan elvégző személy, továbbá a sikeres vizsgázó részére – hatályos vezetői engedély megléte esetén – a vizsgaközpont a 95. harmonizált uniós kódot tartalmazó, a tanfolyam utolsó napját követő naptól vagy a sikeres vizsga napjától kezdődően, a 14. mellékletben meghatározott Gépjárművezetői képesítési igazolványt ad ki, amelynek időbeli hatálya 5 év. Ha a vizsga nélküli tanfolyamon részt vevő vagy a továbbképzési szaktanfolyamot vizsgával teljesítő személy e kötelezettségének a lejáró hatályú Gépjárművezetői képesítési igazolványának lejáratát megelőző 6 hónapban tesz eleget, a vizsgaközpont a 95. harmonizált uniós kódot tartalmazó, a 14. mellékletben meghatározott Gépjárművezetői képesítési igazolványt a lejáró képesítési igazolvány lejárati idejétől számított öt évre állítja ki.
 
-(2) A gépjárművezetői képesítési igazolvány tulajdonosa a vizsgaközpontnál az a)–c) pontban meghatározott körülmény bekövetkezésétől számított 15 napon belül köteles bejelenteni, ha a részére kiadott gépjárművezetői képesítési igazolvány
+(2) A vizsgaközpont az általa kiadott és bevont „Gépjárművezetői képesítési igazolvány”-okról nyilvántartást vezet.
 
-a) elveszett, ellopták vagy megsemmisült,
+(3) A „Gépjárművezetői képesítési igazolvány” tulajdonosa a vizsgaközpontnál köteles bejelenteni, ha a részére kiadott „Gépjárművezetői képesítési igazolvány”
 
-b) megrongálódás vagy elhasználódás miatt bármely bejegyzett adata nem olvasható, vagy
+a) elveszett, ellopták vagy megsemmisült, vagy
 
-c) bármely bejegyzett adata megváltozott, ide nem értve a gépjárművezetői képesítési igazolvány tulajdonosának gépjárművezetői képesítési igazolványában feltüntetett lakcímét és a vezetői engedély számát.
+b) megrongálódás vagy elhasználódás miatt bármely bejegyzett adata nem olvasható.
 
-(3) A gépjárművezetői képesítési igazolvány tulajdonosának (2) bekezdés szerinti bejelentése alapján a vizsgaközpont – a (2) bekezdés b) és c) pontjában meghatározott esetben a gépjárművezetői képesítési igazolvány és a (2) bekezdés c) pontjában meghatározott esetben az adatváltozást tanúsító okmány felmutatása mellett – a nyilvántartásban rögzített adatok felhasználásával, az érvényes vezetői engedély bemutatása mellett a korábban kiadott gépjárművezetői képesítési igazolvány helyett új gépjárművezetői képesítési igazolványt ad ki.
+(4) A nyilvántartásból azonosítható „Gépjárművezetői képesítési igazolvány” tulajdonosának kérelme alapján a vizsgaközpont – a (3) bekezdésben meghatározott esetben – a hatályos vezetői engedély vagy annak időbeli hatályának lejártáig a közlekedési igazgatási hatóság által kiadott, a vezetői engedély kiállítására irányuló kérelem adatlap felmutatása mellett, a nyilvántartásban rögzített adatok felhasználásával a korábban kiadott „Gépjárművezetői képesítési igazolvány” helyett új „Gépjárművezetői képesítési igazolvány”-t ad ki. A (3) bekezdés b) pontjában meghatározott esetben a korábban kiadott „Gépjárművezetői képesítési igazolvány”-t bevonja.
 
-(4) Ha a gépjárművezetői képesítési igazolvány időbeli hatálya lejárt, jogszabályban meghatározott feltételek teljesítése esetén a vizsgaközpont új gépjárművezetői képesítési igazolványt állít ki.
+(5) Ha a „Gépjárművezetői képesítési igazolvány”-ba bejegyzett adatok megváltoztak, a nyilvántartásból azonosítható „Gépjárművezetői képesítési igazolvány” tulajdonosának a 33/D. § (6) bekezdése alapján benyújtott kérelmére a vizsgaközpont – a hatályos vezetői engedély vagy annak időbeli hatályának lejártáig a közlekedési igazgatási hatóság által kiadott, a vezetői engedély kiállítására irányuló kérelem adatlap és az adatváltozást tanúsító okmány felmutatása mellett – a nyilvántartásban rögzített adatok felhasználásával a korábban kiadott „Gépjárművezetői képesítési igazolvány” egyidejű bevonása mellett új „Gépjárművezetői képesítési igazolvány”-t ad ki.
 
-(5) A gépjárművezetői képesítési igazolványon a kiadásának időpontjában fennálló lakcímadat és a vezetői engedély száma kerül feltüntetésre. Ezen adatok megváltozása nem érinti a kiadott gépjárművezetői képesítési igazolvány érvényességét. A vezetői engedély cseréjét követően a gépjárművezetői képesítési igazolványra utaló 95. harmonizált uniós kódot is tartalmazó vezetői engedély önállóan, a korábbi vezetői engedély számát tartalmazó gépjárművezetői képesítési igazolvány az új vezetői engedéllyel együttesen igazolja a 33/A. §-ban meghatározott követelményeknek való megfelelést.
+(6) Ha a „Gépjárművezetői képesítési igazolvány”-ba bejegyzett időbeli hatály lejárt, az e rendeletben meghatározott feltételek teljesítése esetében új „Gépjárművezetői képesítési igazolvány” kiadására kerül sor, egyidejűleg a vizsgaközpont a lejárt hatályú „Gépjárművezetői képesítési igazolvány”-t bevonja.
 
-[^265]: A 33/F. §-t megelőző alcímet a 38/2007. (III. 28.) GKM rendelet 4. §-a iktatta be, szövege a 9/2022. (VIII. 1.) TIM rendelet 51. § w) pontja szerint módosított szöveg.
-[^266]: A 33/F. §-t a 38/2007. (III. 28.) GKM rendelet 4. §-a iktatta be, szövege a 9/2022. (VIII. 1.) TIM rendelet 46. §-ával megállapított szöveg.
+(7) A „Gépjárművezetői képesítési igazolvány”-on a kiadásának időpontjában meghatározott lakcím- és vezetői engedély szám adat kerül feltüntetésre. Ezen adatok megváltozása nem érinti a kiadott „Gépjárművezetői képesítési igazolvány” időbeli hatályát. A vezetői engedély cseréjét követően a „Gépjárművezetői képesítési igazolvány”-ra utaló közösségi kódot is tartalmazó vezetői engedély és a korábbi vezetői engedély számát tartalmazó „Gépjárművezetői képesítési igazolvány” együttesen igazolja a 33/A. §-ban foglalt képesítési követelmény teljesítését.
+
+[^268]: A 33/F. §-t megelőző alcímet a 38/2007. (III. 28.) GKM rendelet 4. §-a iktatta be, szövege a 9/2022. (VIII. 1.) TIM rendelet 51. § w) pontja, a 11/2023. (VI. 23.) ÉKM rendelet 48. § 48. pontja szerint módosított szöveg.
+[^269]: A 33/F. §-t a 38/2007. (III. 28.) GKM rendelet 4. §-a iktatta be, szövege a 11/2023. (VI. 23.) ÉKM rendelet 43. § (1) bekezdésével megállapított szöveg.

@@ -40,3 +40,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-24-20-0
 | 2022-12-19 | 2005-24-20-0L.38 | 9/2022. (VIII. 1.) TIM rendelet |
 | 2023-01-01 | 2005-24-20-0L.39 | 9/2022. (VIII. 1.) TIM rendelet |
 | 2023-02-21 | 2005-24-20-0L.40 | 1/2019. (I. 7.) ITM rendelet |
+| 2023-06-26 | 2005-24-20-0L.41 | 11/2023. (VI. 23.) ÉKM rendelet |
