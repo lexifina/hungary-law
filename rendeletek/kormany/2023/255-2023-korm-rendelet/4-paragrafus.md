@@ -1,0 +1,1 @@
+4. § A 2. § (2)–(3) bekezdése, valamint a 3. § szerinti árbevétel számításakor a termékértékesítés vagy a szolgáltatásnyújtás teljesítési helye szerinti bevétel mértékét kell figyelembe venni, azzal, hogy több teljesítési hely azonos működtetője vagy azonos üzemeltetője esetén sem alkalmazható az egybeszámítás.
