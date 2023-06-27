@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-513-20-
 | 2022-01-01 | 2017-513-20-22.5 | 375/2021. (VI. 30.) Korm. rendelet |
 | 2022-07-14 | 2017-513-20-22.6 | 375/2021. (VI. 30.) Korm. rendelet |
 | 2023-01-01 | 2017-513-20-22.7 | 569/2022. (XII. 23.) Korm. rendelet |
+| 2023-06-27 | 2017-513-20-22.8 | 256/2023. (VI. 26.) Korm. rendelet |
