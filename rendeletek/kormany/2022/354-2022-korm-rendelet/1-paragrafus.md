@@ -20,8 +20,17 @@ cb) a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vall
 
 cc) az országos, valamint a helyi nemzetiségi önkormányzat és az általa fenntartott intézmény.
 
+cd)[^7] az államháztartásról szóló törvény szerinti köztestület,
+
+ce)[^8] a cd) alpont szerinti köztestület irányítása vagy felügyelete alá tartozó költségvetési szerv,
+
+cf)[^9] azon gazdasági társaság, amely felett a cd) alpont szerinti köztestület a Ptk. 8:2. §-a szerinti többségi befolyással vagy közvetett befolyással rendelkezik.
+
 [^2]: Az 1. § a) pont aa) alpontja a 380/2022. (X. 5.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § a) pont ab) alpontja a 380/2022. (X. 5.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^4]: Az 1. § a) pont ac) alpontja a 27/2023. (II. 1.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^5]: Az 1. § a) pont ad) alpontját a 380/2022. (X. 5.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^6]: Az 1. § c) pontját a 380/2022. (X. 5.) Korm. rendelet 2. §-a iktatta be.
+[^7]: Az 1. § c) pont cd) alpontját a 251/2023. (VI. 22.) Korm. rendelet 1. §-a iktatta be.
+[^8]: Az 1. § c) pont ce) alpontját a 251/2023. (VI. 22.) Korm. rendelet 1. §-a iktatta be.
+[^9]: Az 1. § c) pont cf) alpontját a 251/2023. (VI. 22.) Korm. rendelet 1. §-a iktatta be.
