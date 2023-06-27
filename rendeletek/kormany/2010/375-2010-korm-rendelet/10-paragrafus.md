@@ -1,4 +1,4 @@
-## 10. §[^73] E rendelet 5. §-a
+## 10. §[^79] E rendelet 5. §-a
 
 a) a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187., 2014.06.26., 1. o.),
 
@@ -10,4 +10,4 @@ d) az Európai Unió működéséről szóló szerződés 107. és 108. cikkéne
 
 hatálya alá tartozó támogatást tartalmaz.
 
-[^73]: A 10. § a 296/2014. (XI. 28.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^79]: A 10. § a 296/2014. (XI. 28.) Korm. rendelet 10. §-ával megállapított szöveg.
