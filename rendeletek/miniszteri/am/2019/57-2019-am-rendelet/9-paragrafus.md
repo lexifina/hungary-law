@@ -16,7 +16,7 @@ d) méhészeti témájú filmek készítéséhez
 
 vehető igénybe.
 
-(2)[^24] A támogatás keretösszege az I. végrehajtási időszakban legfeljebb 310 000 eurónak megfelelő forintösszeg, amelyből az (1) bekezdés c) pontja szerinti intézkedésre legfeljebb 155 000 eurónak megfelelő forintösszeg, az (1) bekezdés d) pontja szerinti intézkedésre legfeljebb 15 500 eurónak megfelelő forintösszeg használható fel. A támogatás keretösszege a II. végrehajtási időszakban 241 000 eurónak, a III. végrehajtási időszakban 331 000 eurónak megfelelő forintösszeg. A meghosszabbított III. végrehajtási időszakban 80 000 eurónak megfelelő forintösszeg használható fel, amely a 2023. méhészeti évre biztosított keret terhére kerül kifizetésre.
+(2)[^24] A támogatás keretösszege az I. végrehajtási időszakban legfeljebb 310 000 eurónak megfelelő forintösszeg, amelyből az (1) bekezdés c) pontja szerinti intézkedésre legfeljebb 155 000 eurónak megfelelő forintösszeg, az (1) bekezdés d) pontja szerinti intézkedésre legfeljebb 15 500 eurónak megfelelő forintösszeg használható fel. A támogatás keretösszege a II. végrehajtási időszakban 241 000 eurónak, a III. végrehajtási időszakban 331 000 eurónak megfelelő forintösszeg. A meghosszabbított III. végrehajtási időszakban 69 000 eurónak megfelelő forintösszeg használható fel, amely a 2023. méhészeti évre biztosított keret terhére kerül kifizetésre.
 
 (3) Az (1) bekezdés szerinti intézkedések igénybevételére az OMME jogosult.
 
@@ -114,7 +114,7 @@ c) a megjelentetett méhészeti témájú film elektronikus elérhetősége.
 
 [^22]: A 9. § (1) bekezdés a) pontja a 25/2021. (VII. 14.) AM rendelet 13. § (1) bekezdésével megállapított szöveg.
 [^23]: A 9. § (1) bekezdés b) pontja a 25/2021. (VII. 14.) AM rendelet 36. § a) pontja szerint módosított szöveg.
-[^24]: A 9. § (2) bekezdése a 25/2021. (VII. 14.) AM rendelet 13. § (2) bekezdésével megállapított, a 2. (IX. 27.) AM rendelet 5. § a) pontja szerint módosított szöveg.
+[^24]: A 9. § (2) bekezdése a 25/2021. (VII. 14.) AM rendelet 13. § (2) bekezdésével megállapított, a 31/2022. (IX. 27.) AM rendelet 5. § a) pontja, a 25/2023. (VI. 26.) AM rendelet 39. § a) pontja szerint módosított szöveg.
 [^25]: A 9. § (6) bekezdése a 25/2021. (VII. 14.) AM rendelet 13. § (3) bekezdésével megállapított szöveg.
 [^26]: A 9. § (8) bekezdése a 25/2021. (VII. 14.) AM rendelet 13. § (4) bekezdésével megállapított szöveg.
 [^27]: A 9. § (10) bekezdése a 25/2021. (VII. 14.) AM rendelet 13. § (5) bekezdésével megállapított szöveg.

@@ -20,7 +20,7 @@ c) a III. végrehajtási időszakban legfeljebb 297 742
 
 eurónak megfelelő forintösszeg.
 
-(2a)[^34] A meghosszabbított III. végrehajtási időszakban 160 000 eurónak megfelelő forintösszeg használható fel, amely a 2023. méhészeti évre biztosított keret terhére kerül kifizetésre.
+(2a)[^34] A meghosszabbított III. végrehajtási időszakban 105 100 eurónak megfelelő forintösszeg használható fel, amely a 2023. méhészeti évre biztosított keret terhére kerül kifizetésre.
 
 (3) Az (1) bekezdés a) és b) pontja szerinti intézkedés igénybevételére az adott programot szervező, a lebonyolítási költségeket viselő OMME vagy az OMME tagszervezete jogosult.
 
@@ -37,5 +37,5 @@ eurónak megfelelő forintösszeg.
 (9) Szaktanácsadó által tartott előadás esetén előadói díj akkor támogatható, ha az OMME-val szaktanácsadói tevékenységre kötött vállalkozói szerződésben nevesített megyén és tevékenységi körön kívüli témában tart a szaktanácsadó előadást.
 
 [^33]: A 10. § (2) bekezdés b) pontja a 25/2021. (VII. 14.) AM rendelet 36. § b) pontja szerint módosított szöveg.
-[^34]: A 10. § (2a) bekezdését a 25/2021. (VII. 14.) AM rendelet 14. §-a iktatta be. A 10. § (2a) bekezdése a 31/2022. (IX. 27.) AM rendelet 5. § b) pontja szerint módosított szöveg.
+[^34]: A 10. § (2a) bekezdését a 25/2021. (VII. 14.) AM rendelet 14. §-a iktatta be, szövege a 31/2022. (IX. 27.) AM rendelet 5. § b) pontja, a 25/2023. (VI. 26.) AM rendelet 39. § b) pontja szerint módosított szöveg.
 [^35]: A 10. § (6) bekezdése a 25/2021. (VII. 14.) AM rendelet 36. § c) pontja szerint módosított szöveg.

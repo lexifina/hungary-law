@@ -14,7 +14,7 @@ e) méhészek kommunikációját és működését segítő eszközök (külön�
 
 költségeinek megtérítésére vehető igénybe.
 
-(2)[^72] Az (1) bekezdés szerinti támogatás keretösszege az I. végrehajtási időszakban legfeljebb 100 000 eurónak megfelelő forintösszeg, amelyen belül az (1) bekezdés a) és c) pontja szerinti intézkedések keretösszege 60 000 eurónak megfelelő forintösszeg, az (1) bekezdés b) pontja szerinti intézkedés keretösszege 40 000 eurónak megfelelő forintösszeg. A II. végrehajtási időszakban legfeljebb 850 000 eurónak, a III. végrehajtási időszakban legfeljebb 250 000 eurónak megfelelő forintösszeg. A meghosszabbított III. végrehajtási időszakban 19 000 eurónak megfelelő forintösszeg használható fel, amely a 2023. méhészeti évre biztosított keret terhére kerül kifizetésre.
+(2)[^72] Az (1) bekezdés szerinti támogatás keretösszege az I. végrehajtási időszakban legfeljebb 100 000 eurónak megfelelő forintösszeg, amelyen belül az (1) bekezdés a) és c) pontja szerinti intézkedések keretösszege 60 000 eurónak megfelelő forintösszeg, az (1) bekezdés b) pontja szerinti intézkedés keretösszege 40 000 eurónak megfelelő forintösszeg. A II. végrehajtási időszakban legfeljebb 850 000 eurónak, a III. végrehajtási időszakban legfeljebb 250 000 eurónak megfelelő forintösszeg. A meghosszabbított III. végrehajtási időszakban 17 780 eurónak megfelelő forintösszeg használható fel, amely a 2023. méhészeti évre biztosított keret terhére kerül kifizetésre.
 
 (3)[^73] Az (1) bekezdés a), c), d) pontja szerinti intézkedések igénybevételére az OMME jogosult.
 
@@ -199,7 +199,7 @@ b) multifunkcionális lézernyomtató.
 (30)[^96] Az (1) bekezdés e) pontja szerinti támogatás igénylése esetén a kifizetési kérelemhez csatolni kell a kifizetési kérelem alapjául szolgáló költségeket igazoló bizonylat, azaz a kérelmező nevére és címére kiállított számla és az ellenérték megtérítését igazoló bizonylat másolati példányát.
 
 [^71]: A 18. § (1) bekezdése a 25/2021. (VII. 14.) AM rendelet 22. § (1) bekezdésével megállapított szöveg.
-[^72]: A 18. § (2) bekezdése a 25/2021. (VII. 14.) AM rendelet 22. § (1) bekezdésével megállapított, a 31/2022. (IX. 27.) AM rendelet 5. § f) pontja szerint módosított szöveg.
+[^72]: A 18. § (2) bekezdése a 25/2021. (VII. 14.) AM rendelet 22. § (1) bekezdésével megállapított, a 31/2022. (IX. 27.) AM rendelet 5. § f) pontja, a 25/2023. (VI. 26.) AM rendelet 39. § f) pontja szerint módosított szöveg.
 [^73]: A 18. § (3) bekezdése a 25/2021. (VII. 14.) AM rendelet 22. § (1) bekezdésével megállapított szöveg.
 [^74]: A 18. § (4) bekezdése a 25/2021. (VII. 14.) AM rendelet 22. § (1) bekezdésével megállapított szöveg.
 [^75]: A 18. § (4a) bekezdése a 25/2021. (VII. 14.) AM rendelet 22. § (1) bekezdésével megállapított szöveg.

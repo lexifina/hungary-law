@@ -2,7 +2,7 @@
 
 25. § (1) A 2. § (1) bekezdés f) pont fa) alpontja szerinti intézkedés vonatkozásában támogatás a meteorológiai mérőállomásokkal felszerelt, mézelő növények fenológiai megfigyelését végző, méhész önkéntesekből álló, országos hálózat kialakításához és működtetéséhez vehető igénybe.
 
-(2)[^128] A támogatás keretösszege legfeljebb 20 000 eurónak megfelelő forintösszeg végrehajtási időszakonként. A meghosszabbított III. végrehajtási időszakban 5000 eurónak megfelelő forintösszeg használható fel, amely a 2023. méhészeti évre biztosított keret terhére kerül kifizetésre.
+(2)[^128] A támogatás keretösszege legfeljebb 20 000 eurónak megfelelő forintösszeg végrehajtási időszakonként. A meghosszabbított III. végrehajtási időszakban 2 960 eurónak megfelelő forintösszeg használható fel, amely a 2023. méhészeti évre biztosított keret terhére kerül kifizetésre.
 
 (3) A támogatás igénybevételére az OMME jogosult.
 
@@ -28,5 +28,5 @@ c) a megfigyelőkkel cégszerű aláírással kötött együttműködési megál
 
 d) az elvégzett feladatokról szóló beszámoló.
 
-[^128]: A 25. § (2) bekezdése a 25/2021. (VII. 14.) AM rendelet 29. §-ával megállapított, a 31/2022. (IX. 27.) AM rendelet 5. § i) pontja szerint módosított szöveg.
+[^128]: A 25. § (2) bekezdése a 25/2021. (VII. 14.) AM rendelet 29. §-ával megállapított, a 31/2022. (IX. 27.) AM rendelet 5. § i) pontja, a 25/2023. (VI. 26.) AM rendelet 39. § i) pontja szerint módosított szöveg.
 [^129]: A 25. § (6) bekezdés b) pontja a 12/2020. (IV. 3.) AM rendelet 3. §-ával megállapított szöveg.

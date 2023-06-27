@@ -2,7 +2,7 @@
 
 22. § (1) A 2. § (1) bekezdés c) pontja szerinti intézkedésre vonatkozó támogatás a méhek vándoroltatását elősegítő, új eszköz beszerzéséhez vehető igénybe.
 
-(2)[^103] A támogatás keretösszege az I. végrehajtási időszakban legfeljebb 510 000 eurónak megfelelő forintösszeg, amelyből 260 000 eurónak megfelelő forintösszeg a (4) bekezdés a)–h) pontjában meghatározott, 250 000 eurónak megfelelő forintösszeg a (4) bekezdés i)–u) pontjában meghatározott eszközcsoportok beszerzésének támogatásához használható fel, a II. végrehajtási időszakban 1 101 000 eurónak megfelelő forintösszeg, a III. végrehajtási időszakban 635 000 eurónak megfelelő forintösszeg. A meghosszabbított III. végrehajtási időszakban 260 000 eurónak megfelelő forintösszeg használható fel, amely a 2023. méhészeti évre biztosított keret terhére kerül kifizetésre.
+(2)[^103] A támogatás keretösszege az I. végrehajtási időszakban legfeljebb 510 000 eurónak megfelelő forintösszeg, amelyből 172 000 eurónak megfelelő forintösszeg a (4) bekezdés a)–h) pontjában meghatározott, 250 000 eurónak megfelelő forintösszeg a (4) bekezdés i)–u) pontjában meghatározott eszközcsoportok beszerzésének támogatásához használható fel, a II. végrehajtási időszakban 1 101 000 eurónak megfelelő forintösszeg, a III. végrehajtási időszakban 635 000 eurónak megfelelő forintösszeg. A meghosszabbított III. végrehajtási időszakban 172 000 eurónak megfelelő forintösszeg használható fel, amely a 2023. méhészeti évre biztosított keret terhére kerül kifizetésre.
 
 (3) A támogatás igénybevételére a kifizetési kérelem benyújtásának évére vonatkozó érvényes OMME tagsági viszonnyal rendelkező kérelmező a 4. § (10) bekezdésében meghatározott méhcsaládállomány alapján jogosult.
 
@@ -136,7 +136,7 @@ c) amennyiben a pénzügyi teljesítés díjbekérő alapján történik, a díj
 
 (23)[^120] A kérelmező köteles a gépjárművet az első támogatást megállapító határozat kézhezvételét követő naptól kezdődően öt éven át folyamatosan birtokában tartani és rendeltetésszerűen használni.
 
-[^103]: A 22. § (2) bekezdése a 25/2021. (VII. 14.) AM rendelet 26. § (1) bekezdésével megállapított, a 31/2022. (IX. 27.) AM rendelet 5. § g) pontja szerint módosított szöveg.
+[^103]: A 22. § (2) bekezdése a 25/2021. (VII. 14.) AM rendelet 26. § (1) bekezdésével megállapított, a 31/2022. (IX. 27.) AM rendelet 5. § g) pontja, a 25/2023. (VI. 26.) AM rendelet 39. § g) pontja szerint módosított szöveg.
 [^104]: A 22. § (4) bekezdése a 25/2021. (VII. 14.) AM rendelet 26. § (2) bekezdésével megállapított szöveg.
 [^105]: A 22. § (5) bekezdése a 25/2021. (VII. 14.) AM rendelet 26. § (2) bekezdésével megállapított szöveg.
 [^106]: A 22. § (9) bekezdése a 25/2021. (VII. 14.) AM rendelet 26. § (3) bekezdésével megállapított szöveg.

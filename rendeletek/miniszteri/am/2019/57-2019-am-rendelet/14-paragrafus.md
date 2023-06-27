@@ -4,7 +4,7 @@
 
 (2) A támogatás csak abban az esetben igényelhető, ha a méhészeti szaktanácsadó vagy a vezető szaktanácsadó a szaktanácsadás során – a (8) bekezdés a) pont aa) alpontja szerinti vállalkozói szerződésben meghatározottak szerint – fogadónapot biztosít a méhészek részére.
 
-(4)[^45] A támogatás keretösszege az I. végrehajtási időszakban legfeljebb 530 000 eurónak, a II. végrehajtási időszakban 500 000 eurónak, a III. végrehajtási időszakban 800 000 eurónak megfelelő forintösszeg. A meghosszabbított III. végrehajtási időszakban 175 000 eurónak megfelelő forintösszeg használható fel, amely a 2023. méhészeti évre biztosított keret terhére kerül kifizetésre.
+(4)[^45] A támogatás keretösszege az I. végrehajtási időszakban legfeljebb 530 000 eurónak, a II. végrehajtási időszakban 500 000 eurónak, a III. végrehajtási időszakban 800 000 eurónak megfelelő forintösszeg. A meghosszabbított III. végrehajtási időszakban 155 290 eurónak megfelelő forintösszeg használható fel, amely a 2023. méhészeti évre biztosított keret terhére kerül kifizetésre.
 
 (5) A támogatás igénybevételére az OMME jogosult.
 
@@ -36,7 +36,7 @@ d) a fogadónapról szóló havi nyilvántartások;
 
 e) a nyomtatványok méhészeti szaktanácsadók, illetve a vezető szaktanácsadó által történő átvételének igazolása.
 
-[^45]: A 14. § (4) bekezdése a 25/2021. (VII. 14.) AM rendelet 18. § (1) bekezdésével megállapított, a 31/2022. (IX. 27.) AM rendelet 5. § c) pontja szerint módosított szöveg.
+[^45]: A 14. § (4) bekezdése a 25/2021. (VII. 14.) AM rendelet 18. § (1) bekezdésével megállapított, a 31/2022. (IX. 27.) AM rendelet 5. § c) pontja, a 25/2023. (VI. 26.) AM rendelet 39. § c) pontja szerint módosított szöveg.
 [^46]: A 14. § (7) bekezdés a) pontja a 25/2021. (VII. 14.) AM rendelet 18. § (2) bekezdésével megállapított szöveg.
 [^47]: A 14. § (7) bekezdés b) pontja a 25/2021. (VII. 14.) AM rendelet 36. § d) pontja szerint módosított szöveg.
 [^48]: A 14. § (7) bekezdés c) pontja a 25/2021. (VII. 14.) AM rendelet 36. § e) pontja szerint módosított szöveg.

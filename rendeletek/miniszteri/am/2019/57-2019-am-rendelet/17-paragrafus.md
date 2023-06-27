@@ -8,7 +8,7 @@ b) OMME termelői mézesüveg beszerzése
 
 költségének megtérítése céljából vehető igénybe.
 
-(2)[^68] A támogatás keretösszege az I. végrehajtási időszakban legfeljebb 360 000 eurónak megfelelő forintösszeg, amelyből az (1) bekezdés a) pontja szerinti intézkedésre 40 000 eurónak megfelelő forintösszeg, az (1) bekezdés b) pontja szerinti intézkedésre 320 000 eurónak megfelelő forintösszeg használható fel, a II–III. végrehajtási időszakban 300 000 eurónak megfelelő forintösszeg végrehajtási időszakonként. A meghosszabbított III. végrehajtási időszakban 205 000 eurónak megfelelő forintösszeg használható fel, amely a 2023. méhészeti évre biztosított keret terhére kerül kifizetésre.
+(2)[^68] A támogatás keretösszege az I. végrehajtási időszakban legfeljebb 360 000 eurónak megfelelő forintösszeg, amelyből az (1) bekezdés a) pontja szerinti intézkedésre 40 000 eurónak megfelelő forintösszeg, az (1) bekezdés b) pontja szerinti intézkedésre 320 000 eurónak megfelelő forintösszeg használható fel, a II–III. végrehajtási időszakban 300 000 eurónak megfelelő forintösszeg végrehajtási időszakonként. A meghosszabbított III. végrehajtási időszakban 360 800 eurónak megfelelő forintösszeg használható fel, amely a 2023. méhészeti évre biztosított keret terhére kerül kifizetésre.
 
 (3) A támogatás igénybevételére
 
@@ -34,6 +34,6 @@ a) az üveg vásárlásáról szóló, a kérelmező nevére és címére kiáll
 
 b) a számla pénzügyi teljesítését igazoló bizonylat.
 
-[^68]: A 17. § (2) bekezdése a 25/2021. (VII. 14.) AM rendelet 21. § (1) bekezdésével megállapított, a 31/2022. (IX. 27.) AM rendelet 5. § e) pontja szerint módosított szöveg.
+[^68]: A 17. § (2) bekezdése a 25/2021. (VII. 14.) AM rendelet 21. § (1) bekezdésével megállapított, a 31/2022. (IX. 27.) AM rendelet 5. § e) pontja, a 25/2023. (VI. 26.) AM rendelet 39. § e) pontja szerint módosított szöveg.
 [^69]: A 17. § (4) bekezdése a 25/2021. (VII. 14.) AM rendelet 21. § (2) bekezdésével megállapított szöveg.
 [^70]: A 17. § (6) bekezdése a 25/2021. (VII. 14.) AM rendelet 21. § (3) bekezdésével megállapított szöveg.

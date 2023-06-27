@@ -10,7 +10,7 @@ vehető igénybe.
 
 (2) Az OMME az (1) bekezdés b) pontja szerinti eredményeket legkésőbb a vizsgálat elvégzését követő végrehajtási időszak december 31-éig a honlapján és egy ingyenes szakmai kiadványban köteles közzétenni.
 
-(3)[^130] A támogatás keretösszege az I. végrehajtási időszakban legfeljebb 120 000 eurónak, a II. végrehajtási időszakban legfeljebb 134 000 eurónak, a III. végrehajtási időszakban legfeljebb 134 000 eurónak megfelelő forintösszeg. A meghosszabbított III. végrehajtási időszakban 45 000 eurónak megfelelő forintösszeg használható fel, amely a 2023. méhészeti évre biztosított keret terhére kerül kifizetésre.
+(3)[^130] A támogatás keretösszege az I. végrehajtási időszakban legfeljebb 120 000 eurónak, a II. végrehajtási időszakban legfeljebb 134 000 eurónak, a III. végrehajtási időszakban legfeljebb 134 000 eurónak megfelelő forintösszeg. A meghosszabbított III. végrehajtási időszakban 30 070 eurónak megfelelő forintösszeg használható fel, amely a 2023. méhészeti évre biztosított keret terhére kerül kifizetésre.
 
 (4) A támogatás igénybevételére az OMME jogosult.
 
@@ -48,7 +48,7 @@ c) az eredmények közzétételéről szóló tájékoztatás,
 
 d) a kapcsolódó szakmai kiadványnak az eredmények közzétételét tartalmazó oldalai vagy annak elektronikus elérhetősége.
 
-[^130]: A 26. § (3) bekezdése a 25/2021. (VII. 14.) AM rendelet 30. § (1) bekezdésével megállapított, a 31/2022. (IX. 27.) AM rendelet 5. § j) pontja szerint módosított szöveg.
+[^130]: A 26. § (3) bekezdése a 25/2021. (VII. 14.) AM rendelet 30. § (1) bekezdésével megállapított, a 31/2022. (IX. 27.) AM rendelet 5. § j) pontja, a 25/2023. (VI. 26.) AM rendelet 39. § j) pontja szerint módosított szöveg.
 [^131]: A 26. § (6) bekezdés e) pontját a 25/2021. (VII. 14.) AM rendelet 30. § (2) bekezdése iktatta be.
 [^132]: A 26. § (7) bekezdés b) pontja a 12/2020. (IV. 3.) AM rendelet 4. §-ával megállapított szöveg.
 [^133]: A 26. § (7) bekezdés c) pontja a 12/2020. (IV. 3.) AM rendelet 4. §-ával megállapított szöveg.

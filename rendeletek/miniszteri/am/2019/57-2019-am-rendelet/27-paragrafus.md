@@ -12,7 +12,7 @@ finanszírozásához vehető igénybe, amelynek mértéke legfeljebb 40 000 Ft/f
 
 (2) Az (1) bekezdés a) pontjában említett méhészeti tárgyú kutatásra vonatkozó kutatási tervet az OMME véleménye figyelembevételével a miniszter hagyja jóvá. A kutatást végző szervezet a vizsgálati, kutatási eredményeket legkésőbb a vizsgálat, kutatás elvégzését követő végrehajtási időszak december 31-éig köteles összegezni és az OMME részére megküldeni, amit az OMME a honlapján közzétesz vagy egy ágazati szakmai lapban megjelentet.
 
-(3)[^136] A támogatás keretösszege az I. végrehajtási időszakban legfeljebb 150 000 eurónak, a II. végrehajtási időszakban 150 000 eurónak, a III. végrehajtási időszakban legfeljebb 50 000 eurónak megfelelő forintösszeg. A meghosszabbított III. végrehajtási időszakban 25 000 eurónak megfelelő forintösszeg használható fel, amely a 2023. méhészeti évre biztosított keret terhére kerül kifizetésre.
+(3)[^136] A támogatás keretösszege az I. végrehajtási időszakban legfeljebb 150 000 eurónak, a II. végrehajtási időszakban 150 000 eurónak, a III. végrehajtási időszakban legfeljebb 50 000 eurónak megfelelő forintösszeg. A meghosszabbított III. végrehajtási időszakban 20 710 eurónak megfelelő forintösszeg használható fel, amely a 2023. méhészeti évre biztosított keret terhére kerül kifizetésre.
 
 (4) Az (1) bekezdés a) pontjában meghatározott támogatás igénybevételére a miniszter által jóváhagyott kutatási tervvel rendelkező, a kutatási tervet végrehajtó szervezet, intézmény, az (1) bekezdés b) és c) pontjában meghatározott támogatás igénylésére az OMME jogosult.
 
@@ -62,7 +62,7 @@ d) kutatási beszámoló bírálati eredményéről készített rövid összefog
 
 [^134]: A 27. § (1) bekezdés b) pontja a 12/2020. (IV. 3.) AM rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^135]: A 27. § (1) bekezdés c) pontja a 25/2021. (VII. 14.) AM rendelet 31. § (1) bekezdésével megállapított szöveg.
-[^136]: A 27. § (3) bekezdése a 25/2021. (VII. 14.) AM rendelet 31. § (2) bekezdésével megállapított, a 31/2022. (IX. 27.) AM rendelet 5. § k) pontja szerint módosított szöveg.
+[^136]: A 27. § (3) bekezdése a 25/2021. (VII. 14.) AM rendelet 31. § (2) bekezdésével megállapított, a 31/2022. (IX. 27.) AM rendelet 5. § k) pontja, a 25/2023. (VI. 26.) AM rendelet 39. § k) pontja szerint módosított szöveg.
 [^137]: A 27. § (6) bekezdése a 25/2021. (VII. 14.) AM rendelet 31. § (3) bekezdésével megállapított szöveg.
 [^138]: A 27. § (8) bekezdése a 25/2021. (VII. 14.) AM rendelet 31. § (4) bekezdésével megállapított szöveg.
 [^139]: A 27. § (9) bekezdés a) pontja a 25/2021. (VII. 14.) AM rendelet 31. § (5) bekezdésével megállapított szöveg.

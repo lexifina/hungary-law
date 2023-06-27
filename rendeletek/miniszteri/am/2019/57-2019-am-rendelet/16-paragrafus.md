@@ -2,7 +2,7 @@
 
 16. § (1)[^53] A 2. § (1) bekezdés a) pont ae) alpontja szerinti intézkedés vonatkozásában támogatás a hatékonyabb és élelmiszer-biztonsági szempontból megfelelő pergetés, valamint az ahhoz kapcsolódó munkafolyamatok elvégzését elősegítő, méz és méhészeti termékek kinyeréséhez, kiszereléséhez, valamint a léptároláshoz szükséges új eszköz beszerzéséhez – a (4) és (5) bekezdésben felsorolt eszközcsoportokra – vehető igénybe.
 
-(2)[^54] A támogatás keretösszege az I. végrehajtási időszakban legfeljebb 450 000 eurónak, a II. végrehajtási időszakban legfeljebb 500 000 eurónak, a III. végrehajtási időszakban legfeljebb 550 000 eurónak megfelelő forintösszeg. A meghosszabbított III. végrehajtási időszakban 190 000 eurónak megfelelő forintösszeg használható fel, amely a 2023. méhészeti évre biztosított keret terhére kerül kifizetésre.
+(2)[^54] A támogatás keretösszege az I. végrehajtási időszakban legfeljebb 450 000 eurónak, a II. végrehajtási időszakban legfeljebb 500 000 eurónak, a III. végrehajtási időszakban legfeljebb 550 000 eurónak megfelelő forintösszeg. A meghosszabbított III. végrehajtási időszakban 172 000 eurónak megfelelő forintösszeg használható fel, amely a 2023. méhészeti évre biztosított keret terhére kerül kifizetésre.
 
 (3) A támogatás igénybevételére a kifizetési kérelem benyújtásának évére vonatkozó érvényes OMME tagsági viszonnyal rendelkező kérelmező – a 4. § (10) bekezdésében meghatározott méhcsaládállomány alapján – jogosult.
 
@@ -101,7 +101,7 @@ c)[^67] új fagyasztóház (hűtőgépészettel együtt) építése, új fagyasz
 (16) A nettó 100 000 forintot meghaladó beszerzési értékű eszköz esetében az üzemben tartási kötelezettség alatt bekövetkezett lopást, illetve működésképtelenné, használhatatlanná válás esetén az üzemben tartási kötelezettséget érintő eseményt – az erre a célra rendszeresített elektronikus űrlapkitöltő felületen keresztül – a bekövetkezését követően haladéktalanul be kell jelenteni a Kincstár részére.
 
 [^53]: A 16. § (1) bekezdése a 12/2020. (IV. 3.) AM rendelet 7. § h) pontja szerint módosított szöveg.
-[^54]: A 16. § (2) bekezdése a 25/2021. (VII. 14.) AM rendelet 20. § (1) bekezdésével megállapított, a 31/2022. (IX. 27.) AM rendelet 5. § d) pontja szerint módosított szöveg.
+[^54]: A 16. § (2) bekezdése a 25/2021. (VII. 14.) AM rendelet 20. § (1) bekezdésével megállapított, a 31/2022. (IX. 27.) AM rendelet 5. § d) pontja, a 25/2023. (VI. 26.) AM rendelet 39. § d) pontja szerint módosított szöveg.
 [^55]: A 16. § (4) bekezdés p) pontja a 25/2021. (VII. 14.) AM rendelet 20. § (2) bekezdésével megállapított szöveg.
 [^56]: A 16. § (4) bekezdés s) pontját a 25/2021. (VII. 14.) AM rendelet 20. § (3) bekezdése iktatta be.
 [^57]: A 16. § (4) bekezdés t) pontját a 25/2021. (VII. 14.) AM rendelet 20. § (3) bekezdése iktatta be.
