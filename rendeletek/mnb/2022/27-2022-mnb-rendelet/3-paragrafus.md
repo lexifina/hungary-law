@@ -2,6 +2,9 @@
 
 ## 3. § A Magyarországon lévő féllel szembeni kitettségekre vonatkozó anticiklikus tőkepufferráta mértéke
 
-a) 2023. június 30-ig 0 százalék,
+a)[^1] 2024. június 30-ig 0 százalék,
 
-b) 2023. július 1-jétől 0,5 százalék.
+b)[^2] 2024. július 1-jétől 0,5 százalék.
+
+[^1]: A 3. § a) pontja a 28/2023. (VI. 26.) MNB rendelet 1. §-a szerint módosított szöveg.
+[^2]: A 3. § b) pontja a 28/2023. (VI. 26.) MNB rendelet 1. §-a szerint módosított szöveg.

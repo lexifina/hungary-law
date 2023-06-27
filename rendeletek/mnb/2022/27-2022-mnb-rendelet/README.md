@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-27-20-2
 | --- | --- | --- |
 | 2022-07-09 | 2022-27-20-2C.1 | 27/2022. (VII. 8.) MNB rendelet |
 | 2022-07-10 | 2022-27-20-2C.2 | 2010: CXXX. törvény |
+| 2023-06-27 | 2022-27-20-2C.3 | 28/2023. (VI. 26.) MNB rendelet |
