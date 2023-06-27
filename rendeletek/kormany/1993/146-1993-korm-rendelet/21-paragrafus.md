@@ -52,7 +52,7 @@ b) a bevándorolt vagy a letelepedett külföldön bekövetkezett elhalálozás�
 
 (11)[^192] Az idegenrendészeti hatóság haladéktalanul értesíti a kijelölt kormányhivatalt a szabad mozgás és tartózkodás jogával rendelkező személy tartózkodási jogának megszűnéséről, valamint a letelepedett jogállásának megszerzéséről, illetve korábbi, visszavonásra nem került bevándorolt vagy letelepedett jogállásáról.
 
-(12)[^193] A jegyző, a járási hivatal, a kijelölt kormányhivatal, a konzuli tisztviselő, valamint a büntetés-végrehajtási intézet a polgár Nytv. 11. § (5) bekezdése szerinti kérelmét haladéktalanul továbbítja a nyilvántartást kezelő szerv részére.
+(12)[^193] A jegyző, a járási hivatal, a kijelölt kormányhivatal, valamint a konzuli tisztviselő a polgár Nytv. 11. § (5) bekezdése szerinti kérelmét haladéktalanul továbbítja a nyilvántartást kezelő szerv részére.
 
 (13)[^194] Az útiokmány-nyilvántartó szerv az útlevél, valamint a közúti közlekedési nyilvántartás engedély-nyilvántartását vezető szerv a kártyaformátumú vezetői engedély okmányazonosítójáról, érvényessége, illetve érvénytelenné válása tényéről és okáról a polgárok személyi adatainak és lakcímének nyilvántartását kezelő szervet automatikus információátadással haladéktalanul értesíti.
 
@@ -80,5 +80,5 @@ b) a bevándorolt vagy a letelepedett külföldön bekövetkezett elhalálozás�
 [^190]: Az R. 21. § (9b) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 25. § (2) bekezdése iktatta be, hatályon kívül helyezte a 379/2016. (XII. 2.) Korm. rendelet 11. § (19) bekezdés e) pontja.
 [^191]: Az R. 21. § (9) – eredetileg (7) – bekezdése a 230/2000. (XII. 23.) Korm. rendelet 16. §-ával megállapított szöveg, számozását (10) bekezdésre változtatta a 115/2007. (V. 24.) Korm. rendelet 1. § (9) bekezdése. Az R. 21. § (10) bekezdése a 417/2012. (XII. 29.) Korm. rendelet 40. § g) pontja, a 39. § b) pontja, a 457/2017. (XII. 28.) Korm. rendelet 15. § e) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^192]: Az R. 21. § (11) bekezdését a 176/2019. (VII. 18.) Korm. rendelet 1. § (6) bekezdése iktatta be, szövege a 375/2021. (VI. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^193]: Az R. 21. § (12) bekezdését a 317/2020. (VII. 1.) Korm. rendelet 2. § (4) bekezdése iktatta be.
+[^193]: Az R. 21. § (12) bekezdését a 317/2020. (VII. 1.) Korm. rendelet 2. § (4) bekezdése iktatta be, szövege a 256/2023. (VI. 26.) Korm. rendelet 5. § a) pontja és 7. § a) pontja szerint módosított szöveg.
 [^194]: Az R. 21. § (13) bekezdését a 375/2021. (VI. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be.

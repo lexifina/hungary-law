@@ -36,11 +36,15 @@ g)[^206] a hivatásos katasztrófavédelmi szerv részére hatósági feladatai 
 
 h)[^207] az erdészeti hatóságként eljáró vármegyei kormányhivatal
 
+i)[^208] − az Nytv.-ben szereplő feladatai ellátásához szükséges körben – a Belső Ellenőrzési és Integritási Igazgatóság
+
 kutatási kérelmére a közölt hiányos, illetve töredékadatoknak megfelelő személyek adatait szolgáltatja.
 
 (6) Az adatigénylő felelősséggel tartozik azért, hogy a nyilvántartás szerve által tévedésből közölt, vagy a (4)–(5) bekezdések szerinti adatszolgáltatás esetén a személyazonosítás elvégzését vagy meghiúsulását követően feleslegessé vált adatokat haladéktalanul törölje.
 
 (7) Rendszeres adatszolgáltatást az első alkalommal történő igényléskor (alapszolgáltatás) kell kérni. A személyi azonosító kezelésére nem jogosult adatigénylő a rendszeres adatszolgáltatást kapcsolati kód alkalmazásával is kérheti
+
+(8)[^209] Az Nytv. 18. § (5) bekezdése szerinti adatszolgáltatást a hatósági igazolványról a nyilvántartást kezelő szerv elektronikus azonosítást követően, elektronikus kapcsolattartás útján benyújtott kérelem esetén automatikus döntéshozatal útján teljesíti.
 
 [^195]: Az R. 22. § -a a 13/1999. ( II.1.) Korm. rendelet 19. §-ával megállapított szöveg.
 [^196]: Az R. 22. §-ának (1) bekezdése a 230/2000. (XII. 23.) Korm. rendelet 17. §-ával megállapított, a 314/2011. (XII. 23.) Korm. rendelet 2. § e) pontja, a 417/2012. (XII. 29.) Korm. rendelet 39. § c) pontja szerint módosított szöveg.
@@ -55,3 +59,5 @@ kutatási kérelmére a közölt hiányos, illetve töredékadatoknak megfelelő
 [^205]: Az R. 22. § (5) bekezdés f) pontját az 569/2022. (XII. 23.) Korm. rendelet 3. §-a iktatta be.
 [^206]: Az R. 22. § (5) bekezdés g) pontját az 569/2022. (XII. 23.) Korm. rendelet 3. §-a iktatta be.
 [^207]: A 22. § (5) bekezdés h) pontját a 60/2023. (II. 28.) Korm. rendelet 1. §-a iktatta be.
+[^208]: Az R. 22. § (5) bekezdés i) pontját a 256/2023. (VI. 26.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^209]: Az R. 22. § (8) bekezdését a 256/2023. (VI. 26.) Korm. rendelet 1. § (4) bekezdése iktatta be.
