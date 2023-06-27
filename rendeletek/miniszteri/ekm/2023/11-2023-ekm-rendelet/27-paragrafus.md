@@ -1,10 +1,9 @@
-27. § (1) A 24/2005. (IV. 21.) GKM rendelet 9. §-a a következő (6) bekezdéssel egészül ki:
+27. § (1)[^39]
 
-„(6) Az adott kategóriás vezetői engedély megszerzésére irányuló, e rendeletben előírt valamennyi vizsgakövetelmény teljesítéséről az utolsó vizsgát követően a vizsgaközpont vizsgaigazolást állít ki.”
+(2)[^40]
 
-(2)[^18]
+(3)[^41]
 
-(3)[^19]
-
-[^18]: A 27. § (2) bekezdése az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^19]: A 27. § (3) bekezdése az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+[^39]: A 27. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^40]: A 27. § (2) bekezdése az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+[^41]: A 27. § (3) bekezdése az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.

@@ -1,3 +1,3 @@
-15. §[^5]
+15. §[^17]
 
-[^5]: A 15. § az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+[^17]: A 15. § az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.

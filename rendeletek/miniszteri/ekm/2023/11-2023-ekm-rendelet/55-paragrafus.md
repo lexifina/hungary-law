@@ -1,3 +1,5 @@
 ## 15. A közlekedésért felelős miniszter szabályozási feladatkörébe tartozó forgalmazási követelmények tekintetében eljáró megfelelőségértékelő szervezetek kijelölési eljárásáért fizetendő igazgatási szolgáltatási díjakról szóló 89/2011. (XII. 30.) NFM rendelet módosítása
 
-55. § A közlekedésért felelős miniszter szabályozási feladatkörébe tartozó forgalmazási követelmények tekintetében eljáró megfelelőségértékelő szervezetek kijelölési eljárásáért fizetendő igazgatási szolgáltatási díjakról szóló 89/2011. (XII. 30.) NFM rendelet 2. § (1) bekezdésében az „10032000-00290713-38100004” szövegrész helyébe az „10032000-00003582-06020015” szöveg lép.
+55. §[^169]
+
+[^169]: Az 55. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

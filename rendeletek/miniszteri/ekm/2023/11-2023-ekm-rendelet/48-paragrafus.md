@@ -1,125 +1,155 @@
 48. § A 24/2005. (IV. 21.) GKM rendelet
 
-1. 2. § (1) bekezdés 38. pontjában a „38. tanterv: a közlekedésért felelős miniszter által kiadott, a képző szerv képzési tevékenységét meghatározó követelményrendszert tartalmazó pedagógiai dokumentum,” szövegrész helyébe a „38. tanterv: a képző szerv képzési tevékenységét meghatározó követelményrendszert tartalmazó pedagógiai dokumentum,” szöveg,
+1.[^87]
 
-2.[^44]
+2.[^88]
 
-3. 2. § (1) bekezdés 51. pontjában az „az adott tananyag megértését,” szövegrész helyébe az „az adott tananyag megértését.” szöveg,
+3.[^89]
 
-4.[^45]
+4.[^90]
 
-5. 3. § (1) bekezdésében, 10. § (2) bekezdés d) pontjában, 18. § (3) bekezdés b) pont be) alpontjában a „TR” szövegrész helyébe a „Trolibusz” szöveg,
+5.[^91]
 
-6.[^46]
+6.[^92]
 
-7. 3. § (7) és (8) bekezdésében a „képző szerv” szövegrész helyébe a „képzőszerv” szöveg,
+7.[^93]
 
-8.[^47]
+8.[^94]
 
-9. 5. § (1) bekezdésében az „(a bizonylati albumban szereplő nyomtatványokat)” szövegrész helyébe az „(az ún. „Bizonylati album”-ban szereplő nyomtatványokat)” szöveg,
+9.[^95]
 
-10.[^48]
+10.[^96]
 
-11. 6. § (6) bekezdésében a „vezetési gyakorlat tantárgy (ideértve a vezetési gyakorlat tantárgy szimulátoron történő oktatását, valamint a közúti közlekedési szakember képzés járművezetéssel járó oktatási óráit)” szövegrész helyébe „a vezetési gyakorlat tantárgy” szöveg,
+11.[^97]
 
-12.[^49]
+12.[^98]
 
-13. 9. § (7) bekezdésében az „– elektronikus bejelentés alapján –” szövegrész helyébe a „– kérelemre –” szöveg,
+13.[^99]
 
-14.[^50]
+14.[^100]
 
-15. 9. § (7a) bekezdésében a „jelentkezési adatlapon” szövegrész helyébe a „jelentkezési lapon” szöveg, a „8. számú melléklet 1.4. pontjában” szövegrész helyébe a „8. számú melléklet 6.1.1. pontjában” szöveg,
+15.[^101]
 
-16.[^51]
+16.[^102]
 
-17. 10. § (1) bekezdés e) pontjában, 39. § (3) bekezdésében a „jelentkezési adatlapon” szövegrész helyébe a „jelentkezési lapon” szöveg,
+17.[^103]
 
-18.[^52]
+18.[^104]
 
-19. 10. § (3) bekezdésében az „az e rendeletben előírt valamennyi vizsgakövetelmény teljesítéséről szóló vizsgaigazolást.” szövegrész helyébe az „a forgalmi vizsga teljesítéséről szóló vizsgaigazolást.” szöveg,
+19.[^105]
 
-20.[^53]
+20.[^106]
 
-21. 11. § (1) bekezdés f) pontjában a „bizonylati album” szövegrész helyébe a „Bizonylati Album” szöveg,
+21.[^107]
 
-22. 11. § (1) bekezdés f) pontjában a „Bizonylati Album” szövegrész helyébe a „bizonylati album” szöveg,
+22.[^108]
 
-23. 18. § (3) bekezdés be) pontjában, 18. § (5) bekezdésében a „TR” szövegrész helyébe a „Tr” szöveg,
+23.[^109]
 
-24.[^54]
+24.[^110]
 
-25. 21. § (1) bekezdésében a „kétévenként” szövegrész helyébe az „évenként” szöveg, a „vennie” szövegrész helyébe a „venni” szöveg, a „tennie” szövegrész helyébe a „tenni” szöveg,
+25.[^111]
 
-26.[^55]
+26.[^112]
 
-27. 27. § (1) bekezdés a) pontjában a „vizsgabiztosi vagy elméleti vizsgabiztosi képesítéssel” szövegrész helyébe a „vizsgabiztosi képesítéssel” szöveg,
+27.[^113]
 
-28.[^56]
+28.[^114]
 
-29. 27. § (1) bekezdés d) pontjában az „az elméleti vizsgabiztos kivételével, aki érvényes vezetői engedéllyel rendelkezik” szövegrész helyébe az „aki érvényes vezetői engedéllyel rendelkezik” szöveg,
+29.[^115]
 
-30.[^57]
+30.[^116]
 
-31. 27. § (1) bekezdés e) pontjában az „az elméleti vizsgabiztos kivételével, akire nem vonatkozik olyan rendelkezés,” szövegrész helyébe az „akire nem vonatkozik olyan rendelkezés,” szöveg,
+31.[^117]
 
-32.[^58]
+32.[^118]
 
-33. 27. § (1) bekezdés g) pontjában az „aki a vizsgabiztosi vagy elméleti vizsgabiztosi képzésre” szövegrész helyébe az „aki a vizsgabiztosi képzésre” szöveg,
+33.[^119]
 
-34.[^59]
+34.[^120]
 
-35. 27. § (2) bekezdésében a „vizsgabiztosi vagy elméleti vizsgabiztosi igazolványt” szövegrész helyébe a „vizsgabiztosi igazolványt” szöveg,
+35.[^121]
 
-36.[^60]
+36.[^122]
 
-37. 27. § (3) bekezdésében a „kétévente összesen legalább négynapos” szövegrész helyébe az „évente összesen legalább kétnapos” szöveg,
+37.[^123]
 
-38.[^61]
+38.[^124]
 
-39. 32. § (1) bekezdésében a „kétévenként” szövegrész helyébe az „évenként” szöveg,
+39.[^125]
 
-40.[^62]
+40.[^126]
 
-41. 33/C. § (5) bekezdésében az „alapképzéséről” szövegrész helyébe az „alapképesítéséről” szöveg és a „2003/59/EK irányelv és a vezetői engedélyekről szóló 2006/126/EK irányelv módosításáról szóló, 2018. április 18-i (EU) 2018/645” szövegrész helyébe a „ , 2022. december 14-i (EU) 2022/2561” szöveg,
+41.[^127]
 
-42. 37/A. §-ában az „A rendelet” szövegrész helyébe az „A rendelet alkalmazásában” szöveg,
+42.[^128]
 
-43. 38. § (1) bekezdésében az „elektronikus vezetési karton rendszer tanúsításának, minősítésének megszerzésére.” szövegrész helyébe az „elektronikus vezetési karton rendszer, valamint a tehergépkocsi és autóbuszvezetői továbbképzési képesítés vizsga nélküli megszerzésére irányuló szaktanfolyam, képzési program (a továbbiakban: Képzési program) tanúsításának, minősítésének megszerzésére.” szöveg,
+43.[^129]
 
-44. 38. § (5) bekezdésében a „Szimulátort, illetve” szövegrész helyébe a „Szimulátort,” szöveg és a „kartonrendszert a” szövegrész helyébe a „kartonrendszert, illetve a Képzési programot a” szöveg,
+44.[^130]
 
-45. 38. § (8) bekezdésében a „Szimulátor, illetve az elektronikus vezetési kartonrendszer akkreditációjának” szövegrész helyébe a „Szimulátor, az elektronikus vezetési kartonrendszer, illetve a Képzési program akkreditációjának” szöveg,
+45.[^131]
 
-46. 38. § (10) bekezdésében a „Szimulátornak, vagy elektronikus vezetési karton rendszernek a” szövegrész helyébe a „Szimulátornak, elektronikus vezetési karton rendszernek vagy Képzés programnak a” szöveg,
+46.[^132]
 
-47. 38. § (11) bekezdésében a „Szimulátor és elektronikus vezetési kartonrendszer listáját” szövegrész helyébe a „Szimulátor, elektronikus vezetési kartonrendszer és Képzési program listáját” szöveg,
+47.[^133]
 
-48. az „A „Gépjárművezetői képesítési igazolvány” kiadása, nyilvántartása” alcímben a „ „gépjárművezetői” szövegrész helyébe a „Gépjárművezetői” szöveg és az „igazolvány” ” szövegrész helyébe az „igazolvány” szöveg,
+48.[^134]
 
-49.[^63]
+49.[^135]
 
-50. 41/A. §-ában a „ „gépjárművezetői” szövegrész helyébe a „Gépjárművezetői” szöveg és az „igazolványok” szövegrész helyébe az „igazolványok” ” szöveg,
+50.[^136]
 
-51.[^64]
+51.[^137]
 
-[^44]: A 48. § 2. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^45]: A 48. § 4. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^46]: A 48. § 6. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^47]: A 48. § 8. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^48]: A 48. § 10. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^49]: A 48. § 12. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^50]: A 48. § 14. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^51]: A 48. § 16. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^52]: A 48. § 18. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^53]: A 48. § 20. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^54]: A 48. § 24. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^55]: A 48. § 26. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^56]: A 48. § 28. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^57]: A 48. § 30. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^58]: A 48. § 32. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^59]: A 48. § 34. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^60]: A 48. § 36. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^61]: A 48. § 38. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^62]: A 48. § 40. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^63]: A 48. § 49. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^64]: A 48. § 51. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+[^87]: A 48. § 1. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^88]: A 48. § 2. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+[^89]: A 48. § 3. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^90]: A 48. § 4. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+[^91]: A 48. § 5. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^92]: A 48. § 6. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+[^93]: A 48. § 7. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^94]: A 48. § 8. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+[^95]: A 48. § 9. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^96]: A 48. § 10. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+[^97]: A 48. § 11. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^98]: A 48. § 12. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+[^99]: A 48. § 13. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^100]: A 48. § 14. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+[^101]: A 48. § 15. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^102]: A 48. § 16. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+[^103]: A 48. § 17. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^104]: A 48. § 18. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+[^105]: A 48. § 19. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^106]: A 48. § 20. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+[^107]: A 48. § 21. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^108]: A 48. § 22. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^109]: A 48. § 23. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^110]: A 48. § 24. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+[^111]: A 48. § 25. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^112]: A 48. § 26. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+[^113]: A 48. § 27. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^114]: A 48. § 28. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+[^115]: A 48. § 29. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^116]: A 48. § 30. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+[^117]: A 48. § 31. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^118]: A 48. § 32. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+[^119]: A 48. § 33. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^120]: A 48. § 34. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+[^121]: A 48. § 35. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^122]: A 48. § 36. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+[^123]: A 48. § 37. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^124]: A 48. § 38. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+[^125]: A 48. § 39. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^126]: A 48. § 40. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+[^127]: A 48. § 41. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^128]: A 48. § 42. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^129]: A 48. § 43. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^130]: A 48. § 44. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^131]: A 48. § 45. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^132]: A 48. § 46. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^133]: A 48. § 47. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^134]: A 48. § 48. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^135]: A 48. § 49. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+[^136]: A 48. § 50. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^137]: A 48. § 51. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.

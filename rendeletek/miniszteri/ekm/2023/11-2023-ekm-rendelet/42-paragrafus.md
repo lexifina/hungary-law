@@ -1,10 +1,9 @@
-42. § (1)[^38]
+42. § (1)[^76]
 
-(2)[^39]
+(2)[^77]
 
-(3) A 24/2005. (IV. 21.) GKM rendelet 33/D. §-a a következő (6) bekezdéssel egészül ki:
+(3)[^78]
 
-„(6) Ha a „Gépjárművezetői képesítési igazolvány” adataiban változás történik – ide nem értve a lakcímadat és a vezetői engedély szám változását – annak cseréjét, elvesztése vagy megsérülése esetén pótlását a gépkocsivezető kezdeményezheti.”
-
-[^38]: A 42. § (1) bekezdése az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^39]: A 42. § (2) bekezdése az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+[^76]: A 42. § (1) bekezdése az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+[^77]: A 42. § (2) bekezdése az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+[^78]: A 42. § (3) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

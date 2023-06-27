@@ -500,6 +500,6 @@
 
 ## 38. a jelzőcsengő megszólalása után nyitott ajtóval indul el a trolibusszal.”
 
-6. melléklet a 11/2023. (VI. 23.) ÉKM rendelethez[^83]
+6. melléklet a 11/2023. (VI. 23.) ÉKM rendelethez[^176]
 
-[^83]: A 6. melléklet az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+[^176]: A 6. melléklet az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.

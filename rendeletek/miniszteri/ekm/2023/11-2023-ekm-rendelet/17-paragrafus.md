@@ -1,3 +1,3 @@
-17. §[^7]
+17. §[^20]
 
-[^7]: A 17. § az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+[^20]: A 17. § az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.

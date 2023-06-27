@@ -1,3 +1,3 @@
-34. § A 24/2005. (IV. 21.) GKM rendelet 22. §-a a következő (2) bekezdéssel egészül ki:
+34. §[^64]
 
-„(2) A szakoktató az adott hónapban teljesített oktatással és vizsgával töltött tevékenységét havi óra- és vizsgaösszesítő lapon köteles nyilvántartani.”
+[^64]: A 34. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

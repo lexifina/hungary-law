@@ -1,7 +1,6 @@
-22. § (1) A 24/2005. (IV. 21.) GKM rendelet 5. § (5) bekezdése helyébe a következő rendelkezés lép:
+22. § (1)[^26]
 
-„(5) E-learning képzés esetén a meghatározott oktatási idő akkor tekinthető teljesítettnek, ha az e-learning képzést a tanuló elvégezte, és erről a képző szerv igazolást állított ki.”
+(2)[^27]
 
-(2)[^10]
-
-[^10]: A 22. § (2) bekezdése az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+[^26]: A 22. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 22. § (2) bekezdése az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.

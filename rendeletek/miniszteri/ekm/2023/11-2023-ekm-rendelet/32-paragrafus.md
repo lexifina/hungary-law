@@ -1,3 +1,3 @@
-32. § A 24/2005. (IV. 21.) GKM rendelet 17. §-a a következő (7) bekezdéssel egészül ki:
+32. §[^62]
 
-„(7) A szakoktató képzési közreműködéséért kizárólag a képzést végző képző szervtől jogosult díjazásra.”
+[^62]: A 32. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

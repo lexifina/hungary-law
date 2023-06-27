@@ -1,13 +1,6 @@
-41. § (1) A 24/2005. (IV. 21.) GKM rendelet 33/C. § (4) bekezdése helyébe a következő rendelkezés lép:
+41. § (1)[^74]
 
-„(4) A továbbképzési képesítés a közlekedésért felelős miniszter által kiadott tantervi és vizsgakövetelmény szerinti
+(2)[^75]
 
-a) továbbképzési szaktanfolyam és sikeres vizsga vagy
-
-b) vizsga nélküli továbbképzési szaktanfolyam
-
-igazolt elvégzését követően adható ki.”
-
-(2)[^37]
-
-[^37]: A 41. § (2) bekezdése az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+[^74]: A 41. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^75]: A 41. § (2) bekezdése az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
