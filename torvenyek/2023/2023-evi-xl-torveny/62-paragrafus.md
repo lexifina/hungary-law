@@ -1,3 +1,1 @@
-62. § A személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 19. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A közúti és vízi járművel végzett személyszállítási szolgáltatásra, valamint az (EU) 2021/782 rendeletben nem szabályozott kérdésekben a vasúti személyszállítási szolgáltatásra kötött szerződésekre a Ptk.-nak a szerződésekre vonatkozó általános, továbbá a vállalkozási szerződésre vonatkozó rendelkezéseit a vasúti személyszállítás részletes feltételeiről szóló jogszabályokban, valamint a közúti személyszállítási szerződésekről, továbbá a vízi személyszállítás feltételeiről szóló jogszabályban foglalt kiegészítésekkel kell alkalmazni.”
+### 62. §

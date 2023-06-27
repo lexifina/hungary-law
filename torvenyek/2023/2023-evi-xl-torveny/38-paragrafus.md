@@ -1,3 +1,1 @@
-38. § A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 28. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az állam nevében a miniszter – az államháztartásért felelős miniszter egyetértésével – legalább ötéves szerződésben kötelezettséget vállal az országos jelentőségű vasútvonalakat tartalmazó vasúti pályahálózat működtetését végző pályahálózat-működtetőnek a pályahálózat működtetésével kapcsolatban felmerült, és a hálózat-hozzáférési díjból, valamint a vasúti társaság egyéb üzleti tevékenységéből nem fedezett, indokoltnak elismert költségei megtérítésére (a továbbiakban: pályaműködtetési szerződés).”
+### 38. §

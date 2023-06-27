@@ -1,5 +1,1 @@
-## „c) a jármű a díj ellenében végzett közúti árutovábbítási, a saját számlás áruszállítási, valamint az autóbusszal díj ellenében végzett személyszállítási és a saját számlás személyszállítási tevékenységről szóló kormányrendelet szerinti bérelt tehergépjármű.”
-
-8. § A közúti közlekedésről szóló 1988. évi I. törvény a következő 32/C. §-sal egészül ki:
-
-„32/C. § Az országos közutak építtetője által létrehozott, a kormányzati célú hálózatokról szóló kormányrendelet szerinti egységes digitális rádiótávközlő rendszerbe tartozó vagyonelemek vonatkozásában az országos közutak építtetőjének vagyonkezelői joga a műszaki átadás napján megszűnik, és ezen vagyonelemek ingyenesen, könyv szerinti értéken a jogszabályban kijelölt kormányzati célú hírközlési szolgáltató (a továbbiakban: hírközlési szolgáltató) vagyonkezelésébe kerülnek. Ezen vagyonelemek számviteli átadását az országos közutak építtetője és a hírközlési szolgáltató egymás között közvetlenül, a tulajdonosi joggyakorló közreműködése nélkül végzi. Az országos közutak építtetője a vagyonkezelői jogának megszűnését követő hat hónapon belül elszámolási kimutatást készít annak céljából, hogy az érintett eszközöket a megszűnés napján nyilvántartott könyv szerinti értéken a könyveiből kivezesse és a hírközlési szolgáltató könyveiben azokat nyilvántartásba vegye.”
+### 8. §

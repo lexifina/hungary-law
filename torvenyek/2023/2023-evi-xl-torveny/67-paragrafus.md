@@ -1,5 +1,1 @@
-## „c) a jogi személyek és a jogi személyiséggel nem rendelkező szervezetek által vásárolt jegyek, bérletek után, kivéve a nevelési-oktatási vagy gyermekvédelmi szakellátási feladatot ellátó intézménnyel (a továbbiakban együtt: intézmény) jogviszonyban álló gyermek, tanuló, ellátott részére, valamint ezen gyermekek, tanulók, ellátottak csoportját kísérő felnőttek részére a tankerületi központ által fenntartott intézmény esetében a tankerület, egyéb esetben az intézmény vagy annak fenntartója által történő vásárlásokat.”
-
-67. § A személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 35/A. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az (1) bekezdésben meghatározott Központi Rendszer kialakításával, működtetésével és fejlesztésével kapcsolatos feladatokat az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott működtető (a továbbiakban: 35/A. §-a szerinti működtető) látja el, amely ezen feladatok ellátására a miniszterrel közszolgáltatási szerződést köthet.”
+### 67. §

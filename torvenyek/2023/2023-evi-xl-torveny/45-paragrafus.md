@@ -1,3 +1,1 @@
-45. § A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 82. § (11) bekezdése helyébe a következő rendelkezés lép:
-
-„(11) A vasúti képzési módszertani központ a 36. § (7) bekezdésében meghatározott feladatának ellátása érdekében jogosult a vasútszakmai oktatók és a vasútüzemvezetők továbbképzésére, a vasúti közlekedés területén hatósági vizsgabiztosi tevékenységet ellátók képzésére és továbbképzésére, továbbá a képzésen részt vevők, valamint a vasúti alapvizsgára és időszakos vizsgára jelentkező személyek természetes személyazonosító adatainak és vizsgaeredményeinek kezelésére. Ezen adatkezelésre a (4)–(7) bekezdésben foglaltakat kell alkalmazni.”
+### 45. §
