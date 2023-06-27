@@ -1,0 +1,1 @@
+1. § Az anticiklikus tőkepuffer képzésének feltételeiről és az anticiklikus tőkepufferráta mértékéről szóló 27/2022. (VII. 8.) MNB rendelet 3. § a) és b) pontjában a „2023.” szövegrész helyébe a „2024.” szöveg lép.
