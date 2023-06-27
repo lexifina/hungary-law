@@ -1,5 +1,5 @@
 ## 1. A vízszennyező anyagok kibocsátásaira vonatkozó határértékekről és alkalmazásuk egyes szabályairól szóló 28/2004. (XII. 25.) KvVM rendelet módosítása
 
-1. § A vízszennyező anyagok kibocsátásaira vonatkozó határértékekről és alkalmazásuk egyes szabályairól szóló 28/2004. (XII. 25.) KvVM rendelet 1. § (2) bekezdése a következő c) ponttal egészül ki:
+1. §[^2]
 
-(A rendelet hatálya nem terjed ki:)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
