@@ -18,7 +18,7 @@ d)[^42] – magyar állampolgárságú kérelmező esetén – a konzuli tisztvi
 
 (3a)[^45] A (3) bekezdés szerinti kérelem az 1. melléklet 22. pontjában foglalt adatot az állandó személyazonosító igazolvány kiállítását követően tartalmazza.
 
-(4)[^46] A fogvatartott állandó személyazonosító igazolvány kiadására irányuló kérelmét a büntetés-végrehajtási intézetnél (a továbbiakban: bv. szerv) és a járási hivatalnál terjesztheti elő. A bv. szerv közreműködő hatóságként jár el, és a kérelmet a 22. § (1) és (2) bekezdésében meghatározott ellenőrzést követően haladéktalanul megküldi a kijelölt kormányhivatalnak.
+(4)[^46]
 
 [^40]: A 11. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 311. § (10) bekezdésével megállapított szöveg.
 [^41]: A 11. § (1) bekezdés c) pontja a 6/2020. (I. 31.) Korm. rendelet 12. § (4) bekezdésével megállapított szöveg.
@@ -26,4 +26,4 @@ d)[^42] – magyar állampolgárságú kérelmező esetén – a konzuli tisztvi
 [^43]: A 11. § (2) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 68. §-ával megállapított szöveg.
 [^44]: A 11. § (3) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 83. § a) pontja hatályon kívül helyezte, újonnan a 717/2021. (XII. 20.) Korm. rendelet 16. § (4) bekezdése iktatta be.
 [^45]: A 11. § (3a) bekezdését a 717/2021. (XII. 20.) Korm. rendelet 16. § (4) bekezdése iktatta be.
-[^46]: A 11. § (4) bekezdése a 375/2021. (VI. 30.) Korm. rendelet 22. § (3) bekezdésével megállapított szöveg.
+[^46]: A 11. § (4) bekezdését a 256/2023. (VI. 26.) Korm. rendelet 13. § c) pontja hatályon kívül helyezte.

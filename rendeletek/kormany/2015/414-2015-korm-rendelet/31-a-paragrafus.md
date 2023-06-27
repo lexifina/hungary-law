@@ -1,4 +1,4 @@
-## 7a.[^113] Az állandó személyazonosító igazolvány hivatalbóli kiadása az intézetben született és Magyarországon élő magyar állampolgár újszülött részére
+## 7a.[^115] Az állandó személyazonosító igazolvány hivatalbóli kiadása az intézetben született és Magyarországon élő magyar állampolgár újszülött részére
 
 31/A. § (1) Hivatalból állandó személyazonosító igazolványt kell kiadni az Nytv. 7. § (3) bekezdése szerinti újszülöttnek.
 
@@ -12,4 +12,4 @@
 
 (6) Az át nem vett személyazonosító igazolványt a járási hivatal a második sikertelen kézbesítés napját követő 30 nap elteltével átvétel hiányában érvényteleníti, és gondoskodik e ténynek a nyilvántartásban való feltüntetéséről.
 
-[^113]: A 7a. alcímet (31/A. §) az 572/2020. (XII. 9.) Korm. rendelet 74. §-a iktatta be.
+[^115]: A 7a. alcímet (31/A. §) az 572/2020. (XII. 9.) Korm. rendelet 74. §-a iktatta be.

@@ -4,7 +4,7 @@
 
 2. hivatalból kiadja a személyazonosító igazolványt a 26. §-ban meghatározott esetben,
 
-3.[^14] kiadja a fogvatartott polgár személyazonosító igazolványát,
+3.[^14]
 
 4. kizárólagos hatáskörben kiadja az Nytv. 29/G. § (2) bekezdése szerinti személyazonosító igazolványt,
 
@@ -37,6 +37,6 @@
 18.[^16] a nála előterjesztett kérelem esetén végzi az állandó személyazonosító igazolvány tároló elemén a polgár lakcímének és személyi azonosítójának rögzítését,
 
 [^13]: A 3/A. §-t a 379/2016. (XII. 2.) Korm. rendelet 311. § (6) bekezdése iktatta be.
-[^14]: A 3/A. § 3. pontja a 375/2021. (VI. 30.) Korm. rendelet 24. § 1. pontja szerint módosított szöveg.
+[^14]: A 3/A. § 3. pontját a 256/2023. (VI. 26.) Korm. rendelet 13. § b) pontja hatályon kívül helyezte.
 [^15]: A 3/A. § 17. pontját a 176/2019. (VII. 18.) Korm. rendelet 9. § (3) bekezdése iktatta be.
 [^16]: A 3/A. § 18. pontját a 176/2019. (VII. 18.) Korm. rendelet 9. § (4) bekezdése iktatta be.

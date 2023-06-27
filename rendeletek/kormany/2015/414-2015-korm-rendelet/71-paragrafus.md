@@ -1,3 +1,3 @@
-71. §[^221]
+71. §[^223]
 
-[^221]: A 71. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^223]: A 71. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
