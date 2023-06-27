@@ -1,0 +1,1 @@
+2. § Ez a rendelet az Európai Bizottság által jóváhagyott, a 2023. január 1-jétől 2027. december 31-ig terjedő időszakra vonatkozó Közös Agrárpolitika Stratégiai Tervben (a továbbiakban: Stratégiai Terv) szereplő beavatkozásokhoz az EMGA és a központi költségvetés társfinanszírozásával megvalósuló méhészeti célú támogatásokra alkalmazandó.
