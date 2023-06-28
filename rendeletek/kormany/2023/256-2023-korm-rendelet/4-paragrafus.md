@@ -1,3 +1,3 @@
-4. §[^4]
+4. §[^7]
 
-[^4]: A 4. § a 18. § (2) bekezdés alapján 2023. július 1-jén lép hatályba.
+[^7]: A 4. § a 18. § (2) bekezdés alapján 2023. július 1-jén lép hatályba.

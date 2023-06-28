@@ -1,11 +1,13 @@
 5. § Az R1.
 
-a) 21. § (12) bekezdésében a „kormányhivatal, a” szövegrész helyébe a „kormányhivatal, valamint a” szöveg,
+a)[^8]
 
-b)[^5]
+b)[^9]
 
-c) 34. § (4) bekezdésében az „elutasításáról,” szövegrész helyébe az „elutasításáról a jegyző vagy a járási hivatal,” szöveg
+c)[^10]
 
 lép.
 
-[^5]: Az 5. § b) pontja a 18. § (2) bekezdés alapján 2023. július 1-jén lép hatályba.
+[^8]: Az 5. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: Az 5. § b) pontja a 18. § (2) bekezdés alapján 2023. július 1-jén lép hatályba.
+[^10]: Az 5. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

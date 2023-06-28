@@ -1,5 +1,3 @@
-17. § Hatályát veszti az R4.
+17. §[^24]
 
-a) 7. § (2) bekezdése,
-
-b) 7. § (3) bekezdés b) pontja.
+[^24]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

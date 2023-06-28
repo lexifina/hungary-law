@@ -1,7 +1,3 @@
-12. § Az R3.
+12. §[^19]
 
-a) 20. § a) pontjában a „bv. szerv” szövegrész helyébe a „büntetés-végrehajtási intézet (a továbbiakban: bv. szerv)” szöveg,
-
-b) 1. mellékletében a „kérelmező következő adatait” szövegrész helyébe a „következő adatokat” szöveg
-
-lép.
+[^19]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
