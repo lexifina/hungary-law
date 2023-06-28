@@ -1,18 +1,18 @@
-1. A Kormány a Pázmány Péter Katolikus Egyetem által ellátott oktatási feladatok elősegítése céljából, a Magyar Katolikus Püspöki Konferencia részére történő ingyenes vagyonjuttatásról szóló 2020. évi XVI. törvény 1. § a)–j) pontjában meghatározott ingatlanok (a továbbiakban: Ingatlanok) oktatási, kutatási, kulturális és hitéleti célú hasznosítása érdekében
+1.[^1] A Kormány a Pázmány Péter Katolikus Egyetem által ellátott oktatási feladatok elősegítése céljából, a Magyar Katolikus Püspöki Konferencia részére történő ingyenes vagyonjuttatásról szóló 2020. évi XVI. törvény 1. § a)–j) pontjában és 1/A. § (1) bekezdésében meghatározott ingatlanok (a továbbiakban: Ingatlanok) oktatási, kutatási, kulturális és hitéleti célú hasznosítása érdekében
 
-1.1. egyetért a Pázmány Péter Katolikus Egyetem oktatási célú ingatlanjainak bővítését és fejlesztését célzó beruházás (a továbbiakban: Beruházás) koncepciójával és a Beruházás Ingatlanokon történő megvalósításának előkészítésével;
+1.1.[^2] egyetért a Pázmány Péter Katolikus Egyetem oktatási célú ingatlanjainak bővítését és fejlesztését célzó beruházás (a továbbiakban: Beruházás) koncepciójával és a Beruházás Ingatlanokon történő előkészítésével;
 
-1.2. a Beruházás előkészítésének kormányzati felelőseként a miniszterelnök általános helyettesét jelöli ki, a kiemelt budapesti fejlesztésekért és nemzetközi sporteseményekért felelős kormánybiztos (a továbbiakban: kormánybiztos) bevonásával;
+1.2.[^3] a Beruházás előkészítésének kormányzati felelőseként az építési és közlekedési minisztert jelöli ki, a miniszterelnök általános helyettese bevonásával;
 
-1.3. egyetért azzal, hogy a Beruházás
+1.3.[^4] egyetért azzal, hogy a Beruházás
 
-a) előkészítője a BFK Budapest Fejlesztési Központ Nonprofit Zrt., együttműködve a Pázmány Péter Katolikus Egyetemmel és a Magyar Katolikus Püspöki Konferenciával,
+a) előkészítője a Beruházási Ügynökség (a továbbiakban: BEÜ), együttműködve a Pázmány Péter Katolikus Egyetemmel és a Magyar Katolikus Püspöki Konferenciával,
 
-b) megvalósítója az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 4. § (7) bekezdése alapján a Beruházási Ügynökség, együttműködve a Pázmány Péter Katolikus Egyetemmel és a Magyar Katolikus Püspöki Konferenciával;
+b) megvalósítója az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 4. § (7) bekezdés a) pontja és (8) bekezdése alapján a BEÜ, együttműködve a Pázmány Péter Katolikus Egyetemmel és a Magyar Katolikus Püspöki Konferenciával;
 
 1.4. egyetért azzal, hogy a Beruházás keretében megújuló és létrejövő vagyonelemek üzemeltetője a Pázmány Péter Katolikus Egyetem legyen;
 
-1.5. egyetért azzal, hogy a Beruházás előkészítése érdekében a fenntartási és üzemeltetési modell kidolgozására, hatástanulmányra, szakvélemények, szakértői tanulmányok készítésére, tervezési program elkészítésére, költség- és időkalkuláció elkészítésére, tervpályázat lebonyolítására, településrendezési eszközök elkészítésére, vázlatterv készítésére, engedélyezési dokumentáció készítésére, engedélyeztetés lefolytatására, kivitelezési dokumentáció elkészítésére a 2020–2023. években összesen 8 924 251 714 forint kerüljön biztosításra a 6. pont szerint, azzal, hogy az előkészítési fázisokat legkésőbb 2023. június 30. napjáig kell megvalósítani;
+1.5.[^5] egyetért azzal, hogy a Beruházásnak az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet 4. § b)–f), j)–l) és n)–p) pontja szerinti feladatokra, továbbá a Beruházás megvalósítására vonatkozó közbeszerzési eljárások előkészítésére és lefolytatására, valamint a megvalósítására vonatkozó szerződések előkészítésére és megkötésére mint előkészítési fázisra a 2020–2024. években összesen 13 682 021 920 forint kerüljön biztosításra az 1.6. és 1.25. alpont szerint, azzal, hogy az előkészítési fázisokat legkésőbb 2024. szeptember 30. napjáig kell megvalósítani;
 
 1.6. felhívja a pénzügyminisztert, hogy a miniszterelnök általános helyettesének bevonásával gondoskodjon a Beruházás előkészítésének megvalósításához szükséges
 
@@ -22,7 +22,7 @@ b) 341 798 189 forint rendelkezésre állásáról a 2021. évi központi költs
 
 c) 4 550 760 980 forint rendelkezésre állásáról a 2022. évi központi költségvetés XI. Miniszterelnökség fejezetében,
 
-d) 1 172 138 814 forint rendelkezésre állásáról a 2023. évi központi költségvetés XI. Miniszterelnökség fejezetében;
+d)[^6]
 
 Felelős: pénzügyminiszter
 
@@ -46,17 +46,21 @@ Felelős: a miniszterelnök általános helyettese
 
 Határidő: az 1.6. pont b) alpontjában meghatározott forrás rendelkezésre állását követően azonnal
 
-1.9. felhívja a miniszterelnök általános helyettesét, hogy módosítsa 2022-ben az 1.6. pont c) alpontja szerinti forrás terhére az 1.1. pontban meghatározott feladat előkészítése érdekében az 1.7. pont alapján a BFK Budapest Fejlesztési Központ Nonprofit Zrt. kedvezményezett részére kiadott támogatói okiratot további 4 448 486 737 forint összegben, míg a Pázmány Péter Katolikus Egyetem kedvezményezett részére kiadott támogatói okiratot további 100 000 000 forint összegben, elszámolási kötelezettség, a fel nem használt támogatási összeg tekintetében visszafizetési kötelezettség rögzítésével;
+1.9.[^7] felhívja a miniszterelnök általános helyettesét, hogy módosítsa 2022-ben az 1.6. pont c) alpontja szerinti forrás terhére az 1.1. pontban meghatározott feladat előkészítése érdekében az 1.7. pont alapján a BFK Budapest Fejlesztési Központ Nonprofit Zrt. kedvezményezett részére kiadott támogatói okiratot további 3 558 780 610 forint összegben, míg a Pázmány Péter Katolikus Egyetem kedvezményezett részére kiadott támogatói okiratot további 80 000 000 forint összegben, elszámolási kötelezettség, a fel nem használt támogatási összeg tekintetében visszafizetési kötelezettség rögzítésével;
 
 Felelős: a miniszterelnök általános helyettese
 
 Határidő: az 1.6. pont c) alpontjában meghatározott forrás rendelkezésre állását követően azonnal
 
-1.10. felhívja a miniszterelnök általános helyettesét, hogy módosítsa 2023-ban az 1.6. pont d) alpontja szerinti forrás terhére az 1.1. pontban meghatározott feladat előkészítése érdekében az 1.7. pont alapján a BFK Budapest Fejlesztési Központ Nonprofit Zrt. kedvezményezett részére kiadott támogatói okiratot további 1 121 553 038 forint összegben, míg a Pázmány Péter Katolikus Egyetem kedvezményezett részére kiadott támogatói okiratot további 50 000 000 forint összegben, elszámolási kötelezettség, a fel nem használt támogatási összeg tekintetében visszafizetési kötelezettség rögzítésével;
+1.10.[^8] felhívja a miniszterelnök általános helyettesét, hogy a Beruházás előkészítése érdekében az 1.7. alpont alapján a Pázmány Péter Katolikus Egyetem kedvezményezett részére kiadott támogatói okiratot módosítsa
 
-Felelős: a miniszterelnök általános helyettese
+a) 2023-ban az 1.25. alpont a) pontja szerinti forrás terhére további 80 000 000 forint összegben, elszámolási kötelezettség, a fel nem használt támogatási összeg tekintetében visszafizetési kötelezettség rögzítésével;
 
-Határidő: az 1.6. pont d) alpontjában meghatározott forrás rendelkezésre állását követően azonnal
+b) 2024-ben az 1.25. alpont b) pontja szerinti forrás terhére további 60 000 000 forint összegben, elszámolási kötelezettség, a fel nem használt támogatási összeg tekintetében visszafizetési kötelezettség rögzítésével;
+
+| Felelős: | a miniszterelnök általános helyettese |
+
+| Határidő: | az a) pont tekintetében az 1.25. alpont a) pontjában meghatározott forrás rendelkezésre állását követően azonnal a b) pont tekintetében az 1.25. alpont b) pontjában meghatározott forrás rendelkezésre állását követően azonnal |
 
 1.11. felhívja az emberi erőforrások miniszterét, hogy a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter együttműködésével a Médiaszolgáltatás-támogató és Vagyonkezelő Alap (a továbbiakban: MTVA), valamint a Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.) bevonásával vizsgálja meg, hogy hogyan biztosítható az MTVA által az Ingatlanokban jelenleg folytatott tevékenység áthelyezése, és ennek biztosításához tegye meg a szükséges intézkedéseket;
 
@@ -138,21 +142,9 @@ Határidő: az a) alpont tekintetében 2020. szeptember 30.
 
 a b) alpont tekintetében 2020. december 31.
 
-1.19. felhívja a miniszterelnök általános helyettesét, hogy – az emberi erőforrások minisztere és a kormánybiztos bevonásával – az Ingatlanok közül a 36582/0/D/4 helyrajzi számú ingatlanban lévő 6. és a 36582/0/D/6 helyrajzi számú ingatlanban lévő 22. stúdiónak az épületegyüttesen belüli kiváltására, átköltöztetésére az előkészítés során különös figyelmet fordítson, törekedve azok kiemelkedő akusztikai tulajdonságainak megőrzésére;
+1.19. [^9]
 
-Felelős: a miniszterelnök általános helyettese
-
-emberi erőforrások minisztere
-
-kiemelt budapesti fejlesztésekért és nemzetközi sporteseményekért felelős kormánybiztos
-
-Határidő: a Beruházás előkészítése során
-
-1.20. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a Beruházás hatékony megvalósítása érdekében vizsgálja meg az Ingatlanokhoz kapcsolódó további ingatlanrészek megszerzésének lehetőségét, és ennek eredményéről készítsen jelentést a Kormány részére;
-
-Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
-
-Határidő: 2020. szeptember 30.
+1.20. [^10]
 
 1.21. felhívja a kormánybiztost, hogy vizsgálja meg a Budapest Diákváros – Déli Városkapu Fejlesztési Program keretén belül a Pázmány Péter Katolikus Egyetem részére kollégiumi férőhelyek biztosítását, és ennek eredményéről készítsen jelentést a Kormány részére;
 
@@ -166,6 +158,61 @@ Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: a Beruházásra vonatkozó koncepció- vagy vázlatterv elkészítését követően azonnal
 
-2.[^1]
+1.23. [^11] a Korm. határozat 1.1. alpontja szerinti feladatok teljesítése érdekében a BEÜ által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a BEÜ által vállalható kötelezettség összegét 13 308 532 654 forintban határozza meg;
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+1.24. [^12] az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében meghatározott jogkörében eljárva a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény (a továbbiakban: 2023. évi Kvtv.) 1. melléklet XLV. Állami beruházások fejezet, 1. Magasépítési beruházások cím, 1. Egyedi magasépítési beruházások alcímet a 46. Pázmány Péter Katolikus Egyetem beruházás jogcímcsoporttal egészíti ki;
+
+| Felelős: | pénzügyminiszter |
+
+| Határidő: | azonnal |
+
+1.25. [^13] felhívja a pénzügyminisztert, hogy a miniszterelnök általános helyettese és az építési és közlekedési miniszter bevonásával gondoskodjon a Beruházás előkészítésének befejezéséhez szükséges
+
+a) 80 000 000 forint biztosításáról a 2023. évi Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 30. Egyházi célú központi költségvetési hozzájárulások jogcímcsoport, 4. Egyházi működési, program és fejlesztési támogatások jogcím javára,
+
+b) 60 000 000 forint rendelkezésre állásáról a 2024. évi központi költségvetés XI. Miniszterelnökség fejezetében;
+
+| Felelős: | pénzügyminiszter a miniszterelnök általános helyettese építési és közlekedési miniszter |
+
+| Határidő: | az a) és b) pont tekintetében a felmerülés ütemében |
+
+1.26. [^14] az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva, a Korm. határozat 1.1. alpontja szerinti feladatok végrehajtása érdekében a 2023. évi központi költségvetés 1. melléklet XLV. Állami Beruházások, 1. Magasépítési beruházások cím, 1. Egyedi magasépítési beruházások alcím, 46. Pázmány Péter Katolikus Egyetem beruházás jogcímcsoport terhére vállalható éven túli kötelezettségvállalás felső korlátját a 2024. évre 3 250 000 000 forint összegben állapítja meg;
+
+1.27. [^15] felhívja az építési és közlekedési minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon az 1.24. alpont szerinti kiadási előirányzaton 3 450 000 000 forint rendelkezésre állásáról a 2023. évi Kvtv. 1. melléklet XLV. Állami Beruházások fejezet, 5. Jövőbeni beruházások tervezési előkészítése cím terhére;
+
+| Felelős: | építési és közlekedési miniszter pénzügyminiszter |
+
+| Határidő: | azonnal |
+
+1.28. [^16] felhívja az építési és közlekedési minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon az 1.23. alpont szerinti összeg 2024. évi részének rendelkezésre állásáról a 2024. évi központi költségvetés XLV. Állami Beruházások fejezetén belül;
+
+| Felelős: | építési és közlekedési miniszter pénzügyminiszter |
+
+| Határidő: | a felmerülés ütemében |
+
+1.29. [^17] felhívja az építési és közlekedési minisztert, hogy – a miniszterelnök általános helyettese bevonásával – a Beruházás megvalósítására lefolytatott feltételes közbeszerzési eljárás eredménye alapján készítsen előterjesztést a Kormány részére a Beruházás megvalósításáról, a kivitelezéshez kapcsolódó kötelezettségvállalási összeg és a kifizetések ütemezésének, valamint a Beruházás során létrejövő vagyonelemek vagyonkezelőjére és üzemeltetőjére vonatkozó javaslatának bemutatásával;
+
+| Felelős: | építési és közlekedési miniszter a miniszterelnök általános helyettese |
+
+| Határidő: | a Beruházás megvalósítását célzó feltételes közbeszerzési eljárás lezárását követően azonnal |
+
+2.[^18]
+
+[^1]: Az 1. pont nyitó szövegrésze az 1254/2023. (VI. 28.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^2]: Az 1. pont 1.1. pontja az 1254/2023. (VI. 28.) Korm. határozat 6. pontja szerint módosított szöveg.
+[^3]: Az 1. pont 1.2. pontja az 1254/2023. (VI. 28.) Korm. határozat 7. pontja szerint módosított szöveg.
+[^4]: Az 1. pont 1.3. pontja az 1254/2023. (VI. 28.) Korm. határozat 1. pontjával megállapított szöveg.
+[^5]: Az 1. pont 1.5. pontja az 1254/2023. (VI. 28.) Korm. határozat 2. pontjával megállapított szöveg.
+[^6]: Az 1. pont 1.6. pont d) alpontot az 1254/2023. (VI. 28.) Korm. határozat 9. pont a) pontja visszavonta.
+[^7]: Az 1. pont 1.9. pontja az 1254/2023. (VI. 28.) Korm. határozat 8. pontja szerint módosított szöveg.
+[^8]: Az 1. pont 1.10. pontja az 1254/2023. (VI. 28.) Korm. határozat 3. pontjával megállapított szöveg.
+[^9]: Az 1. pont 1.19. pontot az 1254/2023. (VI. 28.) Korm. határozat 9. pont b) pontja visszavonta.
+[^10]: Az 1. pont 1.20. pontot az 1254/2023. (VI. 28.) Korm. határozat 9. pont b) pontja visszavonta.
+[^11]: Az 1. pont 1.23. pontját az 1254/2023. (VI. 28.) Korm. határozat 4. pontja iktatta be.
+[^12]: Az 1. pont 1.24. pontját az 1254/2023. (VI. 28.) Korm. határozat 4. pontja iktatta be.
+[^13]: Az 1. pont 1.25. pontját az 1254/2023. (VI. 28.) Korm. határozat 4. pontja iktatta be.
+[^14]: Az 1. pont 1.26. pontját az 1254/2023. (VI. 28.) Korm. határozat 4. pontja iktatta be.
+[^15]: Az 1. pont 1.27. pontját az 1254/2023. (VI. 28.) Korm. határozat 4. pontja iktatta be.
+[^16]: Az 1. pont 1.28. pontját az 1254/2023. (VI. 28.) Korm. határozat 4. pontja iktatta be.
+[^17]: Az 1. pont 1.29. pontját az 1254/2023. (VI. 28.) Korm. határozat 4. pontja iktatta be.
+[^18]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
