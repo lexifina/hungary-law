@@ -18,7 +18,7 @@ a) a kivitelező kétséget kizáróan bizonyítja, hogy a jogellenes létesít�
 
 b) a kivitelező személye nem ismert.
 
-(7) Mentesül a vízgazdálkodási bírság megfizetése alól az a létesítő vagy üzemeltető, aki – a 45/N. § (3) bekezdésben meghatározott kivétellel – engedély nélkül vagy engedélytől eltérően létesített vagy üzemeltetett az egyes törvényeknek a polgárok biztonságát erősítő módosításáról szóló 2020. évi XXXI. törvény (a továbbiakban: Vgtv.mód3.) hatálybalépését megelőzően felszín alatti vízkivételt biztosító vízilétesítményt, ha a vízjogi fennmaradási engedélyezés iránti kérelmét 2023. december 31-ig előterjeszti.
+(7) Mentesül a vízgazdálkodási bírság megfizetése alól az a létesítő vagy üzemeltető, aki engedély nélkül vagy engedélytől eltérően létesített vagy üzemeltetett felszín alatti vízkivételt biztosító vízilétesítményt, ha a vízjogi fennmaradási engedélyezési eljárást 2023. december 31-ig kérelmezi vagy ha a vízjogi fennmaradási engedélyezési eljárást e törvény rendelkezései alapján nem kell lefolytatni.
 
 (8) Nem szabható ki vízgazdálkodási bírság
 

@@ -34,7 +34,7 @@ n) az állami tulajdonú vízi utak fenntartásának, valamint fejlesztésének 
 
 o) a vízrajzi tevékenység ellátása;
 
-p) a vízkészletek mennyiségi és minőségi számbavétele.
+p) a vízkészletek mennyiségi és minőségi számbavétele, a vízkészletvédelmi országtérkép elkészítése és felülvizsgálata,
 
 q) a közjóléti feladatellátás körében a vízitúrázás és a kerékpáros turisztikai igénybevétel alapfeltételeinek biztosítása az állami tulajdonban lévő vizek és vízilétesítmények üzemeltetése során.
 
