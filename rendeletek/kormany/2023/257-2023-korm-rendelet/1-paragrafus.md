@@ -1,1 +1,3 @@
-1. § Az egyes gazdasági tárgyú intézkedésekről szóló 471/2022. (XI. 21.) Korm. rendelet 1. § (1) bekezdésében a „2023. június 30.” szövegrész helyébe a „2023. szeptember 30.” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
