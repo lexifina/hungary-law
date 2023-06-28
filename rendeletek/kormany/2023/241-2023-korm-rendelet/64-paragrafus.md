@@ -1,0 +1,1 @@
+64. § Az 1. § (1) bekezdés a)–c) pontja szerinti programok esetén a TA projektekkel összefüggésben felmerült költségek és a kapcsolódó szakmai tevékenységek előrehaladása vonatkozásában a hazai TA partner éves beszámoló keretében nyújt tájékoztatást a monitoring bizottság részére.

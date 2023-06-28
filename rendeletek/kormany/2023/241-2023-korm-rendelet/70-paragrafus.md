@@ -1,0 +1,5 @@
+70. § (1) Az INTERREG+ rendszer használata egyedi azonosításhoz kötött. A fent hivatkozott rendszer titkosított csatornán keresztül, egyedi és titkos jelszóval érhető el.
+
+(2) A támogatást igénylő és a hazai partner felelős a kapott vagy a regisztráció során általa megadott jelszó biztonságáért és a jelszó használatával a hivatkozott rendszerben elvégzett cselekményekért.
+
+(3) Az INTERREG+ rendszerben, valamint a NAHU rendszerben a belső piacon történő elektronikus tranzakciókhoz kapcsolódó elektronikus azonosításról és bizalmi szolgáltatásokról, valamint az 1999/93/EK irányelv hatályon kívül helyezéséről szóló, 2014. július 23-i 910/2014/EU európai parlamenti és tanácsi rendelet értelmében − ide nem értve azon eseteket, amikor a minősített elektronikus aláírást az Ávr. előírja − használt elektronikus aláírások joghatása és bírósági eljárásokban bizonyítékként való elfogadhatósága nem tagadható meg kizárólag amiatt, hogy az elektronikus formátumú, vagy nem felel meg a minősített elektronikus aláírásra vonatkozó követelményeknek.

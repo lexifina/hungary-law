@@ -1,0 +1,1 @@
+20. § Az uniós támogatás és a hozzá kapcsolódó hazai társfinanszírozás terhére elszámolható költségeket euróban kell megállapítani. Az eurótól eltérő pénznemben kiállított számlán vagy egyéb, a gazdasági eseményt hitelesen dokumentáló bizonylaton szereplő összeget a határon átnyúló Interreg programban rögzített módon a partner köteles átváltani euróra.

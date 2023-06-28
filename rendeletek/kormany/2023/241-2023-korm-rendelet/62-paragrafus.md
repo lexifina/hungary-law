@@ -1,0 +1,1 @@
+62. § A külföldi TA partnerek TA projektjei magyar nemzeti társfinanszírozást nem tartalmaznak az 1. § (1) bekezdés a)–c) pontja szerinti programokban, ezért ezekben a programokban a külföldi TA partnerek részére magyar nemzeti társfinanszírozás kifizetése nem történik.

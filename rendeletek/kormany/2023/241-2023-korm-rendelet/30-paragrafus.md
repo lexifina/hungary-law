@@ -1,0 +1,29 @@
+30. § (1) A hitelesítési tevékenységre kijelölt szervezet által indított szabálytalansági vizsgálatban a szervezet vezetője a szabálytalanság-vizsgálati jelentés alapján tesz javaslatot a nemzeti hatóság vezetője részére a szabálytalansági vizsgálat lezárására. A szabálytalansági vizsgálat lezárásának időpontja a vizsgálati jelentés nemzeti hatóság általi jóváhagyásának napja. A szabálytalansági vizsgálatot a megindításától számított negyvenöt napon belül le kell zárni, amely határidőt a nemzeti hatóság egy alkalommal legfeljebb további negyvenöt nappal meghosszabbíthat.
+
+(2) A szabálytalansági vizsgálat alapján elrendelt intézkedést a nemzeti hatóság vezetője állapítja meg.
+
+(3) A hitelesítési tevékenységre kijelölt szervezet által lefolytatott szabálytalansági vizsgálat esetén a nemzeti hatóság vezetőjének jóváhagyása szükséges a hitelesítési tevékenységre kijelölt szervezet által javasolt intézkedéshez.
+
+(4) Ha a nemzeti hatóság vezetője a (3) bekezdés szerint javasolt intézkedést nem hagyja jóvá, a nemzeti hatóság vezetője
+
+a) a hitelesítési tevékenységre kijelölt szervezetet legfeljebb két alkalommal új eljárás lefolytatására kötelezheti,
+
+b) a javasolt intézkedést megváltoztathatja, vagy
+
+c) saját hatáskörben új eljárást folytathat le.
+
+(5) A szabálytalansági vizsgálat lezárulhat
+
+a) annak megállapításával, hogy nem történt szabálytalanság vagy pénzügyi hiba és a szabálytalansági vizsgálat intézkedés nélküli megszüntetését,
+
+b) költség el nem számolhatóságát,
+
+c) szabálytalanság vagy pénzügyi hiba megállapítását és pénzügyi korrekciót, továbbá
+
+d) a hazai partner részére kifizetett támogatás részleges vagy teljes visszafizetését
+
+elrendelő döntéssel.
+
+(6) A szabálytalansági vizsgálatot lefolytató szervezet az (5) bekezdés b) vagy c) pontja szerinti jogkövetkezményeket a hazai partnerre vonatkozóan állapítja meg akkor is, ha annak alapjául más személy vagy szervezet tevékenysége vagy mulasztása szolgált. A megállapítással összefüggésben elrendelt intézkedés a hazai partnert terheli.
+
+(7) A szabálytalanság-felelős az (5) bekezdés b)–d) pontja szerinti döntésről értesíti az elrendelt intézkedés végrehajtásában érintetteket.

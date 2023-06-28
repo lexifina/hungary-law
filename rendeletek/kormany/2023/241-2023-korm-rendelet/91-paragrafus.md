@@ -1,0 +1,3 @@
+91. § (1) A támogatást nyújtó adatot szolgáltat a Támogatásokat Vizsgáló Iroda részére a 651/2014/EU bizottsági rendelet 9. cikke szerinti közzététel céljából az európai területi együttműködési projektekben részt vevő vállalkozásoknál felmerült költségekhez nyújtott támogatás, a kultúrát és a kulturális örökség megőrzését előmozdító támogatás, a sportlétesítményekre és multifunkcionális szabadidős létesítményekre nyújtott támogatás és a helyi infrastruktúrára irányuló támogatás esetében az 500 000 eurónak megfelelő forintösszeget meghaladó egyedi támogatásról.
+
+(2) Az (1) bekezdés szerinti adatszolgáltatás módjára, az adatszolgáltatással érintett adatok körére és azok közzétételére vonatkozó szabályokat az Atr. 18/A–18/D. §-a határozza meg.

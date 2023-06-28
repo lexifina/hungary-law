@@ -1,0 +1,5 @@
+28. § (1) A szabálytalansági vizsgálat megindítását követően a szabálytalanság-felelős – szükség esetén – felhívja a hazai partnert a vizsgálat lefolytatásához szükséges további iratok becsatolására, lehetőséget biztosíthat a partnernek észrevételei megtételére továbbá helyszíni vizsgálat lefolytatását kezdeményezheti. Az iratok becsatolásának, az észrevételek megtételének és a helyszíni vizsgálat lefolytatásnak időtartama az ügyintézési határidőbe nem számít bele.
+
+(2) A szabálytalanság-felelős meghallgathatja az érintett személyeket, és megvizsgálhat bármely dokumentumot, körülményt, tényt, amely a gyanúval kapcsolatos tényállás tisztázásához szükséges.
+
+(3) Ha a gyanú kivizsgálásához a Közbeszerzési Döntőbizottság, más hatóság vagy bíróság előzetes döntése szükséges, a szabálytalansági vizsgálat külön döntés nélkül felfüggesztésre kerül a Közbeszerzési Döntőbizottság, más hatóság, bíróság döntésének vagy a szakvéleménynek a szabálytalansági vizsgálatot lefolytató szervezet által történő kézhezvételéig. A felfüggesztés időtartama az ügyintézési határidőbe nem számít bele.

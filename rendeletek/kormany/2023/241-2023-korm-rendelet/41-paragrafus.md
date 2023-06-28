@@ -1,0 +1,1 @@
+41. § Az irányító hatóság a rendszerszintű szabálytalanság megállapításáról, valamint a rendszerszintű szabálytalanság tudomására jutásáról az audit hatóságot és az igazoló hatóságot öt munkanapon belül értesíti.

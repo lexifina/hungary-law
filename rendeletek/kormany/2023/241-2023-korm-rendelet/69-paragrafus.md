@@ -1,0 +1,5 @@
+69. § (1) Ha az INTERREG+ rendszer, valamint a NAHU rendszer moduljainak alkalmazása egyes feladatok ellátását nem biztosítja, az adott modulban el nem végezhető feladatok, kifizetések rendezése – irányító hatóság, nemzeti hatóság vagy az igazoló hatóság által egyedileg meghatározott módon történő – dokumentálását kell biztosítani, és haladéktalanul gondoskodni kell az érintett modulokban az adatok teljes körű utólagos rögzítéséről.
+
+(2) Ha az INTERREG+ rendszer, valamint a NAHU rendszer finanszírozási modulja nem biztosítja az átutalási megbízás rögzítését, akkor – az utalást igazoló hatóság, irányító hatóság vagy nemzeti hatóság által egyedileg meghatározott módon történő dokumentálása mellett – az átutalási megbízás kiállítása az INTERREG+ rendszeren, valamint a NAHU rendszeren kívül is történhet.
+
+(3) Az 1. § (1) bekezdés a)–c) pontja szerinti programok esetén az uniós támogatás Európai Bizottságtól való igénylése és az Európai Unióval történő elszámolás benyújtása az INTERREG+ rendszerben teljeskörűen rögzített adatok alapján történhet.

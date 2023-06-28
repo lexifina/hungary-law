@@ -1,0 +1,1 @@
+36. § A 30. § (5) bekezdés b) vagy c) pontja szerinti döntésben meghatározott intézkedések végrehajtása – ide nem értve a kifizetések felfüggesztését – a jogorvoslati eljárás lezárásáig vagy érdemi vizsgálat nélküli elutasításáig nem kezdhető meg.

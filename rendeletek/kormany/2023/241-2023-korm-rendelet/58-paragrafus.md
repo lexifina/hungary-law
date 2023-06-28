@@ -1,0 +1,1 @@
+58. § Az 1. § (1) bekezdés a) és b) pontja szerinti programokban részt vevő országok által aláírt külön megállapodás alapján a közös tevékenységű TA projektek vonatkozásában a külföldi partnerországok előre leegyeztetett részletekben és határidőkig a programszámlára utalják a rájuk vonatkozó nemzeti hozzájárulás összegét.

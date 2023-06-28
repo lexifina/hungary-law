@@ -1,0 +1,1 @@
+61. § Az 59. § (2) és (3) bekezdése szerinti kifizetéseket az igazoló hatóság az 57. § (1) bekezdése szerinti jóváírás beérkezésétől számított huszonegy napon belül külön kérelem nélkül teljesíti az INTERREG+ rendszerben rögzített adatok alapján.

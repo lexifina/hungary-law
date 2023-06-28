@@ -1,0 +1,3 @@
+25. § (1) A hitelesítési tevékenységre kijelölt szervezet által indított vagy elutasított szabálytalansági vizsgálat lefolytatásának jogát a nemzeti hatóság vezetője az erről szóló döntésről való értesítést követő öt munkanapon belül magához vonhatja, amely döntésről haladéktalanul értesíti a hitelesítési tevékenységre kijelölt szervezetet.
+
+(2) A hitelesítési tevékenységre kijelölt szervezet szabálytalanság-felelőse a rendelkezésre álló eredeti dokumentumokat – azok másolatának megtartása mellett – az (1) bekezdés szerinti döntésről való értesítést követően három munkanapon belül megküldi a nemzeti hatóság részére.

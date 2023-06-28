@@ -1,0 +1,1 @@
+27. § A szabálytalanság-felelős a szabálytalansági vizsgálat lezárását és a szabálytalansági vizsgálat eredményét valamennyi program esetében rögzíti a NAHU rendszerben, az 1. § (1) bekezdés a)–c) pontja szerinti programok esetén az INTERREG+ rendszerben is.
