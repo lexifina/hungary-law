@@ -20,4 +20,4 @@ f) az e törvényben foglaltak szerint meghatározza és közzéteszi a hallgat�
 
 g) működése során biztosítja, hogy feladatainak végrehajtásában közreműködők a hallgatókkal, az oktatókkal és a felsőoktatásban dolgozókkal kapcsolatos döntéseik meghozatala során az egyenlő bánásmód és az egyenlő esélyű hozzáférés követelményét megtartsák.
 
-(2) A felsőoktatási intézménynek az alaptevékenységéhez igazodóan biztosítania kell egészségfejlesztést is beleértve a rendszeres testmozgás és sporttevékenység megszervezését, a könyvtári szolgáltatást, a tudásalapú gazdasághoz kapcsolódó pénzügyi- és vállalkozói-, az anyanyelvi, szaknyelvi ismeretek fejlesztését, lehetőséget kell teremtenie az idegen nyelvi szaknyelvi ismeretek fejlesztésére.
+(2) A felsőoktatási intézménynek az alaptevékenységéhez igazodóan biztosítania kell testi és lelki egészségfejlesztést is beleértve a rendszeres testmozgás és sporttevékenység megszervezését, a könyvtári szolgáltatást, a tudásalapú gazdasághoz kapcsolódó pénzügyi- és vállalkozói-, az anyanyelvi, szaknyelvi ismeretek fejlesztését, lehetőséget kell teremtenie az idegen nyelvi szaknyelvi ismeretek fejlesztésére.

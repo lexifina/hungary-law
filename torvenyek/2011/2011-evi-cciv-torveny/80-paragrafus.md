@@ -34,6 +34,8 @@ egészségügyi alkalmassági vizsgálatot írhat elő bármelyik képzési szin
 
 (2b) A (2) bekezdés f)–h) pontja nem alkalmazható a szabad mozgás és tartózkodás jogával rendelkező, a bevándorolt vagy a letelepedett jogállású hallgató esetében.
 
+(2c) A (2) bekezdés h) pontjában meghatározott egészségügyi alkalmassági vizsgálat elrendelése esetén az ösztöndíjprogram lebonyolító szerve, az ösztöndíjprogram megvalósításában részt vevő felsőoktatási vagy egyéb képző intézmények, valamint az ösztöndíjprogram működéséért felelős szakmai felügyeleti szerv (e § alkalmazásában a továbbiakban együtt: adatkezelők) az ösztöndíjra pályázó, illetve az ösztöndíjban részesülő személy egészségügyi alkalmassági vizsgálata céljából a pályázati eljárásban való részvétel és az ösztöndíj elnyerése érdekében a benyújtott pályázat benyújtásától az ösztöndíjas jogviszony megszűnéséig kezeli az ösztöndíjra pályázó és az ösztöndíjban részesülő személynek az egészségügyi alkalmassági vizsgálat elvégzéséhez szükséges személyes adatait. Az adatkezelők kölcsönösen továbbíthatják egymás felé a pályázó, illetve az ösztöndíjas e bekezdésben meghatározott adatait.
+
 (3) A 39. § (1) bekezdés f) pontja szerinti – a miniszter által kiírt pályázatot elnyert – személyek a miniszter által meghatározott létszámban jogosultak magyar állami (rész)ösztöndíjjal támogatott képzésben részt venni.
 
 (4) A kedvezménytörvény hatálya alatt álló – külföldi felsőoktatási intézménnyel hallgatói jogviszonyban álló – személy magyar felsőoktatási intézményben magyar állami (rész)ösztöndíjjal támogatott képzés keretében alkalmanként legfeljebb fél évig tartó részképzésben vehet részt.

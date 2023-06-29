@@ -10,7 +10,7 @@
 
 2. egészségügyi alkalmassági vizsgálat: orvosi vizsgálat, amelynek célja annak megállapítása, hogy az egyén testi adottságai és egészségi állapota alapján képes-e felkészülni a választott tevékenység ellátására, ennek során nem kerül-e veszélybe egészsége;
 
-2a. egyetemi kórház: az az egészségügyi szolgáltató, amely az egészségügyi felsőoktatási intézmény szervezeti egységeként az Eütv. alapján a működési engedélyében meghatározott ellátási területen és progresszivitási szinten járó- és fekvőbetegek diagnosztikus és terápiás szakorvosi ellátását, rehabilitációt és követéses gondozást, valamint a működési engedélyében meghatározott egyéb egészségügyi szolgáltatásokat végez, valamint közreműködik az orvos-, fogorvos-, gyógyszerész- és egészségtudományi képzéssel összefüggő gyakorlati képzési és kutatási feladatok ellátásában;
+2a.
 
 3. esti képzés munkarendje: olyan oktatásszervezési rend, mely szerint a hallgatók tanóráira a szorgalmi időszakban munkanapokon tizenhat óra után vagy a heti pihenőnapon kerül sor;
 

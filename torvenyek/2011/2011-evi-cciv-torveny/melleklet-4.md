@@ -237,27 +237,3 @@ h) a pályázó felsőoktatási intézménybe történő felvételének eredmén
 i) a pályázó hallgatói jogviszonyának állapotára vonatkozó adatok
 
 2. Az 1. pontban megjelölt adatok kezelésére jogosult
-
-a) a miniszter vagy a miniszter által a pályázat lebonyolítására kijelölt szervezet (továbbiakban: pályázatkezelő szervezet),
-
-b) az ösztöndíjrendszerhez csatlakozott helyi önkormányzat,
-
-c) az ösztöndíjat folyósító felsőoktatási intézmény.
-
-3. Az adatkezelés célja:
-
-az ösztöndíjpályázat lebonyolítása, és az ösztöndíjra való jogosultság ellenőrzése.
-
-4. Az adatkezelés időtartama:
-
-az ösztöndíj időtartamának lejártától számított 5 év.
-
-5. Az ösztöndíjrendszerrel összefüggésben kezelt személyes és különleges adatok továbbítására jogosultak köre és feltételei:
-
-a) a 2. pontban meghatározott adatkezelők kölcsönösen továbbíthatják egymás felé a pályázó 1. pontban meghatározott valamennyi adatát,
-
-b) a felsőoktatási információs rendszer működtetéséért felelős szerv a pályázatkezelő szervezetnek valamint a támogatást nyújtó helyi önkormányzatnak a pályázó felsőoktatási intézménybe történő felvételének eredményét, támogatási idejének adatát
-
-c) a felsőoktatási intézmény a pályázatkezelő szervezetnek, valamint a támogatást nyújtó helyi önkormányzatnak a hallgatói jogviszony állapotára vonatkozó adatot,
-
-d) a pályázatkezelő szervezet a felsőoktatási információs rendszer működtetéséért felelős szervnek a b) pontban meghatározott adatok lekérdezéséhez szükséges adatokat.

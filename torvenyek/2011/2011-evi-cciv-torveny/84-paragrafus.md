@@ -8,7 +8,7 @@
 
 (2) Az állami támogatás célja
 
-a) a hallgatói juttatások,
+a) a hallgatói juttatások, gyermekét nevelő hallgatók támogatása,
 
 b) a felsőoktatási intézmény 2. § (1) bekezdése szerinti alaptevékenységének
 

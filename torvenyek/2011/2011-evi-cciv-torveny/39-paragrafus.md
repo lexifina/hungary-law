@@ -32,7 +32,7 @@ h) az összevont engedéllyel rendelkező harmadik országbeli állampolgárokat
 
 (4) A felvételre jelentkező egy felvételi eljárásban kormányrendeletben meghatározott számú jelentkezést nyújthat be. Amennyiben ugyanazon szakra magyar állami (rész)ösztöndíjjal támogatott és önköltséges képzési formára egyaránt jelentkezik, az egy jelentkezésnek minősül.
 
-(4a) A hallgató és a felsőoktatási intézmény további hallgatói jogviszonyt létesíthet a központi felvételi eljáráson kívül is mesterképzési szakkal párhuzamos képzésben felvett tanárszakra.
+(4a) A hallgató és a felsőoktatási intézmény további képzési jogviszonyt létesíthet a központi felvételi eljáráson kívül is mesterképzési szakkal párhuzamos képzésben felvett tanárszakra.
 
 (4b) A hallgató a felsőoktatási intézményben az alapképzési szakjának megfelelő tanárszakon tanulmányokat folytathat, ekkor a 49. § (2) bekezdésében foglalt, a szabadon választható tárgyak mennyiségére vonatkozó korlátozást nem kell alkalmazni.
 

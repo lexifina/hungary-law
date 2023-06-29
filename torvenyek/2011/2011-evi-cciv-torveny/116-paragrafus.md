@@ -8,7 +8,7 @@
 
 (5) E törvénynek – az oktatás szabályozására vonatkozó egyes törvények módosításáról szóló 2016. évi CXXVI. törvénnyel megállapított – 52. § (6) bekezdése alapján az európai és nemzetközi üzleti jog, a kodifikátor és az összehasonlító állam- és jogtudományok mesterképzési szakon vagy a mesterfokozatot eredményező jogászképzésre épülő szakirányú továbbképzésben oklevelet szerzettek – az oklevél kiállításának időpontjától függetlenül – a „Legum Magister” vagy „Master of Laws” (rövidítve: LL. M.) cím használatára jogosultak.
 
-(6) E törvénynek – az egyes, a felsőoktatás szabályozására vonatkozó törvények módosításáról szóló 2015. évi CXXXI. törvénnyel megállapított – 28. § (1) bekezdés b) pontját, valamint 31. § (2) és (3) bekezdését a 2015. augusztus 31-én adjunktusi munkakört betöltők tekintetében 2018. szeptember 1-jétől kell alkalmazni.
+(6)
 
 (7) E törvénynek – az egyes, a felsőoktatás szabályozására vonatkozó törvények módosításáról szóló 2015. évi CXXXI. törvénnyel megállapított – 31. § (5) bekezdés a) pontja alapján a felülvizsgálatot, ellenőrzést a munkáltató első alkalommal 2016-ban folytatja le.
 
@@ -20,4 +20,4 @@
 
 (11)
 
-(12) E törvénynek – az oktatás szabályozására vonatkozó egyes törvények módosításáról szóló 2015. évi CCVI. törvénnyel megállapított – 24. § (6) bekezdése alapján a 2016. január 1-jét követő időszakra vonatkozó minősítésre tekintettel lehet vezetői illetménypótlékot megállapítani.
+(12)

@@ -26,7 +26,7 @@ d) azt a félévet, amelyet a Nemzeti Közszolgálati Egyetemről, valamint a k�
 
 e) azt a félévet, amelyet a hallgató a 39. § (4a) bekezdése szerint felvett tanári mesterszakon vett igénybe, továbbá
 
-f) a nem tanári osztatlan vagy mesterképzési szakkal párhuzamos képzésben vagy a nem tanári osztatlan vagy mesterképzési szakot követően felvett tanári mesterszakon, valamint a 4 féléves tanári mesterszakon igénybe vett félévet.
+f) a 2, 3, valamint a 4 féléves tanári mesterszakon igénybe vett félévet.
 
 (7) A magyar állami (rész)ösztöndíjjal támogatott képzésben való részvételt nem zárja ki a felsőoktatásban szerzett fokozat és szakképzettség megléte, azzal, hogy aki egy képzési ciklusban magyar állami (rész)ösztöndíjas képzésben tanulmányokat folytat, ugyanazon képzési ciklusba tartozó további (párhuzamos) képzés folytatása esetén a támogatási időből félévente a párhuzamosan folytatott állami (rész)ösztöndíjjal támogatott képzések számának megfelelő számú félévet le kell vonni.
 

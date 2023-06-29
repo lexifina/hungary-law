@@ -6,4 +6,4 @@ a) felsőoktatási szakképzés, illetve osztott képzés esetén legfeljebb egy
 
 b) osztatlan képzés esetén legfeljebb két félévig
 
-folytatott tanulmányokat magyar állami (rész)ösztöndíjjal támogatott képzésben és szakváltásra nem került sor.
+folytatott tanulmányokat magyar állami (rész)ösztöndíjjal támogatott képzésben.

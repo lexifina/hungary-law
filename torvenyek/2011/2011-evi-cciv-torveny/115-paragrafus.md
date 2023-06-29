@@ -26,7 +26,7 @@ c)
 
 (5) E törvénynek – az oktatás szabályozására vonatkozó és egyes kapcsolódó törvények módosításáról szóló 2017. évi LXX. törvénnyel megállapított – 12. § (7) bekezdés e) pontja alapján 2019. június 30-ig a szenátust meg kell választani.
 
-(6) E törvénynek – az oktatás szabályozására vonatkozó és egyes kapcsolódó törvények módosításáról szóló 2017. évi LXX. törvénnyel megállapított – 28. § (1a) bekezdése alkalmazása során azon tanársegédeket, akik 2018. szeptember 1-jéig megfelelnek a foglalkoztatási követelményrendszerben meghatározott feltételeknek és doktori fokozattal legalább három éve rendelkeznek, legkésőbb 2018. szeptember 1-jén adjunktusi munkakörbe kell átsorolni.
+(6)
 
 (7) E törvénynek – a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény módosításáról szóló 2017. évi XXV. törvénnyel (a továbbiakban: Módtv2.) megállapított – 9. § (2a) és (2b) bekezdésében, 76. § (1) és (1a) bekezdésében meghatározott feltételeket – föderatív állam esetében annak központi kormányzatával létrejött előzetes megállapodás kivételével – a 2017. szeptember 1-jén magyarországi működési engedéllyel rendelkező külföldi felsőoktatási intézménynek 2019. január 1-jéig kell teljesíteni. Föderatív állam esetén az ennek alapjául szolgáló előzetes megállapodást 2018. augusztus 31-éig kell megkötni. A feltételeket nem teljesítő külföldi felsőoktatási intézmény működési engedélyét az oktatási hivatal visszavonja és 2019. január 1-jét követően a külföldi felsőoktatási intézmény magyarországi képzésének első évfolyamára hallgató nem vehető fel azzal, hogy a 2019. január 1-jén már megkezdett magyarországi képzések változatlan feltételek mellett kifutó rendszerben – de legfeljebb a 2021/2022-es tanévben – fejezhetők be.
 
@@ -56,7 +56,7 @@ c)
 
 (20) A Zsigmond Király Főiskola 2016. augusztus 1. napjától Zsigmond Király Egyetem megnevezéssel működik.
 
-(21) A (17)–(19) bekezdés alapján létesített felsőoktatási intézmény tekintetében a konzisztórium alakuló üléséig a 13/A–13/D. §-t olyan módon kell alkalmazni, hogy a konzisztórium egyetértési jogosultságait a kancellári hatáskörben eljárni jogosult személy gyakorolja.
+(21)
 
 (22) 2017. február 1-jétől
 

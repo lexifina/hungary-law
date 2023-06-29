@@ -14,4 +14,4 @@
 
 (8) Diákotthon alapítója egyházi vagy magán felsőoktatási intézmény lehet, valamint az, aki felsőoktatási intézményt alapíthat.
 
-(9) A miniszter hivatalos kiadványként közzéteszi a miniszter által vezetett minisztérium honlapján a diákotthon minimális létesítési és működési feltételeit.
+(9) A miniszter hivatalos kiadványként közzéteszi a miniszter által vezetett minisztérium honlapján a diákotthon és a kollégium minimális létesítési és működési feltételeit.

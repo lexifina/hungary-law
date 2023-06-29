@@ -4,4 +4,4 @@
 
 (3) E törvénynek a 2012. évi CCVIII. törvénnyel megállapított 46. § (3) bekezdését és 48/C. § (2) bekezdését a 2013 szeptemberében első évfolyamon induló alap-, osztatlan, illetve mesterképzésre, felsőoktatási szakképzésre, szakirányú továbbképzésre, valamint az azt követő évfolyamokra felvett hallgatók tekintetében kell alkalmazni.
 
-(4) A doktori képzésre évente felvehető magyar állami ösztöndíjjal támogatott létszám 2000 fő.
+(4) A doktori képzésre évente felvehető magyar állami ösztöndíjjal támogatott létszám legalább 2000 fő.
