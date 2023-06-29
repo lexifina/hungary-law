@@ -1,0 +1,3 @@
+## 18. Az egyes egészségügyi, egészségbiztosítási és gyógyszerészeti tárgyú törvények módosításáról szóló 2023. évi XIX. törvény módosítása
+
+96. § Az egyes egészségügyi, egészségbiztosítási és gyógyszerészeti tárgyú törvények módosításáról szóló 2023. évi XIX. törvény 115. § (1) bekezdésének az Universitas Quinqueecclesiensis Alapítványról, az Universitas Quinqueecclesiensis Alapítvány és a Pécsi Tudományegyetem részére történő vagyonjuttatásról szóló 2021. évi XXVI. törvény 6/B. § (3) bekezdését megállapító rendelkezése a „vagyonkezelésében, valamint a Komló 5909/1 helyrajzi számú ingatlanban lévő állami tulajdonú ingó vagyontárgyak tulajdonjogát” szövegrész helyett a „vagyonkezelésében lévő állami tulajdonú ingó vagyontárgyak tulajdonjogát” szöveggel lép hatályba.

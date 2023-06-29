@@ -1,0 +1,1 @@
+28. § Az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény 32. § (6) bekezdésében a „minden letétbe helyezés” szövegrész helyébe a „minden – a 30. § szerinti – letétbe helyezés” szöveg lép.
