@@ -1,6 +1,6 @@
 14. § (1) Ha az adós gazdasági tevékenységének folytatására alapított gazdasági társaság értékesítése a 6. § (1) bekezdésében meghatározott határidőig eredménytelen, a felszámoló a társaság jogutód nélküli megszüntetése érdekében a társaság egyszerűsített végelszámolását legkésőbb a 6. § (1) bekezdésében meghatározott határidő lejártát követő 30 napon belül kezdeményezi, amelyben végelszámolóként a felszámoló, illetve a 4. § szerinti alapítók által alapított vagy tőkeemeléssel létrehozott gazdasági társaságnál a 4. § (2) bekezdése szerinti felszámoló jár el.
 
-(1a)[^13] Az (1) bekezdésben meghatározott 30 napos határidő az értékesítési eljárás 9. § (1a) bekezdése szerinti megszüntetése esetén az erről szóló döntés Cégközlönyben történő közzétételét követő napon kezdődik.
+(1a)[^16] Az (1) bekezdésben meghatározott 30 napos határidő az értékesítési eljárás 9. § (1a) bekezdése szerinti megszüntetése esetén az erről szóló döntés Cégközlönyben történő közzétételét követő napon kezdődik.
 
 (2) A felszámoló az egyszerűsített végelszámolás kezdeményezését az illetékes állami adó- és vámhatóságnak és a felszámolást elrendelő bíróságnak bejelenti. A felszámolási zárómérleg benyújtására meghatározott határidő a végelszámolás befejezéséig meghosszabbodik, és az alapító adós(ok) felszámolási eljárása a végelszámolás alatt álló gazdasági társaság törléséig nem fejezhető be.
 
@@ -14,4 +14,4 @@
 
 (7) A cégbíróság a végelszámolás befejezésekor a felszámoló elvégzett munkájával arányos végelszámolói díjat állapít meg.
 
-[^13]: A 14. § (1a) bekezdését a 232/2023. (VI. 8.) Korm. rendelet 4. §-a iktatta be.
+[^16]: A 14. § (1a) bekezdését a 232/2023. (VI. 8.) Korm. rendelet 4. §-a iktatta be.
