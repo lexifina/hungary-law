@@ -60,34 +60,15 @@
 
 ## m) az egyes beruházási szabályok veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 541/2022. (XII. 22.) Korm. rendelet 4. § (7) bekezdés b) pontjában biztosított jogkörében eljárva az a) alpont aa)–ac) pontjában foglalt fejlesztések, valamint rekonstrukció előkészítése és megvalósítása, továbbá az a) alpont ad) pontjában foglalt feladat 2024. évi finanszírozása érdekében a központi költségvetés XLV. Állami beruházások fejezet, 6. Egyes közmű és hulladékgazdálkodási beruházások cím terhére vállalható éven túli kötelezettség felső korlátját 2 410 625 443 forintban határozza meg.
 
-## 2. A Térségi fejlesztési feladatokhoz szükséges kötelezettségvállalásokról szóló 1023/2022. (I. 27.) Korm. határozat [a továbbiakban: 1023/2022. (I. 27.) Korm. határozat] 1. pontja a következő 1.16. alponttal egészül ki:
+## 2.[^1]
 
-## (A Kormány, tekintettel)
+## 3.[^2]
 
-## „1.16. a makói ipari park infrastrukturális fejlesztésének előkészítéséhez és egyes elemek ütemezett megvalósításához szükséges intézkedésekről szóló 1256/2023. (VI. 28.) Korm. határozatra”
+## 4.[^3]
 
-## (a következőkről dönt.)
+1. melléklet az 1256/2023. (VI. 28.) Korm. határozathoz[^4]
 
-## 3. Az 1023/2022. (I. 27.) Korm. határozat 4. pontja a következő d) alponttal egészül ki:
-
-## [A Kormány az Áht. 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az energiaügyi miniszter a 2023. évben]
-
-## „d) a makói ipari park infrastrukturális fejlesztésének előkészítéséhez és egyes elemek ütemezett megvalósításához szükséges intézkedésekről szóló 1256/2023. (VI. 28.) Korm. határozat végrehajtása érdekében legfeljebb 518 532 346 forint értékig”
-
-## [szabad előirányzatot meghaladó mértékben kötelezettséget vállaljon a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvénynek a Magyarország 2023. évi központi költségvetésének a veszélyhelyzettel összefüggő eltérő szabályairól szóló 613/2022. (XII. 29.) Korm. rendelet 1. mellékletével eltérően megállapított XVII. Energiaügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Térségi fejlesztési feladatok alcím terhére.]
-
-## 4. Az 1023/2022. (I. 27.) Korm. határozat 1. melléklete az 1. melléklet szerint módosul.
-
-1. melléklet az 1256/2023. (VI. 28.) Korm. határozathoz
-
-Az 1023/2022. (I. 27.) Korm. határozat 1. mellékletében foglalt táblázat a következő 16. sorral egészül ki:
-
-|  | [A | B | C | D | E | F | G | H | I | J |
-
-| 1. | Kapcsolódó kormányhatározat | 2021. évi költségvetési év (nettó forint) | 2022. évi költségvetési év (nettó forint) | 2023. évi költségvetési év (nettó forint) | 2024. évi költségvetési év (nettó forint) | 2025. évi költségvetési év (nettó forint) | 2026. évi költségvetési év (nettó forint) | 2027. évi költségvetési év (nettó forint) | 2028. évi költségvetési év (nettó forint) | Összesen (nettó forint)] |
-
-„
-
-| 16. | 1256/2023. (VI. 28.) Korm. határozat | 0 | 0 | 518 532 346 | 0 | 0 | 0 | 0 | 0 | 518 532 346 |
-
-”
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
