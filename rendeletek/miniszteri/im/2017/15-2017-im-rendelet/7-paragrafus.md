@@ -1,3 +1,3 @@
-7. §[^1]
+7. §[^1] Az ügyvédi tevékenység gyakorlására jogosultnak a 3. § (1) bekezdés b) pontjában foglaltaktól eltérően nem kell bejelentenie a 2. § (1) bekezdés c) pontjában foglalt adatban bekövetkezett változást, ha arra a területi kamarának az Alaptörvény 11. módosításából következő névváltoztatásával összefüggésben került sor. A területi kamarának az Alaptörvény 11. módosításából következő névváltoztatása nem érinti a korábban kiadott igazolvány érvényességét, ezért az igazolványt a területi kamarának erre tekintettel nem kell visszavonnia, a névváltozást az igazolvány egyéb okból történő visszavonása és új igazolvány kiállítása esetén kell figyelembe venni.
 
-[^1]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 7/2023. (VI. 28.) IM rendelet 1. §-a iktatta be.
