@@ -1,1 +1,1 @@
-2/B. § Az Alapot az Emberi Erőforrás Támogatáskezelő (a továbbiakban: kezelő szerv) kezeli. A kezelő szerv felel a bizottsági és kollégiumi döntések előkészítésének és végrehajtásának törvényességéért, valamint ellátja az Áht.-ban meghatározott feladatokat.
+2/B. § Az Alapot a Nemzeti Kulturális Támogatáskezelő (a továbbiakban: kezelő szerv) kezeli. A kezelő szerv felel a bizottsági és kollégiumi döntések előkészítésének és végrehajtásának törvényességéért, valamint ellátja az Áht.-ban meghatározott feladatokat.
