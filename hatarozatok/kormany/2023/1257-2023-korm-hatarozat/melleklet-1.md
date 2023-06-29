@@ -126,34 +126,15 @@
 
 ## s) az Áht. 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a központi költségvetés XVI. Építési és Közlekedési Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 1. Közlekedési célú fejezeti kezelésű előirányzatok alcím, 3. Országos közúthálózat felújítása jogcímcsoport javára, az e) alpontban megfogalmazott feladat megvalósítása érdekében a 2024. évre vonatkozó éven túli kötelezettségvállalás felső korlátját 1 500 000 000 forint összegben állapítja meg.
 
-## 2. A Térségi fejlesztési feladatokhoz szükséges kötelezettségvállalásokról szóló 1023/2022. (I. 27.) Korm. határozat [a továbbiakban: 1023/2022. (I. 27.) Korm. határozat] 1. pontja a következő 1.15. alponttal egészül ki:
+## 2.[^1]
 
-## (A Kormány, tekintettel)
+## 3.[^2]
 
-## „1.15. a Várpalotai Védelmi Ipari Park Komplexum megvalósítása érdekében szükséges intézkedésekről szóló 1257/2023. (VI. 28.) Korm. határozatra,”
+## 4.[^3]
 
-## (a következőkről dönt.)
+1. melléklet az 1257/2023. (VI. 28.) Korm. határozathoz[^4]
 
-## 3. Az 1023/2022. (I. 27.) Korm. határozat 4. pontja a következő c) alponttal egészül ki:
-
-## [A Kormány az Áht. 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az energiaügyi miniszter a 2023. évben]
-
-## „c) a Várpalotai Védelmi Ipari Park Komplexum megvalósítása érdekében szükséges intézkedésekről szóló 1257/2023. (VI. 28.) Korm. határozat végrehajtása érdekében legfeljebb 2 030 040 000 forint értékig”
-
-## [a szabad előirányzatot meghaladó mértékben kötelezettséget vállaljon a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 1. melléklet XVII. Energiaügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Térségi fejlesztési feladatok alcím terhére.]
-
-## 4. Az 1023/2022. (I. 27.) Korm. határozat 1. melléklete az 1. melléklet szerint módosul.
-
-1. melléklet az 1257/2023. (VI. 28.) Korm. határozathoz
-
-Az 1023/2022. (I. 27.) Korm. határozat 1. mellékletében foglalt táblázat a következő 15. sorral egészül ki:
-
-|  | [A | B | C | D | E | F | G | H | I | J |
-
-| 1. | Kapcsolódó kormányhatározat | 2021. évi költségvetési év (nettó forint) | 2022. évi költségvetési év (nettó forint) | 2023. évi költségvetési év (nettó forint) | 2024. évi költségvetési év (nettó forint) | 2025. évi költségvetési év (nettó forint) | 2026. évi költségvetési év (nettó forint) | 2027. évi költségvetési év (nettó forint) | 2028. évi költségvetési év (nettó forint) | Összesen (nettó forint)] |
-
-„
-
-| 15. | 1257/2023. (VI. 28.) Korm. határozat | 0 | 0 | 2 030 040 000 | 4 569 330 000 | 9 242 230 000 | 563 880 000 | 0 | 0 | 16 405 480 000 |
-
-”
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
