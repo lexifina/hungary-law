@@ -108,7 +108,7 @@
 
 ## IV. Hallgatói személyi törzs
 
-## A hallgatói személyi törzs a 2006. február 1-jén – kapcsolódó 2005/2006. tavaszi félévvel – folyamatban lévő, illetve az ezt követően létesített hallgatói vagy doktorjelölti jogviszonnyal rendelkezők, valamint a 2006. február 1-jén – kapcsolódó 2005/2006. tavaszi félévvel – vagy azután oklevelet szerzett személyek alábbi személyes adatait tartalmazza:
+## A hallgatói személyi törzs a 2006. február 1-jén – kapcsolódó 2005/2006. tavaszi félévvel – folyamatban lévő, illetve az ezt követően létesített hallgatói vagy doktorjelölti jogviszonnyal rendelkezők, valamint a 2006. február 1-jén vagy azután oklevelet szerzett személyek alábbi személyes adatait tartalmazza:
 
 ## 1. oktatási azonosító száma, adóazonosító jele,társadalombiztosítási azonosító jele,
 

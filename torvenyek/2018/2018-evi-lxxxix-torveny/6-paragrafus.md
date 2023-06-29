@@ -32,9 +32,9 @@ c) a Klebelsberg Központ szolgáltatja az általa kezelt, a 3. melléklet IV. r
 
 a) az állami foglalkoztatási szerv a (volt) magyar állami ösztöndíjas hallgatónak a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvényben meghatározott álláskeresőként történő nyilvántartásba vételére, valamint az álláskeresőként eltöltött időtartamra,
 
-b) a kincstár a gyermekgondozást segítő ellátásnak, a csecsemőgondozási díjnak, az örökbefogadói díjnak és a gyermekgondozási díjnak a (volt) magyar állami ösztöndíjas hallgató részére történő folyósítás időtartamára,
+b) a kincstár a gyermekgondozást segítő ellátásnak, a csecsemőgondozási díjnak, az örökbefogadói díjnak, az ápolási díjnak, a gyermekek otthongondozási díjának, a gyermeknevelési támogatásnak és a gyermekgondozási díjnak a (volt) magyar állami ösztöndíjas hallgató részére történő folyósítás időtartamára,
 
-c) az adóhatóság a (volt) magyar állami ösztöndíjas hallgatónak hazai munkaviszony létesítésére és időtartamára, a gyermekgondozást segítő ellátásnak, a csecsemőgondozási díjnak, az örökbefogadói díjnak és a gyermekgondozási díjnak a (volt) magyar állami ösztöndíjas hallgató részére történő folyósítás időtartamára, a (volt) magyar állami ösztöndíjas hallgatónak a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvényben meghatározott álláskeresőként történő nyilvántartásba vételére, valamint az álláskeresőként eltöltött időtartamra,
+c) az adóhatóság a (volt) magyar állami ösztöndíjas hallgatónak hazai munkaviszony létesítésére és időtartamára, a gyermekgondozást segítő ellátásnak, a csecsemőgondozási díjnak, az örökbefogadói díjnak, az ápolási díjnak, a gyermekek otthongondozási díjának, a gyermeknevelési támogatásnak és a gyermekgondozási díjnak a (volt) magyar állami ösztöndíjas hallgató részére történő folyósítás időtartamára, a (volt) magyar állami ösztöndíjas hallgatónak a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvényben meghatározott álláskeresőként történő nyilvántartásba vételére, valamint az álláskeresőként eltöltött időtartamra,
 
 d) az anyakönyvi nyilvántartás központi nyilvántartó szervétől a (volt) magyar állami ösztöndíjas hallgató gyermekének születési anyakönyvi kivonatára,
 

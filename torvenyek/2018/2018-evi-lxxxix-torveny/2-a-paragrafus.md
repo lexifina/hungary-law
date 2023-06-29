@@ -1,0 +1,1 @@
+2/A. § Az oktatási nyilvántartás működéséért felelős szerv az egészségügyi szolgáltatásra való jogosultság megállapítása céljából a természetes személy társadalombiztosítási azonosító jelét is kezeli az oktatási nyilvántartásban.

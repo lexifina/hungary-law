@@ -72,7 +72,7 @@ továbbíthatóak a Diákhitel Központnak.
 
 (16) A Felsőoktatási alkalmazotti személyi törzsből továbbítható – az érintetten kívül – a fenntartónak a fenntartói jogok gyakorlásához szükséges valamennyi adat; a Magyar Felsőoktatási Akkreditációs Bizottságnak a szakértői tevékenyég ellátásához szükséges valamennyi adat; a felsőoktatási intézménynek az alkalmazottjával kapcsolatos adatok.
 
-(17) A Felsőoktatási felvételi alrendszerből a felsőoktatási intézménynek a hozzá jelentkező, illetve felvett személyre vonatkozó, az adott felsőoktatási intézmény képzésével kapcsolatos valamennyi adat továbbítható.
+(17) A Felsőoktatási felvételi alrendszerből a felsőoktatási intézménynek a hozzá jelentkező, illetve felvett személyre vonatkozó, a jelentkező által a felvételi kérelemben megjelölt jelentkezési helyre vonatkozó, a jelentkezési kérelem elbírálásához szükséges valamennyi adat és dokumentum továbbítható.
 
 (18) A Felsőoktatási felvételi alrendszer a személyes adatot – ha az eljárás eredményeként hallgatói jogviszony létesítésére nem kerül sor – az adott felsőoktatási felvételi eljárás jelentkezési határidejétől számított három évig kezeli.
 

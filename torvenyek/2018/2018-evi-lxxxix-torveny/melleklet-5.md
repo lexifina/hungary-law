@@ -59,3 +59,9 @@ A magyar állami ösztöndíj feltételei teljesítésének nyilvántartása
 12. a költségmentességi kérelmének igazolására vonatkozó adat.
 
 13. örökbefogadói díj folyósításának időtartamára vonatkozó adat.
+
+14. ápolási díj folyósításának időtartamára vonatkozó adat,
+
+15. gyermekek otthongondozási díja folyósításának időtartamára vonatkozó adat,
+
+16. gyermeknevelési támogatás folyósításának időtartamára vonatkozó adat.
