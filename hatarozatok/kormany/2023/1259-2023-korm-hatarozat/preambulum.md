@@ -1,0 +1,1 @@
+A Kormány a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 6. § (3) bekezdés b) pontjában, valamint a honvédelemről és a Magyar Honvédségről szóló törvény egyes rendelkezéseinek végrehajtásáról szóló 614/2022. (XII. 29.) Korm. rendelet 15. § (2) bekezdésében foglalt feladatainak végrehajtása érdekében
