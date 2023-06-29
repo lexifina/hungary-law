@@ -2,9 +2,9 @@
 
 33. § (1) E rendeletet a 2021. február 15. napját követően indult eljárásokban kell alkalmazni.
 
-(2)[^9]
+(2)[^9] A Szupergyors Internet Program keretében elnyert GINOP-3.4.1, továbbá a kormányzati célú hírközlési hálózatok továbbfejlesztésére szolgáló GINOP-3.4.2, GINOP-3.4.3, GINOP-3.4.5, valamint az NFM-KMR 2016–2017 pályázathoz kapcsolódó használatbavételi engedély iránti kérelem mellékletei 2023. szeptember 30. napjáig a pályázati azonosító feltüntetésével az 5. melléklet szerint is benyújthatók.
 
-(3)[^10]
+(3)[^10] A (2) bekezdés szerinti eljárásban az eljárás szünetelésének nincs helye.
 
 (4)[^11]
 
@@ -28,8 +28,8 @@ a) a kérelem nem nagy sebességű elektronikus hírközlő hálózat bontásár
 
 b) a bontandó hálózat vonatozásában a Hírközlés Hálózati Nyilvántartásról szóló 21/2020. (XII. 18.) NMHH rendelet szerinti, a meglévő elektronikus hírközlő hálózatra, elektronikus hírközlési építményre és kapcsolódó eszközre vonatkozó adatszolgáltatás a kérelem benyújtásáig nem történt meg.
 
-[^9]: A 33. § (2) bekezdését a 34. § (1) bekezdés d) pontja hatályon kívül helyezte.
-[^10]: A 33. § (3) bekezdését a 34. § (1) bekezdés d) pontja hatályon kívül helyezte.
+[^9]: A 33. § (2) bekezdését a 34. § (1) bekezdés d) pontja hatályon kívül helyezte, újonnan a 3/2023. (VI. 28.) NMHH rendelet 1. §-a iktatta be.
+[^10]: A 33. § (3) bekezdését a 34. § (1) bekezdés d) pontja hatályon kívül helyezte, újonnan a 3/2023. (VI. 28.) NMHH rendelet 1. §-a iktatta be.
 [^11]: A 33. § (4) bekezdését a 34. § (1) bekezdés d) pontja hatályon kívül helyezte.
 [^12]: A 33. § (5) bekezdését a 34. § (1) bekezdés d) pontja hatályon kívül helyezte.
 [^13]: A 33. § (6) bekezdését a 34. § (1) bekezdés d) pontja hatályon kívül helyezte.
