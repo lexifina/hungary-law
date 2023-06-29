@@ -16,7 +16,7 @@ g) 47. § (6) bekezdés f) pontjában a „nem tanári osztatlan vagy mesterkép
 
 h) 48/L. § a) pontjában az „ellátás és a gyermekgondozási díj folyósításának” szövegrész helyébe az „ellátás, a gyermekgondozási díj, az ápolási díj, a gyermekek otthongondozási díja, a gyermeknevelési támogatás folyósításának” szöveg,
 
-i) 51. § (5) bekezdésében az „a tanulmányi és vizsgaszabályzatban meghatározott vezetőnek –” szövegrész helyébe az „az intézmény szabályzatában meghatározott vezetőnek, akadályoztatása esetén további vezetőknek – nevét, beosztását és” szöveg,
+i)
 
 j) 67. § (1) bekezdés d) pontjában a „nyilvántartását.” szövegrész helyébe a „nyilvántartását, továbbá” szöveg,
 
@@ -24,6 +24,4 @@ k) 84. § (2) bekezdés a) pontjában a „hallgatói juttatások,” szövegré
 
 l) 114/A. § (4) bekezdésében a „létszám” szövegrész helyébe a „létszám legalább” szöveg,
 
-m) 1. mellékletében foglalt táblázat C:55 mezőjében a „Kortárstánc” szövegrész helyébe a „Cirkuszművészeti és Kortárstánc” szöveg
-
-lép.
+m)

@@ -1,3 +1,1 @@
-4. § Az Szt. 115/P. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A Szellemi Tulajdon Nemzeti Hivatala kérelemre a szabadalmi bejelentési és kutatási, vizsgálati, valamint megadási díjak, továbbá a növényfajta-oltalmi, a használati mintaoltalmi, a formatervezési mintaoltalmi és a topográfia-oltalmára irányuló bejelentés díja alól mentességet adhat, továbbá a negyedik és az ötödik évekre szóló szabadalmi, valamint elsőtől az ötödik évekre szóló növényfajta-oltalmi és használati mintaoltalmi fenntartási díjak megfizetésére halasztást engedélyezhet, ha a természetes személy jogosult – kereseti, jövedelmi és vagyoni viszonyai folytán – azokat fedezni nem tudja; a halasztás alá eső fenntartási díjakat a hatodik évi fenntartási díjjal együtt kell megfizetni.”
+### 4. §

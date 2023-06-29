@@ -1,13 +1,13 @@
 64. § Hatályát veszti a KFItv.
 
-a) 38–40. §-a,
+a)
 
-b) 42/C. § (3) bekezdés 1. pontja,
+b)
 
-c) 42/D. § (1) bekezdése,
+c)
 
-d) 42/F. §-a,
+d)
 
-e) 43. § (1) bekezdés e) pontja,
+e)
 
-f) 43. § (2) bekezdése.
+f)

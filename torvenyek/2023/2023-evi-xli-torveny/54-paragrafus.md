@@ -1,11 +1,1 @@
-54. § A KFItv. 41. és 42. §-a helyébe a következő rendelkezések lépnek:
-
-„41. § A minősítés során a kutatás-fejlesztési tevékenységgel kapcsolatos szakértői feladatok ellátására a Kormány által kijelölt szerv az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény és e törvény rendelkezései szerint biztosítja az elektronikus ügyintézést.
-
-42. § (1) Az adóhatóság az ellenőrzése során – az adóigazgatási rendtartásról szóló törvény rendelkezései alapján – szakértőként megkeresheti a kutatás-fejlesztési tevékenységgel kapcsolatos szakértői feladatok ellátására a Kormány által kijelölt szervet.
-
-(2) Más hatóság vagy bíróság általi kirendelés, továbbá harmadik személy megkeresése alapján a kutatás-fejlesztési tevékenységgel kapcsolatos szakértői feladatok ellátására a Kormány által kijelölt szerv szakértői véleményt ad a kirendelésben vagy a megkeresésben megjelölt tevékenységek kutatás-fejlesztési szempontú minősítésével összefüggő kérdésben, ideértve a kutatás-fejlesztési tevékenységnek minősített projektben az alapkutatási, alkalmazott kutatási vagy kísérleti fejlesztési tevékenységek arányát, valamint annak meghatározását is, hogy az adott tevékenységet az érintett személy a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 4. § 32. pontja szerinti saját tevékenységi körében végzi-e.
-
-(3) Az (1) és (2) bekezdés szerinti eljárásban a kutatás-fejlesztési tevékenységgel kapcsolatos szakértői feladatok ellátására a Kormány által kijelölt szerv a feltett kérdések és benyújtott iratok alapján alakítja ki a szakértői véleményt, a tények megállapítására nem végez külön bizonyítást és nem tart helyszíni szemlét. Szükség esetén azonban további adatok szolgáltatását kérheti a megkereső bíróságtól, hatóságtól vagy harmadik személytől.
-
-(4) Ha az (1) és a (2) bekezdés szerinti eljárásban a szakértői vélemény kialakításához olyan különleges szakismeretre is szükség van, amellyel a kutatás-fejlesztési tevékenységgel kapcsolatos szakértői feladatok ellátására a Kormány által kijelölt szerv nem rendelkezik, akkor a megfelelő szakértelemmel bíró harmadik személy közreműködését is igénybe veheti.”
+### 54. §

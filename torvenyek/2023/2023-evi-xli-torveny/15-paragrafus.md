@@ -1,3 +1,1 @@
-15. § Az Fmtv. 63. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A mintaoltalmi perekre a szabadalmi perek szabályait kell alkalmazni, azzal az eltéréssel, hogy ha a mintaoltalom bitorlása miatt indított perben az alperes a perfelvételt lezáró végzés meghozataláig igazolja, hogy a mintaoltalom megsemmisítése iránt eljárást indított a Szellemi Tulajdon Nemzeti Hivatala előtt, a peres eljárást a bíróság a megsemmisítési eljárás jogerős befejezéséig felfüggeszti, azzal, hogy ha a mintaoltalom jogosultja az elsőfokú ítélet meghozatalát megelőző tárgyalás berekesztéséig rá nézve kedvező oltalmazhatósági véleményt nyújt be a bíróságon, a felfüggesztés nem kötelező.”
+### 15. §
