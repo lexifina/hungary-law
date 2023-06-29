@@ -1,10 +1,10 @@
 1. A Kormány a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 30. § (1) bekezdése alapján, a hatékony, biztonságos és gazdaságos gyógyszerterápiás elvek érvényesítésével, a járóbeteg-ellátás keretében támogatott gyógyszerek felülvizsgálata alapelveinek meghatározásával és végrehajtásával kapcsolatos feladatok összehangolására – javaslattevő, véleményező és tanácsadó testületként – Országos Gyógyszerterápiás Tanácsot (a továbbiakban: OGYTT) hoz létre.
 
-2. Az OGYTT vezetője az elnök, munkáját titkár segíti. Az elnök az egészségügyért felelős miniszter által kijelölt, orvos végzettségű állami vezető. A titkár az egészségügyért felelős miniszter által kijelölt, gyógyszerész végzettségű személy.
+2.[^1] Az OGYTT vezetője az elnök, munkáját titkár segíti. Az elnöki, valamint a titkári feladatok ellátására az egészségügyért felelős miniszter csak orvos, fogorvos vagy gyógyszerész végzettségű személyt jelölhet ki.
 
 3. Az OGYTT tagjai az egészségügyi szakmai kollégium elnöke által meghatározott szakmai kollégiumi tagozatok OGYTT elnöke által felkért, és az egészségügyért felelős miniszter által jóváhagyott tagjai.
 
-4.[^1] Az OGYTT ülésein tanácskozási joggal állandó meghívottként részt vesz az egészségügyért felelős miniszter által vezetett minisztérium, a Nemzeti Egészségbiztosítási Alapkezelő, valamint az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet által delegált egy-egy képviselő. Az elnök tanácskozási joggal rendelkező más személyeket is meghívhat az OGYTT üléseire.
+4.[^2] Az OGYTT ülésein tanácskozási joggal állandó meghívottként részt vesz az egészségügyért felelős miniszter által vezetett minisztérium, a Nemzeti Egészségbiztosítási Alapkezelő, valamint az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet által delegált egy-egy képviselő. Az elnök tanácskozási joggal rendelkező más személyeket is meghívhat az OGYTT üléseire.
 
 5. Az OGYTT tevékenységének célja a támogatáspolitikai átalakítások folyamatának koordinálása, illetve a gyógyszer támogatási rendszer felülvizsgálatának elősegítése.
 
@@ -24,11 +24,12 @@ e) a hatékony, biztonságos és gazdaságos gyógyszerterápiás elvek érvény
 
 8. Az OGYTT működésének részletes szabályait az ügyrend tartalmazza. Az OGYTT ügyrendjét és munkatervét – a tagok véleményének kikérését követően – az elnök állapítja meg.
 
-9.[^2] Az OGYTT működési feltételeiről az egészségügyért felelős miniszter által vezetett minisztérium gondoskodik. Az OGYTT tagjai díjazásban nem részesülnek.
+9.[^3] Az OGYTT működési feltételeiről az egészségügyért felelős miniszter által vezetett minisztérium gondoskodik. Az OGYTT tagjai díjazásban nem részesülnek.
 
 10. Az OGYTT-t 2012. január 31-éig kell létrehozni.
 
 11. Ez a határozat a közzétételét követő napon lép hatályba.
 
-[^1]: A 4. pont az 1853/2016. (XII. 27.) Korm. határozat 11. pontjával megállapított szöveg.
-[^2]: A 9. pont az 1853/2016. (XII. 27.) Korm. határozat 12. pontja szerint módosított szöveg.
+[^1]: A 2. pont az 1252/2023. (VI. 28.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 4. pont az 1853/2016. (XII. 27.) Korm. határozat 11. pontjával megállapított szöveg.
+[^3]: A 9. pont az 1853/2016. (XII. 27.) Korm. határozat 12. pontja szerint módosított szöveg.
