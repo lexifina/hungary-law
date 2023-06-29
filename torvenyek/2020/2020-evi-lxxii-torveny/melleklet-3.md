@@ -117,3 +117,23 @@ Budapest
 |
 
 kivett épület
+
+|
+
+5
+
+|
+
+Budapest
+
+|
+
+36781/0/A/3
+
+|
+
+1/1
+
+|
+
+egyéb helyiség

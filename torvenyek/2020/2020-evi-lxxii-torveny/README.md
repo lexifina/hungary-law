@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-72-00-00
 | 2021-06-29 | 2021. évi CI. törvény | 2020-72-00-00.4 |
 | 2021-12-01 | 2021. évi CXIII. törvény | 2020-72-00-00.5 |
 | 2022-03-21 | 2022. évi I. törvény | 2020-72-00-00.6 |
+| 2023-06-29 | 2023. évi XLI. törvény | 2020-72-00-00.7 |
