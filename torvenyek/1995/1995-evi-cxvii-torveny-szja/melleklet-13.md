@@ -9,5 +9,3 @@ A vállalkozói jövedelem szerinti adózást alkalmazó egyéni vállalkozó a 
 9. A 250 főnél kevesebb alkalmazottat foglalkoztató egyéni vállalkozó hitelszerződés (ideértve a pénzügyi lízinget is) alapján kizárólag üzemi célt szolgáló tárgyi eszköz beszerzéséhez, előállításához pénzügyi intézménytől igénybe vett hitel kamata alapján adókedvezményt vehet igénybe.
 
 10. Az adókedvezmény a 9. pontban meghatározott hitelre az adóévben fizetett kamat teljes összege a hitelszerződés megkötésének időpontjától függetlenül.
-
-11.
