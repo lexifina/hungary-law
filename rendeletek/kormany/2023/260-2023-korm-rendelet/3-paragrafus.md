@@ -1,0 +1,1 @@
+3. § A 2. § szerinti kötelezettségvállalás esetén – az Áht. 37. §-ában foglaltaktól eltérően – a pénzügyi ellenjegyzőnek kizárólag arról kell meggyőződnie, hogy a kötelezettségvállalás nem sérti a gazdálkodásra vonatkozó szabályokat.
