@@ -1,0 +1,246 @@
+# A Kormány 271/2023. (VI. 29.) Korm. rendelete
+
+Magyar Közlöny 2023. évi 95. szám, 2023. június 29. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/Zx35RFBdD4JEF6wMil2v6495f6396fd53/dokumentumok/884d3cdccf2c86b46a7588f825f717b459523fb4/letoltes)
+
+---
+
+A Kormány 271/2023. (VI. 29.) Korm. rendelete
+a pénzügyi biztosíték, a céltartalék képzésére kötelezettek köréről, a pénzügyi biztosíték, a céltartalék
+formájáról és mértékéről, felhasználásának feltételeiről, elszámolásának és nyilvántartásának szabályairól,
+valamint a környezetvédelmi biztosítás részletes szabályairól
+A Kormány a hulladékról szóló 2012. évi CLXXXV. törvény 88. § (1) bekezdés 19. pontjában kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. A rendelet hatálya
+1. §
+E rendelet hatálya kiterjed
+a) a hulladéklerakással, valamint a hulladéklerakóval kapcsolatos egyes szabályokról és feltételekről szóló
+miniszteri rendeletben meghatározott hulladéklerakót üzemeltetőre,
+b) a hulladékgazdálkodási engedélyhez vagy a nyilvántartásba vételhez kötött tevékenységet végző
+gazdálkodó szervezetre,
+c) a hulladékgazdálkodási közszolgáltatási résztevékenység végzésére jogosult koncessziós társaságra,
+d) az e rendelet szerinti hulladéktermelőkre,
+e) a hulladékgazdálkodási tevékenységgel összefüggő környezeti teher okozójára.
+
+2. Pénzügyi biztosíték
+2. § (1) A pénzügyi biztosíték formái:
+a) biztosítási szerződés,
+b) biztosítási szerződés alapján kiállított – készfizető kezességvállalást tartalmazó – kötelezvény,
+c) a hitelintézet által nyújtott bankgarancia,
+d) hitelintézetnél letétként elhelyezett, elkülönítetten kezelt és zárolt pénzösszeg (a továbbiakban együtt:
+pénzügyi letét) vagy
+e) biztosító által nyújtott kezesség, garancia.
+(2) A pénzügyi biztosíték képzésére kötelezett a pénzügyi biztosíték formáját maga választja meg.
+(3) Az (1) bekezdés d) pontja vonatkozásában pénzügyi biztosítékként olyan pénzügyi letét fogadható el, amelyet
+a pénzügyi letétet kezelő hitelintézet elkülönített és zárolt számlán vezet, valamint tart nyilván.
+(4) Az (5) bekezdés kivételével pénzügyi biztosíték olyan hitelintézettől vagy biztosítótól fogadható el, amelynek
+a székhelye az Európai Gazdasági Térség valamely államában vagy az Egyesült Királyságban van, és a hitelintézet
+vagy biztosító székhelye szerinti állam pénzügyi közvetítő rendszerek felügyeletét ellátó hatósága a hitelintézetnek
+vagy a biztosítónak e tevékenység végzését engedélyezte.
+(5) Olyan hitelintézet vagy biztosító által nyújtott pénzügyi biztosíték, amelynek székhelye nem az Európai Gazdasági
+Térség valamely államában vagy az Egyesült Királyságban van, kizárólag akkor fogadható el, ha azt az Európai
+Gazdasági Térség valamely államában székhellyel rendelkező hitelintézet vagy biztosító viszontgarantálja.
+(6) Ha a pénzügyi biztosíték nem kerül felhasználásra, és felmerül a biztosítékadásra kötelezett részéről a pénzügyi
+biztosíték szolgáltatására kötött szerződés megszüntetése, ehhez a hulladékgazdálkodási hatóság hozzájárulása
+szükséges.
+(7) A pénzügyi biztosíték szolgáltatására kötött szerződés megszüntetése esetén – a biztosíték képzési kötelezettség
+megszűnése kivételével – gondoskodni kell a pénzügyi biztosítékot nyújtó új szerződés megkötéséről.
+(8) A hulladékgazdálkodási hatóság nyilvántartást vezet a pénzügyi biztosíték képzésére kötelezettekről, a képzett
+pénzügyi biztosíték formájáról és mértékéről.
+3. § (1) A hulladékról szóló 2012. évi CLXXXV. törvény (a továbbiakban: Ht.) 70. § (1) bekezdése szerinti gazdálkodó
+szervezet a pénzügyi biztosíték mértékét az 1. melléklet szerinti képlet alapján állapítja meg, és ezen összegnek
+megfelelő pénzügyi biztosítékot képez.
+(2) A hulladékgazdálkodási engedély módosítása iránti kérelem esetén a hulladékgazdálkodási hatóság állapítja meg
+az 1. melléklet szerint a pénzügyi biztosíték mértékét, ha
+a) az engedélymódosítási kérelem alapján a pénzügyi biztosíték mértékében történő változást eredményező
+módosítás történik, és
+b) nem az e rendelet szerinti pénzügyi biztosíték került megadásra.
+(3) Ha a biztosíték képzésére kötelezett több tevékenységet végez, vagy több létesítményt üzemeltet, akkor a biztosíték
+képzése kötelezettség engedélyenként külön-külön terheli.
+4. § (1) A pénzügyi biztosítékból kizárólag a hulladékgazdálkodási hatóság hozzájárulásával és a teljesítési igazolás
+kiállítását követően történhet kifizetés.
+(2) A hulladékgazdálkodási hatóság megállapítja
+a) a pénzügyi biztosíték felhasználásra jogosult személyét,
+b) a pénzügyi biztosíték felhasználás módját, ütemezését,
+c) a pénzügyi biztosíték felhasználásának indokát.
+(3) A pénzügyi biztosítéknak a biztosíték képzésére kötelezett által történő felhasználása során a biztosíték terhére
+kifizetés az előírt tevékenység elvégzését követően, az általános forgalmi adóról szóló törvénynek megfelelően
+kiállított számla vagy egyéb számviteli bizonylat alapján, közvetlenül a számla vagy a bizonylat kiállítójának
+történhet.
+
+3. Céltartalék
+5. § (1) A hulladéklerakó üzemeltetője a hulladéklerakó működése során esetlegesen bekövetkező környezetkárosodás
+felszámolására, valamint a hulladéklerakással, valamint a hulladéklerakóval kapcsolatos egyes szabályokról
+és feltételekről szóló miniszteri rendeletben meghatározott előzetes rekultivációs terv szerint becsült
+környezetvédelmi költségekkel legalább azonos összegű céltartalék képzésére köteles.
+(2) A hulladéklerakó üzemeltetőjének a céltartalék összegét évente a Központi Statisztikai Hivatal szerinti inflációs
+rátával emelt összegben kell újra képeznie.
+(3) A hulladéklerakó rekultivációjára és utógondozására képzett céltartalékot a hulladéklerakó üzemeltetője
+az előzetes rekultivációs terv maradéktalan megvalósítására használhatja fel a tervezett tevékenységeknek
+a hulladékgazdálkodási hatóság általi jóváhagyását követően.
+(4) A hulladékgazdálkodási hatóság nyilvántartást vezet a céltartalék képzésére kötelezettekről és a képzett céltartalék
+mértékéről.
+(5) A hulladékgazdálkodási közszolgáltatási tevékenység végzésére jogosult koncessziós társaság a Ht. 41. §
+(4) bekezdése szerinti választása alapján 10 millió forint éves aggregált összegű céltartalékot képez.
+4. Környezetvédelmi biztosítás
+6. §
+A Ht. 71. § a) pontja szerinti hulladéktermelő gazdálkodó szervezet legalább 10 millió forint összegben köteles
+környezetvédelmi biztosítást kötni, ha a telephelyén a tárgyévben képződött és birtokolt hulladék összes
+mennyisége
+a) veszélyes hulladék esetén a 200 kg-ot,
+b) nem veszélyes hulladék esetén – a c) pontban foglaltak kivételével – a 2000 kg-ot vagy
+c) nem veszélyes építési-bontási hulladék esetén az 5000 kg-ot
+meghaladja.
+7. §
+A Ht. 71. § b) pontja szerinti gazdálkodó szervezet a környezetvédelmi biztosítás összegét a 2. mellékletben szereplő
+képlet alapján állapítja meg.
+8. § (1) A környezetvédelmi biztosítási szerződésnek tartalmaznia kell, hogy az a szerződő fél tevékenységével okozott,
+előre nem látható környezeti károk felszámolásának finanszírozására szolgál.
+(2) A (3) bekezdés kivételével olyan környezetvédelmi biztosítás fogadható el, amelynek a székhelye az Európai
+Gazdasági Térség valamely államában vagy az Egyesült Királyságban van, és a biztosító székhelye szerinti állam
+pénzügyi közvetítő rendszerek felügyeletét ellátó hatósága a biztosítónak e tevékenység végzését engedélyezte.
+(3) Olyan biztosító által nyújtott környezetvédelmi biztosítás, amelynek székhelye nem az Európai Gazdasági Térség
+valamely államában vagy az Egyesült Királyságban van, kizárólag akkor fogadható el, ha azt az Európai Gazdasági
+Térség valamely államában székhellyel rendelkező biztosító viszontgarantálja.
+(4) A környezetvédelmi biztosítás kötésére kötelezett a biztosítást úgy köteles megkötni, hogy a kockázatviselés
+a tevékenység vagy üzemeltetés megkezdésének időpontjára megkezdődjön.
+(5) Ha a környezetvédelmi biztosításra kötelezett több engedély alapján több hulladékgazdálkodási tevékenységet is
+végez, akkor a környezetvédelmi biztosítási kötelezettség engedélyenként külön-külön terheli.
+(6) A környezetvédelmi biztosítás kötésére kötelezett a káresemény bekövetkeztéről haladéktalanul tájékoztatja
+a hulladékgazdálkodási hatóságot.
+(7) A hulladékgazdálkodási hatóság a (6) bekezdés szerinti tájékoztatás kézhezvételét követő 30 napon belül
+állapítja meg, hogy az okozott kár felszámolására a környezetvédelmi biztosítás terhére kifizetés teljesíthető.
+(8) A környezetvédelmi biztosításra kötelezett a környezetvédelmi biztosítás felhasználása esetén – a kárelhárítás
+befejezését követő 8 napon belül – tájékoztatja a hulladékgazdálkodási hatóságot a kárelhárítás módjáról
+és a felhasznált környezetvédelmi biztosítás mértékéről.
+(9) A környezetvédelmi biztosítási kötelezettség megszűnik, ha
+a) a hulladékgazdálkodási engedélyhez vagy nyilvántartásba vételhez kötött tevékenység megszüntetésére sor
+került, és a hulladékgazdálkodási hatóság megállapításai alapján környezetvédelmi és hulladékgazdálkodási
+kötelezettség nem maradt fenn, vagy
+b) a környezetvédelmi biztosításra kötelezett szervezet igazolja a jogutódja környezetvédelmi biztosításának
+meglétét.
+
+(10) A környezetvédelmi biztosításkötési kötelezettség megszűnését a hulladékgazdálkodási hatóság állapítja meg.
+(11) A hulladékgazdálkodási közszolgáltatási tevékenység végzésére jogosult koncessziós társaság
+a Ht. 41. § (4) bekezdése szerinti választása alapján 10 millió forint éves aggregált limittel rendelkező
+környezetvédelmi biztosítást köt.
+9. § (1) A Ht. 71. § c) pontja szerinti gazdálkodó szervezetnek a környezetvédelmi biztosítással egyenértékű pénzügyi
+garanciával kell rendelkeznie.
+(2) A Ht. 71. § c) pontja szerinti gazdálkodó szervezet tevékenysége során felmerülő környezeti kár bekövetkezése
+esetén az országos hulladékgazdálkodási hatóság jár el a biztosítási összeg kifizetésével kapcsolatban.
+5. Záró rendelkezések
+10. §
+Ez a rendelet 2024. január 1-jén lép hatályba.
+11. §
+Az e rendeletben foglaltakat a rendelet hatálybalépését követően induló hulladékgazdálkodási engedélyezési
+eljárásokban és 3. § (2) bekezdése szerinti hulladékgazdálkodási engedélymódosítási eljárásokban kell alkalmazni.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet a 271/2023. (VI. 29.) Korm. rendelethez
+A pénzügyi biztosíték meghatározásának módja
+1. A pénzügyi biztosíték kiszámítása az alábbi képlet szerint történik:
+B=A*K
+Ahol
+1.1. B: a pénzügyi biztosíték mértéke,
+1.2. A: az alap pénzügyi biztosíték összege, amelynek összege 1 000 000 Ft,
+1.3. K: a kockázati tényező.
+2. A kockázati tényező kiszámítása az alábbi képlet szerint történik:
+K=(V1*T
+
+)+(V2*T
+
+)
+Ahol
+2.1. K: a kockázati tényező,
+2.2. V: a veszélyességi tényező,
+2.3. T: az egyidejűleg a telephelyen tárolható hulladékok összmennyisége.
+3. A V veszélyességi tényező meghatározásának módja a tevékenységbe bevonni kívánt hulladék jellege alapján:
+A B
+1. A tevékenységbe bevonni kívánt hulladék jellege Veszélyességi tényező (V)
+2. nem veszélyes hulladék V=V
+
+értéke: 1
+3. veszélyes hulladék V=V
+
+értéke: 10
+4. A T szorzó meghatározásának módja, a telephelyen egyidejűleg tárolható hulladékok mennyisége alapján:
+4.1. Nem veszélyes hulladék esetén
+A B
+1.
+A telephelyen egyidejűleg tárolható nem veszélyes hulladékok
+mennyisége (tonna)
+T szorzó (T= T
+
+)
+2. 0–0,9 1
+3. 1–9,9 1,5
+
+4. 10–99,9 2
+5. 100–999 2,5
+6. 1000 tonna vagy felette 3
+4.2. Veszélyes hulladék esetén
+A B
+1.
+A telephelyen egyidejűleg tárolható veszélyes hulladékok
+mennyisége (tonna)
+T szorzó (T= T
+
+)
+2. 0–0,9 1
+3. 1–9,9 1,5
+4. 10–99,9 2
+5. 100–999 2,5
+6. 1000 tonna vagy felette 3
+4.3. Abban az esetben, amennyiben adott jellegű hulladék nem kerül tárolásra a telephely területén a T
+
+vagy T
+
+értéke = 0
+4.4. Ha a hulladékgazdálkodási tevékenység végzése során saját telephelyre adott hulladékgazdálkodási
+engedély alapján hulladékbeszállítás nem történik, azokban az esetekben a pénzügyi biztosíték mértéke
+megegyezik:
+4.4.1. nem veszélyes hulladékok esetében a pénzügyi biztosíték alapösszegével,
+4.4.2. veszélyes hulladékok esetében a pénzügyi biztosíték alapösszegének 200%-ával.
+2. melléklet a 271/2023. (VI. 29.) Korm. rendelethez
+A környezetvédelmi biztosítás meghatározásának módja a Ht. 71. § b) pontja alá tartozó gazdálkodó
+szervezetek esetében
+1. A környezetvédelmi biztosítás összegét az alábbi képlet szerint kell meghatározni:
+B=A*V*T
+Ahol
+1.1. B: a környezetvédelmi biztosítás minimális összege,
+1.2. A: alapérték, amelynek összege: tízmillió forint,
+1.3. V: veszélyességi szorzó,
+1.4. T: területi szorzó.
+2. A V veszélyességi szorzó meghatározásának módja a tevékenységek veszélyességi besorolása alapján:
+A B
+1.
+Hulladékgazdálkodási engedélyhez vagy nyilvántartásba vételhez kötött
+tevékenységek
+Veszélyességi szorzó
+2.
+Nem veszélyes hulladék, gyűjtése, szállítása, kereskedelme,
+közvetítése
+
+3. Nem veszélyes hulladék hasznosítása, előkezelése 1,5
+4.
+Nem veszélyes hulladékok ártalmatlanítása (a hulladéklerakók
+kivételével)
+
+5.
+Veszélyes hulladék gyűjtése, szállítása, kereskedelme,
+közvetítése
+
+6. Veszélyes hulladék hasznosítása, előkezelése 3,5
+7.
+Veszélyes hulladékok ártalmatlanítása (a hulladéklerakók
+kivételével)
+
+3. A T területi szorzó meghatározásának módja
+3.1. T=2; ha a létesítmény üzemeltetésére védett természeti területen, védett természeti területnek nem
+minősülő, európai közösségi jelentőségű természetvédelmi rendeltetésű területen (Natura 2000 területen)
+vagy vízbázis védelmi területen kerül sor.
+3.2. T=1,5; ha a létesítmény üzemeltetésére a 3.1. alpontban nem meghatározott országos ökológiai hálózat
+magterületén vagy az ökológiai folyosók területén kerül sor.
+3.3. T=1; minden más esetben.
+4. Ha az engedélykérelmet benyújtó az adott engedélykérelem alapján több, a 2. pontban foglalt táblázatban szereplő
+tevékenységet kíván végezni, akkor az 1. pontban szereplő képlet által kiszámított legmagasabb biztosítási összegre
+köteles környezetvédelmi biztosítást kötni.
