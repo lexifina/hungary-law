@@ -12,4 +12,6 @@ b) a tudományos fokozat megszerzésének követelményei megfelelnek vagy kieg�
 
 (2) Ha a kérelmező képzése és a megfelelő hazai képesítéshez vezető képzés között alapvető különbség van, az eljáró hatóság a külföldi tudományos fokozat honosítását feltételekhez (doktori szigorlat, a doktori értekezés megvédése stb.) kötheti.
 
+(2a) Az eljáró hatóság a 14/A. § (4) bekezdés a) pontjában foglaltaktól eltekinthet, amennyiben a tudományos fokozat honosítására foglalkoztatási célból kerül sor.
+
 (3) Az eljáró hatóság a tudományos fokozat honosításáról rendelkező határozatban feljogosítja a kérelmezőt a doktori cím használatára.

@@ -27,3 +27,5 @@ f) az ápoló, az okleveles kiterjesztett hatáskörű ápoló, az orvos, a fogo
 (4) Az (1) bekezdés rendelkezéseitől eltérően a külföldi oklevél által tanúsított szakképzettség a hazai osztatlan mesterképzésben megszerezhető szakképzettségként ismerhető el, ha a külföldi oklevél végzettségi szintje a hazai felsőoktatási intézményben megszerezhető alapfokozat végzettségi szintjével egyenértékű, feltéve, hogy a külföldi képzés legalább ötéves időtartamú.
 
 (5) A kérelmező kérheti külföldi oklevele által tanúsított szakképzettsége egyszakos hazai tanári szakképzettségként történő elismerését is.
+
+(6) A kérelmező kérheti külföldi csecsemő- és kisgyermeknevelői, óvodapedagógus, tanítói és tanári oklevele által tanúsított szakképzettsége elismerését olyan módon is, hogy az egy adott nemzetiségi vagy idegen nyelven való oktatásra, illetve nevelésre jogosítsa fel.

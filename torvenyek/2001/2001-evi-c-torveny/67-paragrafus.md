@@ -2,11 +2,13 @@
 
 a) jelölje ki a külföldi bizonyítványok és oklevelek elismeréséért, a hazai bizonyítványokról, oklevelekről és a hazai szakmai gyakorlatról szóló hatósági bizonyítvány kiállításáért felelős szervet vagy szerveket, az előzetes ellenőrzést végző hatóságot vagy hatóságokat, a 4/A. §-ban meghatározott segítségnyújtó központot, a riasztási mechanizmusban közreműködő hatóságokat és az európai szakmai kártya létrehozásáért felelős hatóságokat,
 
-b) állapítsa meg azon szabályozott szakmák körét, amelyek esetében a Magyarország területén határon átnyúló szolgáltatást nyújtó a szolgáltatásnyújtást megelőzően bejelentésre kötelezett, illetve azon szakmák körét, amelyek előzetes ellenőrzés alá esnek, továbbá az ilyen bejelentések személyes adatot nem tartalmazó kötelező adattartalmát, a bejelentés megújításának szabályait, a bejelentéssel együtt benyújtandó dokumentumok körét, továbbá a riasztási mechanizmus alá tartozó képesítéseket, valamint közzétegye azon szakmák felsorolását, amelyek esetében az európai szakmai kártyát bevezették, továbbá
+b) állapítsa meg azon szabályozott szakmák körét, amelyek esetében a Magyarország területén határon átnyúló szolgáltatást nyújtó a szolgáltatásnyújtást megelőzően bejelentésre kötelezett, illetve azon szakmák körét, amelyek előzetes ellenőrzés alá esnek, továbbá az ilyen bejelentések személyes adatot nem tartalmazó kötelező adattartalmát, a bejelentés megújításának szabályait, a bejelentéssel együtt benyújtandó dokumentumok körét, továbbá a riasztási mechanizmus alá tartozó képesítéseket, valamint közzétegye azon szakmák felsorolását, amelyek esetében az európai szakmai kártyát bevezették,
 
 c) határozza meg az elismerési és honosítási eljárásban a kérelemmel benyújtandó dokumentumok körét, e dokumentumok hiteles fordítására és hiteles másolatára vonatkozó szabályokat, a külföldön kiállított okiratok felhasználására, a nemzetközi jogsegélyre vonatkozó szabályokat,
 
 d) közzétegye az 53/A. § (1) bekezdése szerinti szakmai tevékenységek felsorolását, kijelölje azt a hatóságot, amelynek feladatkörébe tartozik a Magyarországon folytatott, mérgező termékek kereskedelmére, forgalmazására vagy felhasználására vonatkozó szakmai gyakorlatról vagy jogosultságról szóló igazolás kiállítása, megállapítsa a mérgező termékekkel kapcsolatos szakmai tevékenységek szakmai gyakorlaton alapuló elismerésének részletes eljárási szabályait.
+
+e) állapítsa meg a 6. § (4) bekezdésében meghatározott foglalkoztatók érdekkörében felmerült elismerési ügyekre az e törvényben foglaltaktól eltérő rendelkezéseket, valamint az általuk foglalkoztatottak tevékenységére vonatkozó szabályokat.
 
 (2) Felhatalmazást kap a felsőoktatásért felelős miniszter, hogy rendeletben hirdesse ki
 

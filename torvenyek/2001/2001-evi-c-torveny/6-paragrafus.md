@@ -6,4 +6,6 @@
 
 (3) A tagállam állampolgárának nem minősülő, valamint az azzal azonos megítélés alá nem eső, magyar állampolgársággal nem rendelkező személy akkor jogosult bizonyítványa vagy oklevele elismertetésére vagy honosíttatására – ide nem értve a továbbtanulási céllal történő elismerést – ha a (2) bekezdésben foglaltak teljesítésén túlmenően keresőtevékenység folytatása vagy családi együttélés biztosítása céljából kiadott tartózkodási engedéllyel rendelkezik.
 
-(4)
+(4) A (3) bekezdésben meghatározott személy akkor is jogosult bizonyítványa vagy oklevele elismertetésére vagy honosíttatására, ha keresőtevékenység folytatása céljából a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról szóló kormányrendeletben meghatározott kiemelt foglalkoztató által előterjesztett tartózkodási engedély iránti kérelmet nyújtott be és ezt az elismerési eljárás során igazolja. Az elismerési eljárásban benyújtott kérelemről akkor hozható döntés, ha a kérelmező a keresőtevékenység folytatása céljából kiadott tartózkodási engedélyt bemutatja.
+
+(5) Az eljáró hatóság megszünteti a (4) bekezdés szerinti eljárást, ha a kérelmező az elismerési eljárás kezdő napját követő 90 napon belül nem nyújtja be a keresőtevékenység folytatása céljából szükséges vízumot, és nem kéri az eljárási határidő meghosszabbítását. Az eljárási határidő kérelemre 30 nappal meghosszabbítható.
