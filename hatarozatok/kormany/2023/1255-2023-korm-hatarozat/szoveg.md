@@ -1,1 +1,0 @@
-Az Agrár Széchenyi Kártyával kapcsolatos kormányzati intézkedésekről szóló 1615/2022. (XII. 13.) Korm. határozat 3. pontjában a „2023. március 31-ig” szövegrész helyébe a „2023. július 31-ig” szöveg lép.
