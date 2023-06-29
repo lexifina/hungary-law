@@ -8,6 +8,8 @@
 
 3. helyi közszolgáltatás: törvényben meghatározott helyi közügy, valamint helyben biztosítható közfeladat;
 
-4. helyi közszolgáltatás információs rendszer: a települési önkormányzatok által biztosított helyi közszolgáltatások tervezésének, valamint az operatív feladatellátás szervezésének és fejlesztésének támogatását szolgáló elektronikus információs és vezetői döntéstámogató rendszer;
+4.[^1] IKIR: helyi közszolgáltatás információs rendszer, amely a települési önkormányzatok által biztosított helyi közszolgáltatások tervezésének, valamint az operatív feladatellátás szervezésének és fejlesztésének támogatását szolgáló elektronikus információs és vezetői döntéstámogató rendszer;
 
 5. központi szolgáltató: a NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság (a továbbiakban: NISZ Zrt.) és az IdomSoft Informatikai Zártkörűen Működő Részvénytársaság (a továbbiakban: IdomSoft Zrt.).
+
+[^1]: Az 1. § 4. pontja a 262/2023. (VI. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
