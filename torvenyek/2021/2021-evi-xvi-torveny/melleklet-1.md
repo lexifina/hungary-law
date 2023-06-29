@@ -59,3 +59,15 @@ Nemzeti Tehetséggondozó Nonprofit Korlátolt Felelősségű Társaság
 |
 
 üzletrész 100%-a
+
+|
+
+5
+
+|
+
+Forum Hungaricum Nonprofit Korlátolt Felelősségű Társaság
+
+|
+
+üzletrész 100%-a
