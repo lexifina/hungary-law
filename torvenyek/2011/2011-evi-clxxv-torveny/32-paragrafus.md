@@ -24,4 +24,4 @@ b) a közhasznú tevékenység érdekében felmerült költségek, ráfordítás
 
 c) közhasznú tevékenységének ellátását tartósan (két év átlagában) legalább tíz közérdekű önkéntes tevékenységet végző személy segíti a közérdekű önkéntes tevékenységről szóló 2005. évi LXXXVIII. törvénynek megfelelően.
 
-(6) A beszámoló adatai alapján minden letétbe helyezés alkalmával a közhasznú jogállás nyilvántartásba vételére illetékes szerv megvizsgálja az (1) bekezdés szerinti feltételek teljesülését. Ha az (1) bekezdés szerinti feltételek nem teljesülnek, a szervezet közhasznú jogállását a bíróság megszünteti és az erre vonatkozó adatot a nyilvántartásból törli.
+(6) A beszámoló adatai alapján minden – a 30. § szerinti – letétbe helyezés alkalmával a közhasznú jogállás nyilvántartásba vételére illetékes szerv megvizsgálja az (1) bekezdés szerinti feltételek teljesülését. Ha az (1) bekezdés szerinti feltételek nem teljesülnek, a szervezet közhasznú jogállását a bíróság megszünteti és az erre vonatkozó adatot a nyilvántartásból törli.

@@ -1,0 +1,1 @@
+32/A. § E törvény erejénél fogva közhasznú jogállásúnak minősül a köztársasági elnök által a megbízatásának időtartama alatt alapított, az e törvény szerinti közcélú tevékenység végzése céljára létrehozott alapítvány.

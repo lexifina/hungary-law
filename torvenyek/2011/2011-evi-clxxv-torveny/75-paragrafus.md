@@ -30,7 +30,9 @@ b) az államháztartásról szóló törvény alapján a fejezetet irányító s
 
 (15) A Nemzeti Civil Alapprogram terhére kötött támogatási szerződés alapján visszafizetett vagy más jogcímen bevételként elszámolt összeget a (10) bekezdés szerinti feladatok ellátására kell fordítani és az a 73. § (2) bekezdés a) pontja szerinti Alapkezelőt illeti.
 
-(16)–(17)
+(16) A 32/A. § szerinti alapítvány közhasznú jogállását a nyilvántartó bíróság az e törvénynek az innovációs és tudományos eredmények gazdasági hasznosításának elősegítése érdekében szükséges egyes törvények módosításáról szóló 2023. évi XLI. törvénnyel megállapított 32/A. §-a hatálybalépését követő 60 napon belül benyújtott kérelemre jegyzi be a nyilvántartásba.
+
+(17)
 
 (18)
 
