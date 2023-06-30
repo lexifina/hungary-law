@@ -8,7 +8,7 @@
 
 (4) A postai szolgáltatók az egyetemes és az egyetemes szolgáltatást helyettesítő szolgáltatásokra vonatkozó általános szerződési feltételeinek az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott részeit, továbbá azok módosításait kötelesek az alkalmazás kezdő időpontját legkésőbb 15 nappal megelőzően a Hatóság részére megküldeni.
 
-(5) A postai szolgáltató köteles az általános szerződési feltételeket, a díjszabást, valamint azok módosítását a bevezetést megelőző legalább tizenötödik naptól kezdődően internetes honlapján közzétenni. A postai szolgáltatónak minden postai szolgáltatóhelyen lehetővé kell tenni az általános szerződési feltételek és a díjszabás megtekintését.
+(5) A postai szolgáltató köteles az általános szerződési feltételeket, a díjszabást, valamint azok módosítását a bevezetést megelőző legalább tizenötödik naptól kezdődően internetes honlapján közzétenni. A postai szolgáltatónak minden postai szolgáltatóhelyen lehetővé kell tenni a díjszabás megtekintését.
 
 (6) E törvényben foglaltaktól a postai szolgáltató az általános szerződési feltételeiben csak akkor térhet el, ha e törvény az eltérést megengedi. Ez a rendelkezés nem zárja ki azt, hogy a postai szolgáltató általános szerződési feltételeiben olyan szolgáltatásokat is meghirdessen, amelyeket e törvény nem szabályoz.
 

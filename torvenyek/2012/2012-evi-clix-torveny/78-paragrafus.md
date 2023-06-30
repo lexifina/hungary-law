@@ -2,13 +2,13 @@
 
 78. § (1) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg:
 
-a) a postai szolgáltatások nyújtásának részletes szabályait;
+a) a postai szolgáltatások nyújtásának és igénybevételének részletes szabályait;
 
 b) a hivatalos iratokkal kapcsolatos szolgáltatás részletes szabályait;
 
 c) a postai szolgáltatók általános szerződési feltételeinek kötelező tartalmi elemeit, a postai szolgáltatásból kizárt, vagy feltételesen szállítható küldemények körét;
 
-d)
+d) a kézbesítést lehetővé tevő automatizált eszköz funkcionalitására és műszaki leírására, valamint telepítésére vonatkozó feltételeket és követelményeket.
 
 e) a postai szolgáltatások különleges jogrend időszaki, valamint az összehangolt védelmi tevékenységre való felkészítésének rendszerét, feladatait, működési feltételeit;
 

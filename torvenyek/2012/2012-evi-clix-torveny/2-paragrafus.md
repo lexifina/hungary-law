@@ -58,6 +58,8 @@ f) a küldeménynek a feladó lakóhelyén, tartózkodási helyén, székhelyén
 
 21. kézbesítési pont: a postai küldemény kézbesítése céljából a postai szolgáltató által kijelölt, a felhasználók számára elérhető helyiség vagy hely, továbbá a postai szolgáltató által létesített, a kézbesítést lehetővé tevő eszköz;
 
+21a. kézbesítést lehetővé tevő automatizált eszköz: olyan, a postai szolgáltató vagy a 4. § b) pontja szerinti saját kézbesítést ellátó szervezet fizikai jelenléte nélkül üzemelő eszköz, amely megfelel az e törvény felhatalmazása alapján kiadott rendeletben meghatározott, a kézbesítést lehetővé tevő automatizált eszköz funkcionalitására és műszaki leírására, valamint telepítésére vonatkozóan megállapított feltételeknek és követelményeknek, és ezzel lehetővé teszi a személyes átadással kézbesítendő postai küldemény kézbesítését vagy a küldemény 4. § b) pontja szerinti saját kézbesítését.
+
 22. könyvelt küldemény: olyan postai küldemény, amelynek a postai szolgáltató a felvételét – írásban vagy más bizonyítható módon –, valamint a jogosult átvevő részére történő kézbesítését – az erre szolgáló okiraton, vagy a kézbesítés tényét rögzítő vagy a jogosult átvevő személyét azonosító egyéb technika alkalmazásával – a feladó irányában elismeri;
 
 23. küldeményenkénti díjszabás: olyan – a postai szolgáltató általános szerződési feltételeiben vagy ahhoz csatoltan közzétett – árlista, amely egy postai küldeménynek vagy az egy időben feladott több postai küldeménynek a feladott küldeménymennyiségtől függetlenül azonos darabonkénti díjait tartalmazza;

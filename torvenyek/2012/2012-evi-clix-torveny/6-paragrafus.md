@@ -4,7 +4,7 @@
 
 a) a kettő kilogrammot meg nem haladó tömegű, – a b)–d) pontban meghatározott küldeményektől eltérő – belföldi vagy nemzetközi viszonylatú nem könyvelt postai küldemények;
 
-b) a húsz kilogrammot meg nem haladó tömegű, belföldi vagy nemzetközi viszonylatú postacsomagok;
+b) a tíz kilogrammot meg nem haladó tömegű, belföldi vagy nemzetközi viszonylatba feladott postacsomagok;
 
 c) a vakok írását tartalmazó, belföldi vagy nemzetközi viszonylatú küldemények;
 
