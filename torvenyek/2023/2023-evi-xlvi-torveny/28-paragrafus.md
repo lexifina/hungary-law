@@ -4,13 +4,13 @@ a) 3. § (2) bekezdés f) pontjában az „eszköz, valamint” szövegrész hel
 
 b) 3. § (2) bekezdés g) pontjában a „termék” szövegrész helyébe a „termék, valamint” szöveg,
 
-c) 3. § (2) bekezdés záró szövegrészében az „ekként meghatározott termék” szövegrész helyébe az „ekként meghatározott termék vagy fogalom” szöveg,
+c)
 
 d) 4. § (3) bekezdés k) pontjában a „dohánytermékek” szövegrész helyébe a „dohánygyártmányok” szöveg,
 
 e) 10/B. § (1)–(3) bekezdésében a „miniszter” szövegrész helyébe a „kormányrendeletben kijelölt miniszter” szöveg,
 
-f) 15/C. § (2) bekezdés c) pontjában az „a dohánytermék-nagykereskedővel e törvény keretei között megkötött a dohánytermékek, vagy termékcsoportok kedvezőbb megjelenítését célzó visszterhes szerződés (a továbbiakban: polckép-szerződés)” szövegrész helyébe az „a polckép-szerződés” szöveg,
+f)
 
 g) 21. § (2) bekezdésében a „miniszter” szövegrész helyébe a „kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv” szöveg,
 

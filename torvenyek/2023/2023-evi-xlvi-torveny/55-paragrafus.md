@@ -7,15 +7,3 @@
 (4) Az 5. alcím a 97/67/EK irányelvnek a közösségi postai szolgáltatások belső piacának teljes megvalósítása tekintetében történő módosításáról szóló, 2008. február 20-i 2008/6/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 (5) A 7. és 14. alcím a belső piacon történő elektronikus tranzakciókhoz kapcsolódó elektronikus azonosításról és bizalmi szolgáltatásokról, valamint az 1999/93/EK irányelv hatályon kívül helyezéséről szóló 2014. július 23-i 910/2014/EU európai parlamenti és tanácsi rendelet III. fejezetének végrehajtásához szükséges rendelkezéseket állapít meg.
-
-|
-
-Novák Katalin s. k.,
-
-köztársasági elnök
-
-|
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

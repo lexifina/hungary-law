@@ -1,3 +1,1 @@
-21. § Az Fdvtv. 15/A. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A dohány-kiskereskedelmi ellátó a dohányterméket az általa meghatározott egy vagy több raktárában köteles átvenni – ide nem értve a 15/B. § (8) bekezdés c) pontjában foglalt esetet – és ott szigorú felügyelet mellett raktározni; a dohánytermékek beszállításáról a dohánytermék-nagykereskedő köteles gondoskodni. A beszállított dohánytermék a dohánytermék-nagykereskedő tulajdonában marad mindaddig, amíg a dohánytermékre a dohány-kiskereskedelmi ellátóval az adásvételi szerződés – e törvény rendelkezéseivel összhangban – létre nem jön; a dohánytermék átvételekor a kárveszély a dohány-kiskereskedelmi ellátóra száll.”
+### 21. §

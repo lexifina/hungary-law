@@ -1,34 +1,34 @@
 10. § A Cstv.
 
-1. 12. § (1) bekezdésében az „5000 forintot” szövegrész helyébe a „10 000 forintot” szöveg, továbbá a „100 000 forintot” szövegrész helyébe a „200 000 forintot” szöveg,
+1.
 
-2. 16. § (4) bekezdésében a „300 000 forint” szövegrész helyébe az „500 000 forint” szöveg,
+2.
 
-3. 24/A. § (2) bekezdés c) pontjában a „200 000 forintot” szövegrész helyébe a „400 000 forintot” szöveg, továbbá a „400 000 forintot” szövegrész helyébe a „600 000 forintot” szöveg,
+3.
 
-4. 27/A. § (9) bekezdésében a „300 000 forint” szövegrész helyébe az „500 000 forint” szöveg,
+4.
 
 5. 27/D. § (2) bekezdésében a „valamint a felszámolói névjegyzék és a feladatkörébe tartozó hatósági nyilvántartások vezetésével kapcsolatos” szövegrész helyébe az „a felszámolói névjegyzék és a feladatkörébe tartozó hatósági nyilvántartások vezetésével kapcsolatos, valamint az (1b) bekezdés szerinti” szöveg,
 
 6. 27/D. § (3) bekezdés b) pontjában a „környezeti teherrel” szövegrész helyébe a „környezeti kárral vagy környezeti teherrel” szöveg,
 
-7. 45/A. § (3) bekezdésében a „200 000 forint” szövegrész helyébe a „300 000” forint szöveg,
+7.
 
-8. 46. § (7) bekezdésében az „5000 forintot” szövegrész helyébe a „20 000 forintot” szöveg, továbbá a „200 000 forintot” szövegrész helyébe a „400 000 forintot” szöveg,
+8.
 
 9. 49/A. § (4) bekezdésében az „a felekkel közölnie kell.” szövegrész helyébe az „a felekkel közölnie kell. Nyilvános ártárgyalásra legfeljebb egy alkalommal kerülhet sor.” szöveg,
 
-10. 50. § (6) bekezdésében a „200 000 forintot” szövegrész helyébe a „250 000 forintot” szöveg,
+10.
 
 11. 57. § (1) bekezdés e) pontjában a „79/A. § (2) bekezdés e) pontja” szövegrész helyébe a „79/A. § (2) bekezdése” szöveg,
 
-12. 59. § (3) bekezdésében az „a 300 000 forintot” szövegrész helyébe az „az 500 000 forintot” szöveg, továbbá a „300 000 forintra” szövegrész helyébe az „500 000 forintra” szöveg,
+12.
 
-13. 59. § (5) bekezdésében a „150 000 forintra” szövegrész helyébe a „350 000 forintra” szöveg,
+13.
 
-14. 63/B. § (6) bekezdés c) pontjában a „300 000 forint” szövegrész helyébe az „500 000 forint” szöveg,
+14.
 
-15. 66. § (2a) bekezdésében az „500 000 forint” szövegrész helyébe a „600 000 forint” szöveg, továbbá az „5 000 000 forint” szövegrész helyébe a „6 000 000 forint” szöveg,
+15.
 
 16. 79/A. § (3) bekezdésében a „bűnügyi hitelezői igénybejelentés alapjául szolgáló követelés” szövegrész helyébe a „bűnügyi hitelezői igény” szöveg,
 
