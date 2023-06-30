@@ -1,4 +1,4 @@
-1/A. §[^3] (1)[^4] Az 1. § (1) bekezdésében megjelölt termékeken túl az árak megállapításáról szóló 1990. évi LXXXVII. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 6/2022. (I. 14.) Korm. rendelet módosításáról szóló 451/2022. (XI. 9.) Korm. rendelet hatálybalépésének[^5] napja és 2023. június 30. közötti időszakban hatósági áras termék a 2. melléklet szerinti termék.
+1/A. §[^3] (1)[^4] Az 1. § (1) bekezdésében megjelölt termékeken túl az árak megállapításáról szóló 1990. évi LXXXVII. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 6/2022. (I. 14.) Korm. rendelet módosításáról szóló 451/2022. (XI. 9.) Korm. rendelet hatálybalépésének[^5] napja és 2023. július 31. közötti időszakban hatósági áras termék a 2. melléklet szerinti termék.
 
 (2) A 2. melléklet szerinti termék vonatkozásában üzletben vagy bevásárlóközpontban folytatott kereskedelmi tevékenység és a csomagküldő kereskedelem során alkalmazandó bruttó kiskereskedelmi ár a kereskedő által 2022. szeptember 30. napján alkalmazott bruttó kiskereskedelmi árnál nem lehet magasabb.
 
@@ -15,5 +15,5 @@ b) ha az a) pont szerinti bruttó kiskereskedelmi ár nem állapítható meg, ak
 (6) A (2) bekezdés szerinti árazás során egyéb költség vagy díj nem számolható fel.
 
 [^3]: Az 1/A. §-t a 451/2022. (XI. 9.) Korm. rendelet 1. §-a iktatta be.
-[^4]: Az 1/A. § (1) bekezdése a 142/2023. (IV. 24.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^4]: Az 1/A. § (1) bekezdése a 279/2023. (VI. 29.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^5]: A hatálybalépés időpontja 2022. november 10.

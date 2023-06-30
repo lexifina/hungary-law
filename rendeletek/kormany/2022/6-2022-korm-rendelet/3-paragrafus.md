@@ -12,7 +12,14 @@ b)[^11] döntésével elrendelheti, hogy a kereskedő tevékenységét ideiglene
 
 (5) A bírságot a bírságot kiszabó határozat véglegessé válását követő 15 napon belül kell megfizetni.
 
+(6)[^13] Az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 77. § (2) bekezdésétől eltérően az eljárás akadályoztatása következményeként kiszabható eljárási bírság legmagasabb összege jogi személy vagy egyéb szervezet esetén
+
+a) a 3. § (2) bekezdés a) pontja alapján alkalmazandó bírság felső határa;
+
+b) a 3. § (3) bekezdése szerinti esetben a korábbi jogsértés miatt a 3. § (2) bekezdés b) pontja alapján kiszabott bírság legalább kétszerese.
+
 [^9]: A 3. § (1) bekezdése az 511/2022. (XII. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^10]: A 3. § (2) bekezdése a 451/2022. (XI. 9.) Korm. rendelet - a Magyar Közlöny 2022. évi 184. számában közzétett helyesbítésnek megfelelő - 3. § c) pontja szerint módosított szöveg.
 [^11]: A 3. § (2) bekezdés b) pontja az 511/2022. (XII. 13.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^12]: A 3. § (3) bekezdése az 511/2022. (XII. 13.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^13]: A 3. § (6) bekezdését a 279/2023. (VI. 29.) Korm. rendelet 1. §-a iktatta be.
