@@ -1,0 +1,3 @@
+15/J. § (1) A Hatóság a 15/H. § szerinti adatszolgáltatási kötelezettséggel érintett termékekről – az érintett termékekre vonatkozó nyilvántartás-vezetési és adatszolgáltatási kötelezettségnek a dohánytermék-kiskereskedelmi tevékenységet végző személyek általi egységes teljesítése érdekében – a Hatóság elnökének a nyilvántartás-vezetésről és adatszolgáltatásról szóló rendeletében meghatározottak szerint, a termékregisztrátor adatszolgáltatása alapján – személyes adatot nem tartalmazó adattartalommal – hatósági nyilvántartást vezet.
+
+(2) Az érintett termékeket a Hatóság hatósági azonosító számmal látja el. Az (1) bekezdés szerinti nyilvántartás a hatósági azonosító szám tekintetében közhiteles hatósági nyilvántartásnak minősül.

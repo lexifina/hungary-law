@@ -48,6 +48,8 @@ dd) jövedéki engedélyes kereskedő;
 
 16. dohánytermék-kiskereskedelmi tevékenységet végző személy: a dohánytermék-kiskereskedő, a 10. § (1) bekezdés szerinti, a dohánytermék-kiskereskedelmi jogosultság gyakorlására külön feljogosított személy és a 13. § (8a) bekezdése szerinti helyettes gyakorló.
 
+17. termékregisztrátor: a dohánytermék-nagykereskedő vagy az adatszolgáltatással érintett terméket belföldön először forgalomba hozó személy.
+
 (2) E törvény alkalmazásában
 
 a) a füst nélküli dohánytermék,
@@ -60,9 +62,11 @@ d) az elektronikus cigaretta,
 
 e) az utántöltő flakon, patron, nikotinmentes utántöltő flakon,
 
-f) a dohányzást imitáló elektronikus eszköz, valamint
+f) a dohányzást imitáló elektronikus eszköz,
 
-g) a dohányzást helyettesítő nikotintartalmú termék
+g) a dohányzást helyettesítő nikotintartalmú termék, valamint
+
+h) dohányzási célú gyógynövénytermék
 
 a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló törvényben ekként meghatározott termék.
 

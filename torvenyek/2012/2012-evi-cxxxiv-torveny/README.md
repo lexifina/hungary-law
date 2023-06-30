@@ -41,3 +41,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-134-00-00
 | 2023-01-01 | 2022. évi XIX. törvény | 2012-134-00-00.33 |
 | 2023-02-01 | 2022. évi LXIV. törvény | 2012-134-00-00.35 |
 | 2023-03-01 | 2022. évi LXIV. törvény | 2012-134-00-00.36 |
+| 2023-06-30 | 2023. évi XLVI. törvény | 2012-134-00-00.39 |

@@ -1,0 +1,1 @@
+15/H. § A dohánytermék-kiskereskedelmi tevékenységet végző személy a készletéről, illetve annak forgalmáról a Hatóság elnökének a nyilvántartás-vezetésről és adatszolgáltatásról szóló rendeletében meghatározottak szerint – személyes adatot nem tartalmazó adattartalommal – nyilvántartást vezet és adatot szolgáltat.

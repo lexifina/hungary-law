@@ -12,6 +12,6 @@
 
 (5) A (3) bekezdés 2013. július 1-jén hatályát veszti.
 
-(6) Az e törvényben foglaltaktól eltérően a miniszter köteles a dohánytermék-kiskereskedelmi jogosultságra vonatkozó pályázatokat első alkalommal legkésőbb 2012. november 15. napjáig kiírni úgy, hogy a pályázatok benyújtására a kiírás megjelenését követő 60 napos határidő álljon rendelkezésre, továbbá a benyújtási határidő elteltét követő 60 napos határidőn belül a pályázatok eredményeit ki kell hirdetni.
+(6)
 
 (7) Azok a kiskereskedők, akik a 2. § hatálybalépését megelőzően dohánytermékek értékesítésére jogosultak voltak, a 2. § hatálybalépését követően dohányterméket a dohánytermék-nagykereskedőktől már nem vásárolhatnak, és a meglévő dohánytermék-készletük értékesítését legfeljebb a 2. § hatálybalépését követő 15 napig folytathatják. A dohánytermék-nagykereskedő köteles az általa értékesített és az e bekezdés rendelkezései miatt a kiskereskedőknél megmaradt – sértetlen csomagolású – dohánytermékeket a kiskereskedő kérelmére 30 napon belül azon az áron visszavásárolni, amelyen a dohánytermék a kiskereskedő részére értékesítésre került.

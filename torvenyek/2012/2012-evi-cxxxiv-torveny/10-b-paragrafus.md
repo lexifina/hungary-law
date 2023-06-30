@@ -1,8 +1,8 @@
-10/B. § (1) A koncessziós díjat a miniszter szedi be.
+10/B. § (1) A koncessziós díjat a kormányrendeletben kijelölt miniszter szedi be.
 
-(2) A miniszter a beszedett koncessziós díjak, jogosultsági díjak és ezen felül keletkező egyéb bevételek összegét az államháztartásról szóló 2011. évi CXCV. törvény 19. § (3) bekezdése szerinti tulajdonosi ügyletként számolja el.
+(2) A kormányrendeletben kijelölt miniszter a beszedett koncessziós díjak, jogosultsági díjak és ezen felül keletkező egyéb bevételek összegét az államháztartásról szóló 2011. évi CXCV. törvény 19. § (3) bekezdése szerinti tulajdonosi ügyletként számolja el.
 
-(3) A koncessziós szerződés alapján a koncessziós díjon felül keletkező egyéb bevételek (így különösen a késedelmi pótlék, kártérítés, kötbér) a miniszter által irányított költségvetési fejezet bevételei.
+(3) A koncessziós szerződés alapján a koncessziós díjon felül keletkező egyéb bevételek (így különösen a késedelmi pótlék, kártérítés, kötbér) a kormányrendeletben kijelölt miniszter által irányított költségvetési fejezet bevételei.
 
 (4)
 

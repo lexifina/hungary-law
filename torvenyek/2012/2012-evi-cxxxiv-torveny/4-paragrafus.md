@@ -34,9 +34,9 @@ h) létrehozza és folyamatosan működteti a dohányipari ágazati konzultáci�
 
 i) a dohánytermék-nagykereskedők, a dohánytermék-kiskereskedők, valamint a dohány-kiskereskedelmi ellátó közötti vitás kérdések rendezésére vonatkozóan mediációs tevékenységet lát el,
 
-j) fogadja a Hatóság elnökének a dohánytermék-kiskereskedelmi tevékenységhez kapcsolódó nyilvántartás-vezetési és adatszolgáltatási kötelezettségről, valamint a dohánygyártmányok árbejelentésének és árközzétételének részletes szabályairól szóló rendeletében meghatározott, dohányboltban forgalmazott termékek regisztrációs adatait, és ezeket a dohány-kiskereskedők, valamint a dohány-kiskereskedelmi ellátó részére publikálja; készletnyilvántartó minősítési rendszert működtet, a dohánytermék-kiskereskedők készlet- és forgalmi adatait kezeli, feldolgozza,
+j) a termékregisztrátorokról és a Hatóság elnökének a nyilvántartásvezetésről és adatszolgáltatásról szóló rendeletében meghatározott, a dohánytermék-kiskereskedelmi tevékenységet végzők adatszolgáltatási kötelezettségével érintett termékekről (a továbbiakban: érintett termék) hatósági nyilvántartást vezet; fogadja a Hatóság elnökének a nyilvántartásvezetésről és adatszolgáltatásról szóló rendeletében meghatározott bejelentéseket és a nyilvántartott adatokat a dohánytermék-kiskereskedelmi tevékenységet végzők, valamint a dohány-kiskereskedelmi ellátó részére átadja; készletnyilvántartó minősítési rendszert működtet, a dohánytermék-kiskereskedelmi tevékenységet végzők készlet- és forgalmi adatait kezeli, feldolgozza, az arra jogosultak részére átadja.
 
-k) a dohánytermékek árainak közzététele érdekében jogszabályban meghatározottak szerint a szolgáltatott árbejelentéseket rendszerezi, feldolgozza és honlapján közzéteszi, és
+k) a dohánygyártmányok árainak közzététele érdekében jogszabályban meghatározottak szerint a szolgáltatott árbejelentéseket rendszerezi, feldolgozza és honlapján közzéteszi, és
 
 l) a dohánytermék-kiskereskedelmi jogosultság gyakorlására külön feljogosított személyekről közhiteles nyilvántartást vezet és kötelezettségeik teljesítését ellenőrzi,
 

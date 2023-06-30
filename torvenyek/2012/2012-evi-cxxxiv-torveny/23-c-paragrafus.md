@@ -4,4 +4,4 @@
 
 a) a dohánytermék-kiskereskedelmi tevékenységet végző személy által három éven belül megvalósított e törvény szerinti korábbi jogsértést,
 
-b) a dohánytermék-kiskereskedelmi tevékenységet végző személy vonatkozásában a Hatóság elnökének a dohánytermék-kiskereskedelmi tevékenységhez kapcsolódó nyilvántartás-vezetési és adatszolgáltatási kötelezettségről, valamint a dohánygyártmányok árbejelentésének és árközzétételének részletes szabályairól szóló rendeletében foglaltak szerint a Hatóság rendelkezésére álló, a tárgyévet megelőző év készlet- és forgalmi adatait.
+b) a dohánytermék-kiskereskedelmi tevékenységet végző személy vonatkozásában a Hatóság elnökének a nyilvántartás-vezetésről és adatszolgáltatásról szóló rendeletében foglaltak szerint a Hatóság rendelkezésére álló, a tárgyévet megelőző év készlet- és forgalmi adatait.
