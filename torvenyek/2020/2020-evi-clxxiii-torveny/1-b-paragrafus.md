@@ -1,0 +1,1 @@
+1/B. § Az 1/A. § (2) bekezdése alapján ingyenesen tulajdonba adott ingatlanokon e törvény erejénél fogva határozatlan időre szóló elidegenítési tilalom áll fenn. Az elidegenítési tilalomnak az átruházó javára szóló ingatlan-nyilvántartásba történő feljegyzését a tulajdonjog bejegyzése iránti kérelem benyújtásával egyidejűleg a tulajdonosi joggyakorló kérelmezi.
