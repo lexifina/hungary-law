@@ -1,0 +1,1 @@
+8. § Az e rendelet szerint benyújtott kérelem a fővárosi és vármegyei kormányhivatalokról, valamint a járási (fővárosi kerületi) hivatalokról szóló 568/2022. (XII. 23.) Korm. rendelet kormányablakban azonnal intézhető ügynek minősül.
