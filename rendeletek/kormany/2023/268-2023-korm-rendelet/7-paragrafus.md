@@ -1,0 +1,1 @@
+7. § A Jegyzőkönyvnek a Jegyzőkönyv-módosítás 1-gyel és a Jegyzőkönyv-módosítás 2-vel egységes szerkezetbe foglalt hiteles angol nyelvű szövegének és annak hivatalos magyar nyelvű fordításának közzétételéről a környezetvédelemért felelős miniszter gondoskodik.

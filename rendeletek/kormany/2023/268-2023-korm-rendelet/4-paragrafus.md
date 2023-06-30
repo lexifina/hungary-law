@@ -1,0 +1,1 @@
+4. § A Kormány a savasodás, az eutrofizáció és a talajközeli ózon csökkentéséről szóló 1999. évi jegyzőkönyv I. mellékletének módosításáról szóló, az egyezmény Végrehajtó Szerve 2012/1. számú határozatában meghatározott módosítást (a továbbiakban: Jegyzőkönyv-módosítás 2) e rendelettel kihirdeti.

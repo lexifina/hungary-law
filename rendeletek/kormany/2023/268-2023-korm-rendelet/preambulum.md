@@ -1,0 +1,1 @@
+(A savasodás, az eutrofizáció és a talajközeli ózon csökkentéséről szóló 1999. évi jegyzőkönyv I. mellékletének módosítása Magyarország vonatkozásában nemzetközi jogilag 2013. június 5-én hatályba lépett.)
