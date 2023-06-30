@@ -1,3 +1,3 @@
-1. § A felszámolási eljárás során az adós gazdasági tevékenysége folytatása érdekében való értékesítés veszélyhelyzeti szabályairól szóló 129/2023. (IV. 17.) Korm. rendelet (a továbbiakban: Korm. rendelet) 7. §-a a következő (4) bekezdéssel egészül ki:
+1. §[^2]
 
-„(4) A Cstv. 49. §-ától eltérően a felszámoló leltárt készít az adós továbbműködéséhez kapcsolódó azon vagyonelemekről (befejezetlen és félkész termékek, késztermékek, alapanyagok, segédanyagok, alkatrészek, tartalék- és cserealkatrészek), amelyeket az adós gazdasági tevékenysége folytatására alapított gazdasági társaság megalapításakor nem pénzbeli vagyoni hozzájárulásként nem lehetett rendelkezésre bocsátani, és azokat a nyilvános értékesítésre vonatkozó szabályok mellőzésével piaci értéken értékesíti az adós gazdasági tevékenysége folytatására alapított gazdasági társaság részére a 6. § (1) bekezdése szerinti értékesítés teljesedésbe menését megelőzően.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
