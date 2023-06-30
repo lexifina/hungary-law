@@ -14,7 +14,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Hatályát veszti a védelmi felkészítés egyes kérdéseiről szóló 1508/2022. (X. 21.) Korm. határozat.
+## 3.[^2]
 
 1. melléklet az 1249/2023. (VI. 28.) Korm. határozathoz
 
@@ -189,3 +189,5 @@ e) az ágazati informatikai hálózatoknak a kormányzati védett vezetési rend
 | Felelős: | honvédelmi miniszter |
 
 | Határidő: | 2024. február 15. |
+
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
