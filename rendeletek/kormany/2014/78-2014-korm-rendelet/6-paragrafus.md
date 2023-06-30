@@ -1,5 +1,3 @@
-## végzi.
-
 6. § (1) A 2. § (1) bekezdés g) pont ga) alpontja szerinti index valamely összetevőjét érintő ármozgás vagy kereskedelmi tevékenység nem befolyásolja túlzott mértékben az index alakulását.
 
 (2) A 2. § (1) bekezdés g) pont ga) alpontja szerinti indexnek meg kell felelnie a következő feltételeknek:

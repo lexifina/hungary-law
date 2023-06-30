@@ -8,7 +8,7 @@ a) egy kibocsátó szavazásra nem jogosító részvényeinek legfeljebb 10 szá
 
 b) egy kibocsátó hitelviszonyt megtestesítő értékpapírjainak legfeljebb 20 százalékát,
 
-## szerezheti meg.
+szerezheti meg.
 
 (3) A (2) bekezdés b) pontjaiban meghatározott korlát figyelmen kívül hagyható a megszerzés időpontjában, amennyiben a hitelviszonyt megtestesítő értékpapírok bruttó értékét vagy a forgalomba hozandó értékpapírok nettó értékét ebben az időpontban nem lehet meghatározni.
 

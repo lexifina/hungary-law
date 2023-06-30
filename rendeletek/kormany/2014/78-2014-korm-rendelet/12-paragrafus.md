@@ -12,7 +12,7 @@ c) egy másik ÁÉKBV kollektív befektetési értékpapírjainak vagy más koll
 
 d) egy kibocsátó intézmény pénzpiaci eszközeinek legfeljebb 10 százalékát
 
-## szerezheti meg.
+szerezheti meg.
 
 (3) A (2) bekezdésben meghatározott korlátok figyelmen kívül hagyhatók a megszerzés időpontjában, amennyiben a hitelviszonyt megtestesítő értékpapírok vagy pénzpiaci eszközök bruttó értékét vagy a forgalomba hozandó értékpapírok nettó értékét ebben az időpontban nem lehet meghatározni.
 

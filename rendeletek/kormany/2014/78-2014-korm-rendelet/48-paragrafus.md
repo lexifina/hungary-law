@@ -10,7 +10,11 @@
 
 (3) E rendelet értelmében ingatlantársaságnak minősül a tagok (részvényesek) korlátozott felelősségével működő, önálló jogi személyiséggel rendelkező olyan vállalkozás,
 
-a) amelynek tevékenységi köre ingatlanfejlesztés, ingatlanüzemeltetés, ingatlanforgalmazás, ingatlanhasznosítás;
+a)[^17] amelynek tevékenységi köre
+
+aa) ingatlanfejlesztés, ingatlanüzemeltetés, ingatlanforgalmazás, ingatlanhasznosítás vagy
+
+ab) kiserőműbe történő beruházás, azzal, hogy megszerezhet és tarthat a villamos energiáról szóló törvényben meghatározott kiserőmű üzemeltetéséhez és fenntartásához szükséges tárgyi eszközöket, villamosenergia-tárolót, geotermikus energia kitermeléséhez és hasznosításához szükséges vagyoni értékű jogot és tárgyi eszközt, valamint kapcsolódó tevékenységként a kiserőmű, villamosenergia-tároló és geotermikus energia tárgyi eszközének üzemeltetését kapcsolódó tevékenységként végezheti;
 
 b) amelynek székhelye valamely EGT-államban vagy olyan harmadik ország területén található, amelyben az ingatlanalap a kezelési szabályzata szerint jogosult befektetni;
 
@@ -45,3 +49,5 @@ h) az ingatlantársaság köteles együttműködni az ingatlanalappal, az azt ke
 (5) Amennyiben az ingatlanalap ingatlantársaságban való részesedésszerzését követően a (4) bekezdésben foglalt valamely feltétel nem teljesül, az ingatlanalap köteles 180 napon belül az adott feltételt helyreállítani, vagy intézkedni az ingatlantársaságban fennálló részesedés értékesítése iránt.
 
 (6) Az ingatlanalap által tulajdonolt ingatlantársasági részesedés értékét legalább az ingatlanalap által tulajdonolt ingatlanok értékelésével egyező gyakorisággal kell megállapítani. Az ingatlantársaság – ingatlanalap tulajdoni hányadával korrigált – nettó eszközérték-számítás során figyelembe vett értéke megegyezik az ingatlantársaság által tartott ingatlan és vagyoni értékű jog értékbecslő által fordulónapra vonatkozóan meghatározott piaci értékével, növelve az ingatlantársaság pénz- és értékpapír eszközei, valamint követelései értékével és csökkentve az ingatlantársaság kötelezettségei értékével. A pénz- és értékpapír állomány, valamint a követelések és kötelezettségek, aktív és passzív időbeli elhatárolások, céltartalékok és egyéb vagyontárgyak fordulónapra vonatkozó értékét az ingatlantársaság fordulónapra vonatkozó főkönyvi kivonata, év végén a független könyvvizsgálói jelentéssel ellátott számviteli beszámoló adatai alapján, az ingatlanalap kezelési szabályzatában rögzített eszközértékelési szabályok figyelembevételével kell meghatározni.
+
+[^17]: A 48. § (3) bekezdés a) pontja a 192/2023. (V. 22.) Korm. rendelet 3. §-ával megállapított szöveg.

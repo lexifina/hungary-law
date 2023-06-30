@@ -17,3 +17,5 @@ b) az értékelés ellenőrzését
 ba) megfelelő gyakorisággal és az ÁÉKBV-alapkezelő által ellenőrizhető módon az ügyletben résztvevő másik féltől független harmadik fél, vagy
 
 bb) az ÁÉKBV-alapkezelő – eszközkezelő részlegétől független, e célra megfelelő eszközökkel rendelkező – szervezeti egysége
+
+végzi.

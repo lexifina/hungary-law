@@ -7,3 +7,5 @@
 a) egy kibocsátó szavazásra nem jogosító részvényeinek legfeljebb 20 százalékát,
 
 b) egy kibocsátó hitelviszonyt megtestesítő értékpapírjainak legfeljebb 40 százalékát,
+
+szerezheti meg.

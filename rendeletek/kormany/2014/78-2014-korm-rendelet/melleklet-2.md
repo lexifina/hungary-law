@@ -1,5 +1,3 @@
-## Összefoglaló táblázat az értékpapír befektetési alapok összes eszközhöz viszonyított általános befektetési korlátairól
-
 |  | A | B | C | D |
 
 | 1. |  | ÁÉKBV | Egyéb nyilvános értékpapír alap | Zártkörű értékpapír alap |
