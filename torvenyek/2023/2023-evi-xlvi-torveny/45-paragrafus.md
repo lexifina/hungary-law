@@ -1,0 +1,3 @@
+## 12. A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény módosítása
+
+45. § A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 13. § l) pontjában a „valamint a dohánytermékek árbejelentésének és árközzétételének részletes szabályaira,” szövegrész helyébe az „a termékregisztrátorok és az általuk forgalmazott érintett termékek körének meghatározására, azok hatósági nyilvántartásba vételére, a dohánygyártmányok árbejelentésére és árközzétételére,” szöveg, a „rendszerességére, az így keletkező közadatok újrahasznosítására, az 1. §” szövegrész helyébe a „rendszerességére, az 1. §” szöveg lép.

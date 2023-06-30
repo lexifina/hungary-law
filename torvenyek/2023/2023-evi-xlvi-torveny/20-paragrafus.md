@@ -1,0 +1,5 @@
+## „j) a termékregisztrátorokról és a Hatóság elnökének a nyilvántartásvezetésről és adatszolgáltatásról szóló rendeletében meghatározott, a dohánytermék-kiskereskedelmi tevékenységet végzők adatszolgáltatási kötelezettségével érintett termékekről (a továbbiakban: érintett termék) hatósági nyilvántartást vezet; fogadja a Hatóság elnökének a nyilvántartásvezetésről és adatszolgáltatásról szóló rendeletében meghatározott bejelentéseket és a nyilvántartott adatokat a dohánytermék-kiskereskedelmi tevékenységet végzők, valamint a dohány-kiskereskedelmi ellátó részére átadja; készletnyilvántartó minősítési rendszert működtet, a dohánytermék-kiskereskedelmi tevékenységet végzők készlet- és forgalmi adatait kezeli, feldolgozza, az arra jogosultak részére átadja.”
+
+20. § Az Fdvtv. 4/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Ha a dohánykiskereskedelem-ellátási feladatokat az állam maga látja el, úgy a kormányrendeletben kijelölt miniszter e feladatok ellátására 100%-os állami tulajdonban lévő zártkörűen működő részvénytársaságot alapít.”

@@ -1,0 +1,7 @@
+# 2023. évi XLVI. törvény az egyes gazdasági, vagyongazdálkodási és postaügyet érintő törvények módosításáról
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2023-46-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2023-06-30 | 2023. évi XLVI. törvény | 2023-46-00-00.0 (közlönyállapot) |

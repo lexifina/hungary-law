@@ -1,0 +1,3 @@
+32. § A Postatv. 41. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A könyvelt postai küldemény személyes átadásával egyenértékűnek minősül az az eset, amikor a feladó vagy a címzett és a postai szolgáltató között létrejött szerződés alapján a kézbesítést lehetővé tevő automatizált eszköz útján történik a kézbesítés oly módon, hogy az átvételi jogosultságot biztosító azonosító, a küldemény azonosítója és a kézbesítés pontos időpontja rögzítésre kerül. A kézbesítést lehetővé tevő automatizált eszköz funkcionalitására és műszaki leírására, valamint telepítésére vonatkozó feltételeket és követelményeket a Kormány rendeletben állapítja meg.”

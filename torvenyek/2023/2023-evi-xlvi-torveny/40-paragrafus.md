@@ -1,0 +1,5 @@
+## 9. Az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény módosítása
+
+40. § Az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény 125/A. § (10) bekezdése helyébe a következő rendelkezés lép:
+
+„(10) Ha a jogi személlyel szemben a büntetőeljárásban kiszabott pénzbírság vagy a megállapított bűnügyi költség végrehajtása során az adós gazdálkodó szervezettel szemben felszámolási eljárás indul, az állami adó- és vámhatóság a Cstv. 79/A. § (2) bekezdésében meghatározott bűnügyi hitelezői követelés érvényesítése érdekében, a határozat megküldésével írásban értesíti a felszámolót és a felszámolást elrendelő bíróságot, feltéve, hogy bűnügyi hitelezői igénybejelentés még nem történt. Az adóhatóság a hitelezői igény bejelentésekor köteles nyilatkozni arról, hogy a jogi személlyel szemben pénzbírságot szabtak ki, pénzösszegben kifejezett vagyonelkobzást alkalmaztak vagy a bűnügyi költség viselésére kötelezték, és ezen követelésekre vonatkozóan a Cstv. 79/D. §-a alapján hitelezői joggyakorlásra jogosult.”
