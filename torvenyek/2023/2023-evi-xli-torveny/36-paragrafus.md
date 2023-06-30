@@ -1,3 +1,1 @@
-36. § Az Nftv. 80. §-a a következő (2c) bekezdéssel egészül ki:
-
-„(2c) A (2) bekezdés h) pontjában meghatározott egészségügyi alkalmassági vizsgálat elrendelése esetén az ösztöndíjprogram lebonyolító szerve, az ösztöndíjprogram megvalósításában részt vevő felsőoktatási vagy egyéb képző intézmények, valamint az ösztöndíjprogram működéséért felelős szakmai felügyeleti szerv (e § alkalmazásában a továbbiakban együtt: adatkezelők) az ösztöndíjra pályázó, illetve az ösztöndíjban részesülő személy egészségügyi alkalmassági vizsgálata céljából a pályázati eljárásban való részvétel és az ösztöndíj elnyerése érdekében a benyújtott pályázat benyújtásától az ösztöndíjas jogviszony megszűnéséig kezeli az ösztöndíjra pályázó és az ösztöndíjban részesülő személynek az egészségügyi alkalmassági vizsgálat elvégzéséhez szükséges személyes adatait. Az adatkezelők kölcsönösen továbbíthatják egymás felé a pályázó, illetve az ösztöndíjas e bekezdésben meghatározott adatait.”
+### 36. §
