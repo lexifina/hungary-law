@@ -1,1 +1,0 @@
-A hulladékról szóló 2012. évi CLXXXV. törvény 88. § (3) bekezdés b) pont bd) alpontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 116. § 13. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
