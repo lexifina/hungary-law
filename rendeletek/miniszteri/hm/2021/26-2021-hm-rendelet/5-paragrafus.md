@@ -6,7 +6,7 @@
 
 (2) A HKR-nek az MH-ban működő elemei
 
-a) a Magyar Honvédség Parancsnoksága Integrált Műveleti Központ (a továbbiakban: MHP IMK),
+a)[^3] a Honvéd Vezérkar Összhaderőnemi Műveletvezető és Irányító Központ Integrált Műveleti Központ Állandó Blokk (a továbbiakban: HVK ÖMVIK IMK ÁB),
 
 b) az operatív csoport,
 
@@ -19,3 +19,5 @@ e) az Ágazati Információs Központ (a továbbiakban: ÁIK) és
 f) az MH Járványügyi Védekezési Csoport (a továbbiakban: MH JVCS).
 
 (3) Aktivizálás esetén a HKR HM szintű feladatainak végrehajtása a Honvédelmi Ágazati Válságkezelő Rendszer keretében, a HKR MH-ban működő elemeinek vezetése az MH Műveleti Vezetési Rendszer keretében történik.
+
+[^3]: Az 5. § (2) bekezdés a) pontja a 13/2023. (VI. 29.) HM rendelet 1. §-ával megállapított szöveg.

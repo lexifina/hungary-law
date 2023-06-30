@@ -1,4 +1,4 @@
-## 26. § Az MH PK a felkészülés és a megelőzés időszakában
+26. §[^44] A HVKF a felkészülés és a megelőzés időszakában
 
 a) szabályozza a végrehajtásban részt vevő honvédségi szervezetek katasztrófavédelmi alkalmazási terveinek kidolgozását,
 
@@ -14,6 +14,9 @@ f) gondoskodik a katasztrófavédelmi feladatok végrehajtásához szükséges t
 
 g) kijelöli az MH nukleáris, radiológiai, vegyi és biológiai veszély előrejelzésére, felmérésére létrehozott szervezet HKR részeként működő elemeit, továbbá szabályozza a működésük rendjét,
 
-h) meghatározza az MHP IMK szakmai összetételét, és
+h)[^45] meghatározza a HVK ÖMVIK IMK ÁB szakmai összetételét, és
 
 i) kijelöli a KKB NVK-ba az MH-t képviselő összekötőt.
+
+[^44]: A 26. § nyitó szövegrésze a 13/2023. (VI. 29.) HM rendelet 3. § 3. pontja szerint módosított szöveg.
+[^45]: A 26. § h) pontja a 13/2023. (VI. 29.) HM rendelet 3. § 9. pontja szerint módosított szöveg.

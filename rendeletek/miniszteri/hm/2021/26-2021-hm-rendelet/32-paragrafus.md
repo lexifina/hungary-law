@@ -10,4 +10,6 @@ b) elkészíti a nukleáris veszélyhelyzetre vonatkozó ágazati lakossági tá
 
 c) nukleáris veszélyhelyzetben működteti a Lakossági Tájékoztatási Munkacsoportot.
 
-(2) A lakossági tájékoztatás, a társadalommal és a sajtóval való kapcsolattartás MH szintű feladatait az MHP kommunikációs tevékenységéért felelős szervezeti egysége végzi a HM sajtófőnökének irányítása alatt.
+(2)[^60] A lakossági tájékoztatás, a társadalommal és a sajtóval való kapcsolattartás MH szintű feladatait a HVK kommunikációs tevékenységéért felelős szervezeti egysége végzi a HM sajtófőnökének irányítása alatt.
+
+[^60]: A 32. § (2) bekezdése a 13/2023. (VI. 29.) HM rendelet 3. § 19. pontja szerint módosított szöveg.
