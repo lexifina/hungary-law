@@ -1,0 +1,1 @@
+7/F. § A 7/E. § (1) bekezdés alapján tulajdonba adott Épületeken e törvény erejénél fogva 49 évre elidegenítési tilalom áll fenn. Az elidegenítési tilalomra vonatkozó rendelkezést a 7/E. § (3) bekezdése szerinti szerződés az Épületekre vonatkozó teherként rögzíti.

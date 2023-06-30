@@ -1,4 +1,4 @@
-## 5/B. A Budapest Főváros XII. Kerület Hegyvidéki Önkormányzat részére történő vagyonjuttatás
+## 5/B. Egyes önkormányzatok részére történő vagyonjuttatás
 
 7/C. § (1) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján az állami tulajdonban lévő, az ingatlan-nyilvántartás szerint Budapest XII. kerület, belterület 9328 helyrajzi számon nyilvántartott, természetben a Budapest XII. kerület, Művész út 7. szám alatt található ingatlan a Budapest Főváros XII. Kerület Hegyvidéki Önkormányzat tulajdonába kerül óvodai ellátás, valamint szociális és gyermekjóléti szolgáltatások és ellátások biztosításának elősegítése céljából.
 
