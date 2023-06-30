@@ -64,6 +64,6 @@
 
 ## m6: a közszolgáltató 6. bónuszát meghatározó mennyiség (kg).
 
-2. melléklet a 13/2016. (V. 24.) NFM rendelethez[^39]
+2. melléklet a 13/2016. (V. 24.) NFM rendelethez[^40]
 
-[^39]: A 2. mellékletet a 27/2021. (VI. 29.) ITM rendelet 7. § c) pontja hatályon kívül helyezte.
+[^40]: A 2. mellékletet a 27/2021. (VI. 29.) ITM rendelet 7. § c) pontja hatályon kívül helyezte.

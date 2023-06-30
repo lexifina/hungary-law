@@ -1,4 +1,4 @@
-5/A. §[^24] (1) Ha a 2013. évi CXXXIV. törvény szerinti ideiglenes ellátásra közérdekű szolgáltatóként közszolgáltató kerül kijelölésre, a fizetendő tervezett szolgáltatási díj a 6. § (5) bekezdése szerint kerül megállapításra.
+5/A. §[^25] (1) Ha a 2013. évi CXXXIV. törvény szerinti ideiglenes ellátásra közérdekű szolgáltatóként közszolgáltató kerül kijelölésre, a fizetendő tervezett szolgáltatási díj a 6. § (5) bekezdése szerint kerül megállapításra.
 
 (2) Ha a 2013. évi CXXXIV. törvény szerint ideiglenes ellátásra kijelölt közérdekű szolgáltató nem közszolgáltató, a kijelölt közérdekű szolgáltató részére fizetendő tervezett szolgáltatási díj az ideiglenes ellátással érintett településen a kijelölő döntést megelőzően közszolgáltatási feladatokat ellátó közszolgáltató indokolt szolgáltatási fajlagos költségeinek, valamint az ideiglenes ellátással érintett település tekintetében kalkulált közszolgáltatási tevékenységének mennyiségi adatai figyelembevételével kerül meghatározásra.
 
@@ -10,4 +10,4 @@
 
 (6) A (2) bekezdés szerinti esetben, ha az ideiglenes ellátás év közben szűnik meg, az 5. § (6d) bekezdése szerinti elszámolási szabályok alkalmazandók, azzal, hogy közszolgáltató alatt a közérdekű szolgáltatót kell érteni.
 
-[^24]: Az 5/A. §-t a 2/2023. (III. 30.) EM rendelet 3. §-a iktatta be.
+[^25]: Az 5/A. §-t a 2/2023. (III. 30.) EM rendelet 3. §-a iktatta be.

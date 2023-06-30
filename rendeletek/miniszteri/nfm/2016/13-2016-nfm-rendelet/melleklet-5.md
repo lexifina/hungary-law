@@ -36,6 +36,6 @@
 
 | 15. | Vegyes hulladék energetikai hasznosítása | 14 |
 
-5. melléklet a 13/2016. (V. 24.) NFM rendelethez[^42]
+5. melléklet a 13/2016. (V. 24.) NFM rendelethez[^43]
 
-[^42]: Az 5. mellékletet a 27/2021. (VI. 29.) ITM rendelet 7. § c) pontja hatályon kívül helyezte.
+[^43]: Az 5. mellékletet a 27/2021. (VI. 29.) ITM rendelet 7. § c) pontja hatályon kívül helyezte.
