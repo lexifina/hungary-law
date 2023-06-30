@@ -1,0 +1,1 @@
+50/J. § Az egyes gazdasági, vagyongazdálkodási és postaügyet érintő törvények módosításáról szóló 2023. évi XLVI. törvénnyel (a továbbiakban: Módtv10.) megállapított 21/B. § (6) és (9) bekezdését, valamint 33. § (1) bekezdését a Módtv10. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.

@@ -16,7 +16,7 @@ g) e törvény hatálya alá tartozó tevékenységek végzése során a villamo
 
 h) a bányafelügyelet hatáskörébe tartozó polgári robbantási tevékenységre vonatkozó biztonsági szabályokat vagy a hatósági határozatban előírtakat megszegi.
 
-(1a) Ha az (1) bekezdés d) pontja szerinti jogsértést az ingatlan tulajdonosa (kezelője, használója) követi el, a bírság vele szemben akkor alkalmazható, ha az ingatlan tulajdonosa (kezelője, használója) az (1) bekezdés d) pontja szerinti létesítmény tulajdonosát vagy üzemeltetőjét a jogellenes állapot megszüntetésében akadályozza.
+(1a)
 
 (1b)
 

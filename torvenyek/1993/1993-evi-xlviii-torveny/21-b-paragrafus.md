@@ -8,8 +8,10 @@
 
 (5) A geotermikus védőidomon belül e törvény hatálya alá nem tartozó geotermikus energia kinyerésére és hasznosítására szolgáló létesítmény építéséhez a bányafelügyelet előzetes hozzájárulása szükséges.
 
-(6) A természetes felszíntől mért 150 m feletti földkéregrészig a geotermikus energia kinyerésének és hasznosításának engedélyezésére a bányafelügyelet hatáskörébe tartozó, sajátos építményfajtákra vonatkozó jogszabály rendelkezéseit kell alkalmazni.
+(6) A nem termálvízzel történő geotermikus energia kinyerésének és hasznosításának engedélyezésére a bányafelügyelet hatáskörébe tartozó, sajátos építményfajtákra vonatkozó jogszabály rendelkezéseit kell alkalmazni.
 
 (7) A geotermikus energia (6) bekezdés alapján történő kinyerésére és hasznosítására a 3. §-t, a 20. §-t, a 21/B. § (8) bekezdését, a 25. § (2) bekezdés b) pontját, a 25. § (3a) bekezdés d) pontját és a 41. §-t alkalmazni kell.
 
 (8) A geotermikusenergia-hasznosító létesítményekről, a kitermelt és hasznosított geotermikus energia mennyiségéről, valamint a megállapított geotermikus védőidomokról a bányafelügyelet nyilvántartást vezet.
+
+(9) A bányafelügyelet törli a nyilvántartásából a kijelölt geotermikus védőidomot, ha a bányavállalkozóval a 21/C. § (1) bekezdése szerinti szerződés nem jön létre.
