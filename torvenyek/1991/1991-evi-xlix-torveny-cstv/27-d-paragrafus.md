@@ -1,18 +1,20 @@
-27/D. § (1) A felszámolók névjegyzékét vezető szerv a Hatóság, amely hatósági tevékenysége során minden más szervtől független, és a feladatkörébe tartozó hatósági ügyek tekintetében nem utasítható.
+27/D. § (1) A felszámolók névjegyzékét vezető szerv a Hatóság.
 
 (1a) A felszámolási elektronikus értékesítési rendszer, a csődeljárásban a vagyonfelügyelő, a felszámolási eljárásban a felszámoló és az ideiglenes vagyonfelügyelő elektronikus kiválasztás igénybevételével történő kirendelésére szolgáló elektronikus rendszer működtetője és üzemeltetője a Hatóság.
 
-(2) A Hatóság országos illetékességgel jár el. A Hatóság feladat- és hatáskörébe tartozó, a felszámolók névjegyzékébe történő felvétellel kapcsolatos ügyek intézésének határideje két hónap. A felszámolók névjegyzékébe való felvétellel, valamint a felszámolói névjegyzék és a feladatkörébe tartozó hatósági nyilvántartások vezetésével kapcsolatos eljárásokban a Hatóság írásban tart kapcsolatot az ügyféllel és az eljárásban résztvevőkkel. A kérelmet írásban, a Hatóság által e célra rendszeresített formanyomtatványon lehet előterjeszteni.
+(1b) A környezeti kárral vagy környezeti teherrel érintett vagyontárgy értékesítésének megkezdéséhez a Hatóság elnökének hozzájárulása szükséges. A Hatóság elnöke az értékesítéshez hozzájáruló döntésében a vagyontárgy értékesítését feltételekhez kötheti. A Hatóság elnöke az előtte folyamatban lévő eljárást felfüggeszti a környezetvédelemért felelős miniszter, valamint – ha az ingatlanon még nem kezelt hulladék van – az országos hulladékgazdálkodási hatóság szakhatósági állásfoglalásának beszerzéséig.
+
+(2) A Hatóság országos illetékességgel jár el. A Hatóság feladat- és hatáskörébe tartozó, a felszámolók névjegyzékébe történő felvétellel kapcsolatos ügyek intézésének határideje két hónap. A felszámolók névjegyzékébe való felvétellel, a felszámolói névjegyzék és a feladatkörébe tartozó hatósági nyilvántartások vezetésével kapcsolatos, valamint az (1b) bekezdés szerinti eljárásokban a Hatóság írásban tart kapcsolatot az ügyféllel és az eljárásban résztvevőkkel. A kérelmet írásban, a Hatóság által e célra rendszeresített formanyomtatványon lehet előterjeszteni.
 
 (3) Nincs helye sommás eljárásnak:
 
 a) a felszámolók névjegyzékébe való felvétellel és
 
-b) a környezeti teherrel érintett ingatlanok értékesíthetőségével kapcsolatos eljárásban.
+b) a környezeti kárral vagy környezeti teherrel érintett ingatlanok értékesíthetőségével kapcsolatos eljárásban.
 
 (4) A (3) bekezdés a) pont szerinti eljárásban hiánypótlásra felhívásnak legfeljebb két ízben van helye.
 
-(5) A Hatóság az előtte folyamatban lévő eljárást felfüggesztheti, ha a környezeti teherrel érintett vagyontárgy értékesítéséhez való hozzájárulás érdekében a környezetvédelemért felelős miniszter, ha az ingatlanon még nem kezelt hulladék van, a hulladékgazdálkodási hatóság szakmai állásfoglalásának beszerzése szükséges.
+(5)
 
 (6) A felszámolók névjegyzékébe való felvétellel kapcsolatos eljárás ügyintézési határideje a pályázati kérelmeket értékelő bizottság értékelő jegyzőkönyvének hatósághoz történő megérkezését követő napon kezdődik. Ezen eljárásokban szünetelésnek nincs helye.
 
@@ -30,7 +32,7 @@ b) a környezeti teherrel érintett ingatlanok értékesíthetőségével kapcso
 
 (13) A bíróság a felszámolók névjegyzékébe való felvétellel kapcsolatos eljárásban hozott döntést nem változtathatja meg.
 
-(14) A Hatóság felszámolói névjegyzékkel, valamint a felszámoló szervezetek más hatósági nyilvántartásaival kapcsolatos hatósági döntéseivel szembeni közigazgatási perek elbírálására a Fővárosi Törvényszék rendelkezik kizárólagos illetékességgel.
+(14)
 
 (15) A Hatóság a felszámolóbiztos, a vagyonfelügyelő, az ideiglenes vagyonfelügyelő és a rendkívüli vagyonfelügyelő (e § alkalmazásában a továbbiakban együtt: fizetésképtelenségi szakértő) részére e minőségének igazolására fizetésképtelenségi szakértői igazolványt állít ki. A fizetésképtelenségi szakértői igazolványra vonatkozó részletes szabályokat, valamint az igazolvány személyes adatot nem tartalmazó adattartalmát a Hatóság elnöke rendeletben állapítja meg. A fizetésképtelenségi szakértő az igazolványát a névjegyzékbe történő bejegyzése után veheti át.
 

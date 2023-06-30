@@ -1,4 +1,4 @@
-79/C. § (1) Ha a Be. 332. § (3) bekezdése alapján a zár alá vett vagyon helyébe előzetes bűnügyi hitelezői igénybejelentés lép, és a zár alá vétel az eredeti vagyon tekintetében megszűnik, a kirendelését követően az állami felszámoló intézkedik
+79/C. § (1) Ha a Be. 332. § (3) bekezdése alapján a zár alá vett vagyon helyébe előzetes bűnügyi hitelezői igény lép, és a zár alá vétel az eredeti vagyon tekintetében megszűnik, a kirendelését követően az állami felszámoló intézkedik
 
 a) az eredeti vagyon tekintetében a zár alá vétel közhiteles nyilvántartásból való törlése iránt, illetve
 

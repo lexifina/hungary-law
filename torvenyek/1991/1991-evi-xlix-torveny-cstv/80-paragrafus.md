@@ -6,4 +6,4 @@
 
 (2) Ha a Nyugdíjbiztosítási Alapot megillető követelés a társadalombiztosítási nyugellátásról szóló törvényen alapuló ellátások – ideértve a korengedményes nyugdíjat is – megtérítése címén áll fenn, az állami adóhatóság a követelés behajtására jogosult szervezet.
 
-(3) A 79/D. § (1) bekezdése alapján a magyar állam képviselőjeként eljáró állami adó- és vámhatóság a hitelezői igényként nyilvántartásba vett, bűnügyi hitelezői igénybejelentés alapjául szolgáló követelésről az egyezségkötés érdekében részben lemondhat.
+(3) A 79/D. § (1) bekezdése alapján a magyar állam képviselőjeként eljáró állami adó- és vámhatóság a bűnügyi hitelezői igényről az egyezségkötés érdekében részben lemondhat.
