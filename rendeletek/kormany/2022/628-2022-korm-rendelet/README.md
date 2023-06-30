@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-628-20-
 | 2023-03-02 | 2022-628-20-22.6 | 2010. évi CXXX. törvény |
 | 2023-03-07 | 2022-628-20-22.12 | 1/2023. (II. 15.) BM határozat |
 | 2023-03-08 | 2022-628-20-22.13 | 2010: CXXX. törvény |
+| 2023-06-30 | 2022-628-20-22.7 | Nemzeti Jogszabálytár (egységes szerkezet) |

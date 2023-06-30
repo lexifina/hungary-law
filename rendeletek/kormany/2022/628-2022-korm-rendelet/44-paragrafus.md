@@ -10,9 +10,9 @@
 
 (5) A 31. § 2023. július 1-jén lép hatályba.
 
-(6) A 9. alcím az (EU) 2018/1862 európai parlamenti és tanácsi rendelet 79. cikk (2) bekezdése szerinti bizottsági határozatban meghatározott napon lép hatályba.[^44]
+(6) A 9. alcím az (EU) 2018/1862 európai parlamenti és tanácsi rendelet 79. cikk (2) bekezdése szerinti bizottsági határozatban meghatározott napon lép hatályba.[^41]
 
-(7) A 9. alcím hatálybalépésének naptári napját a rendészetért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.[^45]
+(7) A 9. alcím hatálybalépésének naptári napját a rendészetért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.[^42]
 
-[^44]: Az 1/2023. (II. 15.) BM határozat 2. pont g) alpontja alapján a hatálybalépés időpontja 2023. március 7.
-[^45]: Lásd az 1/2023. (II. 15.) BM határozatot.
+[^41]: Az 1/2023. (II. 15.) BM határozat 2. pont g) alpontja alapján a hatálybalépés időpontja 2023. március 7.
+[^42]: Lásd az 1/2023. (II. 15.) BM határozatot.
