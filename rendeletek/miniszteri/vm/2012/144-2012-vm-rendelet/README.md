@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-144-20-
 | 2016-07-01 | 2012-144-20-2Y.7 | 43/2016. (VI. 28.) FM rendelet |
 | 2017-01-01 | 2012-144-20-2Y.8 | 15/2015. (III. 31.) FM rendelet |
 | 2018-10-17 | 2012-144-20-2Y.9 | 15/2015. (III. 31.) FM rendelet |
+| 2023-06-30 | 2012-144-20-2Y.10 | 15/2015. (III. 31.) FM rendelet |

@@ -1,3 +1,3 @@
-## 12. §[^7]
+13. §[^8]
 
-[^7]: A 12. §-t a 40/2013. (V. 24.) VM rendelet 7. § (2) bekezdése hatályon kívül helyezte.
+[^8]: A 13. §-t a 89/2016. (XII. 29.) FM rendelet 17. § (2) bekezdése hatályon kívül helyezte.

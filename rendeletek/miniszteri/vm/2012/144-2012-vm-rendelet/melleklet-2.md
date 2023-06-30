@@ -1,12 +1,12 @@
-## A PCB-től megtisztított berendezések
-
 ## A Magyarországon használt PCB-től megtisztított berendezéseken letörölhetetlen, domborított vagy bevésett betűket tartalmazó táblát (címkét) kell rögzíteni, amelynek a következőket kell tartalmaznia:
+
+## 2K37080_0
 
 |  | PCB-TŐL MEGTISZTÍTOTT BERENDEZÉS A PCB-t tartalmazó folyadék cseréje megtörtént: – a helyettesítő anyag neve: ………………………… – a csere dátuma: ……………………………………. – a cserét elvégezte: ………………………………… A PCB koncentrációja: ………………………………… – a régi folyadékban ………………………… tömeg% – az új folyadékban: ………………………… tömeg% |
 
 2. melléklet a 144/2012. (XII. 27.) VM rendelethez[^10]
 
-## A hulladékká vált PCB, PCB-vel szennyezett berendezés, valamint tárgy ártalmatlanítására szolgáló műveletek
+A hulladékká vált PCB, PCB-vel szennyezett berendezés, valamint tárgy ártalmatlanítására szolgáló műveletek
 
 1.[^11] A hulladékgazdálkodással kapcsolatos ártalmatlanítási és hasznosítási műveletek felsorolásáról szóló 43/2016. (VI. 28.) FM rendelet (a továbbiakban: miniszteri rendelet) 1. melléklete szerinti D8 művelet.
 

@@ -1,6 +1,6 @@
 3. melléklet a 144/2012. (XII. 27.) VM rendelethez
 
-## A több, mint 0,05% PCB szennyezettséggel rendelkező berendezéseken alkalmazandó felirat
+A több, mint 0,05% PCB szennyezettséggel rendelkező berendezéseken alkalmazandó felirat
 
 1. Nyilvántartásba vett, PCB-t tartalmazó berendezésre helyezendő felirat:
 
