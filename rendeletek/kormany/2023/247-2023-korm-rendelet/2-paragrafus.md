@@ -1,0 +1,3 @@
+## 2. A dohánytermék-kiskereskedelmi jogosultság átengedéséről szóló pályázattal, valamint a dohánytermék-kiskereskedelmi tevékenység gyakorlására jogosító koncessziós szerződéssel kapcsolatos egyes feladatok ellátásáról szóló 485/2021. (VIII. 13.) Korm. rendelet módosítása
+
+2. § A dohánytermék-kiskereskedelmi jogosultság átengedéséről szóló pályázattal, valamint a dohánytermék-kiskereskedelmi tevékenység gyakorlására jogosító koncessziós szerződéssel kapcsolatos egyes feladatok ellátásáról szóló 485/2021. (VIII. 13.) Korm. rendelet 1. §-ában az „az állami vagyon felügyeletéért” szövegrész helyébeaz „a településfejlesztésért és településrendezésért” szöveg lép.
