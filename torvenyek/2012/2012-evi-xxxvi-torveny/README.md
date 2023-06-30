@@ -65,3 +65,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-36-00-00
 | 2023-01-01 | 2022. évi XVIII. törvény | 2012-36-00-00.55 |
 | 2023-03-31 | 2022. évi XXXI. törvény | 2012-36-00-00.58 |
 | 2023-06-05 | 2023. évi XXXI. törvény | 2012-36-00-00.61 |
+| 2023-06-30 | 4/2023. (V. 16.) AB határozat | 2012-36-00-00.60 |

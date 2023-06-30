@@ -1,4 +1,4 @@
-49. § (1) A kitiltott képviselő az Országház és az Országgyűlés Hivatalának elhelyezésére szolgáló épületek területét köteles elhagyni, a kitiltás időtartama alatt azok területén – a 49/A. § (7) bekezdésében és az 51. § (4) bekezdésében foglalt kivétellel – nem tartózkodhat, illetve oda nem léphet be.
+49. § (1) A kitiltott képviselő az Országház területét köteles elhagyni, a kitiltás időtartama alatt területén – a 49/A. § (7) bekezdésében és az 51. § (4) bekezdésében foglalt kivétellel – nem tartózkodhat, illetve oda nem léphet be.
 
 (2) Ha az ülést vezető elnök által azonnali hatállyal kitiltott képviselő az ülést vezető elnök ülésterem elhagyására irányuló felszólításának nem tesz eleget, a vele szemben elrendelendő tiszteletdíj-csökkentés összegének a felső határa a kétszeresére emelkedik.
 
