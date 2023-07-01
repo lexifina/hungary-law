@@ -6,4 +6,4 @@
 
 (3) Ha a gyermek együtt élő szülők háztartásában él, a családi pótlékot – együttes nyilatkozatuk alapján – bármelyik szülő igényelheti, mégpedig nyilatkozatuk szerint gyermekenként. Megállapodás hiányában az ellátást igénylő szülő személyéről – kérelemre – a gyámhatóság dönt.
 
-(4) Ha a szülők időszakonként felváltva gondozzák gyermeküket és a szülői felügyeleti jog mindkét szülő esetében fennáll, a családi pótlékra – közös kérelmükre, 50-50%-os arányban – mindkét szülő jogosult. A kérelemhez csatolni kell a szülők arról szóló közös nyilatkozatát, hogy a gyermek gondozásáról, neveléséről saját háztartásaikban felváltva gondoskodnak.
+(4) Ha a gyermeket a – közös szülői felügyeletet gyakorló – külön élő szülők felváltva, azonos időtartamban nevelik és gondozzák, a családi pótlékra 50-50%-os arányban mindkét szülő jogosult.

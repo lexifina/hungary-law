@@ -18,6 +18,8 @@ g) a nevelési-oktatási intézmény a feladatkörébe tartozó támogatások, k
 
 h) a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 7. § (1) bekezdés c) pontjában meghatározott szervezet a közforgalmú személyszállítási utazási kedvezmények ellenőrzése céljából a központi családtámogatási szerv által kibocsátott, az utazási kedvezményre való jogosultságot igazoló hatósági igazolványon szereplő személyekre vonatkozóan az ellenőrzéshez szükséges adatokat,
 
+i) az állami foglalkoztatási szerv a gyermekek után járó támogatások lekérdezése, nyilvántartásba vétel, ellátás megállapítása érdekében szükséges adatokat
+
 közvetlen lekérdezéssel díjmentesen elérheti.
 
 (3) A központi családtámogatási szerv a 49/B. § (2) bekezdés a) és b) pontjában és a 49/B. § (3) bekezdés a) és b) pontjában meghatározott adatok pontosságának ellenőrzése érdekében adategyeztetést folytathat az egészségbiztosítási szervvel. Az adategyeztetés módjáról a Kormány által kijelölt szerv és az egészségbiztosítási szerv megállapodást köt.
