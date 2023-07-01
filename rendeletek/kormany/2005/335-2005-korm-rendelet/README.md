@@ -45,3 +45,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-335-20-
 | 2022-01-01 | 2005-335-20-22.41 | 477/2021. (VIII. 9.) Korm. rendelet |
 | 2022-07-01 | 2005-335-20-22.42 | 238/2022. (VI. 30.) Korm. rendelet |
 | 2023-01-01 | 2005-335-20-22.43 | 87/2012. (IV. 26.) Korm. rendelet |
+| 2023-07-01 | 2005-335-20-22.45 | 286/2023. (VI. 30.) Korm. rendelet |

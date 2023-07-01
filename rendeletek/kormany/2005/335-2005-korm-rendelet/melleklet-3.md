@@ -58,7 +58,9 @@
 
 ## o)[^258] a vármegyei kormányhivatal átruházási megállapodásból eredő, a kifizető ügynökségi feladatok tekintetében az Európai Mezőgazdasági Garancia Alapból (társ)finanszírozott támogatási és kifizetési kérelmekkel, az Európai Mezőgazdasági Vidékfejlesztési Alapból társfinanszírozott intézkedésekkel kapcsolatos egyes kérelemkezelési, a tagállami költségvetésből finanszírozott támogatási és kifizetési kérelmekkel, valamint az intézkedésekkel összefüggő helyszíni vizsgálatokkal kapcsolatos egyes ellenőrzési feladataival kapcsolatos küldemények.
 
-3. melléklet a 335/2005. (XII. 29.) Korm. rendelethez[^259]
+## p)[^259] az utazási költségtérítési támogatással, valamint a foglalkoztatók és társadalombiztosítási kifizetőhelyek felügyeletével kapcsolatos feladatkörükben eljáró fővárosi és vármegyei kormányhivatalok eljárásaiban keletkezett küldemények, amelyeknek a kézbesítését a Magyar Államkincstár végzi.
+
+3. melléklet a 335/2005. (XII. 29.) Korm. rendelethez[^260]
 
 A központosított irattári szolgáltatásokat igénybe vevő szervek
 
@@ -76,7 +78,7 @@ A központosított irattári szolgáltatásokat igénybe vevő szervek
 
 7. Nemzeti Örökség Intézete
 
-8.[^260] Magyarságkutató Intézet
+8.[^261] Magyarságkutató Intézet
 
 9. Nemzeti Kommunikációs Hivatal
 
@@ -88,7 +90,7 @@ A központosított irattári szolgáltatásokat igénybe vevő szervek
 
 13. Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság
 
-14.[^261] Országos Idegenrendészeti Főigazgatóság
+14.[^262] Országos Idegenrendészeti Főigazgatóság
 
 15. Büntetés-végrehajtás Országos Parancsnoksága
 
@@ -98,15 +100,15 @@ A központosított irattári szolgáltatásokat igénybe vevő szervek
 
 18. Országos Rendőr-főkapitányság
 
-19.[^262] Nemzeti Információs Központ
+19.[^263] Nemzeti Információs Központ
 
 20. Terrorelhárítási Központ
 
-21.[^263] Kulturális és Innovációs Minisztérium
+21.[^264] Kulturális és Innovációs Minisztérium
 
 22. Emberi Erőforrás Támogatáskezelő
 
-23.[^264] Országos Kórházi Főigazgatóság
+23.[^265] Országos Kórházi Főigazgatóság
 
 24. Klebelsberg Központ
 
@@ -120,7 +122,7 @@ A központosított irattári szolgáltatásokat igénybe vevő szervek
 
 29. Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet
 
-30.[^265] Agrárminisztérium
+30.[^266] Agrárminisztérium
 
 31. Nemzeti Élelmiszerlánc-biztonsági Hivatal
 
@@ -130,7 +132,7 @@ A központosított irattári szolgáltatásokat igénybe vevő szervek
 
 34. Nemzeti Befektetési Ügynökség
 
-35.[^266]
+35.[^267]
 
 36. Magyar Államkincstár
 
@@ -138,27 +140,27 @@ A központosított irattári szolgáltatásokat igénybe vevő szervek
 
 38. Szellemi Tulajdon Nemzeti Hivatala
 
-39.[^267] Technológiai és Ipari Minisztérium
+39.[^268] Technológiai és Ipari Minisztérium
 
-40.[^268] Szabályozott Tevékenységek Felügyeleti Hatósága bányafelügyeleti feladatkörében eljárva
+40.[^269] Szabályozott Tevékenységek Felügyeleti Hatósága bányafelügyeleti feladatkörében eljárva
 
-41.[^269] Pénzügyminisztérium
+41.[^270] Pénzügyminisztérium
 
 42. Igazságügyi Minisztérium
 
-43.[^270] Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság
+43.[^271] Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság
 
-44.[^271] Nemzeti Szakértői és Kutató Központ
+44.[^272] Nemzeti Szakértői és Kutató Központ
 
-45.[^272]
+45.[^273]
 
-46.[^273] Miniszterelnöki Kormányiroda
+46.[^274] Miniszterelnöki Kormányiroda
 
-47.[^274] Nemzeti Földügyi Központ
+47.[^275] Nemzeti Földügyi Központ
 
-48.[^275] Nemzeti Akkreditáló Hatóság
+48.[^276] Nemzeti Akkreditáló Hatóság
 
-49.[^276] Társadalmi Esélyteremtési Főigazgatóság
+49.[^277] Társadalmi Esélyteremtési Főigazgatóság
 
 [^250]: A 2. melléklet címe a 477/2021. (VIII. 9.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
 [^251]: A 2. melléklet II. pont c) alpontja a 379/2016. (XII. 2.) Korm. rendelet 71. § (3) bekezdésével megállapított, a 311/2017. (X. 31.) Korm. rendelet 11. §-a, a 616/2022. (XII. 29.) Korm. rendelet 63. §-a szerint módosított szöveg.
@@ -169,21 +171,22 @@ A központosított irattári szolgáltatásokat igénybe vevő szervek
 [^256]: A 2. melléklet II. pont m) alpontját a 34/2015. (II. 27.) Korm. rendelet 37. §-a iktatta be.
 [^257]: A 2. melléklet II. pont n) alpontját a 62/2015. (III. 24.) Korm. rendelet 11. § (5) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 71. § (6) bekezdés d) pontja és (9) bekezdése, a 616/2022. (XII. 29.) Korm. rendelet 63. §-a szerint módosított szöveg.
 [^258]: A 2. melléklet II. pont o) alpontját újonnan a 20/2017. (II. 2.) Korm. rendelet 3. §-a iktatta be, szövege a 616/2022. (XII. 29.) Korm. rendelet 63. §-a szerint módosított szöveg.
-[^259]: A 3. mellékletet a 269/2017. (IX. 13.) Korm. rendelet 4. § (1) bekezdése iktatta be.
-[^260]: A 3. melléklet 8. pontja a 206/2018. (XI. 10.) Korm. rendelet 6. § (1) bekezdés b) pontjával megállapított szöveg.
-[^261]: A 3. melléklet 14. pontja a 126/2019. (V. 30.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^262]: A 3. melléklet 19. pontja a 239/2022. (VI. 30.) Korm. rendelet 6. §-a szerint módosított szöveg.
-[^263]: A 3. melléklet 21. pontja a 238/2022. (VI. 30.) Korm. rendelet 40. § (2) bekezdés c) pontjával megállapított szöveg.
-[^264]: A 3. melléklet 23. pontja a 70/2021. (II. 19.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^265]: A 3. melléklet 30. pontja a 95/2018. (V. 22.) Korm. rendelet 2. § (2) bekezdés 1. pontjával megállapított szöveg.
-[^266]: A 3. melléklet 35. pontját a 615/2022. (XII. 29.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.
-[^267]: A 3. melléklet 39. pontja a 238/2022. (VI. 30.) Korm. rendelet 40. § (2) bekezdés d) pontjával megállapított szöveg.
-[^268]: A 3. melléklet 40. pontja a 825/2021. (XII. 28.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^269]: A 3. melléklet 41. pontja a 95/2018. (V. 22.) Korm. rendelet 2. § (2) bekezdés 4. pontjával megállapított szöveg.
-[^270]: A 3. melléklet 43. pontja a 137/2019. (VI. 11.) Korm. rendelet 14. § u) pontjával megállapított szöveg.
-[^271]: A 3. melléklet 44. pontját a 137/2019. (VI. 11.) Korm. rendelet 15. § a) pontja hatályon kívül helyezte, újonnan a 6/2020. (I. 31.) Korm. rendelet 4. § (3) bekezdése iktatta be.
-[^272]: A 3. melléklet 45. pontját a 137/2019. (VI. 11.) Korm. rendelet 15. § a) pontja hatályon kívül helyezte.
-[^273]: A 3. melléklet 46. pontját a 95/2018. (V. 22.) Korm. rendelet 1. § 2. pontja iktatta be.
-[^274]: A 3. melléklet 47. pontját a 159/2019. (VI. 28.) Korm. rendelet 2. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.
-[^275]: A 3. melléklet 48. pontját az 572/2020. (XII. 9.) Korm. rendelet 21. §-a iktatta be.
-[^276]: A 3. melléklet 49. pontját az 572/2020. (XII. 9.) Korm. rendelet 21. §-a iktatta be.
+[^259]: A 2. melléklet II. pont p) alpontját a 286/2023. (VI. 30.) Korm. rendelet 28. § (1) bekezdése iktatta be.
+[^260]: A 3. mellékletet a 269/2017. (IX. 13.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+[^261]: A 3. melléklet 8. pontja a 206/2018. (XI. 10.) Korm. rendelet 6. § (1) bekezdés b) pontjával megállapított szöveg.
+[^262]: A 3. melléklet 14. pontja a 126/2019. (V. 30.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^263]: A 3. melléklet 19. pontja a 239/2022. (VI. 30.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^264]: A 3. melléklet 21. pontja a 238/2022. (VI. 30.) Korm. rendelet 40. § (2) bekezdés c) pontjával megállapított szöveg.
+[^265]: A 3. melléklet 23. pontja a 70/2021. (II. 19.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^266]: A 3. melléklet 30. pontja a 95/2018. (V. 22.) Korm. rendelet 2. § (2) bekezdés 1. pontjával megállapított szöveg.
+[^267]: A 3. melléklet 35. pontját a 615/2022. (XII. 29.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.
+[^268]: A 3. melléklet 39. pontja a 238/2022. (VI. 30.) Korm. rendelet 40. § (2) bekezdés d) pontjával megállapított szöveg.
+[^269]: A 3. melléklet 40. pontja a 825/2021. (XII. 28.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^270]: A 3. melléklet 41. pontja a 95/2018. (V. 22.) Korm. rendelet 2. § (2) bekezdés 4. pontjával megállapított szöveg.
+[^271]: A 3. melléklet 43. pontja a 137/2019. (VI. 11.) Korm. rendelet 14. § u) pontjával megállapított szöveg.
+[^272]: A 3. melléklet 44. pontját a 137/2019. (VI. 11.) Korm. rendelet 15. § a) pontja hatályon kívül helyezte, újonnan a 6/2020. (I. 31.) Korm. rendelet 4. § (3) bekezdése iktatta be.
+[^273]: A 3. melléklet 45. pontját a 137/2019. (VI. 11.) Korm. rendelet 15. § a) pontja hatályon kívül helyezte.
+[^274]: A 3. melléklet 46. pontját a 95/2018. (V. 22.) Korm. rendelet 1. § 2. pontja iktatta be.
+[^275]: A 3. melléklet 47. pontját a 159/2019. (VI. 28.) Korm. rendelet 2. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^276]: A 3. melléklet 48. pontját az 572/2020. (XII. 9.) Korm. rendelet 21. §-a iktatta be.
+[^277]: A 3. melléklet 49. pontját az 572/2020. (XII. 9.) Korm. rendelet 21. §-a iktatta be.
