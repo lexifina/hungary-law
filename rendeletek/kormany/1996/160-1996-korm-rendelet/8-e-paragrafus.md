@@ -12,30 +12,31 @@ engedélye alapján adható.
 
 (3) Az (1) bekezdés c) pont alkalmazásában a védett személy hivatala
 
-a) a köztársasági elnök esetében a Köztársasági Elnök Hivatala,
+a)[^64] a köztársasági elnök esetében a Sándor-palota,
 
-b)[^64] a miniszterelnök esetében a kormányzati tevékenység összehangolásáért felelős miniszter által vezetetett minisztérium,
+b)[^65] a miniszterelnök esetében a kormányzati tevékenység összehangolásáért felelős miniszter által vezetetett minisztérium,
 
-c)[^65]
+c)[^66]
 
 d) az Alkotmánybíróság elnöke esetében az Alkotmánybíróság Hivatala,
 
-e)[^66] a Kúria elnöke esetében a Kúria Kabinet,
+e)[^67] a Kúria elnöke esetében a Kúria Kabinet,
 
-f)[^67] a legfőbb ügyész esetében a Legfőbb Ügyészség Kabinet,
+f)[^68] a legfőbb ügyész esetében a Legfőbb Ügyészség Kabinet,
 
-g)[^68] az ideiglenes védelemben részesített személy esetében a kormányzati tevékenység összehangolásáért felelős miniszter által vezetetett minisztérium,
+g)[^69] az ideiglenes védelemben részesített személy esetében a kormányzati tevékenység összehangolásáért felelős miniszter által vezetetett minisztérium,
 
-h)[^69] az e rendelet alapján utóbiztosításra jogosult esetében – megszűnt tisztségétől függően – az a)–b) pontban meghatározott hivatal.
+h)[^70] az e rendelet alapján utóbiztosításra jogosult esetében – megszűnt tisztségétől függően – az a)–b) pontban meghatározott hivatal.
 
 [^59]: A 8/E. §-t a 63/2010. (III. 18.) Korm. rendelet 5. §-a iktatta be.
 [^60]: A 8/E. § (1) bekezdés nyitó szövegrésze a 232/2010. (VIII. 19.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
 [^61]: A 8/E. § (1) bekezdés a) pontja a 374/2011. (XII. 31.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^62]: A 8/E. § (1) bekezdés b) pontja a 276/2011. (XII. 20.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^63]: A 8/E. § (2) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 4. §-a szerint módosított szöveg.
-[^64]: A 8/E. § (3) bekezdés b) pontja a 221/2014. (IX. 4.) Korm. rendelet 170. § b) pontja szerint módosított szöveg.
-[^65]: A 8/E. § (3) bekezdés c) pontját a 102/2012. (V. 18.) Korm. rendelet 11. § c) pontja hatályon kívül helyezte.
-[^66]: A 8/E. § (3) bekezdés e) pontját az 591/2020. (XII. 17.) Korm. rendelet 3. § c) pontja hatályon kívül helyezte, újonnan a 483/2022. (XI. 28.) Korm. rendelet 2. §-a iktatta be.
-[^67]: A 8/E. § (3) bekezdés f) pontja a 102/2012. (V. 18.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^68]: A 8/E. § (3) bekezdés g) pontja a 102/2012. (V. 18.) Korm. rendelet 7. § (2) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 170. § b) pontja szerint módosított szöveg.
-[^69]: A 8/E. § (3) bekezdés h) pontját a 102/2012. (V. 18.) Korm. rendelet 8. §-a iktatta be.
+[^64]: A 8/E. § (3) bekezdés a) pontja a 258/2023. (VI. 28.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^65]: A 8/E. § (3) bekezdés b) pontja a 221/2014. (IX. 4.) Korm. rendelet 170. § b) pontja szerint módosított szöveg.
+[^66]: A 8/E. § (3) bekezdés c) pontját a 102/2012. (V. 18.) Korm. rendelet 11. § c) pontja hatályon kívül helyezte.
+[^67]: A 8/E. § (3) bekezdés e) pontját az 591/2020. (XII. 17.) Korm. rendelet 3. § c) pontja hatályon kívül helyezte, újonnan a 483/2022. (XI. 28.) Korm. rendelet 2. §-a iktatta be.
+[^68]: A 8/E. § (3) bekezdés f) pontja a 102/2012. (V. 18.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^69]: A 8/E. § (3) bekezdés g) pontja a 102/2012. (V. 18.) Korm. rendelet 7. § (2) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 170. § b) pontja szerint módosított szöveg.
+[^70]: A 8/E. § (3) bekezdés h) pontját a 102/2012. (V. 18.) Korm. rendelet 8. §-a iktatta be.
