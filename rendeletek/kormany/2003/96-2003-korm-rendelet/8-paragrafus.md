@@ -1,79 +1,96 @@
-8. §[^45] (1) A kérelemben fel kell tüntetni
+8. §[^46] (1)[^47] A kérelemben fel kell tüntetni
 
-a) a kérelmező telephelyét;
+1. a kérelmező azonosító adatait (megnevezés, székhelyének címe, adószám, cégjegyzékszám vagy nyilvántartásba vételi szám, gazdasági társaságok esetén a képviselő nevét, költségvetési szerv esetén a vezető nevét);
 
-b) új, egyéni vállalkozás keretében működni kívánó egészségügyi szolgáltató kivételével a kérelmező KSH törzsszámát;
+2. a fenntartó megnevezését;
 
-c) amennyiben az egészségügyi szolgáltató a szolgáltatást nem saját tulajdonában lévő ingatlanban végzi, a tulajdonos nevét, székhelyét, az ingatlan (ingatlanrész) használatának jogcímét;
+3. a telefonos elérhetősége(i)t, elektronikus levelezési címét, honlapja címét;
 
-d) az egészségügyi szolgáltatás nyújtásának helyét, a rendelési időt és a betegek részére rendelkezésre állás idejét, védőnői szolgálat esetén a tanácsadás idejét;
+4. a szerződött egészség- és önsegélyező pénztár(ak) megnevezését;
 
-e) az ellátni kívánt egészségügyi szakma (szakmák) megnevezését, szakmakódját, progresszivitási szintjét, ellátási formáját;
+5. azon biztosító megnevezését, akivel a szolgáltatás során okozott kár megtérítésére, illetve sérelemdíj megfizetésére felelősségbiztosítási szerződést kötött;
 
-f) a tevékenységet végző egészségügyi dolgozók (orvos, szakdolgozó, nem egészségügyi szakképesítéssel rendelkező) nevét, pecsétszámát vagy működési nyilvántartási számát, foglalkoztatási jogviszonyát;
+6. a kérelmezett egészségügyi szolgáltatás nyújtásának telephelyét;
 
-g) a kérelemben foglalt egészségügyi szakmától és ellátási formától függően az ügyeleti, készenléti rendszerben való részvétel módját;
+7. a telephelyül szolgáló ingatlan (ingatlanrész) használatának jogcímét;
 
-h) ha az egészségügyi szolgáltató az általa nyújtott szolgáltatások egy részét más egészségügyi szolgáltatóval kötött szerződés alapján, annak közreműködésével nyújtja a betegnek, a közreműködő egészségügyi szolgáltató által teljesítendő szolgáltatásokat;
+8. az egészségügyi szolgáltatás egészségügyi szolgáltatók és működési engedélyük nyilvántartásáról, valamint az egészségügyi szakmai jegyzékről szóló miniszteri rendelet szerinti ellátási formáját, az egészségügyi szakma (szakmák) megnevezését, szakmakódját, progresszivitási szintjét;
 
-i) területi ellátási kötelezettséggel működő alapellátás esetén az önkormányzat által kijelölt körzet megjelölését (körzet száma vagy körzet határai);
+9. járóbeteg-szakellátás és alapellátás esetén a rendelési időt, alapellátás esetén a rendelkezésre állás idejét, házi gyermekorvosi, vegyes felnőtt háziorvosi és védőnői ellátás esetén a tanácsadás idejét;
 
-j) a jogszabály szerint gyógyászati segédeszköznek minősülő termék forgalmazására, kölcsönzésére, javítására irányuló tevékenység esetén azt, hogy sorozatgyártású, egyedi méretvétel alapján készült vagy méretre igazított segédeszközt fog forgalmazni, kölcsönözni, illetve javítani;
+10. területi ellátási kötelezettséggel működő alapellátás esetén a kijelölt körzet megjelölését (körzet száma, körzet határai);
 
-k) az egészségügyi szolgáltató fenntartójának nevét;
+11. az egészségügyi alapellátásban folytatott szakmák esetén a helyettesítés helyét, a helyettesítő személyek nevét, nyilvántartási számát;
 
-l) a jogszabályban meghatározott egyéb adatokat;
+12. a kérelemben foglalt egészségügyi szakmától és ellátási formától függően az ágyszámot, a kezelőhelyek számát, az ügyeleti, készenléti rendszerben való részvétel módját;
 
-m)[^46] az egészségügyi alapellátásban folytatott szakmák esetén a helyettesítés helyét, a helyettesítő személyek nevét és orvosi bélyegzője számát vagy működési nyilvántartási számát.
+13. ha az egészségügyi szolgáltató az általa nyújtott szolgáltatások egy részét más egészségügyi szolgáltatóval kötött szerződés alapján, annak közreműködésével nyújtja, ennek megjelölését, a közreműködő egészségügyi szolgáltató által teljesítendő szolgáltatásokat;
 
-(2) A kérelemmel érintett szakmákat a szolgáltató által létrehozott szervezeti egységen belül, az adott szakmát jellemző (1) bekezdés c)–i) pontja szerinti adatokkal kell feltüntetni.
+14. a gyógyászati segédeszköznek minősülő termék forgalmazására, kölcsönzésére, javítására irányuló tevékenység esetén azt, hogy sorozatgyártású, egyedi méretvétel alapján készült vagy méretre igazított segédeszközt fog forgalmazni, kölcsönözni, illetve javítani;
 
-(3) Ha az egészségügyi szolgáltató közfinanszírozott és nem közfinanszírozott egészségügyi szolgáltatást is nyújt, az (1) bekezdés c)–i) pontjában meghatározott adatokat ezen finanszírozási formákra elkülönített szervezeti egységenként, külön-külön fel kell feltüntetni.
+15. a tevékenységet végző egészségügyi dolgozók működési nyilvántartási számát, valamint az adott szakma végzéséhez a szakmai minimumfeltételekről szóló rendeletben meghatározott nem egészségügyi dolgozók nevét, születési helyét és idejét;
 
-(4) A kérelemhez mellékelni kell
+16. a 15. pont szerinti tevékenységet végző foglalkoztatási jogviszonyát, munkakörét, FEOR számát, jogviszony időtartamát, foglalkoztatás idejét óraszámban, foglalkoztatás jellegét, foglalkoztatás kezdő és végdátumát, önként vállalt többletmunka tényét és havi óraszámát, tartós távollét tényét és indokát, valamint idejét, az egészségügyi tevékenységet végzők egészségügyi alkalmassági vizsgálatának dátumát;
 
-a)[^47] ha az egészségügyi közszolgáltatást az egészségügyi szolgáltató megállapodás vagy szerződés útján teljesíti, az erre vonatkozó megállapodást, szerződést;
+17. a 2. melléklet szerinti adatokat;
 
-b) az (1) bekezdés h) pontja szerinti közreműködő egészségügyi szolgáltató igénybevétele esetén a közreműködésről szóló szerződést;
+18. az Eütv. 94. §-a szerinti mentési tevékenységet, valamint a betegszállítást végző egészségügyi szolgáltató esetén
 
-c) az egészségügyi szolgáltatáshoz szükséges tárgyi feltételek – ideértve az ingatlant is – használatának jogcímét igazoló iratot;
+a) e feladatának ellátását biztosító mentőjárműveinek, illetve betegszállító járműveinek azonosítására szolgáló adatokat (érvényes rendszám, forgalmi engedély száma, a gépjármű típusa, a gépjármű gyártásának időpontja, betegszállító jármű esetén az egyszerre szállítható beteg személyek száma és a rögzített ülések száma), valamint annak megjelölését, hogy a jármű aktív vagy tartalék állományban van,
 
-d)[^48] az egészségügyi szolgáltató e tevékenysége során okozott kár megtérítésére, illetve sérelemdíj megfizetésére vonatkozó hatályos felelősségbiztosítási kötvénye másolatát vagy a biztosítási ajánlatot és a befizetett díjról szóló igazolást;
+b) az Eütv. 94. §-a szerinti mentési tevékenységet végző egészségügyi szolgáltató vonatkozásában annak megjelölését, hogy a mentés a sürgősség igénye, az alkalmazott mentőegység típusa, valamint a végzett tevékenység típusa szerint milyen jellegű,
 
-e) az egészségügyi szakma (szakmák) ellátásához szükséges tárgyi feltételek – ideértve a progresszivitási szinthez kapcsolódó feltételeket is – meglétére vonatkozó nyilatkozatot;
+c) a betegszállítást végző egészségügyi szolgáltató vonatkozásában annak megjelölését, hogy az a sürgősség igénye, a kíséret igénye, az alkalmazott betegszállító gépjármű típusa, valamint a végrehajtás módja szerint milyen jellegű.
 
-f) a kérelmező nyilatkozatát arról, hogy nem állnak fenn a működési engedély kiadásának a 20. § (2) bekezdésében foglalt kizáró okai;
+(1a)[^48] Az elektronikus nyilvántartási rendszer a kérelmező azonosító adatait az elektronikus azonosítás alapján más rendszerből vagy rendszerekből automatikus adatátvétellel veszi át.
 
-g) az (1) bekezdés f) pontja szerinti tevékenységet végzők jogszabály szerinti egészségügyi alkalmassági vizsgálatának dátumát és eredményét;
+(2)[^49] A kérelemmel érintett szakmákat az egészségügyi szolgáltató által létrehozott szervezeti egységen belül, az adott szakmát jellemző (1) bekezdés 7–13. és 18. pontja szerinti adatokkal kell feltüntetni.
 
-h) a 2. melléklet szerinti szakmai programot;
+(3)[^50] Ha az egészségügyi szolgáltató közfinanszírozott és nem közfinanszírozott egészségügyi szolgáltatást is nyújt, az (1) bekezdés 7–13. és 18. pontjában meghatározott adatokat ezen finanszírozási formákra elkülönített szervezeti egységenként, külön-külön fel kell feltüntetni.
 
-i) alapellátás esetén a helyettesítő személy nyilatkozatát arról, hogy vállalja a kérelmező helyettesítését;
+(4)[^51] A kérelem mellékleteként az elektronikus felületre történő feltöltés útján csatolni kell:
 
-j)[^49] a kérelmező nyilatkozatát arról, hogy az egészségügyi és hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló törvény szerinti Elektronikus Egészségügyi Szolgáltatási Térhez (a továbbiakban: EESZT) történő csatlakozási kötelezettségét a működési engedély véglegessé válását követő 8 napon belül, majd adatszolgáltatási kötelezettségét ezt követően folyamatosan teljesíti.
+a) ha az egészségügyi közszolgáltatást az egészségügyi szolgáltató megállapodás vagy szerződés útján teljesíti, az erre vonatkozó megállapodás, szerződés másolatát;
+
+b) az (1) bekezdés 8. pontja szerinti közreműködő egészségügyi szolgáltató igénybevétele esetén a közreműködésről szóló szerződés másolatát;
+
+c) az egészségügyi szolgáltató e tevékenysége során okozott kár megtérítésére, illetve sérelemdíj megfizetésére vonatkozó hatályos felelősségbiztosítási kötvénye másolatát vagy a biztosítási ajánlatot és a befizetett díjról szóló igazolás másolatát;
+
+d) alapellátás esetén a helyettesítő személy nyilatkozatának másolatát arról, hogy vállalja a kérelmező helyettesítését;
+
+e) amennyiben a kérelem ionizáló sugárzást létrehozó képalkotó eszközzel végezhető szakma engedélyezésére irányul, az Országos Atomenergia Hivatal által kiadott üzemeltetési engedély másolatát;
+
+f) amennyiben a kérelmezett szolgáltatás során veszélyes hulladék keletkezik, a veszélyes hulladék elszállítására vonatkozó szerződést;
+
+g) amennyiben a kérelmezett szolgáltatás nyújtása során használt sterilizálandó eszközök sterilizálását nem kérelmező végzi, a sterilizálásra vonatkozó szerződés másolatát;
+
+h) az egészségügyi és hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló törvény szerinti Elektronikus Egészségügyi Szolgáltatási Tér (a továbbiakban: EESZT) vonatkozásában csatlakozásra kötelezett kérelmező nyilatkozatának másolatát arról, hogy az EESZT-hez történő csatlakozási kötelezettségét a működési engedély véglegessé válását követő 8 napon belül, majd adatszolgáltatási kötelezettségét ezt követően folyamatosan teljesíti;
+
+i) az egészségügyi szolgáltatáshoz szükséges tárgyi feltételek használatának jogcímét igazoló irat másolatát.
 
 (5) A működési engedély kiadása iránti eljárásban az egészségügyi államigazgatási szerv az alábbi adatokat szerzi be:
 
-a)[^50] a cégbírósági, bírósági nyilvántartásba bejegyzett kérelmező jogi személy vagy jogi személyiséggel nem rendelkező szervezet létrejöttének igazolását (cégbejegyzés, cégjegyzékszám, bírósági nyilvántartásba vétel száma központi, illetve nyilvánosan hozzáférhető adatbázis útján),
+a)[^52] a cégbírósági, bírósági nyilvántartásba bejegyzett kérelmező jogi személy vagy jogi személyiséggel nem rendelkező szervezet létrejöttének igazolását (cégbejegyzés, cégjegyzékszám, bírósági nyilvántartásba vétel száma központi, illetve nyilvánosan hozzáférhető adatbázis útján),
 
 b) amennyiben a kérelmező egészségügyi szolgáltató már rendelkezik működési engedéllyel, az egészségügyi szolgáltatók nyilvántartásában kapott azonosító számát, továbbá működési engedélye (engedélyei) számát,
 
-c)[^51] a tevékenységet végző egészségügyi dolgozók vonatkozásában a működési nyilvántartásban szereplő alábbi adatokat központi vagy nyilvánosan hozzáférhető adatbázis útján:
+c)[^53] a tevékenységet végző egészségügyi dolgozók vonatkozásában a működési nyilvántartásban szereplő alábbi adatokat központi vagy nyilvánosan hozzáférhető adatbázis útján:
 
 ca) szakképesítések, valamint szakirányú továbbképzések megnevezése, az erről kiállított bizonyítvány vagy oklevél száma, a kiállítás helye és időpontja, továbbá a kiállító intézmény megnevezése,
 
 cb) a működési nyilvántartási ciklus megújításának és lejártának időpontja, valamint az egészségügyi dolgozó által megszerzett és a működési nyilvántartásban szereplő valamennyi szakképesítés és szakképzettség tekintetében fennálló, az Eütv. és más jogszabály szerinti továbbképzési kötelezettség teljesítése vagy továbbképzési kötelezettség alóli mentesülés ténye.
 
-(6)[^52]
+(6)[^54]
 
-(7)[^53] A működési engedélyezési eljárásban az egészségügyi államigazgatási szerv döntésének fellebbezéssel meg nem támadott rendelkezései véglegessé válnak, ha a döntés egyes rendelkezései ellen nyújtottak be fellebbezést, és a fellebbezés elbírálása nem hat ki a fellebbezéssel meg nem támadott rendelkezésekre.
+(7)[^55]
 
-[^45]: A 8. § a 325/2011. (XII. 28.) Korm. rendelet 35. §-ával megállapított szöveg.
-[^46]: A 8. § (1) bekezdés m) pontját az 520/2013. (XII. 30.) Korm. rendelet 28. § (1) bekezdése iktatta be.
-[^47]: A 8. § (4) bekezdés a) pontja az 520/2013. (XII. 30.) Korm. rendelet 28. § (2) bekezdésével megállapított szöveg.
-[^48]: A 8. § (4) bekezdés d) pontja a 60/2017. (III. 20.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^49]: A 8. § (4) bekezdés j) pontját a 147/2020. (IV. 22.) Korm. rendelet 1. §-a iktatta be.
-[^50]: A 8. § (5) bekezdés a) pontja a 46/2014. (II. 26.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
-[^51]: A 8. § (5) bekezdés c) pontját az 520/2013. (XII. 30.) Korm. rendelet 28. § (3) bekezdése iktatta be.
-[^52]: A 8. § (6) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 35. § c) pontja hatályon kívül helyezte.
-[^53]: A 8. § (7) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 117. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^46]: A 8. § a 325/2011. (XII. 28.) Korm. rendelet 35. §-ával megállapított szöveg.
+[^47]: A 8. § (1) bekezdése a 286/2023. (VI. 30.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^48]: A 8. § (1a) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 17. § (2) bekezdése iktatta be.
+[^49]: A 8. § (2) bekezdése a 286/2023. (VI. 30.) Korm. rendelet 17. § (3) bekezdésével megállapított szöveg.
+[^50]: A 8. § (3) bekezdése a 286/2023. (VI. 30.) Korm. rendelet 17. § (3) bekezdésével megállapított szöveg.
+[^51]: A 8. § (4) bekezdése a 286/2023. (VI. 30.) Korm. rendelet 17. § (3) bekezdésével megállapított szöveg.
+[^52]: A 8. § (5) bekezdés a) pontja a 46/2014. (II. 26.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^53]: A 8. § (5) bekezdés c) pontját az 520/2013. (XII. 30.) Korm. rendelet 28. § (3) bekezdése iktatta be.
+[^54]: A 8. § (6) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 35. § c) pontja hatályon kívül helyezte.
+[^55]: A 8. § (7) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 27. § c) pontja hatályon kívül helyezte.

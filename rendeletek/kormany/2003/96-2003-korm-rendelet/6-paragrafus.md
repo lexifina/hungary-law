@@ -8,7 +8,7 @@
 
 (4)[^22] Nem kell működési engedély
 
-a)[^23] az igazságügyi szakértőkről szóló törvény alapján végzett igazságügyi orvosszakértői tevékenységhez,
+a)[^23] az igazságügyi szakértőkről szóló törvény alapján orvosi, továbbá pszichológiai területeken bejegyezhető szakterületeken végzett igazságügyi szakértői tevékenységhez,
 
 b) a halottvizsgálatról és a halottakkal kapcsolatos eljárásról szóló kormányrendelet szerinti halottvizsgálati szaktanácsadói tevékenység végzéséhez.
 
@@ -17,4 +17,4 @@ b) a halottvizsgálatról és a halottakkal kapcsolatos eljárásról szóló ko
 [^20]: Lásd a 312/2004. (XI. 17.) Korm. rendelet 10. §-ának (4) bekezdését.
 [^21]: A 6. § (3) bekezdését a 215/2009. (IX. 30.) Korm. rendelet 8. § (2) bekezdésének a) pontja hatályon kívül helyezte. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^22]: A 6. § (4) bekezdése az 520/2013. (XII. 30.) Korm. rendelet 26. § (2) bekezdésével megállapított szöveg.
-[^23]: A 6. § (4) bekezdés a) pontja a 250/2017. (IX. 5.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^23]: A 6. § (4) bekezdés a) pontja a 286/2023. (VI. 30.) Korm. rendelet 15. §-ával megállapított szöveg.

@@ -1,14 +1,14 @@
-## Közreműködő részvétele az egészségügyi szolgáltatás nyújtása során[^76]
+## Közreműködő részvétele az egészségügyi szolgáltatás nyújtása során[^75]
 
-12. §[^77] (1) Közreműködő igénybevételére a szervezeti egység működéséhez kapcsolódóan közreműködői szerződés alapján kerülhet sor. Közreműködői szerződést csak olyan szakmára lehet kötni, amelyre a közreműködést igénybe vevő szolgáltató működési engedéllyel rendelkezik. A szerződő felek a személyi és tárgyi feltételeket közösen biztosítják.
+12. §[^76] (1) Közreműködő igénybevételére a szervezeti egység működéséhez kapcsolódóan közreműködői szerződés alapján kerülhet sor. Közreműködői szerződést csak olyan szakmára lehet kötni, amelyre a közreműködést igénybe vevő szolgáltató működési engedéllyel rendelkezik. A szerződő felek a személyi és tárgyi feltételeket közösen biztosítják.
 
-(2)[^78] A közreműködő további közreműködői szerződést nem köthet, kivéve, ha a közreműködő által igénybe vett közreműködő személyesen nyújt szolgáltatást.
+(2)[^77] A közreműködő további közreműködői szerződést nem köthet, ide nem értve – a közreműködésről szóló szerződés eltérő rendelkezése hiányában – a személyes közreműködésről szóló szerződést.
 
 (3) A közreműködői szerződés kötelezően tartalmazza:
 
 a) a közreműködést igénybe vevő és a közreműködő egészségügyi szolgáltató adatait,
 
-b) a közreműködéssel érintett egészségügyi szakmát,
+b)[^78] a közreműködéssel érintett szervezeti egységet és a működési engedély szerinti azonosító kódját, valamint az egészségügyi szakmát, szakmakódját,
 
 c) a közreműködés keretében végzett tevékenység során felmerülő felelősségvállalásra vonatkozó szabályokat,
 
@@ -26,7 +26,8 @@ i) a vitás kérdések rendezésének eljárási szabályait,
 
 j)[^79] a közreműködő egészségügyi szolgáltató feladatait a közreműködés keretében végzett tevékenységgel összefüggő EESZT adatszolgáltatási kötelezettség teljesítésében.
 
-[^76]: A 12. §-t megelőző alcím a 325/2011. (XII. 28.) Korm. rendelet 38. §-ával megállapított szöveg.
-[^77]: A 12. § a 325/2011. (XII. 28.) Korm. rendelet 38. §-ával megállapított szöveg.
-[^78]: A 12. § (2) bekezdése a 464/2016. (XII. 23.) Korm. rendelet 15. § b) pontja szerint módosított szöveg.
+[^75]: A 12. §-t megelőző alcím a 325/2011. (XII. 28.) Korm. rendelet 38. §-ával megállapított szöveg.
+[^76]: A 12. § a 325/2011. (XII. 28.) Korm. rendelet 38. §-ával megállapított szöveg.
+[^77]: A 12. § (2) bekezdése a 286/2023. (VI. 30.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^78]: A 12. § (3) bekezdés b) pontja a 286/2023. (VI. 30.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
 [^79]: A 12. § (3) bekezdés j) pontját a 147/2020. (IV. 22.) Korm. rendelet 3. §-a iktatta be.
