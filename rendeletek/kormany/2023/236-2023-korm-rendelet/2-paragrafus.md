@@ -1,0 +1,1 @@
+2. § Az e rendelet hatálybalépése előtt az igénylő által kifizetett, de még nem teljesített tűzifa igényeket az állami erdészeti társaság az R. 2023. június 30-án hatályos rendelkezései szerint teljesíti.
