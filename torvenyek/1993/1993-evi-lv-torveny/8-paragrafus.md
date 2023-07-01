@@ -13,3 +13,5 @@ b) a személyiadat- és lakcímnyilvántartásban nem szerepel, vagy Magyarorsz�
 (3) Az állampolgársági ügyekben eljáró szerv határozatban állapítja meg, ha a lemondás elfogadásának feltételei hiányoznak. A határozattal szemben indított közigazgatási perre a Fővárosi Törvényszék illetékes.
 
 (4) A lemondás elfogadásától számított három éven belül kérheti a köztársasági elnöktől magyar állampolgárságának visszaállítását az, aki nem szerzett külföldi állampolgárságot.
+
+(5) A magyar állampolgárság lemondással történő megszűnésére az eljárás megindításakor hatályos rendelkezéseket kell alkalmazni.

@@ -31,3 +31,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-55-00-00
 | 2021-12-02 | 2021. évi CXX. törvény | 1993-55-00-00.35 |
 | 2022-11-01 | 2022. évi XXI. törvény | 1993-55-00-00.36 |
 | 2023-01-01 | 2022. évi XXII. törvény | 1993-55-00-00.37 |
+| 2023-07-01 | 2023. évi XXI. törvény | 1993-55-00-00.39 |

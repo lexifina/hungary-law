@@ -20,6 +20,12 @@ i) iskolai végzettségére, foglalkozására, munkahelyére vonatkozó adatokat
 
 j) elérhetőségét az állampolgársági ügyekben eljáró szervvel és a miniszterrel való kapcsolattartáshoz.
 
+(1a) Az állampolgársági kérelem – kormányrendeletben meghatározott formanyomtatványok szerint – az (1) bekezdésben foglaltakon túl a 4. § (1) bekezdés d) pontja szerinti feltétel vizsgálata érdekében tartalmazza az érintett
+
+a) élettársa és élettársa szülei nevét, születési helyét és idejét, állampolgárságát,
+
+b) házastársa, élettársa, volt házastársa, felmenője, nagykorú gyermeke, testvére foglalkozására, munkahelyére vonatkozó adatokat.
+
 (2) A 12. § szerinti megkeresésnek tartalmaznia kell az (1) bekezdés a) pontjában foglalt adatokat, továbbá mindazokat az adatokat, amelyek az (1) bekezdésben meghatározott adatkörből rendelkezésre állnak.
 
 (3) Az állampolgársági kérelemhez a kérelmezőnek – kormányrendeletben meghatározottak szerint – mellékelnie kell a születési anyakönyvi kivonatát és a családi állapotát igazoló okiratokat, továbbá az állampolgársági kérelem elbírálásához a 4. §-ban, az 5. §-ban, a 8. §-ban és a 11. §-ban meghatározott feltételek fennállását igazoló okiratokat.

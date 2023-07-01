@@ -8,7 +8,9 @@ b) aki Magyarország területén született és születésével nem szerezte meg
 
 c) aki magyar állampolgár anyától és külföldi állampolgár apától 1957. október 1-je előtt született, és születésével nem vált magyar állampolgárrá.
 
-(1a) Az (1) bekezdés b) pontja szerinti nyilatkozatot az érintett a tizenkilencedik életévének betöltéséig teheti meg.
+d) aki Magyarország területén született és hontalanná vált, feltéve, hogy a nyilatkozat megtételét közvetlenül megelőzően legalább öt éve Magyarország területén lakik.
+
+(1a) Az (1) bekezdés b) és d) pontja szerinti nyilatkozatot az érintett a tizenkilencedik életévének betöltéséig teheti meg.
 
 (2) A nyilatkozat elfogadása esetén az állampolgársági ügyekben eljáró szerv bizonyítványban igazolja az állampolgárság megszerzését.
 

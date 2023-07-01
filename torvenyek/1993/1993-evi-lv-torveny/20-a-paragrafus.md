@@ -6,7 +6,7 @@ a) hogy saját vagy felmenője egykori magyar születési családi nevét viselh
 
 b) többtagú születési családi nevéből egy vagy több tag, valamint születési és házassági nevéből a nemre utaló végződés vagy névelem elhagyását;
 
-c) utónevének magyar megfelelőjét;
+c) utónevének magyar megfelelőjét, valamint többtagú utónevéből egy vagy több tag elhagyását;
 
 d) házastársa vagy annak felmenője, illetve – özvegy, elvált családi állapot esetén – volt házastársa vagy annak felmenője egykori magyar születési családi nevének viselését.
 

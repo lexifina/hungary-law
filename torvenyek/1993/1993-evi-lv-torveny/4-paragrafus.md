@@ -12,7 +12,7 @@ c) megélhetése és lakhatása Magyarországon biztosított;
 
 d) honosítása Magyarország közbiztonságát és nemzetbiztonságát nem sérti;
 
-e) igazolja, hogy alkotmányos alapismeretekből magyar nyelven eredményes vizsgát tett, vagy ez alól a törvény alapján mentesül.
+e) igazolja, hogy alkotmányos alapismeretekből magyar nyelven eredményes vizsgát tett, vagy ez alól a törvény alapján mentesül és magyar nyelvtudását igazolja.
 
 (2) Kedvezményesen honosítható az a nem magyar állampolgár, aki a kérelme előterjesztését megelőző három éven át folyamatosan Magyarországon lakott, és az (1) bekezdés b)–e) pontjában meghatározott feltételek fennállnak, ha
 
