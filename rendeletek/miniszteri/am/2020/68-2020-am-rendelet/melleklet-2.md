@@ -1,6 +1,12 @@
+## ahol:
+
+## A1+A2+….+An= az év egyes takarmányozási napjainak állatlétszám adata darabban
+
+## n= az év napjainak száma, szökőévben 366 nap
+
 2. melléklet a 68/2020. (XII. 23.) AM rendelethez
 
-## A mezőgazdasági jövedelemváltozás meghatározása
+A mezőgazdasági jövedelemváltozás meghatározása
 
 1. Mezőgazdasági referenciajövedelem
 
@@ -8,7 +14,7 @@ MJ R átlag = Σ MJ R / 3
 
 2. Referencia-időszak üzemmérete
 
-STÉ R átlag = Σ STÉ R / 3
+STÉ R átlag= Σ STÉ R / 3
 
 3. Üzemméretre jutó mezőgazdasági referenciajövedelem-mutató
 

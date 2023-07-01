@@ -1,5 +1,3 @@
-## 5. § Ha a krízisbiztosítási szerv a krízisbiztosítási rendszerben tag mezőgazdasági termelő részére az Mkk. tv. 19/E. § (7)–(9) szerinti pótbefizetésről hoz határozatot, akkor a 3. § (6) bekezdésében foglaltakat kell alkalmazni azzal, hogy a pótbefizetés összegét a határozat véglegessé válását követő tizenöt naptári napon belül kell a krízisbiztosítási szerv számláján történő jóváírással megfizetni.
-
 ## 3. A mezőgazdasági jövedelem és a jövedelemváltozás megállapítása
 
 6. § (1) Az Mkk. tv. 2. § 20a. pontja szerinti mezőgazdasági jövedelem a mezőgazdasági tevékenységhez kapcsolódó bevételek összegéből a mezőgazdasági tevékenység során felmerülő költségek összegének levonásával kerül megállapításra.
@@ -18,7 +16,7 @@ a) a kettős könyvvitelt vezető mezőgazdasági termelő esetében közvetlen 
 
 b) az egyszeres könyvvitelt vezető mezőgazdasági termelő esetében az adott időszakra vonatkozó átlagos értékesítési ár alapján kell meghatározni azzal, hogy ha az adott időszakban értékesítés nem történt, akkor az agrárgazdaságért felelős miniszter (a továbbiakban: miniszter) által közzétett referenciaárat
 
-## kell figyelembe venni.
+kell figyelembe venni.
 
 (7) A mezőgazdasági jövedelem kimutatása
 
@@ -28,7 +26,7 @@ b) a mezőgazdasági tevékenység egyszeres könyvvitel szabályai szerint telj
 
 c) a mezőgazdasági tevékenység egyszeres könyvvitel szabályai szerint nyilvántartott egyéni bevételadatain és az agrárgazdasági elemzésekkel foglalkozó intézmény által meghatározott költségadatokon alapuló, készletértékkel korrigált
 
-## – a krízisbiztosítási szerv honlapján közleményben közzétett módszertan szerinti – jövedelem-kimutatással történik.
+– a krízisbiztosítási szerv honlapján közleményben közzétett módszertan szerinti – jövedelem-kimutatással történik.
 
 (8) A (7) bekezdés a) pontja szerinti jövedelem-kimutatás az alábbi adatokat és azok összesítéséből származó adatokat tartalmazza:
 

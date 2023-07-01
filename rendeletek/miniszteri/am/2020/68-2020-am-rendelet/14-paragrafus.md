@@ -1,5 +1,3 @@
-## 13. § A tárgyévet követő év január 31-éig a krízisbiztosítási szerv összefoglaló jelentést készít, amely a tárgyévre vonatkozóan tartalmazza a krízisbiztosítási rendszer taglétszámát, saját forrásának összegét, valamint a kifizetett kompenzáció összegét mezőgazdasági tevékenységenkénti bontásban.
-
 ## 6. Ellenőrzés, jogkövetkezmények
 
 14. § (1) A mezőgazdasági termelő részéről valótlan adatok szolgáltatása – a Támogatási tv. 69. §-a alapján – a kompenzációra való jogosultság iránti igény elutasítását vagy a jogosultság visszavonását eredményezi. A krízisbiztosítási szerv a jogosulatlanul igénybe vett kompenzáció visszafizetésének elrendeléséről határozatot hoz.

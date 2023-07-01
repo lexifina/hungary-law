@@ -8,7 +8,7 @@ a) a mezőgazdasági termelő által használt termőföld területe a tárgyév
 
 b) az átlagos állatállomány a tárgyévet megelőző év éves átlagos állatállományi létszámát
 
-## jelenti.
+jelenti.
 
 (3) A tárgyévi krízisbiztosítási hozzájárulás-fizetési kötelezettség összegét a krízisbiztosítási hozzájárulás mértékének megállapításáról szóló 542/2020. (XII. 2.) Korm. rendeletben meghatározott egységdíjak figyelembevételével
 
@@ -20,7 +20,7 @@ c) a tárgyévet megelőző évre megadott éves átlagos állatállományi lét
 
 d) az a), b), illetve c) pont szerinti adatok bármelyike megadásának elmulasztása esetén a rendelkezésre álló legutolsó – mezőgazdasági termelő által használt termőföld területre, illetve átlagos állatállományra vonatkozó – adatok alapján
 
-## kell meghatározni.
+kell meghatározni.
 
 (4) A (3) bekezdés a) pontja szerint – az egységes kérelemben feltüntetett, a mezőgazdasági termelő által bejelentett területre és az azon feltüntetett növénykultúrára vonatkozó adatok alapján – megállapított krízisbiztosítási hozzájárulás összegének tárgyévi módosítására az egységes kérelemre vonatkozó európai uniós jogi aktusban foglalt késedelmes benyújtási határidőn túl az egységes kérelem módosítása vagy részleges visszavonása esetén sincs lehetőség.
 

@@ -38,7 +38,7 @@ b) súlyos agrotechnikai hiányosság, illetve
 
 c) mulasztás,
 
-## amely a hozam csökkenése, illetve a termelési tényezők károsodása vagy megsemmisülése által a jövedelem csökkenését eredményezi.
+amely a hozam csökkenése, illetve a termelési tényezők károsodása vagy megsemmisülése által a jövedelem csökkenését eredményezi.
 
 (8) Ha a krízisbiztosítási szerv a jövedelemcsökkenés okaként mezőgazdasági tevékenység körében felmerülő gondatlanságot állapít meg, akkor a gondatlansággal összefüggésben megállapított jövedelemcsökkenés nem kerül kompenzálásra. Ha a mezőgazdasági termelőtől származó, illetve egyéb dokumentumok alapján a gondatlanságból adódó jövedelemcsökkenés nagysága nem állapítható meg, akkor annak meghatározása érdekében a krízisbiztosítási szerv becslést alkalmaz. A becslésnél a krízisbiztosítási szerv a rendelkezésére álló tényeket, körülményeket, bizonyítékokat, illetve nyilatkozatokat veszi figyelembe.
 

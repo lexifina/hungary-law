@@ -52,7 +52,7 @@ a) az egységes kérelemben bejelentett területre,
 
 b) az egységes kérelemben be nem jelentett, termesztőberendezésben folytatott mezőgazdasági tevékenységgel érintett területre
 
-## vonatkozó, a (2) bekezdés a)–c) pontjában meghatározott adatokat azzal, hogy a fővetés hozamára, a hozamkiesés okára, mértékére, valamint a másodvetés területének méretére, hozamára, a hozamkiesés okára és mértékére vonatkozó adatokat a tárgyévet követő év május 31-éig kell megadnia.
+vonatkozó, a (2) bekezdés a)–c) pontjában meghatározott adatokat azzal, hogy a fővetés hozamára, a hozamkiesés okára, mértékére, valamint a másodvetés területének méretére, hozamára, a hozamkiesés okára és mértékére vonatkozó adatokat a tárgyévet követő év május 31-éig kell megadnia.
 
 (6) Az éves átlagos állatállományi létszámot az 1. melléklet szerinti számítás alapján
 
@@ -60,7 +60,7 @@ a) szarvasmarha, tenyészsertés, anyajuh, tenyészkos, anyakecske, tenyésztyú
 
 b) malac (választásig), hízósertés, bárány (hat hónapos korig), növendék juh, egyéb juh, egyéb kecske, napos csibe, napos kacsa, napos pulyka, napos liba, növendék jérce, növendék kacsa, növendék pulyka, növendék liba, hízócsirke, hízókacsa, hízópulyka, hízóliba, tojótyúk, anyanyúl, egyéb nyúl, és méhcsalád tekintetében a hatósági állatorvos által kiadott igazolás alapján a termelő által szolgáltatott
 
-## létszámadatok figyelembevételével kell meghatározni.
+létszámadatok figyelembevételével kell meghatározni.
 
 (7) A (6) bekezdés b) pontja szerinti, az éves átlagos állatállományi létszámra vonatkozó hatósági állatorvos által kiállított igazolás az alábbi adatokat tartalmazza:
 
