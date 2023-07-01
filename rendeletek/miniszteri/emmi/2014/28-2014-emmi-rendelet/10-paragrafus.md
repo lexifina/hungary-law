@@ -1,4 +1,4 @@
-10. §[^21] (1) Az ETT NOKK
+10. §[^27] (1) Az ETT NOKK
 
 a) a miniszter felkérésére véleményezi az emberen végzett orvostudományi kutatásokra vonatkozó szakmai, tudományos, kutatási, fejlesztési koncepciókat, az orvostudományi kutatásokra vonatkozó kormányzati, kutatási, fejlesztési stratégiai dokumentumokat;
 
@@ -16,4 +16,4 @@ g) javaslatot tesz az ETT Elnökségének a tudományos, kutatási, fejlesztési
 
 (2) Az ETT NOKK együttműködik az ETT kutatásetikai bizottságaival: az ETT KFEB-bel, az ETT TUKEB-bel és az ETT HRB-vel. Az ETT NOKK tevékenysége kapcsán szakvéleményt kérhet az ETT kutatásetikai bizottságaitól.
 
-[^21]: A 10. § a 47/2021. (XI. 2.) EMMI rendelet 4. §-ával megállapított szöveg.
+[^27]: A 10. § a 47/2021. (XI. 2.) EMMI rendelet 4. §-ával megállapított szöveg.
