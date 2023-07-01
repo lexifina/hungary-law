@@ -1,5 +1,3 @@
-## 17. § A Koordináló szerv jogosult a Ht. 32/A. § (5) bekezdése szerinti adatok körére ingyenes csoportos adatszolgáltatást kérni.
-
 18. § (1) Az adatkezelésről az érintettek tájékoztatást kérhetnek. A Koordináló szerv gondoskodik az eltérő célú adatkezelések elkülönítéséről.
 
 (2) A Koordináló szerv a nyilvántartáshoz való hozzáférést az adatbiztonság követelményének érvényesülése mellett biztosítja azon adatfeldolgozóként közreműködő harmadik személyek részére, akik az Koordináló szerv számára olyan szolgáltatást nyújtanak, amely az adatok kezelésével függ össze.

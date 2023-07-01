@@ -1,17 +1,6 @@
-## 12. § A Koordináló szerv a kiszámlázott és az ingatlanhasználó által határidőn belül ki nem fizetett közszolgáltatási díj behajtása érdekében intézkedik.
+## 9.[^17] Az ideiglenes ellátási díj meghatározása
 
-## 9. Szolgáltatási díj, a díjalkalmazási feltételek, a díjmegfizetés rendjének, a közszolgáltatásidíj-felosztás elvének meghatározására vonatkozó javaslattétel
+13. §[^18]
 
-13. § (1) A Koordináló szerv a szolgáltatási díj, a díjalkalmazási feltételek, a díjmegfizetés rendjének, a közszolgáltatásidíj-felosztás elvének meghatározásával kapcsolatos következő naptári évre vonatkozó javaslattételét minden év október 31. napjáig tartós adathordozón küldi meg a miniszter részére.
-
-(2) A Koordináló szerv (1) bekezdés szerinti javaslata tartalmazza
-
-a) az alkalmazni javasolt szolgáltatási díjat,
-
-b) a javasolt díjalkalmazási feltételeket,
-
-c) a díjmegfizetés rendjéről szóló javaslatot,
-
-d) a közszolgáltatásidíj-felosztás elvének meghatározását tartalmazó javaslatot,
-
-e) az a)–d) pontokban foglaltak kidolgozásánál alkalmazott módszertant és az elmúlt időszak vonatkozó tendenciáit.
+[^17]: A 9. alcím címe a 277/2023. (VI. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^18]: A 13. §-t a 277/2023. (VI. 29.) Korm. rendelet 15. § 7. pontja hatályon kívül helyezte.

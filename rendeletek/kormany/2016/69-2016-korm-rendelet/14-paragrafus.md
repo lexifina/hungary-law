@@ -1,12 +1,7 @@
-14. §[^12] (1) A 2013. évi CXXXIV. törvény szerinti ideiglenes ellátásnál a közszolgáltatási díjjal egyenértékű ingatlanhasználó által fizetendő ideiglenes ellátási díj és a szolgáltatási díj megállapításának feltételei az alábbiak szerint alkalmazandóak:
+14. §[^19] (1) A 2013. évi CXXXIV. törvény 1. § (3) bekezdése szerint 2023. július 1. előtt elrendelt ideiglenes ellátás (a továbbiakban: ideiglenes ellátás) esetén a közszolgáltatási díjjal egyenértékű, ingatlanhasználó által fizetendő ideiglenes ellátási díj és a szolgáltatási díj esetében az ideiglenes ellátás keretében az ideiglenes ellátási díjat a Koordináló szerv a 28. § (1) bekezdése szerinti adatszolgáltatás alapján határozza meg és a 10. § szerint számlázza ki.
 
-a) az ideiglenes ellátás keretében az ideiglenes ellátási díjat a Koordináló szerv a 21/A. § (1) bekezdés szerinti adatszolgáltatás alapján számlázza ki, és a 10. § szerint szedi be,
+(2) A Koordináló szerv az (1) bekezdés szerinti esetben kijelölt közérdekű szolgáltató részére a Koordináló szerv által fizetendő hulladékgazdálkodási szolgáltatási díjról szóló miniszteri rendelet szerinti szolgáltatási díjat fizet.
 
-b) a 2013. évi CXXXIV. törvény 3. § (5a) bekezdés szerinti díjfizetési kötelezettséget az ingatlanhasználó a Koordináló szerv részére teljesíti,
+(3) Ideiglenes ellátás esetén a 11. § (2) és (3) bekezdése, valamint a 12. § rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a közszolgáltató alatt közérdekű szolgáltatót kell érteni.
 
-c)[^13] a Koordináló szerv a kijelölt közérdekű szolgáltató részére a Koordináló szerv által fizetendő hulladékgazdálkodási szolgáltatási díjról szóló miniszteri rendeletben foglaltak szerint szolgáltatási díjat fizet.
-
-(2) Ideiglenes ellátás esetén a 4. § (1) és (2) bekezdés, a 11. § (2)–(6) bekezdés, valamint a 12. § rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a közszolgáltató alatt közérdekű szolgáltatót, a közszolgáltatási díj alatt pedig ideiglenes ellátási díjat kell érteni.
-
-[^12]: A 14. § a 330/2016. (XI. 4.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^13]: A 14. § (1) bekezdés c) pontja a 107/2023. (III. 30.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^19]: A 14. § a 277/2023. (VI. 29.) Korm. rendelet 6. §-ával megállapított szöveg.

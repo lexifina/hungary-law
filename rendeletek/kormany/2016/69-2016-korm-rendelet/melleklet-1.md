@@ -1,75 +1,111 @@
-## 30. §[^25] A 23. §-ban meghatározott kötelezettség teljesítési határideje a 2018. év tekintetében 2018. október 31.
+1. melléklet a 69/2016. (III. 31.) Korm. rendelethez[^46]
 
-1. melléklet a 69/2016. (III. 31.) Korm. rendelethez
+A koncessziós társaság miniszter részére nyújtott adatszolgáltatásának elemei
 
-Kérelem a hulladékgazdálkodási közszolgáltatási rendszerelem fejlesztésének OHKT-nek való megfelelőségének megállapítására
+1. Az élelmiszer-hulladékok képződött mennyiségére (tonna) vonatkozó adatok
 
-| 1. Kérelmező adatai |
+1.1. Az élelmiszer-ellátási lánc alábbi szakaszai szerinti bontásban az 1.2. pontban meghatározott azonosító kódú hulladékokat érintően:
 
-| 1.1. Hivatalos név: |  |
+1.1.1. Éttermek és étkeztetés
 
-| 1.2. Székhely: |  |
+1.1.2. Háztartások
 
-| 1.3. Postai cím: |  |
+1.2. Az alábbi hulladékjegyzék szerinti azonosító kódú hulladékokra vonatkozó mennyiség:
 
-| 1.4. Internetcím: |  |
+1.2.1. 20 01 08 Biológiailag bomló konyhai és étkezdei hulladékok
 
-| 1.5. A kapcsolattartó személy neve: |  |
+1.2.2. 20 01 25 Étolaj és zsír
 
-| 1.6. A kapcsolattartó személy címe, elérhetősége (telefonszám és e-mail cím): |  |
+1.2.3. 20 03 01 Egyéb települési hulladék, ideértve a kevert települési hulladékot is
 
-| 2. A tervezett fejlesztésre vonatkozó adatok |
+1.2.4. 20 03 02 Piacokon keletkező hulladék
 
-| 2.1. A tervezett fejlesztés megnevezése: |  |
+2. A települési hulladékokra vonatkozó adatok
 
-| 2.2. A tervezett fejlesztés pontos leírása: |  |
+2.1. Települési hulladék mennyisége (tonna) az alábbi bontásban:
 
-| 2.3. A tervezett fejlesztés szükségességét és indokoltságát megalapozó tényezők részletes ismertetése: |  |
+2.1.1. Képződött:
 
-| 2.4. A tervezett fejlesztéssel kapcsolatos a fejlesztés megkezdésekor fennálló körülmények, feltételek, a kérelmező rendelkezésre álló létesítmények, eszközök, rendszerelemek bemutatása (műszaki, gazdasági, tulajdoni viszonyok, jogi feltételek ismertetése, bemutatása) |  |
+2.1.1.1. Összes települési hulladék
 
-| 2.5. A tervezett fejlesztés nettó becsült értéke (forintban meghatározva, fejlesztési elemenként külön-külön és összesen, beleértve az opciót és a pozitív irányú mennyiségi eltérést): |  |
+2.1.1.2. Közszolgáltatói résztevékenységből származó hulladék
 
-| 2.6. Opció meghatározása: |  |
+2.1.1.3. Intézményi résztevékenységből származó hulladék
 
-| 2.7. Mennyiségi eltérés meghatározása: |  |
+2.1.1.4. Elkülönített hulladékgyűjtésből származó (az összes keletkezett települési hulladékból)
 
-| 3. A fejlesztéshez tervezett forrás összege, összetétele: |
+2.1.2. Kezelt:
 
-| 3.1. Nettó (forintban meghatározva): |  |
+2.1.2.1. Összes települési hulladék (függetlenül attól, hogy melyik országban történt a kezelés)
 
-| 3.2. ÁFA (%): |  |
+2.1.2.2. Hasznosított hulladék:
 
-| 3.3. Bruttó (forintban meghatározva): |  |
+2.1.2.2.1. Újrahasználatra való előkészítésen átesett
 
-| 3.4. A rendelkezésre álló forrás összetétele (előirányzat, támogatás stb.): |  |
+2.1.2.2.2. Újrafeldolgozott, anyagában hasznosított
 
-| 3.5. A tervezett fejlesztés értékének meghatározását alátámasztó adatok, dokumentumok, az alkalmazott módszer bemutatása (piacfelmérés, költségbecslés) |  |
+## – ebből fémhulladék
 
-| 4. A fejlesztés tervezett kezdő időpontja (minden esetben: év/hónap/nap): |  |
+2.1.2.2.3. Újrafeldolgozott, komposztált és rothasztott
 
-| 5. A fejlesztés tervezett időtartama vagy a megvalósítás tervezett befejezésének időpontja: |  |
+## – ebből a keletkezés helyén elkülönített gyűjtött és újrafeldolgozott biohulladék (házi komposzt)
 
-| 6. A tervezett fejlesztés mérföldkövei és azok tervezett időpontja, időtartama |  |
+2.1.2.2.4. Energetikai hasznosításon átesett (R1)
 
-| 7. A tervezett fejlesztés megvalósításához szükséges szerződések tárgya, becsült értéke, tervezett időtartama |  |
+2.1.2.2.5. Egyéb hasznosításon átesett
 
-| 8. Egyéb információk (előzetes tájékoztató, időszakos előzetes tájékoztató, előminősítési rendszer stb.): |  |
+2.1.2.3. Ártalmatlanított hulladék mennyisége:
 
-Mellékletek:
+2.1.2.3.1. Égetés (D10)
 
-a) ha a fejlesztést több önkormányzat közösen kívánja megvalósítani vagy a fejlesztés több önkormányzat hulladékgazdálkodási közszolgáltatási feladatát, területét érinti, úgy az érintett önkormányzatoknak a fejlesztés megvalósítására vonatkozó közösen aláírt megállapodása,
+2.1.2.3.2. Hulladéklerakás (D1, D5, D12)*
 
-b) a tervezett fejlesztésre vonatkozó előzetes fejlesztési terv legalább az alábbi tartalommal:
+2.1.2.3.3. Egyéb (D2–D4, D6–D7)
 
-– a fejlesztés célja, a fejlesztéssel elérni kívánt eredmény, a fejlesztés milyen módon szolgálja az európai uniós előírások, célok elérését, a fejlesztésre az OHKT mely előírása, célja, feltétele alapján kerül sor,
+2.2. Képződött települési hulladékok mennyisége (tonna) az alábbi anyagáramok tekintetében az elkülönített gyűjtés, az újrahasználatra való előkészítés, az anyagában történő hasznosítás, az energetikai hasznosítás és az egyéb hasznosítás (az egyéb hasznosítás magában foglalja a feltöltést) szerinti bontásban:
 
-– a fejlesztés gazdaságossági számítása (bekerülési költség levezetése, részletezése, költség-haszon elemzés, amely külön kitér a környezeti externáliákra is),
+|  | A | B |
 
-– fejlesztés műszaki bemutatása, különös tekintettel a kapacitásadatokra,
+| 1. | Anyagáram | Azonosító kód |
 
-– fejlesztés időbeli ütemezésének bemutatása,
+| 2. | Fémek | 20 01 40, 15 01 04, 15 01 11* |
 
-– fejlesztésre vonatkozó koncepcióterv (különös tekintettel a hulladékáramok, hulladékmennyiségek kimutatására).
+| 3. | Üveg | 20 01 02, 15 01 07 |
 
-[^25]: A 30. §-t a 132/2018. (VII. 23.) Korm. rendelet 17. §-a iktatta be.
+| 4. | Műanyag | 20 01 39, 15 01 02 |
+
+| 5. | Papír és karton | 20 01 01, 15 01 01 |
+
+| 6. | Biohulladék | 20 01 08, 20 01 25, 20 02 01 |
+
+| 7. | A biohulladékok szétválogatása és újrahasznosítása a forrásnál (házi komposztálás) | 20 01 08, 20 01 25, 20 02 01 |
+
+| 8. | Fa | 20 01 37*, 20 01 38, 15 01 03 |
+
+| 9. | Textil | 20 01 10, 20 01 11, 15 01 09 |
+
+| 10. | Elektromos és elektronikus berendezések | 20 01 21*, 20 01 23*, 20 01 35*, 20 01 36 |
+
+| 11. | Akkumulátorok | 20 01 33*, 20 01 34 |
+
+| 12. | Lom hulladék | 20 03 07 |
+
+| 13. | Kevert hulladék | 20 03 01, 15 01 06 |
+
+3. A Ht. 53. §-a szerint működtetett ügyfélszolgálatra beérkezett bejelentések intézésével és panaszok kivizsgálásával, orvoslásával kapcsolatos adatok
+
+|  | A | B | C |
+
+| 1. | Mutató | Értéke | Mértékegysége |
+
+| 2. | Beérkező ügyfélmegkeresések száma |  | darabszám |
+
+| 3. | Beérkező panaszok száma |  | darabszám |
+
+| 4. | Megalapozott panaszok száma |  | darabszám |
+
+| 5. | Fogyasztóvédelmi bírságok száma |  | darabszám |
+
+| 6. | Fogyasztóvédelmi bírságok összege |  | forint |
+
+[^46]: Az 1. melléklet a 277/2023. (VI. 29.) Korm. rendelet 13. §-ával megállapított szöveg.

@@ -1,7 +1,3 @@
-21/A. §[^17] (1) Az 1. § g) pontja szerinti szolgáltatót a 20. §-ban foglaltaknak megfelelő adatszolgáltatási kötelezettség terheli.
+21/A. §[^27]
 
-(2) Az 1. § g) pontja szerinti szolgáltató az ellátásért felelős által kiadott teljesítésigazolással igazolja, hogy a közszolgáltató teljesítésével kapcsolatban kifogása nem merült fel.
-
-(3) Az (2) bekezdésben említett teljesítésigazolásnak a Koordináló szerv részére a rendszeres adatszolgáltatás keretében történő megküldése a szolgáltatási díj fizetésének feltétele.
-
-[^17]: A 21/A. §-t a 330/2016. (XI. 4.) Korm. rendelet 11. §-a iktatta be.
+[^27]: A 21/A. §-t a 330/2016. (XI. 4.) Korm. rendelet 11. §-a iktatta be, a 277/2023. (VI. 29.) Korm. rendelet 15. § 11. pontja hatályon kívül helyezte.

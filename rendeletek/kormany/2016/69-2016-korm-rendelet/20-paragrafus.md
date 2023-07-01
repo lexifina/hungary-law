@@ -1,38 +1,16 @@
 ## 19. § A Koordináló szerv rendszeres adattovábbítást adatfeldolgozásra kötött szerződés alapján, valamint jogszabályban meghatározott szerveknek végezhet, a jogszabályban meghatározott időszakonként és tartalommal.
 
-## 11. A közszolgáltató adatszolgáltatására vonatkozó szabályok
+## 11.[^24] A koncessziós társaság adatszolgáltatása
 
-20. § (1) A közszolgáltató a Ht. 38. § (3) bekezdésében meghatározottakon túl a rendszeres adatszolgáltatása körében köteles a Koordináló szerv részére az alábbi adatokat megadni közszolgáltatási területe vonatkozásában
+20. §[^25] (1) A Ht. 53/J. § (2) bekezdése szerinti, a koncessziós társaság által évente benyújtott tevékenységi beszámoló alapján a miniszter dönt a koncessziós szerződésben foglalt további jelentések szükségességéről és tartalmáról. Ha a tevékenységi beszámoló alapján nem állapítható meg, hogy biztosított-e a koncessziós szerződésben foglalt célértékek határidőben történő teljesítése, vagy ha a miniszter a gördülő fejlesztési rendszerterv jóváhagyása során az indokolásban előírta, a koncessziós társaság a jelentésben további felvilágosítást és adatszolgáltatást ad a miniszter által előírt tartalommal.
 
-a) az ingatlanhasználókat terhelő közszolgáltatási díj mértékét,
+(2) A koncessziós társaság részére a Ht. 53/J. §-a szerinti kötelezettség teljesítéséhez a miniszter a rendelkezésére álló, környezet védelmének általános szabályairól szóló törvény szerinti környezeti adatokhoz – az adatvédelemre vonatkozó előírások betartása mellett – ingyenes adatkérési jogot biztosít a koncessziós szerződésben foglalt célértékek teljesülésének nyomon követése érdekében.
 
-b) minden olyan adatot, amely a Koordináló szervnek a közszolgáltatási díj számlázásához szükséges.
+(3) A koncessziós társaság minden naptári negyedévet követő 10 napon belül elkészíti és benyújtja a miniszter által a koncessziós szerződés alapján megbízott műszaki képviselő részére a koncessziós szerződés szerinti beruházási munkák előrehaladását ismertető tájékoztatást.
 
-(2)[^15] Ha a közszolgáltató az (1) bekezdés szerinti adatszolgáltatási kötelezettségének nem tesz eleget, a Koordináló szerv felhívja ennek teljesítésére. Ha a közszolgáltató a felhívás kézhezvételét követő 15 napon belül nem vagy nem megfelelően teljesíti az abban foglaltakat, a Koordináló szerv a Ht. 32/A. § (7) bekezdésében meghatározottak szerint jár el.
+(4) Európai uniós jogi aktusban vagy hazai jogszabályban előírt adatszolgáltatással kapcsolatos kötelezettség teljesítése érdekében a koncessziós társaság Ht. 53/J. § (1) bekezdése szerinti tájékoztatása a miniszter megkeresése alapján az 1. mellékletben foglalt adatokra is kiterjedhet.
 
-(3) A közszolgáltató rendszeres adatszolgáltatási kötelezettsége körében
+(5) A koncessziós társaság rögzíti az állami hulladékgazdálkodási közfeladat ellátásával kapcsolatos adatokat, azokról nyilvántartást vezet, amelyhez a miniszter számára ellenőrzés céljából elektronikus úton hozzáférést biztosít.
 
-a) az (1) bekezdés szerinti adatokat a 10. § (1) bekezdése és a 11. § (1) bekezdése szerinti feladat ellátásához, a közszolgáltatási díj számlázásához és
-
-b) a közszolgáltató által ellátott közszolgáltatási feladatok fajtájára, tartalmára és mennyiségére vonatkozó adatokat a szolgáltatási díj megállapításához
-
-minden negyedévet követő 5. napig köteles a Koordináló szerv részére megadni.
-
-(4) A közszolgáltató eseti adatszolgáltatási kötelezettsége körében
-
-a) az ingatlanhasználó által bejelentett adatváltozást (beleértve új ingatlanhasználó bejelentését, a szolgáltatás felfüggesztésének, szünetelésének kérését, valamint az ingatlanhasználó által alkalmazott edényméret változását is) a változás dátumának megjelölésével együtt, a bejelentést követő 5 napon belül,
-
-b) az ideiglenes vagy szükségellátásról szóló döntést másolatban annak kézhezvételét követő 10. napig,
-
-c)[^16] Hivatal a közszolgáltatót érintő határozatát másolatban, annak kézhezvételét követő 10. napig,
-
-d) a közszolgáltató által megkötött vagy módosított közszolgáltatási szerződést valamennyi mellékletével együtt teljes terjedelemben, a megkötés vagy a módosítás közszolgáltató általi aláírását követő 5 napon belül,
-
-e) a közszolgáltató közszolgáltatási tevékenységére vonatkozó önkormányzati rendeleteket, előírásokat, szabályozókat azok hatálybalépésétől számított 10 napon belül
-
-megküldi a Koordináló szerv részére.
-
-(5) Ha a Hivatal megtiltja a jogszabálysértő közszolgáltatási díj alkalmazását, a közszolgáltató köteles a Hivatal határozatában foglaltakhoz igazodó adatszolgáltatást adni a Koordináló szervnek.
-
-[^15]: A 20. § (2) bekezdése a 312/2021. (VI. 7.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
-[^16]: A 20. § (4) bekezdés c) pontja a 312/2021. (VI. 7.) Korm. rendelet 19. § (3) bekezdése szerint módosított szöveg.
+[^24]: A 11. alcím címe a 277/2023. (VI. 29.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^25]: A 20. § a 277/2023. (VI. 29.) Korm. rendelet 8. §-ával megállapított szöveg.
