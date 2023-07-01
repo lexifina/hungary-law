@@ -1,0 +1,1 @@
+3. § Annak, akit bűncselekmény elkövetése miatt jogerősen elítéltek – függetlenül attól, hogy az elítéléshez fűződő jogkövetkezmények alól mentesült-e –, csak kivételes méltánylást érdemlő esetben lehet a Corvin-láncot adományozni.

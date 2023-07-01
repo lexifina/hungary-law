@@ -1,0 +1,1 @@
+Az Országgyűlés a Magyar Corvin-lánc mint a második legmagasabb rangú magyar állami kitüntetés rangja és méltósága figyelembevételével – az Alaptörvény végrehajtására, az Alaptörvény I) cikk (4) bekezdése alapján –, valamint a Magyar Corvin-lánc Testület által képviselt értékek magasabb szintű védelmének érdekében a következő törvényt alkotja:
