@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-65-20-2
 | 2022-08-12 | 2013-65-20-22.17 | 309/2022. (VIII. 11.) Korm. rendelet |
 | 2022-11-01 | 2013-65-20-22.19 | 408/2022. (X. 24.) Korm. rendelet |
 | 2023-01-01 | 2013-65-20-22.20 | 616/2022. (XII. 29.) Korm. rendelet |
+| 2023-07-01 | 2013-65-20-22.18 | 375/2021. (VI. 30.) Korm. rendelet |

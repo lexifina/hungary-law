@@ -4,8 +4,8 @@
 
 ## A térképeket elektronikus adathordozón is be lehet nyújtani. A térképvázlat vagy helyszínrajz tartalmazza a kijelölt rendszerelem egészét és olyan felbontású és formátumú legyen, amely a megfelelő eligazodást biztosítja.
 
-3. melléklet a 65/2013. (III. 8.) Korm. rendelethez[^97]
+3. melléklet a 65/2013. (III. 8.) Korm. rendelethez[^99]
 
 ALAPVETŐ SZOLGÁLTATÁSOK JEGYZÉKE
 
-[^97]: A 3. mellékletet a 94/2020. (IV. 7.) Korm. rendelet 4. § b) pontja iktatta be, szövege a 375/2020. (VII. 30.) Korm. rendelet 51. § c) pontjával megállapított szöveg.
+[^99]: A 3. mellékletet a 94/2020. (IV. 7.) Korm. rendelet 4. § b) pontja iktatta be, szövege a 375/2020. (VII. 30.) Korm. rendelet 51. § c) pontjával megállapított szöveg.

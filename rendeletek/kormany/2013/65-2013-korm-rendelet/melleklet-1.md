@@ -28,7 +28,7 @@ Egyetlen vagy egymással közvetlenül összefüggő eseményekkel kapcsolatban 
 
 – az ország tájegységeiben, kiemelkedő földrajzi területeiben visszafordíthatatlan negatív változás következik be.
 
-6.[^91] a védelem kritériuma: az infrastruktúrában bekövetkező sérülés, zavar, állapot, esemény vagy folyamat:
+6.[^93] a védelem kritériuma: az infrastruktúrában bekövetkező sérülés, zavar, állapot, esemény vagy folyamat:
 
 – amely következtében a rendszerelem ellátási láncban betöltött szerepét nem tudja ellátni,
 
@@ -36,4 +36,4 @@ Egyetlen vagy egymással közvetlenül összefüggő eseményekkel kapcsolatban 
 
 – katasztrófák elleni védekezés, a károk felszámolása időlegesen ellehetetlenül.
 
-[^91]: Az 1. melléklet 6. pontját a 375/2020. (VII. 30.) Korm. rendelet 51. § a) pontja iktatta be.
+[^93]: Az 1. melléklet 6. pontját a 375/2020. (VII. 30.) Korm. rendelet 51. § a) pontja iktatta be.
