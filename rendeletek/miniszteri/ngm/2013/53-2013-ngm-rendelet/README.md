@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-53-20-2
 | --- | --- | --- |
 | 2013-11-30 | 2013-53-20-2X.1 | 53/2013. (XI. 29.) NGM rendelet |
 | 2014-12-01 | 2013-53-20-2X.2 | 36/2014. (XI. 27.) NGM rendelet |
+| 2023-07-01 | 2013-53-20-2X.3 | 12/2023. (VI. 29.) GFM rendelet |
