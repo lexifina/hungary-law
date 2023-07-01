@@ -1,0 +1,1 @@
+13. § Hatályát veszti az egyes közigazgatási hatósági eljárásokban elrendelt elővezetés végrehajtása során felmerült költség mértéke megállapításának, valamint megtérítésének részletes szabályairól szóló 3/2019. (I. 31.) BM rendelet.

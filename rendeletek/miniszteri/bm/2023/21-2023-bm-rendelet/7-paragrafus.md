@@ -1,0 +1,9 @@
+## 3. A körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló törvény alapján elrendelt elővezetés költségének megtérítése
+
+7. § (1) A körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló törvény alapján elrendelt elővezetés – elővezetési költséget megállapító jogerős, illetve véglegessé vált határozat vagy végzés szerinti – költségét, a (2) és (3) bekezdésben meghatározott kivétellel, a foganatosító szerv székhelye szerint illetékes vármegyei (fővárosi) rendőr-főkapitányság előirányzat-felhasználási keretszámlájára kell befizetni.
+
+(2) Ha a körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló törvény alapján elrendelt elővezetést az általános rendőrségi feladatok ellátására létrehozott szerv egyes feladatok ellátására törvényben vagy kormányrendeletben létrehozott szerve foganatosítja, az elővezetés – elővezetési költséget megállapító jogerős, illetve véglegessé vált határozat vagy végzés szerinti – költségét a foganatosító szerv előirányzat-felhasználási keretszámlájára kell befizetni.
+
+(3) Ha a körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló törvény alapján elrendelt elővezetést a Nemzeti Adó- és Vámhivatal foganatosítja, az elővezetés – elővezetési költséget megállapító jogerős, illetve véglegessé vált határozat vagy végzés szerinti – költségét a foganatosító szerv előirányzat-felhasználási keretszámlájára kell befizetni.
+
+(4) A körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló törvény alapján elrendelt elővezetés – elővezetési költséget megállapító jogerős, illetve véglegessé vált határozat vagy végzés szerinti – költsége befizetésének elmulasztása esetén a behajtás iránt az a szerv intézkedik, amelynek a költség az (1)–(3) bekezdés alapján a bevétele.
