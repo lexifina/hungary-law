@@ -1,6 +1,6 @@
 ## A fogvatartottak kötelező foglalkoztatása körében előállítandó termékek és szolgáltatások köre
 
-## 1.[^8] 10 Élelmiszergyártás
+## 1.[^10] 10 Élelmiszergyártás
 
 ## a) Hasított félsertés, sertésbelsőségek (kizárólag a büntetés-végrehajtás vonatkozásában).
 
@@ -22,7 +22,7 @@
 
 ## j) Tökmagolaj, tökmagliszt, héj nélküli tökmag.
 
-## 2.[^9] 13.92 Konfekcionált textiláru gyártása (kivéve: ruházat)
+## 2.[^11] 13.92 Konfekcionált textiláru gyártása (kivéve: ruházat)
 
 ## a) ágynemű, asztalnemű, fürdőszobai és konyhai textíliák,
 
@@ -42,7 +42,7 @@
 
 ## Kalocsai hímzett terítő, gépi hímzett termékek, hímzett rendfokozati jelzés, karjelvények, hímzett azonosítók.
 
-## 4.[^10] 14.12 Munkaruházat gyártása
+## 4.[^12] 14.12 Munkaruházat gyártása
 
 ## a) Egyenruházati termékek: nadrág, szoknya, ing/blúz, dzseki, zubbony, télikabát, gyakorló ruházat, vászon sapka (kivéve: speciális ruházat).
 
@@ -66,11 +66,11 @@
 
 ## Ing, téli ing, téli alsó, blúz, póló, pizsama, hálóing. Kivéve: gyermek ruházat.
 
-## 6.[^11] 14.19 Egyéb ruházat, kiegészítők gyártása
+## 6.[^13] 14.19 Egyéb ruházat, kiegészítők gyártása
 
 ## Munkavédelmi kesztyűk (kivéve: lángálló kesztyű, vágásbiztos kesztyű, bélelt kesztyű, cérnakesztyű, motoros kesztyű, mártott kesztyű, sav-lúgálló kesztyű, gumikesztyű).
 
-## 7.[^12] 15.12 Táskafélék, szíjazat gyártása
+## 7.[^14] 15.12 Táskafélék, szíjazat gyártása
 
 ## a) Egyenruházati kiegészítők: övek bőrből, taktikai öv, tonfatartó, bilincstartó tok, könnyfakasztó tartó tok, merev bilincstartó (bőr), gyorskötöző tartó, kulcstartó, rádiótartó tok, riasztó tok, honvédségi hevederöv, katasztrófavédelmi öv, különböző, bőrből készült tártokok, fegyvertokok, spraytok, bőr bilincsrögzítő öv, pisztolytáska, lábbilincs.
 
@@ -88,9 +88,9 @@
 
 ## h) Vezetőszár.
 
-## 8.[^13] 15.20 Lábbeligyártás
+## 8.[^15] 15.20 Lábbeligyártás
 
-## 8.1.[^14] Munkavédelmi, utcai és egyenruházati lábbelik gyártása bőr és textil felsőrésszel, direkt fröccsöntött talppal, ragasztott vagy varrott technológiával, PVC vagy gumicsizma előállítása a 8.2. alpont kivételével.
+## 8.1.[^16] Munkavédelmi, utcai és egyenruházati lábbelik gyártása bőr és textil felsőrésszel, direkt fröccsöntött talppal, ragasztott vagy varrott technológiával, PVC vagy gumicsizma előállítása a 8.2. alpont kivételével.
 
 ## 8.2. A 8.1. alpont alóli kivételek:
 
@@ -118,11 +118,11 @@
 
 ## Háztartási toalettpapír, közületi toalettpapír, háztartási kéztörlő, közületi kéztörlő, papír zsebkendő, szalvéta, orvosi lepedő.
 
-## 10.[^15] 17.23 Irodai papíráru gyártása
+## 10.[^17] 17.23 Irodai papíráru gyártása
 
 ## Egyedi spirálfüzet, konferenciamappa, jegyzettömb, kockatömb, dosszié (pólyás, fűzős, szalagos), mappa, talpas boríték, papírtasak, karton iratpapucs, gyűrűs és emelőkaros iratrendező, talpas tasak.
 
-## 11.[^16] 18.12. Nyomás (kivéve: napilap)
+## 11.[^18] 18.12. Nyomás (kivéve: napilap)
 
 ## a) íves, könyvkötött (pl. füzet, könyv, tömb) és leporellós termék: könyv, évkönyv, meghívók, üdvözlő kártyák, céglogós és egyedi kialakítású nyomott borítékok [kivéve: hatósági szürke borítékok, speciális tasakok, egyéb speciális borítékok és tasakok (pl. légpárnás, kraft papír alapanyagú)],
 
@@ -140,7 +140,7 @@
 
 ## h) leporellós kivitelű nyomtatványok,
 
-## i)[^17] textilnyomtatással készülő egyedi termékek, továbbá tárgy- és felületnyomtatással készült termékek (különösen bögre, póló, toll, kulcstartó, egérpad, termosz).
+## i)[^19] textilnyomtatással készülő egyedi termékek, továbbá tárgy- és felületnyomtatással készült termékek (különösen bögre, póló, toll, kulcstartó, egérpad, termosz).
 
 ## 12. 18.13 Nyomdai előkészítő tevékenység
 
@@ -150,13 +150,13 @@
 
 ## Könyvkötés, műbőrkötés, emlékkönyv, vendégkönyv, keménytáblás kötés, oklevélátadó, díszborító, aláírókönyv, prospektustartó, fóliázás, laminálás, kasírozás, arany-feliratozás, feliratozás.
 
-## 14.[^18]
+## 14.[^20]
 
-## 15.[^19] 22.22 Műanyag csomagolóeszköz gyártása
+## 15.[^21] 22.22 Műanyag csomagolóeszköz gyártása
 
 ## a) Homokzsák.
 
-## b)[^20]
+## b)[^22]
 
 ## 16. 25.11 Fémszerkezet gyártása
 
@@ -166,7 +166,7 @@
 
 ## Ablakrács, biztonsági rács, elválasztó rács, rács, lemezajtó, rácsos ajtó, zárkaajtó, kerítés.
 
-## 18.[^21]
+## 18.[^23]
 
 ## 19. 25.71 Evőeszköz gyártás
 
@@ -180,11 +180,11 @@
 
 ## Elektromos ajtózár (szigonyzár).
 
-## 20/A.[^22] 25.93 Huzaltermék gyártása
+## 20/A.[^24] 25.93 Huzaltermék gyártása
 
 ## Huzalból készült áruk: pengés (NATO) drót, huzalkerítés (3000 mm × 15 m × 2,5 mm paraméterű huzal) gyártása.
 
-## 21.[^23] 25.99 M.n.s. egyéb fémfeldolgozási termék gyártása
+## 21.[^25] 25.99 M.n.s. egyéb fémfeldolgozási termék gyártása
 
 ## a) Kordon, biztonsági elválasztó-kordon.
 
@@ -192,7 +192,7 @@
 
 ## c) Vályogprés gép.
 
-## 22.[^24] 31.01. Irodabútor gyártása
+## 22.[^26] 31.01. Irodabútor gyártása
 
 ## a) laminált bútorlapból készült ügyintézői irodabútorok,
 
@@ -210,7 +210,7 @@
 
 ## Szivacsmatrac (huzattal), ágybetét (MDF lap).
 
-## 25.[^25] 31.09 Egyéb bútor gyártása
+## 25.[^27] 31.09 Egyéb bútor gyártása
 
 ## a) Iskolabútor gyártása.
 
@@ -242,7 +242,7 @@
 
 ## Iskolai sportszerek: bordásfal, zsámoly, ugrószekrény, tornapad, tornagerenda, gyűrű.
 
-## 27.[^26] 32.50 Orvosi eszköz gyártása
+## 27.[^28] 32.50 Orvosi eszköz gyártása
 
 ## a) Orvosi, egészségügyi és kórházi beépített, illetve mobil bútor, laboratóriumi bútor gyártása.
 
@@ -286,7 +286,7 @@
 
 ## Kiadói tevékenység.
 
-## 31.[^27] 96.01 Textil, szőrme mosása, tisztítása
+## 31.[^29] 96.01 Textil, szőrme mosása, tisztítása
 
 ## a) Normál textíliák mosása, szárítása, kalanderezése, ruházat, ágynemű, egyéb textiltermékek mosása. Egészségügyi textíliák mosása, szárítása, kalanderezése (higiénikus mosodai státusz).
 
@@ -296,33 +296,33 @@
 
 ## d) Ágyneműk, munka- és védőruhák kölcsönzése (bértextil szolgáltatás).
 
-## 32.[^28] 33.11 Fémfeldolgozási termék javítása
+## 32.[^30] 33.11 Fémfeldolgozási termék javítása
 
 ## Határőrizeti célú ideiglenes biztonsági határzár elemeinek [fémfeldolgozási termékek, huzalból készült termékek, pengés (NATO) drót, huzalkerítés, drótkerítés, kerítésfonat, drótháló, magasfigyelők és esőbeállók] javítása, karbantartása.
 
-## 33.[^29] 42.11. Út, autópálya építése
+## 33.[^31] 42.11. Út, autópálya építése
 
 ## Határőrizeti feladatok végrehajtására kiépített manőverút karbantartása, javítása.
 
-## 34.[^30]
+## 34.[^32]
 
-## 35.[^31]
+## 35.[^33]
 
-## 36.[^32] 16.24 Tároló fatermék gyártása
+## 36.[^34] 16.24 Tároló fatermék gyártása
 
 ## Fa tároló rekesz, doboz.
 
-## 37.[^33] 22.23 Műanyag építőanyag gyártása
+## 37.[^35] 22.23 Műanyag építőanyag gyártása
 
 ## a) Műanyag ablak és tokja.
 
 ## b) WPC burkolat.
 
-## 38.[^34] 42.99 Egyéb m.n.s. építés
+## 38.[^36] 42.99 Egyéb m.n.s. építés
 
 ## Fémszerkezetű kerítés építése.
 
-## 39.[^35] 16.23 Épületasztalos-ipari termékek gyártása
+## 39.[^37] 16.23 Épületasztalos-ipari termékek gyártása
 
 ## a) Ajtó, ablak, kereteik, fémszerelvényekkel (mint pl. sarokvas, zár) ellátva vagy anélkül.
 
@@ -332,11 +332,11 @@
 
 ## d) Kültéri pad tömörfa-, fém lábakkal (kizárólag a büntetés-végrehajtás vonatkozásában).
 
-## 40.[^36] 28.23 Irodagép gyártása (kivéve: számítógép és perifériái)
+## 40.[^38] 28.23 Irodagép gyártása (kivéve: számítógép és perifériái)
 
 ## Irodagép festékpatronjának (toner) gyártása: Írás- és képmegjelenítő berendezések (nyomtatók, másolók, faxok, számológépek stb.) komplett nyomtató kellékanyagainak (komplett toner/cartridge /festékkazetta/) vagy azok külön alkatrészeinek (toner /külön festékegység/, dob /külön képalkotó egység/, fuser /külön beégető egység/, IBT Belt /képátvivő szalag/ és belt cleaner /képátvivőszalag-törlő/, waste container /használtfesték-tartály/) utángyártása, javítása.
 
-## 41.[^37] Építőipari tevékenység kizárólag a büntetés-végrehajtás vonatkozásában:
+## 41.[^39] Építőipari tevékenység kizárólag a büntetés-végrehajtás vonatkozásában:
 
 ## 41.1. 43.32 Épületasztalos-szerkezet szerelése
 
@@ -442,19 +442,19 @@
 
 ## g) Zsaluzás, dúcolás.
 
-## 41.13.[^38] 43.21. Villanyszerelés
+## 41.13.[^40] 43.21. Villanyszerelés
 
-## 41.14.[^39] 43.22. Víz-, gáz-, fűtés-, légkondicionáló-szerelés
+## 41.14.[^41] 43.22. Víz-, gáz-, fűtés-, légkondicionáló-szerelés
 
-## 41.15.[^40] 43.29. Egyéb épületgépészeti szerelés
+## 41.15.[^42] 43.29. Egyéb épületgépészeti szerelés
 
-## 42.[^41] 81.29. Egyéb takarítás (fertőtlenítés és kártevőirtás) kizárólag a büntetés-végrehajtás vonatkozásában.
+## 42.[^43] 81.29. Egyéb takarítás (fertőtlenítés és kártevőirtás) kizárólag a büntetés-végrehajtás vonatkozásában.
 
-## 43.[^42] 23.61 Építési betontermék gyártása kizárólag a büntetés-végrehajtás vonatkozásában.
+## 43.[^44] 23.61 Építési betontermék gyártása kizárólag a büntetés-végrehajtás vonatkozásában.
 
-## 44.[^43] 81.21 Általános épülettakarítás kizárólag a büntetés-végrehajtás vonatkozásában.
+## 44.[^45] 81.21 Általános épülettakarítás kizárólag a büntetés-végrehajtás vonatkozásában.
 
-2. melléklet a 9/2011. (III. 23.) BM rendelethez[^44]
+2. melléklet a 9/2011. (III. 23.) BM rendelethez[^46]
 
 A Kedvezményezettek köre
 
@@ -478,40 +478,40 @@ A Kedvezményezettek köre
 
 10. A Belügyminisztérium minisztériumi szerveként, az önálló belügyi szervként, illetve a Belügyminisztérium szakmai felügyelete alatt álló gazdasági társaságként működő – az 1–9. pont hatálya alá nem tartozó – szervek, illetve szervezeti elemek
 
-[^8]: Az 1. melléklet 1. pontja a 64/2022. (XII. 27.) BM rendelet 1. § a) pontjával megállapított szöveg.
-[^9]: Az 1. melléklet 2. pontja a 22/2021. (VII. 14.) BM rendelet 1. §-ával megállapított szöveg.
-[^10]: Az 1. melléklet 4. pontja a 64/2022. (XII. 27.) BM rendelet 1. § a) pontjával megállapított szöveg.
-[^11]: Az 1. melléklet 6. pontja a 45/2016. (XI. 23.) BM rendelet 1. §-ával megállapított szöveg.
-[^12]: Az 1. melléklet 7. pontja a 64/2022. (XII. 27.) BM rendelet 1. § a) pontjával megállapított szöveg.
-[^13]: Az 1. melléklet 8. pontja a 22/2021. (VII. 14.) BM rendelet 1. §-ával megállapított szöveg.
-[^14]: Az 1. melléklet 8. pont 8.1. alpontja a 64/2022. (XII. 27.) BM rendelet 1. § a) pontjával megállapított szöveg.
-[^15]: Az 1. melléklet 10. pontja a 4/2016. (I. 22.) BM rendelet 1. pontjával megállapított szöveg.
-[^16]: Az 1. melléklet 11. pontja a 22/2021. (VII. 14.) BM rendelet 1. §-ával megállapított szöveg.
-[^17]: Az 1. melléklet 11. pont i) alpontja a 64/2022. (XII. 27.) BM rendelet 1. § a) pontjával megállapított szöveg.
-[^18]: Az 1. melléklet 14. pontját a 45/2016. (XI. 23.) BM rendelet 2. §-a hatályon kívül helyezte.
-[^19]: Az 1. melléklet 15. pontja a 20/2018. (VI. 29.) BM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^20]: Az 1. melléklet 15. pont b) alpontját a 64/2022. (XII. 27.) BM rendelet 1. § a) pontja hatályon kívül helyezte.
-[^21]: Az 1. melléklet 18. pontját a 20/2018. (VI. 29.) BM rendelet 3. § (1) bekezdése hatályon kívül helyezte.
-[^22]: Az 1. melléklet 20/A. pontját a 4/2016. (I. 22.) BM rendelet 1. pontja iktatta be.
-[^23]: Az 1. melléklet 21. pontja a 64/2022. (XII. 27.) BM rendelet 1. § a) pontjával megállapított szöveg.
-[^24]: Az 1. melléklet 22. pontja a 22/2021. (VII. 14.) BM rendelet 1. §-ával megállapított szöveg.
-[^25]: Az 1. melléklet 25. pontja a 64/2022. (XII. 27.) BM rendelet 1. § a) pontjával megállapított szöveg.
-[^26]: Az 1. melléklet 27. pontja a 9/2020. (IV. 16.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^27]: Az 1. melléklet 31. pontja a 64/2022. (XII. 27.) BM rendelet 1. § a) pontjával megállapított szöveg.
-[^28]: Az 1. melléklet 32. pontját a 4/2016. (I. 22.) BM rendelet 1. pontja iktatta be, szövege a 24/2018. (IX. 20.) BM rendelet 1. §-ával megállapított szöveg.
-[^29]: Az 1. melléklet 33. pontját a 45/2016. (XI. 23.) BM rendelet 1. §-a iktatta be, szövege a 20/2018. (VI. 29.) BM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^30]: Az 1. melléklet 34. pontját a 45/2016. (XI. 23.) BM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 9/2020. (IV. 16.) BM rendelet 2. § (1) bekezdése.
-[^31]: Az 1. melléklet 35. pontját a 45/2016. (XI. 23.) BM rendelet 1. §-a iktatta be, a 64/2022. (XII. 27.) BM rendelet 1. § a) pontja hatályon kívül helyezte.
-[^32]: Az 1. melléklet 36. pontját a 45/2016. (XI. 23.) BM rendelet 1. §-a iktatta be.
-[^33]: Az 1. melléklet 37. pontja a 64/2022. (XII. 27.) BM rendelet 1. § a) pontjával megállapított szöveg.
-[^34]: Az 1. melléklet 38. pontját a 45/2016. (XI. 23.) BM rendelet 1. §-a iktatta be.
-[^35]: Az 1. melléklet 39. pontja a 64/2022. (XII. 27.) BM rendelet 1. § a) pontjával megállapított szöveg.
-[^36]: Az 1. melléklet 40. pontját a 20/2018. (VI. 29.) BM rendelet 3. § (1) bekezdése iktatta be.
-[^37]: Az 1. melléklet 41. pontját a 24/2018. (IX. 20.) BM rendelet 1. §-a iktatta be, nyitó szövegrésze a 64/2022. (XII. 27.) BM rendelet 1. § a) pontja szerint módosított szöveg.
-[^38]: Az 1. melléklet 41. pont 41.13. alpontját a 22/2021. (VII. 14.) BM rendelet 1. §-a iktatta be.
-[^39]: Az 1. melléklet 41. pont 41.14. alpontját a 22/2021. (VII. 14.) BM rendelet 1. §-a iktatta be.
-[^40]: Az 1. melléklet 41. pont 41.15. alpontját a 22/2021. (VII. 14.) BM rendelet 1. §-a iktatta be.
-[^41]: Az 1. melléklet 42. pontját a 22/2021. (VII. 14.) BM rendelet 1. §-a iktatta be.
-[^42]: Az 1. melléklet 43. pontját a 64/2022. (XII. 27.) BM rendelet 1. § a) pontja iktatta be.
-[^43]: Az 1. melléklet 44. pontját a 64/2022. (XII. 27.) BM rendelet 1. § a) pontja iktatta be.
-[^44]: A 2. melléklet a 64/2022. (XII. 27.) BM rendelet 1. § b) pontjával megállapított szöveg.
+[^10]: Az 1. melléklet 1. pontja a 64/2022. (XII. 27.) BM rendelet 1. § a) pontjával megállapított szöveg.
+[^11]: Az 1. melléklet 2. pontja a 22/2021. (VII. 14.) BM rendelet 1. §-ával megállapított szöveg.
+[^12]: Az 1. melléklet 4. pontja a 64/2022. (XII. 27.) BM rendelet 1. § a) pontjával megállapított szöveg.
+[^13]: Az 1. melléklet 6. pontja a 45/2016. (XI. 23.) BM rendelet 1. §-ával megállapított szöveg.
+[^14]: Az 1. melléklet 7. pontja a 64/2022. (XII. 27.) BM rendelet 1. § a) pontjával megállapított szöveg.
+[^15]: Az 1. melléklet 8. pontja a 22/2021. (VII. 14.) BM rendelet 1. §-ával megállapított szöveg.
+[^16]: Az 1. melléklet 8. pont 8.1. alpontja a 64/2022. (XII. 27.) BM rendelet 1. § a) pontjával megállapított szöveg.
+[^17]: Az 1. melléklet 10. pontja a 4/2016. (I. 22.) BM rendelet 1. pontjával megállapított szöveg.
+[^18]: Az 1. melléklet 11. pontja a 22/2021. (VII. 14.) BM rendelet 1. §-ával megállapított szöveg.
+[^19]: Az 1. melléklet 11. pont i) alpontja a 64/2022. (XII. 27.) BM rendelet 1. § a) pontjával megállapított szöveg.
+[^20]: Az 1. melléklet 14. pontját a 45/2016. (XI. 23.) BM rendelet 2. §-a hatályon kívül helyezte.
+[^21]: Az 1. melléklet 15. pontja a 20/2018. (VI. 29.) BM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^22]: Az 1. melléklet 15. pont b) alpontját a 64/2022. (XII. 27.) BM rendelet 1. § a) pontja hatályon kívül helyezte.
+[^23]: Az 1. melléklet 18. pontját a 20/2018. (VI. 29.) BM rendelet 3. § (1) bekezdése hatályon kívül helyezte.
+[^24]: Az 1. melléklet 20/A. pontját a 4/2016. (I. 22.) BM rendelet 1. pontja iktatta be.
+[^25]: Az 1. melléklet 21. pontja a 64/2022. (XII. 27.) BM rendelet 1. § a) pontjával megállapított szöveg.
+[^26]: Az 1. melléklet 22. pontja a 22/2021. (VII. 14.) BM rendelet 1. §-ával megállapított szöveg.
+[^27]: Az 1. melléklet 25. pontja a 64/2022. (XII. 27.) BM rendelet 1. § a) pontjával megállapított szöveg.
+[^28]: Az 1. melléklet 27. pontja a 9/2020. (IV. 16.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^29]: Az 1. melléklet 31. pontja a 64/2022. (XII. 27.) BM rendelet 1. § a) pontjával megállapított szöveg.
+[^30]: Az 1. melléklet 32. pontját a 4/2016. (I. 22.) BM rendelet 1. pontja iktatta be, szövege a 24/2018. (IX. 20.) BM rendelet 1. §-ával megállapított szöveg.
+[^31]: Az 1. melléklet 33. pontját a 45/2016. (XI. 23.) BM rendelet 1. §-a iktatta be, szövege a 20/2018. (VI. 29.) BM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^32]: Az 1. melléklet 34. pontját a 45/2016. (XI. 23.) BM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 9/2020. (IV. 16.) BM rendelet 2. § (1) bekezdése.
+[^33]: Az 1. melléklet 35. pontját a 45/2016. (XI. 23.) BM rendelet 1. §-a iktatta be, a 64/2022. (XII. 27.) BM rendelet 1. § a) pontja hatályon kívül helyezte.
+[^34]: Az 1. melléklet 36. pontját a 45/2016. (XI. 23.) BM rendelet 1. §-a iktatta be.
+[^35]: Az 1. melléklet 37. pontja a 64/2022. (XII. 27.) BM rendelet 1. § a) pontjával megállapított szöveg.
+[^36]: Az 1. melléklet 38. pontját a 45/2016. (XI. 23.) BM rendelet 1. §-a iktatta be.
+[^37]: Az 1. melléklet 39. pontja a 64/2022. (XII. 27.) BM rendelet 1. § a) pontjával megállapított szöveg.
+[^38]: Az 1. melléklet 40. pontját a 20/2018. (VI. 29.) BM rendelet 3. § (1) bekezdése iktatta be.
+[^39]: Az 1. melléklet 41. pontját a 24/2018. (IX. 20.) BM rendelet 1. §-a iktatta be, nyitó szövegrésze a 64/2022. (XII. 27.) BM rendelet 1. § a) pontja szerint módosított szöveg.
+[^40]: Az 1. melléklet 41. pont 41.13. alpontját a 22/2021. (VII. 14.) BM rendelet 1. §-a iktatta be.
+[^41]: Az 1. melléklet 41. pont 41.14. alpontját a 22/2021. (VII. 14.) BM rendelet 1. §-a iktatta be.
+[^42]: Az 1. melléklet 41. pont 41.15. alpontját a 22/2021. (VII. 14.) BM rendelet 1. §-a iktatta be.
+[^43]: Az 1. melléklet 42. pontját a 22/2021. (VII. 14.) BM rendelet 1. §-a iktatta be.
+[^44]: Az 1. melléklet 43. pontját a 64/2022. (XII. 27.) BM rendelet 1. § a) pontja iktatta be.
+[^45]: Az 1. melléklet 44. pontját a 64/2022. (XII. 27.) BM rendelet 1. § a) pontja iktatta be.
+[^46]: A 2. melléklet a 64/2022. (XII. 27.) BM rendelet 1. § b) pontjával megállapított szöveg.

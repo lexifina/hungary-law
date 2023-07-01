@@ -2,6 +2,9 @@
 
 (2) Az (1) bekezdés szerinti tárgyalás célja, hogy Kedvezményezett hitelt érdemlően bizonyítsa, hogy a Központi Ellátó Szerv által meghatározott ellenértéknél legalább 20%-kal kedvezőbb ellenértéken tudja a terméket vagy a szolgáltatást a közbeszerzésre irányadó általános szabályok szerint – a Központi Ellátó Szerv számára meghatározott minimális műszaki tartalommal, paraméterekkel és minőséggel, valamint teljesítési hellyel, teljesítési határidővel és ajánlati kötöttséggel azonosan vagy annál kedvezőbb módon – beszerezni.
 
+(2a)[^4] A (2) bekezdésben foglaltaktól eltérően, ha a beszerzés részben vagy egészben európai uniós forrásból vagy egyéb nemzetközi együttműködésből származó támogatás felhasználásával történik, az (1) bekezdés szerinti tárgyalás célja, hogy a Kedvezményezett hitelt érdemlően bizonyítsa, hogy az ajánlatban meghatározott ellenértéknél kedvezőbb ellenértéken tudja a terméket vagy a szolgáltatást – a Központi Ellátó Szerv számára meghatározott minimális műszaki tartalommal, paraméterekkel és minőséggel, valamint teljesítési hellyel, teljesítési határidővel azonosan vagy annál kedvezőbb módon – beszerezni.
+
 (3) A Kedvezményezett csak akkor jogosult elutasítani az ajánlatot és a terméket vagy szolgáltatást a közbeszerzésre irányadó általános szabályok szerint beszerezni, ha a bizonyítása sikeres és az (1) bekezdés szerinti tárgyalás során a Központi Ellátó Szerv és a Kedvezményezett (a továbbiakban együtt: Felek) nem tudnak megegyezni a meghatározott ellenérték megfelelő csökkentésében vagy az ellenérték különbözetének más módon történő kompenzálásában. Megegyezés esetén Kedvezményezett köteles a szerződést vagy az ellátási megállapodást megkötni.
 
 [^3]: A 4. § (1) bekezdése a 64/2022. (XII. 27.) BM rendelet 2. §-a szerint módosított szöveg.
+[^4]: A 4. § (2a) bekezdését a 24/2023. (VI. 30.) BM rendelet 17. §-a iktatta be.
