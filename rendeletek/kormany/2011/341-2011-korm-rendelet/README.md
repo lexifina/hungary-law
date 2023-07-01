@@ -35,3 +35,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-341-20-
 | 2022-07-01 | 2011-341-20-22.27 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2023-01-01 | 2011-341-20-22.28 | 70/2015. (III. 30.) Korm. rendelet |
 | 2023-05-13 | 2011-341-20-22.29 | 169/2023. (V. 12.) Korm. rendelet |
+| 2023-07-01 | 2011-341-20-22.30 | 169/2023. (V. 12.) Korm. rendelet |

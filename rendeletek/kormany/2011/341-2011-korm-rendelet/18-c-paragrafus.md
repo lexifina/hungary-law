@@ -1,4 +1,4 @@
-18/C. §[^167] E rendeletnek az otthonteremtési kamattámogatásról szóló 341/2011. (XII. 29.) Korm. rendelet módosításáról szóló 160/2012. (VII. 17.) Korm. rendelet (a továbbiakban: Módr2.) 2. §-ával megállapított 10. § (1) bekezdését a Módr2. hatálybalépését[^168] követően benyújtott kérelmekre kell alkalmazni.
+18/C. §[^169] E rendeletnek az otthonteremtési kamattámogatásról szóló 341/2011. (XII. 29.) Korm. rendelet módosításáról szóló 160/2012. (VII. 17.) Korm. rendelet (a továbbiakban: Módr2.) 2. §-ával megállapított 10. § (1) bekezdését a Módr2. hatálybalépését[^170] követően benyújtott kérelmekre kell alkalmazni.
 
-[^167]: A 18/C. §-t a 160/2012. (VII. 17.) Korm. rendelet 1. §-a iktatta be.
-[^168]: A hatálybalépés időpontja 2012. július 18.
+[^169]: A 18/C. §-t a 160/2012. (VII. 17.) Korm. rendelet 1. §-a iktatta be.
+[^170]: A hatálybalépés időpontja 2012. július 18.
