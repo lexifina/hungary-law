@@ -4,7 +4,7 @@
 
 31. § (1) Az egyszerű megítélésű kárügyeknél a kártérítési eljárás lefolytatására, valamint a kártérítés kifizetésére az állományilletékes parancsnok intézkedik.
 
-(2)[^47] A kifizetés feltétele, hogy a kárért a rendvédelmi feladatokat ellátó szerv felelőssége nyilvánvaló, a károsodás pedig ténybelileg és összegszerűségében hitelt érdemlően bizonyított legyen, továbbá a kár összege a 3 000 000 Ft-ot ne haladja meg.
+(2)[^49] A kifizetés feltétele, hogy a kárért a rendvédelmi feladatokat ellátó szerv felelőssége nyilvánvaló, a károsodás pedig ténybelileg és összegszerűségében hitelt érdemlően bizonyított legyen, továbbá a kár összege a 3 000 000 Ft-ot ne haladja meg.
 
 (3) Nem tekinthető egyszerű megítélésűnek a kárigény, ha
 
@@ -20,14 +20,14 @@ e) a kár összege nem bizonyított;
 
 f) a kártérítési kérelem a szolgálattal összefüggő betegséggel kapcsolatos;
 
-g)[^48]
+g)[^50]
 
 h) halálesethez kapcsolódnak a kártérítési igények;
 
-i)[^49] személyiségi jogi jogsértéssel kapcsolatos igény is érvényesítésre kerül.
+i)[^51] személyiségi jogi jogsértéssel kapcsolatos igény is érvényesítésre kerül.
 
 (4) Ha az állományilletékes parancsnok a vitás kérdéseket, vagy a kár összegszerűségét a bizonyítás kiegészítésével megalapozottan tisztázni tudja, a kártérítés az (1) bekezdés szerint kifizethető.
 
-[^47]: A 31. § (2) bekezdése a 81/2012. (XII. 28.) BM rendelet 6. § (1) bekezdés b) pontja, a 37/2015. (VI. 16.) BM rendelet 9. § b) pontja szerint módosított szöveg.
-[^48]: A 31. § (3) bekezdés g) pontját a 34/2014. (IV. 24.) BM rendelet 12. §-a hatályon kívül helyezte.
-[^49]: A 31. § (3) bekezdés i) pontja a 22/2014. (III. 12.) BM rendelet 3. § b) pontja szerint módosított szöveg.
+[^49]: A 31. § (2) bekezdése a 81/2012. (XII. 28.) BM rendelet 6. § (1) bekezdés b) pontja, a 37/2015. (VI. 16.) BM rendelet 9. § b) pontja szerint módosított szöveg.
+[^50]: A 31. § (3) bekezdés g) pontját a 34/2014. (IV. 24.) BM rendelet 12. §-a hatályon kívül helyezte.
+[^51]: A 31. § (3) bekezdés i) pontja a 22/2014. (III. 12.) BM rendelet 3. § b) pontja szerint módosított szöveg.
