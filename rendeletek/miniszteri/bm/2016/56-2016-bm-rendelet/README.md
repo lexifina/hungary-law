@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-56-20-0
 | 2018-01-01 | 2016-56-20-0A.2 | 40/2017. (XII. 29.) BM rendelet |
 | 2019-01-01 | 2016-56-20-0A.3 | 34/2018. (XII. 20.) BM rendelet |
 | 2023-01-01 | 2016-56-20-0A.4 | 43/2022. (XII. 19.) BM rendelet |
+| 2023-07-01 | 2016-56-20-0A.5 | 24/2023. (VI. 30.) BM rendelet |
