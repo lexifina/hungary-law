@@ -6,6 +6,6 @@
 
 (4) A BVOP az elítélt elővezetését az elítélt ismert lakcíme vagy tényleges tartózkodási helye szerint illetékes bv. intézetbe rendeli el.
 
-(5) Az elővezetés költségének megfizetésére a BVOP az elítéltet határozattal kötelezi. Eredménytelen elővezetés esetén a BVOP a kötelezettet kérelmére különös méltánylást érdemlő okból mentesítheti az elővezetés költéségének megfizetése alól, ebben az esetben az elővezetés költségét az állam viseli. Az elítélt az elővezetés költségének megfizetésére kötelező határozat bírósági felülvizsgálatát kezdeményezheti a fogvatartás helyeként kijelölt bv. intézet székhelye szerint illetékes büntetés-végrehajtási bírónál.
+(5) Az elővezetés – a Rendőrségről szóló törvény alapján a foganatosító szerv által igazolt – költségének megfizetésére a BVOP az elítéltet határozattal kötelezi. Eredménytelen elővezetés esetén a BVOP a kötelezettet kérelmére különös méltánylást érdemlő okból mentesítheti az elővezetés költéségének megfizetése alól, ebben az esetben az elővezetés költségét az állam viseli. Az elítélt az elővezetés költségének megfizetésére kötelező határozat bírósági felülvizsgálatát kezdeményezheti a fogvatartás helyeként kijelölt bv. intézet székhelye szerint illetékes büntetés-végrehajtási bírónál.
 
 (6) Ha az elítélt önként, határidőben jelentkezik, vagy elővezetés, elfogatóparancs alapján a bv. intézetbe elővezetik, erről a bv. intézet haladéktalanul értesíti a bv. csoportot és a BVOP-t.
