@@ -10,6 +10,8 @@ c) a tag elhalálozik,
 
 d) a tag vonatkozásában a hozzátartozói láncolat megszakad.
 
+(2a) A tag vonatkozásában a hozzátartozói láncolat fennállása nem szűnik meg a házastárs halálával.
+
 (3) Ha az elhunyt tag örököse mezőgazdasági őstermelőnek minősül és a többi taggal hozzátartozói láncolatban áll, akkor a tagok hozzájárulásával az őstermelők családi gazdaságába tagként beléphet.
 
 (4) Ha az őstermelők családi gazdasága képviselőjének a tagsági jogviszonya megszűnik, a bejelentéssel egyidejűleg meg kell jelölni az új képviselő személyét. Ha az őstermelők családi gazdasága képviselőjének a tagsági jogviszonya a (2) bekezdés b)–d) pontjában meghatározott esetben szűnik meg, akkor a tagoknak 15 napon belül be kell jelenteniük az új képviselő személyét.
