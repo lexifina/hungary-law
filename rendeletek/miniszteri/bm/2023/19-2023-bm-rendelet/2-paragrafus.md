@@ -1,0 +1,3 @@
+2. § A belügyminiszter irányítása alatt álló rendvédelmi feladatokat ellátó szerveknél alkalmazandó egészségügyi szakdolgozói pótlékról szóló 27/2021. (VIII. 9.) BM rendelet a következő 7. §-sal egészül ki:
+
+„7. § A belügyminiszter irányítása alatt álló rendvédelmi feladatokat ellátó szerveknél alkalmazandó egészségügyi szakdolgozói pótlékról szóló 27/2021. (VIII. 9.) BM rendelet módosításáról szóló 19/2023. (VI. 26.) BM rendelettel megállapított 2. melléklet 2. pontjában foglalt táblázat alapján számított szakdolgozói pótlékot első alkalommal a rendvédelmi igazgatási alkalmazottat 2023. július hónapra megillető illetménnyel együtt kell megállapítani és folyósítani.”
