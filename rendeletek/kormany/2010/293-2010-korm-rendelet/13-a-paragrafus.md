@@ -1,5 +1,3 @@
-## 13. §
-
 ## 5/A.[^11] Közreműködés a korrupcióellenes tevékenységgel összefüggő kormányzati feladatokban
 
 ## 13/A. §[^12] Az NVSZ
