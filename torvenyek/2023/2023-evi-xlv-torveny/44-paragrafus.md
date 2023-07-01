@@ -30,7 +30,7 @@
 
 15. 68. § (6) bekezdésében a „szolgáltat.” szövegrész helyébe a „szolgáltat (ezen alcím alkalmazásában a továbbiakban: adatszolgáltatás).” szöveg,
 
-16. 69/A. § (1) bekezdésében a „hulladéklerakó” szövegrész helyébe a „hulladéklerakót is magában foglaló hulladékgazdálkodási létesítmény” szöveg,
+16.
 
 17. 86. § (7) bekezdésében az „a joghátrányt megállapító döntésének véglegessé válását követő tizenöt napon belül” szövegrész helyébe az „az e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint” szöveg,
 

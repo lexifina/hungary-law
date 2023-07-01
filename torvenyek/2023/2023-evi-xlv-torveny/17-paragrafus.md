@@ -2,9 +2,7 @@
 
 „(2a) A (2) bekezdés szerinti, a hulladék 31. § (2) bekezdés a) pontjában foglalt átadást megelőzően felmerült, önkormányzat által viselt költségek fedezetére a gyártóktól a koncessziós társaság részére befolyt pénzösszegek nem minősülnek a koncessziós társaság bevételének, azokat a koncessziós társaság elkülönített bankszámlán, egyéb pénzeszközeitől elkülönítetten kezeli, és az önkormányzatok részére a 33. § (6) bekezdésére figyelemmel a (2) bekezdés szerint megtéríti. A koncessziós társaság az elkülönített számlán kezelt pénzeszközöket és azok pénzkezelési költségeivel csökkentett nettó hozamát kötelezettségként veszi figyelembe.”
 
-(2) A hulladékról szóló 2012. évi CLXXXV. törvény 30/C. §-a a következő (2b) bekezdéssel egészül ki:
-
-„(2b) A kötelezően visszaváltási díjas termékekből származó (2) bekezdésben meghatározott költségeket a 32/B. § (4) bekezdése szerinti szolgáltatási díj tartalmazza.”
+(2)
 
 (3) A hulladékról szóló 2012. évi CLXXXV. törvény 30/C. § (3) és (4) bekezdése helyébe a következő rendelkezések lépnek:
 
