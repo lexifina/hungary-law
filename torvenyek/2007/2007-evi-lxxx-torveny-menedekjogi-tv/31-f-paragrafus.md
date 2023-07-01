@@ -22,7 +22,7 @@ ad) a vallásának gyakorlására, ideértve a vallási előírásoknak megfelel
 
 ae) a rendelkezésre álló közművelődési lehetőségek igénybevételére,
 
-af) kifogás, kérés, panasz, közérdekű bejelentés megtételére, valamint
+af) kifogás, kérés, panasz, közérdekű bejelentés, visszaélés-bejelentés megtételére, valamint
 
 ag) a napirendben foglaltak szerint, de napi legalább egy óra időtartamban a szabad levegőn tartózkodásra, továbbá
 
