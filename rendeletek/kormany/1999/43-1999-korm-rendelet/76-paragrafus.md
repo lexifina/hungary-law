@@ -1,13 +1,13 @@
-## 75. §[^556] A Módr2.-vel megállapított 28/A. § (3) bekezdésében foglaltakat a 2013. január 1-jétől a Módr2. hatálybalépéséig[^557] terjedő időszakra járó díjazás tekintetében is alkalmazni kell.
+## 75. §[^560] A Módr2.-vel megállapított 28/A. § (3) bekezdésében foglaltakat a 2013. január 1-jétől a Módr2. hatálybalépéséig[^561] terjedő időszakra járó díjazás tekintetében is alkalmazni kell.
 
-76. §[^558] (1) Az egyes egészségügyi és egészségbiztosítási tárgyú kormányrendeletek módosításáról szóló 254/2013. (VII. 5.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított 5/A. § (4), illetve (5) bekezdése szerinti jogkövetkezmények a 2013. október 31-ét követő teljesítmények elszámolásától alkalmazhatóak.
+76. §[^562] (1) Az egyes egészségügyi és egészségbiztosítási tárgyú kormányrendeletek módosításáról szóló 254/2013. (VII. 5.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított 5/A. § (4), illetve (5) bekezdése szerinti jogkövetkezmények a 2013. október 31-ét követő teljesítmények elszámolásától alkalmazhatóak.
 
-(2) A Módr3. által megállapított 28/B. § (2a) bekezdésében foglaltakat a 2013. január 1-jétől a Módr3. hatálybalépéséig[^559] terjedő időszakra járó díjazás tekintetében is alkalmazni kell.
+(2) A Módr3. által megállapított 28/B. § (2a) bekezdésében foglaltakat a 2013. január 1-jétől a Módr3. hatálybalépéséig[^563] terjedő időszakra járó díjazás tekintetében is alkalmazni kell.
 
-76. §[^560]
+76. §[^564]
 
-[^556]: A 75. §-t a 125/2013. (IV. 26.) Korm. rendelet 3. §-a iktatta be.
-[^557]: A hatálybalépés időpontja 2013. április 27.
-[^558]: A 76. §-t a 254/2013. (VII. 5.) Korm. rendelet 25. §-a iktatta be.
-[^559]: A hatálybalépés időpontja 2013. július 6.
-[^560]: A második 76. §-t a 256/2013. (VII. 5.) Korm. rendelet 14. §-a iktatta be, hatályon kívül helyezte a 364/2014. (XII. 30.) Korm. rendelet 40. § k) pontja.
+[^560]: A 75. §-t a 125/2013. (IV. 26.) Korm. rendelet 3. §-a iktatta be.
+[^561]: A hatálybalépés időpontja 2013. április 27.
+[^562]: A 76. §-t a 254/2013. (VII. 5.) Korm. rendelet 25. §-a iktatta be.
+[^563]: A hatálybalépés időpontja 2013. július 6.
+[^564]: A második 76. §-t a 256/2013. (VII. 5.) Korm. rendelet 14. §-a iktatta be, hatályon kívül helyezte a 364/2014. (XII. 30.) Korm. rendelet 40. § k) pontja.

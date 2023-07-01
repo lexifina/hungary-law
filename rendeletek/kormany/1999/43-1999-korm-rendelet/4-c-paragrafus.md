@@ -32,9 +32,13 @@ b) a tervezett ellátás időpontja legalább 14 nappal meghaladja az egészség
 
 (11) A (10) bekezdés szerinti legkorábbi tervezhető ellátási nap meghatározása érdekében a tervezhető ellátási helyek számát úgy kell meghatározni, hogy ellátási naponként az ütemezhető ellátások minimális esetszáma a finanszírozási tárgyévet megelőző év „1” térítési számú kategóriában elszámolt átlagos egy ellátási napra jutó esetszámának várólistánként a 35. számú mellékletben meghatározott százaléka legyen.
 
-(12) Nem kell alkalmazni a (10) és (12) bekezdés szerinti szabályokat, ha az egészségügyi szolgáltató várólistáján a finanszírozási tárgyévet megelőző évben a tervezett várakozási idő nem haladta meg a 60 napot.
+(12)[^55] Nem kell alkalmazni a (10) és (11) bekezdés szerinti szabályokat, ha az egészségügyi szolgáltató várólistáján a finanszírozási tárgyévet megelőző évben a tervezett várakozási idő nem haladta meg a 60 napot.
 
 (13) Az Ebtv. 5/B. § u) pontja szerinti intézményi előjegyzési lista tekintetében az (1)–(9) bekezdésben foglaltakat alkalmazni kell.
 
+(14)[^56] A (12) bekezdés szerinti kivétel nem alkalmazható azon egészségügyi szolgáltató várólistája esetében, amelyen a finanszírozási tárgyévet megelőző évben az azonnali ellátások aránya 20%-kal meghaladta a 35. számú mellékletben meghatározott tervezhetőségi arány alapján elfogadható azonnali ellátások arányát. Azonnali ellátásnak kell tekinteni azt az esetet, ahol a várólistára vétel és az ellátás időpontja között eltelt idő nem érte el a 2 napot.
+
 [^53]: A 4/B. §-t újonnan a 254/2013. (VII. 5.) Korm. rendelet 21. §-a iktatta be, szövege a 287/2018. (XII. 21.) Korm. rendelet 10. §-ával megállapított, a 697/2020. (XII. 29.) Korm. rendelet 27. § a) pontja szerint módosított szöveg.
 [^54]: A 4/C. §-t a 697/2020. (XII. 29.) Korm. rendelet 3. §-a iktatta be.
+[^55]: A 4/C. § (12) bekezdése a 286/2023. (VI. 30.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^56]: A 4/C. § (14) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 11. §-a iktatta be.

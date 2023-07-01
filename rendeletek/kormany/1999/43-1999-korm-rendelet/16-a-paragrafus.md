@@ -1,4 +1,4 @@
-16/A. §[^166] (1)[^167] A háziorvosi szolgáltató ezen jogviszonya tekintetében az egészségügyi szolgálati jogviszonyról szóló törvény hatálya alá nem tartozó, területi ellátási kötelezettséggel rendelkező háziorvosi szolgálatokban egy – heti 40 órában – foglalkoztatott háziorvos után, 2000 fő feletti bejelentett ellátott esetén legfeljebb heti 20 órában további foglalkoztatott háziorvos után havonta háziorvosi bértámogatásra jogosult, amelyet a háziorvosi szolgáltató a háziorvost közvetlenül megillető munkabérére és annak közterheire köteles fordítani.
+16/A. §[^170] (1)[^171] A háziorvosi szolgáltató ezen jogviszonya tekintetében az egészségügyi szolgálati jogviszonyról szóló törvény hatálya alá nem tartozó, területi ellátási kötelezettséggel rendelkező háziorvosi szolgálatokban egy – heti 40 órában – foglalkoztatott háziorvos után, 2000 fő feletti bejelentett ellátott esetén legfeljebb heti 20 órában további foglalkoztatott háziorvos után havonta háziorvosi bértámogatásra jogosult, amelyet a háziorvosi szolgáltató a háziorvost közvetlenül megillető munkabérére és annak közterheire köteles fordítani.
 
 (2) Az (1) bekezdés szerinti háziorvosi bértámogatás összegét a 37. számú melléklet tartalmazza.
 
@@ -6,7 +6,7 @@
 
 (4) A háziorvosi szolgálat háziorvosának 37. számú melléklet szerinti gyakorlati idejét az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény 8. § (8) és (9) bekezdése és az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény végrehajtásáról szóló 528/2020. (XI. 28.) Korm. rendelet 4. § (3) bekezdése szerint kell megállapítani.
 
-(4a)[^168] A (4) bekezdés szerinti gyakorlati időből a bértámogatás mértékének meghatározása során kizárólag az orvos által az orvosi végzettség megszerzését követően teljesített, és igazolásokkal alátámasztott gyakorlati idő vehető figyelembe.
+(4a)[^172] A (4) bekezdés szerinti gyakorlati időből a bértámogatás mértékének meghatározása során kizárólag az orvos által az orvosi végzettség megszerzését követően teljesített, és igazolásokkal alátámasztott gyakorlati idő vehető figyelembe.
 
 (5) A háziorvosi bértámogatáshoz szükséges gyakorlati időt a NEAK felé igazolni kell. A NEAK a gyakorlati idő igazolásához iratokat kérhet be, és ellenőrzést folytathat le. A háziorvosi bértámogatás a gyakorlati idő szerint módosul, amelyet a NEAK a nyilvántartásában átvezet.
 
@@ -18,6 +18,6 @@
 
 (9) A háziorvosi bértámogatás fedezetéül az 5. számú melléklet szerinti Háziorvosi, szakdolgozói bértámogatás előirányzat szolgál.
 
-[^166]: A 16/A. §-t az 53/2021. (II. 9.) Korm. rendelet 8. §-a iktatta be.
-[^167]: A 16/A. § (1) bekezdése a 277/2021. V. 26.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^168]: A 16/A. § (4a) bekezdését a 277/2021. V. 26.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^170]: A 16/A. §-t az 53/2021. (II. 9.) Korm. rendelet 8. §-a iktatta be.
+[^171]: A 16/A. § (1) bekezdése a 277/2021. V. 26.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^172]: A 16/A. § (4a) bekezdését a 277/2021. V. 26.) Korm. rendelet 8. § (2) bekezdése iktatta be.
