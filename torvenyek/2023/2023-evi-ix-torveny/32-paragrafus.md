@@ -1,6 +1,6 @@
 32. § A Vht.
 
-a)
+a) 217. § (1) bekezdésében az „E § alkalmazásában” szövegrész helyébe az „Ezen alcím alkalmazásában” szöveg,
 
 b)
 
