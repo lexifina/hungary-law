@@ -10,6 +10,10 @@ b) a Vagyonkezelő 55%-ban csökkentett használati díjat állapít meg, ha a k
 
 c) a Vagyonkezelő 90%-ban csökkentett használati díjat állapít meg, ha a közterület használatára
 
-ca) a Köztársasági Elnöki Hivatal, a Miniszterelnökség, a Miniszterelnöki Kabinetiroda, a Miniszterelnöki Kormányiroda által szervezett, az a) pont esetkörén kívül eső rendezvény lebonyolítása, vagy
+ca)[^3] a Sándor-palota, a Miniszterelnökség, a Miniszterelnöki Kabinetiroda, a Miniszterelnöki Kormányiroda által szervezett, az a) pont esetkörén kívül eső rendezvény lebonyolítása, vagy
 
 cb) közérdekű célokat szolgáló (különösen oktatási, tudományos vagy ismeretterjesztő témájú, vagy filmművészeti állami felsőoktatási képzés keretében készülő) filmalkotások forgatása
+
+érdekében kerül sor.
+
+[^3]: A 8. § (3) bekezdés c) pont ca) alpontja a 258/2023. (VI. 28.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.

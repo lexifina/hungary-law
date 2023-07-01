@@ -24,7 +24,7 @@ k) kulturális és idegenforgalmi, valamint
 
 l) a Budai Palotanegyedben elhelyezkedő intézmények működését biztosító
 
-## szempontokra.
+szempontokra.
 
 (2) A Vagyonkezelő a használati szerződés megkötését megtagadja, ha
 

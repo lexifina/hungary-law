@@ -1,5 +1,3 @@
-## Állatok beengedésére vonatkozó szabályok által érintett ingatlanok
-
 | Település | Helyrajzi szám |
 
 | Budapest I. kerület | 6461 |

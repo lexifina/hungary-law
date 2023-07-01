@@ -1,5 +1,3 @@
-## érdekében kerül sor.
-
 9. § (1) Aki a Budai Palotanegyedben található közterületet jogosulatlanul vagy a használati szerződéstől eltérő módon használja, köteles
 
 a) a Vagyonkezelő vagy annak megbízottja felhívására a közterület jogellenes használatát haladéktalanul megszüntetni,

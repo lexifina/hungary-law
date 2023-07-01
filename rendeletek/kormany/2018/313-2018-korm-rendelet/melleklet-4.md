@@ -1,1 +1,3 @@
 4. melléklet a 313/2018. (XII. 27.) Korm. rendelethez
+
+Állatok beengedésére vonatkozó szabályok által érintett ingatlanok

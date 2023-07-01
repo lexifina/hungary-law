@@ -1,5 +1,3 @@
-## A Vagyonkezelő által díszkivilágítással megvilágított objektumok listája
-
 |  | A | B |
 
 | 1. | Helyszín | Objektum |
@@ -22,7 +20,7 @@
 
 3. melléklet a 313/2018. (XII. 27.) Korm. rendelethez
 
-## Nyilatkozat filmforgatási célú közterület-használat kezdeményezéséhez
+Nyilatkozat filmforgatási célú közterület-használat kezdeményezéséhez
 
 1. A Használó adatai:
 
@@ -51,6 +49,8 @@ Filmalkotás műfaja:
 Filmalkotás munkacíme:
 
 3. A közterület(ek) igénybevételének terjedelme:
+
+## 8K37074B_0
 
 |  | Ssz. | Közterület-használat ideje: | Közterület, illetve ingatlan elhelyezkedése: | Használni kívánt közterület nagysága: |
 

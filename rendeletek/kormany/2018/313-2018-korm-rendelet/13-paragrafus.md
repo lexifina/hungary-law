@@ -12,8 +12,10 @@ c) a terrorizmust elhárító szerv, a nemzetbiztonsági szolgálatok, a Magyar 
 
 d) a Vagyonkezelő foglalkoztatottja, megbízottja
 
-## behajthat.
+behajthat.
 
-(3) A Vagyonkezelő megállapodást köt a Miniszterelnökséggel, a Miniszterelnöki Kormányirodával, a Miniszterelnöki Kabinetirodával, a Köztársasági Elnöki Hivatallal és a Budai Palotanegyed területén működő közfeladatot ellátó szervekkel a behajtás és a rendezvények koordinációjának rendjéről.
+(3)[^4] A Vagyonkezelő megállapodást köt a Miniszterelnökséggel, a Miniszterelnöki Kormányirodával, a Miniszterelnöki Kabinetirodával, a Sándor-palotával és a Budai Palotanegyed területén működő közfeladatot ellátó szervekkel a behajtás és a rendezvények koordinációjának rendjéről.
 
 (4) A (2) bekezdésben foglalt eseteken kívül a Budai Palotanegyed területére történő eseti vagy rendszeres behajtáshoz – a Budai Palotanegyed fenntartásának és működtetésének zavartalan biztosítása érdekében – a Vagyonkezelő hozzájárulása vagy használati szerződés megkötése szükséges.
+
+[^4]: A 13. § (3) bekezdése a 258/2023. (VI. 28.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.

@@ -4,7 +4,7 @@ a) a közterület tényleges használója vagy
 
 b) az, akinek az érdekében a közterület használat történik
 
-## (a továbbiakban együtt: használó).
+(a továbbiakban együtt: használó).
 
 (2) A használati szerződés megkötését kezdeményező nyilatkozatot a Vagyonkezelőnél írásban kell megtenni.
 

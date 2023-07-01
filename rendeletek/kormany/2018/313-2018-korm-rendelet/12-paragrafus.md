@@ -10,6 +10,6 @@ a) az 5. § (1) bekezdés e) és f) pontja szerinti rendezvényre, továbbá
 
 b) használati szerződésben foglaltak szerint
 
-## engedhető vagy vihető be.
+engedhető vagy vihető be.
 
 (5) A Vagyonkezelő meghatározza, hogy segítő kutyának nem minősülő kutya a 4. mellékletben felsorolt közterületi ingatlanok mely területére engedhető be vagy vihető be, ezt a honlapján közzéteszi, valamint a közterület adott részén jól látható módon jelzi.
