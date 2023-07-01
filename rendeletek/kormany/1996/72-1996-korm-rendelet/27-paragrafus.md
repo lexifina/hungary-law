@@ -54,6 +54,8 @@ c) 5/F. §-át a Vgtv. 15/C. § (9) bekezdése alapján 2017. június 30-án kih
 
 (17)[^252] E rendeletnek a vízgazdálkodási hatósági jogkör gyakorlásáról szóló 72/1996. (V. 22.) Korm. rendelet módosításáról szóló 392/2021. (VII. 2.) Korm. rendelettel (a továbbiakban: Mód Kr.11.) megállapított 4. § (1) és (1a) bekezdését a Mód Kr.11. hatálybalépését[^253] követően indult ügyekben és a megismételt eljárásokban kell alkalmazni.
 
+(18)[^254] E rendeletnek a vízgazdálkodási hatósági jogkör gyakorlásáról szóló 72/1996. (V. 22.) Korm. rendelet, valamint az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló 5/2023. (I. 12.) Korm. rendelet módosításáról szóló 264/2023. (VI. 28.) Korm. rendelettel (a továbbiakban: Mód. Kr.12.) megállapított 24. § (1) bekezdés c) pontját a Mód. Kr.12. hatálybalépését[^255] követően indult megismételt eljárásokban is alkalmazni kell.
+
 [^224]: A 27. § (1) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 14. § c) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^225]: A 27. § (1a) bekezdését a 344/2014. (XII. 22.) Korm. rendelet 3. § (1) bekezdése iktatta be.
 [^226]: A 27. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 85. §-a szerint módosított szöveg. [A 27. § (2) bekezdésében az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés c) pontjával elrendelt módosítás, amely szerint a „felügyelőség” szövegrészek helyébe a „vízügyi hatóság” szöveg lép, nem vezethető át.]
@@ -84,3 +86,5 @@ c) 5/F. §-át a Vgtv. 15/C. § (9) bekezdése alapján 2017. június 30-án kih
 [^251]: A hatálybalépés időpontja 2020. január 1.
 [^252]: A 27. § (17) bekezdését a 392/2021. (VII. 2.) Korm. rendelet 2. §-a iktatta be.
 [^253]: A hatálybalépés időpontja 2021. július 17.
+[^254]: A 27. § (18) bekezdését a 264/2023. (VI. 28.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^255]: A hatálybalépés időpontja 2023. július 1.

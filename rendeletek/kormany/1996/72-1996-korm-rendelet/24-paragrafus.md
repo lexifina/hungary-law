@@ -16,7 +16,11 @@ ac) nem gazdasági célú vízigény;
 
 b) az ab) pontban szereplő házi ivóvízigény kielégítését szolgáló kúthoz tartozó, víztisztítási feladatokat ellátó vízilétesítmény létesítéséhez, üzemeltetéséhez, fennmaradásához és megszüntetéséhez;
 
-c)[^211] az 500 m3/év mennyiséget meg nem haladó, kizárólag háztartási szennyvíz tisztítását (CE megfelelőségi jelöléssel rendelkező szennyvízkezelő berendezések kivételével) és a tisztított szennyvíz elszikkasztását szolgáló vízilétesítmény létesítéséhez, üzemeltetéséhez, fennmaradásához és megszüntetéséhez.
+c)[^211] az 500 m3/év mennyiséget meg nem haladó, kizárólag háztartási szennyvíz tisztítását és a tisztított szennyvíz elszikkasztását szolgáló vízilétesítmény létesítéséhez, üzemeltetéséhez, fennmaradásához és megszüntetéséhez, kivéve, ha
+
+ca) a vízilétesítmény telepítése európai uniós vagy hazai költségvetési forrásból programszerűen, vízvédelmi célú beruházás keretében valósul meg, vagy
+
+cb) a szennyvízkezelő berendezés CE megfelelőségi jelöléssel rendelkezik.
 
 (2)[^212] Az (1) bekezdés c) pontjában megjelölt szennyvíz elszikkasztását szolgáló létesítmény akkor engedélyezhető, ha
 
@@ -51,7 +55,7 @@ c)[^214] a fúrt kút fennmaradásának engedélyezése esetén annak megállap�
 [^208]: A 24. § (1) bekezdése a 100/2016. (V. 13.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^209]: A 24. § (1) bekezdés a) pont aa) alpontja az 518/2017. (XII. 29.) Korm. rendelet 17. § k) pontja szerint módosított szöveg.
 [^210]: A 24. § (1) bekezdés a) pont ab) alpontja az 518/2017. (XII. 29.) Korm. rendelet 17. § l) pontja szerint módosított szöveg.
-[^211]: A 24. § (1) bekezdés c) pontja a 286/2019. (XII. 4.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^211]: A 24. § (1) bekezdés c) pontja a 264/2023. (VI. 28.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^212]: A 24. § (2) bekezdés nyitó szövegrésze a 100/2016. (V. 13.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
 [^213]: A 24. § (3) bekezdése a 100/2016. (V. 13.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^214]: A 24. § (3) bekezdés c) pontja az 518/2017. (XII. 29.) Korm. rendelet 18. § f) pontja szerint módosított szöveg.
