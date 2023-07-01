@@ -52,3 +52,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-205-00-00
 | 2022-11-01 | 2022. évi VII. törvény | 2012-205-00-00.45 |
 | 2023-01-01 | 2022. évi LXIII. törvény | 2012-205-00-00.46 |
 | 2023-05-15 | 2023. évi IX. törvény | 2012-205-00-00.47 |
+| 2023-07-01 | 2023. évi XXVII. törvény | 2012-205-00-00.48 |
