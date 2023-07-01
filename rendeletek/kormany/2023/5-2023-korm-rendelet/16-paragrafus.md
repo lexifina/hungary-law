@@ -22,7 +22,7 @@ tölthet fel adatokat.
 
 (3) A HUMVI rendszerbe az ivóvízszolgáltató és az általa megbízott ivóvízvizsgálatra akkreditált laboratórium a (4)–(6) bekezdésben foglaltak szerint rögzít adatokat.
 
-(4) Az ivóvízszolgáltató gondoskodik arról, hogy az általa végzett, illetve végeztetett valamennyi ivóvízre vonatkozó vizsgálat eredménye az aktuális negyedévet követő tizenöt napon belül a HUMVI rendszerbe feltöltésre kerüljön. Határérték-túllépés, illetve parametrikus érték túllépése esetén a feltöltés keretében a túllépés okát, a túllépés időtartamát és a szükséges beavatkozást is rögzíteni kell.
+(4)[^9] Az ivóvíz-szolgáltató gondoskodik arról, hogy az általa végzett, illetve végeztetett valamennyi ivóvízre vonatkozó vizsgálat eredménye feltöltésre kerüljön az aktuális negyedévet követő tizenöt napon belül a HUMVI rendszerbe. Határérték-túllépés, illetve parametrikus érték túllépése esetén a feltöltés keretében a túllépés okát, a túllépés időtartamát és a szükséges beavatkozást is rögzíteni kell. Az ivóvíz-szolgáltató által feltöltött adatokat a népegészségügyi szerv az aktuális negyedévet követő harminc napon belül validálja.
 
 (5) A (4) bekezdésben foglaltak a következők szerint teljesíthetők:
 
@@ -34,7 +34,7 @@ b) a laboratórium rögzíti az adatokat a HUMVI rendszerben, amely adatokat az 
 
 a) szolgáltatott ivóvízmennyiség,
 
-b) ellátott települések száma,
+b)[^10]
 
 c) ellátott lakosok száma,
 
@@ -46,10 +46,16 @@ f) ivóvízkezelésre vonatkozó technikai információk,
 
 g) ivóvízfertőtlenítés módja.
 
-(7) Az ivóvízre vonatkozó, valamennyi hatósági ivóvízminőség-ellenőrző vizsgálat eredményét az aktuális negyedév lezárultát követő 15 napon belül a népegészségügyi szerv által megbízott laboratórium a HUMVI rendszerben rögzíti. A laboratórium által rögzített adatokat a népegészségügyi szerv validálja.
+(7)[^11] Az ivóvízre vonatkozó, valamennyi hatósági ivóvízminőség-ellenőrző vizsgálat eredményét az aktuális negyedévet követő tizenöt napon belül a népegészségügyi szerv által megbízott laboratórium a HUMVI rendszerben rögzíti. A laboratórium által rögzített adatokat a népegészségügyi szerv tizenöt napon belül validálja.
 
-(8) Az ivóvízre vonatkozó, 9. § (4) bekezdés b) pontja szerinti ivóvízminőségi vízvizsgálati eredményeket az aktuális negyedévet követő harminc napon belül a létesítmény üzemeltetője vagy ennek hiányában tulajdonosa által megbízott laboratórium a HUMVI rendszerben rögzíti. A laboratórium által rögzített adatokat a járási hivatal validálja.
+(8)[^12] Az ivóvízre vonatkozó, 9. § (4) bekezdés b) pontja szerinti ivóvízminőségi vízvizsgálati eredményeket az aktuális negyedévet követő harminc napon belül a létesítmény üzemeltetője vagy ennek hiányában tulajdonosa által megbízott laboratórium a HUMVI rendszerben rögzíti. A laboratórium által rögzített adatokat a járási hivatal tizenöt napon belül validálja.
 
 (9) Az élelmiszerüzemi célú ivóvíz élelmiszeripari vállalkozásoknál történő vizsgálatok eredményeiről a laboratórium a vonatkozó rendeletnek megfelelően küldi az adatokat a NÉBIH számára.
 
-(10) A NÉBIH az ivóvíz élelmiszeripari vállalkozásoknál történő vizsgálatok eredményeit az aktuális negyedévet követő huszonegy napon belül továbbítja az NNK részére.
+(10)[^13] A 15. § szerinti vizsgálatok és adatgyűjtés alapján az élelmiszerlánc-felügyeleti szerv az élelmiszeripari vállalkozások által végzett, az élelmiszerüzemi célú ivóvíz vizsgálatára vonatkozó eredményeket az aktuális negyedévet követő huszonegy napon belül összesíti és továbbítja a NÉBIH-nek, amely ezen adatokat az NNK részére átadja.
+
+[^9]: A 16. § (4) bekezdése a 264/2023. (VI. 28.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^10]: A 16. § (6) bekezdés b) pontját a 264/2023. (VI. 28.) Korm. rendelet 13. § a) pontja hatályon kívül helyezte.
+[^11]: A 16. § (7) bekezdése a 264/2023. (VI. 28.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^12]: A 16. § (8) bekezdése a 264/2023. (VI. 28.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^13]: A 16. § (10) bekezdése a 264/2023. (VI. 28.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.

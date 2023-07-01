@@ -1,22 +1,28 @@
 ## 1. Mikrobiológiai paraméterekre vonatkozó módszerek
 
-## A mikrobiológiai paraméterek vizsgálatára az elosztó hálózatban a mintavételt és minta kezelését az EN ISO 19458 szabvány a) rész mintavételi célja szerint kell végezni.
+## 1.1. A mikrobiológiai paraméterek vizsgálatára a mintavételt és minta kezelését
 
-## A mikrobiológiai paraméterek elemzési módszerei a következők:
+## a) az elosztó hálózatban az EN ISO 19458 szabvány a) mintavételi célja,
 
-## a) Escherichia coli (E. coli) és Coliform baktériumok: MSZ EN ISO 9308-1 vagy MSZ EN ISO 9308-2;
+## b) a megfelelési ponton az EN ISO 19458 szabvány b) mintavételi célja
 
-## b) Enterococcus bélbaktériumok: MSZ EN ISO 7899-2;
+## szerint kell végezni.
 
-## c) tenyészthető mikroorganizmusok számlálása -telepszám vagy heterotróf összcsíraszám 22 °C-on vagy 37 °C-on: MSZ EN ISO 6222;
+## 1.2. A mikrobiológiai paraméterek elemzési módszerei a következők:
 
-## d) Clostridium perfringens, beleértve a spórákat is: MSZ EN ISO 14189;
+## a) Escherichia coli (E. coli) és Coliform baktériumok esetében: MSZ EN ISO 9308-1 vagy MSZ EN ISO 9308-2 szabvány;
 
-## e) szomatikus colifágok: EN ISO 10705-2 és az EN ISO 10705-3 szabvány vagy azzal egyenértékű módszer, amely megfelelőségét az NNK igazolja, és Budapest Főváros Kormányhivatala jóváhagyja;
+## b) Enterococcus bélbaktériumok esetében: MSZ EN ISO 7899-2 szabvány;
 
-## f) Pseudomonas aeruginosa: MSZ EN ISO 16266.
+## c) tenyészthető mikroorganizmusok számlálása a mikroorganizmus-telepszám vagy heterotróf összcsíraszám 22 °C-on vagy 37 °C-on: MSZ EN ISO 6222 szabvány;
 
-## A laboratóriumok ezektől eltérő módszert akkor használhatnak, ha azokat ellenőrzik (validálják) és a 15. § (10) bekezdésében foglaltak szerint alkalmazásukat a BFKH jóváhagyja. Az alternatív módszereknek az e mellékletben meghatározott módszerekkel való egyenértékűsége értékelésének céljából az MSZ EN ISO 17994 szabványt, vagy az MSZ EN ISO 17994 szabvány alkalmazási körén kívül eső, a tenyésztéstől eltérő elveken alapuló módszerek egyenértékűségének megállapítására az EN ISO 16140 szabványt kell alkalmazni, illetve bármely más hasonló, nemzetközileg elfogadott vizsgálati eljárás alkalmazható. Az új módszer bevezetése előtt az NNK a módszer használatát az Európai Bizottsággal engedélyezteti.
+## d) Clostridium perfringens esetében, beleértve a spórákat is: MSZ EN ISO 14189 szabvány;
+
+## e) szomatikus colifágok esetében: EN ISO 10705-2 és EN ISO 10705-3 szabvány vagy azzal egyenértékű módszer, amelynek megfelelőségét az NNK igazolja és Budapest Főváros Kormányhivatala (a továbbiakban: BFKH) jóváhagyja;
+
+## f) Pseudomonas aeruginosa esetében: MSZ EN ISO 16266 szabvány.
+
+## 1.3. A laboratóriumok az 1.1. és 1.2. alpontban foglaltaktól eltérő módszert akkor alkalmazhatnak, ha azokat ellenőrzik és validálják, valamint a 15. § (10) bekezdésben foglaltak szerint alkalmazásukat a BFKH jóváhagyja. Az alternatív módszereknek az e mellékletben meghatározott módszerekkel való egyenértékűsége értékelésének céljából az MSZ EN ISO 17994 szabványt, vagy az MSZ EN ISO 17994 szabvány alkalmazási körén kívül eső, a tenyésztéstől eltérő elveken alapuló módszerek egyenértékűségének megállapítására az EN ISO 16140 szabványt kell alkalmazni, illetve bármely más hasonló, nemzetközileg elfogadott vizsgálati eljárás alkalmazható. Az új módszer bevezetése előtt az NNK a módszer használatát az Európai Bizottsággal engedélyezteti.
 
 ## 2. Kémiai és indikátor paraméterek, amelyek esetében az analitikai módszerrel szembeni teljesítménykövetelmények meghatározottak
 
@@ -174,7 +180,7 @@
 
 ## 4.1.3.4. A népegészségügyi szerv, valamint az élelmiszerlánc-felügyeleti szerv alternatív összesalfa-aktivitás és összesbéta-aktivitás vizsgálati szinteket is meghatározhat, ha bizonyítani tudják, hogy ezek az alternatív szintek összhangban állnak az indikatív dózis 0,1 mSv értékével.
 
-## 4.1.3.5. A mérendő radionuklidokat a radioaktivitás valószínű forrásaira vonatkozó valamennyi releváns információ figyelembevételével a népegészségügyi szerv, valamint az élelmiszerlánc-felügyeleti szerv határozza meg. A magas trícium koncentráció más mesterséges radionuklidok jelenlétére utalhat, ezért a tríciumot, az összesalfa-aktivitást és az összesbéta-aktivitást ugyanazon a mintán kell mérni.
+## 4.1.3.5. A mérendő radionuklidokat a radioaktivitás valószínű forrásaira vonatkozó valamennyi releváns információ figyelembevételével a népegészségügyi szerv, valamint az élelmiszerlánc-felügyeleti szerv határozza meg. A magas trícium koncentráció más mesterséges radionuklidok jelenlétére utalhat, ezért radionuklid mérése esetén a tríciumot, az összesalfa-aktivitást és az összesbéta-aktivitást ugyanazon a mintán kell mérni.
 
 ## 4.2. Az indikatív dózis kiszámítása
 
@@ -286,11 +292,11 @@
 
 ## 5. A vízminőségi jellemzők elemzésére vonatkozó módszertani előírások
 
-## a) Az e rendeletnek való megfelelés ellenőrzése céljából alkalmazott elemzési módszereket – az üzemeltetési monitoring keretében végzett vizsgálatok, beleértve a kézi műszerrel, napi rendszerességgel végzett zavarosságmérést is, valamint az online zavarosság és a fertőtlenítőszer-maradék vizsgálat kivételével – az EN ISO/IEC 17025 szabvány vagy más, azzal egyenértékű, nemzetközileg elfogadott szabvány szerint kell validálni és dokumentálni. A laboratóriumoknak és az azokkal szerződésben álló feleknek az EN ISO/IEC 17025 szabványnak vagy más, nemzetközileg elfogadott azzal egyenértékű szabványnak megfelelő minőségirányítási rendszert kell alkalmazniuk.
+## a) Az e rendeletnek való megfelelés ellenőrzése céljából alkalmazott mintavételi és elemzési módszereket – az üzemeltetési monitoring keretében végzett vizsgálatok, beleértve a kézi műszerrel, napi rendszerességgel végzett zavarosságmérést is, valamint az online zavarosság és a fertőtlenítőszer-maradék vizsgálat kivételével – az EN ISO/IEC 17025 szabvány vagy más, azzal egyenértékű, nemzetközileg elfogadott szabvány szerint kell validálni és dokumentálni. A laboratóriumoknak és az azokkal szerződésben álló feleknek az EN ISO/IEC 17025 szabványnak vagy más, nemzetközileg elfogadott azzal egyenértékű szabványnak megfelelő minőségirányítási rendszert kell alkalmazniuk.
 
 ## b) Az e rendeletben előírt, illetve vízminőség-ellenőrző vizsgálatot az adott paraméterre akkreditált és az adott paraméterre az országos tisztifőorvos megbízásából az NNK által szervezett körvizsgálatokban évente és megfelelő eredménnyel részt vevő laboratórium végezhet. Az élelmiszeripari vállalkozás esetén az ivóvíz minőségellenőrző vizsgálatot, ivóvízvizsgálatra a nem állami laboratóriumok engedélyezéséről, nyilvántartásba vételéről és működési feltételeinek részletes szabályozásáról szóló miniszteri rendelet alapján engedélyezett és akkreditált laboratórium végezhet.
 
-## c) A Legionella-csíraszám meghatározással kapcsolatos laboratóriumi vizsgálatokat olyan akkreditált laboratórium végezheti, amelyet a népegészségügyi feladatkörében eljáró Budapest Főváros Kormányhivatala (a továbbiakban: BFKH) erre feljogosította. A feljogosítást – kérelemre – a BFKH adja ki, ha a laboratórium az NNK által szervezett körvizsgálatokban évente és megfelelő eredménnyel részt vett. A feljogosított laboratóriumok listáját a BFKH a honlapján közzéteszi. A feljogosítás visszavonásig érvényes. Az e rendeletben foglalt előírások nem teljesítése esetén a visszavonást az engedélyes, az NNK vagy a BFKH kezdeményezheti.
+## c) A Legionella-csíraszám meghatározással kapcsolatos laboratóriumi vizsgálatokat olyan akkreditált laboratórium végezheti, amelyet a népegészségügyi feladatkörében eljáró BFKH erre feljogosította. A feljogosítást – kérelemre – a BFKH adja ki, ha a laboratórium az NNK által szervezett körvizsgálatokban évente és megfelelő eredménnyel részt vett. A feljogosított laboratóriumok listáját a BFKH a honlapján közzéteszi. A feljogosítás visszavonásig érvényes. Az e rendeletben foglalt előírások nem teljesítése esetén a visszavonást az engedélyes, az NNK vagy a BFKH kezdeményezheti.
 
 ## d) Az elosztó hálózatban történő mintavételt – a fogyasztói csapoknál történő mintavétel kivételével – az ISO 5667-5 szabvány szerint kell végezni.
 

@@ -1,6 +1,10 @@
 ## 12. A vízhasználat korlátozása
 
-18. § (1) Az emberi egészségre veszélyt jelentő ivóvíz fogyasztását és felhasználását a népegészségügyi szerv, az élelmiszerüzemi célú víz felhasználását az élelmiszerlánc-felügyeleti szerv a veszély mértékének és az egészségkockázat mérlegelése alapján haladéktalanul megtiltja vagy korlátozza, ha valamely vízminőségi jellemző az 1. melléklet 1. és 2. pontjában foglalt táblázatban meghatározott értéket meghaladja vagy – a határértékeknek való megfelelés teljesülésétől függetlenül –, ha egyéb, az egészségre kockázatot jelentő szennyező anyag van jelen, kivéve, ha a népegészségügyi szerv, az élelmiszerüzemi célú víz esetében az élelmiszerlánc-felügyeleti szerv a határérték-túllépést jelentéktelennek minősíti, vagy ha az élelmiszerlánc-felügyeleti szerv az élelmiszerüzemi célú vízfelhasználás során alkalmazott technológia mérlegelése után azt állapítja meg, hogy a víz minősége nem befolyásolja az élelmiszer minőségét.
+18. § (1)[^15] Az emberi egészségre veszélyt jelentő ivóvíz fogyasztását és felhasználását a népegészségügyi szerv, az élelmiszerüzemi célú víz felhasználását az élelmiszerlánc-felügyeleti szerv
+
+a) haladéktalanul megtilthatja vagy korlátozhatja a határérték-túllépés, valamint a veszély mértékének és az egészségkockázat mérlegelése alapján, ha valamely vízminőségi jellemző az 1. melléklet 1. és 2. pontjában foglalt táblázatban meghatározott értéket meghaladja, vagy
+
+b) a határértékeknek való megfeleléstől függetlenül megtiltja vagy korlátozza, ha az egészségre kockázatot jelentő szennyező anyag van az ivóvízben.
 
 (2) A népegészségügyi szerv, élelmiszerüzemi célú víz esetén az élelmiszerüzemi célú víz megfelelési ponttól az élelmiszerlánc-felügyeleti szerv az (1) bekezdés szerinti tiltást, illetve korlátozást abban az esetben oldja fel vagy a tiltást, a korlátozást abban az esetben nem rendeli el, ha az ivóvízszolgáltató az emberi egészségkockázat elhárításához, – az ivóvízminőségi kifogás tekintetében – az ivóvízbiztonság fenntartásához szükséges intézkedéseket megtette és az ivóvízszolgáltató a megtett intézkedések eredményességét ivóvízvizsgálati eredmények benyújtásával igazolja.
 
@@ -11,3 +15,5 @@
 (5) Ha az ivóvízellátási körzetben a lakosság által fogyasztott ivóvíz nitrit- vagy nitráttartalma a népegészségügyi szerv megállapítása szerint meghaladja az 1. melléklet 2. pontjában foglalt táblázatban megadott határértéket, a (4) bekezdés szerinti kötelezett a népegészségügyi szerv által előírt határidőig gondoskodik az érintett területen tartózkodó egy évnél fiatalabb csecsemők és a várandós anyák (4) bekezdés szerinti ivóvízellátásáról.
 
 (6) Ha a vízszolgáltatás – az (1) bekezdésben foglaltakon kívüli okból – az ivóvízszolgáltató által 6 óra időtartamot meghaladó előre tervezett leállítására kerül sor, az ivóvízszolgáltató saját költségén – az 58/2013. (II. 27.) Korm. rendeletben meghatározottak szerint – köteles ivóvizet biztosítani.
+
+[^15]: A 18. § (1) bekezdése a 264/2023. (VI. 28.) Korm. rendelet 7. §-ával megállapított szöveg.

@@ -1,8 +1,8 @@
-15. § (1) Az ivóvízmintavételi helyeket a népegészségügyi szerv az ivóvízszolgáltató kérelmére jóváhagyja, ha az ivóvízszolgáltató az ivóvízmintavételi helyeknek az 5. § (1) bekezdés a)–c) pontja szerinti szolgáltatási pontokon a jogszabálynak való megfelelőségét igazolja.
+15. § (1)[^7] Az ivóvízmintavételi helyeket a népegészségügyi szerv az ivóvízszolgáltató kérelmére jóváhagyja, ha az ivóvízszolgáltató az ivóvízmintavételi helyeknek az 5. § (1) bekezdés a)–d) pontja szerinti szolgáltatási pontokon a jogszabálynak való megfelelőségét igazolja.
 
 (2) Az ivóvízszolgáltató az ivóvízellátó rendszerre specifikus üzemeltetési monitoring programot működtet a 2. melléklet A) rész 2. pont c) alpontjában meghatározottak szerint.
 
-(3) Az élelmiszeripari vállalkozás gondoskodik arról, hogy az ivóvíz minőségét ivóvízvizsgálatra akkreditált laboratórium a 2. mellékletben foglaltak szerint, – az élelmiszerüzemi célú ivóvíz élelmiszeripari vállalkozásoknál élelmiszer-előállításra történő felhasználása esetén – az élelmiszerüzemi megfelelőségi ponttól az élelmiszerlánc-felügyeleti szerv által jóváhagyott ivóvízminőség vizsgálati program szerint ellenőrizze. Az ivóvízmintavételi helyeket az élelmiszerlánc-felügyeleti szerv az élelmiszeripari vállalkozás kérelmére jóváhagyja, ha az élelmiszeripari vállalkozás az ivóvízmintavételi helyeknek az 5. § (1) bekezdés d) pontja szerinti szolgáltatási pontokon a jogszabálynak való megfelelőségét igazolja.
+(3)[^8] Az élelmiszeripari vállalkozás gondoskodik arról, hogy az ivóvíz minőségét ivóvízvizsgálatra akkreditált laboratórium a 2. mellékletben foglaltak szerint, – az élelmiszerüzemi célú ivóvíz élelmiszeripari vállalkozásoknál élelmiszer-előállításra történő felhasználása esetén – az élelmiszerüzemi megfelelőségi ponttól az élelmiszerlánc-felügyeleti szerv által jóváhagyott ivóvízminőség vizsgálati program szerint ellenőrizze. Az ivóvízmintavételi helyeket az élelmiszerlánc-felügyeleti szerv az élelmiszeripari vállalkozás kérelmére jóváhagyja, ha az élelmiszeripari vállalkozás az ivóvízmintavételi helyeknek az 5. § (1) bekezdés e) és f) pontja szerinti szolgáltatási pontokon a jogszabálynak való megfelelőségét igazolja.
 
 (4) Az (1)–(3) bekezdésben foglaltak végrehajtását a népegészségügyi szerv, illetve élelmiszerüzemi célú ivóvíz élelmiszeripari vállalkozásoknál élelmiszer-előállításra történő felhasználása esetén az élelmiszerüzemi célú víz megfelelőségi ponttól az élelmiszerlánc-felügyeleti szerv ellenőrzi.
 
@@ -23,3 +23,6 @@
 (12) A hatósági vízminta vizsgálati költségét a népegészségügyi szerv, illetve élelmiszerüzemi célú ivóvíz megfelelőségi ponttól az élelmiszerlánc-felügyeleti szerv viseli.
 
 (13) Az élelmiszerlánc-felügyeleti szerv és a népegészségügyi szerv, a tudomást szerzést követően legfeljebb egy napon belül kölcsönösen tájékoztatják egymást azokról az eltérésekről, illetve adatokról, amelyek egészségügyi vagy élelmiszer-biztonsági kockázattal kapcsolatosak.
+
+[^7]: A 15. § (1) bekezdése a 264/2023. (VI. 28.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
+[^8]: A 15. § (3) bekezdése a 264/2023. (VI. 28.) Korm. rendelet 12. § d) pontja szerint módosított szöveg.

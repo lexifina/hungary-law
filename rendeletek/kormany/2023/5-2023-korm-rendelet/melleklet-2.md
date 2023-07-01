@@ -348,7 +348,7 @@
 
 ## Ez az üledék nem tartalmazhat
 
-## a) háztartási, ipari vagy mezőgazdasági eredetű anyagokat;
+## a)[^25]
 
 ## b) natív készítményben meghatározható, szennyezettséget jelző baktériumokat (pl. Spirillum, Spirochaeta, Sarcina, Zoogloea, Beggiatoa), baktériumtelepeket, gombákat (pl. Fusarium, Leptomitus, Candida, kivéve: Alternaria, Cladosporium fajokat), amelyek előfordulását kizárólag az üledék minőségénél kell jelezni.
 
@@ -389,3 +389,5 @@
 2. melléklet az 5/2023. (I. 12.) Korm. rendelethez
 
 Vízminőség-ellenőrzési követelmények
+
+[^25]: Az 1. melléklet 4. alcíme szerinti megjegyzések 1. pont a) alpontját a 264/2023. (VI. 28.) Korm. rendelet 13. § c) pontja hatályon kívül helyezte.

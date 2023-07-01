@@ -30,14 +30,16 @@ e) kötelezheti az ivóvízszolgáltatót, az ivóvízellátó rendszerben felha
 
 (8) Új ivóvízszolgáltató esetén az ivóvízbiztonsági tervben történő változásokat az ivóvízszolgáltató legkésőbb az éves felülvizsgálat során átvezeti, és jóváhagyás céljából az NNK által előzetesen elvégzett közegészségügyi értékeléssel együtt a népegészségügyi szerv részére benyújtja. Az NNK a jóváhagyásra irányuló eljárása során az ivóvízbiztonsági terv tartalmi megfelelőségét vizsgálja, hogy a terv közegészségügyi szempontból megfelel-e a kockázatértékelő rendszerek követelményeinek.
 
-(9) Az ivóvízszolgáltatónak az ivóvízbiztonsági terv felülvizsgálatát az aktualizált ivóvízbiztonsági terv benyújtásával, hatévente az ivóvízszolgáltatás helye szerint hatáskörrel rendelkező népegészségügyi szervnél kell kérelmeznie, amely felülvizsgálat legalább a következőkre terjed ki:
+(9)[^5] Az ivóvíz-szolgáltatónak az ivóvízbiztonsági terv felülvizsgálatát az aktualizált ivóvízbiztonsági terv benyújtásával, hatévente az ivóvíz-szolgáltatás helye szerint hatáskörrel rendelkező népegészségügyi szervnél kell kérelmeznie. A vármegye határán átnyúló ivóvízellátó rendszerek esetén az ivóvízbiztonsági tervet a vízkivételi mű helye szerint hatáskörrel rendelkező népegészségügyi szerv vizsgálja felül. A felülvizsgálat legalább a következőkre terjed ki:
 
 a) az ivóvízbiztonsági tervben foglaltak teljesülése,
 
-b) a 6. § (3)–(4) bekezdése szerinti legutolsó kockázatértékelés és kockázatkezelés eredményeinek beépítése,
+b) a 6. § (3)–(4) bekezdése szerinti utolsó kockázatértékelés és kockázatkezelés eredményeinek beépítése,
 
 c) a teljes ivóvízellátó rendszer működtetésének közegészségügyi vizsgálata, a kockázatbecslés és kockázatkezelés értékelése és
 
-d) az ivóvízszolgáltatói kivizsgálás, intézkedés és a veszélykezelési eljárás módosítása rendkívüli esemény vagy határérték-túllépés esetén.
+d) az ivóvíz-szolgáltatói kivizsgálás, intézkedés és a veszélykezelési eljárás módosítása rendkívüli esemény vagy határérték-túllépés esetén.
 
 (10) A népegészségügyi szerv az ivóvízbiztonsági tervre vonatkozó jóváhagyást visszavonja, ha az ivóvízbiztonsági tervben foglaltak nem teljesülnek vagy az ivóvízbiztonsági terv szerinti megelőző és veszélykezelési tevékenységet az ivóvízszolgáltató nem alkalmazza.
+
+[^5]: A 7. § (9) bekezdése a 264/2023. (VI. 28.) Korm. rendelet 4. §-ával megállapított szöveg.
