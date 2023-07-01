@@ -1,5 +1,5 @@
 ## 33. Az Országgyűlési Őrség hivatásos állományának továbbképzési és vezetőképzési rendszeréről, rendészeti utánpótlási és vezetői adatbankjáról, valamint rendfokozati vizsgájáról szóló 26/2021. (VIII. 9.) BM rendelet módosítása
 
-120. §[^2]
+120. §[^16]
 
-[^2]: A 120. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 120. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,5 @@
 ## 34. Az Országgyűlési Őrség hivatásos állományát érintő humánigazgatási tárgyú szabályokról szóló 56/2012. (XI. 22.) BM rendelet módosítása
 
-122. §[^4]
+122. §[^18]
 
-[^4]: A 122. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 122. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
