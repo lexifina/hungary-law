@@ -1,8 +1,6 @@
-## 8. §[^3]
-
 1. melléklet a 27/2021. (VIII. 9.) BM rendelethez
 
-## Az egészségügyi szakdolgozói pótlékra jogosító szolgálati beosztások és munkakörök
+Az egészségügyi szakdolgozói pótlékra jogosító szolgálati beosztások és munkakörök
 
 1. Szakdolgozói szolgálati beosztások
 
@@ -48,7 +46,7 @@
 
 1.21. gyógymasszőr
 
-1.22. az Alkotmányvédelmi Hivatal és a Nemzetbiztonsági Szakszolgálat esetében az 1.1–1.21. pontban megjelölt szolgálati beosztás szerinti feladatokat ellátó tiszti és tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
+1.22.[^5]
 
 2. Szakdolgozói munkakörök
 
@@ -90,4 +88,4 @@
 
 2.19. gyógymasszőr
 
-[^3]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: Az 1. melléklet 1. pont 1.22. alpontját a 14/2023. (VI. 30.) MK rendelet 7. § a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 6. §-át.
