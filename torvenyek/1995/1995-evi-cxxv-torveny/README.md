@@ -61,3 +61,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-125-00-00
 | 2022-11-01 | 2021. évi XCIII. törvény | 1995-125-00-00.75 |
 | 2023-01-01 | 2022. évi LXIII. törvény | 1995-125-00-00.76 |
 | 2023-03-07 | 2020. évi XLII. törvény | 1995-125-00-00.81 |
+| 2023-07-01 | 2023. évi XXVII. törvény | 1995-125-00-00.82 |

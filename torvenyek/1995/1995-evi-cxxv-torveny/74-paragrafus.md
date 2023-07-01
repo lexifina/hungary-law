@@ -40,7 +40,7 @@ id) az autonóm államigazgatási szerv, az önálló szabályozó szerv, a köz
 
 ie) az Országgyűlés Hivatalának főigazgatója, az Országgyűlés Hivatala Szervezeti és Működési Szabályzatában meghatározott hivatali szerveinek, illetve azok önálló szervezeti egységeinek vezetői és helyetteseik;
 
-if) a Köztársasági Elnöki Hivatal vezetője, valamint a Köztársasági Elnöki Hivatal önálló szervezeti egységének a vezetője;
+if) a Sándor-palota hivatali szervezetének vezetője;
 
 ig) a Honvéd Vezérkar főnöke és helyettese;
 

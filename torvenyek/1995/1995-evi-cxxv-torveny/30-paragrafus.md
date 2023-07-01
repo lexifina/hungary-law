@@ -2,6 +2,6 @@
 
 (2) Az e törvényben meghatározott feladatok ellátása érdekében a nemzetbiztonsági szolgálatok – külön megállapodás alapján meghatározott időtartamra – munkaviszonyt kezdeményezhetnek az (1) bekezdés hatálya alá nem tartozó szervezeteknél.
 
-(3) A nemzetbiztonsági szolgálatok nem kezdeményezhetnek munkaviszonyt bíróságnál, ügyészségnél, az Alkotmánybíróságnál, az Állami Számvevőszéknél, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál, az Alapvető Jogok Biztosának Hivatalánál, a Köztársasági Elnök Hivatalánál és az Országgyűlés Hivatalánál.
+(3) A nemzetbiztonsági szolgálatok nem kezdeményezhetnek munkaviszonyt bíróságnál, ügyészségnél, az Alkotmánybíróságnál, az Állami Számvevőszéknél, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál, az Alapvető Jogok Biztosának Hivatalánál, a Sándor-palotánál és az Országgyűlés Hivatalánál.
 
 (4) A foglalkoztatás nemzetbiztonsági jellegével kapcsolatos speciális szabályokat – a hatályos jogszabályok keretei között – a nemzetbiztonsági szolgálatok és az érintett szervezet külön megállapodása tartalmazza.
