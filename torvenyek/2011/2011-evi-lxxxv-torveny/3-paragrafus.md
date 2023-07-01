@@ -66,7 +66,7 @@ b) a termékdíjköteles termék éves kibocsátási mennyiségéből 0,5%-ot me
 
 (6) A termékdíjköteles termék termékdíját nem kell megfizetni, ha – e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint – a kötelezett vevője (a továbbiakban: nyilatkozó) nyilatkozik arról, hogy
 
-a) a csomagolószert termékdíjátalány fizetésre jogosult mezőgazdasági termelőként csomagolás előállítására használja fel,
+a)
 
 b) az újrahasználható csomagolószerek nyilvántartásába a felhasználó kérelmére felvett
 

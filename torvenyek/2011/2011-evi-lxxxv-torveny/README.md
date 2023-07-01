@@ -30,3 +30,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-85-00-00
 | 2021-03-01 | 2021. évi II. törvény | 2011-85-00-00.23 |
 | 2021-07-01 | 2020. évi XCI. törvény | 2011-85-00-00.24 |
 | 2023-01-01 | 2022. évi LXXVI. törvény | 2011-85-00-00.27 |
+| 2023-07-01 | 2022. évi LXXVI. törvény | 2011-85-00-00.28 |

@@ -28,7 +28,7 @@ aa) első belföldi vevője, vagy
 
 ab) a d) pont szerinti értékesítés belföldi vevője,
 
-ha az átvállalt kötelezettséggel megvásárolt termékdíjköteles termék legalább hatvan százalékát külföldre értékesíti,
+ha az átvállalt kötelezettséggel megvásárolt termékdíjköteles termék legalább hatvan százalékát változatlan formában vagy más termékbe beépítve külföldre értékesíti, vagy az általános forgalmi adóról szóló törvény szerinti adóraktárba tárolja be,
 
 b) a bérgyártó,
 
@@ -62,4 +62,4 @@ gb) a d) pont szerinti értékesítés belföldi vevője
 
 (7) Szerződés alapján legfeljebb 3 év időtartamra vállalható át a kötelezettség.
 
-(8) Az (5) bekezdés a) pontja szerint tárgynegyedévben átvállalt termékdíjköteles termék mennyisége hatvan százalékának külföldre értékesítését az átvállalás tárgynegyedévének utolsó napjától, legfeljebb 365 napon belül kell igazoltan külföldre kiszállítani, ellenkező esetben a 366. napon a termékdíj-kötelezettség – az átvállalás napján hatályos szabályok szerint – beáll az átvállalónál, a ki nem szállított mennyiség tekintetében. A kiszállítás mértékének elmaradása esetén az állami adóhatóság mulasztási bírságot szabhat ki.
+(8) Az (5) bekezdés a) pontja szerint tárgynegyedévben átvállalt termékdíjköteles termék mennyisége hatvan százalékát az átvállalás tárgynegyedévének utolsó napjától, legfeljebb 365 napon belül kell igazoltan külföldre kiszállítani, vagy az általános forgalmi adóról szóló törvény szerinti adóraktárba betárolni, ellenkező esetben a 366. napon a termékdíj-kötelezettség – az átvállalás napján hatályos szabályok szerint – beáll az átvállalónál a ki nem szállított, vagy az adóraktárba be nem tárolt mennyiség tekintetében. A kiszállítás vagy az adóraktárba történő betárolás mértékének elmaradása esetén az állami adóhatóság mulasztási bírságot szabhat ki.

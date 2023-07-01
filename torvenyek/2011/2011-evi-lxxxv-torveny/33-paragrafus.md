@@ -1,12 +1,12 @@
 ## 26. Lefoglalás és elkobzás
 
-33. § (1) Az állami adó- és vámhatóság a termékdíjköteles termékhez kapcsolódó eljárása során (tényállás tisztázása), továbbá az e törvény szerinti elkobzás érvényesítése érdekében lefoglalást rendelhet el.
+33. § (1) Az állami adóhatóság a termékdíjköteles termékhez kapcsolódó eljárása során (tényállás tisztázása), továbbá az e törvény szerinti elkobzás érvényesítése érdekében lefoglalást rendelhet el.
 
-(2) A lefoglalásnál a kötelezett jelenlétét biztosítani kell. Ha kötelezett nem kíván jelen lenni vagy ebben akadályozott, és megfelelő képviseletről nem gondoskodik, az állami adó- és vámhatóság a lefoglalást két hatósági tanú jelenlétében foganatosítja.
+(2) A lefoglalásnál a kötelezett jelenlétét biztosítani kell. Ha kötelezett nem kíván jelen lenni vagy ebben akadályozott, és megfelelő képviseletről nem gondoskodik, az állami adóhatóság a lefoglalást két hatósági tanú jelenlétében foganatosítja.
 
-(3) A lefoglalásról az állami adó- és vámhatóság a kötelezett, annak képviselője, meghatalmazottja, ezek hiányában két hatósági tanú jelenlétében jegyzőkönyvet vesz fel, a lefoglalt termékdíjköteles terméket és ha a termékdíjköteles termék más termékkel együtt képez egységet, más termék része vagy összetevője akkor a termékkel együtt (a továbbiakban: lefoglalt termék) zár alá veszi vagy a kötelezett költségére elszállíttatja és megőrzi.
+(3) A lefoglalásról az állami adóhatóság a kötelezett, annak képviselője, meghatalmazottja, ezek hiányában két hatósági tanú jelenlétében jegyzőkönyvet vesz fel, a lefoglalt termékdíjköteles terméket és ha a termékdíjköteles termék más termékkel együtt képez egységet, más termék része vagy összetevője akkor a termékkel együtt (a továbbiakban: lefoglalt termék) zár alá veszi vagy a kötelezett költségére elszállíttatja és megőrzi.
 
-(4) Az állami adó- és vámhatóság, amennyiben
+(4) Az állami adóhatóság, amennyiben
 
 a) a termékdíjköteles termék birtokosa a termékdíjköteles termék eredetét vagy felhasználásának célját nem igazolja, és
 

@@ -1,9 +1,27 @@
 ## 18. Adatkezelés
 
-24. § (1) Az állami hulladékgazdálkodást közvetítő szervezet, az állami adó- és vámhatóság, valamint a hulladékgazdálkodási hatóság a termékdíj-kötelezettséggel, továbbá az állami hulladékgazdálkodást közvetítő szervezet tevékenységével összefüggő és a nyilvántartásában szereplő adatokat, a kiadott engedélyek, határozatok adatait a hulladékhasznosítás és termékdíj-fizetés ellenőrzése céljából – e törvény végrehajtására kiadott jogszabályban meghatározottak szerint – a másik fél rendelkezésére bocsátja.
+24. § (1) Az állami adóhatóság a hulladékgazdálkodási hatóság részére a termékdíj-kötelezettséggel összefüggő, a hulladékgazdálkodási hatóság az állami adóhatóság részére a hulladékgazdálkodási kötelezettségekkel összefüggő, nyilvántartásában szereplő adatokat, a kiadott engedélyek, határozatok adatait a kötelezettségek ellenőrzése céljából – az e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint – rendelkezésre bocsátja.
 
-(2) Az állami adó- és vámhatóság a környezetvédelmi termékdíj-bejelentésben, bevallásban a kötelezett által feltüntetett, a termékdíj-kötelezettséggel kapcsolatos feladat- és hatáskörei kapcsán részére érkező adattartalmat kezeli, és az – adótitkot és személyes adatot nem képező, összesített – adott negyedévre vonatkozó adattartalmat a termékdíj-kötelezettségek teljesítése és a hulladékgazdálkodás ellenőrzése és tervezése céljából legalább negyedévente, de legkésőbb a negyedévet követő második hónap 20. napjáig átad az állami hulladékgazdálkodást közvetítő szervezet részére.
+(2) Az állami adóhatóság a környezetvédelmi termékdíj bevallásban a kötelezett által feltüntetett, a termékdíj-kötelezettséggel kapcsolatos feladat- és hatáskörei kapcsán részére érkező adattartalmat kezeli, és az adótitkot képező, az 1. § (3) bekezdés a), b), d)–f) és i) pontja szerinti termékdíjköteles termékek (3) bekezdésben meghatározott, az adott negyedévre vonatkozó adattartalmat a hulladékgazdálkodási kötelezettségek teljesítésének ellenőrzése céljából legalább negyedévente, de legkésőbb a negyedévet követő második hónap 20. napjáig átadja a hulladékgazdálkodási hatóság részére.
 
-(3) Az állami hulladékgazdálkodást közvetítő szervezet a tevékenysége során keletkező adatokat kezeli, és a termékdíj-kötelezettséget érintő adatokat legalább negyedévente átadja az állami adó- és vámhatóság részére.
+(3) Az állami adóhatóság a bevallás adatai közül
 
-(4) A bevallásban közölt adatok valódiságát az állami adó- és vámhatóság ellenőrzi.
+a) a kötelezett nevét, címét, adószámát,
+
+b) a tárgyidőszakra vonatkozó adatát, és
+
+c) a termékdíjköteles termék
+
+ca) KT és CsK kódját,
+
+cb) megnevezését,
+
+cc) fizetési kötelezettség alapját képező mennyiségét,
+
+cd) termékdíjtételét, és
+
+ce) a fizetési kötelezettségének összegét
+
+adja át a hulladékgazdálkodási hatóság részére.
+
+(4) A bevallásban közölt adatok valódiságát az állami adóhatóság ellenőrzi.

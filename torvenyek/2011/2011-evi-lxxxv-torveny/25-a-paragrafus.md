@@ -14,4 +14,4 @@ esetében.
 
 (5) A 25. § (2) bekezdésében meghatározott visszaigénylés a tárgynegyedévben hasznosításra átadott használt vagy hulladékká vált kenőolaj mennyiségére, ha a kötelezett egyben hasznosító is, akkor az általa hasznosításra átvett használt vagy hulladékká vált kenőolaj mennyiségére vehető igénybe. Abban az esetben, ha a kötelezett saját maga hasznosítja a saját célra felhasznált termékdíjköteles kenőolajból keletkezett használt vagy hulladékká vált kenőolajat, a visszaigénylés alapja a hasznosított használt vagy hulladékká vált kenőolaj mennyisége. A negyedévente visszaigényelt termékdíj összegének göngyölített összege nem haladhatja meg a tárgyévre vonatkozó befizetések göngyölített összegét.
 
-(6) A 25. § (2) és (2a) bekezdésében meghatározott esetben a negyedévente visszaigényelt termékdíj összegének göngyölített összege nem haladhatja meg a tárgyévre vonatkozó befizetések göngyölített összegét.
+(6) A 25. § (2) bekezdésében meghatározott esetben a negyedévente visszaigényelt termékdíj összegének göngyölített összege nem haladhatja meg a tárgyévre vonatkozó befizetések göngyölített összegét.

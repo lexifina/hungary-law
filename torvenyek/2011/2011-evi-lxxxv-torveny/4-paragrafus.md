@@ -32,7 +32,7 @@ h) belföldön lévő termékdíjköteles termék tulajdonjogának belföldön g
 
 (2a) A 4. § (2) bekezdés d) pontjában meghatározott feltételek teljesítésének hiányában a 366. napon saját célú felhasználással termékdíj kötelezettség keletkezik.
 
-(3) Az állami adó- és vámhatóság és a hulladékgazdálkodási hatóság
+(3) Az állami adóhatóság és a hulladékgazdálkodási hatóság
 
 a) a (2) bekezdés d) pontja szerinti felhasználónál a termékdíjköteles termék külföldre történő kiszállítására,
 

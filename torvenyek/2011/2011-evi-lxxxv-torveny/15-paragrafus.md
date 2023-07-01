@@ -6,7 +6,7 @@
 
 a) csekély mennyiségű kibocsátó,
 
-b) a közös agrárpolitika keretébe tartozó támogatási rendszerek alapján a mezőgazdasági termelők részére nyújtott közvetlen kifizetésekre vonatkozó szabályok megállapításáról, valamint a 637/2008/EK és a 73/2009/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1307/2013/EU európai parlamenti és tanácsi rendelet szerinti mezőgazdasági termelő, és
+b)
 
 c) a gépjármű alkotórészeként, tartozékaként termékdíjköteles terméket belföldi forgalomba hozó, saját célra felhasználó vagy készletre vevő
 

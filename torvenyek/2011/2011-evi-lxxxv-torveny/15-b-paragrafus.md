@@ -6,7 +6,7 @@ b) csomagolószer termékáram esetén 12 000 Ft/év;
 
 c) egyéb kőolajtermék termékáram esetén 4000 Ft/év;
 
-d) elektromos, elektronikai berendezés termékáram esetén 10 000 Ft/év;
+d) elektromos, elektronikus berendezés termékáram esetén 10 000 Ft/év;
 
 e) gumiabroncs termékáram esetén 3000 Ft/év;
 

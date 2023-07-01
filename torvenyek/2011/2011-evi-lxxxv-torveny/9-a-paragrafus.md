@@ -6,7 +6,7 @@ a) amely a termékdíj raktár működésére szolgáló ingatlan jogszerű hasz
 
 b) amely olyan nyilvántartási, bizonylati rendszert alkalmaz, amelynek alapján a felhasznált, előállított, feldolgozott, alkotórészként, tartozékként más termékbe beépített, újbóli felhasználásra előkészített, raktározott termékdíjköteles termék mennyiségi számbavétele ellenőrizhető,
 
-c) amely az állami adó- és vámhatóságnál nyilvántartott vám- vagy adótartozással nem rendelkezik kivéve, ha arra részletfizetést vagy fizetési halasztást engedélyeztek,
+c) amely az állami adóhatóságnál nyilvántartott vám- vagy adótartozással nem rendelkezik kivéve, ha arra részletfizetést vagy fizetési halasztást engedélyeztek,
 
 d) amely nem áll csőd-, felszámolási vagy végelszámolási, valamint kényszertörlési eljárás alatt,
 

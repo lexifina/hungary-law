@@ -2,7 +2,7 @@
 
 ## A TERMÉKDÍJ VISSZAIGÉNYLÉSE
 
-25. § (1) A befizetett termékdíj, a 15/A. és 15/B. §-ban meghatározott termékdíjátalány kivételével
+25. § (1) A befizetett termékdíj, a 15/B. §-ban meghatározott termékdíjátalány kivételével
 
 a) a termékdíjköteles termék külföldre történő igazolt kiszállítása;
 
@@ -26,7 +26,7 @@ esetén visszaigényelhető.
 
 (2a) Visszaigényelhető a növényvédőszerrel közvetlenül érintkező, a növényvédőszer csomagolását képező csomagolószerek után megfizetett termékdíjnak azon része, amelyet a visszaigénylő a hulladékkezelés szervezését ellátó non-profit szervezet részére szolgáltatási díjként – a hulladékká vált csomagolást alkotó csomagolószer tömegére vonatkozóan – igazoltan megfizetett.
 
-(2b) A (2a) bekezdés alapján visszaigényelhető termékdíj alapja a tárgynegyedévben hulladékkezelésre igazoltan átadott növényvédőszerrel szennyezett csomagolási hulladékot képező csomagolószerek tömege.
+(2b)
 
 (3) A külföldre történő értékesítés számlával vagy az ügylet teljesítését igazoló egyéb okirattal és szállítólevéllel vagy fuvarokmánnyal igazolható. A visszaigénylés további feltétele a termék beszerzéséről kiállított számla vagy az ügylet teljesítését igazoló egyéb okirat, amely tartalmazza a termék első belföldi forgalomba hozatalakor a kötelezett által kibocsátott számla vagy az ügylet teljesítését igazoló egyéb okirat számát, azonosító adatát, a kötelezett nevét, címét, adószámát, és a kötelezett által kiállított számlán vagy annak mellékletében, illetve az ügylet teljesítését igazoló egyéb okiraton feltüntetett termékdíj mértékét és összegét.
 
@@ -34,6 +34,6 @@ esetén visszaigényelhető.
 
 (5) A termékdíj visszaigénylése szempontjából külföldre történő kiszállítással, külföldre történő ingyenes vagy visszterhes tulajdonjog-átruházással esik egy tekintet alá a termékdíjköteles termék ipari termékdíj raktárba történő betárolása.
 
-(6) A termékdíjköteles termék alapanyagként történő felhasználása során keletkező gyártási selejt és hulladék mennyiségére is visszaigényelhető a termékdíj, de ebben az esetben a gyártási selejt és hulladék mennyisége a hulladékhasznosítási teljesítmény számításánál nem vehető figyelembe.
+(6) A termékdíjköteles termék alapanyagként történő felhasználása során keletkező gyártási selejt és hulladék mennyiségére is visszaigényelhető a termékdíj.
 
 (7) A 25. § (2) bekezdésében meghatározott visszaigénylés mellett a 3. § (9) bekezdés b) pontjában meghatározott eljárás nem alkalmazható.

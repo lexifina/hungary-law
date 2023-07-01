@@ -4,9 +4,9 @@
 
 a) ha az fizikai módon összetevőire szétválasztható, az egyes összetevőkre vonatkozó termékdíjtételt,
 
-b) ha az fizikai módon összetevőire szét nem választható és legalább kilencven százalékban egynemű anyagból áll, a csomagolószer teljes tömegére a fő összetevőre vonatkozó termékdíjtételt,
+b) ha az fizikai módon összetevőire szét nem választható és legalább kilencvenöt százalékban egynemű anyagból áll, a csomagolószer teljes tömegére a fő összetevőre vonatkozó termékdíjtételt,
 
-c) ha az fizikai módon összetevőire szét nem választható és nincs olyan összetevő, amely a csomagolószer tömegének kilencven százalékát eléri, a társított anyagokra vonatkozó termékdíjtételt
+c) ha az fizikai módon összetevőire szét nem választható és nincs olyan összetevő, amely a csomagolószer tömegének kilencvenöt százalékát eléri, a társított anyagokra vonatkozó termékdíjtételt
 
 kell alkalmazni.
 
