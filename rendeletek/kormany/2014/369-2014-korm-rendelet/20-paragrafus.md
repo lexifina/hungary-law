@@ -1,9 +1,12 @@
-20. § (1)[^35] Az e rendeletben előírt kötelezettségek teljesítését a hulladékgazdálkodási és közlekedési feladatkörében eljáró vármegyei kormányhivatal évente ellenőrzi.
+20. § (1)[^41] Az e rendeletben előírt kötelezettségek teljesítését az (1a) bekezdés szerinti hulladékgazdálkodási hatóság és közlekedési feladatkörében eljáró vármegyei kormányhivatal évente ellenőrzi.
 
-(2)[^36] Az e rendeletben előírt kötelezettségek megsértése esetén a hulladékgazdálkodási hatóság a hulladékgazdálkodási bírság mértékéről, valamint kiszabásának és megállapításának módjáról szóló kormányrendelet alapján hulladékgazdálkodási bírságot szab ki.
+(1a)[^42] A 4. § (6) és (7) bekezdése, valamint a 10. alcím szerinti kötelezettségek teljesítését az országos hulladékgazdálkodási hatóság; az e rendelet szerinti egyéb tevékenységeket a tevékenység tekintetében hatáskörrel és illetékességgel rendelkező hulladékgazdálkodási hatóság ellenőrzi.
 
-(3)[^37] Ha a közvetítő szervezet az e rendeletben meghatározott kötelezettségének az ismételten kiszabott hulladékgazdálkodási bírság ellenére sem tesz eleget, az országos hulladékgazdálkodási hatóság az e tény megállapítását követő 90. napon belül a közvetítő szervezetet a nyilvántartásból törli. A nyilvántartásból történő törlésről rendelkező határozat közlése és véglegessé válása közötti időszakban a közvetítő szervezet a tevékenységével összefüggő új szerződést nem köthet.
+(2)[^43] Az e rendeletben előírt kötelezettségek megsértése esetén a hulladékgazdálkodási hatóság a hulladékgazdálkodási bírság mértékéről, valamint kiszabásának és megállapításának módjáról szóló kormányrendelet alapján hulladékgazdálkodási bírságot szab ki.
 
-[^35]: A 20. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 137. §-ával megállapított, a 312/2021. (VI. 7.) Korm. rendelet 14. § b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 199. § b) pontja szerint módosított szöveg.
-[^36]: A 20. § (2) bekezdése a 312/2021. (VI. 7.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
-[^37]: A 20. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 286. § (2) bekezdés b) pontja, a 457/2017. (XII. 28.) Korm. rendelet 518. §-a, a 312/2021. (VI. 7.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
+(3)[^44]
+
+[^41]: A 20. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 137. §-ával megállapított, a 312/2021. (VI. 7.) Korm. rendelet 14. § b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 199. § b) pontja, a 276/2023. (VI. 29.) Korm. rendelet 49. § i) pontja szerint módosított szöveg.
+[^42]: A 20. § (1a) bekezdését a 276/2023. (VI. 29.) Korm. rendelet 47. §-a iktatta be.
+[^43]: A 20. § (2) bekezdése a 312/2021. (VI. 7.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
+[^44]: A 20. § (3) bekezdését a 276/2023. (VI. 29.) Korm. rendelet 50. § c) pontja hatályon kívül helyezte.

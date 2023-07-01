@@ -1,19 +1,22 @@
-16. § (1)[^27] Ha a gyártó az e rendelet szerinti gyártói kötelezettségét közvetítő szervezetre nem ruházta át, a gyártó a gépjárművek, a hulladékká vált gépjárművek átvételéről, bontásáról és további kezelésre történő átadásáról a 3. mellékletben foglaltaknak megfelelő tartalommal közvetlenül az országos hulladékgazdálkodási hatóság részére szolgáltat adatot, a tárgyévet követő év március 1. napjáig.
+16. § (1)[^32] Egyéni teljesítés esetén a gyártó, kollektív teljesítés esetén a koncessziós társaság a hulladékká vált gépjárművek átvételéről, bontásáról és további kezelésre történő átadásáról a 3. melléklet 1. és 3–5. pontjában foglaltaknak megfelelő tartalommal az országos hulladékgazdálkodási hatóság részére szolgáltat adatot a tárgyévet követő év március 1. napjáig.
 
-(2)[^28] Ha a gyártó az e rendelet szerinti gyártói kötelezettségét közvetítő szervezetre átruházta, a gépjárművek, a hulladékká vált gépjárművek átvételéről, bontásáról és további kezelésre történő átadásáról a közvetítő szervezet szolgáltat adatot közvetlenül az országos hulladékgazdálkodási hatóság részére, a tárgyévet követő év március 1. napjáig.
+(2)[^33] A gyártó a 3. melléklet 2. pontjában foglaltaknak megfelelő tartalommal az országos hulladékgazdálkodási hatóság részére adatot szolgáltat a tárgyévet követő év március 1. napjáig.
 
-(3) A bontó a hulladékká vált gépjárművek átvételéről, bontásáról és további kezelésre történő átadásáról a 4. mellékletben foglaltaknak megfelelő tartalommal közvetlenül
+(3)[^34] A bontó a hulladékká vált gépjárművek átvételéről, bontásáról és további kezelésre történő átadásáról a 4. mellékletben foglaltaknak megfelelő tartalommal közvetlenül szolgáltat adatot
 
-a) a gyártónak szolgáltat adatot, ha a gyártó a gyártói kötelezettségét közvetítő szervezetre nem ruházta át;
+a) az egyéni teljesítő gyártónak a vele szerződött tevékenység;
 
-b) a közvetítő szervezetnek szolgáltat adatot, ha a gyártó a gyártói kötelezettségét közvetítő szervezetre átruházta, és a bontó – mint az átvevő- és kezelőhálózat tagja – a közvetítő szervezettel szerződést kötött.
+b) a koncessziós társaságnak a vele szerződött tevékenység
 
-(4)[^29] A (3) bekezdésben foglalt kivétellel a bontó a hulladékká vált gépjárművek átvételéről, bontásáról és további kezelésre történő átadásáról a 4. mellékletben foglaltaknak megfelelő tartalommal közvetlenül az országos hulladékgazdálkodási hatóság részére szolgáltat adatot, a tárgyévet követő év március 1. napjáig.
+vonatkozásában.
+
+(4)[^35] A (3) bekezdésben foglalt kivétellel a bontó a hulladékká vált gépjárművek átvételéről, bontásáról és további kezelésre történő átadásáról a 4. mellékletben foglaltaknak megfelelő tartalommal közvetlenül az országos hulladékgazdálkodási hatóság részére szolgáltat adatot, a tárgyévet követő év március 1. napjáig.
 
 (5) Az adatszolgáltatásban a telephelyek adatait összesítve kell megadni.
 
 (6) Az adatszolgáltatás során közölt adatok teljeskörűségéért, az adatszolgáltatásra kötelezettre vonatkozó számviteli szabályokkal, statisztikai rendszerrel, valamint saját nyilvántartási rendszereivel, mérési, megfigyelési adataival való egyezéséért az adatszolgáltatásra kötelezett felel.
 
-[^27]: A 16. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 286. § (2) bekezdés b) pontja, a 312/2021. (VI. 7.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
-[^28]: A 16. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 286. § (2) bekezdés b) pontja, a 312/2021. (VI. 7.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
-[^29]: A 16. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 286. § (2) bekezdés b) pontja, a 312/2021. (VI. 7.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
+[^32]: A 16. § (1) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 46. §-ával megállapított szöveg.
+[^33]: A 16. § (2) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 46. §-ával megállapított szöveg.
+[^34]: A 16. § (3) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 46. §-ával megállapított szöveg.
+[^35]: A 16. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 286. § (2) bekezdés b) pontja, a 312/2021. (VI. 7.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.

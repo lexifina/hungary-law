@@ -4,7 +4,7 @@
 
 1. aprítógép: olyan berendezés, amely a hulladékká vált gépjárművet a hasznosítható összetevők visszanyerése céljából kisméretű darabokra aprítja, darabolja, zúzza;
 
-2. átvétel: az a tevékenység, amelynek során a gyártó, a forgalmazó vagy a bontó a gépjárművet vagy a hulladékká vált gépjárművet a tulajdonosától vagy üzemeltetőjétől kezelés céljából átveszi;
+2.[^1] átvétel: az a tevékenység, amelynek során a gyártó, a forgalmazó, a koncessziós társaság vagy a bontó a gépjárművet vagy a hulladékká vált gépjárművet a tulajdonosától vagy üzemeltetőjétől kezelés céljából átveszi;
 
 3. bontás: a gépjárműfenntartó tevékenység személyi és dologi feltételeiről szóló miniszteri rendelet szerinti képesítéssel és jogosultsággal végezhető hulladékkezelési tevékenység, amely magában foglalja a hulladékká vált gépjármű alkatrészekre történő szétszedését – ideértve a hulladéknak minősülő bontott gépjárműalkatrész újrahasználatra előkészítését is –, valamint a hulladékká vált gépjármű aprítógéppel történő aprítását, darabolását, zúzását;
 
@@ -21,3 +21,5 @@
 (2) Az átvételi hely fogalmára az egyes hulladékgazdálkodási létesítmények kialakításának és üzemeltetésének szabályairól szóló kormányrendeletben meghatározott átvételi hely fogalmát kell alkalmazni azzal az eltéréssel, hogy az átvételi helyen a forgalomból kivonni szándékozott, de bontási engedéllyel (a továbbiakban: bontási átvételi igazolás) nem rendelkező gépjárművet is át kell venni.
 
 (3) E rendelet alkalmazásában a gépjármű – ideértve a használt gépjárműveket is – importálását végző gazdálkodó szervezet esetében a gyártóra vonatkozó előírásokat kell alkalmazni.
+
+[^1]: A 2. § (1) bekezdés 2. pontja a 276/2023. (VI. 29.) Korm. rendelet 49. § a) pontja szerint módosított szöveg.
