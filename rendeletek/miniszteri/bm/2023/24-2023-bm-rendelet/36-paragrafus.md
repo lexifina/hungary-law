@@ -1,0 +1,1 @@
+36. § Hatályát veszti a belügyminiszter irányítása alá tartozó rendvédelmi feladatokat ellátó szervek hivatásos állományú tagjai esetében a technikai ellenőrzés szabályairól szóló 23/2015. (VI. 15.) BM rendelet 2. § (2) bekezdésében a „valamint” szövegrész.

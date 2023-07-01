@@ -1,0 +1,5 @@
+## 5. A büntetés-végrehajtási szervezet részéről a büntetés-végrehajtásért felelős miniszter vezetése, irányítása vagy felügyelete alá tartozó szervek irányában fennálló ellátási kötelezettségről, a fogvatartottak kötelező foglalkoztatása keretében előállított termékekről és szolgáltatásokról, azok átadás-átvételéről és az ellentételezés rendjéről szóló 9/2011. (III. 23.) BM rendelet módosítása
+
+16. § A büntetés-végrehajtási szervezet részéről a büntetés-végrehajtásért felelős miniszter vezetése, irányítása vagy felügyelete alá tartozó szervek irányában fennálló ellátási kötelezettségről, a fogvatartottak kötelező foglalkoztatása keretében előállított termékekről és szolgáltatásokról, azok átadás-átvételéről és az ellentételezés rendjéről szóló 9/2011. (III. 23.) BM rendelet 3. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az e rendelet szerinti ellátási kötelezettség nem terjed ki azokra az európai uniós támogatással megvalósuló beszerzésekre, amelyek értéke meghaladja a központi költségvetésről szóló törvényben meghatározott nemzeti közbeszerzési értékhatárt.”

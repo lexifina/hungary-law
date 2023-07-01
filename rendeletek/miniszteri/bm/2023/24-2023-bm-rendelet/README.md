@@ -1,0 +1,9 @@
+# 24/2023. (VI. 30.) BM rendelet
+
+humánigazgatási és egyéb belügyi tárgyú miniszteri rendeletek módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-24-20-0A
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2023-07-01 | 2023-24-20-0A.1 | 24/2023. (VI. 30.) BM rendelet |
