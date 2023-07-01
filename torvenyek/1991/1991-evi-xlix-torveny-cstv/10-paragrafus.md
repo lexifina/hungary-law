@@ -4,7 +4,7 @@
 
 a) az adós nevét, székhelyét, cégjegyzékszámát, adószámát,
 
-b) a bíróság által kirendelt vagyonfelügyelő nevét, székhelyét,
+b) a bíróság által kirendelt vagyonfelügyelő nevét, székhelyét, elektronikus levelezési címét,
 
 c) a bíróság nevét és az ügy számát,
 
