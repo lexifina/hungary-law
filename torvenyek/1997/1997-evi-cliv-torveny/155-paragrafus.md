@@ -78,7 +78,13 @@ b) az egyéb munkáltatói jogokat a vármegyei intézmény vezetője
 
 gyakorolja.
 
-(10) Az állami fenntartású, vármegyei intézménynek nem minősülő és a (15), (17) és (18) bekezdés, valamint a 151/B. § (2) bekezdése hatálya alá nem tartozó egészségügyi intézmény (a továbbiakban: városi intézmény) irányítási szempontból ahhoz a vármegyei intézményhez (ide nem értve a vármegyeszékhelynek nem minősülő megyei jogú városban székhellyel rendelkező vármegyei intézményt) tartozik, amelyik vármegyei intézmény székhelye szerinti vármegyében a városi intézmény székhelye található azzal, hogy azokban a vármegyékben, ahol irányítási joggal rendelkező vármegyei intézmény nem működik, a vármegyében működő egészségügyi felsőoktatási intézmény klinikai központját, ennek hiányában a vármegyeszékhelyen legalább egy telephellyel rendelkező állami fenntartású fekvőbeteg-szakellátást nyújtó intézményt kell vármegyei intézmény alatt érteni (a továbbiakban: irányító vármegyei intézmény).
+(10) Az állami fenntartású, vármegyei intézménynek nem minősülő és a (15), (17) és (18) bekezdés, valamint a 151/B. § (2) bekezdése hatálya alá nem tartozó egészségügyi intézmény (a továbbiakban: városi intézmény) irányítási szempontból
+
+a) egészségügyi felsőoktatási intézmény klinikai központja esetében törvény vagy
+
+b) az a) pont hatálya alá nem tartozó esetben a Kormány rendelete
+
+által kijelölt, a városi intézménnyel azonos vármegyében működő irányító vármegyei intézményhez (a továbbiakban: irányító vármegyei intézmény) tartozik.
 
 (11) A városi intézmény tekintetében a (10) bekezdés szerinti irányító vármegyei intézmény vezetője gyakorolja a (6) bekezdés szerinti jogköröket azzal, hogy a (7) bekezdést kell alkalmazni az irányító vármegyei kórház vezetője által tett kezdeményezésekre is.
 
@@ -160,6 +166,6 @@ fenntartására, irányítására.
 
 (20) Egészségügyi válsághelyzetben a Kormány rendeletében az állam tulajdonában és fenntartásában működő egészségügyi intézmények fenntartása és irányítása tekintetében az (1)–(18) bekezdésben foglaltaktól eltérő szabályokat állapíthat meg.
 
-(21) Az önkormányzati fenntartású, járóbeteg-szakellátást nyújtó egészségügyi intézmény tekintetében az (1a) bekezdés a)–d) és f)–h) pontja szerinti szakmai fenntartói jogköröket az az irányító vármegyei intézmény gyakorolja, amelyik székhelye szerinti vármegye területén a járóbeteg-szakellátást nyújtó egészségügyi intézmény székhelye található.
+(21) Az önkormányzati fenntartású, járóbeteg-szakellátást nyújtó egészségügyi intézmény tekintetében az (1a) bekezdés a)–d) és f)–h) pontja szerinti szakmai fenntartói jogköröket az érintett vármegyében működő irányító vármegyei intézmény gyakorolja.
 
 (22) A Budapesten és Pest vármegyében működő önkormányzati fenntartású járóbeteg-szakellátást nyújtó egészségügyi intézményekre a (21) bekezdésben foglaltakat azzal az eltéréssel kell alkalmazni, hogy a Kormány rendeletben határozza meg az irányító jogkört gyakorló egészségügyi intézményeket és az általuk irányított egészségügyi intézményeket.

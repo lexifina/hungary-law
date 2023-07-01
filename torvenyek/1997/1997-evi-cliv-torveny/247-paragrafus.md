@@ -142,6 +142,8 @@ l) a 74/K. § (2) bekezdése szerinti személyeket.
 
 m) a köztisztaság és a településtisztaság környezet- és település-egészségügyi szabályait.
 
+(1d) Felhatalmazást kap a Kormány, hogy a 155. § (10) bekezdés b) pontja szerinti irányító vármegyei intézményeket rendeletben jelölje ki.
+
 (2) Felhatalmazást kap a miniszter, hogy
 
 a) a kereskedelemért felelős miniszterrel egyetértésben a vásári, a piaci és a vásárcsarnoki árusítás közegészségügyi-járványügyi szabályait,
@@ -296,7 +298,7 @@ j) a rendezvénybiztosítás és a helyszínbiztosítás részletes szakmai szab
 
 k) a Központi Implantátumregiszter működésére vonatkozó részletes szabályokat és a 101/C. § (1) bekezdése szerinti nyilvántartási kötelezettség alól – a 101/C. § (1) bekezdésében meghatározott egyes adatok vagy valamennyi adat tekintetében – mentesülő implantátumok körét,
 
-l)
+l) az orvosi esztétikai tevékenységeket, az egyes tevékenységek végzésére jogosult személyek körét, valamint e tevékenységek végzésével, a képesítés megszerzésével összefüggő szakmai szabályokat
 
 m) a sugárszennyezett vagy arra gyanús személy egészségügyi ellátásának, valamint a sugárszennyezett személy elkülönítésének részletes szabályait,
 
@@ -409,5 +411,3 @@ l) az Európai Parlament és a Tanács 2011/24/EU irányelve (2011. március 9.)
 (8) Ez a törvény
 
 a) az orvostechnikai eszközökről, a 2001/83/EK irányelv, a 178/2002/EK rendelet és az 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és a 93/42/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/745 európai parlamenti és tanácsi rendelet,
-
-b) a 2001/83/EK európai parlamenti és tanácsi irányelvnek az emberi felhasználásra szánt gyógyszerek külső csomagolásán elhelyezendő biztonsági elemekre vonatkozó részletes szabályok meghatározása tekintetében történő kiegészítéséről szóló, 2015. október 2-i (EU) 2016/161 bizottsági felhatalmazáson alapuló rendelet,
