@@ -12,7 +12,15 @@
 
 (6) A települési önkormányzat és az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv a gyermekjóléti és gyermekvédelmi feladatainak ellátásáról minden év május 31-éig – a külön jogszabályban meghatározott tartalommal – átfogó értékelést készít. Az értékelést – települési önkormányzat esetén a képviselő-testület általi megtárgyalást követően – meg kell küldeni a gyámhatóságnak. A gyámhatóság az értékelés kézhezvételétől számított harminc napon belül javaslattal élhet a települési önkormányzat, illetve az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv felé, amely hatvan napon belül érdemben megvizsgálja a gyámhatóság javaslatait és állásfoglalásáról, intézkedéséről tájékoztatja.
 
-(7) Gyermekek napközbeni ellátása esetén a jogszabályban meghatározott szakmai, módszertani feladatokat a gyermek- és ifjúságpolitikáért felelős miniszter által kijelölt szervezet, egyéb esetben a szociálpolitikai feladatok ellátására a Kormány rendeletében kijelölt szerv (a továbbiakban együtt: módszertani feladatokat ellátó szerv) látja el.
+(7) A jogszabályban meghatározott szakmai, módszertani feladatokat
+
+a) gyermekek napközbeni ellátása esetén a gyermek- és ifjúságpolitikáért felelős miniszter által kijelölt szervezet,
+
+b) a hozzátartozók közötti erőszak elleni fellépéssel összefüggésben a családpolitikáért felelős miniszter által kijelölt szervezet, illetve
+
+c) az a) és b) pont alá nem tartozó esetben a szociálpolitikai feladatok ellátására a Kormány rendeletében kijelölt szerv
+
+[az a)–c) pontban foglaltak a továbbiakban együtt: módszertani feladatokat ellátó szerv] látja el.
 
 (8) Az egyházi fenntartó kérelmére
 
@@ -41,5 +49,23 @@ e) kezdeményezi a személyes gondoskodást nyújtó munkakörben dolgozók tov�
 (11) A kijelölt egyházi módszertani intézmény módszertani tevékenységének biztosítása során együttműködik a módszertani feladatokat ellátó szervvel.
 
 (12) A miniszter – tanoda szolgáltatás esetén a társadalmi felzárkózásért felelős miniszter – a kijelölt egyházi módszertani intézmény feladatainak ellátásához egyedi támogatást nyújt.
+
+(12a) A családpolitikáért felelős miniszter a (7) bekezdés b) pontja alapján kijelölt szervezet feladatainak ellátásához egyedi támogatást nyújt.
+
+(12b) A (7) bekezdés b) pontja alapján kijelölt szervezet feladatkörében
+
+a) szakmai szempontból monitorozza a hozzátartozók közötti erőszak áldozatait segítő ellátórendszert,
+
+b) szakmai iránymutatásokat, ajánlásokat és útmutatókat fogalmaz meg,
+
+c) szolgáltatásfejlesztéssel kapcsolatos javaslatot fogalmaz meg,
+
+d) a hozzátartozók közötti erőszak áldozatait segítő ellátórendszer működésével kapcsolatban statisztikát vezet,
+
+e) a hozzátartozók közötti erőszak tárgyában és az áldozatokat segítő ellátórendszer működésével kapcsolatban kutatásokat folytat,
+
+f) a hozzátartozók közötti erőszak áldozatait segítő ellátórendszerben dolgozók számára továbbképzést és tapasztalatcserét biztosít, valamint
+
+g) szakmai tanácsadást nyújt.
 
 (13) Az egyházi fenntartó a tárgyév január 31-éig bejelentheti a működést engedélyező szervnek – ha az egyháznak az általa fenntartott intézmény tevékenysége vonatkozásában nincs módszertani intézménye –, hogy a módszertani tevékenységekkel összefüggésben a módszertani feladatokat ellátó szerv helyett mely kijelölt egyházi módszertani intézménnyel kíván együttműködni. A bejelentés annak közlését követő nyolcadik naptól hatályos. A bejelentésről a működést engedélyező szerv értesíti a módszertani feladatokat ellátó szervet. A bejelentés – a tárgyévet követő év január 1-jei hatállyal – visszavonható.

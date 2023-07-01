@@ -46,7 +46,7 @@ c) a bántalmazott vállalja a külön jogszabályban meghatározott társadalmi
 
 (9) Titkos menedékházként kizárólag a családok átmeneti otthona működhet.
 
-(10) A titkos menedékház befogadja a kapcsolati erőszak miatt krízishelyzetbe került, illetve otthontalanná vált bántalmazottat és gyermekét, valamint az (5) bekezdés szerinti bántalmazott családot.
+(10) A titkos menedékház befogadja a hozzátartozók közötti erőszak miatt krízishelyzetbe került, illetve otthontalanná vált bántalmazottat és gyermekét, valamint az (5) bekezdés szerinti bántalmazott családot.
 
 (11) A titkos menedékház a (10) bekezdésben foglalt személy számára
 
