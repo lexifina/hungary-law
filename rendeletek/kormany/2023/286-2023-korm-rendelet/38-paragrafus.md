@@ -1,0 +1,5 @@
+## 10. Az egészségügyi technológiák egészségbiztosítási finanszírozásba történő befogadásának alapelveiről, feltételrendszeréről és részletes szabályairól, valamint a már befogadott technológiák körének felülvizsgálatáról és módosításáról szóló 180/2010. (V. 13.) Korm. rendelet módosítása
+
+38. § Az egészségügyi technológiák egészségbiztosítási finanszírozásba történő befogadásának alapelveiről, feltételrendszeréről és részletes szabályairól, valamint a már befogadott technológiák körének felülvizsgálatáról és módosításáról szóló 180/2010. (V. 13.) Korm. rendelet [a továbbiakban: 180/2010. (V. 13.) Korm. rendelet] 11. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Ha a határozat a 6. § (5) bekezdése alapján megállapítja, hogy a technológia életmentő és finanszírozott alternatívával nem rendelkezik, az E. Alap számára megtakarítással jár, vagy a technológia befogadásához szükséges fedezet a (2) bekezdésben meghatározott időtartamot követően áll rendelkezésre, akkor a miniszter az (1) bekezdéstől eltérő időpontban is befogadhatja a technológiát.”
