@@ -1,3 +1,3 @@
-31. §[^29]
+31. § A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 326/2011. (XII. 28.) Korm. rendelet 104. § (3a) bekezdése helyébe a következő rendelkezés lép:
 
-[^29]: A 31. § a 44. § (5) bekezdés alapján 2023. július 1-jén lép hatályba.
+„(3a) A határozattal bevont – a helyszínen elvett vagy a leadott – rendszámtáblák selejtezéséről az elvétel vagy a leadás napjától számított 3 év után a közlekedési igazgatási hatóság, megsemmisítéséről a Nyilvántartó gondoskodik. Ha ezt követően az ügyfél igazolja, hogy a jármű forgalomba helyezésének akadálya nincs, kérelemre a bevont rendszámtábla ugyanazokkal a karakterekkel egy alkalommal utángyártható. Az 53. § (2) bekezdés a) pontjában meghatározott formátumú rendszámtábla esetén 53. § (2) bekezdés b) pont ba) alpontja szerinti formátumú rendszámtábla pár gyártható le.”
