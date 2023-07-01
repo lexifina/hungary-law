@@ -1,3 +1,3 @@
 ## Átmeneti rendelkezés
 
-39. §
+### 39. §

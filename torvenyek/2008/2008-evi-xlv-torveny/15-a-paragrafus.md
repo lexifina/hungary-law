@@ -6,6 +6,8 @@
 
 (3) A közjegyző a határozatait és más iratait az alkalmazáson keresztül állítja elő, illetve az alkalmazásban rögzíti. Az alkalmazáson keresztül előállított elektronikus közokiratot minősített elektronikus aláírással, illetve minősített elektronikus bélyegzővel kell ellátni.
 
+(3a) A közjegyző által elektronikus úton meghozott határozaton – a helyszíni eljárás során, valamint a székhelyén kívüli hivatali helyiségében meghozott határozat kivételével – a keltezés helyeként a közjegyző székhelyét kell feltüntetni.
+
 (4) Az eljárásban keletkezett papíralapú vagy elektronikus iratok adattartalma, valamint az egyes eljárási cselekmények megtételének ténye az alkalmazásba kerül bevitelre, illetve rögzítésre. Az alkalmazásban rögzített adatokat a közjegyző és – az alkalmazás működtetésével kapcsolatban hozzáférésre jogosult személyek titoktartási kötelezettségének biztosítása mellett – az országos kamara kezeli.
 
 (5) Az alkalmazás a közjegyző, illetve a közjegyző (közjegyzői iroda) alkalmazottja számára fenntartott műveletek elvégzését a közjegyző (alkalmazott) azonosítását követően teszi lehetővé, és naplózza. Az alkalmazásban a beadványok adatainak rögzítését – azonosítását követően – a közjegyző (közjegyzői iroda) alkalmazottja is végezheti.

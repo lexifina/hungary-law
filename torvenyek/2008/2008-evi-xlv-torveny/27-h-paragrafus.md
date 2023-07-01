@@ -16,7 +16,7 @@ d) a jogi személyek alapításával és törvényes működésével kapcsolatos
 
 e) a jogi személyek és tagjaik, volt tagjaik közötti, illetve a tagok, volt tagok egymás közötti, a tagsági jogviszonyon alapuló ügyben,
 
-f) a személyi állapotot érintő és egyéb családjogi tárgyú ügyben,
+f) a személyi állapotot érintő és egyéb családjogi tárgyú ügyben, kivéve a házassági vagyonjogi tárgyú egyezséget,
 
 g) a végrehajtási perre tartozó ügyben,
 
