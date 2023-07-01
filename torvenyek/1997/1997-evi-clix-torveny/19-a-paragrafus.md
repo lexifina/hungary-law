@@ -1,1 +1,1 @@
-19/A. § A 17. § (2) bekezdése szerinti nyilvántartás adatait és a 21. § (3) bekezdésében meghatározott adatokat a mezőgazdasági igazgatási szerv az élelmiszerlánc-felügyeleti információs rendszerben kezeli.
+### 19/A. §
