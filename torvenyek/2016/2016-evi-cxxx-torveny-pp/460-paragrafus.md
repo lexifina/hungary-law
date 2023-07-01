@@ -4,4 +4,8 @@
 
 (2) Az elsőfokú bíróságnak a házasság érvénytelenítése iránt indított perben hozott ítéletét az ügyésszel akkor is közölni kell, ha a perben nem vett részt, és az ügyész az ítélet ellen ilyenkor is fellebbezhet.
 
-(3) Az elsőfokú bíróság a keresetnek helyt adó ítélet jogerőre emelkedése után a statisztikai jogszabályok szerinti népmozgalmi adatokat tartalmazó adatlapot közli az illetékes anyakönyvvezetővel.
+(3) Az elsőfokú bíróság a keresetnek helyt adó ítélet jogerőre emelkedése után
+
+a) az anyakönyvi eljárásról szóló törvényben foglalt adatokat megküldi az illetékes anyakönyvvezetőnek, valamint
+
+b) a hivatalos statisztikáról szóló törvényben és annak végrehajtásáról szóló rendeletben meghatározottak szerint – az illetékes anyakönyvvezető útján – teljesíti a népmozgalmi statisztikai adatszolgáltatási kötelezettségét.

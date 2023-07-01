@@ -16,7 +16,7 @@ c) a bírósági letétkezelésre,
 
 d) a tanú által a peres és nemperes eljárásban felszámítható költségekre,
 
-e) az elővezetés végrehajtásával felmerült költség mértékére, megtérítésére,
+e) az elővezetés végrehajtásával felmerült, a Rendőrségről szóló törvény alapján igazolt költség megtérítésére,
 
 f) – az informatikáért felelős miniszterrel egyetértésben, az Országos Bírósági Hivatal elnöke véleményének kikérésével –a tárgyalás (meghallgatás) elektronikus hírközlő hálózat útján történő megtartására,
 
@@ -29,5 +29,3 @@ i) – az állami vagyon felügyeletéért felelős miniszterrel egyetértésben
 j) a költségjegyzék tartalmára, vezetésére és benyújtására,
 
 k) a feljegyzett illeték és az állam által előlegezett, továbbá a bírósági szervezet érdekkörében felmerült költség megfizetésére,
-
-l) – az adópolitikáért felelős miniszterrel egyetértésben – az ítéletről és az ítélettel szembeni perorvoslat során hozott, az alsóbb fokú bíróságot új eljárásra és új határozat hozatalára utasító végzésről adott anonimizált másolat bíróságnak fizetendő díjára,
