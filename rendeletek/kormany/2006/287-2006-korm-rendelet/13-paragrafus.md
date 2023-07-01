@@ -40,6 +40,16 @@
 
 (18)[^41] Az intézményi előjegyzési lista tekintetében a 12/B. §-t, az (1a)–(11) és a (17) bekezdést, a 13/B. § (2) bekezdését, a 13/C. §-t, a 13/D. § (2) bekezdését és a 13/E. §-t alkalmazni kell.
 
+(19)[^42] A beteg intézményi várólistára történő felvételével egyidejűleg, a kapcsolódó ellátásról a beteg rendelkezésére bocsátandó dokumentumra rá kell vezetni az Ebtv. 20/A. § (5) bekezdése szerint képzett egyedi azonosítót, a tervezett ellátási időpontot.
+
+(20)[^43] A beteg intézményi előjegyzési listára történő felvételével egyidejűleg, a kapcsolódó ellátásról a beteg rendelkezésére bocsátandó dokumentumra rá kell vezetni az Ebtv. 20/A. § (5) bekezdése szerint képzett egyedi azonosítót, a beteg részére a listára vétel időpontjában az adott szolgáltatónál az adott várólistán kiadható legkorábbi tervezhető ellátási időpontot. Ha a tervezett ellátási időpont kijelölésére az Ebtv. 20. § (3a) bekezdés e) pontja alapján került sor, a dokumentumnak tartalmaznia kell a beteg aláírásával hitelesített, erre vonatkozó nyilatkozatát.
+
+(21)[^44] Az intézményi várólistához és előjegyzési listához kapcsolódó tájékoztatási és eljárási kötelezettség teljesítését a beteg dokumentációiba be kell jegyezni.
+
+(22)[^45] Ha az adott egészségügyi szolgáltatónál a várólistára felvételre kerülő személy nem részesíthető az egészségi állapota által indokolt legrövidebb időn belül a szükséges ellátásban, a beteg ellátásáról szóló dokumentációban, a beteg aláírásával igazolva, rögzíteni szükséges az egészségügyről szóló 1997. évi CLIV. törvény 9. § (1) bekezdése szerinti tájékoztatást arról, hogy az ellátás korábbi időpontban hol vehető igénybe.
+
+(23)[^46] A beteg kezelőorvosa a (22) bekezdés szerinti esetben a beteg ellátásának érdekében, a beteg jóváhagyása szerint, lefolytatja a szükséges egyeztetést a várólisták közötti áthelyezésről, amelynek eredményét a beteg dokumentációjában és az intézményi várólista rendszerben ezzel egyidejűleg dokumentálni szükséges.
+
 [^34]: A 13. § a 92/2012. (IV. 27.) Korm. rendelet 18. §-ával megállapított szöveg.
 [^35]: A 13. § (1a) bekezdését a 447/2012. (XII. 29.) Korm. rendelet 45. §-a iktatta be.
 [^36]: A 13. § (10a) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 35. §-a iktatta be.
@@ -48,3 +58,8 @@
 [^39]: A 13. § (16a) bekezdését a 630/2022. (XII. 30.) Korm. rendelet 17. §-a iktatta be.
 [^40]: A 13. § (17) bekezdése a 630/2022. (XII. 30.) Korm. rendelet 18. §-a szerint módosított szöveg.
 [^41]: A 13. § (18) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 43. § (2) bekezdése iktatta be.
+[^42]: A 13. § (19) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 29. §-a iktatta be.
+[^43]: A 13. § (20) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 29. §-a iktatta be.
+[^44]: A 13. § (21) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 29. §-a iktatta be.
+[^45]: A 13. § (22) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 29. §-a iktatta be.
+[^46]: A 13. § (23) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 29. §-a iktatta be.
