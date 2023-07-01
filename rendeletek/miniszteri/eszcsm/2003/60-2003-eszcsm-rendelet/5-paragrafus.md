@@ -8,7 +8,9 @@ ab) a háziorvosi, házi gyermekorvosi alapellátás elemeként történő ápol
 
 elnevezés használatára jogosult;
 
-b)[^28] a járóbeteg-szakellátás körében
+ac)[^28] a betegek otthonában a kórházi ellátást kiváltó szakápolási feladatok esetén az otthoni szakápolási szolgálat,
+
+b)[^29] a járóbeteg-szakellátás körében
 
 ba) a járóbeteg-szakellátás általános szintjén működő egészségügyi szolgáltatás esetén a szakrendelés,
 
@@ -26,33 +28,33 @@ bg) kizárólag a beteg vizsgálati anyagainak feldolgozását végző egészsé
 
 bh) kizárólag a kórisme felállítása, illetve megerősítése céljából speciális vizsgálat végzésére szakosodott egészségügyi szolgáltató esetén a diagnosztikai központ,
 
-bi)[^29] a betegek otthonában a kórházi ellátást kiváltó szakápolási feladatok esetén az otthoni szakápolási szolgálat, a haldokló beteg otthonában történő gondozásával kapcsolatos egészségügyi tevékenység végzése esetén a hospice szolgálat,
+bi)[^30] a haldokló beteg otthonában történő gondozásával kapcsolatos egészségügyi tevékenység végzése esetén a hospice szolgálat,
 
 bj) a kizárólag egészségügyi szakdolgozó által nyújtott ellátást végző egészségügyi szolgáltató esetén az adott egészségügyi szakma vagy szakképesítés
 
 elnevezés használatára jogosult;
 
-c)[^30] a fekvőbeteg-szakellátás körében
+c)[^31] a fekvőbeteg-szakellátás körében
 
 ca) krónikus, rehabilitációs vagy folyamatos orvosi felügyeletet nem igénylő ápolási, szakápolási szolgáltatás nyújtása esetén az adott ellátási formában működő intézet,
 
 cb) több szakmai főcsoportba tartozó szakmában aktív és krónikus, illetve aktív vagy krónikus betegellátást nyújtó, diagnosztikai háttérrel működő egészségügyi szolgáltató esetén a kórház,
 
-cc)[^31] a népegészségügyi szempontból kiemelkedő jelentőségű szakmacsoportokon belül speciális, magas szintű szakmai tudás rendelkezésre állása, és az ahhoz kapcsolódó gyógyító, módszertani, epidemiológiai, szervezési, kutatási és oktatási tevékenység gyakorlása esetén az országos gyógyintézet,
+cc)[^32] a népegészségügyi szempontból kiemelkedő jelentőségű szakmacsoportokon belül speciális, magas szintű szakmai tudás rendelkezésre állása, és az ahhoz kapcsolódó gyógyító, módszertani, epidemiológiai, szervezési, kutatási és oktatási tevékenység gyakorlása esetén az országos gyógyintézet,
 
-cd)[^32] ha az egészségügyi szolgáltató a cc) alpont szerinti tevékenységeket részleges formában, az adott szakmacsoport országos gyógyintézetével együttműködve gyakorolja, az országos társ-gyógyintézet,
+cd)[^33] ha az egészségügyi szolgáltató a cc) alpont szerinti tevékenységeket részleges formában, az adott szakmacsoport országos gyógyintézetével együttműködve gyakorolja, az országos társ-gyógyintézet,
 
-ce)[^33] ha azt az orvostudományi vagy egészségtudományi képzést folytató egyetem részeként látja el, a klinika
+ce)[^34] ha azt az orvostudományi vagy egészségtudományi képzést folytató egyetem részeként látja el, a klinika
 
 elnevezés használatára jogosult;
 
-d)[^34] amennyiben egy szakterületen legalább 5 napon keresztül napi 6 órában biztosítja a 4. § (1) bekezdése szerinti feltételeket – azzal, hogy csak a beteg nappali elhelyezésére szolgáló helyiség biztosítása szükséges –, a nappali kórház elnevezés használatára jogosult;
+d)[^35] amennyiben egy szakterületen legalább 5 napon keresztül napi 6 órában biztosítja a 4. § (1) bekezdése szerinti feltételeket – azzal, hogy csak a beteg nappali elhelyezésére szolgáló helyiség biztosítása szükséges –, a nappali kórház elnevezés használatára jogosult;
 
-e)[^35] amennyiben a ritka betegségben szenvedő betegek diagnosztikai és terápiás ellátását végző más, ritka betegségeket ellátó járó- és fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltatókkal együttműködik, a betegutak megszervezését biztosítja, speciális, multidiszciplináris szolgáltatást nyújt, a betegellátási tevékenységen túl kutatási és oktatási tevékenységet végez, valamint a ritka betegségben szenvedő betegek és az elérhető szolgáltatások regisztrációját végzi, az egészségügyért felelős miniszter (a továbbiakban: miniszter) kijelölése alapján a Ritka Betegségek Szakértői Központ elnevezés használatára jogosult.
+e)[^36] amennyiben a ritka betegségben szenvedő betegek diagnosztikai és terápiás ellátását végző más, ritka betegségeket ellátó járó- és fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltatókkal együttműködik, a betegutak megszervezését biztosítja, speciális, multidiszciplináris szolgáltatást nyújt, a betegellátási tevékenységen túl kutatási és oktatási tevékenységet végez, valamint a ritka betegségben szenvedő betegek és az elérhető szolgáltatások regisztrációját végzi, az egészségügyért felelős miniszter (a továbbiakban: miniszter) kijelölése alapján a Ritka Betegségek Szakértői Központ elnevezés használatára jogosult.
 
-(2)[^36] Az (1) bekezdés c) pont cc) és cd) alpontja alapján működő, állami fenntartásban és tulajdonban álló országos gyógyintézetek és országos társ-gyógyintézetek körét az 5. melléklet határozza meg.
+(2)[^37] Az (1) bekezdés c) pont cc) és cd) alpontja alapján működő, állami fenntartásban és tulajdonban álló országos gyógyintézetek és országos társ-gyógyintézetek körét az 5. melléklet határozza meg.
 
-(2a)[^37] A (2) bekezdés szerinti országos gyógyintézet és országos társ-gyógyintézet
+(2a)[^38] A (2) bekezdés szerinti országos gyógyintézet és országos társ-gyógyintézet
 
 a) a miniszter és a miniszter irányítása alá tartozó intézmények felkérésére véleményt nyilvánít, és szakterületén javaslatot tesz, valamint jogszabályban foglalt esetben szakvéleményt ad
 
@@ -80,26 +82,27 @@ g) tevékenységéről, egészségügyi-szakmai fejlesztési javaslatairól éve
 
 h) szakterületén jogszabályban meghatározottak szerint közreműködik a határon túli magyar betegek ellátásában.
 
-(2b)[^38] Az országos társ-gyógyintézet országos gyógyintézeti feladatait az illetékes 5. mellékletben meghatározott országos gyógyintézettel szakmai együttműködésben teljesíti oly módon, hogy az együttműködés tartalmáról megállapodást kötnek.
+(2b)[^39] Az országos társ-gyógyintézet országos gyógyintézeti feladatait az illetékes 5. mellékletben meghatározott országos gyógyintézettel szakmai együttműködésben teljesíti oly módon, hogy az együttműködés tartalmáról megállapodást kötnek.
 
-(2c)[^39] A (2) bekezdés szerinti országos gyógyintézet és országos társ-gyógyintézet transzlációs gyógyászati tevékenységet is folytatnak, ennek során más tudományágak és technológiák eredményeinek, valamint az alapkutatási eredmények átültetését felhasználva előmozdítják az egészségügyi tevékenység végzése során a prevenciót, a diagnosztikai vizsgálatokat, a betegek ellátását, az oktatást és a tudományos kutatást.
+(2c)[^40] A (2) bekezdés szerinti országos gyógyintézet és országos társ-gyógyintézet transzlációs gyógyászati tevékenységet is folytatnak, ennek során más tudományágak és technológiák eredményeinek, valamint az alapkutatási eredmények átültetését felhasználva előmozdítják az egészségügyi tevékenység végzése során a prevenciót, a diagnosztikai vizsgálatokat, a betegek ellátását, az oktatást és a tudományos kutatást.
 
-(3)[^40] Az Eütv. 3. § g) pont ga) alpontja szerinti egészségügyi szolgáltató az (1) bekezdés b) és c) pontja szerinti elnevezése mellett a gyógyintézet elnevezés használatára is jogosult.
+(3)[^41] Az Eütv. 3. § g) pont ga) alpontja szerinti egészségügyi szolgáltató az (1) bekezdés b) és c) pontja szerinti elnevezése mellett a gyógyintézet elnevezés használatára is jogosult.
 
-(4)[^41] Az (1) bekezdés d) pontja tekintetében nappali ellátás keretében egyes – az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló miniszteri rendeletben meghatározott – kúraszerű, illetve rehabilitációs ellátások is nyújthatók. A nappali ellátás keretében az étkezés biztosítása az elvégzett beavatkozás időtartamának függvényében, illetve a beteg egészségi állapotának figyelembevételével szükséges.
+(4)[^42] Az (1) bekezdés d) pontja tekintetében nappali ellátás keretében egyes – az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló miniszteri rendeletben meghatározott – kúraszerű, illetve rehabilitációs ellátások is nyújthatók. A nappali ellátás keretében az étkezés biztosítása az elvégzett beavatkozás időtartamának függvényében, illetve a beteg egészségi állapotának figyelembevételével szükséges.
 
 [^27]: Az 5. § (1) bekezdés a) pontja a 27/2012. (IX. 18.) EMMI rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^28]: Az 5. § (1) bekezdés b) pontja az 1/2012. (V. 31.) EMMI rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^29]: Az 5. § (1) bekezdés b) pont bi) alpontja a 27/2012. (IX. 18.) EMMI rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^30]: Az 5. § (1) bekezdés c) pontja az 1/2012. (V. 31.) EMMI rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^31]: Az 5. § (1) bekezdés c) pont cc) alpontja a 38/2017. (XII. 29.) EMMI rendelet 2. § (1) bekezdésvel megállapított szöveg.
-[^32]: Az 5. § (1) bekezdés c) pont cd) alpontja a 38/2017. (XII. 29.) EMMI rendelet 2. § (1) bekezdésvel megállapított szöveg.
-[^33]: Az 5. § (1) bekezdés c) pont ce) alpontját a 38/2017. (XII. 29.) EMMI rendelet 2. § (2) bekezdése iktatta be.
-[^34]: Az 5. § (1) bekezdés d) pontja a 27/2012. (IX. 18.) EMMI rendelet 6. § (3) bekezdésével megállapított szöveg.
-[^35]: Az 5. § (1) bekezdés e) pontját a 73/2013. (XII. 2.) EMMI rendelet 2. §-a iktatta be, szövege a 47/2018. (XII. 21.) EMMI rendelet 1. § (2) bekezdése szerint módosított szöveg.
-[^36]: Az 5. § (2) bekezdését az 1/2012. (V. 31.) EMMI rendelet 11. § c) pontja hatályon kívül helyezte, újonnan a 38/2017. (XII. 29.) EMMI rendelet 2. § (3) bekezdése iktatta be.
-[^37]: Az 5. § (2a) bekezdését a 47/2018. (XII. 21.) EMMI rendelet 1. § (1) bekezdése iktatta be.
-[^38]: Az 5. § (2b) bekezdését a 47/2018. (XII. 21.) EMMI rendelet 1. § (1) bekezdése iktatta be.
-[^39]: Az 5. § (2c) bekezdését a 47/2018. (XII. 21.) EMMI rendelet 1. § (1) bekezdése iktatta be.
-[^40]: Az 5. § (3) bekezdése az 1/2012. (V. 31.) EMMI rendelet 10. § d) pontja szerint módosított szöveg.
-[^41]: Az 5. § (4) bekezdését a 29/2010. (XII. 30.) NEFMI rendelet 8. §-a iktatta be, szövege az 1/2012. (V. 31.) EMMI rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^28]: Az 5. § (1) bekezdés a) pont ac) alpontját a 23/2023. (VI. 30.) BM rendelet 12. §-a iktatta be.
+[^29]: Az 5. § (1) bekezdés b) pontja az 1/2012. (V. 31.) EMMI rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^30]: Az 5. § (1) bekezdés b) pont bi) alpontja a 27/2012. (IX. 18.) EMMI rendelet 6. § (2) bekezdésével megállapított, a 23/2023. (VI. 30.) BM rendelet 15. §-a szerint módosított szöveg.
+[^31]: Az 5. § (1) bekezdés c) pontja az 1/2012. (V. 31.) EMMI rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^32]: Az 5. § (1) bekezdés c) pont cc) alpontja a 38/2017. (XII. 29.) EMMI rendelet 2. § (1) bekezdésvel megállapított szöveg.
+[^33]: Az 5. § (1) bekezdés c) pont cd) alpontja a 38/2017. (XII. 29.) EMMI rendelet 2. § (1) bekezdésvel megállapított szöveg.
+[^34]: Az 5. § (1) bekezdés c) pont ce) alpontját a 38/2017. (XII. 29.) EMMI rendelet 2. § (2) bekezdése iktatta be.
+[^35]: Az 5. § (1) bekezdés d) pontja a 27/2012. (IX. 18.) EMMI rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^36]: Az 5. § (1) bekezdés e) pontját a 73/2013. (XII. 2.) EMMI rendelet 2. §-a iktatta be, szövege a 47/2018. (XII. 21.) EMMI rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^37]: Az 5. § (2) bekezdését az 1/2012. (V. 31.) EMMI rendelet 11. § c) pontja hatályon kívül helyezte, újonnan a 38/2017. (XII. 29.) EMMI rendelet 2. § (3) bekezdése iktatta be.
+[^38]: Az 5. § (2a) bekezdését a 47/2018. (XII. 21.) EMMI rendelet 1. § (1) bekezdése iktatta be.
+[^39]: Az 5. § (2b) bekezdését a 47/2018. (XII. 21.) EMMI rendelet 1. § (1) bekezdése iktatta be.
+[^40]: Az 5. § (2c) bekezdését a 47/2018. (XII. 21.) EMMI rendelet 1. § (1) bekezdése iktatta be.
+[^41]: Az 5. § (3) bekezdése az 1/2012. (V. 31.) EMMI rendelet 10. § d) pontja szerint módosított szöveg.
+[^42]: Az 5. § (4) bekezdését a 29/2010. (XII. 30.) NEFMI rendelet 8. §-a iktatta be, szövege az 1/2012. (V. 31.) EMMI rendelet 4. § (2) bekezdése szerint módosított szöveg.

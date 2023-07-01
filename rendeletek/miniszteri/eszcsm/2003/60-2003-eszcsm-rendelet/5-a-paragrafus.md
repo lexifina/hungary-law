@@ -1,4 +1,4 @@
-5/A. §[^42] (1) Az Eütv. 92/A. § (1) bekezdése szerinti városi kórház a belgyógyászat, a sebészet, a szülészet-nőgyógyászat és a sürgősségi betegellátó egységben szervezett szakellátás szakmák közül legalább kettőben a részére irányadó progresszivitási szinten az adott szakmában egészségügyi ellátást nyújt.
+5/A. §[^43] (1) Az Eütv. 92/A. § (1) bekezdése szerinti városi kórház a belgyógyászat, a sebészet, a szülészet-nőgyógyászat és a sürgősségi betegellátó egységben szervezett szakellátás szakmák közül legalább kettőben a részére irányadó progresszivitási szinten az adott szakmában egészségügyi ellátást nyújt.
 
 (2) Az Eütv. 92/A. § (2) bekezdése szerinti vármegyei kórház az alábbi szakmák közül legalább ötben a részére irányadó progresszivitási szinten az adott szakmában egészségügyi ellátást nyújt:
 
@@ -44,4 +44,4 @@
 
 21. sürgősségi betegellátó egységben szervezett szakellátás
 
-[^42]: Az 5/A. §-t a 82/2022. (XII. 30.) BM rendelet 3. §-a iktatta be.
+[^43]: Az 5/A. §-t a 82/2022. (XII. 30.) BM rendelet 3. §-a iktatta be.
