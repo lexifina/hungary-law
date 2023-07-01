@@ -1,3 +1,3 @@
-## 29. §[^29]
+30. §[^31]
 
-[^29]: A 29. §-t a 220/2014. (VIII. 29.) Korm. rendelet 27. § c) pontja hatályon kívül helyezte.
+[^31]: A 30. §-t a 170/2016. (VII. 1.) Korm. rendelet 3. § d) pontja hatályon kívül helyezte.
