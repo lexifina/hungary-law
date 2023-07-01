@@ -6,7 +6,7 @@
 
 | „Alap” | „Alap” | „Alap” |
 
-3. számú melléklet a 86/1996. (VI. 14.) Korm. rendelethez[^172]
+3. számú melléklet a 86/1996. (VI. 14.) Korm. rendelethez[^173]
 
 ## Az okmányvédelmi terv tartalmi minimumkövetelményei
 
@@ -44,4 +44,4 @@ c) megszemélyesítési minták (az összes előforduló variációban)
 
 II. Konzorciumban vagy alvállalkozó bevonásával történő előállítás esetén egyértelműen jelölni kell, hogy mely okmányalkatrészt melyik technológiai fázisban melyik előállító készíti.
 
-[^172]: A 3. számú mellékletet a 312/2015. (X. 28.) Korm. rendelet 14. § (4) bekezdése iktatta be.
+[^173]: A 3. számú mellékletet a 312/2015. (X. 28.) Korm. rendelet 14. § (4) bekezdése iktatta be.
