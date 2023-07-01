@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-388-20-
 | 2022-01-01 | 2017-388-20-22.16 | 662/2021. (XI. 30.) Korm. rendelet |
 | 2022-12-31 | 2017-388-20-22.17 | 581/2022. (XII. 23.) Korm. rendelet |
 | 2023-01-01 | 2017-388-20-22.18 | 581/2022. (XII. 23.) Korm. rendelet |
+| 2023-07-01 | 2017-388-20-22.19 | 581/2022. (XII. 23.) Korm. rendelet |
