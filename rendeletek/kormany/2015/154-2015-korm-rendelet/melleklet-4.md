@@ -26,6 +26,6 @@
 
 | 12. | Országos Idegenrendészeti Főigazgatóság | „rendőr” | „r.” |
 
-4. melléklet a 154/2015. (VI. 19.) Korm. rendelethez[^58]
+4. melléklet a 154/2015. (VI. 19.) Korm. rendelethez[^61]
 
-[^58]: A 4. melléklet a 394/2015. (XII. 12.) Korm. rendelet 8. § (3) bekezdése, a 217/2016. (VII. 22.) Korm. rendelet 52. §-a, a 272/2018. (XII. 20.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^61]: A 4. melléklet a 394/2015. (XII. 12.) Korm. rendelet 8. § (3) bekezdése, a 217/2016. (VII. 22.) Korm. rendelet 52. §-a, a 272/2018. (XII. 20.) Korm. rendelet 5. §-a, a 280/2023. (VI. 29.) Korm. rendelet 40. §-a és 41. § c) pontja szerint módosított szöveg.

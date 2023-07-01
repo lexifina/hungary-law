@@ -4,7 +4,7 @@
 
 | 2. | Országos Idegenrendészeti Főigazgatóság | – | – |
 
-2. melléklet a 154/2015. (VI. 19.) Korm. rendelethez[^56]
+2. melléklet a 154/2015. (VI. 19.) Korm. rendelethez[^59]
 
 A rendvédelmi szervek önálló állománytáblázattal rendelkező szervezeti egységei és az állományilletékes parancsnokok
 
@@ -146,4 +146,4 @@ X. Nemzeti Információs Központ
 
 XI. Idegenrendészeti szerv
 
-[^56]: A 2. melléklet a 394/2015. (XII. 12.) Korm. rendelet 8. § (2) bekezdése, a 186/2016. (VII. 13.) Korm. rendelet 14. §-a, a 227/2016. (VII. 29.) Korm. rendelet 8. § b) pontja, a 350/2016. (XI. 18.) Korm. rendelet 20. § (3) bekezdés b) pontja, a 126/2019. (V. 30.) Korm. rendelet 24. § (2) bekezdése, a 308/2020. (VI. 30.) Korm. rendelet 2. § b) pontja, a 239/2022. (VI. 30.) Korm. rendelet 26. § b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 212. § a) pontja, a 628/2022. (XII. 30.) Korm. rendelet 39. § (2) és (3) bekezdése szerint módosított szöveg.
+[^59]: A 2. melléklet a 394/2015. (XII. 12.) Korm. rendelet 8. § (2) bekezdése, a 186/2016. (VII. 13.) Korm. rendelet 14. §-a, a 227/2016. (VII. 29.) Korm. rendelet 8. § b) pontja, a 350/2016. (XI. 18.) Korm. rendelet 20. § (3) bekezdés b) pontja, a 126/2019. (V. 30.) Korm. rendelet 24. § (2) bekezdése, a 308/2020. (VI. 30.) Korm. rendelet 2. § b) pontja, a 239/2022. (VI. 30.) Korm. rendelet 26. § b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 212. § a) pontja, a 628/2022. (XII. 30.) Korm. rendelet 39. § (2) és (3) bekezdése szerint módosított szöveg.

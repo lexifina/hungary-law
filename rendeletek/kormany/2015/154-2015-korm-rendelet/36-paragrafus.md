@@ -40,6 +40,6 @@ d) külföldi állomáshelyén betöltendő munkakörének megnevezését, munka
 
 (4) Az (1)–(3) bekezdés rendelkezéseit kell alkalmazni akkor is, ha a külföldre vezénylés alatt a hivatásos állomány tagjának más külföldi állomáshelyre történő áthelyezése miatt a külföldre vezénylés módosítása szükséges. Ebben az esetben a külföldre vezénylést módosító okiratban az (1) bekezdés 4. pontja szerinti, a tartós külszolgálat kezdő időpontja mellett a más külföldi állomáshelyre történő áthelyezés napját is fel kell tüntetni.
 
-(5)[^42]
+(5)[^45]
 
-[^42]: A 36. § (5) bekezdését a 394/2015. (XII. 12.) Korm. rendelet 9. § (3) bekezdés b) pontja hatályon kívül helyezte.
+[^45]: A 36. § (5) bekezdését a 394/2015. (XII. 12.) Korm. rendelet 9. § (3) bekezdés b) pontja hatályon kívül helyezte.

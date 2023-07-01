@@ -10,7 +10,7 @@
 
 | 3a. | Hivatásos állományba vétel más rendvédelmi szervtől vagy a Magyar Honvédségtől történő áthelyezés esetén | országos parancsnok |
 
-| 4. | Szolgálati viszony megszüntetése kiemelt vezetői szolgálati beosztást betöltő esetében | miniszter |
+| 4. | A köztársasági elnök jogkörébe nem tartozó szolgálati viszony megszüntetése kiemelt vezetői szolgálati beosztást betöltő esetében | miniszter |
 
 | 5. | Szolgálati viszony megszüntetése főtiszti, tiszti rendfokozati állománycsoportba tartozó esetében | országos parancsnok, |
 
@@ -40,7 +40,9 @@
 
 | 17. | III. Vezénylés, szolgálati beosztásra vonatkozó döntések |  |
 
-| 18. | Kiemelt vezetői szolgálati beosztásba történő kinevezés, megbízás, kinevezés és megbízás visszavonása | miniszter |
+| 18. | Kiemelt vezetői szolgálati beosztás esetében kinevezés, megbízás és átrendelés, a kinevezés, megbízás és átrendelés visszavonása, valamint a nyugdíj előtti rendelkezési állományba helyezés | miniszter |
+
+| 18a. | a Hszt. 114. § (2) bekezdés a) pont aa) és ab) alpontja szerinti kiemelt vezetők esetében a Hszt. 45. § (1) bekezdése alapján a kinevezési okmányban meghatározott, szolgálati viszonyra vonatkozó lényeges adatokkal összefüggő szolgálati viszony módosítása | miniszter |
 
 | 19. | Szakirányító 1, szakirányító 2 és főosztályvezető 1 szolgálati beosztásba történő kinevezés, megbízás, kinevezés és megbízás visszavonása | országos parancsnok, országos főigazgató |
 
@@ -82,7 +84,7 @@
 
 ## e) a 21. sorban meghatározottaktól eltérően a más szervhez vezénylés.
 
-4/A. melléklet a 154/2015. (VI. 19.) Korm. rendelethez[^59]
+4/A. melléklet a 154/2015. (VI. 19.) Korm. rendelethez[^62]
 
 I. A 32/E. § (3) bekezdése szerinti alapellátmány mértéke
 
@@ -158,4 +160,4 @@ III. A 32/E. § (5) bekezdése szerinti beosztási pótlék mértéke
 
 IV. A 32/I. § (2) bekezdése és a 32/J. § (2) bekezdése szerinti kiküldetési ellátmány mértéke
 
-[^59]: A 4/A. mellékletet a 442/2015. (XII. 28.) Korm. rendelet 5. §-a iktatta be, szövege a 272/2018. (XII. 20.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
+[^62]: A 4/A. mellékletet a 442/2015. (XII. 28.) Korm. rendelet 5. §-a iktatta be, szövege a 272/2018. (XII. 20.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
