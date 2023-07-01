@@ -1,4 +1,4 @@
-6. melléklet[^29]
+6. melléklet[^22]
 
 ÉPC-HK 1. telephely, székhely
 
@@ -20,4 +20,4 @@ A Hévíz 1083 hrsz.-ú „kivett üdülőépület és udvar” hrsz.-ú termés
 
 A Balatonfüred 360/2 hrsz.-ú „kivett kórház” művelési ágú, természetben a Balatonfüred, Szabadság u. 5. szám alatti ingatlan.
 
-[^29]: A 6. mellékletet az 570/2022. (XII. 23.) Korm. rendelet 14. § (4) bekezdése iktatta be.
+[^22]: A 6. mellékletet az 570/2022. (XII. 23.) Korm. rendelet 14. § (4) bekezdése iktatta be.

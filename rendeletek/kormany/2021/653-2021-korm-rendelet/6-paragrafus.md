@@ -1,7 +1,5 @@
-## 5. Az országos gyógyintézetnek, az országos társgyógyintézetnek, valamint a több ágazat irányítása alá tartozó országos gyógyintézetnek minősülő egészségügyi intézmények
+## 5.[^5]
 
-6. § (1) Az országos gyógyintézetek és az országos társgyógyintézetek körét az 5. melléklet tartalmazza.
+6. §
 
-(2) Az országos gyógyintézetek és az országos társgyógyintézetek irányítására az egészségügyről szóló törvény rendelkezéseit kell alkalmazni.
-
-(3) Az 5. melléklet határozza meg, hogy az országos társgyógyintézetek irányítási szempontból melyik országos gyógyintézethez tartoznak.
+[^5]: Az 5. alcímet (6-7. §-t) a 285/2023. (VI. 30.) Korm. rendelet 11. §-a hatályon kívül helyezte.
