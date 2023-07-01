@@ -1,8 +1,8 @@
 99. § Az Evt.
 
-1. 11. § (8) bekezdésében a „valamint a bejelentési kötelezettségre (102. §) vonatkozó” szövegrész helyébe az „a bejelentési kötelezettségre (102. §), a jogkövetkezményekre (105/E. § – 111/A. §), valamint az erdőben folyó tevékenységtől történő eltiltásra (111/B. §) vonatkozó” szöveg,
+1.
 
-2. 12. § (4) bekezdésében a „valamint a bejelentési kötelezettségre (102. §) vonatkozó” szövegrész helyébe az „a bejelentési kötelezettségre (102. §), a jogkövetkezményekre (105/E. § – 111/A. §) valamint az erdőben folyó tevékenységtől eltiltásra (111/B. §) vonatkozó” szöveg,
+2.
 
 3. 14. § (2) bekezdés záró szövegrészében a „bejelentésére” szövegrész helyébe a „bejelentésére vagy erdőgazdálkodó hiányában a tulajdonos bejelentésére” szöveg,
 

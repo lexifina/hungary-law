@@ -12,6 +12,6 @@ d) 66/A. § (1) bekezdésében a „vadászvizsgára felkészítő és azt megel
 
 e) 74/B. § (5) bekezdésében az „a trófeabírálat során” szövegrész,
 
-f) 84. § (3) bekezdése,
+f)
 
 g) 92. § (1) bekezdés b) pontja.

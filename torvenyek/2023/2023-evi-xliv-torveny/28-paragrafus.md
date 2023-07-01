@@ -22,8 +22,4 @@ rendeletben szabályozza)
 
 ## „37. a vadászatra jogosult adatszolgáltatására vonatkozó részletes szabályokat,”
 
-(4) A Vtv. 100. § (1) bekezdés c) pontja a következő 38. alponttal egészül ki:
-
-(Felhatalmazást kap a miniszter, hogy
-
-rendeletben szabályozza)
+(4)

@@ -17,15 +17,3 @@ a) 31. § a) pontja a vegyi anyagok regisztrálásáról, értékeléséről, en
 b) 54. §-a a víz újrafelhasználására vonatkozó minimumkövetelményekről szóló, 2020. május 25-i (EU) 2020/741 európai parlamenti és a tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
-
-|
-
-Novák Katalin s. k.,
-
-köztársasági elnök
-
-|
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
