@@ -20,13 +20,13 @@
 
 | I.1.4. | Egyéb egészségügyi szolgáltató tevékenység, a közreműködői tevékenységet is ideértve – kivéve a kizárólag bejelentés alapján nyilvántartásba vett személyes közreműködőként végzett tevékenységet – megkezdéséhez szükséges működési engedélyezési eljárás telephelyenként | 30 000 Ft |
 
-| I.1.5. | Működési engedély – szakmát vagy szolgáltatást érintő, az egészségügyi szolgáltatás gyakorlásának általános feltételeiről, valamint a működési engedélyezési eljárásról szóló 96/2003. (VII. 15.) Korm. rendelet 11. § (2) bekezdése I.1.7. pontban nem említett pontjai valamelyikében bekövetkező – módosítása (helyszíni szemle nélkül) telephelyenként | 20 700 Ft |
+| I.1.5. | Működési engedély módosítása telephelyenként | 20 700 Ft |
 
-| I.1.6. | Működési engedély – szakmát vagy szolgáltatást érintő, az egészségügyi szolgáltatás gyakorlásának általános feltételeiről, valamint a működési engedélyezési eljárásról szóló 96/2003. (VII. 15.) Korm. rendelet 11. § (2) bekezdése I.1.7. pontban nem említett pontjai valamelyikében bekövetkező – módosítása (helyszíni szemle lefolytatásával) telephelyenként | 30 000 Ft |
+| I.1.6. |  |  |
 
-| I.1.7. | Működési engedély – szakmát vagy szolgáltatást nem érintő, kizárólag az egészségügyi szolgáltatás gyakorlásának általános feltételeiről, valamint a működési engedélyezési eljárásról szóló 96/2003. (VII. 15.) Korm. rendelet 11. § (2) bekezdés b), c), i) és j) pontjában foglalt adatok valamelyikére vonatkozó – adatváltozás miatti módosítása telephelyenként | 10 000 Ft |
+| I.1.7. |  |  |
 
-| I.1.8. | Személyes közreműködő és a szabadfoglalkozású tevékenységet végző hatósági nyilvántartásba vétele iránti bejelentése telephelyenként | 10 000 Ft |
+| I.1.8. | Az Eütv. 108/A. §-ában foglaltak szerinti hatósági nyilvántartásba vétel iránti bejelentés | 10 000 Ft |
 
 | I.2.1. | Működtetési jog (praxisjog) engedélyezési eljárás | 16 000 Ft |
 
@@ -126,7 +126,7 @@
 
 | IV.5. | Ivóvíz-határérték alóli eltérési engedély, vízminőségi jellemző alóli felmentés | 38 400 Ft |
 
-| IV.6. | Ivóvíz szolgáltató vízkezelése során végzendő vizsgálatokra vonatkozó vizsgálati terv jóváhagyása | 16 000 Ft |
+| IV.6. |  |  |
 
 | IV.7. |  |  |
 
@@ -430,11 +430,11 @@
 
 | XIII.1. | Zárt légterű dohányzóhely kijelölésének engedélyezése a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvény (a továbbiakban: Nvt.) 2. § (9) bekezdése alapján, az Nvt. 2. § (5) bekezdés d) és e) pontja szerinti esetekben a munkavállalók részére | 40 000 Ft |
 
-| XIII. 2. | Új adalékanyagok dohánytermék-gyártásban történő felhasználásának engedélyezése | 40 000 Ft |
+| XIII. 2. | Új adalékanyagok dohánytermék-gyártásban történő felhasználásának bejelentése, a korábban bejelentett adalékanyagra vonatkozó tanulmány elbírálása, új dohánytermék-kategóriákba tartozó dohánytermék bejelentése, dohányzási célú gyógynövénytermék bejelentése | 40 000 Ft |
 
 | XIII. 3. | A jogszabályban foglaltaktól eltérő dohányzási tilalmat jelző felirat engedélyezése | 15 000 Ft |
 
-2. melléklet az 1/2009. (I. 30.) EüM rendelethez[^14]
+2. melléklet az 1/2009. (I. 30.) EüM rendelethez[^15]
 
 |  | A | B |
 
@@ -488,4 +488,4 @@
 
 | 24 | Zala Vármegyei Kormányhivatal | 10049006-00303066-00000000 |
 
-[^14]: A 2. melléklet a 38/2018. (X. 31.) EMMI rendelet 13. §-ával megállapított, a 21/2021. (VI. 8.) EMMI rendelet 10. § (1) bekezdése, a 48/2022. (XII. 27.) BM rendelet 6. § b) pontja, az 52/2022. (XII. 27.) BM rendelet 18. §-a szerint módosított szöveg.
+[^15]: A 2. melléklet a 38/2018. (X. 31.) EMMI rendelet 13. §-ával megállapított, a 21/2021. (VI. 8.) EMMI rendelet 10. § (1) bekezdése, a 48/2022. (XII. 27.) BM rendelet 6. § b) pontja, az 52/2022. (XII. 27.) BM rendelet 18. §-a szerint módosított szöveg.

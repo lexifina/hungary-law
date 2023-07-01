@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-1-20-0B
 | 2022-07-31 | 2009-1-20-0B.21 | 34/2009. (X. 20.) EüM rendelet |
 | 2022-12-28 | 2009-1-20-0B.23 | 38/2018. (X. 31.) EMMI rendelet |
 | 2023-01-01 | 2009-1-20-0B.22 | 23/2015. (IV. 28.) EMMI rendelet |
+| 2023-07-01 | 2009-1-20-0B.24 | 34/2009. (X. 20.) EüM rendelet |
