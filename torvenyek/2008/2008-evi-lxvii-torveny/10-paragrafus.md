@@ -46,6 +46,6 @@
 
 11.2. a vízgazdálkodásról szóló törvény szerinti nem közművel összegyűjtött háztartási szennyvíz begyűjtésére feljogosított közszolgáltató,
 
-11.3. a hulladékról szóló törvény szerinti hulladékgazdálkodási közszolgáltatást végző közszolgáltató.
+11.3. a hulladékról szóló törvény szerinti hulladékgazdálkodási közszolgáltatási résztevékenységet végző gazdálkodó szervezet.
 
 12. elektromos töltőállomás: olyan eszköz, amely alkalmas egy elektromos gépjármű energiatárolójának töltésére vagy cseréjére.

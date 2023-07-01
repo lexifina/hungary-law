@@ -28,3 +28,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-67-00-00
 | 2021-06-10 | 2021. évi LXIX. törvény | 2008-67-00-00.26 |
 | 2022-07-28 | 2022. évi XXIV. törvény | 2008-67-00-00.27 |
 | 2022-12-24 | 2022. évi XLV. törvény | 2008-67-00-00.28 |
+| 2023-07-01 | 2023. évi XLV. törvény | 2008-67-00-00.29 |
