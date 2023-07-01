@@ -1,4 +1,4 @@
-8. § (1) A munkaszerződéstől eltérő foglalkoztatás esetén az egészségügyi szolgálati munkaszerződésnek tartalmaznia kell, hogy a kirendelés időtartama tizenkét hónapos időszak alatt összesen a negyvennégy beosztás szerinti munkanapot vagy háromszázötvenkét órát nem haladhatja meg.
+8. § (1)[^12]
 
 (2) Az egészségügyi szolgálati munkaszerződés tartalmazza, hogy nem rendelhető ki az egészségügyi szolgálati jogviszonyban álló személy
 
@@ -31,3 +31,5 @@ d) a kirendelés idejére járó illetményéről,
 e) a kirendeléshez kapcsolódó szállási és utazási kérdésekről.
 
 (5) A kirendelt egészségügyi szolgálati jogviszonyban álló személy a (4) bekezdés szerinti tájékoztatást követő három munkanapon belül köteles jelezni, ha a kirendelés a (2) vagy (3) bekezdésbe ütközik, vagy számára aránytalan sérelemmel járna.
+
+[^12]: A 8. § (1) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 58. § a) pontja hatályon kívül helyezte.
