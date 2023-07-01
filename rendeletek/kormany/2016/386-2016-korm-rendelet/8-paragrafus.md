@@ -68,6 +68,10 @@ b) az Európai Egészségbiztosítási Kártya kibocsátásával
 
 kapcsolatos feladatok ellátására.
 
+(7)[^38] A Kormány egészségbiztosítóként a kormányhivatalt és a Központot jelöli ki a társadalombiztosítás pénzügyi alapjainak és a társadalombiztosítás szerveinek állami felügyeletéről szóló 1998. évi XXXIX. törvény 9. § (18) bekezdése és az Ebtv. 79/B. §-a szerinti nyilvántartások vezetésére.
+
+(8)[^39] A Kormány egészségbiztosítóként a Központot jelöli ki a társadalombiztosítás pénzügyi alapjainak és a társadalombiztosítás szerveinek állami felügyeletéről szóló 1998. évi XXXIX. törvény 9. § (11) és (13) bekezdésében foglalt feladatok ellátására.
+
 [^30]: A 8. § (1) bekezdése a 827/2021. (XII. 28.) Korm. rendelet 29. §-ával megállapított szöveg.
 [^31]: A 8. § (3) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 162. § (1) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^32]: A 8. § (3) bekezdés c) pontja a 316/2020. (VII. 1.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
@@ -76,3 +80,5 @@ kapcsolatos feladatok ellátására.
 [^35]: A 8. § (4) bekezdés h) pontja a 316/2020. (VII. 1.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
 [^36]: A 8. § (5) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 162. § (1) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^37]: A 8. § (6) bekezdését a 155/2018. (IX. 3.) Korm. rendelet 5. §-a iktatta be, nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 162. § (1) bekezdés g) pontja, a 616/2022. (XII. 29.) Korm. rendelet 246. § b) pontja, a 60/2023. (II. 28.) Korm. rendelet 37. §-a szerint módosított szöveg.
+[^38]: A 8. § (7) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 53. §-a iktatta be.
+[^39]: A 8. § (8) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 53. §-a iktatta be.
