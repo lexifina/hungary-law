@@ -1,6 +1,6 @@
 ## 6. § Ez a rendelet 2012. március 15-én lép hatályba.
 
-1. melléklet a 10/2012. (III. 14.) BM rendelethez[^3]
+1. melléklet a 10/2012. (III. 14.) BM rendelethez[^7]
 
 A vármegyei (fővárosi) rendőr-főkapitányság Magyar Államkincstár számlaszámai:
 
@@ -46,4 +46,4 @@ A vármegyei (fővárosi) rendőr-főkapitányság Magyar Államkincstár száml
 
 | Zala Vármegyei Rendőr-főkapitányság | 10049006-01451650-00000000 |
 
-[^3]: Az 1. melléklet a 39/2020. (XI. 4.) BM rendelet 8. §-a, a 74/2022. (XII. 27.) BM rendelet 1. § a) és b) pontja szerint módosított szöveg.
+[^7]: Az 1. melléklet a 39/2020. (XI. 4.) BM rendelet 8. §-a, a 74/2022. (XII. 27.) BM rendelet 1. § a) és b) pontja szerint módosított szöveg.
