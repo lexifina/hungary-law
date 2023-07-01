@@ -1,0 +1,1 @@
+2. § Az ÁSZF-ben a koncessziós társaság – különösen a hulladék jellegét, típusát, minőségét és mennyiségét, az alkalmazott gyűjtési módot, edényméretet, valamint a szolgáltatás gyakoriságát figyelembe véve – differenciált tartalmú szolgáltatásokat határozhat meg.
