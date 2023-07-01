@@ -20,6 +20,8 @@ e) a minősítést,
 
 f) a FÜV bizottság elnökének és tagjainak aláírását.
 
+g)[^10] az (1) bekezdés szerinti döntés meghozatalának helyét és idejét.
+
 (3) Az (1) bekezdés b) pontja szerinti orvos-szakmai vélemény tartalmazza
 
 a) a hivatásos állomány tagjának következő személyes adatait: név, rendfokozat, születési név, születési hely, születési idő, anyja neve, lakóhely,
@@ -35,3 +37,8 @@ e) a közúti járművezetői egészségi alkalmasság felülvizsgálata szüks�
 f) az önvédelmi lőfegyverrel vagy vadászfegyverrel rendelkezők esetében az ezzel kapcsolatos egészségi alkalmasság felülvizsgálata szükségességére vonatkozó véleményt,
 
 g) a FÜV bizottság elnökének és tagjainak aláírását.
+
+h)[^11] az (1) bekezdés szerinti döntés meghozatalának helyét és idejét.
+
+[^10]: A 22. § (2) bekezdés g) pontját a 24/2023. (VI. 30.) BM rendelet 51. § (1) bekezdése iktatta be.
+[^11]: A 22. § (3) bekezdés h) pontját a 24/2023. (VI. 30.) BM rendelet 51. § (2) bekezdése iktatta be.

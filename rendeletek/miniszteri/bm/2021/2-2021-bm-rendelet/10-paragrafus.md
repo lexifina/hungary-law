@@ -9,3 +9,5 @@
 a) a hivatásos állomány várandós tagjának a várandósság ideje alatt elrendelt egészségügyi szabadsága, illetve
 
 b) a hivatásos állomány tagjának a Hszt. 148. §-a szerint gyermekápolás céljából igénybe vett egészségügyi szabadsága
+
+időtartamát.

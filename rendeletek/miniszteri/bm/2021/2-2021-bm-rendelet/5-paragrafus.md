@@ -8,7 +8,7 @@ a) a hivatásos állomány tagját szolgálatképtelennek, illetve
 
 b) a rendvédelmi alkalmazottat – ha az érintett háziorvosaként a keresőképtelenség megállapítására jogosult – keresőképtelennek
 
-## nyilvánítja.
+nyilvánítja.
 
 (2) A keresőképtelenség megállapítására jogosult
 

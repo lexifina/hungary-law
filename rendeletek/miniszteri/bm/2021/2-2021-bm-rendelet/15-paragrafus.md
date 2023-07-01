@@ -1,16 +1,14 @@
-## figyelembevételével kell végezni.
-
 ## 8. A felülvizsgálati eljárás elrendelése, megszüntetése
 
-15. § (1) A másodfokú soron kívüli alkalmasságvizsgálat vagy a másodfokon megismételt alkalmasságvizsgálat „Alkalmatlan” minősítéséről a minősítést adó orvos a Rendeletben – a miniszter irányítása alá tartozó polgári nemzetbiztonsági szolgálat esetében közjogi szervezetszabályozó eszközben – foglaltak szerint kiállított minősítő dokumentumot öt napon belül megküldi a hivatásos állomány tagját alkalmazó rendvédelmi szerv személyügyi szervének, amely tizenöt munkanapon belül előkészíti a felülvizsgálati eljárás elrendelését. A személyügyi szerv ennek keretében intézkedik
+15. § (1)[^8] A 14. § (1) bekezdése szerinti minősítésről a minősítést adó orvos a Rendeletben foglaltak szerint kiállított minősítő dokumentumot öt napon belül megküldi a hivatásos állomány tagját alkalmazó rendvédelmi szerv személyügyi szervének. A személyügyi szerv a minősítő dokumentum alapján – „Alkalmas kategória-váltással” minősítés esetén –, ha a hivatásos állomány tagja számára a végzettségének, képzettségének megfelelő beosztás nem biztosítható, vagy a neki felajánlott alacsonyabb szolgálati beosztást nem fogadja el, tizenöt munkanapon belül előkészíti a felülvizsgálati eljárás elrendelését. A személyügyi szerv ennek keretében intézkedik
 
 a) a rendvédelmi alapellátó orvos véleményének,
 
-b) a közvetlen szolgálati elöljáró véleményének,
+b) a közvetlen szolgálati elöljáró véleményének és
 
 c) a FÜV bizottság részére megküldendő egyéb dokumentumok
 
-## beszerzéséről.
+beszerzéséről.
 
 (2) Az (1) bekezdés a) pontja szerinti orvosi vélemény tartalmazza
 
@@ -58,7 +56,7 @@ f) a szolgálati elöljáró aláírását.
 
 (5) A FÜV Bizottságnak megküldendő dokumentáció tartalmazza
 
-a) a hivatásos állomány tagjának betegsége vagy balesete miatt a Rendelet – a miniszter irányítása alá tartozó polgári nemzetbiztonsági szolgálat esetében közjogi szervezetszabályozó eszköz – alapján a másodfokú soron kívüli alkalmasságvizsgálaton vagy a másodfokú ismételt alkalmasságvizsgálaton „Alkalmatlan” minősítés alapjául szolgáló egészségügyi dokumentációt,
+a)[^9] a hivatásos állomány tagjának betegsége vagy balesete miatt a Rendelet alapján a másodfokú soron kívüli alkalmasságvizsgálaton vagy a másodfokú ismételt alkalmasságvizsgálaton „Alkalmatlan” minősítés alapjául szolgáló egészségügyi dokumentációt,
 
 b) a hivatásos állomány tagjának egészségügyi törzskönyvét és annak tartozékait,
 
@@ -71,3 +69,6 @@ e) az érintett egészségi állapotára vonatkozó orvosi leleteket, különös
 f) valamennyi rendelkezésre álló – különösen az egy éven belüli – fekvőbeteg-szakellátást nyújtó egészségügyi intézményben kiállított zárójelentést, szakorvosi leletet,
 
 g) a baleset, fokozott expozíciós eset, foglalkozási betegség esetén a minősítő határozatot, és ha van, a baleseti jegyzőkönyvet.
+
+[^8]: A 15. § (1) bekezdése a 24/2023. (VI. 30.) BM rendelet 50. §-ával megállapított szöveg.
+[^9]: A 15. § (5) bekezdés a) pontja a 24/2023. (VI. 30.) BM rendelet 55. § f) pontja szerint módosított szöveg.
