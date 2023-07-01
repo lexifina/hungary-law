@@ -56,9 +56,9 @@
 
 ## f) a vizsgán elért eredményeket.
 
-## 4.[^18] A vizsgát szervező intézmény a vizsgajegyzőkönyv egy példányát a vizsgát követő nyolc napon belül megküldi a rendészetért felelős miniszter részére. A vizsgajegyzőkönyv nem selejtezhető.
+## 4.[^20] A vizsgát szervező intézmény a vizsgajegyzőkönyv egy példányát a vizsgát követő nyolc napon belül megküldi a rendészetért felelős miniszter részére. A vizsgajegyzőkönyv nem selejtezhető.
 
-4. melléklet a 68/2012. (XII. 14.) BM rendelethez[^19]
+4. melléklet a 68/2012. (XII. 14.) BM rendelethez[^21]
 
 1. A rendészeti feladatokat ellátó személyek és a személy- és vagyonőrök képzéséről kiállított tanúsítvány adattartalma
 
@@ -126,5 +126,5 @@
 
 3.10. a vizsgaszervező vezetőjének és a vizsgabizottság elnökének aláírása
 
-[^18]: A 3. melléklet III. pont 4. alpontja a 37/2016. (IX. 1.) BM rendelet 10. § (8) bekezdésével megállapított szöveg.
-[^19]: A 4. melléklet a 37/2021. (X. 27.) BM rendelet 2. §-ával megállapított szöveg.
+[^20]: A 3. melléklet III. pont 4. alpontja a 37/2016. (IX. 1.) BM rendelet 10. § (8) bekezdésével megállapított szöveg.
+[^21]: A 4. melléklet a 37/2021. (X. 27.) BM rendelet 2. §-ával megállapított szöveg.

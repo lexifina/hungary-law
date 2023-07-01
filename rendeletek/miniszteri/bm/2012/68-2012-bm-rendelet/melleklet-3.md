@@ -1,5 +1,3 @@
-## Szakmai követelmények
-
 ## A szakmai követelménymodul tartalma:
 
 ## Feladatprofil:
