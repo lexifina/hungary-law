@@ -4,4 +4,6 @@ a) állományilletékes parancsnokot említ, azon a rendvédelmi szerv szervezet
 
 b) hivatásos állomány tagját említ, azon a rendvédelmi alkalmazottat
 
+is érteni kell.
+
 [^4]: Az 1/A. §-t a 6/2019. (III. 11.) BM rendelet 8. §-a iktatta be.
