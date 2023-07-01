@@ -4,7 +4,7 @@ a) a kérelmező nevét, székhelyét, levelezési címét, adószámát, ügyin
 
 b) képviselet esetén a képviselő vagy pénzügyi képviselő nevét, székhelyét, levelezési címét, adószámát;
 
-c)[^5] a csomagolószereknek az újrahasználható csomagolószerek nyilvántartásába történő felvételére vonatkozó, a környezetvédelmi termékdíjról szóló törvényben meghatározott kérelmet, vagy az országos környezetvédelmi hatóság által kiadott nyilvántartási számot, ha a csomagolószer a bérleti rendszer engedélyezését megelőzően az újrahasználható csomagolószerek nyilvántartásába már felvételre került; valamint
+c)[^6] a csomagolószereknek az újrahasználható csomagolószerek nyilvántartásába történő felvételére vonatkozó, a környezetvédelmi termékdíjról szóló törvényben meghatározott kérelmet, vagy az országos hulladékgazdálkodási hatóság által kiadott nyilvántartási számot, ha a csomagolószer a bérleti rendszer engedélyezését megelőzően az újrahasználható csomagolószerek nyilvántartásába már felvételre került; valamint
 
 d) a csomagolószer megnevezését, típusazonosító jelét.
 
@@ -18,4 +18,4 @@ c) a kérelmező cégszerűen aláírt nyilatkozatát, amely szerint vállalja, 
 
 d) a regisztrált bérleti rendszer működési üzletszabályzatának tervezetét, ideértve az általános szerződési feltételeket is (ha az nem magyar nyelven íródott, úgy azok hiteles magyar nyelvű fordítását).
 
-[^5]: A 4. § (1) bekezdés c) pontja a 379/2016. (XII. 2.) Korm. rendelet 261. § b) pontja szerint módosított szöveg.
+[^6]: A 4. § (1) bekezdés c) pontja a 379/2016. (XII. 2.) Korm. rendelet 261. § b) pontja, a 276/2023. (VI. 29.) Korm. rendelet 27. § e) pontja szerint módosított szöveg.
