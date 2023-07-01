@@ -1,0 +1,3 @@
+9. § Az R2. 24. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A települési önkormányzat a (3) bekezdés c) pontja szerint összeállított lista adatait évente aktualizálja és a következő év március 31-ig továbbítja a járási hivatalnak. Az adatokból a járási hivatal, a víziközmű-szolgáltató által évente január 31-ig felülvizsgált és a járási hivatalnak átadott, a Vksztv. 58. § (3) bekezdés d) pontja szerinti értesítési adatok összesítésével elkészíti az ivóvízhez való hozzáférés szempontjából marginalizált csoportba tartozó személyek nyilvántartását, amelyet tárgyév április 30-ig továbbít az NNK-nak.”
