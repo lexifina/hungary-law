@@ -1,3 +1,3 @@
-12. melléklet a 375/2021. (VI. 30.) Korm. rendelethez[^110]
+12. melléklet a 375/2021. (VI. 30.) Korm. rendelethez[^105]
 
-[^110]: A 12. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^105]: A 12. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

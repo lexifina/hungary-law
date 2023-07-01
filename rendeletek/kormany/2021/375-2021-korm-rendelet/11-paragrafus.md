@@ -1,5 +1,3 @@
-## 10. §[^20]
-
 ## 7. A központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló 309/2011. (XII. 23.) Korm. rendelet módosítása
 
 11. § (1)[^21]
@@ -14,7 +12,6 @@
 
 (6)[^26]
 
-[^20]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^21]: A 11. § (1) bekezdése a 717/2021. (XII. 20.) Korm. rendelet 31. §-a alapján nem lép hatályba.
 [^22]: A 11. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^23]: A 11. § (3) bekezdése a 717/2021. (XII. 20.) Korm. rendelet 31. §-a alapján nem lép hatályba.
