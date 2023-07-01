@@ -1,5 +1,3 @@
-## kell rendelkeznie.
-
 ## 6/A. §[^7] Víz ágazatban rendkívüli eseménynek minősül
 
 a) az a víziközmű szolgáltatási zavar vagy kiesés, amely legalább 3000 felhasználási helyet érint, és helyreállítása várhatóan legalább 4 órát vesz igénybe,
