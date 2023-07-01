@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2023-12-00-00
 | --- | --- | --- |
 | 2023-05-12 | 2023. évi XII. törvény | 2023-12-00-00.0 (közlönyállapot) |
 | 2023-05-12 | Nemzeti Jogszabálytár (egységes szerkezet) | 2023-12-00-00.1 |
+| 2023-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2023-12-00-00.2 |
