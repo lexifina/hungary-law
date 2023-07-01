@@ -1,3 +1,9 @@
-6. számú melléklet a 146/1993. (X. 26.) Korm. rendelethez[^328]
+6. számú melléklet a 146/1993. (X. 26.) Korm. rendelethez[^337]
 
-[^328]: Az R. 6. számú mellékletét a 417/2012. (XII. 29.) Korm. rendelet 38. § (2) bekezdés b) pontja iktatta be, hatályon kívül helyezte a 375/2021. (VI. 30.) Korm. rendelet 4. § 16. pontja.
+Statisztikai adatszolgáltatás körében igényelhető adatok
+
+1. Lakossági számadatok [állandó népesség (január 1-jei állapot szerint), családinév- és utónév-számadatok]
+
+2. A nyilvántartás forgalmi adatai [nyilvántartásba vett magyar és nem magyar személyek, valamint passzivált személyek számadatai, családiállapot-változások számadatai, lakóhely- és tartózkodásihely-számadatok, további változások (személyiazonosító-, állampolgárság-, nyilvántartásijogcím-változás, adatszolgáltatást tiltó nyilatkozat, egyéb események) számadatai]
+
+[^337]: Az R. 6. mellékletét újonnan a 256/2023. (VI. 26.) Korm. rendelet 4. §-a iktatta be.
