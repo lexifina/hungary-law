@@ -24,86 +24,100 @@
 
 | 12. | kártérítési eljárás iratai | eljárás megszűnését követő 3 év |
 
-2. melléklet a 31/2015. (VI. 16.) BM rendelethez[^88]
+2. melléklet a 31/2015. (VI. 16.) BM rendelethez[^90]
 
 A rekreációs célú pótszabadságra jogosító, terrorelhárítási feladatok ellátására rendszeresített szolgálati beosztások
 
-A) A Terrorelhárítási Központ Műveleti Igazgatóságon az igazgató közvetlen irányítása alá tartozó állományból:
+1. A Terrorelhárítási Központ Műveleti Igazgatóságon:
 
-1. műveleti feladatokat irányító főtanácsadó
+1.1. igazgató
 
-2. műveleti tiszt 1
+2. Az igazgató közvetlen irányítása alá tartozó állományból:
 
-3. műveleti tiszthelyettes 1
+2.1. igazgató-helyettes
 
-B) A Terrorelhárítási Központ Műveleti Igazgatóság Műveleti Főosztályán:
+2.2. műveleti feladatokat irányító főtanácsadó
 
-1. főosztályvezető
+2.3. a műveleti feladat végrehajtásában résztvevő műveleti tiszt 1
 
-2. főosztályvezető-helyettes
+2.4. a műveleti feladat végrehajtásában résztvevő műveleti tiszthelyettes 1
 
-3. osztályvezető
+3. A Terrorelhárítási Központ Műveleti Igazgatóság Műveleti Főosztályán:
 
-4. osztályvezető-helyettes
+3.1. főosztályvezető
 
-5. műveleti tiszt 1
+3.2. osztályvezető
 
-6. műveleti tiszt 2
+3.3. osztályvezető-helyettes
 
-7. műveleti tiszt 3
+3.4. műveleti tiszt 1
 
-8. műveleti tiszthelyettes 1
+3.5. a műveleti feladat végrehajtásában résztvevő műveleti tiszt 2
 
-9. műveleti tiszthelyettes 2
+3.6. műveleti tiszt 3
 
-10. műveleti tiszthelyettes 3
+3.7. műveleti tiszthelyettes 1
 
-C) A Terrorelhárítási Központ Műveleti Igazgatóság Paksi Műveleti Főosztályán:
+3.8. a műveleti feladat végrehajtásában résztvevő műveleti tiszthelyettes 2
 
-1. főosztályvezető
+3.9. műveleti tiszthelyettes 3
 
-2. főosztályvezető-helyettes
+4. A Terrorelhárítási Központ Műveleti Igazgatóság Műveleti Harcjármű Főosztályán:
 
-3. osztályvezető
+4.1. főosztályvezető
 
-4. osztályvezető-helyettes
+4.2. főosztályvezető-helyettes
 
-5. műveleti tiszt 1
+4.3. műveleti tiszt 1
 
-6. műveleti tiszt 2
+4.4. műveleti tiszt 3
 
-7. műveleti tiszthelyettes 1
+4.5. műveleti tiszthelyettes 1
 
-8. műveleti tiszthelyettes 2
+4.6. műveleti tiszthelyettes 3
 
-D) A Terrorelhárítási Központ Műveleti Igazgatóság Képzési Főosztályán, feltéve, hogy a B) és C) pontban meghatározott főosztályok szakmai, műveleti feladatainak ellátásában is részt vesz:
+5. A Terrorelhárítási Központ Műveleti Igazgatóság Speciális Technikai Főosztályán:
 
-1. a Lőkiképzési Osztályon
+5.1. főosztályvezető
 
-1.1. lőkiképzési feladatokat ellátó osztályvezető
+5.2. főosztályvezető-helyettes
 
-1.2. lőkiképzési feladatokat ellátó osztályvezető-helyettes
+5.3. osztályvezető
 
-1.3. lőkiképzési feladatokat ellátó műveleti tiszt 2
+5.4. osztályvezető-helyettes
 
-1.4. lőkiképzési feladatokat ellátó műveleti tiszthelyettes 2
+5.5. csoportvezető
 
-2. a Taktikai és Közelharc Kiképző Osztályon
+5.6. műveleti tiszt 1
 
-2.1. taktikai és közelharc kiképzési feladatokat ellátó osztályvezető
+5.7. műveleti tiszt 3
 
-2.2. taktikai és közelharc kiképzési feladatokat ellátó osztályvezető-helyettes
+5.8. műveleti tiszthelyettes 1
 
-2.3. taktikai és közelharc kiképzési feladatokat ellátó műveleti tiszt 1
+5.9. műveleti tiszthelyettes 3
 
-2.4. taktikai és közelharc kiképzési feladatokat ellátó műveleti tiszthelyettes 1
+6. A Terrorelhárítási Központ Műveleti Igazgatóság Paksi Műveleti Főosztályán:
 
-3. a Vízi, Légi Katonai Kiképző Osztályon
+6.1. főosztályvezető
 
-3.1. hároméltű kiképzési feladatokat ellátó osztályvezető
+6.2. főosztályvezető-helyettes
 
-3.2. hároméltű kiképzési feladatokat ellátó műveleti tiszt 1
+6.3. osztályvezető
 
-E) A Hszt. 146. § (1) bekezdésében meghatározott rekreációs célú pótszabadságra akkor is csak 14 napban jogosult a hivatásos állomány e mellékletben felsorolt szolgálati beosztást betöltő tagja, ha a Hszt. 146. § (1) bekezdésében meghatározott más jogcímen is jogosult lenne a pótszabadságra.
+6.4. osztályvezető-helyettes
 
-[^88]: A 2. mellékletet a 15/2017. (VI. 22.) BM rendelet 10. §-a iktatta be.
+6.5. műveleti tiszt 1
+
+6.6. műveleti tiszt 2
+
+6.7. műveleti tiszt 3
+
+6.8. műveleti tiszthelyettes 1
+
+6.9. műveleti tiszthelyettes 2
+
+6.10. műveleti tiszthelyettes 3
+
+7. A Hszt. 146. § (1) bekezdésében meghatározott rekreációs célú pótszabadságra akkor is csak 14 napban jogosult a hivatásos állomány e mellékletben felsorolt szolgálati beosztást betöltő tagja, ha a Hszt. 146. § (1) bekezdésében meghatározott más jogcímen is jogosult lenne rekreációs pótszabadságra.
+
+[^90]: A 2. mellékletet a 15/2017. (VI. 22.) BM rendelet 10. §-a iktatta be, szövege a 24/2023. (VI. 30.) BM rendelet 39. §-ával megállapított szöveg.

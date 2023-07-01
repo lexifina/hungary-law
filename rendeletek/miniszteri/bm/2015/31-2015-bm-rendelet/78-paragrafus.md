@@ -1,6 +1,6 @@
 ## 24. A szabadság nyilvántartásának, kiadásának szabályai
 
-78. § (1)[^70] A humánigazgatási szakszolgálat a hivatásos állomány tagját megillető
+78. § (1)[^72] A humánigazgatási szakszolgálat a hivatásos állomány tagját megillető
 
 a) alap- és pótszabadság mértékét évente, valamint a jogosultság változását követően,
 
@@ -10,4 +10,4 @@ megállapítja, és azt az érintett tudomására hozza.
 
 (2) A szabadság nyilvántartását, a szabadságolási terv elkészítését és a szabadság kiadásának tervezését szervezeti egységenként a szolgálati feladatok függvényében és az érintettek igényének figyelembevételével az állományilletékes parancsnok intézkedése szerint kell végrehajtani.
 
-[^70]: A 78. § (1) bekezdése a 71/2022. (XII. 27.) BM rendelet 1. §-ával megállapított szöveg.
+[^72]: A 78. § (1) bekezdése a 71/2022. (XII. 27.) BM rendelet 1. §-ával megállapított szöveg.
