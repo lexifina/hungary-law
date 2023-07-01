@@ -1,4 +1,4 @@
-4/A. § (1) Amennyiben több hátrányos helyzetű személy egy közfoglalkoztatónál áll legalább egyéves időtartamban közfoglalkoztatási jogviszonyban, és a közfoglalkoztatottak vállalják, hogy szociális szövetkezet tagjaként a továbbiakban legalább két évet együtt fognak dolgozni, a közfoglalkoztatás során használt ingó tárgyi eszközöket az általuk megalapított szociális szövetkezet a közfoglalkoztatótól haszonkölcsön-szerződés alapján ingyenesen használatba veheti.
+4/A. § (1) Ha a szociális szövetkezet megfelel a szövetkezetekről szóló 2006. évi X. törvény 21/B. § (2) bekezdésében foglalt start szociális szövetkezet feltételeinek, a közfoglalkoztatási támogatásból beszerzett ingó tárgyi eszközöket a start szociális szövetkezet a közfoglalkoztatótól haszonkölcsön-szerződés alapján ingyenesen használatba veheti.
 
 (2) Amennyiben a hátrányos helyzetű személy képzési programmal egybekötött mezőgazdasági célú közfoglalkoztatásban eredményesen vesz részt, és vállalja, hogy szociális szövetkezet tagjaként a továbbiakban legalább két évet fog dolgozni, a képzési programmal összefüggésben használt ingó tárgyi eszközöket az általa megalapított szociális szövetkezet a közfoglalkoztatótól haszonkölcsön-szerződés alapján ingyenesen használatba veheti.
 
@@ -22,6 +22,6 @@
 
 (6) A szociális szövetkezetet – az (1) és (2) bekezdésben meghatározott feltételek teljesítése esetén – a közfoglalkoztatási jogviszony megszűnésétől számított három hónapon belül kell megalapítani.
 
-(7) Amennyiben a szociális szövetkezet európai uniós versenyjogi értelemben vett gazdasági tevékenységet végez, és a helyi önkormányzat, a nemzetiségi önkormányzat, vagy ezek jogi személyiségű társulása, mint közfoglalkoztató nem tagja a szövetkezetnek, az ehhez a tevékenységhez az állam által biztosított ingó tárgyi eszköz, termőföld, állatállomány meg nem fizetett használati díja csekély összegű (de minimis) támogatásnak minősül, és az az állami támogatásokra vonatkozó uniós jogi aktusok rendelkezéseivel összhangban nyújtható.
+(7)
 
-(8) Az (1)–(7) bekezdés rendelkezései alkalmazandók abban az esetben, ha a magyar állam, az önkormányzat vagy a közalapítvány a szociális szövetkezet részére egyéb ingatlant ad ingyenesen használatba.
+(8) Az (1)–(6) bekezdés rendelkezései alkalmazandók abban az esetben, ha a magyar állam, az önkormányzat vagy a közalapítvány a szociális szövetkezet részére egyéb ingatlant ad ingyenesen használatba.
