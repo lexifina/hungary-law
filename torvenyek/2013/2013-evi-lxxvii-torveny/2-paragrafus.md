@@ -34,7 +34,7 @@ szervez.
 
 9. konzultáció: az elsajátítandó ismeret átadását, megerősítését elősegítő, a képzésben részt vevő személy vagy csoport és az oktató, tutor közötti megbeszélés, amely interaktív és távolléti kapcsolattal, továbbá zárt rendszerű távoktatási képzésmenedzsment rendszerrel is megvalósulhat,
 
-9a. nemzetgazdasági szempontból kiemelt jelentőségű képzés: országos vagy helyi kiterjedésű, kiemelt jelentőségű munkaerő-piaci cél megvalósítása érdekében szervezett és a Kormány rendeletében meghatározott feltételek alapján a Kormány adott ágazatért felelős tagja véleményének kikérésével az iparügyekért felelős miniszter által ilyennek minősített oktatás, képzés,
+9a. nemzetgazdasági szempontból kiemelt jelentőségű képzés: országos vagy helyi kiterjedésű, kiemelt jelentőségű munkaerő-piaci cél megvalósítása érdekében szervezett és a Kormány rendeletében meghatározott feltételek alapján a Kormány adott ágazatért felelős tagja véleményének kikérésével a felnőttképzésért felelős miniszter által ilyennek minősített oktatás, képzés,
 
 10. tananyagegység: a képzési program felépítését adó, önálló tartalommal bíró képzési egység,
 

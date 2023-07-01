@@ -12,4 +12,4 @@ b) felnőttképzési tevékenység keretében szervezett képzésre,
 
 c) a felnőttképzők technikai feltételei fejlesztésére
 
-d) a nemzetgazdasági szempontból kiemelt jelentőségű képzésre és.
+d) a nemzetgazdasági szempontból kiemelt jelentőségű képzésre.

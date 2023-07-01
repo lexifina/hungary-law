@@ -42,6 +42,10 @@ a) az adópolitikáért felelős miniszter egyetértésével rendeletben határo
 
 b) a szakképzésért felelős miniszter egyetértésével kiadott rendeletben határozza meg a programkövetelmény nyilvántartásba vételének tartalmi szabályait,
 
+c) rendeletben határozza meg a kontaktórás, távoktatási és zárt rendszerű elektronikus távoktatási képzési formában megvalósuló képzések szakszerű és jogszabálynak megfelelő megszervezéséhez, lebonyolításához, valamint az adatszolgáltatási kötelezettséghez kapcsolódó ellenőrzésének részletes szabályait,
+
+d) rendeletben határozza meg a mikrotanúsítvány tartalmát és kiállításának részletes feltételeit, továbbá a mikrotanúsítvány felnőttképző kiállító által a FAR-rendszerbe – az adatok elektronikus feldolgozására alkalmas módon – történő adatszolgáltatásának részletes szabályait.
+
 (4) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben határozza meg
 
 a) a jogi szakvizsga vizsgáztatóira, a joggyakorlati időre, a jogi szakvizsgára történő jelentkezésre, a részvizsgákra, a jogi szakvizsga letételére rendelkezésre álló időre, a vizsgakövetelmények kiadására és a vizsgáztatás rendjére, a vizsgadíj mértékére, a vizsga halasztására és az informatikai rendszer üzemeltetésére, és

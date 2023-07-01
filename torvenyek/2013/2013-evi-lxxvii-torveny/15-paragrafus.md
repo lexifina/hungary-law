@@ -8,7 +8,7 @@ b) a képzésben részt vevő személyek természetes személyazonosító adatai
 
 c) a képzési díjra és annak költségviselőjére
 
-d) a zárt rendszerű elektronikus távoktatás keretében megvalósuló, valamint a belső képzés kivételével az oktatás, képzés képzési csoport szerinti haladásának napokra, időpontokra és helyszínekre bontott, óraszám szerinti ütemezésére, valamint befejezésének tervezett időpontjára azon oktatás, képzés esetében
+d) a zárt rendszerű elektronikus távoktatás keretében megvalósuló, a belső képzés, valamint a jogszabály alapján szervezett képzés kivételével az oktatás, képzés képzési csoport szerinti haladásának napokra, időpontokra és helyszínekre bontott, óraszám szerinti ütemezésére azon oktatás, képzés esetében
 
 da) amely részben vagy egészben az államháztartás terhére nyújtott költségvetési támogatásból vagy európai uniós forrásból valósul meg, vagy
 
