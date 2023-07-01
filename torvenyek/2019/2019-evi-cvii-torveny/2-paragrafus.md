@@ -2,7 +2,7 @@
 
 (1) E törvény alkalmazásában különleges jogállású szerv:
 
-a) a Köztársasági Elnöki Hivatal,
+a) a Sándor-palota,
 
 b) az Alkotmánybíróság Hivatala,
 

@@ -28,7 +28,7 @@ g) húsz év: nyolchavi
 
 a) a jogelőd munkáltatónál – ideértve jogviszonyváltás esetén az átadó munkáltatónál –,
 
-b) áthelyezés esetén a költségvetési szervnél kormányzati szolgálati jogviszonyban, állami szolgálati jogviszonyban, közszolgálati jogviszonyban, közalkalmazotti jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, hivatásos szolgálati jogviszonyban, szerződéses vagy hivatásos katonai szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, igazságügyi alkalmazotti szolgálati jogviszonyban, illetve 1992. július 1-jéig bármely munkáltatónál munkaviszonyban,
+b) a költségvetési szervnél kormányzati szolgálati jogviszonyban, állami szolgálati jogviszonyban, közszolgálati jogviszonyban, közalkalmazotti jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, hivatásos szolgálati jogviszonyban, szerződéses vagy hivatásos katonai szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, igazságügyi alkalmazotti szolgálati jogviszonyban, illetve 1992. július 1-jéig bármely munkáltatónál munkaviszonyban,
 
 c) átminősítés esetén a hivatásos szolgálati vagy katonai szolgálati viszonyban
 
@@ -75,3 +75,5 @@ c) végkielégítésre nem jogosult, azonban új jogviszonyában a végkielégí
 a) ha végkielégítés illeti meg, egyhavi végkielégítésre jogosult, és a részére kifizetett végkielégítés összegének az egyhavi mértéken felüli részét az új jogviszony létesítésétől számított 30 napon belül a korábbi munkáltató részére köteles visszafizetni,
 
 b) új jogviszonyában a végkielégítés alapjául szolgáló időszak számítása során a korábbi jogviszony alapján végkielégítésre jogosító idejét három év jogviszonyban töltött idővel csökkentett mértékben figyelembe kell venni.
+
+(12) Az (5) bekezdés b) pontja szerinti esetben a köztisztviselő nem jogosult végkielégítésre azon időtartam vonatkozásában, amely alapján korábbi jogviszonyának megszűnésekor vagy megszüntetésekor végkielégítésben részesült.

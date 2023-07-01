@@ -4,7 +4,7 @@
 
 ### 69. § [Az illetmény]
 
-(1) A Köztársasági Elnöki Hivatal és az Alkotmánybíróság Hivatala köztisztviselője közszolgálati jogviszonya alapján havonta az 1. melléklet szerinti illetményre jogosult, amelyet a munkáltatói jogkör gyakorlója állapít meg az álláshelyhez tartozó besorolás szerinti sávon belül.
+(1) Az Alkotmánybíróság Hivatala köztisztviselője közszolgálati jogviszonya alapján havonta az 1. melléklet szerinti illetményre jogosult, amelyet a munkáltatói jogkör gyakorlója állapít meg az álláshelyhez tartozó besorolás szerinti sávon belül.
 
 (2) Az Alapvető Jogok Biztosának Hivatala, a Magyar Tudományos Akadémia Titkársága, a Magyar Művészeti Akadémia Titkársága, az Állambiztonsági Szolgálatok Történeti Levéltára, a Nemzeti Választási Iroda, a Nemzeti Emlékezet Bizottságának Hivatala és a Nemzeti Adatvédelmi és Információszabadság Hatóság köztisztviselője közszolgálati jogviszonya alapján havonta a 2. melléklet szerinti illetményre jogosult, amelyet a munkáltatói jogkör gyakorlója állapít meg az álláshelyhez tartozó besorolás szerinti sávon belül.
 

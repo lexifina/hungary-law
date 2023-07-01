@@ -30,6 +30,6 @@ b) az Európai Unió szerveinél
 
 jogviszonyt létesít, közszolgálati jogviszonya az a) vagy b) pont szerinti jogviszony kezdete előtti napon megszűnik. A megszűnés időpontját a felek ettől eltérően is meghatározhatják.
 
-(4) Ha a közszolgálati jogviszonyt létesítő személy a közszolgálati jogviszony létesítését közvetlenül megelőzően a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) szerinti kormányzati szolgálati jogviszonyban állt, és e jogviszonyának megszűnését vagy megszüntetését követő 30 napon belül létesít közszolgálati jogviszonyt, jogviszonyát folyamatosnak kell tekinteni.
+(4) Ha a közszolgálati jogviszonyt létesítő személy a közszolgálati jogviszony létesítését közvetlenül megelőzően a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) szerinti kormányzati szolgálati vagy a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) szerinti közszolgálati jogviszonyban állt, és e jogviszonyának megszűnését vagy megszüntetését követő 30 napon belül létesít az e törvény szerinti közszolgálati jogviszonyt, jogviszonyát folyamatosnak kell tekinteni.
 
 (5) Ha a köztisztviselő a közszolgálati jogviszonya megszűnését vagy megszüntetését követő 30 napon belül újabb közszolgálati jogviszonyt létesít, közszolgálati jogviszonyát folyamatosnak kell tekinteni.

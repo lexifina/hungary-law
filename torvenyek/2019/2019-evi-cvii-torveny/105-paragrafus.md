@@ -71,3 +71,5 @@ kell figyelembe venni.
 (29) A köztisztviselő a 2022. augusztus 2. és 2022. december 31. között született vagy örökbefogadott gyermeke után a Módtv. hatálybalépésétől számított két hónapon belül jogosult a 47. § (11a) bekezdése szerinti apai munkaidő-kedvezményt igénybe venni.
 
 (30) Ha a köztisztviselő gyermeke 2022. augusztus 2. és 2023. június 30. között tölti be a harmadik életévét, a szülői szabadságot – a köztisztviselő kérésének megfelelő időpontban – legkésőbb 2023. június 30-ig kell kiadni.
+
+(31) Az egyes törvényeknek a köztársasági elnök jogállásával összefüggő módosításáról szóló 2023. évi XXVII. törvénnyel (a továbbiakban: Módtv2.) megállapított 38. § (4) bekezdését, 41. § (5) bekezdés b) pontját és 41. § (12) bekezdését a Módtv2. hatálybalépése időpontjában fennálló közszolgálati jogviszonyok tekintetében is alkalmazni kell.
