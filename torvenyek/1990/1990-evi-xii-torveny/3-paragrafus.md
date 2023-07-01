@@ -8,4 +8,4 @@
 
 (5)
 
-(6) A Díj adományozásával járó költségeket a Köztársasági Elnök Hivatala költségvetésében kell biztosítani.
+(6) A Díj adományozásával járó költségeket a Sándor-palota költségvetésében kell biztosítani.
