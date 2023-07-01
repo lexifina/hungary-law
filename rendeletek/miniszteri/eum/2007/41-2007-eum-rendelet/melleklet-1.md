@@ -2,7 +2,7 @@
 
 ## A közforgalmú és alapfeladatot végző intézeti gyógyszertár felszerelési és eszközlistája
 
-1.[^137] Bevizsgálás eszközei
+1.[^139] Bevizsgálás eszközei
 
 a) Szeszfokoló (60–100 fok mérési tartományú)
 
@@ -14,13 +14,13 @@ d) Mérőhenger
 
 e) Bunsen-égő vagy ennek megfelelő erősségű lángot biztosító eszköz
 
-2.[^138] Mérés eszközei – hitelesített mérlegek
+2.[^140] Mérés eszközei – hitelesített mérlegek
 
-a)[^139] méréstartomány: 0–15 kg, hitelesítési osztásérték: 10 g
+a)[^141] méréstartomány: 0–15 kg, hitelesítési osztásérték: 10 g
 
-b)[^140] méréstartomány: 0–2000 g, hitelesítési osztásérték: 0,1 g
+b)[^142] méréstartomány: 0–2000 g, hitelesítési osztásérték: 0,1 g
 
-c)[^141] méréstartomány: 0–200 g, hitelesítési osztásérték: 0,01 g, külön az aszeptikus gyógyszerkészítéshez is.
+c)[^143] méréstartomány: 0–200 g, hitelesítési osztásérték: 0,01 g, külön az aszeptikus gyógyszerkészítéshez is.
 
 3. Általános laboratórium eszközök
 
@@ -34,7 +34,7 @@ d) Reszelő, illetve daráló
 
 e) Üveggyöngy
 
-4.[^142] Aszeptikus gyógyszerkészítés eszközei
+4.[^144] Aszeptikus gyógyszerkészítés eszközei
 
 a) Aszeptikus fülke – manipulátor vagy lamináris boksz
 
@@ -60,7 +60,7 @@ d) Üvegbotok
 
 e) Üvegtölcsérek, állvánnyal
 
-f)[^143] Főzőedény
+f)[^145] Főzőedény
 
 6. Kenőcsök, emulziók, szuszpenziók készítésének eszközei
 
@@ -80,7 +80,7 @@ b) Hüvelyhenger, illetve hüvelykúp kiöntő forma
 
 c) Buzsi gép
 
-d)[^144] kúprúdosztó tábla (citdivid)
+d)[^146] kúprúdosztó tábla (citdivid)
 
 8. Porok készítésének eszközei
 
@@ -92,9 +92,9 @@ c) Porosztó kártyák
 
 d) Szitasorozat
 
-e)[^145]
+e)[^147]
 
-9.[^146]
+9.[^148]
 
 10. Egyebek
 
@@ -104,13 +104,13 @@ b) Gyógyszertár bélyegző
 
 c) Annuláló bélyegző
 
-[^137]: Az 1. melléklet 1. pontja a 38/2022. (XI. 10.) BM rendelet 7. §-ával megállapított szöveg.
-[^138]: Az 1. számú melléklet 2. pontja az 56/2009. (XII. 30.) EüM rendelet 22. §-ával megállapított szöveg.
-[^139]: Az 1. számú melléklet 2. pont a) alpontja a 3/2014. (I. 16.) EMMI rendelet 28. § c) pontja szerint módosított szöveg.
-[^140]: Az 1. számú melléklet 2. pont b) alpontja a 3/2014. (I. 16.) EMMI rendelet 28. § c) pontja szerint módosított szöveg.
-[^141]: Az 1. számú melléklet 2. pont c) alpontja a 3/2014. (I. 16.) EMMI rendelet 28. § c) pontja szerint módosított szöveg.
-[^142]: Az 1. számú melléklet 4. pontja a 29/2021. (VII. 6.) EMMI rendelet 18. §-ával megállapított szöveg.
-[^143]: Az 1. számú melléklet 5. pont f) alpontja az 56/2009. (XII. 30.) EüM rendelet 22. §-ával megállapított szöveg.
-[^144]: Az 1. számú melléklet 7. pont d) alpontját az 56/2009. (XII. 30.) EüM rendelet 22. §-a iktatta be.
-[^145]: Az 1. számú melléklet 8. pont e) alpontját az 56/2009. (XII. 30.) EüM rendelet 24. § (6) bekezdése hatályon kívül helyezte.
-[^146]: Az 1. számú melléklet 9. pontját az 56/2009. (XII. 30.) EüM rendelet 24. § (6) bekezdése hatályon kívül helyezte.
+[^139]: Az 1. melléklet 1. pontja a 38/2022. (XI. 10.) BM rendelet 7. §-ával megállapított szöveg.
+[^140]: Az 1. számú melléklet 2. pontja az 56/2009. (XII. 30.) EüM rendelet 22. §-ával megállapított szöveg.
+[^141]: Az 1. számú melléklet 2. pont a) alpontja a 3/2014. (I. 16.) EMMI rendelet 28. § c) pontja szerint módosított szöveg.
+[^142]: Az 1. számú melléklet 2. pont b) alpontja a 3/2014. (I. 16.) EMMI rendelet 28. § c) pontja szerint módosított szöveg.
+[^143]: Az 1. számú melléklet 2. pont c) alpontja a 3/2014. (I. 16.) EMMI rendelet 28. § c) pontja szerint módosított szöveg.
+[^144]: Az 1. számú melléklet 4. pontja a 29/2021. (VII. 6.) EMMI rendelet 18. §-ával megállapított szöveg.
+[^145]: Az 1. számú melléklet 5. pont f) alpontja az 56/2009. (XII. 30.) EüM rendelet 22. §-ával megállapított szöveg.
+[^146]: Az 1. számú melléklet 7. pont d) alpontját az 56/2009. (XII. 30.) EüM rendelet 22. §-a iktatta be.
+[^147]: Az 1. számú melléklet 8. pont e) alpontját az 56/2009. (XII. 30.) EüM rendelet 24. § (6) bekezdése hatályon kívül helyezte.
+[^148]: Az 1. számú melléklet 9. pontját az 56/2009. (XII. 30.) EüM rendelet 24. § (6) bekezdése hatályon kívül helyezte.
