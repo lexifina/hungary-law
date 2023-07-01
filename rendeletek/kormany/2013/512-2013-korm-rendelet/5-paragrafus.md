@@ -1,6 +1,4 @@
-## 4. § A létfontosságú rendszerelem üzemeltetője által foglalkoztatott biztonsági összekötő személynek a Vhr.-ben foglaltak mellett felsőfokú szakirányú végzettséggel kell rendelkeznie.
-
-## 5. §[^7] Közbiztonság-védelem ágazatban rendkívüli eseménynek minősül
+## 5. §[^9] Közbiztonság-védelem ágazatban rendkívüli eseménynek minősül
 
 a) a kijelölt rendvédelmi rendszer, létesítmény épületeiben történt tűzeset vagy műszaki mentés,
 
@@ -10,4 +8,4 @@ c) az érintett rendvédelmi szerv legalább kettő alapfeladata ellátásában 
 
 d) az érintett rendvédelmi szerv alapfeladatának ellátását biztosító informatikai és infokommunikációs rendszerek olyan kiesése, amely várhatóan 8 órán belül nem pótolható
 
-[^7]: Az 5. §-t a 375/2020. (VII. 30.) Korm. rendelet 54. §-a iktatta be.
+[^9]: Az 5. §-t a 375/2020. (VII. 30.) Korm. rendelet 54. §-a iktatta be.
