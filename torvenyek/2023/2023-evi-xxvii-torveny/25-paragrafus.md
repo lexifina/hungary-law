@@ -9,15 +9,3 @@
 (5) A 23. § a) pontja az Alaptörvény 45. cikk (5) bekezdése alapján sarkalatosnak minősül.
 
 (6) A 23. § b) pontja az Alaptörvény XXXI. cikk (3)–(5) bekezdése alapján sarkalatosnak minősül.
-
-|
-
-Novák Katalin s. k.,
-
-köztársasági elnök
-
-|
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
