@@ -1,5 +1,5 @@
-## 61–63. §[^15]
+## 61–63. §[^14]
 
 ## 13. Az elektronikus információs rendszerek biztonsági felügyeletét ellátó hatóságok, valamint az információbiztonsági felügyelő feladat- és hatásköréről, továbbá a zárt célú elektronikus információs rendszerek meghatározásáról szóló 187/2015. (VII. 13.) Korm. rendelet módosítása
 
-[^15]: A 61–63. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 61–63. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
