@@ -1,5 +1,3 @@
-## 5. § A költségtérítésre vonatkozó figyelmeztetést – a 2. § szerinti költségelemekről szóló tájékoztatással – az idézésnek vagy az elővezetést elrendelő határozatnak tartalmaznia kell.
-
 6. § (1) Az elővezetés, illetve az előállítás során felmerült költség összegét az elrendelő szerv a foganatosító szerv igazolása alapján, annak kézhezvételét követő 30 napon belül határozatban állapítja meg.
 
 (2) Az (1) bekezdés szerinti igazolást a foganatosító szerv az elővezetés, illetve az előállítás foganatosításától számított 30 napon belül küldi meg az elrendelő szerv részére.
