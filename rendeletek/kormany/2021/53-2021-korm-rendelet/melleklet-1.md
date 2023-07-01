@@ -1,3 +1,3 @@
-1. melléklet az 53/2021. (II. 9.) Korm. rendelethez[^39]
+1. melléklet az 53/2021. (II. 9.) Korm. rendelethez[^42]
 
-[^39]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^42]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

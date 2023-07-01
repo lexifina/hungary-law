@@ -1,6 +1,6 @@
-## 4/A. §[^21] E rendelet alkalmazásában a prevenciós rendelés tanácsadással is teljesíthető.
+## 4/A. §[^24] E rendelet alkalmazásában a prevenciós rendelés tanácsadással is teljesíthető.
 
-## 4/B. §[^22] A 2. § (4a) bekezdése szerinti járási fogorvosi praxisközösség
+## 4/B. §[^25] A 2. § (4a) bekezdése szerinti járási fogorvosi praxisközösség
 
 a) a praxisközösséghez tartozó szolgálatonként hetente legalább 4 óra a 3. § (1) bekezdés c) pontja szerinti prevenciós rendelésen felül praxisonként 3600 fő létszám feletti, praxisközösségben egybeszámított minden további 900 fő után hetente legalább további egy óra időtartamban prevenciós rendelést biztosít,
 
@@ -16,5 +16,5 @@ f) egyes fogászati szakellátás körébe tartozó feladatokat is elláthat jog
 
 g) esetében a 4. § (1) bekezdés a)–d), f) és g) pontjában, továbbá a 4. § (2)–(5) bekezdésében foglalt rendelkezéseket alkalmazni kell.
 
-[^21]: A 4/A. §-t a 277/2021. (V. 26.) Korm. rendelet 22. §-a iktatta be.
-[^22]: A 4/B. §-t az 502/2021. (VIII. 18.) Korm. rendelet 2. §-a iktatta be.
+[^24]: A 4/A. §-t a 277/2021. (V. 26.) Korm. rendelet 22. §-a iktatta be.
+[^25]: A 4/B. §-t az 502/2021. (VIII. 18.) Korm. rendelet 2. §-a iktatta be.
