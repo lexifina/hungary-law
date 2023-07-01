@@ -1,4 +1,4 @@
-45/A. § (1) A 43. § (2) bekezdésében foglaltaktól eltérően, az idegenrendészeti hatóság nem utasítja ki azt a harmadik országbeli állampolgárt, akit az Európai Unió más tagállamának hatósága határozatával
+45/A. § (1) A 43. § (2) bekezdésében foglaltaktól eltérően, az idegenrendészeti hatóság nem utasítja ki azt a harmadik országbeli állampolgárt, akit az Európai Unió más tagállamának vagy más schengeni államnak a hatósága határozatával
 
 a) a nemzetbiztonság vagy a közbiztonság súlyos és tényleges megsértése vagy veszélyeztetése,
 
@@ -6,7 +6,7 @@ b) a határozatot hozó állam törvénye alapján legalább egyévi szabadságv
 
 c) súlyos bűncselekmény gyanúja, vagy
 
-d) a külföldiek beutazására vagy tartózkodására vonatkozó jogszabályok súlyos megsértése
+d) a külföldiek beutazására vagy tartózkodására vonatkozó jogszabályok megsértése
 
 miatt utasított ki.
 

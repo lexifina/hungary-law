@@ -30,7 +30,7 @@ m) a közösségi szállás létesítésének követelményeit, a közösségi s
 
 n) a NATO-SOFA Megállapodás hatálya alá tartozó polgári állomány tagjai és a hozzátartozók beutazásának és tartózkodásának részletes szabályait;
 
-o) a tagállamok által hozott kiutasítási határozatok elismerésének és végrehajtásának részletes szabályait;
+o) az Európai Unió tagállama vagy más schengeni állam által hozott kiutasítási határozatok elismerésének és végrehajtásának részletes szabályait;
 
 p) a hontalanság megállapítására irányuló eljárás részletes szabályait;
 
