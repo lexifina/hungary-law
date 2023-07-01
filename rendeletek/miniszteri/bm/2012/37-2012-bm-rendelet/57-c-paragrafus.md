@@ -1,3 +1,3 @@
-57/C. §[^122] A díjazott részére ugyanaz a díj többször nem adományozható. Ettől eltérően ugyanaz a díj kivételesen, ismételten is adományozható abban az esetben, ha az előző díj adományozását követően szerzett, az annak alapjául szolgáló érdemeket felülmúló, kimagasló érdemek ezt indokolják.
+57/C. §[^131] A díjazott részére ugyanaz a díj többször nem adományozható. Ettől eltérően ugyanaz a díj kivételesen, ismételten is adományozható abban az esetben, ha az előző díj adományozását követően szerzett, az annak alapjául szolgáló érdemeket felülmúló, kimagasló érdemek ezt indokolják.
 
-[^122]: Az 57/C. §-t a 39/2022. (XI. 22.) BM rendelet 14. §-a iktatta be.
+[^131]: Az 57/C. §-t a 39/2022. (XI. 22.) BM rendelet 14. §-a iktatta be.

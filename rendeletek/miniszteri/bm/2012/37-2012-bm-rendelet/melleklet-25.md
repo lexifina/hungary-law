@@ -24,6 +24,6 @@
 
 ## 4. A 34. § (5) bekezdésében meghatározott természetes és jogi személy által adományozott zászlószalagok anyagában és színében, valamint díszítésében nincs megkötés, azonban annak hossza 100 centimétert nem haladhatja meg. A szalagokra a megadományozott szerv 8 centiméter átmérőjű emblémája elhelyezhető.
 
-25. melléklet a 37/2012. (VIII. 2.) BM rendelethez[^139]
+25. melléklet a 37/2012. (VIII. 2.) BM rendelethez[^149]
 
-[^139]: A 25. melléklet az 51/2014. (XI. 26.) BM rendelet 16. § j) pontja szerint módosított szöveg.
+[^149]: A 25. melléklet az 51/2014. (XI. 26.) BM rendelet 16. § j) pontja szerint módosított szöveg.

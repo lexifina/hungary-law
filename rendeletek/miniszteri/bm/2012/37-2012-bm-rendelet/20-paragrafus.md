@@ -4,7 +4,7 @@
 
 (2) Több fokozatot adományozni ugyanazon személynek csak a fokozatok emelkedő sorrendjének betartásával lehet.
 
-(3) Ugyanazon fokozat egy személy részére csak egy alkalommal adományozható.
+(3)[^59]
 
 (4) A Rendkívüli Helytállásért Érdemjel
 
@@ -17,3 +17,5 @@ c) bronz fokozatában legfeljebb 200
 fő részesíthető évente.
 
 (5) Az (1) bekezdés szerinti elismerés leírásának és viselési rendjének meghatározását a 14. melléklet tartalmazza.
+
+[^59]: A 20. § (3) bekezdését a 24/2023. (VI. 30.) BM rendelet 30. § b) pontja hatályon kívül helyezte.

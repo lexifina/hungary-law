@@ -1,4 +1,4 @@
-## 9/G.[^19] Elige Vitam díj
+## 9/G.[^21] Elige Vitam díj
 
 9/G. § (1) Az Elige Vitam díj a szenvedélybetegségek elleni küzdelem területén végzett kiemelkedő tevékenység elismerésére adományozható.
 
@@ -10,4 +10,4 @@
 
 (5) Az Elige Vitam díjhoz pénzjutalom jár. Az Elige Vitam díjjal járó pénzjutalom mértéke az illetményalap tízszeresének megfelelő összeg.
 
-[^19]: A 9/G. alcímet (9/G. §-t) a 39/2022. (XI. 22.) BM rendelet 2. § (3) bekezdése iktatta be.
+[^21]: A 9/G. alcímet (9/G. §-t) a 39/2022. (XI. 22.) BM rendelet 2. § (3) bekezdése iktatta be.

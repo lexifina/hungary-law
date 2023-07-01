@@ -1,4 +1,4 @@
-## 9/R.[^30] Szociális Munkáért díj
+## 9/R.[^36] Szociális Munkáért díj
 
 9/R. § (1) A Szociális Munkáért díj a szociális szakmák területén végzett kiemelkedő tevékenység elismerésére adományozható.
 
@@ -10,4 +10,4 @@
 
 (5) A Szociális Munkáért díjhoz pénzjutalom jár. A Szociális Munkáért díjjal járó pénzjutalom mértéke az illetményalap hatszorosának megfelelő összeg.
 
-[^30]: A 9/R. alcímet (9/R. §-t) a 39/2022. (XI. 22.) BM rendelet 2. § (3) bekezdése iktatta be.
+[^36]: A 9/R. alcímet (9/R. §-t) a 39/2022. (XI. 22.) BM rendelet 2. § (3) bekezdése iktatta be.
