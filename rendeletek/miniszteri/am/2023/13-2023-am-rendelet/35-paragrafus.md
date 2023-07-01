@@ -12,7 +12,7 @@
 
 (7) Az állatalapú támogatásokra vonatkozó helyszíni ellenőrzésnek – a (6) bekezdésben foglaltakon túl – ki kell terjednie a következőkre is:
 
-a) a nyilvántartás bejegyzéseinek és az állatokra vonatkozó számítógépes adatbázis felé tett bejelentések helytállóságának és koherenciájának ellenőrzésére az igazoló dokumentumokból vett minta alapján – különösen a vásárlást igazoló és értékesítési számlák, vágási bizonylatok, állategészségügyi bizonyítványok és marhalevelek vagy mozgatásra vonatkozó dokumentumok segítségével –, azokkal az állatokkal kapcsolatban, amelyekre adott támogatási jogcímben támogatási vagy kifizetési kérelmet nyújtottak be,
+a)[^15] a nyilvántartás bejegyzéseinek és az állatokra vonatkozó számítógépes adatbázis felé tett bejelentések helytállóságának és koherenciájának ellenőrzésére az adott állatfajra vonatkozó ENAR rendelet szerinti igazoló okmányokból vett minta alapján,
 
 b) annak igazolására, hogy a szarvasmarhaféléket vagy juh- és kecskeféléket megjelölték füljelzővel vagy más azonosító eszközzel, ellátták őket marhalevéllel vagy mozgatásra vonatkozó dokumentummal, valamint nyilvántartásba vették és megfelelően bejelentették őket az állatokra vonatkozó számítógépes adatbázisba való felvétel céljából.
 
@@ -21,3 +21,5 @@ b) annak igazolására, hogy a szarvasmarhaféléket vagy juh- és kecskefélék
 (9) A helyszíni vagy távérzékeléses ellenőrzés során területmérésre is sor kerülhet. A GNSS vagy ortofotók felhasználásával végrehajtott területmérésekre vonatkozóan mérési tűréshatárt kell megállapítani.
 
 (10) A bejelentett területi elemekkel összefüggő támogathatósági kritériumok, kötelezettségvállalások és egyéb kötelezettségek helyszíni ellenőrzés részeként végzett ellenőrzése az olyan mezőgazdasági területi elemek véletlenszerűen kiválasztott mintájának legalább 50%-ára korlátozható, amelyekre vonatkozóan a támogatási intézkedések keretében támogatási kérelmet vagy kifizetési kérelmet nyújtottak be. Ha a véletlenszerűen vagy a kockázatértékelés alapján kiválasztott minta meg nem felelést tár fel, valamennyi mezőgazdasági területi elem esetében el kell végezni a támogathatósági kritériumok, a kötelezettségvállalások és egyéb kötelezettségek ellenőrzését, illetve extrapolálni kell a minta eredményeit.
+
+[^15]: A 35. § (7) bekezdés a) pontja a 26/2023. (VI. 30.) AM rendelet 12. §-ával megállapított szöveg.

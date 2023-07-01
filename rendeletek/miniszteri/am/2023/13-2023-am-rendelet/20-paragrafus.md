@@ -14,4 +14,6 @@
 
 (7) Ha a vonatkozó jogcím rendelet vagy pályázati felhívás eltérően nem rendelkezik, állat alapú támogatások esetében a kérelemben megjelölt szarvasmarha vagy juh állategyednek a kérelmező tenyészetéből a birtokon tartás időszakaiban történő kikerüléséről a számítógépes adatbázisba küldött értesítés a kérelmezett egyed visszavonásának tekintendő.
 
-(8) A kárenyhítési hozzájárulás-fizetési kötelezettség, valamint a kárenyhítő juttatás összegének kiszámításához szükséges növénykultúra igazolt károsodással érintett és nem érintett területeinek megállapítása során a július 15-ét követően az egységes kérelemben bejelentett kijavítás, részben vagy teljes egészben történő visszavonás, valamint másodvetés nem vehető figyelembe.
+(8)[^4]
+
+[^4]: A 20. § (8) bekezdését a 26/2023. (VI. 30.) AM rendelet 16. § a) pontja hatályon kívül helyezte.

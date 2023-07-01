@@ -10,7 +10,7 @@ b) az agrotechnikai művelet elvégzésének tervezett helyét,
 
 c) a kaszálás mint agrotechnikai művelet esetén az elvégzésének tervezett időpontját.
 
-(3) Az egységes kérelem benyújtására előírt határidőn túl olyan új, tervezési adatokkal is érintett agrotechnikai művelet csak akkor jelenthető be és vehető figyelembe, ha azzal az egységes kérelem benyújtására előírt határidőn belül bejelentett agrotechnikai művelet kerül kiváltásra.
+(3)[^9] Az egységes kérelem benyújtására előírt határidőn túl új, tervezési adatokkal is érintett agrotechnikai művelet csak akkor jelenthető be és vehető figyelembe, ha azzal a mezőgazdasági termelő az AÖP rendelet 8. §-a, 23. §-a, valamint 24. §-a szerinti kötelezettségének tesz eleget.
 
 (4) Az agrotechnikai műveletek megvalósulását követő 15 napon belül az egységes kérelem felületen be kell jelenteni az elvégzett tevékenységet, valamint annak időpontját.
 
@@ -23,3 +23,5 @@ c) a kaszálás mint agrotechnikai művelet esetén az elvégzésének tervezett
 (8) Ha a bejelentésre kerülő agrotechnikai művelet nem a gyakorlattal érintett tábla egészére vonatkozik, akkor az agrotechnikai művelet céljára bejelentett terület nem metszheti a bejelentett tábla grafikus határát.
 
 (9) A (4)–(7) bekezdés szerinti határidők elmulasztása esetén az egységes kérelemben bejelentett, tervezési adatokkal is érintett, illetve tervezési adatokkal nem érintett agrotechnikai művelet nem vehető figyelembe az egyes támogatások és a feltételesség vonatkozásában.
+
+[^9]: A 25. § (3) bekezdése a 26/2023. (VI. 30.) AM rendelet 8. §-ával megállapított szöveg.

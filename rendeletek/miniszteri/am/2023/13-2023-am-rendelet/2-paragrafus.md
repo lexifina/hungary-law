@@ -68,7 +68,7 @@ b) az Európai Mezőgazdasági Vidékfejlesztési Alapból az erdő-környezetv�
 
 (6) Az Mkk. tv. 6. § (1)–(2) bekezdése, 16. § (1) bekezdése szerinti mezőgazdasági termelőnek az egységes kérelemben nyilatkozatot kell tennie az Mkk tv. 18. § (3) bekezdésében foglalt évet megelőző négy év vonatkozásában a használatában lévő összes termőterület nagyságának, valamint e termőterületen megtermelt összes termény mennyiségének hiányzó adatairól.
 
-(7) A (6) bekezdés szerinti nyilatkozat kizárólag azon év vagy évek vonatkozásában tehető meg, amelyre vagy amelyekre vonatkozóan a mezőgazdasági termelő valamely korábbi évben nem szolgáltatott az egységes kérelmében, az elektronikusan benyújtott kárenyhítő juttatás iránti kérelmében vagy az elektronikusan benyújtott biztosítási szerződés területösszesítő mellékletében hozamadatot. A mezőgazdasági termelő által a tárgyévi egységes kérelem benyújtása előtt megadott termésmennyiségre vonatkozó adatokat nem lehet módosítani vagy kijavítani. A mezőgazdasági termelő a tárgyévi egységes kérelemben megadott, a (6) bekezdés szerinti termésmennyiségi adatokat – az egységes kérelmén – tárgyév július 15. napjáig kijavíthatja.
+(7)[^2] A (6) bekezdés, valamint az Mkk tv. 18. § (3) bekezdése szerinti nyilatkozat kizárólag azon év vagy évek vonatkozásában tehető meg, amelyre vagy amelyekre vonatkozóan a mezőgazdasági termelő valamely korábbi évben nem szolgáltatott az egységes kérelmében, az elektronikusan benyújtott kárenyhítő juttatás iránti kérelmében vagy az elektronikusan benyújtott biztosítási szerződés területösszesítő mellékletében hozamadatot. A mezőgazdasági termelő által a tárgyévi egységes kérelem benyújtása előtt megadott termésmennyiségi adatok nem módosíthatók vagy javíthatók. A mezőgazdasági termelő a tárgyévi egységes kérelemben megadott termésmennyiségi adatokat – az egységes kérelemben – tárgyév július 15. napjáig kijavíthatja.
 
 (8) A szőlőültetvényekben végzett zöldszüretre igényelhető támogatásról szóló 22/2019. (V. 31.) AM rendelet 1. § b) pontja szerinti intézkedésbe vont, zöldszürettel érintett területen termesztett minőségi és egyéb borszőlőültetvény-kultúrára vonatkozóan
 
@@ -83,3 +83,5 @@ b) ha a mezőgazdasági termelő a zöldszürettel érintett kárenyhítési év
 (11) Az egységes kérelem a 2. § (1) bekezdés a) pontjában és (2) bekezdésében meghatározott támogatási jogcímek esetében kifizetési kérelemnek minősül.
 
 (12) Az egységes kérelem a 2. § (3) bekezdés 1–8., valamint 13–20. pontja esetében kifizetési kérelemnek, 9–12. pontja esetében támogatási és egyben kifizetési kérelemnek minősül.
+
+[^2]: A 2. § (7) bekezdése a 26/2023. (VI. 30.) AM rendelet 5. §-ával megállapított szöveg.

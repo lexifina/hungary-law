@@ -1,6 +1,6 @@
 ## 15. Adminisztratív és helyszíni ellenőrzés
 
-28. § (1) A 2. § (1) bekezdés b)–g) pontjában, (2) bekezdésében és (3) bekezdés 1–2. pontjában meghatározott támogatás kizárólag az Aktív gazda rendeletnek megfelelő mezőgazdasági termelő részére nyújtható, amelyet a Kincstár ellenőriz.
+28. § (1)[^12] A 2. § (1) bekezdés b)–f) pontja szerinti támogatás kizárólag az Aktív gazda rendeletnek megfelelő mezőgazdasági termelő részére nyújtható, amelyet a Kincstár ellenőriz.
 
 (2) A mezőgazdasági termelő földhasználati jogosultságát a Kincstár az Eljárási törvény 22. § (2) bekezdésében foglaltaknak megfelelően, az Eljárási törvény 44. § (7) bekezdése szerinti dokumentumok alapján vizsgálhatja. A jogszerű földhasználattal nem igazolt területek után a mezőgazdasági termelő nem jogosult támogatásra, ezen területeket jogosulatlanul igényelt területként kell figyelembe venni.
 
@@ -11,3 +11,5 @@
 (5) A Feltételességi rendelet 15. §-a szerinti HMKÁ 7. előírás tekintetében az ökológiai tanúsító szervezet tárgyév augusztus 31-ig – a Kincstár adatszolgáltatása alapján – tájékoztatást nyújt a Kincstár részére a mezőgazdasági termelő támogatási kérelmében megjelölt ökológiai gazdálkodásba vont területének a 34/2013. (V. 14.) VM rendeletben foglalt követelményeknek való megfelelésről.
 
 (6) Ha az (5) bekezdés szerinti földterület ökológiai státusza megszüntetésre vagy visszaminősítésre kerül, akkor az ökológiai tanúsító szervezet nyolc napon belül megküldi a Kincstárnak az érintett földterület és a mezőgazdasági termelő azonosító adatait. A mezőgazdasági termelő tárgyéven belüli ökológiai státusz megszüntetéssel vagy visszaminősítéssel érintett terület tekintetében nem mentesül a Feltételességi rendelet 15. §-a szerinti HMKÁ 7. előírás alól.
+
+[^12]: A 28. § (1) bekezdése a 26/2023. (VI. 30.) AM rendelet 10. §-ával megállapított szöveg.

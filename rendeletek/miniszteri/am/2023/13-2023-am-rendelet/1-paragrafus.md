@@ -96,7 +96,7 @@ b) a tárgyévet megelőző évi egységes kérelemben a mezőgazdasági termel�
 
 38. magányosan álló fa: a MePAR-ban meghatározott és feltüntetett, szántóterületen található olyan egymagában álló fa, amely lombkoronájának átmérője legalább 4 méter;
 
-39. másodvetés: a tárgyévre az egységes kérelemben bejelentett főnövény betakarítása után a következő év első főnövényének vetéséig betakarított vagy zöldtrágya-növényként talajba forgatott vagy bedolgozott növénykultúra, ahol mind az első főnövény lekerülését követő, mind a második főnövény vetését megelőző talajmunkákra az agronómiailag indokolt időt figyelembe kell venni, és a másodvetésnek a megelőző főnövénytől különböző növénycsaládhoz kell tartoznia, azzal, hogy a keverékek minden komponensére a növénycsalád különbözőségnek teljesülnie kell;
+39.[^1] másodvetés: a tárgyévre az egységes kérelemben bejelentett főnövény betakarítása után a következő év első főnövénye vetéséig betakarított vagy zöldtrágya-növényként talajba forgatott vagy bedolgozott növénykultúra, ahol mind az első főnövény lekerülését követő, mind a második főnövény vetését megelőző talajmunkákra az agronómiailag indokolt időt figyelembe kell venni, és a másodvetésnek a megelőző főnövénytől különböző növénykultúrához kell tartoznia, azzal, hogy a Brassica napus (takarmányrepce), Sinapis alba (fehérmustár), Raphanus sativus (retek) fajhoz tartozó növények egymás után még keverékben sem vethetőek;
 
 40. meghatározott állat: az adott támogatási jogcímre vonatkozó miniszteri rendelet vagy pályázati felhívás szerinti feltételeknek megfelelő állat;
 
@@ -255,3 +255,5 @@ f) az „egyéb hasznosítás” rovatban bejelentett területi elemek;
 76. vélelmezett örökös: az Eljárási törvény 45. § (9) bekezdésében meghatározott azon személy, aki az e rendelet szerinti eljárást megindítja, és a hagyatéki eljárás jogerős lezárásáig eljárási cselekményeket végezhet;
 
 77. vízvédelmi sáv: a vizek partvonalától meghatározott, vízminőségi célokat szolgáló területsáv.
+
+[^1]: Az 1. § 39. pontja a 26/2023. (VI. 30.) AM rendelet 4. §-ával megállapított szöveg.
