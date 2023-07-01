@@ -1,3 +1,3 @@
-2. § A Rendelet 28. alcíme a következő 47/A. §-sal egészül ki:
+2. §[^3]
 
-„47/A. § A 44–47. §-ban és a 49–50. §-ban az ingatlanértékelőre meghatározott szabályokat a kiserőmű értékelőre, az ingatlan és a vagyoni értékű jogokra vonatkozó szabályokat a kiserőmű és vagyoni értékű jogokra megfelelően alkalmazni kell.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

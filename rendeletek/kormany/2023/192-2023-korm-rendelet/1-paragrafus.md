@@ -1,3 +1,3 @@
-1. § A kollektív befektetési formák befektetési és hitelfelvételi szabályairól szóló 78/2014. (III. 14.) Korm. rendelet (a továbbiakban: Rendelet) 44. § (1) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(1) Az ingatlanalap és az ingatlantársaság az ingatlanok és vagyoni értékű jogok értékének megállapításával ingatlanértékelőt, kiserőmű és annak vagyoni joga értékének megállapítással kiserőmű értékelőt bíz meg. Az ingatlanalap és a részesedésével működő ingatlantársaság kizárólag ugyanazt az ingatlanértékelőt bízhatja meg az előbbi feladattal. Ingatlanértékelő szervezet esetén a megbízásban az ingatlanértékelő szervezet alkalmazásában álló, az értékelést ténylegesen végző természetes személyt is meg kell határozni. A megbízás hatályosságához a letétkezelő Ptk. 6:118. § (1) bekezdése szerinti beleegyezése, továbbá a Felügyelet jóváhagyása szükséges. A megbízás megszüntetése esetén a szerződés az új ingatlanértékelő megbízásának hatálybalépésével – amely érdekében a befektetési alapkezelő köteles haladéktalanul intézkedni – szűnik meg.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-3. § A Rendelet 48. § (3) bekezdés a) pontja helyébe a következő rendelkezés lép:
+3. §[^4]
 
-[E rendelet értelmében ingatlantársaságnak minősül a tagok (részvényesek) korlátozott felelősségével működő, önálló jogi személyiséggel rendelkező olyan vállalkozás,]
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
