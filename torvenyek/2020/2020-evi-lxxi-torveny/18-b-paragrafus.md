@@ -22,6 +22,6 @@ d) az ingatlanon fennálló osztatlan közös tulajdont a 2. alcím szerinti elj
 
 (4) Ha az örököstársak a (3) bekezdésben foglaltakat nem teljesítik, az (1) bekezdés szerinti tulajdoni hányad kényszerértékesítésére kerül sor az e törvény végrehajtására kiadott kormányrendeletben foglaltak szerint.
 
-(5) A (3) bekezdésben foglalt kötelezettség biztosítására az öröklés ingatlan-nyilvántartási átvezetésével egyidejűleg az ingatlanügyi hatóság az ingatlan tulajdoni lapjára feljegyzi a közös tulajdon rendezésének kötelezettsége tényét az örökléssel érintett tulajdoni hányadok vonatkozásában.
+(5) A (3) bekezdésben foglalt kötelezettség biztosítására az öröklés ingatlan-nyilvántartási átvezetésével egyidejűleg az ingatlanügyi hatóság az ingatlan tulajdoni lapjára feljegyzi a közös tulajdon rendezésének kötelezettsége tényét az örökléssel érintett tulajdoni hányadok vonatkozásában, valamint a teljes hatályú hagyatékátadó végzés jogerőre emelkedését, az ideiglenes hatályú hagyatékátadó végzés teljes hatályúvá válását megállapító végzés jogerőre emelkedését, a He. 89. §-a szerinti végzés jogerőre emelkedését, hagyatéki per esetén az ítélet jogerőre emelkedését követő öt év leteltének dátumát.
 
 (6) Az ingatlanügyi hatóság törli a közös tulajdon rendezésének kötelezettsége tényét a (3) bekezdés szerinti jogügyletek ingatlan-nyilvántartási átvezetésével vagy a (4) bekezdés szerinti kényszerértékesítés eredményeként bekövetkező tulajdonváltozás ingatlan-nyilvántartási átvezetésével egyidejűleg.

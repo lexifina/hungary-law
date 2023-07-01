@@ -1,6 +1,6 @@
 9. § (1) A tulajdonostársak az egyezség keretében kötelesek rendelkezni a megosztásra kerülő ingatlant érintő jogoknak és tényeknek a megosztás eredményeként létrejövő új ingatlanokra történő átjegyzéséről, kivéve, ha a jog vagy tény igazolt módon megszűnt. A tulajdonostársak az egyezség keretében kötelesek továbbá rendelkezni a megosztásra kerülő ingatlan vonatkozásában a tulajdonostársak valamelyikének tulajdonában álló, a földtől elválaszthatatlan vagyontárgyak tulajdonba adásáról és értékének megtérítéséről vagy további használatuk feltételeinek a meghatározásáról.
 
-(2) Az (1) bekezdésben foglaltak teljesítéséhez a tulajdonostársak adatszolgáltatás keretében kérhetik az ingatlanügyi hatóságtól a megosztandó ingatlan tulajdoni lapján szereplő helyhez kötött jogok bejegyzésének, illetve tények feljegyzésének alapjául szolgáló vázrajzok kiadását. Az ingatlanügyi hatóság az adatszolgáltatásnak a megkereséstől számított 15 napon belül eleget tesz.
+(2) Az (1) bekezdésben foglaltak teljesítéséhez az ingatlanügyi hatóság a megosztandó ingatlan tulajdoni lapján szereplő helyhez kötött jogok bejegyzésének, illetve tények feljegyzésének alapjául szolgáló vázrajzokat a folyamatban lévő megosztás tényének feljegyzésétől számított 15 napon belül kiadja a megosztási eljárást kezdeményező tulajdonostársnak.
 
 (3) A jogok és tények tervezett átjegyzését a térképvázlaton és a területkimutatáson fel kell tüntetni és azt jóváhagyás céljából meg kell küldeni valamennyi bejegyzett jog vagy tény jogosultja számára.
 

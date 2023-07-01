@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-71-00-00
 | 2021-06-05 | 2021. évi LX. törvény | 2020-71-00-00.3 |
 | 2022-01-01 | 2021. évi CL. törvény | 2020-71-00-00.4 |
 | 2023-01-01 | 2022. évi LXVII. törvény | 2020-71-00-00.5 |
+| 2023-07-01 | 2023. évi XLIV. törvény | 2020-71-00-00.7 |

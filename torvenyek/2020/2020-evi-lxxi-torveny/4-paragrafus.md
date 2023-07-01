@@ -4,7 +4,7 @@
 
 (3) A kérelmet vissza kell utasítani, ha
 
-a) az ingatlan tulajdoni lapján az Inytv. 17. § (1) bekezdés 4., 5., 6., 7., 8., 9., 15., 16., 18., 20., 21., 26., 29., illetve 37. pontjában meghatározott tény szerepel;
+a) az ingatlan tulajdoni lapján az Inytv. 17. § (1) bekezdés 4., 5., 6., 7., 8., 9., 15., 18., 20., 21., 26., 29., illetve 37. pontjában meghatározott tény szerepel;
 
 b) az érintett ingatlan tulajdoni lapján a folyamatban lévő megosztás ténye van feljegyezve;
 
@@ -12,7 +12,7 @@ c) az érintett ingatlan tulajdoni lapján széljegy van feltüntetve;
 
 d) az érintett ingatlan valamely tulajdoni hányadára vonatkozóan tulajdonátruházás hatósági jóváhagyása iránti eljárás van folyamatban;
 
-e) az ingatlant érintően a földrendező és a földkiadó bizottságokról szóló 1993. évi II. törvény vagy a 15. alcím szerinti részarány földkiadás eredményeként keletkezett osztatlan közös tulajdon megszüntetésére vonatkozó eljárásban a kiosztás sorrendjének megállapítása érdekében már a sorsolás megtörtént vagy az egyezség befogadásra került; vagy
+e) az ingatlant érintően a földrendező és a földkiadó bizottságokról szóló 1993. évi II. törvény vagy a 15. alcím, illetve a 16. alcím szerinti részarány földkiadás eredményeként keletkezett osztatlan közös tulajdon megszüntetésére vonatkozó eljárásban a kiosztás sorrendjének megállapítása érdekében már a sorsolás megtörtént vagy az egyezség befogadásra került; vagy
 
 f) a folyamatban lévő megosztás tényének bármely okból bekövetkezett törlésétől számított 30 napon belül az adott ingatlant érintően ismételten kérelmet nyújtanak be, ide nem értve azt az esetet, ha a törlésre a tulajdonjog öröklés jogcímen történő bejegyzése, illetve a kisajátítás folytán bekövetkező tulajdonváltozás átvezetése alapján kerül sor.
 
