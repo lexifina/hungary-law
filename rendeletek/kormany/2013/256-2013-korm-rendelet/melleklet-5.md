@@ -40,8 +40,8 @@
 
 | 17 | 49–51 | 386 763 | 604 985 | 634 566 |
 
-5. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^111]
+5. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^116]
 
 Gyógyszerészek, szakgyógyszerészek illetmény-, illetve bérnövelése
 
-[^111]: Az 5. mellékletet a 205/2016. (VII. 21.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte, újonnan a 461/2016. (XII. 23.) Korm. rendelet 9. § (2) bekezdés a) pontja iktatta be, szövege a 461/2016. (XII. 23.) Korm. rendelet 10. § b) pontjával megállapított szöveg.
+[^116]: Az 5. mellékletet a 205/2016. (VII. 21.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte, újonnan a 461/2016. (XII. 23.) Korm. rendelet 9. § (2) bekezdés a) pontja iktatta be, szövege a 461/2016. (XII. 23.) Korm. rendelet 10. § b) pontjával megállapított szöveg.

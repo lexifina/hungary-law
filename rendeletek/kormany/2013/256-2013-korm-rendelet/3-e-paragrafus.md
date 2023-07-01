@@ -1,0 +1,3 @@
+3/E. §[^33] Az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó egészségügyi szakdolgozót vagy egészségügyben dolgozót foglalkoztató egészségügyi szolgáltató a 2/A. § (2) bekezdése szerint meghatározott alapbérben (garantált illetményben) részesülő dolgozójának 2023. július hónaptól számfejtésre kerülő alapbéréhez (garantált illetményéhez) és annak szociális hozzájárulási adójához, valamint a béremelésre eső mozgóbér elemek biztosításához és annak szociális hozzájárulási adójához kapcsolódóan a 3/A. § (2)–(4) bekezdése szerinti támogatásra jogosult.
+
+[^33]: A 3/E. §-t a 181/2023. (V. 16.) Korm. rendelet 1. §-a iktatta be.
