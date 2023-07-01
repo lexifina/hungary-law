@@ -1,0 +1,1 @@
+1. § Az alapszámlához való hozzáférésről, az alapszámla jellemzőiről és díjazásáról szóló 262/2016. (VIII. 31.) Korm. rendelet 4. § (1) bekezdés nyitó szövegrészében az „1,5%-át” szövegrész helyébe a „0,5%-át” szöveg lép.
