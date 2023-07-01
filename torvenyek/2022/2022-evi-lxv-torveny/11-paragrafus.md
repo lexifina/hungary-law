@@ -25,3 +25,15 @@ d) intervenciós felvásárlási, tárolási vagy értékesítési eljárás sor
 benyújtásával kezdeményezett eljárásra.
 
 (4) Ha törvény másként nem rendelkezik, a vámszabad területre is e törvény rendelkezéseit kell alkalmazni.
+
+(5) E törvény rendelkezéseit kell alkalmazni
+
+a) a Magyarország területén gazdasági tevékenységet folytató
+
+aa) lakóhellyel, tartózkodási hellyel rendelkező – jogszabály eltérő rendelkezése hiányában – tizenhatodik életévét betöltött természetes személy, valamint
+
+ab) székhellyel, telephellyel rendelkező jogi személy vagy egyéb szervezet egyes intézkedésekben való részvételének rendjére, továbbá
+
+b) a támogatásokkal összefüggő egyes eljárásokban érintett egyéb személy vagy szervezet
+
+tekintetében.

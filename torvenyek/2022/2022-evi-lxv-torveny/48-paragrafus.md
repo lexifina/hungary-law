@@ -47,3 +47,5 @@
 ## rendeletben állapítsa meg.
 
 (4) Felhatalmazást kap a miniszter, hogy a nemzeti hatáskörbe tartozó mezőgazdasági, halászati, erdészeti és agrár-vidékfejlesztési állami támogatás igénybevételére vonatkozó különös feltételeket rendeletben állapítsa meg.
+
+(5) Felhatalmazást kap a gazdaságfejlesztésért felelős miniszter, hogy az agrárpolitikáért felelős miniszterrel egyetértésben az Agrár Széchenyi Kártya Konstrukciók működésének és igénybevételének szabályait rendeletben állapítsa meg.

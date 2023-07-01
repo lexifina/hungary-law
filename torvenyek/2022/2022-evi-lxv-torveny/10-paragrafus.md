@@ -8,7 +8,7 @@
 
 3. állatlétszámhoz kötött támogatási jogosultság: a közvetlen támogatásokhoz kapcsolódó intézkedések keretében a kedvezményezett számára megállapított olyan vagyoni értékű jog, amelynek azonosítását és nyilvántartását jogszabály írja elő, és amely a támogatás igénybevételének szükséges feltétele;
 
-4. beruházás: a számvitelről szóló törvény és a személyi jövedelemadóról szóló törvény által befektetett eszközként aktiválhatónak minősített ráfordítások összessége, valamint az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 71. § (1) bekezdés a) pontjában meghatározott tevékenységek és az erdő faállományának minőségi javítását szolgáló törzsalakító nyesés, azzal, hogy a társasági tulajdon, illetve szavazati jog megszerzésére fordított összeg csak abban az esetben minősül beruházásnak, ha a támogatás igénybevételi feltételeit megállapító jogszabály ezt kifejezetten lehetővé teszi;
+4. beruházás: a számvitelről szóló törvény és a személyi jövedelemadóról szóló törvény által befektetett eszközként aktiválhatónak minősített ráfordítások összessége, valamint az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 53. §-ában meghatározott erdőnevelésnek minősülő tevékenységek, azzal, hogy a társasági tulajdon, illetve szavazati jog megszerzésére fordított összeg csak abban az esetben minősül beruházásnak, ha a támogatás igénybevételi feltételeit megállapító jogszabály ezt kifejezetten lehetővé teszi;
 
 5. egyéb szervezet: támogatásban nem részesülő, de az eljárásban részt vevő;
 
@@ -18,7 +18,7 @@
 
 8. hatáskörrel rendelkező hatóság: a feltételesség körébe tartozó előírások és követelmények ellenőrzését, igazolását végző szerv;
 
-9. intézkedés: a KAP Stratégiai Terv által tartalmazott egyes beavatkozások, valamint nemzeti hatáskörben nyújtott egyes agrártámogatások;
+9. intézkedés: a KAP Stratégiai Terv által tartalmazott egyes beavatkozások, valamint nemzeti hatáskörben nyújtott egyes agrártámogatások és egyéb, támogatás kifizetésével nem járó piacszabályozási beavatkozások;
 
 10. irat: a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló törvény szerinti irat, ideértve a polgári perrendtartásról szóló törvény szerinti okirat, közokirat és magánokirat, illetve az egyes intézkedésekkel kapcsolatban keletkezett egyéb iratok;
 
@@ -56,7 +56,7 @@ c) az Európai Unió működéséről szóló szerződés 107. és 108. cikkéne
 
 21. támogató:
 
-a) az Európai Mezőgazdasági Garanciaalap tekintetében a jogi szabályozás során a Nemzeti Irányító Hatóság, az eljárás során a Nemzeti Kifizető Ügynökség,
+a) az Európai Mezőgazdasági Garanciaalap tekintetében a jogi szabályozás során a Nemzeti Irányító Hatóság, az eljárás során a Nemzeti Kifizető Ügynökség, valamint egyes jogszabályban meghatározott esetekben a támogatási döntés meghozataláig a Nemzeti Irányító Hatóság, ezt követően a Nemzeti Kifizető Ügynökség,
 
 b) az Európai Mezőgazdasági Garanciaalap egyes piaci és a KAP II rendelet 5. cikk (2) bekezdés b) pontja szerinti ágazatokra vonatkozó egyes intézkedései tekintetében a jogi szabályozás és az intézkedésben való részvételre jogosultág megállapítása során, valamint támogatás megállapítása esetén a támogatási döntés meghozataláig a Nemzeti Irányító Hatóság, az eljárás során a Nemzeti Kifizető Ügynökség,
 
