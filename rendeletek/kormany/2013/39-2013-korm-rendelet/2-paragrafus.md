@@ -56,7 +56,7 @@ a) rágódohány: kizárólag rágásra szánt, füst nélküli dohánytermék,
 
 b) tüsszentésre szolgáló dohánytermék: az orron át fogyasztható, füst nélküli dohánytermék,
 
-c) szájon át fogyasztott dohánytermék: a belélegzésre vagy rágásra szánt dohánytermékeken kívül minden szájon át való használatra szánt, teljes egészében vagy részben dohányból készült, porított vagy szemcsés, illetve e formák bármely kombinációja révén előállított dohánytermék;
+c)[^5] szájon át fogyasztott dohánytermék: a belélegzésre vagy rágásra szánt dohánytermékeken kívül minden szájon át való használatra szánt, teljes egészében vagy részben dohányból készült, porított vagy szemcsés, illetve e formák bármely kombinációja révén előállított dohánytermék, ideértve a zacskóban vagy likacsos szerkezetű zacskóban kiszerelt dohányterméket is;
 
 9. füstszűrő: a cigaretta, szivar, szivarka azon része, amely a dohányterméken áthaladó főfüst szűrésére szolgál;
 
@@ -64,9 +64,9 @@ c) szájon át fogyasztott dohánytermék: a belélegzésre vagy rágásra szán
 
 11. idegen anyag: a termesztés és feldolgozás során a nyersanyagba, illetve a késztermékbe került, egyszerű fizikai módszerekkel elkülöníthető, nem dohány eredetű anyag;
 
-12.[^5] importálás: a Jöt. szerinti importálás;
+12.[^6] importálás: a Jöt. szerinti importálás;
 
-13.[^6] importáló: a Jöt. szerinti importáló;
+13.[^7] importáló: a Jöt. szerinti importáló;
 
 14. ízesítés: illatot, ízt vagy illatot és ízt kölcsönző adalékanyag;
 
@@ -84,7 +84,7 @@ c) szájon át fogyasztott dohánytermék: a belélegzésre vagy rágásra szán
 
 21. összetevő: dohány, adalékanyag, valamint a kész dohánytermékben vagy kapcsolódó termékben jelen lévő anyagok vagy alkotóelemek, beleértve a papírt, a füstszűrőt, a nyomdafestéket, a kapszulákat és a ragasztóanyagokat is;
 
-22.[^7] szabadforgalomba bocsátás: a Jöt. szerinti szabadforgalomba bocsátás,
+22.[^8] szabadforgalomba bocsátás: a Jöt. szerinti szabadforgalomba bocsátás,
 
 23. szállítási csomagolás: a termék szállításához kialakított, de kiskereskedelmi forgalomba nem kerülő csomagolás;
 
@@ -94,7 +94,7 @@ c) szájon át fogyasztott dohánytermék: a belélegzésre vagy rágásra szán
 
 26. szopóka: a cigarettához, szivarhoz, szivarkához, elektronikus cigarettához, dohányzást imitáló elektronikus eszközhöz rögzített rész, amely közvetlenül a szájjal érintkezik;
 
-27.[^8] adóraktár engedélyese: a Jöt. szerinti adóraktár engedélyese;
+27.[^9] adóraktár engedélyese: a Jöt. szerinti adóraktár engedélyese;
 
 28. toxicitás: az adott anyag által az emberi szervezetben potenciálisan okozott káros hatás mértéke, beleértve a bizonyos idő bekövetkeztével, megismételt vagy folyamatos fogyasztás vagy expozíció folyamán okozott hatásokat;
 
@@ -107,7 +107,8 @@ b) amelyet 2014. május 19-e után hoznak forgalomba.
 [^2]: A 2. § a 239/2016. (VIII. 16.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^3]: A 2. § 1. pontja a 419/2016. (XII. 14.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
 [^4]: A 2. § 3a. pontját a 421/2016. (XII. 14.) Korm. rendelet 1. §-a iktatta be.
-[^5]: A 2. § 12. pontja a 419/2016. (XII. 14.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
-[^6]: A 2. § 13. pontja a 419/2016. (XII. 14.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
-[^7]: A 2. § 22. pontja a 419/2016. (XII. 14.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
-[^8]: A 2. § 27. pontja a 419/2016. (XII. 14.) Korm. rendelet 8. § (4) bekezdésével megállapított szöveg.
+[^5]: A 2. § 8. pont c) alpontja a 286/2023. (VI. 30.) Korm. rendelet 44. § a) pontja szerint módosított szöveg.
+[^6]: A 2. § 12. pontja a 419/2016. (XII. 14.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^7]: A 2. § 13. pontja a 419/2016. (XII. 14.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^8]: A 2. § 22. pontja a 419/2016. (XII. 14.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^9]: A 2. § 27. pontja a 419/2016. (XII. 14.) Korm. rendelet 8. § (4) bekezdésével megállapított szöveg.

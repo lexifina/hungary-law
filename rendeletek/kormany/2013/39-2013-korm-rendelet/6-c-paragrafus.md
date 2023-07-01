@@ -1,4 +1,4 @@
-6/C. §[^32] (1) A csomagolási egységben található cigarettaszálaknak a következő feltételeknek kell megfelelniük:
+6/C. §[^33] (1) A csomagolási egységben található cigarettaszálaknak a következő feltételeknek kell megfelelniük:
 
 a) a külső felületükön nem tartalmazhatnak díszítő mélyedéseket, dombornyomást vagy egyéb díszítő elemeket,
 
@@ -34,4 +34,4 @@ e) a szó első karakterét kivéve minden karaktert kisbetűvel kell feltüntet
 
 f) a márka neve, valamint az adott cigaretta alfajtájának neve Helvetica betűtípusú lehet.
 
-[^32]: A 6/C. §-t a 239/2016. (VIII. 16.) Korm. rendelet 7. §-a iktatta be.
+[^33]: A 6/C. §-t a 239/2016. (VIII. 16.) Korm. rendelet 7. §-a iktatta be.

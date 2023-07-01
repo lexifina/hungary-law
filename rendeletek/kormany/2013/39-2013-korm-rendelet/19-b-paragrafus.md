@@ -2,7 +2,7 @@
 
 a) nem tartalmazhat ízesítő anyagot,
 
-b)[^83] nikotintartalmú folyadék kizárólag kifejezetten erre a célra szolgáló, legfeljebb 10 ml űrtartalmú utántöltő flakonokban, eldobható elektronikus cigarettákban vagy egyszer használatos patronokban hozható forgalomba, és a nikotintartalmú folyadékkal előre töltött patronok vagy tartályok űrtartalma nem haladhatja meg a 2 ml-t,
+b)[^87] nikotintartalmú folyadék kizárólag kifejezetten erre a célra szolgáló, legfeljebb 10 ml űrtartalmú utántöltő flakonokban, eldobható elektronikus cigarettákban vagy egyszer használatos patronokban hozható forgalomba, és a nikotintartalmú folyadékkal előre töltött patronok vagy tartályok űrtartalma nem haladhatja meg a 2 ml-t,
 
 c) a nikotintartalmú folyadék legfeljebb 20 mg/ml nikotint tartalmazhat,
 
@@ -58,11 +58,12 @@ d) a következő figyelmeztető feliratot: „A termék gyermekektől elzárva t
 
 (4) Az elektronikus cigaretták és az utántöltő flakonok csomagolási egységeinek és gyűjtőcsomagjainak meg kell felelniük az Nvt. 6/A. § (1) bekezdés b), d) és e) pontjában, valamint (2) és (3) bekezdésében foglaltaknak.
 
-(5)[^84] A nikotintartalmú utántöltő folyadékkal előre megtöltött elektronikus cigaretták és az utántöltő flakonok csomagolási egységeinek és gyűjtőcsomagjainak két legnagyobb felületén, mindkét felületnek legalább a 30%-át kitöltő módon fel kell tüntetni a következő egészségvédő figyelmeztetést: „Ez a termék nikotint tartalmaz, amely erős függőséget okozó anyag.”
+(5)[^88] A nikotintartalmú utántöltő folyadékkal előre megtöltött elektronikus cigaretták és az utántöltő flakonok csomagolási egységeinek és gyűjtőcsomagjainak két legnagyobb felületén, mindkét felületnek legalább a 30%-át kitöltő módon fel kell tüntetni a következő egészségvédő figyelmeztetést: „Ez a termék nikotint tartalmaz, amely erős függőséget okozó anyag.”
 
 (6) Az (5) bekezdés szerinti egészségvédő figyelmeztetést fehér alapon, fekete színű, félkövér, Helvetica bold betűtípussal kell nyomtatni. A feliratot kisbetűvel kell szedni, kivéve a szöveg kezdőbetűjét, és azt az esetet, amikor a nagybetű használatát nyelvtani szabály követeli meg. Az egészségvédő figyelmeztetést a nyomtatására fenntartott területen középre zárva a csomag felső szélével párhuzamosan kell elhelyezni.
 
-(7) Az OGYÉI a bejelentési kötelezettség teljesítéséről, valamint a bejelentett termék 19/A., 19/B. §-nak való megfelelőségéről a bejelentéstől számított 60 napon belül igazolást állít ki.
+(7)[^89] A gyógyszerészeti államigazgatási szerv a bejelentési kötelezettség teljesítéséről, valamint a bejelentett termék 19/A. és 19/B. §-nak való megfelelőségéről a hiánytalan bejelentés beérkezésétől – beleértve az igazgatási szolgáltatási díj beérkezését is – számított 60 napon belül igazolást állít ki.
 
-[^83]: A 19/B. § (1) bekezdés b) pontja a 421/2016. (XII. 14.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^84]: A 19/B. § (5) bekezdése a 421/2016. (XII. 14.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^87]: A 19/B. § (1) bekezdés b) pontja a 421/2016. (XII. 14.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^88]: A 19/B. § (5) bekezdése a 421/2016. (XII. 14.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^89]: A 19/B. § (7) bekezdése a 286/2023. (VI. 30.) Korm. rendelet 43. §-ával megállapított szöveg.

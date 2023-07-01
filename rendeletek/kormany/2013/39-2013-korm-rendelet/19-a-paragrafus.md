@@ -1,6 +1,6 @@
-## 9/A. [^82] Az elektronikus cigarettára, a dohányzást imitáló elektronikus eszközre és az utántöltő flakonra vonatkozó szabályok
+## 9/A. [^85] Az elektronikus cigarettára, a dohányzást imitáló elektronikus eszközre és az utántöltő flakonra vonatkozó szabályok
 
-19/A. § (1) Az Nvt. 7/D. § (1) bekezdése szerinti bejelentést az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI) részére a 2015/2183 bizottsági végrehajtási határozat szerinti közös adatbeviteli kapun keresztül kell benyújtani magyar vagy angol nyelven, a 2015/2183 bizottsági végrehajtási határozat szerinti adattartalommal.
+19/A. § (1)[^86] Az Nvt. 7/D. § (1) bekezdése szerinti bejelentést a gyógyszerészeti államigazgatási szerv részére a 2015/2183 bizottsági végrehajtási határozat szerinti közös adatbeviteli kapun keresztül kell benyújtani magyar vagy angol nyelven, a 2015/2183 bizottsági végrehajtási határozat szerinti adattartalommal.
 
 (2) Az (1) bekezdés szerinti bejelentésnek a következő adatokat kell tartalmaznia:
 
@@ -22,4 +22,5 @@ g) nyilatkozatot arról, hogy a gyártó és az importáló teljes felelőssége
 
 (4) A dohányzást imitáló elektronikus eszközök esetében a bejelentést a 2015/2183 bizottsági végrehajtási határozat szerinti közös adatbeviteli kapun keresztül a (2) bekezdés a)–c) és e)–g) pontja szerinti adattartalommal kell megtenni.
 
-[^82]: A 9/A. alcímet (19/A–19/C. §) a 413/2015. (XII. 23.) Korm. rendelet 51. §-a iktatta be, szövege a 239/2016. (VIII. 16.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^85]: A 9/A. alcímet (19/A–19/C. §) a 413/2015. (XII. 23.) Korm. rendelet 51. §-a iktatta be, szövege a 239/2016. (VIII. 16.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^86]: A 19/A. § (1) bekezdése a 286/2023. (VI. 30.) Korm. rendelet 44. § e) pontja szerint módosított szöveg.
