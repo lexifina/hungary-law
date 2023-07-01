@@ -8,7 +8,7 @@ b) a fogorvosi alapellátásról,
 
 c) az alapellátáshoz kapcsolódó fogorvosi ügyeleti ellátásról, valamint Budapest területén az alapellátáshoz kapcsolódó háziorvosi és házi gyermekorvosi ügyeleti ellátásról, és
 
-d) a védőnői ellátásról, és
+d)
 
 e) az iskola-egészségügyi ellátásról.
 
