@@ -18,7 +18,7 @@ aa) nyilatkozzon arról, hogy első alkalommal nyújt be egységes kérelmet, va
 
 ab) nyilatkozzon a saját kockázatra folytatott tényleges mezőgazdasági tevékenység megkezdésének időpontjáról, amely nem lehet korábbi, mint a legalább korlátozottan cselekvőképessé válásának napja,
 
-ac) rendelkezzen az 1. melléklet szerinti végzettséggel, külföldön szerzett végzettség esetén a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény szerint elismert vagy honosított, az 1. melléklet szerinti szakképesítéssel vagy végzettséggel, vagy igazoljon legalább az (5) bekezdés szerinti, a mezőgazdasági tevékenységhez kapcsolódó foglalkoztatási, szerződéses vagy őstermelők családi gazdaságban tagi jogviszonyt (a továbbiakban: gyakorlati tevékenység), továbbá
+ac)[^1] rendelkezzen az 1. melléklet szerinti vagy azzal egyenértékű végzettséggel, külföldön szerzett végzettség esetén a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény szerint elismert vagy honosított, az 1. melléklet szerinti szakképesítéssel vagy végzettséggel, vagy igazoljon legalább az (5) bekezdés szerinti, a mezőgazdasági tevékenységhez kapcsolódó foglalkoztatási, szerződéses vagy őstermelők családi gazdaságban vagy családi gazdaságban tagi jogviszonyt (a továbbiakban: gyakorlati tevékenység), továbbá
 
 b) az egységes kérelemben nyilatkozzon
 
@@ -52,4 +52,9 @@ felsoroltak közé tartozik.
 
 (11) A (4) bekezdés a) pont ac) alpontja szerinti feltételt igazoló vonatkozó dokumentumot csak a támogatás iránti első alkalommal való benyújtásnak évében szükséges mellékelni. A Magyar Államkincstár (a továbbiakban: Kincstár) ezen dokumentumot más támogatási eljárások és támogatási felhívások elbírálása során is figyelembe veheti.
 
+(11a)[^2] Ha a támogatást igénylő olyan szakmai végzettséget igazoló okiratot mellékel a támogatási kérelemhez, amely nem szerepel az 1. melléklet szerinti végzettségek között, akkor az 1. melléklet szerinti valamely végzettséggel való egyenértékűségről a Nemzeti Irányító Hatóság a Kincstár megkeresésére állásfoglalást ad ki, amelynek figyelembevételével hozza meg a Kincstár a támogatási döntést.
+
 (12) A Kincstár a (9) bekezdés szerinti igazolás adattartalmának az ellenőrzése során jogosult megkeresni a Nemzeti Egészségbiztosítási Alapkezelőt és a Nemzeti Adó- és Vámhivatalt.
+
+[^1]: A 2. § (4) bekezdés a) pont ac) alpontja a 26/2023. (VI. 30.) AM rendelet 31. §-a szerint módosított szöveg.
+[^2]: A 2. § (11a) bekezdését a 26/2023. (VI. 30.) AM rendelet 29. §-a iktatta be.
