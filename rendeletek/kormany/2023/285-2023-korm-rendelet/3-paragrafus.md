@@ -1,0 +1,1 @@
+3. § Az egészségügyi szolgáltatás irányításáért felelős szervnél az igazgató személyi illetménye nem lehet kevesebb a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 1. melléklet II. táblázat C:7 mezőjében meghatározott összegnél.
