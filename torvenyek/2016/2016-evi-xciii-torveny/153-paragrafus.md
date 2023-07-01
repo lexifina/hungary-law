@@ -1,6 +1,10 @@
 153. § (1) Az igazságügyért felelős miniszter a reprezentatív közös jogkezelő szervezetként végzett közös jogkezelés körében alkalmazott díjszabást akkor hagyja jóvá, ha az a szerzői jogi jogszabályokkal összhangban áll.
 
+(1a) A szerzői jogi jogszabályokkal való összhang vizsgálata során az igazságügyért felelős miniszter a szerzői jogi jogszabályok és a jóváhagyási eljáráshoz kapcsolódóan rendelkezésére álló iratok alapján dönt, külön bizonyítást nem végez.
+
 (2) A miniszter csak a Kormány – általa kezdeményezett – döntése alapján hagy jóvá olyan díjszabást, amely a díjszabásban foglalt jogdíjak tekintetében felhasználói csoportonként a Központi Statisztikai Hivatal által az előző naptári évre megállapított fogyasztói árindexet meghaladó mértékű jogdíjemelést tartalmaz, vagy ugyanazon jogdíj tekintetében fizetésre kötelezett felhasználók körét bővíti.
+
+(2a) A (2) bekezdés alkalmazása esetén az igazságügyért felelős miniszter rendelkezésére álló ügyintézési határidő 30 nappal meghosszabbodik.
 
 (3) Ha a benyújtott díjszabás olyan díjtétel emelését tartalmazza, amely a benyújtáskor hatályos díjszabásban foglaltakhoz képest korábban magasabb volt, akkor a (2) bekezdés alkalmazása során az emelés mértékének meghatározásakor a korábban irányadó legmagasabb díjtételt kell alapul venni, feltéve, hogy az azt megállapító díjszabás alkalmazási időszakának lejárta óta három év még nem telt el.
 
@@ -30,7 +34,7 @@ ea) a megállapított tényállást, ideértve a 150–151. § szerint lefolytat
 
 eb) az SZTNH által a díjszabás jóváhagyása kérdésében tett javaslat és a javaslat indokainak ismertetését,
 
-ec) a díjszabás szerzői jogi jogszabályoknak való megfelelése szempontjából az igazságügyért felelős miniszter által tett megállapításokat és azok indokait,
+ec) a díjszabás szerzői jogi jogszabályoknak való megfelelése szempontjából az igazságügyért felelős miniszter által tett – az SZTNH által a véleményezési szakaszban megállapított állásponttól eltérő vagy az SZTNH véleményezési szakaszban megállapított álláspontja által nem érintett – megállapításokat és azok indokait,
 
 ed) azoknak a jogszabályhelyeknek a megjelölését, amelyek alapján az igazságügyért felelős miniszter a határozatot hozta,
 

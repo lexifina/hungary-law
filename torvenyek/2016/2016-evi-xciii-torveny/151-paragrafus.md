@@ -11,3 +11,35 @@
 (6) Ha az SZTNH több reprezentatív közös jogkezelő szervezet részére adott engedélyt, a később engedélyt szerző reprezentatív közös jogkezelő szervezet díjszabásának első alkalommal történő jóváhagyására irányuló eljárásban jelentős felhasználónak és felhasználói érdek-képviseleti szervezetnek a korábban engedélyt szerzett reprezentatív közös jogkezelő szervezet által az előző évben alkalmazott díjszabás tekintetében jelentősnek minősített felhasználókat és felhasználói érdek-képviseleti szervezeteket kell tekinteni. Az újabb jogkezelő szervezet díjszabásának első alkalommal történő jóváhagyásával kapcsolatos eljárásban nem kell csatolni a (3) vagy (4) bekezdés szerinti nyilatkozatot.
 
 (7) Ha a bejelentés évét megelőző naptári évben nem volt olyan díjszabás, amely alapján a felhasználók a jóváhagyási eljárás céljából benyújtott díjszabás szerinti jogdíjat fizettek volna, jelentős felhasználónak és felhasználói érdekképviseleti szervezetnek kell tekinteni azt a személyt vagy szervezetet is, aki vagy amely valószínűsíti, hogy a benyújtott új díjszabás tekintetében a (3), illetve (4) bekezdésben foglalt feltételeket az új díjszabás alkalmazási időszaka alatt teljesítené.
+
+(8) Az SZTNH a 150. § (1) bekezdése, illetve az (1) és (2) bekezdés szerinti véleménykéréssel egyidejűleg megküldi a véleményező részére
+
+a) a díjszabás tervezetét,
+
+b) a díjszabás indokolását,
+
+c) a 148. § (2) bekezdés a) pontja szerinti hatásvizsgálatot, illetve
+
+d) a 148. § (9) bekezdése szerinti felmérést.
+
+(9) Az SZTNH elnöke a véleményezési szakaszt legfeljebb három hónapra felfüggeszti
+
+a) a reprezentatív közös jogkezelő szervezet, és
+
+b) a jelentős felhasználó, illetve a felhasználói érdek-képviseleti szervezet
+
+együttes kérelmére.
+
+(10) A véleményezési szakasz folytatódik, ha
+
+a) azt bármelyik, a jóváhagyási eljárásban részt vevő fél kéri, vagy
+
+b) a felfüggesztés elrendelése óta három hónap eltelt.
+
+(11) A véleményezési szakasz felfüggesztése esetén a reprezentatív közös jogkezelő szervezet a díjszabás alkalmazásának kezdő időpontjaként a 146. § (2) bekezdésében megállapított időponttól eltérő időpontot is megadhat azzal, hogy a díjszabás alkalmazási időszaka
+
+a) hat hónapnál nem lehet kevesebb, és
+
+b) a díjszabás kezdő napja naptári évének utolsó napjáig tart.
+
+(12) A véleményezési eljárásra nyitva álló határidőbe nem számít bele a felfüggesztés időtartama.
