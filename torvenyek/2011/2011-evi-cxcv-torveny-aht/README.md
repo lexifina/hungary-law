@@ -100,3 +100,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-195-00-00
 | 2022-10-11 | 2022. évi XXVII. törvény | 2011-195-00-00.121 |
 | 2022-11-01 | 2022. évi XXIV. törvény | 2011-195-00-00.93 |
 | 2023-01-01 | 2022. évi XXIV. törvény | 2011-195-00-00.94 |
+| 2023-07-01 | 2023. évi XXVII. törvény | 2011-195-00-00.95 |
