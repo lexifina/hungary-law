@@ -934,6 +934,8 @@
 
 | 2877 Heim Pál Országos Gyermekgyógyászati Intézet |
 
+| 2880 Észak-budai Szent János Centrumkórház |
+
 | 2894 Debreceni Egyetem Klinikai Központ |
 
 | 2912 Pécsi Tudományegyetem |
@@ -1001,6 +1003,8 @@
 | Elszámolásra jogosult intézetek: |
 
 | 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet |
+
+| 2880 Észak-budai Szent János Centrumkórház |
 
 | 2886 Péterfy Kórház-Rendelőintézet és Manninger Jenő Országos Traumatológiai Intézet |
 
@@ -1416,13 +1420,21 @@
 
 | 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
-| 49. 0135P Robotsebészeti műtétek során felhasznált bizonyos egyszerhasználatos eszközök |
+| 49. 0135P Robotsebészeti műtétek során felhasznált bizonyos egyszer használatos eszközök |
 
 | Elszámolásra jogosult intézetek: |
 
 | 2879 Jahn Ferenc Dél-pesti Kórház |
 
 | 2906 Országos Onkológiai Intézet |
+
+| U894 Debreceni Egyetem Klinikai Központ |
+
+| U912 Pécsi Tudományegyetem Klinikai Központ |
+
+| U915 Semmelweis Egyetem Klinikai Központ |
+
+| U917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
 1/A. számú melléklet a 9/1993. (IV. 2.) NM rendelethez[^125]
 

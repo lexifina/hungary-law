@@ -81,3 +81,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1993-9-20-3D
 | 2022-12-01 | 1993-9-20-3D.139 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2023-01-01 | 1993-9-20-3D.140 | 81/2022. (XII. 30.) BM rendelet |
 | 2023-06-15 | 1993-9-20-3D.141 | 16/2023. (VI. 14.) BM rendelet |
+| 2023-07-01 | 1993-9-20-3D.142 | 32/2016. (X. 27.) EMMI rendelet |
