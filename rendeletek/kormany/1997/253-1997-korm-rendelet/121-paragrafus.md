@@ -1,4 +1,4 @@
-121. §[^484] (1) A 2012. augusztus 6-án hatályos településfejlesztési koncepció, integrált településfejlesztési stratégia és településrendezési eszközök 2023. december 31-ig megvalósítható módosítása során a települési önkormányzat a módosítást e rendelet
+121. §[^485] (1) A 2012. augusztus 6-án hatályos településfejlesztési koncepció, integrált településfejlesztési stratégia és településrendezési eszközök 2023. december 31-ig megvalósítható módosítása során a települési önkormányzat a módosítást e rendelet
 
 a) 2012. augusztus 6-án hatályos II. fejezete, valamint 1. számú melléklete és
 
@@ -16,9 +16,10 @@ figyelembevételével készíti el.
 
 (3) A településtervek készítése, valamint az elkészült településtervek módosítása során e rendelet II. és III. fejezetét, valamint 1. és 2. számú mellékletét kell figyelembe venni.
 
-(4) Építési tevékenységnek e rendelkezés hatálybalépését követő engedélyezése vagy egyszerű bejelentése során, ha az önkormányzat e rendelet 2012. augusztus 6-án hatályos településrendezési követelményeinek és jelmagyarázatának megfelelő helyi építési szabályzatot használ, azonban e szabályzat másként nem rendelkezik, az építmények elhelyezése tekintetében e rendelet építési tevékenység engedélyezésekor vagy egyszerű bejelentésekor hatályos III. fejezetét kell alkalmazni.
+(4)[^486]
 
-(5)[^485] Az (1)–(4) bekezdésben meghatározott rendelkezésektől eltérően e rendeletnek az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendeletnek a tanya beépíthetőségével összefüggő módosításáról szóló 90/2023. (III. 22.) Korm. rendelettel megállapított 29. § (10)–(14) bekezdését és 111. § (1) bekezdését – a településrendezési eszköz, településterv külön módosítása nélkül – alkalmazni kell a tanyán megvalósuló építési tevékenység engedélyezésekor, bejelentésekor, azzal, hogy a településrendezési eszköznek, településtervnek a 29. § (10)–(14) bekezdésével és a 111. § (1) bekezdésével ellentétes vagy ezzel össze nem egyeztethető előírását az engedélyezéskor, bejelentéskor nem lehet alkalmazni.
+(5)[^487] Az (1)–(3) bekezdésben meghatározott rendelkezésektől eltérően e rendeletnek az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendeletnek a tanya beépíthetőségével összefüggő módosításáról szóló 90/2023. (III. 22.) Korm. rendelettel megállapított 29. § (10)–(14) bekezdését és 111. § (1) bekezdését – a településrendezési eszköz, településterv külön módosítása nélkül – alkalmazni kell a tanyán megvalósuló építési tevékenység engedélyezésekor, bejelentésekor, azzal, hogy a településrendezési eszköznek, településtervnek a 29. § (10)–(14) bekezdésével és a 111. § (1) bekezdésével ellentétes vagy ezzel össze nem egyeztethető előírását az engedélyezéskor, bejelentéskor nem lehet alkalmazni.
 
-[^484]: A 121. §-t a 420/2021. (VII. 15.) Korm. rendelet 36. §-a iktatta be.
-[^485]: A 121. § (5) bekezdését a 90/2023. (III. 22.) Korm. rendelet 2. §-a iktatta be.
+[^485]: A 121. §-t a 420/2021. (VII. 15.) Korm. rendelet 36. §-a iktatta be.
+[^486]: A 121. § (4) bekezdését a 253/2023. (VI. 23.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.
+[^487]: A 121. § (5) bekezdését a 90/2023. (III. 22.) Korm. rendelet 2. §-a iktatta be, szövege a 253/2023. (VI. 23.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
