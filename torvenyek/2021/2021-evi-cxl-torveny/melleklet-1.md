@@ -30,7 +30,7 @@ Jegyzék a meghagyásba tartozó munkakörökről és a meghagyásba bevont szer
 
 2.1. az Országgyűlés Hivatala,
 
-2.2. a Köztársasági Elnöki Hivatal,
+2.2. a Sándor-palota,
 
 2.3. az Alkotmánybíróság Hivatala,
 
