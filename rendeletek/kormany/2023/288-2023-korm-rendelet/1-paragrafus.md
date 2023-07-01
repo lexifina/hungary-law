@@ -1,1 +1,3 @@
-1. § A veszélyhelyzet ideje alatt a szomszédos országban fennálló humanitárius katasztrófára tekintettel érkező személyek elhelyezésének támogatásáról és az azzal kapcsolatos egyéb intézkedésekről szóló 104/2022. (III. 12.) Korm. rendelet 3. § (2) bekezdésében a „szülő, valamint” szövegrész helyébe a „szülő, várandósságának megállapításától kezdve a várandós nő, valamint” szöveg, a „személy után” szövegrész helyébe a „személy, továbbá a felsoroltakkal közös háztartásban élő, tizennyolcadik életévét be nem töltött személy után” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
