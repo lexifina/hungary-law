@@ -1,6 +1,6 @@
 2. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^143]
 
-## Az agyhalál megállapítása
+Az agyhalál megállapítása
 
 Az agyhalált előidézheti elsődleges agykárosodás (az agy közvetlen károsodása) vagy másodlagos agykárosodás (az agy közvetett, hypoxiás károsodása).
 

@@ -2,7 +2,7 @@
 
 3. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^144]
 
-## Jegyzőkönyv az agyhalál megállapításáról
+Jegyzőkönyv az agyhalál megállapításáról
 
 Jegyzőkönyv sorszáma
 
@@ -12,13 +12,13 @@ Jegyzőkönyv sorszáma
 
 | Születési hely: ...................................................................... | Születési idő: ...................................................................... |
 
-Kórisme:
+## Kórisme:
 
 | Az eszméletlenség kezdetének időpontja: | .……. év ……. hó .…… nap ….…. óra ..….. perc |
 
 | A vizsgálat kezdetének időpontja: | .……. év ……. hó .…… nap ….…. óra ..….. perc |
 
-A vizsgálat során az 1. és 2. pontban foglalt kérdésekre igen-nem feltüntetésével kell válaszolni
+## A vizsgálat során az 1. és 2. pontban foglalt kérdésekre igen-nem feltüntetésével kell válaszolni
 
 1. Kizáró tényezők:
 

@@ -18,7 +18,7 @@ c) a donor 7. számú melléklet szerinti kiválasztási kritériumainak érték
 
 d) a donor 8. számú melléklet szerinti vizsgálatainak értékelésére
 
-## vonatkozó szabályok betartásának ellenőrzésére.
+vonatkozó szabályok betartásának ellenőrzésére.
 
 (6) A szövetek, illetve sejtek donációs és gyűjtési eljárásainak szakmai szabályait, valamint a szövetbankban történő fogadásra vonatkozó szakmai követelményeket a 9. számú melléklet 1.1. és 1.5. pontjai tartalmazzák.
 

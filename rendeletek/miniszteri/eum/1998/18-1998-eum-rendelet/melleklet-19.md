@@ -24,6 +24,8 @@
 
 ## 9. Minden vonatkozó nemzeti vagy nemzetközi akkreditáció.
 
-19. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^192]
+19. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^193]
 
-[^192]: A 19. számú mellékletet a 44/2016. (XII. 28.) EMMI rendelet 12. § (9) bekezdése iktatta be.
+Az országos tisztifőorvos által az importáló szövetbank részére kiállítandó hatósági bizonyítvány adatai a harmadik országból történő sejt, szövet behozatalhoz
+
+[^193]: A 19. számú mellékletet a 44/2016. (XII. 28.) EMMI rendelet 12. § (9) bekezdése iktatta be.

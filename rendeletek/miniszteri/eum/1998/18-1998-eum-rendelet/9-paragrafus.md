@@ -10,7 +10,7 @@ b)[^34] ajánlott postai küldeményként, vagy
 
 c) háziorvosa közreműködésével
 
-## juttathatja el az NSZTR részére, az e rendelet 4. számú mellékletének a) pontja szerinti nyilatkozattal (a továbbiakban: hozzájáruló nyilatkozat) együtt. A beteg a hozzájáruló nyilatkozat kitöltésével egyezik bele az NSZTR-be történő nyilvántartásba vételbe, valamint személyes adatainak kezelésébe.
+juttathatja el az NSZTR részére, az e rendelet 4. számú mellékletének a) pontja szerinti nyilatkozattal (a továbbiakban: hozzájáruló nyilatkozat) együtt. A beteg a hozzájáruló nyilatkozat kitöltésével egyezik bele az NSZTR-be történő nyilvántartásba vételbe, valamint személyes adatainak kezelésébe.
 
 (2)[^35] A tiltakozó nyilatkozatnak az NSZTR-be történő felvétele nem feltétele a tiltakozás érvényességének.
 
@@ -26,7 +26,7 @@ b) az NSZTR-hez címzett ajánlott postai küldeményként, vagy
 
 c) háziorvosánál
 
-## kezdeményezheti.
+kezdeményezheti.
 
 (6)[^39] Az (5) bekezdés a) pontja szerinti esetben a beteg személyi igazolványának bemutatásával igazolja személyazonosságát, és kitölti a 4. számú melléklet b) pontja szerinti nyomtatványt, amelyet az NSZTR munkatársa átad a beteg részére.
 

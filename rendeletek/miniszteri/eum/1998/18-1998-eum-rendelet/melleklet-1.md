@@ -1,6 +1,6 @@
 1. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^141]
 
-## Kérelem a kórházi etikai bizottsághoz
+Kérelem a kórházi etikai bizottsághoz
 
 Intézmény neve:
 

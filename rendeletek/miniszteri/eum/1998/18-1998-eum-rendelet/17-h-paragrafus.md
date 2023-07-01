@@ -12,7 +12,7 @@ b) az azonnali transzplantáció céljából közvetlenül a recipienshez eljutt
 
 c) sürgős esetekben az illetékes hatóság közvetlen engedélyével az Európai Unióba behozott szövetek és sejtek
 
-## esetében.
+esetében.
 
 (3) Az (1) bekezdésben előírt követelmények alól mentesülnek a következő esetek:
 

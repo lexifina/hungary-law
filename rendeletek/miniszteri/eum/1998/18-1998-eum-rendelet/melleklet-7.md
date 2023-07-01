@@ -46,6 +46,8 @@
 
 ## g)[^158] Péterfy Sándor utcai Kórház, Budapest.
 
+## h)[^159] Észak-budai Szent János Centrumkórház
+
 ## Kötő- és támasztószövet
 
 ## Az egészségügyi szolgáltatások nyújtásához szükséges szakmai minimumfeltételekről szóló 60/2003. (X. 20.) ESzCsM rendelet alapján általános sebészet, gyermeksebészet, ortopédia és traumatológia, idegsebészet, fül-orr-gégészet, sebészet (nyak- fejsebészet), arc-állcsont és szájsebészet, plasztikai sebészet tevékenységre működési engedéllyel rendelkező egészségügyi szolgáltatók.
@@ -54,7 +56,7 @@
 
 ## Csontvelő (ideértendő az összes haemopoetikus őssejtvételi forma)
 
-## a)[^159] Egyesített Szent István és Szent László Kórház – Rendelőintézet,
+## a)[^160] Egyesített Szent István és Szent László Kórház – Rendelőintézet,
 
 ## b) BAZ Megyei Kórház és Egyetemi Oktató Kórház Gyermek Egészségügyi Központ Miskolc,
 
@@ -68,9 +70,9 @@
 
 ## Az egészségügyi szolgáltatások nyújtásához szükséges szakmai minimumfeltételekről szóló 60/2003. (X. 20.) ESZCSM rendelet alapján általános sebészet, gyermeksebészet, ortopédia és traumatológia tevékenységre működési engedéllyel rendelkező egészségügyi szolgáltatók.
 
-7. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^160]
+7. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^161]
 
-## A szövetek (sejtek) donoraira vonatkozó kiválasztási kritériumok (a reproduktív sejtek donorai kivételével)
+A szövetek (sejtek) donoraira vonatkozó kiválasztási kritériumok (a reproduktív sejtek donorai kivételével)
 
 A donorok kiválasztási kritériumai az egyes sejtek/szövetek alkalmazásához kapcsolódó kockázatok elemzésén alapulnak. E kockázatok jeleit egészségügyi vizsgálattal, az orvosi kórtörténet áttekintésével, az életvezetés vizsgálatával, biológiai vizsgálattal, post mortem vizsgálattal (halottból történő szöveteltávolítás esetében) és bármely más alkalmas vizsgálattal kell azonosítani. A donorokat az adományozásból ki kell zárni, ha az alábbi kritériumok bármelyike fennáll:
 
@@ -82,13 +84,13 @@ A donorok kiválasztási kritériumai az egyes sejtek/szövetek alkalmazásához
 
 1.1.2. Ismeretlen eredetű betegség a kórtörténetben.
 
-1.1.3.[^161] Rosszindulatú betegség, kivéve teljesen gyógyult in situ carcinoma. Cornea átültetés esetén nem kizáró ok a donor rosszindulatú daganatos betegsége, kivéve a hematológiai daganatos megbetegedéseket, a retinoblastomát és az elülső szemcsarnok rosszindulatú daganatát.
+1.1.3.[^162] Rosszindulatú betegség, kivéve teljesen gyógyult in situ carcinoma. Cornea átültetés esetén nem kizáró ok a donor rosszindulatú daganatos betegsége, kivéve a hematológiai daganatos megbetegedéseket, a retinoblastomát és az elülső szemcsarnok rosszindulatú daganatát.
 
 1.1.4. Átvihető szivacsos encephalopathiák (TSE-k; például Creutzfeld–Jakob-kór, variáns Creutzfeld– Jakob-kór): aki a családi anamnézis szerint veszélyeztett a TSE kialakulása tekintetében; akinél szaruhártya vagy kemény agyhártya (dura mater) transzplantáció történt, és az, aki korábban emberi agyalapi mirigyből készült gyógyszereket kapott. A Creutzfeld–Jakob-kór új variációja esetében szükség szerint további óvintézkedéseket kell tenni.
 
 1.1.5. Az adományozás idején nem kezelt általános fertőzés, beleértve a bakteriális betegségeket, az általános vírusos, gombás vagy parazitás fertőzéseket, vagy az adományozandó szövetek és sejtek jelentős helyi fertőzését. A baktérium okozta vérmérgezésben megbetegedett donor esetében a kockázatokat értékelve, a szemgolyó eltávolítható átültetés céljára azzal a feltétellel, hogy a szaruhártyát szövettenyészetben kell tárolni annak érdekében, hogy a beültetés előtt lehetővé váljon a szövet bármiféle bakteriális szennyeződésének kimutatása.
 
-1.1.6.[^162] A HIV-fertőzés kórelőzménye, klinikai vagy laboratóriumi bizonyítéka, akut vagy krónikus hepatitis B (kivéve a bizonyított immunstátusú személyek esetében), hepatitis C és HTLV-I/II átvitelének kockázata, vagy e fertőzések kockázati tényezőinek jelenléte.
+1.1.6.[^163] A HIV-fertőzés kórelőzménye, klinikai vagy laboratóriumi bizonyítéka, akut vagy krónikus hepatitis B (kivéve a bizonyított immunstátusú személyek esetében), hepatitis C és HTLV-I/II átvitelének kockázata, vagy e fertőzések kockázati tényezőinek jelenléte.
 
 1.1.7. Olyan krónikus, általános autoimmun betegség a kórtörténetben, amely az eltávolítandó szövet minőségére káros hatással lehetett.
 
@@ -136,7 +138,8 @@ tényére tekintettel.
 
 [^157]: A 6. számú melléklet A) rész „Szaruhártya” alcím e) pontja a 68/2013. (XI. 15.) EMMI rendelet 3. §-ával megállapított szöveg.
 [^158]: A 6. számú melléklet A) rész „Szaruhártya” alcím g) pontját a 68/2013. (XI. 15.) EMMI rendelet 3. §-a iktatta be.
-[^159]: A 6. számú melléklet B) rész „Csontvelő (ideértendő az összes haemopoetikus őssejtvételi forma)” alcím a) pontja a 68/2013. (XI. 15.) EMMI rendelet 3. §-ával megállapított szöveg.
-[^160]: A 7. számú mellékletet a 20/2007. (IV. 19.) EüM rendelet 10. § (1) bekezdése iktatta be.
-[^161]: A 7. számú melléklet 1. pontjának 1.1.3. alpontja az 55/2007. (XII. 19.) EüM rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^162]: A 7. számú melléklet 1. pont 1.1.6. alpontja a 76/2013. (XII. 10.) EMMI rendelet 4. § b) pontja szerint módosított szöveg.
+[^159]: A 6. számú melléklet A) rész „Szaruhártya” megjelölésű rész h) pontját a 23/2023. (VI. 30.) BM rendelet 2. §-a iktatta be.
+[^160]: A 6. számú melléklet B) rész „Csontvelő (ideértendő az összes haemopoetikus őssejtvételi forma)” alcím a) pontja a 68/2013. (XI. 15.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^161]: A 7. számú mellékletet a 20/2007. (IV. 19.) EüM rendelet 10. § (1) bekezdése iktatta be.
+[^162]: A 7. számú melléklet 1. pontjának 1.1.3. alpontja az 55/2007. (XII. 19.) EüM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^163]: A 7. számú melléklet 1. pont 1.1.6. alpontja a 76/2013. (XII. 10.) EMMI rendelet 4. § b) pontja szerint módosított szöveg.
