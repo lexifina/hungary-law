@@ -1,1 +1,0 @@
-Az Országgyűlés annak érdekében, hogy a hulladékgazdálkodási közszolgáltatók tevékenysége az elérhető legjobb általános környezeti előnyt eredményezze, valamint a közszolgáltatókat magasabb színvonalú közszolgáltatás nyújtására ösztönözze, a következő törvényt alkotja:

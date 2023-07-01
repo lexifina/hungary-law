@@ -1,1 +1,0 @@
-10. § A minősítési engedély kiállításának alapjául szolgáló feltételeknek a minősítési engedély időbeli hatálya alatt a kérelmezőnek folyamatosan meg kell felelnie. A kérelmező a környezetirányítási célok teljesítésének érdekében vállalt intézkedéseket a környezetirányítási programban foglaltaknak megfelelően végrehajtja.
