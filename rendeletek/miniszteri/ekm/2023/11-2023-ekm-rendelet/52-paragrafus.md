@@ -1,5 +1,5 @@
 ## 12. A vasúti igazgatási szerv részére fizetendő felügyeleti díj megfizetésének módjáról és feltételeiről szóló 10/2008. (VI. 30.) KHEM rendelet módosítása
 
-52. §[^166]
+52. §[^165]
 
-[^166]: Az 52. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^165]: Az 52. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

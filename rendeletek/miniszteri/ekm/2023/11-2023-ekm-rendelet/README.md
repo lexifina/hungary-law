@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-11-20-8
 | --- | --- | --- |
 | 2023-06-26 | 2023-11-20-8X.1 | 11/2023. (VI. 23.) ÉKM rendelet |
 | 2023-06-27 | 2023-11-20-8X.2 | 2010. évi CXXX. törvény |
+| 2023-07-01 | 2023-11-20-8X.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
