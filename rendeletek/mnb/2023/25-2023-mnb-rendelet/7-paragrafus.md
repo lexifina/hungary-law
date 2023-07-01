@@ -1,0 +1,1 @@
+7. § A kötelező jegybanki tartalék után fizetendő kamat mértékéről szóló 11/2023. (III. 31.) MNB rendelet 1. § (2) bekezdésében az „(1) bekezdésben” szövegrész helyébe a „Tartalékrendelet 5. § (1) bekezdés d) pontja szerinti betéttel csökkentett összegének az (1) bekezdés b) pontjában” szöveg lép.
