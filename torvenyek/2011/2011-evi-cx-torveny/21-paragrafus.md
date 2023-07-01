@@ -8,4 +8,4 @@
 
 (5) Az Országgyűlés Hivatala a honlapján a köztársasági elnök (4) bekezdés szerinti kötelezettségvállalásától számított tizenöt napon belül közzéteszi az (1) bekezdés szerinti előirányzatból nyújtott közcélú felajánlás, adomány kedvezményezettjének nevét, a közcélú felajánlás, adomány célját és összegét.
 
-(6) A volt köztársasági elnök közéletben való szerepvállalásával összefüggő, külföldi hivatalos programon való részvételére vonatkozóan a 11. §-t – az állami vezetők tekintetében irányadó napidíjra vonatkozó rendelkezés és a különjáratú légiutazásra való jogosultság kivételével – alkalmazni kell, azzal, hogy e juttatások igénybevételével kapcsolatban felmerült költségeket az Országgyűlés Hivatala biztosítja.
+(6) A volt köztársasági elnök közéletben való szerepvállalásával összefüggő, külföldi hivatalos programon való részvételére vonatkozóan a 11. §-t – az állami vezetők tekintetében irányadó napidíjra vonatkozó rendelkezés és a különjáratú légiutazásra való jogosultság kivételével – alkalmazni kell, azzal, hogy az e juttatások igénybevételével kapcsolatban felmerült költségeket a külpolitikáért felelős miniszter által vezetett minisztérium biztosítja.

@@ -1,3 +1,3 @@
-13. § (1) A köztársasági elnök halála esetén feleségét vagy férjét (a továbbiakban együtt: özvegy) – özvegy hiányában örökösét, több örökös esetén örököseit – egy összegben a köztársasági elnök hathavi tiszteletdíjának megfelelő összegű juttatás illeti meg.
+13. § (1) A köztársasági elnök halála esetén özvegyét – özvegy hiányában örökösét, több örökös esetén örököseit – egy összegben a köztársasági elnök hathavi tiszteletdíjának megfelelő összegű juttatás illeti meg.
 
 (2) A köztársasági elnök halála esetén a rá tekintettel járó hozzátartozói nyugellátás megállapítása szempontjából a mindenkori köztársasági elnöki tiszteletdíj havi összegét kell a köztársasági elnök öregségi nyugdíjaként figyelembe venni.

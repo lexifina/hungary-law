@@ -6,4 +6,4 @@
 
 (4) Az (1) bekezdés szerinti előirányzat a köztársasági elnök előzetes írásos kötelezettségvállalása alapján, a kedvezményezettel kötött külön szerződés nélkül is felhasználható.
 
-(5) A Hivatal a honlapján a (4) bekezdés szerinti kötelezettségvállalástól számított tizenöt napon belül közzéteszi az (1) bekezdés szerinti előirányzatból nyújtott közcélú felajánlás, adomány kedvezményezettjének nevét, a közcélú felajánlás, adomány célját és összegét.
+(5) A Sándor-palota a honlapján a (4) bekezdés szerinti kötelezettségvállalástól számított tizenöt napon belül közzéteszi az (1) bekezdés szerinti előirányzatból nyújtott közcélú felajánlás, adomány kedvezményezettjének nevét, a közcélú felajánlás, adomány célját és összegét.

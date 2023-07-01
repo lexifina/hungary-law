@@ -6,4 +6,4 @@
 
 (3) A köztársasági elnök jogosult rádiótelefon- és internethasználatra, valamint kormányzati célú hírközlő hálózat használatára.
 
-(4) A köztársasági elnök – a szolgáltatást nyújtó egészségügyi intézmény és a Hivatal megállapodása szerint – valamennyi egészségügyi ellátást térítésmentesen vehet igénybe.
+(4) A köztársasági elnök – a szolgáltatást nyújtó egészségügyi intézmény és a Sándor-palota megállapodása szerint – valamennyi egészségügyi ellátást térítésmentesen vehet igénybe.

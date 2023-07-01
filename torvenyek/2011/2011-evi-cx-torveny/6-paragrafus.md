@@ -4,9 +4,9 @@
 
 (3) A vagyonnyilatkozat-tétel elmulasztása esetén – a vagyonnyilatkozat benyújtásáig – a köztársasági elnök tisztségét nem gyakorolhatja, javadalmazásban nem részesül. A vagyonnyilatkozat-tétel elmulasztásának – egyben a köztársasági elnök átmeneti akadályoztatásának – tényét az Országgyűlés állapítja meg.
 
-(4) A családtag vagyonnyilatkozata kivételével a vagyonnyilatkozat nyilvános, oldalhű másolatát – a családtag személyes adatai kivételével – a Hivatal gazdasági ügyekért felelős vezetője a Hivatal honlapján haladéktalanul közzéteszi. A vagyonnyilatkozat a Hivatal honlapjáról a köztársasági elnök megbízatásának megszűnését követő egy év elteltével távolítható el.
+(4) A családtag vagyonnyilatkozata kivételével a vagyonnyilatkozat nyilvános, oldalhű másolatát – a családtag személyes adatai kivételével – a Sándor-palota gazdasági ügyekért felelős vezetője a Sándor-palota honlapján haladéktalanul közzéteszi. A vagyonnyilatkozat a Sándor-palota honlapjáról a köztársasági elnök megbízatásának megszűnését követő egy év elteltével távolítható el.
 
-(5) A vagyonnyilatkozatot a Hivatal gazdasági ügyekért felelős vezetője kezeli.
+(5) A vagyonnyilatkozatot a Sándor-palota gazdasági ügyekért felelős vezetője kezeli.
 
 (6) A családtag vagyonnyilatkozatába csak az Országgyűlés alkotmányügyi kérdésekkel foglalkozó állandó bizottságának (a továbbiakban: alkotmányügyi bizottság) tagjai tekinthetnek be a köztársasági elnök vagyonnyilatkozatával kapcsolatos eljárás során.
 
@@ -14,4 +14,4 @@
 
 (8) A vagyonnyilatkozattal kapcsolatos eljárás során az alkotmányügyi bizottság felhívására a köztársasági elnök köteles a saját, illetve családtagja vagyonnyilatkozatában feltüntetett vagyoni, jövedelmi és érdekeltségi viszonyokat igazoló adatokat haladéktalanul, írásban bejelenteni. Az adatokba csak az alkotmányügyi bizottság tagjai tekinthetnek be. A vagyonnyilatkozattal kapcsolatos eljárás eredményéről az alkotmányügyi bizottság elnöke tájékoztatja az Országgyűlés elnökét, aki az alkotmányügyi bizottság által megállapított tényekről a soron következő ülésen tájékoztatja az Országgyűlést.
 
-(9) A köztársasági elnök által benyújtott igazoló adatokat a vagyonnyilatkozattal kapcsolatos eljárás lezárulását követő harmincadik napon törölni kell. A Hivatal gazdasági ügyekért felelős vezetője a volt köztársasági elnök és családtagja vagyonnyilatkozatát a köztársasági elnök megbízatásának megszűnését követő egy évig őrzi.
+(9) A köztársasági elnök által benyújtott igazoló adatokat a vagyonnyilatkozattal kapcsolatos eljárás lezárulását követő harmincadik napon törölni kell. A Sándor-palota gazdasági ügyekért felelős vezetője a volt köztársasági elnök és családtagja vagyonnyilatkozatát a köztársasági elnök megbízatásának megszűnését követő egy évig őrzi.
