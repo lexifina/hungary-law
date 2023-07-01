@@ -1,0 +1,5 @@
+1. § A hulladékról szóló 2012. évi CLXXXV. törvény (a továbbiakban: Ht.) 50. § (1) bekezdése szerinti kötelezett (a továbbiakban: kötelezett) a tevékenységek számviteli szétválasztása során a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szt.) szerinti alapelvek alkalmazása mellett az alábbi követelmények figyelembevételével jár el:
+
+a) egységesség elve: a számviteli szétválasztás során alkalmazott szabályrendszer megváltoztatásáról a Magyar Energetikai és Közmű-szabályozási Hivatalt (a továbbiakban: Hivatal) a kötelezett tájékoztatja, valamint a szabályrendszer megváltoztatását a kötelezett számviteli szétválasztási szabályzatában rögzíti, és az éves beszámoló kiegészítő mellékletében bemutatja;
+
+b) teljes körű tevékenységhez rendelés elve: a tevékenységek számviteli szétválasztása során – közvetlen hozzárendelés vagy más felosztási módszer alapján – minden eszköz, forrás, bevétel, költség és ráfordítás felosztásra kerül a tevékenységek között, a felosztás után nem marad tevékenységre fel nem osztott tétel.

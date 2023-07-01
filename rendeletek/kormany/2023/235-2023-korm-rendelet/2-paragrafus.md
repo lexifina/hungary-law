@@ -1,0 +1,7 @@
+2. § (1) Az eszközöket, forrásokat, bevételeket, költségeket és ráfordításokat elsődlegesen közvetlenül kell felosztani. Ha az eszközök, források, bevételek, költségek és ráfordítások az egyes tevékenységekhez nem rendelhetők hozzá közvetlenül, akkor a kötelezett a számviteli szétválasztási szabályzatában meghatározott módszerek és vetítési alapok alapján végzi el a felosztást. Az eszközökhöz és forrásokhoz kapcsolódó bevételek, költségek és ráfordítások egymással összhangban kerülnek a tevékenységek között felosztásra.
+
+(2) A koncessziós társaság a Ht. 50. § (2) bekezdése szerinti számviteli szétválasztási szabályzatában meghatározott módon, vetítési alapok alkalmazásával osztja fel az eszközeit, a forrásait, a bevételeit, a költségeit és a ráfordításait a Ht. 50. § (3) bekezdés a) pontja szerinti tevékenységek között.
+
+(3) A koncesszori alvállalkozó a szétválasztást a Ht. 50. § (2) bekezdése szerinti számviteli szétválasztási szabályzatában meghatározott módon, az eszközeit, a forrásait, a bevételeit, a költségeit és a ráfordításait azok felmerülésének elsődleges helye szerinti bontásban, a Ht. 50. § (3) bekezdés a) pontja szerinti tevékenységek között felosztva készíti el.
+
+(4) A B3 alkategóriájú hulladéklerakó, valamint a Ht. 18/A. § (1) bekezdése szerinti hulladékégető mű üzemeltetője a Ht. 50. § (3) bekezdés b) pontjában meghatározott tevékenysége szerinti felosztást az eszközök, a források, a bevételek, a költségek és a ráfordítások felmerülésének elsődleges helye szerinti bontásban készíti el.
