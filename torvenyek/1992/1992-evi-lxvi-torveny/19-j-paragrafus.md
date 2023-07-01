@@ -1,0 +1,3 @@
+19/J. § (1) A nyilvántartást kezelő szervtől a Belső Ellenőrzési és Integritási Igazgatóság – az Európai Unió pénzügyi érdekei védelme érdekében – az összeférhetetlenségi nyilatkozatok és az érdekeltségi nyilatkozatok ellenőrzéséhez a természetes személyazonosító adatok és lakcímadatok, az állampolgárság, a családi állapot, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye, a nem, a nyilvántartásból való kikerülés oka, helye és ideje adatok igénylésére jogosult.
+
+(2) A Magyar Országos Horgász Szövetség a horgásznyilvántartás, valamint a rekreációs halásznyilvántartás működtetése céljából, a közfeladatainak ellátása érdekében a természetes személyazonosító, a lakcím, az állampolgárság, az elhalálozás ténye és ideje adatokat jogosult igényelni.

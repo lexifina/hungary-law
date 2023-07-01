@@ -20,9 +20,11 @@
 
 a) egyedi adatszolgáltatás: egy polgár adatainak közlése;
 
-b) csoportos adatszolgáltatás: az adatigénylő által vagy jogszabályban meghatározott szempontok szerint képzett csoportba tartozó polgárok adatainak rendszeres vagy eseti közlése.
+b) csoportos adatszolgáltatás: az adatigénylő által vagy jogszabályban meghatározott szempontok szerint képzett csoportba tartozó polgárok adatainak közlése;
 
-(8)
+c) rendszeres adatszolgáltatás: a polgárok adatainak ismétlődő közlése.
+
+(8) Statisztikai adatszolgáltatás: a nyilvántartás 11. § (1) bekezdésében meghatározott adatainak, valamint a nyilvántartásban kezelt technikai jellegű, nem személyes adatoknak a 2. § (5) bekezdésében foglaltak szerinti közlése.
 
 (9) A nyilvántartás alapiratai: azok az iratok, amelyek alapján a polgár személyi, lakcím és értesítési cím adatait és azokban bekövetkezett változásokat a nyilvántartásba felvették.
 

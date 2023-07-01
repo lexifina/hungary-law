@@ -1,4 +1,4 @@
-24/A. § (1) A nyilvántartás szerve kizárólag az ugyanazon polgárokra vonatkozó, rendszeresen ismétlődő csoportos adatszolgáltatás igényléséhez és átadásához, valamint az adatszolgáltatást kérő nyilvántartásának karbantartásához felhasználható kapcsolati kódot képezhet.
+24/A. § (1) A nyilvántartás szerve kizárólag az ugyanazon polgárokra vonatkozó és rendszeres adatszolgáltatás igényléséhez és átadásához, valamint az adatszolgáltatást kérő nyilvántartásának karbantartásához felhasználható kapcsolati kódot képezhet.
 
 (2) A kapcsolati kód tartalmát és képzési szabályát az adatkérő nem határozhatja meg. Az ugyanazon polgárra vonatkozó különféle adatszolgáltatásoknál adatkérőnként eltérő tartalmú kapcsolati kódot kell képezni.
 

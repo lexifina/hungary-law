@@ -22,7 +22,7 @@ h) lakcímét;
 
 i) az adatszolgáltatásra vonatkozó, 2. § (1) bekezdés szerinti korlátozást, illetve tilalmat;
 
-j) adataiból történő rendszeres adatszolgáltatásra vonatkozó jelzést;
+j)
 
 k) családi állapotát, házasságkötése vagy bejegyzett élettársi kapcsolata létesítésének helyét;
 
@@ -46,7 +46,7 @@ t) kártyaformátumú vezetői engedélye okmányazonosítóját, érvényesség
 
 (1a) Az (1) bekezdés s) és t) pontja szerinti adatot a nyilvántartás az 1. § (2) bekezdése szerinti célból – a személyazonosításra alkalmas adatokkal együtt – a polgárok személyazonosság igazolására alkalmas hatósági igazolványai érvényességének egységes nyilvántartása és igazolása céljából tartalmazza.
 
-(2) A nyilvántartás a szabad mozgás és tartózkodás jogával rendelkező személynek az (1) bekezdés a)–j) és l) pontja szerinti adatait, valamint személyi azonosítójáról és lakcíméről kiadott hatósági igazolványának okmányazonosítóját tartalmazza.
+(2) A nyilvántartás a szabad mozgás és tartózkodás jogával rendelkező személynek az (1) bekezdés a)–i) és l) pontja szerinti adatait, valamint személyi azonosítójáról és lakcíméről kiadott hatósági igazolványának okmányazonosítóját tartalmazza.
 
 (3) Ha a menekült vagy oltalmazott jogállású személy letelepedett jogállást szerez, a nyilvántartás mind a menekült, illetve oltalmazott, mind a letelepedett jogállását tartalmazza.
 

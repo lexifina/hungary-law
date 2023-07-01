@@ -2,7 +2,7 @@
 
 a) a helyi önkormányzatok szervei törvényben vagy önkormányzati rendeletben meghatározott feladataik ellátásához;
 
-b)
+b) az állampolgárságra, a családi állapotra, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helyére, a nemre, valamint a nyilvántartásból való – az elhalálozás tényén kívüli – kikerülés okára, helyére és idejére vonatkozó adatok kivételével az igazságügyi szakértői névjegyzéket vezető hatóság a névjegyzékben szereplő igazságügyi szakértő adatainak ellenőrzéséhez;
 
 c) a szabálysértési hatóság a hatáskörébe tartozó szabálysértési eljárásban a feljelentett vagy tanú (szakértő) személyi adatainak és lakcímének megállapításához;
 

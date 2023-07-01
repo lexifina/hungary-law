@@ -2,6 +2,8 @@
 
 (2) A nyilvántartást kezelő szerv engedélyezi az adatigénylő részére a rendszeres vagy közvetlen hozzáféréssel történő adatszolgáltatást.
 
+(2a) A nyilvántartásból rendszeres adatszolgáltatást vagy közvetlen hozzáféréssel történő adatszolgáltatást igénybe vevő szervezet vagy személy – az adatszolgáltatás igénybevételéhez – a nyilvántartást kezelő szerv részére megadott adataiban bekövetkezett változásokról az adatváltozást követő három munkanapon belül értesíti a nyilvántartást kezelő szervet.
+
 (3) Csoportos adatszolgáltatás a járási hivatal illetékességi területén lakcímmel rendelkező polgárok adatairól az illetékes járási hivataltól, egy járási hivatal illetékességi területét meghaladó polgárok adatairól a nyilvántartást kezelő szervtől igényelhető.
 
 (4) Adatszolgáltatás helyett a kérelmező bármely járási hivatalnál és a kijelölt kormányhivatalnál igényelheti, hogy kapcsolatfelvétel céljából a járási hivatal vagy a kijelölt kormányhivatal az általa megjelölt személyt, személyi kört keresse meg, és

@@ -22,13 +22,15 @@ g) elhalálozás ténye, helye és ideje.
 
 h) a 24/I. § szerinti adatok.
 
-(3) A nyilvántartás szervei a 11. § (1) bekezdésében meghatározott adatokat — a 2. § (5) bekezdésében foglalt feltételekkel — statisztikai célra felhasználhatják és azokat nyilvánosságra hozhatják.
+(3) A nyilvántartás szervei a 11. § (1) bekezdésében meghatározott adatokat – a 2. § (5) bekezdésében foglalt feltételekkel – statisztikai célból felhasználhatják, és azokat nyilvánosságra hozhatják, valamint statisztikai adatszolgáltatást végezhetnek.
 
 (4)
 
 (5)
 
 (6) A nyilvántartást kezelő szerv a 29. § (2) bekezdésében meghatározott adatokról és a lakcímről, valamint a 11. § (1) bekezdés n) pontjában meghatározott adatokról törvény, illetve az érintett hozzájárulása alapján az adat kezelésére jogosult adatkérő részére a személyazonosító igazolvány adatainak, valamint az érintett lakcímének ellenőrzése, az érintett személy azonosítása céljából adatot szolgáltathat. Az érintett arcképmását és saját kezű aláírását a személyazonosítást követően az adatkérő haladéktalanul törli, kivéve, ha az érintett ezen adatok további kezeléséhez hozzájárult, vagy azt törvény lehetővé teszi.
+
+(6a) A járási hivatal a (6) bekezdésben meghatározott és rendelkezésre álló adatok szolgáltatását, – az ott megjelölt célból, feltételekkel és korlátok között – egyedi adatszolgáltatás keretében teljesítheti.
 
 (7) A rendőrség határforgalom-ellenőrzést végző szerve a jogosulatlan külföldre utazás megakadályozása, illetőleg a személyazonosító igazolvány adattartalmának és érvényességének a személyazonosítás során történő ellenőrzése céljából a nyilvántartásból – közvetlen adathozzáféréssel – adatokat vehet át. Az átvett adatokat a személyazonosítást követően az adatkérőnek haladéktalanul törölnie kell.
 
