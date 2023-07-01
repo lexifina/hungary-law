@@ -1,6 +1,6 @@
 ## A névváltozási hatósági bizonyítvány
 
-75. § (1) Ha az anyakönyvi eljárásban megváltozott név igazolását kérik, a születést nyilvántartó anyakönyvvezető vagy – névváltoztatási eljárás esetén – a névváltoztatási eljárás lefolytatására kijelölt anyakönyvi szerv névváltozási hatósági bizonyítványt állít ki.
+75. § (1) Ha anyakönyvi eljárásban megváltozott név igazolását kérik, a nyilvántartó anyakönyvvezető névváltozási hatósági bizonyítványt állít ki.
 
 (2) A névváltozási hatósági bizonyítvány tartalmazza
 

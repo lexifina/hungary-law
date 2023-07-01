@@ -24,6 +24,8 @@ ib) a 69/B. § (1) bekezdés b) pont bi) alpontja szerinti adatnak a házassági
 
 ic) a 69/B. § (1) bekezdés b) pont bi) alpontja szerinti adatnak az utónév-módosítás következtében történt változását és annak időpontját,
 
+id) a 69/B. § (1) bekezdés b) pont bi) alpontja szerinti adatnak a névváltoztatás következtében történt változását és annak időpontját,
+
 j) az e)–g) pontban szereplő adatok változását,
 
 k) az adatot bejegyző személy nevét és felhasználói azonosítóját,

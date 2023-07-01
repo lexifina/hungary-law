@@ -24,6 +24,10 @@ a) névváltoztatási kérelem esetén negyvenöt nap,
 
 b) ha – ide nem értve a külföldi állampolgárságot, illetve személyazonosságot igazoló okiratot – az anyakönyvi bejegyzés teljesítésének alapja külföldi okirat, hatvanöt nap,
 
-c) hazai anyakönyvezési kérelem esetén hetvenöt nap.
+c) hazai anyakönyvezési kérelem esetén – a (10a) bekezdésében foglalt kivétellel – hetvenöt nap.
 
-(11) Az anyakönyvi szerv az elektronikus úton előterjesztett házassági névviselési forma módosítására irányuló kérelem esetén az automatikus döntéshozatali eljárás szabályai szerint folytatja le az eljárást.
+(10a) Ha a hazai anyakönyvezési eljárás lefolytatásához további külföldi okirat beszerzése vagy a magyar állampolgárság vizsgálata szükséges, a hazai anyakönyvezési eljárás ügyintézési határideje hat hónap.
+
+(11) A kijelölt anyakönyvi szerv – kormányrendeletben meghatározott feltételek teljesülése esetén – az elektronikus úton előterjesztett házassági névviselési forma módosítására irányuló kérelem alapján az automatikus döntéshozatali eljárás szabályai szerint folytatja le az eljárást.
+
+(12) A névváltoztatási eljárásban, valamint a hazai anyakönyvezési eljárásban a sommás eljárás alkalmazásának nincs helye.

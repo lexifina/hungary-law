@@ -10,7 +10,7 @@ d) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény s
 
 e) ha valamelyik vagy mindkét szülő képzelt, ennek tényét,
 
-f) az a), d) és e) pontban foglalt adatok változását az anya házassági neve változásának kivételével,
+f) az a), d) és e) pontban foglalt adatok változását a szülők házassági neve változásának kivételével,
 
 g) az adatot bejegyző személy nevét és felhasználói azonosítóját,
 

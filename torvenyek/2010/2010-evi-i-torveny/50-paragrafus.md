@@ -1,4 +1,4 @@
-50. § (1) A név megváltoztatása iránti kérelmet személyesen kell benyújtani bármely anyakönyvvezetőnél. A külföldön élő magyar állampolgár a kérelmét bármely hivatásos konzuli tisztviselőnél is előterjesztheti.
+50. § (1) A névváltoztatási kérelem személyesen vagy az e törvényben meghatározott esetben elektronikus úton terjeszthető elő.
 
 (2) A kérelemnek tartalmaznia kell
 

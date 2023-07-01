@@ -8,7 +8,7 @@
 
 (4)
 
-(5) Ha a feleség a házasságkötést megelőzően olyan házassági nevet viselt, amelyet az újabb házasságkötést követően nem viselhet tovább és a házasság megkötéséig nem nyilatkozott a házasságkötés után viselni kívánt házassági nevéről, házassági névként a születési nevét kell bejegyezni.
+(5)
 
 (6) Ha a bíróság a volt feleséget a házasságra utaló toldást tartalmazó házassági név viselésétől jogerős ítéletében eltiltotta, és a volt feleség nem nyilatkozott a viselni kívánt házassági névről, házassági névként a születési nevét kell bejegyezni.
 

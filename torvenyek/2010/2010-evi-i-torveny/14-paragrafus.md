@@ -22,7 +22,7 @@ c) a külföldi okirat az anyakönyvbe bejegyzendő adatot nem az elektronikus a
 
 (3c) A nem magyar nyelven kiállított okirat – az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusában foglaltak kivételével, vagy ha e törvény, illetve az ügyfajtára vonatkozó jogszabály másként nem rendelkezik – csak hiteles magyar fordítással ellátva fogadható el.
 
-(3d) A hazai anyakönyvezésre irányuló eljárásban nem szükséges fordítás az angol, német vagy francia nyelven kiállított okiratokhoz.
+(3d) A hazai anyakönyvezésre irányuló eljárásban nem szükséges fordítás az angol, német vagy francia nyelven kiállított, kormányrendeletben meghatározott anyakönyvi okiratokhoz.
 
 (3e) Az anyakönyvi eljárásban a hivatásos konzuli tisztviselő előtt benyújtott okirat hiteles magyar fordítása helyett a külföldi okirat anyakönyvezés szempontjából lényeges tartalmáról készített hivatalos, kivonatolt fordítás is elfogadható.
 

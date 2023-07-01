@@ -6,7 +6,7 @@
 
 (3) Ha a kérelmező a házassági névviselési forma módosításával érintett házasságát külföldön kötötte, a kérelem elbírálásának feltétele a házasság hazai anyakönyvezése.
 
-(4)
+(4) A házassági névviselési forma módosítása anyakönyvbe történő bejegyzésének feltétele, hogy a házastársak e törvény hatálya alá tartozó születési anyakönyvi bejegyzését az elektronikus anyakönyv tartalmazza.
 
 (5) Ha a bíróság a volt feleséget eltiltotta a házasságra utaló toldást tartalmazó házassági név viselésétől, a bíróság értesíti a házasságkötést nyilvántartó anyakönyvvezetőt. Az értesítés tartalmazza
 

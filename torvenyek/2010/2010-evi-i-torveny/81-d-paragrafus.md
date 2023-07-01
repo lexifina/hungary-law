@@ -8,7 +8,7 @@ c) a kincstár a hatáskörébe tartozó támogatási eljárás lefolytatása c�
 
 d) az egészségbiztosítási szerv az ellátásra való jogosultság megállapítása céljából,
 
-e) a nyugdíjbiztosítási szerv az ellátásra való jogosultság megállapítása céljából,
+e) a nyugdíjbiztosítási igazgatási szerv a nyugellátások és a hatáskörébe tartozó egyéb ellátások megállapítása és ellenőrzése céljából,
 
 f) a kárpótlási hatóság az életüktől és szabadságuktól politikai okból megfosztottak kárpótlására való jogosultság megállapítása céljából,
 

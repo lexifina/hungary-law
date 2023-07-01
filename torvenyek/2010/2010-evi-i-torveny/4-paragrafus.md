@@ -32,7 +32,7 @@ db) a házassági és szülői felelősségi ügyekben a joghatóságról, a hat
 
 az irányadó,
 
-e) teljesíti az anyakönyvi bejegyzést, ha annak alapja nem magyar állampolgár anyától származó gyermekre tett teljes hatályú apai elismerő nyilatkozat,
+e)
 
 f) eljár a 12/B. § (2) bekezdésében meghatározott esetben,
 
@@ -44,4 +44,4 @@ h) elektronikus úton benyújtott kérelem esetén dönt a házassági névvisel
 
 (8) Az anyakönyvi hatósági bizonyítvány kiállítására az anyakönyvvezető jogosult.
 
-(9) A névváltozási hatósági bizonyítványt az anyakönyvvezető vagy a névváltoztatásért felelős anyakönyvi szerv állítja ki.
+(9) A névváltozási hatósági bizonyítványt az anyakönyvvezető állítja ki.

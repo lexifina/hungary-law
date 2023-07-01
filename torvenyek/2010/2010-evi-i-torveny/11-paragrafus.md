@@ -2,4 +2,4 @@
 
 (2) Az elektronikus anyakönyvben szereplő anyakönyvi eseményt érintő, kérelemre induló anyakönyvi eljárás lefolytatására és az adatváltozás bejegyzésére bármely anyakönyvvezető és anyakönyvi szerv illetékes.
 
-(3) Az anyakönyvi eseményt érintő adatmódosítás esetén az eljáró anyakönyvvezető az elektronikus anyakönyvben szereplő, kapcsolódó születési, házassági, bejegyzett élettársi vagy halotti anyakönyvi bejegyzésben történő adatmódosításra is illetékes.
+(3) Az anyakönyvi eseményt érintő adatmódosítás esetén az eljáró anyakönyvvezető vagy anyakönyvi szerv az elektronikus anyakönyvben szereplő, kapcsolódó születési, házassági, bejegyzett élettársi vagy halotti anyakönyvi bejegyzésben történő adatmódosításra is illetékes.

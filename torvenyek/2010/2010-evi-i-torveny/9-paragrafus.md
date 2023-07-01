@@ -6,6 +6,8 @@ a) az elektronikus anyakönyvben szereplő bejegyzés esetén bármely anyaköny
 
 b) az elektronikus anyakönyvben még nem szereplő anyakönyvi bejegyzés esetén a nyilvántartó anyakönyvvezető,
 
-c) az elektronikus anyakönyvben szereplő anyakönyvi bejegyzés vonatkozásában elektronikusan benyújtott kérelem esetén az anyakönyvi szerv
+c) elektronikusan benyújtott kérelem esetén a házasságkötés helye szerint illetékes anyakönyvi szerv,
+
+d) elektronikusan benyújtott kérelem alapján indult automatikus döntéshozatali eljárásban a kijelölt anyakönyvi szerv
 
 illetékes.
