@@ -33,3 +33,5 @@
 (8a) Ha az állam tulajdonában álló és haszonbérbe adással hasznosított ingatlan nemzetgazdasági szempontból kiemelt jelentőségű beruházással érintett területen helyezkedik el, vagy nemzetgazdasági szempontból kiemelt jelentőségű beruházással érintett terület cserével történő megszerzéséhez szükséges, az NFK a haszonbérleti szerződés lejárati idő előtti megszüntetése érdekében a haszonbérlővel kompenzációs megállapodást köthet. A kompenzáció összegét az e törvény végrehajtására kiadott kormányrendeletben foglaltak szerint kell megállapítani.
 
 (9) Az egykori Rozmaring Mezőgazdasági Termelőszövetkezet működési területén kárpótlásra váró személyek helyzetének rendezéséről szóló 2021. évi CXLV. törvény alapján az NFK kompenzációs tulajdonszerzési szerződést köt.
+
+(10) A Nemzeti Földalapba tartozó földrészlet vonatkozásában az adott területen felépítménnyel rendelkező személy javára legfeljebb 20 éves időtartamra építményi jog alapítható. Az építményi jog ellenértékének meghatározása során az adott terület használati jogosultságának tényleges értékét kell figyelembe venni.

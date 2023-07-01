@@ -12,7 +12,7 @@ d) művelés alól kivett, honvédelmi célra feleslegessé nyilvánított terü
 
 e) a termőföld védelméről szóló törvényben állandó jellegű növényházként meghatározott és az ingatlan-nyilvántartásban ekként nyilvántartott művelés alól kivett földrészlet.
 
-f) művelés alól kivett területként nyilvántartott belvízelvezető csatorna, állandó jellegű öntözőcsatorna (rizstelep elárasztó és lecsapoló főcsatornái), valamint egyéb árok.
+f) művelés alól kivett területként nyilvántartott, az öntözéses gazdálkodásról szóló 2019. évi CXIII. törvényben meghatározott azon harmadlagos műnek minősülő csatorna vagy árok, amely elsődlegesen öntözési, öntözésfejlesztési célt szolgál.
 
 (2) Az (1) bekezdésben foglaltakon túl a Nemzeti Földalap részét képezik az (1) bekezdésben meghatározott területekhez kapcsolódó vagyoni értékű jogok is.
 
