@@ -1,0 +1,1 @@
+14/A. § Felhatalmazást kap a katasztrófák elleni védekezésért felelős miniszter, hogy rendeletben állapítsa meg a biztonsági összekötő személy rendszeres szakmai képzésére, továbbképzésére vonatkozó szabályokat.
