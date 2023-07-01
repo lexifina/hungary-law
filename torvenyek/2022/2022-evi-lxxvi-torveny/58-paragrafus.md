@@ -1,29 +1,29 @@
 58. § Nem lép hatályba az egyes energetikai és hulladékgazdálkodási tárgyú törvények módosításáról szóló 2021. évi II. törvény
 
-a)
+a) 20. § (2) bekezdés b)–f) pontja,
 
-b)
+b) 21. § b)–f) pontja,
 
-c)
+c) 49. § (1), (4) és (5) bekezdése,
 
-d)
+d) 55. § (2) bekezdése,
 
-e)
+e) 61. §-a,
 
-f)
+f) 90. § (2) bekezdés 3. pontja,
 
-g)
+g) 90. § (2) bekezdés 12–14. pontja,
 
-h)
+h) 90. § (2) bekezdés 28. pontja,
 
-i)
+i) 90. § (2) bekezdés 30. és 31. pontja,
 
-j)
+j) 90. § (2) bekezdés 41. és 42. pontja.
 
-k)
+k) 91. § (2) bekezdés 3. pontja,
 
-l)
+l) 91. § (2) bekezdés 15. pontja,
 
-m)
+m) 91. § (2) bekezdés 17. pontja,
 
-n)
+n) 91. § (2) bekezdés 21. pontja.

@@ -1,5 +1,9 @@
 45. § (1)
 
-(2)
+(2) A hulladékról szóló 2012. évi CLXXXV. törvény 92/G. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-(3)
+„(1) 2028. június 30. napjáig a hulladékgazdálkodási közszolgáltatási résztevékenység ellátására létesült vagy beszerzett hulladékgazdálkodási vagyonelem átruházásához, a vagyonelemek birtoklását, hasznosítását, használatát, a hasznai szedését, valamint az azzal való rendelkezést érintő szerződéses jogviszony létesítéséhez, megszüntetéséhez és módosításához a miniszter – e törvény végrehajtására kiadott kormányrendeletben meghatározott szempontok szerinti – előzetes jóváhagyása szükséges, kivéve az olyan szerződéses jogviszonyt, amely a koncesszori alvállalkozói tevékenység, vagy a koncessziós társaság részére történő kezelési szolgáltatás nyújtás 2023. július 1. napjától történő ellátását szolgálja.”
+
+(3) A hulladékról szóló 2012. évi CLXXXV. törvény 92/G. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) A miniszter az (1) bekezdésben meghatározott szerződés jóváhagyását megelőzően beszerzi a Környezeti és Energiahatékonysági Operatív Program végrehajtásáért felelős irányító hatóság (a továbbiakban: Irányító Hatóság) véleményét az Európai Unió támogatásával megvalósítás, beszerzés, vagy fenntartási kötelezettség alatt álló hulladékgazdálkodási eszközök és létesítmények vonatkozásában. Ha az Irányító Hatóság a véleményt a miniszteri megkeresés kézhezvételétől számított 15 napon belül nem küldi meg a miniszter részére, a miniszter anélkül dönt. A vélemény megadása tekintetében hiánypótlásnak nincs helye.”
