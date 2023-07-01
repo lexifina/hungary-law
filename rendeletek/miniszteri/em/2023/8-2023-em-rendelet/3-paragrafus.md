@@ -1,0 +1,3 @@
+3. § (1) A gazdálkodó szervezeteknél képződő, a hulladékgazdálkodási intézményi résztevékenység körébe tartozó, elkülönítetten gyűjtött hulladék képződésének megelőzésével, valamint e hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályairól szóló kormányrendelet szerint fizetendő díj egy egységre vetített mértékét a 3. melléklet tartalmazza.
+
+(2) Az (1) bekezdés szerinti díjra vonatkozó díjalkalmazási feltételeket, a számlázási és fizetési módot, az elszámolási és a számlázási időszakot a koncessziós társaság honlapján közzétett általános szerződési feltételek határozzák meg.

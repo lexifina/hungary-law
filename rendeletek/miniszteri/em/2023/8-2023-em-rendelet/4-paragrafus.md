@@ -1,0 +1,1 @@
+4. § A települési önkormányzat által a koncessziós társaság részére az önkormányzat köztisztasági feladatainak ellátásával összefüggésben a koncessziós társaság által végzett hulladékgazdálkodási tevékenységekért a Ht. 33. § (6) és (7) bekezdésének megfelelően fizetendő díj egy egységre vetített mértékét a 4. melléklet tartalmazza.
