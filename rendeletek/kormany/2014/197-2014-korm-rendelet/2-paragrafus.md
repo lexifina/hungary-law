@@ -36,7 +36,7 @@ nem tekintendő gyártónak az, aki (amely) valamely finanszírozási megállapo
 
 12.[^6] in vitro diagnosztikai orvostechnikai eszköz: az in vitro diagnosztikai orvostechnikai eszközökről, valamint a 98/79/EK irányelv és a 2010/227/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/746 európai parlamenti és tanácsi rendelet (a továbbiakban: IVDR) 2. cikk 2. pontja szerinti olyan eszköz, vagy annak az IVDR 2. cikk 4. pontja szerinti olyan tartozéka, amely elektromos vagy elektronikus eszköznek minősül;
 
-13. közvetítő szervezet: az a Ht. 2. § (1) bekezdés 38a. pontja szerinti közvetítő szervezet, amely törvényben vagy kormányrendeletben meghatározott hulladékgazdálkodási feladatokat lát el, kivéve azokat a feladatokat, amelyek a környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény (a továbbiakban: Ktdt.) hatálya alá tartozó termékdíjköteles termékekre vonatkoznak;
+13.[^7]
 
 14. nagyméretű, helyhez kötött elektromos, elektronikus berendezés: különböző típusú készülékek vagy eszközök nagyméretű összessége,
 
@@ -50,7 +50,7 @@ c) amelyek kizárólag ugyanolyan speciális kialakítású berendezésekkel hel
 
 16. nem közúti mozgó gép: fedélzeti energiaforrással rendelkező gép, amelynek működtetése folyamatos vagy részben folyamatos mozgást követel meg meghatározott munkavégzési helyek között;
 
-17.[^7] orvostechnikai eszköz: az MDR 2. cikk 1. pontja szerinti olyan eszköz vagy annak az MDR 2. cikk 2. pontja szerinti olyan tartozéka, amely elektromos vagy elektronikus berendezésnek minősül;
+17.[^8] orvostechnikai eszköz: az MDR 2. cikk 1. pontja szerinti olyan eszköz vagy annak az MDR 2. cikk 2. pontja szerinti olyan tartozéka, amely elektromos vagy elektronikus berendezésnek minősül;
 
 18. piaci hozzáférhetőség biztosítása: Magyarország piacán egy termék gazdasági tevékenység keretében történő rendelkezésre bocsátása forgalmazás, fogyasztás vagy használat céljára, függetlenül attól, hogy az fizetés ellenében vagy ingyenesen történik;
 
@@ -60,8 +60,12 @@ c) amelyek kizárólag ugyanolyan speciális kialakítású berendezésekkel hel
 
 (2) E rendeletben az elem- és akkumulátorhulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló kormányrendeletben, és az egyes hulladékgazdálkodási létesítmények kialakításának és üzemeltetésének szabályairól szóló kormányrendeletben meghatározott fogalmak is alkalmazandóak.
 
+(3)[^9] Az e rendeletben alkalmazott fogalmakat a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló kormányrendeletben meghatározottak szerint kell értelmezni.
+
 [^3]: A 2. § a 370/2014. (XII. 30.) Korm. rendelet 27. §-ával megállapított szöveg.
 [^4]: Az 1. § (1) bekezdés a) pontja az 525/2017. (XII. 29.) Korm. rendelet 11. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^5]: A 2. § (1) bekezdés 7. pontja az 525/2017. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^6]: A 2. § (1) bekezdés 12. pontja a 135/2022. (IV. 7.) Korm. rendelet 20. §-ával megállapított szöveg.
-[^7]: A 2. § (1) bekezdés 17. pontja a 164/2020. (IV. 30.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
+[^7]: A 2. § (1) bekezdés 13. pontját a 276/2023. (VI. 29.) Korm. rendelet 40. § a) pontja hatályon kívül helyezte.
+[^8]: A 2. § (1) bekezdés 17. pontja a 164/2020. (IV. 30.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
+[^9]: A 2. § (3) bekezdését a 276/2023. (VI. 29.) Korm. rendelet 28. §-a iktatta be.

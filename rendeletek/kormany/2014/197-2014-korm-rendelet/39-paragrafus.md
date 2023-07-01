@@ -1,3 +1,3 @@
-## 38. §[^98]
+39. §[^103]
 
-[^98]: A 38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^103]: A 39. § a 370/2014. (XII. 30.) Korm. rendelet 40. § (1) bekezdése alapján nem lép hatályba.

@@ -1,6 +1,6 @@
 9. melléklet a 197/2014. (VIII. 1.) Korm. rendelethez
 
-## A szállításra vonatkozó minimumkövetelmények
+A szállításra vonatkozó minimumkövetelmények
 
 1. Ha a szállítmány birtokosa használt elektromos, elektronikus berendezést és nem hulladékká vált elektromos, elektronikus berendezést szállít vagy kíván szállítani, akkor – annak érdekében, hogy különbséget lehessen tenni a használt elektromos, elektronikus berendezés és a hulladékká vált elektromos, elektronikus berendezés között – a szállítmány birtokosának a következő igazolással kell rendelkeznie:
 

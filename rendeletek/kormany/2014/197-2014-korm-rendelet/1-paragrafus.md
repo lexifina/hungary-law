@@ -10,7 +10,7 @@ c) az a) pont szerinti elektromos, elektronikus berendezések visszavételére, 
 
 d) a hulladékká vált elektromos, elektronikus berendezések átvételére, gyűjtésére, szállítására, hasznosítására és ártalmatlanítására
 
-## terjed ki.
+terjed ki.
 
 (2)[^2] Nem terjed ki e rendelet hatálya
 

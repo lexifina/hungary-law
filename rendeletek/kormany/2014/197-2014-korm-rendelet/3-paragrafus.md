@@ -1,6 +1,6 @@
-## 2/B. §[^9] A hulladékká vált elektromos, elektronikus berendezések elektromos és elektronikus berendezésekből származó hulladékainak képződése és a hulladékok kezelése nyomán bekövetkező, környezetre káros hatások megelőzése vagy csökkentése, valamint az erőforrás-felhasználás általános hatásainak csökkentése és e felhasználás hatékonyságának javítása, továbbá a környezetet és az emberi egészség védelme érdekében a hulladékhierarchia alkalmazását szolgáló gazdasági és egyéb intézkedéseket, illetve az azokkal egyenértékű megoldásokat a Ht. 5. melléklete szerint kell meghatározni.
+## 2/B. §[^11] A hulladékká vált elektromos, elektronikus berendezések elektromos és elektronikus berendezésekből származó hulladékainak képződése és a hulladékok kezelése nyomán bekövetkező, környezetre káros hatások megelőzése vagy csökkentése, valamint az erőforrás-felhasználás általános hatásainak csökkentése és e felhasználás hatékonyságának javítása, továbbá a környezetet és az emberi egészség védelme érdekében a hulladékhierarchia alkalmazását szolgáló gazdasági és egyéb intézkedéseket, illetve az azokkal egyenértékű megoldásokat a Ht. 5. melléklete szerint kell meghatározni.
 
-## 3. A gyártó visszavételi, átvételi, gyűjtési és kezelési kötelezettsége
+## 3.[^12] A visszavételi, az átvételi, a gyűjtési és a kezelési kötelezettség
 
 3. § (1) A gyártó
 
@@ -10,7 +10,7 @@ b) a más gyártó által forgalomba hozott, használt elektromos, elektronikus 
 
 – különösen a használt elektromos, elektronikus berendezés újrahasználatának biztosítása érdekében – a fogyasztótól visszaveszi, ha azt a fogyasztó a részére visszavételre felajánlja (visszavételi kötelezettség).
 
-(1a)[^10] Ha a természetes személy fogyasztó az (1) bekezdés szerinti használt elektromos, elektronikus berendezést a forgalmazás helyszínén a gyártónak visszavételre felajánlja, a gyártó a fogyasztó részére új elektromos, elektronikus berendezés vásárlása esetén az 1. melléklet 2. pontjában meghatározott összegű vásárlási utalványt ad a következő feltételek szerint:
+(1a)[^13] Ha a természetes személy fogyasztó az (1) bekezdés szerinti használt elektromos, elektronikus berendezést a forgalmazás helyszínén a gyártónak visszavételre felajánlja, a gyártó a fogyasztó részére új elektromos, elektronikus berendezés vásárlása esetén az 1. melléklet 2. pontjában meghatározott összegű vásárlási utalványt ad a következő feltételek szerint:
 
 a) a vásárlási utalványban szereplő összeg alapján adható árengedmény az új elektromos, elektronikus berendezés fogyasztói vételárának 10%-át nem haladhatja meg, kivéve, ha a gyártó több árengedményt vagy kedvezményt kíván a fogyasztó részére biztosítani;
 
@@ -20,14 +20,16 @@ c) a vásárlási utalvány csak a használt elektromos, elektronikus berendezé
 
 d) a vásárlási utalvány összege nem áthárítható.
 
-(2) A gyártó a fogyasztótól visszavett használt elektromos, elektronikus berendezés mennyiségét – ha annak újrahasználata nem biztosítható – a 2. melléklet 1. pontjában meghatározottak szerint gyűjtési mennyiségként elszámolhatja.
+(2)[^14] Egyéni teljesítés esetén a gyártó a fogyasztótól visszavett használt elektromos, elektronikus berendezés mennyiségét – ha annak újrahasználata nem biztosítható – a 2. melléklet 1. pontjában meghatározottak szerint gyűjtési mennyiségként elszámolhatja.
 
 (3) A gyártó a használt elektromos, elektronikus berendezés visszavételét a fogyasztót terhelő fizetési kötelezettség teljesítéséhez nem kötheti.
 
-(4)[^11] A gyártó a használt elektromos, elektronikus berendezés visszavételét megtagadhatja, ha az elektromos, elektronikus berendezés a visszavétel során a visszavételt végző egészségére vagy testi épségére súlyos veszélyt jelent.
+(4)[^15] A gyártó a használt elektromos, elektronikus berendezés visszavételét megtagadhatja, ha az elektromos, elektronikus berendezés a visszavétel során a visszavételt végző egészségére vagy testi épségére súlyos veszélyt jelent.
 
 (5) Ha a gyártó a (4) bekezdésben meghatározott eset valamelyikére hivatkozva a használt elektromos, elektronikus berendezés visszavételét megtagadja, a berendezést hulladéknak kell tekinteni. Ebben az esetben a Ht. 31. § (2) bekezdése alapján gondoskodni kell a hulladék kezeléséről.
 
-[^9]: A 2/B. §-t a 158/2021. (III. 31.) Korm. rendelet 16. §-a iktatta be.
-[^10]: A 3. § (1a) bekezdését a 370/2014. (XII. 30.) Korm. rendelet 29. §-a iktatta be.
-[^11]: A 3. § (4) bekezdése az 525/2017. (XII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^11]: A 2/B. §-t a 158/2021. (III. 31.) Korm. rendelet 16. §-a iktatta be.
+[^12]: A 3. alcím címe a 276/2023. (VI. 29.) Korm. rendelet 39. § a) pontja szerint módosított szöveg.
+[^13]: A 3. § (1a) bekezdését a 370/2014. (XII. 30.) Korm. rendelet 29. §-a iktatta be.
+[^14]: A 3. § (2) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 39. § b) pontja szerint módosított szöveg.
+[^15]: A 3. § (4) bekezdése az 525/2017. (XII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.

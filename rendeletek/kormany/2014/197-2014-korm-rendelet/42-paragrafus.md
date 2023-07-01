@@ -1,3 +1,3 @@
-## 40–41. §[^100]
+42–43. §[^106]
 
-[^100]: A 40–41. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^106]: A 42–43. § az 525/2017. (XII. 29.) Korm. rendelet 13. §-a alapján nem lép hatályba.

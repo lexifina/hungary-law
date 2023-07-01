@@ -1,13 +1,12 @@
 ## 7. A gyártó biztosítékadási kötelezettsége
 
-13. § (1) A gyártó a gyűjtési, kezelési kötelezettségei ellátásának biztosítására – a (4) bekezdésben meghatározott kivétellel – vagyoni biztosítékot képez.
+13. § (1)[^48] Egyéni teljesítés esetén a gyártó a gyűjtési, kezelési kötelezettségei ellátásának biztosítására vagyoni biztosítékot képez.
 
 (2) A vagyoni biztosíték mértékét és számításának módját az 5. melléklet határozza meg.
 
 (3) A tárgyévre vonatkozó vagyoni biztosítékot a tárgyév február 20. napjáig kell képezni. Ha a gyártó a tevékenységét a tárgyévben kezdi meg, a vagyoni biztosítékot a tárgyév végéig havonta kell képeznie.
 
-(4) A gyártónak nem kell vagyoni biztosítékot képeznie:
+(4)[^49]
 
-a) ha a gyűjtési, kezelési kötelezettségének közvetítő szervezet útján tesz eleget vagy
-
-b) a Ktdt. hatálya alá tartozó termékdíjköteles termékek vonatkozásában.
+[^48]: A 13. § (1) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 34. §-ával megállapított szöveg.
+[^49]: A 13. § (4) bekezdését a 276/2023. (VI. 29.) Korm. rendelet 40. § e) pontja hatályon kívül helyezte.

@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-197-20-
 | 2021-05-26 | 2014-197-20-22.14 | 164/2020. (IV. 30.) Korm. rendelet |
 | 2021-06-22 | 2014-197-20-22.15 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2022-05-26 | 2014-197-20-22.16 | 135/2022. (IV. 7.) Korm. rendelet |
+| 2023-07-01 | 2014-197-20-22.17 | 276/2023. (VI. 29.) Korm. rendelet |

@@ -1,6 +1,10 @@
-2. melléklet a 197/2014. (VIII. 1.) Korm. rendelethez[^104]
+## * A Kombinált Nómenklatúra 2017. január 1-jén hatályos állapotának megfelelően. A vámtarifaszámok alá azokat az elektromos, elektronikus berendezéseket kell besorolni, amelyekre e rendelet 1. § (1) bekezdés a) pontja szerinti hatálya kiterjed.
 
-## A gyűjtési és a hasznosítási arány mértéke
+## ** Abban az esetben, ha a gyártó, a forgalmazó olyan használt elektromos, elektronikus berendezést vesz vissza vagy olyan hulladékká vált elektromos, elektronikus berendezést vesz át, amely a 2.1.–2.6. pontban foglalt táblázatokban meghatározott elektromos-, elektronikusberendezés-kategóriák és a részüket képező egyes elektromos, elektronikus berendezésekhez tartozó vámtarifaszámok alá nem sorolható be, a gyártó, a forgalmazó az adott elektromos-, elektronikus berendezés-kategóriájához tartozó legalacsonyabb értékű vásárlási utalványt állítja ki.
+
+2. melléklet a 197/2014. (VIII. 1.) Korm. rendelethez[^109]
+
+A gyűjtési és a hasznosítási arány mértéke
 
 1. A gyűjtési arány mértéke:
 
@@ -26,7 +30,7 @@
 
 | 9 | 6. | Kisméretű számítástechnikai berendezések és távközlési berendezések (amelyeknek egyik külső mérete sem haladja meg az 50 cm-t) | 70% |
 
-* A 4v. és 5v. elektromos-, elektronikusberendezés-kategóriákra előírt gyűjtési arányok teljesítése helyett választható a két kategóriára együttesen történő 10%-os gyűjtési arány teljesítése.
+## * A 4v. és 5v. elektromos-, elektronikusberendezés-kategóriákra előírt gyűjtési arányok teljesítése helyett választható a két kategóriára együttesen történő 10%-os gyűjtési arány teljesítése.
 
 1.2. Az elektromos-, elektronikusberendezés-kategóriánként meghatározott tárgyévi minimális gyűjtési kötelezettség megállapítására – berendezéskategóriánként – a következő képletet kell alkalmazni:
 
@@ -84,4 +88,4 @@ T: a gyártó által a tárgyévet megelőző évben ténylegesen átvett, hulla
 
 A: a 2.1. pontban foglalt táblázatban az adott kategóriára vonatkozó újrahasználatra előkészítési, újrafeldolgozási arány mértéke (százalékban megadva).
 
-[^104]: A 2. melléklet az 525/2017. (XII. 29.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^109]: A 2. melléklet az 525/2017. (XII. 29.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.

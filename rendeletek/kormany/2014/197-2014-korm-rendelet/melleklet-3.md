@@ -1,6 +1,6 @@
-3. melléklet a 197/2014. (VIII. 1.) Korm. rendelethez[^105]
+3. melléklet a 197/2014. (VIII. 1.) Korm. rendelethez[^110]
 
-## Az újrahasználattal kapcsolatos minimumkövetelmények
+Az újrahasználattal kapcsolatos minimumkövetelmények
 
 1. Általános követelmények:
 
@@ -46,4 +46,4 @@
 
 2.2.2. részlegesen halogénezett klórozott-fluorozott szénhidrogének (HCFC).
 
-[^105]: A 3. melléklet a 370/2014. (XII. 30.) Korm. rendelet 37. § e) pontja szerint módosított szöveg.
+[^110]: A 3. melléklet a 370/2014. (XII. 30.) Korm. rendelet 37. § e) pontja szerint módosított szöveg.
