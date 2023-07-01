@@ -1,4 +1,4 @@
-1. melléklet az 56/2012. (XI. 22.) BM rendelethez[^293]
+1. melléklet az 56/2012. (XI. 22.) BM rendelethez[^296]
 
 Az Országgyűlési Őrség szolgálati beosztásai
 
@@ -102,4 +102,4 @@ Az Országgyűlési Őrség szolgálati beosztásai
 
 4.3. 850*: Az Országgyűlési Őrség Híradó és Biztonságtechnikai Osztályon szolgálatot teljesítők esetében a hivatásos pótlék mértéke 850%.
 
-[^293]: Az 1. melléklet a 2/2023. (I. 30.) BM rendelet 13. §-ával megállapított szöveg.
+[^296]: Az 1. melléklet a 2/2023. (I. 30.) BM rendelet 13. §-ával megállapított szöveg.
