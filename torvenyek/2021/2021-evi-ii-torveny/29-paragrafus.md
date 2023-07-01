@@ -16,7 +16,11 @@
 
 (9)
 
-(10)
+(10) A Ht. 2. § (1) bekezdés 27b. pontja helyébe a következő rendelkezés lép:
+
+(E törvény alkalmazásában)
+
+„27b. állami hulladékgazdálkodási közfeladat: együttesen a hulladékgazdálkodási intézményi résztevékenység és a hulladékgazdálkodási közszolgáltatási résztevékenység;”
 
 (11)
 
@@ -34,7 +38,11 @@
 
 (18)
 
-(19)
+(19) A Ht. 2. § (1) bekezdése a következő 49b. ponttal egészül ki:
+
+(E törvény alkalmazásában)
+
+„49b. visszaváltó berendezés: a visszaváltási díjat és a visszaváltási díjas termék visszaváltását biztosító eszköz és berendezés;”
 
 (20)
 

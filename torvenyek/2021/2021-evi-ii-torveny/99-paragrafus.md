@@ -10,8 +10,10 @@
 
 (5) A 66. § (2) bekezdése 2023. január 1-jén lép hatályba.
 
-(6) A 4. § (3) és (4) bekezdése, a 19. §, a 20. § (2) bekezdése, a 21. §, a 14. alcím, a 29. § (10), (18) és (19) bekezdése, a 40–47. §, a 49. § (1), (2) és (4)–(6) bekezdése, az 50. §, az 51. § (2) bekezdése, az 54. § (2) bekezdése, az 55. § (2) bekezdése, az 56. § (2) bekezdése, a 61. §, a 79. § (2) bekezdése, a 85. § (1), (10) és (12) bekezdése, a 90. § (2) bekezdése, a 91. § (2) bekezdése, a 94. § (4) bekezdése és a 95. § (1)–(3) bekezdése 2023. július 1-jén lép hatályba.
+(6) A 21. § a) pontja, a 14. alcím, a 29. § (10) és (19) bekezdése, a 46. §, a 49. § (2) és (6) bekezdése, az 51. § (2) bekezdése, az 54. § (2) bekezdése, az 56. § (2) bekezdése, a 79. § (2) bekezdése, a 90. § (2) bekezdés 1–2., 5–8. 11., 16–27., 29., 32–40. és 43–48. pontja, a 91. § (2) bekezdés 1., 2., 4–14., 16., 18–20., 22. és 23. pontja, a 94. § (4) bekezdése és a 95. § (1)–(3) bekezdése 2023. július 1-jén lép hatályba.
 
 (7) Az 56. § (4) bekezdése, a 64. §, és a 91. § (3) bekezdése 2023. december 31-én lép hatályba.
+
+(7a) A 4. § (3) és (4) bekezdése, a 19. §, a 20. § (2) bekezdés a) pontja, a 29. § (18) bekezdése, a 40. § (1) bekezdése, a 41–44. §, 85. § (1) bekezdése, a 90. § (2) bekezdés 4., 9. és 49. pontja 2024. január 1-jén lép hatályba.
 
 (8) Az 56. § (5) bekezdése és a 65. § 2025. január 1-jén lép hatályba.
