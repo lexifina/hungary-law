@@ -1,37 +1,215 @@
-1. melléklet a 36/2022. (IX. 30.) SZTFH rendelethez
+1. melléklet a 36/2022. (IX. 30.) SZTFH rendelethez[^3]
 
-## A dohányboltban forgalmazható termékek és nyújtható szolgáltatások a következők:
+A dohányboltban forgalmazható termékek a következők:
 
-1. az Fdvtv. 1. § (1) bekezdésében fel nem sorolt, de az Fdvtv. 3. § (1) bekezdés 2. pontja szerinti dohányterméket kiegészítő termék
+1. az Fdvtv. 1. § (1) bekezdésében fel nem sorolt, de az Fdvtv. 3. § (1) bekezdés 2. pontja szerinti dohányterméket kiegészítő termék,
 
-2. a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény Különös Rendelkezések I. Fejezet 1. és 4. címében szabályozott sorsolásos játék és fogadás bonyolításával kapcsolatos ügynöki értékesítési tevékenység
+2. az 1. pontba nem tartozó következő termékek:
 
-3. a kereskedelemről szóló törvényben meghatározott szeszes ital
+|  | A | B |
 
-4. a népegészségügyi termékadóról szóló törvényben meghatározott energiaital
+| 1. | Megnevezés | Vámtarifaszám/ HR-/KN-kód |
 
-5. csomagolt kávé, illetve tea, ideértve az azonnal oldódó kávékivonatot vagy teát is
+| 2. | szivar, cigaretta és pipa használatát segítő eszközök |  |
 
-6. helyben fogyasztható kávéital, tea vagy folyékony csokoládé, ideértve kizárólag a helyben fogyasztásához szükséges kiegészítő termékeket, különösen cukrot és a tejport is
+| 3. | pipa (pipafej is), és szivar- és cigarettaszipka és ezek alkatrészei | 9614 00 |
 
-7. ásványvíz és üdítőital, továbbá az ízesített tejkészítményeknek minősülő, hűtés nélkül eltartható tejital
+| 4. | öngyújtó és más gyújtó, mechanikus vagy elektromos is, és ezek alkatrésze | 9613 |
 
-8. a vám- és a statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló, 1987. július 23-i 2658/87/EGK tanácsi rendelet I. melléklete (a továbbiakban: kombinált nómenklatúra) szerinti 2105 00 vámtarifaszám alá tartozó termék: fagylalt és más ehető jégkrém, kakaótartalommal is
+| 5. | öngyújtó tűzkő | 3606 90 |
 
-9. újság, napilap, folyóirat, periodikus kiadvány
+| 6. | öngyújtó kanóc | 5908, 7019 |
 
-10. rágógumi, valamint az ízesített cukorka és mentolos lapocska, továbbá – az 1704 90 30 KN-kód kivételével – a kombinált nómenklatúra szerinti 1704 90 vámtarifaszám alá tartozó termék: más cukorkaáru
+| 7. | folyékony vagy cseppfolyós gáz tüzelőanyag olyan, legfeljebb 300 cm3 űrtartalmú tartályban, amelyet cigaretta öngyújtók vagy hasonló gyújtószerszámok töltésére vagy utántöltésére használnak | 3606 10 00 |
 
-11. tömegközlekedési eszközök vonaljegye (gyűjtőjegye)
+| 8. | gyufa | 3605 |
 
-12. papír zsebkendő
+| 9. | vízipipához faszén, brikett | 4402 |
 
-13. elektronikai eszközök töltéséhez, üzemszerű működéséhez használatos elem, akkumulátor, töltőeszköz
+| 10. | elektromos vízipipa, valamint ezek alkatrészei | 8543 |
 
-14. a dohányboltban forgalmazható termékek fogyasztók általi átvételére, szállítására szolgáló csomagolóeszköz, hordtasak vagy hordtáska
+| 11. | vízipipakő folyadékkal, nikotintartalommal is | 2404 12, 2404 91 90 |
 
-15. az előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatások egyenlegének feltöltése, valamint az előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatásra vonatkozó szerződés megkötése
+| 12. | vízipipakő utántöltésére szolgáló folyadék, nikotintartalommal is | 2404 12, 2404 91 90 |
 
-16. termékek – ide nem értve az Fdvtv. 1. § (1) bekezdésében felsorolt vagy jogszabály által tiltott termékeket – vagy szolgáltatások dohánybolton belüli reklámozása
+| 13. | füstszűrő cigarettához, papírból | 4823 |
 
-17. a dohányboltban forgalmazható termékekből keletkező hulladékoknak a hulladékról szóló 2012. évi CLXXXV. törvény szerinti gyűjtése
+| 14. | füstszűrő (filter) textilszálból (papír vagy műanyag borítással) | 5601 |
+
+| 15. | aktív szénszűrő cigarettához | 9614 |
+
+| 16. | tömködő fából | 4417 |
+
+| 17. | tömködő nem nemesfémből | 8205 |
+
+| 18. | szivarvágó | 8214 |
+
+| 19. | szivarvágó olló nem nemesfémből | 8213 |
+
+| 20. | szivarvágó kés | 8211 |
+
+| 21. | szivarfúró | 8205 59 80 |
+
+| 22. | szivar tű | 8205 |
+
+| 23. | pipatisztító kefe | 9603 |
+
+| 24. | pipatisztító eszköz nem nemesfémből | 8205 |
+
+| 25. | mechanikus készülék cigaretta készítéséhez, dohányőrlő | 8478 |
+
+| 26. | műanyagból készült sodrótálca | 3926 |
+
+| 27. | vasból vagy acélból készült sodrótálca | 7323 |
+
+| 28. | párásítók |  |
+
+| 29. | akrilpolimer kristály, szivar vagy vágott dohány párásításához | 3906 90 90 |
+
+| 30. | sóoldatot tartalmazó párásító tasakban, szivar párásításához | 2501 00 10 |
+
+| 31. | propilénglikolt tartalmazó párásító tasakban, szivar párásításához | 3824 |
+
+| 32. | szivar tárolódoboz, -szekrény és ahhoz tartozó kiegészítők |  |
+
+| 33. | szivar humidor fából készítve | 4415 10 10 |
+
+| 34. | utazó humidor alumíniumból készítve | 7616 99 90 |
+
+| 35. | utazó humidor bőrből készítve | 42029110 |
+
+| 36. | szivartároló szekrény | 9403 |
+
+| 37. | barométer, más műszerrel nem kombinálva, humidorhoz | 9025 80 20 |
+
+| 38. | ventilátor szivardobozhoz | 8414 |
+
+| 39. | digitális hygrométer (páratartalom és hőmérsékletmérő), szivardobozhoz | 9025 80 40 |
+
+| 40. | csikkölő |  |
+
+| 41. | kerámiából | 6911, 6912 |
+
+| 42. | üvegből | 7013 |
+
+| 43. | rézből | 7418 |
+
+| 44. | alumíniumból | 7615 |
+
+| 45. | hamutartó |  |
+
+| 46. | műanyagból | 3924 |
+
+| 47. | papírból | 4819 |
+
+| 48. | kőből vagy ásványi anyagból | 6815 |
+
+| 49. | kerámiából | 6911, 6912 |
+
+| 50. | üvegből, ólomkristály is | 7013 |
+
+| 51. | vasból vagy acélból | 7325, 7326 |
+
+| 52. | alumíniumból | 7615 |
+
+| 53. | cigarettatartó, click boksz, cigarettatárca, szivartárca, szivartartó |  |
+
+| 54. | műanyagból | 3926 |
+
+| 55. | természetes vagy mesterséges bőr külső felülettel | 4202 31 |
+
+| 56. | műanyag fólia vagy textil külső felülettel | 4202 32 |
+
+| 57. | papír külső felülettel | 4202 39 |
+
+| 58. | papírból | 4819 |
+
+| 59. | vasból vagy acélból | 7325, 7326 |
+
+| 60. | alumíniumból | 7615 10 |
+
+| 61. | nemesfémből; nem nemesfémből nemesfémmel plattírozva | 7113 |
+
+| 62. | alkoholtartalmú italok, kivéve a gyógynövények gyógyászati jellegű szeszes kivonata és az ezek felhasználásával készült termék |  |
+
+| 63. | malátából készült sör, legalább 1,2 térfogatszázalék alkoholtartalommal | 2203 |
+
+| 64. | bor friss szőlőből, beleértve a szeszezett bort is, legalább 1,2 térfogatszázalék alkoholtartalommal | 2204 |
+
+| 65. | vermut és friss szőlőből készült más bor növényekkel vagy aromatikus anyagokkal ízesítve legalább 1,2 térfogatszázalék alkoholtartalommal | 2205 |
+
+| 66. | más erjesztett ital (pl.: almabor, körtebor, mézbor, szaké); erjesztett italok keverékei és erjesztett italok és alkoholmentes italok máshol nem említett keverékei, legalább 1,2 térfogatszázalék alkoholtartalommal | 2206 |
+
+| 67. | szesz, likőr és szeszes ital legalább 1,2 térfogatszázalék alkoholtartalommal (kivétel a nem denaturált etil-alkohol, kevesebb, mint 80 térfogatszázalék alkoholtartalommal) | 2208 |
+
+| 68. | a népegészségügyi termékadóról szóló törvényben meghatározott energiaital |  |
+
+| 69. | népegészségügyi termékadóról szóló törvényben meghatározott energiaital | 2009, 2202 |
+
+| 70. | csomagolt kávé, illetve tea, ideértve az azonnal oldódó kávékivonatot vagy teát is |  |
+
+| 71. | csomagolt tea, szárított gyümölcsöket vagy szárított gyümölcsök keverékeit tartalmazó | 0813 |
+
+| 72. | csomagolt kávé, koffeinmentes, pörkölve, szem formában és darálva is | 0901 |
+
+| 73. | csomagolt tea, a Thea (Camellia) nemzetségbe tartozó növényekből nyert tea | 0902 |
+
+| 74. | csomagolt tea, egyfajta növényből vagy növényrészből | 1211, 1212 |
+
+| 75. | csomagolt tea, egy vagy többféle szárított gyümölcsöt és más növényeket, növényrészeket vagy más anyagok keverékét tartalmazó | 2106 |
+
+| 76. | azonnal oldódó kávékivonatot vagy teát tartalmazó termék, kivéve pörkölt cikória és más pörkölt pótkávé, valamint ezeknek kivonata, eszenciája és koncentrátuma | 2101 |
+
+| 77. | helyben fogyasztható kávéital, tea vagy folyékony csokoládé, a helyben fogyasztásához szükséges kiegészítő termékekkel (pl.: tejpor, kávé tejszín, cukor, méz stb.) együtt értékesítve |  |
+
+| 78. | helyben fogyasztható kávéital | 2202 |
+
+| 79. | helyben fogyasztható tea | 2202 |
+
+| 80. | helyben fogyasztható forró csoki (folyékony csokoládé) ital | 2202 |
+
+| 81. | ásványvíz és üdítőital, továbbá az ízesített tejkészítményeknek minősülő, hűtés nélkül eltartható tejital |  |
+
+| 82. | ízesített tejkészítményeknek minősülő, hűtés nélkül eltartható tejital | 2202 99 |
+
+| 83. | ásványvíz, üdítőital legfeljebb 0,5 térfogatszázalék alkoholtartalommal | 2201, 2202 |
+
+| 84. | gyümölcslé, zöldséglé nem erjesztve és hozzáadott alkoholtartalom nélkül | 2009, 2202 |
+
+| 85. | fagylalt és más ehető jégkrém, kakaótartalommal is |  |
+
+| 86. | fagylalt és más ehető jégkrém, kakaótartalommal is | 2105 00 |
+
+| 87. | újság, napilap, folyóirat, periodikus kiadvány |  |
+
+| 88. | újság, napilap, folyóirat, periodikus kiadvány | 4902 |
+
+| 89. | rágógumi, valamint az ízesített cukorka és mentolos lapocska, más cukorkaáru |  |
+
+| 90. | rágógumi, cukorbevonattal is | 1704 10, 2106 |
+
+| 91. | más cukorkaáru (a 1704 90 30 KN-kód alá tartozó fehér csokoládé kivételével) | 1704 90 |
+
+| 92. | tömegközlekedési eszközök vonaljegye (gyűjtőjegye) |  |
+
+| 93. | tömegközlekedési eszközök vonaljegye (gyűjtőjegye) | 4907 00 |
+
+| 94. | papír zsebkendő |  |
+
+| 95. | papír zsebkendő | 4818 20 10 |
+
+| 96. | elektronikai eszközök töltéséhez, üzemszerű működéséhez használatos elem, akkumulátor, töltőeszköz |  |
+
+| 97. | primer elem és primer telep | 8506 |
+
+| 98. | elektromos akkumulátor | 8507 |
+
+| 99. | csomagolóeszköz, hordtasak és hordtáska |  |
+
+| 100. | csomagolóeszköz, tasak, zacskó papírból | 4819 |
+
+| 101. | hordtasak, zacskó műanyagból | 3923 |
+
+| 102. | hordtáska műanyagból | 4202 |
+
+[^3]: Az 1. melléklet a 13/2023. (VI. 30.) SZTFH rendelet 9. §-ával megállapított szöveg.
