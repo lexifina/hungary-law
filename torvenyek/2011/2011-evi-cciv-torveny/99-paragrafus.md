@@ -14,6 +14,8 @@ f) a klinikai központ működési engedélyében szereplő egészségügyi szol
 
 g) az egészségügyi intézmények irányítására vonatkozó jogszabályban foglaltakat nem érintve a Kormány által kijelölt miniszter által meghatározott szakmai irányítási feladatok ellátása.
 
+(1a) A Baranya, Csongrád-Csanád, valamint Hajdú-Bihar vármegyében működő klinikai központ az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) szerinti irányító vármegyei intézményi feladatokat ellátó klinikai központnak minősül. Ha törvény eltérően nem rendelkezik, úgy ezen klinikai központokat irányító vármegyei intézménynek kell tekinteni.
+
 (2) A szakellátási kapacitással és ellátási területtel kapcsolatos döntéshozatal során az egészségügyi államigazgatási szervnek az (1) bekezdés b) és c) pontja szerinti kezdeményezésnek megfelelően kell eljárnia.
 
 (3) A 97. § (2) bekezdés a) pontja szerinti esetben az egészségügyi szolgáltatás irányításáért felelős szerv az e törvényben foglaltak szerint gyakorolja a működtetéssel és gazdálkodással kapcsolatos irányítási jogköröket.

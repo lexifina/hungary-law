@@ -233,7 +233,3 @@ f) érettségi éve
 g) a pályázó szociális rászorultságát igazoló – a pályázóra, a pályázó közeli hozzátartozóira, illetve a pályázóval egy háztartásban élőkre vonatkozó – személyes és különleges adatok
 
 h) a pályázó felsőoktatási intézménybe történő felvételének eredménye
-
-i) a pályázó hallgatói jogviszonyának állapotára vonatkozó adatok
-
-2. Az 1. pontban megjelölt adatok kezelésére jogosult

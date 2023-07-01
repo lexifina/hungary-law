@@ -12,11 +12,11 @@ b) a felsőoktatási intézménytől elkülönített szervezeti keretben egészs
 
 (2) A klinikai központ
 
-a) irányítói vármegyei intézményi feladatokat ellátó és
+a) a 99. § (1a) bekezdése szerinti esetben irányítói vármegyei intézményi feladatokat ellátó és
 
-b) irányítói vármegyei intézményi feladatokat el nem látó
+b) az a) pont szerinti kijelölés hiányában irányítói vármegyei intézményi feladatokat el nem látó
 
-klinikai központ lehet, amelyekre ezen alcím rendelkezései szerint eltérő szabályok az irányadók.
+klinikai központ lehet, amelyre ezen alcím rendelkezései szerinti eltérő szabályok az irányadók.
 
 (3) A klinikai központ fenntartója a felsőoktatási intézmény, a fenntartói jogokat a rektor a jogszabályban meghatározott, egészségügyi szolgáltatás irányításáért felelős szerv (a továbbiakban: egészségügyi szolgáltatás irányításáért felelős szerv) ezen alcímben foglalt jogkörei, továbbá a kancellár – ahol kancellár nem kerül megbízásra, a gazdasági vezető – e törvény szerinti jogkörei figyelembevételével gyakorolja.
 
