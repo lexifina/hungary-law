@@ -20,6 +20,8 @@ f) meghatározza az életvitelszerű közterületi tartózkodás szabályainak m
 
 g) meghatározza az életvitelszerű közterületi tartózkodás szabályainak megsértése szabálysértés elkövetőjének tulajdonában álló ingóságok ideiglenes tárolását végző szervet, illetve az ingóságok tárolására és megsemmisítésére vonatkozó részletes szabályokat.
 
+h) meghatározza az egyszerűsített kártalanítási eljárás keretében kifizethető összeget, a kiszámítás módját, illetve a megállapodás megkötésével és a kártalanítás kifizetésével kapcsolatos szabályokat.
+
 (2) Felhatalmazást kap a szabálysértési szabályozásért felelős miniszter, hogy
 
 a) a törvény végrehajtásával összefüggő feladatok ellátásának rendjét, a szabálysértési eljárás, valamint a foglalkoztatáspolitikáért felelős miniszterrel egyetértésben a közérdekű munka végrehajtásának,
@@ -32,7 +34,7 @@ d) az adópolitikáért felelős miniszter, a közigazgatás-szervezésért fele
 
 e)
 
-f) az igazságügyért felelős miniszter az államháztartásért felelős miniszter egyetértésével a szabálysértési eljárásban elrendelt elővezetés, valamint az előállítás végrehajtásával felmerült költség megtérítésének,
+f) az igazságügyért felelős miniszter az államháztartásért felelős miniszter egyetértésével – ide nem értve az előállítás és elővezetés költsége mértékének megállapítását – a szabálysértési eljárásban elrendelt előállítás, valamint elővezetés végrehajtásával felmerült költség megtérítésének,
 
 g) az államháztartásért felelős miniszter egyetértésével a szabálysértési eljárás során lefoglalt és elkobzott dolgok kezelésének és értékesítésének,
 

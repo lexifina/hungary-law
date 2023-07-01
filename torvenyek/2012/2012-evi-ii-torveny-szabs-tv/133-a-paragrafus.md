@@ -1,25 +1,21 @@
 ## XIX/A. Fejezet
 
-## A KÁRTALANÍTÁS ÉS A VISSZAFIZETÉS
+## A KÁRTALANÍTÁS, AZ EGYSZERŰSÍTETT KÁRTALANÍTÁS ÉS A VISSZAFIZETÉS
 
-## 100/A. A kártalanítás
+## 100/A. A kártalanítási eljárás, a kártalanítás jogalapja
 
-133/A. § (1) A bíróság jogerős döntése alapján letöltött szabálysértési elzárás büntetésért, a bíróság vagy a szabálysértési hatóság jogerős döntése alapján elvégzett közérdekű munka büntetésért, valamint a meg nem fizetett pénzbírság, helyszíni bírság szabálysértési elzárásra átváltoztatás esetén annak végrehajtásáért, illetve közérdekű munkával történő megváltásáért az elkövetőnek kártalanítás jár, ha az Alkotmánybíróság határozata, a perújítás, az ügyészi felhívás, illetve indítvány, valamint a helyszíni bírságolás felülvizsgálata (a továbbiakban együtt: jogerős döntést követő felülvizsgálat) folytán az eljárást vele szemben megszüntették.
+133/A. § (1) A kártalanítási igény a kártalanítást igénylő választása szerint egyszerűsített kártalanítási eljárásban vagy kártalanítás iránti vagyonjogi perben (a továbbiakban: kártalanítási per) érvényesíthető. A kártalanítási igény fizetési meghagyásos eljárásban nem érvényesíthető.
 
-(1a) Az elkövetőnek nem jár kártalanítás, ha a bíróság a szabálysértési eljárást a 127. § (1) bekezdés e) pontja szerinti perújítás folytán a 83. § (1) bekezdés a) pontja szerint szünteti meg és az elkövető büntetőjogi felelősségét jogerősen megállapítják, továbbá ha a szabálysértési büntetés a Btk. alapján beszámítható.
+(2) A kártalanítási igényt az állammal szemben kell érvényesíteni. Az államot a szabálysértési szabályozásért felelős miniszter képviseli.
 
-(2) A kártalanítás módjára és mértékére a Polgári Törvénykönyvnek a szerződésen kívül okozott kárért való felelősségre vonatkozó rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
+(3) A bíróság jogerős döntése alapján letöltött szabálysértési elzárás büntetésért, a bíróság vagy a szabálysértési hatóság jogerős döntése alapján elvégzett közérdekű munka büntetésért, az ezek kiszabását megelőzően elrendelt, hetvenkét órát meghaladó őrizetért, valamint a meg nem fizetett pénzbírság, helyszíni bírság szabálysértési elzárásra átváltoztatás esetén annak végrehajtásáért, illetve közérdekű munkával történő megváltásáért az elkövetőnek kártalanítás jár, ha az Alkotmánybíróság határozata, a perújítás, az ügyészi felhívás, illetve indítvány, valamint a helyszíni bírságolás felülvizsgálata (a továbbiakban együtt: jogerős döntést követő felülvizsgálat) folytán
 
-(3) A kártalanítás a jogerős döntést követő felülvizsgálat eredményeképpen hozott határozat jogerőre emelkedésével válik esedékessé.
+a) az eljárást vele szemben megszüntették,
 
-(4) Az elkövető a jogerős döntést követő felülvizsgálat eredményeképpen hozott jogerős határozat vele történő közlésétől számított hat hónapon belül az eljáró bíróságnál, illetve szabálysértési hatóságnál terjeszthet elő kártalanítási igényt. E határidő elmulasztása jogvesztő.
+b) a helyszíni bírságot megállapító döntést visszavonták,
 
-(5) A kérelemben meg kell jelölni a kártalanítási igény összegét, valamint az igényt megalapozó bizonyítékokat.
+c) az elkövetővel szemben jogerősen enyhébb büntetést szabtak ki vagy intézkedést alkalmaztak, vagy
 
-(6) Az elkövetőt kártalanítási igényének jogalapjáról, az igény érvényesítésének határidejéről, a határidő kezdő időpontjáról és a határidő elmulasztásának jogvesztő jellegéről a (4) bekezdés szerinti határozat közlésével egyidejűleg tájékoztatni kell.
+d) a meg nem fizetett pénzbírság, helyszíni bírság szabálysértési elzárásra átváltoztatása esetén annak végrehajtása alaptalan volt.
 
-(7) A bíróság, a szabálysértési hatóság a kérelmet a szabálysértési ügy irataival együtt, a kérelem beérkezésétől számított tizenöt napon belül, az eljárás lefolytatása érdekében a kártalanítás elbírálására a Polgári perrendtartás szerint hatáskörrel és illetékességgel rendelkező bíróságnak küldi meg.
-
-(8) A kártalanítási igény elbírálása során a bíróság az e törvényben foglalt eltérésekkel a Polgári perrendtartás szabályai szerint jár el. A perben felperesként az elkövető, alperesként az állam képviseletében a szabálysértési szabályozásért felelős miniszter vesz részt.
-
-(9) A kártalanítást az állam köteles megfizetni.
+(4) Az elkövetőnek nem jár kártalanítás, ha a bíróság a szabálysértési eljárást a 127. § (1) bekezdés e) pontja szerinti perújítás folytán a 83. § (1) bekezdés a) pontja szerint szünteti meg és az elkövető büntetőjogi felelősségét jogerősen megállapítják, továbbá ha a szabálysértési büntetés a Btk. alapján beszámítható.

@@ -16,4 +16,4 @@
 
 (6) Az idézett személy távolmaradásának igazolása esetén a szabálysértési hatóság, illetve a bíróság hatályon kívül helyezi az elővezetést elrendelő határozatát.
 
-(7) Az elővezetés költségének megfizetésére az elővezetést elrendelő határozatban megjelölt személyt kell kötelezni. Eredménytelen elővezetés esetén az elővezetést elrendelő hatóság a kötelezettet az elővezetési költséget megállapító határozat kézhezvételétől számított három napon belül benyújtott kérelmére, különös méltánylást érdemlő okból mentesítheti az elővezetés költségének megfizetése alól, ebben az esetben az elővezetés költségét az állam viseli.
+(7) Az elővezetés – a Rendőrségről szóló törvény alapján a foganatosító szerv által igazolt – költségének megfizetésére az elővezetést elrendelő határozatban megjelölt személyt kell kötelezni. Eredménytelen elővezetés esetén az elővezetést elrendelő hatóság a kötelezettet az elővezetési költséget megállapító határozat kézhezvételétől számított három napon belül benyújtott kérelmére, különös méltánylást érdemlő okból mentesítheti az elővezetés költségének megfizetése alól, ebben az esetben az elővezetés költségét az állam viseli.

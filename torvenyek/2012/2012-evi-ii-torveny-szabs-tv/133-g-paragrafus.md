@@ -1,0 +1,3 @@
+## 100/D. A kártalanítás kifizetésével kapcsolatos szabályok
+
+133/G. § Ha az államnak kártalanítást kell fizetnie és a kártalanítási eljárás során adat merült fel arra, hogy a kártalanítást igénylőt a szabálysértési hatóság, illetve a kártalanítási igény alapjául szolgáló döntést hozó bíróság – a közlekedési szabálysértéssel okozott kár kivételével – az okozott kár megtérítésére kötelezte, amelyet a kártalanítás kifizetéséig nem teljesített, a szabálysértési szabályozásért felelős miniszter a kártalanítási összeget visszatartja. Ilyen esetben a szabálysértéssel okozott kárt a kártalanítás összegéből kell teljesíteni.

@@ -1,5 +1,5 @@
-## 100/B. A visszafizetés
+133/B. § (1) Az elkövető a jogerős döntést követő felülvizsgálat eredményeképpen hozott jogerős döntés vele történő közlésétől számított hat hónapon belül a kártalanítási igény alapjául szolgáló döntést hozó bíróságnál, szabálysértési hatóságnál, illetve a helyszíni bírságot kiszabó szervnél vagy személynél terjeszthet elő kártalanítási igényt. E határidő elmulasztása jogvesztő.
 
-133/B. § (1) A pénzbírság, a helyszíni bírság és a szabálysértési költség címén megfizetett összeget a megfizetéstől a visszafizetés időpontjáig eltelt időre számított jegybanki alapkamattal együtt az elkövetőnek vissza kell téríteni, ha a jogerős döntést követő felülvizsgálat eredményeképpen az eljárást megszüntették, vagy a vele szemben hozott határozatot visszavonták, illetve módosították.
+(2) A kérelemben meg kell jelölni a kártalanítási igény összegét, valamint az igényt megalapozó bizonyítékokat.
 
-(2) A visszafizetést az eljárást megszüntető rendelkezést meghozó bíróság, szabálysértési hatóság, illetve a helyszíni bírság módosításáról vagy visszavonásáról döntést hozó helyszíni bírságot kiszabó szerv, továbbá a 141. § (13) bekezdés e) pontja alapján az alapügyben hozott határozatot hatályon kívül helyező bíróság rendeli el, amely ellen nincs helye jogorvoslatnak.
+(3) Az elkövetőt kártalanítási igényének jogalapjáról, az igény érvényesítésének határidejéről, a határidő kezdő időpontjáról és a határidő elmulasztásának jogvesztő jellegéről, valamint arról, hogy választása szerint igényét egyszerűsített kártalanítási eljárásban vagy kártalanítási perben érvényesítheti az (1) bekezdés szerinti döntés közlésével egyidejűleg tájékoztatni kell.
