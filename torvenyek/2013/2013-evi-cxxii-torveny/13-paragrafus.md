@@ -14,11 +14,11 @@ ac) olyan családi mezőgazdasági társaság, amelyben tag
 
 javára engedi át;
 
-b) társult erdőgazdálkodást folytat vagy az erdőnek minősülő földet erdőkezelésbe adja;
+b) társult erdőgazdálkodást folytat, az erdőnek minősülő földet erdőkezelésbe adja, vagy osztatlan közös tulajdonban álló erdőnek minősülő föld használati jogosultságát tulajdoni hányadot meghaladó mértékű többlethasználati megállapodással másik tulajdonostársnak engedi át;
 
-c) vetőmagtermeléshez szükséges terület biztosítása céljából valamely érvényes jogcímen engedi át a használatot más személy részére; vagy
+c) vetőmagtermeléshez szükséges terület biztosítása céljából valamely érvényes jogcímen engedi át a használatot más személy részére;
 
-d) gazdaságátadási szerződés keretében engedi át a használatot;
+d) gazdaságátadási szerződés keretében engedi át a használatot; vagy
 
 e) a gazdaságátadási szerződés keretében átengedett használat időtartamának lejártát követően, vagy a használati jogviszonynak a gazdaságátadási szerződésben rögzített időtartamot megelőző megszűnése esetén engedi át a használatot.
 
