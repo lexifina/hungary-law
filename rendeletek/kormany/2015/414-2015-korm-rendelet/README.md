@@ -38,3 +38,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-414-20-
 | 2023-01-01 | 2015-414-20-22.30 | 569/2022. (XII. 23.) Korm. rendelet |
 | 2023-04-06 | 2015-414-20-22.31 | 572/2020. (XII. 9.) Korm. rendelet |
 | 2023-06-27 | 2015-414-20-22.32 | 256/2023. (VI. 26.) Korm. rendelet |
+| 2023-07-01 | 2015-414-20-22.33 | 256/2023. (VI. 26.) Korm. rendelet |

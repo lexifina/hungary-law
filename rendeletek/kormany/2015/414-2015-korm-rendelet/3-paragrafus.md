@@ -30,7 +30,7 @@ m)[^9] végzi az állandó személyazonosító igazolvány tároló elemén – 
 
 n)[^10] végzi az állandó személyazonosító igazolvány tároló elemén a polgár lakcímének és személyi azonosítójának rögzítését.
 
-o)[^11]
+o)[^11] törvényben meghatározottak szerint adatszolgáltatást teljesít a személyazonosító igazolvány nyilvántartásból.
 
 (2) A kormányablak az e rendeletben meghatározott eljárásokkal összefüggő hatásköreit a kormányablakokról szóló kormányrendeletben meghatározottak szerint gyakorolja. Ezen eljárások tekintetében a kormányablak eljárására a járási hivatalra megállapított eljárási szabályok megfelelően irányadók.
 
@@ -43,5 +43,5 @@ o)[^11]
 [^8]: A 3. § (1) bekezdés l) pontját a 379/2016. (XII. 2.) Korm. rendelet 311. § (5) bekezdése iktatta be.
 [^9]: A 3. § (1) bekezdés m) pontját a 176/2019. (VII. 18.) Korm. rendelet 9. § (1) bekezdése iktatta be.
 [^10]: A 3. § (1) bekezdés n) pontját a 176/2019. (VII. 18.) Korm. rendelet 9. § (2) bekezdése iktatta be.
-[^11]: A 3. § (1) bekezdés o) pontját a 375/2021. (VI. 30.) Korm. rendelet 22. § (1) bekezdése iktatta be, a 256/2023. (VI. 26.) Korm. rendelet 13. § a) pontja hatályon kívül helyezte.
+[^11]: A 3. § (1) bekezdés o) pontját újonnan a 256/2023. (VI. 26.) Korm. rendelet 11. §-a iktatta be.
 [^12]: A 3. § (3) bekezdését a 717/2021. (XII. 20.) Korm. rendelet 16. § (1) bekezdése iktatta be.
