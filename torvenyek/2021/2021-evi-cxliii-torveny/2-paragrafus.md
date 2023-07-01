@@ -20,7 +20,9 @@ b) gazdaságátadó: az az öregségi nyugdíjkorhatárt elért vagy a szerződ�
 
 ba) legalább 10 éve saját nevében és saját kockázatára folytat mező- erdőgazdasági tevékenységet, illetve kiegészítő tevékenységet és ebből igazoltan árbevétele származott, valamint
 
-bb) a gazdaságátadási szerződésben meghatározott mező-, erdőgazdasági hasznosítású föld területe több mint háromnegyedének a földhasználati nyilvántartásba legalább 5 éve bejegyzett földhasználója, erdőgazdálkodói nyilvántartásba legalább 5 éve bejegyzett erdőgazdálkodója vagy az akként bejegyzett gazdasági társaság tulajdonosa;
+bb) a gazdaságátadási szerződésben meghatározott mező-, erdőgazdasági hasznosítású föld területe több mint háromnegyedének a földhasználati nyilvántartásba legalább 5 éve bejegyzett földhasználója, erdőgazdálkodói nyilvántartásba legalább 5 éve bejegyzett erdőgazdálkodója vagy az akként bejegyzett gazdasági társaság tulajdonosa, vagy
+
+bc) a ba) és bb) alpontban meghatározott feltételeknek megfelelő mezőgazdasági őstermelő vagy egyéni vállalkozó törvényes örököse;
 
 c) gazdaságátvevő: az a gazdaságátadónál legalább tíz évvel fiatalabb, az 50. életévét el nem érő mezőgazdasági őstermelő vagy mező-, erdőgazdasági tevékenységet folytató egyéni vállalkozó, aki az átvenni kívánt gazdaság működtetésére a jogszabályban előírt feltételeknek megfelel és aki
 
@@ -28,4 +30,4 @@ ca) a gazdaságátadóval a családi gazdaságokról szóló törvényben meghat
 
 cb) a gazdaságátadóval legalább 7 éve munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban áll;
 
-d) munkavégzésre irányuló egyéb jogviszony: a bedolgozói munkaviszony, a vállalkozási és megbízási szerződésen alapuló, valamint a személyes közreműködéssel járó gazdasági és polgári jogi társasági vagy egyéni cég tagjaként végzett tevékenység, valamint az egyéni vállalkozói tevékenység.
+d) munkavégzésre irányuló egyéb jogviszony: a bedolgozói munkaviszony, valamint a személyes közreműködéssel járó gazdasági társasági tevékenység.

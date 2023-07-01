@@ -14,6 +14,6 @@ e) a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatás
 
 f) az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló kormányrendeletek alapján benyújtott és még el nem bírált támogatási kérelmeket, valamint a létrejött támogatási jogviszonyok létesítő okiratait és a gazdaságátvevő nyilatkozatát arra vonatkozóan, hogy megismerte és magára nézve kötelezőnek ismeri el az azokból eredő jogosultságokat és kötelezettségeket,
 
-g) ha a felek a gazdaságátadás során a 10. és a 11. § szerint közösen gazdálkodnak, akkor a gazdaságátadás folyamatának biztosításához szükséges rendelkezéseket, az együttműködés időtartamát, a gazdaság egyes elemei átruházásának időpontját, valamint
+g) ha a felek a gazdaságátadás során a 10. és a 11. § szerint közösen gazdálkodnak, akkor a gazdaságátadás folyamatának biztosításához szükséges rendelkezéseket, az együttműködés időtartamát, valamint
 
 h) azokat a rendelkezéseket, amelyeket a gazdaság egyes elemeinek átruházása esetében jogszabály előír.

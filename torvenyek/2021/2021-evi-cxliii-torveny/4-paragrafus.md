@@ -1,4 +1,8 @@
-4. § (1) A gazdaságátadó a gazdaságátadási szerződés megkötését követően az élelmiszerlánc-felügyeleti információs rendszerben nyilvántartandó – az átadott gazdaságot érintő – új tevékenységet nem kezdhet, a gazdaság elemei tulajdonjogának átadását követően az erdőgazdálkodói nyilvántartásban nyilvántartandó erdőgazdálkodói jogokat és kötelezettségeket – a haszonvételi joggyakorlás kivételével – nem gyakorolhatja. A gazdaságátadónak a gazdaságátadási szerződésben meghatározott gazdasághoz kapcsolódó, az élelmiszerlánc-felügyeleti információs rendszerben nyilvántartandó tevékenységeit törölni kell.
+4. § (1) A gazdaságátadási szerződés megkötését követően a gazdaságátadó az élelmiszerlánc-felügyeleti információs rendszerben nyilvántartandó – az átadott gazdaságot érintő – új tevékenységet nem kezdhet. A gazdaság elemei tulajdonjogának átadását követően a gazdaságátadó
+
+a) az erdőgazdálkodói nyilvántartásban nyilvántartandó erdőgazdálkodói jogokat és kötelezettségeket – a haszonvételi joggyakorlás kivételével – nem gyakorolhatja,
+
+b) élelmiszerlánc-felügyeleti információs rendszerben nyilvántartandó tevékenységeit törölni kell.
 
 (2) A gazdaságátadó csak akkor kérheti újra az élelmiszer-felügyeleti információs rendszerbe, valamint az erdőgazdálkodói nyilvántartásba történő felvételét, ha a gazdaságátadási szerződés az 5. § vagy a 11. § alapján megszűnik vagy a gazdaságátvevő halálát követően a gazdaságátadó a gazdaságátvevő örököseként a gazdaság részét képező mező- és erdőgazdasági hasznosítású föld tulajdonjogát vagy földhasználati jogosultságát megszerzi.
 
