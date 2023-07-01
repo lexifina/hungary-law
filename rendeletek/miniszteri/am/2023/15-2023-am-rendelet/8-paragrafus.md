@@ -26,7 +26,7 @@ c) az agrotechnikai művelet bejelentését az Egységes kérelem rendelet szeri
 
 (6) A gyakorlat1-et a teljes szántóterület vonatkozásában nem teljesítettnek kell tekinteni, ha az adminisztratív, illetve helyszíni ellenőrzés keretében megállapításra kerül, hogy
 
-a) nem, vagy nem a főnövény betakarítása után 15 napon belül került elvetésre az őszi vetésű növénykultúra vagy takarónövény;
+a)[^3] nem, vagy nem a főnövény betakarítása vagy tarlója lekerülése után 15 napon belül került elvetésre az őszi vetésű növénykultúra vagy takarónövény;
 
 b) nem a (2) bekezdés b) pontja szerinti takarónövény került elvetésre;
 
@@ -39,3 +39,5 @@ e) a mezőgazdasági termelő a nem termelő területként bejelentett ökológi
 f) a mezőgazdasági termelő az évelő szántóföldi növénykultúrát nem takarította be; vagy
 
 g) a tárgyév bármely szakaszában a terület talajtakarás nélküli parlagként volt hasznosítva.
+
+[^3]: A 8. § (6) bekezdés a) pontja a 26/2023. (VI. 30.) AM rendelet 23. § a) pontja szerint módosított szöveg.

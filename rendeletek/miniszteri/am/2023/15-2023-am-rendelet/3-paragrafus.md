@@ -6,10 +6,9 @@
 
 (3) Az egységes kérelem benyújtására nyitva álló határidő lejártát követően
 
-a) a megjelölt gyakorlat nem módosítható, és új gyakorlat nem válaszható, továbbá
+a)[^1] a megjelölt gyakorlat nem módosítható, és új gyakorlat nem válaszható
 
-b) az egységes kérelemben megjelölt, vállalással érintett terület nem növelhető, ha a választott gyakorlat nem a földhasználati kategóriával érintett terület teljes egészére vonatkozik, és a növelés eredményeképpen
+b)[^2]
 
-ba) a gyakorlat teljesítése esetén az elérhető támogatás összege emelkedne, vagy
-
-bb) az 5. § (5) bekezdése szerinti esetben a vállalt gyakorlat teljesítéséhez szükséges többletterület kerülne bevonásra.
+[^1]: A 3. § (3) bekezdés a) pontja a 26/2023. (VI. 30.) AM rendelet 24. § a) pontja szerint módosított szöveg.
+[^2]: A 3. § (3) bekezdés b) pontját a 26/2023. (VI. 30.) AM rendelet 24. § b) pontja hatályon kívül helyezte.

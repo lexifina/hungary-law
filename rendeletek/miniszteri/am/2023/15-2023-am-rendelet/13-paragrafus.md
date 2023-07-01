@@ -1,6 +1,6 @@
 ## 11. Karbamid műtrágya környezetbarát használata szántóföldi területen
 
-13. § (1) A karbamid műtrágya környezetbarát használata szántóföldi területen gyakorlat (a továbbiakban: gyakorlat6) keretében a mezőgazdasági termelő a mezőgazdasági üzem szántóterületének legalább egy tábláján, de a szántóterületének legalább 5%-án karbamidtartalmú műtrágyát juttat ki. A gyakorlat6 keretében a kijuttatandó nitrogén hatóanyag hektáronként minimálisan 35 kg, maximálisan 90 kg.
+13. § (1)[^4] A karbamid műtrágya környezetbarát használata szántóföldi területen gyakorlat (a továbbiakban: gyakorlat6) keretében a mezőgazdasági termelő a mezőgazdasági üzem szántóterületének legalább egy tábláján, de a szántóterületének legalább 5%-án karbamidtartalmú műtrágyát juttat ki. A gyakorlat6 keretében a kijuttatandó karbamid tartalmú készítményből származó összes nitrogén hatóanyag hektáronként minimálisan 35 kg, maximálisan 90 kg.
 
 (2) A gyakorlat6 keretében karbamid műtrágya kizárólag úgy juttatható ki, hogy azt azonnal bedolgozzák, illetve folyékony karbamid műtrágya esetén az azonnali bedolgozás mellett inhibitort is alkalmaznak a kijuttatás során.
 
@@ -40,10 +40,13 @@ a) nem juttatott ki egyetlen táblán sem karbamid műtrágyát, vagy nem a szá
 
 b) nem az (1) bekezdésben meghatározott mennyiséget juttatta ki;
 
-c) a kijuttatott karbamid műtrágyát nem forgatta be azonnal;
+c)[^5] a kijuttatott karbamid műtrágyát nem dolgozta be azonnal;
 
 d) nem vagy nem határidőben jelentette be agrotechnikai műveletként a kijuttatást és bedolgozást az Egységes kérelem rendeletben meghatározottak szerint;
 
 e) folyékony műtrágya esetén nem használt inhibitort, vagy nem jelentette be agrotechnikai műveletként; vagy
 
 f) olyan táblára juttatott ki karbamid műtrágyát, amelyen a gyakorlat9 került kiválasztásra és teljesítésre.
+
+[^4]: A 13. § (1) bekezdése a 26/2023. (VI. 30.) AM rendelet 23. § b) pontja szerint módosított szöveg.
+[^5]: A 13. § (6) bekezdés c) pontja a 26/2023. (VI. 30.) AM rendelet 23. § c) pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
 ## 27. Karbamid műtrágya környezetbarát használata ültetvényekben
 
-32. § (1) A karbamid műtrágya környezetbarát használata ültetvényekben gyakorlat (a továbbiakban: gyakorlat21) keretében a mezőgazdasági üzem ültetvényterületének legalább egy tábláján, de ültetvényterületének legalább 5%-án karbamidtartalmú műtrágyát juttat ki. A kijuttatandó nitrogén hatóanyag hektáronként minimálisan 35 kg, maximálisan 90 kg.
+32. § (1)[^9] A karbamid műtrágya környezetbarát használata ültetvényekben gyakorlat (a továbbiakban: gyakorlat21) keretében a mezőgazdasági üzem ültetvényterületének legalább egy tábláján, de ültetvényterületének legalább 5%-án karbamidtartalmú műtrágyát juttat ki. A kijuttatandó karbamid tartalmú készítményből származó összes nitrogén hatóanyag hektáronként minimálisan 35 kg, maximálisan 90 kg.
 
 (2) A gyakorlat21 keretében karbamid műtrágya kizárólag úgy juttatható ki, hogy azt azonnal bedolgozzák, illetve folyékony karbamid esetén az azonnali bedolgozás mellett inhibitort is alkalmaznak a kijuttatás során.
 
@@ -49,3 +49,5 @@ d) nem jelentette be a kijuttatást és bedolgozást az Egységes kérelem rende
 e) nem jelentette be agrotechnikai műveletként az inhibitor alkalmazását; vagy
 
 f) folyékony karbamid használata esetében nem használt inhibitort.
+
+[^9]: A 32. § (1) bekezdése a 26/2023. (VI. 30.) AM rendelet 23. § g) pontja szerint módosított szöveg.
