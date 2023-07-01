@@ -8,7 +8,7 @@ c) vezetőjét (igazgatóját) a Magyar Nemzeti Levéltár főigazgatója nevezi
 
 (1a) A Magyar Nemzeti Levéltár illetékességébe tartozik – a 18. §-ban és a 19. § (2) bekezdésében meghatározott kivétellel –
 
-a) a köztársasági elnök és a Köztársasági Elnöki Hivatal, az Országgyűlés és az Országgyűlés Hivatala, az Alapvető Jogok Biztosa és az Alapvető Jogok Biztosának Hivatala, az Alkotmánybíróság és az Alkotmánybíróság Hivatala, a Kúria, az Országos Bírósági Hivatal, a Legfőbb Ügyészség, az Állami Számvevőszék, a Magyar Nemzeti Bank,
+a) a köztársasági elnök és a Sándor-palota, az Országgyűlés és az Országgyűlés Hivatala, az Alapvető Jogok Biztosa és az Alapvető Jogok Biztosának Hivatala, az Alkotmánybíróság és az Alkotmánybíróság Hivatala, a Kúria, az Országos Bírósági Hivatal, a Legfőbb Ügyészség, az Állami Számvevőszék, a Magyar Nemzeti Bank,
 
 b) a miniszterelnök és a központi államigazgatási szerv,
 

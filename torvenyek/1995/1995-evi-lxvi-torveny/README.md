@@ -36,3 +36,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-66-00-00
 | 2022-09-01 | 2020. évi CXXI. törvény | 1995-66-00-00.49 |
 | 2022-11-01 | 2022. évi VII. törvény | 1995-66-00-00.50 |
 | 2023-01-01 | 2022. évi XXII. törvény | 1995-66-00-00.51 |
+| 2023-07-01 | 2023. évi XXVII. törvény | 1995-66-00-00.52 |
