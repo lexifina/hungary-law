@@ -4,7 +4,7 @@
 
 a) a központi államigazgatási szervekre, a Kormány és a kormánybizottságok kivételével,
 
-b) a Köztársasági Elnöki Hivatalra,
+b) a Sándor-palotára,
 
 c) az Országgyűlés Hivatalára,
 
