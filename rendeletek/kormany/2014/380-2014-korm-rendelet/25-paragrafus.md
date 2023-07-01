@@ -1,4 +1,4 @@
-25. § (1)[^66] A 24. § (4) bekezdése szerinti támogatás teljes összege vállalkozásonként nem haladhatja meg a 15 millió eurónak megfelelő forintösszeget.
+25. § (1)[^67] A 24. § (4) bekezdése szerinti támogatás teljes összege vállalkozásonként nem haladhatja meg a 15 millió eurónak megfelelő forintösszeget.
 
 (2) A támogatás a következő feltételek fennállása esetén irányulhat – akár a 2. § (1) bekezdés 74. pont b) alpontja szerinti időszak elteltét követően is – a végső kedvezményezettbe történő kiegészítő befektetésre:
 
@@ -10,4 +10,4 @@ c) a kiegészítő befektetésben részesülő vállalkozás nem válik a 651/20
 
 (3) Végső kedvezményezettbe történő sajáttőke-befektetés és kvázisajáttőke-befektetés esetén kiváltási tőkéhez abban az esetben nyújtható támogatás, ha a kiváltási tőkéhez kapcsolódóan a befektetés valamennyi fordulójában az adott befektetés legalább 50%-ának megfelelő új tőkét is bevonnak.
 
-[^66]: A 25. § (1) bekezdése a 434/2022. (XI. 2.) Korm. rendelet 17. § h) pontja szerint módosított szöveg.
+[^67]: A 25. § (1) bekezdése a 434/2022. (XI. 2.) Korm. rendelet 17. § h) pontja szerint módosított szöveg.

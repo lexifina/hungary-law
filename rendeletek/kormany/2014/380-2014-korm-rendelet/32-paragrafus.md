@@ -2,9 +2,9 @@
 
 a) a 0,4 millió eurónak megfelelő forintösszeget,
 
-b)[^74]
+b)[^75]
 
-c)[^75] az Atr. 25. § (1) bekezdés a) és b) pontja szerinti régióban letelepedett vállalkozás esetén a 0,8 millió eurónak megfelelő forintösszeget.
+c)[^76] az Atr. 25. § (1) bekezdés a) és b) pontja szerinti régióban letelepedett vállalkozás esetén a 0,8 millió eurónak megfelelő forintösszeget.
 
-[^74]: A 32. § b) pontját a 434/2022. (XI. 2.) Korm. rendelet 17. § k) pontja hatályon kívül helyezte.
-[^75]: A 32. § c) pontja a 434/2022. (XI. 2.) Korm. rendelet 16. § k) pontja szerint módosított szöveg.
+[^75]: A 32. § b) pontját a 434/2022. (XI. 2.) Korm. rendelet 17. § k) pontja hatályon kívül helyezte.
+[^76]: A 32. § c) pontja a 434/2022. (XI. 2.) Korm. rendelet 16. § k) pontja szerint módosított szöveg.
