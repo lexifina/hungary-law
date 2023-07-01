@@ -4,8 +4,9 @@
 
 a) elnöke a miniszterelnök helyettesítésére első helyen jogosult miniszterelnök-helyettes,
 
-b) tagjai a miniszterek és a Köztársasági Elnöki Hivatal által delegált egy fő,
+b)[^1] tagjai a miniszterek és a Sándor-palota által delegált egy fő,
 
-c)[^1] titkára a nemzetpolitikáért felelős miniszter.
+c)[^2] titkára a nemzetpolitikáért felelős miniszter.
 
-[^1]: Az 1. § (2) bekezdés c) pontja a 101/2018. (VI. 11.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.
+[^1]: Az 1. § (2) bekezdés b) pontja a 258/2023. (VI. 28.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^2]: Az 1. § (2) bekezdés c) pontja a 101/2018. (VI. 11.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.
