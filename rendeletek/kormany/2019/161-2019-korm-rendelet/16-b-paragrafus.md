@@ -1,4 +1,4 @@
-16/B. §[^8] (1) A Vhr. 3. mellékletében foglalt táblázat 16. sora szerinti vasúti pályahálózat-működtetési szolgáltatás esetén a zavar jelentősnek tekintendő
+16/B. §[^9] (1) A Vhr. 3. mellékletében foglalt táblázat 16. sora szerinti vasúti pályahálózat-működtetési szolgáltatás esetén a zavar jelentősnek tekintendő
 
 a) országos és térségi vasúti pályahálózat-működtetési szolgáltatás esetén, ha
 
@@ -64,4 +64,4 @@ a) európai létfontosságú rendszerelemnek kijelölt logisztikaiközpont-üzem
 
 b) nemzeti létfontosságú rendszerelemnek kijelölt logisztikaiközpont-üzemeltetése esetén, ha a logisztikai központ zavarral érintett tárolókapacitása meghaladja a 6500 TEU-t.
 
-[^8]: A 16/B. §-t a 375/2020. (VII. 30.) Korm. rendelet 116. §-a iktatta be.
+[^9]: A 16/B. §-t a 375/2020. (VII. 30.) Korm. rendelet 116. §-a iktatta be.

@@ -1,6 +1,6 @@
-## 5/C. [^14] Rendkívüli események
+## 5/C. [^15] Rendkívüli események
 
-## 16/G. §[^15] Közlekedés ágazatban rendkívüli eseménynek minősül
+## 16/G. §[^16] Közlekedés ágazatban rendkívüli eseménynek minősül
 
 a) ha a 10. § a) vagy b) pontja alapján kijelölt útszakaszon elhelyezett, a forgalomirányítási rendszerbe kötött adatgyűjtő, megfigyelő, illetve forgalombefolyásolást lehetővé tevő út menti megjelenítő elemek 10%-át meghaladó eleméről – az útmeteorológiai és a forgalomszámlálási elemeket kivéve – 8 órát meghaladó időtartam alatt nem érkezik adat,
 
@@ -22,5 +22,5 @@ i) ha a hatóság a kijelölt létfontosságú rendszerelemnél egészségügyi 
 
 j) a humánerőforrás olyan mértékű kritikus hiánya, ami a tevékenység leállításához, szüneteltetéséhez vezethet.
 
-[^14]: Az 5/C. alcímet (16/G. §) a 375/2020. (VII. 30.) Korm. rendelet 116. §-a iktatta be.
-[^15]: A 16/G. §-t a 375/2020. (VII. 30.) Korm. rendelet 116. §-a iktatta be.
+[^15]: Az 5/C. alcímet (16/G. §) a 375/2020. (VII. 30.) Korm. rendelet 116. §-a iktatta be.
+[^16]: A 16/G. §-t a 375/2020. (VII. 30.) Korm. rendelet 116. §-a iktatta be.
