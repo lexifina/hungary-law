@@ -182,8 +182,6 @@ Az értékesítő a Járműkísérő lap második oldalán az általa rögzítet
 
 c) A közlekedési igazgatási hatóság:
 
-Kitölti a Járműkísérő lap első oldalán az (A), szükség esetén a (C.4.) adatmezőket, az I. rovatot, a forgalmi engedély számát, továbbá a második oldal alsó részén szereplő adatmezőket. Ezt követően az ügyintéző aláírja és bélyegzőlenyomattal látja el az okmányt.
-
 [^631]: A 15. melléklet I. fejezete a 90/2015. (IV. 9.) Korm. rendelet 15. § k) pontja szerint módosított szöveg.
 [^632]: A 15. melléklet II. fejezete a 90/2015. (IV. 9.) Korm. rendelet 14. § (8) bekezdésével megállapított szöveg.
 [^633]: A 15. melléklet II. rész I. pont a) alpontja a 265/2020. (VI. 11.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
