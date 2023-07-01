@@ -1,4 +1,4 @@
-## 3/A.[^98] CÍM
+## 3/A.[^101] CÍM
 
 ## IONIZÁLÓ SUGÁRZÁS ALKALMAZÁSÁVAL JÁRÓ KUTATÁS ENGEDÉLYEZÉSE
 
@@ -10,4 +10,4 @@
 
 (4) Egyéb fogalmak esetében az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 487/2015. (XII. 30.) Korm. rendelet 4. § (1) bekezdésében meghatározottakat kell figyelembe venni.
 
-[^98]: A 3/A. címet (37/B–37/C. §) a 250/2017. (IX. 5.) Korm. rendelet 32. §-a iktatta be, szövege a 724/2021. (XII. 20.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^101]: A 3/A. címet (37/B–37/C. §) a 250/2017. (IX. 5.) Korm. rendelet 32. §-a iktatta be, szövege a 724/2021. (XII. 20.) Korm. rendelet 5. §-ával megállapított szöveg.

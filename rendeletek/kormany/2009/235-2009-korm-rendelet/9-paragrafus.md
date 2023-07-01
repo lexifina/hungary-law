@@ -14,14 +14,14 @@ e) a kutatás várható időtartamát,
 
 f) a kutatásba bevonni tervezett résztvevők számát, nemét, életkorát, több központban végzett kutatás esetén összesen és kutatóhelyenként külön-külön is.
 
-(2) Az engedélyező határozatát megküldi:
+(2)[^17] Az engedélyező határozatát elektronikus úton megküldi
 
-a) a kérelmezőnek,
+a) a kérelmező biztonságos kézbesítési szolgáltatásnak minősülő tárhelyére,
 
-b) az eljáró etikai, illetve regionális etikai bizottságnak,
+b) az eljáró etikai, illetve regionális etikai bizottság hivatalos elektronikus elérhetőségére,
 
-c)[^15] a Nemzeti Egészségbiztosítási Alapkezelőnek.
+c) az egészségbiztosítási szerv hivatalos elektronikus elérhetőségére.
 
 (3) A kérelmező a határozatról értesíti az illetékes IKEB-et, a kutatást végző intézmény vezetőjét és – amennyiben a kérelmező nem azonos a kutatásvezetővel – a kutatásvezetőt.
 
-[^15]: A 9. § (2) bekezdés c) pontja a 379/2016. (XII. 2.) Korm. rendelet 145. § (1) bekezdés b) pontjával megállapított szöveg.
+[^17]: A 9. § (2) bekezdése a 286/2023. (VI. 30.) Korm. rendelet 33. §-ával megállapított szöveg.

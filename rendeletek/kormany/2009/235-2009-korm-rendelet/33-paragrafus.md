@@ -1,14 +1,14 @@
-33. §[^80] (1) Az engedélyező határozatának tartalmaznia kell
+33. §[^83] (1) Az engedélyező határozatának tartalmaznia kell
 
-a)[^81] a klinikai vizsgálat vagy a teljesítőképesség-vizsgálat azonosító adatait, a vizsgálat címét, számát,
+a)[^84] a klinikai vizsgálat vagy a teljesítőképesség-vizsgálat azonosító adatait, a vizsgálat címét, számát,
 
 b) a vizsgálati alanyok tervezett számát, nemét, életkor-határait,
 
 c) a vizsgálati helyként szereplő egészségügyi szolgáltatók nevét, székhelyét és a klinikai vizsgálóhely külön jogszabály szerinti típusát,
 
-d)[^82] a klinikai vizsgálat vagy a teljesítőképesség-vizsgálat vezetőjének nevét és beosztását,
+d)[^85] a klinikai vizsgálat vagy a teljesítőképesség-vizsgálat vezetőjének nevét és beosztását,
 
-e)[^83] a klinikai vizsgálat vagy a teljesítőképesség-vizsgálat várható időtartamát, valamint
+e)[^86] a klinikai vizsgálat vagy a teljesítőképesség-vizsgálat várható időtartamát, valamint
 
 f) a vizsgálat nyilvántartási számát.
 
@@ -18,10 +18,10 @@ a) a kérelmezőnek és
 
 b) a Nemzeti Egészségbiztosítási Alapkezelőnek.
 
-(3)[^84]
+(3)[^87]
 
-[^80]: A 33. § a 164/2020. (IV. 30.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^81]: A 33. § (1) bekezdés a) pontja a 135/2022. (IV. 7.) Korm. rendelet 13. § 15. pontja szerint módosított szöveg.
-[^82]: A 33. § (1) bekezdés d) pontja a 135/2022. (IV. 7.) Korm. rendelet 13. § 15. pontja szerint módosított szöveg.
-[^83]: A 33. § (1) bekezdés e) pontja a 135/2022. (IV. 7.) Korm. rendelet 13. § 15. pontja szerint módosított szöveg.
-[^84]: A 33. § (3) bekezdését a 135/2022. (IV. 7.) Korm. rendelet 14. § c) pontja hatályon kívül helyezte.
+[^83]: A 33. § a 164/2020. (IV. 30.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^84]: A 33. § (1) bekezdés a) pontja a 135/2022. (IV. 7.) Korm. rendelet 13. § 15. pontja szerint módosított szöveg.
+[^85]: A 33. § (1) bekezdés d) pontja a 135/2022. (IV. 7.) Korm. rendelet 13. § 15. pontja szerint módosított szöveg.
+[^86]: A 33. § (1) bekezdés e) pontja a 135/2022. (IV. 7.) Korm. rendelet 13. § 15. pontja szerint módosított szöveg.
+[^87]: A 33. § (3) bekezdését a 135/2022. (IV. 7.) Korm. rendelet 14. § c) pontja hatályon kívül helyezte.

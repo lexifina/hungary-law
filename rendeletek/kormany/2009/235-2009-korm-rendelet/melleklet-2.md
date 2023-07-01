@@ -1,6 +1,6 @@
-## Melléklet a 235/2009. (X. 20.) Korm. rendelethez[^116]
+## Melléklet a 235/2009. (X. 20.) Korm. rendelethez[^119]
 
-2. melléklet a 235/2009. (X. 20.) Korm. rendelethez[^117]
+2. melléklet a 235/2009. (X. 20.) Korm. rendelethez[^120]
 
-[^116]: A mellékletet a 164/2020. (IV. 30.) Korm. rendelet 14. § g) pontja hatályon kívül helyezte.
-[^117]: A 2. mellékletet a 351/2010. (XII. 30.) Korm. rendelet 259. § (2) bekezdése iktatta be, hatályon kívül helyezte a 70/2015. (III. 30.) Korm. rendelet 144. § (2) bekezdése.
+[^119]: A mellékletet a 164/2020. (IV. 30.) Korm. rendelet 14. § g) pontja hatályon kívül helyezte.
+[^120]: A 2. mellékletet a 351/2010. (XII. 30.) Korm. rendelet 259. § (2) bekezdése iktatta be, hatályon kívül helyezte a 70/2015. (III. 30.) Korm. rendelet 144. § (2) bekezdése.

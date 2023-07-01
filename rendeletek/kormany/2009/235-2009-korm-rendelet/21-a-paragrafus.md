@@ -1,4 +1,4 @@
-21/A. §[^69] (1) Az Eütv. 164/A. § (10) bekezdése szerinti teljesítőképesség-vizsgálatot végezni a vizsgálat OGYÉI részére történő bejelentését követően lehet.
+21/A. §[^72] (1) Az Eütv. 164/A. § (10) bekezdése szerinti teljesítőképesség-vizsgálatot végezni a vizsgálat OGYÉI részére történő bejelentését követően lehet.
 
 (2) Az (1) bekezdés szerinti bejelentést az in vitro diagnosztikai orvostechnikai eszközzel az in vitro diagnosztikai orvostechnikai eszközökről, valamint a 98/79/EK irányelv és a 2010/227/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/746 európai parlamenti és tanácsi rendelet (a továbbiakban: IVDR) 69. cikke szerinti elektronikus rendszerben kell megtenni, a vizsgálat jellegétől függően az IVDR 58. vagy 70. cikkében meghatározott adattartalommal, és a bejelentés benyújtásakor igazolni kell az igazgatási szolgáltatási díj megfizetését.
 
@@ -14,4 +14,4 @@
 
 (8) Az IVDR 73. cikke szerinti értesítéseket, valamint a vizsgálati jelentést a megbízó az IVDR 69. cikke szerinti elektronikus rendszerben küldi meg.
 
-[^69]: A 21/A. §-t a 135/2022.(IV. 7.) Korm. rendelet 4. §-a iktatta be.
+[^72]: A 21/A. §-t a 135/2022.(IV. 7.) Korm. rendelet 4. §-a iktatta be.
