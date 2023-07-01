@@ -1,34 +1,26 @@
-13. §[^46] (1)[^47] Az OKFŐ mint az alapellátás módszertani központja által meghatározott területen területi ellátási kötelezettséggel működő háziorvosi, házi gyermekorvosi és fogorvosi szolgálatban praxisjoggal rendelkező háziorvosok, házi gyermekorvosok és fogorvosok maguk közül területenként 1-1 fő területi kollegiális szakmai vezető háziorvost, házi gyermekorvost és fogorvost választanak.
+13. §[^48] (1)[^49] Az OKFŐ – mint az alapellátás módszertani központja – által meghatározott területen a területi ellátási kötelezettséggel működő háziorvosi, házi gyermekorvosi vagy fogorvosi szolgálatban praxisjoggal rendelkező háziorvosok, házi gyermekorvosok vagy fogorvosok közül az OKFŐ által kiírt felhívásban közzétett feltételek alapján kiválasztásra kerülő, területenként 1 főt az OKFŐ főigazgatója bízza meg területi kollegiális szakmai vezetőnek (a továbbiakban: területi szakmai vezető).
 
-(2)[^48] Az OKFŐ eltérő döntése hiányában egy területnek egy járás felel meg. Az OKFŐ az illetékességi területek meghatározása során figyelembe veszi a háziorvosi, fogorvosi szolgálatok számát, területi ellátási kötelezettséggel működő háziorvosi szolgálatok esetében a tartósan betöltetlen körzetek számát, a háziorvosi szolgálatok területi elhelyezkedését, az ellátandó lakosságszámot, a járó- és fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltatókkal történő szakmai együttműködés lehetőségét. A területi kollegiális szakmai vezető házi gyermekorvosok illetékességi területének meghatározása során az OKFŐ figyelembe veszi a fekvőbeteg-szakellátást nyújtó gyógyintézet csecsemő- és gyermekgyógyászat szakmára meghatározott ellátási területét. Az OKFŐ a kialakított illetékességi területek listáját a honlapján közzéteszi.
+(2)[^50] Az OKFŐ eltérő döntése hiányában egy területnek egy járás felel meg. Az OKFŐ az illetékességi területek meghatározása során figyelembe veszi a háziorvosi, fogorvosi szolgálatok számát, területi ellátási kötelezettséggel működő háziorvosi szolgálatok esetében a tartósan betöltetlen körzetek számát, a háziorvosi szolgálatok területi elhelyezkedését, az ellátandó lakosságszámot, a járó- és fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltatókkal történő szakmai együttműködés lehetőségét. A területi kollegiális szakmai vezető házi gyermekorvosok illetékességi területének meghatározása során az OKFŐ figyelembe veszi a fekvőbeteg-szakellátást nyújtó gyógyintézet csecsemő- és gyermekgyógyászat szakmára meghatározott ellátási területét. Az OKFŐ a kialakított illetékességi területek listáját a honlapján közzéteszi.
 
-(3) Területi kollegiális szakmai vezető háziorvosnak, fogorvosnak, házi gyermekorvosnak (a továbbiakban együtt: területi szakmai vezető) az a háziorvos, házi gyermekorvos, fogorvos választható, aki
+(3)[^51] Területi szakmai vezetőnek az a háziorvos, házi gyermekorvos vagy fogorvos bízható meg, aki nem rendelkezik vármegyei vagy országos kollegiális szakmai vezetői megbízással.
 
-a) legalább 10 éves orvosi szakmai gyakorlattal rendelkezik,
+(4)[^52]
 
-b) legalább 5 éve folyamatosan háziorvosi, házi gyermekorvosi vagy fogorvosi feladatokat lát el,
+(5)[^53]
 
-c) 65 évnél fiatalabb, és
+(6)[^54]
 
-d)[^49] nem rendelkezik vármegyei vagy országos kollegiális szakmai vezetői megbízással.
+(7)[^55]
 
-(4) Területi szakmai vezető háziorvosnak csak olyan háziorvos választható meg, aki a 11. § (1) bekezdés a) vagy b) pontjában előírtaknak megfelel.
+(8)[^56] Az (1)–(3) bekezdés szerinti felhívásra jelentkezők kiválasztási eljárásának lebonyolítása az OKFŐ feladata.
 
-(5) Egy választásra jogosult az adott szakterületen legfeljebb két jelöltet ajánlhat, és egy jelöltre szavazhat. Több jelöltre történő szavazás esetén a szavazat érvénytelen.
-
-(6) Területi szakmai vezető az a jelölt lehet, aki a választásra jogosultaktól a legtöbb szavazatot kapta. Szavazategyenlőség esetén a választás eredménytelen, azt az eredménytelen választást követő 10 napon belül meg kell ismételni. A megismételt választáson a legtöbb szavazatot kapó két jelöltre lehet szavazni. Területi szakmai vezető az a jelölt lesz, aki a választásra jogosultaktól a legtöbb szavazatot kapta.
-
-(7) A (6) bekezdés szerinti választás eredménye vonatkozásában jogorvoslatnak nincs helye.
-
-(8)[^50] Az (1)–(6) bekezdés szerinti választás lebonyolítása az OKFŐ feladata.
-
-(9)[^51] A területi szakmai vezető az OKFŐ-vel kötött megbízási szerződés alapján látja el tevékenységét. A területi szakmai vezető megbízatása 3 évre szól. Ha a megbízatása annak lejárta előtt megszűnik, új választást kell tartani, azzal, hogy az új választás szerinti megbízatás időtartama az eredeti 3 éves megbízatás időtartamából való hátralévő időtartamra szól. A területi szakmai vezető újraválasztható.
+(9)[^57] A területi szakmai vezető az OKFŐ-vel kötött megbízási szerződés alapján látja el tevékenységét. A területi szakmai vezető megbízatása 3 évre szól. Ha a megbízatása annak lejárta előtt megszűnik, új választást kell tartani, azzal, hogy az új választás szerinti megbízatás időtartama az eredeti 3 éves megbízatás időtartamából való hátralévő időtartamra szól. A területi szakmai vezető újraválasztható.
 
 (10) A területi szakmai vezető megbízatása megszűnik:
 
 a) a megbízatás lejártával,
 
-b)[^52]
+b)[^58]
 
 c) a praxisjoga megszűnésével,
 
@@ -40,18 +32,22 @@ f) halála esetén,
 
 g) felmondásával, vagy
 
-h)[^53] ha feladatait az OKFŐ általi egyszeri felszólítás ellenére nem látja el.
+h)[^59] ha feladatait az OKFŐ általi egyszeri felszólítás ellenére nem látja el.
 
-(11)[^54] A területi szakmai vezető a megbízásának személyesen köteles eleget tenni, akadályoztatása esetén a vármegyei kollegiális szakmai vezető kijelöli a helyettesítésére jogosult személyt.
+(11)[^60] A területi szakmai vezető a megbízásának személyesen köteles eleget tenni, akadályoztatása esetén a vármegyei kollegiális szakmai vezető kijelöli a helyettesítésére jogosult személyt.
 
 (12) A területi szakmai vezető tevékenységének ellátásáért 244 000 Ft/hó tiszteletdíjban részesül, költségtérítés nem illeti meg. A tiszteletdíj a kifizetőt terhelő adó- és járulékterheket is tartalmazza.
 
-[^46]: A 13. §-t a 40/2004. (IV. 26.) ESZCSM rendelet 11. §-ának (3) bekezdése hatályon kívül helyezte, újonnan a 14/2018. (VI. 26.) EMMI rendelet 1. §-a iktatta be.
-[^47]: A 13. § (1) bekezdése a 27/2021. (VI. 29.) EMMI rendelet 2. § e) pontja szerint módosított szöveg.
-[^48]: A 13. § (2) bekezdése a 27/2021. (VI. 29.) EMMI rendelet 2. § f) pontja szerint módosított szöveg.
-[^49]: A 13. § (3) bekezdés d) pontja a 45/2022. (XII. 20.) BM rendelet 14. § a) pontja szerint módosított szöveg.
-[^50]: A 13. § (8) bekezdése a 27/2021. (VI. 29.) EMMI rendelet 2. § g) pontja szerint módosított szöveg.
-[^51]: A 13. § (9) bekezdése a 27/2021. (VI. 29.) EMMI rendelet 2. § h) pontja szerint módosított szöveg.
-[^52]: A 13. § (10) bekezdés b) pontját a 16/2023. (VI. 14.) BM rendelet 4. §-a hatályon kívül helyezte.
-[^53]: A 13. § (10) bekezdés h) pontja a 27/2021. (VI. 29.) EMMI rendelet 2. § i) pontja szerint módosított szöveg.
-[^54]: A 13. § (11) bekezdése a 45/2022. (XII. 20.) BM rendelet 14. § a) pontja szerint módosított szöveg.
+[^48]: A 13. §-t a 40/2004. (IV. 26.) ESZCSM rendelet 11. §-ának (3) bekezdése hatályon kívül helyezte, újonnan a 14/2018. (VI. 26.) EMMI rendelet 1. §-a iktatta be.
+[^49]: A 13. § (1) bekezdése a 23/2023. (VI. 30.) BM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^50]: A 13. § (2) bekezdése a 27/2021. (VI. 29.) EMMI rendelet 2. § f) pontja szerint módosított szöveg.
+[^51]: A 13. § (3) bekezdése a 23/2023. (VI. 30.) BM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^52]: A 13. § (4) bekezdését a 23/2023. (VI. 30.) BM rendelet 11. § a) pontja hatályon kívül helyezte.
+[^53]: A 13. § (5) bekezdését a 23/2023. (VI. 30.) BM rendelet 11. § a) pontja hatályon kívül helyezte.
+[^54]: A 13. § (6) bekezdését a 23/2023. (VI. 30.) BM rendelet 11. § a) pontja hatályon kívül helyezte.
+[^55]: A 13. § (7) bekezdését a 23/2023. (VI. 30.) BM rendelet 11. § a) pontja hatályon kívül helyezte.
+[^56]: A 13. § (8) bekezdése a 27/2021. (VI. 29.) EMMI rendelet 2. § g) pontja, a 23/2023. (VI. 30.) BM rendelet 10. § d) pontja szerint módosított szöveg.
+[^57]: A 13. § (9) bekezdése a 27/2021. (VI. 29.) EMMI rendelet 2. § h) pontja szerint módosított szöveg.
+[^58]: A 13. § (10) bekezdés b) pontját a 16/2023. (VI. 14.) BM rendelet 4. §-a hatályon kívül helyezte.
+[^59]: A 13. § (10) bekezdés h) pontja a 27/2021. (VI. 29.) EMMI rendelet 2. § i) pontja szerint módosított szöveg.
+[^60]: A 13. § (11) bekezdése a 45/2022. (XII. 20.) BM rendelet 14. § a) pontja szerint módosított szöveg.

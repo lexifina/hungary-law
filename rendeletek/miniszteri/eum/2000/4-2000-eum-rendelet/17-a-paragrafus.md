@@ -1,4 +1,4 @@
-17/A. §[^84] (1) Az OKFŐ a háziorvosi körzetek kialakítása során a (2) és (3) bekezdés szerinti ellátásbiztonsági és gazdaságossági szempontokat veszi figyelembe.
+17/A. §[^91] (1) Az OKFŐ a háziorvosi körzetek kialakítása során a (2) és (3) bekezdés szerinti ellátásbiztonsági és gazdaságossági szempontokat veszi figyelembe.
 
 (2) A háziorvosi körzetben ellátott lakosságszámnak
 
@@ -10,4 +10,4 @@ el kell érnie.
 
 (3) A háziorvosi körzetek kialakítása során figyelembe kell venni a helyi sajátosságokat, a lakosság területi eloszlását, valamint azt az egyenlő területi elosztás és az ellátáshoz való egyenlő hozzáférés biztosításával kell elvégezni.
 
-[^84]: A 17/A. §-t a 82/2022. (XII. 30.) BM rendelet 2. §-a iktatta be.
+[^91]: A 17/A. §-t a 82/2022. (XII. 30.) BM rendelet 2. §-a iktatta be.

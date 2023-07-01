@@ -1,6 +1,6 @@
-## 9. §[^25] A háziorvosi feladatok munkaidőn kívüli ellátásáról külön jogszabály rendelkezik.
+## 9. §[^26] A háziorvosi feladatok munkaidőn kívüli ellátásáról külön jogszabály rendelkezik.
 
-10. §[^26]
+10. §[^27]
 
-[^25]: A 9. § a 47/2004. (V. 11.) ESZCSM rendelet 23. §-ának (7) bekezdésével megállapított szöveg.
-[^26]: A 10. §-t a 47/2004. (V. 11.) ESZCSM rendelet 23. §-ának (6) bekezdését hatályon kívül helyezte.
+[^26]: A 9. § a 47/2004. (V. 11.) ESZCSM rendelet 23. §-ának (7) bekezdésével megállapított szöveg.
+[^27]: A 10. §-t a 47/2004. (V. 11.) ESZCSM rendelet 23. §-ának (6) bekezdését hatályon kívül helyezte.

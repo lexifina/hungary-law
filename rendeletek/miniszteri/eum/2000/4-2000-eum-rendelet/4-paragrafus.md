@@ -8,9 +8,9 @@ b) a közegészségügyi-járványügyi feladatok ellátása az 5. §-ban foglal
 
 c) az egészségnevelésben és az egészségügyi felvilágosításban való részvétel,
 
-d)[^13] külön jogszabályban foglaltak szerint az életkorhoz kötött szűrővizsgálatok elvégzése és az egyes népegészségügyi célú, célzott szűrővizsgálatokban való közreműködés, valamint együttműködés az ellátási területén ilyen szűrővizsgálatot végző egészségügyi szolgáltatóval és a végrehajtásért felelős szervvel,
+d)[^14] külön jogszabályban foglaltak szerint az életkorhoz kötött szűrővizsgálatok elvégzése és az egyes népegészségügyi célú, célzott szűrővizsgálatokban való közreműködés, valamint együttműködés az ellátási területén ilyen szűrővizsgálatot végző egészségügyi szolgáltatóval és a végrehajtásért felelős szervvel,
 
-e)[^14] a háziorvosi, házi gyermekorvosi ügyelet működtetőjével kötött szerződésben rögzítettek szerint az ügyeleti szolgálatban való, az egészségügyi ellátás folyamatos működtetésének egyes szervezési kérdéseiről szóló miniszteri rendeletben meghatározottak szerinti részvétel,
+e)[^15] a háziorvosi, házi gyermekorvosi ügyelet működtetőjével kötött szerződésben rögzítettek szerint az ügyeleti szolgálatban való, az egészségügyi ellátás folyamatos működtetésének egyes szervezési kérdéseiről szóló miniszteri rendeletben meghatározottak szerinti részvétel,
 
 f) külön engedély alapján a kézi gyógyszertár kezelése,
 
@@ -20,17 +20,17 @@ h) külön jogszabályban foglaltak szerinti halottvizsgálat
 
 ellátása.
 
-(3)[^15] A gyermekorvosi ellátás keretében a háziorvos a (2) bekezdés b)–h) pontjában foglalt feladatok mellett a következő feladatokat látja el:
+(3)[^16] A gyermekorvosi ellátás keretében a háziorvos a (2) bekezdés b)–h) pontjában foglalt feladatok mellett a következő feladatokat látja el:
 
 a) a csecsemők és gyermekek gyógyító-megelőző alapellátása, beleértve a tanácsadást is,
 
-b)[^16] az újszülöttek, a veszélyeztetett csecsemők és gyermekek szükség szerinti preventív látogatása, ezen túlmenően intézeten kívüli szülés esetén az újszülöttnek a szülés megtörténtétől számított 4–7 napon belül történő meglátogatása,
+b)[^17] az újszülöttek, a veszélyeztetett csecsemők és gyermekek szükség szerinti preventív látogatása, ezen túlmenően intézeten kívüli szülés esetén az újszülöttnek a szülés megtörténtétől számított 4–7 napon belül történő meglátogatása,
 
 c) a gyermekintézményekbe történő felvétel előtti orvosi vizsgálat,
 
 d) gyermekápolás címén a jogosult keresőképtelen állományba vétele,
 
-e)[^17] a gyermekről ötéves életkorában a külön jogszabály szerinti „fejlődési szint megítéléséhez az iskolai felkészítés elősegítésére” megnevezésű orvosi adatlap kiállítása.
+e)[^18] a gyermekről ötéves életkorában a külön jogszabály szerinti „fejlődési szint megítéléséhez az iskolai felkészítés elősegítésére” megnevezésű orvosi adatlap kiállítása.
 
 (4) A fogorvosi alapellátás keretében a fogorvos feladatai:
 
@@ -50,11 +50,11 @@ e) a sürgősségi ellátás.
 
 (7) Feladatait a háziorvos és a fogorvos a rendelőjében, indokolt esetben a beteg otthonában látja el.
 
-(8)[^18] A háziorvos az alapellátás keretében az egyéb szakképesítésének megfelelő egészségügyi szolgáltatást is nyújthat.
+(8)[^19] A háziorvos az alapellátás keretében az egyéb szakképesítésének megfelelő egészségügyi szolgáltatást is nyújthat.
 
-[^13]: A 4. § (2) bekezdésének d) pontja a 40/2003. (VII. 16.) ESZCSM rendelet 4. §-ával megállapított szöveg.
-[^14]: A 4. § (2) bekezdés e) pontja a 16/2023. (VI. 14.) BM rendelet 3. §-ával megállapított szöveg.
-[^15]: A 4. § (3) bekezdés nyitó szövegrésze a 24/2014. (IV. 4.) EMMI rendelet 5. § a) pontja szerint módosított szöveg.
-[^16]: A 4. § (3) bekezdés b) pontja a 8/2011. (III. 21.) NEFMI rendelet 2. §-ával megállapított szöveg.
-[^17]: A 4. § (3) bekezdésének e) pontját a 12/2004. (XII. 25.) EüM rendelet 2. §-ának (1) bekezdése iktatta a szövegbe.
-[^18]: A 4. § (8) bekezdését a 10/2021. (III. 5.) EMMI rendelet 1. §-a iktatta be.
+[^14]: A 4. § (2) bekezdésének d) pontja a 40/2003. (VII. 16.) ESZCSM rendelet 4. §-ával megállapított szöveg.
+[^15]: A 4. § (2) bekezdés e) pontja a 16/2023. (VI. 14.) BM rendelet 3. §-ával megállapított szöveg.
+[^16]: A 4. § (3) bekezdés nyitó szövegrésze a 24/2014. (IV. 4.) EMMI rendelet 5. § a) pontja szerint módosított szöveg.
+[^17]: A 4. § (3) bekezdés b) pontja a 8/2011. (III. 21.) NEFMI rendelet 2. §-ával megállapított szöveg.
+[^18]: A 4. § (3) bekezdésének e) pontját a 12/2004. (XII. 25.) EüM rendelet 2. §-ának (1) bekezdése iktatta a szövegbe.
+[^19]: A 4. § (8) bekezdését a 10/2021. (III. 5.) EMMI rendelet 1. §-a iktatta be.

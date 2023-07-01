@@ -10,6 +10,6 @@ c) kórokozó-hordozókkal kapcsolatos tennivalókat,
 
 d) ételmérgezések esetén szükséges teendőket.
 
-(3)[^19] A háziorvos az észlelt közegészségügyi-járványügyi és egészségügyi hiányosságokról és az általa megtett intézkedésről értesíti a fővárosi és vármegyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalát (a továbbiakban: járási hivatal).
+(3)[^20] A háziorvos az észlelt közegészségügyi-járványügyi és egészségügyi hiányosságokról és az általa megtett intézkedésről értesíti a fővárosi és vármegyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalát (a továbbiakban: járási hivatal).
 
-[^19]: Az 5. § (3) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 25. § b) pontja, a 45/2022. (XII. 20.) BM rendelet 14. § a) pontja szerint módosított szöveg.
+[^20]: Az 5. § (3) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 25. § b) pontja, a 45/2022. (XII. 20.) BM rendelet 14. § a) pontja szerint módosított szöveg.
