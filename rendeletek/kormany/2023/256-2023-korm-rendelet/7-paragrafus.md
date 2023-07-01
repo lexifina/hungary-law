@@ -1,11 +1,9 @@
 7. § Hatályát veszti az R1.
 
-a)[^12]
+a)[^6]
 
-b)[^13]
+b) 26. § (3) bekezdése,
 
-c)[^14]
+c) 2. számú melléklet 8. pontja.
 
-[^12]: A 7. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^13]: A 7. § b) pontja a 18. § (2) bekezdés alapján 2023. július 1-jén lép hatályba.
-[^14]: A 7. § c) pontja a 18. § (2) bekezdés alapján 2023. július 1-jén lép hatályba.
+[^6]: A 7. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

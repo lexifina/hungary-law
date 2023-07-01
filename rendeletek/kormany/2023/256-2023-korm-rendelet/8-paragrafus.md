@@ -1,5 +1,5 @@
 ## 2. A közfoglalkoztatáshoz nyújtható támogatásokról szóló 375/2010. (XII. 31.) Korm. rendelet módosítása
 
-8. §[^15]
+8. §[^7]
 
-[^15]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

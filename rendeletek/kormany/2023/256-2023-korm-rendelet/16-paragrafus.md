@@ -1,3 +1,3 @@
-16. §[^23]
+16. § Az R4. 4. alcíme a következő 7/B. §-sal egészül ki:
 
-[^23]: A 16. § a 18. § (2) bekezdés alapján 2023. július 1-jén lép hatályba.
+„7/B. § A Nyilvántartó a csoportos adatszolgáltatás engedélyezéséről – a Kknyt. 19. § (1) bekezdés a)–c) pontjában meghatározott eseteket kivéve – vagy elutasításáról határozattal dönt.”

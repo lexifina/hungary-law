@@ -1,3 +1,7 @@
-6. §[^11]
+6. § Az R1.
 
-[^11]: A 6. § a 18. § (2) bekezdés alapján 2023. július 1-jén lép hatályba.
+a) 2. számú melléklet 7. pont 7.2. alpontjában a „mágneses” szövegrész helyébe az „elektronikus” szöveg,
+
+b) 2. számú melléklet 7. pont 7.3. alpontjában a „papír” szövegrész helyébe a „papír vagy elektronikus levél” szöveg
+
+lép.

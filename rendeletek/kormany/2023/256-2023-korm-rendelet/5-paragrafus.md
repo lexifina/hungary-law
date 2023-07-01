@@ -1,13 +1,12 @@
 5. § Az R1.
 
-a)[^8]
+a)[^4]
 
-b)[^9]
+b) 22. § (1) bekezdésében az „igazolványra” szövegrész helyébe az „igazolványra, az útlevélre, valamint a vezetői engedélyre” szöveg,
 
-c)[^10]
+c)[^5]
 
 lép.
 
-[^8]: Az 5. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: Az 5. § b) pontja a 18. § (2) bekezdés alapján 2023. július 1-jén lép hatályba.
-[^10]: Az 5. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: Az 5. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
