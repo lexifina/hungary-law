@@ -1,4 +1,4 @@
-10. § (1)[^38] A Kormány egészségügyi államigazgatási szervként az NNK-t és a kormányhivatalt jelöli ki
+10. § (1)[^39] A Kormány egészségügyi államigazgatási szervként az NNK-t és a kormányhivatalt jelöli ki
 
 a) a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 43. § (1) bekezdés g) pontja,
 
@@ -8,7 +8,7 @@ c) az Ebtv. 10. § (4) bekezdése,
 
 d) az Eütv.
 
-da)[^39]
+da)[^40]
 
 db) 143. §-a,
 
@@ -28,11 +28,11 @@ g) a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módos
 
 szerinti feladatok ellátására.
 
-(2)[^40] A víziközlekedésről szóló 2000. évi XLII. törvény 6. §-a szerinti feladatokat a miniszter jogszabály szerint, az NNK és a kormányhivatal útján látja el.
+(2)[^41] A víziközlekedésről szóló 2000. évi XLII. törvény 6. §-a szerinti feladatokat a miniszter jogszabály szerint, az NNK és a kormányhivatal útján látja el.
 
-(3)[^41] Az Eütv. 48. § c) pontja szerinti feladatokat az NNK és a kormányhivatal látja el.
+(3)[^42] Az Eütv. 48. § c) pontja szerinti feladatokat az NNK és a kormányhivatal látja el.
 
-[^38]: A 10. § (1) bekezdés nyitó szövegrésze az 514/2022. (XII. 13.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
-[^39]: A 10. § (1) bekezdés d) pont da) alpontját a 190/2019. (VII. 30.) Korm. rendelet 5. §-a hatályon kívül helyezte.
-[^40]: A 10. § (2) bekezdése az 514/2022. (XII. 13.) Korm. rendelet 3. § d) pontja szerint módosított szöveg.
-[^41]: A 10. § (3) bekezdése az 514/2022. (XII. 13.) Korm. rendelet 3. § d) pontja szerint módosított szöveg.
+[^39]: A 10. § (1) bekezdés nyitó szövegrésze az 514/2022. (XII. 13.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
+[^40]: A 10. § (1) bekezdés d) pont da) alpontját a 190/2019. (VII. 30.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^41]: A 10. § (2) bekezdése az 514/2022. (XII. 13.) Korm. rendelet 3. § d) pontja szerint módosított szöveg.
+[^42]: A 10. § (3) bekezdése az 514/2022. (XII. 13.) Korm. rendelet 3. § d) pontja szerint módosított szöveg.
