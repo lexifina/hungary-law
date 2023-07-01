@@ -2,7 +2,7 @@
 
 24. § (1) A családi otthonteremtési kedvezmény olyan hitelintézettől igényelhető, amely teljesíti az e rendeletben foglalt kötelezettségeit.
 
-(2)[^126] A támogatásra való jogosultság megállapítását és folyósítását, valamint a támogatásnak a központi költségvetéssel való elszámolását az (1) bekezdés szerinti hitelintézet végzi. Ha az igénylő e rendelet szerinti támogatást kíván igénybe venni, a befogadott kérelmek tekintetében a támogatási feltételek meglétét a folyósító hitelintézet az összes feltétel vonatkozásában, teljeskörűen – a nyilatkozatok tekintetében azok valóságtartalmát nem vizsgálva – köteles ellenőrizni. A hitelintézet a családi otthonteremtési kedvezmény iránti kérelmet elutasítja, ha a nyilatkozatban foglaltak nyilvánvalóan nem felelnek meg a valóságnak.
+(2)[^131] A támogatásra való jogosultság megállapítását és folyósítását, valamint a támogatásnak a központi költségvetéssel való elszámolását az (1) bekezdés szerinti hitelintézet végzi. Ha az igénylő e rendelet szerinti támogatást kíván igénybe venni, a befogadott kérelmek tekintetében a támogatási feltételek meglétét a folyósító hitelintézet az összes feltétel vonatkozásában, teljeskörűen – a nyilatkozatok tekintetében azok valóságtartalmát nem vizsgálva – köteles ellenőrizni. A hitelintézet a családi otthonteremtési kedvezmény iránti kérelmet elutasítja, ha a nyilatkozatban foglaltak nyilvánvalóan nem felelnek meg a valóságnak.
 
 (3) A hitelintézet felelős az állammal szemben minden olyan kárért, amely az e rendelet alapján őt terhelő kötelezettség megsértésével keletkezett. A hitelintézet felelőssége kiterjed a függő közvetítőjére is, aki az e rendelet szerinti családi otthonteremtési kedvezményre való jogosultságot bírál el, valamint a családi otthonteremtési kedvezmény nyújtásához kapcsolódó tevékenységet végez. Mentesül a hitelintézet a felelősség alól, ha bizonyítja, hogy maga vagy függő közvetítője úgy járt el, ahogy az az adott helyzetben elvárható.
 
@@ -16,4 +16,4 @@
 
 (8) A (7) bekezdés tekintetében lakáscélú állami támogatásnak minősül a lakás-takarékpénztárakról szóló törvény, valamint a lakáscélú állami támogatásokról, a fiatalok, valamint a többgyermekes családok lakáscélú kölcsöneinek állami támogatásáról és az otthonteremtési kamattámogatásról szóló kormányrendelet, a lakásépítési támogatásról szóló kormányrendelet, valamint az e rendelet szerinti állami támogatás.
 
-[^126]: A 24. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 569. § (2) bekezdésével megállapított, a 26/2018. (II. 28.) Korm. rendelet 37. § 13. pontja szerint módosított szöveg.
+[^131]: A 24. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 569. § (2) bekezdésével megállapított, a 26/2018. (II. 28.) Korm. rendelet 37. § 13. pontja szerint módosított szöveg.
