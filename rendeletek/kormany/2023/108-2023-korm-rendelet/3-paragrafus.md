@@ -1,3 +1,3 @@
-3. §[^3]
+3. § (1) A 349/2021. (VI. 22.) Korm. rendelet 1. melléklete az 1. melléklet szerint módosul.
 
-[^3]: A 3. § a 6. § (2) bekezdés alapján 2023. július 1-jén lép hatályba.
+(2) A 349/2021. (VI. 22.) Korm. rendelet a 2. melléklet szerinti 2. melléklettel egészül ki.
