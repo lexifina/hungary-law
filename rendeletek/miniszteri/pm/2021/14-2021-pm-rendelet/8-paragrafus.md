@@ -1,3 +1,3 @@
-## 7. §[^7]
+## 7. § A 40/2015. (XII. 30.) NGM rendelet 14. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-[^7]: A 7. § a 12. § (2) bekezdése alapján 2023. július 1-jén lép hatályba.
+## „(2) A vizsgára jelentkező a jelentkezési lapon megjelöli a tervezett vizsga helyszínét vagy a vizsgahelyiségen kívüli vizsga igényét és a tervezett vizsga előzetes időpontját, valamint nyilatkozik a vizsgaszabályzat elfogadásáról, a sikeres vizsga letétele esetén kiállítandó hatósági bizonyítvány kiállításának módjáról.”

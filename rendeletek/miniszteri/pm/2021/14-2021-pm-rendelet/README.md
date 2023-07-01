@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-14-20-5
 | --- | --- | --- |
 | 2022-01-01 | 2021-14-20-53.1 | 14/2021. (XII. 8.) PM rendelet |
 | 2022-01-02 | 2021-14-20-53.2 | 2010: CXXX. törvény |
+| 2023-07-01 | 2021-14-20-53.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
