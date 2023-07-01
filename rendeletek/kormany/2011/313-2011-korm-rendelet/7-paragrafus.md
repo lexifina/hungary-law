@@ -1,14 +1,12 @@
-## 6. §[^10] A praxisengedélyre vonatkozó határozatot közölni kell a Nemzeti Egészségbiztosítási Alapkezelővel és az állami adóhatósággal.
-
 7. § (1) A praxisengedélyt vissza kell vonni, ha
 
 a) a praxisjog jogosultja a jog elnyerése iránti eljárás során az ügy érdemi elbírálása szempontjából rosszhiszemű volt,
 
 b) a praxisjog jogosultja a 4. § (1) bekezdésében meghatározott feltételekkel már nem rendelkezik,
 
-c)[^11] az engedélyező szerv három éven belül legalább két alkalommal jogszabálysértés miatt intézkedett, és a háziorvos a határozatban foglaltaknak nem tett eleget,
+c)[^11] a működési engedély kiadására hatáskörrel rendelkező egészségügyi államigazgatási szerv három éven belül legalább két alkalommal jogszabálysértés miatt intézkedett, és a háziorvos a határozatban foglaltaknak nem tett eleget,
 
-d)[^12] az engedélyező szerv ismételt figyelmeztetése ellenére a háziorvos az ellátást nem, illetve – a helyettesítés kivételével – nem személyesen nyújtja,
+d)[^12] a működési engedély kiadására hatáskörrel rendelkező egészségügyi államigazgatási szerv ismételt figyelmeztetése ellenére a háziorvos az ellátást nem, illetve – a helyettesítés kivételével – nem személyesen nyújtja,
 
 e)[^13] a praxisjog elidegenítésére nyitva álló határidő eredménytelenül telik el, a határidő leteltét követő nappal.
 
@@ -16,13 +14,13 @@ e)[^13] a praxisjog elidegenítésére nyitva álló határidő eredménytelenü
 
 (3) Ha a háziorvos a tevékenység ellátására egészségi ok miatt vált véglegesen alkalmatlanná, a jogszabály szerinti alkalmassági vizsgálat időpontjától számított hetedik hónap első napján kell a praxisengedélyét visszavonni.
 
-(4) A 3. § (2) bekezdése szerinti szerv az (1) bekezdés b)–c) pontjában foglaltak fennállását a praxisengedély kiadásától számított 5 évenként, a (3) bekezdésben foglaltakat a vonatkozó jogszabályokban meghatározott időszakonként ellenőrzi.
+(4)[^14] A működési engedély kiadására hatáskörrel rendelkező egészségügyi államigazgatási szerv az (1) bekezdés b)–c) pontjában foglaltak fennállását a praxisengedély kiadásától számított 5 évenként, a (3) bekezdésben foglaltakat a vonatkozó jogszabályokban meghatározott időszakonként ellenőrzi.
 
 (5) A praxisengedély visszavonását – az állami adóhatóság kivételével – a 6. § szerinti szervek is kezdeményezhetik.
 
 (6) A praxisengedély visszavonásáról szóló határozatot közölni kell az önkormányzattal és azokkal a szervekkel, amelyekkel a praxisengedélyre vonatkozó határozatot közölték.
 
-[^10]: A 6. § a 447/2012. (XII. 29.) Korm. rendelet 77. § a) pontja, a 379/2016. (XII. 2.) Korm. rendelet 185. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 92. § (3) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^11]: A 7. § (1) bekezdés b) pontja a 447/2012. (XII. 29.) Korm. rendelet 77. § b) pontja szerint módosított szöveg.
-[^12]: A 7. § (1) bekezdés d) pontja a 447/2012. (XII. 29.) Korm. rendelet 77. § b) pontja szerint módosított szöveg.
+[^11]: A 7. § (1) bekezdés c) pontja a 447/2012. (XII. 29.) Korm. rendelet 77. § b) pontja, a 286/2023. (VI. 30.) Korm. rendelet 41. § b) pontja szerint módosított szöveg.
+[^12]: A 7. § (1) bekezdés d) pontja a 447/2012. (XII. 29.) Korm. rendelet 77. § b) pontja, a 286/2023. (VI. 30.) Korm. rendelet 41. § b) pontja szerint módosított szöveg.
 [^13]: A 7. § (1) bekezdés e) pontja a 137/2012. (VI. 29.) Korm. rendelet 77. §-ával megállapított szöveg.
+[^14]: A 7. § (4) bekezdése a 286/2023. (VI. 30.) Korm. rendelet 41. § c) pontja szerint módosított szöveg.
