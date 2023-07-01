@@ -1,0 +1,3 @@
+75. § (1) A 3. alcím a csomagolásról és a csomagolási hulladékról szóló 94/62/EK irányelv módosításáról szóló, 2018. május 30-i (EU) 2018/852 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+(2) A 4. alcím, valamint a 6. és 7. alcím az elhasználódott járművekről szóló 2000/53/EK irányelv, az elemekről és akkumulátorokról, valamint a hulladékelemekről és -akkumulátorokról szóló 2006/66/EK irányelv, valamint az elektromos és elektronikus berendezések hulladékairól szóló 2012/19/EU irányelv módosításáról szóló, 2018. május 30-i (EU) 2018/849 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.

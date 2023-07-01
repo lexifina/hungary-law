@@ -1,0 +1,3 @@
+56. § A kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló 80/2023. (III. 14.) Korm. rendelet 13. §-a a következő (3a) bekezdéssel egészül ki:
+
+„(3a) Szerződés alapján a kiterjesztett gyártói felelősségi kötelezettséget a mezőgazdasági termékpiacok közös szervezésének létrehozásáról és a 922/72/EGK, a 234/79/EK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013/EU európai parlamenti és tanácsi rendelet szerinti mezőgazdasági termelői szerveződésen keresztül forgalomba hozott körforgásos termék esetén a mezőgazdasági termelői szerveződés átvállalhatja.”

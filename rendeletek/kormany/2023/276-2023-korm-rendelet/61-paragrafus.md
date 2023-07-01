@@ -1,0 +1,13 @@
+61. § A kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló 80/2023. (III. 14.) Korm. rendelet 18. §-a a következő szöveggel lép hatályba:
+
+„18. § Ha e rendelet másként nem rendelkezik, a kiterjesztett gyártói felelősségi díjfizetési kötelezettség keletkezésének időpontja
+
+a) a 16. § (2) bekezdés a) pontja szerinti esetben az első belföldi forgalomba hozatalkor, a 16. § (2) bekezdés c) pontja szerinti esetben a kitároláskor a számlán vagy számlakibocsátás hiányában az ügylet teljesítését tanúsító egyéb okiraton feltüntetett teljesítés napja, ezek hiányában az ügylet teljesítésének napja,
+
+b) a 16. § (2) bekezdés b) pontja szerinti esetben
+
+ba) a saját célú felhasználás költségként való elszámolásának napja,
+
+bb) ha a ba) alpont alapján nem határozható meg időpont, az ügylet teljesítésének napja,
+
+bc) ha a ba) vagy bb) alpont alapján nem határozható meg az időpont, a termék hulladékká válásának napja, ideértve a külföldről behozott csomagolás végleges lebontásának a napját is.”
