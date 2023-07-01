@@ -13,3 +13,5 @@ d) fegyelmi vétség alapos gyanúja esetén fegyelmi eljárás megindítását 
 (2) A hatósági ellenőrzés keretében a szakértő tevékenységét a névjegyzéket vezető hatóság bármikor megvizsgálhatja, és ennek során közvetlenül a szakértőtől bekérheti a szakértői tevékenységről vezetett nyilvántartást.
 
 (3) A vizsgálatot a hatóság és a Kamara is kezdeményezheti.
+
+(4) A névjegyzéket vezető hatóság hivatalból, a személyiadat- és lakcímnyilvántartásból történő adatigényléssel, hatósági ellenőrzés keretében ellenőrzi az igazságügyi szakértő 1. melléklet 1.1.–1.5. és 1.7. pontjában foglalt adatait, valamint az 1.14.7. pontjában foglalt tényt a hatósági feladatainak ellátása, valamint a hatóságok igazságszolgáltatási feladatainak adatszolgáltatás nyújtásával történő elősegítése érdekében.

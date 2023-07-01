@@ -12,4 +12,6 @@ c) az adott szakterületen legalább tízéves igazságügyi szakértői gyakorl
 
 (4) Az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvényben foglalt eskü szövegében szereplő tisztség megnevezése az eskü tétele során: igazságügyi szakértői testületi tag.
 
+(4a) A (3) bekezdés szerinti eskü olyan módon is megszervezhető, hogy az eskütételre kötelezett az erről szóló okmányt elektronikusan írja alá.
+
 (5) Az igazságügyi szakértői testület szakértőként vélemény nyilvánítására eseti bizottságot hoz létre. A bizottság legalább három-, de legfeljebb öttagú, eljárása során független, munkájáért külön díjazásban részesül. Az igazságügyi szakértői testület és a bizottság eljárásának részletes szabályait külön jogszabály állapítja meg.
