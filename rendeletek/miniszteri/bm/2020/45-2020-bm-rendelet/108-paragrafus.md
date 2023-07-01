@@ -1,3 +1,3 @@
-108. §[^31]
+108. §[^41]
 
-[^31]: A 108. § a 112. § alapján hatályát vesztette.
+[^41]: A 108. § a 112. § alapján hatályát vesztette.

@@ -10,12 +10,12 @@ kerül sor.
 
 (2) Az alkalmasságvizsgálattal érintett személy a hivatalból indított eljárás esetén az elsőfokú döntés kézhezvételét követő nyolc napon belül írásban észrevétellel élhet.
 
-(3)[^27] Az alkalmasságvizsgálattal érintett személy az elsőfokú döntés ellen írásban, a fellebbezés indokainak megjelölésével a döntés kézhezvételét követő tizenöt napon belül – véglegesítés előtti alkalmasságvizsgálat esetén nyolc napon belül – fellebbezést nyújthat be az első fokon eljárt alkalmasságvizsgálatot végző személy döntése ellen, az alkalmasságvizsgálat elrendelését előkészítő személyügyi szervhez.
+(3)[^36] Az alkalmasságvizsgálattal érintett személy az elsőfokú döntés ellen írásban, a fellebbezés indokainak megjelölésével a döntés kézhezvételét követő tizenöt napon belül – véglegesítés előtti alkalmasságvizsgálat esetén nyolc napon belül – fellebbezést nyújthat be az első fokon eljárt alkalmasságvizsgálatot végző személy döntése ellen, az alkalmasságvizsgálat elrendelését előkészítő személyügyi szervhez.
 
-(4)[^28] Az elsőfokú alkalmasságvizsgálat elrendelését előkészítő személyügyi szerv a rendelkezésre álló iratokat, valamint a (3) bekezdés szerinti esetben a fellebbezést az elsőfokú vizsgálat során keletkezett leletekkel, dokumentumokkal és az alkalmassági minősítést tartalmazó értesítéssel együtt haladéktalanul megküldi a másodfokú eljárást végző szervezeti elemhez.
+(4)[^37] Az elsőfokú alkalmasságvizsgálat elrendelését előkészítő személyügyi szerv a rendelkezésre álló iratokat, valamint a (3) bekezdés szerinti esetben a fellebbezést az elsőfokú vizsgálat során keletkezett leletekkel, dokumentumokkal és az alkalmassági minősítést tartalmazó értesítéssel együtt haladéktalanul megküldi a másodfokú eljárást végző szervezeti elemhez.
 
-(5)[^29] A fellebbezés benyújtását követő vagy hivatalból indított másodfokú eljárás esetén az elsőfokú döntés meghozatalát követő negyvenöt napon belül – véglegesítés előtti alkalmasságvizsgálat esetén harminc napon belül – a másodfokon eljáró személy a minősítésről dönt dönt.
+(5)[^38] A fellebbezés benyújtását követő vagy hivatalból indított másodfokú eljárás esetén az elsőfokú döntés meghozatalát követő negyvenöt napon belül – véglegesítés előtti alkalmasságvizsgálat esetén harminc napon belül – a másodfokon eljáró személy a minősítésről dönt dönt.
 
-[^27]: A 87. § (3) bekezdése a 4/2022. (III. 25.) BM rendelet 25. § d) pontja szerint módosított szöveg.
-[^28]: A 87. § (4) bekezdése a 4/2022. (III. 25.) BM rendelet 25. § e) pontja szerint módosított szöveg.
-[^29]: A 87. § (5) bekezdése a 43/2022. (XII. 19.) BM rendelet 131. § m) pontja szerint módosított szöveg.
+[^36]: A 87. § (3) bekezdése a 4/2022. (III. 25.) BM rendelet 25. § d) pontja szerint módosított szöveg.
+[^37]: A 87. § (4) bekezdése a 4/2022. (III. 25.) BM rendelet 25. § e) pontja szerint módosított szöveg.
+[^38]: A 87. § (5) bekezdése a 43/2022. (XII. 19.) BM rendelet 131. § m) pontja szerint módosított szöveg.

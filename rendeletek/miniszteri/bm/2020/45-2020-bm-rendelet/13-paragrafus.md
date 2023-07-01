@@ -8,8 +8,12 @@ b) az eredmények kiértékelési módszertanát, amely a pszichológiai vizsgá
 
 c) az eredmények alapján az alkalmasságvizsgálati véleményt tartalmazó minősítés kialakításának a szabályait.
 
-(3) Az Alkalmasságvizsgálati Szakmai Protokollban kell rögzíteni
+(3)[^10] Az Alkalmasságvizsgálati Szakmai Protokollban kell rögzíteni
 
-a) a prevenciós kérdőív tartalmát, valamint
+a) a prevenciós kérdőív tartalmát,
 
-b) a betegségekre, kezelésekre, kórelőzményekre vonatkozó egészségügyi szakmai kérdéseket.
+b) a betegségekre, kezelésekre, kórelőzményekre vonatkozó egészségügyi szakmai kérdéseket, valamint
+
+c) a hivatásos állomány tagjának szolgálati helyén végrehajtásra kerülő időszakos alkalmasságvizsgálat feltételeit.
+
+[^10]: A 13. § (3) bekezdése a 24/2023. (VI. 30.) BM rendelet 42. §-ával megállapított szöveg.
