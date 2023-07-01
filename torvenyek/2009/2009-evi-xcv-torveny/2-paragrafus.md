@@ -16,13 +16,13 @@ b) forgalmazói magatartás: a kereskedőnek, illetve a kereskedő érdekében v
 
 c) kereskedő: olyan – a beszállító kizárólagos irányítása alá nem tartozó vagy a beszállítóval az Szt. szerint kapcsolt vállalkozási viszonyban nem álló – természetes személy, jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, ezzel az Szt. szerint kapcsolt vállalkozásban levő szervezet, továbbá közös beszerzés esetén a beszerzési szövetséget alkotó vállalkozások összessége, amely üzletszerű gazdasági tevékenység keretében a beszállítótól közvetve vagy közvetlenül felvásárolt terméket átalakítás (feldolgozás) nélkül tovább értékesíti, továbbá az ilyen személy vagy szervezet számára a termék beszerzésével, illetve értékesítésével kapcsolatban szolgáltatást nyújtó és ennek során a termék beszállítójával közvetlen üzleti kapcsolatba kerülő harmadik közreműködő szereplő;
 
-d) mezőgazdasági és élelmiszeripari termék: olyan – az élelmiszerjog általános elveiről és követelményeiről, az Európai Élelmiszerbiztonsági Hatóság létrehozásáról és az élelmiszerbiztonságra vonatkozó eljárások megállapításáról szóló, az Európai Parlament és a Tanács 2002. január 28-i 178/2002/EK rendeletének 2. cikke szerinti fogalom alá tartozó – termék, amely a végső fogyasztó számára való értékesítéshez további feldolgozást nem igényel;
+d) mezőgazdasági és élelmiszeripari termék: az Európai Unió Működéséről szóló Szerződés I. mellékletében felsorolt termék, továbbá az élelmiszerjog általános elveiről és követelményeiről, az Európai Élelmiszerbiztonsági Hatóság létrehozásáról és az élelmiszerbiztonságra vonatkozó eljárások megállapításáról szóló, az Európai Parlament és a Tanács 2002. január 28-i 178/2002/EK rendeletének 2. cikke szerinti fogalom alá tartozó termék;
 
 e) közeli lejáratú a termék
 
 ea) 24 órás fogyaszthatósági idő esetén a fogyaszthatósági idő utolsó két órájában,
 
-eb) több, mint 24 órás fogyaszthatósági idő esetén a fogyaszthatósági idő utolsó napján,
+eb) több mint 24 órás fogyaszthatósági idő esetén a fogyaszthatósági idő utolsó napján vagy a kereskedőnek a fogyaszthatósági idő utolsó napját megelőző nyitvatartási napján,
 
 ec) 3 hónapos minőségmegőrzési idő esetén a minőségmegőrzési idő utolsó két hetében,
 

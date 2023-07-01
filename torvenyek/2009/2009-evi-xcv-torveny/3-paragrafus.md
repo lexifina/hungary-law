@@ -64,7 +64,7 @@ s) ha a kereskedő a részére szállított termék után a beszállító által
 
 t) a (2b) vagy a (2c) bekezdésben foglalt rendelkezés be nem tartása;
 
-u) összetétele és érzékszervi tulajdonságai alapján azonos termékek végső fogyasztói értékesítési árának a termék származási országa alapján diszkriminatív módon eltérő képzése;
+u)
 
 x) ha a beszállítóval szemben a kereskedő a beszerzési árat a beszállító tiltakozása ellenére egyoldalúan csökkenti, vagy ha a beszerzési ár csökkentésére irányuló szerződésmódosítás érdekében a kereskedő a beszállítót a szerződéses kapcsolat megszüntetésével, terméke rendelésének lemondásával, a rendelésállomány csökkentésével, eladásösztönző tevékenységek – így különösen az akciók és promóciók – lemondásával vagy más, a beszállítónak anyagi vagy erkölcsi veszteséget okozó eszközzel fenyegeti.
 
