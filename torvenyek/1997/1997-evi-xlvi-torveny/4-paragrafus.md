@@ -1,6 +1,6 @@
 4. § (1) A kamara tagjairól vezetett nyilvántartásban fel kell tüntetni a kamara tagjának következő adatait:
 
-a) családi és utónevét, lakóhelyét,
+a) családi és utónevét, magyarországi vagy külföldi lakóhelyét;
 
 b) állampolgárságát,
 
