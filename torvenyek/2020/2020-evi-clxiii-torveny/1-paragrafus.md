@@ -64,8 +64,14 @@ c) az a) és b) pont szerinti szervezetek által a Hktv. 24. § (1a) bekezdése 
 
 24. ültetvény használója:
 
-a) a szőlőültetvény földterülete tekintetében a földhasználati nyilvántartásba bejegyzett földhasználó, vagy
+a) a szőlőültetvény földterülete tekintetében a földhasználati nyilvántartásba bejegyzett földhasználó,
 
 b) ahol jogszabály nem teszi lehetővé a földhasználó földhasználati nyilvántartásba való bejegyzését, a szőlőültetvény használatára jogosult természetes személy vagy gazdálkodó szervezet, ennek hiányában tulajdonosa;
+
+c) folyamatban lévő földhasználati nyilvántartási eljárás esetén az ültetvényhasználatot szerződéssel és nyilatkozattal igazoló természetes személy vagy gazdálkodó szervezet, ennek hiányában a tulajdonos,
+
+d) az a)–c) pontban meghatározott jogosult hiányában a folyamatban lévő hagyatéki eljárásban a hagyaték átadásának időpontjáig az ültevényhasználatot a hegybíró felé nyilatkozattal igazoló vélelmezett örökös, vagy
+
+e) az a)–d) pontban meghatározott jogosult hiányában a jegyző által kiállított és az adott ültetvény használatának tényét a hegybíró felé igazoló hatósági bizonyítvánnyal rendelkező személy.
 
 25. VINGIS: a szőlő termőhelyi kataszter, valamint a földrajzi árujelzők termékleírásban rögzített termőhelyeinek térképi megjelenítésére szolgáló térinformatikai rendszer.

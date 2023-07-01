@@ -4,7 +4,7 @@
 
 a) az adatszolgáltató
 
-aa) nevét,
+aa) nevét, természetes személy esetén születési helyét és idejét, anyja nevét, állampolgárságát,
 
 ab) lakcímét vagy székhelyét,
 

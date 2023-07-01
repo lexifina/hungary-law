@@ -14,15 +14,23 @@ lehetséges.
 
 (2) Nem kell alkalmazni az (1) bekezdés
 
-a) b)–d) pontját a szőlőmust, a sűrített szőlőmust, a finomított szőlőmustsűrítmény és a borecet,
+a) b)–d) pontját a Magyarország területéről kiszállított szőlőmust, sűrített szőlőmust és finomított szőlőmustsűrítmény,
 
-b) b) és c) pontját – az e törvény végrehajtására kiadott kormányrendeletben meghatározott esetben – a még erjedésben lévő újbor
+b) b) és c) pontját
+
+ba) az e törvény végrehajtására kiadott kormányrendeletben meghatározott esetben a még erjedésben lévő újbor,
+
+bb) a borecet,
+
+bc) a nem borászati termék előállítása céljából Magyarország területén forgalomba hozni kívánt borászati termék, valamint
+
+bd) a Magyarország területén forgalomba hozott szőlőmust, sűrített szőlőmust és finomított szőlőmustsűrítmény
 
 tekintetében.
 
 (2a) Szőlőmust Magyarország területéről való kivitele esetén a 9. § (1) bekezdés a) pontja szerinti származási bizonyítványt a kivitelt követően az e törvény végrehajtására kiadott kormányrendeletben meghatározott határidőn belül szükséges beszerezni.
 
-(2b) Borászati termék nem borászati termék előállítása céljából történő forgalomba hozatala az (1) bekezdés a) és d) pontjában meghatározott feltételek teljesítésével lehetséges.
+(2b)
 
 (3) A hegybíró az első származási bizonyítványt az érintett borászati termékhez kapcsolódó szüreti bejegyzés alapján adja ki.
 

@@ -4,7 +4,7 @@
 
 (2) Az (1) bekezdéstől eltérően a borászati hatóság engedélyével borászati termék borászati üzem területén kívül is kiszerelhető.
 
-(3) Nem kiszerelt, valamint kiszerelt, de forgalombahozatali azonosítóval nem rendelkező borászati termék – e törvény végrehajtására kiadott miniszteri rendeletben meghatározott borászati termék kivételével – kizárólag borászati üzemben tárolható.
+(3) Közfogyasztásra történő forgalomba hozatalra szánt borászati termék – e törvény végrehajtására kiadott miniszteri rendeletben meghatározott borászati termék kivételével – kizárólag borászati üzemben tárolható.
 
 (4) A borászati üzemengedélyekről a borászati hatóság a tevékenységére vonatkozó jogszabályban foglalt ellenőrzési feladatainak ellátása érdekében nyilvántartást vezet, amely tartalmazza
 

@@ -10,4 +10,6 @@ ba) a szőlőültetvény maximális hozamára vonatkozó előírását legfeljeb
 
 bb) a szőlő minimális cukortartalmára vonatkozó előírását legfeljebb 12,5 g/l mértékben megemelheti vagy csökkentheti földrajzi jelzéseknél és eredetmegjelölések esetén azon bortípusoknál, amelyeknél a szőlő minimális cukortartalma a termékleírás értelmében legalább 166,7 g/l.
 
+bc) a borászati termékek kémiai összetételére vonatkozó határértékeit legfeljebb egyötödével megemelheti vagy csökkentheti.
+
 (2) A miniszter az (1) bekezdés szerinti hozzájárulását akkor tagadhatja meg, ha a földrajzi árujelzőt kezelő hegyközségi szervezet tervezett intézkedése a szőlő-bor ágazat általános érdekeivel ellentétes.

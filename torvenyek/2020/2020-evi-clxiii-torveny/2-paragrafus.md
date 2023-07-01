@@ -12,6 +12,8 @@ a) a szőlő termőhelyi kataszterbe sorolt földterületen a csemegeszőlő-tel
 
 b) a földterület szőlő termőhelyi kataszterből történő törléséhez.
 
+(4a) Ha a hegyközségi rendtartás másként nem rendelkezik, a hegyközség a földterület szőlő termőhelyi kataszterből történő törléséhez a (4) bekezdés b) pontja szerinti hozzájárulást megadja, ha az érintett földterületen és annak határától mért háromszáz méteres távolságon belül eső ingatlan területén a hegybíró a kataszterből történő törlésre irányuló kérelem benyújtásának időpontját megelőző tíz borpiaci évben termő szőlőültetvényt vagy hatályos üzemengedéllyel rendelkező borászati üzemet nem tartott nyilván.
+
 (5) A gazdasági aktában szőlőültetvényként nyilvántartott földterület határától számított ötven méteren belül új erdő vagy új fásítás telepítése nem végezhető, továbbá az ilyen földrészletnek a szőlő termőhelyi kataszterből való kivonása erdő vagy fásítás telepítése céljából nem engedélyezhető.
 
 (6) A szőlő termőhelyi kataszterbe sorolás jogi jelleg ingatlan-nyilvántartásba történő bejegyzéséhez vagy ingatlan-nyilvántartásból történő törléséhez az ingatlan-nyilvántartásról szóló törvénynek az ingatlan-nyilvántartási bejegyzés alapjául szolgáló okirat tartalmi elemeit meghatározó rendelkezésétől eltérően
