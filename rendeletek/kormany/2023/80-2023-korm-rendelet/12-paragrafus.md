@@ -1,3 +1,1 @@
-12. §[^18]
-
-[^18]: A 12. § a 36. § (3) bekezdés alapján 2023. július 1-jén lép hatályba.
+12. § A körforgásos termék hulladékának gyűjtéséről és kezeléséről a termékárami kormányrendeletekben és a nemzeti célértékek meghatározásáról szóló miniszteri rendeletben meghatározott aránynak, valamint az Országos Hulladékgazdálkodási Tervben foglalt célkitűzéseknek megfelelő mértékben kell gondoskodni.

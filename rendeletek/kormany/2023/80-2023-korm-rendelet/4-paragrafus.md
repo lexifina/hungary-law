@@ -1,3 +1,3 @@
-4. §[^2]
+4. § (1) A koncessziós társaság Magyarország teljes területén a körforgásos termékek hulladékai tekintetében a hulladékgyűjtő rendszereknek legalább jogszabályban meghatározott mértékű elérhetőségét biztosítja.
 
-[^2]: A 4. § a 36. § (3) bekezdés alapján 2023. július 1-jén lép hatályba.
+(2) A koncessziós társaság kormányrendeletben meghatározottak szerinti gyűjtési tevékenységet végez, és gondoskodik a hulladék hasznosításáról, szükség esetén ártalmatlanításáról.

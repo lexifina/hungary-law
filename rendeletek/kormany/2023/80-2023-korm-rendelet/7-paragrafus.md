@@ -1,3 +1,1 @@
-7. §[^8]
-
-[^8]: A 7. § a 36. § (3) bekezdés alapján 2023. július 1-jén lép hatályba.
+7. § A gyártó az 1. melléklet 1.3. pontja szerinti körforgásos termékek, az 1. melléklet 1.5. pontja szerinti körforgásos termékek, valamint az 1. melléklet 1.4. pontjából az ipari vagy gépjármű elemek és -akkumulátorok tekintetében a körforgásos termékkel kapcsolatos kiterjesztett gyártói felelősségi kötelezettségeit választása szerint kollektív teljesítés helyett egyénileg teljesítheti. Betétdíjas termék gyártója a kiterjesztett gyártói felelősségi kötelezettségeit egyénileg teljesítheti.

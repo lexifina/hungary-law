@@ -1,3 +1,3 @@
-9. §[^15]
+9. § (1) Egyéni teljesítés esetén a gyártó e tevékenysége megkezdését és a 23. § (1) bekezdése szerinti nyilvántartásba vétel iránti kérelem előterjesztését megelőzően a 8. § (2) bekezdésében és az 5. mellékletben foglaltakra tekintettel – a szerződéskötéshez szükséges valamennyi adat megadásával – a koncessziós társaság által működtetett elektronikus felületen kezdeményezi a szerződés megkötését.
 
-[^15]: A 9. § a 36. § (3) bekezdés alapján 2023. július 1-jén lép hatályba.
+(2) Egyéni teljesítés esetén a gyártó bejelentett szerződéskötési igénye alapján a koncessziós társaság az igény beérkezését követően haladéktalanul, de legkésőbb 15 napon belül megküldi a koncessziós társaság által működtetett elektronikus felületen a gyártó által megadott adatok alapján elkészített szerződés tervezetét a gyártó részére. A koncessziós társaság és a gyártó a szerződéstervezet megküldését követő 30 napon belül megköti a szerződést.

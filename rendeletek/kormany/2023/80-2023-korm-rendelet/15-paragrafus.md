@@ -1,5 +1,3 @@
-## 5.[^20]
+## 5. Kiterjesztett gyártói felelősségi díj, a kiterjesztett gyártói felelősségi díjfizetési kötelezettség keletkezése
 
-15. §
-
-[^20]: Az 5. alcím a 36. § (3) bekezdés alapján 2023. július 1-jén lép hatályba.
+15. § A körforgásos termékekre kiterjedően a kiterjesztett gyártói felelősségi kötelezettséget a gyártó nevében teljesítő szervezet feladatainak a koncessziós társaság általi teljesítéséért a termék gyártója a Ht. 53/E. § (2) bekezdése szerinti hulladékgazdálkodási intézményi résztevékenység ellátásával összefüggő díj részét képező pénzügyi hozzájárulást (a továbbiakban: kiterjesztett gyártói felelősségi díj) fizet.

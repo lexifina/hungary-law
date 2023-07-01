@@ -1,3 +1,5 @@
-10. §[^16]
+10. § (1) A külföldön letelepedett és belföldön körforgásos terméket forgalomba hozó gyártó az e rendeletben meghatározott kötelezettségeit belföldön letelepedett és magyarországi adószámmal rendelkező, írásbeli meghatalmazással kijelölt természetes vagy jogi személy képviselő (a továbbiakban: meghatalmazott képviselő) útján is teljesítheti.
 
-[^16]: A 10. § a 36. § (3) bekezdés alapján 2023. július 1-jén lép hatályba.
+(2) A külföldön letelepedett és belföldön elektronikus kereskedelmi szolgáltatásként körforgásos terméket forgalomba hozó gyártó az e rendeletben meghatározott kötelezettségeit meghatalmazott képviselő útján teljesíti.
+
+(3) A meghatalmazott képviselő felel a gyártó e rendelet szerinti kötelezettségeinek teljesítéséért.

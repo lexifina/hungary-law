@@ -1,5 +1,5 @@
-## 6.[^21]
+## 6. A kiterjesztett gyártói felelősségi díj mértékének megállapítása, a díj megfizetése
 
-19. §
+19. § (1) A kiterjesztett gyártói felelősségi díj egy egységre vetített mértékét a 2. mellékletben meghatározott díjkód szerinti bontásban – díjmoduláció alkalmazása esetén arra is figyelemmel – a hulladékgazdálkodásért felelős miniszter (a továbbiakban: miniszter) rendeletben határozza meg a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) javaslata alapján. Amennyiben a tárgyévre vonatkozó rendelet kihirdetésére nem kerül sor a tárgyévet megelőző év november 30. napjáig, akkor a tárgyévet megelőző évre meghatározott kiterjesztett gyártói felelősségi díj – a Magyar Nemzeti Bank által publikált, a fogyasztói árindexre készített, a díjmegállapítás évére vonatkozó előrejelzésének megfelelően – indexált mértéke alkalmazandó.
 
-[^21]: A 6. alcím a 36. § (3) bekezdés alapján 2023. július 1-jén lép hatályba.
+(2) Az adott év egészére vonatkozó egységnyi kiterjesztett gyártói felelősségi díjakra a Hivatal a Ht. rendelkezései és a termékárami kormányrendeletekben foglaltak figyelembevételével differenciáltan, a 2. mellékletben meghatározott díjkód szerinti bontásban – díjmoduláció alkalmazása esetén arra is figyelemmel – tesz javaslatot.

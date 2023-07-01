@@ -150,7 +150,7 @@ kivéve: a reklámhordozó papírnak minősülő termékeket, az üzleti könyv,
 
 | 2. | Termékkódok |
 
-| 3. | 11 | csomagolás |
+| 3.[^41] | 11 | csomagolás (az egyes egyszer használatos műanyagterméknek minősülő csomagolások kivételével) |
 
 | 4. | 12 | egyes egyszer használatos műanyagtermék |
 
@@ -340,23 +340,19 @@ kivéve: a reklámhordozó papírnak minősülő termékeket, az üzleti könyv,
 
 | 13. | 99 | vegyes elektromos, elektronikus berendezési hulladék |
 
-2.3.3. Elem, akkumulátor és hulladéka
+2.3.3.[^42] Elem, akkumulátor és hulladéka
 
 |  | A | B |
 
 | 1. | Kód | Megnevezés |
 
-| 2. | 10 | hordozható elem, akkumulátor, a könnyű szállítóeszköz elem és akkumulátor kivételével |
+| 2. | 10 | hordozható elem, akkumulátor |
 
-| 3. | 20 | könnyű szállítóeszköz elem, akkumulátor |
+| 3. | 40 | ipari elem, akkumulátor |
 
-| 4. | 30 | elektromos meghajtású gépjárműben használt ipari elem vagy ipari akkumulátor |
+| 4. | 50 | gépjármű elem, akkumulátor |
 
-| 5. | 40 | ipari elem, akkumulátor a könnyű szállítóeszköz elem, akkumulátor és az elektromos meghajtású gépjárműben használt ipari elem, ipari akkumulátor kivételével |
-
-| 6. | 50 | gépjármű elem, gépjármű akkumulátor |
-
-| 7. | 99 | vegyes elem, akkumulátor hulladék |
+| 5. | 99 | vegyes elem, akkumulátor hulladék |
 
 2.3.4. Gépjármű és hulladéka
 
@@ -444,7 +440,7 @@ kivéve: a reklámhordozó papírnak minősülő termékeket, az üzleti könyv,
 
 2.4. A KF kód 5. és 6. karaktere: Csoport kód
 
-2.4.1. Csomagolás és hulladéka a 2.4.2. alá tartozó termékből létrehozott csomagolás kivételével
+2.4.1.[^43] Csomagolás és hulladéka a 2.4.2. alá tartozó termékből létrehozott csomagolás kivételével
 
 |  | A | B |
 
@@ -456,23 +452,27 @@ kivéve: a reklámhordozó papírnak minősülő termékeket, az üzleti könyv,
 
 | 4. | 10 | általános eset |
 
-| 5. | gyűjtő- vagy szállítási csomagolás |
+| 5. | 11 | növényvédő szerrel közvetlenül érintkező csomagolás |
 
-| 6. | 20 | általános eset |
+| 6. | gyűjtő- vagy szállítási csomagolás |
 
-| 7. | újrahasználható |
+| 7. | 20 | általános eset |
 
-| 8. | fogyasztói csomagolás |
+| 8. | újrahasználható |
 
-| 9. | 40 | általános eset |
+| 9. | fogyasztói csomagolás |
 
-| 10. | gyűjtő- vagy szállítási csomagolás |
+| 10. | 40 | általános eset |
 
-| 11. | 50 | általános eset |
+| 11. | 41 | növényvédő szerrel közvetlenül érintkező csomagolás |
 
-| 12. | vegyes csomagolási hulladék |
+| 12. | gyűjtő- vagy szállítási csomagolás |
 
-| 13. | 90 | vegyes csomagolási hulladék |
+| 13. | 50 | általános eset |
+
+| 14. | vegyes csomagolási hulladék |
+
+| 15. | 90 | vegyes csomagolási hulladék |
 
 2.4.2. Egyes egyszer használatos műanyagtermék és hulladéka
 
@@ -520,7 +520,7 @@ kivéve: a reklámhordozó papírnak minősülő termékeket, az üzleti könyv,
 
 | 4. | 99 | vegyes elektromos, elektronikus berendezés hulladéka |
 
-2.4.4. Elem, akkumulátor és hulladéka
+2.4.4.[^44] Elem, akkumulátor és hulladéka
 
 |  | A | B |
 
@@ -534,21 +534,27 @@ kivéve: a reklámhordozó papírnak minősülő termékeket, az üzleti könyv,
 
 | 5. | 40 | egyéb |
 
-| 6. | 97 | vegyes hordozható elem, akkumulátorhulladék |
+| 6. | 97 | vegyes hordozható elem, akkumulátor hulladék |
 
-| 7. | 98 | vegyes könnyű szállítóeszköz elem, akkumulátorhulladék |
+| 7. | 98 | vegyes ipari elem, akkumulátor hulladék |
 
-| 8. | 99 | egyéb vegyes elem, akkumulátorhulladék |
+| 8. | 99 | egyéb vegyes elem, akkumulátor hulladék |
 
-2.4.5. Gépjármű és hulladéka
+2.4.5.[^45] Gépjármű és hulladéka
 
 |  | A | B |
 
 | 1. | Kód | Megnevezés |
 
-| 2. | 10 | 1980. január 1-je előtt gyártott gépjármű |
+| 2. | 10 | nem díjátalány-fizetéssel |
 
-| 3. | 20 | 1980. január 1-jén vagy utána gyártott gépjármű |
+| 3. | 11 | kizárólag belső égésű motorral hajtott, díjátalány-fizetéssel |
+
+| 4. | 12 | részben elektromos motorral hajtott, tölthető akkumulátorral, díjátalány-fizetéssel |
+
+| 5. | 13 | részben elektromos motorral hajtott, nem tölthető akkumulátorral, díjátalány-fizetéssel |
+
+| 6. | 14 | kizárólag elektromos motorral hajtott, díjátalány-fizetéssel |
 
 2.4.6. Gumiabroncs és hulladéka
 
@@ -636,7 +642,7 @@ kivéve: a reklámhordozó papírnak minősülő termékeket, az üzleti könyv,
 
 2.5. A KF kód 7. karaktere: Termék esetén kötelezettséget, hulladék esetén hulladékkezelést jelölő kód
 
-2.5.1. Kötelezettségteljesítési kód
+2.5.1.[^46] Kötelezettségteljesítési kód
 
 |  | A | B |
 
@@ -646,9 +652,19 @@ kivéve: a reklámhordozó papírnak minősülő termékeket, az üzleti könyv,
 
 | 3. | 2 | egyéni teljesítés |
 
-| 4. | 3 | a kiterjesztett gyártói felelősségi díj nem került megfizetésre (22. § szerint) |
+| 4. | 3 | díjátalány-fizetés, kizárólag belső égésű motorral hajtott gépjármű |
 
-| 5. | 4 | a gépjármű körforgásos termék tartozékának vagy alkotórészének kiterjesztett gyártói felelősségi díja szerződéssel átvállalásra kerül |
+| 5. | 4 | díjátalány-fizetés, részben elektromos motorral hajtott gépjármű, tölthető akkumulátorral |
+
+| 6. | 5 | díjátalány-fizetés, részben elektromos motorral hajtott gépjármű, nem tölthető akkumulátorral |
+
+| 7. | 6 | díjátalány-fizetés, kizárólag elektromos motorral hajtott gépjármű |
+
+| 8. | A | a kiterjesztett gyártói felelősségi díj nem került megfizetésre (22. § szerint) |
+
+| 9. | B | a kiterjesztett gyártói felelősségi díj nem került megfizetésre (22/A. § szerint) |
+
+| 10. | C | a kiterjesztett gyártói felelősségi díj nem került megfizetésre (22/C. § szerint) |
 
 2.5.2. Újrahasználat és hulladékkezelési kód
 
@@ -699,3 +715,10 @@ kivéve: a reklámhordozó papírnak minősülő termékeket, az üzleti könyv,
 | 12. | U | más EU-tagállamban újrahasznált/kezelt |
 
 | 13. | X | EU-n kívül újrahasznált/kezelt |
+
+[^41]: Az 1. melléklet 2.2. pontjában foglalt táblázat 3. sora a 276/2023. (VI. 29.) Korm. rendelet 69. § (1) bekezdés a) pontjával megállapított szöveg.
+[^42]: Az 1. melléklet 2.3.3. pontja a 276/2023. (VI. 29.) Korm. rendelet 69. § (1) bekezdés a) pontjával megállapított szöveg.
+[^43]: Az 1. melléklet 2.4.1. pontja a 276/2023. (VI. 29.) Korm. rendelet 69. § (1) bekezdés a) pontjával megállapított szöveg.
+[^44]: Az 1. melléklet 2.4.4. pontja a 276/2023. (VI. 29.) Korm. rendelet 69. § (1) bekezdés a) pontjával megállapított szöveg.
+[^45]: Az 1. melléklet 2.4.5. pontja a 276/2023. (VI. 29.) Korm. rendelet 69. § (1) bekezdés a) pontjával megállapított szöveg.
+[^46]: Az 1. melléklet 2.5.1. pontja a 276/2023. (VI. 29.) Korm. rendelet 69. § (1) bekezdés a) pontjával megállapított szöveg.

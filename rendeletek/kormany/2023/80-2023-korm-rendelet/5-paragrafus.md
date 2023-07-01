@@ -1,3 +1,1 @@
-5. §[^3]
-
-[^3]: Az 5. § a 36. § (3) bekezdés alapján 2023. július 1-jén lép hatályba.
+5. § A koncessziós társaság a Ht.-ban foglalt jogkövetkezmény alkalmazásának alapjául szolgáló cselekmény vagy mulasztás észlelése esetén a hatáskörrel és illetékességgel rendelkező hulladékgazdálkodási hatóságot haladéktalanul értesíti.

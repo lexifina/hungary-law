@@ -1,3 +1,3 @@
-24. §[^22]
+24. § (1) A kiterjesztett gyártói felelősségi kötelezettség 13. § szerinti átvállalása esetén az átvállaló az átvállalási szerződést a szerződés megkötésétől számított 15 napon belül az országos hulladékgazdálkodási hatóság részére megküldi, és kéri a 13. § (4) bekezdésében foglalt adatok nyilvántartásba vételét. A nyilvántartásba vételről az országos hulladékgazdálkodási hatóság mindkét szerződő felet értesíti.
 
-[^22]: A 24. § a 36. § (3) bekezdés alapján 2023. július 1-jén lép hatályba.
+(2) Az átvállalási szerződés a 13. § (4) bekezdésében foglalt adatoknak az országos hulladékgazdálkodási hatóság általi nyilvántartásba vételének napjától, vagy ha a felek a szerződésben későbbi időpontban állapodnak meg, a szerződésben megjelölt időponttól hatályos.
