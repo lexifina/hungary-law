@@ -70,7 +70,7 @@ jb) a védett természeti területek természetvédelmi kezeléséért felelős 
 
 jc) védett természeti területen a védett természeti területek természetvédelmi kezeléséért felelős szerv által megvalósítandó élőhely-rekonstrukciós beruházások beavatkozási vagy célterületén az élőhely helyreállítása másképp nem végezhető el;
 
-k) vízgazdálkodási és víziközmű-szolgáltatási feladatok ellátása céljából, ha
+k) vízgazdálkodási és víziközmű-szolgáltatási feladatok ellátása, valamint az öntözéses gazdálkodás kialakítása és fenntartása céljából, ha
 
 ka) a Vásárhelyi Terv Továbbfejlesztése szerinti nyomvonalas létesítménynek jogszabállyal megállapított nyomvonalon való megépítése,
 

@@ -24,7 +24,7 @@ j) örökségvédelem;
 
 k) természetvédelem;
 
-l) vízgazdálkodás, víziközmű-szolgáltatás;
+l) vízgazdálkodás, víziközmű-szolgáltatás, öntözéses gazdálkodás;
 
 m) fenntartható erdőgazdálkodás, valamint véderdő telepítése, védőfásítás és közérdekű erdőtelepítés;
 
