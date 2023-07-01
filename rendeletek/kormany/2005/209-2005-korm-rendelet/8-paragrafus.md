@@ -1,17 +1,17 @@
-## Eljáró hatóságok[^22]
+## Eljáró hatóságok[^23]
 
-8. §[^23] (1)[^24] A gyártó bejelentési kötelezettségének teljesítését az országos környezetvédelmi hatóság ellenőrzi, és eljár azok megsértése esetén.
+8. §[^24] (1)[^25] A gyártó bejelentési kötelezettségének teljesítését az országos hulladékgazdálkodási hatóság ellenőrzi, és eljár azok megsértése esetén.
 
 (2) A 3. § (2) bekezdésének a) pontjában, a 4. § (5) bekezdésében és a 7. §-ban foglalt rendelkezések megsértése esetén a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvényben (a továbbiakban: Fttv.) meghatározott hatóság jár el, ha a jogsértés az Fttv. 2. § a) pontja értelmében vett fogyasztót érint. A hatóság az Fttv.-ben meghatározott szabályok szerint jár el.
 
-(3)[^25] A 4. § (1)–(4) bekezdésében foglalt rendelkezések megsértése esetén a fogyasztóvédelmi hatóság jár el, ha a jogsértés a fogyasztóvédelemről szóló 1997. évi CLV. törvény (a továbbiakban: Fgytv.) 2. § a) pontja értelmében vett fogyasztót érint. A fogyasztóvédelmi hatóság az Fgytv. szabályai szerint jár el.
+(3)[^26] A 4. § (1)–(4) bekezdésében foglalt rendelkezések megsértése esetén a fogyasztóvédelmi hatóság jár el, ha a jogsértés a fogyasztóvédelemről szóló 1997. évi CLV. törvény (a továbbiakban: Fgytv.) 2. § a) pontja értelmében vett fogyasztót érint. A fogyasztóvédelmi hatóság az Fgytv. szabályai szerint jár el.
 
 (4) A (2) és (3) bekezdésben említett rendelkezések az Fgytv. alkalmazásában fogyasztóvédelmi rendelkezések.
 
-(5)[^26]
+(5)[^27]
 
-[^22]: A 8. §-t megelőző alcím a 217/2008. (VIII. 29.) Korm. rendelet 10. § (4) bekezdésével megállapított szöveg.
-[^23]: A 8. § a 217/2008. (VIII. 29.) Korm. rendelet 10. § (4) bekezdésével megállapított szöveg.
-[^24]: A 8. § (1) bekezdése a 441/2012. (XII. 29.) Korm. rendelet 9. § (2) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 67. § c) pontja szerint módosított szöveg.
-[^25]: A 8. § (3) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 140. §-a szerint módosított szöveg.
-[^26]: A 8. § (5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 433. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^23]: A 8. §-t megelőző alcím a 217/2008. (VIII. 29.) Korm. rendelet 10. § (4) bekezdésével megállapított szöveg.
+[^24]: A 8. § a 217/2008. (VIII. 29.) Korm. rendelet 10. § (4) bekezdésével megállapított szöveg.
+[^25]: A 8. § (1) bekezdése a 441/2012. (XII. 29.) Korm. rendelet 9. § (2) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 67. § c) pontja, a 276/2023. (VI. 29.) Korm. rendelet 1. § g) pontja szerint módosított szöveg.
+[^26]: A 8. § (3) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 140. §-a szerint módosított szöveg.
+[^27]: A 8. § (5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 433. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
