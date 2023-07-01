@@ -2,7 +2,7 @@
 
 1. § (1) Ez a rendelet
 
-a) a fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvényben (a továbbiakban: Fdvtv.) meghatározott dohánytermék-kiskereskedelmi tevékenységre, illetve a dohányboltban forgalmazott termékekre,
+a)[^1] a fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvényben (a továbbiakban: Fdvtv.) meghatározott dohánytermék-kiskereskedelmi tevékenységre, illetve a dohányboltban forgalmazott termékekre,
 
 b) az Fdvtv. 15/F. §-a szerint szolgáltatott adatokra és azok felhasználására, továbbá
 
@@ -24,6 +24,7 @@ e) érintett termékek: az 1. mellékletben felsorolt termékek;
 
 f) hatósági azonosító: egyszer egykarakteres betűből és hat számból (A000000) álló azonosítószám.
 
-g)[^1] adatszolgáltatásra kötelezett személy: az Fdvtv. 3. § (1) bekezdés 16. pontja szerinti dohánytermék-kiskereskedelmi tevékenységet végző személy.
+g)[^2] adatszolgáltatásra kötelezett személy: az Fdvtv. 3. § (1) bekezdés 16. pontja szerinti dohánytermék-kiskereskedelmi tevékenységet végző személy.
 
-[^1]: Az 1. § (2) bekezdés g) pontját a 7/2023. (III. 22.) SZTFH rendelet 15. §-a iktatta be.
+[^1]: [Az 1. § (1) bekezdés a) pontjában a 13/2023. (VI. 30.) SZTFH rendelet 6. § a) pontjával elrendelt módosítás, amely szerint az „az Fdvtv. 15/F. §-a” szövegrész helyébe az „az Fdvtv. 15/H. §-a” szöveg lép, nem vezethető át.]
+[^2]: Az 1. § (2) bekezdés g) pontját a 7/2023. (III. 22.) SZTFH rendelet 15. §-a iktatta be.
