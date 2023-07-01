@@ -1,6 +1,6 @@
-25. § (1) A nyilvántartó a nyilvántartás adatait statisztikai célra feldolgozhatja és nyilvánosságra hozhatja, valamint az adatokat
+25. § (1) A nyilvántartó a nyilvántartás adatait statisztikai célra feldolgozhatja és nyilvánosságra hozhatja, valamint az adatokat a KSH részére
 
-a) a Központi Statisztikai Hivatal részére egyedi azonosításra alkalmas módon,
+a) egyedi azonosításra alkalmas módon,
 
 b) egyéb esetekben személyazonosításra alkalmatlan módon
 

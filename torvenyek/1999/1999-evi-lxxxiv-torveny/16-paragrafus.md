@@ -4,7 +4,7 @@
 
 16. § (1) A nyilvántartásból
 
-a) a nyilvántartótól csoportos adatszolgáltatás, járműéletút-adatszolgáltatás és – a Kormány által rendeletben az e törvény szerint adatigénylésre jogosult szervek közül kijelölt szervek eseti jellegű megkeresése esetén – egyedi adatszolgáltatás,
+a) a nyilvántartótól csoportos adatszolgáltatás, rendszeres adatszolgáltatás, járműéletút-adatszolgáltatás és – a Kormány által rendeletben az e törvény szerint adatigénylésre jogosult szervek közül kijelölt szervek eseti jellegű megkeresése esetén – egyedi adatszolgáltatás,
 
 b) a közlekedési igazgatási hatóságtól egyedi adatszolgáltatás
 

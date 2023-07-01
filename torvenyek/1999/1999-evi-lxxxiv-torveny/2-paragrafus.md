@@ -16,7 +16,9 @@
 
 7. Egyedi adatszolgáltatás: egy személyre (ideértve a nem természetes személyt is), egy vezetői engedélyre, egy, a mozgásában korlátozott személy parkolási igazolványára (a továbbiakban: parkolási igazolvány), egy járműre, egy járműokmányra vonatkozó adat közlése.
 
-8. Csoportos adatszolgáltatás: az adatigénylő által meghatározott szempontok szerint képzett csoportba tartozó nyilvántartási adatok közlése, továbbá azon adatszolgáltatás, amely a kapcsolatfelvételi eljárást kezdeményező kérelem kapcsán, azzal összefüggésben, egyedi járműadatra vonatkozik.
+8. Csoportos adatszolgáltatás: az adatigénylő által, vagy jogszabályban meghatározott szempontok szerint képzett csoportba tartozó nyilvántartási adatok közlése, továbbá azon adatszolgáltatás, amely a kapcsolatfelvételi eljárást kezdeményező kérelem kapcsán, azzal összefüggésben, egyedi járműadatra vonatkozik.
+
+8a. Rendszeres adatszolgáltatás: a nyilvántartási adatoknak az e törvényben, valamint az e törvény végrehajtásához kapcsolódó jogszabályban meghatározottak szerinti rendszeres közlése.
 
 9. Üzembentartó: a jármű tulajdonosa, illetve akit a jármű jogszerű üzemeltetésére szerződés vagy más hitelt érdemlően igazolt jogcím alapján a járműnyilvántartásba bejegyeztek.
 

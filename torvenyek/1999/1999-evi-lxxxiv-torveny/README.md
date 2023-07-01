@@ -71,3 +71,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-84-00-00
 | 2023-03-07 | 2020. évi XLII. törvény | 1999-84-00-00.88 |
 | 2023-06-26 | 2023. évi XL. törvény | 1999-84-00-00.89 |
 | 2023-06-30 | 2023. évi XL. törvény | 1999-84-00-00.90 |
+| 2023-07-01 | 2023. évi XXXVIII. törvény | 1999-84-00-00.93 |

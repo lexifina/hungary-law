@@ -20,7 +20,7 @@ g) a legfőbb ügyész, illetve az igazságügyért felelős miniszter a kegyelm
 
 h) a közterület-felügyelet
 
-ha) közúti közlekedéssel összefüggő feladati ellátása céljából a 8/A. § (1) bekezdés a), d), f)–i) és k) pontjában, a 9. § (1) bekezdés a), b) pontjában, d) pont da), db) alpontjában és e) pontjában, a 9. § (1a) bekezdésében, a 9. § (2) bekezdés a), b), d) és e) pontjában, valamint a 9. § (4) bekezdésében, a 9/D. § (1) bekezdés a)–b) pontjában, d) pont da)–db) alpontjában és e) pontjában, valamint a 9/D. § (2) bekezdés a)–c) pontjában és (3) bekezdésében meghatározott adatokat,
+ha) közúti közlekedéssel összefüggő feladatai ellátása céljából a 8. § (1) bekezdés a) pont aa) alpontjában és b) pont ba) alpontjában, a 8/A. § (1) bekezdés a), d), f)–i) és k) pontjában, a 9. § (1) bekezdés a) és b) pontjában, d) pont da) és db) alpontjában, valamint e) pontjában, a 9. § (1a) bekezdésében, a 9. § (2) bekezdés a), b), d) és e) pontjában, valamint a 9. § (4) bekezdésében, a 9/D. § (1) bekezdés a) és b) pontjában, d) pont da) és db) alpontjában, valamint e) pontjában, továbbá a 9/D. § (2) bekezdés a)–c) pontjában és (3) bekezdésében meghatározott adatokat;
 
 hb) a várakozásidíj-fizetési kötelezettség teljesítésének ellenőrzésére, a várakozási díj és a pótdíj beszedésére a várakozási díj meg nem fizetése esetén a jogszerű parkolás megállapítása érdekében a 8/A. § (1) bekezdés g), h) és k) pontjában, valamint a díj és a pótdíj behajtása érdekében a 9. § (1)–(1a) bekezdésében, (2) bekezdés a), b), d) és e) pontjában, továbbá (3) bekezdésében, a 9/D. § (1) bekezdésében, (2) bekezdés a)–c) pontjában és (3) bekezdésében megjelölt adatokat;
 
@@ -36,7 +36,7 @@ m) az Országgyűlési Őrség a személyvédelmi és létesítménybiztosítás
 
 n) a helyi önkormányzat, illetve a várakozásdíj-fizetési kötelezettség teljesítésének ellenőrzésére, a várakozási díj és a pótdíj beszedésére általa megbízott, a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 16/A. §-ában meghatározott szolgáltató a várakozási díj meg nem fizetése esetén a jogszerű parkolás megállapítása érdekében a 8/A. § (1) bekezdés g), h) és k) pontjában, valamint a díj és a pótdíj behajtása, és a várakozási hozzájárulás kiadása iránti kérelem elbírálása érdekében a 9. § (1) és (1a) bekezdésében, a 9. § (2) bekezdés a), b), d) és e) pontjában, a 9/D. § (1) bekezdésében, a 9/D. § (2) bekezdés a)–c) pontjában és a 9/D. § (3) bekezdésében meghatározott adatokat;
 
-o) a Központi Statisztikai Hivatal (a továbbiakban: KSH) törvényben meghatározott feladatai ellátásához szükséges statisztikai adatokat és a 9. § (4) bekezdésében meghatározott adatokat. A KSH az átvett adatokat az statisztikai adatelőállítási folyamatban kezeli. A feladat megszűnésekor, így különösen az egyes adatfelvételek lezárását követően az azokhoz kapcsolódóan átvett adatokat a KSH törli;
+o) a Központi Statisztikai Hivatal (a továbbiakban: KSH) jogszabályban meghatározott feladatai ellátásához szükséges adatokat;
 
 p) az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjfizetés ellenében történő használatának ellenőrzésére, valamint a díjszedésre jogosult szervezetek törvényben meghatározott feladataik ellátásához a 9. § (1) és (1a) bekezdésében, (2) bekezdés a), b), d) és e) pontjában, (3) bekezdésében, a 9/C. §-ban, a 9/D. § (1) bekezdésében, (2) bekezdés a)–c) pontjában és (3) bekezdésében megjelölt adatokat;
 
@@ -55,6 +55,8 @@ v) a hulladékgazdálkodási hatóság az engedély nélküli hulladéklerakáss
 w) a büntetés-végrehajtási intézet a befogadás során az elítélt személyazonosságának ellenőrzése érdekében a 8. § (1) bekezdés a) pont aa)–ad), af) és ag) alpontjában, valamint a b) pont ba) és bb) alpontjában foglalt adatokat;
 
 z) a Családi Csődvédelmi Szolgálat és a családi vagyonfelügyelő a természetes személyek adósságrendezéséről szóló törvény szerinti feladataik ellátásához a járműtulajdonos (üzembentartó) 9. § (1) és (1a) bekezdésében meghatározott adatait és a tulajdonosváltozásra vonatkozó adatokat, és csoportos adatszolgáltatást a természetes személy mint járműtulajdonos járműveire a 9. § (2) bekezdésben felsorolt adatokat.
+
+(1a) A KSH az (1) bekezdés o) pontja szerint átvett adatokat a statisztikai adat-előállítási folyamatban kezeli. A feladat megszűnésekor, így különösen az adatoknak az adatigénylő által meghatározott célra történő és az ahhoz kapcsolódó feldolgozásának, felhasználásának lezárását követően a KSH az adatokat törli.
 
 (2) A nyilvántartásból adatot igényelhetnek:
 
