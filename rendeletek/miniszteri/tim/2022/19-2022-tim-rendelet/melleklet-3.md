@@ -1,3 +1,3 @@
-3. melléklet a 19/2022. (IX. 19.) TIM rendelethez[^32]
+3. melléklet a 19/2022. (IX. 19.) TIM rendelethez
 
-[^32]: A 3. melléklet a 6. § (3) bekezdés alapján 2023. július 1-jén lép hatályba.
+A használati díj megfizetése ellenében használható autópályákról, autóutakról, főutakról és azok díjáról szóló 45/2020. (XI. 28.) ITM rendelet 2. melléklet címében az „ára” szövegrész helyébe az „árának alapja” szöveg lép.

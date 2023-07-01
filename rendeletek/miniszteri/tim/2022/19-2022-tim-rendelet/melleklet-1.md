@@ -1,5 +1,5 @@
 ## való megfelelést szolgálja.
 
-1. melléklet a 19/2022. (IX. 19.) TIM rendelethez[^30]
+1. melléklet a 19/2022. (IX. 19.) TIM rendelethez[^21]
 
-[^30]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
