@@ -1,5 +1,3 @@
-## hivatásos állományának tagja részére megállapítható egészségkárosodási ellátásra terjed ki.
-
 ## 2. § E rendelet alkalmazásában
 
 1. álláshely: szolgálati beosztás vagy nem hivatásos munkakör,

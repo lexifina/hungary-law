@@ -20,4 +20,6 @@ h) a Terrorelhárítási Információs és Bűnügyi Elemző Központ
 
 i)[^1] az idegenrendészeti szerv
 
+hivatásos állományának tagja részére megállapítható egészségkárosodási ellátásra terjed ki.
+
 [^1]: Az 1. § i) pontját a 2/2021. (I. 14.) BM rendelet 31. §-a iktatta be.

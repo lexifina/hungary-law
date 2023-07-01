@@ -10,7 +10,7 @@ a) keresést végez a rendelkezésére álló nyilvántartásokban a hivatásos 
 
 b) a rendvédelmi szerv más szervezeti egységeinél működő humánigazgatási szakszolgálatokat keres meg a hivatásos állomány tagja egészségi állapotának megfelelő betöltetlen álláshelyek
 
-## azonosítása érdekében.
+azonosítása érdekében.
 
 (5) A központi humánigazgatási szakszolgálat a (4) bekezdés szerinti vizsgálat során elsősorban a Hszt. 82/B. § (2) bekezdésében meghatározott távolságon belüli szolgálatteljesítési helyekkel rendelkező szervezeti egységek humánigazgatási szakszolgálatát keresi meg.
 

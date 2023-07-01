@@ -7,3 +7,5 @@
 a) a rendvédelmi egészségkárosodási keresetkiegészítésre jogosult a rendvédelmi szervnek az őt továbbfoglalkoztató szervezeti egységénél működő,
 
 b) a rendvédelmi egészségkárosodási járadékra jogosult a rendvédelmi szervnek a szolgálati viszonya megszűnését megelőzően őt foglalkoztató szervezeti egységénél működő
+
+humánigazgatási szakszolgálat útján is teljesítheti, amely a hozzá benyújtott iratokat haladéktalanul köteles a központi humánigazgatási szakszolgálathoz továbbítani.
