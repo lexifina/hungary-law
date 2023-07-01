@@ -1,3 +1,3 @@
-1. § A honvédelmi ágazat katasztrófák elleni védekezésének irányításáról és feladatairól szóló 26/2021. (XII. 17.) HM rendelet (a továbbiakban: Rendelet) 5. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-(A HKR-nek az MH-ban működő elemei)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
