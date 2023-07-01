@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-59-00-00
 | 2020-06-18 | Nemzeti Jogszabálytár (egységes szerkezet) | 2020-59-00-00.1 |
 | 2020-06-19 | 2010. évi CXXX. törvény | 2020-59-00-00.2 |
 | 2023-01-01 | 2022. évi XXII. törvény | 2020-59-00-00.3 |
+| 2023-07-01 | 2023. évi XLV. törvény | 2020-59-00-00.4 |

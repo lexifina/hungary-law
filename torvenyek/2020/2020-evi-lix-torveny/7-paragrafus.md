@@ -14,12 +14,12 @@ rendeletben állapítsa meg.
 
 a) – az (1) bekezdés c) pontja szerinti felhatalmazás alapján kiadott jogszabályban szabályozottak kivételével – a különleges gazdasági övezetre vonatkozó 4. § (1) bekezdése szerinti szabályokat;
 
-b) a hulladékgazdálkodási közszolgáltatás ellátásának és igénybevételének szabályait, illetve a Ht. 35. §-ában foglalt rendelkezések érvényesítéséhez szükséges szabályokat;
+b) a hulladékról szóló törvény alapján önkormányzati rendeletalkotási körbe tartozó szabályokat;
 
-c) az elkülönített hulladékgyűjtésre vonatkozó részletes szabályokat;
+c)
 
-d) a közterület tisztán tartására vonatkozó részletes szabályokat;
+d)
 
-e) a hulladékgazdálkodási közszolgáltatási díjra vonatkozó, a Ht. 88. § (3) bekezdés b) pont bb) alpontja szerinti miniszteri rendeletben nem szabályozott díjalkalmazási és díjfizetési feltételeket
+e)
 
 rendeletben határozza meg.
