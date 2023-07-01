@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-68-00-00
 | 2022-01-02 | 2010. évi CXXX. törvény | 2021-68-00-00.8 |
 | 2023-01-01 | 2022. évi XXIV. törvény | 2021-68-00-00.9 |
 | 2023-01-02 | 2010. évi CXXX. törvény | 2021-68-00-00.10 |
+| 2023-07-01 | 2022. évi LXXVI. törvény | 2021-68-00-00.11 |
