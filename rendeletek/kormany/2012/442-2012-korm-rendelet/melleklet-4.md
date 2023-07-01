@@ -1,6 +1,6 @@
-4. melléklet a 442/2012. (XII. 29.) Korm. rendelethez[^64]
+4. melléklet a 442/2012. (XII. 29.) Korm. rendelethez[^63]
 
-## A célértéknek való megfelelés számítási szabályai
+A célértéknek való megfelelés számítási szabályai
 
 1. A tárgyévben országosan képződött és újrafeldolgozott csomagolási hulladék mennyiségét az adatszolgáltatás alapján gyűjtött adatokból ki kell számítani oly módon, hogy az országosan képződött csomagolási hulladékot egyenlőnek lehet tekinteni a tárgyévben országosan forgalomba hozott csomagolás mennyiségével. Az újrafeldolgozott csomagolási hulladékként azon hulladékká vált csomagolásmennyiséget lehet elszámolni, amely – miután átesett valamennyi szükséges ellenőrzésen, válogatáson és egyéb, az újrafeldolgozásra nem szánt hulladék eltávolítására és a minőségi újrafeldolgozás biztosítására irányuló előzetes műveleten – bekerül az újrafeldolgozási műveletbe, amely során a hulladékot ténylegesen termékké vagy más, hulladéknak nem minősülő anyaggá alakítják át.
 
@@ -30,4 +30,4 @@ le kell vonni.
 
 11. A 9. § (2a) bekezdésében meghatározott célértékek elérésének kiszámítása során a tárgyévben országosan képződő hulladékká vált csomagolás teljes tömegére vonatkozó újrafeldolgozási célértékekbe, továbbá a fa anyagáramra előírt célértékbe az újrahasználat céljából megjavított facsomagolás mennyisége beszámítható.
 
-[^64]: A 4. mellékletet újonnan a 158/2021. (III. 31.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^63]: A 4. mellékletet újonnan a 158/2021. (III. 31.) Korm. rendelet 6. § (2) bekezdése iktatta be.

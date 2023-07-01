@@ -1,5 +1,3 @@
-## Azonosítási rendszer
-
 ## Az azonosítási rendszer az anyag tekintetében rövidítést is használhat. Az anyagokat számozási rendszerrel, valamint rövidítéssel lehet azonosítani. Az azonosító jelet a csomagolás újrahasználható vagy hasznosítható jellegére utaló grafikus jel alá kell besorolni.
 
 | Műanyag |
@@ -102,9 +100,9 @@
 
 ## * Társított anyagok (kompozitok) esetében a következő jelölést kell alkalmazni: C/a jellemző anyag megnevezésének rövidítése.
 
-3. melléklet a 442/2012. (XII. 29.) Korm. rendelethez[^63]
+3. melléklet a 442/2012. (XII. 29.) Korm. rendelethez[^62]
 
-## A csomagolás összetételére, újrahasználhatóságra, továbbá a csomagolási hulladék hasznosíthatóságra vonatkozó lényegi követelmények
+A csomagolás összetételére, újrahasználhatóságra, továbbá a csomagolási hulladék hasznosíthatóságra vonatkozó lényegi követelmények
 
 1. A csomagolás előállítására és összetételére vonatkozó követelmények:
 
@@ -200,4 +198,4 @@ g) ha szükséges, az adatminőség javítására irányuló intézkedések megh
 
 9/B. § A 9. § (2a) bekezdésében meghatározott célérték elérésének számítását – a 2005/270/EK bizottsági határozat előírásainak megfelelően – a 4. melléklet szerint kell végezni.
 
-[^63]: A 3. melléklet a 158/2021. (III. 31.) Korm. rendelet 6. § (1) bekezdése szerint módosított szöveg.
+[^62]: A 3. melléklet a 158/2021. (III. 31.) Korm. rendelet 6. § (1) bekezdése szerint módosított szöveg.

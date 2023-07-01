@@ -12,10 +12,9 @@ kell lennie.
 
 (3) A gyártó a 3. § (3) bekezdés szerinti megjavított vagy újrafeldolgozott, a 3. § (1) bekezdésben meghatározott határértéket meghaladó mértékű nehézfémet tartalmazó műanyag rekeszt, raklapot jól látható, olvasható módon a nehézfémtartalomra utaló azonosító jelöléssel úgy látja el, hogy a jelölés tartós és sérthetetlen legyen.
 
-(4) A gyártó, a csomagolószer forgalmazója biztosítja, hogy a (3) bekezdés szerinti azonosító jelöléssel ellátott
+(4)[^18] A gyártó, a csomagolószer forgalmazója biztosítja, hogy a (3) bekezdés szerinti azonosító jelöléssel ellátott műanyag rekeszek és raklapok olyan elosztó, visszavételi, újrahasználati rendszerbe kerüljenek, amelyben a visszavett vagy újrafeldolgozott műanyag rekeszeknek és raklapoknak a hasznos élettartama a lehető leghosszabb, és a termelési-fogyasztási láncban maradásuk feltételei legalább 90%-os arányban biztosítottak.
 
-a) műanyag rekeszek és raklapok olyan elosztó, visszavételi, újrahasználati, továbbá
+(5)[^19] Egyéni teljesítés esetén a gyártó, kollektív teljesítés esetén a koncessziós társaság biztosítja, hogy a (3) bekezdés szerinti azonosító jelöléssel ellátott csomagolási hulladékká vált műanyag rekeszek és raklapok olyan hasznosító rendszerbe kerüljenek, amelyben a termelési-fogyasztási láncban maradásuk feltételei legalább 90%-os arányban biztosítottak.
 
-b) a csomagolási hulladékká vált műanyag rekeszek és raklapok olyan hasznosító
-
-rendszerbe kerüljenek, amelyben a visszavett vagy újrafeldolgozott műanyag rekeszeknek és raklapoknak a hasznos élettartama a lehető leghosszabb, és a termelési-fogyasztási láncban maradásuk feltételei legalább 90%-os arányban biztosítottak.
+[^18]: A 4. § (4) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^19]: A 4. § (5) bekezdését a 276/2023. (VI. 29.) Korm. rendelet 6. § (2) bekezdése iktatta be.
