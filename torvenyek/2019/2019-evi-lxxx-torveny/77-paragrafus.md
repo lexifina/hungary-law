@@ -8,4 +8,6 @@ b) a szakképzési munkaszerződés hatálya alatt teljesítendő oktatásból �
 
 áll.
 
-(2) Az őszi, a téli és a tavaszi szünet ideje alatt – a tanítási évben teljesítendő szakirányú oktatás igazolatlan mulasztásának pótlása, illetve szakképzési munkaszerződés keretében folytatott szakirányú oktatás kivételével – szakirányú oktatás nem szervezhető.
+(1a) Szakirányú oktatás tanulói jogviszonyban – a kizárólag szakmai vizsgára felkészítő szakmai oktatás kivételével – a tanítási év első napjától szervezhető.
+
+(2) Az őszi, a téli és a tavaszi szünet ideje alatt – a szakképzési munkaszerződés keretében folytatott szakirányú oktatás kivételével – szakirányú oktatás nem szervezhető.

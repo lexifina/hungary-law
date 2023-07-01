@@ -1,6 +1,6 @@
 ### 86. § [A tanuló, illetve a képzésben részt vevő személy és a duális képzőhely kártérítési felelőssége]
 
-A tanuló, illetve a képzésben részt vevő személy és a duális képzőhely kártérítési felelősségére a 66. §-t és a 67. § (1) bekezdését kell alkalmazni azzal, hogy
+A tanuló, illetve a képzésben részt vevő személy kártérítési felelősségére az Mt. XIV. Fejezetét, a duális képzőhely kártérítési felelősségére az Mt. XIII. Fejezetét kell alkalmazni azzal, hogy
 
 a) a tanuló, illetve a képzésben részt vevő személy részére a duális képzőhelynek – a tanuló, illetve a képzésben részt vevő személy által okozott, de a tanuló, illetve a képzésben részt vevő személy által meg nem térített károk fedezetére – felelősségbiztosítással kell rendelkeznie,
 

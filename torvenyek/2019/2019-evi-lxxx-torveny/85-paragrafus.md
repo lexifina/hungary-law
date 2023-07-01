@@ -1,4 +1,4 @@
-### 85. § [A szakképzési munkaszerződés alapján járó munkabér]
+### 85. § [A szakképzési munkaszerződés alapján járó díjazás]
 
 (1) A tanuló, illetve a képzésben részt vevő személy a szakképzési munkaszerződés alapján végzett munkáért havonta közvetlenül nyújtott pénzbeli juttatásként a Kormány rendeletében meghatározott mértékű munkabérre jogosult. A munkabért a tanuló, illetve a képzésben részt vevő személy fizetési számlájára utólag, a tárgyhót követő hónap tizedik napjáig történő átutalással kell teljesíteni.
 
@@ -6,4 +6,4 @@
 
 (3) A tanulót, illetve a képzésben részt vevő személyt az e § szerinti munkabér és juttatások a szakképzési munkaszerződés hatálybalépésének napjától, teljes hónapra illetik meg. Ha a szakképzési munkaszerződés a tanév megkezdése után, hónap közben jön létre vagy szűnik meg, a tanulót, illetve a képzésben részt vevő személyt az e § szerinti munkabér és juttatások időarányos része illeti meg.
 
-(4) A tanuló, illetve a képzésben részt vevő személy a szakképzési munkaszerződés időtartama alatt a társadalombiztosítás ellátásaira való jogosultság szempontjából munkaviszonyban foglalkoztatott biztosítottnak minősül, a munkaviszony időtartama nyugellátásra jogosító szolgálati időnek, munkabére nyugdíjalapot képező jövedelemnek számít.
+(4)

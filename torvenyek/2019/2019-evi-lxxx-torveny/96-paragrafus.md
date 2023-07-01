@@ -6,7 +6,7 @@ a) irányítja az általa alapított szakképzési centrumot és az állam nevé
 
 b) ellátja a foglalkoztatási programokkal kapcsolatos elkülönített állami pénzalap (a továbbiakban: Alap) képzési alaprésze felhasználásával kapcsolatos feladatokat,
 
-c) kiadja a képzési és kimeneti követelményeket és a programtantervet a Kormány adott ágazatért felelős tagjának egyetértésével,
+c) kiadja a képzési és kimeneti követelményeket a Kormány adott ágazatért felelős tagjának egyetértésével,
 
 d)
 

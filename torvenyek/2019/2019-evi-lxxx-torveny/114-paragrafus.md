@@ -54,7 +54,9 @@ ck) a tankönyvellátással kapcsolatos adatokat,
 
 cl) az évfolyamismétlésre vonatkozó adatokat,
 
-d) a felnőttképzési jogviszonnyal kapcsolatos adatok keretében a c) pont cb)–cf) és ci)–ck) alpontjában meghatározott adatokat,
+cm) a sajátos nevelési igényre, a fogyatékosságra, a beilleszkedési, tanulási vagy magatartási nehézségre, a hátrányos helyzetre és a halmozottan hátrányos helyzetre vonatkozó adatokat,
+
+d) a felnőttképzési jogviszonnyal kapcsolatos adatok keretében a c) pont cb)–cg), ch)–ck) és cm) alpontjában meghatározott adatokat,
 
 e) jogszabályban biztosított kedvezményekre való igényjogosultság elbírálásához és igazolásához szükséges olyan adatokat, amelyekből megállapítható a jogosult személye és a kedvezményre való jogosultsága.
 

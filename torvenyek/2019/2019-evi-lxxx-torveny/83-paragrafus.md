@@ -8,7 +8,7 @@
 
 a) a szakirányú oktatás időtartamára vagy
 
-b) évente egy alkalommal, legalább négy és legfeljebb tizenkettő hét egybefüggő időszakra.
+b) évente legfeljebb két alkalommal, egyenként legalább kettő és legfeljebb tizenkettő hét, de éves szinten összesen legfeljebb tizenkettő hét határozott időtartamra.
 
 (3) A tanuló, illetve a képzésben részt vevő személy egyidejűleg csak egy szakképzési munkaszerződéssel rendelkezhet.
 
@@ -20,8 +20,8 @@ a) munkáltató alatt a duális képzőhelyet, munkavállaló alatt a tanulót, 
 
 b) szakképzési munkaszerződés alanya munkavállalóként a tizenötödik életévét betöltött tanuló is lehet,
 
-c) ha a duális képzőhely a tanuló, illetve a képzésben részt vevő személy szakirányú oktatásához közreműködőt vesz igénybe, a munkáltatónál történő foglalkoztatás nem minősül munkaerő-kölcsönzésnek, arra a munkaszerződéstől eltérő foglalkoztatás Mt.-ben meghatározott szabályait kell alkalmazni.
+c) ha a duális képzőhely a tanuló, illetve a képzésben részt vevő személy szakirányú oktatásához közreműködőt vesz igénybe, tekintet nélkül arra, hogy az duális képzőhelynek minősül-e, az igénybe vett közreműködő magatartásáért úgy felel, mintha maga járt volna el, és a munkáltatónál történő foglalkoztatás nem minősül munkaerő-kölcsönzésnek, arra a munkaszerződéstől eltérő foglalkoztatás Mt.-ben meghatározott szabályait kell alkalmazni azzal, hogy annak tartama a szakképzési munkaszerződés alapján létrejött munkaviszony időtartamának negyvenkilenc százalékáig terjedhet.
 
-(6) A szakképzési munkaszerződés alapján foglalkoztatott tanuló, illetve képzésben részt vevő személy esetében az Mt. 56. §-a, 193–213. §-a, 214–222. §-a és 228–229. §-a nem alkalmazható, az Mt. 277. § (2) bekezdését és 279. § (3) bekezdését pedig azzal az eltéréssel kell alkalmazni, hogy a tanulóra, illetve a képzésben részt vevő személyre a munkáltatónál érvényben lévő kollektív szerződésnek csak az Mt.-ben, e törvényben és e törvények végrehajtási rendeleteiben foglaltaknál kedvezőbb feltételeket meghatározó rendelkezéseinek a hatálya terjedhet ki. Ezt a rendelkezést kell alkalmazni a munkáltatónál az Mt. 268. §-a szerint érvényben lévő üzemi megállapodásra is. Az Mt. 276. § (2) bekezdés szerinti létszám számításánál a tanuló, illetve a képzésben részt vevő személy nem vehető figyelembe. A tanuló, illetve a képzésben részt vevő személy az üzemi tanács tagjává nem választható, és az üzemi tanács választásán szavazati joggal nem rendelkezik.
+(6) A szakképzési munkaszerződés alapján foglalkoztatott tanuló, illetve képzésben részt vevő személy esetében az Mt. 56. §-a, 114. § (2) és (3) bekezdése, 119. § (1) bekezdése, 193–213. §-a, 214–222. §-a és 228–229. §-a nem alkalmazható, az Mt. 277. § (2) bekezdését és 279. § (3) bekezdését pedig azzal az eltéréssel kell alkalmazni, hogy a tanulóra, illetve a képzésben részt vevő személyre a munkáltatónál érvényben lévő kollektív szerződésnek csak az Mt.-ben, e törvényben és e törvények végrehajtási rendeleteiben foglaltaknál kedvezőbb feltételeket meghatározó rendelkezéseinek a hatálya terjedhet ki. Ezt a rendelkezést kell alkalmazni a munkáltatónál az Mt. 268. §-a szerint érvényben lévő üzemi megállapodásra is. Az Mt. 276. § (2) bekezdése szerinti létszám számításánál a tanuló, illetve a képzésben részt vevő személy nem vehető figyelembe. A tanuló, illetve a képzésben részt vevő személy az üzemi tanács tagjává nem választható, és az üzemi tanács választásán szavazati joggal nem rendelkezik.
 
-(7) Ha a szakképzési munkaszerződés megkötésére más munkáltatóval fennálló, foglalkoztatásra irányuló jogviszony mellett kerül sor, a tanuló, illetve a képzésben részt vevő személy tekintetében a 77. § (2) bekezdése nem alkalmazható, a 84. § (4) bekezdését és a 85. § (1) és (2) bekezdését pedig a szakképzési munkaszerződés alapján létrejövő munkaviszony időtartamával arányosan kell alkalmazni.
+(7)

@@ -1,6 +1,6 @@
 ### 59. § [A tanuló juttatásai és az őt megillető további kedvezmények]
 
-(1) A tanuló a Kormány rendeletében meghatározottak szerint ahhoz a szakképző intézményben szervezett szakmai oktatáshoz kapcsolódóan, amelyben ingyenesen vesz részt
+(1) A tanuló – a Kormány e törvény végrehajtására kiadott rendeletében meghatározottak szerint – ahhoz a szakmai oktatáshoz kapcsolódóan, amelyben ingyenesen vesz részt
 
 a) az első szakma megszerzésével összefüggésben
 

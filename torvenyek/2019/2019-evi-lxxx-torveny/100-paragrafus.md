@@ -14,7 +14,7 @@ cb) vezeti a duális képzőhelyek nyilvántartását,
 
 cc) elősegíti a szakképzési munkaszerződések megkötését, ennek érdekében ösztönzi a gazdálkodó szervezeteket a szakképzésben való részvételre,
 
-cd) minősíti és ellenőrzi a duális képzőhelyek szakirányú oktatási tevékenységét,
+cd) ellenőrzi a duális képzőhely és az általa igénybe vett közreműködő szakirányú oktatási tevékenységét,
 
 d) – a Kormány e törvény végrehajtására kiadott rendeletében meghatározott eltéréssel – a szakmai vizsga helyszíne szerint illetékes területi gazdasági kamara útján delegálja az ágazati alapvizsga elnökét és a szakmai vizsga vizsgabizottság ellenőrzési feladatokat ellátó tagját,
 

@@ -1,4 +1,4 @@
-### 23. § [A szakképző intézmény fenntartói irányítási hatáskörének átadása, megszüntetése és átszervezése]
+### 23. § [A szakképző intézmény fenntartói irányítási hatáskörének átadása, átalakítása és megszüntetése]
 
 Az alapító az intézkedés tervezett végrehajtása éve májusának utolsó munkanapjáig hozhat döntést
 
@@ -8,8 +8,8 @@ b) a szakképző intézmény megszüntetéséről,
 
 c) a szakképző intézmény átalakításáról, amely történhet:
 
-ca) egyesüléssel, amely lehet összeolvadás vagy beolvadás,
+ca) egyesítéssel, amely lehet összeolvadás vagy beolvadás,
 
 cb) szétválással, amely lehet különválás vagy kiválás,
 
-d) a szakképző intézmény átszervezéséről.
+d)

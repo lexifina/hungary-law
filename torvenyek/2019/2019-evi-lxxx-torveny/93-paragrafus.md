@@ -14,7 +14,7 @@ c) vezeti a szakmai vizsgával kapcsolatos nyilvántartásokat és
 
 d) ellátja a Kormány rendeletében a szakmai vizsgával összefüggésben meghatározott feladatokat.
 
-(3) A szakmai vizsgát az akkreditált vizsgaközpont háromtagú vizsgabizottsága előtt kell letenni. A szakmai vizsga központi vizsgatevékenységének tartalmát a szakképzésért felelős miniszter a Kormány adott ágazatért felelős tagjának egyetértésével határozza meg.
+(3) A szakmai vizsgát az akkreditált vizsgaközpont háromtagú vizsgabizottsága előtt kell letenni. A szakmai vizsga központi vizsgatevékenységének tartalmát a szakképzésért felelős miniszter határozza meg.
 
 (4) A szakmai vizsgát a Kormány rendeletében meghatározott rend szerint kell lebonyolítani.
 

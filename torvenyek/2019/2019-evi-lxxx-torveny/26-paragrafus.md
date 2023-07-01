@@ -8,7 +8,7 @@
 
 (4) A főigazgató felel a szakképzési centrum részeként működő szakképző intézmények szakképzési alapfeladatainak ellátásáért.
 
-(5) A kancellár felel a szakképzési centrum törvényes és szakszerű működéséért. A kancellár jogosult a gazdasági vezető megbízására és a megbízás visszavonására.
+(5) A kancellár felel a szakképzési centrum törvényes és szakszerű működéséért. A gazdasági vezető megbízására és a megbízás visszavonására a kancellár a szakképzési intézményfenntartó központ vezetőjének egyetértésével jogosult.
 
 (6) A szakképzési centrum vezető állású munkavállalója a szakképzési centrummal munkaviszonyban, más foglalkoztatottja a szakképzési centrummal munkaviszonyban vagy megbízási jogviszonyban áll.
 

@@ -1,6 +1,6 @@
 ### 35. § [A foglalkozások]
 
-(1) A szakképző intézményben a szakmai oktatást – ha e törvény másképp nem rendelkezik – azokon az évfolyamokon, amelyeken közismereti oktatás is folyik, a nappali rendszer szerint az egyéni és csoportos foglalkozások keretében kell megszervezni. A foglalkozás lehet
+(1) A szakképző intézményben a szakmai oktatást egyéni és csoportos foglalkozások keretében kell megszervezni. A foglalkozás lehet
 
 a) kötelező és szabadon választható foglalkozás, illetve
 

@@ -16,7 +16,7 @@
 
 6. az oktatói testület képviseletében eljáró oktató kiválasztásáról,
 
-7. a tanulók magasabb évfolyamba lépésének megállapításáról, a tanulók osztályozóvizsgára bocsátásáról,
+7. a tanulók magasabb évfolyamba lépésének megállapításáról, a tanulók osztályozóvizsgára bocsátásáról, valamint a képzésben részt vevő személyek szakmai vizsgára, illetve képesítő vizsgára bocsáthatóságáról,
 
 8. a tanulók, illetve a képzésben részt vevő személyek fegyelmi ügyeiben,
 

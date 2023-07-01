@@ -12,6 +12,8 @@ E törvény alkalmazásában
 
 3. feladatellátási hely: az a cím, ahol a szakképző intézmény alapító okiratában meghatározott szakképzési alapfeladat ellátása történik,
 
+3a. nagyvállalkozás: a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény (a továbbiakban: Kkvtv.) 4. § (2) bekezdése szerinti partnervállalkozások és a Kkvtv. 4. § (5) bekezdésének figyelmen kívül hagyásával kis- és középvállalkozásnak nem minősülő vállalkozás,
+
 4. pályaalkalmassági követelmény: a szakképzésbe történő bekapcsolódás – képzési és kimeneti követelményekben meghatározott – azon feltétele, amely alapján megállapítható, hogy a szakképzésben részt venni szándékozó személy képességei, készségei alapján sikeresen fel tud készülni a szakmai vizsgára és a szakma végzésére,
 
 5. sajátos nevelési igényű vagy fogyatékkal élő személy: az a tanuló, illetve képzésben részt vevő személy, aki az Nkt. szerinti szakértői bizottság vagy a rehabilitációs hatóság szakvéleménye alapján mozgásszervi, érzékszervi – látási, hallási –, értelmi vagy beszédfogyatékos, több fogyatékosság együttes előfordulása esetén halmozottan fogyatékos, autizmus spektrumzavarral vagy egyéb pszichés fejlődési zavarral – súlyos tanulási, figyelem- vagy magatartás-szabályozási zavarral – küzd,
@@ -26,7 +28,7 @@ E törvény alkalmazásában
 
 8. tanítási nap: az olyan nap, amelyen a foglalkozások száma eléri a hármat,
 
-9. tanulóbaleset: minden olyan baleset, amely a tanulót, illetve a képzésben részt vevő személyt az alatt az idő alatt vagy tevékenység során éri, amikor a szakképző intézmény vagy a duális képzőhely felügyelete alatt áll, ideértve a szakképző intézményen kívüli szakirányú oktatás során bekövetkezett balesetet is,
+9. tanulóbaleset: minden olyan baleset, amely a tanulót, illetve a képzésben részt vevő személyt az alatt az idő alatt vagy tevékenység során éri, amikor a szakképző intézmény felügyelete alatt áll,
 
 10. telephely: a szakképző intézmény alapító okiratában meghatározott, a szakképző intézmény szakképzési alapfeladatának ellátását szolgáló olyan feladatellátási hely, amely a szakképző intézmény székhelyén kívül található,
 

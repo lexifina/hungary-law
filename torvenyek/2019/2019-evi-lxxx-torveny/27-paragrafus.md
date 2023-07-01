@@ -12,6 +12,6 @@ alapíthat és gyakorolhatja a fenntartót megillető jogokat. Az a) pont szerin
 
 (2) A Kormány rendeletben az állami szakképző intézmény állam nevében történő alapítására és a fenntartói irányítási hatáskörök gyakorlására az (1) bekezdésben meghatározott miniszter mellett más tagját is kijelölheti. A Kormány rendeletben a szakképzésért felelős miniszter mellett más tagja által alapított szakképző intézmény szakképzési centrum részeként történő működését írhatja elő.
 
-(3) Állami felsőoktatási intézmény szakképző intézmény fenntartói irányítási hatásköreit a szakképzésért felelős miniszter hozzájárulásával, nem állami felsőoktatási intézmény a nemzeti felsőoktatásról szóló törvény (a továbbiakban: Nftv.) 84. § (3) bekezdése szerinti megállapodás vagy a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény 20. §-a szerinti közfeladat-finanszírozási szerződés ilyen rendelkezése esetén gyakorolhatja.
+(3) Állami felsőoktatási intézmény szakképző intézmény fenntartói irányítási hatásköreit alapító okirata alapján, a közfeladatot ellátó közérdekű vagyonkezelő alapítvány által fenntartott felsőoktatási intézmény alapító okirata alapján, más nem állami felsőoktatási intézmény a nemzeti felsőoktatásról szóló törvény (a továbbiakban: Nftv.) 84. § (3) bekezdése szerinti megállapodás ilyen rendelkezése esetén gyakorolhatja.
 
 (4)

@@ -1,6 +1,6 @@
-### 78. § [A szakirányú oktatás időtartama]
+### 78. § [A szakirányú oktatási idő]
 
-(1) A szakirányú oktatás időtartama a napi nyolc órát, ha a tanuló, illetve a képzésben részt vevő személy fiatal munkavállaló, a napi hét órát nem haladhatja meg. A tanuló, illetve a képzésben részt vevő személy a napi szakirányú oktatási időt meghaladó szakirányú oktatásban nem vehet részt.
+(1) A szakirányú oktatás a napi nyolc órát, ha a tanuló, illetve a képzésben részt vevő személy fiatal munkavállaló, a napi hét órát nem haladhatja meg. A tanuló, illetve a képzésben részt vevő személy a napi szakirányú oktatási időt meghaladó szakirányú oktatásban nem vehet részt.
 
 (2) A napi szakirányú oktatást hat és huszonkét óra között kell megszervezni. A szakirányú oktatás befejezése és a következő napi szakirányú oktatás vagy közismereti oktatás megkezdése között legalább tizenhat óra folyamatos pihenőidőt kell biztosítani.
 

@@ -28,23 +28,23 @@ d) a tanuló juttatásaira.
 
 (5) A 2020. május 31-ét megelőzően létesített tanulói jogviszony keretében a szakmai vizsgát az e törvényben meghatározott rend szerint kell megszervezni és a tanulóra irányadó szakmai és vizsgakövetelmény szerinti tartalommal kell teljesíteni oly módon, hogy a szóbeli és a gyakorlati vizsgatevékenységet együttesen a projektfeladat keretében, az írásbeli vizsgatevékenységet az interaktív vizsgatevékenység keretében a szakképzésért felelős miniszter által a Kormány adott ágazatért felelős tagjának egyetértésével kiadott központi írásbeli vizsgatétel alapján kell lebonyolítani.
 
-(6) 2020. szeptember 1-jét követően a régi Szkt. szerinti gyakorlati képzés folytatására a szakképző intézmény és a duális képzőhely jogosult. A gazdasági kamara 2022. augusztus 31-éig hivatalból felülvizsgálja a régi Szkt. szerinti gyakorlati képzés folytatására jogosult szervezetek közhiteles hatósági nyilvántartását és azt, aki a duális képzőhelyre e törvényben meghatározott szabályoknak megfelel, a duális képzőhelyek nyilvántartásába felveszi. Aki e törvény hatálybalépésekor a régi Szkt. szerinti gyakorlati képzést folytató szervezetként a gazdasági kamara ilyen nyilvántartásában szerepel, az e bekezdésben határozott határnapig duális képzőhelyként – nyilvántartásba vétel nélkül is – részt vehet a szakirányú oktatásban.
+(6)
 
 (7)
 
 (8) Ágazati alapoktatást és ágazati alapvizsgát a 2020/2021. tanévtől a változással érintett legalacsonyabb évfolyamon kezdve felmenő rendszerben kell megszervezni.
 
-(9) A szakmai vizsgát 2025. december 31-éig az állam, illetve az együttműködési megállapodással rendelkező fenntartó által fenntartott szakképző intézményben az e törvényben meghatározott feltételekkel kell megszervezni azzal, hogy akkreditált vizsgaközpont alatt az ilyen szakképző intézményt kell érteni. 2026. január 1-jétől az ilyen szakképző intézmény akkor szervezhet szakmai vizsgát, ha rendelkezik a nemzeti akkreditálásról szóló törvény szerinti akkreditáló szerv által az adott szakmához tartozó képzési területre vonatkozó személytanúsításra kiadott akkreditált státusszal. A 2025. december 31-éig az ilyen szakképző intézményben szervezett szakmai vizsga lefolytatásával kapcsolatos jogszabálysértés megállapítására és jogkövetkezményeinek alkalmazására a régi Szkt. e törvény hatálybalépését megelőző napon hatályos 17. §-át kell alkalmazni azzal, hogy a hivatal helyett a szakképzésért felelős miniszter jár el.
+(9) A szakképző intézmény, illetve a szakképzési alapfeladatot ellátó többcélú köznevelési intézmény által szervezett szakmai oktatáshoz kapcsolódó szakmai vizsga, továbbá az (1) bekezdés szerint kifutó jelleggel szervezett nevelés-oktatáshoz kapcsolódó szintvizsga és érettségi vizsga az e törvényben és a Kormány e törvény végrehajtására kiadott rendeletében meghatározott feltételekkel 2025. december 31-éig
 
-(9a) A szakképzésről szóló törvény végrehajtásáról szóló 12/2020. (II. 7.) Korm. rendelet 1. melléklet 127. pontja szerinti 4 0811 17 04 azonosító számú gazda szakmához tartozó aranykalászos gazda részszakma képzéshez kapcsolódó szakmai vizsgát felnőttképzési tevékenység folytatására engedéllyel rendelkező felnőttképző is szervezhet.
+a) az állam által fenntartott szakképző intézményben, illetve szakképzési alapfeladatot ellátó többcélú köznevelési intézményben, valamint
 
-(10) Ha valamely szakma vagy szakképesítés tekintetében nincs
+b) az együttműködési megállapodással rendelkező fenntartó által fenntartott szakképző intézményben és szakképzési alapfeladatot ellátó többcélú köznevelési intézményben az együttműködési megállapodásban meghatározott ágazatban
 
-a) olyan akkreditált vizsgaközpont, amely az adott szakma vagy szakképesítés képzési területére akkreditált vizsgahelyszínnel rendelkezik a szakmai oktatás, illetve a szakmai képzés helyszíne szerinti vagy azzal közvetlenül szomszédos vármegyében vagy
+is megszervezhető azzal, hogy akkreditált vizsgaközpont alatt az ilyen szakképző intézményt, illetve szakképzési alapfeladatot ellátó többcélú köznevelési intézményt kell érteni. 2026. január 1-jétől az ilyen szakképző intézmény akkor szervezhet szakmai vizsgát, ha rendelkezik a nemzeti akkreditálásról szóló törvény szerinti akkreditáló szerv által az adott szakmához tartozó képzési területre vonatkozó személytanúsításra kiadott akkreditált státusszal. A 2025. december 31-éig az ilyen szakképző intézményben szervezett szakmai vizsga lefolytatásával kapcsolatos jogszabálysértés megállapítására és jogkövetkezményeinek alkalmazására a régi Szkt. e törvény hatálybalépését megelőző napon hatályos 17. §-át kell alkalmazni azzal, hogy a hivatal helyett a szakképzésért felelős miniszter jár el.
 
-b) az akkreditált vizsgaközpont által a szakmai oktatás, illetve a szakmai képzés befejezésének időpontját követő harmadik hónap utolsó napjáig meghirdetett szakmai vizsga vagy képesítő vizsga,
+(9a)
 
-a szakmai vizsga és a képesítő vizsga megszervezéséről a szakképzésért felelős miniszter gondoskodik.
+(10)
 
 (11)
 

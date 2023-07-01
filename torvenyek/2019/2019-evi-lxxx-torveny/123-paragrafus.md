@@ -16,17 +16,21 @@
 
 3. kijelölje a Kormánynak az állami szakképző intézmény állam nevében történő fenntartására jogosult tagját és megállapítsa ezek feltételeit.
 
+4. az országos központi akkreditált vizsgaközpontot rendeletben jelölje ki.
+
 (2) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
 1. a szakmajegyzéket,
 
 1a. a szakképzésben való részvétel feltételeit,
 
-2. a képzési és kimeneti követelmények, a programtanterv és a szakmai program meghatározásának szabályait,
+2. a képzési és kimeneti követelmények és a szakmai program meghatározásának szabályait,
 
 3. a szakmai képzés képzési programja meghatározásának szabályait,
 
-4. a szakképző intézmény alapításának, megszüntetésének, átszervezésének és fenntartói irányítási hatásköre átadásának, a nem állami szakképző intézmény működési engedélye kiadásának és a szakképző intézmények nyilvántartásának részletes szabályait, a szakképző intézmény alapító okiratának kötelező tartalmi elemeit, a szakképző intézmények névhasználatának szabályait, valamint a szakképző intézmény belső szabályzatainak kötelező tartalmi elemeit,
+3a. a szakképzésben alkalmazható oklevél- és bizonyítványnyomtatványokkal összefüggésben fizetendő térítési díj mértékét,
+
+4. a szakképző intézmény alapításának, átalakításának, megszüntetésének és fenntartói irányítási hatásköre átadásának, a nem állami szakképző intézmény működési engedélye kiadásának és a szakképző intézmények nyilvántartásának részletes szabályait, a szakképző intézmény alapító okiratának kötelező tartalmi elemeit, a szakképző intézmények névhasználatának szabályait, valamint a szakképző intézmény belső szabályzatainak kötelező tartalmi elemeit,
 
 5. a szakképzés kísérleti jelleggel történő megszervezésének szabályait,
 
@@ -72,7 +76,7 @@
 
 26. a tanuló értékelésének és minősítésének, valamint a tanulmányok alatti vizsga részletes szabályait,
 
-27. a tanuló számára járó ösztöndíj, az egyszeri pályakezdési juttatás és támogatás mértékére, feltételeire, folyósítására és az ezzel összefüggésben felmerült költségek térítésére vonatkozó szabályokat,
+27. a tanuló számára járó ösztöndíj, egyszeri pályakezdési juttatás és támogatás feltételeire, gazdaságfejlesztési célú differenciált megállapítására, mértékére, folyósítására és az ezzel összefüggésben felmerült költségek térítésére vonatkozó szabályokat,
 
 28. a tanuló- és gyermekbalesetek megelőzésével kapcsolatos feladatokat, továbbá a balesetek kivizsgálásával, nyilvántartásával és jelentésével összefüggő tevékenységet,
 
@@ -124,4 +128,8 @@
 
 48. a külföldi szakképző intézmény Magyarországon történő és a magyar szakképző intézmény külföldön történő működésének és nyilvántartásának részletes szabályait.
 
-(3) Felhatalmazást kap a szakképzésért felelős miniszter, hogy az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben határozza meg a 96. § (2) bekezdése szerinti igazgatási szolgáltatási díj mértékét, beszedésének, kezelésének, nyilvántartásának és felhasználásának szabályait.
+(3) Felhatalmazást kap a szakképzésért felelős miniszter, hogy
+
+a) rendeletben állapítsa meg a tanév és ezen belül a tanítási év időbeli ütemezésének rendjét,
+
+b) az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben határozza meg a 96. § (2) bekezdése szerinti igazgatási szolgáltatási díj mértékét, beszedésének, kezelésének, nyilvántartásának és felhasználásának szabályait.

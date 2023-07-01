@@ -10,7 +10,7 @@ b) szakirányú oktatásban
 
 történik. A szakmai oktatás keretében – ha e törvény vagy a Kormány rendelete eltérően nem rendelkezik – az ágazati alapoktatással és a szakirányú oktatással párhuzamosan vagy attól függetlenül a közismereti kerettanterv szerinti oktatás folyik.
 
-(2) A szakmai vizsgára történő felkészítés a szakképző intézmény feladata, amely a kötelező foglalkozások keretében történik. A szakmai vizsgára történő felkészülést a szakképző intézmény választható foglalkozások biztosításával is segíti. A szakmai vizsgára a képzési és kimeneti követelmények szerinti felkészítésért a szakképzési munkaszerződéssel rendelkező tanuló, illetve képzésben részt vevő személy tekintetében az e törvényben és a Kormány e törvény végrehajtására kiadott rendeletében meghatározott feltételek szerint a duális képzőhely a szakképző intézménnyel közösen felel.
+(2) A szakmai vizsgára történő felkészítés a szakképző intézmény feladata, amely a kötelező foglalkozások keretében történik. A szakmai vizsgára történő felkészülést a szakképző intézmény szabadon választható foglalkozások biztosításával is segíti. A szakmai vizsgára a képzési és kimeneti követelmények szerinti felkészítésért a szakképzési munkaszerződéssel rendelkező tanuló, illetve képzésben részt vevő személy tekintetében az e törvényben és a Kormány e törvény végrehajtására kiadott rendeletében meghatározott feltételek szerint a duális képzőhely a szakképző intézménnyel közösen felel.
 
 (3) A szakképző intézmény a tevékenységét minőségirányítási rendszer alapján végzi.
 
