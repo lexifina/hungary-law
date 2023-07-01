@@ -1,5 +1,3 @@
-## 17. § Az 1. § a)–d) pontja szerinti üzemeltető, illetve engedélyes által foglalkoztatott biztonsági összekötő személynek az Lrtv. Vhr. 6. §-ában foglalt képesítési követelményeken kívül szakirányú műszaki szakon szerzett felsőfokú végzettséggel kell rendelkeznie.
-
 ## 8. Rendkívüli eseményekre vonatkozó részletes ágazati szabályok
 
 18. § (1) Energia ágazatban rendkívüli eseménynek minősül a villamos energia alágazatba tartozó kijelölt létfontosságú rendszerelem esetében
