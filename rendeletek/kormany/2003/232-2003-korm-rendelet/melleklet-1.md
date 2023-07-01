@@ -1,6 +1,6 @@
-1. melléklet a 232/2003. (XII. 16.) Korm. rendelethez[^41]
+1. melléklet a 232/2003. (XII. 16.) Korm. rendelethez[^43]
 
-## Kiajánlott és szerződött segélyhitelek … negyedév végén fennálló állománya
+Kiajánlott és szerződött segélyhitelek … negyedév végén fennálló állománya
 
 1. Kiajánlott, de nem szerződött
 
@@ -56,8 +56,4 @@
 
 | 5. | Mindösszesen (Ft) |  |
 
-Készült: (év, hónap, nap)
-
-(cégszerű aláírás)
-
-[^41]: Az 1. mellékletet a 60/2018. (III. 27.) Korm. rendelet 9. §-a iktatta be.
+[^43]: Az 1. mellékletet a 60/2018. (III. 27.) Korm. rendelet 9. §-a iktatta be.

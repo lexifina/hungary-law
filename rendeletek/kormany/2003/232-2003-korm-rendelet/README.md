@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-232-20-
 | 2018-04-04 | 2003-232-20-22.14 | 60/2018. (III. 27.) Korm. rendelet |
 | 2018-06-12 | 2003-232-20-22.15 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2020-09-29 | 2003-232-20-22.16 | 221/2014. (IX. 4.) Korm. rendelet |
+| 2023-07-01 | 2003-232-20-22.17 | 287/2023. (VI. 30.) Korm. rendelet |

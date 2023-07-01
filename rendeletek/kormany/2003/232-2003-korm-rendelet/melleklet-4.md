@@ -1,5 +1,3 @@
-## Negyedéves előrejelzés az Eximbank Zrt. által folyósított segélyhitelek várható kamattámogatási igényéről és befizetési kötelezettségéről
-
 ## Vonatkozási időszak:
 
 ## Elszámolás időpontja:
@@ -16,6 +14,8 @@
 
 ## (cégszerű aláírás)
 
-4. melléklet a 232/2003. (XII. 16.) Korm. rendelethez[^44]
+4. melléklet a 232/2003. (XII. 16.) Korm. rendelethez[^46]
 
-[^44]: A 4. mellékletet a 60/2018. (III. 27.) Korm. rendelet 9. §-a iktatta be.
+Negyedéves előrejelzés a várható biztosítási díj támogatásának (adományelem) forint összegéről
+
+[^46]: A 4. mellékletet a 60/2018. (III. 27.) Korm. rendelet 9. §-a iktatta be.

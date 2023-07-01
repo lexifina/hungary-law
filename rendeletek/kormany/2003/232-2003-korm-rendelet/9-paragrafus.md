@@ -20,7 +20,7 @@ a) az OECD Megállapodásban rögzített 35%-os, vagy az ENSZ által a világ le
 
 b) az OECD Fenntartható Hitelezés Elveiről Szóló Egyezményben előírt minimumok
 
-## közül a szigorúbb küszöbértéket.
+közül a szigorúbb küszöbértéket.
 
 (5)[^19] A segélyhitelügyletben részt vevőknek írásban nyilatkozniuk kell arról, hogy az OECD „Vesztegetésről és a hivatalosan támogatott exporthitelekről” szóló tanácsi ajánlásában foglaltak értelmében nem vettek részt az ügylettel kapcsolatos vesztegetésben és nincs tudomásuk korrupcióról.
 
