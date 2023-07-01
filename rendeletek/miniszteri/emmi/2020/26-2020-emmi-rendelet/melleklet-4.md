@@ -1,3 +1,3 @@
-4. melléklet a 26/2020. (VIII. 4.) EMMI rendelethez[^18]
+4. melléklet a 26/2020. (VIII. 4.) EMMI rendelethez[^19]
 
-[^18]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

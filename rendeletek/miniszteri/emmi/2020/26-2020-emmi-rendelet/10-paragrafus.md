@@ -2,7 +2,7 @@
 
 10. § (1) Nem lehet a tagozat tagja az a személy, aki
 
-a) az egészségügyben működő szakmai kamara etikai kódexében rögzített etikai vétséget követ el, és azt az arra jogosult szerv jogerősen megállapította, a határozat véglegessé válásától számított 2 évig,
+a)[^11] az egészségügyben működő szakmai kamara és az Egészségügyi Tudományos Tanács etikai kódexében rögzített etikai vétséget követ el, és azt az arra jogosult szerv jogerősen megállapította, a határozat véglegessé válásától számított 2 évig,
 
 b) büntetett előéletű, vagy foglalkozástól eltiltás hatálya alatt áll.
 
@@ -12,7 +12,7 @@ a) az egészségügyi ágazati irányításban, ellenőrzésben vagy finanszíro
 
 b) az elnöki pozíció betöltése esetén a szakfelügyelő főorvosi névjegyzékben szereplés,
 
-c)[^11] az országos, vármegyei kollegiális szakmai vezető,
+c)[^12] az országos, vármegyei kollegiális szakmai vezető,
 
 d) az egészségügyi szakmai köztestület elnöke.
 
@@ -28,7 +28,7 @@ b) egészségügyi szolgáltató vagy egészségügyi szolgáltatót működtet.
 
 (6) Az (5) bekezdés szerinti jogviszony fennállása esetén a tag nem vehet részt olyan ügyre vonatkozó döntés meghozatalában, valamint az azt megelőző eljárásban, amely az ő vagy az őt munkaviszonyban, munkavégzésre irányuló jogviszonyban foglalkoztató gazdasági társaság üzleti érdekeit érinti. Ezt a tényt a jegyzőkönyvben külön rögzíteni kell.
 
-(7)[^12]
+(7)[^13]
 
 (8) A tag tagsága megszűnik
 
@@ -42,5 +42,6 @@ d) a tag halálával.
 
 (9) Ha a tag az adott naptári évben az ülések több, mint felén nem vesz részt, vagy az adatvédelemre vonatkozó szabályokat súlyosan és szándékosan megszegi, a tagság megszüntetését a tagozat elnök kezdeményezi a miniszternél.
 
-[^11]: A 10. § (2) bekezdés c) pontja a 45/2022. (XII. 20.) BM rendelet 89. §-a szerint módosított szöveg.
-[^12]: A 10. § (7) bekezdését a 47/2020. (XII. 22.) EMMI rendelet 8. §-a hatályon kívül helyezte.
+[^11]: A 10. § (1) bekezdés a) pontja a 22/2023. (VI. 30.) BM rendelet 6. §-a szerint módosított szöveg.
+[^12]: A 10. § (2) bekezdés c) pontja a 45/2022. (XII. 20.) BM rendelet 89. §-a szerint módosított szöveg.
+[^13]: A 10. § (7) bekezdését a 47/2020. (XII. 22.) EMMI rendelet 8. §-a hatályon kívül helyezte.
