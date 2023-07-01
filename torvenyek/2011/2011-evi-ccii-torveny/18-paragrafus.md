@@ -1,9 +1,15 @@
-18. § (1) Magyarország állami kitüntetéseit a miniszterelnök előterjesztésére a köztársasági elnök adományozza.
+18. § (1) A Magyar Szent István Rend, a Magyar Becsület Rend, a Magyar Érdemrend és a Magyar Érdemkereszt kitüntetést (a továbbiakban együtt: e törvény szerinti állami kitüntetések) a miniszterelnök előterjesztésére a köztársasági elnök adományozza.
 
-(2) A Magyar Érdemkereszt adományozására a miniszter tesz javaslatot a miniszterelnöknek az előterjesztésre.
+(2) A Magyar Szent István Rend és a Magyar Becsület Rend adományozására a Kormány kitüntetésekkel és egyéb elismerésekkel kapcsolatos feladatok ellátásáért felelős tagja tesz javaslatot a miniszterelnöknek az előterjesztésre.
 
-(3) Külföldi állampolgár esetében a külpolitikáért felelős miniszter tesz javaslatot a miniszterelnöknek az előterjesztésre.
+(3) A Magyar Érdemrend és a Magyar Érdemkereszt adományozására
 
-(4) Magyar állampolgár számára külföldi állami kitüntetés viselését a külpolitikáért felelős miniszter előterjesztése alapján a köztársasági elnök megtilthatja.
+a) – a b) pontban foglalt kivétellel – a feladatköre szerint illetékes miniszter,
+
+b) külföldi állampolgár esetében a külpolitikáért felelős miniszter vagy – külhoni magyar állampolgárra vonatkozóan – a nemzetpolitikáért felelős miniszter
+
+tesz javaslatot a miniszterelnöknek az előterjesztésre.
+
+(4) Magyar állampolgár számára külföldi állami kitüntetés viselésének engedélyezését a külpolitikáért felelős miniszter kezdeményezheti a köztársasági elnöknél.
 
 (5) Annak, akit bűncselekmény elkövetése miatt jogerősen elítéltek – függetlenül attól, hogy az elítéléshez fűződő jogkövetkezmények alól mentesült-e –, csak kivételes méltánylást érdemlő esetben lehet kitüntetést adományozni.

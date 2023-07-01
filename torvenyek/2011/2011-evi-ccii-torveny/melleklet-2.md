@@ -1,44 +1,36 @@
 2. melléklet a 2011. évi CCII. törvényhez
 
-Az állami kitüntetések leírása és az adományozás részletes szabályai
+Az e törvény szerinti állami kitüntetések leírása és az adományozás részletes szabályai
 
 I. A Magyar Szent István Rend
 
 1. A Magyar Szent István Rend jelvénye a Szent Korona megjelenített arany ábrázolásáról függ le. A rendjel aranyszegélyű, zöld zománcozású, hullámos talpú kereszt, mely mindkét oldalán egyformán kidolgozott. A kereszt előlapja vörös középmedalionjában, arany szegélyezésű, zöld hármas halmon álló, fehér kettős kereszt, ennek talpánál nyitott-, leveles arany koronával. E motívumtól balra, illetve jobbra a rendalapítóra utaló arany M T (=MARIA THERESIA) betűkkel. Az előlap középmedalionjának arany szegélyű, fehér körgyűrűjében a Rend hagyományos jelmondata szerepel arany betűkkel: PUBLICUM MERITORUM PRAEMIUM.
 
-A kereszt hátlapja fehér középmedalionjában a Rendnek nevet adó első magyar királyra vonatkozó felirat szerepel arany betűkkel: SANCTO/STEPHANO/REGIS/APOSTOLICO.
+A kereszt hátlapja fehér középmedalionjában a Rendnek nevet adó első magyar királyra vonatkozó felirat szerepel arany betűkkel: SANCTO/STEPHANO/REGI/APOSTOLICO.
 
 A hátlap középmedalionjának arany szegélyű, fehér zománcozású körgyűrűjében, körben zöld tölgyfakoszorú van.
 
-2. Az adományozott jogosult
+2. A kitüntetett jogosult
 
 a) a kitüntetést élete végéig birtokolni és magát a kitüntetés birtokosának nevezni;
 
 b) a kitüntetést a nemzeti és az állami ünnepeken viselni, meghívottként részt venni Magyarország nemzeti és állami ünnepeinek központi állami rendezvényein, valamint a nemzeti és állami ünnepnek nem minősülő kiemelkedő fontosságú rendezvényeken.
 
-3. Magyar állampolgárok számára évenként legfeljebb három Szent István Rend kitüntetés adományozható.
+3. Magyar állampolgárok számára évenként legfeljebb három Magyar Szent István Rend kitüntetés adományozható.
 
-II. A Magyar Corvin-lánc
+II.
 
-## Az adományozás rendje és feltételei
+1.
 
-1. A Corvin-lánc azon magyar és külföldi állampolgár részére adományozható, aki
+2.
 
-a) a kitüntetés alapszabályát elfogadja,
+3.
 
-b) vállalja, hogy közreműködik a Corvin-lánc Testület (a továbbiakban e fejezetben: Testület) munkájában.
+4.
 
-2. A Corvin-lánccal adományozottak száma egy időben a tizenötöt nem haladhatja meg.
+5.
 
-3. Ha az adományozottak száma a tizenötöt eléri, további adományozásra az adományozottak egyikének kiesése esetén van lehetőség. A Corvin-lánc adományozására csak a Testület által támogatott javaslat terjeszthető elő.
-
-4. A Corvin-lánc ugyanazon személy részére egy ízben adományozható.
-
-A kitüntetés leírása
-
-5. A Corvin-lánc kitüntetés az olasz művésztől eredő, XV. századbeli, harmincöt milliméter átmérőjű érem másolata, amely Mátyás királyt mellképben, jobboldali profilban ábrázolja „Mathias Rex Hungariae” körirattal. Az érmet gazdag, részben zománcozott, áttört művű renaissance díszítmény övezi, melybe felül mondatszalag fonódik „Pro scientia – litteris – et artibus” felirattal. A díszítményes érem fölött aranykoszorúban Mátyás király zománcos címere van, amely arany bevonatú ezüst nyakláncon függ. A függőrész teljes hossza száz milliméter.
-
-6. A Corvin-lánc kisebbített alakja a Magyar Corvin-lánc függő részének hű másolata negyven milliméteres méretben.
+6.
 
 III. A Magyar Becsület Rend
 
@@ -60,15 +52,15 @@ IV. A Magyar Érdemrend és a Magyar Érdemkereszt
 
 2. A Magyar Érdemrend szalagja a polgári tagozatnál vörös-fehér szegélyezésű, smaragdzöld színű, a katonai tagozatnál keskeny zöld-fehér szegélyezésű, élénk vörös színű.
 
-3. A Magyar Érdemrend osztályai:
+3. A Magyar Érdemrend fokozatai:
 
 a) nagykereszt a nyaklánccal és az arany sugaras csillaggal,
 
 b) nagykereszt,
 
-c) középkereszt a csillaggal,
+c) parancsnoki kereszt a csillaggal,
 
-d) középkereszt,
+d) parancsnoki kereszt,
 
 e) tisztikereszt,
 
@@ -76,17 +68,17 @@ f) lovagkereszt.
 
 4. A Magyar Érdemrend nagykeresztje 56 mm átmérőjű. A jobb vállról a bal csípő felé húzódó 100 mm széles szalagon viselendő. A polgári tagozat nagykeresztjének szalagján a 88 mm széles sötét smaragdzöld sávot jobbról-balról 2 mm széles fehér és 4 mm széles vörös csík szegélyezi. A katonai tagozat nagykeresztjének szalagján a 88 mm széles vörös sávot jobbról-balról 2 mm széles fehér és 4 mm széles zöld csík szegélyezi. A nagykereszthez nyolc egyenlő sugarú, a bal mellre tűzendő ezüstös, domború csillag jár. Ennek átmérője 90 mm, közepét az 1. pontban leírt kereszt ékesíti.
 
-5. A nagykereszt a nyaklánccal osztály kizárólag államfők részére adományozható. Az arany nyakláncon viselt nagykereszthez, arany sugaras csillag tartozik.
+5. A nagykereszt a nyaklánccal és az arany sugaras csillaggal fokozat kizárólag államfők részére adományozható. Az arany nyakláncon viselt nagykereszthez, arany sugaras csillag tartozik.
 
-6. A Magyar Érdemrend középkeresztje 52 mm átmérőjű. 40 mm széles szalagon a nyakban viselendő. A polgári tagozat középkeresztjének szalagján a 34 mm széles sötét smaragdzöld sávot jobbról-balról 1,5 mm széles fehér és 1,5 mm széles vörös csík szegélyezi. A katonai tagozat középkeresztjének szalagján a 34 mm széles vörös sávot jobbról-balról 1,5 mm széles fehér és 1,5 mm széles zöld csík szegélyezi.
+6. A Magyar Érdemrend parancsnoki keresztje 52 mm átmérőjű. 40 mm széles szalagon a nyakban viselendő. A polgári tagozat parancsnoki keresztjének szalagján a 34 mm széles sötét smaragdzöld sávot jobbról-balról 1,5 mm széles fehér és 1,5 mm széles vörös csík szegélyezi. A katonai tagozat parancsnoki keresztjének szalagján a 34 mm széles vörös sávot jobbról-balról 1,5 mm széles fehér és 1,5 mm széles zöld csík szegélyezi.
 
-A középkereszthez a bal mellre tűzendő, nyolc egyenlő sugarú, ezüstös domború csillag adományozható. A korábban adományozott középkereszthez újabb érdemek elismeréseként külön is adományozható a csillag.
+A parancsnoki kereszthez a bal mellre tűzendő, nyolc egyenlő sugarú, ezüstös domború csillag adományozható. A korábban adományozott parancsnoki kereszthez újabb érdemek elismeréseként külön is adományozható a csillag.
 
 7. A Magyar Érdemrend tisztikeresztje 52 mm átmérőjű. A bal mellre tűzve viselendő, szalagja nincs.
 
 8. A Magyar Érdemrend lovagkeresztje 42 mm átmérőjű. A polgári tagozat lovagkeresztjének a háromszög alakban összehajtott 40 mm széles szalagján a 34 mm széles sötét smaragdzöld sávot jobbról-balról 1,5 mm széles fehér és 1,5 mm széles vörös sáv szegélyezi. A katonai tagozat lovagkeresztjének háromszög alakban összehajtott 40 mm széles szalagján a 34 mm széles vörös sávot jobbról-balról 1,5 mm széles fehér és 1,5 mm széles zöld sáv szegélyezi.
 
-9. A Magyar Érdemkereszt osztályai:
+9. A Magyar Érdemkereszt fokozatai:
 
 a) Magyar Arany Érdemkereszt,
 
@@ -94,9 +86,9 @@ b) Magyar Ezüst Érdemkereszt,
 
 c) Magyar Bronz Érdemkereszt.
 
-10. A Magyar Érdemkereszt 2 mm széles kör alakú, egymásba fonódó babérkoszorúban elhelyezett 42 mm átmérőjű fényezett szélű kereszt, melynek rajza a Magyar Érdemrenddel azonos, de zománcozás nélküli, és az osztály szerint arany, ezüst, illetve bronz bevonatú.
+10. A Magyar Érdemkereszt 2 mm széles kör alakú, egymásba fonódó babérkoszorúban elhelyezett 42 mm átmérőjű fényezett szélű kereszt, melynek rajza a Magyar Érdemrenddel azonos, de zománcozás nélküli, és a fokozat szerint arany, ezüst, illetve bronz bevonatú.
 
-11. A Magyar Érdemkereszt háromszögben összehajtott 40 mm széles szalagon a bal mell fölé tűzve viselendő. Polgári tagozatának szalagján a 34 mm széles sötét smaragdzöld sávot jobbról-balról 1,5 mm széles vörös csík szegélyezi; a bronz osztály szalagjának közepén egy 2 mm széles vörös sáv, az ezüst osztály szalagján két 2 mm széles vörös sáv, az arany osztály szalagján három 2 mm széles vörös sáv húzódik. A katonai tagozat szalagján a 34 mm széles vörös sávot jobbról-balról 1,5 mm széles fehér és 1,5 mm széles zöld csík szegélyezi; a bronz osztály szalagjának közepén egy 2 mm széles zöld sáv, az ezüst osztály szalagján két 2 mm széles zöld sáv, az arany osztály szalagján három 2 mm széles zöld sáv húzódik.
+11. A Magyar Érdemkereszt háromszögben összehajtott 40 mm széles szalagon a bal mell fölé tűzve viselendő. Polgári tagozatának szalagján a 34 mm széles sötét smaragdzöld sávot jobbról-balról 1,5 mm széles vörös csík szegélyezi; a bronz fokozat szalagjának közepén egy 2 mm széles vörös sáv, az ezüst fokozat szalagján két 2 mm széles vörös sáv, az arany fokozat szalagján három 2 mm széles vörös sáv húzódik. A katonai tagozat szalagján a 34 mm széles vörös sávot jobbról-balról 1,5 mm széles fehér és 1,5 mm széles zöld csík szegélyezi; a bronz fokozat szalagjának közepén egy 2 mm széles zöld sáv, az ezüst fokozat szalagján két 2 mm széles zöld sáv, az arany fokozat szalagján három 2 mm széles zöld sáv húzódik.
 
 A kis díszítmény
 
@@ -104,31 +96,31 @@ A kis díszítmény
 
 a) a nagykereszt eredeti szalagja, keresztje és csillagja helyett a lovagkereszt viselendő a nagykereszt csillagjának 25 mm átmérőjű kicsinyített másával ékesített szalagon,
 
-b) a középkereszt a csillaggal eredeti szalagja, keresztje és csillagja helyett a lovagkereszt viselendő a középkereszt csillagjának 20 mm átmérőjű kicsinyített másával ékesített szalagon,
+b) a parancsnoki kereszt a csillaggal eredeti szalagja, keresztje és csillagja helyett a lovagkereszt viselendő a parancsnoki kereszt csillagjának 20 mm átmérőjű kicsinyített másával ékesített szalagon,
 
-c) a középkereszt eredeti szalagja és keresztje helyett a lovagkereszt viselendő a középkereszt keresztjének 18 mm átmérőjű kicsinyített másával ékesített szalagon,
+c) a parancsnoki kereszt eredeti szalagja és keresztje helyett a lovagkereszt viselendő a parancsnoki kereszt keresztjének 18 mm átmérőjű kicsinyített másával ékesített szalagon,
 
-d) a tisztikereszt eredeti jelvénye helyett a lovagkereszt viselendő a tisztikereszt jelvényének 16 mm átmérőjű, valósághű másával ékesített szalagon.
+d)
 
 13. A 12. pont irányadó a Magyar Érdemrend jelvényeinek olyan alkalmakkor való viselésére is, amikor a polgári ruházat nem teszi lehetővé a jelvényeknek eredeti alakjukban való viselését.
 
 14. A jelvények eredeti alakját helyettesítő, a 12. pontban leírt jelvények elnevezése: „Kis díszítmény”.
 
-15. Az alapszabályokban felsorolt kitüntetések helyett a katonai szabályzatokban előírt esetekben 40 mm széles és 10 mm magas szalagsávok viselendők; a nagykereszt szalagsávján a nagykereszt csillagjának, a csillagdíszítményes középkereszt, és a középkereszt szalagsávján a középkereszt keresztjének, a tisztikereszt szalagsávján Magyarország címerének 10 mm magas kicsinyített mása helyezkedik el.
+15. Az alapszabályokban felsorolt kitüntetések helyett a katonai szabályzatokban előírt esetekben 40 mm széles és 10 mm magas szalagsávok viselendők; a nagykereszt szalagsávján a nagykereszt csillagjának, a csillagdíszítményes parancsnoki kereszt, és a parancsnoki kereszt szalagsávján a parancsnoki kereszt keresztjének, a tisztikereszt szalagsávján Magyarország címerének 10 mm magas kicsinyített mása helyezkedik el.
 
-16. Magánalkalmakkor a kitüntetések osztályainak megfelelő, arányosan kicsinyített miniatűr viselhető szalagon.
+16.
 
-17. Az alapszabályokban felsorolt kitüntetések helyett polgári ruhán magánalkalmakkor 12 mm átmérőjű rozetta viselhető; a nagykereszt rozettáján a nagykereszt csillagjának, a csillagdíszítményes középkereszt rozettáján a középkereszt csillagjának, a középkereszt rozettáján a középkereszt keresztjének, a tisztikereszt rozettáján Magyarország címerének 10 mm magas kicsinyített mása helyezkedik el.
+17. Az alapszabályokban felsorolt kitüntetések helyett polgári ruhán magánalkalmakkor 12 mm átmérőjű rozetta viselhető; a nagykereszt rozettáján a nagykereszt csillagjának, a csillagdíszítményes parancsnoki kereszt rozettáján a parancsnoki kereszt csillagjának, a parancsnoki kereszt rozettáján a parancsnoki kereszt keresztjének, a tisztikereszt rozettáján Magyarország címerének 10 mm magas kicsinyített mása helyezkedik el.
 
 18. A 12–17. pontban foglalt szabályoknak meg nem felelő jelvények viselése tilos.
 
 Az adományozásra vonatkozó irányelvek
 
-19. Magyar állampolgár kitüntetése esetében a kitüntetés alapjául szolgáló érdemek nagyságán kívül a felterjesztendő személy közéleti szerepének, életkorának, esetleges korábbi kitüntetéseinek figyelembevételével a miniszterelnök terjeszti elő az adományozandó osztályt.
+19. Magyar állampolgár kitüntetése esetében a kitüntetés alapjául szolgáló érdemek nagyságán kívül a felterjesztendő személy közéleti szerepének, életkorának, esetleges korábbi kitüntetéseinek figyelembevételével a miniszterelnök terjeszti elő az adományozandó fokozatot.
 
-20. Magyar állampolgárok számára a Magyar Érdemrend nagykeresztjéből évenként legfeljebb öt, középkeresztjéből a csillaggal évenként legfeljebb húsz, középkeresztjéből évenként legfeljebb negyven, tisztikeresztjéből évenként legfeljebb száznegyven, lovagkeresztjéből évenként legfeljebb kettőszáznyolcvan adományozható.
+20. Magyar állampolgárok számára a Magyar Érdemrend nagykeresztjéből évenként legfeljebb öt, parancsnoki keresztjéből a csillaggal évenként legfeljebb húsz, parancsnoki keresztjéből évenként legfeljebb negyven, tisztikeresztjéből évenként legfeljebb száznegyven, lovagkeresztjéből évenként legfeljebb háromszáz adományozható.
 
-21. Magyar állampolgárok számára a Magyar Arany Érdemkeresztből évenként legfeljebb kettőszáz, a Magyar Ezüst Érdemkeresztből évente legfeljebb kettőszázötven, a Magyar Bronz Érdemkeresztből évente legfeljebb háromszázötven adományozható.
+21. Magyar állampolgárok számára a Magyar Arany Érdemkeresztből évenként legfeljebb kettőszázötven, a Magyar Ezüst Érdemkeresztből évente legfeljebb kettőszázötven, a Magyar Bronz Érdemkeresztből évente legfeljebb kettőszázötven adományozható.
 
 21a. A Nemzetközi Olimpiai Bizottság által szervezett nyári vagy téli olimpiai játékokon, továbbá a Nemzetközi Paralimpiai Bizottság által szervezett nyári és téli paralimpiai játékokon (a továbbiakban együtt: olimpiai és paralimpiai játékok) annak a magyar állampolgárnak, aki a magyar nemzeti válogatott tagjaként egyéni számban vagy csapattagként első, második vagy harmadik helyezést ért el (a továbbiakban együtt: érmes), valamint az érmes felkészítésében közreműködő sportszakember részére – az olimpiai és paralimpiai játékok évében – Magyar Érdemrend és Magyar Érdemkereszt a 20. pontban meghatározott kereteken felül is adományozható.
 

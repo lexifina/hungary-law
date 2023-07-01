@@ -20,9 +20,9 @@ b) művészeti díjat alapítson, és meghatározza az adományozás feltételei
 
 c) életmentő emlékérmet alapítson, és meghatározza az adományozás feltételeit és szabályait,
 
-d) állapítsa meg az e törvény, a Kormány és a miniszterelnök által alapított kitüntetések, díjak adományozására vonatkozó részletes eljárási szabályokat, valamint
+d) állapítsa meg az e törvény szerinti állami kitüntetések, valamint a Kormány és a miniszterelnök által alapított kitüntetések, díjak adományozására vonatkozó részletes eljárási szabályokat
 
-e) állapítsa meg a Corvin-lánc adományozásával, a Corvin-lánccal kapcsolatos jogosultságokkal, kötelezettséggel és feladatokkal, valamint a Corvin-lánc Testülettel és a Corvin-lánc Irodával kapcsolatos részletes szabályokat.
+e)
 
 (3) Felhatalmazást kapnak a miniszterek, hogy rendeletben szabályozzák
 

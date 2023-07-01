@@ -1,6 +1,6 @@
 23. § (1) A 22. § (1) bekezdése szerint elismerés alapítására és adományozására jogosult elismerést akkor adományozhat, ha
 
-a) az elismerés elnevezését, fajtáit (osztályait),
+a) az elismerés elnevezését, fajtáit,
 
 b) az elismerésben részesíthető személyek körét,
 

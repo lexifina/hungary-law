@@ -10,4 +10,4 @@ d) a helyi önkormányzat képviselő-testülete,
 
 e) a Honvéd Vezérkar főnöke.
 
-(2) Az (1) bekezdés szerinti elismerés elnevezésében és külső formájában nem hasonlíthat az állami kitüntetésekhez, valamint a Kossuth-díjhoz és a Széchenyi-díjhoz.
+(2) Az (1) bekezdés szerinti elismerés elnevezésében és külső formájában nem hasonlíthat az e törvény szerinti állami kitüntetésekhez, a Magyar Corvin-lánchoz, valamint a Kossuth-díjhoz és a Széchenyi-díjhoz.

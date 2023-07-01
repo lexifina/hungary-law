@@ -1,1 +1,1 @@
-20. § Az állami kitüntetésekre és adományozásuk előkészítésére vonatkozó alapvető közös szabályokat az 1. melléklet, az egyes állami kitüntetésekkel kapcsolatos részletes szabályokat a 2. melléklet tartalmazza.
+20. § Az e törvény szerinti állami kitüntetésekre és adományozásuk előkészítésére vonatkozó alapvető közös szabályokat az 1. melléklet, az egyes, e törvény szerinti állami kitüntetésekkel kapcsolatos részletes szabályokat a 2. melléklet tartalmazza.
