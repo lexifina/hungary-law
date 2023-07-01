@@ -1,3 +1,3 @@
-11. §[^23]
+11. §[^25] Az MNB a kötelező jegybanki tartalékra vonatkozó egyes MNB rendeletek módosításáról szóló 25/2023. (VI. 14.) MNB rendelet 1. §-ával módosított 3. § (3) bekezdése szerint megállapított kötelező tartalék összegéről a tartalékköteles hitelintézetet első alkalommal 2023. június 26-ig értesíti.
 
-[^23]: A 11. §-t az 50/2016. (XII. 12.) MNB rendelet 4. § (1) bekezdése iktatta be, hatályon kívül helyezte a 43/2018. (XI. 21.) MNB rendelet 3. §-a.
+[^25]: A 11. §-t újonnan a 25/2023. (VI. 14.) MNB rendelet 4. §-a iktatta be.

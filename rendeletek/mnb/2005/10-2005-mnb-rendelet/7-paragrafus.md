@@ -12,17 +12,17 @@
 
 ## bj = a teljesítési tárgyidőszak j. napjára vonatkozó terhelés összege,
 
-## ej = a t. teljesítési tárgyidőszak egyes naptári napjain a tartalékteljesítési adatok [a napi számlakivonaton szereplő elszámolt számlaegyenlegek és az 5. § (3) bekezdése szerint számított összeg] elmaradása a 3. § (1) bekezdés e) pontja szerinti forráskategóriára vonatkozóan a rátarendeletben meghatározott legkisebb tartalékráta mértékének megfelelően számított kötelező tartalék összegétől,
+## ej = a t. teljesítési tárgyidőszak egyes naptári napjain a tartalékteljesítési adatok [a napi számlakivonaton szereplő elszámolt számlaegyenlegek, az 5. § (1) bekezdés d), illetve e) pontja szerinti összeg és az 5. § (3) bekezdése szerint számított összeg] elmaradása a 3. § (1) bekezdés e) pontja szerinti forráskategóriára vonatkozóan a rátarendeletben meghatározott legkisebb tartalékráta mértékének megfelelően számított kötelező tartalék összegétől,
 
 ## kj = a mindenkori jegybanki alapkamat kétszeresének megfelelő büntetőkamatláb az elmaradás napján.
 
-(3) Ha az MNB megállapítja, hogy a tartalékköteles hitelintézet napi tartalékteljesítési adatainak a 4. § (2) bekezdése szerint számított teljesítési tárgyidőszaki átlaga nem érte el a kötelező tartalék vonatkozó tartalékráta mértékével számított összegét, az MNB ezen tény megállapítását követő 30 napon belül – a tartalékköteles hitelintézet egyidejű értesítése mellett – a megállapított különbözet alapján a következő képlettel meghatározott összeggel megterhelheti a tartalékköteles hitelintézet MNB-nél vezetett forint pénzforgalmi számláját:
+(3) [^19] Ha az MNB megállapítja, hogy a tartalékköteles hitelintézet napi tartalékteljesítési adatainak a 4. § (2) bekezdése szerint számított teljesítési tárgyidőszaki átlaga nem érte el a kötelező tartalék vonatkozó tartalékráta mértékével számított összegét, az MNB ezen tény megállapítását követő 30 napon belül – a tartalékköteles hitelintézet egyidejű értesítése mellett – a megállapított különbözet alapján a következő képlettel meghatározott összeggel megterhelheti a tartalékköteles hitelintézet MNB-nél vezetett forint pénzforgalmi számláját:
 
 ## Ahol:
 
 ## Bt = a t. teljesítési tárgyidőszak tekintetében a teljesítés elmaradása esetén alkalmazandó számlaterhelés összege,
 
-## Et = a t. teljesítési tárgyidőszakban a tartalékteljesítési adatok [napi számlakivonaton szereplő elszámolt számlaegyenlegek és az 5. § (3) bekezdése szerint számított összeg] naptári napok figyelembevételével számított számtani átlagának elmaradása a kötelező tartalék 4. § (2) bekezdése szerinti, a vonatkozó tartalékráta mértékével számított összegétől,
+## Et = a t. teljesítési tárgyidőszakban a tartalékteljesítési adatok [napi számlakivonaton szereplő elszámolt számlaegyenlegek, az 5. § (1) bekezdés d), illetve e) pontja szerinti összeg és az 5. § (3) bekezdése szerint számított összeg] naptári napok figyelembevételével számított számtani átlagának elmaradása a kötelező tartalék 4. § (2) bekezdése szerinti, a vonatkozó tartalékráta mértékével számított összegétől,
 
 ## nt = a t. teljesítési tárgyidőszak naptári napjainak száma,
 
@@ -39,4 +39,5 @@
 (6) E szakasz rendelkezéseit a levelezett tartalékköteles hitelintézetekre az azok pénzforgalmi számlavezetési sajátosságainak megfelelően kell alkalmazni.
 
 [^17]: A 7. § a 36/2022. (IX. 15.) MNB rendelet 2. §-ával megállapított szöveg.
-[^18]: A 7. § (2) bekezdése a 6/2023. (III. 8.) MNB rendelet 6. § e) pontja szerint módosított szöveg.
+[^18]: A 7. § (2) bekezdése a 6/2023. (III. 8.) MNB rendelet 6. § e) pontja, a 25/2023. (VI. 14.) MNB rendelet 5. § c) pontja szerint módosított szöveg.
+[^19]: A 7. § (3) bekezdése a 25/2023. (VI. 14.) MNB rendelet 5. § c) pontja szerint módosított szöveg.
