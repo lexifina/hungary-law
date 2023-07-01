@@ -1,4 +1,4 @@
-4. § Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a hulladékgazdálkodási közszolgáltatás ellátásának kiesése esetére
+4. § Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a hulladékról szóló törvény szerinti hulladékgazdálkodási közszolgáltatási résztevékenység ellátásának kiesése esetére
 
 a) vonatkozó részletes szabályokat;
 
