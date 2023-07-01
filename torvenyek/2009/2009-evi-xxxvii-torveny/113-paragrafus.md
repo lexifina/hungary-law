@@ -32,11 +32,7 @@
 
 (16)
 
-(17) Ha az e törvény hatálybalépése előtt jóváhagyott körzeti erdőterv lejártáig az e törvény szerinti erdőterv nem kerül meghatározásra, akkor az új erdőterv véglegessé válásáig
-
-a) a korábbi erdőterv érvényessége fennmarad, vagy
-
-b) ha az erdőgazdálkodó nem rendelkezett erdőtervvel, az erdőtervet az erdészeti hatóság az erdőgazdálkodó kérelmére állapítja meg.
+(17)
 
 (18) Ha az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény és egyéb kapcsolódó törvények módosításáról szóló 2017. évi LVI. törvény (a továbbiakban: módosító törvény) hatálybalépése előtt e törvény alapján kiadott erdőterv lejártáig az új erdőterv nem kerül kiadásra, akkor az új erdőterv jogerőre emelkedéséig a korábbi erdőterv érvényessége fennmarad.
 
@@ -68,7 +64,7 @@ b) a településvédelmi rendeltetést, ha az nem erdőgazdálkodó kérelmére 
 
 (23) Az erdészeti hatóság a módosító törvény hatálybalépését követően, 2018. június 30-ig az erdő rendeltetéseit a 23. § (2) bekezdésében foglalt rendelkezésekkel, elsődleges rendeltetéseit a 23/A. §-ban foglalt rendelkezésekkel összhangban felülvizsgálja és a szükséges módosításokat az Adattáron átvezeti.
 
-(24) Az önerdősülés útján létrejött, az Adattárban e törvény hatálybalépését követően hivatalból nyilvántartásba vett erdőt az erdészeti hatóság a tulajdonos, közös tulajdon esetén a tulajdonosok tulajdoni hányad alapján számított kétharmadának hozzájárulásával az erdőgazdálkodó, erdőgazdálkodó hiányában az erdő használatára jogosult kezdeményezésére átminősíti szabad rendelkezésű erdővé. Az átminősítés kezdeményezésére a módosító törvény hatálybalépését követő négy éven belül van lehetőség. A nem erdő művelési ágú területek esetében, ha a megadott határidő lejártáig az adott területen nincs erdőgazdálkodó, a terület adattári nyilvántartásáról való tudomásszerzést követően a módosító törvény hatálybalépését követő öt éven belül van lehetőség.
+(24) Az önerdősülés útján létrejött, az Adattárban e törvény hatálybalépését követően hivatalból nyilvántartásba vett erdőt az erdészeti hatóság a tulajdonos, közös tulajdon esetén a tulajdonosok tulajdoni hányad alapján számított kétharmadának hozzájárulásával az erdőgazdálkodó, erdőgazdálkodó hiányában az erdő használatára jogosult kezdeményezésére átminősíti szabad rendelkezésű erdővé. Az átminősítés kezdeményezésére a módosító törvény hatálybalépését követő négy éven belül van lehetőség. A nem erdő művelési ágú területek esetében, ha a megadott határidő lejártáig az adott területen nincs erdőgazdálkodó, a terület adattári nyilvántartásáról való tudomásszerzést követően a módosító törvény hatálybalépését követő hét éven belül van lehetőség.
 
 (25) Az erdőről és az erdő védelméről szóló 1996. évi LIV. törvény 13. § (4) bekezdés a) pontja alapján, vagy 2021. december 31. napját megelőzően megkötött megbízási szerződést bármelyik fél 60 napos felmondási idővel felmondhatja.
 
@@ -111,3 +107,5 @@ d) a soron következő körzeti erdőtervezés során
 felülvizsgálja, és a hatályos szabályozásnak megfelelően módosítja.
 
 (32) Ha az e törvény hatálybalépését követően, de a módosító törvény hatálybalépése előtt jóváhagyott körzeti erdőterv lejártáig az e törvény szerinti erdőterv nem kerül meghatározásra, akkor az új erdőterv véglegessé válásáig az erdőtervet az erdészeti hatóság az erdőgazdálkodó kérelmére állapítja meg.
+
+(33) Az e törvény hatálybalépését követően, de a módosító törvény hatálybalépése előtt kiadott erdőterv határozatban az erdőterv érvényességi időszakában elvégezhető vagy elvégzendő fakitermelés fatérfogatára vonatkozó adat tájékoztató adat.

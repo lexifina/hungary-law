@@ -1,29 +1,43 @@
 ## Az elrendelt erdőgazdálkodási tevékenység
 
-106. § (1) Ha az erdőgazdálkodó – az állam 100%-os tulajdonában álló erdő kivételével – az erdészeti hatóság felszólítása ellenére nem tesz eleget e törvény szerinti erdőgazdálkodási kötelezettségének, és ezáltal az erdő fennmaradását vagy fejlődését veszélyezteti, a szükséges erdőgazdálkodási tevékenységeket az erdészeti hatóság – az (1c) bekezdésben foglaltak figyelembevételével – az erdőgazdálkodó költségére elrendeli és elvégezteti. Ha az elrendelt erdőgazdálkodási tevékenység költségei a kötelezettel szemben vezetett végrehajtási eljárásban nem térülnek meg, az erdő használatára, használatba adására jogosult köteles a költségeket megtéríteni.
+106. § (1) Az erdészeti hatóság az e törvény hatálya alá tartozó területen – az állam 100%-os tulajdonában álló gazdasági társaság, mint erdőgazdálkodó használatában álló terület kivételével – a halaszthatatlanul szükséges erdőgazdálkodási tevékenységet elrendeli, ha ennek elmaradása az erdő, fásítás fennmaradását vagy fejlődését veszélyezteti, az erdő rendeltetésének betöltését akadályozza
 
-(1a) Ha az erdőgazdálkodói nyilvántartás adatai alapján az erdő jogszerű használójának személye nem ismert, és az erdő fennmaradása, fejlődése vagy állapotának megőrzése veszélybe kerül, az erdészeti hatóság 30 napos határidő kitűzésével felszólítja az erdő használatára, használatba adására jogosultat
+a) az erdőfelújítás megkezdésére vagy pótlására vonatkozó határidő túllépésekor, amennyiben az erdőgazdálkodó az erdőfelújítási biztosíték nyújtásra kötelezését követő év május 15-ig nem teljesítette az elsőkivitelt vagy a pótlást,
 
-a) az erdő használatba adására, illetve
+b) fennmaradási engedély hiányában az erdő engedély nélküli igénybevétele, vagy engedélytől eltérő igénybevétele esetén az erdő helyreállítására,
 
-b) az erdő használatára való jogosultság 18. § (5) bekezdésében foglaltak szerinti bejelentésére.
+c) az a)–b) pontoktól eltérő más jogsértés esetén, ha az erdőgazdálkodó – szabad rendelkezésű erdő, fásítás esetén földhasználó – e törvény szerinti kötelezettségének nem tesz eleget, vagy
 
-(1b) Ha az (1a) bekezdésben meghatározott felszólítás nem vezet eredményre, az erdészeti hatóság az erdő fenntartása érdekében halaszthatatlan erdőgazdálkodási tevékenységet – az (1c) bekezdésben foglaltak figyelembevételével – az erdő használatára, használatba adására jogosult költségére rendeli, illetve végezteti el.
+d) erdőgazdálkodó hiányában az erdő felújítása, az erdőt érő súlyos károsító hatás vagy káros tevékenység elleni védekezés és a bekövetkezett károsítások hatásainak felszámolása érdekében.
 
-(1c) Erdő felújításához kapcsolódó erdőgazdálkodási tevékenységet az erdészeti hatóság – ha annak feltételei fennállnak – az (1), illetve (1b) bekezdésben foglalt kötelezett kötelezését megelőzően, az alábbi sorrend biztosításával rendeli és végezteti el:
+(2) Az elrendelt erdőgazdálkodási tevékenység elvégzésére az erdészeti hatóság
 
-a) a nyújtott erdőfelújítási biztosíték terhére,
+a) az (1) bekezdés a) vagy c) pontja szerinti esetekben az erdőgazdálkodót – szabad rendelkezésű erdő, fásítás esetén a földhasználót –, ennek hiányában a föld tulajdonosát,
 
-b) az erdőfelújítási kötelezettséget eredményező véghasználat végrehajtója terhére.
+b) az (1) bekezdés b) pontja szerinti esetekben az ismert igénybevevőt, ennek hiányában a nyilvántartott erdőgazdálkodót, erdőgazdálkodó hiányában a föld tulajdonosát,
 
-(2) Az erdőgazdálkodási tevékenységet elrendelő határozatot az erdő használatára, használatba adására jogosultnak is kézbesíteni kell.
+c) az (1) bekezdés d) pontja szerinti esetekben a föld tulajdonosát
 
-(3) Az elrendelt erdőgazdálkodási tevékenység költségeinek megelőlegezését a költségvetési törvényben e célra meghatározott előirányzatból kell biztosítani.
+kötelezi.
 
-(4) Az elrendelt erdőgazdálkodási tevékenység végrehajtásával erdőgazdálkodásra jogosult erdészeti szakirányító vállalkozást lehet megbízni.
+(3) Ha az (1) bekezdés szerinti esetekben a kötelezett a hatósági határozatban foglaltaknak határidőre nem tesz eleget, a cselekmény végrehajtását az erdészeti hatóság az Ákr. 134. § (1) bekezdésében meghatározott, végrehajtást foganatosító szervnek (a továbbiakban: végrehajtó szerv) foganatosításra átadja.
 
-(5) Az elrendelt erdőgazdálkodási tevékenység során keletkezett bevételt az elrendelt erdőgazdálkodási tevékenység költségeire kell fordítani. Amennyiben a keletkezett bevétel meghaladja az elrendelt tevékenység költségét, a különbözetet a jogosultak részére meg kell téríteni.
+(4) Az erdőgazdálkodási tevékenység elrendelésének nem akadálya az, hogy a kötelezett bírságfizetési, erdővédelmi járulék fizetési vagy erdőfelújítási biztosíték nyújtási kötelezettségének egyébként eleget tett, feltéve, hogy a jogsértés továbbra is fennáll.
 
-(6) Az erdészeti hatóság az erdő felújításához kapcsolódó erdőgazdálkodási tevékenység elrendelését mellőzheti, ha a felszólítására a kötelezett a tevékenység elvégzésével legkésőbb a mulasztás megállapítása évének végéig egy erdőgazdálkodásra jogosult erdészeti szakirányító vállalkozást bíz meg, és a hatályos megbízási szerződést az erdészeti hatóság részére bemutatja.
+(5) Az erdészeti hatóságnak az elrendelt erdőgazdálkodási tevékenységről hozott döntésében meghatározott teljesítési határidő – az (1) bekezdés a) pontja alapján hozott döntés kivételével – nem lehet kevesebb 30 napnál és nem haladhatja meg a 12 hónapot.
 
-(7) Ha a kötelezett mulasztása miatt a (6) bekezdésben foglalt tevékenység a következő évben az erdőfelújítás műszaki átvételéig nem kerül végrehajtásra, az erdészeti hatóság a kötelezett részére a tárgyévet követő öt évben erdőgazdálkodási tevékenység elrendeléséhez kapcsolódóan a (6) bekezdésben foglalt lehetőséget nem biztosít.
+(6) Az erdőgazdálkodási tevékenységet elrendelő határozatban rendelkezni kell
+
+a) az érintett terület azonosításáról, erdészeti-, valamint ingatlan-nyilvántartás szerinti azonosító adatai, területének nagysága és térbeli azonosítói meghatározásával,
+
+b) az elrendelt erdőgazdálkodási tevékenység elvégzésének az (5) bekezdésben foglaltak szerint megállapított határidejéről,
+
+c) az elrendelt erdőgazdálkodási tevékenység jegyzék szerinti tétel sorszámáról, a tevékenység leírásáról, mennyiségéről, valamint szükség szerint további előírásokról a teljesítés módját illetően,
+
+d) az arról szóló tájékoztatásról, hogy az elrendelt erdőgazdálkodási tevékenység önkéntes teljesítése hiányában végrehajtás elrendelésének van helye és az elrendelt cselekményeket a végrehajtó szerv foganatosítja.
+
+(7) Az erdészeti hatóság a (6) bekezdés c) pontja szerint szükséges tevékenységeket az erdőgazdálkodásért felelős miniszter által közzétett, az elrendelt erdőgazdálkodási tevékenység legmagasabb szolgáltatási egység díjairól szóló miniszteri közleményben foglalt szolgáltatási tételszámmal, tevékenység leírással, és mennyiségi egységben az érintett terület azonosítóihoz rendelt módon határozza meg.
+
+(8) Az erdő engedély nélküli igénybevétele esetén a helyreállításra irányuló tevékenységek meghatározása során az erdészeti hatóság a (6) bekezdés c) pontjában foglaltaktól eltérő más, az erdő funkció helyreállításához elengedhetetlenül szükséges tevékenységet is előírhat.
+
+(9) Az erdőgazdálkodási tevékenységet elrendelő határozatot – ha a határozatnak nem ő a kötelezettje – a föld tulajdonosával is közölni kell.

@@ -14,4 +14,4 @@ e) az erdőrészlettel az erdőrészlet kerületének felénél kisebb részben 
 
 f) az 1 hektár területnagyságot meghaladó és átlagos szélességét tekintve 30 méternél szélesebb nagyságú egyéb részletet
 
-az erdőgazdálkodónak a tulajdonos hozzájárulásával tett bejelentésére kivezeti az Adattárból, ha az erdőgazdálkodó nyilatkozata alapján a terület erdőgazdálkodási célt már nem szolgál.
+az erdőgazdálkodónak a tulajdonos hozzájárulásával tett bejelentésére vagy erdőgazdálkodó hiányában a tulajdonos bejelentésére kivezeti az Adattárból, ha az erdőgazdálkodó nyilatkozata alapján a terület erdőgazdálkodási célt már nem szolgál.

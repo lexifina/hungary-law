@@ -13,3 +13,5 @@
 (7) Ha az ellenőrzés alá vont fatermék legális eredete az ellenőrzés vagy az eljárás során hitelt érdemlően nem bizonyítható, a faanyagot birtokló személyt vagy szervezetet faanyag kereskedelmi lánc szereplőjének kell tekinteni.
 
 (8) Ha valamely személy, szervezet évente 50 köbmétert meghaladó mennyiségű erdei faválasztékot vásárol, az ellenkező bizonyításáig vélelmezni kell, hogy az ilyen személy, szervezet a faanyag kereskedelmi lánc szereplőjének minősül.
+
+(9) Az illegális fakitermelésből származó vagy annak minősülő fával vagy fatermékkel végzett faanyag kereskedelmi lánchoz tartozó tevékenység végzése esetén a jogkövetkezmények mérlegelésekor – az ellenkező bizonyításáig – vélelmezni kell, hogy annak kitermelése következtében környezeti kár keletkezett.

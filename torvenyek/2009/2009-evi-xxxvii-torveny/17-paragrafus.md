@@ -4,7 +4,11 @@
 
 (2) Az e törvényben foglalt erdőgazdálkodói jogok és kötelezettségek – a haszonvételi joggyakorlás kivételével – az erdőgazdálkodót illetik, illetve terhelik.
 
-(3)
+(3) Erdőgazdálkodó hiányában az erdő tulajdonosa – az erdészeti hatóság felszólítását követően – gondoskodik
+
+a) az erdőt károsító hatások és a káros tevékenységek elleni védekezésről, a bekövetkezett károsítások hatásainak felszámolásáról, az erdő talajának védelméről, és
+
+b) az erdő szakszerű felújításáról.
 
 (4)
 

@@ -120,4 +120,4 @@ l) határozza meg az erdészeti hatóság által alkalmazható közigazgatási s
 
 (9) Felhatalmazást kap a miniszter, hogy az agrárpolitikáért felelős miniszter egyetértésével kiadott rendeletben határozza meg a jelentős közérdekű korlátozással, valamint az erdőgazdálkodó által kivédhetetlen károsítással érintett erdő állami tulajdonba vételének részletes szabályait.
 
-(10) Felhatalmazást kap a miniszter, hogy a turizmusért felelős miniszter, a természetvédelemért felelős miniszter, valamint a sportpolitikáért felelős miniszter egyetértésével kiadott rendeletben határozza meg a turista útjelzések és tájékoztató táblák elkészítésének és elhelyezésének, valamint a jelzett turista útvonalak nyilvántartásának részletes szabályait.
+(10) Felhatalmazást kap az aktív Magyarországért felelős miniszter, hogy a miniszter, a természetvédelemért felelős miniszter, valamint a sportpolitikáért felelős miniszter egyetértésével kiadott rendeletben határozza meg a turista útjelzések és tájékoztató táblák elkészítésének és elhelyezésének, valamint a jelzett turista útvonalak nyilvántartásának részletes szabályait.

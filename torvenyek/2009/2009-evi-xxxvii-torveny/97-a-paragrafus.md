@@ -14,7 +14,7 @@ b) az erdőgazdálkodót szakmai kérdésekben képviseli a helyszíni szemléke
 
 c) a tudomására jutott, az erdőgazdálkodót érintő tényekről, adatokról az erdőgazdálkodót haladéktalanul tájékoztatja,
 
-d) az erdőgazdálkodó erdészeti hatóság felé tett bejelentéseit, adatszolgáltatásait ellenjegyzi, illetve lehetőség szerint azt elektronikus úton benyújtja, valamint
+d) az erdőgazdálkodó erdészeti hatóság felé tett bejelentéseit, adatszolgáltatásait ellenjegyzi, illetve azt elektronikus úton benyújtja, valamint
 
 e) kiállítja a műveleti lapot.
 

@@ -10,7 +10,7 @@ a) a fakitermelés;
 
 b) az erdészeti szaporítóanyag gyűjtése;
 
-c) a vadászati jog gyakorlása vagy hasznosítása az e törvény hatálya alá tartozó területen;
+c)
 
 d) az elhalt fekvő fa és gally gyűjtése, illetve elhalt, száraz ág nyesése;
 

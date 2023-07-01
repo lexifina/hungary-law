@@ -34,7 +34,9 @@ ab) a kitermelt faállomány gyökeréről vagy tuskójáról kihajtott sarjakr�
 
 b) mesterséges módon, amelynek során a kitermelendő faállomány védelmében, vagy a kitermelt, illetve kipusztult és eltávolított faállomány helyén magvetéssel, csemeteültetéssel vagy dugványozással gondoskodnak a faállomány újbóli létrehozásáról.
 
-(5) Sarjeredetű természetes felújítással – az erdészeti hatóságnak a talajvédelmi, a mezővédő, vagy part- vagy töltésvédelmi rendeltetésű, valamint a felnyíló erdőre hozott eltérő döntése kivételével – az éger, az akác, az őshonos nyár, valamint a fűz főfafajú erdők újíthatók fel.
+(5) Sarjeredetű természetes felújítással az éger, az akác, a nyár, valamint a fűz főfafajú erdők újíthatók fel.
+
+(5a) Az erdészeti hatóság döntése alapján az (5) bekezdésben felsoroltaktól eltérő főfafajú erdők sarjról, vagy sarjról és magról vegyesen is felújíthatók.
 
 (6) Ha a termőhelynek megfelelő őshonos állományalkotó főfafajok mageredetű természetes felújításának feltételei adottak, ezt a felújítási módot kell alkalmazni.
 

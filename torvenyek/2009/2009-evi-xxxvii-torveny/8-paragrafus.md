@@ -32,6 +32,8 @@ c) erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület
 
 (9) Az osztatlan közös tulajdonú erdő és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület állami tulajdonban lévő hányadának a használatára, hasznosítására, a Nemzeti Földalapba tartozó vagyonra vonatkozó általános szabályokat kell alkalmazni.
 
-(10) Az állam 100%-os tulajdonában álló erdőben az e törvény hatálybalépésekor már fennálló és ráépítéssel létesített épület vagy építmény önálló ingatlanként az erdőt vagyonkezelő 100%-os állami tulajdonú gazdasági társaság mint ráépítő tulajdonaként az ingatlan-nyilvántartásban feltüntethető. Az így feltüntetett ingatlant az Adattárból törölni kell.
+(10) Az állam 100%-os tulajdonában álló erdőben a 2013. január 1. napján már fennálló és ráépítéssel létesített épület vagy építmény önálló ingatlanként az erdőt vagyonkezelő 100%-os állami tulajdonú gazdasági társaság mint ráépítő tulajdonaként az ingatlan-nyilvántartásban feltüntethető. Az így feltüntetett ingatlant az Adattárból törölni kell.
+
+(10a) A (10) bekezdés alkalmazásában az 1. mellékletben meghatározott gazdasági társaságokat kell az erdőt vagyonkezelő 100%-os állami tulajdonú gazdasági társaságnak tekinteni.
 
 (11) Az (5) bekezdés rendelkezéseit nem kell alkalmazni az állam tulajdonában és a Maradványvagyon-hasznosító Zártkörűen Működő Részvénytársaság vagyonkezelésében lévő ingatlanoknak az egyes otthonteremtési feladatok karitatív szervezetek általi átvállalásáról szóló 2021. évi LXXXVI. törvény alapján az MR Közösségi Lakásalap Közhasznú Nonprofit Korlátolt Felelősségű Társaság részére ingyenesen történő tulajdonba adására.

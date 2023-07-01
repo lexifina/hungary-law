@@ -80,13 +80,13 @@ c) faapríték;
 
 35. kellő gondosság elve: a 995/2010/EU európai parlamenti és tanácsi rendelet 6. cikkében meghatározott rendszer, valamint a fát és fatermékeket piaci forgalomba bocsátó piaci szereplők kötelezettségeinek meghatározásáról szóló 995/2010 európai parlamenti és tanácsi rendelet által előírt, a kellő gondosság elvén alapuló rendszerre, valamint az ellenőrző szervezetek felett végzendő ellenőrzések gyakoriságára és jellegére vonatkozó részletes szabályokról szóló, 2012. július 6-i 607/2012/EU bizottsági végrehajtási rendeletben meghatározott eljárási kötelezettségek összessége;
 
-36. nyomon követhetőséget, származást igazoló dokumentumok: a nyomon követhetőséget és a kellő gondosság elvének való megfelelést igazoló dokumentumok;
+36. származást igazoló dokumentum: a fa és a fatermék 995/2010/EU európai parlamenti és tanácsi rendelet melléklete szerinti beazonosítását biztosító megnevezését, mennyiségét, fafaját, eladójának és vásárlójának nevét és címét tartalmazó, továbbá a kitermelés helyét, valamint a jogszabályoknak való megfelelést igazoló dokumentumok;
 
 37. fatermék: a 995/2010/EU európai parlamenti és tanácsi rendelet 2. cikk a) pontjában meghatározott fa és fatermék;
 
-38. nyomon követhetőség, származás igazolás: a 995/2010/EU európai parlamenti és tanácsi rendelet 5. cikkében meghatározott kötelezettségek;
+38. nyomon követhetőség: annak biztosítása, hogy az Európai Unió belső piacán forgalomba hozott fa vagy fatermék és annak származása beazonosítható, végigkísérhető legyen a faanyag kereskedelmi lánchoz tartozó tevékenység minden szakaszában;
 
-39. szállítmány: az egy szállítóeszközbe rakott, egy címzettnek feladott, egy fuvarokmánnyal szállított áru;
+39. szállítmány: az egy szállítóeszközbe, egy felrakodási helyen felrakott és egy címzettnek azonos lerakodási hellyel feladott, azonos fuvarokmánnyal szállított áru;
 
 40. szállítmányt kísérő dokumentáció: számla vagy szállítólevél, amely tartalmazza az adott fatermék csomagolási egységein feltüntetett, az adott árutétel vagy a szállítmány nyomon követését szolgáló jelzést is;
 

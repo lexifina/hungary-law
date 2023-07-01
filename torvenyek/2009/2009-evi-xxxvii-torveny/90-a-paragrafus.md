@@ -8,7 +8,7 @@
 
 (5) E törvényben és az Európai Unió közvetlenül alkalmazandó jogi aktusaiban előírt, a fatermék nyomon követhetőségére vonatkozó előírások, kötelezettségek betartásának elmulasztása, vagy megszegése esetén vélelmezni kell, hogy a fatermék illegális kitermelésből származik.
 
-(6) Az illegális kitermelések megakadályozása, illetve a faanyag kereskedelmi láncban levő fatermék nyomon követhetőségének és – a szükséges esetekben – forgalomból történő visszahívhatósága érdekében a faanyag kereskedelmi lánc valamennyi szereplőjének az e törvény végrehajtására kiadott jogszabályban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusaiban meghatározott, kellő gondosság elvén alapuló nyomon követhetőségi eljárást kell létrehoznia vagy igénybe vennie és ahhoz kapcsolódóan naprakész dokumentációs rendszert kell működtetnie.
+(6) Az illegális kitermelések megakadályozása, illetve a faanyag kereskedelmi láncban levő fatermék nyomon követhetőségének és – a szükséges esetekben – forgalomból történő visszahívhatósága érdekében a faanyag kereskedelmi lánc valamennyi szereplőjének az e törvény végrehajtására kiadott rendeletben, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusaiban meghatározott, eljárások, nyilvántartások, valamint az azokat alátámasztó, egymásnak egyértelműen megfeleltethető származást igazoló dokumentumok zárt rendszerét (kellő gondosság elvén alapuló nyomon követhetőségi eljárás) kell létrehoznia vagy igénybe vennie és ahhoz kapcsolódóan naprakész dokumentációs rendszert kell működtetnie.
 
 (7) A faanyag kereskedelmi lánc szereplője köteles
 

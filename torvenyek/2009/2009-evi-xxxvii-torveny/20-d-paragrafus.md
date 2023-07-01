@@ -4,7 +4,7 @@ a) olyan gazdálkodást folytat, amely súlyosan veszélyezteti az erdőnek min�
 
 b) az erdőfelújítási kötelezettségének nem tesz eleget, vagy
 
-c) haszonvételi jogosultságát az erdészeti hatóság jogerősen korlátozta.
+c) haszonvételi jogosultságát az erdészeti hatóság véglegessé vált határozatában korlátozta.
 
 (2) Ha az erdőgazdálkodói nyilvántartásba vétel alapjául szolgáló többlethasználati megállapodás vagy földhasználati szerződés felmondása igazoltan folyamatban van, akkor a tulajdonos vagy az érintett tulajdonostársak tulajdoni hányad alapján számított 25%-a kérelmére az erdészeti hatóság az erdőgazdálkodó haszonvételi jogosultságát átmeneti időszakra korlátozza. Az erdészeti hatóság az erdőgazdálkodó haszonvételi jogosultságának korlátozását visszavonja, ha a szerződés nem került felmondásra.
 
