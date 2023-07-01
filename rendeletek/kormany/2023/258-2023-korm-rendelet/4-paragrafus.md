@@ -1,0 +1,1 @@
+4. § A védett személyek és a kijelölt létesítmények védelméről szóló 160/1996. (XI. 5.) Korm. rendelet 8/E. § (3) bekezdés a) pontjában a „Köztársasági Elnök Hivatala” szövegrész helyébe a „Sándor-palota” szöveg lép.
