@@ -1,5 +1,3 @@
-## 4. § A Hivatal elnöke a Hivatal tevékenységéről és az Alap előirányzatának felhasználásáról a tárgyévet követő év június 15. napjáig számol be az Országgyűlésnek, illetve külön felkérésre tájékoztatást ad az Országgyűlés feladatkörrel rendelkező bizottságának.
-
 ## 3. A Hivatal feladatai
 
 5. § (1) A Hivatal a tudománypolitika koordinációjáért felelős miniszter irányítása mellett ellátja az alábbi feladatokat:
@@ -10,7 +8,7 @@ b) ellátja az Alappal kapcsolatos azon feladatokat, amelyeket törvény nem uta
 
 c) az Alap terhére finanszírozott kutatás-fejlesztési és innovációs pályázatokat kezelő szerv minőségében ellátott feladatai keretében
 
-ca) közzéteszi a tudománypolitika koordinációjáért felelős miniszter által jóváhagyott pályázati kiírást, ellátja a pályázati kiírás szerinti értékelés és döntéshozatal megszervezését és lebonyolítását,
+ca)[^2] közzéteszi a tudománypolitika koordinációjáért felelős miniszter által jóváhagyott pályázati kiírást, és megszervezi a döntéshozatal előkészítésével kapcsolatos feladatokat,
 
 cb) támogatói okiratot ad ki, támogatási szerződést köt,
 
@@ -18,7 +16,7 @@ cc) nyomon követi és ellenőrzi a nyertes pályázatokat,
 
 d) előkészíti a tudománypolitika koordinációjáért felelős miniszter támogatási döntését a törvény, kormányrendelet, kormányhatározat, nemzetközi szerződés és egyedi támogatási kérelem alapján az Alap terhére nyújtott hazai közfinanszírozású támogatások tekintetében,
 
-e) részt vesz az uniós társfinanszírozásban megvalósuló Gazdaságfejlesztési Operatív Program zárását követően, kutatás-fejlesztésre és innovációra fordított forrásai tekintetében felmerülő egyes feladatok ellátásában,
+e)[^3] részt vesz az uniós társfinanszírozásban megvalósuló Gazdaságfejlesztési és Innovációs Operatív Program, valamint a Gazdaságfejlesztési és Innovációs Operatív Program Plusz kutatás-fejlesztésre és innovációra fordított forrásai tekintetében felmerülő egyes feladatok – különösen projektfejlesztési szolgáltatások nyújtása – ellátásában,
 
 f) ellátja az operatív programok innovációval összefüggő célkitűzéseit szolgáló költségvetési támogatásokkal kapcsolatos, a szakpolitikai felelős hatáskörébe tartozó azon feladatokat, amelyeket a tudománypolitika koordinációjáért felelős miniszter mint szakpolitikai felelős ráruház,
 
@@ -26,23 +24,23 @@ g) ellátja a kutatás-fejlesztés és az innováció területén folyó nemzetk
 
 h) részt vesz a Magyarországnak nyújtott külföldi támogatások kutatás-fejlesztési és innovációs célú felhasználásában és koordinálásában,
 
-i) közreműködik az Európai Unió kutatás-fejlesztési és innovációs céljainak elérésében, így különösen a kutatás-fejlesztési és innovációs keretprogram hazai feladatainak ellátásában,
+i)[^4] közreműködik az Európai Unió kutatás-fejlesztési és innovációs céljainak elérésében, így különösen a kutatás-fejlesztési és innovációs keretprogram hazai feladatainak ellátásában, és ellátja az Európai Unió kutatás-fejlesztési és innovációs keretprogrammal kapcsolatos nemzeti kapcsolattartói feladatait,
 
 j) jogszabály vagy nemzetközi megállapodás alapján ellátja a nemzetközi tudományos és technológiai együttműködésből adódó feladatokat,
 
-k) versenyképességük növelése érdekében elősegíti a mikro-, kis- és középvállalkozások innovációs tevékenységét,
+k)[^5] országos kutatás-fejlesztési és innovációs támogatási programok – ideértve az Alapot is – programstratégiájának és tervezésének megalapozását szolgáló elemzéseket, értékeléseket, koncepciókat készít, nyomon követi és értékeli a támogatási programokat,
 
-l) országos kutatás-fejlesztési és innovációs támogatási programok – ideértve az Alapot is – programstratégiájának és tervezésének megalapozását szolgáló elemzéseket, értékeléseket, koncepciókat készít, nyomon követi és értékeli a támogatási programokat,
+l)[^6] támogatja az elektronikus információs adatbázisok és könyvtárak fejlesztését,
 
-m) támogatja a kutatás-fejlesztési és innovációs tevékenységgel közvetlenül összefüggő konferenciák, szakkiállítások, kiadványok megjelentetését, elektronikus információs adatbázisok és könyvtárak fejlesztését, valamint kutatás-fejlesztési és innovációs célú díjak adományozását,
+m)[^7] közreműködik a hallgatói kiválóság, a tehetséggondozás, valamint az oktatói és kutatói kiválóság támogatása és ösztönzése kormányzati feladatainak ellátásában,
 
-n) a kutatás-fejlesztés és az innovációs szektor szereplői innovációs teljesítményének erősítése, valamint a pályázói eredményesség növelése érdekében innovációs szolgáltatást nyújt, így különösen előmozdítja a kutatás-fejlesztési és innovációs szereplők közötti együttműködéseket, kapcsolatot tart szakmai szervezetekkel, elősegíti a pályázati aktivitást, az innovációs tudatosságot, piactámogató szakértői hálózatot alakít ki és működtet,
+n)[^8] ellátja a Nemzeti Tudománypolitikai Tanács titkárságának feladatait,
 
-o) közreműködik a hallgatói kiválóság, a tehetséggondozás, valamint az oktatói és kutatói kiválóság támogatása és ösztönzése kormányzati feladatainak ellátásában, ehhez kapcsolódóan működteti a nemzeti felsőoktatásról szóló törvény szerinti Országos Tudományos Diákköri Tanács titkárságát.
+o)[^9] ellátja a mindenkori hazai intelligens szakosodási stratégia kidolgozásával, végrehajtásának nyomon követésével és értékelésével kapcsolatos szakmai feladatokat, ennek keretében nyomon követi és értékeli a közfinanszírozással megvalósuló tudományos, kutatás-fejlesztési és innovációs programokat, biztosítja a kapcsolódó vállalkozói tényfeltárás folyamatát, és ellátja az ezzel összefüggő disszeminációs feladatokat,
 
-p)[^1] a Nemzeti Tudománypolitikai Tanács titkárságának feladatait a Hivatal látja el.
+p)[^10] ellátja a kutatási és technológiai infrastruktúrák monitorozási feladatait, továbbá minősítési rendszert biztosít a Magyarország területén működő, nemzetközi szinten jelentős kutatási infrastruktúrák számára, amely minősítés a vonatkozó támogatási felhívások esetében a minősítés meghatározott időszaka alatt felhasználható,
 
-q)[^2] a tulajdonosi joggyakorlása alatt álló gazdasági társaság útján − a felsőoktatásért felelős miniszter irányításával − közreműködik a felsőoktatási képzések és a felsőoktatási intézmények képzési tartalmának megújításában.
+q)[^11] előmozdítja a nyílt tudomány kezdeményezéseket.
 
 (2) A Hivatal a hazai közfinanszírozású támogatások tekintetében
 
@@ -78,9 +76,21 @@ g) feladatkörében együttműködik Magyarország külképviseleteivel, kapcsol
 
 (4) A Hivatal elnöke a (3) bekezdésben meghatározott feladatok végrehajtásának részletes szabályairól a Kormány feladatkörében érintett tagjával kötött megállapodásban rendelkezhet.
 
-(5) Feladatai ellátása során a Hivatal együttműködik az ágazati kutatás-fejlesztési és innovációs tevékenységet illetően a feladatkörében eljáró érintett miniszterrel, államigazgatási szervvel, a Magyar Tudományos Akadémiával, az Eötvös Loránd Kutatási Hálózat Titkárságával és más kutatás-fejlesztéssel és innovációval foglalkozó szervezetekkel és intézményekkel.
+(5)[^12] Feladatai ellátása során a Hivatal együttműködik az ágazati kutatás-fejlesztési és innovációs tevékenységet illetően a feladatkörében eljáró államigazgatási szervvel, a Magyar Tudományos Akadémiával, az Eötvös Loránd Kutatási Hálózat Titkárságával és más kutatás-fejlesztéssel és innovációval foglalkozó szervezetekkel és intézményekkel.
 
 (6) A Hivatal elnöke a Hivatal feladatkörét érintően a tudománypolitika koordinációjáért felelős miniszteren keresztül jogszabály megalkotását és módosítását kezdeményezheti.
 
-[^1]: Az 5. § (1) bekezdés p) pontját az 543/2020. (XII. 2.) Korm. rendelet 2. §-a iktatta be.
-[^2]: Az 5. § (1) bekezdés q) pontját a 746/2021. (XII. 21.) Korm. rendelet 17. §-a iktatta be, szövege a 137/2023. (IV. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
+(7)[^13] A Hivatal együttműködik az NKFI Alap kezelésében a KFI tv. 11. § (3) bekezdése szerint közreműködő gazdasági társasággal.
+
+[^2]: Az 5. § (1) bekezdés c) pont ca) alpontja a 246/2023. (VI. 22.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 5. § (1) bekezdés e) pontja a 246/2023. (VI. 22.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^4]: Az 5. § (1) bekezdés i) pontja a 246/2023. (VI. 22.) Korm. rendelet 15. § (3) bekezdésével megállapított szöveg.
+[^5]: Az 5. § (1) bekezdés k) pontja a 246/2023. (VI. 22.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
+[^6]: Az 5. § (1) bekezdés l) pontja a 246/2023. (VI. 22.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
+[^7]: Az 5. § (1) bekezdés m) pontja a 246/2023. (VI. 22.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
+[^8]: Az 5. § (1) bekezdés n) pontja a 246/2023. (VI. 22.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
+[^9]: Az 5. § (1) bekezdés o) pontja a 246/2023. (VI. 22.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
+[^10]: Az 5. § (1) bekezdés p) pontját az 543/2020. (XII. 2.) Korm. rendelet 2. §-a iktatta be, szövege a 246/2023. (VI. 22.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
+[^11]: Az 5. § (1) bekezdés q) pontját a 746/2021. (XII. 21.) Korm. rendelet 17. §-a iktatta be, szövege a 246/2023. (VI. 22.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
+[^12]: Az 5. § (5) bekezdése a 246/2023. (VI. 22.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
+[^13]: Az 5. § (7) bekezdését a 246/2023. (VI. 22.) Korm. rendelet 15. § (7) bekezdése iktatta be.
