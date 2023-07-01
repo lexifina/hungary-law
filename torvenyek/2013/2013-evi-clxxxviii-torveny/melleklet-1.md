@@ -8,7 +8,7 @@ A villamos energia egyetemes szolgáltató, illetve a villamosenergia-elosztó �
 
 ## 9K08751P_0 | „Szolgáltató logója: | | | Villamos energia x. részszámla | Szolgáltató neve: | x. sz. eredeti példány | Címe | Oldalszám | Adószáma: | Számla sorszáma: | Bankszámlaszáma: | |
 
-## „”
+## „
 
 ## 3. A részszámla harmadik oldala: „oldalszám
 

@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-188-00-00
 | 2017-07-01 | 2016. évi LXVIII. törvény | 2013-188-00-00.13 |
 | 2019-04-26 | 2019. évi XXXIV. törvény | 2013-188-00-00.14 |
 | 2019-12-20 | 2019. évi CI. törvény | 2013-188-00-00.15 |
+| 2023-07-01 | 2023. évi XLV. törvény | 2013-188-00-00.18 |

@@ -18,7 +18,7 @@ c) távhőszolgáltatás esetében a #DDA0DD kódszámú (pantone 251; plum),
 
 d) a víziközmű-szolgáltatás esetében #00FFFF kódszámú (pantone 297; aqua),
 
-e) hulladékgazdálkodási közszolgáltatás esetében #32CD32 kódszámú (pantone 802 2x; limegreen),
+e) hulladékról szóló törvény szerinti hulladékgazdálkodási közszolgáltatási résztevékenység (a továbbiakban: hulladékgazdálkodási közszolgáltatás) esetében #32CD32 kódszámú (pantone 802 2x; limegreen),
 
 f)
 
