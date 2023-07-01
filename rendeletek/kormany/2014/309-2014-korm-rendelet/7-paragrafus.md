@@ -1,5 +1,3 @@
-## szerinti adattartalommal vezeti.
-
 7. § (1) A kereskedő és a hulladékkezelő a nyilvántartást
 
 a) nem veszélyes hulladék esetén az 1. melléklet 5. pontja,

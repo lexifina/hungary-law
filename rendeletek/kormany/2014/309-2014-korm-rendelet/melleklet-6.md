@@ -1,5 +1,3 @@
-## A hulladéklerakók éves adatszolgáltatásához szükséges adatcsomag adattartalma (EHIR: HLR)
-
 ## 1. A hulladéklerakó azonosító adatai:
 
 ## a) KTJ azonosító;
@@ -168,13 +166,13 @@
 
 ## m) kis szemcseméretű hulladék.
 
-6. melléklet a 309/2014. (XII. 11.) Korm. rendelethez[^124]
+6. melléklet a 309/2014. (XII. 11.) Korm. rendelethez[^125]
 
-## Az újrahasználatra előkészített vagy újrafeldolgozott települési hulladékra vonatkozó célérték kiszámításának szabályai
+Az újrahasználatra előkészített vagy újrafeldolgozott települési hulladékra vonatkozó célérték kiszámításának szabályai
 
 1. A Ht. 92. §-ában meghatározott célérték elérésének kiszámítása során a következők szerint kell eljárni:
 
-1.1.[^125] ki kell számítani az egy adott naptári évben képződött és újrahasználatra előkészített vagy újrafeldolgozott települési hulladék mennyiségét;
+1.1.[^126] ki kell számítani az egy adott naptári évben képződött és újrahasználatra előkészített vagy újrafeldolgozott települési hulladék mennyiségét;
 
 1.2. az újrahasználatra előkészített települési hulladék mennyiségét azon települési hulladékká vált termékek vagy összetevők mennyiségeként kell kiszámítani, amelyek átestek valamennyi, a hulladék további válogatás vagy előfeldolgozás nélküli újrahasználatához szükséges ellenőrzési, tisztítási vagy javítási műveleten;
 
@@ -186,7 +184,7 @@
 
 4. A Ht. 92. §-ában meghatározott célértékek elérésének kiszámítása céljából újrafeldolgozottnak lehet tekinteni az aerob vagy anaerob kezelésre kerülő, biológiailag lebomló települési hulladékot, ha a kezelés eredményeképpen komposzt, fermentátum vagy egyéb anyag jön létre, amely az alapanyaghoz viszonyítva hasonló mennyiségben rendelkezik újrafeldolgozott tartalommal, és amely újrafeldolgozott termékként vagy anyagként használandó fel. Ha a létrejött anyagot talajon használják fel, azt a tagállamok csak akkor tekinthetik újrafeldolgozottnak, ha ez a felhasználás mezőgazdasági vagy ökológiai szempontból előnyös.
 
-5.[^126] 2027. január 1-jétől csak akkor tekinthető az aerob vagy anaerob kezelésre kerülő települési biohulladék újrafeldolgozottnak, ha azt a Ht. 12. §-ának megfelelően külön gyűjtötték be vagy a képződés helyén különítették el.
+5.[^127] 2027. január 1-jétől csak akkor tekinthető az aerob vagy anaerob kezelésre kerülő települési biohulladék újrafeldolgozottnak, ha azt a Ht. 12. §-ának megfelelően külön gyűjtötték be vagy a képződés helyén különítették el.
 
 6. A Ht. 92. §-ában megállapított célérték elérésének kiszámítása céljából újrafeldolgozottnak lehet tekinteni azt a hulladékanyag-mennyiséget, amely az átalakítás előtti előkészítő művelet eredményeként megszűnik hulladék lenni, ha ezt követően akár az eredeti, akár más célú termékké vagy anyaggá történő újrahasználatra való előkészítésre szánják. Az olyan, tüzelőanyagként vagy más módon energia előállítására vagy elégetés, feltöltés vagy lerakóban elhelyezés útján használt anyagok, amelyek esetében megszűnt a hulladékstátusz, az újrafeldolgozási célértékek elérése szempontjából nem vehetők figyelembe.
 
@@ -196,6 +194,6 @@
 
 9. A célérték kiszámítása során figyelembe kell venni a hulladékokkal kapcsolatos adatoknak a 2008/98/EK európai parlamenti és tanácsi irányelvnek megfelelően való kiszámítására, ellenőrzésére és jelentésére vonatkozó szabályok megállapításáról és a C(2012) 2384 bizottsági végrehajtási határozat hatályon kívül helyezéséről szóló, 2019. június 7-i (EU) 2019/1004 bizottsági végrehajtási határozatban foglaltakat.
 
-[^124]: A 6. mellékletet a 158/2021. (III. 31.) Korm. rendelet 28. § a) pontja iktatta be.
-[^125]: A 6. melléklet 1.1. pontja a 700/2021. (XII. 13.) Korm. rendelet 4. § o) pontja szerint módosított szöveg.
-[^126]: A 6. melléklet 5. pontja a 700/2021. (XII. 13.) Korm. rendelet 4. § p) pontja szerint módosított szöveg.
+[^125]: A 6. mellékletet a 158/2021. (III. 31.) Korm. rendelet 28. § a) pontja iktatta be.
+[^126]: A 6. melléklet 1.1. pontja a 700/2021. (XII. 13.) Korm. rendelet 4. § o) pontja szerint módosított szöveg.
+[^127]: A 6. melléklet 5. pontja a 700/2021. (XII. 13.) Korm. rendelet 4. § p) pontja szerint módosított szöveg.

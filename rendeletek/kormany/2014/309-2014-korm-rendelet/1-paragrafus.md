@@ -8,6 +8,8 @@ b)[^2] a hulladéktermelőre, a hulladékbirtokosra, a gyűjtőre, a szállító
 
 c)[^3] a hulladéklerakóra és annak üzemeltetőjére
 
+terjed ki.
+
 [^1]: Az 1. § a) pontja a 189/2017. (VII. 6.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.
 [^2]: Az 1. § b) pontja a 189/2017. (VII. 6.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
 [^3]: Az 1. § c) pontját a 189/2017. (VII. 6.) Korm. rendelet 1. § (1) bekezdése iktatta be.

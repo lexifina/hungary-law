@@ -1,3 +1,3 @@
-## 19. §[^47]
+20. §[^49]
 
-[^47]: A 19. §-t a 189/2017. (VII. 6.) Korm. rendelet 4. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^49]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

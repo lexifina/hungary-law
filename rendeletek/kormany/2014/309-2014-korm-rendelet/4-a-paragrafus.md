@@ -8,5 +8,7 @@ a) a termelő telephelye,
 
 b) amennyiben a hulladék képződését eredményező munkavégzés helyén a termelőnek nem kell nyilvántartást vezetnie és a termelőnek több telephelye van, akkor a munkavégzéshez legközelebbi telephelye
 
+szerinti nyilvántartásához tartozik.
+
 [^14]: A 4/A. §-t a 196/2016. (VII. 13.) Korm. rendelet 5. § (1) bekezdése iktatta be.
 [^15]: A 4/A. § (1) bekezdlése a 700/2021. (XII. 13.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.

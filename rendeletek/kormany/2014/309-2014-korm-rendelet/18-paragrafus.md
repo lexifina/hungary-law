@@ -1,6 +1,6 @@
-## 17/A. §[^39] A hulladékkal kapcsolatos nyilvántartási és adatszolgáltatási kötelezettségekről szóló 309/2014. (XII. 11.) Korm. rendelet módosításáról szóló 700/2021. (XII. 13.) Korm. rendelet (a továbbiakban: Mód. rendelet) hatálybalépésekor[^40] hulladékgazdálkodási engedéllyel rendelkező veszélyeshulladék-gyűjtő, -kereskedő, -kezelő, valamint a nemveszélyeshulladék-hasznosító és -ártalmatlanító az adatszolgáltatási kötelezettségében a Mód. rendelet hatálybalépésével bekövetkezett változást 2022. február 20-ig a 2. melléklet szerinti adattartalommal bejelenti.
+## 17/A. §[^40] A hulladékkal kapcsolatos nyilvántartási és adatszolgáltatási kötelezettségekről szóló 309/2014. (XII. 11.) Korm. rendelet módosításáról szóló 700/2021. (XII. 13.) Korm. rendelet (a továbbiakban: Mód. rendelet) hatálybalépésekor[^41] hulladékgazdálkodási engedéllyel rendelkező veszélyeshulladék-gyűjtő, -kereskedő, -kezelő, valamint a nemveszélyeshulladék-hasznosító és -ártalmatlanító az adatszolgáltatási kötelezettségében a Mód. rendelet hatálybalépésével bekövetkezett változást 2022. február 20-ig a 2. melléklet szerinti adattartalommal bejelenti.
 
-18. § (1)[^41] Ez a rendelet
+18. § (1)[^42] Ez a rendelet
 
 a) a hulladékokról és egyes irányelvek hatályon kívül helyezéséről szóló, 2008. november 19-i 2008/98/EK európai parlamenti és tanácsi irányelvnek;
 
@@ -12,7 +12,7 @@ d) a hulladékokról szóló 2008/98/EK irányelv módosításáról szóló, 20
 
 e) a csomagolásról és a csomagolási hulladékról szóló 94/62/EK irányelv módosításáról szóló, 2018. május 30-i (EU) 2018/852 európai parlamenti és tanácsi irányelvnek
 
-## való megfelelést szolgálja.
+való megfelelést szolgálja.
 
 (2) Ez a rendelet
 
@@ -22,21 +22,23 @@ b) az Európai Szennyezőanyag-kibocsátási és -szállítási Nyilvántartás 
 
 c) a 2008/98/EK irányelv 11. cikkének (2) bekezdésében rögzített célok teljesítésének igazolására szolgáló szabályok és számítási módszerek megállapításáról szóló, 2011. november 18-i 2011/753/EU bizottsági határozat
 
-d)[^42] a környezetben tartósan megmaradó szerves szennyező anyagokról szóló, 2019. június 20-i (EU) 2019/1021 európai parlamenti és a tanácsi rendelet 7. cikk (6) bekezdésének
+d)[^43] a környezetben tartósan megmaradó szerves szennyező anyagokról szóló, 2019. június 20-i (EU) 2019/1021 európai parlamenti és a tanácsi rendelet 7. cikk (6) bekezdésének
 
-e)[^43] a hulladékokkal kapcsolatos adatoknak a 2008/98/EK európai parlamenti és tanácsi irányelvnek megfelelően való kiszámítására, ellenőrzésére és jelentésére vonatkozó szabályok megállapításáról és a C(2012) 2384 bizottsági végrehajtási határozat hatályon kívül helyezéséről szóló, 2019. június 7-i (EU) 2019/1004 bizottsági végrehajtási határozat;
+e)[^44] a hulladékokkal kapcsolatos adatoknak a 2008/98/EK európai parlamenti és tanácsi irányelvnek megfelelően való kiszámítására, ellenőrzésére és jelentésére vonatkozó szabályok megállapításáról és a C(2012) 2384 bizottsági végrehajtási határozat hatályon kívül helyezéséről szóló, 2019. június 7-i (EU) 2019/1004 bizottsági végrehajtási határozat;
 
-f)[^44] a 2008/98/EK európai parlamenti és tanácsi irányelvnek az élelmiszer-hulladék szintjének egységes mérésére vonatkozó közös módszertan és minimális minőségi követelmények tekintetében történő kiegészítéséről szóló, 2019. május 3-i (EU) 2019/1597 felhatalmazáson alapuló bizottsági határozat;
+f)[^45] a 2008/98/EK európai parlamenti és tanácsi irányelvnek az élelmiszer-hulladék szintjének egységes mérésére vonatkozó közös módszertan és minimális minőségi követelmények tekintetében történő kiegészítéséről szóló, 2019. május 3-i (EU) 2019/1597 felhatalmazáson alapuló bizottsági határozat;
 
-g)[^45] a hulladéklerakóban lerakott települési hulladékra vonatkozó adatoknak az 1999/31/EK tanácsi irányelvvel összhangban történő kiszámítására, ellenőrzésére és jelentésére vonatkozó szabályok meghatározásáról és a 2000/738/EK bizottsági határozat hatályon kívül helyezéséről szóló, 2019. november 6-i (EU) 2019/1885 bizottsági végrehajtási határozat;
+g)[^46] a hulladéklerakóban lerakott települési hulladékra vonatkozó adatoknak az 1999/31/EK tanácsi irányelvvel összhangban történő kiszámítására, ellenőrzésére és jelentésére vonatkozó szabályok meghatározásáról és a 2000/738/EK bizottsági határozat hatályon kívül helyezéséről szóló, 2019. november 6-i (EU) 2019/1885 bizottsági végrehajtási határozat;
 
-h)[^46] a 2008/98/EK európai parlamenti és tanácsi irányelvvel összhangban az élelmiszer-hulladékra vonatkozó adatok jelentéséhez és a minőség-ellenőrzési jelentés benyújtásához használandó formátum megállapításáról szóló, 2019. november 28-i (EU) 2019/2000 bizottsági végrehajtási határozat
+h)[^47] a 2008/98/EK európai parlamenti és tanácsi irányelvvel összhangban az élelmiszer-hulladékra vonatkozó adatok jelentéséhez és a minőség-ellenőrzési jelentés benyújtásához használandó formátum megállapításáról szóló, 2019. november 28-i (EU) 2019/2000 bizottsági végrehajtási határozat
 
-[^39]: A 17/A. §-t a 700/2021. (XII. 13.) Korm. rendelet 2. §-a iktatta be.
-[^40]: A hatálybalépés időpontja 2022. január 1.
-[^41]: A 18. § (1) bekezdése a 158/2021. (III. 31.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
-[^42]: A 18. § (2) bekezdés d) pontját a 376/2020. (VII. 30.) Korn. rendelet 20. §-a iktatta be.
-[^43]: A 18. § (2) bekezdés e) pontját a 158/2021. (III. 31.) Korm. rendelet 27. § (2) bekezdése iktatta be.
-[^44]: A 18. § (2) bekezdés f) pontját a 158/2021. (III. 31.) Korm. rendelet 27. § (2) bekezdése iktatta be.
-[^45]: A 18. § (2) bekezdés g) pontját a 158/2021. (III. 31.) Korm. rendelet 27. § (2) bekezdése iktatta be.
-[^46]: A 18. § (2) bekezdés h) pontját a 158/2021. (III. 31.) Korm. rendelet 27. § (2) bekezdése iktatta be.
+végrehajtásához szükséges rendelkezéseket állapít meg.
+
+[^40]: A 17/A. §-t a 700/2021. (XII. 13.) Korm. rendelet 2. §-a iktatta be.
+[^41]: A hatálybalépés időpontja 2022. január 1.
+[^42]: A 18. § (1) bekezdése a 158/2021. (III. 31.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
+[^43]: A 18. § (2) bekezdés d) pontját a 376/2020. (VII. 30.) Korn. rendelet 20. §-a iktatta be.
+[^44]: A 18. § (2) bekezdés e) pontját a 158/2021. (III. 31.) Korm. rendelet 27. § (2) bekezdése iktatta be.
+[^45]: A 18. § (2) bekezdés f) pontját a 158/2021. (III. 31.) Korm. rendelet 27. § (2) bekezdése iktatta be.
+[^46]: A 18. § (2) bekezdés g) pontját a 158/2021. (III. 31.) Korm. rendelet 27. § (2) bekezdése iktatta be.
+[^47]: A 18. § (2) bekezdés h) pontját a 158/2021. (III. 31.) Korm. rendelet 27. § (2) bekezdése iktatta be.

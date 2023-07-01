@@ -1,5 +1,3 @@
-## szerinti nyilvántartásához tartozik.
-
 5. § (1) A közvetítő a nyilvántartást
 
 a) nem veszélyes hulladék esetén az 1. melléklet 3. pontja,

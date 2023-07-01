@@ -8,17 +8,17 @@ b) nem veszélyes hulladék esetén – a c) pont kivételével – a 2000 kg-ot
 
 c) nem veszélyes építési-bontási hulladék esetén az 5000 kg-ot
 
-## meghaladja.
+meghaladja.
 
-(3)[^21] Nem kell adatszolgáltatást teljesíteni a 3. § (6) bekezdésében meghatározott esetekben.
+(3)[^22] Nem kell adatszolgáltatást teljesíteni a 3. § (6) bekezdésében meghatározott esetekben.
 
-(4)[^22] Ha a tárgyévben a képződött hulladék mennyisége a hulladéktermelő telephelyén nem éri el a (2) bekezdésben meghatározott mennyiséget, nem volt hulladékkészlete, és nem történt hulladékátadás, az adatszolgáltatásra kötelezett hulladéktermelőnek csak a 3. melléklet 1. pontja szerinti adattartalommal kell teljesítenie az adatszolgáltatási kötelezettségét.
+(4)[^23] Ha a tárgyévben a képződött hulladék mennyisége a hulladéktermelő telephelyén nem éri el a (2) bekezdésben meghatározott mennyiséget, nem volt hulladékkészlete, és nem történt hulladékátadás, az adatszolgáltatásra kötelezett hulladéktermelőnek csak a 3. melléklet 1. pontja szerinti adattartalommal kell teljesítenie az adatszolgáltatási kötelezettségét.
 
 (5) Az adatszolgáltatásra kötelezett hulladéktermelő a képződött hulladékról évente a tárgyévet követő év március 1. napjáig szolgáltat adatot.
 
-(6)[^23] Az adatszolgáltatásra nem kötelezett hulladéktermelő a hulladékgazdálkodásért felelős miniszter által elrendelt, statisztikai kiválasztási módszerekkel történő adatfelméréskor eseti adatszolgáltatást teljesít.
+(6)[^24] Az adatszolgáltatásra nem kötelezett hulladéktermelő a hulladékgazdálkodásért felelős miniszter által elrendelt, statisztikai kiválasztási módszerekkel történő adatfelméréskor eseti adatszolgáltatást teljesít.
 
-(7)[^24] A Ht. 14. § (1) bekezdés c) pontja szerinti hulladékszállítás esetén az adatszolgáltatást
+(7)[^25] A Ht. 14. § (1) bekezdés c) pontja szerinti hulladékszállítás esetén az adatszolgáltatást
 
 a) a képződés helye szerinti telephely szerint vagy
 
@@ -30,7 +30,9 @@ bb) közvetlenül átvételi helyre, hulladékgyűjtő pontra, hulladékgyűjtő
 
 bc) több telephely esetén a munkavégzéshez legközelebbi telephelye szerint
 
-[^21]: A 11. § (3) bekezdése a 71/2016. (III. 31.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^22]: A 11. § (4) bekezdése a 158/2021. (III. 31.) Korm. rendelet 29. §-a szerint módosított szöveg.
-[^23]: A 11. § (6) bekezdése a 132/2018. (VII. 23.) Korm. rendelet 13. §-a szerint módosított szöveg.
-[^24]: A 11. § (7) bekezdését a 196/2016. (VII. 13.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+kell teljesíteni.
+
+[^22]: A 11. § (3) bekezdése a 71/2016. (III. 31.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^23]: A 11. § (4) bekezdése a 158/2021. (III. 31.) Korm. rendelet 29. §-a szerint módosított szöveg.
+[^24]: A 11. § (6) bekezdése a 132/2018. (VII. 23.) Korm. rendelet 13. §-a szerint módosított szöveg.
+[^25]: A 11. § (7) bekezdését a 196/2016. (VII. 13.) Korm. rendelet 5. § (2) bekezdése iktatta be.
