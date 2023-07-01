@@ -6,7 +6,7 @@ a) az egészségügyi szolgálati jogviszony létesítésének e törvényben fo
 
 b) az egészségügyi szolgálati munkaszerződés tartalmi elemeit,
 
-c) az egészségügyi szolgálati jogviszonyban álló személy minősítésének szabályait,
+c) az egészségügyi szolgálati jogviszonyban álló személy minősítésének szabályait, és a minősítés alapján alkalmazható illetménycsökkentés részletes feltételeit,
 
 d) az egyes fizetési fokozatokhoz tartozó illetmény felső összegét és az egészségügyi szolgáltató vezetője illetményének felső összegét,
 

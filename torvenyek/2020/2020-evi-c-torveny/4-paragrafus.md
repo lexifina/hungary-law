@@ -1,6 +1,6 @@
 ### 4. § [Összeférhetetlenség]
 
-(1) Az egészségügyi szolgálati jogviszonyban álló személy további munkavégzésre irányuló jogviszonyt, ideértve más keresőfoglalkoztatást, valamint díjazás ellenében folytatott tevékenységet is – a tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenység, a nevelőszülői foglalkoztatási jogviszony (a továbbiakban együtt: gyakorolható tevékenység) kivételével – kizárólag a Kormány által kijelölt szerv előzetes engedélyével létesíthet.
+(1) Az egészségügyi szolgálati jogviszonyban álló személy további munkavégzésre irányuló jogviszonyt, ideértve más keresőfoglalkoztatást, valamint díjazás ellenében folytatott tevékenységet is – a tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenység, a nevelőszülői foglalkoztatási jogviszony, illetve az ugyanazzal az egészségügyi szolgáltatóval kötött szakképzési munkaszerződés alapján létrejött jogviszony (a továbbiakban együtt: gyakorolható tevékenység) kivételével – kizárólag a Kormány által kijelölt szerv előzetes engedélyével létesíthet.
 
 (2) Az egészségügyi szolgálati jogviszonyban álló személy az őt foglalkoztató egészségügyi szolgáltató székhelyén vagy telephelyén kizárólag a Kormány által kijelölt szerv előzetes engedélyével végezhet olyan egészségügyi tevékenységet, amire az egészségügyi szolgálati jogviszonya nem terjed ki. Az előzetes engedély kizárólag a Kormány rendeletében meghatározott szakmában történő tevékenységvégzésre adható meg.
 

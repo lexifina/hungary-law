@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-100-00-00
 | 2022-12-03 | 2022. évi L. törvény | 2020-100-00-00.7 |
 | 2023-01-01 | 2022. évi LXXIII. törvény | 2020-100-00-00.8 |
 | 2023-06-01 | 2023. évi XIX. törvény | 2020-100-00-00.10 |
+| 2023-07-01 | 2022. évi LXXIII. törvény | 2020-100-00-00.9 |

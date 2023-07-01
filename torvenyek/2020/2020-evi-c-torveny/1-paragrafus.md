@@ -12,7 +12,7 @@ b) 4. § b) pontja szerinti egészségügyben dolgozó.
 
 (4) Az (1) bekezdés szerinti egészségügyi szolgáltatónál – az (5) bekezdésben foglalt kivétellel – csak egészségügyi szolgálati jogviszony keretében lehet egészségügyi tevékenységet és az egészségügyi szolgáltató működőképességének, illetve az egészségügyi szolgáltatások üzemeltetésének biztosítására irányuló tevékenységet végezni. Az egészségügyi szolgáltató működőképességének, illetve az egészségügyi szolgáltatások üzemeltetésének biztosítására irányuló tevékenységek szabályait a Kormány rendeletben határozza meg.
 
-(5) A (4) bekezdés nem zárja ki – a Kormány rendeletében meghatározott személyes közreműködő kivételével – a közreműködő, valamint az önkéntes segítő egészségügyi szolgáltató általi igénybevételének lehetőségét.
+(5) A (4) bekezdés nem zárja ki szakképzési munkaszerződés megkötését, továbbá – a Kormány rendeletében meghatározott személyes közreműködő kivételével – a közreműködő, valamint az önkéntes segítő egészségügyi szolgáltató általi igénybevételének lehetőségét.
 
 (5a) A kormányzati igazgatási szervként működő egészségügyi szolgáltatónál kormányzati szolgálati jogviszonyban is lehet egészségügyi tevékenységet végezni.
 
