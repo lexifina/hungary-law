@@ -1,1 +1,1 @@
-### 77. §
+77. § A közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény 4/A. § (8) bekezdésében a „7” szövegrész helyébe a „6” szöveg lép.

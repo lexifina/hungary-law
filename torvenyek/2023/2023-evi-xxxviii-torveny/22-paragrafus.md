@@ -1,1 +1,11 @@
-### 22. §
+## „g) a humán reprodukciós eljárás nyomon követése az eljárás orvosszakmai eredményességének, és ennek alapján a humán reprodukciós eljárások orvosszakmai minőségének értékelése, az értékelés szempontjainak felülvizsgálata és fejlesztése.”
+
+22. § Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 18. §-a a következő (6)–(9) bekezdéssel egészül ki:
+
+„(6) A szakmai minőségértékelésért felelős szerv a 4. § (1) bekezdés g) pontja szerinti célból az egyes humán reprodukciós eljárások végzéséhez kapcsolódó TAJ számot, nemet, születési dátumot és postai irányítószámot kezeli. Az egészségügyi ellátóhálózat, illetve az egészségbiztosítási szerv a szakmai minőségértékelésért felelős szerv megkeresésére átadja ezen adatokat a szakmai minőségértékelésért felelős szerv részére, illetve gondoskodik az adatokhoz történő hozzáférésről.
+
+(7) A szakmai minőségértékelésért felelős szerv a humán reprodukciós eljárásban érintett nő, férfi, illetve az eljárás eredményeképpen megszületett gyermek egészségügyi adatait, valamint TAJ számát, nemét, születési dátumát és postai irányítószámát a – 4. § (1) bekezdés g) pontjában foglalt cél érdekében – az érintettek személyazonosító adatainak összekapcsolásával is kezeli.
+
+(8) A (6) és (7) bekezdés szerinti személyes adatokat tartalmazó adatkezelés esetében a szakmai minőségértékelésért felelős szerv – álnevesítés alkalmazásával – az érintett személyek azonosítását lehetővé tevő adatokat – az adatok részére történő átadását követően haladéktalanul – elválasztja az érintettekre vonatkozó egyéb adatoktól, továbbá az így elválasztott adatokat olyan technikai azonosítóval látja el, amelynek ismerete nélkül a kapcsolat a szolgáltatott adatok és az érintett személy között nem állítható helyre. Az így elválasztott adatok közötti kapcsolat kizárólag a szakmai minőségértékelésért felelős szerv által, a 4. § (1) bekezdésének g) pontjában meghatározott cél elérése céljából, az ahhoz szükséges időtartamig állítható helyre. Az adatkezelési cél teljesülése esetén az adatokat haladéktalanul és véglegesen személyazonosításra alkalmatlanná kell tenni.
+
+(9) A szakmai minőségértékelésért felelős szerv a (6) és (7) bekezdés szerint kezelt személyes adatot más szerv vagy személy részére nem továbbíthat.”

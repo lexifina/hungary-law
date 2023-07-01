@@ -1,1 +1,9 @@
-### 8. §
+8. § (1) A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 24/F. § (2) és (2a) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(2) Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 9. §-ában meghatározott igénybevételre jogosult szervek az ott meghatározott célból – az e törvényben meghatározott feltételekkel – a 11. § (1) bekezdés q) pontjában meghatározott adat közlésével is igényelhetik a nyilvántartásból a természetes személyazonosító adatokat, arcképmást, aláírást és a személyazonosság igazolására alkalmas hatósági igazolvány okmányazonosítóját, valamint az érvényességére vonatkozó adatot.
+
+(2a) Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 9/A. § (1) bekezdésében meghatározott automatizált összehasonlítás igénybevételére jogosult szerv az ott meghatározott célból – az e törvényben meghatározott feltételekkel – a 11. § (1) bekezdés q) pontjában meghatározott adat közlésével is igényelheti a nyilvántartásból a természetes személyazonosító adatokat és az arcképmást.”
+
+(2) A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 24/F. §-a a következő (2b) bekezdéssel egészül ki:
+
+„(2b) Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 9. §-ában meghatározott arcképelemző tevékenység igénybevételére jogosult szervek, az ott meghatározott célból, valamint az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 9/A. § (2) és (3) bekezdésében meghatározott automatizált összehasonlítás igénybevételére jogosult szervek, továbbá az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 9/A. § (4) bekezdése szerint az e-közigazgatásért felelős miniszter a személyazonosság ellenőrzése céljából a polgár természetes személyazonosító adatai közlésével a 11. § (1) bekezdés q) pontjában meghatározott adatot igényelhetik a nyilvántartásból.”
