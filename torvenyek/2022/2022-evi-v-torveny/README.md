@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2022-5-00-00
 | 2022-09-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2022-5-00-00.6 |
 | 2022-09-02 | 2010. évi CXXX. törvény | 2022-5-00-00.7 |
 | 2023-06-30 | Nemzeti Jogszabálytár (egységes szerkezet) | 2022-5-00-00.8 |
+| 2023-07-01 | 2010. évi CXXX. törvény | 2022-5-00-00.9 |
