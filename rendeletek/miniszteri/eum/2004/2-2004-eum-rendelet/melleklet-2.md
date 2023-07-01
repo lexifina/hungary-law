@@ -480,7 +480,7 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 
 | 7101 | klinikai és mentálhigiéniai szakpszichológia |
 
-| 7104 | pszichoterápia (klinikai szakpszichológusi képesítéssel) |
+| 7104 | pszichoterápia (szakpszichológusi ráépített szakképesítéssel) |
 
 | 7106 | neuropszichológia |
 
@@ -640,22 +640,14 @@ c) vizsgával záruló képzésben szerzett képesítéssel végezhető tevéken
 
 2. A szakmai jegyzék szerint kiadott működési engedélyekben az 1. pont alatti szakmai kódok mellett a tevékenység felelős szakmai irányítójának szakképesítése szerinti szolgáltatási típust a következők szerint kell feltüntetni:
 
-a) 1-es kódot kell alkalmazni, amennyiben a működési engedély orvosi feladatra irányul,
+a) SZ1 kódot kell alkalmazni, amennyiben a működési engedély orvosi, fogorvosi feladatra irányul,
 
-b) 2-es kódot kell alkalmazni, amennyiben a működési engedély fogorvosi feladatra irányul,
+b) SZ3 kódot kell alkalmazni, amennyiben a működési engedély egyéb egészségügyi végzettséggel ellátható feladatra irányul,
 
-c) 3-as kódot kell alkalmazni, amennyiben a működési engedély gyógyszerészi feladatra irányul,
+c) SZ2 kódot kell alkalmazni, amennyiben a működési engedély szakdolgozói feladatra irányul,
 
-d) 4-es kódot kell alkalmazni, amennyiben a működési engedély egyéb felsőfokú egészségügyi szakképesítéssel ellátható feladatra irányul,
-
-e) 5-ös kódot kell alkalmazni, amennyiben a működési engedély középfokú egészségügyi szakképesítéssel ellátható feladatra irányul,
-
-f) 6-os kódot kell alkalmazni, amennyiben a működési engedély alapfokú egészségügyi szakképesítéssel ellátható feladatra irányul,
-
-g) 7-es kódot kell alkalmazni, amennyiben a működési engedély az adott egészségügyi szakmára a külön jogszabályban előírt bármely egészségügyi szakképesítéssel ellátható feladatra irányul,
-
-h) 8-as kódot kell alkalmazni, amennyiben a működési engedély az adott egészségügyi szakmára a külön jogszabályban előírt nem egészségügyi felsőfokú szakképesítéssel ellátható feladatra irányul.
+d) SZ4 kódot kell alkalmazni, amennyiben a működési engedély nem egészségügyi végzettséggel ellátható feladatra irányul.
 
 II. A működési engedélyek kiadásának alapjául szolgáló ellátási formák jegyzéke
 
-[^27]: A 2. számú melléklet az 1/2012. (V. 31.) EMMI rendelet 12. §-ával megállapított, a 73/2013. (XII. 2.) EMMI rendelet 7. §-a, az 52/2014. (XII. 19.) EMMI rendelet 4. §-a, a 42/2015. (IX. 18.) EMMI rendelet 13. §-a, az 54/2015. (XI. 24.) EMMI rendelet 23. §-a, a 7/2016. (III. 30.) EMMI rendelet 6. §-a, a 44/2016. (XII. 28.) EMMI rendelet 26. §-a, a 28/2017. (X. 25.) EMMI rendelet 29. §-a, a 24/2019. (X. 31.) EMMI rendelet 3. §-a, az 57/2021. (XII. 21.) EMMI rendelet 1. §-a, az 59/2021. (XII. 28.) EÜM rendelet 4. §-a, a 3/2022. (I. 14.) EMMI rendelet 4. §-a szerint módosított szöveg.
+[^27]: A 2. számú melléklet az 1/2012. (V. 31.) EMMI rendelet 12. §-ával megállapított, a 73/2013. (XII. 2.) EMMI rendelet 7. §-a, az 52/2014. (XII. 19.) EMMI rendelet 4. §-a, a 42/2015. (IX. 18.) EMMI rendelet 13. §-a, az 54/2015. (XI. 24.) EMMI rendelet 23. §-a, a 7/2016. (III. 30.) EMMI rendelet 6. §-a, a 44/2016. (XII. 28.) EMMI rendelet 26. §-a, a 28/2017. (X. 25.) EMMI rendelet 29. §-a, a 24/2019. (X. 31.) EMMI rendelet 3. §-a, az 57/2021. (XII. 21.) EMMI rendelet 1. §-a, az 59/2021. (XII. 28.) EÜM rendelet 4. §-a, a 3/2022. (I. 14.) EMMI rendelet 4. §-a, a 23/2023. (VI. 30.) BM rendelet 16. §-a szerint módosított szöveg.

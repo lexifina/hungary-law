@@ -1,50 +1,50 @@
-| kód | Ellátási forma csoport | Ellátási forma név |
+| kód | Ellátási forma csoport | Ellátási forma név | A megszűnő ellátási forma helyébe lépő ellátási forma kódja |
 
-| A1 | alapellátás | alapellátás |
+| A1 | alapellátás | alapellátás |  |
 
-| A2 | alapellátás | ügyeleti ellátás |
+| A2 | alapellátás | ügyeleti ellátás |  |
 
-| J1 | járóbeteg szakellátás | szakrendelés |
+| J1 | járóbeteg-szakellátás | járóbeteg-szakellátás |  |
 
-| J2 | járóbeteg szakellátás | egynapos sebészet |
+| J2 | járóbeteg-szakellátás | egynapos beavatkozás |  |
 
-| J3 | járóbeteg szakellátás | jellemzően terápiás beavatkozást végző szakellátás |
+| J3 | járóbeteg-szakellátás | jellemzően terápiás beavatkozást végző szakellátás |  |
 
-| J4 | járóbeteg szakellátás | nem orvosi szakfeladatot ellátó szakellátás |
+| J4 |  |  | J1 |
 
-| J5 | járóbeteg szakellátás | betegek otthonában végzett szakellátás |
+| J5 | járóbeteg-szakellátás | betegek otthonában végzett szakellátás |  |
 
-| J6 | járóbeteg szakellátás | mozgó/változó helyszínen végzett szakellátás |
+| J6 | járóbeteg-szakellátás | változó helyszínen végzett ellátás |  |
 
-| J7 | járóbeteg szakellátás | gondozás |
+| J7 | járóbeteg-szakellátás | gondozás |  |
 
-| J8 | járóbeteg szakellátás | nappali ellátás |
+| J8 | járóbeteg-szakellátás | nappali ellátás |  |
 
-| D1 | diagnosztika | diagnosztika |
+| D1 | diagnosztika | diagnosztika |  |
 
-| F1 | fekvőbeteg szakellátás | aktív fekvőbeteg-ellátás |
+| F1 | fekvőbeteg-szakellátás | aktív fekvőbeteg-ellátás |  |
 
-| F2 | fekvőbeteg szakellátás | krónikus fekvőbeteg-ellátás |
+| F2 | fekvőbeteg-szakellátás | krónikus fekvőbeteg-ellátás |  |
 
-| F3 | fekvőbeteg szakellátás | ápolási ellátás |
+| F3 |  |  | F2 |
 
-| F4 | fekvőbeteg szakellátás | rehabilitációs ellátás |
+| F4 |  |  | F2 |
 
-| F5 | fekvőbeteg szakellátás | nappali kórházi ellátás |
+| F5 | fekvőbeteg-szakellátás | nappali kórházi ellátás |  |
 
-| F6 | fekvőbeteg szakellátás | sürgősségi ellátás |
+| F6 |  |  | F1 |
 
-| E1 | egyéb szolgáltatás | bentlakásos szociális vagy gyermekvédelmi intézményben szervezett egészségügyi ellátás |
+| E1 | egyéb szolgáltatás | bentlakásos szociális vagy gyermekvédelmi intézményben szervezett egészségügyi ellátás |  |
 
-| E2 | egyéb szolgáltatás | fegyveres és rendvédelmi szervek egészségügyi ellátása (dolgozók és fogvatatottak alapellátása) |
+| E2 | egyéb szolgáltatás | fegyveres és rendvédelmi szervek egészségügyi ellátása (dolgozók és fogvatartottak alapellátása) |  |
 
-| E3 | egyéb szolgáltatás | önálló „megelőző egészségügyi ellátások” |
+| E3 | egyéb szolgáltatás | önálló „megelőző egészségügyi ellátások” |  |
 
-| E4 | egyéb szolgáltatás | mentést igénylő ellátás |
+| E4 | egyéb szolgáltatás | speciális járművel végezett ellátás |  |
 
-| E5 | egyéb szolgáltatás | betegszállítás |
+| E5 |  |  | E4 |
 
-| E6 | egyéb szolgáltatás | az előzőekbe be nem sorolható ellátások |
+| E6 | egyéb szolgáltatás | az előzőekbe be nem sorolható ellátások |  |
 
 3. számú melléklet a 2/2004. (XI. 17.) EüM rendelethez[^28]
 
