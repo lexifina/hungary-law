@@ -1,4 +1,4 @@
-## Szerepkör-tanúsítási központi platform szolgáltatás[^167]
+## Szerepkör-tanúsítási központi platform szolgáltatás[^168]
 
 134/M. § (1) A szerepkör-tanúsító platform szolgáltatás (a továbbiakban: SZTSZ) KEÜSZ a tanúsítvány alany (a továbbiakban: alany) szerepköre tanúsításában közreműködő szolgáltatás. A szolgáltató az alany részére biztosítja az elektronikus dokumentumon a szerepkör-tanúsítvány elhelyezését.
 
@@ -16,4 +16,4 @@ b) a szolgáltatás nyújtásának vagy meghiúsulásának az időpontját, a me
 
 (6) A szolgáltató az (5) bekezdésben foglalt adattartalmakat a valós idejű adatszolgáltatás során a kliensprogram felé értelmezhetően visszajelzi.
 
-[^167]: A 134/L. §-t követő alcímet (134/M.–134/N. §) a 717/2021. (XII. 20.) Korm. rendelet 20. § (12) bekezdése iktatta be.
+[^168]: A 134/L. §-t követő alcímet (134/M.–134/N. §) a 717/2021. (XII. 20.) Korm. rendelet 20. § (12) bekezdése iktatta be.

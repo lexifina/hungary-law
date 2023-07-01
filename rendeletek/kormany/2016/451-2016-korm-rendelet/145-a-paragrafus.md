@@ -1,5 +1,5 @@
-## V/A. Fejezet[^191]
+## V/A. Fejezet[^192]
 
 ## AZ EGYSÉGES DIGITÁLIS KAPUHOZ VALÓ CSATLAKOZÁSSAL ÉS ANNAK MŰKÖDTETÉSÉVEL KAPCSOLATOS SZABÁLYOK
 
-[^191]: Az V/A. fejezetet (145/A–145/G. §) a 6/2020. (I. 31.) Korm. rendelet 16. §-a iktatta be.
+[^192]: Az V/A. fejezetet (145/A–145/G. §) a 6/2020. (I. 31.) Korm. rendelet 16. §-a iktatta be.

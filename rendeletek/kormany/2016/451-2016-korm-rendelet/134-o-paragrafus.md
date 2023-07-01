@@ -1,6 +1,6 @@
 ## 134/N. § Az SZTSZ során a szerepkörre vonatkozó információátadás KKSZB szolgáltatás igénybevételével történik.
 
-## IV/A. Fejezet[^168]
+## IV/A. Fejezet[^169]
 
 ## SZEREPKÖR-TANÚSÍTÁSI SZOLGÁLTATÁS
 
@@ -22,4 +22,4 @@ f) a külön szabályzatban meghatározott adatokat.
 
 (3) A szerepkör tanúsítása az aláíró természetes személyazonosító adatai vagy a szerepkör-nyilvántartásban nyilvántartott egyedi azonosítója alapján történik.
 
-[^168]: A IV/A. fejezetet (134/O.–134/Q. §) a 717/2021. (XII. 20.) Korm. rendelet 20. § (13) bekezdése iktatta be.
+[^169]: A IV/A. fejezetet (134/O.–134/Q. §) a 717/2021. (XII. 20.) Korm. rendelet 20. § (13) bekezdése iktatta be.

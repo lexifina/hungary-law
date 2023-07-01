@@ -1,4 +1,4 @@
-105. § (1)[^110] A csatlakozott fizetési megoldás szolgáltató a fizetési megbízás fizető fél általi jóváhagyását követően a csatlakozási megállapodásban meghatározott formai és tartalmi követelményeknek megfelelő elektronikus igazolást állít ki. A fizetési ígérvény tartalmazza:
+105. § (1)[^111] A csatlakozott fizetési megoldás szolgáltató a fizetési megbízás fizető fél általi jóváhagyását követően a csatlakozási megállapodásban meghatározott formai és tartalmi követelményeknek megfelelő elektronikus igazolást állít ki. A fizetési ígérvény tartalmazza:
 
 a) a fizetett összeget,
 
@@ -8,16 +8,16 @@ c) a 104. § (1) bekezdés b) pontja szerinti fizetési ügyazonosítót,
 
 d) a fizetés EFER elszámolási számlájának számát, a POS terminálon kezdeményezett bankkártyás fizetés kivételével, valamint
 
-e)[^111] a csatlakozott fizetési megoldás szolgáltató azon nyilatkozatát, hogy az igazolásban megjelölt fizetési megbízás teljesítését elindította.
+e)[^112] a csatlakozott fizetési megoldás szolgáltató azon nyilatkozatát, hogy az igazolásban megjelölt fizetési megbízás teljesítését elindította.
 
-(2)[^112] Ha a fizető fél elutasítja a 104. § (1)–(3) bekezdése szerint előkészített fizetést, vagy a 104. § (1) bekezdés e) pontja szerinti érvényességi idő lejár, a csatlakozott fizetési megoldás szolgáltató által kiállított igazolás a fizetési megoldás szolgáltató erre vonatkozó nyilatkozatát, a 104. § (1) bekezdés a) pontja szerinti fizetendő összeget, valamint a 104. § (1) bekezdés b) pontja szerinti fizetési ügyazonosítót tartalmazza.
+(2)[^113] Ha a fizető fél elutasítja a 104. § (1)–(3) bekezdése szerint előkészített fizetést, vagy a 104. § (1) bekezdés e) pontja szerinti érvényességi idő lejár, a csatlakozott fizetési megoldás szolgáltató által kiállított igazolás a fizetési megoldás szolgáltató erre vonatkozó nyilatkozatát, a 104. § (1) bekezdés a) pontja szerinti fizetendő összeget, valamint a 104. § (1) bekezdés b) pontja szerinti fizetési ügyazonosítót tartalmazza.
 
-(3)[^113] Átutalással történő fizetés esetén a csatlakozott fizetési megoldás szolgáltató a fizetési ígérvényt és a (2) bekezdés szerinti igazolást az EFER részére elektronikus úton küldi meg. Az EFER a csatlakozott fizetési megoldás szolgáltató által átadott igazolást a csatlakozott szervezet részére elektronikus úton továbbítja.
+(3)[^114] Átutalással történő fizetés esetén a csatlakozott fizetési megoldás szolgáltató a fizetési ígérvényt és a (2) bekezdés szerinti igazolást az EFER részére elektronikus úton küldi meg. Az EFER a csatlakozott fizetési megoldás szolgáltató által átadott igazolást a csatlakozott szervezet részére elektronikus úton továbbítja.
 
-(4)[^114] POS terminálon kezdeményezett bankkártyás fizetés esetén a csatlakozott fizetési megoldás szolgáltató a fizetési ígérvényt és a (2) bekezdés szerinti igazolást közvetlenül a csatlakozott szervezet részére küldi meg. A csatlakozott szervezet a csatlakozott fizetési megoldás szolgáltató által átadott igazolást az EFER részére elektronikus úton továbbítja.
+(4)[^115] POS terminálon kezdeményezett bankkártyás fizetés esetén a csatlakozott fizetési megoldás szolgáltató a fizetési ígérvényt és a (2) bekezdés szerinti igazolást közvetlenül a csatlakozott szervezet részére küldi meg. A csatlakozott szervezet a csatlakozott fizetési megoldás szolgáltató által átadott igazolást az EFER részére elektronikus úton továbbítja.
 
-[^110]: A 105. § (1) bekezdés nyitó szövegrésze a 176/2019. (VII. 18.) Korm. rendelet 11. § (12) bekezdés c) pontja, a 6/2020. (I. 31.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
-[^111]: A 105. § (1) bekezdés e) pontja a 6/2020. (I. 31.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
-[^112]: A 105. § (2) bekezdése a 6/2020. (I. 31.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
-[^113]: A 105. § (3) bekezdése a 176/2019. (VII. 18.) Korm. rendelet 11. § (12) bekezdés d) pontja, a 6/2020. (I. 31.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
-[^114]: A 105. § (4) bekezdése a 176/2019. (VII. 18.) Korm. rendelet 11. § (12) bekezdés e) pontja, a 6/2020. (I. 31.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
+[^111]: A 105. § (1) bekezdés nyitó szövegrésze a 176/2019. (VII. 18.) Korm. rendelet 11. § (12) bekezdés c) pontja, a 6/2020. (I. 31.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
+[^112]: A 105. § (1) bekezdés e) pontja a 6/2020. (I. 31.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
+[^113]: A 105. § (2) bekezdése a 6/2020. (I. 31.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
+[^114]: A 105. § (3) bekezdése a 176/2019. (VII. 18.) Korm. rendelet 11. § (12) bekezdés d) pontja, a 6/2020. (I. 31.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
+[^115]: A 105. § (4) bekezdése a 176/2019. (VII. 18.) Korm. rendelet 11. § (12) bekezdés e) pontja, a 6/2020. (I. 31.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.

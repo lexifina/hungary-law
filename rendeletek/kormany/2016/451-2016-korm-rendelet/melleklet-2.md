@@ -38,11 +38,11 @@
 
 | 17 | ÁNYK KR konténer | .kr | A biztonságos kézbesítési szolgáltatás interfész specifikációja. |
 
-2. melléklet a 451/2016. (XII. 19.) Korm. rendelethez[^249]
+2. melléklet a 451/2016. (XII. 19.) Korm. rendelethez[^250]
 
 A piaci szereplő és az E-ügyintézési tv. 1. § 17. pont l) alpontja szerinti szerv részére biztosított SZEÜSZ/KEÜSZ, valamint PKASZ szolgáltatásért fizetendő díj megállapításának és beszedésének szabályai
 
-1.[^250] A kijelölt szolgáltató jelen mellékletben meghatározott, jogszabályban biztosított észszerű nyereséget is tartalmazó díjakat számol fel szolgáltatásonként, a szolgáltatáshoz csatlakozási igényt benyújtott piaci szereplő és az E-ügyintézési tv. 1. § 17. pont l) alpontja szerinti szerveknek.
+1.[^251] A kijelölt szolgáltató jelen mellékletben meghatározott, jogszabályban biztosított észszerű nyereséget is tartalmazó díjakat számol fel szolgáltatásonként, a szolgáltatáshoz csatlakozási igényt benyújtott piaci szereplő és az E-ügyintézési tv. 1. § 17. pont l) alpontja szerinti szerveknek.
 
 a) Csatlakozási díj: a kijelölt szolgáltató csatlakozásonként csatlakozási díjat számol fel a szolgáltatáshoz való csatlakozást követően.
 
@@ -50,10 +50,10 @@ b) Havidíj: a kijelölt szolgáltató csatlakozásonként havonta fizetendő fi
 
 c) Tranzakciós díj: a kijelölt szolgáltató tranzakciós díjat számol fel az adott szolgáltatás igénybevételi tranzakció száma és a tranzakció egységdíjának szorzata alapján azon szolgáltatás esetében, ahol az igénybevétel tranzakcióalapú és mérhető. A tranzakciós díj havi díjban megállapított tranzakciószám felett fizetendő.
 
-2.[^251] A SZEÜSZ/KEÜSZ, valamint PKASZ szolgáltatásért fizetendő díjakat tartalmazó számlát – a kormányzati hitelesítés szolgáltatás kivételével – a DMÜ állítja ki a piaci szereplőnek, valamint az E-ügyintézési tv. 1. § 17. pont l) alpontja szerinti szerveknek. Az összerendelési nyilvántartás szolgáltatásért fizetendő díjakat tartalmazó számlát – a személyiadat- és lakcímnyilvántartásért felelős miniszter és a DMÜ között kötött megállapodás alapján – a DMÜ állítja ki.
+2.[^252] A SZEÜSZ/KEÜSZ, valamint PKASZ szolgáltatásért fizetendő díjakat tartalmazó számlát – a kormányzati hitelesítés szolgáltatás kivételével – a DMÜ állítja ki a piaci szereplőnek, valamint az E-ügyintézési tv. 1. § 17. pont l) alpontja szerinti szerveknek. Az összerendelési nyilvántartás szolgáltatásért fizetendő díjakat tartalmazó számlát – a személyiadat- és lakcímnyilvántartásért felelős miniszter és a DMÜ között kötött megállapodás alapján – a DMÜ állítja ki.
 
 3. A díjak összegét és megfizetésének módját a kijelölt szolgáltató a honlapján közzéteszi.
 
-[^249]: A 2. mellékletet a 361/2017. (XI. 30.) Korm. rendelet 5. § (15) bekezdése iktatta be, szövege a 717/2021. (XII. 20.) Korm. rendelet 21. §-ával megállapított szöveg.
-[^250]: A 2. melléklet 1. pontja a 618/2022. (XII. 29.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
-[^251]: A 2. melléklet 2. pontja a 618/2022. (XII. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^250]: A 2. mellékletet a 361/2017. (XI. 30.) Korm. rendelet 5. § (15) bekezdése iktatta be, szövege a 717/2021. (XII. 20.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^251]: A 2. melléklet 1. pontja a 618/2022. (XII. 29.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^252]: A 2. melléklet 2. pontja a 618/2022. (XII. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
