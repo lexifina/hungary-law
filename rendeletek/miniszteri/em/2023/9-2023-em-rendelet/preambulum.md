@@ -1,0 +1,1 @@
+A hulladékról szóló 2012. évi CLXXXV. törvény 88. § (2) bekezdés 15. és 16. pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 160. § 6. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:

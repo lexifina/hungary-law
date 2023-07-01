@@ -1,0 +1,1 @@
+7. § Hatályát veszti a Magyar Energetikai és Közmű-szabályozási Hivatal miniszter részére történő hulladékgazdálkodási közszolgáltatást érintő adatszolgáltatás rendjéről szóló 16/2015. (IV. 9.) NFM rendelet.
