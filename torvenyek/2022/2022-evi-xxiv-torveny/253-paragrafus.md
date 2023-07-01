@@ -22,7 +22,7 @@
 
 (11) A 149. §, a 150. § és a 152. § 2023. február 13-án lép hatályba.
 
-(12) A 123–125. §, a 129. §, a 130. § (3) bekezdése, a 132. § 1. és 2. pontja, a 232. § és a 233. § 2023. július 1-jén lép hatályba.
+(12) A 123. § és 124. §, a 129. §, a 132. § 1. és 2. pontja és a 233. § 2023. július 1-jén lép hatályba.
 
 (13) A 148. § (1)–(3) és (5) bekezdése és a 151. §, 153–156. § 2023. augusztus 1-jén lép hatályba.
 
