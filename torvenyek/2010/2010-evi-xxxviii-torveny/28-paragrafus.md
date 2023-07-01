@@ -18,7 +18,7 @@ f) szerzői jogi védelem alatt álló alkotás vagy kapcsolódó jogi teljesít
 
 a szükséges intézkedések megtétele végett haladéktalanul értesíti az örökhagyó haláláról.
 
-(3) A jegyző vagy a közjegyző a (2) bekezdés a), c)–f) pontjában meghatározott szakmai szervezet részére az (1) bekezdésben foglalt jegyzőkönyvet megküldi. A jegyzőkönyvet akkor is meg kell küldeni, ha leltározásra nem került sor.
+(3) A jegyző vagy a közjegyző a (2) bekezdés a), c)–e) pontjában meghatározott szervezet részére az (1) bekezdésben foglalt jegyzőkönyvet megküldi. A jegyzőkönyvet akkor is meg kell küldeni, ha leltározásra nem került sor.
 
 (4) A jegyző vagy a közjegyző a szükséges intézkedések megtétele végett haladéktalanul értesíti a halálesetről – ha adat merül fel arra vonatkozóan, hogy a halál pillanatában ilyen személy volt – az örökhagyó gondnokát, illetve gyámját.
 

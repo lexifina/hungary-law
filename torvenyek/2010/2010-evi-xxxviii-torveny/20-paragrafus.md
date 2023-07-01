@@ -28,7 +28,7 @@ ad) ismeretlen helyen lévő személy,
 
 ae) ügyeinek vitelében akadályozott természetes személy, vagy
 
-b) csak a Magyar Állam.
+b) csak az állam vagy belföldi települési önkormányzat (a továbbiakban: települési önkormányzat).
 
 (5) A hagyatékot akkor is leltározni kell, ha az örökhagyó végintézkedésével alapítvány létesítését rendelte.
 
