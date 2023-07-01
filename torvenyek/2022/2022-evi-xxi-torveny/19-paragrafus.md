@@ -42,7 +42,7 @@ k) a nyelvvizsgák nyelvvizsga-anyakönyveinek nyilvántartását vezető szerv 
 
 l) a választási szerv azokról, akiket országgyűlési, európai parlamenti vagy helyi önkormányzati képviselőjelöltként, polgármesterjelöltként, nemzetiségi önkormányzati képviselőjelöltként nyilvántartásba vettek vagy országgyűlési, európai parlamenti vagy helyi önkormányzati képviselőnek, polgármesternek, nemzetiségi önkormányzati képviselőnek megválasztottak, illetve megbízatásuk megszűnt;
 
-m) az állampolgársági ügyekben eljáró szerv az állampolgárságról való lemondásról, vagy a magyar állampolgárság visszavonással történő megszüntetéséről;
+m)
 
 n) a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 28. § (2) bekezdése szerinti együttműködési megállapodás alapján, a nemzetbiztonsági szolgálatok a hivatásos állományuk vonatkozásában a b)–c) pont szerinti adatszolgáltatási kötelezettséget teljesítenek az adatok védelméhez szükséges különös biztonsági követelmények betartásával;
 

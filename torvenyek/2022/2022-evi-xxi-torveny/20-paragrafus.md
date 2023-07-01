@@ -18,7 +18,7 @@ d) a rendvédelmi szervek, a közúti közlekedési nyilvántartó szerv, az OGY
 
 e) a választási szerv a nyilvántartásba vételt, a megválasztást vagy a megbízatás megszűnését követő 8 napon belül, a név és személyi azonosító, vagy természetes személyazonosító adatokkal,
 
-f) az állampolgársági ügyekben eljáró szerv az állampolgárságról való lemondásról 8 napon belül,
+f)
 
 g) a köznevelési információs rendszer, valamint felsőoktatási információs rendszer működtetéséért felelős szerv és a honvéd tisztképzésért felelős szerv, honvédelmi ismeretek oktatását végző közoktatási és felsőoktatási intézmény, valamint honvédelmi és rendvédelmi szervezet minden év február 28. napjáig és július 31. napjáig,
 
