@@ -1,6 +1,6 @@
 ## 1. A termelőszövetkezeti földhasználati jog alatt álló földrészletek tulajdonjogának rendezése és a kezelői jog megszűnése
 
-1. § (1) Azon földrészlet, amelyre az ingatlan-nyilvántartás szerint termelőszövetkezeti földhasználati jog van bejegyezve – függetlenül attól, hogy az a szövetkezetekről szóló 1992. évi I. törvény hatálybalépéséről és az átmeneti szabályokról szóló 1992. évi II. törvény szerint mely földalapba került kijelölésre vagy nem került egyik földalapba sem kijelölésre –, 2021. január 1-jén a törvény erejénél fogva az állam tulajdonába és a Nemzeti Földalapba kerül, kivéve a (2) bekezdésben meghatározott földrészleteket.
+1. § (1) Azon földrészlet, amelyre az ingatlan-nyilvántartás szerint termelőszövetkezeti földhasználati jog van bejegyezve – függetlenül attól, hogy az a szövetkezetekről szóló 1992. évi I. törvény hatálybalépéséről és az átmeneti szabályokról szóló 1992. évi II. törvény (a továbbiakban: 1992. évi II. törvény) szerint mely földalapba került kijelölésre vagy nem került egyik földalapba sem kijelölésre –, 2021. január 1-jén a törvény erejénél fogva az állam tulajdonába és a Nemzeti Földalapba kerül, kivéve a (2) bekezdésben meghatározott földrészleteket.
 
 (2) Nem kerül állami tulajdonba az (1) bekezdés alapján az a földrészlet, amelyet
 
