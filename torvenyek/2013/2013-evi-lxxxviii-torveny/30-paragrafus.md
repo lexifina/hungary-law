@@ -18,7 +18,7 @@ a) a körözési nyilvántartási rendszer egyes nyilvántartásai részére tö
 
 b) a körözési eljárás lefolytatásának részletes eljárási szabályait,
 
-c) – az államháztartásért felelős miniszter egyetértésével – a körözési eljárásban elrendelt elővezetés végrehajtásával felmerült költség megtérítésének szabályait.
+c) – az államháztartásért felelős miniszter egyetértésével – a körözési eljárásban elrendelt elővezetés végrehajtásával felmerült, az Rtv. alapján igazolt költség megtérítésének szabályait, ide nem értve az elővezetés költsége megállapítására vonatkozó szabályokat,
 
 d) az ujj- és tenyérnyomat, valamint a DNS-profil meghatározásra alkalmas anyagmaradvány rögzítésének, illetve az ujj- és tenyérnyomat és a szájnyálkahártya-törlet levételének részletes technikai szabályait; a DNS-profil meghatározásának szakmai-módszertani követelményeit; továbbá a nyilvántartás technikai vezetésének részletes szabályait,
 
