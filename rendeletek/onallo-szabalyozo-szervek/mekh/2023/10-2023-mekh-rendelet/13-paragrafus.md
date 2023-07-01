@@ -1,0 +1,1 @@
+13. § Az 1. mellékletben foglalt táblázat C oszlopát a 2023. évben azzal az eltéréssel kell alkalmazni, hogy az 1. § (2) bekezdés a) pontja és az 1. § (2) bekezdés b) pont ba) és bb) alpontja szerinti adatszolgáltató az e rendeletben meghatározott adatszolgáltatási kötelezettségét július 20. napjáig teljesíti.

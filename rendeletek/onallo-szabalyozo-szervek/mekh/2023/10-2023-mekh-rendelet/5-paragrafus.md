@@ -1,0 +1,1 @@
+5. § Az adatszolgáltatási kötelezettség teljesítési határidejének lejártakor a Hivatalnál fennálló rendszerhiba esetén, a hiba elhárítását követő 3 napon belül benyújtott adatszolgáltatás határidőben teljesítettnek minősül. A rendszerhiba fennállása és elhárításának napja tekintetében a Hivatal honlapján kihelyezett tájékoztatás az irányadó.
