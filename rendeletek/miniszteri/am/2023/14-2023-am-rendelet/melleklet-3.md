@@ -2,11 +2,11 @@
 
 | 1. | Követelmény | Meg nem felelés | mérték | súly | tartósság |
 
-| 2. | Engedélyköteles öntözési célú vízhasználat csak érvényes vízjogi üzemeltetési engedély alapján, a víztermelés nyilvántarthatóságának biztosításával végezhető | 1. A vizsgált területre vonatkozóan rendelkezésre áll a hatályos vízjogi üzemeltetési/fennmaradási engedély, de nincs kútvízmérő vagy nem megfelelően történik a kitermelt víz mennyiségének mérése, illetve a vízhasználatról nem történik meg az adatszolgáltatás, illetve nem, vagy nem megfelelően vezetik az öntözési üzemnaplót. | Gazdaságon belüli | Közepes súlyú | Rövid távon helyrehozható |
+| 2. | Engedélyköteles öntözési célú vízhasználat csak érvényes vízjogi üzemeltetési engedély alapján, a víztermelés nyilvántarthatóságának biztosításával végezhető | 1. A vizsgált öntözés esetében nem áll rendelkezésre vízkivételi mennyiség mérésre vagy meghatározására alkalmas mérőeszköz vagy módszer.[^22] | Gazdaságon belüli | Közepes súlyú | Rövid távon helyrehozható |
 
-| 3. |  | A vizsgált területre vonatkozólag nem áll rendelkezésre hatályos vízjogi üzemeltetési vagy fennmaradási engedély, és az engedély kiadásának, meghosszabbításának feltételei fennállnak, és így az engedély utólag kiadható. | Gazdaságon belüli | Súlyos | Helyrehozható |
+| 3. |  | A vizsgált területre vonatkozólag nem áll rendelkezésre hatályos vízjogi üzemeltetési vagy fennmaradási engedély. A mezőgazdasági termelőnél nem áll rendelkezésre öntözési üzemnapló, vagy azt nem naprakészen vezeti.[^23] | Gazdaságon belüli | Súlyos | Helyrehozható |
 
-| 4. |  | A vizsgált területre vonatkozólag nem áll rendelkezésre hatályos vízjogi üzemeltetési vagy fennmaradási engedély, vagy a vízügyi hatóság a vízjogi üzemeltetési engedély szüneteltetéséről jogerős döntést hozott, vagy a vízjogi üzemeltetési engedély lejárt, és az engedély nem adható ki. | Gazdaságon belüli | Súlyos | Maradandó |
+| 4. |  | A vizsgált területre vonatkozólag nem áll rendelkezésre hatályos vízjogi üzemeltetési vagy fennmaradási engedély, vagy a vízügyi hatóság a vízjogi üzemeltetési engedély szüneteltetéséről jogerős döntést hozott, vagy a vízjogi üzemeltetési engedély lejárt, és az engedély nem adható ki. | Gazdaságon belüli | Enyhe[^24] | Rövid távon helyrehozható[^25] |
 
 | 5. | A naptári évre vonatkozóan folyamatos nyilvántartást kell vezetni a külön jogszabály szerinti Gazdálkodási Napló tápanyag-gazdálkodásra, trágyázásra, parcellaművelési adatokra vonatkozóan. | 1.0.3 A gazdálkodó a naptári évre vonatkozóan hiányosan vagy nem vezet a külön jogszabály szerinti Gazdálkodási Naplót a tápanyag-gazdálkodásra, trágyázásra, parcellaművelési adatokra vonatkozóan. | Gazdaságon belüli | Súlyos | Rövid távon helyrehozható |
 
@@ -33,3 +33,8 @@
 3. melléklet a 14/2023. (IV. 19.) AM rendelethez
 
 JFGK 2. követelmény- és minősítési tábla – Mezőgazdasági eredetű nitrátszennyezés esetén az ellenőrzési kérdésekhez tartozó meg nem felelési esetek
+
+[^22]: A 2. mellékletben foglalt táblázat B:2 mezője a 26/2023. (VI. 30.) AM rendelet 19. §-ával megállapított szöveg.
+[^23]: A 2. mellékletben foglalt táblázat B:3 mezője a 26/2023. (VI. 30.) AM rendelet 19. §-ával megállapított szöveg.
+[^24]: A 2. mellékletben foglalt táblázat D:4 mezője a 26/2023. (VI. 30.) AM rendelet 19. §-ával megállapított szöveg.
+[^25]: A 2. mellékletben foglalt táblázat E:4 mezője a 26/2023. (VI. 30.) AM rendelet 19. §-ával megállapított szöveg.

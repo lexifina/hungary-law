@@ -8,7 +8,7 @@ c) a területen betartották a (2) bekezdés szerint a növényvédőszer-haszn�
 
 (2) Az egynyári növények esetén a vetéstől a betakarításig, évelő növények esetén az igénylés naptári évének azon részében, amikor a növény a területen van, nem használható növényvédő szer, illetve csávázott vetőmag, kivéve, ha az évelő növénnyel bevetett terület a vetést követő évben vagy években kerül a HMKÁ 8. előírás tekintetében elszámolásra.
 
-(3) A mezőgazdasági termelőnek az egységes kérelmében nyilatkoznia kell a (2) bekezdés szerinti növényvédőszer-tilalom betartásáról. Ha a mezőgazdasági termelő – nyilatkozata vagy a helyszíni ellenőrzés megállapítása szerint – az adott ökológiai jelentőségű területen növényvédő szert vagy csávázott vetőmagot használ, akkor a terület nem fogadható el a HMKÁ 8. előírás tekintetében nem termelő területként.
+(3)[^15] A mezőgazdasági termelőnek az egységes kérelmében nyilatkoznia kell a (2) bekezdés szerinti növényvédőszer-tilalom betartásáról. Ha a mezőgazdasági termelő – nyilatkozata vagy a helyszíni ellenőrzés megállapítása szerint – az adott nem termelő területen növényvédő szert vagy csávázott vetőmagot használ, akkor a terület nem fogadható el a HMKÁ 8. előírás tekintetében nem termelő területként.
 
 (4) A nitrogénmegkötő növényekkel bevetett területként figyelembe vett területen a mezőgazdasági termelőnek
 
@@ -41,3 +41,5 @@ akkor a földterület nem fogadható el nitrogénmegkötő növényekkel bevetet
 (9) A nem termelő területként elszámolni kívánt nitrogénmegkötő növénykultúrának a (8) bekezdés szerinti termesztési időszakok teljes tartamában – évelő növények esetében a növénykultúra telepítésének és kiforgatásának évében is – jelen kell lennie a mezőgazdasági termelő területén. A nitrogénmegkötő és nem nitrogénmegkötő növény keverékének vetése esetén a keveréknek a nitrogénmegkötő növénytermesztési időszakának teljes tartamában – évelő növény esetében a növény telepítésének és kiforgatásának évében is – jelen kell lennie a mezőgazdasági termelő területén.
 
 (10) Ha az adminisztratív vagy helyszíni ellenőrzés keretében megállapításra kerül, hogy a nitrogénmegkötő növények, keverékeik vagy a nitrogénmegkötő növények és nem nitrogénmegkötő növények keverékei a (8) bekezdés szerinti termesztési időszakokban nincsenek jelen a mezőgazdasági termelő földterületén, akkor a földterület nem vehető figyelembe nitrogénmegkötő növényekkel bevetett nem termelő területként.
+
+[^15]: A 28. § (3) bekezdése a 26/2023. (VI. 30.) AM rendelet 20. § l) pontja szerint módosított szöveg.

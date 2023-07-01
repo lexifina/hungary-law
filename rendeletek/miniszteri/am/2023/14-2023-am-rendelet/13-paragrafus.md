@@ -10,7 +10,7 @@ b) 2 hektáros vagy annál nagyobb területű táblák esetében az adott tábl�
 
 (3) Szőlőültetvények esetében az erózió ellen kialakított teraszok megőrzése kötelező.
 
-(4) Erózióvédelmi sávot kell kialakítani a 12% feletti lejtésű tábla lejtővel párhuzamos tengelyén mérve legalább 100 méterenként, azzal a feltétellel, hogy
+(4)[^6] Erózióvédelmi sáv az (1) bekezdésben hivatkozott kivételként akkor fogadható el, ha a 12% feletti lejtésű tábla lejtővel párhuzamos tengelyén mérve legalább, átlagosan 100 méterenként kerül kialakításra, azzal a feltétellel, hogy
 
 a) ha a tábla lejtővel párhuzamos oldalai átlagosan kevesebb, mint 30 méterre helyezkednek el egymástól, úgy az erózióvédelmi sávnak össze kell kötnie a tábla két szélét;
 
@@ -19,3 +19,5 @@ b) ha a tábla lejtővel párhuzamos oldalai átlagosan 30 és 50 méter közöt
 c) ha a tábla lejtővel párhuzamos oldalai átlagosan több mint 50 méterre helyezkednek el egymástól, úgy az erózióvédelmi sávnak olyan hosszúnak kell lennie, hogy a tábla két szélén egyenként legfeljebb 10 méteres távolság legyen a sáv vége és a tábla széle között.
 
 (5) Erózióérzékeny területen történő gazdálkodás esetén az Egységes kérelem rendelet szerinti gazdálkodási napló (a továbbiakban: gazdálkodási napló) vezetése kötelező a 2. melléklet szerinti JFGK 1. tekintetében.
+
+[^6]: A 13. § (4) bekezdés nyitó szövegrésze a 26/2023. (VI. 30.) AM rendelet 20. § c) pontja szerint módosított szöveg.
