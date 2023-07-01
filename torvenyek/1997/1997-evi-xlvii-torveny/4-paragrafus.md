@@ -16,6 +16,8 @@ e) a betegjogok érvényesítése.
 
 f) az egyéni betegút követése.
 
+g) a humán reprodukciós eljárás nyomon követése az eljárás orvosszakmai eredményességének, és ennek alapján a humán reprodukciós eljárások orvosszakmai minőségének értékelése, az értékelés szempontjainak felülvizsgálata és fejlesztése.
+
 (2) Egészségügyi és személyazonosító adatot az (1) bekezdésben meghatározottakon túl – törvényben meghatározott esetekben – az alábbi célból lehet kezelni:
 
 a) egészségügyi szakember-képzés,
