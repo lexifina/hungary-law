@@ -32,7 +32,7 @@ n) a rendőrség határellenőrzési feladatokat ellátó szerve által a 91/O. 
 
 a) az államháztartásért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg
 
-aa) az elővezetés és a kísérés végrehajtásával kapcsolatban felmerült költségek mértékét, valamint megtérítésének részletes szabályait, továbbá
+aa) a kísérés, az előállítás és az elővezetés végrehajtásával kapcsolatban felmerült költségek egyes tételeit, azok mértékét, valamint a költségek elrendelő szerv részére történő igazolásának részletes szabályait, továbbá
 
 ab) az építmények tervezésével és kivitelezésével kapcsolatos egyes viták rendezésében közreműködő szervezetről szóló törvényben meghatározott szakértői vizsgálat biztonságos és eredményes végrehajtásának biztosítása céljából történő rendőri közreműködés nyomán felmerült költségek mértékét, valamint megtérítésének részletes szabályait,
 

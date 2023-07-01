@@ -16,6 +16,6 @@ d) elkövetheti a környezetvédelmi termékdíj-kötelezettségi szabályok meg
 
 (3) A rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve a megbízhatósági vizsgálat során a (2) bekezdés szerinti bűncselekményt, szabálysértést vagy közigazgatási bírsággal sújtandó szabályszegést akkor követhet el, ha megalapozottan feltehető, hogy az a 7/A. § (1) bekezdésében foglaltak ellenőrzésére alkalmas, valamint az a 7/A. § (1) bekezdésében foglaltak ellenőrzéséhez elengedhetetlenül szükséges.
 
-(4) A 7/A. § (2) bekezdése alkalmazása során a 15. §-ban meghatározott arányosság követelményét fokozott körültekintéssel kell érvényesíteni.
+(4) A (2) bekezdés alkalmazása során a 15. §-ban meghatározott arányosság követelményét fokozott körültekintéssel kell érvényesíteni.
 
 (5) A megbízhatósági vizsgálat célja szempontjából érdektelen adatot, valamint az ügyben nem érintett személy adatait a rögzítést követő 3 napon belül törölni kell.

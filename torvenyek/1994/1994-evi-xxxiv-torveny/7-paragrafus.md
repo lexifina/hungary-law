@@ -75,3 +75,5 @@ a) előkészítő eljárást folytathat,
 b) a rendelkezésre álló erőkkel és eszközökkel közreműködhet a büntetőeljárásról szóló törvényben meghatározott leplezett eszközök (a továbbiakban: leplezett eszközök) alkalmazásának végrehajtásában, illetve
 
 c) közreműködhet eljárási cselekmény végrehajtásában.
+
+(5) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv lefolytatja a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvényben meghatározott előzetes véleményalkotási eljárást.
