@@ -1,0 +1,1 @@
+19/A. § Az áldozatsegítéssel kapcsolatos állami feladatok ellátását biztosító áldozatsegítő rendszer fejlesztésével, valamint az országosan egységes informatikai rendszerrel összefüggésben felmerülő költségeket az előirányzat terhére az áldozatsegítő szolgálat viseli.

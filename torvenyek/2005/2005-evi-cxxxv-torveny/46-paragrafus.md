@@ -6,7 +6,7 @@ a) jelölje ki az áldozatsegítő szolgálatot vagy szolgálatokat, ezen belül
 
 b) állapítsa meg az e törvény szerinti szolgáltatások engedélyezése iránti eljárás, a pénzbeli támogatás folyósításának és visszatérítésének részletes szabályait és
 
-c) állapítsa meg az emberkereskedelem magyar állampolgárságú áldozatai és a szabad mozgás és tartózkodás jogával rendelkező áldozatai azonosításának rendjét, valamint az azonosításra jogosult és jelzésre kötelezett szerveket és szervezeteket, valamint a védett szálláshelyen nyújtott ellátások feltételeit és részletes szabályait.
+c) állapítsa meg az emberkereskedelem áldozatai azonosításának rendjét, valamint az azonosításra jogosult és jelzésre kötelezett szerveket és szervezeteket, valamint a védett szálláshelyen nyújtott ellátások feltételeit és részletes szabályait.
 
 (2) Felhatalmazást kap az áldozatsegítésért felelős miniszter, hogy rendeletben állapítsa meg
 

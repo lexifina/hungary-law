@@ -13,3 +13,5 @@
 (6) Ez a törvény a terrorizmus elleni küzdelemről, a 2002/475/IB tanácsi kerethatározat felváltásáról, valamint a 2005/671/IB tanácsi határozat módosításáról szóló, 2017. március 15-i EU 2017/541 európai parlamenti és tanácsi irányelv 24. és 26. cikkének való megfelelést szolgálja.
 
 (7) Ez a törvény a készpénz-helyettesítő fizetési eszközzel elkövetett csalás és a készpénz-helyettesítő fizetési eszközök hamisítása elleni küzdelemről, valamint a 2001/413/IB tanácsi kerethatározat felváltásáról szóló, 2019. április 17-i (EU) 2019/713 európai parlamenti és tanácsi irányelv 16. cikkének való megfelelést szolgálja.
+
+(8) E törvény 20. § (3) bekezdése a gyermekek szexuális bántalmazása, szexuális kizsákmányolása és a gyermekpornográfia elleni küzdelemről szóló, 2011. december 13-i 2011/93/EU európai parlamenti és tanácsi irányelv 18. cikk (3) bekezdésének való megfelelést szolgálja.

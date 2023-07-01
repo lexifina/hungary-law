@@ -4,6 +4,6 @@
 
 (2) Az eljárás irataiba a 16. § (4) és (5) bekezdésében megjelölt személyek és hatóságok is betekinthetnek.
 
-(3)
+(3) Gyermekkorúnak kell tekinteni az áldozatot, ha az életkora nem állapítható meg és okkal feltételezhető, hogy a tizennyolcadik életévét még nem töltötte be.
 
 (4)
