@@ -38,7 +38,7 @@
 
 18. helyi közösségi közlekedés biztosítása;
 
-19. hulladékgazdálkodás;
+19.
 
 20. távhőszolgáltatás;
 

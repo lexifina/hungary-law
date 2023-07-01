@@ -28,7 +28,7 @@
 
 10. helyi közösségi közlekedés biztosítása és működtetése, valamint a főváros területén a parkolás feltételrendszerének kialakítása;
 
-11. távhőszolgáltatás, ivóvíz-ellátás, szennyvízelvezetés, -kezelés és -ártalmatlanítás (csatornaszolgáltatás), hulladékgazdálkodás;
+11. távhőszolgáltatás, ivóvíz-ellátás, szennyvízelvezetés, -kezelés és -ártalmatlanítás (csatornaszolgáltatás);
 
 12. környezet- és természetvédelem, vízgazdálkodás, vízkárelhárítás;
 
