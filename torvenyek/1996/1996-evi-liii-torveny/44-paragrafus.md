@@ -1,4 +1,4 @@
-44. § (1) Az állategészségügyi hatóság engedélye szükséges állatgyűjtemények, állatkertek, illetve egyéb vadon élő védett állatok tartására, idomítására szolgáló létesítmények, telephelyek kialakításához, fenntartásához, üzemeltetéséhez.
+44. § (1) A természetvédelmi hatóság engedélye szükséges állatgyűjtemények, állatkertek, illetve egyéb vadon élő védett állatok tartására, idomítására szolgáló létesítmények, telephelyek kialakításához, fenntartásához, üzemeltetéséhez.
 
 (2) Elhullott, elejtett védett állat egyedét a megtalálónak – ha e törvény másként nem rendelkezik – az igazgatósághoz be kell jelentenie.
 
