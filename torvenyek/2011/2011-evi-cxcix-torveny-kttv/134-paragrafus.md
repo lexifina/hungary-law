@@ -8,7 +8,7 @@
 
 4. a kincstár központi szervénél – ide nem értve a kincstár nyugdíjfolyósító szervét –, valamint Budapest és Pest vármegye területére kiterjedő illetékességű területi szervénél,
 
-5. az élelmiszerlánc-felügyeleti szervnél,
+5.
 
 6. a Nemzeti Földalapkezelő Szervezetnél,
 
