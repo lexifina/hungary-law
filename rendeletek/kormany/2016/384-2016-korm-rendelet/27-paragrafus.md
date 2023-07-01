@@ -2,7 +2,7 @@
 
 ## FÖLD TULAJDONJOGÁNAK MEGSZERZÉSÉRE IRÁNYULÓ SZERZÉSI KÉPESSÉG IGAZOLÁSA
 
-27. § (1)[^62] A kormányhivatal az ügyfél erre irányuló kérelmére, valamint a bíróság vagy közjegyző megkeresésére hatósági bizonyítványt állít ki arról, hogy az ügyfél földművesnek minősül vagy a Földforgalmi tv. 10. §-a alapján a föld tulajdonjogát megszerezheti, továbbá megfelel a Földforgalmi tv. 16. § (1) bekezdésében foglaltaknak, és nem állnak fenn a Földforgalmi tv. 27. § (2) bekezdés b) pont ba) alpontjában foglalt elutasítási feltételek. A hatósági bizonyítvány a föld tulajdonjogának megszerzésére nem jogosít, az csak
+27. § (1)[^68] A kormányhivatal az ügyfél erre irányuló kérelmére, valamint a bíróság vagy közjegyző megkeresésére hatósági bizonyítványt állít ki arról, hogy az ügyfél földművesnek minősül vagy a Földforgalmi tv. 10. §-a alapján a föld tulajdonjogát megszerezheti, továbbá megfelel a Földforgalmi tv. 16. § (1) bekezdésében foglaltaknak, és nem állnak fenn a Földforgalmi tv. 27. § (2) bekezdés b) pont ba) alpontjában foglalt elutasítási feltételek. A hatósági bizonyítvány a föld tulajdonjogának megszerzésére nem jogosít, az csak
 
 a) a kérelemben megjelölt földnek:
 
@@ -16,13 +16,13 @@ b) a termelőszövetkezeti földhasználati jog alatt álló földrészletek tul
 
 c) a 3. § (8) bekezdésében meghatározott bírósági döntésben szereplő föld tulajdonjogának a bírósági döntésben szereplő fél javára történő bejegyzéséhez szükséges szerzési képességet igazolja.
 
-(2)[^63] Az (1) bekezdés a) pont alapján az árverésen történő részvételhez kiállított hatósági bizonyítvány tartalmazza a Földforgalmi tv. 18. § (1) bekezdés e) pontja szerinti, legfeljebb 20 km-es távolságra vonatkozó feltétel fennállását.
+(2)[^69] Az (1) bekezdés a) pont alapján az árverésen történő részvételhez kiállított hatósági bizonyítvány tartalmazza a Földforgalmi tv. 18. § (1) bekezdés e) pontja szerinti, legfeljebb 20 km-es távolságra vonatkozó feltétel fennállását.
 
-(3)[^64] A hatósági bizonyítvány kiadására irányuló kérelemben meg kell jelölni a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 13. § (1) bekezdés a) pontja szerinti adatokat, továbbá az árverezésre kerülő vagy a bírósági döntés alapján történő tulajdonjog bejegyzéssel, illetve a termelőszövetkezeti földhasználati jog alatt álló földrészletek tulajdonjogának rendezéséről és egyes földügyi tárgyú törvények módosításáról szóló 2020. évi XL. törvény 7. § (4) bekezdése vagy a 8. § (1) bekezdése szerinti vételi joggal érintett föld fekvésének települését és helyrajzi számát, valamint a szerzéssel érintett tulajdoni hányadot.
+(3)[^70] A hatósági bizonyítvány kiadására irányuló kérelemben meg kell jelölni a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 13. § (1) bekezdés a) pontja szerinti adatokat, továbbá az árverezésre kerülő vagy a bírósági döntés alapján történő tulajdonjog bejegyzéssel, illetve a termelőszövetkezeti földhasználati jog alatt álló földrészletek tulajdonjogának rendezéséről és egyes földügyi tárgyú törvények módosításáról szóló 2020. évi XL. törvény 7. § (4) bekezdése vagy a 8. § (1) bekezdése szerinti vételi joggal érintett föld fekvésének települését és helyrajzi számát, valamint a szerzéssel érintett tulajdoni hányadot.
 
-(4)[^65] A hatósági bizonyítvány kiállítása során a kormányhivatal az általános közigazgatási rendtartásról szóló törvényben meghatározott feltételek fennállása és a kérelem személyesen történő benyújtása esetén az automatikus döntéshozatali eljárás szabályai szerint jár el.
+(4)[^71] A hatósági bizonyítvány kiállítása során a kormányhivatal az általános közigazgatási rendtartásról szóló törvényben meghatározott feltételek fennállása és a kérelem személyesen történő benyújtása esetén az automatikus döntéshozatali eljárás szabályai szerint jár el.
 
-[^62]: A 27. § (1) bekezdése az 560/2020. (XII. 7.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^63]: A 27. § (2) bekezdése az 523/2017. (XII. 29.) Korm. rendelet 14. §-a szerint módosított szöveg.
-[^64]: A 27. § (3) bekezdése az 560/2020. (XII. 7.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^65]: A 27. § (4) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 592. § (3) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 618. §-át.
+[^68]: A 27. § (1) bekezdése az 560/2020. (XII. 7.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^69]: A 27. § (2) bekezdése az 523/2017. (XII. 29.) Korm. rendelet 14. §-a szerint módosított szöveg.
+[^70]: A 27. § (3) bekezdése az 560/2020. (XII. 7.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^71]: A 27. § (4) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 592. § (3) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 618. §-át.

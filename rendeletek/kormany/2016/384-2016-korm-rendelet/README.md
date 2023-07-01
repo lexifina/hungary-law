@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-384-20-
 | 2021-12-22 | 2016-384-20-22.12 | 735/2021. (XII. 21.) Korm. rendelet |
 | 2022-01-01 | 2016-384-20-22.13 | 827/2021. (XII. 28.) Korm. rendelet |
 | 2023-01-01 | 2016-384-20-22.14 | 616/2022. (XII. 29.) Korm. rendelet |
+| 2023-07-01 | 2016-384-20-22.17 | 253/2023. (VI. 23.) Korm. rendelet |

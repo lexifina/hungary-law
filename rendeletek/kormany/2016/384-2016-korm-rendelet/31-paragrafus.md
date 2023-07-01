@@ -1,7 +1,7 @@
-## 30. §[^66] Az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvénynek az okirati ellenjegyzésre vonatkozó szabályait az ingatlan-nyilvántartási eljárásban a 2018. január 1-jén vagy azt követően ellenjegyzett okiratokra kell alkalmazni. E rendelkezést a folyamatban lévő ügyekben és a megismételt eljárásokban is alkalmazni kell.
+## 30. §[^72] Az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvénynek az okirati ellenjegyzésre vonatkozó szabályait az ingatlan-nyilvántartási eljárásban a 2018. január 1-jén vagy azt követően ellenjegyzett okiratokra kell alkalmazni. E rendelkezést a folyamatban lévő ügyekben és a megismételt eljárásokban is alkalmazni kell.
 
-31. §[^67] (1) E rendeletnek a telekalakítási eljárást érintően egyes kormányrendeletek módosításáról szóló 735/2021. (XII. 21.) Korm. rendelettel (a továbbiakban: Módr1.) megállapított 23/B. §-át a Módr1. hatálybalépésekor[^68] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+31. §[^73] (1) E rendeletnek a telekalakítási eljárást érintően egyes kormányrendeletek módosításáról szóló 735/2021. (XII. 21.) Korm. rendelettel (a továbbiakban: Módr1.) megállapított 23/B. §-át a Módr1. hatálybalépésekor[^74] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^66]: A 30. §-t a 103/2018. (VI. 11.) Korm. rendelet 26. §-a iktatta be.
-[^67]: A 31. §-t a 735/2021. (XII. 21.) Korm. rendelet 6. §-a iktatta be.
-[^68]: A hatálybalépés időpontja 2021. december 22.
+[^72]: A 30. §-t a 103/2018. (VI. 11.) Korm. rendelet 26. §-a iktatta be.
+[^73]: A 31. §-t a 735/2021. (XII. 21.) Korm. rendelet 6. §-a iktatta be.
+[^74]: A hatálybalépés időpontja 2021. december 22.
