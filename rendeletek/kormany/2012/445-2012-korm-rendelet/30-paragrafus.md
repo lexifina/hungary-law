@@ -10,13 +10,13 @@ d) a 2006/66/EK európai parlamenti és tanácsi irányelvvel összhangban az el
 
 e) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek;
 
-f)[^80] az elemekről és akkumulátorokról, valamint a hulladékelemekről és -akkumulátorokról szóló 2006/66/EK európai parlamenti és tanácsi irányelvnek a vezeték nélküli villamos kézi szerszámokba szánt, kadmiumot tartalmazó hordozható elemek és akkumulátorok, valamint az alacsony higanytartalmú gombelemek forgalomba hozatala tekintetében történő módosításáról, és a 2009/603/EK bizottsági határozat hatályon kívül helyezéséről szóló, 2013. november 20-i 2013/56/EU európai parlamenti és tanácsi irányelvnek.
+f)[^71] az elemekről és akkumulátorokról, valamint a hulladékelemekről és -akkumulátorokról szóló 2006/66/EK európai parlamenti és tanácsi irányelvnek a vezeték nélküli villamos kézi szerszámokba szánt, kadmiumot tartalmazó hordozható elemek és akkumulátorok, valamint az alacsony higanytartalmú gombelemek forgalomba hozatala tekintetében történő módosításáról, és a 2009/603/EK bizottsági határozat hatályon kívül helyezéséről szóló, 2013. november 20-i 2013/56/EU európai parlamenti és tanácsi irányelvnek.
 
-g)[^81] az elhasználódott járművekről szóló 2000/53/EK irányelv, az elemekről és akkumulátorokról, valamint a hulladékelemekről és -akkumulátorokról szóló 2006/66/EK irányelv, valamint az elektromos és elektronikus berendezések hulladékairól szóló 2012/19/EU irányelv módosításáról szóló, 2018. május 30-i (EU) 2018/849 európai parlamenti és tanácsi irányelvnek
+g)[^72] az elhasználódott járművekről szóló 2000/53/EK irányelv, az elemekről és akkumulátorokról, valamint a hulladékelemekről és -akkumulátorokról szóló 2006/66/EK irányelv, valamint az elektromos és elektronikus berendezések hulladékairól szóló 2012/19/EU irányelv módosításáról szóló, 2018. május 30-i (EU) 2018/849 európai parlamenti és tanácsi irányelvnek
 
-## való megfelelést szolgálja.
+való megfelelést szolgálja.
 
 (2) E rendelet tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
 
-[^80]: A 30. § (1) bekezdés f) pontját a 370/2014. (XII. 30.) Korm. rendelet 24. §-a iktatta be.
-[^81]: A 30. § (1) bekezdés g) pontját a 158/2021. (III. 31.) Korm. rendelet 11. §-a iktatta be.
+[^71]: A 30. § (1) bekezdés f) pontját a 370/2014. (XII. 30.) Korm. rendelet 24. §-a iktatta be.
+[^72]: A 30. § (1) bekezdés g) pontját a 158/2021. (III. 31.) Korm. rendelet 11. §-a iktatta be.

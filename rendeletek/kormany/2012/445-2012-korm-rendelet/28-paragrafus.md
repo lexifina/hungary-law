@@ -1,4 +1,4 @@
-## 27. §[^77] A 2006/66/EK európai parlamenti és tanácsi irányelv 10. cikk (3) bekezdésében, 12. cikk (1) bekezdésében, valamint 26. cikk (2) bekezdésében meghatározott tájékoztatási és jelentéstételi kötelezettség végrehajtásáról a hulladékgazdálkodásért felelős miniszter gondoskodik.
+## 27. §[^68] A 2006/66/EK európai parlamenti és tanácsi irányelv 10. cikk (3) bekezdésében, 12. cikk (1) bekezdésében, valamint 26. cikk (2) bekezdésében meghatározott tájékoztatási és jelentéstételi kötelezettség végrehajtásáról a hulladékgazdálkodásért felelős miniszter gondoskodik.
 
 ## 16. Záró rendelkezések
 
@@ -10,11 +10,13 @@
 
 (4) Az e rendelet szerinti tevékenységét tárgyévben megkezdő gyártó adatszolgáltatási kötelezettsége teljesítése során
 
-a)[^78] a 4. melléklet 1. pont a) és f) alpontja szerinti adatokat első alkalommal a tevékenység megkezdését követő évben,
+a)[^69] a 4. melléklet 1. pont a) és f) alpontja szerinti adatokat első alkalommal a tevékenység megkezdését követő évben,
 
 b) a 4. melléklet 1. pont b) alpontja szerinti adatokat első alkalommal a tevékenység megkezdését követő második évben,
 
 c) a 4. melléklet 1. pont c) alpontja szerinti adatokat első alkalommal a tevékenység megkezdését követő harmadik évben
 
-[^77]: A 27. § a 132/2018. (VII. 23.) Korm. rendelet 7. §-a, a 158/2021. (III. 31.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
-[^78]: A 28. § (4) bekezdés a) pontja a 310/2014. (XII. 11.) Korm. rendelet 16. § (8) bekezdése szerint módosított szöveg.
+nyújtja be.
+
+[^68]: A 27. § a 132/2018. (VII. 23.) Korm. rendelet 7. §-a, a 158/2021. (III. 31.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
+[^69]: A 28. § (4) bekezdés a) pontja a 310/2014. (XII. 11.) Korm. rendelet 16. § (8) bekezdése szerint módosított szöveg.

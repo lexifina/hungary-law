@@ -32,5 +32,8 @@
 
 (2) E rendeletben az egyes hulladékgazdálkodási létesítmények kialakításának és üzemeltetésének szabályairól szóló kormányrendeletben meghatározott fogalmak is alkalmazandóak.
 
+(3)[^4] Az e rendeletben alkalmazott fogalmakat a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló kormányrendeletben meghatározottak szerint kell értelmezni.
+
 [^2]: A 2. § a 370/2014. (XII. 30.) Korm. rendelet 16. §-ával megállapított szöveg.
 [^3]: A 2. § (1) bekezdés 5a. pontját a 158/2021. (III. 31.) Korm. rendelet 9. §-a iktatta be.
+[^4]: A 2. § (3) bekezdését a 276/2023. (VI. 29.) Korm. rendelet 13. §-a iktatta be.

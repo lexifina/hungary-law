@@ -1,16 +1,12 @@
 ## 14. Jogkövetkezmények
 
-25. § (1)[^70] Ha a gyártó az átvételi, gyűjtési és kezelési kötelezettségét nem vagy nem jogszabályszerűen teljesíti, a kötelezettség ellátásáról az országos hulladékgazdálkodási hatóság a gyártó vagyoni biztosítékának terhére vagy a közvetítő szervezet költségére, az arra feljogosított kezelő útján gondoskodik.
+25. § (1)[^63] Ha egyéni teljesítés esetén a gyártó az átvételi, gyűjtési és kezelési kötelezettségét nem vagy nem jogszabályszerűen teljesíti, a kötelezettség ellátásáról az országos hulladékgazdálkodási hatóság a gyártó vagyoni biztosítékának terhére, az arra feljogosított kezelő útján gondoskodik.
 
-(2)[^71] Ha a gyártó és a közvetítő szervezet az e rendeletben meghatározott kötelezettségét nem teljesíti, az országos hulladékgazdálkodási hatóság a hulladékgazdálkodási bírság mértékéről, valamint kiszabásának és megállapításának módjáról szóló kormányrendeletben (a továbbiakban: Hbr.) meghatározott mértékű hulladékgazdálkodási bírságot szab ki.
+(2)[^64] Ha a gyártó és a koncessziós társaság és a koncesszori alvállalkozó az e rendeletben meghatározott kötelezettségét nem teljesíti, a 23. § szerinti hulladékgazdálkodási hatóság a hulladékgazdálkodási bírság mértékéről, valamint kiszabásának és megállapításának módjáról szóló kormányrendeletben (a továbbiakban: Hbr.) meghatározott mértékű hulladékgazdálkodási bírságot szab ki.
 
-(3)[^72] Az országos hulladékgazdálkodási hatóság a gyártót a nyilvántartásból törli, ha a gyártó az elem, az akkumulátor gyártását vagy forgalmazását megszünteti. Az országos hulladékgazdálkodási hatóság a közvetítő szervezetet a nyilvántartásból törli, ha közvetítői tevékenységét megszünteti.
+(3)[^65]
 
-(4)[^73] Az országos hulladékgazdálkodási hatóság a kötelezettet a Hbr.-ben megállapított hulladékgazdálkodási bírság megfizetésére
-
-a)[^74] kötelezi, ha a nyilvántartásba vételi, valamint nyilvántartási és adatszolgáltatási kötelezettségét nem teljesíti,
-
-b) kötelezheti, ha a kötelezett nem az e rendeletben foglaltaknak megfelelő adatot szolgáltat.
+(4)[^66]
 
 (5) A 7. § (1) és (2) bekezdésében, továbbá a 20. § (4) bekezdésében foglalt rendelkezések megsértése esetén a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvényben (a továbbiakban: Fttv.) meghatározott hatóság jár el, ha a jogsértés az Fttv. 2. § a) pontja értelmében vett fogyasztót érint. A hatóság az Fttv.-ben meghatározott szabályok szerint jár el.
 
@@ -18,8 +14,7 @@ b) kötelezheti, ha a kötelezett nem az e rendeletben foglaltaknak megfelelő a
 
 (7) Az (5) és (6) bekezdésben meghatározott rendelkezések az Fgytv. alkalmazásában fogyasztóvédelmi rendelkezések.
 
-[^70]: A 25. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 220. § c) pontja, a 312/2021. (VI. 7.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
-[^71]: A 25. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 220. § c) pontja, a 312/2021. (VI. 7.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
-[^72]: A 25. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 220. § e) pontja, a 312/2021. (VI. 7.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
-[^73]: A 25. § (4) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 220. § c) pontja, a 312/2021. (VI. 7.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
-[^74]: A 25. § (4) bekezdés a) pontja a 310/2014. (XII. 11.) Korm. rendelet 16. § (7) bekezdése szerint módosított szöveg.
+[^63]: A 25. § (1) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^64]: A 25. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 220. § c) pontja, a 312/2021. (VI. 7.) Korm. rendelet 9. § a) pontja, a 276/2023. (VI. 29.) Korm. rendelet 25. § i) pontja szerint módosított szöveg.
+[^65]: A 25. § (3) bekezdését a 276/2023. (VI. 29.) Korm. rendelet 26. § k) pontja hatályon kívül helyezte.
+[^66]: A 25. § (4) bekezdését a 276/2023. (VI. 29.) Korm. rendelet 26. § k) pontja hatályon kívül helyezte.

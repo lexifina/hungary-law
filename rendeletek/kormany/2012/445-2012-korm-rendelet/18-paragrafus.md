@@ -1,6 +1,6 @@
 ## 10. A forgalmazó kötelezettségei
 
-18. § (1)[^59] Az elem, az akkumulátor forgalmazója a hulladékbirtokostól a hulladékká vált
+18. § (1)[^49] Az elem, az akkumulátor forgalmazója a hulladékbirtokostól a hulladékká vált
 
 a) hordozható elemet vagy akkumulátort,
 
@@ -8,18 +8,18 @@ b) a gépjárműelemet vagy akkumulátort, valamint
 
 c) az ipari elemet vagy akkumulátort
 
-## átvételi helyen, illetve speciális gyűjtőhelyen átveszi.
+átvételi helyen, illetve speciális gyűjtőhelyen átveszi.
 
-(2)[^60] Az (1) bekezdés szerinti hulladék elkülönített gyűjtése céljából a gyártó, az átvállaló vagy a közvetítő szervezet a forgalmazó részére sav- és lúgálló gyűjtőedényt vagy konténert biztosít.
+(2)[^50] Az (1) bekezdés szerinti hulladék elkülönített gyűjtése céljából egyéni teljesítés esetén a gyártó, kollektív teljesítés esetén a koncessziós társaság a forgalmazó részére sav- és lúgálló gyűjtőedényt vagy konténert biztosít.
 
-(3)[^61] A hordozható elem, hordozható akkumulátor forgalmazója a gyártó, az átvállaló vagy a közvetítő szervezet által biztosított gyűjtőedényt a forgalmazás helyszínén a hulladékgyűjtés céljára kialakított speciális gyűjtőhelyre telepíti, és rendelkezésre állását folyamatosan biztosítja.
+(3)[^51] A hordozható elem, hordozható akkumulátor forgalmazója a gyártó vagy a koncessziós társaság által biztosított gyűjtőedényt a forgalmazás helyszínén a hulladékgyűjtés céljára kialakított speciális gyűjtőhelyre telepíti, és rendelkezésre állását folyamatosan biztosítja.
 
-(4)[^62] A gépjárműelem vagy gépjármű akkumulátor, ipari elem vagy ipari akkumulátor forgalmazója a gyártó által biztosított, akkumulátorsavnak ellenálló – nagy kapacitású lúgos akkumulátorok átvétele esetén lúgálló –, zárható konténert a forgalmazás helyszínén a hulladékgyűjtés céljára kialakított speciális gyűjtőhelyre telepíti, és rendelkezésre állását folyamatosan biztosítja.
+(4)[^52] A gépjárműelem vagy gépjármű-akkumulátor, ipari elem vagy ipari akkumulátor forgalmazója a gyártó vagy a koncessziós társaság által biztosított, akkumulátorsavnak ellenálló – nagy kapacitású lúgos akkumulátorok átvétele esetén lúgálló –, zárható konténert a forgalmazás helyszínén a hulladékgyűjtés céljára kialakított speciális gyűjtőhelyre telepíti, és rendelkezésre állását folyamatosan biztosítja.
 
-(5)[^63] Az elkülönített hulladékgyűjtés céljából kialakított speciális gyűjtőhelyen elhelyezett gyűjtőedényben, konténerben gyűjtött hulladék a gyártó, a forgalmazó, az átvállaló, a közvetítő szervezet vagy a gyűjtőedény fenntartója közötti eltérő megállapodás hiányában a gyűjtőedény, konténer fenntartójának tulajdona.
+(5)[^53]
 
-[^59]: A 18. § (1) bekezdés záró szövegrésze a 370/2014. (XII. 30.) Korm. rendelet 25. § 5. pontja szerint módosított szöveg.
-[^60]: A 18. § (2) bekezdése a 370/2014. (XII. 30.) Korm. rendelet 21. §-ával megállapított szöveg.
-[^61]: A 18. § (3) bekezdése a 370/2014. (XII. 30.) Korm. rendelet 21. §-ával megállapított szöveg.
-[^62]: A 18. § (4) bekezdése a 370/2014. (XII. 30.) Korm. rendelet 21. §-ával megállapított szöveg.
-[^63]: A 18. § (5) bekezdése a 310/2014. (XII. 11.) Korm. rendelet 16. § (1) bekezdése szerint módosított szöveg.
+[^49]: A 18. § (1) bekezdés záró szövegrésze a 370/2014. (XII. 30.) Korm. rendelet 25. § 5. pontja szerint módosított szöveg.
+[^50]: A 18. § (2) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^51]: A 18. § (3) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^52]: A 18. § (4) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^53]: A 18. § (5) bekezdését a 276/2023. (VI. 29.) Korm. rendelet 26. § g) pontja hatályon kívül helyezte.

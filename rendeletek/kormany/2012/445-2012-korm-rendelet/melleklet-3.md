@@ -1,5 +1,3 @@
-## A gyűjtési kötelezettség mértéke
-
 |  | A | B |
 
 | 1 | Időszak | A hulladékká vált hordozható elem, akkumulátor gyűjtési aránya (K) |
@@ -38,6 +36,6 @@
 
 ## K: a tárgyévre vonatkozó gyűjtési arány.
 
-3. melléklet a 445/2012. (XII. 29.) Korm. rendelethez[^84]
+3. melléklet a 445/2012. (XII. 29.) Korm. rendelethez[^75]
 
-[^84]: A 3. mellékletet a 310/2014. (XII. 11.) Korm. rendelet 17. § d) pontja hatályon kívül helyezte.
+[^75]: A 3. mellékletet a 310/2014. (XII. 11.) Korm. rendelet 17. § d) pontja hatályon kívül helyezte.

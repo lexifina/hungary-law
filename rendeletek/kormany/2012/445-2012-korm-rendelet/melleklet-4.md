@@ -1,101 +1,55 @@
-4. melléklet a 445/2012. (XII. 29.) Korm. rendelethez[^85]
+4. melléklet a 445/2012. (XII. 29.) Korm. rendelethez[^76]
 
-## A gyártó, az átvállaló, a közvetítő szervezet és az állami hulladékgazdálkodást közvetítő szervezet adatszolgáltatási kötelezettsége során közölt adatok
+A gyártó, a koncessziós társaság és a koncesszori alvállalkozó adatszolgáltatási kötelezettsége során közölt adatok
 
-1. A gyártó adatszolgáltatási kötelezettsége:
+1. A gyártó adatszolgáltatási kötelezettsége
 
-1.1. A gyártóra vonatkozó adatok:
+1.1. A gyártó tevékenységére vonatkozó adatok:
 
-a) neve,
+1.1.1. egyéni teljesítés esetén a gyártó által a tárgyévben forgalmazott elem, akkumulátor mennyisége (kilogramm) típusonkénti bontásban;
 
-b) KÜJ-azonosítója, KSH statisztikai számjele (ennek hiányában közösségi vagy nemzetközi adószáma),
+1.1.2. egyéni teljesítés esetén a gyártó által a tárgyévet megelőző évben forgalmazott elem, akkumulátor mennyisége (kilogramm) típusonkénti bontásban;
 
-c) székhelye;
+1.1.3. egyéni teljesítés esetén a gyártó által a tárgyévet kettővel megelőző évben forgalmazott elem, akkumulátor mennyisége (kilogramm) típusonkénti bontásban;
 
-d) a hatósággal való kapcsolattartásért felelős személy neve, beosztása, elérhetősége.
+1.1.4. egyéni teljesítés esetén a gyártó által a tárgyévben, a tárgyévet megelőző évben és a tárgyévet megelőző második évben forgalmazott hordozható elem, akkumulátor mennyiségének átlaga típusonkénti bontásban;
 
-1.2. A gyártó tevékenységére vonatkozó adatok:
+1.1.5. egyéni teljesítés esetén a gyártó által átvett, gyűjtött elem- és akkumulátorhulladék mennyisége (kilogramm) teljesítési segédenként, típusonként bontva;
 
-a) a gyártó által a tárgyévben forgalmazott elem, akkumulátor mennyisége (kilogramm) típusonkénti bontásban;
+1.1.6. egyéni teljesítés esetén a gyártó által a tárgyévben kezelt elem- és akkumulátorhulladék mennyisége (kilogramm) típusonkénti és teljesítési segédenkénti bontásban, újrafeldolgozási hatékonysági mutatóval, Magyarország területén kívüli hulladékkezelés esetén a kiviteli engedély száma;
 
-b) a gyártó által a tárgyévet megelőző évben forgalmazott elem, akkumulátor mennyisége (kilogramm) típusonkénti bontásban;
+1.1.7. a gyártó átvételi, gyűjtési és kezelési kötelezettsége ellátásának biztosítására képzett tárgyévi biztosíték összege és típusa, ha a gyártó biztosíték képzésére köteles;
 
-c) a gyártó által a tárgyévet kettővel megelőző évben forgalmazott elem, akkumulátor mennyisége (kilogramm) típusonkénti bontásban;
+1.1.8. a tárgyévi gyűjtési, kezelési kötelezettség ellátásának módja.
 
-d) a gyártó által a tárgyévben, a tárgyévet megelőző évben és a tárgyévet megelőző második évben forgalmazott hordozható elem, akkumulátor mennyiségének átlaga típusonkénti bontásban;
+2. A koncessziós társaság és a koncesszori alvállalkozó adatszolgáltatási kötelezettsége
 
-e) a gyártó által átvett, gyűjtött elem- és akkumulátorhulladék mennyisége (kilogramm) teljesítési segédenként, típusonként bontva;
+2.1. A koncessziós társaság tevékenységére vonatkozó adatok:
 
-f) a gyártó által a tárgyévben kezelt elem- és akkumulátorhulladék mennyisége (kilogramm) típusonkénti és teljesítési segédenkénti bontásban, újrafeldolgozási hatékonysági mutatóval, Magyarország területén kívüli hulladékkezelés esetén a kiviteli engedély száma;
+2.1.1. a kollektív teljesítő gyártók által a tárgyévben forgalmazott elem, akkumulátor mennyisége (kilogramm) típusonkénti bontásban, összesen;
 
-g) a gyártó átvételi, gyűjtési és kezelési kötelezettsége ellátásának biztosítására képzett tárgyévi biztosíték összege és típusa, ha a gyártó biztosíték képzésére köteles;
+2.1.2. a kollektív teljesítő gyártók által a tárgyévet megelőző évben forgalmazott elem, akkumulátor mennyisége (kilogramm) típusonkénti bontásban, összesen;
 
-h) a tárgyévi gyűjtési, kezelési kötelezettség ellátásának módja.
+2.1.3. a kollektív teljesítő gyártók által a tárgyévet kettővel megelőző évben forgalmazott elem, akkumulátor mennyisége (kilogramm) típusonkénti bontásban;
 
-2. Az átvállaló adatszolgáltatási kötelezettsége:
+2.1.4. a kollektív teljesítő gyártók által a tárgyévben, a tárgyévet megelőző évben és a tárgyévet megelőző második évben forgalmazott hordozható elem, akkumulátor mennyiségének átlaga típusonkénti bontásban.
 
-2.1. Az átvállalóra vonatkozó adatok:
+2.2. A koncessziós társaság és a koncesszori alvállalkozó tevékenységére vonatkozó adatok:
 
-a) neve,
+2.2.1. az átvett, gyűjtött elem- és akkumulátorhulladék mennyisége (kilogramm) típusonkénti bontásban;
 
-b) KÜJ-azonosítója, KSH statisztikai számjele,
+2.2.2. a tárgyévben kezelt elem- és akkumulátorhulladék mennyisége (kilogramm) típusonkénti bontásban, újrafeldolgozási hatékonysági mutatóval, Magyarország területén kívüli hulladékkezelés esetén a kiviteli engedély száma.
 
-c) székhelye;
+3. Az elemek és az akkumulátorok adatszolgáltatásban feltüntetendő típusai:
 
-d) a hatósággal való kapcsolattartásért felelős személy neve, beosztása, elérhetősége.
+3.1. savas ólomakkumulátor;
 
-2.2. Az átvállaló tevékenységére vonatkozó adatok:
+3.2. lúgos akkumulátor (ebből Ni-Cd akkumulátor);
 
-a) az átvett, gyűjtött elem- és akkumulátorhulladék mennyisége (kilogramm) teljesítési segédenként, típusonkénti bontásban;
+3.3. gombelem és akkumulátor (ebből 0,0005–2% közötti higanytartalmú);
 
-b) a tárgyévben kezelt elem- és akkumulátorhulladék mennyisége (kilogramm) típusonkénti és teljesítési segédenkénti bontásban, újrafeldolgozási hatékonysági mutatóval, Magyarország területén kívüli hulladékkezelés esetén a kiviteli engedély száma.
+3.4. egyéb elemek és akkumulátorok;
 
-3. A közvetítő szervezet adatszolgáltatási kötelezettsége:
+3.5. összesített mennyiség.
 
-3.1. A közvetítő szervezetre vonatkozó adatok:
-
-a) neve,
-
-b) KÜJ-azonosítója, KSH statisztikai számjele,
-
-c) székhelye;
-
-d) a hatósággal való kapcsolattartásért felelős személy neve, beosztása, elérhetősége.
-
-3.2. A közvetítő szervezet tevékenységére vonatkozó adatok:
-
-a) az átvett, gyűjtött elem és akkumulátorhulladék mennyisége (kilogramm) típusonkénti és teljesítési segédenkénti bontásban;
-
-b) a tárgyévben kezelt elem- és akkumulátorhulladék mennyisége (kilogramm) típusonkénti és teljesítési segédenkénti bontásban, újrafeldolgozási hatékonysági mutatóval, Magyarország területén kívüli hulladékkezelés esetén a kiviteli engedély száma.
-
-4. Az állami hulladékgazdálkodást közvetítő szervezet adatszolgáltatási kötelezettsége:
-
-4.1. Az állami hulladékgazdálkodást közvetítő szervezetre vonatkozó adatok:
-
-a) neve,
-
-b) KÜJ-azonosítója, KSH statisztikai számjele,
-
-c) székhelye;
-
-d) a hatósággal való kapcsolattartásért felelős személy neve, beosztása, elérhetősége.
-
-4.2. Az állami hulladékgazdálkodást közvetítő szervezet tevékenységére vonatkozó adatok:
-
-a) az átvett, gyűjtött elem és akkumulátorhulladék mennyisége (kilogramm) típusonkénti és teljesítési segédenkénti bontásban;
-
-b) a tárgyévben kezelt elem- és akkumulátorhulladék mennyisége (kilogramm) típusonkénti és teljesítési segédenkénti bontásban, újrafeldolgozási hatékonysági mutatóval, Magyarország területén kívüli hulladékkezelés esetén a kiviteli engedély száma.
-
-5. Az elemek és az akkumulátorok adatszolgáltatásban feltüntetendő típusai:
-
-a) savas ólomakkumulátor;
-
-b) lúgos akkumulátor (ebből Ni-Cd akkumulátor);
-
-c) gombelem és akkumulátor (ebből 0,0005-2% közötti higanytartalmú);
-
-d) egyéb elemek és akkumulátorok;
-
-e) összesített mennyiség.
-
-[^85]: A 4. melléklet a 310/2014. (XII. 11.) Korm. rendelet – a 368/2014. (XII. 30.) Korm. rendelet 12. § (3) és (4) bekezdése szerint módosított – 15. § (6) bekezdésével megállapított szöveg.
+[^76]: A 4. melléklet a 276/2023. (VI. 29.) Korm. rendelet 24. §-ával megállapított szöveg.
