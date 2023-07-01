@@ -2,11 +2,11 @@
 
 a)
 
-b)
+b) 42/C. § (3) bekezdés 1. pontja,
 
-c)
+c) 42/D. § (1) bekezdése,
 
-d)
+d) 42/F. §-a,
 
 e)
 

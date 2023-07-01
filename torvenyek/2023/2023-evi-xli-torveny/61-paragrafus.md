@@ -1,1 +1,3 @@
-### 61. §
+61. § A KFItv. 16. alcíme a következő 47/B. §-sal egészül ki:
+
+„47/B. § Az innovációs és tudományos eredmények gazdasági hasznosításának elősegítése érdekében szükséges egyes törvények módosításáról szóló 2023. évi XLI. törvény (a továbbiakban: Mód2.tv.) hatálybalépését megelőzően kinevezett ELKH Irányító Testületi tagok megbízatása – az elnök kivételével – a Mód2.tv. hatálybalépését követő 15. napon megszűnik.”
