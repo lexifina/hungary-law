@@ -4,6 +4,6 @@
 
 ## A harmadik országbeli állampolgárok szálláshelyének bejelentési kötelezettsége
 
-153. §[^520]
+153. §[^521]
 
-[^520]: A 153. §-t a 277/2018. (XII. 21.) Korm. rendelet 27. § c) pontja hatályon kívül helyezte.
+[^521]: A 153. §-t a 277/2018. (XII. 21.) Korm. rendelet 27. § c) pontja hatályon kívül helyezte.
