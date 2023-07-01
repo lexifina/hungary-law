@@ -1,8 +1,8 @@
-## 9. [^220] A családi otthonteremtési kedvezmény központi költségvetéssel való elszámolásának szabályai
+## 9. [^226] A családi otthonteremtési kedvezmény központi költségvetéssel való elszámolásának szabályai
 
 61. § (1) A családi otthonteremtési kedvezményt az állam nevében a Kincstár nyújtja.
 
-(2)[^221] A hitelintézetet az általa jogszerűen folyósított
+(2)[^227] A hitelintézetet az általa jogszerűen folyósított
 
 a) családi otthonteremtési kedvezmény összege után
 
@@ -40,5 +40,5 @@ egyszeri költségtérítés illeti meg, amelyet az a) pont esetén a családi o
 
 (12) A hitelintézet a támogatásokat az eAdaton elérhető tájékoztató szerinti formában tartja nyilván.
 
-[^220]: A 9. alcím (61–62. §) a 101/2019. (V. 2.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^221]: A 61. § (2) bekezdése a 150/2022. (IV. 14.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^226]: A 9. alcím (61–62. §) a 101/2019. (V. 2.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^227]: A 61. § (2) bekezdése a 150/2022. (IV. 14.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.

@@ -2,7 +2,7 @@
 
 a) hozzájárulását ahhoz, hogy a 3. § (1) bekezdés 4. pont a) alpontja szerinti, illetve a fiatal házaspár által vállalt gyermek születését a Kincstár – a családtámogatási adatbázist magában foglaló egységes szociális nyilvántartásban már rendelkezésre álló, és a hitelintézet által szolgáltatott adatokat összevetve – megállapítsa, és
 
-b)[^46] nyilatkozatát, melyben vállalja, hogy ha a gyermek születését követően nem igényel családtámogatási ellátást, vagy ha azt a családok támogatásáról szóló 1998. évi LXXXIV. törvény végrehajtásáról szóló 223/1998. (XII. 30.) Korm. rendelet 4/B. § (4) bekezdése szerinti családtámogatási kifizetőhelyen igényli,
+b)[^47] nyilatkozatát, melyben vállalja, hogy ha a gyermek születését követően nem igényel családtámogatási ellátást, vagy ha azt a családok támogatásáról szóló 1998. évi LXXXIV. törvény végrehajtásáról szóló 223/1998. (XII. 30.) Korm. rendelet 4/B. § (4) bekezdése szerinti családtámogatási kifizetőhelyen igényli,
 
 ba) a gyermek nevét, születési adatait, adóazonosító jelét büntetőjogi felelősség vállalásával tett, teljes bizonyító erejű magánokiratba foglalt nyilatkozatban bejelenti, továbbá a gyermek lakcímét igazoló hatósági igazolványát,
 
@@ -10,4 +10,4 @@ bb) a gyermek halva születése esetén annak tényét igazoló dokumentumot
 
 a gyermek születését követő legfeljebb 90 napon belül a hitelintézet részére bemutatja.
 
-[^46]: A 16. § b) pontja a 26/2018. (II. 28.) Korm. rendelet 7. §-ával megállapított, záró szövegrésze a 169/2023. (V. 12.) Korm. rendelet 16. § 2. pontja szerint módosított szöveg.
+[^47]: A 16. § b) pontja a 26/2018. (II. 28.) Korm. rendelet 7. §-ával megállapított, záró szövegrésze a 169/2023. (V. 12.) Korm. rendelet 16. § 2. pontja szerint módosított szöveg.

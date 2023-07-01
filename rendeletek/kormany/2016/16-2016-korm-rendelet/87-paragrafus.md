@@ -1,10 +1,10 @@
-87. §[^281] (1) Az e rendelet szerinti adatszolgáltatásokat és elszámolásokat a lakáscélú állami támogatások elszámolási rendszerének egyszerűsítéséről szóló 101/2019. (V. 2.) Korm. rendelet (a továbbiakban: Módr3.) hatálybalépését[^282] követően a Módr3. által megállapított 9. és 10. alcímben foglaltak szerint kell teljesíteni.
+87. §[^287] (1) Az e rendelet szerinti adatszolgáltatásokat és elszámolásokat a lakáscélú állami támogatások elszámolási rendszerének egyszerűsítéséről szóló 101/2019. (V. 2.) Korm. rendelet (a továbbiakban: Módr3.) hatálybalépését[^288] követően a Módr3. által megállapított 9. és 10. alcímben foglaltak szerint kell teljesíteni.
 
-(2) A hitelintézet 2020. június 30. napjáig az e rendelet szerinti kamattámogatás 2019. évre vonatkozó, a Módr3. hatálybalépésének[^283] napjáig a központi költségvetés által megtérített összegéről az eAdaton található útmutató szerinti formában adatot szolgáltat a Kincstárnak.
+(2) A hitelintézet 2020. június 30. napjáig az e rendelet szerinti kamattámogatás 2019. évre vonatkozó, a Módr3. hatálybalépésének[^289] napjáig a központi költségvetés által megtérített összegéről az eAdaton található útmutató szerinti formában adatot szolgáltat a Kincstárnak.
 
-(3) A 256/2011. (XII. 6.) Korm. rendelet alapján folyósított támogatások központi költségvetéssel történő elszámolására és adatszolgáltatására a Módr3. hatálybalépését[^284] követően a Módr3. által megállapított 9. és 10. alcímben foglaltakat kell alkalmazni.
+(3) A 256/2011. (XII. 6.) Korm. rendelet alapján folyósított támogatások központi költségvetéssel történő elszámolására és adatszolgáltatására a Módr3. hatálybalépését[^290] követően a Módr3. által megállapított 9. és 10. alcímben foglaltakat kell alkalmazni.
 
-[^281]: A 87. §-t a 101/2019. (V. 2.) Korm. rendelet 6. § (2) bekezdése iktatta be.
-[^282]: A hatálybalépés időpontja 2019. október 1.
-[^283]: A hatálybalépés időpontja 2019. október 1.
-[^284]: A hatálybalépés időpontja 2019. október 1.
+[^287]: A 87. §-t a 101/2019. (V. 2.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^288]: A hatálybalépés időpontja 2019. október 1.
+[^289]: A hatálybalépés időpontja 2019. október 1.
+[^290]: A hatálybalépés időpontja 2019. október 1.

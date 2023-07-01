@@ -10,6 +10,6 @@ c) a harmadik országbeli állampolgár, ha a harmadik országbeli állampolgár
 
 d) a hontalan, ha a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben foglaltak alapján ilyen jogállásúnak ismerték el, vagy
 
-e)[^19]
+e)[^20]
 
-[^19]: Az 5. § e) pontját a 26/2018. (II. 28.) Korm. rendelet 23. § a) pontja hatályon kívül helyezte.
+[^20]: Az 5. § e) pontját a 26/2018. (II. 28.) Korm. rendelet 23. § a) pontja hatályon kívül helyezte.
