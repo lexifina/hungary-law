@@ -14,7 +14,7 @@ d) a jogszabályban meghatározott adatokra, illetve körülményekre vonatkozó
 
 2. belföldön bejegyzett pénzügyi intézménynél olyan fizetési számla nyitása és folyamatos fenntartása, amelyen az adósságrendezési eljárások hatálya alatt az adós és adóstárs adósságrendezési eljárásba vont bevételei, és adósságtörlesztései teljesítésével kapcsolatos pénzforgalom kerül lebonyolításra a családi vagyonfelügyelő rendelkezési jogának biztosításával,
 
-3. a 2. pont szerinti pénzforgalmi számlára az adósságrendezésbe vont készpénzvagyon és az adósságrendezésbe vont bevételek átutalása,
+3. a 2. pont szerinti számlára az adósságrendezésbe vont készpénzvagyon és az adósságrendezésbe vont bevételek átutalása,
 
 4. a mindennapi életvezetéshez szükséges bevételek kiadások kezelésére külön számla nyitása, annak pénzforgalmáról a családi vagyonfelügyelő tájékoztatása,
 

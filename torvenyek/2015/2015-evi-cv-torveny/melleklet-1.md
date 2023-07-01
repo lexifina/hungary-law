@@ -206,7 +206,7 @@ m) óvadékkal lekötött vagyon
 
 5.7. gyermekvédelmi, anyasági támogatások, gyermekgondozási díj
 
-5.8. családi pótlék
+5.8. családi pótlék és más családtámogatási és gyermekgondozási ellátások
 
 5.9. fogyatékossági ellátások
 

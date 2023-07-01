@@ -1,0 +1,1 @@
+105/E. § E törvénynek az igazságügyi tárgyú törvények módosításáról szóló 2023. évi XXXI. törvénnyel módosított 7. § (1) bekezdés a) és b) pontját, valamint 8. § (1) bekezdés h) pontját e rendelkezések módosításának hatálybalépését követően kezdeményezett adósságrendezési eljárásokban kell alkalmazni.

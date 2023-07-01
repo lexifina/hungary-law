@@ -8,7 +8,7 @@ c) az adósságrendezési egyezségkötés előkészítésével, megkötésével
 
 d) azoknak értékesítéseknek a lebonyolításával összefüggő ráfordításokat, díjakat, amelyek a családi vagyonfelügyelőt mint az értékesítést végzőt terhelik, (ideértve a NAV EÁF-en történő értékesítés díját és költségeit is),
 
-e) a Családi Csődvédelmi Szolgálatnak a családi vagyonfelügyelői tevékenységgel összefüggésben kötött felelősségbiztosítása díját, a kincstári számlavezetés és átutalások költségeit díjait, valamint
+e) a Családi Csődvédelmi Szolgálatnak a kincstári számlavezetés és átutalások költségeit díjait, valamint
 
 f) az adós jogainak gyakorlására kijelölt ügygondnok díját és készkiadásai megtérítéséhez szükséges összeget
 

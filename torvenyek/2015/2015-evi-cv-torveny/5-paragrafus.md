@@ -206,13 +206,13 @@ d) lakóingatlanra kötött vagyonbiztosítási szerződés, felelősségbiztos�
 
 47. privilegizált követelés:
 
-a) a törvényen alapuló tartásra jogosult részére jogerős határozattal vagy egyezséggel megállapított tartásdíj, szüléssel járó költség és tartásra irányuló járadékszerű szolgáltatás (a továbbiakban együtt: tartásdíj) jogosultanként legfeljebb a szociális vetítési alap összegének kétszeresét – a bíróság által megállapított méltánylandó esetekben legfeljebb a szociális vetítési alap összegének háromszorosát – meg nem haladó havi összeggel számolva,
+a) a törvényen alapuló tartásra jogosult részére jogerős határozattal vagy egyezséggel megállapított tartásdíj, szüléssel járó költség és tartásra irányuló járadékszerű szolgáltatás (a továbbiakban együtt: tartásdíj) jogosultanként legfeljebb az e törvény végrehajtására kiadott kormányrendeletben meghatározott havi összeggel számolva,
 
-b) bíróság által jogerősen megállapított, természetes személyt járadékszerűen megillető kártérítés, jogosultanként legfeljebb a szociális vetítési alap összegének másfélszeresét meg nem haladó havi összeggel számolva,
+b) bíróság által jogerősen megállapított, természetes személyt járadékszerűen megillető kártérítés, jogosultanként legfeljebb az e törvény végrehajtására kiadott kormányrendeletben meghatározott havi összeggel számolva,
 
-c) társasházi közös költségre vonatkozó követelés, lakásszövetkezeti fenntartási célú követelés, társasházanként, lakásszövetkezetenként legfeljebb 15 000 forintot meg nem haladó havi összeggel számolva, ha pedig a közös költség részeként közműdíjakat is meg kell fizetni, akkor legfeljebb 30 000 forintot meg nem haladó havi összeggel számolva,
+c) társasházi közös költségre vonatkozó követelés, lakásszövetkezeti fenntartási célú követelés, társasházanként, lakásszövetkezetenként legfeljebb az e törvény végrehajtására kiadott kormányrendeletben meghatározott havi összeggel számolva,
 
-d) a természetes személyt egy összegben megillető, bíróság által jogerősen megállapított kártérítés, sérelemdíj, jogosultanként összesen legfeljebb 2 millió forint összegig,
+d) a természetes személyt egy összegben megillető, bíróság által jogerősen megállapított kártérítés, sérelemdíj, jogosultanként összesen legfeljebb az e törvény végrehajtására kiadott kormányrendeletben meghatározott felső összeghatárig,
 
 e) közérdekkel összefüggő követelések,
 

@@ -50,4 +50,6 @@ részére, és az értesítésben megjelöli az adósságrendezési megállapod�
 
 (9) A Családi Csődvédelmi Szolgálat a bíróságon kívüli sikeres adósságrendezés tényét 8 napon belül bejegyzi az ARE nyilvántartásba. Erről az adatról a családi vagyonfelügyelő írásbeli megkeresésre tájékoztatást ad azoknak, akik hitelt érdemlően, okirattal vagy annak hiteles másolatával igazolják, hogy az adóssal szemben az adósságrendezés kezdeményezésekor pénzfizetésre irányuló követeléssel rendelkeztek az adóssal szemben, de hitelezőként az adósságrendezésbe nem jelentkeztek be. Az említett hitelezői megkeresés és a hitelező tájékoztatásának tényéről a családi vagyonfelügyelő 8 napon belül írásban tájékoztatja az adóst, adóstársat és a főhitelezőt.
 
-(10) A Családi Csődvédelmi Szolgálat a megállapodást az ARE dokumentumtárában a beérkezést követő tizedik év utolsó napjáig őrzi meg.
+(9a) Az adósságrendezési megállapodás módosítása esetén az erre vonatkozó adatot, a megállapodás módosítását, valamint a megállapodás módosítással egységes szerkezetbe foglalt szövegét a főhitelező a megállapodás módosítását követő 15 napon belül küldi meg az adós, adóstárs, egyéb kötelezett, a hitelezők, valamint a Családi Csődvédelmi Szolgálat részére.
+
+(10) A Családi Csődvédelmi Szolgálat a megállapodást, valamint a megállapodás módosítását az ARE dokumentumtárában a beérkezést követő tizedik év utolsó napjáig őrzi meg.

@@ -16,7 +16,7 @@ a) nyilvántartásba-vételi díj esetében a (2) bekezdés a) pontja szerinti d
 
 b) követeléskezelési díj esetében a (2) bekezdés b) és c) pontja szerinti díjalap 2%-a.
 
-(4) A főhitelezőnek nem kell a (3) bekezdés a) pontjában meghatározott nyilvántartásba-vételi díjat megfizetnie.
+(4) A főhitelezőnek nem kell a (3) bekezdés a) pontjában meghatározott nyilvántartásba-vételi díjat megfizetnie, ha vállalta és teljesítette a 30. § (1)–(5) bekezdésében meghatározott feladatokat.
 
 (5) A nyilvántartásba-vételi díjat és a követeléskezelési díjat a Családi Csődvédelmi Szolgálat számára, a kincstárnál e célra nyitott pénzforgalmi számlájára átutalással kell megfizetni.
 

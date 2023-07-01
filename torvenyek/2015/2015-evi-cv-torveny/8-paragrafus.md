@@ -26,7 +26,7 @@ gb) a bíróság a bíróságon kívüli adósságrendezési megállapodás hat�
 
 gc) a bíróság a bírósági adósságrendezési egyezség hatályának megszűnését állapította meg, és az erről szóló határozat jogerőre emelkedésétől számítva tíz év még nem telt el,
 
-h) az adóstársak, illetve az egyéb kötelezettek között magánjogi jogviszonyból eredő követelés érvényesítése, vagy polgári jogi igény megtérítése iránt eljárás van folyamatban, legalább 200 000 forint összegű fizetési kötelezettség teljesítése érdekében,
+h) az adóstársak, illetve az egyéb kötelezettek között magánjogi jogviszonyból eredő követelés érvényesítése, vagy polgári jogi igény megtérítése iránt eljárás van folyamatban, legalább 500 000 forint összegű fizetési kötelezettség teljesítése érdekében,
 
 i) az adós vagy adóstárs más országban magánszemélyek adósságrendezését vagy más, hasonló jogi hatásokkal járó bíróságon kívüli vagy bírósági eljárást kezdeményezett és azt még nem bírálták el,
 

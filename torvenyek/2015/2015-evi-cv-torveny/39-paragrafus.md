@@ -26,6 +26,8 @@ fe) ha a követelés az adósságrendezés kezdő időpontját követően jött 
 
 ff) a figyelmeztetést a bejelentés, a nyilvántartásba-vételi díj megfizetése és az elektronikus regisztráció elmulasztásának jogkövetkezményeire, valamint arra, hogy az fa) és az fe) alpontban meghatározott határidők elmulasztása esetén igazolásnak nincs helye.
 
+(1a) A hirdetményre a 25. § (6) és (7) bekezdésben foglaltakat is alkalmazni kell.
+
 (2) A hirdetmény szövegét a családi vagyonfelügyelő egyidejűleg az adós által bejelentett és az azóta ismertté vált hitelezőknek közvetlenül is megküldi.
 
 (3) A hirdetményt a közzétételétől számított ötödik év utolsó napjáig – ha pedig az adósságtörlesztési eljárásban az adósságtörlesztés időtartamát ennél hosszabban állapították meg, ennek lejártáig – kell a honlapon elérhetőként tartani, ezt követően a családi vagyonfelügyelő a hirdetményt archív állományba helyezi át, ahol az még a jogosultak által keresésre, lekérdezésre hozzáférhető. A hirdetményt a családi vagyonfelügyelő a Családi Csődvédelmi Szolgálat honlapjáról, illetve az archív állományból haladéktalanul törli, ha az adósságrendezési eljárás jogerősen befejeződik, és a rendkívüli jogorvoslati eljárás, valamint a mentesítési határozat hatályon kívül helyezését kezdeményező kérelem benyújtására megindítására vonatkozó jogvesztő határidő is eltelt.

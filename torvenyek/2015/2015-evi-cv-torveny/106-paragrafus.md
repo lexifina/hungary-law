@@ -24,6 +24,8 @@ j) a Családi Csődvédelmi Szolgálatnál a családi vagyonfelügyelők feletti
 
 k) az adósságtörlesztési terv elkészítésekor az adós foglalkozása, illetve egyéni vállalkozása gyakorlásához szükséges ingóságok, eszközök, járművek értékesítése alóli mentesítésre vonatkozó szabályokat.
 
+l) az 5. § 47. pont a)–d) alpontja, 45. § (3) és (5) bekezdése, valamint a 72. § (1) bekezdése szerinti felső összeghatárokat és a felső összeghatárok megemelésének lehetőségeit.
+
 (2) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben meghatározza
 
 a) a bíróságon kívüli adósságrendezés során a főhitelező és az adós közötti kapcsolattartás, valamint a főhitelező és a Családi Csődvédelmi Szolgálat közötti elektronikus kapcsolattartás szabályait, a főhitelezőnek az adósságrendezést kezdeményezni kívánó és az adósságrendezési eljárás alatt álló személyek számára ügyfélszolgálat létrehozásával és fenntartásával összefüggő kötelezettségeit,
