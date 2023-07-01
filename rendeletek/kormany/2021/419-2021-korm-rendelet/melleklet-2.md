@@ -16,7 +16,7 @@ c) Javaslat az épített környezet fejlesztésére és az építészeti öröks
 
 d) Tájrendezési és zöldinfrastruktúra-fejlesztési javaslat, csapadékvíz-gazdálkodás
 
-e)[^53] Közművesítés, elektronikus hírközlési javaslat, közlekedési javaslat
+e)[^57] Közművesítés, elektronikus hírközlési javaslat, közlekedési javaslat
 
 f) Védelmi és korlátozóelemek (veszélyeztetett, illetve veszélyeztető tényezőjű területek; védőterületek, védősávok; a táj, a természeti és az épített környezet, a környezeti elemek védelmével kapcsolatos korlátozások területei)
 
@@ -58,4 +58,4 @@ b) azon fejlesztések, tervi elemek azonosítása, amelyek környezeti szempontb
 
 2.8. A 2.1–2.7. pontokban megadott valamennyi információra kiterjedő közérthető összefoglaló.
 
-[^53]: A 2. melléklet 1. pont 1.2. alpont e) pontja a 10/2023. (I. 19.) Korm. rendelet 10. § i) pontja szerint módosított szöveg.
+[^57]: A 2. melléklet 1. pont 1.2. alpont e) pontja a 10/2023. (I. 19.) Korm. rendelet 10. § i) pontja szerint módosított szöveg.

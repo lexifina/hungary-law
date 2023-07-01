@@ -16,8 +16,10 @@ e) nyilatkozik arról, hogy a kérelmezett adatbázisokat és az adatokat kizár
 
 a) – a b) pontban foglalt kivétellel – a Lechner Tudásközpont, vagy
 
-b) a 10. melléklet 121–123. sorában szereplő adatok tekintetében az adott sorban meghatározott szerv
+b)[^17] a 10. melléklet 26–27. és 119–121. sorában szereplő adatok tekintetében az adott sorban meghatározott szerv
 
 biztosítja.
 
 (3) A polgármester és az (1) bekezdés b) pontjában meghatározott tervező az egyeztetési eljárás végéig hozzáférést kap a 10. melléklet szerinti adatszolgáltatáshoz.
+
+[^17]: A 61. § (2) bekezdés b) pontja a 253/2023. (VI. 23.) Korm. rendelet 9. §-ával megállapított szöveg.

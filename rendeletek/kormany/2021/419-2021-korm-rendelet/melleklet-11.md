@@ -256,9 +256,9 @@ A TELEPÜLÉSTERV, A TELEPÜLÉSI ARCULATI KÉZIKÖNYV ÉS A TELEPÜLÉSKÉPI RE
 
 | 4. | a Balaton vízparti területeit érintő településterv esetén a területrendezésért felelős miniszter | területrendezés | – | – |
 
-| 5. | környezetvédelmi és természetvédelmi hatáskörben vármegyei kormányhivatal[^57] | környezetvédelem, természet- és tájvédelem | – | – |
+| 5. | környezetvédelmi és természetvédelmi hatáskörben vármegyei kormányhivatal[^61] | környezetvédelem, természet- és tájvédelem | – | – |
 
-| 5a.[^55] | területi hulladékgazdálkodási hatóság | hulladékgazdálkodás | – | – |
+| 5a.[^59] | területi hulladékgazdálkodási hatóság | hulladékgazdálkodás | – | – |
 
 | 6. | nemzeti park igazgatóság | természet- és tájvédelem | természet- és tájvédelem | természet- és tájvédelem |
 
@@ -266,13 +266,13 @@ A TELEPÜLÉSTERV, A TELEPÜLÉSI ARCULATI KÉZIKÖNYV ÉS A TELEPÜLÉSKÉPI RE
 
 | 8. | területi vízügyi hatóság | vízgazdálkodás | – | – |
 
-| 9.[^56] |  |  |  |  |
+| 9.[^60] |  |  |  |  |
 
 | 10. | területi vízügyi igazgatási szerv | a vizek védelmével, illetve kártételeinek elhárításával összefüggő alapvető szempontok teljesülése, a környezet- és természetvédelmi követelményekre figyelemmel | – | – |
 
-| 11. | fővárosi és vármegyei katasztrófavédelmi igazgatóság[^58] | polgári védelem, iparbiztonság | – | – |
+| 11. | fővárosi és vármegyei katasztrófavédelmi igazgatóság[^62] | polgári védelem, iparbiztonság | – | – |
 
-| 12. | népegészségügyi hatáskörében eljáró fővárosi és vármegyei kormányhivatal[^59] | közegészségügy | – | – |
+| 12. | népegészségügyi hatáskörében eljáró fővárosi és vármegyei kormányhivatal[^63] | közegészségügy | – | – |
 
 | 13. | Budapest Főváros Kormányhivatala | közlekedés: gyorsforgalmi utat, közúti határátkelőhelyet, szintbeli közúti-vasúti átjárót érintő településrendezési eszköz esetében | – | – |
 
@@ -280,19 +280,19 @@ A TELEPÜLÉSTERV, A TELEPÜLÉSI ARCULATI KÉZIKÖNYV ÉS A TELEPÜLÉSKÉPI RE
 
 | 15. | a) légiközlekedési hatóság b) katonai légügyi hatóság | közlekedés: légi közlekedéssel érintett település esetében: a) polgári célú légiközlekedés tekintetében b) állami célú légiközlekedés tekintetében | – | – |
 
-| 16. | közlekedési hatósági hatáskörében eljáró fővárosi és vármegyei kormányhivatal[^60] | közlekedés: a 12–14. pont kivételével minden közúti közlekedési ügyben | – | – |
+| 16. | közlekedési hatósági hatáskörében eljáró fővárosi és vármegyei kormányhivatal[^64] | közlekedés: a 12–14. pont kivételével minden közúti közlekedési ügyben | – | – |
 
-| 17. | örökségvédelmi hatáskörében eljáró fővárosi és vármegyei kormányhivatal[^61] | régészeti örökség és műemléki érték, világörökségi és világörökségi várományos terület védelme | a világörökségi, műemléki és régészeti érték védelme | a világörökségi, műemléki és régészeti érték védelme |
+| 17. | örökségvédelmi hatáskörében eljáró fővárosi és vármegyei kormányhivatal[^65] | régészeti örökség és műemléki érték, világörökségi és világörökségi várományos terület védelme | a világörökségi, műemléki és régészeti érték védelme | a világörökségi, műemléki és régészeti érték védelme |
 
-| 18. | talajvédelmi hatáskörében eljáró fővárosi és vármegyei kormányhivatal[^62] | talajvédelem | – | – |
+| 18. | talajvédelmi hatáskörében eljáró fővárosi és vármegyei kormányhivatal[^66] | talajvédelem | – | – |
 
-| 19. | ingatlanügyi, földügyi igazgatási hatáskörében eljáró fővárosi és vármegyei kormányhivatal[^63] | földvédelem | – | – |
+| 19. | ingatlanügyi, földügyi igazgatási hatáskörében eljáró fővárosi és vármegyei kormányhivatal[^67] | földvédelem | – | – |
 
-| 20. | erdészeti hatáskörében eljáró vármegyei kormányhivatal, Nemzeti Földügyi Központ[^64] | erdőrendezés, erdővédelem | – | – |
+| 20. | erdészeti hatáskörében eljáró vármegyei kormányhivatal, Nemzeti Földügyi Központ[^68] | erdőrendezés, erdővédelem | – | – |
 
 | 21. | honvédelemért felelős miniszter | honvédelem | honvédelmi és katonai rendeltetésű terület érintettsége esetén honvédelem | honvédelmi és katonai rendeltetésű terület érintettsége esetén honvédelem |
 
-| 22. | fővárosi és vármegyei rendőr-főkapitányság[^65] | határrendészet | – | – |
+| 22. | fővárosi és vármegyei rendőr-főkapitányság[^69] | határrendészet | – | – |
 
 | 23. | bányafelügyelet | bányászat, geológia, morfológia, földtani veszélyforrások | – | – |
 
@@ -304,19 +304,19 @@ A TELEPÜLÉSTERV, A TELEPÜLÉSI ARCULATI KÉZIKÖNYV ÉS A TELEPÜLÉSKÉPI RE
 
 | 27. | Magyar Építész Kamara | – | településkép-védelem | – |
 
-| 28. | érintett és közigazgatási határral szomszédos területi (vármegyei, fővárosi) önkormányzat[^66] | területrendezés, településfejlesztés | – | – |
+| 28. | érintett és közigazgatási határral szomszédos területi (vármegyei, fővárosi) önkormányzat[^70] | területrendezés, településfejlesztés | – | – |
 
 | 29. | érintett kiemelt térségi fejlesztési tanács | a kiemelt térség fejlesztési koncepcióval való összhang megteremtése | – | – |
 
-[^57]: A 11. mellékletben foglalt táblázat A:5 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
-[^55]: A 11. mellékletben foglalt táblázat 5a. sorát a 60/2023. (II. 28.) Korm. rendelet 47. §-a iktatta be.
-[^56]: A 11. mellékletben foglalt táblázat 9. sorát a 10/2023. (I. 19.) Korm. rendelet 11. § e) pontja hatályon kívül helyezte.
-[^58]: A 11. mellékletben foglalt táblázat A:11 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
-[^59]: A 11. mellékletben foglalt táblázat A:12 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
-[^60]: A 11. mellékletben foglalt táblázat A:16 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
-[^61]: A 11. mellékletben foglalt táblázat A:17. mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
-[^62]: A 11. mellékletben foglalt táblázat A:18 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
-[^63]: A 11. mellékletben foglalt táblázat A:19 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
-[^64]: A 11. mellékletben foglalt táblázat A:20 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
-[^65]: A 11. mellékletben foglalt táblázat A:22 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
-[^66]: A 11. mellékletben foglalt táblázat A:28 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
+[^61]: A 11. mellékletben foglalt táblázat A:5 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
+[^59]: A 11. mellékletben foglalt táblázat 5a. sorát a 60/2023. (II. 28.) Korm. rendelet 47. §-a iktatta be.
+[^60]: A 11. mellékletben foglalt táblázat 9. sorát a 10/2023. (I. 19.) Korm. rendelet 11. § e) pontja hatályon kívül helyezte.
+[^62]: A 11. mellékletben foglalt táblázat A:11 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
+[^63]: A 11. mellékletben foglalt táblázat A:12 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
+[^64]: A 11. mellékletben foglalt táblázat A:16 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
+[^65]: A 11. mellékletben foglalt táblázat A:17. mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
+[^66]: A 11. mellékletben foglalt táblázat A:18 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
+[^67]: A 11. mellékletben foglalt táblázat A:19 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
+[^68]: A 11. mellékletben foglalt táblázat A:20 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
+[^69]: A 11. mellékletben foglalt táblázat A:22 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
+[^70]: A 11. mellékletben foglalt táblázat A:28 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
