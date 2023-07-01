@@ -1,0 +1,3 @@
+31. § A büntetés-végrehajtási szervezet részéről a központi államigazgatási szervek és a rendvédelmi szervek irányában fennálló egyes ellátási kötelezettségekről, a termékek és szolgáltatások átadás-átvételének és azok ellentételezésének rendjéről szóló 44/2011. (III. 23.) Korm. rendelet 12. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A honvédelmi szervezet, a polgári nemzetbiztonsági szolgálatok, valamint az 1. § (1a) bekezdésében foglalt szervezetek kivételével a Kedvezményezett a BM rendeletben meghatározott, a fogvatartottak kötelező foglalkoztatása keretében előállított termékekre és szolgáltatásokra vonatkozóan köteles a tárgyévet követő év június 30-áig az irányító miniszternek megküldeni az 1. mellékletben meghatározott adatokat.”
