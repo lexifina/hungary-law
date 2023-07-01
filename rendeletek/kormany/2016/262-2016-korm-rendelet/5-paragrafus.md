@@ -1,5 +1,3 @@
-## külön jogszabály rendelkezik.
-
 ## 3. Az alapszámla vezetésére vonatkozó keretszerződés megkötése
 
 ## 5. § Az alapszámlát vezető hitelintézetnek a fogyasztó fizetési számlára vonatkozó keretszerződés-kötésre irányuló jognyilatkozatát megelőző papíron vagy tartós adathordozón történő tájékoztatása külön kiterjed

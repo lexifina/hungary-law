@@ -1,4 +1,4 @@
-4. § (1) Az alapszámla vezetésére vonatkozó keretszerződés alapján a fogyasztó által fizetendő díjak, költségek havi összege – ideértve a készpénz-helyettesítő fizetési eszköznek a számlatulajdonos részére történő rendelkezésre bocsátása éves díjának egy hónapra eső díját is – nem haladhatja meg az esedékességét megelőző év utolsó napján érvényes legkisebb összegű havi bruttó minimálbér 1,5%-át, ha az alapszámla felett rendelkezni jogosult a tárgyhónapban legfeljebb
+4. § (1)[^1] Az alapszámla vezetésére vonatkozó keretszerződés alapján a fogyasztó által fizetendő díjak, költségek havi összege – ideértve a készpénz-helyettesítő fizetési eszköznek a számlatulajdonos részére történő rendelkezésre bocsátása éves díjának egy hónapra eső díját is – nem haladhatja meg az esedékességét megelőző év utolsó napján érvényes legkisebb összegű havi bruttó minimálbér 0,5%-át, ha az alapszámla felett rendelkezni jogosult a tárgyhónapban legfeljebb
 
 a) Magyarországon elhelyezett automata bankjegykiadó gépből (ATM) készpénz-helyettesítő fizetési eszköz útján forintban kettő készpénzfelvételt hajt végre, amelynek együttes összege nem haladja meg az egyszázötvenezer forintot, vagy a fizetési számlát vezető hitelintézet bankfiók-hálózatában forintban egy készpénzfelvételt hajt végre legfeljebb ötvenezer forint értékben, valamint
 
@@ -19,3 +19,7 @@ c) a keretszerződésben rögzített kötelezettségek fogyasztó általi megsze
 a) az érintett, rászoruló fogyasztók köréről, valamint
 
 b) az (1) bekezdés szerinti díj fogyasztóval vagy hitelintézettel az állami vagy önkormányzati költségvetésből történő elszámolásának módjáról
+
+külön jogszabály rendelkezik.
+
+[^1]: A 4. § (1) bekezdés nyitó szövegrésze a 99/2023. (III. 29.) Korm. rendelet 1. §-a szerint módosított szöveg.
