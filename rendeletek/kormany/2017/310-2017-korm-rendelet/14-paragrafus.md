@@ -50,7 +50,7 @@ b)[^28] a családtámogatási ellátásokkal, a fogyatékossági támogatással 
 
 c)[^29] a bányászati keresetkiegészítéssel és a nagycsaládosok által igénybe vehető gázdíjkedvezménnyel kapcsolatos feladatkörükben eljáró fővárosi és vármegyei kormányhivatalok eljárásaiban keletkezett küldemények központilag történő érkeztetésével kapcsolatos feladatokat.
 
-d)[^30] az egészségbiztosítási szervként eljáró fővárosi és vármegyei kormányhivatalok utazási költségtérítési támogatással kapcsolatos eljárásaiban az elektronikus aláírással kiadmányozott döntések központilag történő nyomtatásával és postai úton történő közlésével kapcsolatos feladatokat.
+d)[^30] az egészségbiztosítási szervként eljáró fővárosi és vármegyei kormányhivatalok utazási költségtérítési támogatással, valamint a foglalkoztatók és társadalombiztosítási kifizetőhelyek felügyeletével kapcsolatos eljárásaiban az elektronikus aláírással kiadmányozott döntések központi nyomtatásával és postai úton történő közlésével kapcsolatos feladatokat.
 
 [^18]: A 14. § (1) bekezdés nyitó szövegrésze a 282/2019. (XI. 27.) Korm. rendelet 27. § 3. pontja, a 445/2020. (X. 1.) Korm. rendelet 23. § 2. pontja, záró szövegrésze a 445/2020. (X. 1.) Korm. rendelet 23. § 3. pontja szerint módosított szöveg.
 [^19]: A 14. § (1) bekezdés a) pontja a 238/2022. (VI. 30.) Korm. rendelet 171. § (1) bekezdésével megállapított szöveg.
@@ -64,4 +64,4 @@ d)[^30] az egészségbiztosítási szervként eljáró fővárosi és vármegyei
 [^27]: A 14. § (3) bekezdés h) pontja a 360/2019. (XII. 30.) Korm. rendelet 174. § (2) bekezdés a) pontja, a 480/2022. (XI. 28.) Korm. rendelet 22. § 3. pontja szerint módosított szöveg.
 [^28]: A 14. § (4) bekezdés b) pontja a 360/2019. (XII. 30.) Korm. rendelet 174. § (2) bekezdés b) pontja, a 480/2022. (XI. 28.) Korm. rendelet 22. § 3. pontja szerint módosított szöveg.
 [^29]: A 14. § (4) bekezdés c) pontja a 360/2019. (XII. 30.) Korm. rendelet 174. § (2) bekezdés b) pontja, a 480/2022. (XI. 28.) Korm. rendelet 22. § 3. pontja szerint módosított szöveg.
-[^30]: A 14. § (4) bekezdés d) pontját a 238/2022. (VI. 30.) Korm. rendelet 172. §-a iktatta be, szövege a 480/2022. (XI. 28.) Korm. rendelet 22. § 3. pontja szerint módosított szöveg.
+[^30]: A 14. § (4) bekezdés d) pontját a 238/2022. (VI. 30.) Korm. rendelet 172. §-a iktatta be, szövege a 286/2023. (VI. 30.) Korm. rendelet 55. § (1) bekezdésével megállapított szöveg.
