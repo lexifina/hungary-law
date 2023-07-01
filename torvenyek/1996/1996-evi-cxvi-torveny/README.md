@@ -51,3 +51,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-116-00-00
 | 2022-12-28 | 2022. évi LXXI. törvény | 1996-116-00-00.70 |
 | 2023-01-01 | 2022. évi XXII. törvény | 1996-116-00-00.68 |
 | 2023-05-15 | 2023. évi IX. törvény | 1996-116-00-00.71 |
+| 2023-07-01 | 2023. évi XXXVIII. törvény | 1996-116-00-00.72 |
