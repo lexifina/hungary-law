@@ -4,6 +4,8 @@
 
 a) a területi hulladékgazdálkodási hatóság és az országos hulladékgazdálkodási hatóság felügyeletével, szakmai irányításával, a Ht.-ben meghatározott országos szintű hulladékgazdálkodási feladatok koordinációjával kapcsolatos,
 
-b) a környezetvédelmi termékdíjról szóló törvényben az állami hulladékgazdálkodást közvetítő szervezet számára meghatározott
+b)[^9]
 
 hulladékgazdálkodási igazgatási feladatokat.
+
+[^9]: Az 5. § b) pontját a 633/2022. (XII. 30.) Korm. rendelet 8. §-a hatályon kívül helyezte.

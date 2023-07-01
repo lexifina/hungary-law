@@ -1,6 +1,6 @@
 3. § (1) Az országos hulladékgazdálkodási hatóság jár el
 
-a) a környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény 3/A. §-ában és 27. § (2) bekezdésében meghatározott hulladékgazdálkodási hatóságként,
+a)[^6] a környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény 3/A. §-ában, 24. §-ában és 27. § (2) bekezdésében meghatározott hulladékgazdálkodási hatóságként,
 
 b) a hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló törvény szerinti hulladékgazdálkodási hatóságként,
 
@@ -14,11 +14,11 @@ f) a Ht. 73. § (1) bekezdésében foglalt hulladékgazdálkodási hatóságkén
 
 g) a Ht. 78/B. § (2) bekezdés 15., 22., 23. pontjában, valamint hatásköréhez kapcsolódóan az 1., 2., 30–32. pontjában foglalt hulladékgazdálkodási hatóságként,
 
-h)[^6] a Ht. 86. § (1) bekezdésében foglalt hulladékgazdálkodási hatóságként, ha a bírság jogalapja a d) és j) pontban meghatározott hatáskörhöz tartozó jogsértés,
+h)[^7] a Ht. 86. § (1) bekezdésében foglalt hulladékgazdálkodási hatóságként, ha a bírság jogalapja a d) és j) pontban meghatározott hatáskörhöz tartozó jogsértés,
 
 i) hulladékgazdálkodási szakkérdés vizsgálata során, ha az engedélyező hatóság az országos környezetvédelmi és természetvédelmi hatóság.
 
-j)[^7] az egyes műanyagtermékek környezetre gyakorolt hatásának csökkentéséről szóló 349/2021. (VI. 22.) Korm. rendelet 14. §-ában és 16. §-ában meghatározott hulladékgazdálkodási hatóságként.
+j)[^8] az egyes műanyagtermékek környezetre gyakorolt hatásának csökkentéséről szóló 349/2021. (VI. 22.) Korm. rendelet 14. §-ában és 16. §-ában meghatározott hulladékgazdálkodási hatóságként.
 
 (2) A minisztériumi hulladékgazdálkodási hatóság hatáskörébe tartozik
 
@@ -30,5 +30,6 @@ hulladékgazdálkodási hatóságként.
 
 (3) A területi hulladékgazdálkodási hatóság, illetve az országos hulladékgazdálkodási hatóság a piacfelügyeletre, a tanúsításra, a megfelelőségre és a minőségbiztosításra vonatkozó végrehajtási jogszabályokban meghatározott hatáskörébe tartozó kérdéseket vizsgálja a Ht. 78/B. § (2) bekezdés 7., 8., 19. pontja szerinti feladatkörében.
 
-[^6]: A 3. § (1) bekezdés h) pontja a 349/2021. (VI. 22.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg.
-[^7]: A 3. § (1) bekezdés j) pontját a 349/2021. (VI. 22.) Korm. rendelet 24. § (2) bekezdése iktatta be.
+[^6]: A 3. § (1) bekezdés a) pontja a 633/2022. (XII. 30.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^7]: A 3. § (1) bekezdés h) pontja a 349/2021. (VI. 22.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg.
+[^8]: A 3. § (1) bekezdés j) pontját a 349/2021. (VI. 22.) Korm. rendelet 24. § (2) bekezdése iktatta be.
