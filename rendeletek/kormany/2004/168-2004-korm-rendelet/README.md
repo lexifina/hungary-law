@@ -36,3 +36,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-168-20-
 | 2022-05-26 | 2004-168-20-22.39 | 648/2020. (XII. 23.) Korm. rendelet |
 | 2022-11-01 | 2004-168-20-22.40 | 165/2020. (IV. 30.) Korm. rendelet |
 | 2023-03-17 | 2004-168-20-22.41 | 165/2020. (IV. 30.) Korm. rendelet |
+| 2023-07-01 | 2004-168-20-22.42 | 83/2023. (III. 16.) Korm. rendelet |
