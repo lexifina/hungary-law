@@ -4644,6 +4644,26 @@ kivett beépítetlen terület
 
 |
 
+227a.
+
+|
+
+HERCEGHALOM
+
+|
+
+267/3
+
+|
+
+1/1
+
+|
+
+kivett major
+
+|
+
 228.
 
 |

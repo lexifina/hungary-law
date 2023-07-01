@@ -2,6 +2,8 @@
 
 5. § (1) Az Nvtv. 13. § (3) bekezdésében és a Vtv. 36. § (1) bekezdésében foglaltak alapján, az Nftv.-ben meghatározott oktatási, tudományos kutatási feladatok, valamint jogszabályban meghatározott közfeladatok ellátását szolgáló, a 3. mellékletben meghatározott egyes állami tulajdonban lévő ingatlanok ingyenesen, nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kerülnek.
 
+(1a) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján, az Nftv.-ben meghatározott oktatási, tudományos kutatási és betegellátási feladatok ellátását szolgáló, a 3. melléklet 227a. sorában szereplő, Herceghalom 267/3 helyrajzi számú ingatlant ingyenesen, nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kell adni. Az ingatlan tulajdonjogát az Egyetem a terhekkel együtt szerzi meg.
+
 (2) A 3. melléklet szerinti ingatlanok, illetve ingatlanok tulajdoni hányada tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az MNV Zrt. köti meg az Egyetemmel.
 
 (3) Az (1) bekezdés szerinti vagyonjuttatás során a 3. mellékletben szereplő védett ingatlanok esetében nem kell alkalmazni a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 44. § (1) bekezdés a) pontját és (4) bekezdését, a természet védelméről szóló 1996. évi LIII. törvény 68. § (8) bekezdését, valamint a Vhr. 25. § (5) bekezdését.
@@ -18,9 +20,11 @@ b) a Gödöllő belterület 5880 helyrajzi számú ingatlanban található, ille
 
 az Egyetem tulajdonába kerülnek.
 
+(5b) Az (1a) bekezdés szerinti ingatlanjuttatással egyidejűleg a közfeladat ellátásával kapcsolatos jogok és kötelezettségek, e körben a feladatok ellátásához szükséges eszközök tekintetében a vagyoni jogok és kötelezettségek – ideértve a rendelkezésre álló, és a jogelőd központi költségvetési szerv vagyonkezelésében lévő állami tulajdonú ingó vagyontárgyak tulajdonjogát is – az Egyetemre szállnak át.
+
 (6) Az (5) bekezdés szerint átszálló ingóságokról jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingó vagyonelemek bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel.
 
-(6a) Az (5a) bekezdés szerint átszálló ingóságokról az (5a) bekezdés hatályba lépésétől számított 30 napon belül jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingó vagyonelemek bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel.
+(6a) Az (5a) és (5b) bekezdés szerint átszálló ingóságokról az (5a) és (5b) bekezdés hatályba lépésétől számított 30 napon belül jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingó vagyonelemek bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel.
 
 (7) A 3. mellékletben meghatározott ingatlanok, illetve ingatlanok tulajdoni hányada tulajdonjogát az Egyetem a terhekkel együtt szerzi meg.
 
