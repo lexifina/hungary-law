@@ -6,7 +6,7 @@
 
 (3) Vadfarmon vadászni tilos.
 
-(4) A vadászati hatóság a vadfarm létesítésére kiadott engedélyét, ha
+(4) A vadászati hatóság a vadfarm létesítésére kiadott engedélyt, ha
 
 a) az engedélyes a vadászati hatóság figyelmeztetését követően sem teljesíti a jogszabályban vagy a létesítési engedélyben előírt feltételeket,
 

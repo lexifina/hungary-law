@@ -8,7 +8,7 @@
 
 (3) A nem vadászterületen elejtett, befogott vagy elhullott vad – ideértve annak trófeáját is –, valamint a hullatott agancs, annak a vadászatra jogosultnak a tulajdonába kerül, amelyiknek a vadászterületéről a vad odakerült. Kétség esetén tulajdonosnak a fellelés helye szerinti legközelebbi vadászterület vadászatra jogosultját kell tekinteni.
 
-(4) A vadaskertben, a vadasparkban, a vadfarmon és az apróvadtartó és -szaporító telepen (a továbbiakban együtt: zárttéri vadtartó létesítmény) jogszerűen tartott vad – a vadászatra jogosulttal kötött eltérő megállapodás hiányában – a zárttéri vadtartó létesítmény üzemeltetőjének tulajdonában van.
+(4) A vadaskertben, a vadasparkban, a vadfarmon és az apróvadtartó telepen (a továbbiakban együtt: zárttéri vadtartó létesítmény) jogszerűen tartott vad – a vadászatra jogosulttal kötött eltérő megállapodás hiányában – a zárttéri vadtartó létesítmény üzemeltetőjének tulajdonában van.
 
 (5) A gímszarvas, a dámszarvas, szikaszarvas, a muflon, a vaddisznó, illetve az őz elejtésének minősül az első halálos lövés leadása.
 

@@ -10,7 +10,7 @@ c) természetes mozgásigénye, búvóhelye, nyugalma adott.
 
 (2) Nem minősül vadászterületnek, és a vadászterület kiterjedésének megállapításánál figyelmen kívül kell hagyni az azon található
 
-a) település közigazgatási belterületét, valamint
+a) település közigazgatási belterületét,
 
 b) lakóingatlanul szolgáló bekerített külterületi ingatlan,
 
@@ -22,7 +22,7 @@ e) nem mező-, erdő- vagy vadgazdálkodási célból bekerített hely,
 
 f) repülőtér,
 
-g) közút, valamint a közút és annak fel- és lehajtója által határolt, továbbá
+g) közút, továbbá a közút és annak fel- és lehajtója által határolt, valamint a kerítéssel védett közút esetében az úttest és a kerítés közötti, továbbá
 
 h) vasút
 

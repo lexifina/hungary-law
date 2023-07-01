@@ -1,4 +1,4 @@
-62. § (1) A magyarországi állandó lakóhellyel nem rendelkező tizennyolcadik életévét betöltött személy kérelemre akkor kaphat vadászati engedélyt, ha nem áll vadászati engedélyt visszavonó határozat hatálya alatt, továbbá rendelkezik:
+62. § (1) A vadászjegy kiadásának feltételeivel nem rendelkező tizennyolcadik életévét betöltött személy kérelemre akkor kaphat vadászati engedélyt, ha nem áll vadászati engedélyt visszavonó határozat hatálya alatt, továbbá rendelkezik:
 
 a) bérvadászati szerződéssel vagy vendégvadászati meghívással;
 
@@ -8,6 +8,6 @@ c) állandó lakóhelyének joga szerint megkövetelt vadászlőfegyver-, vagy r
 
 d) a vadászat során másnak okozott károk fedezetére szolgáló érvényes, az Európai Gazdasági Térségben letelepedett biztosító által kiállított biztosítási kötvénnyel, valamint külföldön kiállított kötvény esetében annak hiteles fordításával igazolt vadászati felelősségbiztosítással.
 
-(2) A vadászati engedélyt a kamara akkor állítja ki, ha a kérelmező az (1) bekezdés a) és d) pontja szerinti igazolásokat előzetesen bemutatja.
+(2) A vadászati engedélyt a kamara akkor állítja ki, ha a kérelmező az (1) bekezdés a) és d) pontja szerinti igazolásokat a kérelemhez csatolta.
 
 (3)

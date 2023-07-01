@@ -28,4 +28,4 @@ b) a vadászati jogot alhaszonbérletbe adja.
 
 (8) Az (1) bekezdésben foglaltakat megfelelően alkalmazni kell abban az esetben is, ha a Magyar Állam önálló vadászati jogát vagyonkezelői szerződés útján hasznosítja.
 
-(9) A vadászati hatóság a haszonbérleti szerződésben foglaltak teljesülését bármikor vizsgálhatja, de legalább a 45. § (2a) bekezdésben meghatározott időszakonként felülvizsgálja, és a 18. § (4) bekezdés b) pontja esetében a vadászatra jogosultat a nyilvántartásból törli.
+(9) A vadászati hatóság a haszonbérleti szerződésben foglaltak teljesülését bármikor vizsgálhatja, de legalább a 45. § (2a) bekezdésben meghatározott időszakonként felülvizsgálja, és a 18. § (4) bekezdése esetében a vadászatra jogosultat a nyilvántartásból törli.

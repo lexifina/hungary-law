@@ -54,7 +54,7 @@ c) rendeletben szabályozza
 
 19. a bérvadászat szabályait,
 
-20. a vadaskert, vadaspark és a vadfarm létesítésének szabályait,
+20. a zárttéri vadtartás létesítésének szabályait,
 
 21. a hatósági vadászat szabályait,
 
@@ -68,7 +68,7 @@ c) rendeletben szabályozza
 
 26. a vadgazdálkodási-vadászati, valamint vadhúsvizsgálói képzettségekre, képesítésekre vonatkozó szabályokat,
 
-27. az éjszakai vadászat rendjének különös szabályait,
+27. az elektronikus képnagyítóból vagy képátalakítóból álló, éjszakai lövésre alkalmas célzóeszközöknek a vadállomány hatékony szabályozása vagy állategészségügyi célból történő használatának lehetséges eseteit és az éjszakai vadászat rendjének különös szabályait,
 
 28. a vadgazdálkodási üzemtervi időszak lejártát követően az elévülési időn túl fel nem vett haszonbérleti díj összegének a vad élőhelyének fejlesztésére és a vadállomány védelmére történő fordításának szabályait,
 
@@ -87,6 +87,8 @@ c) rendeletben szabályozza
 35. a védett természeti területet, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területet, továbbá az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvény hatálya alá tartozó területeket kivéve a vadászterületen a vad mozgását befolyásoló tartós telepítésű kerítés létesítésének feltételeit,
 
 36. a vadászati hatósági feladatokat ellátó személyek egyenruházatára, szolgálati felszerelésére, jelvényére és igazolványára vonatkozó részletes szabályokat.
+
+37. a vadászatra jogosult adatszolgáltatására vonatkozó részletes szabályokat,
 
 (1a) Felhatalmazást kap a miniszter, hogy rendeletben jelölje ki a vadgazdálkodási tájegységeket.
 

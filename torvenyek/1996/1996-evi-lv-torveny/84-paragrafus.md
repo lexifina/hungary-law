@@ -18,7 +18,7 @@ g) aki jogosulatlanul vadászik, vagy aki a vadászjegy vagy a vadászati enged�
 
 h) aki a jogszerű vadászati és vadgazdálkodási tevékenységet akadályozza;
 
-i) a vadász, ha a vadászjegy elvesztését, megsemmisülését vagy azok tőle való eltulajdonítását nyolc napon belül elmulasztja bejelenteni a vadászati hatóságnak;
+i) a vadász, ha a vadászjegy elvesztését, megsemmisülését vagy annak tőle való eltulajdonítását nyolc napon belül elmulasztja bejelenteni a vadászati hatóságnak;
 
 j) aki a vadászkutya vezetőjeként a vadászat megkezdésekor a jogszabályban előírt megkülönböztető jelzéssel a vadászkutyát nem látja el.
 

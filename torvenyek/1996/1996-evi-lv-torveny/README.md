@@ -33,3 +33,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-55-00-00
 | 2022-01-15 | 2021. évi CL. törvény | 1996-55-00-00.52 |
 | 2022-01-22 | 2021. évi CL. törvény | 1996-55-00-00.53 |
 | 2023-01-01 | 2022. évi XLVIII. törvény | 1996-55-00-00.54 |
+| 2023-07-01 | 2023. évi XLIV. törvény | 1996-55-00-00.55 |

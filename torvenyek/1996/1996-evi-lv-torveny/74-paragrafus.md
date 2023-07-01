@@ -8,7 +8,7 @@
 
 (5) A trófeabírálattal egyidejűleg a miniszter által az e törvény felhatalmazása alapján kiadott rendeletben meghatározott összegű díjat kell fizetni.
 
-(6)
+(6) Az első agancsú gímszarvas, dámszarvas és őz trófeabírálata mentes a trófeabírálati díj megfizetésének kötelezettsége alól.
 
 (7) A trófeabírálati eljárásban nem vehet részt olyan személy, aki vadkereskedelemben vagy vadászatszervezésben érdekelt, továbbá olyan vad trófeabírálatában, amelyet olyan vadászatra jogosult mutat be, amelynél saját maga vagy a Polgári Törvénykönyv szerinti közeli hozzátartozója érdekelt.
 

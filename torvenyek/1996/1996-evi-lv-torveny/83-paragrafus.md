@@ -18,13 +18,13 @@ g) a vadgazdálkodási szabályokat megsérti;
 
 h) az általa vagy hozzájárulásával szervezett vadászat vonatkozásában a vadászat rendjére vonatkozó előírásokat megsérti;
 
-i) nem a jogszabályban foglaltaknak megfelelően gondoskodik a vadászat alkalmával a vadászterület jellegének megfelelő, vadászatra kiképzett vadászkutyáról.
+i) nem a jogszabályban foglaltaknak megfelelően gondoskodik a vadászat alkalmával a vadászati módnak megfelelő, vadászatra kiképzett vadászkutyáról.
 
 (2)
 
 (3) A vadgazdálkodási bírság mértéke
 
-a) az (1) bekezdés a) és i) pontja, a (6) bekezdése, valamint a 74/A. § (4) bekezdése szerinti esetben legalább ötvenezer, legfeljebb egymillió forint,
+a) az (1) bekezdés a) és i) pontja, a (6) bekezdése, valamint a 74/A. § (2) bekezdése szerinti esetben legalább ötvenezer, legfeljebb egymillió forint,
 
 b) az (1) bekezdés b) pontja szerinti esetben a vadgazdálkodási bírság mértéke trófeás vad esetében a trófea értékétől függően egyedenként legalább százezer, legfeljebb ötmillió forint, míg nőivarú egyed és egyéb vadfaj esetében a vad fajától függően egyedenként legalább ötvenezer, legfeljebb egymillió forint,
 

@@ -28,4 +28,4 @@ lehet elejteni, illetve elfogni.
 
 (5a) A vadászatra jogosult hozzájárulásával a vadászaton, a vadászatba történő bevezetés céljából a 2 évesnél fiatalabb vadászkutya is alkalmazható.
 
-(6) A vadászatra jogosult köteles a vadászat alkalmával a vadászterület jellegének megfelelő, vadászatra kiképzett vadászkutyáról gondoskodni.
+(6) A vadászatra jogosult köteles a vadászat alkalmával a vadászati módnak megfelelő, vadászatra kiképzett vadászkutyáról gondoskodni.

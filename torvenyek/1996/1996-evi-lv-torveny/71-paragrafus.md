@@ -44,7 +44,7 @@
 
 22. a jogszabályban foglaltak kivételével a vadászati idényen kívüli – a vadászati hatóság engedélye nélküli – vadelejtés;
 
-23. a vad megtévesztésére alkalmas elektronikus akusztikai eszköz jogellenes használata;
+23. a mesterséges fényforrás, valamint a vad megtévesztésére alkalmas elektronikus akusztikai eszköz jogellenes használata;
 
 24.
 

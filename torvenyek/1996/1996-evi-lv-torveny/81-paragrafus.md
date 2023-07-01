@@ -1,12 +1,12 @@
 ## A kár megállapítása
 
-81. § (1) Vadkár, vadászati kár, valamint vadban okozott kár (e § alkalmazásában a továbbiakban együtt: kár) megtérítése iránti igényt a kár bekövetkezésétől, illetve észlelésétől számított tizenöt napon belül írásban kell közölni a kárért felelős személlyel.
+81. § (1) Vadkár, vadászati kár, valamint vadban okozott kár (e § alkalmazásában a továbbiakban együtt: kár) megtérítése iránti igényt a kár bekövetkezésétől, illetve észlelésétől számított öt napon belül írásban kell közölni a kárért felelős személlyel.
 
 (2) Ha a károsult és a kárért felelős személy között az (1) bekezdés szerinti közléstől számított öt napon belül nem jön létre egyezség a kár megtérítéséről és a kártérítés mértékéről, a károsult a károkozás helye szerint illetékes települési önkormányzat jegyzőjétől (a továbbiakban: jegyző) öt napon belül írásban vagy szóban kérelmezheti a károsult és a kárért felelős személy közötti egyezség létrehozására irányuló kárfelmérési eljárás lefolytatását. A határidő elmulasztása esetén az általános közigazgatási rendtartásról szóló törvény szerinti igazolási kérelemnek van helye.
 
 (3) A kár megállapítását a miniszter által rendeletben meghatározott képesítéssel rendelkező kárszakértő (a továbbiakban: szakértő) végezheti. A szakértőt a jegyző három munkanapon belül rendeli ki.
 
-(4) A kár felmérését – a miniszter által rendeletben megállapított egyszerűsített vadkárfelmérési szabályok szerint – a kirendeléstől számított öt napon belül kell lefolytatni. A kárfelmérést akkor is le kell folytatni, ha a kár bejelentése az (1) bekezdésben előírt határidő után történt. Ha késedelmes bejelentés miatt a kár vagy mértékének megállapítása bizonytalanná válik, ezt a bejelentő terhére kell figyelembe venni.
+(4) A kárigényt érvényesíteni a vadgazdálkodásért felelős miniszter által vezetett minisztérium honlapján közzétett egységes vadkárfelmérési útmutatókban meghatározott eljárásrend szerint elvégzett kárfelmérési eljárást követően lehet. A kár felmérését a kirendeléstől számított öt napon belül kell elvégezni. A kárfelmérést akkor is le kell folytatni, ha a kár bejelentése az (1) bekezdésben előírt határidő után történt. Ha késedelmes közlés miatt a kár vagy mértékének megállapítása bizonytalanná válik, ezt az igénylő terhére kell figyelembe venni.
 
 (4a) A vadászatra jogosult, illetve a föld használója az egyezség meghiúsulása esetén három munkanapon belül kérheti másik szakértő kirendelését a költségek előlegezése mellett. Ebben az esetben a kárral érintett földterületen lévő termények betakarítására csak az újabb szakértői vizsgálat befejezése után kerülhet sor.
 
@@ -18,4 +18,8 @@
 
 (8) A károsult az eljárást megszüntető végzés véglegessé válásától számított harminc napon belül kérheti a bíróságtól kárának megtérítését. A határidő elmulasztása jogvesztéssel jár.
 
-(9) Abban az esetben, ha a károsult kérésére a közjegyző előzetes bizonyítási eljárás keretében vadkár felmérés céljából szakértőt rendel ki, a szakértő a kárfelmérési eljárás megindításáról, valamint a helyszíni felmérés helyéről és időpontjáról köteles igazolható módon értesíteni a vadászatra jogosultat. A vadászatra jogosult a szakértő eljárásáról készülő jegyzőkönyvben foglaltakra jogosult észrevételeket tenni a kár tényével és mértékével összefüggésben. Ha a vadászatra jogosult képviselője a szakértő értesítése ellenére nem jelenik meg a kárfelmérési eljárás helyszínén, úgy ez az eljárás lefolytatását nem akadályozza.
+(9) Előzetes bizonyítási eljárás lefolytatását a károsult kérésére a jegyző vagy a bíróság rendeli el.
+
+(10) Ha a kár felmérése céljából igazságügyi szakértő kerül kirendelésre, akkor az igazságügyi szakértő a kárfelmérési eljárás megindításáról, valamint a helyszíni felmérés helyéről és időpontjáról a felmérés időpontja előtt legalább öt nappal igazolható módon értesíti a vadászatra jogosultat. A vadászatra jogosult az igazságügyi szakértő kárfelmérési eljárásáról készülő jegyzőkönyvben foglaltakra a kár tényével és mértékével összefüggésben észrevételt tehet. Ha a vadászatra jogosult képviselője az igazságügyi szakértő értesítése ellenére nem jelenik meg a kárfelmérés helyszínén, az az eljárás lefolytatását nem akadályozza.
+
+(11) Ha az előzetes bizonyítási eljárásban készült szakértői szakvélemény kézhezvételétől számított 30 napon belül a vadászatra jogosult a megállapított vadkárt a károsult részére nem fizeti meg, vagy a felek között egyezség nem jön létre, akkor a károsult a kárigénye érvényesítése érdekében 30 napos jogvesztő határidőn belül a bírósághoz fordulhat.

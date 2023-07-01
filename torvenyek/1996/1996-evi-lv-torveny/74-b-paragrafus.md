@@ -4,7 +4,7 @@
 
 a) elvégzi az e törvény végrehajtására kiadott rendeletben meghatározott nemzetközi ponthatárt elérő trófeák felülbírálatát,
 
-b) gondoskodik a hazai szabadterületi és zárttéri trófearanglista elkülönített vezetéséről,
+b) gondoskodik a hazai szabadterületi és zárttéri trófearanglista elkülönített vezetéséről, valamint
 
 c) ellátja a trófeabírálat rendjének és sajátos szabályainak egységesítését.
 
@@ -20,6 +20,6 @@ c) dönt az e törvény végrehajtására kiadott rendelet szerinti rendkívüli
 
 d) engedélyezheti a nemzeti értékké nyilvánított trófea Magyarország területéről való kivitelét.
 
-(5) A vadászati hatóság a trófeabírálat során a rendkívüli értékű trófea nemzeti értékké nyilvánítását kezdeményezheti a miniszternél. A nemzeti értékké nyilvánított trófeát megsemmisíteni, feldolgozni, átalakítani tilos.
+(5) A vadászati hatóság a rendkívüli értékű trófea nemzeti értékké nyilvánítását kezdeményezheti a miniszternél. A nemzeti értékké nyilvánított trófeát megsemmisíteni, feldolgozni, átalakítani tilos.
 
 (6) A trófeabírálati eljárásban hozott döntés ellen a vadászati hatóság útján a miniszterhez benyújtandó fellebbezésnek van helye. A fellebbezés benyújtásakor az e törvény végrehajtására kiadott rendeletben megállapított összegű igazgatási szolgáltatási díjat kell fizetni.

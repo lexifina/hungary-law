@@ -16,7 +16,13 @@ e) vadászkamarai tagsággal és
 
 f) akit a vadászati hatóság, valamint az Országos Magyar Vadászkamara (a továbbiakban: Vadászkamara) hivatásos vadászként nyilvántartásba vett.
 
-(3) A vadászatra jogosult vadászterületenként legalább egy hivatásos vadászt köteles alkalmazni. A vadászatra jogosult a négyezer hektárt meghaladó vadászterület esetében minden megkezdett négyezer hektár után egy hivatásos vadászt köteles alkalmazni.
+(3) A vadászatra jogosult vadászterületenként legalább egy hivatásos vadászt alkalmaz. A vadászatra jogosult a négyezer hektárt meghaladó vadászterület esetében minden megkezdett négyezer hektár után egy hivatásos vadászt alkalmaz.
+
+(3a) A vadászati hatóság a (3) bekezdés szerinti, a további hivatásos vadász alkalmazására vonatkozó kötelezettség teljesítése alól – egy újabb hivatásos vadász alkalmazása vonatkozásában – felmentést adhat a vadászatra jogosultnak, ha
+
+a) a vadászterület a (3) bekezdésben meghatározott területnagyságot legfeljebb ötszáz hektárral haladja meg, és
+
+b) a vadászterület természeti adottsága, a vadállomány összetétele, és a 43. § (1) bekezdés a) és b) pontjában meghatározott jellemzők ezt indokolják.
 
 (4) A hivatásos vadász tevékenységét munkaviszonyban, teljes napi munkaidőben végzi. Az általános teljes napi munkaidőnél rövidebb teljes napi munkaidőben, illetve részmunkaidőben a hivatásos vadász a tevékenységét nem végezheti.
 
