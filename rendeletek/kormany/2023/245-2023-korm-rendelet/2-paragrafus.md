@@ -1,3 +1,3 @@
-2. §[^1]
+2. § (1) A Fémtv. 2. § (3) bekezdésében foglaltaktól eltérően, a vállalkozó a Fémtv. 2. § (2) bekezdése szerinti tevékenysége során az értékesíthető alkatrészek, tartozékok és felszerelések kinyerése után megmaradt fémet, annak törmelékét vagy ötvözetét tartalmazó, de rendeltetése szerint már nem felhasználható dolgot – a (2) bekezdésben foglaltakra tekintettel – kizárólag fémkereskedőnek értékesítheti, vagy koncesszori fémkereskedőnek adhatja át.
 
-[^1]: A 2. § a 9. § (2) bekezdés alapján 2023. július 1-jén lép hatályba.
+(2) A hulladékgazdálkodási intézményi résztevékenységgel érintett hulladékok körébe tartozó, az (1) bekezdés szerinti dolog kizárólag koncesszori fémkereskedőnek adható át.
