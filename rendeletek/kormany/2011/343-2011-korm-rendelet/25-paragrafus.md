@@ -1,3 +1,5 @@
-## 13.[^90]
+## 13.[^59]
 
-[^90]: A 13. alcímet (25. §) az 529/2013. (XII. 30.) Korm. rendelet 14. § 4. pontja hatályon kívül helyezte.
+25. §
+
+[^59]: A 13. alcímet (25. §) az 529/2013. (XII. 30.) Korm. rendelet 14. § 4. pontja hatályon kívül helyezte.

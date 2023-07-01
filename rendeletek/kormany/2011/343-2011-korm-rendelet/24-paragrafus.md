@@ -1,8 +1,8 @@
-24. § (1)[^86]
+24. § (1)[^55]
 
-(2)[^87]
+(2)[^56]
 
-(3)[^88]
+(3)[^57]
 
 (4) A Ktdt. 25. § (2) bekezdésében meghatározott visszaigénylő kötelezett nyilvántartásának tartalmaznia kell
 
@@ -18,21 +18,15 @@ e) az átvevő által adott igazolást (ha kötelezett a hasznosítást maga vé
 
 f) lakosságtól történő visszagyűjtés esetén a hasznosításra átadó nyilatkozatát az átadott mennyiség lakossági eredetéről.
 
-(5)[^89] A Ktdt. 25. § (2a) bekezdésében meghatározott visszaigénylő nyilvántartásának tartalmaznia kell
+(5)[^58] A Ktdt. 40. § (6) bekezdésében meghatározott visszaigénylő nyilvántartásának tartalmaznia kell
 
 a) a termékdíj megfizetésének adatait,
 
-b) a hulladékkezelésre átadott növényvédőszerrel szennyezett csomagolást alkotó csomagolószerek HKT kódját, tömegét,
+b) a körforgásos termék KF kódját, tömegét és
 
-c) a szállító, valamint a begyűjtő nevét, címét, adószámát,
+c) a kiterjesztett gyártói felelősségi díj megfizetésének napját és a díjról kiállított számla számát.
 
-d) a kezelésre átvevő nevét, címét, adószámát, engedélyének számát,
-
-e) az átvevő által adott igazolást (ha kötelezett a hasznosítást maga végzi, akkor az átvételt igazoló dokumentumokat), amely tartalmazza az átadó nevét, címét, adószámát, a tárgynegyedévben az átadótól átvett növényvédőszerrel szennyezett csomagolásból képződött hulladék HKT kódját, mennyiségét, és
-
-f) a hasznosítási díj megfizetésével kapcsolatban a megfizetés napját és a számla számát.
-
-[^86]: A 24. § (1) bekezdését az 529/2013. (XII. 30.) Korm. rendelet 14. § 3. pontja hatályon kívül helyezte.
-[^87]: A 24. § (2) bekezdését a 41/2014. (II. 24.) Korm. rendelet 5. § 10. pontja hatályon kívül helyezte.
-[^88]: A 24. § (3) bekezdését a 41/2014. (II. 24.) Korm. rendelet 5. § 10. pontja hatályon kívül helyezte.
-[^89]: A 24. § (5) bekezdését az 529/2013. (XII. 30.) Korm. rendelet 10. §-a iktatta be.
+[^55]: A 24. § (1) bekezdését az 529/2013. (XII. 30.) Korm. rendelet 14. § 3. pontja hatályon kívül helyezte.
+[^56]: A 24. § (2) bekezdését a 41/2014. (II. 24.) Korm. rendelet 5. § 10. pontja hatályon kívül helyezte.
+[^57]: A 24. § (3) bekezdését a 41/2014. (II. 24.) Korm. rendelet 5. § 10. pontja hatályon kívül helyezte.
+[^58]: A 24. § (5) bekezdését az 529/2013. (XII. 30.) Korm. rendelet 10. §-a iktatta be, szövege a 276/2023. (VI. 29.) Korm. rendelet 2. §-ával megállapított szöveg.

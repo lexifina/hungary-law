@@ -2,7 +2,7 @@
 
 2. §[^3] (1) A környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény (a továbbiakban: Ktdt.) 3. § (6) bekezdése szerinti kötelezett vevője írásban tesz nyilatkozatot, amelyet teljesíthet alkalmanként az egyes ügyletek során eseti nyilatkozattal vagy időszakra szólóan. A nyilatkozat mintáját a 3. melléklet tartalmazza.
 
-(2) A Ktdt. 3. § (6) bekezdése szerinti esetben a kötelezett a tényhelyzetet tükröző nyilvántartást vezet az egyes nyilatkozók felé történő forgalomba hozatalról, és negyedéves bevallásában a 4. melléklet szerinti adattartalommal adatot szolgáltat az állami adó- és vámhatóság részére.
+(2)[^4] A Ktdt. 3. § (6) bekezdése szerinti esetben a kötelezett a tényhelyzetet tükröző nyilvántartást vezet az egyes nyilatkozók felé történő forgalomba hozatalról, és negyedéves bevallásában a 4. melléklet szerinti adattartalommal adatot szolgáltat az állami adóhatóság részére.
 
 (3) A Ktdt. 3. § (9) bekezdés a)–c) pontja szerinti esetben a kötelezett nyilvántartásának tartalmaznia kell
 
@@ -36,7 +36,8 @@ cc) a tevékenység és a felhasznált anyagok rövid leírását,
 
 cd) anyagmérleget, amely pontosan bemutatja az újrahasználatra előkészítéshez vagy újbóli felhasználásra előkészítéshez közvetlen anyagként felhasznált termékdíjköteles termékek mennyiségét, a létrejött termékdíjköteles termék mennyiségét, és az egységnyi termékdíjköteles termék létrehozásához felhasznált anyagok mennyiségét, anyagnormáját.
 
-(4)[^4] Biológiailag lebomló műanyagból készült műanyag hordtasak esetén a kötelezett nyilvántartása tartalmazza az akkreditált laboratórium által kiadott tanúsítvány számát, amely igazolja, hogy a termékdíjköteles termék – a csomagolásra vonatkozó európai szabványokkal összhangban – komposztálás és anaerob lebontás útján hasznosítható.
+(4)[^5] Biológiailag lebomló műanyagból készült műanyag hordtasak esetén a kötelezett nyilvántartása tartalmazza az akkreditált laboratórium által kiadott tanúsítvány számát, amely igazolja, hogy a termékdíjköteles termék – a csomagolásra vonatkozó európai szabványokkal összhangban – komposztálás és anaerob lebontás útján hasznosítható.
 
 [^3]: A 2. § a 446/2016. (XII. 16.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^4]: A 2. § (4) bekezdését a 446/2017. (XII. 27.) Korm. rendelet 1. §-a iktatta be, szövege a 724/2020. (XII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^4]: A 2. § (2) bekezdése a 633/2022. (XII. 30.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^5]: A 2. § (4) bekezdését a 446/2017. (XII. 27.) Korm. rendelet 1. §-a iktatta be, szövege a 724/2020. (XII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.

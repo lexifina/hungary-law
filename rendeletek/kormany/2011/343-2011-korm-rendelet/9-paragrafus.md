@@ -1,4 +1,4 @@
-9. §[^27] (1) A termékdíj-kötelezettség szerződés alapján való átvállalása esetén a szerződés
+9. §[^33] (1) A termékdíj-kötelezettség szerződés alapján való átvállalása esetén a szerződés
 
 a) a szerződő felek nevét, címét, adószámát vagy adószám hiányában adóazonosító jelét,
 
@@ -8,11 +8,11 @@ c) az átvállalás időszakának a meghatározását és
 
 d) az átvállalás jogcímének pontos jogszabályi helyét
 
-## tartalmazza.
+tartalmazza.
 
 (2) Az átvállaló az átvállalt kötelezettség teljesítését
 
-a) külföldre történő értékesítés esetén az értékesítésről kiállított számlával és az értékesítéshez tartozó fuvarokmánnyal, fuvarokmány hiányában a vevő átvételt igazoló nyilatkozatával,
+a)[^34] külföldre történő értékesítés esetén az értékesítésről kiállított számlával és az értékesítéshez tartozó fuvarokmánnyal, fuvarokmány hiányában a vevő átvételt igazoló nyilatkozatával vagy az általános forgalmi adóról szóló törvény szerinti adóraktárba történő betárolást igazoló dokumentummal,
 
 b) bérgyártás esetén a bérgyártást igazoló számlával,
 
@@ -28,4 +28,5 @@ igazolja.
 
 (3) Szerződéses átvállalás esetén a belföldi forgalomba hozatalról szóló számlán – a számla tételeire hivatkozva – a következő szöveget kell feltüntetni: „a termékdíj-kötelezettség a Ktdt. 14. § (5) bekezdés ...) pontja ...) alpontja alapján a vevőt terheli”.
 
-[^27]: A 9. § a 446/2016. (XII. 16.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^33]: A 9. § a 446/2016. (XII. 16.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^34]: A 9. § (2) bekezdés a) pontja a 276/2023. (VI. 29.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
