@@ -1,4 +1,4 @@
-91/B. § (1) A Koordináló szerv legfeljebb a természetes személy ingatlanhasználóra a 91. §-ban meghatározott díjat alkalmazhatja
+91/B. § (1) A hulladékgazdálkodási közszolgáltatási résztevékenységet ellátó koncessziós társaság legfeljebb a természetes személy ingatlanhasználóra a 91. §-ban meghatározott díjat alkalmazhatja
 
 a) a szociális igazgatásról és szociális ellátásokról szóló törvény szerinti személyes gondoskodást nyújtó bentlakásos szociális intézmény és a támogatott lakhatás, valamint
 

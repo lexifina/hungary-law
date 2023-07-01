@@ -6,7 +6,7 @@
 
 12. § (1) A hulladéktermelő az ingatlanon képződött hulladék gyűjtését az ingatlan területén hulladékgazdálkodási engedély nélkül legfeljebb 1 évig végezheti.
 
-(1a) Természetes személy tulajdonában vagy használatában álló ingatlanon legfeljebb 3 m3, egyértelműen az ingatlanon képződő, a hulladékgazdálkodási közszolgáltatás körébe nem tartozó és nem építési és bontási hulladék, valamint legfeljebb 10 m3, egyértelműen az ingatlanon képződő építési és bontási hulladék gyűjthető.
+(1a) Természetes személy tulajdonában vagy használatában álló ingatlanon legfeljebb 3 m3, egyértelműen az ingatlanon képződő, a hulladékgazdálkodási közszolgáltatási résztevékenység körébe nem tartozó és nem építési és bontási hulladék, valamint legfeljebb 10 m3, egyértelműen az ingatlanon képződő építési és bontási hulladék gyűjthető.
 
 (1b) Az (1a) bekezdésben foglalt rendelkezések megsértése miatt indult hulladékgazdálkodási hatósági eljárásban az ügyintézési határidő kilencven nap.
 
@@ -32,4 +32,4 @@ c) az elkülönített gyűjtés a hulladékgyűjtés helyes gyakorlatainak figye
 
 d) az elkülönített gyűjtés aránytalan gazdasági költségekkel járna, figyelembe véve a vegyes hulladékgyűjtés és -kezelés kedvezőtlen környezeti és egészségügyi hatásait, a hulladékgyűjtés és -kezelés hatékonyságának javításában rejlő lehetőségeket, a másodlagos nyersanyagok értékesítéséből származó bevételeket, valamint a szennyező fizet elv és a kiterjesztett gyártói felelősség alkalmazását.
 
-(5) Törvény, kormányrendelet vagy miniszteri rendelet a hulladékbirtokost kötelezheti a hulladék meghatározott anyagfajta vagy hulladéktípusok szerinti elkülönített gyűjtésére, a hulladék jellegének megfelelő csomagolására és megjelölésére, továbbá arra, hogy az ilyen módon előzetesen válogatott hulladékot a gyűjtőnek, a közszolgáltatónak vagy a hulladékkezelőnek átadja.
+(5) Törvény, kormányrendelet vagy miniszteri rendelet a hulladékbirtokost kötelezheti a hulladék meghatározott anyagfajta vagy hulladéktípusok szerinti elkülönített gyűjtésére, a hulladék jellegének megfelelő csomagolására és megjelölésére, továbbá arra, hogy az ilyen módon előzetesen válogatott hulladékot a gyűjtőnek, a koncessziós társaságnak vagy koncesszori alvállalkozónak átadja.

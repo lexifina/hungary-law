@@ -4,4 +4,6 @@
 
 (2) A koncesszornak koncessziós társaságként olyan gazdasági társaságot kell alapítania, amelyben a társaság megalakulásakor és működése alatt folyamatosan a részvények, üzletrészek és szavazatok többségével rendelkezik, valamint kötelezettséget kell vállalnia arra, hogy a koncessziós szerződésben meghatározott követelményeket a koncessziós társaságban tulajdonosként érvényesíteni fogja.
 
-(3) A koncessziós szerződés alapján keletkezett jogok és kötelezettségek a koncesszort illetik meg illetve terhelik, amelyek gyakorlását és teljesítését a koncessziós társaságon és annak szerződött partnerein keresztül valósítja meg.
+(3) A koncessziós szerződés alapján keletkezett jogok és kötelezettségek a koncesszort illetik meg illetve terhelik, amelyek gyakorlását és teljesítését a koncessziós társaságon, valamint annak szerződött partnerein keresztül valósítja meg.
+
+(4) Az (1) bekezdésében foglalt követelmények a koncessziós társaság esetében akkor is teljesülnek, ha az – a kapacitást biztosító megállapodások megkötésére, illetve a tevékenység végzéséhez szükséges engedélyek megszerzésére vonatkozó kötelezettsége körében – a tevékenység végzéséhez szükséges engedélyekkel rendelkező, a kapacitást biztosító koncesszori alvállalkozóval, illetve a kapacitással rendelkező más gazdálkodó szervezettel megállapodott legalább a kapacitások rendelkezésre bocsátásáról vagy lekötéséről.

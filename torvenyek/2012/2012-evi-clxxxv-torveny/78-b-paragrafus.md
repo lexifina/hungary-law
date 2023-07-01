@@ -24,7 +24,7 @@ h) közigazgatási feladataival összefüggésben nyilvántartást vezet.
 
 a) a jogorvoslati határozatok nyilvános adatbázisát, amelyben biztosítja, hogy a hatósági és a bírósági határozatok elektronikusan, ingyenesen, teljeskörűen, tárgyszavas keresési lehetőséggel bárki által elérhetőek legyenek,
 
-b) a kiemelt hulladékjogi szabályszegéseket elkövetők listáját,
+b)
 
 c) a hulladékgyűjtő pontok listáját, és
 
@@ -40,7 +40,7 @@ d) a hulladékudvarok listáját,
 
 7. ellátja a hulladékgazdálkodási hatósági, piacfelügyeleti, tanúsítási feladatokat,
 
-8. ellátja a hulladékgazdálkodási követelmények érvényesítésével összefüggő megfelelőségi és minőségbiztosítási feladatokat, ide nem értve a közszolgáltatók és közszolgáltatói alvállalkozók megfelelőségére vonatkozó, a 32/A. § (2) bekezdésében meghatározott hatásköröket,
+8. ellátja a hulladékgazdálkodási követelmények érvényesítésével összefüggő megfelelőségi és minőségbiztosítási feladatokat,
 
 9. ellátja a körforgásos gazdaságra történő átállás támogatásához szükséges jogszabályban meghatározott feladatokat a miniszter utasításának megfelelően,
 

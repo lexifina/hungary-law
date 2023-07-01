@@ -1,9 +1,13 @@
 ## 18. A települési önkormányzatra vonatkozó szabályok
 
-33. § (1) A települési önkormányzat az önkormányzati hulladékgazdálkodási közfeladat ellátását a közszolgáltatóval kötött hulladékgazdálkodási közszolgáltatási szerződés útján biztosítja.
+33. § (1)
 
-(2) A települési önkormányzat az önkormányzati hulladékgazdálkodási közfeladat ellátására közbeszerzési eljárást folytat le, kivéve, ha a közbeszerzésekről szóló törvény (a továbbiakban: Kbt.) szerint nem kell közbeszerzési eljárást lefolytatni, a hulladékgazdálkodási közszolgáltatási szerződés megkötése nem tartozik a Kbt. alkalmazási körébe, vagy ha a hulladékgazdálkodási közszolgáltatási szerződés megkötése a Kbt. szerinti kivételi körbe esik.
+(2)
 
-(3) A felhívásban az ajánlatkérő meghatározza, hogy a közbeszerzési eljárás során milyen, a hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló törvény szerint osztályba sorolt gazdasági szereplők tehetnek ajánlatot vagy nyújthatnak be részvételi jelentkezést.
+(3)
 
-(4) A települési önkormányzat önkormányzati hulladékgazdálkodási közfeladat ellátási kötelezettsége nem mentesíti a települési önkormányzatot a Mötv. 13. § (1) bekezdés 5. pontjában foglalt köztisztasági feladatok ellátásának, azon belül is a közterületen elhagyott hulladék felszámolásával összefüggő kötelezettsége alól.
+(4) A települési önkormányzat a Mötv. 13. § (1) bekezdés 5. pontjában foglalt köztisztasági feladatok ellátása körében eleget tesz a közterületen elhagyott hulladék felszámolásával összefüggő kötelezettségének.
+
+(5) A települési önkormányzat az Mötv. 13. § (1) bekezdés 5. pontjában foglalt köztisztasági feladatok ellátása körében a közterületi kihelyezett gyűjtőedényekből vagy egyéb módon a közterületről összegyűjtött települési hulladék kezeléséről a 31. § (2) bekezdés a) pontban foglaltak alapján gondoskodik.
+
+(6) Az (5) bekezdés alapján átvett hulladékkal összefüggésben a koncessziós társaság által ellátott hulladékgazdálkodási tevékenységekre a 47/A. § (1) bekezdése szerinti rendeletben meghatározott, a hulladékgazdálkodási intézményi résztevékenység ellátásával összefüggő díjszabás alkalmazandó.

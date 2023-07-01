@@ -10,11 +10,11 @@
 
 (3a) Az elhagyott hulladék felszámolása tárgyában a (2) vagy (3) bekezdés szerinti kötelezést a hulladékgazdálkodási hatóság a közérdek védelme miatt azonnal végrehajthatónak nyilvánítja. A hulladék felszámolásával összefüggésben felmerülő költségek a kötelezettet terhelik.
 
-(4) Az elhagyott hulladék felszámolására a (2) vagy (3) bekezdés szerint kötelezett személy (e § alkalmazásában a továbbiakban: kötelezett) a kötelezést megállapító közigazgatási hatósági döntés véglegessé válásától számított 30 napon belül gondoskodik a hulladék ingatlanról történő elszállításáról, és az elszállítás tényét a hulladékgazdálkodási hatóság ingatlan fekvése szerint illetékes területi szervénél az átvevő által a miniszter rendeletében meghatározott teljes bizonyító erejű magánokiratokkal, vagy a veszélyes hulladékkal kapcsolatos egyes tevékenységek részletes szabályairól szóló kormányrendelet szerinti szállítási lappal, illetve bizonylattal igazolja. Az igazolás egy példányát az átvevő átadással egyidejűleg a kötelezett részére átadja.
+(4) Az elhagyott hulladék felszámolására a (2) vagy (3) bekezdés szerint kötelezett személy (e § alkalmazásában a továbbiakban: kötelezett) a kötelezést megállapító közigazgatási hatósági döntés véglegessé válásától számított 30 napon belül gondoskodik a hulladék ingatlanról történő elszállításáról, és a hulladéknak a megfelelő hulladékkezelési helyre történő elszállítása tényét a hulladékgazdálkodási hatóság ingatlan fekvése szerint illetékes szervénél az átvevő által a miniszter rendeletében meghatározott teljes bizonyító erejű magánokiratokkal, vagy a veszélyes hulladékkal kapcsolatos egyes tevékenységek részletes szabályairól szóló kormányrendelet szerinti szállítási lappal, illetve bizonylattal igazolja.
 
-(4a) A (4) bekezdés szerint kiállított okirat további egy példányát az átvevő – miután a kötelezettől átvett hulladékot hulladékkezelő létesítménynek átadta, és az átadás tényét a hulladékkezelő létesítményt üzemeltető szervezet képviselője aláírásával igazolta – a kötelezett részére, a hulladékkezelő létesítményben történő átadást követő 8 napon belül átadja. Ennek esetleges elmulasztását a kötelezett haladéktalanul jelzi a kötelezést kibocsátó hulladékgazdálkodási hatóság felé.
+(4a) Az igazolás egy eredeti példányát az átvevő az átadással egyidejűleg a kötelezett részére átadja. Ennek esetleges elmulasztását a kötelezett haladéktalanul jelzi a kötelezést kibocsátó hulladékgazdálkodási hatóság felé.
 
-(4b) A hulladékkezelő létesítményt üzemeltető szervezet képviselője aláírásával ellátott igazolást a kötelezett a (4a) bekezdés szerinti kézhezvételt követően haladéktalanul továbbítja a kötelezést kibocsátó hulladékgazdálkodási hatóság részére.
+(4b) Az átvevő képviselőjének aláírásával ellátott igazolást a kötelezett a (4a) bekezdés szerinti kézhezvételt követően haladéktalanul továbbítja a kötelezést kibocsátó hulladékgazdálkodási hatóság részére.
 
 (4c) Ha a (4) bekezdés szerinti igazolás kiállítása akadályba ütközik, a kötelezett az elszállítás tényét a (4) bekezdés szerinti miniszteri rendeletben meghatározott teljes bizonyító erejű magánokirattal igazolja, és annak kiállítását követően azt haladéktalanul továbbítja a kötelezést kibocsátó hulladékgazdálkodási hatóság részére.
 
@@ -94,7 +94,7 @@ ff) – külföldi személy esetén – a tartózkodásra jogosító igazolvány
 
 fg) az állampolgárságára, hontalanságára, és
 
-fh) a lakcímére és értesítési címére, továbbá annak megváltozása esetén előző lakcímére, értesítési címére (címeire),
+fh) a lakcímére, továbbá annak megváltozása esetén előző lakcímére,
 
 g) az elvégzendő közérdekű munka órákban meghatározott mértékére,
 
@@ -108,9 +108,17 @@ vonatkozó adatokat.
 
 (23) A jegyző a foglalkoztatói nyilvántartás adatait a döntés véglegessé válásától számított két évig kezeli.
 
-(24) A (3) bekezdésben foglaltak esetén a hulladékgazdálkodási hatóság a magyar állam javára a követelés és kamatai összegéig jelzáloggal terheli meg a (3) bekezdésben meghatározott ingatlant, az ingatlanügyi hatóság a hulladékgazdálkodási hatóság megkeresésére a jelzálogjogot az ingatlan-nyilvántartásba soron kívül bejegyzi.
+(24) A (4) bekezdésben, és a 12. § (1) bekezdésben foglaltak megsértése esetén a hulladékgazdálkodási hatóság a magyar állam javára a követelés és kamatai összegéig jelzáloggal terheli meg a (3) bekezdésben meghatározott ingatlant, az ingatlanügyi hatóság a hulladékgazdálkodási hatóság megkeresésére a jelzálogjogot az ingatlan-nyilvántartásba soron kívül bejegyzi.
 
-(25) Az (1)–(4) bekezdésben foglaltakat a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) hatálya alá tartozó ingatlanok tekintetében azzal az eltéréssel kell alkalmazni, hogy az Nvtv. 6. § (9) bekezdése szerint az elhagyott hulladék felszámolására kötelezett az elhagyott hulladékról való tudomásszerzést követően haladéktalanul megteszi a bejelentést – a hulladék elhagyójának beazonosításához rendelkezésére álló adatok átadásával együtt – a hulladékgazdálkodási hatóságnak, és – a területileg illetékes közszolgáltató útján – a tudomásszerzéstől számított 30 napon belül gondoskodik az elhagyott hulladék felszámolásáról, és a (4) bekezdés szerinti teljes bizonyító erejű magánokiratot, valamint a hulladék felszámolásával összefüggésben felmerült költségei kimutatását megküldi a hulladékgazdálkodási hatóságnak.
+(24a) A (3) bekezdés szerint kötelezett ingatlantulajdonos esetében a hulladék felszámolásával összefüggésben felmerült költségek tekintetében a hulladékgazdálkodási hatóság a tartozást a kötelezett kérelmére különös méltánylást igénylő esetekben mérsékelheti vagy elengedheti, illetve a végrehajtást a (3) bekezdésben meghatározott ingatlanra korlátozhatja.
+
+(24b) Természetes személy esetében különös méltánylást igénylő eset az, ha a tartozás megfizetése a kötelezett és a vele együtt élő hozzátartozók megélhetését súlyosan veszélyeztetné vagy a kötelezett számára súlyosan aránytalan megterhelést jelentene.
+
+(24c) Vállalkozási tevékenységet elsődlegesen nem folytató, nem természetes személy esetében különös méltánylást igénylő eset, ha a tartozás megfizetése a kötelezett számára az elsődlegesen végzett tevékenységét veszélyezhető, súlyosan aránytalan megterhelést jelentene.
+
+(24d) A tartozás mérséklése esetén hulladékgazdálkodási hatóság a megfizetendő összeget a kötelezett teljesítőképességéhez mérten állapítja meg.
+
+(25) Az (1)–(4) bekezdésben foglaltakat a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) hatálya alá tartozó ingatlanok tekintetében azzal az eltéréssel kell alkalmazni, hogy az Nvtv. 6. § (9) bekezdése szerint az elhagyott hulladék felszámolására kötelezett az elhagyott hulladékról való tudomásszerzést követően haladéktalanul megteszi a bejelentést – a hulladék elhagyójának beazonosításához rendelkezésére álló adatok átadásával együtt – a hulladékgazdálkodási hatóságnak, és – a koncessziós társaság vagy a koncesszori alvállalkozó útján – a tudomásszerzéstől számított 30 napon belül gondoskodik az elhagyott hulladék felszámolásáról, és a (4) bekezdés szerinti teljes bizonyító erejű magánokiratot, valamint a hulladék felszámolásával összefüggésben felmerült költségei kimutatását megküldi a hulladékgazdálkodási hatóságnak.
 
 (26)
 
@@ -118,6 +126,6 @@ vonatkozó adatokat.
 
 (28) Az eljárás során elkobzás alkalmazásának van helye.
 
-(29) Ha a kötelezett a (4) bekezdésben foglalt elszállítási kötelezettségének nem tesz eleget, a hulladékgazdálkodási hatóság közigazgatási hatósági döntésében kötelezheti az ingatlan fekvése szerinti települési önkormányzatot a végrehajtás foganatosítására. A települési önkormányzat a kötelezést megállapító közigazgatási hatósági döntés véglegessé válásától számított harminc napon belül gondoskodik az elhagyott hulladék felszámolásáról. A felszámolással összefüggésben felmerült költségek a települési önkormányzat költségvetését terhelik azzal, hogy a felmerült költség a kötelezettől adók módjára behajtandó köztartozásnak minősül és az önkormányzat bevételét képezi.
+(29)
 
-(30) Ha a települési önkormányzat a (29) bekezdésben meghatározott kötelezettségének nem tesz eleget, a hulladékgazdálkodási hatóság a tudomásszerzéstől számított harminc napon belül gondoskodik az ingatlanon elhagyott hulladék felszámolásáról. Az ezzel összefüggésben felmerült költségek erejéig a hatóság azonnali beszedési megbízást kezdeményez a települési önkormányzat ellen. Az így befolyt összeg a hulladékgazdálkodási hatóság bevételét képezi.
+(30)

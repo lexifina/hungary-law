@@ -1,21 +1,29 @@
 35. § (1) A települési önkormányzat képviselő-testülete önkormányzati rendeletben állapítja meg:
 
-a) az önkormányzati hulladékgazdálkodási közfeladat tartalmát, a közszolgáltatási terület határait az Országos Hulladékgazdálkodási Közszolgáltatási Tervben foglaltakkal összhangban.
+a)
 
-b) a közszolgáltató tagjai, illetve a közszolgáltatói alvállalkozó által végzett hulladékgazdálkodási tevékenységet, továbbá a tagoknak, illetve a közszolgáltatói alvállalkozónak a közszolgáltatás egészéhez viszonyított arányát, ha a közszolgáltatást a közszolgáltató több tagja, illetve közszolgáltatói alvállalkozó végzi;
+b)
 
-c) az önkormányzati hulladékgazdálkodási közfeladat ellátásának rendjét és módját, a közszolgáltató és az ingatlanhasználó ezzel összefüggő jogait és kötelezettségeit, valamint a hulladékgazdálkodási közszolgáltatási szerződés egyes tartalmi elemeit;
+c)
 
-d) az önkormányzati hulladékgazdálkodási közfeladat igénybevételének miniszteri rendeletben nem szabályozott módját és feltételeit;
+d)
 
-e) az ingatlanhasználót terhelő, miniszteri rendeletben nem szabályozott díjfizetési kötelezettséget, megfizetésének rendjét, az esetleges kedvezmények, továbbá az ingatlanhasználó részéről történő szüneteltetés eseteit;
+e)
 
-f) az üdülőingatlanokra vonatkozó sajátos szabályokat;
+f)
 
-g) a hulladékgazdálkodási közszolgáltatási tevékenységgel összefüggő közszolgáltatási díj beszedésével kapcsolatos adatszolgáltatási kötelezettség, valamint ügyfélszolgálati feladatok ellátásához szükséges személyes adatok (a természetes személyazonosító adatok, valamint a lakcím) kezelésére vonatkozó további rendelkezéseket.
+g)
 
 h) az elhagyott hulladék felszámolásához szükséges helyi intézkedések körét.
 
-(2) A települési önkormányzat gondoskodik az elkülönített hulladékgyűjtési rendszer helyi feltételeinek megszervezéséről.
+(2)
 
-(3) Abban az esetben, ha az önkormányzat díjkedvezményt vagy díjkompenzációt állapít meg, a hulladékgazdálkodási közszolgáltatási díj ezáltal meg nem fizetett összegét a Koordináló szerv számára az önkormányzat köteles megtéríteni.
+(3)
+
+(4) Ha a települési önkormányzat 2017. június 23-át követően és 2023. július 1-jét megelőzően díjkedvezményt, vagy díjkompenzációt állapított meg, és nem tájékoztatja írásban 2023. július 1-jét megelőzően a Koordináló szervet, 2023. július 1-jén vagy azt követően a koncessziós társaságot arról, hogy a díjkedvezménnyel, illetve díjkompenzációval kapcsolatosan 2023. július 1-jét megelőzően általa viselt költségeket 2023. július 1-jét követően nem viseli, az önkormányzat továbbra is megfizeti az ingatlanhasználó helyett a díjkedvezménynek, illetve díjkompenzációnak megfelelő összeget a koncessziós társaság részére, a koncessziós társaság pedig az önkormányzat által befizetett összeggel csökkentett díjat fizetteti meg az érintett ingatlanhasználóval. A települési önkormányzat a tájékoztatását 2023. július 1-je után is megadhatja, ebben az esetben a fizetési kötelezettség a tájékoztatás megküldését követő második hónap első napjától terheli.
+
+(5) A települési önkormányzat átvállalás esetében a korábbi díjkedvezmény, illetve díjkompenzáció mértékétől eltérhet, többet és kevesebbet egyaránt átvállalhat az ingatlanhasználó által fizetendő díjból.
+
+(6) A települési önkormányzat képviselő-testülete (a fővárosban a fővárosi, illetve a kerületi önkormányzat képviselő-testülete) rendeletet alkothat az (5) bekezdés szerinti hulladékgazdálkodási közszolgáltatási díj részben, vagy egészben történő átvállalásáról. Az önkormányzat rendeletében megállapítja a díj átvállalásával érintett személyi kört, az átvállalás e személyi körre vonatkozó egyéb feltételeit.
+
+(7) Az önkormányzat a (6) bekezdés szerinti rendeletének kihirdetéséről, módosításáról vagy hatályon kívül helyezéséről haladéktalanul tájékoztatja a koncessziós társaságot.

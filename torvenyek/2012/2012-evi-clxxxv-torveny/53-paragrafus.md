@@ -1,27 +1,19 @@
 ## 22. Ügyfélszolgálat
 
-53. § (1) A Koordináló szerv a hulladékgazdálkodási közszolgáltatási díjjal, valamint a közszolgáltató az ingatlanhasználó önkormányzati hulladékgazdálkodási közfeladattal kapcsolatos bejelentéseinek intézése, panaszainak kivizsgálása, orvoslása és az önkormányzati hulladékgazdálkodási közfeladattal kapcsolatos általános tájékoztatásnyújtás biztosítása érdekében ügyfélszolgálatot működtet. A Koordináló szerv ügyfélszolgálati feladatai teljesítése érdekében a közszolgáltató által működtetett ügyfélszolgálatokat is igénybe veheti.
+53. § (1) A koncessziós társaság és a közszolgáltatási résztevékenységet ellátó koncesszori alvállalkozó a hulladékgazdálkodási közszolgáltatási díjjal, valamint az ingatlanhasználó hulladékgazdálkodási közszolgáltatási résztevékenységgel kapcsolatos bejelentéseinek intézése, panaszainak kivizsgálása, orvoslása és a hulladékgazdálkodási közszolgáltatási résztevékenységgel kapcsolatos általános tájékoztatásnyújtás biztosítása érdekében ügyfélszolgálatot működtet.
 
-(2) A közszolgáltató az ügyfélszolgálat keretében az Fgytv.-ben meghatározottakon túlmenően
+(2) A hulladékgazdálkodási közszolgáltatási résztevékenységet ellátó koncessziós társaság az ügyfélszolgálat keretében az Fgytv.-ben meghatározottakon túlmenően
 
-a) a minősítési engedélyt,
+a) az alkalmazott hulladékgazdálkodási közszolgáltatási díjakat,
 
-b) az alkalmazott hulladékgazdálkodási közszolgáltatási díjakat,
+b) a lomtalanítással kapcsolatos adatokat, információkat,
 
-c) a közszolgáltatási területre vonatkozó adatokat,
+c) a koncesszori alvállalkozói nyilvántartásban szereplő vállalkozások elnevezését és a koncesszori alvállalkozói nyilvántartás elérhetőségeit, valamint
 
-d)
+d) a koncessziós szerződést és annak módosítását, az üzleti titok körébe tartozó adatok kivételével
 
-e) a lomtalanítással kapcsolatos adatokat, információkat, valamint
+az ügyfélszolgálatán és a honlapján mindenki számára díjmentesen hozzáférhetővé teszi.
 
-f) a közszolgáltatói alvállalkozóra vonatkozó közérdekű adatokat – ha a közszolgáltató közszolgáltatói alvállalkozót alkalmaz –,
+(3) A hulladékgazdálkodási közszolgáltatási résztevékenységet ellátó koncessziós társaság az elkülönített hulladékgyűjtés ösztönzése érdekében a lakosságot az elkülönített hulladékgyűjtés feltételeiről a hulladékgazdálkodási közszolgáltatási résztevékenység végzésének feltételeiről szóló kormányrendeletben meghatározott módon tájékoztatja.
 
-g) az általa megkötött hulladékgazdálkodási közszolgáltatási szerződést és annak módosítását
-
-az ügyfélszolgálatán és a honlapján mindenki számára ingyenesen hozzáférhetővé teszi.
-
-(3) A közszolgáltató az elkülönített hulladékgyűjtés ösztönzése érdekében a lakosságot az elkülönített hulladékgyűjtés feltételeiről a hulladékgazdálkodási közszolgáltatás végzésének feltételeiről szóló kormányrendeletben meghatározott módon tájékoztatja.
-
-(4) A közszolgáltató köteles az általa működtetett ügyfélszolgálaton a Koordináló szerv közzétett szabályzatában foglaltaknak megfelelően, a Koordináló szerv által meghatározottak szerint, a szabályzatban meghatározott körbe tartozó, a közszolgáltatási díj beszedésével kapcsolatos bejelentéseket, panaszokat rögzíteni, megfelelően intézni, és az azok alapján a Koordináló szervvel szemben indult fogyasztóvédelmi hatósági eljárásokban a Koordináló szervvel együttműködni.
-
-(5) A közszolgáltató biztosítja az általa működtetett ügyfélszolgálaton a Koordináló szerv által meghatározott általános tájékoztatásnyújtást.
+(4) A hulladékgazdálkodási közszolgáltatási résztevékenységet ellátó koncessziós társaság és a közszolgáltatási résztevékenységet ellátó koncesszori alvállalkozó köteles az általa működtetett ügyfélszolgálaton a közszolgáltatási díj beszedésével kapcsolatos bejelentéseket, panaszokat rögzíteni és elintézni.

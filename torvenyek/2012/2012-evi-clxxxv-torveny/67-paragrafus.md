@@ -15,3 +15,7 @@ d) együttműködik a hulladékgazdálkodási hatósággal, annak ellenőrzésé
 e) megőrzi az e törvény hatálya alá tartozó hulladék származási helyének megállapításához és forgalmazásának a nyomon követéséhez szükséges dokumentációkat, információkat, ezeket a hulladék kereskedelmi láncban érintett szereplőnek rendelkezésére bocsátja, vagy ezek beszerzését elősegíti,
 
 f) a hulladékstátusszal rendelkező terméket a forgalomból kivonja, visszahívja, valamint egyidejűleg tájékoztatja az hulladékgazdálkodási hatóságot a megtett intézkedésről, okáról és eredményéről, ha a hulladék termék nem felel meg az általános hatályú, közvetlenül alkalmazandó európai uniós jogi aktusokban vagy a jogszabályban foglalt előírásoknak.
+
+(3) Ha a rendelkezésre álló dokumentumok alapján vagy az összes körülmény mérlegelésével nem állapítható meg minden kétséget kizáróan, hogy az átvételre kínált fémhulladék nem esik az állami hulladékgazdálkodási közfeladat-ellátással érintett hulladékok körén kívül, úgy az a koncessziós társaságot illeti meg az ellenkező bizonyításáig.
+
+(4) A hulladékgazdálkodási illetve a fémkereskedelmi hatóság a hulladékkal illetve fémkereskedelmi engedély köteles anyaggal végzett tevékenységet szükség szerinti gyakorisággal ellenőrzi, indokolt esetben együttes ellenőrzések útján.

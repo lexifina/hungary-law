@@ -2,9 +2,9 @@
 
 88. § (1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza:
 
-1. a közszolgáltató hulladékgazdálkodási tevékenységét, a hulladékgazdálkodási közszolgáltatás körébe tartozó hulladékkal kapcsolatos tevékenységek végzésének feltételeit, valamint az állami hulladékgazdálkodási közfeladat részeként a hulladékgazdálkodási közszolgáltatás ellátásának és igénybevételének szabályait;
+1. a koncessziós társaság hulladékgazdálkodási közszolgáltatási résztevékenységét, a hulladékgazdálkodási közszolgáltatási résztevékenység körébe tartozó hulladékkal kapcsolatos tevékenységek végzésének feltételeit, valamint az állami hulladékgazdálkodási közfeladat részeként a hulladékgazdálkodási közszolgáltatási résztevékenység ellátásának és igénybevételének szabályait;
 
-2. a termelési hulladék, valamint az elkülönítetten gyűjtött háztartási hulladékhoz hasonló hulladék képződésének megelőzésével, és a termelési hulladék, valamint az elkülönítetten gyűjtött háztartási hulladékhoz hasonló hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait;
+2. a termelési hulladék és a gazdálkodó szervezet ingatlanhasználónál képződő hulladékgazdálkodási intézményi résztevékenység körébe tartozó hulladék képződése megelőzésének, valamint a termelési hulladékkal és a gazdálkodó szervezet ingatlanhasználónál képződő hulladékgazdálkodási intézményi résztevékenység körébe tartozó hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait;
 
 3. a veszélyes hulladék képződésének megelőzésével kapcsolatos tevékenységek és a veszélyes hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek végzésének feltételeit;
 
@@ -38,9 +38,9 @@
 
 16. a szennyvíziszapok és a szennyvíziszapkomposzt mezőgazdasági felhasználásának és a szennyvíziszapokkal kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait;
 
-17. a hulladékgazdálkodási közszolgáltatási díj megállapításának részletes szabályait, valamint a hulladékgazdálkodási közszolgáltatási díj szerkezetét;
+17.
 
-18. a közszolgáltató kiválasztásának módját és a hulladékgazdálkodási közszolgáltatási szerződés tartalmi követelményeit;
+18.
 
 19. a pénzügyi biztosíték, a céltartalék képzésére kötelezettek körét, a pénzügyi biztosíték, a céltartalék formáját és mértékét, felhasználásának feltételeit, elszámolásának és nyilvántartásának szabályait, a környezetvédelmi biztosítás részletes szabályait, valamint a gyártók biztosítékadására vonatkozó részletes szabályokat;
 
@@ -50,11 +50,11 @@
 
 22. a hulladéklerakási járulék megfizetésének részletes szabályait;
 
-23. a közszolgáltató által teljesítendő adatszolgáltatásra vonatkozó szabályokat;
+23.
 
 24. a számviteli szétválasztásra vonatkozó részletes szabályokat;
 
-25. a megfelelőségi vélemény kiállításának részletes szabályait;
+25.
 
 26. a közterület tisztántartásával kapcsolatos hulladékgazdálkodási szabályokat;
 
@@ -72,11 +72,11 @@
 
 32. az egyes hulladékgazdálkodási létesítmények kialakításának és üzemeltetésének részletes szabályait, valamint az üzemnapló vezetésével kapcsolatos részletes szabályokat;
 
-33. a Koordináló szerv kijelölésének módját, a részletes feladatkörét;
+33. a Koordináló szerv részletes feladatkörét;
 
-34. az Országos Hulladékgazdálkodási Közszolgáltatási Tervre vonatkozó részletes szabályokat, e körben a közszolgáltatási területek lehatárolásának részletes szabályait;
+34.
 
-35. a Koordináló szerv adatkezelésének részletes szabályait, továbbá a közszolgáltató, a települési önkormányzat, valamint a hulladékgazdálkodási létesítmény tulajdonosa adatszolgáltatási kötelezettségének részletes szabályait.
+35. a Koordináló szerv adatkezelésének részletes szabályait, továbbá az állami hulladékgazdálkodási közfeladatot ellátó koncessziós társaságnak, a 2023. július 1-jét megelőző időszakban közszolgáltatási feladatokat ellátó közszolgáltatónak, a települési önkormányzatnak, valamint a hulladékgazdálkodási létesítmény tulajdonosának a Koordináló szerv, valamint a hulladékgazdálkodásért felelős miniszter részére történő adatszolgáltatási kötelezettségének részletes szabályait;
 
 36. a kitermelt talaj és más, építési tevékenység során kitermelt természetes állapotában meglévő anyag kitermelés helyén kívüli felhasználásának részletes szabályait.
 
@@ -142,7 +142,7 @@
 
 18. a gördülő fejlesztési rendszerterv részletes tartalmi és formai követelményeit,
 
-19. az Országos Hulladékgazdálkodási Közszolgáltatási Tervet.
+19.
 
 (3) Felhatalmazást kap:
 
@@ -152,7 +152,7 @@ aa) a humán gyógyszer hulladékká válását megelőző tevékenységek és a
 
 ab) az egészségügyi intézményekben képződő hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek végzésének részletes szabályait,
 
-ac) a hulladékgazdálkodási közszolgáltatás körébe tartozó hulladékkal kapcsolatos közegészségügyi követelményeket;
+ac) a hulladékgazdálkodási közszolgáltatási résztevékenység körébe tartozó hulladékkal kapcsolatos közegészségügyi követelményeket;
 
 b)
 
@@ -162,7 +162,7 @@ rendeletben állapítsa meg.
 
 (3a) Felhatalmazást kap a Hivatal elnöke, hogy
 
-a) a 18/B. § (3) bekezdésében meghatározott díj mértékét, elemeit, a díjalkalmazási feltételeket és a díjmegfizetés rendjét,
+a) a 18/B. § (3) bekezdésében meghatározott díj mértékét, elemeit, a díjalkalmazási feltételeket és a díjmegfizetés rendjét, valamint az átvételi díjról kiállított számla és nyilvántartás kötelező tartalmi elemeit,
 
 b) az 53/B. § (7) bekezdés d) pontjában meghatározott érték meghatározásának szempontrendszerét,
 
@@ -178,10 +178,12 @@ rendeletben állapítsa meg.
 
 (4) Felhatalmazást kap a települési önkormányzat képviselő-testülete, hogy rendeletben állapítsa meg:
 
-a) a hulladékgazdálkodási közszolgáltatás ellátásának és igénybevételének szabályait, illetve a 35. §-ban foglalt rendelkezések érvényesítéséhez szükséges szabályokat;
+a)
 
-b) az elkülönített hulladékgyűjtésre vonatkozó részletes szabályokat;
+b)
 
 c) a közterület tisztán tartására vonatkozó részletes szabályokat;
 
-d) a hulladékgazdálkodási közszolgáltatási díjra vonatkozó, a (3) bekezdés b) pont bb) alpontja szerinti miniszteri rendeletben nem szabályozott díjalkalmazási és díjfizetési feltételeket.
+d)
+
+e) a hulladékgazdálkodási közszolgáltatási díj átvállalásával érintett személyi kört, az átvállalására vonatkozó feltételeket.

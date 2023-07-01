@@ -6,7 +6,7 @@ a) meghatározzák a szereplők, ideértve a belföldön terméket forgalomba ho
 
 b) a hulladékhierarchiával összhangban az európai uniós jogi aktusban és hazai jogszabályban előírt célértékek, illetve célkitűzések elérése vagy megvalósítása érdekében nemzeti célértékeket, illetve célkitűzéseket határoznak meg,
 
-c) jelentéstételi rendszert alakítanak ki és működtetnek a kiterjesztett gyártói felelősségi rendszer hatálya alá tartozó termékek gyártói által forgalomba hozott termékekre, valamint az e termékekből származó hulladék – típus és fajta szerint – összegyűjtésére, kezelésére vonatkozó adatok tekintetében,
+c) jelentéstételi rendszert alakítanak ki és működtetnek a kiterjesztett gyártói felelősségi rendszer hatálya alá tartozó termékek gyártói által belföldön forgalomba hozott termékekre, valamint az e termékekből származó hulladék – típus és fajta szerint – összegyűjtésére, kezelésére vonatkozó adatok tekintetében,
 
 d) a gyártók származására vagy méretére tekintet nélkül azonos követelményrendszert határoznak meg anélkül, hogy aránytalan szabályozási terhet rónának a terméket kis mennyiségben előállító gyártóra, ideértve a kis- és középvállalkozásokat is,
 
@@ -28,13 +28,13 @@ e) a nyilvánosság számára hozzáférhetővé teszi a hulladékgazdálkodási
 
 ea) a gyártó vagy szervezet tulajdonosi köre és tagja,
 
-eb) a forgalomba hozott termékek tonnában kifejezett mennyisége alapján fizetett pénzügyi hozzájárulás,
+eb) a termékek gyártói által az értékesített egységek vagy a forgalomba hozott termékek tonnában kifejezett mennyisége alapján fizetett pénzügyi hozzájárulás,
 
 ec) a hulladékgazdálkodásban résztvevők kiválasztási eljárása.
 
 (3) A kiterjesztett gyártói felelősségi kötelezettségeknek való megfelelés céljából a gyártók által fizetett pénzügyi hozzájárulás
 
-a) legalább a gyártó által forgalomba hozott termékek következő költségeit fedezi:
+a) legalább a gyártó által belföldön forgalomba hozott termékek következő költségeit fedezi:
 
 aa) a hulladék elkülönített gyűjtésének, azt követő szállításának és kezelésének költsége, ideértve a hulladékgazdálkodási célértékeknek való megfeleléshez szükséges kezelés költségeit és az újrahasználatból, a másodnyersanyagok értékesítéséből a visszafizetésre nem kerülő betétdíjakból befolyó bevételek figyelembevételével,
 
@@ -47,3 +47,5 @@ b) kollektív felelősségi rendszer esetén, a termékek tartóssága, javítha
 c) nem haladhatja meg a hulladékgazdálkodási szolgáltatások költséghatékony módon történő nyújtásához szükséges költségeket, amelyeket az érintett szereplők között átlátható módon kell megállapítani.
 
 (4) A (3) bekezdés a) pontjában meghatározott szempontokat a hulladékká vált gépjárművekről, az elektromos és elektronikus berendezésekkel kapcsolatos hulladékgazdálkodási tevékenységekről, továbbá az elem- és akkumulátorhulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló kormányrendeletek alapján létrehozott kiterjesztett gyártói felelősségi rendszerek esetében nem kell alkalmazni.
+
+(5) A (3) bekezdés szerinti pénzügyi hozzájárulást a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló kormányrendeletben meghatározott termék forgalomba hozatala esetén a termék gyártója a kiterjesztett gyártói felelősségi kötelezettséget a gyártó nevében teljesítő szervezet feladatainak a koncessziós társaság általi teljesítéséért kiterjesztett gyártói felelősségi díj megfizetésével teljesíti.

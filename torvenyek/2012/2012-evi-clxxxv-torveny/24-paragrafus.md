@@ -6,4 +6,4 @@ b) az általa előállított vagy forgalomba hozott termékből, továbbá a ter
 
 érdekében.
 
-(2) A környezetvédelmi termékdíjról szóló törvény az újrahasználatra visszavett termékdíjköteles termékre és a termék csomagolását képező termékdíjköteles csomagolószerre vonatkozó visszaváltási, visszavételi, továbbá a termékdíjköteles termékből és a csomagolására felhasznált termékdíjköteles csomagolószerekből származó – hasznosítás céljára átvett – hulladék fajtáira vonatkozó átvételi, gyűjtési és hasznosítási arányokat, és a teljesítés határidejét a műszaki és gazdasági megvalósíthatóságra, valamint az általános környezeti, egészségügyi és társadalmi hatásokra figyelemmel határozza meg.
+(2)

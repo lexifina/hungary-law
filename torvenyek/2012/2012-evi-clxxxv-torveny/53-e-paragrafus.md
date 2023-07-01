@@ -6,12 +6,12 @@
 
 (3) Az 53/A. § (4) bekezdése szerint a kiterjesztett gyártói felelősségi kötelezettséget a gyártó nevében teljesítő szervezet feladatainak a koncessziós társaság általi teljesítéséért a gyártók által fizetendő pénzügyi hozzájárulást úgy kell megállapítani, hogy az fedezze a koncessziós társaság ilyen tevékenysége körében felmerülő indokolt költségeket, és az ilyen költségekből nem vonhatóak le a hulladék értékesítéséből származó árbevételek.
 
-(4) A (2) bekezdésben meghatározott díjakat a koncessziós társaság szedi be, és kezeli az ezzel kapcsolatban felmerülő kintlévőségeket az e törvény végrehajtására kiadott kormányrendeletben meghatározott szabályok betartásával.
+(4) A (2) bekezdésben meghatározott díjakat a koncessziós társaság szedi be, és kezeli az ezzel kapcsolatban felmerülő kintlévőségeket.
 
-(5)
+(5) A (2) bekezdésben foglalt díjakkal érintett szolgáltatásokon kívüli, de a koncessziós szerződés teljesítése érdekében szükséges tevékenység ellátásáért fizetendő ellenértéket a koncessziós társaság állapíthatja meg, amelynek – indokolt esetben differenciált – mértékét a honlapján közzéteszi.
 
 (6)
 
 (7) Az állami hulladékgazdálkodási közfeladat ellátásával összefüggésben a hulladékgazdálkodási eszközökkel rendelkező önkormányzat, önkormányzati társulás, gazdasági társaság vagy más gazdálkodó szervezet köteles együttműködni a koncesszorral és a koncessziós társasággal.
 
-(8) A hulladékgazdálkodási közszolgáltatási résztevékenység folyamatos ellátása érdekében a koncesszor nevében eljáró koncessziós társasággal versenyeztetés mellőzésével köthető a hulladékgazdálkodási közszolgáltatási résztevékenység ellátásához szükséges vagyonra vonatkozóan az Nvtv. szerinti hasznosítási vagy tulajdonátruházási szerződés.
+(8) A hulladékgazdálkodási közszolgáltatási résztevékenység folyamatos ellátása érdekében a koncesszor nevében eljáró koncessziós társasággal vagy koncesszori alvállalkozói tevékenység ellátására irányuló szerződéssel rendelkező személlyel versenyeztetés mellőzésével köthető a hulladékgazdálkodási közszolgáltatási résztevékenység ellátásához részben vagy egészben szükséges vagyonra vonatkozóan az Nvtv. szerinti hasznosítási vagy tulajdonátruházási szerződés.

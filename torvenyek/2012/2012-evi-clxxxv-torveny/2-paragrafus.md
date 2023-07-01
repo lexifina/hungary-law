@@ -6,7 +6,7 @@
 
 2. ártalmatlanítás: minden olyan kezelési művelet, amely nem hasznosítás; a művelet abban az esetben is ártalmatlanítás, ha az másodlagos jelleggel anyag- vagy energiakinyerést eredményez;
 
-2a. betétdíj: a betétdíjas termék árával együtt felszámított, annak visszaváltásakor a forgalmazónak, illetve a visszaváltójának maradéktalanul visszafizetett díj;
+2a.
 
 3. biohulladék: a biológiailag lebomló, kerti vagy parkból származó hulladék, háztartásban, irodában, étteremben, nagykereskedelmi, étkeztetési, vendéglátóipari és kiskereskedelmi létesítményben képződő élelmiszer- és konyhai hulladék, valamint az élelmiszer-feldolgozó üzemekben képződő hasonló hulladék;
 
@@ -34,9 +34,11 @@ a) a célokra alkalmas nem veszélyes hulladékot használnak,
 
 b) talajkiemeléssel érintett területek helyreállítására, vagy mérnöki tájrendezési célokra,
 
-c) a feltöltéshez használt hulladékkal hulladéknak nem minősülő anyagot helyettesítve, valamint
+c) a feltöltéshez használt hulladékkal hulladéknak nem minősülő anyagot helyettesítve,
 
-d) szigorúan a célok eléréséhez szükséges mennyiségben;
+d) a célok eléréséhez szükséges mennyiségben, és olyan összetételben, amely nem okoz a földtani közegben vagy a felszín alatti vizekben „B” szennyezettségi határértéknél kedvezőtlenebb állapotot, valamint
+
+e) nem kell lefolytatni vízjogi vagy vízvédelmi hatósági (engedélyezési) eljárást;
 
 13. fogyasztó: aki a terméket továbbértékesítési cél nélkül a gyártótól vagy a forgalmazótól átveszi vagy megvásárolja;
 
@@ -72,17 +74,17 @@ d) szigorúan a célok eléréséhez szükséges mennyiségben;
 
 26a. hulladékgazdálkodási eszközök: a hulladékgazdálkodási tevékenység ellátását szolgáló és ahhoz bármilyen jogcímen használt vagyon és vagyoni értékű jogok;
 
-26b. hulladékgazdálkodási intézményi résztevékenység: az a kötelező jelleggel igénybe veendő hulladékgazdálkodási résztevékenység, amely magában foglalja az ingatlanhasználó hulladékgazdálkodási közszolgáltatási résztevékenység körébe nem tartozó települési hulladékának, kiterjesztett gyártói felelősségi rendszer hatálya alá tartozó termékek hulladékának és a kötelező visszaváltási díjas rendszerbe tartozó termékeknek és e termékekből származó hulladéknak az átvételét, gyűjtését, elszállítását, előkezelését, kereskedelmét és kezelésre történő átadását, ideértve az ezek által érintett hulladékgazdálkodási létesítmények fenntartását és üzemeltetését, továbbá az ilyen hulladékokra létrehozott kiterjesztett gyártói felelősségi rendszerek 53/A. § (4) bekezdésében meghatározott kiterjesztett gyártói felelősségi kötelezettséget a gyártó nevében teljesítő szervezeti feladatainak ellátását, valamint a kötelező visszaváltási díjas rendszer működtetését;
+26b. hulladékgazdálkodási intézményi résztevékenység: az a kötelező jelleggel igénybe veendő hulladékgazdálkodási résztevékenység, amely magában foglalja az ingatlanhasználó hulladékgazdálkodási közszolgáltatási résztevékenység körébe nem tartozó települési hulladékának, a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló kormányrendeletben meghatározott kiterjesztett gyártói felelősségi rendszer hatálya alá tartozó termékek hulladékának és a kötelező visszaváltási díjas rendszerbe tartozó termékeknek és e termékekből származó hulladéknak az átvételét, gyűjtését, elszállítását, előkezelését, kereskedelmét és kezelésre történő átadását, ideértve az ezek által érintett hulladékgazdálkodási létesítmények fenntartását és üzemeltetését, továbbá az ilyen hulladékokra létrehozott kiterjesztett gyártói felelősségi rendszerek 53/A. § (4) bekezdésében meghatározott kiterjesztett gyártói felelősségi kötelezettséget a gyártó nevében teljesítő szervezeti feladatainak ellátását, valamint a kötelező visszaváltási díjas rendszer működtetését;
 
-26c. hulladékgazdálkodási közszolgáltatási résztevékenység: az a kötelező jelleggel igénybe veendő hulladékgazdálkodási résztevékenység, amely magában foglalja az ingatlanhasználó települési vegyes és elkülönítetten gyűjtött hulladékának – ide nem értve a gazdálkodó szervezet ingatlanhasználó háztartási hulladékhoz hasonló hulladék részét képező elkülönítetten gyűjtött hulladékát –, valamint a természetes személy ingatlanhasználó lomtalanítás körébe tartozó lomhulladékának átvételét, gyűjtését, elszállítását, előkezelését, kereskedelmét és kezelésre történő átadását, ideértve a hulladékgazdálkodási közszolgáltatással érintett hulladékgazdálkodási létesítmény fenntartását és üzemeltetését;
+26c. hulladékgazdálkodási közszolgáltatási résztevékenység: az a kötelező jelleggel igénybe veendő hulladékgazdálkodási résztevékenység, amely magában foglalja az ingatlanhasználó települési vegyes és elkülönítetten gyűjtött hulladékának – ide nem értve a gazdálkodó szervezet ingatlanhasználó háztartási hulladékhoz hasonló hulladék részét képező elkülönítetten gyűjtött hulladékát –, valamint a természetes személy ingatlanhasználó lomtalanítás körébe tartozó lomhulladékának átvételét, gyűjtését, elszállítását, előkezelését, kereskedelmét és kezelésre történő átadását, ideértve a hulladékgazdálkodási közszolgáltatási résztevékenységgel érintett hulladékgazdálkodási létesítmény fenntartását és üzemeltetését;
 
 26d. hulladékgazdálkodási tevékenység: a hulladékgazdálkodás körébe tartozó tevékenységek összessége;
 
 27. hulladékgazdálkodási közszolgáltatás: a közszolgáltatás körébe tartozó hulladék átvételét, gyűjtését, elszállítását, kezelését, valamint a hulladékgazdálkodási közszolgáltatással érintett hulladékgazdálkodási létesítmény fenntartását, üzemeltetését, vagyonkezelését és a hulladékgazdálkodási közszolgáltatás országos szintű megszervezését biztosító, kötelező jelleggel igénybe veendő szolgáltatás;
 
-27a. önkormányzati hulladékgazdálkodási közfeladat: a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény (a továbbiakban: Mötv.) 13. § (1) bekezdés 19. pontja szerinti közfeladat az önkormányzat közigazgatási területén a hulladékgazdálkodási közszolgáltatás helyi szintű részletszabályainak meghatározása, valamint a hulladékgazdálkodási közszolgáltató kiválasztása, a közszolgáltatási szerződés megkötése;
+27a.
 
-27b. állami hulladékgazdálkodási közfeladat: a hulladékgazdálkodási közszolgáltatás országos szintű megszervezése.
+27b. állami hulladékgazdálkodási közfeladat: együttesen a hulladékgazdálkodási intézményi résztevékenység és a hulladékgazdálkodási közszolgáltatási résztevékenység;
 
 28. hulladékgazdálkodási létesítmény: a hulladékgazdálkodási tevékenységek végzését biztosító telephely, ingatlan, továbbá a telephelyen, ingatlanon belül vagy közterületen kialakított elkülönített terület, amely magában foglalja a hulladékgazdálkodás végzéséhez szükséges építményeket, így különösen a környezet biztonságát szolgáló építményeket, kiszolgáló helyiségeket, gyűjtőhelyeket, valamint a hulladékkezelő létesítményeket;
 
@@ -98,7 +100,7 @@ d) szigorúan a célok eléréséhez szükséges mennyiségben;
 
 33a. indokolt költség: jogszabálynak vagy engedélynek megfelelően az engedélyköteles tevékenység, illetve az állami hulladékgazdálkodási közfeladat folyamatos és biztonságos ellátásához, valamint a hulladékgazdálkodási tevékenységet végző gazdálkodó szervezet működéséhez ténylegesen szükséges költség, beleértve a tőkeköltséget is;
 
-34. ingatlanhasználó: az ingatlan birtokosa, tulajdonosa, vagyonkezelője, valamint a társasház és a lakásszövetkezet, aki (amely) a hulladékgazdálkodási közszolgáltatás igénybevételére köteles és akinek (amelynek) a közszolgáltató rendelkezésére áll;
+34. ingatlanhasználó: az ingatlan birtokosa, tulajdonosa, vagyonkezelője, valamint a társasház és a lakásszövetkezet, aki (amely) a hulladékgazdálkodási közszolgáltatási résztevékenység igénybevételére köteles és akinek (amelynek) a hulladékgazdálkodási közszolgáltatási résztevékenységet ellátó koncessziós társaság rendelkezésére áll;
 
 35. kereskedő: olyan gazdálkodó szervezet, amely a hulladékot saját vagy más nevében megvásárolja, és azt követően eladja, ideértve azt az esetet is, amikor a kereskedő nem lesz a hulladék tényleges birtokosa;
 
@@ -116,23 +118,23 @@ d) szigorúan a célok eléréséhez szükséges mennyiségben;
 
 36f. koncesszor: a hulladékgazdálkodási koncessziós jogosultság átengedése tekintetében az állam által lefolytatott, jogszabályban meghatározott nyilvános kiválasztási eljárás nyertes ajánlattevője, a koncesszió jogosultja;
 
-36g. koncesszori alvállalkozó: azok az e törvény szerinti engedély vagy nyilvántartásba vétel alapján hulladékgazdálkodási résztevékenységet végző vállalkozások, amelyek a koncesszorral, illetve a koncessziós társasággal közvetlenül, vagy egy vagy több másik ilyen vállalkozáson keresztül közvetetten az állami hulladékgazdálkodási közfeladat ellátásában történő közreműködés tárgyában kötött hatályos szerződéssel rendelkeznek;
+36g. koncesszori alvállalkozó: azok az e törvény szerinti engedély vagy nyilvántartásba vétel alapján hulladékgazdálkodási tevékenységet végző vállalkozások, amelyek a koncesszorral, illetve a koncessziós társasággal közvetlenül, vagy egy vagy több másik ilyen vállalkozáson keresztül közvetetten az állami hulladékgazdálkodási közfeladat ellátásában történő közreműködés tárgyában kötött hatályos szerződéssel rendelkeznek;
 
 36h. koncesszori alvállalkozói nyilvántartás: a koncesszori alvállalkozókról a hulladékgazdálkodási hatóság által vezetett nyilvántartás;
 
-36i. közszolgáltatási terület: az Országos Hulladékgazdálkodási Közszolgáltatási Terv által meghatározott olyan, települési közigazgatási területtel vagy területekkel egyértelműen behatárolható terület, amelyre vonatkozóan az önkormányzat hulladékgazdálkodási közszolgáltatási szerződést kötött;
+36i.
 
-37. közszolgáltató: az a hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló törvény szerint minősített nonprofit gazdasági társaság, amely a települési önkormányzattal kötött hulladékgazdálkodási közszolgáltatási szerződés alapján hulladékgazdálkodási közszolgáltatást lát el;
+37.
 
-37a. közszolgáltatói alvállalkozó: a hulladékgazdálkodási közszolgáltató által, a hulladékgazdálkodási közszolgáltatási szerződésben megállapított hulladékgazdálkodási közszolgáltatási kötelezettsége teljesítése érdekében közvetlenül igénybe vett nonprofit gazdasági társaság, ide nem értve a 42. § (2) bekezdése szerinti hulladékkezelőt;
+37a.
 
 38. közvetítő: olyan gazdálkodó szervezet – az egyéni vállalkozót, valamint az egyéni céget ide nem értve –, amely más nevében szervezi a hulladék hasznosítását vagy ártalmatlanítását, ideértve azt az esetet is, amikor a közvetítő nem lesz a hulladék tényleges birtokosa;
 
-38a. közvetítő szervezet: olyan nonprofit gazdasági társaságként működő közvetítő – a környezetvédelmi termékdíjról szóló törvény szerinti, a termékdíjköteles termékekből keletkező hulladékok gyűjtését és hasznosítását közvetítő, valamint az egyes gyűjtési és hasznosítási célok elérését szolgáló szervezetet kivéve –, amely a hulladék hasznosítását vagy ártalmatlanítását nyilvántartásba vétel alapján szervezi;
+38a. közvetítő szervezet: olyan nonprofit gazdasági társaságként működő közvetítő – a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló kormányrendeletben meghatározott termékekre vonatkozóan a kiterjesztett gyártói felelősségi kötelezettséget a gyártó nevében teljesítő szervezetet kivéve –, amely a hulladék hasznosítását vagy ártalmatlanítását nyilvántartásba vétel alapján szervezi;
 
 38b. kritikus fontosságú nyersanyag: a biztonságos, fenntartható és megfizethető ellátás biztosítása és az újrafeldolgozása elősegítése céljából, a gazdasági jelentőség és az ellátási kockázat szempontjából stratégiai jelentőségű, az Európai Unió által a kritikus fontosságú nyersanyagok rendszeresen felülvizsgált jegyzékéről szóló bizottsági közleményben meghatározott nyersanyag;
 
-39. lomhulladék: az ingatlanhasználótól a közszolgáltató által a lomtalanítás során átvett olyan háztartási hulladék, amely a közszolgáltatás keretében rendszeresített gyűjtőedény méreteit meghaladja;
+39. lomhulladék: az ingatlanhasználótól a hulladékgazdálkodási közszolgáltatási résztevékenységet ellátó koncessziós társaság által a lomtalanítás során átvett olyan háztartási hulladék, amely a közszolgáltatási résztevékenység keretében rendszeresített gyűjtőedény méreteit meghaladja;
 
 40. megelőzés: az anyag vagy termék hulladékká válását megelőzően hozott olyan intézkedés, amely csökkenti
 
@@ -168,6 +170,8 @@ c) az anyagok és a termékek veszélyesanyag-tartalmát;
 
 49. veszélyes-hulladékégető mű: olyan hulladékkezelő létesítmény, amelyben a hulladékégetés műszaki követelményeiről, működési feltételeiről és a hulladékégetés technológiai kibocsátási határértékeiről szóló miniszteri rendeletben meghatározott feltételek szerint veszélyes hulladékot égetnek;
 
+49b. visszaváltó berendezés: a visszaváltási díjat és a visszaváltási díjas termék visszaváltását biztosító eszköz és berendezés;
+
 50. zöldhulladék: kertben, vagy kertészeti tevékenység során képződő növényi eredetű hulladék.
 
 (2) Az e törvény hatálya alá tartozó állati mellékterméket az (1) bekezdés 23. pontja szerinti fogalommeghatározással összhangban kell értelmezni.
@@ -188,10 +192,10 @@ meghatározott eltérésekkel összhangban kell értelmezni.
 
 (6) A hulladék e törvény szerinti behozatalára, kivitelére és átszállítására a hulladékszállításról szóló, 2006. június 14-i 1013/2006/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1013/2006/EK európai parlamenti és tanácsi rendelet) szerinti szállítás fogalmat kell alkalmazni.
 
-(7) A hulladékgazdálkodással összefüggő, e törvényben nem szabályozott fogalmak, továbbá rendelkezések tekintetében a Polgári Törvénykönyvet, a számvitelről szóló törvényt, a Magyarország helyi önkormányzatairól szóló törvényt, a környezetvédelmi termékdíjról szóló törvényt, valamint a környezet védelmének általános szabályairól szóló törvényt (a továbbiakban: Kvt.) kell alkalmazni.
+(7) A hulladékgazdálkodással összefüggő, e törvényben nem szabályozott fogalmak, továbbá rendelkezések tekintetében a Polgári Törvénykönyvet, a számvitelről szóló törvényt, a Magyarország helyi önkormányzatairól szóló törvényt, valamint a környezet védelmének általános szabályairól szóló törvényt (a továbbiakban: Kvt.) kell alkalmazni.
 
 (8) Törvény vagy kormányrendelet az egyes hulladéktípusok és -fajták képződésének megelőzése érdekében, valamint a hulladékgazdálkodási tevékenységek vonatkozásában e törvénnyel összhangban álló további rendelkezéseket állapíthat meg.
 
-(9) A közszolgáltatók minősítésének részletes szabályait a hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló törvény határozza meg.
+(9)
 
 (10) Az (1) bekezdés 43. pontja szerinti fogalommeghatározás nem érinti a hulladékgazdálkodással összefüggő felelősségi körök állami és magánszereplők közötti megosztását.

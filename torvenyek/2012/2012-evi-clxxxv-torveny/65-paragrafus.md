@@ -1,10 +1,10 @@
 ## 28. Nyilvántartás vezetése és adatszolgáltatás
 
-65. § (1) A hulladék termelője, kormányrendeletben meghatározott birtokosa, gyűjtője, szállítója, kereskedője, közvetítője és kezelője, valamint a közszolgáltató (a továbbiakban együtt: nyilvántartásra kötelezett) a hulladékkal kapcsolatos nyilvántartási és adatszolgáltatási kötelezettségekről szóló kormányrendeletben meghatározott módon és tartalommal, a tevékenységével érintett hulladékról típus szerint a telephelyén nyilvántartást vezet.
+65. § (1) A hulladék termelője, kormányrendeletben meghatározott birtokosa, gyűjtője, szállítója, kereskedője, közvetítője és kezelője, valamint a hulladékgazdálkodási közszolgáltatási résztevékenységet ellátó koncessziós társaság (a továbbiakban együtt: nyilvántartásra kötelezett) a hulladékkal kapcsolatos nyilvántartási és adatszolgáltatási kötelezettségekről szóló kormányrendeletben meghatározott módon és tartalommal, a tevékenységével érintett hulladékról típus szerint a telephelyén nyilvántartást vezet.
 
 (1a) A veszélyes hulladék termelője, birtokosa, gyűjtője, szállítója, közvetítője, kereskedője és hulladékkezelője elektronikus nyilvántartást vezet a hulladékkal kapcsolatos nyilvántartási és adatszolgáltatási kötelezettségekről szóló kormányrendelet szerint.
 
-(2) A hulladék gyűjtője, szállítója, kereskedője, közvetítője, kezelője az (1) bekezdésben meghatározott nyilvántartásban a hulladék eredetének nyomon követhetősége céljából, a természetes személytől átvett hulladék esetében
+(2) A hulladék gyűjtője, szállítója, kereskedője, közvetítője, kezelője és – a hulladékgazdálkodási közszolgáltatási résztevékenység kivételével – a koncessziós társaság az (1) bekezdésben meghatározott nyilvántartásban a hulladék eredetének nyomon követhetősége céljából, a természetes személytől átvett hulladék esetében
 
 a) a természetes személyazonosító adatokat, valamint
 

@@ -1,21 +1,19 @@
-48. § (1) A hulladékgazdálkodási közszolgáltatási díjra vonatkozó rendelkezések betartását a Hivatal ellenőrzi. E rendelkezések megsértése esetében a Hivatal határozattal
+## 21/A. A hulladékgazdálkodási díjfelügyelet
 
-a) megtiltja a jogszabálysértő díj további alkalmazását, és kötelezi a Koordináló szervet, illetve a közszolgáltatót a jogszerű ellenérték alkalmazására,
+48. § (1) A hulladékgazdálkodási közszolgáltatási díjra és a hulladékgazdálkodási intézményi résztevékenység ellátásával összefüggő díjra vonatkozó rendelkezések betartását a Hivatal ellenőrzi. E rendelkezések megsértése esetében a Hivatal határozattal
 
-b) kötelezi a Koordináló szervet, illetve a közszolgáltatót a rendelkezések megsértésével elért többletbevétel jegybanki alapkamat tárgyévi éves átlagával növelt összegének
+a) megtiltja a jogszabálysértő díj további alkalmazását, és kötelezi az állami hulladékgazdálkodási közfeladatot ellátó koncessziós társaságot a jogszerű ellenérték alkalmazására,
+
+b) kötelezi az állami hulladékgazdálkodási közfeladatot ellátó koncessziós társaságot a rendelkezések megsértésével elért többletbevétel jegybanki alapkamat tárgyévi éves átlagával növelt összegének
 
 ba) a sérelmet szenvedett fél részére történő visszatérítésére, vagy
 
-bb) a közszolgáltató által nyújtott, a hulladékgazdálkodási közszolgáltatással érintett valamennyi ingatlanhasználó részére történő visszatérítésére, ha a sérelmet szenvedett fél személye nem állapítható meg,
+bb) a hulladékgazdálkodási közszolgáltatási résztevékenységet ellátó koncessziós társaság által nyújtott, a hulladékgazdálkodási közszolgáltatási résztevékenységgel érintett valamennyi ingatlanhasználó részére történő visszatérítésére, ha a sérelmet szenvedett fél személye nem állapítható meg, és
 
-c)
+c) bírságot szabhat ki.
 
-(1a) A Hivatal az (1) bekezdésben foglalt intézkedéseken túl, a közszolgáltatóval szemben bírságot szab ki, ha a nem megfelelő adatszolgáltatása következtében került sor jogszabálysértő díj alkalmazására.
+(2) Az (1) bekezdés szerinti eljárásban az ügyintézési határidő 25 nap.
 
-(2) Az (1) bekezdés szerinti eljárásban az ügyintézési határidő huszonöt nap. Az eljárás során hozott véglegessé vált döntések a Hivatal honlapján kerülnek közzétételre.
+(3) A Hivatal a díjfelügyeleti eljárás keretében hozott, véglegessé vált határozatait honlapján közzéteszi.
 
-(3) A Hivatal a díjfelügyeleti eljárás keretében hozott, véglegessé vált határozatait közhírré teszi.
-
-(4) A díjfelügyeleti eljárásban e törvény erejénél fogva ügyfélnek minősül a közszolgáltató, valamint az érintett települési önkormányzat.
-
-(5) A bíróság a Hivatal határozatát nem változtathatja meg.
+(4) A bíróság a Hivatal díjfelügyeleti eljárás keretében hozott határozatát nem változtathatja meg.

@@ -30,9 +30,9 @@ jogsértés esetén nem mérsékelhető.
 
 (6) Azonos tényállású, három éven belüli ismételt jogsértés esetén a bírság összege a korábban kiszabott bírság másfélszeresénél nem lehet kevesebb, de nem haladhatja meg az e törvény végrehajtására kiadott kormányrendeletben meghatározott felső határt.
 
-(7) A hulladékgazdálkodási hatóság a joghátrányt megállapító döntésének véglegessé válását követő tizenöt napon belül közzéteszi honlapján – a jogsértés meghatározásával – annak a személynek a nevét, elnevezését, lakóhelyét, székhelyét, telephelyét, akivel szemben a hulladékgazdálkodási hatóság az adott költségvetési évben összesen százmillió forintot, természetes személy esetében tízmillió forintot elérő bírságot állapított meg.
+(7)
 
-(8) A hulladékgazdálkodási hatóság honlapján lekérdezési lehetőséget biztosít a (7) bekezdésben foglalt adatokra vonatkozóan.
+(8)
 
 (9) Akit a hulladékgazdálkodási hatóság egy költségvetési évben összesen százmillió forintot, természetes személy esetében tízmillió forintot elérő bírsággal sújt, két évig nem részesülhet törvény vagy kormányrendelet szerint meghatározott támogatásban.
 
@@ -75,3 +75,39 @@ k) az élelmiszer-rendész
 (16) A hulladék mennyiségének meghatározása különösen méréssel, számítással, valamint műszaki becsléssel történhet.
 
 (17) A hulladékgazdálkodási bírság megfizetésére a területi hulladékgazdálkodási hatóság a végrehajtás elrendelése előtt – kérelemre – legfeljebb 3 évig terjedő részletfizetést engedélyezhet.
+
+(18) Az e törvény szerinti helyszíni bírság kiszabására jogosult hatóság a hulladékgazdálkodási bírság, valamint a helyszíni bírság mértékéről, kiszabásának és megállapításának módjáról kormányrendeletben meghatározott feladata ellátása érdekében intézkedése során a (19) bekezdés e) pontjában meghatározott személyes adatokat kezeli.
+
+(19) A helyszíni bírság kiszabására jogosult hatóság az intézkedés során a következő adatokat rögzíti:
+
+a) az elkövetés helye (település, utca, házszám, helyrajzi szám, km szelvény),
+
+b) az elkövetés ideje (év, hónap, nap, óra, perc),
+
+c) az eset körülményeinek leírása, valamint a hulladék fajtájának és mennyiségének meghatározása,
+
+d) a helyszíni bírság megfizetési módja (csekkszelvény átadásakor a csekkszelvény sorszámának rögzítése),
+
+e) az elkövető személy vagy személyek
+
+ea) családi és utóneve,
+
+eb) anyja születési neve,
+
+ec) születési helye, születési ideje,
+
+ed) állampolgársága,
+
+ee) lakóhelye,
+
+ef) személyazonosság igazolására alkalmas hatósági igazolvány okmányazonosítója,
+
+f) a helyszíni bírság kiszabására jogosultat foglalkoztató szerv megnevezése, székhelye és telefonszáma,
+
+g) a helyszíni bírság kiszabására jogosult hatásköre,
+
+h) a hulladék elszállítás módja, határideje, az azt igazoló dokumentumok beküldésének határideje (elkövető által azonnal vagy hulladékgazdálkodási engedéllyel rendelkező cég által),
+
+i) annak rögzítése, hogy az elkövető elismeri a cselekmény elkövetését és azt, hogy a helyszíni bírság kiszabására jogosult által rögzítettek megfelelnek a valóságnak, és
+
+j) a helyszíni bírság kiszabására jogosult és az eljárás alá vont aláírása.

@@ -10,6 +10,8 @@ d) a természetes személy ingatlantulajdonos vagy ingatlanbirtokos által haszn
 
 e) a hulladékgazdálkodási hatóság a költséghatékonyság mérlegelését követően a jogellenesen elhelyezett vagy elhagyott, legfeljebb 2 m3 mennyiségű, nem veszélyes hulladékot hulladékgyűjtő pontra, hulladékgyűjtő udvarba, átvételi helyre vagy hulladékkezelő létesítménybe szállítja.
 
+f) a 61. § (4) bekezdésben foglaltak szerinti kötelezett által a kötelezést megállapító közigazgatási döntéssel igazoltan legfeljebb 1 m3 mennyiségű nem veszélyes építési-bontási hulladék vagy nem veszélyes települési hulladék kerül elszállításra hulladékgyűjtő udvarba, átvételi helyre, vagy hulladékkezelő létesítménybe történő átadás céljából.
+
 (2) A hulladék szállítója felelős a hulladék rendeltetési helyére történő biztonságos eljuttatásáért.
 
 (3) Szállításból eredő szennyezés esetén a hulladék szállítója gondoskodik az eredeti környezeti állapot helyreállításáról, így különösen a terület szennyezésmentesítéséről és a hulladék elszállításáról.

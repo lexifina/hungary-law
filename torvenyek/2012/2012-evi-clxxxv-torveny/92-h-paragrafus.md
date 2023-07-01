@@ -10,20 +10,18 @@
 
 (6) A hulladékgazdálkodási közszolgáltatás ellátását biztosító vagyonelemek tulajdonosai és üzemeltetői kötelesek a vagyonelemek állagát megóvni és a közszolgáltatás ellátását biztosító fejlesztéseket a Mód. tv. hatálybalépésétől kezdődően 2023. július 1-jéig biztosítani.
 
-(7) A közszolgáltatók a hulladékgazdálkodási közszolgáltatással összefüggésben új szerződést úgy köthetnek, hatályos szerződésüket úgy módosíthatják, vagy vállalhatnak más módon kötelezettséget, ha ezek hatálya legkésőbb 2023. június 30. napján lejár. A közszolgáltatók kizárólag a Hivatal jóváhagyásával köthetnek a hulladékgazdálkodási közszolgáltatás teljesítésével összefüggő szerződést, vagy vállalhatnak kötelezettséget. A Hivatal akkor tagadhatja meg a jóváhagyást, ha a hulladékgazdálkodási közszolgáltatás teljesítésével összefüggő szerződés, vagy a vállalt kötelezettség nem felel meg az e törvény végrehajtására kiadott kormányrendeletben meghatározott szempontoknak. Nem kell a Hivatal jóváhagyását kérni az olyan szerződéshez, vagy kötelezettségvállaláshoz, amely a rendes üzletmenet keretein belül a hulladékgazdálkodási közszolgáltatás napi funkcionális működőképességének biztosításához szükséges. Nem szükséges a Hivatal jóváhagyását kérni a szerződés vagy kötelezettségvállalás azon rendelkezéséhez, amely a koncesszori alvállalkozói tevékenység, vagy a koncessziós társaság részére történő hulladékkezelési szolgáltatás 2023. július 1. napjától történő ellátását szolgálja.
+(7)
 
 (8) A miniszter, a Koordináló szerv, az érintett hatóságok, az önkormányzatok, az önkormányzati társulások és a közszolgáltatók kötelesek együttműködni a koncesszorral és a koncessziós társasággal a koncessziós szerződésben vállalt kötelezettségei teljesítése érdekében a koncessziós szerződés megkötése és hatálybalépése közötti időszakban.
 
-(9) Ha az eredeti hulladéktermelőnek nem minősülő gazdálkodó szervezet 2023. július 1-jén rendelkezik a hulladékgazdálkodási intézményi résztevékenység hatálya alá tartozó hulladékkal és azt
+(9) Az az eredeti hulladéktermelőnek nem minősülő gazdálkodó szervezet, aki 2023. július 1-jén rendelkezik a hulladékgazdálkodási intézményi résztevékenység hatálya alá tartozó hulladékkal, az adott hulladékot 2023. szeptember 30-ig
 
-a) a koncessziós társaságnak,
+a) szabadon értékesítheti – ez esetben a vevő szabadon megvásárolhatja –, vagy,
 
-b) a koncesszori alvállalkozói nyilvántartásban szereplő hulladékkezelőnek, szállítónak, gyűjtőnek, közvetítőnek vagy kereskedőnek,
+b) a koncessziós társasággal e határidőig megkötött megállapodás alapján – a pénzben kifejezhető értékkel rendelkező hulladék tekintetében – ellentételezés fejében a koncessziós társaságnak, vagy az általa kijelölt koncesszori alvállalkozónak, az e megállapodásban rögzített ütemezés szerint, de legkésőbb 2023. december 31-ig átadhatja.
 
-c) az a) vagy b) pontban meghatározottak által üzemeltetett hulladékgyűjtő ponton, hulladékgyűjtő udvarban vagy visszaváltó berendezéseken keresztül,
+(9a) A (9) bekezdés b) pontja szerinti ellentételezés mértékét a koncessziós társaság a Hivatal elnökének a 88. § (3a) bekezdés d) pontja szerinti rendeletében foglalt, a kompenzáció összege meghatározásának keretszabályaira figyelemmel megalkotott módszertana alapján határozza meg.
 
-d) a koncessziós társasággal kötött megállapodás alapján üzemeltetett hulladék átvételi helyen, illetve az átvételre kötelezettnek, vagy
+(9b) A (9) bekezdés szerinti hulladék 2023. október 1-jéig nem értékesített, vagy a (9) bekezdés b) pontja alapján megkötött megállapodással nem érintett részéről a gazdálkodó szervezet a 31. § (2) bekezdés a) pontja szerint kell, hogy – az átvevővel megállapodott ütemezés szerint – gondoskodjon, e hulladékért ellentételezésre nem jogosult. Az átvett hulladékkal – ide nem értve a kiterjesztett gyártói felelősségi rendszer hatálya alá tartozó termékből származó hulladékot – összefüggésben az átvevőnél igazolhatóan keletkezett költségeket az átadó megtéríti.
 
-e) koncessziós szerződés megkötésének hiányában az a)–d) pont helyett az állam által kijelölt jogi személynek
-
-átadja, annak átadásakor kompenzációra jogosult. Az érintett, eredeti hulladéktermelőnek nem minősülő gazdálkodó szervezet a kompenzációra való jogosultságát elveszíti, ha a hulladékot nem adja át 2023. szeptember 30-ig.
+(10) Ha a fémkereskedelemről szóló törvény a (9) bekezdés szerinti hulladék mint fémkereskedelmiengedély- köteles anyag átadására vagy értékesítésére a (9) bekezdéstől eltérő határidőt állapít meg, akkor azt kell alkalmazni.
