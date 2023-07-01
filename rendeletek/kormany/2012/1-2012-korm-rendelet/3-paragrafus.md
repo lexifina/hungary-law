@@ -32,7 +32,10 @@ b) aki a 19. § (1) bekezdés f) pontja szerint elengedett tartozással rendelke
 
 (4)[^25] Nem kezdeményezheti a szabad felhasználású hitelre vonatkozó hallgatói hitelszerződés megkötését az, akit a bíróság jogerősen végrehajtandó szabadságvesztésre ítélt és a szabadságvesztést még nem hajtották végre, vagy annak végrehajthatósága még nem szűnt meg, kivéve, ha a bíróság az elítéltet feltételes szabadságra bocsátotta.
 
+(5)[^26] A szabad felhasználású hitel folyósításának feltétele, hogy a hallgató kedvezményes fizetési számlát nyisson és tartson fenn a Diákhitel szervezet által lefolytatott nyílt pályázati eljárás keretében kiválasztott pénzforgalmi szolgáltatónál.
+
 [^22]: A 3. § (1) bekezdés b) pont bc) alpontját a 156/2021. (III. 29.) Korm. rendelet 13. § b) pontja hatályon kívül helyezte.
 [^23]: A 3. § (2) bekezdés a) pontja a 156/2021. (III. 29.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
 [^24]: A 3. § (3) bekezdése a 468/2015. (XII. 29.) Korm. rendelet 17. §-ával megállapított szöveg.
 [^25]: A 3. § (4) bekezdését a 293/2014. (XI. 26.) Korm. rendelet 1. §-a iktatta be.
+[^26]: A 3. § (5) bekezdését a 435/2022. (XI. 2.) Korm. rendelet - az 51/2023. (II. 23.) Korm. rendelet 1. §-a szerint módosított - 1. §-a iktatta be.

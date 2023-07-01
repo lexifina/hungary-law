@@ -1,18 +1,18 @@
 ## 23/A. § A Kormány képzési hitelt nyújtó szervezetként a Diákhitel szervezetet jelöli ki.
 
-23/B. § (1)[^106]
+23/B. § (1)[^109]
 
-(2)[^107]
+(2)[^110]
 
-(3)[^108]
+(3)[^111]
 
-(4)[^109]
+(4)[^112]
 
-(5)[^110]
+(5)[^113]
 
-(6)[^111] A képzési hitel tekintetében a jogosultság feltételeit a Diákhitel szervezet üzletszabályzatában meghatározott módon kell igazolni.
+(6)[^114] A képzési hitel tekintetében a jogosultság feltételeit a Diákhitel szervezet üzletszabályzatában meghatározott módon kell igazolni.
 
-(7)[^112] Képzési hitel olyan szakképző intézménnyel vagy felnőttképzővel fennálló jogviszony alapján igényelhető és folyósítható, amely szakképző intézménnyel vagy felnőttképzővel a Diákhitel szervezet együttműködési megállapodást kötött. Az együttműködési megállapodás megkötését a Diákhitel szervezet megtagadja, ha a szakképző intézmény vagy a felnőttképző
+(7)[^115] Képzési hitel olyan szakképző intézménnyel vagy felnőttképzővel fennálló jogviszony alapján igényelhető és folyósítható, amely szakképző intézménnyel vagy felnőttképzővel a Diákhitel szervezet együttműködési megállapodást kötött. Az együttműködési megállapodás megkötését a Diákhitel szervezet megtagadja, ha a szakképző intézmény vagy a felnőttképző
 
 a) – szakképző intézmény kivételével – nem rendelkezik legalább két lezárt üzleti évvel,
 
@@ -26,7 +26,7 @@ e) nem vállal kötelezettséget arra, hogy az együttműködési megállapodás
 
 f) korábban kötött együttműködési megállapodását a Diákhitel szervezet azonnali hatállyal felmondta, és a felmondás óta két év nem telt el.
 
-(8)[^113] A Diákhitel szervezet a (7) bekezdés szerinti együttműködési megállapodást azonnali hatállyal felmondja, ha a szakképző intézmény vagy a felnőttképző
+(8)[^116] A Diákhitel szervezet a (7) bekezdés szerinti együttműködési megállapodást azonnali hatállyal felmondja, ha a szakképző intézmény vagy a felnőttképző
 
 a) az együttműködési megállapodásban vállalt együttműködési, adatszolgáltatási, tájékoztatási kötelezettségét nem vagy késedelmesen teljesíti, vagy valótlan adatot szolgáltat,
 
@@ -44,14 +44,14 @@ dc) a fogyasztóvédelmi hatóság a szakképző intézménnyel vagy a felnőttk
 
 dd) a szakképző intézmény vagy a felnőttképző képviselőjének, alkalmazottjának, a tanulónak vagy a képzésben részt vevő személynek vagy a hiteligénylés során eljáró harmadik személynek büntetőjogi felelősségét bíróság jogerős ítélettel megállapította.
 
-(9)[^114] A Diákhitel szervezet a 19. § (5) bekezdésében meghatározott eseteken kívül – ha annak alapján folyósítás még nem történt – a képzési hitelszerződést azonnali hatállyal felmondja, ha a Diákhitel szervezet a hitelfelvevő képzését megszervező szakképző intézménnyel vagy felnőttképzővel kötött együttműködési megállapodást a (8) bekezdés alapján azonnali hatállyal felmondja.
+(9)[^117] A Diákhitel szervezet a 19. § (5) bekezdésében meghatározott eseteken kívül – ha annak alapján folyósítás még nem történt – a képzési hitelszerződést azonnali hatállyal felmondja, ha a Diákhitel szervezet a hitelfelvevő képzését megszervező szakképző intézménnyel vagy felnőttképzővel kötött együttműködési megállapodást a (8) bekezdés alapján azonnali hatállyal felmondja.
 
-[^106]: A 23/B. § (1) bekezdését a 721/2021. (XII. 20.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
-[^107]: A 23/B. § (2) bekezdését a 721/2021. (XII. 20.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
-[^108]: A 23/B. § (3) bekezdését az 573/2021. (X. 8.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 721/2021. (XII. 20.) Korm. rendelet 8. § b) pontja.
-[^109]: A 23/B. § (4) bekezdését a 721/2021. (XII. 20.) Korm. rendelet 8. § c) pontja hatályon kívül helyezte.
-[^110]: A 23/B. § (5) bekezdését az 573/2021. (X. 8.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 721/2021. (XII. 20.) Korm. rendelet 8. § c) pontja.
-[^111]: A 23/B. § (6) bekezdését az 573/2021. (X. 8.) Korm. rendelet 1. §-a iktatta be.
-[^112]: A 23/B. § (7) bekezdését a 721/2021. (XII. 20.) Korm. rendelet 2. § (3) bekezdése iktatta be.
-[^113]: A 23/B. § (8) bekezdését a 721/2021. (XII. 20.) Korm. rendelet 2. § (3) bekezdése iktatta be.
-[^114]: A 23/B. § (9) bekezdését a 721/2021. (XII. 20.) Korm. rendelet 2. § (3) bekezdése iktatta be.
+[^109]: A 23/B. § (1) bekezdését a 721/2021. (XII. 20.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
+[^110]: A 23/B. § (2) bekezdését a 721/2021. (XII. 20.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
+[^111]: A 23/B. § (3) bekezdését az 573/2021. (X. 8.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 721/2021. (XII. 20.) Korm. rendelet 8. § b) pontja.
+[^112]: A 23/B. § (4) bekezdését a 721/2021. (XII. 20.) Korm. rendelet 8. § c) pontja hatályon kívül helyezte.
+[^113]: A 23/B. § (5) bekezdését az 573/2021. (X. 8.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 721/2021. (XII. 20.) Korm. rendelet 8. § c) pontja.
+[^114]: A 23/B. § (6) bekezdését az 573/2021. (X. 8.) Korm. rendelet 1. §-a iktatta be.
+[^115]: A 23/B. § (7) bekezdését a 721/2021. (XII. 20.) Korm. rendelet 2. § (3) bekezdése iktatta be.
+[^116]: A 23/B. § (8) bekezdését a 721/2021. (XII. 20.) Korm. rendelet 2. § (3) bekezdése iktatta be.
+[^117]: A 23/B. § (9) bekezdését a 721/2021. (XII. 20.) Korm. rendelet 2. § (3) bekezdése iktatta be.
