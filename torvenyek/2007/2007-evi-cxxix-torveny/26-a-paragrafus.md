@@ -28,6 +28,14 @@ j) fizetési kötelezettség elmaradása esetén a végrehajtási eljárás megi
 
 k) mentesség esetén annak feltüntetését, ha a 21/A. § szerinti eljárás lefolytatására került sor.
 
+(2a) Az ingatlanügyi hatóság az (1) bekezdés szerinti nyilvántartáson kívül külön nyilvántartást vezet az általa lefolytatott földvédelmi eljárásokban kiadott
+
+a) végleges más célú hasznosítást engedélyező határozattal érintett, vagy
+
+b) engedély nélküli más célú hasznosítás miatt indult eljárásban kiadott utólagos engedélyben szereplő
+
+termőföldekről minőségi osztály szerinti bontásban, a 4. melléklet szerinti adattartalommal.
+
 (3) A nyilvántartásba bejegyzett igénybevevő azonosítása céljából az ingatlanügyi hatóság jogosult kezelni az igénybevevőnek a (2) bekezdés a) pontjában meghatározott adatait.
 
 (4) Az ingatlanügyi hatóság jogosult a járulék és bírság nyilvántartás vezetése céljából

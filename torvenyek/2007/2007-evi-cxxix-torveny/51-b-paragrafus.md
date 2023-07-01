@@ -6,6 +6,6 @@ b) a talajvédelmi szakértő tevékenységét a nyilvántartásban foglalttól 
 
 végzi.
 
-(2) A talajvédelmi hatóság törli a nyilvántartásból azt a személyt, aki a talajvédelmi szakértői tevékenység során nem tartja be a talajvédelmi terv készítésére vonatkozó jogszabályi előírásokat.
+(2) A talajvédelmi hatóság törli a nyilvántartásból azt a személyt, aki a talajvédelmi szakértői tevékenység során nem tartja be a talajvédelmi terv készítésére vonatkozó előírásokat.
 
 (3) A névjegyzékből való törlést követő 3. évben a szakértői tevékenység újra bejelenthető.

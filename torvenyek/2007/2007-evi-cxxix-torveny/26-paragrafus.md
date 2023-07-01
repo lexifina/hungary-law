@@ -32,9 +32,11 @@ b) a járuléknak a 22. § (6), (6a) és (8) bekezdésén alapuló visszafizeté
 
 iránti kérelemről – a (7) bekezdésben meghatározott esetek kivételével – a földügyért felelős miniszter dönt.
 
+(5a) A (4a) és (5) bekezdés szerinti eljárásokban nincs helye sommás eljárásnak.
+
 (6) Ha a kérelem nem tartalmazza a 15/B. § (7) bekezdésében, illetve a 22. § (6), (6a) vagy (8) bekezdésében meghatározott adatokat, az ingatlanügyi hatóság a kérelmezőt hiánypótlásra szólítja fel.
 
-(7) Ha a kérelmező a (6) bekezdésben meghatározott esetben a hiánypótlási felhívásnak határidőben nem tesz eleget, az eljárást az ingatlanügyi hatóság megszünteti. Ha a kérelem a 15/B. § (7) bekezdésében, illetve a 22. § (6) vagy (8) bekezdésében meghatározott határidőn túl került benyújtásra, a kérelmet az ingatlanügyi hatóság elutasítja.
+(7) A kérelemnek az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) 46. §-a szerinti visszautasításáról – ideértve azt az esetet is, ha a kérelem a 15/B. § (7) bekezdésében, illetve a 22. § (6) vagy (8) bekezdésében meghatározott határidőn túl került benyújtásra –, továbbá ha a kérelmező a (6) bekezdésben meghatározott esetben a hiánypótlási felhívásnak határidőben nem tesz eleget, vagy az Ákr. szerinti egyéb megszüntetési ok felmerülése esetén az eljárás megszüntetéséről az ingatlanügyi hatóság hoz döntést.
 
 (8) A 15/B. § (7) bekezdésében, illetve a 22. § (6), (6a) vagy (8) bekezdésében meghatározottaknak megfelelő adattartalmú kérelem beérkezését, illetve a hiányosan benyújtott kérelem esetén a hiánypótlás határidőben történő teljesítését követő 30 napon belül az ingatlanügyi hatóság helyszíni szemlét tart a
 
@@ -66,6 +68,6 @@ a) a járulék megfizetését igazoló okiratot;
 
 b) a 22. § (6) és (6a) bekezdésén alapuló kérelem esetén a más célú hasznosítás engedélyezéséről, a 22. § (8) bekezdésén alapuló kérelem esetén a lejárt időbeli hatályú vagy hatályon kívül helyezett más célú hasznosítás engedélyezéséről szóló, valamint a más célú hasznosítási engedélyt hatályon kívül helyező véglegessé vált határozat hitelesített másolatát;
 
-c) az ingatlanügyi hatóság által megtartott helyszíni szemléről készült jegyzőkönyvet.
+c) az ingatlanügyi hatóság által megtartott helyszíni szemléről készült jegyzőkönyv hitelesített másolatát.
 
 (12) Ha a miniszter az (5) bekezdés a) és b) pontjában meghatározott kérelemnek helyt ad, a kifizetést átutalással kell teljesíteni.

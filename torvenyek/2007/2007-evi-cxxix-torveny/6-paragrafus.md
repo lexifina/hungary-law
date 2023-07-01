@@ -40,7 +40,7 @@ a) megállapítja az újrahasznosítás célját és határidejét, és
 
 b) előírja az újrahasznosítás megvalósítása érdekében az igénybevevő kötelezettségeit.
 
-(6a) Ha a (4) bekezdés b) pontja alapján a bejelentéshez csatolni kell az újrahasznosítást megalapozó talajvédelmi tervet, a határozatban elő kell írni, hogy az újrahasznosítást a talajvédelmi hatóság által jóváhagyott talajvédelmi terv szerint kell megvalósítani.
+(6a) Ha a (4) bekezdés b) pontja alapján a bejelentéshez csatolni kell az újrahasznosítást megalapozó talajvédelmi tervet, a határozatban elő kell írni, hogy az újrahasznosítást a talajvédelmi terv szerint kell megvalósítani.
 
 (7) Az igénybevevő a (6) bekezdés szerinti határozatban előírtaknak megfelelően köteles a területet újrahasznosítani. Az igénybevevő az újrahasznosítást – annak elvégzését követő 8 napon belül – köteles az ingatlanügyi hatóságnak bejelenteni.
 

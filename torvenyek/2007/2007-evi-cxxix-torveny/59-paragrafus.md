@@ -6,7 +6,7 @@
 
 (2) Az (1) bekezdés szerinti telepítéshez a Nemzeti Fajtajegyzékben, vagy az Európai Unió valamely tagállamának fajtajegyzékében szereplő gyümölcsfajta minősített ültetési anyaga telepíthető.
 
-(3) A telepítési szándék bejelentését követően a gyümölcsültetvény a talajvédelmi hatóság által jóváhagyott talajvédelmi terv érvényességi idejének lejártáig telepíthető.
+(3) A telepítési szándék bejelentését követően a gyümölcsültetvény a talajvédelmi terv érvényességi idejének lejártáig telepíthető.
 
 (4) A gyümölcsültetvény telepítését, termőre fordulását, kivágását, illetve újratelepítését az (1) bekezdésben foglaltak szerint be kell jelenteni a telepítési hatósághoz.
 

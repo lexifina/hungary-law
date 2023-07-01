@@ -40,6 +40,8 @@ h) a talajvédelmi szakértői tevékenység folytatásának részletes feltéte
 
 i) a gyümölcs termőhelyi besoroláshoz szükséges szakértői tevékenység szabályait.
 
+j) a talajvédelmi hatósági és a talajtani adatbázis működtetésére, valamint az adatbázisba történő adatszolgáltatásra vonatkozó szabályokat.
+
 (3) Felhatalmazást kap a földügyért felelős miniszter, hogy
 
 a) a talajvédelmi hatósági eljárás igazgatási szolgáltatási díjainak mértékét az adópolitikáért felelős miniszterrel egyetértésben, valamint

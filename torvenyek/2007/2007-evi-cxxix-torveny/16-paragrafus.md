@@ -32,8 +32,8 @@ b) a tulajdonos, haszonélvezet fennállása esetén a haszonélvező a (9) beke
 
 c) az engedély nélkül létesített célkitermelőhely esetében nem áll rendelkezésre a cél-kitermelőhely létesítésének engedélyezésére vonatkozó véglegessé vált határozat.
 
-(11a) A (11) bekezdés szerinti 10 éves időtartam fennállásának igazolása az igénybe vevőt vagy a tulajdonost, haszonélvezet fennállása esetén a haszonélvezőt terheli.
+(11a)
 
-(11b) Az ingatlanügyi hatóság az eljárást megszünteti, ha a (11) bekezdés szerinti 10 éves időtartam eltelt és a más célú hasznosítás utólagos engedélyezésének nincs helye.
+(11b) Nincs helye a (11) bekezdés szerinti eredeti állapot helyreállításra kötelezésnek, ha a cselekménynek az ingatlanügyi hatóság tudomására jutásától számított 3 év eltelt. A határidő számításakor a jogorvoslati eljárás időtartamát figyelmen kívül kell hagyni.
 
 (12) Az igénybevevőnek a (8) bekezdésben meghatározott kérelme alapján a termőföld végleges más célú hasznosításának utólagos hozzájárulására akkor kerülhet sor, ha a más célú hasznosítás előzetes engedélyezésének a 11. §-ban és a 15/B. § (3) bekezdésben meghatározott feltételei – a 16/A. § (4) bekezdésben meghatározott eset kivételével – egyébként fennállnak.

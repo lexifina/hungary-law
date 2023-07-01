@@ -32,7 +32,7 @@ e) talajjavító mederanyag termőföldön történő felhasználása.
 
 (7) A (2) bekezdés a)–d) pontja szerinti bejelentéshez csatolni kell a földügyért felelős miniszter rendeletében meghatározott talajvédelmi tervet, a (2) bekezdés e) pontja szerinti bejelentéshez – ha jogszabály eltérően nem rendelkezik – csatolni kell az egyszerűsített talajvédelmi tervet, továbbá a (2) bekezdés b)–c) pontjában írt tevékenységhez kiviteli terv is szükséges.
 
-(8) Az (1) bekezdés a)–d) és a (2) bekezdés b)–c) pontjában írt tevékenység esetén, amennyiben az ügyfél az érintett termőföldnek
+(8) Az (1) bekezdés a)–d) és a (2) bekezdés b), c) és e) pontjában írt tevékenység esetén, amennyiben az ügyfél az érintett termőföldnek
 
 a) nem tulajdonosa, de földhasználója, úgy a tulajdonos,
 

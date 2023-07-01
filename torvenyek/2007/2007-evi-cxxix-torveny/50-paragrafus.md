@@ -15,3 +15,5 @@ e) öntözéshez,
 f) mezőgazdasági területek vízrendezéséhez,
 
 g) erózió elleni műszaki talajvédelem megvalósításához.
+
+h) a tisztított kommunális szennyvíz és a szennyvíziszap mezőgazdasági területen történő felhasználásához, valamint a szennyvizek és szennyvíziszapok mezőgazdasági felhasználásának és kezelésének szabályairól szóló kormányrendelet hatálya alá tartozó kommunális szennyvíztisztító telepeken keletkező, az (EU) 2020/741 európai parlamenti és tanácsi rendelet 3. cikk 4. pontja szerinti visszanyert víz mezőgazdasági öntözési célú felhasználásához.

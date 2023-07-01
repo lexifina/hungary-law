@@ -54,7 +54,7 @@
 
 24. kísérleti gyümölcsültetvény: az a gyümölcsültetvény, amely tudományos, kutatási vagy vizsgálati célokat szolgál;
 
-25. mederiszap: a vízfolyás vagy állóvíz medrében kiülepedő anyag, amely az eredetileg kiépített, illetve vízjogi engedélyben rögzített vízszállító képesség vagy víztározó térfogat visszaállítása céljából rendszeresen eltávolításra kerül;
+25. mederiszap: a vízfolyás vagy állóvíz medrében kiülepedő anyag, amely az eredetileg kiépített, illetve vízjogi engedélyben rögzített vízszállító képesség vagy víztározó térfogat visszaállítása, vagy a vízminőség javítása céljából rendszeresen eltávolításra kerül;
 
 26. talajjavító mederanyag: elsősorban termőföld bemosódásból keletkező, a talaj kedvezőtlen tulajdonságainak megváltoztatására, illetve a kedvező tulajdonságok fenntartására szolgáló, kezelés nélkül termőföldre kihelyezhető mederiszap;
 
