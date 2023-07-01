@@ -1,1 +1,0 @@
-Az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény 206. § d) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 119. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
