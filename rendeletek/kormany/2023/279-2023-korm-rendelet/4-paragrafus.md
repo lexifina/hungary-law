@@ -1,1 +1,3 @@
-4. § Az R1. 1. § (1) bekezdésében és 1/A. § (1) bekezdésében a „2023. június 30.” szövegrész helyébe a „2023. július 31.” szöveg lép.
+4. §[^4]
+
+[^4]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

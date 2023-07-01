@@ -1,3 +1,3 @@
-5. §[^2]
+5. §[^5]
 
-[^2]: Az 5. § a 10. § (2) bekezdés alapján 2023. augusztus 1-jén lép hatályba.
+[^5]: Az 5. § a 10. § (2) bekezdés alapján 2023. augusztus 1-jén lép hatályba.
