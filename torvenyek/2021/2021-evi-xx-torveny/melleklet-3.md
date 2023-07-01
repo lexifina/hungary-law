@@ -1139,3 +1139,23 @@ ZALAEGERSZEG
 |
 
 kivett beépített terület
+
+|
+
+57.
+
+|
+
+HERCEGHALOM
+
+|
+
+267/4
+
+|
+
+1/1
+
+|
+
+kivett major
