@@ -2,7 +2,7 @@
 
 ## A díjfizetési szabályok
 
-4. § (1)[^3] A díjfizetési kötelezettség az adatszolgáltatásra illetékes szerv pénztárába készpénzben történő befizetéssel vagy az általa megjelölt költségvetési elszámolási számla, előirányzat-felhasználási keretszámla (a továbbiakban együtt: bankszámla) javára történő átutalási megbízással, illetőleg készpénz-átutalási megbízással való megfizetéssel teljesíthető. A díjat a szolgáltatás teljesítésétől számított 15 napon belül kell megfizetni. A melléklet 6. pontja szerinti adatszolgáltatás díjának megfizetésére vonatkozó szabályokat a Magyar Országos Közjegyzői Kamara (a továbbiakban: országos kamara) és a nyilvántartást vezető szerv közötti együttműködési megállapodás rögzíti.
+4. § (1)[^4] A díjfizetési kötelezettség az adatszolgáltatásra illetékes szerv pénztárába készpénzben történő befizetéssel vagy az általa megjelölt költségvetési elszámolási számla, előirányzat-felhasználási keretszámla (a továbbiakban együtt: bankszámla) javára történő átutalási megbízással, illetőleg készpénz-átutalási megbízással való megfizetéssel teljesíthető. A díjat a szolgáltatás teljesítésétől számított 15 napon belül kell megfizetni.
 
 (2) A nem elektronikus úton kezdeményezett eljárás megindításával egyidejűleg az igazgatási szolgáltatási díj fizetésére vonatkozó kötelezettség bankkártyával is teljesíthető, amennyiben az ehhez szükséges műszaki feltételek rendelkezésre állnak.
 
@@ -20,10 +20,10 @@ d) az adatszolgáltatásban közölt személyi vagy lakcímadatok megegyeznek az
 
 (5) A díjat az adatszolgáltatás teljesítésére illetékes szerv bevételként, a költségvetési gazdálkodási rend szerint működő szervek részére előírt könyvvezetési és beszámolási kötelezettségekről szóló kormányrendeletben foglaltak szerint számolja el. A kormányrendelet előírásait kell alkalmazni a díjak elszámolása, kezelése, nyilvántartása, illetve visszatérítése esetén is.
 
-(6)[^4] Az elektronikus kapcsolattartás keretében teljesített adatszolgáltatásért fizetendő díj a díjtétel és – kivéve ahol e rendelet melléklete eltérően rendelkezik – a tételszám szorzata.
+(6)[^5] Az elektronikus kapcsolattartás keretében teljesített adatszolgáltatásért fizetendő díj a díjtétel és – kivéve ahol e rendelet melléklete eltérően rendelkezik – a tételszám szorzata.
 
-(7)[^5]
+(7)[^6]
 
-[^3]: A 4. § (1) bekezdése a 84/2009. (XII. 30.) IRM–MeHVM együttes rendelet 2. §-ával megállapított, a 22/2020. (VII. 9.) BM rendelet 1. § a) pontja szerint módosított szöveg.
-[^4]: A 4. § (6) bekezdése a 84/2009. (XII. 30.) IRM–MeHVM együttes rendelet 3. §-ával megállapított szöveg.
-[^5]: A 4. § (7) bekezdését a 45/2009. (IX. 25.) IRM–MeHVM együttes rendelet 1. §-a iktatta be, hatályon kívül helyezte a 22/2020. (VII. 9.) BM rendelet 1. § b) pontja.
+[^4]: A 4. § (1) bekezdése a 84/2009. (XII. 30.) IRM–MeHVM együttes rendelet 2. §-ával megállapított, a 22/2020. (VII. 9.) BM rendelet 1. § a) pontja, a 24/2023. (VI. 30.) BM rendelet 15. § b) pontja szerint módosított szöveg.
+[^5]: A 4. § (6) bekezdése a 84/2009. (XII. 30.) IRM–MeHVM együttes rendelet 3. §-ával megállapított szöveg.
+[^6]: A 4. § (7) bekezdését a 45/2009. (IX. 25.) IRM–MeHVM együttes rendelet 1. §-a iktatta be, hatályon kívül helyezte a 22/2020. (VII. 9.) BM rendelet 1. § b) pontja.
