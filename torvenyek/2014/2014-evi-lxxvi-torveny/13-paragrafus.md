@@ -1,6 +1,6 @@
 13. § (1) Az NKFI Alap terhére visszatérítendő és vissza nem térítendő közfinanszírozású támogatás
 
-a) pályázat útján;
+a) pályázat vagy kiemelt felhívás (a továbbiakban együtt: pályázat) útján;
 
 b) a (3) bekezdés szerinti egyedi támogatási kérelem alapján;
 

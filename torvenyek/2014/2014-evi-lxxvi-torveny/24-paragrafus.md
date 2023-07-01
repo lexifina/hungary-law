@@ -16,7 +16,7 @@ f) a kutatás-fejlesztés infrastrukturális feltételeinek biztosítására és
 
 g) a kutatáshoz szükséges szellemi termékekre, adatbázisokra, tartalmak beszerzésére, licencdíjra, felhasználási vagy hozzáférési költségre,
 
-h) a kutatás-fejlesztéshez szükséges emberi erőforrás biztosítására, a meglévő profilok fejlesztésére, kutató-fejlesztői utánpótlás és képzés, tehetséggondozás, a kutató-fejlesztői, oktatói továbbképzés támogatására, a kutatók hazai és nemzetközi mobilitásának, tapasztalatcseréjének, valamint az elismert hazatérő kutatók magyarországi szakmai beilleszkedésének támogatására,
+h) a kutatás-fejlesztéshez szükséges emberi erőforrás biztosítására, a meglévő profilok fejlesztésére, kutató-fejlesztői utánpótlás és képzés, tehetséggondozás, az élő és élettelen természettudomány területén történő pályaorientáció a kutató-fejlesztői, oktatói továbbképzés támogatására, a kutatók hazai és nemzetközi mobilitásának, tapasztalatcseréjének, valamint az elismert hazatérő kutatók magyarországi szakmai beilleszkedésének támogatására,
 
 i) a kutatás-fejlesztés területén nemzetközileg is elismert szervezetek, vállalkozások Magyarországra vonzására,
 

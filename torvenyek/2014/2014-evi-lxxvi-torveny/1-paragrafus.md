@@ -15,3 +15,5 @@ b) az Európai Unión belüli és más nemzetközi együttműködés keretében 
 ba) külföldön végzett, az (1) bekezdésben meghatározott tevékenységek Magyarország területén történő elszámolására,
 
 bb) külföldön nyújtott, az (1) bekezdés szerinti szolgáltatások Magyarország területén történő elszámolására.
+
+c) a szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvény 1. § (1) bekezdése szerinti államok magyar nyelvű képzést biztosító felsőoktatási intézményeihez kapcsolódó kutatási és innovációs tevékenység támogatására.

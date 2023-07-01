@@ -8,6 +8,6 @@ c) a 12/A. alcím szerint nyújtott támogatások esetén a kutatás és a kís�
 
 d) a kutatás-fejlesztési infrastruktúrák értékelési szempontjait – erre vonatkozó fogalmi rendszer és értékelési módszertan alapján – a Kormány által kijelölt szerv által koordinált értékelő testület határozza meg.
 
-(2) A programértékelés költségeit az adott program forrásából kell elkülöníteni.
+(2) A programértékelés költségeit a programok forrásából kell elkülöníteni.
 
 (3) A programértékelés eredményét nyilvánosságra kell hozni.

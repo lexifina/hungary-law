@@ -2,21 +2,29 @@
 
 42/C. § (1) Az ELKH Titkárság fő döntéshozó szerve az irányító testület (a továbbiakban: Irányító Testület).
 
-(2) Az Irányító Testület tizenhárom főből áll, az elnökön felüli tagjai közül hat főt a tudománypolitika koordinációjáért felelős miniszter, hat főt az MTA elnöke javasol azzal, hogy az Irányító Testület tagjainak legalább kétharmada a tudomány művelői közül kerüljön kiválasztásra. Az Irányító Testület tagjait a miniszterelnök nevezi ki. Az Irányító Testület tagjai tiszteletdíjra jogosultak.
+(2) Az Irányító Testület kilenc főből áll.
+
+(2a) Az Irányító Testület és az ELKH Titkárság vezetője az elnök (a továbbiakban: elnök), akit az MTA elnöke és a tudománypolitika koordinációjáért felelős miniszter közös javaslatára a miniszterelnök nevez ki és vonja vissza kinevezését. Az Irányító Testület elnöke az „Eötvös Loránd Kutatási Hálózat elnöke” cím használatára jogosult.
+
+(2b) Az Irányító Testület elnökön felüli nyolc tagjának kinevezésére a tudománypolitika koordinációjáért felelős miniszter az MTA elnökével közösen és az ELKH elnökének egyetértésével tesz javaslatot, azzal, hogy az Irányító Testület tagjainak legalább kétharmada a tudomány művelői közül kerül kiválasztásra.
+
+(2c) A javaslattétel során figyelemmel kell lenni arra, hogy a (2b) bekezdés szerinti nyolc főből legalább két fő a 42/A. § szerinti kutatóközpontok és kutatóintézetek vezetői vagy munkavállalói közül kerüljön kiválasztásra.
+
+(2d) Az Irányító Testület tagjait a tudománypolitika koordinációjáért felelős miniszter nevezi ki és vonja vissza kinevezésüket. Az Irányító Testület tagjai tiszteletdíjra jogosultak.
 
 (3) Az Irányító Testület
 
-1. meghatározza a főtitkári és a főtitkárhelyettesi munkakör betöltését szolgáló nyilvános pályázati felhívás tartalmát; a nyilvános pályázati eljárás eredményére tekintettel megválasztja a főtitkárt és a főtitkárhelyettest;
+1.
 
 2. elfogadja az ELKH működésével kapcsolatos stratégiai elveket;
 
 3. dönt a kutatóhelyek megalapításáról, átszervezéséről, megszüntetéséről;
 
-4. jóváhagyja a kutatóhelyek céljait, feladatait, kiadja alapító okiratukat;
+4. jóváhagyja a kutatóhelyek céljait, feladatait, elfogadja alapító okiratukat;
 
 5. meghatározza a kutatóhelyek vezetői munkaköre betöltését szolgáló nyilvános pályázati felhívás tartalmát és megválasztja a kutatóhelyek vezetőit;
 
-6. dönt az ELKH Titkárság, valamint a kutatóhelyek szervezeti és működési szabályairól, az ELKH Titkárság szabályzatairól;
+6. dönt az ELKH Titkárság, valamint a kutatóhelyek szervezeti és működési szabályairól;
 
 7. elfogadja az ELKH vagyongazdálkodásával kapcsolatos szabályokat;
 
@@ -30,7 +38,7 @@
 
 12. jóváhagyja az ELKH Titkárság és a kutatóhelyek előző évről szóló éves költségvetési beszámolóját;
 
-13. megvitatja az Országgyűlés és a Kormány számára készülő elnöki beszámolók koncepcióját;
+13. megvitatja az Országgyűlés és a Kormány számára készülő elnöki beszámolót;
 
 14. az Alaptörvény X. cikk (2) bekezdését nem sértve véleményt nyilvánít a hazai tudomány és a társadalom koncepcionális kérdéseiről;
 

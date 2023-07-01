@@ -12,4 +12,4 @@
 
 (6) A Kormány ELKH-val és az ELKH Titkársággal kapcsolatos feladata a kutatás-fejlesztés és innováció közfinanszírozású támogatásához való hozzáférés elősegítése, a rendelkezésre álló többletforrások, az egységes szerkezetű finanszírozás hatékony felhasználási feltételeinek a biztosítása.
 
-(7) Az ELKH Titkárság feladatkörében véleményt nyilvánít a közfeladatához kapcsolódó kormányzati stratégiai tervdokumentumokról és véleményezési jogot gyakorol a közfeladatát érintő jogszabályok megalkotása és módosítása során.
+(7) Az ELKH Titkárság feladatkörében véleményt nyilvánít a közfeladatához kapcsolódó kormányzati stratégiai tervdokumentumokról és véleményezési jogot gyakorol a közfeladatát, valamint a kutatóhelyeket érintő jogszabályok megalkotása és módosítása során.
