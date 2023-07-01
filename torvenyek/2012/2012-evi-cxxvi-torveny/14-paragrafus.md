@@ -72,4 +72,4 @@ b) etikai intézkedésként a külön jogszabályban meghatározottak szerint te
 
 (8) A mezőgazdasági őstermelők és őstermelők családi gazdasága, valamint családi mezőgazdasági társaságok nyilvántartásával kapcsolatos hatósági feladatokat az agrárkamara látja el. Az agrárkamara jogosult ezen feladatával összefüggésben tudomására jutott adatok kezelésére, valamint azoknak a tagjegyzékbe, illetve a gazdaságszerkezeti nyilvántartásba történő átvételére és ezen nyilvántartásokban való kezelésére, továbbá az őstermelői nyilvántartásba vétel iránti kérelem előállításához a jogszabályban meghatározott őstermelői nyilvántartásban szereplő ügyféladatok és az ügyfélhez kapcsolódó igazolványadatok lekérdezésére.
 
-(9) Az agrárkamara a kamarai meghatalmazás alapján technikai közreműködőként jogosult képviselni a meghatalmazót az agrártámogatások igénybevételével összefüggő elektronikus ügyintézésben, ezzel kapcsolatban az agrárkamara létrehozza és üzemelteti a kamarai meghatalmazások nyilvántartását.
+(9)
