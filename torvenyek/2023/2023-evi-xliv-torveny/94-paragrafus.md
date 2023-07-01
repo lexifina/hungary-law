@@ -1,0 +1,5 @@
+## „b) szankció kiszabása mellett, határidő kitűzésével határozatban kötelezi az igénybevevőt – ha az igénybevevő nem ismert vagy az igénybevevővel szemben a végrehajtási eljárás sem vezet eredményre, akkor az erdőgazdálkodót, annak hiányában a tulajdonost – a helyreállításra.”
+
+94. § Az Evt. 90/A. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) Az illegális kitermelések megakadályozása, illetve a faanyag kereskedelmi láncban levő fatermék nyomon követhetőségének és – a szükséges esetekben – forgalomból történő visszahívhatósága érdekében a faanyag kereskedelmi lánc valamennyi szereplőjének az e törvény végrehajtására kiadott rendeletben, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusaiban meghatározott, eljárások, nyilvántartások, valamint az azokat alátámasztó, egymásnak egyértelműen megfeleltethető származást igazoló dokumentumok zárt rendszerét (kellő gondosság elvén alapuló nyomon követhetőségi eljárás) kell létrehoznia vagy igénybe vennie és ahhoz kapcsolódóan naprakész dokumentációs rendszert kell működtetnie.”

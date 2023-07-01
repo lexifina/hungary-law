@@ -1,0 +1,5 @@
+## „i) halgazdálkodási vízterületről kifogott és más halgazdálkodási vízterületre vagy haltermelési létesítménybe jogosulatlanul áttelepített hal eredeti élőhelyére történő visszahelyezésének elrendelése.”
+
+151. § A Hhtv. 66. §-a a következő (4a) bekezdéssel egészül ki:
+
+„(4a) A halgazdálkodási hatóság halgazdálkodási bírságot szab ki arra a természetes vagy jogi személyre, aki vagy amely halgazdálkodási vízterületről kifogott halat – a 8. § (1) és (2) bekezdése szerint történő állománymentés és a mesterséges körülmények közötti szaporítási célból fogott halak halgazdálkodási hatóság engedélyével végzett telepítésének, valamint a horgászati célú haltermelés keretében a horgászathoz szükséges halállomány biztosításának, továbbá a 13. § (2) bekezdése szerint a halgazdálkodási vízterületről kifogott nem őshonos halak haltermelési létesítménybe halhústermelési vagy takarmányozási célból végzett telepítésének kivételével – más halgazdálkodási vízterületre, illetve haltermelési létesítménybe telepít.”

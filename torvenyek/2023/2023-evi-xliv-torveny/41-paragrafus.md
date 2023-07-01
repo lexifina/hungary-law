@@ -1,0 +1,1 @@
+41. § A Kertv. 6/I. § (4) bekezdésében az „élelmiszerlánc-felügyeletért felelős miniszter, az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró vármegyei kormányhivatal, valamint járási hivatal” szövegrész helyébe az „élelmiszerlánc-felügyeleti szerv” szöveg lép.
