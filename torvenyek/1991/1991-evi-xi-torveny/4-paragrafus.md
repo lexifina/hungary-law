@@ -66,7 +66,7 @@ bb) a ba) alpont szerinti feladatokkal összefüggésben táplálkozás-egészs�
 
 bc) a ba) és a bb) alpont szerinti területeken közreműködik a táplálkozás-egészségügyi előírások kidolgozásában,
 
-bd) a ba)–bc), be) alpont szerinti feladatok végrehajtásával összefüggő eredményekről tájékoztatja az élelmiszerlánc-biztonsági tudományos szervet;
+bd) a ba)–bc), be) alpont szerinti feladatok végrehajtásával összefüggő eredményekről tájékoztatja az élelmiszerlánc-felügyeleti szervet;
 
 be) a bb) alpont szerinti területeken táplálkozás-egészségügyi minősítést végez.
 
