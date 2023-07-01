@@ -8,7 +8,7 @@
 
 (4) A külsőköltség-díjat a közúti közlekedésnek tulajdonítható levegőszennyezés és zajártalom költségének megtérítése érdekében lehet kivetni. A külsőköltség-díj összegét differenciáltan és a (2) bekezdésben meghatározott minimumkövetelményeknek megfelelően kell megállapítani és a díj összege nem haladhatja meg a 3. mellékletben meghatározott maximális értéket.
 
-(5)[^4]
+(5)[^4] A 3. melléklet szerint megállapított infrastruktúra- és külsőköltségdíj mértéke a tárgyévet megelőző év július hónapjára irányadó, a Központi Statisztikai Hivatal által közzétett, a tárgyév júliusához viszonyított fogyasztói árindex emelkedése esetén, az emelkedéssel megegyező mértékben, a tárgyév október 1. napjával, két tizedesjegy pontossággal meghatározottan módosul. Az infrastruktúra- és külsőköltségdíj korrigált mértékének első alkalommal történő megállapítását követő tárgyévekben az infrastruktúra- és külsőköltségdíj alapmértéke a tárgyévet megelőző évben megállapított díj mértéke.
 
 [^3]: A 3. § (1) bekezdése a 466/2020. (X. 27.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^4]: A 3. § (5) bekezdését a 466/2020. (X. 27.) Korm. rendelet 1. § (2) bekezdése iktatta be, a 361/2022. (IX. 19.) Korm. rendelet 3. § a) pontja hatályon kívül helyezte.
+[^4]: A 3. § (5) bekezdését újonnan a 361/2022. (IX. 19.) Korm. rendelet 1. § (1) bekezdése iktatta be.
