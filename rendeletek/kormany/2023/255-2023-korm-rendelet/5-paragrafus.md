@@ -1,3 +1,5 @@
-5. §[^2]
+5. § Nem kell alkalmazni a Turizmus törvény
 
-[^2]: Az 5. § a 6. § (2) bekezdés alapján 2023. július 1-jén lép hatályba.
+a) 9/B. § (3) bekezdését,
+
+b) 9/G. § (5)–(7) bekezdését.
