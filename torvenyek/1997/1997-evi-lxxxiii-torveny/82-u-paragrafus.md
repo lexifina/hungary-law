@@ -1,0 +1,1 @@
+82/U. § A 79/B. § (4)–(8) bekezdése szerinti adatszolgáltatást a kifizetőhellyel rendelkező foglalkoztató első alkalommal – a 2023. július hónapban folyósított ellátásokra vonatkozóan – 2023. augusztus 20. napjáig köteles teljesíteni.

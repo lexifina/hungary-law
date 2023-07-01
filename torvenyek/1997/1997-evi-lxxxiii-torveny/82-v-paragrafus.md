@@ -1,0 +1,1 @@
+82/V. § Az egyes törvények bürokráciacsökkentéssel és jogharmonizációval összefüggő módosításáról szóló 2022. évi LXXV. törvény által megállapított 39/A. § (1) bekezdését, 42/E. § (5) és (6) bekezdését, 61. § (5)–(5b) bekezdését és 62. § (1b)–(1c), (4) bekezdését a 2023. június 30-át követően benyújtott kérelmek elbírálása során kell alkalmazni.

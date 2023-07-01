@@ -2,9 +2,9 @@
 
 (2) Nem jár táppénz
 
-a) a keresőképtelenségnek arra az időtartamára, amely alatt a biztosítás szünetel, munkavégzési kötelezettség hiányában keresetveszteség nincs, továbbá a betegszabadság lejártát követő szabadnapra és heti pihenőnapra, ha az azt követő munkanapon (munkaszüneti napon) a keresőképtelenség már nem áll fenn,
+a) a betegszabadság lejártát követő szabadnapra , heti pihenőnapra és munkaszüneti napra, ha az ezen napokat követő első munkanapon a keresőképtelenség már nem áll fenn,
 
-b) a keresőképtelenségnek arra a tartamára, amelyre a biztosított a teljes keresetét megkapja, illetve, ha a keresetét részben kapja meg, a részben megkapott kereset után,
+b) a táppénzre való jogosultság első napjának azon részére, amely alatt a biztosított keresőtevékenységet folytatott,
 
 c) a gyermekgondozást segítő ellátás folyósításának az idejére, ide nem értve a segély mellett végzett munka alapján járó táppénzt,
 

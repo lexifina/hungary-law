@@ -16,7 +16,7 @@ af) a gyermek születésének napján rendelkezik magyarországi bejelentett lak
 
 b) akinek
 
-ba) gyermeke az a) pont alapján megállapított gyermekgondozási díj igénybevétele alatt, vagy annak megszűnését követő egy éven belül születik, és
+ba) gyermeke az e bekezdés alapján megállapított gyermekgondozási díj igénybevétele alatt, vagy annak megszűnését követő egy éven belül születik, és
 
 bb) tekintetében az a) pont aa) és ad)–af) alpontjában meghatározottak fennállnak.
 
@@ -32,15 +32,15 @@ b) az (1) bekezdés a) pont ab)–af) alpontjában vagy b) pont bb) alpontjában
 
 (4a) A gyermek születését követő 169. napot megelőzően nem jár gyermekgondozási díj az (1) és (3) bekezdés alapján jogosult részére arra az időszakra, amikor bármilyen jogviszonyban – ide nem értve a nevelőszülői foglalkoztatási jogviszonyban végzett tevékenységet – keresőtevékenységet folytat.
 
-(5) Az (1), illetve a (3) bekezdés alapján megállapított gyermekgondozási díj havi összege
+(5) Az (1), illetve a (3) bekezdés alapján megállapított gyermekgondozási díj naptári napi összege
 
 a) a felsőfokú alapképzésben, felsőfokú szakképzésben vagy felsőoktatási szakképzésben, valamint a szakirányú továbbképzésben részt vevő hallgató esetén a jogosultság kezdő napján érvényes minimálbér,
 
 b) a mesterképzésben, egységes, osztatlan képzésben vagy doktori képzésben részt vevő hallgató esetén a jogosultság kezdő napján érvényes garantált bérminimum
 
-70 százaléka.
+70 százalékának harmincad része.
 
-(6) Ha az (1), illetve a (3) bekezdés alapján gyermekgondozási díjra jogosult személy a gyermek születésének napján biztosított és a számítási időszakban rendelkezik legalább 120 naptári napi jövedelemmel, az ellátás összegét a 48. § (1) és (2) bekezdése alapján kell kiszámítani azzal, hogy az ellátás összege nem lehet kevesebb az (5) bekezdés a), illetve b) pontjában meghatározott összegnél, valamint nem lehet magasabb havonta a minimálbér kétszeresének 70 százalékánál.
+(6) Ha az (1), illetve a (3) bekezdés alapján gyermekgondozási díjra jogosult személy a gyermek születésének napján biztosított és a számítási időszakban rendelkezik legalább 120 naptári napi jövedelemmel, az ellátás összegét a 48. § (1) és (2) bekezdése alapján kell kiszámítani azzal, hogy az ellátás összege nem lehet kevesebb az (5) bekezdés a), illetve b) pontjában meghatározott összegnél, valamint nem lehet magasabb minimálbér kétszerese 70 százalékának harmincad részénél.
 
 (7) Ha az (1), illetve a (3) bekezdés alapján gyermekgondozási díjra jogosult biztosított a számítási időszakban nem rendelkezik legalább 120 naptári napi jövedelemmel, az ellátás naptári napi alapját a jogosultság kezdő napján érvényes minimálbér kétszeresének harmincad része alapján kell megállapítani azzal, hogy ha a biztosított naptári napi jövedelme a minimálbér kétszeresének harmincad részét nem éri el, a gyermekgondozási díj összegének megállapításánál a biztosított tényleges jövedelmét kell figyelembe venni. Tényleges jövedelem hiányában a szerződés szerinti jövedelmet kell figyelembe venni. Az így megállapított gyermekgondozási díj összege nem lehet alacsonyabb az (5) bekezdésben meghatározott összegnél.
 
