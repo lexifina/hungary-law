@@ -1,3 +1,3 @@
-## 13. §[^34]
+14. §[^35]
 
-[^34]: A 13. §-t a 225/2010. (VIII. 12.) Korm. rendelet 10. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^35]: A 14. §-t a 254/2013. (VII. 5.) Korm. rendelet 45. § a) pontja hatályon kívül helyezte.

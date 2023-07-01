@@ -1,5 +1,3 @@
-## 7. §[^19]
-
 8. § (1)[^20] A NEAK a 6. § (5) bekezdése szerinti értékelést és pontozást követő tizenöt napon belül dönt az előzetes befogadásról.
 
 (2)[^21] A finanszírozásba való befogadásra az a technológia alkalmas, amely az R2.-ben meghatározott szakmai szempontpontrendszer alapján adható maximális pontszám 60 százalékát és a szakmai szempontrendszer kategóriáin belül az egyes kategóriákként adható pontszám 40 százalékát elérte.
@@ -22,7 +20,6 @@ b) a finanszírozás volumenére és
 
 c) az előzetesen befogadott technológia által kiváltott technológiák finanszírozásból való törlésére.
 
-[^19]: A 7. §-t a 254/2013. (VII. 5.) Korm. rendelet 45. § a) pontja hatályon kívül helyezte.
 [^20]: A 8. § (1) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (151) bekezdése, a 254/2013. (VII. 5.) Korm. rendelet 45. § b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 159. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^21]: A 8. § (2) bekezdése a 254/2013. (VII. 5.) Korm. rendelet 44. § b) pontja szerint módosított szöveg.
 [^22]: A 8. § (3) bekezdés c) pontja a 254/2013. (VII. 5.) Korm. rendelet 44. § b) pontja szerint módosított szöveg.

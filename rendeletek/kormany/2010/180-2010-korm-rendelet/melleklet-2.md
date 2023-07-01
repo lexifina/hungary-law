@@ -1,6 +1,6 @@
 2. melléklet a 180/2010. (V. 13.) Korm. rendelethez
 
-## Az egészségügyi szakmai kollégium, illetve annak tagozata értékelési kérdőívének adattartalma[^38]
+Az egészségügyi szakmai kollégium, illetve annak tagozata értékelési kérdőívének adattartalma[^38]
 
 1. A technológia értékelése
 

@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-180-20-
 | 2017-01-02 | 2010-180-20-22.12 | 464/2016. (XII. 23.) Korm. rendelet |
 | 2018-01-01 | 2010-180-20-22.13 | 254/2013. (VII. 5.) Korm. rendelet |
 | 2021-05-26 | 2010-180-20-22.14 | 164/2020. (IV. 30.) Korm. rendelet |
+| 2023-07-01 | 2010-180-20-22.15 | 286/2023. (VI. 30.) Korm. rendelet |
