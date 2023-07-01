@@ -1,13 +1,3 @@
 ## 10. Az egyes vagyongazdálkodást érintő rendelkezésekről, valamint egyes vagyongazdálkodási és pénzügyi tárgyú törvények módosításáról szóló 2020. évi CLXXIII. törvény módosítása
 
-41. § Az egyes vagyongazdálkodást érintő rendelkezésekről, valamint egyes vagyongazdálkodási és pénzügyi tárgyú törvények módosításáról szóló 2020. évi CLXXIII. törvény (a továbbiakban: 2020. évi CLXXIII. törvény) 1. alcíme a következő 1/A. §-sal egészül ki:
-
-„1/A. § (1) Az állami tulajdonban álló Pomáz, külterület, 0311/1 helyrajzi számú ingatlant (e § alkalmazásában a továbbiakban: ingatlan) „kivett kórház, udvar” megnevezésű ingatlanként kell az ingatlan-nyilvántartásban rögzíteni. A művelés alól kivett terület elnevezés változásának átvezetésére irányuló eljárást a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság (a továbbiakban: MNV Zrt.) kérelmére az ingatlanügyi hatóságként eljáró Pest Vármegyei Kormányhivatal folytatja le. A művelés alól kivett terület megnevezésváltozásának ingatlan-nyilvántartási átvezetésére irányuló kérelemben kizárólag e törvénynek a művelés alól kivett terület megnevezése szerinti hivatkozását, valamint az ingatlan helyrajzi számát tartalmazó rendelkezésre kell hivatkozni. Az ingatlanügyi hatóság további dokumentum benyújtását, díj fizetését nem írhatja elő. Az ingatlanügyi hatóság ügyintézési határideje 15 nap.
-
-(2) Az (1) bekezdés szerinti eljárásban hozott döntés véglegessé válását követően az állami tulajdonban álló Pomáz, külterület, 0311/1, 0311/3 és 0311/4 helyrajzi számú ingatlanokat (a továbbiakban együtt: ingatlanok) és a rendeltetésszerű használathoz szükséges, az ingatlanokban található ingóságok az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján ingyenesen a Máltai Szeretetszolgálat tulajdonába kell adni, a Máltai Szeretetszolgálat által átvállalt állami közfeladatok, közhasznú szociális és egészségügyi feladatai ellátásának elősegítése érdekében.
-
-(3) A (2) bekezdés szerinti tulajdonátruházás feltétele, hogy a Máltai Szeretetszolgálat az ingatlanokat terhelő kötelezettségeket a (4) bekezdés szerinti szerződés alapján teljeskörűen átvállalja.
-
-(4) A (2) bekezdés szerinti tulajdonátruházás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében az MNV Zrt. készíti elő és köti meg. A szerződésben az Ingatlanok forgalmi értékeként az MNV Zrt. által megállapított forgalmi értéket kell megjelölni. A szerződésben rögzíteni kell, hogy az Ingatlanok használata során a Szeretetszolgálat kötelezettsége a környezet- és természetvédelmi szempontok figyelembevétele, különösen a biológiai sokféleség védelme, fenntartása és a jövő nemzedékek számára való megőrzése.
-
-(5) A (2) bekezdés alapján történő vagyonjuttatást úgy kell tekinteni, hogy az az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 17. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.”
+### 41. §

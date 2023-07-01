@@ -1,1 +1,1 @@
-14. § A Bt. 33. § (1) bekezdésében a „kiegészíteni.” szövegrész helyébe a „kiegészíteni, valamint a bányabiztonsági szabályzatokban meghatározott határidőben a bányafelügyeletnek megküldeni.” szöveg lép.
+### 14. §
