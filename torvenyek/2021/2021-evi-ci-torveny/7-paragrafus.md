@@ -1,1 +1,1 @@
-7. § Az Országgyűlés e törvény hatálybalépésével egyidejűleg lemond az államnak az OMSZI-val szemben, az OMSZI jogcím nélküli használatában álló, a 3. melléklet 7–10. pontjában megjelölt állami vagyonra vonatkozó, a tulajdonosi joggyakorló által kezelt nettó 817.651.380 forint összegű használati díj követeléséről azzal, hogy az OMSZI vállalja, hogy a jogcím nélküli használat időtartama alatt az állami ingatlanokon saját forrásból megvalósított beruházás, valamint egyéb felmerült költségek tekintetében megtérítést nem érvényesít az állammal szemben.
+### 7. §
