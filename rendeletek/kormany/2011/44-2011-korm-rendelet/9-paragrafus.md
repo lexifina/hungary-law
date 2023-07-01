@@ -1,6 +1,8 @@
 ## 6. Ellátási megállapodás
 
-## 9. §[^31] A Központi Ellátó Szerv és a Kedvezményezett között létrejött ellátási megállapodás tartalmazza különösen
+9. §[^40] (1) A Központi Ellátó Szerv és a Kedvezményezett között létrejött ellátási megállapodás tárgya a Kedvezményezett uniós közbeszerzési értékhatárokat elérő vagy meghaladó ellátási igényéhez kapcsolódó közbeszerzésnek a Központi Ellátó Szerv általi, a Kedvezményezett nevében és javára történő lefolytatása.
+
+(2) A Központi Ellátó Szerv és a Kedvezményezett között létrejött ellátási megállapodás tartalmazza különösen
 
 a) a felek azonosító adatait,
 
@@ -20,4 +22,4 @@ h) a Kedvezményezett által kiállított fedezetigazolást,
 
 i) a közbeszerzési eljárás lefolytatása érdekében a bíráló bizottságba delegált közbeszerzés tárgya szerinti szakértelemmel rendelkező tag megnevezését, és a delegált tag nyilatkozatát arról, hogy a delegálást elfogadja, és a bíráló bizottság munkájában a közbeszerzési eljárás során részt vesz.
 
-[^31]: A 9. § a 76/2020. (III. 31.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^40]: A 9. § a 280/2023. (VI. 29.) Korm. rendelet 29. §-ával megállapított szöveg.

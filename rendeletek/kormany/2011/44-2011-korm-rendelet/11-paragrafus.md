@@ -1,11 +1,21 @@
 ## 7. Kapcsolat a központosított közbeszerzési rendszerrel
 
-11. § (1) A Kedvezményezett köteles a központosított közbeszerzés hatálya alá tartozó kiemelt termékekre és szolgáltatásokra vonatkozó és a fogvatartottak kötelező foglalkoztatása keretében előállított termékek és szolgáltatások körébe is tartozó igényeivel a Központi Ellátó Szervhez ajánlatért fordulni.
+11. §[^42] (1) A Kedvezményezett köteles
 
-(2) A kiemelt termékek és szolgáltatások tekintetében a Kedvezményezett a központosított közbeszerzési rendszerben támasztott minőségi és egyéb feltételeknél magasabb követelményeket nem támaszthat.
+a) a központosított közbeszerzési rendszerről, valamint a központi beszerző szervezet feladat- és hatásköréről szóló 168/2004. (V. 25.) Korm. rendelet [a továbbiakban: 168/2004. (V. 25.) Korm. rendelet] szerinti központosított közbeszerzés hatálya alá tartozó termékekre és szolgáltatásokra vonatkozó, valamint
 
-(3) Amennyiben a Központi Ellátó Szerv e rendelet szabályai szerint képes a kiemelt termékekre és szolgáltatásokra vonatkozó ellátási igényt – a központosított közbeszerzési rendszerről, valamint a központi beszerző szervezet feladat- és hatásköréről szóló 168/2004. (V. 25.) Korm. rendelet (a továbbiakban: Korm. rendelet) 7. § (1) bekezdés d) pontjában leírt feltételnek megfelelően – teljesíteni, akkor ellátási kötelezettségét a kiemelt termékek és szolgáltatások tekintetében is a 6. §-ban és a 7. §-ban meghatározott eljárásrend szerint teljesíti. Ha a Központi Ellátó Szerv a kiemelt termékek vagy szolgáltatások vonatkozásában nem tesz ajánlatot, arról köteles a Kedvezményezettet 30 napon belül értesíteni.
+b) a fogvatartottak kötelező foglalkoztatása keretében előállított termékek és szolgáltatások körébe
 
-(4) A Központi Ellátó Szerv a Korm. rendelet 7. § (1) bekezdés b) pontjában meghatározott esetben ellátási kötelezettségét a kiemelt termékek és szolgáltatások tekintetében is a 6. §-ban és a 7. §-ban meghatározott eljárásrend szerint teljesíti.
+egyaránt tartozó igényeivel (a továbbiakban együtt: kiemelt termékek) a Központi Ellátó Szervhez ajánlatért fordulni.
 
-(5) A 6. § (4) bekezdésében foglaltak a kiemelt termékek és szolgáltatások vonatkozásában nem alkalmazhatóak.
+(2) A kiemelt termékek tekintetében a Kedvezményezett a központosított közbeszerzési rendszerben támasztott minimális műszaki tartalomnál és paramétereknél, valamint teljesítési határidőnél és ajánlati kötöttségnél magasabb követelményeket nem támaszthat.
+
+(3) Ha a Központi Ellátó Szerv e rendelet szabályai szerint képes a kiemelt termékekre vonatkozó ellátási igényt – a 168/2004. (V. 25.) Korm. rendelet 7. § (1) bekezdés d) pontjában leírt feltételnek megfelelően – teljesíteni, vagy a központi beszerző szervezet nem rendelkezik a kiemelt termékbeszerzés vonatkozásában hatályos keretszerződéssel, keretmegállapodással vagy dinamikus beszerzési rendszerrel, akkor az e rendelet szerinti ellátási kötelezettség a kiemelt termékek tekintetében a központosított közbeszerzési rendszerhez képest elsőbbséget élvez, és a Központi Ellátó Szerv
+
+a) az uniós közbeszerzési értékhatár alatti ellátási kötelezettségét a 2. és 3. alcímben foglaltak szerint teljesíti,
+
+b) az uniós közbeszerzési értékhatárt elérő vagy meghaladó ellátási kötelezettségét a 4. alcímben foglaltak szerint teljesíti azzal, hogy a 6. § (4) bekezdése a kiemelt termék vonatkozásában nem alkalmazható.
+
+(4) A (3) bekezdés szerinti esetben a Kedvezményezett – a 3. § (5) bekezdésétől, valamint a 6. § (7) bekezdésétől eltérően – akkor jogosult a Központi Ellátó Szerv ajánlatát elutasítani, ha a Központi Ellátó Szerv által meghatározott ellenértéknél kedvezőbb ellenértéken tudja a kiemelt termékeket a központosított közbeszerzési rendszerben beszerezni.
+
+[^42]: A 11. § a 280/2023. (VI. 29.) Korm. rendelet 30. §-ával megállapított szöveg.
