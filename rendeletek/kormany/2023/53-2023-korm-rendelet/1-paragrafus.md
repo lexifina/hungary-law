@@ -1,0 +1,1 @@
+1. § A hallgatói hitelrendszerről szóló 1/2012. (I. 20.) Korm. rendelet módosításáról szóló 435/2022. (XI. 2.) Korm. rendelet 1–3. §-ában a „négyévente lefolytatott közbeszerzési eljárás keretében” szövegrész helyett a „lefolytatott nyílt pályázati eljárás keretében” szöveggel lép hatályba.
