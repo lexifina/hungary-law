@@ -72,7 +72,7 @@ SZEGED II. KERÜLET
 
 |
 
-01392/16
+01392/33
 
 |
 
@@ -133,6 +133,26 @@ SZEGED II. KERÜLET
 |
 
 01392/21
+
+|
+
+1/1
+
+|
+
+kivett közforgalom számára megnyitott magánút
+
+|
+
+7
+
+|
+
+SZEGED II. KERÜLET
+
+|
+
+01392/34
 
 |
 

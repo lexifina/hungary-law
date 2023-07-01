@@ -1,0 +1,1 @@
+6/A. § A KEKVA tv. 12. § (7) bekezdésére tekintettel, az Alapítvány KEKVA tv. 1. mellékletében meghatározott közfeladata ellátása érdekében a Csongrád-Csanád Megyei Mellkasi Betegségek Szakkórháza és a Csongrád-Csanád Megyei Dr. Bugyi István Kórház (a továbbiakban együtt: Kórház) fenntartói jogát az Egyetem tulajdonába kell adni.
