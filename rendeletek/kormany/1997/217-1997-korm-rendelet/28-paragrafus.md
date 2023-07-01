@@ -1,4 +1,4 @@
-28. § (1)[^470] A 12 éves, vagy annál idősebb, de 18 évesnél fiatalabb beteg gyermek ápolása, illetve kórházi tartózkodása címén méltányosságból folyósított táppénz megállapításánál előzményként azt az időtartamot kell figyelembe venni, amelyre ugyanazon gyermek ápolása, illetve kórházi tartózkodása címén a gyermek legutóbbi születésnapját követően táppénzt folyósítottak.
+28. § (1)[^470] A 12 éves, vagy annál idősebb, de 18 évesnél fiatalabb beteg gyermek ápolása, illetve kórházi tartózkodása címén méltányosságból folyósított táppénz megállapításánál előzményként azt az időtartamot kell figyelembe venni, amelyre ugyanazon gyermek ápolása, illetve kórházi tartózkodása címén a gyermek legutóbbi születésnapjától kezdődően táppénzt folyósítottak.
 
 (1a)[^471]
 
@@ -12,7 +12,7 @@
 
 (6)[^475] Az (5) bekezdés tekintetében nem érinti a fennálló biztosítási jogviszony kezdőnapját a jogviszonynak a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény 47. §-a és 47/A. §-a alapján történő átalakulása.
 
-[^470]: A Vhr. 28. § (1) bekezdését újonnan a 172/2016. (VII. 1.) Korm. rendelet 9. § (1) bekezdése iktatta be.
+[^470]: A Vhr. 28. § (1) bekezdését újonnan a 172/2016. (VII. 1.) Korm. rendelet 9. § (1) bekezdése iktatta be, szövege a 286/2023. (VI. 30.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
 [^471]: A Vhr. 28. § (1a) bekezdését a 254/2013. (VII. 5.) Korm. rendelet 6. § (2) bekezdése iktatta be, hatályon kívül helyezte a 413/2015. (XII. 23.) Korm. rendelet 10. § c) pontja.
 [^472]: A Vhr. 28. § (3) bekezdése a 254/2013. (VII. 5.) Korm. rendelet 17. § g) pontja szerint módosított szöveg.
 [^473]: A Vhr. 28. § (4) bekezdését a 295/2002. (XII. 27.) Korm. rendelet 18. §-a iktatta be, szövege a 254/2013. (VII. 5.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.

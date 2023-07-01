@@ -46,7 +46,7 @@ p)[^18] keresőtevékenység: a társadalombiztosítás ellátásaira jogosultak
 
 (4a)[^21] A Kormány egészségbiztosítóként a NEAK-ot jelöli ki az Ebtv. 36. § (3) bekezdésében foglalt feladatok ellátására. A NEAK jogosult az Ebtv. 36. § (1)–(9) bekezdésében, továbbá az Ebtv. 37–38/C. §-ában meghatározott ellenőrzésekhez elemzéseket végezni, ellenőrzéseket elrendelni, koordinálni és irányítani.
 
-(5)[^22] A Kormány egészségbiztosítóként, illetve egészségbiztosítási szervként a kormányhivatalt jelöli ki a 12. § (4) bekezdésében meghatározott feladatok kivételével az Ebtv. 27. § (1), (2), (5) és (7) bekezdésében, 35. § (5) bekezdésében, 50. §-ában, 62. § (1a) bekezdésében, 65. § (2) bekezdésében, 68/A. § (4) bekezdésében, 69. §-ában, 70. § (1) bekezdés b) pontjában, 70. § (4) bekezdésében, 72. §-ában, 77. § (3) bekezdésében, 80. § (3)–(5) bekezdésében, valamint 81. § (1) bekezdésében foglalt feladatok ellátására.
+(5)[^22] A Kormány egészségbiztosítóként, illetve egészségbiztosítási szervként a kormányhivatalt jelöli ki a 12. § (4) bekezdésében meghatározott feladatok kivételével az Ebtv. 27. § (1), (2), (5) és (7) bekezdésében, 35. § (5) bekezdésében, 50. §-ában, 61. § (12)–(14) bekezdésében, 62. § (1a) bekezdésében, 65. § (2) bekezdésében, 68/A. § (4) bekezdésében, 69. §-ában, 70. § (1) bekezdés b) pontjában, 70. § (4) bekezdésében, 72. §-ában, 77. § (3) bekezdésében, 79/B. §-ában, 80. § (3)–(5) bekezdésében, valamint 81. § (1) bekezdésében foglalt feladatok ellátására.
 
 (5a)[^23] A Kormány egészségbiztosítóként és egészségbiztosítási szervként Budapest Főváros Kormányhivatalát jelöli ki az Ebtv. 70. § (1) bekezdés c) pontjában foglalt feladatok ellátására.
 
@@ -58,7 +58,7 @@ p)[^18] keresőtevékenység: a társadalombiztosítás ellátásaira jogosultak
 
 a) az Ebtv. 62. § (2b) bekezdése, 62. § (2c) bekezdés b) pontja, valamint 63. § (1) bekezdése szerinti – a b) pont szerinti szerv által összeállított adatállománynak megfelelően végrehajtandó – folyósítási feladatok ellátására a Magyar Államkincstár Nyugdíjfolyósító Igazgatóságát,
 
-b)[^27] az Ebtv. 62. § (2) bekezdés c) pontja, 62. § (2a) és (2d) bekezdése, valamint 63. § (1) bekezdése szerinti elbírálási feladatok ellátására a kormányhivatalt
+b)[^27] az Ebtv. 62. § (2) bekezdés b) pontja, 62. § (2a), (2d) és (2e) bekezdése, valamint 63. § (1) bekezdése szerinti elbírálási feladatok ellátására a kormányhivatalt
 
 jelöli ki.
 
@@ -74,7 +74,7 @@ jelöli ki.
 
 (7g)[^33]
 
-(8)[^34] A 38/A. § (1) és (3) bekezdésében, a 40. § (2) bekezdésében, a 49. § (2) bekezdésében, a 49/A. §-ában, valamint az Ebtv. 72. § (2) bekezdésében, 77. § (3) bekezdésében, 81. § (1) és (2) bekezdésében foglalt esetekben a kormányhivatalok mint kifizetőhelyek, valamint a Tbj. 2. melléklet 6–8. pontja szerinti szervek kifizetőhelyei tekintetében a Központ jár el.
+(8)[^34] A 38/A. § (1) és (3) bekezdésében, a 40. § (2) bekezdésében, a 49. § (2) bekezdésében, a 49/A. §-ában, valamint az Ebtv. 72. § (2) bekezdésében, 77. § (3) bekezdésében, 79/B. §-ában, 81. § (1) és (2) bekezdésében foglalt esetekben a kormányhivatalok mint kifizetőhelyek, valamint a Tbj. 2. melléklet 6–8. pontja szerinti szervek kifizetőhelyei tekintetében a Központ jár el.
 
 (8a)[^35]
 
@@ -113,19 +113,19 @@ jelöli ki.
 [^19]: A Vhr. 1. §-ának (3) bekezdését a 330/2005. (XII. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^20]: A Vhr. 1. § (4) bekezdését a 319/2006. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 27. § (2) bekezdésével megállapított szöveg.
 [^21]: A Vhr. 1. § (4a) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 27. § (2) bekezdése iktatta be, szövege a 630/2022. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^22]: A Vhr. 1. § (5) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^22]: A Vhr. 1. § (5) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 13. § (1) bekezdésével megállapított, a 286/2023. (VI. 30.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
 [^23]: A Vhr. 1. § (5a) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 27. § (2) bekezdése iktatta be.
 [^24]: A Vhr. 1. § (6) bekezdését a 319/2006. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 27. § (2) bekezdésével megállapított, a 20/2017. (II. 2.) Korm. rendelet 2. § (4) bekezdés a) pontja, a 311/2017. (X. 31.) Korm. rendelet 7. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 13. § (7) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^25]: A Vhr. 1. § (7) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 13. § (7) bekezdés c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^26]: A Vhr. 1. § (7a) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 27. § (3) bekezdése iktatta be, szövege a 404/2017. (XII. 15.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^27]: A Vhr. 1. § (7a) bekezdés b) pontja a 305/2019. (XII. 12.) Korm. rendelet 4. § a) pontja, a 360/2019. (XII. 30.) Korm. rendelet 13. § (6) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^27]: A Vhr. 1. § (7a) bekezdés b) pontja a 286/2023. (VI. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^28]: A Vhr. 1. § (7b) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 27. § (3) bekezdése iktatta be, hatályon kívül helyezte a 20/2017. (II. 2.) Korm. rendelet 2. § (5) bekezdése.
 [^29]: A Vhr. 1. § (7c) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 27. § (3) bekezdése iktatta be, szövege a 20/2017. (II. 2.) Korm. rendelet 2. § (4) bekezdés c) pontja, a 360/2019. (XII. 30.) Korm. rendelet 13. § (7) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^30]: A Vhr. 1. § (7d) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 27. § (3) bekezdése iktatta be, szövege a 404/2017. (XII. 15.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^31]: A Vhr. 1. § (7e) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 27. § (3) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 13. § (6) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^32]: A Vhr. 1. § (7f) bekezdését az 52/2017. (III. 20.) Korm. rendelet 1. § (1) bekezdése iktatta be, hatályon kívül helyezte a 360/2019. (XII. 30.) Korm. rendelet 13. § (7) bekezdés e) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^33]: A Vhr. 1. § (7g) bekezdését a 171/2017. (VI. 29.) Korm. rendelet 4. § (1) bekezdése iktatta be, hatályon kívül helyezte a 360/2019. (XII. 30.) Korm. rendelet 13. § (7) bekezdés e) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^34]: A Vhr. 1. § új (8) bekezdését a 360/2008. (XII. 31.) Korm. rendelet 1. § (2) bekezdése iktatta be, egyidejűleg az eredeti (8)–(9) bekezdés számozását (9)–(10) bekezdésre változtatta. A Vhr. 1. § (8) bekezdése a 316/2020. (VII. 1.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^34]: A Vhr. 1. § új (8) bekezdését a 360/2008. (XII. 31.) Korm. rendelet 1. § (2) bekezdése iktatta be, egyidejűleg az eredeti (8)–(9) bekezdés számozását (9)–(10) bekezdésre változtatta. A Vhr. 1. § (8) bekezdése a 316/2020. (VII. 1.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 286/2023. (VI. 30.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
 [^35]: A Vhr. 1. § (8a) bekezdését az 52/2017. (III. 20.) Korm. rendelet 1. § (2) bekezdése iktatta be, hatályon kívül helyezte a 360/2019. (XII. 30.) Korm. rendelet 13. § (7) bekezdés f) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^36]: A Vhr. 1. § (8) bekezdését a 319/2006. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be, számozását a 360/2008. (XII. 31.) Korm. rendelet 1. § (2) bekezdése (9) bekezdésre változtatta. Az 1. § (9) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 49. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^37]: A Vhr. 1. § (9) bekezdését a 319/2006. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be, számozását a 360/2008. (XII. 31.) Korm. rendelet 1. § (2) bekezdése (10) bekezdésre változtatta. A Vhr. 1. § (10) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 130. §-a hatályon kívül helyezte, újonnan a 404/2017. (XII. 15.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 376/2021. (VI. 30.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
