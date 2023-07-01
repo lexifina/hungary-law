@@ -1,0 +1,3 @@
+27. § A hulladékról szóló 2012. évi CLXXXV. törvény 53/H. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) Az (1) bekezdésében foglalt követelmények a koncessziós társaság esetében akkor is teljesülnek, ha az – a kapacitást biztosító megállapodások megkötésére, illetve a tevékenység végzéséhez szükséges engedélyek megszerzésére vonatkozó kötelezettsége körében – a tevékenység végzéséhez szükséges engedélyekkel rendelkező, a kapacitást biztosító koncesszori alvállalkozóval, illetve a kapacitással rendelkező más gazdálkodó szervezettel megállapodott legalább a kapacitások rendelkezésre bocsátásáról vagy lekötéséről.”
