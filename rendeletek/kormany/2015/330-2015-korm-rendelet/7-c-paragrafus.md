@@ -1,6 +1,6 @@
 ## 7/B. § A Vhr. 3. mellékletében foglalt táblázat szerinti pénzügyi ágazatba tartozó alapvető szolgáltatást nyújtó szereplőként azonosítható a 6. §-ban meghatározott valamely kritériumnak megfelelő szolgáltató.
 
-## 3/B. [^3] Rendkívüli esemény
+## 3/B. [^4] Rendkívüli esemény
 
 ## 7/C. § Pénzügy ágazatban rendkívüli eseménynek minősül
 
@@ -22,4 +22,4 @@ e) az, ha az illetékes hatóság a kijelölt létfontosságú rendszerelemnél 
 
 f) a humánerőforrás olyan mértékű kritikus hiánya, ami a tevékenység leállításához, szüneteltetéséhez vezethet.
 
-[^3]: A 3/B. alcímet (7/C. §) a 375/2020. (VII. 30.) Korm. rendelet 79. §-a iktatta be.
+[^4]: A 3/B. alcímet (7/C. §) a 375/2020. (VII. 30.) Korm. rendelet 79. §-a iktatta be.
