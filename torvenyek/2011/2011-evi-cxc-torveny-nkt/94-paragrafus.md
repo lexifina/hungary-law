@@ -162,4 +162,6 @@ kapcsolatosan eljáró, felmentést engedélyező szervet rendeletben jelölje k
 
 (4h) Felhatalmazást kap a Kormány, hogy az egyéni munkarenddel kapcsolatosan eljáró, felmentést engedélyező szervet rendeletben jelölje ki.
 
+(4i) Felhatalmazást kap a Kormány, hogy a Nemzeti Tehetség Program finanszírozására vonatkozó részletszabályokat rendeletben állapítsa meg.
+
 (5) A (4) bekezdés a)–c) és f) pontjában meghatározott kormányrendeleteknek a Kormány részére történő benyújtásához – a nemzetiséghez tartozók óvodai nevelését, iskolai nevelését, oktatását érintő kérdésekben – be kell szerezni az országos nemzetiségi önkormányzatok véleményét.
