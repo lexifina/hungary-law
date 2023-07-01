@@ -1,5 +1,5 @@
 ## lép.
 
-26. §[^60]
+26. §[^43]
 
-[^60]: A 26. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^43]: A 26. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

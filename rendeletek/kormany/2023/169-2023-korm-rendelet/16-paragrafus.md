@@ -1,53 +1,49 @@
 16. § Az R3.
 
-1. [^18]
+1. [^12]
 
-2. [^19]
+2. [^13]
 
-3. [^20]
+3. [^14]
 
-4. [^21]
+4. 28. §-ában a „megszegésének, ha” szövegrész helyébe a „megszegésének, ha az alábbi okok miatt létesítenek a családi otthonteremtési kedvezménnyel vásárolt vagy épített lakástól eltérő lakásban tartózkodási helyet, illetve az f) vagy g) pont esetén lakóhelyet” szöveg,
 
-5. [^22]
+5. [^15]
 
-6. [^23]
+6. [^16]
 
-7. [^24]
+7. [^17]
 
-8. [^25]
+8. 50. § (1) bekezdésében és 60. § (6) bekezdésében az „a lakóhely” szövegrész helyébe az „az életvitelszerű bentlakását is magában foglaló lakóhely vagy hontalan esetén szálláshely” szöveg,
 
-9. [^26]
+9. 50. § (1) bekezdés b) pontjában a „lakóhelyéül” szövegrész helyébe az „életvitelszerű bentlakását is magában foglaló lakóhelyéül vagy hontalan esetén szálláshelyéül” szöveg,
 
-10. [^27]
+10. 50. § (3) bekezdés b) pontjában és 60. § (4) bekezdés b) pontjában a „lakóhelyét” szövegrész helyébe az „életvitelszerű bentlakását is magában foglaló lakóhelyét vagy hontalan esetén szálláshelyét” szöveg,
 
-11. [^28]
+11. [^18]
 
-12. [^29]
+12. [^19]
 
-13. [^30]
+13. [^20]
 
-14. [^31]
+14. [^21]
 
-15. [^32]
+15. [^22]
 
-16. [^33]
+16. [^23]
 
-17. [^34]
+17. [^24]
 
-[^18]: A 16. § 1. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^19]: A 16. § 2. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^20]: A 16. § 3. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^21]: A 16. § 4. pontja a 28. § (2) bekezdés alapján 2023. július 1-jén lép hatályba.
-[^22]: A 16. § 5. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^23]: A 16. § 6. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^24]: A 16. § 7. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^25]: A 16. § 8. pontja a 28. § (2) bekezdés alapján 2023. július 1-jén lép hatályba.
-[^26]: A 16. § 9. pontja a 28. § (2) bekezdés alapján 2023. július 1-jén lép hatályba.
-[^27]: A 16. § 10. pontja a 28. § (2) bekezdés alapján 2023. július 1-jén lép hatályba.
-[^28]: A 16. § 11. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^29]: A 16. § 12. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^30]: A 16. § 13. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^31]: A 16. § 14. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^32]: A 16. § 15. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^33]: A 16. § 16. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^34]: A 16. § 17. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 16. § 1. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 16. § 2. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 16. § 3. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 16. § 5. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 16. § 6. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 16. § 7. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 16. § 11. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 16. § 12. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 16. § 13. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 16. § 14. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 16. § 15. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 16. § 16. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 16. § 17. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

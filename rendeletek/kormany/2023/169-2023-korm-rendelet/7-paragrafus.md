@@ -1,13 +1,12 @@
 7. § Az R2.
 
-a)[^7]
+a)[^5]
 
-b)[^8]
+b) 15/A. § d) pontjában a „valamint b) és” szövegrész helyébe a „b) pont bb) és bc) alpontja vagy” szöveg és
 
-c)[^9]
+c)[^6]
 
 lép.
 
-[^7]: A 7. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 7. § b) pontja a 28. § (2) bekezdés alapján 2023. július 1-jén lép hatályba.
-[^9]: A 7. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 7. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 7. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

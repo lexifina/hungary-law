@@ -1,3 +1,3 @@
-22. §[^40]
+22. §[^28]
 
-[^40]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
