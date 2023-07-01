@@ -114,9 +114,7 @@ Születési idő és nem
 
 |
 
-1997. január 1. és
-
-1999. december 31-e között
+1997. január 1. és 1999. december 31-e között
 
 |
 
