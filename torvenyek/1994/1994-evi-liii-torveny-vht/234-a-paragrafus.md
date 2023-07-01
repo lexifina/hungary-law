@@ -1,4 +1,8 @@
-234/A. § (1) A Hatóság elnöke a végrehajtó által előterjesztett kérelem alapján – a (2) bekezdésben foglalt kivétellel – további hét évre megállapítja a szolgálat folyamatosságát, ha a kinevezését követően a végrehajtót legfeljebb kettő alkalommal sújtották jogerősen fegyelmi büntetéssel, amelyek közül legfeljebb egy volt súlyosabb figyelmeztetésnél, de egyik sem volt súlyosabb írásbeli megrovásnál.
+234/A. § (1) A Hatóság elnöke a végrehajtó által előterjesztett kérelem alapján – a (2) bekezdésben foglalt kivétellel – további hét évre megállapítja a szolgálat folyamatosságát, ha
+
+a) a kinevezését vagy szolgálata folyamatosságának megállapítását követően a végrehajtót legfeljebb kettő alkalommal sújtották jogerősen fegyelmi büntetéssel, amelyek közül legfeljebb egy volt súlyosabb figyelmeztetésnél, de egyik sem volt súlyosabb írásbeli megrovásnál, és
+
+b) a kérelem benyújtásáig, a kérelem előterjesztésének évében, és az azt megelőző két év alatt a végrehajtót legfeljebb három alkalommal kötelezte a bíróság pénzösszeg 217/B. § szerinti megfizetésére.
 
 (2) Ha a kérelem elbírálása idején a végrehajtóval szemben a kérelem elbírálására kihatással bíró fegyelmi eljárás van folyamatban, a végrehajtó szolgálati viszonya a fegyelmi eljárás jogerős befejeződését követő, a végrehajtó szolgálati jogviszonya folyamatosságának megállapítására irányuló kérelme elbírálása napjáig meghosszabbodik.
 
