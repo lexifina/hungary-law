@@ -2,4 +2,6 @@
 
 (2) A Kincstár az ellenőrzési mintát a 18. § (1) bekezdés a)–f) pontja szerinti jogcímek azon kérelmezői közül jelöli ki, ahol a támogatással érintett kultúra jónál rosszabb állapotú víztesthez köthető. Ez esetben az ellenőrzési minta nagysága 3%.
 
-(3) Ha a helyszíni ellenőrzés során a Kincstár a 18. § (1) bekezdés a)–f) pontja szerinti növénykultúrák termesztésével összefüggésben állapítja meg a vízjogi üzemeltetési vagy fennmaradási engedélyben foglaltaktól lényegesen eltérő gyakorlatot, a mezőgazdasági termelő az adott jogcímben tárgyévben támogatásra nem jogosult.
+(3)[^1] Ha a helyszíni ellenőrzés során a Kincstár a 18. § (1) bekezdés a)–f) pontja szerinti növénykultúrák termesztésével összefüggésben állapítja meg a vízjogi üzemeltetési vagy fennmaradási engedélyben vagy bejelentésben foglaltaktól lényegesen eltérő gyakorlatot, a mezőgazdasági termelő az adott jogcímben tárgyévben támogatásra nem jogosult.
+
+[^1]: A 8. § (3) bekezdése a 26/2023. (VI. 30.) AM rendelet 28. §-a szerint módosított szöveg.

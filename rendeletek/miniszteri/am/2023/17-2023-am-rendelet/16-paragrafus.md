@@ -12,15 +12,11 @@ a) a Szarvasmarha ENAR rendelet szerinti országos nyilvántartás alapján a h�
 
 b) a 13. § (3) bekezdésében foglaltaktól eltérően legkésőbb a birtokon tartás időszaka megkezdésének első napjáig gondoskodik a tenyészetében lévő szarvasmarha-állománynak a Szarvasmarha ENAR rendelet szerinti jelöléséről, folyamatos nyilvántartásáról és az adatok bejelentéséről,
 
-c) a Szarvasmarha ENAR rendelet szerinti jelentési kötelezettségnek megfelelően az állat vágóhídon történő levágásának, illetve exportálásának igazolása megtörténik és
+c)[^2] esetében a Szarvasmarha ENAR rendelet szerinti jelentési kötelezettségnek megfelelően, az állat vágóhídon történő levágásának vagy exportálásának igazolása megtörténik,
 
-d) gondoskodik az Állattenyésztési korm. rendelet szerinti apaállat-használatról, és a hízottbika-tartás támogatásra bejelentett egyedek fogantatása esetében
+d)[^3] gondoskodik az Állattenyésztési korm. rendelet szerinti apaállat-használatról és a hízottbika-tartás támogatásra bejelentett egyedek fogantatása esetében központi lajstromszámmal (a továbbiakban: KPLSZ) ellátott tenyészbika vagy mélyhűtött sperma, petesejt, embrió használata igazolható, és
 
-da) központi lajstromszámmal (a továbbiakban: KPLSZ) ellátott tenyészbika vagy mélyhűtött sperma, petesejt, embrió használata igazolható, vagy
-
-db) szabad és háremszerű pároztatások esetében a hízottbika-tartás támogatásra bejelentett egyedek születésének időpontjára vonatkozóan KPLSZ-szel ellátott apaállat tenyészetben tartása igazolható, és
-
-dc) legkésőbb tárgyév augusztus 31-éig gondoskodik az állatállományhoz tartozó termékenyítések (fedeztetések), szabad és háremszerű pároztatások és embrió-átültetések az Állattenyésztési korm. rendelet 2. § 11. pontja szerinti országos állattenyésztési adatbázisban történő regisztrációjáról.
+e)[^4] legkésőbb tárgyév augusztus 31-ig gondoskodik az állatállományhoz tartozó termékenyítések (fedeztetések), szabad és háremszerű pároztatások és embrió-átültetések az Állattenyésztési korm. rendelet 2. § 11. pontja szerinti országos állattenyésztési adatbázisban történő regisztrációjáról.
 
 (3) A (2) bekezdés d) pontja szerinti KPLSZ meglétét a Kincstár az ENAR adatbázis alapján ellenőrzi.
 
@@ -31,3 +27,7 @@ dc) legkésőbb tárgyév augusztus 31-éig gondoskodik az állatállományhoz t
 (6) Ha olyan egyed apaállatára vonatkozó, (4) bekezdés szerinti dokumentum tekintetében kell az értékelést elvégezni, amely esetében tenyésztőszervezet nem működik, akkor a Magyar Állattenyésztők Szövetsége által kijelölt tenyésztőszervezet állásfoglalását kell figyelembe venni.
 
 (7) A tenyésztőszervezet az (5) bekezdés szerinti szakmai állásfoglalása alapját képező valamennyi dokumentumot a szakmai állásfoglalás kiállításától számított tíz évig köteles megőrizni.
+
+[^2]: A 16. § (2) bekezdés c) pontja a 26/2023. (VI. 30.) AM rendelet 25. §-ával megállapított szöveg.
+[^3]: A 16. § (2) bekezdés d) pontja a 26/2023. (VI. 30.) AM rendelet 25. §-ával megállapított szöveg.
+[^4]: A 16. § (2) bekezdés e) pontja a 26/2023. (VI. 30.) AM rendelet 25. §-a iktatta be.
