@@ -20,11 +20,11 @@ g) az agrárpolitikáért felelős és a természetvédelemért felelős miniszt
 
 h) a turizmusért felelős miniszter által delegált egy,
 
-i) az európai uniós források felhasználásáért és a kulturális örökség védelméért felelős miniszter által együttesen delegált egy,
+i) a kulturális örökség védelméért felelős miniszter által delegált egy,
 
-j) a külgazdasági ügyekért és a külpolitikáért felelős miniszter, valamint a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter által együttesen delegált egy,
+j) a külpolitikáért felelős miniszter által delegált egy,
 
-k) az informatikáért felelős miniszter által delegált egy,
+k) az iparügyért felelős miniszter által delegált egy,
 
 l) a honvédelemért felelős miniszter által delegált egy,
 
