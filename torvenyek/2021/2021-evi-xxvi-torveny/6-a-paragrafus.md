@@ -1,0 +1,1 @@
+6/A. § A KEKVA tv. 12. § (7) bekezdésére tekintettel, az Alapítvány KEKVA tv. 1. mellékletében meghatározott közfeladata ellátása érdekében a Komlói Egészségcentrum, a Mohácsi Kórház és a Szigetvári Kórház (a továbbiakban együtt: Kórház) fenntartói jogát az Egyetem tulajdonába kell adni.
