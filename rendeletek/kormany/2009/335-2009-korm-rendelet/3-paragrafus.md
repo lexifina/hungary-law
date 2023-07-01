@@ -14,6 +14,8 @@ Súlyos fogyatékosságnak minősülő betegségek és fogyatékosságok
 
 Súlyos fogyatékosságnak minősülő betegségek és fogyatékosságok
 
+3X04844M.docx
+
 | Betegségcsoport megnevezése | Betegség BNO kódja | Betegség megnevezése |
 
 | 1. Hallási fogyatékos | H90 | Vezetéses típusú és idegi eredetű hallásvesztés |
@@ -74,7 +76,7 @@ Súlyos fogyatékosságnak minősülő betegségek és fogyatékosságok
 
 | F739 | Igen súlyos mentális retardáció viselkedésromlás nélkül |
 
-| 3. Látási fogyatékos | H54 | Vakság és csökkentlátás |
+| 3. Látási fogyatékos | H54 | Vakság és csökkentlátás |
 
 | H540 | Vakság mindkét szemen |
 
@@ -84,7 +86,7 @@ Súlyos fogyatékosságnak minősülő betegségek és fogyatékosságok
 
 | H543 | Nem osztályozott látásvesztés mindkét szemen |
 
-| 4. Mozgásszervi fogyatékos* |  |  |
+| 4. Mozgásszervi fogyatékos* |  |  |
 
 | A végtag (végtagok) hiánya, csonkoltsága, művégtag használatával is, egy vagy több végtag nagyízületi merevséggel járó elváltozásai | Z891 | Kéz és csukló szerzett hiánya |
 
@@ -290,7 +292,7 @@ Súlyos fogyatékosságnak minősülő betegségek és fogyatékosságok
 
 | C412 | Gerinc rosszindulatú daganata |
 
-| 5. Pervazív fejlődési zavarok | F84 | Pervazív fejlődési zavarok |
+| 5. Pervazív fejlődési zavarok | F84 | Pervazív fejlődési zavarok |
 
 | F840 | Gyerekkori autizmus (autismus infantilis) |
 
@@ -308,7 +310,7 @@ Súlyos fogyatékosságnak minősülő betegségek és fogyatékosságok
 
 | F849 | Nem meghatározott pervazív (átható) fejlődési zavar |
 
-| 6. Schizophrenia, schizotypiás és paranoid zavarok | F20 | Schizophrenia |
+| 6. Schizophrenia, schizotypiás és paranoid zavarok | F20 | Schizophrenia |
 
 | F200 | Paranoid schizophrenia |
 
@@ -370,7 +372,7 @@ Súlyos fogyatékosságnak minősülő betegségek és fogyatékosságok
 
 | F29 | Nem organikus pszichózis k.m.n. |
 
-| 7. Daganatos betegségek közül: |  |  |
+| 7. Daganatos betegségek közül: |  |  |
 
 | A vérképzőrendszer rosszindulatú betegségében szenvedő | C81 | Hodgkin kór |
 
@@ -622,6 +624,20 @@ Súlyos fogyatékosságnak minősülő betegségek és fogyatékosságok
 
 | C539 | Méhnyak rosszindulatú daganata, k.m.n. |
 
+| Méh rosszindulatú daganata | C5400 | A méh isthmusa rosszindulatú daganata |
+
+| C5410 | Endometrium rosszindulatú daganata |
+
+| C5420 | Myometrium rosszindulatú daganata |
+
+| C5430 | Méhfundus rosszindulatú daganata |
+
+| C5480 | Méhtest átfedő elváltozása, rosszindulatú daganata |
+
+| C5490 | Méhtest rosszindulatú daganata |
+
+| C55H0 | Méh nem meghatározott részének rosszindulatú daganata |
+
 | Petefészek rosszindulatú daganata | C56 | A petefészek rosszindulatú daganata |
 
 | A prosztata rosszindulatú daganata | C61 | A prosztata rosszindulatú daganata |
@@ -632,7 +648,9 @@ Súlyos fogyatékosságnak minősülő betegségek és fogyatékosságok
 
 | C629 | Here rosszindulatú daganata, k.m.n |
 
-| 8. Mesterséges testnyílással élő személy | Z93 | Mesterséges testnyílás |
+| Alsó lebeny, hörgő vagy tüdő rosszindulatú daganata | C343 | Alsó lebeny, hörgő vagy tüdő rosszindulatú daganata |
+
+| 8. Mesterséges testnyílással élő személy | Z93 | Mesterséges testnyílás |
 
 | Z930 | Tracheostomával élő személy |
 
@@ -652,7 +670,7 @@ Súlyos fogyatékosságnak minősülő betegségek és fogyatékosságok
 
 | Z939 | K.m.n. művi stomával élő személy |
 
-| 9. Súlyos szervi károsodással járó immunbetegségben szenvedő | M30 | Polyarteritis nodosa és rokon állapotok |
+| 9. Súlyos szervi károsodással járó immunbetegségben szenvedő | M30 | Polyarteritis nodosa és rokon állapotok |
 
 | M300 | Polyarteritis nodosa |
 
@@ -738,7 +756,7 @@ Súlyos fogyatékosságnak minősülő betegségek és fogyatékosságok
 
 | M359 | A kötőszövet szisztémás érintettsége, k.m.n. |
 
-| 10. Emésztőrendszer betegségei közül: |  |  |
+| 10. Emésztőrendszer betegségei közül: |  |  |
 
 | Intestinalis malabsorptio | K90 | Intestinalis malabsorptio |
 
@@ -800,7 +818,7 @@ Súlyos fogyatékosságnak minősülő betegségek és fogyatékosságok
 
 | E849 | Fibrosis cystica, k.m.n. |
 
-| 11. Ritka betegségek közül: |  |  |
+| 11. Ritka betegségek közül: |  |  |
 
 | Regionális szkleroderma | L940 | Lokalizált scleroderma [morphea] |
 
@@ -852,7 +870,7 @@ Súlyos fogyatékosságnak minősülő betegségek és fogyatékosságok
 
 | Göbös agykeményedés (sclerosis tuberosa) | Q851 | Göbös agykeményedés (sclerosis tuberosa) |
 
-| 12. Az endokrin és anyagcsere betegségek közül: |  |  |
+| 12. Az endokrin és anyagcsere betegségek közül: |  |  |
 
 | I. típusú diabetes | E10 | Inzulin-dependens cukorbetegség |
 
@@ -912,7 +930,7 @@ Súlyos fogyatékosságnak minősülő betegségek és fogyatékosságok
 
 | Addison-kór | E271 | Primer mellékvesekéreg elégtelenség |
 
-| 13. Veleszületett enzimopátiák | E70 | Az aromás aminosavak anyagcseréjének zavarai |
+| 13. Veleszületett enzimopátiák | E70 | Az aromás aminosavak anyagcseréjének zavarai |
 
 | E700 | Klasszikus phenylketonuria |
 
@@ -1020,11 +1038,11 @@ Súlyos fogyatékosságnak minősülő betegségek és fogyatékosságok
 
 | E779 | Glycoprotein anyagcsere rendellenesség k.m.n. |
 
-| 14. Hemodialízis, vagy peritoneális dialíziskezelésre szoruló végállapotú veseelégtelenségben szenvedő | Z992 | Művesekezelésre szoruló beteg |
+| 14. Hemodialízis, vagy peritoneális dialíziskezelésre szoruló végállapotú veseelégtelenségben szenvedő | Z992 | Művesekezelésre szoruló beteg |
 
-| 15. Krónikus légzési elégtelenségben szenvedő | J961 | Idült légzési elégtelenség |
+| 15. Krónikus légzési elégtelenségben szenvedő | J961 | Idült légzési elégtelenség |
 
-| 16. Veleszületett és szerzett szívbetegségben szenvedő a III-IV. NYHA funkcionális stádiumban | Q20 | A szív üregeinek és összeköttetéseinek veleszületett rendellenességei |
+| 16. Veleszületett és szerzett szívbetegségben szenvedő a III-IV. NYHA funkcionális stádiumban | Q20 | A szív üregeinek és összeköttetéseinek veleszületett rendellenességei |
 
 | Q200 | Közös artériás törzs |
 
@@ -1398,7 +1416,7 @@ Súlyos fogyatékosságnak minősülő betegségek és fogyatékosságok
 
 | I528 | Egyéb szívrendellenességek egyéb máshová osztályozott betegségekben |
 
-| 17. Egyéb fejlődési rendellenességgel születettek | Q00 | Agyvelőhiány és hasonló fejlődési rendellenességek |
+| 17. Egyéb fejlődési rendellenességgel születettek | Q00 | Agyvelőhiány és hasonló fejlődési rendellenességek |
 
 | Q000 | Agyvelőhiány |
 
@@ -1530,7 +1548,5 @@ Súlyos fogyatékosságnak minősülő betegségek és fogyatékosságok
 
 | N809 | Endometriosis , k.m.n. |
 
-* A mozgásszervi fogyatékos betegségcsoporthoz tartozó egyes BNO-kon belül csak az 1. oszlopban hozzárendelt betegségek vehetők figyelembe.
-
 [^4]: A 3. § (3) bekezdése a (2) bekezdés alapján 2010. január 1-jén lépett hatályba.
-[^5]: A Melléklet a 250/2017. (IX. 5.) Korm. rendelet 36. §-a, a 287/2018. (XII. 21.) Korm. rendelet 29. §-a szerint módosított szöveg.
+[^5]: A Melléklet a 250/2017. (IX. 5.) Korm. rendelet 36. §-a, a 287/2018. (XII. 21.) Korm. rendelet 29. §-a, a 286/2023. (VI. 30.) Korm. rendelet 36. §-a szerint módosított szöveg.
