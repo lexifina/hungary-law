@@ -24,6 +24,8 @@ k) a takarmány-vállalkozásokról vezetett nyilvántartásban szereplő adatok
 
 l) a vetőmag-előállítókról vezetett nyilvántartásban szereplő adatokat
 
+m) az agrártermékek eredetvédelméről szóló 2022. évi LXVI. törvény 27. § (3) bekezdése szerinti nyilvántartásban szereplő adatokat
+
 díjmentesen kell szolgáltatni, függetlenül az egyes nyilvántartásokra vonatkozó adatszolgáltatási formáktól, módoktól.
 
 (2) A mezőgazdasági igazgatási szerv az (1) bekezdésben meghatározott nyilvántartásokból átvett, illetve lekérdezett adatokat – ideértve a személyes adatokat is – kizárólag a Földforgalmi törvényben meghatározott feladatának ellátásához használhatja fel.

@@ -16,7 +16,7 @@ ab) állampolgárságát,
 
 ac) lakcímét,
 
-ad) a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá tartozó természetes személyes esetében a személyi azonosítóját,
+ad) a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá tartozó természetes személy esetében a személyi azonosítóját,
 
 ae) mezőgazdasági vagy erdészeti szakirányú képzettség esetén az ezt igazoló okirat számát,
 
