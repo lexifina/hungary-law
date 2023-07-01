@@ -50,9 +50,9 @@ e) a PIC ellátások esetében.
 
 (5e)[^110] Nem kell ellátási területet megállapítani
 
-a) a 2. számú melléklet A) rész 53. és 57. pontja szerinti ellátások,
+a) a 2. számú melléklet A) rész 28., 28/a., 29., 53. és 57. pontja szerinti ellátások,
 
-b) a 3. számú melléklet 16/a. pontja szerinti ellátások, valamint
+b) a 3. számú melléklet 6/a., 16/a., 55., 118., 119., 121., 123–127., 139–141., 143–144. és 145. pontja szerinti ellátások, valamint
 
 c) az egynapos ellátások
 
@@ -78,6 +78,6 @@ esetében.
 [^107]: Az 5/A. § (5c) bekezdését a 13/2012. (II. 14.) Korm. rendelet 5. §-a iktatta be.
 [^108]: Az 5/A. § (5d) bekezdését a 107/2012. (VI. 1.) Korm. rendelet 6. §-a iktatta be.
 [^109]: Az 5/A. § (5d) bekezdés c) pontja a 616/2022. (XII. 29.) Korm. rendelet 96. § a) pontja szerint módosított szöveg.
-[^110]: Az 5/A. § (5e) bekezdését a 107/2012. (VI. 1.) Korm. rendelet 6. §-a iktatta be, szövege az 520/2013. (XII. 30.) Korm. rendelet 48. § (1) bekezdésével megállapított szöveg.
+[^110]: Az 5/A. § (5e) bekezdését a 107/2012. (VI. 1.) Korm. rendelet 6. §-a iktatta be, szövege a 286/2023. (VI. 30.) Korm. rendelet 31. §-ával megállapított szöveg.
 [^111]: Az 5/A. § (5f) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 48. § (2) bekezdése iktatta be.
 [^112]: Az 5/A. § (6) bekezdését a 192/2015. (VII. 21.) Korm. rendelet 40. §-a iktatta be.
