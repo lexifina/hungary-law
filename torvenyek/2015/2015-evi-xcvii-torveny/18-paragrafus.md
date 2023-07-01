@@ -6,8 +6,8 @@
 
 a) dönt a termelői csoport, termelői szervezetek, illetve azok társulásainak elismerés iránti kérelméről;
 
-b) dönt a termelői szervezet működési programja és a termelői szervezetek társulásának részleges működési programja elfogadása iránti kérelméről;
+b)
 
-c) gondoskodik az a) és b) pontban meghatározott eljárásokhoz kapcsolódó ellenőrzésekről, és alkalmazza az ellenőrzések eredménye alapján jogszabályban meghatározott szankciókat;
+c) gondoskodik az a) pontban meghatározott eljárásokhoz kapcsolódó ellenőrzésekről, és alkalmazza az ellenőrzések eredménye alapján jogszabályban meghatározott szankciókat;
 
 d) teljesíti az Európai Bizottság felé történő adatszolgáltatást.

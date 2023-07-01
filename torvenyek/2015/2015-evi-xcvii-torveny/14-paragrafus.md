@@ -6,7 +6,7 @@
 
 14. § A miniszter
 
-a) a szervezet kérelme alapján – amennyiben a Rendelet másként nem rendelkezik – a kérelem és valamennyi vonatkozó dokumentum benyújtásától számított négy hónapon belül dönt a szakmaközi szervezet elismeréséről, valamint jogszabályban meghatározott esetekben dönt a szakmaközi szervezet elismerésének felfüggesztéséről vagy visszavonásáról;
+a) a szervezet kérelme alapján – amennyiben a Rendelet vagy a Halkereskedelmi Rendelet másként nem rendelkezik – a kérelem és valamennyi vonatkozó dokumentum benyújtásától számított négy hónapon belül – a halászati és akvakultúra ágazat esetében három hónapon belül – dönt a szakmaközi szervezet elismeréséről, valamint jogszabályban meghatározott esetekben dönt a szakmaközi szervezet elismerésének felfüggesztéséről vagy visszavonásáról;
 
 b) a szakmaközi szervezet kérelme és az adott ágazatra vonatkozó gazdasági adatok alapján egyedileg vizsgálja az elismerési feltételek, a szakmaközi célok megvalósítására való alkalmasság, illetve a 15. § (1) bekezdése szerinti jelentős arány meglétét;
 

@@ -24,7 +24,7 @@ a) – a feldolgozó által az adott évben feldolgozandó gyümölcs legalább 
 
 b) – a feldolgozó által az adott évben feldolgozandó gyümölcs legalább 60 százalékának felvásárlására irányuló – szerződésnek alma esetében az adott év augusztus 1. napjáig,
 
-c) szerződésnek torma esetében az adott év augusztus 1. napjáig
+c) a felvásárló által az adott évben felvásárolt zöldség legalább 60 százalékának felvásárlására irányuló szerződésnek torma esetében az adott év augusztus 1. napjáig
 
 hatályba kell lépnie.
 

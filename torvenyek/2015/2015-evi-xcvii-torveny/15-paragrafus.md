@@ -1,4 +1,4 @@
-15. § (1) Szakmaközi szervezetként ismerhető el az a Rendelet 1. cikk (2) bekezdésében felsorolt valamely meghatározott ágazatban működő egyesület vagy köztestület, amely megfelel e törvény és a Rendelet rendelkezéseinek, és amelynek tagsága az adott termék előállításának, feldolgozásának, illetve kereskedelmének jelentős arányát végzi.
+15. § (1) Szakmaközi szervezetként ismerhető el az a 2. § (1) bekezdés a) pontja szerinti ágazatban működő egyesület vagy köztestület, amely megfelel e törvény és a Rendelet vagy a Halkereskedelmi Rendelet rendelkezéseinek, és amelynek tagsága az adott termék előállításának, feldolgozásának, illetve kereskedelmének jelentős arányát végzi.
 
 (2) Egy ágazatban csak egy szakmaközi szervezet ismerhető el.
 
