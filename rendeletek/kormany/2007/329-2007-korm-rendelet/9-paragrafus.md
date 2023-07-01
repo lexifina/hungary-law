@@ -48,7 +48,7 @@ d) gondoskodik a külön jogszabályban meghatározott gépjármű-szolgáltatá
 
 20. a titkos információgyűjtésre, illetve leplezett eszközök alkalmazására feljogosított általános rendőri szerv szervei felkérése alapján végrehajtja a határon átnyúló megfigyeléseket, valamint ellenőrzött szállításokat;
 
-21. a törvényben meghatározottak szerint végzi a büntetőeljárásról szóló 2017. évi XC. törvény 820. § (2) bekezdése alapján a bűncselekményből származó vagyon visszaszerzését;
+21.[^67] törvényben meghatározottak szerint végzi a büntetőeljárásról szóló 2017. évi XC. törvény 820. § (2) bekezdése alapján a bűncselekményből származó vagyon visszaszerzését, valamint részt vesz a büntetőeljárásról szóló 2017. évi XC. törvény 353. § (1) bekezdése szerinti feladat ellátásában;
 
 22. a 16–18. pontban meghatározott feladataival kapcsolatban végrehajtja a körözési eljárással összefüggő feladatokat, illetve a jogszabályban meghatározottak szerint körözési tevékenységet végez;
 
@@ -63,3 +63,4 @@ d) gondoskodik a külön jogszabályban meghatározott gépjármű-szolgáltatá
 27. gazdálkodik az általános rendőri szerv titkos információgyűjtésre és leplezett eszköz alkalmazására feljogosított szervei speciális működési kiadásait biztosító elkülönített előirányzattal.
 
 [^66]: A 9. § a 37/2023. (II. 15.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^67]: A 9. § 21. pontja a 280/2023. (VI. 29.) Korm. rendelet 20. §-ával megállapított szöveg.
