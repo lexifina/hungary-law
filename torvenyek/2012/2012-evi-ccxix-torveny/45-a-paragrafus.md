@@ -64,6 +64,8 @@ i) a miniszter és
 
 j) a Központi Statisztikai Hivatal
 
+k) uniós oltalom iránti kérelmekkel és földrajzi árujelzővel rendelkező borászati termékekkel kapcsolatban, valamint borvidéki rendtartási ügyekben megkeresés vagy megállapodás alapján a földrajzi árujelzőt kezelő hegyközségi szervezet
+
 részére adhatja át.
 
 (6) A hegyközség az (1) bekezdés szerinti adatokat a hegyközségi tag tagsági jogviszonya megszűnésének évét követő ötödik év végéig jogosult kezelni.

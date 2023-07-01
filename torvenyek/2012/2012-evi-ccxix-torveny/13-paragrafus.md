@@ -14,7 +14,7 @@ d) aki büntetett előéletű,
 
 e) aki a tisztségviselői tevékenységtől, mint foglalkozástól eltiltó jogerős bírói ítélet hatálya alatt áll.
 
-(3) Egyidejűleg nem viselhetnek tisztséget a hegyközségben a polgári törvénykönyv szerinti közeli hozzátartozók valamint az élettársak, bejegyzett élettársak. Az alapszabály az összeférhetetlenség további eseteit is meghatározhatja.
+(3) Egyidejűleg nem viselhetnek tisztséget a hegyközségben a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Polgári Törvénykönyv) szerinti közeli hozzátartozók valamint az élettársak, bejegyzett élettársak. Az alapszabály az összeférhetetlenség további eseteit is meghatározhatja.
 
 (4) Nem választható meg tisztségviselőnek, akinek hegyközségi járulék vagy mulasztási bírság tartozása van, illetve az adatszolgáltatási kötelezettségének nem tett eleget.
 

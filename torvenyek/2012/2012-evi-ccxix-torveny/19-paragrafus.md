@@ -14,7 +14,7 @@ a) tanácskozási joggal részt vegyen a közgyűlésen vagy részközgyűlésen
 
 b) a hegyközség belső szabályzatában foglaltak szerint igénybe vegye a hegyközség által nyújtott szolgáltatásokat.
 
-(3) Az (1) bekezdés a) és b) pontjában meghatározott tagsági viszonyból eredő jogait
+(3) Az (1) bekezdés a) pontjában meghatározott tagsági viszonyból eredő jogait
 
 a) természetes személy csak személyesen vagy közeli hozzátartozója vagy a képviseletében eljáró, legalább öt éve, legalább heti 20 órában folyamatosan alkalmazásában álló személy,
 

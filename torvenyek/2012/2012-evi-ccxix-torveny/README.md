@@ -25,3 +25,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-219-00-00
 | 2021-08-01 | 2020. évi CLXIII. törvény | 2012-219-00-00.18 |
 | 2022-07-28 | 2022. évi XXIV. törvény | 2012-219-00-00.19 |
 | 2023-01-01 | 2022. évi LXVII. törvény | 2012-219-00-00.20 |
+| 2023-07-01 | 2023. évi XLIV. törvény | 2012-219-00-00.21 |

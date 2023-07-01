@@ -6,6 +6,8 @@ a) az ingatlanok, az utak, vízelvezető árkok állapotára és növényvédelm
 
 b) a csemegeszőlő-telepítést kivéve gyümölcsös, erdő telepítése, fásítás, halastó és nádas létesítése, valamint a termőföld más célú hasznosítására vonatkozó hegyközségi hozzájárulás megadására vagy elutasítására vonatkozó szabályokat.
 
+c) a földterület szőlő termőhelyi kataszterből történő törléséhez való hegyközségi hozzájárulás megadására vonatkozó szabályokat, ha a hegyközség el kíván térni a Btv. 2. § (4a) bekezdésében meghatározott feltételektől.
+
 (2a) A rendtartás (2) bekezdés szerinti előírásait a borszőlő termőhelyi kataszterbe eső, más művelési ágú külterületi ingatlanok használóinak és az utak kezelőinek is be kell tartaniuk.
 
 (3) Az elfogadott rendtartást meg kell küldeni a hegyközségi tanácsnak, amely kifogást emelhet a rendtartás ellen, ha az törvénysértő, ellentétes a borvidéki rendtartással, ellentétes a Hegyközségek Nemzeti Tanácsának a rendtartás megküldéséig elfogadott határozataival, vagy nyilvánvalóan szakszerűtlen rendelkezést tartalmaz. A hegyközség közgyűlésének a kifogásolt rendelkezést újra kell tárgyalnia. A rendtartást – kifogás híján – a hegyközségi tanácsnak történő megküldését követő harminc nap elteltével közzé kell tenni.

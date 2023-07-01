@@ -16,9 +16,9 @@ c) a hegyközség területén legalább egy borászati üzem rendelkezik borász
 
 (3) Új hegyközség – ideértve a hegyközségek kiválását és szétválását is – nem jöhet létre, ha annak az (1) bekezdés szerint számított területe nem éri el az ötszáz hektárt.
 
-(4) Az (1) bekezdés szerinti feltételeknek nem megfelelő hegyközség közgyűlésének a választmány javaslata alapján döntenie kell valamelyik szomszédos hegyközségbe történő beolvadásról. Az átvevő hegyközség közgyűlésének a választmányának javaslata alapján jóvá kell hagyni a beolvadást. A beolvadás napja a következő év augusztus 1. napja.
+(4) Az (1) bekezdés szerinti feltételek nem teljesítése esetén a hegyközség közgyűlése a választmány javaslata alapján dönt valamely szomszédos hegyközségbe történő beolvadásról, illetve összeolvadásról (a továbbiakban együtt: beolvadás). A beolvadásról közgyűlési döntéssel rendelkező hegyközséget a beolvadás időpontjáig úgy kell tekinteni, mint amely teljesíti az (1) bekezdés szerinti feltételeket. Az átvevő hegyközség közgyűlése a választmány javaslata alapján dönt a beolvadás jóváhagyásáról.
 
-(5) Amennyiben a (4) bekezdésben a beolvadás napjaként meghatározott időpontot megelőző harmincadik napig nem történik meg a beolvadásról és az átvételről szóló döntés, az (1) bekezdés szerinti feltételeknek nem megfelelő hegyközség a területileg szomszédos, azonos borvidéken fekvő legnagyobb hegyközségbe olvad be a (4) bekezdésben a beolvadás napjaként meghatározott időponttal.
+(5) A Hegyközségek Nemzeti Tanácsának elnöke az együttes ülésen elfogadott eljárásrend szerint kezdeményezi a beolvadással kapcsolatos kötelezettségek teljesítését, ha a hegyközségek a megváltozott feltételek bekövetkezésétől számított egy éven belül nem döntenek a beolvadásról. A Hegyközségek Nemzeti Tanácsának elnöke kezdeményezi a törvényszék előtt a beolvadás nyilvántartásba vételét.
 
 (6) A beolvadással kapcsolatos bírósági nyilvántartásba történő bejegyzést az átvevő hegyközségnek kell kezdeményeznie.
 

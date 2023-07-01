@@ -56,7 +56,7 @@ c) a közigazgatási alapvizsgát letette, vagy közigazgatási tanulmányok sza
 
 (9) A (8) bekezdés c) pontja szerinti határidő elmulasztása esetén a hegybíró foglalkoztatási jogviszonya megszűnik.
 
-(10) A hegybírót munkájáért legalább a mindenkori minimálbér kétszeresének megfelelő díjazás illeti meg.
+(10) A hegybírót munkájáért legalább a tárgyévet megelőző évi minimálbér kétszeresét 10 százalékkal meghaladó díjazás illeti meg.
 
 (11) Egy személy a Hegyközségek Nemzeti Tanácsának főtitkára által meghatározott borszőlőültetvényt magába foglaló területen látja el a hegybírói feladatokat. A hegybíró több hegyközség működési területére is kinevezhető azzal, hogy a hegybíró részére megállapított működési területének le kell fednie az adott hegyközségek teljes működési területét (körhegybíró). A körhegybíró az egy borvidéken fekvő hegyközségek működési területére nevezhető ki. Egy hegyközség területén a hegybírói feladatok ellátására több személy is kinevezhető, akiknek működési területét a kinevezésben meg kell határozni, amely működési terület nem eshet egybe másik hegybíró működési területével.
 

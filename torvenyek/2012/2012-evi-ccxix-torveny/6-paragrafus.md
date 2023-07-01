@@ -44,7 +44,7 @@ d) közeli hozzátartozója
 
 – az a)–d) pontban meghatározottak közötti tranzakciókat nem számolva – összességében legalább fele akkora mennyiségű szőlőt vásárolt fel, mint amennyit megtermelt.
 
-(8b) A (8a) bekezdésben foglaltaknak megfelelést az ellenőrző bizottság igazolja a hegybíró adatszolgáltatása alapján.
+(8b) A (8a) bekezdésben foglaltaknak való megfelelést az ellenőrző bizottság igazolja. Ezen igazoláshoz a feldolgozott és a felvásárolt szőlő mennyiségéről a gazdasági aktát vezető hegybíró szolgáltat adatot az ellenőrző bizottság részére.
 
 (9) A határozathozatal és a tisztségviselők választásának rendjét az alapszabályban kell meghatározni.
 

@@ -18,7 +18,7 @@ kell fedezni.
 
 (4) A hegyközségi hozzájárulás alapösszegét és kiegészítő összegét minden év március 1-jéig kell megállapítani és közölni a hegyközségekkel.
 
-(5) A szakigazgatási egységbe nem sorolt településen működő szőlészeti, illetve borászati termelőnek az általa művelt szőlőültetvény területe alapján, valamint a feldolgozott bormennyiség alapján a Hegyközségek Nemzeti Tanácsa által megállapított mértékű hegyközségi járulékot kell fizetni a működése helye szerint illetékes hegyközség részére.
+(5)
 
 (6) Az (5) bekezdés szerinti hegyközségi járulék mértéke nem lehet több a szőlészeti, illetve a borászati termelők számára az adott évre megállapított hegyközségi járulék mértékének a hegyközségek területének nagyságával súlyozott országos átlagánál.
 

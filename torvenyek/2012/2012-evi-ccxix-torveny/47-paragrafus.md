@@ -28,8 +28,8 @@ c) szőlészeti és borászati felvásárló esetében a felvásárolt szőlő, 
 
 (3a) Termelői szerveződés vagy termelői szerveződés és annak tagjai kizárólagos tulajdonában lévő vállalkozás által a termelői szerveződés tagjaitól felvásárolt szőlő, must, illetve bor mennyisége után nem kell hegyközségi járulékot fizetni.
 
-(3b) A szőlészeti termelőnek nem kell hegyközségi járulékot fizetni azon megtermelt szőlőmennyiség után, amelyet borászati termelő hegyközségi tag, vagy szőlészeti és borászati felvásárló részére értékesített.
+(3b)
 
-(4) A hegyközségi járulékot a tag az adózás szempontjából költségként számolhatja el.
+(4) A hegyközségi járulékot és a szakmaközi járulékot a hegyközségi tag az adózás szempontjából költségként számolhatja el. Meg nem fizetés esetén a hegyközségi és a szakmaközi járuléktartozás – az adott hegyközségi szervezet javára – adók módjára végrehajtandó köztartozásnak minősül, amelyet az állami adó- és vámhatóság hajt be.
 
 (5) Adományt, valamint más vagyoni előnyt csak olyan személytől lehet elfogadni, aki a hegyközség tevékenységében nem érdekelt.
