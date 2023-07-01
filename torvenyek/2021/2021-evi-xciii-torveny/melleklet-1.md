@@ -4,7 +4,7 @@ A védelmi és biztonsági feladatok ellátásával összefüggésben e törvén
 
 1. Országgyűlés Hivatala,
 
-2. Köztársasági Elnöki Hivatal,
+2. Sándor-palota,
 
 3. Alkotmánybíróság Hivatala,
 
