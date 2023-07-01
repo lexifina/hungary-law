@@ -64,7 +64,7 @@ j) a horgászati és horgászturisztikai szolgáltatások értékelési, minős�
 
 (4a) A (4) bekezdés a) és b) pontja szerinti nyilvántartásban (az e § alkalmazásában a továbbiakban együtt: nyilvántartás) a horgászszövetség kezeli a nyilvántartott természetes személy (a továbbiakban: nyilvántartott személy)
 
-a) természetes személyazonosító adatait,
+a) természetes személyazonosító adatait és állampolgárságát,
 
 b) lakcímét,
 
@@ -85,6 +85,8 @@ bemutatott, a (4a) bekezdés a) pontja szerinti adat esetében személyazonosít
 (4d) A (4a) bekezdés szerinti személyes adat – törvény eltérő rendelkezése hiányában – más szerv vagy személy részére nem továbbítható, és azt a horgászszövetség a nyilvántartott személynek a nyilvántartásból való törlését követő ötödik év végéig zártan kezeli.
 
 (4e) A nyilvántartott személy a (4a) bekezdés a)–c) pontjában meghatározott adatokban történt változást haladéktalanul, de legkésőbb az adatváltozás bekövetkezésétől számított 30 napon belül bejelenti a horgászszövetségnek azzal, hogy a (4a) bekezdés a) és b) pontja szerinti adatokban bekövetkezett változás bejelentése tekintetében a (4b) bekezdést alkalmazni kell.
+
+(4f) A horgászszövetség a nyilvántartása vezetéséhez az elhalálozás tényének és idejének, valamint a (4a) bekezdés a) és b) pontja szerinti személyes adatok rögzítésének és változáskövetésének ellenőrzéséhez a személyiadat- és lakcímnyilvántartásból adatot igényelhet.
 
 (5) A horgászszövetség a (2)–(3) bekezdésben meghatározott feladatokat az adott állami, vagy a többségi állami tulajdonú vízterületek vonatkozásában és – az e törvényben meghatározott kivételekkel – a halgazdálkodásra jogosultnak, illetve a haltermelési létesítmény üzemeltetőjének hozzájárulása alapján végezheti.
 

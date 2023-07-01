@@ -12,6 +12,8 @@ e) a 9. § (2) bekezdés szerinti intézkedés,
 
 f) a 10. § (1) és (3) bekezdése szerinti intézkedés.
 
+g) halgazdálkodási vízterületről más halgazdálkodási vízterületre történő nem jogszerű haltelepítést követően az érintett halállományból az őshonos halfajok egyedeinek lehalászása és a származási helyre vagy más, a származási hely halgazdálkodásra jogosultja által hasznosított halgazdálkodási vízterületre történő áttelepítése.
+
 (2) Az (1) bekezdés a), c), e) és f) pontja szerinti eljárás a halgazdálkodásra jogosult kérelmére is lefolytatható.
 
 (3) Az élőhely- és állományvédelmi intézkedések halgazdálkodással kapcsolatos költségeit a halgazdálkodásra jogosult köteles viselni.

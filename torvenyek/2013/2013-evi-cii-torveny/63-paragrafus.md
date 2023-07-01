@@ -40,7 +40,7 @@ i) a halgazdálkodás hatósági, igazgatási, ellenőrzési és állami halőrz
 
 j) halgazdálkodási tárgyú tankönyv-, szakkönyv- és folyóirat-kiadás támogatása,
 
-k)
+k) halgazdálkodást érintő közhasznú tevékenységek támogatása,
 
 l)
 

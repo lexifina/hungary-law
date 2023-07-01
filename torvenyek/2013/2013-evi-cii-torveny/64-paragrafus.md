@@ -5,3 +5,5 @@
 (1a) A 65. §-ban meghatározott korlátozás és felfüggesztés a szabályszerű tevékenység visszaállítása érdekében szükséges kötelezettségek teljesítéséig terjedő, míg az eltiltás öt év időtartamra rendelhető el.
 
 (2) Az (1) bekezdés szerinti jogkövetkezmény alkalmazásának nincs helye, ha a cselekménynek a halgazdálkodási hatóság tudomására jutásától számított egy év, illetve a cselekmény elkövetésétől számított három év eltelt. A határidő számításakor a jogorvoslati eljárás időtartamát nem kell figyelembe venni.
+
+(3) A halgazdálkodási hatóság az állami horgászjegy, turista állami horgászjegy, állami halászjegy, halászati engedély visszavonásának dátumát, valamint az annak váltásától való eltiltás időtartamát a 42. § (1) bekezdése szerinti nyilvántartásba haladéktalanul bejegyzi.

@@ -28,3 +28,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-102-00-00
 | 2021-01-01 | 2020. évi CLXXIV. törvény | 2013-102-00-00.21 |
 | 2021-02-01 | 2020. évi CLXXIV. törvény | 2013-102-00-00.22 |
 | 2022-01-01 | 2021. évi CL. törvény | 2013-102-00-00.23 |
+| 2023-07-01 | 2023. évi XLIV. törvény | 2013-102-00-00.24 |

@@ -46,7 +46,7 @@ v) a 21. § (1a) bekezdésében meghatározott tilalmat megszegő
 
 személlyel szemben.
 
-(1a) A halgazdálkodási hatóság országos illetékességű szerve alkalmazásában álló állami halászati őr az (1) bekezdés szerinti halvédelmi bírság helyszíni bírságként történő kiszabására jogosult.
+(1a) A halgazdálkodási hatóság országos illetékességű szerve alkalmazásában álló állami halőr az (1) bekezdés szerinti halvédelmi bírság helyszíni bírságként történő kiszabására jogosult.
 
 (1b) A halgazdálkodási hatóság halvédelmi bírságot szab ki azzal a személlyel szemben, aki az idegen és nem honos fajokat haltermelési létesítménybe engedély nélkül telepít.
 

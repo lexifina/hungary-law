@@ -2,7 +2,13 @@
 
 (1a) Tilos nyilvántartott halgazdálkodási vízterületen vagy annak egy részén más vízterületből származó hal tárolása.
 
-(2) Az (1) bekezdés szerinti haltermelés esetén a telepített hal tulajdonjoga, kifogása és forgalomba hozatala tekintetében – a horgászat kivételével – az adott halgazdálkodási vízterület vagy annak része haltermelési létesítménynek minősül.
+(2) Az (1) bekezdés szerinti haltermelés esetén
+
+a) a telepített hal tulajdonjoga, kifogása és forgalomba hozatala – a horgászat kivételével –, valamint
+
+b) a halőrzés
+
+tekintetében az adott halgazdálkodási vízterület vagy annak része haltermelési létesítménynek minősül.
 
 (3) A haltermelési létesítményben tartott halállományok a termelési folyamat ideje alatt az üzemeltető tulajdonát képezik.
 

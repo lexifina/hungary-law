@@ -12,7 +12,7 @@ a) csőd- vagy felszámolási eljárás, végelszámolás, önkormányzati adós
 
 b) tevékenységét felfüggesztette vagy akinek tevékenységét felfüggesztették,
 
-c) az adózás rendjéről szóló 2003. évi XCII. törvény 178. § 20. pontja szerinti, 60 napnál régebben lejárt esedékességű köztartozással rendelkezik, vagy
+c) az adózás rendjéről szóló 2017. évi CL. törvény 7. § 34. pontja szerinti, 60 napnál régebben lejárt esedékességű köztartozással rendelkezik, vagy
 
 d) állami vagyon hasznosítására irányuló korábbi – három évnél nem régebben lezárult – eljárásban hamis adatot szolgáltatott.
 

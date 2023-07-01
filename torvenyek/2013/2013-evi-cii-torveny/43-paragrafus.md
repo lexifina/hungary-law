@@ -1,6 +1,6 @@
 43. § (1) Halászati engedély, állami halászjegy, állami horgászjegy, turista állami horgászjegy nem adható annak a személynek – a halgazdálkodási hatóság bírságot kiszabó határozatában megállapított eltiltás időtartamára –, akivel szemben halvédelmi bírságot szabtak ki. A halgazdálkodási hatóság által megállapított eltiltás lejártát követően halászati engedély, állami halászjegy, állami horgászjegy, turista állami horgászjegy csak akkor adható ki, amennyiben az igénylő a halvédelmi bírságot megfizette.
 
-(2) A halászati engedélyt, az állami horgászjegyet, turista állami horgászjegyet, az állami halászjegyet a halgazdálkodási hatóság visszavonja attól a személytől
+(2) A halászati engedélyt, az állami horgászjegyet, turista állami horgászjegyet, az állami halászjegyet a halgazdálkodási hatóság véglegesen visszavonja attól a személytől
 
 a) aki ezen okmányát a helyszíni ellenőrzéskor nem tudja felmutatni és mulasztását a halgazdálkodási hatóságnál a helyszíni ellenőrzést követő 10 napon belül nem pótolja,
 

@@ -18,13 +18,13 @@
 
 (5) A hivatásos halőr működési területét a megbízó határozza meg, amelyet köteles a halgazdálkodási hatóság felé bejelenteni. A hivatásos halőr jogosult a működési területén kívüli nem nyilvántartott halgazdálkodási vízterületen is eljárni.
 
-(6) Állami halőr
+(6) Állami halőr az e törvényben foglalt hivatásos halőr intézkedési jogosultságaival rendelkező olyan személy, aki
 
-a) feladat- és hatáskörében országos illetékességgel eljárhat,
+a) feladat- és hatáskörében országos illetékességgel eljárhat, és
 
-b) a hal származását bármely természetes vagy jogi személynél – beleértve a hal forgalmazásával, fuvarozásával, étkezési célú feldolgozásával és értékesítésével foglalkozókat is – ellenőrizheti, valamint a tevékenység végzésének helyére beléphet, és
+b) a hal származását bármely természetes vagy jogi személynél – beleértve a hal forgalmazásával, fuvarozásával, étkezési célú feldolgozásával és értékesítésével foglalkozókat is – ellenőrizheti, valamint a tevékenység végzésének helyére beléphet.
 
-c) feladatteljesítése során az árvízvédelmi töltést – beleértve a forgalomtól elzárt területeket is – engedély nélkül használhatja.
+c)
 
 (7) Az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény szerint alkalmazott hivatásos halőr az ott meghatározott intézkedések és kényszerítő eszközök alkalmazásán túl a halgazdálkodási vízterületen és annak partján jogosult:
 

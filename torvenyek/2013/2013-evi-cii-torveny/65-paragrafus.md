@@ -10,8 +10,10 @@ d) az újbóli engedélyezést vagy nyilvántartásba vételt oktatáson való r
 
 e) haltermék előállítását, tárolását, szállítását, felhasználását, forgalomba hozatalát, behozatalát, kivitelét, illetékességi területén való átszállítását feltételhez kötheti, korlátozhatja, felfüggesztheti, megtilthatja;
 
-f) elrendelheti a halállomány, haltermék lefoglalását, zár alá vételét, forgalomból való kivonását, visszahívását, ártalmatlanítását, megsemmisítését;
+f) elrendelheti a haltermék, halállomány, halfaj egyedének lefoglalását, zár alá vételét, forgalomból való kivonását, visszahívását, ártalmatlanítását, megsemmisítését;
 
 g) megtilthatja gépek, eszközök használatát;
 
 h) halfogásra alkalmas vagy halfogási célt szolgáló eszközt lefoglalhat, zár alá vehet, elkobozhat, elrendelheti a tulajdonos költségére történő megsemmisítését.
+
+i) halgazdálkodási vízterületről kifogott és más halgazdálkodási vízterületre vagy haltermelési létesítménybe jogosulatlanul áttelepített hal eredeti élőhelyére történő visszahelyezésének elrendelése.

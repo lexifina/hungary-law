@@ -4,6 +4,8 @@
 
 (2) Ha a halgazdálkodási terv jóváhagyását követően a halállomány vagy a hal élőhelyének állapotában bekövetkezett jelentős változás miatt szükséges, a halgazdálkodási hatóság a halgazdálkodásra jogosult által benyújtott halgazdálkodási terv módosítását jóváhagyja, vagy a halgazdálkodási tervet hivatalból módosítja.
 
+(2a) A halgazdálkodási terv évenkénti haltelepítés tervezett minimális mennyiségére vonatkozó adatok tekintetében a halgazdálkodási terv módosításában foglaltakat igazolt elháríthatatlan külső ok esetén az érintett évekre vonatkozóan úgy kell alkalmazni, hogy az évenkénti módosítás a halgazdálkodási terv teljes időszakára előírt mennyiséget is azonos mértékben módosítja.
+
 (3) A halgazdálkodási terv tartalmazza
 
 a) a nyilvántartott halgazdálkodási vízterület azonosító adatait, a halgazdálkodásra jogosult nevét, lakcímét vagy székhelyét,
