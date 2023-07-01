@@ -6,9 +6,11 @@ Fogalommeghatározások
 
 E törvény alkalmazásában:
 
-1. alaptermék: az élelmiszer-higiéniáról szóló, az Európai Bizottság és a Tanács 2004. április 29-i 852/2004/EK rendelete (a továbbiakban: 852/2004/EK rendelet) 2. cikkének b) pontja szerinti fogalom;
+1. adatelemzés: a nemzeti adatvagyonról szóló 2021. évi XCI. törvény 2. § c) pontjában meghatározott adatelemzés;
 
-1/A. állatbetegség: a fertőző állatbetegségekről és egyes állategészségügyi jogi aktusok módosításáról és hatályon kívül helyezéséről szóló, 2016. március 9-i (EU) 2016/429 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2016/429 európai parlamenti és tanácsi rendelet] 4. cikk 16. pontjában meghatározott betegség;
+1/A. alaptermék: az élelmiszer-higiéniáról szóló, 2004. április 29-i 852/2004/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 852/2004/EK rendelet) 2. cikk (1) bekezdés b) pontja szerinti fogalom;
+
+## 1/B. állatbetegség: a fertőző állatbetegségekről és egyes állategészségügyi jogi aktusok módosításáról és hatályon kívül helyezéséről szóló, 2016. március 9-i (EU) 2016/429 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2016/429 európai parlamenti és tanácsi rendelet] 4. cikk 16. pontjában meghatározott betegség;
 
 2. állat-egészségügy: az állattartással, az állatok tenyésztésével, szaporításával, levágásával, állatok etetésére szánt takarmány szállításával és forgalomba hozatalával összefüggő járványügyi, gyógyászati, állathigiéniai, állatvédelmi, szaporodásbiológiai és takarmányhigiéniai feladatok, állati eredetű élelmiszerrel, állati eredetű szaporító anyaggal, állati eredetű melléktermékkel, a zoonózisokkal és állatgyógyászati termékekkel kapcsolatos járványügyi és higiéniai feladatok, valamint az ezekkel kapcsolatos igazgatás, irányítás, szervezés, ellenőrzés, eszközellátás, továbbá az e feladatokkal összefüggő kutatást, képzést is magában foglaló tevékenységek összessége;
 
@@ -75,6 +77,10 @@ E törvény alkalmazásában:
 22/A. ellenőrzési rendszer: az (EU) 2017/625 európai parlamenti és tanácsi rendelet 3. cikk 7. pontja szerinti fogalom;
 
 22/B. ellenőrzési terv: az (EU) 2017/625 európai parlamenti és tanácsi rendelet 3. cikk 8. pontja szerinti fogalom;
+
+## 22/C. első magyarországi forgalomba hozó: az a magyarországi székhellyel, fiókteleppel vagy lakcímmel rendelkező élelmiszerlánc-szereplő, amely valamely terméket, élelmiszerrel rendeltetésszerűen érintkezésbe kerülő anyagot, tárgyat Magyarországon más élelmiszerlánc-szereplő, illetve végső fogyasztó részére elsőként forgalomba hoz. Végső fogyasztó részére történő első magyarországi forgalomba hozatal esetében a nem hazai élelmiszerlánc-szereplő is első magyarországi forgalomba hozónak minősül;
+
+## 22/D. első magyarországi forgalomba hozatal: bármely termék, élelmiszerrel rendeltetésszerűen érintkezésbe kerülő anyag, tárgy Magyarországon elsőként készentartása eladás céljára, beleértve annak eladásra való felkínálását, ingyenes vagy ellenérték fejében történő átadásának bármely egyéb formáját, valamint eladását, forgalmazását vagy átadásának egyéb módját;
 
 23. elsődleges termelés: a 178/2002/EK rendelet 3. cikk 17. pontja szerinti meghatározás,
 
@@ -172,7 +178,7 @@ hoznak;
 
 51. növényvédőszer-hatóanyag: 1107/2009/EK rendelet 2. cikk 2. bekezdése szerinti fogalom;
 
-52. nyomon követhetőség: a 178/2002/EK rendelet 3. cikkének 15. pontja szerinti fogalom;
+52. nyomonkövethetőség: a 178/2002/EK rendelet 3. cikkének 15. pontja szerinti fogalom;
 
 53. ökológiai termelés: az Öko EK rendelet 3. cikkének a) 1. pontjában meghatározott fogalom szerinti tevékenység;
 
@@ -196,7 +202,7 @@ hoznak;
 
 62. takarmányok nemkívánatos anyagai: bármely olyan anyag vagy termék – a kórokozók kivételével –, amely jelen van a takarmányozásra szánt termékben, illetve annak felületén, és amely az állati vagy az emberi egészségre, illetve a környezetre veszélyt jelenthet, vagy az állat termelőképességére káros hatást fejthet ki;
 
-63. termelő: aki növényt termeszt, növényt, növényi terméket hasznosít (beleértve a legeltetést is), feldolgoz, forgalomba hoz, tárol, szállít vagy felhasznál;
+63. termelő: aki növényt, gombát termeszt, növényt, növényi terméket hasznosít (beleértve a legeltetést is), feldolgoz, forgalomba hoz, tárol, szállít vagy felhasznál;
 
 64. termésnövelő anyag: a növények tápanyagellátását szolgáló vagy a talajok tápanyag-szolgáltató képességét, termőképességét befolyásoló (kivéve a víz, a szén-dioxid és az adalékanyag nélküli, kezeletlen istállótrágya), természetes eredetű vagy fizikai, kémiai, biológiai, illetve egyéb mesterséges úton előállított anyagok, valamint ezek kereskedelmi céllal összeállított kombinációja;
 
@@ -211,6 +217,8 @@ hoznak;
 68/A. veszély: az (EU) 2017/625 európai parlamenti és tanácsi rendelet 3. cikk 23. pontja szerinti fogalom;
 
 69. védett zóna: az Európai Unió olyan területe, amely a 2016/2031 európai parlamenti és tanácsi rendelet 32. cikkében foglaltak szerint védett zónaként elismerést kapott;
+
+## 69/A. védőtávolság: állattartó létesítmények között előírt legkisebb távolság;
 
 70. végső fogyasztó: a 178/2002/EK európai parlamenti és tanácsi rendelet 3. cikkének 18. pontjában meghatározott fogalom;
 

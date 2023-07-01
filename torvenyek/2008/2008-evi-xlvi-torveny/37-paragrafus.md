@@ -26,7 +26,7 @@ f) a termelő, illetve földhasználó növényvédelmi kötelezettségének tel
 
 g) a növény-egészségügyi szempontból nyilvántartott termelőknél a nyilvántartási feltételek megtartását;
 
-h) a zöldséget, gyümölcsöt, és az előállításukkal, forgalomba hozatalukkal kapcsolatos követelmények betartását;
+h) a zöldséget, gombát, gyümölcsöt, és az előállításukkal, forgalomba hozatalukkal kapcsolatos követelmények betartását;
 
 i) a növényvédelmi gépek alkalmasságát igazoló forgalomba hozatali engedély, valamint a kijuttatástechnikai alkalmasságát igazoló működési engedély érvényességét;
 

@@ -8,13 +8,13 @@ c) az ellenőrzés tárgyát képező vagy azzal kapcsolatos iratokat, dokument�
 
 d) eljárása dokumentálására a helyszínen kép-, illetve hangfelvételt készíteni;
 
-e) eljárásához szükséges vizsgálatok elvégzése céljából térítésmentesen mintát venni;
+e) eljárásához szükséges vizsgálatok elvégzése céljából térítésmentesen mintát és ellenmintát venni;
 
-f) hatósági mintavétel esetén az ügyfél kérésére – az e törvény végrehajtására kiadott jogszabályban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusaiban meghatározott feltételek figyelembevételével – ellenmintát venni;
+f)
 
 g) élelmiszerlánc-esemény alapos gyanúja esetén továbbá élelmiszerlánc-esemény elhárítása, illetve a felügyeleti díj bevallási és fizetési kötelezettség ellenőrzése érdekében a lezárt terület, épület, helyiség felnyitásával, az ott tartózkodó személyek akarata ellenére, illetve a jogosult távollétében is a lezárt ingatlanok területére, üzlethelyiségbe, üzemi helyiségbe belépni és ott az ellenőrzést lefolytatni akkor is, ha azok egyidejűleg lakás céljára szolgálnak, továbbá szállítóeszközöket, dokumentációt, számviteli bizonylatokat ellenőrizni.
 
-(1a) Az e törvény felhatalmazása alapján kiadott rendelet által az ÉBC hatáskörébe utalt hatósági feladatok végzése során az ÉBC helyszíni ellenőrzésre feljogosított, megfelelő szakképzettséggel rendelkező munkavállalója jogosult az (1) bekezdés a)–f) pontjában meghatározott cselekmények végzésére.
+(1a) Az átruházott feladatok ellátására jogosult élelmiszerlánc-felügyelő az e törvény végrehajtására kiadott jogszabályban meghatározott feladatok végzése során, valamint az ÉBC által megbízott, átruházott feladatok ellátására jogosult élelmiszerlánc-felügyelő, továbbá az ÉBC helyszíni ellenőrzésre feljogosított, megfelelő szakképzettséggel rendelkező munkavállalója az ÉBC hatáskörébe utalt hatósági feladatok végzése során jogosult az (1) bekezdés a)–e) pontjában meghatározott cselekmények végzésére
 
 (1b) Az élelmiszer-rendész az (1) bekezdésben meghatározott cselekményeken túl jogosult a Rendészeti tv. 15–19. §-a szerinti intézkedések foganatosítására.
 
@@ -31,6 +31,10 @@ g) élelmiszerlánc-esemény alapos gyanúja esetén továbbá élelmiszerlánc-
 (6) Próbavásárlás esetén az élelmiszerlánc-felügyeleti szerv az ellenőrzési jogosultságát a próbavásárlás befejezésekor igazolja, amellyel egyidejűleg a forgalmazó képviseletében eljáró személy köteles a vételárat visszatéríteni. A további forgalmazásra alkalmatlan terméket az élelmiszerlánc-felügyeleti szerv nem szolgáltatja vissza.
 
 (6a) Távértékesítés keretében történő próbavásárlás esetében a (6) bekezdésben foglaltaktól eltérően az élelmiszerlánc-felügyeleti szerv az ellenőrzési jogosultságát a próbavásárlás befejezését követően, a próbavásárlásról készült jegyzőkönyv egy példányának megküldésével egyidejűleg igazolja. Az ügyfél köteles az eljárásához szükséges vizsgálatok elvégzése céljából a mintát térítésmentesen biztosítani, és az élelmiszerlánc-felügyeleti szerv részére a próbavásárlásról készült jegyzőkönyv kézhezvételét követő 15 napon belül a vételárat visszatéríteni. Amennyiben a termék-átadás helyszínén van fizetési lehetőség, abban az esetben a termék átadója köteles a mintát térítésmentesen biztosítani, az élelmiszerlánc-felügyeleti szerv az ellenőrzési jogosultságát a próbavásárlásról készült jegyzőkönyv egy példányának átadásával egyidejűleg igazolja. A további forgalmazásra alkalmatlan terméket az élelmiszerlánc-felügyeleti szerv nem szolgáltatja vissza.
+
+(6b) Távértékesítés keretében történő próbavásárlás során a leadott rendelés nem valós megrendelői adatokat is tartalmazhat.
+
+(6c) A 44/B. §-ban foglaltakat a távértékesítés keretében történő próbavásárlás esetében is alkalmazni kell az e törvény végrehajtására kiadott rendeletben meghatározottak szerint.
 
 (7) A próbavásárlás során szerzett adatok a feltárt jogsértés miatt indított hatósági eljárást megalapozó bizonyítási eszközül szolgálnak.
 

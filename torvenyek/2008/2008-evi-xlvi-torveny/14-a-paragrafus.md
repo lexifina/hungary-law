@@ -26,7 +26,7 @@ gazdasági előny vagy haszonszerzés céljából.
 
 (4) Tilos olyan
 
-a) élelmiszer előállítása, illetve forgalomba hozatala, amelyet a rá vonatkozó előírásokban, engedélyekben vagy a gyártmánylapban meghatározott minőségi előírásoknak nem megfelelően állítottak elő,
+a) élelmiszer előállítása, illetve forgalomba hozatala, amelyet a rá vonatkozó előírásokban, engedélyekben, a gyártmánylapban vagy egyéb gyártási dokumentumban meghatározott minőségi vagy jelölési előírásoknak meg nem felelő módon állítottak elő,
 
 b) élelmiszer előállítása, illetve forgalomba hozatala, amelyet részben vagy egészben lejárt minőségmegőrzési, illetve fogyaszthatósági idejű anyagokból állítottak elő,
 

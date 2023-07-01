@@ -2,7 +2,7 @@
 
 a) a talaj- és agrárkörnyezet-védelem élelmiszer-biztonsággal kapcsolatos feladatait, valamint a növényvédelmi feladatokat,
 
-b) a zöldség- és gyümölcs-ellenőrzési feladatokat,
+b) a zöldség-, gomba- és gyümölcsellenőrzési feladatokat,
 
 c) a takarmány-ellenőrzési feladatokat,
 

@@ -14,7 +14,7 @@ c) az élelmiszerláncban felhasználásra szánt fertőtlenítőszereket előá
 
 (3) Élelmiszer-biztonsági feladatainak keretében az élelmiszerlánc-felügyeleti szerv ellenőrzi
 
-a) az élelmiszer-vállalkozások tevékenységét;
+a) az élelmiszerlánc-szereplők tevékenységét;
 
 b) az élelmiszer-előállító, -elosztó, és -forgalomba hozó létesítmény harmadik országba irányuló exportra való alkalmasságát a nemzetközi előírásoknak megfelelően;
 

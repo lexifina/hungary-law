@@ -36,7 +36,7 @@
 
 18. a tanúsító szervezetekről;
 
-19. a gombaszakellenőrökről;
+19. a gombaszakellenőrökről, a 853/2004/EK európai parlamenti és tanácsi rendelet III. melléklet IV. szakasz I. fejezet 2. pontja szerinti képzett személynek minősülő személyekről (a továbbiakban: vadhúsvizsgáló) és a hatósági állatorvos méhegészségüggyel kapcsolatos munkáját segítő, e törvény végrehajtására kiadott rendeletben meghatározott méhészeti ismeretekkel rendelkező személyekről (a továbbiakban: méhegészségügyi felelős);
 
 20. élelmiszerlánc-felügyeleti díj bevallására, illetve fizetésére kötelezettekről;
 
@@ -74,15 +74,19 @@ h) vágóhídi segédszemélyzetről;
 
 29. minősített vendéglátóipari és közétkeztetést végző létesítményekről.
 
+30. az átruházott feladatok ellátására jogosult élelmiszerlánc-felügyelőkről,
+
+31. a vadbegyűjtő és a mobil vadfeldolgozó létesítményekről.
+
 (2) Az (1) bekezdésben megjelölt nyilvántartás tartalmazza
 
 a) a mezőgazdasági és vidékfejlesztési támogatási szerv által kiadott ügyfél-azonosító számot,
 
 b) a nyilvántartásba vétel alapjául szolgáló hatósági engedély, bizonyítvány, határozat számát,
 
-c) természetes személyek esetén a természetes személyazonosító adatokat, lakcímet, telephelyet, elérhetőséget, adóazonosító jelét, egyéni vállalkozó természetes személy esetén a székhelyet és adószámot, őstermelő természetes személy esetén az adószámot is,
+c) természetes személyek esetén a természetes személyazonosító adatokat, lakcímet, telephelyet, elérhetőséget, adóazonosító jelét, egyéni vállalkozó természetes személy esetén a székhelyet, főtevékenységet a mindenkor hatályos Önálló Vállalkozók Tevékenységi Jegyzéke (a továbbiakban: ÖVTJ) nómenklatúra szerinti megjelöléssel és adószámot, őstermelő természetes személy esetén az adószámot is,
 
-d) jogi személy, valamint jogi személyiséggel nem rendelkező szervezet esetén a (cég)nevet, adóazonosító számot, székhelyet, telephelyet, statisztikai számjelet, elérhetőséget.
+d) jogi személy, valamint jogi személyiséggel nem rendelkező szervezet esetén a (cég)nevet, adószámot, főtevékenységet a mindenkor hatályos gazdasági tevékenységek egységes ágazati osztályozási rendszere (a továbbiakban: TEÁOR) nómenklatúra szerinti megjelöléssel, székhelyet, telephelyet, statisztikai számjelet, elérhetőséget.
 
 (2a) Az (1) bekezdés 3.,12.,13.,14.,15.,17.,18. és 27–29. pontja szerinti nyilvántartás a (2) bekezdés b) pontjában szereplő adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
 

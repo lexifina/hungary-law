@@ -22,4 +22,4 @@ esetén.
 
 (3) Ha a (2) bekezdés szerinti felelős kilétét nem lehet megállapítani, a bírságot azzal szemben kell kiszabni, akinél a jogsértést megalapozó élelmiszert az élelmiszerlánc-felügyeleti szerv megtalálta.
 
-(4) A zöldség-gyümölcs ellenőrzés során a bírságot a termék birtokosával – ide nem értve a végső fogyasztót – szemben kell kiszabni.
+(4) A zöldség, gomba és gyümölcs ellenőrzés során a bírságot a termék birtokosával – ide nem értve a végső fogyasztót – szemben kell kiszabni.

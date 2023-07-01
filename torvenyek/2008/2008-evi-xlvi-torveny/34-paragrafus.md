@@ -14,7 +14,7 @@ f) az állatok jelölésére szolgáló transzponder forgalomba hozatalát;
 
 g) az állatgyógyászati termékek üzemi méretű előállítását, egyes állatgyógyászati termékek gyakorlati kipróbálását;
 
-h) egyes állatgyógyászati termékek első forgalomba hozatalát, országba történő behozatalát; valamint
+h) egyes állatgyógyászati termékek első forgalomba hozatalát, országba történő behozatalát;
 
 i) az állatgyógyászati termékekkel végzett forgalomba hozatali tevékenységet;
 

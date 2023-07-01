@@ -10,11 +10,11 @@ d) az élelmiszerlánc-felügyeleti szerv,
 
 e) az országos főállatorvos.
 
-(2) Az élelmiszerlánc-felügyeleti szerv egyes állami feladatainak megbízási jogviszony keretében történő elvégzésére kormányrendelet feljogosíthatja a szolgáltató állatorvost.
+(2) Az élelmiszerlánc-felügyeleti szerv egyes állami feladatainak megbízási jogviszony keretében történő elvégzésére az (EU) 2017/625 európai parlamenti és tanácsi rendeletben, valamint az e törvény végrehajtására kiadott jogszabályban meghatározott esetekben és feltételekkel, feljogosíthat természetes személyt vagy szervezetet. A feladatok ellátását olyan természetes személy vagy a megbízott szervezet személyesen közreműködő tagja végezheti, aki megfelelő képesítéssel és szakértelemmel rendelkezik (a továbbiakban: átruházott feladatok ellátására jogosult élelmiszerlánc-felügyelő).
 
-(3) Ha az állami feladatok elvégzésére feljogosított szolgáltató állatorvos, növényorvos, valamint a segédszemélyzet az élelmiszerlánc-felügyeleti szerv nevében állami feladatokat lát el, akkor az általános közigazgatási rendtartásról szóló törvény szabályainak alkalmazásával jár el, továbbá ezen tevékenységéért az e törvény végrehajtására kiadott jogszabályban foglaltak szerint díjazás illeti meg.
+(3) Ha az átruházott feladatok ellátására jogosult élelmiszerlánc-felügyelő az élelmiszerlánc-felügyeleti szerv nevében állami feladatokat lát el, akkor az általános közigazgatási rendtartásról szóló törvény szabályainak alkalmazásával jár el.
 
-(4) Az állami feladatok elvégzésére feljogosított szolgáltató állatorvos, növényorvos, valamint a segédszemélyzet a feladatkörébe tartozó eljárásokért köteles az e törvény végrehajtására kiadott jogszabályban előírt igazgatási szolgáltatási díjat beszedni, és a jogszabályban meghatározott befizetési határidőben az élelmiszerlánc-felügyeleti szerv számlájára befizetni.
+(4) Az átruházott feladatok ellátására jogosult élelmiszerlánc-felügyelő a feladatkörébe tartozó eljárásokért köteles az e törvény végrehajtására kiadott jogszabályban előírt igazgatási szolgáltatási díjat beszedni, és azt a jogszabályban meghatározott határidőben az élelmiszerlánc-felügyeleti szerv számlájára befizetni.
 
 (5) A 10/A. § szerinti tanúsítványt és az integrált gazdálkodási tanúsítványt az élelmiszerlánc-felügyeleti szerv által – az e törvény végrehajtására kiadott jogszabály szerint – elismert tanúsító szervezet (a továbbiakban: tanúsító szervezet), vagy tanúsító szervezet hiányában az élelmiszerlánc-felügyeleti szerv adja ki.
 

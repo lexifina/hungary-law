@@ -30,4 +30,6 @@ la) járványos állat- vagy növénybetegség megjelenése, valamint
 
 lb) nagy egészségügyi kockázattal járó, nagy gazdasági kárral fenyegető, több vármegye területét érintő vagy Magyarország területén kívüli hatással is bíró élelmiszerlánc-esemény
 
+m) rendkívüli élelmiszerlánc-esemény esetén meghatározza az állattartó létesítmények közötti védőtávolságot.
+
 esetén.

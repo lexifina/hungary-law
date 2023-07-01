@@ -6,7 +6,7 @@
 
 (3)
 
-(4) Ha törvény vagy kormányrendelet valamely közigazgatási hatósági feladat ellátására az ÉBC-t jelöli ki, az eljárásában ügyintéző, illetve döntéshozó csak olyan személy lehet, aki a kormányzati igazgatásról szóló törvény alapján kormánytisztviselőnek kinevezhető lenne. A döntéshozóra és az ügyintézőre a kormányzati igazgatásról szóló törvény összeférhetetlenségi szabályait kell alkalmazni.
+(4) Ha törvény vagy kormányrendelet valamely közigazgatási hatósági feladat ellátására az ÉBC-t jelöli ki, az ÉBC eljárásában ügyintéző, illetve döntéshozó csak olyan személy lehet, aki a kormányzati igazgatásról szóló törvény alapján kormánytisztviselőnek kinevezhető lenne. A döntéshozóra és az ügyintézőre a kormányzati igazgatásról szóló törvény összeférhetetlenségi szabályait kell alkalmazni.
 
 (5) Az ÉBC közhatalmi feladatként az élelmiszerlánc-felügyeleti feladatok ellátása érdekében:
 
@@ -19,6 +19,8 @@ c) a hatósági feladatok ellátását támogató, kisegítő tevékenységet v�
 d) részt vesz az állami laboratóriumok és a laboratóriumi hálózat működtetésében, valamint kísérleti vizsgálatok végzésében;
 
 e) közreműködik az élelmiszerláncot érintő nemzeti és uniós minőségrendszerekkel kapcsolatos feladatok ellátásában.
+
+f) ellátja az (EU) 2017/625 európai parlamenti és tanácsi rendelet alapján az átruházott hatósági feladatokkal kapcsolatos részletes szabályokról szóló kormányrendeletben meghatározott feladatokat.
 
 (6) Az élelmiszerlánc-felügyeleti szerv az ÉBC-vel az élelmiszerlánc-felügyeleti feladatokkal kapcsolatos közreműködés érdekében megállapodást köthet, amelyben rendelkezik egyúttal a pénzügyi fedezet biztosításáról, a szakmai teljesítés és az elszámolás rendjéről, illetve a feladatellátáshoz eszközöket biztosíthat.
 

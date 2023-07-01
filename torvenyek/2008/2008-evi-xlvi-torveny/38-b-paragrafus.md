@@ -14,9 +14,11 @@ az élelmiszerlánc-felügyeleti szervhez nyilvántartásba vétel céljából b
 
 (3) Az élelmiszerlánc-felügyeleti szerv által megállapított FELIR azonosítóval kell rendelkeznie
 
-a) a 38. § szerint nyilvántartott állatorvosnak és növényorvosnak, valamint a segédszemélyzetnek tevékenysége végzéséhez, és
+a) a 38. § szerint nyilvántartott állatorvosnak és növényorvosnak, valamint a segédszemélyzetnek tevékenysége végzéséhez,
 
 b) az e törvény végrehajtására kiadott kormányrendeletben meghatározott tevékenységet végzőnek.
+
+c) a 38/A. § (3a) bekezdése szerinti nyilvántartásban szereplő erdőgazdálkodónak és erdészeti szakszemélyzetnek tevékenységük végzéséhez.
 
 (4) Az élelmiszerlánc-felügyeleti szerv a 38/A. § (8a) bekezdése alapján a mezőgazdasági és vidékfejlesztési támogatási szervhez az adott évben egységes kérelmet benyújtó ügyfél részére FELIR azonosítót állapít meg, ha az ügyfél azzal az egységes kérelem benyújtásakor nem rendelkezik. A FELIR azonosító megállapításáról az élelmiszerlánc-felügyeleti szerv értesíti az ügyfelet.
 

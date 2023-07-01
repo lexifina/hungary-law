@@ -28,7 +28,7 @@ l) élelmiszert emberi fogyasztásra alkalmatlannak minősíthet;
 
 m) takarmányt etetésre alkalmatlannak nyilváníthat, új takarmány eseti engedélyét felfüggesztheti, újabb feltételhez kötheti, módosíthatja, illetve visszavonhatja;
 
-n) engedélyköteles tevékenység végzésére vonatkozó engedélyt módosíthat, visszavonhat;
+n) engedélyköteles tevékenység végzésére vonatkozó engedélyt módosíthat, az e törvény végrehajtására kiadott rendeletben meghatározott esetekben legfeljebb két évre visszavonhat, az engedély visszaszerzését feltételhez kötheti;
 
 o) növény-egészségügyi zárlatot és járványügyi intézkedést rendelhet el;
 

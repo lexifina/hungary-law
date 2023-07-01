@@ -22,7 +22,7 @@ c) határozza meg a Magyar Élelmiszerkönyv, a Magyar Takarmánykódex, az Áll
 
 d) határozza meg az e törvény hatálya alá tartozó bírságok kiszámításának módját és mértékét;
 
-e) állapítsa meg az állami feladatok végzésére feljogosított szolgáltató állatorvos, a növényorvos, valamint a segédszemélyzet jogállását, feladat- és hatáskörét;
+e) állapítsa meg az átruházott feladatok ellátására jogosult élelmiszerlánc-felügyelő feladat- és hatáskörét;
 
 f) határozza meg az állami, illetve a közérdekű védekezés költségei megállapításának és a költségvetési törvényben meghatározott előirányzatból való igénylésének részletes szabályait;
 
@@ -50,7 +50,7 @@ o) állapítsa meg az élelmiszermentéssel kapcsolatos részletes szabályokat.
 
 3. az élelmiszerlánc területén alkalmazható intézkedések részletes szabályait;
 
-4. a kártalanítás összegének megállapítására és a kártalanítási eljárásra vonatkozó részletes szabályokat;
+4. a kártalanítás összegének megállapítására, a kártalanítási eljárásra és a kártalanításból való kizárásra vonatkozó részletes szabályokat;
 
 5. a Magyar Élelmiszerkönyv, a Magyar Takarmánykódex, az Állat-egészségügyi és Állatjóléti Kódex és a Növényvédelmi Módszertani Gyűjtemény kötelező előírásait;
 
@@ -155,6 +155,14 @@ o) állapítsa meg az élelmiszermentéssel kapcsolatos részletes szabályokat.
 55. a szolgáltató állatorvosok által ellátandó állategészségügyi állami feladatok végzésének szakmai szabályait;
 
 56. a diagnosztikai kilövés során használható eszközök körét.
+
+57. az (EU) 2017/625 európai parlamenti és tanácsi rendelet 35. cikke szerinti ellenminta vételével, valamint második szakvélemény és másik hatósági laboratóriumi vizsgálat kezdeményezésével és elvégzésével kapcsolatos részletes szabályokat;
+
+58. rendkívüli élelmiszerlánc-esemény esetén az állattartó létesítmények között alkalmazandó védőtávolságot;
+
+59. a vadbegyűjtő és a mobil vadfeldolgozó létesítmény üzemeltetésének és a vadhúsvizsgálói tevékenység folytatásának részletes feltételeit, valamint a vadbegyűjtő és a mobil vadfeldolgozó létesítmény, továbbá a vadhúsvizsgálói tevékenység bejelentésére, nyilvántartásba vételére és a nyilvántartásból való törlésre, továbbá a nyilvántartás vezetésére vonatkozó részletes szabályokat;
+
+60. a méhegészségügyi felelősi tevékenység folytatásának részletes feltételeit, valamint a méhegészségügyi felelősi tevékenység bejelentésére, a méhegészségügyi felelős nyilvántartásba vételére és a nyilvántartásból való törlésre, továbbá a nyilvántartás vezetésére vonatkozó részletes szabályokat.
 
 (3)
 

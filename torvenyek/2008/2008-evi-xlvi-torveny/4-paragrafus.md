@@ -10,7 +10,7 @@ c) a növények termesztésére, a növények, növényi termékek és egyéb an
 
 d) a növényvédelmi gépek forgalomba hozatalára és működtetésére;
 
-e) a zöldség és gyümölcs termesztésére, tárolására és forgalomba hozatalára;
+e) a zöldség, gomba és gyümölcs termesztésére, tárolására és forgalomba hozatalára;
 
 f) a takarmányok előállítására, tárolására, szállítására, forgalomba hozatalára és felhasználására;
 
@@ -32,7 +32,7 @@ n) az élelmiszerrel rendeltetésszerűen érintkezésbe kerülő anyag, tárgy,
 
 o) az élelmiszerláncban felhasználásra szánt takarító- és fertőtlenítőszerek előállítására, forgalmazására, felhasználására;
 
-p) az élelmiszerláncra kiterjedő vizsgálatokat végző laboratóriumokra;
+p) az élelmiszerláncra kiterjedő vizsgálatokat végző laboratóriumokra, az ezek rendeltetésszerű működéséhez szükséges anyagokra, termékekre, berendezésekre, ezen anyagokat, termékeket, berendezéseket forgalomba hozó természetes és jogi személyekre;
 
 q) az e törvény hatálya alá tartozó termék előállítására, forgalmazására vonatkozó ellenőrzési és felügyeleti feladatok ellátására;
 

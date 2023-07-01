@@ -20,7 +20,7 @@ e) a vadon élő állatokért, kivéve az engedéllyel befogott, legalább hat h
 
 f) trágyáért, alomért;
 
-g) az állat-egészségügyi jogszabályok megsértésével tartott, illetve szállított, levágott, forgalomba hozott állatért és termékért.
+g) az állat-egészségügyi jogszabályok vagy a járványügyi intézkedések megsértésével tartott, illetve szállított, levágott, forgalomba hozott állatért és termékért.
 
 (3) Az elrendelt, az 51. § (3) bekezdésének a)–h) és r) pontja szerinti állat-járványügyi intézkedésben előírt kötelezettségek teljesítése állami kártalanítás szempontjából nem minősül az 51. § (3) bekezdésének p) és q) pontja szerinti aktív közreműködésnek.
 

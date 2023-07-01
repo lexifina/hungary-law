@@ -14,7 +14,7 @@ a) a takarmányt előállítóknál, tárolóknál, felhasználóknál, forgalom
 
 b) a takarmányok felhasználását és szállítását;
 
-c) a takarmányokra vonatkozó nyilvántartásokat, dokumentációkat és a nyomon követhetőséget;
+c) a takarmányokra vonatkozó nyilvántartásokat, dokumentációkat és a nyomonkövethetőséget;
 
 d) a takarmányok exportját és importját;
 

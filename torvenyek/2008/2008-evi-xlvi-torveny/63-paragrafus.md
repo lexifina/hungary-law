@@ -12,7 +12,7 @@ ac) a növények termesztése, a növények, növényi termékek és egyéb anya
 
 ad) növényvédelmi gépek forgalomba hozatalára és működtetésére, valamint műszaki felülvizsgálatára;
 
-ae) a zöldség és gyümölcs termesztésére, tárolására és forgalomba hozatalára;
+ae) a zöldség, gomba és gyümölcs termesztésére, tárolására és forgalomba hozatalára;
 
 af) a takarmányok előállítására, tárolására, szállítására, forgalomba hozatalára és felhasználására;
 

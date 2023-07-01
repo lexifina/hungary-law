@@ -32,4 +32,6 @@ m) az élelmiszerlánc-eseményekkel összefüggő tájékoztatásra;
 
 n) a kedvtelésből tartott állatok állategészségügyi, járványügyi felügyeletére.
 
+o) az élelmiszerlánc digitális felügyeletére, valamint a mezőgazdaságban és élelmiszerláncban keletkező adatvagyon kezelésére és közzétételére.
+
 (3) Nem terjed ki a törvény alkalmazási köre az élelmiszerek magánfogyasztásra történő előállítására, valamint – takarmányhigiéniai szempontból – a takarmányhigiénia követelményeinek meghatározásáról szóló, az Európai Parlament és a Tanács 2005. január 12-i 183/2005/EK rendelete 2. cikke (2) bekezdésének a)–d) pontjában szabályozott tevékenységekre.
