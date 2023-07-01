@@ -6,7 +6,7 @@ a) a 154. § szerinti illetmény része, azt egyéb pótlékként kell figyelemb
 
 b) a 168. § (2) bekezdése tekintetében rendszeres illetménypótléknak minősül.
 
-(3) Az egészségügyi feladatot ellátó szakdolgozói pótlék mértékét a miniszter a rendvédelmi illetményalap 150–400%-a közötti értékben állapítja meg. Az egészségügyi szakdolgozói pótlék mértékének megállapításánál
+(3) Az egészségügyi feladatot ellátó szakdolgozói pótlék mértékét a miniszter a rendvédelmi illetményalap 150–600%-a közötti értékben állapítja meg. Az egészségügyi szakdolgozói pótlék mértékének megállapításánál
 
 a) a betöltött szolgálati beosztást vagy munkakört,
 

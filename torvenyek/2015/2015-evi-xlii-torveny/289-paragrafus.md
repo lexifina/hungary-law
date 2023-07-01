@@ -8,4 +8,4 @@
 
 (5) A rendvédelmi alkalmazott a munkakör besorolása szerinti fizetési fokozathoz tartozó alsó határ szerinti alapilletményre alanyi jogon jogosult.
 
-(6) A fizetési fokozatokhoz tartozó illetmény 12. mellékletben meghatározott felső határának változása esetén a rendvédelmi alkalmazott alapilletményét – a 362/H. § d) pontja alapján megállapított illetményének változatlanul hagyása mellett – legfeljebb a felső határig lehet emelni, az emelés mértékével a korrekciós díjat csökkenteni kell.
+(6) A fizetési fokozatokhoz tartozó alapilletmény 12. mellékletben meghatározott felső határának változása esetén a rendvédelmi alkalmazott alapilletményét – a 362/H. § d) pontja alapján megállapított illetményének változatlanul hagyása mellett – legfeljebb a felső határig lehet emelni, az emelés mértékével a korrekciós díjat csökkenteni kell.

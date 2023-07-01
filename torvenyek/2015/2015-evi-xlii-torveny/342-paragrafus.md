@@ -12,7 +12,7 @@ e) 15. pont b) alpontjában meghatározott tárgykört,
 
 f) 17. pontjában meghatározott tárgykört,
 
-g) 18. pont a), b), c), d) és e) alpontjában meghatározott tárgykört,
+g) 18. pont b), c), d) és e) alpontjában meghatározott tárgykört,
 
 h) 19. pontjában meghatározott tárgykört,
 
@@ -27,3 +27,5 @@ k) 24. pontjában meghatározott tárgykört.
 (3) A 341. § (4) bekezdésében foglaltaktól eltérően a polgári nemzetbiztonsági szolgálatok esetében a miniszter közjogi szervezetszabályozó eszközben határozza meg a 2015. június 30-án szolgálati viszonyban álló, nem vezetői beosztást betöltő hivatásos állomány vonatkozásában az illetményemelkedés szempontjából a rendvédelmi szerv alapfeladatába tartozó szolgálati beosztások felsorolását.
 
 (4) A polgári nemzetbiztonsági szolgálatok esetében a miniszter közjogi szervezetszabályozó eszközben határozza meg azon hivatásos szolgálati beosztásokat és rendvédelmi igazgatási alkalmazotti munkaköröket, ahol a 6/A. § (3)–(5) bekezdése, valamint a 362/C. § nem alkalmazható.
+
+(5) A 342/F. § (1) bekezdésében foglaltaktól eltérően a polgári nemzetbiztonsági szolgálatok esetében a miniszter a polgári nemzetbiztonsági szolgálatnál foglalkoztatott munkavállaló tekintetében közjogi szervezetszabályozó eszközben határozza meg a munkavállaló kártérítési felelősségével kapcsolatos eljárások részletes szabályait, a kártérítési felelősség megállapításának módját, a kártérítés mérséklésének, elengedésének és mellőzésének részletes szabályait.

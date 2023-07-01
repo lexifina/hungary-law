@@ -18,6 +18,8 @@ e) illetmény nélküli szabadság engedélyezése tábornok esetében,
 
 f) kitüntetésre vonatkozó javaslat felterjesztése a köztársasági elnökhöz.
 
+g) a vezetői besorolási osztályba tartozó szolgálati beosztások esetében – a 157/A. §-ban foglalt vezetői besorolási osztályba tartozó szolgálati beosztások kivételével – a hivatásos pótlék mértékének miniszteri rendeletben meghatározott sávon belüli megállapítása.
+
 (4) Az Országgyűlési Őrség hivatásos állománya vonatkozásában az Országgyűlési Őrség parancsnoka gyakorolja az alábbi, e törvényben a miniszter számára biztosított munkáltatói jogokat:
 
 a) a 62–66. § szerinti vezénylés esetében,

@@ -14,7 +14,7 @@ munkanap pótszabadság illeti meg.
 
 (4) E § alkalmazásában
 
-a) gyermek: a családok támogatására vonatkozó jogszabályok szerinti saját háztartásban nevelt vagy gondozott gyermek,
+a) gyermek: a családok támogatására vonatkozó jogszabályok szerinti saját háztartásban nevelt vagy gondozott gyermek, ideértve, ha a különélő szülők a közös szülői felügyelet gyakorlásakor a gyermeket saját háztartásukban egymást felváltva, azonos időtartamban nevelik, gondozzák,
 
 b) fogyatékos gyermek: az a gyermek, akire tekintettel a családok támogatásáról szóló törvény szerinti magasabb összegű családi pótlék került megállapításra,
 

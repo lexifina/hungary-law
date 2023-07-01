@@ -1,8 +1,8 @@
-289/A. § (1) A munkaköri kategóriákhoz tartozó fizetési fokozatokat és az azokhoz tartozó illetmények alsó és – az „F” munkaköri kategória kivételével – felső határait a 12. melléklet tartalmazza.
+289/A. § (1) A munkaköri kategóriákhoz tartozó fizetési fokozatokat és az azokhoz tartozó alapilletmények alsó és – az „F” munkaköri kategória kivételével – felső határait a 12. melléklet tartalmazza.
 
 (2) A rendvédelmi alkalmazott alapilletményét a munkáltatói jogkör gyakorlója minden évben egy alkalommal jogosult felülvizsgálni.
 
-(3) A munkáltatói jogkör gyakorlója a (2) bekezdés szerinti felülvizsgálat során az alapilletményt a rendvédelmi alkalmazott besorolása szerinti fizetési fokozathoz tartozó illetmény felső határáig megemelheti, illetve alsó határáig csökkentheti. A munkáltatói jogkör gyakorlója az illetmény felülvizsgálatakor, döntése során figyelembe veszi
+(3) A munkáltatói jogkör gyakorlója a (2) bekezdés szerinti felülvizsgálat során az alapilletményt a rendvédelmi alkalmazott besorolása szerinti fizetési fokozathoz tartozó alapilletmény felső határáig megemelheti, illetve alsó határáig csökkentheti. A munkáltatói jogkör gyakorlója az alapilletmény felülvizsgálatakor, döntése során figyelembe veszi
 
 a) a rendvédelmi alkalmazott igazgatási jogviszonyban eltöltött idejét,
 
@@ -18,4 +18,4 @@ f) a teljesítményértékelést, valamint
 
 g) a munkakör ellátásához kapcsolódó fizikai, pszichés és munkakörnyezetből adódó terhelést.
 
-(4) Az illetmény felülvizsgálatának feltétele a teljesítményértékelés elvégzése. Ha a munkáltatói jogkör gyakorlója a (2) bekezdés szerinti felülvizsgálatot nem végzi el, vagy annak során a rendvédelmi alkalmazott alapilletményének összegét nem módosítja, a rendvédelmi alkalmazott a korábban megállapított alapilletményre jogosult.
+(4) Az alapilletmény felülvizsgálatának feltétele a teljesítményértékelés elvégzése. Ha a munkáltatói jogkör gyakorlója a (2) bekezdés szerinti felülvizsgálatot nem végzi el, vagy annak során a rendvédelmi alkalmazott alapilletményének összegét nem módosítja, a rendvédelmi alkalmazott a korábban megállapított alapilletményre jogosult.

@@ -2,7 +2,7 @@
 
 288/Q. § (1) A rendvédelmi alkalmazott munkateljesítményét a munkáltatói jogkör gyakorlója mérlegelési jogkörében eljárva évente egy alkalommal írásban értékeli.
 
-(2) A teljesítményértékelés alapján a rendvédelmi alkalmazott illetménye – az alapilletmény 289/A. § (2) bekezdése alapján évente végrehajtható felülvizsgálata keretében – legfeljebb 20%-kal csökkenthető, illetve legfeljebb 20%-os mértékben növelhető, legfeljebb azonban a munkaköri kategóriában meghatározott fizetési fokozathoz meghatározott illetmény alsó vagy felső határáig.
+(2) A teljesítményértékelés alapján a rendvédelmi alkalmazott illetménye – az alapilletmény 289/A. § (2) bekezdése alapján évente végrehajtható felülvizsgálata keretében – legfeljebb 20%-kal csökkenthető, illetve legfeljebb 20%-os mértékben növelhető, legfeljebb azonban a munkaköri kategóriában meghatározott fizetési fokozathoz meghatározott alapilletmény alsó vagy felső határáig.
 
 (3) A teljesítményértékelés hibás vagy valótlan ténymegállapításának, személyiségi jogát sértő megállapításának megsemmisítése iránt a rendvédelmi alkalmazott jogvitát kezdeményezhet.
 

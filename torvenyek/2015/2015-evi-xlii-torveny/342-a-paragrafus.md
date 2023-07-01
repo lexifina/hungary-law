@@ -22,7 +22,7 @@ j) a rendvédelmi igazgatási alkalmazott részére adható szociális, jóléti
 
 k) a fegyelmi eljárás részletszabályait,
 
-l) a rendvédelmi szervek és a rendvédelmi igazgatási alkalmazottak kártérítési felelősségével kapcsolatos eljárás részletes szabályait,
+l) a rendvédelmi szervek és a rendvédelmi igazgatási alkalmazottak kártérítési felelősségével kapcsolatos eljárások részletes szabályait, a kártérítési felelősség megállapításának módját, a kártérítés mérséklésének, elengedésének és mellőzésének részletes szabályait,
 
 m) az egészségügyi és pszichológiai alapellátás igénybevételének módját.
 
@@ -42,6 +42,6 @@ d) a továbbképzés részletes szabályait,
 
 e) a munkavégzés helyétől, idejétől és körülményeitől függő egyéb pótlékok folyósításának feltételeit,
 
-f) a rendvédelmi szervek és a rendvédelmi igazgatási alkalmazottak kártérítési felelősségével kapcsolatos eljárás részletes szabályait.
+f) a polgári nemzetbiztonsági szolgálat és a rendvédelmi igazgatási alkalmazottak kártérítési felelősségével kapcsolatos eljárások részletes szabályait, a kártérítési felelősség megállapításának módját, a kártérítés mérséklésének, elengedésének és mellőzésének részletes szabályait,
 
 g) a munkavégzés alapvető feltételeiről és szempontjairól szóló tájékoztatás tartalmát és rendjét.

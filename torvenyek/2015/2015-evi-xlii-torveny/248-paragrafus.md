@@ -10,4 +10,4 @@ d) azt a pénzösszeget, amelyhez a hivatásos állomány tagja vagy annak köze
 
 e) azt a pénzösszeget, amelyhez a jogosult a károkozás folytán megtakarított kiadások eredményeként jutott hozzá, valamint
 
-f) azt a pénzösszeget, amely biztosítási jogviszony keretében megtérült.
+f) azt a pénzösszeget, amely biztosítási jogviszony vagy a hivatásos állomány tagja vagy annak közeli hozzátartozója részére e törvény szerinti jogviszonyra tekintettel haláleset vagy baleset miatt megállapított szociális támogatás – a temetési és szociális segély kivételével – keretében megtérült.

@@ -24,7 +24,7 @@ b) az ügyészi szervezet,
 
 c) a (2) bekezdésen kívüli közigazgatási vagy államigazgatási szerv,
 
-d) a Köztársasági Elnöki Hivatal,
+d) a Sándor-palota,
 
 e) a Magyar Honvédség,
 

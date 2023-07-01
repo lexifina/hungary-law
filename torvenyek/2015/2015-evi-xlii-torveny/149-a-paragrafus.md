@@ -10,7 +10,7 @@
 
 (5) A hivatásos állomány tagja az (1) bekezdés szerinti szülői szabadság terhére kérheti, hogy részére a 138. § szerinti rész-szolgálatteljesítés, vagy – ha annak feltételei fennállnak – a 153/A. § szerinti otthoni munkavégzés kerüljön meghatározásra az (1) bekezdésben meghatározott időtartam alatt.
 
-(6) A munkáltatói jogkör gyakorlója a (4) bekezdés szerinti kérelemben foglalt szülői szabadságot elhalaszthatja, ha
+(6) A munkáltatói jogkör gyakorlója a (4) bekezdés szerinti kérelemben foglalt szülői szabadságot legfeljebb hatvan nappal elhalaszthatja, ha
 
 a) a kérelmet a (4) bekezdésben meghatározott, hatvanadik napon belül nyújtották be, vagy
 

@@ -26,4 +26,4 @@ kell érteni.
 
 (5) A határvadászra a 134. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy esetében a heti szolgálatteljesítési idő meghaladhatja a heti negyven órát, de a heti szolgálatteljesítési idő négyhavi átlagban a heti 48 órát nem haladhatja meg.
 
-(6) A határvadász esetében a 135. § (1) bekezdésétől eltérően – amennyiben a folyamatos szolgálatteljesítéshez, a helyszíni váltás biztosításához szükséges – a napi szolgálatteljesítési idő meghaladhatja a napi tizenkét órát, de a napi szolgálatteljesítési idő tizenhat óránál nem lehet hosszabb.
+(6)

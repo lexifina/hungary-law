@@ -114,7 +114,7 @@ d) az önként vállalt túlszolgálat vállalásának és elszámolásának ren
 
 a) az illetmény, illetményjellegű juttatások, pótlékok és egyéb juttatások megállapításának és folyósításának rendjét, a költségek viselésének szabályait, a végkielégítés kifizetésének rendjét,
 
-b) az egyes szolgálati beosztásokban a hivatásos pótlék mértékét,
+b) az egyes vezetői besorolási osztályba tartozó szolgálati beosztásoknál alkalmazandó hivatásos pótléksávokat és az egyes szolgálati beosztásokban a hivatásos pótlék mértékét,
 
 c) a teljesítményjuttatásra jogosultság feltételeit és megállapításának rendjét,
 
@@ -140,7 +140,7 @@ b) a méltatlansági eljárásra vonatkozó szabályokat,
 
 c) a Becsületbíróságra és annak működésére, eljárására vonatkozó szabályokat, valamint a Becsületbíróság névjegyzékére vonatkozó szabályokat,
 
-24. meghatározza a rendvédelmi szervek és a hivatásos állomány tagjainak kártérítési felelősségével kapcsolatos eljárások részletes szabályait, a kártérítési felelősség megállapításának módját, mérséklésének és mellőzésének részletes szabályait,
+24. meghatározza a rendvédelmi szervek és a hivatásos állomány tagjainak kártérítési felelősségével kapcsolatos eljárások részletes szabályait, a kártérítési felelősség megállapításának módját, a kártérítés mérséklésének, elengedésének és mellőzésének részletes szabályait,
 
 25. meghatározza a szociális és kegyeleti gondoskodás, támogatás formáit, nyújtásának eljárási rendjét és feltételeit, mértékét, a személyi állomány elhunyt tagja kegyeleti minősítésének rendjét, valamint az ellátások pénzügyi feltételei biztosításának módját, továbbá a szolgálati nyugdíjasokkal kapcsolatos személyügyi feladatok ellátásának rendjét,
 

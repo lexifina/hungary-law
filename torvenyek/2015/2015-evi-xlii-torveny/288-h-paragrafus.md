@@ -18,7 +18,7 @@ h) a törvény szerinti, örökbefogadás előtti kötelező gondozásba helyez�
 
 i) a közeli hozzátartozó otthoni gondozása céljából kapott illetmény nélküli szabadság
 
-j) az apasági szabadság és a 150. § (2) bekezdés c) pontja szerinti
+j) a 149/A. § szerinti szülői szabadság, a 289/P. § (10) bekezdése szerinti apasági szabadság és a 150. § (2) bekezdés c) pontja szerinti illetmény nélküli szabadság
 
 időtartama alatt.
 

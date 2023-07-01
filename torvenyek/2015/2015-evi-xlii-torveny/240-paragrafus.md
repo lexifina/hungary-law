@@ -1,6 +1,6 @@
 240. § (1) Az állományilletékes parancsnok a kártérítést
 
-a) a kártérítési eljárás alá vont indokolással ellátott kérelmére a méltánylást érdemlő személyi körülmények esetén mérsékelheti,
+a) a kártérítési eljárás alá vont indokolással ellátott kérelmére a méltánylást érdemlő körülmények esetén mérsékelheti,
 
 b) a kártérítésre kötelezett indokolással ellátott kérelmére utólag mérsékelheti, ha a kártérítésre kötelezett körülményeiben olyan változás következett be, amely a kártérítés méltányos csökkentését teszi indokolttá.
 

@@ -1,0 +1,1 @@
+157/B. § A vezetői besorolási osztályba tartozó szolgálati beosztások esetében – a 157/A. §-ban foglalt vezetői besorolási osztályba tartozó szolgálati beosztások kivételével – megállapítandó hivatásos pótlék mértékét a miniszter állapítja meg miniszteri rendeletben meghatározott sávon belül.

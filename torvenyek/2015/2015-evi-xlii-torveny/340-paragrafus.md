@@ -32,7 +32,7 @@
 
 13. megállapítsa a rendészeti alap- és szakvizsgára vonatkozó követelményeket, a vizsgáztatás rendjét és e vizsgák alóli mentesítést, valamint a Rendészeti Alap- és Szakvizsga Bizottságra, a rendészeti alapvizsga vizsgabiztosi névjegyzékére és a rendészeti szakvizsga vizsgabizottsági névjegyzékére vonatkozó rendelkezéseket,
 
-14.
+14. meghatározza az előzetes véleményalkotási eljárás részletes szabályait,
 
 15. meghatározza a hivatásos állomány tagjának lakástulajdon megszerzéséhez nyújtott hitelintézeti kölcsön igénybevételének támogatása esetén a kölcsön feltételeit és az igénybevételre vonatkozó rendelkezéseket,
 
