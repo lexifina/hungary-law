@@ -1,7 +1,7 @@
-## 17. §[^29]
+## 17. §[^31]
 
 18. § (1) A vizsga lebonyolítására vonatkozó szabályokat tartalmazó vizsgaszabályzatot és a kérdéstárat a Hatóság elkészíti, és a honlapján közzéteszi.
 
 (2) A hatósági képzéssel és a hatósági vizsgával kapcsolatos egyéb tudnivalókról a Hatóság a honlapján közleményt tesz közzé.
 
-[^29]: A 17. §-t a 14/2017. (VI. 30.) NGM rendelet 5. §-a hatályon kívül helyezte.
+[^31]: A 17. §-t a 14/2017. (VI. 30.) NGM rendelet 5. §-a hatályon kívül helyezte.

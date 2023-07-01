@@ -4,5 +4,11 @@
 
 (3) A hatósági vizsga időtartama alatt a vizsgahelyiségben kizárólag a vizsgázók, a vizsgabiztosok, valamint a vizsgáztatást ellenőrző személyek tartózkodhatnak.
 
+(4)[^20] A hatósági vizsga vizsgahelyiségen kívül is szervezhető.
+
+(5)[^21] Vizsgahelyiségen kívüli vizsga esetén a vizsgázó személyazonosságát elektronikus kép és hang továbbítására alkalmas eszköz útján kell ellenőrizni. A vizsgahelyiségen kívüli vizsgáztatás ellenőrzésének és lebonyolításának részletes szabályait a vizsgaszabályzat határozza meg.
+
 [^18]: A 13. § (1) bekezdése a 21/2016. (VI. 29.) NGM rendelet 23. § c) pontja szerint módosított szöveg.
 [^19]: A 13. § (2) bekezdése a 21/2016. (VI. 29.) NGM rendelet 14. §-ával megállapított szöveg.
+[^20]: A 13. § (4) bekezdését a 14/2021. (XII. 8.) PM rendelet 6. §-a iktatta be.
+[^21]: A 13. § (5) bekezdését a 14/2021. (XII. 8.) PM rendelet 6. §-a iktatta be.

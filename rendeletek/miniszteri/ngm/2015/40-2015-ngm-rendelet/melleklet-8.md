@@ -26,6 +26,6 @@
 
 ## aláírás
 
-8. melléklet a 40/2015. (XII. 30.) NGM rendelethez[^40]
+8. melléklet a 40/2015. (XII. 30.) NGM rendelethez[^42]
 
-[^40]: A 8. melléklet a 14/2021. (XII. 8.) PM rendelet 8. § e)–g) pontja szerint módosított szöveg.
+[^42]: A 8. melléklet a 14/2021. (XII. 8.) PM rendelet 8. § e)–g) pontja szerint módosított szöveg.

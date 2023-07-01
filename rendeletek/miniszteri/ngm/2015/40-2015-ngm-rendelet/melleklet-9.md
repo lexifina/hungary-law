@@ -26,6 +26,6 @@
 
 ## aláírás
 
-9. melléklet a 40/2015. (XII. 30.) NGM rendelethez[^41]
+9. melléklet a 40/2015. (XII. 30.) NGM rendelethez[^43]
 
-[^41]: A 9. melléklet az 5/2020. (VII. 17.) PM rendelet 3. §-ával megállapított, a 14/2021. (XII. 8.) PM rendelet 8. § e) pontja szerint módosított szöveg.
+[^43]: A 9. melléklet az 5/2020. (VII. 17.) PM rendelet 3. §-ával megállapított, a 14/2021. (XII. 8.) PM rendelet 8. § e) pontja szerint módosított szöveg.
