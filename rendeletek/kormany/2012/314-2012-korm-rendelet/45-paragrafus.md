@@ -14,7 +14,7 @@ bb) az e rendelet tartalmi előírásainak és a 6. melléklet szerinti jelmagya
 
 alkalmazásával történhet.
 
-(3)[^67] Ha a település vonatkozásában – az (1) és (2) bekezdésben meghatározottak szerint – az OTÉK 2012. augusztus 6-án hatályos szabályaira épülő településrendezési eszköz hatályos, a hatósági eljárások során az OTÉK 2012. augusztus 6-án hatályos településrendezési követelményeit (II. és III. fejezet) és jelmagyarázatát, valamint az ezekhez kapcsolódó értelmező rendelkezéseket kell figyelembe venni.
+(3)[^67]
 
 (4)[^68]
 
@@ -24,7 +24,7 @@ alkalmazásával történhet.
 
 [^65]: A 45. § (1) bekezdése a 385/2015. (XII. 8.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 269/2019. (XI. 19.) Korm. rendelet 5. § b) pontja, a 2/2022. (I. 7.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
 [^66]: A 45. § (2) bekezdés nyitó szövegrésze a 482/2016. (XII. 28.) Korm. rendelet 35. §-a, a 269/2019. (XI. 19.) Korm. rendelet 5. § b) pontja, a 2/2022. (I. 7.) Korm. rendelet 3. § a) pontja és 4. § a) pontja szerint módosított szöveg.
-[^67]: A 45. § (3) bekezdését a 2/2022. (I. 7.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte, újonnan a 60/2023. (II. 28.) Korm. rendelet 26. §-a iktatta be.
+[^67]: A 45. § (3) bekezdését újonnan a 60/2023. (II. 28.) Korm. rendelet 26. §-a iktatta be, a 253/2023. (VI. 23.) Korm. rendelet 5. §-a hatályon kívül helyezte.
 [^68]: A 45. § (4) bekezdését a 2/2022. (I. 7.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.
 [^69]: A 45. § (5) bekezdését a 2/2022. (I. 7.) Korm. rendelet 1. §-a iktatta be.
 [^70]: A 45. § (6) bekezdését a 2/2022. (I. 7.) Korm. rendelet 1. §-a iktatta be.
