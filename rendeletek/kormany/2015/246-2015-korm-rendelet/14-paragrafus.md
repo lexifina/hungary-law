@@ -1,4 +1,4 @@
-## 13/A. §[^19] Az aktív fekvőbeteg-ellátás alágazatba tartozó létfontosságú rendszerelemek közös fenntartója egy vagy több közös biztonsági összekötő személy foglalkoztatásával is gondoskodhat a fenntartásába tartozó rendszerelemek tekintetében az Lrtv. 6. § (7) bekezdésében előírt kötelezettségnek.
+## 13/A. §[^23] Az aktív fekvőbeteg-ellátás alágazatba tartozó létfontosságú rendszerelemek közös fenntartója egy vagy több közös biztonsági összekötő személy foglalkoztatásával is gondoskodhat a fenntartásába tartozó rendszerelemek tekintetében az Lrtv. 6. § (7) bekezdésében előírt kötelezettségnek.
 
 ## 8. A létfontosságú rendszerelemek Üzemeltetői Biztonsági Terveire vonatkozó különleges szabályok
 
@@ -34,7 +34,7 @@ d) a gyógyszerek utánpótlási tervét és
 
 e) a kommunikációs tervet.
 
-(5)[^20] Az ÜBT felülvizsgálatára és módosítására a Vhr.-ben foglalt szabályok az irányadóak.
+(5)[^24] Az ÜBT felülvizsgálatára és módosítására a Vhr.-ben foglalt szabályok az irányadóak.
 
-[^19]: A 13/A. §-t a 368/2016. (XI. 29.) Korm. rendelet 11. §-a iktatta be.
-[^20]: A 14. § (5) bekezdését a 408/2022. (X. 24.) Korm. rendelet 25. §-a iktatta be.
+[^23]: A 13/A. §-t a 368/2016. (XI. 29.) Korm. rendelet 11. §-a iktatta be.
+[^24]: A 14. § (5) bekezdését a 408/2022. (X. 24.) Korm. rendelet 25. §-a iktatta be.
