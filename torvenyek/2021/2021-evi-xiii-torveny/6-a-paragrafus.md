@@ -1,0 +1,1 @@
+6/A. § A KEKVA tv. 12. § (7) bekezdésére tekintettel, az Alapítvány KEKVA tv. 1. mellékletében meghatározott közfeladata ellátása érdekében a Gróf Tisza István Kórház fenntartói joga az Egyetem részére kerül átadásra.

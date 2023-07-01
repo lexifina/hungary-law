@@ -1,0 +1,1 @@
+6/C. § A Gróf Tisza István Kórház költségvetési szervi jogállása a 6/A. § szerinti átadással egyidejűleg megszűnik, és az Egyetem klinikai központja részeként működik tovább. A Gróf Tisza István Kórház általános jogutódja az Egyetem.

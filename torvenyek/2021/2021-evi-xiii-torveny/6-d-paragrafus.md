@@ -1,0 +1,1 @@
+6/D. § A 6/B. § (1) bekezdése szerinti ingatlanok tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas háromoldalú szerződést a tulajdonosi joggyakorló és a Gróf Tisza István Kórház köti meg az Egyetemmel.

@@ -2981,3 +2981,43 @@ ZAMÁRDI
 |
 
 kivett üdülőépület, udvar
+
+|
+
+148
+
+|
+
+BERETTYÓÚJFALU
+
+|
+
+331
+
+|
+
+1/1
+
+|
+
+kivett kórház
+
+|
+
+149
+
+|
+
+BERETTYÓÚJFALU
+
+|
+
+335/15
+
+|
+
+1/1
+
+|
+
+kivett kórház
