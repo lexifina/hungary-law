@@ -1,0 +1,3 @@
+1. § A hallgatói hitelrendszerről szóló 1/2012. (I. 20.) Korm. rendelet 29/B. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az állam – az 5. § (4) bekezdésétől eltérően – általános kamattámogatást biztosít a szabad felhasználású hallgatói hitelt igénybe vevők részére 2023. július 1-től 2023. december 31-ig. A hitelfelvevő által fizetendő ügyleti kamat mértéke ebben a kamatperiódusban 7,99 százalék. A szabad felhasználású hallgatói hitel 6. §-ban meghatározott rendelkezések szerint megállapított kamata és a hitelfelvevő által fizetendő, 7,99 százalékos kamat különbözetét az állam a központi költségvetés terhére átvállalja.”
