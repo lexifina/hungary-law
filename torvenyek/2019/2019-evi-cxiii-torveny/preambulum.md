@@ -1,1 +1,1 @@
-Az Országgyűlés a természeti erőforrások megóvása, a mezőgazdaság alkalmazkodóképességének erősítése, az öntözéses gazdálkodás elterjesztése, valamint az öntözési közösségek kialakítása érdekében a következő törvényt alkotja:
+Az Országgyűlés a természeti erőforrások megóvása, a mezőgazdaság alkalmazkodóképességének erősítése, az öntözéses gazdálkodás elterjesztése, valamint a fenntartható vízgazdálkodási közösségek kialakítása érdekében a következő törvényt alkotja:

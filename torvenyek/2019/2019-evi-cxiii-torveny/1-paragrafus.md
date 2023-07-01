@@ -8,6 +8,6 @@
 
 4. öntözésfejlesztési terület: az öntözési igazgatási szerv által hivatalból kijelölt, középszintű tervezési egység, amely több öntözési körzetet foglalhat magába;
 
-5. öntözési körzet: az öntözési közösség elismeréséről szóló döntésben meghatározott, az öntözési közösség működésére szolgáló és az öntözési közösség tagjai által öntözni kívánt külterületi földrészleteket magába foglaló terület;
+5. öntözési körzet: a fenntartható vízgazdálkodási közösség elismeréséről szóló döntésben meghatározott, a fenntartható vízgazdálkodási közösség működésére szolgáló és a fenntartható vízgazdálkodási közösség tagjai által öntözni kívánt külterületi földrészleteket magába foglaló terület;
 
-6. üzemeltetési szerződés: a Nemzeti Földalapba tartozó harmadlagos művek vízjogi üzemeltetési engedélyében foglaltaknak megfelelő működtetése érdekében a mezőgazdasági termelővel, az öntözési közösséggel vagy a mezőgazdasági vízszolgáltatóval kötött szerződés.
+6. üzemeltetési szerződés: a Nemzeti Földalapba tartozó harmadlagos művek vízjogi üzemeltetési engedélyében foglaltaknak megfelelő működtetése érdekében a mezőgazdasági termelővel, a fenntartható vízgazdálkodási közösséggel vagy a mezőgazdasági vízszolgáltatóval kötött szerződés.
