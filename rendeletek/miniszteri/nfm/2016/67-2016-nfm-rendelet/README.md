@@ -38,3 +38,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-67-20-2
 | 2022-11-15 | 2016-67-20-2W.30 | 25/2022. (XI. 15.) TIM rendelet |
 | 2023-01-01 | 2016-67-20-2W.31 | 8/2022. (XII. 28.) EM rendelet |
 | 2023-04-01 | 2016-67-20-2W.32 | 3/2023. (III. 31.) EM rendelet |
+| 2023-07-01 | 2016-67-20-2W.33 | 14/2023. (VI. 30.) EM rendelet |
