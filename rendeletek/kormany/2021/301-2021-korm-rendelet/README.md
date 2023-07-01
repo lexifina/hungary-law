@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-301-20-
 | 2021-07-01 | 2021-301-20-22.1 | 301/2021. (VI. 1.) Korm. rendelet |
 | 2023-01-01 | 2021-301-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2023-01-02 | 2021-301-20-22.3 | 636/2022. (XII. 30.) Korm. rendelet |
+| 2023-07-01 | 2021-301-20-22.4 | 276/2023. (VI. 29.) Korm. rendelet |
