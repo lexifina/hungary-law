@@ -12,7 +12,7 @@
 
 (6) Az eljárás irataiba a 35. § (2) bekezdésében megjelölt személyek és hatóságok is betekinthetnek.
 
-(7) A célelőirányzat javára teljesítendő fizetési kötelezettség elmaradásából eredő követelések behajtása érdekében a jogi segítségnyújtó szolgálat által tett intézkedések során felmerült költségek, így különösen a végrehajtási költség, a regisztrációs díj és a költségtérítés, a célelőirányzatot terhelik. A követelés behajtása esetén mind a követelés összegét, mind a követelések behajtása érdekében tett intézkedések során felmerült költségeket a célelőirányzat javára kell jóváírni.
+(7) Az előirányzat javára teljesítendő fizetési kötelezettség elmaradásából eredő követelések behajtása érdekében a jogi segítségnyújtó szolgálat által tett intézkedések során felmerült költségek, így különösen a végrehajtási költség, a regisztrációs díj és a költségtérítés, az előirányzatot terhelik. A követelés behajtása esetén mind a követelés összegét, mind a követelések behajtása érdekében tett intézkedések során felmerült költségeket az előirányzat javára kell jóváírni.
 
 (8)
 

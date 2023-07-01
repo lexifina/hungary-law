@@ -12,6 +12,6 @@ követő 60 napon belül terjesztheti elő, ezt követően pedig akkor, ha igazo
 
 (2) Az eljárási előleg megállapítására irányuló eljárásról a felet értesíteni nem kell.
 
-(3) Az eljárási előleg megállapításáról rendelkező határozat véglegessé válását követően a jogi segítségnyújtó szolgálat intézkedik az eljárási előleg kifizetése iránt; az eljárási előleg kifizetése a célelőirányzat terhére történik.
+(3) Az eljárási előleg megállapításáról rendelkező határozat véglegessé válását követően a jogi segítségnyújtó szolgálat intézkedik az eljárási előleg kifizetése iránt; az eljárási előleg kifizetése az előirányzat terhére történik.
 
 (4) A jogi segítségnyújtó szolgálat a pártfogó ügyvédi díj visszatérítésére kötelező határozatában az eljárási előleg visszatérítéséről is rendelkezik a pártfogó ügyvédi díj visszafizetésére kötelezett fél terhére.

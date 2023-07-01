@@ -2,7 +2,7 @@
 
 (2) Jövedelmi és vagyoni helyzetére tekintet nélkül rászorultnak tekintendő az a fél, aki
 
-a) aktív korúak ellátására jogosult vagy aktív korúak ellátására jogosult, a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti közeli hozzátartozójával él közös háztartásban,
+a) aktív korúak ellátására jogosult vagy a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szoctv.) szerinti – aktív korúak ellátására jogosult – közeli hozzátartozójával él közös háztartásban, feltéve, hogy az aktív korúak ellátására jogosult esetében a foglalkoztatást helyettesítő támogatás folyósítása a Szoctv. 36. § (1) bekezdés a) pontja szerint nem szünetel,
 
 b) közgyógyellátásban részesül vagy természetben nyújtott szociális ellátásként egészségügyi szolgáltatásra való jogosultságot megállapító érvényes hatósági bizonyítvánnyal rendelkezik,
 

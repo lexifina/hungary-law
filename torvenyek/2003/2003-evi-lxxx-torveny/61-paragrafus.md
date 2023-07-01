@@ -24,7 +24,7 @@ b) a fél részére a támogatás engedélyezése iránti kérelemhez szüksége
 
 (6) A fél képviseletét pártfogó ügyvédként elvállaló jogi segítő a meghatalmazás elfogadásától számított 8 napon belül köteles értesíteni a bíróságot a meghatalmazásáról, nevéről és irodájának címéről; a jogi segítségnyújtó szolgálatot pedig az ügy elvállalásáról, a per ügyszámáról (ha azt a támogatást engedélyező határozat még nem tartalmazta), és a per tárgyában, a peres felek személyében bekövetkezett változásról.
 
-(7) A fél képviseletére pártfogó ügyvédként kirendelt ügyvéd vagy ügyvédi iroda a kirendelést tartalmazó végzés kézhezvételétől számított nyolc napon belül köteles a jogi segítségnyújtó szolgálatot értesíteni az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény 36. § (6) bekezdésében foglaltakról, ezek hiányában a bankszámlaszámáról, a per ügyszámáról (ha azt a kirendelő végzés még nem tartalmazza) és a per tárgyában, peres felek személyében bekövetkezett változásról.
+(7) A fél képviseletére pártfogó ügyvédként kirendelt ügyvéd vagy ügyvédi iroda a kirendelést tartalmazó végzés kézhezvételétől számított nyolc napon belül köteles a jogi segítségnyújtó szolgálatot értesíteni az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény (a továbbiakban: Üttv.) 36. § (6) bekezdésében foglaltakról, ezek hiányában a bankszámlaszámáról, a per ügyszámáról (ha azt a kirendelő végzés még nem tartalmazza) és a per tárgyában, peres felek személyében bekövetkezett változásról.
 
 (7a) A jogi segítségnyújtó szolgálat a fél képviseletére pártfogó ügyvédként kirendelt ügyvéd vagy ügyvédi iroda (7) bekezdés szerinti jelzése alapján, indokolt esetben felmentheti a pártfogó ügyvédként kirendelt ügyvédet vagy ügyvédi irodát és gondoskodik másik pártfogó ügyvéd kirendeléséről.
 

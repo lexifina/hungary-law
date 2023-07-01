@@ -16,12 +16,14 @@ a) tevékenységét nem szünetelteti,
 
 b) ügyvédi tevékenységének gyakorlását nem függesztették fel,
 
-c) nem áll fegyelmi büntetés hatálya alatt és
+c) nem áll fegyelmi büntetés hatálya alatt, vagy az Üttv. 108. § a) és b) pontjában meghatározott fegyelmi büntetés jogerős kiszabása óta legalább egy év eltelt és
 
 d) a Magyar Ügyvédi Kamara szabályzatában meghatározott jogi segítői továbbképzést elvégezte, vagy vállalja, hogy a névjegyzékbe történő felvételét követő egy éven belül elvégzi.
 
 (4a) Az ügyvédi iroda akkor kérheti felvételét a névjegyzékbe, ha van a (4) bekezdés szerinti feltételeknek megfelelő tagja.
 
-(4b) A (4) bekezdés szerinti feltételeket a jogi segítségnyújtó szolgálat az ügyvédi kamarai nyilvántartásból történő adatigénylés útján ellenőrzi.
+(4b) A (4) bekezdés szerinti feltételeket a jogi segítségnyújtó szolgálat az ügyvédi kamara adatszolgáltatása alapján ellenőrzi.
+
+(4c) A (4) bekezdés c) pontjában meghatározott – az ügyvédi kamarai nyilvántartásban nem nyilvántartott – feltételeket a jogi segítségnyújtó szolgálat megkeresésére az ügyvédi kamara igazolja.
 
 (5) A jogi segítő a pénzforgalmi számlaszámát, valamint adószámát a szolgáltatási szerződés megkötése előtt köteles bejelenteni.

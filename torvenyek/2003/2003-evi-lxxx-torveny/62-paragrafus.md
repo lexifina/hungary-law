@@ -20,4 +20,4 @@ d) ha a pártfogó ügyvédi díj viselésére nem az állam köteles, kötelezi
 
 (6) A díj megállapítására irányuló eljárásról a felet és perbeli ellenfelét értesíteni nem kell.
 
-(7) A határozat véglegessé válását vagy jogerőre emelkedését követően a jogi segítségnyújtó szolgálat intézkedik a fél helyett az állam által kifizetendő (előlegezendő) pártfogó ügyvédi díj kifizetése iránt; a díj kifizetése a célelőirányzat terhére történik.
+(7) A határozat véglegessé válását vagy jogerőre emelkedését követően a jogi segítségnyújtó szolgálat intézkedik a fél helyett az állam által kifizetendő (előlegezendő) pártfogó ügyvédi díj kifizetése iránt; a díj kifizetése az előirányzat terhére történik.

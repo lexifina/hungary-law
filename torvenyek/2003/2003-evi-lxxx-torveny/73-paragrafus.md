@@ -15,3 +15,7 @@
 (7) E törvénynek a polgári perrendtartásról szóló 2016. évi CXXX. törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi CXXX. törvénnyel megállapított rendelkezéseit a 2018. január 1-jén és az azt követően indult perek alapján indult eljárásokban kell alkalmazni.
 
 (8) E törvénynek az egyes igazságügyi tárgyú és kapcsolódó törvények módosításáról szóló 2021. évi CXXII. törvénnyel megállapított 66. § (2) bekezdését a 2023. január 1-jét követően kötött szolgáltatási szerződésekre kell alkalmazni.
+
+(9) E törvénynek az igazságügyi tárgyú törvények módosításáról szóló 2023. évi XXXI. törvénnyel módosított 5. § (2) bekezdés a) pontját a 2023. július 1-jét követően indult és a megismételt eljárásokban kell alkalmazni.
+
+(10) E törvénynek az igazságügyi tárgyú törvények módosításáról szóló 2023. évi XXXI. törvénnyel megállapított 21. §-át a 2023. július 1-jét követően indult és a megismételt eljárásokban kell alkalmazni azzal, hogy a 2023. július 1-jét megelőzően engedélyezett támogatást nem kell figyelembe venni.

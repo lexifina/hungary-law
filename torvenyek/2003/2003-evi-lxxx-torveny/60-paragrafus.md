@@ -14,4 +14,4 @@
 
 (7) A fél köteles a másik tagállam hatóságának a jogi segítségnyújtás engedélyezése tárgyában hozott jogerős határozatát a kézhezvételt követő 30 napon belül benyújtani a jogi segítségnyújtó szolgálatnak. E határidő elmulasztása esetén a fél a fordítási költségek után az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 135. §-a szerinti késedelmi pótlékot köteles fizetni.
 
-(8) A fordítási költséget a jogi segítségnyújtó szolgálat a célelőirányzat terhére előlegezi meg; annak visszatérítése és a késedelmi pótlék megfizetése pedig a célelőirányzat javára történik.
+(8) A fordítási költséget a jogi segítségnyújtó szolgálat az előirányzat terhére előlegezi meg; annak visszatérítése és a késedelmi pótlék megfizetése pedig az előirányzat javára történik.
