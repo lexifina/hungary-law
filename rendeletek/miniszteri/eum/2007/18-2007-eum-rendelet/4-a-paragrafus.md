@@ -1,6 +1,6 @@
-## 4. §[^19] Az 1/A. § szerinti személyek működési nyilvántartását – az Eütv. 112–113/B. §-ában meghatározott keretek között, a Korm. Rendelet szerinti kijelölés alapján – az ÁEEK vezeti. A működési nyilvántartást a 2. mellékletben meghatározott tartalommal kell vezetni.
+## 4. §[^20] Az 1/A. § szerinti személyek működési nyilvántartását – az Eütv. 112–113/B. §-ában meghatározott keretek között, a Korm. Rendelet szerinti kijelölés alapján – az ÁEEK vezeti. A működési nyilvántartást a 2. mellékletben meghatározott tartalommal kell vezetni.
 
-## 4/A. §[^20] Az egészségügyi dolgozók működési nyilvántartása a következő típusú résznyilvántartásokat foglalja magába:
+## 4/A. §[^21] Az egészségügyi dolgozók működési nyilvántartása a következő típusú résznyilvántartásokat foglalja magába:
 
 a) orvosok és fogorvosok nyilvántartása,
 
@@ -10,5 +10,5 @@ c) klinikai végzettségű egészségügyi dolgozók nyilvántartása és
 
 d) egészségügyi szakdolgozók nyilvántartása.
 
-[^19]: A 4. § az 51/2008. (XII. 31.) EüM rendelet 3. §-ával megállapított, az 57/2011. (IX. 29.) NEFMI rendelet 15. § b) pontja, az 54/2016. (XII. 30.) EMMI rendelet 54. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^20]: A 4/A. §-t a 14/2014. (III. 10.) EMMI rendelet 2. §-a iktatta be.
+[^20]: A 4. § az 51/2008. (XII. 31.) EüM rendelet 3. §-ával megállapított, az 57/2011. (IX. 29.) NEFMI rendelet 15. § b) pontja, az 54/2016. (XII. 30.) EMMI rendelet 54. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^21]: A 4/A. §-t a 14/2014. (III. 10.) EMMI rendelet 2. §-a iktatta be.

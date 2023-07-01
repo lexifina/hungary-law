@@ -22,18 +22,19 @@ i) az Eütv. 113/A. § (1) bekezdés c) és d) pontja szerinti szervre,
 
 j) az Eütv. 112/A. § (1) és (2) bekezdése szerinti bűnügyi nyilvántartó szervre,
 
-k) az egészségügyben működő szakmai kamarákról szóló 2006. évi XCVII. törvény (a továbbiakban: Ekt.) 21. §-ában meghatározott etikai bizottságra,
+k)[^4] az egészségügyben működő szakmai kamarákról szóló 2006. évi XCVII. törvény (a továbbiakban: Ekt.) 21. §-ában és az Egészségügyi Tudományos Tanácsról szóló 28/2014. (IV. 10.) EMMI rendelet (a továbbiakban: ETT rendelet) 1/B. §-ában meghatározott etikai bizottságra,
 
 l) a szakmai kamarákra,
 
 m) a személyi adat- és lakcímnyilvántartást vezető szervekre,
 
-n)[^4] az elhalálozás tényét bejelentő fővárosi és vármegyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalára és
+n)[^5] az elhalálozás tényét bejelentő fővárosi és vármegyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalára és
 
-o)[^5] a Nemzeti Egészségbiztosítási Alapkezelőre (a továbbiakban: NEAK)
+o)[^6] a Nemzeti Egészségbiztosítási Alapkezelőre (a továbbiakban: NEAK)
 
 [^1]: Az 1. §-t megelőző alcím az 51/2008. (XII. 31.) EüM rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. § az 57/2011. (IX. 29.) NEFMI rendelet 4. §-ával megállapított szöveg.
 [^3]: Az 1. § g) pontját a 2/2013. (I. 2.) EMMI rendelet 9. § a) pontja hatályon kívül helyezte.
-[^4]: Az 1. § n) pontja az 54/2016. (XII. 30.) EMMI rendelet 54. § (2) bekezdés a) pontja, a 45/2022. (XII. 20.) BM rendelet 42. §-a szerint módosított szöveg.
-[^5]: Az 1. § o) pontja az 54/2016. (XII. 30.) EMMI rendelet 54. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. § k) pontja a 22/2023. (VI. 30.) BM rendelet 1. § a) pontja szerint módosított szöveg.
+[^5]: Az 1. § n) pontja az 54/2016. (XII. 30.) EMMI rendelet 54. § (2) bekezdés a) pontja, a 45/2022. (XII. 20.) BM rendelet 42. §-a szerint módosított szöveg.
+[^6]: Az 1. § o) pontja az 54/2016. (XII. 30.) EMMI rendelet 54. § (1) bekezdésével megállapított szöveg.

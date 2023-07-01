@@ -1,6 +1,6 @@
 ## A működési nyilvántartási lap adattartalma
 
-## I.[^76] Személyi adatok:
+## I.[^78] Személyi adatok:
 
 ## 1. az Eütv. alapján a működési nyilvántartás részét képező személyes adatok
 
@@ -26,15 +26,15 @@
 
 ## 5. a képzés nyelve
 
-## 6.[^77] az egészségügyi felsőfokú szakirányú szakképesítést tanúsító oklevél esetében az elsőként megszerzett alap szakképesítés, további alap szakképesítés vagy ráépített szakképesítés ténye
+## 6.[^79] az egészségügyi felsőfokú szakirányú szakképesítést tanúsító oklevél esetében az elsőként megszerzett alap szakképesítés, további alap szakképesítés vagy ráépített szakképesítés ténye
 
 ## III. Egyéb adatok
 
-## 1.[^78] alapnyilvántartás száma, típusa
+## 1.[^80] alapnyilvántartás száma, típusa
 
 ## 2. előző működési nyilvántartási szám (ha van ilyen)
 
-## 3.[^79] tudományos fokozat:
+## 3.[^81] tudományos fokozat:
 
 ## 3.1. megnevezése
 
@@ -44,7 +44,7 @@
 
 ## 3.4. kiállító intézmény megnevezése
 
-## 4.[^80] nyelvismeret
+## 4.[^82] nyelvismeret
 
 ## – nyelv megnevezése, nyelvismeret típusa, fajtája, szintje
 
@@ -56,9 +56,9 @@
 
 ## – a külön jogszabályban meghatározott esetben az igazolt magyar nyelvismeret alapján végezhető tevékenységi kör megjelölése
 
-## 5.[^81] az egészségügyi dolgozóval egészségügyi tevékenység végzésére irányuló jogviszonyban álló egészségügyi szolgáltató megnevezése, az egészségügyi tevékenységvégzés helye
+## 5.[^83] az egészségügyi dolgozóval egészségügyi tevékenység végzésére irányuló jogviszonyban álló egészségügyi szolgáltató megnevezése, az egészségügyi tevékenységvégzés helye
 
-## 6.[^82] az Eütv. szerinti továbbképzési kötelezettség teljesítésének ténye, vagy a továbbképzési kötelezettség alóli mentesülés ténye
+## 6.[^84] az Eütv. szerinti továbbképzési kötelezettség teljesítésének ténye, vagy a továbbképzési kötelezettség alóli mentesülés ténye
 
 ## 7. korlátozott alkalmasság
 
@@ -72,7 +72,7 @@
 
 ## 10. az Eütv. szerinti eljárás keretében kiszabott jogerős büntetés ténye és a büntetést kiszabó határozat jogerőre emelkedésének napja
 
-## 11.[^83] Licenc vizsgák
+## 11.[^85] Licenc vizsgák
 
 ## – Licenc vizsga neve
 
@@ -82,7 +82,7 @@
 
 ## – A jogosultsági időszak lejárta
 
-## IV.[^84] A kérelmező működési nyilvántartásával kapcsolatos adatok:
+## IV.[^86] A kérelmező működési nyilvántartásával kapcsolatos adatok:
 
 ## 1. működési nyilvántartási szám
 
@@ -112,7 +112,7 @@
 
 ## c) a kiállító intézmény megnevezése
 
-## VIII.[^85] Az egészségügyi szakértői tevékenységgel kapcsolatos egyes kérdésekről szóló 40/2009. (XI. 20.) EüM rendelet alapján kiadott szakértői engedély
+## VIII.[^87] Az egészségügyi szakértői tevékenységgel kapcsolatos egyes kérdésekről szóló 40/2009. (XI. 20.) EüM rendelet alapján kiadott szakértői engedély
 
 ## – szakterület megnevezése
 
@@ -140,7 +140,7 @@
 
 ## XI. Megjegyzés
 
-3. melléklet a 18/2007. (IV. 17.) EüM rendelethez[^86]
+3. melléklet a 18/2007. (IV. 17.) EüM rendelethez[^88]
 
 A kérelem adattartalma
 
@@ -152,7 +152,7 @@ A 12. pontban foglaltakat csak a nyilvántartás meghosszabbítására vonatkoz�
 
 A 17. pontban foglalt nyilatkozatot a nyilvántartásba vételi és az újrafelvételi kérelem esetén kell feltüntetni.
 
-1.[^87] Kifejezett kérelem arra vonatkozóan, hogy az ÁEEK a kérelemben, valamint a mellékelt okiratokban és igazolásokban foglaltak alapján
+1.[^89] Kifejezett kérelem arra vonatkozóan, hogy az ÁEEK a kérelemben, valamint a mellékelt okiratokban és igazolásokban foglaltak alapján
 
 1.1. a kérelmezőt működési nyilvántartásba vegye
 
@@ -240,7 +240,7 @@ A 17. pontban foglalt nyilatkozatot a nyilvántartásba vételi és az újrafelv
 
 7. Az egészségügyi tevékenység végzésére való alkalmasság/korlátozott alkalmasság
 
-8.[^88] Az egészségügyi dolgozóval egészségügyi tevékenység végzésére irányuló jogviszonyban álló egészségügyi szolgáltató megnevezése, az egészségügyi tevékenységvégzés helye
+8.[^90] Az egészségügyi dolgozóval egészségügyi tevékenység végzésére irányuló jogviszonyban álló egészségügyi szolgáltató megnevezése, az egészségügyi tevékenységvégzés helye
 
 9. Elméleti továbbképzés teljesítése, vagy az elméleti továbbképzés alóli mentesülés indoka
 
@@ -286,11 +286,11 @@ Az egészségügyi tevékenység szüneteltetésének
 
 15. A kérelmező nyilatkozata arról, hogy a kérelemben feltüntetett adatok a valóságnak megfelelnek.
 
-16.[^89] A kérelmező nyilatkozata arról, hogy hozzájárul a kérelemben feltüntetett, valamint a munkáltatója által kezelt és e rendelet alapján szolgáltatandó adatainak az ÁEEK általi ellenőrzéséhez.
+16.[^91] A kérelmező nyilatkozata arról, hogy hozzájárul a kérelemben feltüntetett, valamint a munkáltatója által kezelt és e rendelet alapján szolgáltatandó adatainak az ÁEEK általi ellenőrzéséhez.
 
-17.[^90] A kérelmező nyilatkozata arról, hogy hozzájárul ahhoz, hogy az ÁEEK az Eütv. 112/A. § (3) bekezdése szerinti hatósági ellenőrzést végezze az ott meghatározottak szerint.
+17.[^92] A kérelmező nyilatkozata arról, hogy hozzájárul ahhoz, hogy az ÁEEK az Eütv. 112/A. § (3) bekezdése szerinti hatósági ellenőrzést végezze az ott meghatározottak szerint.
 
-18.[^91] Kifejezett kérelem az ÁEEK-nek az Eütv. 112/A. § (1) bekezdése szerinti adatigénylésére vonatkozóan.
+18.[^93] Kifejezett kérelem az ÁEEK-nek az Eütv. 112/A. § (1) bekezdése szerinti adatigénylésére vonatkozóan.
 
 19. A kérelemhez az alábbi dokumentumokat kell csatolni:
 
@@ -310,19 +310,19 @@ Az egészségügyi tevékenység szüneteltetésének
 
 19.3.3. az Eütv. 112/A. § (1) bekezdésében foglalt hatósági bizonyítvány (ha a kérelmező nem él a 18. pont szerinti kérelemmel).
 
-[^76]: A 2. melléklet I. pontja a 2/2013. (I. 2.) EMMI rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^77]: A 2. melléklet II. pont 6. alpontját a 14/2014. (III. 10.) EMMI rendelet 3. § b) pontja iktatta be.
-[^78]: A 2. melléklet III. pont 1. alpontja a 14/2014. (III. 10.) EMMI rendelet 3. § b) pontjával megállapított szöveg.
-[^79]: A 2. melléklet III. pont 3. alpontja a 2/2013. (I. 2.) EMMI rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^80]: A 2. melléklet III. pont 4. alpontja a 2/2013. (I. 2.) EMMI rendelet 7. § (2) bekezdése szerint módosított szöveg.
-[^81]: A 2. melléklet III. pont 5. alpontja a 14/2014. (III. 10.) EMMI rendelet 3. § b) pontjával megállapított szöveg.
-[^82]: A 2. számú melléklet III. pont 6. alpontja az 57/2011. (IX. 29.) NEFMI rendelet 14. § (2) bekezdésével megállapított szöveg.
-[^83]: A 2. melléklet III. pont 11. alpontját a 15/2010. (IV. 9.) EüM rendelet 14. §-a iktatta be, a 17/2010. (XII. 20.) NEFMI rendelet 4. §-a hatályon kívül helyezte, újonnan a 23/2012. (IX. 14.) EMMI rendelet 14. §-a iktatta be.
-[^84]: A 2. melléklet IV. pontja a 14/2014. (III. 10.) EMMI rendelet 3. § b) pontjával megállapított szöveg.
-[^85]: A 2. számú melléklet VIII. pontjának nyitó szövegrésze az 57/2011. (IX. 29.) NEFMI rendelet 15. § c) pontja szerint módosított szöveg.
-[^86]: Az eredeti 3. számú melléklet megjelölését 3. mellékletre változtatta az 51/2008. (XII. 31.) EüM rendelet 10. § (3) bekezdése. A 3. melléklet a 2/2013. (I. 2.) EMMI rendelet 7. § (3) bekezdésével megállapított szöveg.
-[^87]: A 3. melléklet 1. pont nyitó szövegrésze az 54/2016. (XII. 30.) EMMI rendelet 54. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^88]: A 3. melléklet 8. pontja a 14/2014. (III. 10.) EMMI rendelet 3. § c) pontjával megállapított szöveg.
-[^89]: A 3. melléklet 16. pontja az 54/2016. (XII. 30.) EMMI rendelet 54. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^90]: A 3. melléklet 17. pontja az 54/2016. (XII. 30.) EMMI rendelet 54. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^91]: A 3. melléklet 18. pontja az 54/2016. (XII. 30.) EMMI rendelet 54. § (2) bekezdés e) pontja szerint módosított szöveg.
+[^78]: A 2. melléklet I. pontja a 2/2013. (I. 2.) EMMI rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^79]: A 2. melléklet II. pont 6. alpontját a 14/2014. (III. 10.) EMMI rendelet 3. § b) pontja iktatta be.
+[^80]: A 2. melléklet III. pont 1. alpontja a 14/2014. (III. 10.) EMMI rendelet 3. § b) pontjával megállapított szöveg.
+[^81]: A 2. melléklet III. pont 3. alpontja a 2/2013. (I. 2.) EMMI rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^82]: A 2. melléklet III. pont 4. alpontja a 2/2013. (I. 2.) EMMI rendelet 7. § (2) bekezdése szerint módosított szöveg.
+[^83]: A 2. melléklet III. pont 5. alpontja a 14/2014. (III. 10.) EMMI rendelet 3. § b) pontjával megállapított szöveg.
+[^84]: A 2. számú melléklet III. pont 6. alpontja az 57/2011. (IX. 29.) NEFMI rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^85]: A 2. melléklet III. pont 11. alpontját a 15/2010. (IV. 9.) EüM rendelet 14. §-a iktatta be, a 17/2010. (XII. 20.) NEFMI rendelet 4. §-a hatályon kívül helyezte, újonnan a 23/2012. (IX. 14.) EMMI rendelet 14. §-a iktatta be.
+[^86]: A 2. melléklet IV. pontja a 14/2014. (III. 10.) EMMI rendelet 3. § b) pontjával megállapított szöveg.
+[^87]: A 2. számú melléklet VIII. pontjának nyitó szövegrésze az 57/2011. (IX. 29.) NEFMI rendelet 15. § c) pontja szerint módosított szöveg.
+[^88]: Az eredeti 3. számú melléklet megjelölését 3. mellékletre változtatta az 51/2008. (XII. 31.) EüM rendelet 10. § (3) bekezdése. A 3. melléklet a 2/2013. (I. 2.) EMMI rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^89]: A 3. melléklet 1. pont nyitó szövegrésze az 54/2016. (XII. 30.) EMMI rendelet 54. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^90]: A 3. melléklet 8. pontja a 14/2014. (III. 10.) EMMI rendelet 3. § c) pontjával megállapított szöveg.
+[^91]: A 3. melléklet 16. pontja az 54/2016. (XII. 30.) EMMI rendelet 54. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^92]: A 3. melléklet 17. pontja az 54/2016. (XII. 30.) EMMI rendelet 54. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^93]: A 3. melléklet 18. pontja az 54/2016. (XII. 30.) EMMI rendelet 54. § (2) bekezdés e) pontja szerint módosított szöveg.
