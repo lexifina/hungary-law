@@ -1,3 +1,1 @@
-2. §[^5]
-
-[^5]: A 2. § a 4. § (2) bekezdés alapján 2023. július 1-jén lép hatályba.
+2. § Az Útdíjtv. vhr. 9/A. § (2) és (3) bekezdésében a „mértékének” szövegrész helyébe a „korrigált mértékének” szöveg lép.
