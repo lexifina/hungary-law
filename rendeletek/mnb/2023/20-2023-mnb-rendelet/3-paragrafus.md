@@ -1,5 +1,3 @@
-3. § Hatályát veszti a Rendelet
+3. §[^4]
 
-a) 1. § (3) bekezdés l) pontja,
-
-b) 2. § 12. pontjában az „és befektetési vállalkozásokra” szövegrész.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
