@@ -1,6 +1,6 @@
 ### 3:331. § [A szövetkezet létesítő okirata]
 
-(1) A szövetkezet létesítő okirata az alapszabály. Az alapszabály elfogadásához legalább hét személy egybehangzó akaratnyilatkozata szükséges.
+(1) A szövetkezet létesítő okirata az alapszabály. Az alapszabály elfogadásához legalább három személy egybehangzó akaratnyilatkozata szükséges.
 
 (2) Az elfogadott alapszabályt minden alapító tagnak alá kell írnia. Az alapszabályt a tag helyett közokiratba vagy teljes bizonyító erejű magánokiratba foglalt meghatalmazással rendelkező képviselője is aláírhatja.
 

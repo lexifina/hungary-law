@@ -33,3 +33,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-5-00-00
 | 2023-01-01 | 2022. évi LV. törvény | 2013-5-00-00.26 |
 | 2023-06-24 | 2023. évi XXXIX. törvény | 2013-5-00-00.38 |
 | 2023-07-01 | 2022. évi LI. törvény | 2013-5-00-00.32 |
+| 2023-07-02 | 2023. évi XXXIV. törvény | 2013-5-00-00.33 |
