@@ -8,35 +8,35 @@
 
 4.
 
-5. 11. § (2) bekezdésében a „hazai és külföldi kutatási eredmények” szövegrész helyébe a „kutatási eredmények” szöveg,
+5.
 
-6. 12. § (2) bekezdésében az „éves részletes programstratégiáját” szövegrészek helyébe az „éves programstratégiáját” szöveg,
+6.
 
-7. 21. § (2) bekezdésében az „az adott program” szövegrész helyébe az „a programok” szöveg,
+7.
 
-8. 22. § (2) bekezdésében az „az adott program” szövegrész helyébe az „a programok” szöveg,
+8.
 
-9. 23. § (1) bekezdésében az „A Kormány által kijelölt szerv az általa kezelt hazai” szövegrész helyébe az „Az NKFI Alap kezelését végző szervek az általuk kezelt” szöveg és a „működtet, ennek hiányában köteles” szövegrész helyébe a „működtetnek, ennek hiányában kötelesek” szöveg,
+9.
 
-10. 23. § (4) bekezdés nyitó szövegrészében az „A Kormány által kijelölt szerv az általa finanszírozott hazai közfinanszírozású” szövegrész helyébe az „Az NKFI Alap kezelését végző szervek az NKFI Alapból finanszírozott” szöveg és a „kezeli” szövegrész helyébe a „kezelik” szöveg,
+10.
 
-11. 23. § (5) bekezdésében az „A Kormány által kijelölt szerv” szövegrész helyébe az „Az NKFI Alap kezelését végző szervek” szöveg és a „kezeli” szövegrész helyébe a „kezelik” szöveg,
+11.
 
-12. 24. § (1) bekezdés h) pontjában a „tehetséggondozás,” szövegrész helyébe a „tehetséggondozás, az élő és élettelen természettudomány területén történő pályaorientáció” szöveg,
+12.
 
-13. 25. § (8) bekezdésében az „A Kormány által kijelölt szerv” szövegrész helyébe az „Az NKFI Alap kezelését végző szervek” szöveg és a „kezeli” szövegrész helyébe a „kezelik” szöveg, az „anonim szakértők” szövegrész helyébe az „anonim szakértők vagy a (3) bekezdés alkalmazása esetében a szakértők” szöveg,
+13.
 
-14. 26. § (1) bekezdésében az „a Kormány által kijelölt szerv által nyújtott” szövegrész helyébe az „az e törvény szerinti” szöveg,
+14.
 
-15. 26. § (3) bekezdésében az „A Kormány által kijelölt szerv által” szövegrész helyébe az „E törvény szerinti közfinanszírozású támogatás biztosítása érdekében” szöveg,
+15.
 
-16. 29. § (1) bekezdésében a „25. §-ban” szövegrész helyébe a „25. és a 27/A. §-ban” szöveg,
+16.
 
-17. 29. § (2) bekezdésében az „A Kormány által kijelölt szerv” szövegrész helyébe az „Az NKFI Alap kezelését végző szervek” szöveg és a „kezeli” szövegrész helyébe a „kezelik” szöveg,
+17.
 
-18. 29/B. § (1) bekezdésében a „25. §-ban” szövegrész helyébe a „25. és a 27/A. §-ban” szöveg,
+18.
 
-19. 29/C. §-ában az „A Kormány által kijelölt szerv” szövegrész helyébe az „Az NKFI Alap kezelését végző szervek” szöveg és a „kezeli” szövegrész helyébe a „kezelik” szöveg,
+19.
 
 20.
 
@@ -72,7 +72,7 @@
 
 36.
 
-37. 42/C. § (3) bekezdés 4. pontjában a „kiadja” szövegrész helyébe az „elfogadja” szöveg,
+37.
 
 38.
 
@@ -84,7 +84,7 @@
 
 42.
 
-43. 42/C. § (3) bekezdés 13. pontjában a „beszámolók koncepcióját” szövegrész helyébe a „beszámolót” szöveg,
+43.
 
 44.
 
