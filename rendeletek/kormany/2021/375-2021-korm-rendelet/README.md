@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-375-20-
 | 2023-01-01 | 2021-375-20-22.13 | 2010: CXXX. törvény |
 | 2023-01-02 | 2021-375-20-22.14 | 2010: CXXX. törvény |
 | 2023-07-01 | 2021-375-20-22.15 | 280/2023. (VI. 29.) Korm. rendelet |
+| 2023-07-02 | 2021-375-20-22.16 | 2010: CXXX. törvény |
