@@ -1,4 +1,4 @@
-## 115–116. §[^27]
+## 115–116. §[^29]
 
 ## 26. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 41. § (1) bekezdése 2023. július 1-jén lép hatályba.
 
-[^27]: A 115–116. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 115–116. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
