@@ -1,3 +1,3 @@
-4. § Az R2. 4. § (3) bekezdése helyébe a következő rendelkezés lép:
+4. §[^5]
 
-„(3) A Hatóság a hiánytalan regisztráció alapján az érintett terméket nyilvántartásba veszi. A Hatóság az árközzétételi kötelezettséggel nem érintett termékek adatait az Fdvtv. 3. § (1) bekezdés 11. pontja szerinti dohány-kiskereskedelmi ellátó (a továbbiakban: dohány-kiskereskedelmi ellátó) és az adatszolgáltatásra kötelezett személyek részére a nyilvántartásba vételt követő napon hozzáférhetővé teszi. A Hatóság az árközzétételi kötelezettséggel érintett dohánygyártmányok adatait a dohány-kiskereskedelmi ellátó részére a nyilvántartásba vételt követő napon, az adatszolgáltatásra kötelezett személyek részére az 5. § szerinti árbejelentéssel együtt teszi hozzáférhetővé.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

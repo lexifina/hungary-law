@@ -1,3 +1,3 @@
-8. § Az R3. a következő 3. §-sal egészül ki:
+8. §[^9]
 
-„3. § Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.”
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
