@@ -1,3 +1,3 @@
-1. § Az Eximbank által folyósítható kötött segélyhitelek feltételeiről és a segélyhitelnyújtás részletes szabályairól szóló 232/2003. (XII. 16.) Korm. rendelet (a továbbiakban: R.) 2. § 3. pontja helyébe az alábbi rendelkezés lép:
+1. §[^2]
 
-(E rendelet alkalmazásában)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
