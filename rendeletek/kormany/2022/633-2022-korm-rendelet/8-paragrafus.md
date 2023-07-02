@@ -1,1 +1,3 @@
-8. § Hatályát veszti a hulladékgazdálkodási hatóság kijelöléséről szóló 124/2021. (III. 12.) Korm. rendelet 5. § b) pontja.
+8. §[^25]
+
+[^25]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
