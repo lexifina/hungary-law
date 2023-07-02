@@ -1,3 +1,3 @@
-7. § A Korm. rendelet 11. alcím címe helyébe a következő alcím cím lép:
+7. §[^7]
 
-„11. A koncessziós társaság adatszolgáltatása”
+[^7]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-5. § A Korm. rendelet 9. alcím címe helyébe a következő alcím cím lép:
+5. §[^5]
 
-„9. Az ideiglenes ellátási díj meghatározása”
+[^5]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

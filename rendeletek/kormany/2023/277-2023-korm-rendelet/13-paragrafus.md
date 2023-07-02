@@ -1,1 +1,3 @@
-13. § A Korm. rendelet 1. melléklete helyébe az 1. melléklet lép.
+13. §[^13]
+
+[^13]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

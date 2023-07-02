@@ -1,39 +1,53 @@
 15. § Hatályát veszti a Korm. rendelet
 
-1. 2. §-a,
+1.[^15]
 
-2. 3. § (1) bekezdése,
+2.[^16]
 
-3. 4–6. §-a és 9. §-a,
+3.[^17]
 
-4.[^2]
+4.[^18]
 
-5. 11. § (2) bekezdésében az „Az így keletkező közszolgáltatási díjkülönbözet pozitív mérlegét a Koordináló szerv a közszolgáltatónak fizetendő esedékes szolgáltatási díjba beszámítja.” szövegrész,
+5.[^19]
 
-6. 11. § (4), (5) és (6) bekezdése,
+6.[^20]
 
-7. 13. §-a,
+7.[^21]
 
-8. 15. § nyitó szövegrészében az „és (5)” szövegrész,
+8.[^22]
 
-9. 15. § a) és e) pontja,
+9.[^23]
 
-10. 17. §-a,
+10.[^24]
 
-11. 21. §-a és 21/A. §-a,
+11.[^25]
 
-12. 22. §-a,
+12.[^26]
 
-13. 25. § (2)–(9) bekezdése,
+13.[^27]
 
-14. 27. § (1) és (2) bekezdése,
+14.[^28]
 
-15.[^3]
+15.[^29]
 
-16.[^4]
+16.[^30]
 
-17. 30. §-a.
+17.[^31]
 
-[^2]: A 15. § 4. pontja a 16. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
-[^3]: A 15. § 15. pontja a 16. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
-[^4]: A 15. § 16. pontja a 16. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^15]: A 15. § 1. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 15. § 2. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 15. § 3. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 15. § 4. pontja a 16. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^19]: A 15. § 5. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 15. § 6. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 15. § 7. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 15. § 8. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 15. § 9. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 15. § 10. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 15. § 11. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 15. § 12. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 15. § 13. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 15. § 14. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 15. § 15. pontja a 16. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^30]: A 15. § 16. pontja a 16. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^31]: A 15. § 17. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
