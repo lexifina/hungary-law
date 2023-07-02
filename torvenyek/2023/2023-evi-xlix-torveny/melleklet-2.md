@@ -17,19 +17,3 @@
 ## 4. A Corvin-lánc megőrzéséről az érem lezárását követően a Magyar Nemzeti Múzeum gondoskodik.
 
 2. melléklet a 2023. évi XLIX. törvényhez
-
-1. A Kitüntetési tv. 1. melléklet 1. pontja helyébe a következő rendelkezés lép:
-
-„1. Magyarország köztársasági elnöke a Magyar Szent István Rend és a Magyar Érdemrend nagykereszt a nyaklánccal és az arany sugaras csillaggal fokozatának kitüntetettje.”
-
-2. A Kitüntetési tv. 1. melléklet 7. pontja helyébe a következő rendelkezés lép:
-
-„7. Az e törvény szerinti állami kitüntetések adományozását a feladatkör alapján érintett miniszternél (a továbbiakban: javaslattevő) lehet indítványozni, azzal, hogy önmaga, továbbá a Polgári Törvénykönyvről szóló 2013. évi V. törvény szerinti közeli hozzátartozója kitüntetését senki nem indítványozhatja.”
-
-3. A Kitüntetési tv. 1. melléklet 10. pontja helyébe a következő rendelkezés lép:
-
-„10. Az e törvény szerinti állami kitüntetésekre jelölt személy természetes személyazonosító adatait és lakcím adatát, az adományozásra vonatkozó döntés megalapozásához szükséges, az indítványban szereplő adatait – különösen titulusát (végzettségét, munkahelyét és beosztását), állampolgárságát és elérhetőségeit, korábbi állami kitüntetéseit, valamint az életútjára és a kitüntetésre alapot adó érdemeire közvetlenül vonatkozó, az adományozáshoz figyelembe vett adatokat – a javaslattevő, valamint a miniszterelnök (a továbbiakban: előterjesztő) a kitüntetésre érdemesség megállapítása és a többszöri kitüntetés megelőzése céljából kezeli.”
-
-4. A Kitüntetési tv. 1. melléklet 12. pontja helyébe a következő rendelkezés lép:
-
-„12. Az e törvény szerinti állami kitüntetések adományozásáról a Kormány kitüntetésekkel és egyéb elismerésekkel kapcsolatos feladatok ellátásáért felelős tagja a kitüntetésre vonatkozó döntés előkészítése, a többszöri kitüntetés megelőzése, valamint az adományozási eljárás lefolytatásához szükséges adatok biztosítása céljából nyilvántartást vezet. A nyilvántartás tartalmazza a kitüntetett személyek természetes személyazonosító adatait és lakcím adatát, az adományozásra irányuló indítványban szereplő, a 10. pont szerinti adatokat, az adományozott kitüntetési fokozat megjelölését, az adományozás rövid indokolását és az átadás időpontját.”
