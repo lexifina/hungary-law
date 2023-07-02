@@ -1,3 +1,3 @@
-6. §[^4]
+6. §[^7]
 
-[^4]: A 6. § a 7. § (3) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^7]: A 6. § a 7. § (3) bekezdés alapján 2024. január 1-jén lép hatályba.

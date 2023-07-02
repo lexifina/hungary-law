@@ -1,5 +1,5 @@
 ## 2. A Közbeszerzési és Ellátási Főigazgatóságról szóló 250/2014. (X. 2.) Korm. rendelet módosítása
 
-4. § A Közbeszerzési és Ellátási Főigazgatóságról szóló 250/2014. (X. 2.) Korm. rendelet [a továbbiakban: 250/2014. (X. 2.) Korm. rendelet] 3. § (1) bekezdése a következő n) ponttal egészül ki:
+4. §[^5]
 
-(A Főigazgatóság a kormányzat központi logisztikai szerveként, illetve központi beszerző szervként:)
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

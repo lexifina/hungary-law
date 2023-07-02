@@ -1,3 +1,3 @@
-## „n) az állami, Egészségbiztosítási Alapból finanszírozott és az Országos Kórházi Főigazgatóság fenntartása alá tartozó, aktív fekvőbeteg-ellátást nyújtó fővárosi költségvetési intézmények (a továbbiakban: kórház) részére a 3. mellékletben meghatározott ingatlanüzemeltetési szolgáltatásokat biztosítja.”
+5. §[^6]
 
-5. § A 250/2014. (X. 2.) Korm. rendelet a 2. melléklet szerinti 3. melléklettel egészül ki.
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
