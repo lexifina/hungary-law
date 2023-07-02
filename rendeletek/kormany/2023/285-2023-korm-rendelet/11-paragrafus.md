@@ -1,1 +1,3 @@
-11. § Hatályát veszti a 653/2021. Korm. rendelet 1–5. alcíme, valamint 1–3. és 5. melléklete.
+11. §[^2]
+
+[^2]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
