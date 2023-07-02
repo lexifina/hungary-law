@@ -1,1 +1,3 @@
-9. § Hatályát veszti a 387/2021. (VI. 30.) Korm. rendelet.
+9. §[^2]
+
+[^2]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
