@@ -1,1 +1,1 @@
-2. § A Ptk. szövetkezeti tagsággal kapcsolatos általános rendelkezései alapján kizárólag szövetkezetek tagságával másodlagos szövetkezet is alapítható és működtethető.
+2. § A szövetkezetek másodlagos szövetkezetet hozhatnak létre és működtethetnek. A másodlagos szövetkezet olyan szövetkezet, amelyet kizárólag szövetkezetek alapíthatnak abból a célból, hogy tevékenységük előmozdítása érdekében egy másodlagos szerveződési szintet alakítsanak ki.

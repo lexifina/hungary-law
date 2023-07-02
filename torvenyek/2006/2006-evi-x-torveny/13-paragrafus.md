@@ -1,4 +1,4 @@
-13. § (1) Az iskolaszövetkezeti tagsági jogviszony is megszűnik a tanulói vagy a hallgatói jogviszony megszűnésével.
+13. § (1) Az iskolaszövetkezeti tagsági jogviszony megszűnik a tanulói, a felnőttképzési vagy a hallgatói jogviszony megszűnését követően a diákigazolványra való jogosultság lejártával.
 
 (2) Az iskolaszövetkezet nem alakulhat át gazdasági társasággá. Az iskolaszövetkezet csak más iskolaszövetkezettel egyesülhet.
 

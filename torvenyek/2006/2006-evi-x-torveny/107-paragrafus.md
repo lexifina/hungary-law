@@ -10,4 +10,4 @@
 
 (3) Felhatalmazást kap a Kormány, hogy az iskolaszövetkezet, a nyugdíjas szövetkezet és a kisgyermekkel otthon lévők szövetkezete által nyújtott szolgáltatásokért fizetendő minimális szolgáltatási díjat rendeletben állapítsa meg.
 
-(4)
+(4) Felhatalmazást kap a Kormány, hogy az iskolaszövetkezet oktatási, képzési és rekreációs célt szolgáló közösségi alapja felhasználásának általános szabályait rendeletben állapítsa meg.
