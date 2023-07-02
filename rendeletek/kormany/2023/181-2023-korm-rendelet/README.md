@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-181-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2023-07-01 | 2023-181-20-22.1 | 181/2023. (V. 16.) Korm. rendelet |
+| 2023-07-02 | 2023-181-20-22.2 | 2010. évi CXXX. törvény |

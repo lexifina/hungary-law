@@ -1,1 +1,3 @@
-4. § A 256/2013. (VII. 5.) Korm. rendelet 3/A. § (2) és (4) bekezdésében a „2022. január” szövegrészek helyébe a „2023. július” szöveg lép.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
