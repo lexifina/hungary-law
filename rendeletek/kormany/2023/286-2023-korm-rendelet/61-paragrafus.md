@@ -1,1 +1,3 @@
-61. § A praxisközösségekről szóló 53/2021. (II. 9.) Korm. rendelet 4. § (1) bekezdés e) pontjában az „500 fő után” szövegrész helyébe az „500 fő után, fogorvosi praxisonként a 4/B. § a) pontja szerint,” szöveg lép.
+61. §[^72]
+
+[^72]: A 61. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

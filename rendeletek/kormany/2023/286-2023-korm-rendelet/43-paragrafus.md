@@ -1,3 +1,3 @@
-43. § A Dohányr. 19/B. § (7) bekezdése helyébe a következő rendelkezés lép:
+43. §[^53]
 
-„(7) A gyógyszerészeti államigazgatási szerv a bejelentési kötelezettség teljesítéséről, valamint a bejelentett termék 19/A. és 19/B. §-nak való megfelelőségéről a hiánytalan bejelentés beérkezésétől – beleértve az igazgatási szolgáltatási díj beérkezését is – számított 60 napon belül igazolást állít ki.”
+[^53]: A 43. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

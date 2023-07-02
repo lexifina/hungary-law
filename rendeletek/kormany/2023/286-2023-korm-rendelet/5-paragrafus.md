@@ -1,10 +1,9 @@
-5. § (1)[^3]
+5. § (1)[^6]
 
-(2)[^4]
+(2)[^7]
 
-(3) Az Ebtv. vhr. 38. § (13) bekezdése helyébe a következő rendelkezés lép:
+(3)[^8]
 
-„(13) Az Ebtv. 42/E. §-a szerinti gyermekgondozási díj iránti kérelem esetén az (1)–(3) bekezdésben foglaltakat akkor kell alkalmazni, ha a kérelmező a gyermek születése napján biztosított.”
-
-[^3]: Az 5. § (1) bekezdése a 62. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
-[^4]: Az 5. § (2) bekezdése a 62. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^6]: Az 5. § (1) bekezdése a 62. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^7]: Az 5. § (2) bekezdése a 62. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^8]: Az 5. § (3) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

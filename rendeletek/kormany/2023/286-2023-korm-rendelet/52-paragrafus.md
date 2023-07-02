@@ -1,1 +1,3 @@
-52. § Hatályát veszti a 385/2016. (XII. 2.) Korm. rendelet 8. § (1) bekezdés h) pontja.
+52. §[^62]
+
+[^62]: Az 52. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

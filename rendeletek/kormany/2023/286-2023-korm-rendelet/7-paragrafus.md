@@ -1,3 +1,3 @@
-7. § Az Ebtv. vhr. 39. §-a a következő (2) bekezdéssel egészül ki:
+7. §[^10]
 
-„(2) Ha a pénzbeli egészségbiztosítási ellátás vagy a baleseti táppénz iránti kérelem részben vagy egészben elutasításra, illetve visszautasításra, valamint az eljárás megszüntetésre kerül, a kormányhivatal a döntést közli a biztosított foglalkoztatójával is.”
+[^10]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

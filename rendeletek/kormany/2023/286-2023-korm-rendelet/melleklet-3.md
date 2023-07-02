@@ -1,9 +1,3 @@
-## Az Országos Várólista Nyilvántartási Rendszerben regisztrált várólista eset egyedi publikus esetazonosítóját kell megadni.
+3. melléklet a 286/2023. (VI. 30.) Korm. rendelethez[^75]
 
-## 32. Felhasználói mezők
-
-## Az országos intézetek rendelkezése szerint szakmánként eltérően kell kitölteni
-
-## Az Adatlap minden pontja kötelezően kitöltendő, kivéve ahol e melléklet a kitöltés mellőzését lehetővé teszi.*”
-
-3. melléklet a 286/2023. (VI. 30.) Korm. rendelethez
+[^75]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

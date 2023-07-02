@@ -1,3 +1,3 @@
-8. § Az Ebtv. vhr. a következő 41/A. §-sal egészül ki:
+8. §[^11]
 
-„41/A. § Az egészségbiztosítási szerv, illetve a társadalombiztosítási kifizetőhely – az ügyfélnek a felhasználás célját is tartalmazó kérelmére – hatósági bizonyítványt állít ki az egészségbiztosítás pénzbeli ellátásai, a baleseti táppénz, valamint az utazási költségtérítési támogatás megállapításával, illetve folyósításával kapcsolatos adatok igazolása céljából.”
+[^11]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-45. § Hatályát veszti a Dohányr. 21/A. § (7) bekezdésében az „A 19/B. § (1) bekezdés a) pontjában és a 19/C. § (1) bekezdés b) pontjában foglaltaktól eltérően elektronikus cigaretta, valamint utántöltő flakon, továbbá dohányzást imitáló elektronikus eszköz dohány, mentol, valamint gyümölcsös ízesítéssel 2020. május 20-áig forgalomba hozható.” szövegrész.
+45. §[^55]
+
+[^55]: A 45. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

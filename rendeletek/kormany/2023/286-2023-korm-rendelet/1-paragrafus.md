@@ -2,8 +2,7 @@
 
 1. § (1)[^1]
 
-(2) Az Ebtv. vhr. 1. § (7a) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(A Kormány egészségbiztosítóként, illetve egészségbiztosítási szervként)
+(2)[^2]
 
 [^1]: Az 1. § (1) bekezdése a 62. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^2]: Az 1. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

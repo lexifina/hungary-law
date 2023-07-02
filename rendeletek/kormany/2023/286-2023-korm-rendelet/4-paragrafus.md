@@ -1,7 +1,3 @@
-4. § (1) Az Ebtv. vhr. 37. § (3) bekezdése helyébe a következő rendelkezés lép:
+4. §[^5]
 
-„(3) Aki méltányosságból engedélyezhető pénzbeli ellátásban, az Ebtv. 42/E. §-a alapján folyósított gyermekgondozási díjban, az Ebtv. 63. §-a alkalmazásával az egészségbiztosító által folyósított gyermekgondozási díjban vagy örökbefogadói díjban, továbbá a biztosítás megszűnését követően pénzbeli egészségbiztosítási ellátásban vagy baleseti táppénzben részesült, az ellátás folyósításának befejezésekor az Igazolványt átadja vagy megküldi az ellátást megállapító szerv részére. Az ellátást megállapító szerv az Igazolványba bejegyzi a méltányosságból engedélyezhető pénzbeli ellátás, az Ebtv. 42/E. §-a alapján folyósított gyermekgondozási díj, az Ebtv. 63. §-a alkalmazásával az egészségbiztosító által folyósított gyermekgondozási díj vagy örökbefogadói díj, továbbá a biztosítás megszűnését követően folyósított pénzbeli egészségbiztosítási ellátás vagy baleseti táppénz folyósításának időtartamát, és az Igazolványt 5 napon belül visszaadja vagy visszaküldi a biztosítottnak.”
-
-(2) Az Ebtv. vhr. 37. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) A foglalkoztató a pénzbeli ellátás iránti kérelemhez a rendelkezésére álló Igazolványt – elektronikus másolatként – akkor csatolja, ha a biztosított a keresőképtelenséget, a gyermek születését, illetve nevelésbe vételét megelőző két éven belül más foglalkoztatónál vagy foglalkoztatóknál is állt biztosítási jogviszonyban.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,5 @@
 ## 3. Az egészségügyi szolgáltatás gyakorlásának általános feltételeiről, valamint a működési engedélyezési eljárásról szóló 96/2003. (VII. 15.) Korm. rendelet módosítása
 
-15. § Az egészségügyi szolgáltatás gyakorlásának általános feltételeiről, valamint a működési engedélyezési eljárásról szóló 96/2003. (VII. 15.) Korm. rendelet (a továbbiakban: Műk.r.) 6. § (4) bekezdés a) pontja helyébe a következő rendelkezés lép:
+15. §[^24]
 
-(Nem kell működési engedély)
+[^24]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,9 +1,3 @@
-33. § A Kut.r. 9. § (2) bekezdése helyébe a következő rendelkezés lép:
+33. §[^43]
 
-„(2) Az engedélyező határozatát elektronikus úton megküldi
-
-a) a kérelmező biztonságos kézbesítési szolgáltatásnak minősülő tárhelyére,
-
-b) az eljáró etikai, illetve regionális etikai bizottság hivatalos elektronikus elérhetőségére,
-
-c) az egészségbiztosítási szerv hivatalos elektronikus elérhetőségére.”
+[^43]: A 33. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

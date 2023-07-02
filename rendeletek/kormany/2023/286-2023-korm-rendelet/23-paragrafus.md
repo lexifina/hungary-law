@@ -1,7 +1,3 @@
-23. § (1) A Műk.r. 16. § (1) bekezdése helyébe a következő rendelkezés lép:
+23. §[^32]
 
-„(1) Az egészségügyi államigazgatási szerv – a 9. §-ban, a 13. §-ban, a 15. §-ban és a 17. § (2) bekezdésében meghatározott ellenőrzésen kívül – előre meghatározott és közzétett ütemezés szerint végzi az egészségügyi szolgáltatók ellenőrzését, amelynek során vizsgálja a jogszabályban meghatározott személyi, tárgyi, szakmai minimumfeltételek, a szakmai szabályok, protokollok, illetve közegészségügyi előírások, valamint a 11/A. §-ban foglaltak teljesítését. Ennek keretében a 8. § (4) bekezdés h) pontjában és a 11/A. §-ban meghatározottak folyamatos ellenőrzéséhez az ellátásokra vonatkozó adatokat – a technikai feltételek megléte esetén, a törvényben meghatározott adatkezelési szabályok alapján – közvetlen hozzáférés, illetve automatikus lekérdezés útján is vizsgálhatja.”
-
-(2) A Műk.r. 16. §-a a következő (9) bekezdéssel egészül ki:
-
-„(9) Az országos tisztifőorvos a 14. § (7) bekezdése szerinti esetben informatikai rendszerkapcsolat, továbbá a működési engedélyt kiadó hatóság a rendelkezésére álló és elérhető adatbázisok útján rendszeresen ellenőrzi a nyilvántartásban szereplő gazdálkodó szervezetek jogszabály szerinti nyilvántartásának érvényességét. Ha az ellenőrzés során megállapításra kerül, hogy a gazdálkodó szervezet megszűnt, a működési engedély kiadására jogosult hatóság a 19. § (1) bekezdés b) pontja szerint jár el.”
+[^32]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-48. § A 256/2013. (VII. 5.) Korm. rendelet 2. melléklete a 6. melléklet szerint módosul.
+48. §[^58]
+
+[^58]: A 48. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

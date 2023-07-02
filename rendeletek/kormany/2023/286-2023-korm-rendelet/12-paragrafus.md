@@ -1,3 +1,3 @@
-12. § A 43/1999. (III. 3.) Korm. rendelet 4/D. §-a a következő (4a) bekezdéssel egészül ki:
+12. §[^21]
 
-„(4a) A (2) bekezdésben foglaltakat alkalmazni kell azon esetekre is, amelyek várólista csökkentési programban történő soron kívüli ellátására NEAK kijelölés alapján kerül sor. A programba vonás szükségességéről a NEAK az általa felkért, az egészségügyi szakmai kollégium illetékes tagozata által előzetesen kijelölt szakértő véleménye alapján egyedileg dönt.”
+[^21]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

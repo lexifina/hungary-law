@@ -1,7 +1,3 @@
-19. § (1) A Műk.r. 12. § (2) bekezdése helyébe a következő rendelkezés lép:
+19. §[^28]
 
-„(2) A közreműködő további közreműködői szerződést nem köthet, ide nem értve – a közreműködésről szóló szerződés eltérő rendelkezése hiányában – a személyes közreműködésről szóló szerződést.”
-
-(2) A Műk.r. 12. § (3) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(A közreműködői szerződés kötelezően tartalmazza:)
+[^28]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
