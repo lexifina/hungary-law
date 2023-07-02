@@ -86,7 +86,7 @@
 
 ## 3. szövetkezet esetén
 
-## a) az alakuló közgyűlés, illetve a közgyűlés jegyzőkönyve (kivonat) és a jelenléti ív,
+## a) az alakuló közgyűlés, illetve a közgyűlés jegyzőkönyve (kivonat),
 
 ## b) a közgyűlési meghívó,
 
