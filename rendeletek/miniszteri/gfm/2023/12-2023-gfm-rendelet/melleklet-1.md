@@ -1,3 +1,3 @@
-1. melléklet a 12/2023. (VI. 29.) GFM rendelethez
+1. melléklet a 12/2023. (VI. 29.) GFM rendelethez[^5]
 
-Az 53/2013. (XI. 29.) NGM rendelet 1. mellékletében a „készpénzfelvételi” szövegrész helyébe a „készpénzfelvételi, illetve készpénzátvételi” szöveg, a „készpénzfelvétel” szövegrészek helyébe a „készpénzfelvétel, illetve készpénzátvétel” szöveg lép.
+[^5]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

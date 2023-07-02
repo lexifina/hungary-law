@@ -1,3 +1,3 @@
-1. § A díjtól és költségtől mentes készpénzkifizetés, illetve készpénzfelvétel igénybevételére szolgáló fizetési számlát megjelölő nyilatkozat tartalmára vonatkozó részletes szabályokról szóló 53/2013. (XI. 29.) NGM rendelet [a továbbiakban: 53/2013. (XI. 29.) NGM rendelet] a következő 6. §-sal egészül ki:
+1. §[^2]
 
-„6. § A fogyasztó vagy a fogyasztó képviseletében eseti meghatalmazás alapján a pénzforgalmi szolgáltató pénzforgalmi szolgáltatás nyújtására szolgáló helyiségében nyilatkozatot tevő személy eltérő rendelkezése hiányában a díjtól és költségtől mentes készpénzkifizetés, illetve készpénzfelvétel igénybevételére szolgáló fizetési számlát megjelölő nyilatkozat tartalmára vonatkozó részletes szabályokról szóló 53/2013. (XI. 29.) NGM rendelet módosításáról szóló 12/2023. (VI. 29.) GFM rendelet hatálybalépése előtti napig vissza nem vont nyilatkozatot úgy kell tekinteni, hogy a nyilatkozat az ingyenes készpénzfelvételi lehetőség mellett a készpénzátvétel szolgáltatás díj- és költségmentes igénybevételére is vonatkozik.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

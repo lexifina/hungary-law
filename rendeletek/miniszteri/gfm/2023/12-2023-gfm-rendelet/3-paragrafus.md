@@ -1,1 +1,3 @@
-3. § Az 53/2013. (XI. 29.) NGM rendelet 1. melléklete az 1. melléklet szerint módosul.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
