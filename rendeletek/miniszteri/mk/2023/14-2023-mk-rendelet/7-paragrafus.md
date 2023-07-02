@@ -1,5 +1,3 @@
-7. § Hatályát veszti
+7. §[^1]
 
-a) a belügyminiszter irányítása alatt álló rendvédelmi feladatokat ellátó szerveknél alkalmazandó egészségügyi szakdolgozói pótlékról szóló 27/2021. (VIII. 9.) BM rendelet 1. melléklet 1. pont 1.22. alpontja és
-
-b) az Információs Hivatalban alkalmazandó egészségügyi szakdolgozói pótlékról szóló 37/2021. (XI. 25.) KKM rendelet.
+[^1]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
