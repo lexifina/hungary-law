@@ -1,5 +1,3 @@
-16. § Hatályát veszti a 13/2023. (IV. 19.) AM rendelet
+16. §[^17]
 
-a) 20. § (8) bekezdése és
-
-b) 24. § (5) bekezdése.
+[^17]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

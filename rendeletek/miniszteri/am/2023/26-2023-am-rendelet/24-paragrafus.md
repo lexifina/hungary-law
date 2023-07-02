@@ -1,5 +1,3 @@
-24. § Hatályát veszti a 15/2023. (IV. 19.) AM rendelet
+24. §[^25]
 
-a) 3. § (3) bekezdés a) pontjában a „ , továbbá” szövegrész és
-
-b) 3. § (3) bekezdés b) pontja.
+[^25]: A 24. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

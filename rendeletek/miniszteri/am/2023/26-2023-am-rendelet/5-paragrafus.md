@@ -1,5 +1,3 @@
-## „39. másodvetés: a tárgyévre az egységes kérelemben bejelentett főnövény betakarítása után a következő év első főnövénye vetéséig betakarított vagy zöldtrágya-növényként talajba forgatott vagy bedolgozott növénykultúra, ahol mind az első főnövény lekerülését követő, mind a második főnövény vetését megelőző talajmunkákra az agronómiailag indokolt időt figyelembe kell venni, és a másodvetésnek a megelőző főnövénytől különböző növénykultúrához kell tartoznia, azzal, hogy a Brassica napus (takarmányrepce), Sinapis alba (fehérmustár), Raphanus sativus (retek) fajhoz tartozó növények egymás után még keverékben sem vethetőek;”
+5. §[^6]
 
-5. § A 13/2023. (IV. 19.) AM rendelet 2. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) A (6) bekezdés, valamint az Mkk tv. 18. § (3) bekezdése szerinti nyilatkozat kizárólag azon év vagy évek vonatkozásában tehető meg, amelyre vagy amelyekre vonatkozóan a mezőgazdasági termelő valamely korábbi évben nem szolgáltatott az egységes kérelmében, az elektronikusan benyújtott kárenyhítő juttatás iránti kérelmében vagy az elektronikusan benyújtott biztosítási szerződés területösszesítő mellékletében hozamadatot. A mezőgazdasági termelő által a tárgyévi egységes kérelem benyújtása előtt megadott termésmennyiségi adatok nem módosíthatók vagy javíthatók. A mezőgazdasági termelő a tárgyévi egységes kérelemben megadott termésmennyiségi adatokat – az egységes kérelemben – tárgyév július 15. napjáig kijavíthatja.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

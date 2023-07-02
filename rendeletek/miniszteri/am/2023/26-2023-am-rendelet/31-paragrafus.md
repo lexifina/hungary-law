@@ -1,1 +1,3 @@
-31. § A 19/2023. (IV. 19.) AM rendelet 2. § (4) bekezdés a) pont ac) alpontjában az „1. melléklet szerinti végzettséggel” szövegrész helyébe az „1. melléklet szerinti vagy azzal egyenértékű végzettséggel” szöveg, az „őstermelők családi gazdaságban tagi jogviszonyt” szövegrész helyébe az „őstermelők családi gazdaságban vagy családi gazdaságban tagi jogviszonyt” szöveg lép.
+31. §[^32]
+
+[^32]: A 31. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-7. § A 13/2023. (IV. 19.) AM rendelet 24. § (4) bekezdése helyébe a következő rendelkezés lép:
+7. §[^8]
 
-„(4) A (2) bekezdés szerinti határidő elmulasztásakor a másodvetés nem kerül figyelembevételre az egyes támogatások és a feltételesség vonatkozásában.”
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

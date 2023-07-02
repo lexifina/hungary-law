@@ -1,3 +1,3 @@
-10. § A 13/2023. (IV. 19.) AM rendelet 28. § (1) bekezdése helyébe a következő rendelkezés lép:
+10. §[^11]
 
-„(1) A 2. § (1) bekezdés b)–f) pontja szerinti támogatás kizárólag az Aktív gazda rendeletnek megfelelő mezőgazdasági termelő részére nyújtható, amelyet a Kincstár ellenőriz.”
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
