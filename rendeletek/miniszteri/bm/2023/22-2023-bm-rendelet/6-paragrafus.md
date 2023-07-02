@@ -1,3 +1,5 @@
 ## 3. Az egészségügyi szakmai kollégium működéséről szóló 26/2020. (VIII. 4.) EMMI rendelet módosítása
 
-6. § Az egészségügyi szakmai kollégium működéséről szóló 26/2020. (VIII. 4.) EMMI rendelet 10. § (1) bekezdés a) pontjában a „szakmai kamara” szövegrész helyébe a „szakmai kamara és az Egészségügyi Tudományos Tanács” szöveg lép.
+6. §[^7]
+
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
