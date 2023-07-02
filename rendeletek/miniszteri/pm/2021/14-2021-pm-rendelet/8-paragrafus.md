@@ -1,3 +1,3 @@
-## 7. § A 40/2015. (XII. 30.) NGM rendelet 14. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 7. §[^8]
 
-## „(2) A vizsgára jelentkező a jelentkezési lapon megjelöli a tervezett vizsga helyszínét vagy a vizsgahelyiségen kívüli vizsga igényét és a tervezett vizsga előzetes időpontját, valamint nyilatkozik a vizsgaszabályzat elfogadásáról, a sikeres vizsga letétele esetén kiállítandó hatósági bizonyítvány kiállításának módjáról.”
+[^8]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
