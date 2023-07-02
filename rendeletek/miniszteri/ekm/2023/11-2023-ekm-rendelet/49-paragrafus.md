@@ -1,80 +1,80 @@
 49. § Hatályát veszti a 24/2005. (IV. 21.) GKM rendelet
 
-1.[^137]
+1.[^138]
 
-2.[^138]
+2.[^139]
 
-3.[^139]
+3.[^140]
 
-4.[^140]
+4.[^141]
 
-5.[^141]
+5.[^142]
 
-6.[^142]
+6.[^143]
 
-7.[^143]
+7.[^144]
 
-8.[^144]
+8.[^145]
 
-9.[^145]
+9.[^146]
 
-10.[^146]
+10.[^147]
 
-11.[^147]
+11.[^148]
 
-12.[^148]
+12.[^149]
 
-13.[^149]
+13.[^150]
 
-14.[^150]
+14.[^151]
 
-15.[^151]
+15.[^152]
 
-16.[^152]
+16.[^153]
 
-17.[^153]
+17.[^154]
 
-18.[^154]
+18.[^155]
 
-19.[^155]
+19.[^156]
 
-20.[^156]
+20.[^157]
 
-21.[^157]
+21.[^158]
 
-22.[^158]
+22.[^159]
 
-23.[^159]
+23.[^160]
 
-24.[^160]
+24.[^161]
 
-25.[^161]
+25.[^162]
 
-26.[^162]
+26.[^163]
 
-[^137]: A 49. § 1. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^138]: A 49. § 2. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^139]: A 49. § 3. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^140]: A 49. § 4. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^141]: A 49. § 5. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^142]: A 49. § 6. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^143]: A 49. § 7. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^144]: A 49. § 8. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^145]: A 49. § 9. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^146]: A 49. § 10. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^147]: A 49. § 11. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^148]: A 49. § 12. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^149]: A 49. § 13. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^150]: A 49. § 14. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^151]: A 49. § 15. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^152]: A 49. § 16. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^153]: A 49. § 17. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^154]: A 49. § 18. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^155]: A 49. § 19. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^156]: A 49. § 20. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^157]: A 49. § 21. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^158]: A 49. § 22. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^159]: A 49. § 23. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^160]: A 49. § 24. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^161]: A 49. § 25. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^162]: A 49. § 26. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^138]: A 49. § 1. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^139]: A 49. § 2. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+[^140]: A 49. § 3. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+[^141]: A 49. § 4. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+[^142]: A 49. § 5. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+[^143]: A 49. § 6. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^144]: A 49. § 7. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^145]: A 49. § 8. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^146]: A 49. § 9. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+[^147]: A 49. § 10. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+[^148]: A 49. § 11. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+[^149]: A 49. § 12. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+[^150]: A 49. § 13. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+[^151]: A 49. § 14. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+[^152]: A 49. § 15. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+[^153]: A 49. § 16. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+[^154]: A 49. § 17. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+[^155]: A 49. § 18. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+[^156]: A 49. § 19. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^157]: A 49. § 20. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^158]: A 49. § 21. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^159]: A 49. § 22. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+[^160]: A 49. § 23. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+[^161]: A 49. § 24. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+[^162]: A 49. § 25. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^163]: A 49. § 26. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

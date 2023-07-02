@@ -1,3 +1,3 @@
-1. melléklet a 11/2023. (VI. 23.) ÉKM rendelethez[^171]
+1. melléklet a 11/2023. (VI. 23.) ÉKM rendelethez[^172]
 
-[^171]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^172]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

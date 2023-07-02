@@ -1,1 +1,3 @@
-45. § A 24/2005. (IV. 21.) GKM rendelet 39/A. §-a helyébe a következő rendelkezés lép:
+45. §[^82]
+
+[^82]: A 45. § az 58. § (2) bekezdése alapján 2023. július 1-jén lép hatályba.
