@@ -1,15 +1,19 @@
 19. § A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról szóló 114/2007. (V. 24.) Korm. rendelet
 
-a)[^9]
+a)[^11]
 
-b) 91. § (1a) bekezdésében az „a lakóhely szerint illetékes” szövegrész helyébe a „bármely” szöveg és a „jelenti be” szövegrész helyébe a „bejelentheti” szöveg,
+b)[^12]
 
-c) 114. § (1) bekezdésében az „elrendelésére –” szövegrész helyébe az „elrendelésére és a Tv. 45/A. § (2) bekezdése szerinti végrehajtására –” szöveg,
+c)[^13]
 
-d) 169/G. § (1) bekezdésében az „elektronikus ügyindítási” szövegrész helyébe az „ügyindítási elektronikus” szöveg,
+d)[^14]
 
-e) 169/G. § (4) bekezdésében az „elektronikus ügyindítási” szövegrész helyébe az „ügyindítási elektronikus” szöveg
+e)[^15]
 
 lép.
 
-[^9]: A 19. § a) pontja a 49. § (3) bekezdés alapján 2023. november 19-én lép hatályba.
+[^11]: A 19. § a) pontja a 49. § (3) bekezdés alapján 2023. november 19-én lép hatályba.
+[^12]: A 19. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 19. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 19. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 19. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

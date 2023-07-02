@@ -1,1 +1,3 @@
-24. § Hatályát veszti a Rendőrség szerveiről és a Rendőrség szerveinek feladat- és hatásköréről szóló 329/2007. (XII. 13.) Korm. rendelet 12. § (5) bekezdés c) pontja.
+24. §[^20]
+
+[^20]: A 24. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

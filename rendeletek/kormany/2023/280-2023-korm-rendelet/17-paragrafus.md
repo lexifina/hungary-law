@@ -1,3 +1,3 @@
-17. §[^7]
+17. §[^9]
 
-[^7]: A 17. § a 49. § (3) bekezdés alapján 2023. november 19-én lép hatályba.
+[^9]: A 17. § a 49. § (3) bekezdés alapján 2023. november 19-én lép hatályba.

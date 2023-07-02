@@ -1,3 +1,3 @@
-16. §[^6]
+16. §[^8]
 
-[^6]: A 16. § a 49. § (4) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^8]: A 16. § a 49. § (4) bekezdés alapján 2024. január 1-jén lép hatályba.

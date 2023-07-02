@@ -1,1 +1,3 @@
-43. § Hatályát veszti az egészségügyi létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 246/2015. (IX. 8.) Korm. rendelet 13. § (2)–(4) bekezdésében az „a Vhr. 6. § (1) bekezdése szerinti,” szövegrész.
+43. §[^39]
+
+[^39]: A 43. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
