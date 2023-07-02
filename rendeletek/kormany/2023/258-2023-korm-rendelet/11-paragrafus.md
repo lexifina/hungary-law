@@ -1,9 +1,5 @@
 ## 10. A Budai Palotanegyed területén megvalósuló kiemelten közérdekű beruházások megnevezéséről, valamint az ingatlanok vagyonkezelési feladatainak ellátásáról szóló 313/2018. (XII. 27.) Korm. rendelet módosítása
 
-11. § A Budai Palotanegyed területén megvalósuló kiemelten közérdekű beruházások megnevezéséről, valamint az ingatlanok vagyonkezelési feladatainak ellátásáról szóló 313/2018. (XII. 27.) Korm. rendelet
+11. §[^12]
 
-a) 8. § (3) bekezdés c) pont ca) alpontjában a „Köztársasági Elnöki Hivatal” szövegrész helyébe a „Sándor-palota” szöveg,
-
-b) 13. § (3) bekezdésében a „Köztársasági Elnöki Hivatallal” szövegrész helyébe a „Sándor-palotával” szöveg
-
-lép.
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,7 +1,5 @@
-## „a) a kultúráért felelős miniszter, a felsőoktatásért felelős miniszter és a kormányzati tudománypolitikáért felelős miniszter,
-
-## b) a Sándor-palota által delegált egy fő,”
-
 ## 6. A kormányzati célú hálózatokról szóló 346/2010. (XII. 28.) Korm. rendelet módosítása
 
-7. § A kormányzati célú hálózatokról szóló 346/2010. (XII. 28.) Korm. rendelet 3. mellékletében foglalt „I. Központi finanszírozásúak” táblázat 1. pont 1.12. alpontjában a „Köztársasági Elnöki Hivatal” szövegrész helyébe a „Sándor-palota” szöveg lép.
+7. §[^8]
+
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

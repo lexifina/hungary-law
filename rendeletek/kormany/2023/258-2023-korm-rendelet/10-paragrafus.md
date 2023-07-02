@@ -1,3 +1,5 @@
 ## 9. A Nemzeti Címer Bizottságról szóló 138/2016. (VI. 13.) Korm. rendelet módosítása
 
-10. § A Nemzeti Címer Bizottságról szóló 138/2016. (VI. 13.) Korm. rendelet 3. § (3) bekezdésében a „Köztársasági Elnöki Hivatal főigazgatóját” szövegrész helyébe a „Sándor-palota vezetőjét” szöveg lép.
+10. §[^11]
+
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
