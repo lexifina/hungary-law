@@ -1,3 +1,3 @@
-3. § A Tartalékrendelet 9. §-a a következő (3) bekezdéssel egészül ki:
+3. §[^4]
 
-„(3) E rendelet alkalmazásában teljesítési tárgyidőszaknak a hónap első naptári napjától a hónap utolsó naptári napjáig terjedő időszak minősül, amely vonatkozásában a kötelező tartalékkötelezettség megállapításra kerül.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
