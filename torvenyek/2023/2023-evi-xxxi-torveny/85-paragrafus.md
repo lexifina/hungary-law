@@ -4,7 +4,7 @@
 
 a)
 
-b) 459. § (1) bekezdés 11. pont k) alpontjában a „Köztársasági Elnök Hivatalánál” szövegrész helyébe a „Sándor-palotánál” szöveg,
+b)
 
 c)
 
