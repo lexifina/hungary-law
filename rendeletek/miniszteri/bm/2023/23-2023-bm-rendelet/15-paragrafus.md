@@ -1,1 +1,3 @@
-15. § Hatályát veszti az R4. 5. § (1) bekezdés b) pont bi) alpontjában az „a betegek otthonában a kórházi ellátást kiváltó szakápolási feladatok esetén az otthoni szakápolási szolgálat,” szövegrész.
+15. §[^15]
+
+[^15]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-18. § Az R5. 15. §-a a következő (11) bekezdéssel egészül ki:
+18. §[^18]
 
-„(11) A hatóság megkeresésére végzett (9) bekezdés d) és e) pontja szerinti vizsgálatok elvégzését nyújtó egészségügyi szolgáltatókról az OMSZ az általános rendőrségi feladatok ellátására létrehozott szervet tájékoztatja.”
+[^18]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
