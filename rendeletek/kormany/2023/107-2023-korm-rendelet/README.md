@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-107-20-
 | 2023-04-30 | 2023-107-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2023-05-01 | 2023-107-20-22.4 | 2010. évi CXXX. törvény |
 | 2023-07-01 | 2023-107-20-22.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2023-07-02 | 2023-107-20-22.6 | 2010. évi CXXX. törvény |
