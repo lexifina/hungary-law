@@ -1,3 +1,3 @@
-3. melléklet a 19/2022. (IX. 19.) TIM rendelethez
+3. melléklet a 19/2022. (IX. 19.) TIM rendelethez[^9]
 
-A használati díj megfizetése ellenében használható autópályákról, autóutakról, főutakról és azok díjáról szóló 45/2020. (XI. 28.) ITM rendelet 2. melléklet címében az „ára” szövegrész helyébe az „árának alapja” szöveg lép.
+[^9]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
