@@ -6,4 +6,4 @@
 
 (3)
 
-(4) Az Nsztv. 63. §-ában „Az online gyűjtési rendszer megfelelőségéről szóló igazolás kiállítása, a” szövegrész helyébe az „A” szöveg lép.
+(4)
