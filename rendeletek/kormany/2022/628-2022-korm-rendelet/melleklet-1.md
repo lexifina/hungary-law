@@ -1,3 +1,3 @@
-1. melléklet a 628/2022. (XII. 30.) Korm. rendelethez[^45]
+1. melléklet a 628/2022. (XII. 30.) Korm. rendelethez[^47]
 
-[^45]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^47]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
