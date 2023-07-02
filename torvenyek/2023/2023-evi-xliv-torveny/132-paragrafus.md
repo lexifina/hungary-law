@@ -1,3 +1,1 @@
-132. § A Hegyk. tv. 20. §-a helyébe a következő rendelkezés lép:
-
-„20. § Hegyközségi tag származási bizonyítványt, valamint a hegybíró és a Hegyközségek Nemzeti Tanácsának főtitkára által kiállítandó igazolást térítésmentesen kap, ha eleget tett a hegyközségi járulék és a szakmaközi piacszervezési intézkedésekben meghatározott járulék (a továbbiakban: szakmaközi járulék) megfizetésére vonatkozó, valamint az adatszolgáltatási kötelezettségének. Több hegyközségben is tagsággal rendelkező tagnak valamennyi hegyközségben teljesítenie kell a fennálló hegyközségi és szakmaközi járulékfizetési kötelezettségét.”
+### 132. §

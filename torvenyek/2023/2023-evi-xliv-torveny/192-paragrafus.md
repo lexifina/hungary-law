@@ -1,3 +1,1 @@
-192. § A Foktftv. 18/A. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A (3) bekezdésben foglalt kötelezettség biztosítására az öröklés ingatlan-nyilvántartási átvezetésével egyidejűleg az ingatlanügyi hatóság az ingatlan tulajdoni lapjára feljegyzi a közös tulajdon rendezésének kötelezettsége tényét az örökléssel érintett tulajdoni hányadok vonatkozásában, valamint a teljes hatályú hagyatékátadó végzés jogerőre emelkedését, az ideiglenes hatályú hagyatékátadó végzés teljes hatályúvá válását megállapító végzés jogerőre emelkedését, a He. 89. §-a szerinti végzés jogerőre emelkedését, hagyatéki per esetén az ítélet jogerőre emelkedését követő öt év leteltének dátumát.”
+### 192. §

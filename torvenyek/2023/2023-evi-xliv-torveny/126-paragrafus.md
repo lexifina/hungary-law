@@ -1,3 +1,1 @@
-126. § A NAK tv. XI. Fejezete a következő 60. §-sal egészül ki:
-
-„60. § E törvénynek az egyes törvényeknek az agrárminiszter feladatkörét érintő módosításáról szóló 2023. évi XLIV. törvénnyel (a továbbiakban: 2023. évi XLIV. törvény) megállapított 14/A. §-át a 2023. évi XLIV. törvény hatálybalépésekor a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény alapján folyamatban lévő ügyekben is alkalmazni kell.”
+### 126. §

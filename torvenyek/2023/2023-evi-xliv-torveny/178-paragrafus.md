@@ -1,27 +1,3 @@
 ## 25. Az öntözéses gazdálkodásról szóló 2019. évi CXIII. törvény módosítása
 
-178. § (1) Az öntözéses gazdálkodásról szóló 2019. évi CXIII. törvény (a továbbiakban: Ögt.) 7. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Fenntartható vízgazdálkodási közösségként olyan, a (2) bekezdésben meghatározott feltételeknek megfelelő gazdasági társaság vagy szövetkezet ismerhető el, amelyben a tagok legalább 75 százaléka az öntözési körzet területén található földrészlet használati jogával rendelkező mezőgazdasági termelő. Az öntözési körzet területén mezőgazdasági vízszolgáltatást biztosító természetes vagy jogi személyek a fenntartható vízgazdálkodási közösség tagjává válhatnak.”
-
-(2) Az Ögt. 7. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A fenntartható vízgazdálkodási közösség az öntözési körzet területén
-
-a) szántóföldi növénytermesztés, ipari zöldségtermesztés esetén legalább 100 hektár – amelynek legfeljebb 10 százaléka állandó gyep (legeltetett, kaszált) terület is lehet –,
-
-b) kertészeti zöldség és ültetvények (gyümölcs, szőlő), illetve aromás-, gyógy- és fűszernövény termesztése esetén legalább 10 hektár
-
-öntözésének lehetőségét biztosítja.”
-
-(3) Az Ögt. 7. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) Az elismert fenntartható vízgazdálkodási közösség
-
-a) törekszik az öntözési körzet területén a fenntartható vízgazdálkodás érdekében megvalósítható legjobb mezőgazdasági gyakorlat bevezetésére,
-
-b) részt vesz az öntözési igazgatási szerv által évente szervezett képzésen,
-
-c) nyilvántartja a vízfelhasználási, az öntözési körzet területén elvégzett talajvizsgálati és a termesztett növénykultúra adatait,
-
-d) a nyilvántartott adatokat az öntözési igazgatási szerv által előírt módon, időben és csoportosításban megadja.”
+### 178. §

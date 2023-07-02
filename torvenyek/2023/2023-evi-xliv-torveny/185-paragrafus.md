@@ -1,7 +1,3 @@
 ## 26. A termelőszövetkezeti földhasználati jog alatt álló földrészletek tulajdonjogának rendezéséről és egyes földügyi tárgyú törvények módosításáról szóló 2020. évi XL. törvény módosítása
 
-185. § A termelőszövetkezeti földhasználati jog alatt álló földrészletek tulajdonjogának rendezéséről és egyes földügyi tárgyú törvények módosításáról szóló 2020. évi XL. törvény 6/A. §-a helyébe a következő rendelkezés lép:
-
-„6/A. § (1) Ha a szövetkezet az 1992. évi II. törvény 25. § (3) bekezdésének megfelelően 2021. január 1-jét megelőzően döntést hozott, ezen vagyonnevesítéssel meghatározott aranykorona értéket az ingatlanügyi hatóság a szövetkezet kérelme alapján – az egyes tagoknak járó részarány-tulajdonként – vezeti rá a termelőszövetkezeti különlapokra. Az így nyilvántartott részarány-tulajdona tekintetében a részarány-tulajdonos e törvény szerinti kártalanítási összegre jogosult.
-
-(2) Ha a szövetkezet az 1992. évi II. törvény 25. § (3) bekezdésének megfelelően 2021. január 1-jét megelőzően döntést hozott, az Fkbt. 12/C. § (5) bekezdése szerinti ingatlanok aranykorona értékét az ingatlanügyi hatóság – a szövetkezet, vagy a szövetkezet jogutód nélküli megszűnése esetén a jogosultak képviseletében eljáró, a jogosultak által többségi szavazással meghatalmazott személy kérelme alapján – a szövetkezet vagyonnevesítéssel érintett tagjai részére a vagyonnevesítésben való részesülésük arányában, részarány-tulajdonként vezeti rá a termelőszövetkezeti különlapokra. Az így nyilvántartott részarány-tulajdona tekintetében a részarány-tulajdonos e törvény szerinti kártalanítási összegre jogosult.”
+### 185. §
