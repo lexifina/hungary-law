@@ -1,4 +1,4 @@
-41. § A fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény
+### 41. §
 
 1.
 
@@ -32,7 +32,7 @@
 
 16.
 
-17. 16/A. §-ában a „felvilágosítást megadni” szövegrész helyébe a „felvilágosítást, tájékoztatást megadni és a Hatóság által a 10/C. §-ban foglalt feladatainak ellátása kapcsán megküldött aktuális tájékoztatót – a Hatóság elnökének a dohánytermék-kiskereskedelmi tevékenységhez kapcsolódó engedélyezés és ellenőrzés egyes szabályairól szóló rendeletében meghatározott módon – a dohányboltban, valamint az elkülönített helyen kihelyezni, vagy elektronikus eszköz útján megjeleníteni” szöveg,
+17.
 
 18.
 
