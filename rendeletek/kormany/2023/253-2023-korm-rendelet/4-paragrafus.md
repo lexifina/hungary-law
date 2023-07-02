@@ -1,5 +1,3 @@
-4. § Hatályát veszti az OTÉK
+4. §[^5]
 
-a) 115. § (1) bekezdése,
-
-b) 121. § (4) bekezdése.
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
