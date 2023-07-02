@@ -1,5 +1,1 @@
 3. melléklet a 2023. évi XLV. törvényhez
-
-1. Az egységes közszolgáltatói számlaképről szóló 2013. évi CLXXXVIII. törvény 11. melléklet 4.6. pontja helyébe a következő pont lép:
-
-„4.6. A rezsidíj csökkentésének eredményeképpen az Ön megtakarítása ebben az elszámolt időszakban: a hatályos árképzésből eredő megtakarítás a 2013. június 30-án hatályos árképzéshez képest (a 2013. július 1-jét követően elszámolt összes díj a 2013. június 30-án hatályos árképzése alapján számított ellenértékének bruttó értéke és a 2013. július 1-jét követő fogyasztás alapján fizetendő összeg bruttó értékének összesített különbsége összegszerűen feltüntetve). Társasház vagy lakásszövetkezet esetében a megtakarítás összegét a hulladékról szóló 2012. évi CLXXXV. törvény 91. § (3) bekezdésében foglalt tájékoztatási kötelezettség teljesítésére figyelemmel kell meghatározni. Hulladékgazdálkodási közszolgáltatás esetén a 2023. július 1-jét megelőző időszak vonatkozásában felhalmozott összeget a 2023. július 1-jei záródátum szerint kell figyelembe venni.”
