@@ -2,7 +2,7 @@
 
 a)
 
-b) 45/A. § (1) bekezdés nyitó szövegrészében a „tagállamának hatósága” szövegrész helyébe a „tagállamának vagy más schengeni államnak a hatósága” szöveg,
+b)
 
 c)
 
@@ -12,6 +12,6 @@ e)
 
 f)
 
-g) 111. § (1) bekezdés o) pontjában az „a tagállamok” szövegrész helyébe az „az Európai Unió tagállama vagy más schengeni állam” szöveg
+g)
 
 lép.

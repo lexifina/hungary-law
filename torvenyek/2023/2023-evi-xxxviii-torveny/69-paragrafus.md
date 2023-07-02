@@ -10,7 +10,7 @@ d)
 
 e)
 
-f) 45/A. § (1) bekezdés d) pontjában a „súlyos” szövegrész,
+f)
 
 g)
 
