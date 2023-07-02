@@ -84,6 +84,8 @@ f) a gondnokoltak és az előzetes jognyilatkozatok nyilvántartását vezető s
 
 g) a választójoggal nem rendelkező polgárok nyilvántartását vezető szervnek a választójoggal nem rendelkező polgárok nyilvántartásában szereplő polgár természetes személyazonosító adatainak, személyi azonosítójának, lakóhelyének és tartózkodási helyének változásáról, továbbá az érintett elhalálozásáról.
 
+h) az ingatlan-nyilvántartás, illetve a földhasználati nyilvántartás szerveinek az ingatlan-nyilvántartásban és a földhasználati nyilvántartásban szereplő polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, családi állapotának változásáról, az érintett elhalálozása tényéről, helyéről és idejéről.
+
 (3) Az adatszolgáltatást az (1), (1a) és (2) bekezdés alapján igénybe vevő szervek –
 
 a) az (1) bekezdés a) pontja szerinti állami adóhatóság,
@@ -113,5 +115,7 @@ l) az (1) bekezdés n) pontja szerinti, a Kormány által a Program megvalósít
 m) az (1) bekezdés i) pontja szerinti bírósági peres és nemperes eljárásokra adott általános meghatalmazások közhiteles nyilvántartásokról szóló törvény szerinti nyilvántartását vezető szerv,
 
 n) a (2) bekezdés f) pontja szerinti gondnokoltak és az előzetes jognyilatkozatok nyilvántartását vezető szerv
+
+o) a (2) bekezdés h) pontja szerinti ingatlan-nyilvántartás és földhasználati nyilvántartás szervei
 
 kivételével – az adatátadást kizárólag akkor kezdeményezhetik, ha jogszabályban előírt feladataik ellátása érdekében az általuk kezelt adatok időszerűségét biztosítani kell, és csak azokra az érintettekre vonatkozóan, akiknek az adataira nézve az időszerűséget biztosítani kell.
