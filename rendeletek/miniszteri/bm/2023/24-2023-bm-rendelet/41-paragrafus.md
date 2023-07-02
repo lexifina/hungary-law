@@ -1,5 +1,5 @@
 ## 14. Az Országgyűlési Őrségnél alkalmazható rendvédelmi egészségkárosodási ellátásról szóló 56/2016. (XII. 22.) BM rendelet módosítása
 
-41. § Az Országgyűlési Őrségnél alkalmazható rendvédelmi egészségkárosodási ellátásról szóló 56/2016. (XII. 22.) BM rendelet 3. § (1) bekezdése helyébe a következő rendelkezés lép:
+41. §[^32]
 
-„(1) Az Alk.r.-ben foglaltak szerint az Országgyűlési Őrség parancsnokának kézbesített, a FÜV Bizottságnak az egészségi alkalmasság felülvizsgálatára irányuló eljárása során az egészségi alkalmatlanság kérdésében hozott, „Szolgálati beosztásának ellátására alkalmatlan” vagy „Hivatásos szolgálatra alkalmatlan” minősítést tartalmazó végrehajtható határozat (a továbbiakban: FÜV határozat) minősítő részében foglaltak alapján az Országgyűlési Őrség parancsnoka haladéktalanul intézkedik arra, hogy a humánigazgatási szakszolgálat a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) 82/B. § (1) bekezdése szerinti eljárást megkezdje.”
+[^32]: A 41. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

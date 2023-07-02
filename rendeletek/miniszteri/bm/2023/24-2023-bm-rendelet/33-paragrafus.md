@@ -1,1 +1,3 @@
-33. § Hatályát veszti az Országgyűlési Őrség hivatásos állományát érintő humánigazgatási tárgyú szabályokról szóló 56/2012. (XI. 22.) BM rendelet 41/A. §-a.
+33. §[^24]
+
+[^24]: A 33. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

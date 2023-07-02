@@ -1,1 +1,3 @@
-47. § A belügyminiszter irányítása alatt álló egyes rendvédelmi feladatokat ellátó szerveknél foglalkoztatott hivatásos állomány és rendvédelmi igazgatási alkalmazotti állomány alkalmasságvizsgálatáról szóló 45/2020. (XII. 16.) BM rendelet 76. § (2) bekezdés c) pontjában a „követően.” szövegrész helyébe a „követően, vagy” szöveg lép.
+47. §[^38]
+
+[^38]: A 47. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,5 @@
 ## 9. A hivatásos katasztrófavédelmi szerveknél, az önkormányzati és létesítményi tűzoltóságoknál, az önkéntes tűzoltó egyesületeknél, valamint az ez irányú szakágazatokban foglalkoztatottak szakmai képesítési követelményeiről és szakmai képzéseiről szóló 9/2015. (III. 25.) BM rendelet módosítása
 
-34. § A hivatásos katasztrófavédelmi szerveknél, az önkormányzati és létesítményi tűzoltóságoknál, az önkéntes tűzoltó egyesületeknél, valamint az ez irányú szakágazatokban foglalkoztatottak szakmai képesítési követelményeiről és szakmai képzéseiről szóló 9/2015. (III. 25.) BM rendelet 4. melléklet 2.4.1.2. pontjában a „képesítések jegyzékbe történő felvételéről szóló 139/2015. (VI. 9.) Korm. rendeletben” szövegrész helyébe a „képzések létesítéséről szóló 65/2021. (XII. 29.) ITM rendeletben” szöveg lép.
+34. §[^25]
+
+[^25]: A 34. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

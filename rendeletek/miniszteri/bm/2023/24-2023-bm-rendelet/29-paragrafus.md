@@ -1,1 +1,3 @@
-29. § A belügyminiszter által alapított és adományozott elismerésekről szóló 37/2012. (VIII. 2.) BM rendelet 12. § a) pontjában az „1–2.” szövegrész helyébe az „1–3.” szöveg lép.
+29. §[^20]
+
+[^20]: A 29. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
