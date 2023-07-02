@@ -1,1 +1,3 @@
-2. § Az Útdíjtv. vhr. 9/A. § (2) és (3) bekezdésében a „mértékének” szövegrész helyébe a „korrigált mértékének” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
