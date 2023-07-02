@@ -1,7 +1,3 @@
-6. § Az R1.
+6. §[^7]
 
-a) 2. számú melléklet 7. pont 7.2. alpontjában a „mágneses” szövegrész helyébe az „elektronikus” szöveg,
-
-b) 2. számú melléklet 7. pont 7.3. alpontjában a „papír” szövegrész helyébe a „papír vagy elektronikus levél” szöveg
-
-lép.
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

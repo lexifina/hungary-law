@@ -1,3 +1,3 @@
-16. § Az R4. 4. alcíme a következő 7/B. §-sal egészül ki:
+16. §[^17]
 
-„7/B. § A Nyilvántartó a csoportos adatszolgáltatás engedélyezéséről – a Kknyt. 19. § (1) bekezdés a)–c) pontjában meghatározott eseteket kivéve – vagy elutasításáról határozattal dönt.”
+[^17]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
