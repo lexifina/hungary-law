@@ -1,3 +1,3 @@
-5. § Az R2. a következő 10/A. §-sal egészül ki:
+5. §[^6]
 
-„10/A. § Az ivóvízellátó rendszereket üzemeltető minden intézkedést megtesz annak érdekében, hogy az ivóvíz előállítása – beszerzése, kezelése, tárolása, elosztása – során a vízzel érintkezésbe kerülő termékek, vízkezelő vegyszerek és szűrőanyagok, valamint a vízkezelési eljárások ne jelentsenek veszélyt az emberi egészségre, az élelmiszer-biztonságra és hatásuk ne okozzon vízminőségromlást.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
