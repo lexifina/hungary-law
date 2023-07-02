@@ -1,3 +1,1 @@
-17. § A szakképzésről szóló 2019. évi LXXX. törvény 109. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) Együttműködési megállapodás legfeljebb három évre köthető. Az adott ágazatra vonatkozóan – a közfeladatot ellátó közérdekű vagyonkezelő alapítvány által fenntartott felsőoktatási intézmény által, valamint az egyházi jogi személy által alapított, illetve fenntartott szakképző intézmény kivételével – nem köthető új együttműködési megállapodás, illetve a korábbi együttműködési megállapodást meg kell szüntetni, ha a megelőző három egymást követő tanév átlagában a korábbi együttműködési megállapodásban a (3) bekezdés alapján meghatározott keretszám ötven százaléka nem került betöltésre.”
+### 17. §

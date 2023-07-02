@@ -1,7 +1,3 @@
 ## 3. A felnőttképzésről szóló 2013. évi LXXVII. törvény módosítása
 
-26. § A felnőttképzésről szóló 2013. évi LXXVII. törvény 13/C. §-a a következő (2a) és (2b) bekezdéssel egészül ki:
-
-„(2a) A felnőttképző a felnőttképzésért felelős miniszter rendeletében meghatározott tartalommal és feltételek alapján mikrotanúsítványt állíthat ki, a FAR-rendszeren keresztül, a szakképzésről szóló törvény szerinti szakmai képzés keretében elsajátított tanulási eredmény igazolására, amennyiben a mikrotanúsítvány kiadásának alapjául szolgáló képzési tartalom oktatására a szakképzésről szóló törvény szerinti szakképzési tankönyv felhasználásával kerül sor oly módon, hogy a felnőttképző a szakképzési tankönyv teljes ismeretanyagának megfelelő elsajátításáról dokumentáltan meggyőződik. Amennyiben a felnőttképző mikrotanúsítványt kíván kiállítani, a kiállítás alapjául szolgáló képzésről a 15. § szerinti adatszolgáltatást kell teljesítenie a FAR-rendszerben. A felnőttképző által kiállításra kerülő mikrotanúsítványra a (3) és (4) bekezdés rendelkezéseit nem lehet alkalmazni.
-
-(2b) A (2a) bekezdés szerinti mikrotanúsítványt a felnőttképző a FAR-rendszerben állítja ki és elektronikus formában tárolja oly módon, hogy a mikrotanúsítványt a FAR-rendszer üzemeltetője elektronikus aláírással és olyan szolgáltató által kiadott időbélyegzővel látja el, amely e szolgáltatást minősített szolgáltatóként nyújtja. A mikrotanúsítványt a felnőttképző a képzésben részt vevő személy részére a FAR-rendszeren keresztül elektronikus úton továbbítja.”
+### 26. §
