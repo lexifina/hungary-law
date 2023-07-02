@@ -1,9 +1,5 @@
 ## 9. A környezetvédelmi termékdíjjal összefüggő kormányrendeletek módosításáról szóló 633/2022. (XII. 30.) Korm. rendelet módosítása
 
-53. § Nem lép hatályba a környezetvédelmi termékdíjjal összefüggő kormányrendeletek módosításáról szóló 633/2022. (XII. 30.) Korm. rendelet
+53. §[^53]
 
-a) 3. §-a,
-
-b) 5. § 5. pontja,
-
-c) 1. melléklete.
+[^53]: Az 53. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.

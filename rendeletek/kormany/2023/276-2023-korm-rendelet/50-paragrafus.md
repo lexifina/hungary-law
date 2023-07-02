@@ -1,11 +1,3 @@
-50. § Hatályát veszti a hulladékká vált gépjárművekről szóló 369/2014. (XII. 30.) Korm. rendelet
+50. §[^50]
 
-a) 5. alcíme,
-
-b) 18. §-a,
-
-c) 20. § (3) bekezdése,
-
-d) 1. melléklete,
-
-e) 3. melléklet 2. pont a) és b) alpontja.
+[^50]: Az 50. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

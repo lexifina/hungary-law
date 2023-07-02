@@ -1,3 +1,3 @@
-11. § A csomagolásról és a csomagolási hulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló 442/2012. (XII. 29.) Korm. rendelet 4. alcím címe helyébe a következő alcím cím lép:
+11. §[^11]
 
-„4. Hasznosítási kötelezettség”
+[^11]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

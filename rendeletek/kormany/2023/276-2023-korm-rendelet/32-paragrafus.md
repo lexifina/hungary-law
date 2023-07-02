@@ -1,3 +1,3 @@
-32. § Az elektromos és elektronikus berendezésekkel kapcsolatos hulladékgazdálkodási tevékenységekről szóló 197/2014. (VIII. 1.) Korm. rendelet 7. § (7) bekezdése helyébe a következő rendelkezés lép:
+32. §[^32]
 
-„(7) A gyártó a kezelési kötelezettséggel összefüggő, az elektromos, elektronikus berendezés alkatrészeinek és alapanyagainak meghatározására, veszélyesanyag-tartalmára vonatkozó műszaki dokumentációt és kezelési utasítást az elektromos, elektronikus berendezés forgalomba hozatalától számított 1 éven belül a koncessziós társaságnak vagy a hasznosítást végző hulladékkezelőnek elektronikus formában hozzáférhetővé teszi.”
+[^32]: A 32. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

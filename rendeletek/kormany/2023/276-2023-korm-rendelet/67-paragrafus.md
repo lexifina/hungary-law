@@ -1,3 +1,3 @@
-67. § A kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló 80/2023. (III. 14.) Korm. rendelet 27. §-a a következő (6) bekezdéssel egészül ki:
+67. §[^67]
 
-„(6) A gyártó, a koncessziós társaság és a koncesszori alvállalkozó a tárgyévben teljesített, az egyes tárgynegyedévekre vonatkozó adatszolgáltatásának adatait legkésőbb a tárgyévet követő év március 31. napjáig módosíthatja.”
+[^67]: A 67. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

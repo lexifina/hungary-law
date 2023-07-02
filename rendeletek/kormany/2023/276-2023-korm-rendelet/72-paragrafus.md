@@ -1,5 +1,3 @@
-72. § Hatályát veszti a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló 80/2023. (III. 14.) Korm. rendelet
+72. §[^73]
 
-a) 23. § (1) bekezdésében a „vagy a meghatalmazott képviselő” szövegrész,
-
-b) 23. § (3) bekezdésében az „a Ht 31. § (5) bekezdésének kivételével” szövegrész.
+[^73]: A 72. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

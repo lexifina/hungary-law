@@ -1,3 +1,3 @@
-15. § Az elem- és akkumulátorhulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló 445/2012. (XII. 29.) Korm. rendelet 6. § (1) bekezdése helyébe a következő rendelkezés lép:
+15. §[^15]
 
-„(1) Egyéni teljesítés esetén a gyártó, kollektív teljesítés esetén a koncessziós társaság gondoskodik az átvett és gyűjtött hulladék kezeléséről (a továbbiakban: kezelési kötelezettség).”
+[^15]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

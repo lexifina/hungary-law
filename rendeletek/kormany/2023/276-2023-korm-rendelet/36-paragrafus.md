@@ -1,3 +1,3 @@
-36. § Az elektromos és elektronikus berendezésekkel kapcsolatos hulladékgazdálkodási tevékenységekről szóló 197/2014. (VIII. 1.) Korm. rendelet 25. § (2) bekezdése helyébe a következő rendelkezés lép:
+36. §[^36]
 
-„(2) Ha az elektromos, elektronikus berendezés nem háztartásban képződő hulladéka történelmi hulladéknak minősül, és a nem természetes személy hulladékbirtokos a hulladékká vált elektromos, elektronikus berendezést nem helyettesíti új, azonos vagy azonos funkciójú elektromos, elektronikus berendezéssel, a hulladékká vált elektromos, elektronikus berendezést a koncessziós társaságnak átadja, és annak kezelési költségeit megfizeti.”
+[^36]: A 36. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

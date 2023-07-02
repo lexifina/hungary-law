@@ -1,7 +1,3 @@
-71. § A kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló 80/2023. (III. 14.) Korm. rendelet
+71. §[^72]
 
-a) 6. § nyitó szövegrészében a „Kollektív teljesítés esetén a” szövegrész helyébe az „A” szöveg,
-
-b) 3. melléklet 3. pontjában a „túlmenően” szövegrész helyébe a „túlmenően egyéni teljesítés esetén” szöveg
-
-lép.
+[^72]: A 71. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

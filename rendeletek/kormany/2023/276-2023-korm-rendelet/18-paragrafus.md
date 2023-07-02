@@ -1,3 +1,3 @@
-18. § Az elem- és akkumulátorhulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló 445/2012. (XII. 29.) Korm. rendelet 14. § (2) bekezdése helyébe a következő rendelkezés lép:
+18. §[^18]
 
-„(2) A koncessziós társaság és a koncesszori alvállalkozó a 4. melléklet 2. és 3. pontja szerinti adattartalommal nyilvántartást vezet.”
+[^18]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

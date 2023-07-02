@@ -1,3 +1,3 @@
-43. § A hulladékká vált gépjárművekről szóló 369/2014. (XII. 30.) Korm. rendelet 6. § (2) bekezdése helyébe a következő rendelkezés lép:
+43. §[^43]
 
-„(2) Egyéni teljesítés esetén a gyártó, kollektív teljesítés esetén a koncessziós társaság a gépjármű átvételét a közlekedési hatóság által kiállított bontási átvételi igazolás átadásával igazolja.”
+[^43]: A 43. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

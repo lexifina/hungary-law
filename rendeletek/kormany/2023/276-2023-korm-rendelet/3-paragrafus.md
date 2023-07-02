@@ -1,1 +1,3 @@
-3. § A környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény végrehajtásáról szóló 343/2011. (XII. 29.) Korm. rendelet 1. melléklete helyébe az 1. melléklet lép.
+3. §[^3]
+
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

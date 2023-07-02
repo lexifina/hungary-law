@@ -1,5 +1,5 @@
 ## 10. A kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló 80/2023. (III. 14.) Korm. rendelet módosítása
 
-54. § A kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló 80/2023. (III. 14.) Korm. rendelet 1. §-a helyébe a következő rendelkezés lép:
+54. §[^54]
 
-„1. § E rendelet hatálya az 1. mellékletben meghatározott, az 1. melléklet 2. pontja szerinti, nyolc számjegyből álló azonosító számmal, a körforgásos kóddal (a továbbiakban: KF kód) azonosított, a hulladékgazdálkodási intézményi résztevékenység körébe tartozó kiterjesztett gyártói felelősségi rendszer hatálya alá tartozó termékekre (a továbbiakban: körforgásos termék), a körforgásos termékek hulladékára – ide nem értve a lakossági gyógyszerellátás során képződött gyógyszerhulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló miniszteri rendelet és az egészségügyi szolgáltatónál képződő hulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló miniszteri rendelet szerinti gyógyszerhulladéknak minősülő, a gyógyszerrel közvetlenül érintkező fogyasztói csomagolást – és az ezekkel kapcsolatos, e rendelet szerinti tevékenységekre terjed ki.”
+[^54]: Az 54. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

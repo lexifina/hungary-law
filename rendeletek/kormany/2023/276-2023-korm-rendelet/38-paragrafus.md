@@ -1,3 +1,3 @@
-38. § (1) Az elektromos és elektronikus berendezésekkel kapcsolatos hulladékgazdálkodási tevékenységekről szóló 197/2014. (VIII. 1.) Korm. rendelet 7. melléklete a 3. melléklet szerint módosul.
+38. §[^38]
 
-(2) Az elektromos és elektronikus berendezésekkel kapcsolatos hulladékgazdálkodási tevékenységekről szóló 197/2014. (VIII. 1.) Korm. rendelet 8. melléklete helyébe a 4. melléklet lép.
+[^38]: A 38. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
