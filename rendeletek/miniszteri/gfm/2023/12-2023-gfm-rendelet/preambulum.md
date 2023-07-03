@@ -1,1 +1,0 @@
-A pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény 64/A. § (2) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 103. § (1) bekezdés 2. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
