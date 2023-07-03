@@ -1,1 +1,0 @@
-15. § E rendelet 2. melléklet 1. pontja az emberi fogyasztásra szánt víz minőségéről szóló, 2020. december 16-i (EU) 2020/2184 európai parlamenti és tanácsi irányelv II. melléklet D rész 2. pontjának való megfelelést szolgálja.
