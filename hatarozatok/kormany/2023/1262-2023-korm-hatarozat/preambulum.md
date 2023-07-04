@@ -1,0 +1,1 @@
+A Kormány a Magyarország Helyreállítási és Ellenállóképességi Tervében szereplő, a közkiadások hatékony felhasználásának javítása kiadási felülvizsgálatok révén című reform keretében megvalósuló intézkedések mielőbbi végrehajtása érdekében
