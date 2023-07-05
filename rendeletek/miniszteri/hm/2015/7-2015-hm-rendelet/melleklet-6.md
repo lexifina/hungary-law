@@ -18,8 +18,8 @@
 
 | 9 | – | Az 1. § (1) bekezdés alá tartozók | 3,13 |
 
-6. melléklet a 7/2015. (VI. 22.) HM rendelethez[^249]
+6. melléklet a 7/2015. (VI. 22.) HM rendelethez[^251]
 
 Az egészségügyi dolgozók honvédségi bérkompenzációja miatti kiegészítő illetmény megállapításakor figyelembeveendő havi összeg
 
-[^249]: A 6. mellékletet a 25/2016. (XII. 22.) HM rendelet 89. §-a iktatta be.
+[^251]: A 6. mellékletet a 25/2016. (XII. 22.) HM rendelet 89. §-a iktatta be.

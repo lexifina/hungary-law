@@ -1,18 +1,20 @@
 ## 22. A díszelgési tevékenység díjazása
 
-41. § (1)[^65] Az állománynak az MH vitéz Szurmay Sándor Budapest Helyőrség Dandár 32. Nemzeti Honvéd Díszegység (a továbbiakban: 32. NHD), valamint a Protokoll, Delegációs és Rendezvénybiztosító Igazgatóság állományába tartozó, (3) bekezdés szerinti tagja a beosztásából adódó fokozott igénybevételért pótlékra jogosult.
+41. § (1)[^65] Az állomány
+
+a) állami protokolláris és díszelgési feladatokat ellátó honvédségi szervezetnél díszelgők, koronaőrség, palotaőrség vagy huszár munkaköri azonosító kóddal rendszeresített, továbbá
+
+b) más honvédségi szervezetnél díszelgők munkaköri azonosító kóddal rendszeresített
+
+beosztást betöltő tagja a fokozott igénybevételért pótlékra jogosult.
 
 (2) Az állomány zenekari tevékenységért pótlékban részesülő tagja nem jogosult az (1) bekezdés szerinti pótlékra.
 
-(3) Az (1) bekezdés szerinti pótlék mértéke havonta a honvédelmi illetményalap százalékában
+(3)[^66] Az (1) bekezdés szerinti pótlék mértéke havonta a honvédelmi illetményalap százalékában
 
-a) a Honvéd Koronaőrség állománya esetében 150%,
+a) az (1) bekezdés a) pontja szerinti esetben 150%,
 
-b)[^66] a Honvéd Palotaőrség állománya, valamint a 32. NHD parancsokság és törzs díszelgő, koronaőr vagy palotaőr fegyvernemi vagy szakági azonosítóval rendelkező beosztást betöltő állománya esetében 100%,
+b) az (1) bekezdés b) pontja szerinti esetben 75%.
 
-c) a Honvéd Díszzászlóalj állománya esetében 75%, és
-
-d) az a)–c) pontba nem tartozó, díszelgő fegyvernemi vagy szakági azonosítóval rendelkező beosztást betöltő állomány esetében 50%.
-
-[^65]: A 41. § (1) bekezdése a 9/2016. (VI. 29.) HM rendelet 20. § 10. pontja szerint módosított szöveg.
-[^66]: A 41. § (3) bekezdése b) pontja a 9/2016. (VI. 29.) HM rendelet 20. § 11. pontja szerint módosított szöveg.
+[^65]: A 41. § (1) bekezdése a 14/2023. (VII. 4.) HM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^66]: A 41. § (3) bekezdése a 14/2023. (VII. 4.) HM rendelet 2. § (2) bekezdésével megállapított szöveg.
