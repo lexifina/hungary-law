@@ -38,4 +38,11 @@
 
 18. F:4 mező 1., 5., 6. és 7., pontja és az F:5 mező alapján a 651/2014/EU bizottsági rendelet 55. cikk szerinti sportlétesítményekre és multifunkcionális szabadidős létesítményekre nyújtott támogatás,
 
-19. F:4 mező 1., 5., 6. és 7. pontja és az F:5 mező alapján az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet (a továbbiakban: 1408/2013/EU bizottsági rendelet) szerinti mezőgazdasági csekély összegű támogatás
+19.[^6] F:4 mező 1., 5., 6. és 7. pontja és az F:5 mező alapján az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet (a továbbiakban: 1408/2013/EU bizottsági rendelet) szerinti mezőgazdasági csekély összegű támogatás,
+
+20.[^7] 4., 5. és 9. sora alapján a 22/A. alcím szerinti támogatási programot jóváhagyó, valamint az azt módosító európai bizottsági határozatban foglaltakkal összhangban, „Az állami támogatásokra vonatkozó, az Ukrajna elleni orosz agresszióval összefüggésben a gazdaság támogatását célzó ideiglenes válság- és átállási keret” című, 2023. március 17-i, 2023/C 101/03. számú európai bizottsági közlemény 2.1. szakasza szerinti támogatás
+
+nyújtható.
+
+[^6]: A 4. § 19. pontja a 2/2023. (VII. 4.) TFM rendelet 9. § b) pontja szerint módosított szöveg.
+[^7]: A 4. § 20. pontját a 2/2023. (VII. 4.) TFM rendelet 3. §-a iktatta be.

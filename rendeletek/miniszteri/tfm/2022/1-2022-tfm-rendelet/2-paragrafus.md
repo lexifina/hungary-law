@@ -112,7 +112,7 @@ b) esetén a támogatás nyújtását megelőző három üzleti év legalább eg
 
 51. nehéz helyzetben lévő vállalkozás: az Atr. 6. § (4a) és (4b) bekezdése szerinti vállalkozás;
 
-52. összeszámítási szabály: a nagyberuházás elszámolható költségei kiszámításakor egyetlen beruházásnak kell tekinteni a kérelemben szereplő beruházást és a kérelmet benyújtó beruházó, valamint a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó által a kérelemben szereplő beruházás megkezdésétől számított háromszor háromszázhatvanöt napos időszakon belül a kérelemben szereplő beruházással azonos megyében megkezdett, regionális beruházási támogatásban részesülő beruházást;
+52.[^3] összeszámítási szabály: a nagyberuházás elszámolható költségei kiszámításakor egyetlen beruházásnak kell tekinteni a kérelemben szereplő beruházást és a kérelmet benyújtó beruházó, valamint a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó által a kérelemben szereplő beruházás megkezdésétől számított háromszor háromszázhatvanöt napos időszakon belül a kérelemben szereplő beruházással azonos vármegyében megkezdett, regionális beruházási támogatásban részesülő beruházást;
 
 53. regionális beruházási támogatás: a 651/2014/EU bizottsági rendelet 2. cikk 41. pontja szerinti támogatás;
 
@@ -143,3 +143,8 @@ b) esetén a támogatás nyújtását megelőző három üzleti év legalább eg
 66. tárgyi eszköz: a 651/2014/EU bizottsági rendelet 2. cikk 29. pontja szerinti eszköz;
 
 67. tőzsdén nem jegyzett kis- és középvállalkozás: a 651/2014/EU bizottsági rendelet 2. cikk 76. pontja szerinti kis- és középvállalkozás.
+
+68.[^4] válságtámogatás: „Az állami támogatásokra vonatkozó, az Ukrajna elleni orosz agresszióval összefüggésben a gazdaság támogatását célzó ideiglenes válság- és átállási keret” című, 2023. március 17-i, 2023/C 101/03. számú európai bizottsági közlemény 2.1. szakasza szerinti támogatás.
+
+[^3]: A 2. § 52. pontja a 2/2023. (VII. 4.) TFM rendelet 9. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § 68. pontját a 2/2023. (VII. 4.) TFM rendelet 2. §-a iktatta be.
