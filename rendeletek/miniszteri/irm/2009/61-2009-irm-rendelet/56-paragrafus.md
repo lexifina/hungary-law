@@ -1,3 +1,3 @@
-56. §[^44]
+56. §[^51]
 
-[^44]: Az 56. §-t a 19/2010. (XII. 21.) KIM rendelet 19. § (2) bekezdése hatályon kívül helyezte.
+[^51]: Az 56. §-t a 19/2010. (XII. 21.) KIM rendelet 19. § (2) bekezdése hatályon kívül helyezte.

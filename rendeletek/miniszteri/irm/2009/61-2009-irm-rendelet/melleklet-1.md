@@ -1,6 +1,6 @@
-## 146. §[^102] E rendeletnek a jogszabályszerkesztésről szóló 61/2009. (XII. 14.) IRM rendelet módosításáról szóló 10/2014. (II. 25.) KIM rendelettel megállapított rendelkezéseit a 2014. február 25-én, illetve az ezt követően hatályba lépett jogszabályok tekintetében kell alkalmazni.
+## 146. §[^111] E rendeletnek a jogszabályszerkesztésről szóló 61/2009. (XII. 14.) IRM rendelet módosításáról szóló 10/2014. (II. 25.) KIM rendelettel megállapított rendelkezéseit a 2014. február 25-én, illetve az ezt követően hatályba lépett jogszabályok tekintetében kell alkalmazni.
 
-1. melléklet a 61/2009. (XII. 14.) IRM rendelethez[^103]
+1. melléklet a 61/2009. (XII. 14.) IRM rendelethez[^112]
 
 A jogszabály tervezete megszövegezésénél alkalmazandó kodifikációs szövegezési minták
 
@@ -526,19 +526,13 @@ A jogszabály tervezete megszövegezésénél alkalmazandó kodifikációs szöv
 
 | {a hivatkozott alpontot vagy alpontokat tartalmazó uniós jogi aktusra vonatkozó merev hivatkozás} {az alpontot vagy alpontokat tartalmazó cikk sorszámára vonatkozó hivatkozás} cikk {az alpontot vagy alpontokat tartalmazó pont megjelölésére vonatkozó hivatkozás} pont {az alpont vagy alpontok megjelölésére vonatkozó hivatkozás} alpontja |
 
-6. Az Alaptörvény módosításának és az Alaptörvényben megjelölt törvényhozási tárgykörben megalkotni kívánt törvény tervezetének preambuluma
+6. Az Alaptörvény módosításának és az Alaptörvényben megjelölt törvényhozási tárgykörben megalkotni kívánt törvény tervezetének preambuluma kötelező elemei
 
-6.1. Az Alaptörvény módosításának preambuluma
+6.1. Az Alaptörvény módosításának preambuluma 51. § (7) bekezdése szerinti kötelező eleme
 
 | Az Országgyűlés mint alkotmányozó hatalom az Alaptörvény 1. cikk (2) bekezdés a) pontjában meghatározott hatáskörében eljárva az Alaptörvényt a következők szerint módosítja: |
 
-6.2. Az Alaptörvényben megjelölt törvényhozási tárgykörben megalkotni kívánt törvény tervezetének preambuluma
-
-6.2.1. Az Alaptörvényben megjelölt törvényhozási tárgykörben megalkotni kívánt törvény tervezetének preambuluma a szabályozás indokára, céljára vonatkozó utalással
-
-| Az Országgyűlés annak érdekében, hogy {a szabályozás indokára, céljára vonatkozó utalás} az Alaptörvény végrehajtására, {az Alaptörvényre vonatkozó merev hivatkozás} {a törvényhozási tárgykört tartalmazó szerkezeti egységre vonatkozó merev hivatkozás a birtokos személyjellel} alapján a következő törvényt alkotja: |
-
-6.2.2. Az Alaptörvényben megjelölt törvényhozási tárgykörben megalkotni kívánt törvény tervezetének preambuluma a szabályozás indokára, céljára vonatkozó utalás nélkül
+6.2. Az Alaptörvényben megjelölt törvényhozási tárgykörben megalkotni kívánt törvény tervezetének preambuluma 51. § (4) bekezdése szerinti kötelező eleme
 
 | Az Országgyűlés az Alaptörvény végrehajtására, {az Alaptörvényre vonatkozó merev hivatkozás} {a törvényhozási tárgykört tartalmazó szerkezeti egységre vonatkozó merev hivatkozás a birtokos személyjellel} alapján a következő törvényt alkotja: |
 
@@ -614,15 +608,15 @@ A jogszabály tervezete megszövegezésénél alkalmazandó kodifikációs szöv
 
 7.4.1. Az eredeti jogalkotói hatáskörben kiadott kormányrendelet tervezete bevezető részének a felépítése
 
-| A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény {az Alaptörvény feladatkört megállapító szerkezeti egységére vonatkozó hivatkozás}[-ában (VAGY) -ében (VAGY) -jában] meghatározott feladatkörében eljárva a következőket rendeli el: |
+| A Kormány {szükség szerint bevezetés} az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény {az Alaptörvény feladatkört megállapító szerkezeti egységére vonatkozó hivatkozás}[-ában (VAGY) -ében (VAGY) -jában] meghatározott feladatkörében eljárva a következőket rendeli el: |
 
 7.4.2. Az eredeti jogalkotói hatáskörben kiadott miniszterelnöki rendelet tervezete bevezető részének a felépítése
 
-| Az Alaptörvény 16. cikk (2) bekezdésében meghatározott eredeti jogalkotó hatáskörömben eljárva a következőket rendelem el: |
+| {szükség szerint bevezetés} [Az (VAGY) az] Alaptörvény 16. cikk (2) bekezdésében meghatározott eredeti jogalkotó hatáskörömben eljárva a következőket rendelem el: |
 
 7.4.3. Az eredeti jogalkotói hatáskörben kiadott önkormányzati rendelet tervezete bevezető részének a felépítése
 
-| {a rendelet megalkotójának teljes megjelölése} az Alaptörvény 32. cikk (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, [az Alaptörvény (VAGY) {a helyi önkormányzatokról szóló törvényre vonatkozó merev hivatkozás}] {[az Alaptörvény (VAGY) a helyi önkormányzatokról szóló törvény] feladatkört megállapító szerkezeti egységére vagy egységeire vonatkozó hivatkozás}[-ában (VAGY) -ében (VAGY) -jában] meghatározott feladatkörében eljárva a következőket rendeli el: |
+| {a rendelet megalkotójának teljes megjelölése} {szükség szerint bevezetés} az Alaptörvény 32. cikk (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, [az Alaptörvény (VAGY) {a helyi önkormányzatokról szóló törvényre vonatkozó merev hivatkozás}] {[az Alaptörvény (VAGY) a helyi önkormányzatokról szóló törvény] feladatkört megállapító szerkezeti egységére vagy egységeire vonatkozó hivatkozás}[-ában (VAGY) -ében (VAGY) -jában] meghatározott feladatkörében eljárva a következőket rendeli el: |
 
 7.5. A felhatalmazás alapján kiadott jogszabályok tervezetének a bevezető része
 
@@ -646,17 +640,17 @@ A jogszabály tervezete megszövegezésénél alkalmazandó kodifikációs szöv
 
 7.5.2.1. Egy felhatalmazásra vonatkozó hivatkozást tartalmazó bevezető rész felépítése
 
-| {a felhatalmazást tartalmazó jogszabályra vonatkozó merev hivatkozás} {a felhatalmazást tartalmazó szerkezeti egységre vonatkozó merev hivatkozás}[-ában (VAGY) -ében (VAGY) -jában] kapott felhatalmazás alapján {a feladatkörre vagy feladatkörökre vonatkozó hivatkozás} – {az egy vagy több egyetértőre vonatkozó hivatkozás}, {az egy vagy több véleményezőre vonatkozó hivatkozás} – {a jogalkotás aktusára vonatkozó kifejezés}: |
+| {szükség szerint bevezetés} {a felhatalmazást tartalmazó jogszabályra vonatkozó merev hivatkozás} {a felhatalmazást tartalmazó szerkezeti egységre vonatkozó merev hivatkozás}[-ában (VAGY) -ében (VAGY) -jában] kapott felhatalmazás alapján {a feladatkörre vagy feladatkörökre vonatkozó hivatkozás} – {az egy vagy több egyetértőre vonatkozó hivatkozás}, {az egy vagy több véleményezőre vonatkozó hivatkozás} – {a jogalkotás aktusára vonatkozó kifejezés}: |
 
 7.5.2.2. Több felhatalmazásra vonatkozó hivatkozást tartalmazó bevezető rész felépítése
 
 7.5.2.2.1. Több felhatalmazásra vonatkozó hivatkozást tartalmazó bevezető rész felépítése, ha a rendeletet az egyes felhatalmazások tekintetében különböző feladatkörökben eljárva, illetve különböző egyetértések, illetve vélemények alapján kell megalkotni
 
-| {az első felhatalmazást tartalmazó jogszabályra vonatkozó merev hivatkozás} {az első felhatalmazást tartalmazó szerkezeti egységre vonatkozó hivatkozás}[-ában (VAGY) -ében (VAGY) -jában] kapott felhatalmazás alapján {a feladatkörre vagy feladatkörökre vonatkozó hivatkozás} – {az egy vagy több egyetértőre vonatkozó hivatkozás}, {az egy vagy több véleményezőre vonatkozó hivatkozás} –, {a második felhatalmazás alapján megalkotandó szerkezeti egységre vagy egységekre vonatkozó merev hivatkozás} tekintetében {a második felhatalmazást tartalmazó jogszabályra vonatkozó merev hivatkozás} {a második felhatalmazást tartalmazó szerkezeti egységre vonatkozó hivatkozás}[-ában (VAGY) -ében (VAGY) -jában] kapott felhatalmazás alapján {a feladatkörre vagy feladatkörökre vonatkozó hivatkozás} – {az egy vagy több egyetértőre vonatkozó hivatkozás}, {az egy vagy több véleményezőre vonatkozó hivatkozás} –, [...] és {az utolsó felhatalmazás alapján megalkotandó szerkezeti egységre vagy egységekre vonatkozó merev hivatkozás} tekintetében {az utolsó felhatalmazást tartalmazó jogszabályra vonatkozó merev hivatkozás} {az utolsó felhatalmazást tartalmazó szerkezeti egységre vonatkozó hivatkozás}[-ában (VAGY) -ében (VAGY) -jában] kapott felhatalmazás alapján {a feladatkörre vagy feladatkörökre vonatkozó hivatkozás} – {az egy vagy több egyetértőre vonatkozó hivatkozás}, {az egy vagy több véleményezőre vonatkozó hivatkozás} – {a jogalkotás aktusára vonatkozó kifejezés}: |
+| {szükség szerint bevezetés} {az első felhatalmazást tartalmazó jogszabályra vonatkozó merev hivatkozás} {az első felhatalmazást tartalmazó szerkezeti egységre vonatkozó hivatkozás}[-ában (VAGY) -ében (VAGY) -jában] kapott felhatalmazás alapján {a feladatkörre vagy feladatkörökre vonatkozó hivatkozás} – {az egy vagy több egyetértőre vonatkozó hivatkozás}, {az egy vagy több véleményezőre vonatkozó hivatkozás} –, {a második felhatalmazás alapján megalkotandó szerkezeti egységre vagy egységekre vonatkozó merev hivatkozás} tekintetében {a második felhatalmazást tartalmazó jogszabályra vonatkozó merev hivatkozás} {a második felhatalmazást tartalmazó szerkezeti egységre vonatkozó hivatkozás}[-ában (VAGY) -ében (VAGY) -jában] kapott felhatalmazás alapján {a feladatkörre vagy feladatkörökre vonatkozó hivatkozás} – {az egy vagy több egyetértőre vonatkozó hivatkozás}, {az egy vagy több véleményezőre vonatkozó hivatkozás} –, [...] és {az utolsó felhatalmazás alapján megalkotandó szerkezeti egységre vagy egységekre vonatkozó merev hivatkozás} tekintetében {az utolsó felhatalmazást tartalmazó jogszabályra vonatkozó merev hivatkozás} {az utolsó felhatalmazást tartalmazó szerkezeti egységre vonatkozó hivatkozás}[-ában (VAGY) -ében (VAGY) -jában] kapott felhatalmazás alapján {a feladatkörre vagy feladatkörökre vonatkozó hivatkozás} – {az egy vagy több egyetértőre vonatkozó hivatkozás}, {az egy vagy több véleményezőre vonatkozó hivatkozás} – {a jogalkotás aktusára vonatkozó kifejezés}: |
 
 7.5.2.2.2. Több felhatalmazásra vonatkozó hivatkozást tartalmazó bevezető rész felépítése, ha a rendeletet az egyes felhatalmazások tekintetében azonos feladatkör vagy feladatkörök, azonos egyetértés vagy egyetértések és azonos vélemény vagy vélemények alapján kell megalkotni
 
-| {az első felhatalmazást tartalmazó jogszabályra vonatkozó merev hivatkozás} {az első felhatalmazást tartalmazó szerkezeti egységre vonatkozó merev hivatkozás}[-ában (VAGY) -ében (VAGY) -jában], {a második felhatalmazás alapján megalkotandó szerkezeti egységre vagy egységekre vonatkozó merev hivatkozás} tekintetében {a második felhatalmazást tartalmazó jogszabályra vonatkozó merev hivatkozás} {a második felhatalmazást tartalmazó szerkezeti egységre vonatkozó hivatkozás}[-ában (VAGY) -ében (VAGY) -jában], [...] és {az utolsó felhatalmazás alapján megalkotandó szerkezeti egységre vagy egységekre vonatkozó merev hivatkozás} tekintetében {az utolsó felhatalmazást tartalmazó jogszabályra vonatkozó merev hivatkozás} {az utolsó felhatalmazást tartalmazó szerkezeti egységre vonatkozó hivatkozás}[-ában (VAGY) -ében (VAGY) -jában] kapott felhatalmazás alapján {a feladatkörre vagy feladatkörökre vonatkozó hivatkozás} – {az egy vagy több egyetértőre vonatkozó hivatkozás}, {az egy vagy több véleményezőre vonatkozó hivatkozás} – {a jogalkotás aktusára vonatkozó kifejezés}: |
+| {szükség szerint bevezetés} {az első felhatalmazást tartalmazó jogszabályra vonatkozó merev hivatkozás} {az első felhatalmazást tartalmazó szerkezeti egységre vonatkozó merev hivatkozás}[-ában (VAGY) -ében (VAGY) -jában], {a második felhatalmazás alapján megalkotandó szerkezeti egységre vagy egységekre vonatkozó merev hivatkozás} tekintetében {a második felhatalmazást tartalmazó jogszabályra vonatkozó merev hivatkozás} {a második felhatalmazást tartalmazó szerkezeti egységre vonatkozó hivatkozás}[-ában (VAGY) -ében (VAGY) -jában], [...] és {az utolsó felhatalmazás alapján megalkotandó szerkezeti egységre vagy egységekre vonatkozó merev hivatkozás} tekintetében {az utolsó felhatalmazást tartalmazó jogszabályra vonatkozó merev hivatkozás} {az utolsó felhatalmazást tartalmazó szerkezeti egységre vonatkozó hivatkozás}[-ában (VAGY) -ében (VAGY) -jában] kapott felhatalmazás alapján {a feladatkörre vagy feladatkörökre vonatkozó hivatkozás} – {az egy vagy több egyetértőre vonatkozó hivatkozás}, {az egy vagy több véleményezőre vonatkozó hivatkozás} – {a jogalkotás aktusára vonatkozó kifejezés}: |
 
 8. A felhatalmazó rendelkezés
 
@@ -1582,5 +1576,5 @@ A jogszabály tervezete megszövegezésénél alkalmazandó kodifikációs szöv
 
 19.
 
-[^102]: A 146. §-t a 10/2014. (II. 25.) KIM rendelet 3. §-a iktatta be.
-[^103]: Az 1. melléklet a 11/2010. (X. 25.) KIM rendelet 4. §-a, a 19/2010. (XII. 21.) 17. §-a, 18. § (13) bekezdése, 19. § (3) bekezdése, 20. § f) pontja, a 13/2011. (IV. 22.) KIM rendelet 4. § (5)–(6) bekezdése, a 43/2011. (XII. 31.) KIM rendelet 13. §-a, 14. § (10) bekezdése, 15. §-a, a 25/2013. (X. 14.) KIM rendelet 1. § (3) bekezdés b)–e) pontja és (4) bekezdése, a 10/2021. (IX. 30.) IM rendelet 6. § (3) bekezdése, a 10/2022. (IV. 7.) IM rendelet 1. § (3) bekezdése szerint módosított szöveg.
+[^111]: A 146. §-t a 10/2014. (II. 25.) KIM rendelet 3. §-a iktatta be.
+[^112]: Az 1. melléklet a 11/2010. (X. 25.) KIM rendelet 4. §-a, a 19/2010. (XII. 21.) 17. §-a, 18. § (13) bekezdése, 19. § (3) bekezdése, 20. § f) pontja, a 13/2011. (IV. 22.) KIM rendelet 4. § (5)–(6) bekezdése, a 43/2011. (XII. 31.) KIM rendelet 13. §-a, 14. § (10) bekezdése, 15. §-a, a 25/2013. (X. 14.) KIM rendelet 1. § (3) bekezdés b)–e) pontja és (4) bekezdése, a 10/2021. (IX. 30.) IM rendelet 6. § (3) bekezdése, a 10/2022. (IV. 7.) IM rendelet 1. § (3) bekezdése, a 8/2023. (VII. 4.) IM rendelet 4. §-a és 5. § c)-h) pontja szerint módosított szöveg.

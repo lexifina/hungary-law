@@ -2,13 +2,13 @@
 
 a) jogszabály,
 
-b)[^59] jogszabály melléklete, mellékletének szerkezeti egysége és a 36. § (2) bekezdés a)–h) pontja szerinti szerkezeti egysége vagy
+b)[^68] jogszabály melléklete, mellékletének szerkezeti egysége és a 36. § (2) bekezdés a)–h) pontja szerinti szerkezeti egysége vagy
 
 c) – ha a szabályozás célja másképp nem érhető el – jogszabály szerkezeti egységének a szövegrésze
 
 hatálybalépéséről lehet rendelkezni.
 
-(1a)[^60] A jogszabály tervezetében a hatályba léptető rendelkezés hatálybalépését nem lehet önállóan meghatározni. Az ilyen jogszabályi rendelkezésnek a hatályba léptető rendelkezés hatálybalépését meghatározó részében történő végrehajtását a jogszabály egészének hatálybalépését meghatározó rendelkezés kizárja.
+(1a)[^69] A jogszabály tervezetében a hatályba léptető rendelkezés hatálybalépését nem lehet önállóan meghatározni. Az ilyen jogszabályi rendelkezésnek a hatályba léptető rendelkezés hatálybalépését meghatározó részében történő végrehajtását a jogszabály egészének hatálybalépését meghatározó rendelkezés kizárja.
 
 (2) A jogszabály egészét hatályba léptető rendelkezés – az alábbi sorrendben –
 
@@ -32,5 +32,5 @@ c) a hatályba léptetés aktusára utaló kifejezést
 
 foglalja magában.
 
-[^59]: A 79. § (1) bekezdés b) pontja a 10/2014. (II. 25.) KIM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^60]: A 79. § (1a) bekezdését a 10/2014. (II. 25.) KIM rendelet 1. § (1) bekezdése iktatta be.
+[^68]: A 79. § (1) bekezdés b) pontja a 10/2014. (II. 25.) KIM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^69]: A 79. § (1a) bekezdését a 10/2014. (II. 25.) KIM rendelet 1. § (1) bekezdése iktatta be.

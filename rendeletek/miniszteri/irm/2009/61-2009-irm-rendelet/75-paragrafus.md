@@ -1,6 +1,6 @@
 ## 30. A felhatalmazás jogosultja
 
-75. § (1)[^55] A felhatalmazás jogosultjaként törvény tervezetében
+75. § (1)[^64] A felhatalmazás jogosultjaként törvény tervezetében
 
 a) a Magyar Nemzeti Bank elnökét,
 
@@ -26,4 +26,4 @@ lehet megjelölni.
 
 (4) Ha a felhatalmazás azonos tárgykörben minden miniszternek önálló rendelet kiadására szól, a felhatalmazás címzettjeit általánosan, többes számban kell megjelölni.
 
-[^55]: A 75. § (1) bekezdése a 10/2022. (IV. 7.) IM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^64]: A 75. § (1) bekezdése a 10/2022. (IV. 7.) IM rendelet 1. § (2) bekezdésével megállapított szöveg.
