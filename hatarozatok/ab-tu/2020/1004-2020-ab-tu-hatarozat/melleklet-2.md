@@ -50,14 +50,12 @@
 
 | Üzemeltetés | Üzemeltetési vezető | 1 |
 
-| Szakmunkás, egyéb fizikai alkalmazott | 13 |
+| Szakmunkás, egyéb fizikai alkalmazott | 12 |
 
 | Gépkocsi-üzemeltetés | Garázsmester | 1 |
 
 | Gépkocsivezetők | 17 |
 
-| Összesen |  | 145 |
+| Összesen |  | 144 |
 
-Alkotmánybírósági ügyszám: XVIII/549/2020.
-
-[^4]: A 2. melléklet az 1007/2021. (XI. 10.) AB Tü. határozat 1. pontjával megállapított szöveg.
+[^4]: A 2. melléklet az 1002/2023. (VII. 4.) AB Tü. határozat 1. pontjával megállapított szöveg.
