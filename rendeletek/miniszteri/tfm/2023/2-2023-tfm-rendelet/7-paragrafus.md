@@ -1,3 +1,3 @@
-7. § Az R. 59. §-a a következő d) ponttal egészül ki:
+7. §[^8]
 
-(E rendelet)
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
