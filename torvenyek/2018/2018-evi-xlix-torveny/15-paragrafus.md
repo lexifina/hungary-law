@@ -2,7 +2,7 @@
 
 a) a Kormány Várnegyed rehabilitációs programot valósít meg, amely keretében a Budai Palotanegyed területén található ingatlanokon értékmegőrző, valamint értékteremtő fejlesztéseket és beruházásokat kell elvégezni,
 
-b) a Kormány biztosítja – a világörökségre, valamint a kulturális örökség védelmére vonatkozó előírásokkal összhangban – az egységes településképi és építészeti követelmények érvényesítését, amely érdekében a Kormány rendeletben állapíthatja meg az egyedi településképi és építési követelményeket, valamint az ezekkel összefüggő sajátos beépítési és örökségvédelmi szabályokat,
+b) a Kormány biztosítja – a világörökségre, valamint a kulturális örökség védelmére vonatkozó előírásokkal összhangban – az egységes településképi és építészeti követelmények érvényesítését, amely érdekében a Kormány rendeletben állapíthatja meg az egyedi településképi és építési követelményeket, valamint az ezekkel összefüggő sajátos beépítési és örökségvédelmi szabályokat, egyedi hatósági eljárási szabályokat,
 
 c) a Kormány rendeletben határozza meg a Budai Palotanegyed területe tekintetében a közterületek használati rendjét, a vonatkozó közterület-használati szabályokat, a forgalomszabályozásra vonatkozó sajátos előírásokat, továbbá a közterület-használati díjakat és az ellenőrzés rendjét,
 

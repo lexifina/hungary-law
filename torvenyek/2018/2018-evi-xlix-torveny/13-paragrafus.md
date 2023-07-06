@@ -6,7 +6,7 @@
 
 13. § E törvény alkalmazása tekintetében a Budai Palotanegyeden a Kormány által e törvény felhatalmazása alapján kiadott rendeletében Budai Palotanegyed területébe tartozó ingatlanként meghatározott, a Budapest I. kerületben elhelyezkedő,
 
-a) a Dísz tér 1–2. szám alatti ingatlant,
+a) a Dísz tér 1–2. és 15. szám alatti ingatlant,
 
 b) a Dísz tértől délre, a várfalon belül elhelyezkedő ingatlanokat, valamint
 

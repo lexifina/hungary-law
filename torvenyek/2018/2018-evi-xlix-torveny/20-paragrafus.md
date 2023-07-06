@@ -24,7 +24,7 @@ g) a 2. § (1) bekezdés c) pontja szerinti feladatokat.
 
 a) a Budai Palotanegyed területébe tartozó ingatlanok felsorolását,
 
-b) a Budai Palotanegyed területére vonatkozó egyedi településképi és építési követelményeket, valamint az ezekkel összefüggő sajátos beépítési és örökségvédelmi szabályokat,
+b) a Budai Palotanegyed területére vonatkozó egyedi településképi és építési követelményeket, valamint az ezekkel összefüggő sajátos beépítési és örökségvédelmi szabályokat, egyedi hatósági eljárási szabályokat,
 
 c) a Budai Palotanegyed tekintetében a közterületek használati rendjét, a vonatkozó közterület-használati szabályokat, a forgalomszabályozásra vonatkozó sajátos előírásokat, továbbá a közterület-használati díjakat és az ellenőrzés rendjét,
 

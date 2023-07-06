@@ -4,4 +4,6 @@
 
 (2) Az (1) bekezdés szerinti ingatlanok tekintetében településrendezési feladatok megvalósítása, végrehajtása érdekében építési, telekalakítási és változtatási tilalom nem alkalmazható.
 
-(3) Az (1) bekezdés szerinti ingatlanokra vonatkozó önkormányzati rendeletet a (2) bekezdésben meghatározott eltéréssel kell alkalmazni. Amennyiben önkormányzati rendelet a (2) bekezdésben foglaltakkal ellentétes vagy azzal nem összeegyeztethető előírást tartalmaz, akkor helyette a (2) bekezdésben foglaltakat kell alkalmazni.
+(2a) Az (1) bekezdés szerinti beruházások megvalósítása érdekében a közúton burkolatbontással járó munka a közút fejlesztését, felújítását, továbbá a közút burkolatának teljes szélességű helyreállítását követő 5 éven belül is végezhető. Ezen munkálatok kérelemben megjelölt időszakban történő kivitelezéséhez a kezelői hozzájárulás nem tagadható meg, ha a kérelem az egyéb jogszabályban rögzített feltételeknek megfelel.
+
+(3) Az (1) bekezdés szerinti ingatlanokra vonatkozó önkormányzati rendeletet a (2) és (2a) bekezdésben meghatározott eltéréssel kell alkalmazni. Amennyiben önkormányzati rendelet a (2) és (2a) bekezdésben foglaltakkal ellentétes vagy azzal nem összeegyeztethető előírást tartalmaz, akkor helyette a (2) és (2a) bekezdésben foglaltakat kell alkalmazni.
