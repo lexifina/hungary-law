@@ -1,1 +1,3 @@
-6. § Hatályát veszti a jogszabályszerkesztésről szóló 61/2009. (XII. 14.) IRM rendelet 51. § (5) bekezdése.
+6. §[^7]
+
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
