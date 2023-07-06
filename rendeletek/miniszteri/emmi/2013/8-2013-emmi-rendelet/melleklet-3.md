@@ -1,4 +1,4 @@
-3. melléklet a 8/2013. (I. 30.) EMMI rendelethez[^35]
+3. melléklet a 8/2013. (I. 30.) EMMI rendelethez[^46]
 
 A)
 
@@ -24,7 +24,7 @@ szerezhető.
 
 3.3. A 1. § c) pontja szerinti honvédelmi alapismeretek tanára szakos tanári mesterszakon a Korm. rendelet 3. § (1) bekezdés a) pontja szerinti szakterületi (szaktudományos) tudás képzési területe szerinti nem tanári mesterképzési szakok: a bölcsészettudomány képzési területről a magyar nyelv és irodalom, a történelem, a természettudomány képzési területről a biológus, a biotechnológia a geográfus, a geológus, a fizikus, a geofizikus, a vegyész, valamint a sporttudományi képzési területről a szakedző, továbbá az államtudományi képzési területről a katonai vezetői, a katonai üzemeltetés, a katonai műveleti logisztika, a védelmi vezetéstechnikai rendszertervező, a nemzetközi biztonság- és védelempolitikai mesterképzési szak.
 
-4. A természettudomány-környezettan szakos tanár szakképzettség az 1. § a) pontja szerint osztatlan egy szakos képzésben, a tanárszakon szerezhető a képzési és kimeneti követelményekben meghatározottak szerint szerezhető. A 4/B. § szerinti természettudomány-környezettan szakos tanári szakképzettség birtokában az 1. melléklet 4. pont 4.4.1. alpont a) pontja szerinti újabb oklevelet adó tanári szakképzettség megszerzésére irányuló biológiatanár, fizikatanár, kémiatanár, földrajztanár szakos képzésben a tanulmányi idő 3 félév.
+4.
 
 B)
 
@@ -5318,88 +5318,4 @@ A szakmódszertani ismeretek átadása során a szakképzett tanárt arra kell f
 
 4. Az elsajátítandó szakmai kompetenciák
 
-4.1. A Korm. rendelet 3. § (1) bekezdés b) és c) pontja tekintetében a tanári tudás, képességek, attitűd (viszonyulás): a 2. mellékletben meghatározott ismeret, képesség, attitűd.
-
-4.2. A Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
-
-4.2.1. A román és nemzetiségi román nyelv és kultúra tanárának szakterületi tudása, képességei, attitűdje (viszonyulása)
-
-A tanuló személyiségének fejlesztése, az egyéni bánásmód érvényesítésének figyelembevétele területén
-
-a) tudása
-
-– Ismeri a tanulók tanulását, tudásának alakulását befolyásoló tényezőket, felismeri a tanuló fizikai és pszichés tulajdonságait és azok ismeretében alkalmazza a megfelelő tanulási stratégiákat.
-
-– Tisztában van a sajátos nevelési igényű vagy beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló többi tanulóval együtt történő sikeres neveléséhez, oktatásához szükséges módszerekkel.
-
-– Ismeri a szaktárgy tanítása-tanulása során fejlesztendő speciális kompetenciákat, ezek fejlesztésének és diagnosztikus mérésének módszereit.
-
-b) képességei
-
-– Képes a tanuló személyiségjegyeinek felismerésére és fejlesztésére, nyitott a környezet visszajelzéseinek felhasználására.
-
-– Figyelemmel kíséri a tanuló tevékenységének másokra gyakorolt hatását, reflektív módon törekszik a tanuló tevékenységének módosítására, tudásának folyamatos fejlesztésére.
-
-– Képes a nemzetiségi szaktárgy speciális összefüggéseit megismertetni, az ebből adódó nehézségeket megoldani.
-
-c) attitűdje
-
-– Koherens egyéni álláspontjával segíti a tanuló és közössége épülését. Alkalmas a tanuló motivációjának felismerésére és erősítésére.
-
-– Az aktuális hazai és nemzetiségi szakirodalmat a helyzetnek megfelelően alkalmazza, tudását folyamatosan bővíti.
-
-– Érzékeny a tanulók egyéni problémáira, törekszik az egészséges személyiségfejlődés feltételeit biztosítani minden tanuló számára.
-
-A tanulói csoportok, közösségek alakulásának segítése, fejlesztése területén
-
-a) tudása
-
-– Ismeri a tanulói csoportok kialakításához szükséges módszereket, amelyek alkalmazása során figyelembe veszi a tanulók sokszínűségét.
-
-– Segíti a közösség kialakítását, fejlesztését, ismeri az azt elősegítő pedagógiai módszereket.
-
-– Segíti a fenntartható fejlődéssel, a médiatudatossággal, a digitális technológiák használatával kapcsolatos ismeretek átadását.
-
-b) képességei:
-
-– Képes értelmezni és a tanulók érdekében felhasználni a tanulók esélyeit befolyásoló kontextuális folyamatokat iskolán belül és kívül.
-
-– Tudatosan kezeli az értékek sokszínűségét, tiszteletben tartja azokat, nyitott mások véleményére.
-
-– Képes a konfliktusok megelőzésére és adott esetben hatékony kezelésére. Aktívan közreműködik a csoporttagok közösség iránti elkötelezettségének, felelős, aktív szerepvállalásának kialakításában.
-
-– Képes a tanulókat helyi, nemzeti és nemzetiségi értékek elfogadására nevelni.
-
-c) attitűdje
-
-– Alkalmas olyan pedagógiai helyzetek kialakítására, amelyekben a különböző értékek elfogadását segíti, a tanulókat együttműködésre motiválja.
-
-– Az iskola világában tudatosan törekszik a nemzeti és nemzetiségi kultúra alapját képező értékek elfogadtatására.
-
-– Fontosnak tartja az etnikumok és nemzetiségek iránti tolerancia kialakítását.
-
-A szakmódszertani és a szaktárgyi tudás területén
-
-a) tudása
-
-– Ismeri a román nyelv tanításának alapvető szakmódszertani irányait, valamint a szakterület legfontosabb összefüggéseit, elméleteit és a hozzájuk kapcsolódó terminológiát, illetve a problémamegoldás módszereit.
-
-– Ismeri a szakmódszertan hazai és nemzetközi eredményeit, szakirodalmát, aktuális kérdéseit, számítástechnikai, könyvtári forrásait.
-
-b) képességei
-
-– Képes nemzetiségi tanítási területén mind szóban, mind írásban árnyaltan kifejezni magát, képes román nemzetiségi szakterület és szakmódszertan ismeretrendszerét alkotó elképzelések alapfokú analízisére, az összefüggések szintetikus megfogalmazására és adekvát értékelő tevékenységre román nyelven.
-
-– Rendelkezik az önálló tanuláshoz szükséges képességekkel.
-
-– Képes rutin szakmai problémák azonosítására, az azok megoldásához szükséges elvi és gyakorlati háttér feltárására, megfogalmazására és megoldására.
-
-– Képes rugalmasan alakítani a tanítási stratégiákat a tanulási célokkal összhangban és differenciálni a tanulói képességeknek megfelelően.
-
-– Képes a másokkal való kooperációra, valamint szakmai tudásának egy adott munkahely különböző szakmai elvárásainak megfelelő felhasználására.
-
-– Képes az alkotó információhasználatra.
-
-– Képes a szaktárgyak tanítása során fejlesztett kompetenciák szintetizálására.
-
-[^35]: A 3. melléklet a 64/2021. (XII. 29.) ITM rendelet 7. § (3) bekezdésével megállapított, az 1/2022. (IX. 1.) KIM rendelet 8. § b) pontja, a 12/2022. (XII. 29.) KIM rendelet 6. § a) és b) pontja szerint módosított szöveg.
+[^46]: A 3. melléklet a 64/2021. (XII. 29.) ITM rendelet 7. § (3) bekezdésével megállapított, az 1/2022. (IX. 1.) KIM rendelet 8. § b) pontja, a 12/2022. (XII. 29.) KIM rendelet 6. § a) és b) pontja, a 3/2023. (VI. 28.) KIM rendelet 4. § (2) bekezdése és 6. § 3. pontja szerint módosított szöveg.
