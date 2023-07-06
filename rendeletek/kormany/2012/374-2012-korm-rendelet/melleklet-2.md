@@ -22,8 +22,8 @@
 
 | 11. | Diizobutil-ftalát (DIBP) | 0,1 |
 
-2. melléklet a 374/2012. (XII. 18.) Korm. rendelethez[^84]
+2. melléklet a 374/2012. (XII. 18.) Korm. rendelethez[^85]
 
 A veszélyes anyagok alkalmazásának korlátozása alóli mentességek
 
-[^84]: A 2. melléklet a 258/2014. (X. 10.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 125/2018. (VII. 10.) Korm. rendelet 2. §-a, a 60/2019. (III. 25.) Korm. rendelet 7. §-a, a 105/2019. (V. 8.) Korm. rendelet 13. § a)–b) pontja, a 184/2019. (VII. 26.) Korm. rendelet 2. §-a, a 14/2020. (II. 12.) Korm. rendelet 2. §-a, a 266/2020. (VI. 11.) Korm. rendelet 2. §-a, az 596/2020. (XII. 17.) Korm. rendelet 2. § (1) bekezdése, az 592/2021. (X. 27.) Korm. rendelet 2. §-a, a 378/2022. (X. 5.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^85]: A 2. melléklet a 258/2014. (X. 10.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 125/2018. (VII. 10.) Korm. rendelet 2. §-a, a 60/2019. (III. 25.) Korm. rendelet 7. §-a, a 105/2019. (V. 8.) Korm. rendelet 13. § a)–b) pontja, a 184/2019. (VII. 26.) Korm. rendelet 2. §-a, a 14/2020. (II. 12.) Korm. rendelet 2. §-a, a 266/2020. (VI. 11.) Korm. rendelet 2. §-a, az 596/2020. (XII. 17.) Korm. rendelet 2. § (1) bekezdése, az 592/2021. (X. 27.) Korm. rendelet 2. §-a, a 378/2022. (X. 5.) Korm. rendelet 2. §-a, a 261/2023. (VI. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
