@@ -156,9 +156,7 @@
 
 ## b) Nemzetiségi csecsemő- és kisgyermeknevelő specializáció (horvát, német, román, szerb, szlovák, szlovén nyelv, illetve a cigány-roma képzési irányultság) az a) pont szerinti, lehetséges szakmai tevékenységkörökhöz, munkakörökhöz kapcsolódó területek ismerete: legfeljebb 40 kredit.
 
-## 8.2. Idegennyelvi követelmény
-
-## Az alapfokozat megszerzéséhez egy idegen nyelvből államilag elismert, középfokú (B2), komplex típusú nyelvvizsga vagy ezzel egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
+## 8.2. [^3]
 
 ## 8.3. A szakmai gyakorlat követelményei
 
@@ -914,9 +912,7 @@
 
 ## Az összefüggő szakmai gyakorlat egy gyógypedagógiai szakirány elvégzése esetén: 30 kredit, két szakirány elvégzése esetén 30–50 kredit.
 
-## 8.2. Idegennyelvi követelmény
-
-## Az alapfokozat megszerzéséhez egy idegen nyelvből államilag elismert, középfokú (B2), komplex típusú nyelvvizsga vagy ezzel egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
+## 8.2. [^4]
 
 ## 8.3. A szakmai gyakorlat követelményei
 
@@ -1188,9 +1184,7 @@
 
 ## 8.1.2. A választható specializációkat is figyelembe véve a konduktor szakma életkor szerinti (óvodai, iskolai, rehabilitáció) igényeinek megfelelő szakterületeken szerezhető speciális ismeret, amelynek kredit értéke 60–65 kredit.
 
-## 8.2. Idegennyelvi követelmény
-
-## Az alapfokozat megszerzéséhez egy idegen nyelvből államilag elismert, középfokú (B2), komplex típusú nyelvvizsga vagy ezzel egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
+## 8.2.[^5]
 
 ## 8.3. A szakmai gyakorlat követelményei
 
@@ -1418,9 +1412,7 @@
 
 ## – gyakorlati képzési modul: 26–34 kredit.
 
-## 8.2. Idegennyelvi követelmény
-
-## Az alapfokozat megszerzéséhez egy idegen nyelvből államilag elismert, középfokú (B2), komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges. A nemzetiségi óvodapedagógus szakirányon végzettek esetén a sikeres záróvizsga a felsőfokú (C1), komplex nyelvvizsga-követelmények teljesítését igazolja.
+## 8.2. [^6]
 
 ## 8.3. A szakmai gyakorlat követelményei
 
@@ -1434,11 +1426,13 @@
 
 ## A nemzetiségi óvodapedagógus szakirányon a szakmai gyakorlat részben nemzetiségi nyelven, nemzetiségi óvodában folyik.
 
-## 8.4. A képzést megkülönböztető speciális jegyek
+## 8.4.[^7] A képzést megkülönböztető speciális jegyek
 
-## A nemzetiségi óvodapedagógus a 3–7 éves gyermek magyar nyelven történő nevelése mellett felkészült a korosztály nemzetiségi nyelven történő nevelésére is.
+## 8.4.1. A nemzetiségi óvodapedagógus a 3–7 éves gyermek magyar nyelven történő nevelése mellett felkészült a korosztály nemzetiségi nyelven történő nevelésére is.
 
-## A nemzetiségi óvodapedagógus szakirány tantárgyainak oktatása és vizsgái – beleértve a záróvizsgát is – az adott nemzetiségi nyelven folynak. A német nemzetiségi óvodapedagógus képzés esetében a teljes képzés ötven százaléka német nyelven folyik.
+## 8.4.2. A nemzetiségi óvodapedagógus szakirány tantárgyainak oktatása és vizsgái – beleértve a záróvizsgát is – az adott nemzetiségi nyelven folynak. A német nemzetiségi óvodapedagógus képzés esetében a teljes képzés ötven százaléka német nyelven folyik.
+
+## 8.4.3. A nemzetiségi szakirányon a szakképzettség megszerzéséhez az adott nemzetiség nyelvéből felsőfokú (C1 szintű) idegennyelv-tudást kell elérni.
 
 ## 5. SZAKOKTATÓ ALAPKÉPZÉSI SZAK
 
@@ -1628,9 +1622,7 @@
 
 ## c) a szakmai specializációnak megfelelő szakmódszertanok, szakmai és pedagógiai gyakorlatok, figyelembe véve a gyakorlati képzőhelyek eltérő sajátosságait 40–50 kredit.
 
-## 8.2. Idegennyelvi követelmény
-
-## Az alapfokozat megszerzéséhez egy idegen nyelvből államilag elismert, középfokú (B2), komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
+## 8.2. [^8]
 
 ## 8.3. A szakmai gyakorlat követelményei
 
@@ -1886,9 +1878,7 @@
 
 ## – gyakorlati képzési modul 40–50 kredit.
 
-## 9.2. Idegennyelvi követelmény
-
-## Az alapfokozat megszerzéséhez legalább egy idegen nyelvből államilag elismert, középfokú (B2), komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges. A nemzetiségi szakirányon és az idegen nyelv műveltségi területen végzettek esetén a sikeres záróvizsga a felsőfokú (C1), komplex nyelvvizsga-követelmények teljesítését igazolja.
+## 9.2.[^9]
 
 ## 9.3. A szakmai gyakorlat követelményei
 
@@ -1900,11 +1890,13 @@
 
 ## A nemzetiségi szakirányon a szakmai gyakorlat részben nemzetiségi nyelven, nemzetiségi iskolában folyik.
 
-## 9.4. A képzést megkülönböztető speciális jegyek
+## 9.4.[^10] A képzést megkülönböztető speciális jegyek
 
-## A nemzetiségi tanító felkészült az általános iskola első négy évfolyamán valamennyi műveltségi terület és az első hat évfolyamán a nemzetiségi anyanyelvi nevelés nevelési-oktatási feladatainak ellátására is.
+## 9.4.1. A nemzetiségi tanító felkészült az általános iskola első négy évfolyamán valamennyi műveltségi terület és az első hat évfolyamán a nemzetiségi anyanyelvi nevelés nevelési-oktatási feladatainak ellátására is.
 
-## A nemzetiségi tanító szakirány tantárgyainak oktatása és vizsgái – beleértve a záróvizsgát is – az adott nemzetiségi nyelven folynak. A német nemzetiség esetében a teljes képzés ötven százaléka német nyelven folyik.
+## 9.4.2. A nemzetiségi tanító szakirány tantárgyainak oktatása és vizsgái – beleértve a záróvizsgát is – az adott nemzetiségi nyelven folynak. A német nemzetiség esetében a teljes képzés ötven százaléka német nyelven folyik.
+
+## 9.4.3. A nemzetiségi szakirányon a szakképzettség megszerzéséhez az adott nemzetiség nyelvéből felsőfokú (C1 szintű) idegennyelv-tudást kell elérni.
 
 2. melléklet a 63/2021. (XII. 29.) ITM rendelethez
 
@@ -2108,9 +2100,7 @@ b) fogyatékos emberek társadalmi integrációja:
 
 [inkluzív nevelés gyógypedagógiai aspektusai, módszerei, eljárásai, az együttnevelés filozófiai alapjai, az inkluzív didaktikai tervezés alapjai, pedagógiai projektalkotás, társadalomtudomány (magyar és európai szociális jog, fogyatékosság és marginalitás, szociális munka és fogyatékosságügy, iskolai és társadalmi integráció az EU-ban, szociálpolitika-történet, intézmények jellemzése és evaluációja, az inkluzív társadalom szociáletikája, a befogadás és kirekesztés története a gyógypedagógiában)].
 
-9.2. Idegennyelvi követelmény
-
-A mesterfokozat megszerzéséhez egy idegen nyelvből államilag elismert, középfokú (B2), komplex típusú nyelvvizsga vagy ezzel egyenértékű érettségi bizonyítvány vagy oklevél szükséges, és egy másik idegen nyelvből államilag elismert, alapfokú (B1), komplex típusú nyelvvizsga.
+9.2.[^11]
 
 2. LOGOPÉDIA MESTERKÉPZÉSI SZAK
 
@@ -2340,10 +2330,19 @@ A szakképzettséghez vezető tudományágak, szakterületek, amelyekből a szak
 
 – logopédiai kompetenciakörhöz kapcsolódó művészetpedagógiai módszerek gyakorlati ismeretei 5–10 kredit.
 
-9.2. Idegennyelvi követelmény
-
-A mesterfokozat megszerzéséhez szükséges egy nyelvből, amelyiken a szakmának tudományos irodalma van, államilag elismert középfokú (B2 szintű) komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél.
+9.2. [^12]
 
 9.3. Szakmai gyakorlat követelményei
 
 A szakmai gyakorlat a negyedik félévben összefüggő, 200 órás logopédiai rehabilitációs terepgyakorlat, amelynek kreditértéke 20 kredit.
+
+[^3]: Az 1. melléklet 1. cím 8.2. pontját a 3/2023. (VI. 28.) KIM rendelet 10. § 1. pont a) alpontja hatályon kívül helyezte.
+[^4]: Az 1. melléklet 2. cím 8.2. pontját a 3/2023. (VI. 28.) KIM rendelet 10. § 1. pont b) alpontja hatályon kívül helyezte.
+[^5]: Az 1. melléklet 3. cím 8.2. pontját a 3/2023. (VI. 28.) KIM rendelet 10. § 1. pont c) alpontja hatályon kívül helyezte.
+[^6]: Az 1. melléklet 4. cím 8.2. pontját a 3/2023. (VI. 28.) KIM rendelet 10. § 1. pont d) alpontja hatályon kívül helyezte.
+[^7]: Az 1. melléklet 4. cím 8.4. pontja a 3/2023. (VI. 28.) KIM rendelet 9. §-ával megállapított szöveg.
+[^8]: Az 1. melléklet 5. cím 8.2. pontját a 3/2023. (VI. 28.) KIM rendelet 10. § 1. pont e) alpontja hatályon kívül helyezte.
+[^9]: Az 1. melléklet 6. cím 9.2. pontját a 3/2023. (VI. 28.) KIM rendelet 10. § 1. pont f) alpontja hatályon kívül helyezte.
+[^10]: Az 1. melléklet 6. cím 9.4. pontja a 3/2023. (VI. 28.) KIM rendelet 9. §-ával megállapított szöveg.
+[^11]: A 2. melléklet 1. cím 9.2. pontját a 3/2023. (VI. 28.) KIM rendelet 10. § 2. pont a) alpontja hatályon kívül helyezte.
+[^12]: A 2. melléklet 2. cím 9.2. pontját a 3/2023. (VI. 28.) KIM rendelet 10. § 2. pont b) alpontja hatályon kívül helyezte.
