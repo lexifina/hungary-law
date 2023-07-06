@@ -12,7 +12,7 @@ Szálló- és rostszerkezetű porok koncentrációi mg/m3-ben
 
 | 3 | Kristályos szilícium-dioxid (beleértve kvarc, krisztobalit, tridimit és egyéb formák) |  | 0,1 | EU6 |
 
-| 4 | Keményfaporok | 3 |  | EU6 |
+| 4 | Keményfaporok | 2 |  | EU6 |
 
 | 5 | Pamut, gyapot (nyers) | 1,5 |  |  |
 
@@ -58,4 +58,4 @@ Szálló- és rostszerkezetű porok koncentrációi mg/m3-ben
 
 |  | 11. | Tűzálló kerámia rostok (Refrakter kerámia rostok – RCF) | 0,3 | k(1B) | EU6 | T |
 
-[^16]: A 2. melléklet a 6/2020. (II. 7.) ITM rendelet 12. § c) pontja szerint módosított szöveg.
+[^16]: A 2. melléklet a 6/2020. (II. 7.) ITM rendelet 12. § c) pontja, a 13/2023. (VII. 5.) GFM rendelet 1. §-a szerint módosított szöveg.
