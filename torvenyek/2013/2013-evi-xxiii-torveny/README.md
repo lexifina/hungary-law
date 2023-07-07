@@ -25,3 +25,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-23-00-00
 | 2020-01-01 | 2019. évi CI. törvény | 2013-23-00-00.18 |
 | 2021-03-01 | 2021. évi II. törvény | 2013-23-00-00.19 |
 | 2021-12-18 | 2021. évi CXXXVI. törvény | 2013-23-00-00.20 |
+| 2023-07-07 | 2023. évi LIII. törvény | 2013-23-00-00.21 |

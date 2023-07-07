@@ -4,7 +4,7 @@ A kőolaj és kőolajtermékek behozott átlagos napi mennyiségének számítá
 
 1. A behozott kőolaj és kőolajtermék mennyiségének meghatározása
 
-Qbehozott_napi = ((Qfinomítói_alapanyag_nettó_import + Qfinomítói_készletváltozás – Qvegyipari_benzin_korrekció) + (Qkőolajtermék_nettó_import
+Qbehozott_napi= ((Qfinomítói_alapanyag_nettó_import + Qfinomítói_készletváltozás – Qvegyipari_benzin_korrekció) + (Qkőolajtermék_nettó_import
 
 + Qkőolajtermék_készletváltozás) * 1,065) / T
 
