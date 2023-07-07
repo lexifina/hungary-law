@@ -1,5 +1,3 @@
 ## 10. A Budapest és az agglomeráció fejlesztésével összefüggő állami feladatokról, valamint egyes fejlesztések megvalósításáról, továbbá egyes törvényeknek a Magyarország filmszakmai támogatási programjáról szóló SA.50768 számú Európai Bizottsági határozattal összefüggő módosításáról szóló 2018. évi XLIX. törvény módosítása
 
-65. § A Budapest és az agglomeráció fejlesztésével összefüggő állami feladatokról, valamint egyes fejlesztések megvalósításáról, továbbá egyes törvényeknek a Magyarország filmszakmai támogatási programjáról szóló SA.50768 számú Európai Bizottsági határozattal összefüggő módosításáról szóló 2018. évi XLIX. törvény (a továbbiakban: Budapest törvény) 18. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) Az (1) bekezdés szerinti beruházások megvalósítása érdekében a közúton burkolatbontással járó munka a közút fejlesztését, felújítását, továbbá a közút burkolatának teljes szélességű helyreállítását követő 5 éven belül is végezhető. Ezen munkálatok kérelemben megjelölt időszakban történő kivitelezéséhez a kezelői hozzájárulás nem tagadható meg, ha a kérelem az egyéb jogszabályban rögzített feltételeknek megfelel.”
+### 65. §
