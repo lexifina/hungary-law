@@ -14,6 +14,6 @@ c) a tulajdonában lévő, közfinanszírozott egészségügyi szakellátási fe
 
 (3a) A helyi önkormányzat (3) bekezdés szerinti vagyona a (3) bekezdés szerinti intézményműködtetési kötelezettség keretében ellátandó egészségügyi szakellátási feladat teljesítését szolgálja.
 
-(4)
+(4) A helyi önkormányzat járóbeteg-szakellátást nyújtó egészségügyi intézményt kizárólag költségvetési szervként hozhat létre és működtethet.
 
 (5)

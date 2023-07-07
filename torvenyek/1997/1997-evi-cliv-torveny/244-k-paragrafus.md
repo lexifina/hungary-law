@@ -1,1 +1,3 @@
-### 244/K. §
+244/K. § (1) A települési önkormányzat legkésőbb 2024. június 30. napjáig köteles gondoskodni arról, hogy a tulajdonában álló gazdasági társasági formában működő járóbeteg-szakellátó egészségügyi intézmények a 152. § (4) bekezdésének megfelelően kizárólag költségvetési szervként működjenek tovább.
+
+(2) A 152. § (4) bekezdésében, valamint az (1) bekezdésben foglaltakat, továbbá az Ebtv. 30. § (1a) bekezdését nem kell alkalmazni a 2023. május 1. napján nem 100%-os önkormányzati tulajdonban álló gazdasági társasági formában működő önkormányzati járóbeteg-szakellátó egészségügyi intézményekre, ide nem értve a több önkormányzat kizárólagos tulajdonában álló gazdasági társasági formában működő önkormányzati járóbeteg szakellátó egészségügyi intézményeket.
