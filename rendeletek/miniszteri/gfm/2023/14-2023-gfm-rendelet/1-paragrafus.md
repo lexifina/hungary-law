@@ -1,0 +1,1 @@
+1. § Az Agrár Széchenyi Kártya Konstrukciók keretében nyújtott de minimis támogatásokról szóló 39/2011. (V. 18.) VM rendelet 2. § (8e) bekezdésében a „2023. március 31.” szövegrész helyébe a „2023. július 31.” szöveg lép.
