@@ -94,6 +94,8 @@ d) határozza meg az intézményi várólista alapján, illetve a betegfogadási
 
 (2m) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg az egészségbiztosítói ellenjegyzéssel kiszolgáltatható gyógyászati segédeszközökkel kapcsolatos egészségbiztosítói ellenjegyzés eljárási szabályait.
 
+(2o) Felhatalmazást kap a Kormány, hogy a 82. § (26) bekezdés szerinti ellátási érdek fennállásának szempontjait és a 82. § (26) bekezdése szerinti kérelem benyújtásának részletes szabályait rendeletben állapítsa meg.
+
 (3) Felhatalmazást kap az egészségbiztosításért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben határozza meg
 
 a) a gyógyászati ellátások körét, az árukhoz nyújtott támogatás alapját és mértékét, valamint a támogatott gyógyászati segédeszközök körét funkcionális csoport vagy alcsoport szintig, az árukhoz nyújtott támogatás mértékét, az egyes funkcionális csoportokra vagy alcsoportokra megállapított támogatási módszert, a támogatási csoportra vonatkozó kihordási időket, a kihordási időre maximálisan felírható mennyiségeket, rendelhetőségi feltételeket,
@@ -205,6 +207,8 @@ j) a társadalombiztosítási támogatás alapját képező javítási díj szá
 k) a Betegségek Nemzetközi Osztályozásának az elektronikus adatszolgáltatásban használatos és nemzeti szinten alábontott öt karakteres állományát és a morfológiai kódok listáját,
 
 l) azoknak a gyógyászati segédeszközöknek a körét, amelyek esetében az egészségbiztosító méltányosságból a gyógyászati segédeszköz kölcsönzési díjához támogatást nyújthat.
+
+m) a 82/X. § (3) bekezdése szerinti kártalanítás mértékét.
 
 (6a) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy rendeletben határozza meg – Magyarország Európai Unió melletti Állandó Képviselete kivételével – a tartós külszolgálatra kihelyezésre kerülő kormánytisztviselők és kormányzati ügykezelők vonatkozásában a tartós külszolgálathoz kapcsolódó munkaköri, szakmai, illetve személyi higiénés alkalmassági vizsgálat körét, az azokon történő kötelező részvételnek és biztosításuk eljárásrendjének sajátos szabályait.
 
