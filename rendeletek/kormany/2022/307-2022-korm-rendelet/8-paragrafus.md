@@ -18,7 +18,7 @@ h) figyelemmel kíséri a hazai informatikai, e-közigazgatási és digitalizác
 
 i) a miniszter delegálása alapján részt vesz jogszabály alapján vagy kormányhatározattal létrehozott, továbbá egyéb testületek munkájában,
 
-j)[^2] a 4. § szerinti kezelő szervi feladatkörében gondoskodik a rendelkezésére álló költségvetési források hatékony felhasználásáról,
+j)[^3] a 4. § szerinti kezelő szervi feladatkörében gondoskodik a rendelkezésére álló költségvetési források hatékony felhasználásáról,
 
 k) nyomon követi az e-közigazgatási, az informatikai, valamint a közigazgatási infokommunikációs infrastruktúrát érintő ágazati és ágazatközi fejlesztési elképzelések és uniós finanszírozású programok kidolgozását és azok végrehajtását,
 
@@ -26,11 +26,11 @@ l) figyelemmel kíséri és vizsgálja az informatikai, az infokommunikációs �
 
 m) figyelemmel kíséri és vizsgálja a lakosság és a vállalkozások digitális kompetenciaszintjét, magyarországi digitális infrastruktúra fejlettségi szintjét, a digitalizáció előnyeinek hatékonyabb kihasználását elősegítő nemzetközi együttműködési lehetőségeket, az adatvezérelt ágazatirányítás bevezetésének és fejlesztésének a lehetőségeit a magyar gazdaság minden területén, és e körben szakmai anyagokat készít, és döntés-előkészítési javaslatokat fogalmaz meg,
 
-n)[^3] az e-közigazgatással, az informatikával, a kormányzati célú elektronikus hírközlési tevékenységgel, a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításával, valamint a közigazgatási infokommunikációs infrastruktúra-fejlesztéssel kapcsolatos területeket – különösen a 7. § (1) bekezdés e) pontjában, valamint a 8. § (1) bekezdés h) és j) pontjában foglaltakat – érintően fejlesztési és üzemeltetési feladatokat is elláthat.
+n)[^4] az e-közigazgatással, az informatikával, a kormányzati célú elektronikus hírközlési tevékenységgel, a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításával, valamint a közigazgatási infokommunikációs infrastruktúra-fejlesztéssel kapcsolatos területeket – különösen a 7. § (1) bekezdés e) pontjában, valamint a 8. § (1) bekezdés h) és j) pontjában foglaltakat – érintően fejlesztési és üzemeltetési feladatokat is elláthat.
 
 (2) A DMÜ a tulajdonosi joggyakorlása alá tartozó gazdasági társaságok által ellátott feladatok szakszerű és hatékony végrehajtása felett folyamatos szakmai felügyeletet gyakorol.
 
 (3) A DMÜ az (1) és (2) bekezdésben foglalt feladatainak ellátására a tulajdonosi joggyakorlása alatt lévő gazdasági társaságot bevonhat.
 
-[^2]: A 8. § (1) bekezdés j) pontja a 618/2022. (XII. 29.) Korm. rendelet 25. § b) pontja szerint módosított szöveg.
-[^3]: A 8. § (1) bekezdés n) pontja a 618/2022. (XII. 29.) Korm. rendelet 25. § c) pontja szerint módosított szöveg.
+[^3]: A 8. § (1) bekezdés j) pontja a 618/2022. (XII. 29.) Korm. rendelet 25. § b) pontja szerint módosított szöveg.
+[^4]: A 8. § (1) bekezdés n) pontja a 618/2022. (XII. 29.) Korm. rendelet 25. § c) pontja szerint módosított szöveg.
