@@ -1,4 +1,4 @@
-44/A. § (1) A Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ) személyi állományába tartozó honvédelmi alkalmazottat, a honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény 102. §-ában foglaltakon túl, el kell látni munkáltatói igazolvánnyal, valamint jelvénnyel.
+44/A. § (1) A KNBSZ személyi állományába tartozó honvédelmi alkalmazottat, a honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény 102. §-ában foglaltakon túl, el kell látni munkáltatói igazolvánnyal, valamint jelvénnyel.
 
 (2) A munkáltatói igazolvány igazolja a KNBSZ honvédelmi alkalmazott állományába tartozást.
 
