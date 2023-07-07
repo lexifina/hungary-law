@@ -1,0 +1,1 @@
+7. § Ez a rendelet a 2014/40/EU európai parlamenti és tanácsi irányelvnek a hevített dohánytermékekre vonatkozó egyes mentességek visszavonása tekintetében történő módosításáról szóló, 2022. június 29-i a (EU) 2022/2100 felhatalmazáson alapuló bizottsági irányelvének való megfelelést szolgálja.
