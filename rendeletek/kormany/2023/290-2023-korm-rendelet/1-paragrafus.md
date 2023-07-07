@@ -1,3 +1,3 @@
-1. § A felszámolási eljárás során az adós gazdasági tevékenysége folytatása érdekében való értékesítés veszélyhelyzeti szabályairól szóló 129/2023. (IV. 17.) Korm. rendelet (a továbbiakban: Korm. rendelet) 18. § (2) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(2) Az átvételre – az Mt. 36. § (2) bekezdése és 39. §-a kivételével – az Mt.-nek a munkáltató személyében bekövetkező változásra vonatkozó szabályait kell alkalmazni. Az átvevővel szemben azok a munkaviszonyból eredő követelések érvényesíthetőek, amelyek az átszállást követően keletkeztek. Azok a munkaviszonyból eredő követelések, amelyek az átvétel időpontját megelőzően keletkeztek, nem szállnak át az átvevő munkáltatóra.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
