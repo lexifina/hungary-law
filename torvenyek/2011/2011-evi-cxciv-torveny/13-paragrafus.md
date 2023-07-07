@@ -40,6 +40,8 @@ d) jogszabály felhatalmazása alapján az MVM Paks II. Atomerőmű Fejlesztő Z
 
 e) közreműködhet a Befektető-védelmi Alap pénzeszközeinek kezelésében.
 
+f) az államháztartásért felelős miniszter döntése alapján ellátja a 9/A. § szerint az állam által a kormányzati szektorba sorolt egyéb szervezetnek nyújtott kölcsön teljesítésével kapcsolatos feladatokat.
+
 (5) Az ÁKK Zrt. (1) bekezdés szerinti tevékenysége körében az állam által kibocsátott, vagy állami kezességgel, állami garanciával biztosított, hitelviszonyt megtestesítő értékpapírok, továbbá a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) 6. § a)-d), h), i), j) és k) pontjában meghatározott pénzügyi eszközök tekintetében a Bszt. 5. § (1) bekezdésében meghatározott befektetési szolgáltatási tevékenységet, valamint a Bszt. 5. § (2) bekezdés a), b), d), g) és h) pontjában meghatározott befektetési szolgáltatási tevékenységet kiegészítő szolgáltatást végezhet.
 
 (6) Az ÁKK Zrt. (1) bekezdés, és az állam által kibocsátott hitelviszonyt megtestesítő értékpapírok tekintetében végzett (5) bekezdés szerinti tevékenysége államadósság-kezelésnek minősül. Az ÁKK Zrt. államadósság-kezelésen kívüli befektetési szolgáltatási tevékenységére és befektetési szolgáltatási tevékenységet kiegészítő szolgáltatására a Bszt. rendelkezéseit kell alkalmazni.
