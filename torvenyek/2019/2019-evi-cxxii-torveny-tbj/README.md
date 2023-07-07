@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2019-122-00-00
 | 2023-01-01 | 2022. évi XLV. törvény | 2019-122-00-00.18 |
 | 2023-05-15 | 2023. évi IX. törvény | 2019-122-00-00.20 |
 | 2023-07-01 | 2023. évi XXXVIII. törvény | 2019-122-00-00.22 |
+| 2023-07-07 | 2023. évi LIII. törvény | 2019-122-00-00.23 |
