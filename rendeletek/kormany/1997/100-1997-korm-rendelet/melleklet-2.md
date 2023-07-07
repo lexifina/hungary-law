@@ -64,7 +64,7 @@
 
 ## 15. A vizsgabizottság szükség szerint döntéseihez megfelelő további záradékot alakíthat ki.
 
-## 16. Jelen érettségi bizonyítványt a vizsgázó által bemutatott, iskolai rendszerű nevelésben-oktatásban szerzett, államilag elismert szakképesítésről kiadott bizonyítvány figyelembevételével állították ki.
+## 16. Jelen érettségi bizonyítványt a vizsgázó által bemutatott, iskolai rendszerű nevelésben-oktatásban szerzett, államilag elismert szakképesítésről vagy szakmáról kiadott bizonyítvány vagy sikeres szakmai vizsga figyelembevételével állították ki.
 
 ## 17. Jelen érettségi bizonyítvány szakmai érettségi végzettséget tanúsít, továbbá ……… FEOR számú ….. munkakör betöltésére képesít.
 
@@ -2889,7 +2889,7 @@ KÖZÉPSZINT
 [^425]: Az 1. számú melléklet I. Nyomtatványok része a 78/2002. (IV. 13.) Korm. rendelet 30. § (1) bekezdésével megállapított, valamint a 6/2008. (I. 22.) Korm. rendelet 12. § (3) bekezdésének o) pontja, a 65/2021. (II. 15.) Korm. rendelet 13. § (1) bekezdés 8. pontja szerint módosított szöveg.
 [^426]: Az 1. számú melléklet I. részének 5. pontját a 253/2006. (XII. 7.) Korm. rendelet 26. § (4) bekezdése hatályon kívül helyezte.
 [^427]: Az 1. számú melléklet I. részének 7. pontja a 6/2008. (I. 22.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^428]: Az 1. számú melléklet II. Záradékok alcíme a 36/2015. (III. 6.) Korm. rendelet 10. § a) pontjával megállapított, az 5/2016. (I. 22.) Korm. rendelet 17. § a) és b) pontja, a 18/2018. (II. 14.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^428]: Az 1. számú melléklet II. Záradékok alcíme a 36/2015. (III. 6.) Korm. rendelet 10. § a) pontjával megállapított, az 5/2016. (I. 22.) Korm. rendelet 17. § a) és b) pontja, a 18/2018. (II. 14.) Korm. rendelet 1. §-a, a 292/2023. (VII. 6.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^429]: A 2. számú melléklet a 324/2011. (XII. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^430]: A 2. számú melléklet Első Része a 18/2018. (II. 14.) Korm. rendelet 2. §-ával megállapított, a 165/2022. (IV. 28.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.
 [^431]: A 2. számú melléklet Második Része a 233/2004. (VIII. 6.) Korm. rendelet 50. §-ának (5) bekezdése, a 338/2004. (XII. 18.) Korm. rendelet 9–10. §-a és 12. § (1) bekezdésének b) pontja, a 256/2005. (XII. 7.) Korm. rendelet 26. § (3) bekezdése és 28. § (1) bekezdésének c) pontja, a 331/2007. (XII. 13.) Korm. rendelet 1. § 18. pontja és 3. § 9. pontja, a 6/2008. (I. 22.) Korm. rendelet 11. § (4)–(5) bekezdése és 12. § (3) bekezdésének x)–z) pontja, a 347/2008. (XII. 31.) Korm. rendelet 4–22. §-a, a 172/2011. (VIII. 24.) Korm. rendelet 5. §-a, a 106/2012. (VI. 1.) Korm. rendelet 11. § d) pontja és 8. §-a, a 221/2014. (IX. 4.) Korm. rendelet 172. § c)–s) pontja, az 5/2016. (I. 22.) Korm. rendelet 17. § c) pontja és 19. § f) pontja, a 311/2016. (X. 14.) Korm. rendelet 2. § a) és b) pontja, a 307/2017. (X. 27.) Korm. rendelet 2. §-a, a 18/2018. (II. 14.) Korm. rendelet 2. §-a, a 122/2018. (VII. 10.) Korm. rendelet 2. §-a, a 65/2021. (II. 15.) Korm. rendelet 11. §-a, a 165/2022. (IV. 28.) Korm. rendelet 7. § (2) bekezdés b) pontja szerint módosított szöveg.

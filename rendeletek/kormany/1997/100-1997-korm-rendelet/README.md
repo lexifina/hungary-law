@@ -47,3 +47,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-100-20-
 | 2022-09-24 | 1997-100-20-22.64 | 363/2022. (IX. 23.) Korm. rendelet |
 | 2023-01-01 | 1997-100-20-22.65 | 233/2004. (VIII. 6.) Korm. rendelet |
 | 2023-06-16 | 1997-100-20-22.66 | 212/2023. (VI. 1.) Korm. rendelet |
+| 2023-07-07 | 1997-100-20-22.67 | 36/2015. (III. 6.) Korm. rendelet |
