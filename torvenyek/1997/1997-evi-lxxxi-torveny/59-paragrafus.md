@@ -4,6 +4,8 @@
 
 (2) A szülői nyugdíjat újból meg kell osztani, ha a jogosultak száma megváltozik. Az újbóli megosztásra legkorábban a jogosultak számának a változását követő hónap első napjától kerülhet sor.
 
+(3) A szülői nyugdíj összegének kiszámítására az 50. § (4) és (4b) bekezdésében foglaltakat is alkalmazni kell azzal, hogy özvegyi nyugdíj alatt szülői nyugdíjat, feléledés alatt újbóli megállapítást kell érteni.
+
 4. CÍM
 
 A baleseti hozzátartozói nyugellátások

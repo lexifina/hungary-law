@@ -12,4 +12,4 @@ c)
 
 (3) Ha a gyermek mindkét szülője után jogosult az árvaellátásra, azt az árvaellátást kell folyósítani, amelynek összege számára előnyösebb.
 
-(4)
+(4) Az árvaellátás összegének kiszámítására az 50. § (4) és (4b) bekezdésében foglaltakat is alkalmazni kell azzal, hogy özvegyi nyugdíj alatt árvaellátást, feléledés alatt újbóli megállapítást kell érteni.

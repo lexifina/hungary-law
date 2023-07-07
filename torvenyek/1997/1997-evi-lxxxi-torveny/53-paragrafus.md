@@ -18,7 +18,7 @@ a) az igénylő a házasságkötéskor az 1998. január 1-jét megelőzően hat�
 
 b) az igénylőt a házasság létrejötte nélkül az özvegyi nyugdíj egyébként megilletné.
 
-(4) Az özvegyi nyugdíj feléledése esetén a jogosultat az özvegyi nyugdíj megszűnését követő emelések, kiegészítések megilletik.
+(4)
 
 (5) Ha 1997. december 31-ét követően az 1998. január 1-je előtt megszüntetett özvegyi nyugdíjra a jogosultság az (1)-(2) bekezdés szerint feléled, az özvegy az öregségi nyugdíja, rokkantsági ellátása, rehabilitációs ellátása mellett – a megállapítás időpontjára tekintet nélkül – kérheti az özvegyi nyugdíj 50. § (2) bekezdés b) pontja szerinti folyósítását, ha ez számára kedvezőbb.
 

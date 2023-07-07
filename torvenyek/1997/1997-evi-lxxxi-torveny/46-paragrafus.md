@@ -22,6 +22,6 @@ szolgálati időt szerzett.
 
 (3) Az (1) és (2) bekezdés alkalmazása során az özvegyi nyugdíjra történő jogszerzés szempontjából szolgálati időként kell figyelembe venni
 
-a)
+a) a 19. § szerinti időszakot,
 
 b) azt az időtartamot, ami alatt az elhunyt jogszerző rokkantsági nyugdíjban, baleseti rokkantsági nyugdíjban vagy rokkantsági ellátásban részesült.

@@ -454,4 +454,4 @@ Az öregségi nyugdíj alapját képező havi átlagkereset százaléka
 
 100,0
 
-Ha az öregségi nyugdíj kiszámítása során figyelembe vett szolgálati idő a 39. § szerinti arányos elismerés miatt nem éri el a 15 évet, az öregségi nyugdíj kiszámítása során alkalmazandó szorzószámot úgy kell meghatározni, hogy a 43%-os mértéket annyiszor 2 százalékponttal kell csökkenteni, ahány év a 15 év szolgálati időből hiányzik.
+## Ha az öregségi nyugdíj kiszámítása során figyelembe vett szolgálati idő a 19. §-ban foglaltak vagy a 39. § szerinti arányos elismerés miatt nem éri el a 15 évet, az öregségi nyugdíj kiszámítása során alkalmazandó szorzószámot úgy kell meghatározni, hogy a 43%-os mértéket annyiszor 2 százalékponttal kell csökkenteni, ahány év a 15 év szolgálati időből hiányzik.

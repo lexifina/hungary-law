@@ -13,3 +13,5 @@ c) egyéb hitelt érdemlő módon
 bizonyítja.
 
 (3) A kereseti, jövedelmi adatokat a nyugdíjbiztosítás nyilvántartása alapján kell számításba venni. A nyugdíjbiztosítási nyilvántartásban nem szereplő keresetre, jövedelemre vonatkozó adatokat a foglalkoztatónak vagy jogutódjának az egykorú munkaügyi, bérszámfejtési, könyvelési nyilvántartásai alapján kiállított írásbeli igazolásával, ennek hiányában más egykorú okirattal – így különösen a Tbj. 75. § (2) bekezdése vagy 77. § (5) bekezdése szerinti foglalkoztatói igazolással, a személyi jövedelemadó megállapításához a foglalkoztató által kiadott igazolással, a kereset, jövedelem kifizetését, elszámolását igazoló bizonylattal, munkakönyvvel, személyijövedelemadó-bevallással – lehet igazolni.
+
+(4) A 19. § szerinti biztosítási időt a nemzetközi szervezet által kiállított okirattal kell igazolni.

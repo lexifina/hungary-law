@@ -14,7 +14,7 @@ d) a nyugdíjprémium megállapítására és a végrehajtásra vonatkozó rész
 
 e) a nyugellátás összegének megállapításánál a személyi jövedelemadó képzett összegét,
 
-f) a nyugellátások és – törvény vagy kormányrendelet alapján – a 62. §-ban foglaltak szerint emelendő más pénzbeli ellátások emelésének részletes szabályait, valamint évente az 1998. december 31-e utáni időponttól megállapításra kerülő öregségi teljes nyugdíji és árvaellátás évenkénti legkisebb összegeit, továbbá az 50. § (6) bekezdése szerinti együttfolyósítási összeghatárt,
+f) a nyugellátások és – törvény vagy kormányrendelet alapján – a 62. §-ban foglaltak szerint emelendő más pénzbeli ellátások emelésének részletes szabályait, valamint évente az 1998. december 31-e utáni időponttól megállapításra kerülő öregségi teljes nyugdíj és árvaellátás évenkénti legkisebb összegeit, továbbá az 50. § (6) bekezdése szerinti együttfolyósítási összeghatárt,
 
 g) az öregségi nyugdíj és a 6. § (4) bekezdése szerinti ellátások szüneteltetésének részletes eljárási szabályait,
 
