@@ -64,31 +64,31 @@ Az egységes kormányzati ügyiratkezelő rendszerbe bevont szervek[^217]
 
 29.[^243] Országos Vízügyi Főigazgatóság és területi vízügyi igazgatóságok
 
-30. Emberi Erőforrás Támogatáskezelő
+30.[^244] Nemzeti Kulturális Támogatáskezelő
 
 31. Oktatási Hivatal
 
 32. Nemzeti Egészségbiztosítási Alapkezelő
 
-33.[^244]
+33.[^245]
 
-34.[^245]
+34.[^246]
 
 35. Nemzeti Élelmiszerlánc-biztonsági Hivatal
 
 36. Nemzeti park igazgatóságok
 
-37.[^246] Nemzeti Földügyi Központ
+37.[^247] Nemzeti Földügyi Központ
 
 38. Országos Meteorológiai Szolgálat
 
-39.[^247]
+39.[^248]
 
 40. Közbeszerzési és Ellátási Főigazgatóság
 
 41. Kormányzati Informatikai Fejlesztési Ügynökség
 
-42.[^248] Szabályozott Tevékenységek Felügyeleti Hatósága bányafelügyeleti feladatkörében eljárva
+42.[^249] Szabályozott Tevékenységek Felügyeleti Hatósága bányafelügyeleti feladatkörében eljárva
 
 43. Országos Atomenergia Hivatal
 
@@ -123,8 +123,9 @@ Az egységes kormányzati ügyiratkezelő rendszerbe bevont szervek[^217]
 [^241]: Az 1. melléklet 27. pontja a 95/2018. (V. 22.) Korm. rendelet 1. § 1. pontjával megállapított szöveg.
 [^242]: Az 1. melléklet 28. pontja a 95/2018. (V. 22.) Korm. rendelet 1. § 1. pontjával megállapított szöveg.
 [^243]: Az 1. melléklet 29. pontját a 95/2018. (V. 22.) Korm. rendelet 1. § 1. pontja iktatta be, szövege a 137/2019. (VI. 11.) Korm. rendelet 14. § s) pontja szerint módosított szöveg.
-[^244]: Az 1. melléklet 33. pontját a 311/2017. (X. 31.) Korm. rendelet 12. §-a hatályon kívül helyezte.
-[^245]: Az 1. melléklet 34. pontját a 379/2016. (XII. 2.) Korm. rendelet 71. § (8) bekezdés b) pontja hatályon kívül helyezte.
-[^246]: Az 1. melléklet 37. pontja a 159/2019. (VI. 28.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
-[^247]: Az 1. melléklet 39. pontját a 615/2022. (XII. 29.) Korm. rendelet 4. § a) pontja hatályon kívül helyezte.
-[^248]: Az 1. melléklet 42. pontja a 825/2021. (XII. 28.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^244]: Az 1. melléklet 30. pontja a 281/2023. (VI. 29.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^245]: Az 1. melléklet 33. pontját a 311/2017. (X. 31.) Korm. rendelet 12. §-a hatályon kívül helyezte.
+[^246]: Az 1. melléklet 34. pontját a 379/2016. (XII. 2.) Korm. rendelet 71. § (8) bekezdés b) pontja hatályon kívül helyezte.
+[^247]: Az 1. melléklet 37. pontja a 159/2019. (VI. 28.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^248]: Az 1. melléklet 39. pontját a 615/2022. (XII. 29.) Korm. rendelet 4. § a) pontja hatályon kívül helyezte.
+[^249]: Az 1. melléklet 42. pontja a 825/2021. (XII. 28.) Korm. rendelet 13. §-ával megállapított szöveg.
