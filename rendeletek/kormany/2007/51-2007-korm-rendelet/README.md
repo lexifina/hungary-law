@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-51-20-2
 | 2021-05-07 | 2007-51-20-22.25 | 236/2021. (V. 6.) Korm. rendelet |
 | 2022-07-01 | 2007-51-20-22.26 | 238/2022. (VI. 30.) Korm. rendelet |
 | 2023-01-01 | 2007-51-20-22.27 | 616/2022. (XII. 29.) Korm. rendelet |
+| 2023-07-07 | 2007-51-20-22.28 | 209/2019. (VIII. 27.) Korm. rendelet |

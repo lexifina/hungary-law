@@ -1,4 +1,4 @@
-19. § (1)[^56] Az Ösztöndíjrendszerrel kapcsolatos központi adatbázis-kezelői, koordinációs, a települési és vármegyei ösztöndíjjal kapcsolatos pénzkezelési feladatokat az Emberi Erőforrás Támogatáskezelő (a továbbiakban: pályázatkezelő szervezet) látja el.
+19. § (1)[^56] Az Ösztöndíjrendszerrel kapcsolatos központi adatbázis-kezelői, koordinációs, a települési és vármegyei ösztöndíjjal kapcsolatos pénzkezelési feladatokat a Nemzeti Kulturális Támogatáskezelő (a továbbiakban: pályázatkezelő szervezet) látja el.
 
 (2)[^57] Az intézményi ösztöndíjrészt a miniszter adományozza.
 
@@ -26,7 +26,7 @@ c) a tanulmányok halasztása.
 
 (11) Az az ösztöndíjas, aki értesítési kötelezettségének nem tesz eleget, az ösztöndíj folyósításából és az Ösztöndíjrendszer következő évi fordulójából kizárható. Az ösztöndíjas 30 napon belül köteles a jogosulatlanul felvett ösztöndíjat a folyósító felsőoktatási intézmény részére visszafizetni. Az az ösztöndíjas, aki értesítési kötelezettségének elmulasztása miatt esik el az ösztöndíj folyósításától, a tanulmányi félév lezárását követően (június 30-ig, illetve január 31-ig) ki nem fizetett ösztöndíjára már nem tarthat igényt.
 
-[^56]: A 19. § (1) bekezdése a 209/2019. (VIII. 27.) Korm. rendelet 1. §-a, a 616/2022. (XII. 29.) Korm. rendelet 73. § a) pontja szerint módosított szöveg.
+[^56]: A 19. § (1) bekezdése a 209/2019. (VIII. 27.) Korm. rendelet 1. §-a, a 616/2022. (XII. 29.) Korm. rendelet 73. § a) pontja, a 281/2023. (VI. 29.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^57]: A 19. § (2) bekezdése a 248/2012. (VIII. 31.) Korm. rendelet 32. § l) pontja, a 238/2022. (VI. 30.) Korm. rendelet 46. § b) pontja szerint módosított szöveg.
 [^58]: A 19. § (3) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 73. § b) pontja szerint módosított szöveg.
 [^59]: A 19. § (8) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 73. § a) pontja szerint módosított szöveg.
