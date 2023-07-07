@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-140-00-00
 | 2022-11-02 | 2010. évi CXXX. törvény | 2021-140-00-00.2 |
 | 2023-01-01 | 2022. évi LXIII. törvény | 2021-140-00-00.3 |
 | 2023-07-01 | 2023. évi XXVII. törvény | 2021-140-00-00.5 |
+| 2023-07-07 | 2023. évi LIII. törvény | 2021-140-00-00.6 |

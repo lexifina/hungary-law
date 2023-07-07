@@ -52,6 +52,8 @@
 
 25. NATO Állandó Védelmi Tervek: az Észak-atlanti Tanács által előzetesen jóváhagyott műveleti tervek, amelyek végrehajtásáról az Észak-atlanti Szerződés Szervezete (a továbbiakban: NATO) tagállamai a gyorsított döntéshozatali eljárásrend alapján hoznak döntést,
 
+25a. NATO Biztonsági Beruházási Program: azon katonai célú beruházások, fejlesztések összessége, amelyeket a NATO a védelmi képességének megőrzése vagy fokozása érdekében tervez és valósít meg,
+
 26. rendvédelmi szerv: a Vbö. 5. § 8. pontja szerint ekként meghatározott fogalom,
 
 27. szövetséges fegyveres erők: a kölcsönös katonai fegyveres segítségnyújtás kötelezettségét tartalmazó hatályos nemzetközi szerződés vagy az Európai Unió szerződései szerint a Magyarországgal szövetséges államok fegyveres erői, valamint az e nemzetközi szerződések alapján, a NATO, illetve az Európai Unió által vagy jóváhagyásával létrehozott közös katonai szervezetek,

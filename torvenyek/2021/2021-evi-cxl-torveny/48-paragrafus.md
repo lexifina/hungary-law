@@ -5,3 +5,5 @@
 (2) A hiánypótlásra vonatkozó felhívásban meg kell jelölni a kérelem hiányosságait és a hiánypótlási határidőt, amely harminc napnál hosszabb nem lehet.
 
 (3) A honvédelemért felelős miniszter a gazdálkodó szervezet szakmai és gazdasági alkalmasságáról hatvan napos ügyintézési határidőn belül dönt.
+
+(4) A NATO Biztonsági Beruházási Program keretében megvalósuló beruházások, fejlesztések – a jogszabályban meghatározott bírságok kivételével – mentesek a közterhektől.
