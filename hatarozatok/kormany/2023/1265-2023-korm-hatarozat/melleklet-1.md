@@ -36,6 +36,8 @@
 
 | Határidő: | azonnal |
 
-## 2. A kiemelt fővárosi sportegyesületek, valamint a Magyar Testnevelési Egyetem Sportegyesülete sportszakmai feladatainak ellátásához szükséges kiegészítő támogatás biztosításával összefüggő kormányzati intézkedésekről szóló 1438/2019. (VII. 26.) Korm. határozat 3. pontjában a „2023. február 28-áig” szövegrész helyébe a „2024. szeptember 30-áig” szöveg lép.
+## 2.[^1]
 
 1. melléklet az 1265/2023. (VII. 6.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
