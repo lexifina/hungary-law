@@ -1,1 +1,3 @@
-1. § A kémiai kóroki tényezők hatásának kitett munkavállalók egészségének és biztonságának védelméről szóló 5/2020. (II. 6.) ITM rendelet 2. melléklet 1. pontjában foglalt táblázat B:4 mezőjében a „3” szövegrész helyébe a „2” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
