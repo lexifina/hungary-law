@@ -1,1 +1,0 @@
-A jogalkotásról szóló 2010. évi CXXX. törvény 30. § (2) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 22.) Korm. rendelet 119. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
