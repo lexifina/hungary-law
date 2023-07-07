@@ -4,6 +4,8 @@
 
 (2) A végrehajtó a kinevezését követő 30 napon belül köteles bejelenteni az állandó helyettesét a Kar hivatali szervének, és azzal egyidejűleg be kell nyújtania az állandó helyettese és közte létrejött, az állandó helyettesítésre vonatkozó megállapodást.
 
+(2a) Az állandó helyettes a 245. § (1) bekezdés a)–c) pontja szerinti esetekben az állandó helyettesi feladatok ellátását vagy annak a végrehajtói irodának a keretei között végezheti, amelyet saját maga alapított, vagy annak a végrehajtói irodának a keretei között, amelybe tagként belépett.
+
 (3) Ha a végrehajtónak több végrehajtó-helyettese van, ki kell jelölnie azt a helyettest, aki a helyettesítésre jogosult, és a kijelölést haladéktalanul be kell jelentenie a Kar hivatali szervének.
 
 (4) Állandó helyettes bármely végrehajtó lehet. Az állandó helyettes új állandó helyettes bejelentéséig köteles ellátni helyettesítési feladatait. Amennyiben az állandó helyettes a helyettesi feladatainak ellátásában akadályozva van, nem látja el vagy arról lemondott, a Kar hivatali szervének vezetője a helyettesi feladatok ellátására a Kar elnökségével történő egyeztetést követően állandó helyettest nevez ki. A végrehajtó kettőnél több állandó helyettességet nem vállalhat.

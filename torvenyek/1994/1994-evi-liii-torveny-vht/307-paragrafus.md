@@ -22,7 +22,7 @@ d) az önálló bírósági végrehajtói állások számát, e végrehajtók sz
 
 e) a végrehajtói állások betöltésének és a végrehajtói pályázati eljárásnak a részletes szabályait, és a végrehajtói kinevezéshez készített pályázati rangsor kialakítása során figyelembe vehető szempontokat és azokhoz rendelhető pontszámokat,
 
-f) a végrehajtók, végrehajtó-helyettesek, végrehajtójelöltek igazolványára és nyilvántartására, a Kar által vezetett nyilvántartások, névjegyzékek vezetésére, a Kar igazgatási jellegű feladatainak ellátására és panaszügyintézésére, továbbá a végrehajtási ügyekről vezetett nyilvántartás adatairól szóló tanúsítvány kiállításért járó költségtérítés összegére és megfizetésére vonatkozó részletes szabályokat,
+f) a végrehajtók, végrehajtó-helyettesek, végrehajtójelöltek igazolványára és nyilvántartására, a a Kar igazgatási jellegű feladatainak ellátására és panaszügyintézésére, továbbá a végrehajtási ügyekről vezetett nyilvántartás adatairól szóló tanúsítvány kiállításért járó költségtérítés összegére és megfizetésére vonatkozó részletes szabályokat,
 
 g) a fegyelmi eljárásban közreműködő személyek részére járó költségtérítésről szóló szabályokat,
 
@@ -45,9 +45,3 @@ o) a végrehajtó állandó helyettes általi helyettesítésével összefüggő
 (1b) Az (1a) bekezdés a), d), i), j), l) és m) pontjában meghatározott rendeletet a Hatóság elnöke a miniszter véleményének kikérését követően adja ki.
 
 (2) Felhatalmazást kap a miniszter, hogy rendelettel állapítsa meg
-
-a)
-
-b)
-
-c)
