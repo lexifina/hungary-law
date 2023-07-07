@@ -1,1 +1,3 @@
-9. § A 63/2021. (XII. 29.) ITM rendelet 1. melléklete a 4. melléklet szerint módosul.
+9. §[^10]
+
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
