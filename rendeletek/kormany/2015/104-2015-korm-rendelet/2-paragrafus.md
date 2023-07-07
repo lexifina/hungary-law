@@ -6,7 +6,7 @@ a) legfeljebb hét százalékának megfelelő összeget a megállapodás végreh
 
 b) legfeljebb egy százalékának megfelelő összeget a Fórum titkársági feladatainak ellátásával kapcsolatos költségeire
 
-## használhat fel.
+használhat fel.
 
 (3) A megállapodásban meg kell határozni
 
