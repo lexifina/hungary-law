@@ -38,6 +38,8 @@ a) az állam tulajdonában lévő vizek medrének használatáért fizetendő ha
 
 b) a 3. § (2a) bekezdése szerinti tulajdonosi joggyakorló személyét, a tulajdonosi joggyakorlással érintett vagyoni kört, a tulajdonosi joggyakorló jogainak és kötelezettségének körét, a joggyakorlás szabályait, időtartamát.
 
+c) a 33. § (4) bekezdése alapján értékesítésre kijelölt ingatlant.
+
 (3)
 
 (4)
