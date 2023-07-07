@@ -1,20 +1,20 @@
 ## XIII. Fejezet
 
-## A SZAKKÉPZŐ INTÉZMÉNY FENNTARTÁSA
+## AZ ÁLLAMI SZAKKÉPZŐ INTÉZMÉNY FENNTARTÁSA[^144]
 
 ## 25. Az Szkt. 26. § (1) bekezdéséhez
 
-77. § (1)[^89] Vármegyénként legfeljebb három, a fővárosban legfeljebb öt, költségvetési szervként működő szakképzési centrum alapítható azzal, hogy a szakképzési centrum részeként működő szakképző intézményekben tanulók, illetve képzésben részt vevő személyek hivatalos októberi statisztikai létszámának három tanév átlagában számított összesített mértéke el kell, hogy érje a kétezer főt.
+77. § (1)[^145] Vármegyénként legfeljebb három, a fővárosban legfeljebb öt, költségvetési szervként működő szakképzési centrum alapítható azzal, hogy a szakképzési centrum részeként működő szakképző intézményekben tanulók, illetve képzésben részt vevő személyek hivatalos októberi statisztikai létszámának három egymást követő tanév átlagában számított összesített mértéke el kell, hogy érje a kétezer főt.
 
-(2)[^90] A szakképzésért felelős miniszter által alapított szakképzési centrum felett az Áht. 9. §-ában meghatározott irányítási hatásköröket egyedi ügyben vagy az ügyek meghatározott csoportja vonatkozásában a szakképzésért felelős miniszter vagy – az Áht. 9. § a), c), d) és f) pontjában meghatározott irányítási hatáskörök kivételével – a Nemzeti Szakképzési és Felnőttképzési Hivatal, mint középirányító szerv útján gyakorolja.
+(2)[^146] A szakképzésért felelős miniszter által alapított szakképzési centrum felett az Áht. 9. §-ában meghatározott irányítási hatásköröket egyedi ügyben vagy az ügyek meghatározott csoportja vonatkozásában a szakképzésért felelős miniszter vagy – az Áht. 9. § a), c) és f) pontjában meghatározott irányítási hatáskörök kivételével – a Nemzeti Szakképzési és Felnőttképzési Hivatal, mint középirányító szerv útján gyakorolja.
 
-(3) A (2) bekezdésben meghatározott feladatkörében a Nemzeti Szakképzési és Felnőttképzési Hivatal
+(3)[^147] A Nemzeti Szakképzési és Felnőttképzési Hivatal
 
 a) a szakképzésért felelős miniszter által alapított szakképzési centrum irányításával összefüggésben
 
 aa) ellátja a szakképzési centrum, illetve az állami szakképző intézmény alapításával, megszüntetésével és átalakításával kapcsolatos döntés-előkészítési feladatokat,
 
-ab) dönt a szakképzési centrum, illetve az állami szakképző intézmény átszervezéséről,
+ab)[^148]
 
 ac) a szakképzésért felelős miniszter részére előkészíti a szakképzési centrum alapító okiratát, módosító okiratát és megszüntető okiratát,
 
@@ -32,9 +32,9 @@ ba) koordinálja a szakképzési centrum költségvetési tervezéssel összefü
 
 bb) figyelemmel kíséri a szakképzési centrum költségvetésének végrehajtását, illetve az ellátandó feladatok teljesülését,
 
-bc) négyévenként legalább egy alkalommal ellenőrzi a szakképzési centrum gazdálkodását, és ennek keretében ellátja az irányító szerv hatáskörébe sorolt előirányzat- és vagyongazdálkodási feladatokat is,
+bc)[^149] ellátja a szakképzési centrum előirányzat- és vagyongazdálkodásával, valamint költségvetési beszámolójával kapcsolatosan az irányító szerv hatáskörébe sorolt feladatokat,
 
-bd) ellátja a szakképzési centrum költségvetési beszámolójával kapcsolatos irányító szervi feladatokat, és gondoskodik azok határidőre történő benyújtásáról, felülvizsgálatáról és a szakképzésért felelős miniszter részére történő továbbításáról,
+bd)[^150] négyévenként legalább egy alkalommal ellenőrzi a szakképzési centrum gazdálkodását,
 
 c) egyéb feladatai keretében
 
@@ -44,5 +44,10 @@ cb) folyamatos nyilvántartást vezet a szakképzésért felelős miniszter ált
 
 cc) ellátja a jogszabályban számára meghatározott, illetve a szakképzésért felelős miniszter által meghatározott egyéb feladatokat.
 
-[^89]: A 77. § (1) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 303. § a) pontja szerint módosított szöveg.
-[^90]: A 77. § (2) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 195. §-ával megállapított szöveg.
+[^144]: A XIII. Fejezet címe a 292/2023. (VII. 6.) Korm. rendelet 47. § 26. pontja szerint módosított szöveg.
+[^145]: A 77. § (1) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 303. § a) pontja, a 292/2023. (VII. 6.) Korm. rendelet 47. § 27. pontja szerint módosított szöveg.
+[^146]: A 77. § (2) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 195. §-ával megállapított, a 292/2023. (VII. 6.) Korm. rendelet 48. § 30. pontja szerint módosított szöveg.
+[^147]: A 77. § (3) bekezdés nyitó szövegrésze a 292/2023. (VII. 6.) Korm. rendelet 48. § 31. pontja szerint módosított szöveg.
+[^148]: A 77. § (3) bekezdés a) pont ab) alpontját a 292/2023. (VII. 6.) Korm. rendelet 48. § 32. pontja hatályon kívül helyezte.
+[^149]: A 77. § (3) bekezdés b) pont bc) alpontja a 292/2023. (VII. 6.) Korm. rendelet 47. § 28. pontja szerint módosított szöveg.
+[^150]: A 77. § (3) bekezdés b) pont bd) alpontja a 292/2023. (VII. 6.) Korm. rendelet 47. § 29. pontja szerint módosított szöveg.

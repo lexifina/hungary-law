@@ -28,10 +28,10 @@ a) az iskolapszichológus,
 
 b) az iskola-egészségügyi szolgálat, továbbá
 
-c)[^114] ha működik, a helyi vagy vármegyei Kábítószerügyi Egyeztető Fórum
+c)[^183] ha működik, a helyi vagy vármegyei Kábítószerügyi Egyeztető Fórum
 
 véleményét.
 
 (7) A szakképző intézményben megvalósuló teljes körű egészségfejlesztés módszertani útmutatóját az egészségfejlesztésért felelős országos intézet dolgozza ki.
 
-[^114]: A 102. § (6) bekezdés c) pontja a 616/2022. (XII. 29.) Korm. rendelet 303. § b) pontja szerint módosított szöveg.
+[^183]: A 102. § (6) bekezdés c) pontja a 616/2022. (XII. 29.) Korm. rendelet 303. § b) pontja szerint módosított szöveg.

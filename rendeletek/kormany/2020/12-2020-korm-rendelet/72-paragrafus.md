@@ -1,3 +1,3 @@
-72. § (1) Átszervezés minden olyan döntés, amely nem eredményezi a szakképző intézmény átalakítását.
+72. §[^141]
 
-(2) Az alapító a szakképző intézmény szakképzési alapfeladatának megváltoztatásával, nevének megállapításával kapcsolatos döntése előtt beszerzi az oktatói testület, a képzési tanács, a diákönkormányzat, a nemzetiségi szakmai oktatásban részt vevő szakképző intézmény esetén a települési nemzetiségi önkormányzat, ennek hiányában az érintett országos nemzetiségi önkormányzat, a területileg illetékes gazdasági kamara, a szakképzésért felelős miniszter és a vagyonkezelésében levő ingatlan tulajdonos önkormányzata véleményét. A vélemény kialakításához minden olyan információt hozzáférhetővé kell tenni a véleményezési joggal rendelkezők részére, amely a fenntartói döntés meghozatalához rendelkezésére áll.
+[^141]: A 72. §-t a 292/2023. (VII. 6.) Korm. rendelet 48. § 29. pontja hatályon kívül helyezte.

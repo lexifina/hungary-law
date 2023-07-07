@@ -28,10 +28,12 @@ i) a szakképző intézményi kórus időpontjait.
 
 (3) A tanítás nélküli munkanapok időpontjáról a szakképző intézmény a vele tanulói jogviszonyban álló tanulók elhelyezését biztosító kollégiumot és a duális képzőhelyet is tájékoztatja.
 
-(4) A szakképző intézmény és a vele tanulói jogviszonyban álló tanulók elhelyezését biztosító kollégium kölcsönösen tájékoztatja egymást a tanév elfogadott helyi rendjéről. Ha a szakképző intézményben rendkívüli tanítási napot tartanak, ennek időpontjáról az érdekelt kollégiumot, a duális képzőhelyet lehetőség szerint legalább hét nappal korábban, írásban tájékoztatni kell.
+(4)[^186] A szakképző intézmény és a vele tanulói jogviszonyban álló tanulók elhelyezését biztosító kollégium kölcsönösen tájékoztatja egymást a tanév elfogadott helyi rendjéről. Ha a szakképző intézményben rendkívüli tanítási napot tartanak, ennek időpontjáról az érdekelt kollégiumot, a duális képzőhelyet lehetőség szerint legalább hét nappal korábbankell tájékoztatni.
 
 (5) A szakképző intézményben a tanév rendjéről szóló miniszteri rendelet határozza meg a tanítás nélküli munkanapok számát. A tanítás nélküli munkanapok számát az igazgató a fenntartó egyetértésével megnövelheti abban az esetben, ha a szakképző intézmény az ehhez szükséges időt megteremti.
 
 (6) A tanítás nélküli munkanapon – a kiskorú tanuló törvényes képviselőjének erre vonatkozó igénye esetén – a szakképző intézmény ellátja a kiskorú tanuló felügyeletét.
 
 (7) A szakképző intézmény az iskolai Nemzeti Összetartozás Napja bevezetéséről, a magyarországi és a külhoni magyar fiatalok közti kapcsolatok kialakításáról és erősítéséről a közoktatásban, valamint a Magyarország határain kívül élő magyarság bemutatásáról szóló országgyűlési határozat alapján a kilencedik–tizenkettedik évfolyamok valamelyikén szervezik meg a határon túli kirándulásokat. A határon túli kirándulásokat a központi költségvetés támogatja. A költségvetési támogatás elbírálásakor előnyt élveznek a külhoni iskolával dokumentált cserekapcsolatban álló hazai szakképző intézmények.
+
+[^186]: A 109. § (4) bekezdése a 292/2023. (VII. 6.) Korm. rendelet 47. § 34. pontja szerint módosított szöveg.

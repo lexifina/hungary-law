@@ -1,4 +1,4 @@
-26. § (1) A tanuló, illetve a képzésben részt vevő személy által elvégzett évfolyamokról a törzslap alapján év végi bizonyítványt kell kiállítani. A bizonyítvány és a bizonyítvány kiállításának alapjául szolgáló nyomtatvány közokirat.
+26. § (1)[^59] A tanuló által elvégzett évfolyamokról a törzslap alapján év végi bizonyítványt kell kiállítani. A bizonyítvány és a bizonyítvány kiállításának alapjául szolgáló nyomtatvány közokirat.
 
 (2) A bizonyítványban fel kell tüntetni a szakképző intézmény nevét, OM azonosítóját és címét.
 
@@ -8,15 +8,15 @@ a) a sorszámát,
 
 b) a bizonyítványpótlap sorozatszámát,
 
-c) a tanuló, illetve a képzésben részt vevő személy nevét, oktatási azonosító számát, születési helyét és idejét, anyja születéskori nevét,
+c)[^60] a tanuló nevét, oktatási azonosító számát, születési helyét és idejét, anyja születéskori nevét,
 
-d) a tanuló, illetve a képzésben részt vevő személy törzslapjának számát,
+d)[^61] a tanuló törzslapjának számát,
 
 e) a tanévet és az elvégzett évfolyam sorszámát,
 
-f) a tanuló, illetve a képzésben részt vevő személy által mulasztott foglalkozások számát, ezen belül külön megadva az igazolatlan mulasztások számát,
+f)[^62] a tanuló által mulasztott foglalkozások számát, ezen belül külön megadva az igazolatlan mulasztások számát,
 
-g) a tanuló, illetve a képzésben részt vevő személy által tanult tantárgyak megnevezését és minősítését,
+g)[^63] a tanuló által tanult tantárgyak megnevezését és minősítését,
 
 h) a szükséges záradékot,
 
@@ -28,6 +28,23 @@ k) az igazgató és az osztályfőnök aláírását.
 
 (4) A nemzetiségi bizonyítvány a (3) bekezdésben felsorolt adatokat magyar és nemzetiségi nyelven is tartalmazza.
 
-(5) Az elveszett vagy megsemmisült bizonyítványról – a tanuló, kiskorú tanuló esetén a kiskorú tanuló törvényes képviselőjének, illetve a képzésben részt vevő személy kérelmére – a törzslap alapján bizonyítványmásodlat állítható ki. A bizonyítványmásodlatért jogszabályban meghatározott illetéket kell leróni.
+(5)[^64] Az elveszett vagy megsemmisült bizonyítványról – a tanuló, kiskorú tanuló esetén a kiskorú tanuló törvényes képviselőjének kérelmére – a törzslap alapján bizonyítványmásodlat állítható ki. A bizonyítványmásodlatért jogszabályban meghatározott illetéket kell leróni.
 
-(6) Törzslap, póttörzslap hiányában a szakképző intézményben meglévő nyilvántartások alapján kérelemre pótbizonyítvány állítható ki. A pótbizonyítvány azt tanúsítja, hogy a tanuló, illetve a képzésben részt vevő személy melyik évfolyamot mikor végezte el. Ha a kiállítás alapjául szolgáló valamennyi nyilvántartás megsemmisült, a pótbizonyítványban csak azt kell feltüntetni, hogy az abban megjelölt személy a szakképző intézmény tanulója, illetve képzésben részt vevő személye volt. Ilyen tartamú pótbizonyítvány akkor állítható ki, ha a volt tanuló, illetve képzésben részt vevő személy írásban nyilatkozik arról, hogy a megjelölt tanévben a szakképző intézmény melyik évfolyamán tanult, és nyilatkozatához csatolja volt oktatójának vagy két évfolyamtársának igazolását. Az oktató nyilatkozata akkor fogadható el, ha a jelzett időszakban a szakképző intézményben tanított. A volt évfolyamtársaknak be kell mutatniuk bizonyítványukat.
+(6)[^65] Törzslap, póttörzslap hiányában a szakképző intézményben meglévő nyilvántartások alapján kérelemre pótbizonyítvány állítható ki. A pótbizonyítvány azt tanúsítja, hogy a tanuló melyik évfolyamot mikor végezte el. Ha a kiállítás alapjául szolgáló valamennyi nyilvántartás megsemmisült, a pótbizonyítványban csak azt kell feltüntetni, hogy az abban megjelölt személy a szakképző intézmény tanulója volt. Ilyen tartamú pótbizonyítvány akkor állítható ki, ha a volt tanuló írásban nyilatkozik arról, hogy a megjelölt tanévben a szakképző intézmény melyik évfolyamán tanult, és nyilatkozatához csatolja volt oktatójának vagy két évfolyamtársának igazolását. Az oktató nyilatkozata akkor fogadható el, ha a jelzett időszakban a szakképző intézményben tanított. A volt évfolyamtársaknak be kell mutatniuk bizonyítványukat.
+
+(7)[^66] Az (1)–(6) bekezdést felnőttképzési jogviszonyban szervezett szakmai oktatás tekintetében azzal az eltéréssel kell alkalmazni, hogy
+
+a) tanuló alatt a képzésben részt vevő személyt, évfolyam alatt a tananyagegységek lezárásaként a szakmai programban előzetesen meghatározott időszakot, osztályfőnök alatt a szakmai oktatás, illetve a szakmai képzés lebonyolításáért felelős oktatót, évfolyamtárs alatt ugyanazon szakmai oktatást, illetve szakmai képzést a tanulóval egy időben elvégző, más, képzésben részt vevő személyt kell érteni,
+
+b) a bizonyítványt a tananyagegységek lezárásaként előzetesen meghatározott időszakonként kell kiállítani,
+
+c) a bizonyítványban nem kell feltüntetni a (3) bekezdés b), e) és f) pontja szerinti adatot.
+
+[^59]: A 26. § (1) bekezdése a 292/2023. (VII. 6.) Korm. rendelet 48. § 4. pontja szerint módosított szöveg.
+[^60]: A 26. § (3) bekezdés c) pontja a 292/2023. (VII. 6.) Korm. rendelet 48. § 5. pontja szerint módosított szöveg.
+[^61]: A 26. § (3) bekezdés d) pontja a 292/2023. (VII. 6.) Korm. rendelet 48. § 6. pontja szerint módosított szöveg.
+[^62]: A 26. § (3) bekezdés f) pontja a 292/2023. (VII. 6.) Korm. rendelet 48. § 7. pontja szerint módosított szöveg.
+[^63]: A 26. § (3) bekezdés g) pontja a 292/2023. (VII. 6.) Korm. rendelet 48. § 8. pontja szerint módosított szöveg.
+[^64]: A 26. § (5) bekezdése a 292/2023. (VII. 6.) Korm. rendelet 48. § 9. pontja szerint módosított szöveg.
+[^65]: A 26. § (6) bekezdése a 292/2023. (VII. 6.) Korm. rendelet 48. § 10. pontja szerint módosított szöveg.
+[^66]: A 26. § (7) bekezdését a 292/2023. (VII. 6.) Korm. rendelet 8. §-a iktatta be.

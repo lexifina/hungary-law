@@ -48,4 +48,6 @@ ki kell kérni.
 
 (7) A diákközgyűlés összehívását a diákönkormányzat vezetője kezdeményezi, a tanév helyi rendjében meghatározottak szerint. A diákközgyűlés napirendi pontjait a közgyűlés megrendezése előtt tizenöt nappal nyilvánosságra kell hozni.
 
-(8) A diákönkormányzatok jogosultak szövetséget létesíteni, továbbá ilyenhez csatlakozni. A szövetség a szakképző intézményben a diákönkormányzat jogait nem gyakorolhatja.
+(8)[^284] A diákönkormányzat jogosult más diákönkormányzattal szövetséget létesíteni, továbbá ilyenhez csatlakozni. A szövetség a szakképző intézményben a diákönkormányzat jogait nem gyakorolhatja.
+
+[^284]: A 216. § (8) bekezdése a 292/2023. (VII. 6.) Korm. rendelet 47. § 51. pontja szerint módosított szöveg.

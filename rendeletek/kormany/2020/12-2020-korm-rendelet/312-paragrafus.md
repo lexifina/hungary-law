@@ -1,6 +1,6 @@
-312. § (1)[^257] Az ágazati készségtanács taglétszáma – ideértve az elnököt – legalább nyolc, legfeljebb huszonnégy fő, amelyből
+312. § (1)[^385] Az ágazati készségtanács taglétszáma – ideértve az elnököt – legalább nyolc, legfeljebb huszonnégy fő, amelyből
 
-a) összesen legfeljebb négy főt a Kormány adott ágazatért felelős tagja,
+a)[^386] egy főt a szakképzésért felelős miniszter és összesen legfeljebb három főt a Kormány adott ágazatért felelős tagja,
 
 b) összesen egy főt a szakmai kamarák,
 
@@ -12,4 +12,5 @@ javaslatára a szakképzésért felelős miniszter kér fel. A megbízás időta
 
 (2) Az ágazati készségtanács elnökét a szakképzésért felelős miniszter kéri fel, megbízatása két évre szól, amely egy alkalommal meghosszabbítható.
 
-[^257]: A 312. § (1) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 47. §-ával megállapított szöveg.
+[^385]: A 312. § (1) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 47. §-ával megállapított szöveg.
+[^386]: A 312. § (1) bekezdés a) pontja a 292/2023. (VII. 6.) Korm. rendelet 47. § 69. pontja szerint módosított szöveg.

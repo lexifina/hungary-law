@@ -1,4 +1,12 @@
-107. § (1) A technikumban az érettségi vizsga megkezdésének feltétele legalább ötven óra közösségi szolgálat teljesítése.
+107. § (1)[^184] A technikumban a tanulmányok elvégzését közvetlenül követő érettségi vizsgaidőszakban az érettségi vizsgák megkezdésének feltétele ötven óra közösségi szolgálat elvégzésének igazolása, kivéve
+
+a) a képzésben részt vevő személynek,
+
+b) annak a sajátos nevelési igényű tanulónak, akit a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.) szerinti szakértői bizottság javaslata alapján a közösségi szolgálat alól az igazgató határozatban mentesített és
+
+c) a fogvatartottnak.
+
+(1a)[^185] Ha a tanuló a tanulmányok elvégzését közvetlenül követő érettségi vizsgaidőszakban az írásbeli érettségi vizsgaidőszak kezdetéig nem tett eleget az (1) bekezdésben meghatározott feltételnek, érettségi vizsgáit nem kezdheti meg, az adott vizsgaidőszakra vonatkozó összes érettségi jelentkezését az igazgató törli.
 
 (2) A szakképző intézmény feladata és az igazgató felelőssége a tanuló választása alapján a közösségi szolgálat megszervezése és annak teljesítésére időkeret biztosítása. Az osztályfőnök vagy az ezzel a feladattal megbízott oktató a tanuló előmenetelét rögzítő dokumentumokban az iratkezelési szabályok megtartásával nyilvántartja és folyamatosan vezeti a közösségi szolgálattal összefüggő egyéni vagy csoportos tevékenységet.
 
@@ -39,3 +47,6 @@ c) a szakképző intézmény a közösségi szolgálat teljesítéséről a tanu
 d) a szakképző intézmény a közösségi szolgálattal kapcsolatos dokumentumok kezelését az iratkezelési szabályzatában rögzíti,
 
 e) a szakképző intézményen kívüli külső szervezet és közreműködő mentor bevonásakor a szakképző intézmény és a felek együttműködéséről megállapodást kell kötni, amelynek tartalmaznia kell a megállapodást aláíró felek adatain és vállalt kötelezettségein túl a foglalkoztatás időtartamát, a végzett tevékenységeket, a mentor nevét és feladatkörét.
+
+[^184]: A 107. § (1) bekezdése a 292/2023. (VII. 6.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^185]: A 107. § (1a) bekezdését a 292/2023. (VII. 6.) Korm. rendelet 18. § (2) bekezdése iktatta be.

@@ -4,4 +4,6 @@
 
 (2) A szakképzési államigazgatási szerv az általa őrzött vizsgatörzslapokat ötven év után átadja az illetékes levéltárnak, és az átadott vizsgatörzslapok központi nyilvántartási adatait törli.
 
-(3) A szakképzési államigazgatási szerv az elveszett, ellopott, megrongálódott vagy megsemmisült bizonyítványról bizonyítványmásodlatot állít ki kérelemre. A jogutód nélkül megszűnt akkreditált vizsgaközpont esetében a szakképzési államigazgatási szerv kérelemre kiállítja az Europass bizonyítvány-kiegészítőt.
+(3)[^371]
+
+[^371]: A 300. § (3) bekezdését a 292/2023. (VII. 6.) Korm. rendelet 48. § 58. pontja hatályon kívül helyezte.

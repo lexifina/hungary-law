@@ -1,29 +1,33 @@
-171. § (1)[^150] Az Szkt. 59. § (1) bekezdés a) pont aa) alpontja szerinti ösztöndíj havonkénti összege
+171. § (1)[^232] Az Szkt. 59. § (1) bekezdés a) pont aa) alpontja szerinti ösztöndíj havonkénti összege
 
-a)[^151] a technikumban folyó ágazati alapoktatásban az ösztöndíj alapjának nyolc százaléka, a szakképző iskolában folyó ágazati alapoktatásban az ösztöndíj alapjának tizenhat százaléka,
+a)[^233] a technikumban folyó ágazati alapoktatásban az ösztöndíj alapjának nyolc százaléka, a szakképző iskolában folyó ágazati alapoktatásban az ösztöndíj alapjának tizenhat százaléka,
 
 b) a szakképző intézményben folyó szakirányú oktatásban az ösztöndíj alapjának
 
-ba)[^152] nyolc százaléka, ha a megelőző tanév év végi minősítésében kapott osztályzatok átlaga 2,00–2,99 között van,
+ba)[^234] nyolc százaléka, ha a megelőző tanév év végi minősítésében kapott osztályzatok átlaga 2,00–2,99 között van,
 
-bb)[^153] huszonöt százaléka, ha a megelőző tanév év végi minősítésében kapott osztályzatok átlaga 3,00–3,99 között van,
+bb)[^235] huszonöt százaléka, ha a megelőző tanév év végi minősítésében kapott osztályzatok átlaga 3,00–3,99 között van,
 
-bc)[^154] negyvenkettő százaléka, ha a megelőző tanév év végi minősítésében kapott osztályzatok átlaga 4,00–4,49 között van,
+bc)[^236] negyvenkettő százaléka, ha a megelőző tanév év végi minősítésében kapott osztályzatok átlaga 4,00–4,49 között van,
 
-bd)[^155] ötvenkilenc százaléka, ha a megelőző tanév év végi minősítésében kapott osztályzatok átlaga 4,49 fölött van.
+bd)[^237] ötvenkilenc százaléka, ha a megelőző tanév év végi minősítésében kapott osztályzatok átlaga 4,49 fölött van.
 
-(1a)[^156] Az ösztöndíj havonkénti összege az ösztöndíj alapjának tizenhat százaléka, ha a tanuló nem rendelkezik a szakképzés keretében fennálló tanulói jogviszonyából a megelőző tanévre vonatkozóan figyelembe vehető év végi minősítéssel.
+(1a)[^238] Az ösztöndíj havonkénti összege az ösztöndíj alapjának tizenhat százaléka, ha a tanuló nem rendelkezik a szakképzés keretében fennálló tanulói jogviszonyából a megelőző tanévre vonatkozóan figyelembe vehető év végi minősítéssel.
 
-(2)[^157] Az előkészítő évfolyamon járó ösztöndíj havonkénti összege az ösztöndíj alapjának nyolc százaléka.
+(2)[^239] Az előkészítő évfolyamon járó ösztöndíj havonkénti összege
 
-(3)[^158] Az ösztöndíjra – a szakirányú oktatásban szakképzési munkaszerződéssel részt vevő tanuló kivételével – az első szakma megszerzéséhez kapcsolódóan az adott szakmára vonatkozóan a szakmai oktatásnak a szakmajegyzékben meghatározott időtartamáig a szakképző intézmény nappali rendszerű olyan szakmai oktatásában tanulói jogviszonyban részt vevő tanuló jogosult, amelyre jogszabály alapján ingyenes részvételre jogosult. A megismételt évfolyamon nem részesülhet ösztöndíjban a tanuló, ha évfolyamismétlésre kötelezték. Az adott tanév hátralévő részében nem részesülhet ösztöndíjban a tanuló, ha az igazolatlan mulasztása eléri a hat foglalkozást. E bekezdést kell alkalmazni az előkészítő évfolyam és a műhelyiskola tanulójára is.
+a) az Szkt. 19. § (4) bekezdés a) pontja és b) pont ba) alpontja szerinti előkészítő évfolyam esetében az ösztöndíj alapjának nyolc százaléka,
 
-[^150]: A 171. § (1) bekezdés nyitó szövegrésze a 800/2021. (XII. 28.) Korm. rendelet 13. § 2. pontja szerint módosított szöveg.
-[^151]: A 171. § (1) bekezdés a) pontja a 800/2021. (XII. 28.) Korm. rendelet 13. § 3. pontja szerint módosított szöveg.
-[^152]: A 171. § (1) bekezdés b) pont ba) alpontja a 800/2021. (XII. 28.) Korm. rendelet 13. § 4. pontja szerint módosított szöveg.
-[^153]: A 171. § (1) bekezdés b) pont bb) alpontja a 800/2021. (XII. 28.) Korm. rendelet 13. § 5. pontja szerint módosított szöveg.
-[^154]: A 171. § (1) bekezdés b) pont bc) alpontja a 800/2021. (XII. 28.) Korm. rendelet 13. § 6. pontja szerint módosított szöveg.
-[^155]: A 171. § (1) bekezdés b) pont bd) alpontja a 800/2021. (XII. 28.) Korm. rendelet 13. § 7. pontja szerint módosított szöveg.
-[^156]: A 171. § (1a) bekezdését a 95/2021. (II. 27.) Korm. rendelet 13. §-a iktatta be, szövege a 800/2021. (XII. 28.) Korm. rendelet 13. § 8. pontja szerint módosított szöveg.
-[^157]: A 171. § (2) bekezdése a 800/2021. (XII. 28.) Korm. rendelet 13. § 9. pontja szerint módosított szöveg.
-[^158]: A 171. § (3) bekezdése a 95/2021. (II. 27.) Korm. rendelet 17. § d) pontja, a 380/2021. (VI. 30.) Korm. rendelet 58. § 44. pontja, a 800/2021. (XII. 28.) Korm. rendelet 13. § 10. pontja szerint módosított szöveg.
+b) az Szkt. 19. § (4) bekezdés b) pont bb) alpontja szerinti előkészítő évfolyam esetében az ösztöndíj alapjának tizenhat százaléka.
+
+(3)[^240] A tanuló az ösztöndíjra – a szakirányú oktatásban szakképzési munkaszerződéssel részt vevő tanuló kivételével – az első szakma megszerzéséhez kapcsolódóan az olyan szakmai oktatásban jogosult, amelyben ingyenesen vesz részt. Az ösztöndíjra való jogosultság annak a tanítási évnek a tanév szakképzésben alkalmazandó rendjéről szóló miniszteri rendeletben meghatározott utolsó tanítási napjáig áll fenn, amelyben a tanuló a szakirányú oktatást közvetlenül követő első szakmai vizsgáját megkezdi. A megismételt évfolyamon nem részesülhet ösztöndíjban a tanuló, ha évfolyamismétlésre kötelezték. Az adott tanév hátralévő részében nem részesülhet ösztöndíjban a tanuló, ha az igazolatlan mulasztása eléri a hat foglalkozást vagy a tanuló szakképzési munkaszerződése a duális képzőhely általi azonnali hatályú felmondás alapján szűnik meg, kivéve, ha bíróság a munkaviszonyt a tanuló kérelmére helyreállítja. E bekezdés rendelkezéseit kell alkalmazni az előkészítő évfolyam és a műhelyiskola tanulójára is.
+
+[^232]: A 171. § (1) bekezdés nyitó szövegrésze a 800/2021. (XII. 28.) Korm. rendelet 13. § 2. pontja szerint módosított szöveg.
+[^233]: A 171. § (1) bekezdés a) pontja a 800/2021. (XII. 28.) Korm. rendelet 13. § 3. pontja szerint módosított szöveg.
+[^234]: A 171. § (1) bekezdés b) pont ba) alpontja a 800/2021. (XII. 28.) Korm. rendelet 13. § 4. pontja szerint módosított szöveg.
+[^235]: A 171. § (1) bekezdés b) pont bb) alpontja a 800/2021. (XII. 28.) Korm. rendelet 13. § 5. pontja szerint módosított szöveg.
+[^236]: A 171. § (1) bekezdés b) pont bc) alpontja a 800/2021. (XII. 28.) Korm. rendelet 13. § 6. pontja szerint módosított szöveg.
+[^237]: A 171. § (1) bekezdés b) pont bd) alpontja a 800/2021. (XII. 28.) Korm. rendelet 13. § 7. pontja szerint módosított szöveg.
+[^238]: A 171. § (1a) bekezdését a 95/2021. (II. 27.) Korm. rendelet 13. §-a iktatta be, szövege a 800/2021. (XII. 28.) Korm. rendelet 13. § 8. pontja szerint módosított szöveg.
+[^239]: A 171. § (2) bekezdése a 292/2023. (VII. 6.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^240]: A 171. § (3) bekezdése a 292/2023. (VII. 6.) Korm. rendelet 23. §-ával megállapított szöveg.

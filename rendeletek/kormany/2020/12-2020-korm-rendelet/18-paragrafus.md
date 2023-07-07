@@ -1,3 +1,3 @@
-18. §[^34]
+18. §[^45]
 
-[^34]: A 18. §-t a 631/2022. (XII. 30.) Korm. rendelet 10. § b) pontja hatályon kívül helyezte.
+[^45]: A 18. §-t a 631/2022. (XII. 30.) Korm. rendelet 10. § b) pontja hatályon kívül helyezte.

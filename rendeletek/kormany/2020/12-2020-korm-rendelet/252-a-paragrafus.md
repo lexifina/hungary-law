@@ -1,3 +1,3 @@
-252/A. §[^210] A duális képzőhely a heti pihenőnapokon és a munkaszüneti napokon, valamint az őszi, a téli és a tavaszi szünet időtartama alatt a tanulót, illetve a képzésben részt vevő személyt szakirányú oktatásra csak a rendeltetése folytán e napon is működő szakirányú oktatási helyen veheti igénybe. Az igénybe vett idő helyett – a mulasztás pótlásának esetét kivéve, lehetőleg a következő szakirányú oktatási napon – ugyanolyan mértékben kell szabadidőt biztosítani.
+252/A. §[^318]
 
-[^210]: A 252/A. §-t a 380/2021. (VI. 30.) Korm. rendelet 37. §-a iktatta be.
+[^318]: A 252/A. §-t a 380/2021. (VI. 30.) Korm. rendelet 37. §-a iktatta be, a 292/2023. (VII. 6.) Korm. rendelet 48. § 51. pontja hatályon kívül helyezte.

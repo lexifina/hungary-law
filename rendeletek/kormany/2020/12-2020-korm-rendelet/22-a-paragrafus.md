@@ -1,4 +1,4 @@
-22/A. §[^39] (1) A 22. § (1) bekezdés a) pont ab) alpontja szerinti vagyoni biztosíték formája lehet
+22/A. §[^50] (1) A 22. § (1) bekezdés a) pont ab) alpontja szerinti vagyoni biztosíték formája lehet
 
 a) egy vagy több biztosítóval kötött biztosítási szerződés,
 
@@ -8,7 +8,7 @@ b) az akkreditált vizsgaközpont által hitelintézetnél lekötött és az (1)
 
 (3) A vagyoni biztosíték szolgáltatására kötött szerződésnek tartalmaznia kell azt a kikötést, hogy a vagyoni biztosíték felhasználásához vagy megszüntetéséhez a szakképzési államigazgatási szerv jóváhagyása szükséges, és a vagyoni biztosíték terhére teljesített kifizetés teljesítési időpontját a biztosító vagy hitelintézet – a kifizetést követő tizenöt napon belül – írásban közli a szakképzési államigazgatási szervvel.
 
-(4)[^40]
+(4)[^51]
 
-[^39]: A 22/A. §-t a 800/2021. (XII. 28.) Korm. rendelet 4. §-a iktatta be.
-[^40]: A 22/A. § (4) bekezdését a 12/2022. (I. 14.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^50]: A 22/A. §-t a 800/2021. (XII. 28.) Korm. rendelet 4. §-a iktatta be.
+[^51]: A 22/A. § (4) bekezdését a 12/2022. (I. 14.) Korm. rendelet 3. §-a hatályon kívül helyezte.
