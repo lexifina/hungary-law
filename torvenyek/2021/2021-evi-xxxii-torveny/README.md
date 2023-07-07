@@ -27,3 +27,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-32-00-00
 | 2023-03-01 | 2022. évi LXIV. törvény | 2021-32-00-00.20 |
 | 2023-05-23 | 2023. évi XXIII. törvény | 2021-32-00-00.22 |
 | 2023-06-30 | Nemzeti Jogszabálytár (egységes szerkezet) | 2021-32-00-00.25 |
+| 2023-07-07 | 2023. évi LIII. törvény | 2021-32-00-00.26 |
