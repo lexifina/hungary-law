@@ -24,13 +24,7 @@ j) a 6/B. § (3) bekezdése szerinti, jogszabály által kijelölt, a hitelinté
 
 [az a)–j) pont a továbbiakban együtt: kincstári körön kívüli számlatulajdonosok].”
 
-(2) Az államháztartásról szóló 2011. évi CXCV. törvény 79. § (2) bekezdése a következő k) ponttal egészül ki:
-
-[A kincstárban fizetési számlát kötelesek vezetni]
-
-## „k) Nemzeti Útdíjfizetési Szolgáltató Zártkörűen Működő Részvénytársaság
-
-## [az a)–k) pont a továbbiakban együtt: kincstári körön kívüli számlatulajdonosok].”
+(2)
 
 (3) Az államháztartásról szóló 2011. évi CXCV. törvény 79. § (3) bekezdése helyébe a következő rendelkezés lép:
 

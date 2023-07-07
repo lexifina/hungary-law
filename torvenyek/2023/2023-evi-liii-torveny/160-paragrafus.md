@@ -19,17 +19,3 @@
 8. 144. §-a és 145. §-a az Alaptörvény 23. cikke, és
 
 9. 149. §-a az Alaptörvény XXXI. cikk (3)–(6) bekezdése és 45. cikk (5) bekezdése
-
-## alapján sarkalatosnak minősül.
-
-|
-
-Novák Katalin s. k.,
-
-köztársasági elnök
-
-|
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

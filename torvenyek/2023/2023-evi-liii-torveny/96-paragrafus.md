@@ -1,5 +1,3 @@
-## lép.
-
 ## 27. A honvédek jogállásáról szóló 2012. évi CCV. törvény módosítása
 
 96. § A honvédek jogállásáról szóló 2012. évi CCV. törvény a 8. §-át követően a következő 7/A. alcímmel egészül ki:

@@ -1,5 +1,3 @@
-## lép.
-
 ## 25. Az Országgyűlésről szóló 2012. évi XXXVI. törvény módosítása
 
 94. § Az Országgyűlésről szóló 2012. évi XXXVI. törvény 111. §-a a következő (3a) bekezdéssel egészül ki:

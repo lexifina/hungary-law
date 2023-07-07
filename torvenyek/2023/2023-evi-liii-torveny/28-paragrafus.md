@@ -6,13 +6,13 @@
 
 3. 44/D. § (3) bekezdésében a „39. §” szövegrész helyébe a „46. § (3) bekezdés a) pontjában foglaltak vagy a 39. §” szöveg,
 
-4. 79. § (8) bekezdésében a „fizet” szövegrész helyébe a „fizet, ha a késedelmi kamat összege meghaladja az 1000 forintot” szöveg,
+4.
 
-5. 80. § (1b) bekezdésében az „a késedelmi kamatot” szövegrész helyébe az „az 1000 forintot meghaladó összegű késedelmi kamatot” szöveg,
+5.
 
-6. 80. § (4) bekezdésében a „kötelezi” szövegrész helyébe a „kötelezi, ha a késedelmi kamat összege meghaladja az 1000 forintot” szöveg,
+6.
 
-7. 83/C. § (1) bekezdésében az „Az öregségi” szövegrész helyébe az „A Kormány rendeletében – a közfeladat-ellátás biztosítása érdekében – meghatározott kivétellel az öregségi” szöveg,
+7.
 
 8. 91. § (2) bekezdésében az „az ügyben eljárt nyugdíjbiztosítási igazgatási szervhez” szövegrész helyébe az „a Nyugdíjbiztosítási Alapnak” szöveg,
 
