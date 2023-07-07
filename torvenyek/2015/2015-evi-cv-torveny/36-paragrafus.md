@@ -32,4 +32,6 @@ nincs helye.
 
 (8) A bírósági adósságrendezési eljárásban a Pp. szerinti költségkedvezmények engedélyezésének nincs helye.
 
+(8a) A bírósági adósságrendezési eljárásban a bíróság az e törvény felhatalmazása alapján kiadott kormányrendeletekben meghatározott felső összeghatárok, illetve értékhatárok változására tekintettel az adós által benyújtott kérelem tárgyában hozott végzésben a korábban, az adósságrendezési egyezség, illetve az adósságtörlesztési terv tárgyában hozott, és még jogerőre nem emelkedett végzését hatályon kívül helyezheti.
+
 (9) Amennyiben bíróságon kívüli adósságrendezési eljárásra főhitelező hiányában nem került sor, a családi vagyonfelügyelő elvégzi a 23–25. § szerinti adatellenőrzéseket és vizsgálatokat és ennek eredményéről az eljáró bíróságot és a feleket értesíti.
