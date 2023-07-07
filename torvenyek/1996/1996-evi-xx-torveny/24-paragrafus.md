@@ -27,3 +27,5 @@ l) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve
 m) a családtámogatások, a fogyatékossági támogatás és a bányászati keresetkiegészítés ügyében eljáró szerv, valamint a családtámogatási kifizetőhely a 23. § i) és n) pontjában meghatározott feladatainak teljesítéséhez;
 
 n) az oktatási nyilvántartás működéséért felelős szerv a tanulói, illetve a hallgatói jogviszonyhoz kapcsolódó juttatás jogszerű igénybevételének megállapítása céljából a szolgáltatást nyújtó vagy az igénybevétel jogosságának ellenőrzésére hivatott szerv vagy személy részére.
+
+o) a nyugdíjbiztosítási igazgatási szervek, valamint a szociális, gyermekvédelmi és gyámügyi igazgatás szervei egymás között a szociális és gyermekvédelmi ellátások megállapítása, folyósítása és ellenőrzése érdekében.
