@@ -1,4 +1,4 @@
-55. § (1) Az MNB eljárása során az Ákr. 134., 136. és 137. §-át, valamint a 138. § (2) és (3) bekezdését
+55. § (1) Az MNB eljárása során az Ákr. 132–134., 136. és 137. §-át, valamint a 138. § (2) és (3) bekezdését
 
 a) az MNB részére fizetendő, jogszabályban meghatározott díj,
 
