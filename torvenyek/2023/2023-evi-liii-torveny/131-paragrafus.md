@@ -1,0 +1,1 @@
+131. § A honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvény 44/A. § (1) bekezdésében a „Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ)” szövegrész helyébe a „KNBSZ” szöveg lép.

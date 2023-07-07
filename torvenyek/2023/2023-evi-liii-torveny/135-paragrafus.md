@@ -1,0 +1,9 @@
+135. § Az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény 15/A. §-a helyébe a következő rendelkezés lép:
+
+„15/A. § [Az egységes intézeti gyógyszertári szolgáltatás keretében működtetett gyógyszertár főgyógyszerészének, szakgyógyszerészének és gyógyszerészének, szakdolgozójának egészségügyi szolgálati jogviszonya]
+
+(1) Az egységes intézeti gyógyszertári szolgáltatás keretében működtetett gyógyszertárat vezető főgyógyszerész (a továbbiakban: főgyógyszerész) egészségügyi szolgálati jogviszonya, valamint az egységes intézeti gyógyszertári szolgáltatás keretében működtetett gyógyszertár szakgyógyszerészének, gyógyszerészének, szakdolgozójának egészségügyi szolgálati jogviszonya tekintetében a munkáltatói jogkört az állami fenntartású fekvőbeteg-ellátást végző intézmény munkáltatói jogkör gyakorlója (a továbbiakban: állami munkáltatói jogkör gyakorló) és az egységes intézeti gyógyszertári szolgáltatás keretében működtetett gyógyszertárat működtető jogi személy vezetője (a továbbiakban: szerződéses munkáltató jogkör gyakorló) az e §-ban foglaltak szerint gyakorolja.
+
+(2) Az egységes intézeti gyógyszertári szolgáltatás keretében történő működtetés tekintetében, az ezen feladatokhoz kapcsolódó munkáltatói utasítási jogokat az állami munkáltatói jogkör gyakorlója és a szerződéses munkáltatói jogkör gyakorlója – a Kormány rendeletében meghatározottak szerint – együttesen gyakorolja.
+
+(3) A (2) bekezdésben foglaltakon túlmenően a munkáltatói jogkört az állami munkáltatói jogkört gyakorló gyakorolja.”
