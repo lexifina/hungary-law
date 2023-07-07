@@ -104,6 +104,8 @@ a) amely nem tartozik a következő kategóriák egyikébe sem: cigaretta, cigar
 
 b) amelyet 2014. május 19-e után hoznak forgalomba.
 
+30.[^10] hevített dohánytermék: olyan, az új dohánytermék-kategóriába tartozó termék, amelyet nikotin és más vegyi anyagok kibocsátása céljával hevítenek, amely kibocsátást a felhasználó belélegzi.
+
 [^2]: A 2. § a 239/2016. (VIII. 16.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^3]: A 2. § 1. pontja a 419/2016. (XII. 14.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
 [^4]: A 2. § 3a. pontját a 421/2016. (XII. 14.) Korm. rendelet 1. §-a iktatta be.
@@ -112,3 +114,4 @@ b) amelyet 2014. május 19-e után hoznak forgalomba.
 [^7]: A 2. § 13. pontja a 419/2016. (XII. 14.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
 [^8]: A 2. § 22. pontja a 419/2016. (XII. 14.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
 [^9]: A 2. § 27. pontja a 419/2016. (XII. 14.) Korm. rendelet 8. § (4) bekezdésével megállapított szöveg.
+[^10]: A 2. § 30. pontját a 295/2023. (VII. 6.) Korm. rendelet 1. §-a iktatta be.
