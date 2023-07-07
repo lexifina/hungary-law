@@ -8,6 +8,8 @@
 
 (2) A KSH székhelye Budapest.
 
+(2a) A KSH a feladatainak ellátásához kapcsolódóan a vármegyékben irodákat működtethet.
+
 (3) A jogszabályok és a közjogi szervezetszabályozó eszközök nem sérthetik a KSH szakmai függetlenségét.
 
 (4) A kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 263. § (2) bekezdésében foglaltakat a KSH vonatkozásában nem kell alkalmazni.

@@ -14,7 +14,7 @@ a) magyar állampolgár,
 
 b) felsőfokú végzettséggel rendelkezik,
 
-c) a közigazgatásban vagy a statisztikai tudomány területén legalább öt év vezetői gyakorlatot szerzett.
+c) a Hivatalos Statisztikai Szolgálatban, az Európai Statisztikai Rendszerben, a közigazgatásban vagy a statisztikai tudomány területén legalább öt év szakmai gyakorlatot szerzett.
 
 (3) Nem nevezhető ki a KSH elnökének, illetve elnökhelyettesének büntetett előéletű, valamint olyan személy, aki a kinevezést megelőző négy évben országgyűlési vagy európai parlamenti képviselő, a Kormány tagja, a miniszterelnök politikai igazgatója, államtitkár, köztársasági elnök, fővárosi és vármegyei kormányhivatalt vezető főispán, helyi önkormányzati képviselő, polgármester, alpolgármester, főpolgármester, főpolgármester-helyettes, vármegyei közgyűlés elnöke vagy alelnök, illetve nemzetiségi önkormányzat tagja vagy párt tisztségviselője volt.
 
