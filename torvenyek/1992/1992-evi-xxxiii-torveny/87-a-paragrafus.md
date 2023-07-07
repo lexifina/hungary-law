@@ -26,6 +26,8 @@ l) a kormányzati igazgatásról szóló törvény hatálya alá tartozó munká
 
 m) a 25/D. § szerint a két jogviszony között
 
+n) az egészségügyi szolgálati jogviszonyban
+
 töltött időt.
 
 (2) Ha jogszabály, kormányhatározat vagy a bíróság jogerős ítélete alapján megállapítható, hogy a munkaviszony megszüntetésére a közalkalmazott politikai vagy vallási meggyőződése, továbbá munkavállalói érdekképviseleti szervezethez való tartozása, illetve ezzel összefüggő tevékenysége miatt került sor, a munkaviszony megszüntetésétől 1990. május 2-áig a munkaviszonyban nem töltött időtartamot az (1) bekezdésben foglaltakon túlmenően a közalkalmazotti jogviszonyban töltött időbe be kell számítani.
@@ -45,3 +47,5 @@ eltöltött időt.
 (4) A (3) bekezdéstől eltérően a közalkalmazotti jogviszonyban töltött idő számításakor figyelmen kívül kell hagyni a sor- vagy tartalékos katonai szolgálatnak, illetve a polgári szolgálatnak azt a tartamát, amely e § rendelkezése szerint egyébként közalkalmazotti jogviszonyban töltött időnek minősül.
 
 (5) Ha a közalkalmazotti jogviszony megállapításakor azonos időtartamra több jogviszony vehető figyelembe, közülük erre az időre csak egy jogviszony számítható be.
+
+(6) A 37. § (5) bekezdés a) pontjától eltérően azon egészségügyi szolgálati jogviszonyban álló személy esetén, akinek az egészségügyi szolgálati jogviszonya azért kerül megszüntetésre, mert jogszabály alapján az őt foglalkoztató egészségügyi szolgáltató egyes ingatlanüzemeltetési feladatait a Kormány rendeletében kijelölt központi logisztikai szerv veszi át, majd egészségügyi szolgálati jogviszonya megszüntetését követő 180 napon belül a Kormány rendeletében kijelölt központi logisztikai szervvel közalkalmazotti jogviszonyt létesít, a végkielégítésre jogosító időt az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény 22. § (2) bekezdése szerinti esetben az ott meghatározott időtartammal csökkentett mértékben kell figyelembe venni.
