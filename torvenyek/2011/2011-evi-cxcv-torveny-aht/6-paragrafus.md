@@ -62,4 +62,6 @@ bc) az állam nevében a többségi állami tulajdonú gazdasági társaságnak 
 
 bd) a 78. § (4) bekezdése szerinti megelőlegezések és azok visszatérítése.
 
+be) az állam által a kormányzati szektorba sorolt egyéb szervezetnek a Gst. 9/A. §-a alapján nyújtott kölcsön és annak visszatérülése.
+
 (8) A kiemelt előirányzatokat és a finanszírozási bevételeket és kiadásokat a Kormány rendeletében meghatározott részletes közgazdasági jogcímekre (a továbbiakban: rovat) kell bontani. A rovatok egységes rovatrendet képeznek.

@@ -1,6 +1,6 @@
 56/C. § (1) A támogató vagy a támogató nevében eljáró szervezet a monitoringrendszerbe történő adatátadással gondoskodik
 
-a) a támogatási igényhez kapcsolódóan a támogatási igény benyújtója nevére, a támogatási igény céljára és az igényelt támogatás mértékére, a pályázati úton biztosított támogatás esetében a pályázati kiírás tárgyára,
+a) a támogatási igényhez kapcsolódóan a támogatási igény benyújtója nevére, a támogatás felhasználási helyének címére, a támogatási igény céljára és az igényelt támogatás mértékére, a pályázati úton biztosított támogatás esetében a pályázati kiírás tárgyára,
 
 b) a támogatási döntéshez kapcsolódóan a döntéshozó személy, testület esetén a testület megnevezésére, tagjainak nevére és a támogatás megállapított mértékére,
 
@@ -10,6 +10,8 @@ vonatkozó adatoknak az e célra rendszeresített honlapon való közzétételé
 
 (2) Az (1) bekezdésben foglaltakat törvény, kormányrendelet vagy a Kormány egyedi határozata alapján nyújtott támogatás esetén is alkalmazni kell, azzal, hogy a támogatási igény benyújtóján a törvény, kormányrendelet vagy a Kormány egyedi határozata alapján támogatásra jogosult személyt, a támogatási igény célján a törvény, kormányrendelet vagy a Kormány egyedi határozata alapján nyújtott támogatás célját kell érteni.
 
-(3) A monitoringrendszerben kezelt adatok a támogatási döntés naptári évének utolsó napjától számított öt év elteltével törölhetők.
+(3) A monitoringrendszerben kezelt adatok a támogatási döntés naptári évének utolsó napjától számított tíz év elteltével törölhetők.
 
 (4) A monitoringrendszerben nyilvántartott adatok kereshetőségét támogatási program, támogatási igény benyújtója, támogatás összege, döntéshozatalra jogosultak szerint és más módon csoportosított lekérdezhetőségét bárki számára, ingyenesen biztosítani kell.
+
+(5) A monitoringrendszerben nyilvántartott adatok hitelességének szavatolása az adatszolgáltatásra kötelezett támogató vagy a támogató nevében eljáró szervezet felelősségi körébe tartozik.

@@ -14,7 +14,9 @@ b) egyéb esetben
 
 ba) a személyi juttatások, a munkaadókat terhelő járulékok és szociális hozzájárulási adó, a dologi kiadások és az ellátottak pénzbeli juttatásainak kiadási előirányzatai terhére azoknak a költségvetési évben jóváhagyott eredeti előirányzatának mértékéig,
 
-bb) az egyéb működési célú kiadások és a felhalmozási kiadások előirányzatai terhére azoknak a költségvetési évben jóváhagyott eredeti előirányzatának ötven százalékáig
+bb) az egyéb működési célú kiadások és a felhalmozási kiadások előirányzatai terhére azoknak a költségvetési évben jóváhagyott eredeti előirányzatának ötven százalékáig,
+
+c) a XIII. Honvédelmi Minisztérium fejezet 1–8. címe és az LI. Honvédelmi Alap fejezet 1–4. címe tekintetében a költségvetési évben jóváhagyott eredeti kiadási előirányzat száz százalékáig
 
 vállalható.
 
@@ -24,7 +26,7 @@ a) alapja a következő évre szóló központi költségvetési törvény kihir
 
 b) a tárgyévet követő évre vonatkozó mértéke a következő évre megállapított kiadási előirányzat mértékének legfeljebb száz százaléka.
 
-(4b) A (4) bekezdés b) pontja és a (4a) bekezdés szerinti, ötmilliárd forintot elérő vagy azt meghaladó értékű kötelezettségvállalás megtételéhez a Kormány előzetes jóváhagyása szükséges.
+(4b) A (4) bekezdés b) és c) pontja, valamint a (4a) bekezdés szerinti, ötmilliárd forintot elérő vagy azt meghaladó értékű kötelezettségvállalás megtételéhez a Kormány előzetes jóváhagyása szükséges.
 
 (4c) A Kormány egyedi határozatával, az érintett költségvetési évek szerinti bontásban
 

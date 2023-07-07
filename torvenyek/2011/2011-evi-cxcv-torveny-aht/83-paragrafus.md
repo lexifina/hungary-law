@@ -16,6 +16,6 @@
 
 (6a) Ha a helyi önkormányzat, illetve a nemzetiségi önkormányzat a kötelezettségnek a költségvetési évben legkésőbb december 5-éig nem tesz eleget, a költségvetési év során felfüggesztett támogatások összege az adott költségvetési évben nem folyósítható részére. Az előző évről vagy évekről áthúzódóan felfüggesztett támogatások abban az évben folyósíthatók a helyi önkormányzat, nemzetiségi önkormányzat számára, amelyik évben a kötelezettségét teljesíti.
 
-(6b)
+(6b) Ha a helyi önkormányzatnak a kincstárral szemben a nettó finanszírozásból adódóan tartozása áll fenn, a tartozásnak megfelelő összeget a kincstár beszámítja a 14. § (3) bekezdésébe tartozó fejezetből a helyi önkormányzatnak kifizetendő támogatásokból a központi költségvetés „Önkormányzatok rendkívüli támogatása”, a „Vis maior támogatás” jogcím, valamint a Kormány rendeletében meghatározott jogcímek kivételével.
 
 (7)

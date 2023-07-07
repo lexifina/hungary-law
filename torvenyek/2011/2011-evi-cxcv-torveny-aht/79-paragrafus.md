@@ -14,25 +14,21 @@ d) a Médiaszolgáltatás-támogató és Vagyonkezelő Alap,
 
 e) az MNV Zrt.,
 
-f) a Diákhitel Központ Zrt.,
+f) a Diákhitel Központ Zártkörűen Működő Részvénytársaság,
 
-g) a NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság,
+g) a Maradványvagyon-hasznosító Zártkörűen Működő Részvénytársaság (a továbbiakban: MVH),
 
-h) a Maradványvagyon-hasznosító Zártkörűen Működő Részvénytársaság (a továbbiakban: MVH),
+h) az Országgyűlés által, a Kormány által és a vármegyei önkormányzat által alapított közalapítványok,
 
-i) az Országgyűlés által, a Kormány által és a vármegyei önkormányzat által alapított közalapítványok,
+i) az olyan nonprofit gazdasági társaságok, amelyekben az állam legalább az Nvt. szerinti többségi befolyással rendelkezik,
 
-j) az olyan nonprofit gazdasági társaságok, amelyekben az állam legalább az Nvt. szerinti többségi befolyással rendelkezik,
+j) a 6/B. § (3) bekezdése szerinti, jogszabály által kijelölt, a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerint hitelintézetnek nem minősülő nem költségvetési szervi formában működő kezelő szerv, ide nem értve a Nemzeti Útdíjfizetési Szolgáltató Zártkörűen Működő Részvénytársaság tulajdonosi joggyakorlásával kapcsolatos kiadások alcím kezelő szerveként kijelölt gazdasági társaságot
 
-k) a Nemzeti Üdülési Szolgálat és
-
-l) az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény alapján Beruházási Ügynökségként kijelölt gazdasági társaság
-
-[az a)–l) pont a továbbiakban együtt: kincstári körön kívüli számlatulajdonosok].
+[az a)–j) pont a továbbiakban együtt: kincstári körön kívüli számlatulajdonosok].
 
 (2a) A kincstári körön kívüli számlatulajdonos kérelmére a (2) bekezdésben meghatározott kötelezettség teljesítése alól az államháztartásért felelős miniszter teljeskörűen vagy meghatározott feladatok ellátásához kapcsolódóan felmentést adhat. A felmentés nem terjedhet ki az 51. § (4) bekezdése szerinti előírások alapján kizárólag a kincstárnál vezethető fizetési számlára.
 
-(3) A kincstári körön kívüli számlatulajdonosok – a Médiaszolgáltatás-támogató és Vagyonkezelő Alap, valamint a (2a) bekezdés szerinti felmentéssel rendelkező kincstári körön kívüli számlatulajdonos kivételével – hitelintézetnél forintban vezetett fizetési számlával – az általuk foglalkoztatott személyek lakásépítésének, lakásvásárlásának munkáltatói támogatására szolgáló számla kivételével –, valamint értékpapírszámlával nem rendelkezhetnek, értékpapírt nem vásárolhatnak.
+(3) A kincstári körön kívüli számlatulajdonosok – a Médiaszolgáltatás-támogató és Vagyonkezelő Alap, valamint a (2a) bekezdés szerinti felmentéssel rendelkező kincstári körön kívüli számlatulajdonos kivételével – hitelintézetnél forintban vezetett fizetési számlával – az általuk foglalkoztatott személyek lakásépítésének, lakásvásárlásának munkáltatói támogatására szolgáló számla kivételével –, valamint – a (2a) bekezdés szerinti felmentés ez irányú rendelkezésének hiányában – értékpapírszámlával nem rendelkezhetnek, értékpapírt nem vásárolhatnak.
 
 (3a)
 
@@ -51,6 +47,8 @@ d) ha törvény vagy kormányrendelet meghatározott pénzeszközök kezelését
 e) a közfeladatot ellátó közérdekű vagyonkezelő alapítvány megbízása esetén a közfeladatot ellátó közérdekű vagyonkezelő alapítvány számára, valamint ha a közfeladatot ellátó közérdekű vagyonkezelő alapítvány közfeladatként felsőoktatási tevékenységet végez, megbízása esetén az általa fenntartott felsőoktatási intézménye számára is.
 
 f) a közfeladatot ellátó közérdekű vagyonkezelő alapítvány tulajdonában álló, illetve a közfeladatot ellátó vagyonkezelő alapítvány által fenntartott felsőoktatási intézmény tulajdonában álló nonprofit gazdasági társaság megbízása esetén a közfeladatot ellátó közérdekű vagyonkezelő alapítvány tulajdonában álló, illetve a közfeladatot ellátó vagyonkezelő alapítvány által fenntartott felsőoktatási intézmény tulajdonában álló nonprofit gazdasági társaság számára.
+
+g) az államnak az Nvt. szerinti többségi befolyása alatt álló, kincstári körön kívüli számlatulajdonosnak nem minősülő gazdasági társaság megbízása esetén a gazdasági társaság számára.
 
 (4b) A kincstár a 4/A. § (5) bekezdése szerinti pénzeszközök elkülönítésére letéti és más sajátos elszámolási, lebonyolítási számlákat vezethet.
 

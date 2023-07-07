@@ -1,5 +1,5 @@
 95. § (1) Az Európai Bizottság által az Európai Unió nevében vállalt, hitelviszonyon alapuló fizetési kötelezettségének teljesítéséhez és az Európai Unió tagállamainak közös tulajdonában álló pénzügyi intézmény általi hitel vagy garancia nyújtásához szükséges tagállami fizetési kötelezettség a Kormány egyedi határozata alapján vállalható. A Kormány által meghatározott kötelezettségvállalási cél, mérték, időtartam és egyéb lényeges feltételek figyelembevételével ilyen kötelezettség az Európai Bizottsággal, illetve az Európai Unió tagállamainak közös tulajdonában álló pénzügyi intézménnyel kölcsönösen elfogadott tartalommal és formában vállalható.
 
-(2) Az (1) bekezdés szerinti kötelezettség vállalása és teljesítése során az állam nevében a nemzetközi pénzügyi kapcsolatokért felelős miniszter jár el.
+(2) Az (1) bekezdés szerinti kötelezettség vállalása és teljesítése során az állam nevében az államháztartásért felelős miniszter jár el.
 
 (3) Az (1) bekezdés szerinti kötelezettségből eredően az államot terhelő kifizetés az erre a célra rendelkezésre álló kiadási előirányzat hiányában vagy annak összegét meghaladóan is teljesíthető. E kifizetést a 14. § (4) bekezdés d) pontja szerinti költségvetési fejezetbe kell megtervezni és elszámolni.

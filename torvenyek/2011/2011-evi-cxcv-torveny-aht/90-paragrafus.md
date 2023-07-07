@@ -34,7 +34,7 @@ k) a központi költségvetés fejezet- és címrendjének évközi változásai
 
 (5) A Kormány és az Országgyűlés egyedi határozatának
 
-a) a 33. § (1) és (2) bekezdésében meghatározottak szerint hozott,
+a) a 33. § (1)–(2) bekezdésében meghatározottak szerint hozott,
 
 b) kötelezettségvállalással nem terhelt költségvetési maradvány felhasználására vonatkozó,
 

@@ -4,7 +4,7 @@
 
 ## 21. Általános szabályok
 
-30. § (1) A bevételi előirányzatok és a kiadási előirányzatok módosítása, átcsoportosítása lehet csak az adott költségvetési évben érvényesülő (a továbbiakban: egyszeri) vagy a költségvetési éven túl tartósan érvényesülő (a továbbiakban: tartós).
+30. § (1) A bevételi előirányzatok és a kiadási előirányzatok módosítása, átcsoportosítása lehet csak az adott költségvetési évben érvényesülő (a továbbiakban: egyszeri) vagy a költségvetési éven túl beépülő jelleggel érvényesülő (a továbbiakban: tartós).
 
 (2)
 
