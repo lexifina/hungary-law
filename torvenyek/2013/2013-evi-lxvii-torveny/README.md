@@ -35,3 +35,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-67-00-00
 | 2022-11-01 | 2022. évi VII. törvény | 2013-67-00-00.28 |
 | 2023-01-01 | 2021. évi CXXXVI. törvény | 2013-67-00-00.29 |
 | 2023-06-26 | 2023. évi XL. törvény | 2013-67-00-00.30 |
+| 2023-07-07 | 2023. évi LIII. törvény | 2013-67-00-00.31 |
