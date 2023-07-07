@@ -1,0 +1,1 @@
+14. § Az R1. 11. § 8. pontjában az „a jóváhagyott általános EDR használati szabályzatban foglaltak alapján” szövegrész helyébe az „az általános EDR használati szabályzatban foglaltak alapján” szöveg lép.
