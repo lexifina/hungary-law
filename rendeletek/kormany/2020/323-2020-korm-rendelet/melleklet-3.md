@@ -24,7 +24,9 @@
 
 | 12. | Science Park Szeged Tudományos és Innovációs Park fejlesztése | Szeged | Csongrád-Csanád Vármegyei Kormányhivatalt vezető főispán |
 
-3. melléklet a 323/2020. (VII. 1.) Korm. rendelethez[^32]
+| 13. | Makó és térsége fejlesztéséhez szükséges, Makó közigazgatási területén megvalósuló víziközmű-beruházások | Makó | Csongrád-Csanád Vármegyei Kormányhivatalt vezető főispán |
+
+3. melléklet a 323/2020. (VII. 1.) Korm. rendelethez[^34]
 
 A Beruházással érintett, 1. § (3) bekezdése szerinti ingatlanok
 
@@ -40,4 +42,7 @@ A Beruházással érintett, 1. § (3) bekezdése szerinti ingatlanok
 
 | 5. | Vác | 0389/1, 0389/3, 0405/1, 0406/2, 0412/2, 0414, 0415/1, 0415/2, 0417/6, 0420/24, 0432, 0442, 1830/6, 4552/9, 4552/12, 5680/21, 5680/24, 5749, 5768, 5779/15, 22315, 22390, 22403 |
 
-[^32]: A 3. mellékletet a 437/2022. (XI. 2.) Korm. rendelet 7. §-a iktatta be.
+| 6.[^35] | Makó | 050, 088/5, 089, 093/1, 0120/1, 0120/2, 2870/1, 2993, 3267, 3374, 3401, 3413, 3566, 3573/2, 3622, 3663, 3860, 4146/3, 4450, 4451, 4581, 4582, 10277/5, 10277/12, 10277/21, 10277/22, 10305/1, 10306/18, 10306/39, 10358/1, 10371/1, 10371/2, 10390/8, 10404/10, 10404/12, 10404/16, 10405/18, 10405/34, 10405/35, 10428/1, 12206, 23706 |
+
+[^34]: A 3. mellékletet a 437/2022. (XI. 2.) Korm. rendelet 7. §-a iktatta be.
+[^35]: A 3. mellékletben foglalt táblázat 6. sorát a 297/2023. (VII. 6.) Korm. rendelet 3. §-a iktatta be.
