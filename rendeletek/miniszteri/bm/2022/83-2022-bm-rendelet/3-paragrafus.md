@@ -42,8 +42,11 @@ g) meningococcus védőoltásban részesültek aránya a 12–24 hónaposak kör
 
 h) szűrővizsgálatok végzésének aránya 5 éves korban,
 
-i) vérzsír-tükör vizsgálat a túlsúlyos 18 év alattiak körében,
+i)[^3]
 
-j) túlsúlyos 18 év alattiak gondozása.
+j)[^4]
 
 (3) Az (1) és (2) bekezdés szerinti indikátorok célcsoportjait, az adott indikátorhoz kapcsolódóan kapható pontszámokat, az adatforrást és az indikátor számításának módját az 1. melléklet tartalmazza.
+
+[^3]: A 3. § (2) bekezdés i) pontját a 26/2023. (VII. 6.) BM rendelet 7. § a) pontja hatályon kívül helyezte.
+[^4]: A 3. § (2) bekezdés j) pontját a 26/2023. (VII. 6.) BM rendelet 7. § a) pontja hatályon kívül helyezte.
