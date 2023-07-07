@@ -14,7 +14,7 @@ d) a nemzetközi ügyekkel,
 
 e) az állami elővásárlási jog gyakorlásával,
 
-f)[^20]
+f)[^21]
 
 g) a kulturális örökségi értékek osztályozásával,
 
@@ -28,7 +28,7 @@ j) a kulturális örökségvédelem területét érintő szakértői tevékenys�
 
 (3) A Forster Központ által fenntartott Magyar Építészeti Múzeum fenntartói feladatait 2017. január 1-jétől a Magyar Művészeti Akadémia látja el.
 
-(3a)[^21] A Magyar Művészeti Akadémia közfeladatként
+(3a)[^22] A Magyar Művészeti Akadémia közfeladatként
 
 a) ellátja a műemlékvédelmi tudományos gyűjtemények kezelésével, gyarapításával, közzétételével, nyilvánosan hozzáférhető kutatószolgálat működtetésével összefüggő feladatokat, valamint
 
@@ -60,14 +60,14 @@ k) a kulturális örökséget érintő előkészítési és tervezési feladatok
 
 l) a Forster Központ által ellátott egyéb, a (2)–(4) bekezdésben nem nevesített feladatokat;
 
-(4a)[^22] A (4) bekezdéstől eltérően a Nemzeti Kastélyprogram és a Nemzeti Várprogram vonatkozásában a Nemzeti Örökségvédelmi Fejlesztési Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Nemzeti Örökségvédelmi Fejlesztési Nkft.) látja el közfeladatként a (4) bekezdés d)–f) és h)–k) pontja szerinti feladatokat.
+(4a)[^23] A (4) bekezdéstől eltérően a Nemzeti Kastélyprogram és a Nemzeti Várprogram vonatkozásában a Nemzeti Örökségvédelmi Fejlesztési Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Nemzeti Örökségvédelmi Fejlesztési Nkft.) látja el közfeladatként a (4) bekezdés d)–f) és h)–k) pontja szerinti feladatokat.
 
-(4b)[^23] A (4) bekezdéstől eltérően a 3. melléklet szerinti ingatlanok vonatkozásában a Nemzeti Örökségvédelmi Fejlesztési Nkft. látja el közfeladatként a (4) bekezdés d)–f) és h)–k) pontja szerinti feladatokat.
+(4b)[^24] A (4) bekezdéstől eltérően a 3. melléklet szerinti ingatlanok vonatkozásában a Nemzeti Örökségvédelmi Fejlesztési Nkft. látja el közfeladatként a (4) bekezdés d)–f) és h)–k) pontja szerinti feladatokat.
 
-(4c)[^24] A Nemzeti Örökségvédelmi Fejlesztési Nkft. közfeladatként látja el a vagyonkezelésében álló vagyonelemekre vonatkozó turisztikai, üzleti célú és egyéb hasznosítási feladatokat.
+(4c)[^25] A Nemzeti Örökségvédelmi Fejlesztési Nkft. közfeladatként látja el a vagyonkezelésében álló vagyonelemekre vonatkozó turisztikai, üzleti célú és egyéb hasznosítási feladatokat.
 
-[^20]: A 34. § (2) bekezdés f) pontját a 317/2017. (XI. 7.) Korm. rendelet 3. §-a hatályon kívül helyezte.
-[^21]: A 34. § (3a) bekezdését a 317/2017. (XI. 7.) Korm. rendelet 1. §-a iktatta be.
-[^22]: A 34. § (4a) bekezdését a 270/2017. (IX. 13.) Korm. rendelet 1. §-a iktatta be.
-[^23]: A 34. § (4b) bekezdését a 250/2018. (XII. 17.) Korm. rendelet 1. §-a iktatta be.
-[^24]: A 34. § (4c) bekezdését a 465/2021. (VIII. 5.) Korm. rendelet 1. §-a iktatta be.
+[^21]: A 34. § (2) bekezdés f) pontját a 317/2017. (XI. 7.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^22]: A 34. § (3a) bekezdését a 317/2017. (XI. 7.) Korm. rendelet 1. §-a iktatta be.
+[^23]: A 34. § (4a) bekezdését a 270/2017. (IX. 13.) Korm. rendelet 1. §-a iktatta be.
+[^24]: A 34. § (4b) bekezdését a 250/2018. (XII. 17.) Korm. rendelet 1. §-a iktatta be.
+[^25]: A 34. § (4c) bekezdését a 465/2021. (VIII. 5.) Korm. rendelet 1. §-a iktatta be.
