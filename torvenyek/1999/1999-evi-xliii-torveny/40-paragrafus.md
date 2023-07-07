@@ -10,10 +10,10 @@ c) a temetői létesítmények, illetve az üzemeltető által biztosított szol
 
 d) a temetőbe való behajtás díját.
 
-(3) A (2) bekezdésben meghatározott díjfajtákon belül a köztemetőkre vonatkozó díjak mértékét az önkormányzat rendeletben állapítja meg. A díjmértékeket évente felül kell vizsgálni.
+(3) A (2) bekezdésben meghatározott díjfajtákon belül a köztemetőkre vonatkozó díjak mértékét az önkormányzat rendeletben állapítja meg.
 
-(4) Az egyes díjfajtákon belül a temetőben vállalkozásszerűen munkát végzők által fizetendő temetőfenntartási hozzájárulási díj mértéke az adott évben az egyes sírhelyekre megállapított megváltási díjtételek egyszerű számtani átlagának 5%-át nem haladhatja meg.
+(4) A temetőfenntartási hozzájárulási díjon felül sem a tulajdonos, sem az üzemeltető – a temetkezési szolgáltatók kivételével – a temetőben vállalkozásszerűen munkát végzők számára egyéb díjat nem állapíthat meg, illetve nem szedhet.
 
-(5) A települési önkormányzat képviselő-testülete, fővárosban a közgyűlés a díj megállapításakor kikéri a fogyasztók területileg illetékes érdekképviseleti szerveinek véleményét.
+(5)
 
-(6) A temető üzemeltetője a szabályzatban megállapított díjakon felül más díjat nem állapíthat meg. Nem szedhető díj a temetőlátogatásért, a temetői utak használatáért és a temetési hely gondozásához igénybe vett vízért.
+(6) A temető tulajdonosa és üzemeltetője a temetőszabályzatban, köztemető esetén az önkormányzat rendeletében megállapított díjakon felül más díjat nem állapíthat meg. Ez a tilalom nem vonatkozik az üzemeltetőnek az (1) bekezdésben foglalt, valamint a temetőüzemeltetéssel össze nem függő szolgáltatásaira. Nem szedhető díj – ha e törvény eltérően nem rendelkezik – a temetőlátogatásért, a temetői utak használatáért és a temetési hely gondozásához igénybe vett vízért.

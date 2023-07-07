@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-43-00-00
 | 2021-12-01 | 2021. évi XCIX. törvény | 1999-43-00-00.30 |
 | 2022-05-25 | 2022. évi IV. törvény | 1999-43-00-00.31 |
 | 2023-01-01 | 2022. évi XXII. törvény | 1999-43-00-00.32 |
+| 2023-07-07 | 2023. évi LIII. törvény | 1999-43-00-00.34 |

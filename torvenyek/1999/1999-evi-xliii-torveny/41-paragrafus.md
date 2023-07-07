@@ -18,11 +18,11 @@ g) a temetőszabályzat kötelező tartalmi elemeit;
 
 h) a Nemzeti Kegyeleti Bizottság javaslatára a ,,Nemzeti Gyásznap'' állandó vagy eseti meghatározására, a gyász nemzeti méretű kifejezésére és megformálására vonatkozó szabályokat;
 
-i) a szociális és köztemetésekhez kapcsolódó hamvasztás legmagasabb díját;
+i) a köztemetésekhez kapcsolódó hamvasztás legmagasabb díját;
 
-j) a szociális temetési helyekre vonatkozó eltérő szabályok, a szociális temetés igénybevételének részletes szabályait;
+j)
 
-k) a szociális temetés esetén a holttest egészségügyi intézményben történő hűtésének részletes szabályait.
+k)
 
 (2) Felhatalmazást kap a Kormány, hogy
 
@@ -34,7 +34,7 @@ c) a 25. § (4) bekezdésében meghatározott, az elhalálozással kapcsolatos �
 
 rendeletben állapítsa meg.
 
-(3) A települési önkormányzat, fővárosban a közgyűlés rendeletben állapítja meg – a köztemetőre vonatkozóan – különösen
+(3) A települési önkormányzat, fővárosban a közgyűlés rendeletben állapítja meg – a köztemetőre vonatkozóan –
 
 a) a temető rendeltetésszerű használatához szükséges egyéb helyi tárgyi és infrastrukturális feltételeket;
 
