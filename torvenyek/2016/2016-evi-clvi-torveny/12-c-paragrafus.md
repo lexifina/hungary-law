@@ -1,0 +1,1 @@
+12/C. § A 12/A. § (1a) bekezdése és a 12/B. § (1a) bekezdése szerint megkezdett adatszolgáltatást a vendéglátó üzlet és a turisztikai attrakció üzemeltetői tevékenységének megszűnéséig köteles teljesíteni.

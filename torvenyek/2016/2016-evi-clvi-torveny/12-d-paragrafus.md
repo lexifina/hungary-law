@@ -1,0 +1,1 @@
+12/D. § A 9/G. § (2) és (4) bekezdése, a 12/A. § (1a) bekezdése és a 12/B. § (1a) bekezdése szerinti árbevétel számításakor a termékértékesítés vagy a szolgáltatásnyújtás teljesítési helye szerinti bevétel mértékét kell figyelembe venni, azzal, hogy több teljesítési hely azonos működtetője vagy azonos üzemeltetője esetén sem alkalmazható az egybeszámítás.
