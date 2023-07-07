@@ -1,5 +1,5 @@
-## 18.[^95]
+## 18.[^97]
 
 33. §
 
-[^95]: A 18. alcímet (33. §) a 318/2020. (VII. 1.) Korm. rendelet 17. § 17. pontja hatályon kívül helyezte.
+[^97]: A 18. alcímet (33. §) a 318/2020. (VII. 1.) Korm. rendelet 17. § 17. pontja hatályon kívül helyezte.
