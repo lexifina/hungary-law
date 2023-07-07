@@ -46,6 +46,8 @@ n) a helyettesítési díj mértékét,
 
 o) az egészségügyi szakdolgozók körét.
 
+p) az egységes intézeti gyógyszertári szolgáltatás keretében működtetett gyógyszertár főgyógyszerészének, szakgyógyszerészének, gyógyszerészének és szakdolgozójának egészségügyi szolgálati jogviszonya tekintetében az együttes munkáltatói jogkörgyakorlás eseteit és részletes szabályait.
+
 (2) Felhatalmazást kap a Kormány arra, hogy rendeletben jelölje ki
 
 a) az állami fenntartású egészségügyi szolgáltató esetén a munkáltató szervet,

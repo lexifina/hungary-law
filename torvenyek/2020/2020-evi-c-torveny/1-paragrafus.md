@@ -1,6 +1,6 @@
 ### 1. § [A törvény hatálya]
 
-(1) E törvény hatálya kizárólag – a munkavállalói résztulajdon kivételével – az állami és az önkormányzati fenntartású egészségügyi szolgáltatóra, annak fenntartójára, valamint az állami vagy önkormányzati fenntartású egészségügyi szolgáltatónál egészségügyi szolgálati jogviszonyban álló személy (a továbbiakban: egészségügyi szolgálati jogviszonyban álló személy) jogállására terjed ki.
+(1) E törvény hatálya kizárólag – ide nem értve a munkavállalói résztulajdont – az állami és az önkormányzati fenntartású egészségügyi szolgáltatóra, annak fenntartójára, az egységes intézeti gyógyszertári szolgáltatás keretében működtetett gyógyszertár működtetőjére, valamint az állami vagy önkormányzati fenntartású egészségügyi szolgáltatónál egészségügyi szolgálati jogviszonyban álló személy (a továbbiakban: egészségügyi szolgálati jogviszonyban álló személy) jogállására terjed ki.
 
 (2) Ha jogszabály rendelkezése folytán valamely egészségügyi szolgáltató az e törvény hatálya alá tartozó egészségügyi szolgáltatóvá alakul át, az egészségügyi szolgáltatóra és annak foglalkoztatottjára – törvény vagy kormányrendelet eltérő rendelkezése hiányában – e törvény rendelkezéseit az egészségügyi szolgáltató átalakulását követő harmadik hónap első napjától kell alkalmazni.
 

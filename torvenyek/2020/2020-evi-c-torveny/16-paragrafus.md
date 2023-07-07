@@ -8,4 +8,4 @@ b) magasabb vezető: az egészségügyi szolgáltató vezetője és helyettese, 
 
 c) munkáltató: az állami fenntartású egészségügyi szolgáltató esetén a törvényben vagy a Kormány rendeletében kijelölt szerv, a nem állami fenntartású egészségügyi szolgáltató esetén az egészségügyi szolgáltató vezetője.
 
-d) intézeti és a közvetlen lakossági gyógyszerellátási feladatok elkülönített nyilvántartása: a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény 3. § 47. pontja szerinti nyilvántartás.
+d) egységes intézeti gyógyszertári szolgáltatás keretében működtetett gyógyszertár: a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény szerinti egységes intézeti gyógyszertári szolgáltatás nyújtására a közbeszerzésekről szóló 2015. évi CXLIII. törvény szerint lefolytatott eljárás nyertesével megkötött szerződés alapján működtetett intézeti gyógyszertár.
