@@ -32,7 +32,7 @@ az állami egészségügyi, katasztrófa- és védelmi készlet kezelője jogosu
 
 (9) A társadalombiztosítási támogatással rendelhető sorozatgyártású gyógyászati segédeszközök forgalmazása esetében a forgalmazó köteles az adott eszköz funkcionális csoportjának referenciaeszközét vagy azzal azonos árú eszközt forgalmazni.
 
-(9a) Társadalombiztosítási támogatással csak olyan gyógyászati segédeszköz forgalmazható, amelyet a forgalmazó az eszköznek a 33. § (6) és (7) bekezdése szerinti nyilvántartásban megnevezett forgalomba hozójától, vagy olyan – a közbeszerzésekről szóló 2015. évi CXLIII. törvény 3. § 10. pontja szerinti – gazdasági szereplőtől szerzett be, amely az áru átvételére szolgáló bizonylattal igazolja, hogy az eszköz a 33. § (6) és (7) bekezdése szerinti nyilvántartásban megnevezett forgalomba hozótól származik.
+(9a) Társadalombiztosítási támogatással csak olyan gyógyászati segédeszköz forgalmazható, amelyet a forgalmazó az eszköznek a 33. § (6) és (7) bekezdése szerinti nyilvántartásban megnevezett forgalomba hozójától, vagy olyan – a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) 3. § 10. pontja szerinti – gazdasági szereplőtől szerzett be, amely az áru átvételére szolgáló bizonylattal igazolja, hogy az eszköz a 33. § (6) és (7) bekezdése szerinti nyilvántartásban megnevezett forgalomba hozótól származik.
 
 (9b) Ha a gyógyászati segédeszköz forgalomba hozója azonos a forgalmazójával, a (9a) bekezdést nem kell alkalmazni.
 

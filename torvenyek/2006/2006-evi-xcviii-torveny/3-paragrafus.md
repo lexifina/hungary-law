@@ -40,7 +40,7 @@ c) a kereskedelmi árlista, feltéve, hogy nem tartalmaz a gyógyszer hatásáva
 
 17. fiókgyógyszertár: a közforgalmú gyógyszertár részeként működő, de azzal nem azonos telephelyű, vagy mozgó, illetve ideiglenesen telepített egységként működtetett, közvetlen lakossági gyógyszerellátást biztosító egészségügyi intézmény;
 
-18. intézeti gyógyszertár: a fekvőbeteg-ellátást végző intézmény részeként működő, annak teljes körű gyógyszerellátását végző egészségügyi intézmény, mely szaktevékenységként közvetlen lakossági gyógyszerellátási feladatokat is végezhet;
+18. intézeti gyógyszertár: a fekvőbeteg-ellátást végző intézmény részeként működő vagy az egységes intézeti gyógyszertári szolgáltatás keretében működtetett, a fekvőbeteg-ellátást végző intézmény teljes körű gyógyszerellátását végző egészségügyi intézmény, amely szaktevékenységként közvetlen lakossági gyógyszerellátási feladatokat is végezhet;
 
 19. kézigyógyszertár: a háziorvos, házi gyermekorvos (a továbbiakban: háziorvos) gyógyító munkájához szükséges, a gyógyszerek meghatározott körét szolgáltató ellátási forma;
 
@@ -98,4 +98,6 @@ c) a kereskedelmi árlista, feltéve, hogy nem tartalmaz a gyógyszer hatásáva
 
 46. tételes elszámolás alá eső hatóanyagot tartalmazó gyógyszer: az egészségbiztosítási szerv által közbeszerzés útján természetben vagy pénzügyi keret formájában biztosított, speciális támogatásban részesülő gyógyszer;
 
-47. intézeti és a közvetlen lakossági gyógyszerellátási feladatok elkülönített nyilvántartása: átlátható és technikailag zárt, kizárólag hatósági ellenőrzési tevékenység részére hozzáférhető elektronikus szakmai nyilvántartási rendszer.
+47. egységes intézeti gyógyszertári szolgáltatás: az állami fenntartású fekvőbeteg-ellátást végző intézmények részére egységes rendszerben azonos szolgáltatásszínvonalú intézeti gyógyszertári szolgáltatás nyújtása Magyarország területén (ideértve az ennek ellátásához szükséges beszerzési, járulékos közbeszerzési szolgáltatási, koordinációs és logisztikai tevékenységet is);
+
+48. egyedi gyógyszeradagoló rendszer: betegszintű gyógyszerelési mód, amely során az intézeti gyógyszertár által a fekvőbeteg-ellátásban részesülők számára előírt gyógyszerek személyre szabott adagokban kerülnek kiszerelésre.

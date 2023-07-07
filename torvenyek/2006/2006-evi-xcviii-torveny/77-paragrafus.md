@@ -24,7 +24,13 @@ k) a gyógyászatisegédeszköz-szállítójegyzékre és a szállító-előmin�
 
 l) az egyedi méretvétel alapján készített gyógyászati segédeszközök támogatásával kapcsolatos eljárások szabályait
 
-m) az intézeti és a közvetlen lakossági gyógyszerellátási feladatok elkülönített nyilvántartásának hatékony ellenőrzéséhez szükséges hatósági hozzáférés részletes szabályait
+m) az egységes intézeti gyógyszertári szolgáltatás nyújtása engedélyezésének, végzésének és hatósági ellenőrzésének részletes szabályait,
+
+n) az egységes intézeti gyógyszertári szolgáltatás nyújtásának engedélyezésére és hatósági ellenőrzésére jogosult szervet,
+
+o) az 51/A. § (2) bekezdése szerinti miniszter kijelölését,
+
+p) a nem állami fenntartású fekvőbeteg-ellátást végző intézménynek az egységes intézeti gyógyszertári szolgáltatás nyújtására a Kbt. és az 51/A. § (1)–(9) bekezdés szerint megkötött szerződéshez történő önkéntes csatlakozás részletes szabályait.
 
 rendeletben állapítsa meg.
 
