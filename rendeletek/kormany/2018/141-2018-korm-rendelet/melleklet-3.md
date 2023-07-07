@@ -252,8 +252,10 @@
 
 | 116. | Okos logisztikai park létrehozására irányuló beruházás Felsőpakony területén | Felsőpakony közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 016/20 helyrajzi számú ingatlan | Pest Vármegyei Kormányhivatalt vezető főispán |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^349]
+| 117. | Makó város területén megvalósítandó infrastruktúra- és gazdaság-fejlesztésre irányuló beruházások | Makó közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 3983/1, 3983/2, 3983/3, 4146/2, 10404/13, 10405/36, 10405/38, 10433/2, 12205, 23723 és külterület 0548/3 helyrajzi számú ingatlanok | Csongrád-Csanád Vármegyei Kormányhivatalt vezető főispán |
+
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^351]
 
 A 2. mellékletben foglalt táblázat 7 és 7a sora szerinti beruházások közlekedési kapacitásbővítéssel összefüggő útszélesítései
 
-[^349]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^351]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
