@@ -22,7 +22,7 @@ c) azokban a fejlesztési tárgyú közszolgáltatási szerződésekben vagy üz
 
 (6) A kormányzati célú hírközlési szolgáltató az (1) bekezdésben meghatározott ellentételezésre az (5) bekezdésben meghatározott előkalkulációval azonos szerkezetben, a közszolgáltatási megállapodásban szabályozott követelmények szerint lefolytatott teljesítésigazolási eljárásban benyújtott utókalkuláció alapján tarthat igényt. Az utókalkuláció részeként a kormányzati célú hírközlési szolgáltató köteles a központosított közszolgáltatás nyújtásával kapcsolatban felmerült, a számviteli nyilvántartásában szereplő nettó tényköltségeket, a jogszabály alapján fizetendő adókat és az elszámolt tényköltségek alapján – az észszerű nyereségráta alkalmazásával – kiszámított és gazdasági számításokkal alátámasztott észszerű nyereség összegét a szolgáltatást igénybe vevő szerv felé teljesítésigazolás és ellentételezés céljából bemutatni.
 
-(7)[^54] Az e §-ban foglaltak teljesüléséről a közszolgáltatási szerződések vonatkozásában a DMÜ, egyedi szolgáltatási megállapodások vonatkozásában a felhasználó gondoskodik.
+(7)[^54] Az e §-ban foglaltak teljesüléséről a kormányzati célú hírközlési szolgáltató gondoskodik.
 
 [^53]: A 8/A. §-t a 81/2019. (IV. 18.) Korm. rendelet 12. §-a iktatta be.
-[^54]: A 8/A. § (7) bekezdése a 618/2022. (XII. 29.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^54]: A 8/A. § (7) bekezdése a 291/2023. (VII. 6.) Korm. rendelet 3. §-ával megállapított szöveg.

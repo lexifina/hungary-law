@@ -22,7 +22,7 @@
 
 11.[^10] VPN gazda: a VPN gazda szervezet vezetője;
 
-12.[^11] egységes digitális rádiótávközlő rendszer (EDR): a Schengeni Megállapodás Schengenben, 1990. június 19-én aláírt Végrehajtási Egyezményének 132., illetve 44. cikkében meghatározott követelményeket kielégítő digitális, nyalábolt (trönkölt), kormányzati célú rádióhálózat;
+12.[^11] egységes digitális rádiótávközlő rendszer (EDR): a Schengeni Megállapodás Schengenben, 1990. június 19-én aláírt Végrehajtási Egyezményének 132., illetve 44. cikkében meghatározott követelményeket kielégítő mobil rádiótelefon-hálózat; keskeny- vagy szélessávú digitális kormányzati célú rádióhálózat;
 
 13.[^12] nem nyilvános, helyhez kötött telefonszolgáltatás: a helyhez kötött előfizetői végponton keresztül igénybe vehető, kormányzati célú hálózaton nyújtott olyan, kizárólag e rendeletben meghatározott szervek, szervezetek vagy személyek által igénybe vehető elektronikus hírközlési szolgáltatás, amely belföldi vagy nemzetközi számozási tervben szereplő hívószám vagy hívószámok segítségével közvetlenül vagy közvetve lehetővé teszi belföldi vagy belföldi és nemzetközi hívások kezdeményezését és fogadását, és amely nem minősül mobil rádiótelefon szolgáltatásnak.
 
@@ -32,5 +32,5 @@
 [^8]: A 2. § 9. pontja a 169/2013. (V. 29.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
 [^9]: A 2. § 10. pontját a 169/2013. (V. 29.) Korm. rendelet 8. § (3) bekezdése iktatta be.
 [^10]: A 2. § 11. pontját a 169/2013. (V. 29.) Korm. rendelet 8. § (3) bekezdése iktatta be.
-[^11]: A 2. § 12. pontját a 169/2013. (V. 29.) Korm. rendelet 8. § (3) bekezdése iktatta be.
+[^11]: A 2. § 12. pontját a 169/2013. (V. 29.) Korm. rendelet 8. § (3) bekezdése iktatta be, szövege a 291/2023. (VII. 6.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^12]: A 2. § 13. pontját a 229/2017. (VIII. 14.) Korm. rendelet 1. §-a iktatta be.

@@ -41,3 +41,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-346-20-
 | 2022-07-01 | 2010-346-20-22.33 | 188/2016. (VII. 13.) Korm. rendelet |
 | 2023-01-01 | 2010-346-20-22.34 | 618/2022. (XII. 29.) Korm. rendelet |
 | 2023-07-01 | 2010-346-20-22.35 | 188/2016. (VII. 13.) Korm. rendelet |
+| 2023-07-07 | 2010-346-20-22.36 | 291/2023. (VII. 6.) Korm. rendelet |
