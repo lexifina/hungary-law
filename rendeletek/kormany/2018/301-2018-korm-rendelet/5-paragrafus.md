@@ -1,44 +1,46 @@
 ## 3. A kormányzati informatikai beszerzéssel kapcsolatos eljárás
 
-5. §[^42] (1)[^43] A Kormány az e rendelet hatálya alá tartozó központosított eljárások tekintetében a DKÜ-t ajánlatkérésre feljogosított központi beszerző szervezetként kijelöli. E feladatkörében a DKÜ ajánlatkérésre feljogosított központi beszerző szervezetként azon Kbt. hatálya alá nem tartozó beszerzések tekintetében is eljár, amelyek az 1. § (2b) bekezdése szerinti mentesítésben nem részesültek, és amelyek vonatkozásban más ajánlatkérésre feljogosított központi beszerző szervezet hatáskörrel nem rendelkezik, vagy a DKÜ eljárása más ajánlatkérésre feljogosított központi beszerző szervezet eljárásába nem ütközik.
+5. §[^45] (1)[^46] A Kormány az e rendelet hatálya alá tartozó központosított eljárások tekintetében a DKÜ-t ajánlatkérésre feljogosított központi beszerző szervezetként kijelöli. E feladatkörében a DKÜ ajánlatkérésre feljogosított központi beszerző szervezetként azon Kbt. hatálya alá nem tartozó beszerzések tekintetében is eljár, amelyek az 1. § (2b) bekezdése szerinti mentesítésben nem részesültek, és amelyek vonatkozásban más ajánlatkérésre feljogosított központi beszerző szervezet hatáskörrel nem rendelkezik, vagy a DKÜ eljárása más ajánlatkérésre feljogosított központi beszerző szervezet eljárásába nem ütközik.
 
 (2) A miniszter a DKÜ közreműködésével és a DKÜ-nek az e rendelet szerinti közfeladatai ellátása érdekében – az informatikai fejlesztések és beszerzések megvalósításában más jogszabály rendelkezései szerint érintett más szervezettel való együttműködés keretében, a 28. § (2) bekezdése szerinti miniszteri rendelete alapján, a személyes adatok kezelésére vonatkozó, a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK rendelet hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendeletben és az információs önrendelkezési jogról és az információszabadságról szóló törvényben rögzített korlátok biztosítása mellett – a más szervezet létező vagy a kormányzati informatikai fejlesztések és beszerzések vonatkozásában létrejövő intézményi, így különösen az engedélyeztetési, ellenőrzési és beszerzési rendszerére, informatikai infrastruktúrájára, adatbázisára is támaszkodhat, azokhoz hozzáférhet.
 
-(3)[^44] A DKÜ az e rendelet szerinti kapcsolattartás, valamint az e rendelet szerinti folyamatok nyomon követhetősége céljából Portált alakít ki és tart fenn. A DKÜ rendelkezhet úgy, hogy az érintett szervezetek, az NHIT, a miniszter, valamint a (2) bekezdés szerinti más szervezetek részére kizárólag a Portál felületén biztosítja az e rendelet szerinti kapcsolattartást. A DKÜ az NHIT és a miniszter számára – az e rendelet szerinti tevékenységük ellátása érdekében – a Portálon tárolt dokumentumokhoz, adatokhoz hozzáférést biztosít.
+(3)[^47] A DKÜ az e rendelet szerinti kapcsolattartás, valamint az e rendelet szerinti folyamatok nyomon követhetősége céljából DKÜ alkalmazást alakít ki és tart fenn. A DKÜ rendelkezhet úgy, hogy az érintett szervezetek, az NHIT, a miniszter, valamint a (2) bekezdés szerinti más szervezetek részére kizárólag a DKÜ alkalmazás felületén biztosítja az e rendelet szerinti kapcsolattartást. A DKÜ az NHIT és a miniszter számára – az e rendelet szerinti tevékenységük ellátása érdekében – a DKÜ alkalmazáson tárolt dokumentumokhoz, adatokhoz hozzáférést biztosít.
 
-(4) A Portál az e rendeletben foglaltak vonatkozásában releváns adatokat más szakrendszerekből is átvehet.
+(4)[^48] A DKÜ alkalmazás az e rendeletben foglaltak vonatkozásában releváns adatokat más szakrendszerekből is átvehet.
 
-(4a)[^45]
+(4a)[^49]
 
-(5)[^46] A miniszter a DKÜ útján jogosult ellenőrizni az e rendeletben foglaltak betartását, továbbá a 13. § (1) bekezdés a) és b) pontjai szerinti beszerzési eljárás eredményeképpen megkötött szerződések teljesítését.
+(5)[^50] A miniszter a DKÜ útján jogosult ellenőrizni az e rendeletben foglaltak betartását, továbbá a 13. § (1) bekezdés a) és b) pontjai szerinti beszerzési eljárás eredményeképpen megkötött szerződések teljesítését.
 
-(6)[^47] Kormányzati informatikai fejlesztés, valamint beszerzés, az e rendeletben foglalt kivételekkel, kizárólag az e rendelet szerinti miniszteri jóváhagyást követően valósítható meg.
+(6)[^51] Kormányzati informatikai fejlesztés, valamint beszerzés, az e rendeletben foglalt kivételekkel, kizárólag az e rendelet szerinti miniszteri jóváhagyást követően valósítható meg.
 
-(7)[^48] Az e rendeletben foglaltak megkerülésével vagy megsértésével megkötött beszerzési igény kielégítését szolgáló szerződés semmis.
+(7)[^52] Az e rendeletben foglaltak megkerülésével vagy megsértésével megkötött beszerzési igény kielégítését szolgáló szerződés semmis.
 
-(8)[^49] Ha a kormányzati informatikai fejlesztés, valamint beszerzés megvalósítása kormányrendelet vagy miniszteri rendelet szerinti egyéb – a feladatkörben érintett miniszter, általa kijelölt szervezet vagy személy vagy a Kormány irányítása vagy felügyelete alatt álló más szerv általi – jóváhagyáshoz kötött, az egyéb jóváhagyás az e rendelet szerinti miniszteri jóváhagyást nem helyettesíti vagy pótolja.
+(8)[^53] Ha a kormányzati informatikai fejlesztés, valamint beszerzés megvalósítása kormányrendelet vagy miniszteri rendelet szerinti egyéb – a feladatkörben érintett miniszter, általa kijelölt szervezet vagy személy vagy a Kormány irányítása vagy felügyelete alatt álló más szerv általi – jóváhagyáshoz kötött, az egyéb jóváhagyás az e rendelet szerinti miniszteri jóváhagyást nem helyettesíti vagy pótolja.
 
-(9)[^50] Ha a kormányzati informatikai fejlesztés, valamint beszerzés megvalósítása kormányrendelet vagy miniszteri rendelet szerinti egyéb – a feladatkörben érintett miniszter, általa kijelölt szervezet vagy személy vagy a Kormány irányítása vagy felügyelete alatt álló más szerv általi – jóváhagyáshoz kötött, az egyéb jóváhagyást – a jóváhagyási folyamatokban jelentkező redundanciák megszüntetése, továbbá a folyamatok egyszerűsítése, gyorsítása érdekében – az e rendelet szerinti miniszteri jóváhagyás helyettesítheti vagy pótolhatja, ha erről a miniszter a 28. § (2) bekezdése szerinti miniszteri rendelet alapján, az egyéb jóváhagyásra vonatkozó feladatkörben érintett miniszterrel, a megváltozott jóváhagyási eljárásrendre is kiterjedően, megállapodott.
+(9)[^54] Ha a kormányzati informatikai fejlesztés, valamint beszerzés megvalósítása kormányrendelet vagy miniszteri rendelet szerinti egyéb – a feladatkörben érintett miniszter, általa kijelölt szervezet vagy személy vagy a Kormány irányítása vagy felügyelete alatt álló más szerv általi – jóváhagyáshoz kötött, az egyéb jóváhagyást – a jóváhagyási folyamatokban jelentkező redundanciák megszüntetése, továbbá a folyamatok egyszerűsítése, gyorsítása érdekében – az e rendelet szerinti miniszteri jóváhagyás helyettesítheti vagy pótolhatja, ha erről a miniszter a 28. § (2) bekezdése szerinti miniszteri rendelet alapján, az egyéb jóváhagyásra vonatkozó feladatkörben érintett miniszterrel, a megváltozott jóváhagyási eljárásrendre is kiterjedően, megállapodott.
 
-(10) Az érintett szervezet az aktuális informatikai környezetéről és az előző év informatikai fejlesztéseinek és beszerzéseinek tapasztalatairól minden év január 30. napjáig a DKÜ-nek, az ott meghatározott struktúra és adattartalom szerint részletezve, a Portálon keresztül beszámol.
+(10)[^55] Az érintett szervezet az aktuális informatikai környezetéről és az előző év informatikai fejlesztéseinek és beszerzéseinek tapasztalatairól minden év január 30. napjáig a DKÜ-nek, az ott meghatározott struktúra és adattartalom szerint részletezve, a DKÜ alkalmazáson keresztül beszámol.
 
 (11) A DKÜ minden év március 1. napjáig jelentésben összesíti a (10) bekezdés szerint beérkezett beszámolókat, és azokat a 4. § (3) bekezdés b) és c) pontja szerinti feladata ellátása érdekében az NHIT részére továbbítja.
 
-(12)[^51] Alkalmazás esetén az egységes Állami Alkalmazás-fejlesztési Környezetről és az Állami Alkalmazás-katalógusról, valamint az egyes kapcsolódó kormányrendeletek módosításáról szóló 314/2018. (XII. 27.) Korm. rendelet (a továbbiakban: ÁAFK Kr.) hatálya alá tartozó szervezet esetében az ÁAFK Kr. szerinti támogató tanúsítvány nélkül nincs helye a 7. § b)–d) pontja szerinti megküldésnek.
+(12)[^56] Alkalmazás esetén az egységes Állami Alkalmazás-fejlesztési Környezetről és az Állami Alkalmazás-katalógusról, valamint az egyes kapcsolódó kormányrendeletek módosításáról szóló 314/2018. (XII. 27.) Korm. rendelet (a továbbiakban: ÁAFK Kr.) hatálya alá tartozó szervezet esetében az ÁAFK Kr. szerinti támogató tanúsítvány nélkül nincs helye a 7. § b)–d) pontja szerinti megküldésnek.
 
-(13)[^52] Alkalmazás esetén, a (12) bekezdéstől eltérően a 7. § b)–d) pontja szerinti megküldésnek helye van, ha arra a (9) bekezdés szerinti miniszteri rendelet lehetőséget biztosít.
+(13)[^57] Alkalmazás esetén, a (12) bekezdéstől eltérően a 7. § b)–d) pontja szerinti megküldésnek helye van, ha arra a (9) bekezdés szerinti miniszteri rendelet lehetőséget biztosít.
 
-(14)[^53] Az 1. § (2b) bekezdése szerinti beszerzési igény esetében az e rendeletben foglalt központosított eljárási szabályok alkalmazása alóli felmentésre irányuló mentesítési eljárás megkezdése előtt az érintett szervezet köteles legalább a mentesíteni kívánt beszerzés tárgyát, becsült értékét, a mentesítési kérelem indokolását – a Portálra történő feltöltéssel – a miniszter részére soron kívül megküldeni.
+(14)[^58] Az 1. § (2b) bekezdése szerinti beszerzési igény esetében az e rendeletben foglalt központosított eljárási szabályok alkalmazása alóli felmentésre irányuló mentesítési eljárás megkezdése előtt az érintett szervezet köteles legalább a mentesíteni kívánt beszerzés tárgyát, becsült értékét, a mentesítési kérelem indokolását – a DKÜ alkalmazásra történő feltöltéssel – a miniszter részére soron kívül megküldeni.
 
-[^42]: Az 5. § a 83/2019. (IV. 18.) Korm. rendelet 4. § (9) bekezdésével megállapított szöveg.
-[^43]: Az 5. § (1) bekezdése a 683/2020. (XII. 28.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^44]: Az 5. § (3) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 7. § e) pontja szerint módosított szöveg.
-[^45]: Az 5. § (4a) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 6. § (4) bekezdése iktatta be, hatályon kívül helyezte a 304/2021. (VI. 2.) Korm. rendelet 3. § a) pontja.
-[^46]: Az 5. § (5) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 6. § (5) bekezdésével megállapított, a 304/2021. (VI. 2.) Korm. rendelet 2. § 3. pontja szerint módosított szöveg.
-[^47]: Az 5. § (6) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 6. § (5) bekezdésével megállapított szöveg.
-[^48]: Az 5. § (7) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 6. § (5) bekezdésével megállapított szöveg.
-[^49]: Az 5. § (8) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 6. § (5) bekezdésével megállapított szöveg.
-[^50]: Az 5. § (9) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 6. § (5) bekezdésével megállapított szöveg.
-[^51]: Az 5. § (12) bekezdése a 72/2023. (III. 10.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^52]: Az 5. § (13) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 6. § (6) bekezdése iktatta be.
-[^53]: Az 5. § (14) bekezdését a 683/2020. (XII. 28.) Korm. rendelet 5. § (3) bekezdése iktatta be.
+[^45]: Az 5. § a 83/2019. (IV. 18.) Korm. rendelet 4. § (9) bekezdésével megállapított szöveg.
+[^46]: Az 5. § (1) bekezdése a 683/2020. (XII. 28.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^47]: Az 5. § (3) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 7. § e) pontja, a 291/2023. (VII. 6.) Korm. rendelet 17. § a)-c) pontja szerint módosított szöveg.
+[^48]: Az 5. § (4) bekezdése a 291/2023. (VII. 6.) Korm. rendelet 17. § c) pontja szerint módosított szöveg.
+[^49]: Az 5. § (4a) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 6. § (4) bekezdése iktatta be, hatályon kívül helyezte a 304/2021. (VI. 2.) Korm. rendelet 3. § a) pontja.
+[^50]: Az 5. § (5) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 6. § (5) bekezdésével megállapított, a 304/2021. (VI. 2.) Korm. rendelet 2. § 3. pontja szerint módosított szöveg.
+[^51]: Az 5. § (6) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 6. § (5) bekezdésével megállapított szöveg.
+[^52]: Az 5. § (7) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 6. § (5) bekezdésével megállapított szöveg.
+[^53]: Az 5. § (8) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 6. § (5) bekezdésével megállapított szöveg.
+[^54]: Az 5. § (9) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 6. § (5) bekezdésével megállapított szöveg.
+[^55]: Az 5. § (10) bekezdése a 291/2023. (VII. 6.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
+[^56]: Az 5. § (12) bekezdése a 72/2023. (III. 10.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^57]: Az 5. § (13) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 6. § (6) bekezdése iktatta be.
+[^58]: Az 5. § (14) bekezdését a 683/2020. (XII. 28.) Korm. rendelet 5. § (3) bekezdése iktatta be, szövege a 291/2023. (VII. 6.) Korm. rendelet 17. § d) pontja szerint módosított szöveg.

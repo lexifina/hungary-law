@@ -1,10 +1,10 @@
-## 10/A. §[^87] Az érintett szervezet beszerzésre vonatkozó igénye minősített adatot tartalmazó része vonatkozásában a 10. § rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a DKÜ helyett a miniszter jár el.
+## 10/A. §[^95] Az érintett szervezet beszerzésre vonatkozó igénye minősített adatot tartalmazó része vonatkozásában a 10. § rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a DKÜ helyett a miniszter jár el.
 
-11. §[^88] (1) A DKÜ az érintett szervezet beszerzési igényét, ha annak Kbt. szerinti – nem egybeszámított – becsült értéke a 250 millió forintot eléri vagy meghaladja, vizsgálat alá vonja.
+11. §[^96] (1) A DKÜ az érintett szervezet beszerzési igényét, ha annak Kbt. szerinti – nem egybeszámított – becsült értéke a 250 millió forintot eléri vagy meghaladja, vizsgálat alá vonja.
 
-(2) A DKÜ a vizsgálatot a beszerzési igény Portálra történő feltöltésétől számított 15 munkanapon belül folytatja le, és az eredményről e határidőn belül az érintett szervezet tájékoztatja.
+(2)[^97] A DKÜ a vizsgálatot a beszerzési igény DKÜ alkalmazásra történő feltöltésétől számított 15 munkanapon belül folytatja le, és az eredményről e határidőn belül az érintett szervezet tájékoztatja.
 
-(3) A DKÜ a beszerzési igény minősítése előtt, a beszerzési igény Portálra történő feltöltésétől számított 3 munkanapon belül az NHIT véleményét kéri.
+(3)[^98] A DKÜ a beszerzési igény minősítése előtt, a beszerzési igény DKÜ alkalmazásra történő feltöltésétől számított 3 munkanapon belül az NHIT véleményét kéri.
 
 (4) Az NHIT a beszerzési igényre vonatkozó véleményét a kézhezvételtől számított 10 munkanapon belül köteles a DKÜ-vel közölni. Az NHIT a véleménye kialakítása előtt a miniszterrel egyeztethet. Az NHIT véleménye szerint a beszerzési igény
 
@@ -20,7 +20,7 @@ Az NHIT a véleménye kialakítása során informatikai szakmai szempontokat és
 
 (6) Ha az NHIT által kért felvilágosítást vagy hiánypótlást a DKÜ az érintett szervezet megkeresése nélkül is képes teljesíteni, a kérés kézhezvételétől számított 2 munkanapon belül a felvilágosítást, illetőleg a hiánypótlást az NHIT-nek megadja, egyébként a DKÜ az érintett szervezetet a kérés kézhezvételétől számított 2 munkanapon belül megkeresi.
 
-(7)[^89] Az érintett szervezet a megkereséstől számított 4 munkanapon belül a DKÜ (6) bekezdése szerinti megkeresésében foglalt felvilágosítást vagy hiánypótlást megadja. A DKÜ felvilágosítást vagy hiánypótlást a kézhezvételtől számított 2 munkanapon belül továbbítja az NHIT részére.
+(7)[^99] Az érintett szervezet a megkereséstől számított 4 munkanapon belül a DKÜ (6) bekezdése szerinti megkeresésében foglalt felvilágosítást vagy hiánypótlást megadja. A DKÜ felvilágosítást vagy hiánypótlást a kézhezvételtől számított 2 munkanapon belül továbbítja az NHIT részére.
 
 (8) Ha a vizsgálat során a DKÜ azt állapítja meg, hogy a beszerzési igény
 
@@ -42,6 +42,8 @@ a beszerzési igényt „nem megfelelő” minősítéssel látja el.
 
 (10) Egyebekben az (1) bekezdés szerinti beszerzés vonatkozásában a 10. § (10)–(20) bekezdés rendelkezései megfelelően alkalmazandóak.
 
-[^87]: A 10/A. §-t a 329/2019. (XII. 20.) Korm. rendelet 23. § (4) bekezdése iktatta be.
-[^88]: A 11. § a 83/2019. (IV. 18.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^89]: A 11. § (7) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 6. § (15) bekezdésével megállapított szöveg.
+[^95]: A 10/A. §-t a 329/2019. (XII. 20.) Korm. rendelet 23. § (4) bekezdése iktatta be.
+[^96]: A 11. § a 83/2019. (IV. 18.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^97]: A 11. § (2) bekezdése a 291/2023. (VII. 6.) Korm. rendelet 17. § d) pontja szerint módosított szöveg.
+[^98]: A 11. § (3) bekezdése a 291/2023. (VII. 6.) Korm. rendelet 17. § d) pontja szerint módosított szöveg.
+[^99]: A 11. § (7) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 6. § (15) bekezdésével megállapított szöveg.

@@ -1,16 +1,16 @@
-28. §[^164] (1) Felhatalmazást kap a miniszter, hogy
+28. §[^175] (1) Felhatalmazást kap a miniszter, hogy
 
-a) az 1. § (4) bekezdés 1. pontja szerinti alkalmazások, valamint az ezekhez kapcsolódó szolgáltatások körét,[^165]
+a) az 1. § (4) bekezdés 1. pontja szerinti alkalmazások, valamint az ezekhez kapcsolódó szolgáltatások körét,[^176]
 
-b) az 1. § (4) bekezdés 7. pontja szerinti informatikai eszközök, valamint az ezekhez kapcsolódó szolgáltatások körét,[^166]
+b) az 1. § (4) bekezdés 7. pontja szerinti informatikai eszközök, valamint az ezekhez kapcsolódó szolgáltatások körét,[^177]
 
-c) az 1. § (4) bekezdés 12. pontja szerinti szoftverek, valamint az ezekhez kapcsolódó szolgáltatások körét[^167]
+c) az 1. § (4) bekezdés 12. pontja szerinti szoftverek, valamint az ezekhez kapcsolódó szolgáltatások körét[^178]
 
 rendelettel állapítsa meg.
 
 (2) Felhatalmazást kap a miniszter, hogy az 5. § (2) és (9) bekezdése szerinti együttműködés kereteiről és feltételeiről az érintett miniszterekkel megállapodjon, és az együttműködés rendjét az érintett miniszter egyetértésével rendelettel szabályozza.
 
-[^164]: A 28. § a 83/2019. (IV. 18.) Korm. rendelet 6. § (7) bekezdésével megállapított szöveg.
-[^165]: Lásd a 2/2019. (VII. 12.) MK rendeletet.
-[^166]: Lásd a 2/2019. (VII. 12.) MK rendeletet.
-[^167]: Lásd a 2/2019. (VII. 12.) MK rendeletet.
+[^175]: A 28. § a 83/2019. (IV. 18.) Korm. rendelet 6. § (7) bekezdésével megállapított szöveg.
+[^176]: Lásd a 2/2019. (VII. 12.) MK rendeletet.
+[^177]: Lásd a 2/2019. (VII. 12.) MK rendeletet.
+[^178]: Lásd a 2/2019. (VII. 12.) MK rendeletet.

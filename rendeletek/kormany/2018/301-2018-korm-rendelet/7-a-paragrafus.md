@@ -1,0 +1,3 @@
+7/A. §[^65] Az érintett szervezet az éves beszerzési és fejlesztési tervének vagy a beszerzésre vonatkozó igényének minősített adatot tartalmazó részét, a 7. § a)–d) pontjától eltérően a tervének, illetve a beszerzési igényének további részétől elkülönítve – a DKÜ alkalmazáson keresztül való megküldés helyett – közvetlenül a miniszter részére küldi meg a 7. § a)–d) pontjában megjelölt határidőben.
+
+[^65]: Az 7/A. §-t a 182/2019. (VII. 26.) Korm. rendelet 6. § (7) bekezdése iktatta be, szövege a 329/2019. (XII. 20.) Korm. rendelet 23. § (2) bekezdésével megállapított, a 291/2023. (VII. 6.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
