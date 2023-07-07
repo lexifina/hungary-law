@@ -107,3 +107,5 @@ i) az alapvető felhasználók elektronikus hírközlési szolgáltatással tör
 40. a kis hatótávolságú, vezeték nélküli hozzáférési pontok kiépítése érdekében a 94. § (7) bekezdése alapján együttműködésre kötelezettek megállapodásának részletes szabályait.
 
 (4) Az Elnök (3) bekezdés szerinti jogalkotási hatáskörébe tartozó, 2011. augusztus 1. napját megelőzően kibocsátott jogszabályok az Elnök által azonos tárgykörben kibocsátott jogszabályok hatálybalépésének napjáig maradnak hatályban, e napig alkalmazhatók.
+
+(5) Felhatalmazást kap az SZTFH elnöke, hogy rendeletben határozza meg az elektronikus hírközlő hálózat üzemeltetője által teljesítendő kiberbiztonsági követelményeket.
