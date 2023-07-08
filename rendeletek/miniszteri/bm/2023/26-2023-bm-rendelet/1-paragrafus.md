@@ -1,3 +1,3 @@
-1. § A háziorvosok és fogorvosok indikátor alapú teljesítményértékeléséről szóló 83/2022. (XII. 30.) BM rendelet (a továbbiakban: R.) 1. § c) pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-(E rendelet alkalmazásában)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

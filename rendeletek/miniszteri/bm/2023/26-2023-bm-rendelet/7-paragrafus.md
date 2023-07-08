@@ -1,5 +1,3 @@
-7. § Hatályát veszti az R.
+7. §[^8]
 
-a) 3. § (2) bekezdés i) és j) pontja,
-
-b) 8. § (8) bekezdése.
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
