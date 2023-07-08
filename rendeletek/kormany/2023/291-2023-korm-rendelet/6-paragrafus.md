@@ -1,3 +1,3 @@
-6. § Az R1. 12. §-a a következő (8) bekezdéssel egészül ki:
+6. §[^7]
 
-„(8) Az EDR-közreműködő a rendelkezésére álló erőforrások kormányzati célú hírközlési szolgáltató részére történő biztosításával köteles a szélessávú mobil adatátviteli EDR-szolgáltatások nyújtásában közreműködni.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-14. § Az R1. 11. § 8. pontjában az „a jóváhagyott általános EDR használati szabályzatban foglaltak alapján” szövegrész helyébe az „az általános EDR használati szabályzatban foglaltak alapján” szöveg lép.
+14. §[^15]
+
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

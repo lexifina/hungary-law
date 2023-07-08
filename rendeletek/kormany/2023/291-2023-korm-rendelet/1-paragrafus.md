@@ -1,5 +1,5 @@
 ## 1. A kormányzati célú hálózatokról szóló 346/2010. (XII. 28.) Korm. rendelet módosítása
 
-1. § A kormányzati célú hálózatokról szóló 346/2010. (XII. 28.) Korm. rendelet (a továbbiakban: R1.) 2. § 12. pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-(E rendelet alkalmazásában:)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

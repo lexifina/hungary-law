@@ -1,5 +1,3 @@
-7. § Az R1. 15. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+7. §[^8]
 
-„(1) Az általános EDR használati szabályzatot és az ez alapján elkészített EDR üzemeltetési szabályzatot a kormányzati célú hírközlési szolgáltató adja ki.
-
-(2) Az általános EDR használati szabályzatban foglaltak alapján a VPN gazda szervezet belső rendelkezésben, utasításban vagy más szabályzatban rögzíti az adott VPN-re vonatkozóan az EDR-eszközök használatbavételének, a VPN üzemeltetésének és használatának szabályait, a VPN felhasználóival kapcsolatos erőforrások (eszközszám, licencek, rendszerkapacitás) elosztását, a VPN biztonsági szabályozását, valamint az adatkezeléssel kapcsolatos általános feladatokat (a továbbiakban: általános VPN használati szabályzat). A VPN gazda szervezet – a kormányzati célú hírközlési szolgáltató kivételével – a VPN használati szabályzat tervezetét a kormányzati célú hírközlési szolgáltatónak jóváhagyás céljából benyújtja. Ha a benyújtott tervezet az általános EDR használati szabályzat követelményeinek megfelel, a kormányzati célú hírközlési szolgáltató az általános VPN használati szabályzatot 30 napon belül jóváhagyja, ellenkező esetben a jóváhagyást elutasítja, és erről megfelelő indokolással tájékoztatja a benyújtót.”
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-3. § Az R1. 8/A. § (7) bekezdése helyébe a következő rendelkezés lép:
+3. §[^4]
 
-„(7) Az e §-ban foglaltak teljesüléséről a kormányzati célú hírközlési szolgáltató gondoskodik.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
