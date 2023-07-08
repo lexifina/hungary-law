@@ -1,1 +1,1 @@
-153. § A választási eljárási szabályoknak az elektronikus ügyintézéssel összefüggő módosításáról szóló 2023. évi XXIV. törvény 77. § (1) bekezdésében a „(2) bekezdésben” szövegrész helyébe a „(2) és (3) bekezdésben” szöveg lép.
+### 153. §

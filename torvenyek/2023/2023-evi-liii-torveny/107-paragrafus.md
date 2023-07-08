@@ -2,4 +2,4 @@
 
 1.
 
-2. 3. § (7) bekezdésében az „a úthasználó” szövegrész helyébe az „az úthasználó” szöveg
+2.

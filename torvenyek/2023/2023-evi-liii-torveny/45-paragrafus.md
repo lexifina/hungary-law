@@ -1,1 +1,1 @@
-45. § A családok támogatásáról szóló 1998. évi LXXXIV. törvény 50/B. § (1) bekezdésében a „hitelintézettől igényelt, 2019. július 1-je és 2022. december 31-e között megkötött hitelszerződés” szövegrész helyébe a „hitelintézettel megkötött kölcsönszerződés” szöveg lép.
+### 45. §

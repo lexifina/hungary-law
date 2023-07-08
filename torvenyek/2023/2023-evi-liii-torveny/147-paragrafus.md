@@ -1,3 +1,1 @@
-147. § Az egyes vagyongazdálkodási kérdésekről, illetve egyes törvényeknek a jogrendszer koherenciájának erősítése érdekében történő módosításáról szóló 2021. évi CI. törvény a 4. alcím címét megelőzően a következő 4/B. §-sal egészül ki:
-
-„4/B. § A 4/A. § (1) bekezdése alapján ingyenesen tulajdonba adott ingatlanon e törvény erejénél fogva határozatlan időre szóló elidegenítési és terhelési tilalom áll fenn. Az elidegenítési és terhelési tilalomnak az átruházó javára szóló ingatlan-nyilvántartásba történő feljegyzését a tulajdonjog bejegyzése iránti kérelem benyújtásával egyidejűleg a tulajdonosi joggyakorló kérelmezi.”
+### 147. §

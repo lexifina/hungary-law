@@ -1,5 +1,1 @@
-32. § A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 82. §-a következő (19) és (20) bekezdéssel egészül ki:
-
-„(19) Az egészségbiztosító e törvénynek a Magyarország 2024. évi központi költségvetésének megalapozásáról szóló 2023. évi LIII. törvénnyel megállapított 30. § (1a) bekezdésének nem megfelelő egészségügyi szolgáltatóval megkötött finanszírozási szerződését az egészségügyi államigazgatási szerv tájékoztatása alapján 2024. június 30. napjával megszünteti. Ezen finanszírozási szerződés alapján az egészségbiztosító elszámolásra köteles.
-
-(20) Az egészségbiztosítás keretében e törvénynek a Magyarország 2024. évi központi költségvetésének megalapozásáról szóló 2023. évi LIII. törvénnyel megállapított 30. § (1a) bekezdésének meg nem felelő, a helyi önkormányzat által biztosított járóbeteg-szakellátás 2024. június 30-áig nyújtható. Az egészségügyi államigazgatási szerv hivatalból jár el a működési engedélyek visszavonása, kiadása és módosítása, valamint a szakellátási kapacitások és területi ellátási kötelezettség megállapítása, módosítása tekintetében.”
+### 32. §

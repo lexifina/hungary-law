@@ -1,1 +1,1 @@
-148. § Az egyes vagyongazdálkodási kérdésekről, illetve egyes törvényeknek a jogrendszer koherenciájának erősítése érdekében történő módosításáról szóló 2021. évi CI. törvény 11. § (1) bekezdésében az „a 4. § (6) bekezdése, az 5. § (2) bekezdése,” szövegrész helyébe az „a 4. § (6) bekezdése, a 4/B. §, az 5. § (2) bekezdése,” szöveg lép.
+### 148. §
