@@ -1,3 +1,3 @@
-44. §[^2]
+44. §[^44]
 
-[^2]: A 44. § a 49. § (2) bekezdés alapján 2023. augusztus 6-án lép hatályba.
+[^44]: A 44. § a 49. § (2) bekezdés alapján 2023. augusztus 6-án lép hatályba.

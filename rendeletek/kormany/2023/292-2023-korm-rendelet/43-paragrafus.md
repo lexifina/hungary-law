@@ -1,3 +1,3 @@
-43. § Az Szkr. a következő 341. §-sal egészül ki:
+43. §[^43]
 
-„341. § A nem állami szakképző intézmény tekintetében a jogszabály alapján igénybe vehető működési támogatás, átlagbér alapú támogatás és ezek összesített egyenlegének rendezése keretében járó támogatás, gyermek- és tanulóétkeztetéshez nyújtott támogatás és a tankönyvtámogatás igénylésére, folyósítására, elszámolására és ellenőrzésére a nemzeti köznevelésről szóló törvény végrehajtásáról szóló 229/2012. (VIII. 28.) Korm. rendelet [a továbbiakban: 229/2012. (VIII. 28.) Korm. rendelet] III/A. Fejezetét kell alkalmazni, azzal, hogy köznevelési alapfeladat alatt a szakképzési alapfeladatot, köznevelési intézmény alatt a szakképző intézményt, pedagógus alatt az oktatót és a pedagógus munkakörben foglalkoztatott alkalmazottat, oktatásért felelős miniszter alatt a szakképzésért felelős minisztert, Oktatási Hivatal alatt a szakképzési államigazgatási szervet, a köznevelés információs rendszere alatt a szakképzés információs rendszerét kell érteni.”
+[^43]: A 43. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

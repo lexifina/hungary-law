@@ -1,5 +1,3 @@
-33. § Az Szkr. a következő 85/A. alcímmel egészül ki:
+33. §[^33]
 
-„85/A. Az Szkt. 90. §-ához
-
-253/A. § A szakképzési előszerződéssel rendelkező tanulót, illetve a képzésben részt vevő személyt azonos eredmény esetén előnyben kell részesíteni a szakképző intézmény által meghirdetett szakmai oktatásra való jelentkezésnél.”
+[^33]: A 33. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

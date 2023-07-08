@@ -1,3 +1,3 @@
-19. § Az Szkr. 113. § (2) bekezdése helyébe a következő rendelkezés lép:
+19. §[^19]
 
-„(2) A foglalkozás ideje negyvenöt perc. A szakképző intézmény ennél rövidebb vagy hosszabb foglalkozást is szervezhet, azzal, hogy a foglalkozás ideje harmincöt percnél nem lehet rövidebb és százharmincöt percnél nem lehet hosszabb. Az ilyen foglalkozásokat a kötelező foglalkozások számításánál negyvenöt perces órákra átszámítva kell figyelembe venni.”
+[^19]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

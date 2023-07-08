@@ -1,166 +1,245 @@
 47. § Az Szkr.
 
-1. 6. § (4) bekezdésében az „a képzésben” szövegrész helyébe az „a tanulók és a képzésben” szöveg,
+1. [^49]
 
-2. 9. § (2) bekezdésében a „nyelven köteles” szövegrész helyébe a „nyelven is köteles” szöveg,
+2. [^50]
 
-3. 14. § (2) bekezdés 2. pont c) alpontjában a „vállalja,” szövegrész helyébe a „vállalja, valamint azt, hogy ha a tanuló valamely tantárgyból sikeres előrehozott érettségi vizsgát tett, a szakképző intézmény magasabb évfolyamán vagy évfolyamismétlés esetén e tantárgy tanulásával kapcsolatban hogyan kell eljárni,” szöveg,
+3. [^51]
 
-4. 14. § (2) bekezdés 2. pont d) alpontjában a „tanuló teljesítményének” szövegrész helyébe a „tanuló, illetve a képzésben részt vevő személy teljesítményének” szöveg,
+4. [^52]
 
-5. 14. § (2) bekezdés 4. pontjában az „alapján.” szövegrész helyébe az „alapján, valamint” szöveg,
+5. [^53]
 
-6. 20. § (1) bekezdésében az „az Fktv.” szövegrész helyébe az „a felnőttképzésről szóló 2013. évi LXXVII. törvény (a továbbiakban: Fktv.)” szöveg,
+6. [^54]
 
-7. [^4]
+7. [^55]
 
-8. 28. § (3) bekezdés e) pontjában a „tantárgyakat és ezek év végi szöveges” szövegrész helyébe a „tantárgyak megnevezését és” szöveg,
+8. [^56]
 
-9. 28. § (6) bekezdésében a „címét,” szövegrész helyébe a „címét és” szöveg és az „idejét, valamint” szövegrész helyébe az „idejét, az alkalmazandó képzési és kimeneti követelmények megjelölésére való utalást, valamint” szöveg,
+9. [^57]
 
-10. 30. § (1) bekezdésében az „az órarendnek megfelelően” szövegrész helyébe az „– az Szkt. 53. § (4) bekezdése szerinti zárt rendszerű elektronikus távoktatásként megszervezett foglalkozások kivételével –” szöveg,
+10. [^58]
 
-11. 35. § (1) bekezdésében az „oklevél, illetve a szakmai bizonyítvány” szövegrész helyébe az „oklevél, a szakmai bizonyítvány, illetve a képesítő bizonyítvány” szöveg, a „szakmai vizsga nyelvén” szövegrész helyébe a „szakmai vizsga vagy a képesítő vizsga nyelvén” szöveg és az „Europass oklevél-kiegészítőt, illetve Europass szakmaibizonyítvány-kiegészítő” szövegrész helyébe az „Europass oklevél-kiegészítőt, Europass szakmaibizonyítvány-kiegészítőt, illetve Europass képesítőbizonyítvány-kiegészítőt” szöveg,
+11. [^59]
 
-12. 35. § (2) bekezdésében az „Europass-kiegészítőt akkreditált” szövegrész helyébe az „Europass-kiegészítőt az akkreditált” szöveg,
+12. [^60]
 
-13. [^5]
+13. [^61]
 
-14. 40. § (1) bekezdésében a „34. §-t, a 36–39. §-t” szövegrész helyébe a „34–39. §-t” szöveg,
+14. [^62]
 
-15. 40. § (2) bekezdésében az „a felnőttképzésről szóló törvény végrehajtásáról szóló 11/2020. (II. 7.) Korm. rendelet 1. melléklete” szövegrész helyébe az „az Fktv.” szöveg,
+15. [^63]
 
-16. 46. §-ában a „csökkentéséhez.” szövegrész helyébe a „csökkentéséhez. A tájékoztatást a tanuló esetében a megelőző tanítási év végén, a képzésben részt vevő személy esetében a felnőttképzési szerződés megkötésekor kell közölni.” szöveg,
+16. [^64]
 
-17. 48. § (2) bekezdés nyitó szövegrészében a „bevonásával háromévente” szövegrész helyébe a „bevonásával legalább háromévente” szöveg,
+17. [^65]
 
-18. 52/A. § (2) bekezdésében az „évfolyamába” szövegrész helyébe a „szakmai oktatásába” szöveg,
+18. [^66]
 
-19. 53. § (5) bekezdésében az „ösztöndíj felére” szövegrész helyébe az „ösztöndíjra” szöveg,
+19. [^67]
 
-20. 62. § (1) bekezdés b) pont bb) alpontjában az „a szakképző” szövegrész helyébe az „a nem állami szakképző” szöveg,
+20. [^68]
 
-21. 62. § (5) bekezdésében az „A fenntartó” szövegrész helyébe az „Az alapító” szöveg,
+21. [^69]
 
-22. 64. § (1) bekezdés nyitó szövegrészében az „alkalmasság” szövegrész helyébe a „képesség” szöveg,
+22. [^70]
 
-23. 64. § (2) bekezdésében az „alkalmasság” szövegrész helyébe a „képesség” szöveg,
+23. [^71]
 
-24. XI. Fejezet címében az „INTÉZMÉNY FENNTARTÓI IRÁNYÍTÁSI HATÁSKÖRÉNEK ÁTADÁSA, MEGSZÜNTETÉSE ÉS ÁTSZERVEZÉSE” szövegrész helyébe az „INTÉZMÉNY ÁTALAKÍTÁSA, MEGSZÜNTETÉSE ÉS FENNTARTÓI IRÁNYÍTÁSI HATÁSKÖRÉNEK ÁTADÁSA” szöveg,
+24. [^72]
 
-25. 67. § (2) bekezdésében a „tekintetében a” szövegrész helyébe a „megszüntetéséről és” szöveg és a „hatáskör átadása, megszüntetése és átszervezése esetén” szövegrész helyébe a „hatáskörének átadásáról” szöveg,
+25. [^73]
 
-26. XIII. Fejezet címében az „A” szövegrész helyébe az „AZ ÁLLAMI” szöveg,
+26. [^74]
 
-27. 77. § (1) bekezdésében a „három tanév” szövegrész helyébe a „három egymást követő tanév” szöveg,
+27. [^75]
 
-28. 77. § (3) bekezdés b) pont bc) alpontjában a „négyévenként legalább egy alkalommal ellenőrzi” szövegrész helyébe az „ellátja” szöveg, a „gazdálkodását, és ennek keretében ellátja” szövegrész helyébe az „előirányzat- és vagyongazdálkodásával, valamint költségvetési beszámolójával kapcsolatosan” szöveg és az „előirányzat- és vagyongazdálkodási feladatokat is” szövegrész helyébe a „feladatokat” szöveg,
+28. [^76]
 
-29. 77. § (3) bekezdés b) pont bd) alpontjában az „ellátja a szakképzési centrum költségvetési beszámolójával kapcsolatos irányító szervi feladatokat, és gondoskodik azok határidőre történő benyújtásáról, felülvizsgálatáról és a szakképzésért felelős miniszter részére történő továbbításáról” szövegrész helyébe a „négyévenként legalább egy alkalommal ellenőrzi a szakképzési centrum gazdálkodását” szöveg,
+29. [^77]
 
-30. 78. § (1) bekezdés a) pontjában a „hatáskör tekintetében” szövegrész helyébe a „hatáskör, a szakképző intézmény gazdálkodásának ellenőrzése, továbbá az Szkt. 26. § (5) bekezdése szerinti egyetértési jogkör tekintetében” szöveg,
+30. [^78]
 
-31. 81. § (1) bekezdés 1. pontjában a „szakképzési alapfeladatok” szövegrész helyébe a „szakmai munka” szöveg,
+31. [^79]
 
-32. 32. alcím címében a „27. § (1) bekezdéséhez” szövegrész helyébe a „27. §-ához” szöveg,
+32. [^80]
 
-33. 98. § (1) bekezdésében a „szabályozza.” szövegrész helyébe a „szabályozza. Az iratkezelési szabályzatban rendelkezni kell az elektronikus úton előállított, hitelesített és tárolt iratok kezelési rendjéről.” szöveg,
+33. [^81]
 
-34. 109. § (4) bekezdésében az „ , írásban tájékoztatni kell” szövegrész helyébe a „kell tájékoztatni” szöveg,
+34. [^82]
 
-35. 127. § (1) bekezdés b) pontjában az „intézményvezetői gyakorlatot” szövegrész helyébe a „vezetői gyakorlatot” szöveg,
+35. [^83]
 
-36. 142. § (4) bekezdésében a „közzéteszi” szövegrész helyébe a „folyamatosan naprakészen kell közzétenni” szöveg,
+36. [^84]
 
-37. 163. § (2) bekezdésében a „Ha a tanuló” szövegrész helyébe a „Ha a tanköteles tanuló” szöveg, az „az öt” szövegrész helyébe az „a tíz” szöveg és a „ , tanköteles tanuló esetén –” szövegrész helyébe az „és – a” szöveg,
+37. [^85]
 
-38. 163. § (3) bekezdésében a „tizenöt” szövegrész helyébe a „harminc” szöveg,
+38. [^86]
 
-39. 168. § (1) bekezdés a) pontjában a „programtantervben meghatározott” szövegrész helyébe a „képzési” szöveg,
+39. [^87]
 
-40. 174. § (2) bekezdésében a „követő” szövegrész helyébe a „követően az adott szakmai vizsgaidőszak utolsó napjától számított” szöveg,
+40. [^88]
 
-41. 195. § (1) bekezdésében az „a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.)” szövegrész helyébe az „az Nkt.” szöveg,
+41. [^89]
 
-42. 195. § (5) bekezdés a) pontjában a „közismereti oktatásban, illetve az ágazati alapoktatásban” szövegrész helyébe a „szakmai oktatásban” szöveg,
+42. [^90]
 
-43. 196. § (1) bekezdésében a „kötelezettségszegés” szövegrészek helyébe a „kötelességszegés” szöveg,
+43. [^91]
 
-44. 200. § (3) bekezdésében a „lehetőségére,” szövegrész helyébe a „lehetőségére. Az egyeztető eljárás célja a kötelességszegéshez elvezető események feldolgozása,” szöveg és a „céljára, az igénybevétel bejelentésének határidejére” szövegrész helyébe az „értékelése, ennek alapján a kötelességszegéssel gyanúsított és a sérelmet elszenvedő személy közötti megállapodás létrehozása a sérelem orvoslása érdekében” szöveg,
+44. [^92]
 
-45. 200. § (4) bekezdésében a „Ha a felfüggesztés” szövegrész helyébe a „Ha az egyeztető eljárásban a sérelem orvoslására vonatkozó megállapodás született vagy ennek hiánya esetén a felfüggesztés” szöveg, a „fél” szövegrészek helyébe a „személy” szöveg és az „eljárást meg kell szüntetni” szövegrész helyébe az „eljárás megszűnik” szöveg,
+45. [^93]
 
-46. 200. § (6) bekezdésében a „fél” szövegrész helyébe a „személy” szöveg,
+46. [^94]
 
-47. 204. § (2) bekezdés a) pontjában az „el,” szövegrész helyébe az „el, vagy” szöveg,
+47. [^95]
 
-48. 204. § (2) bekezdés b) pontjában az „elbírálta, vagy” szövegrész helyébe az „elbírálta.” szöveg,
+48. [^96]
 
-49. 208. §-ában a „büntetés szociális” szövegrész helyébe a „büntetés a diákigazolványra való jogosultságra, továbbá a szociális” szöveg,
+49. [^97]
 
-50. 214. § (2) bekezdésében az „újabb eljárásban” szövegrészek helyébe az „újabb fegyelmi eljárásban” szöveg és a „kiszabott büntetés” szövegrész helyébe a „kiszabott fegyelmi büntetés” szöveg,
+50. [^98]
 
-51. 216. § (8) bekezdésében a „diákönkormányzatok jogosultak” szövegrész helyébe a „diákönkormányzat jogosult más diákönkormányzattal” szöveg,
+51. [^99]
 
-52. 221. §-ában a „megszervezni.” szövegrész helyébe a „megszervezni. A kizárólag szakmai vizsgára felkészítő szakmai oktatásban közismereti oktatás felnőttképzési jogviszony keretében nem szervezhető.” szöveg,
+52. [^100]
 
-53. 77. alcím címében a „76. §-ához” szövegrész helyébe a „75. §-ához” szöveg,
+53. [^101]
 
-54. 228/A. §-ában az „a gyakorlat igazolatlan” szövegrész helyébe az „az egybefüggő gyakorlat” szöveg,
+54. [^102]
 
-55. 239. § (1) bekezdés záró szövegrészében a „képzési és kimeneti követelményekre” szövegrész helyébe a „szakmai vizsgára” szöveg,
+55. [^103]
 
-56. 244. § (2) bekezdésében a „szakképzési tájékoztatási és információs központ keretében működtetett honlapon” szövegrész helyébe a „saját honlapján” szöveg,
+56. [^104]
 
-57. 247. § (1a) bekezdés c) pontjában az „a 248. § (1) bekezdésében” szövegrész helyébe az „az Szkt. 90/A. § (1) bekezdés a) pontjában” szöveg,
+57. [^105]
 
-58. 251. §-ában a „regisztrációs és tanulmányi alaprendszerben rögzített” szövegrész helyébe a „megkötött szakképzési” szöveg,
+58. [^106]
 
-59. 252/B. § c) pontjában a „tanulmányokat befejező szakmai vizsgája napján” szövegrész helyébe a „vizsgát közvetlenül megelőző három munkanapon” szöveg,
+59. [^107]
 
-60. 254. §-ában az „A szakképzési előszerződéssel rendelkező tanulót, illetve a képzésben részt vevő személyt azonos eredmény esetén előnyben kell részesíteni a szakképző intézmény által meghirdetett képzésekkel kapcsolatos felvételi eljárásban” szövegrész helyébe az „Az Szkt. 90/A. § (1) bekezdés b) pontja szerinti foglalkoztatóra az Szkt. 82. §-át, 109/A. §-át, valamint a 181. §-t, a 196. § (2) bekezdését, a 223/B. §-t, a 242. § (1) bekezdés d) pontját, a 244. §-t, a 245. §-t, a 328. §-t, a 330. §-t, a 332/D. §-t nem kell alkalmazni” szöveg,
+60. [^108]
 
-61. 260. § (2) bekezdésében a „feladatainak és javítási-értékelési útmutatójának elkészítéséről a szakképzésért felelős miniszter – a Kormány adott ágazatért felelős tagjának egyetértésével –” szövegrész helyébe a „feladatainak, javítási-értékelési útmutatójának és egyéb dokumentumainak elkészítéséről a szakképzésért felelős miniszter a Nemzeti Szakképzési és Felnőttképzési Hivatal útján” szöveg,
+61. [^109]
 
-62. 264. § (2) bekezdésében az „eredménye jelesnek” szövegrész helyébe az „eredménye – a versenyfelhívásban meghatározott százalékos eredménnyel – jelesnek” szöveg,
+62. [^110]
 
-63. 272. § (4) bekezdésében a „szakma tekintetében” szövegrész helyébe a „szakma képzési területe tekintetében” szöveg,
-
-64. 288. §-ában az „A szakmai vizsga díja vizsgázónként” szövegrész helyébe az „Az olyan tanuló, illetve képzésben részt vevő személy szakmai vizsgájának díja, aki a szakmai oktatásban ingyenesen vesz részt,” szöveg,
-
-65. 289. § (2) bekezdésében a „szakképzési államigazgatási szerv az elektronikus vizsgarendszer adatai alapján” szövegrész helyébe a „szakképző intézmény” szöveg,
-
-66. 298. § (1) bekezdés a) pont aa) alpontjában a „kidolgozza és gondozza” szövegrész helyébe a „meghatározza” szöveg,
-
-67. 301. § nyitó szövegrészében a „mű) akkor” szövegrész helyébe a „mű) tankönyvként akkor” szöveg,
-
-68. 308. § (1) bekezdés 6. pontjában a „nagyvállalatok” szövegrész helyébe a „nagyvállalkozások” szöveg,
-
-69. 312. § (1) bekezdés a) pontjában az „összesen” szövegrész helyébe az „egy főt a szakképzésért felelős miniszter és összesen” szöveg és a „négy” szövegrész helyébe a „három” szöveg,
-
-70. 109/A. alcím címében a „108/A. §-ához” szövegrész helyébe a „109/A. §-ához” szöveg,
-
-71. 332/A. § (3) bekezdés nyitó szövegrészében az „Az” szövegrész helyébe a „Tanulói jogviszonyban az” szöveg és a „képzési ideje” szövegrész helyébe az „időtartama” szöveg,
-
-72. 332/A. § (4) bekezdésében a „3” szövegrész helyébe a „3a” szöveg,
-
-73. 336. § (3) bekezdés b) pontjában a „három tanév” szövegrész helyébe a „három egymást követő tanév” szöveg,
-
-74. 347. § (1) bekezdésében a „kamara, valamint” szövegrész helyébe a „kamara, az IKK Innovatív Képzéstámogató Központ Zártkörűen Működő Részvénytársaság, valamint” szöveg,
-
-75. 355/A. §-ában a „2019/2020.” szövegrész helyébe a „2020/2021.” szöveg,
-
-76. 1. mellékletében foglalt táblázat H:1–I:1 mezőjében az „időtartama” szövegrész helyébe az „időtartama tanulói jogviszonyban” szöveg,
-
-77. 1. mellékletében foglalt táblázat H:2 mezőjében az „alapfokú iskolai végzettséggel” szövegrész helyébe az „az Szkt. 20. § (1) bekezdés a) pontja és 21. § (1) bekezdés a) pontja szerinti szakmai oktatásban” szöveg,
-
-78. 1. mellékletében foglalt táblázat I:2 mezőjében az „érettségi végzettséggel” szövegrész helyébe az „az Szkt. 20. § (1) bekezdés b) pontja és 21. § (1) bekezdés b) pontja szerinti szakmai oktatásban” szöveg,
-
-79. 1. mellékletében foglalt táblázat G:14 mezőjében az „Audiológiai asszisztens” szövegrész helyébe az „Audiológiai asszisztens és hallásakusztikus” szöveg,
-
-80. 1. mellékletében foglalt táblázat H:141a mezőjében a „3 év” szövegrész helyébe a „4 év” szöveg,
-
-81. 1. mellékletében foglalt táblázat I:141a mezőjében a „2 év” szövegrész helyébe a „3 év” szöveg
-
-[^4]: A 47. § 7. pontja a 49. § (2) bekezdés alapján 2023. augusztus 6-án lép hatályba.
-[^5]: A 47. § 13. pontja a 49. § (2) bekezdés alapján 2023. augusztus 6-án lép hatályba.
+63. [^111]
+
+64. [^112]
+
+65. [^113]
+
+66. [^114]
+
+67. [^115]
+
+68. [^116]
+
+69. [^117]
+
+70. [^118]
+
+71. [^119]
+
+72. [^120]
+
+73. [^121]
+
+74. [^122]
+
+75. [^123]
+
+76. [^124]
+
+77. [^125]
+
+78. [^126]
+
+79. [^127]
+
+80. [^128]
+
+81. [^129]
+
+[^49]: A 47. § 1. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^50]: A 47. § 2. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^51]: A 47. § 3. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^52]: A 47. § 4. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^53]: A 47. § 5. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^54]: A 47. § 6. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^55]: A 47. § 7. pontja a 49. § (2) bekezdés alapján 2023. augusztus 6-án lép hatályba.
+[^56]: A 47. § 8. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^57]: A 47. § 9. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^58]: A 47. § 10. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^59]: A 47. § 11. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^60]: A 47. § 12. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^61]: A 47. § 13. pontja a 49. § (2) bekezdés alapján 2023. augusztus 6-án lép hatályba.
+[^62]: A 47. § 14. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^63]: A 47. § 15. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^64]: A 47. § 16. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^65]: A 47. § 17. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^66]: A 47. § 18. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^67]: A 47. § 19. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^68]: A 47. § 20. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^69]: A 47. § 21. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^70]: A 47. § 22. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^71]: A 47. § 23. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^72]: A 47. § 24. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^73]: A 47. § 25. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^74]: A 47. § 26. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^75]: A 47. § 27. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^76]: A 47. § 28. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^77]: A 47. § 29. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^78]: A 47. § 30. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^79]: A 47. § 31. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^80]: A 47. § 32. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^81]: A 47. § 33. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^82]: A 47. § 34. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^83]: A 47. § 35. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^84]: A 47. § 36. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^85]: A 47. § 37. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^86]: A 47. § 38. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^87]: A 47. § 39. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^88]: A 47. § 40. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^89]: A 47. § 41. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^90]: A 47. § 42. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^91]: A 47. § 43. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^92]: A 47. § 44. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^93]: A 47. § 45. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^94]: A 47. § 46. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^95]: A 47. § 47. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^96]: A 47. § 48. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^97]: A 47. § 49. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^98]: A 47. § 50. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^99]: A 47. § 51. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^100]: A 47. § 52. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^101]: A 47. § 53. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^102]: A 47. § 54. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^103]: A 47. § 55. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^104]: A 47. § 56. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^105]: A 47. § 57. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^106]: A 47. § 58. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^107]: A 47. § 59. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^108]: A 47. § 60. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^109]: A 47. § 61. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^110]: A 47. § 62. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^111]: A 47. § 63. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^112]: A 47. § 64. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^113]: A 47. § 65. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^114]: A 47. § 66. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^115]: A 47. § 67. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^116]: A 47. § 68. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^117]: A 47. § 69. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^118]: A 47. § 70. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^119]: A 47. § 71. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^120]: A 47. § 72. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^121]: A 47. § 73. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^122]: A 47. § 74. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^123]: A 47. § 75. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^124]: A 47. § 76. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^125]: A 47. § 77. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^126]: A 47. § 78. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^127]: A 47. § 79. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^128]: A 47. § 80. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^129]: A 47. § 81. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

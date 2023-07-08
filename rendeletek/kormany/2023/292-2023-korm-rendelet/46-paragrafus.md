@@ -1,7 +1,9 @@
-46. § (1) Az Szkr. 1. melléklete az 1. melléklet szerint módosul.
+46. § (1)[^46]
 
-(2) Az Szkr. 3. melléklete helyébe a 2. melléklet lép.
+(2)[^47]
 
-(3)[^3]
+(3)[^48]
 
-[^3]: A 46. § (3) bekezdése a 49. § (2) bekezdés alapján 2023. augusztus 6-án lép hatályba.
+[^46]: A 46. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^47]: A 46. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^48]: A 46. § (3) bekezdése a 49. § (2) bekezdés alapján 2023. augusztus 6-án lép hatályba.

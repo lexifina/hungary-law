@@ -1,3 +1,3 @@
-30. § Az Szkr. 247. § (2) bekezdése helyébe a következő rendelkezés lép:
+30. §[^30]
 
-„(2) A szakképzési munkaszerződéssel rendelkező tanulókat, illetve a képzésben részt vevő személyeket az átlagos állományi létszámba nem lehet beleszámítani. Ha valamely költségvetési támogatás feltétele meglévő munkahely megtartása vagy új munkahely létrehozása, a támogatási szerződés, illetve a támogatói okirat rendelkezhet úgy, hogy e feltétel teljesítésébe a szakképzési munkaszerződéssel rendelkező tanulót, illetve képzésben részt vevő személyt az átlagos állományi létszámba be kell számítani, ha a szakképzési munkaszerződés alapján történő foglalkoztatás a heti tizenöt órát eléri vagy meghaladja.”
+[^30]: A 30. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

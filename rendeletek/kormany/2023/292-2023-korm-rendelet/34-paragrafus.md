@@ -1,3 +1,3 @@
-34. § Az Szkr. 86. alcím címe helyébe a következő alcím cím lép:
+34. §[^34]
 
-„86. Az Szkt. 90/A. §-ához”
+[^34]: A 34. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

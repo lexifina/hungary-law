@@ -1,3 +1,5 @@
 ## 1. Az érettségi vizsga vizsgaszabályzatának kiadásáról szóló 100/1997. (VI. 13.) Korm. rendelet módosítása
 
-1. § Az érettségi vizsga vizsgaszabályzatának kiadásáról szóló 100/1997. (VI. 13.) Korm. rendelet 1. számú melléklet II. Záradékok rész 16. pontjában a „kiadott bizonyítvány” szövegrész helyébe a „vagy szakmáról kiadott bizonyítvány vagy sikeres szakmai vizsga” szöveg lép.
+1. §[^1]
+
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

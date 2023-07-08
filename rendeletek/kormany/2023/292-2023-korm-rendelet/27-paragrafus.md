@@ -1,3 +1,3 @@
-27. § Az Szkr. a 223/B. §-át megelőzően a következő alcím címmel egészül ki:
+27. §[^27]
 
-„77/A. Az Szkt. 76. §-ához”
+[^27]: A 27. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

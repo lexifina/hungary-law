@@ -1,3 +1,3 @@
-26. § Az Szkr. a következő 222/A. §-sal egészül ki:
+26. §[^26]
 
-„222/A. § Mentesül az ágazati alapoktatásban való részvétel alól az a tanuló, illetve képzésben részt vevő személy, aki részszakmát szerzett, ha az adott részszakmát magában foglaló szakma szakmai oktatásában vesz részt.”
+[^26]: A 26. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-40. § Az Szkr. 321. § (1) bekezdése a következő 14. ponttal egészül ki:
+40. §[^40]
 
-(Az országos szakmai tanulmányi verseny versenyszabályzata és versenyfelhívása tartalmazza)
+[^40]: A 40. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

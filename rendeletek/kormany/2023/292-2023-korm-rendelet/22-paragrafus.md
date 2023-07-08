@@ -1,3 +1,3 @@
-22. § Az Szkr. 142. §-a a következő (3a) bekezdéssel egészül ki:
+22. §[^22]
 
-„(3a) A továbbképzési kötelezettségét teljesítettnek kell tekinteni annak az oktatónak, aki a felsőoktatás keretében felsőoktatási szakképzésben felsőfokú szakképzettséget vagy szakirányú továbbképzésben szakirányú szakképzettséget szerzett.”
+[^22]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
