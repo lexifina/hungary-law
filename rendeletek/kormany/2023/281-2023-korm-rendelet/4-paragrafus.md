@@ -1,1 +1,3 @@
-4. § Hatályát veszti a Szociális és Gyermekvédelmi Főigazgatóságról szóló 316/2012. (XI. 13.) Korm. rendelet 8. § (2) bekezdésében az „Az EMET-hez kerülő közfeladatok ellátására foglalkoztatott kormánytisztviselők foglalkoztatási jogviszonya – a kormányzati igazgatási szerv érintett szervezete, illetve tevékenysége esetében bekövetkező változás miatti jogviszonyváltásra tekintettel – a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 114. § (1) bekezdése alapján 2019. augusztus 1-jén közalkalmazotti jogiszonnyá alakul át. A jogutódlással kapcsolatos részletes rendelkezéseket a Főigazgatóság és az EMET közötti, 2019. július 31-ig megkötendő átadás-átvételi megállapodás rögzíti.” szövegrész.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
