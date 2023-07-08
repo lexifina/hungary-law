@@ -1,3 +1,3 @@
-3. § A Vhr. 6/E. §-a a következő (3) bekezdéssel egészül ki:
+3. §[^4]
 
-„(3) E § rendelkezéseit alkalmazni kell a hevített dohánytermékre is.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

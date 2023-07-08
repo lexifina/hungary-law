@@ -1,3 +1,3 @@
-5. § A Vhr. 23. § (1) bekezdése a következő h) ponttal egészül ki:
+5. §[^6]
 
-(Ez a rendelet)
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
