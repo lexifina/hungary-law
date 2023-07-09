@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-5-20-5Z
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2023-04-22 | 2023-5-20-5Z.1 | 5/2023. (IV. 6.) MEKH rendelet |
+| 2023-07-09 | 2023-5-20-5Z.2 | 18/2023. (XI. 30.) MEKH rendelet |
