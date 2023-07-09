@@ -12,7 +12,7 @@
 
 | 6. | Nagyerőművi negyedéves költségmonitoring | V203 | Negyedéves | Az adatokat negyedévente, a tárgyidőszakot követő hónap 20. napjáig kell megadni. |
 
-| 7. | Tulajdon-megoszlás – nagyerőmű | V204 | Féléves | Az adatokat évente kétszer (a cégbíróságon bejegyzett június 30. és december 31. napokon érvényes állapotra vonatkozóan), a tárgyidőszakot követő hónap 10. napjáig kell megadni. |
+| 7. | Tulajdon-megoszlás – nagyerőmű | V204 | Féléves | Az adatokat a tárgyidőszakot követő hónap 10. napjáig – a cégbíróságon bejegyzett június 30-i és december 31-i állapotra vonatkozóan – kell megadni. |
 
 | 8. | Munkaügyi adatok | V205 | Éves | Az adatokat a tárgyidőszakot követő év január 31. napjáig kell megadni. |
 
@@ -52,7 +52,7 @@
 
 | 6. | Nagyerőművi negyedéves költségmonitoring | V203 | Negyedéves | Az adatokat negyedévente, a tárgyidőszakot követő hónap 20. napjáig kell megadni. |
 
-| 7. | Tulajdon-megoszlás – nagyerőmű | V204 | Féléves | Az adatokat évente kétszer (a cégbíróságon bejegyzett június 30. és december 31. napokon érvényes állapotra vonatkozóan), a tárgyidőszakot követő hónap 10. napjáig kell megadni. |
+| 7. | Tulajdon-megoszlás – nagyerőmű | V204 | Féléves | Az adatokat a tárgyidőszakot követő hónap 10. napjáig – a cégbíróságon bejegyzett június 30-i és december 31-i állapotra vonatkozóan – kell megadni. |
 
 | 8. | Munkaügyi adatok | V205 | Éves | Az adatokat a tárgyidőszakot követő év január 31. napjáig kell megadni. |
 

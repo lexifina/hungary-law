@@ -24,9 +24,9 @@
 
 | 12. | Határkeresztező gázszállítás földgázvezeték-beruházások adatai | G421 | Éves | Az adatokat évente, a tárgyidőszak június 30-ig kell megadni. |
 
-| 13. | A gázátadókon október 1. és március 30. közötti időszakban mért legmagasabb napi és órai adatai gázátadónként, illetve az ország | G424 | Éves | Az adatokat gáznapra vonatkozóan naponta a gáznapot követő harmadik napig kell megadni. |
+| 13.[^30] | A gázátadókon október 1. és március 30. közötti időszakban mért legmagasabb napi és órai adatai gázátadónként, illetve az országos legmagasabb fogyasztás | G424 | Éves | Az adatokat évente, a tárgyidőszakot követő év április 15-ig kell megadni. |
 
-| 14. | Az aktuális gázévre lekötött és az azt követő 9 évre előrejelzett, rendszerhasználónként kimutatott szállítóvezetéki kapacitásig | G425 | Éves | Az adatokat évente, a tárgyidőszak október 15-ig kell megadni. |
+| 14.[^31] | Az aktuális gázévre lekötött és az azt követő 9 évre előrejelzett, rendszerhasználónként kimutatott szállítóvezetéki kapacitásigény, betáplálási és kiadási pontonként | G425 | Éves | Az adatokat évente, a tárgyidőszakot követő év március 15-ig kell megadni. |
 
 | 15. | Szállítóvezeték 5 éves kapacitás fejlesztési terv | G426 | Éves | Az adatokat évente, a tárgyidőszakot követő év március 31-ig kell megadni. |
 
@@ -42,7 +42,7 @@
 
 | 21. | MA_BALANCING_BY_PARTNER | G460 | Napi | Az adatokat naponta, a gáznapot követő gáznap 15. gázórájáig kell megadni. |
 
-| 22. | MA_BALANCING_BY_PARTNER_NP | G461 | Napi | Az adatokat naponta, a tárgyhónapot követő hónap 60. napjáig kell megadni. |
+| 22.[^32] | MA_BALANCING_BY_PARTNER_NP | G461 | Napi | Az adatokat naponta, a tárgyhónapot követő hónap 90. napjáig kell megadni. |
 
 | 23. | MA_BALANCING_GAS_PRICE | G462 | Napi | Az adatokat naponta, a gáznapot követő gáznap 15. gázórájáig kell megadni. |
 
@@ -81,3 +81,7 @@
 18. melléklet az 1/2023. (IV. 5.) MEKH rendelethez
 
 I. A földgázelosztói engedélyes adatszolgáltatási kötelezettsége
+
+[^30]: A 17. mellékletben foglalt táblázat 13. sora a 9/2023. (VI. 23.) MEKH rendelet 5. § f) pontjával megállapított szöveg.
+[^31]: A 17. mellékletben foglalt táblázat 14. sora a 9/2023. (VI. 23.) MEKH rendelet 5. § f) pontjával megállapított szöveg.
+[^32]: A 17. mellékletben foglalt táblázat 22. sora a 9/2023. (VI. 23.) MEKH rendelet 5. § f) pontjával megállapított szöveg.

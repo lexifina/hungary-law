@@ -148,6 +148,13 @@
 
 | 74. | Kapacitásár információ a kiegyenlítő szabályozási szolgáltatások tender eredményeiről – LE | V490B | Napi | Az adatokat naponta, a tárgyidőszakot követő második nap 17:00-ig kell megadni. |
 
+| 75.[^22] | Rendszerszintű szolgáltatások – Beadott – utolsó érvényes – energia ajánlati adatok piaci szereplőnként POZITÍV (FEL) irányba | V486E | Napi | Az adatokat a tárgyidőszakot követő 3. nap 17:00-ig kell megadni. |
+
+| 76.[^23] | Rendszerszintű szolgáltatások – Beadott – utolsó érvényes – energia ajánlati adatok piaci szereplőnként NEGATÍV (LE) irányba | V486F | Napi | Az adatokat a tárgyidőszakot követő 3. nap 17:00-ig kell megadni. |
+
 6. melléklet az 1/2023. (IV. 5.) MEKH rendelethez
 
 I. A villamos energia elosztói engedélyes EIA adatgyűjtő alrendszer útján teljesítendő adatszolgáltatási kötelezettsége
+
+[^22]: Az 5. mellékletben foglalt táblázat 75. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § c) pontja iktatta be.
+[^23]: Az 5. mellékletben foglalt táblázat 76. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § c) pontja iktatta be.

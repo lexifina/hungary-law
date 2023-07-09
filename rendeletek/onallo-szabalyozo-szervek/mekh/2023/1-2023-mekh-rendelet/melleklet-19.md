@@ -66,6 +66,8 @@
 
 | 33. | Kikapcsolt felhasználók | G580 | Havi | Az adatokat havonta, a tárgyidőszakot követő hónap 25-ig kell megadni. |
 
+| 34.[^33] | Nem lakossági felhasználóknak átadott földgáz mennyisége – heti adatok | G511C | Heti | Az adatokat hetente, a tárgyidőszakot követő kedd 23:59-ig kell megadni. |
+
 ## II. A Hivatal által kiadott, „Egyedi felhasználókat érintő minimális minőségi követelmények meghatározása” tárgyú és az „Ügyfélkapcsolati szolgáltatás-minőség minimális minőségi követelményének és elvárt színvonalának meghatározása” tárgyú határozatokkal rendelkező földgázelosztói engedélyes adatszolgáltatási kötelezettsége
 
 |  | A | B | C | D |
@@ -144,6 +146,11 @@
 
 | 37. | Kikapcsolt felhasználók | G580 | Havi | Az adatokat havonta, a tárgyidőszakot követő hónap 25-ig kell megadni. |
 
+| 38.[^34] | Nem lakossági felhasználóknak átadott földgáz mennyisége – heti adatok | G511C | Heti | Az adatokat hetente, a tárgyidőszakot követő kedd 23:59-ig kell megadni. |
+
 19. melléklet az 1/2023. (IV. 5.) MEKH rendelethez
 
 I. A korlátozott földgáz-kereskedelmi működési engedélyes adatszolgáltatási kötelezettsége
+
+[^33]: A 18. melléklet I. pontjában foglalt táblázat 34. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § g) pontja iktatta be.
+[^34]: A 18. melléklet II. pontjában foglalt táblázat 38. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § g) pontja iktatta be.

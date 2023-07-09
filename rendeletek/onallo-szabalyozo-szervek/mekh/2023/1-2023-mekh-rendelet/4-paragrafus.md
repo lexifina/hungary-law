@@ -1,7 +1,7 @@
-4. § (1) Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: Eüsztv.) 9. §-a alapján elektronikus kapcsolattartásra kötelezett adatszolgáltató adatszolgáltatási kötelezettségét az e rendeletben előírt határidőben – a (2) és (3) bekezdésben meghatározott kivétellel – a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) Energiainformációs Adattára (a továbbiakban: EIA) adatgyűjtő alrendszerének útján, az Eüsztv. 25. § (3) bekezdés c) pontja szerinti Központi Azonosítási Ügynök szolgáltatáson keresztül történő azonosítással teljesíti.
+4. §[^1] (1) A rendszeres adatszolgáltatási kötelezettség során teljesítendő adatok körét, az adatszolgáltatás teljesítésének gyakoriságát és határidejét a 10–12. § és a 2–23. melléklet tartalmazza.
 
-(2) Az Eüsztv. 9. §-a szerint elektronikus kapcsolattartásra kötelezett adatszolgáltatónak az (1) bekezdés helyett – választása szerint, a Hivatalhoz tett külön nyilatkozata alapján – lehetősége van az EIA, valamint a Hivatal Hálózati Veszteség Információs Adattára (a továbbiakban: HVIA) adatgyűjtő alrendszerhez szerver-szerver kapcsolaton keresztül kapcsolódni, és adatszolgáltatási kötelezettségét így teljesíteni.
+(2) Az adatszolgáltató rendszeres adatszolgáltatási kötelezettségét a Hivatal honlapján közzétett formanyomtatványok alkalmazásával teljesíti.
 
-(3) Az Eüsztv. 9. §-a szerint elektronikus kapcsolattartásra nem kötelezett adatszolgáltató az adatszolgáltatási kötelezettségét az 1. melléklet szerinti adatlap kitöltésével, postai úton, meghatalmazott eljárása esetén – az adatszolgáltató választása szerint – postai vagy elektronikus úton az adatszolgáltatási kötelezettség véglegessé válásának napját követő 8 napon belül a Hivatal részére történő megküldésével teljesíti.
+(3) Az adatszolgáltató a 13. § (1) bekezdés b) pontjában meghatározott eseti adatszolgáltatási kötelezettséget a Hivatal határozatában foglaltak szerint teljesíti.
 
-(4) Az adatszolgáltató a 13. § (1) bekezdés b) pontjában meghatározott eseti adatszolgáltatási kötelezettséget a Hivatal határozatában foglaltak szerint teljesíti.
+[^1]: A 4. § a 9/2023. (VI. 23.) MEKH rendelet 2. §-ával megállapított szöveg.

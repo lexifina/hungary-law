@@ -12,7 +12,7 @@
 
 5. nem engedélyköteles kiserőmű – fosszilis és nem nap-, szél-, víz- és geotermikus energia alapú villamosenergia-termelésre vonatkozóan a 4. melléklet II. pontja,
 
-6. nem engedélyköteles, biogáz energiahordozót – kivéve a hulladéklerakóból, illetve szennyvízkezelő létesítményből származó gázt – felhasználó kiserőmű a 4. melléklet III. pontja,
+6. [^5] nem engedélyköteles, mezőgazdasági és élelmiszeripari eredetű biogáz energiahordozót felhasználó kiserőmű a 4. melléklet III. pontja,
 
 7. nem engedélyköteles, biomassza energiahordozót felhasználó kiserőmű a 4. melléklet IV. pontja,
 
@@ -20,7 +20,7 @@
 
 9. kiserőművi összevont engedélyes – fosszilis és nem nap-, szél-, víz- és geotermikus energia alapú villamosenergia-termelésre vonatkozóan a 4. melléklet VI. pontja,
 
-10. biogáz energiahordozót – kivéve a hulladéklerakóból, illetve szennyvízkezelő létesítményből származó gázt – felhasználó kiserőművi összevont engedélyes a 4. melléklet VII. pontja,
+10. [^6] mezőgazdasági és élelmiszeripari eredetű biogáz energiahordozót felhasználó kiserőművi összevont engedélyes a 4. melléklet VII. pontja,
 
 11. biomassza energiahordozót felhasználó kiserőművi összevont engedélyes a 4. melléklet VIII. pontja,
 
@@ -50,6 +50,8 @@ b) a 6. melléklet II. pontja,
 
 22. zöld prémium támogatási jogosult a 13. melléklet,
 
-23. [^2]
+23. [^7]
 
-[^2]: A 10. § 23. pontja a 17. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^5]: A 10. § 6. pontja a 9/2023. (VI. 23.) MEKH rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^6]: A 10. § 10. pontja a 9/2023. (VI. 23.) MEKH rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^7]: A 10. § 23. pontja a 17. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.

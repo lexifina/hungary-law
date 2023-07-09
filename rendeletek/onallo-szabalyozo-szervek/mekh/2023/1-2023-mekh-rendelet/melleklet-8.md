@@ -48,6 +48,10 @@
 
 | 15. | Hátralékos fogyasztók adatai | V680 | Havi | Az adatokat havonta, a tárgyidőszakot követő hó 25-ig kell megadni. |
 
+| 16.[^24] | Tárgyévre vonatkozó nem ESZ szerződések tételes adatai | V619t | Negyedéves | A tárgyidőszakot megelőző hónap utolsó napjáig. |
+
+| 17.[^25] | Következő évre vonatkozó nem ESZ szerződések tételes adatai | V619e | Negyedéves | A tárgyidőszakot megelőző hónap utolsó napjáig. |
+
 ## III. A Hivatal által kiadott, „Egyedi felhasználókat érintő minimális minőségi követelmények meghatározása” tárgyú határozattal rendelkező villamosenergia-kereskedelmi működési engedélyes adatszolgáltatási kötelezettsége
 
 |  | A | B | C | D |
@@ -84,6 +88,15 @@
 
 | 16. | Hátralékos fogyasztók adatai | V680 | Havi | Az adatokat havonta, a tárgyidőszakot követő hó 25-ig kell megadni. |
 
+| 17.[^26] | Tárgyévre vonatkozó nem ESZ szerződések tételes adatai | V619t | Negyedéves | A tárgyidőszakot megelőző hónap utolsó napjáig. |
+
+| 18.[^27] | Következő évre vonatkozó nem ESZ szerződések tételes adatai | V619e | Negyedéves | A tárgyidőszakot megelőző hónap utolsó napjáig. |
+
 8. melléklet az 1/2023. (IV. 5.) MEKH rendelethez
 
 A villamosenergia egyetemes szolgáltatói engedélyes adatszolgáltatási kötelezettsége
+
+[^24]: A 7. melléklet II. pontjában foglalt táblázat 16. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § d) pontja iktatta be.
+[^25]: A 7. melléklet II. pontjában foglalt táblázat 17. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § d) pontja iktatta be.
+[^26]: A 7. melléklet III. pontjában foglalt táblázat 17. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § d) pontja iktatta be.
+[^27]: A 7. melléklet III. pontjában foglalt táblázat 18. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § d) pontja iktatta be.
