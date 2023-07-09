@@ -42,6 +42,8 @@
 
 ## INFi_MNB: tárgyidőszak i-edik évre vonatkozó, Magyar Nemzeti Bank (a továbbiakban: MNB) által közzétett inflációs előrejelzés, a tárgyidőszakkal érintett első naptári évre vonatkozó számítás kivételével, melynek során értéke: 1.
 
-2. melléklet a 3/2023. (IV. 6.) MEKH rendelethez
+2. melléklet a 3/2023. (IV. 6.) MEKH rendelethez[^2]
 
-3X02008.pdf
+3X04410M.pdf
+
+[^2]: A 2. melléklet a 9/2023. (VI. 23.) MEKH rendelet 6. § (2) bekezdése szerint módosított szöveg.
