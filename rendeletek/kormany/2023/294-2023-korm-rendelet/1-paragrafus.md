@@ -1,3 +1,3 @@
-1. § A határon túli költségvetési támogatások sajátos szabályairól szóló 98/2012. (V. 15.) Korm. rendelet 2. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-(Határon túli költségvetési támogatás)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
