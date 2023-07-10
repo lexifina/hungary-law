@@ -1,11 +1,3 @@
-4. § (1) Az R1. 10. § 6. pontja helyébe a következő rendelkezés lép:
+4. §[^4]
 
-(A VET és a Kkt. szerinti adatszolgáltató adatszolgáltatási kötelezettségének a következő adatlapok Hivatal részére történő megküldésével tesz eleget:)
-
-## „6. nem engedélyköteles, mezőgazdasági és élelmiszeripari eredetű biogáz energiahordozót felhasználó kiserőmű a 4. melléklet III. pontja,”
-
-## (alapján.)
-
-(2) Az R1. 10. § 10. pontja helyébe a következő rendelkezés lép:
-
-(A VET és a Kkt. szerinti adatszolgáltató adatszolgáltatási kötelezettségének a következő adatlapok Hivatal részére történő megküldésével tesz eleget:)
+[^4]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
