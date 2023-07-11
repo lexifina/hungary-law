@@ -2,7 +2,7 @@
 
 (2) Az adósságrendezési eljárás kezdeményezésekor igazoltan az adósságrendezésbe nem tartozó pénzeszközöket és vagyontárgyakat, valamint az adósságrendezési eljárás kezdeményezését követően szerzett, az adósságrendezésbe nem tartozó bevételt és vagyont az adós, adóstárs az adósságrendezésbe tartozó forrásoktól és vagyontól elkülönítetten tartja nyilván és kezeli.
 
-(3) Az adós és az adótárs a (2) bekezdésben meghatározott bevételekre, vagyontárgyakra vonatkozó iratokat, dokumentumokat, a pénzeszközök fizetési számlán történő kezelésére vonatkozó számlakivonatokat – ellenőrzés céljából, felhívásra –
+(3)[^1] Az adós és az adóstárs a (2) bekezdésben meghatározott bevételekre, vagyontárgyakra vonatkozó iratokat, dokumentumokat, a pénzeszközök fizetési számlán történő kezelésére vonatkozó számlakivonatokat – ellenőrzés céljából, felhívásra –
 
 a) bíróságon kívüli adósságrendezési eljárás esetén a főhitelezőnek és a Családi Csődvédelmi Szolgálatnak,
 
@@ -11,3 +11,5 @@ b) bírósági adósságrendezési eljárás alatt a családi vagyonfelügyelőn
 bemutatni köteles, és ezeket a dokumentumokat az adósságrendezés záró időpontjától számított öt évig kell megőriznie.
 
 (4) Az adós és az adóstárs az eljárás kezdeményezését követően bármikor nyilatkozhatnak arról, hogy az e rendelet hatálya alá tartozó bevételeket vagy vagyontárgyakat részben vagy egészben az adósságrendezésre kívánják fordítani.
+
+[^1]: Az 1. § (3) bekezdés nyitó szövegrésze a 299/2023. (VII. 10.) Korm. rendelet 5. § 1. pontja szerint módosított szöveg.
