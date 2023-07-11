@@ -1,1 +1,0 @@
-4. § A 230/2015. Korm. rendelet 2. §-ában meghatározott, az adósságrendezésbe nem tartozó vagyonra, illetve bevételre vonatkozó felső összeghatárok helyett a 2. melléklet szerinti felső összeghatárokat kell alkalmazni.
