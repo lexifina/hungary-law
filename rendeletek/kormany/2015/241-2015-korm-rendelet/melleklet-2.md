@@ -1,41 +1,95 @@
-## A méltányolható lakóingatlan forgalmi érték
+|  | A | B | C |
 
-| Lakó- szobák száma | Lakóingatlan hasznos alapterületének mérete (m2) | Budapesten (ezer forintban) | Budapesti agglomerációban* (ezer forintban) | Megyei jogú városokban és azok agglomerációjában** (ezer forintban) | Más városokban (ezer forintban) | Községekben (ezer forintban) |
+| 1. | Főváros/vármegye/régió | Vármegyén belüli elhelyezkedés | Méltányolható négyzetméterár (ezer forint) |
 
-| 1 | <35 | 8 000 | 7 200 | 5 200 | 5 100 | 4 000 |
+| 2. | Budapest |  | 830 |
 
-| 1,5 | 35–50 | 11 250 | 9 200 | 7 600 | 7 000 | 4 500 |
+| 3. | Pest vármegye | város | 648 |
 
-| 2 | 45–60 | 12 750 | 10 200 | 7 700 | 7 600 | 5 500 |
+| 4. | Pest vármegye | község | 408 |
 
-| 2,5 | 55–70 | 14 750 | 11 000 | 9 300 | 8 100 | 6 000 |
+| 5. | Közép-Dunántúl Székesfehérvár | megyei jogú város | 586 |
 
-| 3 | 65–80 | 17 000 | 13 000 | 11 000 | 10 000 | 7 000 |
+| 6. | Közép-Dunántúl Tatabánya | megyei jogú város | 464 |
 
-| 3,5 | 75–90 | 22 000 | 15 500 | 14 000 | 12 000 | 7 500 |
+| 7. | Közép-Dunántúl Veszprém | megyei jogú város | 651 |
 
-| 4 | 85–105 | 26 000 | 17 500 | 16 000 | 13 000 | 8 500 |
+| 8. | Közép-Dunántúl | város | 392 |
 
-## * Budapesti agglomeráció alatt a Budapesti Agglomeráció Területrendezési Tervéről szóló 2005. évi LXIV. törvény 1/1. számú mellékletében felsorolt településeket kell érteni.
+| 9. | Közép-Dunántúl | község | 213 |
 
-## ** Megyei jogú városi agglomeráció alatt azokat a településeket kell érteni, amelyek közigazgatási határa a megyei jogú város közigazgatási határától közúton vagy vasúton legfeljebb 15 km.
+| 10. | Nyugat-Dunántúl Győr | megyei jogú város | 584 |
 
-2. melléklet a 241/2015. (IX. 8.) Korm. rendelethez
+| 11. | Nyugat-Dunántúl Szombathely | megyei jogú város | 450 |
 
-Lakásbérleti díj vagy a lakás használatáért fizetendő ellenérték
+| 12. | Nyugat-Dunántúl Zalaegerszeg | megyei jogú város | 410 |
 
-|  | méret | lakószobák száma | Budapesten Ft/m2 | Budapesti agglomerációban* Ft/m2 | Megyei jogú városokban és azok agglomerációjában** Ft/m2 | Más városokban Ft/m2 | Községekben Ft/m2 |
+| 13. | Nyugat-Dunántúl | város | 408 |
 
-| 1. | <55 m2 | 1–2 | 1400*** | 1100*** | 1100*** | 800*** | 600*** |
+| 14. | Nyugat-Dunántúl | község | 181 |
 
-| 2. | 55–80 m2 | 2,5–3 | 1300*** | 1000*** | 1000*** | 700*** | 500*** |
+| 15. | Dél-Dunántúl Pécs | megyei jogú város | 447 |
 
-| 3. | 80 m2< | 3+ | 1100*** | 900*** | 900*** | 700*** | 500*** |
+| 16. | Dél-Dunántúl Kaposvár | megyei jogú város | 350 |
 
-* Budapesti agglomeráció alatt a Budapesti Agglomeráció Területrendezési Tervéről szóló 2005. évi LXIV. törvény 1/1. számú mellékletében felsorolt településeket kell érteni.
+| 17. | Dél-Dunántúl Szekszárd | megyei jogú város | 386 |
 
-** Megyei jogú városi agglomeráció alatt azokat a településeket kell érteni, amelyek közigazgatási határa a megyei jogú város közigazgatási határától közúton vagy vasúton legfeljebb 15 km.
+| 18. | Dél-Dunántúl | város | 332 |
 
-*** Az „<55m²” és az „55–80 m²” kategóriák esetében a lakásbérleti díj maximuma a méret határértékre (55 m² illetve 80 m²) az adott kategória és az eggyel nagyobb méret kategória Ft/m² értékek számtani átlaga alapján számolt összeg.
+| 19. | Dél-Dunántúl | község | 106 |
 
-Az „55–80 m²” és a „>80m²” kategóriák esetében a lakásbérleti díj maximuma elérheti a méret határértékre (55 m² illetve 80 m²) az adott kategória és az eggyel kisebb méret kategória Ft/m² értékek számtani átlaga alapján számolt összeget.
+| 20. | Észak-Magyarország Miskolc | megyei jogú város | 349 |
+
+| 21. | Észak-Magyarország Eger | megyei jogú város | 481 |
+
+| 22. | Észak-Magyarország Salgótarján | megyei jogú város | 193 |
+
+| 23. | Észak-Magyarország | város | 205 |
+
+| 24. | Észak-Magyarország | község | 89 |
+
+| 25. | Észak-Alföld Debrecen | megyei jogú város | 613 |
+
+| 26. | Észak-Alföld Szolnok | megyei jogú város | 362 |
+
+| 27. | Észak-Alföld Nyíregyháza | megyei jogú város | 419 |
+
+| 28. | Észak-Alföld | város | 183 |
+
+| 29. | Észak-Alföld | község | 73 |
+
+| 30. | Dél-Alföld Kecskemét | megyei jogú város | 459 |
+
+| 31. | Dél-Alföld Békéscsaba | megyei jogú város | 296 |
+
+| 32. | Dél-Alföld Szeged | megyei jogú város | 524 |
+
+| 33. | Dél-Alföld | város | 197 |
+
+| 34. | Dél-Alföld | község | 87 |
+
+2. melléklet a 241/2015. (IX. 8.) Korm. rendelethez[^14]
+
+Adósságrendezési eljárásban a lakásbérleti díjra vagy a lakás használatáért fizetendő ellenértékre vonatkozó felső összeghatár
+
+|  | A | B |
+
+| 1. | Főváros/vármegye/régió | Méltányolható lakbér-négyzetméterár közműdíjak nélkül (forint) |
+
+| 2. | Budapest | 3 790 |
+
+| 3. | Pest vármegye | 2 850 |
+
+| 4. | Közép-Dunántúl | 2 620 |
+
+| 5. | Nyugat-Dunántúl | 2 490 |
+
+| 6. | Dél-Dunántúl | 2 460 |
+
+| 7. | Észak-Magyarország | 2 130 |
+
+| 8. | Észak-Alföld | 2 560 |
+
+| 9. | Dél-Alföld | 2 250 |
+
+[^14]: A 2. melléklet a 299/2023. (VII. 10.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.

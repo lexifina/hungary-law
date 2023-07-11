@@ -16,4 +16,10 @@ d) négy személy esetében legfeljebb kettő lakószoba és két fél lakószob
 
 (4) Gyermektelen házaspár esetében a méltányolható lakásigény meghatározásánál legfeljebb két – egy gyermekes házaspár esetén további egy – születendő gyermeket is figyelembe kell venni, ha a házaspár erre a gyermekvállalásra és az adott lakóingatlanra vonatkozóan a lakásépítési támogatással vagy a családok otthonteremtési kedvezményével összefüggésben korábban kötelezettségvállaló nyilatkozatot tett, és ezt a kötelezettséget még nem tudta teljesíteni.
 
-(5) A méltányolható lakóingatlan forgalmi értékét az 1. melléklet tartalmazza. Az összegek lakóház esetében a telekárat is tartalmazzák. A lakhatási feltételek megtartására szolgáló ingatlan meghatározása érdekében az 1. mellékletben meghatározott forgalmi értéktől 5%-kal felfelé eltérést kezdeményezhet az adós, ha azt igazolt, kivételes méltánylást igénylő egyéni vagy családi körülményei vagy a településrész sajátosságai indokolják.
+(5)[^1] A méltányolható lakóingatlan forgalmi értékét az 1. melléklet tartalmazza. Az összegek lakóház esetében a telekárat is tartalmazzák. A lakhatási feltételek megtartására szolgáló ingatlan meghatározása érdekében az 1. mellékletben meghatározott forgalmi értéktől legfeljebb 8%-kal felfelé eltérést kezdeményezhet az adós,
+
+a) ha azt igazolt, kivételes méltánylást igénylő egyéni vagy családi körülményei vagy a településrész sajátosságai indokolják, vagy
+
+b) ha az ingatlan a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény 1/1. mellékletében felsorolt, a Budapesti Agglomerációhoz tartozó településen vagy a turisztikai térségek meghatározásáról szóló 429/2020. (IX. 14.) Korm. rendelet 1. mellékletében felsorolt településen van.
+
+[^1]: A 3. § (5) bekezdése a 299/2023. (VII. 10.) Korm. rendelet 7. §-ával megállapított szöveg.
