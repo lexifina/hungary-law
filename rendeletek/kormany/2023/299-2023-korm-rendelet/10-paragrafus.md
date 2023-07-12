@@ -1,3 +1,3 @@
-10. § (1) A 241/2015. (IX. 8.) Korm. r. 1. melléklete helyébe a 2. melléklet lép.
+10. §[^8]
 
-(2) A 241/2015. (IX. 8.) Korm. r. 2. melléklete helyébe a 3. melléklet lép.
+[^8]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

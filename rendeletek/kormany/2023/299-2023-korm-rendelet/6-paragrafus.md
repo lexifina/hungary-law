@@ -1,3 +1,3 @@
-## lép.
+6. §[^4]
 
-6. § Hatályát veszti a 230/2015. (VIII. 12.) Korm. r. 2. § (1) bekezdés 30. pontja.
+[^4]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

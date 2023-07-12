@@ -24,4 +24,6 @@
 
 | 12. | Az Are. tv. 72. § (1) bekezdésében meghatározott méltányolható esetekben, az adós, adóstárs, a saját és a velük közös háztartásban élő közeli hozzátartozók mindennapi életvezetéssel összefüggő szokásos kiadásainak céljából havonta és személyenként a megélhetési célú fizetési számlájáról történő készpénzfelvétel és fizetési megbízások felső összeghatára személyenként | 112 400 forint |
 
-2. melléklet a 299/2023. (VII. 10.) Korm. rendelethez
+2. melléklet a 299/2023. (VII. 10.) Korm. rendelethez[^10]
+
+[^10]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
