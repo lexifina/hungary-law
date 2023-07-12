@@ -1,0 +1,1 @@
+1. § A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya, valamint az Azerbajdzsáni Köztársaság, Georgia és Románia kormányai közötti, a zöld energia fejlesztése és szállítása terén való stratégiai partnerségről szóló megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
