@@ -1,0 +1,1 @@
+17. § A 429/2017. (XII. 20.) Korm. rendelet 12. § (2) bekezdésében az „elektronikus anyakönyvi nyilvántartás informatikai rendszeren (a továbbiakban: EAK rendszer)” szövegrész helyébe az „EAK rendszeren” szöveg lép.
