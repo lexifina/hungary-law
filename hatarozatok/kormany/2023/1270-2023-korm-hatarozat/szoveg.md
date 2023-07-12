@@ -16,4 +16,6 @@ bc) 30 800 000 forint a Kvtv. 1. melléklet VI. Bíróságok fejezet, 1. Bírós
 
 2023. évi személyi juttatása eredeti költségvetési kiadási előirányzatának növelésére irányuljon.
 
-2. A rendkívüli migrációs nyomás kezeléséhez szükséges további források biztosításáról szóló 1230/2022. (IV. 19.) Korm. határozat 2. pont a) alpontjában a „2 022 300 000 forint” szövegrész helyébe a „2 679 731 421 forint” szöveg lép.
+2.[^1]
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
