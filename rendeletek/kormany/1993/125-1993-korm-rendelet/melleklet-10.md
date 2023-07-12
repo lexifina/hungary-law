@@ -128,6 +128,6 @@
 
 ## (törvényes képviselő)
 
-10. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^110]
+10. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^117]
 
-[^110]: A 10. számú melléklet az 569/2022. (XII. 23.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^117]: A 10. számú melléklet a 304/2023. (VII. 11.) Korm. rendelet 4. § c) pontjával megállapított szöveg.
