@@ -1,1 +1,0 @@
-## 20. § A Magyar Nemzeti Levéltár (a továbbiakban: Levéltár) értesítését évente, március hó utolsó napjáig az EAK rendszerből kiállított jegyzékkel, papíralapú anyakönyvenkénti bontásban, a Levéltárral történt megállapodás szerinti formában kell teljesíteni.

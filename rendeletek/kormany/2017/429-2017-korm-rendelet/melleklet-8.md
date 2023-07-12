@@ -68,9 +68,9 @@
 
 ## 3. Keltezés.
 
-8. melléklet a 429/2017. (XII. 20.) Korm. rendelethez[^26]
+8. melléklet a 429/2017. (XII. 20.) Korm. rendelethez[^36]
 
-## A haláleset bejelentésének adattartalma
+A haláleset bejelentésének adattartalma
 
 1. A szervet megjelölő azonosító, a bejelentés egyedi azonosítója.
 
@@ -126,4 +126,4 @@ szerinti adatai.
 
 11. A bejelentés időpontja.
 
-[^26]: A 8. mellékletet a 745/2021. (XII. 21.) Korm. rendelet 11. § (5) bekezdése iktatta be.
+[^36]: A 8. mellékletet a 745/2021. (XII. 21.) Korm. rendelet 11. § (5) bekezdése iktatta be.

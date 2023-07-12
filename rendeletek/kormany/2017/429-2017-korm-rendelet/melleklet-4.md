@@ -1,6 +1,6 @@
 4. melléklet a 429/2017. (XII. 20.) Korm. rendelethez
 
-## Az anyakönyvi okiratok kezelésének szabályai
+Az anyakönyvi okiratok kezelésének szabályai
 
 1. A megrendelt, megszemélyesítetlen anyakönyvi kivonat-nyomtatványok szállításáról a NISZ gondoskodik. Az átvételi elismervénnyel érkező küldeményt az iktatókönyvben érkeztetni, majd a típus, az első és az utolsó kivonat nyomtatvány egyedi azonosítójának ellenőrzésével a tartomány és a darabszám szerint ellenőrizni kell.
 

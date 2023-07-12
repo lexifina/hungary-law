@@ -4,4 +4,9 @@
 
 (2) Az adatokat az anyakönyvi esemény időpontjának megfelelően kell bejegyezni az anyakönyvbe.
 
-(3) Az anyakönyvi bejegyzés teljesítésére jogosult szerv az ugyanarra a személyre vonatkozó adatokat a korábbi bejegyzés adataival összehasonlítja, az összehasonlítás eredménye alapján a téves vagy jogsértő bejegyzésből fakadó eltéréseket – hivatalból vagy az összehasonlítást elvégző más szerv megkeresésére – a téves vagy jogsértő bejegyzés adatmódosításával vagy adattörléssel megszünteti.
+(3)[^3] Az anyakönyvvezető vagy az anyakönyvi szerv az ugyanarra a személyre vonatkozó adatokat összehasonlítja, az összehasonlítás eredménye alapján a téves vagy jogsértő bejegyzésből fakadó eltéréseket – hivatalból vagy az összehasonlítást elvégző más szerv megkeresésére – a téves vagy jogsértő bejegyzés adatmódosításával vagy adattörléssel megszünteti, továbbá illetékesség hiányában az eltérésről értesíti a nyilvántartó anyakönyvvezetőt.
+
+(4)[^4] Az anyakönyvvezető vagy az anyakönyvi szerv az anyakönyv és a személyiadat- és lakcímnyilvántartás adatait összehasonlítja, az összehasonlítás eredménye alapján az adateltérések megszüntetése iránt hivatalból intézkedik.
+
+[^3]: A 4. § (3) bekezdése a 304/2023. (VII. 11.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^4]: A 4. § (4) bekezdését a 304/2023. (VII. 11.) Korm. rendelet 11. § (2) bekezdése iktatta be.

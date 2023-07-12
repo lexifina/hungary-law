@@ -1,6 +1,6 @@
 3. melléklet a 429/2017. (XII. 20.) Korm. rendelethez
 
-## Iratkezelési szabályok
+Iratkezelési szabályok
 
 1. Az anyakönyvi ügyekben keletkezett irat az EAK rendszerben képzett számot (EAK ügyazonosító) vagy iktatószámot kap.
 

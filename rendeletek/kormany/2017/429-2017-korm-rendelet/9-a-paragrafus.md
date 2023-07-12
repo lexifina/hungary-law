@@ -1,4 +1,4 @@
-9/A. §[^4] (1) A születést anyakönyvező anyakönyvvezető végzi a törvényes képviselő nyilatkozata szerint az intézetben született, Magyarországon élő magyar állampolgár újszülött részére hivatalból kiállított anyakönyvi kivonat és hatósági igazolványok
+9/A. §[^8] (1) A születést anyakönyvező anyakönyvvezető végzi a törvényes képviselő nyilatkozata szerint az intézetben született, Magyarországon élő magyar állampolgár újszülött részére hivatalból kiállított anyakönyvi kivonat és hatósági igazolványok
 
 a) egészségügyi szolgáltatónál vagy anyakönyvvezetőnél személyesen a törvényes képviselőnek történő átadását, vagy
 
@@ -8,4 +8,4 @@ b) törvényes képviselő lakóhelyére vagy ennek hiányában tartózkodási h
 
 (3) A születést anyakönyvező anyakönyvvezető a jogszabályban meghatározott, hivatalból kiállított hatósági igazolványt a jogszabályban meghatározott címzettnek továbbítja.
 
-[^4]: A 9/A. §-t az 572/2020. (XII. 9.) Korm. rendelet 110. §-a iktatta be.
+[^8]: A 9/A. §-t az 572/2020. (XII. 9.) Korm. rendelet 110. §-a iktatta be.
