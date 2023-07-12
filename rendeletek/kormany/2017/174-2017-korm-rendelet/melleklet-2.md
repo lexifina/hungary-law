@@ -1,6 +1,6 @@
 2. melléklet a 174/2017. (VI. 30.) Korm. rendelethez
 
-A Nyelvtudományi Intézet utónév anyakönyvezhetőségére vonatkozó nyilatkozata iránti kérelem adattartalma[^33]
+A Nyelvtudományi Kutatóközpont utónév anyakönyvezhetőségére vonatkozó nyilatkozata iránti kérelem adattartalma[^35]
 
 1. Kérelmező
 
@@ -8,7 +8,7 @@ A Nyelvtudományi Intézet utónév anyakönyvezhetőségére vonatkozó nyilatk
 
 1.2. lakóhelye
 
-1.3. tartózkodási helye[^34]
+1.3. tartózkodási helye[^36]
 
 1.4. elektronikus levél (e-mail) címe*
 
@@ -26,5 +26,5 @@ A Nyelvtudományi Intézet utónév anyakönyvezhetőségére vonatkozó nyilatk
 
 8. Kérelmező aláírása
 
-[^33]: A 2. melléklet címe a 315/2020. (VII. 1.) Korm. rendelet 8. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^34]: * Nem kötelező megadni.
+[^35]: A 2. melléklet címe a 315/2020. (VII. 1.) Korm. rendelet 8. § (1) bekezdés a) pontja, a 304/2023. (VII. 11.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^36]: * Nem kötelező megadni.
