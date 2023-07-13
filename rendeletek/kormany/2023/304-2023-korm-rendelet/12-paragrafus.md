@@ -1,3 +1,3 @@
-12. § A 429/2017. (XII. 20.) Korm. rendelet 5. § (6) bekezdése helyébe a következő rendelkezés lép:
+12. §[^11]
 
-„(6) Az (1)–(5) bekezdés rendelkezéseit a származási hely bejegyzésére is megfelelően alkalmazni kell.”
+[^11]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

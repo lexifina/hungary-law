@@ -1,1 +1,3 @@
-18. § Hatályát veszti a 429/2017. (XII. 20.) Korm. rendelet 20. §-a.
+18. §[^17]
+
+[^17]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

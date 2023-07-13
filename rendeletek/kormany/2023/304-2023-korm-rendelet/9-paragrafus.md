@@ -1,7 +1,5 @@
 ## 4. Az anyakönyvvezető és az anyakönyvi szervek eljárásáról és kijelöléséről, valamint az anyakönyvezéshez szükséges képesítési feltételekről szóló 174/2017. (VI. 30.) Korm. rendelet módosítása
 
-9. § Az anyakönyvvezető és az anyakönyvi szervek eljárásáról és kijelöléséről, valamint az anyakönyvezéshez szükséges képesítési feltételekről szóló 174/2017. (VI. 30.) Korm. rendelet [a továbbiakban: 174/2017. (VI. 30.) Korm. rendelet] 5. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+9. §[^8]
 
-„(1) A Kormány az 1. mellékletben meghatározott külképviselet konzuli tisztviselőjét, valamint a felügyelete alatt működő nem önálló külképviselet hivatásos konzuli tisztviselőjét hazai anyakönyvezés végzésére, valamint a házasság vagy bejegyzett élettársi kapcsolat külföldön történt megszűnésére vonatkozó adatváltozás bejegyzésére anyakönyvi szervként jelöli ki, amennyiben a külképviselet felügyelete alá tartozó, nem önálló külképviselet felhatalmazása kiterjed a hazai anyakönyvezési feladatok ellátására.
-
-(2) A hazai anyakönyvezési eljárást, valamint a házasság vagy bejegyzett élettársi kapcsolat külföldön történt megszűnésére vonatkozó adatváltozás bejegyzésére irányuló eljárást, annak az 1. mellékletben meghatározott külképviseletnek vagy a felügyelete alatt működő, hazai anyakönyvezési feladatokat ellátó nem önálló külképviseletnek a hivatásos konzuli tisztviselője folytatja le, amely külképviseleten a kérelmet benyújtották.”
+[^8]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-16. § A 429/2017. (XII. 20.) Korm. rendelet 12. § (7) bekezdése helyébe a következő rendelkezés lép:
+16. §[^15]
 
-„(7) Az elektronikusan igényelt anyakönyvi kivonathoz – külföldön történő felhasználás esetén – az (EU) 2016/1191 európai parlamenti és tanácsi rendeletben meghatározott többnyelvű formanyomtatvány egyidejűleg legfeljebb két eltérő nyelven kérelmezhető.”
+[^15]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
