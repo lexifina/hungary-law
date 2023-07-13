@@ -1,5 +1,3 @@
-## A Körös-éri Tájvédelmi Körzet ingatlan-nyilvántartási helyrajzi számai
-
 ## Ásotthalom
 
 ## 0103/2, 0115/1, 0115/16, 0115/2, 0140/3, 0154/15, 0154/17, 0154/22-ből 0,3344 hektár (az E708888,46-N95071,86, E708610,85-N95041,56, E708737,33-N95056,50, E708769,24-N95060,25, E708858,66-N95071,06, E708861,83-N95071,44, E708903,85-N95091,47, E708630,23-N95031,76, E708907,70-N95082,13, E708617,56-N95030,16, E708869,68-N95061,83, E708849,54-N95059,29, E708827,40-N95056,51, E708775,49-N95050,00, E708751,97-N95047,05, E708645,18-N95033,64, E708630,23-N95031,76, E708905,35-N95087,84, E708721,12-N95054,59 EOV koordinátapárok által meghatározott területrész), 0154/33, 0154/34, 0154/37, 0154/64, 0154/65, 0154/66, 0154/67, 0154/68, 0154/82, 0154/83, 0154/84, 0154/85, 0154/86, 0154/87, 0154/88, 0154/89, 0154/90, 0154/91, 0154/92, 0154/93, 0154/94, 0154/96, 0154/97, 0154/98, 0154/99, 0159/8, 0159/9, 0159/11, 0159/12, 0159/13, 0159/17, 0159/18, 0159/19, 0159/20, 0159/21, 0159/22, 0159/23, 0159/24, 0159/25, 0159/26, 0159/27, 0159/28, 0159/29, 0159/32, 0164-ből 0,0258 hektár (az E709858,03-N95093,15, E709842,44-N95034,62, E709860,56-N95093,20, E709859,59-N95126,79, E709856,51-N95126,37, E709842,26-N95040,99, E709839,29-N95035,98, E709835,91-N95030,26, E709838,68-N95028,67, E709842,44-N95034,62, E709858,75-N95128,60 EOV koordinátapárok által meghatározott területrész), 0273/100, 0273/102a, 0273/102b, 0273/102d, 0273/102f, 0273/102g, 0273/102h, 0273/102j, 0273/102k, 0273/102l, 0273/102m, 0273/102n, 0273/102t, 0273/17, 0273/18, 0273/19, 0273/20, 0273/25a, 0273/25b, 0273/30, 0273/50b, 0273/51b, 0273/51c, 0273/52b, 0273/61, 0273/62, 0273/69a, 0273/69c, 0273/69f, 0273/69g, 0273/69h, 0273/69j, 0273/69l, 0273/69m, 0273/69n, 0273/69s, 0273/69v, 0273/70b, 0273/79, 0273/82, 0273/83, 0273/84a, 0273/85, 0273/88, 0273/89, 0273/91, 0273/92, 0273/93, 0273/94, 0273/99, 0325/11, 0325/12, 0325/127, 0325/128, 0325/129, 0325/13, 0325/131, 0325/132a, 0325/134, 0325/135, 0325/14, 0325/140a, 0325/140b, 0325/140d, 0325/140f, 0325/140h, 0325/141, 0325/142, 0325/144, 0325/145, 0325/146, 0325/147, 0325/18, 0325/19, 0325/2, 0325/20, 0325/22, 0325/23, 0325/25, 0325/27, 0325/28, 0325/29, 0325/30, 0325/34, 0325/35, 0325/36, 0325/37, 0325/38a, 0325/39a, 0325/40a, 0325/43, 0325/47, 0325/48, 0325/49, 0325/50, 0325/6, 0325/8, 0326/, 0327/14, 0327/16, 0327/21, 0327/22, 0328-ból 0,1486 hektár (az E706106,62-N89366,83, E706190,51-N89356,01, E706460,75-N89272,19, E706275,92-N89339,82, E706615,69-N89185,06, E706107,04-N89369,77, E706282,33-N89340,86, E706462,09-N89274,65, E706620,61-N89185,93, E706279,45-N89339,26, E706276,96-N89341,75, E706620,61-N89185,93 EOV koordinátapárok által meghatározott területrész), 0331/1-ből 0,6777 hektár (az E706199,55-N89453,18, E706372,37-N89684,29, E706382,44-N89648,22, E706395,66-N89600,85, E706367,49-N89701,79, E706205,86-N89449,97, E706287,89-N89524,47, E706182,19-N89462,02, E706145,15-N89480,88, E706115,26-N89496,10, E706234,09-N89472,88, E706365,20-N89695,12, E706296,51-N89531,40, E706229,99-N89477,93, E706205,89-N89458,37, E706055,01-N89535,19, E706025,92-N89506,08, E706009,85-N89511,94, E705985,16-N89491,02, E706056,46-N89526,04, E705882,37-N89589,34, E705726,82-N89738,13, E706389,93-N89606,51, E705882,37-N89589,34, E706011,91-N89503,20, E705985,22-N89480,59, E705977,35-N89488,12, E705727,51-N89727,10, E706376,18-N89670,62, E705726,38-N89738,56, E705734,05-N89731,22, E705878,67-N89592,88, E705721,88-N89732,49, E706027,83-N89497,39 EOV koordinátapárok által meghatározott területrész), 0331/2, 0337/, 0342/11a-ból 22,1247 hektár (az E706287,89-N89524,47, E706296,51-N89531,40, E706389,93-N89606,51, E706365,20-N89695,12, E706358,15-N89674,51, E706311,34-N89690,47, E706229,99-N89477,93, E706354,19-N89734,46, E705878,67-N89592,88, E706315,06-N89876,21, E706328,57-N89742,91, E706205,89-N89458,37, E706055,01-N89535,19, E706025,92-N89506,08, E706009,85-N89511,94, E705882,37-N89589,34, E705734,05-N89731,22, E705726,82-N89738,13, E705851,68-N89842,87, E705942,78-N89887,00, E706003,39-N89916,36, E705932,46-N89882,00, E705985,16-N89491,02, E706305,51-N90025,79, E705777,41-N89788,98, E706315,06-N89876,21, E706313,66-N89881,28, E706309,60-N89895,98, E706311,50-N89978,10, E706302,21-N90017,27, E706305,98-N90018,68, E706317,24-N90022,88, E706303,50-N90028,43 EOV koordinátapárok által meghatározott területrész), 0342/8, 0447/16, 0447/17, 0447/18, 0447/19, 0447/2, 0447/21, 0447/6, 0447/7, 0447/9, 0449/1, 0449/3, 0450/2c-ből 5,0967 hektár (E702285,29-N92147,12, E702302,39-N92165,10, E702396,94-N92002,14, E702491,81-N91763,13, E702566,67-N92013,31, E702515,64-N92127,74, E702393,00-N92103,13, E702423,42-N92067,98, E702397,34-N92097,59, E702393,15-N92006,52, E702302,39-N92165,10, E702249,21-N92123,97, E702296,25-N92163,34, E702416,33-N91925,08, E702392,59-N91976,07, E702322,99-N92150,48, E702345,21-N92155,74, E702390,52-N92162,76, E702307,94-N92032,54, E702390,37-N92116,28, E702388,69-N91907,26, E702482,93-N91762,32, E702491,81-N91763,13, E702417,12-N92132,36 EOV koordinátapárok által meghatározott területrész), 0450/2f-ből 1,0455 hektár (az E702388,69-N91907,26, E702397,34-N92097,59, E702423,42-N92067,98, E702421,50-N92066,74, E702416,33-N91925,08, E702392,59-N91976,07, E702396,94-N92002,14, E702366,89-N91940,77, E702393,15-N92006,52, E702423,42-N92067,98, E702307,94-N92032,54 EOV koordinátapárok által meghatározott területrész), 0451/, 0452/, 0453/1, 0454/1, 0454/2, 0454/3, 0454/4, 060/1, 060/2, 062/, 063/1, 063/2, 063/3, 063/4, 064/, 065/, 066/2c, 066/4c, 066/5, 066/6, 067/, 068/1, 068/10, 068/11, 068/12, 068/2, 068/3, 068/4, 068/5, 068/6, 068/7, 068/8, 068/9, 069/, 070/, 071/, 072/, 073/, 074/1, 074/2, 074/21, 074/3, 074/4, 074/5, 075/, 076/, 077/1a, 077/1c, 082/, 083/, 084/2, 084/3, 084/35, 084/37, 084/4, 084/40, 084/42, 084/43, 084/44, 084/45, 084/46, 091/, 092/1, 092/2, 092/3, 093-ből 1,0977 hektár (az E707256,44-N99294,99, E707181,59-N99147,71, E707368,84-N99407,12, E707356,65-N99397,99, E707344,48-N99388,78, E707286,36-N99343,06, E707250,86-N99304,23, E707071,93-N98839,06, E707185,03-N99156,50, E707067,67-N98830,71, E707062,56-N98843,06, E707058,62-N98833,47, E707034,14-N98773,39, E707376,48-N99397,84, E706915,01-N98480,89, E706925,92-N98476,54, E707067,67-N98830,71, E707367,43-N99390,71, E707352,92-N99381,67, E707293,48-N99336,40, E707002,78-N98696,40, E707238,72-N99262,02, E707231,81-N99269,40 EOV koordinátapárok által meghatározott területrész), 094/, 095/2, 095/3, 095/4
@@ -20,7 +18,7 @@
 
 2. melléklet a 146/2012. (XII. 27.) VM rendelethez
 
-## A Körös-éri Tájvédelmi Körzet természetvédelmi kezelési terve
+A Körös-éri Tájvédelmi Körzet természetvédelmi kezelési terve
 
 1. Természetvédelmi célkitűzések
 
@@ -30,7 +28,7 @@
 
 1.3. A természetes és természetközeli életközösségek, köztük különösen a gyepes és vizes élőhelyek életközösségeinek (beleértve a közösségi jelentőségű élőhelytípusokat és fajokat) megőrzése.
 
-1.4. A kritikusan veszélyeztetett, a világon egyedülállóan csak a Körös-ér menti térségben előforduló délvidéki földikutya [Nannospalax (leucodon) montanosyrmiensis] populációinak védelme és megerősítése élőhelyfejlesztéssel, új gyepek létrehozásával.
+1.4.[^2] A kritikusan veszélyeztetett, csak a Kárpát-medencében előforduló, Magyarország területén a Körös-ér menti térségben kiemelkedően jelentős állománnyal jelen lévő délvidéki földikutya [Nannospalax (leucodon) montanosyrmiensis] védelme, megőrzése.
 
 1.5. A fokozottan védett egyhajúvirág (Bulbocodium vernum) legnagyobb hazai állományának védelme, növelése élőhelyfejlesztéssel.
 
@@ -68,11 +66,17 @@ a) A gyepterületeket elsősorban legeltetéssel kell hasznosítani olyan, az 1.
 
 b) A terület gyepein, vizes élőhelyein és erdeiben a növényvédő szerek alkalmazása az inváziós növényfajok hatósági engedéllyel történő irtásának kivételével tilos.
 
-c) A nyílt és félig nyílt homoki gyepeken és azok nyáras-borókásokkal alkotott élőhely együttesein, valamint a tölgyes-erdőssztyepp területeken kizárólag az élőhelyek megőrzését biztosító természetvédelmi kezelés végezhető és csak ezt szolgáló tevékenység engedélyezhető.
+c)[^3] A nyílt és félig nyílt homoki gyepeken és azok nyáras-borókásokkal alkotott élőhely együttesein, valamint a tölgyes-erdőssztyepp területeken az élőhelyek megőrzését és természeti állapotának javítását biztosító természetvédelmi kezelést szolgáló tevékenységek kivételével tilos a beavatkozás.
 
-d) A nyílt és félig nyílt homoki gyepek és azok nyáras-borókásokkal alkotott élőhelyegyüttese, valamint a tölgyes-erdőssztyepp területek elhelyezkedéséről a Tájvédelmi Körzet természetvédelmi kezeléséért felelős Kiskunsági Nemzeti Park Igazgatóság (a továbbiakban: igazgatóság) e rendelet hatályba lépését követően egy hónapon belül, a továbbiakban pedig szükség szerint tájékoztatja az érintett tulajdonosokat, földhasználókat és a természetvédelmi hatóságot.
+d)[^4] Azokon a területeken, ahol gyepként történő hasznosítás érdekében hagytak fel a szántóföldi műveléssel (felhagyott szántó),
 
-e) A tisztásokat meg kell őrizni.
+da) a felhagyást követően legalább az első 2 évben a gyepesedési folyamatot segítő kaszálást vagy szárzúzást kell végezni,
+
+db) a felhagyást követő első 10 évben kaszálás a terület természetvédelmi kezeléséért felelős Kiskunsági Nemzeti Park Igazgatósággal (a továbbiakban: igazgatóság) egyeztetett időpontban végezhető, azzal, hogy a június 15-ét megelőző időpontban kaszálást kizárólag az igazgatóság jóváhagyásával lehet végrehajtani.
+
+e)[^5] A nyílt és félig nyílt homoki gyepek és azok nyáras-borókásokkal alkotott élőhelyegyüttese, valamint a tölgyes-erdőssztyepp területek elhelyezkedéséről az igazgatóság szükség szerint tájékoztatja az érintett tulajdonosokat, földhasználókat, a természetvédelmi és az erdészeti hatóságot.
+
+f)[^6] Az Országos Erdőállomány Adattárban nyilvántartott tisztásokat meg kell őrizni.
 
 3.1.3. Fajok védelme
 
@@ -80,9 +84,13 @@ a) A Kelebiai-halastavakon költő vízimadár közösség védelme érdekében 
 
 b) A gyepek záródását nem tűrő, védett és fokozottan védett növényfajok érdekében az élőhelyükön minden évben keletkező biomasszának egy részét kaszálással vagy legeltetéssel, vagy a körülményektől függően ezek együttes alkalmazásával az élőhelyeik állapotának javítása érdekében el kell távolítani.
 
-c) A földikutya populációk védelme érdekében élőhelyükön – különösen a Kelebia külterületén található Bácsboristai-legelő és Kelebiai-halastavak területegységben – talajbolygatással járó tevékenység nem folytatható. Gyepesítések révén a földikutya élőhelyek kiterjedésének növelését, egymástól elszigetelt állományaik kapcsolatát helyre kell állítani.
+c)[^7] A földikutya populációk védelme érdekében élőhelyükön – különösen a Kelebia külterületén található Bácsboristai-legelő és Kelebiai-halastavak területegységben – talajbolygatással járó tevékenység nem folytatható.
 
-d) A b) és c) alpontban szereplő előírásokkal érintett területek elhelyezkedéséről az igazgatóság rendszeresen, de legalább évente tájékoztatja az érintett tulajdonosokat, földhasználókat.
+d)[^8] A földikutya élőhelyek kiterjedésének − gyepesítések révén vagy faültetvény természetességi állapotú erdők mezőgazdasági művelésbe vonásával megvalósított − növelésével helyre kell állítani az egymástól elszigetelt állományok kapcsolatát.
+
+e)[^9] A földikutya egyedszám növekedését a részpopulációkról leszakadt, az azokból elvándorolt, a további szaporodásban részt venni nem tudó egyedek áttelepítésével, új populáció létrehozásával kell elősegíteni.
+
+f)[^10] A b) és c) alpont rendelkezéseivel érintett területek elhelyezkedéséről az igazgatóság szükség szerint tájékoztatja az érintett tulajdonosokat, földhasználókat, továbbá ha az érintett terület az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény hatálya alá tartozik, az erdészeti hatóságot is.
 
 3.1.4. Táji, kultúrtörténeti értékek
 
@@ -94,11 +102,11 @@ b) A kunhalmokon a talaj mechanikai bolygatása tilos.
 
 a) A Nagy-Széksóstó területegység szabadon látogatható. A rekreációban betöltött szerepét fenn kell tartani.
 
-b) Szabadon látogatható a Bácsboristai legelő, Bogárzó, Kelebiai-halastavak és erdők, Kissori-semlyék, Madarász-tó, Öttömösi baromjárás területegység.
+b)[^11] A d) alpontban meghatározott kivétellel szabadon látogatható a Bácsboristai legelő, Bogárzó, Kelebiai-halastavak és erdők, Kissori-semlyék, Madarász-tó, Öttömösi baromjárás területegység.
 
-c) Az Ásotthalmi láprét, Csipak-semlyék, Emlékerdő, Átokházi-tőzegbánya, Rivó-erdő és semlyék, Tanaszi-semlyék területegység oktatási célból csak csoportosan, az igazgatóság által biztosított szakvezető jelenlétében látogatható. Egyéb célból történő látogatás esetén az Ásotthalmi láprét és Emlékerdő területegység esetében az igazgatóságot előzetesen értesíteni kell.
+c)[^12] Az Ásotthalmi láprét, Átokházi-tőzegbánya, Csipak-semlyék, Emlékerdő, Rivó-erdő és semlyék, Tanaszi-semlyék területegység szervezett csoportos látogatására az igazgatóság által biztosított szakvezető kíséretében kerülhet sor. Az Ásotthalmi láprét és az Emlékerdő területegység egyéb látogatását legkésőbb 24 órával annak tervezett időpontja előtt be kell jelenteni az igazgatóságnak.
 
-d) A Kelebiai-halastavak és erdők területegység vízfelszínein turisztikai tevékenység nem folytatható.
+d)[^13] A Kelebiai-halastavak és erdők, valamint a Madarász-tó területegységek vízfelszínein turisztikai, rekreációs és sporttevékenység nem folytatható.
 
 3.1.6. Kutatások, vizsgálat
 
@@ -108,11 +116,11 @@ b) Az igazgatóságnak folyamatosan nyomon kell követnie a legveszélyesebb inv
 
 3.1.7. Terület- és földhasználat
 
-a) A területen új burkolt út nem létesíthető, a meglévők nem szélesíthetők.
+a)[^14] A területen új burkolt út létesítésére, földút szilárd burkolattal való ellátásának engedélyezésére kizárólag az 1. pontban meghatározott természetvédelmi célkitűzések megvalósítására, továbbá a terület táji és természeti értékeinek természetvédelmi célú bemutatására irányuló, az igazgatósággal előzetesen egyeztetett fejlesztés keretében, az igazgatóság szakértői véleményének figyelembevételével kerülhet sor.
 
 b) Új földút csak természetvédelmi céllal, természetvédelmi szempontból kedvezőtlenebb helyen lévő út kiváltása érdekében, ez utóbbi egyidejű felhagyása mellett létesíthető.
 
-c) Szántó és erdő létesítése tilos.
+c)[^15] Szántó és erdő kizárólag az 1. pontban meghatározott természetvédelmi célkitűzések megvalósítása érdekében vagy azzal összhangban létesíthető.
 
 d) Termőföld művelés alóli végleges kivonása, végleges más célú hasznosítása csak a természetvédelmi kezelés részeként, az 1. pontban meghatározott természetvédelmi célkitűzések megvalósítása érdekében engedélyezhető.
 
@@ -152,7 +160,7 @@ u) A területen tilos reklámtáblákat elhelyezni.
 
 v) Szántó, rét/legelő hasznosítású területen napnyugtától napkeltéig a gépi munkavégzés tilos.
 
-w) Technikai sporttevékenység nem végezhető a területen.
+w)[^16] Tilos a területen a kizárólag gépi meghajtású, emberi közlekedésre alkalmas sporteszközzel vagy ilyen meghajtású járművel végzett technikai sporttevékenység. Emberi izomerővel vagy részben emberi izomerővel hajtott, közlekedésre alkalmas sporteszközzel vagy ilyen meghajtású járművel kizárólag erre a célra az igazgatósággal egyeztetett és a hozzájárulásával kijelölt utakon, valamint az útként nyilvántartott ingatlanokon végezhető technikai sporttevékenység vagy szabadidős tevékenység. Az e feltételeknek megfelelően végzett technikai sporttevékenységhez nem kell beszerezni a természetvédelmi hatóság engedélyét.
 
 x) Éjszakai horgászat csak a június 30-tól február 15-ig terjedő időszakban lehetséges.
 
@@ -162,7 +170,7 @@ x) Éjszakai horgászat csak a június 30-tól február 15-ig terjedő időszakb
 
 a) Istálló- és műtrágyázás maximum 90 kg/ha/év N-hatóanyagtartalommal lehetséges.
 
-b) Felhagyott szántókon sarjúkaszálást a felhagyást követő első 5 évben kell végezni.
+b)[^17]
 
 c) Az e rendelet hatálybalépését megelőző három évben szántóként nem hasznosított, visszagyepesedő, de az ingatlan-nyilvántartásban szántóként szereplő területek újra nem törhetők fel, művelési águkat a természetbeni állapothoz kell igazítani, hasznosításuk a 3.2.2. pontban foglaltak szerint lehetséges.
 
@@ -200,9 +208,9 @@ j) Pányvás szarvasmarha-legeltetés legalább 10 méter hosszú kötéllel leh
 
 k) A tisztítókaszálás legkorábbi kezdő időpontja szeptember 1.
 
-l) A homoki gyepek, felhagyott szántókon (1–10 év között) kialakult gyepek, mézpázsitos gyepek esetében csak június 15. utáni kaszálás engedélyezhető.
+l)[^18] A homoki gyepek és a mézpázsitos gyepek esetében a kaszálás legkorábbi időpontja június 15. A kaszálás engedélyezése során ettől csak az 1. pontban meghatározott természetvédelmi célkitűzések érdekében, az igazgatósággal egyeztetve lehet eltérni.
 
-m) A mocsárrétek és szikes rétek, szikes mocsarak esetében csak július 1. utáni kaszálás engedélyezhető.
+m)[^19] A mocsárrétek és szikes rétek, szikes mocsarak esetében a kaszálás legkorábbi időpontja július 1. A kaszálás engedélyezése során ettől csak az 1. pontban meghatározott természetvédelmi célkitűzések érdekében, az igazgatósággal egyeztetve lehet eltérni.
 
 n) Talaj meghajtású rendsodró, rendkezelő használata tilos.
 
@@ -284,7 +292,7 @@ d) Madárriasztás vízből, partszegélyi növényzetből és a gémtelepek 500
 
 e) A feltöltést követően június 30-ig a halastavak vízszintje legfeljebb 20 cm-t ingadozhat.
 
-f) Nem őshonos halfajok telepítése – az amur és a busa kivételével – tilos.
+f)[^20] Nem őshonos halfajok telepítése tilos.
 
 g) Gémtelep és egyéb fokozottan védett madárfaj fészkelő állományának zavarásával járó tevékenység nem folytatható. A jogellenes zavarás kiküszöbölése érdekében az igazgatóság kezdeményezése és szakvéleményének figyelembevételével a természetvédelmi hatóság a gátakon és töltéseken történő közlekedést – beleértve a gyalogos közlekedést is –, valamint a töltés karbantartását, a kaszálást és etetést szükség esetén korlátozhatja vagy megtilthatja.
 
@@ -319,3 +327,23 @@ g) Érvényes vízjogi üzemelési engedéllyel rendelkező csatorna fenntartás
 h) A természetes vízkészletek visszatartása érdekében a csatornákon szükség szerint vízmegőrző műtárgyak építése, a már meglévők vízmegőrzésre alkalmassá tétele szükséges.
 
 i) Az Ásotthalmi-láprét területegységen a keresztülhaladó csatorna (Madarásztói-főcsatorna) érintett szakaszát kotorni, rajta földmunkával járó fenntartási munkálatokat végezni tilos.
+
+[^2]: A 2. melléklet 1. pont 1.4. alpontja a 28/2023. (VII. 5.) AM rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. melléklet 3.1.2. pont c) alpontja a 28/2023. (VII. 5.) AM rendelet 2. §-a szerint módosított szöveg.
+[^4]: A 2. melléklet 3.1.2. pont d) alpontja a 28/2023. (VII. 5.) AM rendelet 1. §-ával megállapított szöveg.
+[^5]: A 2. melléklet 3.1.2. pont e) alpontja a 28/2023. (VII. 5.) AM rendelet 1. §-ával megállapított szöveg.
+[^6]: A 2. melléklet 3.1.2. pont f) alpontját a 28/2023. (VII. 5.) AM rendelet 1. §-a iktatta be.
+[^7]: A 2. melléklet 3.1.3. pont c) alpontja a 28/2023. (VII. 5.) AM rendelet 3. § a) pontja szerint módosított szöveg.
+[^8]: A 2. melléklet 3.1.3. pont d) alpontja a 28/2023. (VII. 5.) AM rendelet 1. §-ával megállapított szöveg.
+[^9]: A 2. melléklet 3.1.3. pont e) alpontját a 28/2023. (VII. 5.) AM rendelet 1. §-a iktatta be.
+[^10]: A 2. melléklet 3.1.3. pont f) alpontját a 28/2023. (VII. 5.) AM rendelet 1. §-a iktatta be.
+[^11]: A 2. melléklet 3.1.5. pont b) alpontja a 28/2023. (VII. 5.) AM rendelet 1. §-ával megállapított szöveg.
+[^12]: A 2. melléklet 3.1.5. pont c) alpontja a 28/2023. (VII. 5.) AM rendelet 1. §-ával megállapított szöveg.
+[^13]: A 2. melléklet 3.1.5. pont d) alpontja a 28/2023. (VII. 5.) AM rendelet 1. §-ával megállapított szöveg.
+[^14]: A 2. melléklet 3.1.7. pont a) alpontja a 28/2023. (VII. 5.) AM rendelet 1. §-ával megállapított szöveg.
+[^15]: A 2. melléklet 3.1.7. pont c) alpontja a 28/2023. (VII. 5.) AM rendelet 1. §-ával megállapított szöveg.
+[^16]: A 2. melléklet 3.1.7. pont w) alpontja a 28/2023. (VII. 5.) AM rendelet 1. §-ával megállapított szöveg.
+[^17]: A 2. melléklet 3.2.1. pont b) alpontját a 28/2023. (VII. 5.) AM rendelet 3. § b) pontja hatályon kívül helyezte.
+[^18]: A 2. melléklet 3.2.2. pont l) alpontja a 28/2023. (VII. 5.) AM rendelet 1. §-ával megállapított szöveg.
+[^19]: A 2. melléklet 3.2.2. pont m) alpontja a 28/2023. (VII. 5.) AM rendelet 1. §-ával megállapított szöveg.
+[^20]: A 2. melléklet 3.2.5. pont f) alpontja a 28/2023. (VII. 5.) AM rendelet 3. § c) pontja szerint módosított szöveg.
