@@ -1,4 +1,4 @@
-61. § (1)[^147] Az ügyintézőnek legkésőbb az ügy befejezésével egyidejűleg meg kell határoznia (papír alapú irat esetén rávezetnie) az irattári tételszámot, és meg kell vizsgálnia az előírt kezelési és kiadási utasítások teljesülését.
+61. § (1)[^147] Az ügyintézőnek legkésőbb az ügy befejezésével egyidejűleg meg kell határoznia – papíralapú irat esetén az iratra rávezetnie – az irattári tételszámot, és meg kell vizsgálnia az előírt kezelési és kiadási utasítások teljesülését. Az iktatás időpontjában kell meghatároznia egy ügykört, ami a későbbi feldolgozás során módosulhat.
 
 (2) A feleslegessé vált munkapéldányokat és másolatokat az ügyiratból ki kell emelni, és a selejtezési eljárás mellőzésével meg kell semmisíteni.
 
@@ -38,7 +38,7 @@ végzi el.
 
 (9)[^156] Ügyirat a szervezeti egység vezetője vagy az általa kijelölt ügyintéző engedélyével kerülhet irattárba.
 
-[^147]: A 61. § (1) bekezdése a 64/2010. (III. 18.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^147]: A 61. § (1) bekezdése a 306/2023. (VII. 11.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^148]: A 61. § (3) bekezdése a 64/2010. (III. 18.) Korm. rendelet 25. § (2) bekezdésével megállapított szöveg.
 [^149]: A 61. § (4) bekezdése a 196/2013. (VI. 13.) Korm. rendelet 32. § (1) bekezdésével megállapított szöveg.
 [^150]: A 61. § (4) bekezdés b) pontja a 137/2019. (VI. 11.) Korm. rendelet 14. § p) pontja szerint módosított szöveg.
