@@ -1,1 +1,3 @@
-1. § A Körös-éri Tájvédelmi Körzet létesítéséről szóló 146/2012. (XII. 27.) VM rendelet (a továbbiakban: R.) 2. melléklete az 1. melléklet szerint módosul.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

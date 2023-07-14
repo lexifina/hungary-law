@@ -1,1 +1,3 @@
-2. § Az R. 2. melléklet 3.1.2. pont c) alpontjában a „kizárólag az élőhelyek megőrzését biztosító természetvédelmi kezelés végezhető és csak ezt szolgáló tevékenység engedélyezhető” szövegrész helyébe az „az élőhelyek megőrzését és természeti állapotának javítását biztosító természetvédelmi kezelést szolgáló tevékenységek kivételével tilos a beavatkozás” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
