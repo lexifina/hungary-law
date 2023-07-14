@@ -12,7 +12,7 @@ d) a lakás alapterülete és komfortfokozata,
 
 e) a lakottság ténye
 
-## figyelembevételével kell megállapítani.
+figyelembevételével kell megállapítani.
 
 (2) Ha a lakást a 10. § (1) bekezdése szerinti jogosult vásárolja meg, a vételár a üres, beköltözhető lakás forgalmi értékének 50%-a. A vételár megállapításakor az üres, beköltözhető lakás forgalmi értékéből le kell vonni a bérlő által a lakásra fordított és meg nem térített értéknövelő beruházásainak értékét.
 

@@ -2,7 +2,7 @@
 
 1. számú melléklet a 17/1999. (XI. 18.) NKÖM rendelethez[^2]
 
-## A rendelet hatálya alá tartozó költségvetési szervek
+A rendelet hatálya alá tartozó költségvetési szervek
 
 -------------
 
@@ -60,7 +60,7 @@ Sorszám Intézmény megnevezése, számlaszáma
 
 27.[^11]
 
-28.[^12] Emberi Erőforrás Támogatáskezelő, Budapest 10032000-01425200
+28.[^12] Nemzeti Kulturális Támogatáskezelő, Budapest 10032000-01425200
 
 29.[^13]
 
@@ -76,6 +76,6 @@ Sorszám Intézmény megnevezése, számlaszáma
 [^9]: Az 1. számú melléklet 24. pontját az 50/2016. (XII. 28.) EMMI rendelet 1. §-a hatályon kívül helyezte.
 [^10]: Az 1. számú melléklet 25–26. pontját az 54/2012. (XII. 28.) EMMI rendelet 1. § (2) bekezdése hatályon kívül helyezte.
 [^11]: Az 1. számú melléklet 27. pontját az 50/2016. (XII. 28.) EMMI rendelet 1. §-a hatályon kívül helyezte.
-[^12]: Az 1. számú melléklet 28. pontja az 50/2016. (XII. 28.) EMMI rendelet 1. §-a szerint módosított szöveg.
+[^12]: Az 1. számú melléklet 28. pontja az 50/2016. (XII. 28.) EMMI rendelet 1. §-a, a 4/2023. (VII. 13.) KIM rendelet 2. §-a szerint módosított szöveg.
 [^13]: Az 1. számú melléklet 29. pontját a 10/2007. (II. 28.) OKM rendelet 6. § (2) bekezdésének g) pontja hatályon kívül helyezte.
 [^14]: Az 1. számú melléklet 30. pontját az 54/2012. (XII. 28.) EMMI rendelet 1. § (2) bekezdése hatályon kívül helyezte.

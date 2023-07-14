@@ -13,3 +13,5 @@ c) a forgalmi érték megállapításának,
 d) a társasházzá történő alakításnak, és
 
 e) az elidegenítés lebonyolításának
+
+költségeit.
