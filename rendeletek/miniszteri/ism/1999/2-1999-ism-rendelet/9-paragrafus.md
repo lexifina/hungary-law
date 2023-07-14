@@ -1,3 +1,3 @@
-## 8. §[^19]
+9. §[^20]
 
-[^19]: A 8. §-t és az azt megelőző alcímet a 16/2012. (VIII. 23.) EMMI rendelet 3. § f) pontja hatályon kívül helyezte.
+[^20]: A 9–10. §-t a 16/2012. (VIII. 23.) EMMI rendelet 3. § g) pontja hatályon kívül helyezte.
