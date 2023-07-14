@@ -6,9 +6,9 @@ a) az elnök megbízása alapján képviseli az Alapot és a Bizottságot,
 
 b) közreműködik az Alap – Tv.-ben meghatározott célokhoz szükséges – pénzügyi feltételeinek biztosításában,
 
-c) intézkedik a főigazgatónál egyes pályázatok ellenőrzésének megindítása érdekében,
+c)[^7]
 
-d)[^7] az elnök akadályoztatása esetén összehívja a Bizottság ülését,
+d)[^8] az elnök akadályoztatása esetén összehívja a Bizottság ülését,
 
 e) az elnök akadályoztatása esetén ellátja az elnök 1/A. § e) pontjában meghatározott feladatát,
 
@@ -22,4 +22,5 @@ h) ellátja a Tv.-ben, az e rendeletben, továbbá az Ügyrendben a hatásköré
 
 [^5]: Az 1/B. §-t megelőző alcímet a 40/2012. (XI. 16.) EMMI rendelet 2. §-a iktatta be.
 [^6]: Az 1/B. §-t a 40/2012. (XI. 16.) EMMI rendelet 2. §-a iktatta be.
-[^7]: Az 1/B. § (1) bekezdés d) pontja a 46/2020. (XII. 16.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^7]: Az 1/B. § (1) bekezdés c) pontját a 4/2023. (VII. 13.) KIM rendelet 3. § (3) bekezdés a) pontja hatályon kívül helyezte.
+[^8]: Az 1/B. § (1) bekezdés d) pontja a 46/2020. (XII. 16.) EMMI rendelet 1. §-ával megállapított szöveg.

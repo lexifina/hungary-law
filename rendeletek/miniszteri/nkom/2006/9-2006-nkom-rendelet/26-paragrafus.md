@@ -1,11 +1,11 @@
-26. §[^77] (1) A pályázó a szerződés teljesítéséről, illetve a támogatás felhasználásáról a kollégium által meghatározott szempontok szerinti szakmai beszámolót és pénzügyi elszámolást a szerződésben megjelölt határidőben és módon nyújtja be. A szerződés teljesítését
+26. §[^79] (1) A pályázó a szerződés teljesítéséről, illetve a támogatás felhasználásáról a kollégium által meghatározott szempontok szerinti szakmai beszámolót és pénzügyi elszámolást a szerződésben megjelölt határidőben és módon nyújtja be. A szerződés teljesítését
 
 a) szakmai szempontból a miniszteri keret terhére nyújtott támogatás esetén – ha a miniszter másként nem rendelkezik – a kezelő szerv, egyéb esetben a kollégium,
 
 b) pénzügyi szempontból a kezelő szerv
 
-## ellenőrzi.
+ellenőrzi.
 
 (2) A szakmai ellenőrzések végzésére, ha az ellenőrzés különleges szakértelmet igényel, szakértő bevonható.
 
-[^77]: A 26. § a 46/2020. (XII. 16.) EMMI rendelet 10. §-ával megállapított szöveg.
+[^79]: A 26. § a 46/2020. (XII. 16.) EMMI rendelet 10. §-ával megállapított szöveg.

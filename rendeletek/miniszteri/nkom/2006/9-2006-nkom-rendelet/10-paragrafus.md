@@ -1,4 +1,4 @@
-10. §[^26] (1) A miniszter az állandó kollégiumok vezetőit a kollégium tagjai közül, a Bizottság javaslata alapján, két évre, de legfeljebb a vezető állandó kollégiumi tagsága időtartamára nevezi ki.
+10. §[^28] (1) A miniszter az állandó kollégiumok vezetőit a kollégium tagjai közül, a Bizottság javaslata alapján, két évre, de legfeljebb a vezető állandó kollégiumi tagsága időtartamára nevezi ki.
 
 (2) Az állandó kollégium vezetőjének kinevezése a Bizottság javaslatára egy alkalommal egy évvel, de legfeljebb a vezető állandó kollégiumi tagsága időtartamára meghosszabbítható.
 
@@ -8,4 +8,4 @@
 
 (5) Művészeti állandó kollégium vezetőjének kinevezéséhez és felmentéséhez az MMA elnökének egyetértése is szükséges.
 
-[^26]: A 10. § a 46/2020. (XII. 16.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^28]: A 10. § a 46/2020. (XII. 16.) EMMI rendelet 3. §-ával megállapított szöveg.

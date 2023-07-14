@@ -1,4 +1,4 @@
-7. § (1)[^18] A Bizottság a kollégiumok javaslatainak figyelembevételével, mérlegelve az egyes kulturális területek súlyát, értékteremtő szerepét,
+7. § (1)[^20] A Bizottság a kollégiumok javaslatainak figyelembevételével, mérlegelve az egyes kulturális területek súlyát, értékteremtő szerepét,
 
 a) a miniszter és az MMA elnöke egyetértésével dönt
 
@@ -24,12 +24,12 @@ d) a kulturális ágazat területére vonatkozó alkotások létrehozása,
 
 e) olyan egyedi pályázatok, amelyeket a miniszter – a miniszteri keret terhére – támogatásra méltónak ítél.
 
-(3)[^19] A miniszteri keret felhasználásáról, e körben a pályázatok kiírásáról és azok elbírálásáról, ideértve a miniszteri keret terhére benyújtott egyedi pályázatok elbírálását is – az Ügyrendben szabályozott módon –, a miniszter vagy az általa felhatalmazott kollégium dönt. A miniszteri keret terhére benyújtott egyedi pályázatok esetén a miniszter – kérelemre és méltányosságból – a pályázati cél korrekcióját és ezzel egyidejűleg a támogatási jogviszony módosítását engedélyezheti. Pályázat kiírása esetén e rendelet pályázati rendszerre vonatkozó szabályait kell megfelelően alkalmazni.
+(3)[^21] A miniszteri keret felhasználásáról, e körben a pályázatok kiírásáról és azok elbírálásáról, ideértve a miniszteri keret terhére benyújtott egyedi pályázatok elbírálását is – az Ügyrendben szabályozott módon –, a miniszter vagy az általa felhatalmazott kollégium dönt. A miniszteri keret terhére benyújtott egyedi pályázatok esetén a miniszter – kérelemre és méltányosságból – a pályázati cél korrekcióját és ezzel egyidejűleg a támogatási jogviszony módosítását engedélyezheti. Pályázat kiírása esetén e rendelet pályázati rendszerre vonatkozó szabályait kell megfelelően alkalmazni.
 
 (4) A miniszter megállapítja a miniszteri keret felosztásának arányait és erről tájékoztatja a Bizottságot.
 
-(5)[^20] A Tv. 7/C. § (2) bekezdésében foglalt, a miniszter által egyedi elbírálással nyújtható működési támogatás kizárólag dologi kiadásra használható fel.
+(5)[^22] A Tv. 7/C. § (2) bekezdésében foglalt, a miniszter által egyedi elbírálással nyújtható működési támogatás kizárólag dologi kiadásra használható fel.
 
-[^18]: A 7. § (1) bekezdése az 57/2015. (XII. 29.) EMMI rendelet 3. §-ával megállapított szöveg.
-[^19]: A 7. § (3) bekezdése a 46/2020. (XII. 16.) EMMI rendelet 13. § b) pontja szerint módosított szöveg.
-[^20]: A 7. § (5) bekezdését a 40/2012. (XI. 21.) EMMI rendelet 6. §-a iktatta be.
+[^20]: A 7. § (1) bekezdése az 57/2015. (XII. 29.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^21]: A 7. § (3) bekezdése a 46/2020. (XII. 16.) EMMI rendelet 13. § b) pontja szerint módosított szöveg.
+[^22]: A 7. § (5) bekezdését a 40/2012. (XI. 21.) EMMI rendelet 6. §-a iktatta be.
