@@ -10,7 +10,7 @@ ab) az Állami Számvevőszék elnökének megkeresése alapján,
 
 ac) az állami adó- és vámhatóságot irányító miniszter utasítása alapján,
 
-ad) annál a gazdasági társaságnál, amelynek két egymást követő üzleti évben elért nettó árbevétele mindkét üzleti évben külön-külön eléri a 60 milliárd forintot és az adózott eredménye mindkét üzleti évben nulla vagy negatív,
+ad)
 
 b) az önkormányzati adóhatóság hatáskörébe tartozó adóellenőrzés esetén
 

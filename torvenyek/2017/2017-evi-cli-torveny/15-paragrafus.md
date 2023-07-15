@@ -1,6 +1,6 @@
 ### 15. § [Meghatalmazás]
 
-(1) A meghatalmazott a képviseleti jogosultságát – ha a meghatalmazást az adózó nem a (2) bekezdés szerinti felületen adta – köteles igazolni. A meghatalmazást közokiratba vagy teljes bizonyító erejű magánokiratba kell foglalni vagy jegyzőkönyvbe kell mondani.
+(1) A meghatalmazott a képviseleti jogosultságát – ha a meghatalmazást az adózó nem a (3) bekezdés b) vagy c) pontja szerint adta – köteles igazolni. A meghatalmazást közokiratba vagy teljes bizonyító erejű magánokiratba kell foglalni vagy jegyzőkönyvbe kell mondani.
 
 (2) Az állami adó- és vámhatóság az adózók állandó meghatalmazásainak rögzítésére elektronikus felületet működtet, továbbá az erre a célra rendszeresített elektronikus űrlapon fogadja az önkormányzati adóhatóság előtt helyi iparűzési adóügyben eljárni jogosult állandó meghatalmazottra vonatkozó bejelentést.
 
@@ -8,13 +8,15 @@
 
 a) az önkormányzati adóhatóság hatáskörébe tartozó ügyben az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: Eüsztv.) szerinti elektronikus ügyintézést biztosító információs rendszeren keresztül,
 
-b) az állami adó- és vámhatóság hatáskörébe tartozó ügyben a (2) bekezdés szerinti elektronikus felületen, vagy
+b) az állami adó- és vámhatóság hatáskörébe tartozó ügyben a (2) bekezdés szerinti elektronikus felületen,
 
-c) a polgári perrendtartásról szóló törvény alapján elektronikusan hitelesített közokiratba vagy teljes bizonyító erejű magánokiratba foglalva
+c) az állami adó- és vámhatóság hatáskörébe tartozó ügyben a meghatalmazó által benyújtott, az állandó meghatalmazások bejelentésére rendszeresített elektronikus űrlapon, ha az állandó meghatalmazott nem kamarai jogtanácsos, ügyvéd, ügyvédi iroda vagy európai közösségi jogász, vagy
+
+d) a polgári perrendtartásról szóló törvény alapján elektronikusan hitelesített közokiratba vagy teljes bizonyító erejű magánokiratba foglalva
 
 lehet tenni.
 
-(4) Az állami adó- és vámhatóság által működtetett elektronikus felületen tett képviseletre vonatkozó jognyilatkozat megfelel az (1) bekezdésben meghatározott alaki követelményeknek.
+(4) Az állami adó- és vámhatóság által működtetett elektronikus felületen, továbbá a meghatalmazó által benyújtott, az állandó meghatalmazások bejelentésére rendszeresített elektronikus űrlapon tett képviseletre vonatkozó jognyilatkozat megfelel az (1) bekezdésben meghatározott alaki követelményeknek.
 
 (5) Ha a meghatalmazásból más nem tűnik ki, az kiterjed az eljárással kapcsolatos valamennyi nyilatkozatra és cselekményre.
 

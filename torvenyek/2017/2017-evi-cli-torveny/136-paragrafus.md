@@ -21,3 +21,5 @@ e) az adóigazgatási eljárásban kirendelt ügygondok tevékenységének rész
 f) az adóigazgatási eljárásban az eljárási költségek, az iratbetekintéssel összefüggő költségtérítés, a költségek megfizetése, valamint a költségmentesség részletes szabályait,
 
 g) az ügyintézési határidőre és az adóhatóság előtti képviseletre vonatkozó részletes szabályokat.
+
+h) az automatikus döntéshozatallal kapcsolatos részletes szabályokat.
