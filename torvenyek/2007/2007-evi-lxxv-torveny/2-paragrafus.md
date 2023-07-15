@@ -6,7 +6,7 @@
 
 2. Csoportkönyvvizsgáló: az a kamarai tag könyvvizsgáló, könyvvizsgáló cég, aki/amely az összevont (konszolidált) éves beszámoló könyvvizsgálatát végzi.
 
-3. Egyeztető testület: a kamarán belül működtetett állandó fórum, amelynek célja elősegíteni a kamarai tagok egymás közötti, valamint a kamarai tagok és nem kamarai tagok közötti szakmai természetű viták rendezését.
+3.
 
 4. Érintett állami szerv: a pénz-, tőke- és biztosításpiaci szervezeteket, pénztárakat érintően a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank, az államháztartás alrendszereinek szervezeteit érintően az Állami Számvevőszék.
 
@@ -24,7 +24,7 @@
 
 11. IFAC: Nemzetközi Könyvvizsgálói Szövetség (International Federation of Accountants).
 
-12. Jogsegélyszolgálat: a kamarai tagok egyéni érdekvédelmét elősegítő kamarai szolgáltatás.
+12.
 
 13. Kamarai tag könyvvizsgáló: az a természetes személy, aki e törvény alapján jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésére jogosult Magyarország területén.
 

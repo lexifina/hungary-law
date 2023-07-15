@@ -39,3 +39,5 @@ a) a könyvvizsgáló cég esetén, annak éves árbevételét,
 b) a kamarai tag könyvvizsgáló esetén, annak jövedelmi viszonyait (éves jövedelmét).
 
 (7) A kamara a kamarai tag könyvvizsgálót a (6) bekezdés b) pontja szerinti jövedelmi viszonyai (éves jövedelme) igazolására szólíthatja fel. Amennyiben a kamarai tag könyvvizsgáló ennek nem tesz eleget, úgy a kamara a Központi Statisztikai Hivatal által közzétett jövedelmi adatokra alapozva állapítja meg a pénzbírság mértékének megállapításakor figyelembe vett (becsült) éves jövedelmet.
+
+(8) Az (1) bekezdésben meghatározott intézkedések közül egyidejűleg több is alkalmazható.

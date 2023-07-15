@@ -6,7 +6,7 @@ b) a 34. § (1) bekezdése szerinti igazolás száma,
 
 c) név, a jogi forma megjelölésével,
 
-d) a székhely címe, telefon-, telefaxszáma, elektronikus levélcíme, a honlap címe,
+d) a székhely címe, telefonszáma, elektronikus levélcíme, a honlap címe,
 
 e) az elsődleges kapcsolattartó személy neve,
 

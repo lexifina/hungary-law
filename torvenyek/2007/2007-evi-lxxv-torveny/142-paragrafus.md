@@ -4,6 +4,6 @@
 
 (3) Vizsgabizottság elnökévé csak kamarai tag könyvvizsgáló nevezhető ki.
 
-(4) A vizsgabizottság vizsgáztató tagjává a számvitel és elemzés, valamint a könyvvizsgálat és ellenőrzés modulok vizsgáinak esetében csak kamarai tag könyvvizsgáló nevezhető ki.
+(4) A vizsgabizottság vizsgáztató tagjává a könyvvizsgálat és ellenőrzés modulok vizsgáinak esetében csak kamarai tag könyvvizsgáló nevezhető ki.
 
 (5) A vizsgabizottság elnökeinek és a vizsgáztatóknak a kinevezése 5 évre szól.

@@ -48,7 +48,7 @@ g) részt vesz a nemzetközi könyvvizsgálói szervezetek munkájában, kapcsol
 
 h) az IFAC Etikai Kódexének figyelembevételével kidolgozza a kamarai tagokra, a könyvvizsgáló cégekre vonatkozó etikai szabályokat, figyelemmel kíséri a megtartásukat,
 
-i) működteti az egyeztető testületet és a jogsegélyszolgálatot,
+i)
 
 j) figyelemmel kíséri a könyvvizsgálók, a könyvvizsgáló cégek szakmai tevékenységét, megteszi a szükséges intézkedést, ha tudomást szerez arról, hogy a kamarai tag könyvvizsgáló, a könyvvizsgáló cég tevékenységével, magatartásával jogsértést követ el, vagy a kamara alapszabályának, illetőleg a kamara önkormányzati szabályzatainak rendelkezéseivel ellentétesen cselekszik,
 

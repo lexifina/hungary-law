@@ -31,3 +31,7 @@ j) a felelős személynek és a jogsértés tényének (tartalmának, súlyossá
 (4) Amennyiben a közfelügyeleti hatóság az (1) bekezdés d) pontjában foglalt intézkedést alkalmazza, az ellenőrzés alá vont kamarai tag könyvvizsgáló, könyvvizsgáló cég a határozat kézhezvételétől számított kilencven napon belül értesíti a közfelügyeleti hatóságot az ismételten elvégzett könyvvizsgálat eredményéről. Amennyiben a könyvvizsgálat ismételt elvégzése alapján megállapítható, hogy az ellenőrzés alá vont kamarai tag könyvvizsgáló, könyvvizsgáló cég által korábban kibocsátott könyvvizsgálói jelentés nem megfelelő, a kamarai tag könyvvizsgáló, könyvvizsgáló cég köteles azt visszavonni, és új könyvvizsgálói jelentést kibocsátani.
 
 (5) Amennyiben a könyvvizsgálat (4) bekezdés szerinti ismételt elvégzésére 90 napon belül nem kerül sor, az ellenőrzés alá vont kamarai tag könyvvizsgáló, könyvvizsgáló cég köteles a kibocsátott könyvvizsgálói jelentést visszavonni.
+
+(6) Az (1) bekezdésben meghatározott intézkedések közül egyidejűleg több is alkalmazható.
+
+(7) Az (1) bekezdés d) pontja szerinti intézkedés esetén a könyvvizsgálattal érintett gazdálkodó kérelmére a közfelügyeleti hatóság a 195. § (1) bekezdése szerinti eljárással összefüggésben hozott határozatról kivonatot készít annak érdekében, hogy a gazdálkodó megfeleljen a beszámoló letétbe helyezéséről és közzétételéről szóló jogszabályokban előírtaknak. A határozatkivonat csak az abban meghatározott célra használható fel.

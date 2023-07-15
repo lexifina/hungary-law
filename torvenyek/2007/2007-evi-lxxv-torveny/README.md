@@ -46,3 +46,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-75-00-00
 | 2021-06-10 | 2021. évi LXIX. törvény | 2007-75-00-00.46 |
 | 2022-01-01 | 2021. évi LXIX. törvény | 2007-75-00-00.47 |
 | 2022-11-24 | 2022. évi XLV. törvény | 2007-75-00-00.48 |
+| 2023-07-15 | 2023. évi LIX. törvény | 2007-75-00-00.49 |

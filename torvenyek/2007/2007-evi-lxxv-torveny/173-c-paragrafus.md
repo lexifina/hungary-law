@@ -46,6 +46,8 @@ e) az eljárásban való együttműködés mértékét;
 
 f) a könyvvizsgáló cég vagy kamarai tag könyvvizsgáló által elkövetett korábbi jogsértéseket.
 
+(7d) A (7) bekezdésben meghatározott intézkedések közül egyidejűleg több is alkalmazható.
+
 (8) A (7) bekezdés h) pontja szerinti közzététel időtartama a közzététel napjától számított 5 év.
 
 (9) A közfelügyeleti hatóság a közérdeklődésre számot tartó gazdálkodók jogszabályi kötelezettségen alapuló könyvvizsgálatát ellátó könyvvizsgálók, könyvvizsgáló cégek nem felelt meg eredménnyel zárult minőségellenőrzése esetén annak tényéről és az alkalmazott intézkedésekről értesíti a kamarát, a Budapesti Értéktőzsde Zrt.-t, illetve az érintett állami szervet.

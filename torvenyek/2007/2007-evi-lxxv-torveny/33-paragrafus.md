@@ -10,7 +10,7 @@ d) születési hely és idő,
 
 e) anyja születési családi és utóneve,
 
-f) cím, telefon-, telefaxszám, elektronikus levélcím,
+f) cím, telefonszám, elektronikus levélcím,
 
 g) az iskolai végzettséget, valamint a szakképesítést igazoló oklevél száma, kelte, a kiállító neve,
 

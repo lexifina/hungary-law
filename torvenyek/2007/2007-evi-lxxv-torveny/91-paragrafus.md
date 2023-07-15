@@ -4,7 +4,7 @@
 
 (2) Kérelem alapján fel kell venni az okleveles könyvvizsgálói képzési programba azt, aki megfelel az alábbi feltételeknek:
 
-a) a felsőoktatásról szóló törvény szerint Magyarországon államilag elismert felsőoktatási intézményben szerzett oklevéllel rendelkezik,
+a) felsőfokú végzettséggel rendelkezik,
 
 b) mérlegképes könyvelői szakképesítéssel vagy Association of Chartered Certified Accountants (ACCA) végzettséggel rendelkezik és szakképesítését, végzettségét oklevéllel, bizonyítvánnyal igazolja,
 
