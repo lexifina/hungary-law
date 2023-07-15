@@ -10,7 +10,7 @@ c) az adózó felszámolási eljárás, végelszámolási eljárás nélkül sz�
 
 d) az adóbeszedésre kötelezettnek e kötelezettsége megszűnt,
 
-e) az Szja tv. szerint egyéni vállalkozónak minősülő természetes személy e tevékenységét megszünteti, a tevékenység folytatására való jogosultsága megszűnik, szünetel, valamint az ügyvéd, a szabadalmi ügyvivő tevékenységét, illetve a közjegyző közjegyzői szolgálatát szünetelteti, illetve ha az Szja tv. szerinti egyéni vállalkozónak minősülő természetes személy, az ügyvéd, a szabadalmi ügyvivő, a közjegyző tevékenységének szüneteltetése során a tevékenység folytatására való jogosultsága megszűnik (a továbbiakban együtt: soron kívüli bevallási kötelezettséget kiváltó esemény),
+e) az Szja tv. szerint egyéni vállalkozónak minősülő természetes személy e tevékenységét megszünteti, a tevékenység folytatására való jogosultsága megszűnik, illetve ha az Szja tv. szerinti egyéni vállalkozónak minősülő természetes személy, az ügyvéd, a szabadalmi ügyvivő, a közjegyző tevékenységének szüneteltetése során a tevékenység folytatására való jogosultsága megszűnik (a továbbiakban együtt: soron kívüli bevallási kötelezettséget kiváltó esemény),
 
 f) az adózó üzletvezetés helye belföld helyett külföldre változik és erre tekintettel a Tao tv. vagy más jogszabály szerint belföldi illetőségű adóalanyisága megszűnik,
 

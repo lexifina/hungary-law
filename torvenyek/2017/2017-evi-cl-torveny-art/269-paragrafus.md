@@ -10,7 +10,7 @@
 
 (5) Felhatalmazást kap az adópolitikáért felelős miniszter arra, hogy az online pénztárgép éves felülvizsgálatának részletes szabályait rendeletben állapítsa meg.
 
-(6) Felhatalmazást kap az adópolitikáért felelős miniszter arra, hogy az üzemeltető részére nyújtott, az Áfa tv. szerinti, a nyugtaadási kötelezettség gépi kiállítással történő megvalósítása esetén kötelező, közvetlen adatlekérdezéssel megvalósított adatszolgáltatást biztosító valamennyi szolgáltatás hatósági árát és a hatósági árszabályozás részletes szabályait rendeletben állapítsa meg.
+(6) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy az üzemeltető részére nyújtott, az Áfa tv. szerinti, a nyugtaadási kötelezettség pénztárgéppel, e-pénztárgéppel történő megvalósítása esetén kötelező, közvetlen adatlekérdezéssel megvalósított adatszolgáltatást biztosító valamennyi szolgáltatás hatósági árát és a hatósági árszabályozás részletes szabályait rendeletben állapítsa meg.
 
 (7) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy a 107. § (2) és (3) bekezdése szerinti kötelezettség teljesítésének időpontját rendeletben állapítsa meg.
 
@@ -39,3 +39,7 @@ módjára és az adóhatóság rendelkezésére bocsátandó fájlok adatszerkez
 (10) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy az EKAER hatálya alá tartozó termékértékesítést, termékbeszerzést és egyéb célú termékmozgatást, az EKAER működésével kapcsolatos szabályokat, az EKAER hatálya alóli mentesülés eseteit, valamint a kockázati biztosítékkal kapcsolatos szabályokat, különösen az EKAER szám megállapításának rendjét, a személyes adatok kivételével a bejelentendő adatok körét, a bejelentésre kötelezettek körét, a bejelentési kötelezettség teljesítése alóli egyedi mentesítés szabályait, az EKAER elektronikus felületén történő bejelentéssel, változásbejelentéssel, az EKAER szám lezárásával, lezárt bejelentés módosításával kapcsolatos szabályokat rendeletben határozza meg.
 
 (11) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy az EKAER bejelentési kötelezettséggel érintett termékek körét – az élelmiszerlánc-felügyeletért felelős miniszter egyetértésével kiadott – rendeletben határozza meg.
+
+(12) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy rendeletben állapítsa meg az adótanácsadói és okleveles adószakértői hatósági képzés és hatósági vizsgáztatás szervezésére és lebonyolítására jelentkező szervezetek akkreditációs eljárásáért fizetendő igazgatási szolgáltatási díj mértékét és a díj megfizetésének részletes szabályait.
+
+(13) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy rendeletben állapítsa meg az e-pénztárgép forgalmazására, szervizelésére, engedélyezésére, üzemeltetésére, felügyeletére vonatkozó szabályokat.

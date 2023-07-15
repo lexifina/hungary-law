@@ -12,7 +12,7 @@ c) a Tbj. 87. § (5) bekezdése szerinti kötelezett.
 
 (1b) A foglalkoztatónak nem minősülő, a Tbj. 6. § (1) bekezdés h) pontja szerinti mezőgazdasági őstermelő negyedévente, a negyedévet követő hónap tizenkettedik napjáig elektronikus úton bevallást tesz a (2) bekezdésben meghatározott adatokról.
 
-(2) Az (1)–(1a) bekezdés szerinti bevallás tartalmazza:
+(2) Az (1)–(1b) bekezdés szerinti bevallás tartalmazza:
 
 1. a Tbj. 66. § (1) bekezdése szerinti nyilvántartásra kötelezett adatait (neve, székhelye, adóazonosító száma),
 
@@ -128,7 +128,7 @@ e) amely után az adó megfizetése a kifizetőt terheli,
 
 (3) Az az adózó, aki vagy amely az adóév során bármely hónapban az (1) bekezdés szerinti bevallás benyújtására volt köteles, az adóév minden ezt követő hónapjára akkor is bevallás vagy a 49. § (4) bekezdés szerinti nyilatkozat benyújtására kötelezett, ha az adott hónapban adó- és/vagy járulék kötelezettsége – adó- (adóelőleg-), és/ vagy járulékalapot képező kifizetés, juttatás hiányában – nem keletkezett.
 
-(4) A foglalkoztatónak nem minősülő biztosított mezőgazdasági őstermelő nem kötelezett az (1)–(1a) bekezdés szerinti bevallás és adatszolgáltatás benyújtására, ha a tárgyévet megelőző évben bevétele nem volt, kivéve, ha a tevékenységét a tárgyévben kezdte, vagy az adóévre vonatkozóan nyilatkozatban vállalta, hogy a Tbj. 41. § (1) és (2) bekezdésében meghatározott járulékalapnál magasabb összeg után fizeti meg a járulékokat. Az egyéni vállalkozó és a foglalkoztatónak nem minősülő biztosított mezőgazdasági őstermelő nem jogosult bevallást helyettesítő nyomtatványon nyilatkozatot tenni.
+(4) A foglalkoztatónak nem minősülő biztosított mezőgazdasági őstermelő nem kötelezett az (1b) bekezdés szerinti bevallás és adatszolgáltatás benyújtására, ha a tárgyévet megelőző évben bevétele nem volt, kivéve, ha a tevékenységét a tárgyévben kezdte, vagy az adóévre vonatkozóan nyilatkozatban vállalta, hogy a Tbj. 41. § (1) és (2) bekezdésében meghatározott járulékalapnál magasabb összeg után fizeti meg a járulékokat. Az egyéni vállalkozó és a foglalkoztatónak nem minősülő biztosított mezőgazdasági őstermelő nem jogosult bevallást helyettesítő nyomtatványon nyilatkozatot tenni.
 
 (5) A nyugdíjfolyósító szervet nem terheli havi adó- és járulék bevallási kötelezettség az általa kifizetett nyugdíj, rehabilitációs járadék, korhatár előtti ellátás, szolgálati járandóság, táncművészeti életjáradék, átmeneti bányászjáradék, illetve a nyugdíjast megillető baleseti járadék, és egyéb más folyósított ellátás tekintetében.
 

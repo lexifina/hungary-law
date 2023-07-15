@@ -6,10 +6,14 @@
 
 (2) Más hatóság, közfeladatot ellátó adatkezelő szerv nyilvántartásában vagy adózói nyilvántartásban szereplő adatot az adóhatóság az adózó és az adó megfizetésére kötelezett személy azonosításához, az adókötelezettség, a költségvetési támogatáshoz való jogosultság megállapításához, az adózók ellenőrzésre történő kiválasztásához, ellenőrzéséhez, végrehajtási eljárás lefolytatásához, az adózó kérelmére indult adóigazgatási eljárásban a tényállás tisztázásához használhatja fel.
 
-(3) A (2) bekezdés alkalmazása során a személyiadat- és lakcímnyilvántartás, a cégnyilvántartás, az ingatlan-nyilvántartás, a közúti közlekedési nyilvántartás, az építésfelügyeleti nyilvántartás, illetve valamennyi más, jogszabály alapján közhiteles nyilvántartás térítés nélkül felhasználható.
+(3) A (2) bekezdés alkalmazása során a személyiadat- és lakcímnyilvántartás, a cégnyilvántartás, az ingatlan-nyilvántartás, a közúti közlekedési nyilvántartás, az építésfelügyeleti nyilvántartás, illetve valamennyi más jogszabály alapján közhiteles nyilvántartás térítés nélkül felhasználható.
 
 (4) Az adóhatóság nyilvántartja az adózó nevében eljáró állandó meghatalmazott, megbízott természetes személy adóazonosító jelét a meghatalmazás időtartama alatt a meghatalmazás alapján eljáró személyek beazonosíthatósága, eljárási jogosultságának ellenőrizhetősége érdekében.
 
-(5) Az állami adó- és vámhatóság a telefonos ügyféltájékoztató és ügyintéző rendszerben folytatott beszélgetést elektronikusan adathordozóra rögzíti, és annak anyagát az adó megállapításához való jog, illetve ha az hosszabb, akkor az adó végrehajtásához való jog elévüléséig, illetve a folyamatban levő bírósági eljárás befejezéséig megőrzi. Az adózó vagy képviselője kérelme alapján az általa folytatott, e bekezdés szerint megőrzött telefonbeszélgetéseit meghallgathatja, valamint azokról másolatot kérhet.
+(5) Az állami adó- és vámhatóság a telefonos ügyféltájékoztató és ügyintéző rendszerben folytatott beszélgetést elektronikusan adathordozóra rögzíti, és a rögzített beszélgetést az adó megállapításához való jog, illetve ha az hosszabb, akkor az adó végrehajtásához való jog elévüléséig, illetve a folyamatban levő bírósági eljárás befejezéséig megőrzi. Az állami adó- és vámhatóság
+
+a) az egyedi ügyintézés és tájékoztatás során rögzített telefonbeszélgetés visszahallgatását – a telefonos ügyféltájékoztató és ügyintéző rendszer használatával kilencven napig – biztosítja,
+
+b) az egyedi ügyintézés és tájékoztatás, valamint az általános tájékoztatás során rögzített telefonbeszélgetésről kérelemre másolatot ad ki.
 
 (6) Az adóhatóság az általa kezelt adatok nyilvántartásával kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet, az állam közvetlen vagy közvetett többségi tulajdonában álló jogi személyt vagy kizárólagos állami tulajdonú egyéb szervezetet bízhat meg, kivéve, ha e korlátozás alól az állami adó- és vámhatóságot irányító miniszter előterjesztésére a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter a nemzeti adatvagyonról szóló törvényben meghatározott határozott idejű egyedi felmentést ad.

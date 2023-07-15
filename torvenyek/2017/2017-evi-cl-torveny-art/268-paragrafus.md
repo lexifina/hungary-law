@@ -46,7 +46,11 @@
 
 17. az adótanácsadói, adószakértői és okleveles adószakértői tevékenység végzéséhez szükséges bejelentési eljárás, a bejelentés alapján történő nyilvántartásba vétel és a nyilvántartásból való törlés feltételeit, valamint a nyilvántartásba vett személyek kötelező szakmai továbbképzésének, a szakmai továbbképzés ellenőrzésének, a továbbképzés szervezésére és lebonyolítására jelentkező szervezetek kreditpont-minősítési eljárásának, továbbá a határon átnyúló adótanácsadói, adószakértői és okleveles adószakértői tevékenység végzéséhez szükséges bejelentési eljárás, a bejelentés alapján történő nyilvántartásba vétel és a nyilvántartásból való törlés feltételeit, részletes szabályait, valamint a nyilvántartás vezetésének szabályait,
 
+17a. az adótanácsadói és okleveles adószakértői hatósági képesítés szakmai és vizsgakövetelményeit, a hatósági képzés és a hatósági vizsgáztatás megvalósításának részletszabályait, a hatósági képzés eredményes elvégzésének, illetve a hatósági vizsga teljesítésének követelményeit és igazolási módját, a hatósági képzés és a hatósági vizsgáztatás szakmai ellenőrzésének szabályait, a hatósági képzés és a hatósági vizsgáztatás szervezésére és lebonyolítására jelentkező szervezetek akkreditációs eljárásának, továbbá a vizsgaelnöki és a vizsgabiztosi névjegyzékbe történő felvételi eljárásnak a részletes szabályait,
+
 18. a 131. § (24) bekezdése szerinti elektronikus keresetkimutatás tartalmát
+
+19. az egységes telefonos ügyféltájékoztató és ügyintéző rendszeren keresztül nyújtott egyedi ügyintézés és tájékoztatás, továbbá általános tájékoztatás részletes szabályait
 
 rendeletben állapítsa meg.
 

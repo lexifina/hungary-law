@@ -44,6 +44,10 @@ E törvény és – ha törvény másként nem rendelkezik – az adóról és a
 
 17. elszámolás: a fizetési kötelezettség nyilvántartása, megfizetése, kiutalása, visszatérítése, visszaigénylése, átvezetése, ideiglenesen eredménytelen végrehajtása miatti kezelése, illetve a megállapításához vagy végrehajtásához való jog elévülése miatti törlése,
 
+17a. e-nyugta: az Áfa tv. szerinti e-nyugta,
+
+17b. e-pénztárgép: az Áfa tv. szerinti e-pénztárgép,
+
 18. fióktelep: a külföldi székhelyű vállalkozások magyarországi fióktelepeiről és kereskedelmi képviseleteiről szóló törvényben meghatározott fióktelep,
 
 19. föld: a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti mező-, erdőgazdasági hasznosítású föld,
@@ -131,6 +135,10 @@ b) a Magyar Honvédség hivatásos és szerződéses, valamint tényleges szolg�
 c) az egyházi személy foglalkoztatásának alapjául szolgáló jogviszony,
 
 39. munkáltató: belföldön székhellyel, telephellyel, képviselettel rendelkező jogi személy, bejegyzett cég, személyi egyesülés és egyéb szervezet, egyéni és társas vállalkozó, ideértve a belföldön lakóhellyel rendelkező természetes személyt is, valamint – a Tbj. 87. §-a szerinti külföldi vállalkozás kivételével – a Tbj. 4. § 4. pontja szerinti foglalkoztatót a munkaviszony alapján foglalkoztatottak tekintetében,
+
+39a. nyugtatár: az Áfa tv. szerinti nyugtatár,
+
+39b. nyugtatár-szolgáltató: az Áfa tv. szerinti nyugtatár szolgáltató,
 
 40. rendvédelmi feladatokat ellátó szerv: a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatot ellátó szerv,
 
