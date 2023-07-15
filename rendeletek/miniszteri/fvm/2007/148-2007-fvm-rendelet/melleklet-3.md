@@ -1,3 +1,3 @@
-3. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^126]
+3. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^125]
 
-[^126]: A 3. számú melléklet a 40/2015. (VII. 13.) FM rendelet 2. § (10) bekezdés c) pontjável megállapított szöveg.
+[^125]: A 3. számú melléklet a 40/2015. (VII. 13.) FM rendelet 2. § (10) bekezdés c) pontjável megállapított szöveg.
