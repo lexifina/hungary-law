@@ -1,4 +1,4 @@
-7. §[^63] Az érintett szervezet köteles a DKÜ részére, az ott meghatározott struktúra és adattartalom szerint részletezve, a DKÜ alkalmazáson keresztül
+7. §[^64] Az érintett szervezet köteles a DKÜ részére, az ott meghatározott struktúra és adattartalom szerint részletezve, a DKÜ alkalmazáson keresztül
 
 a) az éves informatikai beszerzési tervét és az éves informatikai fejlesztési tervét a tárgyévet megelőző év szeptember 30. napjáig,
 
@@ -6,9 +6,9 @@ b) az informatikai beszerzésre vonatkozó igényét az igény felmerülését k
 
 c) a rendkívüli informatikai beszerzésre vonatkozó igényét az igény felmerülését követő 5 munkanapon belül,
 
-d)[^64] az üzemszerű működés biztosításához szükséges informatikai beszerzésre vonatkozó igényét az igény felmerülését követően haladéktalanul
+d)[^65] az üzemszerű működés biztosításához szükséges informatikai beszerzésre vonatkozó igényét az igény felmerülését követően haladéktalanul
 
 megküldeni.
 
-[^63]: A 7. § a 83/2019. (IV. 18.) Korm. rendelet 4. § (11) bekezdésével megállapított, nyitó szövegrésze a 291/2023. (VII. 6.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
-[^64]: A 7. § d) pontja a 182/2019. (VII. 26.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^64]: A 7. § a 83/2019. (IV. 18.) Korm. rendelet 4. § (11) bekezdésével megállapított, nyitó szövegrésze a 291/2023. (VII. 6.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
+[^65]: A 7. § d) pontja a 182/2019. (VII. 26.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.

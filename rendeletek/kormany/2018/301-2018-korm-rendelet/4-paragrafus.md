@@ -46,6 +46,8 @@ d) a miniszterelnök felkérésére véleményezi a Kormány hírközléssel és
 
 (5) Az NHIT stratégiai tudományos tevékenysége keretében ellátja az e rendeletben részére meghatározott feladatokat.
 
+(6)[^45] Az NHIT a minősített elektronikus aláírást és minősített elektronikus bélyegzőt létrehozó eszközök megfelelőségét tanúsító szervezetekről és a kijelölésükre vonatkozó szabályokról szóló kormányrendeletben foglalt megfelelőségértékelő szervezet kijelölési eljárásában javaslattevő szerepet lát el.
+
 [^36]: A 4. § a 83/2019. (IV. 18.) Korm. rendelet 4. § (8) bekezdésével megállapított szöveg.
 [^37]: A 4. § (1) bekezdés nyitó szövegrésze a 683/2020. (XII. 28.) Korm. rendelet 15. § 3. pontja szerint módosított szöveg.
 [^38]: A 4. § (1) bekezdés c) pontja a 683/2020. (XII. 28.) Korm. rendelet 15. § 4. pontja szerint módosított szöveg.
@@ -55,3 +57,4 @@ d) a miniszterelnök felkérésére véleményezi a Kormány hírközléssel és
 [^42]: A 4. § (2) bekezdés e) pontja a 683/2020. (XII. 28.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^43]: A 4. § (2) bekezdés g) pontját a 683/2020. (XII. 28.) Korm. rendelet 4. § (3) bekezdése iktatta be.
 [^44]: A 4. § (4) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.
+[^45]: A 4. § (6) bekezdését a 310/2023. (VII. 14.) Korm. rendelet 15. §-a iktatta be.

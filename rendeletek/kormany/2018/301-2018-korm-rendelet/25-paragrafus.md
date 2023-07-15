@@ -1,3 +1,3 @@
-25. §[^164]
+25. §[^165]
 
-[^164]: A 25. §-t a 83/2019. (IV. 18.) Korm. rendelet 8. § e) pontja hatályon kívül helyezte.
+[^165]: A 25. §-t a 83/2019. (IV. 18.) Korm. rendelet 8. § e) pontja hatályon kívül helyezte.

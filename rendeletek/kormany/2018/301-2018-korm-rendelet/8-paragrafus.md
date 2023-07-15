@@ -1,4 +1,4 @@
-8. §[^66] (1) A DKÜ az érintett szervezet részére, annak kézhezvételétől számított 5 munkanapon belül, visszaküldheti az éves informatikai beszerzési tervet vagy éves informatikai fejlesztési tervet, ha azt észleli, hogy az
+8. §[^67] (1) A DKÜ az érintett szervezet részére, annak kézhezvételétől számított 5 munkanapon belül, visszaküldheti az éves informatikai beszerzési tervet vagy éves informatikai fejlesztési tervet, ha azt észleli, hogy az
 
 a) formailag vagy tartalmilag nem megfelelő,
 
@@ -32,22 +32,22 @@ b) az érintett szervezettől a DKÜ útján hiánypótlást, átdolgozást kér
 
 (8) A (7) bekezdés a) és b) pontja esetén a DKÜ az érintett szervezetet a kérés kézhezvételétől számított 2 munkanapon belül felvilágosítás nyújtására, valamint hiánypótlásra szólítja fel.
 
-(9)[^67] Az érintett szervezet a (7) bekezdés a) és b) pontja szerinti felvilágosítást, valamint hiánypótlást a (8) bekezdés szerinti felszólítás kézhezvételétől számított 8 munkanapon belül a DKÜ részére küldi meg, aki azt a kézhezvételtől számított 2 munkanapon belül köteles az NHIT részére továbbítani.
+(9)[^68] Az érintett szervezet a (7) bekezdés a) és b) pontja szerinti felvilágosítást, valamint hiánypótlást a (8) bekezdés szerinti felszólítás kézhezvételétől számított 8 munkanapon belül a DKÜ részére küldi meg, aki azt a kézhezvételtől számított 2 munkanapon belül köteles az NHIT részére továbbítani.
 
-(10)[^68] A DKÜ az érintett szervezet éves informatikai beszerzési tervét vagy éves informatikai fejlesztési tervét, az NHIT (5) bekezdés szerinti véleményével együtt, nyilvántartásba veszi. Ha az NHIT a véleményét a (4) bekezdésben foglalt határidőn belül nem közli, az érintett szervezet éves informatikai beszerzési tervét vagy éves informatikai fejlesztési tervét az NHIT által végrehajtásra javasoltként kell nyilvántartásba venni.
+(10)[^69] A DKÜ az érintett szervezet éves informatikai beszerzési tervét vagy éves informatikai fejlesztési tervét, az NHIT (5) bekezdés szerinti véleményével együtt, nyilvántartásba veszi. Ha az NHIT a véleményét a (4) bekezdésben foglalt határidőn belül nem közli, az érintett szervezet éves informatikai beszerzési tervét vagy éves informatikai fejlesztési tervét az NHIT által végrehajtásra javasoltként kell nyilvántartásba venni.
 
 (11) A (5) bekezdés a) és b) pontja szerint nyilvántartásba vett éves informatikai beszerzési terv vagy éves informatikai fejlesztési terv végrehajtásra javasolt elemei a miniszter jóváhagyásával hajthatóak végre. A miniszter általi jóváhagyásra történő előterjesztésről a DKÜ gondoskodik.
 
 (12) A DKÜ a (10) bekezdés szerinti nyilvántartásba vételt, továbbá a 12. § (4) bekezdés szerinti miniszteri döntést, az erre okot adó körülmény bekövetkezését követő 2 munkanapon belül az érintett szervezettel közli.
 
-(13)[^69]
+(13)[^70]
 
-(14)[^70] Ha az NHIT véleménye szerint az éves informatikai beszerzési terv vagy az éves informatikai fejlesztési terv egésze vagy annak valamely része végrehajtásra nem javasolt, vagy javasolt, de azt a miniszter elutasította, az átdolgozott terv véleményezés, valamint jóváhagyás céljából ismételten előterjeszthető.
+(14)[^71] Ha az NHIT véleménye szerint az éves informatikai beszerzési terv vagy az éves informatikai fejlesztési terv egésze vagy annak valamely része végrehajtásra nem javasolt, vagy javasolt, de azt a miniszter elutasította, az átdolgozott terv véleményezés, valamint jóváhagyás céljából ismételten előterjeszthető.
 
 (15) A (10) bekezdés szerinti nyilvántartásba vételt, továbbá a (11) bekezdés szerinti miniszteri jóváhagyást követően az éves informatikai beszerzési terv vagy éves informatikai fejlesztési terv módosítását az érintett szervezet bármikor kezdeményezheti. Ebben az esetben a 7. § a) pontja, valamint az (1)–(14) bekezdés megfelelően alkalmazandó.
 
-[^66]: A 8. § a 83/2019. (IV. 18.) Korm. rendelet 4. § (12) bekezdésével megállapított szöveg.
-[^67]: A 8. § (9) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
-[^68]: A 8. § (10) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 7. § f) pontja szerint módosított szöveg.
-[^69]: A 8. § (13) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 8. § c) pontja hatályon kvül helyezte.
-[^70]: A 8. § (14) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 7. § g) pontja szerint módosított szöveg.
+[^67]: A 8. § a 83/2019. (IV. 18.) Korm. rendelet 4. § (12) bekezdésével megállapított szöveg.
+[^68]: A 8. § (9) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^69]: A 8. § (10) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 7. § f) pontja szerint módosított szöveg.
+[^70]: A 8. § (13) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 8. § c) pontja hatályon kvül helyezte.
+[^71]: A 8. § (14) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 7. § g) pontja szerint módosított szöveg.

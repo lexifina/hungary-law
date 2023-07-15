@@ -1,6 +1,6 @@
-## 3/A. [^140] A DKÜ szoftverlicenc-gazdálkodással kapcsolatos feladat- és hatásköre
+## 3/A. [^141] A DKÜ szoftverlicenc-gazdálkodással kapcsolatos feladat- és hatásköre
 
-14/A. § (1)[^141] A miniszter a 3. § (1a) bekezdése szerinti feladatait a DKÜ útján látja el, aki az e címbe tartozó feladatait az e rendeletben foglalt egyéb előírások megtartása mellett látja el.
+14/A. § (1)[^142] A miniszter a 3. § (1a) bekezdése szerinti feladatait a DKÜ útján látja el, aki az e címbe tartozó feladatait az e rendeletben foglalt egyéb előírások megtartása mellett látja el.
 
 (2) A DKÜ
 
@@ -20,8 +20,8 @@ c) az a) pont szerinti feladatai ellátása keretében szoftverlicenc-menedzsmen
 
 (7) Az államháztartásról szóló 2011. évi CXCV. törvény 3/A. § (2) és (3) bekezdésére figyelemmel, az (5) bekezdés alapján megfizetett szoftverlicenc-gazdálkodási díjat a DKÜ az e rendeletben meghatározott közfeladata ellátásának pénzügyi fedezetére használhatja fel.
 
-(8)[^142] A DKÜ az e címben meghatározott feladatait elkülönített módon, kizárólagos tulajdonában álló gazdasági társaságnak történő feladatátadással is elláthatja, amely gazdasági társaság vonatkozásában ekkor az e rendeletben meghatározottakat megfelelően érteni és alkalmazni kell, és amely gazdasági társaság az ilyen módon átadott feladatokat harmadik személynek nem adhatja tovább, harmadik személyre nem ruházhatja át.
+(8)[^143] A DKÜ az e címben meghatározott feladatait elkülönített módon, kizárólagos tulajdonában álló gazdasági társaságnak történő feladatátadással is elláthatja, amely gazdasági társaság vonatkozásában ekkor az e rendeletben meghatározottakat megfelelően érteni és alkalmazni kell, és amely gazdasági társaság az ilyen módon átadott feladatokat harmadik személynek nem adhatja tovább, harmadik személyre nem ruházhatja át.
 
-[^140]: a 3/A. alcímet (14/A. §) a 683/2020. (XII. 28.) Korm. rendelet 12. §-a iktatta be.
-[^141]: A 14/A. § (1) bekezdése a 304/2021. (VI. 2.) Korm. rendelet 2. § 10. pontja szerint módosított szöveg.
-[^142]: A 14/A. § (8) bekezdése a 304/2021. (VI. 2.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^141]: a 3/A. alcímet (14/A. §) a 683/2020. (XII. 28.) Korm. rendelet 12. §-a iktatta be.
+[^142]: A 14/A. § (1) bekezdése a 304/2021. (VI. 2.) Korm. rendelet 2. § 10. pontja szerint módosított szöveg.
+[^143]: A 14/A. § (8) bekezdése a 304/2021. (VI. 2.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
