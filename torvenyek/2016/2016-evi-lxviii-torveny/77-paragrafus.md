@@ -2,6 +2,8 @@
 
 77. § (1) A 12. § a), b) és d) pontja szerinti adó-visszaigénylés feltétele, hogy a jogosult a zárjegyet a zárjegyköteles jövedéki termékről az állami adó- és vámhatóság képviselőjének jelenlétében eltávolítsa és megsemmisítse vagy felülragasztással érvénytelenítse.
 
+(1a) Az (1) bekezdéstől eltérően nem szükséges az állami adó- és vámhatóság képviselőjének jelenléte, ha a jogosult az alkoholtermékről a zárjegy eltávolításának és megsemmisítésének vagy felülragasztással érvénytelenítésének időpontját a tevékenység megkezdését megelőzően legalább 3 munkanappal bejelenti az állami adó- és vámhatósághoz. Az eltávolított és megsemmisített vagy felülragasztással érvénytelenített zárjegyek sorszámát a jogosult nyilvántartásában feltünteti és adatszolgáltatásában az állami adó- és vámhatóság felé bejelenti.
+
 (2) A központi költségvetési szerv mentesül az (1) bekezdésben meghatározott kötelezettségek alól, ha az általa exportált jövedéki termék harmadik országban szolgálatot teljesítő Magyar Honvédség fegyveres erői részére kerül kiszállításra.
 
 (3) Az adóraktár engedélyese, a bejegyzett kereskedő és az importáló a szabadforgalomból visszaszállított dohánygyártmány adóját visszaigényelheti, ha

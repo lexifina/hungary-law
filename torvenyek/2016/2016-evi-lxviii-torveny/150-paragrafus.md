@@ -71,3 +71,5 @@
 (35) 2023. február 13-át megelőzően másik tagállamból adózottan feladott jövedéki termék átvételére a feladáskor hatályos szabályokat kell alkalmazni a jövedéki termék átvételéig, de legkésőbb 2023. december 31-ig.
 
 (36) A 74. § rendelkezéseitől eltérően a jövedéki kiskereskedő és a kereskedelemről szóló törvény szerinti kiskereskedelmi tevékenységet folytató a zárjegy nélküli hevített terméket az Fdvtv. 24/A. § (14) bekezdésében meghatározott időpontig értékesítheti.
+
+(37) A légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 67. § (1a) bekezdés c) pontját a hatálybalépésekor folyamatban lévő adóigazgatási eljárásokban is alkalmazni kell.
