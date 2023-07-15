@@ -1,7 +1,3 @@
-5. § A Korm. rendelet
+5. §[^5]
 
-a) 1. melléklete az 1. melléklet,
-
-b) 3. melléklete a 2. melléklet
-
-szerint módosul.
+[^5]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
