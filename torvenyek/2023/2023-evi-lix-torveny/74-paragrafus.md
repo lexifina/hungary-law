@@ -1,0 +1,3 @@
+74. § A Jöt. 77. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) Az (1) bekezdéstől eltérően nem szükséges az állami adó- és vámhatóság képviselőjének jelenléte, ha a jogosult az alkoholtermékről a zárjegy eltávolításának és megsemmisítésének vagy felülragasztással érvénytelenítésének időpontját a tevékenység megkezdését megelőzően legalább 3 munkanappal bejelenti az állami adó- és vámhatósághoz. Az eltávolított és megsemmisített vagy felülragasztással érvénytelenített zárjegyek sorszámát a jogosult nyilvántartásában feltünteti és adatszolgáltatásában az állami adó- és vámhatóság felé bejelenti.”

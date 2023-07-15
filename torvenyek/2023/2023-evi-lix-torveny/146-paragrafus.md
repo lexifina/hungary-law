@@ -1,0 +1,3 @@
+146. § Az Art. 131. §-a a következő (30) bekezdéssel egészül ki:
+
+„(30) Az állami adó- és vámhatóság hivatalból – a számla kiállítója, önszámlázás esetén a vevő egyidejű értesítése mellett – elektronikus úton tájékoztatja az online számlaadat-szolgáltatásra használt számlázó programnak az adatszolgáltatásban rögzített adószám alapján beazonosítható fejlesztőjét a hibás adatszolgáltatások okainak feltárásához és javításához szükséges, üzleti adatokat nem tartalmazó műszaki-informatikai információkról, valamint a számla kiállítójának nevéről és adószámáról, önszámlázás esetén a vevő nevéről és adószámáról.”

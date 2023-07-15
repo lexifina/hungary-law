@@ -1,0 +1,1 @@
+94. § A Jöt. 67. § (1) bekezdés a) pont ac) alpontjában, 74. § (1) bekezdés b) és g) pontjában, 132. § (5) bekezdésében a „(3) bekezdés 1. pont c) alpontja” szövegrész helyébe a „(3) bekezdés 1a. pont c) alpontja” szöveg lép.

@@ -1,0 +1,7 @@
+22. § Az Szja tv. a következő 104. §-sal egészül ki:
+
+„104. § (1) A 29/G. § szerinti kedvezmény – a családi kedvezmény megnyílta hónapjától – abban az esetben illeti meg a 30 év alatti anyát, ha magzatára, vér szerinti vagy örökbe fogadott gyermekére tekintettel a családi kedvezményre való jogosultsága 2022. december 31-ét követően nyílik meg. Ha azonban a 30 év alatti anya 2023. január 1-jén magzatára tekintettel már jogosult családi kedvezményre, a 29/G. § szerinti kedvezmény 2023. január 1-jétől érvényesíthető azokra a hónapokra is, amelyekben a 30 év alatti anya e magzatára tekintettel családi kedvezményre jogosult.
+
+(2) A légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 57. § (5) bekezdését a 2023. december 31-ét követően megkezdett szünetelés esetében kell alkalmazni. A 2024. január 1-jén folyamatban lévő szünetelés esetén a 2023. december 31-én hatályos szabályokat kell alkalmazni.
+
+(3) A légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 58. § (13) bekezdése az őstermelői tevékenység keretében hasznosított kizárólag üzemi célt szolgáló tárgyi eszköz 2022. január 1-jét követően megvalósuló értékesítése esetén is alkalmazható.”
