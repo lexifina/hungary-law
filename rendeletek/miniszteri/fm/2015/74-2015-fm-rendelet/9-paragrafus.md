@@ -6,7 +6,7 @@ a) ingatlan építése, vásárlása, lízingelése, fejlesztése;
 
 b) gép és berendezés vásárlása vagy lízingelése az adott eszköz piaci értékének erejéig;
 
-c) számítógépes szoftver vásárlása vagy kifejlesztése, valamint szabadalom, licencia, szerzői jog és védjegy megszerzése, és az ehhez kapcsolódó nem termelő beruházás kapcsán felmerülő költség;
+c)[^36] számítógépes szoftver vásárlása vagy kifejlesztése, valamint szabadalom, licencia, szerzői jog és védjegy megszerzése;
 
 d) nem építési célú földvásárlás, a beruházás összes elszámolható költségének legfeljebb 10%-áig;
 
@@ -19,3 +19,5 @@ a) az élelmiszeralapú bioüzemanyagok előállításával kapcsolatos beruház
 b) a hatályos uniós szabályoknak való megfelelést szolgáló beruházás;
 
 c) lízingszerződés esetén tőkén felüli egyéb költségek elszámolása.
+
+[^36]: A 9. § (1) bekezdés c) pontja a 34/2023. (VII. 14.) AM rendelet 8. § b) pontja szerint módosított szöveg.

@@ -54,4 +54,6 @@ e) a kezességvállaló intézmény által az ügylet kamatára vállalt készfi
 
 (10) Az egy beruházáshoz igénybe vett összes támogatás – függetlenül attól, hogy annak finanszírozása államháztartási vagy uniós forrásból történik – támogatási intenzitása nem haladhatja meg az irányadó uniós állami támogatási szabályokban meghatározott támogatási intenzitást vagy támogatási összeget.
 
-(11) A 7. § (2) bekezdés f) pontja szerinti beruházáshoz nyújtott kezességi díjtámogatás nem halmozható a mezőgazdasági csoportmentességi rendelet 25., 26. és 30. cikke szerinti anyagi károk ellentételezése céljából nyújtott támogatással.
+(11)[^16] A 7. § (2) bekezdés f) pontja szerinti beruházáshoz nyújtott kezességi díjtámogatás nem halmozható a mezőgazdasági csoportmentességi rendelet 25., 26., 28. és 37. cikke szerinti anyagi károk ellentételezése céljából nyújtott támogatással.
+
+[^16]: A 3. § (11) bekezdése a 34/2023. (VII. 14.) AM rendelet 7. § j) pontja szerint módosított szöveg.
