@@ -10,13 +10,13 @@ b) fejlesztési tartalékként nyilvántartott összeggel,
 
 c) foglalkoztatási kedvezménnyel,
 
-d) nyilvántartott adókülönbözettel,
+d)
 
 e) kisvállalkozások adókedvezményével
 
 kapcsolatban keletkezett adófizetési kötelezettségét.
 
-(3) Az egyéni vállalkozó, ha az adóév utolsó napján a tevékenységét szünetelteti, bevallásában kisvállalkozói kedvezmény, fejlesztési tartalék, foglalkoztatási kedvezmény címen jövedelmét nem csökkentheti, nem tüntethet fel nyilvántartott adókülönbözetet, nem érvényesítheti a kisvállalkozások adókedvezményét.
+(3) Az egyéni vállalkozó, ha az adóév utolsó napján a tevékenységét szünetelteti, bevallásában kisvállalkozói kedvezmény, fejlesztési tartalék, foglalkoztatási kedvezmény címen jövedelmét nem csökkentheti, nem érvényesítheti a kisvállalkozások adókedvezményét.
 
 (4) Az egyéni vállalkozó
 

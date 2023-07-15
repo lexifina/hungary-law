@@ -1,3 +1,5 @@
+## 7. Ha az őstermelők családi gazdasága év közben megszűnik, akkor az őstermelők családi gazdasága tagjainak jövedelmét úgy kell meghatározni, hogy az őstermelők családi gazdaságának az őstermelői nyilvántartásból való törlése időpontjáig megszerzett bevételt és – tételes költségelszámolás esetén – a költségeket fel kell osztani 2. pontban meghatározottak szerint a törlés napján közös tevékenységeket folytató tagok között.
+
 7. számú melléklet az 1995. évi CXVII. törvényhez
 
 A külföldi személyek egyes jövedelmei adózásának különös szabályairól

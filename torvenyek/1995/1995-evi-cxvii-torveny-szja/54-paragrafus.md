@@ -2,4 +2,4 @@
 
 (2) Az (1) bekezdés rendelkezését nem kell alkalmazni azon költségekre, fejlesztési kiadásokra, amelyek fedezetére jogszabály vagy nemzetközi szerződés alapján vissza nem térítendő támogatás folyósítása történt.
 
-(3) Az átalányadózás választását megelőzően érvényesített kisvállalkozói kedvezményre, nyilvántartásba vett fejlesztési tartalékra, foglalkoztatási kedvezményre, nyilvántartott adókülönbözetre, valamint a kisvállalkozások adókedvezményére a 49/B. §, illetve a 13. számú melléklet rendelkezéseit az átalányadózás időszakában is alkalmazni kell.
+(3) Az átalányadózás választását megelőzően érvényesített kisvállalkozói kedvezményre, nyilvántartásba vett fejlesztési tartalékra, foglalkoztatási kedvezményre, valamint a kisvállalkozások adókedvezményére a 49/B. §, illetve a 13. számú melléklet rendelkezéseit az átalányadózás időszakában is alkalmazni kell.

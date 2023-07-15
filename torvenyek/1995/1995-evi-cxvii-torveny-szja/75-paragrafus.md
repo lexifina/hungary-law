@@ -4,7 +4,7 @@
 
 (2) A társasház e törvény XI–XIV. fejezetében – e § rendelkezésein kívül – említett bevételéből a jövedelmet és az adót – figyelemmel a (3) és a (4) bekezdés rendelkezéseire is – úgy kell megállapítani és megfizetni, mintha azt magánszemély szerezte volna meg, azzal, hogy magánszemélynek a társasházat kell tekinteni. A fennmaradó összegből a magánszemély tulajdonostársak között felosztott jövedelmet további adókötelezettség nem terheli.
 
-(3) A közös tulajdon tárgyát képező ingatlanrész átruházása esetén a bevétel 25 százaléka minősül jövedelemnek, azzal, hogy a 62. § (4) és (6) bekezdés rendelkezései nem alkalmazhatók.
+(3) A közös tulajdon tárgyát képező ingatlanrész átruházása esetén a bevétel 25 százaléka minősül jövedelemnek, azzal, hogy a 62. § (4) bekezdés rendelkezései nem alkalmazhatók.
 
 (4) A (2) bekezdés rendelkezéseit nem kell alkalmazni a közös tulajdon tárgyát képező ingatlanrész átruházásából származó jövedelem után a magánszemély tulajdonostársakat tulajdoni hányaduk arányában megillető bevételre akkor, ha a társasház közgyűlésének határozata alapján egyénileg tesznek eleget az adókötelezettségüknek.
 

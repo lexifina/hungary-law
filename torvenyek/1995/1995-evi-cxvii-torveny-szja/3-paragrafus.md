@@ -202,7 +202,7 @@ n)
 
 30. Ingó vagyontárgy: az ingatlannak nem minősülő dolog, kivéve a fizetőeszközt, az értékpapírt és a föld tulajdonosváltozása nélkül értékesített lábon álló (betakarítatlan) termést, terményt (pl. lábon álló fa).
 
-31. Vagyoni értékű jog: a földhasználat, az ingatlanon fennálló haszonélvezet és használat, a telki szolgalom, valamint az ingatlan bérleti joga.
+31. Vagyoni értékű jog: a földhasználat, építményi jog, az ingatlanon fennálló haszonélvezet és használat, a telki szolgalom, valamint az ingatlan bérleti joga.
 
 32. Értéknövelő beruházás:
 

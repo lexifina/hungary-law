@@ -42,7 +42,7 @@ valamint más magánszemély javára megállapodás alapján nyugellátásra jog
 
 5. az olyan személybiztosítás díja, amelynek biztosítottja az alkalmazott (adóköteles biztosítási díj esetében feltéve, hogy a biztosítói szolgáltatás kedvezményezettje nem az egyéni vállalkozó), továbbá az egyéni vállalkozó által az alkalmazott javára az önkéntes kölcsönös biztosító pénztárba történő munkáltatói hozzájárulás és annak közterhei;
 
-6. a befizetett saját szociális hozzájárulási adó, egészségügyi szolgáltatási járulék;
+## 6. a befizetett saját szociális hozzájárulási adó;
 
 7. a köztestület számára tagdíj vagy annak megfelelő jogcímen fizetett összeg, továbbá az egyéni vállalkozói tevékenységgel kapcsolatos érdekképviseleti feladatot is ellátó egyesület számára tagdíj címén fizetett összeg;
 
@@ -182,11 +182,11 @@ f) A bányaművelésre, a hulladéktárolásra igénybe vett földterület, tele
 
 g) A kétszázezer forint egyedi beszerzési, előállítási értéket meg nem haladó, valamint a 33 százalékos norma alá besorolt tárgyi eszközök esetében választható, hogy a leírási évek száma két adóév és a leírás mértéke 50-50 százalék.
 
-h) Az 1995. december 31-e után üzembe helyezett, korábban még használatba nem vett, a Harmonizált Rendszer szerint (a továbbiakban: HR) 8401 vámtarifaszám (a továbbiakban: vtsz.), a HR 8405-8408, 8410-8430, 8432-8447, 8449-8465, 8467, 8468, 8474-8484, 8487, 8508, 8515, 8701, 8709, 8716 vtsz.-ok alá tartozó gépek, gépi berendezések, a HR 8501, 8502, 8504-8507, 8511-8513, 8530, 8531, 8535-8537, 8539, 8543-8548, 9006, 9405 vtsz.-ok alá tartozó elektromos berendezések, a HR 8403 vtsz. alá tartozó kazán és a HR 8402 vtsz. alá tartozó gőzfejlesztő berendezés esetében évi 30 százalék értékcsökkenési leírás érvényesíthető, kivéve, ha az adózó az e fejezet alapján érvényesíthető magasabb kulcs alkalmazását választja.
+## h) A korábban még használatba nem vett, a Harmonizált Rendszer szerint (a továbbiakban: HR) 8401 vámtarifaszám (a továbbiakban: vtsz.), a HR 8405-8408, 8410-8430, 8432-8447, 8449-8465, 8467, 8468, 8474-8484, 8487, 8508, 8515, 8701, 8709, 8716 vtsz.-ok alá tartozó gépek, gépi berendezések, a HR 8501, 8502, 8504-8507, 8511-8513, 8530, 8531, 8535-8537, 8539, 8543-8548, 9006, 9405 vtsz.-ok alá tartozó elektromos berendezések, a HR 8403 vtsz. alá tartozó kazán és a HR 8402 vtsz. alá tartozó gőzfejlesztő berendezés esetében évi 30 százalék értékcsökkenési leírás érvényesíthető, kivéve, ha az adózó az e fejezet alapján érvényesíthető magasabb kulcs alkalmazását választja.
 
 i) A vállalkozási övezetben telephellyel rendelkező egyéni vállalkozó a vállalkozási övezetté minősítést követően, de legkésőbb 2002. december 31-én ott üzembe helyezett és korábban még használatba nem vett tárgyi eszközök – kivéve a közúti gépjárművet (HR 8701-8705, 8710, 8711 vtsz.-ok), az épületet és az építményt – esetében egyösszegű, valamint a vállalkozási övezetté minősítést követően, de legkésőbb 2002. december 31-én ott üzembe helyezett és korábban még használatba nem vett épület, építmény esetében évi 10 százalék mértékű értékcsökkenési leírást érvényesíthet. E rendelkezés alkalmazásában vállalkozási övezetnek minősül a jogszabályban ilyenként meghatározott közigazgatási egység.
 
-j) Tárgyi eszköz, nem anyagi javak 1996. december 31-ét követő részletfizetéssel történő vásárlása esetén – amennyiben a szerződés szerint a vevő legkésőbb az utolsó részlet törlesztésével vagy azt követően egy meghatározott időtartamon belül tulajdonossá válik –, a vevő egyéni vállalkozó a tárgyi eszköz, nem anyagi javak beszerzési árának egészére alkalmazhatja az e melléklet szerinti értékcsökkenési leírást, függetlenül a vételár kiegyenlítésének módjától. Ha az egyéni vállalkozó az előzőek szerinti módon adja el tárgyi eszközét, nem anyagi javait, akkor adóévi bevételként az adott évben e címen kapott törlesztő részlet összegét kell figyelembe vennie. A részletfizetéshez kapcsolódó kamat nem része a beszerzési árnak, a kifizetés évében költségként elszámolható.
+## j) Tárgyi eszköz, nem anyagi javak részletfizetéssel történő vásárlása esetén – amennyiben a szerződés szerint a vevő legkésőbb az utolsó részlet törlesztésével vagy azt követően egy meghatározott időtartamon belül tulajdonossá válik –, a vevő egyéni vállalkozó a tárgyi eszköz, nem anyagi javak beszerzési árának egészére alkalmazhatja az e melléklet szerinti értékcsökkenési leírást, függetlenül a vételár kiegyenlítésének módjától. Ha az egyéni vállalkozó az előzőek szerinti módon adja el tárgyi eszközét, nem anyagi javait, akkor adóévi bevételként az adott évben e címen kapott törlesztő részlet összegét kell figyelembe vennie. A részletfizetéshez kapcsolódó kamat nem része a beszerzési árnak, a kifizetés évében költségként elszámolható.
 
 k) A szálláshely-szolgáltató és vendéglátó tevékenységet végző egyéni vállalkozó a kizárólag e célból üzemeltetett hosszú élettartamú szerkezetű épület esetében 3 százalék értékcsökkenési leírást érvényesíthet.
 
@@ -208,7 +208,7 @@ pc) agrár csoportmentességi (ABER) támogatásnak, az adóévben igénybe vett
 
 pd) minden más esetben az adóévben igénybe vett csekély összegű (de minimis) támogatásnak, vagy a kis- és középvállalkozásoknak nyújtott állami támogatásra vonatkozó bizottsági rendeletben foglaltak szerinti támogatásnak minősül;
 
-q) Az egyéni vállalkozó az 1998. december 31-ig üzembe helyezett tárgyi eszközeire vonatkozóan változatlanul alkalmazhatja a 11. számú melléklet 1998. december 31. napján hatályos rendelkezéseiben meghatározott leírási kulcsokat.
+## q)
 
 3. A leírási kulcsok jegyzéke és alkalmazásuk szabályai
 

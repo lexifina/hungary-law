@@ -18,7 +18,7 @@ b) – a (3)–(4) bekezdésben foglaltakat figyelembe véve – megállapítja 
 
 (3) Az egyéni vállalkozói tevékenység egyéni cég alapítása miatt történő megszűnése esetén
 
-a) a fejlesztési tartalékra, a foglalkoztatási kedvezményre, a nyilvántartott adókülönbözetre vonatkozó szabályok szempontjából, az előírt nyilvántartási kötelezettség betartása mellett – az egyéni vállalkozó döntése szerint –,
+a) a fejlesztési tartalékra, a foglalkoztatási kedvezményre vonatkozó szabályok szempontjából, az előírt nyilvántartási kötelezettség betartása mellett – az egyéni vállalkozó döntése szerint –,
 
 b) az egyéni cég tulajdonába adott eszköz esetében érvényesített kisvállalkozói kedvezményre, a kisvállalkozások adókedvezményére vonatkozó szabályok szempontjából
 
@@ -58,7 +58,7 @@ a megszűnés adóévéről szóló személyi jövedelemadó bevallásában, és
 
 (6) Ha az egyéni vállalkozó a tevékenységét ügyvédi iroda, közjegyzői iroda, végrehajtói iroda tagjaként folytatja, a tagi jogviszony keletkezését megelőző napra vonatkozóan az egyéni vállalkozói tevékenységét megszünteti azzal, hogy
 
-a) a foglalkoztatási kedvezménnyel, a nyilvántartott adókülönbözettel, a kisvállalkozások adókedvezményével összefüggő, a megszüntetésre vonatkozó szabályokat nem kell alkalmaznia;
+a) a foglalkoztatási kedvezménnyel, a kisvállalkozások adókedvezményével összefüggő, a megszüntetésre vonatkozó szabályokat nem kell alkalmaznia;
 
 b) adómegfizetési kötelezettség esetén késedelmi pótlék nélkül
 

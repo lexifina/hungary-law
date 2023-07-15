@@ -108,7 +108,7 @@ c)
 
 7.12. a hallgatói hitelrendszerről és a Diákhitel Központról szóló kormányrendelet alapján nyújtott, a hallgatói hitellel kapcsolatos célzott kamattámogatás;
 
-7.13. az állam tulajdonában lévő vállalkozói vagyon értékesítéséről szóló törvény rendelkezései szerint a munkavállaló részére nyújtott kedvezmény; a kedvezmény összegét a munkavállaló, vagy – ha a munkavállaló által megszerzett részesedés a hagyaték tárgyát képezte – örököse az értékpapír megszerzésére fordított érték részeként veszi figyelembe;
+## 7.13.
 
 7.14. A Nemzeti Földalapról szóló törvény, valamint a termőföld állam által életjáradék fizetése ellenében történő megvásárlásáról szóló kormányrendelet alapján kötött életjáradéki szerződésből származó jövedelem.
 
@@ -158,7 +158,7 @@ kerül sor.
 
 7.24. a munkába járással összefüggő terhek csökkentését célzó támogatásokról, valamint a munkaerő-toborzás támogatásáról szóló kormányrendelet szerinti lakhatási támogatás, a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról szóló kormányrendelet szerint az álláskereső részére nyújtható mobilitási támogatás a kifizetés időpontjától függetlenül;
 
-7.25. a Hajdú-Bét Rt., illetve a NOVOFARM Rt. élőállat-beszállítói által igénybe vehető mezőgazdasági csekély összegű (de minimis) támogatásról szóló vidékfejlesztési miniszteri rendelet, valamint a Pápai Hús 1913 Kft. élőállat-beszállítói által igénybe vehető csekély összegű (de minimis) támogatásról szóló vidékfejlesztési miniszteri rendelet szerinti támogatás azzal, hogy az adómentes juttatás után az adó mértékére vonatkozó rendelkezés (8. §) szerint megállapított, meg nem fizetett személyi jövedelemadó a mezőgazdasági termelők esetében agrár csekély összegű (de minimis) támogatásnak, a Pápai Hús 1913 Kft. élőállat-beszállítói által igénybe vehető csekély összegű (de minimis) támogatásról szóló vidékfejlesztési miniszteri rendelet 1. § 2. pont b)-c) alpont szerinti kérelmező esetében általános csekély összegű (de minimis) támogatásnak minősül;
+## 7.25.
 
 7.26. bizalmi vagyonkezelési szerződés alapján a vagyonkezelő által a kezelt vagyon, valamint a magánalapítvány vagyona (ide nem értve az említett vagyonok hozamait) terhére a kedvezményezett magánszemély részére juttatott vagyoni érték; nem alkalmazható ez a rendelkezés, ha a kedvezményezett magánszemély e jogállását valamely tevékenység, dolog átruházása vagy szolgáltatás nyújtása ellenértékeként, vagy azzal összefüggésben szerezte, továbbá nem alkalmazható e rendelkezés akkor sem, ha a kifizető – kifizető hiányában a kedvezményezett magánszemély – nyilvántartása alapján a hozamok nem különíthetőek el a kezelt vagy az alapítványi vagyontól;
 

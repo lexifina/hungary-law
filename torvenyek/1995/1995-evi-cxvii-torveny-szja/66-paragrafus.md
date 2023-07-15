@@ -14,7 +14,7 @@ ad) az alternatív befektetési alap által kibocsátott befektetési jegy hozam
 
 ae) a bizalmi vagyonkezelési szerződés alapján a kezelt vagyon hozamainak terhére a vagyonkezelő által a kedvezményezett vagy a vagyonrendelő magánszemély részére juttatott vagyoni érték;
 
-af) a kisadózó vállalkozás kisadózóként be nem jelentett tagja részére a társaság nyereségéből való részesedésként kifizetett összeg;
+af)
 
 ag) a közhasznúnak nem minősülő alapítvány által az alapítványi vagyon hozamainak terhére a kedvezményezett magánszemély részére juttatott vagyoni érték;
 

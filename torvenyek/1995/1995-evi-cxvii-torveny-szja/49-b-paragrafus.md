@@ -138,7 +138,7 @@ a) a telephely bevételének megszerzése érdekében bárhol felmerült költs�
 
 b) a más telephely(ek)nek betudható bevételrész(ek) megszerzése érdekében is (bárhol) felmerült költségeknek (ideértve a vállalkozói kivétet is) és/vagy a (2)–(7) bekezdésben említett bárhol felmerült növelő, csökkentő tételek külföldi telephelynek betudható bevétellel arányos része levonásával, illetőleg figyelembevételével kell megállapítani.
 
-(16) A fejlesztési tartalékként nyilvántartott összeg annyiban és akkor vezethető ki a nyilvántartásból, ha és amennyiben az egyéni vállalkozó a nyilvántartásba vétel évében és az azt követő három adóév során általa kizárólag üzemi célt szolgáló tárgyi eszköz nem ingyenes megszerzése vagy előállítása érdekében – alapnyilvántartásában, valamint egyedi beruházási és felújítási költségnyilvántartásában rögzített – beruházási, felújítási kiadás(oka)t [ide nem értve az olyan beruházási, felújítási kiadást, amelyre a (22) bekezdés rendelkezéseit alkalmazza] teljesít, kivéve, ha megállapítja
+(16) A fejlesztési tartalékként nyilvántartott összeg annyiban és akkor vezethető ki a nyilvántartásból, ha és amennyiben az egyéni vállalkozó a nyilvántartásba vétel évében és az azt követő három adóév során általa kizárólag üzemi célt szolgáló tárgyi eszköz nem ingyenes megszerzése vagy előállítása érdekében – alapnyilvántartásában, valamint egyedi beruházási és felújítási költségnyilvántartásában rögzített – beruházási, felújítási kiadás(oka)t teljesít, kivéve, ha megállapítja
 
 a) a kivezetett rész után a (9) bekezdésnek a nyilvántartásba vétel adóévében hatályos rendelkezései szerinti mértékkel a vállalkozói személyi jövedelemadót [49/B. § (9) bekezdés], valamint
 
