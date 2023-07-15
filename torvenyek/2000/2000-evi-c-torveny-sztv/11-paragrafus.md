@@ -6,7 +6,7 @@
 
 (3) Az üzleti év mérlegfordulónapjának megváltoztatására – a (2) bekezdésben rögzítettek mellett is – három, beszámolóval lezárt üzleti év után, vagy a konszolidálásba történő bevonáskor, vagy az anyavállalat személyében bekövetkezett változás esetén van lehetőség, a létesítő okirat ennek megfelelő módosítása mellett.
 
-(4) Az üzleti év időtartama – az (5)–(15) bekezdésben foglaltak kivételével – 12 naptári hónap.
+(4) Az üzleti év időtartama – az (5)–(13) bekezdésben foglaltak kivételével – 12 naptári hónap.
 
 (5) Üzleti év a jogelőd nélkül alapított vállalkozónál – ha e törvény eltérően nem rendelkezik – alapítása időpontjától (létesítő okirata ellenjegyzésének, illetve közokiratba foglalásának napjától) létrejöttének (a cégjegyzékbe való bejegyzésének), illetve a cégbejegyzés iránti kérelem jogerős elutasításának, vagy a cégbejegyzési eljárás megszüntetésének napjáig – mint mérlegfordulónapig – terjedő időszak, függetlenül annak időtartamától (előtársasági időszak).
 
@@ -28,6 +28,6 @@
 
 (13) Az anyavállalat összevont (konszolidált) éves beszámolóját az anyavállalat éves beszámolójának üzleti évéről kell elkészíteni. Amennyiben az anyavállalat leányvállalatainak üzleti éve eltér az anyavállalat éves beszámolójának üzleti évétől, akkor az összevont (konszolidált) éves beszámoló üzleti éve lehet a leglényegesebb leányvállalat vagy a leányvállalatok többsége beszámolójának üzleti éve is. Ez esetben az eltérés tényét és annak indokait az összevont (konszolidált) éves beszámoló kiegészítő mellékletében be kell mutatni. Ezen túlmenően közölni kell az összevont (konszolidált) éves beszámoló kiegészítő mellékletében az eszközökkel, a forrásokkal, a pénzügyi és jövedelmi helyzet alakulásával kapcsolatos olyan lényeges események hatását, amelyek az anyavállalati éves beszámoló mérlegfordulónapja és az összevont (konszolidált) mérleg fordulónapja közötti időszakban következtek be.
 
-(14) Üzleti év a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény hatálya alá kerülő közkereseti társaságnál, betéti társaságnál, egyéni cégnél és ügyvédi irodánál az előző üzleti év mérlegfordulónapját követő naptól az adóalanyiság létrejöttét megelőző napig terjedő időszak, amennyiben a vállalkozó a nyilvántartásait a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény külön előírásai szerint teljesíti, és az áttérést megelőzően e törvény hatálya alatt volt.
+(14)
 
-(15) Üzleti év a 2/A. § (3) bekezdésében felsorolt, e törvény hatálya alá átkerülő (visszakerülő) vállalkozónál a visszatérés időpontjától a vállalkozó által – az (1)–(3) bekezdés szerinti feltételekkel – az üzleti év végeként megjelölt napig – mint mérlegfordulónapig – terjedő időszak.
+(15)

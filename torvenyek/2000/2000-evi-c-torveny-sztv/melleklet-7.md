@@ -103,3 +103,11 @@ Korrekciós tételek, amelyeket figyelembe kell venni (a felsorolás nem teljes 
 4. Az „5. Befektetett eszközök értékesítésének eredménye” sorban a befektetett eszközök eladási ára (kamatozó értékpapír esetén a felhalmozott kamattal csökkentett eladási ára) és könyv szerinti értéke közötti nyereséget negatív előjellel, a veszteséget pedig pozitív előjellel kell figyelembe venni.
 
 5. A „7. Egyéb rövid lejáratú kötelezettség változása” sorban a váltótartozások és az egyéb rövid lejáratú kötelezettségek állománynövekedését pozitív előjellel, állománycsökkenését negatív előjellel kell figyelembe venni. A megfizetett eredményt terhelő adó és az eredménykimutatás szerinti adókötelezettség különbözetét is ezen a soron kell ellenkező előjellel korrigálni.
+
+6. A „9. Vevőkövetelés változása” sorban a Követelések áruszállításból és szolgáltatásból (vevők) állománynövekedését negatív előjellel, állománycsökkenését pozitív előjellel, illetve a Vevőktől kapott előlegek állománynövekedését pozitív előjellel, állománycsökkenését negatív előjellel kell figyelembe venni. A „3. Elszámolt értékvesztés és visszaírás” sorban szereplő állományváltozásokat itt nem szabad figyelembe venni.
+
+7. Az egyéb sorokon kimutatott eszköz állományváltozásokat (a befektetési cash flow-val, a finanszírozási cash flow-val kapcsolatos tételek kivételével) növekedés esetén negatív előjellel, csökkenés esetén pozitív előjellel kell figyelembe venni, a forrás állományváltozásokat (a befektetési cash flow-val, a finanszírozási cash flow-val kapcsolatos tételek kivételével) pedig növekedés esetén pozitív előjellel, csökkenés esetén negatív előjellel kell beállítani.
+
+8. A „13. Fizetett osztalék, részesedés” sorban az adott időszakban fizetett osztalék, részesedés és a kamatozó részvények után fizetett kamat összegét kell kimutatni. Az osztalékfizetési kötelezettség állományváltozásával azt a cash flow-kimutatás sort kell korrigálni (növekedés esetén negatív előjellel, csökkenés esetén pozitív előjellel), amely az ilyen jellegű kötelezettséget tartalmazza.
+
+9. A „14. Befektetett eszközök beszerzése” sorban az adott időszakban beszerzett befektetett eszközök pénzügyileg rendezett beszerzési értékét kell kimutatni. Az ezzel kapcsolatos kötelezettségeket a szállítók korrekciójával kell kiszűrni.

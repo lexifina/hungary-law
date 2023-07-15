@@ -18,6 +18,8 @@ g) az egyes pénz- és tőkepiaci szolgáltatásokat is végző egyéb vállalko
 
 h) a mikrogazdálkodói egyszerűsített éves beszámoló készítésének sajátosságait.
 
+i) a mérlegképes könyvelői hatósági képesítés szakmai és vizsgakövetelményeit, a hatósági képzés és a hatósági vizsgáztatás megvalósításának részletszabályait, a hatósági képzés eredményes elvégzésének, illetve a hatósági vizsga teljesítésének követelményeit és igazolási módját, a hatósági képzés és a hatósági vizsgáztatás szakmai ellenőrzésének szabályait, a hatósági képzés és a hatósági vizsgáztatás szervezésére és lebonyolítására jelentkező szervezetek akkreditációs eljárásának, továbbá a vizsgaelnöki és a vizsgabiztosi névjegyzékbe történő felvételi eljárásnak a részletes szabályait.
+
 (2)
 
 (3) Felhatalmazást kap a miniszter, hogy a 154/A. § (2) bekezdésének megfelelő államok listáját közzétegye.
@@ -27,3 +29,5 @@ h) a mikrogazdálkodói egyszerűsített éves beszámoló készítésének saj�
 (5) Felhatalmazást kap a miniszter arra, hogy – az adópolitikáért felelős miniszter egyetértésével – rendeletben állapítsa meg a könyvviteli szolgáltatást végzők engedélyezési és nyilvántartásba vételi eljárásáért, a nyilvántartásból való törlésért, a hatósági igazolvány pótlásával, cseréjével, és a nyilvántartásban szereplő adatok módosításával összefüggő eljárásért, valamint a tevékenység határon átnyúló jelleggel történő megkezdésének és folytatásának bejelentésével összefüggő eljárásért, továbbá a szakmai továbbképzés szervezésére és lebonyolítására jelentkező szervezetek akkreditációs eljárásáért, a továbbképzési programok és szakmai kiadványok kreditpont-minősítési eljárásáért és a szakmai szervezetként történő elismerés eljárásáért fizetendő igazgatási szolgáltatási díj mértékét és a díj megfizetésének részletes szabályait.
 
 (6) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg az online kapcsolatra képes, adóügyi ellenőrzési egységgel rendelkező pénztárgépre való 2013. évi cseréhez nyújtott támogatás elszámolásának részletes szabályait.
+
+(7) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg a mérlegképes könyvelői hatósági képzés és hatósági vizsgáztatás szervezésére és lebonyolítására jelentkező szervezetek akkreditációs eljárásáért fizetendő igazgatási szolgáltatási díj mértékét és a díj megfizetésének részletes szabályait.
