@@ -1,15 +1,1 @@
-### 74. § [Összeférhetetlenség]
-
-(1) A köznevelési foglalkoztatotti jogviszonyban álló nem létesíthet munkavégzésre irányuló további jogviszonyt, ha az a köznevelési foglalkoztatotti jogviszonya alapján betöltött munkakörével a (2)–(6) bekezdés szerint összeférhetetlen.
-
-(2) A vezető, továbbá a pénzügyi kötelezettségvállalásra jogosult köznevelési foglalkoztatotti jogviszonyban álló munkakörével, vezető megbízásával összeférhetetlen a munkáltatóval rendszeres gazdasági kapcsolatban álló gazdasági társaságban betöltött vezető tisztségviselői, felügyelőbizottsági tagság, egyéni vállalkozói minőség.
-
-(3) Nem lehet a köznevelési intézmény igazgatója a köznevelési intézmény fenntartója, továbbá a köznevelési intézmény fenntartójánál vezető állású munkavállaló vagy vezetői megbízással rendelkező köznevelési foglalkoztatotti jogviszonyban álló személy. Ha a köznevelési intézmény fenntartója a nemzetiségi önkormányzat vagy az óvoda fenntartója a települési önkormányzat, ez a korlátozás nem vonatkozik a fenntartói jogot gyakorló képviselő-testület tagjaira. Az egyházi és magán fenntartású köznevelési intézmények esetében ez a korlátozás nem vonatkozik a fenntartói jogot gyakorló személyre vagy testület tagjaira.
-
-(4) A munkáltató a köznevelési foglalkoztatotti jogviszonyban állóval munkaköri feladatai ellátására munkavégzésre irányuló további jogviszonyt nem létesíthet, kivéve, ha azonos tankerületi központ által fenntartott másik köznevelési intézményben történő foglalkoztatásra vendégtanárként óraadói megbízás alapján kerül sor.
-
-(5) Ha a köznevelési foglalkoztatotti jogviszonyban álló munkaideje a köznevelési foglalkoztatotti jogviszonyban és a munkavégzésre irányuló további jogviszonyban – részben vagy egészben – azonos időtartamra esik, a munkavégzésre irányuló további jogviszony csak a munkáltató előzetes írásbeli hozzájárulásával létesíthető. A hozzájárulás megtagadásával szemben munkaügyi jogvita nem kezdeményezhető.
-
-(6) A köznevelésben foglalkoztatott további munkavégzésre irányuló jogviszonyt a munkáltató engedélyével létesíthet. Ettől eltérően a munkáltatónak előzetesen írásban be kell jelenteni a munkaidejét nem érintő tevékenység folytatását, kivéve a tudományos, az e törvény hatálya alá eső tevékenységnek nem minősülő oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység, továbbá a közérdekű önkéntes tevékenység folytatását. A munkáltató a bejelentett jogviszony létesítését összeférhetetlenség esetén írásban megtiltja. A munkáltatónak a munkavégzésre irányuló további jogviszony létesítését megtiltó intézkedése ellen munkaügyi jogvita kezdeményezhető.
-
-(7) A köznevelésben foglalkoztatott haladéktalanul írásban bejelenti, ha vele szemben törvényben meghatározott összeférhetetlenségi ok merül fel, vagy ha köznevelési foglalkoztatotti jogviszonyának fennállása alatt összeférhetetlen helyzetbe kerül. Ha a munkáltatói jogkör gyakorlójának összeférhetetlenségi ok jut a tudomására, a jogkövetkezmények megjelölésével haladéktalanul írásban felszólítja a köznevelésben foglalkoztatottat, hogy az összeférhetetlenséget harminc napon belül szüntesse meg. Amennyiben a köznevelésben foglalkoztatott az összeférhetetlenséget a felszólítás kézbesítésétől számított harminc napon belül nem szünteti meg, köznevelési foglalkoztatotti jogviszonya megszűnik.
+### 74. §

@@ -1,11 +1,1 @@
-### 104. § [A vezetői teljesítmény elismerése, célfeladat ellátása]
-
-(1) Az igazgatót a fenntartó, az intézmény többi vezetőjét az igazgató ösztönzési kereset-kiegészítésben részesítheti, amelynek éves összege nem haladhatja meg a vezetői megbízási díjjal számított éves havi illetményének tíz százalékát.
-
-(2) Az igazgatót a fenntartó, a köznevelési foglalkoztatotti jogviszonyban állót az igazgató jutalomban részesítheti, amelynek éves összege vezető esetében nem haladhatja meg a vezető vezetői megbízási díjjal számított éves havi illetményének tizenöt százalékát, köznevelésben foglalkoztatott esetében éves havi illetményének tizenöt százalékát.
-
-(3) A munkáltató a munkakörbe tartozó feladatokon kívüli, célhoz köthető feladatot állapíthat meg a pedagógus részére, amelynek teljesítése a munkakör ellátásából adódó általános munkaterhet jelentősen meghaladja (a továbbiakban: célfeladat). A célfeladat eredményes végrehajtásáért – a pedagógus havi illetményén felül, írásban, a célfeladat teljesítésének igazolásakor – céljuttatás jár. Céljuttatás nem állapítható meg óradíjjal ellentételezett feladat ellátásáért.
-
-(4) A közszolgálati tisztviselők jogállásáról szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) vagy a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) szerinti célfeladat végrehajtásában a Kttv.-ben vagy a Kit.-ben, valamint ezek végrehajtására kiadott rendeletben foglalt feltételekkel és korlátozásokkal a köznevelési intézményben foglalkoztatott pedagógus is részt vehet és a kormánytisztviselőkkel azonos feltételek szerint a célfeladat eredményes végrehajtásáért céljuttatásra jogosult.
-
-(5) A hivatal vagy az oktatási központ a pedagógus számára a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvénytől (a továbbiakban: Kjt.), a Kttv.-től vagy a Kit.-től eltérően részben vagy egészben hazai vagy európai uniós forrásból finanszírozott projekt megvalósítására célfeladatot akkor is kitűzhet és céljuttatást akkor is megállapíthat, ha az adott feladat nem tartozik a hivatal vagy az oktatási központ közhatalmi, irányítási, ellenőrzési és felügyeleti hatáskörének gyakorlásával közvetlenül összefüggő, valamint ügyviteli feladatai közé.
+### 104. §
