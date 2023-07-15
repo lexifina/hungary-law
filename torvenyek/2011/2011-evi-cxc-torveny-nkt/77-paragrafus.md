@@ -18,7 +18,7 @@ f) működteti az oktatási jogok biztosának hivatalát,
 
 g) javaslatot tesz statisztikai adatszolgáltatásra,
 
-h) jóváhagyja az iskolák által használt bizonyítványnyomtatványokat és a kiállításuk alapjául szolgáló nyomtatványokat, engedélyezi előállításukat és forgalomba hozatalukat, továbbá jóváhagyja a kötelező tanügyi nyilvántartást felváltó elektronikus adatnyilvántartást,
+h) jóváhagyja az iskolák által használt bizonyítványnyomtatványokat, és a kiállításuk alapjául szolgáló nyomtatványokat, engedélyezi előállításukat és forgalomba hozatalukat, továbbá jóváhagyja a kötelező tanügyi nyilvántartást felváltó, a tanulmányi rendszerben megvalósuló elektronikus adatnyilvántartást,
 
 i) ellátja a területfejlesztéshez kapcsolódó oktatáspolitikai feladatokat,
 
