@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-43-20-1
 | 2021-01-01 | 2014-43-20-11.10 | 62/2020. (XII. 12.) AM rendelet |
 | 2021-05-21 | 2014-43-20-11.11 | 21/2021. (V. 20.) AM rendelet |
 | 2023-01-01 | 2014-43-20-11.12 | 76/2015. (XI. 24.) FM rendelet |
+| 2023-07-15 | 2014-43-20-11.13 | 32/2023. (VII. 14.) AM rendelet |

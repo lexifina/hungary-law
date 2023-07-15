@@ -16,9 +16,9 @@ bc) a támogatási évben apaállattá nyilvánított, KPLSZ-szel ellátott, Mag
 
 után.
 
-(2)[^26] A támogatásra való jogosultság feltétele minden fajta esetében, hogy a támogatott egyedek szaporítását (termékenyítés, fedeztetés) az Állat, Növény, Élelmiszer-biztonsági és Borminősítési Információs Rendszer részét képező Szarvasmarha Információs Rendszerbe (a továbbiakban: SZIR) szabályszerűen bejelentették, és azt a rendszer regisztrálta.
+(2)[^29] A támogatásra való jogosultság feltétele minden fajta esetében, hogy a támogatott egyedek szaporítását (termékenyítés, fedeztetés) az Állat, Növény, Élelmiszer-biztonsági és Borminősítési Információs Rendszer részét képező Szarvasmarha Információs Rendszerbe (a továbbiakban: SZIR) szabályszerűen bejelentették, és azt a rendszer regisztrálta.
 
-(3)[^27]
+(3)[^30]
 
-[^26]: A 12. § (2) bekezdése a 62/2020. (XII. 12.) AM rendelet 9. § f) pontja szerint módosított szöveg.
-[^27]: A 12. § (3) bekezdését a 62/2020. (XII. 12.) AM rendelet 10. § e) pontja hatályon kívül helyezte.
+[^29]: A 12. § (2) bekezdése a 62/2020. (XII. 12.) AM rendelet 9. § f) pontja szerint módosított szöveg.
+[^30]: A 12. § (3) bekezdését a 62/2020. (XII. 12.) AM rendelet 10. § e) pontja hatályon kívül helyezte.

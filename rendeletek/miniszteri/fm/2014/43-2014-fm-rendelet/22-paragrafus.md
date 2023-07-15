@@ -6,6 +6,6 @@ b) húshasznú fajták esetében valamennyi, két évnél fiatalabb, a főtörzs
 
 (2) A támogatás feltétele, hogy a tenyésztőszervezet a küllemi bírálati adatokat a tenyésztési hatóság részére a tenyésztési hatósággal kötött megállapodásban foglaltak szerint átadta.
 
-(3)[^40]
+(3)[^43]
 
-[^40]: A 22. § (3) bekezdését a 62/2020. (XII. 12.) AM rendelet 10. § e) pontja hatályon kívül helyezte.
+[^43]: A 22. § (3) bekezdését a 62/2020. (XII. 12.) AM rendelet 10. § e) pontja hatályon kívül helyezte.

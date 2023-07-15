@@ -12,9 +12,9 @@ c) tenyészérték becslés.
 
 (3) Az egyes célterületeken belül támogatható szolgáltatások megnevezését az 1. melléklet tartalmazza.
 
-(4)[^4]
+(4)[^5]
 
-(5)[^5]
+(5)[^6]
 
-[^4]: A 2. § (4) bekezdését a 62/2020. (XII. 12.) AM rendelet 10. § a) pontja hatályon kívül helyezte.
-[^5]: A 2. § (5) bekezdését a 62/2020. (XII. 12.) AM rendelet 10. § a) pontja hatályon kívül helyezte.
+[^5]: A 2. § (4) bekezdését a 62/2020. (XII. 12.) AM rendelet 10. § a) pontja hatályon kívül helyezte.
+[^6]: A 2. § (5) bekezdését a 62/2020. (XII. 12.) AM rendelet 10. § a) pontja hatályon kívül helyezte.

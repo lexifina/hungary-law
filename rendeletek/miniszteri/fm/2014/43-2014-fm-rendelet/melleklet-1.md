@@ -1,4 +1,4 @@
-1. melléklet a 43/2014. (XII. 29.) FM rendelethez[^98]
+1. melléklet a 43/2014. (XII. 29.) FM rendelethez[^102]
 
 Támogatható jogcímek, tevékenységek és az igényelhető támogatás mértéke
 
@@ -154,4 +154,4 @@ Támogatható jogcímek, tevékenységek és az igényelhető támogatás mért�
 
 | 1. | Törzskönyvezés | Belföldi származási igazolás kiadása, egyéb törzskönyvezési ügyintézés díja | 7 000 Ft/egyed |
 
-[^98]: Az 1. melléklet a 62/2020. (XII. 12.) AM rendelet 8. §-a szerint módosított szöveg.
+[^102]: Az 1. melléklet a 62/2020. (XII. 12.) AM rendelet 8. §-a szerint módosított szöveg.

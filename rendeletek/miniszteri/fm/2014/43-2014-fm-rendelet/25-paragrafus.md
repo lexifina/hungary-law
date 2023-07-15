@@ -2,6 +2,6 @@
 
 (2) A támogatás feltétele, hogy a tenyésztőszervezet az általa elkészített vizsgálati tervet a tenyésztési hatóság számára megküldte, és a mért adatokat a tenyésztési hatóság részére a tenyésztési hatósággal kötött megállapodásban foglaltak szerint átadta.
 
-(3)[^43]
+(3)[^46]
 
-[^43]: A 25. § (3) bekezdését a 62/2020. (XII. 12.) AM rendelet 10. § e) pontja hatályon kívül helyezte.
+[^46]: A 25. § (3) bekezdését a 62/2020. (XII. 12.) AM rendelet 10. § e) pontja hatályon kívül helyezte.

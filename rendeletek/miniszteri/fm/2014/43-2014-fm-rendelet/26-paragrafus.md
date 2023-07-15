@@ -10,6 +10,6 @@ után.
 
 (2) A támogatás feltétele, hogy a tenyészértékbecsléssel kapcsolatos feladatokat a tenyésztési hatóság a tenyésztőszervezettel kötött megállapodásban elfogadta, valamint a hústermelő képesség-, és fitnesz tenyészérték adatokat a tenyésztőszervezet a tenyésztési hatóság részére, a tenyésztési hatósággal kötött megállapodásban foglaltak szerint átadta.
 
-(3)[^44]
+(3)[^47]
 
-[^44]: A 26. § (3) bekezdését a 62/2020. (XII. 12.) AM rendelet 10. § e) pontja hatályon kívül helyezte.
+[^47]: A 26. § (3) bekezdését a 62/2020. (XII. 12.) AM rendelet 10. § e) pontja hatályon kívül helyezte.

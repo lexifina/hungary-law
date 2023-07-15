@@ -8,6 +8,6 @@ c) a törzskönyvi nyilvántartásban szereplő élő törzskosok és -bakok, to
 
 után.
 
-(2)[^59]
+(2)[^62]
 
-[^59]: A 41. § (2) bekezdését a 62/2020. (XII. 12.) AM rendelet 10. § e) pontja hatályon kívül helyezte.
+[^62]: A 41. § (2) bekezdését a 62/2020. (XII. 12.) AM rendelet 10. § e) pontja hatályon kívül helyezte.

@@ -6,6 +6,6 @@ b) a tenyésztési hatóság által főtörzskönyvi számmal ellátott, a tárg
 
 után.
 
-(2)[^71]
+(2)[^74]
 
-[^71]: Az 54. § (2) bekezdését a 62/2020. (XII. 12.) AM rendelet 10. § e) pontja hatályon kívül helyezte.
+[^74]: Az 54. § (2) bekezdését a 62/2020. (XII. 12.) AM rendelet 10. § e) pontja hatályon kívül helyezte.

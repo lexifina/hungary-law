@@ -1,4 +1,4 @@
-## IX. Fejezet[^91]
+## IX. Fejezet[^94]
 
 ## MAGYAR EBFAJTA TÖRZSKÖNYVEZÉS
 
@@ -6,4 +6,4 @@
 
 (2) A támogatási kérelmet a tenyésztőszervezet évente egy alkalommal nyújthatja be.
 
-[^91]: A IX. fejezetet (65/A. §) a 62/2020. (XII. 12.) AM rendelet 7. §-a iktatta be.
+[^94]: A IX. fejezetet (65/A. §) a 62/2020. (XII. 12.) AM rendelet 7. §-a iktatta be.
