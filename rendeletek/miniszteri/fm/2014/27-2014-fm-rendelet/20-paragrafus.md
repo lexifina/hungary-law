@@ -1,1 +1,0 @@
-## 19. § Ez a rendelet a mezőgazdasági és az erdészeti ágazatban, valamint a vidéki térségekben nyújtott állami támogatásokról szóló, 2014–2020 időszakra vonatkozó európai uniós iránymutatás 1.2.1.1. és 1.2.1.2. alfejezetei végrehajtásához szükséges rendelkezéseket tartalmaz.

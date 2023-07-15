@@ -1,4 +1,4 @@
-## 2X10330M.docx
+## 3X05706M.docx
 
 ## A kárenyhítő juttatás meghatározásának számítási módszere
 
@@ -18,7 +18,7 @@
 
 | növénykultúra adott évi területe (ha) |
 
-## Azokban az években, amelyekben a termelő nem termesztette az adott növénykultúrát, a növénykultúra adott évi hozamánál az ügyfél székhelye vagy lakóhelye szerinti vármegye vonatkozásában képzett vármegyei, ennek hiányában országos, az Mkk. tv. 2. § 2a. pontja szerinti átlaghozamot kell feltüntetni.
+## Azokban az években, amelyekben a termelő nem termesztette az adott növénykultúrát, a növénykultúra adott évi hozamánál a természetes személy – ideértve az egyéni vállalkozókat is – esetében a lakóhelye, jogi személy vagy egyéb szervezet esetében a székhelye szerinti vármegye vonatkozásában képzett vármegyei, ennek hiányában országos, az Mkk. tv. 2. § 2a. pontja szerinti átlaghozamot kell feltüntetni.
 
 ## 2. A referenciahozam kiszámítása
 
@@ -136,6 +136,6 @@
 
 | Bérletidíj-csökkenés összege (Ft) | = | növénykultúra tárgyévi vetésterülete (ha) | × | [piaci bérleti díj (Ft/ha) – kedvezményes bérleti díj (Ft/ha)] |
 
-4. melléklet a 27/2014. (XI. 25.) FM rendelethez[^99]
+4. melléklet a 27/2014. (XI. 25.) FM rendelethez[^102]
 
-[^99]: A 4. mellékletet a 60/2020. (XII. 9.) AM rendelet 9. § b) pontja hatályon kívül helyezte.
+[^102]: A 4. mellékletet a 60/2020. (XII. 9.) AM rendelet 9. § b) pontja hatályon kívül helyezte.
