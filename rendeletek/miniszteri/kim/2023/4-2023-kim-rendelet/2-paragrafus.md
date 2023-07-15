@@ -1,1 +1,3 @@
-2. § A lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény végrehajtásáról szóló 17/1999. (XI. 18.) NKÖM rendelet 1. számú melléklet 28. pontjában az „Emberi Erőforrás” szövegrész helyébe a „Nemzeti Kulturális” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
