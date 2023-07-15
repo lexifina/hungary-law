@@ -22,7 +22,7 @@ h) a tapasztalt hiányosságok megszüntetésére vonatkozó esetleges javaslato
 
 i) ha a jegyzőkönyvben foglalt tényállás alapján hátrányos döntés meghozatalára kerül sor, akkor a Vámkódex 22. cikk (6) bekezdés alapján biztosított meghallgatáshoz való jogról és annak határidejéről szóló tájékoztatást,
 
-j) az ellenőrzést végző személy nevét és aláírását, az ellenőrzést lefolytató vámszerv bélyegzőlenyomatát és a keltezést.
+j) az ellenőrzést végző személy nevét és aláírását, az ellenőrzést lefolytató vámszerv bélyegzőlenyomatát és a keltezést. Elektronikus hitelesítés esetén az ellenőrzést végző személy nevét és az elektronikus hitelesítésre szolgáló bélyegzőt.
 
 (3) Az ellenőrzés megállapításait tartalmazó jegyzőkönyvet az ellenőrzött személlyel, illetve azzal a személlyel kell közölni, akivel szemben az alapján a hátrányos döntés meghozatala várható.
 

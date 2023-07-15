@@ -4,7 +4,7 @@
 
 (2) A tanú a vallomását tartalmazó iratba, a szemletárgy birtokosa a szemléről készített iratba tekinthet be.
 
-(3) Harmadik személy akkor tekinthet be a személyes adatot vagy védett adatot tartalmazó iratba, ha igazolja, hogy az adat megismerése joga érvényesítéséhez, illetve jogszabályon vagy hatósági határozaton alapuló kötelezettsége teljesítéséhez szükséges, valamint ha a védett adat megismerésének törvényi feltételei fennállnak. Az iratbetekintési jog – a személyes és védett adatok megismerhetetlenné tételéért, valamint az ilyen módon kivonatolt iratról való másolat készítéséért – az adópolitikáért felelős miniszter (a továbbiakban: miniszter) által rendeletben meghatározott költségtérítés ellenében gyakorolható.
+(3) Harmadik személy akkor tekinthet be a személyes adatot vagy védett adatot tartalmazó iratba, ha igazolja, hogy az adat megismerése joga érvényesítéséhez, illetve jogszabályon vagy hatósági határozaton alapuló kötelezettsége teljesítéséhez szükséges, valamint ha a védett adat megismerésének törvényi feltételei fennállnak.
 
 (4) Nem lehet betekinteni
 

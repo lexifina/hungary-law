@@ -12,7 +12,7 @@ a vámhatóság a bírság kiszabását mellőzi és figyelmezteti az érintett 
 
 (2) Az (1) bekezdés nem alkalmazható a 84. § (12) bekezdése szerinti jogsértés esetén.
 
-(3) A (4) bekezdésben foglaltak kivételével nem lehet vámigazgatási bírságot megállapítani árunyilatkozat-adással, árunyilatkozat adatainak helytállóságával összefüggésben, ha a nyilatkozattevő a Vámkódex 173. cikk (3) bekezdése szerint a közölt vámokat és egyéb terheket is érintő információ alapján kérelmezi a vám-árunyilatkozat módosítását.
+(3) A (4) bekezdésben foglaltak kivételével nem lehet vámigazgatási bírságot megállapítani árunyilatkozat-adással, árunyilatkozat adatainak helytállóságával összefüggésben, ha a nyilatkozattevő a Vámkódex 173. cikk (3) bekezdése szerint a közölt vámokat és egyéb terheket is érintő információ alapján kérelmezi a vám-árunyilatkozat módosítását, vagy a 174. cikk szerint kérelmezi a vám-árunyilatkozat érvénytelenítését a kiviteli vámeljárásokra vonatkozóan.
 
 (4) Ha a nyilatkozattevő a Vámkódex 173. cikk (3) bekezdése szerint a közölt vámokat és egyéb terheket is érintő információ alapján a vámhatóság erre irányuló áruátengedést követő ellenőrzésének megkezdését követően, de még az áruátengedést követő ellenőrzés megállapításait tartalmazó jegyzőkönyv közlése előtt kérelmezi a vám-árunyilatkozat módosítását az ellenőrzés tárgykörét érintően, vámigazgatási bírságként – az (1) bekezdésben és a 86. §-ban meghatározott kivétellel – a 84. § (8), (10) és (13) bekezdése szerint megállapítható bírságösszeg 50%-át kell kiszabni. A jogsértéssel érintett vám-árunyilatkozat ellenőrzés tárgykörét érintő módosítását az ellenőrzést lefolytató vámszervnek az ellenőrzés során kell elvégeznie.
 

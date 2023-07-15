@@ -43,3 +43,5 @@ d) a Vámkódex 211. cikk (6) bekezdés szerinti gazdasági feltételek vizsgál
 (15) Az egyes adótörvények uniós kötelezettségekhez kapcsolódó, valamint egyes törvények adóigazgatási tárgyú módosításáról szóló 2018. évi LXXXII. törvénnyel (a továbbiakban: Mód1. tv.) megállapított 155/A. §-t a Mód1. tv. hatálybalépését megelőzően nyújtott, a Mód1. tv. hatálybalépésekor még fel nem szabadított vámbiztosíték tekintetében is alkalmazni kell.
 
 (16) E törvénynek a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvénnyel megállapított 2. § 6. pontját a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvény hatálybalépésekor folyamatban levő ügyekben is alkalmazni kell.
+
+(17) E törvények a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 85. § (3) bekezdését a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvény hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.

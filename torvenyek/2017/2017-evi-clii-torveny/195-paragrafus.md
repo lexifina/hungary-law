@@ -1,12 +1,12 @@
 ## XXXII. Fejezet
 
-## A 1306/2013/EU EURÓPAI PARLAMENTI ÉS TANÁCSI RENDELET V. CÍM III. FEJEZETÉNEK VÉGREHAJTÁSA
+## A (EU) 2021/2116 EURÓPAI PARLAMENTI ÉS TANÁCSI RENDELET IV. CÍM III. FEJEZETÉNEK VÉGREHAJTÁSA
 
-## 75. A 1306/2013/EU európai parlamenti és tanácsi rendelet 80. és 81. cikkéhez
+## 75. A (EU) 2021/2116 európai parlamenti és tanácsi rendelet 77. és 78. cikkéhez
 
-### 195. § [Az 1306/2013/EU európai parlamenti és tanácsi rendelet 80. és 81. cikkének végrehajtása]
+### 195. § [Az (EU) 2021/2116 európai parlamenti és tanácsi rendelet 77. és 78. cikkének végrehajtása]
 
-(1) A hatóság az 1306/2013/EU európai parlamenti és tanácsi rendelet V. cím III. fejezete szerint ellenőrzi az Európai Mezőgazdasági Garanciaalap (a továbbiakban: EMGA) finanszírozási rendszeréhez közvetve vagy közvetlenül kapcsolódó kifizetések jogosultjait, illetve kötelezettjeit vagy képviselőiket (a továbbiakban: EMGA utólagos ellenőrzés). Az EMGA utólagos ellenőrzés célja annak megállapítása, hogy az EMGA finanszírozási rendszerébe tartozó ügyletek ténylegesen megvalósultak-e, illetve azok végrehajtása szabályszerű volt-e.
+(1) A hatóság az (EU) 2021/2116 európai parlamenti és tanácsi rendelet IV. cím III. fejezete szerint ellenőrzi az Európai Mezőgazdasági Garanciaalap (a továbbiakban: EMGA) finanszírozási rendszeréhez közvetve vagy közvetlenül kapcsolódó kifizetések jogosultjait, illetve kötelezettjeit vagy képviselőiket (a továbbiakban: EMGA utólagos ellenőrzés). Az EMGA utólagos ellenőrzés célja annak megállapítása, hogy az EMGA finanszírozási rendszerébe tartozó ügyletek ténylegesen megvalósultak-e, illetve azok végrehajtása szabályszerű volt-e.
 
 (2) Az EMGA ellenőrzések végrehajtása tekintetében e törvény hivatalból indult eljárásra vonatkozó rendelkezéseit a Harmadik Részben foglalt eltérésekkel kell alkalmazni.
 
