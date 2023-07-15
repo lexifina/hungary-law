@@ -13,15 +13,3 @@
 (6) E törvény 188. §-a az (EU) 2016/794 rendeletnek az Europol magánfelekkel folytatott együttműködése, a személyes adatoknak az Europol által a bűnügyi nyomozások támogatása érdekében végzett kezelése, valamint az Europol kutatásban és innovációban betöltött szerepe tekintetében történő módosításáról szóló, 2022. június 8-i (EU) 2022/991 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (7) E törvény 198. §-a a 2013/34/EU irányelvnek a társaságiadó-információk egyes vállalkozások és fióktelepek általi közzététele tekintetében történő módosításáról szóló, 2021. november 24-i (EU) 2021/2101 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
-
-|
-
-Novák Katalin s. k.,
-
-köztársasági elnök
-
-|
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

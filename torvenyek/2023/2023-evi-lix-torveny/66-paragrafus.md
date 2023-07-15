@@ -8,12 +8,10 @@
 
 4. 18. § (3) bekezdésében az „üzletág-átruházásra, valamint” szövegrész helyébe az „üzletág-átruházásra, a jogszabályban meghatározott feladat ellátásának átadására, valamint”,
 
-5. 71. § (1) bekezdés a) pontjában az „ellenérték előrehozott megtérítésére tekintettel a teljesítésig adnak; illetőleg” szövegrész helyébe az „ellenérték előrehozott megtérítésére tekintettel a teljesítésig adnak;”,
+5.
 
-6. 71. § (1) bekezdés c) pontjában az „elszámolási kötelezettségként tartja nyilván.” szövegrész helyébe az „elszámolási kötelezettségként tartja nyilván; valamint”,
+6.
 
 7. 163. § (2) bekezdés b) pontjában az „– ideértve az előleget is – készpénzzel vagy készpénz-helyettesítő fizetési eszközzel térítik meg,” szövegrész helyébe az „az (1) bekezdés a) pontjában, illetve a 164. § (1) bekezdés a) pontjában említett időpontig, előleg fizetése esetén a fizetendő adó megállapításáig megtérítik,”,
 
-8. 3. számú melléklet I. részében foglalt táblázat 16. sorában a „4902” szövegrész helyébe a „4902-ből”
-
-szöveg lép.
+8.

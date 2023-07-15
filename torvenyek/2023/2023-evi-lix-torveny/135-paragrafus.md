@@ -20,6 +20,4 @@
 
 ## 39b. nyugtatár-szolgáltató: az Áfa tv. szerinti nyugtatár szolgáltató,”
 
-(3) Az Art. 7. §-a a következő 49a. ponttal egészül ki:
-
-(E törvény és – ha törvény másként nem rendelkezik – az adóról és az adóigazgatási eljárásról szóló jogszabályok alkalmazásában)
+(3)

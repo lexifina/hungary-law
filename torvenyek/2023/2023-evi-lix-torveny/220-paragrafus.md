@@ -1,7 +1,1 @@
-220. § A fémkereskedelemről szóló 2013. évi CXL. törvény 4. §-a a következő (3a)–(3c) bekezdéssel egészül ki:
-
-„(3a) Ha a fémkereskedő nem rendelkezik koncesszori fémkereskedelmi engedéllyel, csak olyan átvételre kínált fémkereskedelmi engedélyköteles anyagot vehet át, amelyről szemrevételezéssel egyértelműen megállapítható, hogy az nem tartozik a hulladékgazdálkodási intézményi résztevékenységgel érintett hulladékok körébe. Egyéb esetben az átvételt meg kell tagadni, és a fémkereskedelmi engedélyköteles anyagot a hulladékgazdálkodási intézményi résztevékenység körébe tartozó fémhulladéknak kell tekinteni, ha az azt felkínáló hitelt érdemlően nem igazolja annak a hulladékgazdálkodási intézményi résztevékenységgel érintett hulladékok körén kívül eső besorolását. A megtagadással egy időben a fémkereskedő tájékoztatja az átadást kezdeményezőt a koncesszori fémkereskedő által üzemeltetett legközelebbi telephely címéről és nyitvatartásáról.
-
-(3b) Ha fémkereskedő koncesszori fémkereskedelmi engedéllyel is rendelkezik, akkor a (3a) bekezdés szerinti kötelezettsége keretében a (3a) bekezdés szerinti vélelem alapján a hulladékgazdálkodási intézményi résztevékenység körébe tartozó hulladéknak minősülő fémkereskedelmi engedélyköteles anyagot a koncesszori fémkereskedői minőségében átveszi.
-
-(3c) A (3a) és (3b) bekezdés szerinti kötelezettség betartását a fémkereskedelmi hatóság hivatalból, az ellenőrzés célcsoportjait kockázatelemzés alapján meghatározva, lehetőség szerint negyedévente egyszer ellenőrzi.”
+### 220. §

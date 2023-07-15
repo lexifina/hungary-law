@@ -2,7 +2,7 @@
 
 1. 33. § (1) bekezdés f) pontjában a „telefon-, telefaxszám” szövegrész helyébe a „telefonszám” szöveg,
 
-2. 33. § (4) bekezdésében a „p) és q) pontjában” szövegrész helyébe a „p), q) és t) pontjában” szöveg,
+2.
 
 3. 44. § (1) bekezdés d) pontjában a „telefon-, telefaxszáma” szövegrész helyébe a „telefonszáma” szöveg,
 

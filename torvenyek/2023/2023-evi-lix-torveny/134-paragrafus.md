@@ -4,9 +4,9 @@ a) 4. § 4. pont 4.10. alpontjában a „foglakoztatott” szövegrész helyébe
 
 b) 34. § (6) bekezdésében az „az átalányban megállapított jövedelmet” szövegrész helyébe az „a Tbj. 40. § (2) bekezdése szerint megállapított járulékalapot” szöveg,
 
-c) 40. § (4) bekezdés f) pontjában a „szünetelteti” szövegrész helyébe az „a tárgyhó egészében szünetelteti” szöveg,
+c)
 
-d) 40. § (5) bekezdésében a „(4) bekezdésben” szövegrész helyébe a „(4) bekezdés a)–e) pontjában” szöveg,
+d)
 
 e) 41. § (6) bekezdésében a „(2) és (3) bekezdésében” szövegrész helyébe a „(4) és (5) bekezdésében” szöveg,
 

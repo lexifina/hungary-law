@@ -1,5 +1,3 @@
-## „h) a családi pótlékra való jogosultság jogcímét.”
-
 144. § (1) Az Art. 124. § (3) bekezdése helyébe a következő rendelkezés lép:
 
 „(3) A (2) bekezdés alkalmazása során a személyiadat- és lakcímnyilvántartás, a cégnyilvántartás, az ingatlan-nyilvántartás, a közúti közlekedési nyilvántartás, az építésfelügyeleti nyilvántartás, illetve valamennyi más jogszabály alapján közhiteles nyilvántartás térítés nélkül felhasználható.”

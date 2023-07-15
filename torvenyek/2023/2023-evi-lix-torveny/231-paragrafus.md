@@ -4,4 +4,4 @@
 
 ## 35. Az adóhatóság által foganatosítandó végrehajtási eljárás során felmerült végrehajtási költségek és a végrehajtási költségátalány megállapításának és megfizetésének részletes szabályairól szóló 8/2018. (III. 19.) NGM rendelet egyes rendelkezéseinek hatályon kívül helyezése
 
-231. § Hatályát veszti az adóhatóság által foganatosítandó végrehajtási eljárás során felmerült végrehajtási költségek és a végrehajtási költségátalány megállapításának és megfizetésének részletes szabályairól szóló 8/2018. (III. 19.) NGM rendelet 3. alcíme.
+### 231. §
