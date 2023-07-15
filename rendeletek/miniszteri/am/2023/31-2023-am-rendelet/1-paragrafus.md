@@ -1,0 +1,3 @@
+1. § A kárenyhítési hozzájárulás megfizetésével, valamint a kárenyhítő juttatás igénybevételével kapcsolatos egyes kérdésekről szóló 27/2014. (XI. 25.) FM rendelet [a továbbiakban: 27/2014. (XI. 25.) FM rendelet] 3. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A kárenyhítési hozzájárulás-fizetési kötelezettség, valamint a kárenyhítő juttatás iránti kérelemben szereplő növénykultúra teljes területének megállapítása során nem vehető figyelembe a tárgyév július 15-ét követően az egységes kérelemben bejelentett kijavítással, részleges vagy teljes visszavonással érintett terület, növénykultúra módosításából adódó területváltozás, valamint másodvetés.”
