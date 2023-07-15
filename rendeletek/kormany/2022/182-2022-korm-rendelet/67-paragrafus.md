@@ -34,4 +34,6 @@
 
 (2) A miniszter a kezelésében lévő nyilvántartások tekintetében ellátja az Európai Unió, valamint a Nagy-Britannia és Észak-Írország Egyesült Királysága rendszereivel való információcserét lebonyolító nemzeti kapcsolattartó pont (EUCARIS, RESPER), illetve központi hatóság (ECRIS) hatáskörébe utalt, a publikus kulcsú információs rendszer (PKI) koordinátor, az úti okmányok szenzitív adatainak vizsgálatához kapcsolódó (SPOC) rendszer, valamint a Schengeni Információs Rendszer (SIS II) keretében megvalósuló információcserével kapcsolatos, külön jogszabályban meghatározott feladatait, valamint a foglalkoztatás mobilitás- és álláskeresés-hatékonyságát növelő egységes adatcserét biztosító (EURES) portál működtetését és fejlesztését.
 
-(3) A miniszter felügyeli az Egységes Digitális Rádiótávközlő Rendszert, valamint az e hálózat infrastrukturális alapját biztosító szervezet tevékenységét.
+(3)[^13]
+
+[^13]: A 67. § (3) bekezdését a 310/2023. (VII. 14.) Korm. rendelet 19. §-a hatályon kívül helyezte.

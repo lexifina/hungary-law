@@ -14,6 +14,6 @@ d) koordinálja a miniszterelnöki biztosok, a miniszterelnöki megbízottak és
 
 (3) A Nemzeti Közszolgálati Egyetem fenntartói jogát a közigazgatás-fejlesztésért felelős miniszter a miniszterelnök politikai igazgatója útján gyakorolja.
 
-(4)[^8] A miniszterelnök politikai igazgatója részt vesz a Stratégiai és Családügyi Kabinet, a Gazdasági Kabinet, a Növekedési és Versenyképességi Kabinet, valamint a Nemzetpolitikai Kabinet ülésein.
+(4)[^9] A miniszterelnök politikai igazgatója részt vesz a Stratégiai és Családügyi Kabinet, a Gazdasági Kabinet, a Növekedési és Versenyképességi Kabinet, valamint a Nemzetpolitikai Kabinet ülésein.
 
-[^8]: A 46. § (4) bekezdés k) pontja a 261/2022. (VII. 21.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^9]: A 46. § (4) bekezdés k) pontja a 261/2022. (VII. 21.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.

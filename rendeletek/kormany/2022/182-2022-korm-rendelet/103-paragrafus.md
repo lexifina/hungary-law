@@ -4,7 +4,7 @@
 
 1. nemzeti pénzügyi szolgáltatásokért,
 
-2.[^23] pénz-, tőke- és biztosítási piac szabályozásáért,
+2.[^25] pénz-, tőke- és biztosítási piac szabályozásáért,
 
 3. – a 148. § (1) bekezdés 5. pontja szerinti kivétellel – a nemzetközi pénzügyi kapcsolatokért,
 
@@ -20,27 +20,27 @@
 
 9. postaügyért
 
-10.[^24] belgazdaságért,
+10.[^26] belgazdaságért,
 
-11.[^25] foglalkoztatáspolitikáért,
+11.[^27] foglalkoztatáspolitikáért,
 
-12.[^26] iparügyekért,
+12.[^28] iparügyekért,
 
-13.[^27] társadalmi párbeszédért,
+13.[^29] társadalmi párbeszédért,
 
-14.[^28] vállalkozásfejlesztésért
+14.[^30] vállalkozásfejlesztésért
 
 felelős tagja.
 
-(2)[^29] A miniszter tevékenységét a tulajdonosi joggyakorlása alá tartozó állami vagyonnal kapcsolatos, az államháztartásról szóló 2011. évi CXCV. törvény 19. § (3) bekezdése szerinti tulajdonosi ügyletek tekintetében a Magyar Nemzeti Vagyonkezelő Zrt. segíti.
+(2)[^31] A miniszter tevékenységét a tulajdonosi joggyakorlása alá tartozó állami vagyonnal kapcsolatos, az államháztartásról szóló 2011. évi CXCV. törvény 19. § (3) bekezdése szerinti tulajdonosi ügyletek tekintetében a Magyar Nemzeti Vagyonkezelő Zrt. segíti.
 
-(3)[^30] A miniszter vezeti a Növekedési és Versenyképességi Kabinet üléseit.
+(3)[^32] A miniszter vezeti a Növekedési és Versenyképességi Kabinet üléseit.
 
-[^23]: A 103. § (1) bekezdés 2. pontja a 238/2022. (VI. 30.) Korm. rendelet 221. § (2) bekezdésével megállapított szöveg.
-[^24]: A 103. § (1) bekezdés 10. pontját a 467/2022. (XI. 21.) Korm. rendelet 4. §-a iktatta be.
-[^25]: A 103. § (1) bekezdés 11. pontját a 467/2022. (XI. 21.) Korm. rendelet 4. §-a iktatta be.
-[^26]: A 103. § (1) bekezdés 12. pontját a 467/2022. (XI. 21.) Korm. rendelet 4. §-a iktatta be.
-[^27]: A 103. § (1) bekezdés 13. pontját a 467/2022. (XI. 21.) Korm. rendelet 4. §-a iktatta be.
-[^28]: A 103. § (1) bekezdés 14. pontját a 467/2022. (XI. 21.) Korm. rendelet 4. §-a iktatta be.
-[^29]: A 103. § (2) bekezdése a 467/2022. (XI. 21.) Korm. rendelet 17. § (2) bekezdése szerint módosított szöveg.
-[^30]: A 103. § (3) bekezdését a 261/2022. (VII. 21.) Korm. rendelet 1. §-a iktatta be.
+[^25]: A 103. § (1) bekezdés 2. pontja a 238/2022. (VI. 30.) Korm. rendelet 221. § (2) bekezdésével megállapított szöveg.
+[^26]: A 103. § (1) bekezdés 10. pontját a 467/2022. (XI. 21.) Korm. rendelet 4. §-a iktatta be.
+[^27]: A 103. § (1) bekezdés 11. pontját a 467/2022. (XI. 21.) Korm. rendelet 4. §-a iktatta be.
+[^28]: A 103. § (1) bekezdés 12. pontját a 467/2022. (XI. 21.) Korm. rendelet 4. §-a iktatta be.
+[^29]: A 103. § (1) bekezdés 13. pontját a 467/2022. (XI. 21.) Korm. rendelet 4. §-a iktatta be.
+[^30]: A 103. § (1) bekezdés 14. pontját a 467/2022. (XI. 21.) Korm. rendelet 4. §-a iktatta be.
+[^31]: A 103. § (2) bekezdése a 467/2022. (XI. 21.) Korm. rendelet 17. § (2) bekezdése szerint módosított szöveg.
+[^32]: A 103. § (3) bekezdését a 261/2022. (VII. 21.) Korm. rendelet 1. §-a iktatta be.

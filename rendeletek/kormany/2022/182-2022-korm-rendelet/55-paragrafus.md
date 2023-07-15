@@ -52,7 +52,7 @@ b) az EMGA, EMVA, ETHA és EHA források tervezésével és felhasználásával 
 
 c) a KAP Stratégiai Terv támogatási intézkedései, a szükséges jogszabályok és pályázati felhívások elkészítését, módosítását,
 
-d)[^10] e feladatok végrehajtásban részt vevő intézményi keretek kialakítását, az abban részt vevő szervezetek munkájának irányítását, a fővárosi és vármegyei kormányhivatalok az Európai Unió közös agrárpolitikája vonatkozásában végzett tevékenységének szakmai irányítását,
+d)[^11] e feladatok végrehajtásban részt vevő intézményi keretek kialakítását, az abban részt vevő szervezetek munkájának irányítását, a fővárosi és vármegyei kormányhivatalok az Európai Unió közös agrárpolitikája vonatkozásában végzett tevékenységének szakmai irányítását,
 
 e) a KAP végrehajtását támogató hálózat kialakítását és működtetését,
 
@@ -62,4 +62,4 @@ g) a KAP keretében, valamint a kizárólag hazai forrásból nyújtott agrár- 
 
 h) ellátja a mezőgazdasági ismeretek és innovációk rendszerének (AKIS) kialakításával és koordinálásával összefüggő feladatokat.
 
-[^10]: Az 55. § (3) bekezdés d) pontja a 410/2022. (X. 24.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
+[^11]: Az 55. § (3) bekezdés d) pontja a 410/2022. (X. 24.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
