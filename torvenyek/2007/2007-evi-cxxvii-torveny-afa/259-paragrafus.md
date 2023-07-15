@@ -32,6 +32,10 @@ e) a természetes személyek adósságrendezési eljárása során a bíróság 
 
 6/A. eredet hitelessége: a terméket értékesítő, a szolgáltatást nyújtó vagy a számlát kibocsátó azonosságának biztosítása.
 
+6/B. e-nyugta: e-pénztárgéppel kiállított nyugta;
+
+6/C. e-pénztárgép: elektronikus nyugta és egyszerűsített adattartalmú számla kibocsátására alkalmas, pénztárgéptől eltérő, engedélyezett műszaki megoldás;
+
 7. építési telek: az olyan
 
 a) telek, amely beépítésre szánt területen fekszik, az építési szabályoknak megfelelően kialakított, a közterületnek gépjármű-közlekedésre alkalmas részéről az adott közterületre vonatkozó jogszabályi előírások szerint, vagy önálló helyrajzi számon útként nyilvántartott magánútról gépjárművel közvetlenül, zöldfelület, illetve termőföld sérelme nélkül megközelíthető, és amelynek a közterülettel vagy magánúttal közös határvonala legalább 3,00 m, továbbá amely egyúttal nem minősül beépített ingatlannak,
@@ -76,13 +80,17 @@ e) egymás közeli hozzátartozói, vagy az a)–d) alpontokban meghatározottak
 
 13/A. összes hasznos alapterület: az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet 1. számú mellékletének 2016. január 1-jén hatályos 34., 46., 46a. és 88. pontjai által meghatározott alapterület;
 
+13/B. nyugtatár: az e-pénztárgéppel kiállított nyugtának, nyugtával egy tekintet alá eső okiratnak, számlának, számlával egy tekintet alá eső okiratnak a terméket beszerző, szolgáltatást igénybe vevő részére történő rendelkezésre bocsátására, megőrzésére szolgáló rendszer;
+
+13/C. nyugtatár-szolgáltató: a nyugtatárat üzemeltető szerv;
+
 14. pénz: a névértéken elfogadott pénz;
 
 15. pénzhelyettesítő eszköz: fizetési megbízás vagy ígérvény – ide nem értve a pénzt és a készpénz-helyettesítő fizetési eszközt –, ha azzal a kötelezett pénztartozást térít meg, feltéve, hogy annak jogosult általi elfogadásával a jogosult eredeti pénzkövetelése a kötelezettel szemben megszűnik;
 
 16. pénzügyi eszköz: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvényben meghatározott pénzügyi eszköz, kivéve azt a pénzügyi eszközt, amelynek megszerzése egyúttal az abban megjelölt termék tulajdonjogának megszerzését is jelenti;
 
-17.
+17. pénztárgép: papír alapú gépi nyugta és papíralapú egyszerűsített adattartalmú számla kibocsátására alkalmas, engedélyezett műszaki megoldás;
 
 18. sorozat jelleg: ha 2 naptári éven belül negyedik vagy további építési telket (telekrészt) és/vagy beépítés alatt álló vagy beépített új ingatlant értékesítenek, valamint a rá következő 3 naptári éven belül további építési telket (telekrészt) és/vagy beépítés alatt álló vagy beépített új ingatlant értékesítenek azzal, hogy ha olyan építési telket (telekrészt) és/vagy beépítés alatt álló vagy beépített új ingatlant értékesítenek,
 
@@ -124,4 +132,4 @@ c) légiközlekedési eszköz esetében azt a járművet jelenti, amelynek telje
 
 25/A. üzletág: a vállalkozásnak olyan működő egysége, amely szervezeti szempontból függetlenül, a hozzá tartozó vagyonnal alkalmas az önálló gazdasági tevékenység tartós folytatására;
 
-26.
+26. vevői alkalmazás: olyan engedélyezett műszaki megoldás, amelynek kizárólagos célja, hogy a terméket beszerző, szolgáltatást igénybe vevő számára olvashatóan elérhetővé tegye az e-pénztárgéppel kibocsátott nyugtát és számlát, és számára biztosítsa az adatok megismerésének és feldolgozásának a lehetőségét.

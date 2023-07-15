@@ -18,7 +18,7 @@ ea) elhalálozás esetében az özvegy vagy örökös folytatja; illetőleg
 
 eb) cselekvőképesség elvesztése esetében az egyéni vállalkozó, mezőgazdasági őstermelő nevében és javára a törvényes képviselője folytatja;
 
-f) a 8. § (5), (9) és (12) bekezdéseiben említett eseteket.
+f) a 8. § (5), (9), (10) és (12) bekezdése szerinti eseteket;
 
 g) a mezőgazdasági tevékenységét megszüntető természetes személy adóalanynak a mezőgazdasági tevékenységet tovább folytató, a Ptk. szerinti közeli hozzátartozónak minősülő természetes személy részére történő gazdaságátadását, feltéve, hogy a gazdaságátadás az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtott támogatással történik.
 
@@ -39,3 +39,5 @@ a) a kezelt vagyon bizalmi vagyonkezelő részére történő átadásakor, vala
 b) a kezelt vagyon vagy annak haszna egészének vagy egy részének a vagyonrendelővel megegyező kedvezményezett részére történő kiadásakor,
 
 feltéve, hogy az a 18. § (1) és (2) bekezdésében foglalt feltételek szerint történik [az a) és b) pontban foglaltak a továbbiakban együtt: bizalmi vagyonkezelés].
+
+(6) Szintén nem áll be a termék értékesítéséhez, szolgáltatás nyújtásához fűződő joghatás, ha az adóalany jogszabályban meghatározott feladat ellátását az ahhoz kapcsolódó vagyonnal átadja a – jogszabály által a feladat ellátására jogutódként kijelölt – szerző részére, feltéve, hogy az a 18. § (1) és (2) bekezdésében meghatározott feltételek szerint történik.

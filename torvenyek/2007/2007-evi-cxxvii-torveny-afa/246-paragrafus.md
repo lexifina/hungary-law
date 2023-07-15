@@ -4,4 +4,4 @@ a) amelyet egy másik adóalany – akár a jogalap, akár az összegszerűség 
 
 b) amely olyan termék beszerzését terheli, amelynek értékesítése a 89. § vagy 98. § (1) bekezdésének b) pontja értelmében mentes az adó alól, vagy az ott meghatározottak szerint mentes lenne az adó alól;
 
-c) amely ingatlan beszerzését terheli.
+c) amely ingatlan beszerzését terheli, kivéve, ha az ingatlant a Közösség más tagállamában letelepedett adóalany szerzi be.

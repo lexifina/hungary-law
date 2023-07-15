@@ -1,4 +1,4 @@
-18. § (1) Az apport [17. § (1) bekezdés], a jogutódlás [17. § (2) bekezdés], az üzletág-átruházás [17. § (4) bekezdés], továbbá a bizalmi vagyonkezelés [17. § (5) bekezdés] útján szerzett vagyon (vagyonrész) és vagyoni értékű jog (e § alkalmazásában a továbbiakban együtt: vagyon) tekintetében a szerzőnek a következő feltételeknek kell egyidejűleg megfelelnie:
+18. § (1) Az apport [17. § (1) bekezdés], a jogutódlás [17. § (2) bekezdés], az üzletág-átruházás [17. § (4) bekezdés], a jogszabályban meghatározott feladat ellátásának átadása [17. § (6) bekezdés], továbbá a bizalmi vagyonkezelés [17. § (5) bekezdés] útján szerzett vagyon (vagyonrész) és vagyoni értékű jog (e § alkalmazásában a továbbiakban együtt: vagyon) tekintetében a szerzőnek a következő feltételeknek kell egyidejűleg megfelelnie:
 
 a) a szerzéskor vagy annak közvetlen következményeként belföldön nyilvántartásba vett adóalany legyen;
 
@@ -28,14 +28,16 @@ c) azt a volt egyéni vállalkozót, akinek egyéni vállalkozói tevékenység 
 
 d) az egyéni cég tagját az egyéni cég gazdasági társasággá történő átalakulása esetén,
 
-e) azt a 17. § (3) bekezdés g) pontja szerinti, az Európai Mezőgazdasági Vidékfejlesztési Alapból támogatásban részesülő természetes személyt, aki (amely) gazdaságát a mezőgazdasági tevékenységet tovább folytató, a Ptk. szerinti közeli hozzátartozónak minősülő természetes személy részére átadja, valamint
+e) azt a 17. § (3) bekezdés g) pontja szerinti, az Európai Mezőgazdasági Vidékfejlesztési Alapból támogatásban részesülő természetes személyt, aki (amely) gazdaságát a mezőgazdasági tevékenységet tovább folytató, a Ptk. szerinti közeli hozzátartozónak minősülő természetes személy részére átadja,
 
 f) az üzletágat átruházó adóalanyt,
 
 g) a 17. § (5) bekezdés a) pontja esetén a vagyonrendelőt, b) pontja esetén pedig a bizalmi vagyonkezelőt,
 
-h) a gazdaságot átadó személyt a 17. § (3) bekezdés k) pontja szerinti esetben,
+h) a gazdaságot átadó személyt a 17. § (3) bekezdés k) pontja szerinti esetben, valamint
+
+i) a jogszabályban meghatározott feladat ellátását átadó adóalanyt a 17. § (6) bekezdése szerinti esetben,
 
 azon e törvényben szabályozott kötelezettségek teljesítéséért, amelyek az (1) bekezdés b) pontjában említett vagyonhoz fűződően a szerzésig bezárólag keletkeztek.
 
-(3) Ha az (1)–(2) bekezdésben meghatározott, az azok közül értelemszerűen alkalmazandó feltételek bármelyike nem teljesül, az apportra, a jogutódlásra, az üzletág-átruházásra, valamint a bizalmi vagyonkezelésre vonatkozóan a feltétel nem teljesülésekor a termék értékesítéséhez, szolgáltatás nyújtásához fűződő joghatás haladéktalanul beáll.
+(3) Ha az (1)–(2) bekezdésben meghatározott, az azok közül értelemszerűen alkalmazandó feltételek bármelyike nem teljesül, az apportra, a jogutódlásra, az üzletág-átruházásra, a jogszabályban meghatározott feladat ellátásának átadására, valamint a bizalmi vagyonkezelésre vonatkozóan a feltétel nem teljesülésekor a termék értékesítéséhez, szolgáltatás nyújtásához fűződő joghatás haladéktalanul beáll.

@@ -14,17 +14,23 @@ c) a számla és a nyugta kiállításának módjára vonatkozó szabályokat, i
 
 d) a számla és a nyugta adóigazgatási azonosítására vonatkozó szabályokat,
 
-e) a gépi nyugta-, illetve nyugta- és számlaadásra szolgáló pénztárgéppel, gépi nyugta kiállítására szolgáló egyéb technikai megoldással rögzített adatok állami adóhatóság felé történő adatszolgáltatásának és az állami adóhatóság által a pénztárgépek és gépi nyugta adására szolgáló egyéb technikai megoldások működése felett gyakorolt felügyeletnek a szabályait, a közvetlen adatlekérdezéssel megvalósított adatszolgáltatás teljesítése alóli egyedi mentesítés szabályait;
+e) a pénztárgéppel rögzített adatok állami adó- és vámhatóság felé történő adatszolgáltatásának és az állami adó- és vámhatóság által a pénztárgépek működése felett gyakorolt felügyeletnek a szabályait, a közvetlen adatlekérdezéssel megvalósított adatszolgáltatás teljesítése alóli egyedi mentesítés szabályait;
 
-f) a gépi nyugta-, illetve nyugta- és számlaadásra szolgáló pénztárgép, taxaméter, gépi nyugta kiállítására szolgáló egyéb technikai megoldás forgalmazása engedélyezésének szabályait – ideértve az engedélyezésre hatáskörrel rendelkező szerv kijelölését is –, a forgalmazási engedély kiadásának műszaki és személyi követelményeit, a forgalmazási engedély kiadásáért, módosításáért, kiterjesztéséért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat;
+f) a pénztárgép, taxaméter forgalmazása engedélyezésének szabályait – ideértve az engedélyezésre hatáskörrel rendelkező szerv kijelölését is –, a forgalmazási engedély kiadásának műszaki és személyi követelményeit, a forgalmazási engedély kiadásáért, módosításáért, kiterjesztéséért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat;
 
-g) a pénztárgép, taxaméter, gépi nyugta kiállítására szolgáló egyéb technikai megoldás forgalmazásának, szervizelésének és üzemeltetésének szabályait, a szervizek nyilvántartására és a nyilvántartásba vételére, nyilvántartásból való törlésére, a műszerészi igazolványra, annak kiadására, érvényességére és visszavonására vonatkozó szabályokat;
+g) a pénztárgép, taxaméter forgalmazásának, szervizelésének és üzemeltetésének szabályait, a szervizek nyilvántartására és a nyilvántartásba vételére, nyilvántartásból való törlésére, a műszerészi igazolványra, annak kiadására, érvényességére és visszavonására vonatkozó szabályokat;
 
-h) a pénztárgép, gépi nyugta kiállítására szolgáló egyéb technikai megoldás forgalmazásával, üzemeltetésével, szervizelésével kapcsolatos kötelezettségek ellenőrzésére vonatkozó szabályokat;
+h) a pénztárgép forgalmazásával, üzemeltetésével, szervizelésével kapcsolatos kötelezettségek ellenőrzésére vonatkozó szabályokat;
 
 i) a számlázási funkcióval rendelkező programokkal szembeni követelményeket, valamint ezen programokkal kiállított számlák adatainak állami adóhatóság felé történő adatszolgáltatásának szabályait, és a számlázási funkcióval rendelkező programok értékesítésére és használatára vonatkozó adatszolgáltatási kötelezettségre vonatkozó szabályokat;
 
 j) a számla, egyszerűsített adattartalmú számla, nyugta nyomtatványok forgalmazásának, nyilvántartásának szabályait, valamint ezek előállításának, adóigazgatási azonosításra alkalmasságának feltételeit.
+
+k) a nyugtatár működésére vonatkozó szabályokat;
+
+l) a vevői alkalmazás követelményeire, engedélyezésére vonatkozó szabályokat;
+
+m) az e-nyugta, számla e-pénztárgéppel rögzített adatainak állami adó- és vámhatóság részére történő továbbítására vonatkozó részletszabályokat.
 
 (2) Az adópolitikáért felelős miniszter felhatalmazást kap arra, hogy – a külpolitikáért és a honvédelemért felelős miniszterrel egyetértésben – rendeletben állapítsa meg a 107. § és 108. § szerinti adómentességhez, illetőleg adó-visszatéríttetési jog gyakorlásához fűződő igazolási kötelezettséget, az adó-visszatéríttetési kérelem kötelező adattartalmát, valamint az utólagos adó-visszatéríttetés eljárási szabályait.
 
