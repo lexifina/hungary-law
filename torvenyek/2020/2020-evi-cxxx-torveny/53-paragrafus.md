@@ -11,3 +11,5 @@
 (5) A belföldi kiküldetésben lévő foglalkoztatott többletköltségei fedezetére és a napidíjára vonatkozó szabályokat a Kormány rendeletben állapítja meg.
 
 (6) Az ideiglenes – három hónapot meg nem haladó – külföldi kiküldetés e §-tól eltérő szabályait a Kormány rendeletben állapítja meg.
+
+(7) Nem minősül külföldi kiküldetésnek, ha a pénzügyőr Magyarországgal szomszédos ország területén létesített közös határátkelőhelyen végez munkát, feltéve, hogy a napi munkaidejét Magyarország területén kezdi meg és fejezi be.

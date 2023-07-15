@@ -18,7 +18,7 @@ d) azonos besorolású más munkakörbe helyezéséhez, kivéve, ha a pénzügy�
 
 e) az érintett alacsonyabb besorolású munkakörbe helyezéséhez, ha az érintett teljesítménye – az általa betöltött munkakör alapján – átlag alatti fokozatú, azzal, hogy az érintettet a szervezeti egység és a munkavégzési hely megváltoztatása nélkül kell alacsonyabb besorolású munkakörben tovább foglalkoztatni, és ha ilyen munkakör a szervezeti egység, illetve a munkavégzési hely megváltoztatása nélkül nem biztosítható, a szervezeti egység, illetve a (6) bekezdésben foglalt korlátozás figyelembevételével a munkavégzési hely is megváltoztatható, a tisztviselő esetében kizárólag a település területén belül,
 
-f) a kinevezés módosításához a NAV-on belüli átszervezés, illetve létszámcsökkentés esetén, azzal, hogy a tisztviselő tekintetében a munkavégzési hely kizárólag a település területén belül változtatható meg,
+f) a kinevezés tartalmának bármely módosításához átszervezés, vagy létszámcsökkentés esetén, beleértve a NAV más szervéhez történő áthelyezést is, azzal, hogy a tisztviselő tekintetében a munkavégzési hely kizárólag a település területén belül változtatható meg, pénzügyőr esetén a munkakör a státusz megváltoztatása nélkül módosítható,
 
 g) a kinevezési okirat szerinti szervezeti egység megváltoztatása esetén, ha a foglalkoztató NAV szerv nem változik, és tisztviselő esetében a munkavégzési hely legfeljebb a település területén belül változik meg,
 

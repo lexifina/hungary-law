@@ -2,7 +2,7 @@
 
 (1) A szolgálati jogviszony felmentéssel akkor szüntethető meg, ha
 
-a) a Kormány döntése alapján a NAV-nál létszámcsökkentést kell végrehajtani, és emiatt a foglalkoztatott továbbfoglalkoztatására nincs lehetőség;
+a) a Kormány, a miniszter döntése alapján a NAV-nál, vagy a NAV elnökének döntése alapján a NAV szervnél a foglalkoztatottak létszámának csökkentését kell végrehajtani;
 
 b) megszűnt a NAV-nak az a tevékenysége, amelynek körében a foglalkoztatottat foglalkoztatták;
 
