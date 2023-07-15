@@ -218,6 +218,14 @@ feltéve, hogy az átalakulást valós gazdasági, kereskedelmi okok alapozzák 
 
 25. munkáltatói és munkavállalói érdekképviseleti szervezet: az az egyesületként bírósági nyilvántartásba vett szervezet vagy szervezetek szövetsége, amelynek az alapszabály szerinti főtevékenysége a munkáltatói/munkavállalói érdekképviselet, és tagja az Nemzeti Gazdasági és Társadalmi Tanácsnak, valamint e szervezet azon tagszervezete, amely vármegyei, régiós vagy szakmai szövetségként működik;
 
+25a. nulla nettó kibocsátási célt szolgáló gazdaságra való átállás szempontjából stratégiai jelentőségű beruházás: olyan beruházás, amelynek célja
+
+a) akkumulátor, szolárpanel, szélturbina, hőszivattyú, elektrolizátor, szén-dioxid-leválasztást és -tárolást szolgáló berendezés gyártása,
+
+b) az a) pont szerinti berendezés gyártásához tervezett és közvetlenül használt kulcsfontosságú alkatrész gyártása,
+
+c) az a) pont szerinti berendezés és a b) pont szerinti alkatrész gyártásához szükséges nyersanyag előállítása vagy visszanyerése;
+
 26. nyilvántartott értékvesztés: a követelésekre a számviteli előírások alapján elszámolt és adózás előtti eredménynövelésként figyelembe vett értékvesztés csökkentve az adózás előtti eredmény csökkentéseként számításba vett összeggel;
 
 27. külföldi személy: a külföldi jogszabályok alapján létrejött jogi személy, jogi személyiséggel nem rendelkező társas cég, személyi egyesülés, egyéb szervezet;

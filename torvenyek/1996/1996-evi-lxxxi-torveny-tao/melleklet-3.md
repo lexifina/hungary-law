@@ -46,13 +46,7 @@ bűncselekmény elkövetése érdekében vagy azzal összefüggésben merült fe
 
 15. a kutatás-fejlesztési tevékenység közvetlen költsége, ha az adózó vállalkozási, bevételszerző tevékenységéhez nem kapcsolódik.
 
-16. a reklámadóról szóló törvény (a továbbiakban e pont alkalmazásában: Rtv.) szerinti reklám közzétételével összefüggésben elszámolt költség (így különösen a reklám közzétevőjének vagy a reklám közzétételében közreműködőnek járó ellenérték), de legalább a reklám közzétételének szokásos piaci értéke, ha annak összege az adóévben összesen a 30 millió forintot meghaladja és
-
-a) az adóalany nem rendelkezik a reklámadó alanyának olyan nyilatkozatával, miszerint a reklám közzétételével összefüggésben felmerült reklámadó kötelezettségét teljesíti vagy nincs reklámadó-fizetési kötelezettsége és
-
-b) az adóalany nem igazolja, hogy az a) pont szerint nyilatkozat kiadását a reklámadó alanyától ő vagy a reklám közzétételnek az Rtv. 3. § (2) bekezdés szerinti megrendelője kérte és
-
-c) a reklámadó alanya a reklám-közzététel megrendelésének időpontjában nem szerepelt az állami adóhatóság honlapján az Rtv. 7/A. § szerint közzétett nyilvántartásban.
+## 16.
 
 17.
 
@@ -94,7 +88,7 @@ A 8. § (1) bekezdés d) pontjának alkalmazásában a vállalkozási tevékenys
 
 16. a személyi jövedelemadóról szóló törvényben meghatározott reprezentáció, üzleti ajándék címen személyi jellegű egyéb kifizetésként elszámolt juttatás;
 
-17. az adóévben adomány jogcímen visszafizetési kötelezettség nélkül adott támogatás, juttatás, térítés nélkül átadott eszköz könyv szerinti értéke, térítés nélkül nyújtott szolgáltatás bekerülési értéke, feltéve, hogy az adózó rendelkezik a közhasznú szervezet, az egyházi jogi személy, a közérdekű kötelezettségvállalás szervezője által az adóalap megállapítása céljából kiállított igazolással, amely tartalmazza a kiállító és az adózó megnevezését, székhelyét, adószámát, az adomány összegét és a támogatott célt.
+## 17. az adóévben adomány jogcímen visszafizetési kötelezettség nélkül adott támogatás, juttatás, térítés nélkül átadott eszköz könyv szerinti értéke, térítés nélkül nyújtott szolgáltatás bekerülési értéke, feltéve, hogy az adózó rendelkezik a közhasznú szervezet, az egyházi jogi személy, a közérdekű kötelezettségvállalás szervezője által az adóalap megállapítása céljából kiállított igazolással, amely tartalmazza a kiállító és az adózó megnevezését, székhelyét, adószámát, az adomány összegét és a támogatott célt, azzal, hogy a Nemzeti Összefogás Számlaszáma javára adomány jogcímen visszafizetési kötelezettség nélkül adott támogatás, juttatás tekintetében az adózónak nem kell az adóalap megállapítása céljából kiállított – a kiállító és az adózó megnevezését, székhelyét, adószámát, az adomány összegét és a támogatott célt tartalmazó – igazolással rendelkeznie.
 
 18. az adóévben az adózó által átvállalt kamarai tagsághoz kapcsolódó tagdíj összege, feltéve, hogy az kötelező kamarai tagsághoz kapcsolódódik;
 
