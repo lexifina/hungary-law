@@ -10,4 +10,4 @@
 
 (5) A (4) bekezdéstől eltérően az év közben biztosítottá váló mezőgazdasági őstermelő az adóévben első ízben benyújtott járulékbevallásban nyilatkozik magasabb járulékalap választásáról. Nyilatkozata a biztosítási kötelezettség első napjától az adóévre szól.
 
-(6) A mezőgazdasági őstermelő járulékfizetési kötelezettségére a 40. § (2) és (3) bekezdésében foglaltakat megfelelően alkalmazni kell.
+(6) A mezőgazdasági őstermelő járulékfizetési kötelezettségére a 40. § (4) és (5) bekezdésében foglaltakat megfelelően alkalmazni kell.
