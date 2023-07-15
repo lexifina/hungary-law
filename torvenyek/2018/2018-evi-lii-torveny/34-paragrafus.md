@@ -68,6 +68,6 @@ p) a rendvédelmi feladatokat ellátó szerv által a rendvédelmi egészségká
 
 13. nevelőszülői foglalkoztatási jogviszony: a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény szerinti nevelőszülői foglalkoztatási jogviszony, amely teljes munkaidős foglalkoztatási jogviszonynak minősül;
 
-14. saját jogú nyugdíjas: a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény szerint saját jogú nyugdíjasnak minősülő természetes személy;
+14. saját jogú nyugdíjas: a Tbj. szerint saját jogú nyugdíjasnak minősülő természetes személy;
 
 15. társas vállalkozás: a közkereseti társaság, a betéti társaság, a korlátolt felelősségű társaság, a közös vállalat, az egyesülés, az európai gazdasági egyesülés, a szabadalmi ügyvivői iroda, a szabadalmi ügyvivői társaság, az ügyvédi iroda, a közjegyzői iroda, a végrehajtói iroda, az egyéni cég.
