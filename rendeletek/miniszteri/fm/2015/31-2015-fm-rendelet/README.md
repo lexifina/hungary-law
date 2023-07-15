@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-31-20-1
 | 2015-06-11 | 2015-31-20-11.2 | 2010: CXXX. törvény |
 | 2018-06-27 | 2015-31-20-11.3 | 7/2018. (VI. 26.) AM rendelet |
 | 2021-08-21 | 2015-31-20-11.4 | 28/2021. (VIII. 18.) AM rendelet |
+| 2023-07-15 | 2015-31-20-11.5 | 33/2023. (VII. 14.) AM rendelet |

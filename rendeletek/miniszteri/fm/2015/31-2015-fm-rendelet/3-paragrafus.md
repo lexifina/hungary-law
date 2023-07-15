@@ -48,4 +48,6 @@ d) forgótőke finanszírozásához.
 
 (10) Az egy beruházáshoz igénybe vett összes támogatás – függetlenül attól, hogy annak finanszírozása államháztartási vagy uniós forrásból történik – támogatási intenzitása nem haladhatja meg az irányadó uniós állami támogatási szabályokban meghatározott támogatási intenzitást vagy támogatási összeget.
 
-(11) Az 5. § (2) bekezdés e) pontja szerinti beruházáshoz nyújtott kedvezményes díjú kezességvállalás nem halmozható a mezőgazdasági csoportmentességi rendelet 25., 26. és 30. cikke szerinti anyagi károk ellentételezése céljából nyújtott támogatással.
+(11)[^14] Az 5. § (2) bekezdés e) pontja szerinti beruházáshoz nyújtott kedvezményes díjú kezességvállalás nem halmozható a mezőgazdasági csoportmentességi rendelet 25., 26., 28. és 37. cikke szerinti anyagi károk ellentételezése céljából nyújtott támogatással.
+
+[^14]: A 3. § (11) bekezdése a 33/2023. (VII. 14.) AM rendelet 7. § k) pontja szerint módosított szöveg.
