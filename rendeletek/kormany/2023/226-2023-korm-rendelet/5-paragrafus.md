@@ -1,3 +1,5 @@
-5. §[^1]
+5. § Hatályát veszti a Nemzeti Szociálpolitikai Intézetről szóló 610/2020. (XII. 18.) Korm. rendelet
 
-[^1]: Az 5. § a 4. § (2) bekezdés alapján 2023. július 15-én lép hatályba.
+a) 6. § e) pontja,
+
+b) 6/B. §-a.
