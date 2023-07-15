@@ -14,17 +14,17 @@ e)[^2] készenléti terv: a 2016/2031/EU parlamenti és tanácsi rendelet, az é
 
 f) kísérleti szőlő: a NÉBIH által nyilvántartásba vett, osztályba sorolást megalapozó vizsgálat elvégzése vagy a szőlőtermesztés fejlesztése céljából telepített szőlő növénykultúra;
 
-g) mezőgazdasági csoportmentességi rendelet: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdészeti ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2014. június 25-i 702/2014/EU bizottsági rendelet;
+g)[^3] mezőgazdasági csoportmentességi rendelet: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdőalapú ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2022. december 14-i (EU) 2022/2472 bizottsági rendelet;
 
-h)[^3] körülhatárolt terület: a készenléti terv szerint a fitoplazma fertőzés miatt a területileg illetékes, növény- és talajvédelmi hatáskörében eljáró vármegyei kormányhivatal (a továbbiakban: növényvédelmi hatóság) határozata alapján fertőzöttnek, valamint biztonsági övezetnek minősített és kijelölt termőföldterület;
+h)[^4] körülhatárolt terület: a készenléti terv szerint a fitoplazma fertőzés miatt a területileg illetékes, növény- és talajvédelmi hatáskörében eljáró vármegyei kormányhivatal (a továbbiakban: növényvédelmi hatóság) határozata alapján fertőzöttnek, valamint biztonsági övezetnek minősített és kijelölt termőföldterület;
 
 i) nehéz helyzetben lévő vállalkozás: az Atr. 6. § (4a) bekezdés szerinti vállalkozás;
 
-j)[^4] növényvédőszer: a fitoplazma fertőzést terjesztő amerikai szőlőkabóca (Scaphoideus titanus) elleni védekezésre a tárgyévre vonatkozóan engedélyezett rovarölőszer;
+j)[^5] növényvédőszer: a fitoplazma fertőzést terjesztő amerikai szőlőkabóca (Scaphoideus titanus) elleni védekezésre a tárgyévre vonatkozóan engedélyezett rovarölőszer;
 
-k) növényegészségügyi felszámolás: a mezőgazdasági csoportmentességi rendelet 26. cikk (8) bekezdés b) pontja alapján, körülhatárolt területen a szőlőültetvényen kialakult fitoplazma fertőzés felszámolásával összefüggésben a szőlőültetvényen elvégzett, a növényvédelmi hatóság által elrendelt kötelező, a fitoplazma fertőzést terjesztő amerikai szőlőkabóca elleni növényvédőszeres védekező tevékenység;
+k)[^6] növényegészségügyi felszámolás: a mezőgazdasági csoportmentességi rendelet 26. cikk (9) bekezdés b) pontja alapján, körülhatárolt területen a szőlőültetvényen kialakult fitoplazma fertőzés felszámolásával összefüggésben a szőlőültetvényen elvégzett, a növényvédelmi hatóság által elrendelt kötelező, a fitoplazma fertőzést terjesztő amerikai szőlőkabóca elleni növényvédőszeres védekező tevékenység;
 
-l) növényegészségügyi megelőzés: a mezőgazdasági csoportmentességi rendelet 26. cikk (7) bekezdés d) pontja alapján, nem körülhatárolt területen a fitoplazma fertőzés szőlőültetvényen történő kialakulásának megelőzésével összefüggésben a szőlőültetvényen elvégzett, a fitoplazma fertőzést terjesztő amerikai szőlőkabóca elleni növényvédőszeres védekező tevékenység;
+l)[^7] növényegészségügyi megelőzés: a mezőgazdasági csoportmentességi rendelet 26. cikk (8) bekezdés d) pontja alapján, nem körülhatárolt területen a fitoplazma fertőzés szőlőültetvényen történő kialakulásának megelőzésével összefüggésben a szőlőültetvényen elvégzett, a fitoplazma fertőzést terjesztő amerikai szőlőkabóca elleni növényvédőszeres védekező tevékenység;
 
 m) szőlő: a borszőlő, csemegeszőlő, kísérleti szőlő vagy szőlő szaporítóanyag;
 
@@ -34,7 +34,7 @@ o) szőlőültetvény: szőlővel beültetett, szőlő művelési ágban nyilvá
 
 p) szőlő szaporítóanyag: a borszőlő vagy a csemegeszőlő ültetési anyagának termelésére szolgáló, a NÉBIH által prebázis, bázis, certifikált vagy standard kategóriájúként elismert és nyilvántartásba vett nemes és alany szaporító alapanyag, valamint a szőlőoltvány-iskolában nevelt, szőlőültetvény létesítésére alkalmas ültetési anyag;
 
-q)[^5] tárgyév: a kifizetési kérelem benyújtásának naptári éve;
+q)[^8] tárgyév: a kifizetési kérelem benyújtásának naptári éve;
 
 r) termelői szerveződés: szőlőtermelői tagsággal működő,
 
@@ -44,11 +44,14 @@ rb) a zöldség-gyümölcs termelői csoportokról és termelői szervezetekről
 
 s) védekezési időszak: a tárgyév május 1-től július 31-ig terjedő időszaka;
 
-t)[^6] támogatható területnagyság: a szőlőtermelő vagy a termelői szerveződés által a kifizetési kérelemben, a hegybírói igazoláson, a permetezési naplóban vagy a Gazdálkodási Napló szerinti nyilvántartásban (a továbbiakban együtt: permetezési napló) megjelölt, hektárban – négy tizedesjegy pontossággal – kifejezett területnagyság közül a legkisebb;
+t)[^9] támogatható területnagyság: a szőlőtermelő vagy a termelői szerveződés által a kifizetési kérelemben, a hegybírói igazoláson, a permetezési naplóban vagy a Gazdálkodási Napló szerinti nyilvántartásban (a továbbiakban együtt: permetezési napló) megjelölt, hektárban – négy tizedesjegy pontossággal – kifejezett területnagyság közül a legkisebb;
 
 [^1]: Az 1. § d) pontja a 42/2020. (VIII. 19.) AM rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § e) pontja a 42/2020. (VIII. 19.) AM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 1. § h) pontja a 42/2017. (VIII. 17.) FM rendelet 225. §-a, a 42/2020. (VIII. 19.) AM rendelet 13. § a) pontja, a 144/2022. (XII. 27.) AM rendelet 1. §-a szerint módosított szöveg.
-[^4]: Az 1. § j) pontja a 42/2020. (VIII. 19.) AM rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^5]: Az 1. § q) pontja a 35/2018. (XII. 6.) AM rendelet 26. § a) pontja szerint módosított szöveg.
-[^6]: Az 1. § t) pontját a 42/2020. (VIII. 19.) AM rendelet 6. § (3) bekezdése iktatta be.
+[^3]: Az 1. § g) pontja a 35/2023. (VII. 14.) AM rendelet 1. §-ával megállapított szöveg.
+[^4]: Az 1. § h) pontja a 42/2017. (VIII. 17.) FM rendelet 225. §-a, a 42/2020. (VIII. 19.) AM rendelet 13. § a) pontja, a 144/2022. (XII. 27.) AM rendelet 1. §-a szerint módosított szöveg.
+[^5]: Az 1. § j) pontja a 42/2020. (VIII. 19.) AM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^6]: Az 1. § k) pontja a 35/2023. (VII. 14.) AM rendelet 3. § a) pontja szerint módosított szöveg.
+[^7]: Az 1. § l) pontja a 35/2023. (VII. 14.) AM rendelet 3. § b) pontja szerint módosított szöveg.
+[^8]: Az 1. § q) pontja a 35/2018. (XII. 6.) AM rendelet 26. § a) pontja szerint módosított szöveg.
+[^9]: Az 1. § t) pontját a 42/2020. (VIII. 19.) AM rendelet 6. § (3) bekezdése iktatta be.

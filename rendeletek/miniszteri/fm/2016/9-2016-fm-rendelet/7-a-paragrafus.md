@@ -1,4 +1,4 @@
-7/A. §[^34] (1) A növényvédelmi hatóság a kifizetési kérelmet nyilvántartásba veszi, és a kifizetési kérelem, valamint az ahhoz kapcsolódó mellékletek szakmai megalapozottságát – a készenléti tervben foglalt intézkedéseket és termelői kötelezettségeket is alapul véve – megvizsgálja, majd annak teljessége esetén azt záradékkal látja el. A záradék tartalmazza
+7/A. §[^38] (1) A növényvédelmi hatóság a kifizetési kérelmet nyilvántartásba veszi, és a kifizetési kérelem, valamint az ahhoz kapcsolódó mellékletek szakmai megalapozottságát – a készenléti tervben foglalt intézkedéseket és termelői kötelezettségeket is alapul véve – megvizsgálja, majd annak teljessége esetén azt záradékkal látja el. A záradék tartalmazza
 
 a) a növényvédelmi hatóság állásfoglalását a kifizetési kérelem, valamint az ahhoz kapcsolódó mellékletek szakmai megalapozottságáról a növényvédőszer megnevezésének és mennyiségének megjelölésével,
 
@@ -26,4 +26,4 @@ c) az a) pont szerinti eset kivételével a növényegészségügyi megelőzés.
 
 (8) A (7) bekezdés alkalmazásában a tárgyévben a szőlőtermelő vagy a támogatás igénylésére felhatalmazott termelői szerveződés részére a (7) bekezdés c) pontja szerinti célra vonatkozó kifizetési kérelmekben foglalt jogos igény alapján legfeljebb a 3. § (1) bekezdése szerinti keretösszeg és a (7) bekezdés a) és b) pontja szerinti támogatási célokra vonatkozó kifizetési kérelmekben foglalt jogos igény különbözete erejéig nyújtható támogatás, amelynek összege a túllépés mértékével arányosan csökken.
 
-[^34]: A 7/A. §-t a 42/2020. (VIII. 19.) AM rendelet 11. §-a iktatta be.
+[^38]: A 7/A. §-t a 42/2020. (VIII. 19.) AM rendelet 11. §-a iktatta be.

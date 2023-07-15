@@ -14,6 +14,6 @@
 
 | 6. | Szőlőoltvány-iskolában nevelt és szőlőültetvény létesítésére alkalmas ültetési anyag |
 
-2a. melléklet a 9/2016. (II. 15.) FM rendelethez[^45]
+2a. melléklet a 9/2016. (II. 15.) FM rendelethez[^50]
 
-[^45]: A 2a. mellékletet a 4/2019. (III. 6.) AM rendelet 6. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^50]: A 2a. mellékletet a 4/2019. (III. 6.) AM rendelet 6. § (2) bekezdés a) pontja hatályon kívül helyezte.
