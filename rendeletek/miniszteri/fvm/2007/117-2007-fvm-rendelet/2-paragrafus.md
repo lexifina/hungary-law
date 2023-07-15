@@ -2,7 +2,7 @@
 
 ## A támogatás jellege
 
-2. § (1)[^2] Az e rendelet szerinti támogatás az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdészeti ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2014. június 25-i 702/2014/EU bizottsági rendelet (a továbbiakban: 702/2014/EU bizottsági rendelet) 26. cikke szerinti támogatásnak minősül.
+2. § (1)[^2] Az e rendelet szerinti támogatás az (EU) 2022/2472 bizottsági rendelet 26. cikke szerinti támogatásnak minősül.
 
 (2)[^3] Az e rendeletben megállapított mértékben és feltételek szerint vissza nem térítendő támogatás vehető igénybe
 
@@ -15,5 +15,5 @@ c) a szőlő szaporítóanyagok előállításáról, minősítéséről és for
 növényegészségügyi vizsgálatokhoz [a továbbiakban az a)–c) pontok együtt: támogatott növényegészségügyi szolgáltatás].
 
 [^1]: Az 1. § a 42/2020. (VIII. 19.) AM rendelet 4. § a) pontja szerint módosított szöveg.
-[^2]: A 2. § (1) bekezdése a 6/2015. (III. 10.) FM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § (1) bekezdése a 29/2023. (VII. 14.) AM rendelet 1. §-ával megállapított szöveg.
 [^3]: A 2. § (2) bekezdése a 42/2020. (VIII. 19.) AM rendelet 1. §-ával megállapított szöveg.
