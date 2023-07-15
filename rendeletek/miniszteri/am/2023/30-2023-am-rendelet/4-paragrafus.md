@@ -1,0 +1,5 @@
+## „c) nyúl állatfaj vonatkozásában a hatósági ellenőrzések információkezelési rendszerének és a rendszer elemeinek működésére vonatkozó szabályok megállapításáról szóló, 2019. szeptember 30-i (EU) 2019/1715 bizottsági végrehajtási rendelet [a továbbiakban: (EU) 2019/1715 bizottsági végrehajtási rendelet] alapján kiállított, az Európai Unióba beléptetett állatok és áruk szállítmányaira vonatkozó elektronikus hatósági bizonyítványok vagy az élő állatok belföldi szállításának állat-egészségügyi szabályairól szóló 87/2012. (VIII. 27.) VM rendelet 2. melléklete szerinti bizonyítvány (a továbbiakban: „Állategészségügyi bizonyítvány a gazdaságból” nyomtatvány) vagy a harmadik országok által előírt állategészségügyi exportbizonyítvány (a továbbiakban: „Állategészségügyi exportbizonyítvány” nyomtatvány) keltének hónapja,”
+
+4. § A 148/2007. (XII. 8.) FVM rendelet 8. §-a helyébe a következő rendelkezés lép:
+
+„8. § Az (EU) 2022/2472 bizottsági rendelet 13. cikke és az (EU) 2022/2473 bizottsági rendelet 13. cikke szerinti nyilvántartást a Kincstár vezeti.”
