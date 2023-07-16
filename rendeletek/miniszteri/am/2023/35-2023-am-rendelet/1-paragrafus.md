@@ -1,3 +1,3 @@
-1. § A szőlőültetvényeken megvalósuló növényegészségügyi védekezés támogatásáról szóló 9/2016. (II. 15.) FM rendelet [a továbbiakban: 9/2016. (II. 15.) FM rendelet] 1. § g) pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-(E rendelet alkalmazásában:)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
