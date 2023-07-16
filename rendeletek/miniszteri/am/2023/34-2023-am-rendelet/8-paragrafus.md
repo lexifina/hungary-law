@@ -1,7 +1,3 @@
-8. § Hatályát veszti a 74/2015. (XI. 10.) FM rendelet
+8. §[^9]
 
-a) 1. § 7. pontja,
-
-b) 7. § (2) bekezdés c) pontjában és 9. § (1) bekezdés c) pontjában az „ , és az ehhez kapcsolódó nem termelő beruházás kapcsán felmerülő költség” szövegrész,
-
-c) 8. § (2) bekezdése.
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

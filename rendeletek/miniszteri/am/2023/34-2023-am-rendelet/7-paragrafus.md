@@ -1,25 +1,3 @@
-7. § A 74/2015. (XI. 10.) FM rendelet
+7. §[^8]
 
-a) 1. § 4. pontjában a „2. cikk (34) bekezdése” szövegrész helyébe a „2. cikk 61. pontja” szöveg;
-
-b) 1. § 8. pontjában a „2. cikk (4) bekezdése” szövegrész helyébe a „2. cikk 7. pontja” szöveg;
-
-c) 1. § 9. pontjában a „2. cikk (5) bekezdése” szövegrész helyébe a „2. cikk 44. pontja” szöveg;
-
-d) 1. § 10. pontjában a „2. cikk (6) bekezdése” szövegrész helyébe a „2. cikk 45. pontja” szöveg;
-
-e) 1. § 11. pontjában a „2. cikk (7) bekezdése” szövegrész helyébe a „2. cikk 35. pontja” szöveg;
-
-f) 1. § 12. pontjában a „2. cikk (8) bekezdése” szövegrész helyébe a „2. cikk 6. pontja” szöveg;
-
-g) 1. § 14. pontjában a „2. cikk (32) bekezdése” szövegrész helyébe a „2. cikk 39. pontja” szöveg;
-
-h) 1. § 18. pontjában a „2. cikk (9) bekezdése” szövegrész helyébe a „2. cikk 38. pontja” szöveg;
-
-i) 1. § 19. pontjában a „2. cikk (16) bekezdése” szövegrész helyébe a „2. cikk 2. pontja” szöveg;
-
-j) 3. § (11) bekezdésében a „25., 26. és 30. cikke” szövegrész helyébe a „25., 26., 28. és 37. cikke” szöveg;
-
-k) 8. § (1) bekezdésében az „500 ezer eurót” szövegrész helyébe a „600 ezer eurót” szöveg
-
-lép.
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

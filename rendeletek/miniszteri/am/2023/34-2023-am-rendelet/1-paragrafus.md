@@ -1,3 +1,3 @@
-1. § A mezőgazdasági csoportmentességi rendelet alapján nyújtott kezességvállalási díjak költségvetési támogatásáról szóló 74/2015. (XI. 10.) FM rendelet [a továbbiakban: 74/2015. (XI. 10.) FM rendelet] 1. § 3. pontja helyébe a következő rendelkezés lép, és a § a következő 3a. ponttal egészül ki:
+1. §[^2]
 
-(E rendelet alkalmazásában:)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
