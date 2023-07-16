@@ -2,6 +2,4 @@
 
 27. § (1)
 
-(2) A Tao. törvény 4. §-a a következő 25a. ponttal egészül ki:
-
-(E törvény alkalmazásában)
+(2)

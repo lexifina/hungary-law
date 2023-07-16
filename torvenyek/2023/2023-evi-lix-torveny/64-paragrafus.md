@@ -1,9 +1,1 @@
-## „k) a nyugtatár működésére vonatkozó szabályokat;
-
-## l) a vevői alkalmazás követelményeire, engedélyezésére vonatkozó szabályokat;
-
-## m) az e-nyugta, számla e-pénztárgéppel rögzített adatainak állami adó- és vámhatóság részére történő továbbítására vonatkozó részletszabályokat.”
-
-64. § Az Áfa tv. a következő 359. §-sal egészül ki:
-
-„359. § E törvénynek a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel módosított 246. § c) pontja azon előzetesen felszámított adó összegére alkalmazandó először, amelyet fizetendő adóként 2021. december 31-ét követően kellett megállapítani, azzal, hogy azon előzetesen felszámított adó összegének a XVIII. fejezet szerinti visszatéríttetésére az adóalany nem jogosult, amelyet levonható adóként a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvény kihirdetését követő napot megelőzően már érvényesített.”
+### 64. §

@@ -2,6 +2,6 @@
 
 a)
 
-b) 6. számú melléklete a 2. melléklet
+b)
 
 szerint módosul.
