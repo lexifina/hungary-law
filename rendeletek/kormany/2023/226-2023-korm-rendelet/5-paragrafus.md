@@ -1,5 +1,3 @@
-5. § Hatályát veszti a Nemzeti Szociálpolitikai Intézetről szóló 610/2020. (XII. 18.) Korm. rendelet
+5. §[^1]
 
-a) 6. § e) pontja,
-
-b) 6/B. §-a.
+[^1]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
