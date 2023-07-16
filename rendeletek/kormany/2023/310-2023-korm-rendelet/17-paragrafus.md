@@ -1,1 +1,3 @@
-17. § Hatályát veszti a 684/2020. Korm. rendelet 3. § (1) bekezdésében a „Digitális Kormányzati Ügynökség tulajdonosi joggyakorlása alatt álló, állami tulajdonú” szövegrész.
+17. §[^17]
+
+[^17]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

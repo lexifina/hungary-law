@@ -1,5 +1,5 @@
 ## 9. A Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet módosítása
 
-18. § A Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet [a továbbiakban: 182/2022. (V. 24.) Korm. rendelet] 9. §-a a következő (3) bekezdéssel egészül ki:
+18. §[^18]
 
-„(3) A miniszter felügyeli az Egységes Digitális Rádiótávközlő Rendszert, valamint az e hálózat infrastrukturális alapját biztosító szervezet tevékenységét.”
+[^18]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
