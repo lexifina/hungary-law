@@ -4,7 +4,7 @@ A Kormány
 
 a) az Észak-atlanti Szerződés Szervezete (a továbbiakban: NATO), valamint az Európai Unió (a továbbiakban: EU) által tervezett, stratégiai szintű katonai válságkezelési gyakorlatok (a továbbiakban együtt: gyakorlat) végrehajtásában történő magyar részvétel előkészítésére, tervezésére és nemzeti végrehajtásának – ideértve az értékelési és tapasztalat-összegző feladatokat is – koordinálására a honvédelemért felelős minisztert jelöli ki;
 
-b) felhatalmazza a honvédelemért felelős minisztert, hogy a gyakorlat jellegére, céljaira és módszereire tekintettel határozza meg a gyakorlat előkészítésébe és végrehajtásába bevonásra kerülő központi államigazgatási szervek – az autonóm államigazgatási szervek és önálló szabályozó szervek kivételével – körét (a továbbiakban: részt vevő központi államigazgatási szervek), és a részvétel szükségességéről ezen szervek vezetőjét tájékoztassa, továbbá kérje fel az előkészítésben és a végrehajtásban való közreműködésre a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 18. § (2) bekezdése szerinti, a honvédelemi felkészülés egyes feladatainak ellátásában részt vevő azon szerveket, amelyek közreműködése a gyakorlat eredményes végrehajtásához szükséges;
+b)[^1] felhatalmazza a honvédelemért felelős minisztert, hogy a gyakorlat jellegére, céljaira és módszereire tekintettel határozza meg a gyakorlat előkészítésébe és végrehajtásába bevonásra kerülő központi államigazgatási szervek – az autonóm államigazgatási szervek és önálló szabályozó szervek kivételével – körét (a továbbiakban: részt vevő központi államigazgatási szervek), és a részvétel szükségességéről ezen szervek vezetőjét tájékoztassa, továbbá kérje fel az előkészítésben és a végrehajtásban való közreműködésre a honvédelmi felkészülés egyes feladatainak ellátásában részt vevő, a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 11. § (2) bekezdése szerinti azon szerveket, amelyek közreműködése a gyakorlat eredményes végrehajtásához szükséges;
 
 Felelős: honvédelemért felelős miniszter
 
@@ -38,7 +38,7 @@ di) a gyakorlathoz kapcsolódó, konszenzusos állásfoglalások kialakításán
 
 dj) a gyakorlattal kapcsolatos rész- és összegző értékelés összeállítása, szükség szerint javaslattétel a nemzeti eljárási rend ésszerűsítésére, javítására;
 
-dk)[^1]
+dk)[^2]
 
 Felelős: honvédelemért felelős miniszter
 
@@ -58,4 +58,5 @@ Felelős: honvédelemért felelős miniszter
 
 Határidő: első alkalommal a 2016. évi költségvetés tervezés folyamatában, ezt követően évente
 
-[^1]: A d) pont dk) alpontját az 1222/2016. (V. 2.) Korm. határozat 2. pontja visszavonta.
+[^1]: A b) pont az 1283/2023. (VII. 17.) Korm. határozat szerint módosított szöveg.
+[^2]: A d) pont dk) alpontját az 1222/2016. (V. 2.) Korm. határozat 2. pontja visszavonta.
