@@ -1,0 +1,1 @@
+A Kormány a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet 46. § (1b) bekezdése alapján hozzájárul, hogy a Hortobágyi Halgazdaság Zártkörűen Működő Részvénytársaság a Krízishelyzetre szóló támogatás című, MAHOP-5.3.4-2023 kódszámú felhívásra támogatási kérelmet nyújtson be.
