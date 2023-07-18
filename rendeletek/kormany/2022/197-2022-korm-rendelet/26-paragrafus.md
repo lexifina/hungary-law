@@ -1,6 +1,6 @@
 ## 14. Az ásványi nyersanyagok és a geotermikus energia fajlagos értékének, valamint az értékszámítás módjának meghatározásáról szóló 54/2008. (III. 20.) Korm. rendelet eltérő alkalmazása
 
-26. §[^65] Az ásványi nyersanyagok és a geotermikus energia fajlagos értékének, valamint az értékszámítás módjának meghatározásáról szóló 54/2008. (III. 20.) Korm. rendeletet (a továbbiakban: Rendelet1.) azzal az eltéréssel kell alkalmazni, hogy
+26. §[^71] Az ásványi nyersanyagok és a geotermikus energia fajlagos értékének, valamint az értékszámítás módjának meghatározásáról szóló 54/2008. (III. 20.) Korm. rendeletet (a továbbiakban: Rendelet1.) azzal az eltéréssel kell alkalmazni, hogy
 
 a) a Rendelet1. 4. § (1) bekezdés a) pontjában meghatározott fajlagos érték a 2022. évben nem lehet kevesebb, mint 260 000 forint/tonna,
 
@@ -14,4 +14,4 @@ e) a Rendelet1. 5. § (1) bekezdés a) pontjában, a Rendelet1. 6. § (1) bekezd
 
 f) a Rendelet1. 5. § (1) bekezdés a) pontjában, a Rendelet1. 6. § (1) bekezdés a) pont ab) és ac) alpontjaiban meghatározott fajlagos érték a 2024. évben nem lehet kevesebb, mint 35 000 forint/MWh.
 
-[^65]: A 26. § a 206/2023. (V. 31.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^71]: A 26. § a 206/2023. (V. 31.) Korm. rendelet 10. §-ával megállapított szöveg.

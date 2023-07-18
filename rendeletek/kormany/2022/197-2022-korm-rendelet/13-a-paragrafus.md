@@ -1,4 +1,4 @@
-13/A. §[^47] (1) A Neta tv. 7. § (3) bekezdését a (2)–(5) bekezdésben foglalt eltéréssel kell alkalmazni.
+13/A. §[^53] (1) A Neta tv. 7. § (3) bekezdését a (2)–(5) bekezdésben foglalt eltéréssel kell alkalmazni.
 
 (2) Mentes a népegészségügyi termékadó alól annak az adóköteles terméknek a Neta tv. 3. § (1) bekezdése szerinti értékesítése, amelyet vevője
 
@@ -28,4 +28,4 @@ akkor erről a tényről – a belföldön továbbértékesített adóköteles t
 
 (5) Amennyiben a vevő a (3) bekezdés szerinti igazolási, vagy a (4) bekezdés szerinti értesítési kötelezettségének határidőben nem tesz eleget, akkor a számára értékesített adóköteles termék után az adóalany által meg nem fizetett adót, a (3) bekezdés szerinti nyilatkozattétel esedékességétől számított késedelmi pótlékot, illetve – ha a mulasztást az állami adó- és vámhatóság tárja fel – a meg nem fizetett adóval összefüggő adóbírságot és késedelmi pótlékot a vevő köteles megfizetni.
 
-[^47]: A 13/A. §-t a 441/2022. (XI. 7.) Korm. rendelet 5. §-a iktatta be, szövege a 62/2023. (II. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^53]: A 13/A. §-t a 441/2022. (XI. 7.) Korm. rendelet 5. §-a iktatta be, szövege a 62/2023. (II. 28.) Korm. rendelet 3. §-ával megállapított szöveg.

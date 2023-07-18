@@ -1,4 +1,4 @@
-21. §[^58] (1) A 2022. július 1-jét követően kezdődő, 12 hónapnál rövidebb adóév esetén a fizetendő kiskereskedelmi adó összege az adóévi, Kiskeradó tv. szerinti adóalapnak naptári napi időarányosítással 365 napos időszakra számított összege alapján a Kiskeradó tv. 6. §-a szerint, a 2023-ban kezdődő adóévben a (2) bekezdés szerint, a 2024-ben kezdődő adóévben a (3) bekezdés szerint megállapított adóösszegnek az adóév naptári napjaival arányos része.
+21. §[^64] (1) A 2022. július 1-jét követően kezdődő, 12 hónapnál rövidebb adóév esetén a fizetendő kiskereskedelmi adó összege az adóévi, Kiskeradó tv. szerinti adóalapnak naptári napi időarányosítással 365 napos időszakra számított összege alapján a Kiskeradó tv. 6. §-a szerint, a 2023-ban kezdődő adóévben a (2) bekezdés szerint, a 2024-ben kezdődő adóévben a (3) bekezdés szerint megállapított adóösszegnek az adóév naptári napjaival arányos része.
 
 (2) A Kiskeradó tv. 6. §-ától eltérően az adózó 2023-ban kezdődő adóévében a következő adómértéket kell alkalmazni az adó megállapítása során:
 
@@ -26,4 +26,4 @@ d) az adóalap 100 milliárd forintot meghaladó része után 4,5 százalék.
 
 (6) Ha a naptári évtől eltérő üzleti évet alkalmazó adóalany adóéve a naptári év július 1-jét követően kezdődik, és a 2022. július 1-jét magában foglaló adóévre a 20. § szerinti adókötelezettség terheli, a (2)–(5) bekezdés rendelkezéseit a 2022. július 1-jét követően kezdődő adóévekre kell alkalmaznia.
 
-[^58]: A 21. § a 206/2023. (V. 31.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^64]: A 21. § a 206/2023. (V. 31.) Korm. rendelet 7. §-ával megállapított szöveg.
