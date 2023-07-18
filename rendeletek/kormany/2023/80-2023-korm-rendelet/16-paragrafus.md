@@ -1,4 +1,4 @@
-16. § (1)[^9] A kiterjesztett gyártói felelősségi díjfizetési kötelezettség a körforgásos termék gyártó általi első forgalomba hozatalával keletkezik.
+16. § (1)[^10] A kiterjesztett gyártói felelősségi díjfizetési kötelezettség a körforgásos termék gyártó általi első forgalomba hozatalával keletkezik.
 
 (2) A kiterjesztett gyártói felelősségi díj megfizetése szempontjából forgalomba hozatalnak minősül
 
@@ -14,7 +14,7 @@ b) a saját célú felhasználás vagy
 
 c) az általános forgalmi adóról szóló törvény szerinti adóraktárból vagy a környezetvédelmi termékdíjról szóló törvény szerinti termékdíj raktárból a termék belföldre történő kitárolása.
 
-(3)[^10] A körforgásos termék első belföldi forgalomba hozatalának minősül
+(3)[^11] A körforgásos termék első belföldi forgalomba hozatalának minősül
 
 a) a 22. § (1) bekezdése szerinti nyilatkozattal beszerzett körforgásos termék belföldi forgalomba hozatala vagy
 
@@ -24,7 +24,7 @@ b) a 22/A. § (1) bekezdése szerinti nyilatkozattal beszerzett sütőolaj nem a
 
 a) a körforgásos termék tulajdonjogának
 
-aa)[^11] természetes személy vagy karitatív tevékenységet folytató közhasznú szervezet által, nem gazdasági tevékenység keretében végzett átruházása,
+aa)[^12] természetes személy vagy karitatív tevékenységet folytató közhasznú szervezet által, nem gazdasági tevékenység keretében végzett átruházása,
 
 ab) az általános forgalmi adóról szóló törvény szerinti adóraktárba való beraktározás keretében és az adóraktáron belüli átruházása,
 
@@ -38,9 +38,9 @@ b) az 1. melléklet 1.9. pontja szerinti körforgásos termék tulajdonjogának 
 
 c) a körforgásos termék természetes személy általi, nem gazdasági tevékenység keretében végzett saját célú felhasználása.
 
-(5)[^12] A (4) bekezdés szerinti esetben a gyártónak nem keletkezik a 6. § a) pontjában, a 7. és a 8. alcímben foglaltak szerinti kötelezettsége.
+(5)[^13] A (4) bekezdés szerinti esetben a gyártónak nem keletkezik a 6. § a) pontjában, a 7. és a 8. alcímben foglaltak szerinti kötelezettsége.
 
-[^9]: A 16. § (1) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 70. § 3. pontja szerint módosított szöveg.
-[^10]: A 16. § (3) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 58. § (1) bekezdésével megállapított szöveg.
-[^11]: A 16. § (4) bekezdés a) pont aa) alpontja a 276/2023. (VI. 29.) Korm. rendelet 70. § 4. pontja szerint módosított szöveg.
-[^12]: A 16. § (5) bekezdését a 276/2023. (VI. 29.) Korm. rendelet 58. § (2) bekezdése iktatta be.
+[^10]: A 16. § (1) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 70. § 3. pontja szerint módosított szöveg.
+[^11]: A 16. § (3) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 58. § (1) bekezdésével megállapított szöveg.
+[^12]: A 16. § (4) bekezdés a) pont aa) alpontja a 276/2023. (VI. 29.) Korm. rendelet 70. § 4. pontja szerint módosított szöveg.
+[^13]: A 16. § (5) bekezdését a 276/2023. (VI. 29.) Korm. rendelet 58. § (2) bekezdése iktatta be.

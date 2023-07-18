@@ -36,7 +36,7 @@ A körforgásos termékek díjkódjai
 
 | 15. | 1122 | papír (PAP) | 112210 | 112220 | 112140 | 112150 | P01 |
 
-| 16.[^47] | 1129 | más papír | 112910 | 112920 | 112940 | 112950 | P01 |
+| 16.[^49] | 1129 | más papír | 112910 | 112920 | 112940 | 112950 | P01 |
 
 | 17. | 1140 | vas, acél (FE) | 114010 | 114020 | 114040 | 114050 | V01 |
 
@@ -186,7 +186,7 @@ A körforgásos termékek díjkódjai
 
 | 12. | 1360 | kisméretű számítástechnikai és távközlési berendezés (amelynek egyik külső mérete sem haladja meg az 50 cm-t) | 136010 | 136020 | E06 |
 
-4.[^48] Elem és akkumulátor díjkódok
+4.[^50] Elem és akkumulátor díjkódok
 
 |  | A | B | C | D | E | F | G |
 
@@ -198,7 +198,7 @@ A körforgásos termékek díjkódjai
 
 | 4. | 1450 | gépjármű elem, akkumulátor | 145010 | 145020 | 145030 | 145040 | A03 |
 
-5.[^49] Gépjármű díjkódok
+5.[^51] Gépjármű díjkódok
 
 |  | A | B | C | D | E |
 
@@ -282,6 +282,6 @@ A körforgásos termékek díjkódjai
 
 | 2. | 2100 | bútor fából | 210000 | B01 |
 
-[^47]: A 2. melléklet 1. pontjában foglalt táblázat 16. sora a 276/2023. (VI. 29.) Korm. rendelet 69. § (1) bekezdés b) pontjával megállapított szöveg.
-[^48]: A 2. melléklet 4. pontja a 276/2023. (VI. 29.) Korm. rendelet 69. § (1) bekezdés b) pontjával megállapított szöveg.
-[^49]: A 2. melléklet 5. pontja a 276/2023. (VI. 29.) Korm. rendelet 69. § (1) bekezdés b) pontjával megállapított szöveg.
+[^49]: A 2. melléklet 1. pontjában foglalt táblázat 16. sora a 276/2023. (VI. 29.) Korm. rendelet 69. § (1) bekezdés b) pontjával megállapított szöveg.
+[^50]: A 2. melléklet 4. pontja a 276/2023. (VI. 29.) Korm. rendelet 69. § (1) bekezdés b) pontjával megállapított szöveg.
+[^51]: A 2. melléklet 5. pontja a 276/2023. (VI. 29.) Korm. rendelet 69. § (1) bekezdés b) pontjával megállapított szöveg.
