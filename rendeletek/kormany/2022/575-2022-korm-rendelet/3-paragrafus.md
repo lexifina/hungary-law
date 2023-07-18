@@ -1,1 +1,3 @@
-3. § Az Útdíj tv. 21. § (3) bekezdését azzal az eltéréssel kell alkalmazni, hogy a felügyeleti szerv nyilvántartást vezet az EETS-területbe tartozó útdíjköteles elemi útszakaszokról. A nyilvántartásban a felügyeleti szerv elérhetőségeit – az e-mail-címét és a telefonszámát is ideértve – fel kell tüntetni.
+3. §[^4]
+
+[^4]: A 3. §-t a 316/2023. (VII. 17.) Korm. rendelet 1. § 18. pont b) alpontja hatályon kívül helyezte.
