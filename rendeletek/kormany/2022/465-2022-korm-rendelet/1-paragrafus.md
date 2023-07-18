@@ -1,3 +1,0 @@
-1. § (1) A Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) a hulladékról szóló 2012. évi CLXXXV. törvény (a továbbiakban: Ht.) 53/N. § (1) bekezdése szerinti díjelőkészítő és a Ht. 53/N. § (2) bekezdése szerinti módszertani útmutató kiadási tevékenységét az e rendeletben foglaltakra figyelemmel látja el.
-
-(2) Az e rendeletben foglaltak nem érintik a koncesszor, a koncessziós társaság és a koncesszori alvállalkozók indokolt költségeinek meghatározásával, díjjavaslat elkészítésével kapcsolatos rendeletalkotás, valamint módszertani útmutató közzétételére a veszélyhelyzet időszakában alkalmazandó szabályokról szóló 392/2022. (X. 18.) Korm. rendelet rendelkezéseinek alkalmazását.
