@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-574-20-
 | 2022-12-24 | 2022-574-20-22.1 | 574/2022. (XII. 23.) Korm. rendelet |
 | 2023-01-01 | 2022-574-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2023-05-31 | 2022-574-20-22.3 | 207/2023. (V. 31.) Korm. rendelet |
+| 2023-07-18 | 2022-574-20-22.4 | 316/2023. (VII. 17.) Korm. rendelet |
