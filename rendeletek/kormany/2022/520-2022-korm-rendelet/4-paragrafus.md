@@ -1,1 +1,0 @@
-4. § A veszélyhelyzeti átmeneti villamosenergia-ellátást a 217/2022. (VI. 17.) Korm. rendelet 4. § (2) bekezdése alapján kijelölt villamosenergia-kereskedő (a továbbiakban: villamosenergia-kereskedő) biztosítja e rendelet szerint.
