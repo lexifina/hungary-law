@@ -198,44 +198,18 @@
 
 | Határidő: | azonnal |
 
-## 4. A Térségi fejlesztési feladatokhoz szükséges kötelezettségvállalásokról szóló 1023/2022. (I. 27.) Korm. határozat [a továbbiakban: 1023/2022. (I. 27.) Korm. határozat] 1. pontja a következő 1.17. alponttal egészül ki:
+## 4.[^1]
 
-## (A Kormány, tekintettel)
+## 5.[^2]
 
-## „1.17. a Nyíregyházi Ipari Park közcélú infrastrukturális fejlesztési feladataihoz szükséges kötelezettségvállalásokról szóló 1289/2023. (VII. 17.) Korm. határozatra”
+## 6.[^3]
 
-## (a következőkről dönt.)
+## 7.[^4]
 
-## 5. Az 1023/2022. (I. 27.) Korm. határozat 4. pontja a következő e) alponttal egészül ki:
+1. melléklet az 1289/2023. (VII. 17.) Korm. határozathoz[^5]
 
-## [A Kormány az Áht. 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az energiaügyi miniszter a 2023. évben]
-
-## „e) a Nyíregyházi Ipari Park közcélú infrastrukturális fejlesztési feladataihoz szükséges kötelezettségvállalásokról szóló 1289/2023. (VII. 17.) Korm. határozat végrehajtása érdekében legfeljebb 40 488 841 704 forint értékig”
-
-## [szabad előirányzatot meghaladó mértékben kötelezettséget vállaljon a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvénynek a Magyarország 2023. évi központi költségvetésének a veszélyhelyzettel összefüggő eltérő szabályairól szóló 613/2022. (XII. 29.) Korm. rendelet 1. mellékletével eltérően megállapított XVII. Energiaügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Térségi fejlesztési feladatok alcím terhére.]
-
-## 6. Az 1023/2022. (I. 27.) Korm. határozat 1. melléklete az 1. melléklet szerint módosul.
-
-## 7. A Nyíregyházi Ipari Park villamosenergia hálózat fejlesztés megvalósításához szükséges intézkedésekről szóló 1251/2022. (V. 4.) Korm. határozat
-
-## a) 1. pont 1.1. alpont b) pontjában a „ „Buj” [400/132] kV-os alállomás” szövegrész helyébe a „ „Szabolcsbáka” [750/400/132] kV-os alállomás” szöveg,
-
-## b) 1. pont 1.1. alpont m) pontjában a „ „Buj” ” szövegrész helyébe a „ „ Baktalórántháza” ” szöveg,
-
-## c) 1. pont 1.1. alpont n) pontjában a „ „Tiszalök – Nyíregyháza Simai út” ” szövegrész helyébe a „ „Buj – Nyíregyháza Simai út” ” szöveg
-
-## lép.
-
-1. melléklet az 1289/2023. (VII. 17.) Korm. határozathoz
-
-Az 1023/2022. (I. 27.) Korm. határozat 1. mellékletében foglalt táblázat a következő 17. sorral egészül ki:
-
-| 1a | [A | B | C | D | E | F | G | H | I | J |
-
-| 1. | Kapcsolódó kormányhatározat | 2021. évi költségvetési év (nettó forint) | 2022. évi költségvetési év (nettó forint) | 2023. évi költségvetési év (nettó forint) | 2024. évi költségvetési év (nettó forint) | 2025. évi költségvetési év (nettó forint) | 2026. évi költségvetési év (nettó forint) | 2027. évi költségvetési év (nettó forint) | 2028. évi költségvetési év (nettó forint) | Összesen (nettó forint)] |
-
-„
-
-| 17. | 1289/2023. (VII. 17.) Korm. határozat | 0 | 0 | 40 488 841 704 | 67 748 431 636 | 0 | 61 282 155 | 0 | 0 | 108 298 555 495 |
-
-”
+[^1]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 6. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
