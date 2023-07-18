@@ -1,1 +1,0 @@
-2. § A veszélyhelyzet ideje alatt a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 25. § (1a) bekezdésén felül az országos vasúti pályahálózat-működtető az állami tulajdonú áruterminál, konténerterminál, logisztikai központ üzemeltetését is közfeladatként látja el.
