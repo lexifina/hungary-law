@@ -4,7 +4,7 @@
 
 a) saját tulajdonú,
 
-b) fémkereskedőtől beszerzett,
+b) fémkereskedőtől vagy koncesszori fémkereskedőtől beszerzett,
 
 c) fémkereskedőnek nem minősülő személytől beszerzett, a hulladékról szóló törvényben meghatározottak szerint mellékterméknek minősülő
 
@@ -12,4 +12,4 @@ fémkereskedelmi engedélyköteles anyag hasznosítását, ha az így keletkezet
 
 (2) Az (1) bekezdés b) és c) pontja szerinti hasznosítás céljára kizárólag írásba foglalt megállapodás alapján vehető át fémkereskedelmi engedélyköteles anyag.
 
-(3) Az (1) bekezdésben meghatározott személy az országhatárt átlépő hulladékszállításról szóló Korm. rendelet hatálya alá tartozó szállításokról köteles a fémkereskedelmi hatóság részére szállítmányonként adatot szolgáltatni a külön jogszabályban meghatározottak szerint.
+(3) Az (1) bekezdésben meghatározott személy az országhatárt átlépő hulladékszállításról szóló kormányrendelet hatálya alá tartozó szállításokról köteles a fémkereskedelmi hatóság részére szállítmányonként adatot szolgáltatni a külön jogszabályban meghatározottak szerint.
