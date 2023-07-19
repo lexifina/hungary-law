@@ -12,9 +12,9 @@ d) az adott szakterületen végzett tudományos tevékenység,
 
 e) egyéni továbbképzés.
 
-(2)[^10] Az (1) bekezdés a) pontja szerinti továbbképzések minősítése előzetesen történik, az (1) bekezdés b)–e) pontja szerinti továbbképzések minősítését az 1. mellékletben foglaltak alapulvételével a felsőoktatási intézmények – a (2a) bekezdésben foglalt kivétellel – utólag végzik.
+(2)[^11] Az (1) bekezdés a) pontja szerinti továbbképzések minősítése előzetesen történik, az (1) bekezdés b)–e) pontja szerinti továbbképzések minősítését az 1. mellékletben foglaltak alapulvételével a felsőoktatási intézmények – a (2a) bekezdésben foglalt kivétellel – utólag végzik.
 
-(2a)[^11] Az 1. melléklet 4. pont 4.6. alpontjában meghatározott továbbképzések minősítését a felsőoktatási intézmények előzetesen végzik.
+(2a)[^12] Az 1. melléklet 4. pont 4.6. alpontjában meghatározott továbbképzések minősítését a felsőoktatási intézmények előzetesen végzik.
 
 (3) Az (1) bekezdés a) pontja szerinti tanfolyamok távoktatási formában is megszervezhetők. A távoktatással szerzett pontokból évente legfeljebb 20 pont számítható be.
 
@@ -22,5 +22,5 @@ e) egyéni továbbképzés.
 
 (5) A továbbképzési időszak alatt a továbbképzésre kötelezettnek szakképesítésenként legalább 25 pontot olyan, az (1) bekezdés a) pontja szerinti tanfolyam teljesítésével kell megszereznie, amelynek a célcsoportjában a továbbképzésre kötelezett szakképesítése (szakképesítései) szerepel (szerepelnek).
 
-[^10]: A 4. § (2) bekezdése a 2/2013. (I. 2.) EMMI rendelet 28. § (1) bekezdésével megállapított szöveg.
-[^11]: A 4. § (2a) bekezdését a 2/2013. (I. 2.) EMMI rendelet 28. § (2) bekezdése iktatta be.
+[^11]: A 4. § (2) bekezdése a 2/2013. (I. 2.) EMMI rendelet 28. § (1) bekezdésével megállapított szöveg.
+[^12]: A 4. § (2a) bekezdését a 2/2013. (I. 2.) EMMI rendelet 28. § (2) bekezdése iktatta be.

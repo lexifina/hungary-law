@@ -6,7 +6,7 @@ a) orvos, fogorvos, gyógyszerész szakképzettséggel, illetve
 
 b) – az a) pontban foglaltakon túl – egészségügyi felsőfokú szakirányú szakmai képzés során szerzett képzettséggel
 
-## [az a) és b) pont szerinti képzettség a továbbiakban együtt: szakképesítés] rendelkező személy (a továbbiakban: továbbképzésre kötelezett) folyamatos szakmai továbbképzésben (a továbbiakban: továbbképzés) köteles részt venni, a szakmai felkészültségének folyamatos szinten tartása érdekében.
+[az a) és b) pont szerinti képzettség a továbbiakban együtt: szakképesítés] rendelkező személy (a továbbiakban: továbbképzésre kötelezett) folyamatos szakmai továbbképzésben (a továbbiakban: továbbképzés) köteles részt venni, a szakmai felkészültségének folyamatos szinten tartása érdekében.
 
 (1a)[^2] Az egészségügyi szolgáltatások nyújtása során ionizáló sugárzásnak nem munkaköri kötelezettségük keretében kitett személyek egészsége védelmének szabályairól szóló 21/2018. (VII. 9.) EMMI rendelet 14. § (1) bekezdés b) pontja alapján orvosi fizikusi szakértői tevékenységet végző személyre e rendeletet megfelelően alkalmazni kell.
 
