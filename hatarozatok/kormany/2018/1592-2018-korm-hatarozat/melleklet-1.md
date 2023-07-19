@@ -220,25 +220,117 @@
 
 ## a támogatási jogviszony létesítésére: a 2019. évi források rendelkezésre állását követően azonnal
 
+## 3.7.[^8] egyetért a „KÖZMŰ-1” azonosítóval jelölt közmű projekt megvalósítása érdekében
+
+## a) a „Józsa” [400/132] kV-os alállomás 1 darab [132] kV-os mezővel való bővítése,
+
+## b) a „Józsa” [400/132] kV-os alállomás meddő kompenzációval való beépítése,
+
+## c) a „Debrecen Dél” [400/132] kV-os alállomás meddő kompenzációval való beépítése,
+
+## d) a „Debrecen Dél” [400/132] kV-os alállomás 3 darab [132] kV-os mezővel való bővítése,
+
+## e) a „Macs” [132/22] kV-os alállomás átalakítása és bővítése,
+
+## f) a „Józsa” és a „Macs” alállomások között új egyrendszerű [132] kV-os távvezeték létesítése,
+
+## g) az igényellátáshoz kapcsolódó további mögöttes elosztói hálózat (érintett hálózati elemek: „Debrecen OVIT – Debrecen Tócóskert (T-Debrecen Ipari) II.” [132] kV-os távvezeték, „Berettyóújfalu–Szeghalom” [132] kV-os távvezeték, „Berettyóújfalu – Ebes MÁV” [132] kV-os távvezeték, „Hajdúszoboszló – Ebes MÁV” [132] kV-os távvezeték, „Hajdúszoboszló – Debrecen OVIT” [132] kV-os távvezeték) kapacitásbővítése,
+
+## h) az igényellátáshoz kapcsolódó további mögöttes elosztói hálózat (érintett hálózati elemek: „Debrecen Déli Ipari park 2. – Rendszerhasználó I.” [132] kV-os kábelvezetékek) átalakítása,
+
+## i) a „Hajdúnánás–Tiszaújváros” [132] kV-os távvezeték felhasítása és „Tiszalök” [220/132/22] kV-os alállomásba történő beforgatása,
+
+## j) az igényellátáshoz kapcsolódó további mögöttes elosztói hálózat (érintett hálózati elemek: „Detk–Eger” [132] kV-os távvezeték) kapacitásbővítése
+
+## többletberuházások megvalósításával;
+
+## 3.8.[^9] egyetért azzal, hogy a „KÖZMŰ-1” azonosítóval jelölt közmű projekt 3.7. alpont szerinti többletberuházásainak finanszírozása legfeljebb 24 102 850 300 forint költségvetési forrásból valósuljon meg a támogatási szerződés megkötését követő 48 hónapon belül, az alábbiak szerint:
+
+## a) a MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörűen Működő Részvénytársaság által megvalósítandó átviteli hálózati fejlesztések megépítéséhez legfeljebb 12 000 000 000 forint,
+
+## b) az OPUS TITÁSZ Áramhálózati Zártkörűen Működő Részvénytársaság által megvalósítandó elosztóhálózati fejlesztések megépítéséhez legfeljebb 9 974 040 000 forint,
+
+## c) az MVM ÉMÁSZ Áramhálózati Korlátolt Felelősségű Társaság által megvalósítandó elosztóhálózati fejlesztések megépítéséhez legfeljebb 1 083 000 000 forint,
+
+## d) a Debrecen Megyei Jogú Város Önkormányzata által fizetendő teljesítményarányos csatlakozási díj, valamint projektkoordináció költségeinek megfizetéséhez legfeljebb 1 045 810 300 forint
+
+## biztosításával;
+
+## 3.9.[^10] felhívja a pénzügyminisztert, hogy az energiaügyi miniszter bevonásával gondoskodjon a 3.7. alpont szerinti feladatok megvalósítása érdekében legfeljebb 24 117 312 010 forint biztosításáról, az alábbi ütemezés szerint:
+
+## a) a 2023. évben a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 1. melléklet XVII. Energiaügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Térségi fejlesztési feladatok jogcímcsoport javára legfeljebb 10 982 145 120 forint,
+
+## b) a 2025. évben a központi költségvetés XVII. Energiaügyi Minisztérium fejezet, térségi fejlesztési feladatokat finanszírozó előirányzat javára legfeljebb 315 189 000 forint,
+
+## c) a 2026. évben a központi költségvetés XVII. Energiaügyi Minisztérium fejezet, térségi fejlesztési feladatokat finanszírozó előirányzat javára legfeljebb 6 020 610 200 forint,
+
+## d) a 2027. évben a központi költségvetés XVII. Energiaügyi Minisztérium fejezet, térségi fejlesztési feladatokat finanszírozó előirányzat javára legfeljebb 6 799 367 690 forint;
+
+| Felelős: | energiaügyi miniszter pénzügyminiszter |
+
+| Határidő: | az a) pont tekintetében azonnal a b)–d) pont tekintetében az adott évi központi költségvetés tervezésekor |
+
+## 3.10. [^11] felhívja az energiaügyi minisztert, hogy a 3.7. alpont szerinti feladatok megvalósítása érdekében gondoskodjon a MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörűen Működő Részvénytársasággal 12 000 000 000 forint összegben támogatási szerződés megkötéséről;
+
+| Felelős: | energiaügyi miniszter |
+
+| Határidő: | azonnal |
+
+## 3.11. [^12] felhívja az energiaügyi minisztert, hogy a 3.7. alpont szerinti feladatok megvalósítása érdekében gondoskodjon az OPUS TITÁSZ Áramhálózati Zártkörűen Működő Részvénytársasággal 9 974 040 000 forint összegben támogatási szerződés megkötéséről;
+
+| Felelős: | energiaügyi miniszter |
+
+| Határidő: | azonnal |
+
+## 3.12. [^13] felhívja az energiaügyi minisztert, hogy a 3.7. alpont szerinti feladatok megvalósítása érdekében gondoskodjon az MVM ÉMÁSZ Áramhálózati Korlátolt Felelősségű Társaság részére 1 083 000 000 forint összegben támogatói okirat kiadásáról;
+
+| Felelős: | energiaügyi miniszter |
+
+| Határidő: | azonnal |
+
+## 3.13. [^14] felhívja az energiaügyi minisztert, hogy a 3.8. alpont d) pontjában foglaltakra tekintettel a 3.7. alpont szerinti feladatok megvalósítása érdekében gondoskodjon Debrecen Megyei Jogú Város Önkormányzatával
+
+## a) 479 653 168 forint összegű visszatérítési kötelezettséggel járó támogatást tartalmazó, valamint
+
+## b) 566 157 132 forint összegű vissza nem térítendő támogatást tartalmazó
+
+## támogatói jogviszony megkötéséről, azzal, hogy a támogatási szerződésben kerüljön rögzítésre, hogy ha a Debrecen Megyei Jogú Város Önkormányzata a terület értékesítése során a vevőre áthárításra kerülő teljesítményarányos csatlakozási díj tekintetében az a) pont szerinti összegnél nagyobb bevételre (a továbbiakban: többletbevétel) tesz szert, a többletbevétellel azonos összegű vissza nem térítendő támogatást köteles visszafizetni a központi költségvetés javára, legfeljebb a b) pontban meghatározott vissza nem térítendő támogatás csatlakozási díjra eső összegének erejéig;
+
+| Felelős: | energiaügyi miniszter |
+
+| Határidő: | azonnal |
+
+## 3a.[^15] felhívja az érintett minisztereket, hogy gondoskodjanak arról, hogy a jelen határozat szerinti beruházások előkészítése és megvalósítása az Európai Unió által meghatározott elszámolhatósági feltételeknek megfelelően történjen meg;
+
+| Felelős: | érintett miniszterek |
+
+| Határidő: | folyamatos |
+
+## 3b.[^16] felhívja a területfejlesztési minisztert, hogy a 2021–2027 közötti programozási időszak operatív programjaiban és a Helyreállítási és Ellenállóképességi Eszköz keretében Magyarország számára elérhető európai uniós források tervezése és felhasználása során vegye figyelembe a jelen határozat szerinti beruházásokat a feltüntetett forrásigénnyel, ha azok bármelyike megfelel az Európai Unió által meghatározott elszámolhatósági feltételeknek.
+
+| Felelős: | területfejlesztési miniszter |
+
+| Határidő: | folyamatos |
+
 ## 4. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 5.[^8]
+## 5.[^17]
 
-## 6.[^9]
+## 6.[^18]
 
-## 7.[^10]
+## 7.[^19]
 
-## 8.[^11]
+## 8.[^20]
 
-## 9.[^12]
+## 9.[^21]
 
-## 10.[^13]
+## 10.[^22]
 
-## 11.[^14]
+## 11.[^23]
 
-## 12.[^15]
+## 12.[^24]
 
-1. melléklet az 1592/2018. (XI. 22.) Korm. határozathoz[^16]
+1. melléklet az 1592/2018. (XI. 22.) Korm. határozathoz[^25]
 
 1. A debreceni Észak-Nyugati Gazdasági Övezet infrastrukturális fejlesztése keretében tervezett
 
@@ -310,9 +402,9 @@ közmű projektek
 
 | 2. | Megvalósító | Határidő |
 
-| 3. | KÖZMŰ-1 | Az Észak-Nyugati Gazdasági Övezet és kiszolgáló létesítményeinek villamosenergia-ellátását biztosító, nagy- és középfeszültségű alállomás, transzformátorállomások és csatlakozási pontok kialakítása (szolgáltatás megrendelés útján) [1464/2018. (IX. 25.) Korm. határozat 5. pont a) alpont] | Debrecen MJV | 2020.11.30. |
+| 3. | KÖZMŰ-1 | Az Észak-Nyugati Gazdasági Övezet és kiszolgáló létesítményeinek villamosenergia-ellátását biztosító, nagy- és középfeszültségű alállomás, transzformátorállomások és csatlakozási pontok kialakítása (szolgáltatás megrendelés útján) [1464/2018. (IX. 25.) Korm. határozat 5. pont a) alpont] | Debrecen MJV, MAVIR ZRt., OPUS TITÁSZ Zrt., MVM ÉMÁSZ Áramhálózati Kft. | 2027.12.31. |
 
-| 4. | KÖZMŰ-2 | Az Észak-Nyugati Gazdasági Övezet kiszolgáló létesítményeinek gázellátását biztosító, 20 ezer Nm3/h kapacitású hálózat kiépítése (szolgáltatás megrendelés útján) [1464/2018. (IX. 25.) Korm. határozat 5. pont b) alpont] | Debrecen MJV | 2020.11.30. |
+| 4. | KÖZMŰ-2 | Az Észak-Nyugati Gazdasági Övezet kiszolgáló létesítményeinek gázellátását biztosító, 20 ezer Nm3/h kapacitású hálózat kiépítése (szolgáltatásmegrendelés útján), továbbá karbonsemleges energiatermelési lehetőségek Debrecen ipari parkjai számára – terepi felmérésre alapozott megvalósíthatósági tanulmányok elkészítése [1464/2018. (IX. 25.) Korm. határozat 5. pont b) alpont] | Debrecen MJV | 2024.07.31. |
 
 | 5. | KÖZMŰ-3 | Az Észak-Nyugati Gazdasági Övezet területén keletkező kezelt csapadékvizek továbbítására alkalmas hálózat kiépítése [1464/2018. (IX. 25.) Korm. határozat 5. pont c) alpont] | Debrecen MJV | 2019.10.30. |
 
@@ -327,12 +419,21 @@ közmű projektek
 [^5]: A 2.8. pontot az 1213/2021. (IV. 29.) Korm. határozat 2. pontja iktatta be.
 [^6]: A 2.9. pontot az 1213/2021. (IV. 29.) Korm. határozat 2. pontja iktatta be.
 [^7]: A 3.3. pont az 1213/2021. (IV. 29.) Korm. határozat 3. pontja szerint módosított szöveg.
-[^8]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^10]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^11]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^12]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^13]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^14]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^15]: A 12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^16]: Az 1. melléklet az 1053/2020. (II. 19.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^8]: A 3. pont 3.7. alpontját az 1302/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be.
+[^9]: A 3. pont 3.8. alpontját az 1302/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be.
+[^10]: A 3. pont 3.9. alpontját az 1302/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be.
+[^11]: A 3. pont 3.10. alpontját az 1302/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be.
+[^12]: A 3. pont 3.11. alpontját az 1302/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be.
+[^13]: A 3. pont 3.12. alpontját az 1302/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be.
+[^14]: A 3. pont 3.13. alpontját az 1302/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be.
+[^15]: A 3a. pontot az 1302/2023. (VII. 19.) Korm. határozat 2. pontja iktatta be.
+[^16]: A 3b. pontot az 1302/2023. (VII. 19.) Korm. határozat 2. pontja iktatta be.
+[^17]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: Az 1. melléklet az 1053/2020. (II. 19.) Korm. határozat 3. pontja, az 1302/2023. (VII. 19.) Korm. határozat 3. pontja szerint módosított szöveg.
