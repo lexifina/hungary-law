@@ -1,7 +1,3 @@
-9. § A Korm. rendelet
+9. §[^11]
 
-a) 3. § (1) bekezdésében a „2022. vagy a 2023. adóévben” szövegrészek helyébe a „2022., a 2023. vagy a 2024. adóévekben” szöveg,
-
-b) 16. § (5) bekezdés c) pontjában a „pótadóval egyező összegű” szövegrész helyébe a „pótadóval egyező” szöveg
-
-lép.
+[^11]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
