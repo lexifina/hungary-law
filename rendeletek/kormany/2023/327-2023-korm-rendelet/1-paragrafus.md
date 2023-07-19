@@ -1,5 +1,3 @@
-1. § A villamosenergetikai beruházások előkészítésével és megvalósításával összefüggő szabályok veszélyhelyzet ideje alatti eltérő alkalmazásáról szóló 22/2023. (I. 31.) Korm. rendelet (a továbbiakban: R.) a következő 4/A. §-sal és 4/B. §-sal egészül ki:
+1. §[^2]
 
-„4/A. § A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény (a továbbiakban: Mötv.) 16. § (1) bekezdésétől eltérően az Mötv. 16. §-a a villamosenergetikai beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé és a beruházások kiemelten közérdekű beruházássá nyilvánításáról szóló 328/2023. (VII. 17.) Korm. rendelet [a továbbiakban: 328/2023. (VII. 17.) Korm. rendelet] szerinti beruházás tekintetében is alkalmazható.
-
-4/B. § A 328/2023. (VII. 17.) Korm. rendelet szerinti beruházás tekintetében a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 48. § (4) bekezdés c)–f) pontja, a természet védelméről szóló 1996. évi LIII. törvény 24. § (1) bekezdés b) pontja vagy 36. § (1) bekezdése, az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 9/A. § (1) bekezdése és 10. § (1) bekezdése szerinti felhatalmazás alapján megalkotott helyi önkormányzati rendeletnek a 328/2023. (VII. 17.) Korm. rendelet hatálybalépését megelőző napon hatályos rendelkezéseit kell alkalmazni.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
