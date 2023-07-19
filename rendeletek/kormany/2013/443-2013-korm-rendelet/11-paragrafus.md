@@ -2,7 +2,7 @@
 
 (2) Az engedélyezett nyilvántartó, illetve a bizonylat-kiállító program módosított változatára való áttérést – kivéve, ha a módosítás a törzsadatok változása miatt szükséges – az engedélyező vámszervnél kérelmezni kell. Az engedélyező vámszerv a programmódosítást a kérelem benyújtását követő 8 napon belül engedélyezi vagy elutasítja. Az engedélyező határozatban meghatározásra kerül a módosított nyilvántartó, illetve bizonylat-kiállító program használatának kezdő időpontja is.
 
-(3)[^29] Az (1) és (2) bekezdés szerinti kérelemben szükséges a fémkereskedőnek ismertetnie:
+(3)[^54] Az (1) és (2) bekezdés szerinti kérelemben szükséges a fémkereskedőnek, illetve koncesszori fémkereskedőnek ismertetnie:
 
 a) a program alkalmazásának – illetve a (2) bekezdésben foglalt esetben a program módosításának – részletes leírását;
 
@@ -10,4 +10,4 @@ b) a programkészítő vagy a forgalmazó nyilatkozatát arról, hogy a program 
 
 c) a telepített nyilvántartó program adatbázis fájljának (fájljainak) elérési útvonalát.
 
-[^29]: A 11. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 467. § (5) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^54]: A 11. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 467. § (5) bekezdésével megállapított, nyitó szövegrésze a 309/2023. (VII. 14.) Korm. rendelet 9. § 24. pontja szerint módosított szöveg.

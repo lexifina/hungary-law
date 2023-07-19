@@ -1,16 +1,16 @@
-3. melléklet a 443/2013. (XI. 27.) Korm. rendelethez[^52]
+3. melléklet a 443/2013. (XI. 27.) Korm. rendelethez[^124]
 
-A fémkereskedelmi engedély adattartalma
+A fémkereskedelmi engedély, illetve koncesszori fémkereskedelmi engedély adattartalma
 
-FÉMKERESKEDELMI ENGEDÉLY
+## FÉMKERESKEDELMI ÉS KONCESSZORI FÉMKERESKEDELMI ENGEDÉLY
 
 1. Az engedélyező vámszerv megnevezése:
 
-2. A fémkereskedelmi engedély száma:
+2. A fémkereskedelmi vagy koncesszori fémkereskedelmi engedély száma:
 
-3. A Fémtv. 6. §-a és az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 80. §-a alapján a fémkereskedelmi tevékenységet az alábbiak szerint engedélyezem:
+3. A Fémtv. 6. §-a és az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 80. §-a alapján a fémkereskedelmi, illetve koncesszori fémkereskedelmi tevékenységet az alábbiak szerint engedélyezem:
 
-4. A fémkereskedő
+4. A fémkereskedő vagy koncesszori fémkereskedő
 
 4.1. neve (elnevezése):
 
@@ -24,9 +24,13 @@ FÉMKERESKEDELMI ENGEDÉLY
 
 4.6. tevékenységének megjelölése:
 
-5. Fent nevezett fémkereskedő a fémkereskedelmi engedély mellékleteként kiállított és hitelesített
+4.7. koncesszori alvállalkozói nyilvántartási száma:
 
-betétlap(ok)on megjelölt helyen és feltételek mellett jogosult a fémkereskedelmi tevékenység folytatására.
+4.8. koncesszori alvállalkozói szerződésének érvényességi ideje:
+
+5. Fent nevezett fémkereskedő vagy koncesszori fémkereskedő a fémkereskedelmi engedély mellékleteként kiállított és hitelesített
+
+betétlap(ok)on megjelölt helyen és feltételek mellett jogosult a fémkereskedelmi / koncesszori fémkereskedelmi tevékenység folytatására.
 
 Kelt: ......................................
 
@@ -38,7 +42,7 @@ kiadmányozó
 
 6.1. Betétlap engedély száma:
 
-6.2. A fémkereskedő
+6.2. A fémkereskedő vagy koncesszori fémkereskedő
 
 a) neve:
 
@@ -48,11 +52,11 @@ c) telephelyének címe, helyrajzi száma:
 
 d) felügyeletét ellátó vámszerv:
 
-7. Fémkereskedő tevékenység engedélyezése
+7. Fémkereskedő vagy koncesszori fémkereskedő tevékenység engedélyezése
 
-7.1. A fémkereskedő a telephelyen a Fémtv. 4. §-ában meghatározott tevékenység végzésére – a jogszabályi kötelezettségek betartása mellett – jogosult.
+7.1. A fémkereskedő vagy koncesszori fémkereskedő a telephelyen a Fémtv. 4. §-ában, valamint a 9/A. §-ában meghatározott tevékenység végzésére – a jogszabályi kötelezettségek betartása mellett – jogosult.
 
-7.2. A fémkereskedő a jelen engedélyben rögzített, valamint a fémkereskedelmi engedély iránti kérelemhez csatolt bizonylatokban, dokumentációkban szereplő feltételek, körülmények fennállása, teljesítése mellett működhet.
+7.2. A fémkereskedő vagy koncesszori fémkereskedő a jelen engedélyben rögzített, valamint a fémkereskedelmi engedély iránti kérelemhez csatolt bizonylatokban, dokumentációkban szereplő feltételek, körülmények fennállása, teljesítése mellett működhet.
 
 8. Jelen engedély .....................-ig érvényes.
 
@@ -62,4 +66,4 @@ Kelt: ...................................................
 
 kiadmányozó
 
-[^52]: A 3. melléklet 3. pontja a 457/2017. (XII. 28.) Korm. rendelet 468. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^124]: A 3. melléklet 3. pontja a 457/2017. (XII. 28.) Korm. rendelet 468. § d) pontja, a 309/2023. (VII. 14.) Korm. rendelet 8. § (3) bekezdése ás 9. § 42-51. pontja szerint módosított szöveg.

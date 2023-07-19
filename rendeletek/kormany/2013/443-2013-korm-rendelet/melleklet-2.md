@@ -1,6 +1,6 @@
-2. melléklet a 443/2013. (XI. 27.) Korm. rendelethez
+2. melléklet a 443/2013. (XI. 27.) Korm. rendelethez[^123]
 
-A fémkereskedelmi engedély iránti kérelem adattartalma
+A émkereskedelmi engedély, illetve koncesszori fémkereskedelmi engedély iránti kérelem adattartalma
 
 ## A kérelem benyújtásának időpontja:
 
@@ -8,7 +8,7 @@ A fémkereskedelmi engedély iránti kérelem adattartalma
 
 ## KÉRELEM
 
-## a fémkereskedelmi tevékenység folytatásának engedélyezésére
+## a fémkereskedelmi, illetve koncesszori fémkereskedelmi tevékenység folytatásának engedélyezésére
 
 I. Személyi adatok
 
@@ -43,6 +43,10 @@ I. Személyi adatok
 1.8.6. adóazonosító jele:
 
 1.9. A kapcsolattartó személy elérhetőségei (név, telefonszám, e-mail cím):
+
+1.10. Koncesszori fémkereskedelmi tevékenység engedélyezésére irányuló kérelem esetén a kérelmező koncesszori alvállalkozói nyilvántartási száma:
+
+1.11. Koncesszori alvállalkozói szerződés érvényességi ideje:
 
 2. Nyilatkozatok
 
@@ -82,7 +86,7 @@ b) telephely fenntartásával folytatott tevékenység
 
 6. A telephely nyitvatartási ideje:
 
-7. Az éves szinten működtetni kívánt kapacitás mellett felvásárolható, raktározható és tárolható fémkereskedelmi engedélyköteles anyag mennyisége [kg]:
+7. Az éves szinten működtetni kívánt kapacitás mellett átvehető vagy felvásárolható, raktározható és tárolható fémkereskedelmi engedélyköteles anyag mennyisége [kg]:
 
 7.1. alumínium:
 
@@ -141,3 +145,5 @@ Kelt: ...................................................
 a kérelmező aláírása
 
 (bélyegzője)
+
+[^123]: A 2. melléklet a 309/2023. (VII. 14.) Korm. rendelet 8. § (2) bekezdése és 9. § 42-44. pontja szerint módosított szöveg.

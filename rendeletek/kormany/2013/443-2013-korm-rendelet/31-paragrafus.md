@@ -1,5 +1,3 @@
-## 30. § A Fémtv. 15. § (6) bekezdése alapján benyújtott fémkereskedelmi engedély módosítása iránti kérelmet benyújtó fémkereskedő a kérelem elbírálásáig változatlan feltételekkel folytathatja tevékenységét.
+31. §[^106]
 
-31. § (1) A tevékenységi biztosíték kiegészítése vagy az új feltételeknek megfelelő alacsonyabb összegben történő tevékenységi biztosíték megállapítására irányuló engedély iránti kérelem benyújtása érdekében a fémkereskedő az e rendelet kihirdetését követő 6 hónapon belül köteles intézkedni.
-
-(2) A tevékenységi biztosíték csökkentésének feltételeként előírt két éves bírságmentes időszak tekintetében az e rendelet hatálybalépését megelőző két évet is figyelembe kell venni.
+[^106]: A 31. §-t a 309/2023. (VII. 14.) Korm. rendelet 10. § (1) bekezdés e) pontja hatályon kívül helyezte.

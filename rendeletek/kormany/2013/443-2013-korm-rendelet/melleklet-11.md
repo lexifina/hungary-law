@@ -1,4 +1,4 @@
-11. melléklet a 443/2013. (XI. 27.) Korm. rendelethez
+11. melléklet a 443/2013. (XI. 27.) Korm. rendelethez[^130]
 
 Az anyagkísérő okmány adattartalma
 
@@ -10,7 +10,7 @@ a) neve:
 
 b) székhelye (telephelye):
 
-c) fémkereskedelmi engedélyének száma:
+c) fémkereskedelmi vagy koncesszori fémkereskedelmi engedélyének száma:
 
 d) adószáma:
 
@@ -20,7 +20,7 @@ a) neve:
 
 b) székhelye (telephelye):
 
-c) fémkereskedelmi engedélyének száma:
+c) fémkereskedelmi vagy koncesszori fémkereskedelmi engedélyének száma:
 
 d) adószáma:
 
@@ -30,7 +30,7 @@ a) neve:
 
 b) székhelye (telephelye):
 
-c) fémkereskedelmi engedélyének száma:
+c) fémkereskedelmi vagy koncesszori fémkereskedelmi engedélyének száma:
 
 d) adószáma:
 
@@ -69,3 +69,5 @@ db) köztes súly (ha van):
 dc) átvett súly:
 
 11. Dátum, aláírás, bélyegzőlenyomat:
+
+[^130]: A 11. melléklet a 309/2023. (VII. 14.) Korm. rendelet 9. § 64. pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 5. A fémkereskedő nyilvántartási, adatszolgáltatási kötelezettségére vonatkozó részletes szabályok
+## 5.[^53] A fémkereskedő, illetve koncesszori fémkereskedő nyilvántartási, adatszolgáltatási kötelezettségére vonatkozó részletes szabályok
 
 10. § (1) A Fémtv.-ben meghatározott nyilvántartás számítógépes vezetését, valamint az anyagkísérő okmány számítógépes előállítását és kitöltését az e §-ban meghatározott követelményeknek megfelelő, az engedélyező vámszerv által engedélyezett számítógépes programokkal lehet végezni.
 
@@ -33,3 +33,5 @@ a) a program által készített bizonylatok formátuma, tartalma, kiállításá
 b) a program a felhasznált sorszám (ideértve a stornózott sorszámot is) ismételt felhasználását ne engedélyezze;
 
 c) a program kizárólag az engedélyező vámszerv által az adott időszakra kiadott sorszámok felhasználását emelkedő számsorrendben, kizárólag egy alkalommal tegye lehetővé a bizonylat kiállítása során, és önálló sorszámgenerálást vagy ugyanazon számsorrend újbóli felhasználását ne tegye lehetővé.
+
+[^53]: Az 5. alcím címe a 309/2023. (VII. 14.) Korm. rendelet 9. § 11. pontja szerint módosított szöveg.

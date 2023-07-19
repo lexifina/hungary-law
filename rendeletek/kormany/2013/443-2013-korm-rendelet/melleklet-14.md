@@ -56,7 +56,7 @@
 
 ## 3.1. telephely fenntartása nélkül folytatott tevékenység
 
-## 4. Az éves szinten működtetni kívánt kapacitás mellett felvásárolható fémkereskedelmi engedélyköteles anyag mennyisége [kg]:
+## 4. Az éves szinten működtetni kívánt kapacitás mellett átvehető vagy felvásárolható fémkereskedelmi engedélyköteles anyag mennyisége [kg]:
 
 ## 4.1. alumínium:
 
@@ -110,9 +110,9 @@
 
 ## (bélyegzője)
 
-14. melléklet a 443/2013. (XI. 27.) Korm. rendelethez[^55]
+14. melléklet a 443/2013. (XI. 27.) Korm. rendelethez[^132]
 
-A telephely fenntartása nélkül fémkereskedelmi tevékenységet végző fémkereskedő által fémkereskedelmi engedélyköteles anyag szállításáról szóló bejelentés adattartalma
+A telephely fenntartása nélkül fémkereskedelmi vagy koncesszori fémkereskedelmi tevékenységet végző fémkereskedő vagy koncesszori fémkereskedő által fémkereskedelmi engedélyköteles anyag szállításáról szóló bejelentés adattartalma
 
 1. A feladó (eladó)
 
@@ -120,7 +120,7 @@ a) neve:
 
 b) székhelye (telephelye):
 
-c) fémkereskedelmi engedélyének száma:
+c) fémkereskedelmi vagy koncesszori fémkereskedelmi engedélyének száma:
 
 d) adószáma:
 
@@ -130,7 +130,7 @@ a) neve:
 
 b) székhelye (telephelye):
 
-c) fémkereskedelmi engedélyének száma:
+c) fémkereskedelmi vagy koncesszori fémkereskedelmi engedélyének száma:
 
 d) adószáma:
 
@@ -140,7 +140,7 @@ a) neve:
 
 b) székhelye (telephelye):
 
-c) fémkereskedelmi engedélyének száma (amennyiben van fémkereskedelmi engedélye):
+c) fémkereskedelmi vagy koncesszori fémkereskedelmi engedélyének száma (amennyiben van fémkereskedelmi vagy koncesszori fémkereskedelmi engedélye):
 
 d) hulladékszállítási engedélyének száma:
 
@@ -176,4 +176,4 @@ dc) átvett súly:
 
 9. Dátum, aláírás
 
-[^55]: A 14. mellékletet a 713/2020. (XII. 30.) Korm. rendelet 39. § (7) bekezdése iktatta be.
+[^132]: A 14. mellékletet a 713/2020. (XII. 30.) Korm. rendelet 39. § (7) bekezdése iktatta be, szövege a 309/2023. (VII. 14.) Korm. rendelet 9. § 48. és 64-66. pontja szerint módosított szöveg..
