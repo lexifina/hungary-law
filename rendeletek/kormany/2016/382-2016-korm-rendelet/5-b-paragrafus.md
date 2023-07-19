@@ -1,3 +1,3 @@
-## 5/A. §[^80] A pályaalkalmassági vizsgálatok Kkt. 18. § (8) bekezdése szerinti vizsgaközpont által meghatározott módszertanát a miniszter hagyja jóvá.
+## 5/A. §[^81] A pályaalkalmassági vizsgálatok Kkt. 18. § (8) bekezdése szerinti vizsgaközpont által meghatározott módszertanát a miniszter hagyja jóvá.
 
-[^80]: Az 5/A. §-t a 285/2018. (XII. 21.) Korm. rendelet 8. §-a iktatta be.
+[^81]: Az 5/A. §-t a 285/2018. (XII. 21.) Korm. rendelet 8. §-a iktatta be.
