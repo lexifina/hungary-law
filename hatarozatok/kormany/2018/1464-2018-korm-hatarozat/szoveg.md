@@ -32,7 +32,7 @@ Határidő: 2018. október 15.
 
 a) az Észak-Nyugati Gazdasági Övezet és kiszolgáló létesítményeinek villamosenergia-ellátását biztosító, nagy- és középfeszültségű alállomás, transzformátorállomások és csatlakozási pontok – 2020. június 30. napjáig történő – kialakításával,
 
-b) az Észak-Nyugati Gazdasági Övezet és kiszolgáló létesítményeinek gázellátását biztosító, 20 ezer Nm3/h kapacitású hálózat – 2020. március 31. napjáig történő – kiépítésével,
+b)[^1] az Észak-Nyugati Gazdasági Övezet és kiszolgáló létesítményeinek gázellátását biztosító, 20 ezer Nm3/h kapacitású hálózat – 2020. március 31. napjáig történő – kiépítésével, továbbá karbonsemleges energiatermelési lehetőségek Debrecen ipari parkjai számára – terepi felmérésre alapozott megvalósíthatósági tanulmányok elkészítésével,
 
 c) az Észak-Nyugati Gazdasági Övezet területén keletkező kezelt csapadékvizek továbbítására alkalmas hálózat – 2019. június 30. napjáig történő – kiépítésével,
 
@@ -50,6 +50,7 @@ pénzügyminiszter
 
 Határidő: 2018. október 15.
 
-7.[^1]
+7.[^2]
 
-[^1]: A 7. pontot az 1593/2018. (XI. 22.) Korm. határozat 2. pontja visszavonta.
+[^1]: Az 5. pont b) alpontja az 1302/2023. (VII. 19.) Korm. határozat 9. pontjával megállapított szöveg.
+[^2]: A 7. pontot az 1593/2018. (XI. 22.) Korm. határozat 2. pontja visszavonta.
