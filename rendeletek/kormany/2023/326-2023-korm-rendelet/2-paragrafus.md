@@ -1,5 +1,3 @@
-## „2. reklámhordozó papír: a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló törvényben meghatározott gazdasági reklámot tartalmazó, a médiaszolgáltatásokról és a tömegkommunikációról szóló törvény által meghatározott egyéb nyomtatott anyagok közül a grafikát, rajzot vagy fotót tartalmazó kiadvány, a térkép, a nyomtatott képeslap, a névjegykártya kivételével az üdvözlő- és más hasonló kártya, a nyomtatott naptár, a nyomtatott üzleti reklámanyag, a katalógus, a prospektus, a reklámposzter és hasonlók, a röplap és az egyéb szöveges kiadvány, ideértve azt is, ha más kiadvány mellékletét képezik, kivéve az ISBN-számmal ellátott könyvet és a tankönyvjegyzékbe felvett tankönyvet.”
+2. §[^3]
 
-2. § Az R. a következő 37/B. §-sal egészül ki:
-
-„37/B. § A kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló 80/2023. (III. 14.) Korm. rendelet módosításáról szóló 326/2023. (VII. 17.) Korm. rendelettel megállapított 2. § (1) bekezdés 2. pontját 2023. július 1. napjától kell alkalmazni.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
