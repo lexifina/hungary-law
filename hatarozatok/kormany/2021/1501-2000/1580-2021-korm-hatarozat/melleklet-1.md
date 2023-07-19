@@ -2,7 +2,7 @@
 
 ## a) a 2021. évben 6 793 395 000 forint,
 
-## b) a 2022. évben 3 071 535 000 forint;
+## b)[^1] a 2023. évben 3 071 535 000 forint;
 
 ## 2. egyetért a Korm. határozatban biztosított támogatáson felül további legfeljebb 111 055 500 forint költségvetési többlettámogatás biztosításával a Korm. határozat 1. melléklet 2. pontjában foglalt táblázat 7. sora szerinti KÖZMŰ-5 projektelem megvalósítása céljából, az 1. melléklet szerint, a 2022. költségvetési évben;
 
@@ -14,13 +14,11 @@
 
 ## Határidő: a felmerülés ütemében
 
-## 4. felhívja a pénzügyminisztert és az innovációért és technológiáért felelős minisztert, hogy az 1. pont b) alpontjában foglaltak szerint gondoskodjon legfeljebb 3 071 535 000 forint többletforrás biztosításáról a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 32. Közlekedési ágazati programok alcím javára;
+## 4.[^2] felhívja a pénzügyminisztert és az építési és közlekedési minisztert, hogy az 1. pont b) alpontjában foglaltak szerint gondoskodjon legfeljebb 3 071 535 000 forint többletforrás biztosításáról a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 1. melléklet XVI. Építési és Közlekedési Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 5. Közlekedési ágazati programok alcím javára;
 
-## Felelős: pénzügyminiszter
+| Felelős: | pénzügyminiszter építési és közlekedési miniszter |
 
-## innovációért és technológiáért felelős miniszter
-
-## Határidő: a 2022. évi központi költségvetés végrehajtása során, a felmerülés ütemében
+| Határidő: | a felmerülés ütemében |
 
 ## 5. felhívja a pénzügyminisztert és az innovációért és technológiáért felelős minisztert, hogy az 2. pontban foglaltak szerint gondoskodjon legfeljebb 111 055 500 forint többletforrás biztosításáról a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 36. Ágazati szakmai és társadalmi szervezetek feladatai alcím, 1. Szakmai és társadalmi szervezetek támogatása jogcímcsoport javára;
 
@@ -34,11 +32,11 @@
 
 ## 7. az Áht. 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a 2. pontban foglalt projektelem megvalósítása érdekében a 2022. évi központi költségvetés XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 36. Ágazati szakmai és társadalmi szervezetek feladatai alcím, 1. Szakmai és társadalmi szervezetek támogatása jogcímcsoport terhére vállalható kötelezettségvállalás felső korlátját 111 000 000 forint összegben állapítja meg;
 
-## 8. felhívja az innovációért és technológiáért felelős minisztert, hogy gondoskodjon az 1. és 2. pont szerinti feladatok megvalósításáról, és ennek érdekében a létrehozott támogatási jogviszony módosításáról, továbbá támogatási jogviszony létrehozásáról Debrecen Megyei Jogú Város Önkormányzatával.
+## 8.[^3] felhívja építési és közlekedési minisztert, hogy gondoskodjon az 1. és 2. pont szerinti feladatok megvalósításáról, és ennek érdekében a létrehozott támogatási jogviszony módosításáról Debrecen Megyei Jogú Város Önkormányzatával.
 
-## Felelős: innovációért és technológiáért felelős miniszter
+| Felelős: | építési és közlekedési miniszter |
 
-## Határidő: azonnal
+| Határidő: | a forrás rendelkezésre állását követően azonnal |
 
 1. melléklet az 1580/2021. (VIII. 11.) Korm. határozathoz
 
@@ -57,3 +55,7 @@ A debreceni Észak-Nyugati Gazdasági Övezet infrastrukturális fejlesztéséhe
 | 5. | KÖZÚT-3/B | 2022 | 100 ha fejlesztési terület feltáró út | 3 070 |
 
 | 6. | KÖZMŰ-5 | 2022 | 100 ha fejlesztési terület távközlési alépítmény | 111 |
+
+[^1]: Az 1. pont b) alpontja az 1304/2023. (VII. 19.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 4. pont az 1304/2023. (VII. 19.) Korm. határozat 2. pontjával megállapított szöveg.
+[^3]: A 8. pont az 1304/2023. (VII. 19.) Korm. határozat 3. pontjával megállapított szöveg.
