@@ -4,7 +4,7 @@ A Kormány
 
 2. támogatja a Debrecen 2030-ig szóló fejlesztési koncepcióval érintett közlekedésfejlesztési, gazdaságfejlesztési, közmű-, oktatási, egészségügyi, kulturális, valamint energetikai tárgyú fejlesztések 2021–2023. évi megvalósulását;
 
-3.[^1] egyetért azzal, hogy Debrecen Megyei Jogú Város Önkormányzata részére az alábbi szakterületek szerinti projektek 2021–2023. évi előkészítése és megvalósítása céljára összesen 27 862 200 000 forint központi költségvetési támogatás kerüljön biztosításra, az alábbiak szerint:
+3.[^1] egyetért azzal, hogy Debrecen Megyei Jogú Város Önkormányzata részére az alábbi szakterületek szerinti projektek 2021–2023. évi előkészítése és megvalósítása céljára összesen 27 509 527 521 forint központi költségvetési támogatás kerüljön biztosításra, az alábbiak szerint:
 
 3.1. 2021. évi előkészítési költségeire:
 
@@ -22,7 +22,7 @@ c) kulturális fejlesztésre 5 080 000 000 forint;
 
 3.3. 2022. évi előkészítési költségeire:
 
-a) közlekedésfejlesztésre 1 957 300 000 forint;
+a)[^2] közlekedésfejlesztésre 205 000 000 forint;
 
 b) közműfejlesztésre 899 000 000 forint;
 
@@ -30,7 +30,7 @@ c) energetikai fejlesztésre 80 000 000 forint;
 
 3.4. 2022. évi megvalósítási költségeire:
 
-a) közlekedésfejlesztésre 1 984 700 000 forint;
+a)[^3] közlekedésfejlesztésre 3 737 000 000 forint;
 
 b) gazdaságfejlesztésre 4 112 400 000 forint;
 
@@ -38,7 +38,7 @@ c) közműfejlesztésre 2 650 000 000 forint;
 
 3.5. 2023. évi előkészítési költségeire:
 
-a) közlekedésfejlesztésre 374 700 000 forint;
+a)[^4] közlekedésfejlesztésre 269 400 000 forint;
 
 b) közműfejlesztésre 220 000 000 forint;
 
@@ -48,17 +48,17 @@ d) kulturális fejlesztésre 127 000 000 forint;
 
 3.6. 2023. évi megvalósítási költségeire:
 
-a) közlekedésfejlesztésre 3 138 000 000 forint;
+a)[^5] közlekedésfejlesztésre 2 890 627 521 forint;
 
 b) gazdaságfejlesztésre 805 600 000 forint;
 
 c) közműfejlesztésre 400 000 000 forint;
 
-4.[^2]
+4.[^6]
 
-5.[^3]
+5.[^7]
 
-6.[^4] felhívja a pénzügyminisztert, hogy – az innovációért és technológiáért felelős miniszter bevonásával – gondoskodjon a 3. pont 3.5. és 3.6. alpontja szerint a 2023. évi központi költségvetés XVII. Innovációs és Technológiai Minisztérium fejezetében 5 265 300 000 forint rendelkezésre állásáról;
+6.[^8] felhívja a pénzügyminisztert, hogy – az innovációért és technológiáért felelős miniszter bevonásával – gondoskodjon a 3. pont 3.5. és 3.6. alpontja szerint a 2023. évi központi költségvetés XVII. Innovációs és Technológiai Minisztérium fejezetében 4 912 627 521 forint rendelkezésre állásáról;
 
 Felelős: pénzügyminiszter
 
@@ -68,9 +68,9 @@ Határidő: a 2023. évi központi költségvetés tervezése során
 
 7. a 3. pont 3.1. és 3.5. alpontja szerinti kulturális fejlesztések előkészítési fázisainak kormányzati felelőseként – az emberi erőforrások minisztere bevonásával – az innovációért és technológiáért felelős minisztert, a 3. pont 3.2. alpontja szerinti kulturális fejlesztések megvalósítási fázisainak kormányzati felelőseként az emberi erőforrások miniszterét jelöli ki;
 
-8.[^5]
+8.[^9]
 
-9.[^6] egyetért azzal, hogy a közlekedésfejlesztésre a 2021–2023. évi fejlesztések előkészítése és megvalósítása céljára összesen 5 696 800 000 forint központi költségvetési támogatás kerüljön biztosításra, az alábbiak szerint:
+9.[^10] egyetért azzal, hogy a közlekedésfejlesztésre a 2021–2023. évi fejlesztések előkészítése és megvalósítása céljára összesen 5 696 800 000 forint központi költségvetési támogatás kerüljön biztosításra, az alábbiak szerint:
 
 9.1. 2021. évi előkészítési költségeire – közlekedésfejlesztésre 349 000 000 forint;
 
@@ -78,15 +78,15 @@ Határidő: a 2023. évi központi költségvetés tervezése során
 
 9.3. 2022. évi előkészítési költségeire – közlekedésfejlesztésre 3 005 700 000 forint;
 
-9.4. 2023. évi előkészítési költségeire – közlekedésfejlesztésre 2 215 100 000 forint;
+9.4.[^11] 2023. évi előkészítési költségeire – közlekedésfejlesztésre 1 992 705 600 forint;
 
 10. a 9. pont szerinti központi költségvetési támogatás biztosítása érdekében:
 
-10.1.[^7]
+10.1.[^12]
 
-10.2.[^8]
+10.2.[^13]
 
-10.3.[^9] felhívja a pénzügyminisztert, hogy – az innovációért és technológiáért felelős miniszter bevonásával – gondoskodjon a 9. pont 9.4. alpontja szerint a 2023. évi központi költségvetés XVII. Innovációs és Technológiai Minisztérium fejezetében 2 215 100 000 forint rendelkezésre állásáról;
+10.3.[^14] felhívja a pénzügyminisztert, hogy – az innovációért és technológiáért felelős miniszter bevonásával – gondoskodjon a 9. pont 9.4. alpontja szerint a 2023. évi központi költségvetés XVII. Innovációs és Technológiai Minisztérium fejezetében 2 215 100 000 forint rendelkezésre állásáról;
 
 Felelős: pénzügyminiszter
 
@@ -94,7 +94,7 @@ innovációért és technológiáért felelős miniszter
 
 Határidő: a 2023. évi központi költségvetés tervezése során
 
-11.[^10] felhívja az innovációért és technológiáért felelős minisztert, hogy a 9. pont szerinti közlekedésfejlesztési szakági forrásokat támogatási jogviszony keretében biztosítsa elszámolási és a fel nem használt rész tekintetében visszafizetési kötelezettséggel a NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság, valamint a Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság számára;
+11.[^15] felhívja az innovációért és technológiáért felelős minisztert, hogy a 9. pont szerinti közlekedésfejlesztési szakági forrásokat támogatási jogviszony keretében biztosítsa elszámolási és a fel nem használt rész tekintetében visszafizetési kötelezettséggel a NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság, valamint a Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság számára;
 
 Felelős: innovációért és technológiáért felelős miniszter
 
@@ -188,16 +188,21 @@ Felelős: innovációért és technológiáért felelős miniszter
 
 Határidő: 2022. december 31.
 
-16.[^11] az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 95. § (5) bekezdése szerinti jogkörében eljárva úgy dönt, hogy az e határozathoz kapcsolódó projektelemek előkészítésének és megvalósításának finanszírozása során az Ávr. 95. § (2)–(4) bekezdésében foglalt eljárási szabályokat nem kell alkalmazni.
+16.[^16] az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 95. § (5) bekezdése szerinti jogkörében eljárva úgy dönt, hogy az e határozathoz kapcsolódó projektelemek előkészítésének és megvalósításának finanszírozása során az Ávr. 95. § (2)–(4) bekezdésében foglalt eljárási szabályokat nem kell alkalmazni.
 
-[^1]: A 3. pont az 1696/2021. (X. 1.) Korm. határozat 1. pontjával megállapított szöveg.
-[^2]: A 4. pontot az 1696/2021. (X. 1.) Korm. határozat 5. pontja visszavonta.
-[^3]: Az 5. pontot az 1696/2021. (X. 1.) Korm. határozat 5. pontja visszavonta.
-[^4]: A 6. pont az 1696/2021. (X. 1.) Korm. határozat 4. pont a) pontja szerint módosított szöveg.
-[^5]: A 8. pontot az 1026/2022. (I. 27.) Korm. határozat 2. pontja visszavonta.
-[^6]: A 9. pont az 1696/2021. (X. 1.) Korm. határozat 2. pontjával megállapított szöveg.
-[^7]: A 10. pont 10.1. alpontját az 1696/2021. (X. 1.) Korm. határozat 5. pontja visszavonta.
-[^8]: A 10. pont 10.2. alpontját az 1696/2021. (X. 1.) Korm. határozat 5. pontja visszavonta.
-[^9]: A 10.3. pont az 1696/2021. (X. 1.) Korm. határozat 4. pont b) pontja szerint módosított szöveg.
-[^10]: A 11. pont az 1820/2021. (XI. 25.) Korm. határozat 9. pontjával megállapított szöveg.
-[^11]: A 16. pontot az 1026/2022. (I. 27.) Korm. határozat 1. pontja iktatta be, szövege az 1176/2023. (IV. 28.) Korm. határozattal megállapított szöveg.
+[^1]: A 3. pont az 1696/2021. (X. 1.) Korm. határozat 1. pontjával megállapított, nyitó szövegrésze az 1303/2023. (VII. 19.) Korm. határozat 5. pont a) alpontja szerint módosított szöveg.
+[^2]: A 3. pont 3.3. pont a) alpontja az 1303/2023. (VII. 19.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: A 3. pont 3.4. pont a) alpontja az 1303/2023. (VII. 19.) Korm. határozat 2. pontjával megállapított szöveg.
+[^4]: A 3. pont 3.5. pont a) alpontja az 1303/2023. (VII. 19.) Korm. határozat 3. pontjával megállapított szöveg.
+[^5]: A 3. pont 3.6. pont a) alpontja az 1303/2023. (VII. 19.) Korm. határozat 4. pontjával megállapított szöveg.
+[^6]: A 4. pontot az 1696/2021. (X. 1.) Korm. határozat 5. pontja visszavonta.
+[^7]: Az 5. pontot az 1696/2021. (X. 1.) Korm. határozat 5. pontja visszavonta.
+[^8]: A 6. pont az 1303/2023. (VII. 19.) Korm. határozat 5. pont b) alpontja szerint módosított szöveg.
+[^9]: A 8. pontot az 1026/2022. (I. 27.) Korm. határozat 2. pontja visszavonta.
+[^10]: A 9. pont az 1696/2021. (X. 1.) Korm. határozat 2. pontjával megállapított szöveg.
+[^11]: A 9. pont 9.4. alpontja az 1303/2023. (VII. 19.) Korm. határozat 5. pont c) alpontja szerint módosított szöveg.
+[^12]: A 10. pont 10.1. alpontját az 1696/2021. (X. 1.) Korm. határozat 5. pontja visszavonta.
+[^13]: A 10. pont 10.2. alpontját az 1696/2021. (X. 1.) Korm. határozat 5. pontja visszavonta.
+[^14]: A 10.3. pont az 1696/2021. (X. 1.) Korm. határozat 4. pont b) pontja szerint módosított szöveg.
+[^15]: A 11. pont az 1820/2021. (XI. 25.) Korm. határozat 9. pontjával megállapított szöveg.
+[^16]: A 16. pontot az 1026/2022. (I. 27.) Korm. határozat 1. pontja iktatta be, szövege az 1176/2023. (IV. 28.) Korm. határozattal megállapított szöveg.
