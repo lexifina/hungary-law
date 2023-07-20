@@ -28,6 +28,6 @@
 
 | 13. | Ebek viselkedésének megítélésében jártas szakértő | Pest Megyei Kormányhivatal |  |
 
-3. számú melléklet a 33/2008. (II. 21.) Korm. rendelethez[^80]
+3. számú melléklet a 33/2008. (II. 21.) Korm. rendelethez[^84]
 
-[^80]: A 3. számú mellékletet újonnan a 198/2015. (VII. 23.) Korm. rendelet 3. §-a iktatta be, szövege a 191/2019. (VII. 30.) Korm. rendelet 7. §-ával megállapított, a 70/2021. (II. 19.) Korm. rendelet 3. § b) pontja, a 238/2022. (VI. 30.) Korm. rendelet 60. § c) pontja szerint módosított szöveg.
+[^84]: A 3. számú mellékletet újonnan a 198/2015. (VII. 23.) Korm. rendelet 3. §-a iktatta be, szövege a 191/2019. (VII. 30.) Korm. rendelet 7. §-ával megállapított, a 70/2021. (II. 19.) Korm. rendelet 3. § b) pontja, a 238/2022. (VI. 30.) Korm. rendelet 60. § c) pontja szerint módosított szöveg.

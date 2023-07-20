@@ -20,5 +20,8 @@ c) a jogszabály által hitelesnek minősített másolat,
 
 d)[^64] a kormányablak ügyintézője által az eredeti okiratról készített, bélyegzőjével és záradékával ellátott másolat.
 
+3.[^65] szakfordítás: a Kormány rendeletében meghatározott szakfordító képesítéssel rendelkező személy által készített fordítás.
+
 [^63]: Az 5/H. §-t a 21/2017. (II. 2.) Korm. rendelet 1. §-a iktatta be.
 [^64]: Az 5/H. § 2. pont d) alpontját a 457/2017. (XII. 28.) Korm. rendelet 218. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^65]: Az 5/H. § 3. pontját a 331/2023. (VII. 19.) Korm. rendelet 4. §-a iktatta be.
