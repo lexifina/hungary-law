@@ -1,3 +1,3 @@
-2. § Az R. 6. § (3) bekezdése helyébe a következő rendelkezés lép:
+2. §[^3]
 
-„(3) Az OKFŐ főigazgatója a minősített továbbképzési programok 5. § (3) bekezdése szerinti adatait, valamint a megállapított pontértéket megküldi annak a szakmai kamarának, amely a programot az Ekt. 2. § k) pontja szerint köteles közzétenni.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
