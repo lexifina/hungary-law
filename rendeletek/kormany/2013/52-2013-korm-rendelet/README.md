@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-52-20-2
 | 2021-10-07 | 2013-52-20-22.9 | 571/2021. (X. 6.) Korm. rendelet |
 | 2022-07-01 | 2013-52-20-22.10 | 238/2022. (VI. 30.) Korm. rendelet |
 | 2023-01-01 | 2013-52-20-22.11 | 533/2022. (XII. 19.) Korm. rendelet |
+| 2023-07-20 | 2013-52-20-22.12 | 331/2023. (VII. 19.) Korm. rendelet |
