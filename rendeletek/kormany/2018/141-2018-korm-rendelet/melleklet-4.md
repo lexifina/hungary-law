@@ -28,21 +28,9 @@
 
 | 259472.42 | E19° 09’ 31,69” |
 
-| 6. | Göd közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 050/15 helyrajzi számú ingatlan | 658359.96 | N47° 40’ 44,50” |
+| 6.[^351] |  |  |  |
 
-| 259472.42 | E19° 09’ 31,69” |
-
-| 658211.36 | N47° 40’ 36,77” |
-
-| 259233.12 | E19° 09’ 24,53” |
-
-| 7. | Göd közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 050/14 helyrajzi számú ingatlan | 658211.36 | N47° 40’ 36,77” |
-
-| 259233.12 | E19° 09’ 24,53” |
-
-| 658192.43 | N47° 40’ 35,80” |
-
-| 259202.63 | E19° 09’ 23,61” |
+| 7.[^352] |  |  |  |
 
 | 8. | Göd közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 051 helyrajzi számú ingatlan | 658192.43 | N47° 40’ 35,80” |
 
@@ -174,8 +162,8 @@
 
 | 36. | Göd közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 048/10 helyrajzi számú ingatlan | teljes terület |  |
 
-4. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^352]
+4. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^353]
 
-Göd külterület 050/14 és 050/15 helyrajzi számú telek területén ingatlanrész területi lehatárolása a terület határpontjainak Egységes Országos Vetületi Rendszerben megadott koordinátáival
-
-[^352]: A 4. mellékletet a 47/2021. (II. 5.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^351]: A 3. mellékletben foglalt táblázat 6. sorát a 332/2023. (VII. 19.) Korm. rendelet 4. § a) pontja hatályon kívül helyezte.
+[^352]: A 3. mellékletben foglalt táblázat 7. sorát a 332/2023. (VII. 19.) Korm. rendelet 4. § a) pontja hatályon kívül helyezte.
+[^353]: A 4. mellékletet a 47/2021. (II. 5.) Korm. rendelet 9. § (2) bekezdése iktatta be, a 332/2023. (VII. 19.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.

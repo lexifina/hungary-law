@@ -36,17 +36,17 @@ m)[^46] az építési telkeken az építési övezetre előírt zöldfelület me
 
 (3) A (2) bekezdés g) pontjának alkalmazása során az épületmagasságot az e rendelet hatálybalépésekor hatályos OTÉK-ban foglalt követelmények szerint kell számítani.
 
-(3a)[^47] Az ingatlan-nyilvántartás szerinti Göd külterület 050/14 és 050/15 helyrajzi számú telek területén, a 4. mellékletben meghatározott földrészleten, a 2. mellékletben foglalt táblázat 7. sora szerinti beruházások megvalósításához kapcsolódó közmű, hírközlési, közlekedési, raktározási és gazdasági rendeltetésű építmények, közműpótló műtárgyak és azok kiszolgáló építményei helyezhetőek el az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával:
+(3a)[^47] Az ingatlan-nyilvántartás szerinti Göd külterület 050/18 helyrajzi számú telek területén a környezetre jelentős hatást nem gyakorló ipari tevékenységi célú építmények és azok kiszolgáló építményei helyezhetők el az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával:
 
 a) a telkek beépítési módja szabadon álló,
 
-b)[^48] a kialakítható telek legkisebb mérete 1500 m2,
+b) a kialakítható telek legkisebb mérete 1500 m2,
 
 c) a beépítettség megengedett legnagyobb mértéke 50%,
 
-d) a terepszint alatti építési legnagyobb mértéke 40%,
+d) a terepszint alatti beépítés legnagyobb mértéke 40%,
 
-e) a szintterületi mutató megengedett legnagyobb értéke 1,2 m2/ m2,
+e) a szintterületi mutató megengedett legnagyobb értéke 1,2 m2/m2,
 
 f) a zöldfelület megengedett legkisebb mértéke 25%,
 
@@ -58,25 +58,27 @@ i) az előkert és a hátsókert mérete 10 méter,
 
 j) az oldalkert mérete 6 méter,
 
-k)[^49] a kialakítható telek legkisebb szélessége 5 méter,
+k) a kialakítható telek legkisebb szélessége 5 méter,
 
-l)[^50] a kialakítható telek legkisebb mélysége 5 méter.
+l) a kialakítható telek legkisebb mélysége 5 méter,
 
-(3b)[^51] A (3a) bekezdés g) pontjának alkalmazása során az épületmagasságot az e § hatálybalépésekor hatályos OTÉK-ban foglalt követelmények szerint kell számítani.
+m) az előkert méretén belül portaépület elhelyezhető.
 
-(3c)[^52] A 2. mellékletben foglalt táblázat B:7a mezőjében megjelölt beruházási helyszínek közül a Göd külterület 062/47 helyrajzi számú ingatlanon kizárólag véderdő, továbbá erdősített vagy fásított terület létesíthető.
+(3b)[^48] A (3a) bekezdés g) pontjának alkalmazása során az épületmagasságot az e § hatálybalépésekor hatályos OTÉK-ban foglalt követelmények szerint kell számítani.
 
-(4)[^53] A 2. mellékletben foglalt táblázat 7. és 7a. sora szerinti beruházás tekintetében az építési engedélyezési eljárás és a használatbavételi engedélyezési eljárás során a 2. mellékletben foglalt táblázat B:7 és B:7a mezőjében megjelölt telkeket rendezettnek kell tekinteni abban az esetben is, ha a telket érintő telekhatár-rendezés még nem történt meg.
+(3c)[^49] A 2. mellékletben foglalt táblázat B:7a mezőjében megjelölt beruházási helyszínek közül a Göd külterület 062/47 helyrajzi számú ingatlanon kizárólag véderdő, továbbá erdősített vagy fásított terület létesíthető.
 
-(5)[^54] A 2. mellékletben foglalt táblázat 7. sora szerinti beruházás esetében a kialakításra kerülő ipari rendeltetésű építményeket a 2. mellékletben foglalt táblázat B:7 mezőjében szereplő földrészletekből, valamint ezen földrészletekből a telekalakítási eljárásában hozott döntés véglegessé válását követően kialakított földrészletekből álló egységes területén, annak nyugati határán telepített, 10 méter széles, többszintes növényállománnyal kell takarni.
+(4)[^50] A 2. mellékletben foglalt táblázat 7. és 7a. sora szerinti beruházás tekintetében az építési engedélyezési eljárás és a használatbavételi engedélyezési eljárás során a 2. mellékletben foglalt táblázat B:7 és B:7a mezőjében megjelölt telkeket rendezettnek kell tekinteni abban az esetben is, ha a telket érintő telekhatár-rendezés még nem történt meg.
 
-(6)[^55] Az OTÉK 26. § (2) bekezdésétől eltérően, a 2. mellékletben foglalt táblázat 7. és 7a. sora szerinti beruházások esetében a közlekedési kapacitásbővítéssel összefüggő útszélesítéseket a 3. mellékletben foglalt földrészleteken, valamint ezen földrészletekből a telekalakítási eljárásban hozott döntés véglegessé válását követően kialakított földrészleteken a 3. mellékletben megjelölt szélességű építési területek alapján kell végrehajtani.
+(5)[^51] A 2. mellékletben foglalt táblázat 7. sora szerinti beruházás esetében a kialakításra kerülő ipari rendeltetésű építményeket a 2. mellékletben foglalt táblázat B:7 mezőjében szereplő földrészletekből, valamint ezen földrészletekből a telekalakítási eljárásában hozott döntés véglegessé válását követően kialakított földrészletekből álló egységes területén, annak nyugati határán telepített, 10 méter széles, többszintes növényállománnyal kell takarni.
 
-(7)[^56] A 2. mellékletben foglalt táblázat 7. sora szerinti beruházással összefüggésben a tereprendezést és mélyalapozást a megvalósuló építési tevékenység ütemeként is engedélyezheti az 1. melléklet 1. pontja szerinti engedélyezési eljárásban az eljáró hatóság.
+(6)[^52] Az OTÉK 26. § (2) bekezdésétől eltérően, a 2. mellékletben foglalt táblázat 7. és 7a. sora szerinti beruházások esetében a közlekedési kapacitásbővítéssel összefüggő útszélesítéseket a 3. mellékletben foglalt földrészleteken, valamint ezen földrészletekből a telekalakítási eljárásban hozott döntés véglegessé válását követően kialakított földrészleteken a 3. mellékletben megjelölt szélességű építési területek alapján kell végrehajtani.
 
-(8)[^57] A (7) bekezdés szerinti tereprendezés és mélyalapozás építési engedélyezési dokumentációjának az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet 8. mellékletében foglaltakon túl tartalmaznia kell talajvédelmi tervet.
+(7)[^53] A 2. mellékletben foglalt táblázat 7. sora szerinti beruházással összefüggésben a tereprendezést és mélyalapozást a megvalósuló építési tevékenység ütemeként is engedélyezheti az 1. melléklet 1. pontja szerinti engedélyezési eljárásban az eljáró hatóság.
 
-(9)[^58] A 2. mellékletben foglalt táblázat B:7a mezőjében megjelölt beruházási helyszínek közül a 7. mellékletben lehatárolt területek közúti közlekedési célt szolgálnak, azokon lakóépület nem helyezhető el.
+(8)[^54] A (7) bekezdés szerinti tereprendezés és mélyalapozás építési engedélyezési dokumentációjának az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet 8. mellékletében foglaltakon túl tartalmaznia kell talajvédelmi tervet.
+
+(9)[^55] A 2. mellékletben foglalt táblázat B:7a mezőjében megjelölt beruházási helyszínek közül a 7. mellékletben lehatárolt területek közúti közlekedési célt szolgálnak, azokon lakóépület nem helyezhető el.
 
 [^37]: A 6. § (1) bekezdése a 160/2019. (VI. 28.) Korm. rendelet 1. § (1) bekezdésével megállapított, nyitó szövegrésze a 47/2021. (II. 5.) Korm. rendelet 10. § a) pontja, a 811/2021. (XII. 28.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
 [^38]: A 6. § (1) bekezdés a) pontja a 47/2021. (II. 5.) Korm. rendelet 10. § b) pontja, a 420/2021. (VII. 15.) Korm. rendelet 99. § a) pontja szerint módosított szöveg.
@@ -88,15 +90,12 @@ l)[^50] a kialakítható telek legkisebb mélysége 5 méter.
 [^44]: A 6. § (2) bekezdés k) pontját a 160/2019. (VI. 28.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^45]: A 6. § (2) bekezdés l) pontját a 160/2019. (VI. 28.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^46]: A 6. § (2) bekezdés m) pontját a 160/2019. (VI. 28.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^47]: A 6. § (3a) bekezdését a 47/2021. (II. 5.) Korm. rendelet 6. §-a iktatta be.
-[^48]: A 6. § (3a) bekezdés b) pontja a 174/2021. (IV. 9.) Korm. rendelet 6. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^49]: A 6. § (3a) bekezdés k) pontja a 174/2021. (IV. 9.) Korm. rendelet 6. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^50]: A 6. § (3a) bekezdés l) pontja a 174/2021. (IV. 9.) Korm. rendelet 6. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^51]: A 6. § (3b) bekezdését a 47/2021. (II. 5.) Korm. rendelet 6. §-a iktatta be.
-[^52]: A 6. § (3c) bekezdését a 811/2021. (XII. 28.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^53]: A 6. § (4) bekezdése a 160/2019. (VI. 28.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
-[^54]: A 6. § (5) bekezdését a 160/2019. (VI. 28.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^55]: A 6. § (6) bekezdését a 160/2019. (VI. 28.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^56]: A 6. § (7) bekezdését a 336/2019. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
-[^57]: A 6. § (8) bekezdését a 336/2019. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
-[^58]: A 6. § (9) bekezdését a 811/2021. (XII. 28.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^47]: A 6. § (3a) bekezdését a 47/2021. (II. 5.) Korm. rendelet 6. §-a iktatta be, szövege a 332/2023. (VII. 19.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^48]: A 6. § (3b) bekezdését a 47/2021. (II. 5.) Korm. rendelet 6. §-a iktatta be.
+[^49]: A 6. § (3c) bekezdését a 811/2021. (XII. 28.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^50]: A 6. § (4) bekezdése a 160/2019. (VI. 28.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
+[^51]: A 6. § (5) bekezdését a 160/2019. (VI. 28.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^52]: A 6. § (6) bekezdését a 160/2019. (VI. 28.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^53]: A 6. § (7) bekezdését a 336/2019. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
+[^54]: A 6. § (8) bekezdését a 336/2019. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
+[^55]: A 6. § (9) bekezdését a 811/2021. (XII. 28.) Korm. rendelet 1. § (2) bekezdése iktatta be.
