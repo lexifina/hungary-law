@@ -1,0 +1,1 @@
+11. § A 326/2013. (VIII. 30.) Korm. rendelet 6. mellékletében foglalt táblázat C:2 mezőjében az „óvodapedagógus” szövegrész helyébe az „óvodapedagógus, oktatási szakasszisztens óvodai nevelő szakmairányon” szöveg lép.
