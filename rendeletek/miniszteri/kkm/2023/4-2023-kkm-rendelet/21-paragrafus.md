@@ -1,0 +1,3 @@
+21. § A KKM rendelet a következő 43. §-sal egészül ki:
+
+„43. § A miniszter feladat- és hatáskörébe tartozó, a Budapest Liszt Ferenc Nemzetközi Repülőtéren található kormányváró üzemeltetésével kapcsolatos feladatokat a KKM Subsidium Kft. útján látja el, amely feladatok ellátására a KKM Subsidium Kft.-vel közszolgáltatási vagy támogatási szerződést köt.”
