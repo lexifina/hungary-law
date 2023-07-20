@@ -14,5 +14,8 @@ f)[^43] a Bizottság 2018/484/EU végrehajtási irányelve (2018. március 21.) 
 
 g)[^44] a Bizottsági 2020/177/EU végrehajtási irányelve (2020. február 11.) a 66/401/EGK, a 66/402/EGK, a 68/193/EGK, a 2002/55/EK, a 2002/56/EK és a 2002/57/EK tanácsi irányelvnek, a 93/49/EGK és a 93/61/EGK bizottsági irányelvnek, valamint a 2014/21/EU és a 2014/98/EU végrehajtási irányelvnek a vetőmagok és egyéb növényi szaporítóanyagok károsítói tekintetében történő módosításáról.
 
+h)[^45] a Bizottság (EU) 2022/2438 végrehajtási irányelve (2022. december 12.) a 93/49/EGK irányelvnek és a 2014/98/EU végrehajtási irányelvnek a dísznövények szaporítóanyagain, a gyümölcstermő növények szaporítóanyagain és a gyümölcstermesztésre szánt gyümölcstermő növényeken jelen lévő uniós vizsgálatköteles nemzárlati károsítók tekintetében történő módosításáról.
+
 [^43]: A 15. § f) pontját a 24/2018. (VIII. 31.) AM rendelet 12. §-a iktatta be.
 [^44]: A 15. § g) pontját a 35/2020. (VI. 29.) AM rendelet 13. §-a iktatta be.
+[^45]: A 15. § h) pontját a 36/2023. (VII. 19.) AM rendelet 5. §-a iktatta be.
