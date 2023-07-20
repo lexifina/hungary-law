@@ -74,3 +74,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1037-30
 | 2023-04-29 | 2016-1037-30-22.66 | 1341/2016. (VII. 5.) Korm. határozat |
 | 2023-05-23 | 2016-1037-30-22.67 | 1341/2016. (VII. 5.) Korm. határozat |
 | 2023-07-18 | 2016-1037-30-22.68 | 1341/2016. (VII. 5.) Korm. határozat |
+| 2023-07-20 | 2016-1037-30-22.69 | 1298/2023. (VII. 19.) Korm. határozat |
