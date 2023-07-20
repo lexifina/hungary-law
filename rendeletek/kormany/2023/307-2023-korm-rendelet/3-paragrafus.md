@@ -1,5 +1,1 @@
-## „v) az 595/2009/EK európai parlamenti és tanácsi rendeletnek a nagy teherbírású pótkocsik teljesítményének a gépjárművek szén-dioxid-kibocsátására, üzemanyag- és energiafogyasztására, valamint kibocsátásmentes hatótávolságára gyakorolt hatás tekintetében történő végrehajtásáról és az (EU) 2020/683 bizottsági végrehajtási rendelet módosításáról szóló, 2022. augusztus 1-i (EU) 2022/1362 bizottsági végrehajtási rendelet”
-
-## (végrehajtásához szükséges rendelkezéseket állapítja meg.)
-
 3. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
