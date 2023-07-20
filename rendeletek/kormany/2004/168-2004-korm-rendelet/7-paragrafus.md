@@ -12,7 +12,7 @@ c)[^48] lehetősége van más intézmény készletének átvételére, és az me
 
 d) a keretszerződésben meghatározott és az egyéb (pl. azonos szolgáltatási) feltételek tekintetében is mindenben megfelelő kiemelt terméket a keretszerződés szerinti árnál alacsonyabb áron tud beszerezni.
 
-(1a)[^49]
+(1a)[^49] Az 1. számú melléklet 5. pont 5.1. alpontja hatálya alá tartozó szállodai szállásszolgáltatás vagy személyszállításhoz kapcsolódó menetjegyek beszerzése esetén az 1. § (1) bekezdése szerinti szervezet a központi beszerző szervezet előzetes jóváhagyása nélkül jogosult e szolgáltatások saját hatáskörben történő beszerzésére, ha ezeket az igényeinek mindenben megfelelő feltételekkel a keretszerződés útján történő beszerzéshez képest alacsonyabb áron tudja beszerezni. A beszerzésről a beszerzést megvalósító szervezet a központi beszerző szervezetet a beszerzést követő tíz munkanapon belül tájékoztatja.
 
 (2) Az intézmények az (1) bekezdésben foglalt körülmények mérlegelésekor a legnagyobb gondossággal kötelesek eljárni. Az (1) bekezdés alkalmazása nem eredményezheti a központosított közbeszerzési rendszer keretén belül történő közbeszerzés indokolatlan mellőzését.
 
@@ -25,6 +25,6 @@ d) a keretszerződésben meghatározott és az egyéb (pl. azonos szolgáltatás
 [^46]: A 7. § (1) bekezdés a) pontja a 771/2021. (XII. 23.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^47]: A 7. § (1) bekezdés b) pontja a 771/2021. (XII. 23.) Korm. rendelet 10. § c) pontja szerint módosított szöveg.
 [^48]: A 7. § (1) bekezdés c) pontja a 771/2021. (XII. 23.) Korm. rendelet 10. § d) pontja szerint módosított szöveg.
-[^49]: A 7. § (1a) bekezdését a 41/2021. (II. 2.) Korm. rendelet 5. §-a iktatta be, hatályon kívül helyezte a 771/2021. (XII. 23.) Korm. rendelet 11. § f) pontja.
+[^49]: A 7. § (1a) bekezdését újonnan a 330/2023. (VII. 19.) Korm. rendelet 5. §-a iktatta be.
 [^50]: A 7. § (3) bekezdését a 10/2005. (I. 19.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 165/2020. (IV. 30.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
 [^51]: A 7. § (4) bekezdését a 10/2005. (I. 19.) Korm. rendelet 4. §-ának (2) bekezdése iktatta be, szövege a 196/2006. (IX. 27.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a 2006. október 5. napja után megkezdett közbeszerzésekre kell alkalmazni.
