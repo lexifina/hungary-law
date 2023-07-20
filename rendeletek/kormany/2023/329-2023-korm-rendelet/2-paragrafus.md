@@ -1,0 +1,1 @@
+2. § A „Judo World Masters 2023” nemzetközi sportesemény előkészítése és lebonyolítása során a 474/2016. (XII. 27.) Korm. rendelet 38/F. §-ában és az 591/2022. (XII. 28.) Korm. rendelet 1. § (1) bekezdésében foglaltakat nem kell alkalmazni.
