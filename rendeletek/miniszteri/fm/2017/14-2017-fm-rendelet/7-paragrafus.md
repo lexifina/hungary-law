@@ -24,9 +24,9 @@ h) az oltvány szaporítási fokozatát az alacsonyabb szaporítási fokozatú k
 
 (4)[^5] A C.A.C. szaporítóanyagnak is meg kell felelnie a 7. § (1) bekezdés a)–e) pontjában nevesített feltételeknek, amit a szállítónak ellenőriznie kell.
 
-(5)[^6] A növénytermesztési hatáskörben eljáró megyei kormányhivatal certifikált szaporítóanyagként minősíti azokat az anyanövénytől eltérő szaporítóanyagokat, melyek megfelelnek az (1) bekezdésben foglaltaknak, továbbá prebázis, bázis szaporítóanyagból kerültek szaporításra.
+(5)[^6] A növénytermesztési hatáskörben eljáró vármegyei kormányhivatal certifikált szaporítóanyagként minősíti azokat az anyanövénytől eltérő szaporítóanyagokat, melyek megfelelnek az (1) bekezdésben foglaltaknak, továbbá prebázis, bázis szaporítóanyagból kerültek szaporításra.
 
-(6)[^7] A NÉBIH és a növénytermesztési hatáskörben eljáró megyei kormányhivatal a minősített tételeket certifikációs címkével, valamint a növény-egészségügyi előírásoknak megfelelően növényútlevéllel látja el.
+(6)[^7] A NÉBIH és a növénytermesztési hatáskörben eljáró vármegyei kormányhivatal a minősített tételeket certifikációs címkével, valamint a növény-egészségügyi előírásoknak megfelelően növényútlevéllel látja el.
 
 (7) Amennyiben az Európai Bizottság (a továbbiakban: Bizottság) lehetővé teszi a prebázis anyanövények vagy szaporítóanyagok szabadföldön, nem rovarmentes környezetben történő termesztését, a talajnak meg kell felelni az e rendeletben foglaltaknak.
 
@@ -46,5 +46,5 @@ b) köteles eltávolítani azt a többi anyanövény és szaporítóanyag közel
 
 [^4]: A 7. § (1) bekezdés d) pontja a 35/2020. (VI. 29.) AM rendelet 16. §-ával megállapított szöveg.
 [^5]: A 7. § (4) bekezdése a 35/2020. (VI. 29.) AM rendelet 22. § b) pontja szerint módosított szöveg.
-[^6]: A 7. § (5) bekezdése a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^7]: A 7. § (6) bekezdése a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^6]: A 7. § (5) bekezdése a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés a) pontja, a 36/2023. (VII. 19.) AM rendelet 10. § b) pontja szerint módosított szöveg.
+[^7]: A 7. § (6) bekezdése a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés a) pontja, a 36/2023. (VII. 19.) AM rendelet 10. § b) pontja szerint módosított szöveg.

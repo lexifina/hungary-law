@@ -1,6 +1,6 @@
-3. melléklet a 14/2017. (III. 23.) FM rendelethez[^81]
+3. melléklet a 14/2017. (III. 23.) FM rendelethez[^86]
 
-## Vegetatív szaporító alapanyagok követelményei, kötegelése, jelölése
+Vegetatív szaporító alapanyagok követelményei, kötegelése, jelölése
 
 1. Minőségi követelmények
 
@@ -64,7 +64,7 @@
 
 3. Megnevezés, megjelölés
 
-3.1. A 2. pont szerint osztályozott és kötegelt szaporító alapanyagot kötegenként kategóriájának megfelelő címkével kell ellátni. A növény-egészségügyi feladatok végrehajtásának részletes szabályairól szóló jogszabályban felsorolt fajok esetében szaporító alapanyag csak a NÉBIH, illetve az növény és talajvédelmi hatáskörben eljáró megyei kormányhivatal felhatalmazásával kiállított növényútlevéllel forgalmazható.
+3.1.[^87] A 2. pont szerint osztályozott és kötegelt szaporító alapanyagot kötegenként kategóriájának megfelelő címkével kell ellátni. A növény-egészségügyi feladatok végrehajtásának részletes szabályairól szóló jogszabályban felsorolt fajok esetében szaporító alapanyag csak a NÉBIH, illetve az növény és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal felhatalmazásával kiállított növényútlevéllel forgalmazható.
 
 4. Csomagolás, szállítás, tárolás
 
@@ -118,4 +118,5 @@
 
 A gyümölcsfaiskolai szaporítóanyag akkor alkalmas a forgalomba hozatalra, ha a 10. melléklet szerint vett minta vizsgálata alapján az 1. pont minőségi követelményeinek megfelel.
 
-[^81]: A 3. melléklet a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^86]: A 3. melléklet a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^87]: A 3. melléklet 3.1. pontja a 36/2023. (VII. 19.) AM rendelet 10. § b) pontja szerint módosított szöveg.

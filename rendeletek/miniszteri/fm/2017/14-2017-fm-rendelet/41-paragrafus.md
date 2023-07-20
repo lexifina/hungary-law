@@ -22,6 +22,6 @@ b) az értékesítés időpontját, és
 
 c) az ültetési anyag mennyiségét, fajtáját, kategóriáját, gyümölcsoltvány esetén alanyát.
 
-(6)[^68] Amennyiben az árusítóhelyet a szaporítóanyagokkal kapcsolatos minőségvédelmi bírság megállapításáról szóló kormányrendelet alapján három alkalommal az ellenőrző hatóság véglegessé vált döntéssel elmarasztalta, a növénytermesztési hatáskörben eljáró megyei kormányhivatal az árusítóhely engedélyének visszavonását kezdeményezi.
+(6)[^71] Amennyiben az árusítóhelyet a szaporítóanyagokkal kapcsolatos minőségvédelmi bírság megállapításáról szóló kormányrendelet alapján három alkalommal az ellenőrző hatóság véglegessé vált döntéssel elmarasztalta, a növénytermesztési hatáskörben eljáró vármegyei kormányhivatal az árusítóhely engedélyének visszavonását kezdeményezi.
 
-[^68]: A 41. § (6) bekezdése a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés a) és f) pontja szerint módosított szöveg.
+[^71]: A 41. § (6) bekezdése a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés a) és f) pontja, a 36/2023. (VII. 19.) AM rendelet 10. § b) pontja szerint módosított szöveg.

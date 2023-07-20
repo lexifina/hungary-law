@@ -1,5 +1,3 @@
-## vonatkozó alapvető minőségi követelményeknek eleget tesznek, azt az ellenőrzés során kiállítandó jegyzőkönyvben fel kell tüntetni.
-
 ## 24. A gyümölcsfaiskolai ellenőrzés részletes követelményei
 
 35. § (1) A gyümölcsfaiskolai ellenőrzésről a szemle időpontjában jegyzőkönyvet kell készíteni, amely
@@ -20,7 +18,7 @@ g) az ellenőrzés során tapasztalt hiányosságokra vonatkozó intézkedéseke
 
 h) az esetleges hiányosságok megszüntetésének határidejét, és az ellenőrzöttnek a megállapításokra vonatkozó nyilatkozatát
 
-## tartalmazza.
+tartalmazza.
 
 (2) A gyümölcsfaiskola teljes növényállományát zárolni kell, ha
 
@@ -48,10 +46,10 @@ a) a különböző kategóriájú növényeket nem különítették el, és azon
 
 b) a tanúsított gyümölcsfaiskolában előállított szaporítóanyag nem felel meg a 4. és 7. melléklet szerinti minőségi követelményeknek.
 
-(5)[^57] Az egyéb hiányosságok megszüntetését a NÉBIH, illetve a növénytermesztési hatáskörben eljáró megyei kormányhivatal határidő és jelentési kötelezettség megállapításával együtt előírja.
+(5)[^60] Az egyéb hiányosságok megszüntetését a NÉBIH, illetve a növénytermesztési hatáskörben eljáró vármegyei kormányhivatal határidő és jelentési kötelezettség megállapításával együtt előírja.
 
 (6) A zárlatfeloldás feltételeit az ellenőrzöttel közölni kell.
 
 (7) A zárlatot haladéktalanul fel kell oldani, ha a korlátozásra okot adó körülmények megszűnnek, és a szaporítóanyag megfelel az e rendelet előírásainak.
 
-[^57]: A 35. § (5) bekezdése a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^60]: A 35. § (5) bekezdése a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés a) pontja, a 36/2023. (VII. 19.) AM rendelet 10. § b) pontja szerint módosított szöveg.

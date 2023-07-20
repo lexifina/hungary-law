@@ -16,33 +16,75 @@
 
 ## 2.1.1.2.1. Mintavételt és tesztelést akkor kell végezni, ha felmerül a 2. mellékletben felsorolt vizsgálatköteles nemzárlati károsítók jelenlétének gyanúja.
 
-## 2.1.2. Prebázis kategória
+## 2.1.2.[^90] Prebázis kategória
 
-## 2.1.2.1. A termesztési helyre, a termőhelyre vagy a területre vonatkozó követelmények
+## 2.1.2.1. A termesztési helyre, a termőhelyre vagy a területre vonatkozó követelmények:
 
-## 2.1.2.1.1. Abban az esetben, ha egy eltérés lehetővé teszi a teszi az egyes gyümölcstermő növényfajokhoz tartozó, nem rovarmentes környezetben, szabadföldön előállított prebázis szaporítóanyagok tanúsításának egyes tagállamok számára történő ideiglenes engedélyezéséről és az (EU) 2017/167 végrehajtási határozat hatályon kívül helyezéséről szóló, 2017. május 29-i 2017/925/EU bizottsági végrehajtási határozat (a továbbiakban: 2017/925/EU bizottsági végrehajtási határozat) értelmében a prebázis szaporítóanyagok nem rovarmentes környezetben, szabadföldön történő előállítását, a Cryphonectria parasitica (Murrill) Barr tekintetében a következő követelmények alkalmazandók:
+## 2.1.2.1.1. Abban az esetben, ha egy eltérés lehetővé teszi az egyes gyümölcstermő növényfajokhoz tartozó, nem rovarmentes környezetben, szabadföldön előállított prebázis szaporítóanyagok tanúsításának egyes tagállamok számára történő ideiglenes engedélyezéséről és az (EU) 2017/167 végrehajtási határozat hatályon kívül helyezéséről szóló, 2017. május 29-i (EU) 2017/925 bizottsági végrehajtási határozat [a továbbiakban: (EU) 2017/925 bizottsági végrehajtási határozat] értelmében a prebázis szaporítóanyagok nem rovarmentes környezetben folytatott szabadföldön történő előállítását, a következő követelmények alkalmazandók:
 
-## 2.1.2.1.1.1. a prebázis kategóriájú növényi szaporítóanyagokat és ültetési anyagokat olyan területeken kell előállítani, amelyek ismerten mentesek a Cryphonectria parasitica (Murrill) Barr károsítótól; vagy
+## 2.1.2.1.1.1. Cryphonectria parasitica (Murrill) Barr esetében:
 
-## 2.1.2.1.1.2. nem észlelték a termőhelyen a Cryphonectria parasitica (Murrill) Barr tüneteit a prebázis kategóriájú növényi szaporítóanyagokon és ültetési anyagokon a legutóbbi teljes vegetációs időszak kezdete óta.
+## 2.1.2.1.1.1.1. A prebázis kategóriájú szaporítóanyagokat olyan területeken kell előállítani, amelyeket a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal, illetve a NÉBIH a nemzetközi szabványokkal összhangban a Cryphonectria parasitica (Murrill) Barr károsítótól mentesnek nyilvánított, vagy
 
-## 2.1.3. Bázis kategória
+## 2.1.2.1.1.1.2. a termesztési helyen a prebázis kategóriájú szaporítóanyagokon a legutóbbi teljes vegetációs időszakban nem észlelték a Cryphonectria parasitica (Murrill) Barr okozta tüneteket.
 
-## 2.1.3.1. A termesztési helyre, a termőhelyre vagy a területre vonatkozó követelmények
+## 2.1.2.1.1.2. Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld esetében:
 
-## 2.1.3.1.1. a bázis kategóriájú növényi szaporítóanyagokat és ültetési anyagokat olyan területeken kell előállítani, amelyek ismerten mentesek a Cryphonectria parasitica (Murrill) Barr károsítótól; vagy
+## 2.1.2.1.1.2.1. A prebázis kategóriájú szaporítóanyagokat olyan területeken kell előállítani, amelyeket a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal, illetve a NÉBIH a nemzetközi szabványokkal összhangban a Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld károsítótól mentesnek nyilvánított, vagy
 
-## 2.1.3.1.2. nem észlelték a termőhelyen a Cryphonectria parasitica (Murrill) Barr tüneteit a bázis kategóriájú növényi szaporítóanyagokon és ültetési anyagokon a legutóbbi teljes vegetációs időszak kezdete óta.
+## 2.1.2.1.1.2.2. a termesztési helyen a prebázis kategóriájú szaporítóanyagokon a legutóbbi teljes vegetációs időszakban nem észlelték a Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld okozta tüneteket.
 
-## 2.1.4. Certifikált (tanúsított) és C.A.C. kategória
+## 2.1.3.[^91] Bázis kategória
 
-## 2.1.4.1. A termesztési helyre, a termőhelyre vagy a területre vonatkozó követelmények
+## 2.1.3.1. A termesztési helyre, a termőhelyre vagy a területre vonatkozó követelmények:
 
-## 2.1.4.1.1. a certifikált (tanúsított) és C.A.C. kategóriájú növényi szaporítóanyagokat és ültetési anyagokat olyan területeken kell előállítani, amelyek ismerten mentesek a Cryphonectria parasitica (Murrill) Barr károsítótól; vagy
+## 2.1.3.1.1. Cryphonectria parasitica (Murrill) Barr esetében:
 
-## 2.1.4.1.2. nem észlelték a termőhelyen a Cryphonectria parasitica (Murrill) Barr tüneteit a certifikált (tanúsított) és C.A.C. kategóriájú növényi szaporítóanyagokon és ültetési anyagokon a legutóbbi teljes vegetációs időszak kezdete óta; vagy
+## 2.1.3.1.1.1. A bázis kategóriájú szaporítóanyagokat olyan területeken kell előállítani, amelyeket a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal, illetve a NÉBIH a nemzetközi szabványokkal összhangban a Cryphonectria parasitica (Murrill) Barr károsítótól mentesnek nyilvánított, vagy
 
-## 2.1.4.1.3. a Cryphonectria parasitica (Murrill) Barr tüneteit mutató certifikált (tanúsított) és C.A.C. kategóriájú szaporító- és ültetési anyagokat gyökerestől eltávolították, a többi szaporító- és ültetési anyagot hetente megvizsgálták, és a termesztés helyén a szállítást megelőző legalább három hét során nem észleltek tüneteket.
+## 2.1.3.1.1.2. a termesztési helyen a bázis kategóriájú szaporítóanyagokon a legutóbbi teljes vegetációs időszakban nem észlelték a Cryphonectria parasitica (Murrill) Barr okozta tüneteket.
+
+## 2.1.3.1.2. Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld esetében:
+
+## 2.1.3.1.2.1. A bázis kategóriájú szaporítóanyagokat olyan területeken kell előállítani, amelyeket a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal, illetve a NÉBIH a nemzetközi szabványokkal összhangban a Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld károsítótól mentesnek nyilvánított, vagy
+
+## 2.1.3.1.2.2. a termesztési helyen a bázis kategóriájú szaporítóanyagokon a legutóbbi teljes vegetációs időszakban nem észlelték a Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld okozta tüneteket.
+
+## 2.1.4.[^92] Certifikált (tanúsított) és C.A.C. kategória
+
+## 2.1.4.1. A termesztési helyre, a termőhelyre vagy a területre vonatkozó követelmények:
+
+## 2.1.4.1.1. Cryphonectria parasitica (Murrill) Barr esetében:
+
+## 2.1.4.1.1.1. A certifikált (tanúsított) és C.A.C. kategóriájú szaporítóanyagokat olyan területeken kell előállítani, amelyeket a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal, illetve a NÉBIH a nemzetközi szabványokkal összhangban a Cryphonectria parasitica (Murrill) Barr károsítótól mentesnek nyilvánított,
+
+## 2.1.4.1.1.2. a termesztési helyen a certifikált (tanúsított) és C.A.C. kategóriájú szaporítóanyagokon a legutóbbi teljes vegetációs időszakban nem észlelték a Cryphonectria parasitica (Murrill) Barr okozta tüneteket, vagy
+
+## 2.1.4.1.1.3. a termesztési helyen a Cryphonectria parasitica (Murrill) Barr okozta tüneteket mutató, certifikált (tanúsított) és C.A.C. kategóriájú szaporítóanyagokat gyökerestől eltávolítják, a fennmaradó szaporítóanyagokat hetenként ellenőrzik, és a termesztési helyen a szállítás előtti legalább három hétben nem észleltek a Cryphonectria parasitica (Murrill) Barr okozta tüneteket.
+
+## 2.1.4.1.2. Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld esetében:
+
+## 2.1.4.1.2.1. A certifikált (tanúsított) és C.A.C. kategóriájú szaporítóanyagokat olyan területeken kell előállítani, amelyeket a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal, illetve a NÉBIH a nemzetközi szabványokkal összhangban a Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld károsítótól mentesnek nyilvánított, vagy
+
+## 2.1.4.1.2.2. a termesztési helyen a certifikált (tanúsított) és C.A.C. kategóriájú szaporítóanyagokon a legutóbbi teljes vegetációs időszakban nem észlelték a Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld okozta tüneteket, vagy
+
+## 2.1.4.1.2.3. a termesztési helyen a Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld okozta tüneteket mutató, certifikált (tanúsított) és C.A.C. kategóriájú szaporítóanyagokat, valamint a tüneteket mutató szaporítóanyag 2 méteres körzetében található összes növényt gyökerestől eltávolították és megsemmisítették, beleértve a hozzátapadt talajt is, és
+
+## 2.1.4.1.2.4. a tüneteket mutató szaporítóanyagok 10 méteres körzetében található valamennyi növény és az érintett tételből fennmaradó szaporítóanyagok esetében:
+
+## 2.1.4.1.2.4.1. a tüneteket mutató szaporítóanyagok észlelését követő három hónapon belül az említett szaporítóanyagokon nem figyeltek meg a Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld okozta tüneteket legalább két, a károsító kimutatásához megfelelő időpontban végzett ellenőrzés során, és e három hónapos időszak alatt nem végeztek a Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld okozta tüneteket csökkentő kezeléseket, és
+
+## 2.1.4.1.2.4.2. Az említett három hónapos időszak után:
+
+## 2.1.4.1.2.4.2.1. A termesztési helyen a szaporítóanyagokon nem észlelték a Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld okozta tüneteket, vagy
+
+## 2.1.4.1.2.4.2.2. a szállításra szánt szaporítóanyagok reprezentatív mintáját laboratóriumi vizsgálatnak vetették alá, és a Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld károsítótól mentesnek találták, és
+
+## 2.1.4.1.2.5. a termesztési helyen található minden egyéb szaporítóanyag esetében:
+
+## 2.1.4.1.2.5.1. a termesztési helyen a szaporítóanyagokon nem észlelték a Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld okozta tüneteket, vagy
+
+## 2.1.4.1.2.5.2. a szállításra szánt szaporítóanyagok reprezentatív mintáját laboratóriumi vizsgálatnak vetették alá, és a Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld károsítótól mentesnek találták.
 
 ## 2.2. Citrus L., Fortunella Swingle és Poncirus Raf.
 
@@ -166,9 +208,9 @@
 
 ## 2.4.2.1.1. Minden egyes prebázis anyanövényt tizenöt évvel a prebázis anyanövényként való elfogadása után, majd tizenöt éves időközönként mintavételnek és tesztelésnek kell alávetni a 2. mellékletben felsorolt, vírusszerű betegségektől és viroidoktól eltérő vizsgálatköteles nemzárlati károsítók jelenléte tekintetében; a 2. mellékletben felsorolt vizsgálatköteles nemzárlati károsítók jelenléte tekintetében abban az esetben kell mintavételt és tesztelést végezni, ha felmerül a szóban forgó károsítók jelenlétének gyanúja.
 
-## 2.4.2.2. A termesztési helyre, a termőhelyre vagy a területre vonatkozó követelmények
+## 2.4.2.2. [^93]
 
-## 2.4.2.2.1. Abban az esetben, ha egy eltérés lehetővé teszi a 2017/925/EU bizottsági végrehajtási határozat értelmében a prebázis szaporítóanyagok nem rovarmentes környezetben, szabadföldön történő előállítását, az Erwinia amylovora (Burrill) Winslow et al. tekintetében a következő követelmények alkalmazandók:
+## 2.4.2.2.1.[^94] Abban az esetben, ha egy eltérés lehetővé teszi az (EU) 2017/925 bizottsági végrehajtási határozat értelmében a prebázis szaporítóanyagok nem rovarmentes környezetben, szabadföldön történő előállítását, az Erwinia amylovora (Burrill) Winslow et al. tekintetében a következő követelmények alkalmazandók:
 
 ## 2.4.2.2.1.1. a prebázis kategóriájú növényi szaporítóanyagokat és ültetési anyagokat olyan területeken kell előállítani, amelyek ismerten mentesek az Erwinia amylovora (Burrill) Winslow et al. károsítótól; vagy
 
@@ -326,7 +368,7 @@
 
 ## 2.6.4.2.2. Phytophihora fragariae C.J. Hickman esetében:
 
-## 2.6.4.2.2.1.[^83] a Phytophthora fragariae C.J. Hickman észlelése és a következő ültetés között egy legalább tízéves nyugalmi időszaknak kell eltelnie, amely során az érintett növényi szaporítóanyagokat és ültetési anyagokat nem termesztik; és
+## 2.6.4.2.2.1.[^95] a Phytophthora fragariae C.J. Hickman észlelése és a következő ültetés között egy legalább tízéves nyugalmi időszaknak kell eltelnie, amely során az érintett növényi szaporítóanyagokat és ültetési anyagokat nem termesztik; és
 
 ## 2.6.4.2.2.2. a termesztési helyre vonatkozó termesztési adatokat, valamint a korábban bekövetkezett, talajból történt fertőzések adatait nyilván kell tartani;
 
@@ -354,7 +396,7 @@
 
 ## 2.6.4.2.3.4.3. Candidatus Phytoplasma asteris Lee et al.;
 
-## 2.6.4.2.3.4.4. Candidatus Phytoplasma australiense Davis et al.;
+## 2.6.4.2.3.4.4. [^96]
 
 ## 2.6.4.2.3.4.5. Candidatus Phytoplasma fragariae Valiunas, Staniulis & Davis;
 
@@ -464,7 +506,7 @@
 
 ## 2.8.2.2. A termesztési helyre, a termőhelyre vagy a területre vonatkozó követelmények
 
-## 2.8.2.2.1. Abban az esetben, ha egy eltérés lehetővé teszi a 2017/925/EU bizottsági végrehajtási határozat értelmében a prebázis szaporítóanyagok nem rovarmentes környezetben, szabadföldön történő előállítását, a Candidatus Phytoplasma mali Seemüller & Schneider és az Erwinia amylovora (Burrill) Winslow et al. tekintetében a következő követelmények alkalmazandók:
+## 2.8.2.2.1.[^97] Abban az esetben, ha egy eltérés lehetővé teszi az (EU) 2017/925 bizottsági végrehajtási határozat értelmében a prebázis szaporítóanyagok nem rovarmentes környezetben, szabadföldön történő előállítását, a Candidatus Phytoplasma mali Seemüller & Schneider és az Erwinia amylovora (Burrill) Winslow et al. tekintetében a következő követelmények alkalmazandók:
 
 ## 2.8.2.2.1.1. Candidatus Phytoplasma mali Seemüller & Schneider esetében:
 
@@ -486,6 +528,20 @@
 
 ## 2.8.3.1.2. A rovarvektorok bejutását nem megakadályozó létesítményekben fenntartott bázis anyanövények reprezentatív hányadát háromévente mintavételnek és tesztelésnek kell alávetni a Candidatus Phytoplasma mali Seemüller & Schneider jelenléte tekintetében; a bázis anyanövények reprezentatív hányadát a szóban forgó növények megfertőződésének kockázatára vonatkozó értékelés alapján tizenöt évente mintavételnek és tesztelésnek kell alávetni a 2. mellékletben felsorolt vizsgálatköteles nemzárlati károsítók jelenléte tekintetében, kivéve a Candidatus Phytoplasma mali Seemüller & Schneider károsítót, valamint a vírusszerű betegségeket és a viroidokat; a 2. mellékletben felsorolt vizsgálatköteles nemzárlati károsítók jelenléte tekintetében abban az esetben kell mintavételt és tesztelést végezni, ha felmerül a szóban forgó károsítók jelenlétének gyanúja.
 
+## 2.8.3.2.[^98] A termesztési helyre, a termőhelyre vagy a területre vonatkozó követelmények
+
+## 2.8.3.2.1. Candidatus Phytoplasma mali Seemüller & Schneider esetében:
+
+## 2.8.3.2.1.1. A bázis kategóriájú növényi szaporítóanyagokat olyan területeken kell előállítani, amelyek ismerten mentesek a Candidatus Phytoplasma mali Seemüller & Schneider károsítótól, vagy
+
+## 2.8.3.2.1.2. a termesztési helyen a bázis kategóriájú szaporítóanyagokon a legutóbbi teljes vegetációs időszakban nem észleltek a Candidatus Phytoplasma mali Seemüller & Schneider okozta tüneteket, a közvetlen közelükben található, tüneteket mutató növényeket pedig gyökerestől eltávolították és azonnal megsemmisítették;
+
+## 2.8.3.2.2. Erwinia amylovora (Burrill) Winslow et al. esetében:
+
+## 2.8.3.2.2.1. A bázis kategóriájú szaporítóanyagokat olyan területeken kell előállítani, amelyek ismerten mentesek az Erwinia amylovora (Burrill) Winslow et al. károsítótól, vagy
+
+## 2.8.3.2.2.2. a termesztési helyen a bázis kategóriájú szaporítóanyagokat a legutóbbi teljes vegetációs időszakban megvizsgálták, és az Erwinia amylovora (Burrill) Winslow et al. okozta tüneteket mutató szaporítóanyagokat, valamint a környezetükben lévő gazdanövényeket azonnal gyökerestől eltávolították és megsemmisítették.
+
 ## 2.8.4. Certifikált (tanúsított) kategória
 
 ## 2.8.4.1. Mintavétel és tesztelés
@@ -496,7 +552,23 @@
 
 ## 2.8.4.1.3. A certifikált (tanúsított) ültetési anyagokat abban az esetben kell mintavételnek és tesztelésnek alávetni, ha felmerül a 2. mellékletben felsorolt vizsgálatköteles nemzárlati károsítók jelenlétének gyanúja.
 
-## 2.8.5. Bázis és certifikált (tanúsított) kategória
+## 2.8.4.2.[^99] A termesztési helyre, a termőhelyre vagy a területre vonatkozó követelmények
+
+## 2.8.4.2.1. Candidatus Phytoplasma mali Seemüller & Schneider esetében:
+
+## 2.8.4.2.1.1. A certifikált (tanúsított) kategóriájú szaporítóanyagokat olyan területeken kell előállítani, amelyek ismerten mentesek a Candidatus Phytoplasma mali Seemüller & Schneider károsítótól,
+
+## 2.8.4.2.1.2. a termesztési helyen a certifikált (tanúsított) kategóriájú szaporítóanyagokon a legutóbbi teljes vegetációs időszakban nem észleltek a Candidatus Phytoplasma mali Seemüller & Schneider okozta tüneteket, a közvetlen közelükben található, tüneteket mutató növényeket pedig gyökerestől eltávolították és azonnal megsemmisítették, vagy
+
+## 2.8.4.2.1.3. a termesztési helyen a legutóbbi teljes vegetációs időszakban a certifikált (tanúsított) kategóriájú növényi szaporítóanyagok legfeljebb 2%-án észleltek a Candidatus Phytoplasma mali Seemüller & Schneider okozta tüneteket, és az érintett növényi szaporítóanyagokat, valamint a közvetlen közelükben található, tüneteket mutató növényeket gyökerestől eltávolították és azonnal megsemmisítették, a tüneteket mutató növényi szaporítóanyagokat tartalmazó tételek fennmaradó tünetmentes növényi szaporítóanyagainak reprezentatív mintáját pedig tesztelésnek vetették alá, és a Candidatus Phytoplasma mali Seemüller & Schneider károsítótól mentesnek találták.
+
+## 2.8.4.2.2. Erwinia amylovora (Burrill) Winslow et al. esetében:
+
+## 2.8.4.2.2.1. A certifikált (tanúsított) kategóriájú szaporítóanyagokat olyan területeken kell előállítani, amelyek ismerten mentesek az Erwinia amylovora (Burrill) Winslow et al. károsítótól, vagy
+
+## 2.8.4.2.2.2. a termesztési helyen a certifikált (tanúsított) kategóriájú szaporítóanyagokat a legutóbbi teljes vegetációs időszakban megvizsgálták, és az Erwinia amylovora (Burrill) Winslow et al. okozta tüneteket mutató szaporítóanyagokat, valamint a környezetükben lévő gazdanövényeket azonnal gyökerestől eltávolították és megsemmisítették.
+
+## 2.8.5. [^100]
 
 ## 2.8.5.1. A termesztési helyre, a termőhelyre vagy a területre vonatkozó követelmények
 
@@ -600,7 +672,7 @@
 
 ## 2.11.1.3. A termesztési helyre, a termőhelyre vagy a területre vonatkozó követelmények
 
-## 2.11.1.3.1. Abban az esetben, ha egy eltérés lehetővé teszi a 2017/925/EU bizottsági végrehajtási határozat értelmében a prebázis szaporítóanyagok nem rovarmentes környezetben, szabadföldön történő előállítását, a Candidatus Phytoplasma prunorum Seemüller & Schneider, a Szilvahimlő vírus, a Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. és a Pseudomonas syringae pv. persicae (Prunier, Luisetti & Gardán) Young, Dye & Wilkie tekintetében a következő követelmények alkalmazandók:
+## 2.11.1.3.1.[^101] Abban az esetben, ha egy eltérés lehetővé teszi az (EU) 2017/925 bizottsági végrehajtási határozat értelmében a prebázis szaporítóanyagok nem rovarmentes környezetben, szabadföldön történő előállítását, a Candidatus Phytoplasma prunorum Seemüller & Schneider, a Szilvahimlő vírus, a Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. és a Pseudomonas syringae pv. persicae (Prunier, Luisetti & Gardán) Young, Dye & Wilkie tekintetében a következő követelmények alkalmazandók:
 
 ## 2.11.1.3.1.1. Candidatus Phytoplasma prunorum Seemüller & Schneider esetében:
 
@@ -616,7 +688,7 @@
 
 ## 2.11.1.3.1.2.2. a termesztési helyen a prebázis kategóriájú növényi szaporítóanyagokon és ültetési anyagokon a legutóbbi teljes vegetációs időszakban nem észleltek a Szilvahimlő vírus okozta tüneteket, a közvetlen közelükben található, tüneteket mutató növényeket gyökerestől eltávolították és azonnal megsemmisítették; vagy
 
-## 2.11.1.3.1.2.3. a termesztési helyen a prebázis kategóriájú növényi szaporítóanyagokat és ültetési anyagokat el kell különíteni a többi gazdanövénytől. A termesztési helyen alkalmazandó elkülönítési távolságot a regionális körülmények, a növényi szaporítóanyag típusa, a Szilvahimlő vírusnak az érintett területen való jelenléte és a növény és talajvédelmi hatáskörben eljáró megyei kormányhivatal által vizsgálat útján megállapított kapcsolódó kockázatok függvényében kell meghatározni;
+## 2.11.1.3.1.2.3.[^102] a termesztési helyen a prebázis kategóriájú növényi szaporítóanyagokat és ültetési anyagokat el kell különíteni a többi gazdanövénytől. A termesztési helyen alkalmazandó elkülönítési távolságot a regionális körülmények, a növényi szaporítóanyag típusa, a Szilvahimlő vírusnak az érintett területen való jelenléte és a növény és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal által vizsgálat útján megállapított kapcsolódó kockázatok függvényében kell meghatározni;
 
 ## 2.11.1.3.1.3. Pseudomonas syringae pv. persicae (Prunier, Luisetti & Gardán) Young, Dye & Wilkie esetében:
 
@@ -790,13 +862,13 @@
 
 ## 2.12.2.2. A termesztési helyre, a termőhelyre vagy a területre vonatkozó követelmények
 
-## 2.12.2.2.1. Abban az esetben, ha egy eltérés lehetővé teszi a 2017/925/EU bizottsági végrehajtási határozat értelmében a prebázis szaporítóanyagok nem rovarmentes környezetben, szabadföldön történő előállítását, a Candidatus Phytoplasma pyri Seemüller & Schneider és az Erwinia amylovora (Burrill) Winslow et al. tekintetében a következő követelmények alkalmazandók:
+## 2.12.2.2.1.[^103] Abban az esetben, ha egy eltérés lehetővé teszi az (EU) 2017/925 bizottsági végrehajtási határozat értelmében a prebázis szaporítóanyagok nem rovarmentes környezetben, szabadföldön történő előállítását, a Candidatus Phytoplasma pyri Seemüller & Schneider és az Erwinia amylovora (Burrill) Winslow et al. tekintetében a következő követelmények alkalmazandók:
 
-## 2.12.2.2.1.1. Candidatus Phytoplasma pyri Seemüller & Schneider esetében:
+## 2.12.2.2.1.1.[^104] Candidatus Phytoplasma pyri Seemüller & Schneider esetében:
 
-## 2.12.2.2.1.1.1. a prebázis kategóriájú növényi szaporítóanyagokat és ültetési anyagokat olyan területeken kell előállítani, amelyek ismerten mentesek a Candidatus Phytoplasma pyri Seemüller & Schneider károsítótól; vagy
+## 2.12.2.2.1.1.1. A prebázis kategóriájú szaporítóanyagokat olyan területeken kell előállítani, amelyeket a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal, illetve a NÉBIH a nemzetközi szabványokkal összhangban a Candidatus Phytoplasma pyri Seemüller & Schneider károsítótól mentesnek nyilvánított, vagy
 
-## 2.12.2.2.1.1.2. a termesztési helyen a legutóbbi teljes vegetációs időszakban nem észleltek a Candidatus Phytoplasma pyri Seemüller & Schneider okozta tüneteket, a közvetlen közelükben található, tüneteket mutató növényeket gyökerestől eltávolították és azonnal megsemmisítették;
+## 2.12.2.2.1.1.2. a termesztési helyen a prebázis kategóriájú szaporítóanyagokon az elmúlt három vegetációs időszakban nem észleltek a Candidatus Phytoplasma pyri Seemüller & Schneider okozta tüneteket, a közvetlen közelükben található, tüneteket mutató növényeket pedig gyökerestől eltávolították és azonnal megsemmisítették;
 
 ## 2.12.2.2.1.2. Erwinia amylovora (Burrill) Winslow et al. esetében:
 
@@ -826,13 +898,13 @@
 
 ## 2.12.5.1. A termesztési helyre, a termőhelyre vagy a területre vonatkozó követelmények
 
-## 2.12.5.1.1. Candidatus Phytoplasma pyri Seemüller & Schneider esetében:
+## 2.12.5.1.1.[^105] Candidatus Phytoplasma pyri Seemüller & Schneider esetében:
 
-## 2.12.5.1.1.1. a bázis és certifikált (tanúsított) kategóriájú növényi szaporítóanyagokat és ültetési anyagokat olyan területeken kell előállítani, amelyek ismerten mentesek a Candidatus Phytoplasma pyri Seemüller & Schneider károsítótól; vagy
+## 2.12.5.1.1.1. A bázis és certifikált (tanúsított) kategóriájú szaporítóanyagokat olyan területeken kell előállítani, amelyeket a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal, illetve a NÉBIH a nemzetközi szabványokkal összhangban a Candidatus Phytoplasma pyri Seemüller & Schneider károsítótól mentesnek nyilvánított,
 
-## 2.12.5.1.1.2. a termesztési helyen a legutóbbi teljes vegetációs időszakban nem észleltek a Candidatus Phytoplasma pyri Seemüller & Schneider okozta tüneteket, a közvetlen közelükben található, tüneteket mutató növényeket gyökerestől eltávolították és azonnal megsemmisítették; vagy
+## 2.12.5.1.1.2. a termesztési helyen a bázis és certifikált (tanúsított) kategóriájú szaporítóanyagokon a legutóbbi teljes vegetációs időszakban nem észleltek a Candidatus Phytoplasma pyri Seemüller & Schneider okozta tüneteket, a közvetlen közelükben található, tüneteket mutató növényeket pedig gyökerestől eltávolították és azonnal megsemmisítették, vagy
 
-## 2.12.5.1.1.3. a termesztési helyen a legutóbbi teljes vegetációs időszakban a certifikált (tanúsított) kategóriájú növényi szaporítóanyagok és ültetési anyagok legfeljebb 2%-án észleltek a Candidatus Phytoplasma pyri Seemüller & Schneider okozta tüneteket, és az érintett növényi szaporítóanyagokat és ültetési anyagokat, valamint a közvetlen közelükben található, tüneteket mutató növényeket gyökerestől eltávolították és azonnal megsemmisítették, a tüneteket mutató növényi szaporítóanyagokat és ültetési anyagokat tartalmazó tételek fennmaradó tünetmentes növényi szaporítóanyagainak és ültetési anyagainak reprezentatív mintáját tesztelésnek vetették alá, és a Candidatus Phytoplasma pyri Seemüller & Schneider károsítótól mentesnek találták;
+## 2.12.5.1.1.3. a legutóbbi három vegetációs időszakban végzett vizuális vizsgálatok során a termesztés helyén és annak közvetlen közelében a Candidatus Phytoplasma pyri Seemüller & Schneider tüneteit mutató, bázis és certifikált (tanúsított) kategóriájú szaporítóanyagokat azonnal gyökerestől eltávolították és megsemmisítették.
 
 ## 2.12.5.1.2. Erwinia amylovora (Burrill) Winslow et al. esetében:
 
@@ -848,13 +920,13 @@
 
 ## 2.12.6.2. A termesztési helyre, a termőhelyre vagy a területre vonatkozó követelmények
 
-## 2.12.6.2.1. Candidatus Phytoplasma pyri Seemüller & Schneider esetében:
+## 2.12.6.2.1.[^106] Candidatus Phytoplasma pyri Seemüller & Schneider esetében:
 
-## 2.12.6.2.1.1. a C.A.C. kategóriájú növényi szaporítóanyagokat és ültetési anyagokat olyan területeken kell előállítani, amelyek ismerten mentesek a Candidatus Phytoplasma pyri Seemüller & Schneider károsítótól; vagy
+## 2.12.6.2.1.1. a C.A.C. kategóriájú szaporítóanyagokat olyan területeken kell előállítani, amelyeket a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal, illetve a NÉBIH a nemzetközi szabványokkal összhangban a Candidatus Phytoplasma pyri Seemüller & Schneider károsítótól mentesnek nyilvánított,
 
-## 2.12.6.2.1.2. a termesztési helyen a legutóbbi teljes vegetációs időszakban nem észleltek a Candidatus Phytoplasma pyri Seemüller & Schneider okozta tüneteket, a közvetlen közelükben található, tüneteket mutató növényeket gyökerestől eltávolították és azonnal megsemmisítették; vagy
+## 2.12.6.2.1.2. a termesztési helyen a C.A.C. kategóriájú szaporítóanyagokon a legutóbbi teljes vegetációs időszakban nem észleltek a Candidatus Phytoplasma pyri Seemüller & Schneider okozta tüneteket, a közvetlen közelükben található, tüneteket mutató növényeket pedig gyökerestől eltávolították és azonnal megsemmisítették, vagy
 
-## 2.12.6.2.1.3. a termesztési helyen a legutóbbi teljes vegetációs időszakban a C.A.C. kategóriájú növényi szaporítóanyagok és ültetési anyagok legfeljebb 2%-án észleltek a Candidatus Phytoplasma pyri Seemüller & Schneider okozta tüneteket, és az érintett növényi szaporítóanyagokat és ültetési anyagokat, valamint a közvetlen közelükben található, tüneteket mutató növényeket gyökerestől eltávolították és azonnal megsemmisítették, a tüneteket mutató növényi szaporítóanyagokat és ültetési anyagokat tartalmazó tételek fennmaradó tünetmentes növényi szaporítóanyagainak és ültetési anyagainak reprezentatív mintáját tesztelésnek vetették alá, és a Candidatus Phytoplasma pyri Seemüller & Schneider károsítótól mentesnek találták;
+## 2.12.6.2.1.3. a legutóbbi három vegetációs időszakban végzett vizuális vizsgálatok során a termesztés helyén és annak közvetlen közelében a Candidatus Phytoplasma pyri Seemüller & Schneider tüneteit mutató, C.A.C. kategóriájú szaporítóanyagokat azonnal gyökerestől eltávolították és megsemmisítették.
 
 ## 2.12.6.2.2. Erwinia amylovora (Burrill) Winslow et al. esetében:
 
@@ -1024,6 +1096,12 @@
 
 ## 2.15.2.3.3.3. 0,5% az Exobasidium vaccinii (Fuckel) Woronin esetében; valamint az érintett növényi szaporítóanyagokat és ültetési anyagokat és a környezetükben lévő gazdanövényeket gyökerestől eltávolították és megsemmisítették.
 
+## 2.15.2.3.4.[^107] Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld esetében:
+
+## 2.15.2.3.4.1. A bázis kategóriájú szaporítóanyagokat olyan területeken kell előállítani, amelyeket a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal, illetve a NÉBIH a nemzetközi szabványokkal összhangban a Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld károsítótól mentesnek nyilvánított, vagy
+
+## 2.15.2.3.4.2. a termesztési helyen a bázis kategóriájú szaporítóanyagokon a legutóbbi teljes vegetációs időszakban nem észlelték a Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld okozta tüneteket.
+
 ## 2.15.3. Certifikált (tanúsított) és C.A.C. kategória
 
 ## 2.15.3.1. Vizuális vizsgálat
@@ -1056,9 +1134,69 @@
 
 ## 2.15.4.1.2.3. 1% az Exobasidium vaccinii (Fuckel) Woronin esetében; valamint az érintett növényi szaporítóanyagokat és ültetési anyagokat és a környezetükben lévő gazdanövényeket gyökerestől eltávolították és megsemmisítették.
 
+## 2.15.4.1.3.[^108] Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld esetében:
+
+## 2.15.4.1.3.1. A certifikált (tanúsított) kategóriájú szaporítóanyagokat olyan területeken kell előállítani, amelyeket a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal, illetve a NÉBIH a nemzetközi szabványokkal összhangban a Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld károsítótól mentesnek nyilvánított, vagy
+
+## 2.15.4.1.3.2. a termesztési helyen a certifikált (tanúsított) kategóriájú szaporítóanyagokon a legutóbbi teljes vegetációs időszakban nem észlelték a Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld okozta tüneteket, vagy
+
+## 2.15.4.1.3.3.
+
+## 2.15.4.1.3.3.1. a termesztési helyen a Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld okozta tüneteket mutató, certifikált (tanúsított) kategóriájú szaporítóanyagokat, valamint a tüneteket mutató szaporítóanyag 2 méteres körzetében található összes növényt gyökerestől eltávolították és megsemmisítették, beleértve a hozzátapadt talajt is, és
+
+## 2.15.4.1.3.3.2. a tüneteket mutató szaporítóanyagok 10 méteres körzetében található valamennyi növény és az érintett tételből fennmaradó szaporítóanyagok esetében:
+
+## 2.15.4.1.3.3.2.1. a tüneteket mutató szaporítóanyagok észlelését követő három hónapon belül az említett szaporítóanyagokon nem figyeltek meg a Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld okozta tüneteket legalább két, a károsító kimutatásához megfelelő időpontban végzett ellenőrzés során, és e három hónapos időszak alatt nem végeztek a Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld okozta tüneteket csökkentő kezeléseket, és
+
+## 2.15.4.1.3.3.2.2. az említett három hónapos időszak után:
+
+## 2.15.4.1.3.3.2.2.1. a termesztési helyen a szaporítóanyagokon nem észlelték a Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld okozta tüneteket, vagy
+
+## 2.15.4.1.3.3.2.2.2. a szállításra szánt szaporítóanyagok reprezentatív mintáját laboratóriumi vizsgálatnak vetették alá, és a Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld károsítótól mentesnek találták,
+
+## és
+
+## 2.15.4.1.3.3.3.
+
+## 2.15.4.1.3.3.3.1. a termesztési helyen található minden egyéb szaporítóanyag esetében:
+
+## 2.15.4.1.3.3.3.1.1. a termesztési helyen a szaporítóanyagokon nem észlelték a Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld okozta tüneteket, vagy
+
+## 2.15.4.1.3.3.3.1.2. a szállításra szánt szaporítóanyagok reprezentatív mintáját laboratóriumi vizsgálatnak vetették alá, és a Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld károsítótól mentesnek találták.
+
+## 2.15.5.[^109] C.A.C. kategória
+
+## 2.15.5.1. A termesztési helyre, a termőhelyre vagy a területre vonatkozó követelmények:
+
+## 2.15.5.1.1. Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld esetében:
+
+## 2.15.5.1.1.1. A C.A.C. kategóriájú szaporítóanyagokat olyan területeken kell előállítani, amelyeket a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal, illetve a NÉBIH a nemzetközi szabványokkal összhangban a Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld károsítótól mentesnek nyilvánított, vagy
+
+## 2.15.5.1.1.2. a termesztési helyen a C.A.C. kategóriájú szaporítóanyagokon a legutóbbi teljes vegetációs időszakban nem észlelték a Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld okozta tüneteket,
+
+## vagy
+
+## 2.15.5.1.1.2.1. a termesztési helyen a Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld okozta tüneteket mutató, C.A.C. kategóriájú szaporítóanyagokat, valamint a tüneteket mutató szaporítóanyag 2 méteres körzetében található összes növényt gyökerestől eltávolították és megsemmisítették, beleértve a hozzátapadt talajt is, és
+
+## 2.15.5.1.1.2.2. a tüneteket mutató szaporítóanyagok 10 méteres körzetében található valamennyi növény és az érintett tételből fennmaradó szaporítóanyagok esetében:
+
+## 2.15.5.1.1.2.2.1. a tüneteket mutató szaporítóanyagok észlelését követő három hónapon belül az említett szaporítóanyagokon nem figyeltek meg a Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld okozta tüneteket legalább két, a károsító kimutatásához megfelelő időpontban végzett ellenőrzés során, és e három hónapos időszak alatt nem végeztek a Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld okozta tüneteket csökkentő kezeléseket; és az említett három hónapos időszak után:
+
+## 2.15.5.1.1.2.2.1.1. a termesztési helyen a szaporítóanyagokon nem észlelték a Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld okozta tüneteket, vagy
+
+## 2.15.5.1.1.2.2.1.2. a szállításra szánt szaporítóanyagok reprezentatív mintáját laboratóriumi vizsgálatnak vetették alá, és a Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld károsítótól mentesnek találták,
+
+## és
+
+## 2.15.5.1.1.2.3. a termesztési helyen található minden egyéb szaporítóanyag esetében:
+
+## 2.15.5.1.1.2.3.1. a termesztési helyen a szaporítóanyagokon nem észlelték a Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld okozta tüneteket, vagy
+
+## 2.15.5.1.2.3.2. a szállításra szánt szaporítóanyagok reprezentatív mintáját laboratóriumi vizsgálatnak vetették alá, és a Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld károsítótól mentesnek találták.
+
 6. melléklet a 14/2017. (III. 23.) FM rendelethez
 
-## A szabadföldön, nem rovarmentes körülmények között termesztett generációk legnagyobb megengedett száma és a bázis anyanövények élettartamának megengedett felső határa nemzetségek, illetve fajok szerint
+A szabadföldön, nem rovarmentes körülmények között termesztett generációk legnagyobb megengedett száma és a bázis anyanövények élettartamának megengedett felső határa nemzetségek, illetve fajok szerint
 
 1. Castanea sativa Mill.
 
@@ -1120,9 +1258,7 @@ A bázis anyanövény felszaporítása legfeljebb két generáción át megenged
 
 A bázis anyanövény felszaporítása legfeljebb egy generáción át megengedett.
 
-9. Prunus amygdalus, P. armeniaca, P. domestica, P. persica és P. salicina, Prunus avium
-
-és P. cerasus
+9.[^110] Prunus armeniaca L., Prunus domestica L., Prunus dulcis (Mill.) D. A. Webb, Prunus persica (L.) Batsch és Prunus salicina Lindl.
 
 9.1. Bázis kategória
 
@@ -1150,4 +1286,24 @@ A bázis anyanövény felszaporítása legfeljebb két generáción át megenged
 
 A bázis anyanövény felszaporítása legfeljebb két generáción át megengedett.
 
-[^83]: Az 5. melléklet 2. pont 2.6.4.2.2.1. alpontja a 43/2020. (VIII. 19.) AM rendelet 4. §-a szerint módosított szöveg.
+[^90]: Az 5. melléklet 2.1.2. pontja a 36/2023. (VII. 19.) AM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^91]: Az 5. melléklet 2.1.3. pontja a 36/2023. (VII. 19.) AM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^92]: Az 5. melléklet 2.1.4. pontja a 36/2023. (VII. 19.) AM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^93]: Az 5. melléklet 2.4.2.2. pontját a 36/2023. (VII. 19.) AM rendelet 11. § b) pontja hatályon kívül helyezte.
+[^94]: Az 5. melléklet 2.4.2.2.1 pontja a 36/2023. (VII. 19.) AM rendelet 10. § g) pontja szerint módosított szöveg.
+[^95]: Az 5. melléklet 2. pont 2.6.4.2.2.1. alpontja a 43/2020. (VIII. 19.) AM rendelet 4. §-a szerint módosított szöveg.
+[^96]: Az 5. melléklet 2.6.4.2.3.4.4. pontját a 36/2023. (VII. 19.) AM rendelet 11. § c) pontja hatályon kívül helyezte.
+[^97]: Az 5. melléklet 2.8.2.2.1 a 36/2023. (VII. 19.) AM rendelet 10. § g) pontja szerint módosított szöveg.
+[^98]: Az 5. melléklet 2.8.3. pont 2.8.3.2. alpontját 36/2023. (VII. 19.) AM rendelet 9. § (2) bekezdése iktatta be.
+[^99]: Az 5. melléklet 2.8.4. pont 2.8.4.2. alpontját a 36/2023. (VII. 19.) AM rendelet 9. § (2) bekezdése iktatta be.
+[^100]: Az 5. melléklet 2.8.5. pontját a 36/2023. (VII. 19.) AM rendelet 11. § d) pontja hatályon kívül helyezte.
+[^101]: Az 5. melléklet 2.11.1.3.1. pontja a 36/2023. (VII. 19.) AM rendelet 10. § g) pontja szerint módosított szöveg.
+[^102]: Az 5. melléklet 2.11.1.3.1.2.3. pontja a 36/2023. (VII. 19.) AM rendelet 10. § b) pontja szerint módosított szöveg.
+[^103]: Az 5. melléklet 2.12.2.2.1. pontja a 36/2023. (VII. 19.) AM rendelet 10. § g) pontja szerint módosított szöveg.
+[^104]: Az 5. melléklet 2.12.2.2.1.1. pontja a 36/2023. (VII. 19.) AM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^105]: Az 5. melléklet 2.12.5.1.1. pontja a 36/2023. (VII. 19.) AM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^106]: Az 5. melléklet 2.12.6.2.1. pontja a 36/2023. (VII. 19.) AM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^107]: Az 5. melléklet 2.15.2.3. pont 2.15.2.3.4. alpontját a 36/2023. (VII. 19.) AM rendelet 9. § (2) bekezdése iktatta be.
+[^108]: Az 5. melléklet 2.15.4.1. pont 2.15.4.1.3. alpontját a 36/2023. (VII. 19.) AM rendelet 9. § (2) bekezdése iktatta be.
+[^109]: Az 5. melléklet 2.15. pont 2.15.5. alpontját a 36/2023. (VII. 19.) AM rendelet 9. § (2) bekezdése iktatta be.
+[^110]: A 6. melléklet 9. pont címe a 36/2023. (VII. 19.) AM rendelet 9. § (3) bekezdésével megállapított szöveg.

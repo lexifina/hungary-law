@@ -1,6 +1,6 @@
-8. melléklet a 14/2017. (III. 23.) FM rendelethez[^84]
+8. melléklet a 14/2017. (III. 23.) FM rendelethez[^111]
 
-## A törzsültetvények és a certifikált gyümölcsfaiskolák létesítésének részletes növény-egészségügyi feltételei
+A törzsültetvények és a certifikált gyümölcsfaiskolák létesítésének részletes növény-egészségügyi feltételei
 
 1. A törzsültetvények és certifikált szaporítóanyagok megengedett legkisebb izolációs távolságát eltérő virológiai státuszú ültetvényektől és közös vírusgazda kultúrnövényektől törzses gyümölcsfajoknál a 3. pont alatti táblázat tartalmazza.
 
@@ -42,9 +42,9 @@
 
 | 15. | Mogyoró | Elv. út | Elv. út | Elv. út | Elv. út | 300 |
 
-* Sharka-gazda = Plum pox virusra (PPV) fogékony gyümölcsfajok: szilvafélék, őszibarack, kajszibarack, mandula
+## * Sharka-gazda = Plum pox virusra (PPV) fogékony gyümölcsfajok: szilvafélék, őszibarack, kajszibarack, mandula
 
-** elválasztó út = adott gyümölcsfaj más gyümölcsfajtól való izolációs távolsága, minimálisan 2 m
+## ** elválasztó út = adott gyümölcsfaj más gyümölcsfajtól való izolációs távolsága, minimálisan 2 m
 
 3.1. Mindegyik ültetvénytípus alkalmassági vizsgálatánál figyelembe kell venni, hogy az uralkodó szélirányban 200–300 m távolságon belül fertőzési gócok ne legyenek.
 
@@ -82,7 +82,7 @@
 
 5.1. Azonos fajú növények telepítése csak 5 év elteltével engedélyezhető.
 
-5.2. A telepítendő területen a vírusvektor fonálféreg fertőzöttséget a növény és talajvédelmi hatáskörben eljáró megyei kormányhivatal ellenőrzi.
+5.2.[^112] A telepítendő területen a vírusvektor fonálféreg fertőzöttséget a növény és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal ellenőrzi.
 
 5.3. A megvizsgált talajminta vírusvektor fonálférgeket nem tartalmazhat.
 
@@ -102,4 +102,5 @@
 
 | 6. | Xiphinema diversicaudatum | – | + | + | – | – | + | + | + |
 
-[^84]: A 8. melléklet a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^111]: A 8. melléklet a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^112]: A 8. melléklet 5.2. pontja a 36/2023. (VII. 19.) AM rendelet 10. § b) pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
 7. melléklet a 14/2017. (III. 23.) FM rendelethez
 
-## Gyümölcs szaporítóanyagot termő ültetvények irányadó felhasználási időtartama
+Gyümölcs szaporítóanyagot termő ültetvények irányadó felhasználási időtartama
 
 1. A vegetatív szaporítóanyag termő törzsültetvények szaporítóanyagának irányadó felhasználási időtartama a telepítéstől számítva:
 

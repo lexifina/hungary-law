@@ -1,4 +1,4 @@
-2. melléklet a 14/2017. (III. 23.) FM rendelethez[^80]
+2. melléklet a 14/2017. (III. 23.) FM rendelethez[^85]
 
 1. Azon vizsgálatköteles nemzárlati károsítók jegyzéke, amelyek jelenlététől a prebázis anyanövény, prebázis, bázis és certifikált (tanúsított) szaporítóanyagnak mentesnek, a C.A.C. ültetési anyagoknak gyakorlatilag mentesnek kell lenniük és erre vonatkozóan vizuális vizsgálatot, valamint – kétség esetén – mintavételt és tesztelést kell végezni
 
@@ -166,7 +166,7 @@
 
 | 81. |  | 5.2. Candidatus Phytoplasma australiense Davis et al. [PHYPAU] |
 
-| 82. |  | 5.3. Candidatus Phytoplasma fragariae Valiunas, Staniulis & Davis [PHYPFG] |
+| 82. |  |  |
 
 | 83. |  | 5.4. Candidatus Phytoplasma pruni [PHYPPN] |
 
@@ -466,7 +466,11 @@
 
 | 1. | Nemzettség vagy faj | Vizsgálatköteles nemzárlati károsítók |
 
-| 2. | Citrus L., Fortunella Swingle és Pondrus Raf. | 1. Baktériumok |
+| 1a | Castanea sativa Mill. | 1. Gombák és petespórás gombák |
+
+| 1b |  | 1.1. Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld [PHYTRA] |
+
+| 2. | Citrus L., Fortunella Swingle és Poncirus Raf. | 1. Baktériumok |
 
 | 3. |  | 1.1. Spiroplasma citri Saglio et al. [SPIRCI] |
 
@@ -800,6 +804,10 @@
 
 | 168. |  | 1.9. Tőzegáfonya álvirágzás fitoplazma (Cranberry falsé blossom phytoplasma) [PHYPFB] |
 
+| 169. |  | 2. Gombák és petespórás gombák |
+
+| 170. |  | 2.1. Phytophthora ramorum (uniós izolátumok) Werres, De Cock & Man in ’t Veld [PHYTRA] |
+
 3. Azon károsítók jegyzéke, amelyek talajban való jelenléte esetén a 16. § rendelkezései irányadók
 
 |  | A | B |
@@ -864,4 +872,4 @@
 
 | 30. |  | 1.4. Xiphinema diversicaudatum (Mikoletzky) Thorne [XIPHDI] |
 
-[^80]: A 2. melléklet a 35/2020. (VI. 29.) AM rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^85]: A 2. melléklet a 35/2020. (VI. 29.) AM rendelet 21. § (1) bekezdésével megállapított, a 36/2023. (VII. 19.) AM rendelet 9. § (1) bekezdése, a 36/2023. (VII. 19.) AM rendelet 10. § e) pontja és 11. § a) pontja szerint módosított szöveg.

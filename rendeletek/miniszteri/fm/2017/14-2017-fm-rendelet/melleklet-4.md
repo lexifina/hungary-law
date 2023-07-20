@@ -1,6 +1,6 @@
-4. melléklet a 14/2017. (III. 23.) FM rendelethez
+4. melléklet a 14/2017. (III. 23.) FM rendelethez[^88]
 
-## Ültetési anyagok és alanycsemeték, követelményei, kötegelése és jelölése
+Ültetési anyagok és alanycsemeték, követelményei, kötegelése és jelölése
 
 1. Minőségi követelmények
 
@@ -44,7 +44,7 @@
 
 1.1.2.1.8. a törzsön a törzsnevelés során keletkezett vágási felület (metszlap, csaphely) legyen körkörösen behegedt, friss metszlap és csonk nincs megengedve;
 
-1.1.2.1.9. mechanikai sérülésből származó 3 cm2 felületet meg nem haladó, teljesen beforrt sebhely meg van engedve, de a sebhely szélessége a törzskerület 1/4 részénél szélesebb ne legyen;
+1.1.2.1.9. mechanikai sérülésből származó 3 cm2felületet meg nem haladó, teljesen beforrt sebhely meg van engedve, de a sebhely szélessége a törzskerület 1/4 részénél szélesebb ne legyen;
 
 1.1.2.1.10. a törzs kora legfeljebb 3 év, őszibaracknál, mandulánál 1 év;
 
@@ -230,6 +230,8 @@
 
 1.6.2. Alanycsemeték részletes minőségi követelményei
 
+## 3X05809M.docx
+
 |  | A | B | C | D | E |
 
 | 1. | Megnevezés | Magasság (cm) | Éves növekedés (cm) | Gyökérnyak átmérő 1 és 2 éves (mm) | *Gyökérzet |
@@ -244,7 +246,7 @@
 
 | 6. | Magoncalanyok Alma Körte Szilva Sajtmeggy Myrobalan Őszibarack Mandula Mandulabarack | 25 | 25 | 4–12 | jól elágazott |
 
-| 7. | Dió (Juglans regia) Fekete dió (Juglans nigra) Gesztenye (Castanea staiva) | 25 | 20 | 6–14 | bojtos |
+| 7. | Dió (Juglans regia) Fekete dió (Juglans nigra) Gesztenye (Castanea sativa) | 25 | 20 | 6–14 | bojtos |
 
 1.6.3. Az alanycsemeték méret szerinti osztályozása. A 2.5. és 2.6. pont szerint meghatározott módon
 
@@ -379,3 +381,5 @@
 5.1.3.1. Oka: az előző alpontokban leírt helytelen kezelésből eredő szöveti károsodás következtében a szaporítóanyagon szaprofita gombák telepedhetnek meg.
 
 5.1.3.2. Tünete: a betegség következtében a szaporítóanyag felületén a közvetlen vizsgálatnál különböző jellegű penészbevonat tapasztalható.
+
+[^88]: A 4. melléklet a 36/2023. (VII. 19.) AM rendelet 10. § f) pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
 9. melléklet a 14/2017. (III. 23.) FM rendelethez
 
-## A törzsültetvények fenntartásának növény-egészségügyi követelményei, a törzsültetvények kötelező utótesztelése
+A törzsültetvények fenntartásának növény-egészségügyi követelményei, a törzsültetvények kötelező utótesztelése
 
 1. A törzsültetvényekben a kötelező vírusteszteléseket a következők szerint kell elvégezni:
 

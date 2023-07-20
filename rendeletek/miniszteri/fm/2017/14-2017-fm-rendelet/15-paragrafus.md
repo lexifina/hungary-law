@@ -14,23 +14,23 @@ b) köteles eltávolítani azt a többi anyanövény és szaporítóanyag közel
 
 (6)[^19]
 
-(7)[^20] A szaporítóanyagra vonatkozó vizuális ellenőrzést és – gyanú esetén – mintavételt a 2. melléklet 1. és 2. pontja szerinti károsítók esetében a növény- és talajvédelmi hatáskörben eljáró megyei kormányhivatal és a szállító, C.A.C. szaporítási fok esetén a szállító végzi. A laboratóriumi vizsgálatot az 5. melléklet meghatározottaknak megfelelően a NÉBIH végzi. A NÉBIH a laboratóriumi vizsgálat elvégzése céljából igénybe vehet hatósági laboratóriumi hálózaton kívüli laboratóriumi szolgáltatást.
+(7)[^20] A szaporítóanyagra vonatkozó vizuális ellenőrzést és – gyanú esetén – mintavételt a 2. melléklet 1. és 2. pontja szerinti károsítók esetében a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal és a szállító, C.A.C. szaporítási fok esetén a szállító végzi. A laboratóriumi vizsgálatot az 5. melléklet meghatározottaknak megfelelően a NÉBIH végzi. A NÉBIH a laboratóriumi vizsgálat elvégzése céljából igénybe vehet hatósági laboratóriumi hálózaton kívüli laboratóriumi szolgáltatást.
 
 (8)[^21] A vizuális ellenőrzés során a 2. melléklet 1. és 2. pontja szerinti károsítók jelenléte vagy annak gyanúja esetén minden esetben mintát kell venni az érintett növényből laboratóriumi vizsgálat céljából.
 
-(9)[^22] A szállító ellenőrzése során a növénytermesztési hatáskörben eljáró megyei kormányhivatal és a növény- és talajvédelmi hatáskörben eljáró megyei kormányhivatal ellenőrzi:
+(9)[^22] A szállító ellenőrzése során a növénytermesztési hatáskörben eljáró vármegyei kormányhivatal és a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal ellenőrzi:
 
 a) az előállítási folyamat egyes kritikus pontjainak ellenőrzésére alkalmazott módszerek alkalmasságát és a szállító általi tényleges használatát, és
 
 b) a szállító személyzetének az e rendeletben előírt tevékenységek végrehajtására való általános képességeinek meglétét.
 
-(10)[^23] A növénytermesztési hatáskörben eljáró megyei kormányhivatal és a növény- és talajvédelmi hatáskörben eljáró megyei kormányhivatal feljegyzéseket készít és vezet az általa elvégzett valamennyi vizuális ellenőrzés, mintavétel és laboratóriumi vizsgálat eredményeiről és időpontjáról.
+(10)[^23] A növénytermesztési hatáskörben eljáró vármegyei kormányhivatal és a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal feljegyzéseket készít és vezet az általa elvégzett valamennyi vizuális ellenőrzés, mintavétel és laboratóriumi vizsgálat eredményeiről és időpontjáról.
 
 (11) A mintavételt és a laboratóriumi vizsgálatot az évnek a károsítók diagnosztizálására legalkalmasabb időszakában, az éghajlati viszonyoknak és az adott növénytermesztési feltételeinek, valamint a növény szempontjából releváns károsítók biológiai jellemzőinek a figyelembevételével kell elvégezni. Amennyiben felmerül az érintett károsítók jelenlétének gyanúja, az év bármely egyéb időpontjában is sor kerül mintavételre.
 
-(12)[^24] A NÉBIH, a növény- és talajvédelmi hatáskörben eljáró megyei kormányhivatal, valamint a szállító mintavétel és laboratóriumi vizsgálat céljára az Európai és Földközi-tenger melléki Növényvédelmi Szervezet (a továbbiakban: EPPO) eljárását vagy más, nemzetközileg elismert eljárásokat alkalmaz. Ezen eljárások hiányában a NÉBIH által kidolgozott nemzeti eljárást kell alkalmazni, melyet a NÉBIH a Bizottság rendelkezésére bocsát.
+(12)[^24] A NÉBIH, a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal, valamint a szállító mintavétel és laboratóriumi vizsgálat céljára az Európai és Földközi-tenger melléki Növényvédelmi Szervezet (a továbbiakban: EPPO) eljárását vagy más, nemzetközileg elismert eljárásokat alkalmaz. Ezen eljárások hiányában a NÉBIH által kidolgozott nemzeti eljárást kell alkalmazni, melyet a NÉBIH a Bizottság rendelkezésére bocsát.
 
-(13)[^25] A növénytermesztési hatáskörben eljáró megyei kormányhivatal olyan eljárásokat alkalmazhat, amelyeket a nemzetségek és fajok szempontjából előzetesen teszteltek egy olyan időszak során, amely elég hosszúnak tekinthető ahhoz, hogy a növények fenotípusa a gyümölcstermelésnek vagy az alanyok vegetatív fejlődésének a megfigyelése alapján megerősíthető legyen a fajtaleírásnak való megfelelés tekintetében.
+(13)[^25] A növénytermesztési hatáskörben eljáró vármegyei kormányhivatal olyan eljárásokat alkalmazhat, amelyeket a nemzetségek és fajok szempontjából előzetesen teszteltek egy olyan időszak során, amely elég hosszúnak tekinthető ahhoz, hogy a növények fenotípusa a gyümölcstermelésnek vagy az alanyok vegetatív fejlődésének a megfigyelése alapján megerősíthető legyen a fajtaleírásnak való megfelelés tekintetében.
 
 (14) A prebázis anyanövény-jelöltek esetében a vírusok, a viroidok, a vírusszerű betegségek és a fitoplazmák kimutatására alkalmazandó tesztelési módszer az indikátornövényeken végzett biológiai vizsgálat. Más tesztelési módszerek akkor alkalmazhatóak, ha megállapítható, hogy az e módszerekkel kapott eredmények ugyanolyan megbízhatóak, mint az indikátornövényeken elvégzett biológiai vizsgálatok eredményei.
 
@@ -38,18 +38,23 @@ b) a szállító személyzetének az e rendeletben előírt tevékenységek vég
 
 (16)[^27] A megújítás útján előállított prebázis anyanövényre az (1), (11) és (13) bekezdést is alkalmazni kell.
 
-(17) Az (1) bekezdés krioprezervációs fenntartás esetén nem alkalmazandó a prebázis, bázis és certifikált anyanövényekre, valamint a prebázis bázis és certifikált és C.A.C. szaporítóanyagokra.
+(17)[^28] Az (1) bekezdés nem alkalmazandó
+
+a) krioprezervációs fenntartás esetén a prebázis, bázis és certifikált anyanövényekre, valamint a prebázis, bázis, certifikált és C.A.C. szaporítóanyagokra, valamint
+
+b) a prebázis, bázis, certifikált és C.A.C. szaporítóanyagokra, ha a szaporítóanyagot olyan területen állították elő, amelyről a 2006. évi LXXV. törvénnyel kihirdetett, az ENSZ Élelmezési és Mezőgazdasági Szervezete (FAO) keretében 1951. december 6-án létrehozott és 1952. április 3-án hatályba lépett Nemzetközi Növényvédelmi Egyezmény X. cikke alapján elfogadott, a növényegészségügyi intézkedésekre vonatkozó 4. nemzetközi szabvánnyal (a továbbiakban: nemzetközi szabvány) összhangban vizuális vizsgálatot, valamint szükség szerint mintavételt és laboratóriumi vizsgálatot követően megállapítást nyert, hogy mentes a 2. melléklet szerinti károsítóktól.
 
 [^15]: A 15. § (1) bekezdése a 35/2020. (VI. 29.) AM rendelet 17. § (1) bekezdésével megállapított szöveg.
 [^16]: A 15. § (2) bekezdése a 35/2020. (VI. 29.) AM rendelet 17. § (1) bekezdésével megállapított szöveg.
 [^17]: A 15. § (3) bekezdése a 35/2020. (VI. 29.) AM rendelet 17. § (1) bekezdésével megállapított szöveg.
 [^18]: A 15. § (5) bekezdését a 35/2020. (VI. 29.) AM rendelet 23. § a) pontja hatályon kívül helyezte.
 [^19]: A 15. § (6) bekezdését a 35/2020. (VI. 29.) AM rendelet 23. § a) pontja hatályon kívül helyezte.
-[^20]: A 15. § (7) bekezdése a 35/2020. (VI. 29.) AM rendelet 17. § (2) bekezdésével megállapított szöveg.
+[^20]: A 15. § (7) bekezdése a 35/2020. (VI. 29.) AM rendelet 17. § (2) bekezdésével megállapított, a 36/2023. (VII. 19.) AM rendelet 10. § b) pontja szerint módosított szöveg.
 [^21]: A 15. § (8) bekezdése a 35/2020. (VI. 29.) AM rendelet 17. § (2) bekezdésével megállapított szöveg.
-[^22]: A 15. § (9) bekezdés nyitó szövegrésze a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^23]: A 15. § (10) bekezdése a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^24]: A 15. § (12) bekezdése a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^25]: A 15. § (13) bekezdése a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^22]: A 15. § (9) bekezdés nyitó szövegrésze a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés c) pontja, a 36/2023. (VII. 19.) AM rendelet 10. § a) pontja szerint módosított szöveg.
+[^23]: A 15. § (10) bekezdése a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés c) pontja, a 36/2023. (VII. 19.) AM rendelet 10. § a) pontja szerint módosított szöveg.
+[^24]: A 15. § (12) bekezdése a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés a) pontja, a 36/2023. (VII. 19.) AM rendelet 10. § b) pontja szerint módosított szöveg.
+[^25]: A 15. § (13) bekezdése a 46/2020. (IX. 23.) AM rendelet 35. § (2) bekezdés a) pontja, a 36/2023. (VII. 19.) AM rendelet 10. § b) pontja szerint módosított szöveg.
 [^26]: A 15. § (15) bekezdése a 35/2020. (VI. 29.) AM rendelet 22. § a) pontja szerint módosított szöveg.
 [^27]: A 15. § (16) bekezdése a 35/2020. (VI. 29.) AM rendelet 23. § b) pontja szerint módosított szöveg.
+[^28]: A 15. § (17) bekezdése a 36/2023. (VII. 19.) AM rendelet 6. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
 11. melléklet a 14/2017. (III. 23.) FM rendelethez
 
-## A szaporítóanyag minta vizuális ellenőrzése és laboratóriumi vizsgálata
+A szaporítóanyag minta vizuális ellenőrzése és laboratóriumi vizsgálata
 
 1. Közvetlen vizsgálatok
 
