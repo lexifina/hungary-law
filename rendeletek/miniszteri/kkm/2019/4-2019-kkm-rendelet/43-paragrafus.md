@@ -1,6 +1,3 @@
-## 42. §[^60] A miniszter feladat- és hatáskörébe tartozó, a minisztérium kormánytisztviselőinek, munkavállalóinak és egyéb jogviszonyban foglalkoztatott munkatársainak oktatási, kulturális, sport- és rekreációs lehetőségeit biztosító programok megszervezésével és ezek feltételeinek biztosításával kapcsolatos feladatokat a KKM Magyar Diplomáciai Akadémia Korlátolt Felelősségű Társaság, valamint a KKM Subsidium Korlátolt Felelősségű Társaság útján, vagy annak közreműködésével látja el.
+43. §[^153] A miniszter feladat- és hatáskörébe tartozó, a Budapest Liszt Ferenc Nemzetközi Repülőtéren található kormányváró üzemeltetésével kapcsolatos feladatokat a KKM Subsidium Kft. útján látja el, amely feladatok ellátására a KKM Subsidium Kft.-vel közszolgáltatási vagy támogatási szerződést köt.
 
-43. §[^61]
-
-[^60]: A 42. § a 17/2020. (XII. 17.) KKM rendelet 5. § d) pontja szerint módosított szöveg.
-[^61]: A 43. §-t a 3/2021. (II. 5.) KKM rendelet 6. §-a hatályon kívül helyezte.
+[^153]: A 43. §-t a 3/2021. (II. 5.) KKM rendelet 6. §-a hatályon kívül helyezte, újonnan a 4/2023. (VII. 19.) KKM rendelet 21. §-a iktatta be.

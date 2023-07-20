@@ -1,4 +1,4 @@
-10/B. §[^19] (1) Egy vállalkozás részére a 360/2012/EU bizottsági rendelet hatálya alá tartozó csekély összegű közszolgáltatási támogatás (e § alkalmazásában a továbbiakban: támogatás) bruttó támogatástartalma nem haladhatja meg az 500 000 eurónak megfelelő forintösszeget.
+10/B. §[^51] (1) Egy vállalkozás részére a 360/2012/EU bizottsági rendelet hatálya alá tartozó csekély összegű közszolgáltatási támogatás (e § alkalmazásában a továbbiakban: támogatás) bruttó támogatástartalma nem haladhatja meg az 500 000 eurónak megfelelő forintösszeget.
 
 (2) Nem lehet kedvezményezett az a vállalkozás, amely a támogatást a 360/2012/EU bizottsági rendelet 1. cikk (2) bekezdésében meghatározott kivételek szerint használná fel.
 
@@ -12,4 +12,4 @@
 
 (7) A támogatás kedvezményezettjének a (4)–(6) bekezdésben meghatározott feltételek teljesítésének megállapítására alkalmas módon nyilatkoznia kell a részére a támogatás odaítélésének évében és az azt megelőző két pénzügyi évben nyújtott csekély összegű támogatások támogatástartalmáról.
 
-[^19]: A 10/B. §-t a 26/2022. (XII. 23.) KKM rendelet 6. §-a iktatta be.
+[^51]: A 10/B. §-t a 26/2022. (XII. 23.) KKM rendelet 6. §-a iktatta be.

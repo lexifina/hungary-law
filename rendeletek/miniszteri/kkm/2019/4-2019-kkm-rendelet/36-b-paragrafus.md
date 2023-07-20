@@ -1,4 +1,4 @@
-36/B. §[^43] (1) Az innovációs klaszterre nyújtott támogatás (e § alkalmazásában a továbbiakban: támogatás) kizárólag a klasztert működtető klaszterszervezet részére nyújtható.
+36/B. §[^131] (1) Az innovációs klaszterre nyújtott támogatás (e § alkalmazásában a továbbiakban: támogatás) kizárólag a klasztert működtető klaszterszervezet részére nyújtható.
 
 (2) Az innovációs klaszter létrehozására vagy korszerűsítésére beruházási támogatás nyújtható, amelynek keretében az immateriális javakra és a tárgyi eszközökre irányuló beruházási költség számolható el.
 
@@ -20,4 +20,4 @@ c) a klaszter létesítményeinek kezelése, az ismeretmegosztás, kapcsolatép�
 
 (8) A klaszter létesítményeinek használatáért és a klasztertevékenységben való részvételért fizetendő díj megállapítása piaci vagy költségalapon történik.
 
-[^43]: A 36/B. §-t a 26/2022. (XII. 23.) KKM rendelet 10. §-a iktatta be.
+[^131]: A 36/B. §-t a 26/2022. (XII. 23.) KKM rendelet 10. §-a iktatta be.

@@ -1,4 +1,4 @@
-1. §[^1] E rendelet hatálya
+1. §[^2] E rendelet hatálya
 
 a) a központi költségvetésről szóló törvénynek a Külgazdasági és Külügyminisztérium (a továbbiakban: minisztérium) fejezetében eredeti előirányzatként megállapított fejezeti és központi kezelésű előirányzataira,
 
@@ -8,4 +8,4 @@ c) az államháztartásról szóló 2011. évi CXCV. törvény és az államház
 
 [az a)–c) pont a továbbiakban együtt: előirányzatok] terjed ki.
 
-[^1]: Az 1. § a 26/2022. (XII. 23.) KKM rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § a 26/2022. (XII. 23.) KKM rendelet 1. §-ával megállapított szöveg.

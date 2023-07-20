@@ -1,4 +1,4 @@
-22/A. §[^30] (1) A sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás (a 22/A–22/C. § alkalmazásában a továbbiakban: támogatás)
+22/A. §[^95] (1) A sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás (a 22/A–22/C. § alkalmazásában a továbbiakban: támogatás)
 
 a) beruházási támogatásként sportlétesítmény és multifunkcionális szabadidős létesítmény építéséhez, bővítéséhez vagy korszerűsítéséhez, valamint
 
@@ -14,4 +14,4 @@ nyújtható.
 
 (5) Ha a támogatott sportlétesítményt hivatásos csapat használja, a hivatásos csapat esetén alkalmazott díjszámítási feltételeket nyilvánossá kell tenni.
 
-[^30]: A 22/A. §-t a 26/2022. (XII. 23.) KKM rendelet 8. §-a iktatta be.
+[^95]: A 22/A. §-t a 26/2022. (XII. 23.) KKM rendelet 8. §-a iktatta be.

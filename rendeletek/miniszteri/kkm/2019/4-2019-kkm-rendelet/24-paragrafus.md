@@ -4,7 +4,7 @@ a) az előállított üzemanyag- vagy energiamennyiség nem lépi túl a mezőga
 
 b) bioüzemanyag előállítására irányuló beruházás esetén
 
-ba) az üzemanyag-termelő létesítmény termelési kapacitása nem haladja meg a mezőgazdasági üzem átlagos éves közlekedési célú üzemanyag-fogyasztásának megfelelő szintet, és
+ba)[^100] az üzemanyag-termelő létesítmény termelési kapacitása nem haladja meg a mezőgazdasági üzem átlagos éves üzemanyag-fogyasztásának megfelelő szintet, és
 
 bb) az előállított bioüzemanyag nem értékesíthető a piacon,
 
@@ -23,3 +23,5 @@ cc) az előállított energia megfelel a 2009/28/EK európai parlamenti és tan�
 (3) Az energiát fogyasztó vagy termelő, valamely megújuló energiához kapcsolódó infrastruktúrára irányuló beruházásnak meg kell felelnie a nemzeti energiahatékonysági szabványoknak.
 
 (4) Az elsődlegesen biomassza-alapú villamosenergia-termelésre irányuló beruházás akkor támogatható, ha a nemzeti előírás szerinti arányban hőenergiát is hasznosít.
+
+[^100]: A 24. § (1) bekezdés b) pont ba) alpontja a 4/2023. (VII. 19.) KKM rendelet 24. § 19. pontja szerint módosított szöveg.

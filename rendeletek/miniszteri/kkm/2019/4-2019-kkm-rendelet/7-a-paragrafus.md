@@ -1,4 +1,4 @@
-7/A. §[^13] (1) Az Atr. 18. § (2) bekezdés a) pontja szerint előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha a támogatás összege
+7/A. §[^41] (1) Az Atr. 18. § (2) bekezdés a) pontja szerint előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha a támogatás összege
 
 1. regionális beruházási támogatás esetén a beruházáshoz igényelt összes állami támogatással együtt – figyelembe véve a nagyberuházásokra vonatkozó rendelkezéseket – meghaladja azt az összeget, amelyet ugyanazon településen egy jelenértéken 100 millió eurónak megfelelő forintösszeget meghaladó elszámolható költségű beruházás az adott régióban kaphat,
 
@@ -44,4 +44,4 @@ f) kutatási tevékenységet előkészítő megvalósíthatósági tanulmányhoz
 
 16. helyi infrastruktúra fejlesztéséhez nyújtott beruházási támogatás esetén meghaladja egyazon infrastruktúra esetén a 10 millió eurónak megfelelő forintösszeget vagy a 20 millió eurónak megfelelő forintösszeget meghaladó összköltséget.
 
-[^13]: A 7/A. §-t a 26/2022. (XII. 23.) KKM rendelet 4. §-a iktatta be.
+[^41]: A 7/A. §-t a 26/2022. (XII. 23.) KKM rendelet 4. §-a iktatta be.

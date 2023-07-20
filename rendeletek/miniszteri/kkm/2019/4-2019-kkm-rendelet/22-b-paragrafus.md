@@ -1,4 +1,4 @@
-22/B. §[^31] (1) Beruházási támogatás esetén a támogatás összege nem haladhatja meg az elszámolható költségek és a működési eredmény közötti különbséget.
+22/B. §[^96] (1) Beruházási támogatás esetén a támogatás összege nem haladhatja meg az elszámolható költségek és a működési eredmény közötti különbséget.
 
 (2) A működési eredmény mértékét
 
@@ -16,4 +16,4 @@ kell levonni az elszámolható költségekből.
 
 (6) A kétmillió eurónak megfelelő forintösszeget meg nem haladó támogatás esetén a támogatás összege az (1)–(5) bekezdésben meghatározott módszerek alkalmazásától eltérően is meghatározható azzal, hogy a támogatási intenzitás nem haladja meg az elszámolható költségek 80%-át.
 
-[^31]: A 22/B. §-t a 26/2022. (XII. 23.) KKM rendelet 8. §-a iktatta be.
+[^96]: A 22/B. §-t a 26/2022. (XII. 23.) KKM rendelet 8. §-a iktatta be.

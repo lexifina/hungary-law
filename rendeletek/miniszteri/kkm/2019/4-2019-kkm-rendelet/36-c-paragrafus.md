@@ -1,4 +1,4 @@
-36/C. §[^44] (1) Az eljárási innováció és szervezési innováció támogatása (e § vonatkozásában a továbbiakban: támogatás) keretében elszámolható
+36/C. §[^132] (1) Az eljárási innováció és szervezési innováció támogatása (e § vonatkozásában a továbbiakban: támogatás) keretében elszámolható
 
 a) a személyi jellegű ráfordítás,
 
@@ -12,4 +12,4 @@ d) a további általános és egyéb működési költség, ide értve az anyago
 
 (3) Nagyvállalkozásnak akkor nyújtható támogatás, ha az a támogatott tevékenység során ténylegesen együttműködik kis- és középvállalkozással és, ha az együttműködő kis- és középvállalkozás viseli az összes elszámolható költség legalább 30%-át.
 
-[^44]: A 36/C. §-t a 26/2022. (XII. 23.) KKM rendelet 10. §-a iktatta be.
+[^132]: A 36/C. §-t a 26/2022. (XII. 23.) KKM rendelet 10. §-a iktatta be.

@@ -1,1 +1,3 @@
-## a HEPA Magyar Exportfejlesztési Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság, valamint a közép-európai térség tekintetében a CED Közép-európai Gazdaságfejlesztési Hálózat Nonprofit Korlátolt Felelősségű Társaság útján, vagy annak közreműködésével látja el.
+42. §[^152] A miniszter feladat- és hatáskörébe tartozó, a minisztérium kormánytisztviselőinek, munkavállalóinak és egyéb jogviszonyban foglalkoztatott munkatársainak oktatási, kulturális, sport- és rekreációs lehetőségeit biztosító programok megszervezésével és ezek feltételeinek biztosításával kapcsolatos feladatokat a KKM Magyar Diplomáciai Akadémia Korlátolt Felelősségű Társaság, valamint a KKM Subsidium Korlátolt Felelősségű Társaság (a továbbiakban: KKM Subsidium Kft.) útján, vagy annak közreműködésével látja el.
+
+[^152]: A 42. § a 17/2020. (XII. 17.) KKM rendelet 5. § d) pontja, a 4/2023. (VII. 19.) KKM rendelet 24. § 26. pontja szerint módosított szöveg.

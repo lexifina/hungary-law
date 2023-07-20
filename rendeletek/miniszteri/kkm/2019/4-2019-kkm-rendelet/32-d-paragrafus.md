@@ -1,4 +1,4 @@
-32/D. §[^36] (1) A jövőbeni uniós szabványhoz idő előtt történő alkalmazkodáshoz nyújtott beruházási támogatás (e § alkalmazásában a továbbiakban: támogatás) olyan beruházáshoz nyújtható, amely lehetővé teszi, hogy a vállalkozás megfeleljen a környezetvédelem szintjét emelő, de még nem hatályos uniós szabványnak.
+32/D. §[^122] (1) A jövőbeni uniós szabványhoz idő előtt történő alkalmazkodáshoz nyújtott beruházási támogatás (e § alkalmazásában a továbbiakban: támogatás) olyan beruházáshoz nyújtható, amely lehetővé teszi, hogy a vállalkozás megfeleljen a környezetvédelem szintjét emelő, de még nem hatályos uniós szabványnak.
 
 (2) Az (1) bekezdés szerinti beruházást az uniós szabvány hatálybalépése előtt legalább egy évvel be kell fejezni.
 
@@ -10,4 +10,4 @@
 
 (6) A támogatás keretében a jövőbeni uniós szabványhoz idő előtt történő alkalmazkodáshoz közvetlenül kapcsolódó, a 32/C. § (2) és (3) bekezdése szerinti beruházási költség számolható el.
 
-[^36]: A 32/D. §-t a 26/2022. (XII. 23.) KKM rendelet 9. §-a iktatta be.
+[^122]: A 32/D. §-t a 26/2022. (XII. 23.) KKM rendelet 9. §-a iktatta be.
