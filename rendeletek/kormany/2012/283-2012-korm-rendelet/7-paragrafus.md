@@ -1,1 +1,3 @@
-## az adott tanárszak képzési és kimeneti követelményeiben meghatározottak szerint.
+7. §[^17]
+
+[^17]: A 7. §-t az 538/2021. (IX. 15.) Korm. rendelet 11. § c) pontja hatályon kívül helyezte.

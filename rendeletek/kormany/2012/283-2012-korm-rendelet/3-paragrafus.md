@@ -10,7 +10,7 @@ ba) pedagógiai, pszichológiai elméleti és gyakorlati,
 
 bb) szakmódszertani (diszciplináris és interdiszciplináris tantárgy-pedagógiai)
 
-## tudás, képesség, attitűd (viszonyulás), valamint
+tudás, képesség, attitűd (viszonyulás), valamint
 
 c) a képzéssel párhuzamosan megszerzett pedagógiai, pszichológiai és tanítási gyakorlat részeként
 

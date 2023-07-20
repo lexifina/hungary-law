@@ -1,3 +1,3 @@
-1. melléklet a 283/2012. (X. 4.) Korm. rendelethez[^30]
+1. melléklet a 283/2012. (X. 4.) Korm. rendelethez[^31]
 
-[^30]: Az 1. melléklet az 538/2021. (IX. 15.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^31]: Az 1. melléklet az 538/2021. (IX. 15.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
