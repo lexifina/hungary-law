@@ -1,3 +1,3 @@
-16. § A KKM rendelet 29. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+16. §[^17]
 
-(Ha a támogatás formája nem piaci kamatozású, legfeljebb tízéves futamidőre nyújtott hitel, annak névértéke nem haladhatja meg)
+[^17]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

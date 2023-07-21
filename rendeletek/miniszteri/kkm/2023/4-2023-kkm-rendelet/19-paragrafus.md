@@ -1,11 +1,3 @@
-## „b) az Atr. 25. § (1) bekezdése szerinti régióban letelepedett vállalkozása esetén a 0,8 millió eurót.”
+19. §[^20]
 
-19. § A KKM rendelet a következő 32/J. §-sal egészül ki:
-
-„32/J. § (1) A szennyezett terület szennyeződésmentesítéséhez nyújtott beruházási támogatás (e § alkalmazásában a továbbiakban: támogatás) a környezeti károk (különösen a talaj, a felszíni vagy felszín alatti vizek károsodása) helyreállításához nyújtható.
-
-(2) A támogatás az elszámolható költségek 100%-áig nyújtható.
-
-(3) A szennyező fizet elvvel összhangban támogatás akkor nyújtható, ha – az uniós környezetvédelmi felelősségi szabályok sérelme nélkül – a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 101. §-a alapján nem állapítható meg a szennyezésért felelős személy kiléte, vagy az nem kötelezhető a költségek viselésére. A támogatás a helyreállítási vagy szennyezés-mentesítési munkák elvégzéséért felelős személy részére nyújtható.
-
-(4) A támogatás keretében a terület szennyeződésmentesítéséhez kapcsolódó, a szennyeződésmentesített földterület független szakértő által meghatározott értéknövekedésével csökkentett költsége számolható el, függetlenül attól, hogy az adott költség tárgyi eszközként feltüntethető-e a kedvezményezett mérlegében.”
+[^20]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

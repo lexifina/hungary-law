@@ -1,3 +1,3 @@
-20. § A KKM rendelet 40/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+20. §[^21]
 
-„(1) A válságtámogatás (a 40/A–40/F. § alkalmazásában a továbbiakban: támogatás) az EUMSz 107. cikk (1) bekezdése szerinti állami támogatásnak minősül, és az „Az állami támogatásokra vonatkozó, az Ukrajna elleni orosz agresszióval összefüggésben a gazdaság támogatását célzó ideiglenes válság- és átállási keret” című, 2023. március 17-i, 2023/C 101/03. számú európai bizottsági közlemény (a 40/A–40/F. § alkalmazásában a továbbiakban: közlemény) 2.1. szakaszának szabályaival összhangban, a 40/A–40/F. § szerinti támogatási programot jóváhagyó európai bizottsági határozat elfogadását követően nyújtható olyan vállalkozásoknak, amelyek működését a háború gazdasági hatásai hátrányosan érintik. Az érintettségről a vállalkozás a támogatás odaítélését megelőzően nyilatkozni köteles.”
+[^21]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-6. § A KKM rendelet 8. §-a helyébe a következő rendelkezés lép:
+6. §[^7]
 
-„8. § E rendelet alapján regionális beruházási támogatás esetén 2023. december 31-ig, mezőgazdasági termékek feldolgozásával vagy forgalmazásával kapcsolatos beruházásokhoz nyújtott támogatás és mezőgazdasági üzemekben végrehajtott, elsődleges mezőgazdasági termeléshez irányuló beruházásokhoz nyújtott támogatás esetén 2030. június 30-ig, mezőgazdasági csekély összegű támogatás esetén 2028. június 30-ig, csekély összegű támogatás, a – regionális beruházási támogatás kivételével – 651/2014/EU bizottsági rendelet szerinti támogatás esetén 2024. június 30-ig lehet támogatási döntést hozni.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

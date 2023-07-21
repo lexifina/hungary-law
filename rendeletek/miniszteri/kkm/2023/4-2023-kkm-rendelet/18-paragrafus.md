@@ -1,5 +1,3 @@
-## „b) az Atr. 25. § (1) bekezdése szerinti régióban letelepedett vállalkozás esetén a hárommillió eurót.”
+18. §[^19]
 
-18. § A KKM rendelet 31. § b) pontja helyébe a következő rendelkezés lép:
-
-(Ha a támogatás formája vissza nem térítendő támogatás – ideértve a sajáttőke-befektetést és a kvázisajáttőke-befektetést is –, kamatlábcsökkentés vagy kezességvállalási díjcsökkentés, annak bruttó támogatási egyenértéke nem haladhatja meg)
+[^19]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

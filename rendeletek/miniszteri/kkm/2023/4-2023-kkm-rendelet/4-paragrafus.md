@@ -1,3 +1,3 @@
-4. § A KKM rendelet 7. § (2) bekezdése helyébe a következő rendelkezés lép:
+4. §[^5]
 
-„(2) A több részletben kifizetett támogatást a támogatási döntés időpontja szerinti értékre kell diszkontálni az állami támogatások versenyszempontú vizsgálatáért felelős szervezet (a továbbiakban: TVI) honlapján közzétett diszkont kamatláb alkalmazásával.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-## „l) a 23–26. § és a 27. § szerinti támogatás a 2022/2472/EU bizottsági rendelet 1. cikk (3) bekezdés a) pontjában foglaltak fennállása esetén.”
+3. §[^4]
 
-3. § A KKM rendelet 6. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Mezőgazdasági termékek feldolgozásával vagy forgalmazásával kapcsolatos beruházásokhoz nyújtott támogatás, valamint mezőgazdasági üzemekben végrehajtott, elsődleges mezőgazdasági termelésre irányuló beruházásokhoz nyújtott támogatás ugyanazon elszámolható költségek tekintetében nem halmozhatók a közös agrárpolitika keretében a tagállamok által elkészítendő stratégiai tervhez (KAP stratégiai terv) nyújtott, az Európai Mezőgazdasági Garanciaalap (EMGA) és az Európai Mezőgazdasági Vidékfejlesztési Alap (EMVA) által finanszírozott támogatásra vonatkozó szabályok megállapításáról, valamint az 1305/2013/EU és az 1307/2013/EUrendelet hatályon kívül helyezéséről szóló, 2021. december 2-i 2021/2115 európai parlamenti és tanácsi rendelet 145. cikk (2) bekezdése és 146. cikke szerinti kifizetésekkel, ha az ilyen halmozódás eredményeként a támogatási intenzitás vagy a támogatási összeg meghaladná a 2022/2472/EU bizottsági rendeletben megállapított értékeket.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

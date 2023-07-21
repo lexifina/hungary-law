@@ -1,9 +1,3 @@
-## „44. uniós szabvány: a 651/2014/EU bizottsági rendelet 2. cikk 102. pontja szerinti szabvány.”
+8. §[^9]
 
-8. § (1) A KKM rendelet 12. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Mezőgazdasági termékek feldolgozásával vagy forgalmazásával kapcsolatos beruházásokhoz nyújtott támogatás, valamint mezőgazdasági üzemekben végrehajtott, elsődleges mezőgazdasági termeléshez irányuló beruházásokhoz nyújtott támogatás, valamint a 651/2014/EU bizottsági rendelet szerinti támogatás – a 651/2014/EU bizottsági rendelet 22., 32. és 53. cikke szerinti támogatás kivételével – csak akkor ítélhető meg, ha a kedvezményezett a 651/2014/EU bizottsági rendelet 6. cikk (2) bekezdésében vagy a 2022/2472/EU bizottsági rendelet 6. cikk (2) bekezdésében meghatározott kötelező tartalmi elemeket tartalmazó támogatási kérelmét a projekt megkezdése előtt írásban benyújtotta.”
-
-(2) A KKM rendelet 12. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Mezőgazdasági termékek feldolgozásával vagy forgalmazásával kapcsolatos beruházásokhoz nyújtott támogatás, mezőgazdasági üzemekben végrehajtott, elsődleges mezőgazdasági termeléshez irányuló beruházásokhoz nyújtott támogatás, megújuló energiához nyújtott beruházási támogatás, kutatás-fejlesztési támogatás és kis- és középvállalkozásoknak nyújtott innovációs támogatás esetén a projekt megkezdésének napja a tevékenységek megkezdése vagy a beruházás építési munkáinak megkezdése, illetve a berendezések megrendelésére vagy szolgáltatások igénybevételére irányuló első, jogilag kötelező érvényű kötelezettségvállalás, vagy bármely egyéb, a projektet vagy a tevékenységet visszafordíthatatlanná tévő kötelezettségvállalás közül a legkorábbi. Nem tekintendő a munkák vagy a tevékenység megkezdésének a földterület megvásárlása, az engedélyek beszerzése és a megvalósíthatósági tanulmányok készítése.”
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
