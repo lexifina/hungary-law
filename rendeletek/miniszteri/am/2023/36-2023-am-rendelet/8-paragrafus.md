@@ -1,3 +1,3 @@
-8. § A 14/2017. (III. 23.) FM rendelet 50. §-a a következő g) ponttal egészül ki:
+8. §[^9]
 
-(E rendelet)
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
