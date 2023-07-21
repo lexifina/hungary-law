@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-54-20-2
 | 2022-01-01 | 2014-54-20-2Y.19 | 18/2021. (IV. 14.) AM rendelet |
 | 2022-07-01 | 2014-54-20-2Y.20 | 69/2015. (XI. 2.) FM rendelet |
 | 2022-12-28 | 2014-54-20-2Y.21 | 35/2018. (XII. 6.) AM rendelet |
+| 2023-07-21 | 2014-54-20-2Y.22 | 35/2018. (XII. 6.) AM rendelet |
