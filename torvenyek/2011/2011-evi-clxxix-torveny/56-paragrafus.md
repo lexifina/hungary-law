@@ -1,13 +1,19 @@
 ## A választás kitűzése
 
-56. § (1) A települési nemzetiségi önkormányzati képviselők választását abban az esetben kell kitűzni, ha a településen az adott nemzetiség önszerveződése fokának és a településen való honosságának vizsgálata alapján az országos nemzetiségi önkormányzat szükségesnek tartja a település nemzetiségi közösségének önigazgatását.
+56. § (1) A települési nemzetiségi önkormányzati képviselők általános választását ki kell tűzni, ha
 
-(2) Az országos nemzetiségi önkormányzat a nemzetiség adott településen való honosságának vizsgálata során köteles kikérni a Magyar Tudományos Akadémia elnökének állásfoglalását.
+a) a településen az adott nemzetiséghez tartozó személyek száma – a legutóbbi népszámlálásnak az adott nemzetiséghez tartozásra vonatkozó kérdéseire nyújtott adatszolgáltatás nemzetiségenként összesített adatai szerint – a 25 főt eléri;
 
-(3) Az országos nemzetiségi önkormányzat azokról a településekről, ahol az (1) bekezdés szerinti vizsgálat alapján a nemzetiségi közösség önigazgatása szükséges, a választást megelőző év november 30-áig tájékoztatja – a Nemzeti Választási Bizottság által meghatározott módon – a Nemzeti Választási Bizottságot.
+b) a településen a nemzetiségi önkormányzati képviselők előző általános választását követően az adott nemzetiség települési önkormányzata megalakult, és az adott nemzetiséghez tartozó személyek száma – a legutóbbi népszámlálásnak az adott nemzetiséghez tartozásra vonatkozó kérdéseire nyújtott adatszolgáltatás nemzetiségenként összesített adatai szerint – a 20 főt eléri; vagy
 
-(4) A területi nemzetiségi önkormányzati képviselők választását ki kell tűzni, ha a fővárosban, vármegyében kitűzött települési választások száma legalább tíz.
+c) a településen nemzetiségi köznevelési intézmény, nemzetiségi szakképző intézmény, vagy nemzetiségi nevelésben-oktatásban részt vevő köznevelési intézmény működött az általános választás évét megelőző év december 1-jén.
 
-(5) Az országos nemzetiségi önkormányzati képviselők választását ki kell tűzni.
+(2) A köznevelésért felelős miniszter irányítása alá tartozó, a nemzeti köznevelésről szóló 2011. évi CXC. törvény 94. § (4) bekezdés k) pontjában, valamint a szakképzésért felelős miniszter irányítása alá tartozó, a szakképzésről szóló 2019. évi LXXX. törvény 123. § (1) bekezdés 1. pontja alapján kijelölt szerv az általános választás évében január 15-ig nemzetiségenkénti bontásban megküldi a Nemzeti Választási Bizottságnak azon települések listáját, ahol az általános választás évét megelőző év december 1-jén működő nemzetiségi köznevelési intézményt, nemzetiségi szakképző intézményt, vagy nemzetiségi nevelésben-oktatásban részt vevő köznevelési intézményt tart nyilván.
 
-(6) Az (1) bekezdéstől eltérően települési nemzetiségi önkormányzati képviselők választását akkor is ki kell tűzni, ha a településen az adott nemzetiséghez tartozó személyek száma – a legutóbbi népszámlálásnak az adott nemzetiséghez tartozásra vonatkozó kérdéseire nyújtott adatszolgáltatás nemzetiségenként összesített adatai szerint – a huszonöt főt eléri, és a településen adott nemzetiségi önkormányzat működik.
+(3) A területi nemzetiségi önkormányzati képviselők általános választását ki kell tűzni, ha a fővárosban, vármegyében kitűzött települési nemzetiségi önkormányzati választások száma legalább tíz.
+
+(4) Az országos nemzetiségi önkormányzati képviselők általános választását ki kell tűzni.
+
+(5)
+
+(6)

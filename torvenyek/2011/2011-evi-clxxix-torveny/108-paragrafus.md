@@ -40,4 +40,6 @@ b) a lemondás bejelentésének, vagy írásbeli benyújtás esetén a nemzetis�
 
 (8) A bíróság határozata ellen nincs helye perújításnak.
 
-(9) Az elnökhelyettesre az elnökre irányadó szabályokat kell alkalmazni.
+(9) Az elnökhelyettesre a (10) bekezdés szerinti eltéréssel az elnökre irányadó szabályokat kell alkalmazni.
+
+(10) Az elnökhelyettes megbízatása megszűnik abban az esetben is, ha a megbízását a képviselő-testület, a közgyűlés az elnök javaslatára, titkos szavazással, minősített többséggel visszavonja.

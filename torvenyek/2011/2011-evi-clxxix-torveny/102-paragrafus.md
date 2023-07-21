@@ -22,7 +22,7 @@ j) ha a nemzetiségi önkormányzati képviselő annak az ülésnek az időpontj
 
 k) a képviselő halálával.
 
-(2) Az (1) bekezdés a)–f) és j) pontja esetén a képviselő-testület, közgyűlés határozatban állapítja meg a képviselői megbízatás megszűnését. Határozatát a döntéshozatalt követő munkanapon megküldi
+(2) Az (1) bekezdés c)–f) és j) pontja esetén a képviselő-testület, közgyűlés határozatban állapítja meg a képviselői megbízatás megszűnését. Határozatát a döntéshozatalt követő munkanapon megküldi
 
 a) az érintett képviselőnek,
 

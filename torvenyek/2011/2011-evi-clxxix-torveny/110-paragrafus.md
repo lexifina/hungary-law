@@ -12,7 +12,7 @@ d) a bizottság tagja esetében a köztisztviselői illetményalap hatszorosán�
 
 e) képviselő esetében a köztisztviselői illetményalap négyszeresénél.
 
-(3) Ha az országos önkormányzatnak költségvetési támogatási, illetve európai uniós forrásból visszafizetésre vonatkozó kötelezettsége áll fenn, a visszafizetési kötelezettség fennállásának időtartama alatt – az (1) és (2) bekezdésben foglaltaktól eltérően – az illetmény, illetve a tiszteletdíj összege nem lehet magasabb a (4) és (5) bekezdésben foglaltaknál.
+(3) Ha az országos önkormányzatnak költségvetési támogatási vagy európai uniós forrásból visszafizetésre vonatkozó kötelezettsége áll fenn, a visszafizetési kötelezettség fennállásának időtartama alatt – az (1) és (2) bekezdésben foglaltaktól eltérően – az illetmény, illetve a tiszteletdíj összege nem lehet magasabb a (4) és (5) bekezdésben foglaltaknál.
 
 (4) Az országos önkormányzat által az elnök részére megállapított illetmény összege nem lehet magasabb a közszolgálati tisztviselőkről szóló törvény szerinti illetményalap nyolcszorosánál, valamint az elnökhelyettes részére megállapított illetmény összege nem lehet magasabb a közszolgálati tisztviselőkről szóló törvény szerinti illetményalap hatszorosánál.
 

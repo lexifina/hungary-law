@@ -1,4 +1,4 @@
-24. § (1) A nemzetiségi önkormányzat köznevelési intézményt, illetve szakképző intézményt alapíthat és tarthat fenn. A nemzetiségi önkormányzat által fenntartott
+24. § (1) A nemzetiségi önkormányzat – helyi nemzetiségi önkormányzat esetén az országos nemzetiségi önkormányzat egyetértésével – köznevelési intézményt, illetve szakképző intézményt alapíthat, vagy fenntartásba átvehet. A nemzetiségi önkormányzat által fenntartott
 
 a) köznevelési intézmény vezetőjét a köznevelésért felelős miniszter,
 

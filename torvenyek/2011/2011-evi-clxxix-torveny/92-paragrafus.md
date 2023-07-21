@@ -4,6 +4,8 @@ a) egyszerű többséget igénylő döntés esetén a döntéshozatalnál jelenl
 
 b) minősített többséget igénylő döntés esetén a megválasztott képviselők több mint a felének igen szavazata szükséges.
 
+(1a) Az (1) bekezdésben foglaltak mellett a képviselői megbízatás megszűnésével összefüggő, a 102. § (2) bekezdése szerinti döntéshozatal során a jelenlévők létszámába be kell számítani – jelenlététől függetlenül – az érintett képviselőt is.
+
 (2) Az előírt támogatottság hiányában az előterjesztett javaslat elutasítottnak tekintendő.
 
 (3) A képviselő-testület, közgyűlés a törvény vagy a szervezeti és működési szabályzat eltérő rendelkezése hiányában egyszerű szótöbbséggel hozza meg a döntését.

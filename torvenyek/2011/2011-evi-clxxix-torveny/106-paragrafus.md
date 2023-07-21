@@ -16,7 +16,7 @@
 
 (8) A fővárosi és vármegyei kormányhivatal közigazgatási pert indíthat az elnök összeférhetetlenségének kimondása iránt, ha a képviselő-testület, közgyűlés nem dönt az összeférhetetlenségről, vagy döntése jogszabálysértő.
 
-(9) Az összeférhetetlenségre vonatkozó rendelkezéseket az elnökhelyettesre és a nemzetiségi önkormányzati képviselőre is alkalmazni kell azzal, hogy nemzetiségi önkormányzati képviselő lehet az is, aki ugyanannál a nemzetiségi önkormányzatnál a nemzetiségi önkormányzat által létesített vagy fenntartott intézmény vezetője.
+(9) Az (1)–(8) bekezdés szerinti rendelkezéseket az elnökhelyettesre és a nemzetiségi önkormányzati képviselőre is alkalmazni kell azzal, hogy nemzetiségi önkormányzati képviselő esetében nem minősül összeférhetetlenségi oknak, ha a nemzetiségi önkormányzati képviselő ugyanannál a nemzetiségi önkormányzatnál a nemzetiségi önkormányzat által létesített vagy fenntartott intézmény vezetője.
 
 (10)
 

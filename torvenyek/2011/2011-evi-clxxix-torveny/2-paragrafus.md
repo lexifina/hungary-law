@@ -46,6 +46,10 @@ c) nemzetiségi közösségi színtér:
 
 nemzetiségi lakosság rendszeres vagy alkalmi közművelődési tevékenységének, a lakosság önszerveződő közösségeinek kulturális szolgáltatásokkal való ellátása érdekében közművelődési megállapodás alapján működtetett, erre a célra alkalmassá tett és üzemeltetett, adott településen (településeken) rendszeresen működő intézmény;
 
+d) nemzetiségi színház:
+
+az országos nemzetiségi önkormányzat nyilatkozatával elismert, nemzetiségi nyelven játszó színház vagy magyar nyelven játszó színház, amelynek az adott nemzetiséghez kötődő alkotóközösségei által létrehozott előadásai alapvetően e nemzetiségi közösség anyanyelvű művelődési igényeinek kielégítését szolgálják és kötődnek a nemzetiségi közösség szociokulturális hátteréhez, hagyományaihoz;
+
 6. nemzetiségi feladatot ellátó tudományos intézmény:
 
 alapító okirata, illetve tevékenysége szerint részben vagy egészben egy vagy több nemzetiség anyanyelvén, illetve más nyelveken az adott közösség szellemi, épített és tárgyi emlékeire, hagyományaira, kultúrájára, történelmére, nyelvére, intézményeire, társadalmi viszonyaira vonatkozó adatok gyűjtésével, tudományos értékű feldolgozásával és közzétételével foglakozó intézete, vagy műhelye, tekintet nélkül annak szervezet-típusára;

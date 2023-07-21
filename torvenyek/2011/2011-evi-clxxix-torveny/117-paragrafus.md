@@ -28,6 +28,6 @@ c) ellátja az általa képviselt nemzetiség érdekeinek országos szintű kép
 
 d) a nemzetiségi kulturális autonómia fejlesztése érdekében országos szintű nemzetiségi intézményhálózatot tart fenn,
 
-e) az 56. § (1) bekezdése szerinti javaslat megtétele.
+e)
 
 (3) Az országos nemzetiségi önkormányzat elláthatja továbbá a 116. § (1) bekezdésében felsorolt közfeladatokat, valamint az érintett miniszter engedélyével szociális ellátó intézmény alapítására és fenntartására jogosult.
