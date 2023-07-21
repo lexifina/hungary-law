@@ -16,9 +16,9 @@
 
 7. házi tyúk: 17 hétnél idősebb, átminősített nő- és hímivarú tenyész-tyúkféle, valamint nőivarú étkezési tojást termelő tyúkféle;
 
-8. mezőgazdasági csekély összegű támogatás: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet alapján nyújtott támogatás;
+8.[^1]
 
-9. nagyvállalkozás: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdészeti ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2014. június 25-i 702/2014/EU bizottsági rendelet I. mellékletében meghatározott kritériumokat nem teljesítő vállalkozás;
+9.[^2] nagyvállalkozás: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdőalapú ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2022. december 14-i (EU) 2022/2472 bizottsági rendelet (a továbbiakban: mezőgazdasági csoportmentességi rendelet) I. mellékletében meghatározott kritériumokat nem teljesítő vállalkozás;
 
 10. naposkori letelepítés: a baromfiállomány keltető állomásról a baromfinevelő telepre érkezése, rendkívüli esetben nem közvetlenül a keltetőből, hanem közbeiktatott átmeneti telepről a szolgáltató állatorvos igazolásával történő érkezése;
 
@@ -57,3 +57,6 @@ tartó időszak;
 22. támogatási év: tárgyév április 16-tól a következő év április 15-ig tartó időszak.
 
 (2) Az (1) bekezdés 2. pontja tekintetében a több szakaszú nevelésű vagy hasznosítású állományokat ugyanazon állománynak kell tekinteni, még a tartási hely megváltozása esetén is.
+
+[^1]: Az 1. § (1) bekezdés 8. pontját a 43/2023. (VII. 20.) AM rendelet 4. § a) pontja hatályon kívül helyezte.
+[^2]: Az 1. § (1) bekezdés 9. pontja a 43/2023. (VII. 20.) AM rendelet 1. §-ával megállapított szöveg.

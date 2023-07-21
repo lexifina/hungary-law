@@ -1,4 +1,4 @@
-6/A. §[^17] (1) Ha a kérelemre indult eljárásban foglalt kötelezettségek elektronikus úton történő teljesítése során az igénylő helyett és nevében meghatalmazottja jár el, a meghatalmazott a Kincstár által biztosított elektronikus azonosítási szolgáltatással elérhető elektronikus űrlapkitöltő felületet használja az eljárási cselekmények elektronikus elvégzéséhez. A meghatalmazott útján történő eljárásra az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló 22/2016. (IV. 5.) FM rendelet meghatalmazásra vonatkozó rendelkezéseit az e rendeletben foglalt eltérésekkel kell alkalmazni.
+6/A. §[^20] (1) Ha a kérelemre indult eljárásban foglalt kötelezettségek elektronikus úton történő teljesítése során az igénylő helyett és nevében meghatalmazottja jár el, a meghatalmazott a Kincstár által biztosított elektronikus azonosítási szolgáltatással elérhető elektronikus űrlapkitöltő felületet használja az eljárási cselekmények elektronikus elvégzéséhez. A meghatalmazott útján történő eljárásra az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló 22/2016. (IV. 5.) FM rendelet meghatalmazásra vonatkozó rendelkezéseit az e rendeletben foglalt eltérésekkel kell alkalmazni.
 
 (2) A kérelemre indult eljárás során minden dokumentumot, így a hiánypótláshoz kapcsolódó dokumentumokat és – a felügyeleti eljárás kivételével – a jogorvoslati eljáráshoz kapcsolódó dokumentumokat (a továbbiakban együtt: beadvány) is az elektronikus űrlapkitöltő felületen keresztül kell benyújtani. A nem elektronikus úton benyújtott beadvány a döntés meghozatalánál nem vehető figyelembe.
 
@@ -6,4 +6,4 @@
 
 (4) Az eljárás során – a felügyeleti eljárás kivételével – kötelező az elektronikus kapcsolattartás. A kötelező elektronikus kapcsolattartásra tekintettel a Kincstár az értesítéseket, dokumentumokat, valamint a döntéseit elektronikus úton közli a kérelmezővel vagy meghatalmazottjával.
 
-[^17]: A 6/A. §-t a 160/2022. (XII. 27.) AM rendelet 6. §-a iktatta be.
+[^20]: A 6/A. §-t a 160/2022. (XII. 27.) AM rendelet 6. §-a iktatta be.

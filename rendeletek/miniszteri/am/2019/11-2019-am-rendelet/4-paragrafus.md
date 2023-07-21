@@ -1,4 +1,4 @@
-4. § (1)[^3] E rendelet alapján
+4. § (1)[^5] E rendelet alapján
 
 a) letelepített napos baromfi közül
 
@@ -42,4 +42,4 @@ a 2019/2020. támogatási évben legfeljebb 13,82403 milliárd forint, a 2020/20
 
 (8) A Tv. 45/B. §-a szerinti kötelezettség-átadásra jelen intézkedés vonatkozásában nincs lehetőség.
 
-[^3]: A 4. § (1) bekezdés nyitó szövegrésze a 39/2020. (VII. 30.) AM rendelet 6. §-a, záró szövegrésze a 39/2020. (VII. 30.) AM rendelet 5. §-a, a 64/2020. (XII. 16.) AM rendelet 12. § a) pontja, a 2/2021. (II. 15.) AM rendelet 11. §-a, a 29/2021. (VIII. 31.) AM rendelet 6. § a) pontja, az 50/2021. (XII. 29.) AM rendelet 27. § a) pontja, a 160/2022. (XII. 27.) AM rendelet 9. § a) pontja szerint módosított szöveg. [A 6/2022. (II. 11.) AM rendelet 2. § a) pontjával elrendelt módosítás, amely szerint az „a 2021/2022. támogatási évben legfeljebb 10,100 millió forint” szövegrész helyébe az „a 2021/2022. támogatási évben legfeljebb 12,000 millió forint” szöveg lép, nem vezethető át.]
+[^5]: A 4. § (1) bekezdés nyitó szövegrésze a 39/2020. (VII. 30.) AM rendelet 6. §-a, záró szövegrésze a 39/2020. (VII. 30.) AM rendelet 5. §-a, a 64/2020. (XII. 16.) AM rendelet 12. § a) pontja, a 2/2021. (II. 15.) AM rendelet 11. §-a, a 29/2021. (VIII. 31.) AM rendelet 6. § a) pontja, az 50/2021. (XII. 29.) AM rendelet 27. § a) pontja, a 160/2022. (XII. 27.) AM rendelet 9. § a) pontja szerint módosított szöveg. [A 6/2022. (II. 11.) AM rendelet 2. § a) pontjával elrendelt módosítás, amely szerint az „a 2021/2022. támogatási évben legfeljebb 10,100 millió forint” szövegrész helyébe az „a 2021/2022. támogatási évben legfeljebb 12,000 millió forint” szöveg lép, nem vezethető át.]
