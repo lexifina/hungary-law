@@ -1,5 +1,5 @@
 ## 4. A Klebelsberg Képzési Ösztöndíjról szóló 52/2013. (II. 25.) Korm. rendelet módosítása
 
-7. § A Klebelsberg Képzési Ösztöndíjról szóló 52/2013. (II. 25.) Korm. rendelet [a továbbiakban: 52/2013. (II. 25.) Korm. rendelet] 13. §-a a következő c) ponttal egészül ki:
+7. §[^7]
 
-(Az ösztöndíjprogramban a tankerületi központ által fenntartott köznevelési intézményen kívül a miniszterhez intézett, részvételi szándékukat kifejező nyilatkozatuk alapján ellenérték fizetése nélkül részt vehetnek)
+[^7]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

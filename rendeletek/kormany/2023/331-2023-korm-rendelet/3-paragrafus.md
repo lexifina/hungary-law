@@ -1,1 +1,3 @@
-3. § Hatályát veszti az 51/2007. (III. 26.) Korm. rendelet 6. §-ában a „saját bevétele terhére,” szövegrész.
+3. §[^3]
+
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

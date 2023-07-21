@@ -1,7 +1,3 @@
-2. § Az 51/2007. (III. 26.) Korm. rendelet
+2. §[^2]
 
-a) 14. § (1) bekezdésében a „doktorandusz ösztöndíjának” szövegrész helyébe a „doktorandusz-ösztöndíjának (a továbbiakban: doktorandusz-ösztöndíj)” szöveg,
-
-b) 14. § (2) bekezdésében a „bekezdésében” szövegrész helyébe az „és az (1a) bekezdés szerint” szöveg
-
-lép.
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
