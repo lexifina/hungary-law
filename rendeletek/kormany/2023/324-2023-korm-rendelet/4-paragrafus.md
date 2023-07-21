@@ -1,1 +1,3 @@
-4. § Hatályát veszti a Korm. rendelet 5/A. § (1a) és (14)–(18) bekezdése.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
