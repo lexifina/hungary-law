@@ -24,10 +24,12 @@
 
 10. mezőgazdasági termék forgalmazása: a 37/2011. (III. 22.) Korm. rendelet 2. § 10f. pontja szerinti tevékenység;
 
-11. minőségrendszerek: az agrár- és erdészeti ágazatban nyújtott állami támogatásokról szóló európai uniós iránymutatások, 2014–2020 (2014/C 204/01) (a továbbiakban: agrár- és erdészeti iránymutatás) (282) bekezdésében hivatkozott minőségrendszerek;
+11.[^1] minőségrendszerek: az „Iránymutatások a mezőgazdasági és erdészeti ágazatban, valamint a vidéki térségekben nyújtott állami támogatásokról” szóló, 2022. december 21-i 2022/C 485/01 számú bizottsági közlemény (a továbbiakban: agrár- és erdészeti iránymutatás) (274) pontja szerinti minőségrendszerek;
 
 12. nagyvállalkozás: a 651/2014/EU bizottsági rendelet I. melléklete szerinti feltételeknek meg nem felelő vállalkozás;
 
 13. nehéz helyzetben lévő vállalkozás: a 37/2011. (III. 22.) Korm. rendelet 6. §-a szerinti vállalkozás;
 
 14. támogatási intenzitás: a 37/2011. (III. 22.) Korm. rendelet 2. § 15. pontja szerinti intenzitás.
+
+[^1]: Az 1. § 11. pontja a 41/2023. (VII. 20.) AM rendelet 1. §-ával megállapított szöveg.

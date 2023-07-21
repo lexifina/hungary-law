@@ -10,6 +10,6 @@
 
 (5) A támogatási döntésről – annak meghozatalát követő tizenöt napon belül – a lebonyolító szerv írásban értesíti a kedvezményezettet.
 
-(6)[^1]
+(6)[^2]
 
-[^1]: A 4. § (6) bekezdését az 56/2020. (XI. 6.) AM rendelet 31. §-a hatályon kívül helyezte.
+[^2]: A 4. § (6) bekezdését az 56/2020. (XI. 6.) AM rendelet 31. §-a hatályon kívül helyezte.

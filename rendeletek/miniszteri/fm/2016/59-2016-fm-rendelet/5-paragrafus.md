@@ -16,13 +16,13 @@ e) olyan tevékenység vonatkozásában, amelyet az import áru helyett hazai á
 
 (4) A kedvezményezett köteles a támogatással kapcsolatos okiratokat és dokumentumokat a támogatási döntés meghozatala napjától számított tíz évig megőrizni.
 
-(5) A támogatást nyújtó
+(5)[^3] A támogatást nyújtó
 
-a) az elsődleges mezőgazdasági termeléssel foglalkozó kedvezményezettek esetében a 60 000 eurónak megfelelő forintösszeget meghaladó támogatásokról,
+a)[^4] az elsődleges mezőgazdasági termeléssel foglalkozó kedvezményezettek esetében a 10 000 eurónak megfelelő forintösszeget meghaladó támogatásokról,
 
-b) a mezőgazdasági termékek feldolgozásával vagy mezőgazdasági termékek forgalmazásával foglalkozó, az erdészeti ágazatban működő vagy az EUMSz 42. cikkének hatályán kívül eső tevékenységet folytató kedvezményezettek esetében az 500 000 eurónak megfelelő forintösszeget meghaladó támogatásokról
+b)[^5] a mezőgazdasági termékek feldolgozásával vagy mezőgazdasági termékek forgalmazásával foglalkozó, az erdészeti ágazatban működő vagy az EUMSz 42. cikkének hatályán kívül eső tevékenységet folytató kedvezményezettek esetében a 100 000 eurónak megfelelő forintösszeget meghaladó támogatásokról
 
-## az agrár- és erdészeti iránymutatás 3.7. pontja szerinti közzététel céljából adatot szolgáltat a Támogatásokat Vizsgáló Iroda, mint az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére.
+az agrár- és erdészeti iránymutatás 3.2.4. szakasza szerinti közzététel céljából adatot szolgáltat a Támogatásokat Vizsgáló Iroda, mint az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére.
 
 (6) Az (5) bekezdés szerinti adatszolgáltatást a támogatást nyújtó a 37/2011. (III. 22.) Korm. rendelet 18/A–18/D. §-a szerint teljesíti.
 
@@ -30,7 +30,7 @@ b) a mezőgazdasági termékek feldolgozásával vagy mezőgazdasági termékek 
 
 a) a kedvezményezett nevét, székhelyét, adószámát,
 
-b) a kedvezményezett az agrár- és erdészeti iránymutatás 2.4. pont (35) bekezdés 13. és 14. alpont szerinti típusát (kis- és középvállalkozás vagy nagyvállalat),
+b)[^6] a kedvezményezett az agrár- és erdészeti iránymutatás 2.4. szakasz (33) pont 36. és 56. alpont szerinti típusát (kis- és középvállalkozás vagy nagyvállalat),
 
 c) a kedvezményezett főtevékenységét a mindenkor hatályos TEÁOR nomenklatúra szerint, egyéni vállalkozó esetén ÖVTJ-kódok szerint,
 
@@ -45,3 +45,8 @@ g) a támogatás célját és
 h) a támogatást nyújtó hatóság megnevezését.
 
 (8) A támogatástartalom forintról euróra történő átszámításánál a 37/2011. (III. 22.) Korm. rendelet 35. §-a alkalmazandó.
+
+[^3]: Az 5. § (5) bekezdés záró szövegrésze a 41/2023. (VII. 20.) AM rendelet 7. § c) pontja szerint módosított szöveg.
+[^4]: Az 5. § (5) bekezdés a) pontja a 41/2023. (VII. 20.) AM rendelet 7. § a) pontja szerint módosított szöveg.
+[^5]: Az 5. § (5) bekezdés b) pontja a 41/2023. (VII. 20.) AM rendelet 7. § b) pontja szerint módosított szöveg.
+[^6]: Az 5. § (7) bekezdés b) pontja a 41/2023. (VII. 20.) AM rendelet 7. § d) pontja szerint módosított szöveg.

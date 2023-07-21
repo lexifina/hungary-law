@@ -12,13 +12,13 @@ a) a kis- és középvállalkozásnak minősülő kedvezményezett vonatkozásba
 
 aa) részvételi díj,
 
-ab) útiköltség, illetve állat szállításának költsége,
+ab)[^16] utazási költségek és a versenyeken, kereskedelmi vásárokon és kiállításokon való részvétellel érintett termékek szállításának költsége,
 
 ac) az eseményt hirdető kiadvány és honlap költsége,
 
 ad) helyiség és stand bérleti díja, valamint a stand felállításának és lebontásának költsége,
 
-ae) versenydíjanként és győztesenként legfeljebb 1000 eurónak megfelelő forintösszeg értékű díj, amely – a díj kiosztásának igazolását követően – a promóciós intézkedés végrehajtójának közvetlenül is kifizethető;
+ae)[^17] jelképes díjanként, versenydíjanként és -győztesenként legfeljebb 3000 eurónak megfelelő forintösszeg értékű díj, amely – a díj kiosztásának igazolását követően – a promóciós intézkedés végrehajtójának közvetlenül is kifizethető;
 
 b) az egy adott régióban működő vagy egy adott terméket előállító termelőket tényszerű információk közzététele útján ismertető, a nyomtatott és az elektronikus médiában megjelenő kiadvány, illetve honlap, továbbá az elektronikus médiában, rádióban vagy televízióban megjelenő anyag költsége azzal a feltétellel, hogy a közzétett információnak részrehajlástól mentesnek kell lennie és az ismertető anyagban valamennyi termelőnek azonos feltételekkel kell szerepelnie;
 
@@ -49,3 +49,6 @@ a) a promóciós tevékenység vagy kampány az Európai Unió által elismert e
 b) a promóciós tevékenység vagy kampány az Európai Unió által elismert elnevezésen alapuló minőségrendszertől eltérő minőségrendszer hatálya alá tartozó termékre irányul, feltéve, hogy az az üzenetben másodlagos vagy annak fogyasztására ösztönöz.
 
 (9) A (8) bekezdés b) pontja szerinti, származásra való hivatkozás nem lehet diszkriminatív, nem irányulhat a mezőgazdasági termék fogyasztásának kizárólag a termék eredetére való hivatkozással való ösztönzésére, valamint nem vezethet a mezőgazdasági termékek szabad mozgásának az EUMSz 34. cikkével ellentétes korlátozásához.
+
+[^16]: A 12. § (4) bekezdés a) pont ab) alpontja a 41/2023. (VII. 20.) AM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^17]: A 12. § (4) bekezdés a) pont ae) alpontja a 41/2023. (VII. 20.) AM rendelet 5. § (2) bekezdésével megállapított szöveg.

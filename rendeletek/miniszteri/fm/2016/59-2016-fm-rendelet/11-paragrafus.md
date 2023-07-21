@@ -2,30 +2,41 @@
 
 11. § (1) A tanácsadási szolgáltatáshoz nyújtott támogatás alapján a kedvezményezettek tanácsadási szolgáltatást vehetnek igénybe beruházásuk gazdasági és környezeti teljesítményének javítása, valamint annak éghajlatkímélőbbé és az éghajlatváltozással szemben ellenállóbbá tétele érdekében.
 
-(2) A tanácsadásnak az 1305/2013/EU európai parlamenti és tanácsi rendelet 5. cikke szerinti prioritások közül legalább egyhez kapcsolódnia kell, továbbá ki kell terjednie
+(2)[^12] A tanácsadásnak az (EU) 2021/2115 európai parlamenti és tanácsi rendelet 6. cikk (1) bekezdése szerinti egyedi célkitűzések közül legalább egyhez kapcsolódnia kell, továbbá a következő elemek közül legalább egyre ki kell terjednie:
 
-a) a közös agrárpolitika finanszírozásáról, irányításáról és monitoringjáról és a 352/78/EGK, a 165/94/EK, a 2799/98/EK, a 814/2000/EK, az 1290/2005/EK és a 485/2008/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1306/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1306/2013/EU európai parlamenti és tanácsi rendelet) 91–95. cikkében meghatározott, jogszabályban foglalt gazdálkodási követelményekből vagy az ugyanott szereplő, a jó mezőgazdasági és környezeti állapotra vonatkozó előírásokból következő kötelezettségekre,
+a) az (EU) 2021/2115 európai parlamenti és tanácsi rendelet III. cím I. fejezet 2. szakasza szerinti, jogszabályban foglalt gazdálkodási követelményekből és a GAEC-előírásokból eredő kötelezettségek;
 
-b) a közös agrárpolitika keretébe tartozó támogatási rendszerek alapján a mezőgazdasági termelők részére nyújtott közvetlen kifizetésekre vonatkozó szabályok megállapításáról, valamint a 637/2008/EK és a 73/2009/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1307/2013/EU európai parlamenti és tanácsi rendelet 4. cikk (1) bekezdés c) pontja szerinti mezőgazdasági terület, valamint a 43–47. cikkében meghatározott, az éghajlatra és a környezetre kedvező hatást gyakorló mezőgazdasági gyakorlatok fenntartására,
+b) az (EU) 2021/2115 európai parlamenti és tanácsi rendelet 31. cikke szerinti, az éghajlat és a környezet szempontjából előnyös mezőgazdasági gyakorlatok, valamint a mezőgazdasági területnek az (EU) 2021/2115 rendelet 4. cikk (2) bekezdés b) pontjában említetteknek megfelelő állapotban tartása;
 
-c) a korszerűsítést, a versenyképesség fokozását, az ágazati integrációt, az innovációt, a piacorientáltságot, valamint a vállalkozásösztönzést szolgáló intézkedésekre,
+c) a tagállamok által a vízpolitika terén a közösségi fellépés kereteinek meghatározásáról szóló, 2000. október 23-i 2000/60/EK európai parlamenti és tanácsi irányelv, a természetes élőhelyek, valamint a vadon élő állatok és növények védelméről szóló, 1992. május 21-i 92/43/EGK tanácsi irányelv, a vadon élő madarak védelméről szóló, 2009. november 30-i 2009/147/EK európai parlamenti és tanácsi irányelv, a környezeti levegő minőségéről és a Tisztább levegőt Európának elnevezésű programról szóló, 2008. május 21-i 2008/50/EK európai parlamenti és tanácsi irányelv, egyes légköri szennyező anyagok nemzeti kibocsátásainak csökkentéséről, a 2003/35/EK irányelv módosításáról, valamint a 2001/81/EK irányelv hatályon kívül helyezéséről szóló, 2016. december 14-i (EU) 2016/2284 európai parlamenti és tanácsi irányelv, a növénykárosítókkal szembeni védekező intézkedésekről, a 228/2013/EU, a 652/2014/EU és az 1143/2014/EU európai parlamenti és tanácsi rendelet módosításáról, valamint a 69/464/EGK, a 74/647/EGK, a 93/85/EGK, a 98/57/EK, a 2000/29/EK, a 2006/91/EK és a 2007/33/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2016. október 26-i (EU) 2016/2031 európai parlamenti és tanácsi rendelet, a fertőző állatbetegségekről és egyes állategészségügyi jogi aktusok módosításáról és hatályon kívül helyezéséről szóló, 2016. március 9-i (EU) 2016/429 európai parlamenti és tanácsi rendelet, a növényvédő szerek forgalomba hozataláról valamint a 79/117/EGK és a 91/414/EGK tanácsi irányelvek hatályon kívül helyezéséről szóló, 2009. október 21-i 1107/2009/EK európai parlamenti és tanácsi rendelet 55. cikke, valamint a peszticidek fenntartható használatának elérését célzó közösségi fellépés kereteinek meghatározásáról szóló, 2009. október 21-i 2009/128/EK európai parlamenti és a tanácsi irányelv végrehajtására vonatkozóan előírt követelmények;
 
-d) a vízpolitika terén a közösségi fellépés kereteinek meghatározásáról szóló, 2000. október 23-i 2000/60/EK európai parlamenti és európai unió tanácsi irányelv 11. cikk (3) bekezdésében foglaltak végrehajtása céljából a tagállamok által meghatározott követelményekre,
+d) „Az egységes egészségügyi megközelítés szerinti európai cselekvési terv az antimikrobiális rezisztencia (AMR) leküzdése érdekében” című, 2017. június 29-i COM (2017) 339. számú bizottsági közleményben meghatározott, az antimikrobiális rezisztencia kialakulásának megelőzését célzó gazdálkodási gyakorlatok;
 
-e) a növényvédő szerek forgalomba hozataláról, valamint a 79/117/EGK és a 91/414/EGK tanácsi irányelvek hatályon kívül helyezéséről szóló, 2009. október 21-i 1107/2009/EK európai parlamenti és tanácsi rendelet 55. cikke végrehajtása céljából a tagállamok által megállapított követelményeknek és a peszticidek fenntartható használatának elérését célzó közösségi fellépés kereteinek meghatározásáról szóló, 2009. október 21-i 2009/128/EK európai parlamenti és tanácsi irányelv 14. cikke szerinti, az integrált növényvédelemre vonatkozó általános elveknek való megfelelésre,
+e) kockázatmegelőzés és -kezelés;
 
-f) a munkahelyi vagy a mezőgazdasági üzemhez kapcsolódó biztonsági előírásnak való megfelelés teljesítésére vagy
+f) a mezőgazdasági üzem korszerűsítését, a versenyképesség fokozását, az ágazati integrációt, az innovációt, a piacorientáltságot, valamint a vállalkozásösztönzést szolgáló intézkedések;
 
-g) az olyan mezőgazdasági termelő számára történő szaktanácsadásra – ideértve a gazdasági és környezeti fenntarthatóságra vonatkozó tanácsadást is –, aki vagy amely első alkalommal folytat gazdálkodási tevékenységet.
+g) az (EU) 2021/2115 európai parlamenti és tanácsi rendelet 114. cikk b) pontja szerinti digitális technológiák korszerűsítése a mezőgazdaságban;
 
-(3) A (2) bekezdésen meghatározottakon túlmenően a tanácsadás kiterjedhet
+h) a tápanyagokkal való fenntartható gazdálkodás, beleértve – legkésőbb 2024-től kezdődően – a gazdaságok fenntarthatóságát elősegítő tápanyag-gazdálkodási eszköz használatát, az (EU) 2021/2115 európai parlamenti és tanácsi rendelet 15. cikk (4) bekezdés g) pontjában foglaltak szerint;
 
-a) az 1306/2013/EU európai parlamenti és tanácsi rendelet I. melléklete szerinti, az éghajlatváltozás mérséklésével, az éghajlatváltozáshoz való alkalmazkodással, a biológiai sokféleséggel és a vízvédelemmel vagy
+i) foglalkoztatási feltételek és munkáltatói kötelezettségek, valamint munkahelyi egészségvédelem és biztonság, továbbá szociális támogatás a mezőgazdasági közösségekben;
 
-b) a mezőgazdasági üzem gazdasági és környezeti teljesítményével, versenyképességi szempontjaival
+j) fenntartható takarmánytermelés, a takarmány tápanyagtartalom és takarmányértékek tekintetében történő értékelése, a haszonállatok igény szerinti etetésének dokumentálása, tervezése és ellenőrzése.
 
-## összefüggő kérdésekre is.
+(3)[^13]
 
 (4) A támogatás vonatkozásában közvetlen kifizetést a tanácsadási szolgáltató részére kell teljesíteni.
 
-(5) A támogatás összege tanácsadásonként nem haladhatja meg az 1500 eurónak megfelelő forintösszeget.
+(5)[^14] A támogatás bármely hároméves időszakban nem haladhatja meg a következő összegeket:
+
+a) 25 000 eurónak megfelelő forintösszeg elsődleges mezőgazdasági termeléssel foglalkozó vállalkozásonként;
+
+b) 200 000 eurónak megfelelő forintösszeg mezőgazdasági termék feldolgozásával és forgalmazásával foglalkozó vállalkozásonként.
+
+(6)[^15] Az e § alapján támogatott intézkedéseknek összhangban kell lenniük a mezőgazdasági ismeretek és innovációk rendszerének (AKIS) a magyar Közös Agrárpolitikai Stratégiai Tervben szereplő leírásával.
+
+[^12]: A 11. § (2) bekezdése a 41/2023. (VII. 20.) AM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^13]: A 11. § (3) bekezdését a 41/2023. (VII. 20.) AM rendelet 8. §-a hatályon kívül helyezte.
+[^14]: A 11. § (5) bekezdése a 41/2023. (VII. 20.) AM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^15]: A 11. § (6) bekezdését a 41/2023. (VII. 20.) AM rendelet 4. § (3) bekezdése iktatta be.
