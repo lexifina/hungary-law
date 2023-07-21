@@ -1,3 +1,3 @@
-5. § A 168/2004. (V. 25.) Korm. rendelet 7. §-a a következő (1a) bekezdéssel egészül ki:
+5. §[^2]
 
-„(1a) Az 1. számú melléklet 5. pont 5.1. alpontja hatálya alá tartozó szállodai szállásszolgáltatás vagy személyszállításhoz kapcsolódó menetjegyek beszerzése esetén az 1. § (1) bekezdése szerinti szervezet a központi beszerző szervezet előzetes jóváhagyása nélkül jogosult e szolgáltatások saját hatáskörben történő beszerzésére, ha ezeket az igényeinek mindenben megfelelő feltételekkel a keretszerződés útján történő beszerzéshez képest alacsonyabb áron tudja beszerezni. A beszerzésről a beszerzést megvalósító szervezet a központi beszerző szervezetet a beszerzést követő tíz munkanapon belül tájékoztatja.”
+[^2]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
