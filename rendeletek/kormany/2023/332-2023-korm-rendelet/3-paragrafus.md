@@ -1,1 +1,3 @@
-3. § Az R. 2. mellékletében foglalt táblázat B:7a. mezőjében a „050/14, 050/15,” szövegrész helyébe a „050/18,” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
