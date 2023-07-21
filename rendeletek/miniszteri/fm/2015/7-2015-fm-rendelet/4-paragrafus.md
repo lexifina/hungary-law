@@ -1,24 +1,24 @@
 ## 4. A támogatási kérelem benyújtása
 
-4. § (1)[^18] A támogatási kérelmet a támogatási évet közvetlenül megelőző március 16-ától március 31-éig a Magyar Államkincstár (a továbbiakban: Kincstár) által rendszeresített és a honlapján közzétett, az 1. melléklet szerinti adattartalmú nyomtatványon kell benyújtani. Egy támogatási évre kizárólag egy támogatási kérelem nyújtható be. Határidőn túl benyújtott támogatási kérelem esetén az adott támogatási évben nem vehető igénybe támogatás.
+4. § (1)[^19] A támogatási kérelmet a támogatási évet közvetlenül megelőző március 16-ától március 31-éig a Magyar Államkincstár (a továbbiakban: Kincstár) által rendszeresített és a honlapján közzétett, az 1. melléklet szerinti adattartalmú nyomtatványon kell benyújtani. Egy támogatási évre kizárólag egy támogatási kérelem nyújtható be. Határidőn túl benyújtott támogatási kérelem esetén az adott támogatási évben nem vehető igénybe támogatás.
 
 (2) A támogatási kérelemhez mellékelni kell
 
-a)[^19] az állattartó telep fekvése szerint illetékes vármegyei kormányhivatal élelmiszerlánc-biztonsági és állat-egészségügyi hatáskörében eljáró járási hivatala (a továbbiakban: járási hivatal) igazolásának eredeti példányát az ügyfél által – a támogatási kérelem benyújtásának időpontjáig – az adott tartási hely a TIR-be bejelentett tenyészkoca férőhely kapacitása alapján megállapított maximálisan tarható tenyészkoca létszámról darabszámban kifejezve,
+a)[^20] az állattartó telep fekvése szerint illetékes vármegyei kormányhivatal élelmiszerlánc-biztonsági és állat-egészségügyi hatáskörében eljáró járási hivatala (a továbbiakban: járási hivatal) igazolásának eredeti példányát az ügyfél által – a támogatási kérelem benyújtásának időpontjáig – az adott tartási hely a TIR-be bejelentett tenyészkoca férőhely kapacitása alapján megállapított maximálisan tarható tenyészkoca létszámról darabszámban kifejezve,
 
 b) a 2. § (5) bekezdés b) pont bd) alpontja szerinti tagságról szóló igazolás eredeti példányát.
 
-(3)[^20] Az ügyfélnek a támogatási kérelmében meg kell jelölnie a támogatási évben vállalni kívánt tevékenységeket, valamint az egyes tevékenységekhez kapcsolódó állategységeket – amely nem haladhatja meg a (2) bekezdés a) pontja szerinti igazoláson szereplő létszámból számított állategységet – egy tizedes jegy pontossággal.
+(3)[^21] Az ügyfélnek a támogatási kérelmében meg kell jelölnie a támogatási évben vállalni kívánt tevékenységeket, valamint az egyes tevékenységekhez kapcsolódó állategységeket – amely nem haladhatja meg a (2) bekezdés a) pontja szerinti igazoláson szereplő létszámból számított állategységet – egy tizedes jegy pontossággal.
 
-(4)[^21] Nagyvállalkozásnak minősülő ügyfél a 2. § (5) bekezdésben meghatározottak teljesítése mellett a támogatási kérelemhez köteles csatolni a 2. melléklet szerinti, a támogatás igénybevételével előálló és a támogatás igénybevétele nélkül várható helyzetére vonatkozó elemzés (a továbbiakban: elemzés) alapján a járási hivatal álláspontját arról, hogy részvétele a támogatási programban indokolt.
+(4)[^22] Nagyvállalkozásnak minősülő ügyfél a 2. § (5) bekezdésben meghatározottak teljesítése mellett a támogatási kérelemhez köteles csatolni a 2. melléklet szerinti, a támogatás igénybevételével előálló és a támogatás igénybevétele nélkül várható helyzetére vonatkozó elemzés (a továbbiakban: elemzés) alapján a járási hivatal álláspontját arról, hogy részvétele a támogatási programban indokolt.
 
-(5)[^22]
+(5)[^23]
 
-(6)[^23] A Kincstár a támogatási kérelemről az abban megjelölt, tervezett állatlétszám alapján jóváhagyott állatlétszámra vonatkozóan hoz döntést.
+(6)[^24] A Kincstár a támogatási kérelemről az abban megjelölt, tervezett állatlétszám alapján jóváhagyott állatlétszámra vonatkozóan hoz döntést.
 
-[^18]: A 4. § (1) bekezdése a 92/2015. (XII. 23.) FM rendelet 7. § c) pontja, a 88/2016. (XII. 29.) FM rendelet 78. § a) pontja szerint módosított szöveg.
-[^19]: A 4. § (2) bekezdés a) pontja a 25/2016. (IV. 11.) FM rendelet 39. § a) pontja, az 51/2016. (VII. 21.) FM rendelet 20. § c) pontja, a 42/2017. (VIII. 17.) FM rendelet 211. § a) pontja, a 140/2022. (XII. 27.) AM rendelet 1. §-a szerint módosított szöveg.
-[^20]: A 4. § (3) bekezdése a 25/2016. (IV. 11.) FM rendelet 35. § (1) bekezdésével megállapított szöveg.
-[^21]: A 4. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 211. § b) pontja szerint módosított szöveg.
-[^22]: A 4. § (5) bekezdését az 51/2016. (VII. 21.) FM rendelet 21. §-a hatályon kívül helyezte.
-[^23]: A 4. § (6) bekezdése a 25/2016. (IV. 11.) FM rendelet 35. § (2) bekezdésével megállapított, a 88/2016. (XII. 29.) FM rendelet 78. § b) pontja szerint módosított szöveg.
+[^19]: A 4. § (1) bekezdése a 92/2015. (XII. 23.) FM rendelet 7. § c) pontja, a 88/2016. (XII. 29.) FM rendelet 78. § a) pontja szerint módosított szöveg.
+[^20]: A 4. § (2) bekezdés a) pontja a 25/2016. (IV. 11.) FM rendelet 39. § a) pontja, az 51/2016. (VII. 21.) FM rendelet 20. § c) pontja, a 42/2017. (VIII. 17.) FM rendelet 211. § a) pontja, a 140/2022. (XII. 27.) AM rendelet 1. §-a szerint módosított szöveg.
+[^21]: A 4. § (3) bekezdése a 25/2016. (IV. 11.) FM rendelet 35. § (1) bekezdésével megállapított szöveg.
+[^22]: A 4. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 211. § b) pontja szerint módosított szöveg.
+[^23]: A 4. § (5) bekezdését az 51/2016. (VII. 21.) FM rendelet 21. §-a hatályon kívül helyezte.
+[^24]: A 4. § (6) bekezdése a 25/2016. (IV. 11.) FM rendelet 35. § (2) bekezdésével megállapított, a 88/2016. (XII. 29.) FM rendelet 78. § b) pontja szerint módosított szöveg.
