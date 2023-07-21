@@ -2,6 +2,6 @@
 
 (2) A támogatás mértéke állategységenként egyezeregyszázhuszonegy forint.
 
-(3)[^31] A mezőgazdasági csekély összegű támogatási iránti kérelemhez csatolni kell a sertéságazati területi felelős igazolását az (1) bekezdésben meghatározott feltétel teljesítéséről. Az igazoláson fel kell tüntetni annak időbeli hatályát.
+(3)[^33] A mezőgazdasági csekély összegű támogatási iránti kérelemhez csatolni kell a sertéságazati területi felelős igazolását az (1) bekezdésben meghatározott feltétel teljesítéséről. Az igazoláson fel kell tüntetni annak időbeli hatályát.
 
-[^31]: A 15. § (3) bekezdése a 22/2023. (V. 9.) AM rendelet 29. § b) pontja szerint módosított szöveg.
+[^33]: A 15. § (3) bekezdése a 22/2023. (V. 9.) AM rendelet 29. § b) pontja szerint módosított szöveg.

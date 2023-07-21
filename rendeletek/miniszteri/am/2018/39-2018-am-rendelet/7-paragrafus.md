@@ -1,6 +1,6 @@
-7. § (1)[^5] A teljes negyedévre vonatkozó támogatás kifizetése iránti kérelmet az igénylő egy alkalommal, a Kincstár által a (2) bekezdésben meghatározott adattartalommal az erre a célra kialakított elektronikus űrlapkitöltő felületen az (1a) bekezdésben meghatározott időszakban nyújthatja be. A kifizetési kérelem benyújtására nyitva álló időszakot a sertéseknek a számlán, felvásárlási jegyen vagy belső bizonylaton feltüntetett értékesítési időpontja, ennek hiányában a számla, felvásárlási jegy vagy belső bizonylat teljesítésének időpontja határozza meg.
+7. § (1)[^7] A teljes negyedévre vonatkozó támogatás kifizetése iránti kérelmet az igénylő egy alkalommal, a Kincstár által a (2) bekezdésben meghatározott adattartalommal az erre a célra kialakított elektronikus űrlapkitöltő felületen az (1a) bekezdésben meghatározott időszakban nyújthatja be. A kifizetési kérelem benyújtására nyitva álló időszakot a sertéseknek a számlán, felvásárlási jegyen vagy belső bizonylaton feltüntetett értékesítési időpontja, ennek hiányában a számla, felvásárlási jegy vagy belső bizonylat teljesítésének időpontja határozza meg.
 
-(1a)[^6] A kifizetési kérelem
+(1a)[^8] A kifizetési kérelem
 
 a) az első negyedévre vonatkozóan az adott támogatási év április 1. és április 30.,
 
@@ -38,11 +38,11 @@ e) az igényelt támogatás forintban megjelölt összegét.
 
 a) az egyes tevékenységeknél az e rendeletben meghatározott dokumentumokat,
 
-b)[^7] a sertés értékesítéséről szóló számla, illetve felvásárlási jegyet (saját vágás esetén a vágás végrehajtását igazoló belső bizonylatot),
+b)[^9] a sertés értékesítéséről szóló számla, illetve felvásárlási jegyet (saját vágás esetén a vágás végrehajtását igazoló belső bizonylatot),
 
-c)[^8] a tenyésztésre értékesített koca süldők esetében a tenyésztő szervezet igazolását,
+c)[^10] a tenyésztésre értékesített koca süldők esetében a tenyésztő szervezet igazolását,
 
-d)[^9] a sertéságazati területi felelős által kiállított dokumentumot arról, hogy
+d)[^11] a sertéságazati területi felelős által kiállított dokumentumot arról, hogy
 
 da) az ügyfélnek az adott negyedévre vonatkozó, a kérelemben megjelölt támogatási igénye megalapozott,
 
@@ -54,8 +54,8 @@ e) az állattartó telep fekvése szerint illetékes járási hivatalnak az áll
 
 f) az állattartó telep fekvése szerint illetékes járási hivatalnak az állategészségügyi és állatvédelmi szabályok igénylő általi betartásáról szóló, igazolását.
 
-[^5]: A 7. § (1) bekezdése a 22/2023. (V. 9.) AM rendelet 23. §-ával megállapított szöveg.
-[^6]: A 7. § (1a) bekezdését a 22/2023. (V. 9.) AM rendelet 23. §-a iktatta be.
-[^7]: A 7. § (4) bekezdés b) pontja a 22/2023. (V. 9.) AM rendelet 29. § a) pontja szerint módosított szöveg.
-[^8]: A 7. § (4) bekezdés c) pontja a 22/2023. (V. 9.) AM rendelet 29. § b) pontja szerint módosított szöveg.
-[^9]: A 7. § (4) bekezdés d) pont nyitó szövegrésze a 22/2023. (V. 9.) AM rendelet 29. § c) pontja szerint módosított szöveg.
+[^7]: A 7. § (1) bekezdése a 22/2023. (V. 9.) AM rendelet 23. §-ával megállapított szöveg.
+[^8]: A 7. § (1a) bekezdését a 22/2023. (V. 9.) AM rendelet 23. §-a iktatta be.
+[^9]: A 7. § (4) bekezdés b) pontja a 22/2023. (V. 9.) AM rendelet 29. § a) pontja szerint módosított szöveg.
+[^10]: A 7. § (4) bekezdés c) pontja a 22/2023. (V. 9.) AM rendelet 29. § b) pontja szerint módosított szöveg.
+[^11]: A 7. § (4) bekezdés d) pont nyitó szövegrésze a 22/2023. (V. 9.) AM rendelet 29. § c) pontja szerint módosított szöveg.

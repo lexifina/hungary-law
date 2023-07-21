@@ -1,10 +1,10 @@
-## 3b.[^37] Válságtámogatás
+## 3b.[^39] Válságtámogatás
 
-16/E. § (1)[^38] Az igénylő a 14. § (1) bekezdés a) és b) pontja szerinti állatjóléti intézkedések tekintetében a 2022. támogatási év II., III. és IV. tárgynegyedévére, valamint a 2023. támogatási év I., II. és III. tárgynegyedévére – a 14. § (1) bekezdésében foglaltaktól eltérően – kizárólag válságtámogatás igénybevételére jogosult.
+16/E. § (1)[^40] Az igénylő a 14. § (1) bekezdés a) és b) pontja szerinti állatjóléti intézkedések tekintetében a 2022. támogatási év II., III. és IV. tárgynegyedévére, valamint a 2023. támogatási év I., II. és III. tárgynegyedévére – a 14. § (1) bekezdésében foglaltaktól eltérően – kizárólag válságtámogatás igénybevételére jogosult.
 
-(2)[^39] A válságtámogatás iránti kérelem a 2022. támogatási év II. negyedéve tekintetében 2022. szeptember 7. és 21. között, a 2022. támogatási év III. negyedéve tekintetében 2022. október 1. és 31. között ügyfélkapus azonosítást követően, az elektronikus űrlapkitöltő felületen keresztül nyújtható be a Kincstárhoz a Kincstár honlapján közzétett közleményben foglaltaknak megfelelően.
+(2)[^41] A válságtámogatás iránti kérelem a 2022. támogatási év II. negyedéve tekintetében 2022. szeptember 7. és 21. között, a 2022. támogatási év III. negyedéve tekintetében 2022. október 1. és 31. között ügyfélkapus azonosítást követően, az elektronikus űrlapkitöltő felületen keresztül nyújtható be a Kincstárhoz a Kincstár honlapján közzétett közleményben foglaltaknak megfelelően.
 
-(2a)[^40] A válságtámogatás iránti kérelem
+(2a)[^42] A válságtámogatás iránti kérelem
 
 a) a 2022. támogatási év IV. negyedéve tekintetében 2023. január 15. és február 15. között,
 
@@ -32,17 +32,17 @@ bc) a kapcsolt vállalkozása nevéről, adóazonosító számáról és ügyfé
 
 bd) arról, hogy a gazdasági nehézsége összefüggésben áll az Oroszország és Ukrajna közötti konfliktussal.
 
-(5)[^41] Az igénylő válságtámogatás iránti kérelme – a 7. § (2) bekezdésében foglaltakon túl – tartalmazza a (4) bekezdésben foglalt nyilatkozatokat.
+(5)[^43] Az igénylő válságtámogatás iránti kérelme – a 7. § (2) bekezdésében foglaltakon túl – tartalmazza a (4) bekezdésben foglalt nyilatkozatokat.
 
 (6) Az eljárás során minden dokumentumot, így a hiánypótláshoz kapcsolódó dokumentumokat és – a felügyeleti eljárás kivételével – a jogorvoslati eljáráshoz kapcsolódó dokumentumokat (a továbbiakban együtt: beadvány) is az elektronikus űrlapkitöltő felületen keresztül kell benyújtani. A nem elektronikus úton benyújtott beadvány a döntés meghozatalánál nem vehető figyelembe.
 
 (7) Ha a kötelezettségek elektronikus úton történő teljesítése során az igénylő helyett és nevében meghatalmazottja jár el, a meghatalmazott a Kormány által biztosított elektronikus azonosítási szolgáltatással elérhető elektronikus felületet használja az eljárási cselekmények elektronikus elvégzéséhez. A meghatalmazott útján történő eljárásra az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló 22/2016. (IV. 5.) FM rendelet meghatalmazásra vonatkozó rendelkezéseit az e rendeletben foglalt eltérésekkel kell alkalmazni.
 
-(8)[^42] A válságtámogatás iránti kérelem legkésőbb a (2) és (2a) bekezdésben meghatározott benyújtási határidő végéig az elektronikus űrlapkitöltő felületen keresztül módosítható. Módosítás esetén az utolsó válságtámogatás iránti kérelmet kell elbírálni. A válságtámogatás iránti kérelem benyújtásának időpontja az utolsó módosító kérelem benyújtásának időpontja.
+(8)[^44] A válságtámogatás iránti kérelem legkésőbb a (2) és (2a) bekezdésben meghatározott benyújtási határidő végéig az elektronikus űrlapkitöltő felületen keresztül módosítható. Módosítás esetén az utolsó válságtámogatás iránti kérelmet kell elbírálni. A válságtámogatás iránti kérelem benyújtásának időpontja az utolsó módosító kérelem benyújtásának időpontja.
 
-[^37]: A 3b. alcímet (16/E–16/F. §) a 26/2022. (VIII. 31.) AM rendelet 18. §-a iktatta be.
-[^38]: A 16/E. § (1) bekezdése a 22/2023. (V. 9.) AM rendelet 27. §-ával megállapított szöveg.
-[^39]: A 16/E. § (2) bekezdése a 22/2023. (V. 9.) AM rendelet 29. § l) pontja szerint módosított szöveg.
-[^40]: A 16/E. § (2a) bekezdését a 158/2022. (XII. 27.) AM rendelet 14. §-a iktatta be.
-[^41]: A 16/E. § (5) bekezdése a 22/2023. (V. 9.) AM rendelet 30. §-a szerint módosított szöveg.
-[^42]: A 16/E. § (8) bekezdése a 22/2023. (V. 9.) AM rendelet 29. § m) pontja szerint módosított szöveg.
+[^39]: A 3b. alcímet (16/E–16/F. §) a 26/2022. (VIII. 31.) AM rendelet 18. §-a iktatta be.
+[^40]: A 16/E. § (1) bekezdése a 22/2023. (V. 9.) AM rendelet 27. §-ával megállapított szöveg.
+[^41]: A 16/E. § (2) bekezdése a 22/2023. (V. 9.) AM rendelet 29. § l) pontja szerint módosított szöveg.
+[^42]: A 16/E. § (2a) bekezdését a 158/2022. (XII. 27.) AM rendelet 14. §-a iktatta be.
+[^43]: A 16/E. § (5) bekezdése a 22/2023. (V. 9.) AM rendelet 30. §-a szerint módosított szöveg.
+[^44]: A 16/E. § (8) bekezdése a 22/2023. (V. 9.) AM rendelet 29. § m) pontja szerint módosított szöveg.

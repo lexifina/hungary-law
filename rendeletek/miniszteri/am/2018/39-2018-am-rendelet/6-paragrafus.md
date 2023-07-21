@@ -1,8 +1,8 @@
-6. § (1)[^4] A támogatási kérelmet a (2) bekezdés szerinti adattartalommal a 4. §-ban meghatározott feltételeknek megfelelő igénylő a támogatási évet megelőző év december 1. és december 31. között nyújthatja be elektronikus úton, ügyfélkapus azonosítást követően a Magyar Államkincstár (a továbbiakban: Kincstár) által erre a célra rendszeresített elektronikus űrlapkitöltő felületen (a továbbiakban: elektronikus űrlapkitöltő felület).
+6. § (1)[^5] A támogatási kérelmet a (2) bekezdés szerinti adattartalommal a 4. §-ban meghatározott feltételeknek megfelelő igénylő a támogatási évet megelőző év december 1. és december 31. között nyújthatja be elektronikus úton, ügyfélkapus azonosítást követően a Magyar Államkincstár (a továbbiakban: Kincstár) által erre a célra rendszeresített elektronikus űrlapkitöltő felületen (a továbbiakban: elektronikus űrlapkitöltő felület).
 
 (2) Az igénylő támogatási kérelme az alábbi adatokat és dokumentumokat tartalmazza:
 
-a) az igénylő az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdészeti ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2014. június 25-i 702/2014/EU bizottsági rendelet (a továbbiakban: mezőgazdasági csoportmentességi rendelet) I. melléklete szerinti üzemméretét (KKV besorolása);
+a)[^6] az igénylő a mezőgazdasági csoportmentességi rendelet I. melléklete szerinti üzemméretét (KKV besorolása);
 
 b) a tevékenységgel érintett tartási hely vagy helyek adatait;
 
@@ -34,4 +34,5 @@ b) az állattartó telep fekvése szerint illetékes járási hivatal igazolás�
 
 (9) A támogatási évben az (1) bekezdés szerinti támogatási kérelemben megjelölt sertések vonatkozásában a támogatási kérelem benyújtása előtt megkezdett tevékenység nem támogatható.
 
-[^4]: A 6. § (1) bekezdése a 22/2023. (V. 9.) AM rendelet 22. §-ával megállapított szöveg.
+[^5]: A 6. § (1) bekezdése a 22/2023. (V. 9.) AM rendelet 22. §-ával megállapított szöveg.
+[^6]: A 6. § (2) bekezdés a) pontja a 42/2023. (VII. 20.) AM rendelet 2. §-ával megállapított szöveg.
