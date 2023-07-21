@@ -1,4 +1,3 @@
-## 23. §[^41] E rendeletnek az egyes nemzeti forrásból finanszírozott mezőgazdasági támogatásokat szabályozó miniszteri rendeletek módosításáról szóló 4/2019. (III. 6.) AM rendelettel [a továbbiakban: 4/2019. (III. 6.) AM rendelet] megállapított 8. § (2) bekezdését a 4/2019. (III. 6.) AM rendelet hatálybalépésekor[^42] folyamatban lévő eljárásokban is alkalmazni kell.
+24. §[^48]
 
-[^41]: A 23. §-t a 4/2019. (III. 6.) AM rendelet 3. § (1) bekezdése iktatta be.
-[^42]: A hatálybalépés időpontja 2019. március 9.
+[^48]: A 24. §-t az 50/2021. (XII. 29.) AM rendelet 8. §-a iktatta be, a 37/2023. (VII. 20.) AM rendelet 4. §-a hatályon kívül helyezte.

@@ -2,7 +2,7 @@
 
 ## 1. §[^1] E rendelet alkalmazásában:
 
-a) állati hulla: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdészeti ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2014. június 25-i 702/2014/EU bizottsági rendelet 2. cikkének 15. pontja szerinti elhullott állat;
+a)[^2] állati hulla: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdőalapú ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2022. december 14-i (EU) 2022/2472 bizottsági rendelet 2. cikk 24. pontja szerinti elhullott állat;
 
 b) állattartó: az a természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet, aki vagy amely az állattartó gazdaságban az állatért állandó vagy ideiglenes jelleggel felelős;
 
@@ -20,9 +20,10 @@ h) állati hullát égető üzem: az ABP végrehajtási rendelet I. mellékleté
 
 i) gyűjtő-átrakó létesítmény: az állat-egészségügyi hatóság által engedélyezett, az ABP végrehajtási rendelet I. mellékletének 53. pontjában meghatározott létesítmény, továbbá az állat-egészségügyi hatóság által nyilvántartásba vett állati hulla gyűjtőhely és gyepmesteri telep;
 
-j)[^2] állat-egészségügyi hatóság: az élelmiszerlánc-biztonsági és állat-egészségügyi hatáskörben eljáró vármegyei kormányhivatal.
+j)[^3] állat-egészségügyi hatóság: az élelmiszerlánc-biztonsági és állat-egészségügyi hatáskörben eljáró vármegyei kormányhivatal.
 
 k) gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
 
 [^1]: Az 1. § a 6/2017. (II. 13.) FM rendelet 10. §-ával megállapított szöveg.
-[^2]: Az 1. § j) pontja a 107/2022. (XII. 27.) AM rendelet 1. §-a szerint módosított szöveg.
+[^2]: Az 1. § a) pontja a 37/2023. (VII. 20.) AM rendelet 1. §-ával megállapított szöveg.
+[^3]: Az 1. § j) pontja a 107/2022. (XII. 27.) AM rendelet 1. §-a szerint módosított szöveg.

@@ -1,12 +1,12 @@
 ## A támogatás igénylése
 
-7. § (1)[^9] A szolgáltató a Magyar Államkincstár (a továbbiakban: Kincstár) által rendszeresített, a Kincstár honlapján közzétett, az 1. számú melléklet szerinti adattartalmú támogatási kérelmet a Kincstárhoz havonta egy alkalommal, a tárgyhónapot követő hónap utolsó napjáig nyújthatja be.
+7. § (1)[^10] A szolgáltató a Magyar Államkincstár (a továbbiakban: Kincstár) által rendszeresített, a Kincstár honlapján közzétett, az 1. számú melléklet szerinti adattartalmú támogatási kérelmet a Kincstárhoz havonta egy alkalommal, a tárgyhónapot követő hónap utolsó napjáig nyújthatja be.
 
-(1a)[^10]
+(1a)[^11]
 
-(2)[^11] A támogatási kérelemhez csatolni kell:
+(2)[^12] A támogatási kérelemhez csatolni kell:
 
-a)[^12] a támogatott szolgáltatásról kiállított számla másolatát, vagy adathordozón a támogatott szolgáltatásról kiállított számlák adatait tartalmazó, a Kincstár által rendszeresített, a Kincstár honlapján közzétett, 2. számú melléklet szerinti adattartalmú táblázatot,
+a)[^13] a támogatott szolgáltatásról kiállított számla másolatát, vagy adathordozón a támogatott szolgáltatásról kiállított számlák adatait tartalmazó, a Kincstár által rendszeresített, a Kincstár honlapján közzétett, 2. számú melléklet szerinti adattartalmú táblázatot,
 
 b) szállítási szolgáltatás esetén a szállítólevél vagy a szállítói összesítő másolatát is, amelyet a kizárólag szállítást végző szolgáltató esetében az ártalmatlanító ellenjegyzett,
 
@@ -20,21 +20,21 @@ cc) rendelkezik az állat-egészségügyi hatóság által kiadott működési e
 
 cd) a támogatási kérelemben szereplő kedvezményezettek – az általuk adott nyilatkozatok alapján – megfelelnek e rendelet 4. § (1) bekezdésében leírtaknak.
 
-(3)[^13]
+(3)[^14]
 
-(4)[^14] Az állattartó telephez tartozó saját ártalmatlanító üzem esetén a támogatási kérelemhez csatolni kell az 5. § (2) bekezdése szerinti belső elszámolási bizonylat másolatát.
+(4)[^15] Az állattartó telephez tartozó saját ártalmatlanító üzem esetén a támogatási kérelemhez csatolni kell az 5. § (2) bekezdése szerinti belső elszámolási bizonylat másolatát.
 
 (5) Támogatás csak a szolgáltató által a kedvezményezetteknek biztosított támogatástartalom mértékéig igényelhető. A szolgáltató csak akkor igényelheti a támogatást, ha a kedvezményezett részére a támogatás mértékével csökkentett költségen nyújtotta a szolgáltatást. A támogatás – ugyanazon elszámolható költségek fedezésére – nem halmozható más nemzeti, helyi, regionális vagy közösségi támogatással.
 
-(6)[^15] Amennyiben a támogatási kérelem nem felel meg az e rendeletben előírt feltételeknek, vagy más okból kiegészítésre, kijavításra szorul, a Kincstár a szolgáltatót egyszeri alkalommal a hiányok megjelölése mellett a hibák kijavítására, illetve a hiányosságok pótlására szólítja fel.
+(6)[^16] Amennyiben a támogatási kérelem nem felel meg az e rendeletben előírt feltételeknek, vagy más okból kiegészítésre, kijavításra szorul, a Kincstár a szolgáltatót egyszeri alkalommal a hiányok megjelölése mellett a hibák kijavítására, illetve a hiányosságok pótlására szólítja fel.
 
-(7)[^16] Kizárólag a támogatott szolgáltatásról kiállított számlák adatait tartalmazó összesítő táblázat benyújtása esetén a Kincstár a táblázat adattartalma valódiságának ellenőrzésére a számlák egy részének, vagy egészének benyújtására kötelezheti a kérelmezőt.
+(7)[^17] Kizárólag a támogatott szolgáltatásról kiállított számlák adatait tartalmazó összesítő táblázat benyújtása esetén a Kincstár a táblázat adattartalma valódiságának ellenőrzésére a számlák egy részének, vagy egészének benyújtására kötelezheti a kérelmezőt.
 
-[^9]: A 7. § (1) bekezdése a 88/2016. (XII. 29.) FM rendelet 30. §-ával megállapított szöveg.
-[^10]: A 7. § (1a) bekezdését a 33/2014. (IV. 4.) VM rendelet 29. §-a iktatta be, hatályon kívül helyezte az 52/2019. (XI. 14.) AM rendelet 5. §-a.
-[^11]: A 7. § (2) bekezdése a 75/2012. (VII. 25.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^12]: A 7. § (2) bekezdés a) pontja a 88/2016. (XII. 29.) FM rendelet 31. § a) pontja szerint módosított szöveg.
-[^13]: A 7. § (3) bekezdését a 75/2012. (VII. 25.) VM rendelet 6. § (2) bekezdése hatályon kívül helyezte.
-[^14]: A 7. § (4) bekezdése a 75/2012. (VII. 25.) VM rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^15]: A 7. § (6) bekezdése a 171/2009. (XII. 22.) FVM rendelet 5. § (5) bekezdésével megállapított, a 88/2016. (XII. 29.) FM rendelet 31. § b) pontja szerint módosított szöveg.
-[^16]: A 7. § (7) bekezdését a 75/2012. (VII. 25.) VM rendelet 2. § (3) bekezdése iktatta be, szövege a 88/2016. (XII. 29.) FM rendelet 31. § b) pontja szerint módosított szöveg.
+[^10]: A 7. § (1) bekezdése a 88/2016. (XII. 29.) FM rendelet 30. §-ával megállapított szöveg.
+[^11]: A 7. § (1a) bekezdését a 33/2014. (IV. 4.) VM rendelet 29. §-a iktatta be, hatályon kívül helyezte az 52/2019. (XI. 14.) AM rendelet 5. §-a.
+[^12]: A 7. § (2) bekezdése a 75/2012. (VII. 25.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^13]: A 7. § (2) bekezdés a) pontja a 88/2016. (XII. 29.) FM rendelet 31. § a) pontja szerint módosított szöveg.
+[^14]: A 7. § (3) bekezdését a 75/2012. (VII. 25.) VM rendelet 6. § (2) bekezdése hatályon kívül helyezte.
+[^15]: A 7. § (4) bekezdése a 75/2012. (VII. 25.) VM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^16]: A 7. § (6) bekezdése a 171/2009. (XII. 22.) FVM rendelet 5. § (5) bekezdésével megállapított, a 88/2016. (XII. 29.) FM rendelet 31. § b) pontja szerint módosított szöveg.
+[^17]: A 7. § (7) bekezdését a 75/2012. (VII. 25.) VM rendelet 2. § (3) bekezdése iktatta be, szövege a 88/2016. (XII. 29.) FM rendelet 31. § b) pontja szerint módosított szöveg.

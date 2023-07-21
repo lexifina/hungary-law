@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-56-20-8
 | 2020-12-17 | 2008-56-20-82.22 | 35/2018. (XII. 6.) AM rendelet |
 | 2022-01-01 | 2008-56-20-82.23 | 35/2018. (XII. 6.) AM rendelet |
 | 2023-01-01 | 2008-56-20-82.24 | 107/2022. (XII. 27.) AM rendelet |
+| 2023-07-21 | 2008-56-20-82.25 | 37/2023. (VII. 20.) AM rendelet |
