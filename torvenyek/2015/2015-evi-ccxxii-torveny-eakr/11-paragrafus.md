@@ -1,7 +1,17 @@
 ## 5. Automatikus döntéshozatali eljárás
 
-11. § (1) Jogszabályban meghatározott feltételek fennállása esetén az elektronikus ügyintézést biztosító szerv az eljárást automatikus döntéshozatal útján folytatja le. Az elektronikus ügyintézést biztosító szerv automatikus döntéshozatal esetén a rendelkezésére álló, valamint az automatikus információátvétel útján megszerzett adatok alapján, emberi közbeavatkozás nélkül hozza meg a döntését és közli az ügyféllel.
+11. § (1) Az elektronikus ügyintézést biztosító szerv az eljárást automatikus döntéshozatal útján folytathatja le, ha
 
-(2) Kérelemre induló automatikus döntéshozatali eljárás során az ügyfél az elektronikus azonosítást követően az elektronikus ügyintézést biztosító szerv által biztosított elektronikus űrlap útján nyújtja be kérelmét.
+a) kérelemre indult ügy esetén az ügyfél a kérelmét elektronikus úton nyújtja be,
 
-(3) Az elektronikus ügyintézést biztosító szerv a honlapján, valamint a személyre szabott ügyintézési felületen is elérhető módon közzéteszi az alkalmazott döntéshozatali eljárás módszertanát és lényeges szabályait.
+b) a döntés meghozatala mérlegelést nem igényel és
+
+c) az ügy intézéséhez szükséges adatok automatizált feldolgozásra alkalmas módon az elektronikus ügyintézést biztosító szerv rendelkezésére állnak, vagy azokat automatikus információátvétel útján, automatizált feldolgozásra alkalmas formátumban átveszi.
+
+(2) Automatikus döntéshozatal esetén az elektronikus ügyintézést biztosító szerv emberi közbeavatkozás nélkül hozza meg az eljárást lezáró és az ügyintézéshez szükséges egyéb döntéseket és gondoskodik az ügyféllel való közlésről. Az elektronikus ügyintézést biztosító szerv közli az ügyféllel, ha a döntést automatikus döntéshozatali eljárásban hozta meg.
+
+(3) Az ügyintézéshez szükséges egyéb döntés, értesítés emberi közbeavatkozás nélkül akkor is meghozható, ha az eljárást az elektronikus ügyintézést biztosító szerv nem automatikus döntéshozatal útján folytatja le.
+
+(4) Nincs helye automatikus döntéshozatali eljárásnak, ha azt az adott ügyben törvény vagy kormányrendelet kizárja.
+
+(5) Az elektronikus ügyintézést biztosító szerv a személyre szabott ügyintézési felületen elérhető módon, valamint a 10. § b) pontja szerinti elektronikus út biztosítása esetén alkalmazott ügyintézési felületen közzéteszi az automatikus döntéshozatali eljárás módszertanát és lényeges szabályait.

@@ -136,4 +136,4 @@ c) a szerepkör-tanúsítvány kibocsátásával, az ahhoz kapcsolódó felelős
 
 d) a szerepkör-tanúsító platform szolgáltatással kapcsolatos részletszabályokat.
 
-(6) Felhatalmazást kap az e-közigazgatásért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a szabályozott elektronikus ügyintézési szolgáltatások bejelentéséért, a szabályozott elektronikus ügyintézési szolgáltatásokat érintő változások bejelentésért fizetendő igazgatási szolgáltatási díj mértékét, a díj megfizetésével, kezelésével, nyilvántartásával kapcsolatos szabályokat rendeletben állapítsa meg.
+(6)
