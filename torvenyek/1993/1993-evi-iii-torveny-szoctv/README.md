@@ -79,3 +79,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-3-00-00
 | 2023-01-01 | 2022. évi L. törvény | 1993-3-00-00.128 |
 | 2023-06-07 | 5/2023. (VI. 6.) AB határozat | 1993-3-00-00.129 |
 | 2023-07-01 | 2023. évi XXXVIII. törvény | 1993-3-00-00.130 |
+| 2023-07-22 | 2023. évi LX. törvény | 1993-3-00-00.133 |

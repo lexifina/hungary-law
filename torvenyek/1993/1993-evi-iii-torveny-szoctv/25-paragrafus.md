@@ -22,11 +22,13 @@ b) a képviselő-testület – az e törvényben és a települési önkormányz
 
 (4) A jogosultságot megállapító szerv
 
-a) az időskorúak járadékára, az egészségkárosodási és gyermekfelügyeleti támogatásra, a gyermekek otthongondozási díjára és az ápolási díjra (a továbbiakban együtt: havi rendszeres szociális ellátás) való jogosultság feltételeinek fennállását kétévente,
+a) az időskorúak járadékára, az egészségkárosodási és gyermekfelügyeleti támogatásra, valamint az ápolási díjra való jogosultság feltételeinek fennállását kétévente legalább egyszer,
 
-b) a foglalkoztatást helyettesítő támogatásra való jogosultság feltételeinek fennállását évente
+b) a gyermekek otthongondozási díjára való jogosultság [az a) és b) pont szerinti ellátások a továbbiakban együtt: havi rendszeres szociális ellátás] feltételeinek fennállását az önellátási képesség hiányát igazoló, a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló kormányrendeletben meghatározott dokumentumok érvényességi idejének lejártakor, határozatlan idejű érvényesség esetén a Büntető Törvénykönyvről szóló törvény szerinti hivatalos vagy közfeladatot ellátó személy megkeresésére vagy a felülvizsgálat szükségességéről történő hivatalos tudomásszerzés esetén,
 
-legalább egyszer felülvizsgálja, és ha a felülvizsgálat során megállapítást nyer, hogy a feltételek továbbra is fennállnak, az ellátást a felülvizsgálatnak megfelelő összegben tovább folyósítja.
+c) a foglalkoztatást helyettesítő támogatásra való jogosultság feltételeinek fennállását évente legalább egyszer
+
+felülvizsgálja, és ha a felülvizsgálat során megállapítást nyer, hogy a feltételek továbbra is fennállnak, az ellátást a felülvizsgálatnak megfelelő összegben tovább folyósítja.
 
 (5) Ha a szociális vetítési alap összege változik, a havi rendszeres szociális ellátás összegét, valamint a foglalkoztatást helyettesítő támogatásra való jogosultságot a változás időpontjától számított három hónapon belül felül kell vizsgálni. A felülvizsgálat során az emelt összegű rendszeres pénzellátást, a családi pótlékot és az árvaellátást kell figyelembe venni. Ha az ellátás összege a felülvizsgálat eredményeként
 
