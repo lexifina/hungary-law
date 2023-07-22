@@ -2,10 +2,14 @@
 
 Automatikus döntéshozatalnak van helye, ha
 
-a) azt törvény vagy kormányrendelet megengedi,
+a) az Eüsztv. szerinti automatikus döntéshozatali eljárás feltételei fennállnak és nincs ellenérdekű ügyfél, vagy
 
-b) a hatóság részére a kérelem benyújtásakor minden adat rendelkezésére áll, vagy azokat automatikus információátvétel útján meg tudja szerezni,
+b) a kérelem tekintetében
 
-c) a döntés meghozatala mérlegelést nem igényel, és
+ba) törvény vagy kormányrendelet lehetővé teszi,
 
-d) nincs ellenérdekű ügyfél.
+bb) a hatóság részére a benyújtásakor minden adat rendelkezésére áll,
+
+bc) a döntés meghozatala mérlegelést nem igényel, és
+
+bd) nincs ellenérdekű ügyfél.
