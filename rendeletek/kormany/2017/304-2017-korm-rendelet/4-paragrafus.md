@@ -6,7 +6,7 @@ a) a megszemélyesítő által megküldött tervezetet a beérkezést követő 3
 
 b) a kártyakibocsátó által megküldött tervezetet a beérkezést követő 45 napon belül
 
-## jóváhagyja, ha az megfelel a 3. § (2) bekezdésében foglaltaknak.
+jóváhagyja, ha az megfelel a 3. § (2) bekezdésében foglaltaknak.
 
 (2) A jóváhagyott szolgáltatási szabályzatot a megszemélyesítő és a kártyakibocsátó a honlapján közzéteszi, és erről
 

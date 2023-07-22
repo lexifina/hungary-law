@@ -2,7 +2,7 @@
 
 1. melléklet a 304/2017. (X. 27.) Korm. rendelethez
 
-## A minősítési eljárás megindítása (megszemélyesítő) iránti kérelem adatai
+A minősítési eljárás megindítása (megszemélyesítő) iránti kérelem adatai
 
 1. Kérelmező megnevezése,
 

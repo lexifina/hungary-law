@@ -10,10 +10,12 @@ ab) a kártyafelhasználók kártyával kapcsolatos jogainak biztosításával k
 
 ac) a NEK biztonságos működését veszélyeztető helyzet
 
-## áll fenn,
+áll fenn,
 
 b) azonnali hatállyal felfüggeszti, ha az eset összes körülményei alapján valószínűsíthető, hogy
 
 ba) a személyes adatok védelmével kapcsolatos súlyos jogsértés vagy
 
 bb) a NEK biztonságos működését közvetlenül és súlyosan veszélyeztető helyzet
+
+áll fenn.

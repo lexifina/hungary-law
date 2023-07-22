@@ -36,7 +36,7 @@ a) a megszemélyesítő és a kártyaelfogadó szolgáltatási szabályzatát a 
 
 b) a kártyakibocsátó szolgáltatási szabályzatát a beérkezést követő 45 napon belül
 
-## jóváhagyja, ha az megfelel a (2) bekezdésében foglaltaknak.
+jóváhagyja, ha az megfelel a (2) bekezdésében foglaltaknak.
 
 (5) Ha a szolgáltatási szabályzat nem felel meg a (2) bekezdésben foglaltaknak, a működtető – a hiányosságok megjelölésével – felhívja az érintett szervezetet a megfelelő szolgáltatási szabályzat elkészítésére.
 

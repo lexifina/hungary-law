@@ -1,6 +1,6 @@
 3. melléklet a 304/2017. (X. 27.) Korm. rendelethez
 
-## Kártyaelfogadói kérelem adatai
+Kártyaelfogadói kérelem adatai
 
 1. Kérelmező megnevezése,
 

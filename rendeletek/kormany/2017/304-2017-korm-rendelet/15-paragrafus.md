@@ -1,5 +1,3 @@
-## áll fenn.
-
 ## 7. A megszemélyesítő csatlakozása
 
 15. § (1) A működtető kérelemre induló minősítési eljárás keretében vizsgálja, hogy a megszemélyesítési tevékenységet folytatni kívánó kérelmező megfelel-e a jogszabályban előírt feltételeknek.
