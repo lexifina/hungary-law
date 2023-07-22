@@ -1,1 +1,3 @@
-8. § Hatályát veszti az 59/2016. (IX. 14.) FM rendelet 11. § (3) bekezdése.
+8. §[^9]
+
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-3. § Az 59/2016. (IX. 14.) FM rendelet 10. §-a a következő (4) bekezdéssel egészül ki:
+3. §[^4]
 
-„(4) Az e § alapján támogatott intézkedéseknek összhangban kell lenniük a mezőgazdasági ismeretek és innovációk rendszerének (AKIS) a magyar Közös Agrárpolitikai Stratégiai Tervben szereplő leírásával.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

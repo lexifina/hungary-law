@@ -1,3 +1,3 @@
-1. § A közösségi agrármarketing támogatások felhasználásának részletes feltételeiről szóló 59/2016. (IX. 14.) FM rendelet [a továbbiakban: 59/2016. (IX. 14.) FM rendelet] 1. § 11. pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-(E rendelet alkalmazásában:)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
