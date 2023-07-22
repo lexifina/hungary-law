@@ -1,3 +1,1 @@
-21. §[^20]
-
-[^20]: A 21. § a 20. § (2) bekezdés alapján 2023. július 22-én lép hatályba.
+21. § Hatályát veszti a szabályozott elektronikus ügyintézési szolgáltatások bejelentéséért fizetendő igazgatási szolgáltatási díjról szóló 48/2016. (XI. 28.) BM rendelet.
