@@ -18,6 +18,6 @@ b) ajándékozás esetén az ajándékozó a kisvállalkozói tevékenység megs
 
 (4) A vállalkozói vagyon tulajdonjogát megszerző magánszemély örökös esetén a vállalkozói vagyon után az őt egyébként terhelő öröklési illeték alapját 25%-kal, de legfeljebb 2,5 millió forinttal csökkentett összegben kell megállapítani.
 
-(5) A vállalkozói vagyon tulajdonjogát vagy haszonélvezeti jogát ajándékozás útján megszerző magánszemély esetén a vállalkozói vagyon után az őt egyébként terhelő ajándékozási illeték alapját 25%-kal, de legfeljebb 2,5 millió forinttal csökkentett összegben kell megállapítani.
+(5) A vállalkozói vagyon tulajdonjogát, építményi jogát vagy haszonélvezeti jogát ajándékozás útján megszerző magánszemély esetén a vállalkozói vagyon után az őt egyébként terhelő ajándékozási illeték alapját 25%-kal, de legfeljebb 2,5 millió forinttal csökkentett összegben kell megállapítani.
 
 (6) Ha a (4)–(5) bekezdés szerinti kedvezményben részesülő vagyonszerző az (1) bekezdés a)–b) pontjai szerinti feltételeket nem teljesíti, továbbá az (1) bekezdés szerinti 3 éves időtartam letelte előtt a vállalkozási tevékenységet a gazdasági tevékenységgel együtt járó üzleti kockázaton túlmutató elháríthatatlan külső ok hiányában megszünteti, vagy egyéni cégében fennálló vagyoni betétjét elidegeníti, illetve a többségi tulajdonában álló gazdasági társaságban fennálló részesedésének arányát csökkenti, az általa igénybe vett illetékkedvezmény alapján élvezett illetékteher-csökkenés összegének kétszeresét köteles pótlólag megfizetni.

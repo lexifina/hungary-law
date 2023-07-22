@@ -18,7 +18,7 @@ visszterhes átruházása.
 
 a) az ingatlanhoz kapcsolódó vagyoni értékű jog megszerzése, továbbá e jognak a megszüntetése folytán bekövetkező vagyonszerzés;
 
-b) az ingatlanon fennálló haszonélvezet gyakorlásának átengedése;
+b) az ingatlanon fennálló építményi jog, haszonélvezet gyakorlásának átengedése;
 
 c) ingónak hatósági árverésen történő megszerzése;
 
@@ -32,7 +32,7 @@ g) az értékpapír öröklési szerződéssel való megszerzése;
 
 h) belföldi ingatlanvagyonnal rendelkező társaságban fennálló vagyoni betét (részvény, üzletrész, szövetkezeti részesedés, átalakított befektetői részjegy) megszerzésére.
 
-(3) Nem tárgya a visszterhes vagyonátruházási illetéknek az ingatlan tulajdonosának az a vagyonszerzése, mely az ingatlanát terhelő haszonélvezet, használat jogának a jogosult halála, illetőleg – özvegyi jog esetén – új házasság kötése folytán történő megszűnésével következik be, továbbá a feltétel bekövetkezésétől függő vagy a meghatározott időre kikötött haszonélvezet, használat jogának a feltétel bekövetkeztével, illetve a meghatározott idő elteltével bekövetkező megszűnése.
+(3) Nem tárgya a visszterhes vagyonátruházási illetéknek az ingatlan tulajdonosának az a vagyonszerzése, mely az ingatlanát terhelő építményi jognak, haszonélvezetnek, használat jogának a jogosult halála, illetőleg – özvegyi jog esetén – új házasság kötése folytán történő megszűnésével következik be, továbbá a feltétel bekövetkezésétől függő vagy a meghatározott időre kikötött építményi jognak, haszonélvezetnek, használat jogának a feltétel bekövetkeztével, illetve a meghatározott idő elteltével bekövetkező megszűnése.
 
 (4) A (2) bekezdés h) pontjában foglalt vagyonszerzés után akkor kell az illetéket megfizetni, ha
 

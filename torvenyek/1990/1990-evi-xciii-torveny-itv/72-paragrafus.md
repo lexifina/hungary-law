@@ -1,12 +1,12 @@
 ## A vagyoni értékű jogok értékének megállapítása
 
-72. § (1) A vagyoni értékű jogok egy évi értékéül az ezzel terhelt dolog — terhekkel nem csökkentett — forgalmi értékének egyhuszad részét kell tekinteni.
+72. § (1) A vagyoni értékű jogok – kivéve az építményi jogot – egy évi értékéül az ezzel terhelt dolog — terhekkel nem csökkentett — forgalmi értékének egyhuszad részét kell tekinteni.
 
-(2) A meghatározott időre szóló vagyoni értékű jog értéke az egyévi érték és a kikötött évek szorzata. A jog így számított értéke azonban nem haladhatja meg az egyévi érték 20-szorosát, illetve természetes személy javára kikötött haszonélvezet, használat joga esetén az egyévi értéknek a (4) bekezdés a) pontjában meghatározott életkor szerinti többszörösét.
+(2) A meghatározott időre szóló vagyoni értékű jog – kivéve az építményi jogot – értéke az egyévi érték és a kikötött évek szorzata. A jog így számított értéke azonban nem haladhatja meg az egyévi érték 20-szorosát, illetve természetes személy javára kikötött haszonélvezet, használat joga esetén az egyévi értéknek a (4) bekezdés a) pontjában meghatározott életkor szerinti többszörösét.
 
-(3) A bizonytalan időre terjedő vagyoni értékű jog esetében a jog értéke — a (4) bekezdésben foglaltak kivételével — az egy évi érték ötszöröse.
+(3) A bizonytalan időre terjedő vagyoni értékű jog – kivéve az építményi jogot – esetében a jog értéke — a (4) bekezdésben foglaltak kivételével — az egy évi érték ötszöröse.
 
-(4) Ha a vagyoni értékű jog valamely személy életének, házasságának vagy özvegységének idejére terjed, annak értékét az illető személy életkorához képest a következő módon kell megállapítani:
+(4) Ha a vagyoni értékű jog – kivéve az építményi jogot – valamely személy életének, házasságának vagy özvegységének idejére terjed, annak értékét az illető személy életkorához képest a következő módon kell megállapítani:
 
 a) ha a vagyoni értékű jog jogosultja:
 
@@ -26,4 +26,4 @@ d) ha a vagyoni értékű jog tartama a házasság idejére terjed, a kiszámít
 
 (5) Az időleges üdülőhasználati jog és a szállás időben megosztott használati jogának értéke: e jogok egy évi értékének [72. § (1) bekezdés] annyiszor háromszázhatvanötöd része, ahány nap megszerzéséről szól a szerződés. Egyebekben a 72. § (2)—(3) bekezdésében foglaltak az irányadóak.
 
-(6)
+(6) Az építményi jog értéke megegyezik e jog forgalmi értékével.
