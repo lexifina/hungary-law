@@ -25,3 +25,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-57-00-00
 | 2021-07-01 | 2021. évi LV. törvény | 2015-57-00-00.18 |
 | 2022-01-01 | 2020. évi CLX. törvény | 2015-57-00-00.19 |
 | 2023-06-24 | 2023. évi XXXIX. törvény | 2015-57-00-00.20 |
+| 2023-07-22 | 2023. évi XXXIX. törvény | 2015-57-00-00.21 |
