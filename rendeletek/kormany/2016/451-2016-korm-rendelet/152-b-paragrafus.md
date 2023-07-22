@@ -1,4 +1,4 @@
-## 37/B. [^211] Adat- és iratmegnevezések jegyzéke
+## 37/B. [^212] Adat- és iratmegnevezések jegyzéke
 
 152/B. § (1) Az adat- és iratmegnevezések jegyzéke tartalmazza
 
@@ -20,4 +20,4 @@ e) annak a megjelölését, hogy az adat- és iratmegnevezés mely időponttól 
 
 (5) Bármely együttműködő szerv indoklással ellátott javaslatot tehet a felügyeletnek valamely adat- vagy iratmegnevezésnek a jegyzékbe történő bejegyzésére, módosítására vagy a jegyzékből történő törlésére. A szerkesztőbizottság álláspontjának kialakításához írásbeli állásfoglalást kérhet az információforrás és az információ átvételére jogosult együttműködő szervek képviselőitől.
 
-[^211]: A 37/B. alcímet (152/B. §) a 221/2017. (VIII. 7.) Korm. rendelet 7. § (12) bekezdése iktatta be.
+[^212]: A 37/B. alcímet (152/B. §) a 221/2017. (VIII. 7.) Korm. rendelet 7. § (12) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-4. melléklet a 451/2016. (XII. 19.) Korm. rendelethez[^254]
+4. melléklet a 451/2016. (XII. 19.) Korm. rendelethez[^255]
 
 A 16/A. § (2) bekezdése által előírt tanúsítási eljárásnak meg kell felelnie a következő követelményeknek:
 
@@ -34,4 +34,4 @@ A 16/A. § (2) bekezdése által előírt tanúsítási eljárásnak meg kell fe
 
 5.11. üzemeltetésében és használatában részt vevő személyek rendszeres biztonságtudatossági oktatáson vesznek részt, valamint a szervezet dolgozóinak munkaügyi szabályozása megfelel a biztonsági előírásoknak.
 
-[^254]: A 4. mellékletet az 512/2021. (IX. 3.) Korm. rendelet 2. §-a iktatta be.
+[^255]: A 4. mellékletet az 512/2021. (IX. 3.) Korm. rendelet 2. §-a iktatta be.

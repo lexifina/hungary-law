@@ -1,3 +1,3 @@
-141. §[^190]
+141. §[^191]
 
-[^190]: A 141. §-t a 221/2017. (VIII. 7.) Korm. rendelet 9. § c) pontja hatályon kívül helyezte.
+[^191]: A 141. §-t a 221/2017. (VIII. 7.) Korm. rendelet 9. § c) pontja hatályon kívül helyezte.

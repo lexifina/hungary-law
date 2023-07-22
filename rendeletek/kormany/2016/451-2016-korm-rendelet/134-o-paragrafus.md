@@ -1,8 +1,6 @@
 ## 134/N. § Az SZTSZ során a szerepkörre vonatkozó információátadás KKSZB szolgáltatás igénybevételével történik.
 
-## IV/A. Fejezet[^169]
-
-## SZEREPKÖR-TANÚSÍTÁSI SZOLGÁLTATÁS
+## Szerepkör-tanúsítási szolgáltatás[^169]
 
 134/O. § (1) Az alany számára a szerepkör-tanúsítvány szolgáltató szabványos, géppel értelmezhető, az elektronikus dokumentumon az alany szerepkörét tanúsító, rövid érvényességi idejű szerepkör-tanúsítványt állít ki.
 
@@ -22,4 +20,4 @@ f) a külön szabályzatban meghatározott adatokat.
 
 (3) A szerepkör tanúsítása az aláíró természetes személyazonosító adatai vagy a szerepkör-nyilvántartásban nyilvántartott egyedi azonosítója alapján történik.
 
-[^169]: A IV/A. fejezetet (134/O.–134/Q. §) a 717/2021. (XII. 20.) Korm. rendelet 20. § (13) bekezdése iktatta be.
+[^169]: A IV/A. fejezetet (134/O.–134/Q. §) a 717/2021. (XII. 20.) Korm. rendelet 20. § (13) bekezdése iktatta be, megjelölését alcím címre változtatta és szövegét megállapította a 310/2023. (VII. 14.) Korm. rendelet 5. §-a.
