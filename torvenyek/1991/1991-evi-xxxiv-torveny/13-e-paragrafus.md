@@ -14,7 +14,7 @@ c) az a) és b) pont szerinti adatok honlapon történő közzétételének idő
 
 (5) A pénzforgalmi szolgáltató köteles folyamatosan figyelemmel kísérni a tiltott fizetési számlák nyilvántartását és módosításait a tiltott fizetési számla pénzforgalmi korlátozásának (6) bekezdés szerinti időpontban történő és teljes körű végrehajtása érdekében a 13/C. § (3) bekezdése szerint. A tiltott fizetési számla pénzforgalmi korlátozásának végrehajtása során keletkezett adatokat a pénzforgalmi szolgáltató a végrehajtástól számított 8 évig köteles megőrizni, valamint a 13/C. § (2) bekezdése szerinti intézkedéseiről nyilvántartást vezetni.
 
-(6) A pénzforgalmi szolgáltató a tiltott fizetési számla pénzforgalmi korlátozásának végrehajtása során az (1) bekezdés szerint közzétett, (2) bekezdés a) pontja szerinti adatot a szerencsejáték-felügyeleti hatóság honlapján történő közzétételt követő azon második olyan napon 13 órától alkalmazza, amely napon a fizetési művelet teljesítése céljából nyitva tart (a továbbiakban: banki munkanap) és amelyet megelőzött banki munkanap.
+(6) A pénzforgalmi szolgáltató a tiltott fizetési számla pénzforgalmi korlátozásának végrehajtása során az (1) bekezdés szerint közzétett, (2) bekezdés a) pontja szerinti adatot a szerencsejáték-felügyeleti hatóság honlapján történő közzétételt követő második munkanapon – ide nem értve a bankszünnapot – 11 órától alkalmazza.
 
 (7) A szerencsejáték-felügyeleti hatóság az (1) bekezdésben foglalt kötelezettség teljesítése során a tiltott szerencsejáték-szervezést végző nevét, lakcímét, kapcsolattartásra megjelölt elérhetőségét – az illegális szerencsejáték-szervezők pénzforgalmi korlátozása céljából – a tiltott fizetési számlák nyilvántartásából történő törlését követő 8 évig jogosult kezelni.
 

@@ -2,15 +2,15 @@
 
 ## Értelmező rendelkezések
 
-37. §
+### 37. §
 
 1. Tét: a szerencsejátékban részvételre jogosító pénzösszeg, vagy más vagyoni érték.
 
 2. Tiszta játékbevétel: a tárgyhónapban befizetett tétek és a kifizetett nyeremények különbözete.
 
-2.1. Tiszta játékbevétel távszerencsejáték esetén: a tárgyidőszakban befizetett téteknek a kifizetett nyereményekkel csökkentett összege, kivéve ha a fogadás olyan rendszerben történik, amelyben a szervező nem visel saját kockázatot a fogadás tekintetében (fogadás csere). Ilyen esetben a tiszta játékbevételt a játékosok felé a szervező által felszámított díjak vagy azokkal egy tekintet alá eső jutalékok képezik.
+## 2.1. Tiszta játékbevétel távszerencsejáték esetén: a tárgyidőszakban befizetett téteknek a kifizetett nyereményekkel csökkentett összege, kivéve ha a fogadás olyan rendszerben történik, amelyben a szervező nem visel saját kockázatot a fogadás tekintetében (fogadás csere). Ilyen esetben a tiszta játékbevételt a játékosok felé a szervező által felszámított díjak vagy azokkal egy tekintet alá eső jutalékok képezik.
 
-2.2.
+## 2.2. Tiszta játékbevétel online kaszinójáték esetén: a tárgyhónapban befizetett tétek és a kifizetett nyeremények különbözete; ha a magyarországi online kaszinó üzemeltetője más szolgáltató által üzemeltetett, a 29/O. § (1) bekezdés c) pontja szerinti, más játékos elleni kártyajátékhoz csatlakozik az ilyen játékok esetében a tiszta játékbevétel a játékosok felé a magyarországi online kaszinó üzemeltetője által felszámított díjak vagy azokkal egy tekintet alá eső jutalékok összege azzal, hogy a játékadó alapjának megállapítása során a kétféle módon keletkezett tiszta játékbevétel összegét kell figyelembe venni.
 
 3. Bukmékeri rendszerű fogadás: olyan fogadási forma, amelyben a fogadásszervező a fogadási ajánlatában meghatározott fogadási esemény bekövetkezésére, kimenetelére a fogadó játékos részére – nyereményszorzó alapján – pénzösszeget ajánl fel, és azt nyerés esetén a megállapodásban rögzítettek szerint fizeti ki.
 
@@ -66,7 +66,7 @@ b) a 16. §-ban meghatározott tevékenységet folytató szervezet vagy személy
 
 27. Távszerencsejáték műszaki-informatikai rendszer: a távszerencsejáték-szervezés esetén a játékmenetet, a játékosazonosítást, a játékosi egyenlegek kezelését és az egyéb pénzügyi folyamatokat biztosító műszaki-informatikai berendezés és szoftver.
 
-28. Szerver: a távszerencsejáték műszaki-informatikai rendszer részét képező, adattárolásra és feldolgozásra szolgáló eszköz.
+28. Szerver: a szerencsejáték műszaki-informatikai rendszer részét képező, adattárolásra és feldolgozásra szolgáló eszköz.
 
 29. Játékosi egyenleg: a játékos részére szerencsejátékkal kapcsolatos tétek, nyeremények és egyéb játékügyletek elszámolása és nyilvántartása céljából a szervező által vezetett egyenleg. Amennyiben a szervező többfajta szerencsejáték szervezésére is engedéllyel rendelkezik, a játékos részére egyetlen közös játékosi egyenleg is létrehozható.
 

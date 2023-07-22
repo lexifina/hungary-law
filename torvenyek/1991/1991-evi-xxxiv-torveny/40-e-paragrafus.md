@@ -9,3 +9,7 @@
 (5) E törvénynek a Módtv5.-tel megállapított 12. § (3a) bekezdését, 13/C–13/F. §-át, 13/G. § (1), (3) és (4) bekezdését, valamint 13/H–13/I. §-át 2023. július 1. napját követően kell alkalmazni.
 
 (6) 2023. január 1. napján a szerencsejáték-felügyeleti hatóság megszünteti a 2023. január 1-jét megelőzően bejelentett és 2022. december 31-ét követő ajándéksorsoláshoz kapcsolódó sorsolási eseményre vonatkozó eljárásokat. Az eljárás megszüntetéséről a szerencsejáték-felügyeleti hatóság 15 napon belül tájékoztatja a szervezőt. A 2023. január 1. napját megelőzően lebonyolított sorsolási esemény esetében, illetve, ha folyamatosan szervezett ajándéksorsolás esetén az utolsó sorsolásra 2022. december 31-ét követően kerül sor, az ajándéksorsolás végelszámolását e törvény 2022. december 31-én hatályos rendelkezései alapján kell a szervezőnek teljesítenie.
+
+(7) E törvénynek a szerencsejáték-szervezéssel és az elektronikus ügyintézéssel összefüggő, valamint egyes törvényeknek a jogrendszer koherenciájának erősítése érdekében történő módosításáról szóló 2023. évi LX. törvénnyel (a továbbiakban: Módtv6.) megállapított 21/A. §-ában foglaltakat alkalmazni kell a már engedélyezett sorsjátékok jóváhagyott játékterve alapján lebonyolítható különsorsolásokra is.
+
+(8) E törvénynek a Módtv6.-tal megállapított 8/A. §-át és 29/F. § (1b) bekezdését az e rendelkezés hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.

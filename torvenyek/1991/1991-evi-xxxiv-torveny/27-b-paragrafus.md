@@ -2,7 +2,7 @@
 
 (2) A kérelemhez – a 7/B. § (3) bekezdésében foglaltakon túl – csatolni kell
 
-a) pénzváltási tevékenység végzése esetén az ehhez szükséges – a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben előírt – engedélyt,
+a) pénzváltási tevékenység végzése esetén az ehhez szükséges – a Hpt.-ben előírt – engedélyt,
 
 b) a játékkaszinó 1:200 léptékű építési és berendezési tervét, építészeti műleírását,
 

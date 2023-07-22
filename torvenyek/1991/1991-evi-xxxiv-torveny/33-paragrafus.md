@@ -1,3 +1,3 @@
 ## Játékautomaták játékadója játékadója
 
-33. §
+### 33. §

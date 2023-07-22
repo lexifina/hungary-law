@@ -60,7 +60,7 @@ e) az ellenőrzés alá vont időszakot.
 
 (3g) A szerencsejáték-felügyeleti hatóság jogosult a helyszíni ellenőrzést a helyszínre vagy a hatósági nyilvántartásához telepített, illetve a folyamatba beépített ellenőrző rendszerből történő távadat-szolgáltatás útján lefolytatni.
 
-(3h) A szerencsejáték-felügyeleti hatóság a helyszíni ellenőrzés során jogosult próbajátékot lefolytatni. A próbajáték keretében a szerencsejáték-felügyeleti hatóság által megszerzett nyeremény a központi költségvetés bevétele, amelyet a szerencsejáték-felügyeleti hatóság a nyeremény megszerzésétől számított 30 napon belül köteles befizetni.
+(3h) A szerencsejáték-felügyeleti hatóság a helyszíni ellenőrzés során jogosult próbajátékot lefolytatni. A próbajáték keretében a szerencsejáték-felügyeleti hatóság által megszerzett nyeremény a központi költségvetés bevétele, amelyet a szerencsejáték-felügyeleti hatóság annak megszerzésétől számított 30 napon belül köteles befizetni.
 
 (3i) Ha a szerencsejáték-felügyeleti hatóság az ellenőrzés során megállapítja, hogy a pénznyerő automatát engedély nélkül vagy a játékautomatát a 29/A. § szerinti bejelentési kötelezettség teljesítése nélkül működtetnek, a 26/A. §-ában meghatározott intézkedés kezdeményezése céljából jegyzőkönyvet készít, és azt a települési önkormányzat jegyzőjének továbbítja.
 

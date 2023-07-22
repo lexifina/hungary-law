@@ -8,7 +8,7 @@ b) távszerencsejáték szervezésen belül sporteseményre fogadás szervezés�
 
 c) az igazgatási-szolgáltatási díj befizetését igazoló okiratot.
 
-(1b) Az engedélyezési eljárásban a nem magyar nyelven kiállított okirat magyar nyelvű hiteles fordítását csatolni kell.
+(1b) Az engedélyezési eljárásban a nem magyar nyelven kiállított okirat magyar nyelvű fordítását csatolni kell. A szerencsejáték-felügyeleti hatóság a fordítás megfelelőségének ellenőrzése céljából hiteles fordítás benyújtását kérheti.
 
 (2) A távszerencsejáték-szervező a távszerencsejáték műszaki-informatikai rendszer e törvényben és külön jogszabályban meghatározott feltételeknek való megfelelését a külön jogszabályban meghatározott módon igazolja.
 
