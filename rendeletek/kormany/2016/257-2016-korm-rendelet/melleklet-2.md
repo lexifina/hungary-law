@@ -1,5 +1,3 @@
-## Az önkormányzati ASP rendszer szolgáltatásainak üzemeltetési és rendszertámogatási feladatainak ellátása
-
 |  | A | B | C | D | E |
 
 |  |  | szolgáltatási szint |  |

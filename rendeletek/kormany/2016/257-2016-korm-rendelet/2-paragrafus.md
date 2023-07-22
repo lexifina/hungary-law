@@ -22,9 +22,9 @@ c) a csatlakozott elektronikus ügyintézést biztosító szervtől az ügyfél 
 
 (4)[^9] Az önkormányzati ASP rendszer – a 3. § (2) bekezdés c) pontja szerinti szakrendszer szolgáltatásainak igénybevétele esetén – a csatlakozott önkormányzat vonatkozásában az E-ügyintézési tv. 25. § (3) bekezdése szerinti követelményeknek megfelelő, elektronikus ügyintézést biztosító információs rendszernek minősül.
 
-(5)[^10] A 3. § (2) bekezdés szerinti szakrendszerek, a keretrendszer és a támogató rendszerek működtetéséhez szükséges SZEÜSZ-ök szolgáltatója a SZEÜSZ-öket a csatlakozott önkormányzatok részére a Kincstár útján nyújtja. Ez nem zárja ki azt, hogy az önkormányzat – ha az önkormányzati ASP rendszer által nem támogatott feladatok ellátásához ez szükséges – a SZEÜSZ-öket közvetlenül is igénybe vegye.
+(5)[^10] A 3. § (2) bekezdése szerinti szakrendszerek, a keretrendszer és a támogató rendszerek működtetéséhez szükséges SZEÜSZ-ök szolgáltatója a SZEÜSZ-öket, valamint a földmérési és térinformatikai államigazgatási szerv a számítógépes ingatlannyilvántartási rendszerből történő teljes tulajdoni lap adattartalmára vonatkozó adatszolgáltatását a csatlakozott önkormányzatok részére a Kincstár útján nyújtja. Ez nem zárja ki azt, hogy az önkormányzat – ha az önkormányzati ASP rendszer által nem támogatott feladatok ellátásához ez szükséges – a SZEÜSZ-öket vagy a földmérési és térinformatikai államigazgatási szerv számítógépes ingatlannyilvántartási rendszerből történő teljes tulajdoni lap adattartalmára vonatkozó adatszolgáltatását közvetlenül is igénybe vegye.
 
 [^7]: A 2. § (2) bekezdés d) pontja a 100/2017. (IV. 28.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
 [^8]: A 2. § (3) bekezdését a 361/2017. (XI. 30.) Korm. rendelet 2. § (2) bekezdése iktatta be.
 [^9]: A 2. § (4) bekezdését a 361/2017. (XI. 30.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 75/2019. (IV. 9.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
-[^10]: A 2. § (5) bekezdését a 361/2017. (XI. 30.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^10]: A 2. § (5) bekezdését a 361/2017. (XI. 30.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 310/2023. (VII. 14.) Korm. rendelet 3. §-ával megállapított szöveg.

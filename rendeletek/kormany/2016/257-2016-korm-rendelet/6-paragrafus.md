@@ -6,7 +6,7 @@ a) a keretrendszer és a szakrendszerek igénybevételével (a továbbiakban: re
 
 b) – az önkormányzati ASP rendszer által támogatott feladatok önálló informatikai támogatása mellett – az önkormányzati adattárház számára a 3. mellékletben meghatározott adatok átadását lehetővé tevő interfész kiépítésével (a továbbiakban: interfészes csatlakozás)
 
-## csatlakozhat.
+csatlakozhat.
 
 (2)[^21]
 

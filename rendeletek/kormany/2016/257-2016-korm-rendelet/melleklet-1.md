@@ -2,5 +2,7 @@
 
 1. melléklet a 257/2016. (VIII. 31.) Korm. rendelethez[^56]
 
+Az önkormányzati ASP rendszer szolgáltatásainak üzemeltetési és rendszertámogatási feladatainak ellátása
+
 [^55]: A 18. §-t újonnan a 179/2018. (X. 2.) Korm. rendelet 4. §-a iktatta be.
 [^56]: Az 1. melléklet a 680/2020. (XII. 28.) Korm. rendelet 3. §-ával megállapított szöveg.

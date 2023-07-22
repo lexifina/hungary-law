@@ -16,7 +16,7 @@ e) g) pontja szerinti szakrendszer esetében az iparügyekért felelős miniszte
 
 f) h) pontja szerinti szakrendszer esetében az igazságügyért felelős miniszter
 
-## ellenőrzi a szakrendszer működését és meghatározza a szakrendszer fejlesztésének irányait.
+ellenőrzi a szakrendszer működését és meghatározza a szakrendszer fejlesztésének irányait.
 
 (2)[^15] Az önkormányzati ASP rendszer szakrendszereiben tárolt adatokat helyi önkormányzatonként, a gazdálkodási szakrendszer esetén önkormányzat által alapított költségvetési szervenként elkülönítve, az átjárhatóság kizárásával kell tárolni.
 

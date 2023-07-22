@@ -1,5 +1,3 @@
-## Egyéb, az önkormányzati ASP rendszer szolgáltatásait igénybe vevő szakrendszerek
-
 |  | A | B | C | D |
 
 | 1. | Rendszer megnevezése | Rendszer üzemeltetője | A rendszerek közötti kapcsolat terjedelme | Átadott adatok |

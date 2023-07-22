@@ -12,7 +12,7 @@ b) a 6. § (1) bekezdés b) pontja szerinti interfészen átadott, valamint
 
 c) a Kincstár rendszereiben az önkormányzati körre vonatkozóan rendelkezésre álló
 
-## személyes adatnak és adótitoknak nem minősülő, a 3. mellékletben meghatározott adat.
+személyes adatnak és adótitoknak nem minősülő, a 3. mellékletben meghatározott adat.
 
 (4) Az interfészen keresztül történő csatlakozás esetén a helyi önkormányzat a csatlakozást követően az önkormányzati adattárházba – a (3) bekezdésben foglaltakra figyelemmel – a 3. mellékletben meghatározott adatköröknek megfelelő adatokat köteles feltölteni.
 
@@ -26,7 +26,7 @@ b)[^41] az érintett helyi önkormányzat számára a saját álnevesített adat
 
 c) a helyi önkormányzatokért, az adópolitikáért, az államháztartásért, valamint a gazdaságpolitikáért felelős miniszter, a Központi Statisztikai Hivatal és az Állami Számvevőszék számára jogszabályban rögzített feladataik ellátása céljából
 
-## rendszeres és eseti adatlekérdezést, adatösszegzést és adatszolgáltatást végez.
+rendszeres és eseti adatlekérdezést, adatösszegzést és adatszolgáltatást végez.
 
 (7)[^42] Az önkormányzati adattárházban tárolt álnevesített adatok ismételt megszemélyesítését a saját adataik tekintetében kizárólag a helyi önkormányzatok végezhetik el.
 
