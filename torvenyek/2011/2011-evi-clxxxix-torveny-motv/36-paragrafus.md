@@ -26,7 +26,7 @@ h) a helyi önkormányzat által alapított vagy tulajdoni részesedésével mű
 
 i) médiatartalom-szolgáltató természetes személy, jogi személy, gazdasági társaság legfőbb szervének, ügyvezetésének tagja, személyes közreműködője, képviselet ellátására jogosultja.
 
-(1a) Nem minősül összeférhetetlenségi oknak, ha az önkormányzati képviselő, valamint a képviselő-testület bizottságának nem képviselő tagja – a polgármester és az alpolgármester kivételével – önkéntes tartalékos szolgálati viszonyt létesít, illetve tart fenn.
+(1a) Nem minősül összeférhetetlenségi oknak, ha az önkormányzati képviselő, valamint a képviselő-testület bizottságának nem képviselő tagja önkéntes tartalékos szolgálati viszonyt létesít, illetve tart fenn.
 
 (1b) Az (1) bekezdés a) pont aa) alpontját a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény 15. § (3) bekezdésével összhangban akként kell alkalmazni, hogy az érintett nem vehet részt olyan döntéshozatalban, illetve nem végezhet olyan tevékenységet, amelyet a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény 15. § (3) bekezdése tilt.
 
