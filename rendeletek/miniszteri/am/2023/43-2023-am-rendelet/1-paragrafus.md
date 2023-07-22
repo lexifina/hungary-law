@@ -1,3 +1,3 @@
-1. § A baromfi ágazatban igénybe vehető állatjóléti támogatások feltételeiről szóló 11/2019. (IV. 1.) AM rendelet [a továbbiakban: 11/2019. (IV. 1.) AM rendelet] 1. § 9. pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-(E rendelet alkalmazásában:)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
