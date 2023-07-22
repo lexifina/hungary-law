@@ -1,10 +1,9 @@
-## 3. § A közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter (a továbbiakban: miniszter) a NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság (a továbbiakban: központi szolgáltató) útján működteti a Kormányzati Adatközpontot, amelynek keretében az 1. mellékletben meghatározott KAK Felhő szolgáltatást, KAK Hoszting szolgáltatást és adatmegőrzési szolgáltatást (a továbbiakban együtt: adatközponti szolgáltatások) nyújt a felhasználók részére.
+## 3.[^8] Az adatközponti szolgáltatások igénybevétele
 
-## 3. Az adatközponti szolgáltatások igénybevételi formái
+4. § (1)[^9] Az adatközponti szolgáltatások igénybevétele a 6. § szerinti igénybevételi formában történhet.
 
-4. § (1)[^4] Az adatközponti szolgáltatások igénybevétele a különböző működési esetekhez tartozó kötelező vagy az 5. § szerinti igénybevételi formában történhet.
+(2)[^10]
 
-(2)[^5]
-
-[^4]: A 4. § (1) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 119. § b) pontja szerint módosított szöveg.
-[^5]: A 4. § (2) bekezdését a 618/2022. (XII. 29.) Korm. rendelet 19. § a) pontja hatályon kívül helyezte.
+[^8]: A 3. alcím címe a 310/2023. (VII. 14.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^9]: A 4. § (1) bekezdése a 310/2023. (VII. 14.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^10]: A 4. § (2) bekezdését a 618/2022. (XII. 29.) Korm. rendelet 19. § a) pontja hatályon kívül helyezte.
