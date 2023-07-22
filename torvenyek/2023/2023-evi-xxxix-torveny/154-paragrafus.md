@@ -1,1 +1,3 @@
-### 154. §
+154. § Az Ehat. 15/E. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Ha a kötelezett fél az adott évre számára előírt energiamegtakarítási kötelezettséget hitelesített energiamegtakarítás bejelentésével nem teljesítette, az energiamegtakarítási kötelezettség teljesítése helyett – részben vagy egészben – energiahatékonysági járulék megfizetését választhatja. Az energiahatékonysági járulék mértéke 50 000 Ft / minden nem teljesített 1 GJ/év energiamegtakarításra. Az energiahatékonysági járulékot a kötelezett fél a tárgyévet követő május 31-ig fizeti meg az energiapolitikáért felelős miniszter e törvény végrehajtására kiadott rendeletében meghatározott számlaszámra. Az energiahatékonysági járulékfizetés teljesítésének határidejét követően az energiapolitikáért felelős miniszter haladéktalanul tájékoztatja a Hivatalt a befizető kötelezett felek személyéről, a megfizetett összegről és a jóváírás dátumáról.”
