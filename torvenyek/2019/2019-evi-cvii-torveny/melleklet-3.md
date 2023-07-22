@@ -1,4 +1,4 @@
-## | | A) | B) | C) | | besorolási fokozat megnevezése | illetmény alsó határa | illetmény felső határa | 1. | tanácsos | 200 000 Ft | 350 000 Ft | 2. | vezető-tanácsos | 300 000 Ft | 500 000 Ft | 3. | főtanácsos I. | 400 000 Ft | 600 000 Ft | 4. | főtanácsos II. | 450 000 Ft | 700 000 Ft | 5. | vezető-főtanácsos | 500 000 Ft | 1 200 000 Ft | 6. | nem önálló szervezeti egység vezetője | 400 000 Ft | 1 100 000 Ft | 7. | önálló szervezeti egység vezetője | 550 000 Ft | 1 300 000 Ft
+## | | A) | B) | C) | | besorolási fokozat megnevezése | illetmény alsó határa | illetmény felső határa | 1. | tanácsos | a mindenkori garantált bérminimum | 500 000 Ft | 2. | vezető-tanácsos | 300 000 Ft | 650 000 Ft | 3. | főtanácsos I. | 400 000 Ft | 750 000 Ft | 4. | főtanácsos II. | 450 000 Ft | 1 000 000 Ft | 5. | vezető-főtanácsos | 500 000 Ft | 1 450 000 Ft | 6. | nem önálló szervezeti egység vezetője | 400 000 Ft | 1 450 000 Ft | 7. | önálló szervezeti egység vezetője | 550 000 Ft | 2 000 000 Ft
 
 3. melléklet a 2019. évi CVII. törvényhez
 
