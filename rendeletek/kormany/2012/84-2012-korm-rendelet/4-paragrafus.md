@@ -36,7 +36,7 @@ n)[^23] a papíralapú irat átalakítása hiteles elektronikus irattá szolgál
 
 o)[^24] a központi kormányzati szolgáltatás busz szolgáltatás vonatkozásában az IdomSoft Zrt.-t, a szolgáltatás igénybevételi feltételeinek ellenőrzése, a csatlakozó szervezetek nyilvántartása és az alkalmazáshoz kapcsolódó minőségbiztosítási feladatok vonatkozásában a KOPINT-DATORG Informatikai és Vagyonkezelő Kft.-t,
 
-p)[^25]
+p)[^25] az automatikus közigazgatási döntéshozatali rendszer vonatkozásában a KOPINT-DATORG Informatikai és Vagyonkezelő Kft.-t,
 
 q)[^26] a személyre szabott ügyintézési felület szolgáltatás tekintetében a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.-t, a szolgáltatás keretében elérhető elektronikus űrlapkitöltés támogatási alkalmazás alkalmazásfejlesztése, alkalmazásüzemeltetés támogatása, valamint a szolgáltatás igénybevételi feltételeinek ellenőrzése, a csatlakozó szervezetek nyilvántartása és a nem a KOPINT-DATORG Informatikai és Vagyonkezelő Kft. által fejlesztett alkalmazáshoz kapcsolódó minőségbiztosítási feladatok vonatkozásában a KOPINT-DATORG Informatikai és Vagyonkezelő Kft.-t,
 
@@ -71,7 +71,7 @@ x)[^33] szerepkör-tanúsító platform szolgáltatás vonatkozásban az IdomSof
 [^22]: A 4. § m) pontja a 717/2021. (XII. 20.) Korm. rendelet 14. § (6) bekezdésével megállapított szöveg.
 [^23]: A 4. § n) pontja a 291/2018. (XII. 21.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 618/2022. (XII. 29.) Korm. rendelet 7. §-a szerint módosított szöveg.
 [^24]: A 4. § o) pontját újonnan a 221/2017. (VIII. 7.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege az 572/2020. (XII. 9.) Korm. rendelet 48. § (4) bekezdésével megállapított szöveg.
-[^25]: A 4. § p) pontját az 515/2013. (XII. 30.) Korm. rendelet 31. § (2) bekezdése iktatta be, hatályon kívül helyezte a 379/2016. (XII. 2.) Korm. rendelet 200. § (15) bekezdés c) pontja.
+[^25]: A 4. § p) pontját újonnan a 310/2023. (VII. 14.) Korm. rendelet 1. §-a iktatta be.
 [^26]: A 4. § q) pontját az 515/2013. (XII. 30.) Korm. rendelet 31. § (2) bekezdése iktatta be, szövege az 572/2020. (XII. 9.) Korm. rendelet 48. § (5) bekezdésével megállapított szöveg.
 [^27]: A 4. § r) pontját az 515/2013. (XII. 30.) Korm. rendelet 31. § (2) bekezdése iktatta be, szövege az 572/2020. (XII. 9.) Korm. rendelet 48. § (5) bekezdésével megállapított szöveg.
 [^28]: A 4. § s) pontját az 515/2013. (XII. 30.) Korm. rendelet 31. § (2) bekezdése iktatta be, az 572/2020. (XII. 9.) Korm. rendelet 48. § (5) bekezdésével megállapított szöveg.
