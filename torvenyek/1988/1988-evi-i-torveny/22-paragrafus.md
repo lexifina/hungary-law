@@ -6,6 +6,8 @@
 
 (3) Jármű egyedi előállításához (összeépítéséhez), átalakításához, forgalomba helyezéséhez a közlekedési hatóság előzetes engedélye szükséges.
 
+(3a) A muzeális minősítő szervezet által kiadott, a járművek muzeális minősítését tanúsító érvényes muzeális jármű-igazolással rendelkező jármű – ide nem értve a közlekedési hatóság által kiadott összeépítési engedély alapján összeépített járművet – a magyarországi első forgalomba helyezési eljárásában mentesül a közlekedési hatóság által kiadott egyedi forgalomba helyezési engedély meglétének kötelezettsége alól.
+
 (4) A közlekedési hatóság az engedélyezett járműtípusok, valamint a jóváhagyott alkatrészek, tartozékok és önálló műszaki egységek típus-meghatározó műszaki adatairól nyilvántartást vezet.
 
 (5) Az engedélyezett járműtípusokkal, valamint a jóváhagyott alkatrészekkel, tartozékokkal és önálló műszaki egységekkel kapcsolatos ellenőrzésekre a közlekedési hatóság
