@@ -1,1 +1,3 @@
-2. § A 4/2014. (I. 27.) VM rendelet 2. § (3) bekezdésében a „100 millió forint” szövegrész helyébe a „126,1 millió forint” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
