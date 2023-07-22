@@ -1,0 +1,5 @@
+22. § A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény a következő 134/K. §-sal egészül ki:
+
+„134/K. § (1) A szerencsejáték-szervezéssel és az elektronikus ügyintézéssel összefüggő, valamint egyes törvényeknek a jogrendszer koherenciájának erősítése érdekében történő módosításáról szóló 2023. évi LX. törvénnyel (a továbbiakban: Módtv.) megállapított 39. § (1) bekezdését a Módtv. hatálybalépését követően indult ügyekben kell alkalmazni.
+
+(2) A Módtv. hatálybalépését megelőző napon hatályos 39. § (1) bekezdése alapján gyermekek otthongondozási díjában részesülő hozzátartozó jogosultsága az e törvény szerinti – 39. § (1) bekezdésén kívüli – jogosultsági feltételek fennállásáig nem szüntethető meg.”
