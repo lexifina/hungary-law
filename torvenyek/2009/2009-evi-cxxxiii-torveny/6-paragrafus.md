@@ -12,6 +12,6 @@ b) a Kormány rendeletében meghatározott dokumentumok
 
 csatolásával kell igazolni.
 
-(4) A kijelölési eljárásért – az e törvény végrehajtására kiadott miniszteri rendeletben meghatározottak szerint – igazgatási szolgáltatási díjat kell fizetni.
+(4) A minősített elektronikus aláírást és minősített elektronikus bélyegzőt létrehozó eszközök megfelelőségértékelési tevékenységére irányuló kijelölési eljárás kivételével a kijelölési eljárásért – az e törvény végrehajtására kiadott miniszteri rendeletben meghatározottak szerint – igazgatási szolgáltatási díjat kell fizetni.
 
 (5) A kijelölő hatóság eljárásaiban a hatóság az eljárást megszünteti, ha az ügyfél a kérelmére indult eljárásban a hiánypótlásra való felhívásnak (ideértve az igazgatási szolgáltatási díj és illeték, valamint a kérelemhez jogszabály alapján csatolandó mellékletek tekintetében történő felhívást is) határidőben nem tett eleget, és az erre megállapított határidő meghosszabbítását sem kérte.
