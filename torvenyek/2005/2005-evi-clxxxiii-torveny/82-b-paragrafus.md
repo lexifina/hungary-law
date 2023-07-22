@@ -12,6 +12,8 @@ elektronikus információs rendszert működtet.
 
 (3) Az (1) bekezdés szerinti elektronikus információs rendszer üzembe helyezése, annak naprakészen tartása érdekében az e törvényben, valamint e törvény felhatalmazása alapján kiadott jogszabályban meghatározott, adatszolgáltatásra kötelezett szervezetek a közlekedési hatóság felhívására, az abban meghatározott módon és határidőben kötelesek az adatszolgáltatási kötelezettség alá eső adataikat, adatállományokat, tömeges adatállományaikat – az elektronikus információs rendszer üzembe helyezéséhez szükséges adatfeltöltés, valamint a rendszeres adatszolgáltatás teljesítése érdekében – elektronikus úton a közlekedési hatóság részére átadni.
 
+(3a) A közlekedési hatóság a (3) bekezdésben meghatározott adatszolgáltatási kötelezettség nem határidőben, valamint nem megfelelő adattartalommal történő teljesítése esetén közigazgatási bírságot szabhat ki, amelynek mértéke 50 millió forintig terjedhet.
+
 (4) A személyiadat- és lakcímnyilvántartást kezelő szerv
 
 a) a közlekedési hatóság adatkérése alapján, az adatok ellenőrzése céljából, a személy nyilvántartásba vételekor értesíti a közlekedési hatóságot a személy természetes személyazonosító adatairól, lakcímadatairól, elhalálozásának helyéről és idejéről;

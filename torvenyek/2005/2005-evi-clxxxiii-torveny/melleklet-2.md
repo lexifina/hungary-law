@@ -15,7 +15,3 @@ d) a vonatközlekedés szabályozása, ideértve a jelző- és biztosítóberend
 e) a felsővezetéki rendszer használata a vontatási villamos energia biztosítása céljából, ha rendelkezésre áll;
 
 f) olyan szolgáltatás igénybevételéhez vagy üzemeltetéséhez szükséges minden egyéb információ, amelyre kapacitást ítéltek oda.
-
-2. Hozzáférést – ezen belül vasúti összeköttetést – kell biztosítani a következő kiszolgáló létesítményekhez, és az ezen létesítményekben nyújtott szolgáltatásokhoz:
-
-a) személypályaudvarok, épületeik és egyéb infrastruktúra, ideértve az utastájékoztató kijelzőket és a megfelelő menetjegykiadó épületeket is;

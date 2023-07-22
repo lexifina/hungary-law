@@ -20,19 +20,19 @@ b) a vasúti közlekedés biztonságával kapcsolatos munkakörökben foglalkozt
 
 a) pályahálózat-működtető, valamint vertikálisan integrált vállalkozás vasúti pályahálózatot működtető szervezeti egysége esetén
 
-aa) 200 km üzemeltetett vasúti hálózatig: 1 016 000 forint,
+aa) 200 km üzemeltetett vasúti hálózatig: 2 540 000 forint,
 
-ab) 200 km feletti üzemeltetett vasúti hálózatnál: 1 845 000 forint,
+ab) 200 km feletti üzemeltetett vasúti hálózatnál: 4 612 500 forint,
 
 b) vállalkozó vasúti társaság, valamint vertikálisan integrált vállalkozás vállalkozó vasúti tevékenységet végző szervezeti egysége esetén, a vállalkozó vasúti tevékenységenként külön-külön
 
-ba) 1–50 darab vasúti járművet üzembentartó vasúti társaság esetén 601 000 forint,
+ba) 1–50 darab vasúti járművet üzembentartó vasúti társaság esetén 1 502 000 forint,
 
-bb) 51–100 darab vasúti járművet üzembentartó vasúti társaság esetén 782 000 forint,
+bb) 51–100 darab vasúti járművet üzembentartó vasúti társaság esetén 1 955 000 forint,
 
-bc) 100 darab feletti vasúti járművet üzembentartó vasúti társaság esetén 1 024 000 forint;
+bc) 100 darab feletti vasúti járművet üzembentartó vasúti társaság esetén 2 560 000 forint,
 
-c) saját célú vasutak egységes biztonsági tanúsítványa, valamint vasútbiztonsági engedélye esetén külön-külön 421 000 forint,
+c) saját célú vasutak egységes biztonsági tanúsítványa, valamint vasútbiztonsági engedélye esetén külön-külön 1 052 500 forint,
 
 d)
 

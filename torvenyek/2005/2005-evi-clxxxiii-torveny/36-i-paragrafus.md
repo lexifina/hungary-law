@@ -56,10 +56,10 @@ műszaki hatósági engedélye kiadásának alapjául szolgáló feltételek fen
 
 a) a vasúti járművek gyártását, javítását végző személyek és szervezetek
 
-aa) járműgyártása, főjavítás végzése esetén 967 000 forint,
+aa) járműgyártása, főjavítás végzése esetén 2 417 500 forint,
 
-ab) fővizsgák végzése esetén 725 000 forint,
+ab) fővizsgák végzése esetén 1 812 500 forint,
 
-ac) közlekedés biztonságával összefüggő részegységek gyártása, javítása esetén 484 000 forint,
+ac) közlekedés biztonságával összefüggő részegységek gyártása, javítása esetén 1 210 000 forint,
 
-b) az (1) bekezdés b)–d) pontjában meghatározott szervezetek esetén 727 000 forint.
+b) az (1) bekezdés b)–d) pontjában meghatározott szervezetek esetén 1 817 500 forint.
