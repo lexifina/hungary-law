@@ -1,3 +1,1 @@
-9. § Az Njtv. 107. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A nemzetiségi önkormányzati képviselő megválasztásától számított harminc napon belül kérelmezi felvételét az adózás rendjéről szóló törvényben meghatározott köztartozásmentes adózói adatbázisba (a továbbiakban: adatbázis). A nemzetiségi önkormányzati képviselő az adatbázisba történő felvételére irányuló kérelme benyújtásának hónapját követő hónap utolsó napjáig a képviselő-testületnél, közgyűlésnél igazolja az adatbázisba való felvételének megtörténtét. Amennyiben az állami adóhatóság az adatbázisba történő felvételt követően megállapítja, hogy a nemzetiségi önkormányzati képviselő az adatbázisba történő felvétel feltételeinek nem felel meg, az adatbázisból törli, amelyről írásban értesíti a képviselő-testületet, közgyűlést és a fővárosi vagy vármegyei kormányhivatalt.”
+### 9. §
