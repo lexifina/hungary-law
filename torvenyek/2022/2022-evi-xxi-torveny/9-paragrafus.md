@@ -6,10 +6,14 @@
 
 (3) Az (1) bekezdés szerinti nyilvántartás adatainak megismerésére jogosult
 
-a) a miniszter,
+a) a miniszterelnök,
 
-b) a védelemgazdaság központi tervező szerve,
+b) a miniszter,
 
-c) a Honvéd Vezérkar főnöke (a továbbiakban: HVKF) és
+c) a védelemgazdaság központi tervező szerve,
 
-d) a Honvédség katonai igazgatási és központi adatfeldolgozó szerve.
+d) a védelmi és biztonsági igazgatás központi szervének vezetője,
+
+e) a Honvéd Vezérkar főnöke (a továbbiakban: HVKF) és
+
+f) a Honvédség katonai igazgatási és központi adatfeldolgozó szerve.
