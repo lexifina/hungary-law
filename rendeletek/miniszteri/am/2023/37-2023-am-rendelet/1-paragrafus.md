@@ -1,3 +1,3 @@
-1. § Az állati hulla elszállítási és ártalmatlanítási költségeinek támogatásáról szóló 56/2008. (IV. 25.) FVM rendelet [a továbbiakban: 56/2008. (IV. 25.) FVM rendelet] 1. § a) pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-(E rendelet alkalmazásában:)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

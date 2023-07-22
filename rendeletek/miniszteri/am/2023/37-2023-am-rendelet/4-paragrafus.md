@@ -1,1 +1,3 @@
-4. § Hatályát veszti az 56/2008. (IV. 25.) FVM rendelet 22–24. §-a.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
