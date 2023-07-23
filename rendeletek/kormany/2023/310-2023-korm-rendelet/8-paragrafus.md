@@ -1,3 +1,3 @@
-8. § A 467/2017. (XII. 28.) Korm. rendelet 3. alcím címe helyébe a következő alcím cím lép:
+8. §[^9]
 
-„3. Az adatközponti szolgáltatások igénybevétele”
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

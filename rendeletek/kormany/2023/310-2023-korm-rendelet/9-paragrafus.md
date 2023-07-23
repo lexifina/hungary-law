@@ -1,3 +1,3 @@
-9. § A 467/2017. (XII. 28.) Korm. rendelet 4. § (1) bekezdése helyébe a következő rendelkezés lép:
+9. §[^10]
 
-„(1) Az adatközponti szolgáltatások igénybevétele a 6. § szerinti igénybevételi formában történhet.”
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

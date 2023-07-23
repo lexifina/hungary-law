@@ -1,1 +1,3 @@
-5. § A 451/2016. (XII. 19.) Korm. rendelet 134/O. §-át megelőzően a „IV/A. FEJEZET SZEREPKÖR-TANÚSÍTÁSI SZOLGÁLTATÁS” fejezet címe helyébe a „Szerepkör-tanúsítási szolgáltatás” alcím cím lép.
+5. §[^6]
+
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

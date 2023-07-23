@@ -1,1 +1,3 @@
-21. § Hatályát veszti a szabályozott elektronikus ügyintézési szolgáltatások bejelentéséért fizetendő igazgatási szolgáltatási díjról szóló 48/2016. (XI. 28.) BM rendelet.
+21. §[^21]
+
+[^21]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
