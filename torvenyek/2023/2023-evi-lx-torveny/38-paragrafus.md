@@ -1,1 +1,1 @@
-38. § A kormányzati igazgatásról szóló 2018. évi CXXV. törvény 95. § (10) bekezdés b) pontjában a „biztosító tulajdonosi részesedés” szövegrész helyébe a „biztosító megállapodás vagy részesedés” szöveg lép.
+### 38. §

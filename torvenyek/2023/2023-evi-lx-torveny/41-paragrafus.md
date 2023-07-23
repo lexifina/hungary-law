@@ -1,3 +1,1 @@
-41. § A nemzeti adatvagyonról szóló 2021. évi XCI. törvény 15. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Felhatalmazást kap a Kormány, hogy a 12. § (2) bekezdése szerinti államigazgatási szerveket és a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 1. pontja szerinti, belföldi székhelyű átlátható szervezeteket, valamint azon nyilvántartásokat, amelyek tekintetében adatfeldolgozással kizárólag ezek bízhatók meg, továbbá azon nyilvántartásokat, amelyek tekintetében a 12. § (2) bekezdése szerinti adatfeldolgozó megbízására az adatkezelő köteles, rendeletben határozza meg.”
+### 41. §
