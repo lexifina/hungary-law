@@ -36,4 +36,8 @@ c) az engedély nélkül létesített célkitermelőhely esetében nem áll rend
 
 (11b) Nincs helye a (11) bekezdés szerinti eredeti állapot helyreállításra kötelezésnek, ha a cselekménynek az ingatlanügyi hatóság tudomására jutásától számított 3 év eltelt. A határidő számításakor a jogorvoslati eljárás időtartamát figyelmen kívül kell hagyni.
 
+(11c) Ha a (11) bekezdés szerinti 10 éves időtartam eltelt és a más célú hasznosítás utólagos engedélyezésének nincs helye, az ingatlanügyi hatóság megállapítja az engedély nélküli más célú hasznosítás tényét, és az igénybevevőt a 24. § (3b) bekezdésének figyelembevételével földvédelmi bírság megfizetésére kötelezi.
+
+(11d) Az ingatlanügyi hatóság az eljárást megszünteti, ha a (11) bekezdés szerinti 10 éves időtartam eltelt, a más célú hasznosítás utólagos engedélyezésének nincs helye és a 24. § (3a) és (3b) bekezdésének figyelembevételével földvédelmi bírság kiszabására sincs lehetőség.
+
 (12) Az igénybevevőnek a (8) bekezdésben meghatározott kérelme alapján a termőföld végleges más célú hasznosításának utólagos hozzájárulására akkor kerülhet sor, ha a más célú hasznosítás előzetes engedélyezésének a 11. §-ban és a 15/B. § (3) bekezdésben meghatározott feltételei – a 16/A. § (4) bekezdésben meghatározott eset kivételével – egyébként fennállnak.

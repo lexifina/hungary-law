@@ -52,7 +52,9 @@ szóló határozatban kell rendelkezni.
 
 (3) A bírság – a termőföld ingatlan-nyilvántartás szerinti művelési ága eredeti állapotának helyreállítási kötelezettsége alóli felmentés és az engedély nélkül más célra hasznosított termőföld továbbhasznosításához történő hozzájárulás esetét kivéve – ismételten is kiszabható.
 
-(3a) Nincs helye földvédelmi bírság kiszabásának, ha a cselekménynek az ingatlanügyi hatóság tudomására jutásától számított egy év, illetve a cselekmény elkövetésétől számított öt év eltelt. A határidő számításakor a jogorvoslati eljárás időtartamát nem kell figyelembe venni.
+(3a) Nincs helye földvédelmi bírság kiszabásának, ha a cselekménynek az ingatlanügyi hatóság tudomására jutásától számított 1 év, illetve – a (3b) bekezdés kivételével – a cselekmény elkövetésétől számított 5 év eltelt. A határidő számításakor a jogorvoslati eljárás időtartamát nem kell figyelembe venni.
+
+(3b) Az (1) bekezdés f) pontja alapján nincs helye földvédelmi bírság kiszabásának, ha a 16. § (11) bekezdése szerinti elévülési időtartam elteltétől számított öt év eltelt.
 
 (4) Az (1) bekezdés a) pont aa) és ab) alpontja, valamint b) pont ba) alpontja szerinti földvédelmi bírságot a földhasználati nyilvántartásba bejegyzett földhasználóval szemben kell kiszabni. Ha a földhasználati nyilvántartásban nincs bejegyzett földhasználó, a földvédelmi bírságot a tulajdonossal, haszonélvezet fennállása esetén a haszonélvezővel szemben kell kiszabni. Ha az érintett földrészletnek a földhasználati nyilvántartás szerint több földhasználója van, vagy az érintett földrészlet közös tulajdonban áll, a földvédelmi bírság megfizetésének a kötelezettsége a földhasználókat vagy a tulajdonosokat, illetve haszonélvezőket egyetemlegesen terheli.
 
