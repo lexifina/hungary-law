@@ -38,6 +38,8 @@ ap) az élelmiszerláncban felhasználásra szánt fertőtlenítőszerek előál
 
 aq) az élelmiszerrel rendeltetésszerűen érintkezésbe kerülő anyag, tárgy, eszköz és gép előállítására és forgalomba hozatalára
 
+ar) a nem állami laboratóriumok működésére
+
 vonatkozó, a 60–62. §-okban meghatározottaktól eltérő egyéb előírásokat megszegi;
 
 b) azzal szemben, aki az élelmiszerlánc-felügyeleti szerv hatósági tevékenységét akadályozza, intézkedését figyelmen kívül hagyja;
