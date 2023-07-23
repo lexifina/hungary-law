@@ -44,6 +44,10 @@ u) nem nyilvántartott halgazdálkodási vízterületre területi jegyet kiadó,
 
 v) a 21. § (1a) bekezdésében meghatározott tilalmat megszegő
 
+w) a kifogott hal tárolására vonatkozó szabályokat megszegő,
+
+x) a megfogott halnak a halász-, illetve horgászmódszerből adódó elkerülhetetlen minimumot meghaladó fizikai sérülést okozó
+
 személlyel szemben.
 
 (1a) A halgazdálkodási hatóság országos illetékességű szerve alkalmazásában álló állami halőr az (1) bekezdés szerinti halvédelmi bírság helyszíni bírságként történő kiszabására jogosult.
