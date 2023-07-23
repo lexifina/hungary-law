@@ -52,7 +52,7 @@ A jogi segítségnyújtás keretében nyújtott támogatások iránti kérelem b
 
 4. A kérelmezővel közös háztartásban élő személyek 3. pontban meghatározott jövedelmi adatai
 
-5. A kérelmező és a vele közös háztartásban élő személyek jövedelmére vonatkozó összesített adatok
+5.[^9] A kérelmező és a vele közös háztartásban élő személyek jövedelmére vonatkozó összesített adatok
 
 5.1. havi összes nettó jövedelem
 
@@ -76,11 +76,21 @@ A jogi segítségnyújtás keretében nyújtott támogatások iránti kérelem b
 
 5.3.2.2. címe
 
-5.4. a levonások után fennmaradó összeg
+5.4. a havi összes nettó jövedelemből levonható általuk fizetett, lakhatással kapcsolatos költségek
 
-5.5. a közös háztartásban élő személyek száma összesen
+5.4.1. közüzemi díjak (villamosenergia-szolgáltatás, földgázszolgáltatás, távhőszolgáltatás, egyéb fűtési költségek, víziközmű-szolgáltatás, hulladékgazdálkodási szolgáltatás, közcélú távbeszélő-szolgáltatás, otthoni internetszolgáltatás) összege
 
-5.6. az egy főre eső havi nettó jövedelem
+5.4.2. lakbér összege
+
+5.4.3. közös költség összege
+
+5.5. a létfenntartásukat veszélyeztető egyéb kiadások összege
+
+5.6. a levonások után fennmaradó összeg
+
+5.7. a közös háztartásban élő személyek száma összesen
+
+5.8. az egy főre eső havi nettó jövedelem
 
 6. A kérelmező vagyonára vonatkozó adatok
 
@@ -232,4 +242,5 @@ A jogi segítségnyújtás keretében nyújtott támogatások iránti kérelem b
 
 11.1. a fél tájékoztatása arról, hogy az 1.9., 6.1., 6.2. és 6.5. pont szerinti adatokat nem köteles feltüntetni kérelmén
 
-[^8]: Az 1. melléklet a 16/2018. (VI. 22.) IM rendelet 16. § (1) bekezdése szerint módosított szöveg.
+[^8]: Az 1. melléklet a 16/2018. (VI. 22.) IM rendelet 16. § (1) bekezdése, a 10/2023. (VII. 20.) IM rendelet 3. §-a szerint módosított szöveg.
+[^9]: Az 1. melléklet 5. pontja a 10/2023. (VII. 20.) IM rendelet 3. §-ával megállapított szöveg.
