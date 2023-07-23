@@ -6,6 +6,8 @@ b) az a) pontban megjelölt valamelyik adatot és azt, hogy a hirdetményezés a
 
 ba) a címzett természetes személyazonosító adatainak – részben vagy egészben való – ismeretlensége miatt nem lehet azonosítani,
 
-bb) arra vonatkozó adat merül fel, hogy más törvényes örökös hiányában a Magyar Állam örököl, vagy
+bb)[^10] arra vonatkozó adat merül fel, hogy más törvényes örökös hiányában a Magyar Állam vagy belföldi települési önkormányzat örököl, vagy
 
 bc) a hagyatéki tartozás jogosultja ismeretlen.
+
+[^10]: A 16. § b) pont bb) alpontja a 10/2023. (VII. 20.) IM rendelet 2. § a) pontja szerint módosított szöveg.

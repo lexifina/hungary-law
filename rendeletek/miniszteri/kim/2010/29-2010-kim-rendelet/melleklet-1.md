@@ -1,6 +1,6 @@
-## 25. §[^16] E rendelet 1. §-a, 4/A. §-a, 1. mellékletének 2.2.4. pontja, valamint 2. melléklete az öröklési ügyekre irányadó joghatóságról, az alkalmazandó jogról, az öröklési ügyekben hozott határozatok elismeréséről és végrehajtásáról, valamint az öröklési ügyekben kiállított közokiratok elfogadásáról és végrehajtásáról, valamint az európai öröklési bizonyítvány bevezetéséről szóló, 2012. július 4-i 650/2012/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+## 25. §[^17] E rendelet 1. §-a, 4/A. §-a, 1. mellékletének 2.2.4. pontja, valamint 2. melléklete az öröklési ügyekre irányadó joghatóságról, az alkalmazandó jogról, az öröklési ügyekben hozott határozatok elismeréséről és végrehajtásáról, valamint az öröklési ügyekben kiállított közokiratok elfogadásáról és végrehajtásáról, valamint az európai öröklési bizonyítvány bevezetéséről szóló, 2012. július 4-i 650/2012/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-1. melléklet a 29/2010. (XII. 31.) KIM rendelethez[^17]
+1. melléklet a 29/2010. (XII. 31.) KIM rendelethez[^18]
 
 A hagyatéki leltár nyomtatványának adattartalma
 
@@ -22,7 +22,7 @@ A hagyatéki leltár nyomtatványának adattartalma
 
 2.1.1. a hagyatékban található vagyontárgy jellege (pl. a hagyatékban ingatlan, gazdasági társasági/szövetkezeti részesedés, lajstromozott tárgy van)
 
-2.1.2. az örökösként érdekelt személye (pl. nem rendelkezik teljes cselekvőképességgel/méhmagzat/Magyar Állam stb.)
+2.1.2.[^19] az örökösként érdekelt személye (pl. nem rendelkezik teljes cselekvőképességgel/méhmagzat/Magyar Állam / belföldi települési önkormányzat stb.)
 
 2.1.3. végintézkedéssel történt alapítványrendelés
 
@@ -42,7 +42,7 @@ A hagyatéki leltár nyomtatványának adattartalma
 
 3.1. a közjegyzőnek (megjegyzésben az illetékességét megállapító ok)
 
-3.2.[^18] a fővárosi és vármegyei kormányhivatal gyermekvédelmi és gyámügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalának (a továbbiakban: gyámhivatal) (megjegyzésben ennek oka)
+3.2.[^20] a fővárosi és vármegyei kormányhivatal gyermekvédelmi és gyámügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalának (a továbbiakban: gyámhivatal) (megjegyzésben ennek oka)
 
 4. Az örökhagyóra vonatkozó adatok:
 
@@ -178,6 +178,7 @@ A hagyatéki leltár nyomtatványának adattartalma
 
 12. A leltár mellékleteinek felsorolása
 
-[^16]: A 25. §-t a 12/2015. (VII. 23.) IM rendelet 4. § (5) bekezdése iktatta be.
-[^17]: Az 1. melléklet a 20/2017. (XII. 21.) IM rendelet 35. § (2) bekezdésével megállapított szöveg.
-[^18]: Az 1. melléklet 3. pont 3.2. alpontja a 38/2022. (XII. 27.) IM rendelet 7. §-a szerint módosított szöveg.
+[^17]: A 25. §-t a 12/2015. (VII. 23.) IM rendelet 4. § (5) bekezdése iktatta be.
+[^18]: Az 1. melléklet a 20/2017. (XII. 21.) IM rendelet 35. § (2) bekezdésével megállapított szöveg.
+[^19]: Az 1. melléklet 2. pont 2.1. alpont 2.1.2. pontja a 10/2023. (VII. 20.) IM rendelet 2. § b) pontja szerint módosított szöveg.
+[^20]: Az 1. melléklet 3. pont 3.2. alpontja a 38/2022. (XII. 27.) IM rendelet 7. §-a szerint módosított szöveg.
