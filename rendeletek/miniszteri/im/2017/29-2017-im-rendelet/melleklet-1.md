@@ -1,4 +1,4 @@
-1. melléklet a 29/2017. (XII. 27.) IM rendelethez[^8]
+1. melléklet a 29/2017. (XII. 27.) IM rendelethez[^9]
 
 Az azonnali pénzügyi segély iránti kérelem benyújtására szolgáló nyomtatvány adattartalma
 
@@ -84,4 +84,4 @@ Az azonnali pénzügyi segély iránti kérelem benyújtására szolgáló nyomt
 
 6. Tájékoztató
 
-[^8]: Az 1. melléklet a 18/2020. (XII. 29.) IM rendelet 11. § (1) bekezdésével megállapított, a 18/2021. (XII. 23.) IM rendelet 25. § (1) bekezdése szerint módosított szöveg.
+[^9]: Az 1. melléklet a 18/2020. (XII. 29.) IM rendelet 11. § (1) bekezdésével megállapított, a 18/2021. (XII. 23.) IM rendelet 25. § (1) bekezdése szerint módosított szöveg.

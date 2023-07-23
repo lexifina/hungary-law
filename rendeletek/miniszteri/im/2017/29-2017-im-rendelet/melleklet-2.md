@@ -1,4 +1,4 @@
-2. melléklet a 29/2017. (XII. 27.) IM rendelethez[^9]
+2. melléklet a 29/2017. (XII. 27.) IM rendelethez[^10]
 
 Az állami kárenyhítés iránti kérelem benyújtására szolgáló nyomtatvány adattartalma
 
@@ -102,4 +102,4 @@ Az állami kárenyhítés iránti kérelem benyújtására szolgáló nyomtatvá
 
 6. Tájékoztató
 
-[^9]: A 2. melléklet a 18/2020. (XII. 29.) IM rendelet 11. § (2) bekezdésével megállapított, a 18/2021. (XII. 23.) IM rendelet 25. § (2) bekezdése szerint módosított szöveg.
+[^10]: A 2. melléklet a 18/2020. (XII. 29.) IM rendelet 11. § (2) bekezdésével megállapított, a 18/2021. (XII. 23.) IM rendelet 25. § (2) bekezdése szerint módosított szöveg.
