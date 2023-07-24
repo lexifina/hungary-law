@@ -44,7 +44,7 @@ e) a befektetési vállalkozás éves beszámolóját, valamint az eredmény fel
 
 f) a befektetési vállalkozás közgyűléséről, az igazgatóság és a felügyelő bizottság üléséről készült jegyzőkönyveket,
 
-g) panasz vagy közérdekű bejelentés esetén a panasztevő által megadott személyes adatokat, valamint a panaszra okot adó eseményt és befektetési vállalkozás nevét,
+g) panasz, közérdekű bejelentés vagy visszaélés-bejelentés esetén a panaszos, a közérdekű bejelentő vagy a visszaélést bejelentő által megadott személyes adatokat, valamint a panaszra, a közérdekű bejelentésre vagy a visszaélés-bejelentésre okot adó eseményt és befektetési vállalkozás nevét,
 
 h) a szavatoló tőke és a tőkemegfelelés kiszámításának dokumentálását,
 
