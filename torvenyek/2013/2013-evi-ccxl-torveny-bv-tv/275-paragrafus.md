@@ -18,7 +18,7 @@ h) a bv. intézetben a rendelkezésre álló sport- és közművelődési lehet�
 
 i) naponta legalább egy óra szabad levegőn tartózkodásra jogosult,
 
-j) a bv. intézetben, illetve annak felügyeleti szerveinél és a büntetés-végrehajtástól független szervhez közérdekű bejelentés, panasz, kérelem és jognyilatkozat előterjesztésére jogosult.
+j) a bv. intézetben, illetve annak felügyeleti szerveinél és a büntetés-végrehajtástól független szervhez közérdekű bejelentés, visszaélés-bejelentés, panasz, kérelem és jognyilatkozat előterjesztésére jogosult.
 
 (2) Az elzárásra ítélt részére kimaradás nem engedélyezhető, ha ellene szabadságvesztéssel fenyegetett bűncselekmény miatt újabb büntetőeljárás van folyamatban, és az a bíróság, illetve ügyészség, amely előtt a büntetőeljárás folyamatban van, a büntetőeljárás eredményének veszélyeztetése okán nem járult hozzá ahhoz, hogy az elítélt a bv. intézetet őrzés nélkül elhagyhassa.
 

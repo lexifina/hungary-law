@@ -16,6 +16,6 @@ b) közvetlenül fordulhat az alapvető jogok biztosához, valamint a kínzás �
 
 c) kérelemmel, panasszal fordulhat törvényben kihirdetett nemzetközi egyezményben elismerten erre hatáskörrel rendelkező nemzetközi jogvédő szervezethez.
 
-(6) Az (1) bekezdésen kívüli egyéb jogviszonyokat érintően az elítélt és az egyéb jogcímen fogvatartott az általános szabályok szerint, korlátozás nélkül – ide nem értve a fogvatartás tényéből eredő eltéréseket – érvényesítheti jogait, vagy fordulhat a bírósághoz, illetve az állami szervekhez, tehet panaszt vagy közérdekű bejelentést.
+(6) Az (1) bekezdésen kívüli egyéb jogviszonyokat érintően az elítélt és az egyéb jogcímen fogvatartott az általános szabályok szerint, korlátozás nélkül – ide nem értve a fogvatartás tényéből eredő eltéréseket – érvényesítheti jogait, vagy fordulhat a bírósághoz, illetve az állami szervekhez, tehet panaszt, visszaélés-bejelentést vagy közérdekű bejelentést.
 
 (7) A (3) bekezdés szerinti személy alatt a Be. 81–82. §-ai szerinti különleges bánásmódot igénylő személyt is érteni kell.

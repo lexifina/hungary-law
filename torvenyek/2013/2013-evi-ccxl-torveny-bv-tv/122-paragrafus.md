@@ -18,7 +18,7 @@ eb) önképzésre, sajtótermékek megrendelésére, a bv. intézet művelődés
 
 ec) tanuláshoz való jogát e törvényben meghatározottak szerint gyakorolni; általános iskolai, középfokú, valamint felsőfokú tanulmányok megkezdésére, illetve folytatására, a vizsgákra való felkészüléshez tanulmányi és vizsgaszabadságra,
 
-f) a bv. intézetben, illetve annak felügyeleti szerveinél és a büntetés-végrehajtástól független szervhez közérdekű bejelentés, panasz, kérelem és jognyilatkozat előterjesztésére,
+f) a bv. intézetben, illetve annak felügyeleti szerveinél és a büntetés-végrehajtástól független szervhez közérdekű bejelentés, visszaélés-bejelentés, panasz, kérelem és jognyilatkozat előterjesztésére,
 
 g) a büntetés végrehajtása során jogorvoslati joggal élni,
 
