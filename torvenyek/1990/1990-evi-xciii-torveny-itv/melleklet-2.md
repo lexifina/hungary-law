@@ -826,8 +826,6 @@ A jogi segítségnyújtás engedélyezésére irányuló eljárás
 
 |
 
-A közérdekű bejelentés, javaslat és a panasz elbírálására irányuló eljárás
-
 |
 
 5.
