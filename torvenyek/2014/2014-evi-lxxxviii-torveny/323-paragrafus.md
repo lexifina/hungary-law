@@ -26,7 +26,7 @@ f) a biztosító, viszontbiztosító, független biztosításközvetítő éves 
 
 g) a biztosító, viszontbiztosító közgyűléséről, az igazgatóság és a felügyelőbizottsági üléséről készült jegyzőkönyveket,
 
-h) a panasz vagy közérdekű bejelentés esetén a panasztevő által megjelölt személyes adatokat és a panaszra okot adó eseményt és az érintett intézményt,
+h) panasz, közérdekű bejelentés vagy visszaélés-bejelentés esetén a panaszos, a közérdekű bejelentő, vagy a visszaélést bejelentő által megjelölt személyes adatokat és a panaszra, a közérdekű bejelentésre vagy a visszaélés-bejelentésre okot adó eseményt és az érintett intézményt,
 
 i) a szavatolótőke és a tőkemegfelelés kiszámításának dokumentálását,
 
