@@ -1,1 +1,0 @@
-9. § Ha a közérdekű bejelentés természetes személyre vonatkozik, az e természetes személyt megillető, a személyes adatairól való tájékoztatáshoz való joga gyakorlása során a közérdekű bejelentő személyes adatai nem tehetők megismerhetővé a tájékoztatást kérő személy számára.
