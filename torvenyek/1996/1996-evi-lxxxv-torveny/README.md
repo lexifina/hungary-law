@@ -36,3 +36,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-85-00-00
 | 2023-01-01 | 2022. évi XLVIII. törvény | 1996-85-00-00.45 |
 | 2023-05-14 | 2023. évi XXI. törvény | 1996-85-00-00.47 |
 | 2023-06-24 | 2023. évi XXXIX. törvény | 1996-85-00-00.49 |
+| 2023-07-24 | 2023. évi XXV. törvény | 1996-85-00-00.48 |

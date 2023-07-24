@@ -16,7 +16,7 @@ f) az eljáró szerv
 
 fa) közigazgatási hatósági eljáráshoz,
 
-fb) közérdekű bejelentés, javaslat és panasz elbírálására irányuló eljáráshoz,
+fb) közérdekű bejelentés, elkülönített visszaélés-bejelentési rendszerben, valamint a közérdekű bejelentések védett elektronikus rendszerében megtett visszaélés-bejelentés, javaslat és panasz elbírálására irányuló eljáráshoz,
 
 fc) gondnokság alá helyezés iránti eljáráshoz,
 

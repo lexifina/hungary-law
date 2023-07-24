@@ -24,7 +24,7 @@ g) a birtok-összevonási célú földcsere keretében létrejött megállapodá
 
 h) a végrehajtási eljárásban az árverés, nyilvános pályázat kitűzése tényének és időpontjának feljegyzésére, valamint az árverés sikertelensége és a pályázat eredménytelensége esetén annak törlésére irányuló eljárás;
 
-i) a közérdekű bejelentés, javaslat és a panasz elbírálására, valamint a közigazgatási hatóság és a büntetőügyben eljáró bíróság által elrendelt zárlat, az ügyész, a nyomozó hatóság és a büntető ügyben eljáró bíróság által elrendelt zár alá vétel tényének feljegyzésére és törlésére, továbbá a büntetőeljárás megindításának feljegyzésére és törlésére irányuló eljárás;
+i) a közérdekű bejelentés, az elkülönített visszaélés-bejelentési rendszerben, valamint a közérdekű bejelentések védett elektronikus rendszerében megtett visszaélés-bejelentés, a javaslat és a panasz elbírálására, valamint a közigazgatási hatóság és a büntetőügyben eljáró bíróság által elrendelt zárlat, az ügyész, a nyomozó hatóság és a büntető ügyben eljáró bíróság által elrendelt zár alá vétel tényének feljegyzésére és törlésére, továbbá a büntetőeljárás megindításának feljegyzésére és törlésére irányuló eljárás;
 
 j) a költségmentesség engedélyezése iránti eljárás;
 
