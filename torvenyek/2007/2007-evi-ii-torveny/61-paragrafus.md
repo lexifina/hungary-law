@@ -16,7 +16,7 @@ e) vallásának gyakorlására, ideértve a vallási előírásoknak megfelelő 
 
 f) a rendelkezésre álló közművelődési lehetőségek igénybevételére;
 
-g) kifogás, kérés, panasz, közérdekű bejelentés megtételére;
+g) kifogás, kérés, panasz, közérdekű bejelentés, visszaélés-bejelentés megtételére;
 
 h) napi legalább egy óra időtartamú szabad levegőn tartózkodásra;
 
