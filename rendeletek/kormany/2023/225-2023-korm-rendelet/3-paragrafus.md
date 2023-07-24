@@ -1,0 +1,1 @@
+3. § Ez a rendelet az uniós jog megsértését bejelentő személyek védelméről szóló, 2019. október 23-i (EU) 2019/1937 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
