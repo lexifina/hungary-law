@@ -12,6 +12,6 @@ c) a polgári légi közlekedési események jelentéséről, elemzéséről és
 
 d) a Magyarország területén tartózkodó magyar és nem magyar lobogójú, üzemben lévő úszólétesítmény üzemeltetője.
 
-(3) Azon foglalkoztatók, amelyek legalább 50, de legfeljebb 249 személyt foglalkoztatásra irányuló jogviszony keretében foglalkoztatnak, a belső visszaélés-bejelentési rendszert közösen is létrehozhatják.
+(3) Azon foglalkoztatók, amelyek legalább 50, de legfeljebb 249 személyt foglalkoztatásra irányuló jogviszony keretében foglalkoztatnak, a belső visszaélés-bejelentési rendszert közösen, illetve az erre jogosult más foglalkoztatóval is létrehozhatják. A (2) bekezdés szerinti foglalkoztatók, amelyek legfeljebb 249 személyt foglalkoztatásra irányuló jogviszony keretében foglalkoztatnak, a belső visszaélés-bejelentési rendszert közösen, illetve az erre jogosult más foglalkoztatóval is létrehozhatják.
 
 (4) A foglalkoztató akkor is létrehozhat belső visszaélés-bejelentési rendszert, ha e törvény alapján ilyen kötelezettsége nem áll fenn.

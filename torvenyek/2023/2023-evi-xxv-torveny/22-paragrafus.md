@@ -4,7 +4,7 @@
 
 (3) A (2) bekezdésben foglalt határidőt különösen indokolt esetben, a bejelentő egyidejű tájékoztatása mellett lehet meghosszabbítani. A bejelentőt ebben az esetben a kivizsgálás várható időpontjáról és a kivizsgálás meghosszabbítása indokairól kell tájékoztatni. A bejelentés kivizsgálásának és a bejelentő 24. § szerinti tájékoztatásának határideje a meghosszabbítás esetén sem haladhatja meg a három hónapot.
 
-(4) A bejelentések kivizsgálásában való közreműködéssel szerződés keretében bejelentővédelmi ügyvéd vagy más külső szervezet is megbízható. Külső szervezet megbízása esetén a külső szervezetre a bejelentővédelmi ügyvédre irányadó összeférhetetlenségi és pártatlansági szabályokat alkalmazni kell.
+(4) A bejelentések kivizsgálásában való közreműködéssel szerződés keretében bejelentővédelmi ügyvéd vagy más külső szervezet is megbízható. Külső szervezet megbízása esetén a külső szervezetre a bejelentővédelmi ügyvédre irányadó összeférhetetlenségi szabályokat, valamint a 19. § (1) bekezdése szerinti pártatlansági szabályokat alkalmazni kell.
 
 (5) A bejelentés kivizsgálása során a belső visszaélés-bejelentési rendszer működtetője kapcsolatot tart a bejelentővel, ennek keretében a bejelentés kiegészítésére, pontosítására, a tényállás tisztázására, valamint további információk rendelkezésre bocsátására hívhatja fel a bejelentőt.
 

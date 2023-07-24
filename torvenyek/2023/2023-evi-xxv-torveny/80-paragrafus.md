@@ -5,15 +5,3 @@ a) 4. § (1) bekezdésében az „a panaszokról és a közérdekű bejelentése
 b) 4. § (2) bekezdésében a „Pkbtv. 1. § (4) bekezdésétől” szövegrész helyébe a „Pkbtv. rendelkezéseitől” szöveg
 
 lép.
-
-|
-
-Novák Katalin s. k.,
-
-köztársasági elnök
-
-|
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
