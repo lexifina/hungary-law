@@ -1,0 +1,1 @@
+10. § Az elektronikus rendszerbe érkező közérdekű bejelentést – a 9. § (1) bekezdése szerinti esetben annak 9. § (2) bekezdése szerinti kivonatát – továbbítani kell az eljárásra jogosult szerv számára.

@@ -1,0 +1,1 @@
+39. § A 33. § (1) bekezdése szerinti bejelentést az alapvető jogok biztosa által működtetett közérdekű bejelentések védett elektronikus rendszerében is meg lehet tenni. A bejelentés kezelésére és elintézésére a 2. alcímet kell alkalmazni.

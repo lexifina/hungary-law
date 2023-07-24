@@ -1,0 +1,1 @@
+25. § A belső visszaélés-bejelentési rendszer működtetője világos és könnyen hozzáférhető információt nyújt a belső visszaélés-bejelentési rendszer működésére, a bejelentéssel kapcsolatos eljárásra, valamint az e törvény szerinti visszaélés-bejelentési rendszerekre és eljárásokra vonatkozóan.

@@ -1,0 +1,1 @@
+37. § A 32. § (1) és (2) bekezdése szerinti szervek háromévente felülvizsgálják az elkülönített visszaélés-bejelentési rendszer működtetésére vonatkozó eljárásaikat, és szükség esetén módosítják ezek belső szabályait.

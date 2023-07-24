@@ -1,0 +1,1 @@
+57. § A 6. alcímnek a helyi önkormányzatra, helyi önkormányzat irányítása vagy felügyelete alatt álló költségvetési szervre, vagy a helyi önkormányzat tulajdonában vagy tulajdonosi joggyakorlása alatt álló szervezetre, gazdasági társaságra vonatkozó szabályait 2025. január 1-jétől kell alkalmazni.

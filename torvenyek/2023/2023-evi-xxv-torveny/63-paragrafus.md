@@ -1,0 +1,1 @@
+63. § A tőkepiacról szóló 2001. évi CXX. törvény 200. §-ában az „a panaszokról és a közérdekű bejelentésekről szóló 2013. évi CLXV. törvény” szövegrész helyébe az „a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló törvény” szöveg lép.

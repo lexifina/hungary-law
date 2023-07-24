@@ -1,0 +1,1 @@
+58. § A 32. § (1) és (2) bekezdése szerinti szervek, valamint az alapvető jogok biztosa a 38. § szerinti kötelezettségüket első alkalommal az e törvény hatálybalépését követő évre vonatkozóan teljesítik.

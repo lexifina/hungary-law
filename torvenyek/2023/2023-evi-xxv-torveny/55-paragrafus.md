@@ -1,0 +1,1 @@
+55. § Az e törvény hatálybalépésekor folyamatban lévő, a panaszokról és a közérdekű bejelentésekről szóló 2013. évi CLXV. törvény szerinti panaszt és közérdekű bejelentést a panaszokról és a közérdekű bejelentésekről szóló 2013. évi CLXV. törvénynek az e törvény hatálybalépését megelőző napon hatályos rendelkezései szerint kell befejezni.

@@ -1,0 +1,1 @@
+47. § Jogszerűen megtett bejelentésnek kell tekinteni, ha a bejelentő a bejelentését a feladat- és hatáskörrel rendelkező európai uniós intézményeknél, szerveknél, hivataloknál vagy ügynökségeknél teszi meg, és a 45. § b) és c) pontja szerinti feltételek teljesülnek.

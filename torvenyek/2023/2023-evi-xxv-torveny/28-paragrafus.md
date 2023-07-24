@@ -1,0 +1,1 @@
+28. § Ha a foglalkoztató a munkavállalóira a munka törvénykönyvéről szóló 2012. évi I. törvény 9. § (2) bekezdésében meghatározott feltételekkel a közérdeket vagy nyomós magánérdeket védő magatartási szabályokat állapít meg, ezek megsértése a belső visszaélés-bejelentési rendszerben bejelenthető.

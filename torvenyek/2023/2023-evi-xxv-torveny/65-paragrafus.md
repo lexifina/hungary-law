@@ -1,0 +1,1 @@
+65. § A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 61. § (3) bekezdés g) pontjában a „bejelentés megtételére” szövegrész helyébe a „bejelentés, visszaélés-bejelentés megtételére” szöveg lép.

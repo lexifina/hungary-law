@@ -1,0 +1,1 @@
+12. § Az elektronikus rendszerben a közérdekű bejelentéssel, az az alapján folytatott vizsgálattal és a megtett intézkedésekkel kapcsolatos adatokat – a közérdekű bejelentő védelme és az érdekében tett intézkedések utólagos igazolhatósága céljából – az utolsó vizsgálati cselekmény vagy intézkedés befejezésétől számított öt évig meg kell őrizni, azt követően törölni kell.
