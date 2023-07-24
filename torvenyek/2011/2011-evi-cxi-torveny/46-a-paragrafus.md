@@ -10,4 +10,6 @@ c) a nők és férfiak közötti egyenlő bánásmód elvének az árukhoz és s
 
 d) a férfiak és nők közötti esélyegyenlőség és egyenlő bánásmód elvének a foglalkoztatás és munkavégzés területén történő megvalósításáról szóló, 2006. július 5-i 2006/54/EK tanácsi irányelvnek
 
+e) az uniós jog megsértését bejelentő személyek védelméről szóló, 2019. október 23-i (EU) 2019/1937 európai parlamenti és tanácsi irányelvnek
+
 való megfelelést szolgálja.
