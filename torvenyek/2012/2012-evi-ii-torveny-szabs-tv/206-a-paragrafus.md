@@ -1,5 +1,5 @@
-## 160/A. Közérdekű bejelentő üldözése
+## 160/A. A bejelentő üldözése
 
-206/A. § (1) Aki közérdekű bejelentés miatt a bejelentővel szemben hátrányos intézkedést tesz, szabálysértést követ el.
+206/A. § (1) Aki a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló törvény szerinti közérdekű bejelentés vagy visszaélés-bejelentés miatt a közérdekű bejelentővel vagy a visszaélés bejelentőjével szemben a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló törvény szerinti hátrányos intézkedést tesz, szabálysértést követ el.
 
-(2)
+(2) Aki a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló törvény szerinti visszaélés-bejelentés megtételét akadályozza vagy megkísérli akadályozni, szabálysértést követ el.
