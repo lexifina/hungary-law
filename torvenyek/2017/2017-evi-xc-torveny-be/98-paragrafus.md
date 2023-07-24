@@ -8,7 +8,7 @@ a) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megaka
 
 b) ha az érintett személyes adatainak zártan kezelését közigazgatási hatósági, polgári peres vagy más eljárásban elrendelték, az érintett személyes adatainak a védelme érdekében az érintett személy kihallgatásáig a személyes adatait tartalmazó ügyiratot,
 
-c) a panaszokról és a közérdekű bejelentésekről szóló törvény szerinti közérdekű bejelentő védelme érdekében a közérdekű bejelentő kihallgatásáig a közérdekű bejelentést tartalmazó ügyiratot
+c) a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló törvény szerinti közérdekű bejelentő vagy visszaélést bejelentő védelme érdekében a közérdekű bejelentő vagy a visszaélést bejelentő kihallgatásáig a közérdekű bejelentést vagy a visszaélés-bejelentési rendszerben megtett bejelentést tartalmazó ügyiratot
 
 zártan kell kezelni.
 
