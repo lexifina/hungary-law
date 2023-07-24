@@ -50,7 +50,7 @@ a) a hatóság megkeresésére annak hivatalból indított eljárásához,
 
 b) a kisajátítási eljáráshoz,
 
-c) a közérdekű bejelentés és panasz elbírálásához,
+c) a közérdekű bejelentés, az elkülönített visszaélés-bejelentési rendszerben, valamint a közérdekű bejelentések védett elektronikus rendszerében megtett visszaélés-bejelentés és a panasz elbírálásához,
 
 d) bíróság, ügyészség, nyomozó hatóság, közjegyző és bírósági végrehajtó részére jogszabályban meghatározott feladatai ellátásához,
 
