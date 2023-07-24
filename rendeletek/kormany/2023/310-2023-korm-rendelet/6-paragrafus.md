@@ -1,5 +1,0 @@
-## 5. Az egységes elektronikuskártya-kibocsátási keretrendszerről szóló 2014. évi LXXXIII. törvény végrehajtásáról szóló 304/2017. (X. 27.) Korm. rendelet módosítása
-
-6. §[^7]
-
-[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
