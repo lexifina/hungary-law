@@ -776,19 +776,21 @@ E) Víziközmű-szolgáltatással kapcsolatos hatósági eljárások igazgatási
 
 |  | b) másolat vagy kivonat kiadása adatszolgáltatással érintett víziközmű-rendszerenként elektronikus formában | 3 |
 
-F) Hulladékgazdálkodási közszolgáltatással kapcsolatos hatósági eljárások igazgatási szolgáltatási díjai:
+|  | c) másolat vagy kivonat kiadása a víziközmű-szolgáltató által üzemeltetett valamennyi víziközmű-rendszerről papír alapon | víziközmű- rendszerenként 3, de legfeljebb 300 |
+
+|  | d) másolat vagy kivonat kiadása a víziközmű-szolgáltató által üzemeltetett valamennyi víziközmű-rendszerről elektronikus formában | víziközmű- rendszerenként 1, de legfeljebb 200 |
+
+F) Hulladékgazdálkodással kapcsolatos hatósági eljárások igazgatási szolgáltatási díjai:
 
 |  | A | B |
 
 | 1 | Az igazgatási szolgáltatási díj-köteles hatósági eljárás megnevezése | Igazgatási szolgáltatási díj mértéke (ezer forint) |
 
-| 2 | A Ht. 47/B. §-a szerinti hulladékgazdálkodási közszolgáltatási díj megállapítása | 150 |
+| 2 | Az állami hulladékgazdálkodási közfeladat ellátásához szükséges hulladékgazdálkodási eszköz használatával összefüggő használati díj megállapítása | 250 |
 
-| 3 | Megfelelőségi vélemény kiállítására irányuló eljárás | 150 |
+| 3 | Az állami hulladékgazdálkodási közfeladat ellátásához szükséges hulladékgazdálkodási eszköz igénybevételével összefüggő igénybevételi díj megállapítása | 500 |
 
-| 4 | A Ht. 92/H. § (7) bekezdése szerinti szerződés jóváhagyására irányuló eljárás (szerződésenként) | 15 |
-
-| 5 | A Ht. 92/H. § (7) bekezdése szerinti kötelezettségvállalás jóváhagyására irányuló eljárás (kötelezettségvállalásonként) | 10 |
+| 4 | A hulladék értékkel bíró jellegének, illetve a kompenzáció mértékének megállapítása | 100 |
 
 G.) Energiahatékonysággal kapcsolatos hatósági eljárások igazgatási szolgáltatási díjai:
 
@@ -810,4 +812,4 @@ G.) Energiahatékonysággal kapcsolatos hatósági eljárások igazgatási szolg
 
 | 7 | pozitív eredményű költség-haszon elemzés esetén kiadott kötelező határozat végrehajtása alóli felmentési kérelem elbírálása | 200 |
 
-[^28]: Az 1. melléklet a 10/2014. (XI. 6.) MEKH rendelet 6. §-a, az 5/2015. (VIII. 7.) MEKH rendelet 2. §-a, az 1/2016. (IV. 15.) MEKH rendelet 1. §-a, a 19/2016. (XII. 23.) MEKH rendelet 8. §-a, a 3/2017. (IV. 18.) MEKH rendelet 1. §-a, a 8/2017. (VII. 28.) MEKH rendelet 1. §-a, a 14/2017. (XI. 8.) MEKH rendelet 1. § a)–b) pontja, a 8/2018. (VIII. 23.) MEKH rendelet 1. §-a, a 14/2018. (XII. 19.) MEKH rendelet 1. §-a, az 1/2019. (III. 13.) MEKH rendelet 3. §-a, a 17/2019. (XII. 20.) MEKH rendelet 1. § (2) bekezdése, a 6/2020. (VI. 29.) MEKH rendelet 3. § e) pontja, a 10/2020. (XI. 4.) MEKH rendelet 2. §-a, a 4/2021. (IV. 14.) MEKH rendelet 2. §-a, a 10/2021. (VIII. 13.) MEKH rendelet 5. §-a, a 2/2022. (III. 16.) MEKH rendelet 1. és 2. §-a, a 12/2022. (XI. 15.) MEKH rendelet 1. §-a szerint módosított szöveg.
+[^28]: Az 1. melléklet a 10/2014. (XI. 6.) MEKH rendelet 6. §-a, az 5/2015. (VIII. 7.) MEKH rendelet 2. §-a, az 1/2016. (IV. 15.) MEKH rendelet 1. §-a, a 19/2016. (XII. 23.) MEKH rendelet 8. §-a, a 3/2017. (IV. 18.) MEKH rendelet 1. §-a, a 8/2017. (VII. 28.) MEKH rendelet 1. §-a, a 14/2017. (XI. 8.) MEKH rendelet 1. § a)–b) pontja, a 8/2018. (VIII. 23.) MEKH rendelet 1. §-a, a 14/2018. (XII. 19.) MEKH rendelet 1. §-a, az 1/2019. (III. 13.) MEKH rendelet 3. §-a, a 17/2019. (XII. 20.) MEKH rendelet 1. § (2) bekezdése, a 6/2020. (VI. 29.) MEKH rendelet 3. § e) pontja, a 10/2020. (XI. 4.) MEKH rendelet 2. §-a, a 4/2021. (IV. 14.) MEKH rendelet 2. §-a, a 10/2021. (VIII. 13.) MEKH rendelet 5. §-a, a 2/2022. (III. 16.) MEKH rendelet 1. és 2. §-a, a 12/2022. (XI. 15.) MEKH rendelet 1. §-a, a 9/2023. (VI. 23.) MEKH rendelet 1. §-a szerint módosított szöveg.
