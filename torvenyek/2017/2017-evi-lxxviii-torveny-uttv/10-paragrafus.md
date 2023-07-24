@@ -11,3 +11,5 @@ a) az ügyvédi titkot tartalmazó adathordozó tárolását, archiválását, �
 b) az ügyvédi tevékenység gyakorlója számára számviteli szolgáltatást nyújtó személy,
 
 c) azok az ügyvédi megbízás teljesítésében közreműködő személyek, illetve a megbízás teljesítéséhez kapcsolódóan igénybe vett egyéb személyek, akiknek közreműködését, illetve igénybevételét az ügyfél jóváhagyta.
+
+d) a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló törvény szerinti belső visszaélés-bejelentési rendszer (a továbbiakban: belső visszaélés-bejelentési rendszer) működtetője.
