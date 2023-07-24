@@ -48,3 +48,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-1-00-00
 | 2022-05-25 | 2022. évi IV. törvény | 2007-1-00-00.46 |
 | 2023-01-01 | 2022. évi L. törvény | 2007-1-00-00.47 |
 | 2023-03-07 | 2020. évi XLII. törvény | 2007-1-00-00.50 |
+| 2023-07-24 | 2023. évi XXV. törvény | 2007-1-00-00.51 |
