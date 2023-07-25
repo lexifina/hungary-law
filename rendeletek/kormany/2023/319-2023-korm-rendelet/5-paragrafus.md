@@ -1,0 +1,1 @@
+5. § Azon vízbázisok esetében, amelyek tekintetében a 2. § (2) bekezdése szerinti hatósági eljárás e rendelet hatálybalépéséig még nem indult meg, azonban a számított védőterület meghatározása megtörtént, az ivóvízszolgáltató átadja a védőterületre, védőidomra vonatkozó térinformatikai állományt a területi vízügyi igazgatási szervek részére.
