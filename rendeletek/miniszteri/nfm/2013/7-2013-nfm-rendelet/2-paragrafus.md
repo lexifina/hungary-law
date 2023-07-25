@@ -16,7 +16,7 @@ g) Európai Támogatásokat Auditáló Főigazgatóság;
 
 h) Emberi Erőforrás Támogatáskezelő;
 
-i)[^9]
+i)[^9] Nemzeti Rendezvényszervező Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság
 
 j)[^10] Klebelsberg Intézményfenntartó Központ, a köznevelési feladatot ellátó egyes önkormányzati fenntartású intézmények állami fenntartásba vételéről szóló 2012. évi CLXXXVIII. törvény 5. § (1) bekezdése szerinti szervezeti egységként működő intézményegységek kivételével;
 
@@ -45,7 +45,7 @@ s)[^20] a Miniszterelnökség, a Magyar Kormánytisztviselői Kar Országos Irod
 [^6]: A 2. § c) pontját a 28/2013. (VI. 12.) NFM rendelet 3. §-a hatályon kívül helyezte, újonnan a 26/2014. (IV. 30.) NFM rendelet 1. §-a iktatta be.
 [^7]: A 2. § d) pontját a 3/2015. (II. 11.) BM rendelet 3. §-a hatályon kívül helyezte, újonnan a 12/2021. (V. 10.) BM rendelet 1. § (1) bekezdése iktatta be.
 [^8]: A 2. § e) pontját a 46/2015. (VII. 28.) BM rendelet 4. § (1) bekezdése hatályon kívül helyezte, újonnan a 12/2021. (V. 10.) BM rendelet 1. § (2) bekezdése iktatta be.
-[^9]: A 2. § i) pontját a 33/2021. (X. 1.) BM rendelet 1. § a) pontja hatályon kívül helyezte.
+[^9]: A 2. § i) pontját a 33/2021. (X. 1.) BM rendelet 1. § a) pontja hatályon kívül helyezte, újonnan a 16/2023. (VII. 24.) MK rendelet 1. §-a iktatta be.
 [^10]: A 2. § j) pontját a 28/2013. (VI. 12.) NFM rendelet 1. §-a iktatta be, szövege az 59/2013. (X. 9.) NFM rendelet 1. §-ával megállapított szöveg.
 [^11]: A 2. § k) pontját a 28/2013. (VI. 12.) NFM rendelet 2. §-a iktatta be.
 [^12]: A 2. § l) pontját az 59/2013. (X. 9.) NFM rendelet 2. §-a iktatta be.

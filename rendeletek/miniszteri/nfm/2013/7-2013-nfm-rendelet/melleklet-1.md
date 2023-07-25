@@ -140,11 +140,11 @@
 
 1.54.[^64]
 
-1.55.[^65] az Elektronikus Pályázatkezelési és Együttműködési Rendszer hardver infrastruktúra, valamint az alkalmazás- és adatbázis üzemeltetése, a jogosultságok kezelése, az űrlapok gyártása a rendszer szakmai felügyeleti feladatai kivételével;
+1.55.[^65]
 
 1.56.[^66] az EKOP-1.2.1-07-2008-0001 azonosító számú [Költségvetés Gazdálkodási Rendszer (KGR) című] projekt műszaki tartalmának módosításáról szóló 1447/2012. (X. 11.) Korm. határozat 1. pontjának kijelölése alapján a Magyar Államkincstár által működtetett Forrás SQL (ügyviteli) rendszer hardver infrastruktúrájának üzemeltetése;
 
-1.57.[^67] az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján a Nemzeti Választási Iroda által működtetett szakrendszerek kiszolgálását végző hardver infrastruktúrájának üzemeltetése;
+1.57.[^67]
 
 1.58.[^68] a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 3. Fejezet, valamint a 71. § (2) bekezdésében meghatározott, az EKOP-1.2.2-07-2008-0001, valamint az EKOP-1.A.1-08/B-2009-0009 számú projektek keretei között megvalósított Egységes Műtárgytár (EMT) és az ehhez kapcsolódó ügykezelő rendszer (IMER) működéséhez szükséges informatikai rendszerek, ideértve a „forsterkozpont” domain név 2018. január 1-jéig történő fenntartását és kezelését;
 
@@ -238,87 +238,87 @@
 
 1.60.1. az EKOP-1.A.2-2012-2012-0022 „Szolgáltatás-ellenőrzési és piacfelügyeleti szakrendszer-fejlesztés és eszközpark korszerűsítés a Nemzeti Fogyasztóvédelmi Hatóságnál” című kiemelt projekt keretei között megvalósult Központi Piacfelügyeleti Információs Rendszer (KPIR+) és a hozzá kapcsolódó társhatósági modul, valamint annak nyilvános felületének (www.piacfelugyelet.hu) üzemeltetése;
 
-1.60.2. az EKOP-2.A.2-2012-2012-0008 „A Nemzeti Fogyasztóvédelmi Hatóság által nyújtott online szolgáltatások és ügyfélkapcsolati rendszer integrációja és továbbfejlesztése” című kiemelt projekt keretei között megvalósult, a fogyasztóvédelmi hatóság honlapjához infrastruktúra biztosítása, ide nem értve a tartalommenedzsment szolgáltatásokat;
+1.60.2.[^71]
 
-1.60.3. az ÁROP-1.2.24-2014-2014-0001 „A fogyasztóvédelmi intézményrendszer szervezeti működésének fejlesztése” című kiemelt projekt keretei között megvalósult Fogyasztóvédelmi Portálhoz (http://fogyasztoiportal.nfh.hu) infrastruktúra biztosítása, ide nem értve a tartalommenedzsment szolgáltatásokat;
+1.60.3.[^72]
 
-1.60.4. az ÁROP-1.2.24-2014-2014-0001 „A fogyasztóvédelmi intézményrendszer szervezeti működésének fejlesztése” című kiemelt projekt keretei között megvalósult NFH intranethez infrastruktúra biztosítása, ide nem értve a tartalommenedzsment szolgáltatásokat;
+1.60.4.[^73]
 
-1.60.5. az ÁROP-1.2.24-2014-2014-0001 „A fogyasztóvédelmi intézményrendszer szervezeti működésének fejlesztése” című kiemelt projekt keretei között megvalósult Mintawebáruház weboldalhoz (http://mintawebaruhaz.fogyasztovedelem.kormany.hu) infrastruktúra biztosítása, ide nem értve a tartalommenedzsment szolgáltatásokat;
+1.60.5.[^74]
 
-1.60.6. az ÁROP-1.2.24-2014-2014-0001 „A fogyasztóvédelmi intézményrendszer szervezeti működésének fejlesztése” című kiemelt projekt keretei között megvalósult Panaszstatisztikai Portálhoz (http://panaszstat.nfh.hu) infrastruktúra biztosítása, ide nem értve a tartalommenedzsment szolgáltatásokat;
+1.60.6.[^75]
 
 1.60.7. az Európai Fogyasztói Központ honlapjához (www.magyarefk.hu) infrastruktúra biztosítása, ide nem értve a tartalommenedzsment szolgáltatásokat;
 
-1.60.8. az EKOP-2.A.2-2012-2012-0008 „A Nemzeti Fogyasztóvédelmi Hatóság által nyújtott online szolgáltatások és ügyfélkapcsolati rendszer integrációja és továbbfejlesztése” című kiemelt projekt keretei között megvalósult Hangposta és Telefonos Hanginformációs rendszer;
+1.60.8.[^76]
 
-1.60.9. a TÁMOP-6.1.6-14/1-2015-0001 „Az egészségtudatos fogyasztóvá válás elősegítése (Te tudod, hogyan lehetsz egészségtudatos fogyasztó?)” című kiemelt projekt keretei között megvalósult NFH Okoskosár honlap továbbfejlesztéséhez (http://www.nfhokoskosar.hu) infrastruktúra biztosítása, ide nem értve a tartalommenedzsment szolgáltatásokat;
+1.60.9.[^77]
 
-1.60.10. a TÁMOP-6.1.6-14/1-2015-0001 „Az egészségtudatos fogyasztóvá válás elősegítése (Te tudod, hogyan lehetsz egészségtudatos fogyasztó?)” című kiemelt projekt keretei között megvalósult NFH Okosotthon honlap továbbfejlesztéséhez (http://nfhokosotthon.hu) infrastruktúra biztosítása, ide nem értve a tartalommenedzsment szolgáltatásokat;
+1.60.10.[^78]
 
-1.60.11. a TÁMOP-6.1.6-14/1-2015-0001 „Az egészségtudatos fogyasztóvá válás elősegítése (Te tudod, hogyan lehetsz egészségtudatos fogyasztó?)” című kiemelt projekt keretei között megvalósult Társhatósági honlaphoz (www.tudatos.info.hu) infrastruktúra biztosítása, ide nem értve a tartalommenedzsment szolgáltatásokat;
+1.60.11.[^79]
 
-1.60.12. a KEOP-6.4.0/14-2015-0001 „Fenntartható életmód a fogyasztóvédelem eszközrendszerén keresztül” című kiemelt projekt keretei között megvalósult KEOP szemléletformáló honlaphoz (http://nfh-keop.koktel.hu/) infrastruktúra biztosítása, ide nem értve a tartalommenedzsment szolgáltatásokat;
+1.60.12.[^80]
 
-1.60.13. az EKOP-2.A.2-2012-2012-0008 „A Nemzeti Fogyasztóvédelmi Hatóság által nyújtott online szolgáltatások és ügyfélkapcsolati rendszer integrációja és továbbfejlesztése” című kiemelt projekt keretei között megvalósult mobilalkalmazáshoz infrastruktúra biztosítása, valamint a kapcsolódó iOS, Windows és Android fejlesztői környezet fenntartása;
+1.60.13.[^81]
 
-1.60.14. az ÁROP-1-2-24-2014-2014-001 „A fogyasztóvédelmi intézményrendszer szervezeti működésének fejlesztése” című kiemelt projekt keretei között megvalósult e-learning portálhoz (http://nfh.onlearn.hu) infrastruktúra biztosítása, ide nem értve a tartalommenedzsment szolgáltatásokat;
+1.60.14.[^82]
 
-1.60.15. a 2006/018-176.05.01.02 „Ügyfélközpontú elektronikus szolgáltatás a fogyasztóvédelemben” címet viselő szolgáltatás típusú projekt EKOP-2.A.2-2012-2012-0008 „A Nemzeti Fogyasztóvédelmi Hatóság által nyújtott online szolgáltatások és ügyfélkapcsolati rendszer integrációja és továbbfejlesztése” című kiemelt projekt által módosított Elektronikus Panaszbejelentő Rendszerhez („Ügyfélkapu”) infrastruktúra biztosítása, ide nem értve a tartalommenedzsment szolgáltatásokat;
+1.60.15.[^83]
 
-1.60.16. az EKOP-1.A.2-2012-2012-0022 „Szolgáltatás-ellenőrzési és piacfelügyeleti szakrendszer-fejlesztés és eszközpark korszerűsítés a Nemzeti Fogyasztóvédelmi Hatóságnál” című kiemelt projekt keretei között megvalósult Központi Piacfelügyeleti Információs Rendszer (KPIR+)-hez kapcsolódó Hatósági és Intézeti Adatbázishoz infrastruktúra biztosítása, ide nem értve a tartalommenedzsment szolgáltatásokat;
+1.60.16.[^84]
 
 1.60.17. az ÁROP-1-2-24-2014-2014-001 „A fogyasztóvédelmi intézményrendszer szervezeti működésének fejlesztése” című kiemelt projekt keretei között megvalósult IT Labor eszközök hardver és szoftver infrastruktúrájának üzemeltetése.
 
-1.61.[^71] a Központi Kormányzati Szolgáltatás Busz (KKSZB) hardver infrastruktúrájának üzemeltetése;
+1.61.[^85] a Központi Kormányzati Szolgáltatás Busz (KKSZB) hardver infrastruktúrájának üzemeltetése;
 
-1.62.[^72]
+1.62.[^86]
 
-1.63.[^73] az Országos Rendőr-főkapitányság által működtetett rendőrségi honlap (www.police.hu) és a működtetéséhez szükséges informatikai rendszerek, ideértve a „police.hu” domainnév fenntartását és kezelését, ide nem értve a tartalommenedzsment szolgáltatásokat;
+1.63.[^87] az Országos Rendőr-főkapitányság által működtetett rendőrségi honlap (www.police.hu) és a működtetéséhez szükséges informatikai rendszerek, ideértve a „police.hu” domainnév fenntartását és kezelését, ide nem értve a tartalommenedzsment szolgáltatásokat;
 
-1.64.[^74] a VÉDA közúti intelligens kamerahálózat vagy annak részelemei által kezdeményezett járműadat- lekérdezési igények kielégítése érdekében működő közlekedésbiztonsági kiszolgáló rendszer hardver és szoftver infrastruktúrájának üzemeltetése.
+1.64.[^88] a VÉDA közúti intelligens kamerahálózat vagy annak részelemei által kezdeményezett járműadat- lekérdezési igények kielégítése érdekében működő közlekedésbiztonsági kiszolgáló rendszer hardver és szoftver infrastruktúrájának üzemeltetése.
 
-1.65.[^75] az alábbiakban nevesített rendszerek működéséhez szükséges virtuális infrastruktúra üzemeltetése:
+1.65.[^89] az alábbiakban nevesített rendszerek működéséhez szükséges virtuális infrastruktúra üzemeltetése:
 
 1.65.1. az Agrárgazdasági Kutató Intézet AKI rendszere;
 
 1.65.2. a Magyar Nemzeti Vidék Hálózat által üzemeltetett portál;
 
-1.65.3.[^76] a Pest Megyei Kormányhivatal Integrált Ügyviteli Keretrendszere (IÜKR);
+1.65.3.[^90] a Pest Megyei Kormányhivatal Integrált Ügyviteli Keretrendszere (IÜKR);
 
-1.65.4.[^77] a Miniszterelnökség által működtetett www.palyazat.gov.hu és a www.me.fejlpolkepzes.gov.hu szakrendszerek;
+1.65.4.[^91] a Miniszterelnökség által működtetett www.palyazat.gov.hu és a www.me.fejlpolkepzes.gov.hu szakrendszerek;
 
-1.65.5.[^78] a fővárosi és megyei kormányhivatalok által működtetett EKEIDR (Poseidon) rendszer;
+1.65.5.[^92] a fővárosi és megyei kormányhivatalok által működtetett EKEIDR (Poseidon) rendszer;
 
-1.65.6.[^79] a Magyar Nemzeti Vagyonkezelő Zrt. Országleltár programja keretében megvalósuló Országleltár Adattárház rendszer, valamint a KÖFOP-1.0.0 – VEKOP-15-2016-00013 „Az egységes integrált állami vagyonnyilvántartás közhitelességének és adatkonzisztenciájának ellenőrzéséhez szükséges további fejlesztések” tárgyú projekt keretében megvalósuló Megjelenítő Keretrendszer és Adatszolgáltatási Keretrendszer;
+1.65.6.[^93] a Magyar Nemzeti Vagyonkezelő Zrt. Országleltár programja keretében megvalósuló Országleltár Adattárház rendszer, valamint a KÖFOP-1.0.0 – VEKOP-15-2016-00013 „Az egységes integrált állami vagyonnyilvántartás közhitelességének és adatkonzisztenciájának ellenőrzéséhez szükséges további fejlesztések” tárgyú projekt keretében megvalósuló Megjelenítő Keretrendszer és Adatszolgáltatási Keretrendszer;
 
-1.65.7.[^80] a Nemzeti Fejlesztési Minisztérium által működtetett KIKSZ archívum rendszer;
+1.65.7.[^94] a Nemzeti Fejlesztési Minisztérium által működtetett KIKSZ archívum rendszer;
 
-1.65.8.[^81] a Magyar Államkincstár által működtetett KIFÜ Intézményi Könyvelési Modul – Fejezeti/Intézményi részmodul (KKIR2) rendszer, az MVH rendszer, az EKOP-1.2.19 Projekt keretében a Mezőgazdasági és Környezeti Információs Rendszer, valamint az integrált irányítási és ellenőrzési (IIER 2) rendszer;
+1.65.8.[^95] a Magyar Államkincstár által működtetett KIFÜ Intézményi Könyvelési Modul – Fejezeti/Intézményi részmodul (KKIR2) rendszer, az MVH rendszer, az EKOP-1.2.19 Projekt keretében a Mezőgazdasági és Környezeti Információs Rendszer, valamint az integrált irányítási és ellenőrzési (IIER 2) rendszer;
 
-1.65.9.[^82] a Közbeszerzési és Ellátási Főigazgatóság által működtetett www.kef.gov.hu honlap;
+1.65.9.[^96] a Közbeszerzési és Ellátási Főigazgatóság által működtetett www.kef.gov.hu honlap;
 
-1.65.10.[^83] a Nemzetgazdasági Minisztérium által működtetett LAMP rendszer, NGM-Redmine feladatközvetítő rendszer, Bértarifa rendszer, valamint az NGM-Magtár rendszer;
+1.65.10.[^97] a Nemzetgazdasági Minisztérium által működtetett LAMP rendszer, NGM-Redmine feladatközvetítő rendszer, Bértarifa rendszer, valamint az NGM-Magtár rendszer;
 
-1.65.11.[^84] az Emberi Erőforrások Minisztériuma által működtetett Nemzeti Sportinformációs Rendszer, valamint az AnDoc Iktatórendszer;
+1.65.11.[^98] a Miniszterelnökség által működtetett AnDoc Iktatórendszer;
 
-1.65.12.[^85] az Igazságügyi Minisztérium által működtetett Jogi Szakvizsga Rendszer, Jogharmonizációs adatbázis, Terminológiai adatbázis, Rendezvény regisztráció rendszer, valamint az Európai Unió Bíróságának e-Curia elektronikus kézbesítési felületének hazai alkalmazását támogató rendszere (ECR rendszer), továbbá a beszámoló befogadására szolgáló Elektronikus Beszámoló Rendszer (EBESZ);
+1.65.12.[^99] az Igazságügyi Minisztérium által működtetett Jogi Szakvizsga Rendszer, Jogharmonizációs adatbázis, Terminológiai adatbázis, Rendezvény regisztráció rendszer, valamint az Európai Unió Bíróságának e-Curia elektronikus kézbesítési felületének hazai alkalmazását támogató rendszere (ECR rendszer), továbbá a beszámoló befogadására szolgáló Elektronikus Beszámoló Rendszer (EBESZ);
 
-1.65.13.[^86] a Külgazdasági és Külügyminisztérium által működtetett külképviseleti honlapok;
+1.65.13.[^100] a Külgazdasági és Külügyminisztérium által működtetett külképviseleti honlapok;
 
-1.65.14.[^87] a Miniszterelnöki Kabinetiroda által működtetett www.kormany.hu szakrendszer, portál, kapcsolódó oldalak;
+1.65.14.[^101] a Miniszterelnöki Kabinetiroda által működtetett www.kormany.hu szakrendszer, portál, kapcsolódó oldalak;
 
-1.65.15.[^88] a BM Országos Katasztrófavédelmi Főigazgatóság által működtetett Marathon Terra rendszer;
+1.65.15.[^102] a BM Országos Katasztrófavédelmi Főigazgatóság által működtetett Marathon Terra rendszer;
 
-1.65.16.[^89] a Belügyminisztérium által üzemeltetett és a Bevándorlási és Menekültügyi Hivatal által használt BAH-VIDEO (konténerváros) rendszer;
+1.65.16.[^103] a Belügyminisztérium által üzemeltetett és a Bevándorlási és Menekültügyi Hivatal által használt BAH-VIDEO (konténerváros) rendszer;
 
-1.65.17.[^90] a Belügyminisztérium által működtetett BM-Tudásbázis rendszer, BM Interoperációs Portál, NBSZ-GovCERT rendszer (kormányzati eseménykezelő), BM Eseményregisztrációs Portál, NOVA-ESZNYER, valamint NOVA-ERHUA rendszer;
+1.65.17.[^104] a Belügyminisztérium által működtetett BM-Tudásbázis rendszer, BM Interoperációs Portál, NBSZ-GovCERT rendszer (kormányzati eseménykezelő), BM Eseményregisztrációs Portál, NOVA-ESZNYER, valamint NOVA-ERHUA rendszer;
 
-1.65.18.[^91] az Igazságügyi Minisztérium által működtetett Fizetésképtelenségi Nyilvántartási Rendszer virtualizációs környezetének biztosítása és géptermi üzemeltetése;
+1.65.18.[^105] az Igazságügyi Minisztérium által működtetett Fizetésképtelenségi Nyilvántartási Rendszer virtualizációs környezetének biztosítása és géptermi üzemeltetése;
 
-1.65.19.[^92] az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján a Miniszterelnökség által működtetett, az állampolgárok által használt közigazgatási keresetlevelek benyújtására szolgáló Interaktív Virtuális Ügyfélszolgálat-képes Keretrendszer (IKR) és a keresetlevelek bíróság részére történő továbbítására alkalmas kormányhivatalok és kormányablakok által használt Munkafolyamat Kezelő Rendszer (MUKER) virtualizációs környezetének biztosítása és géptermi üzemeltetése;
+1.65.19.[^106] az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján a Miniszterelnökség által működtetett, az állampolgárok által használt közigazgatási keresetlevelek benyújtására szolgáló Interaktív Virtuális Ügyfélszolgálat-képes Keretrendszer (IKR) és a keresetlevelek bíróság részére történő továbbítására alkalmas kormányhivatalok és kormányablakok által használt Munkafolyamat Kezelő Rendszer (MUKER) virtualizációs környezetének biztosítása és géptermi üzemeltetése;
 
-1.65.20.[^93] az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján a Társadalmi Esélyteremtési Főigazgatóság által működtetett:
+1.65.20.[^107] az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján a Társadalmi Esélyteremtési Főigazgatóság által működtetett:
 
 1.65.20.1. Biztos Kezdet Gyerekházak Dokumentációs Rendszere,
 
@@ -348,31 +348,31 @@
 
 virtualizációs környezetének biztosítása és géptermi üzemeltetése;
 
-1.65.20.14.[^94] a Társadalmi Esélyteremtési Főigazgatóság weboldala,
+1.65.20.14.[^108] a Társadalmi Esélyteremtési Főigazgatóság weboldala,
 
-1.65.20.15.[^95] Útravaló Ösztöndíjprogram Pályázatkezelő Rendszer (UTR);
+1.65.20.15.[^109] Útravaló Ösztöndíjprogram Pályázatkezelő Rendszer (UTR);
 
-1.65.21.[^96] a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaságnak a Nemzeti Hírközlési és Informatikai Tanácsról, valamint a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság és a kormányzati informatikai beszerzések központosított közbeszerzési rendszeréről szóló 301/2018. (XII. 27.) Korm. rendelet 30/A. § (3) bekezdése szerinti elektronikus rendszerének informatikai infrastruktúra alap IaaS szintű biztosítása és az operációs rendszer (OS), valamint a platform (PaaS szintig) üzemeltetése;
+1.65.21.[^110] a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaságnak a Nemzeti Hírközlési és Informatikai Tanácsról, valamint a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság és a kormányzati informatikai beszerzések központosított közbeszerzési rendszeréről szóló 301/2018. (XII. 27.) Korm. rendelet 30/A. § (3) bekezdése szerinti elektronikus rendszerének informatikai infrastruktúra alap IaaS szintű biztosítása és az operációs rendszer (OS), valamint a platform (PaaS szintig) üzemeltetése;
 
-1.65.22.[^97] a Külgazdasági és Külügyminisztérium által működtetett culture.hu/hungarianculture.hu portál informatikai infrastruktúrájának IAAS szintű üzemeltetése;
+1.65.22.[^111] a Külgazdasági és Külügyminisztérium által működtetett culture.hu/hungarianculture.hu portál informatikai infrastruktúrájának IAAS szintű üzemeltetése;
 
-1.66.[^98] az EBR42 Önkormányzati Információs Rendszer informatikai alap infrastruktúrájának, az alkalmazás és a rendszer részét képező űrlaprendszerek (ideértve az űrlapok évenkénti módosítását, aktualizálását) üzemeltetése, ügyfélszolgálat/Helpdesk szolgáltatás biztosítása a Belügyminisztérium részére;
+1.66.[^112] az EBR42 Önkormányzati Információs Rendszer informatikai alap infrastruktúrájának, az alkalmazás és a rendszer részét képező űrlaprendszerek (ideértve az űrlapok évenkénti módosítását, aktualizálását) üzemeltetése, ügyfélszolgálat/Helpdesk szolgáltatás biztosítása a Belügyminisztérium részére;
 
-1.67.[^99] a KÖFOP-2.2.3-VEKOP-16 „Kapacitásfejlesztés és szemléletformálás a korrupciós esetek nagyobb arányú felderítése, illetve megelőzése érdekében” elnevezésű projekt keretei között megvalósuló Nemzeti Védelmi Szolgálat nyílt hálózati központi informatikai alap infrastruktúrájának (IAAS) üzemeltetése, ide nem értve az operációs rendszer, adatbázis és azon feletti (PAAS, SAAS) szinteket;
+1.67.[^113] a KÖFOP-2.2.3-VEKOP-16 „Kapacitásfejlesztés és szemléletformálás a korrupciós esetek nagyobb arányú felderítése, illetve megelőzése érdekében” elnevezésű projekt keretei között megvalósuló Nemzeti Védelmi Szolgálat nyílt hálózati központi informatikai alap infrastruktúrájának (IAAS) üzemeltetése, ide nem értve az operációs rendszer, adatbázis és azon feletti (PAAS, SAAS) szinteket;
 
-1.68.[^100] az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján az Állami Alkalmazásfejlesztési Környezet hardver infrastruktúrájának üzemeltetése;
+1.68.[^114] az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján az Állami Alkalmazásfejlesztési Környezet hardver infrastruktúrájának üzemeltetése;
 
-1.69.[^101] az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján az Állami Alkalmazás-fejlesztési Környezethez kapcsolódó, az állami érdekű informatikai alkalmazások és egyéb érintett szoftverek nyilvántartására szolgáló elektronikus Állami Alkalmazáskatalógus és annak naprakész vezetéséhez szükséges elektronikus adatgyűjtő, adatszolgáltató rendszer hardver infrastruktúrájának üzemeltetése;
+1.69.[^115] az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján az Állami Alkalmazás-fejlesztési Környezethez kapcsolódó, az állami érdekű informatikai alkalmazások és egyéb érintett szoftverek nyilvántartására szolgáló elektronikus Állami Alkalmazáskatalógus és annak naprakész vezetéséhez szükséges elektronikus adatgyűjtő, adatszolgáltató rendszer hardver infrastruktúrájának üzemeltetése;
 
-1.70.[^102] a Küldemény Dokumentumtár (KDT) rendszer informatikai infrastruktúrájának üzemeltetése;
+1.70.[^116] a Küldemény Dokumentumtár (KDT) rendszer informatikai infrastruktúrájának üzemeltetése;
 
-1.71.[^103] a Magyar Kormánytisztviselői Kar tagnyilvántartási és levelezőrendszer informatikai infrastruktúrájának üzemeltetése;
+1.71.[^117] a Magyar Kormánytisztviselői Kar tagnyilvántartási és levelezőrendszer informatikai infrastruktúrájának üzemeltetése;
 
-1.72.[^104] az elektronikus közbeszerzési rendszer (EKR) informatikai infrastruktúrájának IAAS szintű üzemeltetése.
+1.72.[^118] az elektronikus közbeszerzési rendszer (EKR) informatikai infrastruktúrájának IAAS szintű üzemeltetése.
 
-1.73.[^105] az Állami Egészségügyi Ellátó Központ közbeszerzési portál rendszerének informatikai infrastruktúra üzemeltetése.
+1.73.[^119] az Állami Egészségügyi Ellátó Központ közbeszerzési portál rendszerének informatikai infrastruktúra üzemeltetése.
 
-1.74.[^106] az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján a Belügyminisztériumnak a közszolgálati és hivatásos szolgálati jogviszonnyal összefüggő humánerőforrás-gazdálkodási, valamint egyéb, képzéssel összefüggő feladatai ellátása érdekében működtetett alábbi szakrendszerek üzemeltetése, ideértve az informatikai infrastruktúrát, a kapcsolódó adatbázisokat és adatbázis operációs rendszereket, az alkalmazás és alkalmazás operációs rendszereket, a domain nevek kezelését, valamint az alkalmazástámogatást (helpdesk, jogosultságkiosztás), ide nem értve a tartalommenedzsment szolgáltatást:
+1.74.[^120] az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján a Belügyminisztériumnak a közszolgálati és hivatásos szolgálati jogviszonnyal összefüggő humánerőforrás-gazdálkodási, valamint egyéb, képzéssel összefüggő feladatai ellátása érdekében működtetett alábbi szakrendszerek üzemeltetése, ideértve az informatikai infrastruktúrát, a kapcsolódó adatbázisokat és adatbázis operációs rendszereket, az alkalmazás és alkalmazás operációs rendszereket, a domain nevek kezelését, valamint az alkalmazástámogatást (helpdesk, jogosultságkiosztás), ide nem értve a tartalommenedzsment szolgáltatást:
 
 1.74.1. „KOMP-R (Komplex kompetencia alapú kiválasztási eljárás és tehetségmenedzsment rendszer a rendvédelem számára)” szakrendszer;
 
@@ -392,9 +392,9 @@ virtualizációs környezetének biztosítása és géptermi üzemeltetése;
 
 1.74.9. a „SZEM (Szilárd Erkölcsiség Mutató) teszt rendszer” szakrendszer;
 
-1.74.10.[^107] a „RIASZ (Rendvédelmi Igazgatási Alkalmazottak Szolgálati viszony) vizsgarendszer” szakrendszer;
+1.74.10.[^121] a „RIASZ (Rendvédelmi Igazgatási Alkalmazottak Szolgálati viszony) vizsgarendszer” szakrendszer;
 
-1.74.11.[^108] a „RASZ (Rendészeti Alap- és Szakvizsga) rendszer” szakrendszer;
+1.74.11.[^122] a „RASZ (Rendészeti Alap- és Szakvizsga) rendszer” szakrendszer;
 
 1.74.12. a KOMP-K (Komplex kompetencia alapú kiválasztási eljárás és tehetségmenedzsment rendszer a közigazgatás számára)” szakrendszer;
 
@@ -402,141 +402,145 @@ virtualizációs környezetének biztosítása és géptermi üzemeltetése;
 
 1.74.14. a „Fejlesztési Terv modul” szakrendszer;
 
-1.75.[^109] az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján jogszabályban meghatározott helyi közszolgáltatás információs rendszer (IKIR) alapinfrastruktúra üzemeltetése;
+1.75.[^123] az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján jogszabályban meghatározott helyi közszolgáltatás információs rendszer (IKIR) alapinfrastruktúra üzemeltetése;
 
-1.76.[^110] a Közbeszerzési és Ellátási Főigazgatóság által működtetett Közbeszerzési Portál, valamint a www.kozbeszerzes.gov.hu honlap informatikai üzemeltetése és a működtetéséhez szükséges informatikai rendszerek üzemeltetése;
+1.76.[^124]
 
-1.77.[^111] az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján a Központi Médiatár központitárhely-infrastruktúrájának a Kormányzati Adatközpontban történő üzemeltetése, a feltöltési és letöltési funkciók működéséhez szükséges infrastruktúra biztosítása.
+1.77.[^125] az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján a Központi Médiatár központitárhely-infrastruktúrájának a Kormányzati Adatközpontban történő üzemeltetése, a feltöltési és letöltési funkciók működéséhez szükséges infrastruktúra biztosítása.
 
-1.78.[^112] az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján a Kormányzati Adattrezor teljes infrastruktúra környezete;
+1.78.[^126] az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján a Kormányzati Adattrezor teljes infrastruktúra környezete;
 
-1.79.[^113] az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján a Miniszterelnökség által működtetett Terület- és Településfejlesztési Operatív Programot támogató Pénzügyi Rendszer (TOPPIR);
+1.79.[^127] az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján a Miniszterelnökség által működtetett Terület- és Településfejlesztési Operatív Programot támogató Pénzügyi Rendszer (TOPPIR);
 
-1.80.[^114] az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján az alábbiakban nevesített, a Kormányzati Adatközponthoz önkéntes módon csatlakozó szakrendszerek infrastruktúrájának a Kormányzati Adatközpontban történő üzemeltetése:
+1.80.[^128]
 
-1.80.1. a Miniszterelnöki Kabinetiroda által tulajdonosi joggyakorlás alatt álló Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság által működtetett Nemzeti Turisztikai Adatszolgáltató Központ (NTAK) – IaaS szintig;
+1.80.1.[^129]
 
-1.81.[^115]
+1.81.[^130]
 
-1.82.[^116] a koronavirus.gov.hu portál és a hozzá kapcsolódó vírusinfó-applikáció és azok infrastruktúrájának üzemeltetése, ide nem értve a portál tartalomkezelési és a portál fejlesztési feladatokat;
+1.82.[^131] a koronavirus.gov.hu portál és a hozzá kapcsolódó vírusinfó-applikáció és azok infrastruktúrájának üzemeltetése, ide nem értve a portál tartalomkezelési és a portál fejlesztési feladatokat;
 
-1.83.[^117] a Büntetés-végrehajtás Országos Parancsnoksága által működtetett Állami Partner központi honlapnak és egyben webshop jellegű igénybejelentő rendszernek, továbbá a Bv. Holding vállalatcsoport honlapoknak, valamint mindezek informatikai alapinfrastruktúrájának (IaaS szintű) üzemeltetése;
+1.83.[^132] a Büntetés-végrehajtás Országos Parancsnoksága által működtetett Állami Partner központi honlapnak és egyben webshop jellegű igénybejelentő rendszernek, továbbá a Bv. Holding vállalatcsoport honlapoknak, valamint mindezek informatikai alapinfrastruktúrájának (IaaS szintű) üzemeltetése;
 
-1.84.[^118] a Nemzeti Akkreditáló Hatóság levelezőrendszere.
+1.84.[^133] a Nemzeti Akkreditáló Hatóság levelezőrendszere.
 
-1.85.[^119] az Egyházi Nyilvántartó Rendszer alkalmazás-támogatása és informatikai infrastruktúrájának üzemeltetése;
+1.85.[^134] az Egyházi Nyilvántartó Rendszer alkalmazás-támogatása és informatikai infrastruktúrájának üzemeltetése;
 
-1.86.[^120] országosan telepített területi és rendszámfelismerő kamerák adatait biztosító rendszer üzemeltetése
+1.86.[^135] országosan telepített területi és rendszámfelismerő kamerák adatait biztosító rendszer üzemeltetése
 
-1.87.[^121] a Filmiroda Egységes Ügykezelő Rendszer (FEÜR) alkalmazás-támogatása;
+1.87.[^136] a Filmiroda Egységes Ügykezelő Rendszer (FEÜR) alkalmazás-támogatása;
 
-1.88.[^122] a primeminister.hu portál infrastruktúrájának SAAS szintű üzemeltetése, ideértve a portál tartalomkezelési feladatokat is;
+1.88.[^137] a primeminister.hu portál infrastruktúrájának SAAS szintű üzemeltetése, ideértve a portál tartalomkezelési feladatokat is;
 
-1.89.[^123] az Elektronikus hatósági ügyintézést és tájékoztatást segítő telefonos szolgáltató szakrendszer (Effector) SAAS szintű üzemeltetése;
+1.89.[^138] az Elektronikus hatósági ügyintézést és tájékoztatást segítő telefonos szolgáltató szakrendszer (Effector) SAAS szintű üzemeltetése;
 
-1.90.[^124] az Iparfejlesztési Közhasznú Nonprofit Korlátolt Felelősségű Társaság (IFKA) által működtetett „Forrástérkép” alkalmazás üzemeltetése;
+1.90.[^139] az Iparfejlesztési Közhasznú Nonprofit Korlátolt Felelősségű Társaság (IFKA) által működtetett „Forrástérkép” alkalmazás üzemeltetése;
 
-1.91.[^125] az Iparfejlesztési Közhasznú Nonprofit Korlátolt Felelősségű Társaság (IFKA) által működtetett „Vali.hu” alkalmazás üzemeltetése;
+1.91.[^140] az Iparfejlesztési Közhasznú Nonprofit Korlátolt Felelősségű Társaság (IFKA) által működtetett „Vali.hu” alkalmazás üzemeltetése;
+
+1.92.[^141] a Pénzügyminisztérium Makrogazdasági és Európai Ügyekért Felelős Helyettes Államtitkársága feladatköréből adódó OECD Nemzeti Tanács Titkársága webportál (w ww. oe cdntt . hu) üzemeltetése;
+
+1.93.[^142] a Pénzügyminisztérium Makrogazdasági és Európai Ügyekért Felelős Helyettes Államtitkársága feladatköréből adódó OECD Magyar Nemzeti Kapcsolattartó Pont webportál (w ww.o ecd mnkp .h u) üzemeltetése;
+
+1.94.[^143] a Miniszterelnöki Kabinetiroda által működtetett abouthungary.hu portál;
+
+1.95.[^144] az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján a sportpolitikáért felelős miniszter által működtetett Nemzeti Sportinformációs Rendszer üzemeltetése a Kormányzati Adatközpontban SaaS szintig;
 
 2. A központi szolgáltató a következő informatikai rendszerek fejlesztéséről gondoskodik:
 
-2.1.[^126]
+2.1.[^145]
 
-2.2.[^127] A külön jogszabályban meghatározott nemzeti mobil fizetési rendszer működését biztosító informatikai rendszer.
+2.2.[^146] A külön jogszabályban meghatározott nemzeti mobil fizetési rendszer működését biztosító informatikai rendszer.
 
-2.3.[^128]
+2.3.[^147]
 
-2.4.[^129]
+2.4.[^148]
 
-2.5.[^130] Az 1.1. pontban meghatározott feltételrendszer szerint az 1.1.1–1.1.5. alpontban nevesített rendszerek.
+2.5.[^149] Az 1.1. pontban meghatározott feltételrendszer szerint az 1.1.1–1.1.5. alpontban nevesített rendszerek.
 
-2.6.[^131] Az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján az 1.5. alpont szerinti e-közigazgatási szolgáltatásokat biztosító mobilalkalmazások és az ezekhez kapcsolódóan fejlesztett informatikai rendszerek;
+2.6.[^150] Az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján az 1.5. alpont szerinti e-közigazgatási szolgáltatásokat biztosító mobilalkalmazások és az ezekhez kapcsolódóan fejlesztett informatikai rendszerek;
 
-2.7.[^132] Az 1.40. pont szerinti szakrendszer,
+2.7.[^151] Az 1.40. pont szerinti szakrendszer,
 
-2.8.[^133] Az 1.41. pont szerinti tájékoztató portál,
+2.8.[^152] Az 1.41. pont szerinti tájékoztató portál,
 
-2.9.[^134] Az 1.42. pont szerinti tájékoztató portál,
+2.9.[^153] Az 1.42. pont szerinti tájékoztató portál,
 
-2.10.[^135] Az 1.44. pontja szerinti adatbázis és informatikai rendszerek fejlesztése;
+2.10.[^154] Az 1.44. pontja szerinti adatbázis és informatikai rendszerek fejlesztése;
 
-2.11.[^136] Az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján az 1.45. pont szerinti informatikai előszűrő és űrlapkitöltő rendszer fejlesztése, valamint űrlapsablon szerkesztése.
+2.11.[^155] Az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján az 1.45. pont szerinti informatikai előszűrő és űrlapkitöltő rendszer fejlesztése, valamint űrlapsablon szerkesztése.
 
-2.12.[^137] az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján az állandó személyazonosító igazolványhoz kapcsolódó elektronikus aláírás hitelesítés szolgáltatást biztosító informatikai rendszer.
+2.12.[^156] az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján az állandó személyazonosító igazolványhoz kapcsolódó elektronikus aláírás hitelesítés szolgáltatást biztosító informatikai rendszer.
 
-2.13.[^138] az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján az 1.48. alpont szerinti ESR-112 egységes segélyhívó rendszer és az 1.26. alpont szerinti Mentésirányítási Rendszer integrációjának megvalósításához szükséges rendszerfejlesztések.
+2.13.[^157] az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján az 1.48. alpont szerinti ESR-112 egységes segélyhívó rendszer és az 1.26. alpont szerinti Mentésirányítási Rendszer integrációjának megvalósításához szükséges rendszerfejlesztések.
 
-2.14.[^139] egyedi szolgáltatási megállapodás vagy az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján, az 1. pont 1.52. alpontja szerinti Kormányzati Adatközpont infrastruktúra rendszer üzemeltetéséhez és – üzemeltetési időszakban – további kapacitásbővítéséhez szükséges fejlesztési feladatok ellátása, beleértve az informatikai és kommunikációs infrastruktúra üzemeltetésére alkalmas – az Alkotmányvédelmi Hivatal, a Terrorelhárítási Információs és Bűnügyi Elemző Központ, valamint a kormányzati adatközpont egységes elhelyezéséhez szükséges költségvetési többletforrások biztosításáról szóló 1224/2016. (V. 2.) Korm. határozatban nevesített felhő alapú szolgáltatásokat is nyújtani képes Kormányzati Adatközpont – létesítményi környezetének, alapinfrastruktúrájának és rendszerelemeinek fejlesztése is;
+2.14.[^158] egyedi szolgáltatási megállapodás vagy az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján, az 1. pont 1.52. alpontja szerinti Kormányzati Adatközpont infrastruktúra rendszer üzemeltetéséhez és – üzemeltetési időszakban – további kapacitásbővítéséhez szükséges fejlesztési feladatok ellátása, beleértve az informatikai és kommunikációs infrastruktúra üzemeltetésére alkalmas – az Alkotmányvédelmi Hivatal, a Terrorelhárítási Információs és Bűnügyi Elemző Központ, valamint a kormányzati adatközpont egységes elhelyezéséhez szükséges költségvetési többletforrások biztosításáról szóló 1224/2016. (V. 2.) Korm. határozatban nevesített felhő alapú szolgáltatásokat is nyújtani képes Kormányzati Adatközpont – létesítményi környezetének, alapinfrastruktúrájának és rendszerelemeinek fejlesztése is;
 
-2.15.[^140] Az 1.59. alpontban meghatározott rendszerek;
+2.15.[^159] Az 1.59. alpontban meghatározott rendszerek;
 
-2.16.[^141] Az 1.39. pont szerinti tájékoztató portál.
+2.16.[^160] Az 1.39. pont szerinti tájékoztató portál.
 
-2.17.[^142] Az 1.66. pontban meghatározott rendszer;
+2.17.[^161] Az 1.66. pontban meghatározott rendszer;
 
-2.18.[^143] Az 1.68. pontban meghatározott rendszer;
+2.18.[^162] Az 1.68. pontban meghatározott rendszer;
 
-2.19.[^144] Az 1.69. pontban meghatározott rendszer;
+2.19.[^163] Az 1.69. pontban meghatározott rendszer;
 
-2.20.[^145] Az 1.70. pontban meghatározott rendszer.
+2.20.[^164] Az 1.70. pontban meghatározott rendszer.
 
-2.21.[^146] Az 1.71. pontban meghatározott rendszer.
+2.21.[^165] Az 1.71. pontban meghatározott rendszer.
 
-2.22.[^147] Az 1.73. pontban meghatározott rendszer.
+2.22.[^166] Az 1.73. pontban meghatározott rendszer.
 
-2.23.[^148] Az 1.63. pontban meghatározott rendszer;
+2.23.[^167] Az 1.63. pontban meghatározott rendszer;
 
-2.24.[^149] az 1.74. alpontban meghatározott szakrendszerek egyedi megállapodás vagy az e-közigazgatási miniszterrel kötött közszolgáltatási szerződés alapján;
+2.24.[^168] az 1.74. alpontban meghatározott szakrendszerek egyedi megállapodás vagy az e-közigazgatási miniszterrel kötött közszolgáltatási szerződés alapján;
 
-2.25.[^150] Az 1.75. pontban meghatározott szakrendszer alapinfrastruktúrája;
+2.25.[^169] Az 1.75. pontban meghatározott szakrendszer alapinfrastruktúrája;
 
-2.26.[^151] Az 1.76. pontban meghatározott rendszer;
+2.26.[^170]
 
-2.27.[^152] az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján az 1.77. alpontban meghatározott rendszer.
+2.27.[^171] az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján az 1.77. alpontban meghatározott rendszer.
 
-2.28.[^153] Az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés vagy egyedi szolgáltatási megállapodás alapján az 1.58. pontban meghatározott rendszerek;
+2.28.[^172] Az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés vagy egyedi szolgáltatási megállapodás alapján az 1.58. pontban meghatározott rendszerek;
 
-2.29.[^154] Az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján az 1.65.19. alpontban meghatározott rendszerek infrastruktúra fejlesztése;
+2.29.[^173] Az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján az 1.65.19. alpontban meghatározott rendszerek infrastruktúra fejlesztése;
 
-2.30.[^155] Az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján az 1.78. pontban meghatározott rendszer;
+2.30.[^174] Az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján az 1.78. pontban meghatározott rendszer;
 
-2.31.[^156] Az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján az 1.79. pontban meghatározott rendszer.
+2.31.[^175] az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján az 1.79. pontban meghatározott rendszer;
 
-2.32.[^157] az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján az 1.80. pontban meghatározott szakrendszer alapinfrastruktúrája;
+2.32.[^176] az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján az 1.65.20. pontban meghatározott rendszerek infrastruktúra-fejlesztése;
 
-2.32.[^158] Az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján az 1.65.20. pontban meghatározott rendszerek infrastruktúra fejlesztése.
+2.33.[^177] az 1.65.21. pontban meghatározott rendszer;
 
-2.33.[^159] az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján az 1.81. pontban meghatározott szakrendszer alapinfrastruktúrája;
+2.34.[^178] az 1.65.22. pontban meghatározott szakrendszer alapinfrastruktúrája;
 
-2.33.[^160] az 1.65.21. pontban meghatározott rendszer;
+2.35.[^179] az 1.82. alpontban meghatározott rendszerek infrastruktúrája és a kapcsolódó vírusinfó-applikáció.
 
-2.34.[^161] az 1.65.22. pontban meghatározott szakrendszer alapinfrastruktúrája;
+2.36.[^180] az 1.83. alpontban meghatározott honlapok, rendszerek és azok infrastruktúrája,
 
-2.35.[^162] az 1.82. alpontban meghatározott rendszerek infrastruktúrája és a kapcsolódó vírusinfó-applikáció.
+2.37.[^181] az 1.84. alpontban meghatározott rendszer.
 
-2.36.[^163] az 1.83. alpontban meghatározott honlapok, rendszerek és azok infrastruktúrája,
+2.38.[^182] az 1.85. pontban meghatározott szakrendszer informatikai infrastruktúrája;
 
-2.37.[^164] az 1.84. alpontban meghatározott rendszer.
+2.39.[^183] az 1.86. pontban meghatározott szakrendszer.
 
-2.38.[^165] az 1.85. pontban meghatározott szakrendszer informatikai infrastruktúrája;
+2.40.[^184] az 1.87. alpontban meghatározott szakrendszer;
 
-2.39.[^166] az 1.86. pontban meghatározott szakrendszer.
+2.41.[^185] az 1.88. alpontban meghatározott szakrendszer;
 
-2.40.[^167] az 1.87. alpontban meghatározott szakrendszer;
+2.42.[^186] az 1.89. alpontban meghatározott szakrendszer
 
-2.41.[^168] az 1.88. alpontban meghatározott szakrendszer;
+2.43.[^187] az 1.90. alpontban meghatározott „Forrástérkép” szakrendszer;
 
-2.42.[^169] az 1.89. alpontban meghatározott szakrendszer
-
-2.43.[^170] az 1.90. alpontban meghatározott „Forrástérkép” szakrendszer;
-
-2.44.[^171] az ESR-112 egységes segélyhívó rendszer hívásfogadó központjai infokommunikációs rendszerének teljes körű (hardver és alkalmazás) infrastruktúra fejlesztése;
+2.44.[^188] az ESR-112 egységes segélyhívó rendszer hívásfogadó központjai infokommunikációs rendszerének teljes körű (hardver és alkalmazás) infrastruktúra fejlesztése;
 
 3. A központi szolgáltató a következő informatikai rendszerek fejlesztésében működik közre:
 
 3.1. Az 1.2. pont szerinti Konszolidációs Adatvagyon Hasznosítás rendszer;
 
-3.2.–3.3.[^172]
+3.2.–3.3.[^189]
 
 3.4. Az 1.13. pont szerinti egészségbiztosítási ügyfélkapcsolati, szerződéskezelő, ártámogatási, finanszírozási, adatkezelési és intézmények közötti betegazonosítási rendszerek (háttértámogatás, másodlagos adatközpont);
 
@@ -550,13 +554,13 @@ virtualizációs környezetének biztosítása és géptermi üzemeltetése;
 
 3.9. Az 1.25. pont szerinti Intézmények közötti integrációt támogató infrastruktúra rendszer;
 
-3.10.[^173] Az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján az 1.26. pont szerinti Mentésirányítási Rendszer;
+3.10.[^190] Az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján az 1.26. pont szerinti Mentésirányítási Rendszer;
 
-3.11.[^174] Az 1.32. pont szerinti Egységes Kormányzati Ügyiratkezelő Rendszer;
+3.11.[^191] Az 1.32. pont szerinti Egységes Kormányzati Ügyiratkezelő Rendszer;
 
-3.12.[^175] Az 1.43. pont szerinti települési ügysegédek feladatait kiszolgáló végfelhasználói hardver és szoftver infrastruktúra rendszer.
+3.12.[^192] Az 1.43. pont szerinti települési ügysegédek feladatait kiszolgáló végfelhasználói hardver és szoftver infrastruktúra rendszer.
 
-3.13.[^176] Az 1.51. pont szerinti számla elektronikus adatszolgáltatását befogadó állami adó- és vámhatósági rendszer.
+3.13.[^193] Az 1.51. pont szerinti számla elektronikus adatszolgáltatását befogadó állami adó- és vámhatósági rendszer.
 
 [^26]: Az 1. melléklet 1.1. pontja az 58/2016. (XII. 22.) BM rendelet 35. §-ával megállapított szöveg.
 [^27]: Az 1. melléklet 1. pont 1.4. alpontját a 16/2017. (VI. 27.) BM rendelet 2. §-a hatályon kívül helyezte.
@@ -597,115 +601,132 @@ virtualizációs környezetének biztosítása és géptermi üzemeltetése;
 [^62]: Az 1. melléklet 1. pont 1.52. alpontját az 59/2016. (XII. 27.) BM rendelet 1. §-a iktatta be.
 [^63]: Az 1. melléklet 1. pont 1.53. alpontját a 16/2017. (VI. 27.) BM rendelet 2. §-a iktatta be.
 [^64]: Az 1. melléklet 1. pont 1.54. alpontját a 16/2017. (VI. 27.) BM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 37/2017. (XII. 27.) BM rendelet 3. §-a.
-[^65]: Az 1. melléklet 1. pont 1.55. alpontját a 16/2017. (VI. 27.) BM rendelet 2. §-a iktatta be.
+[^65]: Az 1. melléklet 1. pont 1.55. alpontját a 16/2017. (VI. 27.) BM rendelet 2. §-a iktatta be, a 16/2023. (VII. 24.) MK rendelet 3. § a) pont aa) alpontja hatályon kívül helyezte.
 [^66]: Az 1. melléklet 1. pont 1.56. alpontját a 16/2017. (VI. 27.) BM rendelet 2. §-a iktatta be.
-[^67]: Az 1. melléklet 1. pont 1.57. alpontját a 16/2017. (VI. 27.) BM rendelet 2. §-a iktatta be, szövege a 9/2021. (III. 30.) BM rendelet 1. §-ával megállapított szöveg.
+[^67]: Az 1. melléklet 1. pont 1.57. alpontját a 16/2017. (VI. 27.) BM rendelet 2. §-a iktatta be, a 16/2023. (VII. 24.) MK rendelet 3. § a) pont ab) alpontja hatályon kívül helyezte.
 [^68]: Az 1. melléklet 1. pont 1.58. alpontját a 16/2017. (VI. 27.) BM rendelet 2. §-a iktatta be.
 [^69]: Az 1. melléklet 1. pont 1.59. alpontját a 16/2017. (VI. 27.) BM rendelet 2. §-a iktatta be.
 [^70]: Az 1. melléklet 1. pont 1.60. alpontját a 16/2017. (VI. 27.) BM rendelet 2. §-a iktatta be.
-[^71]: Az 1. melléklet 1. pont 1.61. alpontját a 16/2017. (VI. 27.) BM rendelet 2. §-a iktatta be.
-[^72]: Az 1. melléklet 1. pont 1.62. alpontját a 16/2017. (VI. 27.) BM rendelet 2. §-a iktatta be, hatályon kívül helyezte az 1/2022. (II. 22.) BM rendelet 2. §-a.
-[^73]: Az 1. melléklet 1. pont 1.63. alpontját a 16/2017. (VI. 27.) BM rendelet 2. §-a iktatta be, szövege a 8/2018. (III. 29.) BM rendelet 1. §-ával megállapított szöveg.
-[^74]: Az 1. melléklet 1. pont 1.64. alpontját a 16/2017. (VI. 27.) BM rendelet 2. §-a iktatta be.
-[^75]: Az 1. melléklet 1.65. pontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
-[^76]: Az 1. melléklet 1.65. pontjának 1.65.3. alpontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
-[^77]: Az 1. melléklet 1.65. pontjának 1.65.4. alpontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
-[^78]: Az 1. melléklet 1.65. pontjának 1.65.5. alpontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
-[^79]: Az 1. melléklet 1.65. pontjának 1.65.6. alpontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
-[^80]: Az 1. melléklet 1.65. pontjának 1.65.7. alpontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
-[^81]: Az 1. melléklet 1.65. pontjának 1.65.8. alpontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
-[^82]: Az 1. melléklet 1.65. pontjának 1.65.9. alpontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be, szövege a 8/2018. (III. 29.) BM rendelet 1. §-ával megállapított szöveg.
-[^83]: Az 1. melléklet 1.65. pontjának 1.65.10. alpontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
-[^84]: Az 1. melléklet 1.65. pontjának 1.65.11. alpontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
-[^85]: Az 1. melléklet 1.65. pontjának 1.65.12. alpontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
-[^86]: Az 1. melléklet 1.65. pontjának 1.65.13. alpontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
-[^87]: Az 1. melléklet 1.65. pontjának 1.65.14. alpontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
-[^88]: Az 1. melléklet 1.65. pontjának 1.65.15. alpontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
-[^89]: Az 1. melléklet 1.65. pontjának 1.65.16. alpontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
-[^90]: Az 1. melléklet 1.65. pontjának 1.65.17. alpontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be, szövege a 32/2018. (XII. 19.) BM rendelet 1. §-ával megállapított szöveg.
-[^91]: Az 1. melléklet 1.65.18. pontját a 32/2018. (XII. 19.) BM rendelet 1. §-a iktatta be.
-[^92]: Az 1. melléklet 1.65.19. pontját a 32/2018. (XII. 19.) BM rendelet 1. §-a iktatta be.
-[^93]: Az 1. melléklet 1. pont 1.65.20. alpontját a 48/2019. (XII. 20.) BM rendelet 1. §-a iktatta be.
-[^94]: Az 1. melléklet 1. pont 1.65.20. alpont 1.65.20.14. pontját a 46/2020. (XII. 21.) BM rendelet 2. §-a iktatta be.
-[^95]: Az 1. melléklet 1. pont 1.65.20. alpont 1.65.20.15. pontját a 46/2020. (XII. 21.) BM rendelet 2. §-a iktatta be.
-[^96]: Az 1. melléklet 1. pont 1.65.21. alpontját a 48/2019. (XII. 20.) BM rendelet 1. §-a iktatta be.
-[^97]: Az 1. melléklet 1. pont 1.65. alpont 1.65.22. pontját a 37/2020. (IX. 22.) BM rendelet 1. §-a iktatta be.
-[^98]: Az 1. melléklet 1.66. pontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
-[^99]: Az 1. melléklet 1.67. pontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
-[^100]: Az 1. melléklet 1.68. pontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
-[^101]: Az 1. melléklet 1.69. pontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
-[^102]: Az 1. melléklet 1.70. pontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
-[^103]: Az 1. melléklet 1.71. pontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
-[^104]: Az 1. melléklet 1.72. pontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
-[^105]: Az 1. melléklet 1.73. pontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
-[^106]: Az 1. melléklet 1.74. pontját a 8/2018. (III. 29.) BM rendelet 1. §-a iktatta be, szövege a 4/2020. (III. 3.) BM rendelet 2. §-ával megállapított szöveg.
-[^107]: Az 1. melléklet 1. pont 1.74. alpont 1.74.10. pontja a 38/2021. (XI. 15.) BM rendelet 1. §-ával megállapított szöveg.
-[^108]: Az 1. melléklet 1. pont 1.74. alpont 1.74.11. pontja a 38/2021. (XI. 15.) BM rendelet 1. §-ával megállapított szöveg.
-[^109]: Az 1. melléklet 1.75. pontját a 8/2018. (III. 29.) BM rendelet 1. §-a iktatta be.
-[^110]: Az 1. melléklet 1.76. pontját a 8/2018. (III. 29.) BM rendelet 1. §-a iktatta be.
-[^111]: Az 1. melléklet 1. pont 1.77. alpontját a 19/2018. (VI. 28.) BM rendelet 1. §-a iktatta be.
-[^112]: Az 1. melléklet 1.78. pontját a 32/2018. (XII. 19.) BM rendelet 1. §-a iktatta be.
-[^113]: Az 1. melléklet 1.79. pontját a 32/2018. (XII. 19.) BM rendelet 1. §-a iktatta be.
-[^114]: Az. 1. melléklet 1. pont 1.80. alpontját a 45/2019. (XII. 17.) BM rendelet 2. §-a iktatta be, szövege a 12/2021. (V. 10.) BM rendelet 2. §-ával megállapított szöveg.
-[^115]: Az. 1. melléklet 1. pont 1.81. alpontját a 45/2019. (XII. 17.) BM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 12/2021. (V. 10.) BM rendelet 2. §-a.
-[^116]: Az 1. melléklet 1. pont 1.82. alpontját a 46/2020. (XII. 21.) BM rendelet 2. §-a iktatta be, szövege a 12/2021. (V. 10.) BM rendelet 2. §-ával megállapított szöveg.
-[^117]: Az 1. melléklet 1. pont 1.83. alpontját a 12/2021. (V. 10.) BM rendelet 2. §-a iktatta be.
-[^118]: Az 1. melléklet 1. pont 1.84. alpontját a 12/2021. (V. 10.) BM rendelet 2. §-a iktatta be.
-[^119]: Az 1. melléklet 1. pont 1.85. alpontját a 38/2021. (XI. 15.) BM rendelet 1. §-a iktatta be.
-[^120]: Az 1. melléklet 1. pont 1.86. alpontját a 38/2021. (XI. 15.) BM rendelet 1. §-a iktatta be.
-[^121]: Az 1. melléklet 1. pont 1.87. alpontját az 1/2022. (II. 22.) BM rendelet 2. §-a iktatta be.
-[^122]: Az 1. melléklet 1. pont 1.88. alpontját az 1/2022. (II. 22.) BM rendelet 2. §-a iktatta be.
-[^123]: Az 1. melléklet 1. pont 1.89. alpontját az 1/2022. (II. 22.) BM rendelet 2. §-a iktatta be.
-[^124]: Az 1. melléklet 1. pont 1.90. alpontját az 1/2022. (II. 22.) BM rendelet 2. §-a iktatta be.
-[^125]: Az 1. melléklet 1. pont 1.91. alpontját az 1/2022. (II. 22.) BM rendelet 2. §-a iktatta be.
-[^126]: Az 1. melléklet 2. pont 2.1. alpontját az 59/2016. (XII. 27.) BM rendelet 2. §-a hatályon kívül helyezte.
-[^127]: Az 1. melléklet 2.2. pontját a 31/2013. (VI. 18.) NFM rendelet 7. § (2) bekezdése iktatta be.
-[^128]: Az 1. melléklet 2. pont 2.3. alpontját a 60/2014. (XII. 12.) BM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 16/2017. (VI. 27.) BM rendelet 2. §-a.
-[^129]: Az 1. melléklet 2. pont 2.4. alpontját a 3/2015. (II. 11.) BM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 46/2015. (VII. 28.) BM rendelet 4. § (1) bekezdése.
-[^130]: Az 1. melléklet 2. pont 2.5. alpontját a 46/2015. (VII. 28.) BM rendelet 3. § (1) bekezdése iktatta be.
-[^131]: Az 1. melléklet 2. pont 2.6. alpontját a 46/2015. (VII. 28.) BM rendelet 3. § (1) bekezdése iktatta be, szövege a 16/2017. (VI. 27.) BM rendelet 2. §-ával megállapított szöveg.
-[^132]: Az 1. melléklet 2. pont 2.7. alpontját a 46/2015. (VII. 28.) BM rendelet 3. § (1) bekezdése iktatta be.
-[^133]: Az 1. melléklet 2. pont 2.8. alpontját a 46/2015. (VII. 28.) BM rendelet 3. § (1) bekezdése iktatta be.
-[^134]: Az 1. melléklet 2. pont 2.9. alpontját a 46/2015. (VII. 28.) BM rendelet 3. § (1) bekezdése iktatta be.
-[^135]: Az 1. melléklet 2. pont 2.10. alpontját a 46/2015. (VII. 28.) BM rendelet 3. § (2) bekezdése iktatta be, szövege a 12/2021. (V. 10.) BM rendelet 2. §-ával megállapított szöveg.
-[^136]: Az 1. melléklet 2. pont 2.11. alpontját az 59/2015. (XI. 10.) BM rendelet 2. §-a iktatta be.
-[^137]: Az 1. melléklet 2. pont 2.12. alpontját a 63/2015. (XII. 9.) BM rendelet 1. §-a iktatta be.
-[^138]: Az 1. melléklet 2. pont 2.13. alpontját a 10/2016. (III. 22.) BM rendelet 1. §-a iktatta be.
-[^139]: Az 1. melléklet 2. pont 2.14. alpontját az 59/2016. (XII. 27.) BM rendelet 1. §-a iktatta be, szövege az 1/2022. (II. 22.) BM rendelet 2. §-ával megállapított szöveg.
-[^140]: Az 1. melléklet 2. pont 2.15. alpontját a 16/2017. (VI. 27.) BM rendelet 2. §-a iktatta be.
-[^141]: Az 1. melléklet 2. pont 2.16. alpontját a 16/2017. (VI. 27.) BM rendelet 2. §-a iktatta be.
-[^142]: Az 1. melléklet 2.17. pontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
-[^143]: Az 1. melléklet 2.18. pontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
-[^144]: Az 1. melléklet 2.19. pontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
-[^145]: Az 1. melléklet 2.20. pontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
-[^146]: Az 1. melléklet 2.21. pontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
-[^147]: Az 1. melléklet 2.22. pontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
-[^148]: Az 1. melléklet 2.23. pontját a 8/2018. (III. 29.) BM rendelet 1. §-a iktatta be.
-[^149]: Az 1. melléklet 2. pont 2.24. pontját a 8/2018. (III. 29.) BM rendelet 1. §-a iktatta be, szövege az 1/2022. (II. 22.) BM rendelet 2. §-ával megállapított szöveg.
-[^150]: Az 1. melléklet 2.25. pontját a 8/2018. (III. 29.) BM rendelet 1. §-a iktatta be.
-[^151]: Az 1. melléklet 2.26. pontját a 8/2018. (III. 29.) BM rendelet 1. §-a iktatta be.
-[^152]: Az 1. melléklet 2. pont 2.27. alpontját a 19/2018. (VI. 28.) BM rendelet 1. §-a iktatta be.
-[^153]: Az 1. melléklet 2.28. pontját a 32/2018. (XII. 19.) BM rendelet 1. §-a iktatta be.
-[^154]: Az 1. melléklet 2.29. pontját a 32/2018. (XII. 19.) BM rendelet 1. §-a iktatta be.
-[^155]: Az 1. melléklet 2.30. pontját a 32/2018. (XII. 19.) BM rendelet 1. §-a iktatta be.
-[^156]: Az 1. melléklet 2.31. pontját a 32/2018. (XII. 19.) BM rendelet 1. §-a iktatta be.
-[^157]: Az. 1. melléklet 2. pont 2.32. alpontját a 45/2019. (XII. 17.) BM rendelet 2. §-a iktatta be.
-[^158]: Az 1. melléklet 2. pont második 2.32. alpontját a 48/2019. (XII. 20.) BM rendelet 1. §-a iktatta be.
-[^159]: Az. 1. melléklet 2. pont 2.33. alpontját a 45/2019. (XII. 17.) BM rendelet 2. §-a iktatta be.
-[^160]: Az 1. melléklet 2. pont második 2.33. alpontját a 48/2019. (XII. 20.) BM rendelet 1. §-a iktatta be.
-[^161]: Az 1. melléklet 2. pont 2.34. alpontját a 37/2020. (IX. 22.) BM rendelet 1. §-a iktatta be.
-[^162]: Az 1. melléklet 2. pont 2.35. alpontját a 46/2020. (XII. 21.) BM rendelet 2. §-a iktatta be, szövege a 12/2021. (V. 10.) BM rendelet 2. §-ával megállapított szöveg.
-[^163]: Az 1. melléklet 2. pont 2.36. alpontját a 12/2021. (V. 10.) BM rendelet 2. §-a iktatta be.
-[^164]: Az 1. melléklet 2. pont 2.37. alpontját a 12/2021. (V. 10.) BM rendelet 2. §-a iktatta be.
-[^165]: Az 1. melléklet 2. pont 2.38. alpontját a 38/2021. (XI. 15.) BM rendelet 1. §-a iktatta be.
-[^166]: Az 1. melléklet 2. pont 2.39. alpontját a 38/2021. (XI. 15.) BM rendelet 1. §-a iktatta be.
-[^167]: Az 1. melléklet 2. pont 2.40. alpontját az 1/2022. (II. 22.) BM rendelet 2. §-a iktatta be.
-[^168]: Az 1. melléklet 2. pont 2.41. alpontját az 1/2022. (II. 22.) BM rendelet 2. §-a iktatta be.
-[^169]: Az 1. melléklet 2. pont 2.42. alpontját az 1/2022. (II. 22.) BM rendelet 2. §-a iktatta be.
-[^170]: Az 1. melléklet 2. pont 2.43. alpontját az 1/2022. (II. 22.) BM rendelet 2. §-a iktatta be.
-[^171]: Az 1. melléklet 2. pont 2.44. alpontját az 1/2022. (II. 22.) BM rendelet 2. §-a iktatta be.
-[^172]: Az 1. melléklet 3. pont 3.2.–3.3. alpontját a 31/2016. (VII. 20.) BM rendelet 2. § (2) bekezdése hatályon kívül helyezte.
-[^173]: Az 1. melléklet 3. pont 3.10. alpontja a 49/2019. (XII. 20.) BM rendelet 1. §-ával megállapított szöveg.
-[^174]: Az 1. melléklet 3. pont 3.11. alpontját a 68/2014. (XII. 17.) BM rendelet 1. §-a iktatta be.
-[^175]: Az 1. melléklet 3. pont 3.12. alpontját a 46/2015. (VII. 28.) BM rendelet 3. § (1) bekezdése iktatta be.
-[^176]: Az 1. melléklet 3. pont 3.13. alpontját az 59/2016. (XII. 27.) BM rendelet 1. §-a iktatta be.
+[^71]: Az 1. melléklet 1. pont 1.60.2. alpontját a 16/2023. (VII. 24.) MK rendelet 3. § a) pont ac) alpontja hatályon kívül helyezte.
+[^72]: Az 1. melléklet 1. pont 1.60.3. alpontját a 16/2023. (VII. 24.) MK rendelet 3. § a) pont ac) alpontja hatályon kívül helyezte.
+[^73]: Az 1. melléklet 1. pont 1.60.4. alpontját a 16/2023. (VII. 24.) MK rendelet 3. § a) pont ac) alpontja hatályon kívül helyezte.
+[^74]: Az 1. melléklet 1. pont 1.60.5. alpontját a 16/2023. (VII. 24.) MK rendelet 3. § a) pont ac) alpontja hatályon kívül helyezte.
+[^75]: Az 1. melléklet 1. pont 1.60.6. alpontját a 16/2023. (VII. 24.) MK rendelet 3. § a) pont ac) alpontja hatályon kívül helyezte.
+[^76]: Az 1. melléklet 1. pont 1.60.8. alpontját a 16/2023. (VII. 24.) MK rendelet 3. § a) pont ac) alpontja hatályon kívül helyezte.
+[^77]: Az 1. melléklet 1. pont 1.60.9. alpontját a 16/2023. (VII. 24.) MK rendelet 3. § a) pont ac) alpontja hatályon kívül helyezte.
+[^78]: Az 1. melléklet 1. pont 1.60.10. alpontját a 16/2023. (VII. 24.) MK rendelet 3. § a) pont ac) alpontja hatályon kívül helyezte.
+[^79]: Az 1. melléklet 1. pont 1.60.11. alpontját a 16/2023. (VII. 24.) MK rendelet 3. § a) pont ac) alpontja hatályon kívül helyezte.
+[^80]: Az 1. melléklet 1. pont 1.60.12. alpontját a 16/2023. (VII. 24.) MK rendelet 3. § a) pont ac) alpontja hatályon kívül helyezte.
+[^81]: Az 1. melléklet 1. pont 1.60.13. alpontját a 16/2023. (VII. 24.) MK rendelet 3. § a) pont ac) alpontja hatályon kívül helyezte.
+[^82]: Az 1. melléklet 1. pont 1.60.14. alpontját a 16/2023. (VII. 24.) MK rendelet 3. § a) pont ac) alpontja hatályon kívül helyezte.
+[^83]: Az 1. melléklet 1. pont 1.60.15. alpontját a 16/2023. (VII. 24.) MK rendelet 3. § a) pont ac) alpontja hatályon kívül helyezte.
+[^84]: Az 1. melléklet 1. pont 1.60.16. alpontját a 16/2023. (VII. 24.) MK rendelet 3. § a) pont ac) alpontja hatályon kívül helyezte.
+[^85]: Az 1. melléklet 1. pont 1.61. alpontját a 16/2017. (VI. 27.) BM rendelet 2. §-a iktatta be.
+[^86]: Az 1. melléklet 1. pont 1.62. alpontját a 16/2017. (VI. 27.) BM rendelet 2. §-a iktatta be, hatályon kívül helyezte az 1/2022. (II. 22.) BM rendelet 2. §-a.
+[^87]: Az 1. melléklet 1. pont 1.63. alpontját a 16/2017. (VI. 27.) BM rendelet 2. §-a iktatta be, szövege a 8/2018. (III. 29.) BM rendelet 1. §-ával megállapított szöveg.
+[^88]: Az 1. melléklet 1. pont 1.64. alpontját a 16/2017. (VI. 27.) BM rendelet 2. §-a iktatta be.
+[^89]: Az 1. melléklet 1.65. pontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
+[^90]: Az 1. melléklet 1.65. pontjának 1.65.3. alpontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
+[^91]: Az 1. melléklet 1.65. pontjának 1.65.4. alpontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
+[^92]: Az 1. melléklet 1.65. pontjának 1.65.5. alpontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
+[^93]: Az 1. melléklet 1.65. pontjának 1.65.6. alpontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
+[^94]: Az 1. melléklet 1.65. pontjának 1.65.7. alpontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
+[^95]: Az 1. melléklet 1.65. pontjának 1.65.8. alpontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
+[^96]: Az 1. melléklet 1.65. pontjának 1.65.9. alpontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be, szövege a 8/2018. (III. 29.) BM rendelet 1. §-ával megállapított szöveg.
+[^97]: Az 1. melléklet 1.65. pontjának 1.65.10. alpontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
+[^98]: Az 1. melléklet 1.65. pontjának 1.65.11. alpontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be, szövege a 16/2023. (VII. 24.) MK rendelet 2. §-ával megállapított szöveg.
+[^99]: Az 1. melléklet 1.65. pontjának 1.65.12. alpontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
+[^100]: Az 1. melléklet 1.65. pontjának 1.65.13. alpontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
+[^101]: Az 1. melléklet 1.65. pontjának 1.65.14. alpontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
+[^102]: Az 1. melléklet 1.65. pontjának 1.65.15. alpontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
+[^103]: Az 1. melléklet 1.65. pontjának 1.65.16. alpontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
+[^104]: Az 1. melléklet 1.65. pontjának 1.65.17. alpontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be, szövege a 32/2018. (XII. 19.) BM rendelet 1. §-ával megállapított szöveg.
+[^105]: Az 1. melléklet 1.65.18. pontját a 32/2018. (XII. 19.) BM rendelet 1. §-a iktatta be.
+[^106]: Az 1. melléklet 1.65.19. pontját a 32/2018. (XII. 19.) BM rendelet 1. §-a iktatta be.
+[^107]: Az 1. melléklet 1. pont 1.65.20. alpontját a 48/2019. (XII. 20.) BM rendelet 1. §-a iktatta be.
+[^108]: Az 1. melléklet 1. pont 1.65.20. alpont 1.65.20.14. pontját a 46/2020. (XII. 21.) BM rendelet 2. §-a iktatta be.
+[^109]: Az 1. melléklet 1. pont 1.65.20. alpont 1.65.20.15. pontját a 46/2020. (XII. 21.) BM rendelet 2. §-a iktatta be.
+[^110]: Az 1. melléklet 1. pont 1.65.21. alpontját a 48/2019. (XII. 20.) BM rendelet 1. §-a iktatta be.
+[^111]: Az 1. melléklet 1. pont 1.65. alpont 1.65.22. pontját a 37/2020. (IX. 22.) BM rendelet 1. §-a iktatta be.
+[^112]: Az 1. melléklet 1.66. pontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
+[^113]: Az 1. melléklet 1.67. pontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
+[^114]: Az 1. melléklet 1.68. pontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
+[^115]: Az 1. melléklet 1.69. pontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
+[^116]: Az 1. melléklet 1.70. pontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
+[^117]: Az 1. melléklet 1.71. pontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
+[^118]: Az 1. melléklet 1.72. pontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
+[^119]: Az 1. melléklet 1.73. pontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
+[^120]: Az 1. melléklet 1.74. pontját a 8/2018. (III. 29.) BM rendelet 1. §-a iktatta be, szövege a 4/2020. (III. 3.) BM rendelet 2. §-ával megállapított szöveg.
+[^121]: Az 1. melléklet 1. pont 1.74. alpont 1.74.10. pontja a 38/2021. (XI. 15.) BM rendelet 1. §-ával megállapított szöveg.
+[^122]: Az 1. melléklet 1. pont 1.74. alpont 1.74.11. pontja a 38/2021. (XI. 15.) BM rendelet 1. §-ával megállapított szöveg.
+[^123]: Az 1. melléklet 1.75. pontját a 8/2018. (III. 29.) BM rendelet 1. §-a iktatta be.
+[^124]: Az 1. melléklet 1.76. pontját a 8/2018. (III. 29.) BM rendelet 1. §-a iktatta be, a 16/2023. (VII. 24.) MK rendelet 3. § a) pont ad) alpontja hatályon kívül helyezte.
+[^125]: Az 1. melléklet 1. pont 1.77. alpontját a 19/2018. (VI. 28.) BM rendelet 1. §-a iktatta be.
+[^126]: Az 1. melléklet 1.78. pontját a 32/2018. (XII. 19.) BM rendelet 1. §-a iktatta be.
+[^127]: Az 1. melléklet 1.79. pontját a 32/2018. (XII. 19.) BM rendelet 1. §-a iktatta be.
+[^128]: Az. 1. melléklet 1. pont 1.80. alpontját a 45/2019. (XII. 17.) BM rendelet 2. §-a iktatta be, a 16/2023. (VII. 24.) MK rendelet 3. § a) pont ae) alpontja hatályon kívül helyezte.
+[^129]: Az 1. melléklet 1. pont 1.80.1. alpontját a 16/2023. (VII. 24.) MK rendelet 3. § a) pont af) alpontja hatályon kívül helyezte.
+[^130]: Az. 1. melléklet 1. pont 1.81. alpontját a 45/2019. (XII. 17.) BM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 12/2021. (V. 10.) BM rendelet 2. §-a.
+[^131]: Az 1. melléklet 1. pont 1.82. alpontját a 46/2020. (XII. 21.) BM rendelet 2. §-a iktatta be, szövege a 12/2021. (V. 10.) BM rendelet 2. §-ával megállapított szöveg.
+[^132]: Az 1. melléklet 1. pont 1.83. alpontját a 12/2021. (V. 10.) BM rendelet 2. §-a iktatta be.
+[^133]: Az 1. melléklet 1. pont 1.84. alpontját a 12/2021. (V. 10.) BM rendelet 2. §-a iktatta be.
+[^134]: Az 1. melléklet 1. pont 1.85. alpontját a 38/2021. (XI. 15.) BM rendelet 1. §-a iktatta be.
+[^135]: Az 1. melléklet 1. pont 1.86. alpontját a 38/2021. (XI. 15.) BM rendelet 1. §-a iktatta be.
+[^136]: Az 1. melléklet 1. pont 1.87. alpontját az 1/2022. (II. 22.) BM rendelet 2. §-a iktatta be.
+[^137]: Az 1. melléklet 1. pont 1.88. alpontját az 1/2022. (II. 22.) BM rendelet 2. §-a iktatta be.
+[^138]: Az 1. melléklet 1. pont 1.89. alpontját az 1/2022. (II. 22.) BM rendelet 2. §-a iktatta be.
+[^139]: Az 1. melléklet 1. pont 1.90. alpontját az 1/2022. (II. 22.) BM rendelet 2. §-a iktatta be.
+[^140]: Az 1. melléklet 1. pont 1.91. alpontját az 1/2022. (II. 22.) BM rendelet 2. §-a iktatta be.
+[^141]: Az 1. melléklet 1. pont 1.92. alpontját a 16/2023. (VII. 24.) MK rendelet 2. §-a iktatta be.
+[^142]: Az 1. melléklet 1. pont 1.93. alpontját a 16/2023. (VII. 24.) MK rendelet 2. §-a iktatta be.
+[^143]: Az 1. melléklet 1. pont 1.94. alpontját a 16/2023. (VII. 24.) MK rendelet 2. §-a iktatta be.
+[^144]: Az 1. melléklet 1. pont 1.95. alpontját a 16/2023. (VII. 24.) MK rendelet 2. §-a iktatta be.
+[^145]: Az 1. melléklet 2. pont 2.1. alpontját az 59/2016. (XII. 27.) BM rendelet 2. §-a hatályon kívül helyezte.
+[^146]: Az 1. melléklet 2.2. pontját a 31/2013. (VI. 18.) NFM rendelet 7. § (2) bekezdése iktatta be.
+[^147]: Az 1. melléklet 2. pont 2.3. alpontját a 60/2014. (XII. 12.) BM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 16/2017. (VI. 27.) BM rendelet 2. §-a.
+[^148]: Az 1. melléklet 2. pont 2.4. alpontját a 3/2015. (II. 11.) BM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 46/2015. (VII. 28.) BM rendelet 4. § (1) bekezdése.
+[^149]: Az 1. melléklet 2. pont 2.5. alpontját a 46/2015. (VII. 28.) BM rendelet 3. § (1) bekezdése iktatta be.
+[^150]: Az 1. melléklet 2. pont 2.6. alpontját a 46/2015. (VII. 28.) BM rendelet 3. § (1) bekezdése iktatta be, szövege a 16/2017. (VI. 27.) BM rendelet 2. §-ával megállapított szöveg.
+[^151]: Az 1. melléklet 2. pont 2.7. alpontját a 46/2015. (VII. 28.) BM rendelet 3. § (1) bekezdése iktatta be.
+[^152]: Az 1. melléklet 2. pont 2.8. alpontját a 46/2015. (VII. 28.) BM rendelet 3. § (1) bekezdése iktatta be.
+[^153]: Az 1. melléklet 2. pont 2.9. alpontját a 46/2015. (VII. 28.) BM rendelet 3. § (1) bekezdése iktatta be.
+[^154]: Az 1. melléklet 2. pont 2.10. alpontját a 46/2015. (VII. 28.) BM rendelet 3. § (2) bekezdése iktatta be, szövege a 12/2021. (V. 10.) BM rendelet 2. §-ával megállapított szöveg.
+[^155]: Az 1. melléklet 2. pont 2.11. alpontját az 59/2015. (XI. 10.) BM rendelet 2. §-a iktatta be.
+[^156]: Az 1. melléklet 2. pont 2.12. alpontját a 63/2015. (XII. 9.) BM rendelet 1. §-a iktatta be.
+[^157]: Az 1. melléklet 2. pont 2.13. alpontját a 10/2016. (III. 22.) BM rendelet 1. §-a iktatta be.
+[^158]: Az 1. melléklet 2. pont 2.14. alpontját az 59/2016. (XII. 27.) BM rendelet 1. §-a iktatta be, szövege az 1/2022. (II. 22.) BM rendelet 2. §-ával megállapított szöveg.
+[^159]: Az 1. melléklet 2. pont 2.15. alpontját a 16/2017. (VI. 27.) BM rendelet 2. §-a iktatta be.
+[^160]: Az 1. melléklet 2. pont 2.16. alpontját a 16/2017. (VI. 27.) BM rendelet 2. §-a iktatta be.
+[^161]: Az 1. melléklet 2.17. pontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
+[^162]: Az 1. melléklet 2.18. pontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
+[^163]: Az 1. melléklet 2.19. pontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
+[^164]: Az 1. melléklet 2.20. pontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
+[^165]: Az 1. melléklet 2.21. pontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
+[^166]: Az 1. melléklet 2.22. pontját a 37/2017. (XII. 27.) BM rendelet 3. §-a iktatta be.
+[^167]: Az 1. melléklet 2.23. pontját a 8/2018. (III. 29.) BM rendelet 1. §-a iktatta be.
+[^168]: Az 1. melléklet 2. pont 2.24. pontját a 8/2018. (III. 29.) BM rendelet 1. §-a iktatta be, szövege az 1/2022. (II. 22.) BM rendelet 2. §-ával megállapított szöveg.
+[^169]: Az 1. melléklet 2.25. pontját a 8/2018. (III. 29.) BM rendelet 1. §-a iktatta be.
+[^170]: Az 1. melléklet 2.26. pontját a 8/2018. (III. 29.) BM rendelet 1. §-a iktatta be, a 16/2023. (VII. 24.) MK rendelet 3. § b) pontja hatályon kívül helyezte.
+[^171]: Az 1. melléklet 2. pont 2.27. alpontját a 19/2018. (VI. 28.) BM rendelet 1. §-a iktatta be.
+[^172]: Az 1. melléklet 2.28. pontját a 32/2018. (XII. 19.) BM rendelet 1. §-a iktatta be.
+[^173]: Az 1. melléklet 2.29. pontját a 32/2018. (XII. 19.) BM rendelet 1. §-a iktatta be.
+[^174]: Az 1. melléklet 2.30. pontját a 32/2018. (XII. 19.) BM rendelet 1. §-a iktatta be.
+[^175]: Az 1. melléklet 2. pont 2.31. alpontja a 16/2023. (VII. 24.) MK rendelet 2. §-ával megállapított szöveg.
+[^176]: Az 1. melléklet 2. pont 2.32. alpontja a 16/2023. (VII. 24.) MK rendelet 2. §-ával megállapított szöveg.
+[^177]: Az 1. melléklet 2. pont 2.33. alpontja a 16/2023. (VII. 24.) MK rendelet 2. §-ával megállapított szöveg.
+[^178]: Az 1. melléklet 2. pont 2.34. alpontja a 16/2023. (VII. 24.) MK rendelet 2. §-ával megállapított szöveg.
+[^179]: Az 1. melléklet 2. pont 2.35. alpontját a 46/2020. (XII. 21.) BM rendelet 2. §-a iktatta be, szövege a 12/2021. (V. 10.) BM rendelet 2. §-ával megállapított szöveg.
+[^180]: Az 1. melléklet 2. pont 2.36. alpontját a 12/2021. (V. 10.) BM rendelet 2. §-a iktatta be.
+[^181]: Az 1. melléklet 2. pont 2.37. alpontját a 12/2021. (V. 10.) BM rendelet 2. §-a iktatta be.
+[^182]: Az 1. melléklet 2. pont 2.38. alpontját a 38/2021. (XI. 15.) BM rendelet 1. §-a iktatta be.
+[^183]: Az 1. melléklet 2. pont 2.39. alpontját a 38/2021. (XI. 15.) BM rendelet 1. §-a iktatta be.
+[^184]: Az 1. melléklet 2. pont 2.40. alpontját az 1/2022. (II. 22.) BM rendelet 2. §-a iktatta be.
+[^185]: Az 1. melléklet 2. pont 2.41. alpontját az 1/2022. (II. 22.) BM rendelet 2. §-a iktatta be.
+[^186]: Az 1. melléklet 2. pont 2.42. alpontját az 1/2022. (II. 22.) BM rendelet 2. §-a iktatta be.
+[^187]: Az 1. melléklet 2. pont 2.43. alpontját az 1/2022. (II. 22.) BM rendelet 2. §-a iktatta be.
+[^188]: Az 1. melléklet 2. pont 2.44. alpontját az 1/2022. (II. 22.) BM rendelet 2. §-a iktatta be.
+[^189]: Az 1. melléklet 3. pont 3.2.–3.3. alpontját a 31/2016. (VII. 20.) BM rendelet 2. § (2) bekezdése hatályon kívül helyezte.
+[^190]: Az 1. melléklet 3. pont 3.10. alpontja a 49/2019. (XII. 20.) BM rendelet 1. §-ával megállapított szöveg.
+[^191]: Az 1. melléklet 3. pont 3.11. alpontját a 68/2014. (XII. 17.) BM rendelet 1. §-a iktatta be.
+[^192]: Az 1. melléklet 3. pont 3.12. alpontját a 46/2015. (VII. 28.) BM rendelet 3. § (1) bekezdése iktatta be.
+[^193]: Az 1. melléklet 3. pont 3.13. alpontját az 59/2016. (XII. 27.) BM rendelet 1. §-a iktatta be.
