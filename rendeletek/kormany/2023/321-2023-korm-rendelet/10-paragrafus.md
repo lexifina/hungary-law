@@ -1,0 +1,3 @@
+10. § (1) A 2022/2023. menetrendi évnek az e rendelet hatálybalépésének napjától számított hátralévő időszaka tekintetében az e rendelet hatálybalépésének napját követő naptól kezdve a VPSZ a vasúti pályahálózat-működtető számára nyújtott szolgáltatások ellenértékeként napi 5 000 000 forint összegű megbízási díjra, de a teljes 2022/2023. menetrendi évben összesen legfeljebb 850 000 000 forintra jogosult.
+
+(2) A VPSZ megbízási díjának változása esetén – kizárólag ezen költségelem tekintetében – a vasúti hálózat-hozzáférési díjrendszert a díjmegállapító szervezet a vasúti hálózat-hozzáférési díjrendszer kereteiről, valamint a hálózat-hozzáférési díjak képzésének és alkalmazásának alapvető szabályairól szóló miniszteri rendelet előírásai szerint felülvizsgálja.

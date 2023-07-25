@@ -1,0 +1,1 @@
+3. § A vasúti pályahálózat-működtető a Hálózati Üzletszabályzat elkészítéséhez szükséges adatokat a miniszteri rendeletben azok közzétételére előírt időpontot megelőzően legkésőbb kilencven nappal, módosítás esetén pedig haladéktalanul a VPSZ rendelkezésére bocsátja.

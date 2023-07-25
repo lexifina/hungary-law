@@ -1,0 +1,1 @@
+7. § A VPSZ más személy közreműködését akkor veheti igénybe, ha valamely feladata ellátásához olyan különleges szakértelem szükséges, amellyel a VPSZ nem rendelkezik, továbbá a közreműködő személy és közeli hozzátartozója a Vtv. 67/V. § (1)–(2) bekezdésében foglaltaknak megfelel.
