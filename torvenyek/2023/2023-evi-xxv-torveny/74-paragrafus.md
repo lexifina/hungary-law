@@ -1,1 +1,1 @@
-74. § A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 99. § (5) bekezdés c) pontjában a „bejelentés és panasz” szövegrész helyébe a „bejelentés, az elkülönített visszaélés-bejelentési rendszerben, valamint a közérdekű bejelentések védett elektronikus rendszerében megtett visszaélés-bejelentés és a panasz” szöveg lép.
+### 74. §

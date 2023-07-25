@@ -1,1 +1,1 @@
-72. § A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 164/A. § (2) bekezdésében a „panaszokról és a közérdekű bejelentésekről szóló törvény” szövegrész helyébe a „panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló törvény” szöveg lép.
+### 72. §

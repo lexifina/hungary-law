@@ -1,1 +1,1 @@
-64. § A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 59. § (3) bekezdés g) pontjában a „bejelentés megtételére” szövegrész helyébe a „bejelentés, visszaélés-bejelentés megtételére” szöveg lép.
+### 64. §
