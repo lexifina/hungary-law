@@ -1,1 +1,0 @@
-## 7. § A VPSZ és a nem független vasúti pályahálózat-működtető a közöttük fennálló jogviszonynak a Vtv.-ben és e rendeletben nem szabályozott részletkérdéseiben egymással írásban együttműködési szerződést köthetnek. Az együttműködési szerződésre a Polgári Törvénykönyvről szóló törvény (a továbbiakban: Ptk.) szabályait kell alkalmazni.
