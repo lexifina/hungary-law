@@ -1,4 +1,4 @@
-42. § (1) Az audit hatóság a számviteli évben benyújtott költségnyilatkozatokból több alkalommal is végezhet mintavételt. Az igazoló hatóság az audit hatóság kérését követő 15 napon belül megküldi a statisztikai mintavételezés alapjául szolgáló tételeket az audit hatóság részére. Az igazoló hatóság legkésőbb minden év május 15. napjáig átadja az audit hatóságnak az aktuális számviteli évben az Európai Bizottsághoz benyújtott költségnyilatkozatok alapjául szolgáló tételeket, statisztikai mintavételezés céljából.
+42. § (1)[^39] Az audit hatóság a számviteli évben benyújtott költségnyilatkozatokból több alkalommal is végezhet mintavételt. Az igazoló hatóság az audit hatóság kérését követő tizenöt napon belül megküldi a statisztikai mintavételezés alapjául szolgáló tételeket az audit hatóság részére. Az igazoló hatóság legkésőbb minden év május 15. napjáig átadja az audit hatóságnak az aktuális számviteli évben az Európai Bizottsághoz benyújtott költségnyilatkozatok alapjául szolgáló tételeket, statisztikai mintavételezés céljából.
 
 (2) Az igazoló hatóság július 31. napját követően az előző számviteli év vonatkozásában már nem adhat be új tételeket vagy korábbi tételekhez kapcsolódó költségnövekményt tartalmazó költségnyilatkozatot.
 
@@ -15,3 +15,5 @@
 (8) Az igazoló hatóság minden év december 1. napjáig, november 15. napi fordulónappal elkészíti az éves elszámolás tervezetét, és átadja az audit hatóságnak. Az igazoló hatóság ezzel párhuzamosan megküldi a DRP irányító hatóság részére az éves összefoglaló táblázataiba beillesztendő éves elszámolásban érvényesített korrekciók összegét.
 
 (9) Az audit hatóság az éves összefoglalóra, vezetői nyilatkozatra és az éves elszámolásra az észrevételeit minden év december 15. napjáig megküldi a DRP irányító hatóság, valamint az igazoló hatóság részére. Az igazoló hatóság az éves összefoglalóra és vezetői nyilatkozatra az észrevételeit minden év december 15. napjáig megküldi a DRP irányító hatóságnak.
+
+[^39]: A 42. § (1) bekezdése a 339/2023. (VII. 25.) Korm. rendelet 43. § k) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.

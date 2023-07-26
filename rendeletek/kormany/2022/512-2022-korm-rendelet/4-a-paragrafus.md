@@ -1,0 +1,33 @@
+## II. Fejezet
+
+## A TRANSZNACIONÁLIS ÉS INTERREGIONÁLIS EGYÜTTMŰKÖDÉSI PROGRAMOK HAZAI SZINTŰ LEBONYOLÍTÁSÁNAK RÉSZLETES SZABÁLYAI
+
+## 3/A.[^22] A Transznacionális és Interregionális Együttműködés (2021–2027) előirányzat felhasználási szabályai
+
+4/A. § (1) Az európai területi együttműködési célkitűzés keretében megvalósuló 2021–2027 közötti transznacionális és − az URBACT program kivételével − az interregionális együttműködési programok esetében a hazai végrehajtáshoz kapcsolódóan felmerülő kiadások és támogatások fedezetét a központi költségvetés XIX. Uniós fejlesztések fejezet, 3. Központi kezelésű előirányzatok cím, 12. Transznacionális és Interregionális Együttműködés (2021–2027) alcíme (a továbbiakban: előirányzat) biztosítja.
+
+(2) Az előirányzat
+
+a) az európai területi együttműködési célkitűzés keretében megvalósuló 2021–2027 közötti transznacionális és – az URBACT program kivételével – az interregionális együttműködési programok esetében a nemzeti hozzájárulás biztosítása,
+
+b) a 2021–2027 közötti programozási időszakban megvalósuló DRP, Interreg CENTRAL EUROPE és az Interreg Europe programok keretében meghirdetett pályázatokon nyertes projektek
+
+ba) központi költségvetési szerv hazai partnere esetén a projektrész teljes költségvetésének 20%-át, nem központi költségvetési szerv hazai partnere esetén a projektrész teljes költségvetésének 15%-át meg nem haladó hazai társfinanszírozás nyújtása vissza nem térítendő támogatásként történő,
+
+bb) hazai partner projektjéhez visszatérítendő támogatásként nyújtott európai uniós hozzájárulás 30%-át meg nem haladó megelőlegezése,
+
+c) a tagállami helytállási kötelezettségből adódó visszafizetés,
+
+d) a hitelesítési tevékenységre kijelölt szervezetnek (ezen alcím alkalmazásában a továbbiakban: közreműködő szervezet) e rendeletben, valamint a Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaságról szóló 197/2018. (X. 24.) Korm. rendeletben meghatározott feladatai,
+
+e) a DRP irányító hatóságának e rendeletben meghatározott feladatai kapcsán az európai uniós hozzájárulás visszatérítendő támogatásként történő megelőlegezése, valamint
+
+f) a DRP audit hatóságának e rendeletben meghatározott feladatai kapcsán az európai uniós hozzájárulás visszatérítendő támogatásként történő megelőlegezése
+
+finanszírozására szolgál.
+
+(3) Az (1) bekezdés szerinti költségvetési fejezetet irányító szerv vezetője az előirányzat kezelésére előirányzat-felhasználási keretszámlát nyit a Magyar Államkincstárnál.
+
+(4) Az előirányzat-felhasználási keretszámla vezetésével és forgalmával kapcsolatban felmerült költség elszámolása a központi költségvetésből történik.
+
+[^22]: A 3/A. alcímet (4/A-4/H. §-t) a 339/2023. (VII. 25.) Korm. rendelet 27. §-a iktatta be. Alkalmazására lásd e módosító rendelet 59. §-át.

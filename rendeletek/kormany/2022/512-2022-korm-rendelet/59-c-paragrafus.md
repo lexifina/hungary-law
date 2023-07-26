@@ -1,0 +1,1 @@
+59/C. § Az Atr. 18. § (2) bekezdés a) pontja szerint előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha a támogatás összege az európai területi együttműködési projektekben részt vevő vállalkozásoknál felmerült költségekhez nyújtott támogatás esetén vállalkozásonként és projektenként meghaladja a kétmillió eurónak megfelelő forintösszeget.

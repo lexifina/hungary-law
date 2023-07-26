@@ -14,8 +14,10 @@ e) a termékek és szolgáltatások teljesítésének az uniós támogatási sze
 
 f) a nyilvánosságra és tájékoztatásra vonatkozó szabályok betartását,
 
-g) a közbeszerzésekre vonatkozó uniós és nemzeti szabályok betartását, így különösen a korábban már benyújtott dokumentumok eredeti dokumentumokkal való összhangját, a benyújtott dokumentumok valódiságát és a dokumentumok megőrzésére vonatkozó szabályok betartását,
+g)[^24] a közbeszerzésekre vonatkozó uniós és nemzeti szabályok betartását, a korábban már benyújtott dokumentumok eredeti dokumentumokkal való összhangját, a benyújtott dokumentumok valódiságát és a dokumentumok megőrzésére vonatkozó szabályok betartását, kivéve azokat a dokumentumokat, amelyekhez a dokumentumalapú ellenőrzés során a kedvezményezett teljes körű EKR betekintést biztosított,
 
 h) az állami támogatással, a környezetvédelemmel, az esélyegyenlőséggel és a fenntartható fejlődéssel kapcsolatos követelmények betartását és
 
 i) az elkülönített számviteli nyilvántartás vezetését.
+
+[^24]: A 7. § (2) bekezdés g) pontja a 339/2023. (VII. 25.) Korm. rendelet 28. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.

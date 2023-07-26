@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-512-20-
 | --- | --- | --- |
 | 2022-12-21 | 2022-512-20-22.1 | 512/2022. (XII. 13.) Korm. rendelet |
 | 2022-12-22 | 2022-512-20-22.2 | 2010. évi CXXX. törvény |
+| 2023-07-26 | 2022-512-20-22.3 | 339/2023. (VII. 25.) Korm. rendelet |

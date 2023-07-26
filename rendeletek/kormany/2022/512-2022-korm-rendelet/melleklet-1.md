@@ -10,12 +10,15 @@ A 2021–2027-es időszakban a transznacionális és interregionális együttmű
 
 | 3. | igazoló hatóság | Magyar Államkincstár | – | – | – | – | – |
 
-| 4. | audit hatóság | Európai Támogatásokat Auditáló Főigazgatóság | – | – | – | – | – |
+| 4.[^58] |  |  |  |  |  |  |  |
 
-| 5. | az auditor csoport magyar tagja | – | Európai Támogatásokat Auditáló Főigazgatóság | Európai Támogatásokat Auditáló Főigazgatóság | – | – | Európai Támogatásokat Auditáló Főigazgatóság |
+| 5.[^59] |  |  |  |  |  |  |  |
 
 | 6. | nemzeti hatóság | területfejlesztés stratégiai tervezéséért felelős miniszter által vezetett minisztérium | területfejlesztés stratégiai tervezéséért felelős miniszter által vezetett minisztérium | területfejlesztés stratégiai tervezéséért felelős miniszter által vezetett minisztérium | területfejlesztés stratégiai tervezéséért felelős miniszter által vezetett minisztérium | területfejlesztés stratégiai tervezéséért felelős miniszter által vezetett minisztérium | településfejlesztésért és településrendezésért felelős miniszter által vezetett minisztérium |
 
 | 7. | nemzeti kapcsolattartó pont | területfejlesztés stratégiai tervezéséért felelős miniszter által vezetett minisztérium | területfejlesztés stratégiai tervezéséért felelős miniszter által vezetett minisztérium | területfejlesztés stratégiai tervezéséért felelős miniszter által vezetett minisztérium | – | területfejlesztés stratégiai tervezéséért felelős miniszter által vezetett minisztérium | Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság |
 
 | 8. | hitelesítési tevékenységre kijelölt szervezet | Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság | Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság | Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság | – | – | Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság |
+
+[^58]: Az 1. mellékletben foglalt táblázat 4. sorát a 339/2023. (VII. 25.) Korm. rendelet 44. § (2) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 59. §-át.
+[^59]: Az 1. mellékletben foglalt táblázat 5. sorát a 339/2023. (VII. 25.) Korm. rendelet 44. § (2) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 59. §-át.

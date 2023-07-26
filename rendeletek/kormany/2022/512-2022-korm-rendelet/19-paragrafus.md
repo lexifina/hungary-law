@@ -1,4 +1,4 @@
-19. § (1) A hitelesítési tevékenységre kijelölt szervezet vezetője a szabálytalanság-vizsgálati jelentés alapján dönt a szabálytalansági vizsgálat lezárásáról. A szabálytalansági vizsgálat lezárásának időpontja a szabálytalansági vizsgálatot lezáró döntés meghozatalának a napja. A szabálytalansági vizsgálatot a megindításától számított 45 napon belül le kell zárni, amely határidő egy alkalommal további 45 nappal meghosszabbítható.
+19. § (1)[^31] A hitelesítési tevékenységre kijelölt szervezet vezetője a szabálytalanság-vizsgálati jelentés alapján dönt a szabálytalansági vizsgálat lezárásáról. A szabálytalansági vizsgálat lezárásának időpontja a szabálytalansági vizsgálatot lezáró döntés meghozatalának a napja. A szabálytalansági vizsgálatot a megindításától számított negyvenöt napon belül le kell zárni, amely határidő egy alkalommal további negyvenöt nappal meghosszabbítható.
 
 (2) A szabálytalansági vizsgálat lezárulhat
 
@@ -11,3 +11,5 @@ c) a még nem hitelesített költségek tekintetében annak megállapításával
 (3) A hitelesítési tevékenységre kijelölt szervezet a szabálytalanságot a hazai partnerre vonatkozóan állapítja meg akkor is, ha annak alapjául más személy vagy szervezet tevékenysége vagy mulasztása szolgált. A szabálytalanság – ide nem értve a rendszerszintű szabálytalanságot – megállapításával összefüggésben elrendelt intézkedés a hazai partnert terheli.
 
 (4) A szabálytalanság-felelős a (2) bekezdés szerinti döntésről írásban tájékoztatja a hazai partnert, továbbá elektronikus formában értesíti az elrendelt intézkedés végrehajtásában érintetteket.
+
+[^31]: A 19. § (1) bekezdése a 339/2023. (VII. 25.) Korm. rendelet 43. § g) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.

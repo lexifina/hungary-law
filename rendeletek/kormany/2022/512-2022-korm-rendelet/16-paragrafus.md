@@ -6,8 +6,10 @@ b) a cégbíróság a hazai partner céget a törvényességi felügyeleti eljá
 
 c) a hazai partner elismeri a szabálytalanság tényét,
 
-d) az Európai Bizottság, az audit hatóság, az audit csoport hazai tagja vagy bármely, ellenőrzést végző szervezet szabálytalanságot állapít meg, és a szabálytalanság megállapításával a hitelesítési tevékenységre kijelölt szervezet is egyetért,
+d)[^30] az Európai Bizottság, az audit hatóság, az auditor csoport hazai tagja vagy bármely, ellenőrzést végző szervezet szabálytalanságot állapít meg,
 
 e) rendszerszintű szabálytalanság történt, vagy
 
 f) a szabálytalanság oka kizárólag számítási hiba.
+
+[^30]: A 16. § d) pontja a 339/2023. (VII. 25.) Korm. rendelet 31. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
