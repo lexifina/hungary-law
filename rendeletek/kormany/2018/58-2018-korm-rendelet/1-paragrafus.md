@@ -10,6 +10,12 @@ b) a Beruházások keretében vagy ahhoz kapcsolódóan útépítési, közműfe
 
 (4)[^3] A Beruházások megvalósításához kapcsolódó használatbavételi engedély kiadásának feltétele a telekalakítás ingatlan-nyilvántartásban történő átvezetése.
 
+(5)[^4] Az 1. mellékletben felsorolt ingatlanok esetében a tereprendezést és mélyalapozást a megvalósuló építési tevékenység ütemeként is engedélyezheti a 2. melléklet 1. pontja szerinti engedélyezési eljárásban az eljáró hatóság.
+
+(6)[^5] Az (5) bekezdés szerinti tereprendezés és mélyalapozás építési engedélyezési dokumentációjának az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet 8. mellékletében foglaltakon túl tartalmaznia kell talajvédelmi tervet.
+
 [^1]: Az 1. § (1) bekezdése a 225/2019. (IX. 25.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^2]: Az 1. § (3) bekezdését a 231/2018. (XII. 6.) Korm. rendelet 1. §-a iktatta be.
 [^3]: Az 1. § (4) bekezdését a 231/2018. (XII. 6.) Korm. rendelet 1. §-a iktatta be.
+[^4]: Az 1. § (5) bekezdését a 342/2023. (VII. 25.) Korm. rendelet 1. §-a iktatta be.
+[^5]: Az 1. § (6) bekezdését a 342/2023. (VII. 25.) Korm. rendelet 1. §-a iktatta be.
