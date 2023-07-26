@@ -48,31 +48,33 @@
 
 ## 1.1.9. Köröm,
 
-## 1.1.10. Tiszaújváros
+## 1.1.10. Nagycsécs,
+
+## 1.1.11. Tiszaújváros
 
 ## települések Sajó bal parti (a Bükki Nemzeti Park Igazgatóság működési területéhez tartozó) területe,
 
-## 1.1.11. Csobaj,
+## 1.1.12. Csobaj,
 
-## 1.1.12. Prügy,
+## 1.1.13. Prügy,
 
-## 1.1.13. Taktabáj,
+## 1.1.14. Taktabáj,
 
-## 1.1.14. Taktaharkány,
+## 1.1.15. Taktaharkány,
 
-## 1.1.15. Taktakenéz,
+## 1.1.16. Taktakenéz,
 
-## 1.1.16. Taktaszada,
+## 1.1.17. Taktaszada,
 
-## 1.1.17. Tiszaderzs,
+## 1.1.18. Tiszalúc,
 
-## 1.1.18. Tiszalúc
+## 1.1.19. Tiszatardos
 
 ## települések (a Bükki Nemzeti Park Igazgatóság működési területéhez tartozó) teljes területe,
 
-## 1.1.19. Tiszacsermely településnek a 7.6.1. és 7.6.1.1. pont szerint a Hortobágyi Nemzeti Park Igazgatóság működési területéhez tartozó része,
+## 1.1.20. Tiszacsermely településnek a 7.6.1. és 7.6.1.1. pont szerint a Hortobágyi Nemzeti Park Igazgatóság működési területéhez tartozó része,
 
-## 1.1.20. Tiszakarád településnek a 7.6.1. és 7.6.1.2. pont szerint a Hortobágyi Nemzeti Park Igazgatóság működési területéhez tartozó része.
+## 1.1.21. Tiszakarád településnek a 7.6.1. és 7.6.1.2. pont szerint a Hortobágyi Nemzeti Park Igazgatóság működési területéhez tartozó része.
 
 ## 2. BALATON-FELVIDÉKI NEMZETI PARK IGAZGATÓSÁG
 
