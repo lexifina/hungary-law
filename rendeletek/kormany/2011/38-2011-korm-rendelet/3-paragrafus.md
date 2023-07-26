@@ -30,7 +30,7 @@ A nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozó
 
 | 12. | Közepes és kisméretarányú állami topográfiai térképek | MH Geoinformációs Szolgálat és HM Térképészeti Közhasznú Nonprofit Kft. | teljes adatfeldolgozás | kötelező |
 
-| 13. | Nyugdíj-biztosítási nyilvántartás | kizárólagos állami tulajdonú gazdálkodó szervezet | teljes adatfeldolgozás | az adatkezelő döntésétől függő |
+| 13. | Nyugdíjbiztosítási nyilvántartás | A nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 1. pontja szerinti, belföldi székhelyű átlátható szervezet | teljes adatfeldolgozás | az adatkezelő döntésétől függő |
 
 | 14. | Egészségbiztosítási nyilvántartás | kizárólagos állami tulajdonú gazdálkodó szervezet | teljes adatfeldolgozás | az adatkezelő döntésétől függő |
 
@@ -74,4 +74,4 @@ A nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozó
 
 | 34. | A magyarországi lakcímmel nem rendelkező választópolgárok levélben benyújtott névjegyzéki kérelmének regisztrációs előfeldolgozását végző informatikai rendszer | KOPINT-DATORG Informatikai és Vagyonkezelő Kft. | elektronikus adatfeldolgozás | az adatkezelő döntésétől függő |
 
-[^1]: A melléklet a 379/2016. (XII. 2.) Korm. rendelet 172. §-ával megállapított, a 163/2017. (VI. 28.) Korm. rendelet 4. §-a, a 311/2017. (X. 31.) Korm. rendelet 18. §-a, a 467/2017. (XII. 28.) Korm. rendelet 15. §-a, a 75/2018. (IV. 20.) Korm. rendelet 8. §-a, a 156/2018. (IX. 3.) Korm. rendelet 1. §, a 153/2019. (VI. 26.) Korm. rendelet 1. §-a, a 200/2019. (VIII. 1.) Korm. rendelet 1. §-a, a 360/2019. (XII. 30.) Korm. rendelet 87. §-a szerint, a 38/2020. (III. 10.) Korm. rendelet 5. §-a, a 447/2020. (X. 1.) Korm. rendelet 13. §-a, a 616/2022. (XII. 29.) Korm. rendelet 121. §-a szerint módosított szöveg.
+[^1]: A melléklet a 379/2016. (XII. 2.) Korm. rendelet 172. §-ával megállapított, a 163/2017. (VI. 28.) Korm. rendelet 4. §-a, a 311/2017. (X. 31.) Korm. rendelet 18. §-a, a 467/2017. (XII. 28.) Korm. rendelet 15. §-a, a 75/2018. (IV. 20.) Korm. rendelet 8. §-a, a 156/2018. (IX. 3.) Korm. rendelet 1. §, a 153/2019. (VI. 26.) Korm. rendelet 1. §-a, a 200/2019. (VIII. 1.) Korm. rendelet 1. §-a, a 360/2019. (XII. 30.) Korm. rendelet 87. §-a szerint, a 38/2020. (III. 10.) Korm. rendelet 5. §-a, a 447/2020. (X. 1.) Korm. rendelet 13. §-a, a 616/2022. (XII. 29.) Korm. rendelet 121. §-a, a 340/2023. (VII. 25.) Korm. rendelet 1. §-a szerint módosított szöveg.
