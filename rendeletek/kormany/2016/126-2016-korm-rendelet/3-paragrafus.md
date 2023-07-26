@@ -44,7 +44,7 @@
 
 16c.[^10] Kisprojekt Alap menedzsment szervezet: a Kisprojekt Alap keretében rendelkezésre álló forrás kisprojektek részére történő pályáztatásának lebonyolításáért, illetve végrehajtásáért felelős szervezet, mely részt vesz az 1. § d) pontja szerinti együttműködési program monitoring bizottsága által, pályáztatás során kiválasztott projektben,
 
-16d.[^11] kis értékű követelés: a harminc eurót meg nem haladó hazai társfinanszírozásra vonatkozó követelés, valamint a tízezer forintot meg nem haladó uniós támogatás megelőlegezésre vonatkozó követelés,
+16d.[^11] kis összegű követelés: a kettőszázötven eurót meg nem haladó hazai társfinanszírozásra vonatkozó követelés, valamint a százezer forintot meg nem haladó uniós támogatás megelőlegezésre vonatkozó követelés,
 
 17. költségigazolás: az igazoló hatóság által végzett igazolási tevékenységek,
 
@@ -108,7 +108,7 @@
 [^8]: A 3. § (1) bekezdés 16a. pontját a 116/2017. (V. 19.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 377/2020. (VII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^9]: A 3. § (1) bekezdés 16b. pontját a 116/2017. (V. 19.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 377/2020. (VII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^10]: A 3. § (1) bekezdés 16c. pontját a 377/2020. (VII. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^11]: A 3. § (1) bekezdés 16d. pontját a 377/2020. (VII. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^11]: A 3. § (1) bekezdés 16d. pontját a 377/2020. (VII. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 339/2023. (VII. 25.) Korm. rendelet 19. §-ával megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 59. §-át.
 [^12]: A 3. § (1) bekezdés 18. pontja a 223/2016. (VII. 22.) Korm. rendelet 7. § 3. pontja szerint módosított szöveg.
 [^13]: A 3. § (1) bekezdés 22a. pontját a 218/2018. (XI. 27.) Korm. rendelet 3. § (2) bekezdése iktatta be.
 [^14]: A 3. § (1) bekezdés 26. pontját a 116/2017. (V. 19.) Korm. rendelet 12. §-a hatályon kívül helyezte, újonnan a 377/2020. (VII. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be.

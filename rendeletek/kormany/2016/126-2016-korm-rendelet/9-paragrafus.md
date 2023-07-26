@@ -42,7 +42,7 @@ annak a hazai kedvezményezett fizetési számláján történő jóváírását
 
 (14)[^95] A (13) bekezdés esetén az Ávr. szerinti ügyleti- és – késedelem esetén – késedelmikamat-fizetési kötelezettség keletkezik.
 
-(15)[^96] A kis értékű követeléseket követelés-jogcímenként, projektrészenként kell érteni, valamint tőkére és a kamatokra külön-külön kell vizsgálni. A kis értékű követelések behajtását nem kell kezdeményezni.
+(15)[^96] A kis összegű követeléseket követelés-jogcímenként, projektrészenként kell érteni, valamint tőkére és a kamatokra külön-külön kell vizsgálni. A kis összegű követelések behajtását nem kell kezdeményezni.
 
 [^79]: A 9. § (3) bekezdése a 223/2016. (VII. 22.) Korm. rendelet 7. § 13. pontja szerint módosított szöveg.
 [^80]: A 9. § (4) bekezdése a 223/2016. (VII. 22.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 268/2017. (IX. 12.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
@@ -61,4 +61,4 @@ annak a hazai kedvezményezett fizetési számláján történő jóváírását
 [^93]: A 9. § (12) bekezdését a 334/2016. (XI. 8.) Korm. rendelet 1. §-a iktatta be.
 [^94]: A 9. § (13) bekezdését a 377/2020. (VII. 30.) Korm. rendelet 4. § (4) bekezdése iktatta be.
 [^95]: A 9. § (14) bekezdését a 377/2020. (VII. 30.) Korm. rendelet 4. § (4) bekezdése iktatta be.
-[^96]: A 9. § (15) bekezdését a 377/2020. (VII. 30.) Korm. rendelet 4. § (4) bekezdése iktatta be.
+[^96]: A 9. § (15) bekezdését a 377/2020. (VII. 30.) Korm. rendelet 4. § (4) bekezdése iktatta be, szövege a 339/2023. (VII. 25.) Korm. rendelet 20. § d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 59. §-át.
