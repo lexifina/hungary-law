@@ -1,0 +1,5 @@
+## 2. A 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet módosítása
+
+2. § A 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet [a továbbiakban: 272/2014. (XI. 5.) Korm. rendelet] 70. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A projekt szakmai tartalma szerinti felelős irányító hatóság vezetője az általa benyújtott éves fejlesztési keret elfogadását követően a VEKOP-ra eső támogatási keretösszeg feletti rendelkezési jogot az Uniós fejlesztések fejezetbe tartozó fejezeti és központi kezelésű előirányzatok felhasználásának rendjéről szóló 590/2022. (XII. 28.) Korm. rendelet [a továbbiakban: 590/2022. (XII. 28.) Korm. rendelet] alapján gyakorolja. A projekt szakmai tartalma szerinti felelős irányító hatóságra e támogatási keretösszeg tekintetében a 12. alcímet kell alkalmazni.”
