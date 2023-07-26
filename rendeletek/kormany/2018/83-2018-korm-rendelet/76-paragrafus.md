@@ -10,8 +10,8 @@ b) a külső tevékenységek finanszírozására vonatkozó uniós eszközök v�
 
 c) az Európai Szomszédsági Támogatási Eszköz létrehozásáról szóló 232/2014/EU európai parlamenti és tanácsi rendelet alapján finanszírozott, határokon átnyúló együttműködési programok végrehajtására vonatkozó egyedi rendelkezések megállapításáról szóló, 2014. augusztus 18-i 897/2014/EU bizottsági végrehajtási rendelet,
 
-d)[^80] a 897/2014/EU végrehajtási rendeletnek az Európai Szomszédsági Támogatási Eszköz keretében finanszírozott, határokon átnyúló együttműködési programok végrehajtására vonatkozó rendelkezéseknek a Covid19-világjárványra válaszul hozott egyedi intézkedésekkel való összehangolását célzó egyedi rendelkezések tekintetében történő módosításáról szóló, 2020. június 23-i (EU) 2020/879 bizottsági végrehajtási rendelet
+d)[^79] a 897/2014/EU végrehajtási rendeletnek az Európai Szomszédsági Támogatási Eszköz keretében finanszírozott, határokon átnyúló együttműködési programok végrehajtására vonatkozó rendelkezéseknek a Covid19-világjárványra válaszul hozott egyedi intézkedésekkel való összehangolását célzó egyedi rendelkezések tekintetében történő módosításáról szóló, 2020. június 23-i (EU) 2020/879 bizottsági végrehajtási rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^80]: A 76. § d) pontját a 426/2020. (IX. 10.) Korm. rendelet 15. §-a iktatta be.
+[^79]: A 76. § d) pontját a 426/2020. (IX. 10.) Korm. rendelet 15. §-a iktatta be.

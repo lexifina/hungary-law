@@ -4,13 +4,13 @@ a) annak megállapításával, hogy nem történt szabálytalanság, és a szab�
 
 b) a szabálytalanság megtörténtét megállapító és szükséges esetben intézkedést elrendelő döntéssel.
 
-(2)[^63] Az (1) bekezdés b) pontja szerinti döntésben különösen
+(2)[^62] Az (1) bekezdés b) pontja szerinti döntésben különösen
 
 a) a hazai kedvezményezett vagy a hazai TA kedvezményezett, illetve hazai TA projektrész kedvezményezettje részére kifizetett támogatás részleges vagy teljes visszafizetését vagy
 
-b)[^64] a korrekció összegének a hazai kedvezményezett vagy a hazai TA kedvezményezett, illetve hazai TA projektrész kedvezményezettje által benyújtott, következő időszakra vonatkozó jelentéshez kapcsolódó elszámolás jóváhagyható összegének kifizetése során a kifizetés összegéből történő levonását, vagy
+b)[^63] a korrekció összegének a hazai kedvezményezett vagy a hazai TA kedvezményezett, illetve hazai TA projektrész kedvezményezettje által benyújtott, következő időszakra vonatkozó jelentéshez kapcsolódó elszámolás jóváhagyható összegének kifizetése során a kifizetés összegéből történő levonását, vagy
 
-c)[^65] a szerződéshez kapcsolódó, későbbi elszámolást is érintő átalánykorrekció esetén a korrekció összegének a hazai kedvezményezett vagy hazai TA kedvezményezett, illetve hazai TA projektrész kedvezményezettje által benyújtott, a következő időszakra vonatkozó jelentéshez kapcsolódó elszámolás jóváhagyható összegéből történő levonását
+c)[^64] a szerződéshez kapcsolódó, későbbi elszámolást is érintő átalánykorrekció esetén a korrekció összegének a hazai kedvezményezett vagy hazai TA kedvezményezett, illetve hazai TA projektrész kedvezményezettje által benyújtott, a következő időszakra vonatkozó jelentéshez kapcsolódó elszámolás jóváhagyható összegéből történő levonását
 
 lehet elrendelni.
 
@@ -18,6 +18,6 @@ lehet elrendelni.
 
 (4) A szabálytalanság-felelős az (1) bekezdés b) pontja szerinti döntésről értesíti az elrendelt intézkedés végrehajtásában érintetteket.
 
-[^63]: Az 53. § (2) bekezdés nyitó szövegrésze a 426/2020. (IX. 10.) Korm. rendelet 16. § 11. pontja szerint módosított szöveg.
-[^64]: Az 53. § (2) bekezdés b) pontja a 426/2020. (IX. 10.) Korm. rendelet 16. § 12. pontja szerint módosított szöveg.
-[^65]: Az 53. § (2) bekezdés c) pontját a 426/2020. (IX. 10.) Korm. rendelet 11. §-a iktatta be.
+[^62]: Az 53. § (2) bekezdés nyitó szövegrésze a 426/2020. (IX. 10.) Korm. rendelet 16. § 11. pontja szerint módosított szöveg.
+[^63]: Az 53. § (2) bekezdés b) pontja a 426/2020. (IX. 10.) Korm. rendelet 16. § 12. pontja szerint módosított szöveg.
+[^64]: Az 53. § (2) bekezdés c) pontját a 426/2020. (IX. 10.) Korm. rendelet 11. §-a iktatta be.

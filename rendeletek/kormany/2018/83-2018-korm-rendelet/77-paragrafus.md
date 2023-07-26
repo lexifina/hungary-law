@@ -1,5 +1,5 @@
 ## 23. Módosító rendelkezés
 
-77. §[^81]
+77. §[^80]
 
-[^81]: A 77. a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^80]: A 77. a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

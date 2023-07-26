@@ -1,6 +1,6 @@
 ## 16. Az audithatóság feladatai
 
-68. § (1)[^71] Az audithatóság a Program esetén az Európai Bizottság iránymutatásai, valamint a nemzetközileg elfogadott standardok alapján
+68. § (1)[^70] Az audithatóság a Program esetén az Európai Bizottság iránymutatásai, valamint a nemzetközileg elfogadott standardok alapján
 
 a) a 897/2014/EU bizottsági végrehajtási rendelet 25. cikk (2) bekezdésének megfelelően lefolytatja a kijelölési kritériumok teljesülésének értékelését, elkészíti az értékelésről szóló jelentést és véleményt,
 
@@ -24,4 +24,4 @@ j) gondoskodik az Európai Bizottság audithatósági tevékenység hatékonysá
 
 (2) Az audithatóság az (1) bekezdés szerinti feladatait az Európai Bizottság által meghatározott, valamint a nemzetközileg elfogadott auditstandardok alapján látja el.
 
-[^71]: A 68. § (1) bekezdés nyitó szövegrésze a 615/2022. (XII. 29.) Korm. rendelet 15. §-a szerint módosított szöveg.
+[^70]: A 68. § (1) bekezdés nyitó szövegrésze a 615/2022. (XII. 29.) Korm. rendelet 15. §-a szerint módosított szöveg.

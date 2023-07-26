@@ -1,0 +1,3 @@
+2. §[^1] A hazai társfinanszírozás felhasználásának lebonyolítása és ellenőrzése során – e rendelet eltérő rendelkezése hiányában – az Uniós fejlesztések fejezetbe tartozó fejezeti és központi kezelésű előirányzatok felhasználásának rendjéről szóló 590/2022. (XII. 28.) Korm. rendelet [a továbbiakban: 590/2022. (XII. 28.) Korm. rendelet] és az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) rendelkezéseit kell alkalmazni.
+
+[^1]: A 2. § a 339/2023. (VII. 25.) Korm. rendelet 23. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.

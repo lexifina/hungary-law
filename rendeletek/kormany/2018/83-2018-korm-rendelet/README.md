@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-83-20-2
 | 2021-07-08 | 2018-83-20-22.5 | 426/2020. (IX. 10.) Korm. rendelet |
 | 2021-12-01 | 2018-83-20-22.6 | 658/2021. (XI. 30.) Korm. rendelet |
 | 2023-01-01 | 2018-83-20-22.7 | 615/2022. (XII. 29.) Korm. rendelet |
+| 2023-07-26 | 2018-83-20-22.8 | 426/2020. (IX. 10.) Korm. rendelet |
