@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-11-20-2
 | 2023-05-24 | 2023-11-20-2C.3 | 23/2023. (V. 23.) MNB rendelet |
 | 2023-06-21 | 2023-11-20-2C.5 | 26/2023. (VI. 20.) MNB rendelet |
 | 2023-07-01 | 2023-11-20-2C.4 | 25/2023. (VI. 14.) MNB rendelet |
+| 2023-07-26 | 2023-11-20-2C.6 | 33/2023. (VII. 25.) MNB rendelet |
