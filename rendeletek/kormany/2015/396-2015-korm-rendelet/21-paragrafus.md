@@ -1,3 +1,3 @@
-21. §[^31]
+21. §[^39] Az Európai Bizottság, az audit hatóság és az auditor csoport hazai tagja által megállapított szabálytalanság és az annak vonatkozásában elrendelt intézkedés vagy pénzügyi korrekció végrehajtására meghozott döntés ellen – ide nem értve, ha a nemzeti hatóság pénzügyi korrekciót végrehajtó döntése az Európai Bizottság, az audit hatóság és az auditor csoport hazai tagja által elrendelt intézkedés tartalmát nem érintő számítási hibát tartalmaz – az ezen alcímben meghatározott jogorvoslati kérelem benyújtásának nincs helye.
 
-[^31]: A 21. §-t a 482/2017. (XII. 28.) Korm. rendelet 14. § c) pontja hatályon kívül helyezte.
+[^39]: A 21. §-t a 482/2017. (XII. 28.) Korm. rendelet 14. § c) pontja hatályon kívül helyezte, újonnan a 339/2023. (VII. 25.) Korm. rendelet 13. §-a iktatta be. Alkalmazására lásd ez utóbbi módosító rendelet 59. §-át.

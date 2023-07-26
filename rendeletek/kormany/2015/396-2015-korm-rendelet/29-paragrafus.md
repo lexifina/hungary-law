@@ -1,5 +1,3 @@
-## 28. § Az irányító hatóság és közös titkárság kialakítja a Duna Transznacionális Program irányítási és kontrollrendszerét, amelynek megfelelően elkészíti és évente aktualizálja a Duna Transznacionális Program irányítási és kontrollrendszerének leírását. Az irányító hatóság és közös titkárság az aktualizált leírást minden év október 30-ig megküldi az audit hatóság részére.
-
 ## 8. Pályáztatás és szerződéskötés
 
 29. § (1) A monitoring bizottság

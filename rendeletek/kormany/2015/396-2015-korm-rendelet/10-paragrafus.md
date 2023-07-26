@@ -6,6 +6,6 @@ a) lefolytatja a szabálytalansági vizsgálatokat,
 
 b) összeállítja a szabálytalanságokkal kapcsolatos jelentéseket,
 
-c)[^18] a Duna Transznacionális Program, az Interreg CENTRAL EUROPE transznacionális együttműködési program, valamint az INTERREG EUROPE interregionális együttműködési program esetén gondoskodik a szabálytalanságokkal kapcsolatos adatok NAHU 2014–2020 rendszerbe való feltöltéséről.
+c)[^20] a Duna Transznacionális Program, az Interreg CENTRAL EUROPE transznacionális együttműködési program, valamint az INTERREG EUROPE interregionális együttműködési program esetén gondoskodik a szabálytalanságokkal kapcsolatos adatok NAHU 2014–2020 rendszerbe való feltöltéséről.
 
-[^18]: A 10. § (2) bekezdés c) pontja a 482/2017. (XII. 28.) Korm. rendelet 13. § 6. pontja, a 92/2019. (IV. 23.) Korm. rendelet 10. § 3. pontja szerint módosított szöveg.
+[^20]: A 10. § (2) bekezdés c) pontja a 482/2017. (XII. 28.) Korm. rendelet 13. § 6. pontja, a 92/2019. (IV. 23.) Korm. rendelet 10. § 3. pontja szerint módosított szöveg.

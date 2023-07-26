@@ -2,12 +2,12 @@
 
 ## EGYÉB RENDELKEZÉSEK
 
-## 23. [^59] A Duna Transznacionális Program, az Interreg CENTRAL EUROPE transznacionális együttműködési program és az INTERREG EUROPE interregionális együttműködési program forrásainak felhasználására vonatkozó uniós versenyjogi értelemben vett állami támogatási szabályok
+## 23. [^82] A Duna Transznacionális Program, az Interreg CENTRAL EUROPE transznacionális együttműködési program és az INTERREG EUROPE interregionális együttműködési program forrásainak felhasználására vonatkozó uniós versenyjogi értelemben vett állami támogatási szabályok
 
-52. § (1)[^60] A Duna Transznacionális Program, az Interreg CENTRAL EUROPE transznacionális együttműködési program és az INTERREG EUROPE interregionális együttműködési program forrásaiból állami támogatás a Magyarországon székhellyel, vagy az Európai Gazdasági Térség területén székhellyel és Magyarországon fiókteleppel rendelkező jogi személy részére nyújtható.
+52. § (1)[^83] A Duna Transznacionális Program, az Interreg CENTRAL EUROPE transznacionális együttműködési program és az INTERREG EUROPE interregionális együttműködési program forrásaiból állami támogatás a Magyarországon székhellyel, vagy az Európai Gazdasági Térség területén székhellyel és Magyarországon fiókteleppel rendelkező jogi személy részére nyújtható.
 
-(2)[^61] Az 1407/2013/EU bizottsági rendelet hatálya alá tartozó – a Duna Transznacionális Program, az Interreg CENTRAL EUROPE transznacionális együttműködési program és az INTERREG EUROPE interregionális együttműködési program forrásaiból megítélt vissza nem térítendő – támogatás kizárólag átlátható formában nyújtott támogatásként nyújtható.
+(2)[^84] Az 1407/2013/EU bizottsági rendelet hatálya alá tartozó – a Duna Transznacionális Program, az Interreg CENTRAL EUROPE transznacionális együttműködési program és az INTERREG EUROPE interregionális együttműködési program forrásaiból megítélt vissza nem térítendő – támogatás kizárólag átlátható formában nyújtott támogatásként nyújtható.
 
-[^59]: A 23. alcím címe a 255/2016. (VIII. 24.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
-[^60]: Az 52. § (1) bekezdése a 255/2016. (VIII. 24.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
-[^61]: Az 52. § (2) bekezdése a 255/2016. (VIII. 24.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
+[^82]: A 23. alcím címe a 255/2016. (VIII. 24.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^83]: Az 52. § (1) bekezdése a 255/2016. (VIII. 24.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^84]: Az 52. § (2) bekezdése a 255/2016. (VIII. 24.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.

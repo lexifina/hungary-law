@@ -1,6 +1,6 @@
-## 62. §[^72] A 23. alcím az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet hatálya alá tartozó támogatást tartalmaz.
+## 62. §[^96] A 23. alcím az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet hatálya alá tartozó támogatást tartalmaz.
 
-63. §[^73]
+63. §[^97]
 
-[^72]: A 62. § a 255/2016. (VIII. 24.) Korm. rendelet 3. § d) pontja szerint módosított szöveg.
-[^73]: A 63. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^96]: A 62. § a 255/2016. (VIII. 24.) Korm. rendelet 3. § d) pontja szerint módosított szöveg.
+[^97]: A 63. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

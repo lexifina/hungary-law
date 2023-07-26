@@ -1,4 +1,4 @@
-4. § (1) A hitelesítési tevékenységre kijelölt szervezetnek a hitelesítés részeként gondoskodnia kell a hazai kedvezményezett által benyújtott, a felmerült és a hazai kedvezményezett által kifizetett költséget alátámasztó dokumentum formai és tartalmi ellenőrzéséről. A dokumentum – ide nem értve az eredeti számlát – elektronikus monitoring és információs rendszerbe történő feltöltése egyenértékű a dokumentum papír alapon történő benyújtásával.
+4. § (1)[^5] A hitelesítési tevékenységre kijelölt szervezet a hitelesítés részeként gondoskodik a hazai kedvezményezett részéről benyújtott, a projekt keretében felmerült, szakmailag teljesített, és a hazai kedvezményezett által kifizetett költségeket alátámasztó dokumentumok formai és tartalmi ellenőrzéséről. A dokumentumok elektronikus monitoring és információs rendszerbe történő feltöltése egyenértékű a dokumentumok papíralapon történő benyújtásával.
 
 (2) A dokumentumok (1) bekezdés szerinti ellenőrzése keretében ellenőrizni kell különösen azt, hogy
 
@@ -14,7 +14,7 @@ e) a költséget alátámasztó dokumentum teljes körű, formai és tartalmi sz
 
 f) a hazai kedvezményezett az összes projekttevékenység vonatkozásában megfelelő nyilvántartási rendszerrel, ellenőrzési nyomvonallal rendelkezik,
 
-g) az uniós támogatás, illetve a hazai társfinanszírozás felhasználása során nem történt szabálytalanság,
+g)[^6] az uniós támogatás, illetve a hazai társfinanszírozás felhasználása során nem történt szabálytalanság vagy hiba,
 
 h) kettős finanszírozás nem valósult meg,
 
@@ -26,4 +26,11 @@ k) az uniós támogatási szerződésnek megfelelő a projekt fizikai és pénz�
 
 l) a vonatkozó teljesítésigazolások rendelkezésre állnak.
 
-(3) A hitelesítési tevékenységre kijelölt szervezet a hitelesítés részeként köteles ellenőrizni a közbeszerzésekről szóló törvény és a közbeszerzésekre vonatkozó uniós szabályok betartását. A hazai kedvezményezett köteles az általa lefolytatott valamennyi közbeszerzési eljárás teljes dokumentációját a hitelesítési tevékenységre kijelölt szervezet részére benyújtani.
+(3)[^7] A hitelesítési tevékenységre kijelölt szervezet a hitelesítés részeként ellenőrzi a közbeszerzésekről szóló törvény és a közbeszerzésekre vonatkozó uniós szabályok betartását. A hazai kedvezményezett az általa lefolytatott valamennyi közbeszerzési eljárás dokumentumaihoz a közbeszerzésekért felelős miniszter által üzemeltetett egységes Elektronikus Közbeszerzési Rendszerben (a továbbiakban: EKR) betekintési jogot biztosít a hitelesítési tevékenységre kijelölt szervezet részére az ellenőrzés érdekében. A nem EKR-ben lefolytatott közbeszerzési eljárások esetében a hazai kedvezményezett a közbeszerzési eljárás valamennyi dokumentumát a programot támogató informatikai rendszeren keresztül a hitelesítési tevékenységre kijelölt szervezet részére benyújtja. A közbeszerzési eljárás hazai és uniós jogszabályok szerinti lebonyolítása a hazai kedvezményezett felelőssége.
+
+(4)[^8] A hitelesítési tevékenységre kijelölt szervezet a közbeszerzési eljárás ellenőrzése során megállapított jogsértések következtében jogosult a közbeszerzési eljárás lebonyolításával összefüggésben elszámolni kívánt költség arányos csökkentésére.
+
+[^5]: A 4. § (1) bekezdése a 339/2023. (VII. 25.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
+[^6]: A 4. § (2) bekezdés g) pontja a 339/2023. (VII. 25.) Korm. rendelet 17. § 1. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
+[^7]: A 4. § (3) bekezdése a 339/2023. (VII. 25.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
+[^8]: A 4. § (4) bekezdését a 339/2023. (VII. 25.) Korm. rendelet 8. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 59. §-át.

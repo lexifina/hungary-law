@@ -1,6 +1,6 @@
 ## 24. A csekély összegű támogatás
 
-55. § (1) Az egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az 1407/2013/EU bizottsági rendelet hatálya alá tartozó, Magyarországon odaítélt csekély összegű támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) bruttó támogatástartalma nem haladhatja meg a 200 000 eurónak, közúti kereskedelmi árufuvarozást ellenszolgáltatás fejében végző, egy és ugyanazon vállalkozásnak minősülő vállalkozások esetén a 100 000 eurónak megfelelő forintösszeget, figyelembe véve az 1407/2013/EU bizottsági rendelet 3. cikk (8) és (9) bekezdését.
+55. § (1)[^86] Az egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az 1407/2013/EU bizottsági rendelet hatálya alá tartozó, Magyarországon odaítélt csekély összegű támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) bruttó támogatástartalma nem haladhatja meg a kétszázezer eurónak, közúti kereskedelmi árufuvarozást ellenszolgáltatás fejében végző, egy és ugyanazon vállalkozásnak minősülő vállalkozások esetén a százezer eurónak megfelelő forintösszeget, figyelembe véve az 1407/2013/EU bizottsági rendelet 3. cikk (8) és (9) bekezdését.
 
 (2) A támogatás odaítélése során az adott pénzügyi évben, valamint az előző két pénzügyi év alatt Magyarországon odaítélt csekély összegű támogatások bruttó támogatástartalmának összegét kell figyelembe venni.
 
@@ -15,3 +15,5 @@
 (7) A kedvezményezettnek az 1407/2013/EU bizottsági rendelet 5. cikk (1) bekezdése figyelembevételével – az ott meghatározott feltételek teljesítésének megállapítására alkalmas módon – nyilatkoznia kell a részére a támogatás odaítélésének évében és az azt megelőző két pénzügyi évben nyújtott csekély összegű támogatások támogatástartalmáról.
 
 (8) A kedvezményezett köteles a támogatással kapcsolatos okiratokat és dokumentumokat a támogatási döntés meghozatala napjától számított tíz évig megőrizni.
+
+[^86]: Az 55. § (1) bekezdése a 339/2023. (VII. 25.) Korm. rendelet 17. § 22. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
