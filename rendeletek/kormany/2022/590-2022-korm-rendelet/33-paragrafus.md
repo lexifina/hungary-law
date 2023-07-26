@@ -1,13 +1,3 @@
-33. § (1) Hazai társfinanszírozás esetén a támogatás külön pályáztatás nélkül, a programok keretében meghirdetett pályázatokon nyertes projektek hazai kedvezményezettjeivel támogatási szerződés vagy támogatói okirat alapján nyújtható.
+33. §[^18]
 
-(2) Megelőlegezés esetén a programok keretében meghirdetett pályázatokon nyertes projektek hazai kedvezményezettjeivel a programszintű támogatási döntést követően, a közreműködő szervezet értesítésének kézhezvételétől számított 90 napon belül benyújtott támogatási kérelem alapján – az uniós támogatási szerződés hatálybalépését követően – megkötött támogatási szerződés alapján nyújtható.
-
-(3) A megítélt támogatás a támogatási szerződésben vagy a támogatói okiratban meghatározott mértékű támogatási előlegként is kifizethető.
-
-(4) A támogatás
-
-a) egyösszegű kifizetéssel, vagy
-
-b) részletekben történő kifizetés esetén időarányosan vagy teljesítésarányosan
-
-biztosítható.
+[^18]: A 33. §-t a 339/2023. (VII. 25.) Korm. rendelet 57. § c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 59. §-át.

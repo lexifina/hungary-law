@@ -1,7 +1,3 @@
-42. § Biztosíték lehet:
+42. §[^27]
 
-a) a kedvezményezett, valamint a hazai partner valamennyi – jogszabály alapján beszedési megbízással megterhelhető – fizetési számlájára vonatkozó, a támogató javára szóló beszedési megbízás benyújtására vonatkozó felhatalmazó nyilatkozata,
-
-b) a jelzálogjog,
-
-c) a hitelintézet által nyújtott garancia.
+[^27]: A 42. §-t a 339/2023. (VII. 25.) Korm. rendelet 57. § d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 59. §-át.

@@ -16,7 +16,7 @@ f) az OLAF Koordinációs Iroda vonatkozásában a támogatások felhasználása
 
 finanszírozására a VOP Plusz irányító hatósága támogatási szerződést köthet vagy részükre támogatási okiratot bocsáthat ki.
 
-(2) A támogatás éves ütemezésben, a megítélt éves támogatási összeg 100%-át kitevő támogatási előlegként kerül kifizetésre. A támogatás éves összegét támogatói szerződés vagy támogatói okirat határozza meg.
+(2)[^14] A támogatás éves ütemezésben, a megítélt éves támogatási összeg 100%-át kitevő támogatási előlegként kerül kifizetésre. A támogatás éves összegét támogatási szerződés vagy támogatói okirat határozza meg.
 
 (3) A támogatási szerződésnek vagy támogatói okiratnak tartalmaznia kell legalább
 
@@ -43,3 +43,5 @@ j) a jogviszony megszüntetésének egyes eseteit, valamint
 k) a korrupcióellenes záradékot, amely szerint: „A kedvezményezett nem követhet el, nem engedélyezhet, vagy harmadik személyt nem jogosíthat fel olyan cselekményekre, amely a közélet tisztaságára vonatkozó, valamint a korrupcióellenes jogszabályok megsértését eredményezi. A kedvezményezett nem fogadhat el, nem ajánlhat fel és nem adhat az eljáró harmadik személynek ajándékot, pénzbeli vagy nem pénzbeli juttatást.”
 
 (4) A támogatások kifizetésére, elszámoltatására a monitoring és információs rendszert kell alkalmazni.
+
+[^14]: A 29. § (2) bekezdése a 339/2023. (VII. 25.) Korm. rendelet 56. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.

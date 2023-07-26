@@ -1,3 +1,3 @@
-41. § (1) Megelőlegezés esetén a hazai partner a támogatási összeg utolsó unióshozzájárulás-részlete kifizetésének a hazai partner fizetési számláján történt jóváírását követő 30 napon belül a támogatási összeget a pénzforgalmi lebonyolítási számlára visszafizeti.
+41. §[^26]
 
-(2) Irányító hatósági, audit hatósági és igazoló hatósági feladatokat ellátó költségvetési szerv kedvezményezett részére biztosított visszatérítendő támogatás esetén az uniós forrásnak a kedvezményezett fizetési számláján történt jóváírását követő 30 napon belül a kedvezményezett a támogatási összeget az előirányzat-felhasználási keretszámlájára visszafizeti.
+[^26]: A 41. §-t a 339/2023. (VII. 25.) Korm. rendelet 57. § d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 59. §-át.
