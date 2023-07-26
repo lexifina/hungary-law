@@ -1,1 +1,3 @@
-9. § Hatályát veszti a Vasúti Pályakapacitás-elosztó Szervezet és a nem független vasúti pályahálózat-működtető közötti jogviszonyról szóló 268/2009. (XII. 1.) Korm. rendelet.
+9. §[^1]
+
+[^1]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
