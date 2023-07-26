@@ -1444,7 +1444,7 @@ n) követeléskezelés.
 
 141.2. A kötelezettségvállalás pénzügyi ellenjegyzésével az IH pénzügyi ellenjegyzésre írásban kijelölt munkatársa meggyőződik a szükséges forrás rendelkezésre állásáról.
 
-141.3. Ha a saját forrás kiegészítése más – a XIX. Gazdaság-újraindítási Alap uniós fejlesztései költségvetési fejezetből származó – forrásból történik, a kötelezettségvállaláshoz a központi koordinációs szerv pénzügyi ellenjegyzése is szükséges.
+141.3. Ha a saját forrás kiegészítése más – a XIX. Uniós fejlesztések költségvetési fejezetből származó – forrásból történik, a kötelezettségvállaláshoz a központi koordinációs szerv pénzügyi ellenjegyzése is szükséges.
 
 67. A kötelezettségvállalás típusai
 
@@ -3136,7 +3136,7 @@ b) a lebonyolítási forint bankszámla egyenlegének év végi visszautalásáb
 
 137. A tartalék kezelése
 
-300. A „Fejezeti általános tartalék” előirányzat felhasználására a 481/2021. (VIII. 13.) Korm. rendeletet kell alkalmazni.
+300. A „Fejezeti általános tartalék” előirányzat felhasználására az Uniós fejlesztések fejezetbe tartozó fejezeti és központi kezelésű előirányzatok felhasználásának rendjéről szóló 590/2022. (XII. 28.) Korm. rendeletet kell alkalmazni.
 
 138. Egyéb előre nem látható kifizetések
 
@@ -3250,7 +3250,7 @@ d) késedelmes támogatás kifizetését vállalva késedelmi kamatot fizet.
 
 310.1. Ha a késedelmi kamat átutalását követően megállapítható, hogy a késedelmes teljesítés nem a KSZ hibájából történt, a központi koordinációs szerv átutalja az érintett késedelmi kamat összeget a KSZ bankszámlájára.
 
-310.2. Ha a késedelmi kamat átutalását követően megállapítható, hogy a késedelmes teljesítés nem az IH, illetve a központi koordinációs szerv hibájából történt, a KSZ átutalja az érintett késedelmi kamat összegét a XIX. a „Gazdaság-újraindítási Alap uniós fejlesztései költségvetési fejezetet irányító szerv bankszámlájára.
+310.2. Ha a késedelmi kamat átutalását követően megállapítható, hogy a késedelmes teljesítés nem az IH, illetve a központi koordinációs szerv hibájából történt, a KSZ átutalja az érintett késedelmi kamat összegét a XIX. a „Uniós fejlesztések költségvetési fejezetet irányító szerv bankszámlájára.
 
 310.3. Támogatási szerződéstől való elállás esetén a visszakövetelt késedelmi kamat összege azt illeti, akinek a kapcsolódó késedelmes támogatás kifizetés felróható volt.
 
@@ -3260,11 +3260,11 @@ d) késedelmes támogatás kifizetését vállalva késedelmi kamatot fizet.
 
 311.2. Ha a KSZ a fedezetet nem tudja biztosítani, az irányító, illetve tulajdonos szervezetnek kell a KSZ-nek felróható késedelem kapcsán jelentkező késedelmi kamatfizetés szempontjából helyt állni.
 
-311.3. A 311.2. pontot követően a XIX. Gazdaság-újraindítási Alap uniós fejlesztései költségvetési fejezet „Fejezeti általános tartalék” előirányzat, ezt követően a központi költségvetés tartaléka terhére kell biztosítani a késedelmi kamat megfizetését.
+311.3. A 311.2. pontot követően a XIX. Uniós fejlesztések költségvetési fejezet „Fejezeti általános tartalék” előirányzat, ezt követően a központi költségvetés tartaléka terhére kell biztosítani a késedelmi kamat megfizetését.
 
 311.4. Az „Fejezeti általános tartalék” előirányzat és a központi költségvetés egyéb tartalékai terhére a KSZ-nek felróható kamatfizetési kötelezettséget csak rendkívül indokolt esetben, a vonatkozó jogszabályok feltételei mellett lehet érvényesíteni.
 
-311.5. Ha a támogatás késedelmes kifizetése az IH-nak, illetve a központi koordinációs szervnek felróható okból történt, a késedelmi kamatfizetés fedezete a XIX. Gazdaság-újraindítási Alap uniós fejlesztései költségvetési fejezet „Fejezeti általános tartalék” előirányzata.
+311.5. Ha a támogatás késedelmes kifizetése az IH-nak, illetve a központi koordinációs szervnek felróható okból történt, a késedelmi kamatfizetés fedezete a XIX. Uniós fejlesztések költségvetési fejezet „Fejezeti általános tartalék” előirányzata.
 
 146. A kiegyenlítés és a továbbutalás
 
@@ -4876,5 +4876,7 @@ Szabálytalanságkezelés
 
 209. Értelmező rendelkezések
 
+470. E fejezet alkalmazásában szabálytalansági gyanú: szabálytalanság elkövetésére megalapozottan utaló tények, körülmények, vagy dokumentumok, amelyből alappal lehet következtetni a szabálytalanság tényállási elemeinek fennállására.
+
 [^6]: A 7. §-t a 477/2016. (XII. 27.) Korm. rendelet 73. § (1) bekezdése iktatta be.
-[^7]: Az 1. melléklet a 85/2014. (III. 18.) Korm. rendelet 1. §-ával megállapított, a 203/2014. (VIII. 14.) Korm. rendelet 13–15. §-a, a 272/2014. (XI. 5.) Korm. rendelet 208. §-a, a 69/2015. (III. 30.) Korm. rendelet 13–14. §-a, a 175/2015. (VII. 7.) Korm. rendelet 79. §-a, a 46/2015. (III. 12.) Korm. rendelet 4. §-a, a 323/2015. (X. 30.) Korm. rendelet 11. §-a, a 486/2015. (XII. 29.) Korm. rendelet 44. §-a, a 4/2016. (I. 20.) Korm. rendelet 7–8. §-a, a 477/2016. (XII. 27.) Korm. rendelet 73. § (2) bekezdése, a 393/2017. (XII. 13.) Korm. rendelet 56. §-a, a 106/2018. (VI. 15.) Korm. rendelet 9. §-a, a 360/2019. (XII. 30.) Korm. rendelet 129. §-a, a 658/2021. (XI. 30.) Korm. rendelet 1–2. §-a, a 238/2022. (VI. 30.) Korm. rendelet 139. § (2) és (3) bekezdése szerint módosított szöveg.
+[^7]: Az 1. melléklet a 85/2014. (III. 18.) Korm. rendelet 1. §-ával megállapított, a 203/2014. (VIII. 14.) Korm. rendelet 13–15. §-a, a 272/2014. (XI. 5.) Korm. rendelet 208. §-a, a 69/2015. (III. 30.) Korm. rendelet 13–14. §-a, a 175/2015. (VII. 7.) Korm. rendelet 79. §-a, a 46/2015. (III. 12.) Korm. rendelet 4. §-a, a 323/2015. (X. 30.) Korm. rendelet 11. §-a, a 486/2015. (XII. 29.) Korm. rendelet 44. §-a, a 4/2016. (I. 20.) Korm. rendelet 7–8. §-a, a 477/2016. (XII. 27.) Korm. rendelet 73. § (2) bekezdése, a 393/2017. (XII. 13.) Korm. rendelet 56. §-a, a 106/2018. (VI. 15.) Korm. rendelet 9. §-a, a 360/2019. (XII. 30.) Korm. rendelet 129. §-a, a 658/2021. (XI. 30.) Korm. rendelet 1–2. §-a, a 238/2022. (VI. 30.) Korm. rendelet 139. § (2) és (3) bekezdése, a 339/2023. (VII. 25.) Korm. rendelet 1. § a)-d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 59. §-át.
