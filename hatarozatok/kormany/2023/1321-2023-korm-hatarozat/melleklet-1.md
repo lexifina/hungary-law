@@ -1,0 +1,37 @@
+## 1. jóváhagyja az 1. mellékletben meghatározott tárgyalási álláspontokat, és ennek tekintetében felhatalmazza a magyar küldöttséget az Egyetemes Postaegyesület 4. Rendkívüli Kongresszusán Magyarország érdekeinek képviseletére;
+
+## 2. felhatalmazza a gazdaságfejlesztési minisztert vagy az általa kijelölt személyt az Egyetemes Postaegyesület Alapokmánya, az Egyetemes Postaegyezmény és az Egyetemes Postaegyezmény Szabályzatai módosításai (a továbbiakban együtt: Módosítások) szövegének – megerősítés és jóváhagyás fenntartásával történő – végleges megállapítására, amennyiben az megfelel a magyar érdekeknek;
+
+## 3. felhívja a külgazdasági és külügyminisztert, hogy a Módosítások szövegének végleges megállapításához szükséges meghatalmazási okiratot adja ki;
+
+## 4. felhatalmazza a gazdaságfejlesztési minisztert vagy az általa kijelölt személyt, hogy az Egyetemes Postaegyesület 4. Rendkívüli Kongresszusának záró okiratát kézjegyével lássa el;
+
+## 5. felhívja a gazdaságfejlesztési minisztert és az igazságügyi minisztert, hogy a Módosítások kihirdetéséről szóló jogszabályok tervezetét a Módosítások szövegének végleges megállapítását követően terjesszék a Kormány elé.
+
+| Felelős: | gazdaságfejlesztési miniszter igazságügyi miniszter |
+
+| Határidő: | 2024. június 30. |
+
+1. melléklet az 1321/2023. (VII. 27.) Korm. határozathoz
+
+Tárgyalási álláspontok az Egyetemes Postaegyesület 4. Rendkívüli Kongresszusán részt vevő magyar küldöttség tevékenységéhez
+
+## Az UPU 4. Rendkívüli Kongresszusán (Rijad, 2023. október 1. – október 5.) Magyarország képviseletében eljáró személy(ek) az alábbi tárgyalási álláspontokban javasoltak lehetőség szerinti támogatásával, összhangban a Kormány általános politikájának céljaival és feladataival, valamint az Európai Unió prioritásaival, a magyar nemzeti érdekeket és a közös euro-atlanti értékeket egyidejűleg érvényesítve igyekszik tevékenységét kifejteni.
+
+1. Az UPU költségvetésének felülvizsgálatára irányuló javaslatok
+
+## Nem javasolt az UPU kiadásainak rögzítéséről szóló, az UPU által előkészített javaslatok támogatása. Az előkészített javaslatok mindegyike a szervezet költségvetési kereteinek bővítését célozza, amely egyes tagországok esetében maga után vonja a tagállamok részéről évente befizetendő hozzájárulási díj (éves tagdíj) emelkedését. E díjak további emelése helyett, összhangban az európai tagállamok álláspontjával, a költségvetés jelenlegi kereteinek megőrzése az elfogadható.
+
+2. Az UPU piaci szereplők felé történő nyitására vonatkozó javaslatok
+
+## Javasolt támogatni az UPU által előkészített kompromisszumos javaslatokat, amelyek lehetővé teszik, hogy a postai szektorhoz kapcsolódó piaci szereplők megfigyelőként, közvetlenül is bekapcsolódjanak az UPU tevékenységébe. A javaslatok értelmében az UPU kormányközi szervezet jellege nem változik, azonban tagságának bővülése hozzájárul az UPU hatékony, minőségi postai szolgáltatások fejlesztését és nyújtását célzó küldetésének betöltéséhez, valamint a fogyasztók magasabb színvonalú kiszolgálásához. Az UPU javasolt megnyitása a piaci szereplők felé intézményes kereteket biztosítana az egyetemes postai szolgáltatók és a piaci szereplők közötti együttműködés gyakorlatához, azzal a megkötéssel, hogy ezen együttműködések nem veszélyeztethetik az egyetemes szolgáltatás ellátását.
+
+3. A postai szektor által kibocsátott káros anyagok és üvegházhatású gázok csökkentésére vonatkozó javaslatok
+
+## Javasolt az éghajlatváltozás elleni fellépés érdekében – az ENSZ Fenntartható Fejlődés Célkitűzéseivel összhangban – az UPU által kidolgozott, a postai szektor által kibocsátott üvegház hatású gázok csökkentésére irányuló, önkéntes célértékek megállapításáról szóló „zöld javaslatcsomag” támogatása.
+
+4. A postai szektort érintő egyéb javaslatok
+
+Támogatásra javasolt az UPU által előkészített, a postai szolgáltatások aktualizálásáról és piaci igényeknek megfelelő módosításáról szóló javaslatok támogatása, amennyiben a tagállamoknak az e javaslatokban foglalt adatcsere- követelményeknek észszerű határidőn belül kell eleget tenniük.
+
+Támogatásra javasolt továbbá az átszállított postai küldeményekhez kapcsolódó adatcsere továbbfejlesztéséről szóló javaslat, amely biztosítja, hogy az Európai Unión kívüli UPU-tagországok az Európai Unió Import Vámellenőrző Rendszerében támasztott követelményeknek eleget tudjanak tenni.
