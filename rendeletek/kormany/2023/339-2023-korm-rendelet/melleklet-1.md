@@ -1,5 +1,3 @@
-1. melléklet a 339/2023. (VII. 25.) Korm. rendelethez
+1. melléklet a 339/2023. (VII. 25.) Korm. rendelethez[^58]
 
-A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet 239.2. pontja helyébe a következő rendelkezés lép:
-
-„239.2. A követelés kis összegű, ha annak összege a százezer forintot, EMVA forrásból nyújtott támogatás esetén az ötvenkétezer forintot nem haladja meg.”
+[^58]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

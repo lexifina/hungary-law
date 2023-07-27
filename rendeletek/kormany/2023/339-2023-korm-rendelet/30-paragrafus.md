@@ -1,3 +1,3 @@
-30. § Az 512/2022. (XII. 13.) Korm. rendelet 9. § (2) bekezdés c) pontja helyébe a következő rendelkezés lép:
+30. §[^30]
 
-(A panaszban meg kell jelölni)
+[^30]: A 30. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-35. § Az 512/2022. (XII. 13.) Korm. rendelet a következő 57/A. §-sal egészül ki:
+35. §[^35]
 
-„57/A. § Ha az 57. § szerinti célra nyújtott támogatás állami támogatásnak minősül, az 57. § alapján európai területi együttműködési projektekben részt vevő vállalkozásoknál felmerült költségekhez nyújtott támogatás és vállalkozásoknak az európai területi együttműködési projektekben való részvételéhez korlátozott összegű támogatás nyújtható.”
+[^35]: A 35. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

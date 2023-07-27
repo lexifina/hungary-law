@@ -1,3 +1,3 @@
-28. § Az 512/2022. (XII. 13.) Korm. rendelet 7. § (2) bekezdés g) pontja helyébe a következő rendelkezés lép:
+28. §[^28]
 
-(A helyszíni ellenőrzés során ellenőrizni kell különösen)
+[^28]: A 28. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-11. § A 396/2015. (XII. 12.) Korm. rendelet 13. § d) pontja helyébe a következő rendelkezés lép:
+11. §[^11]
 
-(A hitelesítési tevékenységre kijelölt szervezet vezetője szabálytalansági vizsgálat mellőzésével állapíthat meg szabálytalanságot, és rendelhet el az e rendelet szerinti jogkövetkezményt, ha)
+[^11]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

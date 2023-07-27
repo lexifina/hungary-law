@@ -1,9 +1,3 @@
-8. § (1) A 396/2015. (XII. 12.) Korm. rendelet 4. § (1) bekezdése helyébe a következő rendelkezés lép:
+8. §[^8]
 
-„(1) A hitelesítési tevékenységre kijelölt szervezet a hitelesítés részeként gondoskodik a hazai kedvezményezett részéről benyújtott, a projekt keretében felmerült, szakmailag teljesített, és a hazai kedvezményezett által kifizetett költségeket alátámasztó dokumentumok formai és tartalmi ellenőrzéséről. A dokumentumok elektronikus monitoring és információs rendszerbe történő feltöltése egyenértékű a dokumentumok papíralapon történő benyújtásával.”
-
-(2) A 396/2015. (XII. 12.) Korm. rendelet 4. § (3) bekezdése helyébe a következő rendelkezés lép, és a § a következő (4) bekezdéssel egészül ki:
-
-„(3) A hitelesítési tevékenységre kijelölt szervezet a hitelesítés részeként ellenőrzi a közbeszerzésekről szóló törvény és a közbeszerzésekre vonatkozó uniós szabályok betartását. A hazai kedvezményezett az általa lefolytatott valamennyi közbeszerzési eljárás dokumentumaihoz a közbeszerzésekért felelős miniszter által üzemeltetett egységes Elektronikus Közbeszerzési Rendszerben (a továbbiakban: EKR) betekintési jogot biztosít a hitelesítési tevékenységre kijelölt szervezet részére az ellenőrzés érdekében. A nem EKR-ben lefolytatott közbeszerzési eljárások esetében a hazai kedvezményezett a közbeszerzési eljárás valamennyi dokumentumát a programot támogató informatikai rendszeren keresztül a hitelesítési tevékenységre kijelölt szervezet részére benyújtja. A közbeszerzési eljárás hazai és uniós jogszabályok szerinti lebonyolítása a hazai kedvezményezett felelőssége.
-
-(4) A hitelesítési tevékenységre kijelölt szervezet a közbeszerzési eljárás ellenőrzése során megállapított jogsértések következtében jogosult a közbeszerzési eljárás lebonyolításával összefüggésben elszámolni kívánt költség arányos csökkentésére.”
+[^8]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
