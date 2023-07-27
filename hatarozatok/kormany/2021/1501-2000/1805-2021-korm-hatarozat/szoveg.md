@@ -38,5 +38,17 @@ a b) alpont tekintetében a 2023. évi központi költségvetés tervezése sor�
 
 | Határidő: | a 2023. évi központi költségvetés végrehajtása során, a felmerülés ütemében |
 
+6.[^3] egyetért azzal, hogy a Beruházás során létrejövő vagyonelemek vagyonkezelője a Felsőbbfokú Tanulmányok Intézete (a továbbiakban: FTI) legyen;
+
+7.[^4] felhívja a gazdaságfejlesztési minisztert, hogy a Miniszterelnökséget vezető miniszter bevonásával, a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján tegye meg a szükséges intézkedéseket a Beruházás során létrejövő vagyonelemek tekintetében az FTI-vel való vagyonkezelési jogviszony létrehozása érdekében.
+
+Felelős: gazdaságfejlesztési miniszter
+
+Miniszterelnökséget vezető miniszter
+
+Határidő: a Beruházás műszaki átadás-átvételét követő 60 napon belül
+
 [^1]: A 2. pont az 1492/2022. (X. 19.) Korm. határozat 93. pontja szerint módosított szöveg.
 [^2]: Az 5a. pontot az 1492/2022. (X. 19.) Korm. határozat 92. pontja iktatta be.
+[^3]: A 6. pontot az 1337/2023. (VII. 27.) Korm. határozat iktatta be.
+[^4]: A 7. pontot az 1337/2023. (VII. 27.) Korm. határozat iktatta be.
