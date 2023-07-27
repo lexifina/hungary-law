@@ -1,3 +1,3 @@
-1. § A kötelező jegybanki tartalék után fizetendő kamat mértékéről szóló 11/2023. (III. 31.) MNB rendelet 1. § (3) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(3) A kötelező tartaléknak az (1) és (2) bekezdésben meghatározottakat meghaladó összege után az MNB 15% mértékű kamatot fizet.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
