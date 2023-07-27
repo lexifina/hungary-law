@@ -1,3 +1,3 @@
-2. § A Korm. rendelet a következő 11. §-sal egészül ki:
+2. §[^3]
 
-„11. § E rendeletnek a Debrecen megyei jogú város külterületén, az Észak-Nyugati Gazdasági Övezetben ipari telephely kialakításával és a területen megvalósuló munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 58/2018. (III. 26.) Korm. rendelet módosításáról szóló 342/2023. (VII. 25.) Korm. rendelettel (a továbbiakban: Módr6.) megállapított 1. § (5) és (6) bekezdését, valamint módosított 1. mellékletét a Módr6. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

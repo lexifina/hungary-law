@@ -1,1 +1,3 @@
-3. § A Korm. rendelet 1. melléklet I. pontjában a „0237/257, 0243/18,” szövegrész helyébe a „0237/257, 0237/405, 0243/18,” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
