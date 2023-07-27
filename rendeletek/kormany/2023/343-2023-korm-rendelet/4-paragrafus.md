@@ -1,7 +1,3 @@
-4. § A Korm. rendelet 3/A. §
+4. §[^5]
 
-a) (1) bekezdés nyitó szövegrészében a „(2)–(4) bekezdés” szövegrész helyébe a „(2)–(5) bekezdés” szöveg,
-
-b) (1) bekezdés a) és b) pontjában a „(2)–(4)” szövegrész helyébe a „(2)–(5)” szöveg
-
-lép.
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

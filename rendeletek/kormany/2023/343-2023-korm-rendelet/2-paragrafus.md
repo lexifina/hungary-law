@@ -1,3 +1,3 @@
-2. § A Korm. rendelet a következő 10. §-sal egészül ki:
+2. §[^3]
 
-„10. § E rendeletnek az Iváncsa község külterületén megvalósuló ipari park fejlesztéssel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 359/2020. (VII. 23.) Korm. rendelet módosításáról szóló 343/2023. (VII. 25.) Korm. rendelettel (a továbbiakban: Módr5.) megállapított 3/A. § (1) és (5) bekezdését, valamint 2. mellékletébenfoglalt táblázat 12. sorát a Módr5. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
