@@ -36,7 +36,7 @@
 
 ## a miniszterelnök általános helyettese
 
-## Határidő: 2021. december 31., a Kiemelt sportegyesületek támogatása előirányzat javára biztosított 3 456 850 000 forint tekintetében 2023. augusztus 31., az Egyes szociális, gyermekvédelmi, gyermekjóléti és fogyatékos személyek esélyegyenlőségét elősegítő ágazati szakmai programok támogatása előirányzat javára biztosított 200 000 000 forint tekintetében 2023. június 30.
+## Határidő: 2021. december 31., a Kiemelt sportegyesületek támogatása előirányzat javára biztosított 3 456 850 000 forint tekintetében 2023. augusztus 31., az Egyes szociális, gyermekvédelmi, gyermekjóléti és fogyatékos személyek esélyegyenlőségét elősegítő ágazati szakmai programok támogatása előirányzat javára biztosított 200 000 000 forint tekintetében 2024. január 31.
 
 ## e) az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 8 672 079 788 forint egyszeri átcsoportosítását rendeli el, a 3. melléklet szerint;
 
@@ -100,7 +100,7 @@
 
 1. melléklet az 1496/2021. (VII. 23.) Korm. határozathoz
 
-[^1]: Az 1. pont d) alpontja az 1953/2021. (XII. 22.) Korm. határozat 18. pontjával megállapított, az 1034/2022. (II. 1.) Korm. határozat 5. pontja, az 1180/2022. (III. 23.) Korm. határozat 2. pontja, az 1021/2023. (II. 9.) Korm. határozat 2. pontja, az 1050/2023. (II. 23.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^1]: Az 1. pont d) alpontja az 1953/2021. (XII. 22.) Korm. határozat 18. pontjával megállapított, az 1034/2022. (II. 1.) Korm. határozat 5. pontja, az 1180/2022. (III. 23.) Korm. határozat 2. pontja, az 1021/2023. (II. 9.) Korm. határozat 2. pontja, az 1328/2023. (VII. 27.) Korm. határozat 2. pontja szerint módosított szöveg.
 [^2]: Az 1. pont i) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^4]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
