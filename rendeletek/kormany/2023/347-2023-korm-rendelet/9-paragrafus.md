@@ -1,0 +1,3 @@
+## 4. Az állami erdészeti társaságok általi tűzifa alapanyag lakossági forgalmazásának egyes kérdéseiről szóló 355/2022. (IX. 19.) Korm. rendelet hatályon kívül helyezéséről szóló 236/2023. (VI. 16.) Korm. rendelet módosítása
+
+9. § Az állami erdészeti társaságok általi tűzifa alapanyag lakossági forgalmazásának egyes kérdéseiről szóló 355/2022. (IX. 19.) Korm. rendelet hatályon kívül helyezéséről szóló 236/2023. (VI. 16.) Korm. rendelet 2. §-ában az „R.” szövegrész helyébe az „állami erdészeti társaságok általi tűzifa alapanyag lakossági forgalmazásának egyes kérdéseiről szóló 355/2022. (IX. 19.) Korm. rendelet” szöveg lép.

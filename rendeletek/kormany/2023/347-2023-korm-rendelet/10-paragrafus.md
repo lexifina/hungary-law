@@ -1,0 +1,5 @@
+## 5. Záró rendelkezések
+
+10. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 3–8. § 2023. augusztus 1-jén lép hatályba.
