@@ -13,3 +13,7 @@ c) szakmai gyakorlatot.
 (4) A 3. § (1) bekezdés k) pontjában meghatározott szakterület esetén vezetőképzés, szakvizsga megléte nem szükséges.
 
 (5) A 2. § (1) bekezdés l) és m) pontja szerinti szakterület esetén a bejelentéshez mellékelni kell a 2. melléklet I. rész 12. és 13. pontjában meghatározott igazolást is.
+
+(6)[^3] A közigazgatási szakvizsgával egyenértékű a közigazgatási tanulmányok szakirányú szakképzettség és a kormányzati tanulmányok szakirányú szakképzettség.
+
+[^3]: Az 5. § (6) bekezdését a 349/2023. (VII. 27.) Korm. rendelet 25. §-a iktatta be.

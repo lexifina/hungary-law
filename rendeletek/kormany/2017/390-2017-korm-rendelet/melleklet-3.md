@@ -10,7 +10,7 @@
 
 ## 1.3. Elfogadható szakmai gyakorlat: gyermekjóléti szolgáltatás, családsegítő szolgáltatás, ezek fenntartói vagy ágazati irányítása, ellenőrzése, módszertani segítése során szerzett szakmai gyakorlat.
 
-## * Felsőfokú szociális szakképzettség: általános szociális munkás, szociális munkás, okleveles szociális munkás, okleveles egészségügyi szociális munkás, szociális szervező, szociálpolitikus, okleveles szociálpolitikus, okleveles szociálpedagógus, szociálpedagógus.
+## * Felsőfokú szociális szakképzettség: általános szociális munkás, szociális munkás, diakónus szakképzettség, okleveles szociális munkás, okleveles egészségügyi szociális munkás, szociális szervező, szociálpolitikus, okleveles szociálpolitikus, okleveles szociálpedagógus, szociálpedagógus.
 
 ## **Mentálhigiénés szakképzettség: felsőfokú végzettség és mentálhigiénés szakképzettség, valamint az alap- vagy mesterképzést követően szerzett szakirányú továbbképzésben szerzett mentálhigiénés szakképzettség.
 
@@ -122,7 +122,7 @@
 
 ## 8. Javítóintézeti nevelés szakterület
 
-## 8.1. Elfogadható szakképesítés: általános szociális munkás, szociális munkás, szociális szervező, szociálpolitikus, szociálpedagógus, pedagógus szakképzettség, pedagógiai előadó, gyógypedagógus, pszichopedagógus, okleveles pszichológus, mentálhigiénés szakképzettség, jogász, igazgatásszervező, közigazgatás-szervező, közgazdász szociálpolitikai szakon.
+## 8.1. Elfogadható szakképesítés: általános szociális munkás, szociális munkás, diakónus szakképzettség, szociális szervező, szociálpolitikus, szociálpedagógus, pedagógus szakképzettség, pedagógiai előadó, gyógypedagógus, pszichopedagógus, okleveles pszichológus, mentálhigiénés szakképzettség, jogász, igazgatásszervező, közigazgatás-szervező, közgazdász szociálpolitikai szakon.
 
 ## 8.2. Elfogadható vezetőképzés/szakvizsga: szociális ágazati alap vezetőképzés alapozó képzése, szociális szakvizsga, jogi szakvizsga, közigazgatási szakvizsga, orvosi szakképesítéssel megszerezhető szakirányú szakképesítés, pedagógus-szakvizsga, szakpszichológusi szakvizsga.
 
@@ -138,7 +138,7 @@
 
 ## 10. Speciális és kettős ellátási szükségletű gyermekek ellátása szakterület
 
-## 10.1. Elfogadható szakképesítés: pedagógus szakképzettség, okleveles pszichológus, gyógypedagógus, pszichopedagógus, szociálpedagógus, szociális munkás, orvos.
+## 10.1. Elfogadható szakképesítés: pedagógus szakképzettség, okleveles pszichológus, gyógypedagógus, pszichopedagógus, szociálpedagógus, szociális munkás, diakónus szakképzettség, orvos.
 
 ## 10.2. Elfogadható vezetőképzés/szakvizsga: szociális ágazati alap vezetőképzés alapozó képzése, szociális szakvizsga, jogi szakvizsga, közigazgatási szakvizsga, orvosi szakképesítéssel megszerezhető szakirányú szakképesítés, pedagógus-szakvizsga, szakpszichológusi szakvizsga.
 
@@ -212,7 +212,7 @@
 
 ## 1. Időskorúak szociális ellátása szakterület
 
-## 1.1. Elfogadható szakképesítés: általános szociális munkás, szociálpedagógus, okleveles szociális szervező, szociális menedzser, okleveles szociális munkás, okleveles szociálpolitikus, szociológus, szociálpedagógus, andragógus, gyógypedagógus, intézetvezető, jogász, okleveles közgazdász, igazgatásszervező, közigazgatás-szervező, szociális igazgatás szakirányú végzettséggel, orvos, diplomás ápoló, okleveles ápoló, okleveles egyetemi ápoló, egészségügyi menedzser, mentálhigiénikus, mentálhigiénés szakember, mentálhigiénés lelkigondozó, addiktológiai konzultáns, okleveles teológus, diakónus, okleveles pasztorális tanácsadó és szervezetfejlesztő, okleveles pszichológus, viselkedéselemző.
+## 1.1. Elfogadható szakképesítés: általános szociális munkás, diakónus szakképzettség, szociálpedagógus, okleveles szociális szervező, szociális menedzser, okleveles szociális munkás, okleveles szociálpolitikus, szociológus, szociálpedagógus, andragógus, gyógypedagógus, intézetvezető, jogász, okleveles közgazdász, igazgatásszervező, közigazgatás-szervező, szociális igazgatás szakirányú végzettséggel, orvos, diplomás ápoló, okleveles ápoló, okleveles egyetemi ápoló, egészségügyi menedzser, mentálhigiénikus, mentálhigiénés szakember, mentálhigiénés lelkigondozó, addiktológiai konzultáns, okleveles teológus, diakónus, okleveles pasztorális tanácsadó és szervezetfejlesztő, okleveles pszichológus, viselkedéselemző.
 
 ## 1.2. Elfogadható vezetőképzés/szakvizsga: szociális ágazati alap vezetőképzés alapozó képzése, szociális szakvizsga, orvosi szakvizsga, pszichológus képesítésnél a klinikai szakpszichológusi szakvizsga is.
 
@@ -220,7 +220,7 @@
 
 ## 2. Fogyatékos személyek szociális ellátása szakterület
 
-## 2.1. Elfogadható szakképesítés: általános szociális munkás, szociálpedagógus, okleveles szociális szervező, szociális menedzser, okleveles szociális munkás, okleveles szociálpolitikus, szociológus, szociálpedagógus, andragógus, gyógypedagógus, intézetvezető, jogász, okleveles közgazdász, igazgatásszervező, közigazgatás-szervező, szociális igazgatás szakirányú végzettséggel, orvos, audiológus, fül-orr-gégész szakorvos, ortopéd szakorvos, szemész szakorvos, diplomás ápoló, okleveles ápoló, okleveles egyetemi ápoló, egészségügyi menedzser, mentálhigiénikus, mentálhigiénés szakember, mentálhigiénés lelkigondozó, addiktológiai konzultáns, okleveles teológus, diakónus, okleveles pasztorális tanácsadó és szervezetfejlesztő, okleveles pszichológus, konduktor, konduktor óvodapedagógus, konduktor tanító, fejlesztő pedagógus.
+## 2.1. Elfogadható szakképesítés: általános szociális munkás, diakónus szakképzettség, szociálpedagógus, okleveles szociális szervező, szociális menedzser, okleveles szociális munkás, okleveles szociálpolitikus, szociológus, szociálpedagógus, andragógus, gyógypedagógus, intézetvezető, jogász, okleveles közgazdász, igazgatásszervező, közigazgatás-szervező, szociális igazgatás szakirányú végzettséggel, orvos, audiológus, fül-orr-gégész szakorvos, ortopéd szakorvos, szemész szakorvos, diplomás ápoló, okleveles ápoló, okleveles egyetemi ápoló, egészségügyi menedzser, mentálhigiénikus, mentálhigiénés szakember, mentálhigiénés lelkigondozó, addiktológiai konzultáns, okleveles teológus, diakónus, okleveles pasztorális tanácsadó és szervezetfejlesztő, okleveles pszichológus, konduktor, konduktor óvodapedagógus, konduktor tanító, fejlesztő pedagógus.
 
 ## 2.2. Elfogadható vezetőképzés/szakvizsga: szociális ágazati alap vezetőképzés alapozó képzése, szociális szakvizsga, orvosi szakvizsga, pszichológus képesítésnél a klinikai szakpszichológusi szakvizsga is, konduktor óvodapedagógus, konduktor tanító, gyógypedagógus képesítésnél a pedagógus-szakvizsga is.
 
@@ -228,7 +228,7 @@
 
 ## 3. Pszichiátriai betegek szociális ellátása szakterület
 
-## 3.1. Elfogadható szakképesítés: általános szociális munkás, szociálpedagógus, okleveles szociális szervező, szociális menedzser, okleveles szociális munkás, okleveles szociálpolitikus, szociológus, szociálpedagógus, andragógus, gyógypedagógus, intézetvezető, jogász, okleveles közgazdász, igazgatásszervező, közigazgatás-szervező szociális igazgatás szakirányú végzettséggel, orvos, pszichiáter szakorvos, diplomás ápoló, okleveles ápoló, okleveles egyetemi ápoló, egészségügyi menedzser, mentálhigiénikus, mentálhigiénés szakember, mentálhigiénés lelkigondozó, addiktológiai konzultáns, okleveles teológus, diakónus, okleveles pasztorális tanácsadó és szervezetfejlesztő, okleveles pszichológus, konduktor.
+## 3.1. Elfogadható szakképesítés: általános szociális munkás, diakónus szakképzettség, szociálpedagógus, okleveles szociális szervező, szociális menedzser, okleveles szociális munkás, okleveles szociálpolitikus, szociológus, szociálpedagógus, andragógus, gyógypedagógus, intézetvezető, jogász, okleveles közgazdász, igazgatásszervező, közigazgatás-szervező szociális igazgatás szakirányú végzettséggel, orvos, pszichiáter szakorvos, diplomás ápoló, okleveles ápoló, okleveles egyetemi ápoló, egészségügyi menedzser, mentálhigiénikus, mentálhigiénés szakember, mentálhigiénés lelkigondozó, addiktológiai konzultáns, okleveles teológus, diakónus, okleveles pasztorális tanácsadó és szervezetfejlesztő, okleveles pszichológus, konduktor.
 
 ## 3.2. Elfogadható vezetőképzés/szakvizsga: szociális ágazati alap vezetőképzés alapozó képzése, szociális szakvizsga, pszichiáter szakorvos képesítésnél az orvosi szakvizsga is, pszichológus képesítésnél a klinikai szakpszichológusi szakvizsga is.
 
@@ -236,7 +236,7 @@
 
 ## 4. Szenvedélybetegek szociális ellátása szakterület
 
-## 4.1. Elfogadható szakképesítés: általános szociális munkás, szociálpedagógus, okleveles szociális szervező, szociális menedzser, okleveles szociális munkás, okleveles szociálpolitikus, szociológus, szociálpedagógus, andragógus, gyógypedagógus, intézetvezető, jogász, okleveles közgazdász, igazgatásszervező, közigazgatás-szervező szociális igazgatás szakirányú végzettséggel, orvos, addiktológiai vagy pszichiáter szakorvos, diplomás ápoló, okleveles ápoló, okleveles egyetemi ápoló, egészségügyi menedzser, mentálhigiénikus, mentálhigiénés szakember, mentálhigiénés lelkigondozó, addiktológiai konzultáns, okleveles teológus, diakónus, okleveles pasztorális tanácsadó és szervezetfejlesztő, okleveles pszichológus, konduktor.
+## 4.1. Elfogadható szakképesítés: általános szociális munkás, diakónus szakképzettség, szociálpedagógus, okleveles szociális szervező, szociális menedzser, okleveles szociális munkás, okleveles szociálpolitikus, szociológus, szociálpedagógus, andragógus, gyógypedagógus, intézetvezető, jogász, okleveles közgazdász, igazgatásszervező, közigazgatás-szervező szociális igazgatás szakirányú végzettséggel, orvos, addiktológiai vagy pszichiáter szakorvos, diplomás ápoló, okleveles ápoló, okleveles egyetemi ápoló, egészségügyi menedzser, mentálhigiénikus, mentálhigiénés szakember, mentálhigiénés lelkigondozó, addiktológiai konzultáns, okleveles teológus, diakónus, okleveles pasztorális tanácsadó és szervezetfejlesztő, okleveles pszichológus, konduktor.
 
 ## 4.2. Elfogadható vezetőképzés/szakvizsga: szociális ágazati alap vezetőképzés alapozó képzése, szociális szakvizsga, addiktológiai szakorvos képesítésnél az orvosi szakvizsga is, pszichológus képesítésnél a klinikai szakpszichológusi szakvizsga is, addiktológiai szakpszichológusi szakvizsga.
 
@@ -260,7 +260,7 @@
 
 ## 7. Szociális igazgatás szakterület
 
-## 7.1. Elfogadható szakképesítés: általános szociális munkás, szociálpedagógus, okleveles szociális szervező, szociális menedzser, okleveles szociális munkás, szociálpolitikus, szociológus, szociálpedagógus, andragógus, jogász, igazgatásszervező, közigazgatás-szervező szociális igazgatás szakirányú végzettséggel, szociális igazgatásszervező, közgazdász.
+## 7.1. Elfogadható szakképesítés: általános szociális munkás, diakónus szakképzettség, szociálpedagógus, okleveles szociális szervező, szociális menedzser, okleveles szociális munkás, szociálpolitikus, szociológus, szociálpedagógus, andragógus, jogász, igazgatásszervező, közigazgatás-szervező szociális igazgatás szakirányú végzettséggel, szociális igazgatásszervező, közgazdász.
 
 ## 7.2. Elfogadható vezetőképzés/szakvizsga: közigazgatási szakvizsga, jogász képesítésnél jogi szakvizsga is.
 
@@ -268,7 +268,7 @@
 
 ## 8. Fejlesztő foglalkoztatás szakterület
 
-## 8.1. Elfogadható szakképesítés: általános szociális munkás, szociálpedagógus, okleveles szociális szervező, szociális menedzser, okleveles szociális munkás, okleveles szociálpolitikus, szociológus, szociálpedagógus, andragógus, gyógypedagógus, intézetvezető, jogász, okleveles közgazdász, igazgatásszervező, közigazgatás-szervező szociális igazgatás szakirányú végzettséggel, orvos, diplomás ápoló, okleveles ápoló, okleveles egyetemi ápoló, egészségügyi menedzser, konduktor, mentálhigiénikus, mentálhigiénés szakember, mentálhigiénés lelkigondozó, addiktológiai konzultáns, okleveles teológus, diakónus, okleveles pasztorális tanácsadó és szervezetfejlesztő, okleveles pszichológus, viselkedéselemző.
+## 8.1. Elfogadható szakképesítés: általános szociális munkás, diakónus szakképzettség, szociálpedagógus, okleveles szociális szervező, szociális menedzser, okleveles szociális munkás, okleveles szociálpolitikus, szociológus, szociálpedagógus, andragógus, gyógypedagógus, intézetvezető, jogász, okleveles közgazdász, igazgatásszervező, közigazgatás-szervező szociális igazgatás szakirányú végzettséggel, orvos, diplomás ápoló, okleveles ápoló, okleveles egyetemi ápoló, egészségügyi menedzser, konduktor, mentálhigiénikus, mentálhigiénés szakember, mentálhigiénés lelkigondozó, addiktológiai konzultáns, okleveles teológus, diakónus, okleveles pasztorális tanácsadó és szervezetfejlesztő, okleveles pszichológus, viselkedéselemző.
 
 ## 8.2. Elfogadható vezetőképzés/szakvizsga: általános szociális munkás, szociálpedagógus, szociális szervező, szociális menedzser, okleveles szociális munkás, szociálpolitikus, szociológus képesítésnél: szociális ágazati alap vezetőképzés alapozó képzése, szociális szakvizsga; pszichológus képesítésnél: szociális ágazati alap vezetőképzés alapozó képzése, szociális szakvizsga vagy klinikai szakpszichológusi szakvizsga, gyógypedagógus képesítésnél: szociális ágazati alap vezetőképzés alapozó képzése, szociális szakvizsga vagy pedagógus-szakvizsga, jogász képesítésnél: közigazgatási szakvizsga vagy jogi szakvizsga, igazgatásszervező, közigazgatás-szervező, szociális igazgatásszervező képesítésnél: közigazgatási szakvizsga.
 
@@ -276,7 +276,7 @@
 
 ## 9. Rehabilitációs utógondozás szakterület
 
-## 9.1. Elfogadható szakképesítés: általános szociális munkás, szociálpedagógus, okleveles szociális szervező, szociális menedzser, okleveles szociális munkás, okleveles szociálpolitikus, szociológus, szociálpedagógus, andragógus, gyógypedagógus, intézetvezető, jogász, okleveles közgazdász, igazgatásszervező, közigazgatás-szervező szociális igazgatás szakirányú végzettséggel, orvos, diplomás ápoló, okleveles ápoló, okleveles egyetemi ápoló, egészségügyi menedzser, mentálhigiénikus, mentálhigiénés szakember, mentálhigiénés lelkigondozó, addiktológiai konzultáns, okleveles teológus, diakónus, okleveles pasztorális tanácsadó és szervezetfejlesztő, okleveles pszichológus, viselkedéselemző.
+## 9.1. Elfogadható szakképesítés: általános szociális munkás, diakónus szakképzettség, szociálpedagógus, okleveles szociális szervező, szociális menedzser, okleveles szociális munkás, okleveles szociálpolitikus, szociológus, szociálpedagógus, andragógus, gyógypedagógus, intézetvezető, jogász, okleveles közgazdász, igazgatásszervező, közigazgatás-szervező szociális igazgatás szakirányú végzettséggel, orvos, diplomás ápoló, okleveles ápoló, okleveles egyetemi ápoló, egészségügyi menedzser, mentálhigiénikus, mentálhigiénés szakember, mentálhigiénés lelkigondozó, addiktológiai konzultáns, okleveles teológus, diakónus, okleveles pasztorális tanácsadó és szervezetfejlesztő, okleveles pszichológus, viselkedéselemző.
 
 ## 9.2. Elfogadható vezetőképzés/szakvizsga: szociális ágazati alap vezetőképzés alapozó képzése, szociális szakvizsga, orvos, rehabilitációs szakorvos képesítésnél az orvosi szakvizsga is, pszichológus képesítésnél a klinikai szakpszichológusi szakvizsga is, gyógypedagógus képesítésnél a pedagógus-szakvizsga is.
 
@@ -284,7 +284,7 @@
 
 ## 10. Szociális szolgáltatások tervezése, fejlesztése, szervezése, ideértve a csoportmunkát, valamint a szolgáltatástervezési koncepcióval kapcsolatos tanácsadás szakterület
 
-## 10.1. Elfogadható szakképesítés: általános szociális munkás, szociálpedagógus, okleveles szociális szervező, szociális menedzser, okleveles szociális munkás, okleveles szociálpolitikus, szociológus, szociálpedagógus, andragógus, gyógypedagógus, intézetvezető, jogász, okleveles közgazdász, igazgatásszervező, közigazgatás-szervező szociális igazgatás szakirányú végzettséggel, orvos, diplomás ápoló, okleveles ápoló, okleveles egyetemi ápoló, egészségügyi menedzser, mentálhigiénikus, mentálhigiénés szakember, mentálhigiénés lelkigondozó, addiktológiai konzultáns, okleveles teológus, diakónus, okleveles pasztorális tanácsadó és szervezetfejlesztő, okleveles pszichológus, viselkedéselemző, konduktor.
+## 10.1. Elfogadható szakképesítés: általános szociális munkás, diakónus szakképzettség, szociálpedagógus, okleveles szociális szervező, szociális menedzser, okleveles szociális munkás, okleveles szociálpolitikus, szociológus, szociálpedagógus, andragógus, gyógypedagógus, intézetvezető, jogász, okleveles közgazdász, igazgatásszervező, közigazgatás-szervező szociális igazgatás szakirányú végzettséggel, orvos, diplomás ápoló, okleveles ápoló, okleveles egyetemi ápoló, egészségügyi menedzser, mentálhigiénikus, mentálhigiénés szakember, mentálhigiénés lelkigondozó, addiktológiai konzultáns, okleveles teológus, diakónus, okleveles pasztorális tanácsadó és szervezetfejlesztő, okleveles pszichológus, viselkedéselemző, konduktor.
 
 ## 10.2. Elfogadható vezetőképzés/szakvizsga: szociális ágazati alap vezetőképzés alapozó képzése, szociális szakvizsga, általános szociális munkás, szociálpedagógus, szociális szervező, szociális menedzser, okleveles szociális munkás, szociálpolitikus, szociológus képesítésnél a közigazgatási szakvizsga is, pszichológus képesítésnél a klinikai szakpszichológusi szakvizsga is.
 
@@ -292,13 +292,13 @@
 
 ## 11. Szociális minőségfejlesztési tanácsadás szakterület
 
-## 11.1. Elfogadható szakképesítés: általános szociális munkás, szociálpedagógus, okleveles szociális szervező, szociális menedzser, okleveles szociális munkás, okleveles szociálpolitikus, szociológus, szociálpedagógus, andragógus, gyógypedagógus, intézetvezető, jogász, okleveles közgazdász, igazgatásszervező, közigazgatás-szervező szociális igazgatás szakirányú végzettséggel, orvos, diplomás ápoló, okleveles ápoló, okleveles egyetemi ápoló, egészségügyi menedzser, mentálhigiénikus, mentálhigiénés szakember, mentálhigiénés lelkigondozó, addiktológiai konzultáns, okleveles teológus, diakónus, okleveles pasztorális tanácsadó és szervezetfejlesztő, okleveles pszichológus, viselkedéselemző, konduktor, szociális minőség menedzser, vezető auditor.
+## 11.1. Elfogadható szakképesítés: általános szociális munkás, diakónus szakképzettség, szociálpedagógus, okleveles szociális szervező, szociális menedzser, okleveles szociális munkás, okleveles szociálpolitikus, szociológus, szociálpedagógus, andragógus, gyógypedagógus, intézetvezető, jogász, okleveles közgazdász, igazgatásszervező, közigazgatás-szervező szociális igazgatás szakirányú végzettséggel, orvos, diplomás ápoló, okleveles ápoló, okleveles egyetemi ápoló, egészségügyi menedzser, mentálhigiénikus, mentálhigiénés szakember, mentálhigiénés lelkigondozó, addiktológiai konzultáns, okleveles teológus, diakónus, okleveles pasztorális tanácsadó és szervezetfejlesztő, okleveles pszichológus, viselkedéselemző, konduktor, szociális minőség menedzser, vezető auditor.
 
 ## 11.2. Elfogadható szakmai gyakorlat: a szociálpolitikáért felelős miniszter által vezetett minisztériumban vagy a minisztérium felügyelete alá tartozó intézményben folytatott tevékenység, az Szt. 57. §-ában meghatározott szociális szolgáltatás körében végzett tevékenység, a fenntartói feladatok ellátásával, illetve a szociális igazgatással összefüggésben végzett tevékenység, a fővárosi és vármegyei kormányhivatalnál a szolgáltatói nyilvántartással, illetve a szolgáltatók működésének hatósági ellenőrzésével összefüggő feladatellátás, az Szt. 25. § (3) bekezdése szerinti szociális rászorultságtól függő pénzbeli ellátásokkal összefüggő feladatellátás, nem állami, illetve egyházi fenntartónál szociális szolgáltatással közvetlenül összefüggő feladat ellátása, felsőfokú szociális alapvégzettséget nyújtó felsőoktatási intézményben folytatott oktatói, tudományos tevékenység.
 
 ## 12. Szakértői közreműködés a személyes gondoskodás igénybevételével kapcsolatos eljárásokban, szakértői közreműködés a fogyatékos személyek alapvizsgálatában, a szociális intézményekben ellátott személyek állapotának felülvizsgálatában, szakértői közreműködés a komplex minősítési eljárásban szakterületek
 
-## 12.1. Elfogadható szakképesítés: általános szociális munkás, szociálpedagógus, okleveles szociális szervező, szociális menedzser, okleveles szociális munkás, okleveles szociálpolitikus, szociológus, szociálpedagógus, andragógus, gyógypedagógus, intézetvezető, jogász, okleveles közgazdász, igazgatásszervező, közigazgatás-szervező szociális igazgatás szakirányú végzettséggel, orvos, diplomás ápoló, okleveles ápoló, okleveles egyetemi ápoló, egészségügyi menedzser, mentálhigiénikus, mentálhigiénés szakember, mentálhigiénés lelkigondozó, addiktológiai konzultáns, okleveles teológus, diakónus, okleveles pasztorális tanácsadó és szervezetfejlesztő, okleveles pszichológus, viselkedéselemző, konduktor, konduktor tanító, konduktor óvodapedagógus.
+## 12.1. Elfogadható szakképesítés: általános szociális munkás, diakónus szakképzettség, szociálpedagógus, okleveles szociális szervező, szociális menedzser, okleveles szociális munkás, okleveles szociálpolitikus, szociológus, szociálpedagógus, andragógus, gyógypedagógus, intézetvezető, jogász, okleveles közgazdász, igazgatásszervező, közigazgatás-szervező szociális igazgatás szakirányú végzettséggel, orvos, diplomás ápoló, okleveles ápoló, okleveles egyetemi ápoló, egészségügyi menedzser, mentálhigiénikus, mentálhigiénés szakember, mentálhigiénés lelkigondozó, addiktológiai konzultáns, okleveles teológus, diakónus, okleveles pasztorális tanácsadó és szervezetfejlesztő, okleveles pszichológus, viselkedéselemző, konduktor, konduktor tanító, konduktor óvodapedagógus.
 
 ## 12.2. Elfogadható vezetőképzés/szakvizsga: szociális ágazati alap vezetőképzés alapozó képzése, szociális szakvizsga, rehabilitációs szakorvos, pszichiáter szakorvos, addiktológiai szakorvos képesítésnél az orvosi szakvizsga is, pszichológus képesítésnél a klinikai szakpszichológusi szakvizsga is, konduktor óvodapedagógus, konduktor tanító, gyógypedagógus képesítésnél a pedagógus-szakvizsga is.
 
@@ -358,7 +358,7 @@ Névjegyzékbe való felvételhez
 
 5.1. Kijelentem, hogy a bejelentő felett nem gyakorlok munkáltatói jogokat, illetve a bejelentő nem gyakorol felettem munkáltatói jogokat, továbbá a bejelentő nem minősül a Polgári Törvénykönyvről szóló 2013. évi V. törvény szerinti hozzátartozómnak.
 
-5.2. Kijelentem, hogy[^7]
+5.2. Kijelentem, hogy[^8]
 
 - a 390/2017. (XII. 13.) Korm. rendelet 2. mellékletének I. része szerinti
 
@@ -372,4 +372,4 @@ Dátum: ........................................................................
 
 aláírás
 
-[^7]: A megfelelő rész aláhúzandó
+[^8]: A megfelelő rész aláhúzandó
