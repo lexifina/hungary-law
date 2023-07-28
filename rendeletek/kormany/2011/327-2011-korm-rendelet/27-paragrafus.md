@@ -1,6 +1,6 @@
-## 26. §[^178] Ha a rehabilitációs pénzbeli ellátás folyósítása a 2015. december 31-éig hatályos rendelkezések alapján a keresőképtelenségre tekintettel szüneteltetésre került, a rehabilitációs hatóság a rehabilitációs ellátás időtartamának leteltét megelőzően a rehabilitációs ellátás meghosszabbításról határozatban intézkedik, és a határozatát haladéktalanul közli a nyugdíjfolyósító szervvel is.
+## 26. §[^182] Ha a rehabilitációs pénzbeli ellátás folyósítása a 2015. december 31-éig hatályos rendelkezések alapján a keresőképtelenségre tekintettel szüneteltetésre került, a rehabilitációs hatóság a rehabilitációs ellátás időtartamának leteltét megelőzően a rehabilitációs ellátás meghosszabbításról határozatban intézkedik, és a határozatát haladéktalanul közli a nyugdíjfolyósító szervvel is.
 
-27. §[^179]
+27. §[^183]
 
-[^178]: A 26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 441/2015. (XII. 28.) Korm. rendelet 157. § (3) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés m) pontja, a 360/2019. (XII. 30.) Korm. rendelet 95. § (5) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^179]: A 27. §-t újból hatályon kívül helyezte a 610/2020. (XII. 18.) Korm. rendelet 14. §-a.
+[^182]: A 26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 441/2015. (XII. 28.) Korm. rendelet 157. § (3) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés m) pontja, a 360/2019. (XII. 30.) Korm. rendelet 95. § (5) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^183]: A 27. §-t újból hatályon kívül helyezte a 610/2020. (XII. 18.) Korm. rendelet 14. §-a.

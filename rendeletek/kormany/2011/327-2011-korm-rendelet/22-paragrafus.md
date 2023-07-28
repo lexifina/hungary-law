@@ -1,3 +1,6 @@
-## 11. [^159] A megváltozott munkaképességű személyek ellátásaival kapcsolatos felelősségi szabályok
+## 11. [^161] A megváltozott munkaképességű személyek ellátásaival kapcsolatos felelősségi szabályok
 
-[^159]: A 11. alcím címe a 117/2016. (VI. 6.) Korm. rendelet 12. §-ával megállapított szöveg.
+22. §[^162] A megváltozott munkaképességű személyek ellátásában részesülő személy halálának hónapját követően belföldi pénzforgalmi szolgáltatónál vezetett fizetési számlára átutalt jogalap nélküli ellátásnak a fizetési számla pozitív számlaegyenlege terhére és mértékéig történő visszafizetésére a pénzforgalmi szolgáltatót a rehabilitációs hatóság kötelezi, feltéve, hogy a fizetési számla feletti rendelkezésre más személy nem jogosult. Amennyiben a fizetési számla felett rendelkezésre jogosult személy ismert, a rehabilitációs hatóság a követelését – fizetésre kötelező határozat kibocsátásával – akkor is e személlyel szemben érvényesíti, ha a jogalap nélkül kiutalt ellátást az elhunyt személy fizetési számlájáról még nem vették fel.
+
+[^161]: A 11. alcím címe a 117/2016. (VI. 6.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^162]: A 22. § a 95/2012. (V. 15.) Korm. rendelet 46. § (9) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 184. § (4) bekezdés h) pontja, a 117/2016. (VI. 6.) Korm. rendelet 17. § c) pontja, a 349/2023. (VII. 27.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.

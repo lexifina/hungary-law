@@ -8,7 +8,7 @@ c) társadalombiztosítási azonosító jelét,
 
 d)[^45]
 
-e) 6. § (4) bekezdés a), d) és e) pontjában felsorolt nyilatkozatait, és
+e)[^46] 6. § (4) bekezdés a) és d) pontjában felsorolt nyilatkozatait, és
 
 f) nyilatkozatát arra vonatkozóan, hogy melyek azok a különös méltánylást igénylő körülmények, amelyekre tekintettel a kivételes rokkantsági ellátás megállapítását kéri.
 
@@ -22,3 +22,4 @@ c) az (1) bekezdés f) pontja alapján megjelölt különös méltánylást igé
 
 [^44]: A 6/A. §-t a 402/2017. (XII. 15.) Korm. rendelet 9. §-a iktatta be.
 [^45]: A 6/A. § (1) bekezdés d) pontját a 304/2018. (XII. 27.) Korm. rendelet 5. § e) pontja hatályon kívül helyezte.
+[^46]: A 6/A. § (1) bekezdés e) pontja a 349/2023. (VII. 27.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
