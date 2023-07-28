@@ -38,7 +38,7 @@
 
 | 19. | 17 | 48 év felett | 124 200 | 181 380 | 205 224 | 289 608 |
 
-7. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez[^124]
+7. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez[^125]
 
 Az egészségügyi kiegészítő pótlék összege
 
@@ -252,4 +252,4 @@ II. Orvosok egészségügyi kiegészítő pótlékának összege (Ft)
 
 | 49. | 48 év felett | – | 189 945 | 219 527 |
 
-[^124]: A 7. számú mellékletet a 351/2017. (XI. 23.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 2/2018. (II. 1.) Korm. rendelet 10. §-a, a 277/2019. (XI. 21.) Korm. rendelet 2. § (2) bekezdése, a 309/2020. (VI. 30.) Korm. rendelet 2. § (1) és (2) bekezdése, az 598/2022. (XII. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^125]: A 7. számú mellékletet a 351/2017. (XI. 23.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 2/2018. (II. 1.) Korm. rendelet 10. §-a, a 277/2019. (XI. 21.) Korm. rendelet 2. § (2) bekezdése, a 309/2020. (VI. 30.) Korm. rendelet 2. § (1) és (2) bekezdése, az 598/2022. (XII. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
