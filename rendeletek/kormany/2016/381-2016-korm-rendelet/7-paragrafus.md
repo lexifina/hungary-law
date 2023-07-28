@@ -8,13 +8,13 @@ b) valamely jog gyakorlásának elmaradása vagy a jog gyakorlásához kapcsoló
 
 c) az ellátott vagy a gyermek jogai gyakorlásának súlyos megsértésekor másik, megfelelő ellátást nyújtó szolgáltatóhoz történő áthelyezés kezdeményezését
 
-## eredményezi.
+eredményezi.
 
 (2) Feladat- és hatáskörének gyakorlása során a jogvédelmi képviselő
 
 a) együttműködik a szolgáltatást nyújtókkal, azok fenntartóival és a szolgáltatást igénybe vevőkkel,
 
-b)[^7] a Szolgálat által meghatározott rendszerességgel és időtartamban fogadóórát tart a Szolgálat által meghatározott helyen,
+b)[^8] a Szolgálat által meghatározott rendszerességgel és időtartamban fogadóórát tart a Szolgálat által meghatározott helyen,
 
 c) a megkereséseket, valamint eljárását és intézkedéseit dokumentálja,
 
@@ -54,4 +54,4 @@ c) a fővárosi és megyei kormányhivatal gyermekvédelmi és gyámügyi felada
 
 d) a gyermekvédelmi bírság kiszabására irányuló javaslattétele során figyelembe veszi a jogsértés jellegét, súlyát, az érintettek létszámának nagyságát a szolgáltatás jellegének arányában, javaslatát megfelelően indokolja.
 
-[^7]: A 7. § (2) bekezdés b) pontja az 507/2017. (XII. 29.) Korm. rendelet 50. §-ával megállapított szöveg.
+[^8]: A 7. § (2) bekezdés b) pontja az 507/2017. (XII. 29.) Korm. rendelet 50. §-ával megállapított szöveg.

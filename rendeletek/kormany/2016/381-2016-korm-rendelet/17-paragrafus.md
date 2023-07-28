@@ -1,4 +1,4 @@
-## 16. §[^13] Ha a jogvédelmi képviselőnek a minisztériummal fennálló munkavégzésre irányuló jogviszonya megszűnik, a Szolgálat a kiállított igazolványt érvényteleníti. Az igazolvány érvénytelenségének tényét a minisztérium hivatalos lapjában közzé kell tenni.
+## 16. §[^14] Ha a jogvédelmi képviselőnek a minisztériummal fennálló munkavégzésre irányuló jogviszonya megszűnik, a Szolgálat a kiállított igazolványt érvényteleníti. Az igazolvány érvénytelenségének tényét a minisztérium hivatalos lapjában közzé kell tenni.
 
 ## 10. A Szolgálat módszertani feladatai
 
@@ -10,4 +10,4 @@ b) az egészségügyi, szociális, gyermekjóléti és gyermekvédelmi szakterü
 
 c) képzési programot dolgoz ki és képzést tart a betegek, ellátottak, gyermekek jogainak, jogtudatosításának, továbbá a betegbiztonság érvényesülése érdekében.
 
-[^13]: A 16. § az 507/2017. (XII. 29.) Korm. rendelet 54. §-ával megállapított szöveg.
+[^14]: A 16. § az 507/2017. (XII. 29.) Korm. rendelet 54. §-ával megállapított szöveg.

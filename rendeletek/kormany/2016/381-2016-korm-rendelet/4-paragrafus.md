@@ -10,7 +10,7 @@ b) aki az 5. §-ban meghatározott tanfolyam elvégzését követően sikeres vi
 
 c) akivel szemben nem áll fenn kizáró ok.
 
-(3) Jogvédelmi képviselő lehet jogász, általános orvos, pszichológus, szociális munkás, gyógypedagógus, teológus, kommunikációs szakon szerzett szakképzettségű, továbbá az okleveles közgazdász végzettséggel rendelkező személy.
+(3)[^2] Jogvédelmi képviselő lehet jogász, általános orvos, pszichológus, szociális munkás, diakónus, gyógypedagógus, teológus, kommunikációs szakon szerzett szakképzettségű, továbbá az okleveles közgazdász végzettséggel rendelkező személy.
 
 (4) Betegjogi képviselő lehet a (3) bekezdésben meghatározottakon kívül fogorvos, gyógyszerész, egyetemi szintű okleveles ápoló, főiskolai szintű diplomás ápoló, egészségügyi intézetvezető vagy szakoktató, védőnő, valamint egyéb, az egészségügyi felsőoktatásban szakképzettséget szerzett személy.
 
@@ -26,8 +26,9 @@ b) az ellátottjogi képviselő esetében a szociális szolgáltatások szervez�
 
 c) a gyermekjogi képviselő esetében a gyermekjóléti alapellátási és gyermekvédelmi szakellátási, illetőleg a gyermekvédelmi vagy gyámügyi igazgatási területen, a gyermekvédelem területén működő egyházi jogi személynél, civil szervezetnél, alapítványnál, közalapítványnál, közhasznú társaságnál, egyéni vagy társas vállalkozásnál, illetve a betegjogi vagy ellátottjogi képviselőként végzett tevékenységet
 
-## kell érteni.
+kell érteni.
 
-(8)[^2] Ügyvédi tevékenységet gyakorló – az ügyvédi tevékenységét szüneteltető személy kivételével – nem lehet jogvédelmi képviselő.
+(8)[^3] Ügyvédi tevékenységet gyakorló – az ügyvédi tevékenységét szüneteltető személy kivételével – nem lehet jogvédelmi képviselő.
 
-[^2]: A 4. § (8) bekezdése a 393/2017. (XII. 13.) Korm. rendelet 68. § (1) bekezdésével megállapított szöveg.
+[^2]: A 4. § (3) bekezdése a 349/2023. (VII. 27.) Korm. rendelet 24. §-a szerint módosított szöveg.
+[^3]: A 4. § (8) bekezdése a 393/2017. (XII. 13.) Korm. rendelet 68. § (1) bekezdésével megállapított szöveg.

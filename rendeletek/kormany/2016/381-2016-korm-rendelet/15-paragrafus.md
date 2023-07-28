@@ -6,6 +6,6 @@
 
 (4) Az elveszett, megrongálódott vagy megsemmisült igazolvány pótlásáról, illetve cseréjéről a Szolgálat gondoskodik.
 
-(5)[^12] A minisztériummal munkavégzésre irányuló jogviszonyban álló jogvédelmi képviselő a nyilvántartott adataiban bekövetkezett változást köteles harminc napon belül a Szolgálatnak bejelenteni, amely a változást a nyilvántartáson átvezeti, és szükség szerint gondoskodik a (2) bekezdés szerinti igazolvány újbóli kiadásáról.
+(5)[^13] A minisztériummal munkavégzésre irányuló jogviszonyban álló jogvédelmi képviselő a nyilvántartott adataiban bekövetkezett változást köteles harminc napon belül a Szolgálatnak bejelenteni, amely a változást a nyilvántartáson átvezeti, és szükség szerint gondoskodik a (2) bekezdés szerinti igazolvány újbóli kiadásáról.
 
-[^12]: A 15. § (5) bekezdése az 507/2017. (XII. 29.) Korm. rendelet 53. §-ával megállapított szöveg.
+[^13]: A 15. § (5) bekezdése az 507/2017. (XII. 29.) Korm. rendelet 53. §-ával megállapított szöveg.
