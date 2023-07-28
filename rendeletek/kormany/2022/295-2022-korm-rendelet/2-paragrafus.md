@@ -8,6 +8,8 @@ a) a gyógyászati segédeszközök társadalombiztosítási támogatásba tört
 
 b) az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet 48/A. §-a, illetve 48/B. §-a szerinti, a jogosult kérelmében megjelölt egészségügyi szolgáltató által kihelyezésre került otthoni tartós gépi lélegeztetést biztosító lélegeztető gép,
 
+c)[^3] az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló 9/1993. (IV. 2.) NM rendelet 11. számú mellékletében foglalt táblázat 88600 kódszámú, „Peritoneális dialízis” elnevezésű dializáló eljárás végzéséhez szükséges, a művese ellátás keretében térítésmentesen biztosított automatizált peritoneális dialízis (APD) készülék,
+
 2. háztartás: a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 4. § (1) bekezdés f) pontja szerinti háztartás,
 
 3. jogosult: olyan egyetemes szolgáltatás keretében vételező lakossági fogyasztó, aki vagy akivel egy háztartásban élő személy gyógyászati segédeszközt napi rendszerességgel használ,
@@ -15,3 +17,4 @@ b) az egészségügyi szolgáltatások Egészségbiztosítási Alapból történ
 4. kedvezmény: a jogosult részére az e rendelet szerint határozatban megállapított, az egyes egyetemes szolgáltatási árszabások meghatározásáról szóló 259/2022. (VII. 21.) Korm. rendelet 2. § (1) bekezdésében meghatározott mennyiségen felül biztosított villamosenergia-mennyiség.
 
 [^2]: A 2. § 1. pontja az 599/2022. (XII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § 1. pont c) alpontját a 348/2023. (VII. 27.) Korm. rendelet 1. §-a iktatta be.
