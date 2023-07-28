@@ -1,0 +1,1 @@
+20. § Hatályát veszti a megváltozott munkaképességű munkavállalókat foglalkoztató munkáltatók akkreditációjáról, valamint a megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtható költségvetési támogatásokról szóló 327/2012. (XI. 16.) Korm. rendelet 12. § (2) bekezdés e) pontja.

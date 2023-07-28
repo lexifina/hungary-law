@@ -1,0 +1,1 @@
+5. § Hatályát veszti a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló 63/2006. (III. 27.) Korm. rendelet 17/B. § (2) és (3) bekezdése.

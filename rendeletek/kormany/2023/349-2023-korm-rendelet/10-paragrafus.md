@@ -1,0 +1,1 @@
+10. § Hatályát veszti a megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárási szabályokról szóló 327/2011. (XII. 29.) Korm. rendelet 14. § (1a) bekezdés a) pontjában az „– a felülvizsgálat alapján hozott döntés kivételével –” szövegrész.

@@ -1,0 +1,3 @@
+## 4. A fogyatékos személyek alapvizsgálatáról, a rehabilitációs alkalmassági vizsgálatról, továbbá a szociális intézményekben ellátott személyek állapotának felülvizsgálatáról szóló 92/2008. (IV. 23.) Korm. rendelet módosítása
+
+6. § A fogyatékos személyek alapvizsgálatáról, a rehabilitációs alkalmassági vizsgálatról, továbbá a szociális intézményekben ellátott személyek állapotának felülvizsgálatáról szóló 92/2008. (IV. 23.) Korm. rendelet 1. § (3) bekezdés c) pontjában az „általános szociális munkás, szociális munkás” szövegrész helyébe az „általános szociális munkás, szociális munkás, diakónus szakképzettséggel rendelkező személy” szöveg lép.
