@@ -1,3 +1,3 @@
-## 11. §[^45]
+12. §[^47]
 
-[^45]: A 11. §-t a 174/2009. (VIII. 29.) Korm. rendelet 36. § (1) bekezdésének cg) alpontja hatályon kívül helyezte. E módosító rendelet 35. § (14) bekezdése alapján a rendelkezést a folyamatban lévő vizsgálatokra is alkalmazni kell.
+[^47]: A 12. §-t és a megelőző alcímet a 381/2017. (XII. 11.) Korm. rendelet 11. § e) pontja hatályon kívül helyezte.

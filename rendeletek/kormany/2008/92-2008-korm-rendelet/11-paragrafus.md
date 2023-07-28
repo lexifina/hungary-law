@@ -1,3 +1,3 @@
-## 10. §[^44]
+11. §[^46]
 
-[^44]: A 10. §-t és az azt megelőző alcímet a 448/2016. (XII. 19.) Korm. rendelet 28. § m) pontja hatályon kívül helyezte.
+[^46]: A 11. §-t a 174/2009. (VIII. 29.) Korm. rendelet 36. § (1) bekezdésének cg) alpontja hatályon kívül helyezte. E módosító rendelet 35. § (14) bekezdése alapján a rendelkezést a folyamatban lévő vizsgálatokra is alkalmazni kell.

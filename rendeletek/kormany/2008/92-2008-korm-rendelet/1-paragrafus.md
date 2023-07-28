@@ -10,11 +10,12 @@ a) ellátott: az a személy, akinek intézményi elhelyezéséről az intézmén
 
 b)[^3]
 
-c) szociális szakértő: – elsősorban az Országos Szociálpolitikai Szakértői Névjegyzékben szereplő – általános szociális munkás, szociális munkás, szociálpolitikus, szociálpedagógus és szociális szervező,
+c)[^4] szociális szakértő: – elsősorban az Országos Szociálpolitikai Szakértői Névjegyzékben szereplő – általános szociális munkás, szociális munkás, diakónus szakképzettséggel rendelkező személy, szociálpolitikus, szociálpedagógus és szociális szervező,
 
-d)[^4]
+d)[^5]
 
 [^1]: Az 1. §-t megelőző alcím a 381/2017. (XII. 11.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^2]: Az 1. § (1) bekezdését a 381/2017. (XII. 11.) Korm. rendelet 11. § a) pontja hatályon kívül helyezte.
 [^3]: Az 1. § (3) bekezdés b) pontját a 448/2016. (XII. 19.) Korm. rendelet 28. § b) pontja hatályon kívül helyezte.
-[^4]: Az 1. § (3) bekezdés d) pontját a 448/2016. (XII. 19.) Korm. rendelet 28. § c) pontja hatályon kívül helyezte.
+[^4]: Az 1. § (3) bekezdés c) pontja a 349/2023. (VII. 27.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^5]: Az 1. § (3) bekezdés d) pontját a 448/2016. (XII. 19.) Korm. rendelet 28. § c) pontja hatályon kívül helyezte.
