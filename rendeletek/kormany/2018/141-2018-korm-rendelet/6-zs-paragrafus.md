@@ -1,4 +1,4 @@
-6/ZS. §[^114] (1) A 2. mellékletben foglalt táblázat 85. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:85 mezőjében megjelölt telkekre és az azokból telekalakítással kialakításra kerülő telkekre a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
+6/ZS. §[^124] (1) A 2. mellékletben foglalt táblázat 85. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:85 mezőjében megjelölt telkekre és az azokból telekalakítással kialakításra kerülő telkekre a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési tervek és az OTÉK előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -20,4 +20,4 @@ d) a kialakítható telek megengedett legkisebb területe 5000 m2.
 
 (5) A (4) bekezdés szerint engedélyezett ütemre használatbavételre irányuló eljárást nem kell lefolytatni, annak elkészültét és megfelelőségét az építmény használatbavételére irányuló kérelem elbírálása során kell igazolni.
 
-[^114]: A 6/ZS. §-t a 16/2022. (I. 20.) Korm. rendelet 7. §-a iktatta be.
+[^124]: A 6/ZS. §-t a 16/2022. (I. 20.) Korm. rendelet 7. §-a iktatta be.

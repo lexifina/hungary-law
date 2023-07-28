@@ -1,4 +1,4 @@
-## 105. §[^306] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 242/2022. (VII. 1.) Korm. rendelettel (a továbbiakban: Módr97.) módosított 3. § (3) bekezdését és megállapított 2. mellékletében foglalt táblázat 103. sorát a Módr97. hatálybalépésekor[^307] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 105. §[^316] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 242/2022. (VII. 1.) Korm. rendelettel (a továbbiakban: Módr97.) módosított 3. § (3) bekezdését és megállapított 2. mellékletében foglalt táblázat 103. sorát a Módr97. hatálybalépésekor[^317] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^306]: A 105. §-t a 242/2022. (VII. 1.) Korm. rendelet 1. §-a iktatta be.
-[^307]: A hatálybalépés időpontja 2022. július 2.
+[^316]: A 105. §-t a 242/2022. (VII. 1.) Korm. rendelet 1. §-a iktatta be.
+[^317]: A hatálybalépés időpontja 2022. július 2.

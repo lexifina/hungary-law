@@ -1,4 +1,4 @@
-## 53. §[^203] E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelettel (a továbbiakban: Módr45.) megállapított 2. mellékletben foglalt táblázat 60. sorát a Módr45. hatálybalépésekor[^204] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 53. §[^213] E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelettel (a továbbiakban: Módr45.) megállapított 2. mellékletben foglalt táblázat 60. sorát a Módr45. hatálybalépésekor[^214] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^203]: Az 53. §-t a 83/2021. (II. 23.) Korm. rendelet 11. §-a iktatta be.
-[^204]: A hatálybalépés időpontja 2021. február 24.
+[^213]: Az 53. §-t a 83/2021. (II. 23.) Korm. rendelet 11. §-a iktatta be.
+[^214]: A hatálybalépés időpontja 2021. február 24.
