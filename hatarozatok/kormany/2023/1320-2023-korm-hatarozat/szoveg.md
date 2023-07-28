@@ -14,4 +14,6 @@ A Kormány
 
 | Határidő: | folyamatos |
 
-4. visszavonja az Egyetemes Postaegyesület (Universal Postal Union) Kongresszusain való magyar részvételről szóló 1392/2018. (VIII. 13.) Korm. határozatot.
+4.[^1]
+
+[^1]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
