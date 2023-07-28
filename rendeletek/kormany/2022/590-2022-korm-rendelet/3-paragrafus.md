@@ -54,7 +54,7 @@
 
 26. támogató: az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 48. § (3) bekezdése szerinti személy,
 
-27. technikai segítségnyújtás: a 4/2011. (I. 28.) Korm. rendeletben, a 121/2021. (III. 10.) Korm. rendeletben, az 563/2022. (XII. 23.) Korm. rendeletben és a 272/2014. (XI. 5.) Korm. rendeletben meghatározott forrás,
+27.[^4] technikai segítségnyújtás: a 4/2011. (I. 28.) Korm. rendeletben, a 121/2021. (III. 10.) Korm. rendeletben, és a 272/2014. (XI. 5.) Korm. rendeletben meghatározott forrás,
 
 28. technikai támogatás: a Svájci–Magyar Együttműködési Program II. időszak tekintetében az 563/2022. (XII. 23.) Korm. rendelet 2. § (1) bekezdés 49. pontjában meghatározott forrás,
 
@@ -63,3 +63,4 @@
 [^1]: A 3. § 9. pontja a 339/2023. (VII. 25.) Korm. rendelet 45. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
 [^2]: A 3. § 10. pontja a 339/2023. (VII. 25.) Korm. rendelet 56. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
 [^3]: A 3. § 25. pontja a 339/2023. (VII. 25.) Korm. rendelet 45. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
+[^4]: A 3. § 27. pontja a 346/2023. (VII. 27.) Korm. rendelet 18. §-a szerint módosított szöveg.

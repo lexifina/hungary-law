@@ -4,7 +4,7 @@ a) az európai uniós forrásból finanszírozott jövedelemtermelő projektek e
 
 b) részben vagy egészben európai uniós forrás terhére jóváhagyott programok, projektek Európai Bizottság felé el nem számolható, le nem vonható általános forgalmi adó összegének kiegyenlítésére,
 
-c)[^4] az uniós támogatásnak
+c)[^5] az uniós támogatásnak
 
 ca) a 2014–2020 programozási időszakban az Európai Regionális Fejlesztési Alap és az Előcsatlakozási Támogatási Eszköz pénzügyi alapok egyes, határon átnyúló együttműködéshez kapcsolódó programjai esetében az Európai Területi Együttműködés (2014–2020) előirányzatból történő – a 126/2016. (VI. 7.) Korm. rendelet szerinti –,
 
@@ -24,7 +24,7 @@ db) a Helyreállítási és Ellenállóképességi Eszköz (RRF) előirányzat t
 
 esetén az európai uniós forrást nyújtó szerv felé elszámolhatóvá válik,
 
-e)[^5] az EGT és Norvég Finanszírozási Mechanizmusok 2014–2021 előirányzat tekintetében az EGT Finanszírozási Mechanizmus és Norvég Finanszírozási Mechanizmus 2014–2021-es időszakának előkészítéséhez kapcsolódóan, a Nemzeti Kapcsolattartónál és a program operátoroknál felmerülő költség finanszírozására, továbbá a Svájci–Magyar Együttműködési Program II. előirányzat tekintetében a Svájci–Magyar Együttműködési Program II. időszakával összefüggésben, a Keretmegállapodás végleges hatálybalépését követő ötödik napig, a Nemzeti Irányító Hatóság által ellátandó feladatokat és a közreműködő szervezeti feladatokat érintő, az előkészítési feladatok során felmerülő költség, valamint azon kiadás finanszírozására, amely a támogatási intézkedések elfogadása esetén a Svájci Államszövetség felé elszámolhatóvá válik,
+e)[^6] az EGT és Norvég Finanszírozási Mechanizmusok 2014–2021 előirányzat tekintetében az EGT Finanszírozási Mechanizmus és Norvég Finanszírozási Mechanizmus 2014–2021-es időszakának előkészítéséhez kapcsolódóan, a Nemzeti Kapcsolattartónál és a program operátoroknál felmerülő költség finanszírozására, továbbá a Svájci–Magyar Együttműködési Program II. előirányzat tekintetében a Svájci–Magyar Együttműködési Program II. időszakával összefüggésben, a Keretmegállapodás végleges hatálybalépését követő ötödik napig, a Nemzeti Irányító Hatóság által ellátandó feladatokat és a közreműködő szervezeti feladatokat érintő, az előkészítési feladatok során felmerülő költség, valamint azon kiadás finanszírozására, amely a támogatási intézkedések elfogadása esetén a Svájci Államszövetség felé elszámolhatóvá válik,
 
 f) a részben európai uniós forrás terhére jóváhagyott programok, projektek európai uniós forrást nyújtó szerv felé el nem számolható kiadásainak finanszírozására,
 
@@ -36,7 +36,7 @@ i) a Helyreállítási és Ellenállóképességi Eszköz (RRF) előirányzat te
 
 j) a 15. § (6) bekezdése szerinti esetben,
 
-k)[^6] a 126/2016. (VI. 7.) Korm. rendelet 4. § (9) bekezdésében, a 83/2018. (IV. 20.) Korm. rendelet 24. §-ában, valamint a 241/2023. (VI. 20.) Korm. rendelet 5. § (1) bekezdés d) pontjában és 14. §-ában meghatározott esetekben,
+k)[^7] a 126/2016. (VI. 7.) Korm. rendelet 4. § (9) bekezdésében, a 83/2018. (IV. 20.) Korm. rendelet 24. §-ában, valamint a 241/2023. (VI. 20.) Korm. rendelet 5. § (1) bekezdés d) pontjában és 14. §-ában meghatározott esetekben,
 
 l) az Ávr. 172/A. § (2)–(4) bekezdése szerint keletkezett – a Kincstár által megállapított – befizetési kötelezettség kiegyenlítésére a fejezetet irányító szerv vezetőjének döntése szerinti arányosított összegben azon előirányzatokat terhelően, amelyek kapcsán keletkezett,
 
@@ -44,7 +44,7 @@ m) ha a kedvezményezettnek fel nem róható okból a támogatási szerződés v
 
 n) ha a kedvezményezett által nem befolyásolható olyan körülmény merül fel, amely az európai uniós forrásból finanszírozott projekt végrehajtásához nélkülözhetetlen, a 272/2014. (XI. 5.) Korm. rendelet 87. § (1) bekezdés c) pontja vagy a 256/2021. (V. 18.) Korm. rendelet 168. §-a szerinti költségnövekménynek nem minősülő kiadást keletkeztet.
 
-(2)[^7] Az előirányzatoknak az (1) bekezdés f)–l) pontja szerinti felhasználásáról a fejezetet irányító szerv vezetője dönt. Ha az előirányzat-felhasználás összege az (1) bekezdés f)–l) pontja szerinti esetben projektenként eléri az ötvenmillió forintot, vagy a 126/2016. (VI. 7.) Korm. rendelet 1. §-a, a 83/2018. (IV. 20.) Korm. rendelet 1. § (1) bekezdése és a 241/2023. (VI. 20.) Korm. rendelet 1. § (1) bekezdése szerinti program esetében a százötvenezer eurót, annak felhasználásához – az (5) bekezdés szerinti eset kivételével – az államháztartásért felelős miniszter jóváhagyása szükséges.
+(2)[^8] Az előirányzatoknak az (1) bekezdés f)–l) pontja szerinti felhasználásáról a fejezetet irányító szerv vezetője dönt. Ha az előirányzat-felhasználás összege az (1) bekezdés f)–l) pontja szerinti esetben projektenként eléri az ötvenmillió forintot, vagy a 126/2016. (VI. 7.) Korm. rendelet 1. §-a, a 83/2018. (IV. 20.) Korm. rendelet 1. § (1) bekezdése és a 241/2023. (VI. 20.) Korm. rendelet 1. § (1) bekezdése szerinti program esetében a százötvenezer eurót, annak felhasználásához – az (5) bekezdés szerinti eset kivételével – az államháztartásért felelős miniszter jóváhagyása szükséges.
 
 (3) Az előirányzatoknak az (1) bekezdés m) és n) pontja szerinti felhasználásáról a Kormány egyedi ügyben hozott határozatban dönt.
 
@@ -58,7 +58,7 @@ szerinti költségnövekménynek minősülő kiadás finanszírozásához szüks
 
 (5) A Helyreállítási és Ellenállóképességi Eszköz (RRF) előirányzat terhére megvalósuló projektek esetében az Európai Bizottság felé el nem számolható, a 373/2022. (IX. 30.) Korm. rendelet 2. § 6. pontjában meghatározott Helyreállítási és Ellenállóképességi Terv Európai Bizottság felé elszámolható összköltségének legfeljebb 5%-át kitevő kiadások erejéig az (1) bekezdés f) pontja szerinti előirányzat-felhasználáshoz az államháztartásért felelős miniszter jóváhagyása nem szükséges.
 
-[^4]: A 9. § (1) bekezdés c) pontja a 339/2023. (VII. 25.) Korm. rendelet 46. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
-[^5]: A 9. § (1) bekezdés e) pontja a 339/2023. (VII. 25.) Korm. rendelet 56. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
-[^6]: A 9. § (1) bekezdés k) pontja a 339/2023. (VII. 25.) Korm. rendelet 46. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
-[^7]: A 9. § (2) bekezdése a 339/2023. (VII. 25.) Korm. rendelet 46. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
+[^5]: A 9. § (1) bekezdés c) pontja a 339/2023. (VII. 25.) Korm. rendelet 46. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
+[^6]: A 9. § (1) bekezdés e) pontja a 339/2023. (VII. 25.) Korm. rendelet 56. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
+[^7]: A 9. § (1) bekezdés k) pontja a 339/2023. (VII. 25.) Korm. rendelet 46. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
+[^8]: A 9. § (2) bekezdése a 339/2023. (VII. 25.) Korm. rendelet 46. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.

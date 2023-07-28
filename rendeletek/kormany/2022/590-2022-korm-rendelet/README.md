@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-590-20-
 | 2023-01-01 | 2022-590-20-22.1 | 590/2022. (XII. 28.) Korm. rendelet |
 | 2023-01-02 | 2022-590-20-22.2 | 2010. évi CXXX. törvény |
 | 2023-07-26 | 2022-590-20-22.3 | 339/2023. (VII. 25.) Korm. rendelet |
+| 2023-07-28 | 2022-590-20-22.4 | 346/2023. (VII. 27.) Korm. rendelet |
