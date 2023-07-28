@@ -16,4 +16,6 @@
 
 (8) A helyi nemzetiségi önkormányzati bizottság elnöke, tagja esetében a tiszteletdíj nem lehet magasabb a nemzetiségi önkormányzat elnöke tiszteletdíjának ötven százalékánál.
 
-(9) A helyi nemzetiségi önkormányzati képviselő tiszteletdíja nem lehet magasabb a nemzetiségi önkormányzat elnöke tiszteletdíjának harminc százalékánál.
+(9) A helyi nemzetiségi önkormányzati képviselő tiszteletdíja, természetbeni juttatása nem lehet magasabb a helyi nemzetiségi önkormányzat elnöke tiszteletdíjának, természetbeni juttatásának 30 százalékánál.
+
+(10) Az e törvényben meghatározott kötelezettségeit megszegő nemzetiségi önkormányzati képviselő tiszteletdíját, természetbeni juttatását a képviselő-testület, illetve a közgyűlés – a szervezeti és működési szabályzatában meghatározottak alapján – legfeljebb tizenkét havi időtartamra csökkentheti, vagy megvonhatja. Ismételt kötelezettségszegés esetén a csökkentés vagy a megvonás újra megállapítható.
