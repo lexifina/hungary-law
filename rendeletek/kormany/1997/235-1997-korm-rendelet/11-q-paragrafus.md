@@ -1,4 +1,4 @@
-11/Q. § (1)[^95] A fővárosi, vármegyei gyermekvédelmi szakértői bizottság vezetője a GYVR bizottsági alrendszerében a gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló 149/1997. (IX. 10.) Korm. rendelet (a továbbiakban: Gyer.) 103. § (4) bekezdésében meghatározott időpontra véglegesíti a TESZ-1 elkészítéséhez szükséges szakmai véleményt.
+11/Q. § (1)[^99] A fővárosi, vármegyei gyermekvédelmi szakértői bizottság vezetője a GYVR bizottsági alrendszerében a gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló 149/1997. (IX. 10.) Korm. rendelet (a továbbiakban: Gyer.) 103. § (4) bekezdésében meghatározott időpontra véglegesíti a TESZ-1 elkészítéséhez szükséges szakmai véleményt.
 
 (2) A területi gyermekvédelmi szakszolgálat elhelyezési feladatot ellátó szervezeti egységének vezetője a TESZ-1 elkészítését a GYVR tervező és értékelő alrendszerében a Gyer. 103. § (10) bekezdésében meghatározott időpontra véglegesíti.
 
@@ -48,4 +48,4 @@ c) önkéntes utánkövetés esetén a kapcsolat felvételét követő tíz munk
 
 (13) Az örökbefogadói tanfolyam szervezője az örökbefogadói tanfolyam adatait a tanfolyam indítását megelőzően legalább harminc nappal rögzíti a GYVR örökbefogadási alrendszerében.
 
-[^95]: A 11/Q. § (1) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 26. §-a szerint módosított szöveg.
+[^99]: A 11/Q. § (1) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 26. §-a szerint módosított szöveg.
