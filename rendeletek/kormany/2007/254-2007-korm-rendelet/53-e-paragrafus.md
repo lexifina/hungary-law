@@ -1,4 +1,4 @@
-53/E. § (1)[^302] A központi költésvetési szerv kizárólag az MNV Zrt. előzetes egyetértésével indíthat eljárást és köthet saját maga vagy más központi költségvetési szerv javára elhelyezési célú vagy rekreációs célú ingatlanra vonatkozó használati jogosultságot eredményező megállapodást, ha
+53/E. § (1)[^304] A központi költésvetési szerv kizárólag az MNV Zrt. előzetes egyetértésével indíthat eljárást és köthet saját maga vagy más központi költségvetési szerv javára elhelyezési célú vagy rekreációs célú ingatlanra vonatkozó használati jogosultságot eredményező megállapodást, ha
 
 a) a használati jogosultság hatvan napot meg nem haladó időtartamra szól,
 
@@ -10,4 +10,4 @@ c) a használati jogosultság részben vagy egészben hazai vagy európai uniós
 
 (3) A központi költségvetési szerv által kötött, (1) bekezdés szerinti használati jogosultságot eredményező megállapodásból fakadó, azzal összefüggő költségeket a központi költségvetési szerv az MNV Zrt.-re nem háríthatja át.
 
-[^302]: Az 53/E. § (1) bekezdése a 467/2020. (X. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^304]: Az 53/E. § (1) bekezdése a 467/2020. (X. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
