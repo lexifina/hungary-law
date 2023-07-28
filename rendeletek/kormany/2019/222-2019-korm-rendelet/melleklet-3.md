@@ -312,9 +312,7 @@
 
 ## - jogtudomány 2-8 kredit.
 
-## 8.2. Idegennyelvi követelmény
-
-## Az alapfokozat megszerzéséhez az Európai Unióban hivatalos idegen nyelvek egyikéből, ukrán vagy szerb nyelvből államilag elismert, legalább középfokú (B2) komplex típusú nyelvvizsga-bizonyítvány vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
+## 8.2.
 
 ## 8.3. A szakmai gyakorlat követelményei
 
@@ -802,9 +800,7 @@
 
 ## - speciális rendészeti ismeretek 10-15 kredit.
 
-## 8.2. Idegennyelvi követelmény
-
-## Az alapfokozat megszerzéséhez az Európai Unióban hivatalos nyelvek egyikéből, ukrán, szerb, beás, lovári, orosz vagy kínai nyelvből államilag elismert, középfokú (B2) komplex típusú nyelvvizsga-bizonyítvány vagy ezzel egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
+## 8.2.
 
 ## 8.3. A szakmai gyakorlatra vonatkozó követelmények
 
@@ -1302,9 +1298,7 @@
 
 ## - speciális rendészeti ismeretek 10-15 kredit.
 
-## 8.2. Idegennyelvi követelmény
-
-## Az alapfokozat megszerzéséhez az Európai Unióban hivatalos nyelvek egyikéből, ukrán, szerb, beás, lovári, orosz vagy kínai nyelvből államilag elismert, legalább középfokú (B2) komplex típusú nyelvvizsga-bizonyítvány vagy ezzel egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
+## 8.2.
 
 ## 8.3. A szakmai gyakorlat követelményei
 
@@ -2176,9 +2170,7 @@
 
 ## - gazdasági és külkereskedelmi ismeretek 5-15 kredit.
 
-## 8.2. Idegennyelvi követelmény
-
-## Az alapfokozat megszerzéséhez az Európai Unióban hivatalos nyelvek egyikéből, ukrán, szerb, beás, lovári, orosz vagy kínai nyelvből államilag elismert, legalább középfokú (B2) komplex típusú nyelvvizsga-bizonyítvány vagy ezzel egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
+## 8.2.
 
 ## 8.3. A szakmai gyakorlat követelményei
 
@@ -2850,9 +2842,7 @@
 
 ## – gazdasági és külkereskedelmi ismeretek. 10-20 kredit.
 
-## 8.2. Idegennyelvi követelmény
-
-## Az alapfokozat megszerzéséhez az Európai Unióban hivatalos nyelvek egyikéből, ukrán, szerb, beás, lovári, orosz vagy kínai nyelvből államilag elismert, legalább középfokú (B2) komplex típusú nyelvvizsga-bizonyítvány vagy ezzel egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
+## 8.2.
 
 ## 8.3. A szakmai gyakorlat követelményei
 
@@ -3118,9 +3108,7 @@
 
 ## - tűzvédelmi szakmaspecifikus szakterület (tűzvédelmi szakismeret, tűzoltási és katasztrófa-elhárítási technikai ismeretek) 9-11 kredit.
 
-## 8.2. Idegennyelvi követelmény
-
-## Az alapfokozat megszerzéséhez az Európai Unióban hivatalos idegen nyelvek egyikéből, ukrán, szerb, beás, lovári, orosz vagy kínai nyelvből államilag elismert, legalább középfokú (B2) komplex típusú nyelvvizsga vagy ezzel egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges. Ettől eltérően az alapfokozat megszerzéséhez a külföldi, azaz magyar állampolgársággal nem rendelkező személyek esetében az alapfokozat megszerzéséhez egy élő idegen nyelvből államilag elismert, legalább középfokú (B2) komplex típusú nyelvvizsga vagy ezzel egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
+## 8.2.
 
 ## 8.3. A szakmai gyakorlat követelményei
 
@@ -3374,9 +3362,7 @@
 
 ## - terrorelhárítási ismeretek 30-40 kredit.
 
-## 8.2. Idegennyelvi követelmény
-
-## Az alapfokozat megszerzéséhez egy élő idegen nyelvből államilag elismert, legalább középfokú (B2) komplex típusú nyelvvizsga vagy ezzel egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
+## 8.2.
 
 ## 8.3. A szakmai gyakorlat követelményei
 
@@ -3512,9 +3498,7 @@
 
 ## − hadtudomány [titkosszolgálatok története, idegen titkosszolgálatok, nemzetbiztonsági szakismeretek, harcászati hírszerzés (HUMINT) és technikai adatszerzési ismeretek, katonai hírszerzési- és elhárítási ismeretek, információk elemzése, értékelése és védelme].
 
-## 8.2. Idegennyelvi követelmény
-
-## Az alapfokozat megszerzéséhez az Európai Unió hivatalos nyelvéből vagy valamely nem Európai Unió tag szomszéd ország nyelvéből vagy a következő nyelvek egyikéből államilag elismert, legalább középfokú (B2) komplex típusú nyelvvizsga bizonyítvány vagy ezzel egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges: arab, japán, kínai, orosz, perzsa, török nyelv.
+## 8.2.
 
 ## 8.3. A szakmai gyakorlat követelményei
 
@@ -4198,13 +4182,13 @@
 
 ## – légierő hadművelet-elméleti ismeretek.
 
-## 8.2. Idegennyelvi követelmény
-
-## Az alapfokozat megszerzéséhez angol nyelvből államilag elismert STANAG 6001., 2.2.2.2. szintű nyelvvizsga-bizonyítvány szükséges.
+## 8.2.
 
 ## 8.3. A szakmai gyakorlat követelményei
 
 ## Az intézményen kívül teljesítendő egybefüggő szakmai gyakorlat legalább négy hét időtartamú. A szakmai gyakorlat kritériumkövetelmény. A szakmai gyakorlat teljesítésének részletes követelményeit a szak tanterve határozza meg.
+
+## 8.4. A képzést megkülönböztető speciális jegyek: Az alapképzésben a szakképzettséghez angol nyelvből középszintű STANAG katonai szaknyelvi tudást kell elérni.
 
 ## 10. KATONAI GAZDÁLKODÁSI ALAPKÉPZÉSI SZAK
 
@@ -4490,13 +4474,13 @@
 
 ## - katonai pénzügyi speciális szakmai ismeretek (katonai pénzügyi ellátás, közpénzügyek, pénzügyi-gazdasági elemzés-ellenőrzés, katonai pénzügyi informatika).
 
-## 8.2. Idegennyelvi követelmények
-
-## Az alapfokozat megszerzéséhez angol nyelvből államilag elismert STANAG 6001., 2.2.2.2. szintű nyelvvizsga-bizonyítvány szükséges.
+## 8.2.
 
 ## 8.3. A szakmai gyakorlat követelményei
 
 ## Az intézményen kívül teljesítendő egybefüggő szakmai gyakorlat legalább négy hét időtartamú. A szakmai gyakorlat kritériumkövetelmény. A szakmai gyakorlat teljesítésének részletes követelményeit a szak tanterve határozza meg.
+
+## 8.4. A képzést megkülönböztető speciális jegyek: Az alapképzésben a szakképzettséghez angol nyelvből középszintű STANAG katonai szaknyelvi tudást kell elérni.
 
 ## 11. KATONAI INFOKOMMUNIKÁCIÓ ALAPKÉPZÉSI SZAK
 
@@ -4866,13 +4850,13 @@
 
 ## – szakmai elektronikai ismeretek, szaktechnikai berendezések és rendszertan ismeretek, szakharcászati ismeretek.
 
-## 8.2. Idegennyelvi követelmény
-
-## Az alapfokozat megszerzéséhez angol nyelvből államilag elismert STANAG 6001. 2.2.2.2. szintű nyelvvizsga-bizonyítvány szükséges.
+## 8.2.
 
 ## 8.3. A szakmai gyakorlat követelményei
 
 ## Az intézményen kívül teljesítendő egybefüggő szakmai gyakorlat legalább négy hét időtartamú. A szakmai gyakorlat kritériumkövetelmény. A szakmai gyakorlat teljesítésének részletes követelményeit a szak tanterve határozza meg.
+
+## 8.4. A képzést megkülönböztető speciális jegyek: Az alapképzésben a szakképzettséghez angol nyelvből középszintű STANAG katonai szaknyelvi tudást kell elérni.
 
 ## 12. KATONAI LOGISZTIKA ALAPKÉPZÉSI SZAK
 
@@ -5372,13 +5356,13 @@
 
 ## - fegyverzettechnikai eszközök technikai ellenőrzése és javítása.
 
-## 8.2. Idegennyelvi követelmény
-
-## Az alapfokozat megszerzéséhez angol nyelvből államilag elismert STANAG 6001., 2.2.2.2. szintű nyelvvizsga-bizonyítvány szükséges.
+## 8.2.
 
 ## 8.3. A szakmai gyakorlat követelményei
 
 ## Az intézményen kívül teljesítendő egybefüggő szakmai gyakorlat legalább négy hét időtartamú. A szakmai gyakorlat kritériumkövetelmény. A szakmai gyakorlat teljesítésének részletes követelményeit a szak tanterve határozza meg.
+
+## 8.4. A képzést megkülönböztető speciális jegyek: Az alapképzésben a szakképzettséghez angol nyelvből középszintű STANAG katonai szaknyelvi tudást kell elérni.
 
 ## 13. ÁLLAMI LÉGIKÖZLEKEDÉSI ALAPKÉPZÉSI SZAK
 
@@ -5782,13 +5766,13 @@
 
 ## - repülő gépészeti és avionikai szakmai ismeretek, légijármű rendszerismeretek, légijármű üzemeltetési ismeretek 46-58 kredit.
 
-## 8.2. Idegennyelvi követelmény
-
-## Az alapfokozat megszerzéséhez angol nyelvből államilag elismert STANAG 6001., 2.2.2.2. szintű nyelvvizsga-bizonyítvány szükséges. Az állami légijármű vezető és a katonai repülésirányító szakirányon végzettek minimum ICAO LEVEL 4 vizsgával kell, hogy rendelkezzenek.
+## 8.2.
 
 ## 8.3. A szakmai gyakorlat követelményei
 
 ## Az intézményen kívül teljesítendő egybefüggő szakmai gyakorlat legalább négy hét időtartamú. A szakmai gyakorlat kritériumkövetelmény. A szakmai gyakorlat részletes követelményeit a szak tanterve határozza meg.
+
+## 8.4. A képzést megkülönböztető speciális jegyek: Az alapképzésben a szakképzettséghez angol nyelvből középszintű STANAG katonai szaknyelvi tudást kell elérni. Az állami légijármű-vezető és a katonai repülésirányító szakirányon a szakképzettséghez továbbá angol nyelvből legalább négyes szintű ICAO repülés-szakmai szaknyelvi tudást kell elérni.
 
 ## 14. NEMZETKÖZI IGAZGATÁSI ALAPKÉPZÉSI SZAK
 
@@ -5928,9 +5912,7 @@
 
 ## - műszaki tudományok 2-4 kredit.
 
-## 8.2. Idegennyelvi követelmény
-
-## Az alapfokozat megszerzéséhez két élő idegen nyelvből, amelyek egyike az angol nyelv, államilag elismert, legalább középfokú (B2) komplex típusú nyelvvizsga-bizonyítvány, vagy angol nyelvből államilag elismert felsőfokú (C1) komplex típusú nyelvvizsga-bizonyítvány vagy ezekkel egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
+## 8.2.
 
 ## 8.3. A szakmai gyakorlat követelményei
 
@@ -6074,16 +6056,14 @@
 
 ## - műszaki tudományok 2-4 kredit.
 
-## 8.2. Idegennyelvi követelmény
-
-## Az alapfokozat megszerzéséhez két élő idegen nyelvből − amelyből az egyik az angol nyelv − államilag elismert legalább középfokú (B2) komplex típusú nyelvvizsga-bizonyítvány vagy angol nyelvből államilag elismert felsőfokú (C1) komplex típusú nyelvvizsga-bizonyítvány vagy ezekkel egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
+## 8.2.
 
 ## 8.3. A szakmai gyakorlat követelményei
 
 ## Az abszolutórium megszerzésének feltétele legalább 200 óra szakmai gyakorlat elvégzése. A szakmai gyakorlat kritériumkövetelmény. A szakmai gyakorlat részletes követelményeit a szak tanterve határozza meg.
 
-3. melléklet a 222/2019. (IX. 25.) Korm. rendelethez[^8]
+3. melléklet a 222/2019. (IX. 25.) Korm. rendelethez[^11]
 
 MESTERKÉPZÉSEK ÉS MESTERKÉPZÉSBEN, OSZTATLAN KÉPZÉSBEN SZEREZHETŐ SZAKKÉPZETTSÉGEK JEGYZÉKE
 
-[^8]: A 3. melléklet az 544/2020. (XII. 2.) Korm. rendelet 5. §-a és 7. §-a, az 532/2022. (XII. 19.) Korm. rendelet 6. § b) pontja, az 532/2022. (XII. 19.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^11]: A 3. melléklet az 544/2020. (XII. 2.) Korm. rendelet 5. §-a és 7. §-a, az 532/2022. (XII. 19.) Korm. rendelet 6. § b) pontja, az 532/2022. (XII. 19.) Korm. rendelet 7. §-a, a 355/2023. (VII. 27.) Korm. rendelet 2. § (2) bekezdése és 3. § (2) bekezdése szerint módosított szöveg.
