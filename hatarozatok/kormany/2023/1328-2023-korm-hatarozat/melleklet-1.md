@@ -38,6 +38,8 @@
 
 | Határidő: | azonnal |
 
-## 2. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Gazdaság-újraindítási programok előirányzatból, a Beruházás Előkészítési Alapból, a Járvány Elleni Védekezés Központi Tartaléka előirányzatból, fejezetek közötti és fejezeten belüli előirányzat-átcsoportosításról, címrendi kiegészítésről, valamint kormányhatározatok módosításáról és visszavonásáról szóló 1496/2021. (VII. 23.) Korm. határozat 1. pont d) alpontjában a „2023. június 30.” szövegrész helyébe a „2024. január 31.” szöveg lép.
+## 2.[^1]
 
 1. melléklet az 1328/2023. (VII. 27.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
