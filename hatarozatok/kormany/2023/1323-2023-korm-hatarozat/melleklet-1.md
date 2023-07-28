@@ -8,13 +8,7 @@
 
 | Határidő: | azonnal |
 
-## 2. A Kormány visszavonja
-
-## a) a Karcagi Szakképzési Centrum Teleki Blanka Gimnázium, Technikum és Kollégium komplex fejlesztéséről szóló 1154/2022. (III. 21.) Korm. határozatot,
-
-## b) a Külügyi és Külgazdasági Intézet és a Magyar Diplomáciai Akadémia épület felújítás előkészítésével kapcsolatos intézkedésekről szóló 1543/2020. (VIII. 17.) Korm. határozatot, valamint
-
-## c) a Külügyi és Külgazdasági Intézet és a Magyar Diplomáciai Akadémia épülete felújításának megvalósításával kapcsolatos intézkedésekről szóló 1215/2022. (IV. 5.) Korm. határozatot.
+## 2.[^1]
 
 1. melléklet az 1323/2023. (VII. 27.) Korm. határozathoz
 
@@ -31,3 +25,5 @@
 | 5. | 1235/2021. (V. 5.) Korm. határozat | A maglódi Vermesy Péter Általános Iskola és Alapfokú Művészeti Iskola új épülete építése | 707 974 200 |
 
 |  |  | Összesen: | 4 593 217 750 |
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
