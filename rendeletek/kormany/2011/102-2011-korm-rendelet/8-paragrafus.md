@@ -16,7 +16,7 @@ a 6. § (1) bekezdés b) pontja és a 6. § (1a) bekezdés b) pontja szerinti k�
 
 a) a MEOSZ elnöke által meghatalmazott képviselő,
 
-b)[^42] a 8/A. § (1) bekezdés a) pontja szerinti szerv által felkért vagy kijelölt személy,
+b)[^42] a 8/A. § (1) bekezdése szerinti szerv által felkért vagy kijelölt személy,
 
 c) a hivatal által felkért személy.
 
@@ -32,5 +32,5 @@ b) szállítást végző személy esetén fel kell tüntetni a szállítást vé
 [^39]: A 8. § (2) bekezdése a 250/2012. (IX. 7.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^40]: A 8. § (2a) bekezdését a 61/2012. (III. 30.) Korm. rendelet 12. § 2) bekezdése iktatta be, szövege a 250/2012. (IX. 7.) Korm. rendelet 9. § g) pontja szerint módosított szöveg.
 [^41]: A 8. § (2b) bekezdését a 250/2012. (IX. 7.) Korm. rendelet 5. § (2) bekezdése iktatta be.
-[^42]: A 8. § (3) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 174. § (8) bekezdés b) pontja, a 457/2017. (XII. 28.) Korm. rendelet 325. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^42]: A 8. § (3) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 174. § (8) bekezdés b) pontja, a 457/2017. (XII. 28.) Korm. rendelet 325. § b) pontja, a 349/2023. (VII. 27.) Korm. rendelet 8. §-a szerint módosított szöveg.
 [^43]: A 8. § (5) bekezdés a) pontját a 402/2017. (XII. 15.) Korm. rendelet 8. § b) pontja hatályon kívül helyezte.
