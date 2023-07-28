@@ -47,3 +47,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-191-20-
 | 2022-07-01 | 2008-191-20-22.45 | 82/2019. (IV. 18.) Korm. rendelet |
 | 2023-01-01 | 2008-191-20-22.46 | 629/2022. (XII. 30.) Korm. rendelet |
 | 2023-07-01 | 2008-191-20-22.47 | 629/2022. (XII. 30.) Korm. rendelet |
+| 2023-07-28 | 2008-191-20-22.48 | 349/2023. (VII. 27.) Korm. rendelet |
