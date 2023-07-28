@@ -12,10 +12,12 @@ b) a szabálytalanság meg nem történtének megállapításával,
 
 zárul.
 
-(4) Szabálytalanság megállapítása esetén a Nemzeti Irányító Hatóság az alábbi jogkövetkezményeket alkalmazhatja a szabálytalansági eljárásrendben foglaltak szerint
+(4)[^23] Szabálytalanság megállapítása esetén a Nemzeti Irányító Hatóság a szabálytalansági eljárásrendben foglaltak szerint
 
 a) eláll a támogatási szerződéstől, vagy
 
-b) kötelezi a kedvezményezettet a jogosulatlanul igénybe vett támogatás visszafizetésére.
+b) a kedvezményezett által elszámolható költséget és támogatást arányosan csökkenti, és a jogosulatlanul igénybe vett támogatás visszafizetésére kötelezi a kedvezményezettet.
 
 (5) A szabálytalanság megállapítása során a Nemzeti Irányító Hatóság dönt a pénzügyi korrekcióval érintett összeg újra felhasználhatóságáról.
+
+[^23]: A 91. § (4) bekezdése a 346/2023. (VII. 27.) Korm. rendelet 8. §-ával megállapított szöveg.

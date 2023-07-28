@@ -1,6 +1,6 @@
 ## 35. Az ellenőrzési stratégia és az ellenőrzésekről szóló jelentéstétel
 
-78. § (1) Az audit hatóság ellenőrzési stratégiát készít az együttműködési programra. Az ellenőrzési stratégia megerősíti az audit hatóság függetlenségét, ismerteti a kockázatértékelést, meghatározza az ellenőrzési módszertant. Az audit hatóság az ellenőrzési stratégiát megküldi a Nemzeti Irányító Hatóságnak véleményezésre. Az audit hatóság az ellenőrzési stratégiát a Keretmegállapodás aláírása napjától számított 9 hónapon belül jóváhagyásra benyújtja a svájci hatóságoknak. Az ellenőrzési stratégiát szükség szerint évente aktualizálja, és minden naptári év végéig benyújtja a svájci hatóságoknak, amelyet a svájci hatóságok észrevételt tehetnek.
+78. § (1)[^20] Az audit hatóság ellenőrzési stratégiát készít az együttműködési programra. Az audit hatóság az ellenőrzési stratégiát megküldi a Nemzeti Irányító Hatóságnak véleményezésre. Az audit hatóság az ellenőrzési stratégiát a Keretmegállapodás aláírása napjától számított 9 hónapon belül jóváhagyásra benyújtja a svájci hatóságoknak. Az ellenőrzési stratégiát szükség szerint évente aktualizálja, és minden naptári év végéig benyújtja a svájci hatóságoknak, amelyet a svájci hatóságok észrevételt tehetnek.
 
 (2) Az audit hatóság legkésőbb a jelentéstételi időszakot követő év március 31-ig éves auditjelentést nyújt be a svájci hatóságoknak, amely tartalmazza az ellenőrzési stratégiával összhangban elvégzett ellenőrzések megállapításait, valamint a hiányosságok orvoslására hozott intézkedéseket. Az éves auditjelentés felépítésének és tartalmának összhangban kell lennie a svájci hatóságok által meghatározott követelményekkel. Az éves auditjelentéshez csatolni kell az aláírt audit véleményt.
 
@@ -11,3 +11,5 @@
 (5) A Nemzeti Irányító Hatóság az éves programjelentésben tájékoztatást nyújt a svájci hatóságoknak a tárgyévben elvégzett valamennyi ellenőrzésről, azok főbb megállapításairól és a feltárt hiányosságokat kezelő esetleges korrekciós intézkedések végrehajtása terén elért eredményekről.
 
 (6) Az audit hatóság zárónyilatkozatot nyújt be a svájci hatóságoknak a zárójelentés benyújtásával egyidejűleg, amelyben értékeli a zárójelentésekben igényelt záróegyenleg kifizetése iránti kérelem megalapozottságát.
+
+[^20]: A 78. § (1) bekezdése a 346/2023. (VII. 27.) Korm. rendelet 17. § k) pontja szerint módosított szöveg.

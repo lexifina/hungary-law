@@ -8,7 +8,7 @@ b) a program operátor vagy a programkomponens operátor a hazai vagy a svájci 
 
 a) a kedvezményezett és a partner felelősségét és feladatait,
 
-b) a pénzügyi megállapodásokra vonatkozó rendelkezéseket, beleértve az arra vonatkozó szabályokat, hogy a partner mely költségek esetén jogosult visszatérítésre a támogatási intézkedés költségvetéséből, valamint a felmerült költségek kiszámításának és visszatérítésének módját,
+b)[^11] a pénzügyi megállapodásokra vonatkozó rendelkezéseket, beleértve az arra vonatkozó szabályokat, hogy a partner mely költségek esetén jogosult elszámolásra a támogatási intézkedés költségvetéséből, valamint a felmerült költségek elszámolhatóságának módját,
 
 c) a közvetett költségek kiszámításának módjára és azok maximális összegére vonatkozó rendelkezéseket,
 
@@ -30,4 +30,7 @@ j) a viták rendezésének módját.
 
 (4) A partnernél felmerült költségek elszámolhatóságára ugyanazok a korlátozások vonatkoznak, mint a kedvezményezettnél felmerült költségek elszámolhatóságára.
 
-(5) A svájci partnerekre nem kell alkalmazni a nemzeti társfinanszírozási kötelezettséget.
+(5)[^12]
+
+[^11]: A 37. § (2) bekezdés b) pontja a 346/2023. (VII. 27.) Korm. rendelet 16. § c) pontja szerint módosított szöveg.
+[^12]: A 37. § (5) bekezdését a 346/2023. (VII. 27.) Korm. rendelet 17. § d) pontja hatályon kívül helyezte.

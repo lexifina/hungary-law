@@ -34,11 +34,11 @@ f) kutatási tevékenységet előkészítő megvalósíthatósági tanulmányhoz
 
 11. a hátrányos helyzetű munkavállaló segítésével foglalkozó személy költségeinek ellentételezéséhez nyújtott támogatás esetén vállalkozásonként és évenként meghaladja az 5 millió eurónak megfelelő forintösszeget,
 
-12. a 61–65. és 67. alcím szerinti támogatás esetén vállalkozásonként és beruházásonként meghaladja
+12.[^31] a 61–65. és 67. alcím szerinti továbbá energiatermelő létesítményhez nyújtott, a 66. alcím szerinti támogatás esetén vállalkozásonként és beruházásonként meghaladja
 
 a 15 millió eurónak megfelelő forintösszeget,
 
-13. a 156. § szerinti támogatás esetén vállalkozásonként és beruházásonként meghaladja a 20 millió eurónak megfelelő forintösszeget,
+13.[^32] az elosztóhálózathoz nyújtott, a 66. alcím szerinti támogatás esetén vállalkozásonként és beruházásonként meghaladja a 20 millió eurónak megfelelő forintösszeget,
 
 14. energetikai célú infrastruktúrához nyújtott beruházási támogatás esetén vállalkozásonként és beruházásonként meghaladja az 50 millió eurónak megfelelő forintösszeget, és
 
@@ -47,3 +47,6 @@ a 15 millió eurónak megfelelő forintösszeget,
 16. kockázatfinanszírozási támogatás esetén végső kedvezményezettenként meghaladja a 15 millió eurónak megfelelő forintösszeget.
 
 (2) Az Atr. 18. § (2) bekezdés d) pontja szerint előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha a közszolgáltatásért járó ellentételezés mértéke meghaladja a 2012/21/EU bizottsági határozat 5. cikke szerint megállapított összeget.
+
+[^31]: A 116. § (1) bekezdés 12. pontja a 346/2023. (VII. 27.) Korm. rendelet 16. § g) pontja szerint módosított szöveg.
+[^32]: A 116. § (1) bekezdés 13. pontja a 346/2023. (VII. 27.) Korm. rendelet 16. § h) pontja szerint módosított szöveg.

@@ -20,7 +20,7 @@
 
 9. hitelesítési tevékenység: a hitelesítést végző szerv által végzett, folyamatba épített, dokumentumalapú és helyszíni ellenőrzések összessége (első szintű ellenőrzés),
 
-10. hitelesítést végző szerv: a programkomponensek, projektgazdák, hazai és svájci partnerek felmerült költségei tekintetében a közreműködő szervezet, a program operátorok, a közreműködő szervezet felmerült költségei és a technikai támogatás tekintetében a Nemzeti Irányító Hatóság,
+10.[^1] hitelesítést végző szerv: a technikai támogatás és a programmenedzsment forrás tekintetében a Nemzeti Irányító Hatóság, a támogatási intézkedések – kivéve a programmenedzsment forrás és a technikai támogatás – tekintetében a közreműködő szervezet,
 
 11. hozzájárulás: a Svájci Államszövetség által a partnerállamok részére biztosított, vissza nem térítendő pénzügyi hozzájárulás,
 
@@ -96,7 +96,7 @@ az 507/2022. (XII. 13.) Korm. rendelettel kihirdetett megállapodás, amely az e
 
 46. támogatási szerződés: a támogatási megállapodás, a végrehajtási megállapodás, továbbá egyéb támogatási jogviszonyt szabályozó szerződés,
 
-47. technikai segítségnyújtás: az együttműködési programban a Nemzeti Irányító Hatóság működését támogató pénzügyi forrás,
+47.[^2]
 
 48. technikai segítségnyújtási alap: az együttműködési program hatékony és eredményes végrehajtásához nyújtott pénzügyi forrás,
 
@@ -148,7 +148,7 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 16. energiahatékony távfűtés és távhűtés: a 651/2014/EU bizottsági rendelet 2. cikk 124. pontja szerinti távfűtés és távhűtés,
 
-17. élelmiszer: a 702/2014/EU bizottsági rendelet 2. cikk (63) bekezdése szerinti élelmiszer,
+17.[^3] élelmiszer: az (EU) 2022/2472 bizottsági rendelet 2. cikk 29. pontja szerinti élelmiszer,
 
 18. élelmiszeralapú bioüzemanyag: a 651/2014/EU bizottsági rendelet 2. cikk 113. pontja szerinti üzemanyag,
 
@@ -254,7 +254,7 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 69. tárgyi eszköz: a 651/2014/EU bizottsági rendelet 2. cikk 29. pontja szerinti eszköz,
 
-70. természeti katasztrófa: a 702/2014/EU bizottsági rendelet 2. cikk (9) bekezdése szerinti természeti jelenség,
+70.[^4] természeti katasztrófa: az (EU) 2022/2472 bizottsági rendelet 2. cikk 38. pontja szerinti természeti jelenség,
 
 71. tőzsdén nem jegyzett kis- és középvállalkozás: a 651/2014/EU bizottsági rendelet 2. cikk 76. pontja szerinti kis- és középvállalkozás,
 
@@ -271,3 +271,8 @@ a) még egyetlen piacon sem működik,
 b) az első kereskedelmi értékesítéstől számítva kevesebb, mint 7 éve működik valamely piacon, vagy
 
 c) új termék- vagy földrajzi piacra való belépés céljából készített üzleti terv alapján az előző 5 évben elért átlagos éves árbevétele 50%-át meghaladó első kockázatfinanszírozási célú befektetést igényel.
+
+[^1]: A 2. § (1) bekezdés 10. pontja a 346/2023. (VII. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § (1) bekezdés 47. pontját a 346/2023. (VII. 27.) Korm. rendelet 17. § a) pontja hatályon kívül helyezte.
+[^3]: A 2. § (2) bekezdés 17. pontja a 346/2023. (VII. 27.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § (2) bekezdés 70. pontja a 346/2023. (VII. 27.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.

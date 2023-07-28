@@ -1,12 +1,12 @@
 63. § (1) A folyamatba épített ellenőrzés részeként a hitelesítést végző szerv a hatáskörébe utalt esetek vonatkozásában kockázatelemzésen alapuló mintavételezéssel helyszíni ellenőrzést végez.
 
-(2) A közreműködő szervezet minden év október 31-ig megküldi a Nemzeti Irányító Hatóság részére a kockázatelemzésen alapuló, következő évi ellenőrzési tervét.
+(2)[^18] A közreműködő szervezet minden év október 31-ig megküldi a Nemzeti Irányító Hatóság részére a kockázatelemzésen alapuló – programok esetében a program operátor által előzetesen jóváhagyott – következő évi ellenőrzési tervét.
 
 (3) A Nemzeti Irányító Hatóság az ellenőrzési terv kézhezvételétől számított 7 munkanapon belül az ellenőrzési tervet jóváhagyja, vagy módosítási javaslatot tesz a közreműködő szervezet részére.
 
 (4) A közreműködő szervezet a módosítási javaslat kézhezvételétől számított 5 munkanapon belül megküldi a Nemzeti Irányító Hatóság részére a módosított éves ellenőrzési tervet, amelyet a Nemzeti Irányító Hatóság 5 munkanapon belül jóváhagy.
 
-(5) A közreműködő szervezet a támogatási intézkedéseket a megvalósítás során legalább két alkalommal ellenőrzi egy köztes és egy záró helyszíni ellenőrzés keretében.
+(5)[^19]
 
 (6) A Nemzeti Irányító Hatóság és a közreműködő szervezet rendkívüli helyszíni ellenőrzést is kezdeményezhet.
 
@@ -33,3 +33,6 @@ h) a támogatási intézkedés szintű elkülönített számviteli nyilvántart�
 (9) A kifizetési kérelemben szereplő bizonylatok és alátámasztó dokumentumok ellenőrzése történhet mintavételezéssel, a támogató által előzetesen jóváhagyott mintavételezési módszertan alapján.
 
 (10) A helyszíni ellenőrzésről jegyzőkönyvet kell készíteni, rögzítve az ellenőrzés eredményét, valamint szabálytalanság, és hiba gyanújának feltárása esetén a javasolt, illetve megtett intézkedéseket.
+
+[^18]: A 63. § (2) bekezdése a 346/2023. (VII. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^19]: A 63. § (5) bekezdését a 346/2023. (VII. 27.) Korm. rendelet 17. § j) pontja hatályon kívül helyezte.

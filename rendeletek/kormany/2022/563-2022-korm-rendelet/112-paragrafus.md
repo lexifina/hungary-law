@@ -4,7 +4,7 @@ a) a csekély összegű támogatás kivételével azon szervezet részére, amel
 
 b) a csekély összegű támogatás és az induló vállalkozásnak nyújtott támogatás, a természeti katasztrófa okozta kár helyreállítására nyújtott támogatás és a közszolgáltatásért járó ellentételezés kivételével nehéz helyzetben lévő vállalkozás részére, azzal, hogy az induló vállalkozásnak nyújtott támogatás és a természeti katasztrófa okozta kár helyreállítására nyújtott támogatás nyújtása során a nehéz helyzetben lévő vállalkozások nem részesíthetők a nehéz helyzetükre hivatkozással előnyben az egyéb vállalkozásokkal szemben.
 
-(2) Az (1) bekezdés b) pontjától eltérően a 49–51., 53–69., 71. és 74. alcím szerinti állami támogatás olyan vállalkozásnak is nyújtható, amely 2019. december 31-én nem volt nehéz helyzetben, de 2020. január 1. és 2021. december 31. között nehéz helyzetbe került.
+(2)[^26]
 
 (3) Nem ítélhető meg
 
@@ -24,4 +24,7 @@ e) állami támogatás, ha azt import áru helyett hazai áru használatától t
 
 f) állami támogatás olyan feltétellel, amely az európai uniós jog megsértését eredményezi, vagy
 
-g) 49-71. alcím szerinti állami támogatás a 2010/787/EU tanácsi határozat hatálya alá tartozó versenyképtelen szénbányák részére.
+g)[^27] 49–71. és 74. alcím szerinti állami támogatás a 2010/787/EU tanácsi határozat hatálya alá tartozó versenyképtelen szénbányák részére.
+
+[^26]: A 112. § (2) bekezdését a 346/2023. (VII. 27.) Korm. rendelet 17. § l) pontja hatályon kívül helyezte.
+[^27]: A 112. § (3) bekezdés g) pontja a 346/2023. (VII. 27.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.

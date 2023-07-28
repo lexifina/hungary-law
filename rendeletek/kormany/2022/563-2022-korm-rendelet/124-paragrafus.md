@@ -1,24 +1,10 @@
-124. § (1) A támogatott eszközöket a kedvezményezett beszállítói is használhatják beszállítói szerződés keretében, ha
+124. § (1)[^34]
 
-a) a beszállító támogatható településen működik, a beszerzett eszközök a kedvezményezett által megjelölt beruházási helyszínen kerülnek aktiválásra,
+(2)[^35]
 
-b) az eszközöket a beszállító a kedvezményezett beruházásának befejezésétől számított öt évig – ha a kedvezményezett kis- és középvállalkozás, akkor három évig – a kedvezményezett támogatott tevékenységéhez használja,
+(3)[^36]
 
-c) a beszállító nem részesül vagy részesült állami támogatásban az eszköz beszerzésével összefüggésben, valamint
-
-d) az eszközre nyújtott támogatás mértéke nem haladja meg a beszállító telephelyén vagy a beruházási helyszínen alkalmazandó maximális regionális támogatási mértékek közül az alacsonyabbat.
-
-(2) A beszerzett tárgyi eszközöknek tartósan, legalább a fenntartási időszak végéig szolgálniuk kell a beruházás helyszínén a támogatott tevékenységet.
-
-(3) Az egy vállalatcsoporton belülről beszerzett új eszközök esetén az elszámolható költség nem haladhatja meg az eladó könyveiben nyilvántartott összeget.
-
-(4) A 121. § f) pontjától eltérően a megújuló energia termeléséhez kapcsolódó eszközök költségei elszámolható költségeknek minősülnek, amennyiben
-
-a) a beruházás elsődleges célja nem az energiatermelés,
-
-b) az energiatermeléshez kapcsolódó eszközök költsége a beruházás összköltségének legfeljebb 50%-át teszik ki, és
-
-c) a beruházó előzetes elemzés bemutatásával hitelesen igazolja, hogy az energiatermelési kapacitás nem haladja meg a beruházás működtetéséhez szükséges mennyiséget, valamint az előzetes elemzésből hitelt érdemlően kitűnik, hogy a megtermelt energia legfeljebb 20%-át értékesítik.
+(4)[^37]
 
 (5) Nem minősül elszámolható költségnek
 
@@ -32,6 +18,8 @@ d) a kérelem benyújtásának napja előtt felmerült költség, ráfordítás,
 
 e) nagyvállalkozásnál a korábban már bárki által használatba vett tárgyi eszköz költsége, kivéve létesítmény felvásárlása esetén a beszerzett eszköz vételárát.
 
+f)[^38] a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 4. § 31/c. pontja szerinti személygépkocsi költsége.
+
 (6) A 123. § (1) bekezdés b) és c) pontja szerinti elszámolható költség esetén akkor nyújtható támogatás, ha
 
 a) a beruházás a kedvezményezettnél foglalkoztatottak számának nettó növekedését eredményezi a beruházás megkezdését megelőző 12 hónap átlagához képest,
@@ -43,3 +31,9 @@ c) kis- és középvállalkozás esetén a beruházó a beruházás megkezdések
 d) nagyvállalkozás esetén a beruházó a beruházás megkezdésekor már létező, továbbá a beruházással létrejött új munkahelyeket a munkahely első betöltésétől számított legalább öt évig az érintett területen fenntartja.
 
 (7) Ha a tárgyi eszköz és az immateriális javak beszerzéséhez a vásárlást megelőzően már nyújtottak támogatást, ezen tárgyi eszköz és immateriális javak költségét le kell vonni a létesítmény felvásárlásához kapcsolódó elszámolható költségekből. Ha egy kisvállalkozást az eredeti tulajdonos családtagjai vagy korábbi munkavállalók vesznek át, a tárgyi eszköznek és az immateriális javaknak a vevőtől független harmadik féltől való megvásárlására vonatkozó feltételnek nem kell teljesülnie.
+
+[^34]: A 124. § (1) bekezdését a 346/2023. (VII. 27.) Korm. rendelet 17. § m) pontja hatályon kívül helyezte.
+[^35]: A 124. § (2) bekezdését a 346/2023. (VII. 27.) Korm. rendelet 17. § m) pontja hatályon kívül helyezte.
+[^36]: A 124. § (3) bekezdését a 346/2023. (VII. 27.) Korm. rendelet 17. § m) pontja hatályon kívül helyezte.
+[^37]: A 124. § (4) bekezdését a 346/2023. (VII. 27.) Korm. rendelet 17. § m) pontja hatályon kívül helyezte.
+[^38]: A 124. § (5) bekezdés f) pontját a 346/2023. (VII. 27.) Korm. rendelet 14. §-a iktatta be.
