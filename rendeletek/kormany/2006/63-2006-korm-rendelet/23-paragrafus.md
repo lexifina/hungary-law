@@ -4,6 +4,7 @@
 
 (3) Az (1) bekezdésben foglaltakon túl a szülőt az ápolási tevékenység ellátásában egészségi állapota miatt akadályozottnak kell tekinteni, ha a komplex minősítése alapján a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 3. § (2) bekezdés b) pont bd) alpontja szerinti minősítési kategóriába sorolják be.
 
-(4) A szülőn kívüli más hozzátartozó a gyermekek otthongondozási díja megállapítása iránti kérelmet az Szt. 39. § (1) bekezdése szerinti körülmények bekövetkezésétől számított három hónapon belül nyújthatja be.
+(4)[^150] A szülőn kívüli más hozzátartozó a gyermekek otthongondozási díja megállapítása iránti kérelmet az Szt. 39. § (1) bekezdése szerinti körülmények – ide nem értve a szülő szülői felügyeleti joga Ptk. 4:186. § (1) bekezdés a), c), e) vagy h) pontja vagy 4:186. § (2) bekezdése szerinti szünetelésének, illetve bíróság általi megszüntetésének esetét – bekövetkezésétől számított három hónapon belül nyújthatja be.
 
 [^149]: A 23. § (2) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 42. §-a, a 616/2022. (XII. 29.) Korm. rendelet 65. § a) pontja szerint módosított szöveg.
+[^150]: A 23. § (4) bekezdése a 349/2023. (VII. 27.) Korm. rendelet 4. §-ával megállapított szöveg. Az Alkotmánybíróság a 11/2025. (X. 9.) AB határozat 1. pontjával megállapította, hogy a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló 63/2006. (III. 27.) Korm. rendelet 2023. július 28. és 2025. június 30. között hatályos 23. § (4) bekezdése alaptörvény-ellenes volt.

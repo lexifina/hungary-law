@@ -2,12 +2,12 @@
 
 (1a)[^131] Az (1) bekezdésben foglaltaktól eltérően a jogosultság megszüntetését megelőzően teljesített együttműködés is figyelembe vehető a megelőző együttműködés számításánál abban az esetben, ha a közfoglalkoztatási jogviszony azonnali felmondással történő megszüntetésére a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény (a továbbiakban: Kftv.) 1. § (4e) bekezdése alapján, a Kftv. 1. § (4a) bekezdés a) pontjában foglalt okból került sor.
 
-(2)[^132] Az egészségkárosodási és gyermekfelügyeleti támogatás Szt. 37. § (4) bekezdése szerinti legmagasabb összege 2022. január 1-jétől – a (3) bekezdés szerinti eltéréssel – 59 850 Ft.
+(2)[^132]
 
-(3)[^133] Abban az esetben, ha az egészségkárosodási és gyermekfelügyeleti támogatásra jogosult családja tagjának foglalkoztatást helyettesítő támogatásra való jogosultságot állapítottak meg, az egészségkárosodási és gyermekfelügyeleti támogatás Szt. 37. § (4) bekezdése szerinti legmagasabb összege 2022. január 1-jétől 37 050 Ft.
+(3)[^133]
 
 [^129]: A 17/B. §-t a 326/2006. (XII. 23.) Korm. rendelet 6. §-a iktatta be, szövege a 358/2010. (XII. 30.) Korm. rendelet 12. §-ával megállapított szöveg.
 [^130]: A 17/B. § (1) bekezdése a 24/2015. (II. 20.) Korm. rendelet 27. § (1) bekezdés i) pontja szerint módosított szöveg.
 [^131]: A 17/B. § (1a) bekezdését a 257/2013. (VII. 5.) Korm. rendelet 20. §-a iktatta be.
-[^132]: A 17/B. § (2) bekezdése a 463/2016. (XII. 23.) Korm. rendelet 6. §-ával megállapított, a 704/2021. (XII. 15.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
-[^133]: A 17/B. § (3) bekezdését a 331/2011. (XII. 29.) Korm. rendelet 10. § (2) bekezdése iktatta be, szövege a 463/2016. (XII. 23.) Korm. rendelet 6. §-ával megállapított, a 704/2021. (XII. 15.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^132]: A 17/B. § (2) bekezdését a 349/2023. (VII. 27.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^133]: A 17/B. § (3) bekezdését a 331/2011. (XII. 29.) Korm. rendelet 10. § (2) bekezdése iktatta be, a 349/2023. (VII. 27.) Korm. rendelet 5. §-a hatályon kívül helyezte.

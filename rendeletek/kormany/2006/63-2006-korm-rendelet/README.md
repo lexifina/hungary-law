@@ -52,3 +52,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-63-20-2
 | 2022-01-01 | 2006-63-20-22.62 | 359/2017. (XI. 30.) Korm. rendelet |
 | 2022-07-01 | 2006-63-20-22.63 | 303/2018. (XII. 27.) Korm. rendelet |
 | 2023-01-01 | 2006-63-20-22.64 | 303/2018. (XII. 27.) Korm. rendelet |
+| 2023-07-28 | 2006-63-20-22.65 | 349/2023. (VII. 27.) Korm. rendelet |
