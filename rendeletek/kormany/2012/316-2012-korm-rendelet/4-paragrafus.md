@@ -1,18 +1,18 @@
 ## 2. [^9] A Főigazgatóság feladat- és hatásköre
 
-4. § (1)[^10] A Kormány a Főigazgatóságot jelöli ki
+4. § (1)[^10] A Kormány a Főigazgatóságot jelöli ki az állam
 
-a) a megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény alapján átvett szociális és gyermekvédelmi intézményekkel, valamint a szociális és gyermekvédelmi tevékenységet végző alapítványokkal, közalapítványokkal, gazdasági társaságokkal kapcsolatos, 9. § (1) bekezdése szerinti,
+a) a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szt.) és
 
-b)[^11] az egyes szakosított szociális és gyermekvédelmi szakellátási intézmények állami átvételéről és egyes törvények módosításáról szóló 2012. évi CXCII. törvény 2. § (3) bekezdése, a 9. § (1) bekezdése és a 9/A. § (2) bekezdése szerinti
+b) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.)
 
-feladatok ellátására [az a) és b) pont szerinti intézmények a továbbiakban együtt: átvett intézmények].
+szerinti fenntartói feladatainak ellátására.
 
-(2) A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szt.) és a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) szerinti fenntartói feladatokat
+(2)[^11] Az (1) bekezdés szerinti fenntartói feladatokat
 
 a) a Főigazgatóság központi szerve látja el az 1. melléklet szerinti intézmények,
 
-b) a kirendeltség látja el – az e rendelet szerint a Főigazgatóság központi szerve, illetve a főigazgató által ellátott feladatok kivételével – az átvett intézmények
+b) a kirendeltség látja el – az e rendelet szerint a Főigazgatóság központi szerve, illetve a főigazgató által ellátott feladatok kivételével – az a) pont alá nem tartozó intézmények
 
 esetében.
 
@@ -48,9 +48,12 @@ g)[^13] az utógondozói ellátásban részesülő fiatal felnőtt kérelmére d
 
 (6)[^14] A Főigazgatóság – az 1. melléklet 8. pontja szerinti kivétellel – ellátja a fenntartott intézmények gazdálkodással összefüggő feladatait.
 
+(7)[^15] A Főigazgatóság ellátja a jogszabály alapján átvett vagyon és integrált intézményi vagyon tekintetében a vagyonkezelői feladatokat.
+
 [^9]: A 2. alcím címe a 221/2015. (VIII. 7) Korm. rendelet 11. §-ával megállapított szöveg.
-[^10]: A 4. § (1) bekezdése a 349/2012. (XII. 12.) Korm. rendelet 65. §-ával megállapított szöveg.
-[^11]: A 4. § (1) bekezdés b) pontja a 448/2013. (XI. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^10]: A 4. § (1) bekezdése a 349/2023. (VII. 27.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^11]: A 4. § (2) bekezdése a 349/2023. (VII. 27.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
 [^12]: A 4. § (3) bekezdés d) pontja a 379/2016. (XII. 2.) Korm. rendelet 211. § (4) bekezdése szerint módosított szöveg.
 [^13]: A 4. (4) bekezdés g) pontját a 384/2017. (XII. 12.) Korm. rendelet 9. §-a iktatta be.
 [^14]: A 4. § (6) bekezdését a 610/2020. (XII. 18.) Korm. rendelet 15. §-a iktatta be, szövege a 414/2021. (VII. 13.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^15]: A 4. § (7) bekezdését a 349/2023. (VII. 27.) Korm. rendelet 11. § (2) bekezdése iktatta be.

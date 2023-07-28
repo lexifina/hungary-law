@@ -33,3 +33,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-316-20-
 | 2023-01-01 | 2012-316-20-22.25 | 616/2022. (XII. 29.) Korm. rendelet |
 | 2023-01-31 | 2012-316-20-22.26 | 19/2023. (I. 30.) Korm. rendelet |
 | 2023-07-07 | 2012-316-20-22.27 | 281/2023. (VI. 29.) Korm. rendelet |
+| 2023-07-28 | 2012-316-20-22.28 | 349/2023. (VII. 27.) Korm. rendelet |
