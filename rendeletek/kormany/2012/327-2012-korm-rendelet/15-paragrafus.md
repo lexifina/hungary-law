@@ -18,19 +18,25 @@ cd) tevékenységének, illetve a rehabilitációs foglalkoztatásra irányuló 
 
 ce) ha végelszámolását határozta el, vagy vele szemben csődeljárás, felszámolási eljárás, kényszer-végelszámolás vagy kényszer-törlési eljárás indul,
 
-cf)[^62] ha más vállalkozás érdekkörében végzett tevékenységet kíván folytatni,
+cf)[^64] ha más vállalkozás érdekkörében végzett tevékenységet kíván folytatni, valamint a más vállalkozás érdekkörében végzett tevékenység folytatására vonatkozó vállalkozási, megbízási szerződés megkötését, annak megszűnését, megszüntetését,
 
-d)[^63] az akkreditációs követelmények teljesítéséről, a támogatás felhasználásáról, illetve a foglalkozási rehabilitációs tevékenységéről minden év március 31-éig, a 2. mellékletben meghatározott szempontok szerint beszámolni a Kormányhivatalnak,
+cg)[^65] új tevékenység megkezdését az akkreditált telephelyen,
 
-e)[^64]
+ch)[^66] állásidő elrendelését, ha az tárgyhónapban a megváltozott munkaképességű munkavállalóinak legalább 30%-át érinti,
+
+d)[^67] az akkreditációs követelmények teljesítéséről, a támogatás felhasználásáról, illetve a foglalkozási rehabilitációs tevékenységéről minden év március 31-éig, a 2. mellékletben meghatározott szempontok szerint beszámolni a Kormányhivatalnak,
+
+e)[^68]
 
 f) jogszabályi, illetve szerződéses nyilvántartási, adatszolgáltatási kötelezettségeit teljesíteni.
 
 (2) A más vállalkozás érdekkörében végzett tevékenység esetén a munkáltató köteles e tevékenységet megszakítani, ha tudomására jut, hogy a más vállalkozásnál nem teljesülnek a munkavállaló biztonságos munkavégzésének feltételei vagy az egyéni rehabilitációs tervben meghatározott egyéb feltételek.
 
-(3)[^65] A más vállalkozás érdekkörében végzett tevékenység bejelentésével egyidejűleg mellékelni kell az 5. § (3) bekezdés l) pontjában meghatározott dokumentumokat.
+(3)[^69] A más vállalkozás érdekkörében végzett tevékenység bejelentésével egyidejűleg mellékelni kell az 5. § (3) bekezdés l) pontjában meghatározott dokumentumokat.
 
-[^62]: A 15. § (1) bekezdés c) pont cf) alpontját a 335/2013. (IX. 20.) Korm. rendelet 10. § (1) bekezdése iktatta be.
-[^63]: A 15. § (1) bekezdés d) pontja a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés d) pontja szerint módosított szöveg.
-[^64]: A 15. § (1) bekezdés e) pontját a 335/2013. (IX. 20.) Korm. rendelet 28. § (1) bekezdés g) pontja hatályon kívül helyezte.
-[^65]: A 15. § (3) bekezdését a 335/2013. (IX. 20.) Korm. rendelet 10. § (2) bekezdése iktatta be.
+[^64]: A 15. § (1) bekezdés c) pont cf) alpontját a 335/2013. (IX. 20.) Korm. rendelet 10. § (1) bekezdése iktatta be, szövege a 349/2023. (VII. 27.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^65]: A 15. § (1) bekezdés c) pont cg) alpontját a 349/2023. (VII. 27.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^66]: A 15. § (1) bekezdés c) pont ch) alpontját a 349/2023. (VII. 27.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^67]: A 15. § (1) bekezdés d) pontja a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés d) pontja szerint módosított szöveg.
+[^68]: A 15. § (1) bekezdés e) pontját a 335/2013. (IX. 20.) Korm. rendelet 28. § (1) bekezdés g) pontja hatályon kívül helyezte.
+[^69]: A 15. § (3) bekezdését a 335/2013. (IX. 20.) Korm. rendelet 10. § (2) bekezdése iktatta be.

@@ -2,6 +2,6 @@
 
 ## költségvetési támogatásáról szóló 177/2005. (IX. 2.) Korm. rendelet módosítása
 
-56. §[^211]
+56. §[^225]
 
-[^211]: Az 56–58. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^225]: Az 56–58. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

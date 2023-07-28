@@ -2,11 +2,11 @@
 
 16. § (1) Az ellenőrzés a rehabilitációs akkreditációs tanúsítvány hatálya alatt az e rendeletben meghatározott munkáltatói kötelezettségek teljesítésének vizsgálatára, valamint a munkáltató által igénybe vett, e rendelet hatálya alá tartozó költségvetési támogatások felhasználásának vizsgálatára irányul.
 
-(2)[^66] A helyszíni ellenőrzés előre tervezetten, eseti ellenőrzés útján, illetve évente egyszer átfogó ellenőrzés keretében valósul meg.
+(2)[^70] A helyszíni ellenőrzés előre tervezetten, eseti ellenőrzés útján, illetve évente egyszer átfogó ellenőrzés keretében valósul meg.
 
-(3)[^67] Az ellenőrzés során a Kormányhivatal a 40. § alapján lefolytatott pénzügyi ellenőrzés jegyzőkönyveit is alapul véve jár el.
+(3)[^71] Az ellenőrzés során a Kormányhivatal a 40. § alapján lefolytatott pénzügyi ellenőrzés jegyzőkönyveit is alapul véve jár el.
 
-(4)[^68] A Kormányhivatal az ellenőrzés során negatív értékelőpontot állapít meg a következő esetekben és mértékben:
+(4)[^72] A Kormányhivatal az ellenőrzés során negatív értékelőpontot állapít meg a következő esetekben és mértékben:
 
 a) az egyéni foglalkoztatási megállapodásban foglalt egyes rendelkezések be nem tartása esetén 1–3 pontig terjedő mértékben,
 
@@ -18,11 +18,11 @@ d) az illetékes hatóság által kiszabott munkaügyi, munkavédelmi, illetve a
 
 e) ha a rehabilitációs akkreditációs tanúsítvány hatálya alatt az állami adó- és vámhatóság, illetve a telephely tekintetében illetékes önkormányzati adóhatóság által nyilvántartott, 60 napon túl folyamatosan fennálló, túlfizetéssel csökkentett adótartozással rendelkezik vagy rendelkezett, 1–3 pontig terjedő mértékben,
 
-f)[^69] ha a csődeljárással kapcsolatos bejelentési kötelezettségének határidőben nem tett eleget, 2 pont mértékben,
+f)[^73] ha a csődeljárással kapcsolatos bejelentési kötelezettségének határidőben nem tett eleget, 2 pont mértékben,
 
 g) a 3. melléklet szerinti esetekben az ott meghatározott keretek között,
 
-h)[^70] a 2. és a 3. § szerinti, az akkreditációs tanúsítvány kiadásához kapcsolódó feltétel megsértése esetén 1–4 pontig terjedő mértékben.
+h)[^74] a 2. és a 3. § szerinti, az akkreditációs tanúsítvány kiadásához kapcsolódó feltétel megsértése esetén 1–4 pontig terjedő mértékben.
 
 (5) A negatív értékelőpont megállapításának feltétele, hogy
 
@@ -44,17 +44,17 @@ b) a szabályszegés ismétlése,
 
 c) az ismételt szabályszegés gyakorisága.
 
-(7)[^71]
+(7)[^75]
 
-(8)[^72] A kiszabott negatív értékelőpontokat a Kormányhivatal a munkáltatóval végzésben közli.
+(8)[^76] A kiszabott negatív értékelőpontokat a Kormányhivatal a munkáltatóval végzésben közli.
 
-(9)[^73] A negatív értékelőpontot a kiszabásáról rendelkező döntés véglegessé válását követő 3 év elteltével az e rendelet szerinti valamennyi eljárásban figyelmen kívül kell hagyni.
+(9)[^77] A negatív értékelőpontot a kiszabásáról rendelkező döntés véglegessé válását követő 3 év elteltével az e rendelet szerinti valamennyi eljárásban figyelmen kívül kell hagyni.
 
-[^66]: A 16. § (2) bekezdése a 285/2014. (XI. 20.) Korm. rendelet 9. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^67]: A 16. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés a) pontja szerint módosított szöveg.
-[^68]: A 16. § (4) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés a) pontja szerint módosított szöveg.
-[^69]: A 16. § (4) bekezdés f) pontja a 335/2013. (IX. 20.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^70]: A 16. § (4) bekezdés h) pontját a 335/2013. (IX. 20.) Korm. rendelet 11. § (2) bekezdése iktatta be.
-[^71]: A 16. § (7) bekezdését a 335/2013. (IX. 20.) Korm. rendelet 28. § (1) bekezdés h) pontja hatályon kívül helyezte.
-[^72]: A 16. § (8) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés a) pontja szerint módosított szöveg.
-[^73]: A 16. § (9) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 418. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^70]: A 16. § (2) bekezdése a 285/2014. (XI. 20.) Korm. rendelet 9. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^71]: A 16. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^72]: A 16. § (4) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^73]: A 16. § (4) bekezdés f) pontja a 335/2013. (IX. 20.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^74]: A 16. § (4) bekezdés h) pontját a 335/2013. (IX. 20.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^75]: A 16. § (7) bekezdését a 335/2013. (IX. 20.) Korm. rendelet 28. § (1) bekezdés h) pontja hatályon kívül helyezte.
+[^76]: A 16. § (8) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^77]: A 16. § (9) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 418. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

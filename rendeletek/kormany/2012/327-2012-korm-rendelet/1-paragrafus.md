@@ -34,15 +34,15 @@
 
 10.[^7] tranzit foglalkoztatás: a rehabilitálható megváltozott munkaképességű munkavállaló védett körülmények között, termelő, szolgáltató tevékenység végzése keretében történő felkészítése a nyílt munkaerő-piacon történő foglalkoztatásra, amennyiben életkora alapján a kérelem benyújtásáig vagy a felülvizsgálat időpontjában az öregségi nyugdíjkorhatár betöltéséig hátralevő időtartam az 5 évet meghaladja;
 
-11. vállalkozás: a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 2. § (2) bekezdés a)–c) pontjában meghatározott adóalany, valamint az egyéni vállalkozóról és az egyéni cégről szóló törvény szerinti egyéni vállalkozás;
+11.[^8] vállalkozás: a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 2. § (2) bekezdésében meghatározott adóalany, valamint az egyéni vállalkozóról és az egyéni cégről szóló törvény szerinti egyéni vállalkozás;
 
-12.[^8] védett foglalkoztatás: az akkreditált munkáltató általi, a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU bizottsági rendelet (a továbbiakban: általános csoportmentességi rendelet) 2. cikk 100. pontjában meghatározott foglalkoztatás, ha a munkáltató tranzit vagy tartós foglalkoztatást biztosít, és munkavállalóinak legalább 30%-a az Mmtv. 22. §-a szerinti megváltozott munkaképességű személynek minősül;
+12.[^9] védett foglalkoztatás: az akkreditált munkáltató általi, a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU bizottsági rendelet (a továbbiakban: általános csoportmentességi rendelet) 2. cikk 100. pontjában meghatározott foglalkoztatás, ha a munkáltató tranzit vagy tartós foglalkoztatást biztosít, és munkavállalóinak legalább 30%-a az Mmtv. 22. §-a szerinti megváltozott munkaképességű személynek minősül;
 
-13.[^9] munkahelyteremtés: megváltozott munkaképességű munkavállalók rehabilitációs foglalkoztatása céljából új munkahely létrehozása vagy meglévő munkahely átalakítása;
+13.[^10] munkahelyteremtés: megváltozott munkaképességű munkavállalók rehabilitációs foglalkoztatása céljából új munkahely létrehozása vagy meglévő munkahely átalakítása;
 
-14.[^10] újonnan alkalmazott megváltozott munkaképességű munkavállaló: az a megváltozott munkaképességű munkavállaló, aki a munkáltatóval vagy annak jogelődjével az alkalmazás kezdetét megelőző 1 éven belül nem állt munkaviszonyban, illetve egyéb foglalkoztatásra irányuló jogviszonyban;
+14.[^11] újonnan alkalmazott megváltozott munkaképességű munkavállaló: az a megváltozott munkaképességű munkavállaló, aki a munkáltatóval vagy annak jogelődjével az alkalmazás kezdetét megelőző 1 éven belül nem állt munkaviszonyban, illetve egyéb foglalkoztatásra irányuló jogviszonyban;
 
-15.[^11] átlagos állományi létszám: a Központi Statisztikai Hivatal munkaügyi-statisztikai adatszolgáltatáshoz kiadott útmutatójában foglaltak szerint számított átlagos állományi létszám, az 5. pont szerinti munkaviszonyban foglalkoztatott személyek létszámával számolva.
+15.[^12] átlagos állományi létszám: a Központi Statisztikai Hivatal munkaügyi-statisztikai adatszolgáltatáshoz kiadott útmutatójában foglaltak szerint számított átlagos állományi létszám, az 5. pont szerinti munkaviszonyban foglalkoztatott személyek létszámával számolva.
 
 [^1]: Az 1. § 3. pontja a 304/2018. (XII. 27.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § 5. pontja a 304/2018. (XII. 27.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
@@ -51,7 +51,8 @@
 [^5]: Az 1. § 6. pont 6.4. alpontját az 500/2013. (XII. 29.) Korm. rendelet 13. §-a iktatta be.
 [^6]: Az 1. § 9. pontja az 500/2013. (XII. 29.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
 [^7]: Az 1. § 10. pontja a 304/2018. (XII. 27.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
-[^8]: Az 1. § 12. pontja a 285/2014. (XI. 20.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^9]: Az 1. § 13. pontját a 335/2013. (IX. 20.) Korm. rendelet 5. § (2) bekezdése iktatta be.
-[^10]: Az 1. § 14. pontját a 335/2013. (IX. 20.) Korm. rendelet 5. § (2) bekezdése iktatta be.
-[^11]: Az 1. § 15. pontját a 304/2018. (XII. 27.) Korm. rendelet 6. § (4) bekezdése iktatta be.
+[^8]: Az 1. § 11. pontja a 349/2023. (VII. 27.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
+[^9]: Az 1. § 12. pontja a 285/2014. (XI. 20.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^10]: Az 1. § 13. pontját a 335/2013. (IX. 20.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^11]: Az 1. § 14. pontját a 335/2013. (IX. 20.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^12]: Az 1. § 15. pontját a 304/2018. (XII. 27.) Korm. rendelet 6. § (4) bekezdése iktatta be.

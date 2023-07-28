@@ -12,14 +12,15 @@ c) gondoskodik a segítő szolgáltatásokat nyújtó szervezetekkel, illetve ma
 
 d) rendszeres fogadóórát biztosít a megváltozott munkaképességű munkavállalók részére a munkavégzés helye szerinti telephelyen, több érintett telephely esetén negyedévente legalább egy alkalommal minden telephelyen,
 
-e) gondoskodik a 15. § (1) bekezdés e) pontja szerinti adatszolgáltatásról,
+e)[^55]
 
-f)[^54] kapcsolatot tart a fővárosi és vármegyei kormányhivatallal (a továbbiakban: rehabilitációs hatóság).
+f)[^56] kapcsolatot tart a fővárosi és vármegyei kormányhivatallal (a továbbiakban: rehabilitációs hatóság).
 
-(3)[^55]
+(3)[^57]
 
-(4)[^56]
+(4)[^58]
 
-[^54]: A 12. § (2) bekezdés f) pontja a 70/2015. (III. 30.) Korm. rendelet 210. § (1) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 148. §-a szerint módosított szöveg.
-[^55]: A 12. § (3) bekezdését a 402/2017. (XII. 15.) Korm. rendelet 23. § a) pontja hatályon kívül helyezte.
-[^56]: A 12. § (4) bekezdését a 402/2017. (XII. 15.) Korm. rendelet 23. § a) pontja hatályon kívül helyezte.
+[^55]: A 12. § (2) bekezdés e) pontját a 349/2023. (VII. 27.) Korm. rendelet 20. §-a hatályon kívül helyezte.
+[^56]: A 12. § (2) bekezdés f) pontja a 70/2015. (III. 30.) Korm. rendelet 210. § (1) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 148. §-a szerint módosított szöveg.
+[^57]: A 12. § (3) bekezdését a 402/2017. (XII. 15.) Korm. rendelet 23. § a) pontja hatályon kívül helyezte.
+[^58]: A 12. § (4) bekezdését a 402/2017. (XII. 15.) Korm. rendelet 23. § a) pontja hatályon kívül helyezte.

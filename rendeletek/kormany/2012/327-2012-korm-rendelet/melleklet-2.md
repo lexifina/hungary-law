@@ -1,3 +1,3 @@
-2. melléklet a 327/2012. (XI. 16.) Korm. rendelethez[^218]
+2. melléklet a 327/2012. (XI. 16.) Korm. rendelethez[^232]
 
-[^218]: A 2. melléklet a 668/2020. (XII. 28.) Korm. rendelet 35. § (5) bekezdésével megállapított szöveg.
+[^232]: A 2. melléklet a 668/2020. (XII. 28.) Korm. rendelet 35. § (5) bekezdésével megállapított szöveg.

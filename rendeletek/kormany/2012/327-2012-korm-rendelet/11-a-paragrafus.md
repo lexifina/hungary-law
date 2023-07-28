@@ -1,4 +1,4 @@
-## 8a.[^53] A rehabilitációs tanácsadóra és a rehabilitációs mentorra vonatkozó közös szabályok
+## 8a.[^54] A rehabilitációs tanácsadóra és a rehabilitációs mentorra vonatkozó közös szabályok
 
 11/A. § (1) Rehabilitációs tanácsadói, rehabilitációs mentori tevékenységet az 1. melléklet szerinti képesítéssel és gyakorlattal rendelkező személy végezhet.
 
@@ -12,4 +12,4 @@
 
 (6) A rehabilitációs tanácsadói, rehabilitációs mentori tevékenységet ellátó személy évente köteles a Kormányhivatal által szervezett képzésen részt venni.
 
-[^53]: Az 8a. alcímet (11/A. §) a 402/2017. (XII. 15.) Korm. rendelet 15. §-a iktatta be.
+[^54]: Az 8a. alcímet (11/A. §) a 402/2017. (XII. 15.) Korm. rendelet 15. §-a iktatta be.
