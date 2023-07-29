@@ -14,15 +14,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1247/2016. (V. 18.) Korm. határozat
-
-## a) 1. pont f) alpont fa) pont faa) alpontjában a „251,53%-áig” szövegrész helyébe a „251,58%-áig” szöveg,
-
-## b) 1. melléklet 2. pontjában foglalt táblázat C:2 mezőjében az „1259,384” szövegrész helyébe az „1259,661” szöveg,
-
-## c) 2. mellékletben foglalt táblázat D:38 mezőjében a „4,99” szövegrész helyébe az „5,42” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1334/2023. (VII. 27.) Korm. határozathoz
 
@@ -35,3 +27,5 @@
 | 3. | Megtérülő projektköltségre jutó központi költségvetési forrás összege (forint) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés a) pontja alapján | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege (forint) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés b) pontja alapján | Az EU felé el nem számolható költségek összege (forint) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján | Megtérülő projektköltségre jutó központi költségvetési forrás összege (forint) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés a) pontja alapján | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege (forint) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés b) pontja alapján | Az EU felé el nem számolható költségek összege (forint) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján | Megtérülő projektköltségre jutó központi költségvetési forrás összege (forint) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés a) pontja alapján | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege (forint) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés b) pontja alapján | Az EU felé el nem számolható költségek összege (forint) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján |
 
 | 4. | IKOP-2.1.0-15-2019-00052 | A MÁV-START Zrt. gördülőállomány fejlesztés – egységes szolgáltatási színvonalú járműpark kialakítása | MÁV-START Zrt. | 100% | 4 987 439 889 | 0 | 0 | 0 | 0 | 433 437 222 | 0 | 0 | 0 | 100% | 5 420 877 111 | 0 | 0 | 0 | 5 420 877 111 | A projekttel szembeni szakmai elvárás az eltérő berendezésekkel rendelkező MÁV-START 415 sorozatszámú motorvonatok egységes űszaki színvonalra történő átalakítása és a szolgáltatási színvonal emelése. |
+
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
