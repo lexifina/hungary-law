@@ -1,3 +1,3 @@
-4. § Az 563/2022. (XII. 23.) Korm. rendelet 8. § (3) bekezdés a) pontja helyébe a következő rendelkezés lép:
+4. §[^5]
 
-(A Nemzeti Irányító Hatóság pénzügyi lebonyolításhoz kapcsolódó feladatai tekintetében gondoskodik)
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

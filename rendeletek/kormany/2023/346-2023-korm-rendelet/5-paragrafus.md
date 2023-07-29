@@ -1,5 +1,3 @@
-## „a) a technikai támogatás és a programmenedzsment forrás tekintetében benyújtott kifizetési kérelmek ellenőrzéséről és az elszámolható költségek hitelesítéséről,”
+5. §[^6]
 
-5. § Az 563/2022. (XII. 23.) Korm. rendelet 13. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az operatív bizottság állandó tagjai az operatív bizottság elnökének felkérése alapján a nemzeti szintű szervek, a program operátorok és a projektgazdák, illetve az érintett ágazati minisztériumok képviselői.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-14. § Az 563/2022. (XII. 23.) Korm. rendelet 124. § (5) bekezdése a következő f) ponttal egészül ki:
+14. §[^15]
 
-(Nem minősül elszámolható költségnek)
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
