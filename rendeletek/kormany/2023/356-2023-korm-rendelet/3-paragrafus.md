@@ -1,3 +1,3 @@
-3. § A Korm. rendelet 6/O. §-a a következő (8) bekezdéssel egészül ki:
+3. §[^4]
 
-„(8) A fő rendeltetés szerinti épületek használatbavételéig az építési beruházás megvalósítása során a kivitelezési munkák elvégzéséhez szükséges, munkavállalók által ideiglenesen használt, munkásszállásnak nem minősülő, az OTÉK 104/A. §-ában foglaltaknak megfelelő, szállás jellegű épület létesítése a telekalakítással kialakuló építési telken belül megengedett, amennyiben az teljes közművesítettséggel rendelkezik, azzal, hogy a szállás jellegű épülethez nem kell személygépkocsi-várakozóhelyeket és kerékpártárolót biztosítani, azonban gondoskodni kell a szállás jellegű épülettel igénybe vett terület fizikai lehatárolásáról.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
