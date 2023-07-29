@@ -1,7 +1,3 @@
-4. § Az R.
+4. §[^5]
 
-a) 4. § (1) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg,
-
-b) 4. § (8) bekezdésében a „kedvezményes év végéig” szövegrész helyébe a „jogosultság fennállásáig” szöveg
-
-lép.
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
