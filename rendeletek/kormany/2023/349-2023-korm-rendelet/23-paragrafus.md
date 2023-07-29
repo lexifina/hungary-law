@@ -1,3 +1,3 @@
-23. § A szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásáról és ellenőrzéséről szóló 369/2013. (X. 24.) Korm. rendelet 50. § (1) bekezdése helyébe a következő rendelkezés lép:
+23. §[^24]
 
-„(1) A működést engedélyező szerv a 2023. december 31-én vagy azt követően hatályukat veszítő ideiglenes hatályú bejegyzések hatályát hivatalból, kizárólag ellátási érdekből 2026. december 31-éig más jogszabályi felhatalmazás hiányában is meghosszabbíthatja. A működést engedélyező szerv a meghosszabbítás kérdésében 2024. március 31-éig dönt. A döntés véglegessé válásáig az ideiglenes hatályú bejegyzés hatálya meghosszabbodik.”
+[^24]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

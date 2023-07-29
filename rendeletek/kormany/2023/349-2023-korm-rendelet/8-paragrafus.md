@@ -1,3 +1,5 @@
 ## 6. A súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló 102/2011. (VI. 29.) Korm. rendelet módosítása
 
-8. § A súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló 102/2011. (VI. 29.) Korm. rendelet 8. § (3) bekezdés b) pontjában az „(1) bekezdés a) pontja” szövegrész helyébe az „(1) bekezdése” szöveg lép.
+8. §[^9]
+
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

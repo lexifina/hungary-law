@@ -1,7 +1,3 @@
-28. § A 331/2023. (VII. 19.) Korm. rendelet
+28. §[^29]
 
-a) 18. § (1) bekezdésében az „a (2) bekezdésben” szövegrész helyébe az „az (1a) és (2) bekezdésben” szöveg,
-
-b) 18. § (2) bekezdésében a „7., 8.” szövegrész helyébe a „8.” szöveg
-
-lép.
+[^29]: A 28. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
