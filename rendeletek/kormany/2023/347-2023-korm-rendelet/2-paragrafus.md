@@ -1,1 +1,3 @@
-2. § Az R1. 3. § (6) bekezdés b) pontjában a „b)” szövegrész helyébe az „a)” szöveg lép.
+2. §[^2]
+
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
