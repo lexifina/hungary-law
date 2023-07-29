@@ -1,5 +1,3 @@
-1. § Az államtudományi képzési területen szerezhető képesítések jegyzékéről és a képzések képzési és kimeneti követelményeiről szóló 222/2019. (IX. 25.) Korm. rendelet (a továbbiakban: R.) 9. §-a a következő (11) és (12) bekezdéssel egészül ki:
+1. §[^2]
 
-„(11) A 2. és 3. mellékletnek az államtudományi képzési területen szerezhető képesítések jegyzékéről és a képzések képzési és kimeneti követelményeiről szóló 222/2019. (IX. 25.) Korm. rendelet módosításáról szóló 355/2023. (VII. 27.) Korm. rendelettel (a továbbiakban: MódR2.) módosított rendelkezéseit – a (12) bekezdésben foglalt kivétellel – a tanulmányaikat a 2022/2023. tanévben vagy azt követően megkezdő hallgatókra kell alkalmazni, illetve hatályon kívül helyezett rendelkezéseit a tanulmányaikat a 2022/2023. tanévben megkezdő hallgatókra sem kell alkalmazni.
-
-(12) E rendeletnek a MódR2.-vel megállapított 3. melléklet „MESTERKÉPZÉSEK ÉS MESTERKÉPZÉSBEN, OSZTATLAN KÉPZÉSBEN SZEREZHETŐ SZAKKÉPZETTSÉGEK JEGYZÉKE” című fejezetébenfoglalt táblázat 21. sorát és 3. melléklet „A MESTERKÉPZÉSI SZAKOK KÉPZÉSI ÉS KIMENETI KÖVETELEMÉNYEI” című fejezet 20. alcímét a tanulmányaikat a 2024/2025. tanévben vagy azt követően megkezdő hallgatókra kell alkalmazni.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
