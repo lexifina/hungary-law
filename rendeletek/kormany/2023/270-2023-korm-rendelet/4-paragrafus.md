@@ -1,3 +1,3 @@
-4. §[^1]
+4. § (1) Ha a 2023. július 1-jét megelőző időszakban a Koordináló szerv részvényeinek értékesítésére vonatkozó adásvételi szerződés zárására 2023. június 30-ig nem került sor, azonban a koncessziós szerződés 2023. július 1. napján hatályba lép, az állami hulladékgazdálkodási közfeladat-ellátás biztonsága érdekében az Együttműködő felek meghatározzák azokat az eszközöket és intézkedéseket, amelyek alapján 2023. július 1. napján a koncessziós társaság használati jogot szerez a számlázási tevékenységet végző rendszerhez.
 
-[^1]: A 4. § a 3. § (2) bekezdés alapján a 2023. július 1-jét megelőző időszakban a Koordináló szerv tulajdonjogát 100%-ban megtestesítő részvények koncessziós hirdetmény szerinti kötelező vételi ajánlatot követő adásvétele ellehetetlenülésének napján lép hatályba
+(2) A számlázási rendszer üzemeltetése érdekében a koncessziós társaság kezdeményezésére az Együttműködő felek meghatározzák azokat a folyamatokat, amelyek ahhoz szükségesek, hogy a Koordináló szerv 2023. július 1. napjától az esedékes számlázási feladatokat ellássa a koncessziós társaság részére, a koncessziós társaság által meghatározott határnapig.
