@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2022-76-00-00
 | 2023-02-02 | 2010. évi CXXX. törvény | 2022-76-00-00.6 |
 | 2023-07-01 | 2023. évi XLV. törvény | 2022-76-00-00.7 |
 | 2023-07-02 | 2010. évi CXXX. törvény | 2022-76-00-00.8 |
+| 2023-07-31 | 1/2023. (IX. 12.) EM határozat | 2022-76-00-00.13 |
