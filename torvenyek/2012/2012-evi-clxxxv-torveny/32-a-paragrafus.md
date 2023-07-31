@@ -38,6 +38,8 @@ a) az állam tulajdonában álló valamennyi, az állami hulladékgazdálkodási
 
 b) a 2023. július 1-et megelőző időszakra vonatkozóan, a 2023. július 1-jét megelőző időszakban Koordináló szervként működött gazdasági társaságtól (a továbbiakban: Korábbi Koordináló szerv) átvett számlázási, kintlévőség-kezelési, szolgáltatásidíj-elszámolási és ezekhez kapcsolódó ügyfélszolgálati feladat
 
+c) ha a koncessziós társaság és az állam között a hulladékgazdálkodási közszolgáltatási résztevékenység számlázása tárgyában szerződés jön létre, e szerződés alapján a hulladékgazdálkodási közszolgáltatási résztevékenység számlázási feladatai
+
 ellátására.
 
 (4f) A miniszter (1) bekezdésben meghatározott feladatai vonatkozásában a (2) és a (4e) bekezdésben meghatározott szerv javaslatot tehet.
