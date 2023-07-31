@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1733-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2020-10-30 | 2020-1733-30-22.1 | 1733/2020. (X. 30.) Korm. határozat |
+| 2023-07-31 | 2020-1733-30-22.2 | 1350/2023. (VII. 31.) Korm. határozat |
