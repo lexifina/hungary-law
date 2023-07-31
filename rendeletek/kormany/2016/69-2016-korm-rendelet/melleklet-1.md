@@ -1,4 +1,4 @@
-1. melléklet a 69/2016. (III. 31.) Korm. rendelethez[^46]
+1. melléklet a 69/2016. (III. 31.) Korm. rendelethez[^47]
 
 A koncessziós társaság miniszter részére nyújtott adatszolgáltatásának elemei
 
@@ -108,4 +108,4 @@ A koncessziós társaság miniszter részére nyújtott adatszolgáltatásának 
 
 | 6. | Fogyasztóvédelmi bírságok összege |  | forint |
 
-[^46]: Az 1. melléklet a 277/2023. (VI. 29.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^47]: Az 1. melléklet a 277/2023. (VI. 29.) Korm. rendelet 13. §-ával megállapított szöveg.

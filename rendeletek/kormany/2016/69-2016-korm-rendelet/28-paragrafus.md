@@ -1,4 +1,4 @@
-28. §[^43] (1) A közszolgáltató a Ht. 38. § (3) bekezdésében meghatározottakon túl az adatszolgáltatása körében a Koordináló szerv részére a korábbi közszolgáltatási területe vonatkozásában az alábbi adatokat megadja:
+28. §[^44] (1) A közszolgáltató a Ht. 38. § (3) bekezdésében meghatározottakon túl az adatszolgáltatása körében a Koordináló szerv részére a korábbi közszolgáltatási területe vonatkozásában az alábbi adatokat megadja:
 
 a) az ingatlanhasználó által fizetendő közszolgáltatási díj mértékét, valamint
 
@@ -14,4 +14,4 @@ b) a közszolgáltató által ellátott hulladékgazdálkodási közszolgáltat�
 
 2023. július 5. napjáig a Koordináló szerv részére megadja.
 
-[^43]: A 28. §-t a 457/2017. (XII. 28.) Korm. rendelet 572. § (2) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 618. §-át. A 28. § a 277/2023. (VI. 29.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^44]: A 28. §-t a 457/2017. (XII. 28.) Korm. rendelet 572. § (2) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 618. §-át. A 28. § a 277/2023. (VI. 29.) Korm. rendelet 11. §-ával megállapított szöveg.
