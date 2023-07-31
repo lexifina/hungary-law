@@ -1,3 +1,3 @@
-3. §[^3]
+3. § A Korm. rendelet 3. alcíme a következő 3/A. §-sal egészül ki:
 
-[^3]: A 3. § a 16. § (3) bekezdés alapján a 2023. július 1-jét megelőző időszakban a Koordináló szerv tulajdonjogát 100%-ban megtestesítő részvények koncessziós hirdetmény szerinti kötelező vételi ajánlatot követő adásvétele ellehetetlenülésének napján lép hatályba, amelynek naptári napját a hulladékgazdálkodásért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
+„3/A.  § A Koordináló szerv a Ht. 32/A. § (4e) bekezdés c) pontja szerinti szerződés alapján látja el a hulladékgazdálkodási közszolgáltatási résztevékenység számlázási feladatát.”
