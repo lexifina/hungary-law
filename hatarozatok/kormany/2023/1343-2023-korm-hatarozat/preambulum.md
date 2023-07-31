@@ -1,0 +1,1 @@
+A Kormány – az Uniós fejlesztések fejezetbe tartozó fejezeti és központi kezelésű előirányzatok felhasználásának rendjéről szóló 590/2022. (XII. 28.) Korm. rendelet 23. § (2) bekezdésében, valamint az európai uniós forrásból finanszírozott egyes projektek költségnövekménye támogathatóságáról szóló 17/2017. (II. 1.) Korm. rendelet 6/A. §-ában foglaltakra is figyelemmel –
