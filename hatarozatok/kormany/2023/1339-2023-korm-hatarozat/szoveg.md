@@ -10,4 +10,6 @@ a) az Európai Unió Tanácsa 2024. második félévi magyar elnöksége program
 
 b) a H. 1. pontja szerinti feladat határidejeként 2023. október 31-ét határozza meg,
 
-c) visszavonja a H. 3. pontját.
+c)[^1]
+
+[^1]: A 4. pont c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
