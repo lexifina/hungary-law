@@ -6,4 +6,8 @@
 
 2. kereskedő: az a Tevékenységek Egységes Ágazati Osztályozási Rendszerében „4711 – Élelmiszer jellegű bolti vegyes kiskereskedelem” megjelöléssel feltüntetett tevékenységet főtevékenységként folytató kereskedő, akinek a kiskereskedelmi adóról szóló 2020. évi XLV. törvény szerinti nettó árbevétele a 2021. évben az 1 milliárd forintot meghaladta.
 
+3.[^1] beszerzési ár: egy termékfajtán belül adott termék beszállító által számlázott bruttó átadási ára. Amennyiben egy termékhez kapcsolódóan több beszerzési ár áll rendelkezésre, akkor a készlethez kapcsolódó adott napi átlagos súlyozott bruttó átadási ár.
+
 (3) E rendelet hatálya az üzletben vagy bevásárlóközpontban folytatott kereskedelmi tevékenység mellett kiterjed a csomagküldő kereskedelemre is.
+
+[^1]: Az 1. § (2) bekezdés 3. pontját a 279/2023. (VI. 29.) Korm. rendelet 6. § (1) bekezdése iktatta be.
