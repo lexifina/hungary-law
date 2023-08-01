@@ -1,3 +1,3 @@
-7. §[^7]
+7. § (1) Az R2. 5. § (2) bekezdés a) pontjában a „termékkategóriánként” szövegrész helyébe a „termékkategóriánként vagy termékfajtánként” szöveg lép.
 
-[^7]: A 7. § a 10. § (2) bekezdés alapján 2023. augusztus 1-jén lép hatályba.
+(2) Az R2. 5. § (2) bekezdés d) pont nyitó szövegrészében a „3. § b) pontjában” szövegrész helyébe a „3. §-ban és a 3/A. §-ban” szöveg, a „termékkategóriánként” szövegrész helyébe a „termékkategóriánként vagy termékfajtánként” szöveg lép.

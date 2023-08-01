@@ -1,3 +1,1 @@
-3. §[^3]
-
-[^3]: A 3. § a 10. § (2) bekezdés alapján 2023. augusztus 1-jén lép hatályba.
+3. § Hatályát veszti az R1. 1–2/A. §-a, 3. § (1)–(5) bekezdése és 4. §-a.
