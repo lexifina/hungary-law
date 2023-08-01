@@ -1,4 +1,4 @@
-## Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet
+## NNGYK
 
 ## KÁBÍTÓSZER (K1, K2) / PSZICHOTRÓP ANYAG (P1, P2, P3, P4) IMPORT adatlap
 
@@ -66,6 +66,6 @@
 
 | 28. | Útvonal és tranzitországok (közúti szállításnál) |  |
 
-9. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^176]
+9. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^177]
 
-[^176]: A 9. melléklet a 250/2017. (IX. 5.) Korm. rendelet 44. § (7) bekezdésével megállapított szöveg.
+[^177]: A 9. melléklet a 250/2017. (IX. 5.) Korm. rendelet 44. § (7) bekezdésével megállapított, a 334/2023. (VII. 20.) Korm. rendelet 25. § i) pontja szerint módosított szöveg.

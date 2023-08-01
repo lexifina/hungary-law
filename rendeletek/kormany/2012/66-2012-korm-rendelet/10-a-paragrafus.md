@@ -1,3 +1,3 @@
-## 10. §[^66] Az ipari mák termesztetésére irányuló eseti termesztetési engedély iránti kérelmet évente az ipari mák feldolgozásával foglalkozó, a 3. § (1) bekezdése szerinti hatályos tevékenységi engedéllyel rendelkező gazdálkodó szervezet évente, legkésőbb a tárgyév január 15-éig nyújtja be az OGYÉI-nek, megjelölve a kérelem által érintett évre vonatkozó, az ipari mák termesztésére szánt terület nagyságát, a termeszteni kívánt mákfajtát és a maximálisan kinyerni tervezett alkaloid mennyiséget.
+10/A. §[^67] Az NNGYK kábítószer, pszichotróp anyag, valamint új pszichoaktív anyag vonatkozásában – további intézkedés nélkül – jogosult a hatósági feladatai ellátását szolgáló, gyógyászati célú, engedélyköteles tevékenységet végezni.
 
-[^66]: A 10. § a 364/2014. (XII. 30.) Korm. rendelet 97. §-ával megállapított, a 172/2016. (VII. 1.) Korm. rendelet 56. § c) pontja, a 379/2016. (XII. 2.) Korm. rendelet 199. § (8) bekezdés a) pontja szerint módosított szöveg.
+[^67]: A 10/A. §-t a 347/2019. (XII. 23.) Korm. rendelet 6. §-a iktatta be, szövege a 334/2023. (VII. 20.) Korm. rendelet 25. § c) pontja szerint módosított szöveg.

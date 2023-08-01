@@ -390,7 +390,7 @@
 
 ## * Bármely más gyógyszer, amely kábítószert (pl. dihydrocodeine, dextropropoxyphene, hydrocodone, hydromorphone, trimeperidine, stb.) tartalmaz.
 
-3. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^170]
+3. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^171]
 
 Éves jelentés/becslés a pszichotróp anyagok gyártásáról, készletéről, forgalmazásáról
 
@@ -432,4 +432,4 @@
 
 | Pszichotróp anyag neve | Gyártandó hatóanyag mennyisége | Import | Fogyasztás: kiskereskedelmi értékesítés vagy kutatás | Nagykereskedelmi értékesítés | Nem pszichotróp anyag gyártására felhasználandó mennyiség |
 
-[^170]: A 3. melléklet a 250/2017. (IX. 5.) Korm. rendelet 44. § (2) bekezdésével megállapított szöveg.
+[^171]: A 3. melléklet a 250/2017. (IX. 5.) Korm. rendelet 44. § (2) bekezdésével megállapított szöveg.

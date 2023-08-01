@@ -26,7 +26,7 @@ e) a d) pontban megjelölt tervrajzokhoz mellékletként annak leírását, hogy
 
 f)[^52] az ellenőrzött anyag- és a személyforgalom útjának leírását az érintett helyiségek, raktárak között.
 
-(2a)[^53] Ha a gazdálkodó szervezet cégjegyzékben nyilvántartott cég és a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, az OGYÉI az iratot, valamint a cég cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+(2a)[^53] Ha a gazdálkodó szervezet cégjegyzékben nyilvántartott cég és a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, az NNGYK az iratot, valamint a cég cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
 (2b)[^54] Ha a kérelem vagy a hozzá csatolt mellékletek az (1) és (2) bekezdés szerinti követelményeknek nem felelnek meg vagy a tényállás tisztázása során felmerült új adatra tekintettel az szükséges, a hatóság vagy szakhatóság legfeljebb két ízben hiánypótlásra hívhatja fel a kérelmezőt.
 
@@ -43,6 +43,6 @@ f)[^52] az ellenőrzött anyag- és a személyforgalom útjának leírását az 
 [^50]: A 6. § (2) bekezdés b) pontja a 413/2015. (XII. 23.) Korm. rendelet 44. c) pontja szerint módosított szöveg.
 [^51]: A 6. § (2) bekezdés c) pontja a 413/2015. (XII. 23.) Korm. rendelet 44. d) pontja szerint módosított szöveg.
 [^52]: A 6. § (2) bekezdés f) pontja a 367/2014. (XII. 30.) Korm. rendelet 4. § a) pontja, a 607/2022. (XII. 28.) Korm. rendelet 10. § 5. pontja szerint módosított szöveg.
-[^53]: A 6. § (2a) bekezdését a 355/2012. (XII. 13.) Korm. rendelet 48. § (2) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 199. § (8) bekezdés b) pontja, a 393/2017. (XII. 13.) Korm. rendelet 46. §-a szerint módosított szöveg.
+[^53]: A 6. § (2a) bekezdését a 355/2012. (XII. 13.) Korm. rendelet 48. § (2) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 199. § (8) bekezdés b) pontja, a 393/2017. (XII. 13.) Korm. rendelet 46. §-a, a 334/2023. (VII. 20.) Korm. rendelet 25. § c) pontja szerint módosított szöveg.
 [^54]: A 6. § (2b) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 390. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^55]: A 6. § (5) bekezdése a 367/2014. (XII. 30.) Korm. rendelet 4. § a) pontja, a 347/2019. (XII. 23.) Korm. rendelet 14. § d) pontja, a 607/2022. (XII. 28.) Korm. rendelet 10. § 5. pontja szerint módosított szöveg.

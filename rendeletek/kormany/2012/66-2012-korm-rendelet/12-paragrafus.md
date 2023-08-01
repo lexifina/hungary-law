@@ -1,8 +1,8 @@
 ## 6. Az eseti kutatási engedély
 
-12. § (1)[^72] Az eseti kutatási engedély iránti kérelmet a kutatásra tevékenységi engedéllyel nem rendelkező kérelmezőnek vizsgálatonként kell benyújtania az OGYÉI-hez. Az eseti kutatási engedély az engedélyben megjelölt időpontig vagy visszavonásáig hatályos.
+12. § (1)[^72] Az eseti kutatási engedély iránti kérelmet a kutatásra tevékenységi engedéllyel nem rendelkező kérelmezőnek vizsgálatonként kell benyújtania az NNGYK-hoz. Az eseti kutatási engedély az engedélyben megjelölt időpontig vagy visszavonásáig hatályos.
 
-(2)[^73] Az OGYÉI az eseti kutatási engedély kiadása tárgyában hozott határozatát közli a rendőrséggel.
+(2)[^73] Az NNGYK az eseti kutatási engedély kiadása tárgyában hozott határozatát közli a rendőrséggel.
 
 (3) Az engedély iránti kérelemben meg kell jelölni:
 
@@ -48,8 +48,8 @@ a) azt az engedélyes kéri, vagy
 
 b) az engedélyes az e rendeletben foglalt előírásokat, vagy az engedélyben meghatározott kötelezettségeket ismételten vagy súlyosan megszegi.
 
-[^72]: A 12. § (1) bekezdése a 413/2015. (XII. 23.) Korm. rendelet 43. § a) pontja, a 379/2016. (XII. 2.) Korm. rendelet 199. § (8) bekezdés e) pontja szerint módosított szöveg.
-[^73]: A 12. § (2) bekezdése a 347/2019. (XII. 23.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^72]: A 12. § (1) bekezdése a 413/2015. (XII. 23.) Korm. rendelet 43. § a) pontja, a 379/2016. (XII. 2.) Korm. rendelet 199. § (8) bekezdés e) pontja, a 334/2023. (VII. 20.) Korm. rendelet 25. § f) pontja szerint módosított szöveg.
+[^73]: A 12. § (2) bekezdése a 347/2019. (XII. 23.) Korm. rendelet 8. §-ával megállapított, a 334/2023. (VII. 20.) Korm. rendelet 25. § c) pontja szerint módosított szöveg.
 [^74]: A 12. § (3) bekezdés b) pontja a 413/2015. (XII. 23.) Korm. rendelet 43. § c) pontja szerint módosított szöveg.
 [^75]: A 12. § (3) bekezdés c) pontja a 413/2015. (XII. 23.) Korm. rendelet 43. § c) pontja szerint módosított szöveg.
 [^76]: A 12. § (3) bekezdés d) pontja a 347/2019. (XII. 23.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.
