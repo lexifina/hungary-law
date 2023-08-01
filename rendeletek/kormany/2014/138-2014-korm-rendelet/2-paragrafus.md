@@ -48,7 +48,7 @@ c) a képügynökségek adatbázisai.
 
 a) a (2) és (3) bekezdésben említett – vizuális alkotást nyilvántartó – információforrások, muzeális intézmények adatbázisai,
 
-b) az Építésügyi Dokumentációs és Információs Központot, az Országos Építésügyi Nyilvántartást, az Országos Központi Tervtárat, a Tervtárak Országos Adatbázisát üzemeltető Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság adatbázisai,
+b)[^3] az Építésügyi Dokumentációs és Információs Központot, az Országos Építésügyi Nyilvántartást, az Országos Központi Tervtárat, a Tervtárak Országos Adatbázisát felügyelő, az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter által vezetett minisztérium adatbázisai,
 
 c) az érintett jogosulti csoportot képviselő Magyar Építész Kamara, illetve Magyar Mérnöki Kamara adatbázisai és
 
@@ -78,3 +78,4 @@ b) a műtípus szerint érintett, nyilvánosság számára hozzáférhető gyűj
 
 [^1]: A 2. § (4) bekezdés nyitó szövegrésze a 280/2018. (XII. 21.) Korm. rendelet 11. §-a szerint módosított szöveg.
 [^2]: A 2. § (4a) bekezdését a 280/2018. (XII. 21.) Korm. rendelet 9. §-a iktatta be.
+[^3]: A 2. § (4a) bekezdés b) pontja a 351/2023. (VII. 27.) Korm. rendelet 23. §-a szerint módosított szöveg.
