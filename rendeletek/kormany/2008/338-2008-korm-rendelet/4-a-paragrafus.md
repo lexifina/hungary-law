@@ -1,3 +1,3 @@
-## 3–4. §[^7]
+4/A. §[^9]
 
-[^7]: A 3–4. §-t a 254/2013. (VII. 5.) Korm. rendelet 60. § (2) bekezdése hatályon kívül helyezte.
+[^9]: A 4/A. §-t a 225/2010. (VIII. 12.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 254/2013. (VII. 5.) Korm. rendelet 60. § (2) bekezdése.

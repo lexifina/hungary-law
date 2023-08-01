@@ -1,3 +1,3 @@
-6. §[^10]
+6. §[^11]
 
-[^10]: A 6. § a (2) bekezdése alapján hatályát vesztette.
+[^11]: A 6. § a (2) bekezdése alapján hatályát vesztette.
