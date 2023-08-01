@@ -1,1 +1,0 @@
-2. § A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 53. § (2) bekezdésétől eltérően a TESZOR 85.53.11 Személygépjármű-vezető képzés tevékenységből származó bevételre is 80 százalékos költséghányad alkalmazható.
