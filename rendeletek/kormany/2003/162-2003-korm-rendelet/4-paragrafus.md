@@ -2,9 +2,9 @@
 
 4. § (1) Ipari mák vetéséhez kizárólag ipari mákfajta fémzárolt vetőmagja használható fel.
 
-(2)[^14] Ipari mák termesztése kizárólag a külön jogszabály szerint az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI) által kiadott tevékenységi engedéllyel, valamint évenként megújítandó eseti termesztetési engedéllyel (a továbbiakban: eseti termesztetési engedély) rendelkező gazdálkodó szervezettel (a továbbiakban: termesztető) megkötött szerződés alapján végezhető.
+(2)[^14] Ipari mák termesztése kizárólag a külön jogszabály szerint a Nemzeti Népegészségügyi és Gyógyszerészeti Központ (a továbbiakban: NNGYK) által kiadott tevékenységi engedéllyel, valamint évenként megújítandó eseti termesztetési engedéllyel (a továbbiakban: eseti termesztetési engedély) rendelkező gazdálkodó szervezettel (a továbbiakban: termesztető) megkötött szerződés alapján végezhető.
 
 (3)[^15]
 
-[^14]: A 4. § (2) bekezdése a 62/2010. (III. 18.) Korm. rendelet 18. § (1) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 58. § a) pontja szerint módosított szöveg.
+[^14]: A 4. § (2) bekezdése a 62/2010. (III. 18.) Korm. rendelet 18. § (1) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 58. § a) pontja, a 334/2023. (VII. 20.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
 [^15]: A 4. § (3) bekezdését a 347/2019. (XII. 23.) Korm. rendelet 3. § a) pontja hatályon kívül helyezte.

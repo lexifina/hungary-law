@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-162-20-
 | 2020-01-01 | 2003-162-20-22.27 | 347/2019. (XII. 23.) Korm. rendelet |
 | 2020-03-01 | 2003-162-20-22.28 | 19/2015. (II. 16.) Korm. rendelet |
 | 2023-01-01 | 2003-162-20-22.29 | 332/2016. (XI. 8.) Korm. rendelet |
+| 2023-08-01 | 2003-162-20-22.30 | 62/2010. (III. 18.) Korm. rendelet |

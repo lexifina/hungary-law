@@ -20,7 +20,7 @@ ah)[^17]
 
 ai)[^18] a termesztető részére a termesztők által leadott kifejtetlen ipari máktok mennyisége (kg).
 
-b)[^19] a KKR. 10. §-ában meghatározott időpontig az eseti termesztetési engedély kiadása érdekében a KKR. 10. §-ában meghatározott adatokat az OGYÉI-nek, valamint az agrárpolitikáért felelős miniszternek megküldeni,
+b)[^19] a KKR. 10. §-ában meghatározott időpontig az eseti termesztetési engedély kiadása érdekében a KKR. 10. §-ában meghatározott adatokat az NNGYK-nak, valamint az agrárpolitikáért felelős miniszternek megküldeni,
 
 c)[^20] folyamatos nyilvántartást vezetni a szerződéses máktermesztőkről, azok vetőmag és ipari mák termőterületeinek helyéről és nagyságáról, az átadott és visszaszolgáltatott vetőmag, valamint az átvett ipari mák kifejtetlen tokjának mennyiségéről, továbbá a bejelentett különleges esetekről,
 
@@ -47,7 +47,7 @@ j)[^25] a vetőmaggal kapcsolatos számlák másolatát a kormányhivatalnak az 
 [^16]: Az 5. § (1) bekezdés a) pontja a 62/2010. (III. 18.) Korm. rendelet 3. § (1) bekezdésével megállapított, nyitó szövegrésze a 296/2012. (X. 17.) Korm. rendelet 13. § (2) bekezdés b) pontja, a 19/2015. (II. 16.) Korm. rendelet 9. § 1. pontja, a 360/2019. (XII. 30.) Korm. rendelet 29. § (3) bekezdés a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 50. § a) pontja szerint módosított szöveg.
 [^17]: Az 5. § (1) bekezdés a) pont ah) alpontját a 19/2015. (II. 16.) Korm. rendelet 10. § b) pontja hatályon kívül helyezte.
 [^18]: Az 5. § (1) bekezdés a) pont ai) alpontja a 19/2015. (II. 16.) Korm. rendelet 9. § 2. pontja szerint módosított szöveg.
-[^19]: Az 5. § (1) bekezdés b) pontja a 19/2015. (II. 16.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 332/2016. (XI. 8.) Korm. rendelet 8. § c) pontja, a 379/2016. (XII. 2.) Korm. rendelet 58. § d) pontja, a 347/2019. (XII. 23.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^19]: Az 5. § (1) bekezdés b) pontja a 19/2015. (II. 16.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 332/2016. (XI. 8.) Korm. rendelet 8. § c) pontja, a 379/2016. (XII. 2.) Korm. rendelet 58. § d) pontja, a 347/2019. (XII. 23.) Korm. rendelet 2. § a) pontja, a 334/2023. (VII. 20.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
 [^20]: Az 5. § (1) bekezdés c) pontja a 62/2010. (III. 18.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 19/2015. (II. 16.) Korm. rendelet 9. § 3. pontja szerint módosított szöveg.
 [^21]: Az 5. § (1) bekezdés f) pontja a 62/2010. (III. 18.) Korm. rendelet 3. § (3) bekezdésével megállapított, a 19/2015. (II. 16.) Korm. rendelet 9. § 4. pontja szerint módosított szöveg.
 [^22]: Az 5. § (1) bekezdés g) pontja a 19/2015. (II. 16.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
