@@ -6,20 +6,22 @@ b) Belügyminisztérium,
 
 c) Energiaügyi Minisztérium,
 
-d) Építési és Közlekedési Minisztérium,
+d) Európai Uniós Ügyek Minisztériuma,
 
-e) Gazdaságfejlesztési Minisztérium,
+e) Építési és Közlekedési Minisztérium,
 
-f) Honvédelmi Minisztérium,
+f) Gazdaságfejlesztési Minisztérium,
 
-g) Igazságügyi Minisztérium,
+g) Honvédelmi Minisztérium,
 
-h) Kulturális és Innovációs Minisztérium,
+h) Igazságügyi Minisztérium,
 
-i) Külgazdasági és Külügyminisztérium,
+i) Kulturális és Innovációs Minisztérium,
 
-j) Miniszterelnöki Kabinetiroda,
+j) Külgazdasági és Külügyminisztérium,
 
-k) Miniszterelnökség és
+k) Miniszterelnöki Kabinetiroda,
 
-l) Pénzügyminisztérium.
+l) Miniszterelnökség és
+
+m) Pénzügyminisztérium.
