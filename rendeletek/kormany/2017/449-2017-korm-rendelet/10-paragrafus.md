@@ -1,0 +1,3 @@
+10. §[^13] Az NNGYK a 8–9. § szerinti eljárása során megkeresheti a származási tagállamban a kérdéses gyógyszer forgalomba hozatali engedélyének kiadására jogosult, hatáskörrel és illetékességgel rendelkező hatóságot (társhatóság) annak érdekében, hogy az átadja a párhuzamos import engedélyezése szempontjából jelentőséggel bíró, a gyógyszer gyártására és forgalmazására vonatkozó egyéb lényeges adatokat és okiratokat, így különösen a párhuzamos importtal behozni kívánt gyógyszer forgalomba hozatali engedélyezési kémiai-gyógyszerészeti dokumentációját.
+
+[^13]: A 10. § a 334/2023. (VII. 20.) Korm. rendelet 56. § d) pontja szerint módosított szöveg.
