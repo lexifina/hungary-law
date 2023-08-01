@@ -1,6 +1,6 @@
 2. melléklet a 21/2020. (XII. 30.) PM rendelethez
 
-## Képesítési előírások
+Képesítési előírások
 
 1. Adóügyi munkakörcsoport
 

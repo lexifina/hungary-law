@@ -1,6 +1,6 @@
 3. melléklet a 21/2020. (XII. 30.) PM rendelethez
 
-## A munkaköri pótlékra jogosító munkakörök és a munkaköri pótlék mértéke
+A munkaköri pótlékra jogosító munkakörök és a munkaköri pótlék mértéke
 
 1. A munkaköri pótlékra jogosító munkakörök és a munkaköri pótlék mértéke
 
