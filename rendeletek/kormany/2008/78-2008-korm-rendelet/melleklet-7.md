@@ -1,6 +1,6 @@
 7. melléklet a 78/2008. (IV. 3.) Korm. rendelethez
 
-## A fürdőhely üzemeltetésének szabályai
+A fürdőhely üzemeltetésének szabályai
 
 1. Fürdőhelynél a várható legnagyobb vendégszámra vonatkozóan egy főre számítva 10 m2 pihenést szolgáló területet kell biztosítani. A terület egy részét füvesíteni, parkosítani kell, fák, bokrok ültetésével árnyas pihenőrészt kell kialakítani. A 6 éven aluli gyermekek részére célszerű külön fürdőhelyet biztosítani.
 
