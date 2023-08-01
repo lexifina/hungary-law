@@ -14,7 +14,7 @@ d) a vállalkozások hazai és nemzetközi versenyképességének erősítése
 
 3. A Kerekasztal feladatkörében
 
-a) megvitatja a központi államigazgatási szervek, a területi kormányzati igazgatási szervek, szakmai és gazdasági kamarák által a deregulációért felelős kormánybiztos részére megküldött deregulációs célú szakmai javaslatokat,
+a) [^1] megvitatja a központi államigazgatási szervek, a területi kormányzati igazgatási szervek, szakmai és gazdasági kamarák által az igazságügyi miniszter részére megküldött deregulációs célú szakmai javaslatokat,
 
 b) jogszabályalkotást, jogszabály-módosításokat kezdeményezhet a feladat- és hatáskörrel rendelkező miniszternél a hatályos ágazati szabályozás deregulációs célú módosítása érdekében,
 
@@ -24,7 +24,7 @@ d) javaslatot tehet egyes közigazgatási hatósági eljárások felülvizsgála
 
 e) figyelemmel kíséri az állami működés tekintetében alkalmazott nemzetközi jó gyakorlatokat és megoldásokat.
 
-4. A Kerekasztal elnöke a deregulációért felelős kormánybiztos.
+4.[^2] A Kerekasztal elnöke az igazságügyi miniszter.
 
 5. A Kormány a Kerekasztal társelnökének az Állami Számvevőszék elnökét kéri fel.
 
@@ -32,7 +32,7 @@ e) figyelemmel kíséri az állami működés tekintetében alkalmazott nemzetk�
 
 a) a Miniszterelnökség közigazgatási államtitkárát,
 
-b) az Igazságügyi Minisztérium közigazgatási államtitkárát,
+b)[^3]
 
 c) a Magyar Energetikai és Közmű-szabályozási Hivatal elnökét,
 
@@ -60,6 +60,11 @@ nevezi ki, illetve kéri fel.
 
 11. A Kerekasztal működésének részletes szabályait, ügyrendjét saját maga állapítja meg.
 
-12. A Kerekasztal titkárságát a Miniszterelnöki Kabinetiroda működteti, a titkársági feladatok ellátásáért az állami és közszolgáltatási feladatok felülvizsgálatáért felelős miniszteri biztos felelős.
+12.[^4] A Kerekasztal titkárságát az Igazságügyi Minisztérium működteti, a titkársági feladatok ellátásáért az állami és közszolgáltatási feladatok felülvizsgálatáért felelős miniszteri biztos felelős.
 
 13. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 3. pont a) alpontja az 1340/2023. (VII. 31.) Korm. határozat 11. pontjával megállapított szöveg.
+[^2]: A 4. pont az 1340/2023. (VII. 31.) Korm. határozat 12. pontjával megállapított szöveg.
+[^3]: A 6. pont b) alpontját az 1340/2023. (VII. 31.) Korm. határozat 14. pontja hatályon kívül helyezte.
+[^4]: A 12. pont az 1340/2023. (VII. 31.) Korm. határozat 13. pontjával megállapított szöveg.
