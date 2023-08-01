@@ -8,10 +8,10 @@
 
 (3) A más EGT-állambeli tervezetre vonatkozó információk bizalmas kezelésére vonatkozó kérés esetén az érintett tervezetre vonatkozó információk megismerésére csak az jogosult, akinek ez az észrevételezés ellátása érdekében indokolt. A megismerés indokoltságáról a szakminiszter dönt. Az információk bizalmas kezelésének kötelezettsége nem érinti a független szakértők bevonásának lehetőségét.
 
-(4)[^22] Ha a más EGT-állambeli tervezetben foglalt követelmény több szakminiszter feladatkörébe tartozik, és az érintett szakminiszterek álláspontja eltér egymástól, az igazságügyért felelős miniszter – az európai uniós ügyek koordinációjáért felelős miniszter bevonásával – haladéktalanul egyeztet az érintett szakminiszterekkel az egységes álláspont kialakítása érdekében.
+(4)[^22] Ha a más EGT-állambeli tervezetben foglalt követelmény több szakminiszter feladatkörébe tartozik, és az érintett szakminiszterek álláspontja eltér egymástól, az európai uniós ügyek koordinációjáért felelős miniszter haladéktalanul egyeztet az érintett szakminiszterekkel az egységes álláspont kialakítása érdekében.
 
 (5) A más EGT-állambeli tervezetben foglalt (1) bekezdés szerinti követelményt az európai uniós jogi követelményekkel való összeegyeztethetőség szempontjából kifogásoló, valamennyi érintett egyetértését bíró észrevételt az érintett szakminiszterek elektronikus úton továbbítják a Központnak, amely azt az IMI-rendszeren keresztül megküldi a Bizottságnak.
 
 Hivatkozás a jogszabályban a bejelentés megtörténtére
 
-[^22]: A 24. § (4) bekezdése a 303/2014. (XII. 5.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
+[^22]: A 24. § (4) bekezdése a 303/2014. (XII. 5.) Korm. rendelet 11. § c) pontja, a 314/2023. (VII. 17.) Korm. rendelet 14. §-a szerint módosított szöveg.
