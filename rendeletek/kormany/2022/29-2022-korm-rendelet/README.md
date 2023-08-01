@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-29-20-2
 | 2022-02-02 | 2022-29-20-22.2 | 2010: CXXX. törvény |
 | 2022-07-01 | 2022-29-20-22.3 | 238/2022. (VI. 30.) Korm. rendelet |
 | 2023-01-01 | 2022-29-20-22.4 | 630/2022. (XII. 30.) Korm. rendelet |
+| 2023-08-01 | 2022-29-20-22.5 | 334/2023. (VII. 20.) Korm. rendelet |
