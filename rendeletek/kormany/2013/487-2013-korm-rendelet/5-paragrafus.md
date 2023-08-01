@@ -1,8 +1,8 @@
-5. § (1)[^36] A vizsgaszervező az építésügyi vizsga teljesítésére – a tárgyévet megelőző év október 31-ig – éves vizsgatervet készít, amelyet a miniszter részére december 1-jéig megküld.
+5. § (1)[^38] A vizsgaszervező az építésügyi vizsga teljesítésére – a tárgyévet megelőző év október 31-ig – éves vizsgatervet készít, amelyet a miniszter részére december 1-jéig megküld.
 
-(2)[^37] A 4. § (4) bekezdése szerinti építésügyi vizsgát 3 tagú Építésügyi Vizsgabizottság (a továbbiakban: bizottság) bírálja el. A bizottság két tagja a vizsgaszervező képviselője, egy tagja a vizsgaszervező által felkért (3) bekezdés szerinti oktató, vagy a miniszter által kijelölt személy lehet.
+(2)[^39] A 4. § (4) bekezdése szerinti építésügyi vizsgát 3 tagú Építésügyi Vizsgabizottság (a továbbiakban: bizottság) bírálja el. A bizottság két tagja a vizsgaszervező képviselője, egy tagja a vizsgaszervező által felkért (3) bekezdés szerinti oktató, vagy a miniszter által kijelölt személy lehet.
 
-(3)[^38] A szakmai továbbképzésen oktató az lehet, aki rendelkezik
+(3)[^40] A szakmai továbbképzésen oktató az lehet, aki rendelkezik
 
 a) az oktatott témakör, illetve a vizsgakövetelmény szerinti szakirányú felsőfokú végzettséggel,
 
@@ -18,9 +18,9 @@ c) az 1. melléklet B) és C) pontjában, valamint a 2. melléklet B) és C) pon
 
 d) a miniszter által szervezett, beszámolóval záruló felkészítő tanfolyam elvégzésének igazolásával.
 
-(4)[^39] A (3) bekezdés szerinti oktató a minisztertől kérheti oktatói feladat végzése alóli felmentését.
+(4)[^41] A (3) bekezdés szerinti oktató a minisztertől kérheti oktatói feladat végzése alóli felmentését.
 
-[^36]: Az 5. § (1) bekezdése a 482/2016. (XII. 28.) Korm. rendelet 45. § (1) bekezdésével megállapított, a 13/2019. (II. 11.) Korm. rendelet 20. § b) pontja szerint módosított szöveg.
-[^37]: Az 5. § (2) bekezdése a 38/2015. (III. 11.) Korm. rendelet 25. § (11) bekezdésével megállapított szöveg.
-[^38]: Az 5. § (3) bekezdés nyitó szövegrésze a 280/2014. (XI. 14.) Korm. rendelet 4. § (4) bekezdés b) pontja szerint módosított szöveg.
-[^39]: Az 5. § (4) bekezdését a 482/2016. (XII. 28.) Korm. rendelet 45. § (2) bekezdése iktatta be.
+[^38]: Az 5. § (1) bekezdése a 482/2016. (XII. 28.) Korm. rendelet 45. § (1) bekezdésével megállapított, a 13/2019. (II. 11.) Korm. rendelet 20. § b) pontja szerint módosított szöveg.
+[^39]: Az 5. § (2) bekezdése a 38/2015. (III. 11.) Korm. rendelet 25. § (11) bekezdésével megállapított szöveg.
+[^40]: Az 5. § (3) bekezdés nyitó szövegrésze a 280/2014. (XI. 14.) Korm. rendelet 4. § (4) bekezdés b) pontja szerint módosított szöveg.
+[^41]: Az 5. § (4) bekezdését a 482/2016. (XII. 28.) Korm. rendelet 45. § (2) bekezdése iktatta be.

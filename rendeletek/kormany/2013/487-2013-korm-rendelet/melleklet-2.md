@@ -24,7 +24,7 @@
 
 ## 13. Az építményekkel szemben támasztott követelmények
 
-## 14.[^49] Az egyszerű bejelentéshez kötött építési tevékenység
+## 14.[^52] Az egyszerű bejelentéshez kötött építési tevékenység
 
 ## 15. Építésügyi fogalomrendszer
 
@@ -36,7 +36,7 @@
 
 ## 19. Az építési folyamat szereplői
 
-## 20–22.[^50]
+## 20–22.[^53]
 
 ## B) ÉTDR TÉMAKÖRÖK
 
@@ -96,5 +96,5 @@
 
 A) ÉPÍTÉSÜGYI TÉMAKÖRÖK
 
-[^49]: Az 1. melléklet A) rész 14. pontját a 38/2015. (III. 11.) Korm. rendelet 25. § (16) bekezdés a) pontja hatályon kívül helyezte, újonnan a 156/2016. (VI. 13.) Korm. rendelet 18. §-a szerint módosított szöveg.
-[^50]: Az 1. melléklet A) rész 20–22. pontját a 38/2015. (III. 11.) Korm. rendelet 25. § (16) bekezdés a) pontja hatályon kívül helyezte.
+[^52]: Az 1. melléklet A) rész 14. pontját a 38/2015. (III. 11.) Korm. rendelet 25. § (16) bekezdés a) pontja hatályon kívül helyezte, újonnan a 156/2016. (VI. 13.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^53]: Az 1. melléklet A) rész 20–22. pontját a 38/2015. (III. 11.) Korm. rendelet 25. § (16) bekezdés a) pontja hatályon kívül helyezte.

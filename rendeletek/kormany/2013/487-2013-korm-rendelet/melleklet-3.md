@@ -1,4 +1,4 @@
-## 1.[^51] Az Országgyűlés, a Kormány és az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter építésüggyel kapcsolatos feladatai
+## 1.[^54] Az Országgyűlés, a Kormány és az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter építésüggyel kapcsolatos feladatai
 
 ## 2. A sajátos építményfajták viszonya az általános építésügyi szabályokhoz
 
@@ -32,13 +32,13 @@
 
 ## 17. Az építésügyi szabványok alkalmazása
 
-## 18.[^52] Az egyszerű bejelentéshez kötött építési tevékenység
+## 18.[^55] Az egyszerű bejelentéshez kötött építési tevékenység
 
 ## 19. Építésügyi fogalomrendszer
 
 ## 20. Az építészeti értékek védelmének eszközei
 
-## 21.[^53]
+## 21.[^56]
 
 ## 22. Tervtanácsok működése
 
@@ -52,7 +52,7 @@
 
 ## 27. Az építési folyamat szereplői
 
-## 28.[^54]
+## 28.[^57]
 
 ## B) ÉTDR TÉMAKÖRÖK
 
@@ -106,10 +106,10 @@
 
 ## 8. Műemlékek fejlesztése, korszerűsítése
 
-3. melléklet a 487/2013. (XII. 17.) Korm. rendelethez[^55]
+3. melléklet a 487/2013. (XII. 17.) Korm. rendelethez[^58]
 
-[^51]: A 2. melléklet A) fejezet 1. pontja a 13/2019. (II. 11.) Korm. rendelet 20. § d) pontja szerint módosított szöveg.
-[^52]: A 2. melléklet A) rész 18. pontját a 38/2015. (III. 11.) Korm. rendelet 25. § (16) bekezdés b) pontja hatályon kívül helyezte, újonnan a 156/2016. (VI. 13.) Korm. rendelet 18. §-a szerint módosított szöveg.
-[^53]: A 2. melléklet A) rész 21. pontját a 38/2015. (III. 11.) Korm. rendelet 25. § (16) bekezdés b) pontja hatályon kívül helyezte.
-[^54]: A 2. melléklet A) rész 28. pontját a 38/2015. (III. 11.) Korm. rendelet 25. § (16) bekezdés b) pontja hatályon kívül helyezte.
-[^55]: A 3. melléklet a 280/2014. (XI. 14.) Korm. rendelet 4. § (3) bekezdésével megállapított, a 38/2015. (III. 11.) Korm. rendelet 25. § (13) bekezdése, a 360/2019. (XII. 30.) Korm. rendelet 126. § (5) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^54]: A 2. melléklet A) fejezet 1. pontja a 13/2019. (II. 11.) Korm. rendelet 20. § d) pontja szerint módosított szöveg.
+[^55]: A 2. melléklet A) rész 18. pontját a 38/2015. (III. 11.) Korm. rendelet 25. § (16) bekezdés b) pontja hatályon kívül helyezte, újonnan a 156/2016. (VI. 13.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^56]: A 2. melléklet A) rész 21. pontját a 38/2015. (III. 11.) Korm. rendelet 25. § (16) bekezdés b) pontja hatályon kívül helyezte.
+[^57]: A 2. melléklet A) rész 28. pontját a 38/2015. (III. 11.) Korm. rendelet 25. § (16) bekezdés b) pontja hatályon kívül helyezte.
+[^58]: A 3. melléklet a 280/2014. (XI. 14.) Korm. rendelet 4. § (3) bekezdésével megállapított, a 38/2015. (III. 11.) Korm. rendelet 25. § (13) bekezdése, a 360/2019. (XII. 30.) Korm. rendelet 126. § (5) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.

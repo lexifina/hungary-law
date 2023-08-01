@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-487-20-
 | 2020-03-01 | 2013-487-20-22.10 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2021-01-01 | 2013-487-20-22.11 | 668/2020. (XII. 28.) Korm. rendelet |
 | 2023-01-01 | 2013-487-20-22.12 | 668/2020. (XII. 28.) Korm. rendelet |
+| 2023-08-01 | 2013-487-20-22.13 | 351/2023. (VII. 27.) Korm. rendelet |
