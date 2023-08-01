@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-246-20-
 | 2015-04-01 | 2013-246-20-22.4 | 70/2015. (III. 30.) Korm. rendelet |
 | 2017-04-01 | 2013-246-20-22.5 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2018-10-01 | 2013-246-20-22.6 | 162/2018. (IX. 10.) Korm. rendelet |
+| 2023-08-01 | 2013-246-20-22.7 | 30/2015. (II. 25.) Korm. rendelet |
