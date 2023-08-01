@@ -24,7 +24,7 @@ d) a Budapesti Műszaki és Gazdaságtudományi Egyetem oktatóreaktora,
 
 e) a Radioaktív Hulladékokat Kezelő Közhasznú Nonprofit Kft.,
 
-f)[^12] a Nemzeti Népegészségügyi Központ,
+f)[^12] a Nemzeti Népegészségügyi és Gyógyszerészeti Központ,
 
 g) a Magyarország területén sugárveszélyes tevékenység végzésére engedéllyel rendelkező szervezet,
 
@@ -41,4 +41,4 @@ i) az Országos Mentőszolgálat.
 [^9]: A 7. § a 286/2017. (IX. 22.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^10]: A 7. § (2) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 51. §-a szerint módosított szöveg.
 [^11]: A 7. § (2) bekezdés c) pontja a 204/2019. (VIII. 23.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^12]: A 7. § (2) bekezdés f) pontja a 162/2018. (IX. 10.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^12]: A 7. § (2) bekezdés f) pontja a 334/2023. (VII. 20.) Korm. rendelet 8. §-ával megállapított szöveg.
