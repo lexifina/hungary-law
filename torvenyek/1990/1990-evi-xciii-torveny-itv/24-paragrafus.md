@@ -98,6 +98,6 @@ Ha a hatósági nyilvántartásban a gépjármű teljesítménye csak lóerőben
 
 (5) Gépjármű, pótkocsi tulajdonjoga, illetve gépjárműre, pótkocsira vonatkozó haszonélvezeti, használati jog meghatározott hányadának megszerzése esetén a megszerzett hányadra arányosan eső illetéket kell fizetni.
 
-(6) Nem kell az illetéket megfizetni, ha a vagyonszerző a tulajdonszerzés bejelentésével egyidejűleg külföldi kivitel céljából Z betűjelű ideiglenes rendszám kiadását kéri, mindaddig, míg a gépjármű tartós belföldi használatához szükséges forgalmi engedély kiadását nem kéri vagy a gépjárművet belföldön nem értékesíti.
+(6) Nem kell az illetéket megfizetni, ha a vagyonszerző a tulajdonszerzés bejelentésével egyidejűleg külföldi kivitel céljából ideiglenes rendszám kiadását kéri, mindaddig, míg a gépjármű tartós belföldi használatához szükséges forgalmi engedély kiadását nem kéri vagy a gépjárművet belföldön nem értékesíti.
 
 (7)

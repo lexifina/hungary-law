@@ -42,6 +42,6 @@ u) a hallgatói hitelből eredő követelés érvényesítése és behajtása ir
 
 v) a Csődtv. 33/A., 40., 63. és 63/A. §-a alapján a hitelezők által indított perekben.
 
-(2)
+(2) Illetékfeljegyzési jog illeti meg a reorganizációs és a szerkezetátalakítási eljárás alatt állót a reorganizációs és a szerkezetátalakítási eljárás alatt indított bírósági eljárásokban.
 
 (3) Az (1) bekezdés i) pontjában meghatározott, a munkaviszonyból származó munkabér- és egyéb követelésre tekintettel indított felszámolási eljárás esetén az illeték viseléséről a bíróság az eljárást megszüntető vagy a felszámolást elrendelő végzésében dönt.

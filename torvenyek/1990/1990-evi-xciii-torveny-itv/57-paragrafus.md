@@ -16,7 +16,7 @@ g) a határozat kijavítása, kiigazítása, illetve kiegészítése iránti ké
 
 h) a választói névjegyzékkel kapcsolatos eljárás;
 
-i)
+i) a kisajátítási eljárással, valamint a közérdekű használati jog alapításával összefüggő kártalanítási összeg letétbe helyezése;
 
 j) az áttételt elrendelő végzés elleni fellebbezés;
 
@@ -54,7 +54,7 @@ zsa) a cég cégkivonatának, cégbizonyítványának és cégmásolatának kiá
 
 zsb) a cég cégnyilvántartásban szereplő elektronikus okiratainak elektronikus úton történő megküldése.
 
-(2)
+(2) Illetékmentes a természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény felhatalmazása alapján kiadott kormányrendeletekben meghatározott felső összeghatárok, illetve értékhatárok változására tekintettel az adós által a bírósághoz benyújtott kérelem és az e kérelmet elbíráló végzés ellen benyújtott fellebbezés.
 
 (3)
 
