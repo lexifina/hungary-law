@@ -172,6 +172,8 @@ a) Nemzeti Hírközlési és Informatikai Tanács
 
 14.[^42] Védelmi Igazgatási Hivatal
 
+15.[^43] Európai Uniós Ügyek Minisztériuma
+
 [^34]: Az 1. melléklet A) rész 1. pont 1.2. alpontja a 717/2021. (XII. 20.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
 [^35]: Az 1. melléklet 2.10. pontja a 300/2012. (X. 26.) Korm. rendelet 16. §-ával megállapított szöveg.
 [^36]: Az 1. melléklet C) pont 4. alpontját a 16/2017. (I. 31.) Korm. rendelet 1. §-a iktatta be.
@@ -181,3 +183,4 @@ a) Nemzeti Hírközlési és Informatikai Tanács
 [^40]: A 2. melléklet 12. pontját a 95/2019. (IV. 25.) Korm. rendelet 7. §-a iktatta be.
 [^41]: A 2. melléklet 13. pontját a 262/2019. (XI. 14.) Korm. rendelet 1. §-a iktatta be.
 [^42]: A 2. melléklet 14. pontját a 337/2022. (IX. 7.) Korm. rendelet 7. §-a iktatta be.
+[^43]: A 2. melléklet 15. pontját a 314/2023. (VII. 17.) Korm. rendelet 10. §-a iktatta be.
