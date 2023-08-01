@@ -34,7 +34,7 @@ Az egységes kormányzati ügyiratkezelő rendszerbe bevont szervek[^218]
 
 15.[^230] Információs Hivatal
 
-16.[^231]
+16.[^231] Európai Uniós Ügyek Minisztériuma
 
 17.[^232] VERITAS Történetkutató Intézet
 
@@ -106,7 +106,7 @@ Az egységes kormányzati ügyiratkezelő rendszerbe bevont szervek[^218]
 [^228]: Az 1. melléklet 13. pontja a 95/2018. (V. 22.) Korm. rendelet 1. § 1. pontjával megállapított szöveg.
 [^229]: Az 1. melléklet 14. pontja a 206/2018. (XI. 10.) Korm. rendelet 6. § (1) bekezdés a) pontjával megállapított szöveg.
 [^230]: Az 1. melléklet 15. pontja a 95/2018. (V. 22.) Korm. rendelet 1. § 1. pontjával megállapított szöveg.
-[^231]: Az 1. melléklet 16. pontját az 573/2020. (XII. 9.) Korm. rendelet 3. § b) pontja hatályon kívül helyezte.
+[^231]: Az 1. melléklet 16. pontját az 573/2020. (XII. 9.) Korm. rendelet 3. § b) pontja hatályon kívül helyezte, újonnan a 314/2023. (VII. 17.) Korm. rendelet 3. § (1) bekezdése iktatta be.
 [^232]: Az 1. melléklet 17. pontja a 95/2018. (V. 22.) Korm. rendelet 1. § 1. pontjával megállapított szöveg.
 [^233]: Az 1. melléklet 18. pontja a 95/2018. (V. 22.) Korm. rendelet 1. § 1. pontjával megállapított, a 616/2022. (XII. 29.) Korm. rendelet 63. §-a szerint módosított szöveg.
 [^234]: Az 1. melléklet 19. pontja a 126/2019. (V. 30.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
