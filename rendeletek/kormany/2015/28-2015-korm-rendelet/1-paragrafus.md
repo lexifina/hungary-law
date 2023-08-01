@@ -1,3 +1,3 @@
-1. § (1) Az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI) az egészségügyért felelős miniszter (a továbbiakban: miniszter) irányítása alá tartozó, központi hivatalként működő központi költségvetési szerv.
+1. §[^1]
 
-(2) Az OGYÉI a miniszter által vezetett minisztérium költségvetési fejezetén belül önálló alcímet képez.
+[^1]: Az 1. §-t a 334/2023. (VII. 20.) Korm. rendelet 43. §-a hatályon kívül helyezte.
