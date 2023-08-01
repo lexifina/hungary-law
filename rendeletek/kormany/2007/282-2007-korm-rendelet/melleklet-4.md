@@ -46,7 +46,7 @@
 
 |  | b) az egyéni védőeszközökről és a 89/686/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2016. március 9-i 2016/425 európai parlamenti és tanácsi rendelet I. melléklete alapján a II. és III. kategóriába tartozó egyéni védőeszközök megfelelőségének vizsgálata | foglalkoztatáspolitikáért felelős miniszter |
 
-| 11. | Gyógyszerek vizsgálata | Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (OGYÉI) |
+| 11. | Gyógyszerek vizsgálata | Nemzeti Népegészségügyi és Gyógyszerészeti Központ |
 
 | 12. | Közlekedéspszichológiai kérdések, vizsgálatok | KAV Közlekedési Alkalmassági és Vizsgaközpont Nonprofit Korlátolt Felelősségű Társaság |
 
@@ -138,7 +138,7 @@ Szakvélemény adására feljogosított szervek
 
 |  | b) mozgókép-terjesztés, állagvédelem | Nemzeti Filmintézet Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság |
 
-| 6. | Foglalkozási megbetegedés vizsgálata, foglalkozási eredet véleményezése | Nemzeti Népegészségügyi Központ Magyar Honvédség Dr. Radó György Honvéd Egészségügyi Központ |
+| 6. | Foglalkozási megbetegedés vizsgálata, foglalkozási eredet véleményezése | Nemzeti Népegészségügyi és Gyógyszerészeti Központ Magyar Honvédség Dr. Radó György Honvéd Egészségügyi Központ |
 
 | 7. | Jövedéki termékek adójogi minősítése, termékek áruosztályozása | Nemzeti Adó- és Vámhivatal Szakértői Intézete |
 
@@ -146,4 +146,4 @@ Szakvélemény adására feljogosított szervek
 
 | 9. | A felszíni és a felszín alatti vizek mennyiségi és minőségi állapotával összefüggő, illetve vízügyi igazgatási szakkérdés | Országos Vízügyi Főigazgatóság |
 
-[^9]: A 4. számú melléklet a 379/2016. (XII. 2.) Korm. rendelet 105. § (1) bekezdés b) pontjával megállapított, ugyanezen módosító rendelet 105. § (2) bekezdés b) pontja, a 250/2017. (IX. 5.) Korm. rendelet 15. §-a, a 162/2018. (IX. 10.) Korm. rendelet 7. § b) pontja, a 350/2019. (XII. 23.) Korm. rendelet 1. §-a, a 345/2019. (XII. 23.) Korm. rendelet 1. §-a, a 737/2021. (XII. 21.) Korm. rendelet 4. § a) és b) pontja szerint módosított szöveg.
+[^9]: A 4. számú melléklet a 379/2016. (XII. 2.) Korm. rendelet 105. § (1) bekezdés b) pontjával megállapított, ugyanezen módosító rendelet 105. § (2) bekezdés b) pontja, a 250/2017. (IX. 5.) Korm. rendelet 15. §-a, a 162/2018. (IX. 10.) Korm. rendelet 7. § b) pontja, a 350/2019. (XII. 23.) Korm. rendelet 1. §-a, a 345/2019. (XII. 23.) Korm. rendelet 1. §-a, a 737/2021. (XII. 21.) Korm. rendelet 4. § a) és b) pontja, a 334/2023. (VII. 20.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.
