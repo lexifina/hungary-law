@@ -1,12 +1,12 @@
-66. §[^174] (1)[^175]
+66. §[^176] (1)[^177]
 
-(2)[^176]
+(2)[^178]
 
-(3)[^177] A Tny. 100. §-a szerinti ellenőrzés lefolytatására irányuló megkeresésnek az általános hatáskörű nyugdíj-megállapító szerv huszonöt napon belül tesz eleget.
+(3)[^179] A Tny. 100. §-a szerinti ellenőrzés lefolytatására irányuló megkeresésnek az általános hatáskörű nyugdíj-megállapító szerv huszonöt napon belül tesz eleget.
 
 (4) A nyugdíjbiztosítási igazgatási szervek eljárásában hiánypótlásra felhívásnak legfeljebb két ízben van helye.
 
-[^174]: A 66. §-t a 441/2015. (XII. 28.) Korm. rendelet 25. § a) pontja hatályon kívül helyezte, újonnan a 457/2017. (XII. 28.) Korm. rendelet 43. § (4) bekezdése iktatta be. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^175]: A 66. § (1) bekezdését a 31/2020. (II. 29.) 2. §-a hatályon kívül helyezte.
-[^176]: A 66. § (2) bekezdését a 31/2020. (II. 29.) 2. §-a hatályon kívül helyezte.
-[^177]: A 66. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 11. § (2) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^176]: A 66. §-t a 441/2015. (XII. 28.) Korm. rendelet 25. § a) pontja hatályon kívül helyezte, újonnan a 457/2017. (XII. 28.) Korm. rendelet 43. § (4) bekezdése iktatta be. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^177]: A 66. § (1) bekezdését a 31/2020. (II. 29.) 2. §-a hatályon kívül helyezte.
+[^178]: A 66. § (2) bekezdését a 31/2020. (II. 29.) 2. §-a hatályon kívül helyezte.
+[^179]: A 66. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 11. § (2) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.

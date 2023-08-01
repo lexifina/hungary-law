@@ -1,3 +1,3 @@
-72/C. §[^245]
+72/C. §[^248]
 
-[^245]: A 72/C. §-t újonnan a 365/2007. (XII. 23.) Korm. rendelet 10. §-a iktatta be, hatályon kívül helyezte a 322/2018. (XII. 28.) Korm. rendelet 5. § c) pontja.
+[^248]: A 72/C. §-t újonnan a 365/2007. (XII. 23.) Korm. rendelet 10. §-a iktatta be, hatályon kívül helyezte a 322/2018. (XII. 28.) Korm. rendelet 5. § c) pontja.

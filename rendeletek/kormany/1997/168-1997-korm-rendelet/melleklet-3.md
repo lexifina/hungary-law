@@ -150,8 +150,8 @@
 
 | 73. | 2021. | 1,175 |
 
-3. számú melléklet a 168/1997. (X. 6.) Korm. rendelethez[^370]
+3. számú melléklet a 168/1997. (X. 6.) Korm. rendelethez[^364]
 
 A Tny. 44/D. §-a szerinti esetben a hozzátartozói nyugellátások kiszámítása során alkalmazandó százalékos mértékek
 
-[^370]: A 3. számú mellékletet a 333/2011. (XII. 29.) Korm. rendelet 27. § (1) bekezdése iktatta be.
+[^364]: A 3. számú mellékletet a 333/2011. (XII. 29.) Korm. rendelet 27. § (1) bekezdése iktatta be.

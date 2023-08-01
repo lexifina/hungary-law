@@ -1,3 +1,3 @@
-28/B. §[^93]
+28/B. §[^95]
 
-[^93]: A 28/B. §-t a 332/2008. (XII. 30.) Korm. rendelet 5. §-a iktatta be, hatályon kívül helyezte a 333/2011. (XII. 29.) Korm. rendelet 29. § i) pontja.
+[^95]: A 28/B. §-t a 332/2008. (XII. 30.) Korm. rendelet 5. §-a iktatta be, hatályon kívül helyezte a 333/2011. (XII. 29.) Korm. rendelet 29. § i) pontja.
