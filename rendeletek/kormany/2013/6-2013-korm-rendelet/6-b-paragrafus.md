@@ -1,3 +1,3 @@
-6/B. §[^16]
+6/B. §[^17]
 
-[^16]: A 6/B. §-t a 434/2017. (XII. 21.) Korm. rendelet 1. §-a iktatta be, a 135/2022. (IV. 7.) Korm. rendelet 19. §-a hatályon kívül helyezte.
+[^17]: A 6/B. §-t a 434/2017. (XII. 21.) Korm. rendelet 1. §-a iktatta be, a 135/2022. (IV. 7.) Korm. rendelet 19. §-a hatályon kívül helyezte.
