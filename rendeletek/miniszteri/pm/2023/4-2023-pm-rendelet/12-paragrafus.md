@@ -1,0 +1,1 @@
+12. § Tisztviselői státuszú foglalkoztatott esetében a NAV Szj. tv. 95. § (3) bekezdése alkalmazásában a munkakörének megfelelő, a munkáltatói jogkör gyakorlója által előírt alapképzéssel egyenértékű a közigazgatás-szervező alapképzési szak adóigazgatási szakirányán megszerzett szakképzettség.

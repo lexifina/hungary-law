@@ -1,0 +1,1 @@
+10. § A Magyar Honvédségtől vagy a rendvédelmi feladatokat ellátó szervektől pénzügyőri munkakörbe történő áthelyezés esetén – a 9. § szerinti egyenértékű szakképzettség hiányában – a NAV Szj. tv. 95. § (2) bekezdése szerinti tanfolyam különbözeti vizsgával teljesíthető.
