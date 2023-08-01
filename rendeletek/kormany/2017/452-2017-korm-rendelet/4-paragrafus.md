@@ -18,10 +18,10 @@ b) tápszer vagy forgalomba hozatalra engedélyezett, a Szabványos Vényminta G
 
 c) a törzskönyvezett gyógyszerek és a különleges táplálkozási igényt kielégítő tápszerek társadalombiztosítási támogatásba való befogadásának szempontjairól és a befogadás vagy a támogatás megváltoztatásáról 32/2004. (IV. 26.) ESZCSM rendelet (a továbbiakban: ESZCSM rendelet) 14. § (1) bekezdés g) és h) pontja szerinti kombinációra,
 
-d)[^3] már támogatott – a Tfr. 2. § (2) bekezdés 14. pontja szerinti – biológiai gyógyszer valamely hatóanyagával azonos vagy hasonló hatóanyagot tartalmazó, az emberi felhasználásra kerülő gyógyszerek forgalomba hozatalának és gyártásának engedélyezéséről szóló 450/2017. (XII. 27.) Korm. rendelet 5. § (8) bekezdése szerinti generikumnak nem minősülő hasonló biológiai gyógyszerre,
+d)[^5] már támogatott – a Tfr. 2. § (2) bekezdés 14. pontja szerinti – biológiai gyógyszer valamely hatóanyagával azonos vagy hasonló hatóanyagot tartalmazó, az emberi felhasználásra kerülő gyógyszerek forgalomba hozatalának és gyártásának engedélyezéséről szóló 450/2017. (XII. 27.) Korm. rendelet 5. § (8) bekezdése szerinti generikumnak nem minősülő hasonló biológiai gyógyszerre,
 
 e) kedvezményezetti státusz megítélésére is
 
 érkezett.
 
-[^3]: A 4. § d) pontja a 110/2019. (V. 14.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^5]: A 4. § d) pontja a 110/2019. (V. 14.) Korm. rendelet 2. §-ával megállapított szöveg.

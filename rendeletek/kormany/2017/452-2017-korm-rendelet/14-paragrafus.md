@@ -18,7 +18,7 @@ f) közel azonos mellékhatás profil
 
 alapján.
 
-(4)[^10] A terápiás fix elven működő támogatás számítása a következők szerint történik:
+(4)[^21] A terápiás fix elven működő támogatás számítása a következők szerint történik:
 
 a) az ESZCSM rendelet 5. számú melléklet 1.1. pont a) alpontja alapján meghatározott napi terápiás költség átlagával egyenlő vagy alacsonyabb napi terápiás költségű gyógyszerek a csoportra jellemző százalékos támogatást kapják,
 
@@ -30,9 +30,9 @@ d) a naptári félévente megképzett terápiás fix csoportok esetében lefolyt
 
 e) az ESZCSM rendelet 5. számú melléklet 1.2. pontja szerinti átlag számítása során a forgalomban lévő készítmények közül az átlag számításnál azokat a készítményeket kell figyelembe venni, melyeknek a csoporton belüli forgalmi részesedése a terápiás fix csoportok képzésére irányuló fixesítési eljárás kezdőnapját megelőző hét hónapot vizsgálva – ide nem értve a fixesítési eljárás kezdőnapját közvetlenül megelőző hónapot – két egymást követő hónapban a DOT tekintetében az 1%-ot elérte az adott jogcímen.
 
-(5)[^11] A terápiás fix elven működő támogatási csoportokra vonatkozóan a NEAK a számításokhoz szükséges közforgalmú gyógyszertári forgalmi adatokat és DOT forgalmi részesedéseket készítményenkénti és támogatási jogcímenkénti, valamint fix csoportonkénti bontásban a tárgyhót követő 2. hónap 25. napjáig, a számítás módját, valamint az alcsoportképzés pontos feltételeit minden naptári negyedév 1. napján a honlapján közzéteszi.
+(5)[^22] A terápiás fix elven működő támogatási csoportokra vonatkozóan a NEAK a számításokhoz szükséges közforgalmú gyógyszertári forgalmi adatokat és DOT forgalmi részesedéseket készítményenkénti és támogatási jogcímenkénti, valamint fix csoportonkénti bontásban a tárgyhót követő 2. hónap 25. napjáig, a számítás módját, valamint az alcsoportképzés pontos feltételeit minden naptári negyedév 1. napján a honlapján közzéteszi.
 
 (6) A terápiás fix elven működő támogatási csoportokban alkalmazható a csoport árarányainak figyelembevételével képzett indexszámmal történő korrekció a különböző hatáserősségű és kiszerelésű készítmények támogatásának kiszámításakor. Az indexszámok terápiás csoportonként kerülnek meghatározásra.
 
-[^10]: A 14. § (4) bekezdése a 110/2019. (V. 14.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^11]: A 14. § (5) bekezdése a 110/2019. (V. 14.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^21]: A 14. § (4) bekezdése a 110/2019. (V. 14.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^22]: A 14. § (5) bekezdése a 110/2019. (V. 14.) Korm. rendelet 4. §-ával megállapított szöveg.

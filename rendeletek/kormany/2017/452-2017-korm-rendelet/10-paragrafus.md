@@ -2,7 +2,7 @@
 
 (2) A NEAK az (1) bekezdés szerinti eljárás megindítását megelőzően, a 13/2009. (IV. 22.) EüM rendelet szerint a terápiás területeket tartalmazó munkaterv közzétételét követő 10 napon belül közzéteszi a honlapján a felülvizsgálat tárgyát képező terápiás területeket és az ezekhez tartozó készítményeket, valamint a felülvizsgálat megindításának időpontját.
 
-(3) A NEAK a közfinanszírozás alapjául elfogadott elvárt ár kialakítása során az eljárás megindítását megelőzően kikéri az OGYÉI és az egészségügyi szakmai kollégium véleményét, és a (2) bekezdés szerinti időponttól számított 90 napon belül meghatározza a közfinanszírozás alapjául elfogadott elvárt árakat.
+(3)[^12] A NEAK a közfinanszírozás alapjául elfogadott elvárt ár kialakítása során az eljárás megindítását megelőzően kikéri az NNGYK és az egészségügyi szakmai kollégium véleményét, és a (2) bekezdés szerinti időponttól számított 90 napon belül meghatározza a közfinanszírozás alapjául elfogadott elvárt árakat.
 
 (4) A NEAK a honlapján is értesíti a felülvizsgált gyógyszerek forgalomba hozatali engedélyének jogosultjait arról, hogy hivatalból eljárást indított a Gyftv. 23. § (7) bekezdés a) pontja alapján az adott készítmények támogatásának felülvizsgálata érdekében.
 
@@ -12,7 +12,7 @@ a) a felülvizsgálatra kerülő terápiás területek megjelölését,
 
 b) az a) pont szerinti csoportokba tartozó gyógyszereket, azok társadalombiztosítási támogatási termék kódját, az eljárás kezdőnapján érvényes közfinanszírozás alapjául elfogadott árát, napi terápiás költségét,
 
-c) azon költséghatékonyságra vonatkozó feltételeket, szempontokat, melyek alapján a NEAK – az OGYÉI és az Országos Gyógyszerterápiás Tanács (a továbbiakban: OGYTT) bevonásával – meghatározta a felülvizsgálati eljárás során a b) pont szerinti gyógyszerekre vonatkozó közfinanszírozás alapjául elfogadott elvárt árakat, és az azokhoz kapcsolódó finanszírozási feltételeket,
+c)[^13] azon költséghatékonyságra vonatkozó feltételeket, szempontokat, melyek alapján a NEAK – az NNGYK és az Országos Gyógyszerterápiás Tanács (a továbbiakban: OGYTT) bevonásával – meghatározta a felülvizsgálati eljárás során a b) pont szerinti gyógyszerekre vonatkozó közfinanszírozás alapjául elfogadott elvárt árakat, és az azokhoz kapcsolódó finanszírozási feltételeket,
 
 d) a gyógyszerekre vonatkozó közfinanszírozás alapjául elfogadott elvárt árakat,
 
@@ -32,8 +32,10 @@ c) megjelöli a tervezett finanszírozási kezdőnapot.
 
 (9) A (7) bekezdés szerinti határidő lejártát követő nyolc napon belül a NEAK a honlapján – határozatai alapján – közzéteszi az árcsökkentéseket, és megjelöli azokat a gyógyszereket, amelyek a Gyftv. 31. § (1) bekezdés b)–c) és e) pontja alapján a támogatásból kizárásra kerülnek.
 
-(10)[^4] A (2)–(9) bekezdés szerinti eljárás lefolytatása nem érinti a 15. § szerinti eljárás menetét.
+(10)[^14] A (2)–(9) bekezdés szerinti eljárás lefolytatása nem érinti a 15. § szerinti eljárás menetét.
 
 (11) A 9. § b) pontja szerinti esetben a (2)–(10) bekezdés szerinti eljárást kell alkalmazni.
 
-[^4]: A 10. § (10) bekezdése a 110/2019. (V. 14.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^12]: A 10. § (3) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 61. § b) pontja szerint módosított szöveg.
+[^13]: A 10. § (5) bekezdés c) pontja a 334/2023. (VII. 20.) Korm. rendelet 61. § b) pontja szerint módosított szöveg.
+[^14]: A 10. § (10) bekezdése a 110/2019. (V. 14.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.

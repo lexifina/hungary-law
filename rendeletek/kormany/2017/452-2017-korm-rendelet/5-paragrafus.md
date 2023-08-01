@@ -18,4 +18,6 @@ h) jelentős terápiás előnnyel rendelkező készítményre, magasabb áron t�
 
 érkezett.
 
-(2) Az (1) bekezdés szerinti kérelmek esetén a kérelemhez benyújtott egészségügyi technológiaértékelés a formai és tartalmi ellenőrzést követő, szükség esetén az OGYÉI által végzett további technológiaértékelés, mellyel igazolni lehet a technológia megfelelőségét.
+(2)[^6]
+
+[^6]: Az 5. § (2) bekezdését a 334/2023. (VII. 20.) Korm. rendelet 62. §-a hatályon kívül helyezte.

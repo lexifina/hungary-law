@@ -1,14 +1,12 @@
-## 7. § Ha a kérelmezett gyógyszer támogatásba történő befogadása vagy a támogatásba már befogadott gyógyszer támogatási feltételeinek módosítása jogszabály módosítását igényli, a NEAK az érintett gyógyszerekkel kapcsolatos javaslatát minden naptári negyedév első munkanapjáig megküldi az egészségbiztosításért felelős miniszternek. A NEAK javaslatának figyelembevételével, a javaslat megérkezését követő 30 napon belül az egészségbiztosításért felelős miniszter által kijelölt 2 fő, az államháztartásért felelős miniszter által kijelölt 1 fő, a NEAK főigazgatója által kijelölt 2 fő, valamint az OGYÉI főigazgatója által kijelölt 2 fő szakértőből álló bizottság javaslatot tesz az egészségbiztosításért felelős miniszter számára az érintett gyógyszerek támogatásával kapcsolatos feltételekre.
-
 8. § (1) A NEAK-hoz
 
 a) a gyógyszer forgalomba hozatali engedélyének jogosultja a gyógyszerek árához nyújtható támogatás megállapítása, a kedvezményezetti státusz megítélése és a támogatás mértékének módosítása iránti kérelmét az ESZCSM rendelet 6/a. számú mellékletében,
 
 b) a gyógyszer forgalomba hozatali engedélyének jogosultja a Gyftv. 29. § (4) bekezdése szerinti bejelentését az ESZCSM rendelet 6/b. számú mellékletében,
 
-c) a tápszer forgalmazója – az OGYÉI-nél a bejelentést megtevő jogi személy – a tápszerek árához nyújtható támogatás megállapítása, a támogatás mértékének módosítása iránti kérelmét az ESZCSM rendelet 7/a. számú mellékletében,
+c)[^9] a tápszer forgalmazója – NNGYK-nál a bejelentést megtevő jogi személy – a tápszerek árához nyújtható támogatás megállapítása, a támogatás mértékének módosítása iránti kérelmét az ESZCSM rendelet 7/a. számú mellékletében,
 
-d) a tápszer forgalmazója – az OGYÉI-nél a bejelentést megtevő jogi személy – a változás bejelentése iránti kérelmét az ESZCSM rendelet 7/b. számú mellékletében
+d)[^10] a tápszer forgalmazója – NNGYK-nál a bejelentést megtevő jogi személy – a változás bejelentése iránti kérelmét az ESZCSM rendelet 7/b. számú mellékletében
 
 meghatározott formanyomtatványon vagy elektronikus űrlapon nyújtja be.
 
@@ -28,4 +26,8 @@ c) az ESZCSM rendeletben meghatározott igazgatási-szolgáltatási díj befizet
 
 a) a gyógyszer forgalomba hozatali engedély jogosultjának az adott gyógyszer forgalomba hozatali engedélyének meglétét,
 
-b) a tápszer forgalmazójának az OGYÉI igazolásának meglétét a tápszer bejelentéséről.
+b)[^11] a tápszer forgalmazójának az NNGYK igazolásának meglétét a tápszer bejelentéséről.
+
+[^9]: A 8. § (1) bekezdés c) pontja a 334/2023. (VII. 20.) Korm. rendelet 61. § c) pontja szerint módosított szöveg.
+[^10]: A 8. § (1) bekezdés d) pontja a 334/2023. (VII. 20.) Korm. rendelet 61. § c) pontja szerint módosított szöveg.
+[^11]: A 8. § (5) bekezdés b) pontja a 334/2023. (VII. 20.) Korm. rendelet 61. § b) pontja szerint módosított szöveg.
