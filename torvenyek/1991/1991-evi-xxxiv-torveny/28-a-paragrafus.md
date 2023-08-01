@@ -1,4 +1,4 @@
-28/A. § (1) Fogadási esemény az a jövőbeli esemény, amelynek legalább két nyilvánosságra kerülő kimenetele lehetséges és ezek bekövetkezésére a játékszervező semmilyen befolyással nem rendelkezik. E törvény alkalmazásában fogadásnak minősül a tét fizetése fejében történő, egy jövőbeli esemény véletlen bekövetkezésének eltalálására, vagy egy jövőbeli esemény kimenetelének eltalálására vonatkozó játék. Nem köthető fogadás akkor, ha ez harmadik személy érdekét sértené.
+28/A. § (1) Fogadási esemény az a jövőbeli esemény, amelynek legalább két nyilvánosságra kerülő kimenetele lehetséges és ezek bekövetkezésére a játékszervező semmilyen befolyással nem rendelkezik. E törvény alkalmazásában fogadásnak minősül a tét fizetése fejében történő, egy jövőbeli esemény véletlen bekövetkezésének eltalálására, vagy – a (8) bekezdésben foglalt eltéréssel – egy jövőbeli esemény kimenetelének eltalálására vonatkozó játék. Nem köthető fogadás akkor, ha ez harmadik személy érdekét sértené.
 
 (2) Lóversenyfogadás kivételével totalizatőri rendszerű fogadást kizárólag az az állami játékszervező szervezhet, amely legalább 1 milliárd forint alap-(törzs-)tőkével rendelkezik és a fogadás szervezését megelőzően legalább 5 évig az e törvény hatálya alá tartozó szerencsejáték(ok) szervezésével foglalkozott.
 
@@ -11,3 +11,5 @@
 (6) A kiadott koncessziók száma egyidejűleg legfeljebb 2 lehet.
 
 (7) A szerencsejáték-felügyeleti hatóság a nemzetközi együttműködés keretében szervezett totalizatőri rendszerű lóversenyfogadás esetén sorsolás alkalmazását a nemzetközi együttműködés keretében valamennyi szerencsejáték-szervező által kialakított és elfogadott játékszabályoknak megfelelően engedélyezi.
+
+(8) A szerencsejáték-szervező lehetőséget biztosíthat a fogadónak arra, hogy a tétfizetést követően – a tét egésze, vagy egy része vonatkozásában –, a fogadási esemény kimenetelének bekövetkezése előtt, a játéktervben meghatározott esetekben korai kifizetésre váljon jogosulttá. A korai kifizetés könyvviteli elszámolása a számvitelről szóló törvény szerinti előleg szabályainak megfelelően történik. A korai kifizetésre a nyereménykifizetésre vonatkozó szabályok irányadók.

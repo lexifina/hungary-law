@@ -12,7 +12,7 @@
 
 ## 2.2. Tiszta játékbevétel online kaszinójáték esetén: a tárgyhónapban befizetett tétek és a kifizetett nyeremények különbözete; ha a magyarországi online kaszinó üzemeltetője más szolgáltató által üzemeltetett, a 29/O. § (1) bekezdés c) pontja szerinti, más játékos elleni kártyajátékhoz csatlakozik az ilyen játékok esetében a tiszta játékbevétel a játékosok felé a magyarországi online kaszinó üzemeltetője által felszámított díjak vagy azokkal egy tekintet alá eső jutalékok összege azzal, hogy a játékadó alapjának megállapítása során a kétféle módon keletkezett tiszta játékbevétel összegét kell figyelembe venni.
 
-3. Bukmékeri rendszerű fogadás: olyan fogadási forma, amelyben a fogadásszervező a fogadási ajánlatában meghatározott fogadási esemény bekövetkezésére, kimenetelére a fogadó játékos részére – nyereményszorzó alapján – pénzösszeget ajánl fel, és azt nyerés esetén a megállapodásban rögzítettek szerint fizeti ki.
+3. Bukmékeri rendszerű fogadás: olyan fogadási forma, amelyben a fogadásszervező a fogadási ajánlatában meghatározott fogadási esemény bekövetkezésére, kimenetelére – beleértve a 28/A. § (8) bekezdésében foglaltakat is – a fogadó játékos részére – nyereményszorzó alapján – pénzösszeget ajánl fel, és azt nyerés esetén a megállapodásban rögzítettek szerint fizeti ki.
 
 4. Totalizatőri rendszerű fogadás: olyan fogadási forma, amelyben a tétek összeadódnak és ezen összegnek a játéktervben meghatározott hányada az ugyanott meghatározottak szerint kerül nyereményként szétosztásra.
 
@@ -50,7 +50,11 @@ b) a 16. §-ban meghatározott tevékenységet folytató szervezet vagy személy
 
 19. Lóversenyfogadás: agár- és lóversenyre történő totalizatőri és bukmékeri rendszerű fogadás.
 
-20.
+20. Kaparós sorsjegy: az a sorsjegy, amelynek a nyerésre jogosító jelzései
+
+a) megjelenítésére a játékmenetben virtuálisan kerül sor, vagy
+
+b) biztonságos – virtuális vagy fizikális – módszerrel eltakartak, és az eltakarás eredményeként csak különleges – virtuális vagy fizikális – eljárással ismerhetők meg, és amelynek előállítása előre meghatározott nyerőosztályok és azokhoz tartozó nyereményösszegek szerint történik.
 
 21. Szerencsejáték ügy: a szerencsejáték-szervezés hatósági felügyeletének ellátása során lefolytatott hatósági engedélyezési, nyilvántartásba vételi, ellenőrzési és jogkövetkezmények megállapítására irányuló eljárás.
 
@@ -68,7 +72,7 @@ b) a 16. §-ban meghatározott tevékenységet folytató szervezet vagy személy
 
 28. Szerver: a szerencsejáték műszaki-informatikai rendszer részét képező, adattárolásra és feldolgozásra szolgáló eszköz.
 
-29. Játékosi egyenleg: a játékos részére szerencsejátékkal kapcsolatos tétek, nyeremények és egyéb játékügyletek elszámolása és nyilvántartása céljából a szervező által vezetett egyenleg. Amennyiben a szervező többfajta szerencsejáték szervezésére is engedéllyel rendelkezik, a játékos részére egyetlen közös játékosi egyenleg is létrehozható.
+29. Játékosi egyenleg: a játékos részére szerencsejátékkal kapcsolatos tétek, nyeremények és egyéb játékügyletek elszámolása és nyilvántartása céljából a szervező által vezetett egyenleg. Amennyiben a szervező több szerencsejáték szervezésére is engedéllyel rendelkezik, a játékos részére egy vagy több közös játékosi egyenleg is létrehozható.
 
 30. Megbízható szerencsejáték-szervező: a 3. § (1) bekezdés a) pontja szerinti szerencsejáték-szervező, továbbá az a szerencsejáték-szervező, aki a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 1. pontja szerinti átlátható szervezet és
 
