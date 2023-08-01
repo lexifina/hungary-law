@@ -16,7 +16,7 @@ ad) az ac) pontban említett jogorvoslati és felügyeleti eljárásokra vonatko
 
 b) a hatóságok és a fellebbezés elbírálására jogosult hatóságok, továbbá a felügyeleti szervek elérhetőségi adataiban bekövetkező változásokat az érintett hatóság, illetve szerv;
 
-c) az igazságügyért felelős miniszter
+c)[^8] az európai uniós ügyek koordinációjáért felelős miniszter
 
 ca) a kölcsönös elismerés elvére vonatkozó általános tájékoztatást,
 
@@ -41,3 +41,5 @@ számított három munkanapon belül köteles a termékinformációs kapcsolatta
 (6) Az (5) bekezdésben meghatározott eljárás elektronikus levél útján történik.
 
 (7) Az adatbázis nyilvános, azt a termékinformációs kapcsolattartó pont honlapján magyar és angol nyelven, bárki által hozzáférhető és kereshető módon közzé kell tenni.
+
+[^8]: A 18. § (2) bekezdés c) pont nyitó szövegrésze a 314/2023. (VII. 17.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.

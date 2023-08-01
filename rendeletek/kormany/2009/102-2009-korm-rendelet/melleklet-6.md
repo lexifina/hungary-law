@@ -1,4 +1,4 @@
-6. melléklet a 102/2009. (V. 11.) Korm. rendelethez [^18]
+6. melléklet a 102/2009. (V. 11.) Korm. rendelethez[^19]
 
 A 18. § (2) bekezdés a) pontja szerinti adatszolgáltatás adattartalma
 
@@ -20,4 +20,4 @@ A 18. § (2) bekezdés a) pontja szerinti adatszolgáltatás adattartalma
 
 9. A jogorvoslati eljárásra vonatkozóan az általános közigazgatási rendtartásról szóló törvénytől eltérő rendelkezés esetében az eltérést tartalmazó jogszabályhely megjelölése
 
-[^18]: A 6. melléklet a 190/2020. (V. 7.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^19]: A 6. melléklet a 190/2020. (V. 7.) Korm. rendelet 7. §-ával megállapított szöveg.

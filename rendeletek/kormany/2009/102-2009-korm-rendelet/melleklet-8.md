@@ -14,4 +14,4 @@ SN Standard Norge
 
 NEK Norsk Elektroteknisk Komite
 
-” ”
+”

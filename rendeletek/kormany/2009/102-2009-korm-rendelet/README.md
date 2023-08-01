@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-102-20-
 | 2018-01-01 | 2009-102-20-22.11 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2019-09-01 | 2009-102-20-22.12 | 198/2019. (VIII. 1.) Korm. rendelet |
 | 2020-05-15 | 2009-102-20-22.13 | 190/2020. (V. 7.) Korm. rendelet |
+| 2023-08-01 | 2009-102-20-22.14 | 221/2014. (IX. 4.) Korm. rendelet |
