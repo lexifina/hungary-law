@@ -1,20 +1,19 @@
 12. § A 45/2016. (XI. 29.) NGM rendelet
 
-a)[^12]
+a)[^11]
 
-b)[^13]
+b) 16. §-ában az „esetén” szövegrész helyébe az „esetén – ide nem értve a Jöt. 64. § (3) bekezdésében foglaltakat –” szöveg,
 
-c)[^14]
+c)[^12]
 
-d)[^15]
+d)[^13]
 
-e)[^16]
+e)[^14]
 
-f)[^17]
+f)[^15]
 
-[^12]: A 12. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^13]: A 12. § b) pontja a 14. § (4) bekezdés alapján 2023. augusztus 1-jén lép hatályba.
-[^14]: A 12. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^15]: A 12. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^16]: A 12. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^17]: A 12. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 12. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 12. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 12. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 12. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 12. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
