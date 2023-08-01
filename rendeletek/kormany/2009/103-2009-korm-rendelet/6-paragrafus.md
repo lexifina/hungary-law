@@ -1,5 +1,3 @@
-## 5. §[^5] A TBT-megállapodás 10. Cikk 10.1. pontjában előírt tájékoztatási pont feladatainak ellátására a Kormány az igazságügyért felelős minisztert jelöli ki.
-
 6. § Ez a rendelet 2009. május 13-án lép hatályba.
 
 Melléklet a 103/2009. (V. 11.) Korm. rendelethez[^6]
@@ -52,7 +50,7 @@ Bejelentő Adatlap
 
 –––––––––––
 
-* Az adatlap elektronikus változata letölthető az igazságügyért felelős miniszter által vezetett minisztérium honlapjáról.
+* Az adatlap elektronikus változata letölthető az európai uniós ügyekért felelős miniszter által vezetett minisztérium honlapjáról.
 
 B) Angol nyelvű adatlap* a technikai szabályzatok és megfelelőségértékelési eljárást meghatározó jogszabályok tervezeteinek bejelentéséhez
 
@@ -92,7 +90,6 @@ NOTIFICATION
 
 –––––––––––
 
-* Az adatlap elektronikus változata letölthető az igazságügyért felelős miniszter által vezetett minisztérium honlapjáról.
+* Az adatlap elektronikus változata letölthető az európai uniós ügyekért felelős miniszter által vezetett minisztérium honlapjáról.
 
-[^5]: Az 5. § a 221/2014. (IX. 4.) Korm. rendelet 447. § a) pontja szerint módosított szöveg.
-[^6]: A melléklet a 221/2014. (IX. 4.) Korm. rendelet 447. § a) pontja szerint módosított szöveg.
+[^6]: A melléklet a 221/2014. (IX. 4.) Korm. rendelet 447. § a) pontja, a 314/2023. (VII. 17.) Korm. rendelet 6. §-a szerint módosított szöveg.
