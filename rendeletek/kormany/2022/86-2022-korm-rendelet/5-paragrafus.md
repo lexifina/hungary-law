@@ -20,4 +20,7 @@ rendelkezéseit.
 
 (3)[^4] A (2) bekezdés alapján kiállított – 1. melléklet szerinti –, a menedékes személyazonosságát és tartózkodási jogát igazoló okmány érvényességi ideje a Metvhr. 8. § (3) bekezdésétől eltérően – az okmányon fizikailag megjelenített érvényességi idő helyett – 2024. március 4. napja.
 
+(4)[^5] A Metvhr. 41. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy a menedékes a befogadó állomáson nyújtott elhelyezésre és ellátásra nem jogosult.
+
 [^4]: Az 5. § (3) bekezdését az 58/2023. (II. 28.) Korm. rendelet 1. §-a iktatta be.
+[^5]: Az 5. § (4) bekezdését a 337/2023. (VII. 24.) Korm. rendelet 8. §-a iktatta be.

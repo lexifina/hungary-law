@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-86-20-2
 | 2022-06-01 | 2022-86-20-22.9 | 2021. évi I. törvény |
 | 2022-11-01 | 2022-86-20-22.10 | 2021. évi I. törvény |
 | 2023-03-01 | 2022-86-20-22.11 | 58/2023. (II. 28.) Korm. rendelet |
+| 2023-08-01 | 2022-86-20-22.12 | 337/2023. (VII. 24.) Korm. rendelet |
