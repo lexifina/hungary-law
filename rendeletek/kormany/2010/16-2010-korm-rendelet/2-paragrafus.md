@@ -1,10 +1,10 @@
-2. § (1)[^8] A Dokumentációs Központ működéséért a területrendezésért felelős miniszter (a továbbiakban: miniszter) a felelős. A Kormány a Dokumentációs Központ üzemeltetőjeként a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaságot (a továbbiakban: Üzemeltető) jelöli ki. A Dokumentációs Központ üzemeltetésével kapcsolatos kiadásokhoz a miniszter hozzájárulást biztosít, amelynek forrását a miniszter irányítása alá tartozó költségvetési fejezet költségvetéséből kell biztosítani a céllal összefüggésben megtervezett előirányzat terhére.
+2. § (1)[^8] Az Építésügyi Dokumentációs és Információs Központ (a továbbiakban: Dokumentációs Központ) működéséért az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter (a továbbiakban: miniszter) felelős.
 
-(2)[^9] A miniszter az (1) bekezdés szerinti előirányzaton rendelkezésre álló, kötelezettségvállalással nem terhelt források alakulásának figyelembevételével az üzemeltetési költségekhez történő hozzájárulás mértékéről az Üzemeltetővel évente támogatási szerződésben állapodik meg.
+(2)[^9]
 
 (3)[^10]
 
-(4)[^11] A Dokumentációs Központ Üzemeltetési Szabályzatát a miniszter hagyja jóvá. Az Üzemeltetési Szabályzatot az Üzemeltető honlapján közzé kell tenni.
+(4)[^11] A Dokumentációs Központ Üzemeltetési Szabályzatát a miniszter hagyja jóvá. Az Üzemeltetési Szabályzatot a Dokumentációs Központ honlapján közzé kell tenni.
 
 (5) Az Üzemeltetési Szabályzatnak tartalmaznia kell különösen
 
@@ -14,9 +14,10 @@ b) a Dokumentációs Központ által vezetett nyilvántartások leírását, és
 
 c) a Dokumentációs Központ felelősségi körét.
 
-(6) A Dokumentációs Központ, amennyiben alapfeladatának ellátását nem veszélyezteti, a kötelező gyűjtőkörön kívüli dokumentumokat is gyűjthet. A kötelező gyűjtőkörön kívüli dokumentumok átadásáról az Üzemeltető megállapodást köt az átadó szervvel vagy személlyel, amelyben rendelkezni kell a dokumentumok átvételével és tárolásával kapcsolatban felmerülő költségek viseléséről.
+(6)[^12] A Dokumentációs Központ, amennyiben alapfeladatának ellátását nem veszélyezteti, a kötelező gyűjtőkörön kívüli dokumentumokat is gyűjthet. A kötelező gyűjtőkörön kívüli dokumentumok átadásáról a Dokumentációs Központ megállapodást köt az átadó szervvel vagy személlyel, amelyben rendelkezni kell a dokumentumok átvételével és tárolásával kapcsolatban felmerülő költségek viseléséről.
 
-[^8]: A 2. § (1) bekezdése a 343/2016. (XI. 17.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^9]: A 2. § (2) bekezdése a 343/2016. (XI. 17.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^8]: A 2. § (1) bekezdése a 351/2023. (VII. 27.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^9]: A 2. § (2) bekezdését a 351/2023. (VII. 27.) Korm. rendelet 9. §-a hatályon kívül helyezte.
 [^10]: A 2. § (3) bekezdését a 343/2016. (XI. 17.) Korm. rendelet 18. § a) pontja hatályon kívül helyezte.
-[^11]: A 2. § (4) bekezdése a 343/2016. (XI. 17.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^11]: A 2. § (4) bekezdése a 343/2016. (XI. 17.) Korm. rendelet 12. § (2) bekezdésével megállapított, a 351/2023. (VII. 27.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^12]: A 2. § (6) bekezdése a 351/2023. (VII. 27.) Korm. rendelet 8. §-a szerint módosított szöveg.

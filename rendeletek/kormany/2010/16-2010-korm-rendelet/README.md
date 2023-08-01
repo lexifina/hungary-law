@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-16-20-2
 | 2019-06-04 | 2010-16-20-22.14 | 121/2019. (V. 27.) Korm. rendelet |
 | 2020-01-01 | 2010-16-20-22.15 | 121/2019. (V. 27.) Korm. rendelet |
 | 2023-01-01 | 2010-16-20-22.16 | 37/2010. (II. 26.) Korm. rendelet |
+| 2023-08-01 | 2010-16-20-22.17 | 351/2023. (VII. 27.) Korm. rendelet |
