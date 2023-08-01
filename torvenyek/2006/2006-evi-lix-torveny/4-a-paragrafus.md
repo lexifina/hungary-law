@@ -101,3 +101,11 @@ támogatása.
 (38) A hitelintézetekről és pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) szerinti önkéntes intézményvédelmi alaphoz vagy kötelező intézményvédelmi szervezethez csatlakozott hitelintézet csökkentheti az (1)–(7) bekezdés szerint fizetendő különadó összegét az önkéntes intézményvédelmi alapba vagy a kötelező intézményvédelmi szervezetbe az adóévben befizetett összeggel, ha az önkéntes intézményvédelmi alap vagy a kötelező intézményvédelmi szervezet és tagjai – ide nem értve a magyar állam kizárólagos tulajdonában álló tagokat – együttesen megfelelnek a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló, 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 575/2013/EU rendelet) 113. cikk (7) bekezdése szerinti követelményeknek. A különadó megfizetése alól e bekezdés szerint mentesülő összeg kizárólag az önkéntes intézményvédelmi alap vagy kötelező intézményvédelmi szervezet létesítő okiratában meghatározott intézményvédelmi célokra használható fel.
 
 (39) A 575/2013/EU rendelet 400. cikk (2) bekezdés d) pontjában meghatározott, készpénz-elszámolási műveletekért felelős hitelintézet csökkentheti a különadó alapját képező módosított mérlegfőösszeg összegét az általa, mint levelező tartalékköteles hitelintézet által a Magyar Nemzeti Banknál vezetett forint pénzforgalmi számláján elhelyezett levelezett tartalékköteles hitelintézetek kötelező jegybanki tartalékával.
+
+(40) Nem kell a különadót megfizetnie a pénzügyi szervezetnek, ha
+
+a) a szolgáltatásait határon átnyúló szolgáltatásként Magyarországon bejegyzett székhelyéről nyújtotta az adóévet megelőző két adóévben, és
+
+b) az adóévet megelőző második adóévi éves nettó díj- és jutalékbevétele, valamint nettó kamatbevétele legalább kétharmad részben devizakülföldi ügyfelektől származik.
+
+(41) A (40) bekezdés szerinti pénzügyi szervezet az adóév március 10. napjáig adóbevallás helyett bevallást helyettesítő nyomtatványon nyilatkozatot tesz arról, hogy a (40) bekezdés szerinti feltételek együttesen fennállnak. A 2009. december 31. napját követően jogelőd nélkül létrejött pénzügyi szervezet, valamint a naptári évtől eltérő üzleti évet alkalmazó adózó e nyilatkozatot az adóév szeptember 10. napjáig teljesíti.

@@ -1,3 +1,3 @@
 ## Hitelintézeti hozzájárulás
 
-4/C. §
+### 4/C. §

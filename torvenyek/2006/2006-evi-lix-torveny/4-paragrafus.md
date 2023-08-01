@@ -1,3 +1,3 @@
 ## A hitelintézetek járadéka
 
-4. §
+### 4. §

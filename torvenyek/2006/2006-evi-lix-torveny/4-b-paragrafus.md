@@ -1,3 +1,3 @@
 ## A hitelintézetek különadója
 
-4/B. §
+### 4/B. §

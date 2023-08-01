@@ -1,3 +1,3 @@
 ## A magánszemély adókötelezettsége
 
-2. §
+### 2. §
