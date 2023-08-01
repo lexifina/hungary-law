@@ -34,7 +34,7 @@ képviselője.
 
 (8)[^32] Pince-, partfalomlás vagy földcsuszamlás esetében a miniszter által kinevezett Pince- és Partfalveszély-Elhárítási Szakértői Bizottság a bejelentéstől számított 20 napon belül a káreseményt a helyszínen megvizsgálja, veszélyességi kategóriába sorolja és megállapításait a 3. melléklet B) része szerinti adatlapon az ebr42 rendszerben elektronikusan rögzíti.
 
-(8a)[^33] Katasztrófavédelmi szúnyoggyérítés esetében a bejelentést követően haladéktalanul, de legkésőbb 30 napon belül a Nemzeti Népegészségügyi Központ – az ebr42 rendszerben – kiállítja a 9. melléklet B) része szerinti nyilatkozatot.
+(8a)[^33] Katasztrófavédelmi szúnyoggyérítés esetében a bejelentést követően haladéktalanul, de legkésőbb 30 napon belül a Nemzeti Népegészségügyi és Gyógyszerészeti Központ – az ebr42 rendszerben – kiállítja a 9. melléklet B) része szerinti nyilatkozatot.
 
 (9)[^34]
 
@@ -60,7 +60,7 @@ képviselője.
 [^30]: A 3. § (6a) bekezdését a 342/2013. (IX. 25.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 383/2015. (XII. 8.) Korm. rendelet 15. § f) pontja, a 360/2019. (XII. 30.) Korm. rendelet 85. § (3) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^31]: A 3. § (7) bekezdése a 129/2014. (IV. 10.) Korm. rendelet 12. § 5. pontja szerint módosított szöveg.
 [^32]: A 3. § (8) bekezdése a 280/2014. (XI. 14.) Korm. rendelet 3. §-a, a 477/2016. (XII. 27.) Korm. rendelet 52. § (10) bekezdés a) pontja szerint módosított szöveg.
-[^33]: A 3. § (8a) bekezdését a 92/2013. (III. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 129/2014. (IV. 10.) Korm. rendelet 12. § 6. pontja, a 70/2015. (III. 30.) Korm. rendelet 169. § (1) bekezdés a) pontja, a 383/2015. (XII. 8.) Korm. rendelet 15. § f) pontja, a 360/2019. (XII. 30.) Korm. rendelet 85. § (3) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^33]: A 3. § (8a) bekezdését a 92/2013. (III. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 129/2014. (IV. 10.) Korm. rendelet 12. § 6. pontja, a 70/2015. (III. 30.) Korm. rendelet 169. § (1) bekezdés a) pontja, a 383/2015. (XII. 8.) Korm. rendelet 15. § f) pontja, a 360/2019. (XII. 30.) Korm. rendelet 85. § (3) bekezdés d) pontja, a 334/2023. (VII. 20.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
 [^34]: A 3. § (9) bekezdését a 129/2014. (IV. 10.) Korm. rendelet 13. § (1) bekezdése hatályon kívül helyezte.
 [^35]: A 3. § (10) bekezdése a 92/2013. (III. 28.) Korm. rendelet 11. § 11–12. pontja, a 129/2014. (IV. 10.) Korm. rendelet 13. § (2) bekezdés a) pontja, a 383/2015. (XII.8.) Korm. rendelet 15. § d) pontja szerint módosított szöveg.
 [^36]: A 3. § (11)–(12) bekezdését a 129/2014. (IV. 10.) Korm. rendelet 13. § (1) bekezdése hatályon kívül helyezte.
