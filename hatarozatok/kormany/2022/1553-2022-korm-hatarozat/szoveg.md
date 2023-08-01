@@ -1,4 +1,4 @@
-1. A Kormány a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 12. § (1) bekezdésében meghatározott feladatkörében eljárva e határozat hatálybalépésétől 2025. március 31. napjáig dr. Kovács Zoltánt az Európai Unió Tanácsa 2024. második félévi magyar elnöksége (a továbbiakban: EU-elnökség) operatív feladatainak előkészítéséért és lebonyolításáért felelős kormánybiztossá (a továbbiakban: kormánybiztos) nevezi ki.
+1.[^1] A Kormány a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 12. § (1) bekezdésében meghatározott feladatkörében eljárva, az e határozatban megjelölt kiemelt fontosságú feladatok ellátására, az e határozat hatálybalépésétől 2025. március 31. napjáig dr. Kovács Zoltánt az Európai Unió Tanácsa 2024. második félévi magyar elnöksége (a továbbiakban: EU-elnökség) operatív feladatainak előkészítéséért és lebonyolításáért felelős kormánybiztossá (a továbbiakban: kormánybiztos) nevezi ki.
 
 2. A kormánybiztos
 
@@ -30,8 +30,11 @@ g) feladatkörében közreműködik az európai uniós ügyekért felelős álla
 
 5. A kormánybiztos tevékenységéről az európai uniós ügyek koordinációjáért felelős miniszternek számol be.
 
-6. A kormánybiztost feladatai ellátásában az Igazságügyi Minisztériumban működő kétfős titkárság segíti.
+6.[^2] A kormánybiztost feladatai ellátásában az Európai Uniós Ügyek Minisztériumában működő kétfős titkárság segíti.
 
 7. A kormánybiztos tevékenységének ellátásáért a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 31. § (1) bekezdése szerinti díjazásra jogosult.
 
 8. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: Az 1. pont az 1340/2023. (VII. 31.) Korm. határozat 10. pontja szerint módosított szöveg.
+[^2]: A 6. pont az 1340/2023. (VII. 31.) Korm. határozat 10. pontja szerint módosított szöveg.
