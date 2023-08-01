@@ -30,3 +30,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-313-20-
 | 2022-06-01 | 2012-313-20-22.22 | 788/2021. (XII. 27.) Korm. rendelet |
 | 2023-01-01 | 2012-313-20-22.23 | 616/2022. (XII. 29.) Korm. rendelet |
 | 2023-05-06 | 2012-313-20-22.24 | 62/2014. (III. 6.) Korm. rendelet |
+| 2023-08-01 | 2012-313-20-22.25 | 351/2023. (VII. 27.) Korm. rendelet |

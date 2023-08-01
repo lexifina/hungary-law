@@ -1,8 +1,8 @@
 ## 4. A Dokumentációs Központ üzemeltetői és adatszolgáltatási feladatai
 
-5. § (1) Az Üzemeltető
+5. § (1)[^53] A Dokumentációs Központ az Üzemeltető bevonásával
 
-a) elkészíti és évente felülvizsgálja az Üzemeltetési és Adatkezelési Szabályzatát, jóváhagyás után gondoskodik annak 3. § (2) bekezdése szerinti közzétételéről,
+a)[^54] elkészíti és évente felülvizsgálja a DÜSZ-t, jóváhagyás után gondoskodik annak 3. § (2) bekezdése szerinti közzétételéről,
 
 b) vezeti a bauxitcementtel épült építmények központi nyilvántartását, mely tartalmazza:
 
@@ -20,11 +20,19 @@ e) évente statisztikai összesítést és összefoglaló jelentést készít a 
 
 (2) A dokumentációknak a Dokumentációs Központban történő adatkezelése a dokumentációkkal kapcsolatos szerzői jogokat nem érinti.
 
-(3)[^50] Az Üzemeltető az 1. melléklet szerinti rendszerhasználati díjról elkülönített nyilvántartást vezet. Az Üzemeltető a miniszter számára a rendszerhasználati díj tételes felhasználásáról évente részletes beszámolót készít.
+(3)[^55] Az Üzemeltető az 1. melléklet szerinti rendszerhasználati díjról elkülönített nyilvántartást vezet. Az Üzemeltető a miniszter számára a rendszerhasználati díj tételes felhasználásáról évente részletes beszámolót készít.
 
-(4)[^51] Kérelemre az Üzemeltető az 1. § (1) bekezdése szerinti dokumentumállomány archivált és a külön jogszabály szerinti újrahasznosítás céljából rendelkezésre bocsátható közérdekű adataiba betekintést biztosít, abból adatokat szolgáltat, az adatokról másolatot ad a közadatok újrahasznosításáról szóló törvény, valamint az információs önrendelkezési jogról és az információszabadságról szóló törvény rendelkezései szerint.
+(4)[^56] Kérelemre a Dokumentációs Központ az Üzemeltető bevonásával az 1. § (1) bekezdése szerinti dokumentumállomány archivált és a külön jogszabály szerinti újrahasznosítás céljából rendelkezésre bocsátható közérdekű adataiba betekintést biztosít, abból adatokat szolgáltat, az adatokról másolatot ad a közadatok újrahasznosításáról szóló törvény, valamint az információs önrendelkezési jogról és az információszabadságról szóló törvény rendelkezései szerint.
 
-(5)[^52] Az Üzemeltető szolgáltatásai körében a kérelmező megbízása alapján és költségére
+(4a)[^57] A Dokumentációs Központ indokolás mellett visszautasítja az adatszolgáltatásra irányuló kérelmet vagy az adatokba történő betekintést, ha a kért adat
+
+a) a nemzetbiztonsági védelem alá eső szervek és létesítmények köréről szóló kormányhatározatban foglalt építményre vagy
+
+b) a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvény szerinti létfontosságú rendszerekre és létesítményekre
+
+irányul.
+
+(5)[^58] A Dokumentációs Központ – szükség szerint az Üzemeltető bevonásával – szolgáltatásai körében a kérelmező megbízása alapján és költségére
 
 a) az építésügyi és építésfelügyeleti eljárásokhoz kapcsolódó más dokumentációs és adattárakból dokumentációkat, közérdekű adatokat,
 
@@ -46,11 +54,15 @@ b) gondoskodik az elektronikus alkalmazások működtetéséről, valamint
 
 c) kezeli az adatállomány és az alkalmazások hozzáférési jogosultsági adatait és vezeti azok nyilvántartását.
 
-(6a)[^53] Az Üzemeltető hozzáférést biztosít a kulturális örökség védelméért felelős miniszter számára a Nyilvántartás alkalmazásaihoz, amennyiben azok használata a műemléki értékkel vagy régészeti lelőhellyel kapcsolatos.
+(6a)[^59] Az Üzemeltető hozzáférést biztosít a kulturális örökség védelméért felelős miniszter számára a Nyilvántartás alkalmazásaihoz, amennyiben azok használata a műemléki értékkel vagy régészeti lelőhellyel kapcsolatos.
 
-(7) Az Étv. 3. § (2) bekezdésében foglalt, az Étv. 5. §-ában meghatározott miniszteri feladatok ellátásához szükséges, valamint az e rendeletben előírt közzétételi feladatok ellátásáról az Üzemeltető a www.e-epites.hu weboldal működtetésével gondoskodik.
+(7)[^60] Az Étv. 3. § (2) bekezdésében foglalt, az Étv. 5. §-ában meghatározott miniszteri feladatok ellátásához szükséges, valamint az e rendeletben előírt közzétételi feladatok ellátása a www.e-epites.hu weboldalon történik, amelyet az Üzemeltető működtet.
 
-[^50]: Az 5. § (3) bekezdését a 107/2013. (IV. 5.) Korm. rendelet 15. § (4) bekezdése hatályon kívül helyezte, újonnan a 62/2014. (III. 6.) Korm. rendelet 20. §-a iktatta be.
-[^51]: A 5. § (4) bekezdése a 295/2019. (XII. 10.) Korm. rendelet 11. §-a szerint módosított szöveg.
-[^52]: Az 5. § (5) bekezdése a 280/2018. (XII. 21.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^53]: Az 5. § (6a) bekezdését a 38/2015. (III. 11.) Korm. rendelet 19. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 209. § a) pontja szerint módosított szöveg.
+[^53]: Az 5. § (1) bekezdés nyitó szövegrésze a 351/2023. (VII. 27.) Korm. rendelet 14. § f) pontjával megállapított szöveg.
+[^54]: Az 5. § (1) bekezdés a) pontja a 351/2023. (VII. 27.) Korm. rendelet 14. § g) pontja szerint módosított szöveg.
+[^55]: Az 5. § (3) bekezdését a 107/2013. (IV. 5.) Korm. rendelet 15. § (4) bekezdése hatályon kívül helyezte, újonnan a 62/2014. (III. 6.) Korm. rendelet 20. §-a iktatta be.
+[^56]: Az 5. § (4) bekezdése a 295/2019. (XII. 10.) Korm. rendelet 11. §-a, a 351/2023. (VII. 27.) Korm. rendelet 14. § h) pontja szerint módosított szöveg.
+[^57]: Az 5. § (4a) bekezdését a 351/2023. (VII. 27.) Korm. rendelet 13. § (1) bekezdése iktatta be.
+[^58]: Az 5. § (5) bekezdése a 280/2018. (XII. 21.) Korm. rendelet 5. §-ával megállapított, nyitó szövegrésze a 351/2023. (VII. 27.) Korm. rendelet 14. § i) pontja szerint módosított szöveg.
+[^59]: Az 5. § (6a) bekezdését a 38/2015. (III. 11.) Korm. rendelet 19. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 209. § a) pontja szerint módosított szöveg.
+[^60]: Az 5. § (7) bekezdése a 351/2023. (VII. 27.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
