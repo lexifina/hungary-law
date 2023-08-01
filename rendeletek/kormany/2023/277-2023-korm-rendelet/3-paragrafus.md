@@ -1,3 +1,3 @@
-3. § A Korm. rendelet 3. alcíme a következő 3/A. §-sal egészül ki:
+3. §[^3]
 
-„3/A.  § A Koordináló szerv a Ht. 32/A. § (4e) bekezdés c) pontja szerinti szerződés alapján látja el a hulladékgazdálkodási közszolgáltatási résztevékenység számlázási feladatát.”
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
