@@ -4,7 +4,7 @@ a) a 3. § (2) bekezdés a)–j) pontjában, továbbá k) pont ka) alpontjában 
 
 b) a gyógyszer külső csomagolásának, közvetlen csomagolásának, valamint betegtájékoztatójának mintáját az emberi alkalmazásra kerülő gyógyszerek címkéjéről és betegtájékoztatójáról szóló rendeletnek megfelelően, továbbá az EüMr. 2. számú mellékletének megfelelően az alkalmazási előírás tervezetét az 5. pont kivételével,
 
-c) a biztonságosságra vonatkozó adatok irodalmi áttekintését szakértői összefoglalóval együtt, valamint ha az OGYÉI azt előírja, kiegészítésként a gyógyszer biztonságosságának értékeléséhez szükséges adatokat,
+c)[^12] a biztonságosságra vonatkozó adatok irodalmi áttekintését szakértői összefoglalóval együtt, valamint ha az NNGYK azt előírja, kiegészítésként a gyógyszer biztonságosságának értékeléséhez szükséges adatokat,
 
 d) ha a gyógyszerre vonatkozóan Magyarországon kívül forgalomba hozatali engedélyt adtak ki vagy ez iránti kérelmet utasítottak el, az erről szóló határozat másolatát,
 
@@ -12,9 +12,9 @@ e) több növényi anyagot, növényi készítményt tartalmazó kombináció es
 
 f) irodalmi adatokat vagy szakértői jelentéseket az (5) bekezdésre vonatkozóan.
 
-(2) Az OGYÉI az Ügynökség növényi eredetű gyógyszerekkel foglalkozó bizottságát felkérheti arra, hogy adjon véleményt a gyógyszer vagy a termék régóta fennálló használatára vonatkozó bizonyítékok helytállóságáról.
+(2)[^13] Az NNGYK az Ügynökség növényi eredetű gyógyszerekkel foglalkozó bizottságát felkérheti arra, hogy adjon véleményt a gyógyszer vagy a termék régóta fennálló használatára vonatkozó bizonyítékok helytállóságáról.
 
-(3) Az (1) bekezdés e) pontja szerinti esetben, ha a hatóanyagok nem ismertek, az OGYÉI kiegészítést kérhet az egyes hatóanyagokra vonatkozóan.
+(3)[^14] Az (1) bekezdés e) pontja szerinti esetben, ha a hatóanyagok nem ismertek, az NNGYK kiegészítést kérhet az egyes hatóanyagokra vonatkozóan.
 
 (4) Az (1) bekezdés a), b) és e) pontja tekintetében az EüMr. 1. számú mellékletében meghatározottakat kell alkalmazni.
 
@@ -24,14 +24,20 @@ f) irodalmi adatokat vagy szakértői jelentéseket az (5) bekezdésre vonatkoz�
 
 (7) Az (5) bekezdésben meghatározott 30 éven keresztül tartó gyógyászati felhasználás igazolására vonatkozó követelmény akkor is teljesül, ha a termék forgalmazása nem engedélyen alapult. Ehhez hasonlóan a követelmény akkor is teljesül, ha a gyógyszer összetevőinek száma vagy mennyisége ezen időszak alatt csökkent.
 
-(8) Az OGYÉI eltekint az (5) bekezdésben meghatározott, 15 éves EGT-n belül történő alkalmazásra vonatkozó időkövetelmény alkalmazásától, ha a növényi gyógyszer tekintetében megadható lenne az egyszerűsített forgalomba hozatali engedély, és – megfelelő dokumentációval alátámasztott kérésre – az Ügynökség növényi eredetű gyógyszerekkel foglalkozó bizottsága megállapítja a gyógyszer vagy az ennek megfelelő termék esetében az egyéb feltételek teljesülését, vagy erről ilyen értelmű monográfiát adott ki.
+(8)[^15] Az NNGYK eltekint az (5) bekezdésben meghatározott, 15 éves EGT-n belül történő alkalmazásra vonatkozó időkövetelmény alkalmazásától, ha a növényi gyógyszer tekintetében megadható lenne az egyszerűsített forgalomba hozatali engedély, és – megfelelő dokumentációval alátámasztott kérésre – az Ügynökség növényi eredetű gyógyszerekkel foglalkozó bizottsága megállapítja a gyógyszer vagy az ennek megfelelő termék esetében az egyéb feltételek teljesülését, vagy erről ilyen értelmű monográfiát adott ki.
 
 (9) A kérelemben bizonyítani kell a 9. § (1) bekezdés e) pontjában foglaltakat.
 
-(10) Az OGYÉI az Ügynökség növényi eredetű gyógyszerekkel foglalkozó bizottsága által kiadott
+(10)[^16] Az NNGYK az Ügynökség növényi eredetű gyógyszerekkel foglalkozó bizottsága által kiadott
 
 a) új monográfiát negyedévente,
 
 b) összes érvényes monográfiát évente egyszer
 
 a honlapján közzéteszi.
+
+[^12]: A 10. § (1) bekezdés c) pontja a 334/2023. (VII. 20.) Korm. rendelet 57. § b) pontja szerint módosított szöveg.
+[^13]: A 10. § (2) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 57. § b) pontja szerint módosított szöveg.
+[^14]: A 10. § (3) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 57. § b) pontja szerint módosított szöveg.
+[^15]: A 10. § (8) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 57. § b) pontja szerint módosított szöveg.
+[^16]: A 10. § (10) bekezdés nyitó szövegrésze a 334/2023. (VII. 20.) Korm. rendelet 57. § b) pontja szerint módosított szöveg.

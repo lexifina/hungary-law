@@ -1,10 +1,8 @@
-## áll.
-
 ## 7. Módosítás
 
-13. § (1) A jogosult a gyógyszer gyártásával, minőségével, annak ellenőrzésével, valamint a készítmény alkalmazásával kapcsolatban – a tudomány és a technika új eredményei felhasználásának útján – a tudomására jutott új tényt vagy adatot köteles az OGYÉI-nek haladéktalanul bejelenteni.
+13. § (1)[^26] A jogosult a gyógyszer gyártásával, minőségével, annak ellenőrzésével, valamint a készítmény alkalmazásával kapcsolatban – a tudomány és a technika új eredményei felhasználásának útján – a tudomására jutott új tényt vagy adatot köteles az NNGYK-nak haladéktalanul bejelenteni.
 
-(2) Ha a jogosultnak olyan adat jut a tudomására, amely nem felel meg a forgalomba hozatali engedély alapjául szolgáló dokumentációban foglaltaknak, arról tájékoztatnia kell az OGYÉI-t, és kérelmeznie kell a forgalomba hozatali engedély módosítását. A tájékoztatás körében értesíteni kell az OGYÉI-t bármely olyan tilalomról vagy korlátozásról is, amelyet olyan tagállam rendelt el, ahol a gyógyszert forgalmazzák, valamint bármilyen olyan új információról, amely esetleg befolyásolhatja az előny/kockázat arány értékelését. Abból a célból, hogy az előny/kockázat arányt folyamatosan lehessen értékelni, az OGYÉI bármikor felszólíthatja a jogosultat, hogy mutasson be olyan adatokat, amelyek igazolják, hogy az előny/kockázat arány továbbra is kedvező. A felszólításnak a jogosult haladéktalanul és teljes mértékben köteles eleget tenni.
+(2)[^27] Ha a jogosultnak olyan adat jut a tudomására, amely nem felel meg a forgalomba hozatali engedély alapjául szolgáló dokumentációban foglaltaknak, arról tájékoztatnia kell az NNGYK-t, és kérelmeznie kell a forgalomba hozatali engedély módosítását. A tájékoztatás körében értesíteni kell az NNGYK-t bármely olyan tilalomról vagy korlátozásról is, amelyet olyan tagállam rendelt el, ahol a gyógyszert forgalmazzák, valamint bármilyen olyan új információról, amely esetleg befolyásolhatja az előny/kockázat arány értékelését. Abból a célból, hogy az előny/kockázat arányt folyamatosan lehessen értékelni, az NNGYK bármikor felszólíthatja a jogosultat, hogy mutasson be olyan adatokat, amelyek igazolják, hogy az előny/kockázat arány továbbra is kedvező. A felszólításnak a jogosult haladéktalanul és teljes mértékben köteles eleget tenni.
 
 (3) A (2) bekezdésben foglalt tájékoztatásnak ki kell terjednie a klinikai és egyéb vizsgálatok mind pozitív, mind negatív eredményeire valamennyi javallat és betegcsoport vonatkozásában, függetlenül attól, hogy a forgalomba hozatali engedély tartalmazza-e azokat, valamint ki kell terjednie a gyógyszer alkalmazására vonatkozó adatokra akkor is, ha az alkalmazás kívül esik a forgalomba hozatali engedélyben foglaltakon.
 
@@ -18,4 +16,8 @@
 
 (8) A Gytv. 5. § (9) bekezdése szerinti változás esetén a változás bejegyzése, illetve a forgalomba hozatali engedély módosítása iránti kérelemhez mellékelni kell a jogosultság megváltozását igazoló nyilatkozatok, illetve egyéb okiratok másolatát is.
 
-(9) Ha a gyógyszer Magyarországon történő forgalomba hozatalának engedélyezése kölcsönös elismerési vagy decentralizált eljárás alapján történt, a jogosult minden módosítási kérelmet először a referencia-tagállamhoz nyújt be, és az így jóváhagyott módosítás jóváhagyását kell – az erre vonatkozó, a referencia-tagállam által készített értékelő jelentéssel azonos dokumentáció benyújtásával – az OGYÉI-től kérni.
+(9)[^28] Ha a gyógyszer Magyarországon történő forgalomba hozatalának engedélyezése kölcsönös elismerési vagy decentralizált eljárás alapján történt, a jogosult minden módosítási kérelmet először a referencia-tagállamhoz nyújt be, és az így jóváhagyott módosítás jóváhagyását kell – az erre vonatkozó, a referencia-tagállam által készített értékelő jelentéssel azonos dokumentáció benyújtásával – az NNGYK-tól kérni.
+
+[^26]: A 13. § (1) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 57. § f) pontja szerint módosított szöveg.
+[^27]: A 13. § (2) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 57. § b) és g) pontja szerint módosított szöveg.
+[^28]: A 13. § (9) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 57. § h) pontja szerint módosított szöveg.

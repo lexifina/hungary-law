@@ -14,4 +14,6 @@ e) esetében a gyógyszer hagyományos használatára vonatkozó adatok elegend�
 
 (2) Vitaminok vagy ásványi anyagok jelenléte a növényi gyógyszerben nem akadálya az (1) bekezdés szerinti forgalomba hozatali engedély kiadásának, ha a biztonságosság kielégítően bizonyított, és a jelen lévő vitaminok és ásványi anyagok hatása a kérelemben megjelölt javallat tekintetében alárendelt a növényi hatóanyagok hatásához képest.
 
-(3) Ha az OGYÉI úgy ítéli meg, hogy a hagyományos növényi gyógyszer megfelel a 3. § vagy a 8. § szerinti engedélyezésre vonatkozó feltételeknek, akkor azok szerint kell a forgalomba hozatalát engedélyezni.
+(3)[^11] Ha az NNGYK úgy ítéli meg, hogy a hagyományos növényi gyógyszer megfelel a 3. § vagy a 8. § szerinti engedélyezésre vonatkozó feltételeknek, akkor azok szerint kell a forgalomba hozatalát engedélyezni.
+
+[^11]: A 9. § (3) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 57. § b) pontja szerint módosított szöveg.

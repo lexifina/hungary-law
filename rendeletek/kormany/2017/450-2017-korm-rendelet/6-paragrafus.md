@@ -2,6 +2,9 @@
 
 (2) Az (1) bekezdést kell alkalmazni akkor is, ha a hivatkozott gyógyszer Magyarországon nem rendelkezik forgalomba hozatali engedéllyel. Ebben az esetben a kérelmezőnek a kérelemben meg kell jelölnie a hivatkozott gyógyszert engedélyező tagállamot.
 
-(3) Az OGYÉI a hivatkozott gyógyszert engedélyező tagállamtól igazolást kér az engedélyezés tényéről, a vonatkozó termék teljes összetételéről és szükség esetén más releváns dokumentumokról.
+(3)[^9] Az NNGYK a hivatkozott gyógyszert engedélyező tagállamtól igazolást kér az engedélyezés tényéről, a vonatkozó termék teljes összetételéről és szükség esetén más releváns dokumentumokról.
 
-(4) Ha más tagállam az OGYÉI-t keresi meg a (3) bekezdés szerinti igazolás kiállítása érdekében, az OGYÉI köteles a megkeresést teljesíteni.
+(4)[^10] Ha más tagállam az NNGYK-t keresi meg a (3) bekezdés szerinti igazolás kiállítása érdekében, az NNGYK köteles a megkeresést teljesíteni.
+
+[^9]: A 6. § (3) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 57. § b) pontja szerint módosított szöveg.
+[^10]: A 6. § (4) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 57. § b) és c) pontja szerint módosított szöveg.

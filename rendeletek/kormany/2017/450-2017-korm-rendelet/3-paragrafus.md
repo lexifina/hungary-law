@@ -70,10 +70,13 @@ t) a más országban hozott elutasító döntés részleteit és az elutasítás
 
 (3) A (2) bekezdés k) pontja szerinti gyógyszerészeti, preklinikai és klinikai vizsgálatok eredményeivel kapcsolatos dokumentumokhoz és információkhoz az EüMr. 1. számú mellékletével összhangban részletes szakértői összefoglalót kell csatolni. A szakértői összefoglalókat megfelelő szakmai képzettséggel rendelkező szakértőnek kell összeállítania. Az összefoglalóhoz csatolni kell a szakértő rövid szakmai önéletrajzát is. A szakértőnek meg kell indokolnia a tudományos irodalom felhasználását az EüMr. 1. számú mellékletével összhangban.
 
-(4) A (2) és (3) bekezdésben foglaltak változását a kérelmező a tudomására jutást követő harminc napon belül közli az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézettel (a továbbiakban: OGYÉI).
+(4)[^2] A (2) és (3) bekezdésben foglaltak változását a kérelmező a tudomására jutást követő harminc napon belül közli a Nemzeti Népegészségügyi és Gyógyszerészeti Központtal (a továbbiakban: NNGYK).
 
 (5) Az emberi vérből vagy vérplazmából előállított gyógyszerek forgalomba hozatala iránti kérelemben be kell mutatni azokat a módszereket, amelyek a kórokozó vírusok mennyiségét csökkentik, illetve amelyek azokat teljesen eltávolítják a készítményekből.
 
 (6) A (2) bekezdés b) pontja szerinti gyógyszernév nem lehet azonos más, már forgalomba hozatalra engedélyezett készítmény nevével, és nem hasonlíthat más, már forgalomba hozatalra engedélyezett készítmény nevéhez olyan mértékben, hogy azzal összetéveszthető legyen.
 
-(7) Az (1) bekezdés szerinti kérelemre indult eljárás során a kérelmezőnek az OGYÉI felhívására be kell nyújtania a készítmény és a hatóanyag, hatóanyagok minősége értékeléséhez szükséges, de legalább három teljes analízisre alkalmas mennyiségű (értékelési) mintát, és ha az értékeléshez különleges, kereskedelmi forgalomban nem beszerezhető referenciaanyagra is szükség van, ebből az előzőeknek megfelelő mennyiségű mintát.
+(7)[^3] Az (1) bekezdés szerinti kérelemre indult eljárás során a kérelmezőnek az NNGYK felhívására be kell nyújtania a készítmény és a hatóanyag, hatóanyagok minősége értékeléséhez szükséges, de legalább három teljes analízisre alkalmas mennyiségű (értékelési) mintát, és ha az értékeléshez különleges, kereskedelmi forgalomban nem beszerezhető referenciaanyagra is szükség van, ebből az előzőeknek megfelelő mennyiségű mintát.
+
+[^2]: A 3. § (4) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 57. § a) pontja szerint módosított szöveg.
+[^3]: A 3. § (7) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 57. § b) pontja szerint módosított szöveg.

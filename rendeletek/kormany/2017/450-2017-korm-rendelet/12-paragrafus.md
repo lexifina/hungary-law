@@ -1,4 +1,4 @@
-## 11/A. §[^5] A Gytv. 25. § (2b) bekezdése szerinti engedély kiadása iránti eljárásban a 11. § (3)–(6) bekezdését megfelelően alkalmazni kell. A kereskedelmi forgalomba nem kerülő, a Gytv. 25. § (2b) bekezdése alapján alkalmazásra kerülő immunológiai gyógyszer esetében a 15. § (2) bekezdését is alkalmazni kell.
+## 11/A. §[^24] A Gytv. 25. § (2b) bekezdése szerinti engedély kiadása iránti eljárásban a 11. § (3)–(6) bekezdését megfelelően alkalmazni kell. A kereskedelmi forgalomba nem kerülő, a Gytv. 25. § (2b) bekezdése alapján alkalmazásra kerülő immunológiai gyógyszer esetében a 15. § (2) bekezdését is alkalmazni kell.
 
 ## 6. A forgalomba hozatali engedély nyilvántartása
 
@@ -10,7 +10,7 @@ b) sorszámból,
 
 c) „/” (per) jelzésből, gyógyszerformánként, hatáserősségenként, csomagolási egységenként, illetve csomagolási módonként 01-essel kezdődő sorszámból
 
-## áll.
+áll.
 
 (2) Az egyszerűsített eljárással forgalomba hozatalra engedélyezett homeopátiás gyógyszer nyilvántartási száma
 
@@ -22,9 +22,9 @@ c) a bejegyzett hasonszenvi hígítások mértékéből (konkrét hígítás mé
 
 d) „/” (per) jelzésből, gyógyszerformánként, hatáserősségenként, csomagolási egységenként, illetve csomagolási módonként 01-essel kezdődő sorszámból
 
-## áll.
+áll.
 
-(3) A nem egyszerűsített eljárással forgalomba hozatalra engedélyezett homeopátiás gyógyszerek nyilvántartási számát az OGYÉI a (2) bekezdés szerint képezi, azzal, hogy a nyilvántartási számban az „OGYI-T” megjelölés helyett az „OGYI-HG” megjelölés szerepel.
+(3)[^25] A nem egyszerűsített eljárással forgalomba hozatalra engedélyezett homeopátiás gyógyszerek nyilvántartási számát az NNGYK a (2) bekezdés szerint képezi, azzal, hogy a nyilvántartási számban az „OGYI-T” megjelölés helyett az „OGYI-HG” megjelölés szerepel.
 
 (4) A hagyományos növényi gyógyszer nyilvántartási száma
 
@@ -34,4 +34,7 @@ b) sorszámból,
 
 c) „/” (per) jelzésből, gyógyszerformánként, hatáserősségenként, csomagolási egységenként, illetve csomagolási módonként 01-essel kezdődő sorszámból
 
-[^5]: A 11/A. §-t a 648/2021. (XI. 30.) Korm. rendelet 4. §-a iktatta be.
+áll.
+
+[^24]: A 11/A. §-t a 648/2021. (XI. 30.) Korm. rendelet 4. §-a iktatta be.
+[^25]: A 12. § (3) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 57. § b) pontja szerint módosított szöveg.
