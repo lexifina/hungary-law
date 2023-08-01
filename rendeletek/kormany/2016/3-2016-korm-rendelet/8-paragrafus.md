@@ -8,7 +8,7 @@ a) forgalomba hozatalát az engedélyező hatóság nem engedélyezi, vagy
 
 b) forgalmazását a termék megfelelőségének és biztonságának ellenőrzéséért felelős hatóság, vagy a termék piacának felügyeletéért felelős hatóság megtiltja.
 
-(3)[^10] Amennyiben a Rendelet 9. cikke szerinti ellenőrzés során megállapítást nyer, hogy a felhasználó a 4. cikk szerinti kötelezettségeit nem, vagy csak részben teljesítette, az országos természetvédelmi hatóság az ellenőrzés eredményéről értesíti az 5. § szerinti szerveket, intézményeket és kezdeményezi
+(3)[^11] Amennyiben a Rendelet 9. cikke szerinti ellenőrzés során megállapítást nyer, hogy a felhasználó a 4. cikk szerinti kötelezettségeit nem, vagy csak részben teljesítette, az országos természetvédelmi hatóság az ellenőrzés eredményéről értesíti az 5. § szerinti szerveket, intézményeket és kezdeményezi
 
 a) engedélyezett termék esetén az engedély visszavonását,
 
@@ -16,4 +16,4 @@ b) nyilvántartásba vett termék esetén a nyilvántartásból való törlésé
 
 c) a vonatkozó adatok információs központban történt közzététel visszavonását.
 
-[^10]: A 8. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 319. § d) pontja szerint módosított szöveg.
+[^11]: A 8. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 319. § d) pontja szerint módosított szöveg.

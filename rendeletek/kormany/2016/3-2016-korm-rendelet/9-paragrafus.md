@@ -1,4 +1,4 @@
-## 9. §[^11] Az országos természetvédelmi hatóság a felhasználót
+## 9. §[^12] Az országos természetvédelmi hatóság a felhasználót
 
 a) a 6. § (3) bekezdése szerinti kötelezettsége elmulasztása esetén százezer forint,
 
@@ -8,4 +8,4 @@ c) a Rendelet 4. cikk 3. bekezdése szerinti kellő gondosság elmulasztása ese
 
 bírság megfizetésére kötelezi.
 
-[^11]: A 9. § nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 319. § d) pontja szerint módosított szöveg.
+[^12]: A 9. § nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 319. § d) pontja szerint módosított szöveg.
