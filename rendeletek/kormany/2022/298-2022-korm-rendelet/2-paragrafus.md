@@ -1,9 +1,0 @@
-2. § (1) Az 1. § (5) bekezdése szerint nyilvántartásba vett bejelentés alapján az adózó a bejelentéssel érintett adóév tekintetében megállapított és bevallott társasági adóelőleg, társasági adó fizetési kötelezettségének a Magyar Államkincstár által e célból vezetett, deviza adófizetésre nyitott számlára történő átutalással, a bejelentésének megfelelő devizában tesz eleget. A bejelentéstől eltérő devizanemben vezetett számláról érkező átutalás esetén az átváltás költsége az adózót terheli.
-
-(2) Az (1) bekezdés szerint utalt euró- vagy amerikaidollár-összeg az utalással érintett bankszámla megterhelésének napja szerinti, a Magyar Nemzeti Bank által e napra közzétett árfolyammal számított forintösszegben kerül jóváírásra az adózó adószámláján. Amennyiben a terhelés napján nincs a Magyar Nemzeti Bank által e napra közzétett árfolyam, akkor az ezen a napon érvényes legutolsó közzétett árfolyammal számított forintösszeg kerül jóváírásra az adózó adószámláján.
-
-(3) A (2) bekezdés szerinti forintösszeget az állami adó- és vámhatóság átvezeti a társasági adó befizetése céljából vezetett államháztartási számlára. Az adó megfizetésének időpontja az (1) bekezdésben meghatározott számlára teljesített befizetés jóváírásának napja.
-
-(4) Az állami adó- és vámhatóság az adószámlán nyilvántartott adatokról előállított kivonaton, valamint az adószámla tételes adatainak elektronikus lekérdezése során feltünteti az (1) bekezdés alapján euróban vagy amerikai dollárban teljesített befizetés euró- vagy amerikaidollár-összegét és devizanemét, az alkalmazott átváltási árfolyamot, valamint az elszámolt forintösszeget.
-
-(5) Amennyiben a befizetést az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény 12. § (1) vagy (2) bekezdésében megjelölt számlákra kell megfizetni, az (1) bekezdés nem alkalmazandó.
