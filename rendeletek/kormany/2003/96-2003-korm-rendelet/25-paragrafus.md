@@ -18,7 +18,7 @@
 
 (9)[^178] Az egyes egészségügyi és egészségbiztosítási tárgyú kormányrendeletek módosításáról szóló 137/2012. (VI. 29.) Korm. rendelettel megállapított 6/A. § (3) bekezdésében foglaltaknak a 2012. július 1-jén működési engedéllyel rendelkező egészségügyi szolgáltatók esetében 2013. július 1-jétől kell megfelelni.
 
-(10)[^179] Ha az egészségügyi szolgáltatók és működési engedélyük nyilvántartásáról, valamint az egészségügyi szakmai kódjegyzékről szóló miniszteri rendeletben meghatározott szakmák, szakmakódok változása érinti a működési engedélyben meghatározott adatokat, a változást a működési engedély módosulásáig az NNK honlapján közzétett tájékoztatóban meghatározottak szerint kell figyelembe venni azzal, hogy a változást – a tájékoztató elérhetőségének biztosításával egyidejűleg – a működési engedélyekről vezetett nyilvántartásban át kell vezetni.
+(10)[^179] Ha az egészségügyi szolgáltatók és működési engedélyük nyilvántartásáról, valamint az egészségügyi szakmai kódjegyzékről szóló miniszteri rendeletben meghatározott szakmák, szakmakódok változása érinti a működési engedélyben meghatározott adatokat, a változást a működési engedély módosulásáig az NNGYK honlapján közzétett tájékoztatóban meghatározottak szerint kell figyelembe venni azzal, hogy a változást – a tájékoztató elérhetőségének biztosításával egyidejűleg – a működési engedélyekről vezetett nyilvántartásban át kell vezetni.
 
 [^170]: A 24. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 855. pontja hatályon kívül helyezte, újonnan a 365/2010. (XII. 30.) Korm. rendelet 16. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 56. § (3) bekezdés j) pontja szerint módosított szöveg.
 [^171]: A 25. §-t a 325/2011. (XII. 28.) Korm. rendelet 46. §-a iktatta be.
@@ -29,4 +29,4 @@
 [^176]: A 25. § (7) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 30. §-a iktatta be, szövege a 366/2012. (XII. 17.) Korm. rendelet 35. §-a, a 364/2014. (XII. 30.) Korm. rendelet 57. § g) pontja, a 204/2016. (VII. 21.) Korm. rendelet 4. §-a, az 570/2022. (XII. 23.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^177]: A 25. § (8) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 30. §-a iktatta be.
 [^178]: A 25. § (9) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 30. §-a iktatta be.
-[^179]: A 25. § (10) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 32. §-a iktatta be, szövege a 162/2018. (IX. 10.) Korm. rendelet 5. § e) pontja szerint módosított szöveg.
+[^179]: A 25. § (10) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 32. §-a iktatta be, szövege a 162/2018. (IX. 10.) Korm. rendelet 5. § e) pontja, a 334/2023. (VII. 20.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.

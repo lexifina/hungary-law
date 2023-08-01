@@ -10,7 +10,7 @@ b)[^112] a tevékenységet végző egészségügyi dolgozóknak az egészségüg
 
 c) egészségügyi alapellátás esetén a helyettesítő személyeket és a helyettesítés helyét, továbbá ezen adatok változását
 
-bejelenti az a) és a c) pont esetén a működési engedélyt kiadó egészségügyi államigazgatási szervnek, a b) pont esetén a Nemzeti Népegészségügyi Központnak (a továbbiakban: NNK).
+bejelenti az a) és a c) pont esetén a működési engedélyt kiadó egészségügyi államigazgatási szervnek, a b) pont esetén a Nemzeti Népegészségügyi és Gyógyszerészeti Központnak (a továbbiakban: NNGYK).
 
 (2a)[^113] A (2) bekezdés szerinti változást az egészségügyi szolgáltató a (2) bekezdés b) pontjában foglalt adatok tekintetében minden hónap 10. napjáig, a változott adatok közlésével, a (2) bekezdés a) és c) pontja szerinti adatokat a változást követő 8 napon belül jelenti be. Ha a (2) bekezdés a) pontja szerinti adatok változása érinti a 8. § (4) bekezdés a) pontja szerinti szerződést, akkor a szerződés másolatát a bejelentéshez csatolni kell. A (2) bekezdés c) pontja szerinti változás esetén a bejelentéshez csatolni kell a 8. § (4) bekezdés i) pontja szerinti nyilatkozatot.
 
@@ -36,11 +36,11 @@ azzal, hogy ha a változás érinti az alkalmazott mentőegység típusát, ille
 
 (3b)[^117] Az egészségügyi szolgáltató által a (3a) bekezdés alapján bejelentett változás hatósági nyilvántartásba vételéről a működési engedélyt kiadó egészségügyi államigazgatási szerv 8 napon belül elektronikus úton tájékoztatást küld a bejelentő és a Nemzeti Egészségbiztosítási Alapkezelő részére. Az egészségügyi szolgáltató által a (3a) bekezdés alapján bejelentett új mentőjármű, illetve betegszállító jármű szakmai minimumfeltételeknek való megfelelőségét a működési engedélyt kiadó egészségügyi államigazgatási szerv a nyilvántartásba vételt követő 60 napon belül ellenőrzi.
 
-(4)[^118] A (2) bekezdés b) pontja szerinti jelentéseket elektronikusan, az NNK elektronikus humán erőforrás nyilvántartó informatikai rendszere útján kell megtenni. Az első bejelentést követően az egészségügyi szolgáltató az adatokban bekövetkezett változást jelenti. A bejelentés a következő módszerekkel tehető meg:
+(4)[^118] A (2) bekezdés b) pontja szerinti jelentéseket elektronikusan, az NNGYK elektronikus humán erőforrás nyilvántartó informatikai rendszere útján kell megtenni. Az első bejelentést követően az egészségügyi szolgáltató az adatokban bekövetkezett változást jelenti. A bejelentés a következő módszerekkel tehető meg:
 
 a) az internetalapú űrlap manuális kitöltésével, vagy
 
-b)[^119] az internetalapú űrlap kitöltéséhez szükséges adatoknak az egészségügyi szolgáltató saját elektronikus nyilvántartásából informatikai eszközök segítségével történő automatikus beküldésével az NNK humán erőforrás nyilvántartó informatikai rendszerébe.
+b)[^119] az internetalapú űrlap kitöltéséhez szükséges adatoknak az egészségügyi szolgáltató saját elektronikus nyilvántartásából informatikai eszközök segítségével történő automatikus beküldésével az NNGYK humán erőforrás nyilvántartó informatikai rendszerébe.
 
 (5)[^120]
 
@@ -53,15 +53,15 @@ b)[^119] az internetalapú űrlap kitöltéséhez szükséges adatoknak az egés
 (9)[^124] Az országos tisztifőorvos a tudomására jutott, írásban dokumentált adatok alapján hivatalból helyesbíti a tévesen megküldött adatokat.
 
 [^110]: A 14. § (1) bekezdése a 325/2011. (XII. 28.) Korm. rendelet 39. §-ával megállapított, a 447/2012. (XII. 29.) Korm. rendelet 36. §-a szerint módosított szöveg.
-[^111]: A 14. § (2) bekezdését újonnan az 520/2013. (XII. 30.) Korm. rendelet 31. §-a iktatta be, szövege a 172/2016. (VII. 1.) Korm. rendelet 24. § (1) bekezdésével megállapított, záró szövegrésze a 162/2018. (IX. 10.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^111]: A 14. § (2) bekezdését újonnan az 520/2013. (XII. 30.) Korm. rendelet 31. §-a iktatta be, szövege a 172/2016. (VII. 1.) Korm. rendelet 24. § (1) bekezdésével megállapított, záró szövegrésze a 162/2018. (IX. 10.) Korm. rendelet 5. § a) pontja, a 334/2023. (VII. 20.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
 [^112]: A 14. § (2) bekezdés b) pontja a 713/2020. (XII. 30.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
 [^113]: A 14. § (2a) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 31. §-a iktatta be, szövege a 172/2016. (VII. 1.) Korm. rendelet 25. § a) pontja szerint módosított szöveg.
 [^114]: A 14. § (2b) bekezdését a 172/2016. (VII. 1.) Korm. rendelet 24. § (2) bekezdése iktatta be.
 [^115]: A 14. § (3) bekezdése a 215/2009. (IX. 30.) Korm. rendelet 6. §-ával megállapított, a 172/2016. (VII. 1.) Korm. rendelet 25. § b) pontja szerint módosított szöveg.
 [^116]: A 14. § (3a) bekezdését a 464/2016. (XII. 23.) Korm. rendelet 14. §-a iktatta be, nyitó szövegrésze a 286/2023. (VI. 30.) Korm. rendelet 26. § e) pontja szerint módosított szöveg.
 [^117]: A 14. § (3b) bekezdését a 464/2016. (XII. 23.) Korm. rendelet 14. §-a iktatta be, szövege a 286/2023. (VI. 30.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
-[^118]: A 14. § (4) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 49. §-a hatályon kívül helyezte, újonnan a 172/2016. (VII. 1.) Korm. rendelet 24. § (3) bekezdése iktatta be, nyitó szövegrésze a 162/2018. (IX. 10.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
-[^119]: A 14. § (4) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 56. § (3) bekezdés c) pontja, a 162/2018. (IX. 10.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^118]: A 14. § (4) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 49. §-a hatályon kívül helyezte, újonnan a 172/2016. (VII. 1.) Korm. rendelet 24. § (3) bekezdése iktatta be, nyitó szövegrésze a 162/2018. (IX. 10.) Korm. rendelet 5. § b) pontja, a 334/2023. (VII. 20.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^119]: A 14. § (4) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 56. § (3) bekezdés c) pontja, a 162/2018. (IX. 10.) Korm. rendelet 5. § b) pontja, a 334/2023. (VII. 20.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
 [^120]: A 14. § (5) bekezdését újonnan a 172/2016. (VII. 1.) Korm. rendelet 24. § (3) bekezdése iktatta be, a 286/2023. (VI. 30.) Korm. rendelet 27. § g) pontja hatályon kívül helyezte.
 [^121]: A 14. § (6) bekezdését a 172/2016. (VII. 1.) Korm. rendelet 24. § (3) bekezdése iktatta be, a 286/2023. (VI. 30.) Korm. rendelet 27. § g) pontja hatályon kívül helyezte.
 [^122]: A 14. § (7) bekezdését a 172/2016. (VII. 1.) Korm. rendelet 24. § (3) bekezdése iktatta be, szövege a 286/2023. (VI. 30.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
