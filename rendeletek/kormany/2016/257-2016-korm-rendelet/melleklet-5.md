@@ -14,6 +14,6 @@
 
 | A felhasználó NTAK jogosultsági szintje és szerepköre |
 
-5. melléklet a 257/2016. (VIII. 31.) Korm. rendelethez[^60]
+5. melléklet a 257/2016. (VIII. 31.) Korm. rendelethez[^62]
 
-[^60]: Az 5. mellékletet a 235/2019. (X. 15.) Korm. rendelet 18. § (3) bekezdése hatályon kívül helyezte.
+[^62]: Az 5. mellékletet a 235/2019. (X. 15.) Korm. rendelet 18. § (3) bekezdése hatályon kívül helyezte.

@@ -10,7 +10,7 @@
 
 | 3. | elektronikus ügyintézési portál rendszer | Kincstár | NISZ Zrt | NISZ Zrt. | NISZ Zrt |
 
-| 4. | elektronikus űrlapkezelő rendszer | Kincstár | NISZ Zrt | KOPINT-DATORG Kft. | KOPINT-DATORG Kft. |
+| 4. | elektronikus űrlapkezelő rendszer | Kincstár | NISZ Zrt | IdomSoft Zrt.[^57] | IdomSoft Zrt.[^58] |
 
 | 5. | gazdálkodási rendszer | Kincstár | IdomSoft Zrt. | IdomSoft Zrt. | IdomSoft Zrt. |
 
@@ -30,6 +30,8 @@
 
 | 13. | hagyatéki leltár rendszer | Kincstár | Kincstár | Kincstár | Kincstár |
 
-2. melléklet a 257/2016. (VIII. 31.) Korm. rendelethez[^57]
+2. melléklet a 257/2016. (VIII. 31.) Korm. rendelethez[^59]
 
-[^57]: A 2. mellékletet a 717/2021. (XII. 20.) Korm. rendelet 19. § b) pontja hatályon kívül helyezte.
+[^57]: Az 1. mellékletben foglalt táblázat D:4 mezője a 338/2023. (VII. 25.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^58]: Az 1. mellékletben foglalt táblázat E:4 mezője a 338/2023. (VII. 25.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^59]: A 2. mellékletet a 717/2021. (XII. 20.) Korm. rendelet 19. § b) pontja hatályon kívül helyezte.
