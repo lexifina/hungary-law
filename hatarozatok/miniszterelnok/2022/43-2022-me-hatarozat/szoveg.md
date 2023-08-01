@@ -18,12 +18,15 @@ felmentem, egyidejűleg
 
 dr. Kupecki Nórát,
 
-dr. Pátkai Nándort és
+dr. Pátkai Nándort[^1] és
 
-Zalai Csabát
+Zalai Csabát[^2]
 
 az Igazságügyi Minisztérium helyettes államtitkárává
 
 2022. június 12-ei hatállyal
 
 kinevezem.
+
+[^1]: A 64/2023. (VII. 31.) ME határozat alapján dr. Pátkai Nándor tekintetében akként módosul, hogy az „Igazságügyi Minisztérium” megnevezés helyett az „Európai Uniós Ügyek Minisztériuma” megnevezést kell érteni.
+[^2]: A 65/2023. (VII. 31.) ME határozat alapján Zalai Csaba tekintetében akként módosul, hogy az „Igazságügyi Minisztérium” megnevezés helyett az „Európai Uniós Ügyek Minisztériuma” megnevezést kell érteni.
