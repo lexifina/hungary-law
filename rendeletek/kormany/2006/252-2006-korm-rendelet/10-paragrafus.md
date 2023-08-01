@@ -1,6 +1,6 @@
-10. §[^48] (1)[^49] Az állami főépítészi hatáskörében eljáró fővárosi és vármegyei kormányhivatal területi építészeti-műszaki tervtanácsként a világörökségi területeken világörökségi tervtanácsokat működtethet a 9. § (5) bekezdés c) pontjában meghatározott körben.
+10. §[^51] (1)[^52] Az állami főépítészi hatáskörében eljáró fővárosi és vármegyei kormányhivatal területi építészeti-műszaki tervtanácsként a világörökségi területeken világörökségi tervtanácsokat működtethet a 9. § (5) bekezdés c) pontjában meghatározott körben.
 
 (2) Ugyanazon ténybeli állapot mellett azonos építészeti megoldást tartalmazó építészeti-műszaki dokumentáció ismételten nem bírálható el.
 
-[^48]: A 10. § a 322/2012. (XI. 16.) Korm. rendelet 24. §-ával megállapított szöveg.
-[^49]: A 10. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 82. § (2) bekezdés a) pontja, a 279/2015. (IX. 22.) Korm. rendelet 2. §-a, a 217/2018. (XI. 27.) Korm. rendelet 7. §-a, a 677/2020. (XII. 28.) Korm. rendelet 19. § h) pontja, az 58/2021. (II. 10.) Korm. rendelet 1. § (2) bekezdése, a 616/2022. (XII. 29.) Korm. rendelet 67. §-a szerint módosított szöveg.
+[^51]: A 10. § a 322/2012. (XI. 16.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^52]: A 10. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 82. § (2) bekezdés a) pontja, a 279/2015. (IX. 22.) Korm. rendelet 2. §-a, a 217/2018. (XI. 27.) Korm. rendelet 7. §-a, a 677/2020. (XII. 28.) Korm. rendelet 19. § h) pontja, az 58/2021. (II. 10.) Korm. rendelet 1. § (2) bekezdése, a 616/2022. (XII. 29.) Korm. rendelet 67. §-a szerint módosított szöveg.

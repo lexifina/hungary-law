@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-252-20-
 | 2021-07-16 | 2006-252-20-22.25 | 420/2021. (VII. 15.) Korm. rendelet |
 | 2022-08-17 | 2006-252-20-22.26 | 315/2022. (VIII. 16.) Korm. rendelet |
 | 2023-01-01 | 2006-252-20-22.27 | 70/2015. (III. 30.) Korm. rendelet |
+| 2023-08-01 | 2006-252-20-22.28 | 351/2023. (VII. 27.) Korm. rendelet |
