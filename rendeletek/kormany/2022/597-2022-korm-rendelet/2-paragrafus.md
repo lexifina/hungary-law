@@ -1,1 +1,0 @@
-2. § Az adózás rendjéről szóló 2017. évi CL. törvény (a továbbiakban: Art.) 50. § (2) bekezdése szerinti bevallásban a kifizető feltünteti az Art. 50. § (2) bekezdés 6. pontjában foglalt adatokon túl azt, ha a kedvezményezett eltartott a családok támogatásáról szóló törvény szerint tartósan beteg, illetve súlyosan fogyatékos személynek minősül.
