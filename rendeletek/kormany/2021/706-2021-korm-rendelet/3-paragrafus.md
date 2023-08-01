@@ -1,5 +1,3 @@
-## rendelkezéseit kell alkalmazni.
-
 3. § (1) A minősítést végző szervezet a szakmai minőségértékelési feladatai keretében meghatározott minőségi indikátorok alapján a tárgyévben egy alkalommal elvégzi az egészségügyi intézmények minősítését azok vezetőinek együttműködésével. A minőségi indikátorok az egészségügyi intézmények fenntartóinak jóváhagyásával kerülnek meghatározásra és közzétételre a (8) bekezdésben foglaltak szerint.
 
 (2) A minőségi indikátorok számításához szükséges információkat, adatokat az érintett egészségügyi intézmények a tárgyévre vonatkozóan legkésőbb a tárgyévet követő március 15-ig a minősítést végző szervezet részére megküldik, illetve azokat számára elérhetővé teszik.
