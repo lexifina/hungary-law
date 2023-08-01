@@ -6,11 +6,11 @@
 
 | 3. | VP1-1.1.1-17 | Agrárgazdasági képzések és felkészítõ tréningek | 3,49 | 0,00 | 2,03 | 0,53 | 0,55 | 0,40 | 0,00 | standard | Meghirdetve: 2017. január |
 
-| 3a. | VP1-1.1.1-23 | Agrárgazdasági képzések és felkészítő tréningek | 1,00 | 0,00 | 0,50 | 0,10 | 0,40 | 0,00 | 0,00 | egyszerűsített | 2023. május |
+| 3a. | VP1-1.1.1-23 | Agrárgazdasági képzések és felkészítő tréningek | 1,00 | 0,00 | 0,50 | 0,10 | 0,40 | 0,00 | 0,00 | egyszerűsített | Meghirdetve: 2023. július |
 
-| 4. | VP1-1.2.1-23 | Bemutató üzemek támogatása | 15,00 | 0,00 | 10,50 | 0,00 | 0,00 | 2,50 | 0,00 | standard | 2023. május |
+| 4. | VP1-1.2.1-23 | Bemutató üzemek támogatása | 15,00 | 0,00 | 10,50 | 0,00 | 0,00 | 2,50 | 0,00 | standard | 2023. augusztus |
 
-| 5. | VP1-1.2.2-16 | Tájékoztatási szolgáltatás | 17,73 | 0,00 | 7,27 | 2,88 | 5,09 | 2,49 | 0,00 | standard | Meghirdetve: 2016. május |
+| 5. | VP1-1.2.2-16 | Tájékoztatási szolgáltatás | 21,00 | 0,00 | 8,61 | 3,41 | 6,03 | 2,95 | 0,00 | standard | Meghirdetve: 2016. május |
 
 | 6. | VP1-1.3.1-17 | Szakmai tanulmányutak és csereprogramok | 0,01 | 0,00 | 0,01 | 0,01 | 0,42 | 0,13 | 0,00 | standard | Meghirdetve: 2017. március |
 
@@ -212,7 +212,7 @@
 
 | 68. | VP6-19.1.1-15 | LEADER – Helyi fejlesztési stratégiák elkészítésének támogatása | 0,96 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,96 | standard | Meghirdetve: 2015. november |
 
-| 68a. | VP6-19.1.1-23 | LEADER – Helyi fejlesztési stratégiák elkészítésének támogatása | 2,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 2,00 | standard | 2023. június |
+| 68a. | VP6-19.1.1-23 | LEADER – Helyi fejlesztési stratégiák elkészítésének támogatása | 2,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 2,00 | egyszerűsített | 2023. augusztus |
 
 | 69. | VP6-19.2.1-16 | LEADER – Helyi fejlesztési stratégiák megvalósítása | 66,32 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 66,32 | közösségvezérelt helyi fejlesztés (CLLD) | Az intézkedés önálló felhívást nem igényel |
 
