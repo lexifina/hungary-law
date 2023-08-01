@@ -76,7 +76,7 @@ I. Központi finanszírozásúak
 
 | 8.5. Az Országos Mentőszolgálattal a mentésről szóló 5/2006. (II. 7.) EüM rendelet 10. § (4) bekezdése alapján mentési feladat elvégzésében közreműködő egészségügyi szolgáltató. | X |
 
-| 8.6. Országos Kórházi Főigazgatóság, Nemzeti Népegészségügyi Központ | X |
+| 8.6. Országos Kórházi Főigazgatóság, Nemzeti Népegészségügyi és Gyógyszerészeti Központ | X |
 
 | 8.7. Az Országos Mentőszolgálattal együttműködő, az egészségügyért felelős miniszter által kijelölt intézmények | X |
 
@@ -125,4 +125,4 @@ II. Egyedi finanszírozásúak
 [^161]: A 2. melléklet c) pontja a 221/2014. (IX. 4.) Korm. rendelet 531. § a) pontja szerint módosított szöveg.
 [^162]: A 2. melléklet d) pontja a 221/2014. (IX. 4.) Korm. rendelet 531. § b) pontja szerint módosított szöveg.
 [^163]: A 2. melléklet e) pontja a 221/2014. (IX. 4.) Korm. rendelet 531. § c) pontja szerint módosított szöveg.
-[^164]: A 3. melléklet a 188/2016. (VII. 13.) Korm. rendelet 14. §-ával megállapított, a 227/2016. (VII. 29.) Korm. rendelet 3. §-a, a 379/2016. (XII. 2.) Korm. rendelet 166. § (1) bekezdése, (2) bekezdés a)–b) pontja, a 85/2017. (IV. 10.) Korm. rendelet 5. §-a, a 361/2017. (XI. 30.) Korm. rendelet 1. §-a, a 162/2018. (IX. 10.) Korm. rendelet 16. §-a, a 81/2019. (IV. 18.) Korm. rendelet 13. § d)–e) pontja, a 126/2019. (V. 30.) Korm. rendelet 16. §-a, a 70/2021. (II. 19.) Korm. rendelet 6. §-a, a 717/2021. (XII. 20.) Korm. rendelet 6. § (1)–(2) bekezdése, a 239/2022. (VI. 30.) Korm. rendelet 13. §-a, a 409/2022. (X. 24.) Korm. rendelet 10. §-a, a 258/2023. (VI. 28.) Korm. rendelet 7. §-a, a 291/2023. (VII. 6.) Korm. rendelet 13. §-a szerint módosított szöveg.
+[^164]: A 3. melléklet a 188/2016. (VII. 13.) Korm. rendelet 14. §-ával megállapított, a 227/2016. (VII. 29.) Korm. rendelet 3. §-a, a 379/2016. (XII. 2.) Korm. rendelet 166. § (1) bekezdése, (2) bekezdés a)–b) pontja, a 85/2017. (IV. 10.) Korm. rendelet 5. §-a, a 361/2017. (XI. 30.) Korm. rendelet 1. §-a, a 162/2018. (IX. 10.) Korm. rendelet 16. §-a, a 81/2019. (IV. 18.) Korm. rendelet 13. § d)–e) pontja, a 126/2019. (V. 30.) Korm. rendelet 16. §-a, a 70/2021. (II. 19.) Korm. rendelet 6. §-a, a 717/2021. (XII. 20.) Korm. rendelet 6. § (1)–(2) bekezdése, a 239/2022. (VI. 30.) Korm. rendelet 13. §-a, a 409/2022. (X. 24.) Korm. rendelet 10. §-a, a 258/2023. (VI. 28.) Korm. rendelet 7. §-a, a 291/2023. (VII. 6.) Korm. rendelet 13. §-a, a 334/2023. (VII. 20.) Korm. rendelet 22. §-a szerint módosított szöveg.
