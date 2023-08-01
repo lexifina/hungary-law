@@ -34,3 +34,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-489-20-
 | 2023-01-01 | 2013-489-20-22.26 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2023-03-11 | 2013-489-20-22.27 | 74/2023. (III. 10.) Korm. rendelet |
 | 2023-05-13 | 2013-489-20-22.28 | 173/2023. (V. 12.) Korm. rendelet |
+| 2023-08-01 | 2013-489-20-22.29 | 358/2023. (VII. 31.) Korm. rendelet |
