@@ -6,7 +6,7 @@ b) 2. § (2) bekezdés a) pont ab) és ac) alpontja, valamint a 2. § (2) bekezd
 
 c)[^18] 2. § (2) bekezdés b) pont bb) és bc) alpontja esetében az ösztöndíjprogram lebonyolításáért felelős szerv
 
-## tanúsítja.
+tanúsítja.
 
 (2) Az igazolásnak tartalmaznia kell
 
