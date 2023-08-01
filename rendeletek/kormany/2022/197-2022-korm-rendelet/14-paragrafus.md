@@ -1,8 +1,8 @@
 ## 8. A távközlési adóról szóló 2012. évi LVI. törvény szabályaitól való eltérés
 
-14. § (1)[^54] A távközlési adóról szóló 2012. évi LVI. törvény szerinti adófizetési kötelezettség mellett, a Magyarországon az elektronikus hírközlésről szóló 2003. évi C. törvény 188. § 16. pontja szerinti elektronikus hírközlési szolgáltatást nyújtó személynek (e § alkalmazásában a továbbiakban: adóalany) a 2022. július 1-jét magában foglaló adóévére – az adóköteles tevékenységét 2022. július 1-jét követően kezdő adóalany esetén a 2022. július 1-jét követően kezdődő adóévére – és a 2023-ban, továbbá a 2024-ben kezdődő adóévére az adott adóévet követő év ötödik hónapjának utolsó napjáig távközlési pótadót (e § alkalmazásában a továbbiakban: pótadó) kell megállapítani, fizetni és bevallani az állami adóhatóság által rendszeresített nyomtatványon.
+14. § (1)[^52] A távközlési adóról szóló 2012. évi LVI. törvény szerinti adófizetési kötelezettség mellett, a Magyarországon az elektronikus hírközlésről szóló 2003. évi C. törvény 188. § 16. pontja szerinti elektronikus hírközlési szolgáltatást nyújtó személynek (e § alkalmazásában a továbbiakban: adóalany) a 2022. július 1-jét magában foglaló adóévére – az adóköteles tevékenységét 2022. július 1-jét követően kezdő adóalany esetén a 2022. július 1-jét követően kezdődő adóévére – és a 2023-ban, továbbá a 2024-ben kezdődő adóévére az adott adóévet követő év ötödik hónapjának utolsó napjáig távközlési pótadót (e § alkalmazásában a továbbiakban: pótadó) kell megállapítani, fizetni és bevallani az állami adóhatóság által rendszeresített nyomtatványon.
 
-(2)[^55] A pótadó alapja a 2022. július 1-jét magában foglaló adóévben – az adóköteles tevékenységét 2022. július 1-jét követően kezdő adóalany esetén a 2022. július 1-jét követően kezdődő adóévben – az ezen adóévi, a 2023-ban kezdődő adóévben a 2023-ban kezdődő adóévi, a 2024-ben kezdődő adóévben a 2024-ben kezdődő adóévi, az (1) bekezdés szerinti tevékenységből származó, a helyi adókról szóló 1990. évi C. törvény szerinti nettó árbevétel (e § alkalmazásában a továbbiakban: nettó árbevétel), figyelemmel a (8) bekezdésben foglaltakra.
+(2)[^53] A pótadó alapja a 2022. július 1-jét magában foglaló adóévben – az adóköteles tevékenységét 2022. július 1-jét követően kezdő adóalany esetén a 2022. július 1-jét követően kezdődő adóévben – az ezen adóévi, a 2023-ban kezdődő adóévben a 2023-ban kezdődő adóévi, a 2024-ben kezdődő adóévben a 2024-ben kezdődő adóévi, az (1) bekezdés szerinti tevékenységből származó, a helyi adókról szóló 1990. évi C. törvény szerinti nettó árbevétel (e § alkalmazásában a továbbiakban: nettó árbevétel), figyelemmel a (8) bekezdésben foglaltakra.
 
 (3) A távközlési pótadó mértéke a (2) bekezdés szerinti adóalap
 
@@ -26,7 +26,7 @@ a) 2022. november 30-ig a 2022. július 1-jét magában foglaló adóévre a 202
 
 b) a 2023-ban kezdődő adóév ötödik hónapjának utolsó napjáig a 2023-ban kezdődő adóévre a 2022. évre megállapított pótadóval egyező összegű
 
-c)[^56] a 2024-ben kezdődő adóév ötödik hónapjának utolsó napjáig a 2024-ben kezdődő adóévre a 2023. évre megállapított pótadóval egyező összegű
+c)[^54] a 2024-ben kezdődő adóév ötödik hónapjának utolsó napjáig a 2024-ben kezdődő adóévre a 2023. évre megállapított pótadóval egyező összegű
 
 pótadóelőleget kell megállapítani, megfizetni és – az állami adóhatóság által rendszeresített nyomtatványon – bevallani.
 
@@ -34,6 +34,6 @@ pótadóelőleget kell megállapítani, megfizetni és – az állami adóhatós
 
 (9) A pótadóval kapcsolatos hatósági feladatokat az állami adóhatóság látja el. A pótadóból származó bevétel az államháztartás központi alrendszerének bevétele. A pótadót az állami adóhatóság által meghatározott államháztartási számlára kell megfizetni.
 
-[^54]: A 14. § (1) bekezdése a 206/2023. (V. 31.) Korm. rendelet 12. § g) pontja szerint módosított szöveg.
-[^55]: A 14. § (2) bekezdése a 206/2023. (V. 31.) Korm. rendelet 12. § h) pontja szerint módosított szöveg.
-[^56]: A 14. § (7) bekezdés c) pontját a 206/2023. (V. 31.) Korm. rendelet 5. §-a iktatta be.
+[^52]: A 14. § (1) bekezdése a 206/2023. (V. 31.) Korm. rendelet 12. § g) pontja szerint módosított szöveg.
+[^53]: A 14. § (2) bekezdése a 206/2023. (V. 31.) Korm. rendelet 12. § h) pontja szerint módosított szöveg.
+[^54]: A 14. § (7) bekezdés c) pontját a 206/2023. (V. 31.) Korm. rendelet 5. §-a iktatta be.

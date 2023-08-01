@@ -1,13 +1,5 @@
-## 9. A pénzügyi tranzakciós illetékről szóló 2012. évi CXVI. törvény szabályaitól való eltérés
+## 9.[^55]
 
-15. § (1) A pénzügyi tranzakciós illetékről szóló 2012. évi CXVI. törvénytől (a továbbiakban: Pti. tv.) eltérően a Pti. tv.-t a pénzforgalmi szolgáltatási, a hitel- és pénzkölcsönnyújtási, a pénzváltási, a pénzváltás-közvetítési tevékenységeket Magyarországon határon átnyúló szolgáltatásként végző személyekre is – az e §-ban meghatározott eltérésekkel – alkalmazni kell.
+15. §
 
-(2) E § alkalmazásában határon átnyúló szolgáltatás: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény szerint meghatározott határon átnyúló szolgáltatás.
-
-(3) Az (1) bekezdés szerinti, Magyarországon határon átnyúló szolgáltatást végző személy a Magyarországon határon átnyúló szolgáltatásként végzett műveleteire a Pti. tv.-nek a Magyarországon székhellyel vagy fiókteleppel rendelkező pénzforgalmi szolgáltatóra, pénzforgalmi szolgáltatónak nem minősülő, hitelt és pénzkölcsönt nyújtó pénzügyi intézményre, pénzváltási tevékenység végzésére jogosult hitelintézetre, pénzváltás közvetítésére jogosult kiemelt közvetítőre vonatkozó rendelkezéseit alkalmazza.
-
-(4) Az (1) bekezdés szerinti, Magyarországon határon átnyúló szolgáltatást végző személy állami adóhatósági nyilvántartásba vétele érdekében az állami adóhatóság által rendszeresített külön nyomtatványon köteles az állami adóhatósághoz bejelentkezni 2022. szeptember 1-ig, ha e § rendelkezései alapján a tranzakciós illetékfizetési kötelezettség alanyává válik 2022. július 1-jétől. Ha az (1) bekezdés szerinti, Magyarországon határon átnyúló szolgáltatást végző személy 2022. július 1-jét követően válik e § rendelkezései alapján a tranzakciós illetékfizetési kötelezettség alanyává, az alannyá válás napját követő hónap 1. napjáig kell bejelentkeznie az állami adóhatósághoz. Az állami adóhatóság a bejelentkezés alapján nyilvántartásba veszi az (1) bekezdés szerinti, Magyarországon határon átnyúló szolgáltatást végző személyt.
-
-(5) A Pti. tv. 7. § (1) bekezdés a) pontjától eltérően a pénzügyi tranzakciós illeték mértéke a Pti. tv. 7. § (1) bekezdés e) és f) pontja szerinti kivétellel a pénzügyi tranzakciós illeték alapjának 0,3 százaléka, de fizetési műveletenként legfeljebb 10 ezer forint.
-
-(6) A Pti. tv. 7. § (1) bekezdés h) pontjától eltérően a pénzügyi tranzakciós illeték mértéke a pénzügyi tranzakciós illeték alapjának 0,3 százaléka, de fizetési műveletenként legfeljebb 10 ezer forint a Pti. tv. 6. § (1) bekezdés c) pontja esetében átutalásonként, illetve kifizetésenként, ha a tranzakciós illetékfizetésre a Posta Elszámoló Központot működtető intézmény kötelezett.
+[^55]: A 9. alcímet (15. §-t) a 2023. évi LIX. törvény 230. § g) pontja hatályon kívül helyezte.
