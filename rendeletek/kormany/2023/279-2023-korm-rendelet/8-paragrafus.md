@@ -1,3 +1,1 @@
-8. §[^17]
-
-[^17]: A 8. § a 10. § (2) bekezdés alapján 2023. augusztus 1-jén lép hatályba.
+8. § Az R2. az 1. melléklet szerinti 2. melléklettel egészül ki.
