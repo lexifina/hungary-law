@@ -1,1 +1,0 @@
-5. § Az e rendelet szerinti kedvezmény abban az esetben illeti meg a fiatal anyát, ha magzatára, vér szerinti vagy örökbe fogadott gyermekére tekintettel a családi kedvezményre való jogosultsága 2022. december 31-ét követően nyílik meg.
