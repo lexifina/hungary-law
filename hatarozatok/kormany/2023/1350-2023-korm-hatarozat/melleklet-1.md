@@ -22,16 +22,9 @@
 
 | Határidő: | a forrás rendelkezésre állását követően azonnal |
 
-## 2. Az Európai Hálózatfinanszírozási Eszköz keretében megvalósítandó „Szűk keresztmetszetek felszámolása és az átjárhatóság fejlesztése a Budapest (Kelenföld) – Hegyeshalom vonalon” tárgyú CEF projekt hazai társfinanszírozásának biztosításáról szóló 1733/2020. (X. 30.) Korm. határozat 1. melléklete helyébe az 1. melléklet lép.
+## 2.[^1]
 
-1. melléklet az 1350/2023. (VII. 31.) Korm. határozathoz
+1. melléklet az 1350/2023. (VII. 31.) Korm. határozathoz[^2]
 
-„1. melléklet az 1733/2020. (X. 30.) Korm. határozathoz
-
-|  | A | B | C | D | E | F | G | H | I | J | K |
-
-| 1. | Kapcsolódó program megnevezése | Projektjavaslat megnevezése | Kedvezményezett | Végrehajtó szerv | Projekt költsége (nettó forint) | Projekt összköltsége (bruttó forint) | Európai Hálózatfinanszírozási Eszköz terhére biztosítandó támogatás összege (nettó forint) | CEF projekthez kapcsolódó hazai költségvetési támogatás összege (nettó forint) | Kiegészítő feladatok hazai költségvetési támogatása (nettó forint) | Saját erő (forint) | Projektjavaslat rövid bemutatása |
-
-| 2. | Európai Hálózat- finanszírozási Eszköz (CEF) | Szűk keresztmetszetek felszámolása és az átjárhatóság fejlesztése a Budapest (Kelenföld) – Hegyeshalom vonalon | Építési és Közlekedési Minisztérium | MÁV Magyar Államvasutak Zrt. | 28 570 125 263 | 28 570 125 263 | 15 937 340 348 | 11 220 464 993 | 1 412 319 922 | 0 | A Kelenföld–Hegyeshalom vasútvonalon meglévő szűk keresztmetszet felszámolása és a szolgáltatási szint javítása érdekében a következő fejlesztések valósulnak meg a projekt keretében: 1. Almásfüzitő felső, Tata és Hegyeshalom állomásokon a jelenleg üzemelő biztosítóberendezések komplex belsőtéri elemeit és a hozzájuk tartozó áramellátó berendezéseket kicserélik, Komárom állomáson a biztosítóberendezés kezelőfelülete újul meg; 2. a meglévő ETCS L1 vonatbefolyásoló rendszer továbbfejlesztésre kerül, továbbá kiépítésre került az osztrák ETCS L2 rendszer és a magyar ETCS L1 rendszer közötti átjárást lehetővé tévő, magyar oldalon szükséges műszaki tartalom; 3. a meglévő KÖFE berendezés helyett korszerű KÖFI berendezés és rendszer kerül kiépítésre; 4. felsővezetéki energia távvezérlő (FET) rendszer átalakítása, funkcionális bővítése mellett; valamint 5. FET / HETA – felsővezetéki energia távvezérlő rendszer kiegészítő feladatok. |
-
-”
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
