@@ -8,13 +8,13 @@ aa) szakképző intézménnyel tanulói jogviszonyban álló tanulónként, ille
 
 ab) szakiskolával tanulói jogviszonyban álló tanulónként az Nkt. 13/A. § (3) bekezdése szerinti nevelés-oktatás
 
-arányosított önköltsége alapján az egy munkanapra vetített mérték és – a szakképző intézményben, illetve a szakiskolában teljesített oktatási nap és az olyan munkanap kivételével, amire tekintettel a tanuló, illetve a képzésben részt vevő munkabérre nem jogosult – a tárgyhónap munkanapjai számának szorzataként számított összege,
+arányosított önköltsége alapján az egy munkanapra vetített mérték és a tárgyhónap duális képzőhelyen folytatott szakirányú oktatással érintett napjai számának szorzataként a szakirányú oktatásnak az általános teljes napi munkaidőhöz, fiatalkorú munkavállaló esetén napi hét órához viszonyított arányában számított összege azzal, hogy nem vehető figyelembe az olyan munkanap , amire a tanuló, illetve a képzésben részt vevő személy munkabérre vagy távolléti díjra nem jogosult , vagy az Szkt. 84. § (6) bekezdése szerint mentesül a rendelkezésre állási és munkavégzési kötelezettségének teljesítése alól (ide nem értve a betegszabadság olyan munkanapjait, amely a duális képzőhelyen folytatott szakirányú oktatásra esik),
 
-b) – ha a tanuló, illetve a képzésben részt vevő személy sikeres szakmai vizsgát tett – az Szkt. 83. § (2) bekezdés a) pontja szerint megkötött és legalább hat hónapos időtartamban fennálló szakképzési munkaszerződésre tekintettel az a) pont alapján jogszerűen igénybe vett adókedvezmény húsz százalékának megfelelő összeg,
+b) – ha a tanuló, illetve a képzésben részt vevő személy sikeres szakmai vizsgát tett – az Szkt. 83. § (2) bekezdés a) pontja szerint megkötött és legalább hat hónapos egybefüggő időtartamban fennálló szakképzési munkaszerződésre tekintettel az a) pont alapján jogszerűen igénybe vett adókedvezmény húsz százalékának megfelelő összeg,
 
 c) hallgatónként az Nftv. szerinti duális képzés és gyakorlatigényes alapképzési szak arányosított alapnormatívája alapján az egy munkanapra vetített mérték és a tárgyhónapban ténylegesen teljesített képzési napok számának szorzataként számított összege.
 
-(2) Az (1) bekezdéstől eltérően, ha a felnőttképzési jogviszonyban álló képzésben részt vevő személy az Szkt. szerinti szakirányú oktatásban a szakképzési munkaszerződéssel párhuzamosan fennálló foglalkoztatásra irányuló más olyan jogviszonya mellett vesz részt, amelyben a foglalkoztató a duális képzőhelytől eltérő harmadik személy, az adófizetési kötelezettség az (1) bekezdés a) és b) pont szerinti összeg ötven százalékával csökkenthető.
+(2)
 
 (3) Az önköltség és az alapnormatíva mértékét a központi költségvetésről szóló törvény, az önköltség szakmánként alkalmazandó és az alapnormatíva képzési területenként alkalmazandó súlyszorzóját a Kormány rendeletben határozza meg.
 

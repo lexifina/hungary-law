@@ -24,6 +24,8 @@ származó jövedelmet juttató, a 3. § szerint adófizetésre kötelezett kifi
 
 (2) Az (1) bekezdésben foglaltakon kívül a kifizető az adót a természetes személytől levonja, és a juttatást követő hónap 12. napjáig fizeti meg és vallja be.
 
+(2a) Ha az Szja tv. szerint egyéb jövedelemnek minősülő jövedelem kifizetőtől származik, az adót a kifizető az Art. rendelkezései szerint havonta állapítja meg és a tárgyhónapot követő hónap 12-éig vallja be és fizeti meg, kivéve, ha a jövedelem adóelőlegét a kifizető nem köteles megállapítani.
+
 (3) Amennyiben a jövedelem nem kifizetőtől, nem külföldi kifizetőtől származik vagy a juttatásból az adó, az adóelőleg levonása nem lehetséges, az adó megállapítására és megfizetésére a természetes személy kötelezett a 27. § rendelkezéseinek megfelelő alkalmazásával.
 
 (4) Nem minősül kifizetőnek:

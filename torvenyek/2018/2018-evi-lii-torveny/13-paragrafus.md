@@ -22,12 +22,14 @@ megváltozott munkaképességű személynek minősül e § alapján.
 
 a) akinek az egészségi állapota a rehabilitációs hatóság komplex minősítése alapján 60 százalékos vagy kisebb mértékű, vagy
 
-b) aki 2011. december 31-én – a társadalombiztosítási nyugellátásról szóló törvény alapján megállapított – I., II., vagy III. csoportos rokkantsági, baleseti rokkantsági nyugdíjra volt jogosult és a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 32–33. §-a, vagy a 19. § (1a) bekezdése, vagy a 38/C. §-a alapján rokkantsági ellátásban vagy rehabilitációs ellátásban részesül.
+b) aki 2011. december 31-én – a társadalombiztosítási nyugellátásról szóló törvény alapján megállapított – I., II., vagy III. csoportos rokkantsági, baleseti rokkantsági nyugdíjra volt jogosult és a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 32–33. §-a, vagy a 19. § (1a) bekezdése, vagy a 38/C. §-a alapján rokkantsági ellátásban vagy rehabilitációs ellátásban részesül, vagy
+
+c) fogyatékossági támogatásban, vagy vakok személyi járadékában részesül.
 
 (4) A részkedvezmény egyenlő az adómegállapítási időszakra a kifizető által a foglalkoztatott után, az egyéni vállalkozó által saját maga után megállapított, a tag után a kifizető által megállapított adóalap [ide nem értve az 1. § (4)–(5) bekezdés szerinti jövedelmeket], de legfeljebb a minimálbér kétszerese után a 2. § (1) bekezdés szerinti adómértékkel megállapított összeggel.
 
-(5) A kedvezményt az arra jogosult a komplex minősítésről szóló érvényes dokumentum, vagy a (3) bekezdés szerinti megváltozott munkaképességű személyek ellátásainak folyósítását igazoló határozat birtokában érvényesítheti.
+(5) A kedvezményt az arra jogosult a komplex minősítésről szóló érvényes dokumentum, vagy a (3) bekezdés szerinti megváltozott munkaképességű személyek ellátásainak, illetve fogyatékossági támogatás, vagy vakok személyi járadékának folyósítását igazoló határozat birtokában érvényesítheti.
 
-(6) A megváltozott munkaképességű személy a (3) bekezdés a) vagy b) pontja szerinti jogosultság megszűnéséről, az arról szóló határozat kézhezvételétől számított 5 munkanapon belül köteles tájékoztatni a kifizetőt.
+(6) A megváltozott munkaképességű személy a (3) bekezdés a)–c) pontja szerinti jogosultság megszűnéséről, az arról szóló határozat kézhezvételétől számított 5 munkanapon belül köteles tájékoztatni a kifizetőt.
 
 (7) Amennyiben az adókedvezmény érvényesítésének feltételei már nem teljesülnek, akkor az adókedvezmény a jogosultság megszűnését követő hónaptól nem vehető igénybe.
