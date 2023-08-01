@@ -1,6 +1,6 @@
 5. melléklet a 489/2015. (XII. 30.) Korm. rendelethez
 
-## A vizsgálatokhoz tartozó adatközlés megkövetelt tartalma
+A vizsgálatokhoz tartozó adatközlés megkövetelt tartalma
 
 1. Követelmények a mintavételi adatokra vonatkozóan:
 

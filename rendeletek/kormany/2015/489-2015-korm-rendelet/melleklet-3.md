@@ -12,7 +12,7 @@ az OKSER ellenőrző tevékenységébe bevont vizsgálatok tárgya
 
 | 1 | OKSER tag | Adatszolgáltató központ | Vizsgálatok tárgya |
 
-| 2 | egészségügyért felelős miniszter által vezetett minisztérium és a közigazgatás-szervezésért felelős miniszter által vezetett minisztérium és az | Egészségügyi Radiológiai Mérő és Adatszolgáltató Hálózat Információs Központja (Nemzeti Népegészségügyi Központ) | levegő, szárazföldi környezet, vízi környezet, ivóvíz, környezeti gamma-dózisteljesítmény, az emberi szervezet belső radioaktív szennyezettsége és ezt okozó közvetítő közegek |
+| 2 | egészségügyért felelős miniszter által vezetett minisztérium és a közigazgatás-szervezésért felelős miniszter által vezetett minisztérium és az | Egészségügyi Radiológiai Mérő és Adatszolgáltató Hálózat Információs Központja (Nemzeti Népegészségügyi és Gyógyszerészeti Központ) | levegő, szárazföldi környezet, vízi környezet, ivóvíz, környezeti gamma-dózisteljesítmény, az emberi szervezet belső radioaktív szennyezettsége és ezt okozó közvetítő közegek |
 
 | 3 | az agrárpolitikáért felelős miniszter által vezetett minisztérium és az élelmiszerlánc-felügyeletért felelős miniszter által vezetett minisztérium | Nemzeti Élelmiszerlánc-biztonsági Hivatal | levegő, ivóvíz, a talaj, a növényzet, a növényi és az állati eredetű élelmiszertermékek, takarmányok, mezőgazdasági tevékenységgel és erdőgazdálkodással összefüggő egyéb minták |
 
@@ -38,13 +38,21 @@ az OKSER ellenőrző tevékenységébe bevont vizsgálatok tárgya
 
 1.2.1. Megjegyzések:
 
-1.2.1.1. (a) = Az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló 201/2001. (X. 25.) Korm. rendelet szerint.
+1.2.1.1.
 
-1.2.1.2. (b) = A levegő mintavételezésére folyamatos üzemű mintavevőt kell alkalmazni.
+(a) = Az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló 201/2001. (X. 25.) Korm. rendelet szerint.
 
-1.2.1.3. (c) = Folyóvíz mintavételezését lehetőleg ott kell végezni, ahol lehetőség van az áramlási sebesség mérésére is, melyet szintén közölni kell az aktivitáskoncentráció mérési eredménye mellett.
+1.2.1.2.
 
-1.2.1.4. (d) = Beleértve palackozott vizek is.
+(b) = A levegő mintavételezésére folyamatos üzemű mintavevőt kell alkalmazni.
+
+1.2.1.3.
+
+(c) = Folyóvíz mintavételezését lehetőleg ott kell végezni, ahol lehetőség van az áramlási sebesség mérésére is, melyet szintén közölni kell az aktivitáskoncentráció mérési eredménye mellett.
+
+1.2.1.4.
+
+(d) = Beleértve palackozott vizek is.
 
 2. A ritka és sűrű monitoring mérőhálózat felépítése
 
@@ -60,7 +68,7 @@ az OKSER ellenőrző tevékenységébe bevonható mérési területeik
 
 |  | 1 | OKSER tag | Adatszolgáltató központ | Vizsgálatok tárgya |
 
-|  | 2 | a katasztrófák elleni védekezésért felelős miniszter által vezetett minisztérium | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság, Nukleáris Baleseti Információs és Értékelő Központ | (a) környezeti gamma-dózis-teljesítmény (b) levegő aeroszol |
+|  | 2 | a katasztrófák elleni védekezésért felelős miniszter által vezetett minisztérium | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság, Nukleáris Baleseti Információs és Értékelő Központ | (a)környezeti gamma-dózis-teljesítmény (b)levegő aeroszol |
 
 |  | 3 | a felsőoktatásért felelős miniszter által vezetett minisztérium | a Budapesti Műszaki és Gazdaságtudományi Egyetem, Nukleáris Technikai Intézet Tanreaktora Üzemi Környezeti Sugárvédelmi Ellenőrző Rendszere | levegő aeroszol, levegő fall-out, környezeti gammadózis-teljesítmény |
 
@@ -80,8 +88,12 @@ az OKSER ellenőrző tevékenységébe bevonható mérési területeik
 
 3.1. Megjegyzések:
 
-3.1.1. (a) = a környezeti gammadózis-teljesítmény távmérés a katasztrófák elleni védekezésért felelős miniszter által vezetett minisztérium, a honvédelemért felelős miniszter által vezetett minisztérium, az egészségügyért felelős miniszter által vezetett minisztérium, az agrárpolitikáért felelős miniszter által vezetett minisztérium, a felsőoktatásért felelős miniszter által vezetett minisztérium, az OMSZ, az MTA, az MVM Paksi Atomerőmű Zártkörűen Működő Részvénytársaság és az RHK Kft. által működtetett automata állomások bevonásával történik a külön jogszabályban meghatározott Országos Sugárfigyelő Jelző és Ellenőrző Rendszer működése szerint.
+3.1.1.
 
-3.1.2. (b) = a levegő aeroszol mérése az OMSZ által működtetett automata állomások bevonásával történik a Országos Sugárfigyelő Jelző és Ellenőrző Rendszer működése szerint.
+(a) = a környezeti gammadózis-teljesítmény távmérés a katasztrófák elleni védekezésért felelős miniszter által vezetett minisztérium, a honvédelemért felelős miniszter által vezetett minisztérium, az egészségügyért felelős miniszter által vezetett minisztérium, az agrárpolitikáért felelős miniszter által vezetett minisztérium, a felsőoktatásért felelős miniszter által vezetett minisztérium, az OMSZ, az MTA, az MVM Paksi Atomerőmű Zártkörűen Működő Részvénytársaság és az RHK Kft. által működtetett automata állomások bevonásával történik a külön jogszabályban meghatározott Országos Sugárfigyelő Jelző és Ellenőrző Rendszer működése szerint.
 
-[^20]: A 3. melléklet a 162/2018. (IX. 10.) Korm. rendelet 32. § b) pontja, a 204/2019. (VIII. 23.) Korm. rendelet 19. §-a, a 345/2019. (XII. 23.) Korm. rendelet 6. §-a, a 36/2020. (III. 5.) Korm. rendelet 16. § (2) bekezdése, a 238/2022. (VI. 30.) Korm. rendelet 156. §-a szerint módosított szöveg.
+3.1.2.
+
+(b) = a levegő aeroszol mérése az OMSZ által működtetett automata állomások bevonásával történik a Országos Sugárfigyelő Jelző és Ellenőrző Rendszer működése szerint.
+
+[^20]: A 3. melléklet a 162/2018. (IX. 10.) Korm. rendelet 32. § b) pontja, a 204/2019. (VIII. 23.) Korm. rendelet 19. §-a, a 345/2019. (XII. 23.) Korm. rendelet 6. §-a, a 36/2020. (III. 5.) Korm. rendelet 16. § (2) bekezdése, a 238/2022. (VI. 30.) Korm. rendelet 156. §-a, a 334/2023. (VII. 20.) Korm. rendelet 45. §-a szerint módosított szöveg.

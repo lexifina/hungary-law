@@ -20,7 +20,7 @@
 
 | 8 | Vegyes élelmiszer | Cs-137, Sr-90 aktivitáskoncentráció | Cs-137, Sr-90, aktivitáskoncentráció |
 
-.
+## .
 
 2. Az alkalmazott mérések jelentési szintjei
 
@@ -42,8 +42,12 @@
 
 2.2. Magyarázat:
 
-2.2.1. (a) = Becquerel személyenként és naponta,
+2.2.1.
 
-2.2.2. (b) = Becquerel személyenként és naponta.
+(a) = Becquerel személyenként és naponta,
+
+2.2.2.
+
+(b) = Becquerel személyenként és naponta.
 
 [^21]: A 4. melléklet a 36/2020. (III. 5.) Korm. rendelet 17. § b)–d) pontja szerint módosított szöveg.

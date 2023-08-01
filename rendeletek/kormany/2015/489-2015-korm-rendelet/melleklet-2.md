@@ -1,6 +1,6 @@
 2. melléklet a 489/2015. (XII. 30.) Korm. rendelethez
 
-## Az OKSER Működési Rendjére vonatkozó tartalmi előírások
+Az OKSER Működési Rendjére vonatkozó tartalmi előírások
 
 1. Az OKSER SZB működési szabályai, különös tekintettel az ülésezés rendjére, a határozatképesség, szavazati jog és döntéshozatal szabályozására, illetve a képviseleti, aláírási jog gyakorlására
 
