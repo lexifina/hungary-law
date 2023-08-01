@@ -1,4 +1,4 @@
-13. §[^42] (1) A NEAK 2023. február 1. napjától ellátja
+13. §[^43] (1) A NEAK 2023. február 1. napjától ellátja
 
 a) mindazon feladatokat, amelyek 2023. január 31-ig a Belügyminisztérium egészségügyi finanszírozásért és fejlesztésért felelős helyettes államtitkára által irányított Egészségbiztosítási Alap Kontrolling Főosztály, Nemzeti Egészségbiztosítási Alapkezelő Működtetésért Felelős Főosztály szervezeti egységek feladatkörébe tartoztak,
 
@@ -26,4 +26,4 @@ b) jogutódként belépni a folyamatban lévő peres és nemperes eljárásokba.
 
 (5) A Belügyminisztérium és a NEAK a feladatok átadásáról átadás-átvételi megállapodást köt.
 
-[^42]: A 13. §-t újonnan a 630/2022. (XII. 30.) Korm. rendelet 23. §-a iktatta be, szövege a 19/2023. (I. 30.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^43]: A 13. §-t újonnan a 630/2022. (XII. 30.) Korm. rendelet 23. §-a iktatta be, szövege a 19/2023. (I. 30.) Korm. rendelet 8. §-ával megállapított szöveg.
