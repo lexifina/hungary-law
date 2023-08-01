@@ -101,3 +101,5 @@ megnevezéssel működik.
 (34) Az Eszterházy Károly Egyetem 2021. augusztus 1. napjától Eszterházy Károly Katolikus Egyetem megnevezéssel működik.
 
 (35) A Gábor Dénes Főiskola 2023. február 1-jétől Gábor Dénes Egyetem megnevezéssel, alkalmazott tudományok egyetemeként működik.
+
+(36) A Budapest Kortárstánc Főiskola 2023. augusztus 1-jétől Budapest Cirkuszművészeti és Kortárstánc Főiskola megnevezéssel működik.
