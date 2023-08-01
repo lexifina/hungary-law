@@ -237,3 +237,77 @@
 ## 4. Járulékok
 
 ## 4.1. Társadalombiztosítási járulék, nyugdíjjárulék
+
+## 4.1.1. A munkáltató az általa levont társadalombiztosítási járulékot az elszámolt hónapot követő hó tizenkettedik napjáig,
+
+## 4.1.2. a kifizető az általa levont járulékot a kifizetés hónapját követő hó tizenkettedik napjáig,
+
+## 4.1.3. a Tbj. 4. § 2. pontja szerinti egyéni vállalkozó a társadalombiztosítási járulékot havonta a tárgyhónapot követő hónap tizenkettedik napjáig
+
+## fizeti meg.
+
+## 4.2. A Tbj. 43. §-a alapján fizetendő egészségügyi szolgáltatási járulék
+
+## A természetes személy a Tbj. 43. § (1) bekezdése alapján előírt járulékfizetési kötelezettségét a tárgyhót követő hónap 12. napjáig vagy az állami adó és vámhatóság által meghatározott időpontig teljesíti.
+
+## 5. Játékadó
+
+## 5.1. Az adózó – az 5.2. alpontban foglalt kivétellel – a játékadót a tárgyhót követő hó huszadik napjáig, a nem folyamatosan szervezett sorsolásos játék esetén a sorsolás napját követő hó huszadik napjáig vallja be és fizeti meg.
+
+## 5.2. A játékautomata éves adóját az adózó az erre vonatkozó bevallás benyújtásával egyidejűleg fizeti meg.
+
+## 6. Rehabilitációs hozzájárulás
+
+## 6.1. Az adózó a rehabilitációs célú hozzájárulásra a jogszabályban előírt módon számított előleget az I–III. negyedévben a negyedévet követő hó huszadik napjáig fizeti meg.
+
+## 6.2. A befizetett előlegek és az éves hozzájárulás különbözetét az adóévet követő év február huszonötödik napjáig kell megfizetni.
+
+## 7. Külön fel nem sorolt befizetések
+
+## Az előzőekben fel nem sorolt adókat a jogszabályban megállapított módon és határidőben kell megfizetni. Ennek hiányában, ha törvény előlegfizetést ír elő, azt a tárgyhó huszonnyolcadik napjáig, az adót a tárgyhót követő hó huszadik napjáig, az adóévre megállapított adót az éves adóbevallással egyidejűleg kell megfizetni. A hatályon kívül helyezett jogszabályok alapján teljesítendő önellenőrzés során feltárt, helyesbített, illetve az adóhatóság által megállapított adót egyéb befizetés címén kell megfizetni, a költségvetési támogatást egyéb támogatás címén lehet visszaigényelni.
+
+## 8. Belföldi gépjárművek adója
+
+## Az adózó – az évközi adókötelezettség keletkezésének (változásának) kivételével – az adót a naptári évben félévente, két egyenlő részletben – végrehajtható okirat alapján – március hónap tizenötödik napjáig, valamint szeptember hónap tizenötödik napjáig fizeti meg.
+
+## II.
+
+## AZ ÖNKORMÁNYZATI ADÓHATÓSÁGHOZ TELJESÍTENDŐ BEFIZETÉSEK
+
+## Általános rendelkezések
+
+## Ha a helyi adóban az esedékes adó összege az ezer forintot nem éri el, akkor azt az adózónak kizárólag akkor kell megfizetnie, amikor a meg nem fizetett és a jövőben esedékessé váló adó együttes összege az ezer forintot eléri. Az ezer forintot el nem érő, korábban esedékessé vált adó után – az adónemben ezer forintot elérő adófizetési kötelezettség esedékességéig – késedelmi pótlék nem számítható fel.
+
+## Az önkormányzati adóhatóság az adónemben túlfizetésként fennálló, ezer forintot el nem érő adót nem téríti vissza, azt a jövőben esedékes – az önkormányzati adóhatóságnál nyilvántartott – adóra, egyéb közteherre számolja el.
+
+## A) Helyi adók
+
+## 1. Az adózó az állandó jellegű helyi iparűzési tevékenység utáni adóban
+
+## a) az adóelőlegét az adóév harmadik hónapjának tizenötödik napjáig, valamint kilencedik hónapjának tizenötödik napjáig fizeti meg;
+
+## b)
+
+## c) a megfizetett adóelőleg, valamint az adóévre megállapított adó pozitív különbözetét az adóévet követő év ötödik hónapjának utolsó napjáig fizeti meg, illetve a túlfizetést ettől az időponttól igényelheti vissza.
+
+## 2.
+
+## 3. Az adóbeszedésre kötelezett az általa beszedett, vagy beszedni elmulasztott idegenforgalmi adót az adóbevallás benyújtására nyitva álló határnapig fizeti meg.
+
+## 4. Az adózó – az adóról szóló önkormányzati rendelet évközi hatálybalépése esetét kivéve – az építményadót, telekadót, magánszemély kommunális adóját a naptári évben félévente, két egyenlő részletben – végrehajtható okirat alapján – március hónap tizenötödik napjáig, valamint szeptember hónap tizenötödik napjáig fizeti meg.
+
+## III.
+
+## KÖLTSÉGVETÉSI TÁMOGATÁSOK
+
+## 1. Az állami adó- és vámhatóságtól a költségvetési támogatást az adózó ezer forintra kerekítve igényelheti.
+
+## 2. Ha a támogatást megállapító jogszabály eltérően nem rendelkezik,
+
+## 2.1. a havonta megállapított költségvetési támogatást az adózó havonta a tárgyhót követő hó huszadik napjától,
+
+## 2.2. a feltétel bekövetkeztéhez kötött költségvetési támogatást az előírt mellékletekkel ellátott bevallás benyújtása időpontjától
+
+## igényelheti.
+
+## 3. Gyakoribb igénybevétel, egyszeri támogatási előleg

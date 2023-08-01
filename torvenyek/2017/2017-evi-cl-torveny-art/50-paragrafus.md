@@ -24,17 +24,19 @@ c) a Tbj. 87. § (5) bekezdése szerinti kötelezett.
 
 5. a biztosításban töltött idő tartamát, az alkalmazás minőségének, jogcímének kódját, valamint a természetes személy nyugdíjas státuszát, a gyermekgondozási díj, a gyermekgondozást segítő ellátás vagy az örökbefogadói díj folyósítása melletti munkavégzésének tényét, illetve azt, hogy korhatár előtti ellátásban, szolgálati járandóságban, táncművészeti életjáradékban vagy átmeneti bányászjáradékban részesül-e, továbbá az arányos szolgálati idő számításának szükségességéről,
 
-6. a természetes személy tekintetében az Szja tv. 29/A. § és 29/B. § szerinti kedvezmény érvényesítéséhez szükséges következő adatokat:
+6. a természetes személy esetében az Szja tv. 29/A. § és 29/B. § szerinti kedvezmény érvényesítéséhez szükséges következő adatokat:
 
 a) a kedvezmény közös érvényesítésének tényét, annak arányát,
 
-b) a magzat kivételével minden eltartott (kedvezményezett eltartott) nevét, adóazonosító jelét,
+b) a magzat kivételével minden eltartott, kedvezményezett eltartott nevét, adóazonosító jelét,
 
-c) az arra vonatkozó adatot, hogy e személyek – ideértve a magzatot is – a tárgyhónapban eltartottnak, kedvezményezett eltartottnak, illetve felváltva gondozott gyermeknek minősülnek-e,
+c) az arra vonatkozó adatot, hogy e személyek – ideértve a magzatot is – a tárgyhónapban eltartottnak, kedvezményezett eltartottnak vagy felváltva gondozott gyermeknek minősülnek-e,
 
-d) az Szja tv. 29/A. § (3) bekezdése szerinti jogcímét,
+d) az arra vonatkozó adatot, hogy a kedvezményezett eltartott a tárgyhónapban a családok támogatásáról szóló törvény szerint tartósan beteg vagy súlyosan fogyatékos személynek minősül-e,
 
-e) a családi kedvezmény közös érvényesítése esetén a másik fél adóazonosító jelét,
+e) az Szja tv. 29/A. § (3) bekezdése szerinti jogcímet,
+
+f) a családi kedvezmény közös érvényesítése esetén a másik fél adóazonosító jelét,
 
 7. a természetes személy tekintetében az Szja. tv. 29/C. § szerinti kedvezmény érvényesítéséhez szükséges következő adatokat:
 
@@ -53,6 +55,18 @@ b) az Szja tv. 29/D. § (2) bekezdés szerint a kedvezmény alapját képező j�
 a) a születési idejét,
 
 b) az Szja tv. 29/F. § (2) bekezdése szerint a kedvezmény alapját képező jövedelmeket jogcímenként,
+
+7c. a természetes személy esetében az Szja tv. 29/G. § szerinti kedvezmény érvényesítéséhez szükséges következő adatokat:
+
+a) a születési idejét,
+
+b) a természetes személy családi kedvezményre való jogosultságának az Szja tv. 29/A. § (3) bekezdés a) pontja vagy b) pontja szerinti jogcímét,
+
+c) – a magzat kivételével – a gyermek nevét, adóazonosító jelét,
+
+d) várandósság esetén ennek tényét, valamint
+
+e) az Szja tv. 29/G. § (3) bekezdése szerint a kedvezmény alapját képező jövedelmeket jogcímenként,
 
 8. a 6–7b. pont szerinti kedvezmény esetében a változás bekövetkezésének időpontját, ha a természetes személy az adóelőleg-nyilatkozat tartalmát érintő változás miatt új nyilatkozatot ad a munkáltató, kifizető részére,
 

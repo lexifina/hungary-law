@@ -179,3 +179,5 @@ teljesíti.
 29.1. a helyi adókról szóló 1990. évi C. törvény szerinti telephelyének címét,
 
 29.2. az önkormányzati adóhatóság előtt helyi iparűzési adóügyben eljárni jogosult állandó meghatalmazottját.
+
+30. A társasági adó alanya az állami adó- és vámhatósághoz bejelenti, ha a társasági adó-fizetési kötelezettségének devizában tesz eleget.
