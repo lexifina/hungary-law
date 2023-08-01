@@ -24,4 +24,7 @@ a) az olyan építési övezetbe sorolás, amelyet a 2021. július 1-jét megel�
 
 b) ha a közút elhelyezése céljára szolgáló terület csökkentése miatt növekszik a beépíthető terület nagysága.
 
+78/D. §[^52] A 43. § (2a) bekezdését a 2024. március 1-jét követően kezdeményezett szakmai konzultációk esetében kell alkalmazni.
+
 [^51]: A 78/D. §-t a 253/2023. (VI. 23.) Korm. rendelet 11. §-a iktatta be.
+[^52]: A második 78/D. §-t a 351/2023. (VII. 27.) Korm. rendelet 30. §-a iktatta be.
