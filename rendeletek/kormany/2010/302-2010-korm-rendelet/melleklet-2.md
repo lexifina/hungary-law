@@ -1,5 +1,3 @@
-## Jogharmonizációs javaslat*
-
 |  |  | Sürgősség: Igen/Nem |
 
 | 1. A jogharmonizációs javaslatot készítő minisztérium:1 |  |  |
@@ -145,3 +143,5 @@
 ## 14 E helyen szükséges feltüntetni az átültetéshez/végrehajtáshoz kapcsolódó esetleges egyéb fontos információkat, illetve teendőket, így különösen annak tényét, hogy az adott uniós jogi aktustól való eltérés (derogáció) vonatkozik Magyarországra, az adott uniós jogszabályban előírt – nem a klasszikus, az irányelvekhez kapcsolódó notifikációt érintő – bejelentési, jelentéstételi kötelezettségeket (pl. a kijelölt tagállami hatóságokról való értesítés kötelezettségét) vagy a hazai jogszabály tervezetének véleményezésre való megküldésének kötelezettségét. Itt szükséges továbbá megjelölni szakaszos átültetési/alkalmazási időpontok előírása esetén az első határidőt követő további átültetési/végrehajtási határidőket, valamint azt, hogy az átültetés/végrehajtás hány szakaszban történik meg.
 
 2. melléklet a 302/2010. (XII. 23.) Korm. rendelethez
+
+Megfelelési táblázat

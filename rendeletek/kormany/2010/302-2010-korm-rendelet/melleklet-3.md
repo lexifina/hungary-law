@@ -1,5 +1,3 @@
-## Megfelelési táblázat
-
 | Uniós jogi aktus: |
 
 | Magyar jogszabály(ok): |

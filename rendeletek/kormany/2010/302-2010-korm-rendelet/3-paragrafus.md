@@ -10,10 +10,10 @@
 
 (6) Ha az Európai Bizottság által az Európai Unió működéséről szóló szerződés 258. cikke alapján indított kötelezettségszegési eljárással vagy az Európai Unió működéséről szóló szerződés 108. cikke alapján elfogadott határozattal összefüggésben konkrét jogalkotási feladat merül fel, és e feladat ütemezése is meghatározásra kerül, a jogharmonizációs javaslat egyeztetése és elfogadása a kormányzati álláspont elfogadására irányuló eljárásban történik.
 
-(7)[^2] Ha a jogharmonizációs javaslat felelőse tekintetében az uniós jogi aktus kihirdetésétől számított 30 napon belül nem jön létre megegyezés, az európai uniós ügyek koordinációjáért felelős miniszter tesz javaslatot a felelős személyére.
+(7)[^2] Ha a jogharmonizációs javaslat felelőse tekintetében az uniós jogi aktus kihirdetésétől számított 30 napon belül nem jön létre megegyezés, az európai uniós ügyek koordinációjáért felelős miniszter és az igazságügyért felelős miniszter tesz javaslatot a felelős személyére.
 
 (8)[^3] Az európai uniós ügyek koordinációjáért felelős miniszter vagy az igazságügyért felelős miniszter a Kormány döntését kérheti, ha az érintett miniszterek a (7) bekezdés szerinti javaslattal nem értenek egyet, illetve ha a jogharmonizációs javaslat elkészítése egyéb okból jelentős késedelmet szenved, továbbá ha a jogharmonizációs javaslattal vagy a jogharmonizációs feladat teljesítésével kapcsolatban kiemelkedően fontos, koncepcionális kérdést illetően nem jött létre megegyezés.
 
 [^1]: A 3. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 503. § a) pontja, a 303/2014. (XII. 5.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
-[^2]: A 3. § (7) bekezdése a 303/2014. (XII. 5.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.[A 3. § (7) bekezdésének a 221/2014. (IX. 4.) Korm. rendelet 503. § b) pontjával elrendelt módosítása, amely szerint a „jog harmonizációs” szövegrész helyébe a „jogharmonizációs” szöveg lép, nem vezethető át.]
+[^2]: A 3. § (7) bekezdése a 303/2014. (XII. 5.) Korm. rendelet 9. § b) pontja, a 314/2023. (VII. 17.) Korm. rendelet 8. § a) pontja szerint módosított szöveg. [A 3. § (7) bekezdésének a 221/2014. (IX. 4.) Korm. rendelet 503. § b) pontjával elrendelt módosítása, amely szerint a „jog harmonizációs” szövegrész helyébe a „jogharmonizációs” szöveg lép, nem vezethető át.]
 [^3]: A 3. § (8) bekezdése a 303/2014. (XII. 5.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
