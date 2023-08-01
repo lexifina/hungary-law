@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-304-20-
 | --- | --- | --- |
 | 2023-07-12 | 2023-304-20-22.1 | 304/2023. (VII. 11.) Korm. rendelet |
 | 2023-07-13 | 2023-304-20-22.2 | 2010. évi CXXX. törvény |
+| 2023-08-01 | 2023-304-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
