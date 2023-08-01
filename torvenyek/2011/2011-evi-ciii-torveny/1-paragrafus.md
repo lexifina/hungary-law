@@ -32,7 +32,7 @@ Előrecsomagolt terméknek minősül az az a)–c) pontokban foglalt feltételek
 
 6. teljesítési hely: az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa törvény) szerinti teljesítési hely;
 
-7. VTSZ szám: a vám- és a statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló 1987. július 23-i 2658/87/EGK tanácsi rendelet I. mellékletében meghatározott Kombinált Nómenklatúra 2018. január 1-jén hatályos szövege szerinti vámtarifaszám;
+7. VTSZ szám: a vám- és a statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló 1987. július 23-i 2658/87/EGK tanácsi rendelet I. mellékletében meghatározott Kombinált Nómenklatúra 2022. május 15-én hatályos szövege szerinti vámtarifaszám;
 
 8. teljesítési időpont: az Áfa törvény szerinti teljesítési időpont;
 
@@ -46,7 +46,7 @@ Előrecsomagolt terméknek minősül az az a)–c) pontokban foglalt feltételek
 
 13. beszerzés: terméknek az Áfa törvény szerinti Közösségen belüli beszerzése, importja.
 
-14. szörp: A Magyar Élelmiszerkönyv szerinti gyümölcsszörp, valamint a Magyar Élelmiszerkönyv szerinti víz- és kivonat alapú szörp, valamint a 2106 VTSZ szám alá tartozó, ital előállítására használatos, víz- és kivonatalapú, a megnevezésére jellemző ízű és illatú készítmény, amelyet cukorból vagy cukorszirupból, ízesítő és adalékanyagok hozzáadásával állítottak elő.
+14. szörp: a Magyar Élelmiszerkönyv szerinti gyümölcsszörp, valamint a Magyar Élelmiszerkönyv szerinti víz- és kivonat alapú szörp, valamint a 2106 VTSZ szám alá tartozó, ital előállítására használatos, a megnevezésére jellemző ízű és illatú készítmény, amelyet cukorból, cukorszirupból vagy édesítőszerből, ízesítőanyagok, adalékanyagok vagy ezek kombinációjának hozzáadásával állítottak elő;
 
 15. adalékanyag: az élelmiszer-adalékanyagokról szóló, 2008. december 16-ai 1333/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1333/2008/EK rendelet) szerinti élelmiszer-adalékanyag és az élelmiszerekben és azok felületén használható aromákról és egyes, aroma tulajdonságokkal rendelkező élelmiszer-összetevőkről, valamint az 1601/91/EGK tanácsi rendelet, a 2232/96/EK és a 110/2008/EK rendelet, valamint a 2000/13/EK irányelv módosításáról szóló, 2008. december 16-ai 1334/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1334/2008/EK rendelet) szerinti aroma és aroma tulajdonságokkal rendelkező élelmiszer-összetevő, ide nem értve a 1333/2008/EK rendelet II. melléklet B. részének 1. Színezékek felsorolásában meghatározott színezőanyagként használt karamellt;
 
@@ -56,7 +56,7 @@ Előrecsomagolt terméknek minősül az az a)–c) pontokban foglalt feltételek
 
 18.
 
-19. egészségmegőrző program: az egészségügyi államigazgatási szerv egészséges étkezésre, életmódra, a sportolás elősegítésére, ösztönzésére irányuló minden olyan tevékenysége, akciója, programja, amely bármely magánszemély által ingyenesen vagy legfeljebb 500 forint ellenében érhető el;
+19. élmény- és szabadidősport, valamint egészségmegőrző program: az aktív Magyarországért felelős miniszter munkaszervezete tulajdonosi joggyakorlása alatt álló gazdasági társaság (a továbbiakban: Társaság) egészséges étkezésre, aktív életmódra, a sportolás elősegítésére, ösztönzésére irányuló minden tevékenysége, akciója, szemléletformáló kampánya vagy programja, továbbá a Társaság ezeket szolgáló beruházása;
 
 20. tejalapanyag: a termékben található tej, tejtermék (különösen joghurt, kefir, vaj, túró, tejszín, tejpor, sajt, író);
 
