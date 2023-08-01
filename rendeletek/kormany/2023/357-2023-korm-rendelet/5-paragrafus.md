@@ -1,0 +1,1 @@
+5. § Hatályát veszti az Egyetemes Postaegyesület Általános Szabályzatának 2004. évi bukaresti kongresszuson aláírt módosításokkal egységes szerkezetbe foglalt, és az Egyetemes Postaegyesület Általános Szabályzata 2008. évi genfi kongresszuson aláírt Első Pótjegyzőkönyvének kihirdetéséről szóló 157/2012. (VII. 17.) Korm. rendelet.
