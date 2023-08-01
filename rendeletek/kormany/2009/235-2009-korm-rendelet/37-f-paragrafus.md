@@ -36,6 +36,8 @@ kérelmezi.
 
 (7) Az ETT TUKEB szükség esetén felvilágosítást, illetve információt kérhet a vizsgálóhelyként megjelölt egészségügyi szolgáltató illetékes IKEB-étől, hogy az nyilatkozzon a vizsgálóhelyként megjelölt egészségügyi szolgáltatóra vonatkozóan a tárgyi feltételek, szükség esetén a személyi feltételek teljesüléséről.
 
-(8) Az ETT TUKEB szükség esetén megkeresheti az OGYÉI-t, hogy a kérelemmel összefüggésben információt kérjen.
+(8)[^113] Az ETT TUKEB szükség esetén megkeresheti az NNGYK-t, hogy a kérelemmel összefüggésben információt kérjen.
 
 (9) A kérelmező az eljárás során kérelmével összefüggésben írásban nyilatkozatot, észrevételt tehet, kérelmét kiegészítheti.
+
+[^113]: A 37/F. § (8) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 18. § g) pontja szerint módosított szöveg.
