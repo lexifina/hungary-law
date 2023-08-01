@@ -1,0 +1,3 @@
+## 37. A lakosság természetes és mesterséges eredetű sugárterhelését meghatározó környezeti sugárzási helyzet ellenőrzési rendjéről és a kötelezően mérendő mennyiségek köréről szóló 489/2015. (XII. 30.) Korm. rendelet módosítása
+
+45. § A lakosság természetes és mesterséges eredetű sugárterhelését meghatározó környezeti sugárzási helyzet ellenőrzési rendjéről és a kötelezően mérendő mennyiségek köréről szóló 489/2015. (XII. 30.) Korm. rendelet 1. melléklet 15. pontjában és 3. melléklet 1. pont 1.1. alpontjában foglalt táblázat B:2 mezőjében a „Nemzeti Népegészségügyi Központ” szövegrész helyébe a „Nemzeti Népegészségügyi és Gyógyszerészeti Központ” szöveg lép.

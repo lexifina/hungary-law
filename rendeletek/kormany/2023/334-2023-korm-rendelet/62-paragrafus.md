@@ -1,0 +1,1 @@
+62. § Hatályát veszti a gyógyszerek társadalombiztosítási támogatásba történő befogadásának, a befogadás és a támogatás mértéke megállapításának, valamint a támogatás megváltoztatásának részletes szabályairól szóló 452/2017. (XII. 27.) Korm. rendelet 5. § (2) bekezdése.

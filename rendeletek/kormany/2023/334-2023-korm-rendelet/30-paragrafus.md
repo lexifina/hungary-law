@@ -1,0 +1,1 @@
+30. § Hatályát veszti a dohánytermékek előállításáról, forgalomba hozataláról és ellenőrzéséről, a kombinált figyelmeztetésekről, valamint az egészségvédelmi bírság alkalmazásának részletes szabályairól szóló 39/2013. (II. 14.) Korm. rendelet 19/D. § (3) bekezdése és 21/A. § (8) bekezdése.

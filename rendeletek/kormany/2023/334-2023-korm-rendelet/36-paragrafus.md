@@ -1,0 +1,3 @@
+## 29. Egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 256/2013. (VII. 5.) Korm. rendelet módosítása
+
+36. § Egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 256/2013. (VII. 5.) Korm. rendelet 2. mellékletében foglalt táblázat A:148 mezőjében a „Nemzeti Népegészségügyi Központ” szövegrész helyébe a „Nemzeti Népegészségügyi és Gyógyszerészeti Központ” szöveg lép.
