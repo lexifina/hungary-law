@@ -1,0 +1,1 @@
+1. § A háborús élelmiszerár-infláció csökkentése érdekében szükséges intézkedésekről szóló 162/2023. (V. 5.) Korm. rendelet végrehajtásáról szóló 12/2023. (V. 19.) MK rendelet 1. melléklete helyébe az 1. melléklet lép.
