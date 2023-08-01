@@ -1,3 +1,3 @@
-9. §[^9]
+9. §[^11]
 
-[^9]: A 9. §-t a 375/2020. (VII. 30.) Korm. rendelet 78. § b) pontja hatályon kívül helyezte.
+[^11]: A 9. §-t a 375/2020. (VII. 30.) Korm. rendelet 78. § b) pontja hatályon kívül helyezte.

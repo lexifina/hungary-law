@@ -8,7 +8,7 @@ aa) amely legalább 1500 aktív ággyal rendelkezik, vagy amely területi ellát
 
 ab) amely kiesése esetén a legközelebbi kórház közúton 90 percen belül nem közelíthető meg az ellátottak által;
 
-b)[^10] azon mentésirányítási központ, ahonnan legalább három vármegyére, illetve a Fővárosra kiterjedően irányítják az Eütv. 94. § (1), (2), (4) és (5) bekezdése szerinti mentési tevékenységet;
+b)[^12] azon mentésirányítási központ, ahonnan legalább három vármegyére, illetve a Fővárosra kiterjedően irányítják az Eütv. 94. § (1), (2), (4) és (5) bekezdése szerinti mentési tevékenységet;
 
 c) az ÁEüT esetében a határon átnyúló egészségügyi veszélyek kezelésére szolgáló készletelem;
 
@@ -18,7 +18,7 @@ e) a vérkészletek tekintetében a tároláshoz, illetve a véradáshoz szüks�
 
 f) azon laboratóriumok, amelyekben rendszeresen tárolnak, feldolgoznak vagy vizsgálnak magas biztonsági szintű mikrobiológiai vagy egyéb biológiai anyagot, valamint toxint, vagy ehhez a tevékenységhez műszaki-technológiai támogatást nyújtanak;
 
-g)[^11]
+g)[^13]
 
 (2) Európai létfontosságú rendszerelemként történő kijelölésre javasolható azon gyógyszer-nagykereskedelmi tevékenységet végző gazdálkodó szervezet, amely
 
@@ -32,5 +32,5 @@ b) országos lefedettséget biztosító logisztikával rendelkezik és
 
 c) forgalmazási területén a felhasználók igényének megfelelő teljes gyógyszerkört forgalmazza.
 
-[^10]: A 11. § (1) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 219. § a) pontja szerint módosított szöveg.
-[^11]: A 11. § (1) bekezdés g) pontját a 375/2020. (VII. 30.) Korm. rendelet 78. § c) pontja hatályon kívül helyezte.
+[^12]: A 11. § (1) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 219. § a) pontja szerint módosított szöveg.
+[^13]: A 11. § (1) bekezdés g) pontját a 375/2020. (VII. 30.) Korm. rendelet 78. § c) pontja hatályon kívül helyezte.

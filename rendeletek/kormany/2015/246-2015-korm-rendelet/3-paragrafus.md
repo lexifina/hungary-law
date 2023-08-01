@@ -4,7 +4,7 @@
 
 (2) A minisztert az (1) bekezdés szerinti feladatainak ellátásában egy döntés-előkészítő bizottság (a továbbiakban: Bizottság) segíti.
 
-(3)[^5] A Bizottság az elnökből és – az (5) és a (6) bekezdés szerinti – 9 tagból áll, azzal, hogy a Bizottság tagja csak olyan személy lehet, aki már elvégezte vagy vállalja, hogy a kijelölést, illetve a felkérés elfogadását követő egy éven belül elvégzi a biztonsági összekötői tanfolyamot.
+(3)[^7] A Bizottság az elnökből és – az (5) és a (6) bekezdés szerinti – 9 tagból áll, azzal, hogy a Bizottság tagja csak olyan személy lehet, aki már elvégezte vagy vállalja, hogy a kijelölést, illetve a felkérés elfogadását követő egy éven belül elvégzi a biztonsági összekötői tanfolyamot.
 
 (4) A Bizottság elnökét a miniszter kéri fel.
 
@@ -20,7 +20,7 @@ d) a vérkészleteket kezelő szervezet,
 
 e) a magas biztonsági szintű biológiai laboratóriumok,
 
-f)[^6]
+f)[^8]
 
 g) a gyógyszer-nagykereskedelem
 
@@ -32,12 +32,12 @@ irányításáért, felügyeletéért felelős államtitkár delegálja.
 
 (8) A Bizottság elnökének és tagjainak megbízatása három évre szól.
 
-(9)[^7] A Bizottság akkor határozatképes, ha az elnök – vagy akadályoztatása esetén a helyettesítésére jogosult tag – és további legalább 6 tag jelen van. A Bizottság döntéseit szavazattöbbséggel hozza, szavazategyenlőség esetén az elnök szavazata dönt.
+(9)[^9] A Bizottság akkor határozatképes, ha az elnök – vagy akadályoztatása esetén a helyettesítésére jogosult tag – és további legalább 6 tag jelen van. A Bizottság döntéseit szavazattöbbséggel hozza, szavazategyenlőség esetén az elnök szavazata dönt.
 
 (10) A Bizottság a működési rendjét ügyrendjében határozza meg. A Bizottság a tényállás tisztázása érdekében, javaslata kialakításához adatokat kérhet be a javaslattevő hatóságtól és a kijelölésre javasolt létfontosságú rendszerelem üzemeltetőjétől.
 
 (11) A Bizottság elnöke és tagjai a feladataik ellátása során és azzal összefüggésben nem utasíthatóak.
 
-[^5]: A 3. § (3) bekezdése a 368/2016. (XI. 29.) Korm. rendelet 13. §-a, a 375/2020. (VII. 30.) Korm. rendelet 77. § a) pontja szerint módosított szöveg.
-[^6]: A 3. § (5) bekezdés f) pontját a 375/2020. (VII. 30.) Korm. rendelet 78. § a) pontja hatályon kívül helyezte.
-[^7]: A 3. § (9) bekezdése a 375/2020. (VII. 30.) Korm. rendelet 77. § b) pontja szerint módosított szöveg.
+[^7]: A 3. § (3) bekezdése a 368/2016. (XI. 29.) Korm. rendelet 13. §-a, a 375/2020. (VII. 30.) Korm. rendelet 77. § a) pontja szerint módosított szöveg.
+[^8]: A 3. § (5) bekezdés f) pontját a 375/2020. (VII. 30.) Korm. rendelet 78. § a) pontja hatályon kívül helyezte.
+[^9]: A 3. § (9) bekezdése a 375/2020. (VII. 30.) Korm. rendelet 77. § b) pontja szerint módosított szöveg.
