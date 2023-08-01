@@ -8,6 +8,6 @@ b) a jövedéki termék megsemmisítéséről az 52. § szerint felvett jegyzők
 
 c) a jövedéki termék előállításához történő felhasználás esetén a felhasználást igazoló számviteli bizonylat;
 
-d)[^93] a zárjeggyel ellátott jövedéki termék esetén a zárjegy állami adó- és vámhatóság képviselőinek jelenlétében elvégzett megsemmisítéséről, illetve érvénytelenítéséről a 93/L. § rendelkezéseinek alkalmazásával felvett jegyzőkönyv.
+d)[^94] a zárjeggyel ellátott jövedéki termék esetén a zárjegy állami adó- és vámhatóság képviselőinek jelenlétében elvégzett megsemmisítéséről, illetve érvénytelenítéséről a 93/L. § rendelkezéseinek alkalmazásával felvett jegyzőkönyv.
 
-[^93]: A 65. § d) pontját az 5/2017. (III. 30.) NGM rendelet 19. §-a iktatta be
+[^94]: A 65. § d) pontját az 5/2017. (III. 30.) NGM rendelet 19. §-a iktatta be

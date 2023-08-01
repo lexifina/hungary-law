@@ -17,13 +17,3 @@ A hivatalos zár előállításáról vezetett nyilvántartás adattartalma (zá
 2.3. gyártás időpontja
 
 3. Kiadott hivatalos zár (felhasználónként)
-
-3.1. mennyisége (darab)
-
-3.2. sorszámtartománya (-tól-ig)
-
-3.3. kiadás időpontja
-
-3.4. szállítási okmány száma
-
-3.5. felhasználó

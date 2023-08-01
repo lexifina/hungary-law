@@ -1,6 +1,6 @@
 ## 42. Magánfőzés
 
-97. § (1)[^133] A magánfőző a párlat előállítását az állami adó- és vámhatóság által rendszeresített nyomtatványon jelenti be.
+97. § (1)[^134] A magánfőző a párlat előállítását az állami adó- és vámhatóság által rendszeresített nyomtatványon jelenti be.
 
 (2) A Jöt. 143. § (8) bekezdése szerinti esetben a javasolt megsemmisítési időpontot legalább 3 munkanappal előre kell bejelenteni, megadva
 
@@ -24,4 +24,4 @@ cc) időpontját naptári nap, óra, perc pontossággal.
 
 (3) A Jöt. 143. § (8) bekezdése szerinti esetben a bejelentő által javasolt megsemmisítés csak az állami adó- és vámhatóság – tervezett megsemmisítési időpontig történt – kifejezett hozzájárulása esetén kezdhető meg. A megsemmisítés az állami adó- és vámhatóság részvételének hiányában az állami adó- és vámhatóság erre vonatkozó kifejezett hozzájárulása esetén végezhető el.
 
-[^133]: A 97. § (1) bekezdése a 23/2020. (XII. 30.) PM rendelet 3. §-ával megállapított szöveg.
+[^134]: A 97. § (1) bekezdése a 23/2020. (XII. 30.) PM rendelet 3. §-ával megállapított szöveg.

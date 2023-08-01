@@ -2,6 +2,6 @@
 
 ## 47. Hatályon kívül helyező rendelkezések
 
-109. §[^147]
+109. §[^148]
 
-[^147]: A 109. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^148]: A 109. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
