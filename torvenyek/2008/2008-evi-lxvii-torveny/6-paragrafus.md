@@ -62,7 +62,19 @@ m) a korábbi adóévek negatív adóalapjából – a (18) és (19) bekezdésbe
 
 (10) A (9) bekezdés szerinti összeget a jövedelem jogcíme szerint és forrásállamonként külön-külön kell meghatározni. Az egyes jövedelmek alapján levont jövedelemadó nem haladhatja meg az adott jövedelemre jutó jövedelemadót, de legfeljebb a külföldön fizetett (fizetendő), illetve a nemzetközi szerződés alapján külföldön érvényesíthető adó közül a kisebb összeget.
 
-(11) A több engedéllyel rendelkező, illetve engedélyes tevékenységen kívüli tevékenységet végző adóalanynál az adóalap az (1)–(9) bekezdés alapján meghatározott összegnek az arányos része, az arányt a jövedelemadó-köteles tevékenységek beszámolóban kimutatott vagy a könyvviteli zárlat alapján megállapított árbevételének az adóalany összes árbevételének százalékában (két tizedesjegyre) számítva kell meghatározni.
+(11) A több engedéllyel rendelkező, illetve a jövedelemadó-köteles tevékenységen kívüli tevékenységet végző adóalanynál az adóalap az e § alapján meghatározott összegnek az arányos része figyelemmel a (11a)–(11b) bekezdésben foglaltakra. Az arányt a jövedelemadó-köteles tevékenységek beszámolóban kimutatott vagy a könyvviteli zárlat alapján megállapított árbevételének az adóalany összes árbevételének százalékában (két tizedesjegyre) számítva kell meghatározni.
+
+(11a) Az a kőolajterméket értékesítő kereskedő, amely általa külföldről beszerzett kőolajterméket értékesít Magyarországon, a vásárolt kőolajtermék értékesítésének árbevételét a (11) bekezdés alkalmazásában olyan arányban osztja meg a belföldről és a külföldről beszerzett kőolajtermék értékesítéséből származó árbevételre, amilyen arányt az összes, áruként beszerzett kőolajtermék beszerzési értékén belül a belföldről és a külföldről áruként beszerzett, és Magyarországon értékesített kőolajtermék értéke képvisel.
+
+(11b) Az adóalany a (11a) bekezdés szerinti arányos megosztásról külön nyilvántartást vezet, amelyben feltünteti
+
+a) a (11a) bekezdés szerinti arányszámot,
+
+b) az áruként beszerzett összes kőolajtermék beszerzési értékét,
+
+c) a belföldről áruként beszerzett kőolajtermékek beszerzési értékét és
+
+d) a külföldről áruként beszerzett kőolajtermékek beszerzési értékét.
 
 (12) Abban az esetben, ha a részesedés nyilvántartásból történő kivezetése újabb kedvezményezett átalakulás vagy kedvezményezett részesedéscsere következtében történő részesedésszerzés miatt következik be, az adózónak nem kell a (2) bekezdés d) és e) pontjában foglaltakat alkalmaznia. Az utóbbi részesedés szerzésére tekintettel adózás előtti eredmény csökkentésként számításba vett összegként kell azonban figyelembe vennie a korábbi kedvezményezett átalakulás vagy kedvezményezett részesedéscsere alapján érvényesített adózás előtti eredménycsökkentésből azt a részt, amelyet növelésként még nem vett számításba.
 

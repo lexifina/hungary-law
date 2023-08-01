@@ -6,7 +6,7 @@
 
 1.1. a szénhidrogén-kitermelési tevékenységet végző, a bányászatról szóló törvény szerinti bányavállalkozó,
 
-1.2. a kőolajtermék-előállító, a jövedéki engedélyes kőolajtermék nagykereskedő,
+1.2. a kőolajtermék-előállító, a kőolajtermékkel a kereskedelemről szóló törvény szerinti nagykereskedelmi tevékenységet végző kereskedő és az a kőolajterméket értékesítő kereskedő, amely az általa külföldről beszerzett kőolajterméket Magyarországon értékesíti,
 
 1.3. a földgázellátásról szóló törvény szerinti földgáz-kereskedelmi engedélyes,
 
