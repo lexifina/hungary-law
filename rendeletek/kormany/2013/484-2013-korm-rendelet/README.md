@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-484-20-
 | 2021-12-21 | 2013-484-20-22.6 | 696/2021. (XII. 13.) Korm. rendelet |
 | 2022-01-01 | 2013-484-20-22.7 | 805/2021. (XII. 28.) Korm. rendelet |
 | 2022-07-01 | 2013-484-20-22.8 | 239/2022. (VI. 30.) Korm. rendelet |
+| 2023-08-01 | 2013-484-20-22.9 | 314/2023. (VII. 17.) Korm. rendelet |
