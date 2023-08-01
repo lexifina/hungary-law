@@ -304,7 +304,7 @@
 
 ## 1.121.[^136] esélyegyenlőségi szakértői bizonyítvány;
 
-## 1.122.[^137] a Nemzeti Népegészségügyi Központban, dolgozó hatósági személy igazolványa;
+## 1.122.[^137] a Nemzeti Népegészségügyi és Gyógyszerészeti Központban, dolgozó hatósági személy igazolványa;
 
 ## 1.123.[^138] a Magyar Honvédség központi adatfeldolgozó szerve által a külföldi fegyveres erők és nemzetközi katonai parancsnokságok részére kiállított igazolás és állományuk tagja részére kiállított igazolvány jogállásukról, kiváltságaik és mentességeik igénybevételére;
 
@@ -348,7 +348,7 @@
 
 ## 2.13.[^156] belépési engedély a Nemzetgazdasági Minisztérium épületébe;
 
-## 2.14.[^157]
+## 2.14.[^157]belépési engedély az Európai Uniós Ügyek Minisztériuma épületébe;
 
 ## 2.15.[^158] belépési engedély a Nemzeti Adó- és Vámhivatal vámszerveinek és nyomozóhatósági szerveinek objektumaiba;
 
@@ -536,7 +536,7 @@ III. Az okmányvédelmi kategóriák és az okmányinformatikai védelmi kategó
 [^134]: Az 1. számú melléklet III. rész 1. pont 1.119. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
 [^135]: Az 1. számú melléklet III. rész 1. pont 1.120. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be, szövege a 70/2021. (II. 19.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^136]: Az 1. számú melléklet III. rész 1. pont 1.121. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
-[^137]: Az 1. számú melléklet III. rész 1. pont 1.122. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 18. § (3) bekezdés e) pontja, a 162/2018. (IX. 10.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^137]: Az 1. számú melléklet III. rész 1. pont 1.122. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 18. § (3) bekezdés e) pontja, a 162/2018. (IX. 10.) Korm. rendelet 1. §-a, a 334/2023. (VII. 20.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^138]: Az 1. számú melléklet III. rész 1. pont 1.123. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
 [^139]: Az 1. számú melléklet III. rész 1. pont 1.124. alpontját a 359/2012. (XII. 13.) Korm. rendelet 1. §-a iktatta be.
 [^140]: Az 1. számú melléklet III. rész 1. pont 1.125. alpontját a 131/2013. (V. 2.) Korm. rendelet 7. § (2) bekezdése iktatta be.
@@ -556,7 +556,7 @@ III. Az okmányvédelmi kategóriák és az okmányinformatikai védelmi kategó
 [^154]: Az 1. számú melléklet III. rész 2. pont 2.11. alpontját a 145/2011. (VII. 27.) Korm. rendelet 13. § (2) bekezdése hatályon kívül helyezte, újonnan a 221/2014. (IX. 4.) Korm. rendelet 166. §-a iktatta be.
 [^155]: Az 1. számú melléklet III. rész 2. pont 2.12. alpontját a 145/2011. (VII. 27.) Korm. rendelet 13. § (2) bekezdése hatályon kívül helyezte, újonnan a 221/2014. (IX. 4.) Korm. rendelet 166. §-a iktatta be.
 [^156]: Az 1. számú melléklet III. rész 2. pont 2.13. alpontját a 145/2011. (VII. 27.) Korm. rendelet 13. § (2) bekezdése hatályon kívül helyezte, újonnan a 221/2014. (IX. 4.) Korm. rendelet 166. §-a iktatta be.
-[^157]: Az 1. számú melléklet III. rész 2. pont 2.14. alpontját a 221/2014. (IX. 4.) Korm. rendelet 166. §-a hatályon kívül helyezte.
+[^157]: Az 1. számú melléklet III. rész 2. pont 2.14. alpontját a 221/2014. (IX. 4.) Korm. rendelet 166. §-a hatályon kívül helyezte, újonnan a 314/2023. (VII. 17.) Korm. rendelet 1. §-a iktatta be.
 [^158]: Az 1. számú melléklet III. pont 2.15. alpontja a 273/2010. (XII. 9.) Korm. rendelet 80. §-ával megállapított szöveg.
 [^159]: Az 1. számú melléklet III. rész 2. pont 2.18. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
 [^160]: Az 1. számú melléklet III. rész 2. pont 2.19. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
