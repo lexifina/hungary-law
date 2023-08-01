@@ -14,9 +14,9 @@ ad) az örökbefogadás engedélyezését követően mely szervezettel kíván e
 
 ae) az örökbefogadás nem jár haszonszerzéssel,
 
-af)[^304] kéri-e az örökbefogadás Gyvt. 128/A. §-a szerinti nyilatkozaton alapuló tény szerinti anyakönyvezését (a továbbiakban: tény szerinti örökbefogadás),
+af)[^304] kéri-e az örökbefogadás Gyvt. 128/A. §-a szerinti anyakönyvezését,
 
-b) az örökbe fogadni szándékozó személy nyilatkozatát az örökbe fogadott gyermek – örökbefogadást követő – nevéről és származási helyéről,
+b)[^305] az örökbe fogadni szándékozó személy nyilatkozatát az örökbe fogadott gyermek – örökbefogadást követő – családi és utónevéről, származási helyéről, titkos örökbefogadás esetén a lakóhelyéről,
 
 c) egyedülálló apa által történő örökbefogadás esetén a képzelt anya adatait, egyedülálló anya által történő örökbefogadás esetén – kérelmére – a képzelt apa adatait,
 
@@ -43,4 +43,5 @@ c) titkos örökbefogadás esetén arról, hogy hatodik életévét betöltött 
 (5) A (4) bekezdés szerinti tájékoztatást, figyelmeztetést, valamint annak tudomásulvételét a gyámhivatal jegyzőkönyvben rögzíti. Titkos örökbefogadás esetén a jegyzőkönyvet soron kívül meg kell küldeni az örökbefogadás engedélyezéséről határozó kijelölt gyámhivatalnak.
 
 [^303]: A 43. § a 70/2014. (III. 13.) Korm. rendelet 27. §-ával megállapított szöveg.
-[^304]: A 43. § (1) bekezdés a) pont af) alpontját a 70/2014. (III. 13.) Korm. rendelet 28. §-a iktatta be.
+[^304]: A 43. § (1) bekezdés a) pont af) alpontját a 70/2014. (III. 13.) Korm. rendelet 28. §-a iktatta be, szövege a 304/2023. (VII. 11.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^305]: A 43. § (1) bekezdés b) pontja a 304/2023. (VII. 11.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.

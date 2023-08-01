@@ -5,5 +5,3 @@
 a) az előzetes jognyilatkozatot be kell jegyezni az előzetes jognyilatkozatok nyilvántartásába, a bejegyzés elmaradása azonban az előzetes jognyilatkozat érvényességét nem érinti,
 
 b) az előzetes jognyilatkozat nyilvántartásba való bejegyzése illetékköteles, amelynek költségét az előzetes jognyilatkozatot tenni kívánó személynek kell viselnie,
-
-c) a nyilvántartásba bejegyzés iránti kérelmet az előzetes jognyilatkozatról felvett jegyzőkönyvvel együtt a gyámhivatal küldi meg a bíróságnak, és
