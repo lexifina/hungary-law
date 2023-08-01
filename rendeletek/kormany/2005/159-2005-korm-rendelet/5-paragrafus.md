@@ -2,7 +2,7 @@
 
 (2)[^10] A 273/2004/EK európai parlamenti és tanácsi rendelet 8. cikk (2) bekezdésében, a 111/2005/EK tanácsi rendelet 9. cikk (2) bekezdésében, valamint a 2015/1011/EK bizottsági felhatalmazáson alapuló rendelet 9. cikkében és a 2015/1013/EK európai bizottsági végrehajtási rendelet 10. cikkében meghatározott információszolgáltatási kötelezettséget – a (3) bekezdésben meghatározott kivétellel – a Budapest Főváros Kormányhivatala felé kell teljesíteni.
 
-(3)[^11] Az információszolgáltatásra kötelezett gyógyszertár az előírt adatokat az OGYÉI-nek küldi meg, nyilvántartásba vétel céljából.
+(3)[^11] Az információszolgáltatásra kötelezett gyógyszertár az előírt adatokat az NNGYK-nak küldi meg, nyilvántartásba vétel céljából.
 
 (4)[^12] Annak a 273/2004/EK európai parlamenti és tanácsi rendelet 2. cikk d) pontjában, illetve a 111/2005/EK tanácsi rendelet 2. cikk f) pontjában meghatározott gazdasági szereplőnek, aki a tevékenység folytatása során
 
@@ -21,6 +21,6 @@ b) más jogkövetkezményekkel együtt is alkalmazhatja.
 [^8]: Az 5. § a 88/2008. (IV. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^9]: Az 5. § (1) bekezdés harmadik mondatát a 182/2009. (IX. 10.) Korm. rendelet 418. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^10]: Az 5. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 66. § (4) bekezdés c)–d) pontja szerint módosított szöveg.
-[^11]: Az 5. § (3) bekezdése a 30/2015. (II. 25.) Korm. rendelet 17. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 66. § (4) bekezdés e) pontja szerint módosított szöveg.
+[^11]: Az 5. § (3) bekezdése a 30/2015. (II. 25.) Korm. rendelet 17. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 66. § (4) bekezdés e) pontja, a 334/2023. (VII. 20.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
 [^12]: Az 5. § (4) bekezdését a 29/2014. (II. 11.) Korm. rendelet 1. §-a iktatta be, záró szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 66. § (4) bekezdés c) pontja szerint módosított szöveg.
 [^13]: Az 5. § (5) bekezdését a 29/2014. (II. 11.) Korm. rendelet 1. §-a iktatta be, nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 66. § (4) bekezdés c) pontja szerint módosított szöveg.
