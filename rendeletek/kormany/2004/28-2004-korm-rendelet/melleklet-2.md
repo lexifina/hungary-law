@@ -38,7 +38,7 @@ h)[^11] Földművelésügyi Minisztérium;
 
 i) Büntetés-végrehajtás Országos Parancsnoksága;
 
-j)[^12] Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet;
+j)[^12]
 
 k)[^13] Budapest Főváros Kormányhivatala;
 
@@ -63,7 +63,7 @@ s)[^17] Miniszterelnökség.
 [^9]: A 2. számú melléklet d) pontja a 221/2014. (IX. 4.) Korm. rendelet 260. § e) pontjával megállapított szöveg.
 [^10]: A 2. számú melléklet e) pontját a 379/2016. (XII. 2.) Korm. rendelet 61. § (4) bekezdés d) pontja hatályon kívül helyezte.
 [^11]: A 2. számú melléklet h) pontja a 221/2014. (IX. 4.) Korm. rendelet 260. § g) pontjával megállapított szöveg.
-[^12]: A 2. számú melléklet j) pontja a 379/2016. (XII. 2.) Korm. rendelet 61. § (3) bekezdés a) pontjával megállapított szöveg.
+[^12]: A 2. számú melléklet j) pontját a 334/2023. (VII. 20.) Korm. rendelet 9. §-a hatályon kívül helyzte.
 [^13]: A 2. számú melléklet k) pontja a 379/2016. (XII. 2.) Korm. rendelet 61. § (3) bekezdés b) pontjával megállapított szöveg.
 [^14]: A 2. számú melléklet n) pontja a 379/2016. (XII. 2.) Korm. rendelet 61. § (3) bekezdés c) pontjával megállapított szöveg.
 [^15]: A 2. számú melléklet p) pontja a 379/2016. (XII. 2.) Korm. rendelet 61. § (3) bekezdés d) pontjával megállapított szöveg.
