@@ -1,0 +1,3 @@
+5. §[^38] A Kormány az elektronikus fizetési és elszámolási rendszer szolgáltatójaként a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.-t, az alkalmazáshoz kapcsolódó minőségbiztosítási feladatok tekintetében a KOPINT-DATORG Informatikai és Vagyonkezelő Kft.-t jelöli ki.
+
+[^38]: Az 5. § az 572/2020. (XII. 9.) Korm. rendelet 50. §-ával megállapított, a 338/2023. (VII. 25.) Korm. rendelet 4. § (4) bekezdés h) pontja szerint módosított szöveg.
