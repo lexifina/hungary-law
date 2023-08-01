@@ -1,3 +1,5 @@
 ## 5. § Ez a rendelet 2017. január 1-jén lép hatályba.
 
-6. § A 4. § a) pont ab) alpontjában foglaltakra tekintettel az OGYÉI legkésőbb 2017. június 30-áig hivatalból módosítja az e rendelet hatálybalépése napján hatályos működési engedélyeket.
+6. §[^7]
+
+[^7]: A 6. §-t a 334/2023. (VII. 20.) Korm. rendelet 53. §-a hatályon kívül helyezte.
