@@ -20,7 +20,7 @@ i) a 89/666/EGK tanácsi irányelvnek, valamint a 2005/56/EK és a 2009/101/EK e
 
 j) a biztosítékok egyenértékűvé tétele céljából a részvénytársaságok alapításának, valamint tőkéjük fenntartásának és módosításának tekintetében a tagállamok által a társasági tagok és harmadik személyek érdekei védelmében az Európai Unió működéséről szóló szerződés 54. cikkének második bekezdése szerinti társaságoknak előírt biztosítékok összehangolásáról (átdolgozás) szóló, 2012. október 25-i 2012/30/EU európai parlamenti és tanácsi irányelv.
 
-k) az (EU) 2017/1132 irányelvnek a digitális eszközök és folyamatok társasági jog terén történő használata tekintetében történő módosításáról szóló, 2019. június 20-i (EU) 2019/1151 európai parlamenti és tanácsi irányelv, kivéve az (EU) 2019/1151 irányelv 1. cikkének az (EU) 2017/1132 irányelv 13i. cikkét, 13j. cikk (2) bekezdését, és 16. cikk (6) bekezdését megállapító rendelkezéseit.
+k) az (EU) 2017/1132 irányelvnek a digitális eszközök és folyamatok társasági jog terén történő használata tekintetében történő módosításáról szóló, 2019. június 20-i (EU) 2019/1151 európai parlamenti és tanácsi irányelv.
 
 (1a) E törvény – végrehajtási rendeleteivel és a Ptk.-val együtt – az (EU) 2017/1132 irányelv határokon átnyúló átalakulások, egyesülések és szétválások tekintetében történő módosításáról szóló, 2019. november 27-i 2019/2121 (EU) európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 

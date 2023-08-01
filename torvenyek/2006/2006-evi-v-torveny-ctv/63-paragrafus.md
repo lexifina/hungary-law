@@ -15,11 +15,3 @@
 (3) Európai gazdasági egyesülés esetében a (2) bekezdésben foglaltakon túlmenően a cég írásbeli képviselete, illetve hivatalos levelezése során azt is fel kell tüntetni, ha a vezető tisztségviselők képviseleti joga együttes.
 
 (4) Külföldi vállalkozás magyarországi fióktelepének, valamint külföldiek magyarországi közvetlen kereskedelmi képviseletének, illetve az európai gazdasági egyesülés telephelyének írásbeli képviselete, illetve hivatalos levelezése során a külföldi vállalkozásra vonatkozó adatokat kell feltüntetni a (2)–(3) bekezdésnek megfelelően. Emellett szerepeltetni kell a fióktelep, valamint a kereskedelmi képviselet, illetve a telephely cégjegyzékét vezető cégbíróság nevét és a cég nevét, székhelyét, valamint cégjegyzékszámát is.
-
-## V. Fejezet
-
-## JOGORVOSLATOK
-
-1. CÍM
-
-A cégbejegyzést (változásbejegyzést) elutasító végzés elleni fellebbezés
