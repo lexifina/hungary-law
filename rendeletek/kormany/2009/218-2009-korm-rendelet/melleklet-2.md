@@ -1,3 +1,3 @@
-2. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^114]
+2. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^116]
 
-[^114]: A 2. mellékletet a 67/2012. (IV. 5.) Korm. rendelet 24. § g) pontja hatályon kívül helyezte.
+[^116]: A 2. mellékletet a 67/2012. (IV. 5.) Korm. rendelet 24. § g) pontja hatályon kívül helyezte.

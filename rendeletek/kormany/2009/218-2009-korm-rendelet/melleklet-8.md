@@ -4,7 +4,7 @@
 
 ## 1. Nagytérségi összefüggések és külső kapcsolatok vizsgálata.
 
-## 2.[^132] Előzmények feltárása (a térséget érintő területi tervek, ágazati koncepciók és programok, valamint a feladat szempontjából jelentős településtervek, a hatályos területrendezési terv hatásainak átfogó értékelése).
+## 2.[^134] Előzmények feltárása (a térséget érintő területi tervek, ágazati koncepciók és programok, valamint a feladat szempontjából jelentős településtervek, a hatályos területrendezési terv hatásainak átfogó értékelése).
 
 ## 3. Természeti, táji és épített környezet vizsgálata
 
@@ -34,7 +34,7 @@
 
 ## 1.1. A térségi területfelhasználás rendje a térségi területfelhasználási kategóriák szerint
 
-## 1.1.1.[^133] Az Országos Területrendezési Tervben, valamint a vármegyei területrendezési tervben megállapított térségi területfelhasználási kategóriák:
+## 1.1.1.[^135] Az Országos Területrendezési Tervben, valamint a vármegyei területrendezési tervben megállapított térségi területfelhasználási kategóriák:
 
 ## a) erdőgazdálkodási térség,
 
@@ -44,11 +44,11 @@
 
 ## d) települési térség.
 
-## 1.1.2.[^134] Érintettség esetén a vármegyei területrendezési tervben megállapított további területfelhasználási kategória: sajátos területfelhasználású térség.
+## 1.1.2.[^136] Érintettség esetén a vármegyei területrendezési tervben megállapított további területfelhasználási kategória: sajátos területfelhasználású térség.
 
 ## 1.2. A műszaki infrastruktúra-hálózatok és egyedi építmények térbeli rendje
 
-## 1.2.1.[^135] Az Országos Területrendezési Tervben, valamint érintettség esetén a kiemelt térségi és vármegyei területrendezési tervben megállapított országos jelentőségű elemek:
+## 1.2.1.[^137] Az Országos Területrendezési Tervben, valamint érintettség esetén a kiemelt térségi és vármegyei területrendezési tervben megállapított országos jelentőségű elemek:
 
 ## 1.2.1.1. gyorsforgalmi út
 
@@ -100,7 +100,7 @@
 
 ## 1.2.1.25. veszélyeshulladék-lerakó
 
-## 1.2.2.[^136] Érintettség esetén a kiemelt térségi és vármegyei területrendezési tervben megállapított térségi jelentőségű elemek:
+## 1.2.2.[^138] Érintettség esetén a kiemelt térségi és vármegyei területrendezési tervben megállapított térségi jelentőségű elemek:
 
 ## 1.2.2.1. főúti településelkerülő szakasz
 
@@ -138,7 +138,7 @@
 
 ## 2. Térségi övezetek
 
-## 2.1.[^137] Az Országos Területrendezési Tervben, valamint érintettség esetén a vármegyei területrendezési tervben megállapított országos övezetek:
+## 2.1.[^139] Az Országos Területrendezési Tervben, valamint érintettség esetén a vármegyei területrendezési tervben megállapított országos övezetek:
 
 ## 2.1.1. Ökológiai Hálózat magterülete
 
@@ -166,7 +166,7 @@
 
 ## 2.1.13. honvédelmi és katonai célú terület
 
-## 2.2.[^138] Érintettség esetén a vármegyei területrendezési tervben megállapított vármegyei övezetek:
+## 2.2.[^140] Érintettség esetén a vármegyei területrendezési tervben megállapított vármegyei övezetek:
 
 ## 2.2.1. ásványi nyersanyagvagyon
 
@@ -176,7 +176,7 @@
 
 ## 2.2.4. földtani veszélyforrás terület
 
-## 2.2.5.[^139] egyedileg meghatározott vármegyei övezet
+## 2.2.5.[^141] egyedileg meghatározott vármegyei övezet
 
 ## 3. Területrendezési szabályzat
 
@@ -184,7 +184,7 @@
 
 ## 1. A területrendezési tervet megalapozó szakági tervjavaslatok és azok műleírásai, különös tekintettel a fejlesztésipotenciál-alapú területfelhasználás-alakítási, a közlekedési és egyéb infrastruktúra-hálózati, a tájrendezési, a természetvédelmi, a környezetvédelmi, a mező- és erdőgazdálkodási és a vízgazdálkodási szakági javaslatokra.
 
-## 2.[^140] Területrendezési intézkedési javaslat, különös tekintettel a terv megvalósítását szolgáló közlekedési és egyéb infrastruktúra-hálózati, tájrendezési, természetvédelmi, környezetvédelmi intézkedésekre, valamint a tervben foglaltak településrendezési tervekbe való beépítését szolgáló koordinációs tevékenységre.
+## 2.[^142] Területrendezési intézkedési javaslat, különös tekintettel a terv megvalósítását szolgáló közlekedési és egyéb infrastruktúra-hálózati, tájrendezési, természetvédelmi, környezetvédelmi intézkedésekre, valamint a tervben foglaltak településrendezési tervekbe való beépítését szolgáló koordinációs tevékenységre.
 
 ## 3. A területrendezési tervek megalapozását szolgáló területi (környezeti, társadalmi és gazdasági) hatásvizsgálat (a 9. vagy 9/A. melléklet szerinti tartalommal).
 
@@ -210,18 +210,18 @@
 
 ## ea) az ország területrendezési terve: M = 1:500 000,
 
-## eb)[^141] régió, kiemelt térség, vármegye vagy vármegye egy térségének területrendezési terve: M = 1:50 000 – 1:100 000.
+## eb)[^143] régió, kiemelt térség, vármegye vagy vármegye egy térségének területrendezési terve: M = 1:50 000 – 1:100 000.
 
-8. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^142]
+8. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^144]
 
-[^132]: A 7. melléklet I. pont 2. alpontja a 420/2021. (VII. 15.) Korm. rendelet 52. § i) pontja szerint módosított szöveg.
-[^133]: A 7. melléklet II. rész A) pont 1.1.1. alpontja a 616/2022. (XII. 29.) Korm. rendelet 104. § d) pontja szerint módosított szöveg.
-[^134]: A 7. melléklet II. rész A) pont 1.1.2. alpontja a 616/2022. (XII. 29.) Korm. rendelet 104. § d) pontja szerint módosított szöveg.
-[^135]: A 7. melléklet II. rész A) pont 1.2.1. alpontja a 616/2022. (XII. 29.) Korm. rendelet 104. § d) pontja szerint módosított szöveg.
-[^136]: A 7. melléklet II. rész A) pont 2.1. alpontja a 616/2022. (XII. 29.) Korm. rendelet 104. § d) pontja szerint módosított szöveg.
-[^137]: A 7. melléklet II. rész A) pont 2.1. alpontja a 616/2022. (XII. 29.) Korm. rendelet 104. § d) pontja szerint módosított szöveg.
-[^138]: A 7. melléklet II. rész A) pont 2.2 alpontja a 616/2022. (XII. 29.) Korm. rendelet 104. § b) pontja szerint módosított szöveg.
-[^139]: A 7. melléklet II. rész A) pont 2.2.5. alpontja a 616/2022. (XII. 29.) Korm. rendelet 104. § d) pontja szerint módosított szöveg.
-[^140]: A 7. melléklet II. pont B) alpont 2. pontja a 420/2021. (VII. 15.) Korm. rendelet 52. § j) pontja szerint módosított szöveg.
-[^141]: A 7. melléklet III. rész e) pont eb) alpontja a 616/2022. (XII. 29.) Korm. rendelet 104. § a) pontja szerint módosított szöveg.
-[^142]: A 8. mellékletet a 121/2019. (V. 27.) Korm. rendelet 19. § f) pontja hatályon kívül helyezte.
+[^134]: A 7. melléklet I. pont 2. alpontja a 420/2021. (VII. 15.) Korm. rendelet 52. § i) pontja szerint módosított szöveg.
+[^135]: A 7. melléklet II. rész A) pont 1.1.1. alpontja a 616/2022. (XII. 29.) Korm. rendelet 104. § d) pontja szerint módosított szöveg.
+[^136]: A 7. melléklet II. rész A) pont 1.1.2. alpontja a 616/2022. (XII. 29.) Korm. rendelet 104. § d) pontja szerint módosított szöveg.
+[^137]: A 7. melléklet II. rész A) pont 1.2.1. alpontja a 616/2022. (XII. 29.) Korm. rendelet 104. § d) pontja szerint módosított szöveg.
+[^138]: A 7. melléklet II. rész A) pont 2.1. alpontja a 616/2022. (XII. 29.) Korm. rendelet 104. § d) pontja szerint módosított szöveg.
+[^139]: A 7. melléklet II. rész A) pont 2.1. alpontja a 616/2022. (XII. 29.) Korm. rendelet 104. § d) pontja szerint módosított szöveg.
+[^140]: A 7. melléklet II. rész A) pont 2.2 alpontja a 616/2022. (XII. 29.) Korm. rendelet 104. § b) pontja szerint módosított szöveg.
+[^141]: A 7. melléklet II. rész A) pont 2.2.5. alpontja a 616/2022. (XII. 29.) Korm. rendelet 104. § d) pontja szerint módosított szöveg.
+[^142]: A 7. melléklet II. pont B) alpont 2. pontja a 420/2021. (VII. 15.) Korm. rendelet 52. § j) pontja szerint módosított szöveg.
+[^143]: A 7. melléklet III. rész e) pont eb) alpontja a 616/2022. (XII. 29.) Korm. rendelet 104. § a) pontja szerint módosított szöveg.
+[^144]: A 8. mellékletet a 121/2019. (V. 27.) Korm. rendelet 19. § f) pontja hatályon kívül helyezte.

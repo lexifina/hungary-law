@@ -36,7 +36,7 @@
 
 | 18. | c) borszőlő termőhelyi kataszteri terület övezete | Nemzeti Földügyi Központ |
 
-16. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^167]
+16. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^169]
 
 A Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvény 1/1. mellékletében felsorolt, a Budapesti Agglomerációhoz tartozó település településrendezési tervének készítése vagy módosítása során előzetes adatszolgáltatásra kötelezett államigazgatási szervek
 
@@ -74,4 +74,4 @@ A Magyarország és egyes kiemelt térségeinek területrendezési tervéről sz
 
 | 16. | c) földtani veszélyforrás területe övezete | bányafelügyelet |
 
-[^167]: A 16. mellékletet a 121/2019. (V. 27.) Korm. rendelet 17. § (5) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 76. § d) pontja, a 30/2020. (II. 28.) Korm. rendelet 13. § e)–f) pontja, a 420/2021. (VII. 15.) Korm. rendelet 52. § d) pontja, a 825/2021. (XXII. 28.) Korm. rendelet 22. § d) pontja, a 616/2022. (XII. 29.) Korm. rendelet 104. § d) pontja szerint módosított szöveg.
+[^169]: A 16. mellékletet a 121/2019. (V. 27.) Korm. rendelet 17. § (5) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 76. § d) pontja, a 30/2020. (II. 28.) Korm. rendelet 13. § e)–f) pontja, a 420/2021. (VII. 15.) Korm. rendelet 52. § d) pontja, a 825/2021. (XXII. 28.) Korm. rendelet 22. § d) pontja, a 616/2022. (XII. 29.) Korm. rendelet 104. § d) pontja szerint módosított szöveg.
