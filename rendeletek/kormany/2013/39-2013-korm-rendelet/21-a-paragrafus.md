@@ -38,9 +38,9 @@ b) az ízesítés hozzáadása vagy adagolása részben sem függhet a fogyaszt�
 
 (7)[^106] A 2016. november 20-a előtt gyártott elektronikus cigaretták, utántöltő flakonok és dohányzást imitáló elektronikus eszközök 2017. május 20-áig hozhatók forgalomba.
 
-(8) A 2016. május 19-én már forgalomban lévő elektronikus cigaretta, utántöltő flakon és dohányzást imitáló elektronikus eszközök esetében a MódR.-rel megállapított 19/A. § szerinti bejelentést 2016. december 20-áig kell megtenni, mely bejelentések esetében az OGYÉI a MódR.-rel megállapított 19/B. § (7) bekezdése szerinti igazolást 2017. május 20-áig adja ki.
+(8)[^107]
 
-(9)[^107] A 2016. május 19-én már forgalomban lévő elektronikus cigaretta, utántöltő flakon és dohányzást imitáló elektronikus eszközök esetében a MódR.-rel megállapított 19/D. § szerinti adatszolgáltatási kötelezettségnek első alkalommal 2017. december 31-éig kell eleget tenni.
+(9)[^108] A 2016. május 19-én már forgalomban lévő elektronikus cigaretta, utántöltő flakon és dohányzást imitáló elektronikus eszközök esetében a MódR.-rel megállapított 19/D. § szerinti adatszolgáltatási kötelezettségnek első alkalommal 2017. december 31-éig kell eleget tenni.
 
 (10) A MódR.-rel megállapított 18. § (1) bekezdése szerinti, a dohánytermékek összetevőire, valamint a kibocsátási szintekre vonatkozó információkat a 2016. augusztus 20-a előtt forgalomba hozott termékek esetén 2016. november 20-áig kell benyújtani.
 
@@ -50,9 +50,9 @@ b) az ízesítés hozzáadása vagy adagolása részben sem függhet a fogyaszt�
 
 (13) A MódR.-rel megállapított 7. § (1) bekezdés c) pontja 2019. május 20-áig azzal az eltéréssel alkalmazandó, hogy
 
-a)[^108] ha a zárjegyek, illetve az adózási célú nemzeti azonosító jelek kartonanyagból készült csomagolási egység felső szélén helyezkednek el, a hátsó felületre nyomtatandó kombinált egészségvédő figyelmeztetés elhelyezhető közvetlenül az adójegy, illetve azonosító jel alatt,
+a)[^109] ha a zárjegyek, illetve az adózási célú nemzeti azonosító jelek kartonanyagból készült csomagolási egység felső szélén helyezkednek el, a hátsó felületre nyomtatandó kombinált egészségvédő figyelmeztetés elhelyezhető közvetlenül az adójegy, illetve azonosító jel alatt,
 
-b)[^109] ha a csomagolási egység puha anyagból készült, a csomag felső széle és a kombinált egészségvédő figyelmeztetés teteje között legfeljebb 13 mm magasságú, téglalap alakú felület maradjon a zárjegyek, illetve az adózási célú nemzeti azonosító jelek számára fenntartva,
+b)[^110] ha a csomagolási egység puha anyagból készült, a csomag felső széle és a kombinált egészségvédő figyelmeztetés teteje között legfeljebb 13 mm magasságú, téglalap alakú felület maradjon a zárjegyek, illetve az adózási célú nemzeti azonosító jelek számára fenntartva,
 
 c) álló tasakban forgalmazott fogyasztási dohány csomagolási egységén
 
@@ -60,19 +60,19 @@ ca) a kombinált egészségvédő figyelmeztetés az álló tasak első és hát
 
 cb) a kombinált egészségvédő figyelmeztetés felső széle a felbontó csík alja, illetve – ha ilyen van – az annak eltávolítását szolgáló perforáció alatt, ahhoz közel helyezkedik el az álló tasakon úgy, hogy a kombinált egészségvédő figyelmeztetés ne sérüljön a tasak felbontásakor, és
 
-cc)[^110] a kombinált egészségvédő figyelmeztetés a tasak első oldalán – a nyomtatási tűréshatárokat figyelembe véve – a csomag teljes szélességében, míg hátsó, adójegyet tartalmazó oldalán balra igazítva, a zárjegy számára a kombinált egészségvédő figyelmeztetés mellett jobbra helyet hagyva helyezkedik el.
+cc)[^111] a kombinált egészségvédő figyelmeztetés a tasak első oldalán – a nyomtatási tűréshatárokat figyelembe véve – a csomag teljes szélességében, míg hátsó, adójegyet tartalmazó oldalán balra igazítva, a zárjegy számára a kombinált egészségvédő figyelmeztetés mellett jobbra helyet hagyva helyezkedik el.
 
 (14) A MódR.-rel megállapított 18/C. § (1) bekezdése szerinti listát a 2016. augusztus 20-át megelőzően forgalomba hozott dohányzási célú gyógynövénytermékek összetevőire vonatkozóan 2016. november 20-áig kell benyújtani.
 
-(15)[^111] A MódR.-rel megállapított 8. § (1) bekezdése, valamint a 6/D. § (3) bekezdése szerinti év alatt első alkalommal a 2016. augusztus 20-ától 2017. december 31-éig tartó időszakot kell érteni, ezt követően év alatt a naptári évet kell érteni.
+(15)[^112] A MódR.-rel megállapított 8. § (1) bekezdése, valamint a 6/D. § (3) bekezdése szerinti év alatt első alkalommal a 2016. augusztus 20-ától 2017. december 31-éig tartó időszakot kell érteni, ezt követően év alatt a naptári évet kell érteni.
 
 (16) A MódR.-rel megállapított 18/A. § (4) bekezdése szerinti jelentést első alkalommal 2018. július 1-jéig kell benyújtani.
 
-(17)[^112]
+(17)[^113]
 
-(18)[^113] A 4/A. § (2) bekezdésében, valamint a 21/A. § (5) bekezdésében foglaltak maradéktalan érvényesülése érdekében 2017. május 20-át követően tilos az olyan szűrő, cigarettahüvely vagy más összetevő forgalmazása, amely kapszulát vagy más olyan megoldást tartalmaz, amellyel a fogyasztó a dohánytermékhez ízesítést adhat hozzá vagy adagolhat, függetlenül attól, hogy ezen összetevőkből és a dohány valamilyen formájából a dohányterméket a fogyasztó végső soron maga állíthatja elő.
+(18)[^114] A 4/A. § (2) bekezdésében, valamint a 21/A. § (5) bekezdésében foglaltak maradéktalan érvényesülése érdekében 2017. május 20-át követően tilos az olyan szűrő, cigarettahüvely vagy más összetevő forgalmazása, amely kapszulát vagy más olyan megoldást tartalmaz, amellyel a fogyasztó a dohánytermékhez ízesítést adhat hozzá vagy adagolhat, függetlenül attól, hogy ezen összetevőkből és a dohány valamilyen formájából a dohányterméket a fogyasztó végső soron maga állíthatja elő.
 
-(19)[^114] Az irányelvet átültető rendelkezésekből eredő változtatások nem kimerítő felsorolását a 10. melléklet tartalmazza.
+(19)[^115] Az irányelvet átültető rendelkezésekből eredő változtatások nem kimerítő felsorolását a 10. melléklet tartalmazza.
 
 [^100]: A 21/A. §-t a 239/2016. (VIII. 16.) Korm. rendelet 17. §-a iktatta be.
 [^101]: A 21/A. § (1) bekezdése a 421/2016. (XII. 14.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
@@ -81,11 +81,12 @@ cc)[^110] a kombinált egészségvédő figyelmeztetés a tasak első oldalán �
 [^104]: A 21/A. § (4a) bekezdését a 244/2018. (XII. 13.) Korm. rendelet 3. §-a iktatta be.
 [^105]: A 21/A. § (5) bekezdése a 421/2016. (XII. 14.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
 [^106]: A 21/A. § (7) bekezdése a 421/2016. (XII. 14.) Korm. rendelet 7. § (3) bekezdésével megállapított, a 286/2023. (VI. 30.) Korm. rendelet 45. §-a szerint módosított szöveg.
-[^107]: A 21/A. § (9) bekezdése a 421/2016. (XII. 14.) Korm. rendelet 7. § (4) bekezdésével megállapított szöveg.
-[^108]: A 21/A. § (13) bekezdés a) pontja a 419/2016. (XII. 14.) Korm. rendelet 8. § (9) bekezdés e) pontja szerint módosított szöveg.
-[^109]: A 21/A. § (13) bekezdés b) pontja a 419/2016. (XII. 14.) Korm. rendelet 8. § (9) bekezdés e) pontja szerint módosított szöveg. [E módosító rendelet 8. § (9) bekezdés d) pontjával elrendelt módosítás, amely szerint az „az adójegy” szövegrész helyébe az „a zárjegy” szöveg lép, nem vezethető át.]
-[^110]: A 21/A. § (13) bekezdés c) pont cc) alpontja a 419/2016. (XII. 14.) Korm. rendelet 8. § (9) bekezdés d) pontja szerint módosított szöveg. [E módosító rendelet 8. § (9) bekezdés f) pontjával elrendelt módosítás, amely szerint az „az adójegyet” szövegrész helyébe az „a zárjegyet” szöveg lép, nem vezethető át.]
-[^111]: A 21/A. § (15) bekezdése a 421/2016. (XII. 14.) Korm. rendelet 7. § (5) bekezdésével megállapított szöveg.
-[^112]: A 21/A. § (17) bekezdését a 421/2016. (XII. 14.) Korm. rendelet 7. § (6) bekezdése iktatta be, hatályon kívül helyezte a 244/2018. (XII. 13.) Korm. rendelet 4. §-a.
-[^113]: A 21/A. § (18) bekezdését a 421/2016. (XII. 14.) Korm. rendelet 7. § (6) bekezdése iktatta be.
-[^114]: A 21/A. § (19) bekezdését a 421/2016. (XII. 14.) Korm. rendelet 7. § (6) bekezdése iktatta be.
+[^107]: A 21/A. § (8) bekezdését a 334/2023. (VII. 20.) Korm. rendelet 30. §-a hatályon kívül helyezte.
+[^108]: A 21/A. § (9) bekezdése a 421/2016. (XII. 14.) Korm. rendelet 7. § (4) bekezdésével megállapított szöveg.
+[^109]: A 21/A. § (13) bekezdés a) pontja a 419/2016. (XII. 14.) Korm. rendelet 8. § (9) bekezdés e) pontja szerint módosított szöveg.
+[^110]: A 21/A. § (13) bekezdés b) pontja a 419/2016. (XII. 14.) Korm. rendelet 8. § (9) bekezdés e) pontja szerint módosított szöveg. [E módosító rendelet 8. § (9) bekezdés d) pontjával elrendelt módosítás, amely szerint az „az adójegy” szövegrész helyébe az „a zárjegy” szöveg lép, nem vezethető át.]
+[^111]: A 21/A. § (13) bekezdés c) pont cc) alpontja a 419/2016. (XII. 14.) Korm. rendelet 8. § (9) bekezdés d) pontja szerint módosított szöveg. [E módosító rendelet 8. § (9) bekezdés f) pontjával elrendelt módosítás, amely szerint az „az adójegyet” szövegrész helyébe az „a zárjegyet” szöveg lép, nem vezethető át.]
+[^112]: A 21/A. § (15) bekezdése a 421/2016. (XII. 14.) Korm. rendelet 7. § (5) bekezdésével megállapított szöveg.
+[^113]: A 21/A. § (17) bekezdését a 421/2016. (XII. 14.) Korm. rendelet 7. § (6) bekezdése iktatta be, hatályon kívül helyezte a 244/2018. (XII. 13.) Korm. rendelet 4. §-a.
+[^114]: A 21/A. § (18) bekezdését a 421/2016. (XII. 14.) Korm. rendelet 7. § (6) bekezdése iktatta be.
+[^115]: A 21/A. § (19) bekezdését a 421/2016. (XII. 14.) Korm. rendelet 7. § (6) bekezdése iktatta be.

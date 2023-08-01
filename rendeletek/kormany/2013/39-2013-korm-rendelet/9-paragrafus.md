@@ -18,9 +18,9 @@ a) úgy kell nyomtatni, hogy azokat ne takarja el vagy ne zavarja meg a csomag k
 
 b) olyan módon kell elhelyezni, amely biztosítja, hogy a csomag felbontásakor a kombinált figyelmeztetések egyetlen szöveges vagy vizuális eleme se csorbuljon.
 
-(6)[^53] A kombinált egészségvédő figyelmeztetések nyomdai kivitelezésére alkalmas elektronikus forrásdokumentumokat az NNK kérelemre elektronikus úton átadja a dohánytermék gyártója részére.
+(6)[^53] A kombinált egészségvédő figyelmeztetések nyomdai kivitelezésére alkalmas elektronikus forrásdokumentumokat az NNGYK kérelemre elektronikus úton átadja a dohánytermék gyártója részére.
 
 [^50]: A 9. §-t a 239/2016. (VIII. 16.) Korm. rendelet 8. §-ával megállapított szöveg.
 [^51]: A 9. § (3) bekezdése a 421/2016. (XII. 14.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^52]: A 9. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 224. § (5) bekezdés b) pontja szerint módosított szöveg.
-[^53]: A 9. § (6) bekezdése a 162/2018. (IX. 10.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
+[^53]: A 9. § (6) bekezdése a 162/2018. (IX. 10.) Korm. rendelet 22. § d) pontja, a 334/2023. (VII. 20.) Korm. rendelet 29. § c) pontja szerint módosított szöveg.

@@ -16,9 +16,9 @@ e) az alkalmazott betűk mérete nem kisebb az (1) bekezdésben meghatározott b
 
 (3) A (2) bekezdés szerinti engedély iránti kérelemhez mellékelni kell az engedélyeztetni kért felirat vagy jelzés grafikai tervét, valamint tervezett elhelyezésének részletes leírását.
 
-(4)[^58] A népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatal a (2) bekezdés szerinti kérelmezőkről nyilvántartást vezet, a kérelmezők és az engedélyt kapók listáját évente, március 31-éig elektronikus úton megküldi az NNK részére.
+(4)[^58] A népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatal a (2) bekezdés szerinti kérelmezőkről nyilvántartást vezet, a kérelmezők és az engedélyt kapók listáját évente, március 31-éig elektronikus úton megküldi az NNGYK részére.
 
 [^55]: A 11. § a 169/2014. (VII. 18.) Korm. rendelet 10. §-ával megállapított szöveg.
 [^56]: A 11. § (1a) bekezdését a 413/2015. (XII. 23.) Korm. rendelet 50. §-a iktatta be.
 [^57]: A 11. § (2) bekezdés nyitó szövegrésze a 239/2016. (VIII. 16.) Korm. rendelet 20. § c) pontja, a 171/2017. (VI. 29.) Korm. rendelet 15. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^58]: A 11. § (4) bekezdését a 239/2016. (VIII. 16.) Korm. rendelet 9. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 224. § (5) bekezdés l) pontja, a 171/2017. (VI. 29.) Korm. rendelet 15. § (2) bekezdés a) pontja, a 162/2018. (IX. 10.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
+[^58]: A 11. § (4) bekezdését a 239/2016. (VIII. 16.) Korm. rendelet 9. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 224. § (5) bekezdés l) pontja, a 171/2017. (VI. 29.) Korm. rendelet 15. § (2) bekezdés a) pontja, a 162/2018. (IX. 10.) Korm. rendelet 22. § d) pontja, a 334/2023. (VII. 20.) Korm. rendelet 29. § c) pontja szerint módosított szöveg.
