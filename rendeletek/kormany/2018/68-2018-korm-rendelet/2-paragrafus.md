@@ -4,9 +4,9 @@
 
 1. esztétikai helyreállítás: a restaurálás körébe tartozó azon kutatáson alapuló, konzerváló kezelésen túlmutató, a kulturális örökség védett elemei eredeti értékeinek, illetve ezek érvényesülése szempontjából a legkedvezőbb állapotának helyreállítását biztosító hozzátételek, kiegészítések vagy egyéb beavatkozások összessége, amelyek célja az értékek zavartalan megjelenésének biztosításával az értelmezhetővé, bemutathatóvá tétele;
 
-1a.[^5] értékmeghatározó szakértői dokumentáció: a Kötv. 7. § 3a. pontja szerinti értékmeghatározó szakértői vizsgálat kiértékelésével az értékmeghatározó szakértő szerv általi vizsgálatban előállított, a 3. melléklet 2. és 3. pontja szerinti dokumentumok kiértékelését tartalmazó, valamint ennek eredményeképpen a nevesített műemléki értékeket meghatározó döntéselőkészítő dokumentáció, amelyet elektronikus formában a nyilvántartást vezető hatóság a nyilvántartás részeként kezel;
+1a.[^5] szakértői dokumentáció: a Kötv. 7. § 3a. pontja szerinti szakértői vizsgálat kiértékelésével a szakértő szerv általi vizsgálatban előállított, a 3. melléklet 2. és 3. pontja szerinti dokumentumok kiértékelését tartalmazó, valamint ennek eredményeképpen a nevesített műemléki értékeket meghatározó döntéselőkészítő dokumentáció, amelyet elektronikus formában a nyilvántartást vezető hatóság a nyilvántartás részeként kezel;
 
-1b.[^6] értékmeghatározó szakértő szerv: a nyilvántartást vezető hatóság feladataiban közreműködő, az e rendelet szerinti műemléki szakértői tevékenységet végző költségvetési szervezet;
+1b.[^6]
 
 2. konzerválás: a restaurálás körébe tartozó azon beavatkozások összessége, amelyek célja a kulturális örökség védett elemei eredeti anyagának változatlan állapotú megőrzését biztosító kezelése: a károsodási folyamatok megszüntetése vagy lassítása, az állapot stabilizálása, az alkotó anyagok szilárdítása, a szerkezet megerősítése, a tárgyhoz nem tartozó, az elváltozást, a károsodási folyamatot előidéző dolgok, szennyeződések eltávolítása;
 
@@ -32,8 +32,8 @@
 
 13. területátvétel: a régészeti feltárást megelőzően a földmunkával járó változtatással érintett munkaterületnek régészeti munkavégzésre alkalmas állapotban, állapotrögzítő jegyzőkönyvvel történő átvétele a beruházótól.
 
-[^5]: A 2. § 1a. pontját a 677/2020. (XII. 28.) Korm. rendelet 54. §-a iktatta be.
-[^6]: A 2. § 1b. pontját a 677/2020. (XII. 28.) Korm. rendelet 54. §-a iktatta be.
+[^5]: A 2. § 1a. pontját a 677/2020. (XII. 28.) Korm. rendelet 54. §-a iktatta be, szövege a 351/2023. (VII. 27.) Korm. rendelet 27. § a) pontja és 28. § a) pontja szerint módosított szöveg.
+[^6]: A 2. § 1b. pontját a 677/2020. (XII. 28.) Korm. rendelet 54. §-a iktatta be, a 351/2023. (VII. 27.) Korm. rendelet 28. § c) pontja hatályon kívül helyezte.
 [^7]: A 2. § 5. pontja a 677/2020. (XII. 28.) Korm. rendelet 83. § 3. pontja szerint módosított szöveg.
 [^8]: A 2. § 6. pontja a 677/2020. (XII. 28.) Korm. rendelet 83. § 3. pontja szerint módosított szöveg.
 [^9]: A 2. § 7. pontja a 677/2020. (XII. 28.) Korm. rendelet 83. § 2. pontja szerint módosított szöveg.

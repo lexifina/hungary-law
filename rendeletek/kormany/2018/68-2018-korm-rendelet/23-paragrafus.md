@@ -1,4 +1,4 @@
-23. § (1)[^73] Régészeti feltárást csak
+23. § (1)[^81] Régészeti feltárást csak
 
 a) szakirányú mesterfokozattal,
 
@@ -30,4 +30,4 @@ c) a 24. § szerinti szakmai irányelveknek megfelelő dokumentációt elkészí
 
 (7) Több korszakot érintő régészeti feltárás esetén az (1) bekezdés szerinti szakképzettséggel és a (3) bekezdés szerinti feltárási gyakorlattal rendelkező munkatársat vagy konzulenst kell bevonni a régészeti feladatellátásba.
 
-[^73]: A 23. § (1) bekezdés záró szövegrésze a 62/2019. (III. 26.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^81]: A 23. § (1) bekezdés záró szövegrésze a 62/2019. (III. 26.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 3/A. [^21] Elektronikus tárhely biztosítása
+## 3/A. [^22] Elektronikus tárhely biztosítása
 
 3/A. § (1) A régészeti örökség és a műemléki érték védelmével kapcsolatos örökségvédelmi hatósági eljárásokban a kérelem és bejelentés elektronikus úton történő benyújtásához, a kérelem és jogszabályban előírt mellékleteinek feltöltéséhez az építésügyi hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszer (a továbbiakban: ÉTDR) a kérelmező részére közvetlenül a kérelem benyújtása előtt elektronikus feltöltő tárhelyet biztosít.
 
@@ -10,4 +10,4 @@
 
 (5) Az (1) bekezdés szerinti tárhely az örökségvédelmi engedély iránti kérelem vagy bejelentés benyújtásáig áll a kérelmező rendelkezésére.
 
-[^21]: A 3/A. alcímet (3/A. §) a 776/2021. (XII. 23.) Korm. rendelet 9. §-a iktatta be.
+[^22]: A 3/A. alcímet (3/A. §) a 776/2021. (XII. 23.) Korm. rendelet 9. §-a iktatta be.

@@ -26,23 +26,39 @@ b) kulturális javak esetében az e rendeletben foglaltak szerint kijelölt áll
 
 (6)[^18] A Tao tv. 7. § (26) bekezdésében meghatározott örökségvédelmi hatóságként az (1) bekezdés a) pontjában meghatározott hatóság jár el.
 
-(7)[^19] A Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Lechner Tudásközpont) e rendeletben kijelölt örökségvédelmi szakértő szervként
+(7)[^19] A miniszter örökségvédelmi szakértő szervként szakértői feladatellátást biztosít jogosultsággal rendelkező szakértő személyes közreműködése vagy szakvéleménye útján
 
-a) közreműködik a miniszter kulturális örökségvédelmi és világörökségi nem hatósági feladatainak ellátásában,
+a) a műemléki értéket és régészeti örökséget érintő nyilvántartási hatósági feladatokhoz, melynek körében a szakértő
 
-b) ellátja a 61. § (1) bekezdése alapján a fennmaradásukban veszélyeztetett műemlékek, műemléki területek jegyzéke összeállításának előkészítő feladatait, valamint elkészíti a veszélyeztetett műemlékekre vonatkozó beavatkozási javaslatokat,
+aa) helyszíni szemlét folytat le,
 
-c) közreműködik a kulturális örökséget érintő koncepciók, stratégiák, programok, pályázatok kidolgozásában, a szakterületet érintő jogszabályok szakmai előkészítésében,
+ab) nevesíti az értékeket,
 
-d) közreműködik a kulturális örökségvédelem területét érintő tudományos tevékenységekben, ismeretterjesztéssel és közművelődéssel kapcsolatos feladatok ellátásában,
+ac) értékmeghatározást készít,
 
-e) közreműködik az örökségvédelmi hatóságnál foglalkoztatott kormánytisztviselők építésügyi vizsgájának szervezésében és végrehajtásában,
+ad) értékhierarchiát állapít meg,
 
-f) jogosult a miniszter nyilvántartási hatósági feladatai körében, a régészeti örökségre és műemléki értékre vonatkozó hatósági eljárásokban szemlét lefolytatni, revíziót végezni, ingatlanra vonatkozó adatellenőrzést és adatrögzítést végezni, a miniszter megkeresésére szakértőként eljárni, továbbá a védetté nyilvánítás és védettség megszüntetés szakértői tudományos előkészítését végezni, értékmeghatározó szakértői vizsgálatot lefolytatni, értékmeghatározó szakértői dokumentációt készíteni, valamint értékmeghatározó szakértői vizsgálat hatósági döntést előkészítő kiértékelését, hitelesítését, kiegészítését elvégezni,
+ae) megállapítja az összetartozó értékek együttes kezelésének módját a telekalakítás feltételeihez,
 
-g) a 71. § (2) bekezdés b) pont bc) alpontja szerint megkeresés alapján szakértői véleményével, állásfoglalásával segíti a hatóság döntését.
+af) állapotfelvételt készít,
 
-(8)[^20] Örökségvédelmi hatósági ügyintéző feladatkör ellátásához a 22. mellékletben meghatározott végzettség, illetve szakképesítés szükséges.
+ag) revízióban vesz részt,
+
+ah) adatellenőrzést, adatrögzítés és adatfeldolgozást végez,
+
+b) a műemléki és régészeti örökség védetté nyilvánítása vagy a védettség megszüntetése, a műemléki kategóriába sorolása vagy annak felülvizsgálata és egyéb döntés előkészítéséhez, melynek körében a szakértő a nevesített műemléki érték meghatározása érdekében
+
+ba) szakértői tudományos előkészítését, értékmeghatározó szakértői vizsgálatot végez,
+
+bb) értékmeghatározó szakértői dokumentációt készít, valamint
+
+bc) értékmeghatározó szakértői vizsgálat hatósági döntést előkészítő kiértékelését, hitelesítését, kiegészítését végez,
+
+c) az Országos Építészeti Tervtanács műemléki szakértői közreműködéséhez.
+
+(7a)[^20] A (7) bekezdés a) pontja szerinti szakértői közreműködés ügyintézési határideje huszonöt nap.
+
+(8)[^21] Örökségvédelmi hatósági ügyintéző feladatkör ellátásához a 22. mellékletben meghatározott végzettség, illetve szakképesítés szükséges.
 
 [^12]: A 3. § (1) bekezdés a) pontja a 360/2019. (XII. 30.) Korm. rendelet 194. § (1) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 286. § a) pontja szerint módosított szöveg.
 [^13]: A 3. § (1) bekezdés b) pontja a 360/2019. (XII. 30.) Korm. rendelet 194. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
@@ -51,5 +67,6 @@ g) a 71. § (2) bekezdés b) pont bc) alpontja szerint megkeresés alapján szak
 [^16]: A 3. § (4) bekezdés nyitó szövegrésze a 677/2020. (XII. 28.) Korm. rendelet 83. § 5. pontja szerint módosított szöveg.
 [^17]: A 3. § (4) bekezdés a) pontja a 677/2020. (XII. 28.) Korm. rendelet 83. § 6. pontja szerint módosított szöveg.
 [^18]: A 3. § (6) bekezdését a 190/2018. (X. 12.) Korm. rendelet 2. §-a iktatta be, szövege a 42/2020. (III. 12.) Korm. rendelet 2. § b) pontja, a 677/2020. (XII. 28.) Korm. rendelet 83. § 7. pontja, az 58/2021. (II. 10.) Korm. rendelet 2. § (4) bekezdés a) pontja szerint módosított szöveg.
-[^19]: A 3. § (7) bekezdését a 121/2019. (V. 27.) Korm. rendelet 23. §-a iktatta be, szövege a 677/2020. (XII. 28.) Korm. rendelet 55. §-ával megállapított szöveg..
-[^20]: A 3. § (8) bekezdését a 30/2020. (II. 29.) Korm. rendelet 34. § (1) bekezdése iktatta be.
+[^19]: A 3. § (7) bekezdését a 121/2019. (V. 27.) Korm. rendelet 23. §-a iktatta be, szövege a 351/2023. (VII. 27.) Korm. rendelet 24. §-ával megállapított szöveg. [Nem vezethető át a 351/2023. (VII. 27.) Korm. rendelet 28. § a) pontjában foglalt azon módosítás, amely szerint a 3. § (7) bekezdés f) pontjában az „értékmeghatározó” szövegrészek hatályukat vesztik,]
+[^20]: A 3. § (7a) bekezdését a 351/2023. (VII. 27.) Korm. rendelet 24. §-a iktatta be.
+[^21]: A 3. § (8) bekezdését a 30/2020. (II. 29.) Korm. rendelet 34. § (1) bekezdése iktatta be.

@@ -2,7 +2,7 @@
 
 71. § (1) A hatóság az örökségvédelmi engedélyezési eljárásban a döntés meghozatalához szükséges tényállás tisztázásának keretében a tervezett tevékenység helyszíne, annak környezete ismeretében, e rendeletben meghatározott szempontok szerint vizsgálja a döntés meghozatalának feltételeit különösen, hogy
 
-a)[^168] az építéstörténeti tudományos dokumentáció vagy a kerttörténeti tudományos dokumentáció, valamint az értékleltár megfelelően dokumentálja-e vagy rögzíti-e a műemléki értékeket,
+a)[^179] az építéstörténeti tudományos dokumentáció vagy a kerttörténeti tudományos dokumentáció, valamint az értékleltár megfelelően dokumentálja-e vagy rögzíti-e a műemléki értékeket,
 
 b) a meglévő állapotot rögzítő dokumentáció tartalma a valóságnak megfelel-e,
 
@@ -16,11 +16,11 @@ a) az érintett helyszínről, annak környezetéről fényképfelvételt kész�
 
 b) műemléki szakértői szolgáltatást vehet igénybe,
 
-ba) a 3. § (3) bekezdése szerinti örökségvédelmi szervtől,
+ba)[^180] a 3. § (3) bekezdése szerinti örökségvédelmi szervtől, vagy
 
-bb) a Magyar Építészeti Múzeum és Műemlékvédelmi Dokumentációs Központtól vagy
+bb)[^181] a Magyar Építészeti Múzeum és Műemlékvédelmi Dokumentációs Központtól,
 
-bc)[^169] e rendelet szerinti szakértő költségvetési szervtől,
+bc)[^182]
 
 ha az rendelkezik az adott szakterületen jogosultsággal rendelkező szakértővel.
 
@@ -28,7 +28,7 @@ ha az rendelkezik az adott szakterületen jogosultsággal rendelkező szakértő
 
 a) kivitelezés közben végzendő kutatást kell előírni, ha az eljárást megelőzően végzett kutatás nem terjedhetett ki minden kutatandó felületre,
 
-b)[^170] kiviteli tervek és részletrajzok készítését és bemutatását kell előírni, ha a kérelem és mellékletei azok léptéke miatt nem tartalmazhatják minden műszaki megoldás olyan mértékű meghatározását, amely alapján a műemlékre gyakorolt hatás egyértelműen megállapítható,
+b)[^183] kiviteli tervek és részletrajzok készítését és bemutatását kell előírni, ha a kérelem és mellékletei azok léptéke miatt nem tartalmazhatják minden műszaki megoldás olyan mértékű meghatározását, amely alapján a műemlékre gyakorolt hatás egyértelműen megállapítható,
 
 c) tervezői művezetést kell előírni, ha a kivitelezés során eldöntendő műszaki kérdések merülnek fel,
 
@@ -38,11 +38,11 @@ e) régész vagy restaurátor közreműködése írható elő, ha a tervezett te
 
 (4) A hatóság – életveszély elhárításának szakvéleménnyel alátámasztott esetét kivéve – a kérelmet elutasítja, ha a tervezett tevékenység
 
-a)[^171] a benyújtott terv alapján ellentétes az érintett műemléki értékre vonatkozó építéstörténeti tudományos dokumentációval vagy a kerttörténeti tudományos dokumentációval, valamint az értékleltárral,
+a)[^184] a benyújtott terv alapján ellentétes az érintett műemléki értékre vonatkozó építéstörténeti tudományos dokumentációval vagy a kerttörténeti tudományos dokumentációval, valamint az értékleltárral,
 
 b) szakszerűtlen, vagy
 
-c)[^172] az érintett műemlék
+c)[^185] az érintett műemlék
 
 ca) épségét vagy jelentőségét veszélyezteti,
 
@@ -56,8 +56,10 @@ ce) érvényesülését és megjelenését gátolja.
 
 (5) Az örökségvédelmi engedély a határozat végrehajthatóvá válásától számított egy év után hatályát veszti, kivéve a (2) bekezdés szerinti esetet, valamint ha az engedélyezett tevékenységet megkezdték, és két éven belül a munkák befejezését bejelentették.
 
-[^168]: A 71. § (1) bekezdés a) pontja a 677/2020. (XII. 28.) Korm. rendelet 84. § 7. pontja szerint módosított szöveg.
-[^169]: A 71. § (2) bekezdés b) pont bc) alpontja a 677/2020. (XII. 28.) Korm. rendelet 83. § 57. pontja szerint módosított szöveg.
-[^170]: A 71. § (3) bekezdés b) pontja a 677/2020. (XII. 28.) Korm. rendelet 83. § 58. pontja szerint módosított szöveg.
-[^171]: A 71. § (4) bekezdés a) pontja a 677/2020. (XII. 28.) Korm. rendelet 84. § 7. pontja szerint módosított szöveg.
-[^172]: A 71. (4) bekezdés c) pont nyitó szövegrésze a 677/2020. (XII. 28.) Korm. rendelet 83. § 2. pontja szerint módosított szöveg.
+[^179]: A 71. § (1) bekezdés a) pontja a 677/2020. (XII. 28.) Korm. rendelet 84. § 7. pontja szerint módosított szöveg.
+[^180]: A 71. § (2) bekezdés b) pont ba) alpontja a 351/2023. (VII. 27.) Korm. rendelet 27. § b) pontja szerint módosított szöveg.
+[^181]: A 71. § (2) bekezdés b) pont bb) alpontja a 351/2023. (VII. 27.) Korm. rendelet 27. § c) pontja szerint módosított szöveg.
+[^182]: A 71. § (2) bekezdés b) pont bc) alpontját a 351/2023. (VII. 27.) Korm. rendelet 28. § f) pontja hatályon kívül helyezte.
+[^183]: A 71. § (3) bekezdés b) pontja a 677/2020. (XII. 28.) Korm. rendelet 83. § 58. pontja szerint módosított szöveg.
+[^184]: A 71. § (4) bekezdés a) pontja a 677/2020. (XII. 28.) Korm. rendelet 84. § 7. pontja szerint módosított szöveg.
+[^185]: A 71. (4) bekezdés c) pont nyitó szövegrésze a 677/2020. (XII. 28.) Korm. rendelet 83. § 2. pontja szerint módosított szöveg.

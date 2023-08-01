@@ -1,6 +1,6 @@
-12. §[^53] (1)[^54] A védetté nyilvánítás, a műemléki kategória módosítása előkészítése során a nyilvántartást vezető hatóság a miniszter 11. § (5) bekezdés a) pontja szerinti döntése alapján védetté nyilvánítási értékmeghatározó szakértői dokumentációt készíttet, amelynek tartalmát a 14. § (1) bekezdése határozza meg.
+12. §[^56] (1)[^57] A védetté nyilvánítás, a műemléki kategória módosítása előkészítése során a nyilvántartást vezető hatóság a miniszter 11. § (5) bekezdés a) pontja szerinti döntése alapján védetté nyilvánítási szakértői dokumentációt készíttet, amelynek tartalmát a 14. § (1) bekezdése határozza meg.
 
-(2)[^55] A védetté nyilvánítás, a műemléki kategória módosítása előkészítése során a nyilvántartást vezető hatóság az előkészítés tényéről írásban értesíti a védetté nyilvánításra, a műemléki kategória módosításra javasolt ingatlannal rendelkezni jogosultat. A több mint ötven rendelkezni jogosult értesítése során az Ákr. hirdetményi közlésre vonatkozó szabályai alkalmazhatóak.
+(2)[^58] A védetté nyilvánítás, a műemléki kategória módosítása előkészítése során a nyilvántartást vezető hatóság az előkészítés tényéről írásban értesíti a védetté nyilvánításra, a műemléki kategória módosításra javasolt ingatlannal rendelkezni jogosultat. A több mint ötven rendelkezni jogosult értesítése során az Ákr. hirdetményi közlésre vonatkozó szabályai alkalmazhatóak.
 
 (3) A nyilvántartást vezető hatóság a (2) bekezdés szerinti értesítést megelőzően egyeztetést folytat le a hatósággal az esetleges ideiglenes védelem alá helyezés tárgyában.
 
@@ -14,12 +14,14 @@ c) a védelemre tervezett történeti kert, történeti táj, műemléki jelent�
 
 véleményét a védetté nyilvánítással kapcsolatban.
 
-(5) A műemléki védettség megszüntetésének előkészítése során a nyilvántartást vezető hatóság a miniszter 11. § (5) bekezdés a) pontja szerinti döntése alapján védettség megszüntetését előkészítő értékmeghatározó szakértői dokumentációt készíttet.
+(5)[^59] A műemléki védettség megszüntetésének előkészítése során a nyilvántartást vezető hatóság a miniszter 11. § (5) bekezdés a) pontja szerinti döntése alapján védettség megszüntetését előkészítő szakértői dokumentációt készíttet.
 
 (6) A műemléki védettség megszüntetésének előkészítése során a nyilvántartást vezető hatóság értesíti a védettség megszüntetésre javasolt ingatlannal rendelkezni jogosultat. A több mint ötven rendelkezni jogosult értesítése során az Ákr. hirdetményi közlésre vonatkozó szabályait kell alkalmazni.
 
-(7) A kezdeményezés iratába, valamint az értékmeghatározó szakértői dokumentációba betekinthet mindenki, akinek az ingatlanra vonatkozóan az ingatlan-nyilvántartásba bejegyzett joga áll fenn, az ingatlan műemléki védettségéhez jogos érdeke fűződik, illetve a kezdeményező.
+(7)[^60] A kezdeményezés iratába, valamint a szakértői dokumentációba betekinthet mindenki, akinek az ingatlanra vonatkozóan az ingatlan-nyilvántartásba bejegyzett joga áll fenn, az ingatlan műemléki védettségéhez jogos érdeke fűződik, illetve a kezdeményező.
 
-[^53]: A 12. § a 677/2020. (XII. 28.) Korm. rendelet 60. §-ával megállapított szöveg.
-[^54]: A 12. § (1) bekezdése a 776/2021. (XII. 23.) Korm. rendelet 17. § 4. pontja szerint módosított szöveg.
-[^55]: A 12. § (2) bekezdése a 776/2021. (XII. 23.) Korm. rendelet 17. § 4. és 6. pontja szerint módosított szöveg.
+[^56]: A 12. § a 677/2020. (XII. 28.) Korm. rendelet 60. §-ával megállapított szöveg.
+[^57]: A 12. § (1) bekezdése a 776/2021. (XII. 23.) Korm. rendelet 17. § 4. pontja, a 351/2023. (VII. 27.) Korm. rendelet 28. § b) pontja szerint módosított szöveg.
+[^58]: A 12. § (2) bekezdése a 776/2021. (XII. 23.) Korm. rendelet 17. § 4. és 6. pontja szerint módosított szöveg.
+[^59]: A 12. § (5) bekezdése a 351/2023. (VII. 27.) Korm. rendelet 28. § b) pontja szerint módosított szöveg.
+[^60]: A 12. § (7) bekezdése a 351/2023. (VII. 27.) Korm. rendelet 27. § a) pontja szerint módosított szöveg.

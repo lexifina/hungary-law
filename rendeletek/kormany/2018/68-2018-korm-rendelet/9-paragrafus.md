@@ -1,4 +1,4 @@
-9. §[^39] (1) A műemléki nyilvántartás tartalmazza
+9. §[^41] (1) A műemléki nyilvántartás tartalmazza
 
 a) a műemlék azonosítására és védettségére vonatkozó alábbi adatokat:
 
@@ -16,7 +16,7 @@ af) az örökségvédelmi bírság kategóriába sorolását, illetve a műemlé
 
 b) a műemlék elhelyezkedésének alábbi földrajzi, térbeli adatait:
 
-ba)[^40] a műemlék fekvése szerinti vármegyét települést, településrészt és címét,
+ba)[^42] a műemlék fekvése szerinti vármegyét települést, településrészt és címét,
 
 bb) az ingatlanok ingatlan-nyilvántartási adatai szerinti azonosítását (helyrajzi szám, alrészlet, albetét) amelyek területén a műemléki védelem fennáll,
 
@@ -26,7 +26,7 @@ bd) az ingatlan-nyilvántartási térképi adatbázis alapján a műemlék kiter
 
 c) a műemlék védettségét megalapozó alábbi szakanyagokat:
 
-ca) a műemlékre vonatkozó építéstörténeti tudományos dokumentációt, kerttörténeti tudományos dokumentációt, kutatási dokumentációt, restaurálási dokumentációt, értékleltárt, értékmeghatározó szakértői vizsgálatot, értékmeghatározó szakértői dokumentációt,
+ca)[^43] a műemlékre vonatkozó építéstörténeti tudományos dokumentációt, kerttörténeti tudományos dokumentációt, kutatási dokumentációt, restaurálási dokumentációt, értékleltárt, szakértői vizsgálatot, szakértői dokumentációt,
 
 cb) a műemlék, műemléki érték, műemlékvédelem sajátos tárgyának leírását, azonosító fényképeit, történeti topográfiáját,
 
@@ -50,5 +50,6 @@ f) a műemlék, a műemlékvédelem sajátos tárgyának veszélyeztetettségér
 
 (3) A szakanyagot ki kell egészíteni, ha a műemléki nyilvántartásban nem szereplő, de a Kötv. 7. § 17. pontja értelmében a műemlékhez tartozó műemléki érték, alkotórész, tartozék vagy berendezés kerül elő.
 
-[^39]: A 9. § a 677/2020. (XII. 28.) Korm. rendelet 57. §-ával megállapított szöveg.
-[^40]: A 9. § (1) bekezdés b) pont ba) alpontja a 616/2022. (XII. 29.) Korm. rendelet 286. § b) pontja szerint módosított szöveg.
+[^41]: A 9. § a 677/2020. (XII. 28.) Korm. rendelet 57. §-ával megállapított szöveg.
+[^42]: A 9. § (1) bekezdés b) pont ba) alpontja a 616/2022. (XII. 29.) Korm. rendelet 286. § b) pontja szerint módosított szöveg.
+[^43]: A 9. § (1) bekezdés c) pont ca) alpontja a 351/2023. (VII. 27.) Korm. rendelet 28. § a) pontja szerint módosított szöveg.

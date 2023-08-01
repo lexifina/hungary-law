@@ -1,6 +1,6 @@
-40. § (1)[^84] Az egy vármegyét érintő nagyberuházás egészére egy feltárási projekttervet kell készíteni.
+40. § (1)[^92] Az egy vármegyét érintő nagyberuházás egészére egy feltárási projekttervet kell készíteni.
 
-(2)[^85] Ha a nagyberuházás több vármegye területét érinti, a régészeti feladatellátás területi szakaszait vármegyei bontásban kell meghatározni. Feltárási projektterv a nagyberuházáshoz kapcsolódó régészeti feladatellátás területi szakaszaira külön is készíthető.
+(2)[^93] Ha a nagyberuházás több vármegye területét érinti, a régészeti feladatellátás területi szakaszait vármegyei bontásban kell meghatározni. Feltárási projektterv a nagyberuházáshoz kapcsolódó régészeti feladatellátás területi szakaszaira külön is készíthető.
 
 (3) A feltárási projektterv készítése során az elfedés alkalmazása tekintetében figyelembe kell venni, hogy ha a kivitelezés során eltávolítandó talajréteg alsó síkja és a régészeti emlékek jelentkezésének felső síkja között a régészeti lelőhely, lelőhelyrész vagy régészeti emlék megóvását biztosító magasságú és konzisztenciájú intakt földréteg
 
@@ -14,7 +14,7 @@ b) nem marad, a Kötv. 23/E. § (8) bekezdése alapján alkalmazható elfedés.
 
 (6) A feltárási projektterv készítése során az Ásatási Bizottság szakmai véleménye kérhető különösen
 
-a)[^86] több vármegyét érintő nagyberuházás,
+a)[^94] több vármegyét érintő nagyberuházás,
 
 b) elfedés alkalmazására irányuló javaslat
 
@@ -30,6 +30,6 @@ esetén.
 
 (11) A beruházás helyszínének teljes megváltoztatása örökségvédelmi szempontból új beruházásnak minősül, mely esetben a beruházónak új feltárási projekttervet kell készíttetnie.
 
-[^84]: A 40. § (1) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 286. § b) pontja szerint módosított szöveg.
-[^85]: A 40. § (2) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 286. § a) és c) pontja szerint módosított szöveg.
-[^86]: A 40. § (6) bekezdés a) pontja a 616/2022. (XII. 29.) Korm. rendelet 286. § b) pontja szerint módosított szöveg.
+[^92]: A 40. § (1) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 286. § b) pontja szerint módosított szöveg.
+[^93]: A 40. § (2) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 286. § a) és c) pontja szerint módosított szöveg.
+[^94]: A 40. § (6) bekezdés a) pontja a 616/2022. (XII. 29.) Korm. rendelet 286. § b) pontja szerint módosított szöveg.
