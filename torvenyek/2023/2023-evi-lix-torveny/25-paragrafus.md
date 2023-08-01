@@ -2,7 +2,7 @@
 
 a)
 
-b)
+b) 25. § (2) bekezdés záró szövegrészében a „15 forint” szövegrész helyébe a „legfeljebb 30 forint” szöveg,
 
 c)
 
