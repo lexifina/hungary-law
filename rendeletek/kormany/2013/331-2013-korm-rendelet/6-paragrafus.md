@@ -6,7 +6,7 @@ a) kérelemre, ha azt gyógyszerész írásban kéri, vagy
 
 b) hivatalból, az állam Gyftv. 83/A. § (7) bekezdése szerinti tulajdoni hányadának megszerzésétől számított három éven belül.
 
-(2)[^8] A pályázati felhívást, valamint a pályázat tartalmi követelményeit az állam nevében eljáró szerv – az (1) bekezdés a) pontja szerinti esetben az írásbeli kérelem kézhezvételétől számított 30 napon belül – az egészségügyért felelős miniszter által vezetett minisztérium hivatalos lapjában és az OGYÉI honlapján közzéteszi.
+(2)[^8] A pályázati felhívást, valamint a pályázat tartalmi követelményeit az állam nevében eljáró szerv – az (1) bekezdés a) pontja szerinti esetben az írásbeli kérelem kézhezvételétől számított 30 napon belül – az egészségügyért felelős miniszter által vezetett minisztérium hivatalos lapjában és az NNGYK honlapján közzéteszi.
 
 (3) A pályázati eljárás kezdő napja a pályázati felhívást tartalmazó hirdetménynek a (2) bekezdés szerinti hivatalos lapban történő közzétételét követő nap.
 
@@ -14,4 +14,4 @@ b) hivatalból, az állam Gyftv. 83/A. § (7) bekezdése szerinti tulajdoni hán
 
 (5) A pályázati felhívást az egészségügyért felelős miniszter hagyja jóvá.
 
-[^8]: A 6. § (2) bekezdése a 30/2015. (II. 25.) Korm. rendelet 92. § e) pontja szerint módosított szöveg.
+[^8]: A 6. § (2) bekezdése a 30/2015. (II. 25.) Korm. rendelet 92. § e) pontja, a 334/2023. (VII. 20.) Korm. rendelet 38. § c) pontja szerint módosított szöveg.

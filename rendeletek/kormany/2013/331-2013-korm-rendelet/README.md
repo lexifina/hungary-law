@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-331-20-
 | 2015-03-01 | 2013-331-20-22.3 | 30/2015. (II. 25.) Korm. rendelet |
 | 2017-01-01 | 2013-331-20-22.4 | 477/2016. (XII. 27.) Korm. rendelet |
 | 2018-01-01 | 2013-331-20-22.5 | 475/2017. (XII. 28.) Korm. rendelet |
+| 2023-08-01 | 2013-331-20-22.6 | 30/2015. (II. 25.) Korm. rendelet |

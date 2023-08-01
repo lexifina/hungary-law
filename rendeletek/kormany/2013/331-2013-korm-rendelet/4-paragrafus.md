@@ -6,9 +6,9 @@
 
 (4) Nem köti az eladót az olyan elfogadó nyilatkozat, amelyet az elővásárlásra jogosult határidőn túl tesz meg, illetve az olyan nyilatkozat, amelyben a jogosult az ajánlatot nem teszi magáévá.
 
-(5)[^7] Ha a Gyftv. 83/A. § (7) bekezdése szerinti első három helyi elővásárlási jogosult az ajánlat vele való közlésétől vagy az OGYÉI honlapján való közzétételének kezdőnapjától számított 30 napon belül nem él az elővásárlási jogával, akkor az eladó legkésőbb az ezen határidő leteltét követő 2. munkanapon az ajánlat egy eredeti példányát köteles az állam nevében eljáró szerv részére postai úton, tértivevénnyel vagy elektronikus úton megküldeni, vagy személyesen átadni.
+(5)[^7] Ha a Gyftv. 83/A. § (7) bekezdése szerinti első három helyi elővásárlási jogosult az ajánlat vele való közlésétől vagy az NNGYK honlapján való közzétételének kezdőnapjától számított 30 napon belül nem él az elővásárlási jogával, akkor az eladó legkésőbb az ezen határidő leteltét követő 2. munkanapon az ajánlat egy eredeti példányát köteles az állam nevében eljáró szerv részére postai úton, tértivevénnyel vagy elektronikus úton megküldeni, vagy személyesen átadni.
 
 (6) Az állam nevében eljáró szerv az (5) bekezdés szerinti közlés napját követő 30 napon belül tehet nyilatkozatot. Az állam elővásárlási jogának a gyakorlása esetén a (3) és a (4) bekezdésben foglaltakat alkalmazni kell.
 
 [^6]: A 4. § (3) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 70. § (3) bekezdés a) pontja szerint módosított szöveg.
-[^7]: A 4. § (5) bekezdése a 30/2015. (II. 25.) Korm. rendelet 92. § e) pontja, a 477/2016. (XII. 27.) Korm. rendelet 70. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^7]: A 4. § (5) bekezdése a 30/2015. (II. 25.) Korm. rendelet 92. § e) pontja, a 477/2016. (XII. 27.) Korm. rendelet 70. § (3) bekezdés b) pontja, a 334/2023. (VII. 20.) Korm. rendelet 38. § c) pontja szerint módosított szöveg.
