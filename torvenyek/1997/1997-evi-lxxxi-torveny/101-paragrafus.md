@@ -16,7 +16,7 @@ e) a nyugellátás összegének megállapításánál a személyi jövedelemadó
 
 f) a nyugellátások és – törvény vagy kormányrendelet alapján – a 62. §-ban foglaltak szerint emelendő más pénzbeli ellátások emelésének részletes szabályait, valamint évente az 1998. december 31-e utáni időponttól megállapításra kerülő öregségi teljes nyugdíj és árvaellátás évenkénti legkisebb összegeit, továbbá az 50. § (6) bekezdése szerinti együttfolyósítási összeghatárt,
 
-g) az öregségi nyugdíj és a 6. § (4) bekezdése szerinti ellátások szüneteltetésének részletes eljárási szabályait,
+g) az öregségi nyugdíj és a 6. § (4) bekezdése szerinti ellátások szüneteltetésének részletes szabályait, valamint a 83/C. § szerinti szüneteltetés alóli kivételeket és azok részletes szabályait,
 
 h) az igény érvényesítésével, az igény elbírálásával, a megállapító és a folyósító szervek közötti adatszolgáltatással kapcsolatos eljárást, továbbá a rögzített öregségi nyugdíj megállapítására vonatkozó részletes szabályokat,
 
