@@ -1,28 +1,40 @@
-8. § (1)[^23] A Kormány egészségügyi államigazgatási szervként az NNK-t jelöli ki
+8. § (1)[^19] Kormány egészségügyi államigazgatási szervként az NNGYK-t jelöli ki
 
 a) az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény (a továbbiakban: Ehi.)
 
-aa)[^24] 4. § (1) bekezdés k), l) és o) pontja, 4/A. § (1) bekezdése,
+aa) 4. § (1) bekezdés k), l) és o) pontja,
 
-ab) 6. § (1) bekezdés p) pontja,
+ab) 4. § (5) bekezdés a) pont ab) alpontja, b) pont ba) és bc) alpontja, c) pont ca) alpontja, d) pont db) alpontja, valamint a speciális gyógyászati célra szánt élelmiszerek tekintetében 4. § (5) bekezdés c) pont cb) alpontja,
+
+ac) 4/A. § (1) bekezdése,
+
+ad) 6. § (1) bekezdés h), i), o), p) és q) pontja,
+
+ae) tekintetében gyógyszerészeti igazgatási hatáskörben eljárva 10. és 11. §-a, 13/A. § (1a), (1b) és (2) bekezdése,
+
+af) 14. § b) pontja,
+
+ag) 14. § f) pontja,
 
 b) az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.)
 
 ba) 56. § (6) bekezdése,
 
-bb) 159. § (5) bekezdés c) pontja,
+bb) 101. § (2) bekezdése,
 
-bc) 159. § (6) bekezdése,
+bc) 159. § (5) bekezdés c) pontja,
 
-bd) 161. § (4) bekezdése,
+bd) 159. § (6) bekezdése,
 
-be) 180. § (1) bekezdése,
+be) 161. § (4) bekezdése,
 
-bf) 215. § (4) bekezdése,
+bf) 180. § (1) bekezdése,
 
-bg) 243. § (7) bekezdése,
+bg) 215. § (4) bekezdése,
 
-bh)[^25] 232/B. § (14) bekezdése,
+bh) 243. § (7) bekezdése,
+
+bi) 232/B. § (14) bekezdése,
 
 c) az Eüak.
 
@@ -36,19 +48,21 @@ da) 6. § (1) és (2) bekezdése,
 
 db) 7. §-a,
 
-dc)[^26] 8. § (3) és (5) bekezdése, valamint a 8/A. § (1) és (5) bekezdése,
+dc) 8. § (3) és (5) bekezdése,
 
-dd) 10. § (3) bekezdése,
+dd) 8/A. § (1) és (5) bekezdése,
 
-de) 20. § (2) bekezdése,
+de) 10. § (3) bekezdése,
 
-df) 23. §-a,
+df) 20. § (2) bekezdése,
 
-dg) 25. § (5) bekezdése,
+dg) 23. §-a,
 
-dh) 26/A. §-a,
+dh) 25. § (5) bekezdése,
 
-di) 32. § (2) és bekezdése,
+di) 26/A. §-a,
+
+dj) 32. § (2) bekezdése,
 
 e) az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény
 
@@ -96,19 +110,29 @@ fe) 27. § (5) bekezdése,
 
 ff) 28. § (5) bekezdése,
 
-g) az iskolai egészségfejlesztési programok tekintetében a népegészségügyi termékadóról szóló 2011. évi CIII. törvény 1. § 19. pontja,
+g) az egészségügyi alapellátásról szóló 2015. évi CXXIII. törvény 14. §-a,
 
-h)[^27]
+h) a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.) 20. § (7) bekezdése,
 
-i)[^28] a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.) 20. § (7) bekezdése
+i) a veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvény 91. § (1) bekezdése,
 
-j)[^29] a veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvény 91. § (1) bekezdése
+j) a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény
+
+ja) 17. § (5) bekezdése,
+
+jb) 18/A. § (4) bekezdés b) pontja és (4a) bekezdése,
+
+jc) 41. § (2)–(4) bekezdése,
+
+jd) II. Része,
+
+k) az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 15. §-a
 
 szerinti feladatok ellátására.
 
 (2) Az országos tisztifőorvos kijelöli a mikrobiológiai referencia laboratóriumokat, valamint a járványügyi feladatok ellátására kijelölt laboratóriumokat. Ha a kijelölés érinti a kormányhivatalt, a kijelöléshez a közigazgatás-szervezésért felelős miniszter egyetértése szükséges.
 
-(3)[^30] Az NNK munkahigiénés és foglalkozás-egészségügyi szervként részt vesz
+(3)[^20] Az NNGYK munkahigiénés és foglalkozás-egészségügyi szervként részt vesz
 
 a) a munkahigiénés és foglalkozás-egészségügyi tevékenységgel összefüggő kormányzati döntések, stratégiák megalapozásában, ezzel kapcsolatos felmérésekben,
 
@@ -120,7 +144,7 @@ d) a munkaegészségügyi vonatkozású hazai és európai uniós programok vég
 
 e) a munkaegészségüggyel foglalkozó hazai és nemzetközi szervezetek tevékenységében.
 
-(4)[^31] Az NNK az (1) bekezdés b) pont bh) alpontjában foglalt feladat ellátása céljából az adatok kutatása során olyan adatfeldolgozóval köthet szerződést, amely az általános adatvédelmi rendeletben foglaltak mellett megfelel a következő feltételeknek:
+(4)[^21] Az NNGYK az (1) bekezdés b) pont bh) alpontjában foglalt feladat ellátása céljából az adatok kutatása során olyan adatfeldolgozóval köthet szerződést, amely az általános adatvédelmi rendeletben foglaltak mellett megfelel a következő feltételeknek:
 
 a) székhelye Magyarországon található,
 
@@ -130,18 +154,12 @@ c) biztosítja az általa feldolgozott adatok Magyarországon történő tárol�
 
 d) adatfeldolgozói tevékenysége során biztosítja orvos közreműködését.
 
-(5)[^32] A (4) bekezdés b) és d) pontjában szereplő feltételt nem kell alkalmazni azon adatfeldolgozóra, amely az adatkezelő megbízásából kizárólag technikai közreműködést biztosít, így különösen az adatok rögzítését, tárolását, anonimizálását, továbbítását, korlátozását, törlését vagy megsemmisítését végzi.
+(5)[^22] A (4) bekezdés b) és d) pontjában szereplő feltételt nem kell alkalmazni azon adatfeldolgozóra, amely az adatkezelő megbízásából kizárólag technikai közreműködést biztosít, így különösen az adatok rögzítését, tárolását, anonimizálását, továbbítását, korlátozását, törlését vagy megsemmisítését végzi.
 
-(6)[^33] A Kormány nemzeti koordinációs fókuszpontként az egészségügyért felelős minisztert jelöli ki az Egészségügyi Világszervezet Dohányzás-ellenőrzési Keretegyezményének kihirdetéséről szóló 2005. évi III. törvénnyel kihirdetett, az Egészségügyi Világszervezet Dohányzás-ellenőrzési Keretegyezménye 5. Cikk 2. pont a) alpontja szerinti feladat ellátására.
+(6)[^23] A Kormány nemzeti koordinációs fókuszpontként az egészségügyért felelős minisztert jelöli ki az Egészségügyi Világszervezet Dohányzás-ellenőrzési Keretegyezményének kihirdetéséről szóló 2005. évi III. törvénnyel kihirdetett, az Egészségügyi Világszervezet Dohányzás-ellenőrzési Keretegyezménye 5. Cikk 2. pont a) alpontja szerinti feladat ellátására.
 
-[^23]: A 8. § (1) bekezdés nyitó szövegrésze az 514/2022. (XII. 13.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
-[^24]: A 8. § (1) bekezdés a) pont aa) alpontja a 360/2019. (XII. 30.) Korm. rendelet 161. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^25]: A 8. § (1) bekezdés b) pont bh) alpontját az 514/2022. (XII. 13.) Korm. rendelet 1. §-a iktatta be.
-[^26]: A 8. § (1) bekezdés d) pont dc) alpontja a 418/2020. (VIII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^27]: A 8. § (1) bekezdés h) pontját a 286/2023. (VI. 30.) Korm. rendelet 52. §-a hatályon kívül helyezte.
-[^28]: A 8. § (1) bekezdés i) pontját a 360/2019. (XII. 30.) Korm. rendelet 161. § (4) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^29]: A 8. § (1) bekezdés j) pontját a 457/2022. (XI. 9.) Korm. rendelet 1. §-a iktatta be.
-[^30]: A 8. § (3) bekezdés nyitó szövegrésze az 514/2022. (XII. 13.) Korm. rendelet 3. § d) pontja szerint módosított szöveg.
-[^31]: A 8. § (4) bekezdését a 250/2017. (IX. 5.) Korm. rendelet 71. §-a hatályon kívül helyezte, újonnan az 514/2022. (XII. 13.) Korm. rendelet 2. §-a iktatta be.
-[^32]: A 8. § (5) bekezdését a 250/2017. (IX. 5.) Korm. rendelet 71. §-a hatályon kívül helyezte, újonnan az 514/2022. (XII. 13.) Korm. rendelet 2. §-a iktatta be.
-[^33]: A 8. § (6) bekezdése a 300/2018. (XII. 27.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 238/2022. (VI. 30.) Korm. rendelet 164. §-a szerint módosított szöveg.
+[^19]: A 8. § (1) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 47. §-ával megállapított szöveg.
+[^20]: A 8. § (3) bekezdés nyitó szövegrésze az 514/2022. (XII. 13.) Korm. rendelet 3. § d) pontja, a 334/2023. (VII. 20.) Korm. rendelet 49. § b) pontja szerint módosított szöveg.
+[^21]: A 8. § (4) bekezdését a 250/2017. (IX. 5.) Korm. rendelet 71. §-a hatályon kívül helyezte, újonnan az 514/2022. (XII. 13.) Korm. rendelet 2. §-a iktatta be, nyitó szövegrésze a 334/2023. (VII. 20.) Korm. rendelet 49. § b) pontja szerint módosított szöveg.
+[^22]: A 8. § (5) bekezdését a 250/2017. (IX. 5.) Korm. rendelet 71. §-a hatályon kívül helyezte, újonnan az 514/2022. (XII. 13.) Korm. rendelet 2. §-a iktatta be.
+[^23]: A 8. § (6) bekezdése a 300/2018. (XII. 27.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 238/2022. (VI. 30.) Korm. rendelet 164. §-a szerint módosított szöveg.
