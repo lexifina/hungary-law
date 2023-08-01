@@ -1,6 +1,14 @@
 8. § (1) A munkáltató a 7. § (2) bekezdésében meghatározott egyszerűsített foglalkoztatásra irányuló munkaviszony alapján a (2) bekezdésben meghatározott közterhet fizet.
 
-(2) Egyszerűsített foglalkoztatásban foglalkoztatott munkavállaló esetében a munkáltató által fizetendő közteher mértéke a 7. § (2) bekezdés a) pontja esetén a munkaviszony minden naptári napjára munkavállalónként 500 forint, a 7. § (2) bekezdés b) pontja esetén a munkaviszony minden naptári napjára munkavállalónként 1000 forint. A 2. § 8. pontjában meghatározott filmipari statiszta alkalmi munkára irányuló egyszerűsített foglakoztatása esetén a munkaviszony minden naptári napjára munkavállalónként 4000 forint.
+(2) Egyszerűsített foglalkoztatásban foglalkoztatott munkavállaló esetében a munkáltató által fizetendő közteher mértéke a munkaviszony minden naptári napjára munkavállalónként
+
+a) a 7. § (2) bekezdés a) pontja esetén a tárgyhónap első napján érvényes minimálbér 0,5 százaléka,
+
+b) a 7. § (2) bekezdés b) pontja esetén a tárgyhónap első napján érvényes minimálbér 1 százaléka,
+
+c) a filmipari statiszta alkalmi munkára irányuló egyszerűsített foglakoztatása esetén a tárgyhónap első napján érvényes minimálbér 3 százaléka,
+
+azzal, hogy a mértéket száz forintra kerekítve kell meghatározni.
 
 (3) Az (1) és (2) bekezdésben szabályozott közteher megfizetésével nem terheli
 
@@ -17,3 +25,5 @@ a) a munkavállaló a szociális biztonsági rendszerek koordinálásáról és 
 b) a 11. § (3) bekezdése szerinti igazolással, vagy az egyezmény alapján kiállított, az egyezményben részes másik államban fennálló biztosítást tanúsító igazolással rendelkezik,
 
 a munkáltató közterhet nem fizet.
+
+(6) Az állami adó- és vámhatóság a minimálbér változásának napját magában foglaló hónap 10. napjáig honlapján közzéteszi a 8. § (2) bekezdése szerinti közterhek mértékét, valamint a 4. § (2) bekezdése szerinti összeget és a nyugellátás 10. § (2) bekezdés szerint meghatározott alapját.

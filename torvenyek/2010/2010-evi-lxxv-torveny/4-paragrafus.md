@@ -2,7 +2,7 @@
 
 (1a) Az egyszerűsített foglalkoztatás céljára létesített munkaviszony alapján alapbérként, illetve teljesítménybérként – a meghatározott feltételeknek megfelelően – legalább a kötelező legkisebb munkabér 85%-a, garantált bérminimum esetén 87%-a jár.
 
-(2) A filmipari statiszta alkalmi munkából származó napi nettó jövedelme nem haladhatja meg a 18 000 forintot.
+(2) A filmipari statiszta alkalmi munkából származó napi nettó jövedelme nem haladhatja meg a tárgyhónap első napján érvényes minimálbér 12 százalékát, amely összeget száz forintra kerekítve kell meghatározni.
 
 (3)
 
