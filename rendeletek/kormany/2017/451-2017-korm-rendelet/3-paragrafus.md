@@ -10,7 +10,7 @@ d) a gyógyászati segédeszköz társadalombiztosítási támogatással törté
 
 e)[^5] az egyedi méretvétel alapján készített gyógyászati segédeszköz árához nyújtható támogatás megállapítására az EüMr. 5. számú mellékletében
 
-## meghatározott adattartalommal, nyomtatott vagy elektronikus formában kell benyújtani. Nem elektronikus kapcsolattartás keretében benyújtott kérelem esetén a mellékletben meghatározott adatokat elektronikus adathordozón kell benyújtani.
+meghatározott adattartalommal, nyomtatott vagy elektronikus formában kell benyújtani. Nem elektronikus kapcsolattartás keretében benyújtott kérelem esetén a mellékletben meghatározott adatokat elektronikus adathordozón kell benyújtani.
 
 (2) Azoknak a gyógyászati segédeszközöknek a körét, amelyekhez nem lehet befogadás iránti kérelmet benyújtani, az EüMr. 6. számú melléklete határozza meg.
 
@@ -64,7 +64,7 @@ k)[^7] az eszköz az MDR-ben, az IVDR-ben, illetve az orvostechnikai eszközökr
 
 l)[^8] az orvostechnikai eszközök európai uniós adatbázisában nem regisztrált orvostechnikai eszköz és in vitro diagnosztikai orvostechnikai eszköz esetében – ide nem értve a rendelésre készült eszközöket
 
-la) magyarországi székhelyű gyártó vagy meghatalmazott képviselő esetében az OGYÉI-nél történt regisztrációról szóló igazolást,
+la)[^9] magyarországi székhelyű gyártó vagy meghatalmazott képviselő esetében a Nemzeti Népegészségügyi és Gyógyszerészeti Központnál (a továbbiakban: NNGYK) történt regisztrációról szóló igazolást,
 
 lb) az EGT-ben székhellyel rendelkező gyártó vagy meghatalmazott képviselő esetében a gyártó vagy a meghatalmazott képviselő székhelye szerinti országban történt regisztrációról szóló igazolást;
 
@@ -74,7 +74,7 @@ n) ha rendelkezésre áll, az eszközre vonatkozó publikációk jegyzékét és
 
 o) a kérelmező nyilatkozatát a nem kizárólag elektronikus kapcsolattartás útján benyújtott kérelmek esetén a kérelemben foglaltak és az elektronikus adathordozón benyújtott adatok azonosságáról és hitelességéről.
 
-(5a)[^9] Az (5) bekezdés l) pont la) alpontja szerinti igazolás csatolásának elmulasztása esetén a NEAK megkeresi az OGYÉI-t a kérelemben szereplő eszköz regisztrációjával kapcsolatos adatok beszerzése érdekében.
+(5a)[^10] Az (5) bekezdés l) pont la) alpontja szerinti igazolás csatolásának elmulasztása esetén a NEAK megkeresi az NNGYK-t a kérelemben szereplő eszköz regisztrációjával kapcsolatos adatok beszerzése érdekében.
 
 (6) Ha az eszköz az (5) bekezdés b) pont bd) alpontja szerinti esetben finanszírozott, meg kell jelölni tagállamonként a finanszírozás módját, mértékét, illetve összegét.
 
@@ -113,4 +113,5 @@ bb) ha a kérelmező a NEAK szállítójegyzékében nem szerepel, a cégjegyzé
 [^6]: A 3. § (5) bekezdés j) pontja a 135/2022. (IV. 7.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
 [^7]: A 3. § (5) bekezdés k) pontja a 135/2022. (IV. 7.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
 [^8]: A 3. § (5) bekezdés l) pontja a 135/2022. (IV. 7.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
-[^9]: A 3. § (5a) bekezdését a 135/2022. (IV. 7.) Korm. rendelet 25. § (2) bekezdése iktatta be.
+[^9]: A 3. § (5) bekezdés l) pont la) alpontja a 334/2023. (VII. 20.) Korm. rendelet 60. § a) pontja szerint módosított szöveg.
+[^10]: A 3. § (5a) bekezdését a 135/2022. (IV. 7.) Korm. rendelet 25. § (2) bekezdése iktatta be, szövege, a 334/2023. (VII. 20.) Korm. rendelet 60. § b) pontja szerint módosított szöveg.

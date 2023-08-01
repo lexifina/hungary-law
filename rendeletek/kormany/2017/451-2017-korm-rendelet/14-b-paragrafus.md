@@ -1,4 +1,4 @@
-14/B. §[^12] (1) Ha az EüMr. 10. számú mellékletében foglaltak szerint kötszer támogatással történő rendelésének feltétele a kezelés egészségbiztosító általi ellenjegyzése, a 14/A. §-ban foglaltakat a (2)–(11) bekezdés szerinti eltérésekkel kell alkalmazni.
+14/B. §[^18] (1) Ha az EüMr. 10. számú mellékletében foglaltak szerint kötszer támogatással történő rendelésének feltétele a kezelés egészségbiztosító általi ellenjegyzése, a 14/A. §-ban foglaltakat a (2)–(11) bekezdés szerinti eltérésekkel kell alkalmazni.
 
 (2) A beteg kezelőorvosa az ellenjegyzést – a 14/A. § (1) bekezdésében foglaltak helyett –
 
@@ -14,7 +14,7 @@ ad) TAJ-számának és
 
 b) a kötszer rendelését alátámasztó diagnózissal kapcsolatos, a beteg állapotát és az addig alkalmazott kezelést is ismertető kórtörténeti összefoglaló
 
-## benyújtásával kezdeményezheti.
+benyújtásával kezdeményezheti.
 
 (3) A (2) bekezdés szerinti egészségügyi dokumentációnak tartalmaznia kell
 
@@ -52,10 +52,10 @@ b) a seb várható gyógyulása és
 
 c) a folytatni javasolt terápia
 
-## azt indokolttá teszi.
+azt indokolttá teszi.
 
 (10) Ha az ellenjegyzés elutasítására kerül sor, az elutasítást követő 5 napon belül írásbeli indokolással együtt tájékoztatni kell a beteget és a beteg kezelőorvosát. A tájékoztatásnak tartalmaznia kell a 14/A. § (8) bekezdése szerinti jogorvoslati lehetőség ismertetését.
 
 (11) Elektronikus vényen történő rendelés esetén az ellenjegyzés meglétét a kezelőorvos a kötszer rendelésekor az elektronikus vényen feltünteti.
 
-[^12]: A 14/B. §-t a 114/2022. (III. 22.) Korm. rendelet 1. §-a iktatta be.
+[^18]: A 14/B. §-t a 114/2022. (III. 22.) Korm. rendelet 1. §-a iktatta be.
