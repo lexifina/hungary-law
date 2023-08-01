@@ -1,1 +1,0 @@
-Az árak megállapításáról szóló 1990. évi LXXXVII. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 6/2022. (I. 14.) Korm. rendelet 4. §-ában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 7. § (1) bekezdés 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
