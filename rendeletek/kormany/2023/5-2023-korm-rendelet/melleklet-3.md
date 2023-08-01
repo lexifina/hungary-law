@@ -80,7 +80,7 @@
 
 ## 2.3. A vízminőség-ellenőrző paraméterek vizsgálati számának csökkentésére vonatkozó követelmények
 
-## 2.3.1.[^26] Az „A” és „B” csoportba tartozó paramétereket a 3. táblázatban meghatározott gyakorisággal kell mérni, kivéve, ha a népegészségügyi szerv, illetve az élelmiszerüzemi célú víz megfelelőségi ponttól a NÉBIH az országos tisztifőorvossal egyeztetve az ivóvízszolgáltató kérésére meghatározott időre a vizsgálati szám csökkentését a vizsgálati program elfogadásával engedélyezi.
+## 2.3.1.[^55] Az „A” és „B” csoportba tartozó paramétereket a 3. táblázatban meghatározott gyakorisággal kell mérni, kivéve, ha a népegészségügyi szerv, illetve az élelmiszerüzemi célú víz megfelelőségi ponttól a NÉBIH az országos tisztifőorvossal egyeztetve az ivóvízszolgáltató kérésére meghatározott időre a vizsgálati szám csökkentését a vizsgálati program elfogadásával engedélyezi.
 
 ## A minimális vizsgálati szám akkor csökkenthető egy vízminőségi jellemző esetében, ha legalább egy hároméves időszak alatt rendszeres időközönként, a teljes ivóvízellátási körzetre reprezentatív mintavételi helyen vett minden minta eredménye alacsonyabb értéket mutat, mint a határ- vagy parametrikus érték 60%-a, a Pseudomonas aeruginosa, a Clostridium perfringens és a mikroszkópos biológiai paraméterek esetén a parametrikus érték túllépés gyakorisága nem éri el a 10%-ot, és ha az ivóvízbiztonsági tervben elvégzett, a vízbázis ellenőrzésére is kiterjedő veszélyelemzés és kockázatértékelés, valamint a 6. § (1) bekezdése szerinti kockázatértékelés, valamint a rendelkezésre álló összes közegészségügyi szempontból releváns információ megerősíti, hogy nincs olyan észszerűen várható tényező, amely az ivóvíz minőségének romlását okozná, vagy az emberi egészséget veszélyeztetné.
 
@@ -96,7 +96,7 @@
 
 ## 2.3.3. A vizsgálati szám nem csökkenthető olyan paraméterek vizsgálatára vonatkozóan, amelyek ivóvízben történő megjelenésére az elosztó hálózatból vagy a fogyasztó belső hálózatából történő kioldódás következtében is számítani lehet, valamint értéke a hálózatban különböző biológiai és biokémiai folyamatok következtében változhat.
 
-## 2.4.[^27] A vízminőség-ellenőrző paraméterek körének bővítésére vagy vizsgálati számának növelésére vonatkozó követelmények
+## 2.4.[^56] A vízminőség-ellenőrző paraméterek körének bővítésére vagy vizsgálati számának növelésére vonatkozó követelmények
 
 ## 2.4.1. A vizsgálati paraméterek listája bővíthető, valamint az „A” és „B” csoportba tartozó paraméterek vizsgálati gyakorisága növelhető a 3. táblázat szerinti számhoz képest, vagy a paraméter a „B” csoportból az „A” csoportba sorolható át, ha
 
@@ -152,9 +152,9 @@
 
 ## 3.2.2. A kalcium, magnézium és kálium paraméterek vizsgálata az ivóvízellátó rendszer egy reprezentatív pontján háromévente egyszer kötelező, az eredmények az 4. melléklet szerinti tájékoztatási követelmény teljesítéséhez használhatók fel.
 
-## 3.2.3.[^28] Az ivóvízellátó rendszerbe betáplálási ponton vett minták a vizsgálati követelmény teljesítésébe a következő paraméterekre vonatkozóan vehetők figyelembe: alumínium, benzol, benz(a)pirén, bór, cianid, cisz-1,2-diklór-etilén, 1,2-diklór-etán, vinil-klorid, urán, fluorid, higany, keménység, klorid, nátrium, peszticidek, policiklusos aromás szénhidrogének, szelén, tetraklór-etilén, triklór-etilén, kalcium, magnézium, kálium, trícium, radon, indikatív dózis, szulfát, kadmium és PFA.
+## 3.2.3.[^57] Az ivóvízellátó rendszerbe betáplálási ponton vett minták a vizsgálati követelmény teljesítésébe a következő paraméterekre vonatkozóan vehetők figyelembe: alumínium, benzol, benz(a)pirén, bór, cianid, cisz-1,2-diklór-etilén, 1,2-diklór-etán, vinil-klorid, urán, fluorid, higany, keménység, klorid, nátrium, peszticidek, policiklusos aromás szénhidrogének, szelén, tetraklór-etilén, triklór-etilén, kalcium, magnézium, kálium, trícium, radon, indikatív dózis, szulfát, kadmium és PFA.
 
-## 3.2.4.[^29] Radiológiai paraméterek esetén a mintavételezést a fogyasztói csapon vagy az ivóvízellátó rendszer betáplálási pontján kell végezni, de trícium vizsgálata esetén a kútból származó vízminták is figyelembe vehetőek.
+## 3.2.4.[^58] Radiológiai paraméterek esetén a mintavételezést a fogyasztói csapon vagy az ivóvízellátó rendszer betáplálási pontján kell végezni, de trícium vizsgálata esetén a kútból származó vízminták is figyelembe vehetőek.
 
 ## 3.2.5. Ha egy adott mintában valamelyik radiológiai paraméter értékének parametrikus érték túllépése tapasztalható, a népegészségügyi szerv, valamint élelmiszerüzemi célú víz esetén az élelmiszerlánc-felügyeleti szerv meghatározza, hogy milyen mértékben szükséges a mintavételt megismételni annak biztosításához, hogy a mért értékek az egész évi átlagos aktivitási koncentráció szempontjából reprezentatívak legyenek.
 
@@ -198,12 +198,12 @@
 
 ## r) Fertőtlenítéssel összefüggő paraméterek
 
-3. melléklet az 5/2023. (I. 12.) Korm. rendelethez[^30]
+3. melléklet az 5/2023. (I. 12.) Korm. rendelethez[^59]
 
 A vízminőségi jellemzők mérésére vonatkozó előírások
 
-[^26]: A 2. melléklet B) rész 2. pont 2.3. alpont 2.3.1. alpontja a 264/2023. (VI. 28.) Korm. rendelet 13. § d) pontja szerint módosított megállapított szöveg.
-[^27]: A 2. melléklet B) rész 2. pont 2.4. alpontját a 264/2023. (VI. 28.) Korm. rendelet 11. § (1) bekezdése iktatta be.
-[^28]: A 2. melléklet B) rész 3. pont 3.2. alpont 3.2.3. alpontja a 264/2023. (VI. 28.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^29]: A 2. melléklet B) rész 3. pont 3.2. alpont 3.2.4. alpontja a 264/2023. (VI. 28.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^30]: A 3. melléklet a 264/2023. (VI. 28.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^55]: A 2. melléklet B) rész 2. pont 2.3. alpont 2.3.1. alpontja a 264/2023. (VI. 28.) Korm. rendelet 13. § d) pontja szerint módosított megállapított szöveg.
+[^56]: A 2. melléklet B) rész 2. pont 2.4. alpontját a 264/2023. (VI. 28.) Korm. rendelet 11. § (1) bekezdése iktatta be.
+[^57]: A 2. melléklet B) rész 3. pont 3.2. alpont 3.2.3. alpontja a 264/2023. (VI. 28.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^58]: A 2. melléklet B) rész 3. pont 3.2. alpont 3.2.4. alpontja a 264/2023. (VI. 28.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^59]: A 3. melléklet a 264/2023. (VI. 28.) Korm. rendelet 11. § (2) bekezdése, a 334/2023. (VII. 20.) Korm. rendelet 71. § b) és c) pontja szerint módosított szöveg.

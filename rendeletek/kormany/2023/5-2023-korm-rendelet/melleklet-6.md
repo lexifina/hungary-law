@@ -24,7 +24,7 @@
 
 ## 2.6. Ivóvízzel vagy használati melegvízzel érintkezésbe kerülő egyéb termékek, beleértve a szerelvényeket, szelepeket, szivattyúkat, csapokat, vízmérőket, tömítéseket, ragasztókat, forraszanyagokat, a kivitelezés helyszínén előállított in-situ bevonatokat, bevonatrendszereket, javításra használt anyagokat, amelyek vizsgálatára és értékelésére vonatkozóan nincs érvényes magyar szabványként bevezetett európai termékszabvány.
 
-## 3. Az NNK-hoz benyújtandó engedélyezési vagy nyilvántartásba vételi kérelem tartalmi követelményei és mellékletei
+## 3.[^61] Az NNGYK-hoz benyújtandó engedélyezési vagy nyilvántartásba vételi kérelem tartalmi követelményei és mellékletei
 
 ## 1. A kérelem tartalmi követelményei:
 
@@ -46,7 +46,7 @@
 
 ## 2.4. NNK által előzetesen elkészített közegészségügyi értékelés száma
 
-## 4. Az NNK-hoz benyújtandó felülvizsgálati kérelem tartalmi követelményei és mellékletei
+## 4.[^62] Az NNGYK-hoz benyújtandó felülvizsgálati kérelem tartalmi követelményei és mellékletei
 
 ## 1. A kérelem tartalmi követelményei:
 
@@ -68,9 +68,9 @@
 
 ## 2.4. Magyar nyelvű használati útmutató, vagy kezelési-üzemeltetési utasítás vagy gépkönyv, amely tartalmazza a közegészségügyi szempontú alkalmazási feltételeket, valamint esetlegesen a termék használatával összefüggésbe hozható, kizárólag annak rendeltetésből egyértelműen levezethető állításokat
 
-## 2.5. NNK által előzetesen elkészített közegészségügyi értékelés száma
+## 2.5.[^63] NNGYK által előzetesen elkészített közegészségügyi értékelés száma
 
-6. melléklet az 5/2023. (I. 12.) Korm. rendelethez
+6. melléklet az 5/2023. (I. 12.) Korm. rendelethez[^64]
 
 Az ivóvízbiztonsági terv tartalmi követelményei és a jóváhagyáshoz benyújtandó dokumentumok*
 
@@ -132,7 +132,7 @@ Az ivóvízbiztonsági terv tartalmi követelményei és a jóváhagyáshoz beny
 
 1.7. Felszíni vizet, vagy felszíni szennyezés kockázatának kitett nyersvizet alkalmazó ivóvízellátó rendszerekben, illetve ahol a kockázatértékelés alapján indokolt az ivóvízkezelő technológiák vírus-eltávolítási hatékonyságának igazolása.
 
-A kockázatértékelés elvégzése során az MSZ EN 15975-2 szabványban, vagy azzal egyenértékű nemzetközi vagy hazai ajánlásokban meghatározott általános kockázatértékelési elveket kell figyelembe venni. A módszertan alkalmasságát az NNK szakvéleményezési eljárás során értékeli.
+A kockázatértékelés elvégzése során az MSZ EN 15975-2 szabványban, vagy azzal egyenértékű nemzetközi vagy hazai ajánlásokban meghatározott általános kockázatértékelési elveket kell figyelembe venni. A módszertan alkalmasságát az NNGYK szakvéleményezési eljárás során értékeli.
 
 A nyersvíz minőségének értékelése illetve a nyersvíz minőségével összefüggő kockázatok értékelése kapcsán a 4. § (4) bekezdése szerinti megfigyelési listán szereplő paraméterek értékelését is el kell végezni.
 
@@ -146,6 +146,11 @@ A nyersvíz minőségének értékelése illetve a nyersvíz minőségével öss
 
 4. Aktuális, érvényes üzemeltetési szabályzat
 
-5. Az NNK előzetes közegészségügyi szempontú értékelése
+5. Az NNGYK előzetes közegészségügyi szempontú értékelése
 
 *Megjegyzés: Az ivóvízellátó rendszer főbb elemein végig vezetve kell a szükséges adatokat, a lehetséges veszélyeket és kockázatokat (figyelembe véve az az éghajlatváltozásra, az ivóvízellátó rendszerben előforduló szivárgásokra és az azokra visszavezethető kockázatokat, illetve az ivóvízzel érintkezésbe kerülő anyagok, ivóvízkezelő vegyszerek és szűrőanyagok megfelelőségét), a kockázatértékelés módját, a beavatkozási lehetőségeket és az ellenőrző rendszert az ivóvízbiztonsági tervben rögzíteni.
+
+[^61]: Az 5. melléklet 3. pont címe a 334/2023. (VII. 20.) Korm. rendelet 71. § g) pontja szerint módosított szöveg.
+[^62]: Az 5. melléklet 4. pont címe a 334/2023. (VII. 20.) Korm. rendelet 71. § g) pontja szerint módosított szöveg.
+[^63]: Az 5. melléklet 4. pont 2. alpont 2.5. pontja a 334/2023. (VII. 20.) Korm. rendelet 71. § c) pontja szerint módosított szöveg.
+[^64]: A 6. melléklet a 334/2023. (VII. 20.) Korm. rendelet 71. § c) pontja szerint módosított szöveg.

@@ -348,7 +348,7 @@
 
 ## Ez az üledék nem tartalmazhat
 
-## a)[^25]
+## a)[^54]
 
 ## b) natív készítményben meghatározható, szennyezettséget jelző baktériumokat (pl. Spirillum, Spirochaeta, Sarcina, Zoogloea, Beggiatoa), baktériumtelepeket, gombákat (pl. Fusarium, Leptomitus, Candida, kivéve: Alternaria, Cladosporium fajokat), amelyek előfordulását kizárólag az üledék minőségénél kell jelezni.
 
@@ -390,4 +390,4 @@
 
 Vízminőség-ellenőrzési követelmények
 
-[^25]: Az 1. melléklet 4. alcíme szerinti megjegyzések 1. pont a) alpontját a 264/2023. (VI. 28.) Korm. rendelet 13. § c) pontja hatályon kívül helyezte.
+[^54]: Az 1. melléklet 4. alcíme szerinti megjegyzések 1. pont a) alpontját a 264/2023. (VI. 28.) Korm. rendelet 13. § c) pontja hatályon kívül helyezte.

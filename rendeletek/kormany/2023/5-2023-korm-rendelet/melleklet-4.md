@@ -18,7 +18,7 @@
 
 ## d) Clostridium perfringens esetében, beleértve a spórákat is: MSZ EN ISO 14189 szabvány;
 
-## e) szomatikus colifágok esetében: EN ISO 10705-2 és EN ISO 10705-3 szabvány vagy azzal egyenértékű módszer, amelynek megfelelőségét az NNK igazolja és Budapest Főváros Kormányhivatala (a továbbiakban: BFKH) jóváhagyja;
+## e) szomatikus colifágok esetében: EN ISO 10705-2 és EN ISO 10705-3 szabvány vagy azzal egyenértékű módszer, amelynek megfelelőségét az NNGYK igazolja és Budapest Főváros Kormányhivatala (a továbbiakban: BFKH) jóváhagyja;
 
 ## f) Pseudomonas aeruginosa esetében: MSZ EN ISO 16266 szabvány.
 
@@ -294,9 +294,9 @@
 
 ## a) Az e rendeletnek való megfelelés ellenőrzése céljából alkalmazott mintavételi és elemzési módszereket – az üzemeltetési monitoring keretében végzett vizsgálatok, beleértve a kézi műszerrel, napi rendszerességgel végzett zavarosságmérést is, valamint az online zavarosság és a fertőtlenítőszer-maradék vizsgálat kivételével – az EN ISO/IEC 17025 szabvány vagy más, azzal egyenértékű, nemzetközileg elfogadott szabvány szerint kell validálni és dokumentálni. A laboratóriumoknak és az azokkal szerződésben álló feleknek az EN ISO/IEC 17025 szabványnak vagy más, nemzetközileg elfogadott azzal egyenértékű szabványnak megfelelő minőségirányítási rendszert kell alkalmazniuk.
 
-## b) Az e rendeletben előírt, illetve vízminőség-ellenőrző vizsgálatot az adott paraméterre akkreditált és az adott paraméterre az országos tisztifőorvos megbízásából az NNK által szervezett körvizsgálatokban évente és megfelelő eredménnyel részt vevő laboratórium végezhet. Az élelmiszeripari vállalkozás esetén az ivóvíz minőségellenőrző vizsgálatot, ivóvízvizsgálatra a nem állami laboratóriumok engedélyezéséről, nyilvántartásba vételéről és működési feltételeinek részletes szabályozásáról szóló miniszteri rendelet alapján engedélyezett és akkreditált laboratórium végezhet.
+## b) Az e rendeletben előírt, illetve vízminőség-ellenőrző vizsgálatot az adott paraméterre akkreditált és az adott paraméterre az országos tisztifőorvos megbízásából az NNGYK által szervezett körvizsgálatokban évente és megfelelő eredménnyel részt vevő laboratórium végezhet. Az élelmiszeripari vállalkozás esetén az ivóvíz minőségellenőrző vizsgálatot, ivóvízvizsgálatra a nem állami laboratóriumok engedélyezéséről, nyilvántartásba vételéről és működési feltételeinek részletes szabályozásáról szóló miniszteri rendelet alapján engedélyezett és akkreditált laboratórium végezhet.
 
-## c) A Legionella-csíraszám meghatározással kapcsolatos laboratóriumi vizsgálatokat olyan akkreditált laboratórium végezheti, amelyet a népegészségügyi feladatkörében eljáró BFKH erre feljogosította. A feljogosítást – kérelemre – a BFKH adja ki, ha a laboratórium az NNK által szervezett körvizsgálatokban évente és megfelelő eredménnyel részt vett. A feljogosított laboratóriumok listáját a BFKH a honlapján közzéteszi. A feljogosítás visszavonásig érvényes. Az e rendeletben foglalt előírások nem teljesítése esetén a visszavonást az engedélyes, az NNK vagy a BFKH kezdeményezheti.
+## c) A Legionella-csíraszám meghatározással kapcsolatos laboratóriumi vizsgálatokat olyan akkreditált laboratórium végezheti, amelyet a népegészségügyi feladatkörében eljáró BFKH erre feljogosította. A feljogosítást – kérelemre – a BFKH adja ki, ha a laboratórium az NNGYK által szervezett körvizsgálatokban évente és megfelelő eredménnyel részt vett. A feljogosított laboratóriumok listáját a BFKH a honlapján közzéteszi. A feljogosítás visszavonásig érvényes. Az e rendeletben foglalt előírások nem teljesítése esetén a visszavonást az engedélyes, az NNGYK vagy a BFKH kezdeményezheti.
 
 ## d) Az elosztó hálózatban történő mintavételt – a fogyasztói csapoknál történő mintavétel kivételével – az ISO 5667-5 szabvány szerint kell végezni.
 
@@ -314,7 +314,7 @@ Az ivóvízszolgáltató által a fogyasztók számára nyújtandó tájékoztat
 
 5. Az ivóvízellátó rendszer kockázatértékelésével kapcsolatos releváns információk.
 
-6. A fogyasztóknak szóló tanácsok arról, hogy adott esetben miként csökkenthetik az ivóvízfogyasztásukat, hogyan használhatják a korábbi állapothoz viszonyítva felelősségteljesebben a helyi adottságoknak megfelelően az ivóvizet, illetve hogyan kerülhetik el a nem megfelelő ivóvízhasználatból, a pangó ivóvíz fogyasztásából eredő egészségkockázatokat, vagy tájékoztatás arról, hogy az ezekről szóló tanácsok elérhetőek az NNK honlapján.
+6.[^60] A fogyasztóknak szóló tanácsok arról, hogy adott esetben miként csökkenthetik az ivóvízfogyasztásukat, hogyan használhatják a korábbi állapothoz viszonyítva felelősségteljesebben a helyi adottságoknak megfelelően az ivóvizet, illetve hogyan kerülhetik el a nem megfelelő ivóvízhasználatból, a pangó ivóvíz fogyasztásából eredő egészségkockázatokat, vagy tájékoztatás arról, hogy az ezekről szóló tanácsok elérhetőek az NNGYK honlapján.
 
 7. A napi átlagban legalább 10 000 m3 ivóvizet szolgáltató, vagy legalább 50 000 főt ellátó ivóvízszolgáltatók esetében éves tájékoztatás a következőkről:
 
@@ -323,3 +323,5 @@ Az ivóvízszolgáltató által a fogyasztók számára nyújtandó tájékoztat
 7.2. az ivóvízszolgáltató által nyújtott, a vízellátás tulajdonosi szerkezetével kapcsolatos információk;
 
 7.3. ha rendelkezésre áll, az e rendelet hatálya alá tartozó tárgykörökhöz kapcsolódóan az ivóvízszolgáltatóhoz intézett fogyasztói panaszok összefoglalása és az ezekkel kapcsolatos statisztikák;
+
+[^60]: A 4. melléklet 6. pontja a 334/2023. (VII. 20.) Korm. rendelet 71. § c) pontja szerint módosított szöveg.
