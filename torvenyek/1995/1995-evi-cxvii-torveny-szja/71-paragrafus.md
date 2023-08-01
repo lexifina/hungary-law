@@ -1,12 +1,14 @@
 ## Béren kívüli juttatások
 
-71. § (1) Béren kívüli juttatásnak minősül – ha a juttató a munkáltató – a munkavállalónak az adóévben a Széchenyi Pihenő Kártya
+71. § (1) Béren kívüli juttatásnak minősül – ha a juttató a munkáltató – a munkavállalónak az adóévben a Széchenyi Pihenő Kártya juttatás céljából nyitott korlátozott rendeltetésű fizetési számlájára utalt, a Széchenyi Pihenő Kártya kibocsátásának és felhasználásának szabályairól szóló kormányrendeletben meghatározott
 
-a) szálláshely alszámlájára utalt, kormányrendeletben meghatározott szálláshely-szolgáltatásra felhasználható – több juttatótól származóan együttvéve – legfeljebb évi 225 ezer forint támogatás;
+a) szálláshely-szolgáltatásra,
 
-b) vendéglátás alszámlájára utalt, melegkonyhás vendéglátóhelyeken (ideértve a munkahelyi étkeztetést is) kormányrendeletben meghatározott étkezési szolgáltatásra felhasználható – több juttatótól származóan együttvéve – legfeljebb évi 150 ezer forint támogatás;
+b) melegkonyhás vendéglátóhelyeken (ideértve a munkahelyi étkeztetést is) étkezési szolgáltatásra,
 
-c) szabadidő alszámlájára utalt, a szabadidő-eltöltést, a rekreációt, az egészségmegőrzést szolgáló, kormányrendeletben meghatározott szolgáltatásra felhasználható – több juttatótól származóan együttvéve – legfeljebb évi 75 ezer forint támogatás.
+c) a szabadidő-eltöltést, a rekreációt, az egészségmegőrzést szolgáló szolgáltatásra
+
+felhasználható, a 70. § (8) bekezdése szerinti éves rekreációs keretösszeget – több juttatótól származóan együttvéve sem – meg nem haladó mértékű támogatás.
 
 (2) Béren kívüli juttatásnak minősül
 

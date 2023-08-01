@@ -4,17 +4,19 @@
 
 (1b) Ha az adott jogosultsági hónap után járó családi kedvezményre egy magánszemély jogosult, az őt megillető családi kedvezményt adóbevallásban megoszthatja a vele közös háztartásban élő, jogosultnak nem minősülő házastársával, élettársával, ideértve azt az esetet is, ha a családi kedvezményt a jogosult egyáltalán nem tudja érvényesíteni. Azon jogosultsági hónapokra eső családi kedvezményre, amelyre vonatkozóan a jogosult vagy házastársa, élettársa a gyermeket nevelő egyedülálló családi pótlékát igénybe veszi, a megosztás nem alkalmazható, ide nem értve, ha a jogosult a családok támogatásáról szóló 1998. évi LXXXIV. törvény 12. § (3) bekezdése alapján minősül egyedülállónak.
 
-(1c) A családi kedvezmény közös igénybevétele, megosztása az adóbevallásban a 29/A. § (3) bekezdés c)–d) pontjában nem említett jogosultak esetében független attól, hogy az adóelőleg megállapításánál mely jogosultnál történt annak figyelembevétele.
+(1c) A családi kedvezmény közös igénybevétele, megosztása az adóbevallásban független attól, hogy az adóelőleg megállapításánál mely jogosultnál történt annak figyelembevétele.
 
 (1d) Több jogosult vagy a kedvezmény megosztása esetén az igénybevétel feltétele az érintett magánszemélyek adóbevallásban közösen tett, egymás adóazonosító jelét is feltüntető – nyilatkozata, amely tartalmazza, hogy a kedvezményt melyikük veszi igénybe, továbbá a kedvezmény összegének – az összeg vagy a kedvezményezett eltartottak számának felosztásával történő – közös igénybevételére, megosztására vonatkozó döntésüket.
 
 (1e) Ha jogerős bírósági döntés, egyezség, közös nyilatkozat alapján a szülők egyenlő időszakokban felváltva gondozzák gyermeküket, és ezért a családi pótlékra 50-50 százalékos arányban mindkét szülő jogosult, a gyermek mindkét szülő – valamint a szülő házastársa – vonatkozásában kedvezményezett eltartottnak minősül. A felváltva gondozott gyermek után a szülő (házastársa) a családi kedvezmény 29/A. § (2) bekezdés szerint meghatározott összege 50 százalékának érvényesítésére jogosult. A gyermeket felváltva gondozó szülők a családi kedvezmény közös érvényesítésére egymás között nem jogosultak.
 
-(2) A családi kedvezmény érvényesítésének feltétele a magánszemély adóbevalláshoz vagy munkáltatói adómegállapításhoz tett írásbeli nyilatkozata
+(2) A családi kedvezmény érvényesítésének feltétele a magánszemély adóbevalláshoz tett írásbeli nyilatkozata
 
-a) a jogosultság 29/A. § (3) bekezdés szerinti jogcíméről, és
+a) a jogosultság 29/A. § (3) bekezdés szerinti jogcíméről,
 
-b) a családi kedvezmény megosztása, közös érvényesítése esetén erről a tényről,
+b) a 29/A. § (2a) bekezdése szerinti növelt összegű kedvezmény szempontjából figyelembe vehető kedvezményezett eltartottról, és
+
+c) a családi kedvezmény megosztása, közös érvényesítése esetén erről a tényről,
 
 amelyen fel kell tüntetnie – a magzat kivételével – minden eltartott (kedvezményezett eltartott) adóazonosító jelét, továbbá azt, hogy e személyek – ideértve a magzatot is – az adóév mely hónapjaiban minősültek eltartottnak, kedvezményezett eltartottnak. A családi kedvezmény megosztása, közös érvényesítése esetén a másik fél adóazonosító jelét is fel kell tüntetni.
 

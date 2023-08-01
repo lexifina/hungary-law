@@ -14,6 +14,8 @@ d) a súlyosan fogyatékos magánszemélynél az erről szóló igazolás alapj�
 
 e) a négy vagy több gyermeket nevelő anyák kedvezménye érvényesítéséről.
 
+f) a 30 év alatti anyák kedvezményének érvényesítéséről.
+
 (3) A magánszemély családi kedvezmény érvényesítésére, súlyosan fogyatékos állapotra vonatkozó nyilatkozatot az adóelőleget megállapító munkáltató, a magánszemély részére az összevont adóalapba tartozó rendszeres bevételt (különösen havi, heti bért, munkadíjat, tiszteletdíjat, személyes közreműködés ellenértékét, egyéb juttatást) juttató kifizető számára adhat. A családi kedvezmény közös igénybevétele esetén a jogosultakat jogosultsági hónaponként együttesen megillető családi kedvezményt az adóelőleget megállapító munkáltató, a rendszeres bevételt juttató kifizető – az összeg vagy a kedvezményezett eltartottak megosztásával – a nyilatkozat szerint veszi figyelembe. A családi kedvezményre vonatkozó adóelőleg-nyilatkozat legalább a következő adatokat tartalmazza:
 
 a) a nyilatkozó magánszemély nevét és adóazonosító jelét;
@@ -46,6 +48,12 @@ e) az első házasok kedvezményének közös érvényesítése esetén a házas
 
 (3e) A 25 év alatti fiatalok kedvezményét érvényesítő fiatal a családi kedvezményről abban az esetben is tehet adóelőleg-nyilatkozatot a munkáltató, az összevont adóalapba tartozó rendszeres bevételt juttató kifizető részére, ha a 25 év alatti fiatalok kedvezményének érvényesítése miatt az adóelőleg-alapja nullára csökken. A családi kedvezményről tett adóelőleg-nyilatkozat szerinti családi kedvezmény adóelőleg-alap terhére nem érvényesíthető értékének az adó mértékével [8. §] meghatározott összege a Tbj. szerinti szabályok alkalmazásával családi járulékkedvezményként vehető igénybe.
 
+(3f) A magánszemély a (3) bekezdés szerinti adóelőleg-nyilatkozatban feltüntetheti, ha a kedvezményezett eltartott a 29/A. § (2a) bekezdése szerinti növelt összegű kedvezmény szempontjából figyelembe vehető kedvezményezett eltartottnak minősül.
+
+(3g) A 30 év alatti anya elsőként a 25. életéve betöltése hónapját követő hónapra vonatkozóan tehet a 30 év alatti anyák kedvezményének érvényesítése érdekében adóelőleg-nyilatkozatot. Az adóelőleg-nyilatkozat tartalmazza a nyilatkozó magánszemély nevét és adóazonosító jelét, a nyilatkozó magánszemély részére bevételt juttató kifizető, munkáltató nevét (elnevezését) és adószámát, a gyermek nevét és adóazonosító jelét, magzat (ikermagzat) esetében a várandósság tényére vonatkozó kijelentést.
+
+(3h) A 30 év alatti anyák kedvezményét érvényesítő 30 év alatti anya a családi kedvezményről abban az esetben is tehet adóelőleg-nyilatkozatot a munkáltató, az összevont adóalapba tartozó rendszeres bevételt juttató kifizető részére, ha a 30 év alatti anyák kedvezményének érvényesítése miatt az adóelőleg-alapja nullára csökken. A családi kedvezményről tett adóelőleg-nyilatkozat szerinti családi kedvezmény adóelőleg-alap terhére nem érvényesíthető értékének az adó mértékével (8. §) meghatározott összege a Tbj. szerinti szabályok alkalmazásával családi járulékkedvezményként vehető igénybe.
+
 (4) Ha a magánszemély az adóévben megszerzett bármely bevételét terhelő adóelőleg megállapításához tett nyilatkozatában
 
 a) tételes igazolással elszámolható költség levonását kérte, és a nyilatkozat alapján levont költség meghaladja az összevont adóalap megállapításánál e törvény rendelkezései szerint az adóbevallásban elszámolt igazolt költséget, akkor a költség-különbözet 39 százalékát;
@@ -55,5 +63,7 @@ b) a nyilatkozattételkor fennálló körülmények ellenére négy vagy több g
 különbözeti-bírságként az adóévre vonatkozó bevallásban külön kötelezettségként kell feltüntetnie, és a személyi jövedelemadó-fizetési kötelezettség szerint kell megfizetnie. Nem kell e rendelkezést alkalmazni, ha a költség-különbözet az adóelőleg megállapításánál figyelembe vett költség összegének 5 százalékát, a befizetési különbözet a 10 ezer forintot nem haladja meg.
 
 (4a) A fiatal a (3d) bekezdés szerinti nyilatkozatot – megjelölve abban azt az összeget, amelyre nem kéri a 25 év alatti fiatalok kedvezménye érvényesítését – akkor tesz, ha a nyilatkozat hiányában az adóév egészére vonatkozóan keletkező befizetési különbözet a 10 ezer forintot meghaladná. Ha a fiatal a (3d) bekezdés szerint nem tesz nyilatkozatot, és a nyilatkozata hiányában keletkező befizetési különbözet az adóévben a 10 ezer forintot meghaladja, a befizetési különbözet után a fiatal az adóévre vonatkozó bevallásában külön feltüntetve 12 százalék különbözeti-bírságot állapít meg, amelyet a személyi jövedelemadó-fizetési kötelezettségre vonatkozó rendelkezések szerint fizet meg.
+
+(4b) A 30 év alatti anya a (3g) bekezdés szerinti nyilatkozatát visszavonja, ha a visszavonás hiányában az adóév egészére vonatkozóan keletkező befizetési különbözet a 10 ezer forintot meghaladná. Ha a 30 év alatti anya nem tesz visszavonó nyilatkozatot, és a visszavonás hiányában keletkező befizetési különbözet az adóévben a 10 ezer forintot meghaladja, a befizetési különbözet után a 30 év alatti anya az adóévre vonatkozó bevallásában külön feltüntetve 12 százalék különbözeti bírságot állapít meg, amelyet a személyi jövedelemadó-fizetési kötelezettségre vonatkozó rendelkezések szerint fizet meg.
 
 (5) Az adóelőleg-levonásra kötelezett kifizető a kifizetést megelőzően tájékoztatja a magánszemélyt az adóelőleg-nyilatkozat lehetőségéről és az adott vagy nem adott nyilatkozat következményeiről.

@@ -34,6 +34,8 @@ j) textil, szőrme mosása, tisztítása (TESZOR 96.01), fodrászat, szépségá
 
 k) a kereskedelmi tevékenységek végzésének feltételeiről szóló kormányrendelet alapján folytatott vendéglátó tevékenység (TESZOR 56).
 
+l) személygépjármű-vezető képzés tevékenység (TESZOR’08 85.53.11).
+
 (3) Abban az esetben, ha az egyéni vállalkozó tevékenysége év közben oly módon változik, hogy a korábban alkalmazott költséghányad alkalmazására már nem jogosult, a változás időpontjában az év első napjára visszamenőlegesen át kell térnie a tevékenységének megfelelő alacsonyabb költséghányad alkalmazására.
 
 (4) Ha az adóévre átalányadózást választó egyéni vállalkozó elhunyt és a tevékenységét folytató özvegye vagy örököse, vagy egyesített tevékenység esetén az özvegye vagy az örököse is az átalányadózást választotta, akkor az elhunyt esetében az elhalálozás napjáig elért bevétel alapján átalányban megállapított jövedelmet – az időarányos bevételi értékhatár figyelmen kívül hagyásával – az elhunyt által megszerzett jövedelemnek kell tekinteni azzal, hogy az elhunyt által elért bevétel beleszámít az özvegy vagy az örökös esetében az átalányadó alkalmazásának feltételéül megjelölt bevételi értékhatárba.

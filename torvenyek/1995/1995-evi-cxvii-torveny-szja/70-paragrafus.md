@@ -24,15 +24,7 @@ d) az olyan adómentesnek, üzleti ajándéknak nem tekinthető üzletpolitikai 
 
 azzal, hogy a kifizető rosszhiszemű vagy jogszerűtlen eljárása esetén a kiszabható mulasztási bírság az adóalap 50 százaléka.
 
-(7) Egyes meghatározott juttatásnak minősül
-
-a) a 71. § (1) bekezdés szerinti juttatásnak az ott meghatározott értékhatárt meghaladó része;
-
-b) a 71. § (1) bekezdés szerint – az ott meghatározott értékhatárokat meg nem haladóan – az adóévben biztosított juttatások együttes értékének az éves rekreációs keretösszeget meghaladó része;
-
-c) a 71. § (2) bekezdés a) pont szerinti juttatásnak az ott meghatározott értékhatárt meghaladó része;
-
-d) a 71. § (2) bekezdés b) pont szerinti juttatásnak az ott meghatározott értékhatárt meghaladó része.
+(7) Egyes meghatározott juttatásnak minősül a 71. § (1) bekezdése szerinti juttatásnak a rekreációs keretösszeget meghaladó része.
 
 (8) A (7) bekezdés b) pont alkalmazásában az éves rekreációs keretösszeg
 

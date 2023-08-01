@@ -34,7 +34,19 @@ b) a vállalkozói bevételből, ha az egyéni vállalkozó az e bevételéről 
 
 c) lakás bérbeadásából származó bevételből, ha a magánszemély nyilatkozik arról, hogy a 17. § (5) bekezdését alkalmazza.
 
-(5) Az adóelőleg-megállapításra kötelezett kifizető a levont adóelőlegről igazolást ad a magánszemélynek, amelyen feltünteti az adóelőleg alapját és az abban figyelembe vett négy vagy több gyermeket nevelő anyák kedvezményét, a 25 év alatti fiatalok kedvezményét, a személyi kedvezményt, az első házasok kedvezményét, a családi kedvezményt.
+(5) Az adóelőleg-megállapításra kötelezett kifizető a levont adóelőlegről igazolást ad a magánszemélynek, amelyen feltünteti az adóelőleg alapját és az abban figyelembe vett
+
+a) négy vagy több gyermeket nevelő anyák kedvezményét,
+
+b) 25 év alatti fiatalok kedvezményét,
+
+c) 30 év alatti anyák kedvezményét,
+
+d) személyi kedvezményt,
+
+e) első házasok kedvezményét,
+
+f) családi kedvezményt.
 
 (6) Az adóelőleg-megállapításra kötelezett kifizető
 
