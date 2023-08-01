@@ -1,20 +1,20 @@
-## 88/A. §[^80] Egyéni vállalkozó az E-ügyintézési tv. 14. §-a szerinti hivatalos elérhetőségként a Kormány által biztosított tárhelyek közül a KÜNY-regisztrációhoz kapcsolódó tárhelyét jelenti be a rendelkezési nyilvántartásba.
+## 88/A. §[^81] Egyéni vállalkozó az E-ügyintézési tv. 14. §-a szerinti hivatalos elérhetőségként a Kormány által biztosított tárhelyek közül a KÜNY-regisztrációhoz kapcsolódó tárhelyét jelenti be a rendelkezési nyilvántartásba.
 
 ## Gazdálkodó szervezetek számára biztosított tárhely
 
-89. § (1)[^81] A kézbesítési szolgáltatáshoz kötődő, biztonságos kézbesítési szolgáltatási címnek minősülő, a kijelölt szolgáltató által a gazdálkodó szervezetek számára biztosított tárhelyre (a továbbiakban: cégkapu) a hivatali tárhelyre vonatkozó rendelkezések az e §-ban foglalt eltérésekkel alkalmazandók. A gazdálkodó szervezet egy cégkapuval rendelkezik. A gazdálkodó szervezet adószámmal rendelkező szervezeti egysége jogosult további cégkapu regisztrálására, mely esetben a gazdálkodó szervezetre vonatkozó rendelkezések az adószámmal rendelkező szervezeti egység tekintetében alkalmazandók.
+89. § (1)[^82] A kézbesítési szolgáltatáshoz kötődő, biztonságos kézbesítési szolgáltatási címnek minősülő, a kijelölt szolgáltató által a gazdálkodó szervezetek számára biztosított tárhelyre (a továbbiakban: cégkapu) a hivatali tárhelyre vonatkozó rendelkezések az e §-ban foglalt eltérésekkel alkalmazandók. A gazdálkodó szervezet egy cégkapuval rendelkezik. A gazdálkodó szervezet adószámmal rendelkező szervezeti egysége jogosult további cégkapu regisztrálására, mely esetben a gazdálkodó szervezetre vonatkozó rendelkezések az adószámmal rendelkező szervezeti egység tekintetében alkalmazandók.
 
 (2) Gazdálkodó szervezet nevében a cégkapu-regisztrációt a gazdálkodó szervezet képviseletére jogosult természetes személy kezdeményezheti.
 
-(3)[^82] A cégkapu regisztrációja osztott. A szolgáltató kizárólag a cégkapu kezelésére az adott gazdálkodó szervezetnél felhatalmazott természetes személyt (a továbbiakban: cégkapumegbízott) regisztrálja, az adott gazdálkodó szervezet nevében a cégkapu igénybevételével elektronikus kapcsolattartásra jogosult további felhasználók (a továbbiakban: a gazdálkodó szervezet nevében eljárni jogosult személyek) regisztrációját a cégkapumegbízott végzi.
+(3)[^83] A cégkapu regisztrációja osztott. A szolgáltató kizárólag a cégkapu kezelésére az adott gazdálkodó szervezetnél felhatalmazott természetes személyt (a továbbiakban: cégkapumegbízott) regisztrálja, az adott gazdálkodó szervezet nevében a cégkapu igénybevételével elektronikus kapcsolattartásra jogosult további felhasználók (a továbbiakban: a gazdálkodó szervezet nevében eljárni jogosult személyek) regisztrációját a cégkapumegbízott végzi.
 
-(3a)[^83] A gazdálkodó szervezet nevében eljárni jogosult személyeknek a (3) bekezdés szerinti regisztrációja az érintett elfogadó nyilatkozatával válik hatályossá.
+(3a)[^84] A gazdálkodó szervezet nevében eljárni jogosult személyeknek a (3) bekezdés szerinti regisztrációja az érintett elfogadó nyilatkozatával válik hatályossá.
 
 (4) A szolgáltató a (3) bekezdés szerinti személyeket nyilvántartja és biztosítja számukra a hozzáférést a KAÜ-n keresztüli azonosítást követően a cégkapuhoz.
 
 (5) A cégkapu szolgáltató – ha a gazdálkodó szervezet ezzel ellentétesen nem rendelkezik – a gazdálkodó szervezet nevében a cégkapu címet a rendelkezési nyilvántartásba, mint a gazdálkodó szervezet hivatalos elérhetősége, bejelenti. Ha a gazdálkodó szervezet működéséhez jogszabály által rendszeresített nyilvántartásba vétele szükséges, a cégkapu szolgáltató e jogosultságával csak akkor él, ha a gazdálkodó szervezet a rá vonatkozó nyilvántartásban szerepel.
 
-(6)[^84] A cégkapu használója
+(6)[^85] A cégkapu használója
 
 a) azon keresztül a gazdálkodó szervezet nevében tevékenységet végző, elektronikus azonosítás szolgáltatás útján magát azonosító természetes személy, valamint
 
@@ -26,7 +26,7 @@ lehet.
 
 (8) A cégkapu-megszüntetésre vonatkozó állapot bekövetkezéséről a rendelkezési nyilvántartást vezető szerv a cégkapu szolgáltatót tájékoztatja.
 
-(9)[^85] A gazdálkodó szervezet küldemény átvételére jogosult meghatalmazottjának kell tekinteni:
+(9)[^86] A gazdálkodó szervezet küldemény átvételére jogosult meghatalmazottjának kell tekinteni:
 
 a) azt a dokumentumot vagy kézbesítési esemény igazolását fogadó személyt, aki részére a cégkapumegbízott az adott cégkapuhoz hozzáférést biztosított vagy
 
@@ -36,22 +36,22 @@ Vélelmezni kell azt is, hogy a cégkapuról érkező küldemény az adott cégk
 
 (10) A gazdálkodó szervezet nevében történő eljárási jogosultság megszűnésekor a cégkapumegbízott törli a nyilvántartásból a korábban feljogosított személy azonosító adatait, illetve a hozzáférési jogosultságait.
 
-(10a)[^86] A gazdálkodó szervezet nevében eljárni jogosult a cégkapu felületén jelezheti az azonosító adatai, illetve a hozzáférési jogosultságai törlésének igényét a cégkapumegbízott felé.
+(10a)[^87] A gazdálkodó szervezet nevében eljárni jogosult a cégkapu felületén jelezheti az azonosító adatai, illetve a hozzáférési jogosultságai törlésének igényét a cégkapumegbízott felé.
 
-(10b)[^87] A cégkapumegbízott megvizsgálja a (10a) bekezdés szerinti igény indokoltságát, és ennek megfelelően a (10) bekezdés szerint jár el, vagy az igényt elutasítja.
+(10b)[^88] A cégkapumegbízott megvizsgálja a (10a) bekezdés szerinti igény indokoltságát, és ennek megfelelően a (10) bekezdés szerint jár el, vagy az igényt elutasítja.
 
-(10c)[^88] Ha a cégkapumegbízott a (10a) bekezdés szerinti jelzés megtételétől számított 30 napig nem jár el a (10b) bekezdésben foglaltaknak megfelelően, a szükséges intézkedést a cégkapu-szolgáltató teszi meg.
+(10c)[^89] Ha a cégkapumegbízott a (10a) bekezdés szerinti jelzés megtételétől számított 30 napig nem jár el a (10b) bekezdésben foglaltaknak megfelelően, a szükséges intézkedést a cégkapu-szolgáltató teszi meg.
 
 (11) A gazdálkodó szervezet a cégkapumegbízott jogosultságának megszűnéséről 5 munkanapon belül, az új cégkapumegbízott bejelentésével egyidejűleg köteles értesíteni a szolgáltatót.
 
 (12) A szolgáltató a cégkapumegbízottakról történeti nyilvántartást vezet, hogy tanúsítani lehessen, adott időszakban ki volt feljogosítva a cégkapu kezelésére.
 
-[^80]: A 88/A. §-t a 221/2017. (VIII. 7.) Korm. rendelet 7. § (2) bekezdése iktatta be.
-[^81]: A 89. § (1) bekezdése a 618/2022. (XII. 29.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
-[^82]: A 89. § (3) bekezdése a 361/2017. (XI. 30.) Korm. rendelet 6. § i) pontja szerint módosított szöveg.
-[^83]: A 89. § (3a) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 97. § (1) bekezdése iktatta be.
-[^84]: A 89. § (6) bekezdése a 179/2018. (X. 2.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
-[^85]: A 89. § (9) bekezdése a 179/2018. (X. 2.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
-[^86]: A 89. § (10a) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 97. § (2) bekezdése iktatta be.
-[^87]: A 89. § (10b) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 97. § (2) bekezdése iktatta be.
-[^88]: A 89. § (10c) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 97. § (2) bekezdése iktatta be.
+[^81]: A 88/A. §-t a 221/2017. (VIII. 7.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^82]: A 89. § (1) bekezdése a 618/2022. (XII. 29.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^83]: A 89. § (3) bekezdése a 361/2017. (XI. 30.) Korm. rendelet 6. § i) pontja szerint módosított szöveg.
+[^84]: A 89. § (3a) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 97. § (1) bekezdése iktatta be.
+[^85]: A 89. § (6) bekezdése a 179/2018. (X. 2.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^86]: A 89. § (9) bekezdése a 179/2018. (X. 2.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^87]: A 89. § (10a) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 97. § (2) bekezdése iktatta be.
+[^88]: A 89. § (10b) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 97. § (2) bekezdése iktatta be.
+[^89]: A 89. § (10c) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 97. § (2) bekezdése iktatta be.

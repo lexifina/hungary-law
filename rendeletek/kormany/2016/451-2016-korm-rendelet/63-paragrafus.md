@@ -1,5 +1,3 @@
-## 62. § Vélelmezni kell, hogy a SZEÜSZ-t, valamint KEÜSZ-t az arra feljogosított személy használja.
-
 ## Egységes működés, együttműködési képesség
 
 63. § (1) A szolgáltatók a SZEÜSZ-öket, KEÜSZ-öket úgy alakítják ki és úgy szolgáltatják, hogy azok alkalmasak legyenek az elektronikus ügyintézést biztosító és az együttműködő szervek informatikai rendszerei közötti együttműködésre.

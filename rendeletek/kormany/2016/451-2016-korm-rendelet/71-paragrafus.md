@@ -8,7 +8,7 @@ b) részleges kódú telefonos azonosítás esetében felhasználói azonosító
 
 c) ügyfélkapu esetében a felhasználói neve és jelszava vagy ezek mellett még a választott második hitelesítési tényező
 
-d)[^48] videotechnológián keresztül történő azonosítás (a továbbiakban: VKTA) esetében személyazonosság igazolására alkalmas hatósági igazolványa bemutatásával és videojellel készített arcképének a nyilvántartásban tárolt arcképével való összevetésének
+d)[^49] videotechnológián keresztül történő azonosítás (a továbbiakban: VKTA) esetében személyazonosság igazolására alkalmas hatósági igazolványa bemutatásával és videojellel készített arcképének a nyilvántartásban tárolt arcképével való összevetésének
 
 alkalmazásával azonosítja magát.
 
@@ -24,4 +24,4 @@ a) a KÜNY-ben való regisztráció megszűnésével,
 
 b) a felhasználó ez irányú kérelmére.
 
-[^48]: A 71. § (1) bekezdés d) pontját az 572/2020. (XII. 9.) Korm. rendelet 90. §-a iktatta be.
+[^49]: A 71. § (1) bekezdés d) pontját az 572/2020. (XII. 9.) Korm. rendelet 90. §-a iktatta be.

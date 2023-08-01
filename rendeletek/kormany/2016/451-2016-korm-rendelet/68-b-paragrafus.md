@@ -2,7 +2,7 @@
 
 (2) A PKASZ szolgáltatója a vele azonos tartalmú SZEÜSZ vagy KEÜSZ szolgáltatója (a továbbiakban együtt: kijelölt szolgáltató).
 
-(3)[^46] Az (1) bekezdés szerinti piaci szereplő a PKASZ-hoz a 2. melléklet szerint kialakított díj megfizetése ellenében, a kijelölt szolgáltató által közzétett általános szerződési feltételekben foglaltak elfogadásával csatlakozhat.
+(3)[^47] Az (1) bekezdés szerinti piaci szereplő a PKASZ-hoz a 2. melléklet szerint kialakított díj megfizetése ellenében, a kijelölt szolgáltató által közzétett általános szerződési feltételekben foglaltak elfogadásával csatlakozhat.
 
 (4) A Központi Kormányzati Szolgáltatás Busz, valamint a Kormány által biztosított szabályozott elektronikus azonosítási szolgáltatásokat, az összerendelési nyilvántartás és a központi azonosítási ügynök szolgáltatást, valamint a szolgáltatások használatához technikailag szükséges, a kormányzati hitelesítés szolgáltató által nyújtott tanúsítványszolgáltatást az E-ügyintézési tv. 1. § 30a. pontjában szabályozott központi állami szolgáltatásként díjmentesen veheti igénybe az a piaci szereplő, amely jogszabály alapján kötelezett, illetve jogosult
 
@@ -52,4 +52,4 @@ m) a mesterséges intelligenciával támogatott kommunikációs asszisztens.
 
 (8) Az (1) bekezdés szerinti piaci szereplő a PKASZ-hoz akkor csatlakozhat, ha a kijelölt szolgáltató kapacitásai rendelkezésre állnak-e szolgáltatások nyújtására. A kijelölt szolgáltató a csatlakozó szerv által megküldött tervezett kapacitásigényt figyelembe véve tesz javaslatot a felügyeletnek a csatlakozásra.
 
-[^46]: A 68/B. § (3) bekezdése a 618/2022. (XII. 29.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^47]: A 68/B. § (3) bekezdése a 618/2022. (XII. 29.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
