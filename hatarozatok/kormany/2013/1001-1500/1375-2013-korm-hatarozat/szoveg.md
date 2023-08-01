@@ -12,7 +12,7 @@ c) szükség szerint a Bizottság elnöke útján javaslatot tesz a jogi, közga
 
 3. A Bizottság tagjai
 
-a) a belügyminiszter, a honvédelmi miniszter, a közigazgatási és igazságügyi miniszter, a külügyminiszter, az egészségügyért felelős miniszter, a nemzeti fejlesztési miniszter, a nemzetgazdasági miniszter, a környezetvédelemért felelős miniszter,
+a)[^1] a belügyminiszter, a honvédelmi miniszter, az igazságügyi miniszter, az európai uniós ügyekért felelős miniszter, a külügyminiszter, az egészségügyért felelős miniszter, a nemzeti fejlesztési miniszter, a nemzetgazdasági miniszter, a környezetvédelemért felelős miniszter,
 
 b) a Központi Statisztikai Hivatal elnöke,
 
@@ -53,3 +53,5 @@ f) az érintett minisztériumnak a Program következő évére szóló prioritá
 10. A Program végrehajtását és az előrehaladás nyomon követését a kormányzaton kívüli jövedelemtulajdonosok (helyi önkormányzatok, gazdálkodó szervezetek, háztartások) ráfordításainak felmérésével, a támogatási rendszerek adatainak feldolgozásával és elemzésével is elő kell segíteni, melyet a környezetvédelemért felelős miniszter az érintett miniszterek és a Központi Statisztikai Hivatal bevonásával készít el.
 
 11. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 3. pont a) pontja az 1340/2023. (VII. 31.) Korm. határozat 3. pontja szerint módosított szöveg.
