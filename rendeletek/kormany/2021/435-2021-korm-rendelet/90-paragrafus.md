@@ -1,3 +1,5 @@
-90. §[^48]
+90. § (1) A NÉBIH az FBB-t a nyilvántartásból törli, ha az adott borpiaci évben az OBB az 50. § (2) bekezdése és az 54. § (3) bekezdése alapján végzett érzékszervi vizsgálata eredményeként az FBB által elvégzett érzékszervi vizsgálatokkal érintett bortételek több mint 50%-ának minősítését megváltoztatja.
 
-[^48]: A 90. § a 93. § (3) bekezdése alapján 2023. augusztus 1-jén lép hatályba.
+(2) Ha a NÉBIH egy földrajzi árujelző termékleírásában az érzékszervi vizsgálatok elvégzésére kijelölt FBB-t törli az 53. § (2) bekezdése szerinti nyilvántartásból, az érzékszervi vizsgálatot az FBB ismételt nyilvántartásba vételéig, de legfeljebb 6 hónapig a termékleírás külön módosítása nélkül a NÉBIH által létrehozott és működtetett FBB végzi.
+
+(3) A nyilvántartásból a (2) bekezdés alapján törölt FBB az egyéb feltételek változatlan fennállása esetén a törléstől számított 6 hónapon belül kérelmezheti a nyilvántartásba történő újbóli felvételét, ha igazolja, hogy a borbíráló szakvizsgával rendelkező tagjainak száma legalább 10%-kal növekedett, és meghaladja a borbíráló szakvizsgával nem rendelkező tagok számát.

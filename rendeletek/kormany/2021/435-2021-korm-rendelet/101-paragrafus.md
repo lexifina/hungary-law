@@ -1,4 +1,4 @@
-## 100. §[^55] A 75. § (1) bekezdésében foglaltaktól eltérően a 2023. július 31-ig az elektronikusan teljesítendő ágazati adminisztrációs kötelezettségnek a 75. § (3) bekezdése alkalmazásával ügyfélszolgálaton keresztül is eleget lehet tenni.
+## 100. §[^54] A 75. § (1) bekezdésében foglaltaktól eltérően a 2023. július 31-ig az elektronikusan teljesítendő ágazati adminisztrációs kötelezettségnek a 75. § (3) bekezdése alkalmazásával ügyfélszolgálaton keresztül is eleget lehet tenni.
 
 ## 45. Az Európai Unió jogának való megfelelés
 
@@ -18,4 +18,4 @@ f) az 1308/2013/EU európai parlamenti és tanácsi rendeletnek az alkoholtartal
 
 g) az 1308/2013/EU európai parlamenti és tanácsi rendeletnek a szőlőből készült termékek fizikai, kémiai és érzékszervi jellemzőinek meghatározására szolgáló analitikai módszerek, valamint a természetes alkoholtartalom növelésére vonatkozó tagállami határozatokról szóló értesítések tekintetében történő alkalmazására vonatkozó szabályok megállapításáról szóló, 2019. április 16-i (EU) 2019/935 bizottsági végrehajtási rendelet
 
-[^55]: A 100. § a 316/2022. (VIII. 16.) Korm. rendelet 21. § i) pontja szerint módosított szöveg.
+[^54]: A 100. § a 316/2022. (VIII. 16.) Korm. rendelet 21. § i) pontja szerint módosított szöveg.
