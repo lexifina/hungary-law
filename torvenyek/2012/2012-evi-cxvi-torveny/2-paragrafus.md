@@ -24,7 +24,7 @@
 
 11. kiemelt közvetítői tevékenység: a Hpt. szerint meghatározott kiemelt közvetítői tevékenység;
 
-12. korlátozott rendeltetésű fizetési számla: a Pft. 21. § (2) bekezdése, továbbá a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 67/B. §-a alapján lekötött pénzösszeg, a fiatalok életkezdési támogatásáról szóló 2005. évi CLXXIV. törvény, a nyugdíj-előtakarékossági számlákról szóló 2005. évi CLVI. törvény hatálya alá tartozó számlák, az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 81. § (1) bekezdésében meghatározott számlák és az azokkal összefüggésben vezetett elosztási számlák, a Kormány rendelete szerinti fedezetkezelői számlák, a letéti típusú számlák, valamint az online elszámolóházak fizetésközvetítésre fenntartott fizetési számlája, valamint a helyi iparűzési adó devizában történő megfizetésével kapcsolatosan a kincstárban vezetett technikai számla;
+12. korlátozott rendeltetésű fizetési számla: a Pft. 21. § (2) bekezdése, továbbá a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) 67/B. §-a alapján lekötött pénzösszeg, a fiatalok életkezdési támogatásáról szóló 2005. évi CLXXIV. törvény, a nyugdíj-előtakarékossági számlákról szóló 2005. évi CLVI. törvény hatálya alá tartozó számlák, az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 81. § (1) bekezdésében meghatározott számlák és az azokkal összefüggésben vezetett elosztási számlák, a Kormány rendelete szerinti fedezetkezelői számlák, a letéti típusú számlák, valamint az online elszámolóházak fizetésközvetítésre fenntartott fizetési számlája, valamint a helyi iparűzési adó devizában történő megfizetésével kapcsolatosan a kincstárban vezetett technikai számla;
 
 13. kölcsöntörlesztés: az a művelet, amelynek során a pénzforgalmi szolgáltató az ügyfele nála vezetett fizetési számláját kölcsönszerződés alapján fennálló követelése részbeni vagy teljes kielégítése céljából megterheli, továbbá az a művelet, amelynek során a pénzforgalmi szolgáltatónak nem minősülő, hitelt és pénzkölcsönt nyújtó pénzügyi intézménnyel fennálló kölcsönszerződés alapján fennálló kötelezettségét házipénztárába vagy fizetési számlájára az ügyfele készpénz megfizetésével részben vagy teljesen kielégíti, ide nem értve a Posta Elszámoló Központot működtető intézmény útján kezdeményezett készpénzbefizetést;
 
@@ -45,3 +45,11 @@
 21. fizetőeszköz útján történő eladás: külföldi fizetőeszköz, vagy törvényes fizetőeszköz eladása a pénzváltási tevékenység végzésére jogosult hitelintézet, a pénzváltás közvetítésére jogosult kiemelt közvetítő útján,
 
 22. pénzügyi szolgáltatásból eredő ügyfélkövetelés állomány: a hitelintézetek és a pénzügyi vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságáról szóló kormányrendeletben meghatározott pénzügyi szolgáltatásból eredő követelés, vagy az éves beszámolóját, a könyvviteli zárlatát a számvitelről szóló 2000. évi C. törvény 3. § (10) bekezdés 2. pontjában meghatározott IFRS-ek szerint összeállító adózónál – külön e célra szolgáló nyilvántartás alapján – az ennek megfeleltethető összeg.
+
+23. ügyfél illetőségének helye: az az állam, ahol
+
+a) a természetes személynek az Szja tv. szerinti illetőségi helye található, figyelembe véve az Szja tv. 7. számú melléklet 6. pontjában foglaltakat is,
+
+b) a jogi személynek vagy egyéb jogi megállapodásnak a székhelye található, azzal, hogy az olyan jogi személyt és az olyan egyéb jogi megállapodást, amely nem rendelkezik adóügyi illetőséggel vagy adóügyi illetőségeként a tényleges üzletvezetési helyét jelölte meg, a tényleges üzletvezetési helye szerinti joghatóságban kell illetőséggel rendelkezőnek tekinteni;
+
+24. határon átnyúló szolgáltatás: a Hpt. szerinti határon átnyúló szolgáltatás.

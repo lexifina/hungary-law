@@ -52,8 +52,4 @@ r) a természetes személyek fizetési számlája és a kincstár által államp
 
 s)
 
-(5) A (4) bekezdés n) pontja alkalmazása során a pénzforgalmi szolgáltató a nem magyar (a más tagállambeli vagy más állambeli) illetőség meghatározásához
-
-a) természetes személy esetén a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 7. számú melléklet 6. pontjában foglalt szabályokat veszi figyelembe,
-
-b) a jogi személy vagy egyéb jogi megállapodás esetén a székhely, illetve a tényleges üzletvezetés helye szerinti joghatóságot veszi figyelembe, azzal, hogy az olyan jogi személyt és az olyan egyéb jogi megállapodást, amely nem rendelkezik adóügyi illetőséggel, a tényleges üzletvezetési helye szerinti joghatóságban illetőséggel rendelkezőnek kell tekinteni.
+(5)

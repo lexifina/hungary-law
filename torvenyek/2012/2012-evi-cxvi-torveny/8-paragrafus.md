@@ -4,6 +4,10 @@
 
 (2) A pénzforgalmi szolgáltató, a pénzforgalmi szolgáltatónak nem minősülő, hitelt és pénzkölcsönt nyújtó pénzügyi intézmény, a pénzváltási tevékenység végzésére jogosult hitelintézet és a pénzváltás közvetítésére jogosult kiemelt közvetítő az egyes műveletek utáni pénzügyi tranzakciós illeték összegét a számviteli elszámolási elvekkel összhangban, a belső szabályzataiban meghatározott módon állapítja meg, 1000 forintra kerekítve vallja be és fizeti meg.
 
+(2a) Az (1) és (2) bekezdés rendelkezéseit az 1. § (1) bekezdés b) pontja szerinti személy is alkalmazza.
+
+(2b) Az 1. § (1) bekezdés b) pontja szerinti személy az állami adóhatósági nyilvántartásba vétele érdekében az állami adóhatóság által rendszeresített külön nyomtatványon köteles az állami adóhatósághoz bejelentkezni az alannyá válás napját követő hónap 1. napjáig. Az állami adóhatóság a bejelentkezés alapján nyilvántartásba veszi az 1. § (1) bekezdés b) pontja szerinti személyt.
+
 (3) Az a pénzforgalmi szolgáltató, amelynél a pénzügyi szolgáltatásból eredő ügyfélkövetelés állomány az adóévet megelőző második adóévre vonatkozó beszámoló mérlegfordulónapja és az adóévre vonatkozó beszámoló mérlegfordulónapja között legalább 20 százalékkal növekedett, az adóévre fizetendő tranzakciós illeték összegét a (4)–(7) bekezdésben meghatározottak szerint csökkentheti. Ha a pénzforgalmi szolgáltató 2014. december 31-ét követően jogelőd nélkül jött létre, a (4)–(7) bekezdésben meghatározott csökkentést legkorábban az első adóévét követő harmadik adóévtől kezdődően érvényesítheti, ha a pénzügyi szolgáltatásból eredő ügyfélkövetelés állománya az adóévet megelőző második adóévére vonatkozó beszámoló mérlegfordulónapja és az érvényesítés adóévére vonatkozó beszámoló mérlegfordulónapja között legalább 20 százalékkal növekedett.
 
 (4) A (3) bekezdés alapján igénybe vehető csökkentés összege (továbbiakban: kedvezmény) a pénzügyi szolgáltatásból eredő ügyfélkövetelés állomány növekedésének 0,6 százaléka.

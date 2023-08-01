@@ -2,7 +2,7 @@
 
 7. § (1) A pénzügyi tranzakciós illeték mértéke
 
-a) az e)–f) pont szerinti kivétellel a pénzügyi tranzakciós illeték alapjának 0,3 százaléka, de fizetési műveletenként legfeljebb 6 ezer forint,
+a) az e)–f) pont szerinti kivétellel a pénzügyi tranzakciós illeték alapjának 0,3 százaléka, de fizetési műveletenként legfeljebb 10 ezer forint,
 
 b) a h) pont szerinti kivétellel a pénzügyi tranzakciós illeték alapjának 0,3 százaléka, ha az illetékfizetésre a Posta Elszámoló Központot működtető intézmény kötelezett,
 
@@ -16,7 +16,7 @@ f) az érintés nélküli fizetési funkcióval rendelkező készpénz-helyettes
 
 g)
 
-h) a pénzügyi tranzakciós illeték alapjának 0,3 százaléka, de fizetési műveletenként legfeljebb 6 ezer forint a 6. § (1) bekezdés c) pontja esetében átutalásonként, illetve kifizetésenként, ha az illetékfizetésre a Posta Elszámoló Központot működtető intézmény kötelezett,
+h) a pénzügyi tranzakciós illeték alapjának 0,3 százaléka, de fizetési műveletenként legfeljebb 10 ezer forint a 6. § (1) bekezdés c) pontja esetében átutalásonként, illetve kifizetésenként, ha az illetékfizetésre a Posta Elszámoló Központot működtető intézmény kötelezett,
 
 (2) Az (1) bekezdés alkalmazásában a csoportos átutalás egyes átutalási megbízásai és a csoportos beszedési megbízás egyes beszedési megbízásai önálló fizetési műveletnek minősülnek.
 
