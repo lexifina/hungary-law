@@ -46,44 +46,47 @@ g) ellátja a szakfordító és tolmácstevékenység ágazati irányítását,
 
 h) fejleszti és felügyeli az igazságügyi informatikai rendszerek működését, és kialakítja az igazságügyi statisztika rendszerét.
 
-(9) A miniszter az igazságügyért való felelőssége keretében
+(9)[^47] A miniszter az igazságügyért való felelőssége keretében
 
 a) ellátja az Európai Unió keretében megvalósuló igazságügyi együttműködéssel kapcsolatos feladatokat,
 
-b) összehangolja az Európai Unió jogának való megfelelés céljából folytatott jogharmonizációs tevékenységet, ennek keretében
+b) – az európai uniós ügyekért felelős miniszterrel együttműködve – összehangolja az Európai Unió jogának való megfelelés céljából folytatott jogharmonizációs tevékenységet, ennek keretében
 
 ba) gondoskodik a jogharmonizációs tevékenység elvi, módszertani és terminológiai egységességéről,
 
-bb) kidolgozza a jogharmonizáció programozásának rendjét, figyelemmel kíséri és előmozdítja a jogharmonizációs feladatok teljesítését, és intézkedik a lejárt határidejű jogharmonizációs feladatok teljesítése iránt, jogharmonizációs adatbázist vezet,
+bb) kidolgozza a jogharmonizáció programozásának rendjét, figyelemmel kíséri és előmozdítja a jogharmonizációs feladatok teljesítését, gondoskodik az uniós jogi aktust átültető jogszabályoknak az Európai Bizottság részére történő bejelentéséről, és intézkedik a lejárt határidejű jogharmonizációs feladatok teljesítése iránt, jogharmonizációs adatbázist vezet,
 
 bc) jogszabály megalkotására irányuló előterjesztéshez kapcsolódóan nyilatkozik arról, hogy a tervezet összeegyeztethető-e az Európai Unió jogával,
 
-bd) ellátja a kereskedelem, illetve az áruk szabad áramlása akadályaival kapcsolatban, jogszabályban meghatározott értesítési és bejelentési eljárásokban az egyes nemzetközi szervezetek, az Európai Unió intézményei és tagállamai felé megteendő, illetve az ezektől érkező értesítések és bejelentések továbbításával összefüggő feladatokat,
+c) az Európa Tanács keretei között
 
-be) ellátja az Európai Unió egységes belső piacának hatékony működéséhez szükséges belső piaci koordinációval kapcsolatos feladatokat, működteti a belső piaci problémamegoldó központot (SOLVIT), valamint a belső piaci információs rendszert és a Szolgáltatási Notifikációs Központot,
+ca) felel a jogi együttműködésért,
 
-bf) – a Kormány eljárás tárgya szerint felelős tagjával együttműködve – ellátja a Kormány képviseletét az Európai Unió jogának megsértése miatt indult eljárásoknak az Európai Unió Bírósága előtti eljárást megelőző szakaszaiban (ideértve a kötelezettségszegési eljárás megindítása előtti szakaszban az Európai Bizottsággal történő egyeztetést is), koordinálja a képviselet ellátásához szükséges iratok előkészítését, valamint elkészíti és benyújtja a beadványokat,
+cb) – a Kormány eljárás tárgya szerint felelős tagjával együttműködve – ellátja a Kormány képviseletét az Európai Emberi Jogi Bíróság előtti eljárásokban, és koordinálja a képviselet ellátásához szükséges iratok előkészítését, valamint elkészíti a beadványokat,
 
-c) az Európai Unió Bírósága előtti eljáráshoz kapcsolódóan
+cc) kezdeményezi az igazságügyi tárgyú nemzetközi egyezményeknek az Európa Tanács keretében történő létrehozását és gondoskodik az Európa Tanács keretében létrehozott igazságügyi tárgyú nemzetközi egyezmények elfogadásáról és az ajánlások gyakorlati megvalósításáról,
 
-ca) – a Kormány eljárás tárgya szerint felelős tagjával együttműködve – ellátja a Kormány képviseletét az Európai Unió Bírósága előtti eljárásokban,
+d) együttműködik a Kormány feladatkörében érintett tagjával a nemzetközi szerződések előkészítésével, kötelező hatályának elismerésére adott felhatalmazással, kihirdetésével és értelmezésével kapcsolatban, valamint a nemzetközi szerződés szövegének végleges megállapítása előtt véleményezi a nemzetközi szerződést annak érdekében, hogy az megfeleljen az Alaptörvénynek, összeegyeztethető legyen az Európai Unió jogával és illeszkedjen a jogrendszerbe,
 
-cb) koordinálja a képviselet ellátásához szükséges iratok előkészítését, valamint elkészíti a beadványokat,
+e) felel a Magyarország által megkötött közjogi, polgári jogi, családjogi és büntetőjogi jogsegélyszerződések végrehajtásáért,
 
-cc) figyelemmel kíséri az eljárásokat és gondoskodik az ezekből esetlegesen következő jogalkotási feladatok meghatározásáról, programozásáról és teljesítésének ellenőrzéséről,
-
-d) az Európa Tanács keretei között
-
-da) felel a jogi együttműködésért,
-
-db) – a Kormány eljárás tárgya szerint felelős tagjával együttműködve – ellátja a Kormány képviseletét az Európai Emberi Jogi Bíróság előtti eljárásokban, és koordinálja a képviselet ellátásához szükséges iratok előkészítését, valamint elkészíti a beadványokat,
-
-dc) kezdeményezi az igazságügyi tárgyú nemzetközi egyezményeknek az Európa Tanács keretében történő létrehozását és gondoskodik az Európa Tanács keretében létrehozott igazságügyi tárgyú nemzetközi egyezmények elfogadásáról és az ajánlások gyakorlati megvalósításáról,
-
-e) együttműködik a Kormány feladatkörében érintett tagjával a nemzetközi szerződések előkészítésével, kötelező hatályának elismerésére adott felhatalmazással, kihirdetésével és értelmezésével kapcsolatban, valamint a nemzetközi szerződés szövegének végleges megállapítása előtt véleményezi a nemzetközi szerződést annak érdekében, hogy az megfeleljen az Alaptörvénynek, összeegyeztethető legyen az Európai Unió jogával és illeszkedjen a jogrendszerbe,
-
-f) felel a Magyarország által megkötött közjogi, polgári jogi, családjogi és büntetőjogi jogsegélyszerződések végrehajtásáért,
-
-g) koordinálja az alaptevékenysége szerint magánjogi, valamint nemzetközi magánjogi jogegységesítéssel foglalkozó nemzetközi szervezetekben való magyar részvétellel kapcsolatos feladatokat.
+f) koordinálja az alaptevékenysége szerint magánjogi, valamint nemzetközi magánjogi jogegységesítéssel foglalkozó nemzetközi szervezetekben való magyar részvétellel kapcsolatos feladatokat.
 
 (10) A miniszter a Kormány eseti döntése alapján felel a több miniszter feladatát érintő törvények előkészítéséért.
+
+(11)[^48] A miniszter az igazságügyért való felelőssége keretében gondoskodik a hazai jogszabályoknak az észszerű működés szempontjából történő tartalmi felülvizsgálatáról, ezzel összefüggésben
+
+a) ágazati és egyedi javaslatot tesz a Kormánynak
+
+aa) az állam működését meghatározó szabályozások egyszerűsítésére,
+
+ab) a jogszabályok technikai és tartalmi deregulációjára,
+
+ac) a közigazgatási hatósági és egyéb eljárások, szolgáltatások egységesítésére, egyszerűsítésére, korszerűsítésére, a működési gyakorlatok észszerű megújítására, ideértve azok elektronizálását, összehangolását és automatizálását is,
+
+b) közvetlen kapcsolatot tart a hazai szabályozásokat előkészítő és alkalmazó önálló szabályozó szervekkel, minisztériumokkal, központi és területi államigazgatási szervekkel, önkormányzatokkal, kamarákkal és egyéb költségvetési szervekkel,
+
+c) figyelemmel kíséri az állam működésének észszerűsítését elősegítő nemzetközi megoldásokat és gyakorlatokat.
+
+[^47]: A 122. § (9) bekezdése a 314/2023. (VII. 17.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^48]: A 122. § (11) bekezdését a 314/2023. (VII. 17.) Korm. rendelet 17. § (2) bekezdése iktatta be.

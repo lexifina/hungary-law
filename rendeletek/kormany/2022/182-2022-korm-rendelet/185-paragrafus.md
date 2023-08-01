@@ -1,4 +1,4 @@
-185. § A miniszterek helyettesítése a Kit. 21. § (3) bekezdésében meghatározott esetekben a következő rend szerint történik:
+185. §[^72] A miniszterek helyettesítése a Kit. 21. § (3) bekezdése szerinti esetben, valamint a Kit. 21. § (4) bekezdése szerinti esetben – törvényben meghatározott kivétellel – a következő rend szerint történik:
 
 a) a miniszterelnök általános helyettesét a Miniszterelnökséget vezető miniszter,
 
@@ -10,7 +10,7 @@ d) az agrárminisztert a pénzügyminiszter,
 
 e) a belügyminisztert az igazságügyi miniszter,
 
-f)[^62] az építési és közlekedési minisztert a Miniszterelnökséget vezető miniszter,
+f)[^73] az építési és közlekedési minisztert a Miniszterelnökséget vezető miniszter,
 
 g) a gazdaságfejlesztési minisztert a pénzügyminiszter,
 
@@ -24,12 +24,16 @@ k) a külgazdasági és külügyminisztert a honvédelmi miniszter,
 
 l) a pénzügyminisztert a gazdaságfejlesztési miniszter,
 
-m)[^63] az energiaügyi minisztert a területfejlesztési miniszter,
+m)[^74] az energiaügyi minisztert a területfejlesztési miniszter,
 
-n)[^64] a területfejlesztési minisztert az energiaügyi miniszter
+n)[^75] a területfejlesztési minisztert az energiaügyi miniszter
+
+o)[^76] az európai uniós ügyekért felelős minisztert a Miniszterelnökséget vezető miniszter
 
 helyettesíti.
 
-[^62]: A 185. § f) pontja a 467/2022. (XI. 21.) Korm. rendelet 16. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^63]: A 185. § m) pontja a 467/2022. (XI. 21.) Korm. rendelet 16. § (2) bekezdés d) pontja szerint módosított szöveg.
-[^64]: A 185. § n) pontja a 467/2022. (XI. 21.) Korm. rendelet 16. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^72]: A 185. § nyitó szövegrésze a 314/2023. (VII. 17.) Korm. rendelet 23. § d) pontja szerint módosított szöveg.
+[^73]: A 185. § f) pontja a 467/2022. (XI. 21.) Korm. rendelet 16. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^74]: A 185. § m) pontja a 467/2022. (XI. 21.) Korm. rendelet 16. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^75]: A 185. § n) pontja a 467/2022. (XI. 21.) Korm. rendelet 16. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^76]: A 185. § o) pontját a 314/2023. (VII. 17.) Korm. rendelet 20. §-a iktatta be.

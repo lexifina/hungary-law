@@ -1,3 +1,3 @@
-177. §[^59]
+177. §[^67]
 
-[^59]: A 177. §-t a 467/2022. (XI. 21.) Korm. rendelet 17. § (1) bekezdés g) pontja hatályon kívül helyezte.
+[^67]: A 177. §-t a 467/2022. (XI. 21.) Korm. rendelet 17. § (1) bekezdés g) pontja hatályon kívül helyezte.

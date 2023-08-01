@@ -2,4 +2,6 @@
 
 (2) A miniszter a lakáscélú állami támogatásokért való felelőssége keretében végrehajtja a Kormány általános politikájában meghatározott lakáspolitikai feladatok megvalósításával kapcsolatos intézkedéseket.
 
-(3) A miniszter a lakáscélú állami támogatásokért való felelőssége keretében együttműködik az igazságügyért felelős miniszterrel a társasházakra vonatkozó jogszabályok előkészítése során.
+(3)[^56] A miniszter a lakáscélú állami támogatásokért való felelőssége keretében együttműködik az igazságügyi miniszterrel a társasházakra vonatkozó jogszabályok előkészítése során.
+
+[^56]: A 156. § (3) bekezdése a 314/2023. (VII. 17.) Korm. rendelet 23. § c) pontja szerint módosított szöveg.

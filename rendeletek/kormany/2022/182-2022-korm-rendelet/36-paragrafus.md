@@ -2,7 +2,7 @@
 
 (2) A miniszter a helyi önkormányzatok törvényességi felügyeletéért való felelőssége keretében a helyi önkormányzatokért felelős miniszterrel egyetértésben
 
-a)[^8] ellátja a helyi önkormányzatok és társulásaik törvényességi felügyelete, valamint a területszervezési eljárás tekintetében hatáskörébe utalt feladatokat, és e feladatok tekintetében szakmai irányítást gyakorol a fővárosi és vármegyei kormányhivatal tevékenysége felett,
+a)[^9] ellátja a helyi önkormányzatok és társulásaik törvényességi felügyelete, valamint a területszervezési eljárás tekintetében hatáskörébe utalt feladatokat, és e feladatok tekintetében szakmai irányítást gyakorol a fővárosi és vármegyei kormányhivatal tevékenysége felett,
 
 b) kezdeményezi a Kormánynál
 
@@ -12,4 +12,4 @@ bb) az önkormányzati rendelet Alaptörvénnyel való összhangjának megvizsg�
 
 c) előkészíti az ország területének közigazgatási tagozódásával, illetve a területszervezéssel kapcsolatos, az Országgyűlés vagy a köztársasági elnök hatáskörébe tartozó döntéseket.
 
-[^8]: A 36. § (2) bekezdés a) pontja a 410/2022. (X. 24.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
+[^9]: A 36. § (2) bekezdés a) pontja a 410/2022. (X. 24.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.

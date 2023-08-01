@@ -1,6 +1,6 @@
-## 15.[^49] Az energiaügyi miniszter feladat- és hatásköre
+## 15.[^57] Az energiaügyi miniszter feladat- és hatásköre
 
-160. §[^50] Az energiaügyi miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
+160. §[^58] Az energiaügyi miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
 
 1. bányászati ügyekért,
 
@@ -24,5 +24,5 @@
 
 felelős tagja.
 
-[^49]: A 15. alcím címe a 467/2022. (XI. 21.) Korm. rendelet 16. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^50]: A 160. § a 467/2022. (XI. 21.) Korm. rendelet 10. §-ával megállapított, ugyanezen módosító rendelet 16. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^57]: A 15. alcím címe a 467/2022. (XI. 21.) Korm. rendelet 16. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^58]: A 160. § a 467/2022. (XI. 21.) Korm. rendelet 10. §-ával megállapított, ugyanezen módosító rendelet 16. § (2) bekezdés b) pontja szerint módosított szöveg.

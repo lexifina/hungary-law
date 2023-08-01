@@ -8,4 +8,6 @@ c) felel a miniszterelnök személye körüli feladatok ellátásáért,
 
 d) a Kormány erre vonatkozó, kormányrendeletben meghozott döntése esetén ellátja a koncesszióról szóló 1991. évi XVI. törvény (a továbbiakban: Ktv.) 5. § (1) bekezdése szerinti, a pályázat kiírására (koncessziós beszerzési eljárás lefolytatására), elbírálására (a koncessziós beszerzési eljárás eredményéről szóló döntés meghozatalára), ajánlattételi felhívásra, ajánlattételi eljárás, valamint a Ktv. 10/A. §-a szerinti eljárás lefolytatására vonatkozó feladatokat, és megköti a koncessziós szerződést (koncessziót),
 
-e) az igazságügyért felelős miniszterrel együttműködve előkészíti a d) pontban megállapított feladataihoz kapcsolódó jogszabályokat.
+e)[^4] az igazságügyi miniszterrel együttműködve előkészíti a d) pontban megállapított feladataihoz kapcsolódó jogszabályokat.
+
+[^4]: A 10. § e) pontja a 314/2023. (VII. 17.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.

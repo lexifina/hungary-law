@@ -1,0 +1,1 @@
+183/D. § A miniszter az Európai Unió Tanácsa 2024. második félévi magyar elnökségének előkészítéséért és lebonyolításáért való felelőssége keretében felel az Európai Unió Tanácsának 2024. második félévi magyar elnökségi felkészüléséért, annak kormányzati előkészítésével, végrehajtásával kapcsolatos feladatokért.
