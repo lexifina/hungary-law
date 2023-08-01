@@ -12,7 +12,7 @@ ba) a kérelmező utolsó biztosítással járó jogviszonya hivatásos szolgál
 
 bb) a kérelmező korábban szolgálati viszonyban állt valamelyik nemzetbiztonsági szolgálattal,
 
-bc)[^4] a korhatár előtti ellátást, a táncművészeti életjáradékot, illetve az átmeneti bányászjáradékot a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló európai uniós rendeletek vagy szociális biztonsági (szociálpolitikai) egyezmények alkalmazásával kell megállapítani, vagy
+bc)[^4] a korhatár előtti ellátást, a táncművészeti életjáradékot, illetve az átmeneti bányászjáradékot a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló európai uniós rendeletek, szociális biztonsági, szociálpolitikai egyezmény vagy a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 19. §-ának alkalmazásával kell megállapítani, vagy az ellátás megállapításához Nagy-Britannia és Észak-Írország Egyesült Királyságában szerzett szolgálati időt kell figyelembe venni,
 
 bd)[^5] a kérelmező magyarországi lakóhellyel és tartózkodási hellyel nem rendelkezik.
 
@@ -23,7 +23,7 @@ bd)[^5] a kérelmező magyarországi lakóhellyel és tartózkodási hellyel nem
 [^1]: Az 1. § (1) bekezdése a 90/2014. (III. 20.) Korm. rendelet 5. § a) pontja, a 70/2015. (III. 30.) Korm. rendelet 186. §-a, a 449/2016. (XII. 19.) Korm. rendelet 21. § a) pontja, a 360/2019. (XII. 30.) Korm. rendelet 96. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^2]: Az 1. § (2) bekezdés nyitó szövegrésze a 91/2013. (III. 28.) Korm. rendelet 6. §-a, a 360/2019. (XII. 30.) Korm. rendelet 96. § (1) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^3]: Az 1. § (2) bekezdés b) pontja az 500/2013. (XII. 29.) Korm. rendelet 7. §-ával megállapított, nyitó szövegrésze a 449/2016. (XII. 19.) Korm. rendelet 21. § a) pontja szerint módosított szöveg.
-[^4]: Az 1. § (2) bekezdés b) pont bc) alpontja a 449/2016. (XII. 19.) Korm. rendelet 21. § a) pontja szerint módosított szöveg.
+[^4]: Az 1. § (2) bekezdés b) pont bc) alpontja a 352/2023. (VII. 27.) Korm. rendelet 9. §-ával megállapított szöveg.
 [^5]: Az 1. § (2) bekezdés b) pont bd) alpontja a 90/2014. (III. 20.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
 [^6]: Az 1. § (3) bekezdését a 91/2013. (III. 28.) Korm. rendelet 7. §-a hatályon kívül helyezte.
 [^7]: Az 1. § (4) bekezdése a 449/2016. (XII. 19.) Korm. rendelet 21. § a) pontja, a 360/2019. (XII. 30.) Korm. rendelet 96. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
