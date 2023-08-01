@@ -4,13 +4,13 @@
 
 | 1. | Adatkezelő szervezet | Adatgyűjtés megnevezése | Az 1. számú melléklet témaköre | Adatátadás gyakorisága | Vonatkoztatási egység | Átadási határnap |
 
-| 2. | NNK | A járóbeteg-ellátásban működő szolgáltatók adatai szakmák szerint | 2.4.1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
+| 2. | NNGYK | A járóbeteg-ellátásban működő szolgáltatók adatai szakmák szerint | 2.4.1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
-| 3. | NNK | A fekvőbeteg ellátásban működő szolgáltatók adatai szakmák szerint | 2.4.1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
+| 3. | NNGYK | A fekvőbeteg ellátásban működő szolgáltatók adatai szakmák szerint | 2.4.1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
-| 4. | NNK | Ivóvíz minősége, öt kiemelt komponens (bór, nitrit, fluorid, arzén, ammónium-ion), határérték feletti települések | 4.9.1. | évente vagy frissítést követően | település, előfordulási hely | frissítést követő 90. nap |
+| 4. | NNGYK | Ivóvíz minősége, öt kiemelt komponens (bór, nitrit, fluorid, arzén, ammónium-ion), határérték feletti települések | 4.9.1. | évente vagy frissítést követően | település, előfordulási hely | frissítést követő 90. nap |
 
-| 5. | NNK | Fürdők vizének minősége | 4.9.1. | évente vagy frissítést követően | előfordulási hely | frissítést követő 90. nap |
+| 5. | NNGYK | Fürdők vizének minősége | 4.9.1. | évente vagy frissítést követően | előfordulási hely | frissítést követő 90. nap |
 
 | 6. | NAV | A társasági adóbevallások főbb adatai | 1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
@@ -106,7 +106,7 @@
 
 | 52. | BM OKF | Veszélyes ipari üzemek települések szerint | 4.12. | frissítést követően | település | frissítést követő 90. nap |
 
-| 53. | OKI | Pollenterhelés | 4.9.2. | évente vagy frissítést követően | település | frissítést követő 90. nap |
+| 53. | NNGYK | Pollenterhelés | 4.9.2. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
 | 54. | OMSZ | Sürgősségi betegellátás adatai | 2.4.1. | évente vagy frissítést követően | vármegye | frissítést követő 90. nap |
 
@@ -168,7 +168,7 @@
 
 | 2. | Nemzeti Adó- és Vámhivatal | NAV |
 
-| 3. | Nemzeti Népegészségügyi Központ | NNK |
+| 3. | Nemzeti Népegészségügyi és Gyógyszerészeti Központ | NNGYK |
 
 | 4. | Lechner Tudásközpont Nonprofit Kft. | LTK |
 
@@ -210,7 +210,7 @@
 
 | 23. | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | BM OKF |
 
-| 24. | Országos Közegészségügyi Intézet | OKI |
+| 24. |  |  |
 
 | 25. | Országos Mentőszolgálat | OMSZ |
 
