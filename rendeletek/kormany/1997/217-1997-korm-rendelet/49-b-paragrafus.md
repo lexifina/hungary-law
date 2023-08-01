@@ -1,3 +1,3 @@
-49/B. §[^623]
+49/B. §[^626]
 
-[^623]: A Vhr. 49/B. §-át a 319/2006. (XII. 23.) Korm. rendelet 20. §-a iktatta be, hatályon kívül helyezte a 30/2020. (II. 29.) Korm. rendelet 4. § (4) bekezdés c) pontja.
+[^626]: A Vhr. 49/B. §-át a 319/2006. (XII. 23.) Korm. rendelet 20. §-a iktatta be, hatályon kívül helyezte a 30/2020. (II. 29.) Korm. rendelet 4. § (4) bekezdés c) pontja.
