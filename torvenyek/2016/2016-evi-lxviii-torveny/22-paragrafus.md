@@ -19,3 +19,9 @@ c) hatósági zár alkalmazását.
 (6) Ha az adóraktár engedélyese több telephely működtetésére rendelkezik jogosultsággal és e jogosultsága csak az egyik telephelyre vonatkozóan szűnik meg, a hatályvesztést vagy az engedély visszavonása esetén az erről szóló határozat közlését követő 8 napon belül köteles az adóraktár engedélyese a 20. § (1) bekezdés a) pontja szerinti elektronikus nyilvántartását a telephelyre vonatkozóan a hatályvesztés napjával lezárni, és készletfelvétellel megállapítani a tényleges zárókészletet.
 
 (7) Ha az adóraktár engedélyesének valamennyi telephelyére vonatkozóan hatályát veszti az adóraktári engedélye, valamennyi telephelyére vonatkozóan kell a (6) bekezdés szerint eljárni, és telephelyenként részletezve kell az abban meghatározott kötelezettséget teljesíteni.
+
+(8) Az adóraktár engedélyese kizárólag zárjeggyel ellátott palackból kóstoltathat alkoholterméket a kereskedelmről szóló törvény szerinti vendéglátás tevékenységnek nem minősülő közvetlen értékesítés keretében.
+
+(9) Alkoholtermékből a (8) bekezdés szerinti kóstoltatási tevékenységet végző adóraktár engedélyese választékonként legfeljebb egy bontott palackot tarthat készleten.
+
+(10) Az adóraktárban alkoholmentesítéssel előállított csendes bor adóraktárból induló belföldi szállításakor az 54. § (1) bekezdésétől és a 64. §-tól eltérően borkísérő okmány alkalmazandó, vagy a szállítmány a Btv. végrehajtására kiadott jogszabályban meghatározott esetben mentesül a borkísérő okmány alkalmazása alól.

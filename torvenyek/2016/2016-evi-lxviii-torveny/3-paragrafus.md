@@ -328,7 +328,9 @@ d) az energiaterméket adófelfüggesztési eljárás keretében feladó adórak
 
 (3) E törvény alkalmazásában a sör, a csendes és habzóbor, az egyéb csendes és habzó erjesztett ital, a köztes alkoholtermék és az alkoholtermék adóztatására vonatkozóan
 
-1. alkoholtermék:
+1. alkoholmentesítés: a mezőgazdasági termékpiacok közös szervezésének létrehozásáról és a 922/72/EGK,a 234/79/EGK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013/EU európai parlamenti és tanácsi rendelet VIII. Melléklet I. rész E. szakaszában meghatározott eljárás;
+
+1a. alkoholtermék:
 
 a) a 2204 10 11-2206 00 89 KN-kód szerinti olyan termék, amelynek tényleges alkoholtartalma meghaladja a 22 térfogatszázalékot,
 
@@ -374,15 +376,9 @@ b) – a sör és az egyéb habzó erjesztett ital kivételével – a 2206 00 1
 
 14. intermedier: a nyersanyagtól a vegyipari és gyógyszeripari késztermékig terjedő gyártási folyamat egyes fázisaiban előálló gyártásközi vegyi termék;
 
-15.
+15. kedvezményes párlat: kisüzemi bortermelő, illetve egyszerűsített adóraktár engedélyese vagy a vele a Btv. 1. § 4. pontjában meghatározott borgazdasági egységbe tartozó szőlőtermelő által megtermelt szőlőből készült bor lepárlása útján adóraktárban előállított, legalább 37,5 térfogatszázalék tényleges alkoholtartalmú, palackozott és zárjeggyel ellátott, adózott párlat;
 
-16. kisüzemi bortermelő: az a borászatiüzem-engedéllyel rendelkező, más borászati üzemtől jogilag és gazdaságilag független személy, aki megfelel az alábbi követelményeknek, továbbá az a más borászati üzemtől jogilag és gazdaságilag nem független, borászati üzem engedéllyel rendelkező személy, aki a jogi és gazdasági kapcsolatban lévő másik borászati üzemmel együttesen teljesíti a következő követelményeket:
-
-a) az utolsó három borpiaci év átlagában kevesebb mint évi 1000 hl csendes bort állít elő,
-
-b) szőlőt, valamint sűrített szőlőmust és finomított szőlőmustsűrítmény kivételével a mezőgazdasági termékpiacok közös szervezésének létrehozásáról, és a 922/72/EGK, a 234/79/EK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013/EU európai parlamenti és tanácsi rendelet VII. melléklet II. részében felsorolt terméket másik tagállamból vagy harmadik országból nem szerez be, és
-
-c) csendes bort – a bérpalackozásra átadott saját előállítású csendes bor visszaszállítását kivéve – nem szerez be, és csendes boron kívül, valamint a saját előállítású csendes borból évente legfeljebb 50 000 liter palackos erjesztésű habzóbor előállításán, tárolásán kívül, ha utóbbi termékből a kisüzemi bortermelő készlete nem haladja meg a 50 000 litert, más jövedéki terméket nem állít elő, nem tárol és nem hoz forgalomba;
+16. kisüzemi bortermelő: az a borászatiüzem-engedéllyel rendelkező, más borászati üzemtől jogilag és gazdaságilag független személy, aki az utolsó három borpiaci év átlagában kevesebb mint évi 1000 hl csendes bort állít elő, továbbá az a más borászati üzemtől jogilag és gazdaságilag nem független, borászatiüzem-engedéllyel rendelkező személy, aki a kapcsolatban lévő másik borászati üzemmel együttesen kevesebb mint évi 1000 hl csendes bort állít elő, mindkét esetben feltéve, hogy nem kíván adóraktári engedéllyel működni;
 
 17. kisüzemi sörfőzde: évente legfeljebb 200 ezer hektoliter sört előállító, más sörgyártó üzemtől jogilag és gazdaságilag független, más sörgyártó üzemtől elkülönült telephelyet használó, nem licencia alapján működő adóraktár, továbbá sörgyártó üzemek együttműködése esetén az az évente legfeljebb 200 ezer hektoliter sört előállító sörgyártó üzem, amelynek a vele jogi és gazdasági kapcsolatban lévő másik sörgyártó üzemével összesített éves termelése nem haladja meg a 200 ezer hektoliter sört;
 
@@ -404,11 +400,13 @@ c) csendes bort – a bérpalackozásra átadott saját előállítású csendes
 
 25. termelői borkimérés: az egyszerűsített adóraktár engedélyes vagy a kisüzemi bortermelő
 
-a) saját előállítású csendes borának és
+a) saját előállítású csendes borának,
 
-b) saját előállítású csendes borból előállított palackos erjesztésű habzóborának
+b) saját előállítású csendes borból előállított palackos erjesztésű habzóborának és
 
-az egyszerűsített adóraktárban, a kisüzemi bortermelő telephelyén vagy a kisüzemi bortermelő, egyszerűsített adóraktár engedélyese használatában lévő, kereskedelemről szóló törvény szerinti üzletben elvitelre vagy kóstolás céljából helyben fogyasztásra történő, a kereskedelemről szóló törvény szerinti vendéglátás tevékenységnek nem minősülő értékesítése;
+c) kedvezményes párlatának
+
+az egyszerűsített adóraktárban, a kisüzemi bortermelő telephelyén vagy a kisüzemi bortermelő, egyszerűsített adóraktár engedélyese használatában lévő, a kereskedelemről szóló törvény szerinti üzletben elvitelre vagy kóstolás céljából helyben fogyasztásra történő, a kereskedelemről szóló törvény szerinti vendéglátás tevékenységnek nem minősülő értékesítése;
 
 26. tiszta szesz: 100 térfogatszázalékos etil-alkohol;
 

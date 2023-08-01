@@ -8,9 +8,9 @@
 
 (2) Az adó mértéke hektoliterenként és tényleges alkoholtartalom fokonként
 
-a) a kisüzemi sörfőzdében előállított sör esetében 810 forint,
+a) a kisüzemi sörfőzdében előállított sör esetében 900 forint,
 
-b) más sör esetében 1 620 forint.
+b) más sör esetében 1800 forint.
 
 (3) Ha az adóraktár túllépi a 3. § (3) bekezdés 17. pontjában szereplő termelési mennyiséget és a (2) bekezdés a) pontja szerinti adómértékkel számított adót fizetett meg a szabadforgalomba bocsátott sör után, akkor
 

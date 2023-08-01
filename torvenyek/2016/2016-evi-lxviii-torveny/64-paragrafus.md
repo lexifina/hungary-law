@@ -3,3 +3,5 @@
 64. § (1) Az adóraktár engedélyese és a jövedéki engedélyes kereskedő jövedéki terméket a végrehajtási rendeletben meghatározott adatokat tartalmazó szállítólevéllel szállíthat kereskedelmi céllal szabadforgalomban belföldi címről belföldi címzett részére vagy bocsáthat szabadforgalomba a jövedéki termék közvetlen átadásával.
 
 (2) Az (1) bekezdéstől eltérően az adóraktár engedélyese a repülőgép-üzemanyag 112. § (1) bekezdés a) pontjától eltérő szabadforgalomba bocsátása esetén a végrehajtási rendeletben a 112. § (1) bekezdés a) pontja szerinti kiszolgálásra meghatározott okmányt alkalmazza.
+
+(3) Az adóraktár engedélyese a kereskedelemről szóló törvény szerinti vendéglátás tevékenységnek nem minősülő közvetlen értékesítés keretében végzett kóstoltatás miatti készletcsökkenésről naponta egy darab összesített, az (1) bekezdés szerinti bizonylatot állít ki.

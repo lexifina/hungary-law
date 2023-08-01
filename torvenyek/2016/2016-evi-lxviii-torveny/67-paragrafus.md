@@ -8,7 +8,7 @@ aa) szabadforgalomba bocsátott ellenőrzött energiatermékkel – kivéve az 5
 
 ab) kenőolajjal,
 
-ac) szabadforgalomba bocsátott sörrel, csendes és habzóborral, egyéb csendes és habzó erjesztett itallal, köztes alkoholtermékkel és alkoholtermékkel – kivéve a 3. § (1) bekezdés 17a. pontja és (3) bekezdés 1. pont c) alpontja szerinti terméket –, valamint
+ac) szabadforgalomba bocsátott sörrel, csendes és habzóborral, egyéb csendes és habzó erjesztett itallal, köztes alkoholtermékkel és alkoholtermékkel – kivéve a 3. § (1) bekezdés 17a. pontja és (3) bekezdés 1a. pont c) alpontja szerinti terméket –, valamint
 
 ad) szabadforgalomba bocsátott dohánygyártmánnyal
 

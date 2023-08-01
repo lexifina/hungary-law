@@ -18,15 +18,15 @@ ca) ha a kőolaj (3) bekezdés szerinti világpiaci ára meghaladja az 50 USD/ho
 
 cb) ha a kőolaj (3) bekezdés szerinti világpiaci ára nem haladja meg az 50 USD/hordó értéket, 120 350 Ft/ezer liter,
 
-d) a fűtőolajra tüzelő-, fűtőanyagkénti kínálás, értékesítés vagy felhasználás esetén 4655 Ft/ezer kilogramm, üzemanyagkénti kínálás, értékesítés vagy felhasználás esetén 116 000 Ft/ezer kilogramm,
+d) a fűtőolajra tüzelő-, fűtőanyagkénti kínálás, értékesítés vagy felhasználás esetén 5375 Ft/ezer kilogramm, üzemanyagkénti kínálás, értékesítés vagy felhasználás esetén 116 000 Ft/ezer kilogramm,
 
-e) az LPG-re közúti járművek üzemanyagakénti kínálás, értékesítés vagy felhasználás esetén 95 800 Ft/ezer kilogramm, egyéb motorikus célú kínálás, értékesítés vagy felhasználás esetén 12 725 Ft/ezer kilogramm, tüzelő-, fűtőanyagkénti kínálás, értékesítés vagy felhasználás esetén 0 Ft/ezer kilogramm,
+e) az LPG-re közúti járművek üzemanyagakénti kínálás, értékesítés vagy felhasználás esetén 95 800 Ft/ezer kilogramm, egyéb motorikus célú kínálás, értékesítés vagy felhasználás esetén 14 685 Ft/ezer kilogramm, tüzelő-, fűtőanyagkénti kínálás, értékesítés vagy felhasználás esetén 0 Ft/ezer kilogramm,
 
-f) földgázra közúti járművek üzemanyagkénti kínálás, értékesítés vagy felhasználás esetén 28 Ft/nm3, egyébként 0,3038 Ft/kWh,
+f) földgázra közúti járművek üzemanyagakénti kínálás, értékesítés vagy felhasználás esetén 32 Ft/nm3, egyébként 0,3492 Ft/kWh,
 
-g) a villamos energiára 310,50 Ft/megawattóra,
+g) a villamos energiára 358,50 Ft/megawattóra,
 
-h) a szénre 2 516 Ft/ezer kilogramm,
+h) a szénre 2905 Ft/ezer kilogramm,
 
 i) – figyelemmel a 94. § (2) bekezdésére is – az E85 esetében a termék bioetanolon kívüli komponenseinek térfogatra számított mennyiségi részaránya és az a) pont szerinti adómérték szorzatának, valamint a termék bioetanol tartalmának térfogatra számított mennyiségi részaránya és 70 000 Ft/ezer liter szorzatának együttes összege,
 

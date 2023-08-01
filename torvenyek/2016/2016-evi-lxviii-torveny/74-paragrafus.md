@@ -8,7 +8,7 @@
 
 a) a külföldre történő kiszállítási céllal szabadforgalomba bocsátott töltőfolyadékot,
 
-b) a 3. § (3) bekezdés 1. pont c) alpontja szerinti alkoholterméket,
+b) a 3. § (3) bekezdés 1a. pont c) alpontja szerinti alkoholterméket,
 
 c) az 5,5 térfogatszázaléknál kisebb alkoholtartalmú, legfeljebb 0,33 literes kiszerelésű terméket,
 
@@ -32,7 +32,7 @@ e) a teljesen denaturált terméket,
 
 f) a 2207 10 00-2207 20 00 KN-kód szerinti, nyomdaipari célokat szolgáló hígítót, oldószert,
 
-g) a 2207 10 00-2208 90 99 KN-kód szerinti, a 3. § (3) bekezdés 1. pont c) alpontja szerinti alkoholtermék előállítására adózottan értékesített alkoholterméket,
+g) a 2207 10 00-2208 90 99 KN-kód szerinti, a 3. § (3) bekezdés 1a. pont c) alpontja szerinti alkoholtermék előállítására adózottan értékesített alkoholterméket,
 
 h) a 2208 20 12-2208 90 99 KN-kód szerinti, 1,2 térfogatszázaléknál nagyobb alkoholtartalmú, az adófizetési kötelezettség alól mentesült terméket,
 

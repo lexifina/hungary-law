@@ -1,12 +1,6 @@
 ## 92. Hivatalos zár
 
-138. § (1) A 2 litert meghaladó kiszerelésű csendes bor és egyéb csendes erjesztett ital belföldön hivatalos zár alkalmazásával szállítható, értékesíthető, kivéve
-
-a) a termelői borkimérést,
-
-b) az egyszer használatos záróeszközzel ellátott, bag-in-box kiszerelésű csendes bort, egyéb csendes erjesztett italt,
-
-c) az adófizetési kötelezettség alól mentesült személy által csendes bornak, egyéb csendes erjesztett italnak a saját vagy családja személyes fogyasztására szánt szállítását, feltéve, hogy a szállított mennyiség nem haladja meg a 30 litert.
+138. § (1) A 60 liternél nagyobb névleges térfogatú tárolóeszközben elhelyezett csendes bor és egyéb csendes erjesztett ital belföldön hivatalos zár alkalmazásával szállítható, értékesíthető.
 
 (2) Hivatalos zár az állami adó- és vámhatóság engedélyével állítható elő.
 
