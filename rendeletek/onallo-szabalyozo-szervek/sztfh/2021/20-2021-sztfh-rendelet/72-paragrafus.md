@@ -1,4 +1,4 @@
-## VIII. Fejezet[^19]
+## VIII. Fejezet[^39]
 
 ## JÁTÉKAUTOMATÁK
 
@@ -64,4 +64,4 @@ k) a tanúsító jelek számát.
 
 (7) A szervező az általa üzemeltetett, közterületen vagy a közönség számára nyitva álló épületben vagy helyiségben meghibásodott, üzemképtelen játékautomatát 3 munkanapon belül köteles megjavíttatni, vagy gondoskodnia kell annak közterületről vagy a közönség számára nyitva álló épületből vagy helyiségből történő elszállításáról.
 
-[^19]: A VIII. Fejezet címe a 40/2022. (XII. 19.) SZTFH rendelet 19. § d) pontja szerint módosított szöveg.
+[^39]: A VIII. Fejezet címe a 40/2022. (XII. 19.) SZTFH rendelet 19. § d) pontja szerint módosított szöveg.

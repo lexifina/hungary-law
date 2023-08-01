@@ -12,7 +12,7 @@ d) a nyertes és el nem adott sorsjegyeket,
 
 e) a megsemmisítési technológiát.
 
-(2) Ha a szervezőnek egyidejűleg több szerencsejáték szervezésére van engedélye, az egyes szerencsejátékok bevételének és tényleges költségének elszámolását egymástól és más, általa folytatott tevékenységektől elkülönítetten, ellenőrizhető módon kell nyilvántartania és vezetnie.
+(2)[^4]
 
 (3) Az időközi és végelszámolásban szerepeltetni kell
 
@@ -40,8 +40,9 @@ d) az Szjtv.-ben foglalt egyéb kötelezettségek teljesítésére.
 
 (7) Az Szjtv. 30. § (2) bekezdése alapján nyereményre fordítandó összegek – folyamatosan szervezett játékok esetén történő – halmozódását a szerencsejáték-felügyeleti hatóság legfeljebb egy évig engedélyezheti. Ezen összegeket elkülönítetten kell nyilvántartani, és a halmozódási időszakot követően a teljes halmozott összeget nyeremények céljára kell felhasználni.
 
-(8)[^3] A folyamatosan szervezett sorsolásos játékok át nem vett nyereményeit a nyeremény igénylésére nyitva álló határidőt követő száznyolcvan napon belül kell nyeremények céljára fordítani. Az át nem vett nyereményekből elkülönített alapot kell képezni, amelynek nyeremények céljára történő felhasználását a szerencsejáték-felügyeleti hatóságnak be kell jelenteni, és tényleges felhasználásáról elszámolást kell készíteni.
+(8)[^5] A folyamatosan szervezett sorsolásos játékok át nem vett nyereményeit a nyeremény igénylésére nyitva álló határidőt követő száznyolcvan napon belül kell nyeremények céljára fordítani. Az át nem vett nyereményekből elkülönített alapot kell képezni, amelynek nyeremények céljára történő felhasználását a szerencsejáték-felügyeleti hatóságnak be kell jelenteni, és tényleges felhasználásáról elszámolást kell készíteni.
 
 (9) A (7) és (8) bekezdés szerinti elkülönített alapokról a szerencsejáték-felügyeleti hatóság külön felhívására, de évente legalább egy alkalommal a szervező részletes információkat köteles adni a szerencsejáték-felügyeleti hatóság részére.
 
-[^3]: A 11. § (8) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 19. § b) pontja szerint módosított szöveg.
+[^4]: A 11. § (2) bekezdését a 14/2023. (VII. 27.) SZTFH rendelet 12. § a) pontja hatályon kívül helyezte.
+[^5]: A 11. § (8) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 19. § b) pontja szerint módosított szöveg.
