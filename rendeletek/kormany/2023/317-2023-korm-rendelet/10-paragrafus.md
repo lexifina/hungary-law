@@ -1,3 +1,3 @@
-10. §[^12]
+10. §[^11]
 
-[^12]: A 10. § a 12. § (3) bekezdés alapján 2023. szeptember 1-jén lép hatályba.
+[^11]: A 10. § a 12. § (3) bekezdés alapján 2023. szeptember 1-jén lép hatályba.
