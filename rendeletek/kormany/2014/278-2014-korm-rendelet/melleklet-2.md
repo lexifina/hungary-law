@@ -62,7 +62,7 @@
 
 | 31. | Központi Statisztikai Hivatal | Földhasználati adatok. | – A földterület használata művelési ágak szerint, vármegyénként. | Az adatok rendelkezésre állásának függvényében. | A rendelkezésre állás függvényében, lehetőség szerint a 4. § (4) bekezdésében megjelölt határidőkre. |
 
-| 32. | Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet | Üvegházhatású gázokat tartalmazó gyógyszer-termékek forgalmazása. | Belföldi fogyasztási adatok üvegházhatású gázokat tartalmazó gyógyszertermékekről [ideértve a HFC-134a (norfluran), HFC-227ea, valamint N2O gázokat], különösen az 517/2014/EU európai parlamenti és tanácsi rendelet, valamint a fluortartalmú üvegházhatású gázokkal és az ózonréteget lebontó anyagokkal kapcsolatos tevékenységek végzésének feltételeiről szóló kormányrendelet szerint összegyűjtött adatok. |  |  |
+| 32. | Nemzeti Népegészségügyi és Gyógyszerészeti Központ | Üvegházhatású gázokat tartalmazó gyógyszer-termékek forgalmazása. | Belföldi fogyasztási adatok üvegházhatású gázokat tartalmazó gyógyszertermékekről [ideértve a HFC-134a (norfluran), HFC-227ea, valamint N2O gázokat], különösen az 517/2014/EU európai parlamenti és tanácsi rendelet, valamint a fluortartalmú üvegházhatású gázokkal és az ózonréteget lebontó anyagokkal kapcsolatos tevékenységek végzésének feltételeiről szóló kormányrendelet szerint összegyűjtött adatok. |  |  |
 
 | 33. | Budapest Főváros Kormányhivatala | Szerves oldószerek. | Egyes festékek, lakkok és járművek javító fényezésére szolgáló termékek szerves oldószer tartalmának szabályozásáról szóló 25/2006. (II. 3.) Korm. rendelet 8. és 9. számú mellékletének országos összesített adatai. |  |  |
 
