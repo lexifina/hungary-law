@@ -1,3 +1,5 @@
+## 3K55068_0
+
 ## TTE = TT/r
 
 ## ahol:
@@ -16,7 +18,7 @@
 
 2. melléklet a 212/2013. (VI. 19.) Korm. rendelethez
 
-## Kamattámogatási kérelem adattartalma
+Kamattámogatási kérelem adattartalma
 
 1. A gyógyszerész neve
 
