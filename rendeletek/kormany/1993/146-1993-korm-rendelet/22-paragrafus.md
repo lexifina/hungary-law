@@ -24,7 +24,7 @@ a) az Nytv. 24. §-ában meghatározott szervek,
 
 b) a konzuli szolgálatnak a konzuli védelemről szóló 2001. évi XLVI. törvény 6. § (1) bekezdése és 11. § (1) bekezdése szerinti feladata ellátásához szükséges,
 
-c)[^203] a Nemzeti Népegészségügyi Központ,
+c)[^203] a Nemzeti Népegészségügyi és Gyógyszerészeti Központ,
 
 d) a Nemzeti Választási Iroda
 
@@ -54,7 +54,7 @@ kutatási kérelmére a közölt hiányos, illetve töredékadatoknak megfelelő
 [^200]: Az R. 22. § (2c) bekezdését a a 6/2020. (I. 31.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 256/2023. (VI. 26.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^201]: Az R. 22. § (4) bekezdése a 375/2021. (VI. 30.) Korm. rendelet 1. § (3) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
 [^202]: Az R. 22. § (5) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^203]: Az R. 22. § (5) bekezdés c) pontja az 569/2022. (XII. 23.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^203]: Az R. 22. § (5) bekezdés c) pontja az 569/2022. (XII. 23.) Korm. rendelet 7. § a) pontja, a 334/2023. (VII. 20.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^204]: Az R. 22. § (5) bekezdés e) pontját a 717/2021. (XII. 20.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege az 569/2022. (XII. 23.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
 [^205]: Az R. 22. § (5) bekezdés f) pontját az 569/2022. (XII. 23.) Korm. rendelet 3. §-a iktatta be.
 [^206]: Az R. 22. § (5) bekezdés g) pontját az 569/2022. (XII. 23.) Korm. rendelet 3. §-a iktatta be.
