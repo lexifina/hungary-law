@@ -1,0 +1,4 @@
+14. §[^25] Az e rendeletben meghatározott támogatások az e rendeletnek a veszélyhelyzet ideje alatt a szomszédos országban fennálló humanitárius katasztrófára tekintettel érkező személyek elhelyezésének támogatásáról és az azzal kapcsolatos egyéb intézkedésekről szóló 104/2022. (III. 12.) Korm. rendelet módosításáról szóló 337/2023. (VII. 24.) Korm. rendelettel (a továbbiakban: Módr1.) megállapított 3. § (2)–(7) bekezdése hatálybalépésének napját megelőzően Magyarország területére belépő ideiglenes védelemre jogosult után – ha a védelemre jogosult nem tartozik a Módr1.-gyel megállapított 3. §-ban meghatározott jogosultak körébe – a Módr1. hatálybalépését[^26] megelőző napon hatályos rendelkezések szerint 2023. augusztus 31-ig vehetők igénybe.
+
+[^25]: A 14. §-t a 337/2023. (VII. 24.) Korm. rendelet 5. §-a iktatta be.
+[^26]: A hatálybalépés időpontja 2023. augusztus 1.

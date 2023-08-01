@@ -1,6 +1,6 @@
 ## 4. Egyéb módon történő elhelyezés
 
-8. § (1)[^8] Ha a minisztérium vagy a vármegyei, fővárosi védelmi bizottság (a továbbiakban együtt: megrendelő) és a szállásadó megállapodást köt 20 főnél nagyobb létszámú ideiglenes védelemre jogosult vagy menedékes elhelyezését ellátó szálláshely igénybe vételére, a szállásadó az elszállásolt ideiglenes védelemre jogosult, illetve menedékes szállása és ellátása után egyedi támogatást igényelhet.
+8. § (1)[^16] Ha a minisztérium vagy a vármegyei, fővárosi védelmi bizottság (a továbbiakban együtt: megrendelő) és a szállásadó megállapodást köt 20 főnél nagyobb létszámú ideiglenes védelemre jogosult vagy menedékes elhelyezését ellátó szálláshely igénybe vételére, a szállásadó az elszállásolt ideiglenes védelemre jogosult, illetve menedékes szállása és ellátása után egyedi támogatást igényelhet.
 
 (2) Az (1) bekezdés szerinti megállapodás a közigazgatás-szervezésért felelős miniszter vagy az általa megbízott személy jóváhagyását követő napon lép hatályba.
 
@@ -24,24 +24,24 @@ c) az igényben foglaltak megalapozatlanságát állapítja meg.
 
 a) – ha a megrendelő minisztérium – a minisztériumot vezető miniszter az elbírált igényt az államháztartásért felelős miniszter részére öt napon belül továbbítja,
 
-b)[^9] – ha a megrendelő vármegyei, fővárosi védelmi bizottság – a vármegyei, fővárosi védelmi bizottság az elbírált igényt – az abban foglaltak igazolásával – a közigazgatás-szervezésért felelős miniszter részére öt napon belül továbbítja.
+b)[^17] – ha a megrendelő vármegyei, fővárosi védelmi bizottság – a vármegyei, fővárosi védelmi bizottság az elbírált igényt – az abban foglaltak igazolásával – a közigazgatás-szervezésért felelős miniszter részére öt napon belül továbbítja.
 
-(9)[^10] A közigazgatás-szervezésért felelős miniszter a vármegyei, fővárosi védelmi bizottságtól érkezett elbírált igényeket összesíti, és – a (10) bekezdés szerinti kivétellel – az államháztartásért felelős miniszter részére öt napon belül továbbítja.
+(9)[^18] A közigazgatás-szervezésért felelős miniszter a vármegyei, fővárosi védelmi bizottságtól érkezett elbírált igényeket összesíti, és – a (10) bekezdés szerinti kivétellel – az államháztartásért felelős miniszter részére öt napon belül továbbítja.
 
-(10)[^11] Ha a közigazgatás-szervezésért felelős miniszter az igényben foglaltakkal nem ért egyet, a vármegyei, fővárosi védelmi bizottságot – legfeljebb öt nap határidővel – az igény kiegészítésére vagy átdolgozására hívja fel, ha a kiegészített vagy átdolgozott igénnyel egyetért, az igényt az államháztartásért felelős miniszter részére öt napon belül továbbítja.
+(10)[^19] Ha a közigazgatás-szervezésért felelős miniszter az igényben foglaltakkal nem ért egyet, a vármegyei, fővárosi védelmi bizottságot – legfeljebb öt nap határidővel – az igény kiegészítésére vagy átdolgozására hívja fel, ha a kiegészített vagy átdolgozott igénnyel egyetért, az igényt az államháztartásért felelős miniszter részére öt napon belül továbbítja.
 
 (11) Az államháztartásért felelős miniszter a kifizethető támogatás összegéről
 
 a) – ha a megrendelő minisztérium – az elbírált igény továbbításától számított öt napon belül értesíti a megrendelő minisztériumot vezető minisztert,
 
-b)[^12] – ha a megrendelő vármegyei, fővárosi védelmi bizottság – az összesített elbírált igények továbbításától számított öt napon belül értesíti a közigazgatás-szervezésért felelős minisztert.
+b)[^20] – ha a megrendelő vármegyei, fővárosi védelmi bizottság – az összesített elbírált igények továbbításától számított öt napon belül értesíti a közigazgatás-szervezésért felelős minisztert.
 
 (12) A szállásadónak az őt a (11) bekezdés szerint megillető támogatást a döntést követő tíz napon belül kell folyósítani.
 
 (13) A támogatás folyósításáról az érintett miniszter utalványozása alapján a kincstár gondoskodik.
 
-[^8]: A 8. § (1) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 324. § a) pontja szerint módosított szöveg.
-[^9]: A 8. § (8) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 324. § b) pontja szerint módosított szöveg.
-[^10]: A 8. § (9) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 324. § a) pontja szerint módosított szöveg.
-[^11]: A 8. § (10) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 324. § a) pontja szerint módosított szöveg.
-[^12]: A 8. § (11) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 324. § a) pontja szerint módosított szöveg.
+[^16]: A 8. § (1) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 324. § a) pontja szerint módosított szöveg.
+[^17]: A 8. § (8) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 324. § b) pontja szerint módosított szöveg.
+[^18]: A 8. § (9) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 324. § a) pontja szerint módosított szöveg.
+[^19]: A 8. § (10) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 324. § a) pontja szerint módosított szöveg.
+[^20]: A 8. § (11) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 324. § a) pontja szerint módosított szöveg.
