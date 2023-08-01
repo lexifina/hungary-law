@@ -20,11 +20,11 @@ h) a munkájuk során rákkeltő anyagokkal és mutagénekkel kapcsolatos kocká
 
 i) a munkájuk során rákkeltő, illetve mutagén anyagokkal kapcsolatos kockázatoknak kitett munkavállalók védelméről szóló 2004/37/EK irányelv módosításáról szóló, 2019. január 16-i (EU) 2019/130 európai parlamenti és tanácsi irányelvnek
 
-j)[^12] a munkájuk során rákkeltő anyagokkal és mutagénekkel kapcsolatos kockázatoknak kitett munkavállalók védelméről szóló 2004/37/EK irányelv módosításáról szóló, 2019. június 5-i 2019/983 európai parlamenti és tanácsi irányelvnek,
+j)[^13] a munkájuk során rákkeltő anyagokkal és mutagénekkel kapcsolatos kockázatoknak kitett munkavállalók védelméről szóló 2004/37/EK irányelv módosításáról szóló, 2019. június 5-i 2019/983 európai parlamenti és tanácsi irányelvnek,
 
-k)[^13] a 98/24/EK tanácsi irányelv alapján meghatározott indikatív foglalkozási expozíciós határértékek ötödik listájának létrehozásáról és a 2000/39/EK bizottsági irányelv módosításáról szóló, 2019. október 24-i 2019/1831 bizottsági irányelvnek
+k)[^14] a 98/24/EK tanácsi irányelv alapján meghatározott indikatív foglalkozási expozíciós határértékek ötödik listájának létrehozásáról és a 2000/39/EK bizottsági irányelv módosításáról szóló, 2019. október 24-i 2019/1831 bizottsági irányelvnek
 
 való megfelelést szolgálja.
 
-[^12]: A 23. § j) pontját a 32/2021. (VII. 26.) ITM rendelet 20. §-a iktatta be.
-[^13]: A 23. § k) pontját a 32/2021. (VII. 26.) ITM rendelet 20. §-a iktatta be.
+[^13]: A 23. § j) pontját a 32/2021. (VII. 26.) ITM rendelet 20. §-a iktatta be.
+[^14]: A 23. § k) pontját a 32/2021. (VII. 26.) ITM rendelet 20. §-a iktatta be.
