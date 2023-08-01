@@ -1,5 +1,3 @@
-## Gyógyszertárak részére juttatandó, vényköteles gyógyszerek kiváltásához kapcsolódó gyógyszerbiztonsági ellenőrzésen alapuló szolgáltatási díj értéke
-
 ## A gyógyszertárak részére juttatandó, vényköteles gyógyszerek kiváltásához kapcsolódó gyógyszerbiztonsági ellenőrzésen alapuló szolgáltatási díj vényszám emelkedésével sávosan csökkenő értéke 2015. évre vonatkozóan:
 
 |  | A | B | C | D | E |
