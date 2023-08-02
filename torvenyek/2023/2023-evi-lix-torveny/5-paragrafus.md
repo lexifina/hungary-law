@@ -6,6 +6,4 @@
 
 5. § (1)
 
-(2) Az Szja tv. 3. §-a a következő 55. ponttal egészül ki:
-
-(E törvény alkalmazásában az egyes fogalmak jelentése a következő:)
+(2)
