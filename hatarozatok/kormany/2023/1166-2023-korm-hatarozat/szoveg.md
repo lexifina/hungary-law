@@ -42,7 +42,7 @@ c) a Magyar Ipari Park Szövetség,
 
 d) az Önkormányzati Ipari Parkok Szövetsége,
 
-e) az Ipari-, Tudományos-, Innovációs- és Technológiai Parkok Egyesület,
+e)[^1]
 
 f) a Magyar Tudományos-Technológiai és Ipari Parkok Szövetsége,
 
@@ -96,6 +96,7 @@ c) ellátja a Tanács működésével kapcsolatos levelezési, dokumentumkezelé
 
 13. Ez a határozat a közzétételét követő 8. napon lép hatályba.
 
-14.[^1]
+14.[^2]
 
-[^1]: A 14. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 5. pont e) pontját az 1317/2023. (VII. 25.) Korm. határozat 1. pontja hatályon kívül helyezte.
+[^2]: A 14. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

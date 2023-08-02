@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-1166-30
 | --- | --- | --- |
 | 2023-05-06 | 2023-1166-30-22.1 | 1166/2023. (IV. 28.) Korm. határozat |
 | 2023-05-07 | 2023-1166-30-22.2 | 2010. évi CXXX. törvény |
+| 2023-08-02 | 2023-1166-30-22.3 | 1317/2023. (VII. 25.) Korm. határozat |
