@@ -12,7 +12,7 @@
 
 6.
 
-7. 83/C. § (1) bekezdésében az „Az öregségi” szövegrész helyébe az „A Kormány rendeletében – a közfeladat-ellátás biztosítása érdekében – meghatározott kivétellel az öregségi” szöveg,
+7.
 
 8.
 
