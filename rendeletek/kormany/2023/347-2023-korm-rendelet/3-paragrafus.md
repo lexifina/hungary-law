@@ -1,1 +1,3 @@
-3. § Hatályát veszti az R1. 1–2/A. §-a, 3. § (1)–(5) bekezdése és 4. §-a.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

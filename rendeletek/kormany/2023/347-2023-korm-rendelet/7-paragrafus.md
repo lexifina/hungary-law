@@ -1,3 +1,3 @@
-7. § (1) Az R2. 5. § (2) bekezdés a) pontjában a „termékkategóriánként” szövegrész helyébe a „termékkategóriánként vagy termékfajtánként” szöveg lép.
+7. §[^8]
 
-(2) Az R2. 5. § (2) bekezdés d) pont nyitó szövegrészében a „3. § b) pontjában” szövegrész helyébe a „3. §-ban és a 3/A. §-ban” szöveg, a „termékkategóriánként” szövegrész helyébe a „termékkategóriánként vagy termékfajtánként” szöveg lép.
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
