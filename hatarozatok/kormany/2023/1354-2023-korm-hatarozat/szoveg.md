@@ -2,4 +2,6 @@
 
 2. Ez a határozat 2023. augusztus 1-jén lép hatályba.
 
-3. Hatályát veszti a deregulációért felelős kormánybiztos kinevezéséről és feladatairól szóló 1270/2022. (V. 27.) Korm. határozat.
+3.[^1]
+
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
