@@ -1,3 +1,3 @@
-7. §[^29]
+7. §[^30]
 
-[^29]: A 7. § a 17. § (3) bekezdés alapján 2023. szeptember 1-jén lép hatályba.
+[^30]: A 7. § a 17. § (3) bekezdés alapján 2023. szeptember 1-jén lép hatályba.
