@@ -940,7 +940,7 @@
 
 ## Kelt Addisz-Abebában, 2018. szeptember 7-én
 
-## Az Egyetemes Postaegyesület Általános Szabályzatának Harmadik Pótjegyzőkönyve[^1]
+## Az Egyetemes Postaegyesület Általános Szabályzatának Harmadik Pótjegyzőkönyve[^2]
 
 ## Az Egyetemes Postaegyesület tagországai kormányainak meghatalmazottai az Abidjani Kongresszuson – tekintettel az 1964. július 10-én, Bécsben elfogadott Alapokmány 22. cikkének 2. bekezdésére – közös megegyezéssel és az Alapokmány 25. cikke 4. bekezdésének fenntartásával elfogadták az Általános Szabályzat következő módosításait.
 
@@ -2492,7 +2492,7 @@ In witness whereof the plenipotentiaries of the governments of the member countr
 
 Done at Addis Ababa, 7 September 2018
 
-Third Additional Protocol to the General Regulations of the Universal Postal Union[^2]
+Third Additional Protocol to the General Regulations of the Universal Postal Union[^3]
 
 The plenipotentiaries of the governments of the member countries of the Universal Postal Union, having met in Congress at Abidjan, in view of article 22.2 of the Constitution concluded at Vienna on 10 July 1964, have, by common consent and subject to article 25.4 of the Constitution, adopted the following amendments to the General Regulations.
 
@@ -3096,5 +3096,5 @@ In witness whereof the plenipotentiaries of the governments of the member countr
 
 Done at Abidjan, 26 August 2021
 
-[^1]: Az Abidjan Congress–Doc 39 dokumentummal összhangban különböző változtatásokat végeztünk az Általános Szabályzat angol változatában a semleges nemű nyelvezet bevezetése érdekében. Mivel ezek a szerkesztési módosítások nincsenek hatással a hivatalos francia szövegre, ebben a kötetben nincsenek változtatásként jelölve.
-[^2]: In line with Abidjan Congress–Doc 39, various changes have been made to the English version of the General Regulations to introduce gender-neutral language. As these editorial amendments do not affect the official French text, they are not marked as changes in this volume.
+[^2]: Az Abidjan Congress–Doc 39 dokumentummal összhangban különböző változtatásokat végeztünk az Általános Szabályzat angol változatában a semleges nemű nyelvezet bevezetése érdekében. Mivel ezek a szerkesztési módosítások nincsenek hatással a hivatalos francia szövegre, ebben a kötetben nincsenek változtatásként jelölve.
+[^3]: In line with Abidjan Congress–Doc 39, various changes have been made to the English version of the General Regulations to introduce gender-neutral language. As these editorial amendments do not affect the official French text, they are not marked as changes in this volume.
