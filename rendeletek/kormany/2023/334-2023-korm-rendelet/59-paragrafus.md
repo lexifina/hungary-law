@@ -1,1 +1,3 @@
-59. § Hatályát veszti az emberi felhasználásra kerülő gyógyszerek forgalomba hozatalának és gyártásának engedélyezéséről szóló 450/2017. (XII. 27.) Korm. rendelet 11. § (3) bekezdése, valamint 11. § (5) bekezdésében a „valamint – immunológiai gyógyszer esetén – az NNK-val” szövegrész.
+59. §[^60]
+
+[^60]: Az 59. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-28. § Hatályát veszti piacfelügyeleti tevékenység részletes szabályairól szóló 6/2013. (I. 18.) Korm. rendelet 2. § (1) bekezdés d) pontja.
+28. §[^29]
+
+[^29]: A 28. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

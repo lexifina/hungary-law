@@ -1,1 +1,3 @@
-33. § A kozmetikai termékekről szóló 246/2013. (VII. 2.) Korm. rendelet 3. §-ában az „az Országos Gyógyszerészeti és Élelmezés- egészségügyi Intézet jelöli ki (a továbbiakban: nemzeti hatóság)” szövegrész helyébe az „a Nemzeti Népegészségügyi és Gyógyszerészeti Központot (a továbbiakban: nemzeti hatóság) jelöli ki” szöveg lép.
+33. §[^34]
+
+[^34]: A 33. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

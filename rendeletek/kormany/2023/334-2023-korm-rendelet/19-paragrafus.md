@@ -1,1 +1,3 @@
-19. § Hatályát veszti az emberen végzett orvostudományi kutatások, az emberi felhasználásra kerülő vizsgálati készítmények klinikai vizsgálata, valamint az emberen történő alkalmazásra szolgáló, klinikai vizsgálatra szánt orvostechnikai eszközök klinikai vizsgálata engedélyezési eljárásának szabályairól szóló 235/2009. (X. 20.) Korm. rendelet 37/C. § (1) bekezdése.
+19. §[^20]
+
+[^20]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

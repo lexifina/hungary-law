@@ -1,1 +1,3 @@
-70. § Hatályát veszti a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 1. melléklet E) pontjában foglalt táblázat 9. sora.
+70. §[^71]
+
+[^71]: A 70. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

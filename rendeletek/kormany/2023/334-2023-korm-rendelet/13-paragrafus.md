@@ -1,1 +1,3 @@
-13. § Hatályát veszti a 31/2007. (II. 28.) Korm. rendelet 2. számú melléklet 2. pontjában foglalt táblázat 24. sora.
+13. §[^14]
+
+[^14]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-34. § Hatályát veszti a kozmetikai termékekről szóló 246/2013. (VII. 2.) Korm. rendelet 10. §-ában az „és a Nemzeti Népegészségügyi Központ” szövegrész.
+34. §[^35]
+
+[^35]: A 34. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
