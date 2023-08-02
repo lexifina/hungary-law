@@ -1,5 +1,5 @@
 ## 11. A Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet módosítása
 
-16. § A Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet [a továbbiakban: 182/2022. (V. 24.) Korm. rendelet] 119. § 1. pontja helyébe a következő rendelkezés lép:
+16. §[^17]
 
-[Az igazságügyi miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány]
+[^17]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

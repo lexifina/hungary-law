@@ -1,1 +1,3 @@
-13. § A 354/2013. (X. 7.) Korm. rendelet 5. § a) pontjában, 16. § (1) bekezdésében, 19. § (1) bekezdésében az „igazságügyért felelős” szövegrész helyébe az „európai uniós ügyek koordinációjáért felelős” szöveg lép.
+13. §[^14]
+
+[^14]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-22. § A 182/2022. (V. 24.) Korm. rendelet a következő 200. §-sal egészül ki:
+22. §[^23]
 
-„200. § Az egyes kormányrendeleteknek a Kormány tagjainak feladat- és hatáskörével összefüggő módosításáról szóló 314/2023. (VII. 17.) Korm. rendelet szerint átkerülő feladat- és hatáskörök tekintetében a Kit. 20. § (5) bekezdése alapján bekövetkező jogutódlás időpontja 2023. augusztus 1. napja, azzal, hogy a jogelőd és a jogutód között létrejött átadás-átvételi megállapodásban meghatározottak szerint, de legalább 2023. augusztus 15. napjáig a jogutód költségvetését érintő kifizetéseket a jogelőd teljesíti. A jogutódlásra egyebekben a 194. § (3) és (4) bekezdését alkalmazni kell.”
+[^23]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

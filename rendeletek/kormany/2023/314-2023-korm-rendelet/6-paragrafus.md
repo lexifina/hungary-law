@@ -1,1 +1,3 @@
-6. § A 103/2009. (V. 11.) Korm. rendelet 1. § (1) bekezdésében, 4. § (2) bekezdésében, 5. §-ában, Melléklet A) részében és Melléklet B) részében az „igazságügyért felelős” szövegrész helyébe az „európai uniós ügyekért felelős” szöveg lép.
+6. §[^7]
+
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

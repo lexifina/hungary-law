@@ -1,1 +1,3 @@
-14. § Hatályát veszti a 354/2013. (X. 7.) Korm. rendelet 24. § (4) bekezdésében az „igazságügyért felelős miniszter – az” szövegrész és a „bevonásával –” szövegrész.
+14. §[^15]
+
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

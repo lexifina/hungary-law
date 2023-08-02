@@ -1,3 +1,3 @@
-19. § A 182/2022. (V. 24.) Korm. rendelet 184. §-a a következő o) ponttal egészül ki:
+19. §[^20]
 
-(Jogszabály megjelölésében)
+[^20]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

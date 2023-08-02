@@ -1,5 +1,3 @@
-24. § Hatályát veszti a 182/2022. (V. 24.) Korm. rendelet
+24. §[^25]
 
-a) 119. § 5. pontja,
-
-b) 126. §-a.
+[^25]: A 24. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

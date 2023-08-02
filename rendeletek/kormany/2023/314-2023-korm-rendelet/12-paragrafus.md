@@ -1,5 +1,5 @@
 ## 9. A belső piaci információs rendszer hazai működéséről és az abban való részvételnek a szabályairól, valamint a belső piaci szolgáltatásokról szóló 2006/123/EK európai parlamenti és tanácsi irányelv szerinti bejelentési kötelezettség teljesítéséről szóló 354/2013. (X. 7.) Korm. rendelet módosítása
 
-12. § A belső piaci információs rendszer hazai működéséről és az abban való részvételnek a szabályairól, valamint a belső piaci szolgáltatásokról szóló 2006/123/EK európai parlamenti és tanácsi irányelv szerinti bejelentési kötelezettség teljesítéséről szóló 354/2013. (X. 7.) Korm. rendelet [a továbbiakban: 354/2013. (X. 7.) Korm. rendelet] 21. § (2) bekezdése helyébe a következő rendelkezés lép:
+12. §[^13]
 
-„(2) Ha a szakminiszter nem ért egyet a Bizottság határozatában jelzett indokolással, – az európai uniós ügyek koordinációjáért felelős miniszter egyetértése esetén és bevonásával – a Központon keresztül egyeztetést kezdeményezhet a Bizottsággal a kifogásolt korlátozó követelmény elfogadtatása céljából.”
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

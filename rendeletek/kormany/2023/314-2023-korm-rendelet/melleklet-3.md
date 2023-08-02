@@ -1,7 +1,3 @@
-## A védett személyek és a kijelölt létesítmények védelméről szóló 160/1996. (XI. 5.) Korm. rendelet 1. melléklet 2. pontja a következő s) alponttal egészül ki:
+3. melléklet a 314/2023. (VII. 17.) Korm. rendelethez[^28]
 
-## (Létesítménybiztosítási intézkedés céljából kijelölt létesítmények és értékek)
-
-## „s) az Európai Uniós Ügyek Minisztériumának a miniszter elhelyezését biztosító épülete.”
-
-3. melléklet a 314/2023. (VII. 17.) Korm. rendelethez
+[^28]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
