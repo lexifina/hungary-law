@@ -1,5 +1,3 @@
-## „5. közös játékosi egyenleg: többfajta szerencsejáték szervezésére engedéllyel rendelkező szervező által a játékos részére az érintett szerencsejátékokkal kapcsolatos tétek, nyeremények és egyéb játékügyletek elszámolása és nyilvántartása céljából vezetett játékosi egyenleg;”
+10. §[^11]
 
-10. § A Vhr. a következő 79. §-sal egészül ki:
-
-„79. § E rendeletnek az egyes szerencsejátékok engedélyezésével, lebonyolításával és ellenőrzésével kapcsolatos feladatok végrehajtásáról szóló 20/2021. (X. 29.) SZTFH rendelet módosításáról szóló 14/2023. (VII. 27.) SZTFH rendelettel megállapított 2/A. §-a, 13. § (3), (10) és (11) bekezdése, 16/F. §-a, 22. § (1) bekezdése, 22. § (2) és (4) bekezdése, 25. § (1)–(4), (6) és (7) bekezdése, 26. § (2) és (3) bekezdése, 29. § (3) bekezdése, 32. § (2) bekezdése, 76. § 5. pontja és 2. melléklet C) pont 1. alpontja tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.”
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

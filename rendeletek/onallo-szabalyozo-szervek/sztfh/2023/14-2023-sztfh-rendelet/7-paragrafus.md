@@ -1,3 +1,3 @@
-7. § A Vhr. 29. § (3) bekezdése helyébe a következő rendelkezés lép:
+7. §[^8]
 
-„(3) Közös játékosi egyenleg esetén az ajándék bónuszt és a speciális bónusz ajánlatot a játékos az adott játékosi egyenlegben érintett szerencsejáték céljára tétként felhasználhatja, feltéve, hogy a jóváhagyott játéktervek alapján a szervező azt azonos módon számolja el.”
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

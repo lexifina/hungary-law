@@ -1,3 +1,3 @@
-9. § A Vhr. 76. § 5. pontja helyébe a következő rendelkezés lép:
+9. §[^10]
 
-(E rendelet alkalmazásában:)
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

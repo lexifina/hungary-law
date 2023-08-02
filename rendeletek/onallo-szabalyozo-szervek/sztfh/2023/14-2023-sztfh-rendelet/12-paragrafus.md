@@ -1,5 +1,3 @@
-12. § Hatályát veszti a Vhr.
+12. §[^13]
 
-a) 11. § (2) bekezdése és
-
-b) 76. § 1. pontja.
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
