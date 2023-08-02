@@ -1,7 +1,3 @@
-6. § Az R.
+6. §[^7]
 
-a) 3. § (1) bekezdésében az „a (2)–(4)” szövegrész helyébe az „a (2)–(6)” szöveg,
-
-b) 4. § (1a) bekezdésében a „7000” szövegrész helyébe az „5000” szöveg
-
-lép.
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
