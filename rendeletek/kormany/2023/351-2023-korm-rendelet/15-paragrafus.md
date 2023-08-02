@@ -1,1 +1,3 @@
-15. § Az R3. 3. § (1a) bekezdésében a „(3) bekezdés b) pontja” szövegrész helyébe a „(3a) bekezdése” szöveg lép.
+15. §[^16]
+
+[^16]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

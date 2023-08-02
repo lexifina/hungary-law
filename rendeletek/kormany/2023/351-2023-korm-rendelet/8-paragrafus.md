@@ -1,1 +1,3 @@
-8. § Az R2. 2. § (4) és (6) bekezdésében az „az Üzemeltető” szövegrész helyébe az „a Dokumentációs Központ” szöveg lép.
+8. §[^9]
+
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

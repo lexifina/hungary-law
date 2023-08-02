@@ -1,3 +1,3 @@
-25. § Az R6. 4. § (6) bekezdése helyébe a következő rendelkezés lép:
+25. §[^26]
 
-„(6) Az Országos Építészeti Tervtanács eljárása során a tervezett beavatkozásnak megfelelő területen jogosultsággal rendelkező örökségvédelmi szakértő szervet vagy egyéb szakterületi szakértőt vonhat be.”
+[^26]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

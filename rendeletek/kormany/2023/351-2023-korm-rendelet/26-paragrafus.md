@@ -1,3 +1,3 @@
-26. § Az R6. 69. §-a a következő (6) bekezdéssel egészül ki:
+26. §[^27]
 
-„(6) A hatóság a döntését tájékoztatásul közli az Országos Építészeti Tervtanáccsal vagy a területi építészeti-műszaki tervtanáccsal, ha az eljárást megelőzően véleményt adott.”
+[^27]: A 26. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

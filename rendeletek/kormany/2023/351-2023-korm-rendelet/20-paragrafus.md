@@ -1,3 +1,3 @@
-20. § Az R5. 3. alcíme a következő 6/A. §-sal egészül ki:
+20. §[^21]
 
-„6/A. § A miniszter építésügyi vizsgával kapcsolatos feladatainak informatikai támogatásáról az LTK gondoskodik.”
+[^21]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

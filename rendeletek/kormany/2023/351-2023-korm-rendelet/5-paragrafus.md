@@ -1,5 +1,3 @@
-5. § Hatályát veszti az R1.
+5. §[^6]
 
-a) 6. § (2) bekezdésében az „– a Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság által javasolt –” szövegrész,
-
-b) 13. § (4) bekezdés f) és g) pontja.
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

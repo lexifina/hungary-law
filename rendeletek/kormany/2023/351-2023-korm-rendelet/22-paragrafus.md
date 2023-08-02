@@ -1,1 +1,3 @@
-22. § Hatályát veszti az R5. 4. § (2) bekezdésében a „szakmai felügyelete és irányítása mellett az LTK” szövegrész.
+22. §[^23]
+
+[^23]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
