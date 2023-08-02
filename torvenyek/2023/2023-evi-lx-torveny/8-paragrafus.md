@@ -1,3 +1,1 @@
-8. § A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 24. §-a helyébe a következő rendelkezés lép:
-
-„24. § A 21. és 22. §-ban nem szabályozott sorsolásos játék (a továbbiakban: egyéb sorsolásos játék) a szerencsejáték-felügyeleti hatóság engedélyével szervezhető. Egyéb sorsolásos játék minden olyan folyamatosan szervezett sorsolásos játék, amely esetében a sorsjátéktól és a számsorsjátéktól különböző, az egyéb sorsolásos játék szerencsejáték-felügyeleti hatóság által jóváhagyott játéktervében rögzített azonosítási módszer alapján kerülnek meghatározásra azok a sorsolási körülmények, amelyek fennállásától vagy bekövetkezésétől a nyerés vagy a vesztés függ. A nyeremény vagy nyereményhányad előre meghatározott az azonosítási módszer és a sorsolás eredményének függvényében.”
+### 8. §

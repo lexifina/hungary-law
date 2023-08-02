@@ -1,3 +1,1 @@
-5. § A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 21. §-a helyébe a következő rendelkezés lép:
-
-„21. § Sorsjáték az az esemény, amelynek keretében a sorsjáték szervezője ellenérték fejében folyamatos számozással megjelölt vagy az esetleges nyeremény összegét megjelölő sorsjegyet bocsát ki, és kötelezettséget vállal arra, hogy az előre meghatározott helyen és időben nyilvánosan megtartott sorsoláson, vagy a sorsjegy megvásárlásával egy időben a véletlenszerűen kihúzott számot vagy nyereményösszeget megjelölő sorsjegy birtokosát meghatározott vagyoni értéket képviselő nyereményhez juttatja. Sorsjátéknak minősül a kaparós sorsjegy is.”
+### 5. §
