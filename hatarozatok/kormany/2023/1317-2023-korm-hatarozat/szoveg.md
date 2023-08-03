@@ -1,3 +1,5 @@
-1. Hatályát veszti a Tudományos és Innovációs, Technológiai, Ipari és Logisztikai Park Tanácsról szóló 1166/2023. (IV. 28.) Korm. határozat 5. pont e) alpontja.
+1.[^2]
 
 2. Ez a határozat a közzétételét követő 8. napon lép hatályba.
+
+[^2]: Az 1. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
