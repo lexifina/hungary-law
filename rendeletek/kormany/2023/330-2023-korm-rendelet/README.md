@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-330-20-
 | --- | --- | --- |
 | 2023-07-20 | 2023-330-20-22.1 | 330/2023. (VII. 19.) Korm. rendelet |
 | 2023-07-21 | 2023-330-20-22.2 | 2010. évi CXXX. törvény |
+| 2023-08-03 | 2023-330-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
