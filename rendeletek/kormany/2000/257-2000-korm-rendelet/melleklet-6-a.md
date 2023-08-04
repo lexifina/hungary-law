@@ -40,8 +40,8 @@
 
 | 19. | 17 | 48 év felett | 268 860 | 318 756 | 373 698 |
 
-6/a. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez[^124]
+6/a. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez[^125]
 
 Bölcsődei pótlék összege (Ft) a bölcsődében, mini bölcsődében foglalkoztatott bölcsődei dajkák vonatkozásában
 
-[^124]: A 6/a. számú mellékletet a 272/2019. (XI. 20.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 646/2021. (XI. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^125]: A 6/a. számú mellékletet a 272/2019. (XI. 20.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 646/2021. (XI. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.

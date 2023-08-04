@@ -46,3 +46,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-257-20-
 | 2022-07-01 | 2000-257-20-22.46 | 224/2007. (VIII. 31.) Korm. rendelet |
 | 2023-01-01 | 2000-257-20-22.47 | 629/2022. (XII. 30.) Korm. rendelet |
 | 2023-07-28 | 2000-257-20-22.48 | 349/2023. (VII. 27.) Korm. rendelet |
+| 2023-08-04 | 2000-257-20-22.49 | 364/2023. (VIII. 3.) Korm. rendelet |
