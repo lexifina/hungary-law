@@ -1,0 +1,1 @@
+1. § A Kormány e rendelettel felhatalmazást ad a Nemzetközi Szőlészeti és Borászati Szervezet létrehozásáról szóló, 2001. április 3-i Megállapodás módosításáról szóló Jegyzőkönyv (a továbbiakban: Jegyzőkönyv) kötelező hatályának elismerésére.
