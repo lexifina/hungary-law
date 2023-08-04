@@ -16,7 +16,7 @@ g) évenként legalább két családlátogatást a tanodát rendszeresen igényb
 
 h) évenként legalább négy családi közösségi programot, amelyekbe a tanodát rendszeresen igénybe vevők családját is be kell vonni.
 
-i)[^14] a tanodát rendszeresen igénybe vevők digitális kompetencia, valamint információs és kommunikációs technológia készségeinek fejlesztését és azok gyakorlati alkalmazását.
+i)[^19] a tanodát rendszeresen igénybe vevők digitális kompetencia, valamint információs és kommunikációs technológia készségeinek fejlesztését és azok gyakorlati alkalmazását.
 
 (2) A tanoda az (1) bekezdésben foglaltakon túl önként vállalt feladatként a Gyvt. 38/B. § (1) bekezdésében meghatározott célokat szolgáló egyéb szolgáltatásokat is nyújthat, így különösen
 
@@ -28,7 +28,7 @@ c) a tanodát rendszeresen igénybe vevők számára kisétkezést biztosíthat,
 
 d) helyszínt biztosíthat a szünidei gyermekétkeztetés igénybevételéhez.
 
-(3)[^15] A tanoda együttműködik a Társadalmi Esélyteremtési Főigazgatóság által működtetett, a tanodák módszertani támogatását biztosító tanácsadói hálózattal.
+(3)[^20] A tanoda együttműködik a Társadalmi Esélyteremtési Főigazgatóság által működtetett, a tanodák módszertani támogatását biztosító tanácsadói hálózattal.
 
-[^14]: A 12. § (1) bekezdés i) pontját a 3/2021. (II. 5.) BM rendelet 4. §-a iktatta be.
-[^15]: A 12. § (3) bekezdését a 80/2022. (XII. 30.) BM rendelet 50. §-a iktatta be.
+[^19]: A 12. § (1) bekezdés i) pontját a 3/2021. (II. 5.) BM rendelet 4. §-a iktatta be.
+[^20]: A 12. § (3) bekezdését a 80/2022. (XII. 30.) BM rendelet 50. §-a iktatta be.

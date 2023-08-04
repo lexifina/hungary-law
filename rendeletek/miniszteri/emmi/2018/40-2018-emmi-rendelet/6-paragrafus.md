@@ -1,4 +1,4 @@
-6. § (1)[^8] A Biztos Kezdet Gyerekház szolgáltatási idejének egy hónapban átlagosan el kell érnie munkanaponként a hat órát azzal, hogy a Biztos Kezdet Gyerekháznak – a (4) bekezdésben foglalt kivétellel – minden munkanapon legalább 4 óra időtartamban (a továbbiakban: kötelező szolgáltatási idő) szolgáltatást kell nyújtania a gyermekek és a szülők számára. A szolgáltatás a Biztos Kezdet Gyerekház épületében, a Biztos Kezdet Gyerekháznak helyet biztosító, más szolgáltatást is befogadó integrált térben vagy eseti jelleggel, ha a szolgáltatás típusa azt megköveteli, külső helyszínen biztosítható.
+6. § (1)[^9] A Biztos Kezdet Gyerekház szolgáltatási idejének egy hónapban átlagosan el kell érnie munkanaponként a hat órát azzal, hogy a Biztos Kezdet Gyerekháznak – a (4) bekezdésben foglalt kivétellel – minden munkanapon legalább 4 óra időtartamban (a továbbiakban: kötelező szolgáltatási idő) szolgáltatást kell nyújtania a gyermekek és a szülők számára. A szolgáltatás a Biztos Kezdet Gyerekház épületében, a Biztos Kezdet Gyerekháznak helyet biztosító, más szolgáltatást is befogadó integrált térben vagy eseti jelleggel, ha a szolgáltatás típusa azt megköveteli, külső helyszínen biztosítható.
 
 (2) A kötelező szolgáltatási időn felüli szolgáltatásnyújtást a Biztos Kezdet Gyerekházban vezetői munkakörben foglalkoztatott személy határozza meg a helyi igények alapján.
 
@@ -14,4 +14,4 @@ c) a foglalkoztatottaknak a Biztos Kezdet Alapképzésen, a módszertani támoga
 
 (5) A fenntartó a Biztos Kezdet Gyerekház szolgáltatásnyújtásának szüneteléséről – a működést ellehetetlenítő vis maior eset kivételével – a szünetelést megelőzően legalább tíz nappal a helyben szokásos módon tájékoztatja a szolgáltatást igénybe vevőket és a helyi közösséget.
 
-[^8]: A 6. § (1) bekezdése a 3/2021. (II. 5.) BM rendelet 6. § d) pontja szerint módosított szöveg.
+[^9]: A 6. § (1) bekezdése a 3/2021. (II. 5.) BM rendelet 6. § d) pontja szerint módosított szöveg.
