@@ -1,12 +1,12 @@
 29. § (1) A javaslattétel során a gyermek bántalmazástól, elhanyagolástól való védelemhez való jogát, a saját családjában történő nevelkedéshez és családi kapcsolatainak megtartásához, ápolásához való jogát, valamint a gyermek véleményét kell elsősorban figyelembe venni.
 
-(2)[^104] A javaslat a GYVR útján ismerteti a gyermek helyzetét, különösen
+(2)[^110] A javaslat a GYVR útján ismerteti a gyermek helyzetét, különösen
 
 a) a veszélyeztető körülményeket, azoknak a gyermekre gyakorolt hatását,
 
 b) a szülő vagy a gyermeket nevelő más személy nevelési tevékenységét,
 
-c)[^105] a gyermeket nevelő család élethelyzetére vonatkozó, a GYVR-ben szereplő adatokat,
+c)[^111] a gyermeket nevelő család élethelyzetére vonatkozó, a GYVR-ben szereplő adatokat,
 
 d) a javaslattétel elkészítéséig biztosított alapellátásokat, valamint az ügy szempontjából fontos más ellátásokat,
 
@@ -20,11 +20,11 @@ g) megelőző pártfogás alatt álló gyermek esetén a megelőző pártfogás 
 
 (4) Ha a javaslattételre a család- és gyermekjóléti szolgálat kezdeményezése alapján kerül sor, a család- és gyermekjóléti központ
 
-a)[^106]
+a)[^112]
 
-b)[^107] védelembe vétel esetén a javaslatot mérlegelés nélkül, azonban szükség szerint kiegészítve, a gyámhivatal számára a GYVR-ben megismerhetővé teszi.
+b)[^113] védelembe vétel esetén a javaslatot mérlegelés nélkül, azonban szükség szerint kiegészítve, a gyámhivatal számára a GYVR-ben megismerhetővé teszi.
 
-[^104]: A 29. § (2) bekezdés nyitó szövegrésze a 15/2021. (IV. 29.) EMMI rendelet 8. § d) pontja szerint módosított szöveg.
-[^105]: A 29. § (2) bekezdés c) pontja a 15/2021. (IV. 29.) EMMI rendelet 8. § e) pontja szerint módosított szöveg.
-[^106]: A 29. § (4) bekezdés a) pontját a 15/2021. (IV. 29.) EMMI rendelet 9. §-a hatályon kívül helyezte.
-[^107]: A 29. § (4) bekezdés b) pontja a 15/2021. (IV. 29.) EMMI rendelet 8. § f) pontja szerint módosított szöveg.
+[^110]: A 29. § (2) bekezdés nyitó szövegrésze a 15/2021. (IV. 29.) EMMI rendelet 8. § d) pontja szerint módosított szöveg.
+[^111]: A 29. § (2) bekezdés c) pontja a 15/2021. (IV. 29.) EMMI rendelet 8. § e) pontja szerint módosított szöveg.
+[^112]: A 29. § (4) bekezdés a) pontját a 15/2021. (IV. 29.) EMMI rendelet 9. §-a hatályon kívül helyezte.
+[^113]: A 29. § (4) bekezdés b) pontja a 15/2021. (IV. 29.) EMMI rendelet 8. § f) pontja szerint módosított szöveg.

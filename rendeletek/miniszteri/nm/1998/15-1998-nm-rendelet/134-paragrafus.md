@@ -1,10 +1,10 @@
-134. §[^435] (1)[^436]
+134. §[^446] (1)[^447]
 
-(2)[^437] Az igazgató, amennyiben a nevelésbe vett gyermeknek a központi speciális gyermekotthonban való elhelyezését már nem tartja indokoltnak, javasolhatja a gyámhivatalnak a nevelésbe vett gyermek gondozási helyének megváltoztatását és erről tájékoztatja a gyermekvédelmi gyámot.
+(2)[^448] Az igazgató, amennyiben a nevelésbe vett gyermeknek a központi speciális gyermekotthonban való elhelyezését már nem tartja indokoltnak, javasolhatja a gyámhivatalnak a nevelésbe vett gyermek gondozási helyének megváltoztatását és erről tájékoztatja a gyermekvédelmi gyámot.
 
-(3)[^438] Ha a gyámhivatal – az országos bizottság véleményének figyelembevételével – határozatot hoz a gyermek gondozási helyének megváltoztatásáról, a gyermekvédelmi gyám gondoskodik a nevelésbe vett gyermeknek a gyámhivatal határozatában megjelölt új gondozási helyére való kíséréséről.
+(3)[^449] Ha a gyámhivatal – az országos bizottság véleményének figyelembevételével – határozatot hoz a gyermek gondozási helyének megváltoztatásáról, a gyermekvédelmi gyám gondoskodik a nevelésbe vett gyermeknek a gyámhivatal határozatában megjelölt új gondozási helyére való kíséréséről.
 
-[^435]: A 134. § a 46/2003. (VIII. 8.) ESZCSM rendelet 79. §-ával megállapított szöveg.
-[^436]: A 134. § (1) bekezdését a 19/2014. (III. 13.) EMMI rendelet 39. § d) pontja hatályon kívül helyezte.
-[^437]: A 134. § (2) bekezdése a 49/2013. (VII. 10.) EMMI rendelet 23. § i) pontja, a 26/2013. (III. 29.) EMMI rendelet 37. § 16. pontja szerint módosított szöveg.
-[^438]: A 134. § (3) bekezdése a 26/2013. (III. 29.) EMMI rendelet 37. § 15. pontja szerint módosított szöveg.
+[^446]: A 134. § a 46/2003. (VIII. 8.) ESZCSM rendelet 79. §-ával megállapított szöveg.
+[^447]: A 134. § (1) bekezdését a 19/2014. (III. 13.) EMMI rendelet 39. § d) pontja hatályon kívül helyezte.
+[^448]: A 134. § (2) bekezdése a 49/2013. (VII. 10.) EMMI rendelet 23. § i) pontja, a 26/2013. (III. 29.) EMMI rendelet 37. § 16. pontja szerint módosított szöveg.
+[^449]: A 134. § (3) bekezdése a 26/2013. (III. 29.) EMMI rendelet 37. § 15. pontja szerint módosított szöveg.

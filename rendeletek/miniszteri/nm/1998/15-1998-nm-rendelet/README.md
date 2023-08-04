@@ -60,3 +60,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-15-20-3
 | 2022-09-02 | 1998-15-20-3D.64 | 6/2020. (III. 6.) EMMI rendelet |
 | 2022-12-28 | 1998-15-20-3D.66 | 19/2014. (III. 13.) EMMI rendelet |
 | 2023-01-01 | 1998-15-20-3D.65 | 45/2022. (XII. 20.) BM rendelet |
+| 2023-08-04 | 1998-15-20-3D.67 | 27/2023. (VIII. 3.) BM rendelet |

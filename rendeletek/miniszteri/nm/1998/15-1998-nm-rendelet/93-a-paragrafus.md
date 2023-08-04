@@ -1,6 +1,6 @@
-93/A. §[^271] (1) A fiatal felnőtt az utógondozói ellátás meghosszabbítása iránti kérelmet az utógondozói ellátást biztosító intézmény vagy nevelőszülői hálózat fenntartójához nyújthatja be a 25. életévének elérését megelőző két hónappal. A fiatal felnőtt a kérelméhez csatolja
+93/A. §[^278] (1) A fiatal felnőtt az utógondozói ellátás meghosszabbítása iránti kérelmet az utógondozói ellátást biztosító intézmény vagy nevelőszülői hálózat fenntartójához nyújthatja be a 25. életévének elérését megelőző két hónappal. A fiatal felnőtt a kérelméhez csatolja
 
-a)[^272] a középfokú iskola vagy a szakképző intézmény igazolását a tanulói vagy felnőttképzési jogviszonya fennállásáról, a felsőoktatási intézmény igazolását a hallgatói jogviszonya fennállásáról, vagy a felsőoktatási intézmény döntését a felvételről vagy átvételről, és
+a)[^279] a középfokú iskola vagy a szakképző intézmény igazolását a tanulói vagy felnőttképzési jogviszonya fennállásáról, a felsőoktatási intézmény igazolását a hallgatói jogviszonya fennállásáról, vagy a felsőoktatási intézmény döntését a felvételről vagy átvételről, és
 
 b) az utógondozói ellátást nyújtó befogadó nyilatkozatát.
 
@@ -24,5 +24,5 @@ c) az utógondozói ellátást nyújtó intézmény vagy nevelőszülői hálóz
 
 d) a gyámhivatalt.
 
-[^271]: A 93/A. §-t a 2/2018. (I. 18.) EMMI rendelet 17. §-a iktatta be.
-[^272]: A 93/A. § (1) bekezdés a) pontja a 80/2022. (XII. 30.) BM rendelet 4. §-ával megállapított szöveg.
+[^278]: A 93/A. §-t a 2/2018. (I. 18.) EMMI rendelet 17. §-a iktatta be.
+[^279]: A 93/A. § (1) bekezdés a) pontja a 80/2022. (XII. 30.) BM rendelet 4. §-ával megállapított szöveg.

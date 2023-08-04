@@ -92,7 +92,7 @@
 
 | * Örökbefogadási eset alatt értendő: érvényes alkalmassági határozattal rendelkező örökbefogadásra váró családok száma, a folyamatban lévő alkalmassági vizsgálatok száma (házaspár egynek számít), folyamatban lévő örökbefogadások (beleértve a más vármegyei örökbefogadás és nyílt örökbefogadás esetén a kötelező gondozási idő figyelemmel kísérését), a nyílt örökbefogadás előkészítésének száma, valamint az örökbefogadás kötelező és önkéntes utánkövetésének száma. |
 
-2. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^649]
+2. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^662]
 
 I. Rész
 
@@ -104,7 +104,7 @@ I. Alapellátások
 
 | 1. Család- és gyermekjóléti szolgálat és család- és gyermekjóléti központ | magasabb vezető/vezető | felsőfokú szociális szakképzettség*, okleveles pszichológus, pszichopedagógus, mentálhigiénés szakképzettség**, okleveles szociálpolitikus-közgazdász, szociális menedzser, viselkedéselemző család- és gyermekvédelem szakos pedagógus, család- és gyermekvédő pedagógus, gyermek- és ifjúságvédelmi tanácsadó, jogi szakokleveles családvédelmi tanácsadó, igazgatásszervező szociális szakigazgatás-szervező szakirányú szakképzettséggel, szociális igazgatásszervező oklevéllel rendelkező: nevelőtanár, pedagógus szakképzettség***, pedagógiai előadó, gyógypedagógus, védőnő, teológus, jogász, igazgatásszervező, közigazgatás-szervező és szervezetfejlesztő szakember, szociális menedzser oklevéllel rendelkező: pedagógus, védőnő, okleveles pasztorális tanácsadó, szociológus, komplex szociális szolgáltatások szakembere |
 
-* Felsőfokú szociális szakképzettség: általános szociális munkás, szociális munkás, okleveles szociális munkás, okleveles egészségügyi szociális munkás, szociális szervező, szociálpolitikus, okleveles szociálpolitikus, okleveles szociálpedagógus, szociálpedagógus.
+* Felsőfokú szociális szakképzettség: általános szociális munkás, szociális munkás, diakónus, okleveles szociális munkás, okleveles egészségügyi szociális munkás, szociális szervező, szociálpolitikus, okleveles szociálpolitikus, okleveles szociálpedagógus, szociálpedagógus.
 
 ** Mentálhigiénés szakképzettség: felsőfokú végzettség és mentálhigiénés szakképzettség, valamint az alap- vagy mesterképzést követően szerzett szakirányú továbbképzésben szerzett mentálhigiénés szakképzettség.
 
@@ -152,7 +152,7 @@ I. Alapellátások
 
 |  | tanácsadó | felsőfokú szociális szakképzettség, utcai szociális munka, gyógypedagógus, fejlesztőpedagógus, pedagógus szakképzettség, egészségügyi szociális munkás, okleveles szociálpolitikus-közgazdász, okleveles emberi erőforrás tanácsadó, szociálgerontológus, közösségi szociális munkás, szociológus, igazgatásszervező szociális szakigazgatás-szervező szakirányú szakképzettséggel, közigazgatás-szervező, jogász, teológus, pasztorális tanácsadó, humánerőforrás menedzser, humánszervező, mentálhigiénés szakképzettség, mentálhigiénés családtudományi és családterápiás szakember, ápoló (alapképzés), reflektív addiktológiai szociális segítés, addiktológiai konzultáns, addiktológiai szakpszichológus, jogi szakokleveles családvédelmi tanácsadó, népművelő, művelődésszervező, művelődési menedzser, kulturális közösségszervező, andragógus, okleveles pszichológus, pszichiáter, gyermek- és ifjúságpszichiátriai és addiktológiai konzultáns, pszichopedagógus, családterápiás konzultáns, családterapeuta, kognitív- és viselkedésterápiás konzultáns, viselkedéselemző, társadalmi devianciák, életmód tanácsadó és terapeuta, életút-támogató tanácsadó, munkajogi szakokleveles tanácsadó szupervizor, mediátor, közösségi és családi mediáció, általános és családügyi mediáció, gyermekvédelmi pszicho-patrónus, egészségtan tanár, játék- és szabadidő-szervező tanár vagy gyermek- és ifjúságvédelmi tanácsadó oklevéllel rendelkező: védőnő, teológus, hittanár, hittantanár, okleveles pasztorális tanácsadó/okleveles pasztorális tanácsadó és szervezetfejlesztő szakember, kulturális antropológus |
 
-|  | óvodai és iskolai szociális segítő | felsőfokú szociális szakképzettség, mentálhigiénés szakképzettség, iskolai szociális munkás, család- és gyermekvédő tanár, család- és gyermekvédő pedagógus, család- és gyermekvédelem szakos pedagógus, ennek hiányában gyermek- és ifjúságvédelmi tanácsadó oklevéllel rendelkező: nevelőtanár, pedagógus, pedagógiai előadó, pszichopedagógus, okleveles emberi erőforrás tanácsadó, mentálhigiénés szakképzettség, óvodapedagógus, tanító, gyógypedagógus |
+|  | óvodai és iskolai szociális segítő | felsőfokú szociális szakképzettség, mentálhigiénés szakképzettség, iskolai szociális munkás, óvodai és iskolai szociális segítő, család- és gyermekvédő tanár, család- és gyermekvédő pedagógus, család- és gyermekvédelem szakos pedagógus, ennek hiányában gyermek- és ifjúságvédelmi tanácsadó oklevéllel rendelkező: nevelőtanár, pedagógus, pedagógiai előadó, pszichopedagógus, okleveles emberi erőforrás tanácsadó, óvodapedagógus, tanító, gyógypedagógus |
 
 |  | szociális asszisztens | szociális asszisztens (OKJ), |
 
@@ -322,4 +322,4 @@ I. Alapellátások
 
 | 3.1. Napközbeni gyermekfelügyelet hálózat | koordinátor | a napközbeni gyermekfelügyelet szolgáltatást nyújtó személyek képesítési előírásait meghatározó miniszteri rendeletben előírt tanfolyam |
 
-[^649]: A 2. számú melléklet a 2/2018. (I. 18.) EMMI rendelet 29. § (3) bekezdésével megállapított, 29. § (4) bekezdése, a 4/2019. (II. 27.) EMMI rendelet 8. § (2) bekezdése, a 6/2020. (III. 6.) EMMI rendelet 7. §-a, az 1/2021. (I. 7.) EMMI rendelet 8. § e)–g) pontja és 7. § (2) bekezdése, a 15/2021. (IV. 29.) EMMI rendelet 7. §-a, 8. § j)–o) pontja, a 62/2021. (XII. 29.) EMMI rendelet 5. §-a, az 5/2022. (III. 28.) MvM rendelet 1. § c) pontja, a 45/2022. (XII. 20.) BM rendelet 6. § 9. pontja, a 80/2022. (XII. 30.) BM rendelet 8. §-a, a 9. § c) pontja szerint módosított szöveg.
+[^662]: A 2. számú melléklet a 2/2018. (I. 18.) EMMI rendelet 29. § (3) bekezdésével megállapított, 29. § (4) bekezdése, a 4/2019. (II. 27.) EMMI rendelet 8. § (2) bekezdése, a 6/2020. (III. 6.) EMMI rendelet 7. §-a, az 1/2021. (I. 7.) EMMI rendelet 8. § e)–g) pontja és 7. § (2) bekezdése, a 15/2021. (IV. 29.) EMMI rendelet 7. §-a, 8. § j)–o) pontja, a 62/2021. (XII. 29.) EMMI rendelet 5. §-a, az 5/2022. (III. 28.) MvM rendelet 1. § c) pontja, a 45/2022. (XII. 20.) BM rendelet 6. § 9. pontja, a 80/2022. (XII. 30.) BM rendelet 8. §-a, a 9. § c) pontja, a 27/2023. (VIII. 3.) BM rendelet 4. § k) és l) pontja szerint módosított szöveg.

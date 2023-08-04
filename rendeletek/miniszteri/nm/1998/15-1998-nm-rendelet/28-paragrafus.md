@@ -1,6 +1,6 @@
 ## Javaslattétel hatósági intézkedésre
 
-## 28. §[^103] A család- és gyermekjóléti központ GYVR útján javaslatot tesz a gyámhivatal részére a gyermek
+## 28. §[^109] A család- és gyermekjóléti központ GYVR útján javaslatot tesz a gyámhivatal részére a gyermek
 
 a) védelembe vételére,
 
@@ -22,4 +22,4 @@ i) gondozási helyének megváltoztatására,
 
 j) után járó családi pótlék természetbeni formában történő nyújtására.
 
-[^103]: A 28. § nyitó szövegrésze a 15/2021. (IV. 29.) EMMI rendelet 8. § c) pontja szerint módosított szöveg.
+[^109]: A 28. § nyitó szövegrésze a 15/2021. (IV. 29.) EMMI rendelet 8. § c) pontja szerint módosított szöveg.

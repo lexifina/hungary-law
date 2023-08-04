@@ -12,30 +12,30 @@ c) a gondozott gyermek nevelési-oktatási intézményének rendszeres, szüksé
 
 d) tanácsadás keretében a nevelőszülő segítése a gondozott gyermekkel kapcsolatos problémák megoldásában, szükség esetén a nevelőszülő, illetve a gyermek megfelelő szakemberhez történő irányítása, továbbá a szükséges ellátáshoz való hozzájutásuk elősegítése,
 
-e)[^284] ellenőrzés keretében annak vizsgálata, hogy a nevelőszülő megtesz-e mindent a gondozott gyermek harmonikus fejlődése érdekében, továbbá, hogy a gyermek ellátására kapott nevelési ellátmányt, illetve családi pótlékot a gyermekre fordítja-e,
+e)[^291] ellenőrzés keretében annak vizsgálata, hogy a nevelőszülő megtesz-e mindent a gondozott gyermek harmonikus fejlődése érdekében, továbbá, hogy a gyermek ellátására kapott nevelési ellátmányt, illetve családi pótlékot a gyermekre fordítja-e,
 
-f)[^285] a fiatal felnőtt, az utógondozói ellátásban részesülő fiatal felnőtt utógondozása,
+f)[^292] a fiatal felnőtt, az utógondozói ellátásban részesülő fiatal felnőtt utógondozása,
 
-g)[^286] a gyermek nevelőszülőhöz helyezését követően a nevelőszülő folyamatos felkészítése a gyermek vér szerinti családjába való beilleszkedésre irányuló gondozásával (a továbbiakban: vér szerinti családba gondozás) vagy örökbefogadó családjába való beilleszkedésre irányuló gondozásával (a továbbiakban: örökbefogadó családba gondozás) kapcsolatos feladataira,
+g)[^293] a gyermek nevelőszülőhöz helyezését követően a nevelőszülő folyamatos felkészítése a gyermek vér szerinti családjába való beilleszkedésre irányuló gondozásával (a továbbiakban: vér szerinti családba gondozás) vagy örökbefogadó családjába való beilleszkedésre irányuló gondozásával (a továbbiakban: örökbefogadó családba gondozás) kapcsolatos feladataira,
 
-h)[^287] a gyermek vér szerinti családba gondozása vagy örökbefogadó családba gondozása esetén a nevelőszülő támogatása a gyermek megfelelő felkészítésében, átgondozásában, elengedésében,
+h)[^294] a gyermek vér szerinti családba gondozása vagy örökbefogadó családba gondozása esetén a nevelőszülő támogatása a gyermek megfelelő felkészítésében, átgondozásában, elengedésében,
 
-i)[^288] a gyermeknek a nevelőszülő háztartásából való kikerülését követően segítség nyújtása a nevelőszülőnél tovább nevelkedő gyermekek és a nevelőszülő veszteségélményének feldolgozásához.
+i)[^295] a gyermeknek a nevelőszülő háztartásából való kikerülését követően segítség nyújtása a nevelőszülőnél tovább nevelkedő gyermekek és a nevelőszülő veszteségélményének feldolgozásához.
 
-(3)[^289] A nevelőszülői tanácsadó haladéktalanul tájékoztatja a működtetőt, ha a nevelőszülő tevékenységének ellenőrzése során a Gyvt. 66/D. § (8) bekezdésében foglaltakat tapasztalja.
+(3)[^296] A nevelőszülői tanácsadó haladéktalanul tájékoztatja a működtetőt, ha a nevelőszülő tevékenységének ellenőrzése során a Gyvt. 66/D. § (8) bekezdésében foglaltakat tapasztalja.
 
-(3a)[^290] A nevelőszülői tanácsadó a gyermek vér szerinti családba gondozása, ha erre nincs lehetőség, örökbefogadó családba gondozása érdekében folyamatosan együttműködik a gyermekvédelmi gyámmal, – a vér szerinti családba gondozás esetén – a család- és gyermekjóléti szolgálat, illetve központ szakembereivel és – az örökbefogadó családba gondozás esetén – a szakszolgálat munkatársaival.
+(3a)[^297] A nevelőszülői tanácsadó a gyermek vér szerinti családba gondozása, ha erre nincs lehetőség, örökbefogadó családba gondozása érdekében folyamatosan együttműködik a gyermekvédelmi gyámmal, – a vér szerinti családba gondozás esetén – a család- és gyermekjóléti szolgálat, illetve központ szakembereivel és – az örökbefogadó családba gondozás esetén – a szakszolgálat munkatársaival.
 
-(3b)[^291] A nevelőszülői hálózatot működtető folyamatosan figyelemmel kíséri a gyermek vér szerinti családba gondozásával, illetve örökbefogadó családba gondozásával kapcsolatos nevelőszülői és nevelőszülői tanácsadói feladatellátást, valamint ahhoz – a szakszolgálat munkatársaival együttműködve – szakmai támogatást nyújt.
+(3b)[^298] A nevelőszülői hálózatot működtető folyamatosan figyelemmel kíséri a gyermek vér szerinti családba gondozásával, illetve örökbefogadó családba gondozásával kapcsolatos nevelőszülői és nevelőszülői tanácsadói feladatellátást, valamint ahhoz – a szakszolgálat munkatársaival együttműködve – szakmai támogatást nyújt.
 
-(4)[^292] A nevelőszülői hálózatot működtető gyermekfelügyelet vagy helyettesítés megszervezésével biztosítja a nevelőszülő számára a továbbképzésen való részvétel lehetőségét.
+(4)[^299] A nevelőszülői hálózatot működtető gyermekfelügyelet vagy helyettesítés megszervezésével biztosítja a nevelőszülő számára a továbbképzésen való részvétel lehetőségét.
 
-[^284]: A 100. § (2) bekezdésének e) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 59. §-ával megállapított, a 80/2022. (XII. 30.) BM rendelet 9. § b) pontja szerint módosított szöveg.
-[^285]: A 100. § (2) bekezdés f) pontja a 26/2013. (III. 29.) EMMI rendelet 10. §-ával megállapított szöveg.
-[^286]: A 100. § (2) bekezdés g) pontját a 35/2020. (X. 5.) EMMI rendelet 1. § (1) bekezdése iktatta be.
-[^287]: A 100. § (2) bekezdés h) pontját a 35/2020. (X. 5.) EMMI rendelet 1. § (1) bekezdése iktatta be.
-[^288]: A 100. § (2) bekezdés i) pontját a 35/2020. (X. 5.) EMMI rendelet 1. § (1) bekezdése iktatta be.
-[^289]: A 100. § (3) bekezdése a 83/2013. (XII. 29.) EMMI rendelet 9. §-ával megállapított szöveg.
-[^290]: A 100. § (3a) bekezdését a 35/2020. (X. 5.) EMMI rendelet 1. § (2) bekezdése iktatta be.
-[^291]: A 100. § (3b) bekezdését a 35/2020. (X. 5.) EMMI rendelet 1. § (2) bekezdése iktatta be.
-[^292]: A 100. § (4) bekezdése a 83/2013. (XII. 29.) EMMI rendelet 9. §-ával megállapított szöveg.
+[^291]: A 100. § (2) bekezdésének e) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 59. §-ával megállapított, a 80/2022. (XII. 30.) BM rendelet 9. § b) pontja szerint módosított szöveg.
+[^292]: A 100. § (2) bekezdés f) pontja a 26/2013. (III. 29.) EMMI rendelet 10. §-ával megállapított szöveg.
+[^293]: A 100. § (2) bekezdés g) pontját a 35/2020. (X. 5.) EMMI rendelet 1. § (1) bekezdése iktatta be.
+[^294]: A 100. § (2) bekezdés h) pontját a 35/2020. (X. 5.) EMMI rendelet 1. § (1) bekezdése iktatta be.
+[^295]: A 100. § (2) bekezdés i) pontját a 35/2020. (X. 5.) EMMI rendelet 1. § (1) bekezdése iktatta be.
+[^296]: A 100. § (3) bekezdése a 83/2013. (XII. 29.) EMMI rendelet 9. §-ával megállapított szöveg.
+[^297]: A 100. § (3a) bekezdését a 35/2020. (X. 5.) EMMI rendelet 1. § (2) bekezdése iktatta be.
+[^298]: A 100. § (3b) bekezdését a 35/2020. (X. 5.) EMMI rendelet 1. § (2) bekezdése iktatta be.
+[^299]: A 100. § (4) bekezdése a 83/2013. (XII. 29.) EMMI rendelet 9. §-ával megállapított szöveg.
