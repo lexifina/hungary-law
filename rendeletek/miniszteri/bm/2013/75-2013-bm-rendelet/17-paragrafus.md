@@ -14,6 +14,6 @@ f) ha az munkakörhöz kötött lakásnak minősül, vagy
 
 g) azt a belügyminiszter el nem idegeníthetővé nyilvánította.
 
-(2)[^28] Az 5. melléklet szerinti vezető az (1) bekezdés d) pontjában meghatározott tilalomtól rendkívüli méltánylást igénylő egyedi esetben eltekinthet, ha az nem jár a helyi lakásügyi szerv lakásgazdálkodási érdekeinek sérelmével, és a lakást a helyi lakásügyi szerv javaslatára elidegenítésre kijelölheti. Az eljárás során a 16. § (2) bekezdésében foglaltakat alkalmazni kell.
+(2)[^30] Az 5. melléklet szerinti vezető az (1) bekezdés d) pontjában meghatározott tilalomtól rendkívüli méltánylást igénylő egyedi esetben eltekinthet, ha az nem jár a helyi lakásügyi szerv lakásgazdálkodási érdekeinek sérelmével, és a lakást a helyi lakásügyi szerv javaslatára elidegenítésre kijelölheti. Az eljárás során a 16. § (2) bekezdésében foglaltakat alkalmazni kell.
 
-[^28]: A 17. § (2) bekezdése a 31/2018. (XII. 19.) BM rendelet 24. §-ával megállapított szöveg.
+[^30]: A 17. § (2) bekezdése a 31/2018. (XII. 19.) BM rendelet 24. §-ával megállapított szöveg.
