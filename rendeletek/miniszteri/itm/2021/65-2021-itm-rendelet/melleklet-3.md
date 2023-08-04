@@ -30,7 +30,7 @@
 
 | 15. | vadgazda mérnöki | Wildlife Management Engineering | vadgazda mérnök | Wildlife Management Engineer | 6 |
 
-| 16. | vidékfejlesztési agrármérnöki | Rural Development Engineering | vidékfejlesztési agrármérnök | Rural Development Engineer | 6 |
+| 16.[^6] | gazdasági és vidékfejlesztési agrármérnöki | Agribusiness and Rural Development Management | gazdasági és vidékfejlesztési agrármérnök | Agribusiness and Rural Development Engineer | 6 |
 
 | 17. | Bölcsészettudomány | Arts and Humanities | anglisztika | English and American Studies | anglisztika alapszakos bölcsész | Philologist in English and American Studies | 6 |
 
@@ -104,33 +104,35 @@
 
 | 29. | szabad bölcsészet | Liberal Arts | alapszakos szabad bölcsész | Philologist | 6 |
 
-| 30. | szlavisztika | Slavonic Studies | 1. szlavisztika, orosz alapszakos bölcsész | 1. SlavonicStudies, Philologist in Russian Studies; | 6 |
+| 30.[^7] | szlavisztika | Slavonic Studies | 1. szlavisztika, orosz alapszakos bölcsész | 1. Slavonic Studies, Philologist in Russian Studies | 6 |
 
-| 2. szlavisztika, bolgár alapszakos bölcsész | 2. SlavonicStudies, Philologist in Bulgarian Studies; |
+| 2. szlavisztika, bolgár alapszakos bölcsész | 2. Slavonic Studies, Philologist in Bulgarian Studies |
 
-| 3. szlavisztika, cseh alapszakos bölcsész | 3. SlavonicStudies, Philologist in Czech Studies; |
+| 3. szlavisztika, bolgár nemzetiségi alapszakos bölcsész | 3. Slavonic Studies, Philologist in Bulgarian as Ethnic Minority Studies |
 
-| 4. szlavisztika, lengyel alapszakos bölcsész | 4. SlavonicStudies, Philologist in Polish Studies; |
+| 4. szlavisztika, cseh alapszakos bölcsész | 4. Slavonic Studies, Philologist in Czech Studies |
 
-| 5. szlavisztika, horvát alapszakos bölcsész | 5. SlavonicStudies, Philologist in Croatian Studies; |
+| 5. szlavisztika, lengyel alapszakos bölcsész | 5. Slavonic Studies, Philologist in Polish Studies |
 
-| 6. szlavisztika, horvát nemzetiségi alapszakos bölcsész | 6. Slavonic Studies, Philologist in Croatianas EthnicMinority Studies; |
+| 6. szlavisztika, horvát alapszakos bölcsész | 6. Slavonic Studies, Philologist in Croatian Studies |
 
-| 7. szlavisztika, szerb alapszakos bölcsész | 7. Slavonic Studies, Philologist in Serbian Studies; |
+| 7. szlavisztika, horvát nemzetiségi alapszakos bölcsész | 7. Slavonic Studies, Philologist in Croatian as Ethnic Minority Studies |
 
-| 8. szlavisztika, szerb nemzetiségi alapszakos bölcsész | 8. Slavonic Studies, Philologist in Serbianas Ethnic Minority Studies; |
+| 8. szlavisztika, szerb alapszakos bölcsész | 8. Slavonic Studies, Philologist in Serbian Studies |
 
-| 9. szlavisztika, szlovák alapszakos bölcsész | 9. Slavonic Studies, Philologist in Slovakian Studies; |
+| 9. szlavisztika, szerb nemzetiségi alapszakos bölcsész | 9. Slavonic Studies, Philologist in Serbianas Ethnic Minority Studies |
 
-| 10. szlavisztika, szlovák nemzetiségi alapszakos bölcsész | 10. Slavonic Studies, Philologist in Slovakianas Ethnic Minority Studies; |
+| 10. szlavisztika, szlovák alapszakos bölcsész | 10. Slavonic Studies, Philologist in Slovakian Studies |
 
-| 11. szlavisztika, szlovén alapszakos bölcsész | 11. Slavonic Studies Slavistics, Philologist in Slovenian Studies; |
+| 11. szlavisztika, szlovák nemzetiségi alapszakos bölcsész | 11. Slavonic Studies, Philologist in Slovakian as Ethnic Minority Studies |
 
-| 12. szlavisztika, szlovén nemzetiségi alapszakos bölcsész | 12. Slavonic Studies, Philologist in Slovenianas Ethnic Minority Studies; |
+| 12. szlavisztika, szlovén alapszakos bölcsész | 12. Slavonic Studies, Philologist in Slovenian Studies |
 
-| 13. szlavisztika, ukrán alapszakos bölcsész | 13. Slavonic Studies, Philologist in Ukrainian Studies; |
+| 13. szlavisztika, szlovén nemzetiségi alapszakos bölcsész | 13. Slavonic Studies, Philologist in Slovenian as Ethnic Minority Studies |
 
-| 14. szlavisztika, ukrán nemzetiségi alapszakos bölcsész | 14. Slavonic Studies, Philologist in Ukrainianas Ethnic Minority Studies |
+| 14. szlavisztika, ukrán alapszakos bölcsész | 14. Slavonic Studies, Philologist in Ukrainian Studies |
+
+| 15. szlavisztika, ukrán nemzetiségi alapszakos bölcsész | 15. Slavonic Studies, Philologist in Ukrainian as Ethnic Minority Studies |
 
 | 31. | történelem | History | történelem alapszakos bölcsész | Philologist in History | 6 |
 
@@ -623,6 +625,8 @@ Mesterképzések és mesterképzésben, osztatlan képzésben szerezhető szakk�
 | 65. | levéltár |  | Archival Science | okleveles levéltáros | Archivist | 7 |
 
 | 66. | logika és tudományfilozófia |  | Logic and Philosophy of Science | okleveles logika és tudományfilozófia szakos bölcsész | Expert in Logic and Philosophy of Science | 7 |
+
+| 66/A.[^8] | magyar mint idegennyelv- oktató |  | Instruction of Hungarian as a Foreign Language | okleveles magyar mint idegennyelv- oktató bölcsész | Instructor of Hungarian as a Foreign Language | 7 |
 
 | 67. | magyar nyelv és irodalom |  | Hungarian Language and Literature Studies | okleveles magyar nyelv és irodalom szakos bölcsész | Philologist in Hungarian Language and Literature | 7 |
 
@@ -1153,3 +1157,7 @@ Mesterképzések és mesterképzésben, osztatlan képzésben szerezhető szakk�
 | 287. | zeneszerző |  | Music Composition | okleveles zeneszerző | Composer | 7 |
 
 | 288. | Művészetközvetítés | Art Education | művészeti instruktor |  | Arts Communication | okleveles művészeti instruktor | Arts Communication Expert | 7 |
+
+[^6]: A 2. mellékletben foglalt táblázat 16. sora az 5/2023. (VII. 27.) KIM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^7]: A 2. mellékletben foglalt táblázat 30. sora az 5/2023. (VII. 27.) KIM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^8]: A 3. mellékletben foglalt táblázat 66/A. sorát az 5/2023. (VII. 27.) KIM rendelet 10. § (3) bekezdése iktatta be.
