@@ -1,5 +1,5 @@
 6. § (1) A minisztérium ellenőrzi, hogy a képzések megfelelnek-e az oktatási programban, illetve az e rendeletben foglaltaknak.
 
-(2)[^27] Az Intézet a minisztérium részére minden év január 31-éig beszámolót készít az előző évben lebonyolított képzésekről.
+(2)[^28] Az Intézet a minisztérium részére minden év január 31-éig beszámolót készít az előző évben lebonyolított képzésekről.
 
-[^27]: A 6. § (2) bekezdése a 45/2020. (XII. 14.) EMMI rendelet 6. § j) pontja szerint módosított szöveg.
+[^28]: A 6. § (2) bekezdése a 45/2020. (XII. 14.) EMMI rendelet 6. § j) pontja szerint módosított szöveg.

@@ -10,7 +10,7 @@ d) a képzésen részt vevő személy képzés során nyújtott teljesítménye 
 
 e) a képzésen részt vevő személy számára megengedett hiányzás mértékét, és ennek túllépése esetén az őt érintő következményeket,
 
-f) a képzési térítési díj mértékét és fizetésének módját,
+f)[^27] a képzési térítési díj és a pótvizsgadíj mértékét és fizetésének módját,
 
 g) a képzésben részt vevő személy, illetve a képzőhely szerződésszegésének következményeit,
 
@@ -20,3 +20,4 @@ h) a panaszkezelés módját.
 
 [^25]: Az 5. § a 48/2015. (X. 28.) EMMI rendelet 12. §-ával megállapított szöveg.
 [^26]: Az 5. § (1) bekezdése a 7/2018. (II. 5.) EMMI rendelet 42. §-ával megállapított szöveg.
+[^27]: Az 5. § (1) bekezdés f) pontja a 27/2023. (VIII. 3.) BM rendelet 10. § b) pontja szerint módosított szöveg.

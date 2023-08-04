@@ -4,16 +4,16 @@
 
 ## Az adósságkezelési tanácsadó képzés
 
-11. § (1)[^35] Az adósságkezelési tanácsadó képzés célja a képzésen részt vevő személy felkészítése háztartásgazdálkodási tanácsadás ellátására, valamint az egyének, a családok és a közösségek számára a pénzügyi kultúra javítása céljából biztosított szolgáltatások nyújtására.
+11. § (1)[^37] Az adósságkezelési tanácsadó képzés célja a képzésen részt vevő személy felkészítése háztartásgazdálkodási tanácsadás ellátására, valamint az egyének, a családok és a közösségek számára a pénzügyi kultúra javítása céljából biztosított szolgáltatások nyújtására.
 
-(2)[^36] A képzés kötelező óraszáma 120 óra, ebből
+(2)[^38] A képzés kötelező óraszáma 120 óra, ebből
 
 a) 72 óra elméleti oktatás,
 
 b) 48 óra gyakorlati oktatás.
 
-(3)[^37]
+(3)[^39]
 
-[^35]: A 11. § (1) bekezdése a 7/2018. (II. 5.) EMMI rendelet 43. §-ával megállapított szöveg.
-[^36]: A 11. § (2) bekezdése a 37/2007. (XII. 22.) SZMM rendelet 21. § (1) bekezdésével megállapított szöveg. E módosító rendelet 22. § (7) bekezdése alapján a rendelkezést a 2008. január 1. napját követően indult képzésekre kell alkalmazni.
-[^37]: A 11. § (3) bekezdését a 37/2007. (XII. 22.) SZMM rendelet 21. § (2) bekezdése iktatta be, hatályon kívül helyezte a 7/2018. (II. 5.) EMMI rendelet 48. §-a.
+[^37]: A 11. § (1) bekezdése a 7/2018. (II. 5.) EMMI rendelet 43. §-ával megállapított szöveg.
+[^38]: A 11. § (2) bekezdése a 37/2007. (XII. 22.) SZMM rendelet 21. § (1) bekezdésével megállapított szöveg. E módosító rendelet 22. § (7) bekezdése alapján a rendelkezést a 2008. január 1. napját követően indult képzésekre kell alkalmazni.
+[^39]: A 11. § (3) bekezdését a 37/2007. (XII. 22.) SZMM rendelet 21. § (2) bekezdése iktatta be, hatályon kívül helyezte a 7/2018. (II. 5.) EMMI rendelet 48. §-a.
