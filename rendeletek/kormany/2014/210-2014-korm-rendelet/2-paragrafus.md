@@ -12,7 +12,13 @@ d)[^3] az általános csoportmentességi rendelet 38. cikke szerinti energiahat�
 
 e)[^4] az általános csoportmentességi rendelet 41. cikke szerinti megújuló energia támogatására irányuló beruházási,
 
-f)[^5] az Európai Bizottságnak az „Állami támogatási intézkedésekre vonatkozó ideiglenes válságkezelési keret a gazdaságnak Oroszország Ukrajna elleni agresszióját követő támogatása céljából” című, 2022/C 131 I/01 számú közleménye (a továbbiakban: közlemény) 2.1. szakaszában, valamint az európai bizottság vonatkozó támogatási programot jóváhagyó és az azt módosító határozataiban foglalt feltételek szerinti korlátozott összegű
+f)[^5] az Európai Bizottságnak az „Az állami támogatásokra vonatkozó, az Ukrajna elleni orosz agresszióval összefüggésben a gazdaság támogatását célzó ideiglenes válság- és átállási keret” című, 2023. március 17-i, 2023/C 101/03. számú közleménye (a továbbiakban: Közlemény) 2.1. szakaszában, valamint az Európai Bizottság vonatkozó támogatási programot jóváhagyó SA.104850 számú és az azt módosító határozataiban foglalt feltételek szerinti korlátozott összegű,
+
+g)[^6] a Közlemény 2.8. szakasza szerinti, „A nulla nettó kibocsátási célt szolgáló gazdaságra való átállás szempontjából stratégiai jelentőségű ágazatokban történő gyorsított beruházásokhoz nyújtott támogatás” esetében,
+
+ga) a Közlemény (85) bekezdés alapján az Európai Bizottság vonatkozó ügyben hozott határozatában és az azt módosító határozataiban foglalt feltételekkel összhangban lévő,
+
+gb) a Közlemény (86) bekezdés szerinti egyedi engedélyezési kötelezettség alá tartozó eljárásban hozott európai bizottsági határozattal összhangban lévő,
 
 támogatás (a továbbiakban: támogatás) a Kormány egyedi döntésével nyújtható.
 
@@ -24,4 +30,5 @@ támogatás (a továbbiakban: támogatás) a Kormány egyedi döntésével nyúj
 [^2]: A 2. § (1) bekezdés c) pontja a 720/2021. (XII. 20.) Korm. rendelet 1. §-ával megállapított, a 310/2022. (VIII. 11.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
 [^3]: A 2. § (1) bekezdés d) pontját a 416/2022. (X. 26.) Korm. rendelet 1. §-a iktatta be.
 [^4]: A 2. § (1) bekezdés e) pontját a 416/2022. (X. 26.) Korm. rendelet 1. §-a iktatta be.
-[^5]: A 2. § (1) bekezdés f) pontját a 416/2022. (X. 26.) Korm. rendelet 1. §-a iktatta be.
+[^5]: A 2. § (1) bekezdés f) pontját a 416/2022. (X. 26.) Korm. rendelet 1. §-a iktatta be, szövege a 366/2023. (VIII. 3.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^6]: A 2. § (1) bekezdés g) pontját a 366/2023. (VIII. 3.) Korm. rendelet 1. § (2) bekezdése iktatta be.

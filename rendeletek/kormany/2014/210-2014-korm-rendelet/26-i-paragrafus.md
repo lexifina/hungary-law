@@ -6,13 +6,13 @@
 
 (3) Üzemfejlesztés esetén a kedvezményezett köteles a megtartott munkahelyek számát a képzési projekt vagy az üzemfejlesztés befejezését – ha az később fejeződik be, mint a képzési projekt – követően legalább 18 hónapon keresztül fenntartani.
 
-(4)[^183] Regionális szolgáltató központ létesítés vagy bővítés esetén, ha a kedvezményezett
+(4)[^192] Regionális szolgáltató központ létesítés vagy bővítés esetén, ha a kedvezményezett
 
 a) nem vesz igénybe a 2. § (1) bekezdés a) vagy c) pontja szerinti regionális támogatást, köteles a megtartott munkahelyek számát legalább 25 újonnan létesített munkahellyel növelni, és az összes munkahelyet a képzési projekt vagy a regionális szolgáltató központ létesítés vagy bővítés befejezését – ha az később fejeződik be, mint a képzési projekt – követően legalább 18 hónapon keresztül fenntartani,
 
 b) a 2. § (1) bekezdés a) vagy c) pontja szerinti regionális támogatást vesz igénybe, köteles a regionális támogatási kérelemben vagy támogatási szerződésben vállalt munkahelyek számával azonos számú munkahelyet a képzési projekt vagy a regionális szolgáltató központ létesítés vagy bővítés befejezését – ha az később fejeződik be, mint a képzési projekt – követően legalább 18 hónapon keresztül fenntartani.
 
-(5)[^184] A képzésben részt vevő személyek száma nem haladhatja meg a megtartott munkahelyek számának és az újonnan létesített munkahelyek számának összegét.
+(5)[^193] A képzésben részt vevő személyek száma nem haladhatja meg a megtartott munkahelyek számának és az újonnan létesített munkahelyek számának összegét.
 
-[^183]: A 26/I. § (4) bekezdése a 390/2021. (VII. 2.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^184]: A 26/I. § (5) bekezdését a 390/2021. (VII. 2.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^192]: A 26/I. § (4) bekezdése a 390/2021. (VII. 2.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^193]: A 26/I. § (5) bekezdését a 390/2021. (VII. 2.) Korm. rendelet 11. § (2) bekezdése iktatta be.

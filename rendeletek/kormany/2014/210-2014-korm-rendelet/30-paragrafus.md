@@ -1,6 +1,6 @@
 ## 18. Az Európai Unió jogának való megfelelés
 
-30. §[^235] Ez a rendelet
+30. §[^259] Ez a rendelet
 
 a) a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet 14., 25., 31., 38. és 41. cikke szerinti,
 
@@ -10,4 +10,4 @@ c) az Európai Bizottságnak az „Állami támogatási intézkedésekre vonatko
 
 támogatást tartalmaz.
 
-[^235]: A 30. § a 416/2022. (X. 26.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^259]: A 30. § a 416/2022. (X. 26.) Korm. rendelet 4. §-ával megállapított szöveg.

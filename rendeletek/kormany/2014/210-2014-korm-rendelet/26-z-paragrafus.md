@@ -2,7 +2,7 @@
 
 26/Z. § (1) A támogatást kizárólag jogi személyenként lehet igényelni a lebonyolító szerv részére megküldött, cégszerűen aláírt támogatási kérelem benyújtásával.
 
-(2)[^191] Támogatási kérelmet az nyújthat be, aki a lebonyolító szerv által működtetett online felületen sikeresen regisztrált az ott feltüntetett adatok megadásával. Egy regisztrációs időszak a regisztráció megnyitásától annak felfüggesztéséig tart. A támogatási kérelem benyújtására legkésőbb a regisztráció napját követő négy hónapig van lehetőség, ha a támogatás nyújtásának feltételei még fennállnak, azzal, hogy a benyújtási határidőt a támogató indokolt esetben, a beruházó kérelmére legfeljebb négy hónappal meghosszabbíthatja. A kérelem benyújtására legkésőbb az eredeti határidő lejárta előtt 5 nappal kerülhet sor. A sikeres regisztráció nem jelenti a támogatási feltételeknek történő megfelelést, és nem minősül támogatási döntésnek.
+(2)[^200] Támogatási kérelmet az nyújthat be, aki a lebonyolító szerv által működtetett online felületen sikeresen regisztrált az ott feltüntetett adatok megadásával. Egy regisztrációs időszak a regisztráció megnyitásától annak felfüggesztéséig tart. A támogatási kérelem benyújtására legkésőbb a regisztráció napját követő négy hónapig van lehetőség, ha a támogatás nyújtásának feltételei még fennállnak, azzal, hogy a benyújtási határidőt a támogató indokolt esetben, a beruházó kérelmére legfeljebb négy hónappal meghosszabbíthatja. A kérelem benyújtására legkésőbb az eredeti határidő lejárta előtt 5 nappal kerülhet sor. A sikeres regisztráció nem jelenti a támogatási feltételeknek történő megfelelést, és nem minősül támogatási döntésnek.
 
 (3) A támogatási kérelem különösen a következő adatokat tartalmazza:
 
@@ -34,4 +34,4 @@ b) meglévő gyártóeszköz vagy technológia energiahatékonysági célú cser
 
 (5) A támogatási eljárásban a kérelmező a lebonyolító szerv rendelkezésére bocsátja a támogatáshoz szükséges valamennyi adat, tény és információ igazolásához szükséges okiratot és dokumentumot.
 
-[^191]: A 26/Z. § (2) bekezdése az 50/2023. (II. 22.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^200]: A 26/Z. § (2) bekezdése az 50/2023. (II. 22.) Korm. rendelet 5. §-ával megállapított szöveg.

@@ -18,7 +18,7 @@
 
 | 9 | Adminisztratív, kiegészítő egyéb üzleti szolgáltatás (82) | 8211 Összetett adminisztratív szolgáltatás 8220 Telefoninformáció 8299 M. n. s. egyéb kiegészítő üzleti szolgáltatás |
 
-2. melléklet a 210/2014. (VIII. 27.) Korm. rendelethez[^238]
+2. melléklet a 210/2014. (VIII. 27.) Korm. rendelethez[^262]
 
 Az energiahatékonysági beruházási, a megújuló energiatermelési beruházási és a korlátozott összegű támogatásban részesíthető tevékenységek felsorolása TEÁOR’08 kód szerint
 
@@ -212,4 +212,4 @@ Az energiahatékonysági beruházási, a megújuló energiatermelési beruházá
 
 | 95. | 332 Ipari gép, berendezés üzembe helyezése |
 
-[^238]: A 2. mellékletet a 416/2022. (X. 26.) Korm. rendelet 5. §-a iktatta be.
+[^262]: A 2. mellékletet a 416/2022. (X. 26.) Korm. rendelet 5. §-a iktatta be.
