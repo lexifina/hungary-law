@@ -1,4 +1,4 @@
-3. § (1) A nyertes pályázó pályázatonként legfeljebb három évig terjedő időtartamra jelölhető ki képzőként.
+3. § (1)[^2] A nyertes pályázó pályázatonként legfeljebb három évig, az 1. § (1) bekezdés j) és k) pontja szerinti képzés esetén öt évig terjedő időtartamra jelölhető ki képzőként.
 
 (2) A képző az általa tervezett képzést legalább 45 nappal annak megkezdése előtt, az NSZI honlapján található adatlap kitöltésével írásban bejelenti az NSZI-nek.
 
@@ -17,3 +17,5 @@ a) 2/A. § (1) bekezdésében meghatározott bejelentési kötelezettséget telj
 b) 15. § (1) bekezdésében meghatározott adatszolgáltatást teljesít, és
 
 c) 16. §-ában meghatározott, továbbá a felnőttképzésről szóló törvény végrehajtásáról szóló 11/2020. (II. 7.) Korm. rendelet 26. §-a szerinti egységes dokumentumot vezet, nyilvántart, és ezeket a keletkezésétől számított nyolcadik év utolsó napjáig megőrzi.
+
+[^2]: A 3. § (1) bekezdése a 27/2023. (VIII. 3.) BM rendelet 21. §-ával megállapított szöveg.
