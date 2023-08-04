@@ -1,12 +1,12 @@
-3. melléklet a 8/2013. (I. 30.) EMMI rendelethez[^46]
+3. melléklet a 8/2013. (I. 30.) EMMI rendelethez[^60]
 
 A)
 
 A KÖZISMERETI TANÁRSZAKOK KÉPZÉSI ÉS KIMENETI KÖVETELMÉNYEI
 
-1.Tanári szakképzettség – finn nyelv és kultúra tanára, magyar mint idegen idegen nyelv tanára, filozófiatanár és művészettörténet-tanár, a honvédelmi alapismeretek tanára szakképzettség kivételével
+1. Tanári szakképzettség – finn nyelv és kultúra tanára, magyar mint idegen nyelv tanára, filozófiatanár, művészettörténet-tanár, honvédelmi alapismeretek tanára szakképzettség kivételével
 
-– az 1. § a) pontja szerint osztatlan, kétszakos képzésben, tanárszakokon vagy
+– az 1. § a) pontja szerint osztatlan – természettudomány-környezettan szakos tanár szakképzettség kivételével – kétszakos képzésben, tanárszakokon,
 
 – az 1. § c) pontja szerinti tanári mesterszakon – a gyógytestnevelő tanár szak kivételével – adott tanárszak szakterülete szerinti nem tanári mesterképzési szakkal párhuzamosan vagy a mesterfokozatot követően felvett tanári mesterszakon vagy
 
@@ -23,6 +23,8 @@ szerezhető.
 3.2. Az 1. § c) pontja szerinti magyar mint idegen nyelv tanára szakos tanári mesterszakra a bölcsészettudomány képzési terület idegen nyelvi mesterképzési szakján szerzett mesterfokozat és szakképzettség birtokában akkor is felvételt lehet nyerni, ha a korábbi mesterképzési vagy részismereti tanulmányokból 50 kredit elismerhető a tanárszak képzési és kimeneti követelményeiben meghatározottak szerint.
 
 3.3. A 1. § c) pontja szerinti honvédelmi alapismeretek tanára szakos tanári mesterszakon a Korm. rendelet 3. § (1) bekezdés a) pontja szerinti szakterületi (szaktudományos) tudás képzési területe szerinti nem tanári mesterképzési szakok: a bölcsészettudomány képzési területről a magyar nyelv és irodalom, a történelem, a természettudomány képzési területről a biológus, a biotechnológia a geográfus, a geológus, a fizikus, a geofizikus, a vegyész, valamint a sporttudományi képzési területről a szakedző, továbbá az államtudományi képzési területről a katonai vezetői, a katonai üzemeltetés, a katonai műveleti logisztika, a védelmi vezetéstechnikai rendszertervező, a nemzetközi biztonság- és védelempolitikai mesterképzési szak.
+
+3.4. Finn nyelv és kultúra tanára, magyar mint idegen nyelv tanára, filozófiatanár, művészettörténet-tanár, honvédelmi alapismeretek tanára szakképzettség újabb, tanári szakképzettség megszerzésére irányuló képzésben az 1. melléklet 4. pont 4.4. alpontja szerint is szerezhető.
 
 4.
 
@@ -5234,88 +5236,4 @@ b) képességei
 
 – Figyelemmel kíséri saját tevékenységének másokra gyakorolt hatását, reflektív módon törekszik tevékenységének módosítására, szakmai felkészültségének folyamatos fejlesztésére.
 
-c) attitűdje
-
-– Hivatástudattal kezeli a konfliktushelyzeteket, a problémák feltárását, illetve megoldásuk érdekében szakmai segítséget kér és elfogad.
-
-– Törekszik önismeretének, saját személyiségének fejlesztésére, testi-lelki egészségének megőrzésére.
-
-Az autonómia és a felelősségvállalás területén
-
-– Együttműködés és felelősségvállalás jellemzi szakmájával, szakterületével, illetve azok képviselőivel kapcsolatban.
-
-– Jelentős mértékű önállósággal rendelkezik szakmája átfogó és speciális kérdéseinek felvetésében, kidolgozásában, szakmai nézetek képviseletében, indoklásában.
-
-– Felelősséggel vállalja a kezdeményező szerepét a szakmai együttműködés kialakítására. Egyenrangú partner a szakmai kooperációban.
-
-4.2.2. A szakképzettséghez vezető szakterületek és sajátos szakmódszertani tantárgy-pedagógiai ismeretek
-
-4.2.2.1. Szakterületi (szaktudományos) ismeretek: 91-111 kredit
-
-A szakterületi ismeretek együttes tartalmának le kell fednie a Nemzeti alaptanterv alapján a kerettanterv szerint közvetítendő műveltség fő területeit és tartalmait, a tantárgynál a nevelési-oktatási szakaszokhoz, valamint az érettségi vizsgakövetelményhez megadott témakörök ismereteit.
-
-a) Szakmai alapozó ismeretek: 25-35 kredit
-
-– Nyelvismeret, idegen nyelvi kommunikációs kompetencia: portugál nyelvű szövegértési (írott és hallott szöveg értése) és szövegalkotási (szóbeli és írásbeli kifejezőkészség) kompetenciák; helyes kiejtés és élőszóbeli kifejezés portugál nyelven; portugál gyakorlati nyelvtan.
-
-– A portugál nyelvet használó országok civilizációjára vonatkozó ismeretek alapjai (történelem, földrajz, népesség, állam és társadalom, kultúra).
-
-– Nyelvészeti és kommunikációelméleti alapismeretek.
-
-– Irodalom- és kultúratudományi alapismeretek.
-
-– A latin nyelv alapjai és az újlatin nyelvek kialakulása, elterjedése.
-
-– Felhasználói ismeretek a humán informatikában.
-
-b) a szakmai törzsanyag ismeretkörei: 66-76 kredit
-
-– Leíró és alkalmazott nyelvészeti, kommunikációelméleti ismeretek (az élő portugál nyelv rendszere, használata és változatai; portugál-magyar kontrasztív nyelvészeti ismeretek, nyelvpolitika; interkulturális kommunikáció; kutatásmódszertan).
-
-– Irodalmi, kultúra- és médiatudományi ismeretek (a portugál nyelvű irodalom történeti áttekintése: korszakok és korszakhatárok, fő fejlődési tendenciák, a legjelentősebb alkotók és műveik; irodalmi műfajok, szövegek olvasása, szövegértelmezés, szövegelemzés, stilisztikai, retorikai és verstani alapismeretek, irodalom és medialitás, művészetek és populáris kultúra a portugál világban; kutatásmódszertan).
-
-– A portugál nyelvet használó országok civilizációjára vonatkozó ismeretek (történelem, jelenkori társadalom, politika, média és kultúra).
-
-– Nyelvfejlesztés és portugál nyelvű szakmai kommunikáció.
-
-A szabadon választható tárgyak kerete ad lehetőséget további szaktudományos ismereteket tartalmazó kurzusok felajánlására.
-
-4.2.2.2. Szakmódszertani (diszciplináris és interdiszciplináris tantárgy-pedagógiai) ismeretek: 12 kredit
-
-A szakmódszertani ismeretek átadása során a szakképzett tanárt arra kell felkészíteni, hogy a középfokú nevelés-oktatás 9-12. évfolyamain képes legyen magas színvonalon ellátni a nevelés-oktatás feladatait.
-
-– A portugál nyelv és kultúra tanára szakképzettség tekintetében a sajátos szakmódszertani (tantárgy-pedagógiai) ismeretkörök: 8 kredit
-
-– Nyelv, irodalom és kultúra tanításának módszertana.
-
-– A kommunikatív nyelvtanítás elméleti alapjai és gyakorlati ismeretei. A célnyelvi készségfejlesztés lépései.
-
-– Nyelv, irodalom és kultúraoktatás céljai és azok megvalósítása: tantervek, tanmenetek, óravázlatok készítésének módszertana. A Nemzeti alaptanterv, valamint az idegennyelvek oktatására vonatkozó tartalmi szabályozók ismerete.
-
-– Tanítási technikák, módszerek. Differenciált munkaformák (egyéni munka, pármunka, csoportmunka, frontális munka projektfeladatok).
-
-– A nyelv, mint a kultúra tanításának eszköze, az interkulturális kommunikáció fogalma, az interkulturális szemléletű nyelvtanítás céljai, megvalósításának módjai.
-
-– A különböző oktatási eszközök alkalmazási lehetőségei a nyelvórán. Multimediális nyelvtanítási ismeretek.
-
-– Tananyagkészítés, projektmunka és személyre szabott oktatás.
-
-– Az összefüggő féléves gyakorlatot támogató gyakorlat portugál nyelven: 2 kredit.
-
-– A kollaborációs térrel, oktatástechnikai innovációval, mesterséges intelligenciával kapcsolatos gyakorlat a szakterületen belül: 2 kredit.
-
-17. Román és nemzetiségi román nyelv és kultúra tanára
-
-1. Az 1. melléklet 2. pontjában foglaltakra tekintettel oklevélben szereplő tanári szakképzettség:
-
-– magyar nyelvű megjelölése: okleveles román és nemzetiségi román nyelv és kultúra tanára
-
-– szakképzettség angol nyelvű megjelölése: Teacher of Romanian Language and Culture
-
-2. A képzési idő: 10 félév
-
-3. A képzés célja az alapfokú nevelés-oktatás ötödik évfolyamon kezdődő és a nyolcadik évfolyam végéig tartó felső tagozatán, a középfokú nevelés-oktatás szakaszában, az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszában szakgimnáziumban, szakmára vagy szakképesítés megszerzésére felkészítő szakaszában a szakiskolában, a román nyelv és a román nyelv és irodalom, valamint a román népismeret tantárgy tanítására az iskola pedagógiai feladatainak ellátására, a pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése, továbbá a tanulmányok doktori képzésben való folytatására történő felkészítése.
-
-4. Az elsajátítandó szakmai kompetenciák
-
-[^46]: A 3. melléklet a 64/2021. (XII. 29.) ITM rendelet 7. § (3) bekezdésével megállapított, az 1/2022. (IX. 1.) KIM rendelet 8. § b) pontja, a 12/2022. (XII. 29.) KIM rendelet 6. § a) és b) pontja, a 3/2023. (VI. 28.) KIM rendelet 4. § (2) bekezdése és 6. § 3. pontja szerint módosított szöveg.
+[^60]: A 3. melléklet a 64/2021. (XII. 29.) ITM rendelet 7. § (3) bekezdésével megállapított, az 1/2022. (IX. 1.) KIM rendelet 8. § b) pontja, a 12/2022. (XII. 29.) KIM rendelet 6. § a) és b) pontja, a 3/2023. (VI. 28.) KIM rendelet 4. § (2) bekezdése és 6. § 3. pontja, az 5/2023. (VII. 27.) KIM rendelet 4. § (2) bekezdése szerint módosított szöveg.

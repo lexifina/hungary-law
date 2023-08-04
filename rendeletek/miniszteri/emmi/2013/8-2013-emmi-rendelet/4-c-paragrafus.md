@@ -36,6 +36,29 @@ tanárszakon, illetve zenetanárszak főiskolai szintű szakképzettségének me
 
 (4) A Korm. rendelettel meghatározott testnevelő tanár (általános iskolai) tanárszakon mester fokozatú szakképzettséggel rendelkező, valamint az 1993. évi felsőoktatási törvény szerinti főiskolai szintű táncpedagógus az 1. melléklet 4. pont 4.4.2. alpontja szerint szerezhet a Mód1. rendeletben meghatározott testnevelő tanár, illetve tánctanár szakképzettséget.
 
+(5)[^21] Az 1993. évi felsőoktatási törvény szerinti főiskolai szintű
+
+a) hangszertanár, kamaraművész,
+
+b) magánénektanár, ének-kamaraművész,
+
+c) régizene hangszertanár, kamaraművész,
+
+d) zeneelmélet-szolfézstanár, karvezetés,
+
+e) jazz-zeneszerzés és hangszerelés, jazzelmélettanár,
+
+f) jazzhangszer előadóművész, tanár,
+
+g) jazzének előadóművész, tanár,
+
+h) szolfézstanár, valamint
+
+i) egyházzenész, tanár
+
+szakon tanári szakképzettséggel rendelkezők a Korm. rendelet 1. mellékletében meghatározott zenetanár tanárszakon, illetve zenetanárszak főiskolai szintű szakképzettségének megfelelő szakirányán szerezhetnek mesterfokozatú tanári szakképzettséget.
+
 [^18]: A 4/C. §-t a 64/2021. (XII. 29.) ITM rendelet 5. §-a iktatta be.
 [^19]: A 4/C. § (2) bekezdése a 3/2023. (VI. 28.) KIM rendelet 5. § b) pontja szerint módosított szöveg.
 [^20]: A hatálybalépés időpontja 2021. december 30.
+[^21]: A 4/C. § (5) bekezdését az 5/2023. (VII. 27.) KIM rendelet 2. §-a iktatta be.

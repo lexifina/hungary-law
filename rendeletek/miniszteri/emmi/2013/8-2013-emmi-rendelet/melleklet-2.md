@@ -1,4 +1,4 @@
-2. melléklet a 8/2013. (I. 30.) EMMI rendelethez[^45]
+2. melléklet a 8/2013. (I. 30.) EMMI rendelethez[^59]
 
 A TANÁRI FELKÉSZÍTÉS KÖVETELMÉNYEI
 
@@ -136,4 +136,4 @@ c) Az összefüggő egyéni iskolai gyakorlat célja az iskola és benne a taná
 
 Az összefüggő egyéni iskolai gyakorlat részei: a szaktárgyak tanításával kapcsolatos és a szaktárgyak tanításán kívüli oktatási, nevelési tevékenységek; az iskola mint szervezet és támogató rendszereinek a megismerése, abban aktív részvétel, az egymástól való tanulás és az innováció közösségi formáinak megtapasztalása. A gyakorlathoz kapcsolódik a gyakorlatot kísérő pedagógiai-pszichológiai és szakos szemináriumok teljesítése.
 
-[^45]: A 2. melléklet a 64/2021. (XII. 29.) ITM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^59]: A 2. melléklet a 64/2021. (XII. 29.) ITM rendelet 7. § (2) bekezdésével megállapított szöveg.

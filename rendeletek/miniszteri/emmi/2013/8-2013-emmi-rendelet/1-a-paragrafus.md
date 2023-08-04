@@ -2,7 +2,7 @@
 
 a) az 1. § a) pontja szerint osztatlan tanárképzésben a Korm. rendelet 5. § (5) bekezdésében foglaltak alapján vagy
 
-b)[^5] az 1. § b) pontja szerinti közismereti tanárszakon osztott képzésben, tanári mesterszakon részidős képzésben a köznevelésért felelős miniszternek a Korm. rendelet 4. § (2) bekezdése szerinti előzetes véleménye alapján
+b)[^5] az 1. § b) pontja szerinti közismereti tanárszakon osztott képzésben, tanári mesterszakon a tanárszak választásához megfelelő vagy részben megfelelő alapfokozatról és szakképzettségről szóló, a köznevelésért felelős miniszternek a Korm. rendelet 4. § (2) bekezdése szerinti előzetes véleménye alapján
 
 szerezhető tanári szakképzettség.
 
@@ -15,4 +15,4 @@ szerezhető tanári szakképzettség.
 (5) A zenetanár szak képzési és kimeneti követelményei két szakirányon az 5. melléklet A) MŰVÉSZETI TANÁRSZAKOK KÉPZÉSI ÉS KIMENETI KÖVETELMÉNYEI fejezet 1. pont 1.2–1.4. alpontja szerint tejesíthetők.
 
 [^4]: Az 1/A. §-t a 18/2016. (VIII. 5.) EMMI rendelet 12. §-a iktatta be, szövege a 64/2021. (XII. 29.) ITM rendelet 2. §-ával megállapított szöveg.
-[^5]: Az 1/A. § b) pontja az 1/2022. (IX. 1.) KIM rendelet 8. § a) pontja szerint módosított szöveg.
+[^5]: Az 1/A. § b) pontja az 1/2022. (IX. 1.) KIM rendelet 8. § a) pontja, az 5/2023. (VII. 27.) KIM rendelet 5. §-a szerint módosított szöveg.
