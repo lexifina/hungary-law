@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-2-20-0B
 | 2022-02-01 | 2004-2-20-0B.25 | 1/2012. (V. 31.) EMMI rendelet |
 | 2023-01-01 | 2004-2-20-0B.26 | 45/2022. (XII. 20.) BM rendelet |
 | 2023-07-01 | 2004-2-20-0B.29 | 1/2012. (V. 31.) EMMI rendelet |
+| 2023-08-04 | 2004-2-20-0B.30 | 1/2012. (V. 31.) EMMI rendelet |
