@@ -1,4 +1,4 @@
-12. § (1)[^17] A vezetőképzésre a miniszter által kijelölt szerv által vezetett jelentkezési és képzésszervezési nyilvántartás elektronikus felületén kell jelentkezni. A jelentkezés elfogadásának feltétele a képzési díj megfizetése.
+12. § (1)[^22] A vezetőképzésre a miniszter által kijelölt szerv által vezetett jelentkezési és képzésszervezési nyilvántartás elektronikus felületén kell jelentkezni. A jelentkezés elfogadásának feltétele a képzési díj megfizetése.
 
 (2) A vezetőképzésre jelentkező a képzésszervező által rendszeresített jelentkezési lapon nyilatkozik arról, hogy a személyes adatainak a képzésszervező által történő kezeléséhez hozzájárul.
 
@@ -6,4 +6,4 @@
 
 (4) A képzésszervező a jelentkezési határidőt követő 15 napon belül a jelentkezés elfogadásáról és a képzés indulásának várható időpontjáról, helyszínéről elektronikus levélben visszaigazolást küld a képzésre jelentkező részére.
 
-[^17]: A 12. § (1) bekezdése a 80/2022. (XII. 30.) BM rendelet 43. §-ával megállapított szöveg.
+[^22]: A 12. § (1) bekezdése a 80/2022. (XII. 30.) BM rendelet 43. §-ával megállapított szöveg.

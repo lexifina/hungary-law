@@ -1,3 +1,3 @@
-5. melléklet a 25/2017. (X. 18.) EMMI rendelethez[^32]
+5. melléklet a 25/2017. (X. 18.) EMMI rendelethez[^37]
 
-[^32]: Az 5–10. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^37]: Az 5–10. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

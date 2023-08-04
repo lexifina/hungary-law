@@ -1,3 +1,3 @@
-25. §[^27]
+25. §[^32]
 
-[^27]: A 22–25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^32]: A 22–25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
