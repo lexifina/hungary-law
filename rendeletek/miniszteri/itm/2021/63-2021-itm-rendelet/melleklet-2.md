@@ -1310,11 +1310,11 @@
 
 ## – Eligazodik az óvodai nevelést szabályozó szakmai, etikai és jogi dokumentumokban, azok vonatkozó részeit mindennapi munkája során felhasználja.
 
-## c) attitűdje
+## c)[^6] attitűdje
 
 ## – Elkötelezett a 3–7 éves gyermek és a gyermekcsoport tapasztalatainak, ismereteinek rendszerezését és bővítését elősegítő stratégiák, módszerek, tevékenységek megválasztása és a támogató környezet kialakítása iránt.
 
-## – Elkötelezett a 3–7 éves gyerekek teljes körű egészségfejlesztése iránt.
+## – Elkötelezett a 3–7 éves gyermekek teljes körű egészségfejlesztése iránt.
 
 ## – Személyiségét előítélet-mentesség, tolerancia, szociális érzékenység, segítő attitűd jellemzi, inkluzív és multikulturális szemlélettel rendelkezik, törekszik a kulturális önazonosság megőrzésének, ápolásának elősegítésére és a gyermekközösségbe történő beilleszkedés támogatására.
 
@@ -1325,6 +1325,8 @@
 ## – Igénye van az óvodai nevelési folyamat több szempontú elemzésére-értékelésére, és az eredmények tükrében a jövőbeni tervek és tevékenységek átgondolására, módosítására.
 
 ## – Nyitott az újabb hazai és nemzetközi neveléstudományi kutatási eredmények, a módszertani innovációk és az információs és kommunikációs technológiák kínálta lehetőségek megismerésére és alkalmazására.
+
+## − Felelősséget vállal a gyermekek nemzeti identitásának alakításában és erősítésében.
 
 ## d) autonómiája és felelőssége
 
@@ -1412,7 +1414,7 @@
 
 ## – gyakorlati képzési modul: 26–34 kredit.
 
-## 8.2. [^6]
+## 8.2. [^7]
 
 ## 8.3. A szakmai gyakorlat követelményei
 
@@ -1426,7 +1428,7 @@
 
 ## A nemzetiségi óvodapedagógus szakirányon a szakmai gyakorlat részben nemzetiségi nyelven, nemzetiségi óvodában folyik.
 
-## 8.4.[^7] A képzést megkülönböztető speciális jegyek
+## 8.4.[^8] A képzést megkülönböztető speciális jegyek
 
 ## 8.4.1. A nemzetiségi óvodapedagógus a 3–7 éves gyermek magyar nyelven történő nevelése mellett felkészült a korosztály nemzetiségi nyelven történő nevelésére is.
 
@@ -1622,7 +1624,7 @@
 
 ## c) a szakmai specializációnak megfelelő szakmódszertanok, szakmai és pedagógiai gyakorlatok, figyelembe véve a gyakorlati képzőhelyek eltérő sajátosságait 40–50 kredit.
 
-## 8.2. [^8]
+## 8.2. [^9]
 
 ## 8.3. A szakmai gyakorlat követelményei
 
@@ -1758,15 +1760,11 @@
 
 ## – Tevékenységére szakszerűen reflektál.
 
-## c) attitűdje
+## c)[^10] attitűdje
 
 ## – Tevékenységét a 6–12 éves gyerekek fejlődésének támogatása iránti elkötelezettség irányítja.
 
 ## – Elkötelezett a 6–12 éves gyerekek teljes körű egészségfejlesztése iránt.
-
-## – Tevékenysége során inkluzív szemléletet képvisel.
-
-## – Törekszik a családok kulturális hagyományainak tiszteletben tartására.
 
 ## – Tevékenysége során inkluzív, befogadó szemléletet képvisel, törekszik a családok kulturális hagyományainak tiszteletben tartására.
 
@@ -1779,6 +1777,8 @@
 ## – Nyitott a munkájával összefüggő új elméletek és gyakorlati módszerek, a digitális tanulási környezet adta lehetőségek alkalmazására.
 
 ## – Felkészültsége alapján részt vállal a tanító szakmával összefüggésben álló kutatásokban, innovatív team-munkákban.
+
+## − Felelősséget vállal a tanulók nemzeti identitásának alakításában és erősítésében.
 
 ## d) autonómiája és felelőssége
 
@@ -1878,7 +1878,7 @@
 
 ## – gyakorlati képzési modul 40–50 kredit.
 
-## 9.2.[^9]
+## 9.2.[^11]
 
 ## 9.3. A szakmai gyakorlat követelményei
 
@@ -1890,13 +1890,27 @@
 
 ## A nemzetiségi szakirányon a szakmai gyakorlat részben nemzetiségi nyelven, nemzetiségi iskolában folyik.
 
-## 9.4.[^10] A képzést megkülönböztető speciális jegyek
+## 9.4.[^12] A képzést megkülönböztető speciális jegyek
 
 ## 9.4.1. A nemzetiségi tanító felkészült az általános iskola első négy évfolyamán valamennyi műveltségi terület és az első hat évfolyamán a nemzetiségi anyanyelvi nevelés nevelési-oktatási feladatainak ellátására is.
 
 ## 9.4.2. A nemzetiségi tanító szakirány tantárgyainak oktatása és vizsgái – beleértve a záróvizsgát is – az adott nemzetiségi nyelven folynak. A német nemzetiség esetében a teljes képzés ötven százaléka német nyelven folyik.
 
 ## 9.4.3. A nemzetiségi szakirányon a szakképzettség megszerzéséhez az adott nemzetiség nyelvéből felsőfokú (C1 szintű) idegennyelv-tudást kell elérni.
+
+## 10.[^13] Óvodapedagógus alapfokozat vagy főiskolai szintű végzettség birtokában
+
+## 10.1. a képzés célja olyan tanítók képzése, akik − a változó társadalmi szükségleteknek, az általános iskolai nevelés-oktatás céljainak megfelelően − képesek a tanulók személyiségének komplex fejlesztésére, a tanító teljes szerepkörének betöltésére; felkészültek az általános iskola első négy évfolyamán valamennyi műveltségi terület nevelési-oktatási feladatainak ellátására; felkészültek tanulmányok mesterképzésben történő folytatására,
+
+## 10.2. a képzési idő 4 félév, az összegyűjtendő kreditek száma 120:
+
+## – a szakképzettséghez vezető tudományágak, szakterületek, amelyekből a szak felépül: pedagógia, pszichológia, digitális kultúra 13–15 kredit;
+
+## – szaktudományosan megalapozott tantárgy-pedagógiák 81–83 kredit;
+
+## – gyakorlati képzési modul 19–21 kredit, amelyből az összefüggő gyakorlat 6 kredit;
+
+## – portfólió 4 kredit.
 
 2. melléklet a 63/2021. (XII. 29.) ITM rendelethez
 
@@ -2100,7 +2114,7 @@ b) fogyatékos emberek társadalmi integrációja:
 
 [inkluzív nevelés gyógypedagógiai aspektusai, módszerei, eljárásai, az együttnevelés filozófiai alapjai, az inkluzív didaktikai tervezés alapjai, pedagógiai projektalkotás, társadalomtudomány (magyar és európai szociális jog, fogyatékosság és marginalitás, szociális munka és fogyatékosságügy, iskolai és társadalmi integráció az EU-ban, szociálpolitika-történet, intézmények jellemzése és evaluációja, az inkluzív társadalom szociáletikája, a befogadás és kirekesztés története a gyógypedagógiában)].
 
-9.2.[^11]
+9.2.[^14]
 
 2. LOGOPÉDIA MESTERKÉPZÉSI SZAK
 
@@ -2330,7 +2344,7 @@ A szakképzettséghez vezető tudományágak, szakterületek, amelyekből a szak
 
 – logopédiai kompetenciakörhöz kapcsolódó művészetpedagógiai módszerek gyakorlati ismeretei 5–10 kredit.
 
-9.2. [^12]
+9.2. [^15]
 
 9.3. Szakmai gyakorlat követelményei
 
@@ -2339,10 +2353,13 @@ A szakmai gyakorlat a negyedik félévben összefüggő, 200 órás logopédiai 
 [^3]: Az 1. melléklet 1. cím 8.2. pontját a 3/2023. (VI. 28.) KIM rendelet 10. § 1. pont a) alpontja hatályon kívül helyezte.
 [^4]: Az 1. melléklet 2. cím 8.2. pontját a 3/2023. (VI. 28.) KIM rendelet 10. § 1. pont b) alpontja hatályon kívül helyezte.
 [^5]: Az 1. melléklet 3. cím 8.2. pontját a 3/2023. (VI. 28.) KIM rendelet 10. § 1. pont c) alpontja hatályon kívül helyezte.
-[^6]: Az 1. melléklet 4. cím 8.2. pontját a 3/2023. (VI. 28.) KIM rendelet 10. § 1. pont d) alpontja hatályon kívül helyezte.
-[^7]: Az 1. melléklet 4. cím 8.4. pontja a 3/2023. (VI. 28.) KIM rendelet 9. §-ával megállapított szöveg.
-[^8]: Az 1. melléklet 5. cím 8.2. pontját a 3/2023. (VI. 28.) KIM rendelet 10. § 1. pont e) alpontja hatályon kívül helyezte.
-[^9]: Az 1. melléklet 6. cím 9.2. pontját a 3/2023. (VI. 28.) KIM rendelet 10. § 1. pont f) alpontja hatályon kívül helyezte.
-[^10]: Az 1. melléklet 6. cím 9.4. pontja a 3/2023. (VI. 28.) KIM rendelet 9. §-ával megállapított szöveg.
-[^11]: A 2. melléklet 1. cím 9.2. pontját a 3/2023. (VI. 28.) KIM rendelet 10. § 2. pont a) alpontja hatályon kívül helyezte.
-[^12]: A 2. melléklet 2. cím 9.2. pontját a 3/2023. (VI. 28.) KIM rendelet 10. § 2. pont b) alpontja hatályon kívül helyezte.
+[^6]: Az 1. melléklet 4. alcím 7. pont 7.1.1. alpont c) pontja az 5/2023. (VII. 27.) KIM rendelet 7. §-ával megállapított szöveg.
+[^7]: Az 1. melléklet 4. cím 8.2. pontját a 3/2023. (VI. 28.) KIM rendelet 10. § 1. pont d) alpontja hatályon kívül helyezte.
+[^8]: Az 1. melléklet 4. cím 8.4. pontja a 3/2023. (VI. 28.) KIM rendelet 9. §-ával megállapított szöveg.
+[^9]: Az 1. melléklet 5. cím 8.2. pontját a 3/2023. (VI. 28.) KIM rendelet 10. § 1. pont e) alpontja hatályon kívül helyezte.
+[^10]: Az 1. melléklet 6. alcím 8.1. pont 8.1.1. alpont c) pontja az 5/2023. (VII. 27.) KIM rendelet 7. §-ával megállapított szöveg.
+[^11]: Az 1. melléklet 6. cím 9.2. pontját a 3/2023. (VI. 28.) KIM rendelet 10. § 1. pont f) alpontja hatályon kívül helyezte.
+[^12]: Az 1. melléklet 6. cím 9.4. pontja a 3/2023. (VI. 28.) KIM rendelet 9. §-ával megállapított szöveg.
+[^13]: Az 1. melléklet 6. alcím 10. pontját az 5/2023. (VII. 27.) KIM rendelet 7. §-a iktatta be.
+[^14]: A 2. melléklet 1. cím 9.2. pontját a 3/2023. (VI. 28.) KIM rendelet 10. § 2. pont a) alpontja hatályon kívül helyezte.
+[^15]: A 2. melléklet 2. cím 9.2. pontját a 3/2023. (VI. 28.) KIM rendelet 10. § 2. pont b) alpontja hatályon kívül helyezte.
