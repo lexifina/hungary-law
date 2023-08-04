@@ -1,3 +1,3 @@
-## 8. §[^11] A műteremlakás bérlője a lakásbérleti jog folytatása ellenében tartási szerződést alkotóművésszel a Társaság előzetes írásbeli hozzájárulásával köthet. A Társaság az előzetes hozzájárulását a Bizottság javaslata alapján adja ki.
+9. §[^17] A bérlő a műteremlakás bérleti jogát alkotóművész javára cserélheti el a bérbeadó, továbbá – a Bizottság javaslata alapján – az Intézmény előzetes írásbeli hozzájárulásával.
 
-[^11]: A 8. § a 43/2012. (XI. 29.) EMMI rendelet 5. §-ával megállapított szöveg.
+[^17]: A 9. § a 6/2023. (VIII. 3.) KIM rendelet 1. § 10. pontja szerint módosított szöveg.
