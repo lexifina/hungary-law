@@ -35,3 +35,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1004-30
 | 2022-07-21 | 2016-1004-30-22.27 | 1117/2017. (III. 13.) Korm. határozat |
 | 2023-02-17 | 2016-1004-30-22.28 | 1200/2016. (IV. 15.) Korm. határozat |
 | 2023-08-01 | 2016-1004-30-22.29 | 1200/2016. (IV. 15.) Korm. határozat |
+| 2023-08-04 | 2016-1004-30-22.30 | 1200/2016. (IV. 15.) Korm. határozat |
