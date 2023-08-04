@@ -53,3 +53,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1990-6-20-5E
 | 2022-08-06 | 1990-6-20-5E.104 | 9/2022. (VIII. 1.) TIM rendelet |
 | 2023-01-24 | 1990-6-20-5E.105 | 1/2023. (I. 19.) ÉKM rendelet |
 | 2023-06-07 | 1990-6-20-5E.106 | 10/2023. (VI. 2.) ÉKM rendelet |
+| 2023-08-04 | 1990-6-20-5E.107 | 12/2023. (VIII. 3.) ÉKM rendelet |

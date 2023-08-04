@@ -192,7 +192,7 @@
 
 93.[^338]
 
-94.[^339] az elhasználódott járművekről szóló, 2000. szeptember 18-i 2000/53/EK európai parlamenti és tanácsi irányelv 4. cikk (2) bekezdésének, 8. cikk (1) bekezdésének és II. mellékletének, az elhasználódott járművekről szóló 2000/53/EK európai parlamenti és tanácsi irányelv II. mellékletének módosításáról szóló, 2010. február 23-i 2010/115/EU bizottsági határozatnak, az elhasználódott járművekről szóló 2000/53/EK európai parlamenti és tanácsi irányelv II. mellékletének módosításáról szóló, 2011. március 30-i 2011/637/EU bizottsági irányelvnek, az elhasználódott járművekről szóló 2000/53/EK európai parlamenti és tanácsi irányelv II. mellékletének módosításáról szóló, 2013. május 17-i 2013/28/EU bizottsági irányelvnek, az elhasználódott járművekről szóló 2000/53/EK európai parlamenti és tanácsi irányelv II. mellékletének módosításáról szóló, 2016. május 18-i (EU) 2016/774 bizottsági irányelvnek, az elhasználódott járművekről szóló 2000/53/EK európai parlamenti és tanácsi irányelv II. mellékletének módosításáról szóló, 2017. november 15-i (EU) 2017/2096 bizottsági irányelvnek, az elhasználódott járművekről szóló 2000/53/EK európai parlamenti és tanácsi irányelv II. mellékletének a lakóautók abszorpciós hűtőgépeinek szénacél hűtőrendszerében korrózióálló anyagként használt hat vegyértékű krómra vonatkozó mentesség tekintetében történő módosításáról szóló, 2019. december 17-i (EU) 2020/362 felhatalmazáson alapuló bizottsági irányelvnek, az elhasználódott járművekről szóló 2000/53/EK európai parlamenti és tanácsi irányelv II. mellékletének alkatrészekben használt ólomra és ólomvegyületekre vonatkozó egyes mentességek tekintetében történő módosításáról szóló, 2019. december 17-i (EU) 2020/363 felhatalmazáson alapuló bizottsági irányelvnek;
+94.[^339] az elhasználódott járművekről szóló, 2000. szeptember 18-i 2000/53/EK európai parlamenti és tanácsi irányelv 4. cikk (2) bekezdésének, 8. cikk (1) bekezdésének és II. mellékletének, az elhasználódott járművekről szóló 2000/53/EK európai parlamenti és tanácsi irányelv II. mellékletének módosításáról szóló, 2010. február 23-i 2010/115/EU bizottsági határozatnak;
 
 95.[^340]
 
@@ -219,6 +219,18 @@
 106.[^343] a Közösségen belül közlekedő egyes közúti járművek nemzeti és a nemzetközi forgalomban megengedett legnagyobb méreteinek, valamint a nemzetközi forgalomban megengedett legnagyobb össztömegének megállapításáról szóló 96/53/EK tanácsi irányelv módosításáról szóló, 2015. április 29-i (EU) 2015/719 európai parlamenti és tanácsi irányelvnek;
 
 107.[^344] az új nehézgépjárművek szén-dioxid-kibocsátási előírásainak meghatározásáról, valamint az 595/2009/EK és az (EU) 2018/956 európai parlamenti és tanácsi rendelet és a 96/53/EK tanácsi irányelv módosításáról szóló, 2019. június 20-i (EU) 2019/1242 európai parlamenti és tanácsi rendeletnek
+
+108.[^345] az elhasználódott járművekről szóló 2000/53/EK európai parlamenti és tanácsi irányelv II. mellékletének módosításáról szóló, 2011. március 30-i 2011/637/EU bizottsági irányelvnek, az elhasználódott járművekről szóló 2000/53/EK európai parlamenti és tanácsi irányelv II. mellékletének módosításáról szóló, 2013. május 17-i 2013/28/EU bizottsági irányelvnek;
+
+109.[^346] az elhasználódott járművekről szóló 2000/53/EK európai parlamenti és tanácsi irányelv II. mellékletének módosításáról szóló, 2016. május 18-i (EU) 2016/774 bizottsági irányelvnek;
+
+110.[^347] az elhasználódott járművekről szóló 2000/53/EK európai parlamenti és tanácsi irányelv II. mellékletének módosításáról szóló, 2017. november 15-i (EU) 2017/2096 bizottsági irányelvnek;
+
+111.[^348] az elhasználódott járművekről szóló 2000/53/EK európai parlamenti és tanácsi irányelv II. mellékletének a lakóautók abszorpciós hűtőgépeinek szénacél hűtőrendszerében korrózióálló anyagként használt hat vegyértékű krómra vonatkozó mentesség tekintetében történő módosításáról szóló, 2019. december 17-i (EU) 2020/362 felhatalmazáson alapuló bizottsági irányelvnek;
+
+112.[^349] az elhasználódott járművekről szóló 2000/53/EK európai parlamenti és tanácsi irányelv II. mellékletének alkatrészekben használt ólomra és ólomvegyületekre vonatkozó egyes mentességek tekintetében történő módosításáról szóló, 2019. december 17-i (EU) 2020/363 felhatalmazáson alapuló bizottsági irányelvnek;
+
+113.[^350] a 2000/53/EK európai parlamenti és tanácsi irányelvnek az ólom megmunkálási célra szánt alumíniumötvözetekben, valamint rézötvözetekben és egyes akkumulátorokban történő felhasználására vonatkozó mentességek tekintetében történő módosításáról szóló, 2022. december 16-i (EU) 2023/544 felhatalmazáson alapuló bizottsági irányelvnek
 
 való megfelelést szolgálja.
 
@@ -309,9 +321,15 @@ való megfelelést szolgálja.
 [^336]: A 120. § 91. pontját a 72/2013. (XII. 2.) NFM rendelet 15. § b) pontja hatályon kívül helyezte.
 [^337]: A 120. § 92. pontját a 72/2013. (XII. 2.) NFM rendelet 15. § b) pontja hatályon kívül helyezte.
 [^338]: A 120. § 93. pontját a 72/2013. (XII. 2.) NFM rendelet 15. § b) pontja hatályon kívül helyezte.
-[^339]: A 120. § 94. pontja a 20/2020. (VI. 24.) ITM rendelet 1. §-ával megállapított szöveg.
+[^339]: A 120. § 94. pontja a 12/2023. (VIII. 3.) ÉKM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^340]: A 120. § 95. pontját a 72/2013. (XII. 2.) NFM rendelet 15. § b) pontja hatályon kívül helyezte.
 [^341]: A 120. § 103. pontja a 31/2014. (VI. 27.) NFM rendelet 3. § (3) bekezdésével megállapított szöveg.
 [^342]: A 120. § 105. pontját a 72/2013. (XII. 2.) NFM rendelet 11. § (3) bekezdése iktatta be, szövege a 2/2018. (II. 5.) NFM rendelet 13. §-ával megállapított szöveg.
 [^343]: A 120. § 106. pontját az 1/2018. (I. 18.) NFM rendelet 8. §-a iktatta be.
 [^344]: A 120. § 107. pontját az 1/2020. (I. 8.) ITM rendelet 3. §-a iktatta be.
+[^345]: A 120. § 108. pontját a 12/2023. (VIII. 3.) ÉKM rendelet 1. § (2) bekezdése iktatta be.
+[^346]: A 120. § 109. pontját a 12/2023. (VIII. 3.) ÉKM rendelet 1. § (2) bekezdése iktatta be.
+[^347]: A 120. § 110. pontját a 12/2023. (VIII. 3.) ÉKM rendelet 1. § (2) bekezdése iktatta be.
+[^348]: A 120. § 111. pontját a 12/2023. (VIII. 3.) ÉKM rendelet 1. § (2) bekezdése iktatta be.
+[^349]: A 120. § 112. pontját a 12/2023. (VIII. 3.) ÉKM rendelet 1. § (2) bekezdése iktatta be.
+[^350]: A 120. § 113. pontját a 12/2023. (VIII. 3.) ÉKM rendelet 1. § (2) bekezdése iktatta be.
