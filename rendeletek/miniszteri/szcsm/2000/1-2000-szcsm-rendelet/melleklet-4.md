@@ -22,7 +22,7 @@
 
 | 10 |  | - okleveles mentálhigiénés közösség- és kapcsolatsegítő szakember - okleveles pasztorális tanácsadó - okleveles pasztorális tanácsadó és szervezetfejlesztő szakember - okleveles egészségpszichológus - okleveles rekreációszervező és egészségfejlesztő - teológus - okleveles társadalmi befogadás tanácsadó - pasztorálpszichológiai szakreferens - okleveles pszichiáter - pszichopedagógus - rehabilitációs-kreatív terapeuta - rehabilitációs szolgáltatásszervező - reflektív addiktológiai szociális szakember - reflektív pszichoszociális krízistanácsadó szociális szakember - szaklelkigondozó - szociálgerontológiai szakmenedzser - okleveles szociálgerontológus - szülő-csecsemő/kisgyermek konzulens - tanácsadó szakpszichológus - társadalmi integrációs tanácsadó - tranzakcióanalitikus asszisztens - utcai szociális munkás - viselkedéselemző - családsegítő asszisztens - demencia gondozó - foglalkozás-szervező - gerontológiai gondozó - gyermekotthoni asszisztens - gyógypedagógiai segítő munkatárs - kisgyermekgondozó, -nevelő - mentálhigiénés asszisztens - pedagógiai- és családsegítő munkatárs - pedagógiai munkatárs (gyógypedagógiai asszisztens) - pszichiátriai gondozó - rehabilitációs nevelő, segítő - szenvedélybeteg gondozó - szociális asszisztens - szociális menedzser - szociális szakgondozó - szociális, gyermek- és ifjúságvédelmi ügyintéző - szociális és gyermekvédelmi szakasszisztens - szociális és rehabilitációs szakgondozó - szociális és mentálhigiénés szakgondozó - rehabilitációs terapeuta - konduktor - hittanár-nevelőtanár - katekéta - lelkipásztor munkatárs |  |  |  |  |
 
-| 11 | szociális munkatárs | - okleveles szociális gazdasági szakember - okleveles egészségügyi szociális munkás - szociális munkás - okleveles szociálpolitikus - szociálpedagógus - szociális menedzser - szociálpedagógus - gyermek- és ifjúságpszichiátriai és addiktológiai konzultáns - hajléktalanellátás esetében felsőfokú végzettség |  |  |  |  |
+| 11 | szociális munkatárs | - okleveles szociális gazdasági szakember - okleveles egészségügyi szociális munkás, diakónus - szociális munkás, diakónus - okleveles szociálpolitikus - szociálpedagógus - szociális menedzser - szociálpedagógus - gyermek- és ifjúságpszichiátriai és addiktológiai konzultáns - hajléktalanellátás esetében felsőfokú végzettség |  |  |  |  |
 
 |  | fejlesztő- pedagógus | - fejlesztőpedagógus - gyógypedagógus - gyógypedagógus, értelmileg akadályozottak pedagógiája szakirányon - gyógypedagógus, hallássérültek pedagógiája szakirányon - gyógypedagógus, látássérültek pedagógiája szakirányon - gyógypedagógus, logopédia szakirányon - gyógypedagógus, pszichopedagógia szakirányon - gyógypedagógus, szomatopedagógia szakirányon - gyógypedagógus, tanulásban akadályozottak pedagógiája szakirányon - gyógypedagógus, autizmus spektrum pedagógiája szakirányon gyógytestnevelő - gyógytornász - konduktor - pedagógus - pszichopedagógus - szociálpedagógus |  |  |  |  |
 
@@ -34,6 +34,6 @@
 
 | 15 | asszisztens | - mentálhigiénés asszisztens - szociális asszisztens - szociális és gyermekvédelmi szakasszisztens - szociális és mentálhigiénés szakgondozó |  |  |  |  |
 
-4. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^464]
+4. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^465]
 
-[^464]: A 4. számú mellékletet a 4/2019. (II. 27.) EMMI rendelet 21. § b) pontja hatályon kívül helyezte.
+[^465]: A 4. számú mellékletet a 4/2019. (II. 27.) EMMI rendelet 21. § b) pontja hatályon kívül helyezte.

@@ -166,7 +166,7 @@ cd) asszisztens.
 
 (14)[^62] A módszertani feladatokat felsőfokú végzettséggel rendelkező személy láthatja el.
 
-(15)[^63] Házi segítségnyújtásban, jelzőrendszeres házi segítségnyújtásban, nappali ellátásban – ide nem értve a pszichiátriai betegek nappali ellátását –, valamint bentlakást nyújtó ellátásban a szakirányú szakképesítéssel nem rendelkező segítő, gondozó, ápoló munkakörökben foglalkoztatottak a szociális ágazati képzésekről és vizsgakövetelményekről szóló 14/2022. (IV. 29.) EMMI rendelet 1. § (1) bekezdés c)–e) pontjában meghatározott, munkakörüknek megfelelő képzés teljesítésére kötelesek a foglalkoztatásuk megkezdését követő egy éven belül.
+(15)[^63] Házi segítségnyújtásban, jelzőrendszeres házi segítségnyújtásban, nappali ellátásban – ide nem értve a pszichiátriai betegek nappali ellátását –, valamint bentlakást nyújtó ellátásban a szakirányú szakképesítéssel nem rendelkező segítő – ideértve az általános iskolai végzettséggel rendelkező személyt is –, gondozó, valamint ápoló munkakörökben foglalkoztatottak a szociális ágazati képzésekről és vizsgakövetelményekről szóló 14/2022. (IV. 29.) EMMI rendelet 1. § (1) bekezdés c)–e) pontjában meghatározott, munkakörüknek megfelelő képzés teljesítésére kötelesek a foglalkoztatásuk megkezdését követő egy éven belül.
 
 (16)[^64] Mentesül a képzési kötelezettség alól az a munkakört betölteni kívánó személy, aki az (5) bekezdés a) pontja alapján a munkakör betöltéséhez szükséges képesítési előírások alól felmentést kapott.
 
@@ -192,5 +192,5 @@ cd) asszisztens.
 [^60]: A 6. § (12) bekezdését a 4/2004. (I. 28.) ESZCSM rendelet 1. § (2) bekezdése iktatta a be, szövege a 26/2017. (X. 18.) EMMI rendelet 9. § a) pontja szerint módosított szöveg.
 [^61]: A 6. § (13) bekezdését a 7/2008. (VI. 3.) SZMM rendelet 1. §-a iktatta be. E módosító rendelet 9. § (2) bekezdése alapján a vezetői megbízásra, illetve annak feltételeire vonatkozó új szabályokat a 2008. július 1. napját követően kiírásra kerülő pályázatok alapján adott vezetői megbízásokra kell alkalmazni.
 [^62]: A 6. § (14) bekezdését a 7/2008. (VI. 3.) SZMM rendelet 1. §-a iktatta be. E módosító rendelet 9. § (2) bekezdése alapján a vezetői megbízásra, illetve annak feltételeire vonatkozó új szabályokat a 2008. július 1. napját követően kiírásra kerülő pályázatok alapján adott vezetői megbízásokra kell alkalmazni.
-[^63]: A 6. § (15) bekezdését a 80/2022. (XII. 30.) BM rendelet 11. §-a iktatta be.
+[^63]: A 6. § (15) bekezdését a 80/2022. (XII. 30.) BM rendelet 11. §-a iktatta be, szövege a 27/2023. (VIII. 3.) BM rendelet 7. § a) pontja szerint módosított szöveg.
 [^64]: A 6. § (16) bekezdését a 80/2022. (XII. 30.) BM rendelet 11. §-a iktatta be.
