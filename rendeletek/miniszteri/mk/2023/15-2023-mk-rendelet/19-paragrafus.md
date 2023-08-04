@@ -1,0 +1,3 @@
+19. § (1) Az állami tulajdonú, polgári nemzetbiztonsági szolgálat vagyonkezelésében lévő lakás megvásárlása esetén, a vevő kérelmének megfelelően legfeljebb 25 évi részletfizetési kedvezmény állapítható meg. A szerződés megkötésekor a vevő a megállapított vételár legalább 20%-át egy összegben fizeti meg. Az első vételárrészlet megfizetése után fennmaradó hátralékra vonatkozóan a havonta fizetendő részleteket egyenlő arányban kell megállapítani.
+
+(2) Részletfizetés esetén a vételár fennmaradó hátralékára vonatkozó kamat mértéke a szerződés megkötésekor hatályos jegybanki alapkamat mértékével megegyezik.

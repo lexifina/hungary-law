@@ -1,0 +1,1 @@
+21. § A 18. § (2) bekezdése szerint értékesítésre kerülő lakás vevőjét a 20. §-ban, az üres, valamint a harmadik személy részére lakottan értékesítésre kerülő lakás vevőjét a 18–20. §-ban említett kedvezmények nem illetik meg.
