@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-27-20-1
 | 2020-02-09 | 2009-27-20-1X.5 | 4/2020. (II. 6.) EMMI rendelet |
 | 2022-12-28 | 2009-27-20-1X.6 | 9/2016. (V. 12.) EMMI rendelet |
 | 2023-01-01 | 2009-27-20-1X.7 | 80/2022. (XII. 30.) BM rendelet |
+| 2023-08-04 | 2009-27-20-1X.8 | 27/2023. (VIII. 3.) BM rendelet |
