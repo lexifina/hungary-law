@@ -37,3 +37,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-37-20-2
 | 2022-01-01 | 2011-37-20-22.29 | 679/2021. (XII. 3.) Korm. rendelet |
 | 2022-04-22 | 2011-37-20-22.30 | 156/2022. (IV. 19.) Korm. rendelet |
 | 2023-01-01 | 2011-37-20-22.31 | 616/2022. (XII. 29.) Korm. rendelet |
+| 2023-08-04 | 2011-37-20-22.32 | 365/2023. (VIII. 3.) Korm. rendelet |

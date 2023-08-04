@@ -12,8 +12,17 @@ a támogatást nyújtó köteles értékelési tervet készíteni, és azt megk�
 
 (1a)[^150] Az 1. melléklet 15.15. pontja szerinti pénzügyi termékek mint támogatási programok esetén az (1) bekezdés szerinti értékhatár vizsgálatakor csak azt az InvestEU program létrehozásáról és az (EU) 2015/1017 rendelet módosításáról szóló, 2021. március 24-i 2021/523/EU európai parlamenti és tanácsi rendelet 9. cikk (1) bekezdés b) pontjában meghatározott európai uniós garancia tagállami részalapjához nyújtott hozzájárulást kell figyelembe venni, amelyet az adott pénzügyi termékre különítenek el.
 
+(1b)[^151] Az értékelési tervvel kapcsolatos eljárásra az 1. melléklet
+
+a) 14.3. pontja szerinti támogatási kategóriák alkalmazása esetén az (EU) 2022/2473 bizottsági rendelet 12. cikkében – figyelemmel az 1. cikk (7) bekezdésében foglaltakra –,
+
+b) 16.3.1.1., 16.3.1.4., 16.3.6.1–16.3.6.4., 16.3.6.6., 16.3.6.9. és 16.3.6.10. pontja szerinti támogatási kategóriák alkalmazása esetén az (EU) 2022/2472 bizottsági rendelet 1. cikk (3) bekezdésében és 12. cikkében
+
+meghatározott szabályok szerint kerül sor.
+
 (2) A miniszter a véglegesített értékelési tervet a SANI rendszeren keresztül hivatalos bejelentés útján haladéktalanul továbbítja az Európai Bizottságnak.
 
 [^148]: Az 5/A. alcímet (16/A–16/B. §) a 165/2018. (IX. 11.) Korm. rendelet 3. §-a iktatta be.
 [^149]: A 16/A. § (1) bekezdés nyitó szövegrésze a 679/2021. (XII. 3.) Korm. rendelet 11. § f) pontja szerint módosított szöveg.
 [^150]: A 16/A. § (1a) bekezdését a 679/2021. (XII. 3.) Korm. rendelet 2. §-a iktatta be.
+[^151]: A 16/A. § (1b) bekezdését a 365/2023. (VIII. 3.) Korm. rendelet 2. §-a iktatta be.
