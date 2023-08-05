@@ -1,9 +1,3 @@
-19. § (1) Az R2. 15. § (2) bekezdés s) pontja helyébe a következő rendelkezés lép:
+19. §[^20]
 
-(A tanodának legalább heti nyolcvan órában olyan személyeket kell foglalkoztatnia, akik rendelkeznek az alábbi képesítések valamelyikével:)
-
-## „s) teológus,”
-
-(2) Az R2. 15. § (2) bekezdése a következő u) ponttal egészül ki:
-
-(A tanodának legalább heti nyolcvan órában olyan személyeket kell foglalkoztatnia, akik rendelkeznek az alábbi képesítések valamelyikével:)
+[^20]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

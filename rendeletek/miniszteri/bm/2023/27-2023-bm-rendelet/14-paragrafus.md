@@ -1,3 +1,3 @@
-14. § Az R1. 14. § (1b) bekezdése helyébe a következő rendelkezés lép:
+14. §[^15]
 
-„(1b) Ha a képzésszervező az (1a) bekezdés szerinti felhívásnak határidőben nem tesz eleget, az NSZI a folyamatban lévő képzést azonnali hatállyal felfüggeszti, és a felfüggesztéstől számított 5 napon belül kezdeményezi a miniszternél a kijelölés visszavonását.”
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

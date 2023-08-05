@@ -1,3 +1,3 @@
-2. § Az Nmr. 131. § (2) bekezdése a következő f) ponttal egészül ki:
+2. §[^3]
 
-(A központi speciális gyermekotthon a speciális ellátás keretében a gyermek állapotához, szükségleteihez igazodó terápiát nyújt azon gyermek számára, aki)
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

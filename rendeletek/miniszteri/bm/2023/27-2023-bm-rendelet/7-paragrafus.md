@@ -1,9 +1,3 @@
-7. § Az SZCSM rendelet
+7. §[^8]
 
-a) 6. § (15) bekezdésében a „segítő, gondozó,” szövegrész helyébe a „segítő – ideértve az általános iskolai végzettséggel rendelkező személyt is –, gondozó, valamint” szöveg,
-
-b) 120. § (4) bekezdésében a „2024.” szövegrész helyébe a „2025.” szöveg,
-
-c) 3. számú mellékletben foglalt táblázat B:11 mezőjében a „szociális munkás” szövegrész helyébe a „szociális munkás, diakónus” szöveg
-
-lép.
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
