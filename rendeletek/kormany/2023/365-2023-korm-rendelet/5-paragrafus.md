@@ -1,3 +1,3 @@
-5. § A 37/2011. (III. 22.) Korm. rendelet 38. §-a a következő g) és h) ponttal egészül ki:
+5. §[^6]
 
-(Ez a rendelet)
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

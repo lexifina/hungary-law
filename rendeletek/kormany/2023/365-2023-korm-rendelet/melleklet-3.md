@@ -1,7 +1,3 @@
-## „5/B. melléklet a 37/2011. (III. 22.) Korm. rendelethez
+3. melléklet a 365/2023. (VIII. 3.) Korm. rendelethez[^12]
 
-## 3X06468.pdf
-
-## ”
-
-3. melléklet a 365/2023. (VIII. 3.) Korm. rendelethez
+[^12]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

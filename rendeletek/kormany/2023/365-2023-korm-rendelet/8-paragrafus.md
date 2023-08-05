@@ -1,9 +1,3 @@
-8. § Hatályát veszti a 37/2011. (III. 22.) Korm. rendelet
+8. §[^9]
 
-a) 6. § (4) bekezdése,
-
-b) 11/A. § (11) bekezdése,
-
-c) V/A. Fejezete,
-
-d) 38. § e) pontja.
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
