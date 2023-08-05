@@ -1,1 +1,3 @@
-5. § A 8/2013. (I. 30.) EMMI rendelet 1/A. § (1) bekezdés b) pontjában a „tanári mesterszakon részidős képzésben” szövegrész helyébe a „tanári mesterszakon a tanárszak választásához megfelelő vagy részben megfelelő alapfokozatról és szakképzettségről szóló,” szöveg lép.
+5. §[^5]
+
+[^5]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

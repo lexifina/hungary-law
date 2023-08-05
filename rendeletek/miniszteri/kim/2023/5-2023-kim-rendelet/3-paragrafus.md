@@ -1,5 +1,3 @@
-3. § A 8/2013. (I. 30.) EMMI rendelet 6. §-a a következő (14) és (15) bekezdéssel egészül ki:
+3. §[^3]
 
-„(14) Az Oktatási Hivatal hivatalból nyilvántartásba veszi a felsőoktatási intézménynek az egyes felsőoktatási tárgyú miniszteri rendeletek módosításáról szóló 5/2023. (VII. 27.) KIM rendelettel (a továbbiakban: Mód.3. rendelet) megállapított 1. melléklet 4. pont 4.1. alpont c) pont ce) alpont ceb) pontja és 4. pont 4.5. és 4.6. alpontja szerinti 3 féléves tanárszak indítására való jogát, ha a felsőoktatási intézménynek a 3. melléklet szerinti közismereti tanárszak képzési és kimeneti követelményeiben meghatározott bármely képzési formája a Mód.3. rendelet hatálybalépésekor az Oktatási Hivatal nyilvántartásában szerepelt.
-
-(15) Ha a felsőoktatási intézmény a 2023/2024. tanévben az adott szakon elindítja az 1. melléklet 4. pont 4.1. alpont c) pont ce) alpont cea) pontja szerinti képzést, az a hallgató, aki az 1. melléklet 4. pont 4.1. alpont c) pont ce) alpont cea) pontjának a Mód.3. rendelet hatálybalépését megelőzően hatályos rendelkezései szerinti négy féléves képzési idejű képzésére nyert felvételt a 2023/2024. tanévben, a felsőoktatási intézményhez címzett egyoldalú nyilatkozatával 2023. szeptember 30-áig úgy dönthet, hogy az adott tanárképzés két féléves képzésében vesz részt.”
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
