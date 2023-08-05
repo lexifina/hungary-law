@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-364-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2023-08-04 | 2023-364-20-22.1 | 364/2023. (VIII. 3.) Korm. rendelet |
+| 2023-08-05 | 2023-364-20-22.2 | 2010. évi CXXX. törvény |
