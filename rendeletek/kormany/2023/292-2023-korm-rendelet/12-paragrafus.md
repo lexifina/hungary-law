@@ -1,3 +1,3 @@
-12. §[^12]
+12. § Az Szkr. 39. §-a helyébe a következő rendelkezés lép:
 
-[^12]: A 12. § a 49. § (2) bekezdés alapján 2023. augusztus 6-án lép hatályba.
+„39. § Ha a bizonyítvány, az oklevél, illetve a szakmai bizonyítvány eredeti kiállítója jogutód nélkül megszűnt vagy egyébként nem lelhető fel, a javított bizonyítványt, oklevelet, illetve szakmai bizonyítványt és Europass-kiegészítőt, valamint a bizonyítványmásodlatot, a pótbizonyítványt, az oklevélmásodlatot, illetve a szakmai bizonyítványmásodlatot és az Europasskiegészítő-másodlatot a szakképzési államigazgatási szerv állítja ki. A javított bizonyítvány, oklevél, illetve szakmai bizonyítvány kiállításáért, a bizonyítványmásodlatért, a pótbizonyítványért, az oklevélmásodlatért, illetve a szakmai bizonyítványmásodlatért és az Europasskiegészítő-másodlatért a 6. mellékletben meghatározott térítési díjat kell fizetni.”
