@@ -16,6 +16,6 @@ c) ellátja a miniszter által rábízott feladatokat.
 
 (5) A minisztériumi hulladékgazdálkodási hatóság és az országos hulladékgazdálkodási hatóság közreműködik a nemzetközi feladatok végrehajtásában.
 
-(6)[^13]
+(6)[^14]
 
-[^13]: A 6. § (6) bekezdését a 60/2023. (II. 28.) Korm. rendelet 45. § a) pontja hatályon kívül helyezte.
+[^14]: A 6. § (6) bekezdését a 60/2023. (II. 28.) Korm. rendelet 45. § a) pontja hatályon kívül helyezte.
