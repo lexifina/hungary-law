@@ -1,1 +1,0 @@
-4. § Ez a rendelet a 2000/53/EK európai parlamenti és tanácsi irányelvnek az ólom megmunkálási célra szánt alumíniumötvözetekben, valamint rézötvözetekben és egyes akkumulátorokban történő felhasználására vonatkozó mentességek tekintetében történő módosításáról szóló, 2022. december 16-i (EU) 2023/544 felhatalmazáson alapuló bizottsági irányelvnek való megfelelést szolgálja.
