@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2023-45-00-00
 | 2023-07-01 | 2023. évi XLV. törvény | 2023-45-00-00.0 (közlönyállapot) |
 | 2023-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2023-45-00-00.1 |
 | 2023-07-02 | 2010. évi CXXX. törvény | 2023-45-00-00.2 |
+| 2023-08-06 | Nemzeti Jogszabálytár (egységes szerkezet) | 2023-45-00-00.3 |
