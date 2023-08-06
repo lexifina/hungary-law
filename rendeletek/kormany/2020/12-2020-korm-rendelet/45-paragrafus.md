@@ -6,7 +6,7 @@
 
 45. § (1) A szakképzés a szakmajegyzékben
 
-a)[^99]
+a)[^101]
 
 b) az élelmiszeripar ágazatba és a mezőgazdaság és erdészet ágazatba sorolt szakmák tekintetében az Szkt. 27. § (1) bekezdés a) pontjában meghatározott miniszter,
 
@@ -14,9 +14,9 @@ c) a környezetvédelem és vízügy ágazatba sorolt szakmák tekintetében
 
 ca) a környezetvédelmi technikus szakma esetében az Szkt. 27. § (1) bekezdés a) pontjában meghatározott miniszter,
 
-cb)[^100]
+cb)[^102]
 
-d)[^101] a szociális ágazatba sorolt szakmák tekintetében a kisgyermekgondozó, -nevelő szakma esetében a gyermek- és ifjúságpolitikáért felelős miniszter
+d)[^103] a szociális ágazatba sorolt szakmák tekintetében a kisgyermekgondozó, -nevelő szakma esetében a gyermek- és ifjúságpolitikáért felelős miniszter
 
 engedélyével folyhat.
 
@@ -30,6 +30,6 @@ folyhat. A szakmajegyzékben a honvédelem ágazatba sorolt más szakma szakmai 
 
 (3) A szakmajegyzékben az (1) bekezdés a)–d) pontjában és a (2) bekezdésben meghatározott ágazatban a szakképzés szakmai és módszertani fejlesztéséért a Kormány adott ágazatért felelős tagja felel.
 
-[^99]: A 45. § (1) bekezdés a) pontját a 631/2022. (XII. 30.) Korm. rendelet 10. § c) pontja hatályon kívül helyezte.
-[^100]: A 45. § (1) bekezdés c) pont cb) alpontját a 631/2022. (XII. 30.) Korm. rendelet 10. § c) pontja hatályon kívül helyezte.
-[^101]: A 45. § (1) bekezdés d) pontja a 631/2022. (XII. 30.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^101]: A 45. § (1) bekezdés a) pontját a 631/2022. (XII. 30.) Korm. rendelet 10. § c) pontja hatályon kívül helyezte.
+[^102]: A 45. § (1) bekezdés c) pont cb) alpontját a 631/2022. (XII. 30.) Korm. rendelet 10. § c) pontja hatályon kívül helyezte.
+[^103]: A 45. § (1) bekezdés d) pontja a 631/2022. (XII. 30.) Korm. rendelet 9. §-ával megállapított szöveg.

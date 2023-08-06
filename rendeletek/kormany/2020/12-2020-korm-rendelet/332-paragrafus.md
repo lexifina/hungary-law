@@ -9,11 +9,3 @@
 a) a szakképzésialapfeladat-ellátást,
 
 b) az előző külső értékelés eredményét és az ahhoz kapcsolódó fejlesztési intézkedések megvalósulását,
-
-c) – előzetes dokumentumelemzés és helyszíni látogatás során – az Európai Szakképzési Minőségbiztosítási Referencia Keretrendszer alapján kidolgozott elvárásrendszer teljesülését, ennek keretében
-
-ca) a folyamatok szabályozását és működését,
-
-cb) a szakképző intézmény önértékelési tevékenységét,
-
-cc) a fejlesztési tervek kidolgozását, megvalósítását és azok eredményességét,

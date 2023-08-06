@@ -28,7 +28,7 @@ k) az igazgató és az osztályfőnök aláírását.
 
 (4) A nemzetiségi bizonyítvány a (3) bekezdésben felsorolt adatokat magyar és nemzetiségi nyelven is tartalmazza.
 
-(5)[^64] Az elveszett vagy megsemmisült bizonyítványról – a tanuló, kiskorú tanuló esetén a kiskorú tanuló törvényes képviselőjének kérelmére – a törzslap alapján bizonyítványmásodlat állítható ki. A bizonyítványmásodlatért jogszabályban meghatározott illetéket kell leróni.
+(5)[^64] Az elveszett vagy megsemmisült bizonyítványról – a tanuló, kiskorú tanuló esetén a kiskorú tanuló törvényes képviselőjének kérelmére – a törzslap alapján bizonyítványmásodlat állítható ki. A bizonyítványmásodlatért a 6. mellékletben meghatározott térítési díjat kell fizetni.
 
 (6)[^65] Törzslap, póttörzslap hiányában a szakképző intézményben meglévő nyilvántartások alapján kérelemre pótbizonyítvány állítható ki. A pótbizonyítvány azt tanúsítja, hogy a tanuló melyik évfolyamot mikor végezte el. Ha a kiállítás alapjául szolgáló valamennyi nyilvántartás megsemmisült, a pótbizonyítványban csak azt kell feltüntetni, hogy az abban megjelölt személy a szakképző intézmény tanulója volt. Ilyen tartamú pótbizonyítvány akkor állítható ki, ha a volt tanuló írásban nyilatkozik arról, hogy a megjelölt tanévben a szakképző intézmény melyik évfolyamán tanult, és nyilatkozatához csatolja volt oktatójának vagy két évfolyamtársának igazolását. Az oktató nyilatkozata akkor fogadható el, ha a jelzett időszakban a szakképző intézményben tanított. A volt évfolyamtársaknak be kell mutatniuk bizonyítványukat.
 
@@ -45,6 +45,6 @@ c) a bizonyítványban nem kell feltüntetni a (3) bekezdés b), e) és f) pontj
 [^61]: A 26. § (3) bekezdés d) pontja a 292/2023. (VII. 6.) Korm. rendelet 48. § 6. pontja szerint módosított szöveg.
 [^62]: A 26. § (3) bekezdés f) pontja a 292/2023. (VII. 6.) Korm. rendelet 48. § 7. pontja szerint módosított szöveg.
 [^63]: A 26. § (3) bekezdés g) pontja a 292/2023. (VII. 6.) Korm. rendelet 48. § 8. pontja szerint módosított szöveg.
-[^64]: A 26. § (5) bekezdése a 292/2023. (VII. 6.) Korm. rendelet 48. § 9. pontja szerint módosított szöveg.
+[^64]: A 26. § (5) bekezdése a 292/2023. (VII. 6.) Korm. rendelet 48. § 9. pontja és 47. § 7. pontja szerint módosított szöveg.
 [^65]: A 26. § (6) bekezdése a 292/2023. (VII. 6.) Korm. rendelet 48. § 10. pontja szerint módosított szöveg.
 [^66]: A 26. § (7) bekezdését a 292/2023. (VII. 6.) Korm. rendelet 8. §-a iktatta be.

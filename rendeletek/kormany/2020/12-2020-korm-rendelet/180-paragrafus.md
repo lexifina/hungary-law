@@ -14,7 +14,7 @@ b) a tanulmányok alatti vizsgán nyújtott teljesítménye
 
 alapján kell megállapítani.
 
-(2a)[^263] A tanuló értékelése és minősítése keretében a tanuló magatartása és szorgalma nem osztályozható.
+(2a)[^265] A tanuló értékelése és minősítése keretében a tanuló magatartása és szorgalma nem osztályozható.
 
 (3) Osztályozó vizsgát kell tennie a tanulónak a félévi és a tanév végi osztályzat megállapításához, ha
 
@@ -42,4 +42,4 @@ b) az osztályozó vizsgáról, illetve a különbözeti vizsgáról számára f
 
 (9) Az évközi érdemjegyeket és az év végi osztályzatokat szóbeli vagy írásbeli szöveges értékelés kíséri. Az érdemjegy és az osztályzat megállapítása a tanuló teljesítményének értékelésekor, minősítésekor nem lehet fegyelmezési eszköz. Az értékelésről és a minősítésről a tanulót és kiskorú tanuló esetén a kiskorú tanuló törvényes képviselőjét tájékoztatni kell. A szakképző intézmény az osztályzatról a tanulót és a kiskorú tanuló törvényes képviselőjét félévkor értesítő, év végén bizonyítvány útján értesíti. Értesítő gyakrabban is készülhet a szakképző intézmény szakmai programjában meghatározott esetben.
 
-[^263]: A 180. § (2a) bekezdését a 380/2021. (VI. 30.) Korm. rendelet 31. §-a iktatta be.
+[^265]: A 180. § (2a) bekezdését a 380/2021. (VI. 30.) Korm. rendelet 31. §-a iktatta be.

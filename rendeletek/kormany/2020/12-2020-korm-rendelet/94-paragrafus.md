@@ -22,7 +22,7 @@ cd) alkalmazandó tantárgyfelosztást,
 
 d) jóváhagyja a szakképző intézmény szakmai programját, szervezeti és működési szabályzatát és házirendjét,
 
-e)[^175] megbízza az igazgatót és gyakorolja felette a munkáltatói jogkört,
+e)[^177] megbízza az igazgatót és gyakorolja felette a munkáltatói jogkört,
 
 f) négyévenként legalább egy alkalommal ellenőrzi a szakképző intézmény gazdálkodását, működésének törvényességét és hatékonyságát, a szakmai munka eredményességét, a szakképző intézmény gyermekvédelmi tevékenységét és a tanulóbalesetek megelőzése érdekében tett intézkedéseket,
 
@@ -32,4 +32,4 @@ g) értékeli a szakképző intézmény szakmai programjában meghatározott fel
 
 (3) A fenntartó a honlapján, annak hiányában a helyben szokásos módon nyilvánosságra hozza a szakképző intézmény munkájával összefüggő értékelését.
 
-[^175]: A 94. § (1) bekezdés e) pontja a 319/2020. (VII. 1.) Korm. rendelet 24. § 15. pontja szerint módosított szöveg.
+[^177]: A 94. § (1) bekezdés e) pontja a 319/2020. (VII. 1.) Korm. rendelet 24. § 15. pontja szerint módosított szöveg.

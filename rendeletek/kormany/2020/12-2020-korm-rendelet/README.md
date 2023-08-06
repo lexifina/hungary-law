@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-12-20-2
 | 2023-02-21 | 2020-12-20-22.18 | 40/2023. (II. 20.) Korm. rendelet |
 | 2023-03-01 | 2020-12-20-22.17 | 631/2022. (XII. 30.) Korm. rendelet |
 | 2023-07-07 | 2020-12-20-22.21 | 292/2023. (VII. 6.) Korm. rendelet |
+| 2023-08-06 | 2020-12-20-22.22 | 292/2023. (VII. 6.) Korm. rendelet |

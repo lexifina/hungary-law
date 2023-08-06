@@ -1,3 +1,3 @@
-227. §[^295]
+227. §[^297]
 
-[^295]: A 227. §-t a 292/2023. (VII. 6.) Korm. rendelet 48. § 49. pontja hatályon kívül helyezte.
+[^297]: A 227. §-t a 292/2023. (VII. 6.) Korm. rendelet 48. § 49. pontja hatályon kívül helyezte.

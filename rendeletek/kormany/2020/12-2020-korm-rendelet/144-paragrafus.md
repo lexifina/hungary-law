@@ -1,5 +1,5 @@
 ## 57. Az Szkt. 50. § (2) bekezdéséhez
 
-144. §[^221] Az oktató értékelésének elkészítéséhez személyazonosításra alkalmatlan kérdőíves felmérést kell végezni a tanulók bevonásával. A felmérésben való részvétel önkéntes.
+144. §[^223] Az oktató értékelésének elkészítéséhez személyazonosításra alkalmatlan kérdőíves felmérést kell végezni a tanulók bevonásával. A felmérésben való részvétel önkéntes.
 
-[^221]: A 144. § a 292/2023. (VII. 6.) Korm. rendelet 48. § 40. pontja szerint módosított szöveg.
+[^223]: A 144. § a 292/2023. (VII. 6.) Korm. rendelet 48. § 40. pontja szerint módosított szöveg.
