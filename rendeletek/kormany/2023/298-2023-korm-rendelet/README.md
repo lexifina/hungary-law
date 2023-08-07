@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-298-20-
 | 2023-07-14 | 2023-298-20-22.1 | 298/2023. (VII. 6.) Korm. rendelet |
 | 2023-07-15 | 2023-298-20-22.2 | 2010. évi CXXX. törvény |
 | 2023-08-06 | 2023-298-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2023-08-07 | 2023-298-20-22.4 | 2010. évi CXXX. törvény |
