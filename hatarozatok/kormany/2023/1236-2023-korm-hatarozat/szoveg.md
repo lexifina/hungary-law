@@ -1,6 +1,6 @@
 A Kormány
 
-1. egyetért az ingatlan-nyilvántartás szerinti Budapest XIV. kerület, belterület 32240/0/A/1, 32240/0/A/2, 32240/0/A/3, 32240/0/A/4, 32240/0/A/5, 32240/0/B/8, 32240/0/C/10, 32240/0/C/11, 32240/0/C/12, 32240/0/D/13 és 32240/0/F/16 helyrajzi számú ingatlanok (a továbbiakban: Ingatlanok) adásvétel útján – per-, teher- és igénymentesen – történő állami tulajdonba vételével, a független ingatlanszakértő által meghatározott, de legfeljebb 4 500 000 000 forint vételáron;
+1.[^1] egyetért az ingatlan-nyilvántartás szerinti Budapest XIV. kerület, belterület 32240/0/A/1, 32240/0/A/2, 32240/0/A/3, 32240/0/A/4, 32240/0/A/5, 32240/0/B/8, 32240/0/C/10, 32240/0/C/11, 32240/0/C/12, 32240/0/D/13 és 32240/0/F/16 helyrajzi számú ingatlanok (a továbbiakban: Ingatlanok) adásvétel útján – per-, teher- és igénymentesen, ide nem értve a visszterhes használati szerződéseket – történő állami tulajdonba vételével, a független ingatlanszakértő által meghatározott, de legfeljebb 4 500 000 000 forint általános forgalmi adó nélkül meghatározott vételáron, azzal, hogy az egyes ingatlanok területe és természetbeni állapota eltérhet az ingatlan-nyilvántartási adatoktól;
 
 2. felhívja a gazdaságfejlesztési minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság (a továbbiakban: MNV Zrt.) útján gondoskodjon az Ingatlanok megvásárlásáról a Nemzeti Filmintézet Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság (cégjegyzékszám: 01-10-047056) (a továbbiakban: NFI) feladatellátásának elősegítése érdekében;
 
@@ -19,3 +19,5 @@ A Kormány
 | Felelős: | gazdaságfejlesztési miniszter |
 
 | Határidő: | az Ingatlanok állami tulajdonba kerülését követően azonnal |
+
+[^1]: Az 1. pont az 1366/2023. (VIII. 7.) Korm. határozat 2. pont a) és b) pontja szerint módosított szöveg.
