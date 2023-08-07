@@ -1,3 +1,3 @@
-2. melléklet a 292/2023. (VII. 6.) Korm. rendelethez[^127]
+2. melléklet a 292/2023. (VII. 6.) Korm. rendelethez[^51]
 
-[^127]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^51]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

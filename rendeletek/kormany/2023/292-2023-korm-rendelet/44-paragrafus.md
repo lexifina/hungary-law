@@ -1,3 +1,3 @@
-44. § Az Szkr. 356. §-a a következő (2) bekezdéssel egészül ki:
+44. §[^45]
 
-„(2) A 39. §-tól eltérően a 2010. január 29-ét megelőzően kiadott és elveszett, ellopott, megrongálódott vagy megsemmisült bizonyítványról a bizonyítványmásodlatot és Europasskiegészítő-másodlatot – kérelemre – a vizsgaszervező, ha az jogutód nélkül megszűnt, a vizsgaszervező székhelye szerint illetékes főjegyző állítja ki a vizsgatörzslap alapján. Vizsgatörzslap hiányában a bizonyítvány megszerzését és tartalmát igazoló más okirat alapján a vizsgaszervező, illetve a főjegyző pótbizonyítványt, illetve – kérelemre – ahhoz kapcsolódóan Europass-kiegészítőt állít ki. A pótbizonyítványban, illetve az Europass-kiegészítőben azokat az adatokat lehet feltüntetni, amelyek a kiállítás alapjául szolgáló okiratból megállapíthatók. A bizonyítványmásodlatért, a pótbizonyítványért és az Europass-kiegészítőért a 6. mellékletben meghatározott térítési díjat kell fizetni.”
+[^45]: A 44. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
