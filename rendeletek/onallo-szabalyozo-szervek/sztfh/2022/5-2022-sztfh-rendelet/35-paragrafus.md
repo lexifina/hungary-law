@@ -4,7 +4,7 @@
 
 (2) Ha a biztonsági béléscsőoszlop alatti nyitott lyukszakasz hossza vagy állékonysága, a fedőrétegek nyomásviszonyai vagy műszaki nehézségek azt indokolják, technikai béléscsőoszlopot kell alkalmazni.
 
-(3) Ismert területen a biztonsági béléscsőoszlop beépítésének mélységét a tényleges földtani és műszaki viszonyokat figyelembe véve kell meghatározni úgy, hogy a beépített béléscsőoszlop biztosítsa a harántolt rétegsor védelmét, valamint a fúrás zavarmentes továbbmélyítését.
+(3)[^17] Ismert területen a biztonsági béléscsőoszlop beépítésének mélységét a tényleges földtani és műszaki viszonyokat figyelembe véve kell meghatározni úgy, hogy a beépített béléscsőoszlop biztosítsa a harántolt rétegsor védelmét, valamint a fúrás zavarmentes folytatását.
 
 (4) Ismeretlen területen a biztonsági-, vagy a technikai béléscsőoszlopot úgy kell beépíteni, hogy alsó vége
 
@@ -23,3 +23,5 @@ c) belső nyomásra: 1,125.
 (6) A cementpalástot a II. fejezetben előírtakon túlmenően úgy kell tervezni, hogy ha a béléscsőoszlop túlnyomásos, vagy 60 °C-nál magasabb hőmérsékletű, vagy szénhidrogéneket tartalmazó réteget zár ki, és a rétegeket cementpalásttal különítik el, a cementpalást legalább 100 m-rel a legfelső tároló réteg fölé érjen.
 
 (7) A fúrólyukat a biztonsági béléscsőoszlop és minden további béléscsőoszlop elhelyezése után lyukfejszerelvénnyel kell biztosítani. A lyukfejszerelvényt úgy kell kiképezni, hogy alkalmas legyen a fúrólyuk elzárására, lefúvatására, feltöltésére, valamint a csőközben fellépő nyomások mérésére és szabályozására. Ha a biztonsági és termelő béléscsőrakat azonos, a béléscsőrakatot sarutól felszínig folyamatos cementpalásttal kell ellátni.
+
+[^17]: A 35. § (3) bekezdése a 18/2023. (VII. 31.) SZTFH rendelet 8. § i) pontja szerint módosított szöveg.

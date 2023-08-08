@@ -16,4 +16,6 @@
 
 (8) A fúrótorony villámvédelmét biztosítani kell.
 
-(9) Az üzemeltető a tevékenység tűzvédelmére köteles tűzvédelmi utasítást készíttetni, azt az érdekelteknek kiadni, és annak végrehajtását ellenőriztetni.
+(9)[^5] Az üzemeltető a tevékenység tűzvédelmére köteles tűzvédelmi utasítást készíttetni, azt az érdekelteknek kiadni, és annak végrehajtását folyamatosan ellenőriztetni.
+
+[^5]: A 8. § (9) bekezdése a 18/2023. (VII. 31.) SZTFH rendelet 8. § c) pontja szerint módosított szöveg.

@@ -20,7 +20,7 @@
 
 9. kút: olyan létesítmény, amely a felszín alatti vizek kutatása, felszínre hozatala, kitermelése, megfigyelése vagy rétegben való elhelyezése érdekében létesült, vagy arra lett átképezve;
 
-10. kút (fúrólyuk) előélete: a kútban (fúrólyukban) az aktuális művelet előtt végzett beavatkozások dokumentumokkal rögzített adatai;
+10.[^2] kút vagy fúrólyuk előélete: a kútban vagy fúrólyukban az aktuális művelet előtt végzett beavatkozások dokumentumokkal rögzített adatai;
 
 11. kútkörzet: a kutat és az ott elhelyezett berendezéseket, eszközöket magában foglaló, elkerített terület;
 
@@ -34,6 +34,8 @@
 
 16. réteg: közel egynemű felépítésű, meghatározott korú, közel azonos fizikai paraméterekkel bíró földtani képződmény;
 
+16a.[^3] statikus körülmény: az az állapot, amelynél a fúrólyukban fellépő erőhatások időben állandósultak, az öblítés és a fúrószerszám mozgása által nem befolyásoltak;
+
 17. teherviselő elemek: a mélyfúró berendezés szerkezeti elemei, amelyek önsúlyukon kívül a fúrószerszám, a béléscsőoszlop, a geofizikai műveletnél használt eszközök együttes súlyát, járulékos terhét normál üzemmenetben és mentésnél viselik;
 
 18. túlnyomásos réteg: olyan réteg, amelynek nyomásgradiense 0,108 bar/m-nél nagyobb;
@@ -45,3 +47,6 @@
 21. várható legnagyobb kútfejnyomás: az a legnagyobb kútfejnyomás, amely a feltételezett rétegnyomás mellett a kútfejen annak zárt állapotában kialakulhat;
 
 22. zárásvizsgálat: a kútfejszerelvények, a fúrólyukba vagy kútba beépített béléscső vagy termelőcső speciális nyomáspróbája.
+
+[^2]: A 2. § 10. pontja a 18/2023. (VII. 31.) SZTFH rendelet 8. § b) pontja szerint módosított szöveg.
+[^3]: A 2. § 16a. pontját a 18/2023. (VII. 31.) SZTFH rendelet 1. §-a iktatta be.

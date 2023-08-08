@@ -1,7 +1,3 @@
-## V. Fejezet
-
-## TÚLNYOMÁSOS, 60 °C-NÁL MAGASABB HŐMÉRSÉKLETŰ KÖZEGET, VAGY SZÉNHIDROGÉNEKET TARTALMAZÓ RÉTEGEKET HARÁNTOLÓ MÉLYFÚRÁSOK KIVITELEZÉSE
-
 ## 20. Tervek
 
 34. § A geo-műszakiterv a 20. §-ban előírtakon túlmenően tartalmazza:
