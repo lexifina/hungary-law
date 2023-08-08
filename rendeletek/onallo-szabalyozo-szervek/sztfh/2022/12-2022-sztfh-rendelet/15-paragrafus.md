@@ -1,5 +1,3 @@
-## 14. § Az elvi építési engedélynek a 9. §-ban előírtakon túl tartalmaznia kell a sajátos építmény rövid leírását.
-
 ## 12. Az építési engedélyezési eljárás
 
 15. § (1) Az építési engedélyt – a (2) bekezdésben foglaltak kivételével – az elvégezni kívánt építési tevékenység egészére kell kérni.

@@ -16,8 +16,10 @@ g) a műszaki- és munkabiztonsági, az egészségvédelmi, a tűzvédelmi és a
 
 h) a tervezett próbaüzem tervei, a próbaüzem szükségességének indokolása.
 
-(2) Az általános műszaki leírásnak tartalmaznia kell a sajátos építmény főbb adatait és rendeltetését, a technológia főbb, meghatározó berendezéseit, a technológiai folyamat leírását, a termelésirányítás rendszerét és műszerezettségét, az irányítástechnikai berendezéseket, a belső anyagmozgatást, a várható veszélyek ismertetését, valamint a sajátos építményen belül elhelyezésre kerülő, nem technológiai célú berendezések leírását.
+(2)[^30] Az általános műszaki leírás tartalmazza a sajátos építmény főbb adatait és rendeltetését, a technológia főbb, meghatározó berendezéseit, a technológiai folyamat leírását, a termelésirányítás rendszerét és műszerezettségét, az irányítástechnikai berendezéseket, a belső anyagmozgatást, a várható veszélyek ismertetését, valamint a sajátos építményen belül elhelyezésre kerülő, nem technológiai célú berendezések leírását.
 
 (3) A terület előkészítési munkák terveiben ismertetni kell a kivitelezéshez szükséges tereprendezési, bontási és földmunkákat. Ennek keretében kell részletezni a vizek medrét és a vízi létesítményeket érintő, szükségessé váló keresztezések, átalakítások és egyéb beavatkozások munkáit is.
 
 (4) A technológiai berendezések terveit és tervrajzait, valamint a közlekedés, a közművek, az energiaátvitel, az adatátviteli és kommunikációs rendszer hálózata kapcsolatainak terveit olyan részletességgel és méretarányban kell elkészíteni, és annyi magassági adattal kell kiegészíteni, hogy azok alapján elrendezésük, kialakításuk egyértelműen megállapítható legyen.
+
+[^30]: A 40. § (2) bekezdése a 17/2023. (VII. 31.) SZTFH rendelet 6. § g) pontja szerint módosított szöveg.

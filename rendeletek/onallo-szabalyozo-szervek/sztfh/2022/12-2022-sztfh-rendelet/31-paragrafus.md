@@ -1,4 +1,4 @@
-31. § (1) A bontási engedélynek tartalmaznia kell:
+31. § (1)[^27] A bontási engedély tartalmazza:
 
 a) a bontásra kerülő sajátos építmény megjelölését,
 
@@ -15,3 +15,5 @@ e) az engedélytől eltérő végrehajtás szankcionálási lehetőségére val�
 (3) A (2) bekezdésben foglaltakat kell alkalmazni a felelős műszaki vezető személyében bekövetkező változás esetében is.
 
 (4) A bontási tevékenység befejezését az építtető 8 napon belül köteles bejelenteni a bányafelügyeletnek.
+
+[^27]: A 31. § (1) bekezdés nyitó szövegrésze a 17/2023. (VII. 31.) SZTFH rendelet 6. § b) pontja szerint módosított szöveg.

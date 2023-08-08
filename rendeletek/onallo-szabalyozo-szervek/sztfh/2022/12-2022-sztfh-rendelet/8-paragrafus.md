@@ -1,5 +1,3 @@
-## 7. § Ha az építtető előzetes szakhatósági állásfoglalást kér, a szakhatóság a kérelem mellékleteként megküldött műszaki tervdokumentációt az állásfoglalásával megegyező azonosítószámmal, keltezéssel, aláírással és bélyegzőlenyomattal látja el, és azt a szakhatósági állásfoglalásával együtt megküldi az építtetőnek.
-
 ## 7. A tervezői nyilatkozat tartalma
 
 8. § (1) A tervezői nyilatkozat tartalmazza

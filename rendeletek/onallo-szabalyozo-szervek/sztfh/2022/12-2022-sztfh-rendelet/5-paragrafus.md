@@ -6,4 +6,6 @@ a) azt, hogy a tervezési munka megfelel a 8. § (2) bekezdésében foglaltaknak
 
 b) az elvi építési és a használatbavételi engedély iránti kérelem kivételével az építési jogosultságot.
 
-(2) Az eljárásban közreműködő szakhatóság megkereséséhez az 5. mellékletben felsorolt dokumentációkat kell csatolni.
+(2)[^5]
+
+[^5]: Az 5. § (2) bekezdését a 17/2023. (VII. 31.) SZTFH rendelet 7. § a) pontja hatályon kívül helyezte.

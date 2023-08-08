@@ -102,24 +102,6 @@
 
 ## 11. Keltezés, az építtető (cégszerű) aláírása.
 
-5. melléklet a 12/2022. (I. 28.) SZTFH rendelethez
+5. melléklet a 12/2022. (I. 28.) SZTFH rendelethez[^38]
 
-A szakhatósági megkereséshez csatolandó műszaki dokumentáció tartalmi követelményei
-
-1. Adószámmal rendelkező építtető esetében az építtető adószáma.
-
-2. A sajátos építmény helye, rendeltetése.
-
-3. A sajátos építmény általános műszaki leírása.
-
-4. Az ingatlanügyi hatóság által hitelesített, 3 hónapnál nem régebbi ingatlan-nyilvántartási térképmásolat felhasználásával készített helyszínrajz.
-
-5. Az építési tevékenységgel és a sajátos építmény biztonsági övezetével érintett ingatlanok helyrajzi száma, a biztonsági övezettel érintett terület mérete.
-
-6. A közlekedés, a közművek, valamint ezek kapcsolatainak ismertetése vagy tervei.
-
-7. A közmű üzemeltető hozzájárulása.
-
-8. A biztonságtechnikai, az egészségvédelmi, a tűzvédelmi és a környezetvédelmi előírások teljesítése, külterületen, illetve védett természeti területen a sajátos építmény tájba illesztésének módja.
-
-9. Átnézeti helyszínrajz legalább 1:50 000 méretarányban a honvédelemért felelős miniszter részére, ha az eljárásban szakhatóságként vesz részt.
+[^38]: Az 5. mellékletet a 17/2023. (VII. 31.) SZTFH rendelet 7. § g) pontja hatályon kívül helyezte.
