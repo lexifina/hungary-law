@@ -1,7 +1,7 @@
-## 10. §[^76] E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 134/2021. (III. 19.) Korm. rendelettel (a továbbiakban: Módr1.) megállapított 3. § (2) bekezdését és 2. mellékletében foglalt táblázat 4., 5. és 6. sorát a Módr1. hatálybalépésekor[^77] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 10. §[^78] E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 134/2021. (III. 19.) Korm. rendelettel (a továbbiakban: Módr1.) megállapított 3. § (2) bekezdését és 2. mellékletében foglalt táblázat 4., 5. és 6. sorát a Módr1. hatálybalépésekor[^79] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-11. §[^78]
+11. §[^80]
 
-[^76]: A 10. §-t újonnan a 134/2021. (III. 19.) Korm. rendelet 1. §-a iktatta be.
-[^77]: A hatálybalépés időpontja 2021. március 20.
-[^78]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^78]: A 10. §-t újonnan a 134/2021. (III. 19.) Korm. rendelet 1. §-a iktatta be.
+[^79]: A hatálybalépés időpontja 2021. március 20.
+[^80]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -58,3 +58,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-83-20-2
 | 2023-02-21 | 2021-83-20-22.50 | 45/2023. (II. 20.) Korm. rendelet |
 | 2023-05-23 | 2021-83-20-22.51 | 595/2021. (X. 27.) Korm. rendelet |
 | 2023-06-02 | 2021-83-20-22.52 | 220/2023. (VI. 1.) Korm. rendelet |
+| 2023-08-08 | 2021-83-20-22.53 | 373/2023. (VIII. 7.) Korm. rendelet |
