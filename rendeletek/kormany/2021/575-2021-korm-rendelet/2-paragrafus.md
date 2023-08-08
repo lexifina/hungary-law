@@ -1,9 +1,17 @@
 ## 2. Értelmező rendelkezések
 
-## 2. § E rendelet alkalmazásában
+2. §[^2] E rendelet alkalmazásában
 
-1. beruházás: központi költségvetési, valamint európai uniós forrásból – ideértve a Helyreállítási és Ellenállóképességi Eszköz (RRF) és a többéves pénzügyi keret (MFF) keretösszegéből megvalósuló építési beruházást is – a Kormány vagy miniszter irányítása vagy felügyelete alá tartozó költségvetési szerv, az állam többségi befolyása alatt álló gazdasági társaság vagy a fent megnevezett forrásokból kedvezményezett önkormányzat, egyház, civil szervezet irányítása, felügyelete mentén megvalósuló, 10 millió forintot meghaladó összköltséggel rendelkező építési beruházás;
+1. beruházás-felelős: a beruházás felelőseként a beruházásról szóló kormányhatározatban kijelölt jogi személy, vagy természetes személy kijelölése esetén az irányítása alá tartozó jogi személy, kormányhatározat hiányában a támogatói döntést hozó természetes személy irányítása alá tartozó szervezeti egység, ami az európai uniós forrásból megvalósuló beruházás esetén az operatív programot felügyelő szervezeti egység;
 
-2. beruházás-felelős: a beruházás felelőseként a beruházásról szóló kormányhatározatban kijelölt jogi személy, vagy természetes személy kijelölése esetén az irányítása alá tartozó jogi személy, kormányhatározat hiányában a támogatói döntést hozó természetes személy irányítása alá tartozó szervezeti egység, ami az európai uniós forrásból megvalósuló beruházás esetén az operatív programot felügyelő szakpolitikai államtitkárság;
+2. egyéb tárgyi eszköz beszerzés: egyedi eszközre vagy eszközcsoportra irányuló, építési beruházáshoz közvetlenül nem kapcsolódó, számviteli előírások szerinti tárgyi eszköz és a hozzá kapcsolódó szolgáltatások beszerzése;
 
-3. OBMR: a beruházások adatainak bejelentésére és nyilvántartására szolgáló, egyedi azonosítást lehetővé tevő, elektronikus felülettel rendelkező, országos monitoring rendszer.
+3. építési beruházás: a közbeszerzésekről szóló törvény szerinti építési beruházás, ideértve az építési tevékenységhez közvetlenül kapcsolódó
+
+a) szolgáltatás beszerzését – különösen a terület előkészítésének költsége, tervek előkészítése, hatósági engedélyek beszerzése, projektmenedzsment, közbeszerzés – és ingatlan megvásárlását – különösen területvásárlás –, valamint
+
+b) számviteli előírások szerinti tárgyi eszköz és a hozzá kapcsolódó szolgáltatások beszerzését;
+
+4. OBMR: a beruházások adatainak bejelentésére és nyilvántartására szolgáló, egyedi azonosítást lehetővé tevő, elektronikus felülettel rendelkező, országos monitoring rendszer.
+
+[^2]: A 2. § a 374/2023. (VIII. 7.) Korm. rendelet 2. §-ával megállapított szöveg.

@@ -1,6 +1,4 @@
-## 7. § Ez a rendelet a kihirdetését követő napon lép hatályba.
-
-1. melléklet az 575/2021. (X. 12.) Korm. rendelethez
+1. melléklet az 575/2021. (X. 12.) Korm. rendelethez[^13]
 
 Az OBMR-ben megjelenítendő adatok köre
 
@@ -12,98 +10,162 @@ Az OBMR-ben megjelenítendő adatok köre
 
 | 3. | Beruházás megnevezése |
 
-| 4. | Beruházás fő rendeltetése |
+| 4. | Beruházás fő rendeltetése (funkcionális besorolás) |
 
 | 5. | Beruházás rövid leírása |
 
 | 6. | Beruházás aktuális státusza |
 
-| 7. | Beruházás helyszíne – cím |
+| 7. | Beruházás helyszíne – cím, térképvázlat |
 
 | 8. | Település |
 
-| 9. | Megye |
+| 9. | Vármegye |
 
-| 10. | Beruházások várható bruttó értéke (millió forint) |
+| 10. | Programszerű megvalósulás esetén a program neve |
 
-| 11. | 2021-ben várható költségvetési forrás (millió forint) |
+| 11. | Beruházás tárgya |
 
-| 12. | 2022-ben várható költségvetési forrás (millió forint) |
+| 12. | Beruházás jellege |
 
-| 13. | Programszerű megvalósuláskor a program neve |
+| 13. | Nemzetgazdasági szempontból kiemelt jelentőségű-e a beruházás? (csak építési beruházás esetén kitöltendő) |
 
-| 14. | Nemzetgazdasági szempontból kiemelt jelentőségű-e a beruházás? |
+| 14. | Közbeszerzés-köteles-e a beruházás? |
 
-| 15. | Az adatszolgáltatás résztvevői | Adatszolgáltató szerv |
+| 15. | Engedélyköteles-e a beruházás? (csak építési beruházás esetén kitöltendő) |
 
-| 16. | Kapcsolattartó |
+| 16. | A beruházás és az adatszolgáltatás résztvevői | Adatszolgáltató szerv |
 
-| 17. | Telefonszám |
+| 17. | Kapcsolattartó |
 
-| 18. | Államtitkárság |
+| 18. | Telefonszám |
 
-| 19. | Helyettes Államtitkárság |
+| 19. | Államtitkárság |
 
-| 20. | Főosztály vagy Szakterület |
+| 20. | Helyettes Államtitkárság |
 
-| 21. | Legutolsó adatszolgáltatás időpontja |
+| 21. | Főosztály vagy szakterület |
 
-| 22. | Beruházást kezdeményező, előkészítésért felelős |
+| 22. | Legutolsó adatszolgáltatás időpontja |
 
-| 23. | Támogató szerv |
+| 23. | Beruházást kezdeményező, előkészítésért felelős (csak építési beruházás esetén kitöltendő) |
 
-| 24. | Kedvezményezett szervezet |
+| 24. | Megvalósításért felelős szerv (beruházó) |
 
-| 25. | Beruházó szervezet |
+| 25. | Beruházó adatszolgáltatója |
 
-| 26. | Beruházó által megvalósítandó szakaszok |
+| 26. | Telefonszám |
 
-| 27. | Finanszírozás | Beruházás rendelkezésre álló fedezetének nettó értéke (millió forint) |
+| 27. | Támogató szerv |
 
-| 28. | Beruházás rendelkezésre álló fedezetének áfaértéke (millió forint) |
+| 28. | Kedvezményezett szervezet |
 
-| 29. | Beruházások rendelkezésre álló fedezetének bruttó értéke (millió forint) |
+| 29. | Fővállalkozó vagy kivitelezésért felelős szervezet |
 
-| 30. | EBBŐL: Hazai fedezet bruttó értéke (millió forint) |
+| 30. | Megvalósításban érintett egyéb szervezetek |
 
-| 31. | EBBŐL: EU-s fedezet bruttó értéke (millió forint) |
+| 31. | Beruházó által megvalósítandó szakaszok (csak építési beruházás esetén kitöltendő) |
 
-| 32. | A fedezet igazolási dokumentumainak felsorolása (Korm. hat., Tám. szer. stb.) |
+| 32. | Finanszírozás | Beruházás/beszerzés tervezett nettó értéke (forint) |
 
-| 33. | További fedezetigény nettó értéke (millió forint) |
+| 33. | Beruházás/beszerzés tervezett áfaértéke (forint) |
 
-| 34. | További fedezetigény áfaértéke (millió forint) |
+| 34. | Beruházás/beszerzés tervezett bruttó értéke (forint) |
 
-| 35. | További fedezetigény bruttó értéke (millió forint) |
+| 35. | EBBŐL: Beruházás/beszerzés hazai forrású tervezett bruttó értéke (forint) |
 
-| 36. | EBBŐL: További hazai fedezetigény bruttó értéke (millió forint) |
+| 36. | EBBŐL: Beruházás/beszerzés EU-s forrású tervezett bruttó értéke (forint) |
 
-| 37. | EBBŐL: További EU-s fedezetigény bruttó értéke (millió forint) |
+| 37. | EBBŐL: Beruházás/beszerzés saját forrású tervezett bruttó értéke (forint) |
 
-| 38. | Beruházások várható bruttó értéke (millió forint) |
+| 38. | Beruházás/beszerzés szerződött nettó értéke (forint) |
 
-| 39. | EBBŐL: Hazai forrás értéke (millió forint) |
+| 39. | Beruházás/beszerzés szerződött áfaértéke (forint) |
 
-| 40. | EBBŐL: EU-forrás értéke (millió forint) |
+| 40. | Beruházás/beszerzés szerződött bruttó értéke (forint) |
 
-| 41. | 2021-ben várható és tényleges kifizetés együttes összege a vállalkozók részére (bruttó M Ft) |
+| 41. | EBBŐL: Beruházás/beszerzés hazai forrású szerződött bruttó értéke (forint) |
 
-| 42. | Mérföldkövek (terv, tény) | I. Beruházás előkészítésének kezdete |
+| 42. | EBBŐL: Beruházás/beszerzés EU-s forrású szerződött bruttó értéke (forint) |
 
-| 43. | II. Beruházás előkészítésének vége |
+| 43. | EBBŐL: Beruházás/beszerzés saját forrású szerződött bruttó értéke (forint) |
 
-| 44. | III. Tervezési közbeszerzés kiírásának megjelenése |
+| 44. | Beruházás rendelkezésre álló fedezetének nettó értéke (forint) |
 
-| 45. | IV. Tervezési közbeszerzés lezárása és szerződéskötés |
+| 45. | Beruházás rendelkezésre álló fedezetének áfaértéke (forint) |
 
-| 46. | V. Kivitelezési közbeszerzési eljárás kiírásának megjelenése |
+| 46. | Beruházások rendelkezésre álló fedezetének bruttó értéke (forint) |
 
-| 47. | VI. Kivitelezési közbeszerzés lezárása és szerződéskötés |
+| 47. | EBBŐL: Hazai forrás bruttó értéke (forint) |
 
-| 48. | VII. Kivitelezés kezdete, munkaterület átadása |
+| 48. | EBBŐL: EU-s forrás bruttó értéke (forint) |
 
-| 49. | VIII. Kivitelezés befejezése, munkaterület átvétele |
+| 49. | EBBŐL: Saját forrás bruttó értéke (forint) |
 
-| 50. | Feladatok | Megoldandó feladat |
+| 50. | A fedezet igazolására szolgáló dokumentumok felsorolása |
 
-| 51. | Egyéb megjegyzések |
+| 51. | További fedezetigény nettó értéke (forint) |
+
+| 52. | További fedezetigény áfaértéke (forint) |
+
+| 53. | További fedezetigény bruttó értéke (forint) |
+
+| 54. | EBBŐL: További hazai fedezetigény bruttó értéke (forint) |
+
+| 55. | EBBŐL: További EU-s fedezetigény bruttó értéke (forint) |
+
+| 56. | EBBŐL: További saját fedezetigény bruttó értéke (forint) |
+
+| 57. | Tárgyévet megelőzően felhasznált költségvetési forrás (bruttó, forint) |
+
+| 58. | Tárgyévi költségvetési forrásigény a rendelkezésre álló fedezetből (bruttó, forint, negyedéves bontásban) |
+
+| 59. | Tárgyévi költségvetési forrásigény további fedezetigényből (bruttó, forint, negyedéves bontásban) |
+
+| 60. | Tárgyévi költségvetési forrásigény összesen (bruttó, forint, negyedéves bontásban) |
+
+| 61. | Tárgyévet követő költségvetési forrásigény a rendelkezésre álló fedezetből (bruttó, forint) |
+
+| 62. | Tárgyévet követő költségvetési forrásigény további fedezetigényből (bruttó, forint) |
+
+| 63. | Tárgyévet követő költségvetési forrásigény összesen (bruttó, forint) |
+
+| 64. | Tárgyévet megelőző tényleges kifizetés bruttó összege a vállalkozók részére (forint) |
+
+| 65. | Tárgyévben várható és tényleges kifizetés bruttó összege a vállalkozók részére (forint, negyedéves bontásban) |
+
+| 66. | Tárgyévet követően várható kifizetés bruttó összege a vállalkozók részére (forint) |
+
+| 67. | Mérföldkövek (terv, tény) (csak építési beruházás esetén kitöltendő) | I. Beruházás előkészítésének kezdete |
+
+| 68. | II. Beruházás előkészítésének vége |
+
+| 69. | III. Tervezési közbeszerzés kiírásának megjelenése |
+
+| 70. | IV. Tervezési közbeszerzés lezárása és szerződéskötés |
+
+| 71. | V. Kivitelezési közbeszerzési eljárás kiírásának megjelenése |
+
+| 72. | VI. Kivitelezési közbeszerzés lezárása és szerződéskötés |
+
+| 73. | VII. Kivitelezés kezdete, munkaterület átadása |
+
+| 74. | VIII. A kivitelezési (vállalkozói) szerződésben szereplő műszaki és pénzügyi mérföldkövek (százalék) |
+
+| 75. | IX. A kivitelezés műszaki előrehaladásának aktuális állása (százalékos készültségi fok) |
+
+| 76. | X. Kivitelezés befejezése, munkaterület átvétele |
+
+| 77. | Mérföldkövek (terv, tény) (csak egyéb tárgyi eszköz beszerzés esetén kitöltendő) | I. Tárgyi eszköz (köz)beszerzési eljárás kiírásának megjelenése |
+
+| 78. | II. Tárgyi eszköz (köz)beszerzés lezárása és szerződéskötés |
+
+| 79. | III. Tárgyi eszköz beszerzés kezdete, megrendelés elküldése |
+
+| 80. | IV. Tárgyi eszköz beszerzés befejezése, eszköz átvétele |
+
+| 81. | Feladatok | Megoldandó feladat |
+
+| 82. | Egyéb megjegyzések |
+
+[^13]: Az 1. melléklet a 374/2023. (VIII. 7.) Korm. rendelet 5. §-ával megállapított szöveg.

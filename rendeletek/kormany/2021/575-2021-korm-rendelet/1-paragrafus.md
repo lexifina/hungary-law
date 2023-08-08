@@ -1,13 +1,15 @@
-## 1. A rendelet alkalmazási köre
+## 1.[^1] A rendelet hatálya, alkalmazási köre
 
-1. § (1) Ezt a rendeletet kell alkalmazni a beruházásokkal kapcsolatos
+1. § (1) A rendelet hatálya kiterjed
 
-a) Országos Beruházás Monitoring Rendszer (a továbbiakban: OBMR) működtetésére és szükség szerinti továbbfejlesztésére, az ahhoz történő csatlakozásra és annak használatára;
+a) a 100 millió forintot elérő vagy meghaladó összértékű olyan egyéb tárgyi eszköz beszerzésre, valamint
 
-b) adatok nyilvántartására;
+b) a 10 millió forintot elérő vagy meghaladó összértékű olyan építési beruházásra,
 
-c) adatok alapján a források pénzügyi felhasználásának, valamint a beavatkozások eredményeinek és a kitűzött célokhoz viszonyított teljesítményének átfogó, különösen hatékonysági, eredményességi és célszerűségi szempontokra kiterjedő, rendszeres jelleggel történő vizsgálatára (a továbbiakban: monitoring).
+amely a Kormány vagy miniszter irányítása vagy felügyelete alá tartozó költségvetési szerv, az állam közvetlen vagy közvetett többségi befolyása alatt álló gazdasági társaság vagy önkormányzat, egyház, civil szervezet irányítása, felügyelete mentén valósul meg, és amely előkészítéséhez, megvalósításához felhasználni tervezett vagy felhasznált központi költségvetési vagy európai uniós forrás mértéke külön-külön vagy együttesen az építési beruházás, illetve egyéb tárgyi eszköz beszerzés (a továbbiakban együtt: beruházás) becsült vagy végleges összértékének ötven százalékát meghaladja.
 
-(2) Ezt a rendeletet kell alkalmazni a Kormányzati Beruházás-monitoring Iroda (a továbbiakban: Monitoring Iroda) eljárásrendjére és működésére.
+(2) Ha az azonos célt szolgáló beruházás különböző források felhasználásával valósul meg, az azonos jellegű forrásokat együttesen kell figyelembe venni a beruházás összértékén belül képviselt, (1) bekezdés szerinti arányuk meghatározásakor.
 
-(3) Ezt a rendeletet nem kell alkalmazni a honvédelmi, katonai, valamint nemzetbiztonsági célú és rendeltetésű építményeket érintő beruházásokra.
+(3) Ha az azonos célt szolgáló beruházás szakaszosan, több, egymást követő időszakot érintően valósul meg, az egyes szakaszok értékét együttesen kell figyelembe venni a beruházás (1) bekezdés a) és b) pontja szerinti összértékének meghatározásánál.
+
+[^1]: Az 1. alcím (1-1/A. §) a 374/2023. (VIII. 7.) Korm. rendelet 1. §-ával megállapított szöveg.
