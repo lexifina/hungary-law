@@ -4,12 +4,8 @@
 
 | Határidő: | azonnal |
 
-## 2. A Budapest XIV. kerületi ingatlanok állami tulajdonba vétele érdekében szükséges intézkedésekről szóló 1236/2023. (VI. 16.) Korm. határozat 1. pontjában
-
-## a) az „igénymentesen” szövegrész helyébe az „igénymentesen, ide nem értve a visszterhes használati szerződéseket” szöveg,
-
-## b) a „vételáron;” szövegrész helyébe az „általános forgalmi adó nélkül meghatározott vételáron, azzal, hogy az egyes ingatlanok területe és természetbeni állapota eltérhet az ingatlan-nyilvántartási adatoktól;” szöveg
-
-## lép.
+## 2.[^1]
 
 1. melléklet az 1366/2023. (VIII. 7.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
