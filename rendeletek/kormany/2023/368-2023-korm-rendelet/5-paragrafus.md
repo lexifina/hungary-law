@@ -1,0 +1,1 @@
+5. § A tagállami célkitűzés teljesítése érdekében az európai uniós források felhasználásáért felelős miniszter feladat- és hatáskörében eljárva – a honvédelmi miniszter bevonásával – az Európai Védelmi Alap nemzeti éves végrehajtási terve alapján keret forrástervet készít az Európai Védelmi Alap végrehajtásának előkészítő költsége és a pályázati önerő biztosítása érdekében.
