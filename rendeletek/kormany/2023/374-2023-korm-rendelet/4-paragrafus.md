@@ -1,0 +1,3 @@
+4. § Az OBMR rendelet 7. alcíme a következő 8. §-sal egészül ki:
+
+„8. § Az Országos Beruházás Monitoring Rendszer eljárásrendjéről és működtetéséről szóló 575/2021. (X. 12.) Korm. rendelet módosításáról szóló 374/2023. (VIII. 7.) Korm. rendelet (a továbbiakban: Módr.) 1. §-ával megállapított 1. § (1) bekezdése hatálybalépése előtt az e rendelet hatálya alá nem tartozó, az 1. § (1) bekezdése szerinti, a Módr. hatálybalépésekor folyamatban lévő beruházások esetében a 6. § (1) bekezdése szerinti adatszolgáltatást legkésőbb a 2023. év harmadik negyedévére vonatkozó adatszolgáltatással egyidejűleg kell teljesíteni.”
