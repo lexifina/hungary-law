@@ -1,0 +1,1 @@
+4. § A Kormány az 1. § (2) bekezdés a) pontja szerinti adatkezelési koncepció részeként a személyes adatok védelme érdekében alkalmazandó adattitkosítási eljárás biztosításának ellátására kulcs- és tanúsítványszolgáltatóként a DATRAK Digitális Adattranzakciós Központ Korlátolt Felelősségű Társaságot jelöli ki.
