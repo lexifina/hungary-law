@@ -42,4 +42,6 @@ m) a vasúti tartálykocsikra, a közúti tartályjárművekre és a belvízi ta
 
 n) a földgázellátásról szóló törvényben meghatározott elosztóvezetékre, kivéve a propán-bután gáz elosztóvezeték megtáplálását biztosító tartályt.
 
-(3) A nyomástartó berendezések műszaki és biztonsági követelményeire külön jogszabályok, szabályzatok előírásai vonatkoznak.
+(3)[^1]
+
+[^1]: Az 1. § (3) bekezdését a 16/2023. (VII. 31.) SZTFH rendelet 8. § a) pontja hatályon kívül helyezte.

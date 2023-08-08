@@ -4,7 +4,7 @@
 
 (2) A létesítési engedély iránti kérelemnek tartalmaznia kell
 
-a) a létesítmény helyét, rendeltetését,
+a)[^8] a létesítmény helyét, rendeltetését és a létesítmény 1. melléklet szerinti veszélyességi osztályba sorolását,
 
 b) a létesítési tevékenységgel és a létesítmény biztonsági övezetével érintett ingatlanok helyrajzi számát,
 
@@ -16,7 +16,7 @@ e) a létesítés felelős műszaki vezetőjének a nevét, címét és képesí
 
 f) a (3) bekezdés szerinti mellékletek felsorolását.
 
-(3) A létesítési engedély iránti kérelemhez – ha a kérelem benyújtása nem elektronikus úton történik, akkor az érdekelt szakhatóságok számának megfelelő példányszámban – mellékelni kell a létesítményt ismertető engedélyezési dokumentációt, amely tartalmazza
+(3)[^9] A létesítési engedély iránti kérelemhez mellékelni kell a létesítményt ismertető engedélyezési dokumentációt, amely tartalmazza
 
 a) a 2. melléklet szerinti rajzdokumentációt és műszaki leírást,
 
@@ -42,4 +42,8 @@ c) azt, hogy a tervezett műszaki megoldás megfelel a vonatkozó jogszabályokn
 
 (9) Sorozatban gyártott nyomástartó berendezést tartalmazó létesítmény olyan részletességű dokumentáció alapján is engedélyezhető, amely dokumentáció csak a már engedélyezett telepítési típustervtől való eltéréseket tartalmazza, és minden esetben biztosítja az azonos műszaki tartalmat valamint biztonsági szintet.
 
-(10) A létesítési engedélyben legfeljebb 180 napos időtartamra próbaüzem engedélyezhető. Az engedélyben ki kell térni a próbaüzem esetleges feltételeire és a kiértékelés tartalmi követelményeire. A létesítési engedély a véglegessé válásától számított 2 évig hatályos.
+(10)[^10] A létesítési engedélyben legfeljebb 180 napos időtartamra próbaüzem engedélyezhető. Az engedélyben ki kell térni a próbaüzem esetleges feltételeire és a kiértékelés tartalmi követelményeire.
+
+[^8]: A 9. § (2) bekezdés a) pontja a 16/2023. (VII. 31.) SZTFH rendelet 7. § c) pontja szerint módosított szöveg.
+[^9]: A 9. § (3) bekezdés nyitó szövegrésze a 16/2023. (VII. 31.) SZTFH rendelet 8. § c) pontja szerint módosított szöveg.
+[^10]: A 9. § (10) bekezdése a 16/2023. (VII. 31.) SZTFH rendelet 8. § d) pontja szerint módosított szöveg.

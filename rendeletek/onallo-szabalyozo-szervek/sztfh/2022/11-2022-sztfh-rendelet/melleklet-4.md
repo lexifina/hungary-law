@@ -1,6 +1,6 @@
 4. melléklet a 11/2022. (I. 28.) SZTFH rendelethez
 
-## A vizsgáló szervezetekre vonatkozó követelmények
+A vizsgáló szervezetekre vonatkozó követelmények
 
 I. Személyi feltételek
 

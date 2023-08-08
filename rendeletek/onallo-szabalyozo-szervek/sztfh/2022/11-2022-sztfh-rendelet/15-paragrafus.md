@@ -1,8 +1,6 @@
-## 14. § A 15. § szerinti átalakítási engedély alapján átalakított vagy bejelentés alapján javított nyomástartó berendezés használatbavételére a 11–13. § rendelkezését kell megfelelően alkalmazni.
-
 ## 7. Átalakítási engedélyezési eljárás, javítás bejelentése
 
-15. § (1) A bányafelügyelet engedélye szükséges a nyomástartó berendezés minden olyan átalakításához, amely a 13. § (3) bekezdésében felsoroltakat meghaladja.
+15. § (1)[^16]
 
 (2) Az átalakítási engedély iránti kérelemnek tartalmaznia kell
 
@@ -18,11 +16,7 @@ c) az átalakítás műszaki vezetőjének a nevét, címét és képesítését
 
 (5) Új veszélyességi kategóriába, illetve osztályba történő besorolásra javaslatot csak abban az esetben kell tenni, ha az átalakítást követően megváltozik a nyomástartó berendezés besorolása.
 
-(6) Az átalakítási engedély iránti kérelem elbírálása során a bányafelügyelet meggyőződik arról, hogy
-
-a) a kérelem megfelel a (2)–(3) bekezdésben foglaltaknak, és
-
-b) a tervezett átalakítási munka megfelel a vonatkozó jogszabályokban előírt követelményeknek.
+(6)[^17]
 
 (7) Az átalakítási engedély rendelkező részének – az általános közigazgatási rendtartásról szóló törvényben előírtakon túl – tartalmaznia kell
 
@@ -42,7 +36,7 @@ e) az átalakítási engedély hatályát.
 
 (8) Az átalakítási engedély a véglegessé válásától számított 1 évig hatályos. Az engedély hatálya egy alkalommal, egy évvel meghosszabbítható.
 
-(9) A nyomástartó berendezések 13. § (3) bekezdésében felsoroltakat meghaladó javítására vonatkozó bejelentésnek tartalmaznia kell
+(9)[^18] A nyomástartó berendezések javítására vonatkozó bejelentésnek tartalmaznia kell
 
 a) a javítással érintett létesítmény helyét, rendeltetését,
 
@@ -51,3 +45,7 @@ b) a javítási tervet készítő tervező nevét, címét, tervezői jogosults�
 c) a javítás műszaki vezetőjének a nevét, címét és képesítését és
 
 d) a javítási tevékenység rövid leírását.
+
+[^16]: A 15. § (1) bekezdését a 16/2023. (VII. 31.) SZTFH rendelet 8. § f) pontja hatályon kívül helyezte.
+[^17]: A 15. § (6) bekezdését a 16/2023. (VII. 31.) SZTFH rendelet 8. § f) pontja hatályon kívül helyezte.
+[^18]: A 15. § (9) bekezdés nyitó szövegrésze a 16/2023. (VII. 31.) SZTFH rendelet 8. § g) pontja szerint módosított szöveg.

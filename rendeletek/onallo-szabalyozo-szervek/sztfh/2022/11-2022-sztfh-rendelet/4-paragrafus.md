@@ -1,4 +1,4 @@
-## 3. Szakmai követelmények
+## 3.[^2] A nyomástartó berendezést vizsgáló és felügyelő tevékenység szakmai követelményei
 
 4. § (1) Szakképesítésnek a szakirányú középfokú, illetve a szakirányú felsőfokú szakképesítés felel meg.
 
@@ -11,3 +11,5 @@
 (5) E rendelet alkalmazásában szakirányú középfokú szakképesítésnek minősül a gépésztechnikusi, a gáz- és olajipari technikusi képesítés és a technikus képzés szüneteltetésének időszakában az előbbi szakirány szerinti szakközépiskolai érettségi bizonyítvánnyal szerzett szakképesítés.
 
 (6) A gyakorlati idő felsőfokú végzettség esetén legalább három év, középfokú végzettség esetén legalább öt év. Gyakorlati időnek tekinthető a nyomástartó berendezést gyártónál, üzemeltetőnél vagy vizsgálónál (ellenőrzőnél) eltöltött olyan idő, melyet a kérelmező nyomástartó berendezést vizsgáló szakértő, illetve felügyeleti személy irányítása mellett töltött el.
+
+[^2]: A 3. alcím címe a 16/2023. (VII. 31.) SZTFH rendelet 1. §-ával megállapított szöveg.

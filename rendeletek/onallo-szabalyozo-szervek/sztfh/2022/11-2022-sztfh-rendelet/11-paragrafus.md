@@ -1,41 +1,35 @@
-## 6. Használatbavételi engedélyezési eljárás
+## 6.[^15] Használatbavételi engedélyezési eljárás
 
-11. § (1) A nyomástartó berendezést a használatbavétel engedélyezése céljából az 1. melléklet szerinti módon veszélyességi osztályba kell sorolni.
+11. § (1) Ha a nyomástartó berendezés valamely bányafelügyeleti engedélyköteles létesítmény része vagy tartozéka, a berendezés használatbavételi eljárása a létesítmény használatának engedélyezésével együtt, egy eljárás keretében is lefolytatható.
 
-(2) Mobil nyomástartó berendezés első és további felállítási helyén a berendezés használatbavételét meg kell előznie a felállítási helyen a nyomástartó berendezést vizsgáló szakértő vagy felügyeleti személy által elvégzett sikeres külső szerkezeti vizsgálatnak és tömörségi nyomáspróbának.
-
-(3) Ha a nyomástartó berendezés valamely bányafelügyeleti engedélyköteles létesítmény része, illetve tartozéka, a berendezés használatbavételi eljárása a létesítmény használatának engedélyezésével együtt, egy eljárás keretében is lefolytatható.
-
-(4) A bányafelügyelethez benyújtandó használatbavételi engedély kérelemnek tartalmaznia kell
+(2) A használatbavételi engedély iránti kérelem tartalmazza
 
 a) a létesítmény helyét, helyrajzi számát,
 
-b) a létesítési engedély számát és keltét az engedélyező megnevezésével,
+b) a létesítési engedély számát és keltét,
 
 c) az üzemeltető megnevezését és címét,
 
-d) ha a létesítési tervdokumentáció nem tartalmazta, akkor a nyomástartó berendezés gyártójának, forgalmazójának, megfelelőségértékelést végző bejelentett szervezet megnevezését, a létesítési engedély számát, a berendezés gyári számát, telepítési helyét, műszaki adatait; különösen a térfogatát, töltetét, tervezési nyomását, hőmérsékletét, az anyagmegválasztás alapjául szolgáló hőmérsékletet, a legkisebb üzemi hőmérsékletet és a legnagyobb üzemnyomását,
+d) ha a létesítési tervdokumentáció nem tartalmazta, a 3. melléklet 4. pontjában foglalt adatokat,
 
-e) a nyomástartó berendezésen (rendszeren) a nyomástartó berendezést vizsgáló szakértő vagy felügyeleti személy által elvégzett vizsgálatok felsorolását és
+e) a nyomástartó berendezésen (rendszeren) a nyomástartó berendezést vizsgáló szakértő vagy felügyeleti személy által, továbbá az alkalmazott megfelelőségértékelési eljárás szerint elvégzett vizsgálatok felsorolását és
 
-f) a nyomástartó berendezés egyedi, illetve a rendszer védelmét ellátó nyomáshatároló beépítési helyét, kategóriáját, valamint műszaki jellemzőit (típus, jellemző teljesítménytényező, beállítási – a legnagyobb üzemnyomás – nyomás) és az alkalmazott megfelelőségértékelési eljárás szerint elvégzett eredményes vizsgálatok felsorolását, valamint az egyéb biztonsági berendezések ismertetését és beépítési helyüket.
+f) ha a létesítési tervdokumentáció nem tartalmazta, a nyomástartó berendezés
 
-(5) A használatbavételi engedély iránti kérelemhez mellékelni kell
+fa) egyedi, illetve a rendszer védelmét ellátó nyomáshatároló beépítési helyét, kategóriáját és
 
-a) ha a létesítési munkát az engedélytől, valamint a jóváhagyott tervdokumentációtól eltérően végezték, a létesítés felelős műszaki vezetőjének eltérést ismertető nyilatkozatát, valamint szükség szerint a megvalósulást tartalmazó dokumentációt,
+fb) az egyéb biztonsági berendezések ismertetését és beépítési helyét.
 
-b) a nyomástartó berendezés (rendszer) használatára (kezelésére) és karbantartására vonatkozó gyártóművi, üzemeltetői előírásokat,
+(3) A használatbavételi engedély iránti kérelemhez mellékelni kell
 
-c) a biztonsági értékelést és a 19. § (1) bekezdése és 20. § (1) bekezdése előírásainak figyelembevételével készített vizsgálati tervet és
+a) a nyomástartó berendezés használatára, kezelésére és karbantartására vonatkozó gyártóművi és üzemeltetői előírásokat,
 
-d) jelentést az esetleg előírt próbaüzem tapasztalatairól.
+b) a biztonsági értékelést és a 20. § (1) bekezdése szerinti időszakos felülvizsgálatra vonatkozó vizsgálati tervet,
 
-(6) A 9. § (9) bekezdése szerinti létesítési engedélyben szereplő nyomástartó berendezés használatbavétele az alapadatokat tartalmazó kérelem alapján is engedélyezhető, ha a rendelkezésre álló és engedélyezett típusdokumentum értelemszerűen tartalmazza a (4) és (5) bekezdés szerinti adatokat és mellékleteket.
+c) a nyomástartó berendezésen, rendszeren elvégzett vizsgálatok eredményét és
 
-(7) A használatbavételi engedély iránti kérelem benyújtásakor igazolni kell
+d) a próbaüzem tapasztalatairól szóló jelentést.
 
-a) a nyomástartó berendezésen (rendszeren) a biztonsági szabályzatokban, illetve a létesítési engedélyben előírt vizsgálatok eredményeit (például a radiográfiai, a szerkezeti vizsgálat, a nyomáspróbák, a geometriai és a falvastagságmérések),
+(4) A használatbavételi engedély iránti kérelem benyújtásakor igazolni kell, hogy a nyomástartó berendezést (rendszert) a létesítési engedélyben foglaltaknak megfelelően kivitelezték, az a helyszíni szerelési állapotban az előírásoknak megfelel, és a tervezett célra alkalmas.
 
-b) azt, hogy a nyomástartó berendezést (rendszert) a létesítési engedélyben foglaltaknak megfelelően kivitelezték, az a helyszíni szerelési állapotban az előírásoknak megfelel és a tervezett célra alkalmas,
-
-c) ha követelmény korróziós próbatestek elhelyezése és a falvastagság rendszeres ellenőrzése, akkor az előírt korróziós próbatestek elhelyezése előtti vizsgálatok és a kijelölt helyeken végzett falvastagságmérések eredményeit.
+[^15]: A 6. alcím (11-14. §) a 16/2023. (VII. 31.) SZTFH rendelet 4. §-ával megállapított szöveg.

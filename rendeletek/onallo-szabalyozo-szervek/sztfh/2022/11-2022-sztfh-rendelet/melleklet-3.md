@@ -1,6 +1,6 @@
 3. melléklet a 11/2022. (I. 28.) SZTFH rendelethez
 
-## Nyomástartó berendezés nyilvántartásának tartalmi követelményei
+Nyomástartó berendezés nyilvántartásának tartalmi követelményei
 
 1. A létesítmény helye:
 

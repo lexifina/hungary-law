@@ -1,6 +1,6 @@
 ## A nyomástartó berendezések veszélyességi osztályba sorolása a hatósági eljárások szempontjából
 
-## 1. A nyomástartó berendezéseket a 11. § (1) bekezdése szerinti használatbavételi engedélyezési eljárás lefolytatása szempontjából e melléklet alkalmazásával kell besorolni.
+## 1. [^26]
 
 ## 2. A besorolás a berendezés fajtája, töltetének veszélyessége, a legnagyobb megengedhető nyomás (PS) és a belső térfogat (V) szorzata, valamint e szorzat egy az 5. pont ábráiban megadott, vastag vonallal jelzett határértéke figyelembevétele alapján történik.
 
@@ -42,7 +42,7 @@
 
 2. melléklet a 11/2022. (I. 28.) SZTFH rendelethez
 
-## A nyomástartó berendezések létesítési engedélyezési dokumentációjának követelményei
+A nyomástartó berendezések létesítési engedélyezési dokumentációjának követelményei
 
 1. A műszaki leírás követelményei
 
@@ -89,3 +89,5 @@ d) a biztonsági távolság és a védőövezet határai és az ezekkel érintet
 e) a kezelésre, a vizsgálatok elvégzésére rendelkezésre álló terület.
 
 2.3. A korrózió, az erózió és a belső vizsgálhatóság figyelembevételével a falvastagságmérési helyeket (ultrahangos falvastagságmérési térkép).
+
+[^26]: Az 1. melléklet 1. pontját a 16/2023. (VII. 31.) SZTFH rendelet 8. § k) pontja hatályon kívül helyezte.
