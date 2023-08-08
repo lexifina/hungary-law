@@ -212,7 +212,7 @@
 
 | 24. | Szén-dioxidnak a tárolóhelyre történő eljuttatását lehetővé tevő csővezeték-hálózat és ennek tartozékai | 189 000 | B0450 | 189 000 | B0450H |
 
-| 25. | A koncesszióköteles geotermikus energia kinyerésének és energetikai célú hasznosításának építményei az erőművi berendezések kivételével | 142 000 | B0460 | 142 000 | B0460H |
+| 25. | A geotermikus energia kinyerésének és energetikai célú hasznosításának építményei az erőművi berendezések kivételével | 142 000 | B0460 | 142 000 | B0460H |
 
 | 26. | A földalatti szénelgázosításhoz szükséges létesítmények | 118 000 | B0470 | 118 000 | B0470H |
 
@@ -260,4 +260,4 @@
 
 4. Polgári robbantási, robbanóanyag-forgalmazási tevékenység engedélyezésének díjai, egyes robbanóanyagok és tárgyak, illetve egyes anyagok besorolásának jóváhagyása
 
-[^4]: Az 1. melléklet a 33/2022. (VII. 29.) SZTFH rendelet 4. §-a és 5. §-a, a 40/2022. (XII. 19.) SZTFH rendelet 22. §-a, 23. § a)–d) pontja és 24. § a) és b) pontja szerint módosított szöveg.
+[^4]: Az 1. melléklet a 33/2022. (VII. 29.) SZTFH rendelet 4. §-a és 5. §-a, a 40/2022. (XII. 19.) SZTFH rendelet 22. §-a, 23. § a)–d) pontja és 24. § a) és b) pontja, a 17/2023. (VII. 31.) SZTFH rendelet 2. §-a szerint módosított szöveg.

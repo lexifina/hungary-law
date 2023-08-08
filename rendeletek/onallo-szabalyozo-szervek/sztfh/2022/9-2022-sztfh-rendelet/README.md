@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-9-20-8K
 | 2023-01-01 | 2022-9-20-8K.3 | 33/2022. (VII. 29.) SZTFH rendelet |
 | 2023-02-01 | 2022-9-20-8K.4 | 33/2022. (VII. 29.) SZTFH rendelet |
 | 2023-03-01 | 2022-9-20-8K.5 | 33/2022. (VII. 29.) SZTFH rendelet |
+| 2023-08-08 | 2022-9-20-8K.6 | 33/2022. (VII. 29.) SZTFH rendelet |
