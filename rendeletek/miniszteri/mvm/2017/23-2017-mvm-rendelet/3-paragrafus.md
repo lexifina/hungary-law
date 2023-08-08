@@ -38,6 +38,8 @@ g)[^6] gondoskodik a 4. mellékletben foglalt adattartalmú vizsgajegyzőkönyv 
 
 h) értesíti az anyakönyvi szakvizsga nyilvántartót a sikeres szakvizsgát tett jelölt 3. mellékletben meghatározott adatairól, és megküldi elektronikus úton a szakvizsga bizonyítvány másolatát.
 
+(9a)[^7] A 2. § (2) bekezdés b) pontja szerinti szervező az általa kiállított szakvizsga bizonyítványok tekintetében gondoskodik azok érvényességének nyilvántartásáról.
+
 (10) A vizsgajegyzőkönyv nem selejtezhető közokirat, megőrzéséről az iratkezelési szabályoknak megfelelően a szervező gondoskodik.
 
 (11) A szakvizsga bizonyítvány elvesztése vagy megsemmisülése esetén az anyakönyvi szakvizsga nyilvántartó az érvényes szakvizsga meglétéről díjmentesen igazolást állít ki.
@@ -52,3 +54,4 @@ c) a bizonyítvány kiállításának évét.
 
 [^5]: A 3. § (1) bekezdése a 13/2022. (VIII. 31.) MvM rendelet 7. § d) pontja szerint módosított szöveg.
 [^6]: A 3. § (9) bekezdés g) pontja a 13/2022. (VIII. 31.) MvM rendelet 7. § e) pontja szerint módosított szöveg.
+[^7]: A 3. § (9a) bekezdését a 4/2023. (VIII. 7.) MvM rendelet 1. §-a iktatta be.

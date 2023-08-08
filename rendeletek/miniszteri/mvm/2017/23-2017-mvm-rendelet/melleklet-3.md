@@ -1,6 +1,6 @@
 3. melléklet a 23/2017. (VIII. 7.) MvM rendelethez
 
-## Az anyakönyvi szakvizsga nyilvántartás adattartalma
+Az anyakönyvi szakvizsga nyilvántartás adattartalma
 
 1. Sorszám
 
@@ -20,4 +20,6 @@ d) munkáltatója
 
 5. A vizsga típusa
 
-6. Érvénytelenné válás időpontja
+6.[^20]
+
+[^20]: A 3. melléklet 6. pontját a 4/2023. (VIII. 7.) MvM rendelet 4. §-a hatályon kívül helyezte.

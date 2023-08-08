@@ -1,6 +1,6 @@
-4. melléklet a 23/2017. (VIII. 7.) MvM rendelethez[^15]
+4. melléklet a 23/2017. (VIII. 7.) MvM rendelethez[^21]
 
-## A gyakorlati és a szóbeli szakvizsga jegyzőkönyvének adattartalma
+A gyakorlati és a szóbeli szakvizsga jegyzőkönyvének adattartalma
 
 1. Iktatószám;
 
@@ -48,4 +48,4 @@
 
 17. A vizsgabizottság elnökének és tagjainak aláírása.
 
-[^15]: A 4. melléklet a 13/2022. (VIII. 31.) MvM rendelet 6. § b) pontjával megállapított szöveg.
+[^21]: A 4. melléklet a 13/2022. (VIII. 31.) MvM rendelet 6. § b) pontjával megállapított szöveg.

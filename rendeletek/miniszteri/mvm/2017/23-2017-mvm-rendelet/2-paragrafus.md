@@ -14,7 +14,7 @@ a)[^2] a fővárosi és vármegyei kormányhivatal (a továbbiakban: Kormányhiv
 
 b) az (1) bekezdés b) és c) pontjában meghatározott esetben a külpolitikáért felelős miniszter által vezetett minisztérium
 
-## (a továbbiakban együtt: szervező) szervezhet.
+(a továbbiakban együtt: szervező) szervezhet.
 
 (3) A szakvizsga részei a felkészítő tanfolyam, valamint a gyakorlati és szóbeli vizsgarészből álló vizsga.
 

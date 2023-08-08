@@ -1,8 +1,8 @@
-## 10. §[^12] E rendeletnek az anyakönyvi szakvizsgáról szóló 23/2017. (VIII. 7.) MvM rendelet módosításáról szóló 13/2022. (VIII. 31.) MvM rendelettel megállapított 5. és 7. mellékletét a 2022. október 1-jét követő időpontra megszervezett szóbeli vizsga esetén kell alkalmazni.
+## 10. §[^17] E rendeletnek az anyakönyvi szakvizsgáról szóló 23/2017. (VIII. 7.) MvM rendelet módosításáról szóló 13/2022. (VIII. 31.) MvM rendelettel megállapított 5. és 7. mellékletét a 2022. október 1-jét követő időpontra megszervezett szóbeli vizsga esetén kell alkalmazni.
 
-1. melléklet a 23/2017. (VIII. 7.) MvM rendelethez[^13]
+1. melléklet a 23/2017. (VIII. 7.) MvM rendelethez[^18]
 
-## Az anyakönyvi szakvizsga tanfolyamra és vizsgára történő jelentkezés adattartalma
+Az anyakönyvi szakvizsga tanfolyamra és vizsgára történő jelentkezés adattartalma
 
 1. Közigazgatási szerv neve és címe;
 
@@ -34,5 +34,5 @@
 
 7. Jelölt aláírása.
 
-[^12]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 13/2022. (VIII. 31.) MvM rendelet 5. §-a iktatta be.
-[^13]: Az 1. melléklet a 13/2022. (VIII. 31.) MvM rendelet 6. § a) pontjával megállapított szöveg.
+[^17]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 13/2022. (VIII. 31.) MvM rendelet 5. §-a iktatta be.
+[^18]: Az 1. melléklet a 13/2022. (VIII. 31.) MvM rendelet 6. § a) pontjával megállapított szöveg.
