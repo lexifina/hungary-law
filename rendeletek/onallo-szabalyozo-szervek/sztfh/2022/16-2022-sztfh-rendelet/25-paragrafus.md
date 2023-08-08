@@ -17,3 +17,5 @@ a) 210 bar üzemnyomásig 1/2” – 6” méretben,
 b) 211–350 bar üzemnyomásig 1/2” – 2” méretben,
 
 c) 350 bar feletti üzemnyomás esetén 1/2” méretben
+
+alkalmazható.

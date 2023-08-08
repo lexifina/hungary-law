@@ -1,10 +1,8 @@
-## 3. § Engedélyköteles felszíni létesítmény tekintetében építési kivitelezési munkálat – a fúróberendezés felállításának és a fúrási telephely kialakításának kivételével – építési felelős műszaki vezető felügyeletével végezhető. Az építési felelős műszaki vezető hatásköre nem érinti a bányaüzemi felelős műszaki vezető hatáskörét.
-
 ## 4. Üzemi utasítások
 
 4. § (1) A műveleti utasítások tárgyi és személyi feltételeit a lehetséges veszélyek és kockázatok azonosításával, valamint azok csökkentésére vagy megszüntetésére figyelemmel kell elkészíteni.
 
-(2) A gépek, berendezések, létesítmények üzemeltetésére, karbantartására, az egészséget nem veszélyeztető és biztonságos munkavégzés tárgyi és személyi feltételeire vonatkozó üzemi – technológiai, műveleti, kezelési, karbantartási, ellenőrzési, üzemzavar-elhárítási és szolgálati – utasítást kell készíteni. Az utasítást évente felül kell vizsgálni, és szükség szerint aktualizálni kell.
+(2)[^8] A gépek, berendezések, létesítmények üzemeltetésére, karbantartására, az egészséget nem veszélyeztető és biztonságos munkavégzés tárgyi és személyi feltételeire vonatkozó üzemi – technológiai, műveleti, kezelési, karbantartási, ellenőrzési és szolgálati – utasítást, valamint üzemzavar-elhárítási tervet kell készíteni. Az utasítást és az üzemzavar-elhárítási tervet évente felül kell vizsgálni, és szükség szerint aktualizálni kell.
 
 (3) Technológiai, kezelési utasítást kell készíteni az önállóan üzemeltethető, indítható és leállítható technológiai rendszerre, az elkülönítetten végezhető és több folyamatból álló technológiai tevékenységre és feladatellátásra, a végzett tevékenység végrehajtásának tárgyi és személyi feltételeire. A technológiai, kezelési utasítás tartalmazza
 
@@ -68,7 +66,7 @@ a) a gépek, berendezések, műszerek megnevezését,
 
 b) a karbantartási művelet részletes leírását, sor- és időrendjét,
 
-c) a karbantartás közbeni, szándék nélküli (véletlen) üzembeállítás megakadályozásának módját,
+c)[^9] a karbantartás közbeni, szándék nélküli üzembeállítás megakadályozásának módját,
 
 d) a karbantartási munka irányításának, végzésének, ellenőrzésének feltételeit,
 
@@ -94,7 +92,7 @@ e) az ellenőrzés során tett észrevételek írásbeli rögzítésének és je
 
 f) a hiányosság észlelése esetén fennálló intézkedési kötelezettséget.
 
-(8) Üzemzavar-elhárítási utasítást kell készíteni az üzemeltetés során várhatóan előforduló hibák, veszélyek felismerésének, behatárolásának és elhárításának módjára, sorrendjére. Az üzemzavar-elhárítási utasítás tartalmazza
+(8)[^10] Üzemzavar-elhárítási tervet kell készíteni az üzemeltetés során várhatóan előforduló hibák, veszélyek felismerésének, behatárolásának és elhárításának módjára, sorrendjére. Az üzemzavar-elhárítási terv tartalmazza
 
 a) a veszélyforrások felsorolását,
 
@@ -116,7 +114,7 @@ i) a helyszín változatlanul tartására, megváltoztatására, fényképi, raj
 
 j) az elhárítás fontosabb eseményeinek dokumentálására vonatkozó rendelkezéseket.
 
-(9) Az e rendelet alapján meghatározott és elkészítendő üzemzavar-elhárítási utasítás (terv) nem helyettesíti és nem zárja ki a más jogszabályokban meghatározott egyéb védelmi tervek elkészítésének és alkalmazásának kötelezettségét.
+(9)[^11] Az e rendelet alapján meghatározott és elkészítendő üzemzavar-elhárítási terv nem helyettesíti és nem zárja ki a más jogszabályokban meghatározott egyéb védelmi tervek elkészítésének és alkalmazásának kötelezettségét.
 
 (10) Szolgálati utasítást kell készíteni a feladatellátással kapcsolatos tevékenységekre a tevékenységi területek és a hatáskörök lehatárolása érdekében. A szolgálati utasítás tartalmazza
 
@@ -147,3 +145,8 @@ l) az üzemmenet, az üzemzavar és a rendkívüli események során szükséges
 (11) Ahol üzemszervezési, létszámtelepítési körülmények indokolják, egyes munka- és tevékenységi körök utasításai összevonhatók.
 
 (12) Rendkívüli műveletek végzésére egyedi utasítást kell készíteni. Ezeket a műveleteket az írásban megbízott felügyeleti személynek kell irányítania.
+
+[^8]: A 4. § (2) bekezdése a 18/2023. (VII. 31.) SZTFH rendelet 12. §-ával megállapított szöveg.
+[^9]: A 4. § (6) bekezdés c) pontja a 18/2023. (VII. 31.) SZTFH rendelet 27. § 5. pontja szerint módosított szöveg.
+[^10]: A 4. § (8) bekezdés nyitó szövegrésze a 18/2023. (VII. 31.) SZTFH rendelet 26. § b) pontja szerint módosított szöveg.
+[^11]: A 4. § (9) bekezdése a 18/2023. (VII. 31.) SZTFH rendelet 26. § c) pontja szerint módosított szöveg.

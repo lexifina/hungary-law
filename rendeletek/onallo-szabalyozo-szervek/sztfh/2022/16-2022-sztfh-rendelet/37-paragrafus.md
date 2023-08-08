@@ -1,6 +1,6 @@
 ## 14. Megvalósulási dokumentáció
 
-37. § (1) A bányavállalkozó a megvalósult fúrásokról, a lefúrt kutakról, az elvégzett kútmunkálatokról dokumentációs rendszert működtet. A kút dokumentációja legalább a következőket tartalmazza:
+37. § (1)[^37] A bányavállalkozó a megvalósult fúrásokról, a lefúrt kutakról, az elvégzett kútmunkálatokról dokumentációs rendszert működtet. A kút dokumentációja tartalmazza:
 
 a) a kivitelezési naplót,
 
@@ -19,3 +19,5 @@ g) a kútfejszerelvény nyomáshatárát, típusát, valamint
 h) a beépített anyagok és szerelvények megfelelőségi tanúsítványait.
 
 (2) A kút dokumentációját a bányászati tevékenység végéig meg kell őrizni.
+
+[^37]: A 37. § (1) bekezdés nyitó szövegrésze a 18/2023. (VII. 31.) SZTFH rendelet 27. § 16. pontja szerint módosított szöveg.

@@ -14,7 +14,7 @@ c) kőolaj- és földgázbányászati létesítmények építését, üzemeltet�
 
 d) földalatti gáztárolók létesítését, üzemeltetését
 
-## tervező, kivitelező, üzemeltető, karbantartó és hibaelhárító természetes személyre, jogi személyre és jogi személyiséggel nem rendelkező társaságra.
+tervező, kivitelező, üzemeltető, karbantartó és hibaelhárító természetes személyre, jogi személyre és jogi személyiséggel nem rendelkező társaságra.
 
 (2) A bányaüzemben megvalósítandó biztonsági és egészségvédelmi követelmények minimális szintjét a Szabályozott Tevékenységek Felügyeleti Hatósága elnökének a bányaüzemekben megvalósítandó biztonsági és egészségvédelmi követelmények minimális szintjéről szóló rendelete állapítja meg.
 

@@ -1,7 +1,3 @@
-## III. Fejezet
-
-## SZÉNHIDROGÉNEK KITERMELÉSE
-
 ## 16. Művelési tervek
 
 39. § (1) A kőolaj- és földgáztelep művelését hidrodinamikai egységenként kidolgozott művelési terv szerint kell végezni.

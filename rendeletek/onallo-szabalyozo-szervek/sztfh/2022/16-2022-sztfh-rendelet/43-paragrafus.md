@@ -1,5 +1,3 @@
-## vezetéséről.
-
 ## 20. Technológiai tartályok
 
 43. § (1) A technológiai tartály helyszíni technológiai szerelését, telepítését, javítását, szivárgásvizsgálatát, időszakos vizsgálatát tartályvizsgáló szakképesítéssel rendelkező szakember, vagy ilyen személyt foglalkoztató gazdálkodó szervezet végezheti.
@@ -20,7 +18,7 @@ c) ötévenként,
 
 d) különleges esetekben – ideértve különösen a meghibásodást, az üzemzavart és a forgalmazott anyag változását –
 
-## elvégezték.
+elvégezték.
 
 (4) A tartály vizsgálatának fajtái a következők:
 
@@ -34,7 +32,7 @@ d) korrózióvédelmi ellenőrzés, valamint
 
 e) vízfeltöltéssel történő tömítettségi ellenőrzés.
 
-(5) Az elvégzendő vizsgálatok időpontjait, azok dokumentálásának módját a felelős műszaki vezető határozza meg a 13. §-ra figyelemmel. A vizsgálatok alapján szükséges intézkedéseket a felelős műszaki vezető hagyja jóvá.
+(5)[^40] Az elvégzendő vizsgálatok időpontjait, azok dokumentálásának módját a bányaüzemi felelős műszaki vezető határozza meg. A vizsgálatok alapján szükséges intézkedéseket a bányaüzemi felelős műszaki vezető hagyja jóvá.
 
 (6) Tartály kőolajjal és kondenzátummal legfeljebb a térfogatának 95%-áig tölthető fel.
 
@@ -51,3 +49,5 @@ b) 2 tartály esetén 90%,
 c) több tartály esetén 75%.
 
 (10) A technológiai tartályt légzőszeleppel vagy légzőnyílással kell ellátni, amelynél a visszalobbanást meg kell akadályozni.
+
+[^40]: A 43. § (5) bekezdése a 18/2023. (VII. 31.) SZTFH rendelet 24. §-ával megállapított szöveg.

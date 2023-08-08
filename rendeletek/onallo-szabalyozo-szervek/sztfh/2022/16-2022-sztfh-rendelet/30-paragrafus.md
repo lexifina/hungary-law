@@ -2,7 +2,7 @@
 
 30. § (1) A kőolaj-, földgáz- vagy hévíztároló réteg átfúrásához használandó lyukelzáró szerkezet horgonyzására biztonsági, a tárolóréteg végleges biztosítására termelési béléscsőoszlopot kell beépíteni.
 
-(2) Ha a biztonsági béléscsőoszlop alatti nyitott lyukszakasz hossza, állékonysága, esetleg a fedőréteg nyomásviszonyai vagy műszaki nehézség indokolja, technikai béléscsőoszlopot kell alkalmazni.
+(2)[^25] Ha a biztonsági béléscsőoszlop alatti nyitott lyukszakasz hossza, állékonysága, a fedőréteg nyomásviszonyai vagy műszaki nehézség indokolja, technikai béléscsőoszlopot kell alkalmazni.
 
 (3) Ismert területen a biztonsági béléscsőoszlop beépítésének mélységét a tényleges földtani és műszaki viszonyokat figyelembe véve úgy kell meghatározni, hogy a beépített béléscsőoszlop biztosítsa a harántolt rétegsor védelmét, valamint a fúrás zavarmentes továbbmélyítését.
 
@@ -29,3 +29,5 @@ b) a cementpalást magassága haladja meg a következő lyukszakasz hosszának 1
 c) ha a béléscsőoszlop kőolajat vagy gázt tartalmazó réteget fed, és a rétegeket cementpalásttal különítik el, a cementpalást legalább 100 m-rel a legfelső tároló réteg fölé érjen.
 
 (7) A fúrólyukat a biztonsági béléscsőoszlop és minden további béléscsőoszlop elhelyezése után lyukfejszerelvénnyel kell biztosítani. A lyukfejszerelvényt úgy kell kiképezni, hogy alkalmas legyen a fúrólyuk elzárására, lefúvatására, feltöltésére, valamint a csőközben fellépő nyomások mérésére és szabályozására.
+
+[^25]: A 30. § (2) bekezdése a 18/2023. (VII. 31.) SZTFH rendelet 27. § 12. pontja szerint módosított szöveg.

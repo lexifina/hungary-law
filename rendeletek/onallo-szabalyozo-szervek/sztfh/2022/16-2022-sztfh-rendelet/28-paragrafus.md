@@ -22,4 +22,6 @@ h) a béléscsőoszlopok beépítési mélységét, azok átmérőjét, falvasta
 
 i) a cementpalástok magasságát, valamint
 
-j) a béléscső zárásvizsgálatok (próbanyomások) tervezett értékét, a leürítési korlátozásokat.
+j)[^24] a béléscső zárásvizsgálatok tervezett értékét, a leürítési korlátozásokat.
+
+[^24]: A 28. § (2) bekezdés j) pontja a 18/2023. (VII. 31.) SZTFH rendelet 27. § 11. pontja szerint módosított szöveg.

@@ -6,7 +6,7 @@
 
 (2) A robbanásveszélyes zóna határát a telephelyen belül táblákkal meg kell jelölni. A robbanásveszélyes zóna a telep kerítésén kívülre nem terjedhet.
 
-(3) A technológiai telephely ipariszennyvíz- és csapadékvíz-csatornáit a vonatkozó jogszabályok szerint kell kialakítani. Ahol a csatorna elvezető képességét légbeszívás vagy gázképződés visszaduzzadással, visszabuborékolással káros mértékben zavarhatja, ott a csatorna és az akna légterét szellőző vezetéken keresztül szellőztetni kell. Az akna szellőző vezetékeinek felső végére lángzárat kell szerelni. A lángzárnak a kezelőszint fölött legalább 2,5 m magasan kell lennie.
+(3)[^39] Ahol a technológiai telephely ipariszennyvíz- és csapadékvíz-csatorna elvezetőképességét légbeszívás vagy gázképződés visszaduzzadással, visszabuborékolással káros mértékben zavarhatja, ott a csatorna és az akna légterét szellőzővezetéken keresztül szellőztetni kell. Az akna szellőzővezetékeinek felső végére, a kezelőszint fölött legalább 2,5 m-re lángzárat kell szerelni.
 
 (4) A technológiai terület 30 m-es körzetén belül a kommunális csatornák aknáit kettős, homokzáras fedéllel kell készíteni.
 
@@ -17,3 +17,7 @@ a) a telephelyi napló,
 b) az ellenőrzési napló, valamint
 
 c) a munkavédelmi és tűzvédelmi oktatási napló
+
+vezetéséről.
+
+[^39]: A 42. § (3) bekezdése a 18/2023. (VII. 31.) SZTFH rendelet 23. §-ával megállapított szöveg.

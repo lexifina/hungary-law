@@ -6,6 +6,8 @@
 
 (3) A fáklya elhelyezését, környezetbe telepítését és méretezését a folyamatos és tartós terhelési állapotban fellépő legnagyobb hőterhelés alapján kell meghatározni, figyelemmel a fáklyázás tervezett üzemvitelére, valamint a fáklya beépítési helyének környezetére.
 
-(4) Az állandóan üzemelő fáklyaberendezést a szükséges biztonsági berendezésekkel el kell látni.
+(4)[^41] Az állandóan üzemelő fáklyaberendezést biztonsági berendezésekkel el kell látni.
 
 (5) Kis mennyiségű lefúvatások gázaira – ideértve különösen a nyomásmérő, mintavevő, műszer ellenőrzésekor felszabaduló gázt, a túlmelegedést vagy meghibásodást jelző biztonsági szelep gázait – nem szükséges lefúvató rendszert létesíteni.
+
+[^41]: A 48. § (4) bekezdése a 18/2023. (VII. 31.) SZTFH rendelet 27. § 17. pontja szerint módosított szöveg.

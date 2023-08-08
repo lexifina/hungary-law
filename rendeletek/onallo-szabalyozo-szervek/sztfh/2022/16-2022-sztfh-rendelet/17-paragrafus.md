@@ -1,1 +1,0 @@
-## 16. § A fáklya biztonsági övezetének nagyságát a hőhatásövezet számítása alapján kell meghatározni úgy, hogy a mélyfúrási és kútmunkálati tevékenység során az övezet legalább 30 m-es sugarú függőleges hengerfelület által határolt térség legyen (a fáklya tengelyétől mérve).

@@ -14,8 +14,10 @@ b) hat óra az engedélyezési nyomás 1,1-szeres értékén.
 
 a) a rendszert folyadékkal való teljes feltöltés után nyomásmentes állapotban legalább 3 órán át pihentetni, majd légteleníteni kell,
 
-b) a légtelenített rendszert az engedélyezési nyomás 1,1-szereséig a Nyomástartó berendezések Műszaki Biztonsági Szabályzata előírásai szerint kell nyomás alá helyezni, nyomáslépcsőnként 30 perces pihentetés biztosításával,
+b)[^44] a légtelenített rendszert az engedélyezési nyomás 1,1-szereséig kell nyomás alá helyezni, nyomáslépcsőnként 30 perces pihentetés biztosításával,
 
 c) az engedélyezési nyomás 1,1-szeresén végzett 30 perces pihentetés után az engedélyezési nyomás 1,25-szörösére a nyomást egy lépcsőben kell felemelni, amelynek elérése egyben a nyomáspróba kezdetét jelenti.
 
 (6) A nyomáspróba akkor eredményes, ha annak során a hegesztési varratokon, oldható kötéseken és a szerkezet felületén rendellenesség nem következik be.
+
+[^44]: Az 53. § (5) bekezdés b) pontja a 18/2023. (VII. 31.) SZTFH rendelet 27. § 18. pontja szerint módosított szöveg.

@@ -28,7 +28,7 @@ a) a folyamatosan üzemelő kutaknál legalább havonta,
 
 b) az időszakosan üzemelő illetve 95% feletti víztartalmú kutaknál legalább hathavonta
 
-## egyszer méréssel kell meghatározni. A mérés időtartamát és módját úgy kell megválasztani, hogy annak alapján a kút napi termelése meghatározható legyen.
+egyszer méréssel kell meghatározni. A mérés időtartamát és módját úgy kell megválasztani, hogy annak alapján a kút napi termelése meghatározható legyen.
 
 (5) A kúton nyomásmérési lehetőséget kell biztosítani a termelőcsövön és a béléscső-közön. A mért adatokat nyilván kell tartani.
 

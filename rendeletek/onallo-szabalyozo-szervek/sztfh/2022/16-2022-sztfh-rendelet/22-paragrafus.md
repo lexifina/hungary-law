@@ -18,10 +18,12 @@ c) a kötél munkaszáma alapján elérte a technológiai utasításban előírt
 
 (7) A gépkulcs ellenkötele teherbírásának meg kell haladnia a húzó kötél húzóerő szabályzóval beállított maximális húzóerő értékét. Ennek hiányában 2 db különböző hosszúságú ellenkötelet kell alkalmazni, amelyeknek külön-külön nagyobb szakító szilárdságúnak kell lennie a húzó kötélnél.
 
-(8) A torony kihorgonyzó köteleinek méretét, teherbírását, elrendezését, az üzem közben megengedett kötélfeszültségeket, a kötélzet és rögzítéseinek ellenőrzési módját, gyakoriságát, lecserélésének feltételeit a gyártó előírásait figyelembe véve az üzemeltetőnek kell meghatároznia.
+(8)[^21] A torony kihorgonyzó köteleinek méretét, teherbírását, elrendezését, az üzem közben megengedett kötélfeszültségeket, a kötélzet és rögzítéseinek ellenőrzési módját, gyakoriságát, lecserélésének feltételeit a gyártó előírásait figyelembe véve az üzemeltető üzemi utasításban határozza meg.
 
 (9) Függesztéknek egyedi azonosítóval ellátott, a karbantartási utasításban előírt rendszerességgel ellenőrzött, megfelelőségi tanúsítvánnyal rendelkező eszköz használható.
 
 (10) Az üzemeltető az emelő- és teherviselő eszközökre ellenőrzési utasítást dolgoz ki, amelyben rögzíti a különböző elemekre vonatkozó ellenőrzési, felülvizsgálati és színkódolási vagy azzal egyenértékű jelölési előírásokat.
 
 (11) A fúróberendezésen lévő összes függesztőelemről – ideértve a félszemet, a megtörőcsigát, a hegesztett és a rögzített fülecset, valamint a kötelet – térképet kell készíteni.
+
+[^21]: A 22. § (8) bekezdése a 18/2023. (VII. 31.) SZTFH rendelet 26. § d) pontja szerint módosított szöveg.

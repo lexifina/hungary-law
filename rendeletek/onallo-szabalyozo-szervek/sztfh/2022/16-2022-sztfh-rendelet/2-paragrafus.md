@@ -20,17 +20,17 @@
 
 9. Fúrólyuk: a földkéregbe mélyített furat, amelynek mélyítése folyamatban van,
 
-10. Kitörés: a kútban vagy a tárolórétegben lévő fluidumnak (közegnek) a kútból való szabályozatlan kiáramlása vagy átáramlása valamely kisebb nyomású mélybeli rétegrészbe (föld alatti kitörés),
+10.[^1] Kitörés: a kútban vagy a tárolórétegben lévő fluidumnak a kútból való szabályozatlan kiáramlása vagy átáramlása valamely kisebb nyomású mélybeli rétegrészbe,
 
 11. Kitörésgátló: a kútfejszerelvényhez vagy a karácsonyfához csatlakozó szerkezet, amely lehetővé teszi a kút lezárását abban az esetben is, ha a kútban fúró-, termelő-, béléscső, kábel vagy dróthuzal van,
 
 12. Kitörésvédelmi mentőcsapat: speciális szervezet, amelynek feladata a kőolaj- vagy földgázkút kitörése során bekövetkezett tűzeset oltási előfeltételeinek megteremtése, az oltás végrehajtása, a kitörés felszámolása, a kút biztonságba helyezése,
 
-13. Kompresszortelep: emberi tartózkodásra alkalmas építmény (zárt helyiség), amelyben legalább két kompresszort helyeztek el,
+13.[^2] Kompresszortelep: emberi tartózkodásra alkalmas építmény, amelyben legalább két kompresszort helyeztek el,
 
 14. Kút: bányászati célt szolgáló létesítmény, amely a föld mélyében rejlő ásványkincsek kutatása, felszínre hozása, kitermelése, megfigyelése vagy a fluidumok rétegben való elhelyezése érdekében létesült, vagy arra lett átképezve,
 
-15. Kút (fúrólyuk) előélete: a kútban (fúrólyukban) az aktuális művelet előtt végzett beavatkozások dokumentumokkal rögzített adatai,
+15.[^3] Kút előélete: a kútban az aktuális művelet előtt végzett beavatkozások dokumentumokkal rögzített adatai,
 
 16. Kútfej: a kiképzett és termelésre alkalmassá tett kútra felszerelt elzáró szerelvények együttese,
 
@@ -38,17 +38,17 @@
 
 18. Lefúvatás: technológiai rendszer vagy csővezeték ellenőrzött nyomásmentesítése,
 
-19. Lefúvás: a biztonsági szelep működése során bekövetkező időszakos, (környezetszennyező) anyagkibocsátás,
+19.[^4]
 
 20. Lefúvató rendszer: a környezeti és munkahelyi levegőt szennyező (egészségkárosító, tűz- és robbanásveszélyes) gázok összegyűjtésére és biztonságos elvezetésére szolgáló berendezés,
 
 21. Létesítmény: termelésre, vagy a termelés kiszolgálására létesített egység, amely a tervezett feladatok ellátására létrehozott kutak, gépek, technológiai eszközök, csővezetékek, épületek összessége,
 
-22. Lubrikátor (tömszelence): tömítéssel és lefúvató-szeleppel ellátott hosszabb csődarab, amely lehetővé teszi a kábellel, dróthuzallal, felcsévélhető termelőcsővel vagy egyéb eszközökkel, szerszámokkal végzett művelet elvégzését nyomás alatt lévő kutak esetében,
+22.[^5] Lubrikátor: tömítéssel és lefúvató-szeleppel ellátott hosszabb csődarab, amely lehetővé teszi a kábellel, dróthuzallal, felcsévélhető termelőcsővel vagy egyéb eszközökkel, szerszámokkal végzett művelet elvégzését nyomás alatt lévő kutak esetében,
 
 23. Lyukfej: a kútra szerelt elzáró szerelvények – ideértve a csőfej-tagokat, kiemelőket, tolózárakat és kitörésgátlókat – együttese,
 
-24. Mezőbeni és mezők közötti vezeték: kőolaj- és földgázbányászati célt szolgáló, termelő, besajtoló vagy gyűjtő vezeték,
+24.[^6] Mezőbeni és mezők közötti csővezeték: kőolaj- és földgázbányászati célt szolgáló, termelő, besajtoló vagy gyűjtő csővezeték,
 
 25. Nyomáspróba: folyadékkal vagy légnemű közeggel végzett vizsgálat, amely az üzemeltetés során nyomás alá kerülő technológiai berendezés megfelelőségének igazolására szolgál, és amelyet az üzemelés során várható legnagyobb nyomás figyelembevételével végeznek el a nyomáspróba-terv szerint,
 
@@ -81,3 +81,10 @@
 39. Villamosbiztonsági felülvizsgálat: a villamos berendezés biztonsági állapotának ellenőrzését célzó első, időszakos vagy szabványossági vizsgálat,
 
 40. Zárásvizsgálat: a fúrólyukba vagy kútba beépített béléscső vagy termelőcső speciális nyomáspróbája.
+
+[^1]: A 2. § 10. pontja a 18/2023. (VII. 31.) SZTFH rendelet 27. § 1. pontja szerint módosított szöveg.
+[^2]: A 2. § 13. pontja a 18/2023. (VII. 31.) SZTFH rendelet 27. § 2. pontja szerint módosított szöveg.
+[^3]: A 2. § 15. pontja a 18/2023. (VII. 31.) SZTFH rendelet 10. §-ával megállapított szöveg.
+[^4]: A 2. § 19. pontját a 18/2023. (VII. 31.) SZTFH rendelet 27. § 3. pontja hatályon kívül helyezte.
+[^5]: A 2. § 22. pontja a 18/2023. (VII. 31.) SZTFH rendelet 27. § 4. pontja szerint módosított szöveg.
+[^6]: A 2. § 24. pontja a 18/2023. (VII. 31.) SZTFH rendelet 26. § a) pontja szerint módosított szöveg.
