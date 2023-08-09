@@ -1,3 +1,3 @@
-## lép.
+7. §[^8]
 
-7. § Hatályát veszti az OBMR rendelet 6. § (10) bekezdése.
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
