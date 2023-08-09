@@ -1,3 +1,3 @@
-19. § Az R2. 31. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
+19. §[^19]
 
-(A kútmunkálati kiviteli terv tartalmazza)
+[^19]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

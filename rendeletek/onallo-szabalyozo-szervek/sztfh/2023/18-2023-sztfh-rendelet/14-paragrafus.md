@@ -1,3 +1,3 @@
-14. § Az R2. 10. § (2) bekezdése helyébe a következő rendelkezés lép:
+14. §[^14]
 
-„(2) A hegesztési munkát és minőségét a kijelölt hegesztési felelős rendszeresen ellenőrzi.”
+[^14]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

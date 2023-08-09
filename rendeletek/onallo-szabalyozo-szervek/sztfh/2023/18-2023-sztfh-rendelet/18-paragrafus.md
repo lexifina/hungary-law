@@ -1,3 +1,3 @@
-18. § Az R2. 20. § (3) bekezdése helyébe a következő rendelkezés lép:
+18. §[^18]
 
-„(3) A fúróárbóc adattábláján fel kell tüntetni a gyártó nevét, a torony típusát és gyári számát, a megengedett maximális korona- és horogterhelést a kötélbefűzések számával, valamint a kihorgonyzás módját.”
+[^18]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

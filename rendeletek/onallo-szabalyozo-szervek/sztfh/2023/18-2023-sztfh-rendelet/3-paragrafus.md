@@ -1,5 +1,3 @@
-3. § Az R1. III. Fejezete a következő 11/A. alcímmel egészül ki:
+3. §[^4]
 
-„11/A. Az üzemeltető felelőssége a fúrási műveletek során
-
-19/A. § Az e fejezetben foglalt feladatok ellátásáért és kötelezettségek teljesítéséért – az e fejezetben foglalt eltérő rendelkezés hiányában – az üzemeltető felel, a fúrási műveletek során az e fejezetben foglaltak betartásával jár el, illetve gondoskodik az e fejezetben foglaltak betartatásáról.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

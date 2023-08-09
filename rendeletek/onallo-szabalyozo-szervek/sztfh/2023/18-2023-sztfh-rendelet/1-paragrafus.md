@@ -1,5 +1,5 @@
 ## 1. A Mélyfúrási Biztonsági Szabályzatról szóló 5/2022. (I. 24.) SZTFH rendelet módosítása
 
-1. § A Mélyfúrási Biztonsági Szabályzatról szóló 5/2022. (I. 24.) SZTFH rendelet (a továbbiakban: R1.) 2. §-a a következő 16a. ponttal egészül ki:
+1. §[^2]
 
-(E Szabályzat alkalmazásában:)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

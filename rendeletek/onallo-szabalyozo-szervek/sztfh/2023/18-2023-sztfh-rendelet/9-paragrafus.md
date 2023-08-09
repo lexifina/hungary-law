@@ -1,5 +1,3 @@
-9. § Hatályát veszti az R1.
+9. §[^9]
 
-a) 20. § (2) bekezdés nyitó szövegrészében a „különösen” szövegrész,
-
-b) 40. § nyitó szövegrészében a „legalább” szövegrész.
+[^9]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,5 @@
 ## 2. A Kőolaj- és Földgázbányászati Biztonsági Szabályzatról szóló 16/2022. (I. 28.) SZTFH rendelet módosítása
 
-10. § A Kőolaj- és Földgázbányászati Biztonsági Szabályzatról szóló 16/2022. (I. 28.) SZTFH rendelet (a továbbiakban: R2.) 2. § 15. pontja helyébe a következő rendelkezés lép:
+10. §[^10]
 
-(E rendelet alkalmazásában)
+[^10]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

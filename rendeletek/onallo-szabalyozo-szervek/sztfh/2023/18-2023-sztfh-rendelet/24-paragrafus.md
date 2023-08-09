@@ -1,3 +1,3 @@
-24. § Az R2. 43. § (5) bekezdése helyébe a következő rendelkezés lép:
+24. §[^24]
 
-„(5) Az elvégzendő vizsgálatok időpontjait, azok dokumentálásának módját a bányaüzemi felelős műszaki vezető határozza meg. A vizsgálatok alapján szükséges intézkedéseket a bányaüzemi felelős műszaki vezető hagyja jóvá.”
+[^24]: A 24. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

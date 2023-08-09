@@ -1,5 +1,3 @@
-## „b) a kút kútszerkezetre, réteghőmérsékletre, rétegnyomásra, várható legnagyobb kútfejnyomásra és előéletére vonatkozó adatait,”
+20. §[^20]
 
-20. § Az R2. 32. § (5) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(A berendezés üzembe helyezése előtt)
+[^20]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

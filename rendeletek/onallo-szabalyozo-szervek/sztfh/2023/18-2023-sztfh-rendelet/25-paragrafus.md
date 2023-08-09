@@ -1,1 +1,3 @@
-25. § Az R2. 1. melléklete az 1. melléklet szerint módosul.
+25. §[^25]
+
+[^25]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

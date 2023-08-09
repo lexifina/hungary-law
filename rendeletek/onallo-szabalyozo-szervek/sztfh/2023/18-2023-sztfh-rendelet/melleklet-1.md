@@ -1,11 +1,3 @@
-1. melléklet a 18/2023. (VII. 31.) SZTFH rendelethez
+1. melléklet a 18/2023. (VII. 31.) SZTFH rendelethez[^28]
 
-Az R2. 1. melléklet 1. sora helyébe a következő rendelkezés lép:
-
-|  | (A | B | C | D) |
-
-„
-
-| 1. |  | Biztonsági tényező |  |
-
-”
+[^28]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
