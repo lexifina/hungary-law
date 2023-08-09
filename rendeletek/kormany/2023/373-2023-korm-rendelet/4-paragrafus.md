@@ -1,7 +1,3 @@
-4. § A Korm. rendelet
+4. §[^5]
 
-a) 2. melléklete az 1. melléklet,
-
-b) 3. melléklete a 2. melléklet
-
-szerint módosul.
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
