@@ -1,5 +1,3 @@
-1. melléklet a 372/2023. (VIII. 7.) Korm. rendelethez
+1. melléklet a 372/2023. (VIII. 7.) Korm. rendelethez[^3]
 
-A központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló 309/2011. (XII. 23.) Korm. rendelet 3. melléklete a következő 125. ponttal egészül ki:
-
-„125. az orosz–ukrán háború elől Magyarországra menekülő személyek tájékoztatását támogató portál”
+[^3]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
