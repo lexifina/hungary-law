@@ -1,3 +1,3 @@
-5. § A Rendelet 16. § (4) bekezdése helyébe a következő rendelkezés lép:
+5. §[^6]
 
-„(4) Az elbontott nyomástartó berendezés adatait az elbontást követően törölni kell a 23. § (1) és (2) bekezdése szerinti nyilvántartásból.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-1. § A bányafelügyelet hatáskörébe tartozó egyes nyomástartó berendezések engedélyezéséről és hatósági felügyeletéről szóló 11/2022. (I. 28.) SZTFH rendelet (a továbbiakban: Rendelet) 3. alcím címe helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„3. A nyomástartó berendezést vizsgáló és felügyelő tevékenység szakmai követelményei”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

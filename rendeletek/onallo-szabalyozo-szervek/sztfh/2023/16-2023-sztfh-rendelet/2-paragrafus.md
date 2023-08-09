@@ -1,3 +1,3 @@
-2. § A Rendelet 8. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép, és a bekezdés a következő e) ponttal egészül ki:
+2. §[^3]
 
-(A bányafelügyelet engedélye nélkül végezhető)
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

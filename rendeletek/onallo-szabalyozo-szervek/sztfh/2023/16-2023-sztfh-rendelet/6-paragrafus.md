@@ -1,3 +1,3 @@
-6. § A Rendelet 23. § (2) bekezdése helyébe a következő rendelkezés lép:
+6. §[^7]
 
-„(2) A bányafelügyelet az üzemeltetők (4) bekezdés szerint rendelkezésére bocsátott nyilvántartásai szerinti adattartalommal országos nyilvántartást vezet.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
