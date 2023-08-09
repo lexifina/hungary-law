@@ -1,3 +1,3 @@
-1. § A díj ellenében végzett közúti árutovábbítási, a saját számlás áruszállítási, valamint az autóbusszal díj ellenében végzett személyszállítási és a saját számlás személyszállítási tevékenységről, továbbá az ezekkel összefüggő jogszabályok módosításáról szóló 261/2011. (XII. 7.) Korm. rendelet (a továbbiakban: R.) 34. § (4) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(4) A gazdálkodó szervezet csak olyan tehergépjárművet bérelhet – ide nem értve a pótkocsit –, melynek magyar vagy másik tagállam által kibocsátott hatósági engedélye és jelzése van. A más tagállam hatósági engedélyével és jelzésével ellátott, bérelt tehergépjármű használatára az adott naptári évben legfeljebb két egymást követő hónapon keresztül, az 1071/2009/EK rendelettel és az 1072/2009/EK rendelettel összhangban kerülhet sor. A bérelt tehergépjárműre kiadott engedélykivonatnak és közösségi engedély hitelesített másolatának időbeli hatálya nem haladhatja meg a tehergépjármű bérletére vonatkozó szerződés időtartamát, de legfeljebb két hónapot.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

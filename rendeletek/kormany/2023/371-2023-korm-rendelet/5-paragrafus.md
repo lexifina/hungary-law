@@ -1,3 +1,3 @@
-5. § Az R. 38. § (2) bekezdése a következő g) ponttal egészül ki:
+5. §[^6]
 
-(Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:)
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
