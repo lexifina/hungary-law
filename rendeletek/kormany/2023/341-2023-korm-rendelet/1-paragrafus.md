@@ -1,0 +1,3 @@
+1. § (1) A Kormány az oktatási és képzési rendszerek színvonalának, befogadókészségének, eredményességének és munkaerőpiaci relevanciájának javítása, a digitális szakadék csökkentése, a digitális készségek, valamint a digitális oktatási ökoszisztéma országosan összehangolt fejlesztése érdekében, a Nemzeti Digitalizációs Stratégia digitális kompetencia pillérében foglalt intézkedések végrehajtására digitális oktatás-innovációs és képzési központot hoz létre.
+
+(2) A Kormány a digitális oktatás-innovációs és képzési központ működtetésére az IKK Innovatív Képzéstámogató Központ Zártkörűen Működő Részvénytársaságot (a továbbiakban: IKK Innovatív Képzéstámogató Központ Zrt.) jelöli ki.
