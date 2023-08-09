@@ -72,7 +72,7 @@ i) a kormányzati feladatellátással kapcsolatos digitális témákban általá
 
 j) a Digitális Jólét Koordinációs Központ útján, közfeladatai körében
 
-ja) ellátja az információs társadalom fejlesztésével, ezen belül kiemelten a digitális készségek fejlesztésével, és az e területen működő programok koordinációjával kapcsolatos feladatokat az iskolarendszeren kívüli képzések és egyéb, a lakosság különböző szegmensei és a vállalkozások digitális kompetenciáinak fejlesztését célzó ismeretátadó foglalkozások vonatkozásában,
+ja)[^23] közreműködik az információs társadalom fejlesztésével, ezen belül kiemelten a digitális készségek fejlesztésével és az e területen működő programok koordinációjával kapcsolatos feladatokban az iskolarendszeren kívüli képzések és egyéb, a lakosság különböző szegmensei és a vállalkozások digitális kompetenciáinak fejlesztését célzó ismeretátadó foglalkozások vonatkozásában a 2014–2020 programozási időszakban, európai uniós támogatásokból megvalósuló projektek esetében,
 
 jb) ellátja a Digitális Jólét Program Hálózat (a továbbiakban: DJP Hálózat) és az annak részét képező Digitális Jólét Program Pontok szakmai koordinálásával kapcsolatos feladatokat,
 
@@ -80,13 +80,13 @@ jc) a DJP Hálózat útján közreműködik a DJP eredményeinek országos szint
 
 jd) felügyeli és koordinálja a Digitális Jólét Program Mentorok munkáját,
 
-je) képzési, valamint az információs társadalom fejlesztésével és a DJP Hálózat szakmai koordinálásával kapcsolatos felnőttképzési tevékenységet végez,
+je)[^24]
 
 jf) részt vesz a GINOP keretében megvalósuló, az „Online kormányzati, közigazgatási és e-egészségügyi szolgáltatások terjedésének és a Digitális Jólét Program kiterjesztésének elősegítése” című kiemelt projekt végrehajtásában,
 
 jg) a Digitális Jólét Program Mentorok közreműködésével ellátja a Kézai Simon Program végrehajtásával kapcsolatos feladatokat.
 
-(3)[^23] A KIFÜ az (1) és (2) bekezdésben meghatározott közfeladatait a támogatási jogszabályoknak megfelelő közszolgáltatási vagy támogatási szerződés keretében látja el.
+(3)[^25] A KIFÜ az (1) és (2) bekezdésben meghatározott közfeladatait a támogatási jogszabályoknak megfelelő közszolgáltatási vagy támogatási szerződés keretében látja el.
 
 [^5]: A 4. § (1) bekezdés nyitó szövegrésze a 104/2023. (III. 30.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^6]: A 4. § (1) bekezdés a) pontja a 27/2020. (II. 28.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
@@ -106,4 +106,6 @@ jg) a Digitális Jólét Program Mentorok közreműködésével ellátja a Kéza
 [^20]: A 4. § (2) bekezdés f) pontját a 242/2023. (VI. 20.) Korm. rendelet 5. §-a hatályon kívül helyezte.
 [^21]: A 4. § (2) bekezdés g) pontját a 242/2023. (VI. 20.) Korm. rendelet 5. §-a hatályon kívül helyezte.
 [^22]: A 4. § (2) bekezdés h) pontját a 242/2023. (VI. 20.) Korm. rendelet 5. §-a hatályon kívül helyezte.
-[^23]: A 4. § (3) bekezdését a 27/2020. (II. 28.) Korm. rendelet 2. § (5) bekezdése iktatta be, szövege a 104/2023. (III. 30.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^23]: A 4. § (2) bekezdés j) pont ja) alpontja a 341/2023. (VII. 25.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^24]: A 4. § (2) bekezdés j) pont je) alpontját a 341/2023. (VII. 25.) Korm. rendelet 4. § (2) bekezdése hatályon kívül helyezte.
+[^25]: A 4. § (3) bekezdését a 27/2020. (II. 28.) Korm. rendelet 2. § (5) bekezdése iktatta be, szövege a 104/2023. (III. 30.) Korm. rendelet 3. §-a szerint módosított szöveg.

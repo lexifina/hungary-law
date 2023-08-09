@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-127-20-
 | 2021-11-06 | 2017-127-20-22.9 | 607/2021. (XI. 5.) Korm. rendelet |
 | 2023-05-01 | 2017-127-20-22.10 | 104/2023. (III. 30.) Korm. rendelet |
 | 2023-06-21 | 2017-127-20-22.11 | 242/2023. (VI. 20.) Korm. rendelet |
+| 2023-08-09 | 2017-127-20-22.12 | 341/2023. (VII. 25.) Korm. rendelet |
