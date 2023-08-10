@@ -1,1 +1,0 @@
-7. § Ez a rendelet a gépjárművezető nélkül bérelt járművek közúti árufuvarozásra történő használatáról szóló 2006/1/EK irányelv módosításáról szóló, 2022. április 6-i (EU) 2022/738 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
