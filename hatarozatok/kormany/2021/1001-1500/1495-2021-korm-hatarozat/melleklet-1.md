@@ -25,4 +25,4 @@
 Magyarország Helyreállítási és Ellenállóképességi Tervéhez kapcsolódó pályázati rendszerben végrehajtandó intézkedési lista
 
 [^1]: Az 5. pont az 1402/2022. (VIII. 16.) Korm. határozat 3. pont 3.1. alpontja szerint módosított szöveg.
-[^2]: Az 1. melléklet az 1074/2023. (III. 10.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: Az 1. melléklet az 1372/2023. (VIII. 10.) Korm. határozat 1. pontjával megállapított szöveg.
