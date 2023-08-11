@@ -20,7 +20,7 @@ b) a fiókgyógyszertárnak nem kell elkülönített gazdasági bejárattal, kia
 
 (7) A fiókgyógyszertárban gyógyszerkészítő tevékenység csak akkor végezhető, ha a fiókgyógyszertár megfelel az 5. §-ban, valamint a 8–11. §-ban meghatározott tárgyi feltételeknek. Mozgó fiókgyógyszertárban gyógyszerkészítő tevékenység nem végezhető.
 
-(8)[^41] A mozgó fiókgyógyszertár működési engedélyében rögzíteni kell a gépjármű forgalmi rendszámát, használatának jogcímét, továbbá meg kell határozni a település(ek)en belül kijelölt elérhetőségi pontot, ahol legalább harminc perc időtartamig köteles tartózkodni. A működési engedélyben az OGYÉI megjelöli az ellátható települések körét.
+(8)[^41] A mozgó fiókgyógyszertár működési engedélyében rögzíteni kell a gépjármű forgalmi rendszámát, használatának jogcímét, továbbá meg kell határozni a település(ek)en belül kijelölt elérhetőségi pontot, ahol legalább harminc perc időtartamig köteles tartózkodni. A működési engedélyben az NNGYK megjelöli az ellátható települések körét.
 
 (9) A mozgó fiókgyógyszertár nyitvatartási idejét az ellátandó települések orvosi rendelésének figyelembevételével kell meghatározni. A mozgó fiókgyógyszertár működési engedélyben foglalt szolgálati rendjét a közforgalmú gyógyszertár működtetője az ellátott település(ek)en a helyben szokásos módon, lehetőség szerint az orvosi rendelő épületében (épületén) és/vagy a település önkormányzatának épületében (épületén) közzéteszi.
 
@@ -31,4 +31,4 @@ b) a fiókgyógyszertárnak nem kell elkülönített gazdasági bejárattal, kia
 [^38]: A 12. § a 31/2010. (XII. 30.) NEFMI rendelet 7. §-ával megállapított szöveg.
 [^39]: A 12. § (3) bekezdése a 7/2016. (III. 30.) EMMI rendelet 19. §-ával megállapított szöveg.
 [^40]: A 12. § (3a) bekezdését a 3/2015. (I. 14.) EMMI rendelet 17. §-a iktatta be.
-[^41]: A 12. § (8) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 92. § b) pontja szerint módosított szöveg.
+[^41]: A 12. § (8) bekezdése a 28/2023. (VIII. 10.) BM rendelet 43. § b) pontja szerint módosított szöveg.

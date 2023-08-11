@@ -1,4 +1,4 @@
-19. §[^75] (1) A gyógyszerek interneten történő rendeléséhez szükséges honlapot működtető gyógyszertár gondoskodik arról, hogy a honlapon történő megkeresés feldolgozásra kerüljön, és a megrendelő érdemi visszajelzést kapjon. Ezenfelül olyan nyilvántartási rendszert köteles vezetni, amely utólag módosíthatatlan formában tartalmazza
+19. §[^77] (1) A gyógyszerek interneten történő rendeléséhez szükséges honlapot működtető gyógyszertár gondoskodik arról, hogy a honlapon történő megkeresés feldolgozásra kerüljön, és a megrendelő érdemi visszajelzést kapjon. Ezenfelül olyan nyilvántartási rendszert köteles vezetni, amely utólag módosíthatatlan formában tartalmazza
 
 a) a megrendelés sorszámát, időpontját;
 
@@ -34,4 +34,4 @@ e) a házhoz szállított gyógyszer átadásának időpontját.
 
 (4) A házhoz szállítás a gyógyszer sértetlen, forgalomba hozatali engedélyében jóváhagyott csomagolásában történik. Ha a készítmény bontható, az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló 44/2004. (IV. 28.) ESZCSM rendelet 21. §-ában foglalt szakmai szabályok szerinti csomagolásban történik a házhoz szállítás.
 
-[^75]: A 19. § a 38/2022. (XI. 10.) BM rendelet 6. §-ával megállapított szöveg.
+[^77]: A 19. § a 38/2022. (XI. 10.) BM rendelet 6. §-ával megállapított szöveg.

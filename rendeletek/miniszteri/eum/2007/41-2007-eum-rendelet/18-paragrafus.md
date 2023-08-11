@@ -1,4 +1,4 @@
-18. §[^74] (1) A közforgalmú gyógyszertárakban a személyi jogos gyógyszerész által hitelesített papíralapú, vagy az a)–h), valamint a j) és k) pontok esetén elektronikusan vezetett
+18. §[^75] (1) A közforgalmú gyógyszertárakban a személyi jogos gyógyszerész által hitelesített papíralapú, vagy az a)–h), valamint a j) és k) pontok esetén elektronikusan vezetett
 
 a) „Vizsgálati napló”,
 
@@ -110,7 +110,7 @@ b) a vizsgálat megnevezését, idejét, eredményét, valamint
 
 c) a vizsgáló gyógyszerész aláírását vagy elektronikus azonosítóját.
 
-(11) A forgalmazás megszüntetéséről, felfüggesztéséről szóló nyilvántartás az OGYÉI honlapján közzétett döntések végrehajtásának dokumentumait foglalja magában, mely tartalmazza
+(11)[^76] A forgalmazás megszüntetéséről, felfüggesztéséről szóló nyilvántartás az NNGYK honlapján közzétett döntések végrehajtásának dokumentumait foglalja magában, mely tartalmazza
 
 a) a forgalomból való kivonás napját,
 
@@ -152,4 +152,5 @@ e) az ellenőrzést végző aláírását vagy elektronikus azonosítóját.
 
 (18) A fiókgyógyszertárban az ott folytatott tevékenységnek megfelelő nyilvántartást kell vezetni.
 
-[^74]: A 18. § a 38/2022. (XI. 10.) BM rendelet 5. §-ával megállapított szöveg.
+[^75]: A 18. § a 38/2022. (XI. 10.) BM rendelet 5. §-ával megállapított szöveg.
+[^76]: A 18. § (11) bekezdés nyitó szövegrésze a 28/2023. (VIII. 10.) BM rendelet 43. § b) pontja szerint módosított szöveg.

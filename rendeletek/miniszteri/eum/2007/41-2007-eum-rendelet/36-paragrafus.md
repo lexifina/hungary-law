@@ -4,11 +4,11 @@
 
 (2) Fekvőbeteg-gyógyintézet – a (3) bekezdésben foglalt kivétellel – az intézeti gyógyszertárral megegyező telephelyen végezhet közvetlen lakossági gyógyszerellátást.
 
-(3)[^116] Ha a fekvőbeteg-gyógyintézetnek több bejegyzett telephelye is van – az intézeti gyógyszertár telephelyén kívül – a többi telephelyen közvetlen lakossági gyógyszerellátást a 25. § (1a) bekezdése, valamint a (4) bekezdés szerinti feltételek biztosítása mellett végezhet. Ez esetben az ellátó gyógyszertár a fekvőbeteg- gyógyintézet intézeti gyógyszertára.
+(3)[^118] Ha a fekvőbeteg-gyógyintézetnek több bejegyzett telephelye is van – az intézeti gyógyszertár telephelyén kívül – a többi telephelyen közvetlen lakossági gyógyszerellátást a 25. § (1a) bekezdése, valamint a (4) bekezdés szerinti feltételek biztosítása mellett végezhet. Ez esetben az ellátó gyógyszertár a fekvőbeteg- gyógyintézet intézeti gyógyszertára.
 
-(3a)[^117] A fekvőbeteg-gyógyintézet valamennyi telephelyén telephelyenként egy közvetlen lakossági gyógyszerellátást végző egység működtethető.
+(3a)[^119] A fekvőbeteg-gyógyintézet valamennyi telephelyén telephelyenként egy közvetlen lakossági gyógyszerellátást végző egység működtethető.
 
-(4)[^118] A 25. § (1a) bekezdésében foglalt feltételek mellett a telephelyen végzett közvetlen lakossági gyógyszerellátás akkor folytatható, ha a telephelyen működő
+(4)[^120] A 25. § (1a) bekezdésében foglalt feltételek mellett a telephelyen végzett közvetlen lakossági gyógyszerellátás akkor folytatható, ha a telephelyen működő
 
 a) fekvőbeteg-gyógyintézetben legalább háromszáz ágy,
 
@@ -16,12 +16,12 @@ b) rendelőintézeti járóbeteg-szakellátást nyújtó szolgáltatónál legal
 
 ## biztosítva van.
 
-(5)[^119] A közvetlen lakossági gyógyszerellátási tevékenység helyén biztosítani kell a Gyftv. 55. § (2) bekezdése szerinti tájékoztatáshoz szükséges rendszert, valamint a közgyógyellátási jogosultság ellenőrzéséhez szükséges technikai kapcsolatot.
+(5)[^121] A közvetlen lakossági gyógyszerellátási tevékenység helyén biztosítani kell a Gyftv. 55. § (2) bekezdése szerinti tájékoztatáshoz szükséges rendszert, valamint a közgyógyellátási jogosultság ellenőrzéséhez szükséges technikai kapcsolatot.
 
-(6)[^120] A Kormány által Magyarország egész területére kihirdetett veszélyhelyzet időtartama alatt a (3a) és a (4) bekezdést nem kell alkalmazni.
+(6)[^122] A Kormány által Magyarország egész területére kihirdetett veszélyhelyzet időtartama alatt a (3a) és a (4) bekezdést nem kell alkalmazni.
 
-[^116]: A 36. § (3) bekezdése a 7/2016. (III. 30.) EMMI rendelet 26. § f) pontja szerint módosított szöveg.
-[^117]: A 36. § (3a) bekezdését a 7/2016. (III. 30.) EMMI rendelet 23. §-a iktatta be.
-[^118]: A 36. § (4) bekezdés nyitó szövegrésze a 7/2016. (III. 30.) EMMI rendelet 26. § g) pontja szerint módosított szöveg.
-[^119]: A 36. § (5) bekezdését az 56/2009. (XII. 30.) EüM rendelet 20. §-a iktatta be.
-[^120]: A 36. § (6) bekezdését a 29/2021. (VII. 6.) EMMI rendelet 16. §-a iktatta be.
+[^118]: A 36. § (3) bekezdése a 7/2016. (III. 30.) EMMI rendelet 26. § f) pontja szerint módosított szöveg.
+[^119]: A 36. § (3a) bekezdését a 7/2016. (III. 30.) EMMI rendelet 23. §-a iktatta be.
+[^120]: A 36. § (4) bekezdés nyitó szövegrésze a 7/2016. (III. 30.) EMMI rendelet 26. § g) pontja szerint módosított szöveg.
+[^121]: A 36. § (5) bekezdését az 56/2009. (XII. 30.) EüM rendelet 20. §-a iktatta be.
+[^122]: A 36. § (6) bekezdését a 29/2021. (VII. 6.) EMMI rendelet 16. §-a iktatta be.
