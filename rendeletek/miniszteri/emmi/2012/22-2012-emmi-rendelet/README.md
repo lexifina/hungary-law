@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-22-20-5
 | 2022-04-30 | 2012-22-20-5H.19 | 15/2022. (IV. 29.) EMMI rendelet |
 | 2022-09-01 | 2012-22-20-5H.20 | 28/2022. (VIII. 25.) BM rendelet |
 | 2023-01-01 | 2012-22-20-5H.22 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2023-08-11 | 2012-22-20-5H.23 | 28/2023. (VIII. 10.) BM rendelet |
