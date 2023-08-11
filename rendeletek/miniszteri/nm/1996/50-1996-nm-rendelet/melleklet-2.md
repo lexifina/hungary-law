@@ -1,4 +1,4 @@
-## 2X03224M_0
+## 3X06645M.docx
 
 | I. | Kábítószerekkel és pszichotróp anyagokkal, illetve új pszichoaktív anyagokkal kapcsolatos igazgatási szolgáltatások |  |
 
@@ -48,7 +48,7 @@
 
 | II.11. | Orvostechnikai eszköz klinikai vizsgálatának és in vitro diagnosztikai orvostechnikai eszköz teljesítőképesség-vizsgálatának – ide nem értve az egészségügyről szóló 1997. évi CLIV. törvény 160/A. § (10) bekezdése szerinti teljesítőképesség-vizsgálatokat – engedélyezése, a vizsgálati terv jelentős módosításának engedélyezése | 180 000 Ft/kérelem |
 
-| II.11a. | Ionizáló sugárzást alkalmazó orvostechnikai eszköz klinikai vizsgálatának engedélyezése, a vizsgálati terv jelentős módosításának engedélyezése | 294 700 Ft/kérelem (ebből a sugár- egészségügyi szakkérdésekben eljáró szakhatóság eljárásának díja: 114 700 Ft) |
+| II.11a. | Ionizáló sugárzást alkalmazó orvostechnikai eszköz klinikai vizsgálatának engedélyezése, a vizsgálati terv jelentős módosításának engedélyezése | 294 700 Ft/kérelem |
 
 | II.12. | A 4/2009. EüM rendelet 17. § (3) és (5) bekezdése szerinti bejelentés, valamint a 8/2003. ESzCsM rendelet 7/A. § (2) bekezdése és 16. § (1g) bekezdése szerinti bejelentés. | 66 000 Ft/kérelem |
 
