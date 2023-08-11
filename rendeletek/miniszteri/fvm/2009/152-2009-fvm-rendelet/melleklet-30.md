@@ -1,6 +1,6 @@
-30. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^74]
+30. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^80]
 
-## A Magyar Élelmiszerkönyv 3-1/15-1 számú előírása az etilalkohol–víz elegyek alkoholtartalmának meghatározásához szükséges táblázatról[^1.]
+A Magyar Élelmiszerkönyv 3-1/15-1 számú előírása az etilalkohol–víz elegyek alkoholtartalmának meghatározásához szükséges táblázatról[^1.]
 
 Az etilalkohol–víz elegyek térfogatszázalékban és tömegszázalékban kifejezett alkoholtartalmát a következők szerint kell meghatározni.
 
@@ -41,22 +41,6 @@ A „t” (°C) hőmérsékletű etilalkohol–víz elegy ρ (kg/m3) sűrűsége
 –  az alább megadott állandók függvényében a következő képlettel határozható meg.
 
 A képlet a – 20 ... + 40 °C hőmérséklettartományban érvényes.
-
-ahol:
-
-n =  5;
-
-m1 = 11;
-
-m2 = 10;
-
-m3 =  9;
-
-m4 =  4;
-
-m5 =  2.
-
-A képletben alkalmazott állandók:
 
 |  |  |  | Ak |  |  |  |  |  |  |  | Bk |  |
 
@@ -142,5 +126,5 @@ A képletben alkalmazott állandók:
 
 | 2 |  | 1,345 | 612 | 883 | 493 | 354 · 10–8 |  |  |  |  |  |  |  |  |
 
-[^74]: A 30. mellékletet a 26/2011. (IV. 7.) VM rendelet 4. § (1) bekezdése iktatta be, szövege a 64/2015. (X. 16.) FM rendelet 2. §-a szerint módosított szöveg.
+[^80]: A 30. mellékletet a 26/2011. (IV. 7.) VM rendelet 4. § (1) bekezdése iktatta be, szövege a 64/2015. (X. 16.) FM rendelet 2. §-a szerint módosított szöveg.
 [^1.]: Az előírás számának megváltoztatása a 76/766/EGK irányelv hatályon kívül helyezése miatt szükséges.

@@ -1,6 +1,6 @@
-20. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^64]
+20. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^70]
 
-## A Magyar Élelmiszerkönyv 1-3-2001/111számú előírása az emberi fogyasztásra szánt egyes cukortermékekről
+A Magyar Élelmiszerkönyv 1-3-2001/111számú előírása az emberi fogyasztásra szánt egyes cukortermékekről
 
 ## A Magyar Élelmiszerkönyv 1-3-2001/111számú előírása az emberi fogyasztásra szánt egyes cukortermékekről
 
@@ -32,6 +32,8 @@ I. Termékmegnevezések és -meghatározások
 
 1. Félfehér kristálycukor (félfehér cukor)[^(1)]
 
+## 0M12764_0
+
 | Tisztított és kristályosított szacharóz, egynemű, szemcsés, az alábbi jellemzőkkel: |
 
 | a) polarizáció: | legalább | 99,5 oZ(2) |
@@ -40,7 +42,7 @@ I. Termékmegnevezések és -meghatározások
 
 | c) szárítási tömegveszteség: | legfeljebb | 0,1 tömegszázalék |
 
-(2) Z: A Nemzetközi Cukorskála egysége. 100 °Z egyenlő 26,000 g levegőben mért tömegű tiszta szacharóz desztillált vízzel 20 °C-on 100,00 cm3-re feltöltött oldatának optikai forgatásával.
+## (2) Z: A Nemzetközi Cukorskála egysége. 100 °Z egyenlő 26,000 g levegőben mért tömegű tiszta szacharóz desztillált vízzel 20 °C-on 100,00 cm3-re feltöltött oldatának optikai forgatásával.
 
 2. Kristálycukor (cukor vagy fehércukor)(1)
 
@@ -170,9 +172,9 @@ I. Termékmegnevezések és -meghatározások
 
 |  |  | szerint meghatározva |
 
-II. A szilárdszín, hamu, oldatban mért szín értékpontjainak meghatározása
+## II. A szilárdszín, hamu, oldatban mért szín értékpontjainak meghatározása
 
-Egy értékpont megfelel:
+## Egy értékpont megfelel:
 
 a) szilárdszín esetén 0,5 etalonegységnek, az intervenciós hivatalok által felvásárolt cukor minőségének meghatározására szolgáló módszerek megállapításáról szóló, 1969. július 1-jei 1265/69/EGK bizottsági rendelet (a továbbiakban: 1265/69/EGK rendelet) melléklete A. fejezetének, 2. pontja szerint meghatározva;
 
@@ -180,7 +182,7 @@ b) hamu esetében 0,0018%-nak, az 1265/69/EGK rendelet melléklete A. fejezetén
 
 c) oldatban mért szín esetén 7,5 ICUMSA-egységnek, az 1265/69/EGK rendelet melléklete A. fejezetének 3. pontja szerint meghatározva.
 
-[^64]: A 20. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be.
+[^70]: A 20. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be.
 [^(1)]: A termék csomagolásán a zárójelben lévő megnevezést nem kell feltüntetni.
 [^(3)]: A „fehér” jelző használható az olyan cukoroldat megnevezésében, amelynek a színe nem haladja meg a 25 ICUMSA egységet a B. rész (c) pontja szerint meghatározva
 [^(4)]: A „fehér” jelző használható olyan invertcukor-oldat és invertcukor-szirup megnevezésében, amelynek: – a vezetőképesség-méréssel meghatározott hamuja nem haladja meg a 0,1%-ot, – oldatban mért színe nem haladja meg a 25 ICUMSA egységet, a B rész c) pontja szerinti módszerrel meghatározva.

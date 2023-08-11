@@ -1,3 +1,3 @@
-6. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^50]
+6. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^56]
 
-[^50]: A 6. mellékletet a 151/2012. (XII. 29.) VM rendelet 66. § c) pontja hatályon kívül helyezte.
+[^56]: A 6. mellékletet a 151/2012. (XII. 29.) VM rendelet 66. § c) pontja hatályon kívül helyezte.

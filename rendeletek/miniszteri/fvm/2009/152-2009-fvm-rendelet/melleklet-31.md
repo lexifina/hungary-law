@@ -1,4 +1,20 @@
-31. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^75]
+## ahol:
+
+## n =  5;
+
+## m1 = 11;
+
+## m2 = 10;
+
+## m3 =  9;
+
+## m4 =  4;
+
+## m5 =  2.
+
+## A képletben alkalmazott állandók:
+
+31. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^81]
 
 A Magyar Élelmiszerkönyv 3-1-79/796 számú előírása a cukortermékek vizsgálati módszereiről
 
@@ -182,13 +198,15 @@ Az 5.3–5.7. pontban leírt műveleteket a mintát tartalmazó edények megnyit
 
 A szárítási tömegveszteséget – a minta tömegszázalékában – következő képlettel számítjuk ki:
 
+1M10136_0
+
 |  | Tömegveszteség % = |  |
 
 ahol:
 
-m0 = a vizsgált minta szárítás előtti tömege, g-ban
+m0= a vizsgált minta szárítás előtti tömege, g-ban
 
-m1 = a vizsgált minta szárítás utáni tömege, g-ban
+m1= a vizsgált minta szárítás utáni tömege, g-ban
 
 7. Ismételhetőség
 
@@ -264,6 +282,8 @@ A szárítószekrény olyan felépítésű legyen, hogy a hő gyorsan átjárja 
 
 A szárazanyagtartalmat – a minta tömegszázalékában – a következő képlettel számítjuk ki:
 
+1M10136_1
+
 |  | Szárazanyagtartalom % = |  |
 
 ahol
@@ -326,4 +346,4 @@ Ugyanabból a mintából, azonos vizsgáló által, azonos körülmények közö
 
 Törésmutató-cukortartalom táblázat 20 °C-on
 
-[^75]: A 31. mellékletet a 26/2011. (IV. 7.) VM rendelet 4. § (1) bekezdése iktatta be.
+[^81]: A 31. mellékletet a 26/2011. (IV. 7.) VM rendelet 4. § (1) bekezdése iktatta be.

@@ -45,3 +45,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-152-20-
 | 2019-04-10 | 2009-152-20-82.38 | 48/2016. (VII. 18.) FM rendelet |
 | 2020-03-28 | 2009-152-20-82.39 | 8/2020. (III. 25.) AM rendelet |
 | 2021-10-02 | 2009-152-20-82.40 | 33/2021. (IX. 29.) AM rendelet |
+| 2023-08-11 | 2009-152-20-82.41 | 44/2023. (VII. 27.) AM rendelet |

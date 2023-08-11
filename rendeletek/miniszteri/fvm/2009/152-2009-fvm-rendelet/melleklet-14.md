@@ -820,6 +820,8 @@
 
 ## 7.3.1. Fizikai és kémiai követelmények
 
+## 1X08263_17
+
 |  | A | B | C |
 
 | 1. | Zsírfokozat | Zsírtartalom a sajt-szárazanyagban, % (m/m) | Szárazanyag-tartalom, legalább, % (m/m) |
@@ -942,9 +944,9 @@
 
 | 32. | MSZ ISO 22935-3 Tej és tejtermékek. Érzékszervi vizsgálat. 3. rész: Útmutató a termékleírásban szereplő érzékszervi tulajdonságoknak való megfelelés pontozásos értékelési módszerére |
 
-14. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^58]
+14. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^64]
 
-## A Magyar Élelmiszerkönyv 1-2-2009/32 számú előírása az élelmiszerek előállítása során felhasználható extrakciós oldószerekről
+A Magyar Élelmiszerkönyv 1-2-2009/32 számú előírása az élelmiszerek előállítása során felhasználható extrakciós oldószerekről
 
 A Magyar Élelmiszerkönyv 1-2-2009/32 számú előírása az élelmiszerek előállítása során felhasználható extrakciós oldószerekről
 
@@ -1048,14 +1050,14 @@ II. Olyan extrakciós oldószerek, amelyekre felhasználási feltételeket hatá
 
 ## (2) Az n-hexán mennyisége ebben az oldószerben nem haladhatja meg az 50 mg/kg-ot. Az etil-metil-keton és a hexán együttes használata tilos.
 
-## (3) A zselatin természetes és oldható – zselésítő vagy nem zselésítő – fehérje, amelyet az állatok csontjaiból, nyersbőréből és irhájából, inaiból és
+## (3)A zselatin természetes és oldható – zselésítő vagy nem zselésítő – fehérje, amelyet az állatok csontjaiból, nyersbőréből és irhájából, inaiból és
 
 ## ínhüvelyeiből származó kollagén részleges hidrolízisével nyernek a 853/2004/EK rendelet vonatkozó előírásaival összhangban.
 
-## (4) A kollagén állati csontokból, nyersbőrből, irhából és inakból származó fehérjealapú termék, amelyet a 853/2004/EK rendelet vonatkozó előírásaival
+## (4)A kollagén állati csontokból, nyersbőrből, irhából és inakból származó fehérjealapú termék, amelyet a 853/2004/EK rendelet vonatkozó előírásaival
 
 ## összhangban állítanak elő.
 
 III. Olyan extrakciós oldószerek, amelyekre felhasználási feltételeket határoztak meg
 
-[^58]: A 14. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be, szövege a 77/2011. (VIII. 3.) VM rendelet 2. § (4) bekezdése, a 6/2018. (III. 14.) FM rendelet 1. §-a szerint módosított szöveg.
+[^64]: A 14. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be, szövege a 77/2011. (VIII. 3.) VM rendelet 2. § (4) bekezdése, a 6/2018. (III. 14.) FM rendelet 1. §-a szerint módosított szöveg.

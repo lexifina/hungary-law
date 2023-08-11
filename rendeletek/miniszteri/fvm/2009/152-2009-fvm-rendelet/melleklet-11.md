@@ -4,7 +4,11 @@
 
 ## A rész
 
-## I. Ez az előírás a B részben meghatározott termékekre vonatkozik. Ezeknek a termékeknek meg kell felelniük a C rész követelményeinek.
+## I.
+
+## 1. Ez az előírás a B részben meghatározott termékekre vonatkozik, amelyeknek meg kell felelniük a C rész követelményeinek.
+
+## 2. Az ebben az előírásban meghatározott technikai jellegű előírásoknak nem kell megfelelniük azon termékeknek, amelyeket az Európai Unió valamely tagállamában vagy Törökországban állítottak elő, illetve hoztak forgalomba, vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely EFTA-államban állítottak elő, az ott irányadó előírásoknak megfelelően, feltéve, hogy az irányadó előírások a fogyasztók védelme vonatkozásában az ezen előírásban meghatározottal egyenértékű védelmet nyújtanak.
 
 ## II. Az élelmiszerek jelölésére vonatkozó általános előírásokon túlmenően a B részben meghatározott termékekre az alábbi követelményeket kell alkalmazni:
 
@@ -26,13 +30,7 @@
 
 ## 3. Sütő-főző méz felhasználásával készült élelmiszerek megnevezésében a „méz” kifejezés alkalmazása megengedett, de az összetevők felsorolásakor a „sütő-főző méz” kifejezést kell használni.
 
-## 4. A címkén fel kell tüntetni a méz eredetét, a származási ország(ok) nevének megjelölésével. Különböző országokból származó mézek keverésekor a felsorolás a következőkkel helyettesíthető:
-
-## 4.1. EU-országokból származó mézkeverék,
-
-## 4.2. EU-n kívüli országokból származó mézkeverék,
-
-## 4.3. EU-országokból és EU-n kívüli országokból származó mézkeverék.
+## 4. A címkén fel kell tüntetni azon származási országot vagy országokat, ahol a mézet begyűjtötték. Különböző országokból származó mézek keverésekor a felhasznált mézek tömege szerinti csökkenő sorrendben kell feltüntetni a származási országokat a „mézkeverék” kifejezéssel együtt. Például: „Magyarországról és Kínából származó mézkeverék”.
 
 ## 5. A virágpor, mint a méz természetes alkotóeleme, az ezen előírás B részében meghatározott termékek esetében nem tekinthető a fogyasztók élelmiszerekkel kapcsolatos tájékoztatásáról, az 1924/2006/EK és az 1925/2006/EK európai parlamenti és tanácsi rendelet módosításáról és a 87/250/EGK bizottsági irányelv, a 90/496/EGK tanácsi irányelv, az 1999/10/EK bizottsági irányelv, a 2000/13/EK európai parlamenti és tanácsi irányelv, a 2002/67/EK és a 2008/5/EK bizottsági irányelv és a 608/2004/EK bizottsági rendelet hatályon kívül helyezéséről szóló, 2011. október 25-i 1169/2011/EU európai parlamenti és tanácsi rendelet 2. cikk (2) bekezdés f) pontja szerinti összetevőnek.
 
@@ -150,6 +148,6 @@
 
 | igazoltan trópusi eredetű mézek és trópusi mézet tartalmazó keverékek esetén, a keverés arányában | legfeljebb 80 mg/kg |
 
-11. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^55]
+11. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^61]
 
-[^55]: A 11. melléklet az 50/2013. (VI. 17.) VM rendelet 2. §-ával megállapított, a 28/2015. (V. 28.) FM rendelet 4. §-a szerint módosított szöveg.
+[^61]: A 11. melléklet az 50/2013. (VI. 17.) VM rendelet 2. §-ával megállapított, a 28/2015. (V. 28.) FM rendelet 4. §-a szerint módosított szöveg.

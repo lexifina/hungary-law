@@ -1,4 +1,4 @@
-## 3. §[^42] Ez a rendelet
+## 3. §[^44] Ez a rendelet
 
 1. a vinilklorid monomert tartalmazó és élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő anyagokra és tárgyakra vonatkozó tagállami jogszabályok közelítéséről szóló, 1978. január 30-i 78/142/EGK tanácsi irányelvnek;
 
@@ -40,4 +40,4 @@
 
 20. az emberi fogyasztásra szánt kazeinekre és kazeinátokra vonatkozó tagállami jogszabályok közelítéséről és a 83/417/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2015. november 25-i (EU) 2015/2203 európai parlamenti és tanácsi irányelvnek
 
-[^42]: A 3. § a 33/2021. (IX. 29.) AM rendelet 2. §-ával megállapított szöveg.
+[^44]: A 3. § a 33/2021. (IX. 29.) AM rendelet 2. §-ával megállapított szöveg.

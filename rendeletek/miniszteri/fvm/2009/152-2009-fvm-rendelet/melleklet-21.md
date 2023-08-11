@@ -1,6 +1,6 @@
-21. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^65]
+21. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^71]
 
-## A Magyar Élelmiszerkönyv 1-3-2001/113 számú előírása az emberi fogyasztásra szánt gyümölcsdzsem, zselé, marmelád és cukrozott gesztenyekrém termékekről
+A Magyar Élelmiszerkönyv 1-3-2001/113 számú előírása az emberi fogyasztásra szánt gyümölcsdzsem, zselé, marmelád és cukrozott gesztenyekrém termékekről
 
 ## A Magyar Élelmiszerkönyv 1-3-2001/113 számú előírása az emberi fogyasztásra szánt gyümölcsdzsem, zselé, marmelád és cukrozott gesztenyekrém termékekről
 
@@ -162,4 +162,4 @@ II. A nyersanyagok kezelése
 
 3. A citrushéj sós lében is tartósítható.
 
-[^65]: A 21. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be.
+[^71]: A 21. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be.

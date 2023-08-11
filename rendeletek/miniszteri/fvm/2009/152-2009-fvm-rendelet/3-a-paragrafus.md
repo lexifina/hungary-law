@@ -1,6 +1,6 @@
 ## való megfelelést szolgálja.
 
-## 3/A. §[^43] Ez a rendelet
+## 3/A. §[^45] Ez a rendelet
 
 a) az élelmiszerenzimekről, valamint a 83/417/EGK tanácsi irányelv, az 1493/1999/EK tanácsi rendelet, a 2000/13/EK irányelv, a 2001/112/EK tanácsi irányelv és a 258/97/EK rendelet módosításáról szóló, 2008. december 16-i 1332/2008/EK európai parlamenti és tanácsi rendelet;
 
@@ -14,4 +14,6 @@ e) a fogyasztók élelmiszerekkel kapcsolatos tájékoztatásáról, az 1924/200
 
 f) a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-i 1379/2013/EU európai parlamenti és tanácsi rendelet 37. cikke
 
-[^43]: A 3/A. §-t a 10/2014. (IX. 18.) FM rendelet 3. § (1) bekezdése iktatta be, szövege a 33/2021. (IX. 29.) AM rendelet 2. §-ával megállapított szöveg.
+végrehajtásához szükséges rendelkezéseket állapít meg.
+
+[^45]: A 3/A. §-t a 10/2014. (IX. 18.) FM rendelet 3. § (1) bekezdése iktatta be, szövege a 33/2021. (IX. 29.) AM rendelet 2. §-ával megállapított szöveg.

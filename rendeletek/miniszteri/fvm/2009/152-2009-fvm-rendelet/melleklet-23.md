@@ -1,6 +1,6 @@
-23. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^67]
+23. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^73]
 
-## A Magyar Élelmiszerkönyv 1–2–78/142 számú előírása az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő vinil-klorid monomert tartalmazó anyagokkal és tárgyakkal szemben támasztott minőségi követelményekről
+A Magyar Élelmiszerkönyv 1–2–78/142 számú előírása az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő vinil-klorid monomert tartalmazó anyagokkal és tárgyakkal szemben támasztott minőségi követelményekről
 
 1. Ez az előírás a vinil-klorid polimerekből vagy kopolimerekből előállított, élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő anyagokban vagy tárgyakban (a továbbiakban: anyagok és tárgyak) esetleg jelenlévő vinil-klorid monomerre, továbbá ezek esetleges vinil-klorid monomer leadására vonatkozik.
 
@@ -20,4 +20,4 @@
 
 6.3. Az anyagokból és tárgyakból az élelmiszerbe kioldódott vinil-kloridot alapvetően az élelmiszerekből határozzák meg. Ha a meghatározás bizonyos élelmiszereknél technikai okok miatt lehetetlennek bizonyul, akkor a modell-oldatos meghatározások használhatók.
 
-[^67]: A 23. mellékletet a 65/2010. (V. 12.) FVM rendelet 3. § (1) bekezdése iktatta be.
+[^73]: A 23. mellékletet a 65/2010. (V. 12.) FVM rendelet 3. § (1) bekezdése iktatta be.
