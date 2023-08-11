@@ -60,9 +60,9 @@ II.
 
 Az I., illetve a III. pontban nem említett szűrővizsgálatok, valamint az anonim szűrővizsgálatok, továbbá az önkéntes, nem anonim módon elvégzett szűrővizsgálatok elvégzésére jogosult laboratóriumok:
 
-a)[^23] az NNK virológiai laboratóriuma,
+a)[^23] az NNGYK virológiai laboratóriuma,
 
-b)[^24] az NNK HIV nemzeti referencia-laboratóriuma,
+b)[^24] az NNGYK HIV nemzeti referencia-laboratóriuma,
 
 c)[^25] a népegészségügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatal laboratóriumai,
 
@@ -76,9 +76,9 @@ III.
 
 A mesterséges megtermékenyítés céljára levett sperma adományozása során a donortól levett vér szűrővizsgálatára és megerősítő vizsgálatára jogosult laboratórium:
 
-a)[^28] az NNK virológiai laboratóriuma (szűrés),
+a)[^28] az NNGYK virológiai laboratóriuma (szűrés),
 
-b)[^29] az NNK HIV nemzeti referencia-laboratóriuma (szűrés, megerősítés).
+b)[^29] az NNGYK HIV nemzeti referencia-laboratóriuma (szűrés, megerősítés).
 
 IV.
 
@@ -100,25 +100,25 @@ Megerősítő vizsgálatok elvégzésére jogosult laboratóriumok:
 
 1. Anonim szűrővizsgálat esetén:
 
-a)[^32] az NNK HIV nemzeti referencia-laboratóriuma,
+a)[^32] az NNGYK HIV nemzeti referencia-laboratóriuma,
 
 b) a Fővárosi Önkormányzat Egyesített Szent István és Szent László Kórház-Rendelőintézet Víruslaboratóriuma.
 
 2. Nem anonim módon elvégzett szűrővizsgálat esetén:
 
-a)[^33] az NNK HIV nemzeti referencia-laboratóriuma,
+a)[^33] az NNGYK HIV nemzeti referencia-laboratóriuma,
 
 b) az Országos Vérellátó Szolgálat Központi Laboratóriuma kizárólag a I. pontban felsorolt laboratóriumok által végzett szűrővizsgálatok tekintetében.
 
 [^22]: Az eredeti melléklet számozását 2. mellékletre változtatta és szövegét megállapította a 46/2009. (XII. 22.) EüM rendelet 6. §-a.
-[^23]: A 2. melléklet II. pont a) alpontja a 38/2018. (X. 31.) EMMI rendelet 8. § b) pontja szerint módosított szöveg.
-[^24]: A 2. melléklet II. pont b) alpontja a 38/2018. (X. 31.) EMMI rendelet 8. § c) pontja szerint módosított szöveg.
+[^23]: A 2. melléklet II. pont a) alpontja a 38/2018. (X. 31.) EMMI rendelet 8. § b) pontja, a 28/2023. (VIII. 10.) BM rendelet 13. § b) pontja szerint módosított szöveg.
+[^24]: A 2. melléklet II. pont b) alpontja a 28/2023. (VIII. 10.) BM rendelet 13. § b) pontja szerint módosított szöveg.
 [^25]: A 2. melléklet II. pont c) alpontja a 23/2015. (IV. 28.) EMMI rendelet 38. §-a, a 45/2022. (XII. 20.) BM rendelet 23. § c) pontja szerint módosított szöveg.
 [^26]: A 2. melléklet II. pont d) alpontja az 55/2022. (XII. 27.) BM rendelet 4. §-a szerint módosított szöveg.
 [^27]: A 2. melléklet II. pont f) alpontját az 54/2015. (XI. 24.) EMMI rendelet 19. §-a iktatta be.
-[^28]: A 2. melléklet III. pont a) alpontja a 38/2018. (X. 31.) EMMI rendelet 8. § b) pontja szerint módosított szöveg.
-[^29]: A 2. melléklet III. pont b) alpontja a 38/2018. (X. 31.) EMMI rendelet 8. § c) pontja szerint módosított szöveg.
+[^28]: A 2. melléklet III. pont a) alpontja a 38/2018. (X. 31.) EMMI rendelet 8. § b) pontja, a 28/2023. (VIII. 10.) BM rendelet 13. § b) pontja szerint módosított szöveg.
+[^29]: A 2. melléklet III. pont b) alpontja a 28/2023. (VIII. 10.) BM rendelet 13. § b) pontja szerint módosított szöveg.
 [^30]: A 2. melléklet IV. pont a) alpontja az 55/2022. (XII. 27.) BM rendelet 4. §-a szerint módosított szöveg.
 [^31]: A 2. melléklet IV. pont b) alpontját az 54/2015. (XI. 24.) EMMI rendelet 19. §-a iktatta be.
-[^32]: A 2. melléklet VI.1. pont a) alpontja a 38/2018. (X. 31.) EMMI rendelet 8. § c) pontja szerint módosított szöveg.
-[^33]: A 2. melléklet VI.2. pont a) alpontja a 38/2018. (X. 31.) EMMI rendelet 8. § c) pontja szerint módosított szöveg.
+[^32]: A 2. melléklet VI. pont 1. alpont a) pontja a 28/2023. (VIII. 10.) BM rendelet 13. § b) pontja szerint módosított szöveg.
+[^33]: A 2. melléklet VI. pont 2. alpont a) pontja a 28/2023. (VIII. 10.) BM rendelet 13. § b) pontja szerint módosított szöveg.

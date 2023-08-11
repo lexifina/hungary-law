@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-18-20-0
 | 2017-04-01 | 2002-18-20-0M.10 | 54/2016. (XII. 30.) EMMI rendelet |
 | 2018-11-01 | 2002-18-20-0M.11 | 38/2018. (X. 31.) EMMI rendelet |
 | 2023-01-01 | 2002-18-20-0M.12 | 46/2009. (XII. 22.) EüM rendelet |
+| 2023-08-11 | 2002-18-20-0M.13 | 28/2023. (VIII. 10.) BM rendelet |
