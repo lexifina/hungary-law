@@ -1,8 +1,8 @@
 3. § (1) Kizárólag gyógyszertárban forgalmazhatók – a (2)–(5) bekezdésben foglaltak figyelembevételével –
 
-a)[^3] – a 4. § 1. pontjában meghatározott gyógyszerek kivételével – az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI), illetve az Európai Bizottság által forgalomba hozatalra engedélyezett emberi felhasználásra szánt gyógyszerek;
+a)[^3] – a 4. § 1. pontjában meghatározott gyógyszerek kivételével – a Nemzeti Népegészségügyi és Gyógyszerészeti Központ (a továbbiakban: NNGYK), illetve az Európai Bizottság által forgalomba hozatalra engedélyezett emberi felhasználásra szánt gyógyszerek;
 
-b)[^4] az OGYÉI által kizárólag gyógyszertári forgalmazásra engedélyezett, gyógyszernek nem minősülő gyógyhatású anyagok és késztmények;
+b)[^4] az NNGYK által kizárólag gyógyszertári forgalmazásra engedélyezett, gyógyszernek nem minősülő gyógyhatású anyagok és késztmények;
 
 c)[^5] az emberi felhasználásra kerülő gyógyszerek egyedi rendelésének és felhasználásának engedélyezéséről szóló 448/2017. (XII. 27.) Korm. rendelet 5. § (1) bekezdése alapján bejelentett, illetve 6. §-ában meghatározott engedély alapján behozatalra engedélyezett gyógyszerek;
 
@@ -22,8 +22,8 @@ g)[^9] a speciális gyógyászati célra szánt tápszerekről szóló 24/2003. 
 
 (5) A HIV, valamint a hepatitisz B, C és D diagnosztizálására szolgáló in vitro diagnosztikumok (gyorstesztek) csak intézeti gyógyszertárban tarthatóak fekvőbeteg-gyógyintézeti felhasználásra.
 
-[^3]: A 3. § (1) bekezdés a) pontja a 41/2011. (VII. 5.) NEFMI rendelet 31. § (1) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 95. § a) pontja szerint módosított szöveg.
-[^4]: A 3. § (1) bekezdés b) pontja a 23/2015. (IV. 28.) EMMI rendelet 95. § b) pontja szerint módosított szöveg.
+[^3]: A 3. § (1) bekezdés a) pontja a 41/2011. (VII. 5.) NEFMI rendelet 31. § (1) bekezdésével megállapított, a 28/2023. (VIII. 10.) BM rendelet 45. § a) pontja szerint módosított szöveg.
+[^4]: A 3. § (1) bekezdés b) pontja a 28/2023. (VIII. 10.) BM rendelet 45. § b) pontja szerint módosított szöveg.
 [^5]: A 3. § (1) bekezdés c) pontja az 5/2019. (III. 1.) EMMI rendelet 2. § a) pontja szerint módosított szöveg.
 [^6]: A 3. § (1) bekezdés d) pontja a 41/2011. (VII. 5.) NEFMI rendelet 31. § (2) bekezdésével megállapított szöveg.
 [^7]: A 3. § (1) bekezdés e) pontja a 3/2015. (I. 14.) EMMI rendelet 22. §-ával megállapított szöveg.
