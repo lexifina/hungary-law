@@ -14,8 +14,8 @@
 
 |  | A | B |
 
-| 1 | Intézmény | Számlaszám |
+| 1. | Intézmény | Számlaszám |
 
-| 2 | Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet | 10032000-00290050-00000000 Magyar Államkincstár |
+| 2. | Nemzeti Népegészségügyi és Gyógyszerészeti Központ | 10032000-00290438-00000000 |
 
-[^7]: A 2. számú melléklet a 23/2015. (IV. 28.) EMMI rendelet 87. §-ával megállapított szöveg.
+[^7]: A 2. melléklet a 28/2023. (VIII. 10.) BM rendelet 41. §-ával megállapított szöveg.
