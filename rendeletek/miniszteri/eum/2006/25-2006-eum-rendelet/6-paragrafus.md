@@ -1,3 +1,6 @@
 ## 5. §[^9] Ha az igazoláson feltüntetett adatok alapján megalapozott döntés nem alakítható ki, így különösen ha a 2. § szerint kiválasztott hatóanyaghoz tartozó gyógyszer csak az igazoláson feltüntetettől eltérő gyógyszerformában rendelhető, illetve ha a gyógyszerek hatáserőssége – az adagolás figyelembevételével – nem biztosítja a hatóanyag igazoláson szereplő napi mennyiségét, a szakkérdés előkészítése érdekében a közgyógyellátásra való jogosultságot megállapító járási hivatal megkeresi az igazolást kiállító háziorvost. A háziorvos a közgyógyellátásra való jogosultságot megállapító járási hivatal megkeresésére az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 25. §-a alapján írásban válaszol.
 
+6. §[^10] A gyógyszerkeret megállapításánál figyelembe vehető gyógyszerek körét a NEAK negyedévente honlapján közzéteszi. A közlemény tartalmazza – a WHO hétjegyű ATC szerinti besorolás alapján – a gyógyszer nevét, kiszerelését, hatóanyagának nevét, támogatási mértékét, térítési díját, napi terápiás költségét, valamint az NNGYK által meghatározott egyenértékűségét.
+
 [^9]: Az 5. § a 8/2018. (II. 13.) EMMI rendelet 34. § (3) bekezdésével megállapított szöveg.
+[^10]: A 6. § az 54/2016. (XII. 30.) EMMI rendelet 50. § b) pontja, a 28/2023. (VIII. 10.) BM rendelet 39. § b) pontja szerint módosított szöveg.

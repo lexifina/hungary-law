@@ -4,11 +4,11 @@
 
 (3) Abban az esetben, ha az (1)–(2) bekezdésben meghatározott hatóanyagot kizárólag egy támogatott gyógyszer tartalmazza és ez a gyógyszerforma a kiszerelés és a hatáserősség szempontjából megfeleltethető az igazoláson szereplő hatóanyaggal – figyelembe véve az igazoláson lévő adagolást is –, a gyógyszerköltség megállapításánál ezt a gyógyszert kell figyelembe venni.
 
-(4)[^4] Abban az esetben, ha az (1)–(2) bekezdésben meghatározott hatóanyagot több támogatott gyógyszer is tartalmazza és annak DDD-je meghatározott, a WHO hétjegyű ATC (hatóanyag szintű) besorolás szerint az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI) által egyenértékűnek és egymással helyettesíthetőnek minősített gyógyszerek közül – a gyógyszerforma, a kiszerelés és a hatáserősség figyelembevételével – a legalacsonyabb napi terápiás költségű gyógyszer térítési díját kell figyelembe venni.
+(4)[^4] Abban az esetben, ha az (1)–(2) bekezdésben meghatározott hatóanyagot több támogatott gyógyszer is tartalmazza és annak DDD-je meghatározott, a WHO hétjegyű ATC (hatóanyag szintű) besorolás szerint a Nemzeti Népegészségügyi és Gyógyszerészeti Központ (a továbbiakban: NNGYK) által egyenértékűnek és egymással helyettesíthetőnek minősített gyógyszerek közül – a gyógyszerforma, a kiszerelés és a hatáserősség figyelembevételével – a legalacsonyabb napi terápiás költségű gyógyszer térítési díját kell figyelembe venni.
 
 (5) Magisztrális gyógyszerek esetében a gyógyszerköltség meghatározásánál a társadalombiztosítási támogatással rendelhető gyógyszerekről és a támogatás összegéről szóló 1/2003. (I. 21.) ESZCSM rendelet 6. §-a alapján számolt térítési díjakat kell figyelembe venni.
 
 (6) Amennyiben a háziorvos által az igazoláson jelzettek alapján megállapítást nyer, hogy a kérelmező csak egy meghatározott gyógyszerrel kezelhető, a gyógyszerköltség meghatározásánál az igazoláson feltüntetett gyógyszer térítési díját kell a gyógyszerköltség meghatározásánál figyelembe venni.
 
 [^3]: A 2. § (1) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 78. §-ával megállapított, a 45/2022. (XII. 20.) BM rendelet 40. §-a szerint módosított szöveg.
-[^4]: A 2. § (4) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 80. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § (4) bekezdése a 28/2023. (VIII. 10.) BM rendelet 39. § a) pontja szerint módosított szöveg.
