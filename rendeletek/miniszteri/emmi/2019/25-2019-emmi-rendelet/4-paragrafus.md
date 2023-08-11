@@ -24,7 +24,7 @@
 
 12. a La Leche Liga Magyarország Egyesület,
 
-13. az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI),
+13.[^1] a Nemzeti Népegészségügyi és Gyógyszerészeti Központ (a továbbiakban: NNGYK),
 
 14. a Heim Pál Országos Gyermekgyógyászati Intézet Módszertani Központ,
 
@@ -51,3 +51,5 @@ b) az Egyesült Nemzetek Szervezete Gyermekalapja magyarországi képviselete
 (6) A Bizottság elnöke esetenként – az ülések témájára tekintettel – tanácskozási joggal szakértőt hívhat meg a Bizottság ülésére.
 
 (7) A Bizottság tagjai és tiszteletbeli tagjai a Bizottságban végzett munkájukért díjazásban, költségtérítésben nem részesülnek.
+
+[^1]: A 4. § (1) bekezdés 13. pontja a 28/2023. (VIII. 10.) BM rendelet 84. § a) pontja szerint módosított szöveg.
