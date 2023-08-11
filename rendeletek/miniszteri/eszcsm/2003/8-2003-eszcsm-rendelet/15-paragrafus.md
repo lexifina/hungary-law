@@ -1,3 +1,3 @@
-15. §[^26]
+15. §[^35]
 
-[^26]: A 15. §-t a 8/2018. (II. 13.) EMMI rendelet 13. § c) pontja hatályon kívül helyezte.
+[^35]: A 15. §-t a 8/2018. (II. 13.) EMMI rendelet 13. § c) pontja hatályon kívül helyezte.

@@ -1,3 +1,3 @@
-6. §[^12]
+6. §[^14]
 
-[^12]: A 6. §-t a 13/2022. (IV. 29.) EMMI redelet 30. § c) pontja hatályon kívül helyezte.
+[^14]: A 6. §-t a 13/2022. (IV. 29.) EMMI redelet 30. § c) pontja hatályon kívül helyezte.

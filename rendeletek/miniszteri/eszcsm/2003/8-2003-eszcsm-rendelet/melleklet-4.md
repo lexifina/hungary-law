@@ -1,3 +1,3 @@
-4. számú melléklet a 8/2003. (III. 13.) ESZCSM rendelethez[^47]
+4. számú melléklet a 8/2003. (III. 13.) ESZCSM rendelethez[^56]
 
-[^47]: A 4. számú mellékletet a 13/2022. (IV. 29.) EMMI rendelet 30. § j) pontja hatályon kívül helyezte.
+[^56]: A 4. számú mellékletet a 13/2022. (IV. 29.) EMMI rendelet 30. § j) pontja hatályon kívül helyezte.

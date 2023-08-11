@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-8-20-0M
 | 2021-08-17 | 2003-8-20-0M.18 | 35/2021. (VIII. 16.) EMMI rendelet |
 | 2022-05-26 | 2003-8-20-0M.19 | 13/2022. (IV. 29.) EMMI rendelet |
 | 2023-01-01 | 2003-8-20-0M.20 | 29/2011. (VI. 7.) NEFMI rendelet |
+| 2023-08-11 | 2003-8-20-0M.21 | 28/2023. (VIII. 10.) BM rendelet |
