@@ -1,4 +1,4 @@
-## 7. §[^33] Kiskorúakon klinikai vizsgálat az 536/2014/EU európai parlamenti és tanácsi rendelet 32. cikkében, az Eütv. 159. § (4) bekezdésében és a 4–6. §-okban foglaltak megfelelő alkalmazása esetén is csak akkor végezhető, ha az alábbi feltételek mindegyike teljesül:
+## 7. §[^34] Kiskorúakon klinikai vizsgálat az 536/2014/EU európai parlamenti és tanácsi rendelet 32. cikkében, az Eütv. 159. § (4) bekezdésében és a 4–6. §-okban foglaltak megfelelő alkalmazása esetén is csak akkor végezhető, ha az alábbi feltételek mindegyike teljesül:
 
 a) a nyilatkozattételre jogosult személy tájékoztatáson alapuló beleegyező nyilatkozata a véleményalkotásra és helyzetértékelésre képes kiskorú valószínűsíthető akaratát tartalmazza, és ez a nyilatkozat bármikor visszavonható anélkül, hogy a kiskorú bármi hátrányt szenvedne,
 
@@ -10,4 +10,4 @@ d) a klinikai vizsgálatot úgy folytatják, hogy mind a kockázati küszöbért
 
 e) az ETT KFEB gyermekgyógyász szakorvos szakvéleményének birtokában pozitív szakmai-etikai véleményt adott vizsgálati tervről.
 
-[^33]: A 7. § a 2/2022. (I. 14.) EMMI rendelet 15. §-ával megállapított szöveg.
+[^34]: A 7. § a 2/2022. (I. 14.) EMMI rendelet 15. §-ával megállapított szöveg.

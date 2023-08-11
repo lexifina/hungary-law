@@ -1,14 +1,14 @@
-## A vizsgálati alany tájékoztatáson alapuló beleegyezése a klinikai vizsgálatba[^20]
+## A vizsgálati alany tájékoztatáson alapuló beleegyezése a klinikai vizsgálatba[^21]
 
 6. § (1) A klinikai vizsgálatba bevonni kívánt cselekvőképes személyt a klinikai vizsgálat vezetője vagy a vizsgáló szóban és írásban, magyar nyelven, – illetve a személy anyanyelvén, vagy a személy által ismertként megjelölt más nyelven – laikus számára is érthető módon tájékoztatja az Eütv. 159. §-ának (3) bekezdésében és a (4) bekezdésben foglaltakról.
 
-(1a)[^21] A vizsgálati alanynak a klinikai vizsgálatba történő tájékoztatáson alapuló beleegyezése során alkalmazni kell az 536/2014/EU európai parlamenti és tanácsi rendelet V. fejezetében foglaltakat is.
+(1a)[^22] A vizsgálati alanynak a klinikai vizsgálatba történő tájékoztatáson alapuló beleegyezése során alkalmazni kell az 536/2014/EU európai parlamenti és tanácsi rendelet V. fejezetében foglaltakat is.
 
 (2) A tájékoztatást adó személynek különös figyelmet kell fordítania annak a vizsgálatára, hogy a bevonni kívánt személy nincs-e cselekvőképtelen állapotban. Az ezzel kapcsolatos megállapításokat a tájékoztatást adó személy a kutatási és az egészségügyi dokumentációban rögzíti.
 
-(3)[^22] A tájékoztatáson alapuló beleegyező nyilatkozat egy eredeti példányát a kutatási dokumentációban kell megőrizni, egy eredeti példányát pedig a vizsgálati alanynak kell átadni.
+(3)[^23] A tájékoztatáson alapuló beleegyező nyilatkozat egy eredeti példányát a kutatási dokumentációban kell megőrizni, egy eredeti példányát pedig a vizsgálati alanynak kell átadni.
 
-(4)[^23] A tájékoztatáson alapuló beleegyező nyilatkozatnak – figyelemmel az 536/2014/EU európai parlamenti és tanácsi rendelet 29. cikkére – legalább a következőket kell tartalmaznia:
+(4)[^24] A tájékoztatáson alapuló beleegyező nyilatkozatnak – figyelemmel az 536/2014/EU európai parlamenti és tanácsi rendelet 29. cikkére – legalább a következőket kell tartalmaznia:
 
 1. a klinikai vizsgálat azonosító adatait,
 
@@ -56,21 +56,21 @@
 
 23. a tájékoztatáson alapuló beleegyező nyilatkozatot tevő aláírását.
 
-(5)[^24]
+(5)[^25]
 
-(6)[^25]
+(6)[^26]
 
-(7)[^26] A tájékoztatáson alapuló beleegyező nyilatkozatot a korlátozottan cselekvőképes kiskorú és cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott vagy cselekvőképtelen vizsgálati alany esetén a nyilatkozattételre jogosult személy is aláírja.
+(7)[^27] A tájékoztatáson alapuló beleegyező nyilatkozatot a korlátozottan cselekvőképes kiskorú és cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott vagy cselekvőképtelen vizsgálati alany esetén a nyilatkozattételre jogosult személy is aláírja.
 
 (8) Szóbeli beleegyező nyilatkozat esetén a két tanú aláírásával igazolja, hogy a vizsgálati alany a (4) bekezdés szerinti tájékoztatást megkapta és a (6) bekezdés szerinti beleegyező nyilatkozatot vele ismertették és abba szóban beleegyezett.
 
-(9)[^27]
+(9)[^28]
 
-[^20]: A 6. §-t megelőző alcím cím a 2/2022. (I. 14.) EMMI rendelet 23. § 4. pontja szerint módosított szöveg.
-[^21]: A 6. § (1a) bekezdését a 2/2022. (I. 14.) EMMI rendelet 14. § (1) bekezdése iktatta be.
-[^22]: A 6. § (3) bekezdése a 2/2022. (I. 14.) EMMI rendelet 14. § (2) bekezdésével megállapított szöveg.
-[^23]: A 6. § (4) bekezdése a 2/2022. (I. 14.) EMMI rendelet 14. § (2) bekezdésével megállapított szöveg.
-[^24]: A 6. § (5) bekezdését a 32/2009. (X. 20.) EüM rendelet 12. § (4) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 12. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált vizsgálati kérelmek esetén a 32/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
-[^25]: A 6. § (6) bekezdése a 2/2022. (I. 14.) EMMI rendelet 24. § 4. pontja hatályon kívül helyezte.
-[^26]: A 6. § (7) bekezdése a 2/2022. (I. 14.) EMMI rendelet 14. § (3) bekezdésével megállapított szöveg.
-[^27]: A 6. § (9) bekezdését a 8/2018. (II. 13.) EMMI rendelet 28. § a) pontja hatályon kívül helyezte.
+[^21]: A 6. §-t megelőző alcím cím a 2/2022. (I. 14.) EMMI rendelet 23. § 4. pontja szerint módosított szöveg.
+[^22]: A 6. § (1a) bekezdését a 2/2022. (I. 14.) EMMI rendelet 14. § (1) bekezdése iktatta be.
+[^23]: A 6. § (3) bekezdése a 2/2022. (I. 14.) EMMI rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^24]: A 6. § (4) bekezdése a 2/2022. (I. 14.) EMMI rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^25]: A 6. § (5) bekezdését a 32/2009. (X. 20.) EüM rendelet 12. § (4) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 12. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált vizsgálati kérelmek esetén a 32/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
+[^26]: A 6. § (6) bekezdése a 2/2022. (I. 14.) EMMI rendelet 24. § 4. pontja hatályon kívül helyezte.
+[^27]: A 6. § (7) bekezdése a 2/2022. (I. 14.) EMMI rendelet 14. § (3) bekezdésével megállapított szöveg.
+[^28]: A 6. § (9) bekezdését a 8/2018. (II. 13.) EMMI rendelet 28. § a) pontja hatályon kívül helyezte.
