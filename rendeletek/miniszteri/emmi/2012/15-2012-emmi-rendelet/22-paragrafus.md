@@ -1,3 +1,3 @@
-## 18–21. §[^46]
+22. §[^50]
 
-[^46]: A 18–21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^50]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

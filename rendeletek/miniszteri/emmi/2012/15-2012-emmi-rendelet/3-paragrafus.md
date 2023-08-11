@@ -10,7 +10,7 @@ a)[^1] az Európai Gazdasági Térségben (a továbbiakban: EGT) székhellyel, l
 
 b) a farmakovigilanciával foglalkozó nemzeti szintű kapcsolattartót jelöl ki, amennyiben a farmakovigilanciáért felelős személy lakóhelye nem Magyarország területén található, aki a farmakovigilanciáért felelős személynek tesz jelentést,
 
-c)[^2] kezeli és kérésre rendelkezésre bocsátja a farmakovigilancia-rendszer törzsdokumentációját, valamint annak másolatát az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI) kérésére 7 napon benyújtja,
+c)[^2] kezeli és kérésre rendelkezésre bocsátja a farmakovigilancia-rendszer törzsdokumentációját, valamint annak másolatát a Nemzeti Népegészségügyi és Gyógyszerészeti Központ (a továbbiakban: NNGYK) kérésére 7 napon benyújtja,
 
 d) minden egyes gyógyszer vonatkozásában kockázatkezelési rendszert működtet,
 
@@ -34,12 +34,12 @@ a) az élettudományok területén szerzett felsőfokú végzettségű vagy vegy
 
 b) a forgalomba hozatali engedély jogosultja által nyújtott vagy az általa elismert, a farmakovigilanciáért felelős személynek történő jelentéstétel teljesítéséhez szükséges képzésben részesült
 
-## személy lehet.
+személy lehet.
 
 (6) Amennyiben a (4) bekezdés szerinti farmakovigilanciáért felelős személy nem általános orvos végzettségű, a forgalomba hozatali engedély jogosultjának biztosítania kell általános orvos rendelkezésre állását, akinek nevét, elérhetőségét a farmakovigilancia-rendszer törzsdokumentációban is dokumentálni kell.
 
-(7)[^3] A forgalomba hozatali engedély jogosultjának a (3) bekezdés a) és b) pontja szerinti személy nevét és elérhetőségeit legkésőbb tevékenysége megkezdése napjáig be kell jelentenie az OGYÉI részére.
+(7)[^3] A forgalomba hozatali engedély jogosultjának a (3) bekezdés a) és b) pontja szerinti személy nevét és elérhetőségeit legkésőbb tevékenysége megkezdése napjáig be kell jelentenie az NNGYK részére.
 
 [^1]: A 3. § (3) bekezdés a) pontja a 47/2015. (X. 19.) EMMI rendelet 38. §-ával megállapított szöveg.
-[^2]: A 3. § (3) bekezdés c) pontja a 23/2015. (IV. 28.) EMMI rendelet 136. § a) pontja szerint módosított szöveg.
-[^3]: A 3. § (7) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 136. § b) pontja szerint módosított szöveg.
+[^2]: A 3. § (3) bekezdés c) pontja a 28/2023. (VIII. 10.) BM rendelet 64. § a) pontja szerint módosított szöveg.
+[^3]: A 3. § (7) bekezdése a 28/2023. (VIII. 10.) BM rendelet 64. § b) pontja szerint módosított szöveg.

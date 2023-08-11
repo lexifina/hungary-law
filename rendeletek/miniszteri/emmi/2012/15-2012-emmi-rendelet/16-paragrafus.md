@@ -4,6 +4,6 @@ a) a forgalomba hozatali engedély megújításának dátumától vagy
 
 b) az e rendelet hatálybalépésétől számított három év letelte után
 
-## vonatkozik.
+vonatkozik.
 
 (2) A farmakovigilanciáért felelős személynek és kapcsolattartó személynek a 3. § (4) és (5) bekezdésében foglalt képesítési követelményeknek 2013. július 21-étől kell megfelelnie.
