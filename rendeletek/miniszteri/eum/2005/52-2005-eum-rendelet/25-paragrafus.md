@@ -1,15 +1,15 @@
-25. § (1)[^72] Amennyiben az OGYÉI úgy ítéli meg, hogy a 23. § (1) bekezdés szerinti jóváhagyás súlyos közegészségügyi kockázattal járna, az értékelő jelentést, továbbá az alkalmazási előírást, a címkét és a betegtájékoztatót nem hagyhatja jóvá. Erről a jogosultat, a referencia-tagállamot, azokat a tagállamokat, ahol a gyógyszer forgalomba hozatali engedélyét már jóváhagyták, haladéktalanul értesíti, majd az ügyet az Ügynökség Koordinációs Csoportja elé utalja. Ennek során az általa feltárt hiányosság okát és esetleges megszüntetésének módját részletesen közli.
+25. § (1)[^75] Amennyiben az NNGYK úgy ítéli meg, hogy a 23. § (1) bekezdés szerinti jóváhagyás súlyos közegészségügyi kockázattal járna, az értékelő jelentést, továbbá az alkalmazási előírást, a címkét és a betegtájékoztatót nem hagyhatja jóvá. Erről a jogosultat, a referencia-tagállamot, azokat a tagállamokat, ahol a gyógyszer forgalomba hozatali engedélyét már jóváhagyták, haladéktalanul értesíti, majd az ügyet az Ügynökség Koordinációs Csoportja elé utalja. Ennek során az általa feltárt hiányosság okát és esetleges megszüntetésének módját részletesen közli.
 
-(2)[^73] Az OGYÉI törekszik arra, hogy a referencia-tagállammal, az érintett tagállamokkal és a kérelmezővel a vitás kérdésben megegyezésre jusson, s ennek során a jogosult is kifejthesse álláspontját, akár szóban, akár írásban.
+(2)[^76] Az NNGYK törekszik arra, hogy a referencia-tagállammal, az érintett tagállamokkal és a kérelmezővel a vitás kérdésben megegyezésre jusson, s ennek során a jogosult is kifejthesse álláspontját, akár szóban, akár írásban.
 
-(3)[^74] Ha az (1) bekezdés szerinti véleménykülönbségnek az Ügynökség Koordinációs Csoportja elé utalását követő 60 napon belül a tagállamok egyezségre jutnak, abban az esetben, ha a referencia-tagállam hatósága az OGYÉI, írásba foglalja valamennyi fél egyetértését, lezárja az eljárást és erről határozatot hoz.
+(3)[^77] Ha az (1) bekezdés szerinti véleménykülönbségnek az Ügynökség Koordinációs Csoportja elé utalását követő 60 napon belül a tagállamok egyezségre jutnak, abban az esetben, ha a referencia-tagállam hatósága az NNGYK, írásba foglalja valamennyi fél egyetértését, lezárja az eljárást és erről határozatot hoz.
 
-(4)[^75] Amennyiben a kérelmező vagy a jogosult értesítést kap arról, hogy az Ügynökség Koordinációs Csoportja az ügyet az egyetértés hiánya miatt az Ügynökség felé utalta, az értesítést követően haladéktalanul megküldi az Ügynökségnek a Korm. rendelet szerinti dokumentációt.
+(4)[^78] Amennyiben a kérelmező vagy a jogosult értesítést kap arról, hogy az Ügynökség Koordinációs Csoportja az ügyet az egyetértés hiánya miatt az Ügynökség felé utalta, az értesítést követően haladéktalanul megküldi az Ügynökségnek a Korm. rendelet szerinti dokumentációt.
 
-(5)[^76] Amennyiben a (3) bekezdés szerint nem sikerül megállapodásra jutni, az OGYÉI – az (1) bekezdéstől eltérő esetben – amennyiben jóváhagyta a referencia-tagállam által kiadott értékelő jelentést, az alkalmazási előírást, valamint a címkeszöveget és a betegtájékoztatót, a kérelmező kérésére engedélyezheti a gyógyszer forgalomba hozatalát anélkül, hogy megvárná az Ügynökség bizottsága bekezdésben meghatározott eljárás kimenetelét. Ebben az esetben az engedély megadását nem érinti az Ügynökség bizottsága előtti eljárás kimenetele.
+(5)[^79] Amennyiben a (3) bekezdés szerint nem sikerül megállapodásra jutni, az NNGYK – az (1) bekezdéstől eltérő esetben – amennyiben jóváhagyta a referencia-tagállam által kiadott értékelő jelentést, az alkalmazási előírást, valamint a címkeszöveget és a betegtájékoztatót, a kérelmező kérésére engedélyezheti a gyógyszer forgalomba hozatalát anélkül, hogy megvárná az Ügynökség bizottsága bekezdésben meghatározott eljárás kimenetelét. Ebben az esetben az engedély megadását nem érinti az Ügynökség bizottsága előtti eljárás kimenetele.
 
-[^72]: A 25. § (1) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 76. § d) pontja szerint módosított szöveg.
-[^73]: A 25. § (2) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 76. § b) pontja szerint módosított szöveg.
-[^74]: A 25. § (3) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 76. § d) pontja szerint módosított szöveg.
-[^75]: A 25. § (4) bekezdése a 8/2018. (II. 13.) EMMI rendelet 31. § i) pontja szerint módosított szöveg.
-[^76]: A 25. § (5) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 76. § d) pontja szerint módosított szöveg.
+[^75]: A 25. § (1) bekezdése a 28/2023. (VIII. 10.) BM rendelet 37. § b) pontja szerint módosított szöveg.
+[^76]: A 25. § (2) bekezdése a 28/2023. (VIII. 10.) BM rendelet 37. § b) pontja szerint módosított szöveg.
+[^77]: A 25. § (3) bekezdése a 28/2023. (VIII. 10.) BM rendelet 37. § b) pontja szerint módosított szöveg.
+[^78]: A 25. § (4) bekezdése a 8/2018. (II. 13.) EMMI rendelet 31. § i) pontja szerint módosított szöveg.
+[^79]: A 25. § (5) bekezdése a 28/2023. (VIII. 10.) BM rendelet 37. § b) pontja szerint módosított szöveg.

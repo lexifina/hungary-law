@@ -1,10 +1,8 @@
-## 34. §[^98]
-
 ## Eltérés a forgalomba hozatali engedélytől
 
 35. § (1) A jogosult felelős azért, hogy a gyógyszer a forgalomba hozatali engedélyben meghatározott előírásoknak megfeleljen.
 
-(2)[^99] A forgalomba hozatali engedélyben meghatározottaktól való eltérést – egyes gyártási tételekre vonatkozóan – az OGYÉI
+(2)[^102] A forgalomba hozatali engedélyben meghatározottaktól való eltérést – egyes gyártási tételekre vonatkozóan – az NNGYK
 
 a) a gyártási tételnek a forgalomba hozatali engedélytől való eltérését részletesen megjelölő kérelem benyújtását,
 
@@ -18,19 +16,18 @@ e) amennyiben a forgalomba hozatali engedélyben meghatározottaktól való elt�
 
 követően akkor engedélyezi, ha meggyőződött róla, hogy az a gyógyszer biztonságos alkalmazását nem veszélyezteti.
 
-(2a)[^100] A (2) bekezdés c) pontja szerinti minta benyújtásától – amennyiben az eltérés jellege azt nem indokolja – az OGYÉI eltekinthet.
+(2a)[^103] A (2) bekezdés c) pontja szerinti minta benyújtásától – amennyiben az eltérés jellege azt nem indokolja – az NNGYK eltekinthet.
 
 (3) A forgalomba hozatali engedélyben meghatározott felhasználhatósági határidőn túl a gyógyszer – erre vonatkozó külön engedély nélkül – nem használható.
 
-(4)[^101] A jogosult kérelmére az OGYÉI egyes gyártási tételek felhasználhatósági időtartamát legfeljebb egy alkalommal, legfeljebb egy évvel meghosszabbíthatja. A kérelemhez mellékelni kell a gyógyszer megfelelő minőséget bizonyító vizsgálati dokumentációt. Kétség esetén az OGYÉI a vizsgálatokat megismételtetheti, illetve azokat maga is elvégezheti. A kérelemben indokolni kell, hogy milyen előny várható a meghosszabbítástól.
+(4)[^104] A jogosult kérelmére az NNGYK egyes gyártási tételek felhasználhatósági időtartamát legfeljebb egy alkalommal, legfeljebb egy évvel meghosszabbíthatja. A kérelemhez mellékelni kell a gyógyszer megfelelő minőséget bizonyító vizsgálati dokumentációt. Kétség esetén az NNGYK a vizsgálatokat megismételtetheti, illetve azokat maga is elvégezheti. A kérelemben indokolni kell, hogy milyen előny várható a meghosszabbítástól.
 
-(5)[^102] A lejárati idő meghosszabbításáról szóló határozatot az OGYÉI a honlapján közzéteszi. A közzététel nem érinti a jogosultnak – a készítmény forgalmazásában, alkalmazásában résztvevők tekintetében fennálló – külön jogszabályban meghatározott tájékoztatási kötelezettségét. A felhasználhatósági határidő meghoszszabbítását a gyógyszer csomagolásán is fel kell tüntetni.
+(5)[^105] A lejárati idő meghosszabbításáról szóló határozatot az NNGYK a honlapján közzéteszi. A közzététel nem érinti a jogosultnak – a készítmény forgalmazásában, alkalmazásában résztvevők tekintetében fennálló – külön jogszabályban meghatározott tájékoztatási kötelezettségét. A felhasználhatósági határidő meghoszszabbítását a gyógyszer csomagolásán is fel kell tüntetni.
 
-(6)[^103]
+(6)[^106]
 
-[^98]: A 34. §-t a 8/2018. (II. 13.) EMMI rendelet 32. § k) pontja hatályon kívül helyezte.
-[^99]: A 35. § (2) bekezdése az 52/2012. (XII. 27.) EMMI rendelet 25. §-ával megállapított, nyitó szövegrésze a 23/2015. (IV. 28.) EMMI rendelet 76. § d) pontja szerint módosított szöveg.
-[^100]: A 35. § (2a) bekezdését az 56/2013. (VII. 31.) EMMI rendelet 28. §-a iktatta be, szövege a 23/2015. (IV. 28.) EMMI rendelet 76. § d) pontja szerint módosított szöveg.
-[^101]: A 35. § (4) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 76. § g) pontja szerint módosított szöveg.
-[^102]: A 35. § (5) bekezdése a 20/2010. (IV. 29.) EüM rendelet 4. § (1) bekezdés k) pontja, a 23/2015. (IV. 28.) EMMI rendelet 76. § d) pontja szerint módosított szöveg.
-[^103]: A 35. § (6) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 23. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^102]: A 35. § (2) bekezdése az 52/2012. (XII. 27.) EMMI rendelet 25. §-ával megállapított, nyitó szövegrésze a 28/2023. (VIII. 10.) BM rendelet 37. § b) pontja szerint módosított szöveg.
+[^103]: A 35. § (2a) bekezdését az 56/2013. (VII. 31.) EMMI rendelet 28. §-a iktatta be, szövege a 28/2023. (VIII. 10.) BM rendelet 37. § b) pontja szerint módosított szöveg.
+[^104]: A 35. § (4) bekezdése a 28/2023. (VIII. 10.) BM rendelet 37. § e) pontja szerint módosított szöveg.
+[^105]: A 35. § (5) bekezdése a 20/2010. (IV. 29.) EüM rendelet 4. § (1) bekezdés k) pontja, a 28/2023. (VIII. 10.) BM rendelet 37. § b) pontja szerint módosított szöveg.
+[^106]: A 35. § (6) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 23. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.

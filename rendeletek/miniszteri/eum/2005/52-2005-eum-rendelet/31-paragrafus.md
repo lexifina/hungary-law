@@ -1,3 +1,3 @@
-## 30. §[^86]
+31. §[^90]
 
-[^86]: A „Módosítás” alcímet (30. §) a 8/2018. (II. 13.) EMMI rendelet 32. § h) pontja hatályon kívül helyezte.
+[^90]: A „Megújítás” alcímet (31. §) a 8/2018. (II. 13.) EMMI rendelet 32. § i) pontja hatályon kívül helyezte.

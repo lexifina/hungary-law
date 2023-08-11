@@ -1,3 +1,0 @@
-## 18/A. §[^55] Ha az EGT-ben valamely gyógyszer osztályozásának módosítását jelentős preklinikai vagy klinikai tanulmányok alapján engedélyezték, az OGYÉI, amikor más kérelmező vagy forgalomba hozatali engedély jogosultja ugyanazon hatóanyag besorolásának módosítására irányuló kérelmét vizsgálja, nem veszi figyelembe e vizsgálatok eredményeit egy éven át azt követően, hogy az első módosítást engedélyezték. E § alkalmazása során a Korm. rendelet 5. § (2)–(9) bekezdését is alkalmazni kell.
-
-[^55]: A 18/A. §-t a 20/2010. (IV. 29.) EüM rendelet 1. § (11) bekezdése iktatta be, szövege a 23/2015. (IV. 28.) EMMI rendelet 76. § d) pontja, a 8/2018. (II. 13.) EMMI rendelet 31. § g) pontja szerint módosított szöveg.
