@@ -32,9 +32,9 @@ a) az (1) bekezdés szerinti egyetemi képzés időtartama öt év volt egy évr
 
 b) a tanulmányok időtartama hat év volt, fél évre
 
-## csökkenthető.
+csökkenthető.
 
-(4)[^7] A gyártási engedély jogosultja köteles a meghatalmazott személy adatait jóváhagyásra bejelenteni az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézetnek (a továbbiakban: OGYÉI). Ha a jelölt eleget tesz az e rendelet által előírt követelményeknek, erről az OGYÉI a képzettséget igazoló dokumentumok alapján dönt, és rögzíti a meghatalmazott személy nevét, végzettségét, diploma számát a gyártási engedélyben.
+(4)[^7] A gyártási engedély jogosultja köteles a meghatalmazott személy adatait jóváhagyásra bejelenteni a Nemzeti Népegészségügyi és Gyógyszerészeti Központnak (a továbbiakban: NNGYK). Ha a jelölt eleget tesz az e rendelet által előírt követelményeknek, erről az NNGYK a képzettséget igazoló dokumentumok alapján dönt, és rögzíti a meghatalmazott személy nevét, végzettségét, diploma számát a gyártási engedélyben.
 
 (5) Az a személy, aki az (1) bekezdésében meghatározott tudományterületek egyikén egyetemi végzettségi szintet tanúsító, vagy ezzel egyenértékűnek elismert oklevéllel rendelkezik, de nem részesült valamennyi, az (1) bekezdésében felsorolt alaptantárgyakra vonatkozó elméleti, illetve gyakorlati képzésben, a hiányzó alaptantárgyak tekintetében alkalmassági vizsgát tehet.
 
@@ -49,7 +49,7 @@ b) a tanulmányok időtartama hat év volt, fél évre
 [^4]: A 3. § (1) bekezdés nyitó szövegrésze a 29/2017. (X. 31.) EMMI rendelet 4. §-a szerint módosított szöveg.
 [^5]: A 3. § (1) bekezdésének a) pontja a 37/2005. (IX. 1.) EüM rendelet 1. §-a szerint módosított szöveg.
 [^6]: A 3. § (2) bekezdése a 3/2014. (I. 16.) EMMI rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^7]: A 3. § (4) bekezdése a 3/2014. (I. 16.) EMMI rendelet 4. § a) pontja, a 23/2015. (IV. 28.) EMMI rendelet 59. §-a szerint módosított szöveg.
+[^7]: A 3. § (4) bekezdése a 3/2014. (I. 16.) EMMI rendelet 4. § a) pontja, a 23/2015. (IV. 28.) EMMI rendelet 59. §-a, a 28/2023. (VIII. 10.) BM rendelet 25. § a) pontja, a 28/2023. (VIII. 10.) BM rendelet 25. § b) pontja szerint módosított szöveg.
 [^8]: A 3. § (6) bekezdését a 10/2012. (VII. 19.) EMMI rendelet 5. §-a iktatta be.
 [^9]: A 3. § (7) bekezdését a 10/2012. (VII. 19.) EMMI rendelet 5. §-a iktatta be, szövege a 3/2014. (I. 16.) EMMI rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^10]: A 3. § (8) bekezdését a 10/2012. (VII. 19.) EMMI rendelet 5. §-a iktatta be, hatályon kívül helyezte a 3/2014. (I. 16.) EMMI rendelet 5. §-a.
