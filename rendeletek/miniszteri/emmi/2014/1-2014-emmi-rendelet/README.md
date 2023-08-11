@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1-20-5H
 | 2018-11-01 | 2014-1-20-5H.7 | 38/2018. (X. 31.) EMMI rendelet |
 | 2019-08-02 | 2014-1-20-5H.8 | 2010: CXXX. törvény |
 | 2023-01-01 | 2014-1-20-5H.9 | 23/2015. (IV. 28.) EMMI rendelet |
+| 2023-08-11 | 2014-1-20-5H.10 | 28/2023. (VIII. 10.) BM rendelet |
