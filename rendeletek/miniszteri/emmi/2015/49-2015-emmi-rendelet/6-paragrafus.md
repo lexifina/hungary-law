@@ -1,6 +1,6 @@
 ## 5. Monitoring
 
-6. § (1)[^5] Azon Legionella-fertőzési kockázatot jelentő létesítmények esetén, ahol az NNK által kiadott 5. § (3) bekezdése szerinti módszertani útmutató szerinti értékelés magas kockázatot állapít meg valamely közegre, az adott közegre monitoringot kell végezni az útmutatóban meghatározott gyakorisággal.
+6. § (1)[^5] Azon Legionella-fertőzési kockázatot jelentő létesítmények esetén, ahol az NNGYK által kiadott 5. § (3) bekezdése szerinti módszertani útmutató szerinti értékelés magas kockázatot állapít meg valamely közegre, az adott közegre monitoringot kell végezni az útmutatóban meghatározott gyakorisággal.
 
 (2)[^6] A fokozott Legionella-fertőzési kockázatot jelentő közegből minden esetben kötelező monitoring vizsgálatot végezni dokumentált módon, a (3)–(5) bekezdésben foglaltak szerint.
 
@@ -16,7 +16,7 @@
 
 (7)[^9] A Legionella-csíraszám meghatározásához a mintavételt akkreditált módon kell végezni az EN ISO 19458 szabvány „a)” mintavételi céljával összhangban.
 
-[^5]: A 6. § (1) bekezdése az 1/2023. (I. 12.) BM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^5]: A 6. § (1) bekezdése az 1/2023. (I. 12.) BM rendelet 6. § (1) bekezdésével megállapított, szövege a 28/2023. (VIII. 10.) BM rendelet 74. § b) pontja szerint módosított szöveg.
 [^6]: A 6. § (2) bekezdése az 1/2023. (I. 12.) BM rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^7]: A 6. § (3) bekezdése az 1/2023. (I. 12.) BM rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^8]: A 6. § (3a) bekezdését az 1/2023. (I. 12.) BM rendelet 6. § (2) bekezdése iktatta be.
