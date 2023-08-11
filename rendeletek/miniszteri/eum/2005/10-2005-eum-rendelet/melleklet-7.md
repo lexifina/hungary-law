@@ -4,7 +4,7 @@ ORSZÁGOS ELLÁTÁS KAPACITÁS JELENTÉS
 
 | Lapszám: |  |  |
 
-NEMZETI NÉPEGÉSZSÉGÜGYI KÖZPONT
+NEMZETI NÉPEGÉSZSÉGÜGYI ÉS GYÓGYSZERÉSZETI KÖZPONT
 
 ..................... év ................................................ hó .......... nap .......... óra
 
@@ -70,4 +70,4 @@ Diagnosztikai és terápiás egységek, eszközök
 
 aláírás
 
-[^28]: A 7. számú mellékletet a 38/2018. (X. 31.) EMMI rendelet 11. § (4) bekezdése iktatta be.
+[^28]: A 7. számú mellékletet a 38/2018. (X. 31.) EMMI rendelet 11. § (4) bekezdése iktatta be, szövege a 28/2023. (VIII. 10.) BM rendelet 31. §-a szerint módosított szöveg.
