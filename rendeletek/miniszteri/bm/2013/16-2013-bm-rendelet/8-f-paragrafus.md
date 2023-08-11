@@ -1,4 +1,4 @@
-## II/C. Fejezet[^22]
+## II/C. Fejezet[^26]
 
 ## A KÖZNEVELÉSI ÁGAZAT HONVÉDELMI FELADATAI
 
@@ -8,4 +8,4 @@ a) a köznevelési intézmények működésével, működtetésével kapcsolatba
 
 b) a köznevelés szempontjából nélkülözhetetlen informatikai rendszerek működésének biztosítására vagy kiváltására, az adatok biztonságos tárolására, az adott dokumentumok és információk időbeni átvételére és szükség esetén határidők módosítására.
 
-[^22]: Az II/C. Fejezetet (8/F. §) a 41/2022. (XII. 9.) BM rendelet 14. §-a iktatta be.
+[^26]: Az II/C. Fejezetet (8/F. §) a 41/2022. (XII. 9.) BM rendelet 14. §-a iktatta be.
