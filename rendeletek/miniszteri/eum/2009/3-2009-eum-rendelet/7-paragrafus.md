@@ -4,7 +4,7 @@ a) fekvőbeteg-ellátást biztosító egészségügyi szolgáltató esetén az i
 
 b)[^10] az a) pont hatálya alá nem tartozó egészségügyi szolgáltató esetében közvetlenül a gyógyszer, gyógyászati segédeszköz rendelésére, használatának betanítására és forgalmazására jogosultnak személyes találkozások során vagy gyógyszer-nagykereskedelmi engedély jogosultja által történő kiszállítás (e § alkalmazásában a továbbiakban: kiszállítás) igénybevételével
 
-## térítésmentes mintát adhat, melyhez mellékeli a gyógyszerre vonatkozó alkalmazási előírás, illetve a gyógyászati segédeszközre vonatkozó használati útmutató egy példányát.
+térítésmentes mintát adhat, melyhez mellékeli a gyógyszerre vonatkozó alkalmazási előírás, illetve a gyógyászati segédeszközre vonatkozó használati útmutató egy példányát.
 
 (2)[^11] Gyógyszerből és egyszer használatos gyógyászati segédeszközből – gyógyszerenként, illetve gyógyászati segédeszközönként – a gyógyszer, gyógyászati segédeszköz rendelésére, használatának betanítására és forgalmazására jogosultanként térítésmentes mintaként, a gyógyszer, illetve az egyszer használatos gyógyászati segédeszköz magyarországi értékesítésének megkezdését követően évente legfeljebb két csomagolási egység adható azzal, hogy gyógyászati segédeszköz esetén a két csomagolási egység az egy hónapra szükséges mennyiséget nem haladhatja meg. 0%-osnál magasabb támogatási kategóriába tartozó gyógyszerből, valamint támogatással rendelhető gyógyászati segédeszközből a gyógyszer és egyszer használatos gyógyászati segédeszköz magyarországi értékesítésének megkezdését követő év vége után térítésmentes minta nem adható.
 

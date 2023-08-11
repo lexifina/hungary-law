@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-3-20-0B
 | 2015-04-29 | 2009-3-20-0B.12 | 38/2009. (XI. 6.) EüM rendelet |
 | 2018-07-05 | 2009-3-20-0B.13 | 67/2011. (XII. 13.) NEFMI rendelet |
 | 2022-07-31 | 2009-3-20-0B.14 | 24/2022. (VII. 29.) BM rendelet |
+| 2023-08-11 | 2009-3-20-0B.15 | 38/2009. (XI. 6.) EüM rendelet |

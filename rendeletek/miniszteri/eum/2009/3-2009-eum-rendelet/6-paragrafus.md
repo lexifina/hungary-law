@@ -1,5 +1,3 @@
-## 5. §[^3]
-
 6. § (1)[^4] Az ismertetés megkezdése előtt az ismertető személy a 8. § (1) és (2) bekezdésében említett jogviszonyt tanúsító és az e tevékenységre jogosító ismertető igazolványt a gyógyszer, gyógyászati segédeszköz rendelésére, használatának betanítására és forgalmazására jogosultnak (e bekezdés tekintetében a továbbiakban: jogosult) oly módon felmutatja, hogy a jogosult az ismertető tevékenységet megelőzően a Gyftv. 14. § (14) bekezdésében foglaltaknak megfelelően járhasson el.
 
 (2)[^5] Az ismertetés keretében a gyógyszerre, gyógyászati segédeszközre vonatkozó információkat és dokumentumokat az ismertető személynek olyan részletességben kell bemutatnia, illetve átadnia, hogy azok alapján a gyógyszer, gyógyászati segédeszköz rendelésére, használatának betanítására és forgalmazására jogosult véleményt alkothasson az ismertetett gyógyszer, gyógyászati segédeszköz alkalmazásáról. Az ismertetés során a gyógyszer, gyógyászati segédeszköz rendelésére, használatának betanítására és forgalmazására jogosultnak átadott, bemutatott minden információnak, illetve írásos dokumentációnak pontosnak, igazolhatónak és naprakésznek kell lennie. Minden írott dokumentumnak tartalmaznia kell a dokumentum lezárásának vagy utolsó aktualizálásának időpontját.
@@ -14,7 +12,6 @@
 
 (7)[^8] Az ismertető személy a 11. § (1) bekezdése szerinti szervezeti egységet köteles írásban tájékoztatni valamennyi olyan információról, amelyről őt a gyógyszer rendelésére és forgalmazására jogosult személyek a gyógyszer alkalmazásával, felhasználásával kapcsolatosan tájékoztatták, különösen amelyek az adott gyógyszer mellékhatásaira vonatkoznak.
 
-[^3]: Az 5. §-t a 2/2012. (I. 3.) NEFMI rendelet 28. §-a hatályon kívül helyezte.
 [^4]: A 6. § (1) bekezdése a 67/2011. (XII. 13.) NEFMI rendelet 9. §-ával megállapított szöveg.
 [^5]: A 6. § (2) bekezdése a 38/2009. (XI. 6.) EüM rendelet 7. § (2) bekezdése szerint módosított szöveg.
 [^6]: A 6. § (5) bekezdése a 38/2009. (XI. 6.) EüM rendelet 7. § (2) bekezdése szerint módosított szöveg.
