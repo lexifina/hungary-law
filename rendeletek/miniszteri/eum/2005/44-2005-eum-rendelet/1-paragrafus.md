@@ -6,7 +6,7 @@
 
 (4)[^4] Gyógyszernek a Gytv. 4/A. § (2) bekezdésében foglaltak szerinti behozatala esetén a kutatást végző
 
-a)[^5] a behozatalt megelőzően az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI) részére bejelenti:
+a)[^5] a behozatalt megelőzően a Nemzeti Népegészségügyi és Gyógyszerészeti Központ (a továbbiakban: NNGYK) részére bejelenti:
 
 aa) nevét, székhelyét, telefonszámát,
 
@@ -16,7 +16,7 @@ ac) a behozni kívánt gyógyszer Gytv. 1. § 13. és 14. pontja szerinti nevét
 
 ad) a kutatás célját;
 
-b)[^6] a kutatás befejezését követően haladéktalanul az OGYÉI részére bejelenti
+b)[^6] a kutatás befejezését követően haladéktalanul az NNGYK részére bejelenti
 
 ba) a kutatás befejezésének napját,
 
@@ -30,7 +30,7 @@ bb) a kutatáshoz felhasznált és a kutatás befejezését követően megsemmis
 [^2]: Az 1. § (2) bekezdését a 8/2018. (II. 13.) EMMI rendelet 29. § a) pontja hatályon kívül helyezte.
 [^3]: Az 1. § (3) bekezdését az 53/2008. (XII. 31.) EüM rendelet 3. § (1) bekezdése iktatta be.
 [^4]: Az 1. § (4) bekezdését a 2/2012. (I. 3.) NEFMI rendelet 15. §-a iktatta be, szövege a 10/2012. (VII. 19.) EMMI rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^5]: Az 1. § (4) bekezdés a) pont nyitó szövegrésze a 23/2015. (IV. 28.) EMMI rendelet 75. § a) pontja szerint módosított szöveg.
-[^6]: Az 1. § (4) bekezdés b) pont nyitó szövegrésze a 23/2015. (IV. 28.) EMMI rendelet 75. § b) pontja szerint módosított szöveg.
+[^5]: Az 1. § (4) bekezdés a) pont nyitó szövegrésze a 23/2015. (IV. 28.) EMMI rendelet 75. § a) pontja, a 28/2023. (VIII. 10.) BM rendelet 36. § a) pontja szerint módosított szöveg.
+[^6]: Az 1. § (4) bekezdés b) pont nyitó szövegrésze a 23/2015. (IV. 28.) EMMI rendelet 75. § b) pontja, a 28/2023. (VIII. 10.) BM rendelet 36. § b) pontja szerint módosított szöveg.
 [^7]: Az 1. § (5) bekezdését a 2/2012. (I. 3.) NEFMI rendelet 15. §-a iktatta be.
 [^8]: Az 1. § (6) bekezdését a 3/2014. (I. 16.) EMMI rendelet 20. §-a iktatta be, szövege a 23/2015. (IV. 28.) EMMI rendelet 75. § b) pontja szerint módosított szöveg.

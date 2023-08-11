@@ -14,13 +14,13 @@ ba) az exportált hatóanyagot gyártó üzemre a helyes gyártási gyakorlatot 
 
 bb) a szóban forgó gyártó üzem rendszeres, részletes és dokumentált ellenőrzés alatt áll, hatékonyan érvényesíti a helyes gyártási gyakorlat követelményeit és ennek érdekében ismétlődő és bejelentés nélküli vizsgálatokat is lefolytat, és
 
-bc)[^14] amennyiben a szabványok megsértését tapasztalja, az ezzel kapcsolatos információkat az exportáló harmadik ország hatósága haladéktalanul átadja az OGYÉI részére.
+bc)[^14] amennyiben a szabványok megsértését tapasztalja, az ezzel kapcsolatos információkat az exportáló harmadik ország hatósága haladéktalanul átadja az NNGYK részére.
 
 (5)[^15] Hatóanyag harmadik országból történő behozatala során nincs szükség a (4) bekezdés b) pontja szerinti nyilatkozatra, amennyiben az exportáló ország szerepel az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001. november 6-i 2001/83/EK európai parlamenti és tanácsi irányelv 111b. cikke alapján hozott bizottsági határozatok szerint létrejövő jegyzékben.
 
-(6)[^16] Amennyiben a gyógyszerek hozzáférhetőségével összefüggő okból az szükséges, az OGYÉI eltekinthet a (4) bekezdés b) pontja szerinti nyilatkozat bemutatásától, amennyiben a kivitel céljából hatóanyagot előállító harmadik országbeli üzemben valamely EGT tagállam hatósága ellenőrzést hajtott végre, és megállapították, hogy a gyártóhely megfelel a helyes gyártási gyakorlat Európai Bizottság iránymutatásaiban és rendeletében foglalt követelményeinek. Az e bekezdés alapján adott mentesség időtartama nem lehet hosszabb, mint az EGT tagállam valamely hatósága által kiállított tanúsítvány érvényessége. Az OGYÉI e bekezdés alkalmazásáról haladéktalanul tájékoztatja az Európai Bizottságot.
+(6)[^16] Amennyiben a gyógyszerek hozzáférhetőségével összefüggő okból az szükséges, az NNGYK eltekinthet a (4) bekezdés b) pontja szerinti nyilatkozat bemutatásától, amennyiben a kivitel céljából hatóanyagot előállító harmadik országbeli üzemben valamely EGT tagállam hatósága ellenőrzést hajtott végre, és megállapították, hogy a gyártóhely megfelel a helyes gyártási gyakorlat Európai Bizottság iránymutatásaiban és rendeletében foglalt követelményeinek. Az e bekezdés alapján adott mentesség időtartama nem lehet hosszabb, mint az EGT tagállam valamely hatósága által kiállított tanúsítvány érvényessége. Az NNGYK e bekezdés alkalmazásáról haladéktalanul tájékoztatja az Európai Bizottságot.
 
 [^13]: A 4. § (4) bekezdését az 53/2012. (XII. 28.) EMMI rendelet 14. § (1) bekezdése iktatta be, szövege az 53/2012. (XII. 28.) EMMI rendelet 14. § (2) bekezdésével megállapított szöveg.
-[^14]: A 4. § (4) bekezdés b) pont bc) alpontja a 23/2015. (IV. 28.) EMMI rendelet 75. § b) pontja szerint módosított szöveg.
+[^14]: A 4. § (4) bekezdés b) pont bc) alpontja a 23/2015. (IV. 28.) EMMI rendelet 75. § b) pontja, a 28/2023. (VIII. 10.) BM rendelet 36. § b) pontja szerint módosított szöveg.
 [^15]: A 4. § (5) bekezdését az 53/2012. (XII. 28.) EMMI rendelet 14. § (3) bekezdése iktatta be.
-[^16]: A 4. § (6) bekezdését az 53/2012. (XII. 28.) EMMI rendelet 14. § (3) bekezdése iktatta be, szövege a 23/2015. (IV. 28.) EMMI rendelet 75. § b)–c) pontja szerint módosított szöveg.
+[^16]: A 4. § (6) bekezdését az 53/2012. (XII. 28.) EMMI rendelet 14. § (3) bekezdése iktatta be, szövege a 23/2015. (IV. 28.) EMMI rendelet 75. § b)–c) pontja, a 28/2023. (VIII. 10.) BM rendelet 36. § e) pontja szerint módosított szöveg.

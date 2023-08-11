@@ -6,7 +6,7 @@ b) az importálni, gyártani vagy forgalmazni kívánt hatóanyagok telephelyek 
 
 c) a tevékenységhez igénybevett helyiségek és műszaki berendezések részletes bemutatása.
 
-(2)[^18] Az OGYÉI-t évente tájékoztatni kell az (1) bekezdés szerinti nyilvántartásba vétel során közölt adatokban bekövetkezett változásokról. Bármely olyan változást, amely a gyártott, importált vagy forgalmazott hatóanyagok minőségét vagy biztonságát befolyásolhatja, haladéktalanul be kell jelenteni.
+(2)[^18] Az NNGYK-t évente tájékoztatni kell az (1) bekezdés szerinti nyilvántartásba vétel során közölt adatokban bekövetkezett változásokról. Bármely olyan változást, amely a gyártott, importált vagy forgalmazott hatóanyagok minőségét vagy biztonságát befolyásolhatja, haladéktalanul be kell jelenteni.
 
 [^17]: A 4/A. §-t az 53/2012. (XII. 28.) EMMI rendelet 15. §-a iktatta be.
-[^18]: A 4/A. § (2) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 75. § g) pontja szerint módosított szöveg.
+[^18]: A 4/A. § (2) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 75. § g) pontja, a 28/2023. (VIII. 10.) BM rendelet 36. § d) pontja szerint módosított szöveg.

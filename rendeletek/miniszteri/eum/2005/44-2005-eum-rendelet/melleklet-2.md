@@ -10,9 +10,9 @@
 
 ## 1. A helyes gyártási gyakorlat betartatását szolgálják a Gytv.-ben és a 4. §-ban részletezett helyszíni hatósági ellenőrzések, a hatósági ellenőrök által vett minták laboratóriumi vizsgálata, valamint az EGT tagállamai közötti információcsere. Utóbbi során figyelembe kell venni az Európai Bizottság által meghatározott közösségi eljárásokat is.
 
-## 2. A helyes gyártási gyakorlat alapelveinek és iránymutatásainak értelmezése céljából a gyártók és az OGYÉI figyelembe veszi az Európai Bizottság által az „Útmutató a gyógyszerek és vizsgálati gyógyszerek helyes gyártási gyakorlatához” című útmutatás fordításaként az OGYÉI által közzétett részletes iránymutatásokat. A fejlett terápiás gyógyszerek esetében a fejlett terápiás gyógyszerkészítményekről, valamint a 2001/83/EK irányelv és a 726/2004/EK rendelet módosításáról szóló, 2007. november 13-i 1394/2007/EK európai parlamenti és tanácsi rendelet 5. cikkében említett, a fejlett terápiás gyógyszerek esetében alkalmazandó helyes gyártási gyakorlatra vonatkozó iránymutatásokat kell figyelembe venni.
+## 2. A helyes gyártási gyakorlat alapelveinek és iránymutatásainak értelmezése céljából a gyártók és az NNGYK figyelembe veszi az Európai Bizottság által az „Útmutató a gyógyszerek és vizsgálati gyógyszerek helyes gyártási gyakorlatához” című útmutatás fordításaként az NNGYK által közzétett részletes iránymutatásokat. A fejlett terápiás gyógyszerek esetében a fejlett terápiás gyógyszerkészítményekről, valamint a 2001/83/EK irányelv és a 726/2004/EK rendelet módosításáról szóló, 2007. november 13-i 1394/2007/EK európai parlamenti és tanácsi rendelet 5. cikkében említett, a fejlett terápiás gyógyszerek esetében alkalmazandó helyes gyártási gyakorlatra vonatkozó iránymutatásokat kell figyelembe venni.
 
-## 3. AZ OGYÉI hatósági ellenőrzés keretében ellenőrzi az V. alcímben meghatározott gyógyszerminőségi rendszert.
+## 3. AZ NNGYK hatósági ellenőrzés keretében ellenőrzi az V. alcímben meghatározott gyógyszerminőségi rendszert.
 
 ## III. A helyes gyártási gyakorlat betartása
 
@@ -26,7 +26,7 @@
 
 ## 2. A forgalomba hozatali engedély kiadását követően a forgalomba hozatali engedély jogosultja a gyártás és a minőségellenőrzés módszereit a tudományos és műszaki fejlődés figyelembevételével rendszeresen felülvizsgálja, és bevezeti a szükséges változtatásokat annak érdekében, hogy a gyógyszert az általánosan elfogadott tudományos alapokon nyugvó módszerekkel gyártsák és ellenőrizzék.
 
-## Ezekhez a változtatásokhoz az OGYÉI-től a Gytv. 11. § (4) bekezdésében foglaltaknak megfelelően a forgalomba hozatali engedély módosításának jóváhagyását kell kérni.
+## Ezekhez a változtatásokhoz az NNGYK-tól a Gytv. 11. § (4) bekezdésében foglaltaknak megfelelően a forgalomba hozatali engedély módosításának jóváhagyását kell kérni.
 
 ## V. Minőségbiztosítási rendszer
 
@@ -84,7 +84,7 @@
 
 ## Ha jogszabály hosszabb időszakot nem ír elő, a kiindulási anyagok mintáit, a gyártási folyamatban felhasznált oldószerek, gázok és víz kivételével, a termék felszabadításától számítva legalább két évig meg kell őrizni. Ezen időszakot meg lehet rövidíteni, ha az anyagra vonatkozó előírás szerint az anyag stabilitási (eltarthatósági) időszaka rövidebb. Igény esetén minden mintát az illetékes hatóságok rendelkezésére kell bocsátani.
 
-## Az OGYÉI beleegyezésével más feltételek is meghatározhatóak a kiinduló anyagok és egyedileg vagy kis mennyiségekben gyártott, illetve olyan anyagok mintavétele és megőrzése esetében, amelyek tárolása különleges problémákat vet fel.
+## Az NNGYK beleegyezésével más feltételek is meghatározhatóak a kiinduló anyagok és egyedileg vagy kis mennyiségekben gyártott, illetve olyan anyagok mintavétele és megőrzése esetében, amelyek tárolása különleges problémákat vet fel.
 
 ## XI. Szerződéses (alvállalkozók által végzett) munka
 
@@ -98,7 +98,7 @@
 
 ## XII. Panaszok, forgalomból való kivonás
 
-## 1. Gyógyszerek esetében a gyártó a panaszok rögzítésére és kivizsgálására szolgáló rendszert és a gyógyszereknek a forgalomból történő azonnali kivonása végrehajtására szolgáló hatékony rendszert alakít ki. A gyártó minden hibára vonatkozó panaszt rögzít és kivizsgál. A gyártó minden olyan hibáról tájékoztatja az OGYÉI-t és adott esetben a forgalombahozatali engedély jogosultját, amely forgalomból való kivonást eredményezhet, vagy amely a forgalmazás rendkívüli korlátozását vonhatja maga után, és ha lehetséges, megjelöli a rendeltetési országokat is, ahova a termék kiszállításra került.
+## 1. Gyógyszerek esetében a gyártó a panaszok rögzítésére és kivizsgálására szolgáló rendszert és a gyógyszereknek a forgalomból történő azonnali kivonása végrehajtására szolgáló hatékony rendszert alakít ki. A gyártó minden hibára vonatkozó panaszt rögzít és kivizsgál. A gyártó minden olyan hibáról tájékoztatja az NNGYK-t és adott esetben a forgalombahozatali engedély jogosultját, amely forgalomból való kivonást eredményezhet, vagy amely a forgalmazás rendkívüli korlátozását vonhatja maga után, és ha lehetséges, megjelöli a rendeltetési országokat is, ahova a termék kiszállításra került.
 
 ## 2. A forgalomból való kivonást a Gytv.-ben, az e rendeletben és a jogszabályban meghatározott előírásokkal összhangban kell végezni.
 
