@@ -26,13 +26,13 @@
 
 | 13. |  | Nemzeti Szakértői és Kutató Központ | havonta |
 
-| 14. | Az Eütv. 114. § (2) bekezdés k) pontja szerinti adatok | Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet | negyedévente |
+| 14. | Az Eütv. 114. § (2) bekezdés k) pontja szerinti adatok | Nemzeti Népegészségügyi és Gyógyszerészeti Központ[^19] | negyedévente |
 
-| 15. | Az adott évre vonatkozó Országos Statisztikai Adatgyűjtési Program keretében gyűjtött, az egyes egészségügyi szakképesítésekhez kapcsolódó bér- és létszám-statisztikai adatok | OKFŐ[^19] | évente |
+| 15. | Az adott évre vonatkozó Országos Statisztikai Adatgyűjtési Program keretében gyűjtött, az egyes egészségügyi szakképesítésekhez kapcsolódó bér- és létszám-statisztikai adatok | OKFŐ[^20] | évente |
 
 | 16. | Az adott évre vonatkozó Országos Statisztikai Adatgyűjtési Program keretében gyűjtött, az egyes egészségügyi szakképesítésekhez kapcsolódó egészségügyi állás- és létszámkimutatásra vonatkozó adatok | Központi Statisztikai Hivatal | évente |
 
-| 17. | Az Eütv. 114. § (2) bekezdés m) pontja szerinti adatok | Nemzeti Népegészségügyi Központ | havonta |
+| 17. | Az Eütv. 114. § (2) bekezdés m) pontja szerinti adatok | Nemzeti Népegészségügyi és Gyógyszerészeti Központ[^21] | havonta |
 
 | 18. | Az Eütv. 114. § (2) bekezdés n) pontja szerinti adatok | Nemzeti Egészségbiztosítási Alapkezelő (a továbbiakban: NEAK) | félévente |
 
@@ -108,4 +108,6 @@ Az éves beszámoló kötelező tartalma
 [^16]: Az 1. mellékletben foglalt táblázat B:6 mezője az 52/2022. (XII. 27.) BM rendelet 29. § b) pontjával megállapított szöveg.
 [^17]: Az 1. mellékletben foglalt táblázat B:9 mezője az 52/2022. (XII. 27.) BM rendelet 29. § b) pontjával megállapított szöveg.
 [^18]: Az 1. mellékletben foglalt táblázat B:11 mezője az 52/2022. (XII. 27.) BM rendelet 29. § b) pontjával megállapított szöveg.
-[^19]: Az 1. mellékletben foglalt táblázat B:15 mezője az 52/2022. (XII. 27.) BM rendelet 29. § b) pontjával megállapított szöveg.
+[^19]: Az 1. mellékletben foglalt táblázat B:14 mezője a 28/2023. (VIII. 10.) BM rendelet 70. § a) pontjával megállapított szöveg.
+[^20]: Az 1. mellékletben foglalt táblázat B:15 mezője az 52/2022. (XII. 27.) BM rendelet 29. § b) pontjával megállapított szöveg.
+[^21]: Az 1. mellékletben foglalt táblázat B:17 mezője a 28/2023. (VIII. 10.) BM rendelet 70. § b) pontjával megállapított szöveg.
