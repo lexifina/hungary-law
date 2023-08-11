@@ -38,7 +38,7 @@
 
 | 18. | Nemzeti Veleszületett Szívbetegség Regiszter | Gottsegen György Országos Kardiológiai Intézet |
 
-2. melléklet a 49/2018. (XII. 28.) EMMI rendelethez[^36]
+2. melléklet a 49/2018. (XII. 28.) EMMI rendelethez[^38]
 
 A népegészségügyi szempontból kiemelt jelentőségű vagy egyébként jelentős költségteherrel járó megbetegedések
 
@@ -78,4 +78,4 @@ A népegészségügyi szempontból kiemelt jelentőségű vagy egyébként jelen
 
 18. Veleszületett szívrendellenesség (a diagnózis – a haláloki diagnózisokat is beleértve – a BNO 10. revíziója Q20–Q26, Q87–Q89, Q96 tételeinek valamelyike)
 
-[^36]: A 2. melléklet a 37/2020. (X. 30.) EMMI rendelet 20. § (2) bekezdésével megállapított szöveg.
+[^38]: A 2. melléklet a 37/2020. (X. 30.) EMMI rendelet 20. § (2) bekezdésével megállapított szöveg.
