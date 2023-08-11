@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-3-20-0B
 | 2021-08-17 | 2005-3-20-0B.13 | 35/2021. (VIII. 16.) EMMI rendelet |
 | 2022-05-26 | 2005-3-20-0B.14 | 35/2021. (VIII. 16.) EMMI rendelet |
 | 2022-12-28 | 2005-3-20-0B.15 | 2/2007. (I. 24.) EüM rendelet |
+| 2023-08-11 | 2005-3-20-0B.16 | 44/2016. (XII. 28.) EMMI rendelet |
