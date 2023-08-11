@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-55-20-2
 | 2017-04-01 | 2011-55-20-2V.4 | 23/2015. (IV. 28.) EMMI rendelet |
 | 2017-10-30 | 2011-55-20-2V.5 | 28/2017. (X. 25.) EMMI rendelet |
 | 2023-01-01 | 2011-55-20-2V.6 | 23/2015. (IV. 28.) EMMI rendelet |
+| 2023-08-11 | 2011-55-20-2V.7 | 28/2023. (VIII. 10.) BM rendelet |
