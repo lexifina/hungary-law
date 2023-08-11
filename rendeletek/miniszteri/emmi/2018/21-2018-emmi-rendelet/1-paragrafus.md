@@ -18,6 +18,6 @@ ad) orvosi vagy orvosbiológiai kutatási programban vagy
 
 ae) igazságügyi orvosszakértői vizsgálaton
 
-## vesz részt,
+vesz részt,
 
 b) a gondozók és segítők orvosi sugárterhelésére.

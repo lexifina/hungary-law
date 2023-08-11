@@ -42,7 +42,7 @@
 
 2. melléklet a 21/2018. (VII. 9.) EMMI rendelethez
 
-## A nyitott izotóppal végzett vizsgálatokat és kezeléseket vagy zárt sugárforrás tartós beültetését követő betegtájékoztatás tartalma
+A nyitott izotóppal végzett vizsgálatokat és kezeléseket vagy zárt sugárforrás tartós beültetését követő betegtájékoztatás tartalma
 
 1. Tájékoztatás a vizsgálat és kezelés szükségességéről, indokoltságáról.
 

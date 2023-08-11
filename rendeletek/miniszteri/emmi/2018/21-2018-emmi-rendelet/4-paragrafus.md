@@ -20,6 +20,6 @@ bf) az eljárás várható sugárterhelése és kockázatai a beteg, a gondozó 
 
 c) az Egészségügyi Szakmai Kollégium alkalmazási terület szerint illetékes tagozatának ajánlása és
 
-d)[^1] a Nemzeti Népegészségügyi Központ (a továbbiakban: NNK) szakvéleménye.
+d)[^1] a Nemzeti Népegészségügyi és Gyógyszerészeti Központ (a továbbiakban: NNGYK) szakvéleménye.
 
-[^1]: A 4. § (2) bekezdés d) pontja a 38/2018. (X. 31.) EMMI rendelet 28. § a) pontja szerint módosított szöveg.
+[^1]: A 4. § (2) bekezdés d) pontja a 28/2023. (VIII. 10.) BM rendelet 81. § a) pontja szerint módosított szöveg.

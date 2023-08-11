@@ -1,6 +1,6 @@
 3. melléklet a 21/2018. (VII. 9.) EMMI rendelethez
 
-## A nyitott sugárforrással végzett vizsgálatot vagy kezelést, vagy a zárt sugárforrás beültetésével járó kezelést követő elbocsátáskor az 1 μSv/h környezeti dózisegyenérték-teljesítményt meghaladó sugárzási teret okozó esetekben kiállítandó információs kártya adattartalma és kivitelezése
+A nyitott sugárforrással végzett vizsgálatot vagy kezelést, vagy a zárt sugárforrás beültetésével járó kezelést követő elbocsátáskor az 1 μSv/h környezeti dózisegyenérték-teljesítményt meghaladó sugárzási teret okozó esetekben kiállítandó információs kártya adattartalma és kivitelezése
 
 1. A kártyát kötelezően olyan formában kell a beteg rendelkezésére bocsátani, hogy az a radioaktív anyag kiürüléséig tartósan olvasható maradjon.
 

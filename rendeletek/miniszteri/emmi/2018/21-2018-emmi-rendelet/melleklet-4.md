@@ -1,6 +1,6 @@
 4. melléklet a 21/2018. (VII. 9.) EMMI rendelethez
 
-## A besugárzások, expozíciók során releváns paraméterek
+A besugárzások, expozíciók során releváns paraméterek
 
 1. Általánosan minden expozíció során számon tartandóak az alábbi adatok:
 
