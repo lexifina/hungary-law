@@ -1,4 +1,4 @@
-## 2/A. [^10] Az EESZT csatlakozáshoz használt informatikai rendszer megfelelősége
+## 2/A. [^8] Az EESZT csatlakozáshoz használt informatikai rendszer megfelelősége
 
 3/A. § (1) Az Eüak. 35/B. § (5) bekezdése szerinti, az EESZT csatlakozáshoz használt informatikai rendszernek (a továbbiakban: informatikai rendszer) meg kell felelnie
 
@@ -28,4 +28,4 @@ c) az informatikai rendszerben továbbfejlesztés, verzióváltás kapcsán jele
 
 (8) A működtető közzéteszi az e § szerinti engedéllyel rendelkező szoftverek jegyzékét.
 
-[^10]: A 2/A. alcímet (3/A. §) a 37/2020. (X. 30.) EMMI rendelet 5. § (1) bekezdése iktatta be.
+[^8]: A 2/A. alcímet (3/A. §) a 37/2020. (X. 30.) EMMI rendelet 5. § (1) bekezdése iktatta be.

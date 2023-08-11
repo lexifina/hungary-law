@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-39-20-5
 | 2020-10-31 | 2016-39-20-5H.11 | 37/2020. (X. 30.) EMMI rendelet |
 | 2022-02-16 | 2016-39-20-5H.12 | 6/2022. (II. 15.) EMMI rendelet |
 | 2022-12-28 | 2016-39-20-5H.13 | 52/2022. (XII. 27.) BM rendelet |
+| 2023-08-11 | 2016-39-20-5H.14 | 28/2023. (VIII. 10.) BM rendelet |

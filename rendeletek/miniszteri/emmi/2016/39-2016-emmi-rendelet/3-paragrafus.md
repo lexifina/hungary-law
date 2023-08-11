@@ -22,16 +22,16 @@ i) a felek közötti együttműködés szabályait.
 
 (3) A csatlakozást a csatlakozó adatkezelő az általa megfelelően aláírt csatlakozási dokumentáció benyújtásával a működtetőnél kezdeményezi.
 
-(4)[^7] A működtető a (3) bekezdés szerint benyújtott csatlakozási dokumentációt annak beérkezését követően megvizsgálja, és ellenőrzi, hogy a csatlakozó adatkezelő az Eüak. és az e rendelet alapján jogosult-e csatlakozásra, az EESZT szolgáltatásainak igénybevételére. A működtető a csatlakozó adatkezelőt szükség esetén a hiányok pótlására hívja fel. A csatlakozási folyamat a csatlakozási dokumentáció hiánytalan benyújtásával teljesül.
+(4)[^5] A működtető a (3) bekezdés szerint benyújtott csatlakozási dokumentációt annak beérkezését követően megvizsgálja, és ellenőrzi, hogy a csatlakozó adatkezelő az Eüak. és az e rendelet alapján jogosult-e csatlakozásra, az EESZT szolgáltatásainak igénybevételére. A működtető a csatlakozó adatkezelőt szükség esetén a hiányok pótlására hívja fel. A csatlakozási folyamat a csatlakozási dokumentáció hiánytalan benyújtásával teljesül.
 
-(5)[^8] A csatlakozó adatkezelő az EESZT adatszolgáltatás megkezdéséhez szükséges kötelezettségeinek teljesítését haladéktalanul jelzi a működtető számára, amely az ezt követő harminc napon belül elvégzi csatlakozás sikeres teljesítésének ellenőrzésére szolgáló teszteket és vizsgálatokat.
+(5)[^6] A csatlakozó adatkezelő az EESZT adatszolgáltatás megkezdéséhez szükséges kötelezettségeinek teljesítését haladéktalanul jelzi a működtető számára, amely az ezt követő harminc napon belül elvégzi csatlakozás sikeres teljesítésének ellenőrzésére szolgáló teszteket és vizsgálatokat.
 
-(6)[^9] Ha a csatlakozó adatkezelő valamely műszaki vagy egyéb feltételt nem teljesít, a működtető a műszaki hiba vagy a nem teljesített követelmény megjelölésével felhívja a csatlakozó adatkezelőt a hiba megszüntetésére vagy a követelmény teljesítésére. A hiba megszüntetésének vagy a követelmény teljesítésének beálltáig az EESZT adatszolgáltatás nem kezdhető meg.
+(6)[^7] Ha a csatlakozó adatkezelő valamely műszaki vagy egyéb feltételt nem teljesít, a működtető a műszaki hiba vagy a nem teljesített követelmény megjelölésével felhívja a csatlakozó adatkezelőt a hiba megszüntetésére vagy a követelmény teljesítésére. A hiba megszüntetésének vagy a követelmény teljesítésének beálltáig az EESZT adatszolgáltatás nem kezdhető meg.
 
 (7) Ha a csatlakozó adatkezelő minden, a működtető által előírt műszaki és egyéb feltételt teljesít, a működtető ennek megállapítását követő nyolc napon belül kiállítja a 2. § (2) bekezdése szerinti igazolást.
 
 (8) A csatlakozó adatkezelő a jogszabályban meghatározott kötelezettségeit az EESZT útján csak azt követően teljesítheti, hogy a csatlakozással kapcsolatos követelményeket teljesítette, és az erre vonatkozó igazolást megkapta.
 
-[^7]: A 3. § (4) bekezdése a 23/2019. (X. 15.) EMMI rendelet 3. § b) pontja szerint módosított szöveg.
-[^8]: A 3. § (5) bekezdése a 23/2019. (X. 15.) EMMI rendelet 3. § c) pontja szerint módosított szöveg.
-[^9]: A 3. § (6) bekezdése a 23/2019. (X. 15.) EMMI rendelet 3. § d) pontja szerint módosított szöveg.
+[^5]: A 3. § (4) bekezdése a 23/2019. (X. 15.) EMMI rendelet 3. § b) pontja szerint módosított szöveg.
+[^6]: A 3. § (5) bekezdése a 23/2019. (X. 15.) EMMI rendelet 3. § c) pontja szerint módosított szöveg.
+[^7]: A 3. § (6) bekezdése a 23/2019. (X. 15.) EMMI rendelet 3. § d) pontja szerint módosított szöveg.

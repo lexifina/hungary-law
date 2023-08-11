@@ -1,4 +1,4 @@
-## 13/D. [^18] Határon átnyúló egészségügyi ellátáshoz kapcsolódó információcsere
+## 13/D. [^16] Határon átnyúló egészségügyi ellátáshoz kapcsolódó információcsere
 
 20/E. § (1) A működtető a határon átnyúló egészségügyi ellátáshoz kapcsolódó jogok érvényesítése érdekében kijelölt nemzeti kapcsolattartó szervként az Eüak. 4. § (2) bekezdés zs) pontja szerinti célból, az erre a célra kialakított biztonságos informatikai kapcsolat útján biztosítja a más tagállamokban működő nemzeti kapcsolattartó szervekkel történő információcserét.
 
@@ -14,4 +14,4 @@
 
 (7) A működtető a határon átnyúló egészségügyi ellátáshoz kapcsolódó jogok érvényesítése érdekében végzett adatkezelési műveleteket az Eüak. 35/D. §-a szerinti nyilvántartásban rögzíti, és a rögzített adatokat az érintett részére az EESZT közvetlen hozzáférési felületén elérhetővé teszi.
 
-[^18]: A 13/D. alcímet (20/E. §) a 6/2022. (II. 15.) EMMI rendelet 2. §-a iktatta be.
+[^16]: A 13/D. alcímet (20/E. §) a 6/2022. (II. 15.) EMMI rendelet 2. §-a iktatta be.
