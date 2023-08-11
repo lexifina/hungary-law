@@ -1,6 +1,6 @@
-6. számú melléklet a 74/1999. (XII. 25.) EüM rendelethez[^89]
+6. számú melléklet a 74/1999. (XII. 25.) EüM rendelethez[^90]
 
-## Az elismert természetes ásványvizek vizsgálati követelményei
+Az elismert természetes ásványvizek vizsgálati követelményei
 
 1. Helyszíni vizsgálatok a következők tekintetében:
 
@@ -128,4 +128,4 @@ A Budapest Főváros Kormányhivatala által az adott évben az ivóvízre elő�
 
 * Palackozási célú felhasználás esetén a vizsgálatokat 250 ml-ből kell elvégezni.
 
-[^89]: A 6. számú mellékletet a 11/2014. (II. 24.) EMMI rendelet 22. § (3) bekezdése iktatta be, szövege az 54/2016. (XII. 30.) EMMI rendelet 13. § e) és l) pontja szerint módosított szöveg.
+[^90]: A 6. számú mellékletet a 11/2014. (II. 24.) EMMI rendelet 22. § (3) bekezdése iktatta be, szövege az 54/2016. (XII. 30.) EMMI rendelet 13. § e) és l) pontja szerint módosított szöveg.

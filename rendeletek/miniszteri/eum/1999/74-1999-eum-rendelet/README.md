@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-74-20-0
 | 2015-04-29 | 1999-74-20-0B.16 | 37/2009. (XI. 5.) EüM rendelet |
 | 2017-04-01 | 1999-74-20-0B.17 | 54/2016. (XII. 30.) EMMI rendelet |
 | 2018-11-01 | 1999-74-20-0B.18 | 37/2009. (XI. 5.) EüM rendelet |
+| 2023-08-11 | 1999-74-20-0B.19 | 37/2009. (XI. 5.) EüM rendelet |

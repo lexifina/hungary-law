@@ -8,9 +8,9 @@
 
 ## a) természetesen vagy védelmi intézkedésekkel védett, felszín alatti vízadó rétegből származik,
 
-## b)[^70] eredeténél fogva tiszta, antropogén szennyeződéstől mentes,
+## b)[^71] eredeténél fogva tiszta, antropogén szennyeződéstől mentes,
 
-## c)[^71] az adott felhasználási formában mikrobiológiai, fiziko-kémiai és radioaktív tulajdonságait tekintve az emberi egészségre ártalmatlan,
+## c)[^72] az adott felhasználási formában mikrobiológiai, fiziko-kémiai és radioaktív tulajdonságait tekintve az emberi egészségre ártalmatlan,
 
 ## d) összetétele, oldott szilárd ásványi anyag tartalma a víznyerő helyen – a természetes ingadozás határain belül – közel állandó, és
 
@@ -20,7 +20,7 @@
 
 ## Litium-ion legalább 5 mg/l
 
-## Szulfid[^72]-ion vagy titrálható kén legalább 1 mg/l
+## Szulfid[^73]-ion vagy titrálható kén legalább 1 mg/l
 
 ## Bromid-ion legalább 5 mg/l
 
@@ -32,9 +32,9 @@
 
 ## Szabad széndioxid legalább 1000 mg/l
 
-## eb)[^73] belsőleg történő felhasználásban:
+## eb)[^74] belsőleg történő felhasználásban:
 
-## Nátrium-ion kevesebb 200[^74] mg/l-nél
+## Nátrium-ion kevesebb 200[^75] mg/l-nél
 
 ## Magnézium-ion legalább 20 mg/l
 
@@ -66,7 +66,7 @@
 
 ## Korlátozással fogyasztható az az ásványvíz, amely ásványi anyagokat és/vagy biológiai aktív természetes anyagokat olyan mennyiségben tartalmaz, hogy annak fogyasztása kisebb mennyiségben előnyös, de nagyobb mennyiségben nem kívánatos lehet és ezért fogyasztását korlátozni szükséges.
 
-## 3.[^75] Belsőleg (ivásra, inhalálásra, palackozási célra) az az elismert ásványvíz használható fel,
+## 3.[^76] Belsőleg (ivásra, inhalálásra, palackozási célra) az az elismert ásványvíz használható fel,
 
 ## a) amely az elnevezési engedélye szerint belsőleg történő felhasználásra alkalmas,
 
@@ -102,9 +102,9 @@
 
 ## a) gasztroenterológiai orvosi szakvélemény alapján a címkén fel kell tüntetni a javallatokat, ellenjavallatokat és a fogyasztási előírásokat,
 
-## b)[^76] minden további eltérés csak a gyógyvíz elnevezési engedélyében meghatározott, a Budapest Főváros Kormányhivatala által adott egyedi felmentés alapján lehetséges.
+## b)[^77] minden további eltérés csak a gyógyvíz elnevezési engedélyében meghatározott, a Budapest Főváros Kormányhivatala által adott egyedi felmentés alapján lehetséges.
 
-## III.[^77] A természetes ásványvíz és gyógyvíz törzsadatlapjának tartalma
+## III.[^78] A természetes ásványvíz és gyógyvíz törzsadatlapjának tartalma
 
 ## Általános adatok:
 
@@ -124,9 +124,9 @@
 
 ## 3. Az üzemeltető neve, címe
 
-## 4.[^78] Vízjogi létesítési vagy üzemeltetési engedély
+## 4.[^79] Vízjogi létesítési vagy üzemeltetési engedély
 
-## 4.1[^79] Kiadó vízügyi hatóság
+## 4.1[^80] Kiadó vízügyi hatóság
 
 ## 4.2 Az engedély száma, kelte
 
@@ -192,7 +192,7 @@
 
 ## 2. A kútfej/forrásfoglalás műszaki rajza (M=1:50).
 
-## 3.[^80] A minősítendő vizet adó víznyerőhely vízjogi üzemeltetési engedélyének másolata. Ennek hiányában a vízjogi létesítési engedély másolata, amely tartalmazza a kitermelni kívánt (lekötött) vízmennyiséget.
+## 3.[^81] A minősítendő vizet adó víznyerőhely vízjogi üzemeltetési engedélyének másolata. Ennek hiányában a vízjogi létesítési engedély másolata, amely tartalmazza a kitermelni kívánt (lekötött) vízmennyiséget.
 
 ## 4. A víznyerőhely vízföldtani (hidrogeológiai) naplója.
 
@@ -254,19 +254,21 @@
 
 ## 5. Ásványvíz vizsgálatra akkreditált laboratórium helyszíni és a törzskönyvezéshez szükséges teljes körű laboratóriumi vizsgálatának eredménye, mely a kérelem benyújtásától számított egy éven belül, a kút üzemszerű állapotában történt mintavétel alapján készült.
 
-## 6.[^81] Az NNK közegészségügyi szempontú szakvéleménye teljes körű laboratóriumi vizsgálati eredmények alapján.
+## 6.[^82] Az NNGYK közegészségügyi szempontú szakvéleménye teljes körű laboratóriumi vizsgálati eredmények alapján.
 
 3. számú melléklet a 74/1999. (XII. 25.) EüM rendelethez
 
-[^70]: A 2. számú melléklet I. rész 1. pont b) alpontja a 11/2014. (II. 24.) EMMI rendelet 22. § (1) bekezdésével megállapított szöveg.
-[^71]: A 2. számú melléklet I. rész 1. pont c) alpontja a 11/2014. (II. 24.) EMMI rendelet 22. § (1) bekezdésével megállapított szöveg.
-[^72]: A Magyar Közlöny 2000. számában közzétett helyesbítésnek megfelelő szöveg.
-[^73]: A 2. számú melléklet I. rész 1. pont e) pont eb) alpontja a 11/2014. (II. 24.) EMMI rendelet 22. § (1) bekezdése szerint módosított szöveg.
-[^74]: A Magyar Közlöny 2000. számában közzétett helyesbítésnek megfelelő szöveg.
-[^75]: A 2. számú melléklet I. pont 3. alpontjának utolsó mondatát a 17/2002. (IV. 12.) EüM rendelet 2. §-a hatályon kívül helyezte.
-[^76]: A 2. számú melléklet II. alcím 4. pont b) alpontja a 37/2009. (XI. 5.) Eüm rendelet 11. § (1) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 13. § c) pontja szerint módosított szöveg.
-[^77]: A 2. számú melléklet III. pontja a 12/2008. (III. 26.) EüM rendelet 5. § (3) bekezdése a) pontjának ac) alpontja szerint módosított szöveg.
-[^78]: A 2. számú melléklet III. rész 4. pontja a 11/2014. (II. 24.) EMMI rendelet 22. § (1) bekezdése szerint módosított szöveg.
-[^79]: A 2. számú melléklet III. pont 4.1 alpontja a 3/2012. (I. 3.) NEFMI rendelet 8. § (3) bekezdése szerint módosított szöveg.
-[^80]: A 2. számú melléklet III. rész „Mellékletek (két példányban kell benyújtani):” alcím 3. pontja a 11/2014. (II. 24.) EMMI rendelet 22. § (1) bekezdésével megállapított szöveg.
-[^81]: A 2. számú melléklet III. rész „Mellékletek (két példányban kell benyújtani):” alcím 6. pontját a 37/2009. (XI. 5.) EüM rendelet 11. § (2) bekezdése hatályon kívül helyezte, újonnan a 11/2014. (II. 24.) EMMI rendelet 22. § (1) bekezdése iktatta be, szövege a 38/2018. (X. 31.) EMMI rendelet 3. § b) pontja szerint módosított szöveg.
+Természetes gyógyiszap, kitermelése, csomagolása és a törzsadatlap tartalma
+
+[^71]: A 2. számú melléklet I. rész 1. pont b) alpontja a 11/2014. (II. 24.) EMMI rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^72]: A 2. számú melléklet I. rész 1. pont c) alpontja a 11/2014. (II. 24.) EMMI rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^73]: A Magyar Közlöny 2000. számában közzétett helyesbítésnek megfelelő szöveg.
+[^74]: A 2. számú melléklet I. rész 1. pont e) pont eb) alpontja a 11/2014. (II. 24.) EMMI rendelet 22. § (1) bekezdése szerint módosított szöveg.
+[^75]: A Magyar Közlöny 2000. számában közzétett helyesbítésnek megfelelő szöveg.
+[^76]: A 2. számú melléklet I. pont 3. alpontjának utolsó mondatát a 17/2002. (IV. 12.) EüM rendelet 2. §-a hatályon kívül helyezte.
+[^77]: A 2. számú melléklet II. alcím 4. pont b) alpontja a 37/2009. (XI. 5.) Eüm rendelet 11. § (1) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 13. § c) pontja szerint módosított szöveg.
+[^78]: A 2. számú melléklet III. pontja a 12/2008. (III. 26.) EüM rendelet 5. § (3) bekezdése a) pontjának ac) alpontja szerint módosított szöveg.
+[^79]: A 2. számú melléklet III. rész 4. pontja a 11/2014. (II. 24.) EMMI rendelet 22. § (1) bekezdése szerint módosított szöveg.
+[^80]: A 2. számú melléklet III. pont 4.1 alpontja a 3/2012. (I. 3.) NEFMI rendelet 8. § (3) bekezdése szerint módosított szöveg.
+[^81]: A 2. számú melléklet III. rész „Mellékletek (két példányban kell benyújtani):” alcím 3. pontja a 11/2014. (II. 24.) EMMI rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^82]: A 2. számú melléklet III. rész „Mellékletek (két példányban kell benyújtani):” alcím 6. pontját a 37/2009. (XI. 5.) EüM rendelet 11. § (2) bekezdése hatályon kívül helyezte, újonnan a 11/2014. (II. 24.) EMMI rendelet 22. § (1) bekezdése iktatta be, szövege a 28/2023. (VIII. 10.) BM rendelet 8. § (2) bekezdés a) pontja szerint módosított szöveg.

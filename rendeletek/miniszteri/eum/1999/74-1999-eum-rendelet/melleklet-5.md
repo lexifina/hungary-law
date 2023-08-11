@@ -1,5 +1,3 @@
-## Egyéb természetes gyógytényezők és a törzsadatlap tartalma
-
 ## 1. A talajból nyert – természetesen előforduló vagy mesterségesen feltárt – feltételezett gyógyhatással rendelkező anyagnak (pl. gáznak) gyógyhatásra utalással gyógyászati célra való felhasználása akkor engedélyezhető, ha
 
 ## a) összetétele ismert és közel állandó,
@@ -10,9 +8,9 @@
 
 ## 2. Az 1. a)–c) pontokban foglaltak igazolására az engedély iránti kérelemhez csatolni kell
 
-## a)[^84] egy akkreditált laboratórium egy évnél nem régebbi helyszíni akkreditált mintavételen alapuló elemzését és értékelő szakvéleményét az 1. a)–b) pontban foglaltakra vonatkozóan,
+## a)[^85] egy akkreditált laboratórium egy évnél nem régebbi helyszíni akkreditált mintavételen alapuló elemzését és értékelő szakvéleményét az 1. a)–b) pontban foglaltakra vonatkozóan,
 
-## b)[^85]
+## b)[^86]
 
 ## c) a gyógyhatást igazoló orvosi megfigyelések eredményének értékelését (ami kiterjed az ártalmatlanság igazolására, a javallatok és ellenjavallatok meghatározására, valamint a rendeltetésszerű gyógyászati felhasználás feltételeinek részletes leírására).
 
@@ -26,13 +24,13 @@
 
 ## a) az Országos Meteorológiai Szolgálat (OMSZ) éghajlati szakvéleménye a helyszínen működő vagy a leendő hasznosító költségére telepített klímaállomás mérési eredményei alapján,
 
-## b)[^86]
+## b)[^87]
 
 ## c) orvosi szakvélemény a gyógyhatást bizonyító megfigyelések eredményeiről,
 
 ## 5. Az éghajlat mint környezeti adottság [3. b) pont] egy terület gyógyhellyé nyilvánítása szempontjából bír jelentőséggel és az OMSZ szakvéleménye alapján bírálható el.
 
-## 6.[^87] Időszakos ellenőrző vizsgálat
+## 6.[^88] Időszakos ellenőrző vizsgálat
 
 ## Az éghajlat mint természetes gyógytényező jellemzőit a helyszíni klímaállomások által az OMSZ utasításai és felügyelete mellett folyamatosan ellenőrizni kell.
 
@@ -68,7 +66,7 @@
 
 ## 7. A kitermelés felelős vezetőjének szakképesítése.
 
-5. számú melléklet a 74/1999. (XII. 25.) EüM rendelethez[^88]
+5. számú melléklet a 74/1999. (XII. 25.) EüM rendelethez[^89]
 
 1. A gyógyhely megnevezés használat engedélyezéséhez szükséges levegőtisztasági mérések követelményei:
 
@@ -82,8 +80,8 @@
 
 1.2.2. Meteorológiai paraméterek (hőmérséklet, nyomás, szélsebesség, szélirány, relatív nedvességtartalom)
 
-[^84]: A 4. számú melléklet 2. pont a) alpontja a 37/2009. (XI. 5.) EüM rendelet 11. § (1) bekezdése szerint módosított szöveg, e módosító rendelet 12. § (1) bekezdése alapján a 2009. november 20. után benyújtott kérelmek elbírálása vagy megismételt eljárások során kell alkalmazni.
-[^85]: A 4. számú melléklet 2. pont b) alpontját a 37/2009. (XI. 5.) EüM rendelet 11. § (2) bekezdése hatályon kívül helyezte, e módosító rendelet 12. § (1) bekezdése alapján a 2009. november 20. után benyújtott kérelmek elbírálása vagy megismételt eljárások során kell alkalmazni.
-[^86]: A 4. számú melléklet 4. pont b) alpontját a 37/2009. (XI. 5.) EüM rendelet 11. § (2) bekezdése hatályon kívül helyezte, e módosító rendelet 12. § (1) bekezdése alapján a 2009. november 20. után benyújtott kérelmek elbírálása vagy megismételt eljárások során kell alkalmazni.
-[^87]: A 4. számú melléklet 6. pontja a 12/2008. (III. 26.) EüM rendelet 5. § (3) bekezdése a) pontjának aa) alpontja, a 37/2009. (XI. 5.) EüM rendelet 11. § (1) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 13. § c) pontja szerint módosított szöveg.
-[^88]: Az 5. számú mellékletet a 11/2014. (II. 24.) EMMI rendelet 22. § (2) bekezdése iktatta be.
+[^85]: A 4. számú melléklet 2. pont a) alpontja a 37/2009. (XI. 5.) EüM rendelet 11. § (1) bekezdése szerint módosított szöveg, e módosító rendelet 12. § (1) bekezdése alapján a 2009. november 20. után benyújtott kérelmek elbírálása vagy megismételt eljárások során kell alkalmazni.
+[^86]: A 4. számú melléklet 2. pont b) alpontját a 37/2009. (XI. 5.) EüM rendelet 11. § (2) bekezdése hatályon kívül helyezte, e módosító rendelet 12. § (1) bekezdése alapján a 2009. november 20. után benyújtott kérelmek elbírálása vagy megismételt eljárások során kell alkalmazni.
+[^87]: A 4. számú melléklet 4. pont b) alpontját a 37/2009. (XI. 5.) EüM rendelet 11. § (2) bekezdése hatályon kívül helyezte, e módosító rendelet 12. § (1) bekezdése alapján a 2009. november 20. után benyújtott kérelmek elbírálása vagy megismételt eljárások során kell alkalmazni.
+[^88]: A 4. számú melléklet 6. pontja a 12/2008. (III. 26.) EüM rendelet 5. § (3) bekezdése a) pontjának aa) alpontja, a 37/2009. (XI. 5.) EüM rendelet 11. § (1) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 13. § c) pontja szerint módosított szöveg.
+[^89]: Az 5. számú mellékletet a 11/2014. (II. 24.) EMMI rendelet 22. § (2) bekezdése iktatta be.
