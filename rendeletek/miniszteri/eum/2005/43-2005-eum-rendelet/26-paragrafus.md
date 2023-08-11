@@ -1,6 +1,4 @@
-## 25. §[^117] A gyógyszertár, illetve az egészségügyi intézmény vezetője fokozottan ellenőrzött szerrel történő visszaélés gyanúja esetén az illetékes kábítószer rendészetnél bejelentést tesz, egyidejűleg értesíti az OGYÉI-t is. Az OGYÉI a bejelentést haladéktalanul kivizsgálja, és megteszi a szükséges intézkedéseket.
-
-26. § (1)[^118] Az OGYÉI
+26. § (1)[^118] Az NNGYK
 
 a) a forgalomba hozatalra engedélyezett kábítószert és pszichotrop anyagot tartalmazó gyógyszerek teljes körének (2) bekezdés szerinti adatait legalább évente egy alkalommal, valamint az
 
@@ -22,7 +20,6 @@ e)[^120] BM rendelet 1. melléklet szerinti besorolását;
 
 f) bevitelét megtiltó országok megjelölését.
 
-[^117]: A 25. § a 47/2015. (X. 19.) EMMI rendelet 18. §-ával megállapított szöveg.
-[^118]: A 26. § (1) bekezdés nyitó szövegrésze a 20/2010. (IV. 29.) EüM rendelet 9. § (2) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 74. § f) pontja szerint módosított szöveg.
+[^118]: A 26. § (1) bekezdés nyitó szövegrésze a 20/2010. (IV. 29.) EüM rendelet 9. § (2) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 74. § f) pontja, a 28/2023. (VIII. 10.) BM rendelet 34. § b) pontja szerint módosított szöveg.
 [^119]: A 26. § (2) bekezdésének d) pontját a 44/2008. (XI. 28.) EüM rendelet 8. § (6) bekezdése hatályon kívül helyezte.
 [^120]: A 26. § (2) bekezdés e) pontja a 78/2022. (XII. 28.) BM rendelet 6. § d) pontja szerint módosított szöveg.

@@ -20,7 +20,7 @@ tünteti fel.
 
 (7)[^24] A fokozottan ellenőrzött szernek minősülő, forgalomba hozatalra engedélyezett gyógyszerek esetében az adagolás tekintetében a jóváhagyott alkalmazási előírás az irányadó. Az abban foglalt adagolási utasítástól eltérni abban az esetben lehet, ha a túllépést az orvos papíralapú vényen felkiáltójellel jelölte és aláírásával, valamint bélyegzőjével külön igazolja. Elektronikus vény esetében a jelölés a vényíró szoftver segítségével, elektronikusan történik.
 
-(8)[^25] Ha az orvos magisztrális készítmény felírásakor a fokozottan ellenőrzött szert a mindenkor hatályos Gyógyszerkönyvben, illetve az OGYÉI közleményében meghatározott, illetve forgalomba hozatalra engedélyezett gyógyszer felírásakor az alkalmazási előírásban megjelölt legnagyobb egyszeri, illetve napi adagnál nagyobb mennyiségben rendeli, a fokozottan ellenőrzött szer adagolására vonatkozó adatokat a papíralapú vényen felkiáltójellel jelöli és aláírásával, valamint bélyegzőjével külön igazolja. Elektronikus vény esetében a jelölés a vényíró szoftver segítségével, elektronikusan történik.
+(8)[^25] Ha az orvos magisztrális készítmény felírásakor a fokozottan ellenőrzött szert a mindenkor hatályos Gyógyszerkönyvben, illetve az NNGYK közleményében meghatározott, illetve forgalomba hozatalra engedélyezett gyógyszer felírásakor az alkalmazási előírásban megjelölt legnagyobb egyszeri, illetve napi adagnál nagyobb mennyiségben rendeli, a fokozottan ellenőrzött szer adagolására vonatkozó adatokat a papíralapú vényen felkiáltójellel jelöli és aláírásával, valamint bélyegzőjével külön igazolja. Elektronikus vény esetében a jelölés a vényíró szoftver segítségével, elektronikusan történik.
 
 (9)[^26] Kizárólag intézeti gyógyszertárban alkalmazható megrendelőlappal rendelhetnek fokozottan ellenőrzött szert a járó- és fekvőbeteg szakellátást nyújtó egészségügyi szolgáltatók, valamint az orvosi ügyeletek.
 
@@ -34,6 +34,6 @@ tünteti fel.
 [^22]: A 3. § (5) bekezdése az 56/2013. (VII. 31.) EMMI rendelet 24. § e) pontja szerint módosított szöveg.
 [^23]: A 3. § (6) bekezdése az 56/2013. (VII. 31.) EMMI rendelet 24. § c) pontja szerint módosított szöveg.
 [^24]: A 3. § (7) bekezdése a 29/2017. (X. 31.) EMMI rendelet 19. §-ával megállapított szöveg.
-[^25]: A 3. § (8) bekezdése a 29/2017. (X. 31.) EMMI rendelet 19. §-ával megállapított szöveg.
+[^25]: A 3. § (8) bekezdése a 29/2017. (X. 31.) EMMI rendelet 19. §-ával megállapított, a 28/2023. (VIII. 10.) BM rendelet 34. § b) pontja szerint módosított szöveg.
 [^26]: A 3. § (9) bekezdése a 44/2008. (XI. 28.) EüM rendelet 3. §-ával megállapított, az 52/2012. (XII. 27.) EMMI rendelet 22. § c) pontja, az 56/2013. (VII. 31.) EMMI rendelet 24. § a) pontja szerint módosított szöveg.
 [^27]: A 3. § (10) bekezdését a 41/2011. (VII. 5.) NEFMI rendelet 19. § (2) bekezdése iktatta be.

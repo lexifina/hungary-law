@@ -8,10 +8,10 @@
 
 (4)[^85] A törött, kiszóródott fokozottan ellenőrzött anyagot össze kell gyűjteni és tárolását a 16. § (1) bekezdés szerint kell biztosítani.
 
-(5)[^86] Ha a közforgalmú gyógyszertár rendészeti ellenőrzésekor valamely fokozottan ellenőrzött szer készletében a 14. §-ban meghatározott hiányon felüli hiány mutatkozik, a hatóság jegyzőkönyvet vesz fel és értesíti az OGYÉI-t.
+(5)[^86] Ha a közforgalmú gyógyszertár rendészeti ellenőrzésekor valamely fokozottan ellenőrzött szer készletében a 14. §-ban meghatározott hiányon felüli hiány mutatkozik, a hatóság jegyzőkönyvet vesz fel és értesíti az NNGYK-t.
 
 [^82]: A 14. § az 56/2013. (VII. 31.) EMMI rendelet 24. § c) pontja szerint módosított szöveg.
 [^83]: A 15. § (1) bekezdése az 56/2013. (VII. 31.) EMMI rendelet 24. § c) pontja szerint módosított szöveg.
 [^84]: A 15. § (3) bekezdése az 56/2013. (VII. 31.) EMMI rendelet 19. § (1) bekezdésével megállapított szöveg.
 [^85]: A 15. § (4) bekezdése az 56/2013. (VII. 31.) EMMI rendelet 24. § a) pontja szerint módosított szöveg.
-[^86]: A 15. § (5) bekezdése az 56/2013. (VII. 31.) EMMI rendelet 19. § (2) bekezdésével megállapított, a 47/2015. (X. 19.) EMMI rendelet 19. § c) pontja szerint módosított szöveg.
+[^86]: A 15. § (5) bekezdése az 56/2013. (VII. 31.) EMMI rendelet 19. § (2) bekezdésével megállapított, a 47/2015. (X. 19.) EMMI rendelet 19. § c) pontja, a 28/2023. (VIII. 10.) BM rendelet 34. § c) pontja szerint módosított szöveg.
