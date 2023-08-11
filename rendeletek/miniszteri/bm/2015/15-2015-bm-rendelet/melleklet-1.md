@@ -266,7 +266,7 @@ C)[^46] Központi hivatalok
 
 4.6. a biztonságszervezési, védelmi feladatokat ellátó, valamint az elektronikus információs rendszer biztonsági, üzemeltetési és fejlesztési feladatainak ellátását szolgáló álláshely
 
-5.[^50] A Nemzeti Népegészségügyi Központnál
+5.[^50] A Nemzeti Népegészségügyi és Gyógyszerészeti Központnál
 
 5.1. a gyorsreagálási, a humánpolitikai, az igazgatási és a járványügyi feladatokat ellátó szervezeti egység vezetője
 
@@ -390,7 +390,7 @@ D) Központi államigazgatási szervnek nem minősülő költségvetési szervek
 [^47]: Az 1. melléklet C) rész 2. pontját újonnan a 36/2022. (X. 19.) BM rendelet 3. §-a iktatta be.
 [^48]: Az 1. melléklet C) rész 3. pontját a 36/2022. (X. 19.) BM rendelet 3. §-a iktatta be.
 [^49]: Az 1. melléklet C) rész 4. pontját a 36/2022. (X. 19.) BM rendelet 3. §-a iktatta be.
-[^50]: Az 1. melléklet C) rész 5. pontját a 36/2022. (X. 19.) BM rendelet 3. §-a iktatta be.
+[^50]: Az 1. melléklet C) rész 5. pontját a 36/2022. (X. 19.) BM rendelet 3. §-a iktatta be, szövege a 28/2023. (VIII. 10.) BM rendelet 73. §-ával megállapított szöveg.
 [^51]: Az 1. melléklet C) rész 6. pontját a 36/2022. (X. 19.) BM rendelet 3. §-a iktatta be.
 [^52]: Az 1. melléklet D) rész 1. pontja a 31/2019. (VII. 30.) BM rendelet 2. §-ával megállapított szöveg.
 [^53]: Az 1. melléklet d) pont 2. alpontja a 18/2020. (VI. 30.) BM rendelet 9. §-a szerint módosított szöveg.
