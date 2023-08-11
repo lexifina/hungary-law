@@ -440,9 +440,9 @@
 
 | 1 | Intézet | Számlaszám |
 
-| 2 | Nemzeti Népegészségügyi Központ | 10032000-00290438-00000000 |
+| 2 | NNGYK | 10032000-00290438-00000000 |
 
-| 3 | Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet | 10032000-00290050-00000000 |
+| 3 |  |  |
 
 | 4 | Belügyminisztérium | 10032000-01483305 |
 
@@ -488,4 +488,4 @@
 
 | 24 | Zala Vármegyei Kormányhivatal | 10049006-00303066-00000000 |
 
-[^15]: A 2. melléklet a 38/2018. (X. 31.) EMMI rendelet 13. §-ával megállapított, a 21/2021. (VI. 8.) EMMI rendelet 10. § (1) bekezdése, a 48/2022. (XII. 27.) BM rendelet 6. § b) pontja, az 52/2022. (XII. 27.) BM rendelet 18. §-a szerint módosított szöveg.
+[^15]: A 2. melléklet a 38/2018. (X. 31.) EMMI rendelet 13. §-ával megállapított, a 21/2021. (VI. 8.) EMMI rendelet 10. § (1) bekezdése, a 48/2022. (XII. 27.) BM rendelet 6. § b) pontja, az 52/2022. (XII. 27.) BM rendelet 18. §-a, a 28/2023. (VIII. 10.) BM rendelet 49. § b) pontja és 50. §-a szerint módosított szöveg.
