@@ -36,7 +36,7 @@ b) javaslatot tesz új védőoltások bevezetésére,
 
 c) elemzi és értékeli az ország lakosságára vonatkozó átoltottságot,
 
-d)[^101] súlyos oltási szövődmény vagy oltási baleset előfordulásakor helyszíni vizsgálatot végez, továbbá a Nemzeti Népegészségügyi Központ (a továbbiakban: NNK) laboratóriumában vizsgálja a szövődményt vagy reakciót okozott oltóanyagot.
+d)[^101] súlyos oltási szövődmény vagy oltási baleset előfordulásakor helyszíni vizsgálatot végez, továbbá az NNGYK laboratóriumában vizsgálja a szövődményt vagy reakciót okozott oltóanyagot.
 
 (4)[^102] Az országos tisztifőorvos
 
@@ -68,7 +68,7 @@ g) értékeli a kormányhivatalok védőoltási munkáját.
 [^98]: A 16. § (2) bekezdésének b) pontja a 33/2006. (VIII. 23.) EüM rendelet 5. § (2) bekezdésével megállapított szöveg.
 [^99]: A 16. § (2) bekezdés d) pontja a 23/2015. (IV. 28.) EMMI rendelet 17. § k) pontja szerint módosított szöveg.
 [^100]: A 16. § (3) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 8. § (1) bekezdésével megállapított, nyitó szövegrésze a 38/2018. (X. 31.) EMMI rendelet 2. § (2) bekezdés e) pontja szerint módosított szöveg.
-[^101]: A 16. § (3) bekezdés d) pontja a 38/2018. (X. 31.) EMMI rendelet 2. § (1) bekezdés 1. pontja szerint módosított szöveg.
+[^101]: A 16. § (3) bekezdés d) pontja a 28/2023. (VIII. 10.) BM rendelet 6. § 2. pontja szerint módosított szöveg.
 [^102]: A 16. § (4) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 8. § (1) bekezdésével megállapított szöveg.
 [^103]: A 16. § (4) bekezdés c) pontja a 38/2018. (X. 31.) EMMI rendelet 2. § (2) bekezdés f) pontja szerint módosított szöveg.
 [^104]: A 16. § (5) bekezdését a 39/2009. (XI. 19.) EüM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 21/2012. (IV. 4.) NEFMI rendelet 26. § c) pontja.

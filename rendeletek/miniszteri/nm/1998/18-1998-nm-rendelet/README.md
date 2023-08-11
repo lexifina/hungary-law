@@ -35,3 +35,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-18-20-3
 | 2021-05-22 | 1998-18-20-3D.44 | 18/2021. (V. 21.) EMMI rendelet |
 | 2021-06-09 | 1998-18-20-3D.45 | 30/2009. (X. 14.) EüM rendelet |
 | 2023-01-01 | 1998-18-20-3D.46 | 45/2022. (XII. 20.) BM rendelet |
+| 2023-08-11 | 1998-18-20-3D.47 | 28/2023. (VIII. 10.) BM rendelet |

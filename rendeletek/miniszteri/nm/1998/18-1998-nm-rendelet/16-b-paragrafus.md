@@ -22,7 +22,7 @@ b) a hatósági járványügyi intézkedések laboratóriumi megalapozása, rés
 
 c) részvétel az oktatásban és képzésben, valamint járványügyi témájú kutatási programokban.
 
-(3)[^108] A járványügyi feladatok ellátására kijelölt mikrobiológiai laboratóriumok a járványügyi biztonság érdekében kötelesek részt venni az NNK által működtetett járványügyi mikrobiológiai laboratóriumi hálózatban.
+(3)[^108] A járványügyi feladatok ellátására kijelölt mikrobiológiai laboratóriumok a járványügyi biztonság érdekében kötelesek részt venni az NNGYK által működtetett járványügyi mikrobiológiai laboratóriumi hálózatban.
 
 (4) A mikrobiológiai referencia laboratóriumnak vagy járványügyi feladatok ellátására kijelölt mikrobiológiai laboratóriumnak olyan egészségügyi szolgáltató jelölhető ki, amely
 
@@ -35,4 +35,4 @@ c) részt vesz a nemzeti surveillance rendszerekben és járványok kivizsgálá
 d) a feladat elvégzéséhez szükséges megfelelő kapacitással rendelkezik.
 
 [^107]: A 16/B. §-t a 21/2012. (IV. 4.) NEFMI rendelet 11. §-a iktatta be.
-[^108]: A 16/B. § (3) bekezdése a 38/2018. (X. 31.) EMMI rendelet 2. § (1) bekezdés 2. pontja szerint módosított szöveg.
+[^108]: A 16/B. § (3) bekezdése a 28/2023. (VIII. 10.) BM rendelet 6. § 3. pontja szerint módosított szöveg.

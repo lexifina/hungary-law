@@ -20,7 +20,7 @@ c) az 5. § (5) és (7) bekezdése szerinti kampányoltások adatait az oltás b
 
 (7)[^67] A védőoltást követő nemkívánatos eseményeket, beleértve az oltási reakciókat (mellékhatásokat) és oltási baleseteket
 
-a)[^68] az oltó-, illetve észlelő orvos a járási hivatalnak és egyidejűleg az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézetnek,
+a)[^68] az oltó-, illetve észlelő orvos a járási hivatalnak és egyidejűleg a Nemzeti Népegészségügyi és Gyógyszerészeti Központnak (a továbbiakban: NNGYK),
 
 b)[^69] a járási hivatal a kormányhivatalnak,
 
@@ -38,7 +38,7 @@ haladéktalanul jelenti.
 [^65]: A 13. § (5) bekezdése a 21/2012. (IV. 4.) NEFMI rendelet 8. § (1) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 17. § g) pontja, az 54/2016. (XII. 30.) EMMI rendelet 8. § (2) bekezdés 9. pontja, a 38/2018. (X. 31.) EMMI rendelet 2. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^66]: A 13. § (6) bekezdését a 61/1999. (XII. 1.) EüM rendelet 18. § (1) bekezdése hatályon kívül helyezte.
 [^67]: A 13. § (7) bekezdése a 21/2012. (IV. 4.) NEFMI rendelet 8. § (2) bekezdésével megállapított szöveg.
-[^68]: A 13. § (7) bekezdés a) pontja a 23/2015. (IV. 28.) EMMI rendelet 17. § f) és h) pontja szerint módosított szöveg.
+[^68]: A 13. § (7) bekezdés a) pontja a 23/2015. (IV. 28.) EMMI rendelet 17. § f) pontja, a 28/2023. (VIII. 10.) BM rendelet 6. § 1. pontja szerint módosított szöveg.
 [^69]: A 13. § (7) bekezdés b) pontja a 23/2015. (IV. 28.) EMMI rendelet 17. § e) és i) pontja szerint módosított szöveg.
 [^70]: A 13. § (7) bekezdés c) pontja a 23/2015. (IV. 28.) EMMI rendelet 17. § g) pontja, az 54/2016. (XII. 30.) EMMI rendelet 8. § (2) bekezdés 10. pontja, a 38/2018. (X. 31.) EMMI rendelet 2. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^71]: A 13. § (8) bekezdése a 21/2012. (IV. 4.) NEFMI rendelet 8. § (2) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 17. § g) pontja, az 54/2016. (XII. 30.) EMMI rendelet 8. § (2) bekezdés 11. pontja, a 38/2018. (X. 31.) EMMI rendelet 2. § (2) bekezdés c) pontja szerint módosított szöveg.
