@@ -18,11 +18,11 @@
 
 | Országos Korányi Pulmonológiai Intézet | egészségügyért felelős miniszter által vezetett minisztérium, országos tisztifőorvos, Központi Statisztikai Hivatal | a tárgyévet követő március 31. |
 
-| 1209/04 | Jelentés az addiktológiai betegek gondozásáról | évenkénti | valamennyi addiktológiai ellátást végző szolgáltató, tulajdonformától függetlenül | országos tisztifőorvos, Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet | a tárgyévet követő január 31. |
+| 1209/04 | Jelentés az addiktológiai betegek gondozásáról | évenkénti | valamennyi addiktológiai ellátást végző szolgáltató, tulajdonformától függetlenül | Nemzeti Népegészségügyi és Gyógyszerészeti Központ | a tárgyévet követő január 31. |
 
 | országos tisztifőorvos | Kábítószerügyi Koordinációs Tárcaközi Bizottság, Nemzeti Kábítószer Adatgyűjtő és Kapcsolattartó Központ, Központi Statisztikai Hivatal, egészségügyért felelős miniszter által vezetett minisztérium | a tárgyévet követő március 31. |
 
-| 1211/04 | Jelentés a kábítószer- fogyasztókról és kezelésükről | évenkénti | drogambulanciák és drogközpontok, pszichiátriai gondozók, gyermek- és ifjúsági pszichiátriai gondozók, pszichiátriai osztályok és szakambulanciák, krízis intervenciós osztály (osztályok), alkohológiai és addiktológiai gondozók és osztályok, illetve szakambulanciák, drogterápiás intézetek | országos tisztifőorvos, Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet | a tárgyévet követő január 31. |
+| 1211/04 | Jelentés a kábítószer- fogyasztókról és kezelésükről | évenkénti | drogambulanciák és drogközpontok, pszichiátriai gondozók, gyermek- és ifjúsági pszichiátriai gondozók, pszichiátriai osztályok és szakambulanciák, krízis intervenciós osztály (osztályok), alkohológiai és addiktológiai gondozók és osztályok, illetve szakambulanciák, drogterápiás intézetek | Nemzeti Népegészségügyi és Gyógyszerészeti Központ | a tárgyévet követő január 31. |
 
 | igazságügyi orvostani intézetek, orvosszakértői intézetek, Rendőrség Egészségügyi Szolgálata (az utóbbiak kizárólag a mortalitásról) | Semmelweis Egyetem | a tárgyévet követő április 30. |
 
@@ -30,7 +30,7 @@
 
 | egészségügyért felelős miniszter által vezetett minisztérium | Kábítószerügyi Koordinációs Tárcaközi Bizottság, Nemzeti Kábítószer Adatgyűjtő és Kapcsolattartó Központ, Központi Statisztikai Hivatal | a tárgyévet követő június 15. |
 
-| 1213/06 | Kábítószer-fogyasztók kezelési igényének indikátora (TDI) | negyed- évenkénti/ évenkénti | drogambulanciák és drogközpontok, háziorvosok, pszichiátriai és addiktológiai gondozók, gyermek- és ifjúsági pszichiátriai gondozók, pszichiátriai és addiktológiai osztályok és szakambulanciák, krízisintervenciós osztályok, illetve szakambulanciák, drogterápiás intézetek, alacsonyküszöbű szolgáltatók, büntetés-végrehajtási intézetek, elterelést végző szervezetek (megelőző-felvilágosító szolgáltatók, egészségügyi szolgáltatók), igazságügyi orvostani intézetek, orvosszakértői intézetek, Rendőrség Egészségügyi Szolgálata (az utóbbiak kizárólag a mortalitásról) | országos tisztifőorvos, Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet | a tárgynegyedévet követő hónap 15. nap |
+| 1213/06 | Kábítószer-fogyasztók kezelési igényének indikátora (TDI) | negyed- évenkénti/ évenkénti | drogambulanciák és drogközpontok, háziorvosok, pszichiátriai és addiktológiai gondozók, gyermek- és ifjúsági pszichiátriai gondozók, pszichiátriai és addiktológiai osztályok és szakambulanciák, krízisintervenciós osztályok, illetve szakambulanciák, drogterápiás intézetek, alacsonyküszöbű szolgáltatók, büntetés-végrehajtási intézetek, elterelést végző szervezetek (megelőző-felvilágosító szolgáltatók, egészségügyi szolgáltatók), igazságügyi orvostani intézetek, orvosszakértői intézetek, Rendőrség Egészségügyi Szolgálata (az utóbbiak kizárólag a mortalitásról) | Nemzeti Népegészségügyi és Gyógyszerészeti Központ | a tárgynegyedévet követő hónap 15. nap |
 
 | országos tisztifőorvos | egészségügyért felelős miniszter által vezetett minisztérium | a tárgyévet követő március 31. |
 
@@ -38,7 +38,7 @@
 
 | egészségügyért felelős miniszter által vezetett minisztérium | Kábítószerügyi Koordinációs Tárcaközi Bizottság, Nemzeti Kábítószer Adatgyűjtő és Kapcsolattartó Központ, Központi Statisztikai Hivatal, országos tisztifőorvos | a tárgyévet követő május 1. |
 
-| 1214/06 | Jelentés az elterelésben résztvevőkről | negyed- évenkénti/ évenkénti | a büntetőeljárás alternatívájaként egészségügyi vagy megelőző felvilágosító szolgáltatás végzésére jogosult egészségügyi intézmények és megelőző- felvilágosító szolgáltatók | országos tisztifőorvos, Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet | a tárgynegyedévet követő hónap 15. napja |
+| 1214/06 | Jelentés az elterelésben résztvevőkről | negyed- évenkénti/ évenkénti | a büntetőeljárás alternatívájaként egészségügyi vagy megelőző felvilágosító szolgáltatás végzésére jogosult egészségügyi intézmények és megelőző- felvilágosító szolgáltatók | Nemzeti Népegészségügyi és Gyógyszerészeti Központ | a tárgynegyedévet követő hónap 15. napja |
 
 | országos tisztifőorvos | egészségügyért felelős miniszter által vezetett minisztérium | a tárgyévet követő március 31. |
 
@@ -96,7 +96,7 @@
 
 | egészségügyi szolgáltatók |  |  |
 
-| Országos Vérellátó Szolgálat Központja | egészségügyért felelős miniszter által vezetett minisztérium, országos tisztifőorvos, Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet, Állami Egészségügyi Ellátó Központ, Központi Statisztikai Hivatal, népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal | a tárgyévet követő február 28. |
+| Országos Vérellátó Szolgálat Központja | egészségügyért felelős miniszter által vezetett minisztérium, Nemzeti Népegészségügyi és Gyógyszerészeti Központ, Állami Egészségügyi Ellátó Központ, Központi Statisztikai Hivatal, népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal | a tárgyévet követő február 28. |
 
 ## * Az adatszolgáltatás beérkezési határideje: ha a megjelölt dátum munkaszüneti nap vagy heti pihenőnap, a határidő a következő munkanap.
 
