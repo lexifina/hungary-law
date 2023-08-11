@@ -6,7 +6,7 @@
 
 (2a)[^14] E rendeletnek az egyes egészségügyi tárgyú miniszteri rendeleteknek a vizsgálati gyógyszerekkel végzett klinikai vizsgálatokra vonatkozó, jogharmonizációs célú módosításáról szóló 2/2022. (I. 14.) EMMI rendelettel megállapított 1/A. §-át és 2. § (10) bekezdését – a (2b) bekezdés b) pontjában foglalt kivétellel – azon klinikai vizsgálatokban alkalmazott vizsgálati gyógyszerekre és kiegészítő gyógyszerekre kell alkalmazni, amelyek engedélyezése iránti kérelmet 2022. január 30-át követően nyújtották be.
 
-(2b)[^15] Az „Útmutató a gyógyszerek és vizsgálati gyógyszerek helyes gyártási gyakorlatához” című útmutatás fordításaként az OGYÉI által közzétett részletes iránymutatások címkézésre vonatkozó előírásait kell az azon klinikai vizsgálatokban alkalmazott vizsgálati gyógyszerekre és kiegészítő gyógyszerekre alkalmazni 2025. január 30-ig, amelyek engedélyezése iránt a kérelmet
+(2b)[^15] Az „Útmutató a gyógyszerek és vizsgálati gyógyszerek helyes gyártási gyakorlatához” című útmutatás fordításaként a Nemzeti Népegészségügyi és Gyógyszerészeti Központ által közzétett részletes iránymutatások címkézésre vonatkozó előírásait kell az azon klinikai vizsgálatokban alkalmazott vizsgálati gyógyszerekre és kiegészítő gyógyszerekre alkalmazni 2025. január 30-ig, amelyek engedélyezése iránt a kérelmet
 
 a) 2022. január 31-ét megelőzően nyújtották be, vagy
 
@@ -29,7 +29,7 @@ c)[^17] az Európai Parlament és a Tanács 2010/84/EU irányelve (2010. decembe
 (7)[^21] Ez a rendelet az emberi felhasználásra szánt gyógyszerek klinikai vizsgálatairól és a 2001/20/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i 536/2014/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 [^14]: Az 5. § (2a) bekezdését a 2/2022. (I. 14.) EMMI rendelet 8. § (1) bekezdése iktatta be.
-[^15]: Az 5. § (2b) bekezdését a 2/2022. (I. 14.) EMMI rendelet 8. § (1) bekezdése iktatta be.
+[^15]: Az 5. § (2b) bekezdését a 2/2022. (I. 14.) EMMI rendelet 8. § (1) bekezdése iktatta be, nyitó szövegrésze a 28/2023. (VIII. 10.) BM rendelet 32. §-a szerint módosított szöveg.
 [^16]: Az 5. § (3) bekezdése az 53/2008. (XII. 31.) EüM rendelet 5. § (3) bekezdésével megállapított szöveg.
 [^17]: Az 5. § (3) bekezdés c) pontját a 15/2012. (VIII. 22.) EMMI rendelet 30. § (1) bekezdése iktatta be.
 [^18]: Az 5. § (4) bekezdését az 53/2008. (XII. 31.) EüM rendelet 5. § (4) bekezdése iktatta be.

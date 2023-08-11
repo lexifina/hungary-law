@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-30-20-0
 | 2012-08-23 | 2005-30-20-0B.6 | 15/2012. (VIII. 22.) EMMI rendelet |
 | 2012-10-12 | 2005-30-20-0B.7 | 15/2012. (VIII. 22.) EMMI rendelet |
 | 2022-01-31 | 2005-30-20-0B.8 | 2/2022. (I. 14.) EMMI rendelet |
+| 2023-08-11 | 2005-30-20-0B.9 | 2/2022. (I. 14.) EMMI rendelet |
