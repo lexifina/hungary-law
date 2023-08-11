@@ -16,10 +16,10 @@ a) diétás szakács szakmai képesítéssel rendelkező személy végezze, vagy
 
 b) dietetikus szakképesítéssel rendelkező szakember felügyelje.
 
-(7)[^45] A (3) bekezdés szerinti szakképesítéssel rendelkező személyeknek az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet táplálkozás-egészségügyi tárgyú képzésén ötévente részt kell venniük.
+(7)[^45] A (3) bekezdés szerinti szakképesítéssel rendelkező személyeknek az Nemzeti Népegészségügyi és Gyógyszerészeti Központ táplálkozás-egészségügyi tárgyú képzésén ötévente részt kell venniük.
 
 [^41]: A 16. § (1) bekezdése a 36/2016. (XII. 8.) EMMI rendelet 9. § (1) bekezdésével megállapított szöveg.
 [^42]: A 16. § (2) bekezdése a 36/2016. (XII. 8.) EMMI rendelet 9. § (1) bekezdésével megállapított szöveg.
 [^43]: A 16. § (3) bekezdése a 36/2016. (XII. 8.) EMMI rendelet 9. § (2) bekezdésével megállapított szöveg.
 [^44]: A 16. § (5) bekezdése a 36/2016. (XII. 8.) EMMI rendelet 9. § (3) bekezdésével megállapított szöveg.
-[^45]: A 16. § (7) bekezdése az 54/2014. (XII. 29.) EMMI rendelet 8. § (2) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 163. § a) pontja szerint módosított szöveg.
+[^45]: A 16. § (7) bekezdése az 54/2014. (XII. 29.) EMMI rendelet 8. § (2) bekezdése, a 28/2023. (VIII. 10.) BM rendelet 71. §-a szerint módosított szöveg.
