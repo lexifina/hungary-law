@@ -26,8 +26,8 @@
 
 | 13. | Győr-Moson-Sopron, Komárom-Esztergom és Fejér vármegye területén székhellyel rendelkező egészségügyi intézmények | Petz Aladár Egyetemi Oktató Kórház Regionális és Intézményi Kutatásetikai Bizottság |
 
-2. számú melléklet a 23/2002. (V. 9.) EüM rendelethez[^109]
+2. számú melléklet a 23/2002. (V. 9.) EüM rendelethez[^110]
 
 Bejelentés beavatkozással nem járó vizsgálathoz
 
-[^109]: A 2. számú mellékletet az 1/2007. (I. 24.) EüM rendelet 2. § a) pontja iktatta be, szövege a 15/2012. (VIII. 22.) EMMI rendelet 24. § (1) bekezdése, a 3/2014. (I. 16.) EMMI rendelet 1. § (1) bekezdése szerint módosított szöveg.
+[^110]: A 2. számú mellékletet az 1/2007. (I. 24.) EüM rendelet 2. § a) pontja iktatta be, szövege a 15/2012. (VIII. 22.) EMMI rendelet 24. § (1) bekezdése, a 3/2014. (I. 16.) EMMI rendelet 1. § (1) bekezdése szerint módosított szöveg.

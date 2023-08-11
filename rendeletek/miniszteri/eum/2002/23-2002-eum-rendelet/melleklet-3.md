@@ -14,6 +14,6 @@
 
 | 4. Vizsgálati helyszín(ek) Dátum: .................................................. ................................................ megbízó aláírása |
 
-3. számú melléklet a 23/2002. (V. 9.) EüM rendelethez[^110]
+3. számú melléklet a 23/2002. (V. 9.) EüM rendelethez[^111]
 
-[^110]: A 3. számú mellékletet az 1/2007. (I. 24.) EüM rendelet 2. § b) pontja iktatta be, szövege a 13/2022. (IV. 29.) EMMI rendelet 17. §-ával megállapított, a 45/2022. (XII. 20.) BM rendelet 24. §-a, az 55/2022. (XII. 27.) BM rendelet 3. §-a szerint módosított szöveg.
+[^111]: A 3. számú mellékletet az 1/2007. (I. 24.) EüM rendelet 2. § b) pontja iktatta be, szövege a 13/2022. (IV. 29.) EMMI rendelet 17. §-ával megállapított, a 45/2022. (XII. 20.) BM rendelet 24. §-a, az 55/2022. (XII. 27.) BM rendelet 3. §-a, a 28/2023. (VIII. 10.) BM rendelet 12. § (1) bekezdése szerint módosított szöveg.

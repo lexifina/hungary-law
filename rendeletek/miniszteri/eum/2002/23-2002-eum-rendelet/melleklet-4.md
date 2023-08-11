@@ -30,10 +30,10 @@
 
 | 14. | Győr-Moson-Sopron, Komárom-Esztergom és Fejér vármegye területén székhellyel rendelkező egészségügyi intézmények | Petz Aladár Egyetemi Oktató Kórház Regionális és Intézményi Kutatásetikai Bizottság | 10200249-33018597 |
 
-| 15. | Gyógyszerrel végzett beavatkozással nem járó vizsgálatok | Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet | 10032000-00290050- 00000000 |
+| 15. | Gyógyszerrel végzett beavatkozással nem járó vizsgálatok | Nemzeti Népegészségügyi és Gyógyszerészeti Központ | 10032000-00290438-00000000 |
 
-| 16. | Orvostechnikai eszközzel végzett beavatkozással nem járó vizsgálatok, valamint az 1. § (2) bekezdése szerinti, in vitro diagnosztikai orvostechnikai eszközzel végzett teljesítőképesség-vizsgálat | Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet | 10032000-00290050- 00000000 |
+| 16. | Orvostechnikai eszközzel végzett beavatkozással nem járó vizsgálatok, valamint az 1. § (2) bekezdése szerinti, in vitro diagnosztikai orvostechnikai eszközzel végzett teljesítőképesség-vizsgálat | Nemzeti Népegészségügyi és Gyógyszerészeti Központ | 10032000-00290438-00000000 |
 
-4. számú melléklet a 23/2002. (V. 9.) EüM rendelethez[^111]
+4. számú melléklet a 23/2002. (V. 9.) EüM rendelethez[^112]
 
-[^111]: A 4. számú mellékletet az 52/2012. (XII. 27.) EMMI rendelet 3. §-a iktatta be, hatályon kívül helyezte a 35/2021. (VIII. 16.) EMMI rendelet 13. §-a.
+[^112]: A 4. számú mellékletet az 52/2012. (XII. 27.) EMMI rendelet 3. §-a iktatta be, hatályon kívül helyezte a 35/2021. (VIII. 16.) EMMI rendelet 13. §-a.
