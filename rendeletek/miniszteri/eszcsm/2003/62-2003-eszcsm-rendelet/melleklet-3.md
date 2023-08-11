@@ -2,7 +2,7 @@
 
 | A gyanú iránya | Vizsgálati anyag | Vizsgáló laboratórium |
 
-| Botulizmus | vér | Nemzeti Népegészségügyi Központ |
+| Botulizmus | vér | Nemzeti Népegészségügyi és Gyógyszerészeti Központ |
 
 |  | élelmiszer | NÉBIH |
 
