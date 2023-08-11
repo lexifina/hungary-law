@@ -1,3 +1,3 @@
-## Hírközlés[^252]
+## Hírközlés[^253]
 
-[^252]: A „Hírközlés” alcím (48. §) a 420/2021. (VII. 15.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^253]: A „Hírközlés” alcím (48. §) a 420/2021. (VII. 15.) Korm. rendelet 33. §-ával megállapított szöveg.

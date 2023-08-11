@@ -1,4 +1,4 @@
-122. §[^488] (1) Hatósági engedélyezés vagy bejelentés során, ezek hiányában az építési tevékenység megkezdésekor
+122. §[^489] (1) Hatósági engedélyezés vagy bejelentés során, ezek hiányában az építési tevékenység megkezdésekor
 
 a) a 10. § (3)–(7) bekezdése, a 10/A. §, a 29. § (2b), (5)–(7) és (10)–(14) bekezdése, a 42. és 47/A. §, valamint ezekkel összefüggésben az 1. számú melléklet hatályos rendelkezéseit kell alkalmazni,
 
@@ -14,4 +14,4 @@ c) a településtervvel rendelkező településeknél, fővárosi kerületeknél
 
 kell alkalmazni hatósági engedélyezések és bejelentések során, ezek hiányában az építési tevékenység megkezdésekor.
 
-[^488]: A 122. §-t a 253/2023. (VI. 23.) Korm. rendelet 1. §-a iktatta be.
+[^489]: A 122. §-t a 253/2023. (VI. 23.) Korm. rendelet 1. §-a iktatta be.
