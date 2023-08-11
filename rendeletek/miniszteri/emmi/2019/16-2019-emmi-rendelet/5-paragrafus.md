@@ -18,7 +18,7 @@ g) pályáztatást követően jóváhagyja az országos szakfelügyelő névjegy
 
 a) az országos és területi szakfelügyelőkről szakfelügyeleti névjegyzéket vezet, amelyet honlapján közzétesz,
 
-b) pályázatot ír ki az országos szakfelügyelői szakmák és feladatok ellátására, és a pályáztatást követően felveszi a szakfelügyelőt a szakfelügyelői névjegyzékbe, amelynek adattartalmát a Nemzeti Népegészségügyi Központ a honlapján közzéteszi,
+b)[^2] pályázatot ír ki az országos szakfelügyelői szakmák és feladatok ellátására, és a pályáztatást követően felveszi a szakfelügyelőt a szakfelügyelői névjegyzékbe, amelynek adattartalmát a Nemzeti Népegészségügyi és Gyógyszerészeti Központ a honlapján közzéteszi,
 
 c) az országos szakfelügyelővel állandó megbízási szerződést köt,
 
@@ -61,3 +61,5 @@ e) kidolgozza a szakfelügyelethez kapcsolódó feladatai ellátásához szüks�
 f) az e) pont szerinti eljárásrendet véleményezés céljából megküldi az országos tisztifőorvos részére.
 
 (4) A járási hivatal részt vesz a kormányhivatal (3) bekezdés szerinti feladatai ellátásában.
+
+[^2]: Az 5. § (2) bekezdés b) pontja a 28/2023. (VIII. 10.) BM rendelet 83. §-a szerint módosított szöveg.
