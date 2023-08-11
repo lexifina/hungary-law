@@ -8,8 +8,8 @@ b) az a) pont szerinti vizsgálatot végző vizsgáló intézményre;
 
 c) az a) pont szerinti vizsgálatok ellenőrzésére és az azt végző hatóságra;
 
-d)[^1] bioanalitikai vizsgálatokat ellátó vizsgáló intézményeknek, az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI) által lefolytatott helyes laboratóriumi gyakorlatra, a nem-klinikai vizsgálatok szervezésére és lefolytatására vonatkozó ellenőrző tevékenységre;
+d)[^1] bioanalitikai vizsgálatokat ellátó vizsgáló intézményeknek, a Nemzeti Népegészségügyi és Gyógyszerészeti Központ (a továbbiakban: NNGYK) által lefolytatott helyes laboratóriumi gyakorlatra, a nem-klinikai vizsgálatok szervezésére és lefolytatására vonatkozó ellenőrző tevékenységre;
 
 e) az e rendelet szerinti vizsgálatok alá tartozó anyagok engedélyező hatóságaira.
 
-[^1]: Az 1. § d) pontja a 23/2015. (IV. 28.) EMMI rendelet 164. § a) pontja szerint módosított szöveg.
+[^1]: Az 1. § d) pontja a 28/2023. (VIII. 10.) BM rendelet 72. § a) pontja szerint módosított szöveg.

@@ -1,8 +1,6 @@
-## 17. §[^25]
-
 1. melléklet a 42/2014. (VIII. 19.) EMMI rendelethez
 
-## A helyes laboratóriumi gyakorlat alapelvei és követelményei
+A helyes laboratóriumi gyakorlat alapelvei és követelményei
 
 1. A vizsgáló intézmény szervezete és a személyi felelősség
 
@@ -417,5 +415,3 @@ A megőrzési idő 15 év kivéve a 10.2. és 10.3. pontokban foglalt eseteket.
 10.6. Amennyiben a vizsgálóintézmény és az archívum jogutód nélkül szűnik meg, az archivált GLP vizsgálatok anyaga a megbízó vagy annak jogutódja archívumába kerül át.
 
 10.7. A tárolás során figyelemmel kell lenni az adatvédelmi előírásokra.
-
-[^25]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
