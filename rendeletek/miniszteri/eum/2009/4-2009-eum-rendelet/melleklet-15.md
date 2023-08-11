@@ -1,6 +1,6 @@
 ## BEJELENTŐ LAP
 
-## Nemzeti Népegészségügyi Központ számára
+## Nemzeti Népegészségügyi és Gyógyszerészeti Központ számára
 
 ## a kifejezetten orvostechnikai eszközök fertőtlenítésére szánt orvostechnikai eszközök
 
@@ -34,6 +34,6 @@
 
 ## Cégszerű aláírás, cégbélyegző, dátum:
 
-15. melléklet a 4/2009. (III. 17.) EüM rendelethez[^94]
+15. melléklet a 4/2009. (III. 17.) EüM rendelethez[^107]
 
-[^94]: A 15. mellékletet a 29/2011. (VI. 7.) NEFMI rendelet 31. § h) pontja hatályon kívül helyezte.
+[^107]: A 15. mellékletet a 29/2011. (VI. 7.) NEFMI rendelet 31. § h) pontja hatályon kívül helyezte.

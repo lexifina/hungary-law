@@ -1,4 +1,4 @@
-31. §[^77] (1) Ez a rendelet
+31. §[^90] (1) Ez a rendelet
 
 a) az aktív beültethető orvostechnikai eszközökre vonatkozó tagállami jogszabályok közelítéséről szóló 1990. június 20-i 90/385/EGK tanácsi irányelvnek,
 
@@ -24,12 +24,12 @@ a) a fejlett terápiás gyógyszerkészítmények engedélyezéséről, valamint
 
 b) az orvostechnikai eszközök európai adatbankjáról (EUDAMED) szóló 2010. április 19-i 2010/227/EU bizottsági határozat
 
-c)[^78] a 90/385/EGK tanácsi irányelv tekintetében az állati szövetek felhasználásával előállított aktív beültethető orvostechnikai eszközök vonatkozásában és a 93/42/EGK tanácsi irányelv tekintetében az állati szövetek felhasználásával előállított orvostechnikai eszközök vonatkozásában előírt követelmények tekintetében meghatározott különleges követelményekről szóló 2012. augusztus 8-i 722/2012/EU bizottsági rendelet
+c)[^91] a 90/385/EGK tanácsi irányelv tekintetében az állati szövetek felhasználásával előállított aktív beültethető orvostechnikai eszközök vonatkozásában és a 93/42/EGK tanácsi irányelv tekintetében az állati szövetek felhasználásával előállított orvostechnikai eszközök vonatkozásában előírt követelmények tekintetében meghatározott különleges követelményekről szóló 2012. augusztus 8-i 722/2012/EU bizottsági rendelet
 
-d)[^79] az orvostechnikai eszközökről, a 2001/83/EK irányelv, a 178/2002/EK rendelet és az 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és a 93/42/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/745 európai parlamenti és tanácsi rendelet
+d)[^92] az orvostechnikai eszközökről, a 2001/83/EK irányelv, a 178/2002/EK rendelet és az 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és a 93/42/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/745 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^77]: A 31. §-t a 29/2011. (VI. 7.) NEFMI rendelet 22. §-a iktatta be.
-[^78]: A 31. § (2) bekezdés c) pontját az 56/2013. (VII. 31.) EMMI rendelet 40. §-a iktatta be.
-[^79]: A 31. § (2) bekezdés d) pontját a 35/2021. (VIII. 16.) EMMI rendelet 33. §-a iktatta be.
+[^90]: A 31. §-t a 29/2011. (VI. 7.) NEFMI rendelet 22. §-a iktatta be.
+[^91]: A 31. § (2) bekezdés c) pontját az 56/2013. (VII. 31.) EMMI rendelet 40. §-a iktatta be.
+[^92]: A 31. § (2) bekezdés d) pontját a 35/2021. (VIII. 16.) EMMI rendelet 33. §-a iktatta be.

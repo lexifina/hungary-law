@@ -1,4 +1,4 @@
-17. melléklet a 4/2009. (III. 17.) EüM rendelethez[^96]
+17. melléklet a 4/2009. (III. 17.) EüM rendelethez[^109]
 
 A) Az Eütv. 101/C. § (1) bekezdése szerinti nyilvántartás vezetési kötelezettség alól kivett eszközök köre:
 
@@ -54,4 +54,4 @@ B) Az Eütv. 101/C. § (1) bekezdése szerinti nyilvántartás vezetési kötele
 
 11. implantálható sín
 
-[^96]: A 17. mellékletet a 3/2015. (I. 14.) EMMI rendelet 30. §-a iktatta be.
+[^109]: A 17. mellékletet a 3/2015. (I. 14.) EMMI rendelet 30. §-a iktatta be.
