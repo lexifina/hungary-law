@@ -1,1 +1,5 @@
 ## 7. § A működtető szerv az információs önrendelkezési jogról szóló törvényben foglaltak szerint az érintett beteg kérelmére tájékoztatást ad a Protézis Regiszterben az érintettel kapcsolatban tárolt adatokról.
+
+8. §[^3] A 6. § a) pontja szerinti adatszolgáltatás alapján az Egészségügyi Szakmai Kollégium érintett tagozatai a beavatkozások eredményességének és minőségének szakmai értékelése érdekében a tárgyévet követő év május 31-éig jelentést készítenek, amelyet az Egészségügyi Szakmai Kollégium megküld az egészségügyért felelős miniszter, a Nemzeti Egészségbiztosítási Alapkezelő, az az Országos Kórházi Főigazgatóság, az NNGYK részére a csípő- és térdízületi endoprotézisekkel kapcsolatos beavatkozások szervezésének, tervezésének, működésének értékelése, továbbá a csípő- és térdízületi protézisek megfelelőségének vizsgálata, elemzése céljából.
+
+[^3]: A 8. § az 54/2016. (XII. 30.) EMMI rendelet 103. § c)–d) pontja, a 28/2023. (VIII. 10.) BM rendelet 75. § b) pontja szerint módosított szöveg.

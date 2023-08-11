@@ -1,5 +1,3 @@
-## A Protézis Regiszter jelentés adatszolgáltatási kötelezettségének körébe tartozó beavatkozások
-
 | OENO Kód | Megnevezés |
 
 | 57861 | Csontblock beültetés, autolog |
@@ -150,7 +148,7 @@
 
 2. melléklet az 5/2016. (II. 29.) EMMI rendelethez
 
-## A Protézis Regiszterbe jelentendő adatok
+A Protézis Regiszterbe jelentendő adatok
 
 1. Egészségügyi szolgáltató azonosítása
 

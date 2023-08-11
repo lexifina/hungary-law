@@ -1,3 +1,0 @@
-## 8. §[^3] A 6. § a) pontja szerinti adatszolgáltatás alapján az Egészségügyi Szakmai Kollégium érintett tagozatai a beavatkozások eredményességének és minőségének szakmai értékelése érdekében a tárgyévet követő év május 31-éig jelentést készítenek, amelyet az Egészségügyi Szakmai Kollégium megküld az egészségügyért felelős miniszter, a Nemzeti Egészségbiztosítási Alapkezelő, az Állami Egészségügyi Ellátó Központ, az OGYÉI részére a csípő- és térdízületi endoprotézisekkel kapcsolatos beavatkozások szervezésének, tervezésének, működésének értékelése, továbbá a csípő- és térdízületi protézisek megfelelőségének vizsgálata, elemzése céljából.
-
-[^3]: A 8. § az 54/2016. (XII. 30.) EMMI rendelet 103. § c)–d) pontja szerint módosított szöveg.

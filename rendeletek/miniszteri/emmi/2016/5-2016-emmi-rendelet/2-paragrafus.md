@@ -10,4 +10,6 @@ a) az egy ellátási esethez kapcsolódó, több független időpontban végzett
 
 b) az egy időpontban végzett protézis kivétel és ismételt beültetés vonatkozásában is
 
+önállóan kell teljesíteni.
+
 [^1]: Az 1. § az 54/2016. (XII. 30.) EMMI rendelet 103. § a) pontja szerint módosított szöveg.
