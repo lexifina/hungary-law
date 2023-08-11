@@ -626,8 +626,6 @@ a meghatározás a mintában valamely anyag mennyiségének, koncentrációjána
 
 | Biopsia | Biopsia endometrii |
 
-## 16641* Meddőségi vizsgálat, férfi
-
 | Fizikális vizsgálatok | Andrológiai fizikális alapvizsgálatok |
 
 | Rectum digitális vizsgálata |
@@ -724,8 +722,6 @@ a meghatározás a mintában valamely anyag mennyiségének, koncentrációjána
 
 | Biopszia | Biopsia testis |
 
-## 16642* Meddőségi vizsgálat, ismételt IVF előtt
-
 | Fizikális vizsgálatok | Női fizikális alapvizsgálat |
 
 | Hormonvizsgálatok | Follikulus Stimuláló Hormon (FSH) meghatározása |
@@ -759,8 +755,6 @@ a meghatározás a mintában valamely anyag mennyiségének, koncentrációjána
 | Hüvelyváladék vizsgálat | Hüvelyváladék vizsgálata festett kenetben |
 
 | Cytológia | Cytológiai vizsgálat |
-
-## 16643* Meddőségi vizsgálat, bővített I.
 
 | Fizikális vizsgálatok | Női fizikális alapvizsgálat |
 
@@ -866,8 +860,6 @@ a meghatározás a mintában valamely anyag mennyiségének, koncentrációjána
 
 | Chromosoma analízis hosszú idejű sejttenyésztéssel |
 
-## 16644* Meddőségi vizsgálat, bővített II.
-
 | Fizikális vizsgálatok | Női fizikális alapvizsgálat |
 
 | Hormonvizsgálatok | Follikulus Stimuláló Hormon (FSH) meghatározása |
@@ -967,6 +959,14 @@ a meghatározás a mintában valamely anyag mennyiségének, koncentrációjána
 | MTHFR A1298C mutáció |
 
 | PAI-1 4G/5G polimorfizmus |
+
+## 16641* Meddőségi vizsgálat, férfi
+
+## 16642* Meddőségi vizsgálat, ismételt IVF előtt
+
+## 16643* Meddőségi vizsgálat, bővített I.
+
+## 16644* Meddőségi vizsgálat, bővített II.
 
 7. Vizsgálat elszámolási szabályai szakmák szerint
 
