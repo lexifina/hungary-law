@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-1-20-0M
 | 2017-11-01 | 2003-1-20-0M.25 | 29/2017. (X. 31.) EMMI rendelet |
 | 2022-11-18 | 2003-1-20-0M.26 | 38/2022. (XI. 10.) BM rendelet |
 | 2022-12-10 | 2003-1-20-0M.27 | 38/2022. (XI. 10.) BM rendelet |
+| 2023-08-11 | 2003-1-20-0M.28 | 38/2022. (XI. 10.) BM rendelet |
