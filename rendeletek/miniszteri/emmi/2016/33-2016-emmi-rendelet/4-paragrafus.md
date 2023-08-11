@@ -1,6 +1,6 @@
 4. § (1) A munkáltató köteles az Mvt. 54. § (2) bekezdése szerinti kockázatértékelés (a továbbiakban: kockázatértékelés) során az összes, elektromágneses terek jelentette kockázatot a 7. § szerinti szakképzettséggel rendelkező munkavállalója vagy külső szakértő igénybevételével értékelni, és szükség esetén a (3) bekezdés szerint eljárni.
 
-(2)[^2] A kockázatértékelés során a munkáltató azonosítja és értékeli a munkahelyen létező elektromágneses tereket, figyelembe véve a Nemzeti Népegészségügyi Központ (a továbbiakban: NNK) honlapján közzétett, az Európai Bizottság által kiadott „Elektromágneses terek 1. kötet: Gyakorlati útmutató” c. módszertani útmutatót. Ha a munkahelyen vagy a berendezés üzembe helyezésének helyén az expozíció feltételeire alkalmazhatók, a munkáltató elfogadhatja a gyártó vagy a forgalmazó által a berendezésre vonatkozóan megjelölt kibocsátási szinteket és más megfelelő biztonsági adatokat is.
+(2)[^2] A kockázatértékelés során a munkáltató azonosítja és értékeli a munkahelyen létező elektromágneses tereket, figyelembe véve a Nemzeti Népegészségügyi és Gyógyszerészeti Központ (a továbbiakban: NNGYK) honlapján közzétett, az Európai Bizottság által kiadott „Elektromágneses terek 1. kötet: Gyakorlati útmutató” c. módszertani útmutatót. Ha a munkahelyen vagy a berendezés üzembe helyezésének helyén az expozíció feltételeire alkalmazhatók, a munkáltató elfogadhatja a gyártó vagy a forgalmazó által a berendezésre vonatkozóan megjelölt kibocsátási szinteket és más megfelelő biztonsági adatokat is.
 
 (3) Ha a berendezésen műszaki változtatást, beavatkozást végeztek, amely megváltoztatja annak műszaki paramétereit, a munkáltató a kockázatértékelésnél nem alkalmazhatja a gyártó vagy a forgalmazó által a berendezés eredeti állapotára meghatározott kibocsátási szinteket.
 
@@ -40,4 +40,4 @@ k) többfrekvenciás tereknek való egyidejű expozícióra.
 
 (10) A nyilvánosság számára nyitott munkahelyeken az expozíció vizsgálatát nem kell elvégezni, ha a 0 Hz – 300 GHz közötti frekvenciatartományú elektromos, mágneses és elektromágneses terek lakosságra vonatkozó egészségügyi határértékeiről szóló rendeletben rögzített határértékek szerint a kockázatértékelés elvégzésére már sor került, és a munkavállalókra vonatkozóan betartják az abban foglalt korlátozásokat, és ki van zárva az egészségügyi és biztonsági kockázat.
 
-[^2]: A 4. § (2) bekezdése a 38/2018. (X. 31.) EMMI rendelet 25. § a) pontja szerint módosított szöveg.
+[^2]: A 4. § (2) bekezdése a 28/2023. (VIII. 10.) BM rendelet 77. § a) pontja szerint módosított szöveg.

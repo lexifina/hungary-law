@@ -289,3 +289,11 @@ c) az AL(E) és AL(B) értékek a munkavállaló fizikai pozíciójára számít
 d) a teljesítménysűrűséget 20 cm2-es expozíciós területre kell átlagolni. Az 1 cm2-re átlagolt, térbeli teljesítménysűrűség maximuma nem lépheti túl az 50 Wm–2 érték húszszorosát. A 6 és 10 GHz közötti teljesítménysűrűséget bármely hatperces időtartamra kell átlagolni. 10 GHz felett a teljesítménysűrűséget bármely 68/f1,05 perces időtartamra kell átlagolni (ahol f a frekvencia, GHz-ben kifejezve), a frekvencia növekedésével fokozatosan csökkenő behatolási mélységek kompenzálása érdekében.
 
 2.5. táblázat: Beavatkozási szintek az állandósult érintési áramokra és indukált végtagáramokra vonatkozóan
+
+| A | B | C |
+
+| Frekvenciatartomány | Állandósult érintési áram, AL(IC) [mA] (effektív érték) | Indukált végtagáram bármely végtagban, AL(IL) [mA] (effektív érték) |
+
+| 1. | 100 kHz ≤ f < 10 MHz | 40 | — |
+
+| 2. | 10 MHz ≤ f ≤ 110 MHz | 40 | 100 |
