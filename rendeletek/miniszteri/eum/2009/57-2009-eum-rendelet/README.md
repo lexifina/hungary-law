@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-57-20-0
 | 2018-11-01 | 2009-57-20-0B.7 | 23/2015. (IV. 28.) EMMI rendelet |
 | 2022-01-31 | 2009-57-20-0B.8 | 2/2022. (I. 14.) EMMI rendelet |
 | 2022-05-26 | 2009-57-20-0B.9 | 13/2022. (IV. 29.) EMMI rendelet |
+| 2023-08-11 | 2009-57-20-0B.10 | 28/2023. (VIII. 10.) BM rendelet |
