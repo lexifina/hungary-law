@@ -12,9 +12,9 @@ c)[^46] a 2. számú melléklet 10.1. pontja szerinti nyilvántartások vezetés
 
 d)[^47] az általa forgalmazott gyógyszeranyag minőségi, illetve a gyógyszer eladható készletbe helyezési bizonylatának – a gyógyszeranyag vagy gyógyszer felhasználhatósági határidejét követő egy évig történő – megőrzéséről;
 
-e)[^48] az általa nem megfelelő minőségűnek ítélt forgalomba hozatalra engedélyezett gyógyszer hibájának és gyártási számának az OGYÉI számára történő jelentéséről, és a fogadott vagy számára kínált hamisítottnak ítélt gyógyszerre vonatkozó információnak az OGYÉI és az eredeti gyógyszer forgalomba hozatali engedély jogosultja részére történő haladéktalan jelentéséről;
+e)[^48] az általa nem megfelelő minőségűnek ítélt forgalomba hozatalra engedélyezett gyógyszer hibájának és gyártási számának az NNGYK számára történő jelentéséről, és a fogadott vagy számára kínált hamisítottnak ítélt gyógyszerre vonatkozó információnak az NNGYK és az eredeti gyógyszer forgalomba hozatali engedély jogosultja részére történő haladéktalan jelentéséről;
 
-f)[^49] az általa forgalmazott nem megfelelő minőségű gyógyszer vagy gyógyszeranyag forgalmazásának leállításáról és az OGYÉI számára történő bejelentéséről;
+f)[^49] az általa forgalmazott nem megfelelő minőségű gyógyszer vagy gyógyszeranyag forgalmazásának leállításáról és az NNGYK számára történő bejelentéséről;
 
 g) a forgalomból való kivonás és a forgalmazás felfüggesztésének elrendelését követően a gyártási tétel összegyűjtésének végrehajtásáról;
 
@@ -52,7 +52,7 @@ c) a beszerezni kívánt gyógyszer magyarországi egészségügyi szolgáltató
 
 (12)[^59] A (11) bekezdés szerinti nyilatkozatnak tartalmaznia kell továbbá, hogy a beszerzés a GyT 16. § (5) bekezdése alapján történt és a gyógyszer-nagykereskedő hozzájárul ahhoz, hogy a nyilatkozatot a forgalomba hozatali engedély jogosultja vagy annak képviselője az OGYÉI számára megküldje.
 
-(13)[^60] Ha a forgalomba hozatali engedély jogosultja vagy képviselője azt észleli, hogy a (11) bekezdés szerint beszerzett gyógyszerek értékesítése nem felelt meg a GyT 16. § (5) bekezdésében vagy e rendeletben foglaltaknak, a gyógyszer-nagykereskedő jogosult az OGYÉI-hez fordulni.
+(13)[^60] Ha a forgalomba hozatali engedély jogosultja vagy képviselője azt észleli, hogy a (11) bekezdés szerint beszerzett gyógyszerek értékesítése nem felelt meg a GyT 16. § (5) bekezdésében vagy e rendeletben foglaltaknak, a gyógyszer-nagykereskedő jogosult az NNGYK-hoz fordulni.
 
 (14)[^61] Az OGYÉI az (1) bekezdés h) pontjában foglaltak végrehajtását a megsemmisítést végzőnél is ellenőrizheti.
 
@@ -60,8 +60,8 @@ c) a beszerezni kívánt gyógyszer magyarországi egészségügyi szolgáltató
 [^45]: A 9. § (1) bekezdés a) pont ab) alpontja a 3/2014. (I. 16.) EMMI rendelet 13. § (1) bekezdésével megállapított szöveg.
 [^46]: A 9. § (1) bekezdés c) pontja a 3/2014. (I. 16.) EMMI rendelet 13. § (2) bekezdésével megállapított szöveg.
 [^47]: A 9. § (1) bekezdés d) pontja a 3/2014. (I. 16.) EMMI rendelet 13. § (3) bekezdésével megállapított, a 47/2015. (X. 19.) EMMI rendelet 15. § c) pontja szerint módosított szöveg.
-[^48]: A 9. § (1) bekezdés e) pontja az 53/2012. (XII. 28.) EMMI rendelet 4. § (1) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 64. § b) pontja szerint módosított szöveg.
-[^49]: A 9. § (1) bekezdés f) pontja a 23/2015. (IV. 28.) EMMI rendelet 64. § b) pontja szerint módosított szöveg.
+[^48]: A 9. § (1) bekezdés e) pontja az 53/2012. (XII. 28.) EMMI rendelet 4. § (1) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 64. § b) pontja, a 28/2023. (VIII. 10.) BM rendelet 28. § c) pontja szerint módosított szöveg.
+[^49]: A 9. § (1) bekezdés f) pontja a 23/2015. (IV. 28.) EMMI rendelet 64. § b) pontja, a 28/2023. (VIII. 10.) BM rendelet 28. § b) pontja szerint módosított szöveg.
 [^50]: A 9. § (1) bekezdés h) pontja a 3/2014. (I. 16.) EMMI rendelet 13. § (4) bekezdésével megállapított szöveg.
 [^51]: A 9. § (2) bekezdése a 3/2014. (I. 16.) EMMI rendelet 15. § b) pontja, a 23/2015. (IV. 28.) EMMI rendelet 64. § b) pontja szerint módosított szöveg.
 [^52]: A 9. § (3) bekezdése a 47/2015. (X. 19.) EMMI rendelet 12. §-ával megállapított szöveg.
@@ -72,5 +72,5 @@ c) a beszerezni kívánt gyógyszer magyarországi egészségügyi szolgáltató
 [^57]: A 9. § (10) bekezdését az 56/2013. (VII. 31.) EMMI rendelet 46. §-a iktatta be.
 [^58]: A 9. § (11) bekezdését a 3/2014. (I. 16.) EMMI rendelet 13. § (5) bekezdése iktatta be.
 [^59]: A 9. § (12) bekezdését a 3/2014. (I. 16.) EMMI rendelet 13. § (5) bekezdése iktatta be, szövege a 23/2015. (IV. 28.) EMMI rendelet 64. § b) pontja szerint módosított szöveg.
-[^60]: A 9. § (13) bekezdését a 3/2014. (I. 16.) EMMI rendelet 13. § (5) bekezdése iktatta be, szövege a 23/2015. (IV. 28.) EMMI rendelet 64. § c) pontja szerint módosított szöveg.
+[^60]: A 9. § (13) bekezdését a 3/2014. (I. 16.) EMMI rendelet 13. § (5) bekezdése iktatta be, szövege a 23/2015. (IV. 28.) EMMI rendelet 64. § c) pontja, a 28/2023. (VIII. 10.) BM rendelet 28. § d) pontja szerint módosított szöveg.
 [^61]: A 9. § (14) bekezdését a 3/2015. (I. 14.) EMMI rendelet 9. §-a iktatta be, szövege a 23/2015. (IV. 28.) EMMI rendelet 64. § d) pontja szerint módosított szöveg.

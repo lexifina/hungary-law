@@ -58,7 +58,7 @@ o) a termék raktári helykódja;
 
 p) a visszáruként visszavett termékek a vevő megnevezésével együtt.
 
-Ezen nyilvántartást és az annak alapját képező papír alapú dokumentációt annak keletkezését követő 5 éven keresztül – az engedély visszavonása után is – a hatáskörrel és illetékességgel rendelkező hatóságok számára ellenőrzési célból hozzáférhető módon meg kell őrizni. Jogutód nélküli megszűnés esetén a nyilvántartást ellenőrzési célból hozzáférhető módon az OGYÉI részére kell átadni.
+Ezen nyilvántartást és az annak alapját képező papír alapú dokumentációt annak keletkezését követő 5 éven keresztül – az engedély visszavonása után is – a hatáskörrel és illetékességgel rendelkező hatóságok számára ellenőrzési célból hozzáférhető módon meg kell őrizni. Jogutód nélküli megszűnés esetén a nyilvántartást ellenőrzési célból hozzáférhető módon az NNGYK részére kell átadni.
 
 11. Ha a gyógyszert szétmérik, akkor a gyógyszergyártásra vonatkozó hatályos jogszabályban előírtakat kell figyelembe venni. Minden egyes tárolóedényen, csomagolóanyagon fel kell tüntetni legalább
 
@@ -96,7 +96,7 @@ h) lejárati idejét.
 
 11.2.[^112] Ömlesztett termékek tárolása a gyógyszergyártási engedéllyel rendelkező átcsomagoló-hely raktárában a csomagolóanyagokkal együtt történik.
 
-12.[^113] A gyógyszeranyagok esetében a hatályos Magyar Gyógyszerkönyv Tájékoztató vizsgálatát, a gyógyszertári gyógyszerkészítéshez felhasználható gyógyszeranyagokról szóló OGYÉI közlemény szerinti tájékoztató vizsgálatot vagy ezek hiányában az OGYÉI által meghatározott külföldi gyógyszerkönyv szerint minősített gyógyszeranyagok esetében a külföldi gyógyszerkönyv által előírt azonossági vizsgálatot minden esetben el kell végezni.
+12.[^113] A gyógyszeranyagok esetében a hatályos Magyar Gyógyszerkönyv Tájékoztató vizsgálatát, a gyógyszertári gyógyszerkészítéshez felhasználható gyógyszeranyagokról szóló NNGYK közlemény szerinti tájékoztató vizsgálatot vagy ezek hiányában az NNGYK által meghatározott külföldi gyógyszerkönyv szerint minősített gyógyszeranyagok esetében a külföldi gyógyszerkönyv által előírt azonossági vizsgálatot minden esetben el kell végezni.
 
 13.[^114] A forgalomba hozatalra engedélyezett gyógyszerek esetében, a szükségessé váló minőség-ellenőrző vizsgálatok során a gyógyszer forgalomba hozatali engedélyét kiadó hatóság által jóváhagyott előiratot és minőségi követelményeket kell alkalmazni. E célból – a nagykereskedő kezdeményezésére – a forgalomba hozatali engedély jogosultja köteles a kért minőségi előiratot rendelkezésre bocsátani.
 
@@ -112,10 +112,10 @@ h) lejárati idejét.
 [^107]: A 2. számú melléklet 5. pontja a 10/2009. (IV. 10.) EüM rendelet 10. § (2) bekezdésével megállapított szöveg.
 [^108]: A 2. számú melléklet 8. pontja a 41/2011. (VII. 5.) NEFMI rendelet 15. §-a szerint módosított szöveg.
 [^109]: A 2. számú melléklet 9. pontja a 10/2009. (IV. 10.) EüM rendelet 11. § (6) bekezdése, a 47/2015. (X. 19.) EMMI rendelet 15. § d) pontja szerint módosított szöveg.
-[^110]: A 2. számú melléklet 10. pont 10.1. alpontja a 3/2014. (I. 16.) EMMI rendelet 14. §-ával megállapított, a 23/2015. (IV. 28.) EMMI rendelet 64. § b) pontja szerint módosított szöveg.
+[^110]: A 2. számú melléklet 10. pont 10.1. alpontja a 3/2014. (I. 16.) EMMI rendelet 14. §-ával megállapított, a 23/2015. (IV. 28.) EMMI rendelet 64. § b) pontja, a 28/2023. (VIII. 10.) BM rendelet 28. § b) pontja szerint módosított szöveg.
 [^111]: A 2. számú melléklet 10.1. pont m) alpontja a 47/2015. (X. 19.) EMMI rendelet 15. § e) pontja szerint módosított szöveg.
 [^112]: A 2. számú melléklet 11.2. alpontját a 10/2009. (IV. 10.) EüM rendelet 10. § (3) bekezdése iktatta be.
-[^113]: A 2. számú melléklet 12. pontja a 41/2011. (VII. 5.) NEFMI rendelet 15. §-ával megállapított, a 23/2015. (IV. 28.) EMMI rendelet 64. § b) és h) pontja szerint módosított szöveg.
+[^113]: A 2. számú melléklet 12. pontja a 41/2011. (VII. 5.) NEFMI rendelet 15. §-ával megállapított, a 23/2015. (IV. 28.) EMMI rendelet 64. § b) és h) pontja, a 28/2023. (VIII. 10.) BM rendelet 28. § c) pontja szerint módosított szöveg.
 [^114]: A 2. számú melléklet 13. pontja a 10/2009. (IV. 10.) EüM rendelet 11. § (2) bekezdése, a 41/2011. (VII. 5.) NEFMI rendelet 15. §-a szerint módosított szöveg.
 [^115]: A 2. számú melléklet 15. pontja a 10/2009. (IV. 10.) EüM rendelet 10. § (5) bekezdésével megállapított, a 41/2011. (VII. 5.) NEFMI rendelet 15. §-a, a 10/2012. (VII. 19.) EMMI rendelet 14. § b) pontja szerint módosított szöveg.
 [^116]: A 2. számú melléklet 16. pontja a 9/2019. (IV. 29.) EMMI rendelet 3. §-ával megállapított szöveg.
