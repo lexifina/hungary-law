@@ -18,13 +18,13 @@
 
 ## 7. Napi adagja: a gyógyszeres kezelés várható időtartama: ..... /hét/hónap (maximum 12 hónap)
 
-## II. Kérem az az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet nyilatkozatát, hogy a nevezett készítmény az Európai Gazdasági Térség (a továbbiakban: EGT) tagállamában, illetve az Európai Közösséggel vagy az EGT-vel megkötött nemzetközi szerződés alapján az EGT tagállamával azonos jogállást élvező államban
+## II. Kérem az a Nemzeti Népegészségügyi és Gyógyszerészeti Központ nyilatkozatát, hogy a nevezett készítmény az Európai Gazdasági Térség (a továbbiakban: EGT) tagállamában, illetve az Európai Közösséggel vagy az EGT-vel megkötött nemzetközi szerződés alapján az EGT tagállamával azonos jogállást élvező államban
 
 ## forgalomba hozatali engedéllyel rendelkezik ........................................................................................ tagállamban ................................................................................................ indikációban*
 
 ## forgalomba hozatali engedéllyel nem rendelkezik, ez esetben kérem a megrendelés engedélyezését*
 
-## III. Kérem az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézetet, hogy az igényelt gyógyszer alkalmazását a különös méltánylást érdemlő betegellátási érdek szempontjából
+## III. Kérem a Nemzeti Népegészségügyi és Gyógyszerészeti Központot, hogy az igényelt gyógyszer alkalmazását a különös méltánylást érdemlő betegellátási érdek szempontjából
 
 ## engedélyezze*/véleményezze.*
 
@@ -38,7 +38,7 @@
 
 ## Kiskorú esetén törvényes képviselő neve:
 
-## Az előző OGYÉI engedély száma:
+## Az előző NNGYK engedély száma:
 
 ## A beteg diagnózisa (kórkép), terápiája és az igényelt gyógyszer szükségességének indoklása, a forgalomban lévő gyógyszerekkel való kezeléssel szembeni előnyei, valamint az eddig használt gyógyszerekkel való kezelés eredménytelenségének indokolása (a 6 hónapnál nem régebbi részletes kórrajzot is mellékelem):
 
@@ -66,6 +66,6 @@
 
 ## * A nem kívánt rész törlendő.
 
-6. számú melléklet a 44/2004. (IV. 28.) ESZCSM rendelethez[^146]
+6. számú melléklet a 44/2004. (IV. 28.) ESZCSM rendelethez[^151]
 
-[^146]: A 6. számú mellékletet a 39/2008. (X. 18.) EüM rendelet 6. §-a iktatta be, szövege a 46/2008. (XII. 3.) EüM rendelet 6. § (5) bekezdése, a 28/2009. (VIII. 7.) EüM rendelet 3. § (2) bekezdés c) pontja és (3) bekezdése, a 16/2014. (III. 12.) EMMI rendelet 8. §-a, a 23/2015. (IV. 28.) EMMI rendelet 60. § c)–d) és h)–j) pontja, a 47/2015. (X. 19.) EMMI rendelet 10. §-a, a 29/2021. (VII. 6.) EMMI rendelet 8. § a) pontja szerint módosított szöveg.
+[^151]: A 6. számú mellékletet a 39/2008. (X. 18.) EüM rendelet 6. §-a iktatta be, szövege a 28/2023. (VIII. 10.) BM rendelet 26. §-ával megállapított szöveg.

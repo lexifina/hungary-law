@@ -1,4 +1,4 @@
-2/C. §[^9] (1) A kezelésbe bevonni kívánt cselekvőképes beteget a kezelőorvos szóban és írásban, magyar nyelven – illetve a beteg anyanyelvén vagy a beteg által ismertként megjelölt más nyelven –, laikus számára is érthető módon tájékoztatja az egészségügyről szóló 1997. évi CLIV. törvény 159. § (3) bekezdésében és a (4) bekezdésben foglaltakról.
+2/C. §[^10] (1) A kezelésbe bevonni kívánt cselekvőképes beteget a kezelőorvos szóban és írásban, magyar nyelven – illetve a beteg anyanyelvén vagy a beteg által ismertként megjelölt más nyelven –, laikus számára is érthető módon tájékoztatja az egészségügyről szóló 1997. évi CLIV. törvény 159. § (3) bekezdésében és a (4) bekezdésben foglaltakról.
 
 (2) A kezelőorvosnak különös figyelmet kell fordítania annak a vizsgálatára, hogy a beteg nincs-e cselekvőképtelen állapotban. Az ezzel kapcsolatos megállapításokat a kezelőorvos az egészségügyi dokumentációban rögzíti.
 
@@ -40,4 +40,4 @@ g) a kezelőorvos aláírását,
 
 h) a beleegyező nyilatkozatot tevő aláírását.
 
-[^9]: A 2/C. §-t a 7/2016. (III. 30.) EMMI rendelet 7. §-a iktatta be.
+[^10]: A 2/C. §-t a 7/2016. (III. 30.) EMMI rendelet 7. §-a iktatta be.

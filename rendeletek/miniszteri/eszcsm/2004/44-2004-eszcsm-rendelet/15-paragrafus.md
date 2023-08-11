@@ -1,6 +1,6 @@
-15. § (1)[^83] Ha az orvos a gyógyszert a 9. § (4)–(6) bekezdése szerint rendelte – és a vényen a helyettesíthetőséget nem tiltotta meg – a gyógyszerész a gyógyszertár készletében lévő gyógyszerek közül az OGYÉI által közzétett, egyenértékűnek és a terápia során egymással helyettesíthetőnek minősített készítmények listáján is szereplő, azonos hatóanyagú, hatáserősségű és gyógyszerformájú készítményeket a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény 44. §-ának (2)–(3) bekezdésében foglaltak szerint helyettesíti.
+15. § (1)[^88] Ha az orvos a gyógyszert a 9. § (4)–(6) bekezdése szerint rendelte – és a vényen a helyettesíthetőséget nem tiltotta meg – a gyógyszerész a gyógyszertár készletében lévő gyógyszerek közül az NNGYK által közzétett, egyenértékűnek és a terápia során egymással helyettesíthetőnek minősített készítmények listáján is szereplő, azonos hatóanyagú, hatáserősségű és gyógyszerformájú készítményeket a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény 44. §-ának (2)–(3) bekezdésében foglaltak szerint helyettesíti.
 
-(2)[^84] A gyógyszer helyettesítése során a gyógyszerésznek az eltérő kiszerelésben forgalmazott gyógyszerek közül a vényen rendelt mennyiségtől legkevésbé eltérő kiszerelésű gyógyszert kell kiszolgáltatnia oly módon, hogy a kiszolgáltatott gyógyszer biztosítsa a beteg gyógyszerszükségletét arra a terápiás időszakra, amelyre az orvos a gyógyszert rendelte. A gyógyszerkiadáskor elektronikusan rögzíteni kell, vagy papíralapú vény esetén azon fel kell tüntetni a kiszolgáltatott gyógyszer
+(2)[^89] A gyógyszer helyettesítése során a gyógyszerésznek az eltérő kiszerelésben forgalmazott gyógyszerek közül a vényen rendelt mennyiségtől legkevésbé eltérő kiszerelésű gyógyszert kell kiszolgáltatnia oly módon, hogy a kiszolgáltatott gyógyszer biztosítsa a beteg gyógyszerszükségletét arra a terápiás időszakra, amelyre az orvos a gyógyszert rendelte. A gyógyszerkiadáskor elektronikusan rögzíteni kell, vagy papíralapú vény esetén azon fel kell tüntetni a kiszolgáltatott gyógyszer
 
 a) nevét,
 
@@ -12,19 +12,19 @@ d) mennyiségét és
 
 e) esetlegesen megváltozott adagolását.
 
-(3)[^85] A közgyógyellátásra jogosultak részére térítésmentesen rendelhető gyógyszerekről szóló külön jogszabályban meghatározott gyógyszerek helyettesítése esetén térítésmentesen csak az OGYÉI által közzétett, egyenértékűnek és a terápia során egymással helyettesíthetőnek minősített készítmények listáján és a külön jogszabályban is szereplő gyógyszert lehet kiadni.
+(3)[^90] A közgyógyellátásra jogosultak részére térítésmentesen rendelhető gyógyszerekről szóló külön jogszabályban meghatározott gyógyszerek helyettesítése esetén térítésmentesen csak az NNGYK által közzétett, egyenértékűnek és a terápia során egymással helyettesíthetőnek minősített készítmények listáján és a külön jogszabályban is szereplő gyógyszert lehet kiadni.
 
-(4)[^86] A gyógyszerész az orvos által rendelt, forgalomba hozatalra engedélyezett gyógyszert – a (2) bekezdésben meghatározottak kivételével – az előírt hatáserősségben adja ki. Amennyiben a rendelt gyógyszer több hatáserősségben is forgalomban van és az orvos nem tüntette fel a hatáserősséget, a gyógyszerész a legkisebb hatáserősségű gyógyszert adhatja ki.
+(4)[^91] A gyógyszerész az orvos által rendelt, forgalomba hozatalra engedélyezett gyógyszert – a (2) bekezdésben meghatározottak kivételével – az előírt hatáserősségben adja ki. Amennyiben a rendelt gyógyszer több hatáserősségben is forgalomban van és az orvos nem tüntette fel a hatáserősséget, a gyógyszerész a legkisebb hatáserősségű gyógyszert adhatja ki.
 
 (5) A gyógyszerész a vényen rendelt gyógyszer orvos által előírt hatáserősségben történő kiszolgáltatásától csak kivételesen indokolt esetben, ellátási érdekből térhet el. Az eltérő hatáserősségű gyógyszer kiszolgáltatása csak akkor megengedett, ha az orvos által meghatározott napi adagolási rendet nem változtatja meg. Ez esetben a gyógyszerész a terápiás adagolásra vonatkozó orvosi utasítást értelemszerűen módosítja és a beteget szóban is tájékoztatja.
 
-(6)[^87] Ha a gyógyszerész a gyógyszer elkészítése, illetve kiadása során a vény előírásaitól eltér, az eltérést a gyógyszerkiadáskor elektronikusan rögzíti, papíralapú vény esetén a vényen feltünteti, és annak igazolásául kézjegyével ellátja.
+(6)[^92] Ha a gyógyszerész a gyógyszer elkészítése, illetve kiadása során a vény előírásaitól eltér, az eltérést a gyógyszerkiadáskor elektronikusan rögzíti, papíralapú vény esetén a vényen feltünteti, és annak igazolásául kézjegyével ellátja.
 
-(7)[^88] Amennyiben a beteg nem ért egyet az (1) bekezdésben meghatározott helyettesítéssel, és a referenciagyógyszer vagy a preferált referencia ársávba tartozó gyógyszer helyett más gyógyszer kiadását választotta, a hatóanyag alapú fix csoportok esetében a gyógyszerek térítési díját tartalmazó nyugta kiadásával együtt nyomtatott formában tájékoztatni kell a gyógyszert kiváltó személyt a kiváltott gyógyszer napi terápiás egységével megegyező mennyiségű ki nem váltott referencia gyógyszer térítési díjáról.
+(7)[^93] Amennyiben a beteg nem ért egyet az (1) bekezdésben meghatározott helyettesítéssel, és a referenciagyógyszer vagy a preferált referencia ársávba tartozó gyógyszer helyett más gyógyszer kiadását választotta, a hatóanyag alapú fix csoportok esetében a gyógyszerek térítési díját tartalmazó nyugta kiadásával együtt nyomtatott formában tájékoztatni kell a gyógyszert kiváltó személyt a kiváltott gyógyszer napi terápiás egységével megegyező mennyiségű ki nem váltott referencia gyógyszer térítési díjáról.
 
-[^83]: A 15. § (1) bekezdése a 9/2007. (II. 15.) EüM rendelet 2. §-ával megállapított, a 23/2015. (IV. 28.) EMMI rendelet 60. § c) pontja szerint módosított szöveg.
-[^84]: A 15. § (2) bekezdése a 29/2017. (X. 31.) EMMI rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^85]: A 15. § (3) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 60. § c) pontja szerint módosított szöveg.
-[^86]: A 15. § (4) bekezdése a 47/2005. (XI. 4.) EüM rendelet 11. §-ával megállapított szöveg.
-[^87]: A 15. § (6) bekezdése a 29/2017. (X. 31.) EMMI rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^88]: A 15. § (7) bekezdését a 2/2012. (I. 3.) NEFMI rendelet iktatta be, szövege a 10/2012. (VII. 19.) EMMI rendelet 11. §-ával megállapított szöveg.
+[^88]: A 15. § (1) bekezdése a 9/2007. (II. 15.) EüM rendelet 2. §-ával megállapított, a 23/2015. (IV. 28.) EMMI rendelet 60. § c) pontja, a 28/2023. (VIII. 10.) BM rendelet 27. § b) pontja szerint módosított szöveg.
+[^89]: A 15. § (2) bekezdése a 29/2017. (X. 31.) EMMI rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^90]: A 15. § (3) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 60. § c) pontja, a 28/2023. (VIII. 10.) BM rendelet 27. § b) pontja szerint módosított szöveg.
+[^91]: A 15. § (4) bekezdése a 47/2005. (XI. 4.) EüM rendelet 11. §-ával megállapított szöveg.
+[^92]: A 15. § (6) bekezdése a 29/2017. (X. 31.) EMMI rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^93]: A 15. § (7) bekezdését a 2/2012. (I. 3.) NEFMI rendelet iktatta be, szövege a 10/2012. (VII. 19.) EMMI rendelet 11. §-ával megállapított szöveg.
