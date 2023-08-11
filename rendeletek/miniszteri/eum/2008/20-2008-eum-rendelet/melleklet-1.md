@@ -1,4 +1,4 @@
-1. melléklet a 20/2008. (V. 14.) EüM rendelethez[^33]
+1. melléklet a 20/2008. (V. 14.) EüM rendelethez[^32]
 
 Az előállító utasításai szerint elkészített anyatej-helyettesítő tápszerek alapvető összetétele
 
@@ -272,5 +272,5 @@ A következő nukleotidokat lehet hozzáadni:
 
 | inozin 5’-monofoszfát | 0,24 | 1,00 |
 
-[^33]: Az 1. melléklet a 41/2009. (XI. 23.) EüM rendelet 7. § (5) bekezdés a)–c) pontja, a 22/2014. (III. 20.) EMMI rendelet 4. § b)–e) pontja szerint módosított szöveg.
+[^32]: Az 1. melléklet a 41/2009. (XI. 23.) EüM rendelet 7. § (5) bekezdés a)–c) pontja, a 22/2014. (III. 20.) EMMI rendelet 4. § b)–e) pontja szerint módosított szöveg.
 [^*]: Természetes állapotban gluténmentes.
