@@ -56,13 +56,13 @@ b) fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltató 400 ágy fe
 
 | 8. | Infekciókontroll minimálisan foglalja magába: | – éves infekciókontroll program terv szerint a 3. § (1) és (2) bekezdésében részletezett tevékenységek, mely tartalmazzon legalább 1 hat hónapos vagy 2 három hónapos cél surveillance programot az OSZIR NNSR önkéntes moduljaiból (sebfertőzés, ITO, PIC surveillance)* – OSZIR NNSR –kötelező jelentés alrendszerbe történő adatszolgáltatás a fertőző betegségek és a járványok megelőzése érdekében szükséges járványügyi intézkedésekről szóló és a fertőző betegségek jelentésének rendjéről szóló miniszteri rendeletekben foglaltak szerint – Részvétel az Európai Pont Prevalencia Vizsgálatban az egészségügyi ellátással összefüggő fertőzések gyakoriságának és az antimikrobiális szerek alkalmazásának felmérésére |  |
 
-## * a közegészségügyi és népegészségügyi szakmacsoport tekintetében érvényes működési nyilvántartással rendelkező
+* a közegészségügyi és népegészségügyi szakmacsoport tekintetében érvényes működési nyilvántartással rendelkező
 
-## ** az adott szakvizsga vonatkozásában érvényes működési nyilvántartással rendelkező
+** az adott szakvizsga vonatkozásában érvényes működési nyilvántartással rendelkező
 
-## *** a közegészségügyi és népegészségügyi szakmacsoport tekintetében érvényes működési nyilvántartással rendelkező, és kórházhigiénés és infekciókontroll szakirányú továbbképzés birtokában
+*** a közegészségügyi és népegészségügyi szakmacsoport tekintetében érvényes működési nyilvántartással rendelkező, és kórházhigiénés és infekciókontroll szakirányú továbbképzés birtokában
 
-## 2 Amennyiben a fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltató a mikrobiológiai laboratóriumi hátteret közreműködő által biztosítja, úgy a közreműködő egészségügyi szolgáltató végzi a 3. § (1) bekezdés a) pont ab) és ac) alpontjában előírtakat.
+2 Amennyiben a fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltató a mikrobiológiai laboratóriumi hátteret közreműködő által biztosítja, úgy a közreműködő egészségügyi szolgáltató végzi a 3. § (1) bekezdés a) pont ab) és ac) alpontjában előírtakat.
 
 c) azok az egészségügyi szolgáltatók, amelyeknek a működési engedélye az általuk végezhető szakmák között tartalmazza az alábbi egészségügyi szakmakódok valamelyikét az ellátás progresszivitási szintjének figyelembevételével:
 
@@ -71,5 +71,25 @@ c) azok az egészségügyi szolgáltatók, amelyeknek a működési engedélye a
 1502 szakmakód: intenzív terápia II. vagy III. ellátási szint,
 
 0200 szakmakód: sebészet III. ellátási szint.
+
+|  | A | B | C |
+
+| 1. | Egészségügyi szolgáltatóra vonatkozó minimumfeltételek | Munkakör | A munkakör betöltéséhez szükséges végzettség vagy szakképesítés |
+
+| 2. | Személyi feltételek: Vezető: | 1 fő kórházi epidemiológus főállásban | – közegészségtan-járványtan szakorvos, – megelőző orvostan és népegészségtan szakorvos, – egyéb szakorvos kórházhigiénés és infekciókontroll szakirányú továbbképzés birtokában |
+
+| 3. | Munkatárs | 1 fő kórházi epidemiológus (800 ágy felett főállásban) | – közegészségtan-járványtan szakorvos, – megelőző orvostan és népegészségtan szakorvos, – egyéb szakorvos kórházhigiénés és infekciókontroll szakirányú továbbképzés birtokában |
+
+| 4. |  | 1 fő infektológus | – infektológus szakorvos, – fertőző betegségek szakorvosa, |
+
+| 5. |  | 1 fő, egyetemeken 2 fő közegészségügyi-járványügyi ellenőr vagy közegészségügyi-járványügyi felügyelő | – közegészségügyi-járványügyi ellenőr, – közegészségügyi-járványügyi felügyelő, – népegészségügyi ellenőr, – okleveles népegészségügyi szakember népegészségügyi felügyelő szakon, – okleveles népegészségügyi szakember epidemiológia szakon |
+
+| 6. |  | minimum 2, illetve további 300 ágyanként 1 fő főállású epidemiológiai szakápoló | – klinikai epidemiológiai szakápoló, – epidemiológiai szakápoló, – diplomás ápoló |
+
+| 7. | Tárgyi feltételek: | irodahelyiség telefonnal, OSZIR NNSR-be történő online adatszolgáltatáshoz internetkapcsolat és a szoftver futtatására alkalmas számítógép biztosítása | az Eüak.-ban foglalt célok érdekében és a szükséges mértékben betekintési jog a kórházi beteg adatbázisba és a mikrobiológiai leletekbe, ha az külön van |
+
+| 8. | Infekciókontroll minimálisan foglalja magába: | – éves infekciókontroll program terv szerint a 3. § (1) és (2) bekezdésében részletezett tevékenységek, mely tartalmazzon legalább 1 hat hónapos vagy 2 három hónapos cél surveillance programot az OSZIR NNSR önkéntes moduljaiból (sebfertőzés, ITO, PIC surveillance)* – OSZIR NNSR –kötelező jelentés alrendszerbe történő adatszolgáltatás a fertőző betegségek és a járványok megelőzése érdekében szükséges járványügyi intézkedésekről szóló és a fertőző betegségek jelentésének rendjéről szóló miniszteri rendeletekben foglaltak szerint – Részvétel az Európai Pont Prevalencia Vizsgálatban az egészségügyi ellátással összefüggő fertőzések gyakoriságának és az antimikrobiális szerek alkalmazásának felmérésére |  |
+
+3 Amennyiben a fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltató a mikrobiológiai laborhátteret közreműködő által biztosítja, úgy a közreműködő egészségügyi szolgáltató végzi a 3. § (1) bekezdés a) pont ab) és ac) alpontjában előírtakat.
 
 [^41]: Az 1. melléklet a 12/2012. (III. 6.) NEFMI rendelet 10. § (1) bekezdésével megállapított, a 44/2016. (XII. 28.) EMMI rendelet 52. §-a, a 32/2018. (IX. 28.) EMMI rendelet 13. §-a szerint módosított szöveg.
