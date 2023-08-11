@@ -1,0 +1,1 @@
+2. § A Kormány a MIRACLE NEXT Korlátolt Felelősségű Társaság „csődeljárás alatt” (székhely: 6221 Akasztó, Rózsa utca 9., cégjegyzékszám: 03-09-135143, adószám: 13841481-2-03) gazdasági társaság csődeljárását a Cstv. 65. § (1) bekezdés b) pontja és 65. § (3) bekezdés f) pontja alapján stratégiailag kiemelt jelentőségű csődeljárássá minősíti.

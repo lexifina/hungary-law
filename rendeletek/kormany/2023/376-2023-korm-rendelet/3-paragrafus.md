@@ -1,0 +1,1 @@
+3. § A Kormány megállapítja, hogy az 1. és 2. §-ban meghatározott gazdasági társaságok – mint stratégiailag kiemelt jelentőségű felszámolási és csődeljárásban adósként érintett gazdálkodó szervezetek – vonatkozásában a Cstv. 65–67. §-át kell alkalmazni.
