@@ -1,6 +1,6 @@
 1. számú melléklet a 11/1997. (V. 28.) NM rendelethez[^23]
 
-## Nem-konvencionális tevékenységek[^24]
+Nem-konvencionális tevékenységek[^24]
 
 1. Csak orvos által végezhető tevékenységek
 
