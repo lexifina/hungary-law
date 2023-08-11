@@ -6,6 +6,6 @@
 
 (4) A járó-, illetve a fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltató gondoskodik arról, hogy a 2. § (1) bekezdés 4. pont b) alpontja szerinti gyógyszerhulladék befogadására alkalmas gyűjtőedény a speciális gyűjtőhelyen folyamatosan rendelkezésre álljon.
 
-(5)[^1] A gyűjtőedénynek a járó-, illetve a fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltatónál történő elhelyezését, valamint e rendelet egyéb rendelkezéseinek betartását a fővárosi és vármegyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala ellenőrzi.
+(5)[^2] A gyűjtőedénynek a járó-, illetve a fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltatónál történő elhelyezését, valamint e rendelet egyéb rendelkezéseinek betartását a fővárosi és vármegyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala ellenőrzi.
 
-[^1]: A 9. § (5) bekezdése a 49/2022. (XII. 27.) BM rendelet 1. §-a szerint módosított szöveg.
+[^2]: A 9. § (5) bekezdése a 49/2022. (XII. 27.) BM rendelet 1. §-a szerint módosított szöveg.

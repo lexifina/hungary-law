@@ -8,4 +8,6 @@ b) átadja a szakszemélyzetnek, ha gyűjtőedényt az a) pont szerinti helyen n
 
 (3) A (2) bekezdés b) pontja szerinti esetben a szakszemélyzet a gyógyszerhulladék átvételét követően haladéktalanul gondoskodik a gyógyszerhulladék olyan módon történő elhelyezéséről, amely biztosítja a gyógyszerhulladék környezetre és egészségre káros hatással nem járó, elszállításig történő gyűjtését.
 
-(4) A gyűjtőedénynek a gyógyszertárban vagy a gyógyszertáron kívüli gyógyszerforgalmazást folytató üzletben történő elhelyezését, valamint e rendelet egyéb rendelkezéseinek betartását az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet ellenőrzi.
+(4)[^1] A gyűjtőedénynek a gyógyszertárban vagy a gyógyszertáron kívüli gyógyszerforgalmazást folytató üzletben történő elhelyezését, valamint e rendelet egyéb rendelkezéseinek betartását a Nemzeti Népegészségügyi és Gyógyszerészeti Központ ellenőrzi.
+
+[^1]: A 7. § (4) bekezdése a 28/2023. (VIII. 10.) BM rendelet 79. §-a szerint módosított szöveg.
