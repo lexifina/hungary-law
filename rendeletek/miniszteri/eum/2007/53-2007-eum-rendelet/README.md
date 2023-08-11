@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-53-20-0
 | 2019-01-01 | 2007-53-20-0B.20 | 25/2018. (VII. 31.) EMMI rendelet |
 | 2022-12-28 | 2007-53-20-0B.22 | 46/2008. (XII. 3.) EüM rendelet |
 | 2023-01-01 | 2007-53-20-0B.21 | 46/2008. (XII. 3.) EüM rendelet |
+| 2023-08-11 | 2007-53-20-0B.23 | 46/2008. (XII. 3.) EüM rendelet |

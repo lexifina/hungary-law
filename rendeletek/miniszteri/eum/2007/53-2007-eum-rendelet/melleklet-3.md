@@ -22,7 +22,7 @@
 
 | ID | Elsődleges azonosító. |  |
 
-| KOZHID | AZ OGYÉI által kezelt, időben változatlan, egyedi termékazonosító. |  |
+| KOZHID | AZ NNGYK által kezelt, időben változatlan, egyedi termékazonosító. |  |
 
 | OEP_DAT | Az érvényesség kezdetének (a hatálybalépésének) dátuma ééééhhnn formában. |  |
 
@@ -34,7 +34,7 @@
 
 | OEP_EAN | A termék EAN kódja. |  |
 
-| OEP_TK | A készítmény OGYÉI által kiadott nyilvántartási száma. | 2. § i); 4. § (5) ab) |
+| OEP_TK | A készítmény NNGYK által kiadott nyilvántartási száma. | 2. § i); 4. § (5) ab) |
 
 | TKTORLES | A nyilvántartásból törölt készítmények megjelölésére használt oszlop: TT vagy null. |  |
 
@@ -56,7 +56,7 @@
 
 | RENDELHET | A készítmény rendelhetőségének azonosítója: V: vényköteles gyógyszerek VN: vény nélküli gyógyszerek I: rendelőintézeti járóbeteg-szakellátást vagy fekvőbeteg-szakellátást nyújtó szolgáltatók által biztosított körülmények között alkalmazható gyógyszerek J: a szakorvosi/kórházi diagnózist követő járóbeteg-ellátásban alkalmazható gyógyszerek SZ: szakorvos által rendelhető gyógyszerek | 4. § (5) ah) |
 
-| EGYENID | AZ OGYÉI által megállapított egyenértékűség esetén a NEAK által adott csoport azonosító száma, ha nincs ilyen, akkor –1. | 4. § (5) ai) |
+| EGYENID | AZ NNGYK által megállapított egyenértékűség esetén a NEAK által adott csoport azonosító száma, ha nincs ilyen, akkor –1. | 4. § (5) ai) |
 
 | OHATO_MENNY | Összes hatóanyag tartalom. |  |
 
@@ -188,7 +188,7 @@
 
 | BRAND_ID | A gyógyszercsalád (brand) azonosítója |  |
 
-| KERESZTJELZES | AZ OGYÉI hatáserősség (méregosztály) jelzése pl. +, ++, ... stb. |  |
+| KERESZTJELZES | AZ NNGYK hatáserősség (méregosztály) jelzése pl. +, ++, ... stb. |  |
 
 | VEGE | Az érvényesség vége, ha még nincs lezárva az érvényessége, akkor 2099.12.31 (Access, DBF fájlokban nem jelenik meg, mert felesleges). |  |
 
