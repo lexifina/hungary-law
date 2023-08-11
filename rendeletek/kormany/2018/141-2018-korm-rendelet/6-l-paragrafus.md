@@ -1,8 +1,8 @@
-6/L. §[^96] (1) A 2. mellékletben foglalt táblázat 58. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:58 mezőjében megjelölt telkekre a beépítés szabályait és az egyedi építési követelményeket a (2) és (3) bekezdés állapítja meg azzal, hogy
+6/L. §[^99] (1) A 2. mellékletben foglalt táblázat 58. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:58 mezőjében megjelölt telkekre a beépítés szabályait és az egyedi építési követelményeket a (2) és (3) bekezdés állapítja meg azzal, hogy
 
 a) a hatályos OTÉK előírásait a (2) és (3) bekezdésben foglalt eltérésekkel kell alkalmazni, és
 
-b)[^97] ha a hatályos településrendezési terv és az OTÉK a beépítés (2) és (3) bekezdésben meghatározott sajátos szabályaival ellentétes vagy azzal össze nem egyeztethető előírást tartalmaz, akkor a településrendezési eszközt és az OTÉK-ot nem lehet alkalmazni.
+b)[^100] ha a hatályos településrendezési terv és az OTÉK a beépítés (2) és (3) bekezdésben meghatározott sajátos szabályaival ellentétes vagy azzal össze nem egyeztethető előírást tartalmaz, akkor a településrendezési eszközt és az OTÉK-ot nem lehet alkalmazni.
 
 (2) A 2. mellékletben foglalt táblázat B:58 mezőjében megjelölt telkekre és a telekalakítással ezekből létrejövő telkekre – zöld- és vegyes területfelhasználási egységként – szálloda, szálláshely, apartman szálló, sport- és szabadidős építmények, egyéb közösségi szórakoztató építmények, valamint vendéglátó, szolgáltató kiszolgáló építmények elhelyezése esetén meghatározott sajátos beépítési szabályok és egyedi építési követelmények:
 
@@ -28,5 +28,5 @@ j) az egyedi tervezésű úszóművek minimális telepítési távolsága 40 mé
 
 (3) A parkolóhelyek kialakításánál az építmények és önálló rendeltetési egységek rendeltetésszerű használatához előírt, az OTÉK 4. számú melléklete szerint meghatározott számú személygépkocsi-várakozóhely és az OTÉK 42. § (4) bekezdése szerint meghatározott autóbusz-várakozóhely legalább 50%-ának elhelyezését kell biztosítani azzal, hogy az OTÉK 42. § (11) bekezdése ezen követelmények érvényesítése esetében is alkalmazható.
 
-[^96]: A 6/L. §-t a 725/2020. (XII. 31.) Korm. rendelet 2. §-a iktatta be.
-[^97]: A 6/L. § (1) bekezdés b) pontja a 420/2021. (VII. 15.) Korm. rendelet 99. § h) pontja szerint módosított szöveg.
+[^99]: A 6/L. §-t a 725/2020. (XII. 31.) Korm. rendelet 2. §-a iktatta be.
+[^100]: A 6/L. § (1) bekezdés b) pontja a 420/2021. (VII. 15.) Korm. rendelet 99. § h) pontja szerint módosított szöveg.

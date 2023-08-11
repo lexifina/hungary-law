@@ -1,4 +1,4 @@
-6/I. §[^83] (1)[^84] A 2. mellékletben foglalt táblázat 41. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:41 mezőjében megjelölt telekre a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy ha a hatályos településrendezési terv vagy az OTÉK a beépítés és az egyedi építési követelmények (2) bekezdésben meghatározott sajátos szabályaival ellentétes, vagy azzal össze nem egyeztethető előírást tartalmaz, akkor a településrendezési terv vagy az OTÉK ezen rendelkezéseit nem kell alkalmazni.
+6/I. §[^86] (1)[^87] A 2. mellékletben foglalt táblázat 41. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:41 mezőjében megjelölt telekre a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy ha a hatályos településrendezési terv vagy az OTÉK a beépítés és az egyedi építési követelmények (2) bekezdésben meghatározott sajátos szabályaival ellentétes, vagy azzal össze nem egyeztethető előírást tartalmaz, akkor a településrendezési terv vagy az OTÉK ezen rendelkezéseit nem kell alkalmazni.
 
 (2) A 2. mellékletben foglalt táblázat B:41 mezőjében megjelölt telekre meghatározott sajátos beépítési szabályok:
 
@@ -12,5 +12,5 @@ d) a Beruházás keretében megvalósuló építmények, önálló rendeltetési
 
 e) az engedélyezési eljárás során műemléki értékleltárba felvett elem részlegesen csak akkor bontható el, ha az az ingatlanon ismételten beépítésre kerül a kulturális örökség védelmére vonatkozó követelményekkel összhangban.
 
-[^83]: A 6/I. §-t a 161/2020. (IV. 29.) Korm. rendelet 1. §-a iktatta be.
-[^84]: A 6/I. § (1) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 99. § e) pontja szerint módosított szöveg.
+[^86]: A 6/I. §-t a 161/2020. (IV. 29.) Korm. rendelet 1. §-a iktatta be.
+[^87]: A 6/I. § (1) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 99. § e) pontja szerint módosított szöveg.

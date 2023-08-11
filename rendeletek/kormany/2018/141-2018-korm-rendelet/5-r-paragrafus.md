@@ -1,4 +1,4 @@
-5/R. §[^35] (1) A 2. mellékletben foglalt táblázat B:42a mezőjében megjelölt ingatlanokra a beépítés egyedi szabályait a (2) és (3) bekezdés állapítja meg, azzal, hogy
+5/R. §[^38] (1) A 2. mellékletben foglalt táblázat B:42a mezőjében megjelölt ingatlanokra a beépítés egyedi szabályait a (2) és (3) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK előírásait a (2) és (3) bekezdésben foglalt eltéréssel kell alkalmazni, és
 
@@ -28,4 +28,4 @@ d) az épületmagasság megengedett legnagyobb mértéke a toronyépítmények �
 
 e) zöldfelületet nem kell létesíteni.
 
-[^35]: Az 5/R. §-t a 194/2023. (V. 22.) Korm. rendelet 1. §-a iktatta be.
+[^38]: Az 5/R. §-t a 194/2023. (V. 22.) Korm. rendelet 1. §-a iktatta be.
