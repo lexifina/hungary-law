@@ -2,7 +2,7 @@
 
 ## A hatósági engedély iránti kérelem feltételei, valamint az intézményi kutatásetikai bizottság feladatai[^21]
 
-16. § (1)[^22] A vizsgálat csak az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: engedélyező) határozatában meghatározott feltételek, valamint az engedélyezett vizsgálati terv előírásai szerint folytatható. A vizsgálatot engedélyező határozatban meghatározott feltételek, valamint az engedélyezett vizsgálati terv előírásai, továbbá a vizsgálat megkezdésének és ellenőrzésének előírásai foglalkozási szabálynak minősülnek.
+16. § (1)[^22] A vizsgálat csak a Nemzeti Népegészségügyi és Gyógyszerészeti Központ (a továbbiakban: engedélyező) határozatában meghatározott feltételek, valamint az engedélyezett vizsgálati terv előírásai szerint folytatható. A vizsgálatot engedélyező határozatban meghatározott feltételek, valamint az engedélyezett vizsgálati terv előírásai, továbbá a vizsgálat megkezdésének és ellenőrzésének előírásai foglalkozási szabálynak minősülnek.
 
 (2)[^23] Klinikai vizsgálat I. osztálynál magasabb kockázati osztályba sorolt, és steril orvostechnikai eszköz esetén csak egészségügyi intézményben végezhető.
 
@@ -17,7 +17,7 @@
 (6)[^28] Az engedélyezett klinikai vizsgálatok, illetve teljesítőképesség-vizsgálatok végzése során az IKEB a vizsgálat teljes dokumentációjába betekinthet, hatósági ellenőrzést kezdeményezhet. Az IKEB jogosult annak figyelemmel kísérésére, hogy biztosítva vannak-e a személyi és tárgyi feltételek, és betartják-e a vizsgálati tervben foglalt előírásokat, etikai követelményeket, különös tekintettel a vizsgálati alanyok védelmére.
 
 [^21]: A 16. §-t megelőző alcím cím a 13/2022. (IV. 29.) EMMI rendelet 51. § 3. pontja szerint módosított szöveg.
-[^22]: A 16. § (1) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 109. §-a, az 54/2016. (XII. 30.) EMMI rendelet 67. §-a szerint módosított szöveg.
+[^22]: A 16. § (1) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 109. §-a, a 28/2023. (VIII. 10.) BM rendelet 55. §-a szerint módosított szöveg.
 [^23]: A 16. § (2) bekezdése a 13/2022. (IV. 29.) EMMI rendelet 51. § 3. pontja szerint módosított szöveg.
 [^24]: A 16. § (3) bekezdése a 13/2022. (IV. 29.) EMMI rendelet 51. § 3. pontja szerint módosított szöveg.
 [^25]: A 16. § (3a) bekezdését a 13/2022. (IV. 29.) EMMI rendelet 45. § (1) bekezdése iktatta be.

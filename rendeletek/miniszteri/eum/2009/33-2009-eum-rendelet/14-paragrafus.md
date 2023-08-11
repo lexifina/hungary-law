@@ -1,3 +1,3 @@
-## 13. §[^19]
+14. §[^20]
 
-[^19]: A 13. §-t a 35/2021. (VIII. 16.) EMMI rendelet 48. § e) pontja hatályon kívül helyezte.
+[^20]: A 14. §-t a 35/2021. (VIII. 16.) EMMI rendelet 48. § e) pontja hatályon kívül helyezte.

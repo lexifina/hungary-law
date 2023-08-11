@@ -1,5 +1,3 @@
-## 25. §[^38]
-
 ## Vegyes és átmeneti rendelkezések
 
 26. § (1) Ez a rendelet – a (2) bekezdésben foglaltak kivételével – a kihirdetését követő napon lép hatályba azzal, hogy a hatálybalépését megelőzően benyújtott, de el nem bírált kérelmek esetén az e rendeletben foglaltakat kell alkalmazni.
@@ -22,7 +20,6 @@ b) azon orvostechnikai eszközökkel végzett klinikai vizsgálatokra – ideér
 
 (8)[^46]
 
-[^38]: A 25. §-t a 26. § (8) bekezdése hatályon kívül helyezte, újonnan a 29/2011. (VI. 7.) NEFMI rendelet 27. §-a iktatta be, szövege a 35/2021. (VIII. 16.) EMMI rendelet 44. §-ával megállapított szöveg.
 [^39]: A 26. § (3) bekezdését a (8) bekezdés hatályon kívül helyezte, újonnan a 35/2021. (VIII. 16.) EMMI rendelet 45. §-a iktatta be.
 [^40]: A hatálybalépés időpontja 2021. augusztus 17.
 [^41]: A 26. § (4) bekezdését a (8) bekezdés hatályon kívül helyezte, újonnan a 35/2021. (VIII. 16.) EMMI rendelet 45. §-a iktatta be.
