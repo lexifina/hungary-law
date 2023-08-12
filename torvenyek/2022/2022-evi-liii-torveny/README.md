@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2022-53-00-00
 | --- | --- | --- |
 | 2022-12-02 | 2022. évi LIII. törvény | 2022-53-00-00.0 (közlönyállapot) |
 | 2022-12-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2022-53-00-00.1 |
+| 2023-08-12 | Nemzeti Jogszabálytár (egységes szerkezet) | 2022-53-00-00.2 |
