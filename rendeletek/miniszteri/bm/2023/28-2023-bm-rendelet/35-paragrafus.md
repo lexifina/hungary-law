@@ -1,1 +1,3 @@
-35. § Hatályát veszti a 43/2005. (X. 15.) EüM rendelet 2. § (2) bekezdésében a „vagy az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI)” szövegrész.
+35. §[^36]
+
+[^36]: A 35. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

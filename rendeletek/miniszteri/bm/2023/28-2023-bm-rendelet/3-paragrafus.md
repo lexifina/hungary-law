@@ -1,1 +1,3 @@
-3. § A népjóléti ágazatba tartozó egyes államigazgatási eljárásokért és igazgatási jellegű szolgáltatásokért fizetendő díjakról szóló 50/1996. (XII. 27.) NM rendelet 3. számú melléklete helyébe az 1. melléklet lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

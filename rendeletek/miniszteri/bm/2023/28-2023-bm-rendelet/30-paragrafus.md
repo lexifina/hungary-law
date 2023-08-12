@@ -1,3 +1,5 @@
 ## 23. Az emberi vér és vérkomponensek gyűjtésére, vizsgálatára, feldolgozására, tárolására és elosztására vonatkozó minőségi és biztonsági előírásokról, valamint ezek egyes technikai követelményeiről szóló 3/2005. (II. 10.) EüM rendelet módosítása
 
-30. § Az emberi vér és vérkomponensek gyűjtésére, vizsgálatára, feldolgozására, tárolására és elosztására vonatkozó minőségi és biztonsági előírásokról, valamint ezek egyes technikai követelményeiről szóló 3/2005. (II. 10.) EüM rendelet 4. § (2a) bekezdésében az „az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet” szövegrész helyébe az „a Nemzeti Népegészségügyi és Gyógyszerészeti Központ” szöveg lép.
+30. §[^31]
+
+[^31]: A 30. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

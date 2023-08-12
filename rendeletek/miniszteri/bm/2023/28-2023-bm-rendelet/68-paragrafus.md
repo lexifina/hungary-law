@@ -1,1 +1,3 @@
-68. § Hatályát veszti a belügyminiszter feladatkörét érintő ágazati honvédelmi feladatokról szóló 16/2013. (V. 9.) BM rendelet 8/D. § (2) bekezdés c) pontja és 8/E. § (1) bekezdés d) pontja.
+68. §[^69]
+
+[^69]: A 68. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

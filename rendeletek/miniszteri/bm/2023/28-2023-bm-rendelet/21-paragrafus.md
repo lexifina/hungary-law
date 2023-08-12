@@ -1,3 +1,3 @@
-21. § A különleges táplálkozási célú élelmiszerekről szóló 36/2004. (IV. 26.) ESZCSM rendelet 11. § (3) bekezdése helyébe a következő rendelkezés lép:
+21. §[^22]
 
-„(3) Az (1) bekezdés szerinti intézkedésről, valamint annak okáról a vármegyei kormányhivatal járási hivatala az országos tisztifőorvost, valamint a vármegyei kormányhivatal járási hivatala és az NNGYK a NÉBIH-et haladéktalanul értesíti. A NÉBIH szükség esetén értesíti a Bizottságot és a tagállamokat.”
+[^22]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

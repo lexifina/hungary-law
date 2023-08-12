@@ -1,9 +1,5 @@
 ## 12. A társadalombiztosítási támogatással rendelhető gyógyszerekről és a támogatás összegéről szóló 1/2003. (I. 21.) ESZCSM rendelet módosítása
 
-14. § A társadalombiztosítási támogatással rendelhető gyógyszerekről és a támogatás összegéről szóló 1/2003. (I. 21.) ESZCSM rendelet
+14. §[^15]
 
-a) 6. § (2) bekezdésében az „az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI)” szövegrész helyébe az „a Nemzeti Népegészségügyi és Gyógyszerészeti Központ (a továbbiakban: NNGYK)” szöveg,
-
-b) 6. § (3) bekezdésében az „OGYÉI” szövegrész helyébe az „NNGYK” szöveg
-
-lép.
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

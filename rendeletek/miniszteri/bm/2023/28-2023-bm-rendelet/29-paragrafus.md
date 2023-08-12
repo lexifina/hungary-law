@@ -1,3 +1,5 @@
 ## 22. Az egyes személyazonosításra alkalmatlan ágazati (egészségügyi, szakmai) adatok körének meghatározására, gyűjtésére, feldolgozására vonatkozó részletes szabályokról szóló 76/2004. (VIII. 19.) ESZCSM rendelet módosítása
 
-29. § Az egyes személyazonosításra alkalmatlan ágazati (egészségügyi, szakmai) adatok körének meghatározására, gyűjtésére, feldolgozására vonatkozó részletes szabályokról szóló 76/2004. (VIII. 19.) ESZCSM rendelet 1. számú mellékletében foglalt táblázatban az „országos tisztifőorvos, Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet” szövegrészek helyébe a „Nemzeti Népegészségügyi és Gyógyszerészeti Központ” szöveg lép.
+29. §[^30]
+
+[^30]: A 29. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-54. § Az egészségügyi ellátással összefüggő fertőzések megelőzéséről, e tevékenységek szakmai minimumfeltételeiről és felügyeletéről szóló 20/2009. (VI. 18.) EüM rendelet 9. § b) pontjában az „a Nemzeti Népegészségügyi Központ” szövegrész helyébe az „a Nemzeti Népegészségügyi és Gyógyszerészeti Központ” szöveg lép.
+54. §[^55]
+
+[^55]: Az 54. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

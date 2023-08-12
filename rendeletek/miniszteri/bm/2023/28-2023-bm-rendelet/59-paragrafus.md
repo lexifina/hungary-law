@@ -1,1 +1,3 @@
-59. § Hatályát veszti az emberi felhasználásra kerülő gyógyszerekkel kapcsolatos egyes engedélyezési eljárások során fizetendő igazgatási szolgáltatási díj kezeléséről és nyilvántartásáról szóló 57/2009. (XII. 30.) EüM rendelet 1/A. § (4) bekezdése.
+59. §[^60]
+
+[^60]: Az 59. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

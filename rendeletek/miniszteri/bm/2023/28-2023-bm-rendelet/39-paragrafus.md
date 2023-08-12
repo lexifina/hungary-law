@@ -1,9 +1,5 @@
 ## 30. A közgyógyellátásra jogosult gyógyszerkeretének megállapításához szükséges készítmények kiválasztásának szabályairól szóló 25/2006. (VI. 26.) EüM rendelet módosítása
 
-39. § A közgyógyellátásra jogosult gyógyszerkeretének megállapításához szükséges készítmények kiválasztásának szabályairól szóló 25/2006. (VI. 26.) EüM rendelet
+39. §[^40]
 
-a) 2. § (4) bekezdésében az „az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI)” szövegrész helyébe az „a Nemzeti Népegészségügyi és Gyógyszerészeti Központ (a továbbiakban: NNGYK)” szöveg,
-
-b) 6. §-ában az „az OGYÉI” szövegrész helyébe az „az NNGYK” szöveg
-
-lép.
+[^40]: A 39. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

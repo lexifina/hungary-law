@@ -1,5 +1,5 @@
 ## 17. A különleges táplálkozási célú élelmiszerekről szóló 36/2004. (IV. 26.) ESZCSM rendelet módosítása
 
-19. § A különleges táplálkozási célú élelmiszerekről szóló 36/2004. (IV. 26.) ESZCSM rendelet 8. § (1) bekezdése helyébe a következő rendelkezés lép:
+19. §[^20]
 
-„(1) Az anyatej-helyettesítő tápszerek, fehérjehidrolizátumokból előállított anyatej-kiegészítő tápszerek, a 2016/127/EU rendelet II. mellékletében felsoroltakon kívül más anyagokat is tartalmazó anyatej-kiegészítő tápszerek, a speciális gyógyászati célra szánt élelmiszerek és a testtömeg-szabályozás céljára szolgáló, teljes napi étrendet helyettesítő élelmiszerek hatékony hatósági ellenőrzése érdekében a termék első magyarországi forgalomba hozatalakor az élelmiszerjog általános elveiről és követelményeiről, az Európai Élelmiszerbiztonsági Hatóság létrehozásáról és az élelmiszerbiztonságra vonatkozó eljárások megállapításáról szóló, 2002. január 28-i 178/2002/EK európai parlamenti és tanácsi rendelet 3. cikk 3. pontja szerinti élelmiszeripari vállalkozó (a továbbiakban: élelmiszer-vállalkozó) legkésőbb a termék forgalomba hozatalával egyidejűleg köteles azt bejelenteni a Nemzeti Népegészségügyi és Gyógyszerészeti Központnál (a továbbiakban: NNGYK) az (5) bekezdés szerinti adatok közlésével és a termék címkéjének megküldésével.”
+[^20]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

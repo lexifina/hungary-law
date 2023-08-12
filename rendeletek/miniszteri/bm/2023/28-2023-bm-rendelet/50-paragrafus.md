@@ -1,1 +1,3 @@
-50. § Hatályát veszti az 1/2009. (I. 30.) EüM rendelet 2. mellékletében foglalt táblázat 3. sora.
+50. §[^51]
+
+[^51]: Az 50. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
