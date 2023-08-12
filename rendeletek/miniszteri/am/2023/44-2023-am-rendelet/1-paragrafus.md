@@ -1,3 +1,3 @@
-1. § A Magyar Élelmiszerkönyv kötelező előírásairól szóló 152/2009. (XI. 12.) FVM rendelet (a továbbiakban: R.) 2. §-a a következő (18) bekezdéssel egészül ki:
+1. §[^2]
 
-„(18) A 10. mellékletnek a Magyar Élelmiszerkönyv kötelező előírásairól szóló 152/2009. (XI. 12.) FVM rendelet módosításáról szóló 44/2023. (VII. 27.) AM rendelettel (a továbbiakban: MódR8.) megállapított rendelkezéseinek nem megfelelő, azonban a MódR8. hatálybalépésének napját megelőző napon hatályos előírásoknak megfelelő termékek a MódR8. hatálybalépésének napjától számított 6. hónap utolsó napjáig forgalomba hozhatók, és a minőségmegőrzési idejük lejártáig forgalomban tarthatók.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
