@@ -1,13 +1,3 @@
-1. melléklet a 380/2023. (VIII. 10.) Korm. rendelethez
+1. melléklet a 380/2023. (VIII. 10.) Korm. rendelethez[^6]
 
-Az R. 2. mellékletében foglalt táblázat a következő 97. sorral egészül ki:
-
-|  | (A | B | C |
-
-|  | A beruházás megnevezése | A beruházás megvalósításának helyszíne | Koordinációra kijelölt főispán) |
-
-„
-
-| 97. | Az Andrássy-palotában megvalósuló beruházás | Budapest I. kerület, Bem rakpart 6. (Fő utca 11–13.) szám alatti ingatlan | Budapest Főváros Kormányhivatalát vezető főispán |
-
-”
+[^6]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-2. § Az R. a következő 65. §-sal egészül ki:
+2. §[^3]
 
-„65. § E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 380/2023. (VIII. 10.) Korm. rendelettel (a továbbiakban: Módr57.) módosított 3. § (3) és (5) bekezdését, 7/M. §-át, valamint 2. mellékletébenfoglalt táblázat 97. sorát a Módr57. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
