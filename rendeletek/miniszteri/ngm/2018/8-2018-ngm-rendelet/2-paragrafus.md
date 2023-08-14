@@ -38,7 +38,7 @@ a) az azonos helyszínen egyidejűleg foganatosított vagy foganatosítani megk�
 
 b) a járműnyilvántartáson, illetve vízi és légijármű-nyilvántartáson alapuló ingófoglalások, és ingatlanfoglalások esetén foglalásonként külön-külön
 
-## kell felszámítani.
+kell felszámítani.
 
 (5) Az (1) bekezdéstől eltérően a végrehajtási eljárásban kirendelt ügygondnok, illetve kijelölt zárgondnok
 
