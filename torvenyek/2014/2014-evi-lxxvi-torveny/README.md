@@ -27,3 +27,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-76-00-00
 | 2022-08-26 | 2022. évi XXIV. törvény | 2014-76-00-00.20 |
 | 2022-12-20 | 2022. évi LIX. törvény | 2014-76-00-00.21 |
 | 2023-07-01 | 2023. évi XLI. törvény | 2014-76-00-00.22 |
+| 2023-08-14 | 2023. évi LIX. törvény | 2014-76-00-00.25 |

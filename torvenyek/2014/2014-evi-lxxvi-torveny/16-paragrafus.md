@@ -1,4 +1,8 @@
-16. § (1) A járulék alapja a Htv. 39. § (1) bekezdése alapján meghatározott adóalap, csökkentve a Htv. szerint kimutatott, külföldön létesített telephelyre jutó iparűzési adóalaprész összegével.
+16. § (1) A járulék alapja
+
+a) a Htv. 39. § (1) bekezdése alapján – a Htv. 39. § (11) és (12) bekezdésére figyelemmel – meghatározott adóalap, csökkentve a Htv. szerint kimutatott, külföldön létesített telephelyre jutó iparűzési adóalaprész összegével,
+
+b) az a) ponttól eltérően, ha a járulékfizetésre kötelezett a kisvállalati adó alanya és a helyi iparűzési adó alapját a Htv. 39/B. § (1) bekezdése szerint állapítja meg, akkor választása szerint a Htv. 39/B. § (1) bekezdése alapján meghatározott adóalap, figyelemmel a Htv. 39/B. § (3) bekezdésére is.
 
 (2) A járulék mértéke az (1) bekezdés szerinti járulékalap 0,3%-a.
 
@@ -20,7 +24,7 @@ b) az a) ponttól eltérő esetben az adóévet megelőző adóév fizetendő j�
 
 (9) A járulékfizetésre kötelezettnek a járulékfizetési kötelezettség keletkezésének évében a (3)–(6) bekezdés megfelelő alkalmazásával az adóévet megelőző adóév adatai alapján kell járulékelőlegét megállapítania és arról az adóév ötödik hónapjának utolsó napjáig járulékelőleg-bevallást benyújtania. A járulékfizetési kötelezettség keletkezése évének első két előlegfizetési időszakára vonatkozóan az adózó az előlegfizetéssel egyidejűleg bevallást tesz. Az előleg mértéke a járulék várható éves összegének időarányos része. Nem lehet járulékelőleget bevallani arra a negyedévre és a negyedév azon naptári hónapjára, amelyre az adózó már vallott be járulékelőleget.
 
-(10)
+(10) A járulék alapjának az (1) bekezdés b) pontja szerinti megállapítása – a jogosultság fennállása esetén – adóévre választható. A választás bejelentését az adóévről szóló bevallásban legkésőbb az annak benyújtására előírt határidőig kell megtenni az állami adóhatóságnál.
 
 (11) A befizetett előleg és a járulék éves összege közötti különbözetet az adóévet követő adóév ötödik hónapja utolsó napjáig kell befizetni, illetőleg a többletbefizetést ettől az időponttól lehet visszaigényelni.
 
