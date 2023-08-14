@@ -1,4 +1,4 @@
-22. §
+### 22. §
 
 ## Melléklet a 2003. évi CX. törvényhez
 
@@ -10,11 +10,7 @@ Adótételek az egyes adókategóriákban
 
 |
 
-Adó-
-
-kate-
-
-gória
+Adó- kate- gória
 
 |
 
@@ -392,7 +388,7 @@ Elektromos és hibrid meghajtású motorkerékpárok
 
 0 Ft/db
 
-A gépjármű e törvény szerinti kategóriába sorolását, továbbá a gépjármű műszaki és környezetvédelmi osztályba sorolási adatait a közlekedési hatóság a forgalomba helyezés engedélyezésének eljárásában állapítja meg, és a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet 1. számú melléklet II. részében meghatározott Műszaki adatlapon rögzíti.
+## A gépjármű e törvény szerinti kategóriába sorolását, továbbá a gépjármű műszaki és környezetvédelmi osztályba sorolási adatait a közlekedési hatóság a forgalomba helyezés engedélyezésének eljárásában állapítja meg, és a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet 1. számú melléklet II. részében meghatározott Műszaki adatlapon rögzíti.
 
 II. rész rész
 

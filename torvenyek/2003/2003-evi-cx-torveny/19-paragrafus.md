@@ -2,6 +2,6 @@
 
 (2) Mentesül az adó megfizetése alól az a természetes személy, aki az általános forgalmi adóról szóló törvény szerint nem adóalany, és 2004. február 1. napja előtt a Fat. alapján a fogyasztási adó alanyaként a személygépkocsit terhelő fogyasztási adót a nevére szóló vámhatósági határozat alapján megfizette, de a személygépkocsit e törvény hatálybalépését követően helyezteti forgalomba. Mentesül az adó megfizetése alól az a természetes személy, jogi személy vagy jogi személyiség nélküli szervezet is, aki (amely) olyan, 5-nél rosszabb környezetvédelmi osztályba sorolt személygépkocsit helyeztet forgalomba, amelyről a vámhatóság – a vámeljárást kezdeményező, a fogyasztási adó alanyának kérésére – külön igazolta, hogy a személygépkocsit 2004. január 1. napja előtt hozták be belföldre, és a személygépkocsit terhelő fogyasztási adót a fogyasztási adó alanya megfizette.
 
-(3) A 8. § (3) bekezdését akkor is alkalmazni kell, ha a személygépkocsit 2004. február 1. napja előtt helyezték forgalomba, de 2004. február 1. napját követően alakították át. Ha az átalakítás révén különbözeti vámteher is keletkezik, a 8. § (3) bekezdésében foglaltakat akkor is alkalmazni kell azzal, hogy a különbözeti vámteher megállapítása során az e törvényben megállapított regisztrációs adót is figyelembe kell venni.
+(3)
 
 (4) A 14. § (1) bekezdése alapján az adó visszafizetése kizárólag olyan személygépkocsi átalakítása során történhet, amelynek a forgalomba helyezésekor az e törvény szerinti adót fizették meg.
