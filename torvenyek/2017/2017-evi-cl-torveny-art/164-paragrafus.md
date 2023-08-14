@@ -4,7 +4,7 @@
 
 ### 164. § [A feltételes adómegállapítás általános szabályai]
 
-(1) Az adópolitikáért felelős miniszter az adózó kérelmére – az általa közölt, jövőbeni ügyletre, vagy jövőbeni ügyletnek nem minősülő ügyletre vonatkozó részletes tényállás alapján – a kérelemben megjelölt adókötelezettségre vagy annak hiányára vonatkozó konkrét kérdés(ek) vonatkozásában megállapítja az adózó adókötelezettségét vagy annak hiányát.
+(1) Az adópolitikáért felelős miniszter az adózó kérelmére – az általa közölt, jövőbeni ügyletre, vagy jövőbeni ügyletnek nem minősülő ügyletre, vagy típusszerződésre vonatkozó részletes tényállás alapján – a kérelemben megjelölt adókötelezettségre vagy annak hiányára vonatkozó konkrét kérdés vonatkozásában megállapítja az adózó adókötelezettségét vagy annak hiányát.
 
 (2) Az adó feltételes megállapítására irányuló kérelemként nem terjeszthető elő
 

@@ -12,4 +12,4 @@
 
 (6) Az állami adó- és vámhatóság a cégbíróságot elektronikus úton haladéktalanul tájékoztatja az adózóval szemben folytatott, az e § szerinti eljárás(ok) végleges befejezéséről, illetve végelszámolás esetén arról is, hogy az adózónak van-e az állami adó- és vámhatóságnál nyilvántartott köztartozása.
 
-(7) Ha a végelszámolás alatt álló adózó a végelszámolás megszüntetéséről, a működésének továbbfolytatásáról határoz, akkor a változás bejelentését követően az általános eljárási szabályok alkalmazandók, feltéve, hogy az ellenőrzés megállapításait tartalmazó jegyzőkönyv átadására még nem került sor.
+(7) Ha a végelszámolás alatt álló adózó a végelszámolás megszüntetéséről, a működésének továbbfolytatásáról határoz, akkor a változás bejegyzését követően az általános eljárási szabályok alkalmazandók, feltéve, hogy az ellenőrzés megállapításait tartalmazó jegyzőkönyv átadására még nem került sor.

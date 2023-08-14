@@ -168,6 +168,8 @@ c) ha nemzetközi szerződés az adóügyi illetőséget az üzletvezetés helye
 
 49. tételes elszámolású fizetési kötelezettség: vám, importtermék általános forgalmi adó, regisztrációs adó, importtal kapcsolatos jövedéki adó,
 
+49a. típusszerződés: az adózó és előre meg nem határozható számú, vagy előre meghatározható számú, de nem azonosítható személy vagy személyek közötti ügylet,
+
 50. útdíjköteles gépjármű: az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló törvény szerinti útdíjköteles gépjármű,
 
 51. vállalkozási tevékenység: az a rendszeres gazdasági tevékenység, amelyet a természetes személy, illetve a jogi személy vagy egyéb szervezet saját nevében és kockázatára üzletszerűen végez,

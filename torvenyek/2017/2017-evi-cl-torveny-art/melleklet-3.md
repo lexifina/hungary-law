@@ -305,9 +305,3 @@
 ## 2. Ha a támogatást megállapító jogszabály eltérően nem rendelkezik,
 
 ## 2.1. a havonta megállapított költségvetési támogatást az adózó havonta a tárgyhót követő hó huszadik napjától,
-
-## 2.2. a feltétel bekövetkeztéhez kötött költségvetési támogatást az előírt mellékletekkel ellátott bevallás benyújtása időpontjától
-
-## igényelheti.
-
-## 3. Gyakoribb igénybevétel, egyszeri támogatási előleg

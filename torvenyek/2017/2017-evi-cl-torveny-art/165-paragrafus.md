@@ -2,9 +2,9 @@
 
 (1) A feltételes adómegállapításra irányuló kérelem díjköteles, a díj mértéke:
 
-a) ötmillió forint, a kérelem sürgősségi eljárásban történő elbírálása esetén nyolcmillió forint,
+a) típusszerződés esetén tízmillió forint,
 
-b)
+b) egyéb esetben nyolcmillió forint, a kérelem sürgősségi eljárásban történő elbírálása esetén tizenkettőmillió forint.
 
 (2)
 
