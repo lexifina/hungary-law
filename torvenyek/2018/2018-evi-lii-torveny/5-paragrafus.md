@@ -72,6 +72,6 @@ a) az 1. § (5) bekezdés a)–d) pontja szerinti jövedelmet,
 
 b) az Szja tv. szerint egyéb jövedelemnek minősülő jövedelmet és
 
-c) az 1. § (4) bekezdése szerinti jövedelmet
+c) az 1. § (4) bekezdés c) pontja szerinti jövedelmet
 
 nem terheli adófizetési kötelezettség.
