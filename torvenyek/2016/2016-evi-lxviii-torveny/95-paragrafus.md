@@ -1,6 +1,6 @@
-95. § (1) A 112. § (1) bekezdés b) pontja szerinti adófizetési kötelezettség alóli mentesülés és a hozzá kapcsolódó adó-visszaigénylés, az Európai Bizottság SA. SA.46672. számú határozata hatálya alá tartozó állami támogatást tartalmaz.
+95. § (1) A 112. § (1) bekezdés b) pontja szerinti adófizetési kötelezettség alóli mentesülés és a hozzá kapcsolódó adó-visszaigénylés az Európai Bizottság SA.104781 számú határozata hatálya alá tartozó állami támogatást tartalmaz.
 
-(2) A 113. § (1) bekezdés szerinti adó-visszaigénylés az Európai Bizottság SA.46672. számú határozata hatálya alá tartozó állami támogatást tartalmaz.
+(2) A 113. § (1) bekezdése szerinti adó-visszaigénylés az Európai Bizottság SA.104781 számú határozata hatálya alá tartozó állami támogatást tartalmaz.
 
 (3) A 113. § (5) bekezdés szerinti adó-visszaigénylés a csoportmentességi rendelet 44. cikke alapján a 2003/96/EK tanácsi irányelv szerinti környezetvédelmi adókedvezmény formájában nyújtható támogatás.
 
@@ -8,7 +8,7 @@
 
 (5) A 117. § (1) bekezdés a) és b) pontja szerinti adó-visszaigénylés a csoportmentességi rendelet 44. cikke alapján a 2003/96/EK irányelv szerinti környezetvédelmi adókedvezmény formájában nyújtott támogatás.
 
-(6) A 117. § (1) bekezdés c) pontja szerinti adó-visszaigénylés az Európai Unió működéséről szóló szerződés 107. és 108. cikke alkalmazásában a halászati és akvakultúra-termékek előállításával, feldolgozásával és forgalmazásával foglalkozó vállalkozások számára nyújtott támogatások bizonyos fajtáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló 2014. december 16-i 1388/2014/EU bizottsági rendelet (HL L 369/37, 2014. 12. 14., a továbbiakban: halászati csoportmentességi rendelet) I. melléklete szerinti kis- és középvállalkozások esetén a halászati csoportmentességi rendelet 45. cikke alapján a 2003/96/EK irányelv szerinti környezetvédelmi adókedvezmény formájában nyújtott támogatás.
+(6) A 117. § (1) bekezdés c) pontja szerinti adó-visszaigénylés az Európai Unió működéséről szóló szerződés 107. és 108. cikke alkalmazásában a halászati és akvakultúra-termékek előállításával, feldolgozásával és forgalmazásával foglalkozó vállalkozások számára nyújtott támogatások bizonyos fajtáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2022. december 14-i (EU) 2022/2473 bizottsági rendelet (a továbbiakban: halászati csoportmentességi rendelet) I. melléklete szerinti kis- és középvállalkozások esetén a halászati csoportmentességi rendelet 56. cikke alapján a 2003/96/EK irányelv szerinti környezetvédelmi adókedvezmény formájában nyújtott támogatás.
 
 (7) A 117. § (1) bekezdés c) pontja szerinti adó-visszaigénylés a halászati csoportmentességi rendelet I. melléklete szerinti nagyvállalkozás esetén az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra-ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló 2014. június 27-i 717/2014/EU bizottsági rendelet (HL L 190, 2014. 6. 18.) szerinti csekély összegű támogatásnak minősül.
 
@@ -21,3 +21,5 @@
 (11) Amennyiben a 112. § (1) bekezdés b) pontja szerinti adófizetési kötelezettség alóli mentesülés és a hozzá kapcsolódó adó-visszaigénylés, valamint a 113. § (1) bekezdése szerinti adó-visszaigénylés mértéke éves szinten meghaladja a (9) bekezdés szerinti határértéket, a visszaigényelt adó határértékeket meghaladó részét visszafizetni, valamint a mentesség határértékeket meghaladóan igénybe vett részét az adózó köteles megfizetni az állami adó- és vámhatóságnak.
 
 (12) A (9) bekezdés szerinti költségek megállapításának, a határértékeket meghaladóan visszaigényelt adó visszafizetésének, valamint a határértékeket meghaladóan igénybe vett mentesülés megfizetésének módját a végrehajtási rendelet szabályozza.
+
+(13) A 112. § (1) bekezdés b) pontja és a 113. § (1) bekezdése szerinti támogatások nem nyújthatók olyan vállalkozás részére, amely nem tett eleget az Európai Bizottság valamely korábbi támogatást jogellenesnek és a belső piaccal összeegyeztethetetlennek nyilvánító, és annak visszatérítését elrendelő határozatának.

@@ -73,3 +73,5 @@
 (36) A 74. § rendelkezéseitől eltérően a jövedéki kiskereskedő és a kereskedelemről szóló törvény szerinti kiskereskedelmi tevékenységet folytató a zárjegy nélküli hevített terméket az Fdvtv. 24/A. § (14) bekezdésében meghatározott időpontig értékesítheti.
 
 (37) A légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 67. § (1a) bekezdés c) pontját a hatálybalépésekor folyamatban lévő adóigazgatási eljárásokban is alkalmazni kell.
+
+(38) A légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 86. § (5) és (6) bekezdés rendelkezéseit a kötelező érvényű vámtarifabesorolásra is alkalmazni kell, azzal az eltéréssel, hogy kötelező érvényű KN-kód besorolás alatt kötelező érvényű vámtarifabesorolást kell érteni, továbbá KN-kód alatt a vizsgált határozatban megállapított vámtarifaszámot is kell érteni.
