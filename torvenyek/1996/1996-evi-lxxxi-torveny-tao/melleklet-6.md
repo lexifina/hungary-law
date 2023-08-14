@@ -27,5 +27,3 @@ A közhasznú szervezetként besorolt felsőoktatási intézmény az 1. § (1) b
 2. a kizárólag a közhasznú tevékenységet szolgáló immateriális javak, tárgyi eszközök, készletek értékesítésének ellenértéke, bevétele;
 
 3. a szabad pénzeszközök betétbe, értékpapírba való elhelyezése után a hitelintézettől, az értékpapír kibocsátójától kapott kamatnak, illetve az állam által kibocsátott értékpapír hozamának olyan része, amelyet a közhasznú tevékenység bevétele az összes bevételben képvisel, azzal, hogy a bevételt mindkét esetben e kamat és hozam nélkül kell számításba venni.
-
-E)
