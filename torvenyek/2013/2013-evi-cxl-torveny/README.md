@@ -23,3 +23,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-140-00-00
 | 2023-01-01 | 2022. évi LXXVI. törvény | 2013-140-00-00.16 |
 | 2023-01-06 | 2022. évi LXXVI. törvény | 2013-140-00-00.17 |
 | 2023-07-19 | 2023. évi LIX. törvény | 2013-140-00-00.18 |
+| 2023-08-14 | 2023. évi LIX. törvény | 2013-140-00-00.19 |
