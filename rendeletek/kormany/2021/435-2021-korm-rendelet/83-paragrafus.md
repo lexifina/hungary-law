@@ -32,8 +32,10 @@ c) a bejelentési vagy adatszolgáltatási kötelezettség elmulasztása,
 
 d) a bejelentésköteles tevékenység bejelentés nélkül történő végzése vagy
 
-e) kísérőokmány nélküli vagy nem megfelelő adattartalmú kísérőokmánnyal való szállítása
+e)[^43] kísérőokmány nélküli vagy nem megfelelő adattartalmú borászati kísérőokmánnyal való szállítása
 
 ## esetén.
 
 (7) A (6) bekezdésben meghatározott mulasztási bírságot a mulasztási bírság kiszabásának alapjául szolgáló adatszolgáltatási kötelezettséggel érintett szőlőültetvény területe, a borászati terméktétel mennyisége, a mulasztás időtartama és a megelőző 5 borpiaci évben kiszabott mulasztási bírságok számának figyelembevételével kell kiszabni.
+
+[^43]: A 83. § (6) bekezdés e) pontja a 392/2023. (VIII. 14.) Korm. rendelet 17. § k) pontja szerint módosított szöveg.

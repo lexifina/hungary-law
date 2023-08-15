@@ -1,8 +1,8 @@
-## 96. §[^52] A 100. §-ban meghatározott időpontig a nem kisüzemi bortermelő borászati üzemengedélyes a betárolást követően 7 napon belül megküldi a hegybíró részére a kísérőokmány másolatát.
+## 96. §[^53] A 100. §-ban meghatározott időpontig a nem kisüzemi bortermelő borászati üzemengedélyes a betárolást követően 7 napon belül megküldi a hegybíró részére a kísérőokmány másolatát.
 
-96/A. §[^53] (1) A 28–31. §-ban foglaltaktól eltérően a 2023. július 31-ig terjedő időszakban az ültetvény használója a szüret bejegyzését a HNT honlapján közzétett nyomtatvány alkalmazásával kérelmezheti november 30-ig, de legkésőbb a szüret befejezését követő hetedik napig. A hegybíró a szüret bejegyzéséről igazolást állít ki, amelynek eredeti példánya a feldolgozóé. A második példányt abban az esetben kell kiadni a termelő részére, ha a termelő nem azonos a feldolgozóval.
+96/A. §[^54] (1) A 28–31. §-ban foglaltaktól eltérően a 2023. július 31-ig terjedő időszakban az ültetvény használója a szüret bejegyzését a HNT honlapján közzétett nyomtatvány alkalmazásával kérelmezheti november 30-ig, de legkésőbb a szüret befejezését követő hetedik napig. A hegybíró a szüret bejegyzéséről igazolást állít ki, amelynek eredeti példánya a feldolgozóé. A második példányt abban az esetben kell kiadni a termelő részére, ha a termelő nem azonos a feldolgozóval.
 
 (2) A 28–31. §-ban foglaltaktól eltérően a 2023. július 31-ig terjedő időszakban a szüreti bejegyzés igazolásával rendelkező szőlő további értékesítése esetén kérelemre a hegybíró a szüreti bejegyzés igazolásának visszavonását követően új szüreti bejegyzés igazolást állít ki. Az új szüreti bejegyzés igazolást a szőlőt felvásárlónak kell kiadni, a visszavont szüreti bejegyzés igazolás számának a feltüntetésével. A szőlő további feldolgozása esetén az új szüreti bejegyzés igazolást – az előző szüreti bejegyzés igazolás visszavonásával egyidejűleg – az ültetvény helye szerint illetékes hegybíró adja ki, a kérelemtől függően papír alapon vagy elektronikusan.
 
-[^52]: A 96. § a 316/2022. (VIII. 16.) Korm. rendelet 21. § h) pontja szerint módosított szöveg.
-[^53]: A 96/A. §-t a 316/2022. (VIII. 16.) Korm. rendelet 20. §-a iktatta be.
+[^53]: A 96. § a 316/2022. (VIII. 16.) Korm. rendelet 21. § h) pontja szerint módosított szöveg.
+[^54]: A 96/A. §-t a 316/2022. (VIII. 16.) Korm. rendelet 20. §-a iktatta be.
