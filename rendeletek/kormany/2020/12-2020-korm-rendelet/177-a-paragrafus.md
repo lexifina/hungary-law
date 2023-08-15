@@ -22,36 +22,37 @@ c) honvédségi szakképző intézmény (a továbbiakban: HKP III. szintje) tanu
 
 a) a HKP I. szintjén a kilencedik évfolyam második félévétől kezdődően és a további félévekben
 
-aa) tizennégyezer forint, ha a tanulmányi átlageredmény 3,50–3,99 között van,
+aa) tizenhatezer-kettőszáznegyven forint, ha a tanulmányi átlageredmény 3,50–3,99 között van,
 
-ab) huszonhatezer forint, ha a tanulmányi átlageredmény 4,00–4,49 között van,
+ab) harmincezer-egyszázhatvan forint, ha a tanulmányi átlageredmény 4,00–4,49 között van,
 
-ac) negyvenezer forint, ha a tanulmányi átlageredmény 4,49 fölött van,
+ac) negyvenhatezer-négyszáz forint, ha a tanulmányi átlageredmény 4,49 fölött van,
 
 b) a HKP II. szintjén a kilencedik évfolyam második félévétől kezdődően és a további félévekben
 
-ba) tizenhatezer forint, ha a tanulmányi átlageredmény 3,50–3,99 között van,
+ba) tizennyolcezer-ötszázhatvan forint, ha a tanulmányi átlageredmény 3,50–3,99 között van,
 
-bb) harmincezer forint, ha a tanulmányi átlageredmény 4,00–4,49 között van,
+bb) harmincnégyezer-nyolcszáz forint, ha a tanulmányi átlageredmény 4,00–4,49 között van,
 
-bc) negyvenhatezer forint, ha a tanulmányi átlageredmény 4,49 fölött van,
+bc) ötvenháromezer-háromszázhatvan forint, ha a tanulmányi átlageredmény 4,49 fölött van,
 
-c) a HKP III. szintjén a kilencedik évfolyam első félévében tízezer forint, a kilencedik évfolyam második félévétől kezdődően és a további félévekben
+c) a HKP III. szintjén a kilencedik évfolyam első félévében tizenegyezer-hatszáz forint, a kilencedik évfolyam második félévétől kezdődően és a további félévekben
 
-ca) tízezer forint, ha a tanulmányi átlageredmény 3,50 alatt van,
+ca) tizenegyezer-hatszáz forint, ha a tanulmányi átlageredmény 3,50 alatt van,
 
-cb) húszezer forint, ha a tanulmányi átlageredmény 3,50–3,99 között van,
+cb) huszonháromezer-kétszáz forint, ha a tanulmányi átlageredmény 3,50–3,99 között van,
 
-cc) harmincnyolcezer forint, ha a tanulmányi átlageredmény 4,00–4,49 között van,
+cc) negyvennégyezer-nyolcvan forint, ha a tanulmányi átlageredmény 4,00–4,49 között van,
 
-cd) ötvennyolcezer forint, ha a tanulmányi átlageredmény 4,49 fölött van.
+cd) hatvanhétezer-kettőszáznyolcvan forint, ha a tanulmányi átlageredmény 4,49 fölött van.
 
 (5) A honvéd kadét ösztöndíj a honvéd kadétot kizárólag a tanítási év időszakában, tíz hónapra illeti meg. Teljes havi honvéd kadét ösztöndíjat kell fizetni abban a hónapban, amelyben a honvéd kadét a HKP-hoz csatlakozott szakképző intézménnyel fennálló tanulói jogviszonnyal rendelkezik, és legalább egy napig jogosult a honvéd kadét ösztöndíjra. A honvéd kadét július és augusztus hónapban honvéd kadét ösztöndíjra nem jogosult.
 
 (6) A honvéd kadét ösztöndíjat legkésőbb a tárgyhónapot követő hónap ötödik napjáig kell a honvéd kadét fizetési számlájára átutalni. A tanév első félévében a szeptember és október hónapokra járó ösztöndíjat egy összegben, legkésőbb november ötödikéig kell kifizetni. Ha a honvéd kadét tanulói jogviszonya a HKP-hoz csatlakozott szakképző intézményhez október 1-jét követően keletkezik, a honvéd kadét ösztöndíj első alkalommal történő kifizetésének legkésőbb a HKP-hoz csatlakozott szakképző intézmény adatszolgáltatását követő második hónap tizedik napjáig, a beiratkozás napját alapul véve, a tanulói jogviszony HKP-hoz csatlakozott szakképző intézménnyel való létrejöttéig visszamenőlegesen, egyösszegben kell megtörténnie.
 
-(7) A honvéd kadét ösztöndíj tervezését, elszámolását és kifizetését, valamint a honvéd kadét ösztöndíj kifizetéséhez szükséges adatoknak a honvédelemért felelős miniszter által biztosított informatikai rendszerbe történő rögzítését a Magyar Honvédség parancsnoka által kijelölt honvédségi szervezet látja el a HKP-hoz csatlakozott szakképző intézmény adatszolgáltatása alapján.
+(7)[^261] A honvéd kadét ösztöndíj tervezését, elszámolását és kifizetését, valamint a honvéd kadét ösztöndíj kifizetéséhez szükséges adatoknak a honvédelemért felelős miniszter által biztosított informatikai rendszerbe történő rögzítését a Honvéd Vezérkar főnöke által kijelölt honvédségi szervezet látja el a HKP-hoz csatlakozott szakképző intézmény adatszolgáltatása alapján.
 
 [^258]: A 177/A. §-t a 461/2021. (VIII. 5.) Korm. rendelet 1. §-a iktatta be.
 [^259]: A 177/A. § (3) bekezdését az 54/2022. (II. 23.) Korm. rendelet 5. §-a hatályon kívül helyezte.
-[^260]: A 177/A. § (4) bekezdése az 54/2022. (II. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^260]: A 177/A. § (4) bekezdése a 391/2023. (VIII. 14.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^261]: A 177/A. § (7) bekezdése a 391/2023. (VIII. 14.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.

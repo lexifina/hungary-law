@@ -7,5 +7,3 @@
 (3) A szakképző intézmény külső értékelése a szakképző intézményre és a szakképző intézmény vezetőjének munkájára terjed ki. Ennek keretében kell értékelni
 
 a) a szakképzésialapfeladat-ellátást,
-
-b) az előző külső értékelés eredményét és az ahhoz kapcsolódó fejlesztési intézkedések megvalósulását,

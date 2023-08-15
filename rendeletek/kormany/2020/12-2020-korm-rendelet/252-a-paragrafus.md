@@ -1,3 +1,3 @@
-252/A. §[^320]
+252/A. §[^323]
 
-[^320]: A 252/A. §-t a 380/2021. (VI. 30.) Korm. rendelet 37. §-a iktatta be, a 292/2023. (VII. 6.) Korm. rendelet 48. § 51. pontja hatályon kívül helyezte.
+[^323]: A 252/A. §-t a 380/2021. (VI. 30.) Korm. rendelet 37. §-a iktatta be, a 292/2023. (VII. 6.) Korm. rendelet 48. § 51. pontja hatályon kívül helyezte.

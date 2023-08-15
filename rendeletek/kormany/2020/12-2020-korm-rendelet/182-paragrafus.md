@@ -1,4 +1,4 @@
-182. § (1)[^268] A tanulmányok alatti vizsga vizsgaidőszakát legkésőbb a tanulmányok alatti vizsgát megelőző három hónappal korábban kell kijelölni. A tanulmányok alatti vizsga időpontjáról a vizsgázót a vizsgára történő jelentkezéskor írásban tájékoztatni kell.
+182. § (1)[^271] A tanulmányok alatti vizsga vizsgaidőszakát legkésőbb a tanulmányok alatti vizsgát megelőző három hónappal korábban kell kijelölni. A tanulmányok alatti vizsga időpontjáról a vizsgázót a vizsgára történő jelentkezéskor írásban tájékoztatni kell.
 
 (2) Tanulmányok alatti vizsgát – az e rendeletben meghatározottak szerint – független vizsgabizottság előtt vagy abban a szakképző intézményben lehet tenni, amellyel a tanuló tanulói jogviszonyban áll. A szabályosan megtartott tanulmányok alatti vizsga nem ismételhető.
 
@@ -10,4 +10,4 @@
 
 (6) Az olyan tantárgyból, amely követelményeinek teljesítésével a szakképző intézmény szakmai programja alapján valamely vizsgatárgyból a tanuló érettségi vizsga letételére való jogosultságot szerezhet, a tanulmányok alatti vizsgán minden évfolyamon kötelező követelmény a minimum hatvanperces, az adott vizsgatárgy legfontosabb tanulmányi követelményeit magában foglaló írásbeli vizsgatevékenység és szóbeli vizsgatevékenység sikeres teljesítése.
 
-[^268]: A 182. § (1) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 58. § 47. pontja szerint módosított szöveg.
+[^271]: A 182. § (1) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 58. § 47. pontja szerint módosított szöveg.
