@@ -1,3 +1,3 @@
-20. §[^28]
+20. §[^30]
 
-[^28]: A 20. § a 19. § (2) bekezdés alapján 2023. augusztus 19-én lép hatályba.
+[^30]: A 20. § a 19. § (2) bekezdés alapján 2023. augusztus 19-én lép hatályba.

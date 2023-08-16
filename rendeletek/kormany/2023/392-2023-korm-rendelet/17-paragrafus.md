@@ -20,9 +20,9 @@ i)[^25]
 
 j)[^26]
 
-k) 83. § (6) bekezdés e) pontjában a „kísérőokmánnyal” szövegrész helyébe a „borászati kísérőokmánnyal” szöveg,
+k)[^27]
 
-l) 100. §-ában a „2023.” szövegrész helyébe a „2024.” szöveg
+l)[^28]
 
 lép.
 
@@ -36,3 +36,5 @@ lép.
 [^24]: A 17. § h) pontja a 19. § (2) bekezdés alapján 2023. augusztus 19-én lép hatályba.
 [^25]: A 17. § i) pontja a 19. § (2) bekezdés alapján 2023. augusztus 19-én lép hatályba.
 [^26]: A 17. § j) pontja a 19. § (2) bekezdés alapján 2023. augusztus 19-én lép hatályba.
+[^27]: A 17. § k) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 17. § l) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

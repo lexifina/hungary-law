@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-392-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2023-08-15 | 2023-392-20-22.1 | 392/2023. (VIII. 14.) Korm. rendelet |
+| 2023-08-16 | 2023-392-20-22.2 | 2010. évi CXXX. törvény |
