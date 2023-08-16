@@ -1,5 +1,3 @@
-6. § Hatályát veszti
+6. §[^1]
 
-a) a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter útján irányított nemzetbiztonsági szolgálatok létesítményeibe történő belépés rendjéről szóló 62/2012. (XII. 11.) BM rendelet, valamint
-
-b) a polgári nemzetbiztonsági szolgálatok létesítményeibe történő belépés rendjéről szóló 1/1996. (VI. 19.) TNM rendelet.
+[^1]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
