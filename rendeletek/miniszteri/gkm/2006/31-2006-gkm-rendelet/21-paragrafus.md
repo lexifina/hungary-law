@@ -10,7 +10,7 @@ d) a gyártási számot,
 
 e) a típusjóváhagyó próbajelet.
 
-(2)[^30] A típusjóváhagyó vizsgálat próbajele, amely a kipontozott helyen a jóváhagyás számát is tartalmazza, a következő:
+(2)[^31] A típusjóváhagyó vizsgálat próbajele, amely a kipontozott helyen a jóváhagyás számát is tartalmazza, a következő:
 
 9. számú próbajel
 
@@ -22,4 +22,4 @@ T
 
 Ezzel a próbajellel kell ellátni a 17. § (2) bekezdésében felsorolt eszközöket.
 
-[^30]: A 21. § (2) bekezdése a 19/2017. (VII. 12.) NGM rendelet 2. §-ával megállapított szöveg.
+[^31]: A 21. § (2) bekezdése a 19/2017. (VII. 12.) NGM rendelet 2. §-ával megállapított szöveg.

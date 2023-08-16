@@ -4,7 +4,7 @@
 
 a) leírását,
 
-b)[^19] kategóriáját, alkategóriáját,
+b)[^20] kategóriáját, alkategóriáját,
 
 c) kaliberjelét,
 
@@ -18,7 +18,7 @@ g) típusát,
 
 h) érvényességének lejártát.
 
-i)[^20] a tv. 2. melléklete szerinti műszaki követelményeknek való megfelelését a gáz- és riasztófegyverek esetében.
+i)[^21] a tv. 2. melléklete szerinti műszaki követelményeknek való megfelelését a gáz- és riasztófegyverek esetében.
 
-[^19]: A 13. § b) pontja az 51/2020. (XII. 18.) ITM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^20]: A 13. § i) pontját az 51/2020. (XII. 18.) ITM rendelet 6. § (2) bekezdése iktatta be.
+[^20]: A 13. § b) pontja az 51/2020. (XII. 18.) ITM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^21]: A 13. § i) pontját az 51/2020. (XII. 18.) ITM rendelet 6. § (2) bekezdése iktatta be.
