@@ -1,1 +1,3 @@
-3. § Az R. 3. § (2a) bekezdésében a „101. és 108.” szövegrész helyébe a „101., 108. és 118.” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
