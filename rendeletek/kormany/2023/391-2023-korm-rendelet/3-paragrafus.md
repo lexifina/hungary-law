@@ -1,3 +1,3 @@
-3. § Az Szkr. 177/B. § (5) bekezdése helyébe a következő rendelkezés lép:
+3. §[^3]
 
-„(5) Az árvák ösztöndíjának havonkénti összege hatvankilencezer-hatszáz forint.”
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
