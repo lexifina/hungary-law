@@ -66,7 +66,7 @@ b) épület utólagos szigetelése vagy
 
 c) vakolt lábazatnak az eredetivel azonos kialakítású kő vagy műkő anyagú átépítése
 
-## érdekében, egyszerűsített építéstörténeti tudományos dokumentáció alapján lehet.
+érdekében, egyszerűsített építéstörténeti tudományos dokumentáció alapján lehet.
 
 (13) Közterületről nyíló pincelejáró és az ahhoz kapcsolódó nyílászáró az épület építészeti tagozataihoz, homlokzattagolásához, homlokzati architektúráihoz és nyílásrendszeréhez illeszkedve létesíthető.
 

@@ -1,5 +1,3 @@
-## A IV. fejezettel összefüggő beépítési szabályok
-
 |  | A | B | C | D | E | F | G | H | I | J | K |
 
 | 1. | érintett telek (Budapest V. kerület, helyrajzi szám) | az építési telek | az épület |
@@ -60,7 +58,7 @@
 
 3. melléklet a 19/2018. (II. 14.) Korm. rendelethez
 
-## Az egyszerűsített építéstörténeti tudományos dokumentáció tartalma
+Az egyszerűsített építéstörténeti tudományos dokumentáció tartalma
 
 1. Forráskutatás (meghatározó írott források, térképek, tervek, fényképek, ábrázolások, szóbeli visszaemlékezések);
 

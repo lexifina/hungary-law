@@ -16,6 +16,6 @@ a) a főváros, a kerület, illetve a kiemelt nemzeti emlékhely szempontjából
 
 b) az építési tevékenység idejére építési reklámháló kihelyezése
 
-## érdekében lehet eltérni.
+érdekében lehet eltérni.
 
 (6) Az (5) bekezdés b) pontja szerinti építési reklámhálón kizárólag a megépíteni tervezett homlokzat látványterve jeleníthető meg.

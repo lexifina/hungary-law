@@ -10,6 +10,8 @@ d) zöldfelület telepítése,
 
 e)[^48] az egyszerűsített építéstörténeti tudományos dokumentáció tartalmának meghatározása
 
+esetében.
+
 [^46]: A 31. § a 85/2019. (IV. 23.) Korm. rendelet 7. §-ával megállapított szöveg.
 [^47]: A 31. § c) pontja a 197/2020. (V. 12.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
 [^48]: A 31. § e) pontját a 197/2020. (V. 12.) Korm. rendelet 7. §-a iktatta be.

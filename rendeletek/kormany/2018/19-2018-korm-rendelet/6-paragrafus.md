@@ -18,7 +18,7 @@ d) a sajátos építményfajtákra, műtárgyakra vonatkozó és
 
 e) a közterületek alakítására vonatkozó
 
-## követelmények.
+követelmények.
 
 (2) A kiemelt településkép-védelmi környezetben lévő telken az egyedi településképi követelményekkel, a IV. fejezetben és a 2. mellékletben meghatározott beépítési szabályokkal összhangban tartható fenn építmény, valamint végezhető építési és egyéb tevékenység.
 

@@ -1,6 +1,6 @@
-4. melléklet a 19/2018. (II. 14.) Korm. rendelethez[^103]
+4. melléklet a 19/2018. (II. 14.) Korm. rendelethez[^107]
 
-## A kiemelt nemzeti emlékhely és településkép-védelmi környezetére vonatkozó arculati kézikönyv tartalmi követelménye
+A kiemelt nemzeti emlékhely és településkép-védelmi környezetére vonatkozó arculati kézikönyv tartalmi követelménye
 
 1. A kiemelt nemzeti emlékhely és településkép-védelmi környezetének bemutatása, településkép, településkarakter;
 
@@ -30,4 +30,4 @@ a) építészeti útmutató,
 
 b) közterületek településképi útmutatója.
 
-[^103]: A 4. melléklet a 85/2019. (IV. 23.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^107]: A 4. melléklet a 85/2019. (IV. 23.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.

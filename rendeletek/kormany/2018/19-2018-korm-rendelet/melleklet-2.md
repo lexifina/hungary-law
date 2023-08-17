@@ -1,4 +1,4 @@
-## A kiemelt nemzeti emlékhely településkép-védelmi környezetének részét képező ingatlanok, ingatlanrészek jegyzéke
+## 1X11920M_0
 
 |  | A | B | C | D | E |
 
@@ -196,6 +196,8 @@
 
 | 97. | Szabadság tér 17. / Nádor utca 25–27. / Széchenyi utca 18. / Zoltán utca 17. | 24714 | teljes épület |  |  |
 
-2. melléklet a 19/2018. (II. 14.) Korm. rendelethez[^102]
+2. melléklet a 19/2018. (II. 14.) Korm. rendelethez[^106]
 
-[^102]: A 2. melléklet a 145/2018. (VIII. 13.) Korm. rendelet 3. §-a, a 85/2019. (IV. 23.) Korm. rendelet 10. § c) pontja, a 197/2020. (V. 12.) Korm. rendelet 13. § (2) bekezdése és 15. § d) pontja, a 420/2021. (VII. 15.) Korm. rendelet 95. § e) pontja szerint módosított szöveg.
+A IV. fejezettel összefüggő beépítési szabályok
+
+[^106]: A 2. melléklet a 145/2018. (VIII. 13.) Korm. rendelet 3. §-a, a 85/2019. (IV. 23.) Korm. rendelet 10. § c) pontja, a 197/2020. (V. 12.) Korm. rendelet 13. § (2) bekezdése és 15. § d) pontja, a 420/2021. (VII. 15.) Korm. rendelet 95. § e) pontja szerint módosított szöveg.

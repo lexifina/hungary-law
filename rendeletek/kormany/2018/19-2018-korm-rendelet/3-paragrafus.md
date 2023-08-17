@@ -62,7 +62,7 @@ d) a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény 4. �
 
 e) a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény 4. § (1) bekezdés 1. pontjában meghatározott ABA és a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény 4. § (1) bekezdés 8. pontjában meghatározott ÁÉKBV tevékenységet
 
-## szolgáló rendeltetés, ideértve az OTÉK szerinti szolgáltató rendeltetést;
+szolgáló rendeltetés, ideértve az OTÉK szerinti szolgáltató rendeltetést;
 
 25. társasház: a kiemelt nemzeti emlékhely településkép-védelmi környezetében álló ingatlanon a társasházakról szóló 2003. évi CXXXIII. törvényben meghatározott társasház;
 

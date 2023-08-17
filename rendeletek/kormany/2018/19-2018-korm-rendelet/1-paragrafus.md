@@ -25,3 +25,5 @@ cb) a szakmai konzultáció, a településképi véleményezési eljárás, a te
 d) az egyedi településképi követelmények érvényesítése érdekében szükséges hatósági kötelezés részletes szabályaira,
 
 e) a településképi ösztönző- és támogatási rendszer meghatározására
+
+terjed ki.

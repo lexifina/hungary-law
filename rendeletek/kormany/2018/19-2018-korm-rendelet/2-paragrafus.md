@@ -1,5 +1,3 @@
-## terjed ki.
-
 ## 2. § A kiemelt nemzeti emlékhely és településkép-védelmi környezetének területére vonatkozóan
 
 a)[^1] a főváros és a kerület településrendezési terveit az e rendeletben foglalt eltérésekkel kell alkalmazni, azzal, hogy ha a településrendezési terv e rendelettel ellentétes, az e rendeletben foglaltakat kell alkalmazni,
