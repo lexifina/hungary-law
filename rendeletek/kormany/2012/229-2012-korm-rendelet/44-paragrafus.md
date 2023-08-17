@@ -1,4 +1,4 @@
-44. §[^254] (1) A 42. §-ban és 43. §-ban foglaltaktól eltérően az EMMI rendelet szerinti szakértői bizottságként eljáró Gyakorló Szakszolgálat szakértői véleményében foglaltakkal és eljárásával kapcsolatban a (2)–(4) bekezdés rendelkezései alkalmazandóak.
+44. §[^255] (1) A 42. §-ban és 43. §-ban foglaltaktól eltérően az EMMI rendelet szerinti szakértői bizottságként eljáró Gyakorló Szakszolgálat szakértői véleményében foglaltakkal és eljárásával kapcsolatban a (2)–(4) bekezdés rendelkezései alkalmazandóak.
 
 (2) Az eljárást az a kormányhivatal folytatja le, amelynek a működési területén a Gyakorló Szakszolgálat vizsgálatát kezdeményező személy lakóhelye, ennek hiányában, vagy ha az nem állapítható meg, tartózkodási helye található.
 
@@ -6,4 +6,4 @@
 
 (4) A kormányhivatal eljárásában diagnosztikai kérdésekben szakértőként – a kormányhivatal kirendelése alapján – a Gyakorló Szakszolgálat jár el azzal, hogy az eljárásban nem vehet részt az a szakértő, aki a Gyakorló Szakszolgálat részéről az eljárásban érintett szakértői vélemény elkészítésében részt vett.
 
-[^254]: A 44. §-t a 354/2016. (XI. 18.) Korm. rendelet 6. §-a hatályon kívül helyezte, újonnan a 275/2019. (XI. 21.) Korm. rendelet – a 321/2019. (XII. 19.) Korm. rendelet 5. §-a szerint módosított – 2. §-a iktatta be.
+[^255]: A 44. §-t a 354/2016. (XI. 18.) Korm. rendelet 6. §-a hatályon kívül helyezte, újonnan a 275/2019. (XI. 21.) Korm. rendelet – a 321/2019. (XII. 19.) Korm. rendelet 5. §-a szerint módosított – 2. §-a iktatta be.

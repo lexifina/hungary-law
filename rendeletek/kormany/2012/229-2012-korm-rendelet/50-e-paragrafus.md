@@ -1,3 +1,3 @@
-50/E. §[^278]
+50/E. §[^279]
 
-[^278]: Az 50/E. §-t a 365/2014. (XII. 30.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 13/2020. (II. 7.) Korm. rendelet 74. § (2) bekezdés 10. pontja.
+[^279]: Az 50/E. §-t a 365/2014. (XII. 30.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 13/2020. (II. 7.) Korm. rendelet 74. § (2) bekezdés 10. pontja.
