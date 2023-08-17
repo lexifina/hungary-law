@@ -1,3 +1,3 @@
-1. § A fegyverek, lövőkészülékek, valamint ezek lőszereinek vizsgálatáról szóló 31/2006. (VI. 1.) GKM rendelet 1. § (2) bekezdése a következő c) ponttal egészül ki:
+1. §[^2]
 
-(A rendelet alkalmazási köre nem terjed ki:)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

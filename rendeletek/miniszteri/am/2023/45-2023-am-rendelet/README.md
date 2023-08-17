@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-45-20-7
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2023-08-16 | 2023-45-20-7R.1 | 45/2023. (VIII. 8.) AM rendelet |
+| 2023-08-17 | 2023-45-20-7R.2 | 2010. évi CXXX. törvény |
