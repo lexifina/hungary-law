@@ -4,14 +4,15 @@
 
 (2) A Bizottság tagjainak megbízatása visszavonásig érvényes. A tisztség megszűnik a miniszterelnök-helyetteshez intézett írásbeli lemondással, illetve a bizottsági tag halálával.
 
-(3) A Bizottság a tagjai közül elnököt és két elnökhelyettest választ, működési szabályzatát maga állapítja meg, amelyet – a miniszterelnök-helyettes előterjesztésében – a Kormány hagy jóvá.
+(3)[^3] A Bizottság tagjai közül elnököt és két elnökhelyettest választ. A Bizottság működési szabályzatát maga állapítja meg.
 
 (4) A Bizottság működési feltételeit a Miniszterelnökség biztosítja, külön soron elkülönített költségvetéssel.
 
 (5) A Bizottság tagjait díjazás illeti meg.
 
-(6)[^3] A Bizottság működésével kapcsolatos ügyviteli feladatokat az Intézet látja el. Az Intézet elnöke a Bizottság üléseinek állandó meghívottja.
+(6)[^4] A Bizottság működésével kapcsolatos ügyviteli feladatokat az Intézet látja el. Az Intézet elnöke a Bizottság üléseinek állandó meghívottja.
 
 [^1]: Az 1. § a 145/2013. (V. 14.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: A 2. § (1) bekezdése a 145/2013. (V. 14.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^3]: A 2. § (6) bekezdését a 145/2013. (V. 14.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^3]: A 2. § (3) bekezdése a 388/2023. (VIII. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^4]: A 2. § (6) bekezdését a 145/2013. (V. 14.) Korm. rendelet 1. § (3) bekezdése iktatta be.
