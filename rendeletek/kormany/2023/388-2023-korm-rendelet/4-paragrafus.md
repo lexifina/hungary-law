@@ -1,0 +1,3 @@
+4. § Az R. 22. Hatályba léptető rendelkezések alcíme a következő 52/B. §-sal egészül ki:
+
+„52/B. § E rendeletnek a Nemzeti Emlékhely és Kegyeleti Bizottságról szóló 258/2010. (XI. 12.) Korm. rendelet és a kiemelt nemzeti emlékhely és településkép-védelmi környezetének településkép védelméről és egyes kapcsolódó kormányrendeletek módosításáról szóló 19/2018. (II. 14.) Korm. rendelet módosításáról szóló 388/2023. (VIII. 14.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 35/A. §-át, 47/A. §-át, valamint módosított 46. § (1) bekezdését a Módr2. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”
