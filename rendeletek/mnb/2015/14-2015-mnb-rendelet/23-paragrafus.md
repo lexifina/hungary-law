@@ -1,1 +1,0 @@
-## 22. § Az MNB a befizetett díjakat befizetési jogcímenként és ügyfelenként tartja nyilván, a Magyar Nemzeti Bank éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló Korm. rendeletben foglaltaknak megfelelően.
