@@ -1,0 +1,9 @@
+# 32/2023. (VII. 19.) MNB rendelet
+
+a pénzügyi közvetítőrendszer felügyelete keretében, valamint a bizalmi vagyonkezelő vállalkozások tekintetében lefolytatott egyes engedélyezési és nyilvántartásba vételi eljárások igazgatási szolgáltatási díjáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-32-20-2C
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2023-08-18 | 2023-32-20-2C.1 | 32/2023. (VII. 19.) MNB rendelet |
