@@ -1,1 +1,3 @@
-5. § Az R. 46. § (1) bekezdésében a „részfinanszírozására” szövegrész helyébe a „részfinanszírozására vagy a 47/A. § szerinti esetben” szöveg lép.
+5. §[^6]
+
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
