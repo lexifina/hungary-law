@@ -1,3 +1,3 @@
-14. §[^14]
+14. § A 435/2021. (VII. 16.) Korm. rendelet 77. §-a a következő c) ponttal egészül ki:
 
-[^14]: A 14. § a 19. § (2) bekezdés alapján 2023. augusztus 19-én lép hatályba.
+(A gazdasági akta a Btv. 20. §-ában meghatározottakon túl tartalmazza)

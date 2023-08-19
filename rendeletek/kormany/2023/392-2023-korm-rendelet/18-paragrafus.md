@@ -1,3 +1,1 @@
-18. §[^29]
-
-[^29]: A 18. § a 19. § (2) bekezdés alapján 2023. augusztus 19-én lép hatályba.
+18. § Hatályát veszti a 435/2021. (VII. 16.) Korm. rendelet 77. § a) pont ac) alpontjában a „valamint” szövegrész.

@@ -1,40 +1,30 @@
 17. § A 435/2021. (VII. 16.) Korm. rendelet
 
-a)[^17]
+a) 36. § nyitó szövegrészében a „maghatározott” szövegrész helyébe a „meghatározott” szöveg,
 
-b)[^18]
+b) 17. alcím címében a „Kísérőokmányokkal” szövegrész helyébe a „Borászati kísérőokmányokkal” szöveg,
 
-c)[^19]
+c) 45. § (1) és (3) bekezdésében a „kísérőokmányt” szövegrész helyébe a „borászati kísérőokmányt” szöveg,
 
-d)[^20]
+d) 45. § (2), (3), (5) és (6) bekezdésében, 83. § (6) bekezdés e) pontjában, 96. §-ában a „kísérőokmány” szövegrész helyébe a „borászati kísérőokmány” szöveg,
 
-e)[^21]
+e) 45. § (4) bekezdésében a „kísérőokmány” szövegrészek helyébe a „borászati kísérőokmány” szöveg,
 
-f)[^22]
+f) 45. § (5) bekezdésében a „kísérőokmányokkal” szövegrész helyébe a „borászati kísérőokmányokkal” szöveg,
 
-g)[^23]
+g) 75. § (1) bekezdésében a „kísérőokmányaival” szövegrész helyébe a „borászati kísérőokmányaival” szöveg,
 
-h)[^24]
+h) 78. § (4) bekezdésében az „adott borpiaci év végéig” szövegrész helyébe a „15 napon belül” szöveg,
 
-i)[^25]
+i) 81. § (3) bekezdés n) pontjában a „kísérőokmányait” szövegrész helyébe a „borászati kísérőokmányait” szöveg,
 
-j)[^26]
+j) 83. § (6) bekezdésében az „50 000” szövegrész helyébe a „10 000” szöveg,
 
-k)[^27]
+k)[^1]
 
-l)[^28]
+l)[^2]
 
 lép.
 
-[^17]: A 17. § a) pontja a 19. § (2) bekezdés alapján 2023. augusztus 19-én lép hatályba.
-[^18]: A 17. § b) pontja a 19. § (2) bekezdés alapján 2023. augusztus 19-én lép hatályba.
-[^19]: A 17. § c) pontja a 19. § (2) bekezdés alapján 2023. augusztus 19-én lép hatályba.
-[^20]: A 17. § d) pontja a 19. § (2) bekezdés alapján 2023. augusztus 19-én lép hatályba.
-[^21]: A 17. § e) pontja a 19. § (2) bekezdés alapján 2023. augusztus 19-én lép hatályba.
-[^22]: A 17. § f) pontja a 19. § (2) bekezdés alapján 2023. augusztus 19-én lép hatályba.
-[^23]: A 17. § g) pontja a 19. § (2) bekezdés alapján 2023. augusztus 19-én lép hatályba.
-[^24]: A 17. § h) pontja a 19. § (2) bekezdés alapján 2023. augusztus 19-én lép hatályba.
-[^25]: A 17. § i) pontja a 19. § (2) bekezdés alapján 2023. augusztus 19-én lép hatályba.
-[^26]: A 17. § j) pontja a 19. § (2) bekezdés alapján 2023. augusztus 19-én lép hatályba.
-[^27]: A 17. § k) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^28]: A 17. § l) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 17. § k) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 17. § l) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
