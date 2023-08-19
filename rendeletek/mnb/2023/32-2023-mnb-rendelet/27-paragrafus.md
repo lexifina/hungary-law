@@ -1,1 +1,3 @@
-27. § Hatályát veszti a Magyar Nemzeti Bank által a pénzügyi közvetítőrendszer felügyelete keretében, valamint a bizalmi vagyonkezelő vállalkozások tekintetében lefolytatott egyes engedélyezési és nyilvántartásba vételi eljárások igazgatási szolgáltatási díjáról szóló 14/2015. (V. 13.) MNB rendelet.
+27. §[^1]
+
+[^1]: A 27. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
