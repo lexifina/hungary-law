@@ -13,3 +13,7 @@ c) a helyszíni szemlét elrendelő hegybíró részére, amennyiben a helyszín
 (3) A NÉBIH értesíti a hegybírót a Btv. 5. § (4) bekezdése alapján végrehajtott kivágásról, amelyet követően a hegybíró a szőlőültetvény kivágásának helyszíni ellenőrzésére vonatkozó szabályok alapján jár el.
 
 (4) A hegybíró a kivágás tényének megállapítását követően vagy a NÉBIH kivágást megállapító jegyzőkönyve alapján az újratelepítési jogosultságot a gazdasági aktába bejegyzi.
+
+(5)[^8] A (4) bekezdéstől eltérően újratelepítési jogosultság a gazdasági aktába nem jegyezhető be, ha a hegybíró a (2) bekezdés szerinti helyszíni szemle során megállapítja, hogy a kivágással érintett ültetvény területe az (EU) 2018/273 felhatalmazáson alapuló bizottsági rendelet 2. cikk (1) bekezdés d) pontja szerinti művelés nélkül hagyott szőlőtermő terület.
+
+[^8]: A 26. § (5) bekezdését a 392/2023. (VIII. 14.) Korm. rendelet 3. §-a iktatta be.

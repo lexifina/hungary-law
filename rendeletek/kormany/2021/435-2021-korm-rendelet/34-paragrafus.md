@@ -1,11 +1,17 @@
-## 34. §[^16] A borászati üzemengedélyes a borászati üzem
+34. §[^21] A borászati üzemengedélyes a borászati üzem
 
 a) engedélyezett tevékenységében vagy az üzemengedély iránti kérelemben megadott adataiban bekövetkezett változást,
 
 b) működésének megszüntetését, valamint
 
-c) területén üzembe helyezett, szőlőmust sűrítésére, finomított szőlőmustsűrítmény előállítására szolgáló, valamint a fordított ozmózis elvén működő berendezés üzembe helyezését
+c) területén szőlőmust sűrítésére, finomított szőlőmustsűrítmény előállítására szolgáló, valamint a fordított ozmózis elvén működő berendezés üzembe helyezése esetén
 
-a változást, a megszüntetést vagy az üzembe helyezést követő 8 napon belül bejelenti a kormányhivatal és a gazdasági aktát vezető hegybíró részére.
+ca) az üzembe helyezés napját,
 
-[^16]: A 34. § a 23/2022. (I. 27.) Korm. rendelet 7. §-ával megállapított szöveg.
+cb) az ilyen berendezéssel folytatott tevékenységben bekövetkező változást, valamint
+
+cc) az ilyen berendezéssel folytatott tevékenység megszüntetését
+
+a tevékenységben, adatokban bekövetkező változás, a működés, tevékenység megszüntetése vagy az üzembe helyezés napját követő 7 napon belül bejelenti a NÉBIH és a gazdasági aktát vezető hegybíró részére.
+
+[^21]: A 34. § a 392/2023. (VIII. 14.) Korm. rendelet 8. §-ával megállapított szöveg.

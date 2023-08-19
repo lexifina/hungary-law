@@ -42,19 +42,22 @@
 
 19. rendeltetésszerű művelés: szőlőültetvény olyan művelése, amelynek keretében az ültetvény használója a gazdasági aktában meghatározott művelésmódnak megfelelő metszést alkalmaz, elvégzi a vegetációs időszaknak megfelelő növényápolási, növényvédelmi és folyamatos gyomszabályozási munkákat, és gondoskodik arról, hogy a szőlőültetvény ne veszélyeztesse a szomszédos szőlőültetvények növénytermelési, növényegészségügyi biztonságát;
 
+19a.[^1] szőlővíz: sűrített szőlőmust vagy finomított szőlőmustsűrítmény előállítása során a szőlőmustból vagy a sűrített szőlőmustból kivont folyadék;
+
 20. szüret: egy vagy több összefüggő szőlőültetvényben vagy ültetvényrészben végzett szőlőbetakarítási tevékenység;
 
 21. szüreti bejegyzés: egy összefüggő időtartam alatt végzett szüret adatainak bejegyzése az ePincekönyv rendszerbe;
 
-22.[^1] termelési jelentés: a borászati üzemengedélyes által az adott borpiaci év során leadott és származási bizonyítványt eredményező vagy a határidőig még el nem bírált, seprős újbor készítéséhez fel nem használt must származási bizonyítvány, továbbá első származási bizonyítvány igénylések által megjelölt borászati terméktétel mennyiségének ePincekönyv rendszerben nyilvántartott összessége;
+22.[^2] termelési jelentés: a borászati üzemengedélyes által az adott borpiaci év során leadott és származási bizonyítványt eredményező vagy a határidőig még el nem bírált, seprős újbor készítéséhez fel nem használt must származási bizonyítvány, továbbá első származási bizonyítvány igénylések által megjelölt borászati terméktétel mennyiségének ePincekönyv rendszerben nyilvántartott összessége;
 
 23. termesztési alkalmassági vizsgálat: az Európai Unió valamely tagállamában fajtajegyzékre vett vagy a Kárpát-medencében korábban termesztésben lévő szőlőfajta Magyarországon történő osztályba sorolása érdekében végzett vizsgálatok összessége;
 
 24. újratelepítési engedély: az 1308/2013/EU európai parlamenti és tanácsi rendelet 66. cikke szerinti engedély;
 
-24a.[^2] újratelepítési jogosultság: az 1308/2013/EU európai parlamenti és tanácsi rendelet 66. cikke vagy 68. cikke szerinti, szőlőültetvény kivágására figyelemmel keletkező, az újratelepítési engedély megadásának alapjául szolgáló jogosultság;
+24a.[^3] újratelepítési jogosultság: az 1308/2013/EU európai parlamenti és tanácsi rendelet 66. cikke vagy 68. cikke szerinti, szőlőültetvény kivágására figyelemmel keletkező, az újratelepítési engedély megadásának alapjául szolgáló jogosultság;
 
 25. ültetvényrész: egy szőlőültetvény felosztásával keletkező, meghatározott méretű és elhelyezkedésű terület.
 
-[^1]: Az 1. § 22. pontja a 316/2022. (VIII. 16.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^2]: Az 1. § 24a. pontját a 316/2022. (VIII. 16.) Korm. rendelet 14. §-a iktatta be.
+[^1]: Az 1. § 19a. pontját a 392/2023. (VIII. 14.) Korm. rendelet 1. §-a iktatta be.
+[^2]: Az 1. § 22. pontja a 316/2022. (VIII. 16.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^3]: Az 1. § 24a. pontját a 316/2022. (VIII. 16.) Korm. rendelet 14. §-a iktatta be.

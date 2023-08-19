@@ -6,4 +6,6 @@
 
 (3) Ha az adatszolgáltató több hegybíró részére teljesít adatszolgáltatást, meg kell jelölnie a gazdasági aktáját vezető hegybírót. A gazdasági akta vezetésére jogosult hegybíró helyett az adatszolgáltató a következő borpiaci évtől kezdve másik hegybírót választhat. A gazdasági akta vezetése áttételének tényét az új gazdasági aktát vezető hegybíró a gazdasági aktában rögzíti.
 
-(4) Az (1) bekezdés alapján bejelentett adatokban bekövetkezett változást az adatszolgáltató köteles adott borpiaci év végéig a gazdasági akta vezetésére jogosult hegybírónak bejelenteni.
+(4)[^58] Az (1) bekezdés alapján bejelentett adatokban bekövetkezett változást az adatszolgáltató köteles 15 napon belül a gazdasági akta vezetésére jogosult hegybírónak bejelenteni.
+
+[^58]: A 78. § (4) bekezdése a 392/2023. (VIII. 14.) Korm. rendelet 17. § h) pontja szerint módosított szöveg.

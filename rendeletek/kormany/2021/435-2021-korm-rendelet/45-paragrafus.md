@@ -1,16 +1,16 @@
-## 17. Kísérőokmányokkal kapcsolatos szabályok
+## 17.[^33] Borászati kísérőokmányokkal kapcsolatos szabályok
 
-45. § (1) A kísérőokmányt legkésőbb a szállítás megkezdését megelőzően kell kitölteni.
+45. § (1)[^34] A borászati kísérőokmányt legkésőbb a szállítás megkezdését megelőzően kell kitölteni.
 
-(2) Borászati termék vonatkozásában kísérőokmány csak származási bizonyítvánnyal rendelkező borászati terméktételre állítható ki.
+(2)[^35] Borászati termék vonatkozásában borászati kísérőokmány csak származási bizonyítvánnyal rendelkező borászati terméktételre állítható ki.
 
-(3) A minőségi kifogás miatt visszavett borászati termékekről kísérőokmányt kell kiállítani. A kísérőokmány megjegyzés rovatában fel kell tüntetni a konkrét minőségi kifogást.
+(3)[^36] A minőségi kifogás miatt visszavett borászati termékekről borászati kísérőokmányt kell kiállítani. A borászati kísérőokmány megjegyzés rovatában fel kell tüntetni a konkrét minőségi kifogást.
 
-(4) A papíralapú kísérőokmány tömbjét a HNT hitelesíti a kísérőokmány kiállítására köteles személy kérésére. A hitelesített kísérőokmány tömbökről a HNT nyilvántartást vezet.
+(4)[^37] A papíralapú borászati kísérőokmány tömbjét a HNT hitelesíti a borászati kísérőokmány kiállítására köteles személy kérésére. A hitelesített borászati kísérőokmány tömbökről a HNT nyilvántartást vezet.
 
-(5)[^22] A 75. § (2) bekezdése szerinti adatszolgáltató a papíralapú kísérőokmányokkal kapcsolatos adminisztrációs kötelezettségét a papíralapú kísérőokmány másolati példányának a Btv. 18. § (11) bekezdése szerinti ügyfélszolgálat (a továbbiakban: ügyfélszolgálat) részére történő benyújtásával teljesíti.
+(5)[^38] A 75. § (2) bekezdése szerinti adatszolgáltató a papíralapú borászati kísérőokmányokkal kapcsolatos adminisztrációs kötelezettségét a papíralapú borászati kísérőokmány másolati példányának a Btv. 18. § (11) bekezdése szerinti ügyfélszolgálat (a továbbiakban: ügyfélszolgálat) részére történő benyújtásával teljesíti.
 
-(6)[^23] A (2) bekezdéstől eltérően származási bizonyítvány nélküli terméktételre is kiállítható kísérőokmány a szőlőmust ugyanazon borgazdasági egység két borászati üzeme közötti vagy a bérfeldolgozótól történő szállításakor, ha a feldolgozást végző borászati üzem
+(6)[^39] A (2) bekezdéstől eltérően származási bizonyítvány nélküli terméktételre is kiállítható borászati kísérőokmány a szőlőmust ugyanazon borgazdasági egység két borászati üzeme közötti vagy a bérfeldolgozótól történő szállításakor, ha a feldolgozást végző borászati üzem
 
 a) a betárolt szőlőt a 44. § (1) bekezdés b) pont bb) alpontjában vagy d) pontjában foglalt esetre vonatkozó határidőtől eltérően legkésőbb az átvételt követő munkanapon, a betárolt szőlő fajtájának, cukortartalmának és a szőlőültetvény vagy ültetvényrész azonosítójának megadásával, valamint
 
@@ -18,16 +18,23 @@ b) a kitárolt szőlőmustot a 44. § (1) bekezdés b) pont ba) alpontjában fog
 
 bejegyzi a szakmai-jövedéki nyilvántartásba.
 
-(7)[^24] Nem kötelező kísérőokmányt kiállítani borászati terméknek
+(7)[^40] Nem kötelező borászati kísérőokmányt kiállítani
 
-a) az (EU) 2018/273 felhatalmazáson alapuló bizottsági rendelet 9. cikk (1) bekezdés a) pontja vagy e) pont ii–vii. alpontja szerinti szállításakor; továbbá
+a) borászati terméknek az (EU) 2018/273 felhatalmazáson alapuló bizottsági rendelet 9. cikk (1) bekezdés a) pontja vagy e) pont ii–vii. alpontja szerinti szállításakor,
 
-b) mobilpalackozó üzem igénybevételével megvalósuló kiszerelés céljából történő szállításakor, ha
+b) borászati terméknek mobilpalackozó üzem igénybevételével megvalósuló kiszerelés céljából történő szállításakor, ha
 
 ba) ugyanazon helyrajzi számú ingatlanon történik a borászati termék kiszerelése, mint ahol a borászati üzem található, vagy
 
-bb) a kiszerelés során biztosított a borászati üzemmel való közvetlen kapcsolat, és a kiszerelést követően a kiszerelt borászati termékek haladéktalanul visszakerülnek a borászati üzem területére.
+bb) a kiszerelés során biztosított a borászati üzemmel való közvetlen kapcsolat, és a kiszerelést követően a kiszerelt borászati termékek haladéktalanul visszakerülnek a borászati üzem területére, továbbá
 
-[^22]: A 45. § (5) bekezdését a 23/2022. (I. 27.) Korm. rendelet 10. §-a iktatta be.
-[^23]: A 45. § (6) bekezdését a 23/2022. (I. 27.) Korm. rendelet 10. §-a iktatta be.
-[^24]: A 45. § (7) bekezdését a 23/2022. (I. 27.) Korm. rendelet 10. §-a iktatta be.
+c) borecet szállításakor, ha a címzett nem egy másik borászati üzem.
+
+[^33]: A 17. alcím címe a 392/2023. (VIII. 14.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
+[^34]: A 45. § (1) bekezdése a 392/2023. (VIII. 14.) Korm. rendelet 17. § c) pontja szerint módosított szöveg.
+[^35]: A 45. § (2) bekezdése a 392/2023. (VIII. 14.) Korm. rendelet 17. § d) pontja szerint módosított szöveg.
+[^36]: A 45. § (3) bekezdése a 392/2023. (VIII. 14.) Korm. rendelet 17. § c)-d) pontja szerint módosított szöveg.
+[^37]: A 45. § (4) bekezdése a 392/2023. (VIII. 14.) Korm. rendelet 17. § e) pontja szerint módosított szöveg.
+[^38]: A 45. § (5) bekezdését a 23/2022. (I. 27.) Korm. rendelet 10. §-a iktatta be, szövege a 392/2023. (VIII. 14.) Korm. rendelet 17. § d) és f) pontja szerint módosított szöveg.
+[^39]: A 45. § (6) bekezdését a 23/2022. (I. 27.) Korm. rendelet 10. §-a iktatta be, nyitó szövegrésze a 392/2023. (VIII. 14.) Korm. rendelet 17. § d) pontja szerint módosított szöveg.
+[^40]: A 45. § (7) bekezdését a 23/2022. (I. 27.) Korm. rendelet 10. §-a iktatta be, szövege a 392/2023. (VIII. 14.) Korm. rendelet 12. §-ával megállapított szöveg.

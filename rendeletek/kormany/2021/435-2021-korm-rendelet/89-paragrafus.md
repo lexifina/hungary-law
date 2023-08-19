@@ -6,7 +6,7 @@ b) az e rendeletben meghatározott bejelentési és adatszolgáltatási kötelez
 
 c) a must, sűrített szőlőmust, finomított szőlőmustsűrítmény és borecet kivételével borászati terméket érvényes forgalombahozatali azonosító nélkül értékesít nem borászati üzemengedélyes részére,
 
-d) a miniszteri rendeletben meghatározott fajtajelölési szabályokat megsérti, vagy
+d)[^73] a miniszteri rendeletben több fajtanév együttes jelölésére meghatározott szabályokat megsérti, vagy
 
 e) egy földrajzi árujelző használatától a Btv. 14. §-a alapján eltiltásra kerül,
 
@@ -29,3 +29,5 @@ c) a NÉBIH által létrehozott és működtetett FBB által elvégzett érzéks
 d) az elektronikusan teljesítendő ágazati adminisztrációs kötelezettségének közvetlenül az ePincekönyv rendszer használatával tesz eleget, és
 
 e) online bortermelői regisztert vezet.
+
+[^73]: A 89. § (1) bekezdés d) pontja a 392/2023. (VIII. 14.) Korm. rendelet 15. §-ával megállapított szöveg.

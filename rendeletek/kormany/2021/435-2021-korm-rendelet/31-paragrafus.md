@@ -1,6 +1,6 @@
-31. §[^14] (1) A szüretről a szőlőtermés
+31. §[^18] (1) A szüretről a szőlőtermés
 
-a)[^15] felvásárlása esetén a felvásárló a felvásárlási jeggyel legkésőbb
+a)[^19] felvásárlása esetén a felvásárló a felvásárlási jeggyel legkésőbb
 
 aa) november 30-ig vagy
 
@@ -16,7 +16,15 @@ adatot szolgáltat a hegybíró részére.
 
 (2) Az (1) bekezdés a) pontjában foglaltaktól eltérően a felvásárló a felvásárlási űrlap vagy szüret bejelentő lap alapján kiállított felvásárlási jeggyel legkésőbb november 30-ig szolgáltat adatot, ha a felvásárló a borászati üzembe betárolt szőlőt a 44. § (1) bekezdés b) pont bb) alpontjában foglalt határidőtől eltérően legkésőbb az átvételt követő munkanapon, a betárolt szőlő fajtájának, cukortartalmának és a szőlőültetvény vagy ültetvényrész azonosítójának megadásával bejegyzi a szakmai-jövedéki nyilvántartásba.
 
-(3) A hegybíró az (1) bekezdés szerinti adatszolgáltatás alapján szüreti bejegyzést jegyez be az ePincekönyv rendszerbe. A hegybíró a szüret bejegyzésekor a szőlő mennyiségét a 28. § (1) bekezdése alapján megküldött vagy a 30. § (3) bekezdése szerint benyújtott és a 30. § (4) bekezdése alapján elfogadható kifogáshoz mellékelt felvásárlási szerződésben megjelölt értékű vagy megjelölt földrajzi árujelző alapján megállapítható hozamkorlát alapján megállapított értékkel jegyzi be.
+(3)[^20] A hegybíró az (1) bekezdés szerinti adatszolgáltatás alapján a szüret borpiaci évében legkésőbb július 15. napjáig szüretet jegyez be az ePincekönyv rendszerbe. A hegybíró a szüret bejegyzésekor a szőlő mennyiségét
+
+a) a 28. § (1) bekezdése alapján megküldött szőlőfelvásárlási szerződésben meghatározott termésmennyiséggel,
+
+b) a 30. § (2) bekezdése szerint megállapított adminisztratív termésmaximummal vagy
+
+c) a megjelölt földrajzi árujelzőre vonatkozó hozamkorlát alapján megállapított értékkel
+
+jegyzi be.
 
 (4) Ha a szüreti bejegyzés nem teszi lehetővé azon földrajzi árujelző, illetve bortípus nevének használatát, amely
 
@@ -38,5 +46,6 @@ bb) az (1) bekezdés szerint adatot szolgáltathat.
 
 (7) Ha a felvásárló külföldi adóügyi illetőségűnek minősülő személy, a felvásárlási jeggyel – az (1) bekezdés a) pontjában foglaltaktól eltérően – az ültetvényhasználó szolgáltat adatot a hegybíró részére.
 
-[^14]: A 31. § a 23/2022. (I. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^15]: A 31. § (1) bekezdés a) pontja a 316/2022. (VIII. 16.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^18]: A 31. § a 23/2022. (I. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^19]: A 31. § (1) bekezdés a) pontja a 316/2022. (VIII. 16.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^20]: A 31. § (3) bekezdése a 392/2023. (VIII. 14.) Korm. rendelet 7. §-ával megállapított szöveg.
