@@ -2,6 +2,6 @@
 
 4. § (1) A cég jogi képviselőjére vonatkozó adatokat, aláírásának, a mellékletek fajtánként részletezett számának, az illeték megfizetésének stb. helyét a nyomtatványon elkülönített rész tartalmazza.
 
-(2)[^12] A Ctv. 1. számú melléklete I. részének 12. pontja alapján az általános forgalmi adó alanyának az adóköteles tevékenysége megkezdésének bejelentésével összefüggő nyilatkozat a cégbejegyzési kérelem 1. számú mellékletének minősül, az a céginformációs szolgálat honlapján kerül közzétételre.
+(2)[^13] A Ctv. 1. számú melléklete I. részének 12. pontja alapján az általános forgalmi adó alanyának az adóköteles tevékenysége megkezdésének bejelentésével összefüggő nyilatkozat a cégbejegyzési kérelem 1. számú mellékletének minősül, az a céginformációs szolgálat honlapján kerül közzétételre.
 
-[^12]: A 4. § (2) bekezdése a 39/2015. (XII. 21.) IM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^13]: A 4. § (2) bekezdése a 39/2015. (XII. 21.) IM rendelet 1. § (3) bekezdésével megállapított szöveg.

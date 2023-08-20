@@ -104,6 +104,8 @@
 
 ## b) Idegen nyelvű rövidített elnevezés
 
+## c) Idegen nyelv megnevezése
+
 ## 5.) 5. rovat: A cég székhelye (megadása kötelező):
 
 ## a) Székhely
@@ -272,23 +274,51 @@
 
 ## 14.) 15. rovat: A felügyelőbizottsági tagok adatai (több is megadható):
 
-## a) Név
+## a) A felügyelőbizottsági tag(ok) adatai természetes személy esetén:
 
-## b) Anyja neve
+## aa) Név
 
-## c) Adóazonosító jel
+## ab) Anyja neve
 
-## d) Annak jelölése, ha külföldi személy és magyar adóazonosító jellel nem rendelkezik
+## ac) Adóazonosító jel
 
-## e) Annak jelölése, ha a felügyelőbizottsági tag munkavállalói küldött
+## ad) Annak jelölése, ha külföldi személy és magyar adóazonosító jellel nem rendelkezik
 
-## f) Lakóhely/külföldi lakóhely
+## ae) Annak jelölése, ha a felügyelőbizottsági tag munkavállalói küldött
 
-## g) Külföldi lakóhellyel rendelkező személy esetén a kézbesítési megbízott adatai
+## af) Lakóhely / külföldi lakóhely
 
-## h) Jogviszony kezdete
+## ag) Külföldi lakóhellyel rendelkező személy esetén a kézbesítési megbízott adatai
 
-## i) Határozott időre szóló megbízás esetén a jogviszony vége
+## b) A felügyelőbizottsági tag(ok) adatai nem természetes személy esetén:
+
+## ba) Cég esetén cégjegyzékszám
+
+## bb) A felügyelőbizottsági tag cég esetén (szervezet) EUID-ja
+
+## bc) Annak jelölése, ha a cég (szervezet) EUID-val nem rendelkezik
+
+## bd) Cégnek nem minősülő egyéb szervezet esetén a nyilvántartási szám
+
+## be) Külföldi szervezet esetén, ha ilyen adattal rendelkezik, a nyilvántartási szám
+
+## bf) Külföldi szervezet esetén, ha ilyen adattal rendelkezik, a nyilvántartási hatóság
+
+## bg) A szervezet elnevezése
+
+## bh) A szervezet székhelye / külföldi székhely
+
+## bi) Adószám
+
+## bj) A külföldi közteherviselési azonosító az ország megadásával
+
+## bk) Annak jelölése, ha külföldi közteherviselési azonosítóval nem rendelkezik
+
+## bl) Külföldi szervezet esetén a kézbesítési megbízott adatai
+
+## c) Jogviszony kezdete
+
+## d) Határozott időre szóló megbízás esetén a jogviszony vége
 
 ## 15.) 16. rovat: Átalakulás, egyesülés, szétválás folytán létrejött cég esetében a jogelőd cég(ek) adatai (Belföldi jogelőddel és jogutóddal történő átalakulás, egyesülés, szétválás esetén kitöltendő. Egyesülés, szétválás esetén több jogelőd cég is megadható):
 
@@ -746,6 +776,8 @@
 
 ## bi) Külföldi szervezet esetén a kézbesítési megbízott adatai
 
+## bj) A tagra vonatkozó alrovatszám
+
 ## c) A zálogjogosult adatai természetes személy esetén:
 
 ## ca) Név
@@ -1168,7 +1200,7 @@
 
 ## 10.) 18 A végrehajtói iroda
 
-## 2. cégformától függő rovat: A végrehajtói iroda önálló bírósági végrehajtó tagjának/tagjainak adatai (több is megadható, valamennyi tagot meg kell adni):
+## 2. cégformától függő rovat: A végrehajtói iroda önálló bírósági végrehajtó tagjának/tagjainak adatai (több is megadható, valamennyi tagot meg kell adni)
 
 ## a) Önálló bírósági végrehajtó adatai:
 
@@ -1193,6 +1225,8 @@
 ## bd) Illetékességi területének kiterjesztése
 
 ## c) Tagsági jogviszony kezdete
+
+## d) Az önálló bírósági végrehajtó tag szavazati jogának terjedelme
 
 ## 11.) 19 Az európai gazdasági egyesülés
 
@@ -1648,11 +1682,11 @@
 
 ## – beolvadásos különválás
 
-## b) Az átalakult, egyesült, szétvált cég jogutód cégének cégjegyzékszáma
+## b) Egyesülés, szétválás esetén a továbbműködő, a cégjegyzékből törlésre nem kerülő jogutód cégjegyzékszáma
 
-## c) A jogutód cég (szervezet) EUID-ja
+## c) A jogutód cég (szervezet) EUID-ja (szükség szerint kitöltendő a b) pont kitöltése esetén)
 
-## d) Annak jelölése, ha a jogutód EUID-val nem rendelkezik
+## d) Annak jelölése, ha a jogutód EUID-val nem rendelkezik (szükség szerint kitöltendő a b) pont kitöltése esetén)
 
 ## e) A jogutód elnevezése
 
@@ -1704,11 +1738,11 @@
 
 ## b) A határokon átnyúló átalakulást, egyesülést, szétválást végrehajtó tőkeegyesítő társaság jogutódjának székhely szerinti országkódja
 
-## c) A határokon átnyúló átalakulást, egyesülést, szétválást végrehajtó tőkeegyesítő társaság jogutódjának cégjegyzékszáma
+## c) A határokon átnyúló átalakulást, egyesülést, szétválást végrehajtó tőkeegyesítő társaság jogutódjának cégjegyzékszáma (abban az esetben kell megadni, ha a magyarországi székhelyű jogutód már bejegyzett, a cégjegyzékből törlésre nem kerülő cég)
 
-## d) A határokon átnyúló átalakulást, egyesülést, szétválást végrehajtó tőkeegyesítő társaság jogutódjának EUID-ja
+## d) A határokon átnyúló átalakulást, egyesülést, szétválást végrehajtó tőkeegyesítő társaság jogutódjának EUID-ja (szükség szerint kitöltendő a c) pont kitöltése esetén)
 
-## e) Annak jelölése, ha a jogutód tőkeegyesítő társaság EUID-val nem rendelkezik
+## e) Annak jelölése, ha a jogutód tőkeegyesítő társaság EUID-val nem rendelkezik (szükség szerint kitöltendő a c) pont kitöltése esetén)
 
 ## f) A határokon átnyúló átalakulást, egyesülést, szétválást végrehajtó tőkeegyesítő társaság jogutódjának társasági formája (cégformája)
 
@@ -1976,6 +2010,6 @@
 
 ## g) Törölve (szükség szerint jelölendő, ha cégjegyzékből a rovat tartalmát törölni kérik)
 
-2. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^76]
+2. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^78]
 
-[^76]: A 2. számú melléklet az 1/2006. (VI. 26.) IRM rendelet 15. § (7) bekezdése, a 12/2020. (VIII. 4.) IM rendelet 2. §-a, a 38/2022. (XII. 27.) IM rendelet 5. § b) pontja szerint módosított szöveg.
+[^78]: A 2. számú melléklet az 1/2006. (VI. 26.) IRM rendelet 15. § (7) bekezdése, a 12/2020. (VIII. 4.) IM rendelet 2. §-a, a 38/2022. (XII. 27.) IM rendelet 5. § b) pontja szerint módosított szöveg.

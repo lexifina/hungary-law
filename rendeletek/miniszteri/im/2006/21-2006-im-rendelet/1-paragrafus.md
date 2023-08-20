@@ -20,6 +20,9 @@ ae) házszám / helyrajzi szám, épület, lépcsőház, emelet, ajtó;
 
 b) időpontot kizárólag számmal, a következő bontásban lehet megadni: évszám (négy számkarakter), hónap (két számkarakter), nap (két számkarakter).
 
+(5)[^4] Külföldi székhely vagy lakóhely esetén a (4) bekezdés a) pont ae) alpontja szerinti adatot szükség szerint kell kitölteni.
+
 [^1]: Az 1. § (1) bekezdése a 39/2015. (XII. 21.) IM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (2) bekezdése a 21/2018. (VII. 4.) IM rendelet 8. § a) pontja szerint módosított szöveg.
 [^3]: Az 1. § (4) bekezdését a 21/2018. (VII. 4.) IM rendelet 1. §-a iktatta be.
+[^4]: Az 1. § (5) bekezdését a 11/2023. (VII. 20.) IM rendelet 1. §-a iktatta be.
