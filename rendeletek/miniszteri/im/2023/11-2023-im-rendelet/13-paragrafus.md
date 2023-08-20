@@ -1,3 +1,3 @@
-13. §[^16]
+13. § A Cvhr3. 4. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-[^16]: A 13. § a 16. § (2) bekezdés alapján 2023. augusztus 20-án lép hatályba.
+„(2) Az adatok lekérdezésének időpontjában a cégjegyzékben szereplő adatként ismerhető meg az a tény is, ha a megadott személy a Ctv. I. Fejezet 7. Címe szerinti eltiltás hatálya alatt áll.”

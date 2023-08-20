@@ -1,5 +1,5 @@
 ## 1. A cégbejegyzési eljárás és a cégnyilvántartás egyes kérdéseiről szóló 21/2006. (V. 18.) IM rendelet módosítása
 
-1. §[^1]
+1. § A cégbejegyzési eljárás és a cégnyilvántartás egyes kérdéseiről szóló 21/2006. (V. 18.) IM rendelet (a továbbiakban: Cvhr.) 1. §-a a következő (5) bekezdéssel egészül ki:
 
-[^1]: Az 1. § a 16. § (2) bekezdés alapján 2023. augusztus 20-án lép hatályba.
+„(5) Külföldi székhely vagy lakóhely esetén a (4) bekezdés a) pont ae) alpontja szerinti adatot szükség szerint kell kitölteni.”

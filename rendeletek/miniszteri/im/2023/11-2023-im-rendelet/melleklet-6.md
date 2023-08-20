@@ -1,3 +1,7 @@
-6. melléklet a 11/2023. (VII. 20.) IM rendelethez[^23]
+## „7. számú melléklet a 21/2006. (V. 18.) IM rendelethez
 
-[^23]: A 6. melléklet a 16. § (2) bekezdés alapján 2023. augusztus 20-án lép hatályba.
+## 3X06005.pdf
+
+## ”
+
+6. melléklet a 11/2023. (VII. 20.) IM rendelethez

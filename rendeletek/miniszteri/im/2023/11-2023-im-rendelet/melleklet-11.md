@@ -1,3 +1,3 @@
-11. melléklet a 11/2023. (VII. 20.) IM rendelethez[^28]
+11. melléklet a 11/2023. (VII. 20.) IM rendelethez[^7]
 
-[^28]: A 11. melléklet a 16. § (3) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^7]: A 11. melléklet a 16. § (3) bekezdés alapján 2024. január 1-jén lép hatályba.

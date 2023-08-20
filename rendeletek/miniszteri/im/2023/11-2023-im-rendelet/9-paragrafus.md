@@ -1,3 +1,3 @@
-9. §[^12]
+9. § A Cvhr2. 12. §-a helyébe a következő rendelkezés lép:
 
-[^12]: A 9. § a 16. § (2) bekezdés alapján 2023. augusztus 20-án lép hatályba.
+„12. § Az 5. § szerinti csoportosított céginformációért a céginformációs szolgálat honlapján közzétett – a kért adatok mennyiségétől, illetve a csoportosítás jellegétől függő – költségtérítést kell fizetni.”

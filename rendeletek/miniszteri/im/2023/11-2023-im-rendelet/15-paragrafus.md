@@ -1,3 +1,5 @@
-15. §[^18]
+15. § Hatályát veszti a Cvhr3.
 
-[^18]: A 15. § a 16. § (2) bekezdés alapján 2023. augusztus 20-án lép hatályba.
+a) 4. § (3) bekezdésében az „– illetve közkereseti vagy betéti társaság esetén jogi személyre történő kereséshez cégnév –” szövegrész,
+
+b) 5. § (3) bekezdése.

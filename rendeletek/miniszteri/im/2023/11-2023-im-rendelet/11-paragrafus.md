@@ -1,3 +1,7 @@
-11. §[^14]
+11. § Hatályát veszti a Cvhr2.
 
-[^14]: A 11. § a 16. § (2) bekezdés alapján 2023. augusztus 20-án lép hatályba.
+a) 9. § (1) bekezdés j) pontja,
+
+b) 10. § (3) bekezdésében a „valamint ha a céginformációs portálról töltik le,” szövegrész,
+
+c) 14. § b) pontja.

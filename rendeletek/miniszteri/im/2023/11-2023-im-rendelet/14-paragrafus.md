@@ -1,3 +1,1 @@
-14. §[^17]
-
-[^17]: A 14. § a 16. § (2) bekezdés alapján 2023. augusztus 20-án lép hatályba.
+14. § A Cvhr3. 1. § (1) bekezdésében a „2006. évi V. törvény” szövegrész helyébe a „2006. évi V. törvény (a továbbiakban: Ctv.)” szöveg lép.

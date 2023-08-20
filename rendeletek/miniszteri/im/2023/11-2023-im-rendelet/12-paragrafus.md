@@ -1,5 +1,5 @@
 ## 4. Az ingyenes céginformációról szóló 47/2007. (X. 20.) IRM rendelet módosítása
 
-12. §[^15]
+12. § Az ingyenes céginformációról szóló 47/2007. (X. 20.) IRM rendelet (a továbbiakban: Cvhr3.) 3. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-[^15]: A 12. § a 16. § (2) bekezdés alapján 2023. augusztus 20-án lép hatályba.
+„(1) A honlap használatára a Felhasználási Feltételek elfogadását követően kerülhet sor.”
