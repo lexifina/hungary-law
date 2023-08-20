@@ -1,1 +1,3 @@
-18. § Hatályát veszti a 435/2021. (VII. 16.) Korm. rendelet 77. § a) pont ac) alpontjában a „valamint” szövegrész.
+18. §[^19]
+
+[^19]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

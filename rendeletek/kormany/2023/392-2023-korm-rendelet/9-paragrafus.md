@@ -1,5 +1,3 @@
-9. § A 435/2021. (VII. 16.) Korm. rendelet 36. § c) pontja a következő cb) alponttal egészül ki:
+9. §[^10]
 
-[A borászati üzemengedély-nyilvántartás a Btv. 7. § (4) bekezdésében maghatározott adatokon túl tartalmazza a borászati üzemben]
-
-„cb) az engedély megadását követően továbbra is tárolni kívánt azon adómentes, fogyasztásra szánt borászati terméktételek mennyiségét hektoliterben, két tizedesjegy pontossággal, amelyet az üzemengedély megadását megelőzően a borászati üzemengedéllyel érintett ingatlanban tároltak;”
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

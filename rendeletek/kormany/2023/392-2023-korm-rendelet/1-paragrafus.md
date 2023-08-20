@@ -1,3 +1,3 @@
-1. § A szőlő-bor ágazatban folytatott hatósági eljárásokról és teljesítendő adatszolgáltatási kötelezettségekről szóló 435/2021. (VII. 16.) Korm. rendelet [a továbbiakban: 435/2021. (VII. 16.) Korm. rendelet] 1. §-a a következő 19a. ponttal egészül ki:
+1. §[^2]
 
-(E rendelet alkalmazásában)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

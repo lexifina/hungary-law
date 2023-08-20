@@ -1,3 +1,3 @@
-14. § A 435/2021. (VII. 16.) Korm. rendelet 77. §-a a következő c) ponttal egészül ki:
+14. §[^15]
 
-(A gazdasági akta a Btv. 20. §-ában meghatározottakon túl tartalmazza)
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
