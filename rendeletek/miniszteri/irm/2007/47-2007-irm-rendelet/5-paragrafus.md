@@ -6,4 +6,6 @@ b) csoportosított céginformációként a jogi személy, jogi személyiség né
 
 (2) A cégjegyzék adatai közül azok kerülnek frissítésre, amelyekben a korábbi állapothoz képest változás állt be.
 
-(3) Az (1) bekezdésben meghatározott adatok interneten működő keresőprogramok útján is megismerhetőek. Ebben az esetben az adatok megismeréséhez név és jelszó használata nem szükséges.
+(3)[^7]
+
+[^7]: Az 5. § (3) bekezdését a 11/2023. (VII. 20.) IM rendelet 15. § b) pontja hatályon kívül helyezte.
