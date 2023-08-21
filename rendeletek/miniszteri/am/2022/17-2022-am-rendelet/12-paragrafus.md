@@ -1,8 +1,8 @@
 12. § (1) A TSE (BSE és súrlókór) tekintetében a pénzügyi hozzájárulás a Megállapodás II. mellékletében elfogadott nemzeti programok szerinti gyorstesztek, megerősítővizsgálatok költségeire, valamint a genotípusvizsgálatok költségeire vehető igénybe. A keretösszeg a 2021-es végrehajtási időszakra összesen 558 997,44 eurónak, a 2022-es végrehajtási időszakra összesen 558 513,72 eurónak megfelelő forintösszeg.
 
-(2) A tenyésztési program keretében végzett genotípusvizsgálatok esetében a pénzügyi hozzájárulás igénybevételére az MJKSZ jogosult a 2021-es végrehajtási időszakra 222 640,00 eurónak, a 2022-es végrehajtási időszakra 222 640,00 eurónak megfelelő forint keretösszegig.
+(2)[^26] A tenyésztési program keretében végzett genotípusvizsgálatok esetében a pénzügyi hozzájárulás igénybevételére az MJKSZ jogosult a 2021-es végrehajtási időszakra 161 779 eurónak, a 2022-es végrehajtási időszakra 222 640,00 eurónak megfelelő forint keretösszegig.
 
-(3) A gyorstesztek, a TSE pozitív esetek genotípusvizsgálatának és a megerősítővizsgálatok esetében a pénzügyi hozzájárulás igénybevételére a NÉBIH jogosult a 2021-es végrehajtási időszakra 336 357,44 eurónak, a 2022-es végrehajtási időszakra 335 873,72 eurónak megfelelő forint keretösszegig.
+(3)[^27] A gyorstesztek, a TSE pozitív esetek genotípusvizsgálatának és a megerősítővizsgálatok esetében a pénzügyi hozzájárulás igénybevételére a NÉBIH jogosult a 2021-es végrehajtási időszakra 397 218,44 eurónak, a 2022-es végrehajtási időszakra 335 873,72 eurónak megfelelő forint keretösszegig.
 
 (4) Az (1) bekezdés szerinti pénzügyi hozzájárulás mértéke az igazolt költségek 100%-a, de a maximális átalányösszeg nem haladhatja meg
 
@@ -19,3 +19,6 @@ e) a tenyésztési program keretében végzett genotipizálási vizsgálatokra v
 f) TSE pozitív esetek vonatkozásában a genotipizálási vizsgálatokra vizsgálatonként átlagosan legfeljebb a 73,54 eurónak
 
 megfelelő forintösszeget.
+
+[^26]: A 12. § (2) bekezdése a 46/2023. (VIII. 18.) AM rendelet 16. § a) pontja szerint módosított szöveg.
+[^27]: A 12. § (3) bekezdése a 46/2023. (VIII. 18.) AM rendelet 16. § b) pontja szerint módosított szöveg.

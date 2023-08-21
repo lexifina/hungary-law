@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-17-20-7
 | 2022-07-03 | 2022-17-20-7R.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2022-07-04 | 2022-17-20-7R.4 | 2010: CXXX. törvény |
 | 2023-01-01 | 2022-17-20-7R.5 | 157/2022. (XII. 27.) AM rendelet |
+| 2023-08-21 | 2022-17-20-7R.6 | 46/2023. (VIII. 18.) AM rendelet |
