@@ -1,1 +1,0 @@
-A Kormány a szőlészetről és borászatról szóló 2020. évi CLXIII. törvény 23. § (1) bekezdés 4., 5., 8., 10., 13., 14., 15., 19. és 20. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:

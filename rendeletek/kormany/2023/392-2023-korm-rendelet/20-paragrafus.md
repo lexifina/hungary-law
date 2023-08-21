@@ -1,7 +1,0 @@
-20. § Ez a rendelet
-
-a) az 1308/2013/EU európai parlamenti és tanácsi rendeletnek a szőlőtelepítésekre vonatkozó engedélyezési rendszer, a szőlőkataszter, a kísérőokmányok és a kapcsolódó tanúsítás, a bevételezési és kiadási nyilvántartás, a kötelező bejelentések, az értesítések és a bejelentett információk közzététele tekintetében történő kiegészítéséről, valamint az 1306/2013/EU európai parlamenti és tanácsi rendeletnek a releváns ellenőrzések és szankciók tekintetében történő kiegészítéséről, az 555/2008/EK, a 606/2009/EK és a 607/2009/EK bizottsági rendelet módosításáról, továbbá a 436/2009/EK bizottsági rendelet és az (EU) 2015/560 felhatalmazáson alapuló bizottsági rendelet hatályon kívül helyezéséről szóló, 2017. december 11-i (EU) 2018/273 felhatalmazáson alapuló bizottsági rendelet 6., 8–12., valamint 28–30. cikkének,
-
-b) az 1308/2013/EU európai parlamenti és tanácsi rendeletnek a szőlőtelepítésekre vonatkozó engedélyezési rendszer, a tanúsítás, a bevételezési és kiadási nyilvántartás, a kötelező bejelentések és értesítések tekintetében, valamint az 1306/2013/EU európai parlamenti és tanácsi rendeletnek a releváns ellenőrzések tekintetében történő alkalmazására vonatkozó szabályok megállapításáról, továbbá az (EU) 2015/561 bizottsági végrehajtási rendelet hatályon kívül helyezéséről szóló, 2017. december 11-i (EU) 2018/274 végrehajtási bizottsági rendelet 9., 11., valamint 13–20. cikkének
-
-végrehajtásához szükséges rendelkezéseket állapít meg.
