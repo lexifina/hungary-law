@@ -97,3 +97,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1988-1-00-00
 | 2023-01-01 | 2017. évi CLXXXII. törvény | 1988-1-00-00.128 |
 | 2023-06-26 | 2023. évi XL. törvény | 1988-1-00-00.132 |
 | 2023-07-22 | 2023. évi XL. törvény | 1988-1-00-00.133 |
+| 2023-08-21 | 2023. évi XL. törvény | 1988-1-00-00.134 |
