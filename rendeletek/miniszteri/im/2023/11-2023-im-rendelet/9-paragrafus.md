@@ -1,3 +1,3 @@
-9. § A Cvhr2. 12. §-a helyébe a következő rendelkezés lép:
+9. §[^12]
 
-„12. § Az 5. § szerinti csoportosított céginformációért a céginformációs szolgálat honlapján közzétett – a kért adatok mennyiségétől, illetve a csoportosítás jellegétől függő – költségtérítést kell fizetni.”
+[^12]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,9 +1,12 @@
-2. § (1) A Cvhr. 1. számú melléklete az 1. melléklet szerint módosul.
+2. § (1)[^2]
 
-(2) A Cvhr. 4–9. számú melléklete helyébe a 2–7. melléklet lép.
+(2)[^3]
 
-(3) A Cvhr. 11. és 12. számú melléklete helyébe a 8. és 9. melléklet lép.
+(3)[^4]
 
-(4)[^1]
+(4)[^5]
 
-[^1]: A 2. § (4) bekezdése a 16. § (3) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^2]: A 2. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 2. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 2. § (3) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 2. § (4) bekezdése a 16. § (3) bekezdés alapján 2024. január 1-jén lép hatályba.

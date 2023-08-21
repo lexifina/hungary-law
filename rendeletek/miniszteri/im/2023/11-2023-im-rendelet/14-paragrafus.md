@@ -1,1 +1,3 @@
-14. § A Cvhr3. 1. § (1) bekezdésében a „2006. évi V. törvény” szövegrész helyébe a „2006. évi V. törvény (a továbbiakban: Ctv.)” szöveg lép.
+14. §[^17]
+
+[^17]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

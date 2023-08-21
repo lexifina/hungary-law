@@ -1,7 +1,3 @@
-## „11. számú melléklet a 21/2006. (V. 18.) IM rendelethez
+9. melléklet a 11/2023. (VII. 20.) IM rendelethez[^27]
 
-## 3X06030.pdf
-
-## ”
-
-9. melléklet a 11/2023. (VII. 20.) IM rendelethez
+[^27]: A 9. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,7 +1,3 @@
-11. § Hatályát veszti a Cvhr2.
+11. §[^14]
 
-a) 9. § (1) bekezdés j) pontja,
-
-b) 10. § (3) bekezdésében a „valamint ha a céginformációs portálról töltik le,” szövegrész,
-
-c) 14. § b) pontja.
+[^14]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-15. § Hatályát veszti a Cvhr3.
+15. §[^18]
 
-a) 4. § (3) bekezdésében az „– illetve közkereseti vagy betéti társaság esetén jogi személyre történő kereséshez cégnév –” szövegrész,
-
-b) 5. § (3) bekezdése.
+[^18]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
