@@ -6,7 +6,7 @@ a) 2020. március 12. és 2020. április 30. között (a továbbiakban: első be
 
 b)[^14] 2020. november 9. és 2020. december 18. között (a továbbiakban: második benyújtási időszak)
 
-## kell a minisztériumhoz benyújtani.
+kell a minisztériumhoz benyújtani.
 
 (2) A programjavaslatnak tartalmaznia kell
 
@@ -40,7 +40,7 @@ a) három, egymástól és a kérelmezőtől független szállítótól vagy szo
 
 b) a szolgáltatás, illetve a termék egyedisége esetén legalább egy, az akció költségtípusát, illetve költségtípusait is alátámasztó részletes ajánlattal
 
-## kell igazolnia.
+kell igazolnia.
 
 (4)[^18] A (3) bekezdés b) pontja szerinti ajánlatot a borágazatban megvalósuló nemzeti támogatási programok tekintetében az 1308/2013/EU európai parlamenti és tanácsi rendelet alkalmazása szabályainak megállapításáról szóló, 2016. április 15-i 2016/1150/EU végrehajtási rendeletben meghatározott értékelőbizottság fogadja el.
 

@@ -30,7 +30,7 @@ c)[^58] a 2021. július 1. és 2022. június 30. között felmerült költségek
 
 d)[^59] a 2022. július 1. és 2023. június 30. között felmerült költségek vonatkozásában 2023. július 1. és 2023. július 15. között
 
-## [az a)–d) pont a továbbiakban együtt: éves kifizetési kérelem] kell benyújtani.
+[az a)–d) pont a továbbiakban együtt: éves kifizetési kérelem] kell benyújtani.
 
 (8) A (7) bekezdésben foglaltakon túl minden év október 16-át követően a következő év április 30-ig lehetőség van évközi kifizetési kérelem benyújtására is. Az évközi kifizetési kérelmek benyújtása között legalább kilencven napnak el kell telnie.
 
