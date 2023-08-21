@@ -1,0 +1,3 @@
+4. § (1) Kizárólag az adott tárgyidőszakban vagy azt megelőzően – a végrehajtási időszak alatt – elvégzett feladat végrehajtásáról és az ahhoz kapcsolódó egyéb költségekről kiállított számlák, az e rendeletben meghatározott egyéb bizonylat vagy – a 10. § (6) bekezdésében meghatározott esetben – nyilatkozat alapján vehető igénybe pénzügyi hozzájárulás. A 12. §-ban meghatározott alcélterületek tekintetében a 12. § (2) bekezdése szerinti pénzügyi hozzájárulás pénzügyileg teljesített számla alapján folyósítható.
+
+(2) A pénzügyi hozzájárulás kiszámításának alapja a számlán szereplő költségek általános forgalmi adót és egyéb adót nem tartalmazó összege.
