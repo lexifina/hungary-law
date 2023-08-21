@@ -10,7 +10,7 @@ a) az első benyújtási időszakban benyújtott kérelmek vonatkozásában 2020
 
 b)[^25] a második benyújtási időszakban benyújtott kérelmek vonatkozásában 2021. március 12-ig
 
-## az adott benyújtási időszakon belül benyújtott programjavaslatok (2a) bekezdés alapján kialakított rangsora és a rendelkezésre álló keretösszeg figyelembevételével dönt a programjavaslatok jóváhagyásáról.
+az adott benyújtási időszakon belül benyújtott programjavaslatok (2a) bekezdés alapján kialakított rangsora és a rendelkezésre álló keretösszeg figyelembevételével dönt a programjavaslatok jóváhagyásáról.
 
 (4)[^26] Ha a támogatási keretösszeg nem teszi lehetővé az összes programjavaslat elfogadását, az elfogadható programjavaslatok sorrendjét az elsőbbségi kritériumok alapján elért pontszám csökkenő sorrendjében kell figyelembe venni.
 

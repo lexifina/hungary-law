@@ -1,6 +1,4 @@
-## végrehajtásához szükséges rendelkezéseket állapít meg.
-
-1. melléklet a 3/2020. (II. 28.) AM rendelethez[^67]
+1. melléklet a 3/2020. (II. 28.) AM rendelethez[^72]
 
 |  | A | B |
 
@@ -24,4 +22,4 @@
 
 | 10. | A benyújtó vállalja a program hatásait és eredményességét értékelő, a benyújtótól, valamint a végrehajtó szervezettől független szervezet által készített hatástanulmány benyújtását a 16. § (4) bekezdésében foglaltaknak megfelelően | 10 |
 
-[^67]: Az 1. melléklet az 56/2020. (XI. 6.) AM rendelet 29. § 29–30. pontja szerint módosított szöveg.
+[^72]: Az 1. melléklet az 56/2020. (XI. 6.) AM rendelet 29. § 29–30. pontja szerint módosított szöveg.

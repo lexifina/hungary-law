@@ -8,7 +8,7 @@ b) a program időtartamának meghosszabbítására, illetve
 
 c) a program költségvetésének módosítására
 
-## [az a)–c) pont a továbbiakban együtt: programmódosítás].
+[az a)–c) pont a továbbiakban együtt: programmódosítás].
 
 (2) A programmódosításhoz a miniszter jóváhagyása szükséges. A programmódosítás iránti kérelmet a miniszter részére, a minisztériumhoz kell benyújtani postai úton egy eredeti és egy elektronikus példányban. A benyújtás napjának a módosítási kérelem beérkezésének napja minősül.
 

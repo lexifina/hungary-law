@@ -12,7 +12,7 @@ d) a hegyközségi törvény 4. § b) pontja szerinti borászati termelő vagy
 
 e) az a)–d) pontokban meghatározott borászati termelők vagy szervezetek társulásai
 
-## [az a)–e) pont a továbbiakban együtt: kérelmező] nyújthat be.
+[az a)–e) pont a továbbiakban együtt: kérelmező] nyújthat be.
 
 (2)[^8] Az (1) bekezdés a) pontja szerinti kérelmező kivételével egy természetes vagy jogi személy vagy jogi személyiséggel nem rendelkező szervezet
 
