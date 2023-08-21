@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme 999 ezrelék finomságú ezüstből készült, súlya 31,104 gramm, átmérője 34 mm, széle sima, az „ANDREAS DEI GRACIA VNGARIORUM REX •” szélfelirattal.
+
+(2) Az emlékérme előlapján az I. András király által veretett, ún. második típusú pénzérme előlapjának ábrázolása látható, a tihanyi apátság alapítólevelét megidéző pergamenszerű felületen. Az előlap szélén, fent, köriratban a „MAGYARORSZÁG” felirat, lent, két sorban a „15000” értékjelzés és a „FORINT” felirat, bal oldalon a „BP.” verdejel, jobb oldalon a „2023” verési évszám olvasható. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján – a tihanyi apátság alapítólevelét megidéző pergamenszerű felületen – I. András idézőpecsétjének ábrázolása látható, balra I. András tihanyi apátság alapítólevelén szereplő monogramjának ábrázolásával, jobbra a „REX” felirattal. A hátlap szélén, fent, köriratban az „I. ANDRÁS”, lent az – I. András uralkodásának idejét jelölő – „1046 – 1060” felirat olvasható, alatta Szilos András tervezőművész mesterjegye látható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
