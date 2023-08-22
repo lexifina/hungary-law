@@ -1,0 +1,31 @@
+## Az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló 531/2017. (XII. 29.) Korm. rendelet 1. melléklet 19. pontjában foglalt táblázat a következő 65a. és 65b. sorral egészül ki:
+
+|  | (A | B | C | D | E | F |
+
+| 1. | Közigazgatási hatósági eljárás | Szakkérdés | Bevonás és közreműködés feltétele | Első fokon eljáró szakhatóság | Másodfokon eljáró szakhatóság | Állásfoglalás beszerzésének határideje) |
+
+## „
+
+| 65a. | A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 27/D. § (1b) bekezdése szerinti hozzájárulás. | A környezeti kárral vagy környezeti teherrel érintett vagyontárgy értékesítése tekintetében merülnek-e fel olyan környezetvédelmi kockázatok, amelyek mellett a hozzájárulást nem lehet megadni. | Minden esetben. | Környezetvédelemért felelős miniszter | – | 30 nap |
+
+| 65b. | A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 27/D. § (1b) bekezdése szerinti hozzájárulás. | A környezeti kárral vagy környezeti teherrel érintett vagyontárgy értékesítése tekintetében merülnek-e fel olyan, a hulladékgazdálkodásból eredő környezeti kockázatok, amelyek mellett a hozzájárulást nem lehet megadni. | Ha az ingatlanon még nem kezelt hulladék van. | Országos hulladékgazdálkodási hatáskörében eljáró Pest Vármegyei Kormányhivatal | – | 30 nap |
+
+## ”
+
+2. melléklet a 386/2023. (VIII. 14.) Korm. rendelethez
+
+„3. melléklet a 274/2018. (XII. 21.) Korm. rendelethez
+
+A Díjbeszedő Holding Zrt. által ellátandó feladatok
+
+1. Az ingatlanokra és azok használóira (bérlők, jogcím nélküli lakáshasználók) vonatkozó adatoknak a követelések nyilvántartására alkalmas számítógépes rendszerbe történő feltöltése és karbantartása.
+
+2. A lakásbérleti jogviszonyban állókkal, az ingatlanokat jogcím nélkül használókkal, továbbá az MVH Zrt.-vel a Törvény szerint létrejött részletvételi jogviszonyban álló részletvevőkkel szembeni követelésekre vonatkozó számlák és vételárrészlet-értesítők, csekkes számlalevelek, valamint egyéb megszemélyesített iratok, értesítők, felszólító levelek, bizonylatok, egyenlegközlő levelek előállítása.
+
+3. Az elkészített értesítők, számlák, vételárrészlet-értesítők, csekkes számlalevelek, felszólító levelek, bizonylatok, egyenlegközlő levelek, egyéb megszemélyesített iratok borítékolása, valamint a postai előírásoknak megfelelően előkészített küldemények postai feladása.
+
+4. A Lebonyolító számláján jóváírt befizetések (postai csekken történő befizetések, banki átutalással teljesített befizetések, belföldi postautalványon érkező befizetések, egyéb számviteli bizonylatok fogadása) beazonosítása, ingatlanhoz rendelése, az előírásokkal történő összevetése, a befizetéseknek a Lebonyolító által meghatározott elszámolási sorrend szerinti elszámolása, késedelmes befizetés esetén késedelmi kamat számítása. A Lebonyolító által nyilvántartott óvadék terhére történő követelés elszámolás végrehajtása.
+
+5. Az elkészített számlák, vételárrészlet-értesítők, illetve a beérkezett és feldolgozásra került befizetések adatainak átadása a Lebonyolító, illetve a részére számviteli szolgáltatást nyújtó szervezet részére.
+
+6. A Lebonyolító részére információ szolgáltatása a követelésekről, a Lebonyolító által meghatározott paraméterek szerinti riportok, jelentések elkészítése.”
