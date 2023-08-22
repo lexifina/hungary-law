@@ -50,9 +50,9 @@
 
 ## 3.1. Részletvevők lakhatása elvesztésének megakadályozása érdekében szociális, segítő szolgáltatás szervezése és fenntartása.
 
-2. melléklet a 274/2018. (XII. 21.) Korm. rendelethez[^55]
+2. melléklet a 274/2018. (XII. 21.) Korm. rendelethez[^58]
 
-## A Kijelölt Szolgáltató által ellátandó feladatok
+A Kijelölt Szolgáltató által ellátandó feladatok
 
 A Kijelölt Szolgáltató által a Lakástörvény 10. § (1) bekezdésében meghatározott kereteken belül, valamint a Karitatív tv. 1. § (1) bekezdés c) pontja szerinti üres ingatlanok tekintetében ellátandó feladatok:
 
@@ -74,4 +74,4 @@ A Kijelölt Szolgáltató által a Lakástörvény 10. § (1) bekezdésében meg
 
 9. A lakásbérleti szerződés megszűnése okán bekövetkező megüresedés esetén az ingatlanok bérbeadásból történő visszavétele, üres lakóingatlanok gondnokolása, illetve újabb bérbeadást megelőzően műszaki állapotfelmérés elkészítése.
 
-[^55]: A 2. mellékletet a 34. § (2) bekezdés c) pontja hatályon kívül helyezte, újonnan a 761/2021. (XII. 23.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^58]: A 2. mellékletet a 34. § (2) bekezdés c) pontja hatályon kívül helyezte, újonnan a 761/2021. (XII. 23.) Korm. rendelet 7. § (2) bekezdése iktatta be.

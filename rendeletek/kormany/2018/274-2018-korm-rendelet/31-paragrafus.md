@@ -1,5 +1,3 @@
-## 30. §
-
 ## IX. Fejezet
 
 ## ZÁRÓ RENDELKEZÉSEK

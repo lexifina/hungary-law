@@ -1,5 +1,3 @@
-## 4. §
-
 ## 3. A Magyar Állam javára szóló jelzálogjog és azt biztosító elidegenítési és terhelési tilalom
 
 5. § (1)[^11] Az e rendelet szerint igénybe vett kedvezménnyel egyösszegben vásárolt ingatlanra a kedvezmény igénybevételéről is szóló adásvételi szerződés megkötését követő 5 évig terjedő időszakra a kedvezmény mértékének megfelelő összeg erejéig az állam javára jelzálogjog, valamint annak biztosítására elidegenítési és terhelési tilalom kerül bejegyzésre.

@@ -1,3 +1,3 @@
-1. melléklet a 274/2018. (XII. 21.) Korm. rendelethez[^54]
+1. melléklet a 274/2018. (XII. 21.) Korm. rendelethez[^57]
 
-[^54]: Az 1. melléklet a 761/2021. (XII. 23.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^57]: Az 1. melléklet a 761/2021. (XII. 23.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.

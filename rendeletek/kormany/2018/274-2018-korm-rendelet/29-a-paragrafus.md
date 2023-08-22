@@ -1,6 +1,6 @@
-## 29. §[^44] A Lebonyolító a Törvény szerinti tulajdonszerzési lehetőségekről, valamint a lakásbérleti jogviszony fenntartásának és fennmaradásának feltételeiről általános tájékoztatót készít, amelyet közzétesz a honlapján.
+## 29. §[^46] A Lebonyolító a Törvény szerinti tulajdonszerzési lehetőségekről, valamint a lakásbérleti jogviszony fenntartásának és fennmaradásának feltételeiről általános tájékoztatót készít, amelyet közzétesz a honlapján.
 
-## 15/A. [^45] Tájékoztató a részletvétel egyéb szabályairól
+## 15/A. [^47] Tájékoztató a részletvétel egyéb szabályairól
 
 29/A. § (1) Az e rendelet szerinti, a Lebonyolítót és az MR Közösségi Lakásalap NKft.-t önállóan ellátandó feladatok során a Lebonyolító és az MR Közösségi Lakásalap NKft. egymással egyeztetve a részletvételi jogviszonyra vonatkozóan tájékoztatót (ezen alcím alkalmazásában a továbbiakban: tájékoztató) készít, amelyben meghatározza
 
@@ -18,5 +18,5 @@ e) a részletvevő és a Lebonyolító, illetve az MR Közösségi Lakásalap NK
 
 (3) A Lebonyolító és az MR Közösségi Lakásalap NKft. a tájékoztató tartalmát a részletvevők érdekeinek figyelembevételével állítja össze. A Lebonyolító és az MR Közösségi Lakásalap NKft. jogosult a tájékoztató egyoldalú módosítására a részletvevők érdekeinek figyelembe vétele mellett.
 
-[^44]: A 29. § a 373/2020. (VII. 30.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
-[^45]: A 15/A. alcímet (29/A. §) a 210/2019. (VIII. 27.) Korm. rendelet 9. §-a iktatta be, szövege a 761/2021. (XII. 23.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^46]: A 29. § a 373/2020. (VII. 30.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
+[^47]: A 15/A. alcímet (29/A. §) a 210/2019. (VIII. 27.) Korm. rendelet 9. §-a iktatta be, szövege a 761/2021. (XII. 23.) Korm. rendelet 5. §-ával megállapított szöveg.
