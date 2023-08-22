@@ -1,9 +1,3 @@
-2. § A 3/2020. (II. 28.) AM rendelet
+2. §[^3]
 
-a) 16. § (4) bekezdésében az „egy eredeti és egy másolati példányban” szövegrész helyébe a „postai úton egy eredeti és egy másolati példányban vagy elektronikus úton” szöveg,
-
-b) 16. § (6) bekezdésében az „értékelés eredeti példányát” szövegrész helyébe az „értékelést” szöveg,
-
-c) 17. § (1) bekezdésében a „70%” szövegrészek helyébe a „25%” szöveg
-
-lép.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
