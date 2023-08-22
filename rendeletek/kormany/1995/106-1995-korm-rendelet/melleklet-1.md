@@ -1,8 +1,8 @@
 ## 18. § E rendelet a kihirdetését követő 8. napon lép hatályba, rendelkezéseit a hatálybalépést követően közzétett eljárásokra kell alkalmazni.
 
-1. számú melléklet a 106/1995. (IX. 8.) Korm. rendelethez[^29]
+1. számú melléklet a 106/1995. (IX. 8.) Korm. rendelethez[^31]
 
-## Nyilatkozat
+Nyilatkozat
 
 ## a felszámolási eljárás, illetve végelszámolás alatt álló gazdálkodó szervezet telephelyén fennálló vagy telephelyéről, származott (származó) környezeti károsodásokról, környezeti terhekről, amelyekből bírságfizetési vagy egyéb fizetési kötelezettség, károsodások, terhek rendezéséhez szükséges kiadás származhat
 
@@ -174,4 +174,4 @@ Aláírás
 
 cégbélyegző
 
-[^29]: Az 1. számú melléklet a 360/2019. (XII. 30.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^31]: Az 1. számú melléklet a 360/2019. (XII. 30.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.

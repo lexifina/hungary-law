@@ -2,4 +2,7 @@
 
 ## Záró rendelkezések
 
+15. §[^25]
+
 [^24]: A 14. § a 377/2007. (XII. 23.) Korm. rendelet 4. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
+[^25]: A 15. §-t a 377/2007. (XII. 23.) Korm. rendelet – Magyar Közlöny 2007. évi 187. számában megjelent helyesbítésnek megfelelő – 25. § (2) bekezdésének a) pontja hatályon kívül helyezte.
