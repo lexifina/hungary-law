@@ -60,7 +60,7 @@ hc) a javasolt intézkedés részterület szerinti azonosítása (épület, foly
 
 hd) a javasolt energiahatékonyságot növelő intézkedés megvalósításával elérhető energiamegtakarítás mértéke energiahordozónként a mért mértékegységekben és kWh/év mértékegységben intézkedésenként és valamennyi intézkedésre nézve összesítetten megadva,
 
-he)[^9]
+he)[^9] a javasolt energiahatékonyságot növelő intézkedés megvalósításával az energiamegtakarítási kötelezettség teljesítésére elszámolható, az energiahatékonyságról szóló törvény végrehajtásáról szóló 122/2015. (V. 26.) Korm. rendelet 7. melléklet 1. és 2. pontjában foglalt számítási elvek figyelembevételével kiszámított energiamegtakarítás mértéke GJ/év mértékegységben,
 
 hf) a javasolt energiahatékonysági intézkedések becsült költsége ezer Ft mértékegységben intézkedésenként és valamennyi intézkedésre nézve összesítetten megadva,
 
@@ -102,6 +102,6 @@ ii) az energiahatékonysági célt szolgáló beruházással létrejött műszak
 [^6]: A 3. § (2) bekezdés g) pontja a 10/2017. (VIII. 10.) MEKH rendelet 1. §-ával megállapított, nyitó szövegrésze a 17/2020. (XII. 21.) MEKH rendelet 8. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^7]: A 3. § (2) bekezdés g) pont gb) alpontját a 11/2021. (IX. 20.) MEKH rendelet 1. §-a hatályon kívül helyezte.
 [^8]: A 3. § (2) bekezdés h) pontja a 10/2017. (VIII. 10.) MEKH rendelet 1. §-ával megállapított szöveg.
-[^9]: A 3. § (2) bekezdés h) pont he) alpontját a 11/2021. (IX. 20.) MEKH rendelet 1. §-a hatályon kívül helyezte.
+[^9]: A 3. § (2) bekezdés h) pont he) alpontját a 11/2021. (IX. 20.) MEKH rendelet 1. §-a hatályon kívül helyezte, újonnan a 12/2023. (VIII. 18.) MEKH rendelet 1. §-a iktatta be.
 [^10]: A 3. § (2) bekezdés i) pontját a 10/2017. (VIII. 10.) MEKH rendelet 1. §-a iktatta be, nyitó szövegrésze a 17/2020. (XII. 21.) MEKH rendelet 8. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^11]: A 3. § (2) bekezdés i) pont id) alpontját a 11/2021. (IX. 20.) MEKH rendelet 1. §-a hatályon kívül helyezte.
