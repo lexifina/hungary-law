@@ -1,1 +1,3 @@
-7. § A 274/2018. (XII. 21.) Korm. rendelet 3. melléklete helyébe a 2. melléklet lép.
+7. §[^8]
+
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
