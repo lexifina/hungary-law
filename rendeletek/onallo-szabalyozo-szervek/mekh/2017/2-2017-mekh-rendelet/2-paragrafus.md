@@ -10,7 +10,7 @@ b) szakreferens igénybevételére köteles nagyvállalatként vagy
 
 c) szakreferens igénybevételére köteles kis- és középvállalkozásként
 
-## szolgáltat adatot.
+szolgáltat adatot.
 
 (2a)[^2] Az (1) bekezdés szerinti adatszolgáltatás során meg kell adni az adatszolgáltató szervezet megnevezését és adószámát.
 
@@ -20,7 +20,7 @@ a) az adatszolgáltató energiafelhasználása tekintetében:
 
 aa)[^3] az épület, tevékenység és szállítás területeire vonatkozóan (a továbbiakban: részterületek) az adatszolgáltató működésével összefüggésben felmerült teljes éves (mért és számolt) energiafelhasználás mennyiségét energiahordozónként a mért mértékegységekben, illetve a teljes felhasználást kWh/év mértékegységben is megadva;
 
-ab)[^4] részterületenként az adatszolgáltató működésével összefüggésben felmerült teljes éves üvegházhatású gázkibocsátást ezer tonna CO2/év mértékegységben megadva;
+ab)[^4]
 
 ac) részterületenként a vállalkozás működésével összefüggésben felmerült teljes éves energiafelhasználás költségét értékben – ezer Ft/év mértékegységben megadva;
 
@@ -67,7 +67,7 @@ cd) az aktív és passzív módon elért résztvevők számát.
 [^1]: A 2. § (1) bekezdése a 10/2017. (VIII. 10.) MEKH rendelet 4. §-ával megállapított szöveg.
 [^2]: A 2. § (2a) bekezdését a 10/2017. (VIII. 10.) MEKH rendelet 5. §-a iktatta be.
 [^3]: A 2. § (3) bekezdés a) pont aa) alpontja a 10/2017. (VIII. 10.) MEKH rendelet 6. § a) pontja szerint módosított szöveg.
-[^4]: A 2. § (3) bekezdés a) pont ab) alpontja a 10/2017. (VIII. 10.) MEKH rendelet 6. § b) pontja szerint módosított szöveg.
+[^4]: A 2. § (3) bekezdés a) pont ab) alpontját a 12/2023. (VIII. 18.) MEKH rendelet 3. §-a hatályon kívül helyezte.
 [^5]: A 2. § (3) bekezdés b) pont bf) alpontja a 10/2017. (VIII. 10.) MEKH rendelet 6. § a) pontja szerint módosított szöveg.
 [^6]: A 2. § (3) bekezdés b) pont bg) alpontja a 10/2017. (VIII. 10.) MEKH rendelet 6. § a) pontja szerint módosított szöveg.
 [^7]: A 2. § (3) bekezdés b) pont bh) alpontja a 10/2017. (VIII. 10.) MEKH rendelet 6. § a) pontja szerint módosított szöveg.
