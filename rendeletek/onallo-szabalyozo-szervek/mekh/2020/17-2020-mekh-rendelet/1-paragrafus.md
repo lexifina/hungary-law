@@ -26,17 +26,11 @@ c)[^4] az NGM rendelet 3. melléklet 5.1. alpontja szerinti, magánszemélyen k�
 
 d)[^5]
 
-(4)[^6] A közlekedési célú üzemanyagot végső felhasználók részére értékesítő jövedéki kiskereskedő éves adatszolgáltatása saját maga és a jogelődjei vonatkozásában elkülönítve tartalmazza:
-
-a) a kereskedelmi hatóság általi nyilvántartásba vételi számot, valamint a nyilvántartásba vételnek az időpontját,
-
-b) üzemanyagfajtánként az NGM rendelet 4. melléklet 5.1. alpontja szerinti, végfelhasználó részére értékesített összesített éves mennyiséget (liter, kilogramm, normál köbméter),
-
-c) az NGM rendelet 4. melléklet 5.1. alpontja szerinti, végfelhasználó részére értékesített benzin összesített éves mennyiségéből a repülőgép-üzemanyag mennyiségét (liter, kilogramm, normál köbméter).
+(4)[^6]
 
 [^1]: Az 1. § (1) bekezdése a 11/2021. (IX. 20.) MEKH rendelet 2. §-a szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdés d) pontját az 5/2021. (V. 12.) MEKH rendelet 5. § a) pontja hatályon kívül helyezte.
 [^3]: Az 1. § (2) bekezdés f) pontja az 5/2021. (V. 12.) MEKH rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^4]: Az 1. § (3) bekezdés c) pontja az 5/2021. (V. 12.) MEKH rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^5]: Az 1. § (3) bekezdés d) pontját az 5/2021. (V. 12.) MEKH rendelet 5. § b) pontja hatályon kívül helyezte.
-[^6]: Az 1. § (4) bekezdése az 5/2021. (V. 12.) MEKH rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^6]: Az 1. § (4) bekezdését a 12/2023. (VIII. 18.) MEKH rendelet 6. §-a hatályon kívül helyezte.
