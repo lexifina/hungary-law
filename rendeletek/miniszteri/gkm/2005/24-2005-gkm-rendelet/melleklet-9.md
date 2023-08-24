@@ -1,5 +1,3 @@
-## A közúti járművezetők vizsgáztatására vonatkozó részletes eljárási rend
-
 ## I. A vizsgáztatás általános szabályai
 
 ## 1.1. A vizsgáztatás feltételeinek ellenőrzése
@@ -102,11 +100,11 @@
 
 ## 1.3. A vizsga értékelése
 
-## A vizsga eredménye sikeres vizsga esetén: „megfelelt”, jelölése: „M”, sikertelen vizsga esetén „nem felelt meg”, jelölése: bekarikázott „1”-es:
+## A vizsga eredménye sikeres vizsga esetén: „megfelelt”, jelölése: „M”, sikertelen vizsga esetén „nem felelt meg”, jelölése: bekarikázott „1”-es.
 
 ## Sikertelen a forgalmi vizsga, ha
 
-## a) a vizsgázó az 1.8.2.; 1.8.3., 1.8.4. pontban meghatározott hibát követ el, vagy
+## a) a vizsgázó az 1.8.2., 1.8.3., 1.8.4. pontban meghatározott hibát követ el, vagy
 
 ## b) az a) pontban nem említett egyéb hibából – amelyeket a vizsgabiztos egyenként hibavonallal jelöl – tíznél többet követ el.
 
@@ -130,7 +128,7 @@
 
 | 8. | D1 | K | 25 | 35 | 30 | 5 | 25 |
 
-| 9. | D | K | 25 | 35 | 30 | 5 | 25 |
+| 9. | D | K Szü M | 25 25 25 | 35 25 25 | 30 21 21 | 5 4 4 | 25 25 25 |
 
 | 10. | BE D1E | K Szü M | 25 25 25 | 35 25 25 | 30 21 21 | 5 4 4 | 25 25 25 |
 
@@ -152,9 +150,7 @@
 
 ## a) a biztonsági ellenőrzési feladatok vonatkozásában:
 
-## aa) a feladatok elvégzéséhez nem rendelkezik kellő ismerettel és
-
-## jártassággal,
+## aa) a feladatok elvégzéséhez nem rendelkezik kellő ismerettel és jártassággal,
 
 ## ab) a feladatokat nem hajtja végre,
 
@@ -166,19 +162,17 @@
 
 ## b) a technikai kezelési feladatok vonatkozásában:
 
-## ba) bármelyik technikai kezelési és manőverezési feladat végrehajtásakor sikertelenséget okozó hibát követett el,
+## ba) bármelyik technikai kezelési és manőverezési feladat végrehajtásakor sikertelenséget okozó hibát követett el, vagy
 
 ## bb) a meghatározott idő alatt a feladatokat képtelen végrehajtani, függetlenül attól, hogy a már teljesített feladatok végrehajtásakor sikertelenséget okozó hibát nem követett el.
 
-## 1.6.
-
-## 1.7. A rutin vizsga értékelése
+## 1.6. A rutin vizsga értékelése
 
 ## A vizsgázónak a vizsgán biztonsági ellenőrzési, üzemeltetési, rakománybiztonsági vagy utasbiztonsági, valamint technikai kezelési és manőverezési feladatokat kell egymást követő sorrendben végrehajtania.
 
 ## 1.7.1. „Megfelelt” minősítést kell adni a vizsgázónak, ha
 
-## a) az ellenőrzési és üzemeltetési feladat végrehajtása során legalább a szükséges ellenőrzési, karbantartási, szerelési műveleteket képes elvégezni, és a szerszámokat szakszerűen használja, továbbá a vizsgatevékenységgel összefüggő munkavédelmi előírásokat megtartja, és;
+## a) az ellenőrzési és üzemeltetési feladat végrehajtása során legalább a szükséges ellenőrzési, karbantartási, szerelési műveleteket képes elvégezni, és a szerszámokat szakszerűen használja, továbbá a vizsgatevékenységgel összefüggő munkavédelmi előírásokat megtartja, és
 
 ## b) a technikai kezelési és manőverezési feladatokat a rendelkezésre álló időn belül úgy hajtotta végre, hogy sikertelenséget okozó hibát nem követett el.
 
@@ -188,15 +182,15 @@
 
 ## aa) a vizsgatételen szereplő feladatot, a szükséges ellenőrzési, karbantartási, szerelési műveleteket nem képes elvégezni;
 
-## ab) szerkezeti rongálódást okoz vagy okozna;
+## ab) szerkezeti rongálódást okoz vagy okozna; vagy
 
-## ac) megszegi a vizsgatevékenységgel kapcsolatos munkavédelmi rendelkezéseket.
+## ac) megszegi a vizsgatevékenységgel kapcsolatos munkavédelmi rendelkezéseket;
 
 ## b) a technikai kezelési és manőverezési feladatok vonatkozásában
 
-## aa) bármelyik feladat végrehajtásakor sikertelenséget okozó hibát követett el;
+## ba) bármelyik feladat végrehajtásakor sikertelenséget okozó hibát követett el; vagy
 
-## ab) a meghatározott idő alatt a feladatokat képtelen végrehajtani, függetlenül attól, hogy a már teljesített feladatok végrehajtásakor sikertelenséget okozó hibát nem követett el.
+## bb) a meghatározott idő alatt a feladatokat képtelen végrehajtani, függetlenül attól, hogy a már teljesített feladatok végrehajtásakor sikertelenséget okozó hibát nem követett el.
 
 ## 1.8. A forgalmi vizsgafeladatok
 
@@ -206,11 +200,11 @@
 
 ## A vizsgázót a vizsgabiztos előzetesen tájékoztatja a vizsga menetéről. Elindulás előtt a vizsgázó a KRESZ szerinti kötelező ellenőrzést végezze el, ezt követően a biztonsági övet csatolja be „C1”, „D1” alkategóriák, a „C”, „D” kategóriák, valamint a „C1E”, „D1E”, „CE”, „DE” kombinált kategóriák esetében végezze el a térképolvasási feladatot, töltse ki a menetíró készüléknek megfelelő adatrögzítő lapot, és helyezze a menetíró készülékbe.
 
-## A járdaszegély (úttest széle) mellől, vagy forgalmi ok miatti megállás után határozottan, biztosan, egyenletesen, a kezelő-berendezéseket, szükség esetén a világítást, a jelzéseket használva, körültekintően kell elindulni. Indulás előtt a külső visszapillantó tükörből vagy más módon meg kell győződni a jármű mögötti és melletti forgalomról. Mindig az oktató által megjelölt irányba kell haladni. Iránymutatás hiányában követni kell az út vonalvezetését, illetve eleget kell tenni a közúti jelzések kötelezéseinek.
+## A vizsgafeladat teljesítése sikeres, ha a vizsgázó a járdaszegély (úttest széle) mellől, vagy forgalmi ok miatti megállás után határozottan, biztosan, egyenletesen, a kezelőberendezéseket, szükség esetén a világítást, a jelzéseket használva, körültekintően elindul. Indulás előtt a külső visszapillantó tükörből vagy más módon meggyőződik a jármű mögötti és melletti forgalomról. Mindig az oktató által megjelölt irányba halad. Iránymutatás hiányában követi az út vonalvezetését, illetve eleget kell tesz a közúti jelzések kötelezéseinek.
 
 ## 1.8.2. A forgalmi vizsga sikertelenségét okozó hiba
 
-## Ha a vizsgázó:
+## a) Ha a vizsgázó:
 
 ## 1. közlekedési szabályt sért;
 
@@ -238,13 +232,13 @@
 
 ## 13. rendszeresen kis követési távolságot tartva, zavarja az előtte haladót;
 
-## 14. sebessége megtévesztő az elsőbbségadás tekintetében
+## 14. sebessége megtévesztő az elsőbbségadás tekintetében;
 
 ## 15. egyenrangú útkereszteződésbe úgy hajt be, hogy elsőbbségadási kötelezettségének nem tudna eleget tenni (fékkészenlét hiánya);
 
 ## 16. durva fékezéssel áll meg az úttesten áthaladó gyalogosok előtt;
 
-## 17. gyorshajtást, vagy relatív gyorshajtást követ el;
+## 17. gyorshajtást vagy relatív gyorshajtást követ el;
 
 ## 18. nem képes folyamatosan kormányozva irányítani a járművet;
 
@@ -252,7 +246,7 @@
 
 ## 20. a járművel felhajt a járdára (már egy kerékkel is);
 
-## 21. nem biztonságosan kanyarodik, indokolatlanul benyomja a tengelykapcsoló pedált
+## 21. nem biztonságosan kanyarodik, indokolatlanul benyomja a tengelykapcsoló pedált;
 
 ## 22. indokolatlanul vagy szabálytalanul igénybe veszi a menetirány szerinti bal oldalt;
 
@@ -284,7 +278,7 @@
 
 ## 36. várakozás céljából történő megálláskor a rögzítő fékkel nem rögzíti a járművet (járműszerelvényt);
 
-## továbbá, autóbusz esetében:
+## b) Sikertelen a vizsga, ha a vizsgázó autóbusz esetében az a) pontban foglaltakon felül:
 
 ## 1. rendszeresen hirtelen, blokkolva fékez (a lassulást nem érzékeli), az autóbuszban az álló utasok elesnének;
 
@@ -298,23 +292,23 @@
 
 ## 6. a megállóhelyen való megálláskor a járművet a rögzítő fékkel nem rögzíti;
 
-## 7. a megállónál az úttesten lévő vízzel a megállóhelyen várakozó utasokat beszennyezi a jelzőcsengő megszólalása után nyitott ajtóval indul el az autóbusszal;
+## 7. a megállónál az úttesten lévő vízzel a megállóhelyen várakozó utasokat beszennyezi;
 
-## továbbá, menetíró készülék kezelésével járó vizsgák esetében
+## 8. a jelzőcsengő megszólalása után nyitott ajtóval indul el az autóbusszal;
+
+## c) Sikertelen a vizsga a menetíró készülék kezelésével járó vizsgák esetében, ha a vizsgázó
 
 ## 1. a „C”, „D” kategóriák, valamint a „C1E”, „D1E”, „CE”, „DE” kombinált kategóriák esetében a menetíró készüléket nem tudja kezelni, vagy az adatrögzítő lapot nem tudja értelmezni.
 
 ## 1.8.3. Az „AM”, „A1”, „A2”, „A” kategória forgalmi vizsgafeladatai és értékelése
 
-## A forgalmi vizsga sikertelenségét okozó hiba
-
-## Ha a vizsgázó:
+## A forgalmi vizsga sikertelenségét okozó hiba, ha a vizsgázó:
 
 ## 1. közlekedési szabályt sért;
 
 ## 2. a KRESZ szerinti ellenőrzést nem képes elvégezni;
 
-## 3. veszélyhelyzetet teremt vagy balesetet okoz
+## 3. veszélyhelyzetet teremt vagy balesetet okoz;
 
 ## 4. meghatározott feladatot második javítással sem képes a megfelelő módon végrehajtani;
 
@@ -356,7 +350,7 @@
 
 ## 23. nem a közúti jelzéseknek megfelelően közlekedik;
 
-## 24. nem megfelelően reagál a gyalogosok viselkedésére
+## 24. nem megfelelően reagál a gyalogosok viselkedésére;
 
 ## 25. a forgalmi helyzetekről nem tájékozódik, figyelmetlen;
 
@@ -368,13 +362,11 @@
 
 ## 29. rendszeresen hirtelen, blokkolva fékez (a lassulást nem érzékeli), képtelen az egyenletes lassításra, későn fékez, a motorkerékpár hátsó kereke oldalra megcsúszik;
 
-## 30. fékezéskor a lábát az úttesten csúsztatja;
+## 30. fékezéskor a lábát az úttesten csúsztatja.
 
 ## 1.8.4. A „Trolibusz” kategóriás forgalmi vizsgafeladatok és értékelése
 
-## A forgalmi vizsga sikertelenségét okozó hiba
-
-## Ha a vizsgázó:
+## A forgalmi vizsga sikertelenségét okozó hiba, ha a vizsgázó:
 
 ## 1. közlekedési szabályt sért;
 
@@ -388,7 +380,7 @@
 
 ## 6. az irányjelzést vagy a körültekintést elmulasztja;
 
-## 7. a tervezett indulási iránnyal ellenkezőleg a trolibusszal több mint 50 cm-t elgurul (kézifék helytelen kezelése miatt);
+## 7. a tervezett indulási iránnyal ellenkezőleg a trolibusszal több, mint 50 cm-t elgurul (kézifék helytelen kezelése miatt);
 
 ## 8. olyan nagy kezdősebességgel indít, hogy az álló utasok eldőlésével járna;
 
@@ -444,7 +436,7 @@
 
 ## 34. a trolibusszal (zavaró körülmény nélkül) nem képes a megállóhelyet jelző táblánál, csak annak elhagyása után megállni;
 
-## 35. megállóban a trolibuszt nyitott ajtóval hagyja elgurulni;
+## 35. a megállóban a trolibuszt nyitott ajtóval hagyja elgurulni;
 
 ## 36. a megállóhelyen való megálláskor a járművet a rögzítő fékkel nem rögzíti;
 
@@ -452,6 +444,6 @@
 
 ## 38. a jelzőcsengő megszólalása után nyitott ajtóval indul el a trolibusszal.
 
-9. melléklet a 24/2005. (IV. 21.) GKM rendelethez[^331]
+9. melléklet a 24/2005. (IV. 21.) GKM rendelethez[^337]
 
-[^331]: A 9. mellékletet a 45/2019. (XII. 20.) ITM rendelet 29. § 13. pontja hatályon kívül helyezte.
+[^337]: A 9. mellékletet a 45/2019. (XII. 20.) ITM rendelet 29. § 13. pontja hatályon kívül helyezte.

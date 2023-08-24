@@ -1,3 +1,3 @@
-10. melléklet a 24/2005. (IV. 21.) GKM rendelethez[^332]
+10. melléklet a 24/2005. (IV. 21.) GKM rendelethez[^338]
 
-[^332]: A 10. mellékletet a 85/2009. (XII. 30.) KHEM rendelet 21. § (2) bekezdése hatályon kívül helyezte.
+[^338]: A 10. mellékletet a 85/2009. (XII. 30.) KHEM rendelet 21. § (2) bekezdése hatályon kívül helyezte.
