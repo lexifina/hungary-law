@@ -1,33 +1,44 @@
-29. § (1)[^47]
+## „g) a meglévő vezetői engedélyét – figyelembe véve a (3) bekezdésben foglaltakat – vagy annak időbeli hatálya alatt a közlekedési igazgatási hatóság által kiadott, a vezetői engedély kiállítására irányuló kérelem adatlapot a vizsgán bemutatja.”
 
-(2)[^48]
+29. § (1)[^25]
 
-(3)[^49]
+(2) A 24/2005. (IV. 21.) GKM rendelet 11. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
 
-(4)[^50]
+(Gyakorlati vizsgára az bocsátható, aki)
 
-(5)[^51]
+## „d) a tanfolyam vizsgatárgyhoz kapcsolódó gyakorlati részét az 5. § (3) bekezdésében foglaltak szerint elvégezte; ez a követelmény nem vonatkozik arra, aki a tanfolyam vizsgatárgyhoz kapcsolódó gyakorlati részének elvégzése alól felmentést kapott, továbbá aki a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló rendelet alapján tanfolyammentes vizsgát tehet,”
 
-(6)[^52]
+(3)[^26]
 
-(7)[^53]
+(4) A 24/2005. (IV. 21.) GKM rendelet 11. § (1) bekezdés g) pontja helyébe a következő rendelkezés lép:
 
-(8)[^54]
+(Gyakorlati vizsgára az bocsátható, aki)
 
-(9)[^55]
+## „g) a meglévő vezetői engedélyét – figyelembe véve a (6) bekezdésben foglaltakat – vagy annak időbeli hatályán belül a közlekedési igazgatási hatóság által kiadott, a vezetői engedély kiállítására irányuló kérelem adatlapot a vizsgán bemutatja.”
 
-(10)[^56]
+(5)[^27]
 
-(11)[^57]
+(6)[^28]
 
-[^47]: A 29. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^48]: A 29. § (2) bekezdése az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^49]: A 29. § (3) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^50]: A 29. § (4) bekezdése az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^51]: A 29. § (5) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^52]: A 29. § (6) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^53]: A 29. § (7) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^54]: A 29. § (8) bekezdése az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^55]: A 29. § (9) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^56]: A 29. § (10) bekezdése az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^57]: A 29. § (11) bekezdése az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+(7)[^29]
+
+(8) A 24/2005. (IV. 21.) GKM rendelet 11. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Forgalmi vizsga – ha e rendelet másként nem rendelkezik – sikeres járműkezelési vagy rutinvizsga után tehető.”
+
+(9)[^30]
+
+(10) A 24/2005. (IV. 21.) GKM rendelet 11. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) A 10. § (2) bekezdésében előírt vezetői engedély helyett egy évig el kell fogadni a feltételként meghatározott kategória megszerzését tanúsító – a vizsgaközpont által kiállított és a közlekedési igazgatási hatóság részére elektronikus úton továbbított –, az e rendeletben előírt valamennyi vizsgakövetelmény teljesítéséről szóló vizsgaigazolást. Az egy évet az adott kategóriára vonatkozó utolsó sikeres vizsga letételének időpontjától kell számítani.”
+
+(11) A 24/2005. (IV. 21.) GKM rendelet 11. § (5) bekezdés a) és b) pontja helyébe a következő rendelkezések lépnek:
+
+(Mentesül az elméleti tanfolyam és vizsga alól és gyakorlati vizsgára bocsátható az is, aki)
+
+[^25]: A 29. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 29. § (3) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 29. § (5) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 29. § (6) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 29. § (7) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: A 29. § (9) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

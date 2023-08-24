@@ -1,6 +1,9 @@
-12. § (1)[^12]
+## „10. elektronikus vizsgaigazolás: a vizsgaközpont által kiállított elektronikus dokumentum az adott kategóriás vezetői engedély megszerzésére irányuló, e rendeletben előírt valamennyi vizsgakövetelmény teljesítéséről,”
 
-(2)[^13]
+12. § (1)[^11]
 
-[^12]: A 12. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^13]: A 12. § (2) bekezdése az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+(2) A 24/2005. (IV. 21.) GKM rendelet 2. § (1) bekezdés 12. pontja helyébe a következő rendelkezés lép:
+
+(A rendelet alkalmazásában:)
+
+[^11]: A 12. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

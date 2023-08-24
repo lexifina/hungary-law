@@ -1,3 +1,3 @@
-45. §[^82]
+45. §[^42]
 
-[^82]: A 45. § az 58. § (2) bekezdése alapján 2023. július 1-jén lép hatályba.
+[^42]: A 45. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

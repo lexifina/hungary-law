@@ -1,3 +1,5 @@
-19. §[^23]
+## „39. tanrend: a tanterv figyelembevételével az iskolavezető által meghatározott, az alapismeretek tantárgyainak tantermi oktatás esetére lebontott ütemezése,”
 
-[^23]: A 19. § az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+19. § A 24/2005. (IV. 21.) GKM rendelet 2. § (1) bekezdése a következő 52–56. ponttal egészül ki:
+
+(A rendelet alkalmazásában:)

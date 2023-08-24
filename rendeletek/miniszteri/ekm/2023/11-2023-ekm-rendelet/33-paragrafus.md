@@ -1,3 +1,3 @@
-33. §[^63]
+33. § A 24/2005. (IV. 21.) GKM rendelet 18. § (4) bekezdése helyébe a következő rendelkezés lép:
 
-[^63]: A 33. § az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+„(4) A felvételi vizsgán a vizsgaközpont által vezényelt, a névjegyzékben szereplő vizsgabiztosok vizsgáztatnak. A szakoktatói felvételi vizsga a közlekedésért felelős miniszter által tantervi és vizsgakövetelményben meghatározottak alapján történik.”

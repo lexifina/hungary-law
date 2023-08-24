@@ -1,80 +1,63 @@
 49. § Hatályát veszti a 24/2005. (IV. 21.) GKM rendelet
 
-1.[^138]
+1.[^75]
 
-2.[^139]
+2. 2. § (1) bekezdés 1. pontjában az „és a „biztonsági ellenőrzés és üzemeltetés” tantárgyak” szövegrész,
 
-3.[^140]
+3. 2. § (1) bekezdés 7. pontjában a „biztonsági ellenőrzés és üzemeltetés vizsga,” szövegrész,
 
-4.[^141]
+4. 2. § (1) bekezdés 26. és 28. pontja,
 
-5.[^142]
+5. 2. § (1) bekezdés 33. pontjában az „aláírását és vizsgaeredményeit is,” szövegrész,
 
-6.[^143]
+6.[^76]
 
-7.[^144]
+7.[^77]
 
-8.[^145]
+8.[^78]
 
-9.[^146]
+9. 9. § (6) és (8) bekezdése,
 
-10.[^147]
+10. 10. § (1) bekezdés g) pontja,
 
-11.[^148]
+11. 11. § (1) bekezdés f) pontjában a „vagy közvetlenül” szövegrész,
 
-12.[^149]
+12. 11. § (1a) bekezdésében a „ , valamint biztonsági ellenőrzés és üzemeltetés vizsgát” szövegrész,
 
-13.[^150]
+13. 11. § (5) bekezdés a) pontjában az „és két éven belül „A1” kategóriára sikeres elméleti vizsgát tett” szövegrész,
 
-14.[^151]
+14. 11. § (5) bekezdés b) pontjában az „és két éven belül „A1” vagy „A2” kategóriára sikeres elméleti vizsgát tett” szövegrész,
 
-15.[^152]
+15. 14. § (8) bekezdése,
 
-16.[^153]
+16. 15. § (2) bekezdés b) pontjában az „a biztonsági ellenőrzés és üzemeltetési,” szövegrész,
 
-17.[^154]
+17. 18. § (4) bekezdés második mondatában, 20. § (2) bekezdés második mondatában és 26. § (2) bekezdés második mondatában az „A” szövegrész,
 
-18.[^155]
+18. a 18. § (4) bekezdés második mondatában, 20. § (2) bekezdés második mondatában a „meghatározottak szerint” szövegrész, valamint 32. § (1) bekezdésében a „meghatározottak szerinti” szövegrész,
 
-19.[^156]
+19.[^79]
 
-20.[^157]
+20.[^80]
 
-21.[^158]
+21.[^81]
 
-22.[^159]
+22. 31. § (1) bekezdés a) pontjában az „és szakoktatói vagy a 3. melléklet 2.5. pontjában meghatározott képesítéssel” szövegrész,
 
-23.[^160]
+23. 31. § (1) bekezdés b) pontja,
 
-24.[^161]
+24. 33/D. § (2) bekezdése, (4) bekezdése és (6) bekezdése,
 
-25.[^162]
+25.[^82]
 
-26.[^163]
+26.[^83]
 
-[^138]: A 49. § 1. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^139]: A 49. § 2. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^140]: A 49. § 3. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^141]: A 49. § 4. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^142]: A 49. § 5. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^143]: A 49. § 6. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^144]: A 49. § 7. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^145]: A 49. § 8. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^146]: A 49. § 9. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^147]: A 49. § 10. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^148]: A 49. § 11. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^149]: A 49. § 12. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^150]: A 49. § 13. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^151]: A 49. § 14. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^152]: A 49. § 15. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^153]: A 49. § 16. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^154]: A 49. § 17. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^155]: A 49. § 18. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^156]: A 49. § 19. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^157]: A 49. § 20. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^158]: A 49. § 21. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^159]: A 49. § 22. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^160]: A 49. § 23. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^161]: A 49. § 24. pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^162]: A 49. § 25. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^163]: A 49. § 26. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^75]: A 49. § 1. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^76]: A 49. § 6. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^77]: A 49. § 7. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^78]: A 49. § 8. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^79]: A 49. § 19. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^80]: A 49. § 20. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^81]: A 49. § 21. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^82]: A 49. § 25. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^83]: A 49. § 26. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

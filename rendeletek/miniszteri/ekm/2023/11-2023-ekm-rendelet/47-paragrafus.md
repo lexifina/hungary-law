@@ -1,13 +1,13 @@
 47. § A 24/2005. (IV. 21.) GKM rendelet
 
-a)[^84]
+a)[^44]
 
-b)[^85]
+b) 3. számú melléklete helyébe a 4. melléklet,
 
 c) 8. számú melléklete helyébe az 5. melléklet,
 
-d)[^86]
+d) 8. számú melléklete helyébe a 6. melléklet
 
-[^84]: A 47. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^85]: A 47. § b) pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
-[^86]: A 47. § d) pontja az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+lép.
+
+[^44]: A 47. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

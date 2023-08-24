@@ -1,3 +1,5 @@
-32. §[^62]
+## „b) a biztonsági ellenőrzés és üzemeltetési, a járműkezelési, a rutin- vagy a forgalmi vizsgán az e rendeletben meghatározott feltételeknek nem felel meg,”
 
-[^62]: A 32. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+32. §[^32]
+
+[^32]: A 32. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

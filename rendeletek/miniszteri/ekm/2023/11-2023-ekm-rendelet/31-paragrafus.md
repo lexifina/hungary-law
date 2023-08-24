@@ -1,3 +1,3 @@
-31. §[^61]
+31. § A 24/2005. (IV. 21.) GKM rendelet 15. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
 
-[^61]: A 31. § az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+(A vizsgabiztos felfüggeszti azon vizsgázó vizsgáját, aki:)

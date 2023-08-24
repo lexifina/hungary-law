@@ -1,3 +1,5 @@
-13. §[^14]
+## „12. jelentkezési adatlap: a bizonylati albumban előírt tartalmú, papíralapú vagy elektronikus űrlap, amely jogviszonyt hoz létre a jelentkező és a vizsgaközpont között, ha az a Bizonylati albumban meghatározott módon került kitöltésre és beküldésre,”
 
-[^14]: A 13. § az 58. § (3) bekezdés alapján 2023. augusztus 24-én lép hatályba.
+13. § A 24/2005. (IV. 21.) GKM rendelet 2. § (1) bekezdése a következő 20. ponttal egészül ki:
+
+(A rendelet alkalmazásában:)
