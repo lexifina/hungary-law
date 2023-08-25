@@ -1,8 +1,8 @@
-## [Az Áht. 87. §-ához][^715]
+## [Az Áht. 87. §-ához][^717]
 
 156. § (1) A Kincstár havonta kincstári költségvetési jelentést készít.
 
-(2)[^716] A kincstári költségvetési jelentés költségvetési szervenként, központi kezelésű előirányzatonként, fejezeti kezelésű előirányzatonként, illetve az elkülönített állami pénzalap, társadalombiztosítás pénzügyi alapja előirányzataiként készül a tárgyhónap utolsó napján ismert adatok alapján, az egységes rovatrend szerinti bontásban.
+(2)[^718] A kincstári költségvetési jelentés költségvetési szervenként, központi kezelésű előirányzatonként, fejezeti kezelésű előirányzatonként, illetve az elkülönített állami pénzalap, társadalombiztosítás pénzügyi alapja előirányzataiként készül a tárgyhónap utolsó napján ismert adatok alapján, az egységes rovatrend szerinti bontásban.
 
 (3) A kincstári költségvetési jelentést a Kincstár a tárgyhónapot követő hónap 10. napjáig – a nemzetbiztonsági szolgálatok kivételével – a honlapján közzéteszi, ahol
 
@@ -14,8 +14,8 @@ c) az államháztartásért felelős miniszter valamennyi az államháztartás k
 
 adatait megtekintheti, letöltheti.
 
-(4)[^717] A Kincstár és az államháztartás központi alrendszerébe tartozó költségvetési szerv, az államháztartási számviteli kormányrendelet 1. mellékletében nem nevesített központi kezelésű előirányzat, fejezeti kezelésű előirányzat, elkülönített állami pénzalap, társadalombiztosítás pénzügyi alapja kezelő szerve a saját könyvvezetése és a kincstári költségvetési jelentés közötti eltéréseket a tárgyhónapot követő hónap 25. napjáig köteles egyeztetni. Az egyeztetés során feltárt és mindkét fél által elfogadott eltéréseket a 169. § (2) bekezdése szerint a Kincstárnak visszaküldött időközi költségvetési jelentésben kell feltüntetni, és ennek alapján azokat mindkét fél könyvvezetésében, illetve nyilvántartásaiban egymással azonos módon – a Kincstár nyilvántartásai esetén a költségvetési szerv, kezelő szerv rendelkezése alapján – javítani kell.
+(4)[^719] A Kincstár és az államháztartás központi alrendszerébe tartozó költségvetési szerv, az államháztartási számviteli kormányrendelet 1. mellékletében nem nevesített központi kezelésű előirányzat, fejezeti kezelésű előirányzat, elkülönített állami pénzalap, társadalombiztosítás pénzügyi alapja kezelő szerve a saját könyvvezetése és a kincstári költségvetési jelentés közötti eltéréseket a tárgyhónapot követő hónap 25. napjáig köteles egyeztetni. Az egyeztetés során feltárt és mindkét fél által elfogadott eltéréseket a 169. § (2) bekezdése szerint a Kincstárnak visszaküldött időközi költségvetési jelentésben kell feltüntetni, és ennek alapján azokat mindkét fél könyvvezetésében, illetve nyilvántartásaiban egymással azonos módon – a Kincstár nyilvántartásai esetén a költségvetési szerv, kezelő szerv rendelkezése alapján – javítani kell.
 
-[^715]: Az Ávr. 156. §-át megelőző alcíme a 397/2014. (XII. 31.) Korm. rendelet 44. § 66. pontja szerint módosított szöveg.
-[^716]: Az Ávr.156. § (2) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 34. §-ával megállapított szöveg.
-[^717]: Az Ávr. 156. § (4) bekezdését a 497/2013. (XII. 29.) Korm. rendelet 54. § (2) bekezdése iktatta be, szövege a 397/2014. (XII. 31.) Korm. rendelet 44. § 67. pontja, a 499/2016. (XII. 28.) Korm. rendelet 22. § 17. pontja szerint módosított szöveg.
+[^717]: Az Ávr. 156. §-át megelőző alcíme a 397/2014. (XII. 31.) Korm. rendelet 44. § 66. pontja szerint módosított szöveg.
+[^718]: Az Ávr.156. § (2) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 34. §-ával megállapított szöveg.
+[^719]: Az Ávr. 156. § (4) bekezdését a 497/2013. (XII. 29.) Korm. rendelet 54. § (2) bekezdése iktatta be, szövege a 397/2014. (XII. 31.) Korm. rendelet 44. § 67. pontja, a 499/2016. (XII. 28.) Korm. rendelet 22. § 17. pontja szerint módosított szöveg.
