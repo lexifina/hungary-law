@@ -1,3 +1,3 @@
-31. § A 24/2005. (IV. 21.) GKM rendelet 15. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
+31. §[^32]
 
-(A vizsgabiztos felfüggeszti azon vizsgázó vizsgáját, aki:)
+[^32]: A 31. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
