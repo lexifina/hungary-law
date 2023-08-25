@@ -36,11 +36,11 @@ II. Tulajdonosi joggyakorló: a Digitális Magyarország Ügynökség Zártkör�
 
 | 1. | NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság | 01-10-041633 | 2026. december 31. |
 
-| 2. | Digitális Jólét Nonprofit Korlátolt Felelősségű Társaság | 01-09-986454 | 2026. december 31. |
+| 2. |  |  |  |
 
 | 3. |  |  |  |
 
-| 4. | Nemzeti Üzleti Szolgáltató Zártkörűen Működő Részvénytársaság | 01-10-141870 | 2026. december 31. |
+| 4. |  |  |  |
 
 | 5. | DATRAK Digitális Adattranzakciós Központ Korlátolt Felelősségű Társaság | 01-09-350667 | 2026. december 31. |
 
@@ -80,4 +80,12 @@ V. Tulajdonosi joggyakorló: N7 Holding Nemzeti Védelmi Ipari Innovációs Zár
 
 VI. Tulajdonosi joggyakorló: Paks II. Atomerőmű Zártkörűen Működő Részvénytársaság
 
-[^5]: A 3. melléklet a 8/2022. (VIII. 31.) GFM rendelet 2. §-a, a 9/2022. (IX. 30.) GFM rendelet 1. § (1) és (2) bekezdése, a 14/2022. (XI. 21.) GFM rendelet 1. § c) pontja és 2. §-a, a 18/2022. (XII. 20.) GFM rendelet 3. §-a, a 23/2022. (XII. 27.) GFM rendelet 1. §-a, az 5/2023. (IV. 17.) GFM rendelet 1. §-a, a 6/2023. (IV. 27.) GFM rendelet 1. § d) pontja szerint módosított szöveg.
+|  | A | B | C |
+
+|  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
+
+| 1. | PIP Közép-Duna Menti Térségfejlesztési Nonprofit Korlátolt Felelősségű Társaság | 17-09-003039 | 2026. december 31. |
+
+VII. Tulajdonosi joggyakorló: Nemzeti Vízművek Zártkörűen Működő Részvénytársaság
+
+[^5]: A 3. melléklet a 8/2022. (VIII. 31.) GFM rendelet 2. §-a, a 9/2022. (IX. 30.) GFM rendelet 1. § (1) és (2) bekezdése, a 14/2022. (XI. 21.) GFM rendelet 1. § c) pontja és 2. §-a, a 18/2022. (XII. 20.) GFM rendelet 3. §-a, a 23/2022. (XII. 27.) GFM rendelet 1. §-a, az 5/2023. (IV. 17.) GFM rendelet 1. §-a, a 6/2023. (IV. 27.) GFM rendelet 1. § d) pontja, a 19/2023. (VIII. 24.) GFM rendelet 2. §-a, a 20/2023. (VIII. 24.) GFM rendelet 1-2. §-a szerint módosított szöveg.

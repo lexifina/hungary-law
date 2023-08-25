@@ -2,7 +2,7 @@
 
 |  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
 
-| 1. | PIP Közép-Duna Menti Térségfejlesztési Nonprofit Korlátolt Felelősségű Társaság | 17-09-003039 | 2026. december 31. |
+| 1. | Nemzeti Üzleti Szolgáltató Zártkörűen Működő Részvénytársaság | 01-10-141870 | 2026. december 31. |
 
 4. melléklet az 1/2022. (V. 26.) GFM rendelethez[^6]
 
