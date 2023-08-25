@@ -123,3 +123,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-141-20-
 | 2023-07-28 | 2018-141-20-22.115 | 356/2023. (VII. 27.) Korm. rendelet |
 | 2023-08-11 | 2018-141-20-22.116 | 379/2023. (VIII. 10.) Korm. rendelet |
 | 2023-08-15 | 2018-141-20-22.117 | 42/2023. (II. 20.) Korm. rendelet |
+| 2023-08-25 | 2018-141-20-22.118 | 398/2023. (VIII. 24.) Korm. rendelet |
