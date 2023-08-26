@@ -1,1 +1,3 @@
-4. § Az R. 3. melléklete a 3. melléklet szerint módosul.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
