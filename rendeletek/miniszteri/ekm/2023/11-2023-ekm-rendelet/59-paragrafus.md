@@ -1,1 +1,0 @@
-59. § Ez a rendelet az egyes közúti árufuvarozást vagy személyszállítást végző járművek vezetőinek alapképesítéséről és továbbképzéséről szóló, 2022. december 14-i (EU) 2022/2561 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
