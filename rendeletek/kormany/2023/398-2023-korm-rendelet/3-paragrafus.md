@@ -1,1 +1,3 @@
-3. § A 141/2018. (VII. 27.) Korm. rendelet 2. melléklete az 1. melléklet szerint módosul.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
