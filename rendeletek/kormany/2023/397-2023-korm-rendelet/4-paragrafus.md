@@ -1,1 +1,3 @@
-4. § Az Ávr. [Az Áht. 83. § (5) és (6) bekezdéséhez] alcím címében az „(5) és (6) bekezdéséhez” szövegrész helyébe az „(5), (6) és (6b) bekezdéséhez” szöveg lép.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
