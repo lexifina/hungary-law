@@ -4,7 +4,7 @@
 
 | 1. | Halottakkal kapcsolatos vizsgálatok: |  |
 
-|  | a) igazságügyi boncolás | Magyarország egész területén, országos illetékességgel: Nemzeti Szakértői és Kutató Központ (a továbbiakban: NSZKK) Budapest, valamint Pest és Nógrád vármegye területén: Semmelweis Egyetem Általános Orvostudományi Kar Igazságügyi és Biztosítás-orvostani Orvostani Intézete Baranya, Somogy és Tolna vármegye területén: Pécsi Tudományegyetem Általános Orvostudományi Kar Igazságügyi Orvostani Intézete Csongrád-Csanád vármegye területén: Szegedi Tudományegyetem Általános Orvostudományi Kar Igazságügyi Orvostani Intézete Hajdú-Bihar és Szabolcs-Szatmár-Bereg vármegye területén: Debreceni Egyetem Általános Orvostudományi Kar Igazságügyi Orvostani Intézete |
+|  | a) igazságügyi boncolás | Magyarország egész területén, országos illetékességgel: Nemzeti Szakértői és Kutató Központ (a továbbiakban: NSZKK) Budapest, valamint Pest és Nógrád vármegye területén: Semmelweis Egyetem Patológiai, Igazságügyi és Biztosítási Orvostani Intézet Baranya, Somogy és Tolna vármegye területén: Pécsi Tudományegyetem Általános Orvostudományi Kar Igazságügyi Orvostani Intézete Csongrád-Csanád vármegye területén: Szegedi Tudományegyetem Általános Orvostudományi Kar Igazságügyi Orvostani Intézete Hajdú-Bihar és Szabolcs-Szatmár-Bereg vármegye területén: Debreceni Egyetem Általános Orvostudományi Kar Igazságügyi Orvostani Intézete |
 
 |  | b) hatósági boncolás |
 
@@ -36,7 +36,7 @@
 
 |  | g) mérgező hatású anyaggal történt emberi mérgezési eset toxikológiai szakkérdései | NSZKK Nemzeti Népegészségügyi és Gyógyszerészeti Központ (OKK) Magyar Honvédség Dr. Radó György Honvéd Egészségügyi Központ |
 
-| 4. |  |  |
+| 4. | Tűzvizsgálat (tűzveszélyes folyadékok, ásványolaj-származékok, bűnjelről származó tűzveszélyes és ásványolaj-származék maradványok, égésmaradványok laboratóriumi vizsgálata) | NSZKK, egyetemi intézetek, Katasztrófavédelmi Kutatóintézet |
 
 | 5. |  |  |
 
@@ -58,4 +58,4 @@
 
 Szakvélemény adására elsősorban feljogosított szervek
 
-[^8]: A 3. számú melléklet a 379/2016. (XII. 2.) Korm. rendelet 105. § (1) bekezdés a) pontjával megállapított, az 516/2017. (XII. 29.) Korm. rendelet 7. §-a, a 285/2018. (XII. 21.) Korm. rendelet 1. §-a, a 155/2019. (VI. 27.) Korm. rendelet 2. §-a, a 337/2020. (VII. 9.) Korm. rendelet 4. §-a, az 501/2021. (VIII. 18.) Korm. rendelet 1. §-a, a 764/2021. (XII. 23.) Korm. rendelet 16. §-a, a 334/2023. (VII. 20.) Korm. rendelet 14. § e) és f) pontja szerint módosított szöveg.
+[^8]: A 3. számú melléklet a 379/2016. (XII. 2.) Korm. rendelet 105. § (1) bekezdés a) pontjával megállapított, az 516/2017. (XII. 29.) Korm. rendelet 7. §-a, a 285/2018. (XII. 21.) Korm. rendelet 1. §-a, a 155/2019. (VI. 27.) Korm. rendelet 2. §-a, a 337/2020. (VII. 9.) Korm. rendelet 4. §-a, az 501/2021. (VIII. 18.) Korm. rendelet 1. §-a, a 764/2021. (XII. 23.) Korm. rendelet 16. §-a, a 334/2023. (VII. 20.) Korm. rendelet 14. § e) és f) pontja, a 350/2023. (VII. 27.) Korm. rendelet 2. §-a szerint módosított szöveg.

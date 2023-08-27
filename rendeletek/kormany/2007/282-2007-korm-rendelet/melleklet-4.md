@@ -56,6 +56,8 @@
 
 | 15. | Szabadalom megsemmisítésével és korlátozásával összefüggő szakkérdés | Szellemi Tulajdon Nemzeti Hivatala |
 
+| 16. | Büntetőeljárás során orvosszakértői vizsgálat | NSZKK, egyetemi intézetek |
+
 4. számú melléklet a 282/2007. (X. 26.) Korm. rendelethez[^9]
 
 Szakvélemény adására feljogosított szervek
@@ -102,6 +104,10 @@ Szakvélemény adására feljogosított szervek
 
 |  | s) pszichológiai vizsgálat | NSZKK |
 
+|  | t) forenzikus geológiai vizsgálat | NSZKK |
+
+|  | u) forenzikus botanikai vizsgálat | NSZKK |
+
 | 2. | Tűzvédelemmel kapcsolatos szakkérdés | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság és Katasztrófavédelmi Igazgatóságok |
 
 | 3. | A levegőkörnyezettel, illetve annak múltbeli és jövőbeni állapotával összefüggő szakkérdés | Országos Meteorológiai Szolgálat |
@@ -146,4 +152,10 @@ Szakvélemény adására feljogosított szervek
 
 | 9. | A felszíni és a felszín alatti vizek mennyiségi és minőségi állapotával összefüggő, illetve vízügyi igazgatási szakkérdés | Országos Vízügyi Főigazgatóság |
 
-[^9]: A 4. számú melléklet a 379/2016. (XII. 2.) Korm. rendelet 105. § (1) bekezdés b) pontjával megállapított, ugyanezen módosító rendelet 105. § (2) bekezdés b) pontja, a 250/2017. (IX. 5.) Korm. rendelet 15. §-a, a 162/2018. (IX. 10.) Korm. rendelet 7. § b) pontja, a 350/2019. (XII. 23.) Korm. rendelet 1. §-a, a 345/2019. (XII. 23.) Korm. rendelet 1. §-a, a 737/2021. (XII. 21.) Korm. rendelet 4. § a) és b) pontja, a 334/2023. (VII. 20.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.
+| 10. | Pszichiátriai és igazságügyi elmeszakértői vizsgálatok | NSZKK, Országos Mentális, Ideggyógyászati és Idegsebészeti Intézet |
+
+| 11. | Adó- és könyvszakértői (adószakértői, járulékszakértői, könyvszakértői, pénz- és tőkepiaci szakértői) vizsgálatok | NSZKK |
+
+| 12. | Építésügyi szakértői vizsgálatok | NSZKK |
+
+[^9]: A 4. számú melléklet a 379/2016. (XII. 2.) Korm. rendelet 105. § (1) bekezdés b) pontjával megállapított, ugyanezen módosító rendelet 105. § (2) bekezdés b) pontja, a 250/2017. (IX. 5.) Korm. rendelet 15. §-a, a 162/2018. (IX. 10.) Korm. rendelet 7. § b) pontja, a 350/2019. (XII. 23.) Korm. rendelet 1. §-a, a 345/2019. (XII. 23.) Korm. rendelet 1. §-a, a 737/2021. (XII. 21.) Korm. rendelet 4. § a) és b) pontja, a 334/2023. (VII. 20.) Korm. rendelet 14. § e) pontja, a 350/2023. (VII. 27.) Korm. rendelet 3. §-a szerint módosított szöveg.
