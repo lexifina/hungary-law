@@ -1,6 +1,6 @@
 ## 9. § Ez a rendelet 2018. január 1-jén lép hatályba.
 
-1. melléklet a 418/2017. (XII. 19.) Korm. rendelethez[^6]
+1. melléklet a 418/2017. (XII. 19.) Korm. rendelethez[^8]
 
 Az igazságügyi szakértői tevékenység folytatásához szükséges szakmai gyakorlat szakirányú jellegéről hatósági bizonyítvány kiállítására jogosult hatóságok
 
@@ -58,10 +58,10 @@ Az igazságügyi szakértői tevékenység folytatásához szükséges szakmai g
 
 | 19. | személy- és vagyonvédelemi területek | rendészetért felelős miniszter |
 
-| 20. | kriminalisztikai terület | rendészetért felelős miniszter |
+| 20. | kriminalisztikai terület | Nemzeti Szakértői és Kutató Központ |
 
 | 21. | audiovizuális média területe | Nemzeti Média- és Hírközlési Hatóság |
 
 | 22. | titokvédelmi terület | minősített adatok védelmének szakmai felügyeletéért felelős miniszter |
 
-[^6]: Az 1. melléklet a 360/2019. (XII. 30.) Korm. rendelet 180. §-a, a 764/2021. (XII. 23.) Korm. rendelet 27. §-a, a 238/2022. (VI. 30.) Korm. rendelet 178. § a) és b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 269. § a) és b) pontja szerint módosított szöveg. [A B:14 mezőben a 238/2022. (VI. 30.) Korm. rendelet 178. § a) pontjával elrendelt módosítás nem vezethető át.]
+[^8]: Az 1. melléklet a 360/2019. (XII. 30.) Korm. rendelet 180. §-a, a 764/2021. (XII. 23.) Korm. rendelet 27. §-a, a 238/2022. (VI. 30.) Korm. rendelet 178. § a) és b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 269. § a) és b) pontja, a 350/2023. (VII. 27.) Korm. rendelet 8. §-a szerint módosított szöveg. [A B:14 mezőben a 238/2022. (VI. 30.) Korm. rendelet 178. § a) pontjával elrendelt módosítás nem vezethető át.]
