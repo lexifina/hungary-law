@@ -52,7 +52,7 @@ j)[^17] a termesztéstechnológiai módszerek javítása esetén a hegybíró ig
 
 k)[^18] a termesztéstechnológiai módszerek javítása esetén a meglévő támberendezésről készített oldalnézeti vázrajzot,
 
-l)[^19] a családi gazdaság tagja által benyújtott egyéni terv esetében a családi gazdaság meglétét igazoló határozat másolatát és
+l)[^19] az őstermelők családi gazdaságának tagja által benyújtott egyéni terv esetében a tagság meglétét igazoló határozat másolatát és
 
 m)[^20] a kérelmező nyilatkozatát arra vonatkozóan, hogy
 
@@ -68,5 +68,5 @@ mb) a tevékenységet vagy annak meghatározott, számlával nem igazolható ré
 [^16]: A 7. § (2) bekezdés h) pontja a 22/2021. (VI. 3.) AM rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^17]: A 7. § (2) bekezdés j) pontja a 22/2021. (VI. 3.) AM rendelet 6. § (2) bekezdésével megállapított szöveg.
 [^18]: A 7. § (2) bekezdés k) pontja a 35/2022. (X. 28.) AM rendelet 10. § d) pontja szerint módosított szöveg.
-[^19]: A 7. § (2) bekezdés l) pontja a 35/2022. (X. 28.) AM rendelet 10. § e) pontja szerint módosított szöveg.
+[^19]: A 7. § (2) bekezdés l) pontja a 35/2022. (X. 28.) AM rendelet 10. § e) pontja, a 49/2023. (VIII. 24.) AM rendelet 5. § b) pontja szerint módosított szöveg.
 [^20]: A 7. § (2) bekezdés m) pontját a 35/2022. (X. 28.) AM rendelet 4. § (2) bekezdése iktatta be.

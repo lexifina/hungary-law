@@ -1,4 +1,4 @@
-2. melléklet az 57/2020. (XI. 13.) AM rendelethez[^56]
+2. melléklet az 57/2020. (XI. 13.) AM rendelethez[^58]
 
 1. A 9. § (1) bekezdése alapján benyújtott egyéni tervek elbírálásakor érvényesítendő szempontok és az azokhoz tartozó pontértékek – fajtaváltás, áttelepítés
 
@@ -8,7 +8,7 @@
 
 | 2. | A. A beruházással érintett ültetvény jellemzői |
 
-| 3. | Az egyéni tervben megjelölt létező vagy telepítendő ültetvény tőszáma legalább 4000 tő/hektár az összefüggő terület esetében | 10 | 10 |
+| 3. | Az egyéni tervben megjelölt telepítendő ültetvény sor- és tőtávolsága alapján számított tőszáma legalább 4000 tő/hektár az összefüggő terület esetében | 10 | 10 |
 
 | 4. | B. A beruházás és a helyi fejlesztési célok összhangja |
 
@@ -50,7 +50,7 @@
 
 | 23. | F. A beruházás egyéb jellemzői |
 
-| 24. | A felhasználni kívánt szaporítóanyag szaporítási foka prebázis, bázis vagy certifikált | 2 | 2 |
+| 24. |  |  |  |
 
 | 25. | Az egyéni tervben szereplő összefüggő területek egybeszámított területnagysága | 3 |  |
 
@@ -58,11 +58,11 @@
 
 | 27. | b) 20 hektár alatt van |  | 3 |
 
-| 28. | Összesen elérhető pontszám | 50 |  |
+| 28. | Összesen elérhető pontszám | 48 |  |
 
 2. A 9. § (1) bekezdése alapján benyújtott egyéni tervek elbírálásakor érvényesítendő szempontok és az azokhoz tartozó pontértékek – termesztéstechnológiai módszerek javítása
 
-|  |  | A | B | C |
+|  | A | B | C |
 
 | 1. | Javasolt szempont | Maximális pontérték | Pontérték |
 
@@ -116,4 +116,4 @@
 
 | 26. | Összesen elérhető pontszám | 50 |  |
 
-[^56]: A 2. melléklet a 22/2021. (VI. 3.) AM rendelet 9. §-a, a 26/2021. (VII. 29.) AM rendelet 69. § (3) bekezdése, a 27/2022. (VIII. 31.) AM rendelet 12. §-a szerint módosított szöveg.
+[^58]: A 2. melléklet a 22/2021. (VI. 3.) AM rendelet 9. §-a, a 26/2021. (VII. 29.) AM rendelet 69. § (3) bekezdése, a 27/2022. (VIII. 31.) AM rendelet 12. §-a, a 49/2023. (VIII. 24.) AM rendelet 5. § h)-i) pontja, a 6. § b) pontja szerint módosított szöveg.

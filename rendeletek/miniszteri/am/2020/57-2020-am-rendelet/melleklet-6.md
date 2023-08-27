@@ -4,7 +4,7 @@
 
 | 2. | 3500 alatt | 3500–3999 között | 4000–4499 között | 4500–4999 között | 5000 és a felett |
 
-| 3. | kizárólag fa vagy fa és fém /beton | fa | 1 | 4 813 | 4 989 | 5 415 | 5 916 | 6 166 |
+| 3. | kizárólag fa vagy fa és fém /beton | fa vagy fa és fém | 1 | 4 813 | 4 989 | 5 415 | 5 916 | 6 166 |
 
 | 4. | 2 | 5 412 | 5 614 | 6 092 | 6 645 | 6 922 |
 
@@ -32,7 +32,7 @@
 
 | 16. | 7 vagy több | 9 435 | 9 807 | 10 332 | 11 579 | 12 046 |
 
-| 17. | kizárólag fém | fa | 1 | 5 087 | 5 263 | 5 689 | 6 189 | 6 440 |
+| 17. | kizárólag fém | fa vagy fa és fém | 1 | 5 087 | 5 263 | 5 689 | 6 189 | 6 440 |
 
 | 18. | 2 | 5 686 | 5 887 | 6 366 | 6 919 | 7 195 |
 
@@ -60,7 +60,7 @@
 
 | 30. | 7 vagy több | 9 709 | 10 081 | 10 606 | 11 853 | 12 319 |
 
-| 31. | kizárólag beton | fa | 1 | 5 041 | 5 217 | 5 643 | 6 144 | 6 394 |
+| 31. | kizárólag beton | fa vagy fa és fém | 1 | 5 041 | 5 217 | 5 643 | 6 144 | 6 394 |
 
 | 32. | 2 | 5 640 | 5 842 | 6 320 | 6 873 | 7 150 |
 
@@ -88,7 +88,7 @@
 
 | 44. | 7 vagy több | 9 663 | 10 035 | 10 560 | 11 807 | 12 274 |
 
-6. melléklet az 57/2020. (XI. 13.) AM rendelethez[^59]
+6. melléklet az 57/2020. (XI. 13.) AM rendelethez[^61]
 
 A támberendezés művelési módok szerinti kialakítása
 
@@ -124,4 +124,4 @@ A támberendezés művelési módok szerinti kialakítása
 
 | 15. | Vertikó | 5 | 5 | Karó vagy nevelőpálca kihelyezése kötelező |
 
-[^59]: A 6. mellékletet a 35/2022. (X. 28.) AM rendelet 9. § (3) bekezdése iktatta be.
+[^61]: A 6. mellékletet a 35/2022. (X. 28.) AM rendelet 9. § (3) bekezdése iktatta be.

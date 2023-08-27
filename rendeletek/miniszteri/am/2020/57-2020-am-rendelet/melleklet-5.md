@@ -24,7 +24,7 @@
 
 | 12. | 3500–3999 tő/hektár között | 5 014 |
 
-| 13. | 3500 tő/hektár alatt | 714 |
+| 13. | 3500 tő/hektár alatt | 4714 |
 
 | 14. | költségnövekmény, ha a támogatással érintett terület átlagos lejtése 5% feletti és 12% vagy az alatti | 5000 tő/hektár és a felett | 431 |
 
@@ -48,8 +48,8 @@
 
 | 24. | a termeléskiesést ellentételező kompenzáció | 1 988 |
 
-5. melléklet az 57/2020. (XI. 13.) AM rendelethez[^58]
+5. melléklet az 57/2020. (XI. 13.) AM rendelethez[^60]
 
 Hektáronkénti költségátalányok és kompenzáció támberendezés létesítése esetén (EUR/ha)
 
-[^58]: Az 5. mellékletet a 35/2022. (X. 28.) AM rendelet 9. § (2) bekezdése iktatta be.
+[^60]: Az 5. mellékletet a 35/2022. (X. 28.) AM rendelet 9. § (2) bekezdése iktatta be, szövege a 49/2023. (VIII. 24.) AM rendelet 5. § k) pontja szerint módosított szöveg.

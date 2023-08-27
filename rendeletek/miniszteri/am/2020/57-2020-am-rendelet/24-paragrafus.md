@@ -1,5 +1,3 @@
-## 23/A. §[^49] E rendelet 2. mellékletének a szőlő-bor ágazattal összefüggő, valamint egyes agártámogatási tárgyú rendeletek módosításáról szóló 27/2022. (VIII. 31.) AM rendelettel [a továbbiakban: 27/2022. (VIII. 31.) AM rendelet] megállapított rendelkezéseit a 27/2022. (VIII. 31.) AM rendelet hatálybalépésekor[^50] folyamatban lévő eljárásokban is alkalmazni kell.
-
 ## 24. § Ez a rendelet a következő közösségi előírások végrehajtásához szükséges rendelkezéseket állapítja meg
 
 a) a mezőgazdasági termékpiacok közös szervezésének létrehozásáról és a 922/72/EGK, a 234/79/EK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013/EU európai parlamenti és tanácsi rendelet 46. cikke,
@@ -14,9 +12,13 @@ e)[^53] a közös agrárpolitika keretében a tagállamok által elkészítendő
 
 f)[^54] az (EU) 2021/2115 európai parlamenti és tanácsi rendeletnek a tagállamok 2023–2027-es, az említett rendelet szerinti KAP stratégiai tervében kidolgozandó egyes beavatkozástípusokra vonatkozó kiegészítő követelményekkel, valamint a jó mezőgazdasági és környezeti állapotra (GAEC) vonatkozó 1. szabványra irányadó szabályokkal történő kiegészítéséről szóló, 2021. december 7-i (EU) 2022/126 bizottsági felhatalmazáson alapuló rendelet 21. cikke, 40. cikke és 42. cikke.
 
-[^49]: A 23/A. §-t a 27/2022. (VIII. 31.) AM rendelet 10. §-a iktatta be.
-[^50]: A hatálybalépés időpontja 2022. szeptember 3.
+g)[^55] a mezőgazdasági termékpiacok közös szervezésének létrehozásáról szóló 1308/2013/EU rendelet, a mezőgazdasági termékek és az élelmiszerek minőségrendszereiről szóló 1151/2012/EU rendelet, az ízesített borászati termékek meghatározásáról, megnevezéséről, kiszereléséről, jelöléséről és földrajzi árujelzőinek oltalmáról szóló 251/2014/EU rendelet és az Unió legkülső régiói részére egyedi mezőgazdasági intézkedések megállapításáról szóló 228/2013/EU rendelet módosításáról szóló, 2021. december 2-i (EU) 2021/2117 európai parlamenti és tanácsi rendelet 5. cikk (7) bekezdése,
+
+h)[^56] a bizonyos mezőgazdasági ágazatokban végrehajtott támogatási programokra alkalmazandó (EU) 2017/891 felhatalmazáson alapuló rendelet módosításáról és az említett programokra alkalmazandó 611/2014/EU, (EU) 2015/1366 és (EU) 2016/1149 felhatalmazáson alapuló rendelet hatályon kívül helyezéséről szóló, 2022. október 17-i (EU) 2022/2528 felhatalmazáson alapuló bizottsági rendelet 2. cikk (3) bekezdés b) pontja.
+
 [^51]: A 24. § c) pontja a 35/2022. (X. 28.) AM rendelet 10. § j) pontja szerint módosított szöveg.
 [^52]: A 24. § d) pontját a 27/2022. (VIII. 31.) AM rendelet 11. §-a iktatta be.
 [^53]: A 24. § e) pontját a 35/2022. (X. 28.) AM rendelet 8. §-a iktatta be.
 [^54]: A 24. § f) pontját a 35/2022. (X. 28.) AM rendelet 8. §-a iktatta be.
+[^55]: A 24. § g) pontját a 49/2023. (VIII. 24.) AM rendelet 4. §-a iktatta be.
+[^56]: A 24. § h) pontját a 49/2023. (VIII. 24.) AM rendelet 4. §-a iktatta be.
