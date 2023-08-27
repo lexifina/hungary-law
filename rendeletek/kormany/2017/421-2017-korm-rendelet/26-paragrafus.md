@@ -26,8 +26,10 @@ d) átutalás esetén a jogosult fizetési számlájának számát, kiutalás es
 
 e) a kirendelő végzés számát.
 
-(4) A központi hivatal a szakfordító díját a célelőirányzat terhére utalja át vagy utalja ki, a kifizetésről a (3) bekezdésben foglalt adatok feltüntetésével értesítést küld a területi hivatalnak.
+(4)[^13] A központi hivatal a szakfordító díját az előirányzat terhére utalja át vagy utalja ki, a kifizetésről a (3) bekezdésben foglalt adatok feltüntetésével értesítést küld a területi hivatalnak.
 
 (5) Ha a fél a másik tagállam hatóságának a jogi segítségnyújtást engedélyező határozatát vagy annak másolatát benyújtja a területi hivatalhoz, a területi hivatal a támogatások nyilvántartásába történő bejegyzéssel megállapítja azt, hogy a fordítási költséget az állam viseli.
 
 (6) Ha a fél a szakfordító díjának visszatérítésére köteles, a területi hivatal a visszatérítési kötelezettségről határozatot hoz. Ha a fél nem igazolja a másik tagállam hatósága által hozott, a fél jogi segítségnyújtás iránti kérelmét elutasító döntés kézhezvételének időpontját, a területi hivatal a késedelmi pótlékot a másik tagállam hatósága által hozott döntés véglegessé válásától számított hatvanadik naptól számítja fel.
+
+[^13]: A 26. § (4) bekezdése a 350/2023. (VII. 27.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.

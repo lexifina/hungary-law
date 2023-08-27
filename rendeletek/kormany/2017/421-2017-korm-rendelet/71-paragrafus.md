@@ -2,7 +2,7 @@
 
 71. § (1) A támogatás megvonása esetén az erről szóló véglegessé vált határozatról a területi hivatal haladéktalanul értesíti
 
-a)[^39] az eljáró bíróságot, ügyészséget, nyomozó hatóságot,
+a)[^41] az eljáró bíróságot, ügyészséget, nyomozó hatóságot,
 
 b) a fél képviseletét ellátó pártfogó ügyvédet.
 
@@ -14,4 +14,4 @@ b) a támogatás megvonásának időpontját,
 
 c) a megvonás visszamenőleges hatályát és azt, ha annak oka valótlan adatok szolgáltatása.
 
-[^39]: A 71. § (1) bekezdés a) pontja a 109/2018. (VI. 25.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^41]: A 71. § (1) bekezdés a) pontja a 109/2018. (VI. 25.) Korm. rendelet 5. §-ával megállapított szöveg.

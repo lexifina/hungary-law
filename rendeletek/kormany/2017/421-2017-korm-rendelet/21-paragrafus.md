@@ -2,15 +2,15 @@
 
 (2) Az (1) bekezdés szerinti jogi segítő, illetve tolmács hiányában a területi hivatal
 
-a)[^7] a kiutasított külföldi ügyében eljárt idegenrendészeti hatóság székhelyéhez, a kiutasított külföldi értesítési címe (őrzött szállás, közösségi szállás, magánszállás) szerinti településhez közeli, azonos vármegyén belüli településen működő tolmácsot, illetve elsősorban idegenrendészeti tevékenységi kört vállalt jogi segítőt,
+a)[^8] a kiutasított külföldi ügyében eljárt idegenrendészeti hatóság székhelyéhez, a kiutasított külföldi értesítési címe (őrzött szállás, közösségi szállás, magánszállás) szerinti településhez közeli, azonos vármegyén belüli településen működő tolmácsot, illetve elsősorban idegenrendészeti tevékenységi kört vállalt jogi segítőt,
 
-b)[^8] az a) pont szerinti jogi segítő vagy tolmács hiányában a kiutasított külföldi ügyében eljárt idegenrendészeti hatóság székhelyén, a kiutasított külföldi értesítési címe (őrzött szállás, közösségi szállás, magánszállás) szerinti település szerinti vármegyén kívül működő tolmácsot, illetve elsősorban idegenrendészeti tevékenységi kört vállalt jogi segítőt rendel ki.
+b)[^9] az a) pont szerinti jogi segítő vagy tolmács hiányában a kiutasított külföldi ügyében eljárt idegenrendészeti hatóság székhelyén, a kiutasított külföldi értesítési címe (őrzött szállás, közösségi szállás, magánszállás) szerinti település szerinti vármegyén kívül működő tolmácsot, illetve elsősorban idegenrendészeti tevékenységi kört vállalt jogi segítőt rendel ki.
 
 (3) Ha a kiutasított külföldi ügyében eljárt idegenrendészeti hatóság a kiutasított külföldi tartózkodási helyének megváltozásáról értesíti a területi hivatalt, a területi hivatal haladéktalanul tájékoztatja a jogi segítőt és a tolmácsot a tartózkodási hely megváltozásáról. Ha a tartózkodási hely megváltozása már a támogatási kérelem benyújtásakor ismert, az idegenrendészeti hatóság a kérelem továbbításával egyidejűleg értesíti a területi hivatalt, aki az új tartózkodási helynek megfelelően rendeli ki a jogi segítőt és a tolmácsot.
 
 (4) A közreműködés megtagadása esetén a területi hivatal felmentheti az idegenrendészeti tevékenységet vállalt jogi segítőt a kirendelés alól, ha
 
-a)[^9] a kiutasított külföldi tartózkodási helyének kirendelést követő változása miatt a jogi segítőnek a székhelye szerinti vármegyén kívüli vármegyében kellene eljárnia, vagy
+a)[^10] a kiutasított külföldi tartózkodási helyének kirendelést követő változása miatt a jogi segítőnek a székhelye szerinti vármegyén kívüli vármegyében kellene eljárnia, vagy
 
 b) a jogi segítő igazolja, hogy egyéb elháríthatatlan akadály merül fel.
 
@@ -22,6 +22,6 @@ b) a jogi segítő igazolja, hogy egyéb elháríthatatlan akadály merül fel.
 
 (8) Az idegenrendészeti őrizetben lévő kiutasított külföldit a véglegessé vált kiutasító határozat elleni keresetlevél megszerkesztéséhez szükséges jogi segítségnyújtási eljárásban a jogi segítő keresi fel személyesen, egyébként pedig rövid úton értesíti a kiutasított külföldit arról, hogy hogyan veheti fel a kapcsolatot a jogi segítővel.
 
-[^7]: A 21. § (2) bekezdés a) pontja a 616/2022. (XII. 29.) Korm. rendelet 271. § b) pontja szerint módosított szöveg.
-[^8]: A 21. § (2) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 271. § b) pontja szerint módosított szöveg.
-[^9]: A 21. § (4) bekezdés a) pontja a 616/2022. (XII. 29.) Korm. rendelet 271. § c) pontja szerint módosított szöveg.
+[^8]: A 21. § (2) bekezdés a) pontja a 616/2022. (XII. 29.) Korm. rendelet 271. § b) pontja szerint módosított szöveg.
+[^9]: A 21. § (2) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 271. § b) pontja szerint módosított szöveg.
+[^10]: A 21. § (4) bekezdés a) pontja a 616/2022. (XII. 29.) Korm. rendelet 271. § c) pontja szerint módosított szöveg.
