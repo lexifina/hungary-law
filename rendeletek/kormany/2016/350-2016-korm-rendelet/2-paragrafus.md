@@ -22,8 +22,12 @@ f) az NSZKK vezetőjével kapcsolatos – az Iasz. alapján más személy hatás
 
 (6) Az országos rendőrfőkapitány közreműködik a miniszterrel az NSZKK bevételi és kiadási előirányzatokkal való gazdálkodása rendszeres figyelemmel kísérésében, költségvetésének tervezésében.
 
-(7) Az NSZKK igazságügyi szakágának tekintetében
+(7)[^1] Az NSZKK igazságügyi szakértői szakterületének tekintetében
 
 a) a miniszter a törvényességi ellenőrzés hatáskörét,
 
 b) az országos rendőrfőkapitány a (2) bekezdés b) és e) pontja szerinti hatáskörét
+
+az igazságügyért felelős miniszter bevonásával gyakorolja.
+
+[^1]: A 2. § (7) bekezdés nyitó szövegrésze a 350/2023. (VII. 27.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.

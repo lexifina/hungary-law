@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-350-20-
 | 2020-09-04 | 2016-350-20-22.5 | 421/2020. (IX. 3.) Korm. rendelet |
 | 2020-12-12 | 2016-350-20-22.6 | 572/2020. (XII. 9.) Korm. rendelet |
 | 2022-01-01 | 2016-350-20-22.7 | 421/2020. (IX. 3.) Korm. rendelet |
+| 2023-08-27 | 2016-350-20-22.8 | 350/2023. (VII. 27.) Korm. rendelet |

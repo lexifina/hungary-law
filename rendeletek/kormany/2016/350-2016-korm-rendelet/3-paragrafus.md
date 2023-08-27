@@ -1,5 +1,3 @@
-## az igazságügyért felelős miniszter bevonásával gyakorolja.
+3. §[^2]
 
-3. § (1) Az NSZKK-ban dolgozó felsőfokú végzettségű tisztviselőket az Iasz. 105. §-a szerinti beosztási pótlék illeti meg.
-
-(2) Az NSZKK főigazgatójának alapilletménye az Iasz. 4. számú melléklete III. fizetési osztály legmagasabb fokozatának 1,5-szerese, a helyettesének az Iasz. 4. számú melléklete III. fizetési osztály legmagasabb fokozatának 1,25-szöröse.
+[^2]: A 3. §-t a 350/2023. (VII. 27.) Korm. rendelet 7. § a) pontja hatályon kívül helyezte.

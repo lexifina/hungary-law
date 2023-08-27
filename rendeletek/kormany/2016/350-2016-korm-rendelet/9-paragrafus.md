@@ -8,7 +8,7 @@ b) az NSZKK-nál az ilyen munkakörökön kívül eső munkakörbe vagy szolgál
 
 c) az általános rendőrségi feladatok ellátásra létrehozott szerv más szervezeti egységénél – a Bűnügyi Szakértői és Kutatóintézethez vezényelt állomány esetében az eredeti rendvédelmi feladatokat ellátó szerv valamely szervezeti egységénél – hivatásos szolgálati jogviszonyban
 
-## kívánja folytatni.
+kívánja folytatni.
 
 (2) Az (1) bekezdés a) pontja szerinti esetben a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) 96. §-a alapján megkötendő, az igazságügyi alkalmazotti szolgálati jogviszonyba történő áthelyezésről szóló megállapodást legkésőbb 2016. december 31-ig meg kell kötni.
 

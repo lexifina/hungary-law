@@ -1,3 +1,3 @@
-## 16–18. §[^11]
+19. §[^23]
 
-[^11]: A 16–18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 19. § a 379/2016. (XII. 2.) Korm. rendelet 328. § b) pontja alapján nem lép hatályba.

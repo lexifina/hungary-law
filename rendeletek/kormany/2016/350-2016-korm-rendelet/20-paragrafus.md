@@ -1,3 +1,3 @@
-## 19. §[^12]
+20. §[^24]
 
-[^12]: A 19. § a 379/2016. (XII. 2.) Korm. rendelet 328. § b) pontja alapján nem lép hatályba.
+[^24]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

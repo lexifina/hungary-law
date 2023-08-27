@@ -6,15 +6,15 @@
 
 a) szaktanácsadói tevékenységet végez,
 
-b) biztosítja az igazságügyi szakértői szakágak megfelelő szakértői működtetéséhez szükséges feltételeket,
+b)[^5] biztosítja az igazságügyi szakértői szakterületek megfelelő szakértői működtetéséhez szükséges feltételeket,
 
-c) gondoskodik az általános rendőrségi feladatok ellátására létrehozott szerv bűnügyi pszichológiai és poligráfos hazugságvizsgálati tevékenységének egységes elvek szerinti végrehajtásáról,
+c)[^6]
 
-d) közreműködik a bűnügyi technikai tevékenység tudományos megalapozásában, ennek érdekében eljárási és módszertani javaslatokat dolgoz ki,
+d)[^7]
 
-e) bűnügyi pszichológiai és poligráfos hazugságvizsgálatot, valamint halottvizsgálati szaktanácsadói tevékenységet végez, továbbá biztosítja az ezekhez szükséges egységes feltételeket,
+e)[^8]
 
-f) felkérés alapján részt vesz a szakmai, illetve a kriminalisztikai képzésekkel és továbbképzésekkel kapcsolatos előadások, a bűnügyi technikusok képzésével és továbbképzésével kapcsolatos előadások, szakmai képzések megtartásában,
+f)[^9] felkérés alapján részt vehet a szakmai, illetve a kriminalisztikai képzésekkel és továbbképzésekkel kapcsolatos előadások, a bűnügyi technikusok képzésével és továbbképzésével kapcsolatos előadások, szakmai képzések megtartásában,
 
 g) teljesíti a nemzetközi kötelezettségből eredő, jogszabályban meghatározott adattovábbítási kötelezettségét,
 
@@ -24,9 +24,14 @@ i) az igazságügyi szakértői, valamint a 4. §-ban foglalt feladata tekintet�
 
 j) igazságügyi szakértői tevékenység ellátására rendelkezésre álló kapacitás kihasználását célzó alkalmazott kutatást folytat a hatás- és kompetenciakörökbe tartozó szakterületeken annak érdekében, hogy a tudomány mindenkori állásának megfelelő, megalapozott szakvélemények elkészítéséhez szükséges szakmai háttér álljon rendelkezésre,
 
-k)[^3] biztosítja a bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény 6. §-ában meghatározott, a bírák pályaalkalmassági vizsgálatához szükséges személyi és tárgyi feltételeket.
+k)[^10] biztosítja a bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény 6. §-ában meghatározott, a bírák pályaalkalmassági vizsgálatához szükséges személyi és tárgyi feltételeket.
 
-l)[^4] a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 9. § (1)–(3) bekezdésében meghatározottak tekintetében, a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 19. § (2) bekezdés d) pontjában biztosított jogkörében, igazságügyi szakértői tevékenység végzése céljából adatot és iratot igényelhet.
+l)[^11] a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 8. § (1) bekezdésében, 8/A. § (1) bekezdésében, 9. § (1)–(3) bekezdésében, 9/B. § (1) bekezdésében és 9/D. § (1) bekezdésében meghatározottak tekintetében, a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 19. § (2) bekezdés d) pontjában biztosított jogkörében, igazságügyi szakértői tevékenység végzése céljából adatot és iratot igényelhet.
 
-[^3]: A 6. § (2) bekezdés k) pontját a 375/2020. (VII. 30.) Korm. rendelet 87. §-a iktatta be.
-[^4]: A 6. § (2) bekezdés l) pontját az 572/2020. (XII. 9.) Korm. rendelet 85. §-a iktatta be.
+[^5]: A 6. § (2) bekezdés b) pontja a 350/2023. (VII. 27.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^6]: A 6. § (2) bekezdés c) pontját a 350/2023. (VII. 27.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
+[^7]: A 6. § (2) bekezdés d) pontját a 350/2023. (VII. 27.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
+[^8]: A 6. § (2) bekezdés e) pontját a 350/2023. (VII. 27.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
+[^9]: A 6. § (2) bekezdés f) pontja a 350/2023. (VII. 27.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
+[^10]: A 6. § (2) bekezdés k) pontját a 375/2020. (VII. 30.) Korm. rendelet 87. §-a iktatta be.
+[^11]: A 6. § (2) bekezdés l) pontját az 572/2020. (XII. 9.) Korm. rendelet 85. §-a iktatta be, szövege a 350/2023. (VII. 27.) Korm. rendelet 5. §-ával megállapított szöveg.

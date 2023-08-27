@@ -1,19 +1,16 @@
-## 11–13. §[^5]
-
-14. § (1)[^6]
+14. § (1)[^15]
 
 (2) A Szakterületkr.
 
-a)–d)[^7]
+a)–d)[^16]
 
-e)–f)[^8]
+e)–f)[^17]
 
-## lép.
+lép.
 
-(3)[^9]
+(3)[^18]
 
-[^5]: A 11–13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 14. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 14. § (2) bekezdés a)–d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 14. § (2) bekezdés e)–f) pontja a 379/2016. (XII. 2.) Korm. rendelet 328. § a) pont ab) alpontja alapján nem lép hatályba.
-[^9]: A 14. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 14. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 14. § (2) bekezdés a)–d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 14. § (2) bekezdés e)–f) pontja a 379/2016. (XII. 2.) Korm. rendelet 328. § a) pont ab) alpontja alapján nem lép hatályba.
+[^18]: A 14. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
