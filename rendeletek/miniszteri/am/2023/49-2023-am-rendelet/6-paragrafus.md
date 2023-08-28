@@ -1,5 +1,3 @@
-6. § Hatályát veszti az 57/2020. (XI. 13.) AM rendelet
+6. §[^7]
 
-a) 17. § a) pont ab) alpontja és
-
-b) 2. melléklet 1. pontjában foglalt táblázat 24. sora.
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

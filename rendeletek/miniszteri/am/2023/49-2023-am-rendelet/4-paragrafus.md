@@ -1,3 +1,3 @@
-4. § Az 57/2020. (XI. 13.) AM rendelet 24. §-a a következő g) és h) ponttal egészül ki:
+4. §[^5]
 
-(Ez a rendelet a következő közösségi előírások végrehajtásához szükséges rendelkezéseket állapítja meg)
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
