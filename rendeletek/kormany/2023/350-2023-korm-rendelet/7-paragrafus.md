@@ -1,5 +1,3 @@
-7. § Hatályát veszti a Nemzeti Szakértői és Kutató Központról szóló 350/2016. (XI. 18.) Korm. rendelet
+7. §[^8]
 
-a) 3. §-a,
-
-b) 6. § (2) bekezdés c)–e) pontja.
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

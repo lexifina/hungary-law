@@ -1,1 +1,3 @@
-4. § A szakterületek ágazati követelményeiért felelős szervek kijelöléséről, valamint a meghatározott szakkérdésekben kizárólagosan eljáró és egyes szakterületeken szakvéleményt adó szervekről szóló 282/2007. (X. 26.) Korm. rendelet 2. számú mellékletében foglalt táblázat 1. sorában a „Semmelweis Egyetem Általános Orvostudományi Kar Igazságügyi és Biztosítás-orvostani Orvostani Intézete” szövegrész helyébe a „Semmelweis Egyetem Patológiai, Igazságügyi és Biztosítási Orvostani Intézet” szöveg lép.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
