@@ -46,6 +46,6 @@ a) helyrehozhatatlan technológiai károkozás lehetősége esetén az adott vá
 
 b) környezetszennyezés, illetve környezetveszélyeztetés lehetősége esetén a felhasználó telephelye szerint illetékes környezetvédelmi hatóság által
 
-## kiadott, egy évnél nem régebbi hatósági bizonyítvánnyal igazolja.
+kiadott, egy évnél nem régebbi hatósági bizonyítvánnyal igazolja.
 
 (10) A szállítási rendszerirányító a felhasználó (8) bekezdés szerinti egyedi kérelmét a felhasználó által alkalmazott technológiára és a nemzetgazdaság működésében betöltött szerepére figyelemmel bírálja el.

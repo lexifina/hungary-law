@@ -16,6 +16,6 @@ b) a szóbeli tájékoztatóról, valamint a szállítási rendszerirányító s
 
 c) a hangfelvételen elhangzottakat más módon rögzítő dokumentumot
 
-## köteles a Hivatal rendelkezésére bocsátani.
+köteles a Hivatal rendelkezésére bocsátani.
 
 (7) A Hivatal a Get. 98/A. § (8) bekezdése szerinti vizsgálat során akkor állapítja meg, hogy a korlátozás a szállítási rendszerirányítónak felróható okból vált szükségessé, ha az elrendelést a jogszabályi előírások, az ÜKSZ vagy a szállítási rendszerirányító működési engedélyében foglaltak megsértése idézte elő.
