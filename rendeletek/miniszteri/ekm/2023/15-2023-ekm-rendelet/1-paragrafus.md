@@ -1,1 +1,3 @@
-1. § Hatályát veszti a közutakon végzett munkák elkorlátozási és forgalombiztonsági követelményeiről szóló 3/2001. (I. 31.) KöViM rendelet.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
