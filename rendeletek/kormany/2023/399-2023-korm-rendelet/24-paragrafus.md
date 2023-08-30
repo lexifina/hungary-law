@@ -1,3 +1,3 @@
-24. §[^20]
+24. §[^21]
 
-[^20]: A 24. § a 20. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^21]: A 24. § a 20. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
