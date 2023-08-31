@@ -88,4 +88,6 @@ e) legfeljebb 50 fő egyidejű tartózkodására alkalmas – az Országos Tűzv
 
 34. Állandó, telepített fagyvédelmi szélgép elhelyezéséhez építmény építése.
 
-[^453]: Az 1. melléklet a 482/2016. (XII. 28.) Korm. rendelet 31. § a) pontjával megállapított, a 144/2017. (VI. 12.) Korm. rendelet 16. § e) pontja, a 13/2019. (II. 11.) Korm. rendelet 18. § 16–18. pontja, a 244/2019. (X. 22.) Korm. rendelet 12. § f) pontja, a 295/2019. (XII. 10.) Korm. rendelet 8. § c) pontja, a 357/2020. (VII. 23.) Korm. rendelet 1. §-a, a 668/2020. (XII. 28.) Korm. rendelet 32. § (3) bekezdése, a 788/2021. (XII. 27.) Korm. rendelet 19. §-a és 20. § k) pontja, a 170/2023. (V. 12.) Korm. rendelet 17. §-a szerint módosított szöveg.
+35. Meglévő köznevelési és más állami építmény alternatív fűtési módra való áttérésekor, a konténerkazán telepítése és kéményének építése, valamint az ahhoz tartozó pellettároló konténer telepítése.
+
+[^453]: Az 1. melléklet a 482/2016. (XII. 28.) Korm. rendelet 31. § a) pontjával megállapított, a 144/2017. (VI. 12.) Korm. rendelet 16. § e) pontja, a 13/2019. (II. 11.) Korm. rendelet 18. § 16–18. pontja, a 244/2019. (X. 22.) Korm. rendelet 12. § f) pontja, a 295/2019. (XII. 10.) Korm. rendelet 8. § c) pontja, a 357/2020. (VII. 23.) Korm. rendelet 1. §-a, a 668/2020. (XII. 28.) Korm. rendelet 32. § (3) bekezdése, a 788/2021. (XII. 27.) Korm. rendelet 19. §-a és 20. § k) pontja, a 170/2023. (V. 12.) Korm. rendelet 17. §-a, a 412/2023. (VIII. 30.) Korm. rendelet 8. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 7. §-át.
