@@ -1,4 +1,4 @@
-10. melléklet a 16/1998. (V. 20.) PM rendelethez[^90]
+10. melléklet a 16/1998. (V. 20.) PM rendelethez[^92]
 
 1. táblázat
 
@@ -148,4 +148,4 @@ Az Eximbank Zrt. ellenőrzési listája exporthitel garanciák beváltása eset�
 
 Az Eximbank Zrt. ellenőrzési listája kereskedelmi és egyéb garanciák beváltása esetén
 
-[^90]: A 10. mellékletet újonnan a 16/2012. (VI. 28.) NGM rendelet 11. §-a iktatta be, szövege az 54/2012. (XII. 29.) NGM rendelet 5. § (2) bekezdés a) pontjával megállapított és a 19/2013. (VI. 17.) NGM rendelet 3–4. §-a, a 20/2014. (IV. 30.) NGM rendelet 1. § 4–12. pontja és 2. § 2. pontja, a 48/2014. (XII. 30.) NGM rendelet 6. §-a szerint módosított szöveg.
+[^92]: A 10. mellékletet újonnan a 16/2012. (VI. 28.) NGM rendelet 11. §-a iktatta be, szövege az 54/2012. (XII. 29.) NGM rendelet 5. § (2) bekezdés a) pontjával megállapított és a 19/2013. (VI. 17.) NGM rendelet 3–4. §-a, a 20/2014. (IV. 30.) NGM rendelet 1. § 4–12. pontja és 2. § 2. pontja, a 48/2014. (XII. 30.) NGM rendelet 6. §-a szerint módosított szöveg.

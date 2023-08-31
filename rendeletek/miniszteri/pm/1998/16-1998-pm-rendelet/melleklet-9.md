@@ -38,7 +38,7 @@
 
 ## Cégszerű aláírás
 
-9. melléklet a 16/1998. (V. 20.) PM rendelethez[^89]
+9. melléklet a 16/1998. (V. 20.) PM rendelethez[^91]
 
 1. táblázat
 
@@ -126,4 +126,4 @@ Negyedéves egyeztetés az Eximbank Zrt. hitelezőkkel szembeni kötelezettsége
 
 | ……………………………… cégszerű aláírás |
 
-[^89]: A 9. mellékletet a 22/2011. (VI. 21.) NGM rendelet 13. §-a hatályon kívül helyezte, újonnan a 16/2012. (VI. 28.) NGM rendelet 11. §-a iktatta be. Szövege az 54/2012. (XII. 29.) NGM rendelet 5. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^91]: A 9. mellékletet a 22/2011. (VI. 21.) NGM rendelet 13. §-a hatályon kívül helyezte, újonnan a 16/2012. (VI. 28.) NGM rendelet 11. §-a iktatta be. Szövege az 54/2012. (XII. 29.) NGM rendelet 5. § (1) bekezdés c) pontja szerint módosított szöveg.

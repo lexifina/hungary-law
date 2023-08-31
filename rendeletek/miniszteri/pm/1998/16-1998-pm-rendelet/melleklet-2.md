@@ -1,4 +1,4 @@
-## 1. számú táblázat[^70]
+## 1. számú táblázat[^72]
 
 ## 1. táblázat
 
@@ -34,7 +34,7 @@
 
 ## cégszerű aláírás
 
-## 2. számú táblázat[^71]
+## 2. számú táblázat[^73]
 
 ## Az Eximbank Zrt. …. év ……. negyedévi adósságszolgálati kötelezettsége
 
@@ -68,7 +68,7 @@
 
 2. számú melléklet a 16/1998. (V. 20.) PM rendelethez
 
-1. számú táblázat[^72]
+1. számú táblázat[^74]
 
 Negyedéves jelentés az Eximbank Zrt. garanciaállományáról
 
@@ -88,7 +88,7 @@ Negyedéves jelentés az Eximbank Zrt. garanciaállományáról
 
 ## Cégszerű aláírás
 
-1/b. számú táblázat[^73]
+1/b. számú táblázat[^75]
 
 Negyedéves jelentés az Eximbank Zrt. garanciaállományának tárgyévben várható beváltásáról
 
@@ -114,7 +114,7 @@ Negyedéves jelentés az Eximbank Zrt. garanciaállományának tárgyévben vár
 
 ## Cégszerű aláírás
 
-2. számú táblázat[^74]
+2. számú táblázat[^76]
 
 Negyedéves jelentés
 
@@ -134,7 +134,7 @@ az Eximbank Zrt. által a központi költségvetés terhére vállalt garanciák
 
 ## Cégszerű aláírás
 
-3. számú táblázat[^75]
+3. számú táblázat[^77]
 
 Jelentés az Eximbank Zrt. által a központi költségvetés javára behajtott tőkekövetelésekről
 
@@ -160,7 +160,7 @@ Jelentés az Eximbank Zrt. által a központi költségvetés javára behajtott 
 
 ## Cégszerű aláírás
 
-4. számú táblázat[^76]
+4. számú táblázat[^78]
 
 Negyedéves jelentés az Eximbank Zrt. kamatkiegyenlítési igényéről és befizetési kötelezettségéről
 
@@ -228,10 +228,10 @@ Negyedéves jelentés az Eximbank Zrt. kamatkiegyenlítési igényéről és bef
 
 |  |  | Cégszerű aláírás |
 
-[^70]: Az 1. számú melléklet 1. számú táblázata az 54/2012. (XII. 29.) NGM rendelet 5. § (1) bekezdés a) pontjával megállapított szöveg.
-[^71]: Az 1. számú melléklet 2. számú táblázata a 15/2006. (V. 17.) PM rendelet 6. § (2) bekezdésének a) pontja, a 48/2014. (XII. 30.) NGM rendelet 3. §-a szerint módosított szöveg.
-[^72]: A 2. számú melléklet 1. számú táblázata a 15/2006. (V. 17.) PM rendelet 6. § (2) bekezdésének a) pontja, az 54/2012. (XII. 29.) NGM rendelet 6. § d) pontja szerint módosított szöveg.
-[^73]: A 2. számú melléklet 1/b. számú táblázatát a 22/2011. (VI. 21.) NGM rendelet 11. §-a iktatta be, szövege az 54/2012. (XII. 29.) NGM rendelet 6. § d) és e) pontja szerint módosított szöveg.
-[^74]: A 2. számú melléklet 2. számú táblázata a 15/2006. (V. 17.) PM rendelet 6. § (2) bekezdésének a) pontja szerint módosított szöveg.
-[^75]: A 2. számú melléklet 3. számú táblázata a 15/2006. (V. 17.) PM rendelet 6. § (2) bekezdésének a) pontja, a 48/2014. (XII. 30.) NGM rendelet 4. §-a szerint módosított szöveg.
-[^76]: A 2. számú melléklet 4. számú táblázata a 23/2017. (VIII. 18.) NGM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^72]: Az 1. számú melléklet 1. számú táblázata az 54/2012. (XII. 29.) NGM rendelet 5. § (1) bekezdés a) pontjával megállapított szöveg.
+[^73]: Az 1. számú melléklet 2. számú táblázata a 15/2006. (V. 17.) PM rendelet 6. § (2) bekezdésének a) pontja, a 48/2014. (XII. 30.) NGM rendelet 3. §-a szerint módosított szöveg.
+[^74]: A 2. számú melléklet 1. számú táblázata a 15/2006. (V. 17.) PM rendelet 6. § (2) bekezdésének a) pontja, az 54/2012. (XII. 29.) NGM rendelet 6. § d) pontja szerint módosított szöveg.
+[^75]: A 2. számú melléklet 1/b. számú táblázatát a 22/2011. (VI. 21.) NGM rendelet 11. §-a iktatta be, szövege az 54/2012. (XII. 29.) NGM rendelet 6. § d) és e) pontja szerint módosított szöveg.
+[^76]: A 2. számú melléklet 2. számú táblázata a 15/2006. (V. 17.) PM rendelet 6. § (2) bekezdésének a) pontja szerint módosított szöveg.
+[^77]: A 2. számú melléklet 3. számú táblázata a 15/2006. (V. 17.) PM rendelet 6. § (2) bekezdésének a) pontja, a 48/2014. (XII. 30.) NGM rendelet 4. §-a szerint módosított szöveg.
+[^78]: A 2. számú melléklet 4. számú táblázata a 23/2017. (VIII. 18.) NGM rendelet 5. § (1) bekezdésével megállapított szöveg.

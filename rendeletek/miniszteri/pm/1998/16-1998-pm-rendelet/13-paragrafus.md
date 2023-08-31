@@ -14,6 +14,8 @@
 
 (7)[^67] E rendeletnek a Magyar Export-Import Bank Részvénytársaság és a Magyar Exporthitel Biztosító Részvénytársaság központi költségvetéssel történő elszámolásának részletes szabályairól szóló 16/1998. (V. 20.) PM rendelet módosításáról szóló 23/2017. (VIII. 18.) NGM rendelettel (a továbbiakban: MódR4.) megállapított 4. § (3) és (7) bekezdését, 6. § (2) bekezdését, valamint 7. § (3) bekezdését az Eximbank a MódR4. hatálybalépését megelőző időszakra vonatkozó azon elszámolási és adatszolgáltatási kötelezettségek teljesítésére is alkalmazhatja, amelyek vonatkozásában a MódR4. hatálybalépése[^68] napjáig még nem számolt el a központi költségvetéssel.
 
+(8)[^69] A 4. § (1) bekezdése szerinti költségvetési elszámolások során az Eximbank e rendeletnek a Magyar Export-Import Bank Részvénytársaság és a Magyar Exporthitel Biztosító Részvénytársaság központi költségvetéssel történő elszámolásának részletes szabályairól szóló 16/1998. (V. 20.) PM rendelet módosításáról szóló 5/2023. (VIII. 30.) PM rendelet (a továbbiakban: MódR5.) 1. §-ával megállapított 4. § (6) bekezdését a MódR5. hatálybalépését[^70] követően első alkalommal a 2023. harmadik negyedévet érintő elszámolásokra, a teljes elszámolási időszakra vonatkozóan alkalmazhatja.
+
 [^54]: A 12. §-t a 22/2011. (VI. 21.) NGM rendelet 10. §-a iktatta be.
 [^55]: A 13. §-t a 16/2012. (VI. 28.) NGM rendelet 9. §-a iktatta be.
 [^56]: A hatálybalépés időpontja 2012. július 19.
@@ -29,3 +31,5 @@
 [^66]: A hatálybalépés időpontja 2015. augusztus 31.
 [^67]: A 13. § (7) bekezdését a 23/2017. (VIII. 18.) NGM rendelet 4. §-a iktatta be.
 [^68]: A hatálybalépés napja 2017. augusztus 19.
+[^69]: A 13. § (8) bekezdését az 5/2023. (VIII. 30.) PM rendelet 2. §-a iktatta be.
+[^70]: A hatálybalépés időpontja 2023. augusztus 31.

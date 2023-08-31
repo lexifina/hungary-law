@@ -1,6 +1,6 @@
 ## 1.1. A globállimit a tényleges és a feltételes szerződéses biztosítási, illetve a viszontbiztosítási kötelezettségvállalásokat öleli fel. A tényleges szerződéses biztosítási kötelezettségvállalás azon ügyletek teljes biztosítási szerződés értékét tartalmazza, amelyeknél a kereskedelmi szerződés teljesítése megkezdődött vagy folyamatban van, függetlenül attól, hogy a biztosítás teljes körű vagy szállításonként történik, azaz, hogy a szerződés ellenértékére egyösszegű vagy szállításonkénti a fedezetbevétel. A viszontbiztosításból eredő kötelezettségeket a viszontbiztosított limit összegében a tényleges szerződéses kötelezettségvállalások között kell kimutatni.
 
-## 1.2.[^78] A tényleges kötelezettségvállalás a szerződések alapján tartalmazza:
+## 1.2.[^80] A tényleges kötelezettségvállalás a szerződések alapján tartalmazza:
 
 ## 1.2.1. a számbavétel időpontjáig fedezetbe vett biztosításokat,
 
@@ -10,30 +10,30 @@
 
 ## 1.2.4. a Mehib Zrt. által nyújtott viszontbiztosításokból származó kötelezettségvállalásokat.
 
-## 1.3.[^79] A feltételes kötelezettségvállalás összege a fennálló biztosítási és a Mehib Zrt. által tett viszontbiztosítási ajánlatokat (ígérvényeket) foglalja magában, amelyek legfeljebb 6 hónapos érvényességi ideje alatt a biztosítót az ígérvényben szereplő feltételekkel szerződéskötési kötelezettség terheli.
+## 1.3.[^81] A feltételes kötelezettségvállalás összege a fennálló biztosítási és a Mehib Zrt. által tett viszontbiztosítási ajánlatokat (ígérvényeket) foglalja magában, amelyek legfeljebb 6 hónapos érvényességi ideje alatt a biztosítót az ígérvényben szereplő feltételekkel szerződéskötési kötelezettség terheli.
 
 ## 1.4. A tényleges és a feltételes kötelezettségvállalás összege a fennálló biztosítási kötelezettségvállalás.
 
 ## 1.5. A globállimit és a fennálló kötelezettségvállalás különbözete jelenti a mindenkori vállalási lehetőséget.
 
-## 2.1.[^80] A globállimit nyilvántartása és kihasználásának mérése forintban történik.
+## 2.1.[^82] A globállimit nyilvántartása és kihasználásának mérése forintban történik.
 
-## 2.2.[^81] A központi költségvetésről szóló törvényben forintban meghatározott globállimitnek megfelelő devizaösszeget a Mehib évente két alkalommal, a Magyar Nemzeti Bank által az adott évben először és az adott évben utoljára közzétett hivatalos USD árfolyamon is megállapítja. Év közben a negyedév végi kötelezettségek USD-ben kimutatott devizaösszegének megállapítása a 2.6. pont szerinti árfolyamokon történik.
+## 2.2.[^83] A központi költségvetésről szóló törvényben forintban meghatározott globállimitnek megfelelő devizaösszeget a Mehib évente két alkalommal, a Magyar Nemzeti Bank által az adott évben először és az adott évben utoljára közzétett hivatalos USD árfolyamon is megállapítja. Év közben a negyedév végi kötelezettségek USD-ben kimutatott devizaösszegének megállapítása a 2.6. pont szerinti árfolyamokon történik.
 
-## 2.3.[^82] A tárgyév első és utolsó munkanapján devizában fennálló kötelezettségek forintértékének megállapítása a 2.2. pont szerinti árfolyamokon történik.
+## 2.3.[^84] A tárgyév első és utolsó munkanapján devizában fennálló kötelezettségek forintértékének megállapítása a 2.2. pont szerinti árfolyamokon történik.
 
 ## 2.4. A vállalási lehetőség forintértékét a fennálló biztosítással csökkentett globállimit összege adja meg.
 
 ## 2.5. A nyilvántartási számlaosztály kezelésére ez a mérési módszer nem vonatkozik.
 
-## 2.6.[^83] A negyedév végén devizában fennálló kötelezettségek forintértékének megállapítása a Magyar Nemzeti Bank által az adott negyedév végén közzétett hivatalos devizaárfolyamokon történik.
+## 2.6.[^85] A negyedév végén devizában fennálló kötelezettségek forintértékének megállapítása a Magyar Nemzeti Bank által az adott negyedév végén közzétett hivatalos devizaárfolyamokon történik.
 
-4. számú melléklet a 16/1998. (V. 20.) PM rendelethez[^84]
+4. számú melléklet a 16/1998. (V. 20.) PM rendelethez[^86]
 
-[^78]: A 3. számú melléklet 1.2. pontja a 23/2017. (VIII. 18.) NGM rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^79]: A 3. számú melléklet 1.3. pontja a 23/2017. (VIII. 18.) NGM rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^80]: A 3. számú melléklet 2.1. pontja a 48/2014. (XII. 30.) NGM rendelet 5. §-ával megállapított szöveg.
-[^81]: A 3. számú melléklet 2.2. pontja a 23/2017. (VIII. 18.) NGM rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^82]: A 3. számú melléklet 2.3. pontja a 48/2014. (XII. 30.) NGM rendelet 5. §-ával megállapított szöveg.
-[^83]: A 3. számú melléklet 2.6. pontját a 23/2017. (VIII. 18.) NGM rendelet 5. § (2) bekezdése iktatta be.
-[^84]: A 4. számú melléklet a 9/2010. (III. 23.) PM rendelet 10. § (2) bekezdésével megállapított, a 22/2015. (VIII. 28.) NGM rendelet 7. § (2) bekezdése, a 23/2017. (VIII. 18.) NGM rendelet 5. § (3) bekezdése szerint módosított szöveg.
+[^80]: A 3. számú melléklet 1.2. pontja a 23/2017. (VIII. 18.) NGM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^81]: A 3. számú melléklet 1.3. pontja a 23/2017. (VIII. 18.) NGM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^82]: A 3. számú melléklet 2.1. pontja a 48/2014. (XII. 30.) NGM rendelet 5. §-ával megállapított szöveg.
+[^83]: A 3. számú melléklet 2.2. pontja a 23/2017. (VIII. 18.) NGM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^84]: A 3. számú melléklet 2.3. pontja a 48/2014. (XII. 30.) NGM rendelet 5. §-ával megállapított szöveg.
+[^85]: A 3. számú melléklet 2.6. pontját a 23/2017. (VIII. 18.) NGM rendelet 5. § (2) bekezdése iktatta be.
+[^86]: A 4. számú melléklet a 9/2010. (III. 23.) PM rendelet 10. § (2) bekezdésével megállapított, a 22/2015. (VIII. 28.) NGM rendelet 7. § (2) bekezdése, a 23/2017. (VIII. 18.) NGM rendelet 5. § (3) bekezdése szerint módosított szöveg.
