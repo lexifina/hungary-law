@@ -1,0 +1,1 @@
+2. § A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 39. § (4) bekezdésében a „légfegyver lőtéren” szövegrész helyébe a „légfegyver – a (6) bekezdés szerinti eset kivételével – lőtéren” szöveg lép.
