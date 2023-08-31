@@ -14,7 +14,9 @@ minősül, az általa üzembentartott, D2 díjkategóriába tartozó gépjármű
 
 (3) A részleges díjmentesség azon gépjárműre vonatkozik, amelyet az üzembentartó a jogosultságát megalapozó adatokat tartalmazó bejelentése alapján a közlekedési igazgatási hatóság nyilvántartásba vett, és kizárólag arra az időszakra, ameddig az a nyilvántartásban részleges díjmentességre jogosultként szerepel.
 
-(4) A részleges díjmentesség – az (1) bekezdés b) pontja szerinti személy gépjárműve kivételével – legfeljebb a nyilvántartásba vételt követő év január 31. napjáig hatályos.
+(4)[^9] A részleges díjmentesség – az (1) bekezdés b) pontja szerinti személy gépjárműve kivételével – legfeljebb azon évet követő év január 31. napjáig hatályos, amíg a családok támogatásáról szóló 1998. évi LXXXIV. törvény alapján családi pótlékban részesülő személy legalább 3 gyermek után részesül családi pótlékban.
+
+(4a)[^10] A (3) bekezdés szerinti eljárásban eljárt közlekedési igazgatási hatóság – hivatalból – minden év december 31-ig egyezteti a családtámogatási ügyekben eljáró hatósággal, hogy a mentességi nyilvántartásban az (1) bekezdés a) pontja alapján szereplő személy esetében a részleges díjmentesség feltételei fennállnak-e. Amennyiben a feltételek már nem állnak fenn, a részleges díjmentesség e jogosultság nyilvántartásból történő törlésével szűnik meg.
 
 (5) Az (1) bekezdés b) pontja szerinti jogosultság a parkolási igazolvány visszavonásával és a jogosultság nyilvántartásból történő törlésével szűnik meg.
 
@@ -27,3 +29,6 @@ b) a bejegyzést igazoló hatósági döntést bemutatja a NÚSZ Zrt. számára,
 c) a 20. § szerinti ügyintézési díjat megfizeti.
 
 (7) Részleges díjmentesség alapján a 8. § (1) bekezdés b) pontja szerinti gépjárművet a részleges díjmentesség fennállásának idején a 8. § (1) bekezdés a) pontja szerinti gépjárműnek kell tekinteni.
+
+[^9]: A 9. § (4) bekezdése a 16/2023. (VIII. 30.) ÉKM rendelet 4. §-ával megállapított szöveg.
+[^10]: A 9. § (4a) bekezdését a 16/2023. (VIII. 30.) ÉKM rendelet 4. §-a iktatta be.
