@@ -26,5 +26,8 @@ Eltérő illetménymegállapításra jogosító szolgálati beosztások
 
 4.[^259] A HM-ben rendszeresített szolgálati beosztás
 
+5.[^260] Az MH 30. Kinizsi Pál Páncélozott Gyalogdandár 1. gránátos zászlóaljánál rendszeresített szolgálati beosztás
+
 [^258]: A 12. mellékletet a 13/2021. (VII. 15.) HM rendelet 29. §-a iktatta be.
 [^259]: A 12. melléklet 4. pontját a 4/2023. (III. 8.) HM rendelet 2. §-a iktatta be.
+[^260]: A 12. melléklet 5. pontját a 16/2023. (VIII. 30.) HM rendelet 3. §-a iktatta be.
