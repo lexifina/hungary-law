@@ -20,4 +20,22 @@
 
 (10)[^241] A honvédelmi alapismeretek tantárgyat az is taníthatja, aki az iskolai nevelés-oktatás kilencedik–tizenkettedik évfolyamán pedagógus-munkakör betöltésére jogosító végzettséggel és szakképzettséggel rendelkezik, továbbá legalább százhúsz órás pedagógus-továbbképzés vagy szakirányú továbbképzés keretében elsajátította a honvédelmi alapismeretek tantárgy vagy a katonai alapismeretek tantárgy oktatásához szükséges elméleti és módszertani ismereteket.
 
+(11)[^242] A honvédelmi nevelés-oktatás keretében egyéb foglalkozás tartására és a honvédelem tantárgy oktatására pedagógus munkakörben az alkalmazható, aki
+
+a) legalább érettségivel és katonai szakképzettséggel,
+
+b) honvéd altiszt vagy azzal egyenértékű képzéssel vagy
+
+c) katonai alapkiképzéssel és legalább 3 év katonai szolgálati viszonnyal
+
+rendelkezik.
+
+(12)[^243] A (11) bekezdés b) pontjának alkalmazása során a honvéd altiszt képzéssel egyenértékű képzésnek kell tekinteni
+
+a) a tiszthelyettes képzést, valamint
+
+b) a Magyar Honvédség által szervezett, kizárólag katonai munkakör betöltésére jogosító honvéd altiszt képzést.
+
 [^241]: A 33/B. § (10) bekezdését a 790/2021. (XII. 27.) Korm. rendelet 28. §-a iktatta be.
+[^242]: A 33/B. § (11) bekezdését a 405/2023. (VIII. 30.) Korm. rendelet 3. §-a iktatta be.
+[^243]: A 33/B. § (12) bekezdését a 405/2023. (VIII. 30.) Korm. rendelet 3. §-a iktatta be.

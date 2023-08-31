@@ -1,3 +1,3 @@
-## 39/M. §[^301] E rendeletnek az R2.-vel megállapított rendelkezéseit a folyamatban lévő minősítő vizsgák és minősítési, valamint bírálati eljárások esetében is alkalmazni kell.
+## 39/M. §[^303] E rendeletnek az R2.-vel megállapított rendelkezéseit a folyamatban lévő minősítő vizsgák és minősítési, valamint bírálati eljárások esetében is alkalmazni kell.
 
-[^301]: A 39/M. §-t a 235/2016. (VII. 29.) Korm. rendelet 35. §-a iktatta be.
+[^303]: A 39/M. §-t a 235/2016. (VII. 29.) Korm. rendelet 35. §-a iktatta be.
