@@ -130,7 +130,7 @@
 
 | 62. | Vezetékjogi, használati jogi engedély másolatának kiadmányozása | 11 000 | A1550 |
 
-| 62a | A Bt. 38. §-a szerinti szolgalom alapításával kapcsolatos eljárás | Szolgalom alapítása | 100 000 |  |
+| 62a | A Bt. 38. §-a szerinti szolgalom alapításával kapcsolatos eljárás | Szolgalom alapítása érintett településenként | 100 000 |  |
 
 | 63. | Bányászati hulladékkezelő létesítményekkel kapcsolatos eljárások | Bányászati-hulladékgazdálkodási terv jóváhagyása | 36 000 | A1610 |
 
@@ -260,4 +260,4 @@
 
 4. Polgári robbantási, robbanóanyag-forgalmazási tevékenység engedélyezésének díjai, egyes robbanóanyagok és tárgyak, illetve egyes anyagok besorolásának jóváhagyása
 
-[^4]: Az 1. melléklet a 33/2022. (VII. 29.) SZTFH rendelet 4. §-a és 5. §-a, a 40/2022. (XII. 19.) SZTFH rendelet 22. §-a, 23. § a)–d) pontja és 24. § a) és b) pontja, a 17/2023. (VII. 31.) SZTFH rendelet 2. §-a szerint módosított szöveg.
+[^4]: Az 1. melléklet a 33/2022. (VII. 29.) SZTFH rendelet 4. §-a és 5. §-a, a 40/2022. (XII. 19.) SZTFH rendelet 22. §-a, 23. § a)–d) pontja és 24. § a) és b) pontja, a 17/2023. (VII. 31.) SZTFH rendelet 1. és 2. §-a szerint módosított szöveg.
