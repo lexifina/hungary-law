@@ -10,10 +10,13 @@
 
 (2c)[^440] A honvéd tisztképzésre és altisztképzésre jelentkezők, a Honvédség tevékenységét elősegítő sportszövetséghez a Hjt. 51–52/A. §-a alapján történő vezénylésre, a katonai bíróvá, katonai ügyésszé és a KNBSZ-hez kinevezésre tervezettek, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományából és a Nemzeti Adó és Vámhivatal pénzügyőr állományából a Magyar Honvédség állományába áthelyezésre kerülők kivételével a katonai végzettséggel vagy egységes alapkiképzéssel nem rendelkező, az alapkiképzés alól nem mentesíthető személyek önkéntes tartalékos katonai állományba, a területvédelmi ezredek hadi állománytábláiban legénységi állománykategóriában szakaszvezetői rendfokozattal rendszeresített beosztásokba közkatonaként kerülnek felvételre.
 
-(3)[^441] Az önkéntes tartalékos katona szolgálati beosztásra való felkészítésével és kiképzésével kapcsolatos követelményeket az MH PK, illetve a KNBSZ-nél szolgálatot teljesítők esetében a KNBSZ főigazgatója határozza meg.
+(2d)[^441] A (2c) bekezdésben meghatározottakat nem kell alkalmazni az MH 30. Kinizsi Pál Páncélozott Gyalogdandár 1. gránátos zászlóaljánál rendszeresített szolgálati beosztásra jelentkezők esetében.
+
+(3)[^442] Az önkéntes tartalékos katona szolgálati beosztásra való felkészítésével és kiképzésével kapcsolatos követelményeket az MH PK, illetve a KNBSZ-nél szolgálatot teljesítők esetében a KNBSZ főigazgatója határozza meg.
 
 [^437]: A 239. § (2) bekezdése a 25/2016. (XII. 22.) HM rendelet 38. § (1) bekezdésével megállapított szöveg.
 [^438]: A 239. § (2a) bekezdését a 25/2016. (XII. 22.) HM rendelet 38. § (2) bekezdése iktatta be.
 [^439]: A 239. § (2b) bekezdését a 11/2020. (VI. 23.) HM rendelet 2. §-a iktatta be.
 [^440]: A 239. § (2c) bekezdését a 13/2022. (IX. 30.) HM rendelet 2. §-a iktatta be.
-[^441]: A 239. § (3) bekezdése a 19/2015. (XII. 22.) HM rendelet 5. §-ával megállapított, a 20/2018. (XII. 28.) HM rendelet 71. § 2. pontja szerint módosított szöveg.
+[^441]: A 239. § (2d) bekezdését a 16/2023. (VIII. 30.) HM rendelet 1. §-a iktatta be.
+[^442]: A 239. § (3) bekezdése a 19/2015. (XII. 22.) HM rendelet 5. §-ával megállapított, a 20/2018. (XII. 28.) HM rendelet 71. § 2. pontja szerint módosított szöveg.

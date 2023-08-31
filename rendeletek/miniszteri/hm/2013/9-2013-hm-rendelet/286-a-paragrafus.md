@@ -1,4 +1,4 @@
-## 286/A. §[^515] E rendeletnek a honvédek jogállásáról szóló 2012. évi CCV. törvény egyes rendelkezéseinek végrehajtásáról szóló 9/2013. (VIII. 12.) HM rendelet és a honvédek illetményéről és illetményjellegű juttatásairól szóló 7/2015. (VI. 22.) HM rendelet módosításáról szóló 18/2015. (XII. 22.) HM rendelet
+## 286/A. §[^516] E rendeletnek a honvédek jogállásáról szóló 2012. évi CCV. törvény egyes rendelkezéseinek végrehajtásáról szóló 9/2013. (VIII. 12.) HM rendelet és a honvédek illetményéről és illetményjellegű juttatásairól szóló 7/2015. (VI. 22.) HM rendelet módosításáról szóló 18/2015. (XII. 22.) HM rendelet
 
 a) 5. §-ával megállapított 94/B. § (4) és (5) bekezdését,
 
@@ -8,4 +8,4 @@ c) 16. §-ával megállapított 126/C. §-át
 
 2015. december 12-étől kell alkalmazni.
 
-[^515]: A 286/A. §-t a 18/2015. (XII. 22.) HM rendelet 20. §-a iktatta be.
+[^516]: A 286/A. §-t a 18/2015. (XII. 22.) HM rendelet 20. §-a iktatta be.
