@@ -1,4 +1,4 @@
-2. melléklet az 1583/2022. (XI. 30.) Korm. határozathoz[^4]
+2. melléklet az 1583/2022. (XI. 30.) Korm. határozathoz[^5]
 
 Az 1. melléklet 1. és 2. pontja szerinti felelős szervek rövid megjelölése
 
@@ -44,4 +44,4 @@ Az 1. melléklet 1. és 2. pontja szerinti felelős szervek rövid megjelölése
 
 21. NKE: Nemzeti Közszolgálati Egyetem
 
-[^4]: A 2. melléklet az 1069/2023. (III. 10.) Korm. határozat 2. pontjával megállapított szöveg.
+[^5]: A 2. melléklet az 1069/2023. (III. 10.) Korm. határozat 2. pontjával megállapított szöveg.

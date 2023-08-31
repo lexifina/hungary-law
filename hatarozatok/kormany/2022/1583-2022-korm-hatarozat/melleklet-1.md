@@ -12,9 +12,9 @@
 
 ## 7.[^1]
 
-1. melléklet az 1583/2022. (XI. 30.) Korm. határozathoz
+1. melléklet az 1583/2022. (XI. 30.) Korm. határozathoz[^2]
 
-1.[^2] A Magyar Honvédség részvételével tervezett, külföldi fegyveres erők átvonulásával is járó NATO, EU gyakorlatok és kiképzési rendezvények
+1.[^3] A Magyar Honvédség részvételével tervezett, külföldi fegyveres erők átvonulásával is járó NATO, EU gyakorlatok és kiképzési rendezvények
 
 |  | A | B | C | D | E | F | G | H |
 
@@ -160,7 +160,9 @@
 
 | 71. | GRIFFIN gyakorlatsorozat | NFIU HUN, HQ MND-C, HVK KIKCSF | parancsnoki és törzsvezetési gyakorlat | NATO- és EU-tagállamok Lengyelország, Baltikum, Németország | I–IV. | 30 | – | – |
 
-2.[^3] A Magyar Honvédség és külföldi fegyveres erők részvételével tervezett, külföldi fegyveres erők átvonulásával is járó, két- és többoldalú megállapodásokon alapuló gyakorlatok és kiképzések
+| 72. | Quick Response 2023 | HVK ÖMVIK EUFOR-ALTHEA | Harcászati szintű gyakorlat / LIVEX | Bosznia-Hercegovina | III–IV. | 20 | – | – |
+
+2.[^4] A Magyar Honvédség és külföldi fegyveres erők részvételével tervezett, külföldi fegyveres erők átvonulásával is járó, két- és többoldalú megállapodásokon alapuló gyakorlatok és kiképzések
 
 |  | A | B | C | D | E | F | G | H |
 
@@ -455,5 +457,6 @@
 | 9. | HQ MND-C által szervezett magyarországi gyakorlatok | I–IV. | 500 |
 
 [^1]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. melléklet 1. pontja az 1069/2023. (III. 10.) Korm. határozat 1. pontjával megállapított szöveg.
-[^3]: Az 1. melléklet 2. pontja az 1069/2023. (III. 10.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: Az 1. melléklet az 1380/2023. (VIII. 30.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^3]: Az 1. melléklet 1. pontja az 1069/2023. (III. 10.) Korm. határozat 1. pontjával megállapított szöveg.
+[^4]: Az 1. melléklet 2. pontja az 1069/2023. (III. 10.) Korm. határozat 1. pontjával megállapított szöveg.
