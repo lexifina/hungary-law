@@ -1,6 +1,6 @@
-## Az Európai Unió jogának való megfelelés[^280]
+## Az Európai Unió jogának való megfelelés[^281]
 
-## 56. §[^281] Ez a rendelet
+## 56. §[^282] Ez a rendelet
 
 a) a fegyverek megszerzésének és tartásának ellenőrzéséről szóló, 1991. június 18-i 91/477/EGK tanácsi irányelvnek,
 
@@ -16,5 +16,5 @@ f) a fegyverek megszerzésének és tartásának ellenőrzéséről szóló 91/4
 
 való megfelelést szolgálja.
 
-[^280]: Az 56. §-t megelőző alcím az 50/2011. (III. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^281]: Az 56. § a 326/2020. (VII. 1.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^281]: Az 56. §-t megelőző alcím az 50/2011. (III. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^282]: Az 56. § a 326/2020. (VII. 1.) Korm. rendelet 19. §-ával megállapított szöveg.
