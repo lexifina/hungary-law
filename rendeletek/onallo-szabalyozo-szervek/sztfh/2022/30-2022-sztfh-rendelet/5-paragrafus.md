@@ -1,1 +1,0 @@
-## 4. § Az igazgatási szolgáltatási díjak nyilvántartására és elszámolására az államháztartás számviteléről szóló kormányrendelet rendelkezéseit kell alkalmazni. Az igazgatási szolgáltatási díj nyilvántartásából ki kell tűnnie, hogy az eljárásra mikor került sor, és annak díja milyen összegű volt.
