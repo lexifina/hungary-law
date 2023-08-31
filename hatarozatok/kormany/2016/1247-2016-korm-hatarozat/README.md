@@ -64,3 +64,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1247-30
 | 2023-03-14 | 2016-1247-30-22.56 | 1858/2021. (XII. 1.) Korm. határozat |
 | 2023-04-28 | 2016-1247-30-22.57 | 1858/2021. (XII. 1.) Korm. határozat |
 | 2023-07-28 | 2016-1247-30-22.58 | 1030/2023. (II. 14.) Korm. határozat |
+| 2023-08-31 | 2016-1247-30-22.59 | 1382/2023. (VIII. 30.) Korm. határozat |
