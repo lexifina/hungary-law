@@ -1,0 +1,1 @@
+7. § Hatályát veszti a nemzeti kiberbiztonsági tanúsító hatóság eljárásával összefüggő kiberbiztonsági tanúsítás keretében fizetendő igazgatási szolgáltatási díjról szóló 30/2022. (II. 14.) SZTFH rendelet.
