@@ -1,0 +1,1 @@
+1. § A lakossági ügyfelek megtakarítására vonatkozó pénzügyi edukációs figyelemfelhívásról szóló 209/2023. (V. 31.) Korm. rendelet 1. §-a szerinti figyelemfelhívó értesítést a magyarországi székhelyű hitelintézet az 1. melléklet szerinti formában és tartalommal küldi meg.
