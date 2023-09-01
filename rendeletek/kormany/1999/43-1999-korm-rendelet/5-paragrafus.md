@@ -10,7 +10,7 @@
 
 a) a szolgáltató, a szolgáltatást igénybe vevő adatai vagy az ellátás azonosítását, leírását szolgáló adatok nem felelnek meg a jogszabályokban, továbbá a kitöltési útmutatóban foglalt előírásoknak, illetve a jelentett adatok a kötelezően jelentendő adatok nem teljes körét tartalmazzák,
 
-b)[^63] a fekvőbeteg-szakellátást igénybe vevő adatai azonos ellátási napon egyéb ellátási formában is jelentésre kerülnek, kivéve krónikus fekvőbeteg-szakellátás esetén a CT, MRI diagnosztikai vizsgálatokat, az újszülöttek járóbeteg-szakellátásban jelenthető szűrővizsgálatát, a dialízis ellátásokat, az R. 8. számú melléklete szerinti ellátásokat, továbbá az aktív ellátást követő, legkésőbb egy hónapon belül megkezdett elsőbbségi rehabilitáció ideje alatt, a megelőző aktív ellátást nyújtó másik szolgáltató által végzett járóbeteg-szakellátási tevékenységet.
+b)[^63] a fekvőbeteg-szakellátást igénybe vevő adatai azonos ellátási napon egyéb ellátási formában is jelentésre kerülnek, kivéve krónikus fekvőbeteg-szakellátás esetén a CT, MRI diagnosztikai vizsgálatokat, a robotterápiás vagy egyéb computerizált interaktív terápiás egészségügyi eljárásokat, az újszülöttek járóbeteg-szakellátásban jelenthető szűrővizsgálatát, a dialízis ellátásokat, az R. 8. számú melléklete szerinti ellátásokat, továbbá az aktív ellátást követő, legkésőbb egy hónapon belül megkezdett elsőbbségi rehabilitáció ideje alatt, a megelőző aktív ellátást nyújtó másik szolgáltató által végzett járóbeteg-szakellátási tevékenységet.
 
 (5) Az otthoni szakápolás és otthoni hospice ellátás esetében egy elrendelő lap alapján végzett teljes ellátási időszak hibásnak minősül, ha azonos időszak alatt fekvőbeteg-szakellátás igénybevétele is jelentésre kerül.
 
@@ -24,6 +24,6 @@ b)[^63] a fekvőbeteg-szakellátást igénybe vevő adatai azonos ellátási nap
 
 [^61]: A „Jelentési szabályok” alcím címét a 697/2020. (XII. 29.) Korm. rendelet 4. §-a iktatta be.
 [^62]: Az 5. § a 172/2016. (VII. 1.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^63]: Az 5. § (4) bekezdés b) pontja az 507/2017. (XII. 29.) Korm. rendelet 23. § a) pontja, a 287/2018. (XII. 21.) Korm. rendelet 21. § a) pontja szerint módosított szöveg.
+[^63]: Az 5. § (4) bekezdés b) pontja az 507/2017. (XII. 29.) Korm. rendelet 23. § a) pontja, a 287/2018. (XII. 21.) Korm. rendelet 21. § a) pontja, a 394/2023. (VIII. 24.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^64]: Az 5. § (8) bekezdése a 697/2020. (XII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^65]: Az 5. § (9) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 34. § 3. pontja szerint módosított szöveg.

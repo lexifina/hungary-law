@@ -2,6 +2,6 @@
 
 ## ZÁRÓ RENDELKEZÉSEK
 
-51. §[^525]
+51. §[^526]
 
-[^525]: Az 51. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 1242. pontja hatályon kívül helyezte.
+[^526]: Az 51. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 1242. pontja hatályon kívül helyezte.
