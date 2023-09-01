@@ -6,7 +6,7 @@
 
 2.[^3] igénylő: a lakáscélú jelzáloghitel-szerződés adósa, továbbá a házastársa vagy élettársa, aki a kormányhivatalnál kérelmet nyújt be;
 
-3.[^4] kormányhivatal: a lakáscélú állami támogatásokkal kapcsolatos feladatkörében eljárva a lakáscélú jelzáloghitel fedezetét, illetve célját képező ingatlan fekvése szerint illetékes fővárosi és vármegyei kormányhivatal, Pest vármegye és a főváros területén fekvő lakáscélú jelzáloghitel fedezetét, illetve célját képező ingatlan esetén Budapest Főváros Kormányhivatala;
+3.[^4] kormányhivatal: a lakáscélú állami támogatásokkal kapcsolatos feladatkörében eljárva a lakáscélú jelzáloghitel fedezetét, illetve célját képező ingatlan fekvése szerint illetékes fővárosi és vármegyei kormányhivatal, Pest vármegye és a főváros területén fekvő lakáscélú jelzáloghitel fedezetét, illetve célját képező ingatlan esetén Budapest Főváros Kormányhivatala; ha az előbbiek alapján ugyanazon kérelem ügyében egyidejűleg több kormányhivatal illetékessége is megállapítható lenne, akkor közülük az a kormányhivatal, amelyhez az igénylő a kérelmét először benyújtja;
 
 4.[^5] lakáscélú jelzáloghitel: az e rendelet kihirdetését
 
@@ -23,6 +23,6 @@ ideértve a Hpt. 6. § (1) bekezdés 77. pontja szerinti olyan lakáscélú pén
 (2) Az e rendeletben meg nem határozott fogalmakat a Polgári Törvénykönyvről szóló 2013. évi V. törvényben (a továbbiakban: Ptk.), a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvényben, valamint a Hpt.-ben meghatározottak szerint kell értelmezni.
 
 [^3]: A 2. § (1) bekezdés 2. pontja a 360/2019. (XII. 30.) Korm. rendelet 175. § (3) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^4]: A 2. § (1) bekezdés 3. pontja a 360/2019. (XII. 30.) Korm. rendelet 175. § (1) bekezdésével megállapított, a 686/2020. (XII. 29.) Korm. rendelet 35. § b) pontja, az 530/2021. (IX. 14.) Korm. rendelet 23. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 262. §-a szerint módosított szöveg.
+[^4]: A 2. § (1) bekezdés 3. pontja a 360/2019. (XII. 30.) Korm. rendelet 175. § (1) bekezdésével megállapított, a 686/2020. (XII. 29.) Korm. rendelet 35. § b) pontja, az 530/2021. (IX. 14.) Korm. rendelet 23. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 262. §-a, a 406/2023. (VIII. 30.) Korm. rendelet 34. § a) pontja szerint módosított szöveg.
 [^5]: A 2. § (1) bekezdés 4. pontja az 530/2021. (IX. 14.) Korm. rendelet 19. §-ával megállapított szöveg.
 [^6]: A 2. § (1) bekezdés 6. pontja a 360/2019. (XII. 30.) Korm. rendelet 175. § (3) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.

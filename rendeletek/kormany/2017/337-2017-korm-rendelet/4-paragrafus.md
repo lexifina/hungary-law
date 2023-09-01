@@ -2,7 +2,7 @@
 
 a) a kérelem benyújtásának időpontjában és
 
-b)[^9] – a 6. § (1) bekezdése szerinti, már megszületett gyermekre tekintettel történő igénylés esetén – a gyermek születésének, vagy örökbefogadás esetén az örökbefogadást engedélyező határozat véglegessé válásának időpontjában
+b)[^9] – már megszületett gyermekre tekintettel történő igénylés esetén – a gyermek születésének, vagy örökbefogadás esetén az örökbefogadást engedélyező határozat véglegessé válásának időpontjában
 
 fennálló, fel nem mondott lakáscélú jelzáloghitel-szerződés esetén igényelhető.
 
@@ -12,7 +12,7 @@ fennálló, fel nem mondott lakáscélú jelzáloghitel-szerződés esetén igé
 
 (3)[^12] A támogatás a (2) bekezdésben foglalt feltétel hiányában is igényelhető, ha a lakáscélú jelzáloghitel fedezetét, illetve célját képező ingatlan tekintetében a (2) bekezdésben foglalt feltétel az igénylő elhunyt házastársa vagy élettársa esetében fennállt, és a lakásban az elhunyt házastárs vagy élettárs kiskorú gyermeke örökléssel – az igénylő esetlegesen meglévő tulajdoni hányadával együttesen legalább 50%-ot elérő mértékben – tulajdonjogot szerzett.
 
-[^9]: A 4. § (1) bekezdés b) pontja az 530/2021. (IX. 14.) Korm. rendelet 23. § b) pontja szerint módosított szöveg.
+[^9]: A 4. § (1) bekezdés b) pontja az 530/2021. (IX. 14.) Korm. rendelet 23. § b) pontja, a 406/2023. (VIII. 30.) Korm. rendelet 35. § a) pontja szerint módosított szöveg.
 [^10]: A 4. § (1a) bekezdését a 686/2020. (XII. 29.) Korm. rendelet 30. §-a iktatta be, szövege az 530/2021. (IX. 14.) Korm. rendelet 20. §-ával megállapított szöveg.
 [^11]: A 4. § (2) bekezdése az 530/2021. (IX. 14.) Korm. rendelet 20. §-ával megállapított, az 530/2021. (IX. 14.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
 [^12]: A 4. § (3) bekezdését a 183/2021. (IV. 16.) Korm. rendelet 20. §-a iktatta be, szövege az 530/2021. (IX. 14.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.

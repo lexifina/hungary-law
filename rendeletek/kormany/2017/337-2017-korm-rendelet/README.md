@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-337-20-
 | 2022-04-29 | 2017-337-20-22.12 | 150/2022. (IV. 14.) Korm. rendelet |
 | 2022-07-01 | 2017-337-20-22.13 | 101/2019. (V. 2.) Korm. rendelet |
 | 2023-01-01 | 2017-337-20-22.14 | 360/2019. (XII. 30.) Korm. rendelet |
+| 2023-09-01 | 2017-337-20-22.15 | 406/2023. (VIII. 30.) Korm. rendelet |
