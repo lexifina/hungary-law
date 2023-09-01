@@ -1,7 +1,7 @@
 ## VI/A. Fejezet
 
-## AZ EÖTVÖS LORÁND KUTATÁSI HÁLÓZAT
+## A MAGYAR KUTATÁSI HÁLÓZAT
 
-## 13/A. Az Eötvös Loránd Kutatási Hálózat szervezete
+## 13/A. A Magyar Kutatási Hálózat szervezete
 
-42/A. § Az ELKH az ELKH Titkárságából, valamint az általa központi költségvetési szervként vagy gazdasági társaságként működtetett kutatóközpontokból, kutatóintézetekből és kutatócsoportokból (a továbbiakban együtt: kutatóhelyek) áll.
+42/A. § Az MKH az MKH Titkárságából, valamint az általa központi költségvetési szervként vagy gazdasági társaságként működtetett kutatóközpontokból, kutatóintézetekből és kutatócsoportokból (a továbbiakban együtt: kutatóhelyek) áll.

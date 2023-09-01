@@ -2,20 +2,16 @@
 
 ## A KUTATÁS-FEJLESZTÉSI TEVÉKENYSÉG MINŐSÍTÉSE
 
-36. § (1) A Szellemi Tulajdon Nemzeti Hivatala (a továbbiakban: SZTNH) kérelemre minősíti a kérelemben megjelölt
+36. § (1) A kutatás-fejlesztési tevékenységgel kapcsolatos szakértői feladatok ellátására a Kormány által kijelölt szerv kérelemre minősíti
 
-a) projektet abból a szempontból, hogy az annak tartalmát képező tevékenységek,
+a) a projektet abból a szempontból, hogy az annak tartalmát képező tevékenységek, valamint
 
-b) projektcsoportot abból a szempontból, hogy a kérelmező által a projektcsoportba sorolt projektek
+b) a projektcsoportot abból a szempontból, hogy a kérelmező által a projektcsoportba sorolt projektek
 
 a 3. § szerinti kutatás-fejlesztési tevékenységnek tekinthetők-e.
 
-(2) A projekt vagy projektcsoport minősítésére vonatkozó eljárás (a továbbiakban együttesen: minősítési eljárás) keretében hozott határozat
+(2) A projekt vagy projektcsoport minősítése (a továbbiakban együtt: minősítés) keretében hozott szakértői vélemény a kutatás-fejlesztési tevékenységhez kapcsolódó adó- és járulékkedvezmények érvényesítéséhez használható fel.
 
-a) a kutatás-fejlesztési tevékenységhez kapcsolódó adó- és járulékkedvezmények érvényesítéséhez,
+(3) A kutatás-fejlesztési támogatási rendszerben a minősítés keretében hozott szakértői vélemény akkor használható fel, ha a támogató a pályázati felhívásban ezt lehetővé teszi.
 
-b)
-
-használható fel.
-
-(3) A kutatás-fejlesztési támogatási rendszerben a minősítési eljárás keretében hozott határozat akkor használható fel, ha a támogató a pályázati felhívásban ezt lehetővé teszi.
+(4) A minősítés díjköteles.

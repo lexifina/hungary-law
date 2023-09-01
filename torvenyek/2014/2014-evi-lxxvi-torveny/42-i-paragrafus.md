@@ -4,7 +4,7 @@
 
 (2) Az elnök és a főtitkár a tevékenységéért az Irányító Testületnek felel.
 
-(3) Az ELKH Titkárságán foglalkoztatottak jogviszonyára a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) rendelkezéseit kell alkalmazni azzal, hogy ha az (1) bekezdés szerinti megbízatás öt évnél hosszabb időtartamra jön létre, akkor a határozott idejű munkaviszony tartamára vonatkozóan az Mt. 192. § (2) bekezdése nem alkalmazandó.
+(3) Az MKH Titkárságán foglalkoztatottak jogviszonyára a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) rendelkezéseit kell alkalmazni azzal, hogy ha az (1) bekezdés szerinti megbízatás öt évnél hosszabb időtartamra jön létre, akkor a határozott idejű munkaviszony tartamára vonatkozóan az Mt. 192. § (2) bekezdése nem alkalmazandó.
 
 (4) A kutatóhelyeknél foglalkoztatottak jogviszonyára az Mt. rendelkezéseit kell alkalmazni.
 
