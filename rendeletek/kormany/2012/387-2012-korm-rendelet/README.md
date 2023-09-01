@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-387-20-
 | 2021-10-13 | 2012-387-20-22.9 | 577/2021. (X. 12.) Korm. rendelet |
 | 2022-07-01 | 2012-387-20-22.10 | 238/2022. (VI. 30.) Korm. rendelet |
 | 2022-12-30 | 2012-387-20-22.11 | 617/2022. (XII. 29.) Korm. rendelet |
+| 2023-09-01 | 2012-387-20-22.12 | 246/2023. (VI. 22.) Korm. rendelet |
