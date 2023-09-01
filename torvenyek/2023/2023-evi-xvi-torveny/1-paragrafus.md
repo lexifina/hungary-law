@@ -1,1 +1,3 @@
-### 1. §
+1. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény 62. § (8) bekezdése helyébe a következő rendelkezés lép:
+
+„(8) A Gazdasági Versenyhivatal az EKR-ben közzéteszi az (1) bekezdés n) pontja szerinti – a Gazdasági Versenyhivatal vagy a Gazdasági Versenyhivatal döntésével szemben indított közigazgatási perben a bíróság által hozott – a kizáró okot megalapozó határozatokra vonatkozó, a kizáró ok hiányának ellenőrzését szolgáló információkat. A Gazdasági Versenyhivatal értesíti a közbeszerzésekért felelős minisztert, valamint a támogatást nyújtó szervet a Gazdasági Versenyhivatal döntésének közzétételéről, ha az (1) bekezdés n) pontja szerinti jogsértést európai uniós forrás felhasználását érintő ügyben állapították meg.”

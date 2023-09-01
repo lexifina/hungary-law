@@ -1,31 +1,31 @@
 19. § Hatályát veszti a közbeszerzésekről szóló 2015. évi CXLIII. törvény
 
-a)
+a) 3. § 30. pontja,
 
-b)
+b) 25. § (5) bekezdés b) pontjában a „vagy annak” szövegrész,
 
-c)
+c) 41/C. § (1) bekezdés e) és f) pontja,
 
-d)
+d) 41/C. § (2) bekezdésében a „ , kivéve, ha az (1) bekezdés e)–f) pontja alapján az ajánlatok benyújtása egészében papíralapon történik” szövegrész,
 
-e)
+e) 41/C. § (4) bekezdése,
 
-f)
+f) 41/C. § (6) bekezdése,
 
-g)
+g) 47. § (2a) bekezdésében az „a 41/C. § (1) bekezdés e)–f) pontja alapján” szövegrész,
 
-h)
+h) 68. § (1a) bekezdésében az „a 41/C. § (1) bekezdés e)–f) pontja alapján” szövegrész,
 
-i)
+i) 131. § (8) bekezdés b) pontjában a „dinamikus beszerzési rendszer alapján történő szerződéskötés érdekében, a” szövegrész,
 
 j)
 
 k)
 
-l)
+l) 148. § (3) bekezdésében az „A jogsértés megtörténtétől számított kilencven napon túl kérelmet előterjeszteni nem lehet.” szövegrész,
 
-m)
+m) 148. § (4) bekezdésében az „A jogsértés megtörténtétől számított kilencven napon túl kérelmet előterjeszteni nem lehet.” szövegrész,
 
-n)
+n) 152. § (9) bekezdése,
 
-o)
+o) 153. § (4) bekezdése.
