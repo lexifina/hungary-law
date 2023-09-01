@@ -57,3 +57,5 @@ u) távhővezeték-hálózat: az a csővezetékrendszer – a hozzá tartozó m�
 v) üzletszabályzat: a távhőszolgáltató által készített azon dokumentum, amely a helyi szolgáltatási sajátosságok figyelembevételével szabályozza a távhőszolgáltató működését és meghatározza a távhőszolgáltató kötelezettségeit és jogait, szabályozza a távhőszolgáltató és a felhasználó szerződéses viszonyát, a mérés és elszámolás rendjét, valamint a szolgáltatónak a felhasználóval, a fogyasztóvédelmi hatósággal és a felhasználók társadalmi érdekképviseleti szervezeteivel (a továbbiakban: felhasználói érdekképviselet) való együttműködését;
 
 w) külön kezelt intézmény: egyéb felhasználók közül a központi költségvetési szerv, a központi költségvetési szerv költségvetési intézménye, a helyi önkormányzat, a helyi önkormányzat költségvetési intézménye, valamint a normatív állami támogatásban részesülő, közfeladatot ellátó, nem nyereség- és vagyonszerzési célt szolgáló egyéb intézmény.
+
+x) felhasználói panasz: olyan felhasználói beadvány, amelyben a felhasználó a távhőszolgáltató intézkedése ellen vagy a távhőszolgáltató várt intézkedésének elmaradása miatt emel kifogást.
