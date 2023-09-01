@@ -1,6 +1,6 @@
 ## 1. §[^1] E rendelet alkalmazásában
 
-a)[^2] rendvédelmi feladatokat ellátó szerv: a rendőrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv, az Alkotmányvédelmi Hivatal (a továbbiakban: AH), a Nemzetbiztonsági Szakszolgálat (a továbbiakban: NBSZ), valamint a Terrorelhárítási Információs és Bűnügyi Elemző Központ (a továbbiakban: TIBEK),
+a)[^2] rendvédelmi feladatokat ellátó szerv: a rendőrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv,
 
 b)[^3] hivatásos állomány tagja: a rendvédelmi feladatokat ellátó szervek hivatásos állományú tagjai,
 
@@ -13,7 +13,7 @@ e)[^6] szolgálati viszony: a rendvédelmi feladatokat ellátó szervek hivatás
 f)[^7] rendvédelmi tisztjelölt: a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi tisztjelölt.
 
 [^1]: [A 37/2015. (VI. 16) BM rendelet 54. §-ával elrendelt módosítás, amely szerint az 1. § (1) bekezdés új e) ponttal egészül ki, nem vezethető át.]
-[^2]: Az 1. § a) pontja a 29/2016. (VII. 15.) BM rendelet 15. §-ával megállapított szöveg.
+[^2]: Az 1. § a) pontja a 29/2016. (VII. 15.) BM rendelet 15. §-ával megállapított, a 13/2023. (VI. 14.) MK rendelet 15. § a) pontja szerint módosított szöveg.
 [^3]: Az 1. § b) pontja a 37/2015. (VI. 16.) BM rendelet 59. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^4]: Az 1. § c) pontja a 37/2015. (VI. 16.) BM rendelet 59. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^5]: Az 1. § d) pontja a 37/2015. (VI. 16.) BM rendelet 59. § (2) bekezdés a) pontja szerint módosított szöveg.

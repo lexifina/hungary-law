@@ -1,17 +1,3 @@
-6. melléklet a 14/2012. (III. 30.) BM rendelethez[^41]
+6. melléklet a 14/2012. (III. 30.) BM rendelethez[^42]
 
-Az Alkotmányvédelmi Hivatal hivatásos állományú tagjai szolgálati igazolványának leírása
-
-1. Az igazolvány felépítése:
-
-Az igazolvány az ISO 7810 (1995) szabványnak megfelelő, ID–1 méretű, világoskék színű címsorban sötétkék felirattal ellátott többrétegű műanyag kártyaigazolvány. Az első oldalon holografikus biztonsági elem található.
-
-2. Az igazolvány első oldalának adattartalma:
-
-| – Alkotmányvédelmi Hivatal címere, – az „ALKOTMÁNYVÉDELMI HIVATAL” felirat, – „fegyverviselésre jogosult” felirat, – az állományviszony megnevezése, – arckép, – név, – rendfokozat megnevezése. |
-
-3. Az igazolvány hátoldalának adattartalma:
-
-| – „ÉRVÉNYES:” felirat, – sorszám, – az érvényesség dátuma, – a „Saját kezű aláírás:” felirat, alatta a saját kezű aláírás minta digitalizált képe, – „AZ IGAZOLVÁNY TULAJDONOSA NEMZETBIZTONSÁGI FELADATOT LÁT EL” felirat, – a „Kitöltés dátuma:” felirat, alatta a megszemélyesítés dátuma, – az igazolvány alsó harmadán elhelyezkedő gépi kód. |
-
-[^41]: A 6. melléklet a 29/2016. (VII. 15.) BM rendelet 18. § a) pontja szerint módosított szöveg.
+[^42]: A 6. mellékletet a 13/2023. (VI. 14.) MK rendelet 15. § f) pontja hatályon kívül helyezte.

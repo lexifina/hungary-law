@@ -4,7 +4,7 @@
 
 a)[^8] a rendvédelmi feladatokat ellátó szerv hivatásos állományába tartozást,
 
-b)[^9] a rendőrség, a büntetés-végrehajtási szervezet, az AH, az NBSZ, valamint a TIBEK hivatásos állományú tagjának fegyverviselésre való jogosultságát,
+b)[^9] a rendőrség, a büntetés-végrehajtási szervezet hivatásos állományú tagjának fegyverviselésre való jogosultságát,
 
 c) a rendőrség és a hivatásos katasztrófavédelmi szervek hivatásos állományú tagjának az intézkedésre való jogosultságát
 
@@ -32,17 +32,17 @@ e) az igazolvány kitöltésének dátumát,
 
 f)[^12] a gépi kódot,
 
-g)[^13] az AH, az NBSZ, valamint a TIBEK esetében „AZ IGAZOLVÁNY TULAJDONOSA NEMZETBIZTONSÁGI FELADATOT LÁT EL” feliratot.
+g)[^13]
 
 h)[^14] a tisztjelölt esetében a tisztjelölti szolgálati jogviszonyra utalást, továbbá a „rendőrség tisztjelöltje”, a „rendőrség OIF tisztjelöltje” vagy a „katasztrófavédelem tisztjelöltje” feliratot.
 
 (6)[^15] A szolgálati igazolvány adattartalmának leírását és az egyes adatok szolgálati igazolványon történő elhelyezését az 1–9. melléklet tartalmazza.
 
 [^8]: A 2. § (2) bekezdés a) pontja a 37/2015. (VI. 16.) BM rendelet 59. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^9]: A 2. § (2) bekezdés b) pontja a 29/2016. (VII. 15.) BM rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^9]: A 2. § (2) bekezdés b) pontja a 29/2016. (VII. 15.) BM rendelet 16. § (1) bekezdésével megállapított, a 13/2023. (VI. 14.) MK rendelet 15. § b) pontja szerint módosított szöveg.
 [^10]: A 2. § (4a) bekezdését a 20/2016. (VI. 9.) BM rendelet 46. § (2) bekezdése iktatta be, szövege az 5/2022. (III. 31.) BM rendelet 46. § (1) bekezdésével megállapított szöveg.
 [^11]: A 2. § (5) bekezdése a 37/2015. (VI. 16.) BM rendelet 55. § (1) bekezdésével megállapított szöveg.
 [^12]: A 2. § (5) bekezdés f) pontja a 20/2016. (VI. 9.) BM rendelet 46. § (8) bekezdése szerint módosított szöveg.
-[^13]: A 2. § (5) bekezdés g) pontja a 29/2016. (VII. 15.) BM rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^13]: A 2. § (5) bekezdés g) pontját a 13/2023. (VI. 14.) MK rendelet 15. § c) pontja hatályon kívül helyezte.
 [^14]: A 2. § (5) bekezdés h) pontját a 20/2016. (VI. 9.) BM rendelet 46. § (3) bekezdése iktatta be, szövege a 45/2021. (XII. 16.) BM rendelet 5. § b) pontja szerint módosított szöveg.
 [^15]: A 2. § (6) bekezdését a 37/2015. (VI. 16.) BM rendelet 55. § (2) bekezdése iktatta be, szövege a 29/2016. (VII. 15.) BM rendelet 19. §-a szerint módosított szöveg.

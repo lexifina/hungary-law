@@ -20,11 +20,11 @@ b) a büntetés-végrehajtási szervezet esetében a Büntetés-végrehajtás Or
 
 c) a hivatásos katasztrófavédelmi szervek esetében a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság (a továbbiakban: BM OKF) személyügyi szerve,
 
-d)[^19] az AH, az NBSZ, valamint a TIBEK állománya esetében a helyi személyügyi szerv
+d)[^19]
 
 felel.
 
 [^16]: A 3. § (2) bekezdése a 20/2016. (VI. 9.) BM rendelet 46. § (7) bekezdés b) pontja, az 5/2022. (III. 31.) BM rendelet 46. § (2) bekezdés c) pontja szerint módosított szöveg.
 [^17]: A 3. § (4) bekezdés a) pont aa) alpontja a 20/2016. (VI. 9.) BM rendelet 46. § (7) bekezdés c) pontja, az 5/2022. (III. 31.) BM rendelet 46. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^18]: A 3. § (4) bekezdés a) pont ad) alpontját a 27/2019. (VI. 28.) BM rendelet 20. §-a iktatta be, szövege a 45/2021. (XII. 16.) BM rendelet 5. § c) pontja, az 5/2022. (III. 31.) BM rendelet 46. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^19]: A 3. § (4) bekezdés d) pontja a 29/2016. (VII. 15.) BM rendelet 17. §-ával megállapított szöveg.
+[^19]: A 3. § (4) bekezdés d) pontját a 13/2023. (VI. 14.) MK rendelet 15. § d) pontja hatályon kívül helyezte.
