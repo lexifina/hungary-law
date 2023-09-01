@@ -1,12 +1,10 @@
-## 3. § Az Intézet elnöke a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvényben meghatározottak szerint az államtitkárt, elnökhelyettese a helyettes államtitkárt megillető illetménnyel megegyező mértékű díjazásra jogosult.
-
 ## 2. Az Intézet feladatai
 
 4. § (1) Az Intézet
 
-a)[^1] koordinációs és másodelemzési tevékenységével részt vesz a miniszter – a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet (a továbbiakban: Ktfr.) 133. § (2) bekezdés a)–c) pontjában foglalt – népesedéspolitikai feladatainak megvalósításában,
+a)[^3] koordinációs és másodelemzési tevékenységével részt vesz a miniszter – a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet (a továbbiakban: Ktfr.) 133. § (2) bekezdés a)–c) pontjában foglalt – népesedéspolitikai feladatainak megvalósításában,
 
-b)[^2] az a) pont szerinti tevékenysége körében figyelemmel kíséri a Ktfr. 133. § (2) bekezdés a), b), d)–i) és k) pontjában foglalt feladatok ellátásának a Ktfr. 30/E. § (4) bekezdése szerinti megvalósulását,
+b)[^4] az a) pont szerinti tevékenysége körében figyelemmel kíséri a Ktfr. 133. § (2) bekezdés a), b), d)–i) és k) pontjában foglalt feladatok ellátásának a Ktfr. 30/E. § (4) bekezdése szerinti megvalósulását,
 
 c) az a) és b) pont szerinti tevékenységéhez kapcsolódóan elemzéseket végez, és javaslatokat dolgoz ki a Kormány számára, különösen
 
@@ -34,5 +32,5 @@ d) a népesedéssel, a párkapcsolatokkal, a gyermekvállalással kapcsolatos é
 
 e) a népesség egyes kiemelt csoportjai (különösen a nők, az idősek és a fiatalok) vonatkozásában.
 
-[^1]: A 4. § (1) bekezdés a) pontja a 444/2020. (IX. 30.) Korm. rendelet 8. §-ával megállapított, a 832/2021. (XII. 30.) Korm. rendelet 10. § a) pontja, a 238/2022. (VI. 30.) Korm. rendelet 176. § a) pontja szerint módosított szöveg.
-[^2]: A 4. § (1) bekezdés b) pontja a 444/2020. (IX. 30.) Korm. rendelet 8. §-ával megállapított, a 832/2021. (XII. 30.) Korm. rendelet 10. § b) pontja, a 238/2022. (VI. 30.) Korm. rendelet 176. § b) pontja szerint módosított szöveg.
+[^3]: A 4. § (1) bekezdés a) pontja a 444/2020. (IX. 30.) Korm. rendelet 8. §-ával megállapított, a 832/2021. (XII. 30.) Korm. rendelet 10. § a) pontja, a 238/2022. (VI. 30.) Korm. rendelet 176. § a) pontja szerint módosított szöveg.
+[^4]: A 4. § (1) bekezdés b) pontja a 444/2020. (IX. 30.) Korm. rendelet 8. §-ával megállapított, a 832/2021. (XII. 30.) Korm. rendelet 10. § b) pontja, a 238/2022. (VI. 30.) Korm. rendelet 176. § b) pontja szerint módosított szöveg.

@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-371-20-
 | 2020-10-01 | 2017-371-20-22.2 | 444/2020. (IX. 30.) Korm. rendelet |
 | 2022-01-01 | 2017-371-20-22.3 | 444/2020. (IX. 30.) Korm. rendelet |
 | 2022-07-01 | 2017-371-20-22.4 | 444/2020. (IX. 30.) Korm. rendelet |
+| 2023-09-01 | 2017-371-20-22.5 | 406/2023. (VIII. 30.) Korm. rendelet |
