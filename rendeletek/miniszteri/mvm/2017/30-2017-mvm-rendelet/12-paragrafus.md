@@ -1,1 +1,0 @@
-## 11. § Ha az illetményre, illetve a megbízási díjra való jogosultság nem teljes hónapra áll fenn, a töredékidőre járó illetményt és megbízási díjat a munkanapok számával időarányosan kell figyelembe venni.

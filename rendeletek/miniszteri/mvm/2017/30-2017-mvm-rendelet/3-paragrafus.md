@@ -1,5 +1,0 @@
-3. § (1) A 2. § (1) bekezdése szerinti állományparancs vagy a 2. § (2) bekezdése szerinti határozat tervezetét – a (2) bekezdésben meghatározott kivétellel – a kiadmányozás előtt meg kell küldeni a gazdasági vezető részére, aki azt költségvetési szempontból megvizsgálja, és a költségvetési fedezet rendelkezésre állását igazolja. Ha a költségvetési fedezet nem biztosított, a gazdasági vezető az állományparancs vagy a határozat tervezetét ezzel a megjegyzéssel visszaküldi a személyügyi szervnek.
-
-(2) Nem kell megküldeni a 2. § (1) bekezdése szerinti állományparancs vagy a 2. § (2) bekezdése szerinti határozat tervezetét a gazdasági vezető részére, ha a Hivatal részéről nem keletkezik kifizetésitöbblet-kötelezettség.
-
-(3) A szolgálati beosztásba kinevezésre, szolgálati beosztásba helyezésre jogosult vezető a 2. § (1) bekezdése szerinti tervezett állományparancsot, illetve a 2. § (2) bekezdése szerinti tervezett határozatot a gazdasági vezetőnek a költségvetési fedezetre vonatkozó nyilatkozata hiányában nem kiadmányozhatja.
