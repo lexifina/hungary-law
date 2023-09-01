@@ -12,7 +12,7 @@ d) fizetést korlátozó eljárás:
 
 da) a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény szerinti csődeljárás és felszámolási eljárás, illetve ideiglenes vagyonfelügyelő kirendelése,
 
-db) a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) 185. § (2) bekezdés c) pont cf) alpontja, a Hpt. 48. § (5) bekezdése, a Hpt. 55. § (2) bekezdése szerinti felügyeleti intézkedés,
+db) a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) 185. § (2) bekezdés c) pont cf) alpontja, a Hpt. 55. § (2) bekezdése szerinti felügyeleti intézkedés, valamint a Hpt. 48. § (1) bekezdése szerinti határozat, továbbá, ha azt megelőzően vagy azzal egyidejűleg kifizetési tilalom vagy a Hpt. 185. § (2) bekezdés c) pont cf) alpontja szerinti intézkedés került elrendelésre, akkor a Hpt. 189. § (1) bekezdés e) pontja szerinti kivételes intézkedés,
 
 dc) a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) 128. § (1) bekezdése, a Bszt. 164. § (1) bekezdés h) és n) pontjai szerinti felügyeleti intézkedés, a Bszt. 135. § (1) bekezdése szerinti kifizetési tilalom,
 

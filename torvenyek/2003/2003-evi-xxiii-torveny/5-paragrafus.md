@@ -4,7 +4,7 @@
 
 (2) E törvény alkalmazásában a fizetést korlátozó eljárás megindításának időpontja:
 
-a) a fellebbezésre tekintet nélkül végrehajtható határozat, ennek hiányában
+a) a fellebbezésre tekintet nélkül végrehajtható döntés, ennek hiányában
 
 b) az első fokon jogerős végzés esetében a jogerőre emelkedést megállapító végzés, ennek hiányában
 
