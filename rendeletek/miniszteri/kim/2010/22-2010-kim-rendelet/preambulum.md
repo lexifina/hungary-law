@@ -1,1 +1,0 @@
-A kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény 64. § (4) bekezdésének b) pontjában kapott felhatalmazás alapján és az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 12. § a) pontjában foglalt feladatkörömben eljárva a következőket rendelem el:
