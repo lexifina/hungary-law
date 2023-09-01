@@ -2,4 +2,4 @@
 
 ## A felügyelő által használható kényszerítő eszközök
 
-24. §
+### 24. §

@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-63-00-00
 | 2019-06-01 | 2018. évi CXXI. törvény | 1999-63-00-00.20 |
 | 2020-02-01 | 2019. évi CXVI. törvény | 1999-63-00-00.21 |
 | 2020-07-01 | 2020. évi XXXI. törvény | 1999-63-00-00.22 |
+| 2023-09-01 | 2023. évi XL. törvény | 1999-63-00-00.23 |
