@@ -22,7 +22,7 @@ d)[^152] a tanuló a vizsgán mentesülhet az értékelés egy vagy több része
 
 e)[^153] a látási fogyatékos, a mozgásszervi fogyatékos tanuló a nyomtatott nem enciklopédikus szótár helyett a szótár digitalizált, világháló-kapcsolattal nem rendelkező változatát is használhatja.
 
-f)[^154] biztosítani kell a fizikai vagy kommunikációs segítséget nyújtó segítő személy, illetve a jelnyelvi tolmács jelenlétét, azzal, hogy a segítő személy, a jelnyelvi tolmács a vizsga értékelésének alapjául szolgáló tevékenységet a vizsgázó helyett nem végezhet el.
+f)[^154] mind a szóbeli, mind az írásbeli vizsgán biztosítani kell a fizikai vagy kommunikációs segítséget nyújtó segítő személy, illetve a jelnyelvi tolmács jelenlétét, azzal, hogy a segítő személy, a jelnyelvi tolmács a vizsga értékelésének alapjául szolgáló tevékenységet a vizsgázó helyett nem végezhet el.
 
 [^147]: A 20. § a 256/2005. (XII. 7.) Korm. rendelet 9. §-ával megállapított szöveg.
 [^148]: A 20. § (1) bekezdése a 253/2006. (XII. 7.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
@@ -31,4 +31,4 @@ f)[^154] biztosítani kell a fizikai vagy kommunikációs segítséget nyújtó 
 [^151]: A 20. § (7) bekezdés b) pontja az 5/2016. (I. 22.) Korm. rendelet 18. § 10. pontja, a 65/2021. (II. 15.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.
 [^152]: A 20. § (7) bekezdésének d) pontját a 253/2006. (XII. 7.) Korm. rendelet 6. § (2) bekezdése iktatta be.
 [^153]: A 20. § (7) bekezdés e) pontját a 65/2021. (II. 15.) Korm. rendelet 5. §-a iktatta be.
-[^154]: A 20. § (7) bekezdés f) pontját a 165/2022. (IV. 28.) Korm. rendeléet 3. §-a iktatta be.
+[^154]: A 20. § (7) bekezdés f) pontját a 165/2022. (IV. 28.) Korm. rendeléet 3. §-a iktatta be, szövege a 402/2023. (VIII. 30.) Korm. rendelet 4. §-a szerint módosított szöveg.
