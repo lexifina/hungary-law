@@ -12,7 +12,7 @@ d) rendelkeznie kell a kötelezett által adott leírásban szereplő vagy az á
 
 e) meg kell felelnie a jogszabályban meghatározott minőségi követelményeknek.
 
-(2) A szolgáltatásnak nem kell megfelelnie a (2) bekezdés c) pontjában említett nyilvános kijelentésnek, ha a kötelezett bizonyítja, hogy
+(2) A szolgáltatásnak nem kell megfelelnie az (1) bekezdés c) pontjában említett nyilvános kijelentésnek, ha a kötelezett bizonyítja, hogy
 
 a) a nyilvános kijelentést nem ismerte, és azt nem is kellett ismernie;
 

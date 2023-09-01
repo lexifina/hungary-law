@@ -10,6 +10,8 @@ c) jogszabályban óvadék tárgyaként meghatározott más vagyontárgyon
 
 alapítható.
 
+(1a) A fogyasztói zálogszerződés kivételével az óvadékot alapító zálogszerződésben az alapul szolgáló jogviszonyon kívül mellőzhető a követelés összegének vagy annak az összegnek a meghatározása, amelynek erejéig a zálogjogosult az óvadékból kielégítést kereshet.
+
 (2) Óvadékot pénzen és nem dematerializált értékpapíron kézizálogjogként, dematerializált értékpapíron, fizetésiszámla-követelésen és jogszabályban óvadék tárgyaként meghatározott más vagyontárgyon pedig úgy kell alapítani, hogy annak eredményeként az óvadék tárgya egyértelműen azonosítható módon az óvadék kötelezettjének hatalmából az óvadék jogosultjának hatalmába kerüljön, vagy az óvadék kötelezettjének korlátlan rendelkezése alól egyébként kikerüljön.
 
 (3) Dematerializált értékpapíron és fizetésiszámla-követelésen óvadék
