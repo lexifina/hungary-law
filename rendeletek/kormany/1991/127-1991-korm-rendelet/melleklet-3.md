@@ -1,4 +1,4 @@
-## 9K04861M_0
+## 3X03593M.docx
 
 | Sor- szám | Megnevezés | A hitelesítés hatálya (év) |
 
@@ -18,13 +18,15 @@
 
 | 2. | Gázmérők és számító egységek |  |
 
-|  | a) 6 m3/h és ennél kisebb névleges méréshatárú | 10 |
+| 2.1. | 6 m3/h és ennél kisebb névleges méréshatárú első hitelesítése | 12 |
 
-|  | b) 6 m3/h-nál nagyobb névleges méréshatárú | 5 |
+| 2.2. | 6 m3/h-nál kisebb névleges méréshatárú, felújított | 10 |
 
-| 3. | Hatásos villamos energia mérésére szolgáló fogyasztásmérők | 10 |
+| 2.3. | 6 m3/h-nál nagyobb névleges méréshatárú | 5 |
 
-| 4. | Hőfogyasztás-mérők | 4 |
+| 3. | Hatásos villamos energia mérésére szolgáló fogyasztásmérők | 12 |
+
+| 4. | Hőfogyasztás-mérők | 6 |
 
 | 5. | Víztől eltérő folyadékok mennyiségének folyamatos és dinamikus mérésére szolgáló mérőrendszerek ásványolajtermék, sör, pezsgő és köztes termék, LPG, cseppfolyósított kriogén gáz üzemanyag, alkoholtermék, tej mérésére | 1 |
 
@@ -48,13 +50,13 @@
 
 |  | a) amelyek tömeg meghatározására szolgálnak |  |
 
-|  | – | kereskedelmi ügyleteknél |  |
+|  | – kereskedelmi ügyleteknél |  |
 
-|  | – | vám, illeték, tarifa, adó, bírság, díj vagy hasonló típusú fizetéseknél |  |
+|  | – vám, illeték, tarifa, adó, bírság, díj vagy hasonló típusú fizetéseknél |  |
 
-|  | – | jogszabályok vagy más szabályok alkalmazása, illetve szakértői vélemények bíróság részére történő adása során |  |
+|  | – jogszabályok vagy más szabályok alkalmazása, illetve szakértői vélemények bíróság részére történő adása során |  |
 
-|  | – | gyógyszerek és gyógyhatású készítmények gyógyszertárban történő előállítása, valamint az orvosi és gyógyszertári laboratóriumokban végzett analízisek során | 2 |
+|  | – gyógyszerek és gyógyhatású készítmények gyógyszertárban történő előállítása, valamint az orvosi és gyógyszertári laboratóriumokban végzett analízisek során | 2 |
 
 |  | b) amelyek a mért tömeg alapján az ár meghatározására szolgálnak, az áruk fogyasztók részére történő előrecsomagolása, illetve egyéb módon történő közvetlen értékesítés során | 2 |
 
