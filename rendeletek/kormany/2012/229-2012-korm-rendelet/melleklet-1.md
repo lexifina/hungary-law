@@ -1,3 +1,3 @@
-1. melléklet a 229/2012. (VIII. 28.) Korm. rendelethez[^293]
+1. melléklet a 229/2012. (VIII. 28.) Korm. rendelethez[^298]
 
-[^293]: Az 1–2. mellékletet a 354/2016. (XI. 18.) Korm. rendelet 6. §-a hatályon kívül helyezte.
+[^298]: Az 1–2. mellékletet a 354/2016. (XI. 18.) Korm. rendelet 6. §-a hatályon kívül helyezte.

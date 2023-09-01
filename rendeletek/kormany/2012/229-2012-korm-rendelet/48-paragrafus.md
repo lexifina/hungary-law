@@ -1,5 +1,5 @@
-48. § (1)–(3)[^273]
+48. § (1)–(3)[^278]
 
 (4) E rendelet a hatálybalépése előtt kiadott OM azonosító és oktatási azonosító szám érvényességét nem érinti.
 
-[^273]: A 48. § (1)–(3) bekezdését a 73/2013. (III. 8.) Korm. rendelet 30. § c) pontja hatályon kívül helyezte.
+[^278]: A 48. § (1)–(3) bekezdését a 73/2013. (III. 8.) Korm. rendelet 30. § c) pontja hatályon kívül helyezte.

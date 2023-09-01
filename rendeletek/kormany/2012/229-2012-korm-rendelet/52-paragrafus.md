@@ -1,6 +1,6 @@
-52. §[^282]
+52. §[^287]
 
-52. §[^283]
+52. §[^288]
 
-[^282]: Az 52. §-t újonnan a 354/2016. (XI. 18.) Korm. rendelet 5. §-a iktatta be, hatályon kívül helyezte a 13/2020. (II. 7.) Korm. rendelet 74. § (2) bekezdés 13. pontja.
-[^283]: Az újabb 52. §-t a 477/2016. (XII. 27.) Korm. rendelet 62. § (3) bekezdése iktatta be, hatályon kívül helyezte a 13/2020. (II. 7.) Korm. rendelet 74. § (2) bekezdés 14. pontja.
+[^287]: Az 52. §-t újonnan a 354/2016. (XI. 18.) Korm. rendelet 5. §-a iktatta be, hatályon kívül helyezte a 13/2020. (II. 7.) Korm. rendelet 74. § (2) bekezdés 13. pontja.
+[^288]: Az újabb 52. §-t a 477/2016. (XII. 27.) Korm. rendelet 62. § (3) bekezdése iktatta be, hatályon kívül helyezte a 13/2020. (II. 7.) Korm. rendelet 74. § (2) bekezdés 14. pontja.
