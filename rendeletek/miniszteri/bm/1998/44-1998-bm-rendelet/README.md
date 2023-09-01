@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-44-20-0
 | 2019-07-01 | 1998-44-20-0A.15 | 38/2007. (VII. 20.) IRM rendelet |
 | 2023-01-01 | 1998-44-20-0A.16 | 39/2004. (VI. 29.) BM rendelet |
 | 2023-04-28 | 1998-44-20-0A.17 | 9/2023. (IV. 13.) BM rendelet |
+| 2023-09-01 | 1998-44-20-0A.18 | 35/2023. (VIII. 31.) BM rendelet |
