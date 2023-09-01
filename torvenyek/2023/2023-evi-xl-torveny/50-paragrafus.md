@@ -6,4 +6,4 @@ b)
 
 c)
 
-d)
+d) 88. § (2) bekezdés 38. pontja.

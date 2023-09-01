@@ -4,4 +4,4 @@ a)
 
 b)
 
-c)
+c) 74. § (3) bekezdés d) pontjában az „a vizsgán való részvétel díját,” szövegrész.
