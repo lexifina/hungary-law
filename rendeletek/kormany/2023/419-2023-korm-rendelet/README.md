@@ -1,0 +1,9 @@
+# 419/2023. (VIII. 31.) Korm. rendelet
+
+a Nemzeti Hírközlési és Informatikai Tanácsról, valamint a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság és a kormányzati informatikai beszerzések központosított közbeszerzési rendszeréről szóló 301/2018. (XII. 27.) Korm. rendelet módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-419-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2023-09-01 | 2023-419-20-22.1 | 419/2023. (VIII. 31.) Korm. rendelet |
