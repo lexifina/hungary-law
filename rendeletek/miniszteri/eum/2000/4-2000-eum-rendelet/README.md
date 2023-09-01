@@ -35,3 +35,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-4-20-0B
 | 2023-01-01 | 2000-4-20-0B.41 | 45/2022. (XII. 20.) BM rendelet |
 | 2023-06-15 | 2000-4-20-0B.42 | 16/2023. (VI. 14.) BM rendelet |
 | 2023-07-01 | 2000-4-20-0B.43 | 23/2023. (VI. 30.) BM rendelet |
+| 2023-09-01 | 2000-4-20-0B.44 | 23/2023. (VI. 30.) BM rendelet |

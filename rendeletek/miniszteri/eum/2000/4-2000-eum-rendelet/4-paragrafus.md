@@ -52,9 +52,18 @@ e) a sürgősségi ellátás.
 
 (8)[^19] A háziorvos az alapellátás keretében az egyéb szakképesítésének megfelelő egészségügyi szolgáltatást is nyújthat.
 
+(9)[^20] Ha betegség vagy annak gyanúja miatt az óvodai foglalkozásról, tanuló esetében a tanítási óráról és egyéb foglalkozásról, valamint a kollégiumi foglalkozásról történő távolmaradás igazolásához orvosi igazolás szükséges, vagy jogszabály alapján orvosi igazolás szükséges arról, hogy a gyermek, illetve a tanuló ismét egészséges, és látogathatja a nevelési-oktatási intézményt, részt vehet a foglalkozásokon, úgy ezen tényeket
+
+a) a szülő vagy
+
+b) 14. életévét betöltött tanuló esetén a szülő vagy a tanuló
+
+kérésére a háziorvos vagy házi gyermekorvos igazolja, ha a gyermek vagy a tanuló e körülmények fennállásáról a kezelőorvosától igazolást nem kapott.
+
 [^14]: A 4. § (2) bekezdésének d) pontja a 40/2003. (VII. 16.) ESZCSM rendelet 4. §-ával megállapított szöveg.
 [^15]: A 4. § (2) bekezdés e) pontja a 16/2023. (VI. 14.) BM rendelet 3. §-ával megállapított szöveg.
 [^16]: A 4. § (3) bekezdés nyitó szövegrésze a 24/2014. (IV. 4.) EMMI rendelet 5. § a) pontja szerint módosított szöveg.
 [^17]: A 4. § (3) bekezdés b) pontja a 8/2011. (III. 21.) NEFMI rendelet 2. §-ával megállapított szöveg.
 [^18]: A 4. § (3) bekezdésének e) pontját a 12/2004. (XII. 25.) EüM rendelet 2. §-ának (1) bekezdése iktatta a szövegbe.
 [^19]: A 4. § (8) bekezdését a 10/2021. (III. 5.) EMMI rendelet 1. §-a iktatta be.
+[^20]: A 4. § (9) bekezdését a 23/2023. (VI. 30.) BM rendelet 3. §-a iktatta be.
