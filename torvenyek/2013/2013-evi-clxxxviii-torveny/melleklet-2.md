@@ -554,7 +554,13 @@ Fizetendő összeg összesen
 
 4.4.4. Az egyes tételekhez kapcsolódó sorokban nem szükséges az összes oszlophoz tartozó cellát kitölteni, csak amely értelemszerűen alkalmazható (pl.: a „rendszerhasználati díjak összesen” sorban a mértékegység feltüntetése nem értelmezhető).
 
-4.5. Egyéb: feltüntetése csak abban az esetben szükséges, ha a felhasználó támogatásban részesült, vagy túlfizetett vagy bármilyen egyéb, a fizetendő összeget befolyásoló tétel felmerült (pl. kamat, tartozás). A számlán konkrétan fel kell tüntetni azt a jogcímet, ami alapján a tétel feltüntetésre került, több ilyen tétel esetén azokat külön sorokban kell szerepeltetni.
+4.5. Egyéb: csak abban az esetben kell feltüntetni, ha
+
+4.5.1. a felhasználó támogatásban részesült, vagy túlfizetett vagy bármilyen egyéb, a fizetendő összeget befolyásoló, egyetemes villamosenergia-szolgáltatáshoz vagy villamosenergia-elosztáshoz kapcsolódó tétel felmerült (különösen kamat, tartozás), vagy
+
+4.5.2. a számla a 7. § (1) vagy (2) bekezdése alapján számlaképpel nem szabályozott termék árát, szolgáltatás díját vagy egyéb tételt tartalmaz, azzal, hogy a számla 3. pontjában a szolgáltatás megnevezése résznél az egyéb szolgáltatást is fel kell tüntetni.
+
+## A számlának tartalmazni kell a tétel feltüntetését megalapozó jogcímet. A tételeket külön sorokban kell szerepeltetni.
 
 4.6. A rezsidíj csökkentésének eredményeképpen az Ön megtakarítása ebben az elszámolási időszakban: lakossági fogyasztó esetén a hatályos árképzésből eredő megtakarítás a 2012. december 1-jén hatályos árképzéshez képest (a 2013. január 1-jét követően elszámolt összes fogyasztás 2012. december 1-jén hatályos árképzés alapján számított ellenértékének bruttó értéke – beleértve a villamos energia termékdíjat, rendszerhasználati díjakat, pénzeszköz jellegű tételeket – és a 2013. január 1-jét követő fogyasztás alapján fizetendő összeg bruttó értékének összesített különbsége összegszerűen feltüntetve).
 

@@ -1,1 +1,5 @@
-### 7. §
+7. § (1) A szolgáltató jogosult az e törvénnyel nem szabályozott, általa közvetlenül vagy közvetítőként biztosított termék árát, szolgáltatás díját, valamint egyéb tételt a kibocsátott számlán – a számlázással kapcsolatos pénzügyi és számviteli jogszabályok előírásaira figyelemmel – feltüntetni és kiszámlázni.
+
+(2) Az (1) bekezdés alapján a szolgáltató közvetítőként, illetve a szolgáltató által igénybe vett közreműködő személy közvetítői alvállalkozóként a felhasználó és a szolgáltató kapcsolt vállalkozásaként működő pénzügyi intézmény között létrejött megállapodás alapján, az abban foglaltak szerint jogosult a megállapodás szerint esedékes tőketörlesztés, valamint ügyleti és késedelmi kamat összegét – a számlázással kapcsolatos pénzügyi és számviteli jogszabályok előírásaira figyelemmel – a számlarészletezőn feltüntetni.
+
+(3) Az (1) bekezdés szerinti kibocsátott összevont számla részleges pénzügyi teljesítése esetében elsődlegesen a közműszolgáltatásra kell elszámolni a befizetett összeget, továbbá a számla nem vagy részleges teljesítése esetén kizárólag közműtartozás esetén kerülhet sor a felhasználónak az ellátásból való kikapcsolására.
