@@ -1,3 +1,3 @@
-73/A. §[^606]
+73/A. §[^608]
 
-[^606]: A 73/A. §-t az 509/2013. (XII. 29.) Korm. rendelet 2. §-a iktatta be, a 306/2018. (XII. 27.) Korm. rendelet 11. § b) pontja hatályon kívül helyezte.
+[^608]: A 73/A. §-t az 509/2013. (XII. 29.) Korm. rendelet 2. §-a iktatta be, a 306/2018. (XII. 27.) Korm. rendelet 11. § b) pontja hatályon kívül helyezte.

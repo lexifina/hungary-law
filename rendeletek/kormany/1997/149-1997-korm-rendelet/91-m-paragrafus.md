@@ -14,8 +14,8 @@ e) a szülő vagy más törvényes képviselő és a gyermek figyelmeztetését 
 
 f) a megelőző pártfogás felülvizsgálatának határidejét,
 
-g)[^776] a család- és gyermekjóléti központ, a megelőző pártfogó felügyelő, a korlátozottan cselekvőképes gyermek, a szülő vagy más törvényes képviselő tájékoztatását arról, hogy a Gyvt. 68/D. § (9) bekezdésében foglaltak szerint kezdeményezhetik a megelőző pártfogás felülvizsgálatát.
+g)[^778] a család- és gyermekjóléti központ, a megelőző pártfogó felügyelő, a korlátozottan cselekvőképes gyermek, a szülő vagy más törvényes képviselő tájékoztatását arról, hogy a Gyvt. 68/D. § (9) bekezdésében foglaltak szerint kezdeményezhetik a megelőző pártfogás felülvizsgálatát.
 
 (2) A gyámhivatal az eset összes körülményének és a megelőző pártfogó felügyelőként kijelölhető személy javaslatának figyelembevételével úgy határozza meg a megelőző pártfogó felügyelővel történő személyes találkozás gyakoriságát, hogy arra havonta legalább egy alkalommal sor kerüljön.
 
-[^776]: A 91/M. § (1) bekezdés g) pontja a 419/2015. (XII. 23.) Korm. rendelet 14. § 17. pontja szerint módosított szöveg.
+[^778]: A 91/M. § (1) bekezdés g) pontja a 419/2015. (XII. 23.) Korm. rendelet 14. § 17. pontja szerint módosított szöveg.
