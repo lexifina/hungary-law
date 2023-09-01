@@ -1,4 +1,4 @@
-67. §[^276] (1)[^277] A szállítási rendszerüzemeltető, illetve földgázelosztó köteles a földgáztermelő megkeresésére 60 napon belül a rendszerén való csatlakozási pont kiépítésének műszaki-gazdasági feltételeiről részletes ajánlatot adni.
+67. §[^283] (1)[^284] A szállítási rendszerüzemeltető, illetve földgázelosztó köteles a földgáztermelő megkeresésére 60 napon belül a rendszerén való csatlakozási pont kiépítésének műszaki-gazdasági feltételeiről részletes ajánlatot adni.
 
 (2) A földgáztermelő ajánlatkérésének tartalmaznia kell:
 
@@ -8,9 +8,9 @@ b) a kitermelni és a rendszerbe betáplálni tervezett órai és napi földgáz
 
 c) a rendszerbe betáplálni kívánt földgáz fizikai, kémiai jellemzőit,
 
-d)[^278] nyilatkozatot arról, hogy a betáplálni kívánt és a földgáztermelő által bizonylatolt minőségű földgáz megfelel a 66/A. § (1)–(4) bekezdésében meghatározott követelményeknek.
+d)[^285] nyilatkozatot arról, hogy a betáplálni kívánt és a földgáztermelő által bizonylatolt minőségű földgáz megfelel a 66/A. § (1)–(4) bekezdésében meghatározott követelményeknek.
 
-(3)[^279] A szállítási rendszerüzemeltető, illetve földgázelosztó ajánlatának tartalmaznia kell:
+(3)[^286] A szállítási rendszerüzemeltető, illetve földgázelosztó ajánlatának tartalmaznia kell:
 
 a) a szállító- vagy elosztóvezetéknek a földgáztermelő kitermelési kapacitása szempontjából műszakilag és gazdaságilag legkedvezőbb csatlakozási pontját, ahol a földgáztermelő csatlakozni tud,
 
@@ -22,17 +22,17 @@ d) elosztóvezetéken a részleges szigetüzem működésének feltételeit,
 
 e) a betáplálási, illetve csatlakozási pontra vonatkozó mérési-elszámolási előírásokat.
 
-(4)[^280] A földgáztermelői vezetéknek a szállító- vagy elosztóvezetékre történő csatlakozásáért fizetendő hozzájárulás nem haladhatja meg a beruházás indokolt költségét. A csatlakozáshoz szükséges berendezések megvalósításáért díj nem kérhető, ha a berendezés a rendszerüzemeltető tulajdonába kerül.
+(4)[^287] A földgáztermelői vezetéknek a szállító- vagy elosztóvezetékre történő csatlakozásáért fizetendő hozzájárulás nem haladhatja meg a beruházás indokolt költségét. A csatlakozáshoz szükséges berendezések megvalósításáért díj nem kérhető, ha a berendezés a rendszerüzemeltető tulajdonába kerül.
 
 (5) A szállító-, illetve elosztóvezetékhez történő csatlakozással létrejövő részleges szigetüzem működési, elszámolási feltételeit a rendszerüzemeltető honlapján nyilvánossá kell tenni, amelyet a rendszerhasználók kötelesek betartani.
 
 (6) Ha az engedélyes a (1) bekezdés szerinti ajánlatkérésre nem válaszol, vagy az ajánlat nem tartalmazza a (3) bekezdésben foglaltakat, a Hivatal az engedélyessel szemben a GET 119. § (1)–(2) bekezdésben meghatározott jogkövetkezményeket alkalmazza.
 
-(7)[^281] A szállítási rendszerüzemeltető, illetve a földgázelosztó a termelői csatlakozási pontra vonatkozóan köteles az engedélymódosítási kérelmet a Hivatalhoz benyújtani, és a kérelméhez mellékelni a földgáztermelővel kötött megállapodásokat. A Hivatal csak részleges szigetüzem kialakításához járulhat hozzá.
+(7)[^288] A szállítási rendszerüzemeltető, illetve a földgázelosztó a termelői csatlakozási pontra vonatkozóan köteles az engedélymódosítási kérelmet a Hivatalhoz benyújtani, és a kérelméhez mellékelni a földgáztermelővel kötött megállapodásokat. A Hivatal csak részleges szigetüzem kialakításához járulhat hozzá.
 
-[^276]: A Vhr. 67. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^277]: A Vhr. 67. § (1) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (6) bekezdése szerint módosított szöveg.
-[^278]: A Vhr. 67. § (2) bekezdés d) pontját a 139/2009. (VI. 30.) Korm. rendelet 2. §-a iktatta be, szövege a 378/2011. (XII. 31.) Korm. rendelet 79. § (6) bekezdése szerint módosított szöveg.
-[^279]: A Vhr. 67. § (3) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 56. §-ával megállapított szöveg.
-[^280]: A Vhr. 67. § (4) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 56. §-ával megállapított szöveg.
-[^281]: A Vhr. 67. § (7) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (6) bekezdése szerint módosított szöveg.
+[^283]: A Vhr. 67. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^284]: A Vhr. 67. § (1) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (6) bekezdése szerint módosított szöveg.
+[^285]: A Vhr. 67. § (2) bekezdés d) pontját a 139/2009. (VI. 30.) Korm. rendelet 2. §-a iktatta be, szövege a 378/2011. (XII. 31.) Korm. rendelet 79. § (6) bekezdése szerint módosított szöveg.
+[^286]: A Vhr. 67. § (3) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 56. §-ával megállapított szöveg.
+[^287]: A Vhr. 67. § (4) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 56. §-ával megállapított szöveg.
+[^288]: A Vhr. 67. § (7) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (6) bekezdése szerint módosított szöveg.

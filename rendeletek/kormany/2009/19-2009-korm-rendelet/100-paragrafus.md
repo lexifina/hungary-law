@@ -2,13 +2,13 @@
 
 ## A szállító- és az elosztóvezetékek, valamint a tárolók üzemeltetése
 
-100. §[^379] A rendszerüzemeltető az engedélye szerinti engedélyköteles tevékenysége vonatkozásában köteles saját alkalmazásban lévő munkavállalókkal az engedélyben meghatározott működési és szolgáltatási területén folyamatosan gyakorolni a jogait és eleget tenni kötelezettségeinek:
+100. §[^386] A rendszerüzemeltető az engedélye szerinti engedélyköteles tevékenysége vonatkozásában köteles saját alkalmazásban lévő munkavállalókkal az engedélyben meghatározott működési és szolgáltatási területén folyamatosan gyakorolni a jogait és eleget tenni kötelezettségeinek:
 
 a) szállítási rendszerirányító esetében:
 
 aa) a GET által meghatározott, az együttműködő földgázrendszerre kiterjedő irányítási és koordinációs feladatok ellátása,
 
-ab)[^380]
+ab)[^387]
 
 ac) a földgázellátási üzemzavar és válsághelyzet esetére előírt tevékenység,
 
@@ -24,11 +24,11 @@ bd) az engedélyes tevékenységhez kapcsolódó rendszerszintű szolgáltatáso
 
 be) az üzemvitel, az üzemirányítás és az ügyfélszolgálat területén az engedélyes működési tevékenységéhez kapcsolódó döntési és irányítási jogok és kötelezettségek, valamint
 
-bf)[^381] az egyensúlyozó platformon, a kereskedési platformon, a kapacitáslekötési platformon, valamint a szervezett földgázpiacon megkötött ügyletek végrehajtásában történő közreműködés,
+bf)[^388] az egyensúlyozó platformon, a kereskedési platformon, a kapacitáslekötési platformon, valamint a szervezett földgázpiacon megkötött ügyletek végrehajtásában történő közreműködés,
 
-bg)[^382] az együttműködő földgázrendszer képviselete nemzetközi szervezetekben.
+bg)[^389] az együttműködő földgázrendszer képviselete nemzetközi szervezetekben.
 
-[^379]: A Vhr. 100. §-a a 300/2013. (VII. 29.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^380]: A Vhr. 100. § a) pont ab) alpontját a 91/2015. (IV. 9.) Korm. rendelet 23. § f) pontja hatályon kívül helyezte.
-[^381]: A Vhr. 100. § b) pont bf) alpontja a 91/2015. (IV. 9.) Korm. rendelet 21. § 15. pontja szerint módosított szöveg.
-[^382]: A Vhr. 100. § b) pont bg) alpontját a 91/2015. (IV. 9.) Korm. rendelet 14. §-a iktatta be.
+[^386]: A Vhr. 100. §-a a 300/2013. (VII. 29.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^387]: A Vhr. 100. § a) pont ab) alpontját a 91/2015. (IV. 9.) Korm. rendelet 23. § f) pontja hatályon kívül helyezte.
+[^388]: A Vhr. 100. § b) pont bf) alpontja a 91/2015. (IV. 9.) Korm. rendelet 21. § 15. pontja szerint módosított szöveg.
+[^389]: A Vhr. 100. § b) pont bg) alpontját a 91/2015. (IV. 9.) Korm. rendelet 14. §-a iktatta be.

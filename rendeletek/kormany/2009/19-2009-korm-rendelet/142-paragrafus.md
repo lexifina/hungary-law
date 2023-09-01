@@ -1,6 +1,6 @@
 ## (A GET 122–124. §-ához)
 
-## Cégjogi eseményekre, befolyásszerzésre vonatkozó közös szabályok[^513]
+## Cégjogi eseményekre, befolyásszerzésre vonatkozó közös szabályok[^521]
 
 142. § (1) A kérelmet
 
@@ -16,4 +16,4 @@ nyújtja be a Hivatalhoz.
 
 (3) A GET 123. § (7a) bekezdése szerinti kérelemhez a 8a. számú melléklet 1. pontjában meghatározottakon kívül a kérelmező mellékeli az előzetes hozzájárulásban foglaltaknak való megfelelést alátámasztó nyilatkozatokat és az ehhez rendelkezésre álló dokumentumokat.
 
-[^513]: A Vhr. „Cégjogi eseményekre, befolyásszerzésre vonatkozó közös szabályok” alcíme (142–142/A. §) a 80/2019. (IV. 15.) Korm. rendelet 28. §-ával megállapított szöveg.
+[^521]: A Vhr. „Cégjogi eseményekre, befolyásszerzésre vonatkozó közös szabályok” alcíme (142–142/A. §) a 80/2019. (IV. 15.) Korm. rendelet 28. §-ával megállapított szöveg.

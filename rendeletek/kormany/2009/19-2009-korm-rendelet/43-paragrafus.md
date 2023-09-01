@@ -1,8 +1,8 @@
-## (A GET III. Fejezetéhez)[^180]
+## (A GET III. Fejezetéhez)[^181]
 
 ## A földgázpiaci verseny elősegítése
 
-43. §[^181] (1) A jelentős piaci erő eljárásban a Hivatal az általa meghatározott érintett piacokon a piaci erő vizsgálatakor az alábbiakat mérlegeli:
+43. §[^182] (1) A jelentős piaci erő eljárásban a Hivatal az általa meghatározott érintett piacokon a piaci erő vizsgálatakor az alábbiakat mérlegeli:
 
 a) az engedélyesnek az adott piac földrajzi területén, valamint esetlegesen a kapcsolódó piacokon való jelenlétét,
 
@@ -24,8 +24,8 @@ h) az esetleges verseny hiányát.
 
 (3) Ha a jelentős piaci erő eljárásban a Hivatal az érintett piac valamennyi engedélyesére kötelezettséget ír elő, a Hivatal kötelezheti a piacműködtetőt, hogy a kötelezettség teljesítésére a piac működésére vonatkozó szabályok módosításával kerüljön sor.
 
-(4)[^182]
+(4)[^183]
 
-[^180]: A Vhr. „(A GET III. Fejezetéhez) A földgázpiaci verseny elősegítése” alcíme (43–48. §) a 80/2019. (IV. 15.) Korm. rendelet 24. §-ával megállapított szöveg.
-[^181]: A Vhr. 43. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^182]: A Vhr. 43. § (4) bekezdését a 401/2020. (VIII. 17.) Korm. rendelet 30. § b) pontja hatályon kívül helyezte.
+[^181]: A Vhr. „(A GET III. Fejezetéhez) A földgázpiaci verseny elősegítése” alcíme (43–48. §) a 80/2019. (IV. 15.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^182]: A Vhr. 43. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^183]: A Vhr. 43. § (4) bekezdését a 401/2020. (VIII. 17.) Korm. rendelet 30. § b) pontja hatályon kívül helyezte.

@@ -1,3 +1,3 @@
-34. §[^156]
+34. §[^157]
 
-[^156]: A Vhr. 32–34. §-át a 378/2011. (XII. 31.) Korm. rendelet 80. § (1) bekezdése hatályon kívül helyezte.
+[^157]: A Vhr. 32–34. §-át a 378/2011. (XII. 31.) Korm. rendelet 80. § (1) bekezdése hatályon kívül helyezte.

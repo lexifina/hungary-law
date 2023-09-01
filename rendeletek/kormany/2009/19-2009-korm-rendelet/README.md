@@ -74,3 +74,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-19-20-2
 | 2021-09-01 | 2009-19-20-22.70 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2022-01-01 | 2009-19-20-22.71 | 672/2021. (XII. 2.) Korm. rendelet |
 | 2023-01-01 | 2009-19-20-22.72 | 616/2022. (XII. 29.) Korm. rendelet |
+| 2023-09-01 | 2009-19-20-22.73 | 216/2023. (VI. 1.) Korm. rendelet |

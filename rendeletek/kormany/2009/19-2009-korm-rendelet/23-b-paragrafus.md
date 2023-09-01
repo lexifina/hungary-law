@@ -48,6 +48,9 @@ g) a felhasználó vagy a (7) bekezdés esetében a bejelentő, és az e) pont s
 
 (7)[^113] A felhasználó elhalálozása esetén az elhalálozás tényét legkésőbb annak napjától számított hat hónapon belül kell a földgázkereskedő számára bejelenteni. A bejelentésnek legalább a (4) bekezdés a) pontja, b) pont ba) alpontja, valamint d)–g) pontja szerinti adatokat kell tartalmaznia, figyelemmel a (6a) bekezdésben foglaltakra.
 
+(8)[^114] Ha az (1) bekezdés szerinti bejelentést az új felhasználó teszi meg, és nem tud olyan mérőállást megadni, amelyet a felhasználó az aláírásával elfogadott, valamint nem kezdeményezi a GET 17. § (3) bekezdése szerinti helyszíni ellenőrzést, akkor a (4) bekezdés a) pont ac) alpontja szerinti mérőállásnak a földgázkereskedő számlázási rendszere alapján utolsó – a felhasználóváltás időpontjához képest 30 napnál nem régebben kiállított – kiegyenlített számlának megfelelő mérőállást kell tekinteni.
+
 [^111]: A Vhr. 23/B. §-át a 252/2012. (IX. 7.) Korm. rendelet 4. §-a iktatta be.
 [^112]: A Vhr. 23/B. § (6a) bekezdését a 672/2021. (XII. 2.) Korm. rendelet 12. § (1) bekezdése iktatta be.
 [^113]: A Vhr. 23/B. § (7) bekezdése a 672/2021. (XII. 2.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^114]: A Vhr. 23/B. § (8) bekezdését a 216/2023. (VI. 1.) Korm. rendelet 4. § (1) bekezdése iktatta be.

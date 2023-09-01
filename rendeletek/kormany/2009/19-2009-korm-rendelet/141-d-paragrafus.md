@@ -1,4 +1,4 @@
-## A vertikálisan integrált földgázipari vállalkozás részét képező szállítóvezeték tulajdonosára vonatkozó szétválasztási szabályok[^512]
+## A vertikálisan integrált földgázipari vállalkozás részét képező szállítóvezeték tulajdonosára vonatkozó szétválasztási szabályok[^520]
 
 141/D. § (1) Független rendszerüzemeltető esetén a vertikálisan integrált földgázipari vállalkozás részét képező szállítóvezeték tulajdonosa köteles a GET 125. § (14) bekezdésében foglaltaknak megfelelni.
 
@@ -12,4 +12,4 @@ a) a 139. § (3) bekezdés a)–g) pontjában foglaltak azzal, hogy rendszerüze
 
 b) a szétválasztáshoz kapcsolódó peres és egyéb vitás ügyek bemutatása.
 
-[^512]: A Vhr. „A vertikálisan integrált földgázipari vállalkozás részét képező szállítóvezeték tulajdonosára vonatkozó szétválasztási szabályok” alcímét (Vhr. 141/D. §) a 75/2011. (V. 2.) Korm. rendelet 20. §-a iktatta be.
+[^520]: A Vhr. „A vertikálisan integrált földgázipari vállalkozás részét képező szállítóvezeték tulajdonosára vonatkozó szétválasztási szabályok” alcímét (Vhr. 141/D. §) a 75/2011. (V. 2.) Korm. rendelet 20. §-a iktatta be.
