@@ -42,6 +42,10 @@ p)[^10] ellátja a kutatási és technológiai infrastruktúrák monitorozási f
 
 q)[^11] előmozdítja a nyílt tudomány kezdeményezéseket.
 
+r)[^12] ellátja a kutatási-fejlesztési tevékenység minősítésével kapcsolatos szakértői feladatokat,
+
+s)[^13] ellátja a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény (a továbbiakban: KFI tv.) 6. §-ában foglaltak alapján a Magyar Formatervezési Tanácsról szóló kormányrendeletben meghatározott feladatokat,
+
 (2) A Hivatal a hazai közfinanszírozású támogatások tekintetében
 
 a) a pályaművek befogadásával,
@@ -76,11 +80,11 @@ g) feladatkörében együttműködik Magyarország külképviseleteivel, kapcsol
 
 (4) A Hivatal elnöke a (3) bekezdésben meghatározott feladatok végrehajtásának részletes szabályairól a Kormány feladatkörében érintett tagjával kötött megállapodásban rendelkezhet.
 
-(5)[^12] Feladatai ellátása során a Hivatal együttműködik az ágazati kutatás-fejlesztési és innovációs tevékenységet illetően a feladatkörében eljáró államigazgatási szervvel, a Magyar Tudományos Akadémiával, az Eötvös Loránd Kutatási Hálózat Titkárságával és más kutatás-fejlesztéssel és innovációval foglalkozó szervezetekkel és intézményekkel.
+(5)[^14] Feladatai ellátása során a Hivatal együttműködik az ágazati kutatás-fejlesztési és innovációs tevékenységet illetően a feladatkörében eljáró államigazgatási szervvel, a Magyar Tudományos Akadémiával, a Magyar Kutatási Hálózat Titkárságával és más kutatás-fejlesztéssel és innovációval foglalkozó szervezetekkel és intézményekkel.
 
 (6) A Hivatal elnöke a Hivatal feladatkörét érintően a tudománypolitika koordinációjáért felelős miniszteren keresztül jogszabály megalkotását és módosítását kezdeményezheti.
 
-(7)[^13] A Hivatal együttműködik az NKFI Alap kezelésében a KFI tv. 11. § (3) bekezdése szerint közreműködő gazdasági társasággal.
+(7)[^15] A Hivatal együttműködik az NKFI Alap kezelésében a KFI tv. 11. § (3) bekezdése szerint közreműködő gazdasági társasággal.
 
 [^2]: Az 5. § (1) bekezdés c) pont ca) alpontja a 246/2023. (VI. 22.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 5. § (1) bekezdés e) pontja a 246/2023. (VI. 22.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
@@ -92,5 +96,7 @@ g) feladatkörében együttműködik Magyarország külképviseleteivel, kapcsol
 [^9]: Az 5. § (1) bekezdés o) pontja a 246/2023. (VI. 22.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
 [^10]: Az 5. § (1) bekezdés p) pontját az 543/2020. (XII. 2.) Korm. rendelet 2. §-a iktatta be, szövege a 246/2023. (VI. 22.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
 [^11]: Az 5. § (1) bekezdés q) pontját a 746/2021. (XII. 21.) Korm. rendelet 17. §-a iktatta be, szövege a 246/2023. (VI. 22.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
-[^12]: Az 5. § (5) bekezdése a 246/2023. (VI. 22.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
-[^13]: Az 5. § (7) bekezdését a 246/2023. (VI. 22.) Korm. rendelet 15. § (7) bekezdése iktatta be.
+[^12]: Az 5. § (1) bekezdés r) pontját a 246/2023. (VI. 22.) Korm. rendelet 15. § (5) bekezdése iktatta be.
+[^13]: Az 5. § (1) bekezdés s) pontját a 246/2023. (VI. 22.) Korm. rendelet 15. § (5) bekezdése iktatta be.
+[^14]: Az 5. § (5) bekezdése a 246/2023. (VI. 22.) Korm. rendelet 17. § a) és b) pontja szerint módosított szöveg.
+[^15]: Az 5. § (7) bekezdését a 246/2023. (VI. 22.) Korm. rendelet 15. § (7) bekezdése iktatta be.

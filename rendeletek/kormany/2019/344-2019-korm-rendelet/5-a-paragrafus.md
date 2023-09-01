@@ -1,6 +1,6 @@
-## 3/A.[^14] A Nemzeti Innovációs Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság feladatai
+## 3/A.[^16] A Nemzeti Innovációs Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság feladatai
 
-5/A. § (1)[^15] A Nemzeti Innovációs Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: NIÜ Zrt.) – az állam 100%-os tulajdonában és a Hivatal tulajdonosi joggyakorlása alatt álló gazdasági társaságként – az NKFI Alap kezelésével összefüggő alábbi feladatokat látja el:
+5/A. § (1)[^17] A Nemzeti Innovációs Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: NIÜ Zrt.) – az állam 100%-os tulajdonában és a Hivatal tulajdonosi joggyakorlása alatt álló gazdasági társaságként – az NKFI Alap kezelésével összefüggő alábbi feladatokat látja el:
 
 a) a kutatás-fejlesztési és innovációs ökoszisztéma koordinálásával összefüggő feladatai keretében
 
@@ -40,9 +40,13 @@ bc) népszerűsíti a matematikai, természettudományi, műszaki és informatik
 
 bd) közreműködik az iparjogvédelmi tudatosság elterjedésének elősegítésében.
 
+be)[^18] ellátja a Magyar Formatervezési Tanács Iroda feladatait.
+
 (2) Az államháztartásról szóló 2011. évi CXCV. törvény 3/A. § (2) bekezdésére figyelemmel a NIÜ Zrt. e rendelet szerinti feladatait közfeladatként látja el.
 
-(3) Feladatai ellátása során a NIÜ Zrt. együttműködik az ágazati kutatás-fejlesztési és innovációs tevékenységet illetően a feladatkörében eljáró államigazgatási szervvel, a Magyar Tudományos Akadémiával, az Eötvös Loránd Kutatási Hálózat Titkárságával és más kutatás-fejlesztéssel és innovációval foglalkozó szervezetekkel és intézményekkel.
+(3)[^19] Feladatai ellátása során a NIÜ Zrt. együttműködik az ágazati kutatás-fejlesztési és innovációs tevékenységet illetően a feladatkörében eljáró államigazgatási szervvel, a Magyar Tudományos Akadémiával, a Magyar Kutatási Hálózat Titkárságával és más kutatás-fejlesztéssel és innovációval foglalkozó szervezetekkel és intézményekkel.
 
-[^14]: A 3/A. alcímet (5/A. §-t) a 246/2023. (VI. 22.) Korm. rendelet 16. § (1) bekezdése iktatta be, az alcím címe a 331/2023. (VII. 19.) Korm. rendelet 12. §-a szerint módosított szöveg.
-[^15]: Az 5/A. § (1) bekezdés nyitó szövegrésze a 331/2023. (VII. 19.) Korm. rendelet 12. §-a szerint módosított szöveg.
+[^16]: A 3/A. alcímet (5/A. §-t) a 246/2023. (VI. 22.) Korm. rendelet 16. § (1) bekezdése iktatta be, az alcím címe a 331/2023. (VII. 19.) Korm. rendelet 12. §-a szerint módosított szöveg.
+[^17]: Az 5/A. § (1) bekezdés nyitó szövegrésze a 331/2023. (VII. 19.) Korm. rendelet 12. §-a szerint módosított szöveg.
+[^18]: Az 5/A. § (1) bekezdés b) pont be) alpontját a 246/2023. (VI. 22.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^19]: Az 5/A. § (3) bekezdése a 246/2023. (VI. 22.) Korm. rendelet 17. § c) pontja szerint módosított szöveg.
