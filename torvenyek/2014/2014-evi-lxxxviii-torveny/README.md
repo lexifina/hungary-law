@@ -40,3 +40,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-88-00-00
 | 2023-01-01 | 2022. évi LXIX. törvény | 2014-88-00-00.33 |
 | 2023-06-24 | 2023. évi XXXIX. törvény | 2014-88-00-00.35 |
 | 2023-07-24 | 2023. évi XXV. törvény | 2014-88-00-00.34 |
+| 2023-09-01 | 2023. évi XXXIX. törvény | 2014-88-00-00.36 |

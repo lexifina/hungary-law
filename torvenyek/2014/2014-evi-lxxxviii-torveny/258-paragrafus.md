@@ -28,6 +28,8 @@ j) a 238. § g) és h) pontjában meghatározott nyilatkozatokat;
 
 k) a kérelmező teljes bizonyító erejű magánokiratban foglalt nyilatkozatát arra vonatkozóan, hogy hozzájárul az engedély iránti kérelemhez mellékelt iratban foglaltak valódiságának a Felügyelet által megkeresett szervek útján történő ellenőrzéséhez.
 
+(3a) A részesedésszerzés vagy ellenőrző befolyás létrejötte engedélyezése iránti, (2) bekezdés szerinti kérelemhez a (3) bekezdés a), d), g) és i)–k) pontja szerinti feltételek igazolását kell mellékelni akkor, ha a nem természetes személy kérelmező a biztosítóval vagy viszontbiztosítóval egy csoportba tartozik.
+
 (4) A részesedésszerzés feltétele, hogy a kérelmező – közvetlen részesedésszerzés esetén – a részesedésszerzéshez szükséges tőke pénzbeli részét valamely tagállamban bejegyzett hitelintézetnél helyezze el.
 
 (5) Ha a kérelmező harmadik országbeli biztosító, viszontbiztosító, hitelintézet vagy befektetési vállalkozás, a (3)–(4) bekezdésekben foglaltakon kívül a kérelemhez mellékelni kell a székhely szerinti állam érintett felügyeleti hatóságának arra vonatkozó igazolását, illetve nyilatkozatát, hogy a vállalkozás a tevékenység végzésére vonatkozó szabályok betartásával működik.
