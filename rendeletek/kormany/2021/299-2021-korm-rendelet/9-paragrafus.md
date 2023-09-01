@@ -44,11 +44,11 @@ c) véleményezi a jelentés készítője részére a szellemi kulturális örö
 
 8. az MTA elnöke által delegált egy fő,
 
-9. az Eötvös Loránd Kutatási Hálózat Bölcsészettudományi Kutatóközpont által delegált két fő,
+9.[^5] a Magyar Kutatási Hálózat Bölcsészettudományi Kutatóközpont által delegált két fő,
 
 10. az MMA elnöke által delegált két fő,
 
-11.[^5] az Országgyűlés kultúráért felelős bizottságának elnöke által delegált egy fő,
+11.[^6] az Országgyűlés kultúráért felelős bizottságának elnöke által delegált egy fő,
 
 12. a Hagyományok Háza képviseletében egy fő,
 
@@ -79,4 +79,5 @@ d) a társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter.
 (6) Az SZKÖ MNB titkársági feladatainak ellátását a miniszter biztosítja.
 
 [^4]: A 9. § (4) bekezdés 5. pontja a 238/2022. (VI. 30.) Korm. rendelet 211. § c) pontja szerint módosított szöveg.
-[^5]: A 9. § (4) bekezdése 11. pontja a 238/2022. (VI. 30.) Korm. rendelet 210. §-ával megállapított szöveg.
+[^5]: A 9. § (4) bekezdés 9. pontja a 246/2023. (VI. 22.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^6]: A 9. § (4) bekezdése 11. pontja a 238/2022. (VI. 30.) Korm. rendelet 210. §-ával megállapított szöveg.
