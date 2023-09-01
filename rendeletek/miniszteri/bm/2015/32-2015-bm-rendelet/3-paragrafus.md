@@ -14,7 +14,9 @@ b) a büntetés-végrehajtási szervezet állománya esetében a Büntetés-vég
 
 c) a hivatásos katasztrófavédelmi szerv állománya esetében a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság személyügyi szerve,
 
-d)[^4] az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, illetve a Terrorelhárítási Információs és Bűnügyi Elemző Központ állománya esetében a helyi személyügyi szerv
+d)[^4]
+
+saját költségvetése terhére felel.
 
 [^3]: A 3. § a) pont ad) alpontját a 27/2019. (VI. 28.) BM rendelet 51. §-a iktatta be.
-[^4]: A 3. § d) pontja a 29/2016. (VII. 15.) BM rendelet 40. §-ával megállapított szöveg.
+[^4]: A 3. § d) pontját a 13/2023. (VI. 14.) MK rendelet 16. § b) pontja hatályon kívül helyezte.

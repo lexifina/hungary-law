@@ -1,1 +1,0 @@
-## saját költségvetése terhére felel.
