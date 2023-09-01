@@ -1,3 +1,3 @@
-18. §[^18]
+18. §[^19]
 
-[^18]: A 18. §-t az 54/2023. (II. 27.) Korm. rendelet 10. §-a hatályon kívül helyezte.
+[^19]: A 18. §-t az 54/2023. (II. 27.) Korm. rendelet 10. §-a hatályon kívül helyezte.
