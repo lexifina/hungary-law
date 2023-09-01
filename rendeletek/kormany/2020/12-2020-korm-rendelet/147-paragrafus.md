@@ -12,7 +12,7 @@ c) a szakképző intézményi tanulmányi versenyek programjáról.
 
 (3) A szakmai munkaközösség véleményét – szakterületét érintően –
 
-a)[^224] a szakképző intézmény szakmai programja, a szakképző intézmény által szervezett szakmai képzés képzési programja elfogadásához,
+a)[^225] a szakképző intézmény szakmai programja, a szakképző intézmény által szervezett szakmai képzés képzési programja elfogadásához,
 
 b) a szakmai oktatást segítő eszközök, a taneszközök, tankönyvek, segédkönyvek és tanulmányi segédletek kiválasztásához,
 
@@ -30,4 +30,4 @@ be kell szerezni.
 
 (7) A szakmai munkaközösséget munkaközösség-vezető irányítja, akit a szakmai munkaközösség véleményének kikérésével az igazgató bíz meg legfeljebb öt évre.
 
-[^224]: A 147. § (3) bekezdés a) pontja a 380/2021. (VI. 30.) Korm. rendelet 59. § 14. pontja szerint módosított szöveg.
+[^225]: A 147. § (3) bekezdés a) pontja a 380/2021. (VI. 30.) Korm. rendelet 59. § 14. pontja szerint módosított szöveg.

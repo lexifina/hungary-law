@@ -1,3 +1,3 @@
-19. §[^46]
+19. §[^47]
 
-[^46]: A 19. §-t a 631/2022. (XII. 30.) Korm. rendelet 10. § b) pontja hatályon kívül helyezte.
+[^47]: A 19. §-t a 631/2022. (XII. 30.) Korm. rendelet 10. § b) pontja hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-31/A. §[^84] A 25. § (1) bekezdés 9. pontja szerinti igazolásra a 26. §-t kell alkalmazni, azzal, hogy
+31/A. §[^85] A 25. § (1) bekezdés 9. pontja szerinti igazolásra a 26. §-t kell alkalmazni, azzal, hogy
 
 a) bizonyítvány alatt az igazolást kell érteni,
 
@@ -14,4 +14,4 @@ vonatkozó utalást,
 
 d) az igazolásban nem kell a 26. § (3) bekezdés b), e), f) és g) pontja szerinti adatot feltüntetni.
 
-[^84]: A 31/A. §-t a 380/2021. (VI. 30.) Korm. rendelet 18. §-a iktatta be.
+[^85]: A 31/A. §-t a 380/2021. (VI. 30.) Korm. rendelet 18. §-a iktatta be.

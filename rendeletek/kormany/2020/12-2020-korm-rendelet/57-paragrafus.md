@@ -8,7 +8,7 @@ c) az a) és b) pont szerinti nevet nemzetiségi vagy idegen nyelven
 
 használhat.
 
-(2)[^122] A szakképző intézmény hivatalos neve a szakképző intézmény azonosítására és más jogi személytől való megkülönböztetésére alkalmas, jogszabály szerinti olyan megnevezésből álló egyedi elnevezésből és az ellátott alapfeladatot tükröző megjelölésből álló név, amely kifejezi azt a tevékenységet, amelyre az adott szakképző intézményt létrehozták. Az ellátott alapfeladatot a hivatalos névben több szakképzési alapfeladat ellátása, illetve többcélú szakképző intézmény esetén a legjellemzőbb szakképzési alapfeladatra, illetve köznevelési alapfeladatra utalással lehet megjelölni.
+(2)[^123] A szakképző intézmény hivatalos neve a szakképző intézmény azonosítására és más jogi személytől való megkülönböztetésére alkalmas, jogszabály szerinti olyan megnevezésből álló egyedi elnevezésből és az ellátott alapfeladatot tükröző megjelölésből álló név, amely kifejezi azt a tevékenységet, amelyre az adott szakképző intézményt létrehozták. Az ellátott alapfeladatot a hivatalos névben több szakképzési alapfeladat ellátása, illetve többcélú szakképző intézmény esetén a legjellemzőbb szakképzési alapfeladatra, illetve köznevelési alapfeladatra utalással lehet megjelölni.
 
 (3) Egyedi elnevezésként
 
@@ -42,4 +42,4 @@ adható, ha az nem megtévesztő vagy a használatát jogszabály nem tiltja. Az
 
 (11) A szakképző intézmény a hivatalos nevét és a rövid nevét, ideértve a velük kapcsolatos nemzetiségi vagy idegen nevet is, kizárólag a székhelycímmel együtt használhatja.
 
-[^122]: Az 57. § (2) bekezdése a 319/2020. (VII. 1.) Korm. rendelet 24. § 2. pontja szerint módosított szöveg.
+[^123]: Az 57. § (2) bekezdése a 319/2020. (VII. 1.) Korm. rendelet 24. § 2. pontja szerint módosított szöveg.
