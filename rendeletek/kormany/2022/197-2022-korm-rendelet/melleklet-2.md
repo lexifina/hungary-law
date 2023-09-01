@@ -1,3 +1,3 @@
-2. melléklet a 197/2022. (VI. 4.) Korm. rendelethez[^83]
+2. melléklet a 197/2022. (VI. 4.) Korm. rendelethez[^84]
 
-[^83]: A 2. mellékletet a 2023. évi LIX. törvény 230. § j) pontja hatályon kívül helyezte.
+[^84]: A 2. mellékletet a 2023. évi LIX. törvény 230. § j) pontja hatályon kívül helyezte.

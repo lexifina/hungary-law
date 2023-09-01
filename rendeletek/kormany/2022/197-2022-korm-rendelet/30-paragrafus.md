@@ -16,7 +16,10 @@
 
 (8)[^81] E rendeletnek a Módr5. által megállapított 7. § (3)–(7) bekezdését az adózó utoljára a 2025. március 20. napjáig esedékes befizetési kötelezettségre alkalmazza.
 
+(9)[^82] E rendeletnek a Módr5. által megállapított 22. §-át és 22/A. §-át első alkalommal a 2023. szeptember hónapra vonatkozó bányajáradék bevallása során kell alkalmazni.
+
 [^78]: A 30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 206/2023. (V. 31.) Korm. rendelet 11. §-a iktatta be.
 [^79]: A hatálybalépés időpontja 2023. június 1.
 [^80]: A 30. § (7) bekezdését a 317/2023. (VII. 17.) Korm. rendelet 8. § (1) bekezdése iktatta be.
 [^81]: A 30. § (8) bekezdését a 317/2023. (VII. 17.) Korm. rendelet 8. § (1) bekezdése iktatta be.
+[^82]: A 30. § (9) bekezdését a 317/2023. (VII. 17.) Korm. rendelet 8. § (2) bekezdése iktatta be.
