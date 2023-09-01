@@ -1,1 +1,3 @@
-### 40. §
+40. § Az Nftv. 51. §-a a következő (7) bekezdéssel egészül ki:
+
+„(7) A kiadott oklevelekről és mikrotanúsítványokról a felsőoktatási intézmény tanulmányi rendszeréből közhiteles adatot szolgáltat, az oklevelekről és a mikrotanúsítványokról nyilvántartást vezet. E nyilvántartás alapján a felsőoktatási intézmény az adott okiratot megszerző kérelmére hiteles másolatot állít ki. Az oklevelet és a mikrotanúsítványt megszerző személy kérésére elektronikus másolat formájában is kiállítja, amelyet az intézmény elektronikus aláírásával és olyan szolgáltató által kiadott időbélyegzővel kell ellátni, amely e szolgáltatást minősített szolgáltatóként nyújtja.”
