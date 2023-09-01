@@ -1,5 +1,3 @@
-## A vizsgák tartalma, módszerei, időtartama, személyi és tárgyi feltételei
-
 ## Az I. programot követő vizsga
 
 ## A vizsgázónak a közlekedési jogszabályok és a járművezetés elmélete tárgyköréből a közlekedésért felelős miniszter által kiadott vizsgalapot kell kitöltenie.

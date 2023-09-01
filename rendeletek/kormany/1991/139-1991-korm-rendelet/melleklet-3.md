@@ -1,6 +1,6 @@
 3. számú melléklet a 139/1991. (X. 29.) Korm. rendelethez[^22]
 
-## A feltárás során alkalmazható módszerek
+A feltárás során alkalmazható módszerek
 
 A feltárást a vizsgaközpont által működtetett feltáró csoport (explorációs team) végzi, amely legalább három tagú, vezetőjét a vizsgaközpont bízza meg a foglalkozásvezetői jogosultsággal rendelkező személyek közül. A csoportot úgy kell összeállítani, hogy abban valamennyi program végzésére legyen minősített szakember.
 
