@@ -83,13 +83,3 @@ bb) leírhatóak az említett tőkeelemekből, és
 amelyek folyamatosan tükrözik a befektetési vállalkozás kitettségeinek minőségét azzal, hogy ezekre az eszközökre a visszatartási politika megfelelően vonatkozik. A visszatartási politika célja az egyéni ösztönzők összhangba hozatala a befektetési vállalkozás, annak hitelezői és ügyfelei hosszú távú érdekeivel.
 
 18a. Ha a befektetési vállalkozás nem bocsát ki a 18. pont szerinti instrumentumokat, a Felügyelet az ugyanazon célkitűzéseknek megfelelő alternatív megoldások alkalmazását is jóváhagyhatja. A Felügyelet korlátozásokat vezethet be az említett instrumentumok típusaira és azok kialakítására vagy megtilthatja bizonyos instrumentumok teljesítményjavadalmazáshoz való használatát.
-
-19. Ha a befektetési vállalkozás pénzügyi teljesítménye a belső szabályzatban meghatározottak szerinti mértékben azért romlik, mert az adott vezető állású személy, munkavállaló túlzott kockázatot vállalt, a vezető állású személy, munkavállaló kifizetendő teljesítményjavadalmazását csökkenteni kell.
-
-20. A teljesítményjavadalmazás legalább 40 százalékát – a belső szabályzatban meghatározott küszöbértéknél magasabb összegű teljesítményjavadalmazás esetén legalább 60 százalékát – halasztva, az üzleti tevékenység természetétől, kockázataitól és az adott vezető állású személy, munkavállaló tevékenységeitől függően legalább 3–5 éves időszak alatt időarányosan elosztva kell kifizetni. A halasztási időszak hosszát az üzleti ciklusnak, az üzlet jellegének, kockázatainak és az érintett munkavállaló tevékenységeinek megfelelően kell megállapítani.
-
-20a. A teljesítményjavadalmazást csökkenteni kell, ha a befektetési vállalkozás pénzügyi teljesítménye jelentősen visszaesik vagy negatív, figyelembe véve az aktuális javadalmazást és a csökkentési vagy visszakövetelési szabályokat.
-
-21. A teljesítményjavadalmazás 100 százalékára csökkentési lehetőség vagy visszakövetelési szabályok alkalmazhatóak. A befektetési vállalkozás a belső szabályzatában konkrét kritériumokat határoz meg a csökkentési vagy a visszakövetelési szabályok alkalmazására, amelyben tekintettel van arra, hogy a vezető állású személy vagy a munkavállaló
-
-a) olyan magatartás részese volt-e, amely jelentős veszteséget okozott a befektetési vállalkozásnak, vagy felelős volt-e a befektetési vállalkozás számára bekövetkezett jelentős veszteségért, és

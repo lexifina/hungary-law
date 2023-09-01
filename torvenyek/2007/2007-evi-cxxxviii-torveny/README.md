@@ -65,3 +65,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-138-00-00
 | 2023-03-23 | 2022. évi LXIX. törvény | 2007-138-00-00.72 |
 | 2023-06-24 | 2023. évi XXXIX. törvény | 2007-138-00-00.74 |
 | 2023-07-24 | 2023. évi XXV. törvény | 2007-138-00-00.73 |
+| 2023-09-01 | 2023. évi XXXIX. törvény | 2007-138-00-00.75 |

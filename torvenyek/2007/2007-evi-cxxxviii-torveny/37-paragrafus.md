@@ -6,6 +6,8 @@
 
 37. § (1) A befektetési vállalkozásban történő minősített befolyás megszerzéséhez a Felügyelet előzetes engedélye szükséges.
 
+(1a) Az (1) bekezdéstől eltérően nem szükséges a Felügyelet engedélye, ha a minősített befolyást szerző a befektetési vállalkozással egy csoportba tartozik, és a minősített befolyás megszerzésére vagy a határérték növekedésére a csoporton belül egyesülés, szétválás vagy átalakulás következtében kerül sor.
+
 (2) Az (1) bekezdés szerinti engedély iránti kérelemhez mellékelni kell – a (2b) bekezdésében foglaltak figyelembevételével –:
 
 a) a kérelmező természetes személyazonosító adatait,
