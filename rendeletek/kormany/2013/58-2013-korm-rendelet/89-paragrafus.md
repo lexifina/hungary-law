@@ -10,18 +10,18 @@
 
 (3) A víziközmű-szolgáltató az üzletszabályzat tervezetének honlapon történő közzétételét követően legalább 20 napos véleményezési határidőt köteles biztosítani. A beérkezett véleményeket, észrevételeket és az ezekről folytatott egyeztetések eredményét a véleményezési határidő lejárta után a víziközmű-szolgáltató 5 napon belül jegyzőkönyvben rögzíti.
 
-(4)[^312] A víziközmű-szolgáltató az üzletszabályzat jóváhagyására irányuló kérelmét a véleményezési határidő lejártát követő 15 napon belül megküldi a Hivatal részére. A kérelemhez mellékelni kell az üzletszabályzat honlapon történő közzétételéről szóló hitelt érdemlő igazolást, valamint a víziközmű-szolgáltató által a szabályzat kidolgozásánál el nem fogadott észrevételeket, továbbá az ezekről lefolytatott egyeztetések jegyzőkönyvét is.
+(4)[^319] A víziközmű-szolgáltató az üzletszabályzat jóváhagyására irányuló kérelmét a véleményezési határidő lejártát követő 15 napon belül megküldi a Hivatal részére. A kérelemhez mellékelni kell az üzletszabályzat honlapon történő közzétételéről szóló hitelt érdemlő igazolást, valamint a víziközmű-szolgáltató által a szabályzat kidolgozásánál el nem fogadott észrevételeket, továbbá az ezekről lefolytatott egyeztetések jegyzőkönyvét is.
 
 (5) A Hivatal a jóváhagyási eljárás keretében a fennmaradt vitás kérdésekben is dönt. Az üzletszabályzatot legfeljebb 3 évre jóváhagyja, a jóváhagyást feltételekhez köti, vagy a jóváhagyást megtagadja.
 
 (6) Amennyiben a Hivatal a jóváhagyást megtagadta, úgy a víziközmű-szolgáltató a határozatban foglaltak szerint köteles átdolgozni az üzletszabályzatot, és újra benyújtani jóváhagyásra.
 
-(6a)[^313] Az üzletszabályzat módosítására az üzletszabályzat jóváhagyására vonatkozó eljárási szabályokat kell alkalmazni.
+(6a)[^320] Az üzletszabályzat módosítására az üzletszabályzat jóváhagyására vonatkozó eljárási szabályokat kell alkalmazni.
 
 (7) A víziközmű-szolgáltató a Hivatal által jóváhagyott – módosításokkal egységes szerkezetbe foglalt – üzletszabályzatát a Hivatal jóváhagyó határozatának közlésétől számított 3 napon belül a honlapján közzéteszi.
 
-(8)[^314] A víziközmű-szolgáltató az üzletszabályzatát évente felülvizsgálja. Az üzletszabályzat felülvizsgálatának ki kell terjednie a jogszabályok és a kapcsolódó szabályzatok változására és a víziközmű-szolgáltató által alkalmazott működési gyakorlatból eredő változásokra, valamint szerződéses rendszerekre. Ha a felülvizsgálat során a víziközmű-szolgáltató megállapítja, hogy a változás a jóváhagyott üzletszabályzat tartalmát lényegesen érinti, a módosítást átvezeti, és a változásokkal egységes szerkezetbe foglalt üzletszabályzat tervezetét haladéktalanul benyújtja a Hivatalhoz, amely az e rendeletben foglaltak szerint dönt annak jóváhagyásáról. Ha a felülvizsgálat alapján nem indokolt az üzletszabályzat módosítása, a víziközmű-szolgáltató erről elektronikus úton tájékoztatja a Hivatalt.
+(8)[^321] A víziközmű-szolgáltató az üzletszabályzatát évente felülvizsgálja. Az üzletszabályzat felülvizsgálatának ki kell terjednie a jogszabályok és a kapcsolódó szabályzatok változására és a víziközmű-szolgáltató által alkalmazott működési gyakorlatból eredő változásokra, valamint szerződéses rendszerekre. Ha a felülvizsgálat során a víziközmű-szolgáltató megállapítja, hogy a változás a jóváhagyott üzletszabályzat tartalmát lényegesen érinti, a módosítást átvezeti, és a változásokkal egységes szerkezetbe foglalt üzletszabályzat tervezetét haladéktalanul benyújtja a Hivatalhoz, amely az e rendeletben foglaltak szerint dönt annak jóváhagyásáról. Ha a felülvizsgálat alapján nem indokolt az üzletszabályzat módosítása, a víziközmű-szolgáltató erről elektronikus úton tájékoztatja a Hivatalt.
 
-[^312]: A 89. § (4) bekezdése a 243/2023. (VI. 20.) Korm. rendelet 17. § 19. pontja szerint módosított szöveg.
-[^313]: A 89. § (6a) bekezdését a 342/2016. (XI. 17.) Korm. rendelet 31. § (1) bekezdése iktatta be.
-[^314]: A 89. § (8) bekezdését a 342/2016. (XI. 17.) Korm. rendelet 31. § (2) bekezdése iktatta be, szövege a 243/2023. (VI. 20.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^319]: A 89. § (4) bekezdése a 243/2023. (VI. 20.) Korm. rendelet 17. § 19. pontja szerint módosított szöveg.
+[^320]: A 89. § (6a) bekezdését a 342/2016. (XI. 17.) Korm. rendelet 31. § (1) bekezdése iktatta be.
+[^321]: A 89. § (8) bekezdését a 342/2016. (XI. 17.) Korm. rendelet 31. § (2) bekezdése iktatta be, szövege a 243/2023. (VI. 20.) Korm. rendelet 12. §-ával megállapított szöveg.
