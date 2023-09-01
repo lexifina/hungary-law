@@ -1,0 +1,1 @@
+1. § A Kormány a pedagógusok új életpályájáról szóló 2023. évi LII. törvény 98. § (5) bekezdése és 157. § (13) bekezdése szerinti esélyteremtési illetményrészre való jogosultság szempontjából figyelembe veendő kedvezményezett és felzárkózó települések listáját az 1. melléklet szerint állapítja meg.

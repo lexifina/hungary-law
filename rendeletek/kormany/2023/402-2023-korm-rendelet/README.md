@@ -1,0 +1,9 @@
+# 402/2023. (VIII. 30.) Korm. rendelet
+
+a pedagógusok új életpályájáról szóló törvény szerinti felzárkózó és kedvezményezett települések listájáról, valamint egyes közneveléssel összefüggő kormányrendeletek módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-402-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2023-09-01 | 2023-402-20-22.1 | 402/2023. (VIII. 30.) Korm. rendelet |
