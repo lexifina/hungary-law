@@ -45,3 +45,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-326-20-
 | 2023-01-01 | 2013-326-20-22.37 | 533/2022. (XII. 19.) Korm. rendelet |
 | 2023-07-20 | 2013-326-20-22.38 | 331/2023. (VII. 19.) Korm. rendelet |
 | 2023-08-31 | 2013-326-20-22.39 | 405/2023. (VIII. 30.) Korm. rendelet |
+| 2023-09-01 | 2013-326-20-22.40 | 402/2023. (VIII. 30.) Korm. rendelet |

@@ -2,9 +2,9 @@
 
 ## 16. Vegyes és átmeneti rendelkezések
 
-35. § (1)[^250] Az óvoda kivételével a nevelési-oktatási intézményekben
+35. § (1)[^262] Az óvoda kivételével a nevelési-oktatási intézményekben
 
-a)[^251] alkalmazott vezetők kötelező létszámát a 3. melléklet,
+a)[^263] alkalmazott vezetők kötelező létszámát a 3. melléklet,
 
 b) foglalkoztatott nevelő és oktató munkát közvetlenül segítő alkalmazottak körét és finanszírozott létszámát a 4. melléklet
 
@@ -16,21 +16,17 @@ a) a gyermekek, tanulók finanszírozott heti foglalkoztatási időkerete,
 
 b) az átlag csoport- és osztálylétszám, valamint
 
-c) a neveléssel-oktatással lekötött munkaidő alsó határa.
+c)[^264] a neveléssel-oktatással lekötött munkaidő.
 
 (3) A köznevelési intézmény közalkalmazottjának, munkavállalójának a fizetési kategóriák – a Kjt. előmeneteli és illetményrendszere hatálya alá tartozók esetében a fizetési fokozatok – közötti várakozási idejét egy évvel csökkenteni kell, ha törvénnyel alapított kitüntetést vagy díjat, vagy miniszter által alapított díjat kapott.
 
-(4)[^252] A pedagógus-szakvizsgával egyenértékű a munkakör ellátásához szükséges végzettséghez és szakképzettséghez kapcsolódó szakterületen szerzett tudományos fokozat, valamint a doktori cselekmény alapján szerzett doktori cím. A pedagógus-szakvizsgával egyenértékű, továbbá
+(4)[^265] A pedagógus-szakvizsgával egyenértékű
 
-a) a klinikai, a pedagógiai, az óvoda- és iskola-, a neuropszichológiai, a tanácsadó szakpszichológusi,
+a) a munkakör ellátásához szükséges végzettség és szakképzettség mellett az egyetemi vagy főiskolai szakirányú továbbképzésben szerzett – jogszabályban meghatározott – szakképzettség,
 
-b) a fogyatékosság típusának megfelelő szakorvos,
+b) a munkakör ellátásához szükséges végzettséghez és szakképzettséghez kapcsolódó szakterületen szerzett tudományos fokozat, illetve a doktori cselekmény alapján szerzett doktori cím, valamint
 
-c) a gyermek- és ifjúsági pszichiátria, csecsemő- és gyermekgyógyászat vagy gyermekneurológia szakorvos,
-
-d) a szociális
-
-szakvizsga.
+c) klinikai, pedagógiai, óvoda- és iskola-, neuropszichológiai vagy tanácsadó szakpszichológiai szakvizsga, a fogyatékosság típusának megfelelő szakorvos vagy gyermek- és ifjúsági pszichiátria, csecsemő- és gyermekgyógyászat vagy gyermekneurológia szakorvos szakvizsga és a szociális szakvizsga.
 
 (5) Az iskolapszichológus kötelező létszámát az iskola tanulólétszáma alapján kell meghatározni oly módon, hogy 500 tanulónként egy, a teljes munkaidő ötven százalékában foglalkoztatott iskolapszichológust kell alkalmazni.
 
@@ -38,6 +34,7 @@ szakvizsga.
 
 (7) A köznevelési intézményben a közalkalmazotti jogviszony létesítésekor nem kell alkalmazni a Kjt. 20. § (2) bekezdés c) pontját.
 
-[^250]: A 35. § (1) bekezdés nyitó szövegrésze a 99/2014. (III. 25.) Korm. rendelet 13. § h) pontjával megállapított szöveg.
-[^251]: A 35. § (1) bekezdés a) pontja a 235/2016. (VII. 29.) Korm. rendelet 37. § 16. pontja, a 13/2020. (II. 7.) Korm. rendelet 88. § (1) bekezdés 3. pontja szerint módosított szöveg.
-[^252]: A 35. § (4) bekezdése a 278/2019. (XI. 21.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^262]: A 35. § (1) bekezdés nyitó szövegrésze a 99/2014. (III. 25.) Korm. rendelet 13. § h) pontjával megállapított szöveg.
+[^263]: A 35. § (1) bekezdés a) pontja a 235/2016. (VII. 29.) Korm. rendelet 37. § 16. pontja, a 13/2020. (II. 7.) Korm. rendelet 88. § (1) bekezdés 3. pontja szerint módosított szöveg.
+[^264]: A 35. § (2) bekezdés c) pontja a 402/2023. (VIII. 30.) Korm. rendelet 10. § e) pontja szerint módosított szöveg.
+[^265]: A 35. § (4) bekezdése a 402/2023. (VIII. 30.) Korm. rendelet 9. § (6) bekezdésével megállapított szöveg.

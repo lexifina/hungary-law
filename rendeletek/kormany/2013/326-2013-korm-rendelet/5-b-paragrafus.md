@@ -1,4 +1,4 @@
-5/B. §[^29] (1) Az 5/A. § szerinti minősítés keretében
+5/B. §[^30] (1) Az 5/A. § szerinti minősítés keretében
 
 a) az 1. § (2a) bekezdésében meghatározott személyek a címzetes fokozat megszerzésére irányuló minősítő vizsgán, minősítési eljárásban, pályázati eljárásban a 10/A. § (2) bekezdésében meghatározott határidőig történő jelentkezésük alapján vehetnek részt,
 
@@ -10,7 +10,7 @@ bb) az informatikai rendszerhez nem kapcsolódó intézmény által foglalkoztat
 
 c) címzetes Mesterpedagógus fokozatra a 17/A. § (8) bekezdése szerinti tevékenységgel kapcsolatos mesterprogram megvalósítására adható be jelentkezés.
 
-(2)[^30] Ha az 1. § (2a) bekezdésében meghatározott személy éves minősítési tervbe történő felvételekor a jelentkező megfelel
+(2)[^31] Ha az 1. § (2a) bekezdésében meghatározott személy éves minősítési tervbe történő felvételekor a jelentkező megfelel
 
 a) a Pedagógus I. fokozatra irányuló minősítő vizsgán való részvétel vonatkozásában, vagy
 
@@ -20,5 +20,5 @@ jogszabályban meghatározott feltételeknek és a köznevelésért felelős min
 
 (3) A (2) bekezdésben meghatározottak kivételével a minősítési tervbe történő felvétel során a 10/C. § (3) bekezdése alapján kell eljárni, azzal, hogy a Pedagógus II. fokozatra jelentkezők közül előnyben kell részesíteni azt, aki esetében a minősítés eredménye az illetményére kiható hatással bír.
 
-[^29]: Az 5/B. §-t a 455/2020. (X. 20.) Korm. rendelet 3. §-a iktatta be.
-[^30]: Az 5/B. § (2) bekezdés záró szövegrésze a 238/2022. (VI. 30.) Korm. rendelet 129. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^30]: Az 5/B. §-t a 455/2020. (X. 20.) Korm. rendelet 3. §-a iktatta be.
+[^31]: Az 5/B. § (2) bekezdés záró szövegrésze a 238/2022. (VI. 30.) Korm. rendelet 129. § (2) bekezdés a) pontja szerint módosított szöveg.
