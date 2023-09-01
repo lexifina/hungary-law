@@ -31,7 +31,3 @@ Tájékoztató a betéteseknek
 ## Amennyiben ezeken a határidőkön belül nem kapja meg a kártalanítást, úgy vegye fel a kapcsolatot a betétbiztosítási rendszerrel.
 
 ## További tájékoztatásért látogasson el a következő weboldalra: www.oba.hu
-
-## Egyéb fontos információk
-
-## A betétbiztosítási rendszerek általában minden lakossági betétes és vállalkozás számára védelmet nyújtanak. A kivételek, amelyek meghatározott betétekre vonatkoznak, megtalálhatók a betétbiztosítási rendszer weboldalán. Kérésre a hitelintézet is tájékoztatja Önt arról, hogy a védelem kiterjed-e bizonyos termékekre vagy sem. A hitelintézet a számlakivonaton is feltünteti, hogy a betétek védelem alá esnek-e.

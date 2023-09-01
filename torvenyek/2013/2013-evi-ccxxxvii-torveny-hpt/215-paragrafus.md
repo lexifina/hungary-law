@@ -1,6 +1,6 @@
 215. § (1) Az OBA által biztosított betétek esetében a hitelintézet és a betétes közötti beszámításnak kizárólag akkor van helye, ha a betétesnek a hitelintézettel szemben a kártalanítás 217. § (1) bekezdésében meghatározott kezdő időpontját megelőzően lejárt tartozása van. A beszámítás feltétele, hogy a hitelintézet a betétre vonatkozó szerződés megkötésekor a vonatkozó szerződési feltételek rögzítésével tájékoztatja a betétest az e bekezdés szerinti beszámításról a kártalanítási összeg meghatározásánál.
 
-(2) A hitelintézet kártalanítás esetén a betétekre vonatkozó adatok átadásával egyidejűleg köteles a beszámítási igényét az OBA-val közölni. A hitelintézet köteles a szerződési feltételek bemutatásával igazolni, hogy az (1) bekezdésnek megfelelően tájékoztatta a betétest. Ha a beszámításra sor kerül, akkor az OBA a 214. § szerinti összegből a hitelintézetet megillető és részére átutalt összeg levonása után fennmaradó összeget fizeti ki a betétes részére.
+(2) A hitelintézet kártalanítás esetén a betétekre vonatkozó adatok átadásával egyidejűleg köteles a beszámítási igényét az OBA-val közölni. Ha a beszámításra sor kerül, akkor az OBA az ügyfél szabad rendelkezése alatt álló betétkövetelés összegéből a hitelintézetet megillető összeg levonása után fennmaradó összeget fizeti ki a betétes részére. Az OBA a hitelintézetet megillető összeggel szemben jogosult a Cstv. alapján beszámítási jogát gyakorolni.
 
 (3) A kártalanítás mértékének megállapítása során az ügyfélnek az OBA tagjánál fennálló valamennyi betétkövetelését össze kell számítani.
 

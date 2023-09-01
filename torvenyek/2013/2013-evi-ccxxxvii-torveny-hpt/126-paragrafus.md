@@ -10,9 +10,9 @@ b) befolyásoló részesedést úgy kívánja módosítani, hogy az elérje a 20
 
 (3) A pénzügyi intézmény tagja a tagi részesedéséhez vagy a szavazati joghoz kapcsolódó, annak arányát meghaladó előnyöket biztosító megállapodást csak a Felügyelet engedélyével köthet.
 
-(4) Pénzügyi intézményben befolyásoló részesedéssel rendelkező vállalkozásban többségi részesedés szerzéséhez a Felügyelet engedélye szükséges.
+(4) Az (1) bekezdéstől eltérően nem szükséges a Felügyelet engedélye, ha a befolyásoló részesedést szerző vagy a meghatározott határértéket átlépő személy a pénzügyi intézménnyel egy csoportba tartozik, és a befolyásoló részesedés megszerzésére vagy a határérték növekedésére a csoporton belül egyesülés, szétválás vagy átalakulás következtében kerül sor.
 
-(5) Az (1)–(4) bekezdés szerinti engedély iránti kérelem tartalmazza
+(5) Az (1)–(3) bekezdés szerinti engedély iránti kérelem tartalmazza
 
 a) a pénzügyi intézményben befolyásoló részesedéssel rendelkező megnevezését,
 

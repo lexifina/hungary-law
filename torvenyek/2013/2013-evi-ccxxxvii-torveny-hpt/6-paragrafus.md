@@ -488,6 +488,8 @@ d) az önkéntes kölcsönös biztosító pénztár által nyújtott tagi kölcs
 
 e) az önkormányzat által adott lakáscélú vagy szociális kölcsön.
 
+f) a tőkévé konvertálható kölcsönnek a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény szerinti korlátozott körű, egy naptári évben legfeljebb tizenöt alkalommal történő nyújtása, amennyiben a nyújtott kölcsönök összesített állománya természetes személy esetében legfeljebb ötszázmillió forint, jogi személy esetében legfeljebb kettőmilliárd forint.
+
 (6) Nem minősül pénzügyi lízingnek az anyavállalat és a leányvállalata közötti lízing, ide nem értve a pénzügyi intézmény által kötött ilyen ügyletet.
 
 (6a) Nem minősül pénzügyi szolgáltatás közvetítésének az (EU) 2020/1503 európai parlamenti és tanácsi rendeletben meghatározott közösségi finanszírozási szolgáltatás.

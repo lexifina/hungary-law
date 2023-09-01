@@ -1,6 +1,6 @@
 129. § (1) A Felügyelet a 126. § (1) és (3) bekezdésében meghatározott kérelem átvételét a benyújtástól számított két munkanapon belül, írásban igazolja a kérelmező, illetve a befolyással rendelkező felé (a továbbiakban: átvételi igazolás), és egyben tájékoztatja a (2)–(6) bekezdésben meghatározott ügyintézési határidőről. Ez a rendelkezés megfelelően alkalmazandó a hiánypótlás esetében is.
 
-(2) A Felügyelet az átvételi igazolás kiállításától számított hatvan munkanapon belül megvizsgálja a befolyásszerzési szándékot abból a szempontból, hogy annak megvalósulását követően az e törvényben foglaltak teljesítése biztosítható-e.
+(2) A Felügyelet a kérelemhez csatolandó valamennyi dokumentum – azaz a teljes kérelem – benyújtását követő átvételi igazolás (a továbbiakban: teljességi igazolás) kiállításától számított hatvan munkanapon belül megvizsgálja a befolyásszerzési szándékot abból a szempontból, hogy annak megvalósulását követően az e törvényben foglaltak teljesítése biztosítható-e.
 
 (3) A Felügyelet az e törvényben meghatározott információk hiányos vagy nem megfelelő módon való benyújtása esetén az átvételi igazolás kiállításától számított ötven munkanapon belül, az értékelés befejezéséhez szükséges információk megjelölésével, írásban további tájékoztatást, illetve a hiányok pótlását kérheti (a továbbiakban: hiánypótlás).
 

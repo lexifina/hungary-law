@@ -36,7 +36,7 @@ kártalanítási kötelezettség alá tartozó részének (a továbbiakban: díj
 
 (2a) A díjfizetési alap meghatározásánál nem kell figyelembe venni százezer eurónál nagyobb összegben azokat a betéteket, amelyekre a 214/A. § alapján magasabb kártalanítási összeghatár vonatkozik.
 
-(3) Az éves befizetés összegét a hitelintézet minden évben negyedéves részletekben, legkésőbb a tárgynegyedév tizenötödik napjáig köteles befizetni az OBA pénzforgalmi számlájára.
+(3) Az éves befizetés összegét a hitelintézet az OBA igazgatótanácsa által elfogadott Díjfizetési Szabályzatában meghatározott ütemezés szerint köteles befizetni az OBA pénzforgalmi számlájára.
 
 (4) A hitelintézet által fizetendő díj összegének meghatározása azon nyilatkozatok alapján történik, amelyeket a hitelintézet továbbít az OBA-nak az OBA szabályzatában meghatározott formában és időpontban.
 
