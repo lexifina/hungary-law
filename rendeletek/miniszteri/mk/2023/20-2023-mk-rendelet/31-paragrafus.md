@@ -1,0 +1,1 @@
+31. § A Hszt. 97. §-a szerinti áthelyezéssel kapcsolatosan felmerült költségek azt a polgári nemzetbiztonsági szolgálatot terhelik, akinek a kezdeményezésére a hivatásos állomány tagjának áthelyezése történt.
