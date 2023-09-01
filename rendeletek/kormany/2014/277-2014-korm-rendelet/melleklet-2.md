@@ -1,5 +1,3 @@
-## Vasúti bírságok
-
 |  | Jogsértő tevékenység | Bírság összege (Ft) |
 
 | I. | Vasúti pályahálózat vonatkozásában |  |

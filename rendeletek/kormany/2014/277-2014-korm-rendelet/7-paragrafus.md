@@ -4,4 +4,6 @@ a) a közösségi vasutak biztonságáról, valamint a vasúttársaságok enged�
 
 b) a közösségi vasúti rendszereken mozdonyokat és vonatokat működtető mozdonyvezetők minősítéséről szóló, 2007. október 23-i 2007/59/EK európai parlamenti és tanácsi irányelv 30. cikkének
 
+való megfelelést szolgálja.
+
 [^6]: A 7. §-t a 193/2016. (VII. 13.) Korm. rendelet 28. §-a iktatta be.
