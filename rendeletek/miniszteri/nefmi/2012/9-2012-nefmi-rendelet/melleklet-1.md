@@ -968,6 +968,30 @@ a meghatározás a mintában valamely anyag mennyiségének, koncentrációjána
 
 ## 16644* Meddőségi vizsgálat, bővített II.
 
+6.6. Robotterápiás vagy egyéb computerizált interaktív terápiás egészségügyi eljárások
+
+|  | OENO kód | Egészségügyi eljárás |
+
+| 1. | 84811 | Alsó végtagi interaktív eszközzel végzett terápia |
+
+| 2. | 84812 | Alsó végtagi robotterápia |
+
+| 3. | 84813 | Egyensúly fejlesztő tréning interaktív eszközzel |
+
+| 4. | 84814 | Exoskeletonnal történő (robotos) járásgyakorlás |
+
+| 5. | 84815 | Felső végtagi interaktív eszközzel végzett terápia |
+
+| 6. | 84816 | Felső végtagi robotterápia |
+
+| 7. | 84817 | Funkcionális elektromos stimuláció (FES) – alsó végtagi |
+
+| 8. | 84818 | Funkcionális elektromos stimuláció (FES) – felső végtagi |
+
+| 9. | 84819 | Mozgáselemzés egy területre (felső végtag, törzs, járás) vonatkozólag szenzoros, computeres mozgáselemző rendszerrel |
+
+## Az alábbi listából egy megjelenés során egy beteg részére legfeljebb három különböző egészségügyi eljárás számolható el:
+
 7. Vizsgálat elszámolási szabályai szakmák szerint
 
 A „11041 Vizsgálat” és „11042 Vizsgálat a rendelőn kívül” egészségügyi eljárások meghatározása szakmánként részletezve:
@@ -1019,4 +1043,4 @@ A „11041 Vizsgálat” és „11042 Vizsgálat a rendelőn kívül” egészs�
 | 22. | Urológia | Részletes anamnézis felvétele mellett teljeskörű fizikális vizsgálat, mely a következőkből áll: a vesék, a hólyag, a herék, a mellékherék vizsgálata, a prosztata vizsgálata. A vizsgálattal egyidejűleg a rectalis vizsgálat (13200) nem számolható el. |
 
 [^13]: A 17. §-t a 33/2020. (IX. 16.) EMMI rendelet 6. §-a iktatta be.
-[^14]: Az 1. melléklet az 55/2012. (XII. 28.) EMMI rendelet 10. § (1) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 5. § (1) bekezdése, a 31/2015. (VI. 12.) EMMI rendelet 3. § (1) bekezdése, a 32/2016. (X. 27.) EMMI rendelet 5. § (1) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 82. § b) pontja, a 15/2018. (VI. 28.) EMMI rendelet 6. § (1) bekezdése, a 15/2019. (VII. 26.) EMMI rendelet 2. § (1) bekezdése, a 2/2020. (I. 30.) EMMI rendelet 3. § (1) bekezdése szerint módosított szöveg.
+[^14]: Az 1. melléklet az 55/2012. (XII. 28.) EMMI rendelet 10. § (1) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 5. § (1) bekezdése, a 31/2015. (VI. 12.) EMMI rendelet 3. § (1) bekezdése, a 32/2016. (X. 27.) EMMI rendelet 5. § (1) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 82. § b) pontja, a 15/2018. (VI. 28.) EMMI rendelet 6. § (1) bekezdése, a 15/2019. (VII. 26.) EMMI rendelet 2. § (1) bekezdése, a 2/2020. (I. 30.) EMMI rendelet 3. § (1) bekezdése, a 33/2023. (VIII. 24.) BM rendelet 2. § (1) bekezdése szerint módosított szöveg.
