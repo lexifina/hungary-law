@@ -22,7 +22,7 @@ d) mester- és doktori képzést
 
 jogosult folytatni.
 
-(3) A felsőoktatási intézmény akkor rendelkezik a feladatai ellátásához szükséges feltételekkel, ha – az alapító okiratában meghatározott feladatai figyelembevételével – a folyamatos működéséhez szükséges személyi, szervezeti feltételek, tárgyi és pénzügyi eszközök, valamint az intézményi dokumentumok rendelkezésére állnak.
+(3) A felsőoktatási intézmény akkor rendelkezik a feladatai ellátásához szükséges feltételekkel, ha – az alapító okiratában meghatározott feladatai figyelembevételével – a folyamatos működéséhez szükséges személyi, szervezeti feltételek, tárgyi és pénzügyi eszközök, valamint az intézményi dokumentumok, tanulmányi rendszerében kötelezően tárolt nyilvántartások és adatok rendelkezésére állnak.
 
 (4) A felsőoktatási intézmény állami elismeréssel jön létre.
 

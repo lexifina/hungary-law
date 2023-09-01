@@ -6,7 +6,9 @@ a) a tanulmányaihoz kapcsolódó résztanulmányok folytatása céljából más
 
 b) kérheti átvételét azonos, illetve másik felsőoktatási intézmény ugyanazon képzési területhez tartozó szakjára.
 
-(2) A felsőoktatási intézmény a vele hallgatói jogviszonyban nem álló személyeket – részismereti képzés céljából – hallgatói jogviszony keretében, az intézmény bármely kurzusára, moduljára – külön felvételi eljárás nélkül – önköltséges képzésre felveheti. Az intézmény a tanulmányi teljesítményről a tanulmányi rendszeréből a tárgyleírást (tematika) is tartalmazó igazolást köteles kiállítani. Az elvégzett kurzus, modul teljesítése felsőfokú tanulmányokba a kreditátvitel szabályai szerint beszámítható.
+(1a) A felsőoktatási intézmény az (1) bekezdés a) pontja szerinti tanulmányi teljesítményről a tanulmányi rendszeréből a tárgyleírást (tematika) is tartalmazó mikrotanúsítványt állít ki és azt elektronikusan a tanulmányi rendszeren keresztül átadja azon felsőoktatási intézmény tanulmányi rendszerének, amellyel a vendéghallgató hallgatói jogviszonyban áll.
+
+(2) A felsőoktatási intézmény a vele hallgatói jogviszonyban nem álló személyeket – részismereti képzés céljából – hallgatói jogviszony keretében, az intézmény bármely kurzusára, moduljára – külön felvételi eljárás nélkül – önköltséges képzésre felveheti. Az intézmény a tanulmányi teljesítményről a tanulmányi rendszeréből a tárgyleírást (tematika) is tartalmazó mikrotanúsítványt köteles kiállítani. Az elvégzett kurzus, modul teljesítése felsőfokú tanulmányokba a kreditátvitel szabályai szerint beszámítható.
 
 (3) Az (1)–(2) bekezdésekben meghatározott kérelmek teljesítésének feltételeit a fogadó felsőoktatási intézmény határozza meg.
 

@@ -215,19 +215,3 @@
 4. melléklet a 2011. évi CCIV. törvényhez
 
 A Bursa Hungarica Felsőoktatási Önkormányzati Ösztöndíjrendszer pályázati eljárása keretében nyilvántartott és kezelt személyes és különleges adatok
-
-1. E törvény által nyilvántartott adatok, az ösztöndíjra pályázó és az ösztöndíjban részesülő személy
-
-a) természetes személyazonosító adatai
-
-b) adóazonosító jele
-
-c) lakóhelye
-
-d) elérhetősége
-
-e) a felsőfokú képzésére vonatkozó adatok
-
-f) érettségi éve
-
-g) a pályázó szociális rászorultságát igazoló – a pályázóra, a pályázó közeli hozzátartozóira, illetve a pályázóval egy háztartásban élőkre vonatkozó – személyes és különleges adatok

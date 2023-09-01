@@ -1,14 +1,8 @@
 ## 30. Az oklevél
 
-51. § (1) A felsőfokú tanulmányok befejezését igazoló oklevél kiadásának előfeltétele a sikeres záróvizsga, továbbá – ha e törvény másképp nem rendelkezik – az előírt nyelvvizsga letétele. Ha a képzési és kimeneti követelmény szigorúbb feltételt nem állapít meg, az oklevél kiadásához a hallgatónak be kell mutatnia azt az okiratot, amely igazolja, hogy
+51. § (1) A felsőfokú tanulmányok befejezését igazoló oklevél kiadásának előfeltétele a sikeres záróvizsga.
 
-a) alapképzésben egy középfokú, „C” típusú általános nyelvi vagy középfokú (B2 szintű) általános nyelvi, komplex,
-
-b) mesterképzésben a képzési és kimeneti követelményekben meghatározott
-
-államilag elismert vagy azzal egyenértékű nyelvvizsgát tett (a továbbiakban: nyelvvizsga).
-
-(2) Az (1) bekezdésben foglaltakat – a záróvizsga kivételével – nem kell alkalmazni, ha a képzés nyelve nem a magyar nyelv.
+(2) A felsőoktatási intézmény az oklevelet a sikeres záróvizsga napjától számított harminc napon belül állítja ki és adja át a hallgató részére.
 
 (3)
 
@@ -18,6 +12,6 @@ b) mesterképzésben a képzési és kimeneti követelményekben meghatározott
 
 (6) A kiadott oklevelekről központi nyilvántartást kell vezetni.
 
-(7)
+(7) A kiadott oklevelekről és mikrotanúsítványokról a felsőoktatási intézmény tanulmányi rendszeréből közhiteles adatot szolgáltat, az oklevelekről és a mikrotanúsítványokról nyilvántartást vezet. E nyilvántartás alapján a felsőoktatási intézmény az adott okiratot megszerző kérelmére hiteles másolatot állít ki. Az oklevelet és a mikrotanúsítványt megszerző személy kérésére elektronikus másolat formájában is kiállítja, amelyet az intézmény elektronikus aláírásával és olyan szolgáltató által kiadott időbélyegzővel kell ellátni, amely e szolgáltatást minősített szolgáltatóként nyújtja.
 
 (8) Az olyan hallgató részére, akinek a továbbtanulási elismerési kérelméről azzal a feltétellel hozott döntést a felsőoktatási intézmény, hogy utóbb be kell mutatnia jogszabályban előírt okiratot, akkor állítható ki oklevél, ha a hallgató az okiratbemutatási kötelezettségének eleget tett.

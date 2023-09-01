@@ -30,6 +30,12 @@ e) hallgatói kompetenciamérést rendel el,
 
 f) a külföldi magyar nyelvű felsőoktatás támogatása céljából felsőoktatási együttműködési programot hirdet meg.
 
+(2a) A miniszter
+
+a) engedélyezi a felsőoktatásban alkalmazható – integrált modulokkal és funkcionalitásokkal rendelkező – tanulmányi rendszereket,
+
+b) meghatározza a tárgyakhoz és modulokhoz tartozó – tanulmányi rendszerben tárolt – tárgytematikák formai követelményeit.
+
 (3) A miniszter felsőoktatás-fejlesztéssel kapcsolatos – a tudománypolitika koordinációjáért felelős miniszter közreműködésével ellátott – feladatai:
 
 a) a felsőoktatás rendszere fejlesztési terveinek elkészíttetése, beleértve a középtávú fejlesztési tervet,

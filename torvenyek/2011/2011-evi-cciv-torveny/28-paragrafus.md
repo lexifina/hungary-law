@@ -25,3 +25,5 @@ b) a 49. § szerint tanulmányi követelményként elismerhető formában, vagy
 c) tehetséggondozási céllal, részben vagy a képzés egészében idegen nyelven, a felsőfokú képzés tantervi követelményei mellett, azt kiegészítve
 
 valósul meg.
+
+(8) Az oktatói és a kutatói munkakörben történő alkalmazás során a tudományos kutatói tevékenységet és annak társadalmi-gazdasági hasznosulását, így különösen annak innovációs jellegét is értékelni kell.

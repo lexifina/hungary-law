@@ -12,4 +12,4 @@
 
 (5a) A felsőoktatási intézmény az alaptevékenységéből származó szellemi értékek közösségi célú megismertetésével és gazdasági hasznosításával hozzájárul a térsége társadalmi és gazdasági fejlődéséhez.
 
-(6) A felsőoktatási intézmény a tanulmányi rendszerében a jogszabályban előírt nyilvántartásokat köteles vezetni, és abból elektronikus úton köteles adatot szolgáltatni az országos statisztikai adatgyűjtési programba, a felsőoktatási információs rendszerbe vagy más, jogszabályban meghatározott rendszerbe.
+(6) A felsőoktatási intézmény a tanulmányi rendszerében a jogszabályban előírt közhiteles adatokat szolgáltató és egyéb nyilvántartásokat köteles vezetni, és abból elektronikus úton köteles adatot szolgáltatni az országos statisztikai adatgyűjtési programba, a felsőoktatási információs rendszerbe vagy más, jogszabályban meghatározott rendszerbe.
