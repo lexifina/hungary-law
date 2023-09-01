@@ -74,8 +74,11 @@ e) a megbízatása alapjául szolgáló jogviszonya megszűnik.
 
 (12) Ha a tag megbízatása a (11) bekezdés b)–e) pontja alapján szűnik meg, a tagot jelölő szerv, a (3) bekezdés b) pontja szerinti tag esetében a Klebelsberg Központ, valamint a (4) bekezdésben meghatározott szervek 30 napon belül új tagot jelölnek.
 
+(13)[^13] A (12) bekezdés szerinti jelölés esetén a megbízás az adott ötéves ciklus végéig tart.
+
 [^8]: A 2/A. §-t a 308/2017. (X. 27.) Korm. rendelet 2. §-a iktatta be.
 [^9]: A 2/B. §-t a 308/2017. (X. 27.) Korm. rendelet 2. §-a iktatta be.
 [^10]: A 2/B. § (3) bekezdés nyitó szövegrésze a 238/2022. (VI. 30.) Korm. rendelet 160. § b) pontja szerint módosított szöveg.
 [^11]: A 2/B. § (3) bekezdés d) pontja a 238/2022. (VI. 30.) Korm. rendelet 160. § b) pontja szerint módosított szöveg.
 [^12]: A 2/B. § (6) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 160. § b) pontja szerint módosított szöveg.
+[^13]: A 2/B. § (13) bekezdését a 402/2023. (VIII. 30.) Korm. rendelet 11. § (1) bekezdése iktatta be.

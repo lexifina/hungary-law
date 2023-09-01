@@ -12,7 +12,7 @@ hatásköröket.
 
 1. érvényesíti, illetve – módszertani segítséget is nyújtva – érvényesítteti a tankerületi központok tevékenységében a közfeladatok ellátására vonatkozó követelményeket, és az erőforrásokkal, így különösen a tankerületi központ költségvetési előirányzatával, létszámával és a vagyonkezelésében vagy használatában álló vagyonnal való szabályszerű és hatékony gazdálkodás követelményeit, valamint ellenőrzi és számon kéri azok megvalósulását,
 
-2.[^18] felterjeszti a tankerületi központok éves költségvetési javaslatát a miniszternek,
+2.[^19] felterjeszti a tankerületi központok éves költségvetési javaslatát a miniszternek,
 
 3. elkészítteti a tankerületi központok éves költségvetési beszámolóját, és gondoskodik annak határidőre történő benyújtásáról, felülvizsgálatáról, majd az irányító szerv felé történő továbbításáról,
 
@@ -20,9 +20,9 @@ hatásköröket.
 
 5. meghatározza a tankerületi központok előirányzatainak felhasználására vonatkozó irányelveket, figyelemmel kíséri a költségvetés végrehajtását, illetve az ellátandó feladatok teljesülését,
 
-6.[^19] szükség esetén javaslatot tesz a miniszter felé az erőforrások tankerületi központok közötti átcsoportosítására, illetve egyéb intézkedésre,
+6.[^20] szükség esetén javaslatot tesz a miniszter felé az erőforrások tankerületi központok közötti átcsoportosítására, illetve egyéb intézkedésre,
 
-7.[^20] a tankerületi központnak az Álláshely Nyilvántartó Rendszerrel kapcsolatos hatáskörét nem érintve, folyamatos nyilvántartást vezet a tankerületi központok gazdálkodásáról, így különösen az előirányzatokkal és az álláshelyalapú létszámmal való gazdálkodásról, valamint összegyűjti és ellenőrzi a kötelező, rendszeres és eseti jellegű adatszolgáltatásokat, szükség szerint összesítve továbbítja azokat az irányító szerv felé,
+7.[^21] a tankerületi központnak az Álláshely Nyilvántartó Rendszerrel kapcsolatos hatáskörét nem érintve, folyamatos nyilvántartást vezet a tankerületi központok gazdálkodásáról, így különösen az előirányzatokkal és az álláshelyalapú létszámmal való gazdálkodásról, valamint összegyűjti és ellenőrzi a kötelező, rendszeres és eseti jellegű adatszolgáltatásokat, szükség szerint összesítve továbbítja azokat az irányító szerv felé,
 
 8. gondoskodik az irányadó jogszabályok betartásáról, illetve betartatásáról, a jogszerű működés követelményeinek betartatásáról, feltételeinek biztosításáról, így szükség esetén javaslatot tesz a jogszabályi előírások kiegészítésére, pontosítására az irányító szerv felé,
 
@@ -38,7 +38,7 @@ hatásköröket.
 
 14. meghatározza a tankerületi központok kommunikációs tevékenységének stratégiáját,
 
-15.[^21] a miniszter részére felterjeszti a tankerületi központ alapító okiratát, annak módosító vagy megszüntető okiratát,
+15.[^22] a miniszter részére felterjeszti a tankerületi központ alapító okiratát, annak módosító vagy megszüntető okiratát,
 
 16. koordinálja a tankerületi központok pedagógiai szakszolgálati feladatellátását,
 
@@ -46,9 +46,9 @@ hatásköröket.
 
 18. gyűjti a tankerületi központok által alkalmazott jó gyakorlatokat, és ezek alapján a tankerületi központok részére ajánlásokat fogalmaz meg,
 
-19.[^22] koordinálja a Klebelsberg Központ és a tankerületi központok vonatkozásában az egységes álláshelyalapú létszámgazdálkodás rendszerét,
+19.[^23] koordinálja a Klebelsberg Központ és a tankerületi központok vonatkozásában az egységes álláshelyalapú létszámgazdálkodás rendszerét,
 
-20.[^23] kizárólagos joggal ellátja a tankerületi központok által használt egységes informatikai rendszerek, elektronikus adatbázisok és alkalmazások üzemeltetésével és informatikai fejlesztésével kapcsolatos feladatokat, valamint ezen adatbázisok, rendszerek adatkezelésével kapcsolatos adatfeldolgozói feladatokat,
+20.[^24] kizárólagos joggal ellátja a tankerületi központok által használt egységes informatikai rendszerek, elektronikus adatbázisok és alkalmazások üzemeltetésével és informatikai fejlesztésével kapcsolatos feladatokat, valamint ezen adatbázisok, rendszerek adatkezelésével kapcsolatos adatfeldolgozói feladatokat,
 
 21. koordinálja a valamennyi tankerületi központot érintő szerződések megkötését, programok megvalósítását,
 
@@ -56,9 +56,9 @@ hatásköröket.
 
 (3) A Klebelsberg Központ (2) bekezdés 20. pontjában meghatározott kizárólagos üzemeltetési, fejlesztési és adatfeldolgozási kötelezettsége azon adatbázisokra és alkalmazásokra terjed ki, amelyeket ő maga hozott létre, vagy amelyek tekintetében a szoftverhez mint szerzői műhöz kapcsolódó felhasználási jogokat megszerezte.
 
-[^18]: Az 5. § (2) bekezdés 2. pontja a 238/2022. (VI. 30.) Korm. rendelet 160. § c) pontja szerint módosított szöveg.
-[^19]: Az 5. § (2) bekezdés 6. pontja a 238/2022. (VI. 30.) Korm. rendelet 160. § b) pontja szerint módosított szöveg.
-[^20]: Az 5. § (2) bekezdés 7. pontja az 56/2020. (III. 20.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
-[^21]: Az 5. § (2) bekezdés 15. pontja a 238/2022. (VI. 30.) Korm. rendelet 160. § b) pontja szerint módosított szöveg.
-[^22]: Az 5. § (2) bekezdés 19. pontja az 56/2020. (III. 20.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
-[^23]: Az 5. § (2) bekezdés 20. pontja a 275/2019. (XI. 21.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^19]: Az 5. § (2) bekezdés 2. pontja a 238/2022. (VI. 30.) Korm. rendelet 160. § c) pontja szerint módosított szöveg.
+[^20]: Az 5. § (2) bekezdés 6. pontja a 238/2022. (VI. 30.) Korm. rendelet 160. § b) pontja szerint módosított szöveg.
+[^21]: Az 5. § (2) bekezdés 7. pontja az 56/2020. (III. 20.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^22]: Az 5. § (2) bekezdés 15. pontja a 238/2022. (VI. 30.) Korm. rendelet 160. § b) pontja szerint módosított szöveg.
+[^23]: Az 5. § (2) bekezdés 19. pontja az 56/2020. (III. 20.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^24]: Az 5. § (2) bekezdés 20. pontja a 275/2019. (XI. 21.) Korm. rendelet 8. §-ával megállapított szöveg.

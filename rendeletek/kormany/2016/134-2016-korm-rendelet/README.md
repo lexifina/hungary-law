@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-134-20-
 | 2020-09-01 | 2016-134-20-22.19 | 417/2020. (VIII. 30.) Korm. rendelet |
 | 2022-07-01 | 2016-134-20-22.20 | 238/2022. (VI. 30.) Korm. rendelet |
 | 2023-01-01 | 2016-134-20-22.21 | 64/2018. (IV. 3.) Korm. rendelet |
+| 2023-09-01 | 2016-134-20-22.22 | 402/2023. (VIII. 30.) Korm. rendelet |

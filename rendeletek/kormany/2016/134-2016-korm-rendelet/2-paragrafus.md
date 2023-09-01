@@ -6,7 +6,7 @@ a) ellátja – az Nkt.-ban és az e rendeletben foglaltak kivételével – az 
 
 b)[^1] a Klebelsberg Központ útján javaslatot tesz a köznevelésért felelős miniszter (a továbbiakban: miniszter) részére a fenntartási körébe tartozóan köznevelési intézmény létesítésére, a köznevelési intézmény – az Nkt. 83. § (2b) bekezdését nem érintő – átszervezésére, megszüntetésére, alapfeladatának módosítására, nevének megállapítására irányuló döntés meghozatalára, közreműködik a döntés előkészítésében, a javaslattételt megelőzően beszerzi a jogszabály alapján véleményezési, egyetértési joggal rendelkezők véleményét, egyetértését,
 
-c)[^2] a Klebelsberg Központ útján javaslatot tesz a miniszter részére a fenntartásában lévő köznevelési intézmény vezetőjének megbízására, megbízásának visszavonására, előkészíti és a Klebelsberg Központnak megküldi a köznevelési intézmény vezetőjének kinevezésére, megbízására és megbízásának visszavonására vonatkozó munkáltatói intézkedés dokumentumait,
+c)[^2] a Klebelsberg Központ útján javaslatot tesz a miniszter részére a fenntartásában lévő köznevelési intézmény igazgatójának megbízására, megbízásának visszavonására, előkészíti és a Klebelsberg Központnak megküldi a köznevelési intézmény igazgatójának kinevezésére, megbízására és megbízásának visszavonására vonatkozó munkáltatói intézkedés dokumentumait,
 
 d) a Klebelsberg Központ számára javaslatot tesz a köznevelési intézmény Nkt. 83. § (2b) bekezdése szerinti átszervezésére,
 
@@ -41,7 +41,7 @@ l)[^6] ellátja a jogszabályban és az alapító okiratában meghatározott tov
 (4)[^7] A tankerületi központ a hazai és az európai uniós forrásokból megvalósítandó pályázati és projekttevékenységét a Klebelsberg Központtal együttműködve, annak iránymutatásai alapján végzi.
 
 [^1]: A 2. § (1) bekezdés b) pontja a 238/2022. (VI. 30.) Korm. rendelet 160. § a) pontja szerint módosított szöveg.
-[^2]: A 2. § (1) bekezdés c) pontja a 238/2022. (VI. 30.) Korm. rendelet 160. § b) pontja szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdés c) pontja a 238/2022. (VI. 30.) Korm. rendelet 160. § b) pontja, a 402/2023. (VIII. 30.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
 [^3]: A 2. § (1) bekezdés g) pont gb) alpontja a 238/2022. (VI. 30.) Korm. rendelet 160. § b) pontja szerint módosított szöveg.
 [^4]: A 2. § (1) bekezdés h) pontját a 417/2020. (VIII. 30.) Korm. rendelet 24. §-a hatályon kívül helyezte.
 [^5]: A 2. § (1) bekezdés k) pontja a 308/2017. (X. 27.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
