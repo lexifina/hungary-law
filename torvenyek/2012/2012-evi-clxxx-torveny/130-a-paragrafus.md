@@ -1,6 +1,6 @@
 ## 49/E. A tanúsítvány visszavonása
 
-130/A. § (1) A büntetés-végrehajtási bíró a büntetés vagy intézkedés végrehajtásának megkezdése előtt a tanúsítványt – indokolással – visszavonhatja. A tanúsítvány visszavonása esetén a végrehajtás joga visszakerül Magyarországra.
+130/A. § (1) A büntetés-végrehajtási bíró a büntetés vagy intézkedés végrehajtásának megkezdése előtt a tanúsítványt – a miniszter véleményének beszerzését követően, indokolással – visszavonhatja. A tanúsítvány visszavonása esetén a végrehajtás joga visszakerül Magyarországra.
 
 (2) Ha
 

@@ -1,6 +1,6 @@
 ## 47. A végrehajtás átadásának általános szabályai
 
-119. § (1) Az elítélt a végrehajtási jogsegélyt érintő kezdeményezését vagy más nyilatkozatát a végrehajtási jogsegély alapjául szolgáló határozat kihirdetésekor is előterjesztheti, amelyet a büntetőügyben eljáró bíróság az e törvényben foglaltak alapján jegyzőkönyvbe vesz, és azt a végrehajtási jogsegély előterjesztésére hatáskörrel és illetékességgel rendelkező bírósághoz továbbítja.
+119. § (1) Az elítélt a végrehajtási jogsegélyt érintő kezdeményezését vagy más nyilatkozatát a végrehajtási jogsegély alapjául szolgáló határozat kihirdetésekor is előterjesztheti, amelyet a büntetőügyben eljáró bíróság az e törvényben foglaltak alapján jegyzőkönyvbe vesz, és azt, ha e törvény kivételt nem tesz, a végrehajtási jogsegély előterjesztésére hatáskörrel és illetékességgel rendelkező bírósághoz továbbítja.
 
 (1a) Ha e törvény kivételt nem tesz, a végrehajtási jogsegély előterjesztésére hatáskörrel és illetékességgel rendelkező bíróság az alapügyben elsőfokon eljárt bíróság.
 
