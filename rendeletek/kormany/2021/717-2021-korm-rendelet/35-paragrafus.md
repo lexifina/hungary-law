@@ -8,8 +8,8 @@
 
 (4)[^91] A 14. § (8) és (11) bekezdése, a 16. § (9) bekezdése, valamint a 20. § (12) és (13) bekezdése 2023. január 1-jén lép hatályba.
 
-(5)[^92] A 23. § c) pontja 2023. szeptember 1. napján lép hatályba.
+(5)[^92] A 23. § c) pontja 2024. július 1. napján lép hatályba.
 
 [^90]: A 35. § (1) bekezdése a 618/2022. (XII. 29.) Korm. rendelet 23. § (1) bekezdése szerint módosított szöveg.
 [^91]: A 35. § (4) bekezdése a 618/2022. (XII. 29.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
-[^92]: A 35. § (5) bekezdését a 618/2022. (XII. 29.) Korm. rendelet 23. § (3) bekezdése iktatta be.
+[^92]: A 35. § (5) bekezdését a 618/2022. (XII. 29.) Korm. rendelet 23. § (3) bekezdése iktatta be, szövege a 420/2023. (VIII. 31.) Korm. rendelet 2. §-a szerint módosított szöveg.

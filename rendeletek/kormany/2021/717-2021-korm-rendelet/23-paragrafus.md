@@ -10,5 +10,5 @@ d)[^78]
 
 [^75]: A 23. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^76]: A 23. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^77]: A 23. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^77]: A 23. § c) pontja a 35. § (5) bekezdése alapján 2024. július 1-jén lép hatályba.
 [^78]: A 23. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
