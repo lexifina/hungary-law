@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-126-20-
 | 2019-07-02 | 2019-126-20-22.3 | 2010: CXXX. törvény |
 | 2020-07-31 | 2019-126-20-22.4 | 371/2020. (VII. 30.) Korm. rendelet |
 | 2023-01-01 | 2019-126-20-22.5 | 371/2020. (VII. 30.) Korm. rendelet |
+| 2023-09-01 | 2019-126-20-22.6 | 371/2020. (VII. 30.) Korm. rendelet |

@@ -16,6 +16,8 @@
 
 | 8. | Nyugat-dunántúli Regionális Igazgatóság Székhely: Győr | a) Győr-Moson-Sopron vármegye, b) Vas vármegye, c) Zala vármegye |
 
+| 9. | Központi Regionális Igazgatóság Székhely: Budapest | országos |
+
 2. melléklet a 126/2019. (V. 30.) Korm. rendelethez[^25]
 
 [^25]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
