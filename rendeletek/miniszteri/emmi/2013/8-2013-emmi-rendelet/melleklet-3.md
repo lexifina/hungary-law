@@ -1,4 +1,4 @@
-3. melléklet a 8/2013. (I. 30.) EMMI rendelethez[^60]
+3. melléklet a 8/2013. (I. 30.) EMMI rendelethez[^61]
 
 A)
 
@@ -5230,10 +5230,4 @@ a) tudása
 
 b) képességei
 
-– Képes a szakmájára vonatkozó, konkrét kutatási témához kapcsolódó szakirodalmat felkutatni, áttekinteni, értelmezni, saját szakmai fejlődését megtervezni, megvalósítani, osztálytermi és egyéb élményeire reflektálni, szakmailag, nyelvileg folyamatosan megújulni.
-
-– Képes önismeretének, saját személyiségének fejlesztésére, és ennek érdekében nyitott a környezet visszajelzéseinek felhasználására.
-
-– Figyelemmel kíséri saját tevékenységének másokra gyakorolt hatását, reflektív módon törekszik tevékenységének módosítására, szakmai felkészültségének folyamatos fejlesztésére.
-
-[^60]: A 3. melléklet a 64/2021. (XII. 29.) ITM rendelet 7. § (3) bekezdésével megállapított, az 1/2022. (IX. 1.) KIM rendelet 8. § b) pontja, a 12/2022. (XII. 29.) KIM rendelet 6. § a) és b) pontja, a 3/2023. (VI. 28.) KIM rendelet 4. § (2) bekezdése és 6. § 3. pontja, az 5/2023. (VII. 27.) KIM rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^61]: A 3. melléklet a 64/2021. (XII. 29.) ITM rendelet 7. § (3) bekezdésével megállapított, az 1/2022. (IX. 1.) KIM rendelet 8. § b) pontja, a 12/2022. (XII. 29.) KIM rendelet 6. § a) és b) pontja, a 3/2023. (VI. 28.) KIM rendelet 4. § (2) bekezdése és 6. § 3. pontja, az 5/2023. (VII. 27.) KIM rendelet 4. § (2) bekezdése szerint módosított szöveg.

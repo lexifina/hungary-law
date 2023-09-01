@@ -50,4 +50,7 @@ d) a köznevelési vagy szakképző intézményben megszervezett összefüggő e
 
 e) a záróvizsga szakdolgozati elemeként a portfólió minimális kreditértéke 2 kredit.
 
+(7)[^18] Az 1. § c) pontja szerinti természettudomány-környezettan szakos tanár tanári mesterszakra a felsőoktatási intézmény döntése alapján felvehető az olyan mesterképzésben szerzett oklevéllel rendelkező jelentkező is, aki nem rendelkezik az (1) bekezdés a) pont aa)–ag) alpontjában meghatározott oklevéllel, de akiről a felsőoktatási intézmény megállapította, hogy az 1. § c) pontja szerint tanári mesterszakon folytatandó tanulmányokra felkészült.
+
 [^17]: A 4/B. §-t a 64/2021. (XII. 29.) ITM rendelet 5. §-a iktatta be, szövege a 3/2023. (VI. 28.) KIM rendelet 2. §-ával megállapított szöveg.
+[^18]: A 4/B. § (7) bekezdését az 5/2023. (VII. 27.) KIM rendelet 1. §-a iktatta be.
