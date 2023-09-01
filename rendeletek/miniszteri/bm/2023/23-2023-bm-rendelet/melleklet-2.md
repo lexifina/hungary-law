@@ -1,3 +1,3 @@
-2. melléklet a 23/2023. (VI. 30.) BM rendelethez[^25]
+2. melléklet a 23/2023. (VI. 30.) BM rendelethez[^23]
 
-[^25]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
