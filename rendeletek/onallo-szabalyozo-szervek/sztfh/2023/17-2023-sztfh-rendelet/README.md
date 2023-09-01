@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-17-20-8
 | 2023-08-08 | 2023-17-20-8K.1 | 17/2023. (VII. 31.) SZTFH rendelet |
 | 2023-08-09 | 2023-17-20-8K.2 | 2010. évi CXXX. törvény |
 | 2023-08-31 | 2023-17-20-8K.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2023-09-01 | 2023-17-20-8K.4 | 2010. évi CXXX. törvény |
