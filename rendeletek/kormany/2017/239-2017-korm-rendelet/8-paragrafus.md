@@ -6,6 +6,8 @@ b) kiküldetési költségek (szállás, utazási költség, magángépkocsik hi
 
 (2) Az (1) bekezdésben meghatározott előirányzatok felhasználásáról az állomáshelyen negyedévente összesített elszámolás készül, amelyet a külképviselet a szakdiplomata rendelkezésére bocsát. A szakdiplomata az összesített elszámolást továbbítja a szakminiszternek.
 
-(3) Az elkülönített előirányzatként kezelt keretek felhasználása tekintetében a külképviselet – ideértve a külképviselet vezetőjét is – döntési joggal nem rendelkezik. A szakdiplomata a keret felhasználása során köteles betartani a bizonylatkezelésre vonatkozó szabályokat, amit a kihelyező szerv vezetője ellenőrizni jogosult.
+(3)[^23] Az elkülönített előirányzatként kezelt keretek felhasználása tekintetében a külképviselet – ideértve a külképviselet vezetőjét is – döntési joggal nem rendelkezik. A szakdiplomata a keret felhasználása során köteles betartani a bizonylatkezelésre vonatkozó szabályokat, amit a kihelyező vezető ellenőrizni jogosult.
 
 (4) Az elkülönített előirányzat vonatkozásában az utalványozás jogát a szakdiplomata gyakorolja. Ha több szakdiplomata dolgozik egy állomáshelyen, a szakminiszter jelöli ki azt a szakdiplomatát, aki az utalványozási jog gyakorolására jogosult.
+
+[^23]: A 8. § (3) bekezdése a 417/2023. (VIII. 31.) Korm. rendelet 3. § 14. pontja szerint módosított szöveg.

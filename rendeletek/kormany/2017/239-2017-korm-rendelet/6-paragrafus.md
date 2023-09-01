@@ -1,5 +1,11 @@
-6. § (1)[^6] A szakdiplomata külügyi-diplomáciai felkészítése akkor kezdhető meg, amikor a szakdiplomata tartós külszolgálati kirendelésre vagy vezénylésre kerül a kihelyező szerv személyi állományába.
+6. §[^18] (1) A szakdiplomata külügyi-diplomáciai felkészítése akkor kezdhető meg, ha jogszabály eltérően nem rendelkezik, amikor
 
-(2) A külügyi-diplomáciai felkészítés a külügyi szakmai vizsga legalább „megfelelt” eredménnyel történő letételével zárul.
+a) a szakdiplomata tartós külszolgálati kirendelését, illetve vezénylését követően vagy
 
-[^6]: A 6. § (1) bekezdése a 127/2019. (V. 30.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
+b) a Külszoltv. 36. § (4) bekezdés b) pontja alapján
+
+közvetlenül kinevezésre kerül a kihelyező szerv személyi állományába.
+
+(2) A külügyi-diplomáciai felkészítés a külügyi szakmai vizsga legalább „megfelelt” eredménnyel történő letételével zárul, és a szakdiplomata előírásszerűen teljesíti a Külszoltv. szerinti egyéb kihelyezési feltételeket, követelményeket.
+
+[^18]: A 6. § a 417/2023. (VIII. 31.) Korm. rendelet 2. §-ával megállapított szöveg.
