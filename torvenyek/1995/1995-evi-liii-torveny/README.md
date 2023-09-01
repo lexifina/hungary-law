@@ -51,3 +51,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-53-00-00
 | 2022-12-01 | 2022. évi XLVIII. törvény | 1995-53-00-00.86 |
 | 2023-01-01 | 2022. évi XXII. törvény | 1995-53-00-00.83 |
 | 2023-07-01 | 2023. évi XLV. törvény | 1995-53-00-00.89 |
+| 2023-09-01 | 2023. évi XXIX. törvény | 1995-53-00-00.88 |
