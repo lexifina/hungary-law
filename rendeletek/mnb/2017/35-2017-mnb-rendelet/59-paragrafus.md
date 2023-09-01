@@ -2,6 +2,6 @@
 
 ## 34. Módosító rendelkezések
 
-59. §[^49]
+59. §[^50]
 
-[^49]: Az 59. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^50]: Az 59. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

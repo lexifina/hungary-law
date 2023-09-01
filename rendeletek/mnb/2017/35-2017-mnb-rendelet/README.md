@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-35-20-2
 | 2020-10-01 | 2017-35-20-2C.11 | 29/2020. (IX. 16.) MNB rendelet |
 | 2022-07-01 | 2017-35-20-2C.12 | 23/2022. (VI. 17.) MNB rendelet |
 | 2023-01-01 | 2017-35-20-2C.13 | 57/2022. (XII. 22.) MNB rendelet |
+| 2023-09-01 | 2017-35-20-2C.14 | 57/2022. (XII. 22.) MNB rendelet |
