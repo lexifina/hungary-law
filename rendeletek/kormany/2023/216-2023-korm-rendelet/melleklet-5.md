@@ -1,0 +1,17 @@
+## Az R3. 2. számú melléklet 13.2. pontja helyébe a következő rendelkezés lép:
+
+## „13.2. A felhasználási helyen a felhasználó személyében bekövetkező változásra vonatkozó bejelentés esetében – a hálózati engedélyes a felhasználó ez irányú kérése esetén és az üzletszabályzatában meghatározott egyéb esetben – elvégzi a csatlakozó- és mérőberendezés állapotának helyszíni ellenőrzését és az ellenőrzés eredményének – ideértve a mérőállást is – jegyzőkönyvben történő rögzítését. Ennek elvégzése érdekében a hálózati engedélyes a bejelentés kézhezvételétől számított 3 munkanapon belül az igénybejelentővel időpontot egyeztet. Az egyeztetett időpont nem lehet későbbi, mint a bejelentést követő 5. munkanap, kivéve, ha azt az igénybejelentő későbbi időpontra kéri. Az ellenőrzéssel, annak körülményeivel és eredményével kapcsolatos állásfoglalását a felhasználó vagy az új felhasználó jogosult a jegyzőkönyvben feltüntetni. A jegyzőkönyv felek által aláírt egy-egy példányát a hálózati engedélyes köteles a felhasználónak és új felhasználó esetében az új felhasználónak átadni vagy postán megküldeni, további egy példányát megőrizni. Egyetemes szolgáltatásra jogosult felhasználó esetében a helyszíni ellenőrzés térítésmentes.”
+
+5. melléklet a 216/2023. (VI. 1.) Korm. rendelethez
+
+1. Az R4. 1. számú melléklet 6.3. pontja helyébe a következő rendelkezés lép:
+
+„6.3. Az ellenőrzést – a 6.1. pont szerinti kezdeményezővel egyeztetett időpontban – a szerelési nyilatkozat benyújtásától számított 8 munkanapon belül a földgázelosztó lefolytatja. A 6.1. pont szerinti kezdeményező gondoskodik arról, hogy a kivitelező az ellenőrzésnél jelen legyen. A kivitelezőnek biztosítania kell az ellenőrzés elvégzéséhez szükséges eszközöket és feltételeket. Az ellenőrzés eredményéről jegyzőkönyvet kell készíteni, és annak egy példányát a 6.1. pont szerinti kezdeményezőnek át kell adni. Készülékcsere esetén a kiviteli tervet és a tervezői műszaki biztonsági ellenőrzésről készített jegyzőkönyvet a kivitelező köteles a földgázelosztónak az ellenőrzést követő 2 munkanapon belül átadni. A földgázelosztó a kiviteli tervet és az ellenőrzésről készült jegyzőkönyv egy példányát köteles megőrizni.”
+
+2. Az R4. 1. számú melléklet 17.6. pontja helyébe a következő rendelkezés lép:
+
+„17.6. A földgázelosztó a bejelentés kézhezvételét követő nyolc napon belül – a GET 17. § (3) bekezdésében foglalt esetekben – köteles a csatlakozóvezeték, fogyasztói vezeték és a fogyasztásmérő berendezés állapotának helyszíni ellenőrzésére és az ellenőrzés eredményének – ideértve a mérőállást is – jegyzőkönyvben való rögzítésére. Az ellenőrzéssel, annak körülményeivel, illetve eredményével kapcsolatos állásfoglalását a felhasználó és az új felhasználó jogosult a jegyzőkönyvben feltüntetni. A jegyzőkönyv felek által aláírt egy-egy példányát a földgázelosztó a korábbi és az új felhasználónak átadni vagy postán megküldeni, egy további példányát megőrizni köteles. Egyetemes szolgáltatásra jogosult felhasználó esetében a helyszíni ellenőrzés térítésmentes.”
+
+3. Az R4. 1. számú melléklet 17.9. pontja helyébe a következő rendelkezés lép:
+
+„17.9. A földgázelosztó nem hivatkozhat szabálytalan vételezésre, és igényt nem érvényesíthet a felhasználóval szemben, ha helyszíni ellenőrzésre nyolc napon belül nem kerül sor, kivéve, ha bizonyítja, hogy az ellenőrzést az a felhasználó akadályozta, akivel szemben a szabálytalan vételezés miatt igényét érvényesíteni kívánja.”
