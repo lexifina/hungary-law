@@ -74,11 +74,11 @@ az OKSER ellenőrző tevékenységébe bevonható mérési területeik
 
 |  | 4 | Eötvös Loránd Tudományegyetem, Debreceni Egyetem, Kaposvári Egyetem, Nyugat-magyarországi Egyetem (Sopron), Nyugat-magyarországi Egyetem (Székesfehérvár), Nyugat-magyarországi Egyetem (Szombathely), Pannon Egyetem, Pécsi Tudományegyetem, Semmelweis Egyetem, Szegedi Tudományegyetem, Szent István Egyetem környezeti ellenőrzési rendszere | környezeti gammadózis-teljesítmény |
 
-|  | 5 | ELKH | Energiatudományi Kutatóközpont Környezetvédelmi Szolgálat | levegő, üzemi víz, környezeti gamma-dózisteljesítmény |
+|  | 5 | Magyar Kutatási Hálózat | Energiatudományi Kutatóközpont Környezetvédelmi Szolgálat | levegő, üzemi víz, környezeti gamma-dózisteljesítmény |
 
-|  | 6 | ELKH | Atommagkutató Intézet környezeti sugárvédelmi ellenőrző rendszere | levegő, környezeti gamma-dózisteljesítmény |
+|  | 6 | Magyar Kutatási Hálózat | Atommagkutató Intézet környezeti sugárvédelmi ellenőrző rendszere | levegő, környezeti gamma-dózisteljesítmény |
 
-|  | 7 | ELKH | Természettudományi Kutatóközpont környezeti sugárvédelmi ellenőrző rendszere | levegő, környezeti gamma-dózisteljesítmény |
+|  | 7 | Magyar Kutatási Hálózat | Természettudományi Kutatóközpont környezeti sugárvédelmi ellenőrző rendszere | levegő, környezeti gamma-dózisteljesítmény |
 
 |  | 8 | Bányavagyon-hasznosító Nonprofit Közhasznú Korlátolt Felelősségű Társaság | Mecseki Környezetvédelmi Bázis, Kővágószőlősi Fióktelep | levegő, szárazföldi környezet, vízi környezet, környezeti gamma-dózisteljesítmény, radon |
 
@@ -96,4 +96,4 @@ az OKSER ellenőrző tevékenységébe bevonható mérési területeik
 
 (b) = a levegő aeroszol mérése az OMSZ által működtetett automata állomások bevonásával történik a Országos Sugárfigyelő Jelző és Ellenőrző Rendszer működése szerint.
 
-[^20]: A 3. melléklet a 162/2018. (IX. 10.) Korm. rendelet 32. § b) pontja, a 204/2019. (VIII. 23.) Korm. rendelet 19. §-a, a 345/2019. (XII. 23.) Korm. rendelet 6. §-a, a 36/2020. (III. 5.) Korm. rendelet 16. § (2) bekezdése, a 238/2022. (VI. 30.) Korm. rendelet 156. §-a, a 334/2023. (VII. 20.) Korm. rendelet 45. §-a szerint módosított szöveg.
+[^20]: A 3. melléklet a 162/2018. (IX. 10.) Korm. rendelet 32. § b) pontja, a 204/2019. (VIII. 23.) Korm. rendelet 19. §-a, a 345/2019. (XII. 23.) Korm. rendelet 6. §-a, a 36/2020. (III. 5.) Korm. rendelet 16. § (2) bekezdése, a 238/2022. (VI. 30.) Korm. rendelet 156. §-a, a 246/2023. (VI. 22.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.

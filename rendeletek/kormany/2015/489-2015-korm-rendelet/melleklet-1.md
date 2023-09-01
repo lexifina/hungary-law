@@ -32,7 +32,7 @@ Az OKSER tagjai
 
 15.[^16] Nemzeti Népegészségügyi és Gyógyszerészeti Központ,
 
-16.[^17] az Eötvös Loránd Kutatási Hálózat (a továbbiakban: ELKH).
+16.[^17] a Magyar Kutatási Hálózat.
 
 17.[^18] IZOTÓP INTÉZET Kutató, Fejlesztő, Termelő és Szolgáltató Korlátolt Felelősségű Társaság,
 
@@ -40,6 +40,6 @@ Az OKSER tagjai
 
 [^15]: Az 1. § 6. pontja a 238/2022. (VI. 30.) Korm. rendelet 156. §-a szerint módosított szöveg.
 [^16]: Az 1. melléklet 15. pontja a 334/2023. (VII. 20.) Korm. rendelet 45. §-a szerint módosított szöveg.
-[^17]: Az 1. melléklet 16. pontját a 204/2019. (VIII. 23.) Korm. rendelet 18. §-a iktatta be.
+[^17]: Az 1. melléklet 16. pontját a 204/2019. (VIII. 23.) Korm. rendelet 18. §-a iktatta be, szövege a 246/2023. (VI. 22.) Korm. rendelet 14. § a) pontjával megállapított szöveg.
 [^18]: Az 1. melléklet 17. pontját a 36/2020. (III. 5.) Korm. rendelet 16. § (1) bekezdése iktatta be.
 [^19]: Az 1. melléklet 18. pontját a 36/2020. (III. 5.) Korm. rendelet 16. § (1) bekezdése iktatta be.
