@@ -1,4 +1,4 @@
-## 29. §[^78] Nem minősül a 24. § (1) bekezdésében és a 27. § (1) bekezdésében foglalt kötelezettség megszegésének, ha
+## 29. §[^81] Nem minősül a 24. § (1) bekezdésében és a 27. § (1) bekezdésében foglalt kötelezettség megszegésének, ha
 
 a) az új lakásban a támogatott személy gyermeke tulajdonjogot szerez,
 
@@ -6,4 +6,4 @@ b) az új lakásban öröklés révén harmadik személy tulajdonjogot vagy hasz
 
 c) az új lakásra közérdekű használati jogot alapítanak.
 
-[^78]: A 29. § a 686/2020. (XII. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^81]: A 29. § a 686/2020. (XII. 29.) Korm. rendelet 10. §-ával megállapított szöveg.

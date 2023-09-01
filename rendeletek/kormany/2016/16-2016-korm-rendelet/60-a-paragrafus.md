@@ -1,4 +1,4 @@
-## 60/A. §[^225] Ha a támogatott személy a 2021. január 1-jét követően igényelt családi otthonteremtési kedvezmény
+## 60/A. §[^242] Ha a támogatott személy a 2021. január 1-jét követően igényelt családi otthonteremtési kedvezmény
 
 a) teljes összegét bármely okból visszafizette, vagy
 
@@ -6,4 +6,4 @@ b) teljes összegének visszafizetésére vált kötelezetté,
 
 a kormányhivatal ennek tényéről a tárgyhónapot követő hónap 20. napjáig elektronikus úton értesíti az állami adóhatóságot és a hitelintézetet.
 
-[^225]: A 60/A. §-t az 530/2021. (IX. 14.) Korm. rendelet 6. §-a iktatta be.
+[^242]: A 60/A. §-t az 530/2021. (IX. 14.) Korm. rendelet 6. §-a iktatta be.

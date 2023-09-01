@@ -1,4 +1,4 @@
-19. §[^53] (1) A családi otthonteremtési kedvezmény az új lakás bekerülési költsége vagy vételára megfizetéséhez használható fel.
+19. §[^54] (1)[^55] A családi otthonteremtési kedvezmény az új lakás bekerülési költségére, vagy vételára megfizetéséhez használható fel.
 
 (2) Az (1) bekezdésben foglaltaktól eltérően a 3. § (1) bekezdés 1. pont j) alpontja szerinti lépcső kialakítására a támogatás abban az esetben is felhasználható, ha a lépcső
 
@@ -8,4 +8,5 @@ b) társasháztulajdon esetében annak közös tulajdonban álló épületrész�
 
 található.
 
-[^53]: A 19. § a 686/2020. (XII. 29.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^54]: A 19. § a 686/2020. (XII. 29.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^55]: A 19. § (1) bekezdése a 406/2023. (VIII. 30.) Korm. rendelet 17. § 5. pontja szerint módosított szöveg.

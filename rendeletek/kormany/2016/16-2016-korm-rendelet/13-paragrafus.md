@@ -34,7 +34,7 @@ a családi otthonteremtési kedvezmény szabályszerű igénybevételének ellen
 
 (4)[^35] Az igénylő a családi otthonteremtési kedvezmény igénylésekor a fennálló házasságról büntetőjogi felelősség vállalásával teljes bizonyító erejű magánokirattal nyilatkozik. A nyilatkozat tartalmazza a házastársak nevét, személyi azonosítóját, születési adatait, valamint a házasságkötés helyét és idejét.
 
-(5)[^36] A családi otthonteremtési kedvezmény iránti kérelemben az igénylő teljes bizonyító erejű magánokiratba foglaltan, büntetőjogi felelősség vállalásával nyilatkozik azon gyermekekről, akik után a kedvezményt igényli. A nyilatkozat tartalmazza a nyilatkozattevő és – ha a gyermek már megszületett – a gyermek nevét, adóazonosító jelét, születési adatait, örökbefogadott gyermek és gyám kirendelése esetén a döntést meghozó hatóság megnevezését és a döntés időpontját, kiskorú gyermek elhelyezése vagy szülői felügyeletének rendezése esetén a kiskorú gyermek elhelyezéséről vagy szülői felügyeletének rendezéséről és lakóhelyének kijelöléséről döntő hatóság, bíróság megnevezését, a döntés időpontját is.
+(5)[^36] A családi otthonteremtési kedvezmény iránti kérelemben az igénylő teljes bizonyító erejű magánokiratba foglaltan, büntetőjogi felelősség vállalásával nyilatkozik azon gyermekekről, akik után a kedvezményt igényli. A nyilatkozat tartalmazza a nyilatkozattevő és – ha a gyermek már megszületett – a gyermek nevét, adóazonosító jelét, születési adatait, örökbefogadott gyermek és gyám vagy gondnok kirendelése esetén a döntést meghozó hatóság, bíróság megnevezését és a döntés időpontját, kiskorú gyermek elhelyezése vagy szülői felügyeletének rendezése esetén a kiskorú gyermek elhelyezéséről vagy szülői felügyeletének rendezéséről és lakóhelyének kijelöléséről döntő hatóság, bíróság megnevezését, a döntés időpontját is.
 
 (6)[^37] A közös háztartásban élést, valamint élettársak esetén ennek időtartamát büntetőjogi felelősség vállalásával tett, teljes bizonyító erejű magánokiratba foglalt nyilatkozattal kell igazolni.
 
@@ -74,7 +74,7 @@ c) az (1) bekezdés c) pontját, a (9) bekezdést, a 12. § (2c) bekezdését, a
 [^33]: A 13. § (1) bekezdés c) pontját a 152/2019. (VI. 26.) Korm. rendelet 4. § (1) bekezdése iktatta be.
 [^34]: A 13. § (1) bekezdés záró szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 4. és 5. pontja, a 360/2019. (XII. 30.) Korm. rendelet 150. § (2) bekezdés c) és d) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^35]: A 13. § (4) bekezdését a 26/2018. (II. 28.) Korm. rendelet 4. §-a iktatta be.
-[^36]: A 13. § (5) bekezdését a 26/2018. (II. 28.) Korm. rendelet 4. §-a iktatta be. A 13. § (5) bekezdése a 169/2023. (V. 12.) Korm. rendelet 16. § 1. pontja szerint módosított szöveg.
+[^36]: A 13. § (5) bekezdését a 26/2018. (II. 28.) Korm. rendelet 4. §-a iktatta be. A 13. § (5) bekezdése a 169/2023. (V. 12.) Korm. rendelet 16. § 1. pontja, a 406/2023. (VIII. 30.) Korm. rendelet 17. § 3. pontja szerint módosított szöveg.
 [^37]: A 13. § (6) bekezdését a 26/2018. (II. 28.) Korm. rendelet 4. §-a iktatta be.
 [^38]: A 13. § (7) bekezdését a 26/2018. (II. 28.) Korm. rendelet 4. §-a iktatta be, szövege a 786/2021. (XII. 27.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
 [^39]: A 13. § (8) bekezdését a 152/2019. (VI. 26.) Korm. rendelet 4. § (2) bekezdése iktatta be.
