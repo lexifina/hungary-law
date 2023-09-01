@@ -6,4 +6,6 @@ a) akit állandó lakóhelyére vagy tartózkodási helyére küldenek ki,
 
 b) aki a kiküldetés időtartama alatt térítés nélkül természetbeni élelmezési ellátásban részesül.
 
-(3) A polgári nemzetbiztonsági szolgálatok hivatásos állománya esetében a (2) bekezdés a) pontja alkalmazása alól az állományilletékes parancsnok szolgálati érdekből eltérhet.
+(3)[^12]
+
+[^12]: A 21. § (3) bekezdését a 20/2023. (VIII. 24.) MK rendelet 52. § a) pont ab) alpontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 51. §-át.
