@@ -38,3 +38,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-159-00-00
 | 2022-03-01 | 2021. évi CXXXIV. törvény | 1997-159-00-00.44 |
 | 2023-01-01 | 2022. évi XXII. törvény | 1997-159-00-00.45 |
 | 2023-07-01 | 2023. évi XLIV. törvény | 1997-159-00-00.47 |
+| 2023-09-01 | 2023. évi XXXVIII. törvény | 1997-159-00-00.46 |

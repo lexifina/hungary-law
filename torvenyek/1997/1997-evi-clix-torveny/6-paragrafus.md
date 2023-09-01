@@ -2,7 +2,19 @@
 
 (1a) A szolgálati igazolvány kiállításáig a fegyveres biztonsági őr e törvényben meghatározott tevékenység folytatására való jogosultságát a rendőrség által rendszeresített és a szolgálati igazolvány kiállításának kezdeményezését alátámasztó, a rendőrség által hitelesített igénylőlap igazolja.
 
-(2) Fegyveres biztonsági őr az a magyar állampolgár, illetve külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személy lehet, aki tizennyolcadik életévét betöltötte, fegyver viselésére alkalmas, és rendelkezik a szolgálati beosztáshoz előírt képesítési feltételekkel. A fegyveres biztonsági őrség parancsnokának és helyettesének legalább középiskolai végzettséggel kell rendelkeznie.
+(2) Fegyveres biztonsági őr az lehet, aki
+
+a) magyar állampolgár vagy a szabad mozgás és tartózkodás jogával rendelkezik,
+
+b) tizennyolcadik életévét betöltötte,
+
+c) fegyver viselésére való egészségi és pszichológiai alkalmasságát az e törvényben foglaltak szerint igazolja, és
+
+d) rendelkezik a szolgálati beosztáshoz előírt képesítési feltételekkel.
+
+(2a) A fegyveres biztonsági őrség parancsnokának és helyettesének legalább középiskolai végzettséggel kell rendelkeznie.
+
+(2b) A (2) bekezdés szerinti alkalmassági követelményt az e törvény végrehajtására kiadott rendeletben foglaltak szerint, rendszeres időközönként ellenőrizni kell.
 
 (3) Nem lehet fegyveres biztonsági őr,
 
@@ -38,7 +50,23 @@ cb) pénzbüntetést szabtak ki, a mentesítés beálltától számított három
 
 (4a) A (4) bekezdés szerinti időtartam leteltét követően sem lehet nukleáris és más radioaktív anyag, valamint nukleáris létesítmény őrzését, őrségének irányítását ellátó fegyveres biztonsági őr az, akit a (4) bekezdésben meghatározottak szerint elítéltek.
 
-(5) A jogviszony létesítésekor az alkalmassági feltételeket az érintett igazolja. Ennek során köteles igazolni azt is, hogy nem áll az e törvény hatálya alá tartozó tevékenység vagy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerv hivatásos állománya tagjának foglalkoztatását kizáró foglalkozástól eltiltás hatálya alatt. A fegyveres biztonsági őrszolgálatra való alkalmasság közbiztonsági feltételeit a jogviszony fennállása alatt a rendőrség ellenőrzi.
+(5) A jogviszony létesítésekor a (2) bekezdés szerinti alkalmassági feltételeket – az (5b) bekezdés szerinti kivétellel – az érintett igazolja.
+
+(5a) A (2) bekezdés c) pontja szerinti alkalmassági feltétel igazolásához szükséges vizsgálatok elvégzését a jogviszony létesítését megelőzően a fegyveres biztonsági őr munkáltatója kezdeményezi.
+
+(5b) Ha e törvény lehetővé teszi,
+
+a) a (2) bekezdés c) pontja szerinti alkalmassági feltétel a fegyveres biztonsági őrséget működtető szervezet vonatkozásában meghatározott egészségi és pszichikai alkalmassági követelményeknek való megfeleléssel,
+
+b) a (2) bekezdés d) pontja szerinti alkalmassági feltétel a fegyveres biztonsági őrséget működtető szervezet által lebonyolított belső képzés keretében tett eredményes vizsgával
+
+is igazolható.
+
+(5c) Az (5b) bekezdés b) pontja szerinti belső képzésre csak a fegyver viselésére való egészségi és pszichológiai alkalmasság igazolását követően kerülhet sor.
+
+(5d) A jogviszony létesítését megelőzően az érintett köteles igazolni azt is, hogy nem áll az e törvény hatálya alá tartozó tevékenységtől vagy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerv hivatásos állománya tagjának foglalkoztatását kizáró foglalkozástól eltiltás hatálya alatt.
+
+(5e) A fegyveres biztonsági őrszolgálatra való alkalmasság közbiztonsági feltételeit a jogviszony fennállása alatt a rendőrség ellenőrzi.
 
 (6) Az ellenőrzés során a közbiztonsági feltételek biztosítása céljából a rendőrség a bűntettesek nyilvántartásából, a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásából, valamint a büntetőeljárás hatálya alatt állók nyilvántartásából jogosult közvetlen hozzáféréssel a (3)–(5) bekezdésben meghatározott feltételekre vonatkozó adatokat átvenni és kezelni.
 
