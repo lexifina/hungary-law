@@ -1,11 +1,11 @@
 17. § A 344/2019. (XII. 23.) Korm. rendelet
 
-a)[^24]
+a)[^13]
 
-b)[^25]
+b) 5. § (5) bekezdésében az „az Eötvös Loránd Kutatási” szövegrész helyébe az „a Magyar Kutatási” szöveg,
 
-c)[^26]
+c) 5/A. § (3) bekezdésében az „az Eötvös Loránd Kutatási” szövegrész helyébe az „a Magyar Kutatási” szöveg
 
-[^24]: A 17. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^25]: A 17. § b) pontja a 22. § (2) bekezdés alapján 2023. szeptember 1-jén lép hatályba.
-[^26]: A 17. § c) pontja a 22. § (2) bekezdés alapján 2023. szeptember 1-jén lép hatályba.
+lép.
+
+[^13]: A 17. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

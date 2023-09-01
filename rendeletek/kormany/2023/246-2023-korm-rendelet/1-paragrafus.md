@@ -1,5 +1,5 @@
 ## 1. A Magyar Formatervezési Tanácsról szóló 266/2001. (XII. 21.) Korm. rendelet módosítása
 
-1. §[^1]
+1. § A Magyar Formatervezési Tanácsról szóló 266/2001. (XII. 21.) Korm. rendelet (a továbbiakban: MFT Kr.) 1. § (6) bekezdése helyébe a következő rendelkezés lép:
 
-[^1]: Az 1. § a 22. § (2) bekezdés alapján 2023. szeptember 1-jén lép hatályba.
+„(6) Az MFT javaslatára a nemzeti formatervezési díjak adományozásának rendjére vonatkozó szabályzatot a kormányzati tudománypolitikáért felelős miniszter (a továbbiakban: miniszter) hagyja jóvá.”

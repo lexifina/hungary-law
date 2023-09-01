@@ -1,5 +1,9 @@
 ## 3. Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet módosítása
 
-7. §[^7]
+7. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet
 
-[^7]: A 7. § a 22. § (2) bekezdés alapján 2023. szeptember 1-jén lép hatályba.
+a) 124. § (3) bekezdésében az „az Eötvös Loránd Kutatási” szövegrész helyébe az „a Magyar Kutatási” szöveg,
+
+b) 1. melléklet I. pont 29. pontjában az „az Eötvös Loránd Kutatási” szövegrészek helyébe az „a Magyar Kutatási” szöveg
+
+lép.
