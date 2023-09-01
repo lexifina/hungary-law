@@ -2,6 +2,6 @@
 
 a)
 
-b)
+b) 260. § (3) bekezdésében a „negyvenöt” szövegrész helyébe az „ötven” szöveg
 
 lép.
