@@ -12,6 +12,6 @@ e)
 
 f) szakmailag felügyeli a szellemi tulajdonnal kapcsolatos – iskolarendszeren kívüli – képzést, működteti annak rendszerét, továbbá gondoskodik az iparjogvédelmi szakvizsgák és a szabadalmi ügyvivői vizsgák megszervezéséről;
 
-g) működteti a Magyar Formatervezési Tanácsot, továbbá közreműködik a nemzeti formatervezési díjak és ösztöndíjak adományozásának lebonyolításában;
+g)
 
 h) elősegíti, hogy a szellemi tulajdon védelmének eszközeit megfelelően használják fel az országkép formálásához, az egységes országmárka kialakításához, valamint a jellegzetes magyar termékek ismertségének javításához és hírnevének megóvásához.

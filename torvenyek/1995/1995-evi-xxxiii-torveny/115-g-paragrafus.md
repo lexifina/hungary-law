@@ -14,6 +14,6 @@ e) a szellemi tulajdon védelmére irányuló kormányzati stratégia kidolgozá
 
 f) a szellemi tulajdon területén folyó nemzetközi, illetve európai együttműködés szakmai feladatainak ellátása;
 
-g) a kutatás-fejlesztési tevékenység minősítésével kapcsolatos hatósági és szakértői feladatok ellátása;
+g)
 
 h) a korai fázisú vállalkozásokat támogató vállalkozások által igénybe vehető adóalap-kedvezményhez kapcsolódó nyilvántartási feladatok ellátása.
