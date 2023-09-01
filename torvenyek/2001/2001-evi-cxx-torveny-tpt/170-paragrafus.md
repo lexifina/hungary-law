@@ -8,7 +8,7 @@ b) a kölcsönbe adható, illetőleg a kölcsönbe adott értékpapír mennyisé
 
 c) keretszerződés esetén azon időszak megjelölését, amely alatt az értékpapír kölcsönbe adható;
 
-d) az értékpapírkölcsön futamidejét;
+d) az értékpapírkölcsön futamidejét (határozott vagy határozatlan, előbbi esetben a lejáratot is megjelölve);
 
 e) a kölcsönzési díjat;
 

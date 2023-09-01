@@ -8,4 +8,4 @@
 
 (3) A kölcsönbe adott értékpapír tulajdonjoga átszáll a kölcsönbe vevőre.
 
-(4) Értékpapírkölcsön-szerződés kizárólag határozott időre köthető.
+(4) Értékpapírkölcsön-szerződés intézményi befektetőnek nem minősülő féllel kizárólag határozott időre köthető.

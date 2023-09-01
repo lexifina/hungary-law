@@ -35,5 +35,3 @@ E törvény és az e törvény felhatalmazása alapján kiadott jogszabályok al
 16. a Nemzetközi Pénzügyi Társaság,
 
 17. a Nemzetközi Újjáépítési és Fejlesztési Bank,
-
-18. a Nemzetközi Valutaalap,
