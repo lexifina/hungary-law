@@ -1,18 +1,25 @@
-17/A. §[^106] (1)[^107] A központi felsőoktatási felvételi eljárásban részt vevő jelentkező az érettségi bizonyítványa és a felsőfokú oklevele által tanúsított végzettségi szint elismerésére vonatkozó, továbbtanulási célból indított, a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény II. fejezete szerinti eljárásra az a felsőoktatási intézmény rendelkezik hatáskörrel, amelyiket a jelentkező a jelentkezési kérelmében az első sorban jelölt meg.
+17/A. §[^135] (1)[^136] A központi felsőoktatási felvételi eljárásban részt vevő jelentkező az érettségi bizonyítványa és a felsőfokú oklevele által tanúsított végzettségi szint elismerésére vonatkozó, továbbtanulási célból indított, a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény II. fejezete szerinti eljárásra az abban érintett felsőoktatási intézmény rendelkezik hatáskörrel.
 
-(2) Az (1) bekezdés szerinti eljárásra irányuló kérelmet a jelentkező a Hivatalhoz a jelentkezési kérelmével együtt nyújtja be. A Hivatal a kérelmet a hatáskörrel rendelkező felsőoktatási intézménynek szakvéleménye ismertetésével továbbítja.
+(2)[^137] Az (1) bekezdés szerinti eljárásra irányuló kérelmet a jelentkező a Hivatalhoz a jelentkezési kérelmével együtt nyújtja be. A Hivatal a felsőoktatási intézmény kérelmére szakvéleményt ad.
 
-(3)[^108] Kérelemre a külföldi érettségi bizonyítványként elismert bizonyítványban szereplő vizsgatárgyat a Hivatal emelt szintűnek ismeri el, ha tartalmi vizsgakövetelményei legalább 75 százalékban tartalmazzák a magyar vizsgatárgy emelt szintű tartalmi követelményeit. Az emelt szinten való elismerés további feltétele, hogy a vizsgarendszerben a vizsgakérdéseket a vizsgáztató, vizsgára felkészítő intézménytől függetlenül határozzák meg, valamint az, hogy a vizsgateljesítményeket a vizsgáztató, vizsgára felkészítő intézménytől független személyek, szervezetek bírálják el és értékeljék.
+(2a)[^138] Emelt szintű vizsgatárgynak minősül az azonos megnevezésű külföldi vagy külföldi rendszerű érettségi vizsgatárgy, ha az adott külföldi oktatási rendszerben az érettségi vizsgát több szinten lehet teljesíteni, és a jelentkező az adott vizsgatárgyat a legmagasabb szinten teljesítette.
 
-(4)[^109] A Hivatal az emelt szintűnek el nem ismert, azonos megnevezésű külföldi vagy külföldi rendszerű érettségi vizsgatárgyat automatikusan középszintű érettségi vizsgatárgynak számítja. Eltérő megnevezésű vizsgatárgy esetén a Hivatal a jelentkező kérelmére megvizsgálja a külföldi vagy külföldi rendszerű vizsgatárgy és a magyar rendszerű vizsgatárgy egyezőségét, és ha az egyezőség a tartalmi elemek legalább 50%-ára fennáll, akkor az középszinten teljesített vizsgatárgyként beszámítható. Automatikus a pontszámítás, amennyiben egy adott ország vagy középiskola érettségi vizsgatárgya egy korábbi eljárásban már elismerésre került.
+(3)[^139] Kérelemre a külföldi érettségi bizonyítványként elismert bizonyítványban szereplő vizsgatárgyat a Hivatal emelt szintűnek ismeri el, ha tartalmi vizsgakövetelményei legalább 75 százalékban tartalmazzák a magyar vizsgatárgy emelt szintű tartalmi követelményeit. Az emelt szinten való elismerés további feltétele, hogy a vizsgarendszerben a vizsgakérdéseket a vizsgáztató, vizsgára felkészítő intézménytől függetlenül határozzák meg, valamint az, hogy a vizsgateljesítményeket a vizsgáztató, vizsgára felkészítő intézménytől független személyek, szervezetek bírálják el és értékeljék.
 
-(5)[^110] A Hivatal a Tájékoztatóban teszi közzé a (3) bekezdés alapján lefolytatott eljárásai során már emelt szintűnek elismert külföldi vagy külföldi rendszerű érettségi vizsgatárgyakat, amelyek emelt szintű érettségi vizsgatárgyként való elismerése – érettségi végzettségnek elismert érettségi bizonyítvány esetén – automatikus.
+(4)[^140] A Hivatal az emelt szintűnek el nem ismert, azonos megnevezésű külföldi vagy külföldi rendszerű érettségi vizsgatárgyat automatikusan középszintű érettségi vizsgatárgynak számítja. Eltérő megnevezésű vizsgatárgy esetén a Hivatal a jelentkező kérelmére megvizsgálja a külföldi vagy külföldi rendszerű vizsgatárgy és a magyar rendszerű vizsgatárgy egyezőségét, és ha az egyezőség a tartalmi elemek legalább 50%-ára fennáll, akkor az középszinten teljesített vizsgatárgyként beszámítható. Automatikus a pontszámítás, amennyiben egy adott ország vagy középiskola érettségi vizsgatárgya egy korábbi eljárásban már elismerésre került.
 
-(6)[^111] A 17. § (10) bekezdésében meghatározott kivétellel a Hivatal állapítja meg a külföldi vagy külföldi rendszerű érettségi vizsga értékelésének átszámítását. A Hivatal az értékelés átszámításának módszerét a Tájékoztatóban közzéteszi.
+(5)[^141] A Hivatal a Tájékoztatóban teszi közzé a (3) bekezdés alapján lefolytatott eljárásai során már emelt szintűnek elismert külföldi vagy külföldi rendszerű érettségi vizsgatárgyakat, amelyek emelt szintű érettségi vizsgatárgyként való elismerése – érettségi végzettségnek elismert érettségi bizonyítvány esetén – automatikus.
 
-[^106]: A 17/A. §-t az 502/2013. (XII. 29.) Korm. rendelet 10. §-a iktatta be.
-[^107]: A 17/A. § (1) bekezdése a 407/2017. (XII. 15.) Korm. rendelet 29. § a) pontja szerint módosított szöveg.
-[^108]: A 17/A. § (3) bekezdése a 661/2020. (XII. 24.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^109]: A 17/A. § (4) bekezdése a 335/2014. (XII. 18.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^110]: A 17/A. § (5) bekezdését az 59/2016. (III. 25.) Korm. rendelet 5. §-a iktatta be, szövege a 661/2020. (XII. 24.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
-[^111]: A 17/A. § (6) bekezdését a 661/2020. (XII. 24.) Korm. rendelet 13. § (3) bekezdése iktatta be.
+(6)[^142] A 17. § (10) bekezdésében meghatározott kivétellel a Hivatal állapítja meg a külföldi vagy külföldi rendszerű érettségi vizsga értékelésének átszámítását. A Hivatal az értékelés átszámításának módszerét a Tájékoztatóban közzéteszi.
+
+(7)[^143] Ha a külföldi vagy külföldi rendszerű érettségi bizonyítvány konkrét érettségi vizsgaeredményeket nem tartalmaz, a Hivatal saját hatáskörben dönt a jelentkező utolsó évi végi középiskolai tanulmányi eredményeinek érettségi pontokként történő beszámíthatóságáról. Ha az utolsó év végi középiskolai tantárgyak között nem szerepel a szakhoz előírt érettségi vizsgatárgy, akkor is csak ezen utolsó évfolyam tantárgyai közül kerülhet kiválasztásra az érettségi eredményként figyelembe vehető tantárgy. Ebben az esetben a jelentkező számára tanulmányi pont nem számítható.
+
+[^135]: A 17/A. §-t az 502/2013. (XII. 29.) Korm. rendelet 10. §-a iktatta be.
+[^136]: A 17/A. § (1) bekezdése a 339/2022. (IX. 7.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^137]: A 17/A. § (2) bekezdése a 339/2022. (IX. 7.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^138]: A 17/A. § (2a) bekezdését a 339/2022. (IX. 7.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^139]: A 17/A. § (3) bekezdése a 661/2020. (XII. 24.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^140]: A 17/A. § (4) bekezdése a 335/2014. (XII. 18.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^141]: A 17/A. § (5) bekezdését az 59/2016. (III. 25.) Korm. rendelet 5. §-a iktatta be, szövege a 661/2020. (XII. 24.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^142]: A 17/A. § (6) bekezdését a 661/2020. (XII. 24.) Korm. rendelet 13. § (3) bekezdése iktatta be.
+[^143]: A 17/A. § (7) bekezdését a 339/2022. (IX. 7.) Korm. rendelet 12. § (3) bekezdése iktatta be.

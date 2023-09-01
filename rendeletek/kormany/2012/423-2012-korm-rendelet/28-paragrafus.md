@@ -1,16 +1,8 @@
 ## 10. A felvételi döntés
 
-28. § (1) A felsőoktatási intézmény a felvételről szóló döntését
+28. § (1)[^174] A felsőoktatási intézmény a felvételről szóló döntését az adott felvételi eljárásban a besorolási döntés időpontját követő 5 munkanapon belül határozatban közli a jelentkezővel. A felsőoktatási intézmény azt a jelentkezőt veszi fel, aki – a Hivatal értesítése alapján – hozzá lett besorolva.
 
-a) a keresztféléves felvételi eljárásban a besorolási döntés időpontját követő nyolc napon belül;
-
-b)[^159] az általános felvételi eljárásban augusztus 8-áig,
-
-c) a pótfelvételi eljárásban augusztus 31-éig
-
-határozatban közli a jelentkezővel. A felsőoktatási intézmény azt a jelentkezőt veszi fel, aki – a Hivatal értesítése alapján – hozzá lett besorolva.
-
-(1a)[^160] Ha a besorolási döntés elleni jogorvoslati döntés megalapozza a felvételi döntés módosítását, a felvételi döntést meghozó intézménynek rendelkezni kell a döntés módosításáról. Ha a besorolási döntés elleni jogorvoslati döntés alapján a jelentkező másik felsőoktatási intézménybe kerül besorolásra, mindkét intézménynek rendelkeznie kell a felvételi döntésről.
+(1a)[^175] Ha a besorolási döntés elleni jogorvoslati döntés megalapozza a felvételi döntés módosítását, a felvételi döntést meghozó intézménynek rendelkezni kell a döntés módosításáról. Ha a besorolási döntés elleni jogorvoslati döntés alapján a jelentkező másik felsőoktatási intézménybe kerül besorolásra, mindkét intézménynek rendelkeznie kell a felvételi döntésről.
 
 (2) A határozatnak tartalmaznia kell
 
@@ -36,5 +28,5 @@ b) a nem magyar állampolgárságú jelentkezők számára az előkészítő év
 
 (4) Amennyiben a jelentkező rendelkezik elektronikus levelezési címmel, a határozat elektronikus levélben is kiküldhető.
 
-[^159]: A 28. § (1) bekezdés b) pontja az 502/2013. (XII. 29.) Korm. rendelet 24. § l) pontja szerint módosított szöveg.
-[^160]: A 28. § (1a) bekezdését az 59/2016. (III. 25.) Korm. rendelet 7. §-a iktatta be.
+[^174]: A 28. § (1) bekezdése a 339/2022. (IX. 7.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^175]: A 28. § (1a) bekezdését az 59/2016. (III. 25.) Korm. rendelet 7. §-a iktatta be.

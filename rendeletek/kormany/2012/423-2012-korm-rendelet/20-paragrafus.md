@@ -1,17 +1,11 @@
-20. § (1) A jelentkező az államilag elismert vagy azzal egyenértékű, magyartól eltérő idegen nyelvből tett nyelvvizsgáért nyelvenként
+20. §[^150] Ha a jelentkező a honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) 214. § (1a) bekezdése szerinti önkéntes tartalékos katonaként
 
-a) középfokú (B2) komplex típusú nyelvvizsga esetén 28 többletpontra vagy
+a) szakkiképzés nélkül legalább hat hónapos szolgálatot teljesített, 16 többletpontra,
 
-b) felsőfokú (C1) komplex típusú nyelvvizsga esetén 40 többletpontra
+b) a hat hónapos szolgálati ideje alatt – az alapkiképzést követően – a Hjt. felhatalmazása alapján kiadott jogszabály szerinti szakkiképzést végrehajtotta, 32 többletpontra,
+
+c) a b) pontot folytatólagosan követő hat hónapos szolgálati ideje alatt a Hjt. felhatalmazása alapján kiadott jogszabály szerinti szakkiképzést folytatta és végrehajtotta, további 32 többletpontra
 
 jogosult.
 
-(2) A jelentkező az (1) bekezdés alapján legfeljebb 40 többletpontot kaphat akkor is, ha a többletpontokra több különböző nyelvből megszerzett nyelvvizsga alapján is jogosult lenne, vagy ha a különböző nyelvvizsgák alapján elérhető többletpontjainak összege ezt meghaladná. Egy nyelvből csak egy nyelvvizsgáért adható többletpont.
-
-(3) Államilag elismert középfokú (B2) írásbeli vagy szóbeli típusú, illetve felsőfokú (C1) írásbeli vagy szóbeli típusú, vagy azzal egyenértékű nyelvvizsgával rendelkező akkor jogosult 28, illetve 40 többletpontra, ha a sajátos nevelési igénye miatt igazoltan nem tudja a komplex típusú nyelvvizsgát letenni.
-
-(4) A magyarországi nemzetiségi középiskolában nemzetiségi nyelvből, nemzetiségi nyelv- és irodalomból tett érettségi vizsgával rendelkező akkor jogosult 20 többletpontra, ha az érettségi vizsgával azonos nemzetiségi pedagógus szakra jelentkezik.
-
-(5)[^118] Amennyiben a jelentkező egy adott idegen nyelvből egyidejűleg nyelvvizsga és emelt szintű érettségi vizsga alapján is jogosult lenne többletpontra, akkor a többletpontokat csak egyszer, a számára kedvezőbb pontszámot biztosító jogcímen kapja meg.
-
-[^118]: A 20. § (5) bekezdése az 502/2013. (XII. 29.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^150]: A 20. § a 339/2022. (IX. 7.) Korm. rendelet - a Magyar Közlöny 2022. évi 146. számában megjelent helyesbítésnek megfelelő - 14. §-ával megállapított szöveg.

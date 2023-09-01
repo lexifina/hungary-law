@@ -1,40 +1,51 @@
-17. § (1)[^98] Az érettségi pontokat a képzési területre vagy szakra vonatkozóan meghatározott két érettségi vizsgatárgy vagy érettségi vizsgatárgyak listájából a jelentkező számára legkedvezőbb két érettségi vizsgatárgy eredményei alapján kell kiszámolni.
+17. § (1)[^122] Az érettségi pontokat a képzési területre vagy szakra vonatkozóan meghatározott két érettségi vizsgatárgy vagy érettségi vizsgatárgyak listájából a jelentkező számára legkedvezőbb két érettségi vizsgatárgy eredményei alapján kell kiszámolni.
 
-(2) Az érettségi pontok száma – a közép- és az emelt szintű érettségi vizsga esetén egyaránt – egyenlő az érettségi vizsgán az adott vizsgatárgyból elért százalékos eredménnyel.
+(2)[^123] Az érettségi pontok száma emelt szintű érettségi vizsga esetén egyenlő az érettségi vizsgán az adott vizsgatárgyból elért százalékos eredménnyel. A középszinten tett érettségi vizsga esetében a százalékos eredmény alapján figyelembe vehető érettségi pontok számát a 4. melléklet szerint kell megállapítani.
 
 (3) Az érettségi vizsgatárgyak százalékos eredményét az érettségi bizonyítvány, illetve a tanúsítványok alapján kell figyelembe venni.
 
-(4)[^99] Ha ugyanabból a tárgyból a jelentkező több, különböző eredménnyel is rendelkezik, a számára legelőnyösebb eredményt kell figyelembe venni az (1) bekezdésben foglaltak figyelembevételével.
+(4)[^124] Ha ugyanabból a tárgyból a jelentkező több, különböző eredménnyel is rendelkezik, a számára legelőnyösebb eredményt kell figyelembe venni az (1) bekezdésben foglaltak figyelembevételével.
 
-(5)[^100] A nem a többszintű érettségi vizsgarendszerben tett érettségi vizsgatárgyaknak a felvételi eljárás időpontjában hatályos érettségi vizsgatárgyakkal való megfeleltetését a jelentkező által a jelentkezés benyújtásával egyidejűleg előterjesztett kérelmére az érettségi vizsga letételének időpontjában hatályos és a felvételi jelentkezés időpontjában hatályos vizsgakövetelmények szakmai tartalmának összevetése alapján a Hivatal állapítja meg. A Hivatal köteles a tantárgyi megfeleltetésre, amennyiben a vizsgakövetelményeknek legalább 75 százaléka megegyezik, illetve az elutasításra, amennyiben az egyezés nem éri el az 50 százalékot. A megfeleltetett érettségi vizsgatárgyak jegyzékét a Hivatal a felvételi eljárás honlapján közzéteszi.
+(5)[^125]
 
-(6) Azon érettségi vizsgaeredmény alapján, amelynél ezt jogszabály kizárja, érettségi pont nem számítható.
+(6)[^126]
 
-(7) A nyelvvizsga-bizonyítvány alapján megállapított érettségi eredmény nem vehető figyelembe abban az esetben, ha az emelt szintű érettségi az adott nyelvből jelentkezési feltétel.
+(7)[^127]
 
-(8)[^101] A jelentkező a központi felvételi eljárásban a jelentkezés feltételeként meghatározott emelt szintű tantárgyi érettségi vizsgakövetelmény feltételét – a felvételi eljárás részeként a felsőoktatási intézmény által szervezett – legalább 45%-os eredményű felsőoktatási felvételi szakmai vizsgával is teljesítheti, ha az adott tantárgyból
+(8)[^128] A jelentkező a központi felvételi eljárásban a felsőoktatási intézmény által a pontszámításhoz meghatározott emelt szintű tantárgyi érettségi vizsgakövetelményt – a felvételi eljárás részeként a felsőoktatási intézmény által szervezett – legalább 25%-os eredményű felsőoktatási felvételi szakmai vizsgával is teljesítheti, ha
 
-a) a kétszintű érettségi vizsga bevezetése előtt szerzett magyar érettségi bizonyítványában vizsgaeredménnyel,
+a) a felsőoktatási felvételi eljárás jelentkezési határidőt megelőző öt évnél korábban szerzett magyar érettségi bizonyítvánnyal,
 
-b)[^102] valamely külföldi EGT tagállam érettségi bizonyítványában vizsgaeredménnyel, illetve Ukrajnában vagy Szerbiában teljesített érettségi vizsgaeredménnyel
+b) valamely külföldi EGT-tagállam érettségi bizonyítvánnyal, illetve Ukrajnában vagy Szerbiában teljesített érettségi bizonyítvánnyal,
 
-c) nemzetközi érettségi bizonyítvánnyal (Diploma of the International Baccalaureate), vagy
+c) nemzetközi érettségi bizonyítvánnyal (Diploma of the International Baccalaureate) vagy
 
-d) az Európai Iskolák Statútumáról szóló, Luxemburgban, 1994. június 21-én aláírt Egyezmény kihirdetéséről szóló 322/2004. (XII. 6.) Korm. rendeletben meghatározott Európai érettségi bizonyítványában vizsgaeredménnyel
+d) az Európai Iskolák Statútumáról szóló, Luxemburgban, 1994. június 21-én aláírt Egyezmény kihirdetéséről szóló 322/2004. (XII. 6.) Korm. rendeletben meghatározott Európai érettségi bizonyítvánnyal
 
 rendelkezik.
 
-(8a)[^103] A felvételi eljárás során csak közismereti vizsgatantárgyból, legfeljebb három felsőoktatási felvételi szakmai vizsgára lehet jelentkezni, azzal, hogy az általános felsőoktatási felvételi eljárásban elért eredményt figyelembe lehet venni a pótfelvételi eljárásban is.
+(8a)[^129] A felvételi eljárás során csak közismereti vizsgatantárgyból, legfeljebb három felsőoktatási felvételi szakmai vizsgára lehet jelentkezni, azzal, hogy az általános felsőoktatási felvételi eljárásban elért eredményt figyelembe lehet venni a pótfelvételi eljárásban is.
 
-(9)[^104] A 24. § (4) bekezdésében foglaltak kivételével nem számítható érettségi pont az érettségi vizsgatárgy százalékos eredményéből, amennyiben a vizsgázó a gyakorlati vizsgarészt szóbeli vizsgarésszel pótolta, és az érettségi bizonyítványt, illetve a tanúsítványt az érettségi vizsga vizsgaszabályzatának kiadásáról szóló 100/1997. (VI. 13.) Korm. rendelet 37. § (3) bekezdése alapján ennek megfelelően záradékkal látták el.
+(8b)[^130] Felsőoktatási felvételi szakmai vizsgát csak egyszer, a jelentkezéskor meghatározott elbírálási sorrendben előbb jelzett intézményben, szakon kell letenni. Ezekben az esetekben a vizsga eredményét a többi intézményben, szakon is el kell fogadni.
 
-(10)[^105] A (8) bekezdés d) pontja szerinti Európai érettségi bizonyítvány sikeresen teljesített vizsgatárgyának százalékos eredménye a felsőoktatási felvételi pontszámítás szempontjából a hazai érettségi vizsgatárgy százalékos eredményének felel meg.
+(8c)[^131] A Tájékoztató tartalmazza, hogy a felsőoktatási felvételi szakmai vizsgát mely tantárgyakból lehet idegen nyelven is teljesíteni.
 
-[^98]: A 17. § (1) bekezdése a 661/2020. (XII. 24.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^99]: A 17. § (4) bekezdése a 335/2014. (XII. 18.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
-[^100]: A 17. § (5) bekezdése a 47/2013. (II. 20.) Korm. rendelet 9. § a) pontja, a 169/2016. (VII. 1.) Korm. rendelet 23. §-a szerint módosított szöveg.
-[^101]: A 17. § (8) bekezdését az 502/2013. (XII. 29.) Korm. rendelet 25. § (3) bekezdés e) pontja hatályon kívül helyezte, újonnan az 59/2016. (III. 25.) Korm. rendelet 4. §-a iktatta be, nyitó szövegrésze a 442/2016. (XII. 16.) Korm. rendelet 29. § d) pontja szerint módosított szöveg.
-[^102]: A 17. § (8) bekezdés b) pontja a 442/2016. (XII. 16.) Korm. rendelet 29. § e) pontja szerint módosított szöveg.
-[^103]: A 17. § (8a) bekezdését a 746/2021. (XII. 21.) Korm. rendelet 7. §-a iktatta be.
-[^104]: A 17. § (9) bekezdése a 746/2021. (XII. 21.) Korm. rendelet 12. § (1) bekezdés d) pontja szerint módosított szöveg.
-[^105]: A 17. § (10) bekezdését a 661/2020. (XII. 24.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+(8d)[^132] A pontszámítás során a felsőoktatási felvételi szakmai vizsgán elért eredményt kell figyelembe venni akkor is, ha a jelentkezőnek az adott tantárgyból érettségi vizsgaeredménye van.
+
+(9)[^133] A 24. § (4) bekezdésében foglaltak kivételével nem számítható érettségi pont az érettségi vizsgatárgy százalékos eredményéből, amennyiben a vizsgázó a gyakorlati vizsgarészt szóbeli vizsgarésszel pótolta, és az érettségi bizonyítványt, illetve a tanúsítványt az érettségi vizsga vizsgaszabályzatának kiadásáról szóló 100/1997. (VI. 13.) Korm. rendelet 37. § (3) bekezdése alapján ennek megfelelően záradékkal látták el.
+
+(10)[^134] A (8) bekezdés d) pontja szerinti Európai érettségi bizonyítvány sikeresen teljesített vizsgatárgyának százalékos eredménye a felsőoktatási felvételi pontszámítás szempontjából a hazai érettségi vizsgatárgy százalékos eredményének felel meg.
+
+[^122]: A 17. § (1) bekezdése a 661/2020. (XII. 24.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^123]: A 17. § (2) bekezdése a 339/2022. (IX. 7.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^124]: A 17. § (4) bekezdése a 335/2014. (XII. 18.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^125]: A 17. § (5) bekezdését a 339/2022. (IX. 7.) Korm. rendelet 23. § 23. pontja hatályon kívül helyezte.
+[^126]: A 17. § (6) bekezdését a 339/2022. (IX. 7.) Korm. rendelet 23. § 23. pontja hatályon kívül helyezte.
+[^127]: A 17. § (7) bekezdését a 339/2022. (IX. 7.) Korm. rendelet 23. § 23. pontja hatályon kívül helyezte.
+[^128]: A 17. § (8) bekezdését az 502/2013. (XII. 29.) Korm. rendelet 25. § (3) bekezdés e) pontja hatályon kívül helyezte, újonnan az 59/2016. (III. 25.) Korm. rendelet 4. §-a iktatta be, szövege a 339/2022. (IX. 7.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^129]: A 17. § (8a) bekezdését a 746/2021. (XII. 21.) Korm. rendelet 7. §-a iktatta be.
+[^130]: A 17. § (8b) bekezdését a 339/2022. (IX. 7.) Korm. rendelet 11. § (3) bekezdése iktatta be.
+[^131]: A 17. § (8c) bekezdését a 339/2022. (IX. 7.) Korm. rendelet 11. § (3) bekezdése iktatta be.
+[^132]: A 17. § (8d) bekezdését a 339/2022. (IX. 7.) Korm. rendelet 11. § (3) bekezdése iktatta be.
+[^133]: A 17. § (9) bekezdése a 746/2021. (XII. 21.) Korm. rendelet 12. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^134]: A 17. § (10) bekezdését a 661/2020. (XII. 24.) Korm. rendelet 12. § (2) bekezdése iktatta be.

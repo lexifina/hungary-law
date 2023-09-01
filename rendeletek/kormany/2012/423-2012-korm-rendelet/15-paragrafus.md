@@ -1,10 +1,10 @@
-15. § (1)[^80] Alapképzésre és osztatlan képzésre történő jelentkezés esetén e rendeletben meghatározott eltéréssel a jelentkező teljesítményét felvételi összpontszámmal kell értékelni, amelyet az alábbiak szerint kell számítani:
+15. § (1)[^99] Alapképzésre és osztatlan képzésre történő jelentkezés esetén e rendeletben meghatározott eltéréssel a jelentkező teljesítményét felvételi összpontszámmal kell értékelni, amelyet az alábbiak szerint kell számítani:
 
 a) a tanulmányi pontok és az érettségi pontok összeadásával, vagy
 
 b) az érettségi pontok kétszerezésével,
 
-mindkét esetben az esetleg szerzett érettségi többletpontok és egyéb többletpontok hozzászámításával.
+mindkét esetben az intézményi pontok hozzászámításával.
 
 (2) Az (1) bekezdés szerinti két számítási mód közül azt kell alkalmazni, amelyik a jelentkező számára előnyösebb.
 
@@ -12,26 +12,30 @@ mindkét esetben az esetleg szerzett érettségi többletpontok és egyéb több
 
 a) a középiskolai osztályzatai és az érettségi vizsgákon elért százalékos eredményei átlaga alapján legfeljebb 200 tanulmányi pontot;
 
-b) a jelentkezés feltételéül meghatározott érettségi vizsgaeredményei alapján legfeljebb 200 érettségi pontot;
+b)[^100] a meghatározott érettségi vizsgaeredményei alapján legfeljebb 200 érettségi pontot;
 
-c)[^81] az emelt szinten teljesített érettségi vizsgákért, vagy a felsőoktatási felvételi szakmai vizsgákért legfeljebb 100 érettségi többletpontot;
+c)[^101] felsőoktatási intézmény által meghatározott követelmények alapján 100 intézményi pontot
 
-d)[^82]
+d)[^102]
 
-e) az esélyegyenlőség biztosítása érdekében a 24. §-ban meghatározott többletpontokat;
+e)[^103]
 
-f) egyéb, a 20–21. §-ban meghatározott többletpontokat
+f)[^104]
 
 szerezhet.
 
-(4) A (3) bekezdés c)–f) pontja alapján adható többletpontok összege legfeljebb 100 pont lehet. A jelentkező abban az esetben is csak 100 pontra jogosult, ha a különböző jogcímek alapján elért többletpontjainak az összege ezt meghaladná.
+(4)[^105]
 
-(5)[^83] Ha egy jelentkező több olyan szakra, képzésre, intézménybe jelentkezik, ahol azonosak a szóbeli alkalmassági vizsga követelményei, vagy ahol ugyanazon érettségi tárgyhoz felsőoktatási felvételi szakmai vizsgát tesz, a szóbeli alkalmassági vizsgát vagy felsőoktatási felvételi szakmai vizsgát csak egyszer, a jelentkezéskor meghatározott elbírálási sorrendben előbb jelzett intézményben, szakon kell letenni. Ezekben az esetekben a vizsga eredményét a többi intézményben, szakon is el kell fogadni.
+(5)[^106]
 
-(6)[^84]
+(6)[^107]
 
-[^80]: A 15. § (1) bekezdés nyitó szövegrésze a 13/2020. (II. 7.) Korm. rendelet 81. § 1. pontja szerint módosított szöveg.
-[^81]: A 15. § (3) bekezdés c) pontja az 59/2016. (III. 25.) Korm. rendelet 10. § d) pontja szerint módosított szöveg.
-[^82]: A 15. § (3) bekezdés d) pontját a 661/2020. (XII. 24.) Korm. rendelet 22. § g) pontja hatályon kívül helyezte.
-[^83]: A 15. § (5) bekezdése az 59/2016. (III. 25.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^84]: A 15. § (6) bekezdését a 13/2020. (II. 7.) Korm. rendelet 82. § (2) bekezdés 1. pontja hatályon kívül helyezte.
+[^99]: A 15. § (1) bekezdés nyitó szövegrésze a 13/2020. (II. 7.) Korm. rendelet 81. § 1. pontja, záró szövegrésze a 339/2022. (IX. 7.) Korm. rendelet 22. § 11. pontja szerint módosított szöveg.
+[^100]: A 15. § (3) bekezdés b) pontja a 339/2022. (IX. 7.) Korm. rendelet 23. § 18. pontja szerint módosított szöveg.
+[^101]: A 15. § (3) bekezdés c) pontja a 339/2022. (IX. 7.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^102]: A 15. § (3) bekezdés d) pontját a 661/2020. (XII. 24.) Korm. rendelet 22. § g) pontja hatályon kívül helyezte.
+[^103]: A 15. § (3) bekezdés e) pontját a 339/2022. (IX. 7.) Korm. rendelet 23. § 19. pontja hatályon kívül helyezte.
+[^104]: A 15. § (3) bekezdés f) pontját a 339/2022. (IX. 7.) Korm. rendelet 23. § 19. pontja hatályon kívül helyezte.
+[^105]: A 15. § (4) bekezdését a 339/2022. (IX. 7.) Korm. rendelet 23. § 20. pontja hatályon kívül helyezte.
+[^106]: A 15. § (5) bekezdését a 339/2022. (IX. 7.) Korm. rendelet 23. § 20. pontja hatályon kívül helyezte.
+[^107]: A 15. § (6) bekezdését a 13/2020. (II. 7.) Korm. rendelet 82. § (2) bekezdés 1. pontja hatályon kívül helyezte.

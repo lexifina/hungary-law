@@ -1,14 +1,14 @@
-26. § (1) A Hivatal a besorolási döntést
+26. § (1)[^168] A Hivatal a besorolási döntést
 
-a) a keresztféléves felvételi eljárás esetén legkésőbb a képzés indítása szerinti év január 25. napjáig;
+a) a keresztféléves felvételi eljárás esetén a ponthatár megállapítása után 8 napon belül,
 
-b)[^153] az általános felvételi eljárás esetén legkésőbb a képzés indítása szerinti év augusztus 5. napjáig;
+b) az általános felvételi eljárás esetén a ponthatár megállapítása után 8 napon belül,
 
-c)[^154] a pótfelvételi eljárás esetén legkésőbb a képzés indítása szerinti év augusztus 28. napjáig
+c) a pótfelvételi eljárás esetén a ponthatár megállapítása után 8 napon belül
 
 hozza meg.
 
-(2)[^155] Besorolási döntésben a Hivatal azt állapítja meg, hogy a jelentkező a jelentkezési kérelmében megjelölt és rangsorolt képzések közül melyik az az első képzés, amelynél elérte a felvételhez szükséges ponthatárt. Egyazon felvételi eljárásban a jelentkező által meghatározott rangsor alapján csak egy jelentkezési helyre sorolható be.
+(2)[^169] Besorolási döntésben a Hivatal azt állapítja meg, hogy a jelentkező a jelentkezési kérelmében megjelölt és rangsorolt képzések közül melyik az az első képzés, amelynél elérte a felvételhez szükséges ponthatárt, vagy egyik jelentkezési helyére sem nyert felvételt. Egyazon felvételi eljárásban a jelentkező által meghatározott rangsor alapján csak egy jelentkezési helyre sorolható be.
 
 (3) A Hivatal a besorolásról a felsőoktatási szakképzésre, az alapképzésre és az osztatlan képzésre a jelentkező felvételéről szakonként (önálló szakképzettséget eredményező szakirányonként) egységes rangsor, a mesterképzésre, valamint a már oklevéllel rendelkező jelentkezők esetében intézményi rangsor és a miniszter által az adott intézményre megállapított maximális hallgatói létszám szakos hallgatói kapacitása alapján dönt.
 
@@ -18,11 +18,11 @@ a) a 10. § (2) bekezdés b) pontja alapján a jelentkező által meghatározott
 
 b) a miniszternek az Nftv. 46. § (4) bekezdésében meghatározott határozatát;
 
-c) a felsőoktatási intézmények működési engedélyében szereplő intézményi kapacitást.
+c)[^170] a miniszter által az adott felsőoktatási intézményre megállapított maximális hallgatói létszámot.
 
-(5)[^156] A jelentkezőkről egységes rangsorolás alapján ponthatár alkalmazásával kell dönteni. Az adott képzésre ponthatár alatti eredménnyel senki nem sorolható be. Azt, aki a ponthatárt elérte vagy meghaladta – kivéve, ha az elbírálási sorrendben előbb szereplő helyre már besorolták –, kötelező besorolni.
+(5)[^171] A jelentkezőkről rangsorolás alapján ponthatár alkalmazásával kell dönteni. Az adott képzésre ponthatár alatti eredménnyel senki nem sorolható be. Azt, aki a ponthatárt elérte vagy meghaladta – kivéve, ha az elbírálási sorrendben előbb szereplő helyre már besorolták –, kötelező besorolni.
 
-[^153]: A 26. § (1) bekezdés b) pontja az 502/2013. (XII. 29.) Korm. rendelet 24. § k) pontja szerint módosított szöveg.
-[^154]: A 26. § (1) bekezdés c) pontját a 335/2014. (XII. 18.) Korm. rendelet 11. §-a iktatta be.
-[^155]: A 26. § (2) bekezdése az 502/2013. (XII. 29.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^156]: A 26. § (5) bekezdése az 502/2013. (XII. 29.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^168]: A 26. § (1) bekezdése a 339/2022. (IX. 7.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^169]: A 26. § (2) bekezdése az 502/2013. (XII. 29.) Korm. rendelet 15. § (1) bekezdésével megállapított, a 339/2022. (IX. 7.) Korm. rendelet 22. § 17. pontja szerint módosított szöveg.
+[^170]: A 26. § (4) bekezdés c) pontja a 339/2022. (IX. 7.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.
+[^171]: A 26. § (5) bekezdése az 502/2013. (XII. 29.) Korm. rendelet 15. § (2) bekezdésével megállapított, a 339/2022. (IX. 7.) Korm. rendelet 23. § 30. pontja szerint módosított szöveg.

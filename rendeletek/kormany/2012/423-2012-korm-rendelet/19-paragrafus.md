@@ -1,5 +1,31 @@
-19. § (1) Amennyiben a jelentkező érettségi pontjait az emelt szinten teljesített vizsga alapján számítják, a jelentkező az emelt szinten teljesített legalább 45 százalékos eredményű érettségi vizsgáért érettségi többletpontra jogosult.
+19. §[^149] (1) A felsőoktatási intézmény által meghatározott intézményi pont különösen az alábbi jogcímeken adható:
 
-(2)[^117] Ha a jelentkező az (1) bekezdés vagy a 17. § (8) bekezdése alapján jogosult az érettségi többletpontra, emelt szintű érettségi vizsgatárgyanként 50 érettségi többletpontra jogosult.
+a) emelt szintű érettségi vizsga,
 
-[^117]: A 19. § (2) bekezdése az 59/2016. (III. 25.) Korm. rendelet 10. § f) pontja szerint módosított szöveg.
+b) nemzetiségi nyelvből, nemzetiségi nyelv és irodalomból tett érettségi vizsga,
+
+c) felvételi vizsga, amely járhat személyes megjelenéssel, és lehet szóbeli vagy írásbeli vizsga, a részvételt a felsőoktatási intézmény feltételekhez kötheti,
+
+d) kompetenciateszt,
+
+e) nyelvvizsga vagy nyelvtudás,
+
+f) tanulmányi és művészeti versenyek,
+
+g) sporteredmények,
+
+h) szakképesítés,
+
+i) esélyegyenlőség,
+
+j) munkatapasztalat,
+
+k) részképzésben való részvétel, illetve
+
+l) ha a felsőoktatási szakképzésben szerzett oklevélből nem számítottak érettségi pontot, az azonos képzési terület szakjára történő jelentkezés esetén a felsőoktatási szakképzésben szerzett oklevélért.
+
+(2) Ha személyes megjelenéssel jár az (1) bekezdés szerinti tudásmérés, akkor a felsőoktatási intézménynek azt olyan módon kell megszerveznie, hogy a jelentkező esetleges érettségi vizsgáján megjelenhessen.
+
+(3) Ha egy adott jelentkező esetében a (2) bekezdés szerinti módon nem szervezhető meg az (1) bekezdés szerinti tudásmérés, a jelentkező részére a felsőoktatási intézmény másik megfelelő időpontot biztosít.
+
+[^149]: A 19. § a 339/2022. (IX. 7.) Korm. rendelet 13. §-ával megállapított szöveg.
