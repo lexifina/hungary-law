@@ -1,4 +1,4 @@
-26/A. §[^139] (1) Bővítés, és a 7/A. alcím szerinti korszerűsítés, illetve bővítés esetén a családi otthonteremtési kedvezmény a használatbavételi engedélyről szóló határozat, a használatbavétel tudomásulvételét igazoló hatósági dokumentum vagy egyszerű bejelentéshez kötött bővítés esetén a felépítés megtörténtét igazoló hatósági bizonyítvány kiállítását, vagy a 7/A. alcím szerinti korszerűsítés esetén a korszerűsítési munkák befejezését megelőzően a már megkötött családi otthonteremtési kedvezmény igénybevételéről szóló támogatási szerződés szerinti támogatási összeget megalapozó gyermekszámon felül további – a támogatási kérelem benyújtását követően a 12. várandóssági hetet betöltött, megszületett vagy örökbefogadott meglévő, vagy a 8. alcím szerint vállalt – 10. § szerinti gyermekre is igényelhető.
+26/A. §[^153] (1)[^154] Bővítés, és a 7/A. alcím szerinti – akár vásárlással együttes, akár meglévő lakást érintő – korszerűsítés, valamint bővítés esetén a családi otthonteremtési kedvezmény a használatbavételi engedélyről szóló határozat, a használatbavétel tudomásulvételét igazoló hatósági dokumentum vagy egyszerű bejelentéshez kötött bővítés esetén a felépítés megtörténtét igazoló hatósági bizonyítvány kiállítását, vagy a 7/A. alcím szerinti korszerűsítés esetén a korszerűsítési munkák befejezését megelőzően a már megkötött családi otthonteremtési kedvezmény igénybevételéről szóló támogatási szerződés szerinti támogatási összeget megalapozó gyermekszámon felül további – a támogatási kérelem benyújtását követően a 12. várandóssági hetet betöltött, megszületett vagy örökbefogadott meglévő, vagy a 8. alcím szerint vállalt – 10. § szerinti gyermekre is igényelhető.
 
 (2) Az (1) bekezdés szerinti igénylés esetén a családi otthonteremtési kedvezmény összege az (1) bekezdés szerinti további gyermekekkel együttesen igénybe vehető támogatási összeg és a már megkötött családi otthonteremtési kedvezmény igénybevételéről szóló támogatási szerződés szerinti támogatási összeg különbözete.
 
@@ -14,7 +14,7 @@ a) a kettőt, akkor a lakás hasznos alapterületének a 8. § (1) bekezdés b) 
 
 b) a hármat, akkor
 
-ba) a 7/A. alcímben meghatározott korszerűsítés, illetve bővítés céljából történő igénylés esetén a (4) bekezdés szerinti kérelem mellékleteként a támogatott személynek a már megkötött családi otthonteremtési kedvezmény igénybevételéről szóló támogatási szerződést megalapozó támogatási kérelem benyújtásának időpontjára vonatkozóan igazolnia kell a 19/E. § (2) bekezdésében foglalt feltételek teljesülését, és
+ba)[^155] a 7/A. alcímben meghatározott igénylés esetén a (4) bekezdés szerinti kérelem mellékleteként a támogatott személynek igazolnia kell a 19/E. § (2) bekezdésében foglalt feltételek teljesülését, és
 
 bb) a lakás hasznos alapterületének a 8. § (1) bekezdés c) pontjában foglaltaknak meg kell felelnie,
 
@@ -26,4 +26,6 @@ cb) a lakás hasznos alapterületének a 8. § (1) bekezdés d) pontjában fogla
 
 (7) Az (1)–(6) bekezdésben foglalt feltételek teljesülése esetén a hitelintézet és a támogatott személy a már megkötött támogatási szerződést a kiegészített támogatási kérelemnek megfelelően módosítja.
 
-[^139]: A 26/A. §-t a 786/2021. (XII. 27.) Korm. rendelet 8. §-a iktatta be.
+[^153]: A 26/A. §-t a 786/2021. (XII. 27.) Korm. rendelet 8. §-a iktatta be.
+[^154]: A 26/A. § (1) bekezdése a 406/2023. (VIII. 30.) Korm. rendelet 26. § 18. pontja szerint módosított szöveg.
+[^155]: A 26/A. § (6) bekezdés b) pont ba) alpontja a 406/2023. (VIII. 30.) Korm. rendelet 27. § b) pontja szerint módosított szöveg.

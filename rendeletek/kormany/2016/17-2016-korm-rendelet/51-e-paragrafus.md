@@ -1,3 +1,3 @@
-51/E. §[^256]
+51/E. §[^277]
 
-[^256]: Az 51/E. §-t a 169/2023. (V. 12.) Korm. rendelet 26. § b) pontja hatályon kívül helyezte.
+[^277]: Az 51/E. §-t a 169/2023. (V. 12.) Korm. rendelet 26. § b) pontja hatályon kívül helyezte.

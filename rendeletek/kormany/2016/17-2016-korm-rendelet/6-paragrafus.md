@@ -1,6 +1,6 @@
 ## 3. A családi otthonteremtési kedvezmény igénybevétele
 
-## 6. §[^33] A családi otthonteremtési kedvezmény Magyarország területén
+## 6. §[^34] A családi otthonteremtési kedvezmény Magyarország területén
 
 a) használt lakás vásárlása,
 
@@ -14,4 +14,4 @@ cb) meglévő lakás bővítése, illetve korszerűsítése
 
 céljából vehető igénybe.
 
-[^33]: A 6. § a 109/2019. (V. 13.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^34]: A 6. § a 109/2019. (V. 13.) Korm. rendelet 2. §-ával megállapított szöveg.
