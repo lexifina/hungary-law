@@ -4,11 +4,11 @@ Igazolások
 
 1. A 6. § (1) bekezdés b) pontjában meghatározott tanulmányokat folytató tanuló, hallgató e minőségét a következő dokumentumokkal igazolja:
 
-a) a köznevelési intézmény által kiállított tanulói jogviszony-igazolás,
+a)
 
-b) a szakképző intézmény által kiállított tanulói jogviszony-igazolás,
+b)
 
-c) a felsőoktatási intézmény által kiállított hallgatói jogviszony-igazolás,
+c)
 
 d) az oktatási igazolványokról szóló 362/2011. (XII. 30.) Korm. rendelet szerint a közreműködő intézmény által a tárgyidőszakra kiadott, érvényesítő matricával ellátott, nappali típusú diákigazolvány,
 
