@@ -1,10 +1,9 @@
 18. § A 87/2015. (IV. 9.) Korm. rendelet
 
-a)[^20]
+a)[^17]
 
-b)[^21]
+b) 63. § (2) bekezdésében az „a fogyatékosság” szövegrész helyébe az „az utóbb keletkezett fogyatékosság” szöveg
 
 lép.
 
-[^20]: A 18. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^21]: A 18. § b) pontja a 29. § (3) bekezdés alapján 2023. szeptember 1-jén lép hatályba.
+[^17]: A 18. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

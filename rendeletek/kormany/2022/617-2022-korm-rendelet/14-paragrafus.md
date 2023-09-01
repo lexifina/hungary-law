@@ -1,11 +1,10 @@
 14. § Az Fkr.
 
-a)[^14]
+a) 15/A. § (1) bekezdésében az „a 20–21. §-ban és a 24. §-ban meghatározott többletpontok” szövegrész helyébe az „az intézményi pontok” szöveg,
 
-b)[^15]
+b)[^13]
 
-c)[^16]
+c)[^14]
 
-[^14]: A 14. § a) pontja a 29. § (3) bekezdés alapján 2023. szeptember 1-jén lép hatályba.
-[^15]: A 14. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^16]: A 14. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 14. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 14. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

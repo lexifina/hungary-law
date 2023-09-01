@@ -1,3 +1,3 @@
-13. §[^13]
+13. § Az Fkr. a következő 64. §-sal egészül ki:
 
-[^13]: A 13. § a 29. § (3) bekezdés alapján 2023. szeptember 1-jén lép hatályba.
+„64. § E rendeletnek az egyes felsőoktatási tárgyú és kapcsolódó kormányrendeletek módosításáról szóló 617/2022. (XII. 29.) Korm. rendelettel módosított 15/A. §-át a 2024. évi általános felvételi eljárásban kell először alkalmazni.”

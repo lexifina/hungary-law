@@ -1,3 +1,3 @@
-28. §[^31]
+28. §[^27]
 
-[^31]: A 28. § a 29. § (3) bekezdés alapján 2023. szeptember 1-jén lép hatályba.
+[^27]: A 28. § a 331/2023. (VII. 19.) Korm. rendelet 15. §-a alapján nem lép hatályba.
