@@ -1,5 +1,0 @@
-20. § (1) A projektcsoport-minősítési eljárásban a 7. §-ban meghatározott regisztrációs kérelmet első alkalommal e rendelet hatálybalépését követő 60 napon belül lehet benyújtani.
-
-(2) A projektcsoport-minősítési eljárást első alkalommal a 2017. december 31-ét követően kezdődő adóév vonatkozásában, illetve a naptári évtől eltérő üzleti évvel rendelkező kérelmezők esetében az e rendelet hatálybalépése napján folyamatban lévő adóév vonatkozásában lehet kezdeményezni, feltéve, hogy a folyamatban lévő adóévből 6 hónap még nem telt el.
-
-(3) Ha a Szellemi Tulajdon Nemzeti Hivatala az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra az egyes tevékenységek kutatás-fejlesztési szempontú minősítése iránti eljárás részletes szabályairól szóló 9/2012. (II. 1.) Korm. rendelet 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.

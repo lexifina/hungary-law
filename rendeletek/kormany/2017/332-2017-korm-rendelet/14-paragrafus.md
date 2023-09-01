@@ -1,3 +1,0 @@
-## III. Fejezet
-
-## A MINŐSÍTÉSI ELJÁRÁSOK ÁLTALÁNOS SZABÁLYAI
