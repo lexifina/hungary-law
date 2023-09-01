@@ -32,15 +32,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1247/2016. (V. 18.) Korm. határozat
-
-## a) 1. pont f) alpont fa) pont faa) alpontjában a „251,58%-áig” szövegrész helyébe a „250,54%-áig” szöveg,
-
-## b) 1. melléklet 2. pontjában foglalt táblázat C:2 mezőjében az „1259,661” szövegrész helyébe az „1254,430” szöveg,
-
-## c) 2. mellékletében foglalt táblázat D:49 mezőjében a „107,77” szövegrész helyébe a „102,54” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1382/2023. (VIII. 30.) Korm. határozathoz
 
@@ -61,3 +53,5 @@
 ** Az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés a) pontja alapján az IKOP hazai társfinanszírozáson felüli felhasználásával kerül finanszírozásra ideiglenesen, a nagyprojekt második szakaszára vonatkozó, IKOP Plusz terhére megkötésre kerülő támogatási szerződés hatálybalépéséig.
 
 *** Az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés b) pontja alapján az IKOP hazai társfinanszírozáson felüli felhasználásával kerül finanszírozásra ideiglenesen, a nagyprojekt második szakaszára vonatkozó, IKOP Plusz terhére megkötésre kerülő támogatási szerződés hatálybalépéséig.
+
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
