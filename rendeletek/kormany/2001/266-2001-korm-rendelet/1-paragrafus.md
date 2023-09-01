@@ -28,9 +28,9 @@ j) kialakítja és működteti a nemzeti formatervezési díjak adományozásán
 
 (4) Az MFT felkérésre véleményezi a formatervezést érintő jogszabály, illetve kormány-előterjesztés tervezetét.
 
-(5)[^1] Az MFT javaslatot tesz a Vállalkozási Célelőirányzat és a Központi Műszaki Fejlesztési Alapprogram, valamint a Széchenyi Terv pályázati prioritásaival összhangban álló, a kis- és középvállalkozások formatervezési támogatását célzó évenkénti pályázatok kiírására és felkérésre részt vesz azok lebonyolításában.
+(5)[^2]
 
-(6)[^2] Az MFT javaslatára a nemzeti formatervezési díjak adományozásának rendjére vonatkozó szabályzatot az igazságügyért felelős miniszter (a továbbiakban: miniszter) hagyja jóvá.
+(6)[^3] Az MFT javaslatára a nemzeti formatervezési díjak adományozásának rendjére vonatkozó szabályzatot a kormányzati tudománypolitikáért felelős miniszter (a továbbiakban: miniszter) hagyja jóvá.
 
-[^1]: Az 1. § (5) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 227. §-ával megállapított szöveg.
-[^2]: Az 1. § (6) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 228. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (5) bekezdését a 246/2023. (VI. 22.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
+[^3]: Az 1. § (6) bekezdése a 246/2023. (VI. 22.) Korm. rendelet 1. §-ával megállapított szöveg.
