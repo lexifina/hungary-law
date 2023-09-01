@@ -18,11 +18,11 @@
 
 a) ha a nyílt eljárásban, – a c) és e) pontban hivatkozottak kivételével – a hirdetmény nélküli tárgyalásos eljárásban, a hirdetménnyel induló, egy szakaszból álló koncessziós beszerzési eljárásban vagy a 117. § szerint lefolytatott, egy szakaszból álló eljárásban csak egy ajánlatot nyújtottak be;
 
-b) ha a meghívásos, a tárgyalásos eljárás, a versenypárbeszéd, az innovációs partnerség eljárása során, a dinamikus beszerzési rendszer alapján történő szerződéskötés érdekében, a hirdetménnyel induló, több szakaszból álló koncessziós beszerzési eljárásban vagy a 117. § szerint lefolytatott, több szakaszból álló eljárásban csak egy ajánlatot nyújtottak be, és ha az eljárásban volt érvénytelen részvételi jelentkezés vagy sor került kizárásra, az erre vonatkozó döntés ellen a jogorvoslat kezdeményezésének határideje az érintettek számára lejárt, vagy a döntést a Közbeszerzési Döntőbizottság jogszerűnek ítélte;
+b) ha a meghívásos, a tárgyalásos eljárás, a versenypárbeszéd, az innovációs partnerség eljárása során, a hirdetménnyel induló, több szakaszból álló koncessziós beszerzési eljárásban vagy a 117. § szerint lefolytatott, több szakaszból álló eljárásban csak egy ajánlatot nyújtottak be, és ha az eljárásban volt érvénytelen részvételi jelentkezés vagy sor került kizárásra, az erre vonatkozó döntés ellen a jogorvoslat kezdeményezésének határideje az érintettek számára lejárt, vagy a döntést a Közbeszerzési Döntőbizottság jogszerűnek ítélte;
 
 c) ha a hirdetmény nélküli tárgyalásos eljárást a 98. § (2) bekezdés e) pontja alapján indították;
 
-d) a keretmegállapodás alapján történő beszerzés esetében, kivéve, ha a közbeszerzés a verseny újranyitásával valósul meg, és ennek során több ajánlatot nyújtanak be;
+d) a keretmegállapodás vagy a dinamikus beszerzési rendszer alapján történő beszerzés esetében,
 
 e) ha a hirdetmény nélküli tárgyalásos eljárást a 98. § (2) bekezdés c)–d) pontja, (3) bekezdése vagy (4) bekezdés b)–d) pontja alapján, egyetlen ajánlattevő felhívásával a 98. § (5) bekezdése szerint vagy a hirdetmény nélküli koncessziós beszerzési eljárást a 128. § (1) bekezdése a) pontja alapján indították, és a 152. § (3) bekezdése szerinti határidőben a Közbeszerzési Hatóság elnöke nem élt a jogorvoslati eljárás megindításának jogával;
 

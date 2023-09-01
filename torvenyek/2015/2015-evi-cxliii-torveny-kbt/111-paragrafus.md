@@ -34,7 +34,7 @@ o) az Országgyűlésről szóló 2012. évi XXXVI. törvény 113. §-ában és 
 
 p) olyan szolgáltatás megrendelése esetében, amely a pártok működését segítő tudományos, ismeretterjesztő, kutatási, oktatási tevékenységet végző alapítványokról szóló 2003. évi XLVII. törvény 1. §-a alapján létrehozott alapítvány alapító okiratában meghatározott tudományos, ismeretterjesztő, kutatási vagy oktatási tevékenység végzésére irányul, vagy azt közvetlenül segíti;
 
-q) a külképviselet számára történő beszerzés esetén;
+q) a külképviselet számára történő beszerzés esetén, valamint a honvédelemért felelős miniszter irányítása vagy felügyelete alá tartozó költségvetési szervek által műveleti területen telephellyel rendelkező ideiglenes szervezet számára műveleti területen történő, vagy a külföldi képzéseken, tartós nem fegyveres külszolgálatban résztvevők vagy katonai képviseletek ellátásához kapcsolódó, Magyarország határain kívül történő árubeszerzés vagy szolgáltatás megrendelése esetén;
 
 r) az épített környezet alakításáról és védelméről szóló törvény szerinti épületre vonatkozó építészeti-műszaki tervezési szolgáltatás, belsőépítészeti tervezési szolgáltatás, településtervezési vagy tájrendezési tervezési szolgáltatás megrendelésére – az ezekhez kapcsolódó szakági és az épület rendeltetésszerű használatához szükséges tervezési tevékenységekre kizárólag akkor, ha annak megrendelésére építészeti, belsőépítészeti, településtervezési vagy tájrendezési tervezéssel együttesen, ugyanazon tervezett építési beruházás tekintetében kerül sor;
 

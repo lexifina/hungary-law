@@ -62,6 +62,8 @@ w) naprakészen vezeti az EKR-ben a törvény hatálya alá tartozó ajánlatké
 
 x) kizárólagos joggal ellátja a CoRe üzemeltetését.
 
+y) a honlapján közzéteszi az IPI rendelet 6. cikk (1) bekezdése szerinti végrehajtási aktusokat.
+
 (2a) A (2) bekezdés u) pontjában foglalt feladatok ellátásához a védett munkahelyek kötelesek ezen minőségükről – valamint az adataikban történt változásokról – haladéktalanul tájékoztatni a Hatóságot az általuk gyártott vagy forgalmazott termékek, valamint a részükről nyújtott szolgáltatások megjelölésével együtt.
 
 (2b) A (2) bekezdés a) pontjában foglalt feladatok ellátása tekintetében kizárólag a Hatóság jogosult az EKR-be feltöltött adatok vonatkozásában módosítást végrehajtani. Az e bekezdésben, a (2) bekezdés a) pontjában, valamint a 43. § (1a) bekezdésében foglaltak teljesítéséhez kapcsolódóan az EKR megfelelő működéséért az EKR üzemeltetője felelős.

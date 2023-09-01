@@ -12,4 +12,4 @@ d) ha a hirdetmény nélküli tárgyalásos eljárás megkezdéséről a Közbes
 
 (3) Az (1)–(2) bekezdés szerinti kezdeményezésre a 152. § (2)–(8) bekezdését kell alkalmazni.
 
-(4) Az (1) bekezdés c) pontja szerint kezdeményezett jogorvoslati eljárás esetén a tudomásra jutás időpontja megegyezik a 187. § (2) bekezdés j) pontja szerint lefolytatott hatósági ellenőrzés befejezésének napjával.
+(4)

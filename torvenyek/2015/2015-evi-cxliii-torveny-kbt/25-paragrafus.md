@@ -16,7 +16,7 @@
 
 a) a közbeszerzési eljárásban ajánlattevőként, részvételre jelentkezőként, alvállalkozóként részt vesz vagy az alkalmasság igazolásában részt vesz;
 
-b) a közbeszerzési eljárásban ajánlattevőként, részvételre jelentkezőként, alvállalkozóként vagy az alkalmasság igazolásában részt vevő szervezetként részt vevő gazdasági szereplő vagy annak tagja, vezető tisztségviselője, felügyelőbizottságának tagja, cégvezetője vagy alkalmazottja; vagy
+b) a közbeszerzési eljárásban ajánlattevőként, részvételre jelentkezőként, alvállalkozóként vagy az alkalmasság igazolásában részt vevő szervezetként részt vevő gazdasági szereplő tagja, vezető tisztségviselője, felügyelőbizottságának tagja, cégvezetője vagy alkalmazottja; vagy
 
 c) az a) vagy a b) pontban meghatározott személyek hozzátartozója.
 

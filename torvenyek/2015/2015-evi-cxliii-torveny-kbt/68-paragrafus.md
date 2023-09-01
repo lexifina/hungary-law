@@ -2,7 +2,7 @@
 
 68. § (1) Az ajánlatokat vagy részvételi jelentkezéseket tartalmazó iratok felbontását az ajánlattételi, illetve részvételi határidő lejártát követően, – amennyiben jogszabály azt előírja – jogszabályban meghatározott időtartam elteltével kell megkezdeni.
 
-(1a) Az (1) bekezdéstől eltérően, ha a 41/C. § (1) bekezdés e)–f) pontja alapján az ajánlatok benyújtása egészében papíralapon történik, az ajánlatokat vagy részvételi jelentkezéseket tartalmazó iratok felbontását az ajánlattételi, illetve részvételi határidő lejártának időpontjában kell megkezdeni, és a (4) bekezdéstől eltérően a rendelkezésre álló fedezet összege az ajánlatok bontásának megkezdése előtt ismertethető.
+(1a) Az (1) bekezdéstől eltérően, ha az ajánlatok benyújtása egészében papíralapon történik, az ajánlatokat vagy részvételi jelentkezéseket tartalmazó iratok felbontását az ajánlattételi, illetve részvételi határidő lejártának időpontjában kell megkezdeni, és a (4) bekezdéstől eltérően a rendelkezésre álló fedezet összege az ajánlatok bontásának megkezdése előtt ismertethető.
 
 (1b) Az elektronikusan benyújtott ajánlatok vagy részvételi jelentkezések felbontását az EKR végzi akként, hogy a bontás időpontjában az ajánlatok vagy részvételi jelentkezések az ajánlatkérő számára hozzáférhetővé válnak.
 

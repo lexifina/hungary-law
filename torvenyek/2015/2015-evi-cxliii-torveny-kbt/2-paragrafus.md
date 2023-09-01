@@ -1,6 +1,6 @@
 2. § (1) A közbeszerzési eljárásban az ajánlatkérő köteles biztosítani, a gazdasági szereplő pedig tiszteletben tartani a verseny tisztaságát, átláthatóságát és nyilvánosságát.
 
-(2) Az ajánlatkérőnek esélyegyenlőséget és egyenlő bánásmódot kell biztosítania a gazdasági szereplők számára.
+(2) Az ajánlatkérőnek esélyegyenlőséget és egyenlő bánásmódot kell biztosítania a gazdasági szereplők számára és arányos módon kell eljárnia a közbeszerzési eljárás során.
 
 (3) Az ajánlatkérő és a gazdasági szereplők a közbeszerzési eljárásban a jóhiszeműség és a tisztesség követelményeinek megfelelően kötelesek eljárni. A joggal való visszaélés tilos.
 

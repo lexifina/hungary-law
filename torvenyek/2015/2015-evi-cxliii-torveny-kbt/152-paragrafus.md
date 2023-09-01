@@ -30,19 +30,29 @@ n) az európai uniós források felhasználásáért felelős miniszter.
 
 o) az európai uniós forrásból megvalósuló közbeszerzésekkel összefüggésben az Integritás Hatóság.
 
-(2) A Közbeszerzési Döntőbizottság hivatalból való eljárását az (1) bekezdés a)–f) pontja, h)–i) pontja és k)–l) pontja szerinti személy vagy szervezet a jogsértés tudomásra jutásától számított hatvan napon belül, az (1) bekezdés g), j), m)–o) pontja szerinti szervezet vagy személy a jogsértés tudomásra jutásától számított kilencven napon belül, de
+(2) A Közbeszerzési Döntőbizottság hivatalból való eljárását az (1) bekezdés szerinti szervezet vagy személy
 
 a) legkésőbb a jogsértés megtörténtétől számított három éven belül,
 
-b) közbeszerzési eljárás mellőzésével történt beszerzés esetén az a) ponttól eltérően a szerződés megkötésének időpontjától vagy, ha ez nem állapítható meg, akkor a szerződés teljesítésének bármelyik fél által történt megkezdésétől számított legfeljebb öt éven belül, vagy
+b) közbeszerzési eljárás mellőzésével történt beszerzés esetén az a) ponttól eltérően a szerződés megkötésének időpontjától, vagy ha ez nem állapítható meg, akkor a szerződés teljesítésének bármelyik fél által történt megkezdésétől számított legfeljebb öt éven belül, vagy
 
-c) támogatásból megvalósuló beszerzés esetén az a) és b) ponttól eltérően az adott támogatás folyósítására és felhasználására vonatkozó jogszabályban előírt iratmegőrzési kötelezettség időtartamán belül, de legalább a jogsértés megtörténtétől – közbeszerzési eljárás mellőzésével történt beszerzés esetén a szerződés megkötésének időpontjától, vagy ha ez nem állapítható meg, akkor a szerződés teljesítésének bármelyik fél által történt megkezdésétől – számított öt éven belül kezdeményezheti.
+c) támogatásból megvalósuló beszerzés esetén az a) és b) ponttól eltérően az adott támogatás folyósítására és felhasználására vonatkozó jogszabályban előírt iratmegőrzési kötelezettség időtartamán belül, de legalább a jogsértés megtörténtétől számított öt éven belül
 
-(2a) Az (1) bekezdés g) pontja szerinti szervezet esetében a (2) bekezdés szerinti határidő számításakor a jogsértés tudomásra jutása időpontjának kell tekinteni a közbeszerzési jogsértésre vonatkozó szabálytalansági eljárás megindításának napját.
+kezdeményezheti.
+
+(2a) Ha az (1) bekezdés szerinti személy vagy szervezet közbeszerzési jogsértés feltárására vagy jogkövetkezményeinek alkalmazására irányuló, jogszabályban meghatározott ellenőrzést vagy más eljárást folytat le, ez a személy vagy szervezet a Közbeszerzési Döntőbizottság hivatalból való eljárását a (2) bekezdésben meghatározott időtartamokon belül, de legfeljebb
+
+a) az ellenőrzés vagy eljárás eredményének az ellenőrzéssel, illetve az eljárással érintett szervezettel való közlésétől (több érintett szervezet esetén a legkorábbi közlés időpontjától); vagy
+
+b) az a) pont szerinti közlés hiányában az ellenőrzés, illetve eljárás lezárására irányadó határidő lejártától; vagy
+
+c) az európai uniós források felhasználásához kapcsolódó szabálytalansági eljárás esetén az a)–b) pontoktól eltérően, a szabálytalansági eljárás megindításától
+
+számított kilencven napon belül kezdeményezheti.
 
 (3) Amennyiben a (2) bekezdésből más nem következik, a jogsértés megtörténtének időpontja tekintetében a 148. § (8) bekezdését megfelelően alkalmazni kell. A (2) bekezdéstől eltérően a 153. § (1) bekezdés d) pontja szerinti esetben a Közbeszerzési Hatóság elnöke a 189. § (1) bekezdése szerinti határidőn belül kezdeményezheti a Közbeszerzési Döntőbizottság hivatalból indított eljárását.
 
-(4) A Közbeszerzési Döntőbizottság hivatalból való eljárását kezdeményező iratban meg kell jelölni a 149. § (1) bekezdés a)–d) és g) pontjában szereplő adatokat és javaslatot lehet tenni az e) és f) pontjában foglaltakra. A kezdeményező irathoz csatolni kell a jogsértéssel érintett beszerzéssel vagy közbeszerzéssel kapcsolatban rendelkezésre álló iratok másolatát. A benyújtott kezdeményező irat informatikai eszköz alkalmazásával megszerkesztett, szerkeszthető formátumú változatát a Közbeszerzési Döntőbizottság rendelkezésére kell bocsátani, amit – elektronikus levél útján történő benyújtás esetén – a Közbeszerzési Döntőbizottság egy munkanapon belül visszaigazol.
+(4) A Közbeszerzési Döntőbizottság hivatalból való eljárását kezdeményező iratban meg kell jelölni a 149. § (1) bekezdés a)–d) és g) pontjában szereplő adatokat – a tudomásszerzés időpontját akkor, ha a 197. § (26) bekezdése szerint releváns – és javaslatot lehet tenni az e) és f) pontjában foglaltakra. A kezdeményező irathoz csatolni kell a jogsértéssel érintett beszerzéssel vagy közbeszerzéssel kapcsolatban rendelkezésre álló iratok másolatát. A benyújtott kezdeményező irat informatikai eszköz alkalmazásával megszerkesztett, szerkeszthető formátumú változatát a Közbeszerzési Döntőbizottság rendelkezésére kell bocsátani, amit – elektronikus levél útján történő benyújtás esetén – a Közbeszerzési Döntőbizottság egy munkanapon belül visszaigazol.
 
 (5) A Közbeszerzési Döntőbizottság a hivatalbóli kezdeményezést visszautasítja, ha azt nem az (1) bekezdésben meghatározott jogosult terjesztette elő.
 
@@ -52,4 +62,4 @@ c) támogatásból megvalósuló beszerzés esetén az a) és b) ponttól eltér
 
 (8) A kezdeményezés visszautasítására, valamint az eljárás megszüntetésére a 151. § (5)–(8) bekezdését megfelelően alkalmazni kell.
 
-(9) A 187. § (2) bekezdés j) pontja szerinti ellenőrzés esetén a (2) bekezdése szerinti határidő számításakor a jogsértés tudomásra jutása időpontjának az ellenőrzési jegyzőkönyv kézbesítését kell tekinteni.
+(9)

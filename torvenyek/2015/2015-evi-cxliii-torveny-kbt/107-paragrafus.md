@@ -25,3 +25,5 @@ b) az ajánlatkérő nem kérheti az alkalmasság és kizáró okok igazolását
 (9) Az eljárást megindító, vagy – előzetes tájékoztatóval meghirdetett eljárás esetén – meghirdető felhívásban az ajánlatkérőnek fel kell tüntetnie a dinamikus beszerzési rendszer fennállásának időtartamát. A fennállás időtartamának megváltozásáról a külön jogszabályban meghatározott hirdetményt kell közzétenni.
 
 (10) A gazdasági szereplők számára a dinamikus beszerzési rendszerben való részvételre tekintettel nem számolható fel díj.
+
+(11) Az ajánlatkérő a közbeszerzési dokumentumokban (a részvételi vagy az ajánlattételi szakaszban) rendelkezhet úgy is, hogy az ajánlatok bírálatát az ajánlatok értékelését követően végzi el. Ebben az esetben csak az értékelési sorrendben legkedvezőbb vagy a legkedvezőbb és az azt követő egy vagy több legkedvezőbb ajánlatot tett ajánlattevő tekintetében végzi el a bírálatot. A bírálat során biztosítani kell, hogy a nyertes – és ha az összegezésben meg kívánja nevezni, a második legkedvezőbb ajánlatot tett – ajánlattevő ajánlatának érvényességét az eljárást lezáró döntést megelőzően az ajánlatkérő teljeskörűen elbírálja.

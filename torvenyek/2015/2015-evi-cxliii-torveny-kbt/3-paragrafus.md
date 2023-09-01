@@ -94,7 +94,7 @@ c) jogosult arra, hogy a vezető tisztségviselők (döntéshozók, ügyvezetők
 
 29. médiaszolgáltató: az a természetes vagy jogi személy, aki vagy amely szerkesztői felelősséggel rendelkezik a médiaszolgáltatás tartalmának megválasztásáért, és meghatározza annak összeállítását;
 
-30. műszaki egyenértékűség: létesítmény, termék vagy szolgáltatás olyan meghatározó műszaki paramétere, amely mérhető, és amelynek előírt mérőszámát több létesítmény, termék vagy szolgáltatás is teljesítheti;
+30.
 
 31. nem központi ajánlatkérő: az 5. § (1) bekezdés c)–f) pontja, valamint (2) bekezdése szerinti ajánlatkérő;
 
