@@ -14,7 +14,7 @@ db) legalább két – ikrekkel való várandósság esetén egy – gyermek ut�
 
 dc) legalább három gyermek után családi pótlékra jogosult gyám, amely esetben a gyermekek számába a gyámság alatt álló gyermek akkor számít bele, ha mindkét szülője meghalt, és a gyámság legalább egy éve fennáll,
 
-azzal, hogy az igénylő saját háztartásában nevelt vagy gondozott olyan gyermekét, akire tekintettel a családi pótlékra való jogosultság megszűnése előtt közvetlenül magasabb összegű családi pótlékra volt jogosult, vagy fogyatékossági támogatásban részesül, életkorától és a családi pótlékra való jogosultság megszűnésétől függetlenül kell figyelembe venni, a Cst. 9. § (4) bekezdése szerinti gyermek pedig a lakóhelye szerinti szülőnél vehető figyelembe;
+azzal, hogy az igénylő saját háztartásában nevelt vagy gondozott olyan gyermeket, akire tekintettel a családi pótlékra való jogosultság megszűnése előtt közvetlenül magasabb összegű családi pótlékra volt jogosult, vagy fogyatékossági támogatásban részesül, életkorától és a családi pótlékra való jogosultság megszűnésétől függetlenül kell figyelembe venni, a Cst. 9. § (4) bekezdése szerinti gyermek pedig a lakóhelye szerinti szülőnél vehető figyelembe;
 
 e) támogatással érintett személy: a nagycsaládos házastársa vagy élettársa;
 
@@ -23,5 +23,5 @@ f) zártvégű pénzügyi lízingszerződés: olyan, a Polgári Törvénykönyvr
 g)[^3] casco biztosítás: a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény 1. melléklet A) rész 3. pont a) alpontja szerinti biztosítási ágazatba tartozó kárbiztosítási szerződés.
 
 [^1]: A 3. § b) pontja a 151/2019. (VI. 26.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^2]: A 3. § d) pontja a 151/2019. (VI. 26.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^2]: A 3. § d) pontja a 151/2019. (VI. 26.) Korm. rendelet 7. § (2) bekezdésével megállapított, záró szövegrésze a 406/2023. (VIII. 30.) Korm. rendelet 47. § a) pontja szerint módosított szöveg.
 [^3]: A 3. § g) pontját a 151/2019. (VI. 26.) Korm. rendelet 7. § (3) bekezdése iktatta be.
