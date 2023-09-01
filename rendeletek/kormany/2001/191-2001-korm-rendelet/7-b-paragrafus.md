@@ -1,3 +1,3 @@
-7/B. §[^44]
+7/B. §[^52]
 
-[^44]: A 7/B. §-t a 306/2016. (X. 13.) Korm. rendelet 3. § c) pontja hatályon kívül helyezte.
+[^52]: A 7/B. §-t a 306/2016. (X. 13.) Korm. rendelet 3. § c) pontja hatályon kívül helyezte.
