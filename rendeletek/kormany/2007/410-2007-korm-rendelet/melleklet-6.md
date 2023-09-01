@@ -1,7 +1,9 @@
-| Sorszám | Az autópálya leálló sávjának igénybevételére vonatkozó rendelkezések | A közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet | Bírság összege forintban |
+|  | A | B | C | D |
 
-| 1. | Haladás a leálló sávon | 37. § (5) bekezdés | 100 000 |
+| 1 | Sorszám | Az autópálya leálló sávjának igénybevételére vonatkozó rendelkezések | A közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet | Bírság összege forintban |
+
+| 2 | 1. | Haladás a leálló sávon | 37. § (5) bekezdés | 130 000 |
 
 6. melléklet a 410/2007. (XII. 29.) Korm. rendelethez[^63]
 
-[^63]: A 6. számú melléklet a 348/2009. (XII. 30.) Korm. rendelet 5. §-a, a 228/2012. (VIII. 23.) Korm. rendelet 3. § (10) bekezdése szerint módosított szöveg.
+[^63]: A 6. melléklet a 393/2023. (VIII. 14.) Korm. rendelet 1. § f) pontjával megállapított szöveg.

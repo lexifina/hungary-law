@@ -1,25 +1,25 @@
-| Sorszám | A | B | C | D |
+|  | A | B | C | D | E |
 
-| 1. | Bírságolással érintett cselekmények, mulasztások | Bírság összege forintban | Jogszabályi hivatkozás | A bírságolással érintett cselekmény, mulasztás elkövetéséért felelőssé tehető |
+| 1 | Sorszám | Bírságolással érintett cselekmények, mulasztások | Bírság összege forintban | Jogszabályi hivatkozás | A bírságolással érintett cselekmény, mulasztás elkövetéséért felelőssé tehető |
 
-| 2. | A jármű vagy járműszerelvény közútkezelői hozzájárulás nélküli vagy a közútkezelő hozzájárulásában szereplő értéktől eltérő közlekedése, amennyiben a megengedett legnagyobb össztömeg túllépése fennáll. | … < 5% | 50 000 | a meghatározott össztömeget, tengelyterhelést, tengelycsoport-terhelést és méretet meghaladó járművek közlekedéséről szóló miniszteri rendelet | üzemben tartó |
+| 2 | 1. | A jármű vagy járműszerelvény közútkezelői hozzájárulás nélküli vagy a közútkezelő hozzájárulásában szereplő értéktől eltérő közlekedése, amennyiben a megengedett legnagyobb össztömeg túllépése fennáll. | … < 5% | 65 000 | a meghatározott össztömeget, tengelyterhelést, tengelycsoport-terhelést és méretet meghaladó járművek közlekedéséről szóló miniszteri rendelet | üzemben tartó |
 
-| 5% ≤ … < 10% | 100 000 |
+| 3 | 5% ≤ … < 10% | 130 000 |
 
-| 10% ≤ … < 20% | 200 000 |
+| 4 | 10% ≤ … < 20% | 260 000 |
 
-| 20% ≤ …< 30% 30% ≤ … | 350 000 500 000 |
+| 5 | 20% ≤ … 30% 30% ≤ … | 455 000 650 000 |
 
-| 3. | A megengedett legnagyobb tengely- vagy tengelycsoport-terhelést meghaladó, a közút kezelőjének hozzájárulása nélkül vagy a közút kezelőjének hozzájárulásában szereplő értéktől eltérően közlekedő jármű esetében. | … < 5% | 50 000 | a meghatározott össztömeget, tengelyterhelést, tengelycsoport-terhelést és méretet meghaladó járművek közlekedéséről szóló miniszteri rendelet | üzemben tartó |
+| 6 | 2. | A megengedett legnagyobb tengely- vagy tengelycsoport-terhelést meghaladó, a közút kezelőjének hozzájárulása nélkül vagy a közút kezelőjének hozzájárulásában szereplő értéktől eltérően közlekedő jármű esetében. | … < 5% | 65 000 | a meghatározott össztömeget, tengelyterhelést, tengelycsoport-terhelést és méretet meghaladó járművek közlekedéséről szóló miniszteri rendelet | üzemben tartó |
 
-| 5% ≤ … < 10% | 100 000 |
+| 7 | 5% ≤ … < 10% | 130 000 |
 
-| 10% ≤ … < 20% | 200 000 |
+| 8 | 10% ≤ … < 20% | 260 000 |
 
-| 20% ≤ …< 30% 30% ≤ … | 350 000 500 000 |
+| 9 | 20% ≤ … 30% 30% ≤ … | 455 000 650 000 |
 
-| 4. | A tengelysúlymérő rendszer keretében végzett mérés eredménye befolyásolásának tilalmára vonatkozó rendelkezések megsértése esetén. | 100 000 | a közúti közlekedésről szóló 1988. évi I. törvény 21/K. § (1a) bekezdés | üzemben tartó |
+| 10 | 3. | A tengelysúlymérő rendszer keretében végzett mérés eredménye befolyásolásának tilalmára vonatkozó rendelkezések megsértése esetén. | 130 000 | a közúti közlekedésről szóló 1988. évi I. törvény 21/K. § (1a) bekezdés | üzemben tartó |
 
 5. melléklet a 410/2007. (XII. 29.) Korm. rendelethez[^62]
 
-[^62]: Az 5. melléklet a 228/2012. (VIII. 23.) Korm. rendelet 3. § (9) bekezdésével megállapított, ugyanezen módosító rendelet 10. § (4) bekezdése, a 248/2019. (X. 24.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^62]: Az 5. melléklet a 393/2023. (VIII. 14.) Korm. rendelet 1. § e) pontjával megállapított szöveg.
