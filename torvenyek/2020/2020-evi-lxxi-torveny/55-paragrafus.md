@@ -1,0 +1,1 @@
+55. § Az ingatlanügyi hatóság nem hoz határozatot a megosztás kiindulási helyéről és irányáról, de azokat a művelhetőségi és a megközelíthetőségi szempontokra, valamint a kialakult helyszíni használatra figyelemmel kell megállapítani.
