@@ -12,16 +12,16 @@ b) a keretmegállapodás megkötésére irányuló közbeszerzési eljárásokat
 
 c) a keretmegállapodás alapján megvalósított beszerzéseket,
 
-d)[^2]
+d)[^5]
 
-e)[^3]
+e)[^6]
 
 f) a hirdetmény nélküli tárgyalásos eljárásokat és
 
 g) a hirdetmény nélküli koncessziós beszerzési eljárásokat.
 
-(4)[^4] A Kbt. 29. §-a szerinti közös közbeszerzési eljárás esetén a közbeszerzési eljárásokat az ajánlatkérő(k) által a közbeszerzési eljárás lefolytatásával meghatalmazott ajánlatkérő vonatkozásában kell figyelembe venni az egyajánlatos közbeszerzések arányának és a lefolytatott közbeszerzések darabszámának kiszámítása során.
+(4)[^7] A Kbt. 29. §-a szerinti közös közbeszerzési eljárás esetén a közbeszerzési eljárásokat az ajánlatkérő(k) által a közbeszerzési eljárás lefolytatásával meghatalmazott ajánlatkérő vonatkozásában kell figyelembe venni az egyajánlatos közbeszerzések arányának és a lefolytatott közbeszerzések darabszámának kiszámítása során.
 
-[^2]: A 4. § (3) bekezdés d) pontját az 54/2023. (II. 27.) Korm. rendelet 23. §-a hatályon kívül helyezte.
-[^3]: A 4. § (3) bekezdés e) pontját az 54/2023. (II. 27.) Korm. rendelet 23. §-a hatályon kívül helyezte.
-[^4]: A 4. § (4) bekezdését az 54/2023. (II. 27.) Korm. rendelet 19. §-a iktatta be.
+[^5]: A 4. § (3) bekezdés d) pontját az 54/2023. (II. 27.) Korm. rendelet 23. §-a hatályon kívül helyezte.
+[^6]: A 4. § (3) bekezdés e) pontját az 54/2023. (II. 27.) Korm. rendelet 23. §-a hatályon kívül helyezte.
+[^7]: A 4. § (4) bekezdését az 54/2023. (II. 27.) Korm. rendelet 19. §-a iktatta be.

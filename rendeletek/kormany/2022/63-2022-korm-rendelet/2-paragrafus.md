@@ -4,8 +4,8 @@
 
 (3) Az 1. § (1) bekezdés b) pontja tekintetében a beszerzési tárgyaknak a közbeszerzési eljárás megindításának – előzetes piaci konzultáció alkalmazása esetén a konzultáció meghirdetésének – időpontjában hatályos listáját kell alapul venni.
 
-(4)[^1] Az 1. § (2) bekezdés b) pontja hatálya alá tartozást az ajánlatkérő a miniszter 5. § (4) bekezdése szerint közzétett adatok alapján állapítja meg.
+(4)[^4] Az 1. § (2) bekezdés b) pontja hatálya alá tartozást az ajánlatkérő a miniszter 5. § (4) bekezdése szerint közzétett adatok alapján állapítja meg.
 
 (5) A miniszter 2022. március 15-ig módszertani iránymutatást tesz közzé az EKR honlapján az előzetes piaci konzultáció alkalmazásáról. Az iránymutatás tervezetét a miniszter a Közbeszerzési Hatóság és a Gazdasági Versenyhivatal részére véleményezés céljából megküldi.
 
-[^1]: A 2. § (4) bekezdése az 54/2023. (II. 27.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § (4) bekezdése az 54/2023. (II. 27.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.

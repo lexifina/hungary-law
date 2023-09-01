@@ -14,15 +14,15 @@ b) esetében az egyajánlatos közbeszerzések aránya – az uniós értékhat�
 
 (3) Az (1) és (2) bekezdés szerint kötelező előzetes piaci konzultációt az elektronikus közbeszerzési rendszer (a továbbiakban: EKR) funkciójának használatával kell meghirdetni. Központi beszerző szerv által lebonyolított közbeszerzési eljárás esetén az előzetes piaci konzultáció az általa használt egyéb informatikai rendszerben is meghirdethető.
 
-(4) Az előzetes piaci konzultáció (3) bekezdés szerinti kötelező meghirdetésének határideje a közbeszerzési eljárást megindító felhívás Közbeszerzési Hatóság részére történő megküldését – a Kbt. 51. § (1) bekezdésének alkalmazása esetén a részvételi felhívás gazdasági szereplők részére történő közvetlen megküldését – megelőző legalább hetedik nap.
+(4)[^1] Az előzetes piaci konzultáció (3) bekezdés szerinti kötelező meghirdetésének határideje a közbeszerzési eljárást megindító felhívás Közbeszerzési Hatóság részére történő megküldését – a Kbt. 51. § (1) bekezdésének alkalmazása esetén a részvételi felhívás gazdasági szereplők részére történő közvetlen megküldését – megelőző legalább tizennegyedik nap, amelynek során az (5) bekezdés a) pontja szerinti dokumentumok elérhetőségét folyamatosan biztosítani kell. Az előzetes piaci konzultációba történő bekapcsolódás lehetőségét a meghirdetéstől számított legalább nyolc napig kell biztosítani. Amennyiben a rendelkezésre álló határidőben egyetlen gazdasági szereplő sem kapcsolódik be az előzetes piaci konzultációba, az ajánlatkérő a közbeszerzési eljárást megindító felhívást az előzetes piaci konzultáció meghirdetését követő tizennegyedik napnál hamarabb is megküldheti a Közbeszerzési Hatóság vagy a Kbt. 51. § (1) bekezdésének alkalmazása esetén a gazdasági szereplők részére.
 
-(5) Az előzetes piaci konzultáció során az ajánlatkérő köteles legalább
+(5)[^2] Az előzetes piaci konzultáció során az ajánlatkérő köteles legalább
 
-a) a közbeszerzés tárgyát, a műszaki leírás tervezetét és a szerződéstervezetet vagy a főbb szerződéses feltételeket a konzultáció meghirdetésekor közzétenni,
+a) a közbeszerzés tárgyát, a műszaki leírás, az alkalmassági követelmények és az értékelési szempontok tervezetét, valamint a szerződéstervezetet vagy a főbb szerződéses feltételeket a konzultáció meghirdetésekor közzétenni,
 
-b) a közzétett dokumentumok véleményezésének lehetőségét bármely potenciális ajánlattevő vagy egyéb érdekelt szervezet részére biztosítani, továbbá
+b) a közzétett dokumentumok véleményezésének lehetőségét bármely érdekelt gazdasági szereplő vagy a közbeszerzés tárgyával összefüggő tevékenységű kamara vagy érdekképviseleti szervezet részére biztosítani, továbbá
 
-c) a beérkezett véleményekről, a véleményekkel kapcsolatos álláspontjáról és a vélemények alapján a dokumentumokban végrehajtott érdemi jelentőségű módosításokról összefoglalót készíteni.
+c) a beérkezett véleményekről, a véleményekkel kapcsolatos álláspontjáról – amennyiben az ajánlatkérő a beérkezett véleményt figyelmen kívül hagyja, akkor ennek szakmai indokáról – és a vélemények alapján a dokumentumokban végrehajtott érdemi jelentőségű módosításokról összefoglalót készíteni.
 
 (6) Az (5) bekezdés c) pontja szerinti összefoglalót az EKR előzetes piaci konzultációs felületén nyilvánosan közzé kell tenni, és annak elérhetőségét a konzultációhoz kapcsolódó közbeszerzési eljárást megindító felhívásban fel kell tüntetni. Ha az előzetes piaci konzultációt a központi beszerző szerv az általa használt egyéb informatikai rendszerben hirdette meg, akkor az összefoglalót ebben az informatikai rendszerben teszi közzé.
 
@@ -31,3 +31,9 @@ c) a beérkezett véleményekről, a véleményekkel kapcsolatos álláspontjár
 (8) Ha az előzetes piaci konzultáció során egyetlen gazdasági szereplő sem ad véleményt, az ajánlatkérő az (5) bekezdés c) pontja szerinti összefoglalóban ennek tényét köteles rögzíteni. A beérkezett vélemények hiánya nem befolyásolja a közbeszerzési eljárás megindíthatóságát.
 
 (9) A Kbt. 61. § (5) bekezdése szerinti részajánlattételi lehetőség biztosítása esetén az (1) bekezdés szerinti kötelezettséget azon közbeszerzési eljárási rész vagy részek vonatkozásában kell teljesíteni, amelyhez kapcsolódó beszerzési tárgy az (1) bekezdés b) pontja szerinti valamely CPV főcsoportba tartozik. Ha a közbeszerzés többféle, eltérő CPV főcsoportokba tartozó beszerzési tárgyat foglal magában, az (1) bekezdés szerinti kötelezettség megállapításakor a beszerzés fő tárgyát kell alapul venni.
+
+(10)[^3] A közbeszerzés tárgyával összefüggő tevékenységű kamara vagy érdekképviseleti szervezet értesítheti a tagjait a tevékenységükkel összefüggő előzetes piaci konzultáció indításának tényéről.
+
+[^1]: Az 1. § (4) bekezdése a 411/2023. (VIII. 30.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (5) bekezdése a 411/2023. (VIII. 30.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (10) bekezdését a 411/2023. (VIII. 30.) Korm. rendelet 7. § (2) bekezdése iktatta be.
