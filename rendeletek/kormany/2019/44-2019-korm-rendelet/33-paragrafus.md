@@ -1,4 +1,4 @@
-## 32. §[^103] A családok támogatásaival összefüggő egyes kormányrendeletek módosításáról szóló 530/2021. (IX. 14.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított 4. § (1) bekezdés e) pontját és f) pont fc) alpontját, valamint 5. § (5) bekezdés g) pontját a Módr3. hatálybalépését[^104] megelőzően megkezdett eljárásokra is alkalmazni kell.
+## 32. §[^121] A családok támogatásaival összefüggő egyes kormányrendeletek módosításáról szóló 530/2021. (IX. 14.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított 4. § (1) bekezdés e) pontját és f) pont fc) alpontját, valamint 5. § (5) bekezdés g) pontját a Módr3. hatálybalépését[^122] megelőzően megkezdett eljárásokra is alkalmazni kell.
 
-[^103]: A 32. §-t az 530/2021. (IX. 14.) Korm. rendelet 28. §-a iktatta be.
-[^104]: A hatálybalépés időpontja 2021. szeptember 29.
+[^121]: A 32. §-t az 530/2021. (IX. 14.) Korm. rendelet 28. §-a iktatta be.
+[^122]: A hatálybalépés időpontja 2021. szeptember 29.

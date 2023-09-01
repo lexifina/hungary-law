@@ -1,3 +1,3 @@
-1. melléklet a 44/2019. (III. 12.) Korm. rendelethez[^111]
+1. melléklet a 44/2019. (III. 12.) Korm. rendelethez[^132]
 
-[^111]: Az 1. melléklet a 252/2020. (V. 29.) Korm. rendelet 32. § (1) bekezdés o) pontja szerint módosított szöveg.
+[^132]: Az 1. melléklet a 252/2020. (V. 29.) Korm. rendelet 32. § (1) bekezdés o) pontja szerint módosított szöveg.
