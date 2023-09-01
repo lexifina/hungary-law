@@ -1,3 +1,3 @@
-4. melléklet a 63/2012. (IV. 2.) Korm. rendelethez[^7]
+4. melléklet a 63/2012. (IV. 2.) Korm. rendelethez[^9]
 
-[^7]: A 4. melléklet a 228/2012. (VIII. 23.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^9]: A 4. melléklet a 385/2023. (VIII. 14.) Korm. rendelet 12. § c) pontjával megállapított szöveg.
