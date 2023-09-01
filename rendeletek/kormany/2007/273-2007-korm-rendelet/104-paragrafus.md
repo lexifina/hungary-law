@@ -1,6 +1,6 @@
 ## (A VET XIII. Fejezetéhez)
 
-## A villamosenergia-piaci verseny elősegítése[^396]
+## A villamosenergia-piaci verseny elősegítése[^407]
 
 104. § (1) A jelentős piaci erő eljárásban a Hivatal az általa meghatározott érintett piacokon a piaci erő vizsgálatakor az alábbiakat mérlegeli:
 
@@ -24,7 +24,7 @@ h) az esetleges verseny hiányát.
 
 (3) Ha a jelentős piaci erő eljárásban a Hivatal az érintett piac valamennyi engedélyesére kötelezettséget szab ki, a Hivatal kötelezheti a piacműködtetőt, hogy a kötelezettség teljesítésére a piac működésére vonatkozó szabályok módosításával kerüljön sor.
 
-(4)[^397]
+(4)[^408]
 
-[^396]: A Vhr. „A villamosenergia-piaci verseny elősegítése” alcíme (104–112. §) a 80/2019. (IV. 15.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^397]: A Vhr. 104. § (4) bekezdését a 401/2020. (VIII. 17.) Korm. rendelet 16. § b) pontja hatályon kívül helyezte.
+[^407]: A Vhr. „A villamosenergia-piaci verseny elősegítése” alcíme (104–112. §) a 80/2019. (IV. 15.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^408]: A Vhr. 104. § (4) bekezdését a 401/2020. (VIII. 17.) Korm. rendelet 16. § b) pontja hatályon kívül helyezte.

@@ -8,7 +8,7 @@ Villamosenergia-elosztásra vonatkozó működési engedély kérelemhez benyúj
 
 3. Nyilatkozat arról, hogy a kérelmező rendelkezik a tevékenység gyakorlásához szükséges, más jogszabályokban meghatározott, nevére szóló hatósági engedélyekkel,
 
-4.[^561] Négy évre szóló független gazdasági szakértő által ellenőrzött üzleti terv,
+4.[^574] Négy évre szóló független gazdasági szakértő által ellenőrzött üzleti terv,
 
 5. Utolsó három üzleti év beszámolója,
 
@@ -24,7 +24,7 @@ Villamosenergia-elosztásra vonatkozó működési engedély kérelemhez benyúj
 
 11. A 10. pontban meghatározott, de más engedélyes által üzemeltetett elemek,
 
-12.[^562] Az elosztó hálózatba betápláló átviteli hálózat és a működési engedéllyel rendelkező erőművek betáplálási mérési pontok helyeinek felsorolása (mérésponti azonosító) egyértelműen összerendelve a gépegységekkel.
+12.[^575] Az elosztó hálózatba betápláló átviteli hálózat és a működési engedéllyel rendelkező erőművek betáplálási mérési pontok helyeinek felsorolása (mérésponti azonosító) egyértelműen összerendelve a gépegységekkel.
 
-[^561]: A Vhr. 11. számú melléklet 4. pontja a 787/2021. (XII. 7.) Korm. rendelet 21. § 20. pontja szerint módosított szöveg.
-[^562]: A Vhr. 11. számú melléklet 12. pontja a 787/2021. (XII. 7.) Korm. rendelet 21. § 21. pontja szerint módosított szöveg.
+[^574]: A Vhr. 11. számú melléklet 4. pontja a 787/2021. (XII. 7.) Korm. rendelet 21. § 20. pontja szerint módosított szöveg.
+[^575]: A Vhr. 11. számú melléklet 12. pontja a 787/2021. (XII. 7.) Korm. rendelet 21. § 21. pontja szerint módosított szöveg.

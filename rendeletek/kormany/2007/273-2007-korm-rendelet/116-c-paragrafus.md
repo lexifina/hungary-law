@@ -1,3 +1,3 @@
-116/C. §[^436] A miniszter felkérheti az Európai Bizottság képviselőjét a belső energiapiac működésével vagy az Európai Unió energiaellátásának biztonságával kapcsolatos tárgyalásokon megfigyelőként történő részvételre.
+116/C. §[^447] A miniszter felkérheti az Európai Bizottság képviselőjét a belső energiapiac működésével vagy az Európai Unió energiaellátásának biztonságával kapcsolatos tárgyalásokon megfigyelőként történő részvételre.
 
-[^436]: A Vhr. 116/C. §-át a 344/2013. (IX. 27.) Korm. rendelet 3. §-a iktatta be.
+[^447]: A Vhr. 116/C. §-át a 344/2013. (IX. 27.) Korm. rendelet 3. §-a iktatta be.

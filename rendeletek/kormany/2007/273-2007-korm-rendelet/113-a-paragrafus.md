@@ -1,12 +1,12 @@
-113/A. §[^412] (1) A Hivatal az árakra vonatkozó rendelkezések betartását – a (2)–(4) bekezdésekben foglalt eltérésekkel – kérelemre vagy hivatalból megvizsgálja, és szükség esetén hatósági ellenőrzést tart.
+113/A. §[^423] (1) A Hivatal az árakra vonatkozó rendelkezések betartását – a (2)–(4) bekezdésekben foglalt eltérésekkel – kérelemre vagy hivatalból megvizsgálja, és szükség esetén hatósági ellenőrzést tart.
 
-(2)[^413] Amennyiben a Hivatal a hatósági ellenőrzés eredményeként jogsértést állapít meg, a VET 96–98. §-ában, valamint a 141. § (12) bekezdésében meghatározott jogkövetkezményeket alkalmazza.
+(2)[^424] Amennyiben a Hivatal a hatósági ellenőrzés eredményeként jogsértést állapít meg, a VET 96–98. §-ában, valamint a 141. § (12) bekezdésében meghatározott jogkövetkezményeket alkalmazza.
 
-(3)[^414] Az egyetemes szolgáltatás ára tekintetében a Hivatal évente április 30-ig megvizsgálja az egyetemes szolgáltatás árképzéséről szóló külön jogszabály rendelkezéseinek a vizsgálatot megelőző naptári év (a továbbiakban: tárgyév) egészére vonatkozó teljesülését.
+(3)[^425] Az egyetemes szolgáltatás ára tekintetében a Hivatal évente április 30-ig megvizsgálja az egyetemes szolgáltatás árképzéséről szóló külön jogszabály rendelkezéseinek a vizsgálatot megelőző naptári év (a továbbiakban: tárgyév) egészére vonatkozó teljesülését.
 
-(4)[^415]
+(4)[^426]
 
-[^412]: A Vhr. 113/A. §-át a 389/2007. (XII. 23.) Korm. rendelet 10. § (10) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 10. § (6) bekezdését és 11. § (11) bekezdését.
-[^413]: A Vhr. 113/A. § (2) bekezdése a 497/2017. (XII. 29.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
-[^414]: A Vhr. 113/A. § (3) bekezdése a 497/2017. (XII. 29.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.
-[^415]: A Vhr. 113/A. § (4) bekezdését a 100/2011. (VI. 29.) Korm. rendelet 24. § (4) bekezdése hatályon kívül helyezte.
+[^423]: A Vhr. 113/A. §-át a 389/2007. (XII. 23.) Korm. rendelet 10. § (10) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 10. § (6) bekezdését és 11. § (11) bekezdését.
+[^424]: A Vhr. 113/A. § (2) bekezdése a 497/2017. (XII. 29.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
+[^425]: A Vhr. 113/A. § (3) bekezdése a 497/2017. (XII. 29.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.
+[^426]: A Vhr. 113/A. § (4) bekezdését a 100/2011. (VI. 29.) Korm. rendelet 24. § (4) bekezdése hatályon kívül helyezte.

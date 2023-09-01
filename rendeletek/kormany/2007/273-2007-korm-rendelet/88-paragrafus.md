@@ -1,4 +1,4 @@
-88. §[^356] (1)[^357] A hálózati engedélyes a közreműködő kiválasztása és megbízása során
+88. §[^367] (1)[^368] A hálózati engedélyes a közreműködő kiválasztása és megbízása során
 
 a) ha az nem tartozik a közbeszerzésekről szóló törvény (a továbbiakban: Kbt.) hatálya alá, a VET 24. § (2) bekezdésében meghatározott belső kiválasztási szabályzatában foglaltak szerint jár el, vagy
 
@@ -18,8 +18,8 @@ d) azon eljárásrendet és a feltételeket, amelyek szerint természetes szemé
 
 (4) A hálózati engedélyes köteles a módosításokkal egységes szerkezetbe foglalt, számozással ellátott belső kiválasztási szabályzatot időrendi sorrendben honlapján közzétenni.
 
-(5)[^358] A hálózati engedélyes a 84. § (3) bekezdés a) pontja és a 84/A. § szerint kiszervezett tevékenységek vonatkozásában köteles a VET 24. § (2) bekezdésben meghatározott kiválasztási eljárást legalább három évenként megismételni.
+(5)[^369] A hálózati engedélyes a 84. § (3) bekezdés a) pontja és a 84/A. § szerint kiszervezett tevékenységek vonatkozásában köteles a VET 24. § (2) bekezdésben meghatározott kiválasztási eljárást legalább három évenként megismételni.
 
-[^356]: A Vhr. 88. § a 75/2011. (V. 2.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^357]: A Vhr. 88. (1) bekezdse a 787/2021. (XII. 27.) Korm. rendelet 19. §-ával megállapított szöveg.
-[^358]: A Vhr. 88. § (5) bekezdése a 300/2013. (VII. 29.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.
+[^367]: A Vhr. 88. § a 75/2011. (V. 2.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^368]: A Vhr. 88. (1) bekezdse a 787/2021. (XII. 27.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^369]: A Vhr. 88. § (5) bekezdése a 300/2013. (VII. 29.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.

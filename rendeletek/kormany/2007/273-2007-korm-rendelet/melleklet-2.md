@@ -1,58 +1,30 @@
 ## 1. Az Egyetemes Szolgáltatási Szabályzat az egyetemes szolgáltatásra jogosult felhasználó (e melléklet alkalmazásában a továbbiakban: felhasználó) és a részére szolgáltatást nyújtó egyetemes szolgáltató közötti jogviszony részletes szabályait, valamint az egyetemes szolgáltató és a felhasználó közötti villamosenergia-vásárlási szerződés kötelező tartalmi elemeit és formai követelményeit tartalmazza.
 
-## 2. Felhasználói igénybejelentés és egyetemes szolgáltatói tájékoztatás
+## 2.[^479] Egyetemes szolgáltatás igénybevétele, villamosenergia-vásárlási szerződés
 
-## 2.1. A VET 176. § (3) bekezdésében foglalt kivétellel a felhasználó, amennyiben egyetemes szolgáltatást kíván igénybe venni, köteles írásban felhasználói igénybejelentést tenni a választása szerinti, olyan egyetemes szolgáltatónál, amelynek a működési engedélyében meghatározott szolgáltatási területe az ellátni kívánt felhasználási helyet tartalmazza. Az igénybejelentésben a felhasználónak nyilatkoznia kell, hogy a hálózati csatlakozási és a hálózathasználati szerződése vonatkozásában megbízza-e az egyetemes szolgáltatót azok megbízottként történő kezelésére.
+## 2.1. Az egyetemes szolgáltató üzletszabályzata közzétételével – szerződéskötési kötelezettségére figyelemmel – saját ajánlati kötöttségét is meghatározza.
 
-## 2.2. A felhasználó az igénybejelentést formanyomtatványon is megteheti. Ennek érdekében – az egyetemes szolgáltató – az igénybejelentésre ügyfélszolgálatán formanyomtatványt tesz hozzáférhetővé, továbbá a honlapján elektronikusan letölthető formátumban közzéteszi.
+## 2.2. Az egyetemes szolgáltatás igénybevételéhez az üzletszabályzat közzétételével meghatározott ajánlat elfogadására vonatkozó jognyilatkozatot (a továbbiakban: felhasználói jognyilatkozat) kell tenni olyan egyetemes szolgáltatónál, amelynek a működési engedélyében meghatározott szolgáltatási területe az ellátni kívánt felhasználási helyet tartalmazza. A felhasználói jognyilatkozat az egyetemes szolgáltató ügyfélszolgálatán hozzáférhetővé, illetve honlapján közzétett formanyomtatványon is megtehető. Az egyetemes szolgáltató kérés esetén a lakossági fogyasztó számára a formanyomtatványt postai úton megküldi.
 
-## 2.3. Az igénybejelentés kézhezvétele után az egyetemes szolgáltató köteles a felhasználót az igénybejelentés kézhezvételétől számított 15 napon belül az egyetemes szolgáltatásra vonatkozó jogviszony minden lényeges eleméről tájékoztatni, és ennek részeként az egyetemes szolgáltatásra ajánlatot tenni. Abban az esetben, ha az igénybejelentés hiányos vagy az ajánlat elkészítésére nem alkalmas, az egyetemes szolgáltató az igénybejelentés kézhezvételétől számított 15 napon belül köteles a felhasználót hiánypótlásra felhívni a hiányok pontos megjelölésével. Ebben az esetben az ajánlattételre rendelkezésre álló határidőt a hiánypótlás teljesítésétől kell számítani.
+## 2.3. A villamosenergia-vásárlási szerződés a felhasználói jognyilatkozat hatályosulásával – amennyiben az a szerződéskötéshez szükséges adatokat, okiratokat tartalmazza – létrejön. A szerződés létrejöttét az egyetemes szolgáltató 15 napon belül az üzletszabályzatában meghatározottak szerint az egyetemes szolgáltató által aláírt szerződés megküldésével igazolja vissza a felhasználó felé. Ha a felhasználói jognyilatkozat szerződéskötésre nem alkalmas, az egyetemes szolgáltató a felhasználói jognyilatkozat beérkezésétől számított 15 napon belül a felhasználót hiánypótlásra hívja fel, a hiányok pontos megjelölésével.
 
-## 2.4. Amennyiben a felhasználó az igénybejelentésben a hálózati csatlakozási és hálózathasználati szerződés megbízottként történő kezelését nem kéri, a tájékoztatásnak legalább az alábbiakat kell tartalmaznia:
+## 2.4. Az egyetemes szolgáltatás igénybevétele és az egyetemes szolgáltatási jogviszony fennállása során – az egyetemes szolgáltatás biztosítása érdekében – az egyetemes szolgáltató és a felhasználási helyre hatályos működési engedéllyel rendelkező elosztó együttműködik.
 
-## a) a tájékoztató egyedi azonosító száma;
+## 2.5. A villamosenergia-vásárlási szerződés hatálybalépésének feltétele, hogy a felhasználó hatályos hálózathasználati szerződéssel rendelkezzen.
 
-## b) az egyetemes szolgáltató neve, székhelye, honlapjának címe, ügyfélszolgálatának címe és nyitvatartási ideje, az egyetemes szolgáltató üzletszabályzatának internetes elérési útvonala;
+## 2.6. Eltérő megállapodás hiányában minden felhasználási helyre külön villamosenergia-vásárlási szerződést kell kötni.
 
-## c) a közölt feltételek teljesítése esetén az egyetemes szolgáltatás megkezdésének időpontja;
-
-## d) az egyetemes szolgáltatás keretében nyújtott szolgáltatás ára;
-
-## e) az egyetemes szolgáltatónak a tájékoztatóban foglalt ajánlati kötöttsége és annak időtartama; és
-
-## f) az egyetemes szolgáltatás keretében nyújtott szolgáltatásokra vonatkozó teljes körű ajánlat, valamint a villamosenergia-vásárlási szerződés tervezetének egyetemes szolgáltató által aláírt példányai.
-
-## 2.5. Amennyiben a felhasználó az igénybejelentésben a hálózati csatlakozási és hálózathasználati szerződés megbízottként történő kezelését kéri, a tájékoztatásnak a 2.4. pont a)–f) alpontjain túlmenően tartalmaznia kell az elosztó által megadott, a 2. számú melléklet 2.8. pontjában foglaltakat, valamint a megbízásnak az egyetemes szolgáltató mint meghatalmazott által aláírt példányait is. A megbízással a felhasználó hozzájárul a hálózati csatlakozási és hálózathasználati szerződés megkötéséhez szükséges személyes adatainak az elosztó részére történő átadásához.
-
-## 2.6. A felhasználói igénybejelentés intézése során az egyetemes szolgáltató és a felhasználási helyre hatályos működési engedéllyel rendelkező elosztó köteles együttműködni. Ennek keretében kötelesek a hozzájuk beérkezett felhasználói igényt egymással közölni, a felhasználó bekapcsolásához és a szolgáltatás megkezdéséhez szükséges információkat egymásnak átadni.
-
-## 3. A villamosenergia-vásárlási szerződés előkészítése, létrejötte és hatálya
-
-## 3.1. Ha a felhasználó az egyetemes szolgáltató tájékoztatójában foglalt ajánlatot elfogadja és – az egyetemes szolgáltató által vállalt ajánlati kötöttség időtartama alatt – a megküldött villamosenergia-vásárlási szerződéstervezetet az egyetemes szolgáltatónak aláírva visszaküldi, a villamosenergia-vásárlási szerződés az egyetemes szolgáltató által történő kézhezvételének napján létrejön.
-
-## 3.2. Ha a felhasználó új ajánlatot tesz, a szerződés nem jön létre, csak a véleményeltérésben foglaltakban történő eredményes megállapodás, és az egyező álláspont kialakítását követően.
-
-## 3.3. Az egyetemes szolgáltatásra vonatkozó szerződés hatálybalépésének feltétele a felhasználási hely elosztóhálózathoz történő csatlakozása, valamint, hogy a felhasználó érvényes hálózathasználati szerződéssel rendelkezzen.
-
-## 3.4. Ha az egyetemes szolgáltató a felhasználó hálózati csatlakozási és hálózathasználati szerződését megbízottként kezeli, az egyetemes szolgáltató az aláírt hálózati csatlakozási és hálózathasználati szerződés egy példányát a szerződő felek által történő aláírástól számított 30 napon belül köteles a felhasználónak megküldeni.
-
-## 3.5. Eltérő megállapodás hiányában minden felhasználási helyre külön villamosenergia-vásárlási szerződést kell kötni.
-
-## 3.6.[^468] Az egyetemes szolgáltató az általános szerződési feltételek megismerését az ügyfélszolgálatán és a honlapján lehetővé teszi, valamint azt a villamosenergia-vásárlási szerződés megkötésével egyidejűleg a felhasználónak átadja vagy kérése esetén részére megküldi.
+## 3.[^480]
 
 ## 4. Elszámolás
 
 ## 4.1. A villamos energia árváltozása esetén, amennyiben az árváltozás időpontjára a fogyasztásmérő-berendezés leolvasása vagy adatrögzítés nem történik, az egyetemes szolgáltatásért fizetendő árat az egyetemes szolgáltató kezdeményezésére történt felhasználói adatközlés, vagy ennek hiányában a felhasználás időarányos megosztásával kell megállapítani és számlázni.
 
-## 4.2.[^469] Ha az elszámolási időszak időtartama az egy hónapot meghaladja – a felek eltérő megállapodásának hiányában – az egyetemes szolgáltató az elszámolási időszak hónapjainak számánál eggyel kevesebb számú részszámlát jogosult kibocsátani azzal, hogy egyes részszámlák a Hivatal előzetes jóváhagyásával megállapított összeghatárig összevonhatók.
+## 4.2.[^481] Ha az elszámolási időszak időtartama az egy hónapot meghaladja – a felek eltérő megállapodásának hiányában – az egyetemes szolgáltató az elszámolási időszak hónapjainak számánál eggyel kevesebb számú részszámlát jogosult kibocsátani azzal, hogy egyes részszámlák a Hivatal előzetes jóváhagyásával megállapított összeghatárig összevonhatók.
 
 ## 4.3. Az egyetemes szolgáltató az elszámolási időszak utolsó napjára köteles elszámoló számlát, a villamosenergia-vásárlási szerződés – és amennyiben a hálózathasználati szerződést megbízottként kezeli, a hálózathasználati szerződés – megszűnése esetén a szerződés megszűnésének napjára végszámlát kibocsátani, és a felhasználóval az elszámolási időszakra vonatkozóan teljes körűen elszámolni, amely magában foglalja a tételes pénzügyi elszámolást is.
 
-## 4.4. Ha az elszámolás eredményeként a felhasználó folyószámláján túlfizetés mutatkozik, a felhasználó eltérő kérésének hiányában, az egyetemes szolgáltató
-
-## a)[^470] 3000 forintot meg nem haladó összeg esetében a felhasználót megillető összeget a felhasználó vagy a fizető következő számlájában számolja el,
-
-## b)[^471] 3000 forintot meghaladó összeg esetében a felhasználó fizetési módja szerinti módon az elszámoló számla kibocsátásától számított 8 napon belül köteles azt a felhasználónak vagy a fizetőnek visszafizetni.
+## 4.4[^482].
 
 ## 4.5. A villamosenergia-vásárlási szerződés megszűnésekor keletkező visszautalandó összeget az egyetemes szolgáltató köteles 8 napon belül visszafizetni a felhasználónak vagy a fizetőnek.
 
@@ -60,11 +32,11 @@
 
 ## 4.7. Az egyetemes szolgáltató köteles a számla felhasználó részére történő eljuttatásáról oly módon gondoskodni, hogy a számla kiegyenlítésére a felhasználónak vagy a fizetőnek a kézhezvételtől legalább 8 nap rendelkezésére álljon.
 
-## 4.8.[^472] Az egyetemes szolgáltató adott alkalommal legfeljebb három, egymást követő időközre vonatkozó részszámlát bocsáthat ki.
+## 4.8.[^483] Az egyetemes szolgáltató adott alkalommal legfeljebb három, egymást követő időközre vonatkozó részszámlát bocsáthat ki.
 
-## 4.9.[^473] Ha az egyetemes szolgáltató adott alkalommal több részszámlát bocsát ki, akkor az egyes részszámlák esedékessége között legalább 30 napnak kell lennie.
+## 4.9.[^484] Ha az egyetemes szolgáltató adott alkalommal több részszámlát bocsát ki, akkor az egyes részszámlák esedékessége között legalább 30 napnak kell lennie.
 
-## 4.10.[^474] Az előre fizetős mérő használatával vételezett villamos energia mennyisége és ára vonatkozásában az egyetemes szolgáltató – a hibás mérés kivételével – utólagos elszámolás-korrekciót nem alkalmazhat.
+## 4.10.[^485] Az előre fizetős mérő használatával vételezett villamos energia mennyisége és ára vonatkozásában az egyetemes szolgáltató – a hibás mérés kivételével – utólagos elszámolás-korrekciót nem alkalmazhat.
 
 ## 5. Kifogás a számla ellen
 
@@ -72,11 +44,11 @@
 
 ## 5.2. Az egyetemes szolgáltató köteles a kifogást megvizsgálni, és annak eredményéről a felhasználót a kifogás kézhezvételétől számított 15 napon belül írásban értesíteni.
 
-## 5.3. Ha a felhasználót a kifogás alapján visszatérítés illeti meg, az egyetemes szolgáltató a felhasználóval a 4.4. pontjában foglaltak szerint számol el.
+## 5.3.[^486]
 
 ## 5.4. Ha a téves vagy elmaradt elszámolás miatt az egyetemes szolgáltatót termék ár, díj vagy árkülönbözet, díjkülönbözet illeti meg, a felhasználó azt a téves vagy elmaradt számlázás időtartamával azonos időn belül egyenlő részletekben jogosult kiegyenlíteni. Ez esetben késedelmi kamat nem számítható fel.
 
-## 5.5. A 4.4. és a 4.5. pontjában, valamint az 5.3. és 5.4. pontjában előírtakon túli teljesítés késedelmes fizetésnek minősül. Ha az egyetemes szolgáltató vagy a felhasználó a fentiek szerint meghatározott időpontig fizetési kötelezettségét nem teljesíti, köteles a kamatokat, valamint az igazolt költségeket a másik félnek megtéríteni.
+## 5.5.[^487] A 4.5. pontjában, valamint 5.4. pontjában előírtakon túli teljesítés késedelmes fizetésnek minősül. Ha az egyetemes szolgáltató vagy a felhasználó a fentiek szerint meghatározott időpontig fizetési kötelezettségét nem teljesíti, köteles a kamatokat, valamint az igazolt költségeket a másik félnek megtéríteni.
 
 ## 6. Szerződésszegés
 
@@ -102,13 +74,15 @@
 
 ## b) az egyetemes szolgáltató üzletszabályzatában vagy a villamosenergia-vásárlási szerződésben foglalt kötelezettségeit egyéb módon megszegi.
 
-2. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^475]
+2. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^488]
 
-[^468]: A Vhr. 1. számú melléklet 3.6. pontját a 275/2017. (IX. 21.) Korm. rendelet 11. § (1) bekezdése iktatta be.
-[^469]: A Vhr. 1. számú melléklet 4.2. pontja a 123/2015. (V. 26.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^470]: A Vhr. 1. számú melléklet 4.4. pont a) alpontja a 281/2016. (IX. 21.) Korm. rendelet 7. §-a szerint módosított szöveg.
-[^471]: A Vhr. 1. számú melléklet 4.4. pont b) alpontja a 281/2016. (IX. 21.) Korm. rendelet 7. §-a szerint módosított szöveg.
-[^472]: A Vhr. 1. számú melléklet 4.8. pontját a 123/2015. (V. 26.) Korm. rendelet 17. §-a hatályon kívül helyezte, újonnan a 343/2017. (XI. 15.) Korm. rendelet 6. §-a iktatta be.
-[^473]: A Vhr. 1. számú melléklet 4.9. pontját a 343/2017. (XI. 15.) Korm. rendelet 6. §-a iktatta be.
-[^474]: A Vhr. 1. számú melléklet 4.10. pontját a 497/2017. (XII. 29.) Korm. rendelet 5. § (1) bekezdése iktatta be.
-[^475]: A Vhr. 2. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (2) bekezdésével megállapított szöveg.
+[^479]: A Vhr. 1. melléklet 2. pontja a 216/2023. (VI. 1.) Korm. rendelet 3. § (13) bekezdésével megállapított szöveg.
+[^480]: A Vhr. 1. melléklet 3. pontját a 216/2023. (VI. 1.) Korm. rendelet 3. § (16) bekezdés b) pontja hatályon kívül helyezte.
+[^481]: A Vhr. 1. számú melléklet 4.2. pontja a 123/2015. (V. 26.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^482]: A Vhr. 1. melléklet 4.4. pontját a 216/2023. (VI. 1.) Korm. rendelet 3. § (16) bekezdés b) pontja hatályon kívül helyezte.
+[^483]: A Vhr. 1. számú melléklet 4.8. pontját a 123/2015. (V. 26.) Korm. rendelet 17. §-a hatályon kívül helyezte, újonnan a 343/2017. (XI. 15.) Korm. rendelet 6. §-a iktatta be.
+[^484]: A Vhr. 1. számú melléklet 4.9. pontját a 343/2017. (XI. 15.) Korm. rendelet 6. §-a iktatta be.
+[^485]: A Vhr. 1. számú melléklet 4.10. pontját a 497/2017. (XII. 29.) Korm. rendelet 5. § (1) bekezdése iktatta be.
+[^486]: A Vhr. 1. melléklet 5.3. pontját a 216/2023. (VI. 1.) Korm. rendelet 3. § (16) bekezdés b) pontja hatályon kívül helyezte.
+[^487]: A Vhr. 1. melléklet 5.5. pontja a 216/2023. (VI. 1.) Korm. rendelet 3. § (16) bekezdés c) pontja szerint módosított szöveg.
+[^488]: A Vhr. 2. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (2) bekezdésével megállapított szöveg.
