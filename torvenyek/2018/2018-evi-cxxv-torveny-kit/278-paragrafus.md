@@ -6,7 +6,7 @@
 
 (1) A kormányzati igazgatási szervnél foglalkoztatott munkavállalók munkaviszonyára az Mt.-t az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
-(2) A kormányzati igazgatási szervnél foglalkoztatott munkavállaló munkaviszonyára a 71. § (8)–(15) bekezdését, a 72. §-t, valamint a 95. § (5)–(7) bekezdését kell alkalmazni.
+(2) A kormányzati igazgatási szervnél foglalkoztatott munkavállaló munkaviszonyára a 71. § (8)–(15) bekezdését, a 72. §-t, a 95. § (5)–(7) bekezdését, valamint a 104. § (1) bekezdés k)–m) pontját alkalmazni kell azzal, hogy a munkaviszonynak 104. § (1) bekezdés k)–m) pontja alapján történő megszűnése esetén a munkavállaló végkielégítésre jogosult.
 
 (3) A munkáltató működésével összefüggő okból történő felmondás esetén a munkavállaló a munkavégzési kötelezettség alóli mentesítés idejére járó távolléti díjra havonta egyenlő részletben jogosult, a végkielégítést pedig a felmondási idő utolsó napján kell kifizetni.
 
