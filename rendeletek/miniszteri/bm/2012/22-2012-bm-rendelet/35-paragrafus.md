@@ -1,4 +1,4 @@
-## 35. §[^54] A szabálysértési statisztikai adatokat
+## 35. §[^56] A szabálysértési statisztikai adatokat
 
 a) a 32. § 2. pont a) alpontjában meghatározott szabálysértési statisztikai adatgyűjtő a szabálysértési eljárás befejezését követően haladéktalanul, egy automatizált,
 
@@ -8,4 +8,6 @@ c) a 32. § 2. pont e) alpontjában meghatározott szabálysértési statisztika
 
 d) a 32. § 2. pont f) alpontjában meghatározott szabálysértési statisztikai adatgyűjtő a szabálysértést elkövetettek és a helyszíni bírságoltak nyilvántartása részére történő adatközlését követően haladéktalanul, egy automatizált,
 
-[^54]: A 35. § a 81/2015. (XII. 23.) BM rendelet 15. § (2) bekezdésével megállapított szöveg.
+dokumentált adatátadást megvalósító informatikai alkalmazással megküldi a szabálysértési nyilvántartó szervnek, amely azt a szabálysértési szabályozásért felelős miniszter által vezetett minisztérium rendelkezésére bocsátja.
+
+[^56]: A 35. § a 81/2015. (XII. 23.) BM rendelet 15. § (2) bekezdésével megállapított szöveg.

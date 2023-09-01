@@ -1,3 +1,3 @@
-## 37. §[^55] A szabálysértési szabályozásért felelős miniszter gondoskodik arról, hogy összesítések, leválogatások, kimutatások és elemzések készüljenek a szabálysértési statisztikai adatokból és azok hozzáférhetőek legyenek, illetve azokat térítésmentesen az azt kérelmező rendelkezésére bocsássák.
+## 37. §[^57] A szabálysértési szabályozásért felelős miniszter gondoskodik arról, hogy összesítések, leválogatások, kimutatások és elemzések készüljenek a szabálysértési statisztikai adatokból és azok hozzáférhetőek legyenek, illetve azokat térítésmentesen az azt kérelmező rendelkezésére bocsássák.
 
-[^55]: A 37. § az 50/2012. (X. 11.) BM rendelet 7. § (3) bekezdése szerint módosított szöveg.
+[^57]: A 37. § az 50/2012. (X. 11.) BM rendelet 7. § (3) bekezdése szerint módosított szöveg.
