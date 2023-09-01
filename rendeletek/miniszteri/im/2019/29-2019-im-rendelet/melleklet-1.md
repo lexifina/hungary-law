@@ -38,7 +38,7 @@ Statisztikai jelentés adattartalma a közjegyzői ügyek intézéséről 20.. �
 
 |  | Záradéki tanúsítványok készítése során közreműködés megtagadása: |  |
 
-3. Közjegyzői nemperes ügyek – kivéve a végrehajtás elrendelése iránti ügyek és a fizetési meghagyásos ügyek
+3.[^44] Közjegyzői nemperes ügyek – kivéve a végrehajtás elrendelése iránti ügyek és a fizetési meghagyásos ügyek
 
 3.1. Hagyatéki ügy
 
@@ -72,11 +72,11 @@ Statisztikai jelentés adattartalma a közjegyzői ügyek intézéséről 20.. �
 
 3.15. Európai uniós jogforráson alapuló tanúsítvány, kivonat, igazolás kiállítása
 
-3.16. Összesen
+3.16. Alzálogjog fennállásának igazolására irányuló eljárás
 
-## 9K09997_2
+3.17. Összesen
 
-| Az ügyek száma, megoszlása az eljárás időtartama szerint | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
+| Az ügyek száma, megoszlása az eljárás időtartama szerint | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
 
 | a | b |
 
@@ -86,11 +86,11 @@ Statisztikai jelentés adattartalma a közjegyzői ügyek intézéséről 20.. �
 
 | Folyamatban maradt | Összesen |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 1 éven túli |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | 1 éven túli |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 2 éven túli |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | 2 éven túli |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 5 éven túli |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | 5 éven túli |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | Jogerőre emelkedett, nemperes eljárást befejező érdemi határozatok (végrehajthatóvá nyilvánított európai fizetési meghagyások) száma |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -121,3 +121,5 @@ Statisztikai jelentés adattartalma a közjegyzői ügyek intézéséről 20.. �
 |  | A hónap végén folyamatban maradt ügyek száma |  |  |  |
 
 |  | Az ügyekből önálló bírósági végrehajtónak átadva |  |  |  |
+
+[^44]: Az 1. melléklet 3. pontja a 12/2023. (VII. 31.) IM rendelet 5. §-ával megállapított szöveg.
