@@ -5,3 +5,5 @@
 (3) Ha bíróság a korábbi jogszabály alapján a Btk. 180. §-ában vagy a 212. § (3) bekezdésében meghatározott büntethetőséget megszüntető okra figyelemmel függesztette fel az eljárást, és e büntethetőséget megszüntető ok alapján megszünteti az eljárást, a bűnügyi költségnek vagy egy részének megfizetésére kötelezheti a vádlottat.
 
 (4) Jogegységi eljárást az e törvény hatálybalépése előtt befejezett vagy a hatálybalépéskor folyamatban lévő ügyben is lehet indítványozni.
+
+(5) E törvénynek az igazságügyi tárgyú törvények módosításáról szóló 2023. évi XXXI. törvénnyel módosított 671. § 10. pontja alapján egyszerűsített felülvizsgálatnak csak az e rendelkezés módosításának hatálybalépését követően benyújtott rendkívüli jogorvoslati indítvány esetén van helye a Btk. 60. § (2a) bekezdésében meghatározott kiutasítás tartamával kapcsolatos törvénysértés miatt.

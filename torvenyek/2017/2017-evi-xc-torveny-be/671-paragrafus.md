@@ -22,7 +22,7 @@
 
 9. a járművezetéstől eltiltás utólagos beszámításáról,
 
-10. a kitiltás helyéről,
+10. a kitiltás helyéről vagy a Btk. 60. § (2a) bekezdésében meghatározott esetben a kiutasítás tartamáról,
 
 11. sportrendezvények látogatásától való eltiltás esetén sportszövetség vagy sportlétesítmény meghatározásáról,
 

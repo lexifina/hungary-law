@@ -9,3 +9,5 @@
 (4) A szaktanácsadó közreműködésének a tényét, a közreműködés módját és tartalmát az eljárási cselekményről készült jegyzőkönyvben vagy feljegyzésben fel kell tüntetni.
 
 (5) A szaktanácsadó a közreműködésével végzett eljárási cselekményre vonatkozóan tanúként hallgatható ki.
+
+(6) Az Europol tisztviselője az (1) bekezdés alapján a büntetőeljárásban szaktanácsadóként vehető igénybe.

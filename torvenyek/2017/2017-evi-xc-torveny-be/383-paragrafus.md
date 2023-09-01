@@ -13,3 +13,5 @@
 (4) A külföldi állampolgár terhelt, bűncselekmény elkövetésével megalapozottan gyanúsítható személy, ezek védője, illetve külföldi állampolgár sértett vagy tanú indítványára a kihallgatásán, valamint a részvételével tartott más eljárási cselekményen jelen lehet államának konzuli tisztviselője.
 
 (5) A támogatót és a konzuli tisztviselőt kivéve akinek a jelenlétét az eljárási cselekményen e törvény lehetővé teszi, a gyanúsítotthoz, a szakértőhöz és a tanúhoz kérdéseket intézhet, észrevételeket, indítványokat tehet. A kérdésfeltevés tilalmára, illetve a válaszadás megtiltására a tanú és a terhelt kihallgatására, valamint a szakértő kirendelésére vonatkozó rendelkezéseket kell megfelelően alkalmazni.
+
+(6) A tolmácsolási feladatokat ellátó segítő az eljárási cselekményről értesített sértett, vagyoni érdekelt vagy egyéb érdekelt nyelvhasználatának biztosítása érdekében jelen lehet az eljárási cselekményen.

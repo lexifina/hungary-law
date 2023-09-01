@@ -34,6 +34,8 @@ m) a Védelmi Programban részt vevő személy védelmét ellátó személy,
 
 n) a pártfogó ügyvéd.
 
+o) a tolmácsolási feladatokat ellátó személy.
+
 (2) Nem lehet segítő,
 
 a) aki tizennyolcadik életévét még nem töltötte be,

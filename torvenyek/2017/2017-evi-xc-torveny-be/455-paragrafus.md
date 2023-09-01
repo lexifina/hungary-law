@@ -11,3 +11,5 @@
 (6) A magyar nyelvet nem értő vádlott részére a kihirdetés után az ítélet és az ügydöntő végzés rá vonatkozó részét az általa az eljárásban korábban használt nyelvre le kell fordítani, és azt a részére kézbesíteni kell.
 
 (7) Az ügydöntő határozat közlésével egyidejűleg tájékoztatni kell a terheltet a kártalanítási igényének jogalapjáról, arról, hogy választása szerint igényét egyszerűsített kártalanítási eljárásban vagy kártalanítási perben érvényesítheti, az igény érvényesítésének határidejéről, a határidő kezdő időpontjáról és a határidő elmulasztásának jogvesztő jellegéről.
+
+(8) Az ügydöntő határozat közlésével egyidejűleg tájékoztatni kell a terheltet a kiszabott büntetéssel vagy alkalmazott intézkedéssel kapcsolatos végrehajtási jogsegély kezdeményezésének lehetőségéről, a végrehajtás átadásának feltételeiről és következményeiről.
