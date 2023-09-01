@@ -72,13 +72,13 @@
 
 | 22. | IKOP-4.1.0-15-2016- 00005 | M25 Eger gyorsforgalmi úti bekötése (M3–Eger szakasz megvalósítása) | NIF Zrt. | – | – | – | – | – | 2020. június 30. |
 
-| 23. | IKOP-2.1.0-15-2016- 00009 | GSM-R rendszer kiépítés 2. üteme | NIF Zrt. | – | – | – | – | – | 2019. április 30. |
+| 23. |  |  |  |  |  |  |  |  |  |
 
-| 24. | IKOP-2.1.0-15-2018- 00050 | GSM-R rendszer kiépítés 2. üteme | NIF Zrt. | – | – | – | 2019. március 31. | – | 2019. április 30. |
+| 24. |  |  |  |  |  |  |  |  |  |
 
-| 25. | IKOP-3.1.0-15-2018- 00017 | GSM-R rendszer kiépítés 2. üteme | NIF Zrt. | – | – | – | 2019. március 31. | – | 2019. április 30. |
+| 25. |  |  |  |  |  |  |  |  |  |
 
-| 26. | IKOP-3.2.0-15-2018- 00032 | GSM-R rendszer kiépítés 2. üteme | NIF Zrt. | – | – | – | 2019. március 31. | – | 2019. április 30. |
+| 26. |  |  |  |  |  |  |  |  |  |
 
 | 27. | IKOP-2.1.0-15-2018- 00051 | MÁV-START ZRT gördülőállomány fejlesztése további 8 db nagykapacitású elővárosi motorvonat beszerzésével | MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság | 2019. május 31. | 2019. május 31. | – | 2019. január 31. | – | 2019. augusztus 31. |
 
@@ -90,4 +90,4 @@
 [^6]: A 6. pontot az 1082/2019. (III. 1.) Korm. határozat 4. pontja visszavonta.
 [^7]: A 7. pont az 1996/2017. (XII. 19.) Korm. határozat 4. pontja, az 1082/2019. (III. 1.) Korm. határozat 3. pontja szerint módosított szöveg.
 [^8]: A 8. pontot az 1789/2019. (XII. 23.) Korm. határozat visszavonta.
-[^9]: Az 1. melléklet az 1082/2019. (III. 1.) Korm. határozat 2. pontjával megállapított, az 1303/2020. (VI. 11.) Korm. határozat 4. pontja, az 1030/2023. (II. 14.) Korm. határozat 3. pont b) alpontja szerint módosított szöveg.
+[^9]: Az 1. melléklet az 1082/2019. (III. 1.) Korm. határozat 2. pontjával megállapított, az 1303/2020. (VI. 11.) Korm. határozat 4. pontja, az 1030/2023. (II. 14.) Korm. határozat 3. pont b) alpontja, az 1388/2023. (VIII. 31.) Korm. határozat 4. pontja szerint módosított szöveg.
