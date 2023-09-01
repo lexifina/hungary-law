@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-5-20-2T
 | 2022-09-01 | 2012-5-20-2T.20 | 11/2022. (VIII. 1.) MvM rendelet |
 | 2022-10-06 | 2012-5-20-2T.21 | 15/2022. (X. 3.) MVM rendelet |
 | 2023-01-01 | 2012-5-20-2T.22 | 21/2022. (XII. 28.) MVM rendelet |
+| 2023-09-01 | 2012-5-20-2T.23 | 5/2023. (VIII. 30.) MVM rendelet |

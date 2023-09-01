@@ -8,7 +8,7 @@
 
 3. civil delegált: a Civil tv. 2. § 5. pontja szerinti személy;
 
-4.[^2] döntéshozó: a Civil tv. 56. § (1) bekezdés b)–g), i) és j) pontja szerinti támogatások vonatkozásában a kollégium, a Civil tv. 56. § (2) bekezdés b) pontja szerinti támogatások tekintetében a miniszter;
+4.[^2] döntéshozó: a Civil tv. 56. § (1) bekezdés b), c) és j) pontja szerinti támogatások vonatkozásában a kollégium, a Civil tv. 56. § (2) bekezdés b) pontja szerinti támogatások tekintetében a miniszter;
 
 5.[^3] együttesen benyújtott támogatási igény: egy Magyarországon nyilvántartásba vett (főpályázó) és egy határon túli (társpályázó) civil szervezet által, a Civil tv. 59. § (4) bekezdése alapján benyújtott támogatási igény;
 
@@ -56,22 +56,22 @@ b) az államháztartáson belüli szervezettől, kormányzati szektorba sorolt e
 
 20. pályázati felhívás: az államháztartásról szóló jogszabályoknak megfelelő pályázati kiírás adatainak a hivatalos honlapon közzétett kivonata;
 
-21. szakmai támogatás: a Civil tv. 56. § (1) bekezdés c)–j) pontja szerinti támogatás;
+21.[^11] szakmai támogatás: a Civil tv. 56. § (1) bekezdés c), h) és j) pontja szerinti támogatás;
 
-22.[^11] támogatási döntés: az egyedi támogatási kérelem esetén a támogatási kérelem befogadása vagy elutasítása, pályázati felhívásra benyújtott támogatási igény esetén a pályázat elbírálása és a pályázat végleges elbírálása során hozott döntések összessége;
+22.[^12] támogatási döntés: az egyedi támogatási kérelem esetén a támogatási kérelem befogadása vagy elutasítása, pályázati felhívásra benyújtott támogatási igény esetén a pályázat elbírálása és a pályázat végleges elbírálása során hozott döntések összessége;
 
 23. támogatási eljárás: a támogatási igény benyújtásától a támogatási igény benyújtása következményeként végrehajtott cselekmények összessége;
 
-24.[^12] támogatási igény: az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.), továbbá az Ávr. szerinti támogatási kérelem, valamint pályázat, amely a Civil tv. 56. § (2) bekezdése szerinti kötelezettségvállalásra irányul;
+24.[^13] támogatási igény: az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.), továbbá az Ávr. szerinti támogatási kérelem, valamint pályázat, amely a Civil tv. 56. § (2) bekezdése szerinti kötelezettségvállalásra irányul;
 
-25.[^13] támogatási kérelem befogadása: a Civil tv. 56. § (2) bekezdés b) pontja szerinti jóváhagyás, melynek keretében a miniszter meghatározza, hogy az egyedi kérelmet benyújtó szervezetnek mekkora összegben, mely célra és milyen finanszírozási móddal részesülhet támogatásban a jogszabályi feltételek teljesítése esetén;
+25.[^14] támogatási kérelem befogadása: a Civil tv. 56. § (2) bekezdés b) pontja szerinti jóváhagyás, melynek keretében a miniszter meghatározza, hogy az egyedi kérelmet benyújtó szervezetnek mekkora összegben, mely célra és milyen finanszírozási móddal részesülhet támogatásban a jogszabályi feltételek teljesítése esetén;
 
 26. tanács: a Civil tv. 60. § (1) bekezdése szerinti testület;
 
-27.[^14]
+27.[^15]
 
 [^1]: A 2. § a 74/2013. (XII. 2.) EMMI rendelet 1. §-ával megállapított szöveg.
-[^2]: A 2. § 4. pontja a 23/2017. (X. 3.) EMMI rendelet 12. § a) pontja, a 20/2018. (XII. 20.) MvM rendelet 5. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § 4. pontja a 23/2017. (X. 3.) EMMI rendelet 12. § a) pontja, a 20/2018. (XII. 20.) MvM rendelet 5. § a) pontja, az 5/2023. (VIII. 30.) MVM rendelet 9. § a) pontja szerint módosított szöveg.
 [^3]: A 2. § 5. pontja a 20/2018. (XII. 20.) MvM rendelet 5. § b) pontja szerint módosított szöveg.
 [^4]: A 2. § 11. pontja a 20/2018. (XII. 20.) MvM rendelet 5. § c) pontja szerint módosított szöveg.
 [^5]: A 2. § 16. pontja a 35/2016. (XI. 30.) EMMI rendelet 1. § (1) bekezdésével megállapított szöveg.
@@ -80,7 +80,8 @@ b) az államháztartáson belüli szervezettől, kormányzati szektorba sorolt e
 [^8]: A 2. § 17a. pontját az 52/2015. (XI. 18.) EMMI rendelet 1. §-a iktatta be, szövege a 35/2016. (XI. 30.) EMMI rendelet 12. § a) pontja szerint módosított szöveg.
 [^9]: A 2. § 17b. pontját a 35/2016. (XI. 30.) EMMI rendelet 1. § (3) bekezdése iktatta be.
 [^10]: A 2. § 17c. pontját a 35/2016. (XI. 30.) EMMI rendelet 1. § (4) bekezdése iktatta be.
-[^11]: A 2. § 22. pontja a 35/2016. (XI. 30.) EMMI rendelet 12. § b) pontja, a 23/2017. (X. 3.) EMMI rendelet 13. § a) pontja szerint módosított szöveg.
-[^12]: A 2. § 24. pontja az 52/2015. (XI. 18.) EMMI rendelet 10. § 1. pontja szerint módosított szöveg.
-[^13]: A 2. § 25. pontja a 20/2018. (XII. 20.) MvM rendelet 5. § a) pontja szerint módosított szöveg.
-[^14]: A 2. § 27. pontját a 18/2019. (XII. 17.) MvM rendelet 3. § a) pontja hatályon kívül helyezte.
+[^11]: A 2. § 21. pontja az 5/2023. (VIII. 30.) MVM rendelet 9. § b) pontja szerint módosított szöveg.
+[^12]: A 2. § 22. pontja a 35/2016. (XI. 30.) EMMI rendelet 12. § b) pontja, a 23/2017. (X. 3.) EMMI rendelet 13. § a) pontja szerint módosított szöveg.
+[^13]: A 2. § 24. pontja az 52/2015. (XI. 18.) EMMI rendelet 10. § 1. pontja szerint módosított szöveg.
+[^14]: A 2. § 25. pontja a 20/2018. (XII. 20.) MvM rendelet 5. § a) pontja szerint módosított szöveg.
+[^15]: A 2. § 27. pontját a 18/2019. (XII. 17.) MvM rendelet 3. § a) pontja hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-7. melléklet az 5/2012. (II. 16.) KIM rendelethez[^169]
+7. melléklet az 5/2012. (II. 16.) KIM rendelethez[^193]
 
 Költségvetési terv
 
@@ -20,4 +20,4 @@ I. Bevételek
 
 II. Kiadások
 
-[^169]: A 7. melléklet a 23/2017. (X. 3.) EMMI rendelet 11. § c) pontjával megállapított szöveg.
+[^193]: A 7. melléklet a 23/2017. (X. 3.) EMMI rendelet 11. § c) pontjával megállapított szöveg.
