@@ -6,13 +6,13 @@
 
 99. § (1) Helyszíni intézkedés során a szabálysértés elkövetését elismerő személlyel szemben helyszíni bírság kiszabásának van helye.
 
-(2) A helyszíni bírság összege – a (2a) bekezdés kivételével – ötezer forinttól ötvenezer forintig, hat hónapon belül újabb szabálysértés elkövetése esetén hetvenezer forintig terjedhet.
+(2) A helyszíni bírság összege – a (2a) bekezdés kivételével – hatezerötszáz forinttól hatvanötezer forintig, hat hónapon belül újabb szabálysértés elkövetése esetén kilencvenezer forintig terjedhet.
 
 (2a) A helyszíni bírság összege
 
 a) a védelmi intézkedés megszegése szabálysértés (239/A. §) esetén megegyezik a 11. § (1) bekezdése szerinti pénzbírság összegével,
 
-b) közérdekű üzem működésének megzavarása szabálysértés (177/A. §) esetén – ha azt az egészségügyről szóló 1997. évi CLIV. törvény 228. § (1) bekezdése alapján bevezetett járványügyi készültség ideje alatt követik el – ötezer forinttól százötvenezer forintig terjedhet.
+b) közérdekű üzem működésének megzavarása szabálysértés (177/A. §) esetén – ha azt az egészségügyről szóló 1997. évi CLIV. törvény 228. § (1) bekezdése alapján bevezetett járványügyi készültség ideje alatt követik el – hatezerötszáz forinttól kettőszázezer forintig terjedhet.
 
 (3) Ha az eljárás alá vont személy a helyszíni bírság kiszabását – a helyszíni bírság meg nem fizetése esetén alkalmazandó jogkövetkezményekről szóló tájékoztatás után – aláírásával igazoltan tudomásul veszi, a helyszíni bírság ellen nincs helye jogorvoslatnak.
 
@@ -34,7 +34,7 @@ b) a harmadik, illetve az azt követő, kötelező mértékű helyszíni bírsá
 
 (8) A helyszíni bírság kiszabása során, ha kötelező mértékű helyszíni bírsággal sújtandó több szabálysértés elbírálására kerül sor, az elkövetett szabálysértésekhez rendelt helyszíni bírságok közül a legmagasabb bírságot kell alkalmazni.
 
-(9) Ha kötelező mértékű helyszíni bírsággal sújtandó szabálysértés és más szabálysértés egyidejű elbírálására kerül sor, a kiszabható helyszíni bírság nem lehet kevesebb, mint a kötelező mértékű helyszíni bírság, de az nem haladhatja meg az ötvenezer forintot, ismételt elkövetés esetén a hetvenezer forintot.
+(9) Ha kötelező mértékű helyszíni bírsággal sújtandó szabálysértés és más szabálysértés egyidejű elbírálására kerül sor, a kiszabható helyszíni bírság nem lehet kevesebb, mint a kötelező mértékű helyszíni bírság, de az nem haladhatja meg az hatvanötezer forintot, ismételt elkövetés esetén a kilencvenezer forintot.
 
 (10) A (2) bekezdésben meghatározott ismételt elkövetésre vonatkozó rendelkezés alkalmazásánál nem lehet figyelembe venni a XXVII. és a XXVIII. Fejezetben meghatározott szabálysértéseket.
 

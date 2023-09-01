@@ -1,4 +1,4 @@
-12. § (1) A pénzbírságot meg nem fizetése esetén a bíróság szabálysértési elzárásra változtatja át. E törvény eltérő rendelkezése hiányában az átváltoztatás során ötezer forintonként egy napi szabálysértési elzárást kell számítani. A meg nem fizetett pénzbírságnak ötezerrel nem osztható részét nem kell figyelembe venni.
+12. § (1) A pénzbírságot meg nem fizetése esetén a bíróság szabálysértési elzárásra változtatja át. E törvény eltérő rendelkezése hiányában az átváltoztatás során hatezerötszáz forintonként egy napi szabálysértési elzárást kell számítani. A meg nem fizetett pénzbírságnak hatezerötszázzal nem osztható részét nem kell figyelembe venni.
 
 (2) Nem lép a meg nem fizetett pénzbírság helyébe szabálysértési elzárás, ha az eljárás alá vont személy
 

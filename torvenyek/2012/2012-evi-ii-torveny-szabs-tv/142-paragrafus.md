@@ -6,13 +6,13 @@ a) a fogyatékos személyek jogairól és esélyegyenlőségük biztosításár�
 
 b) a várandósság tizenkettedik hetét elérő nő.
 
-(3) A meg nem fizetett pénzbírság vagy helyszíni bírság helyébe lépő közérdekű munka végrehajtásában az állami foglalkoztatási szerv működik közre. A meg nem fizetett pénzbírság helyébe ötezer forintonként hat óra közérdekű munkát kell meghatározni. A meg nem fizetett pénzbírságnak ötezerrel nem osztható részét nem kell figyelembe venni. Az állami foglalkoztatási szerv, illetve a kijelölt munkahely a 144. § (5), (7)–(11), (14), (16) és (18) bekezdésekben foglaltak szerint köteles az elkövető részére közérdekű munkát – a nyilvántartása alapján – felajánlani, illetve az elkövetőt foglalkoztatni.
+(3) A meg nem fizetett pénzbírság vagy helyszíni bírság helyébe lépő közérdekű munka végrehajtásában az állami foglalkoztatási szerv működik közre. A meg nem fizetett pénzbírság helyébe hatezerötszáz forintonként hat óra közérdekű munkát kell meghatározni. A meg nem fizetett pénzbírságnak hatezerötszázzal nem osztható részét nem kell figyelembe venni. Az állami foglalkoztatási szerv, illetve a kijelölt munkahely a 144. § (5), (7)–(11), (14), (16) és (18) bekezdésekben foglaltak szerint köteles az elkövető részére közérdekű munkát – a nyilvántartása alapján – felajánlani, illetve az elkövetőt foglalkoztatni.
 
 (4) A meg nem fizetett pénzbírság vagy helyszíni bírság helyébe lépő közérdekű munka tartama eltérhet a közérdekű munka tartamára vonatkozó e törvény szerinti előírástól, azonban a végrehajtás időpontjára és időtartamára a 144. § (12)–(13) és (15) bekezdése az irányadó.
 
 (5) Az elkövető végrehajtás során tanúsított 144. § (17) bekezdésben foglalt mulasztása esetén az abban foglalt rendelkezéseket kell alkalmazni.
 
-(6) Az (5) bekezdésben meghatározott esetben a bíróság a fennmaradó pénzbírság vagy helyszíni bírság összegét elzárásra változtatja át azzal, hogy a pénzbírság, illetve helyszíni bírság összegének számításakor egy óra ledolgozott közérdekű munka nyolcszáz forintnak felel meg.
+(6) Az (5) bekezdésben meghatározott esetben a bíróság a fennmaradó pénzbírság vagy helyszíni bírság összegét elzárásra változtatja át azzal, hogy a pénzbírság, illetve helyszíni bírság összegének számításakor egy óra ledolgozott közérdekű munka ezer forintnak felel meg.
 
 (6a) A szabálysértési elzárásra átváltoztatás tárgyában hozott végzés indokolása a szükséges mértékben tartalmazza a joghátrányt kiszabó jogerős határozatra utalást, az alkalmazott jogszabályok megjelölését és a további végrehajtással kapcsolatos jogszabályi tájékoztatást.
 

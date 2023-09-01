@@ -4,9 +4,9 @@
 
 a) a szabálysértési elzárás leghosszabb tartama harminc nap, halmazati büntetés esetén negyvenöt nap,
 
-b) a pénzbírság legmagasabb összege ötvenezer forint, szabálysértési elzárással is büntethető szabálysértések esetén százezer forint,
+b) a pénzbírság legmagasabb összege hatvanötezer forint, szabálysértési elzárással is büntethető szabálysértések esetén százharmincezer forint,
 
-c) a helyszíni bírság legmagasabb összege huszonötezer forint.
+c) a helyszíni bírság legmagasabb összege harminckettőezer-ötszáz forint.
 
 (2a) Kormányrendeletben meghatározott kötelező mértékű pénzbírsággal vagy helyszíni bírsággal sújtandó szabálysértés elkövetése esetén, ha
 
