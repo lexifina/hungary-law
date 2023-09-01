@@ -8,13 +8,7 @@
 
 | Határidő: | az e határozat közzétételét követő 30 napon belül |
 
-## 2. Az Emberi Erőforrás Fejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1037/2016. (II. 9.) Korm. határozat
-
-## a) 1. melléklet 2. pontjában foglalt táblázat C:4 mezőjében a „18,68 (ebből indikatív önerő: 6,91)” szövegrész helyébe a „18,90 (ebből indikatív önerő: 6,91)” szöveg,
-
-## b) 2. mellékletében foglalt táblázat D:32 mezőjében a „11,78” szövegrész helyébe a „12,00” szöveg
-
-## lép.
+## 2.[^1]
 
 ## 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
@@ -25,3 +19,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás/összköltség (bruttó, forint) | EFOP 2. prioritás terhére történő többletforrás legfeljebb (bruttó, forint) | Projekt megnövelt támogatási összege legfeljebb (bruttó, forint) | Projekt megnövelt összköltsége legfeljebb (bruttó, forint) | Projekt rövid bemutatása |
 
 | 2. | EFOP-2.2.1-VEKOP-16-2016-00001 | Gyermek sürgősségi, baleseti ellátás fejlesztése | Országos Kórházi Főigazgatóság | 10 000 000 000 | 221 828 065 | 11 995 329 165 | 19 176 078 853 | A Projekt célja országos, legmagasabb progresszivitási szintű gyermekbaleseti és gyermeksürgősségi ellátóközpont (III. a. szint) és vidéki ellátást biztosító országos háromszintű (I. szint, II. szint és III. szint) gyermekbaleseti és gyermeksürgősségi ellátóhálózat létrehozása, gyermektraumatológia kialakítása. |
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
