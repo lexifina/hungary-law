@@ -1,5 +1,5 @@
-## 13.[^156]
+## 13.[^160]
 
 17. §
 
-[^156]: A 13. alcímet (17. §-t) a 457/2017. (XII. 28.) Korm. rendelet 588. § a) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 618. §-át.
+[^160]: A 13. alcímet (17. §-t) a 457/2017. (XII. 28.) Korm. rendelet 588. § a) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 618. §-át.

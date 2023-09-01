@@ -1,5 +1,5 @@
-## 16.[^159]
+## 16.[^163]
 
 21. §
 
-[^159]: A 16. alcímet (21. §-t) a 457/2017. (XII. 28.) Korm. rendelet 588. § a) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 618. §-át.
+[^163]: A 16. alcímet (21. §-t) a 457/2017. (XII. 28.) Korm. rendelet 588. § a) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 618. §-át.
