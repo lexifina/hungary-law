@@ -1,3 +1,3 @@
-2. § Az R. 13. §-a a következő (8) bekezdéssel egészül ki:
+2. §[^3]
 
-„(8) A 4. § (1) bekezdése szerinti költségvetési elszámolások során az Eximbank e rendeletnek a Magyar Export-Import Bank Részvénytársaság és a Magyar Exporthitel Biztosító Részvénytársaság központi költségvetéssel történő elszámolásának részletes szabályairól szóló 16/1998. (V. 20.) PM rendelet módosításáról szóló 5/2023. (VIII. 30.) PM rendelet (a továbbiakban: MódR5.) 1. §-ával megállapított 4. § (6) bekezdését a MódR5. hatálybalépését követően első alkalommal a 2023. harmadik negyedévet érintő elszámolásokra, a teljes elszámolási időszakra vonatkozóan alkalmazhatja.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-1. § A Magyar Export-Import Bank Részvénytársaság és a Magyar Exporthitel Biztosító Részvénytársaság központi költségvetéssel történő elszámolásának részletes szabályairól szóló 16/1998. (V. 20.) PM rendelet (a továbbiakban: R.) 4. § (6) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(6) Az Eximbank Korm. rendelet szerinti bázisköltség meghatározásánál a negyedéves elszámolás a megelőző három hónapban érvényesült USD devizanemre vonatkozó 6 havi CME Term SOFR, EUR devizanemre vonatkozó 6 havi EURIBOR, HUF devizanemre vonatkozó 6 havi BUBOR átlagának figyelembevételével történik. Az átlagolásnál alkalmazott 6 havi CME Term SOFR a Bloomberg TSFR6M oldalán, a 6 havi EURIBOR a Reuters EURIBOR= oldalán, a 6 havi BUBOR a Reuters BUBOR= oldalán naponta megjelenő fixingek átlaga a legközelebbi 1/16-ra felkerekítve.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
