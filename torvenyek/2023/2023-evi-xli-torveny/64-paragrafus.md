@@ -1,6 +1,8 @@
+## lép.
+
 64. § Hatályát veszti a KFItv.
 
-a)
+a) 38–40. §-a,
 
 b)
 
@@ -8,6 +10,6 @@ c)
 
 d)
 
-e)
+e) 43. § (1) bekezdés e) pontja,
 
-f)
+f) 43. § (2) bekezdése.
