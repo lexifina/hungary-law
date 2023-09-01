@@ -1,0 +1,3 @@
+5. § A kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló 80/2023. (III. 14.) Korm. rendelet 27. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) A gyártó a 20/A. § szerinti díjátalány-fizetés választása esetén az (1) bekezdésben meghatározottaktól eltérően a 26. § (1a) bekezdése vagy a gyártó választása esetén a 26/A. § (1) bekezdése szerinti nyilvántartásának – a 22. § (1) bekezdése szerinti nyilatkozattal nem érintett – borászati termékekre vonatkozó adatairól szolgáltat adatot negyedévente, a tárgynegyedévet követő hónap 20. napjáig az országos hulladékgazdálkodási hatóság részére.”
