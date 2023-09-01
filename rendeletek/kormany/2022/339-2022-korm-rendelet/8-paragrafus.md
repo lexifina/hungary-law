@@ -1,3 +1,3 @@
-8. §[^8]
+8. § A 423/2012. (XII. 29.) Korm. rendelet 15. § (3) bekezdés c) pontja helyébe a következő rendelkezés lép:
 
-[^8]: A 8. § a 24. § (2) bekezdés alapján 2023. szeptember 1-jén lép hatályba.
+(A felvételi eljárásban a jelentkező összesen)

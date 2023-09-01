@@ -1,3 +1,3 @@
-7. §[^7]
+7. § A 423/2012. (XII. 29.) Korm. rendelet 12. § (4) bekezdése helyébe a következő rendelkezés lép:
 
-[^7]: A 7. § a 24. § (2) bekezdés alapján 2023. szeptember 1-jén lép hatályba.
+„(4) A Hivatalhoz az általános és a keresztféléves felvételi eljárásban legkésőbb a besorolási döntés időpontját megelőző 14. napig kell feltölteni az 5. § (2) bekezdés h) pontja szerinti, a jelentkezési kérelem benyújtását követően megszerzett dokumentumokat. Az adott eljárás évében külföldi középiskolában érettségiző vagy felsőfokú végzettséget tanúsító külföldi oklevelet szerző jelentkező a hiánypótlását ettől eltérő határidővel, de legkésőbb a besorolási döntést megelőző 8. napig teheti meg.”

@@ -2,110 +2,82 @@
 
 23. § Hatályát veszti a 423/2012. (XII. 29.) Korm. rendelet
 
-1.[^41]
+1. 3. § (3) bekezdés b) pontjában az „– a pótfelvételi esetében július 20. –” szövegrész,
 
-2.[^42]
+2. 3. § (4) bekezdés b) pontjában a „– pótfelvételi esetében augusztus 5. –” szövegrész,
 
-3.[^43]
+3. 5. § (2) bekezdés k) pontjában az „és a többletpontokkal” szövegrész,
 
-4.[^44]
+4. 5. § (2) bekezdés d), f), g), l) és m) pontja,
 
-5.[^45]
+5. 5. § (2) bekezdés k) pontjában az „és a többletpontokkal” szövegrész,
 
-6.[^46]
+6. 6. § (2), (3) és (4) bekezdése,
 
-7.[^47]
+7. 8. § (3) bekezdés c) és d) pontja,
 
-8.[^48]
+8. 8. § (5) bekezdése,
 
-9.[^49]
+9.[^8]
 
-10.[^50]
+10. 11. § (2) bekezdés i) és j) pontja,
 
-11.[^51]
+11. 11. § (2a) bekezdés b) pontja,
 
-12.[^52]
+12. 11. § (5) bekezdésében a „csak” szövegrész,
 
-13.[^53]
+13. 11. § (6) bekezdése,
 
-14.[^54]
+14.[^9]
 
-15.[^55]
+15. 12. § (8) bekezdése,
 
-16.[^56]
+16.[^10]
 
-17.
+17.[^11]
 
-18.[^57]
+18. 15. § (3) bekezdés b) pontjában a „jelentkezés feltételéül” szövegrész,
 
-19.[^58]
+19. 15. § (3) bekezdés e) és f) pontja,
 
-20.[^59]
+20. 15. § (4) és (5) bekezdése,
 
-21.[^60]
+21. 15/A. § (6) bekezdése,
 
-22.[^61]
+22. 16. § (3), (4) és (5) bekezdése,
 
-23.[^62]
+23. 17. § (5), (6) és (7) bekezdése,
 
-24.[^63]
+24. 18. § (1)–(2) bekezdése,
 
-25.[^64]
+25. 18. § (3) bekezdésében az „– érettségi többletpontokat ide nem értve –” szövegrész,
 
-26.[^65]
+26. 20/A. §-a,
 
-27.[^66]
+27. 21. §-a,
 
-28.[^67]
+28.[^12]
 
-29.[^68]
+29. 24. §-a,
 
-30.[^69]
+30. 26. § (5) bekezdésében az „egységes” szövegrész,
 
-31.[^70]
+31. 41. § (4) bekezdése,
 
-32.[^71]
+32. 42. § (6) bekezdése,
 
-33.[^72]
+33. 43. § (2) bekezdése,
 
-34.[^73]
+34. 1. melléklete,
 
-35.[^74]
+35.[^13]
 
-36.[^75]
+36.[^14]
 
-[^41]: A 23. § 1. pontja a 24. § (2) bekezdés alapján 2023. szeptember 1-jén lép hatályba.
-[^42]: A 23. § 2. pontja a 24. § (2) bekezdés alapján 2023. szeptember 1-jén lép hatályba.
-[^43]: A 23. § 3. pontja a 24. § (2) bekezdés alapján 2023. szeptember 1-jén lép hatályba.
-[^44]: A 23. § 4. pontja a 24. § (2) bekezdés alapján 2023. szeptember 1-jén lép hatályba.
-[^45]: A 23. § 5. pontja a 24. § (2) bekezdés alapján 2023. szeptember 1-jén lép hatályba.
-[^46]: A 23. § 6. pontja a 24. § (2) bekezdés alapján 2023. szeptember 1-jén lép hatályba.
-[^47]: A 23. § 7. pontja a 24. § (2) bekezdés alapján 2023. szeptember 1-jén lép hatályba.
-[^48]: A 23. § 8. pontja a 24. § (2) bekezdés alapján 2023. szeptember 1-jén lép hatályba.
-[^49]: A 23. § 9. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^50]: A 23. § 10. pontja a 24. § (2) bekezdés alapján 2023. szeptember 1-jén lép hatályba.
-[^51]: A 23. § 11. pontja a 24. § (2) bekezdés alapján 2023. szeptember 1-jén lép hatályba.
-[^52]: A 23. § 12. pontja a 24. § (2) bekezdés alapján 2023. szeptember 1-jén lép hatályba.
-[^53]: A 23. § 13. pontja a 24. § (2) bekezdés alapján 2023. szeptember 1-jén lép hatályba.
-[^54]: A 23. § 14. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^55]: A 23. § 15. pontja a 24. § (2) bekezdés alapján 2023. szeptember 1-jén lép hatályba.
-[^56]: A 23. § 16. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^57]: A 23. § 18. pontja a 24. § (2) bekezdés alapján 2023. szeptember 1-jén lép hatályba.
-[^58]: A 23. § 19. pontja a 24. § (2) bekezdés alapján 2023. szeptember 1-jén lép hatályba.
-[^59]: A 23. § 20. pontja a 24. § (2) bekezdés alapján 2023. szeptember 1-jén lép hatályba.
-[^60]: A 23. § 21. pontja a 24. § (2) bekezdés alapján 2023. szeptember 1-jén lép hatályba.
-[^61]: A 23. § 22. pontja a 24. § (2) bekezdés alapján 2023. szeptember 1-jén lép hatályba.
-[^62]: A 23. § 23. pontja a 24. § (2) bekezdés alapján 2023. szeptember 1-jén lép hatályba.
-[^63]: A 23. § 24. pontja a 24. § (2) bekezdés alapján 2023. szeptember 1-jén lép hatályba.
-[^64]: A 23. § 25. pontja a 24. § (2) bekezdés alapján 2023. szeptember 1-jén lép hatályba.
-[^65]: A 23. § 26. pontja a 24. § (2) bekezdés alapján 2023. szeptember 1-jén lép hatályba.
-[^66]: A 23. § 27. pontja a 24. § (2) bekezdés alapján 2023. szeptember 1-jén lép hatályba.
-[^67]: A 23. § 28. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^68]: A 23. § 29. pontja a 24. § (2) bekezdés alapján 2023. szeptember 1-jén lép hatályba.
-[^69]: A 23. § 30. pontja a 24. § (2) bekezdés alapján 2023. szeptember 1-jén lép hatályba.
-[^70]: A 23. § 31. pontja a 24. § (2) bekezdés alapján 2023. szeptember 1-jén lép hatályba.
-[^71]: A 23. § 32. pontja a 24. § (2) bekezdés alapján 2023. szeptember 1-jén lép hatályba.
-[^72]: A 23. § 33. pontja a 24. § (2) bekezdés alapján 2023. szeptember 1-jén lép hatályba.
-[^73]: A 23. § 34. pontja a 24. § (2) bekezdés alapján 2023. szeptember 1-jén lép hatályba.
-[^74]: A 23. § 35. pontja a 24. § (1a) bekezdése alapján 2024. január 1-jén lép hatályba.
-[^75]: A 23. § 36. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 23. § 9. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 23. § 14. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 23. § 16. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 23. § 17. pontja a 617/2022. (XII. 29.) Korm. rendelet 28. §-a alapján nem lép hatályba.
+[^12]: A 23. § 28. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 23. § 35. pontja a 24. § (1a) bekezdése alapján 2024. január 1-jén lép hatályba.
+[^14]: A 23. § 36. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
