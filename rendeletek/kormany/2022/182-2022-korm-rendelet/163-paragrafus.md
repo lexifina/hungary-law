@@ -1,3 +1,3 @@
-163. §[^60]
+163. §[^61]
 
-[^60]: A 163. §-t a 467/2022. (XI. 21.) Korm. rendelet 17. § (1) bekezdés c) pontja hatályon kívül helyezte.
+[^61]: A 163. §-t a 467/2022. (XI. 21.) Korm. rendelet 17. § (1) bekezdés c) pontja hatályon kívül helyezte.
