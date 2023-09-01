@@ -1,4 +1,4 @@
-## (Az Lt. 50/A. §-ához)[^35]
+## (Az Lt. 50/A. §-ához)[^42]
 
 20/A. § (1) Az állami repülések céljára szolgáló és a közös felhasználású repülőtér kivételével repülőtér üzembentartójának az egyes légiközlekedési tevékenységgel összefüggő tevékenységekre vonatkozó adatszolgáltatást olyan térképen kell benyújtania a légiközlekedési hatóság részére, amelyen az ingatlanok elhelyezkedése és hasznosítási módja, valamint az azt használó tevékenysége is megállapítható.
 
@@ -12,4 +12,4 @@ b) a repülőtér területén elhelyezkedő épületek használatával összefü
 
 c) a futópályát, a földi mozgási területeket érintő zárás és újranyitás, ide nem értve a légiforgalom kezelésével összefüggő, azonnali intézkedést igénylő eseteket.
 
-[^35]: „(Az Lt. 50/A. §-ához)” alcímet (20/A–20/B. §) a 789/2021. (XII. 27.) Korm. rendelet 3. §-a iktatta be.
+[^42]: „(Az Lt. 50/A. §-ához)” alcímet (20/A–20/B. §) a 789/2021. (XII. 27.) Korm. rendelet 3. §-a iktatta be.
