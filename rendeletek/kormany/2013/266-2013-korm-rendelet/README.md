@@ -33,3 +33,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-266-20-
 | 2021-07-16 | 2013-266-20-22.25 | 420/2021. (VII. 15.) Korm. rendelet |
 | 2022-04-01 | 2013-266-20-22.26 | 618/2021. (XI. 8.) Korm. rendelet |
 | 2023-06-16 | 2013-266-20-22.27 | 229/2023. (VI. 8.) Korm. rendelet |
+| 2023-09-01 | 2013-266-20-22.28 | 385/2023. (VIII. 14.) Korm. rendelet |

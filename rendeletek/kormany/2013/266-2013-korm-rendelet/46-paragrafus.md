@@ -10,7 +10,7 @@ ba) a fizetés megtörténtét, vagy
 
 bb) hogy az értesítés alapjául szolgáló ítélettel szembeni rendkívüli jogorvoslati eljárásban annak végrehajthatóságát felfüggesztették, vagy megállapították, hogy fizetési kötelezettsége nincs, valamint
 
-c)[^131] tájékoztatja a feleket, hogy az igazolás elmaradása esetén megtiltja a fizetésre kötelezett tevékenység folytatásához szükséges szakmagyakorlási tevékenységet.
+c)[^133] tájékoztatja a feleket, hogy az igazolás elmaradása esetén megtiltja a fizetésre kötelezett tevékenység folytatásához szükséges szakmagyakorlási tevékenységet.
 
 (2) Az Étv. 58. § (11) bekezdése szerinti bírósági értesítéssel egyenértékűnek tekintendő, ha a kamara tudomására jut olyan egyéb jogerős bírósági ítélet (külföldi, választottbírósági), vagy jogerős fizetési meghagyás, amely ugyanazon adatokat tartalmazza, mint az értesítés.
 
@@ -40,13 +40,13 @@ bb) hogy a díjfizetés tárgyában indított bírósági eljárás van folyamat
 
 c) tájékoztatja a feleket, hogy az igazolás elmaradása esetén felfüggeszti a fizetésre kötelezett tevékenység folytatásához szükséges jogosultságát.
 
-(6)[^132] Ha a díjfizetésre kötelezett hatvan napon belül nem igazolja a meghatározottakat, a területi kamara a határidő lejártát követő nyolc napon belül az Ákr. szerinti határozatot hoz az adott szakmagyakorlási tevékenység folytatásának megtiltásáról.
+(6)[^134] Ha a díjfizetésre kötelezett hatvan napon belül nem igazolja a meghatározottakat, a területi kamara a határidő lejártát követő nyolc napon belül az Ákr. szerinti határozatot hoz az adott szakmagyakorlási tevékenység folytatásának megtiltásáról.
 
-(7)[^133] A (6) bekezdés szerinti felfüggesztés megszűnik az Étv. 58. § (11) bekezdése szerinti bírósági értesítés vagy alvállalkozói nemfizetési jelzés alapjául szolgáló díjfizetési kötelezettség teljesítésének igazolásakor. Amennyiben az építészeti-műszaki tervező a felfüggesztési határozat véglegessé válásától számított hat hónapon belül sem igazolja díjfizetési kötelezettségének teljesítését, a kamara az engedély visszavonásával egyidejűleg törli a névjegyzékből.
+(7)[^135] A (6) bekezdés szerinti felfüggesztés megszűnik az Étv. 58. § (11) bekezdése szerinti bírósági értesítés vagy alvállalkozói nemfizetési jelzés alapjául szolgáló díjfizetési kötelezettség teljesítésének igazolásakor. Amennyiben az építészeti-műszaki tervező a felfüggesztési határozat véglegessé válásától számított hat hónapon belül sem igazolja díjfizetési kötelezettségének teljesítését, a kamara az engedély visszavonásával egyidejűleg törli a névjegyzékből.
 
-(8)[^134] A területi kamara titkára felfüggeszti az energetikai tanúsító jogosultságát, ha a 45/B. §-ban foglalt bírságot határidőre nem fizeti meg, valamint erről az OÉNY üzemeltetőjét értesíti. A felfüggesztés addig marad hatályban, amíg a tanúsító a bírság megfizetését nem igazolja a területi kamara titkárának. A bírság megfizetésének megtörténtéről a területi kamara titkára értesíti az OÉNY üzemeltetőjét.
+(8)[^136] A területi kamara titkára felfüggeszti az energetikai tanúsító jogosultságát, ha a 45/B. §-ban foglalt bírságot határidőre nem fizeti meg, valamint erről az OÉNY üzemeltetőjét értesíti. A felfüggesztés addig marad hatályban, amíg a tanúsító a bírság megfizetését nem igazolja a területi kamara titkárának. A bírság megfizetésének megtörténtéről a területi kamara titkára értesíti az OÉNY üzemeltetőjét.
 
-[^131]: A 46. § (1) bekezdés c) pontja a 618/2021. (XI. 8.) Korm. rendelet 16. § 26. pontja szerint módosított szöveg.
-[^132]: A 46. § (6) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 445. § n) pontja, a 618/2021. (XI. 8.) Korm. rendelet 16. § 27. pontja szerint módosított szöveg.
-[^133]: A 46. § (7) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 445. § k) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^134]: A 46. § (8) bekezdését a 482/2016. (XII. 28.) Korm. rendelet 39. §-a iktatta be.
+[^133]: A 46. § (1) bekezdés c) pontja a 618/2021. (XI. 8.) Korm. rendelet 16. § 26. pontja szerint módosított szöveg.
+[^134]: A 46. § (6) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 445. § n) pontja, a 618/2021. (XI. 8.) Korm. rendelet 16. § 27. pontja szerint módosított szöveg.
+[^135]: A 46. § (7) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 445. § k) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^136]: A 46. § (8) bekezdését a 482/2016. (XII. 28.) Korm. rendelet 39. §-a iktatta be.
