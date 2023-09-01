@@ -12,7 +12,7 @@ d) előmozdítsa a gyermek, tanuló erkölcsi fejlődését, a közösségi egy�
 
 e) egymás szeretetére és tiszteletére, a családi élet értékeinek megismerésére és megbecsülésére, együttműködésre, környezettudatosságra, egészséges életmódra, hazaszeretetre nevelje a gyermekeket, tanulókat,
 
-f) a szülőt (törvényes képviselőt) rendszeresen tájékoztassa a tanuló iskolai teljesítményéről, magatartásáról, az ezzel kapcsolatban észlelt problémákról, az iskola döntéseiről, a gyermek tanulmányait érintő lehetőségekről,
+f) a szülőt – elsősorban a tanulmányi rendszeren keresztül – rendszeresen tájékoztassa a tanuló iskolai teljesítményéről, magatartásáról, az ezzel kapcsolatban észlelt problémákról, az iskola döntéseiről, a gyermek tanulmányait érintő lehetőségekről, a 38. § szerinti döntésekről,
 
 g) a gyermek testi-lelki egészségének fejlesztése és megóvása érdekében tegyen meg minden lehetséges erőfeszítést: felvilágosítással, a munka- és balesetvédelmi előírások betartásával és betartatásával, a veszélyhelyzetek feltárásával és elhárításával, a szülő – és szükség esetén más szakemberek – bevonásával,
 
@@ -38,15 +38,15 @@ q) hivatásához méltó magatartást tanúsítson,
 
 r) a gyermek, tanuló érdekében együttműködjön munkatársaival és más intézményekkel.
 
-(1a) A nevelési-oktatási intézmény, többcélú intézmény vezetője a 14 évnél fiatalabb 1-es típusú diabétesszel élő gyermek, tanuló részére abban az időtartamban, amikor az óvoda, az általános iskola, a fejlesztő nevelést-oktatást végző iskola, a kollégium, a hat és nyolc évfolyammal működő gimnázium vagy a szakgimnázium ötödik-nyolcadik évfolyamán az intézmény – beleértve az ilyen köznevelési alapfeladatot ellátó többcélú intézményt is – felügyelete alatt áll, az 1-es típusú diabétesszel élő gyermek, tanuló szülőjének, más törvényes képviselőjének kérelmére, a gyermekkori diabétesz gondozásával foglalkozó egészségügyi intézmények szakmai iránymutatása alapján az (1b)–(1e) bekezdés szerinti speciális ellátást biztosítja.
+(1a) A nevelési-oktatási intézmény, többcélú intézmény igazgatója a 14 évnél fiatalabb 1-es típusú diabétesszel élő gyermek, tanuló részére abban az időtartamban, amikor az óvoda, az általános iskola, a fejlesztő nevelést-oktatást végző iskola, a kollégium, a hat és nyolc évfolyammal működő gimnázium vagy a szakgimnázium ötödik-nyolcadik évfolyamán az intézmény – beleértve az ilyen köznevelési alapfeladatot ellátó többcélú intézményt is – felügyelete alatt áll, az 1-es típusú diabétesszel élő gyermek, tanuló szülőjének, más törvényes képviselőjének kérelmére, a gyermekkori diabétesz gondozásával foglalkozó egészségügyi intézmények szakmai iránymutatása alapján az (1b)–(1e) bekezdés szerinti speciális ellátást biztosítja.
 
-(1b) Az intézmény vezetője a pedagógus vagy érettségi végzettséggel rendelkező, nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottja számára az (1a) bekezdés szerinti esetben és módon előírhatja
+(1b) Az intézmény igazgatója a pedagógus vagy érettségi végzettséggel rendelkező, nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottja számára az (1a) bekezdés szerinti esetben és módon előírhatja
 
 a) a vércukorszint szükség szerinti mérését,
 
 b) szükség esetén, orvosi előírás alapján, a szülővel, más törvényes képviselővel, a megadott kapcsolattartási módon egyeztetve, az előírt időközönként a szükséges mennyiségű inzulin beadását.
 
-(1c) A nevelési-oktatási intézmény vezetője az (1b) bekezdés szerinti feladat ellátását
+(1c) A nevelési-oktatási intézmény igazgatója az (1b) bekezdés szerinti feladat ellátását
 
 a) olyan pedagógus vagy legalább érettségi végzettséggel rendelkező, nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatott személy útján biztosítja, aki a hivatal által szervezett, a feladat ellátásához kapcsolódó ismeretekről szóló szakmai továbbképzésén részt vett, és aki a speciális ellátásban való részvételt vállalja, vagy
 
@@ -54,7 +54,7 @@ b) iskolaorvos vagy iskolavédőnő útján biztosítja.
 
 (1d) A szülő, más törvényes képviselő az (1a) bekezdés szerinti kérelmét az Eütv. 15. § (5) bekezdésével összhangban megtett formában nyújtja be.
 
-(1e) Az intézmény vezetője az e § szerinti esetkörben egy esetleges rosszullét esetén az Eütv.-vel összhangban álló speciális ellátási eljárásrendet alakít ki.
+(1e) Az intézmény igazgatója az e § szerinti esetkörben egy esetleges rosszullét esetén az Eütv.-vel összhangban álló speciális ellátási eljárásrendet alakít ki.
 
 (2) A pedagógus hétévenként legalább egy alkalommal – jogszabályban meghatározottak szerint – továbbképzésben vesz részt. Megszüntethető – munkaviszony esetében felmondással, közalkalmazotti jogviszony esetében az alkalmatlanság jogcímén történő felmentéssel – annak a pedagógusnak a munkaviszonya, közalkalmazotti jogviszonya, aki a továbbképzésben önhibájából nem vett részt, vagy tanulmányait nem fejezte be sikeresen. Az első továbbképzés a Pedagógus II. fokozat megszerzésére irányuló első minősítés előtt kötelező. Mentesül a továbbképzési kötelezettség alól az a pedagógus, aki betöltötte az 55. életévét. Nem kell továbbképzésben részt venni annak a pedagógusnak, aki pedagógus-szakvizsgát tett, a vizsgák letétele utáni hét évben.
 
@@ -66,7 +66,7 @@ b) iskolaorvos vagy iskolavédőnő útján biztosítja.
 
 (5) A nevelési-oktatási és a pedagógiai szakszolgálati intézményekben pedagógus-munkakörökben dolgozó pedagógus heti teljes munkaidejének nyolcvan százalékát (a továbbiakban: kötött munkaidő) az intézményvezető által – az e törvény keretei között – meghatározott feladatok ellátásával köteles tölteni, a munkaidő fennmaradó részében a munkaideje beosztását vagy felhasználását maga jogosult meghatározni.
 
-(6) A teljes munkaidő ötvenöt–hatvanöt százalékában (a továbbiakban: neveléssel-oktatással lekötött munkaidő) tanórai és egyéb foglalkozások megtartása rendelhető el, amelybe bele kell számítani heti két-két óra időtartamban a pedagógus által ellátott osztályfőnöki, kollégiumi, tanulócsoport-vezetői, vagy munkaközösség vezetéssel összefüggő feladatok, továbbá heti egy óra időtartamban a tanulók nevelési-oktatási intézményen belüli önszerveződésének segítésével összefüggő feladatok időtartamát. E szabályokat kell alkalmazni abban az esetben is, ha e törvény egyes pedagógus munkakörök esetében az e bekezdésben foglaltaktól eltérően határozza meg a munkaidő egyes feladatokra fordítandó részeinek arányát.. A kötött munkaidő fennmaradó részében a pedagógus a nevelés-oktatást előkészítő, nevelés-oktatással összefüggő egyéb feladatokat, tanulói felügyeletet, továbbá eseti helyettesítést lát el.
+(6) A teljes munkaidő hatvan százalékában – azaz huszonnégy órában – (a továbbiakban: neveléssel-oktatással lekötött munkaidő) tanórai és egyéb foglalkozások megtartása rendelhető el, amelybe bele kell számítani heti két-két óra időtartamban a pedagógus által ellátott osztályfőnöki, kollégiumi, tanulócsoport-vezetői, vagy munkaközösség vezetéssel összefüggő feladatok, továbbá heti egy óra időtartamban a tanulók nevelési-oktatási intézményen belüli önszerveződésének segítésével összefüggő feladatok időtartamát. E szabályokat kell alkalmazni abban az esetben is, ha e törvény egyes pedagógus munkakörök esetében az e bekezdésben foglaltaktól eltérően határozza meg a munkaidő egyes feladatokra fordítandó részeinek arányát.. A kötött munkaidő fennmaradó részében a pedagógus a nevelés-oktatást előkészítő, nevelés-oktatással összefüggő egyéb feladatokat, tanulói felügyeletet, továbbá eseti helyettesítést lát el.
 
 (7) Az intézményvezető a kötött munkaidőben ellátandó feladatok elosztásánál biztosítja az arányos és egyenletes feladatelosztást a nevelőtestület tagjai között.
 

@@ -1,34 +1,16 @@
 ## 26. A köznevelési intézményekben nyilvántartott és kezelt személyes és különleges adatok
 
-41. § (1) A köznevelési intézmény és a köznevelési feladatot ellátó nem köznevelési intézmény (a továbbiakban: köznevelési feladatokat ellátó intézmény) köteles a jogszabályban előírt nyilvántartásokat vezetni, a köznevelés információs rendszerébe bejelentkezni, valamint az Országos statisztikai adatgyűjtési program keretében előírt, valamint a lemorzsolódással veszélyeztetett tanulókról összesített adatokat szolgáltatni.
+41. § (1) A köznevelési intézmény és a köznevelési feladatot ellátó nem köznevelési intézmény (a továbbiakban együtt: köznevelési feladatokat ellátó intézmény) köteles a tanulmányi rendszerben a jogszabályban előírt nyilvántartásokat vezetni, a köznevelés információs rendszerébe bejelentkezni, valamint az Országos Statisztikai Adatfelvételi Program keretében előírt, valamint a lemorzsolódással veszélyeztetett tanulókról összesített adatokat a tanulmányi rendszeren keresztül szolgáltatni.
 
-(2) Az egyházi köznevelési intézményben és a magán köznevelési intézményben nyilván kell tartani a közalkalmazotti alapnyilvántartás szerinti adatokat a közalkalmazottak jogállásáról szóló törvényben foglaltak megfelelő alkalmazásával. Minden köznevelési intézmény nyilvántartja a pedagógus oktatási azonosító számát, pedagógusigazolványának számát, a jogviszonya időtartamát és heti munkaidejének mértékét.
+(2) A köznevelési intézmény a gyermek, tanuló alábbi adatait tartja nyilván a tanulmányi rendszerében:
 
-(3) A köznevelési feladatokat ellátó intézmény az óraadó tanárok:
+a) a gyermek, tanuló neve, születési helye és ideje, anyja születési családi és utóneve, neme, állampolgársága, lakóhelyének, tartózkodási helyének címe, személyi azonosításra szolgáló okmány megnevezése és száma, telefonszáma, elektronikus levelezési címe, társadalombiztosítási azonosító jele, nem magyar állampolgár esetén a Magyarország területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat megnevezése, valamint száma,
 
-a) nevét,
-
-b) születési helyét, idejét,
-
-c) nemét, állampolgárságát, nem magyar állampolgár esetén a Magyarország területén való tartózkodás jogcímét és a tartózkodásra jogosító okirat megnevezését, számát,
-
-d) lakóhelyét, tartózkodási helyét,
-
-e) végzettségével, szakképzettségével kapcsolatos adatokat,
-
-f) oktatási azonosító számát
-
-tartja nyilván.
-
-(4) A köznevelési intézmény a gyermek, tanuló alábbi adatait tartja nyilván:
-
-a) a gyermek, tanuló neve, születési helye és ideje, neme, állampolgársága, lakóhelyének, tartózkodási helyének címe, társadalombiztosítási azonosító jele, nem magyar állampolgár esetén a Magyarország területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat megnevezése, száma,
-
-b) szülője, törvényes képviselője, a családi pótlékra jogosult neve, lakóhelye, tartózkodási helye, telefonszáma,
+b) a gyermek, tanuló szülőjének, értesítendő hozzátartozójának, a rá tekintettel családi pótlékra jogosult személynek neve, születési helye és ideje, anyja születési családi és utóneve, lakóhelye, tartózkodási helye, telefonszáma, elektronikus levelezési címe,
 
 c) a gyermek óvodai fejlődésével kapcsolatos adatok,
 
-d) a gyermek óvodai jogviszonyával, a tanuló tanulói jogviszonyával kapcsolatos adatok
+d) a gyermek óvodai jogviszonyával, a tanuló tanulói jogviszonyával kapcsolatos adatok:
 
 da) felvételivel kapcsolatos adatok,
 
@@ -46,7 +28,7 @@ dg) a gyermek, tanuló oktatási azonosító száma,
 
 dh) mérési azonosító,
 
-e) a tanulói jogviszonnyal kapcsolatos adatok:
+e) a tanulói jogviszonnyal kapcsolatos további adatok:
 
 ea) az egyéni munkarenddel kapcsolatos adatok,
 
@@ -68,45 +50,29 @@ f) az országos mérés-értékelés adatai,
 
 g) azt, hogy a tanuló hányadik évfolyamon, mely országban vett részt a 9. § (4) bekezdése alapján szervezett határon túli kiránduláson,
 
-h) azt, hogy a tanuló hányadik évfolyamon, mely országban vett részt külföldi tanulmányúton.
+h) azt, hogy a tanuló hányadik évfolyamon, mely országban vett részt külföldi tanulmányúton,
 
-i) a gyermek, tanuló után családi pótlékra jogosult személy nevét, lakóhelyét, tartózkodási helyét, telefonszámát, ha ez a személy nem a gyermek, tanuló szülője, törvényes képviselője.
+(3) A pedagógiai szakszolgálati intézmény – az integrált nyomon követő rendszer (a továbbiakban: INYR) működtetése érdekében – a (2) bekezdésben meghatározott adatokon kívül
 
-(4a) A pedagógiai szakszolgálati intézmény – az integrált nyomon követő rendszer (a továbbiakban: INYR) működtetése érdekében – a (4) bekezdésben meghatározott adatokon kívül
+a) a szülő, az értesítendő hozzátartozó önkéntes adatszolgáltatása alapján a gyermek, a tanuló nemzetiségi hovatartozására vonatkozó adatot,
 
-a) a szülő, a törvényes képviselő önkéntes adatszolgáltatása alapján a gyermek, a tanuló nemzetiségi hovatartozására vonatkozó adatot,
+b) annak a nevelési-oktatási intézménynek a nevét és címét, OM-azonosítóját, amellyel a gyermek, a tanuló óvodai nevelési vagy tanulói jogviszonyban, kollégiumi tagsági viszonyban áll, valamint a gyermek, a tanuló által igénybe vett pedagógiai szakszolgálati ellátás 18. § (2) bekezdés szerinti megnevezését
 
-b) annak a nevelési-oktatási intézménynek a nevét, címét, OM azonosítóját, amellyel a gyermek, a tanuló óvodai nevelési vagy tanulói jogviszonyban, kollégiumi tagsági viszonyban áll, valamint a gyermek, a tanuló által igénybe vett pedagógiai szakszolgálati ellátás 18. § (2) bekezdés szerinti megnevezését
+c) az ELTE Gyakorló Országos Pedagógiai Szakszolgálatnál képzésben részt vevő személynél: kérelmező nevét, születési helyét és idejét, anyja születési családi és utónevét, nemét, állampolgársága, lakóhelyének, tartózkodási helyének címét, személyi azonosításra szolgáló okmány megnevezését és számát, telefonszámát, elektronikus levelezési címét, társadalombiztosítási azonosító jelét, a fogyatékosságra vonatkozó adatokat, nem magyar állampolgár esetén a Magyarország területén való tartózkodás jogcímét és a tartózkodásra jogosító okirat megnevezését, számát
 
 is nyilvántartja.
 
-(4b) Ha a szülő, törvényes képviselő a (4) bekezdés i) pontjában meghatározott családi pótlékra jogosult nevét, lakóhelyét, tartózkodási helyét, telefonszámát nem adja meg az óvodának, iskolának, akkor az óvoda, iskola ezeket az adatokat a családtámogatási ügyben eljáró hatóságtól szerzi be.
+(4) Ha a szülő, értesítendő hozzátartozó vagy a (2) bekezdés b) pontjában meghatározott családi pótlékra jogosult személy a nevét, születési helyét és idejét, anyja születési családi és utónevét, lakóhelyét, tartózkodási helyét, telefonszámát, elektronikus levelezési címét nem adja meg a köznevelési intézménynek, akkor a köznevelési intézmény ezeket az adatokat a családtámogatási ügyben eljáró hatóságtól is beszerezheti.
+
+(4a) A (2) bekezdés a) és b) pontjában szereplő adatokat a köznevelési intézmény az adott adatok tekintetében elsődleges vagy másodlagos információforrásnak minősülő szervtől is beszerezheti, a tanulmányi rendszerben díjmentesen elérhető szabályozott elektronikus és központi szolgáltatások útján (a továbbiakban együtt: SZEÜSZ).
+
+(4b)
 
 (5) A (2)–(3) bekezdésben foglalt adatok – az e törvényben meghatározottak szerint, a személyes adatok védelmére vonatkozó célhoz kötöttség megtartásával – továbbíthatók a fenntartónak, a kifizetőhelynek, a bíróságnak, rendőrségnek, ügyészségnek, a közneveléssel összefüggő igazgatási tevékenységet végző közigazgatási szervnek, a munkavégzésre vonatkozó rendelkezések ellenőrzésére jogosultaknak, a nemzetbiztonsági szolgálatnak.
 
-(6) A köznevelési intézmények az alkalmazottak személyes adatait csak a foglalkoztatással, a juttatások, kedvezmények, kötelezettségek megállapításával és teljesítésével, az állampolgári jogok és kötelezettségek teljesítésével kapcsolatosan, nemzetbiztonsági okokból, az e törvényben meghatározott nyilvántartások kezelése céljából, a célnak megfelelő mértékben, célhoz kötötten kezelhetik. A 63. § (3) bekezdésében meghatározott pedagógusigazolványra jogosultak esetében a pedagógusigazolvány kiállításához szükséges valamennyi adat a hivatal, a pedagógusigazolvány elkészítésében közreműködők részére továbbítható.
+(6)
 
-(7) A gyermek, tanuló adatai közül
-
-a) a neve, születési helye és ideje, lakóhelye, tartózkodási helye, szülője neve, törvényes képviselője neve, szülője, törvényes képviselője lakóhelye, tartózkodási helye és telefonszáma, jogviszonya kezdete, szünetelésének ideje, megszűnése, egyéni munkarendje, mulasztásainak száma a tartózkodásának megállapítása, a tanítási napon a tanítási órától vagy az iskola által szervezett kötelező foglalkozástól való távolmaradás jogszerűségének ellenőrzése és a tanuló szülőjével, törvényes képviselőjével való kapcsolatfelvétel céljából, a jogviszonya fennállásával, a tankötelezettség teljesítésével összefüggésben a fenntartó, bíróság, rendőrség, ügyészség, települési önkormányzat jegyzője, közigazgatási szerv, nemzetbiztonsági szolgálat részére,
-
-b) óvodai, iskolai felvételével, átvételével kapcsolatos adatai az érintett óvodához, iskolához, felsőoktatási intézménybe történő felvétellel kapcsolatosan az érintett felsőoktatási intézményhez,
-
-c) a neve, születési helye és ideje, lakóhelye, tartózkodási helye, társadalombiztosítási azonosító jele, szülője, törvényes képviselője neve, szülője, törvényes képviselője lakóhelye, tartózkodási helye és telefonszáma, az óvodai, iskolai egészségügyi dokumentáció, a tanuló- és gyermekbalesetre, illetve a tanuló fizikai állapotára és edzettségére vonatkozó adatok az egészségi állapotának megállapítása céljából az egészségügyi, iskola-egészségügyi feladatot ellátó intézménynek,
-
-d) a neve, születési helye és ideje, társadalombiztosítási azonosító jele, lakóhelye, tartózkodási helye, szülője, törvényes képviselője neve, szülője, törvényes képviselője lakóhelye, tartózkodási helye és telefonszáma, a gyermek, tanuló mulasztásával kapcsolatos adatok, a kiemelt figyelmet igénylő gyermekre, tanulóra vonatkozó adatok a veszélyeztetettségének megelőzése, feltárása, megszüntetése céljából a családvédelemmel foglalkozó intézménynek, szervezetnek, gyermek- és ifjúságvédelemmel foglalkozó szervezetnek, intézménynek,
-
-e) az igényjogosultság elbírálásához és igazolásához szükséges adatai az igénybe vehető állami támogatás igénylése céljából a fenntartó részére,
-
-f)
-
-g) az állami vizsgája alapján kiadott bizonyítványainak adatai a bizonyítványokat nyilvántartó szervezetnek a bizonyítványok nyilvántartása céljából, továbbá a nyilvántartó szervezettől a felsőfokú felvételi kérelmeket nyilvántartó szervezethez,
-
-h)
-
-i)
-
-továbbítható.
+(7)
 
 (8) A gyermek, a tanuló
 
@@ -120,6 +86,10 @@ d) diákigazolványa kiállításához szükséges valamennyi adata a hivatal, a
 
 továbbítható.
 
-(9) A nevelési-oktatási intézmény nyilvántartja továbbá azokat az adatokat, amelyek a jogszabályokban biztosított kedvezményekre való igényjogosultság elbírálásához és igazolásához szükségesek. E célból azok az adatok kezelhetők, amelyekből megállapítható a jogosult személye és a kedvezményre való jogosultsága.
+(9) A nevelési-oktatási intézmény tanulmányi rendszerében nyilvántartja továbbá azokat az adatokat, amelyek a jogszabályokban biztosított kedvezményekre való igényjogosultság elbírálásához és igazolásához szükségesek. E célból azok az adatok kezelhetők, amelyekből megállapítható a jogosult személye és a kedvezményre való jogosultsága.
 
-(10) A köznevelési intézmény a nyilvántartott gyermek és tanulói adatokat a jogviszony megszűnésétől számított tíz évig, az alkalmazottak, óraadók adatait a jogviszony megszűnésétől számított öt évig kezeli.
+(10) A köznevelési intézmény a nyilvántartott gyermek, tanuló, szülő, értesítendő hozzátartozó adatait a jogviszony megszűnésétől számított tíz évig, az alkalmazottak, óraadók adatait – ha törvény eltérő határidőt nem állapít meg – a jogviszony megszűnésétől számított öt évig őrzi és kezeli.
+
+(11) Ha törvény alapján a kiskorú gyermek, tanuló adatai a szülő részére továbbíthatóak, törvény eltérő rendelkezése hiányában a szülői felügyeleti jog gyakorlásától függetlenül az adatokat mindkét szülőnek továbbítani kell.
+
+(12) A (11) bekezdés szerinti adatok nem továbbíthatóak azon szülőnek, akinek a bíróság – a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 4:175. § (1) bekezdése szerint – a gyermek sorsát érintő lényeges kérdésekben a szülői felügyeleti jogát korlátozta vagy megvonta.

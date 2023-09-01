@@ -23,3 +23,5 @@ h) a fizikai fittségi mérés eredményei.
 (3) A nyilvántartás adatai az első adatfelvételtől számított tíz évig kezelhetők.
 
 (4) A fizikai fittségi mérés eredményeit a mérést végző pedagógus – mérésben érintett tanulónként, mérési azonosító alkalmazásával – rögzíti és feltölti a NETFIT-be. A fizikai fittségi mérés tanulót érintő eredményeit a tanuló és a szülő a tanuló mérési azonosítójának felhasználásával megismerheti.
+
+(5) A (2) bekezdés a) és h) pontja szerinti, az előző tanévben rögzített adatok közül törvényben meghatározott adatokat a Magyar Diáksport Szövetség a mindennapos testnevelés eredményességének vizsgálata céljából a hivatal részére átadja, minden év október 31-éig.

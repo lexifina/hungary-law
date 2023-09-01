@@ -1,0 +1,1 @@
+90/A. § Nemzetközi egyezmény alapján a külföldi állam joga szerint működő köznevelési intézményben a Nat szerint működő intézményegység is létrehozható. Az intézményegységek szervezeti és szakmai tekintetben önállóak. Az e § alapján működő intézmény magyar bizonyítványt is kiadhat. Az e § szerint működő intézmény a 20. § (1) bekezdése szerinti többcélú intézményként is működhet.

@@ -16,7 +16,7 @@ c) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáró
 
 (6) Az a nem magyar állampolgár, aki a köznevelésért felelős miniszter meghívólevelével rendelkezik, a meghívólevélben meghatározott ellátást a magyar állampolgárokkal azonos feltételek szerint veheti igénybe.
 
-(7) Az a nem magyar állampolgár, aki nem tartozik az (1)–(6) bekezdésben foglaltak hatálya alá – ha nemzetközi szerződés vagy jogszabály másképpen nem rendelkezik –, az óvodai, iskolai és kollégiumi ellátásért, továbbá a pedagógiai szakszolgálat igénybevételéért díjat fizet. A díj nem haladhatja meg a szakmai feladatra jutó folyó kiadások egy tanulóra jutó hányadát. A köznevelési intézmény vezetője a díjat a fenntartó által meghatározott szabályok alapján csökkentheti vagy elengedheti.
+(7) Az a nem magyar állampolgár, aki nem tartozik az (1)–(6) bekezdésben foglaltak hatálya alá – ha nemzetközi szerződés vagy jogszabály másképpen nem rendelkezik –, az óvodai, iskolai és kollégiumi ellátásért, továbbá a pedagógiai szakszolgálat igénybevételéért díjat fizet. A díj nem haladhatja meg a szakmai feladatra jutó folyó kiadások egy tanulóra jutó hányadát. A köznevelési intézmény igazgatója a díjat a fenntartó által meghatározott szabályok alapján csökkentheti vagy elengedheti.
 
 (8) Az (1) bekezdésben meghatározott személyek óvodai neveléséhez, iskolai nevelés-oktatásához a köznevelésért felelős miniszter nevelési-oktatási programokat ad ki.
 

@@ -16,7 +16,7 @@ a) jogi személy, amely hatósági nyilvántartásba vétellel jön létre, a ha
 
 b) székhelye azonos az érintett iskola székhelyével,
 
-c) tagjait az intézményvezető bízza meg a delegálásra jogosultak véleménye alapján a feladat ellátására,
+c) tagjait az igazgató bízza meg a delegálásra jogosultak véleménye alapján a feladat ellátására,
 
 d) elnökének az választható meg, aki életvitelszerűen az intézmény székhelyével azonos településen lakik,
 
@@ -42,6 +42,6 @@ f) nyilvántartásba-vételi száma.
 
 (6) Az intézményi tanács az iskola működésének támogatására alapítványt hozhat létre.
 
-(7) Az intézmény vezetője félévenként egy alkalommal beszámol az intézmény működéséről az intézményi tanácsnak, amely az intézmény működésével kapcsolatos álláspontját megfogalmazza és eljuttatja a fenntartó számára.
+(7) Az intézmény igazgatója félévenként egy alkalommal beszámol az intézmény működéséről az intézményi tanácsnak, amely az intézmény működésével kapcsolatos álláspontját megfogalmazza és eljuttatja a fenntartó számára.
 
 (8)

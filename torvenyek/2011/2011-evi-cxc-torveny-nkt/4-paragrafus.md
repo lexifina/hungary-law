@@ -8,6 +8,8 @@
 
 3. beilleszkedési, tanulási, magatartási nehézséggel küzdő gyermek, tanuló: az a különleges bánásmódot igénylő gyermek, tanuló, aki a szakértői bizottság szakértői véleménye alapján az életkorához viszonyítottan jelentősen alulteljesít, társas kapcsolati problémákkal, tanulási, magatartásszabályozási hiányosságokkal küzd, közösségbe való beilleszkedése, továbbá személyiségfejlődése nehezített vagy sajátos tendenciákat mutat, de nem minősül sajátos nevelési igényűnek,
 
+3a. Digitális Kollaborációs Tér: a tanulmányi rendszer modulja, amely biztosítani képes legalább a tanárok és a diákok egyéni vagy csoportos digitális online és offline együttműködését, kommunikációját és az oktatással kapcsolatos feladatok komplex kezelését, ideértve többek között az órai, házi, egyéni és csoportos feladatok publikálását, beadását, a beadott feladatok értékelését és online adminisztrációját,
+
 4. egész napos iskola: iskolaszervezési forma, ahol a tanórai és más foglalkozásokat a délelőtti és délutáni időszakra egyenletesen szétosztva szervezik meg, működését, feltételrendszerét a köznevelésért felelős miniszter jogszabályban határozza meg,
 
 4a. egészségügyi és pedagógiai célú habilitáció, rehabilitáció: a szakértői bizottság szakértői véleményében meghatározott fejlesztési területekre és a fejlesztéshez szükséges szakemberre vonatkozó javaslat figyelembevételével a sajátos nevelési igényű gyermek, tanuló egyéni szükségleteinek támogatására, az akadályok leküzdésére, új funkciók kialakítására és a környezeti feltételek optimalizálására irányuló kötelező foglalkozás,
@@ -16,7 +18,9 @@
 
 6. emelt szintű oktatás: meghatározott tantárgy kerettanterv szerinti magasabb követelményekkel történő tanítása,
 
-6a. fejlesztő pedagógiai ellátás: a beilleszkedési, tanulási, magatartási nehézséggel küzdő gyermek, tanuló tantárgyi felzárkóztatására és készségfejlesztésére irányuló kötelező foglalkozás,
+6a. értesítendő hozzátartozó: a gyermek, a tanuló biztonsága, érdekei biztosítása céljából történő kapcsolattartás érdekében a tanulmányi rendszerben rögzített, a családok támogatásáról szóló 1998. évi LXXXIV. törvény 7. § (1) bekezdése szerinti személy,
+
+6b. fejlesztő pedagógiai ellátás: a beilleszkedési, tanulási, magatartási nehézséggel küzdő gyermek, tanuló tantárgyi felzárkóztatására és készségfejlesztésére irányuló kötelező foglalkozás,
 
 7. feladatellátási hely: az a cím, ahol a köznevelési intézmény alapító okiratában, szakmai alapdokumentumában foglalt feladat ellátása történik,
 
@@ -98,6 +102,8 @@ x) kiegészítő nemzetiségi óvodai nevelés
 
 lehet,
 
+14b. köznevelési e-ügyintézés: a tanulmányi rendszerben megvalósított elektronikus ügyintézés (e-ügyintézés), amely a tanulók, a szülők, értesítendő hozzátartozók, pedagógusok, osztályfőnökök, adminisztrátorok, nevelést-oktatást közvetlenül segítő munkakört betöltők, valamint egyéb kérelmezők részére biztosítja a köznevelésben szereplő és meghatározott folyamatok – tanulmányi rendszeren keresztüli – elektronikus benyújtási és ügyintézési lehetőségét,
+
 15. közösségi szolgálat: szociális, környezetvédelmi, a tanuló helyi közösségének javát szolgáló, szervezett keretek között folytatott, anyagi érdektől független, egyéni vagy csoportos tevékenység és annak pedagógiai feldolgozása,
 
 15a. külföldi iskolai kirándulás: azonos nevelési-oktatási intézménnyel tanulói jogviszonyban álló legalább hét tanuló részvételével, a nevelési-oktatási intézménnyel foglalkoztatási jogviszonyban pedagógus- vagy nevelő oktató munkát közvetlenül segítő munkakörben foglalkoztatott személy felügyeletével megszervezett a szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvény hatálya alá nem tartozó állam területére irányuló térítésköteles kirándulás,
@@ -126,6 +132,16 @@ lehet,
 
 27. székhely: az alapító okiratban, szakmai alapdokumentumban meghatározott, a köznevelési intézmény alapfeladatának ellátását szolgáló feladatellátási hely, ahol képviseleti jogának gyakorlására jogosult vezetőjének munkahelye található,
 
+27a. szülő: ha törvény eltérően nem rendelkezik, a gyermek
+
+a) vér szerinti szülője, kivéve, ha a szülői felügyeleti joggal nem rendelkezik,
+
+b) örökbefogadó szülője, kivéve, ha a szülői felügyeleti joggal nem rendelkezik,
+
+c) gyámja vagy
+
+d) nevelőszülője,
+
 28. tagintézmény: az az intézményegység, ahol a székhelytől való távolság vagy a feladatok jellege miatt az irányítási, képviseleti feladatok a székhelyről nem, vagy csak részben láthatók el,
 
 29.
@@ -134,9 +150,11 @@ lehet,
 
 30. tanév: az iskolában, kollégiumban szeptember 1-jétől a következő év augusztus 31-éig tartó időszak,
 
-31. tanítási év: ha e törvény másként nem rendelkezik, az iskolában minden év szeptemberének első munkanapjától a következő év június 16-át megelőző utolsó munkanapjáig tartó szorgalmi időszak, az érettségi és a szakmai, képesítő vizsga évét kivéve,
+31. tanítási év: ha e törvény, valamint e törvény felhatalmazása alapján a köznevelésért felelős miniszter rendelete másként nem rendelkezik, az iskolában minden év szeptemberének első munkanapjától számított, legalább száznyolcvan tanítási napig tartó szorgalmi időszak, az érettségi és a szakmai, képesítő vizsga évét kivéve,
 
 32. tanítási nap: az egyes osztályokban a tanítási órák, továbbá az iskola pedagógiai programjában rögzített, a tanítási órák keretében meg nem valósítható osztály- vagy csoportfoglalkozás, így különösen a tanulmányi kirándulás, környezeti nevelési program, a kulturális, sportrendezvény megtartására fordított nap, ha a foglalkozási órák száma eléri a hármat,
+
+32a. tanulmányi rendszer: a köznevelési intézmény rendeltetésszerű működéséhez, a szülői felelősséggel összefüggő döntési és felügyeleti jogok gyakorlásához, a nevelés-oktatás megszervezéséhez, a köznevelési intézmény iratkezelésének, továbbá pénzügyi, számviteli, bér- és humánügyviteli funkcióinak biztosításához vagy támogatásához, az elektronikus dokumentumok hiteles nyilvántartásához és változáskövetéséhez, a Digitális Kollaborációs Tér és e-ügyintézési funkcionalitások biztosításához, az intézmények – ide értve a pedagógusoknak és tanulóknak kiadott eszközöket is – leltáradatainak nyilvántartásához, a tanulók fizikai, egészségi állapotának és edzettségének mérésével kapcsolatos adatok nyilvántartásához, az EESZT kapcsolattal rendelkező iskola-egészségügyi funkcionalitás biztosításához, a tanulmányi rendszer üzemeltetője, a miniszter, a hatóság és a fenntartó általi közvetlen intézményi, tanulói, szülői, pedagógusi kommunikáció biztosításához, a pedagógusi munka objektív véleményezésének személyazonosításra alkalmatlan módon történő biztosításához, a pedagógusi munka értékeléséhez tartozó indikátorok biztosításához, a munkáltatói jogok gyakorlásához, illetve a köznevelési intézmény által foglalkoztatottak jogainak gyakorlásához, kötelezettségeik teljesítéséhez és az ezekhez kapcsolódó igazolások kiállításához, a jogszabályban meghatározott nyilvántartások vezetéséhez, a jogszabályban, illetve a köznevelési intézmény szervezeti és működési szabályzatában biztosított kedvezményekre való jogosultság megállapításához, elbírálásához és igazolásához, a zárt rendszerű elektronikus távolléti oktatás biztosításához, az intézményi fogadóórák és szülői értekezletek megszervezéséhez, a felsőoktatási tanulmányi rendszerekkel integrált pályaválasztási támogatás biztosításához, a szabályozott és központi elektronikus ügyintézési szolgáltatások díjmentes eléréséhez, a gyermekétkeztetési szolgáltatás eléréséhez, a kollégiumi funkcionalitások biztosításához, az alapfokú művészetoktatási intézményekre vonatkozó funkcionalitások biztosításához, az egységes gyógypedagógiai módszertani intézményekre vonatkozó funkcionalitások biztosításához, valamint a köznevelési információs rendszerrel elektronikus úton való kapcsolattartáshoz a köznevelési intézmény által használt intézményi alaprendszer a moduljaival és a kapcsolódó rendszerekkel együtt, amelyet az állam díjmentesen biztosít és azt úgy szükséges kialakítani, hogy valamennyi felhasználói felülete és funkcionalitása magyar nyelven biztosítsa az egyenlő hozzáférést webes és natív applikáción keresztül diákoknak, szülőknek és pedagógusoknak egyaránt,
 
 33. tanuló- és gyermekbaleset: minden olyan baleset, amely a gyermeket, a tanulót az alatt az idő alatt vagy tevékenység során éri, amikor a nevelési-oktatási intézmény felügyelete alatt áll,
 
@@ -158,7 +176,7 @@ lehet,
 
 42. használt tankönyv: az iskolai tankönyvellátás keretében az adott iskolával tanulói jogviszonyban álló tanuló részére az iskola által térítésmentesen vagy térítés ellenében átadott, legalább három hónapon át használt, majd a tanulótól visszavett, vagy a tanuló által az iskola részére felajánlott tankönyv,
 
-43. közismereti tankönyv: a Nemzeti alaptanterv (a továbbiakban: Nat) bármely tantárgyához alkalmazható tankönyv,
+43. közismereti tankönyv: a Nemzeti alaptanterv (a továbbiakban: Nat) bármely tantárgyához alkalmazható tankönyv, amely a tanulmányi rendszeren keresztül elektronikus könyv formátumban is szabadon hozzáférhetővé tehető,
 
 44. munkafüzet: az a tankönyv, amely alkalmas arra, hogy egy vagy több meghatározott tankönyv tananyagának gyakorlását, elsajátítását, alkalmazását elősegítse,
 
@@ -166,8 +184,14 @@ lehet,
 
 46. munkatankönyv: az a tankönyv, amelynek alkalmazása során a tanulónak a tankönyvben elhelyezett feladatlapon kell az előírt feladatot megoldania,
 
-47. tankönyv: az a könyv – beleértve a szótárt, a szöveggyűjteményt, az atlaszt, a kislexikont, a munkatankönyvet, a munkafüzetet, a feladatgyűjteményt – vagy a digitális tananyag vagy a nevelési-oktatási program részét alkotó információhordozó, feladathordozó, amelyet az e törvényben és az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott eljárásban tankönyvvé nyilvánítottak,
+47. tankönyv: az a könyv – beleértve a szótárt, a szöveggyűjteményt, az atlaszt, a kislexikont, a munkatankönyvet, a munkafüzetet, a feladatgyűjteményt – vagy a digitális tananyag, vagy a zárt rendszerű elektronikus távolléti oktatással biztosított tananyag, vagy a nevelési-oktatási program részét alkotó információhordozó, feladathordozó, amelyet az e törvényben és az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott eljárásban tankönyvvé nyilvánítottak,
 
 48. tankönyvellátás: az iskolában alkalmazott tankönyvek fejlesztése, kiadása, előállítása, valamint az iskolai tankönyvrendelés lebonyolítása,
 
 49. tartós tankönyv: az a tankönyv, könyvhöz kapcsolódó kiadvány, amely nem tartalmaz a tankönyvbe történő bejegyzést igénylő feladatokat, és alkalmas arra, hogy a tanulók legalább négy tanéven keresztül használják.
+
+50. videotartalom-kezelő: a tanulmányi rendszerbe vagy a zárt rendszerű távolléti oktatási képzésmenedzsment-rendszerbe (együtt: képzési rendszerek) integrált online kapcsolaton keresztül sugárzott videotechnológiával megvalósított, mobil használatra is alkalmas videoplatform, ahol a felhasználó a tanulmányi rendszeren keresztüli egyéni azonosítással éri el a tantárgyaihoz tartozó videokönyvtárba szervezett – az előadót és a prezentációját is megjelenítő – tartalmakat; a videotartalom-kezelő lehetőséget biztosít a felhasználónak a videotartalomhoz rögzített egyéni és mentésre kerülő jegyzetelésre és a beállított tartalomjegyzék szerinti navigálásra, videókon belül bármely kimondott vagy megjelenített szóra való keresésre, az előadói és prezentációs nézet együttes vagy külön-külön nézetei közötti szabad váltásra, a kiajánlott nyelveken történő feliratozás előhívására,
+
+51. zárt rendszerű elektronikus távolléti oktatás: képzés vagy az otthoni felkészülés olyan formája, amelyben az oktatás digitális tananyaggal, videotartalom-kezelővel, továbbá a pedagógus és a tanuló együttműködése az informatikai hálózaton (internet, intranet) keresztül, a felnőttoktatásban, tantermen kívüli, digitális munkarendben és az otthoni felkészülésnél alkalmazható, zárt rendszerű távoktatási képzésmenedzsment-rendszerrel valósul meg, amelynek során a közös kommunikáció eszköze a számítógép és az informatikai hálózat, továbbá a zárt rendszerű oktatási képzésmenedzsment-rendszer,
+
+52. zárt rendszerű távoktatási képzésmenedzsment-rendszer: a felnőttoktatásban, tantermen kívüli, digitális munkarendben és az otthoni felkészülés során részt vevő személy képzését tervező, szervező és ellenőrző, a képzéshez szükséges digitális tananyagot, videotartalom-kezelő által biztosított tartalmat, valamint kiegészítő ismeretanyagot a képzési program szerint számára eljuttató, minősített és tanúsított zárt informatikai rendszer, amely a képzésszervezésen túl adatbázisában manipulálhatatlanul rögzíti és értékeli – valamint a tanulmányi rendszer számára közvetíti – a képzésben részt vevő személy képzési programban rögzített előrehaladását, ellenőrző kérdésekre adott válaszait, eredményeit, tevékenységét, és végrehajtja – a képzésben részt vevő személy teljesítményének értékelése alapján – a képzési program szerint lehetséges navigációs kéréseit, továbbá biztosítja az oktató, az oktatásszervező és a képzésben részt vevő hallgató vagy személy interaktív és távolléti kapcsolattal megvalósuló, teljes értékű együttműködését,

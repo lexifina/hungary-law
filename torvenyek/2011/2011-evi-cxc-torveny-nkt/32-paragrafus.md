@@ -2,7 +2,7 @@
 
 a) a pedagógusok és egyéb munkavállalók alkalmazása során világnézeti és hitéleti szempontokat érvényesíthet, alkalmazási feltételként írhat elő,
 
-b) az intézményvezető-helyettesek megbízása során a fenntartó egyetértési jogot gyakorol,
+b) az igazgató-helyettesek megbízása során a fenntartó egyetértési jogot gyakorol,
 
 c) a fenntartó az iskola számára előírhatja valamely – a köznevelésért felelős miniszter által kiadott – kerettanterv választását és meghatározhatja az intézményben használható tankönyveket, taneszközöket,
 
@@ -16,7 +16,7 @@ g) az f) pont szerint meghatározott kötelességek megszegése, elmulasztása m
 
 h) és az iskola tananyagában a hittan mint tantárgy szerepel, az állami intézményekre megállapított pedagóguslétszámon felül alkalmazott hitoktatónak, hittantanárnak egyházi felsőoktatási intézményben vagy a vallási egyesület által fenntartott felsőoktatási intézményben szerzett hitoktatói, hittantanári vagy a hitélettel kapcsolatos felsőfokú képesítéssel vagy pedagógus szakképzettséggel és az egyházi jogi személy által kibocsátott hitoktatói képesítéssel, továbbá a az egyház belső szabálya alapján illetékes egyházi jogi személy vagy a vallási egyesület általi megbízással kell rendelkeznie,
 
-i) a nevelési-oktatási intézmény SZMSZ-e, házirendje, valamint a nevelési-oktatási intézmény pedagógiai programja a fenntartó jóváhagyásával válik érvényessé,
+i) a nevelési-oktatási intézmény házirendje a fenntartó jóváhagyásával válik érvényessé,
 
 j) az etika tantárgy hittan tantárggyal kiváltható, amennyiben az iskola pedagógiai programja a hittan tantárgy vonatkozásában tartalmazza a Nat-ban az etikára meghatározott fejlesztési követelményeket és tartalmakat.
 

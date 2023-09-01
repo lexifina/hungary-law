@@ -1,8 +1,8 @@
-69. § (1) A köznevelési intézmény vezetője
+69. § (1) A köznevelési intézmény igazgatója
 
 a) felel az intézmény szakszerű és törvényes működéséért, fenntartó által rendelkezésre bocsátott eszközök tőle elvárható gondossággal való kezeléséért – önálló költségvetéssel nem rendelkező intézmény kivételével – az intézmény gazdálkodásáért,
 
-b) önálló költségvetéssel nem rendelkező intézmény vezetője kivételével gyakorolja a munkáltatói jogokat a köznevelési intézményben foglalkoztatottak felett,
+b) önálló költségvetéssel nem rendelkező intézmény igazgatója kivételével gyakorolja a munkáltatói jogokat a köznevelési intézményben foglalkoztatottak felett,
 
 c) dönt az intézmény működésével kapcsolatban minden olyan ügyben, amelyet jogszabály, kollektív szerződés, közalkalmazotti szabályzat nem utal más hatáskörébe,
 
@@ -12,7 +12,7 @@ e) jóváhagyja az intézmény pedagógiai programját,
 
 f) képviseli az intézményt.
 
-(2) A nevelési-oktatási intézmény vezetője felel
+(2) A nevelési-oktatási intézmény igazgatója felel
 
 a) a pedagógiai munkáért,
 
@@ -36,9 +36,9 @@ j) a gyermekek, tanulók rendszeres egészségügyi vizsgálatának megszervezé
 
 k) a pedagógus etika normáinak betartásáért és betartatásáért.
 
-(3) A köznevelési intézmény vezetője a pedagógiai munkáért való felelőssége körében szakmai ellenőrzést indíthat az intézményben végzett nevelő és oktató munka, egyes alkalmazott munkája színvonalának külső szakértővel történő értékelése céljából.
+(3) A köznevelési intézmény igazgatója a pedagógiai munkáért való felelőssége körében szakmai ellenőrzést indíthat az intézményben végzett nevelő és oktató munka, egyes alkalmazott munkája színvonalának külső szakértővel történő értékelése céljából.
 
-(4) A nevelési-oktatási intézményvezető munkáját a nevelőtestület és a szülők közössége a vezetői megbízásának második és negyedik évében személyazonosításra alkalmatlan kérdőíves felmérés alapján értékeli. Az országos pedagógiai-szakmai ellenőrzés az intézményvezető munkájának ellenőrzése és értékelése során a kérdőíves felmérés eredményét is figyelembe veszi.
+(4) A nevelési-oktatási intézmény igazgatójának munkáját a nevelőtestület és a szülők közössége a vezetői megbízásának második és negyedik évében személyazonosításra alkalmatlan kérdőíves felmérés alapján értékeli. Az országos pedagógiai-szakmai ellenőrzés az igazgató munkájának ellenőrzése és értékelése során a kérdőíves felmérés eredményét is figyelembe veszi.
 
 (5) A nevelési-oktatási intézmény vezetője munkaideje felhasználását és beosztását, az 5. mellékletben foglalt tanórák, foglalkozások megtartásának kötelezettségén kívül maga jogosult meghatározni.
 

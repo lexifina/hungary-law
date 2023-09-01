@@ -2,7 +2,7 @@
 
 (2) Az INYR keretében folyó adatkezelés tekintetében a hivatal az adatkezelő.
 
-(3)
+(3) Az ELTE Gyakorló Országos Pedagógiai Szakszolgálat vonatkozásában az (1) és (2) bekezdés, valamint a 41. § (2) és (3) bekezdése alkalmazandó.
 
 (4)
 

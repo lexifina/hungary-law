@@ -14,7 +14,7 @@ b) általános iskolában felvételi vizsga.
 
 (6) Az általános iskola köteles felvenni, átvenni azt a tanköteles tanulót, aki életvitelszerűen az általános iskola körzetében lakik (a továbbiakban: kötelező felvételt biztosító iskola). Ha a településen több általános iskola működik, az egyes általános iskolai körzetet úgy kell meghatározni, hogy kialakíthatóvá váljon a hátrányos helyzetű gyermekek egyenletes aránya a nevelési-oktatási intézményekben.
 
-(7) Az iskolába a tanköteles tanulókat az első évfolyamra jogszabályban meghatározott időszakban kell beíratni. A beiratkozásra meghatározott időt a helyben szokásos módon közzé kell tenni.
+(7) Az iskolába a tanköteles tanulókat az első évfolyamra jogszabályban meghatározott időszakban kell beíratni. A beiratkozásra meghatározott időt a helyben szokásos módon közzé kell tenni. A beiratkozásnál biztosítani kell a tanulmányi rendszer e-ügyintézési moduljának on-line beiratkozási szolgáltatását, a szülő által megadott adatok ellenőrzésére és szükség szerinti pontosítására a tanulmányi rendszeren keresztül ingyenesen elérhető SZEÜSZ-öket kell elsősorban használni.
 
 (8) A területileg illetékes tankerületi központ meghatározza és közzéteszi az iskolák felvételi körzetét, továbbá a pedagógiai szakszolgálatot ellátó intézmény működési körzetét. A felvételi körzetek megállapításához a területileg illetékes tankerületi központnak be kell szereznie az érdekelt települési önkormányzatok véleményét.
 

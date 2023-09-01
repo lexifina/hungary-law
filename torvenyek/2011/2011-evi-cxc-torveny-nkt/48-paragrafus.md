@@ -4,7 +4,7 @@
 
 (2) A diákkörök döntési jogkört gyakorolnak – a nevelőtestület véleménye meghallgatásával – saját közösségi életük tervezésében, szervezésében, valamint tisztségviselőik megválasztásában, és jogosultak képviseltetni magukat a diákönkormányzatban.
 
-(3) A tanulók, diákkörök a tanulók érdekeinek képviseletére diákönkormányzatot hozhatnak létre. A diákönkormányzat munkáját e feladatra kijelölt, felsőfokú végzettségű és pedagógus szakképzettségű személy segíti, akit a diákönkormányzat javaslatára az intézményvezető bíz meg ötéves időtartamra.
+(3) A tanulók, diákkörök a tanulók érdekeinek képviseletére diákönkormányzatot hozhatnak létre. A diákönkormányzat munkáját e feladatra kijelölt, felsőfokú végzettségű és pedagógus szakképzettségű személy segíti, akit a diákönkormányzat javaslatára az igazgató bíz meg ötéves időtartamra.
 
 (4) A diákönkormányzat véleményét ki kell kérni:
 

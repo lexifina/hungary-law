@@ -38,7 +38,7 @@ h) az oktatási jogok biztosához forduljon.
 
 (4) A gyermek, tanuló joga, hogy a nevelési-oktatási intézményben, családja anyagi helyzetétől függően, külön jogszabályban meghatározott esetekben kérelmére térítésmentes vagy kedvezményes étkezésben, tanszerellátásban részesüljön, továbbá, hogy részben vagy egészben mentesüljön az e törvényben meghatározott, a gyermekeket, tanulókat terhelő költségek megfizetése alól, vagy engedélyt kapjon a fizetési kötelezettség teljesítésének halasztására vagy a részletekben való fizetésre.
 
-(5) A köznevelés nappali rendszerű iskolai oktatásában az állam biztosítja, hogy a tanuló számára a tankönyvek térítésmentesen álljanak rendelkezésre.
+(5) A köznevelés nappali rendszerű iskolai oktatásában az állam biztosítja, hogy a tanuló számára a tankönyvek térítésmentesen álljanak rendelkezésre. A tankönyveket – amennyiben ez lehetséges – a tanulmányi rendszeren keresztül elektronikus könyv formátumban is szabadon közzé kell tenni.
 
 (6) A tanuló joga különösen, hogy
 

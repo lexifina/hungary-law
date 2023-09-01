@@ -16,11 +16,13 @@ e) ellenőrizheti a köznevelési intézmény gazdálkodását, működésének 
 
 f) a köznevelési intézmény vezetőjének megbízása, kinevezése, a megbízás visszavonása, a jogviszony megszüntetésének jogával kapcsolatos, e törvényben foglalt korlátozó rendelkezések keretei között gyakorolja a munkáltatói jogokat a köznevelési intézmény vezetője felett,
 
-g) jóváhagyja a köznevelési intézmény tantárgyfelosztását, továbbképzési programját,
+g) jóváhagyja a köznevelési intézmény SZMSZ-ét, pedagógiai programját, éves munkatervét, továbbképzési programját, tantárgyfelosztását,
 
 h) értékeli a nevelési-oktatási intézmény pedagógiai programjában meghatározott feladatok végrehajtását, a pedagógiai-szakmai munka eredményességét,
 
-i) ellenőrzi a pedagógiai programot, a házirendet, valamint a SZMSZ-t.
+i) ellenőrzi a házirendet.
+
+j) dönt a nevelési-oktatási intézmény munkáját átfogó elemzések, értékelések, beszámolók elfogadásáról.
 
 (2a) Az állami és önkormányzati fenntartású köznevelési intézményekben a Kar által elfogadott Etikai Kódex alkalmazása kötelező. A magán köznevelési intézmény fenntartója a Kar által elfogadott Etikai Kódex általános etikai alapelveinek figyelembevételével megalkotja az általa fenntartott köznevelési intézményekben foglalkoztatott pedagógusokra vonatkozó intézményi etikai kódexet. Az egyházi köznevelési intézmény ajánlásként veszi figyelembe a Kar által elfogadott Etikai Kódex alapelveit.
 
@@ -62,10 +64,10 @@ h) a vagyonkezelésében levő ingatlan tulajdonos önkormányzatának
 
 véleményét.
 
-(4a) A települési nemzetiségi önkormányzat, ennek hiányában az érintett országos nemzetiségi önkormányzat a nemzetiségi nevelés-oktatásban részt vevő intézmény vezetőjének megbízásával és megbízása visszavonásával kapcsolatos véleményezési jogának kikérésére a (4) bekezdés alkalmazandó.
+(4a) A települési nemzetiségi önkormányzat, ennek hiányában az érintett országos nemzetiségi önkormányzat a nemzetiségi nevelés-oktatásban részt vevő intézmény igazgatójának megbízásával és megbízása visszavonásával kapcsolatos véleményezési jogának kikérésére a (4) bekezdés alkalmazandó.
 
 (5) A (3)–(4) bekezdésben meghatározott vélemény kialakításához minden olyan információt hozzáférhetővé kell tenni a véleményezési joggal rendelkezők részére, amely a fenntartói döntés meghozatalához rendelkezésére áll. A vélemény kialakításához – az információk hozzáférhetővé tételének napjától számítva – legalább tizenöt napot kell biztosítani az érdekeltek részére.
 
-(6) Ha a fenntartó három vagy annál több köznevelési intézményt tart fenn, a (3)–(4) bekezdés szerinti véleményeztetési kötelezettségének – a nevelési-oktatási intézmény átalakítása, megszüntetése, vezetőjének megbízása és megbízásának visszavonása kivételével – eleget tehet úgy is, hogy a tervezett intézkedésről szóló tájékoztatót az érintett köznevelési intézmény vezetőjének küldi meg azzal, hogy a helyben szokásos módon hozza nyilvánosságra, és hívja fel a (4) bekezdésben meghatározottak figyelmét arra, hogy a fenntartó tervezett intézkedésével kapcsolatos véleményüket a (5) bekezdésben meghatározott határidő biztosítása mellett a köznevelési intézmény vezetőjének küldhetik meg. A köznevelési intézmény vezetője a véleményeket a véleményezési határidő lejártát követő öt munkanapon belül megküldi a fenntartónak.
+(6) Ha a fenntartó három vagy annál több köznevelési intézményt tart fenn, a (3)–(4) bekezdés szerinti véleményeztetési kötelezettségének – a nevelési-oktatási intézmény átalakítása, megszüntetése, igazgatójának megbízása és megbízásának visszavonása kivételével – eleget tehet úgy is, hogy a tervezett intézkedésről szóló tájékoztatót az érintett köznevelési intézmény igazgatójának küldi meg azzal, hogy a helyben szokásos módon hozza nyilvánosságra, és hívja fel a (4) bekezdésben meghatározottak figyelmét arra, hogy a fenntartó tervezett intézkedésével kapcsolatos véleményüket a (5) bekezdésben meghatározott határidő biztosítása mellett a köznevelési intézmény igazgatójának küldhetik meg. A köznevelési intézmény igazgatója a véleményeket a véleményezési határidő lejártát követő öt munkanapon belül megküldi a fenntartónak.
 
 (7) A magyar nyelvi előkészítés, a nemzetiség nyelvén folyó nevelés és oktatás iránti igényt a települési önkormányzat, a tankerületi központ évente köteles felmérni az érintett első óvodai nevelési évre, első iskolai évfolyamra beiratkozni szándékozók körében az érdekelt települési nemzetiségi önkormányzat és az országos nemzetiségi önkormányzat bevonásával.

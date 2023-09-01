@@ -4,7 +4,7 @@
 
 a) a köznevelési intézmények alapításának és működésének szabályait, a köznevelési intézmények vezetői megbízásával kapcsolatos eljárást; a köznevelési intézmények névhasználatával, a gyermekek, tanulók óvodai, iskolai felvételével kapcsolatos kérdéseket, a kötelező felvételt biztosító óvodába és általános iskolába történő felvétel tekintetében az életvitelszerű ott lakás feltételeit, az érettségi vizsgabizonyítvány kiadásának feltételeként meghatározott közösségi szolgálat végzésének megszervezésére vonatkozó részletes szabályokat, a tanulókkal kapcsolatos fegyelmi eljárás lefolytatásának szabályait, a diákkörök, diákönkormányzatok működésére vonatkozó részletes szabályokat, diáksport-egyesületek és a nevelési-oktatási intézmények kapcsolatát, az óvodaszék, iskolaszék, kollégiumi szék, szülői szervezet, intézményi tanács működésének részletes szabályait, a köznevelési intézmények ügyintézésének, iratkezelésének általános szabályait, valamint a tanügyi nyilvántartásokat, az adatkezelés rendjét, a tanuló- és gyermekbalesetek megelőzésével kapcsolatos feladatokat, továbbá a balesetek kivizsgálásával, nyilvántartásával és jelentésével összefüggő tevékenységet, valamint az Arany János Tehetséggondozó Program, az Arany János Kollégiumi Program megszervezésére vonatkozó szabályokat,
 
-b) az ágazati minőségpolitikai feladatok ellátásának, az országos mérési feladatok szervezésének, a tanulók fizikai állapotának és edzettségének mérésével kapcsolatos feladatokat, a teljesítmény értékelésének rendjét és elveit,
+b) az ágazati minőségpolitikai feladatok ellátásának, az országos mérési feladatok szervezésének, a tanulók fizikai állapotának és edzettségének mérésével kapcsolatos feladatokat, a tanulói teljesítmény értékelésének rendjét és elveit, valamint a 80. § (1) bekezdésben foglaltak részletszabályait,
 
 c) a szakgimnáziumban oktatható szakképesítéseket, valamint a pedagógia, közművelődés és művészet tanulmányi területhez sorolt, iskolarendszeren kívüli képzéseket,
 
@@ -36,7 +36,7 @@ p) a köznevelési intézményekben lefolytatható ellenőrzések részletes sza
 
 q) a nyelvi előkészítő évfolyammal működő iskola nevelés-oktatás megszervezésére vonatkozó szabályokat
 
-r) a tanév, ezen belül a tanítási év rendjét, a tanév szervezésével kapcsolatos feladatokat, így különösen a tanév kezdő és befejező napját, azt az időszakot, amelynek keretében az iskolai nevelés és oktatás folyik, a tanítási szünetek szervezésének időszakát és időtartamát, a felvételi kérelmek elbírálásának, az érettségi vizsga időszakát,
+r) a tanév, ezen belül a tanítási év rendjét, a tanítási év meghosszabbítását,, a tanév szervezésével kapcsolatos feladatokat, így különösen a tanév kezdő és befejező napját, azt az időszakot, amelynek keretében az iskolai nevelés és oktatás folyik, a tanítási szünetek szervezésének időszakát és időtartamát, a felvételi kérelmek elbírálásának, az érettségi vizsga időszakát,
 
 s) az országos tanulmányi verseny szabályzatát,
 
@@ -62,7 +62,7 @@ egyetértésben gyakorolja.
 
 (3) Felhatalmazást kap
 
-a) a rendvédelmi szervet irányító miniszter, hogy a rendvédelmi szerv működésének sajátosságaira tekintettel – a köznevelésért felelős miniszter egyetértésével – a tanulók jogaira és kötelességeire, a pedagógusok végzettségére és szakképzettségére, jogaira és kötelességeire, az intézményvezető megbízására vonatkozó eltérő rendelkezéseket, a tanulói jogviszony létesítéséhez szükséges alkalmassági követelményeket, valamint ezek megállapításának rendjét, a fenntartói irányítási jog ellátásával való megbízást,
+a) a rendvédelmi szervet irányító miniszter, hogy a rendvédelmi szerv működésének sajátosságaira tekintettel – a köznevelésért felelős miniszter egyetértésével – a tanulók jogaira és kötelességeire, a pedagógusok végzettségére és szakképzettségére, jogaira és kötelességeire, az igazgató megbízására vonatkozó eltérő rendelkezéseket, a tanulói jogviszony létesítéséhez szükséges alkalmassági követelményeket, valamint ezek megállapításának rendjét, a fenntartói irányítási jog ellátásával való megbízást,
 
 b) az egészségügyért felelős miniszter, hogy a köznevelésért felelős miniszter egyetértésével a tanulók rendszeres egészségügyi vizsgálatának megszervezését, ennek keretében különösen az óvodába járó gyermek, valamint a tankötelezettség végéig az általános iskolába, középfokú iskolába járó tanuló évenkénti legalább egyszeri fogászati, szemészeti és általános szűrővizsgálaton való részvételének részletes szabályait,
 
@@ -104,7 +104,7 @@ m) a köznevelés információs rendszerével összefüggő igazgatási szolgál
 
 n) az állami köznevelési közfeladat ellátásában fenntartóként részt vevő szervek jogállását, feladatait, az oktatási központ mint a köznevelésért felelős miniszter egyes köznevelési fenntartói feladatkörébe tartozó feladatainak ellátására kijelölt szervet és jogállását, feladatait, az állami köznevelési közfeladat ellátásában fenntartóként részt vevő szerv, valamint az oktatási központ mint a köznevelésért felelős miniszter egyes köznevelési fenntartói feladatkörébe tartozó feladatainak ellátására kijelölt szerv vezetői kinevezésének iskolai végzettséggel, szakképzettséggel kapcsolatos és egyéb részletes feltételeit, valamint a köznevelési elektronikus adatnyilvántartási és ügyintézési rendszer szakrendszereinek működtetésére kijelölt szervet és annak feladatait,
 
-o)
+o) a hivatalnak az Országos Statisztikai Adatfelvételi Program végrehajtásával, valamint az egyéb hazai rendszeres és eseti oktatási tárgyú statisztikai adatszolgáltatásokkal kapcsolatos feladatainak ellátásával összefüggő adatszolgáltatás rendjét,
 
 p) a térítésmentes, a térítési díj, valamint tandíj ellenében igénybe vehető szolgáltatások körét,
 

@@ -1,0 +1,1 @@
+99/L. § Az Nkt. 7. § (1) bekezdés a) pontja szerinti köznevelési intézmény 2024. szeptember 1-ig – a tanulmányi rendszer vonatkozásában – az Nkt. 2023. augusztus 31-én hatályos rendelkezéseit alkalmazza.

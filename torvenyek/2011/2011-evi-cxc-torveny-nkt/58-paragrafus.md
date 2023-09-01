@@ -2,9 +2,9 @@
 
 58. § (1) A gyermeket, a tanulót a tőle elvárhatónál jobb teljesítményéért az intézmény házirendjében foglaltak szerint jutalmazni kell.
 
-(2) A köznevelésért felelős miniszter díjat, kitüntetést alapíthat az országos vagy nemzetközi jelentőségű eseményeken kiemelkedő teljesítményt nyújtó tanulók jutalmazása, elismerése céljából. A miniszter által alapított díj, kitüntetés kedvezményezettjeinek körére a köznevelési intézmény vezetője tehet javaslatot.
+(2) A köznevelésért felelős miniszter díjat, kitüntetést alapíthat az országos vagy nemzetközi jelentőségű eseményeken kiemelkedő teljesítményt nyújtó tanulók jutalmazása, elismerése céljából. A miniszter által alapított díj, kitüntetés kedvezményezettjeinek körére a köznevelési intézmény igazgatója tehet javaslatot.
 
-(3) Ha a tanuló a kötelességeit vétkesen és súlyosan megszegi, fegyelmi eljárás alapján, írásbeli határozattal fegyelmi büntetésben részesíthető. A fegyelmi eljárás megindítása és lefolytatása kötelező, ha a tanuló maga ellen kéri. Kiskorú tanuló esetén e jogot a szülő gyakorolja.
+(3) Ha a tanuló a kötelességeit vétkesen és súlyosan megszegi, fegyelmi eljárás alapján, írásbeli határozattal fegyelmi büntetésben részesíthető. A fegyelmi eljárás megindítása és lefolytatása kötelező, ha a tanuló maga ellen kéri. Kiskorú tanuló esetén e jogot a szülő gyakorolja. A fegyelmi eljárás megindításáról és az írásbeli határozatról a tanulót és a kiskorú tanuló szülőjét a tanulmányi rendszeren keresztül is haladéktalanul értesíteni kell azzal, hogy az így történő értesítéssel a döntés nem minősül közöltnek.
 
 (4) A fegyelmi büntetés lehet
 
