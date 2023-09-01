@@ -20,7 +20,7 @@
 
 9. a Magyar Honvédség,
 
-10.[^2] az Eötvös Loránd Kutatási Hálózat területi kutatásokat folytató intézeteinek,
+10.[^2] a Magyar Kutatási Hálózat területi kutatásokat folytató intézeteinek,
 
 11. Magyarország államilag elismert felsőoktatási intézményei területi kutatásokat folytató oktatási, tudományos kutatási szervezeti egységeinek,
 
@@ -54,6 +54,6 @@ regisztrált tagjait.
 
 (3) A NATéR szolgáltatásaihoz a középiskolai és felsőoktatási intézmény vezetője által kijelölt és a NATéR-ben regisztrált munkatársa, valamint a képzésben részt vevő regisztrált tanulója, hallgatója oktatási-kutatási célból közvetlenül fér hozzá.
 
-[^2]: A 9. § (2) bekezdés 10. pontja a 345/2019. (XII. 23.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^2]: A 9. § (2) bekezdés 10. pontja a 345/2019. (XII. 23.) Korm. rendelet 5. §-a, a 246/2023. (VI. 22.) Korm. rendelet 11. §-a szerint módosított szöveg.
 [^3]: A 9. § (2) bekezdés 19. pontja a 616/2022. (XII. 29.) Korm. rendelet 183. §-a szerint módosított szöveg.
 [^4]: A 9. § (2) bekezdés 22. pontja a 616/2022. (XII. 29.) Korm. rendelet 183. §-a szerint módosított szöveg.
