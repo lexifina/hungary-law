@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-355-20-
 | 2021-08-29 | 2011-355-20-22.16 | 482/2021. (VIII. 13.) Korm. rendelet |
 | 2021-12-02 | 2011-355-20-22.17 | 667/2021. (XII. 1.) Korm. rendelet |
 | 2022-09-14 | 2011-355-20-22.18 | 351/2022. (IX. 13.) Korm. rendelet |
+| 2023-09-01 | 2011-355-20-22.19 | 667/2021. (XII. 1.) Korm. rendelet |
