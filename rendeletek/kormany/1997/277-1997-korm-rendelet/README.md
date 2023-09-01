@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-277-20-
 | 2022-01-01 | 1997-277-20-22.32 | 346/2013. (IX. 30.) Korm. rendelet |
 | 2022-06-01 | 1997-277-20-22.33 | 3/2010. (I. 14.) Korm. rendelet |
 | 2022-07-01 | 1997-277-20-22.34 | 229/2007. (VIII. 31.) Korm. rendelet |
+| 2023-09-01 | 1997-277-20-22.35 | 402/2023. (VIII. 30.) Korm. rendelet |

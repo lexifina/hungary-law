@@ -102,9 +102,9 @@
 
 ## Megfelelő volt-e a továbbképzés szervezettsége?
 
-3. számú melléklet a 277/1997. (XII. 22.) Korm. rendelethez[^142]
+3. számú melléklet a 277/1997. (XII. 22.) Korm. rendelethez[^148]
 
-## Az igazgatási szolgáltatási díj mértéke
+Az igazgatási szolgáltatási díj mértéke
 
 1. Az alapítási engedély kiadására indított eljárásban az igazgatási szolgáltatási díj összege – továbbképzési programonként –
 
@@ -116,9 +116,9 @@ c) száznegyvennyolcezer forint, amennyiben a foglalkozási órák száma meghal
 
 d) százötvennyolcezer forint, amennyiben a foglalkozási órák száma meghaladja a kilencven órát.
 
-2.[^143] A továbbképzési jegyzékre történő felvételért fizetendő igazgatási szolgáltatási díj összege – továbbképzési programonként – húszezer-ötszáz forint, amely tartalmazza az első, a második és az ezt követő jegyzékre vétel díját is.
+2.[^149] A továbbképzési jegyzékre történő felvételért fizetendő igazgatási szolgáltatási díj összege – továbbképzési programonként – húszezer-ötszáz forint, amely tartalmazza az első, a második és az ezt követő jegyzékre vétel díját is.
 
-3.[^144] Abban az esetben, ha a továbbképzési program készítője a Hivatal alapítási engedély kiadási kérelmet elutasító határozatának véglegessé válásától számított fél éven belül ugyanazt a programot átdolgozva újra beadja, a fizetendő igazgatási szolgáltatási díj összege
+3.[^150] Abban az esetben, ha a továbbképzési program készítője a Hivatal alapítási engedély kiadási kérelmet elutasító határozatának véglegessé válásától számított fél éven belül ugyanazt a programot átdolgozva újra beadja, a fizetendő igazgatási szolgáltatási díj összege
 
 a) ötvenötezer forint, amennyiben a foglalkozási órák száma nem haladja meg a harminc órát,
 
@@ -128,6 +128,6 @@ c) ötvenkilencezer-ötszáz forint, amennyiben a foglalkozási órák száma me
 
 d) hatvannégyezer forint, amennyiben a foglalkozási órák száma meghaladja a kilencven órát.
 
-[^142]: A 3. számú melléklet a 3/2010. (I. 14.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^143]: A 3. számú melléklet 2. pontja a 122/2018. (VII. 10.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^144]: A 3. számú melléklet 3. pont nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 53. § b) pontja, a 196/2019. (VIII. 1.) Korm. rendelet 4. § h) pontja szerint módosított szöveg.
+[^148]: A 3. számú melléklet a 3/2010. (I. 14.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^149]: A 3. számú melléklet 2. pontja a 122/2018. (VII. 10.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^150]: A 3. számú melléklet 3. pont nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 53. § b) pontja, a 196/2019. (VIII. 1.) Korm. rendelet 4. § h) pontja szerint módosított szöveg.
