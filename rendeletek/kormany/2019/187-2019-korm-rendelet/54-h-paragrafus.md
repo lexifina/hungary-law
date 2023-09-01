@@ -40,7 +40,7 @@ b) az 1. és 2. célterület szerinti támogatásban.
 
 a) a csecsemőgondozási díjra vagy a gyermekgondozási díjra való jogosultságot megállapító határozatot, ha a támogatást igénylő nem részesül gyermekgondozást segítő ellátásban vagy gyermeknevelési támogatásban,
 
-b) a támogatási kérelemben megjelölt köznevelési vagy szakképzési tanulmányok esetén a képzést nyújtó intézmény által kiállított tanulói jogviszony igazolást,
+b)[^35] a tanulói jogviszony igazolása céljából az oktatási igazolványokról szóló kormányrendelet szerint a közreműködő intézmény által a tárgyidőszakra kiadott, érvényesítő matricával ellátott diákigazolvány másolatát vagy a közreműködő intézmény által kiadott, a diákigazolványra való jogosultságról szóló igazolás másolatát,
 
 c) a támogatási kérelemben megjelölt felnőttképzés esetén a felnőttképzési szerződést,
 
@@ -62,7 +62,7 @@ e) a támogatás igénylésekor meglévő végzettségével kapcsolatos adatok.
 
 a) a támogatói okirat közlését követő 6 hónapon belül a képzést nem kezdi meg,
 
-b)[^35] a képzés megkezdését követően két egymást követő, képzéssel érintett hónapban kifizetési igénylést nem nyújt be,
+b)[^36] a képzés megkezdését követően két egymást követő, képzéssel érintett hónapban kifizetési igénylést nem nyújt be,
 
 c) által két egymást követő hónapra benyújtott kifizetési igénylés elutasításra kerül, vagy
 
@@ -73,4 +73,5 @@ d) állandó lakóhelye vagy tartózkodási helye a támogatási jogviszony alat
 [^32]: Az 54/H. § (1) bekezdés d) pontja a 434/2021. (VII. 16.) Korm. rendelet 8. § 10. pontja szerint módosított szöveg.
 [^33]: Az 54/H. § (1) bekezdés f) pont fc) alpontja a 434/2021. (VII. 16.) Korm. rendelet 8. § 11. pontja szerint módosított szöveg.
 [^34]: Az 54/H. § (4) bekezdés a) pontja a 434/2021. (VII. 16.) Korm. rendelet 8. § 12. pontja szerint módosított szöveg.
-[^35]: Az 54/H. § (8) bekezdés b) pontja a 434/2021. (VII. 16.) Korm. rendelet 8. § 13. pontja szerint módosított szöveg.
+[^35]: Az 54/H. § (6) bekezdés b) pontja a 212/2023. (VI. 1.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^36]: Az 54/H. § (8) bekezdés b) pontja a 434/2021. (VII. 16.) Korm. rendelet 8. § 13. pontja szerint módosított szöveg.

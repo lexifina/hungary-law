@@ -1,4 +1,4 @@
-## VI/C. Fejezet[^36]
+## VI/C. Fejezet[^37]
 
 ## A 6. CÉLTERÜLET SZERINTI TÁMOGATÁSRA VALÓ JOGOSULTSÁG KÜLÖNÖS FELTÉTELEI
 
@@ -20,4 +20,4 @@
 
 (8) A támogatási kérelem Ügyfélkapun történő benyújtására a támogatást igénylő cégjegyzésre jogosult képviselője jogosult.
 
-[^36]: A VI/C. fejezetet (54/K–54/N. §) a 434/2021. (VII. 16.) Korm. rendelet 6. §-a iktatta be.
+[^37]: A VI/C. fejezetet (54/K–54/N. §) a 434/2021. (VII. 16.) Korm. rendelet 6. §-a iktatta be.

@@ -1,6 +1,6 @@
 ## 27/F. A támogatás igénybevételének feltételei
 
-54/L. § (1)[^37] Támogatói okirat annak a kevésbé fejlett régióban bejegyzett székhelyén, működő vagy új telephelyén vagy fióktelepén legalább három fő új munkavállaló foglalkoztatására támogatást igénylő, köztartozásmentes támogatást igénylőnek bocsátható ki, aki
+54/L. § (1)[^38] Támogatói okirat annak a kevésbé fejlett régióban bejegyzett székhelyén, működő vagy új telephelyén vagy fióktelepén legalább három fő új munkavállaló foglalkoztatására támogatást igénylő, köztartozásmentes támogatást igénylőnek bocsátható ki, aki
 
 a) rendelkezik legalább egy teljes, beszámolóval lezárt üzleti évvel – ide nem értve az előtársaságként való működés időszakát –,
 
@@ -42,4 +42,4 @@ d) a kérelmében megadott megvalósítási helyszín a megvalósításra nem al
 
 (6) Ha a támogatást átmeneti támogatás jogcímen nyújtja a Kincstár, a támogatás az Európai Bizottság SA.56994 (2020/N) számú határozatában foglaltakkal, a 255/2014. (X. 10.) Korm. rendelet 85/A–85/F. §-ával, valamint az Atr. szabályaival összhangban nyújtható.
 
-[^37]: Az 54/L. § (1) bekezdés nyitó szövegrésze az 549/2021. (IX. 28.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^38]: Az 54/L. § (1) bekezdés nyitó szövegrésze az 549/2021. (IX. 28.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
