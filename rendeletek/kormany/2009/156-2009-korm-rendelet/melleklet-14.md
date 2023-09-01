@@ -1,29 +1,31 @@
-| Sorszám | Bírságolással érintett cselekmények, mulasztások | A súlyosság foka (RSJ=rend kívül súlyos jogsértés, NSJ= nagyon súlyos jogsértés, SJ= súlyos jogsértés) | A bírság összege forintban | A bírságolással érintett cselekmény, mulasztás elkövetéséért felelőssé tehető |
+|  | A | B | C | D | E |
 
-| 1. | A közlekedés biztonságát veszélyeztető műszaki állapotú – a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendeletben meghatározottak alapján „A” típusú alkalmatlannak minősítendő – jármű közúti közlekedésre alkalmasnak minősítése a forgalomba helyezés előtti vagy időszakos vizsgálaton, járművenként | RSJ | 500 000 |  |
+| 1 | Sorszám | Bírságolással érintett cselekmények, mulasztások | A súlyosság foka (RSJ = rendkívül súlyos jogsértés, NSJ = nagyon súlyos jogsértés, SJ = súlyos jogsértés) | A bírság összege forintban | A bírságolással érintett cselekmény, mulasztás elkövetéséért felelőssé tehető |
 
-| 2 | A közlekedési hatóság engedélye nélkül átalakított jármű időszakos vizsgálata során alkalmas minősítést igazoló hatósági bizonyítvány (Műszaki adatlap) kiadása | RSJ | 200 000 |  |
+| 2 | 1. | A közlekedés biztonságát veszélyeztető műszaki állapotú – a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendeletben meghatározottak alapján „A” típusú alkalmatlannak minősítendő – jármű közúti közlekedésre alkalmasnak minősítése a forgalomba helyezés előtti vagy időszakos vizsgálaton, járművenként | RSJ | 650 000 |  |
 
-14. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^100]
+| 3 | 2. | A közlekedési hatóság engedélye nélkül átalakított jármű időszakos vizsgálata során alkalmas minősítést igazoló hatósági bizonyítvány (Műszaki adatlap) kiadása | RSJ | 260 000 |  |
 
-|  | A | B | C | D | E | F |
+14. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^104]
 
-| Sorszám | Jogsértő magatartások személy és áruszállítást végző járművek esetén | A súlyosság foka (RSJ= rendkívül súlyos jogsértés, SJ= súlyos jogsértés) | A bírság összege forintban L1e-L7e, M1, O1, kategóriájú jármű, mezőgazdasági vontató és lassú jármű, valamint azok pótkocsija esetén | A bírság összege forintban N1, O2 kategóriájú jármű esetén | A bírság összege forintban N2, N3, O3, O4 kategóriájú jármű esetén | A bírság összege forintban M2, M3 kategóriájú jármű esetén |
+|  | A | B | C | D | E | F | G |
 
-| 1. | A jármű alvázát, futóművét, kerekét, gumiabroncsát, fékberendezését vagy kormányberendezését érintő komoly hiányosság | SJ | hiányosságonként 20 000 | hiányosságonként 40 000 | hiányosságonként 100 000 | hiányosságonként 150 000 |
+| 1 | Sor- szám | Jogsértő magatartások | A súlyosság foka (RSJ = rendkívül súlyos jogsértés, SJ = súlyos jogsértés) | A bírság összege forintban L1e–L7e, M1, O1 kategóriájú jármű, mezőgazdasági vontató és lassú jármű, valamint azok pótkocsija esetén | A bírság összege forintban N1, O2 kategóriájú jármű esetén | A bírság összege forintban N2, N3, O3, O4 kategóriájú jármű esetén | A bírság összege forintban M2, M3 kategóriájú jármű esetén |
 
-| 2. | A jármű alvázát, futóművét, kerekét, gumiabroncsát, fékberendezését vagy kormányberendezését érintő veszélyes hiányosság | RSJ | hiányosságonként 50 000 | hiányosságonként 100 000 | hiányosságonként 300 000 | hiányosságonként 300 000 |
+| 2 | 1. | A jármű alvázát, futóművét, kerekét, gumiabroncsát, fékberendezését vagy kormány- berendezését érintő komoly hiányosság | SJ | hiányosságonként 26 000 | hiányosságonként 52 000 | hiányosságonként 130 000 | hiányosságonként 195 000 |
 
-| 3. | A jármű 2. pontban fel nem sorolt szerkezeti elemeit érintő komoly hiányosság | SJ | hiányosságonként 10 000 | hiányosságonként 20 000 | hiányosságonként 50 000 | hiányosságonként 100 000 |
+| 3 | 2. | A jármű alvázát, futóművét, kerekét, gumiabroncsát, fékberendezését vagy kormány- berendezését érintő veszélyes hiányosság | RSJ | hiányosságonként 65 000 | hiányosságonként 130 000 | hiányosságonként 390 000 | hiányosságonként 390 000 |
 
-| 4. | A jármű 2. pontban fel nem sorolt szerkezeti elemeit érintő veszélyes hiányosság | RSJ | hiányosságonként 20 000 | hiányosságonként 40 000 | hiányosságonként 100 000 | hiányosságonként 150 000 |
+| 4 | 3. | A jármű 2. pontban fel nem sorolt szerkezeti elemeit érintő komoly hiányosság | SJ | hiányosságonként 13 000 | hiányosságonként 26 000 | hiányosságonként 65 000 | hiányosságonként 130 000 |
 
-| 5. | A rakományrögzítést érintő komoly hiányosság | SJ | hiányosságonként 10 000 | hiányosságonként 50 000 | hiányosságonként 100 000 | hiányosságonként 150 000 |
+| 5 | 4. | A jármű 2. pontban fel nem sorolt szerkezeti elemeit érintő veszélyes hiányosság | RSJ | hiányosságonként 26 000 | hiányosságonként 52 000 | hiányosságonként 130 000 | hiányosságonként 195 000 |
 
-| 6. | A rakományrögzítést érintő veszélyes hiányosság | RSJ | hiányosságonként 20 000 | hiányosságonként 100 000 | hiányosságonként 300 000 | hiányosságonként 300 000 |
+| 6 | 5. | A rakományrögzítést érintő komoly hiányosság | SJ | hiányosságonként 13 000 | hiányosságonként 65 000 | hiányosságonként 130 000 | hiányosságonként 195 000 |
 
-| 7. | A közúti közlekedési szolgáltatást végző jármű uniós jog szerinti műszaki vizsgálatról szóló érvényes igazolás nélküli közúti közlekedése | RSJ | 40 000 | 50 000 | 60 000 | 100 000 |
+| 7 | 6. | A rakományrögzítést érintő veszélyes hiányosság | RSJ | hiányosságonként 26 000 | hiányosságonként 130 000 | hiányosságonként 390 000 | hiányosságonként 390 000 |
 
-| 8. | A személy- vagy áruszállítási szolgáltatást végző gépjármű esetében a gyártó által felszerelt káros anyag kibocsátást csökkentő berendezés hiányzik, átalakították, működését befolyásolták vagy nyilvánvalóan meghibásodott. | RSJ | 40 000 | 50 000 | 600 000 | 600 000 |
+| 8 | 7. | A közúti közlekedési szolgáltatást végző jármű uniós jog szerinti műszaki vizsgálatról szóló érvényes igazolás nélküli közúti közlekedése | RSJ | 52 000 | 65 000 | 78 000 | 130 000 |
 
-[^100]: A 14. mellékletet a 289/2018. (XII. 21.) Korm. rendelet 8. § (3) bekezdése iktatta be, szövege a 722/2020. (XII. 31.) Korm. rendelet 9. § (5) bekezdésével megállapított szöveg.
+| 9 | 8. | A gépjármű esetében a gyártó által felszerelt károsanyag-kibocsátást csökkentő berendezés hiányzik, átalakították, működését befolyásolták, vagy nyilvánvalóan meghibásodott | RSJ | 52 000 | 65 000 | 780 000 | 780 000 |
+
+[^104]: A 14. mellékletet a 289/2018. (XII. 21.) Korm. rendelet 8. § (3) bekezdése iktatta be, szövege a 393/2023. (VIII. 14.) Korm. rendelet 4. § (20) bekezdésével megállapított szöveg.

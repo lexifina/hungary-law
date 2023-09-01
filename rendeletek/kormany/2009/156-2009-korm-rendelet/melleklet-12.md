@@ -1,35 +1,37 @@
-| ED törvény 14. § a) pontja szerinti szabályszegés esetén |
+|  | A | B | C | D |
 
-| Járműkategória | Jogosulatlan úthasználat egyszeri észlelése esetén (bírság mértéke forintban) | Jogosulatlan úthasználat észlelését követő 121. perc és 240. perc közötti időszakban észlelt további jogosulatlan úthasználat esetén, ha a 241. perc és a 480. perc között az adott útdíjköteles gépjármű vonatkozásában nincsen további észlelés (bírság mértéke forintban) | Jogosulatlan úthasználat észlelését követő 241. perc és 480. perc közötti időszakban ismételten észlelt jogosulatlan úthasználat esetén (bírság mértéke forintban) |
+| 1 | Az ED törvény 14. § a) pontja szerinti szabályszegés esetén |
 
-| J2 | 30 000 | 90 000 | 140 000 |
+| 2 | Járműkategória | Jogosulatlan úthasználat egyszeri észlelése esetén (bírság mértéke forintban) | Jogosulatlan úthasználat észlelését követő 121. perc és 240. perc közötti időszakban észlelt további jogosulatlan úthasználat esetén, ha a 241. perc és a 480. perc között az adott útdíjköteles gépjármű vonatkozásában nincsen további észlelés (bírság mértéke forintban) | Jogosulatlan úthasználat észlelését követő 241. perc és 480. perc közötti időszakban ismételten észlelt jogosulatlan úthasználat esetén (bírság mértéke forintban) |
 
-| J3 | 35 000 | 100 000 | 150 000 |
+| 3 | J2 | 39 000 | 117 000 | 182 000 |
 
-| J4 | 40 000 | 110 000 | 165 000 |
+| 4 | J3 | 45 500 | 130 000 | 195 000 |
 
-| ED törvény 14. § b) pontja szerinti szabályszegés esetén |
+| 5 | J4 | 52 000 | 143 000 | 214 500 |
 
-| Járműkategória | Jogosulatlan úthasználat egyszeri észlelése esetén (bírság mértéke forintban) | Jogosulatlan úthasználat észlelését követő 121. perc és 240. perc közötti időszakban észlelt további jogosulatlan úthasználat esetén, ha a 241. perc és a 480. perc között az adott útdíjköteles gépjármű vonatkozásában nincsen további észlelés (bírság mértéke forintban) | Jogosulatlan úthasználat észlelését követő 241. perc és 480. perc közötti időszakban ismételten észlelt jogosulatlan úthasználat esetén (bírság mértéke forintban) |
+| 6 | Az ED törvény 14. § b) pontja szerinti szabályszegés esetén |
 
-| J2 | 24 000 | 72 000 | 110 000 |
+| 7 | Járműkategória | Jogosulatlan úthasználat egyszeri észlelése esetén (bírság mértéke forintban) | Jogosulatlan úthasználat észlelését követő 121. perc és 240. perc közötti időszakban észlelt további jogosulatlan úthasználat esetén, ha a 241. perc és a 480. perc között az adott útdíjköteles gépjármű vonatkozásában nincsen további észlelés (bírság mértéke forintban) | Jogosulatlan úthasználat észlelését követő 241. perc és 480. perc közötti időszakban ismételten észlelt jogosulatlan úthasználat esetén (bírság mértéke forintban) |
 
-| J3 | 28 000 | 80 000 | 120 000 |
+| 8 | J2 | 31 200 | 93 600 | 143 000 |
 
-| J4 | 36 000 | 88 000 | 135 000 |
+| 9 | J3 | 36 400 | 104 000 | 156 000 |
 
-| ED törvény 14. § c) pontja szerinti szabályszegés esetén |
+| 10 | J4 | 46 800 | 114 400 | 175 500 |
 
-| Járműkategória | Jogosulatlan úthasználat egyszeri észlelése esetén (bírság mértéke forintban) | Jogosulatlan úthasználat észlelését követő 121. perc és 240. perc közötti időszakban észlelt további jogosulatlan úthasználat esetén, ha a 241. perc és a 480. perc között az adott útdíjköteles gépjármű vonatkozásában nincsen további észlelés (bírság mértéke forintban) | Jogosulatlan úthasználat észlelését követő 241. perc és 480. perc közötti időszakban ismételten észlelt jogosulatlan úthasználat esetén (bírság mértéke forintban) |
+| 11 | Az ED törvény 14. § c) pontja szerinti szabályszegés esetén |
 
-| J2 | 30 000 | 90 000 | 140 000 |
+| 12 | Járműkategória | Jogosulatlan úthasználat egyszeri észlelése esetén (bírság mértéke forintban) | Jogosulatlan úthasználat észlelését követő 121. perc és 240. perc közötti időszakban észlelt további jogosulatlan úthasználat esetén, ha a 241. perc és a 480. perc között az adott útdíjköteles gépjármű vonatkozásában nincsen további észlelés (bírság mértéke forintban) | Jogosulatlan úthasználat észlelését követő 241. perc és 480. perc közötti időszakban ismételten észlelt jogosulatlan úthasználat esetén (bírság mértéke forintban) |
 
-| J3 | 35 000 | 100 000 | 150 000 |
+| 13 | J2 | 39 000 | 117 000 | 182 000 |
 
-| J4 | 40 000 | 110 000 | 165 000 |
+| 14 | J3 | 45 500 | 130 000 | 195 000 |
 
-12. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^98]
+| 15 | J4 | 52 000 | 143 000 | 214 500 |
+
+12. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^102]
 
 A kétoldalú közúti áru- és személyszállításról szóló nemzetközi szerződéseket kihirdető jogszabályok
 
-[^98]: A 12. melléklet a 171/2014. (VII. 18.) Korm. rendelet 10. §-ával megállapított, a 476/2016. (XII. 27.) Korm. rendelet 7. § (10) bekezdése, a 289/2018. (XII. 21.) Korm. rendelet 8. § (2) bekezdése, az 51/2023. (II. 23.) Korm. rendelet 2. § (5) bekezdése szerint módosított szöveg.
+[^102]: A 12. melléklet a 171/2014. (VII. 18.) Korm. rendelet 10. §-ával megállapított, a 476/2016. (XII. 27.) Korm. rendelet 7. § (10) bekezdése, a 289/2018. (XII. 21.) Korm. rendelet 8. § (2) bekezdése, az 51/2023. (II. 23.) Korm. rendelet 2. § (5) bekezdése szerint módosított szöveg.

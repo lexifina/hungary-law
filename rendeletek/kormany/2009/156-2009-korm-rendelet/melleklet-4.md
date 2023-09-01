@@ -1,203 +1,205 @@
-| Sor- szám | Bírságolással érintett cselekmények, mulasztások | A súlyosság foka (RSJ=rendkívül súlyos jogsértés, NSJ= nagyon súlyos jogsértés, SJ= súlyos jogsértés, EJ=enyhébb jogsértés) | A bírság összege forintban | A bírságolással érintett cselekmény, mulasztás elkövetéséért felelőssé tehető |
+|  | A | B | C | D | E | F |
 
-| A | Személyzet |
+| 1 | Sor- szám | Bírságolással érintett cselekmények, mulasztások | A súlyosság foka (RSJ = rendkívül súlyos jogsértés, NSJ = nagyon súlyos jogsértés, SJ = súlyos jogsértés, EJ = enyhébb jogsértés) | A bírság összege forintban | A bírságolással érintett cselekmény, mulasztás elkövetéséért felelőssé tehető |
 
-| A1 | A kalauzokra megállapított alsó korhatár be nem tartása | SJ | 100 000 | szállító |
+| 2 | A | Személyzet |
 
-| B | Vezetési időszakok |
+| 3 | A1 | A kalauzokra megállapított alsó korhatár be nem tartása | SJ | 130 000 | szállító |
 
-| B1 | A 9 órás napi vezetési idő túllépése, ha a 10 órára történő meghosszabbítás nem megengedett | 9 h <...< 10 h | EJ | 10 000 | járművezető szállító |
+| 4 | B | Vezetési időszakok |
 
-| B2 | 10 h ≤...< 11 h | SJ | 60 000 |
+| 5 | B1 | A 9 órás napi vezetési idő túllépése, ha a 10 órára történő meghosszabbítás nem megengedett | 9 h < … < 10 h | EJ | 13 000 | járművezető szállító |
 
-| B3 | 11 h ≤ ... | NSJ | 150 000 |
+| 6 | B2 | 10 h ≤ … < 11 h | SJ | 78 000 |
 
-| B4 | A 9 órás napi vezetési idő 50%-os vagy nagyobb arányú túllépése legalább 4,5 órás szünet vagy pihenő beiktatása nélkül | 13h 30 ≤ ... szünet/pihenő nélkül | RSJ | 300 000 |
+| 7 | B3 | 11 h ≤ … | NSJ | 195 000 |
 
-| B5 | A 10 órás meghosszabbított napi vezetési idő túllépése, ha a meghosszabbítás megengedett | 10 h <...< 11 h | EJ | 10 000 | járművezető szállító |
+| 8 | B4 | A 9 órás napi vezetési idő 50%-os vagy nagyobb arányú túllépése legalább 4,5 órás szünet vagy pihenő beiktatása nélkül | 13 h 30 ≤ … szünet/pihenő nélkül | RSJ | 390 000 |
 
-| B6 | 11 h ≤...< 12 h | SJ | 60 000 |
+| 9 | B5 | A 10 órás meghosszabbított napi vezetési idő túllépése, ha a meghosszabbítás megengedett | 10 h < … < 11 h | EJ | 13 000 | járművezető szállító |
 
-| B7 | 12 h ≤ ... | NSJ | 150 000 |
+| 10 | B6 | 11 h ≤ … < 12 h | SJ | 78 000 |
 
-| B8 | A 10 órás napi vezetési idő 50%-os vagy nagyobb arányú túllépése legalább 4,5 órás szünet vagy pihenő beiktatása nélkül | 15h ≤ ... szünet/pihenő nélkül | RSJ | 300 000 |
+| 11 | B7 | 12 h ≤ … | NSJ | 195 000 |
 
-| B9 | Az összeadódott heti vezetési idő túllépése | 56 h <...< 60 h | EJ | 10 000 | járművezető szállító |
+| 12 | B8 | A 10 órás napi vezetési idő 50%-os vagy nagyobb arányú túllépése legalább 4,5 órás szünet vagy pihenő beiktatása nélkül | 15 h ≤ … szünet/pihenő nélkül | RSJ | 390 000 |
 
-| B10 | 60 h ≤...< 65 h | SJ | 60 000 |
+| 13 | B9 | Az összeadódott heti vezetési idő túllépése | 56 h < … < 60 h | EJ | 13 000 | járművezető szállító |
 
-| B11 | 65 h ≤...< 70 h | NSJ | 150 000 |
+| 14 | B10 | 60 h ≤ … < 65 h | SJ | 78 000 |
 
-| B12 | Az összeadódott heti vezetési idő 25%-os vagy annál nagyobb arányú túllépése | 70 h ≤... | RSJ | 300 000 |
+| 15 | B11 | 65 h ≤ … < 70 h | NSJ | 195 000 |
 
-| B13 | Az összeadódott vezetési idő túllépése két egymást követő hét alatt | 90 h <...<100 h | EJ | 10 000 | járművezető szállító |
+| 16 | B12 | Az összeadódott heti vezetési idő 25%-os vagy annál nagyobb arányú túllépése | 70 h ≤ … | RSJ | 390 000 |
 
-| B14 | 100 h ≤...<105 h | SJ | 60 000 |
+| 17 | B13 | Az összeadódott vezetési idő túllépése két egymást követő hét alatt | 90 h < … < 100 h | EJ | 13 000 | járművezető szállító |
 
-| B15 | 105 h ≤...<112 h 30 | NSJ | 150 000 |
+| 18 | B14 | 100 h ≤ … < 105 h | SJ | 78 000 |
 
-| B16 | Az összeadódott vezetési idő 25%-os vagy nagyobb arányú túllépése két egymást követő hét alatt | 112 h 30 ≤ ... | RSJ | 300 000 |
+| 19 | B15 | 105 h ≤ … < 112 h 30 | NSJ | 195 000 |
 
-| B17 | 10 órás napi vezetési idő túllépése, ha a 9 órás napi vezetési idő 1 órával történő meghosszabbítása megengedett a munkáltató működési központjának vagy a járművezető saját tartózkodási helyének az elérése érdekében | 10 h <...< 11 h | EJ | 10 000 | járművezető szállító |
+| 20 | B16 | Az összeadódott vezetési idő 25%-os vagy nagyobb arányú túllépése két egymást követő hét alatt | 112 h 30 ≤ … | RSJ | 390 000 |
 
-| 11 h ≤...< 12 h | SJ | 60 000 |
+| 21 | B17 | 10 órás napi vezetési idő túllépése, ha a 9 órás napi vezetési idő 1 órával történő meghosszabbítása megengedett a munkáltató működési központjának vagy a járművezető saját tartózkodási helyének az elérése érdekében | 10 h < … < 11 h | EJ | 13 000 | járművezető szállító |
 
-| 12 h ≤...<15 h | NSJ | 150 000 |
+| 22 | 11 h ≤ … < 12 h | SJ | 78 000 |
 
-| 15 h ≤ … | RSJ | 300 000 |
+| 23 | 12 h ≤ … <15 h | NSJ | 195 000 |
 
-| B18 | 11 órás napi vezetési idő túllépése, ha a 9 órás napi vezetési idő 2 órával vagy a 10 órás napi vezetési idő 1 órával történő meghosszabbítása megengedett a munkáltató működési központjának vagy a járművezető saját tartózkodási helyének az elérése érdekében | 11 h ≤...<11 h.30 | EJ | 10 000 | járművezető szállító |
+| 24 | 15 h ≤ … | RSJ | 390 000 |
 
-| 11 h 30 ≤ …<12 h | SJ | 60 000 |
+| 25 | B18 | 11 órás napi vezetési idő túllépése, ha a 9 órás napi vezetési idő 2 órával vagy a 10 órás napi vezetési idő 1 órával történő meghosszabbítása megengedett a munkáltató működési központjának vagy a járművezető saját tartózkodási helyének az elérése érdekében | 11 h ≤ … <11 h 30 | EJ | 13 000 | járművezető szállító |
 
-| 12 h ≤...<15 h | NSJ | 150 000 |
+| 26 | 11 h 30 ≤ … <12 h | SJ | 78 000 |
 
-| 15 h ≤ | RSJ | 300 000 |
+| 27 | 12 h ≤ … <15 h | NSJ | 195 000 |
 
-| B19 | 12 órás napi vezetési idő túllépése, ha a 10 órás napi vezetési idő 2 órával történő meghosszabbítása megengedett a munkáltató működési központjának vagy a járművezető saját tartózkodási helyének az elérése érdekében | 12 h ≤... <12 h 30 | EJ | 10 000 | járművezető szállító |
+| 28 | 15 h ≤ … | RSJ | 390 000 |
 
-| B20 | Az összeadódott heti vezetési idő túllépése, ha az 1 órával történő meghosszabbítás megengedett a munkáltató működési központjának vagy a járművezető saját tartózkodási helyének az elérése érdekében | 57h <... < 60 h | EJ | 10 000 | járművezető szállító |
+| 29 | B19 | 12 órás napi vezetési idő túllépése, ha a 10 órás napi vezetési idő 2 órával történő meghosszabbítása megengedett a munkáltató működési központjának vagy a járművezető saját tartózkodási helyének az elérése érdekében | 12 h ≤ … < 12 h 30 | EJ | 13 000 | járművezető szállító |
 
-| 60 h ≤ ... < 65 h | SJ | 60 000 |
+| 30 | B20 | Az összeadódott heti vezetési idő túllépése, ha az 1 órával történő meghosszabbítás megengedett a munkáltató működési központjának vagy a járművezető saját tartózkodási helyének az elérése érdekében | 57 h < … < 60 h | EJ | 13 000 | járművezető szállító |
 
-| 65 h ≤ ... < 70 h | NSJ | 150 000 |
+| 31 | 60 h ≤ … < 65 h | SJ | 78 000 |
 
-| 70 h ≤ … | RSJ | 300 000 |
+| 32 | 65 h ≤ … < 70 h | NSJ | 195 000 |
 
-| B21 | Az összeadódott heti vezetési idő túllépése, ha a 2 órával történő meghosszabbítás megengedett a munkáltató működési központjának vagy a járművezető saját tartózkodási helyének az elérése érdekében | 58h <...< 60 h | EJ | 10 000 | járművezető szállító |
+| 33 | 70 h ≤ … | RSJ | 390 000 |
 
-| 60 h ≤...< 65 h | SJ | 60 000 |
+| 34 | B21 | Az összeadódott heti vezetési idő túllépése, ha a 2 órával történő meghosszabbítás megengedett a munkáltató működési központjának vagy a járművezető saját tartózkodási helyének az elérése érdekében | 58 h < … < 60 h | EJ | 13 000 | járművezető szállító |
 
-| 65 h ≤...< 70 h | NSJ | 150 000 |
+| 35 | 60 h ≤ … < 65 h | SJ | 78 000 |
 
-| 70 h ≤… | RSJ | 300 000 |
+| 36 | 65 h ≤ … < 70 h | NSJ | 195 000 |
 
-| C | Szünetek |
+| 37 | 70 h ≤ … | RSJ | 390 000 |
 
-| C1 | A megszakítás nélküli vezetési idő 4,5 órás határának túllépése szünet tartása előtt | 4 h 30 <...< 5 h | EJ | 10 000 | járművezető szállító |
+| 38 | C | Szünetek |
 
-| C2 | 5 h ≤...< 5 h 30 | SJ | 30 000 |
+| 39 | C1 | A megszakítás nélküli vezetési idő 4,5 órás határának túllépése szünet tartása előtt | 4 h 30 < … < 5 h | EJ | 13 000 | járművezető szállító |
 
-| C3 | 5 h 30 ≤...< 6 h |  | 60 000 |
+| 40 | C2 | 5 h ≤ … < 5 h 30 | SJ | 39 000 |
 
-| C4 | 6 h ≤...< 6 h 30 | NSJ | 100 000 |
+| 41 | C3 | 5 h 30 ≤ … < 6 h | 78 000 |
 
-| C5 | 6 h 30 ≤... |  | 250 000 |  |
+| 42 | C4 | 6 h ≤ … < 6 h 30 | NSJ | 130 000 |
 
-| D | Pihenőidők |
+| 43 | C5 | 6 h 30 ≤ … | 325 000 |
 
-| D1 | Nem elegendő, 11 óránál rövidebb napi pihenőidő, ha a csökkentett napi pihenőidő nem megengedett | 10 h ≤...< 11 h | EJ | 10 000 | járművezető szállító |
+| 44 | D | Pihenőidők |
 
-| D2 | 9 h 15 ≤...<10 h | SJ | 30 000 |
+| 45 | D1 | Nem elegendő, 11 óránál rövidebb napi pihenőidő, ha a csökkentett napi pihenőidő nem megengedett | 10 h ≤ … < 11 h | EJ | 13 000 | járművezető szállító |
 
-| D3 | 8 h 30 ≤...<9 h 15 | 60 000 |
+| 46 | D2 | 9 h 15 ≤ … < 10 h | SJ | 39 000 |
 
-| D4 | 7 h 45 ≤...<8 h 30 | NSJ | 100 000 |
+| 47 | D3 | 8 h 30 ≤ … < 9 h 15 | 78 000 |
 
-| D5 | ...< 7 h 45 | 250 000 |
+| 48 | D4 | 7 h 45 ≤ … < 8 h 30 | NSJ | 130 000 |
 
-| D6 | Nem elegendő, 9 óránál rövidebb csökkentett napi pihenőidő, ha a csökkentés megengedett | 8 h ≤...< 9 h | EJ | 10 000 | járművezető szállító |
+| 49 | D5 | … < 7 h 45 | 325 000 |
 
-| D7 | 7 h 30 ≤...< 8 h | SJ | 30 000 |
+| 50 | D6 | Nem elegendő, 9 óránál rövidebb csökkentett napi pihenőidő, ha a csökkentés megengedett | 8 h ≤ … < 9 h | EJ | 13 000 | járművezető szállító |
 
-| D8 | 7 h ≤...< 7 h 30 | 60 000 |
+| 51 | D7 | 7 h 30 ≤ … < 8 h | SJ | 39 000 |
 
-| D9 | 6 h 30 ≤...< 7 h | NSJ | 100 000 |
+| 52 | D8 | 7 h ≤ … < 7 h 30 | 78 000 |
 
-| D10 | ...< 6 h 30 | 250 000 |
+| 53 | D9 | 6 h 30 ≤ … < 7 h | NSJ | 130 000 |
 
-| D11 | Nem elegendő, 3 + 9 óránál rövidebb megosztott napi pihenőidő | 3 h + (8 h ≤...< 9 h) | EJ | 10 000 | járművezető szállító |
+| 54 | D10 | … < 6 h 30 | 325 000 |
 
-| D12 | 3 h + (7 h 30≤...< 8 h) | SJ | 30 000 |
+| 55 | D11 | Nem elegendő, 3 + 9 óránál rövidebb megosztott napi pihenőidő | 3 h + (8 h ≤ … < 9 h) | EJ | 13 000 | járművezető szállító |
 
-| D13 | 3 h + (7h ≤...< 7 h 30) | 60 000 |
+| 56 | D12 | 3 h + (7 h 30 ≤ … < 8 h) | SJ | 39 000 |
 
-| D14 | 3 h + (6 h 30 ≤...< 7 h) | NSJ | 100 000 |
+| 57 | D13 | 3 h + (7 h ≤ … < 7 h 30) | 78 000 |
 
-| D15 | 3 h + (...< 6 h 30) | 250 000 |
+| 58 | D14 | 3 h + (6 h 30 ≤ … < 7 h) | NSJ | 130 000 |
 
-| D16 | Nem elegendő, 9 óránál rövidebb napi pihenőidő több fős személyzet esetén | 8 h ≤...< 9 h | EJ | 10 000 | járművezető szállító |
+| 59 | D15 | 3 h + (… < 6 h 30) | 325 000 |
 
-| D17 | 7 h 30 ≤...< 8 h | SJ | 30 000 |
+| 60 | D16 | Nem elegendő, 9 óránál rövidebb napi pihenőidő többfős személyzet esetén | 8 h ≤ … < 9 h | EJ | 13 000 | járművezető szállító |
 
-| D18 | 7 h ≤...< 7 h 30 | 60 000 |
+| 61 | D17 | 7 h 30 ≤ … < 8 h | SJ | 39 000 |
 
-| D19 | 6 h 30 ≤...< 7 h | NSJ | 100 000 |
+| 62 | D18 | 7 h ≤ … < 7 h 30 | 78 000 |
 
-| D20 | ...< 6 h 30 | 250 000 |
+| 63 | D19 | 6 h 30 ≤ … < 7 h | NSJ | 130 000 |
 
-| D21 | Nem elegendő, 24 óránál rövidebb csökkentett heti pihenőidő | 22 h ≤...< 24 h | EJ | 10 000 | járművezető szállító |
+| 64 | D20 | … < 6 h 30 | 325 000 |
 
-| D22 | 21 h ≤...< 22 h | SJ | 30 000 |
+| 65 | D21 | Nem elegendő, 24 óránál rövidebb csökkentett heti pihenőidő | 22 h ≤ … < 24 h | EJ | 13 000 | járművezető szállító |
 
-| D23 | 20 h ≤...< 21 h | 60 000 |
+| 66 | D22 | 21 h ≤ … < 22 h | SJ | 39 000 |
 
-| D24 | 19 h ≤...< 20 h | NSJ | 100 000 |
+| 67 | D23 | 20 h ≤ … < 21 h | 78 000 |
 
-| D25 | ...< 19 h | 250 000 |
+| 68 | D24 | 19 h ≤ … < 20 h | NSJ | 130 000 |
 
-| D26 | Nem elegendő, 45 óránál rövidebb heti pihenőidő, ha a csökkentett heti pihenőidő nem megengedett | 42 h ≤...< 45 h | EJ | 10 000 | járművezető szállító |
+| 69 | D25 | … < 19 h | 325 000 |
 
-| D27 | 39 h ≤...< 42 h | SJ | 30 000 |
+| 70 | D26 | Nem elegendő, 45 óránál rövidebb heti pihenőidő, ha a csökkentett heti pihenőidő nem megengedett | 42 h ≤ … < 45 h | EJ | 13 000 | járművezető szállító |
 
-| D28 | 36 h ≤...< 39 h | 60 000 |
+| 71 | D27 | 39 h ≤ … < 42 h | SJ | 39 000 |
 
-| D29 | 33 h ≤...< 36 h | NSJ | 100 000 |
+| 72 | D28 | 36 h ≤ … < 39 h | 78 000 |
 
-| D30 | ...< 33 h | 250 000 |
+| 73 | D29 | 33 h ≤ … < 36 h | NSJ | 130 000 |
 
-| D31 | 6 egymást követő 24 órás időszak túllépése az előző heti pihenőidő után | ...< 3 h | EJ | 10 000 | járművezető szállító |
+| 74 | D30 | … < 33 h | 325 000 |
 
-| D32 | 3 h ≤...< 6 h | SJ | 30 000 |
+| 75 | D31 | 6 egymást követő 24 órás időszak túllépése az előző heti pihenőidő után | … < 3 h | EJ | 13 000 | járművezető szállító |
 
-| D33 | 6 h ≤...< 12 h | 60 000 |
+| 76 | D32 | 3 h ≤ … < 6 h | SJ | 39 000 |
 
-| D34 | 12 h ≤...< 18 h | NSJ | 100 000 |
+| 77 | D33 | 6 h ≤ … < 12 h | 78 000 |
 
-| D35 | 18 h ≤ ... | 250 000 |
+| 78 | D34 | 12 h ≤ … < 18 h | NSJ | 130 000 |
 
-| D36 | Két egymást követő csökkentett heti pihenőidő esetén nincs kompenzációs pihenőidő | NSJ | 200 000 | járművezető szállító |
+| 79 | D35 | 18 h ≤ … | 325 000 |
 
-| D37 | A munkáltató nem fedezi a járművön kívüli szállás költségeit | SJ | 150 000 | szállító |
+| 80 | D36 | Két egymást követő csökkentett heti pihenőidő esetén nincs kompenzációs pihenőidő | NSJ | 260 000 | járművezető szállító |
 
-| E | Eltérés a 12-napos szabálytól (Nemzetközi, nem menetrend szerinti autóbuszjárat) |
+| 81 | D37 | A munkáltató nem fedezi a járművön kívüli szállás költségeit | SJ | 195 000 | szállító |
 
-| E1 | 12 egymást követő 24 órás időszak túllépése az előző rendszeres heti pihenőidő után | ...< 3h | EJ | 10 000 | járművezető szállító |
+| 82 | E | Eltérés a 12 napos szabálytól (Nemzetközi, nem menetrend szerinti autóbuszjárat) |
 
-| E2 | 3 h ≤...< 6 h | SJ | 30 000 |
+| 83 | E1 | 12 egymást követő 24 órás időszak túllépése az előző rendszeres heti pihenőidő után | … < 3 h | EJ | 13 000 | járművezető szállító |
 
-| E3 | 6h ≤ ... < 12h | 60 000 |
+| 84 | E2 | 3 h ≤ … < 6 h | SJ | 39 000 |
 
-| E4 | 12 h ≤...< 18 h | NSJ | 100 000 |
+| 85 | E3 | 6h ≤ … < 12 h | 78 000 |
 
-| E5 | 18h ≤ ... | 250 000 |
+| 86 | E4 | 12 h ≤ … < 18 h | NSJ | 130 000 |
 
-| E6 | 12 egymást követő 24 órás időszak után igénybe vett heti pihenőidő | 66h < ... ≤ 67h | SJ | 20 000 |  |
+| 87 | E5 | 18 h ≤ … | 325 000 |
 
-| E7 | 65h < ... ≤ 66h | 60 000 | járművezető szállító |
+| 88 | E6 | 12 egymást követő 24 órás időszak után igénybe vett heti pihenőidő | 66 h < … ≤ 67 h | SJ | 26 000 | járművezető szállító |
 
-| E8 | 64h < ... ≤ 65h | NSJ | 100 000 |
+| 89 | E7 | 65 h < … ≤ 66 h | 78 000 |
 
-| E9 | ... ≤ 64h | 250 000 |
+| 90 | E8 | 64 h < … ≤ 65 h | NSJ | 130 000 |
 
-| E10 | 22:00 óra és 6:00 óra között 3 órát meghaladó vezetési idő szünet tartása előtt, ha a járművet nem több fős személyzet vezeti | 3h < ...< 3 h 45 | SJ | 20 000 |  |
+| 91 | E9 | … ≤ 64 h | 325 000 |
 
-| E11 | 3 h 45 ≤ ... < 4 h 30 | 60 000 | járművezető szállító |
+| 92 | E10 | 22:00 óra és 6:00 óra között 3 órát meghaladó vezetési idő szünet tartása előtt, ha a járművet nem többfős személyzet vezeti | 3 h < … < 3 h 45 | SJ | 26 000 | járművezető szállító |
 
-| E12 | 5 h 15 ≤ ... < 4 h 30 | NSJ | 100 000 |
+| 93 | E11 | 3 h 45 ≤ … < 4 h 30 | 78 000 |
 
-| E13 | 5h 15 ≤ ... | 250 000 |
+| 94 | E12 | 5 h 15 ≤ … < 4 h 30 | NSJ | 130 000 |
 
-| F | Munkaszervezés |
+| 95 | E13 | 5 h 15 ≤ … | 325 000 |
 
-| F1 | A bér és a megtett úthossz vagy a célba juttatás sebessége vagy a szállított áru mennyisége közötti kapcsolat | NSJ | 400 000 | szállító |
+| 96 | F | Munkaszervezés |
 
-| F2 | A járművezető munkájának nem megfelelő szervezése vagy a szervezés elmaradása, illetve nem megfelelő utasítások a járművezető részére a jogszabály betartására vonatkozóan vagy az utasítások hiánya | NSJ | 200 000 | szállító |
+| 97 | F1 | A bér és a megtett úthossz vagy a célba juttatás sebessége vagy a szállított áru mennyisége közötti kapcsolat | NSJ | 520 000 | szállító |
 
-| F3 | A rendszeres heti pihenőidő és a korábbi csökkentett heti pihenőidő kompenzációjaként tartott, 45 óránál hosszabb heti pihenőidő járműben való eltöltése | NSJ | 400 000 | járművezető |
+| 98 | F2 | A járművezető munkájának nem megfelelő szervezése vagy a szervezés elmaradása, illetve nem megfelelő utasítások a járművezető részére a jogszabály betartására vonatkozóan vagy az utasítások hiánya | NSJ | 260 000 | szállító |
 
-| F4 | A járművezetők munkájának nem olyan módon történő megszervezése, hogy a járművezetők visszatérhessenek a munkáltató működési központjába vagy a lakóhelyükre | NSJ | 250 000 | szállító |
+| 99 | F3 | A rendszeres heti pihenőidő és a korábbi csökkentett heti pihenőidő kompenzációjaként tartott, 45 óránál hosszabb heti pihenőidő járműben való eltöltése | NSJ | 520 000 | járművezető |
 
-4. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^82]
+| 100 | F4 | A járművezetők munkájának nem olyan módon történő megszervezése, hogy a járművezetők visszatérhessenek a munkáltató működési központjába vagy a lakóhelyükre | NSJ | 325 000 | szállító |
 
-[^82]: A 4. melléklet a 713/2020. (XII. 30.) Korm. rendelet 19. § d) pontjával megállapított, a 722/2020. (XII. 31.) Korm. rendelet 9. § (3) bekezdése, az 51/2023. (II. 23.) Korm. rendelet 2. § (3) bekezdése és 3. §-a szerint módosított szöveg.
+4. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^86]
+
+[^86]: A 4. melléklet a 393/2023. (VIII. 14.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.

@@ -1,59 +1,59 @@
-## 0X11623_0
+|  | A | B | C | D | E |
 
-| Sorszám | Bírságolással érintett cselekmények, mulasztások | A súlyosság foka (RSJ=rendkívül súlyos jogsértés, NSJ= nagyon súlyos jogsértés, SJ= súlyos jogsértés) | A bírság összege forintban | A bírság fizetésére kötelezett |
+| 1 | Sorszám | Bírságolással érintett cselekmények, mulasztások | A súlyosság foka (RSJ = rendkívül súlyos jogsértés, NSJ = nagyon súlyos jogsértés, SJ = súlyos jogsértés) | A bírság összege forintban | A bírság fizetésére kötelezett |
 
-| N | Maximális heti munkaidő |
+| 2 | N | Maximális heti munkaidő |
 
-| N1 | A 48 órás maximális heti munkaidő túllépése, ha a 60 órára történő meghosszabbítás lehetősége már kihasználásra került | 56h ≤ ... < 58h | SJ | 20 000 | járművezető szállító |
+| 3 | N1 | A 48 órás maximális heti munkaidő túllépése, ha a 60 órára történő meghosszabbítás lehetősége már kihasználásra került | 56 h ≤ … < 58 h | SJ | 26 000 | járművezető szállító |
 
-|  | 58h ≤ ... < 60h | 60 000 |
+| 4 | 58 h ≤ … < 60 h | 78 000 |
 
-|  | 60h ≤ ... < 62h | NSJ | 100 000 |
+| 5 | 60 h ≤ … < 62 h | NSJ | 130 000 |
 
-|  | 62h ≤ ... | 250 000 |
+| 6 | 62 h ≤ … | 325 000 |
 
-| N2 | A 60 órás maximális heti munkaidő túllépése, ha kollektív szerződés vagy jogszabály eltérést nem engedélyezett | 65h ≤ ... < 67h 30 | SJ | 20 000 | járművezető szállító |
+| 7 | N2 | A 60 órás maximális heti munkaidő túllépése, ha kollektív szerződés vagy jogszabály eltérést nem engedélyezett | 65 h ≤ … < 67 h 30 | SJ | 26 000 | járművezető szállító |
 
-|  | 67h30 ≤ ... < 70h | 60 000 |
+| 8 | 67 h 30 ≤ … < 70 h | 78 000 |
 
-|  | 70h ≤ ... < 72h30 | NSJ | 100 000 |
+| 9 | 70 h ≤ … < 72 h 30 | NSJ | 130 000 |
 
-|  | 72h30 ≤ ... | 250 000 |
+| 10 | 72 h 30 ≤ … | 325 000 |
 
-| O | Szünetek |
+| 11 | O | Szünetek |
 
-| O1 | Nem elegendő kötelező szünet 6-9 órás munkaidő esetében | 15 < ... ≤ 20 min | SJ | 20 000 | járművezető szállító |
+| 12 | O1 | Nem elegendő kötelező szünet 6–9 órás munkaidő esetében | 15 < … ≤ 20 min | SJ | 26 000 | járművezető szállító |
 
-|  |  | 10 < ... ≤ 15 min |  | 60 000 |
+| 13 | 10 < … ≤ 15 min | 78 000 |
 
-|  |  | 5 < ... ≤ 10 min | NSJ | 100 000 |
+| 14 | 5 < … ≤ 10 min | NSJ | 130 000 |
 
-|  |  | ... ≤ 5 min |  | 250 000 |
+| 15 | … ≤ 5 min | 325 000 |
 
-| O2 | Nem elegendő kötelező szünet több mint 9 órás munkaidő esetében | 25 < ... ≤ 30 min | SJ | 20 000 | járművezető szállító |
+| 16 | O2 | Nem elegendő kötelező szünet több mint 9 órás munkaidő esetében | 25 < … ≤ 30 min | SJ | 26 000 | járművezető szállító |
 
-|  |  | 20 < ... ≤ 25 min |  | 60 000 |
+| 17 | 20 < … ≤ 25 min | 78 000 |
 
-|  |  | 15 < ... ≤ 20 min | NSJ | 100 000 |
+| 18 | 15 < … ≤ 20 min | NSJ | 130 000 |
 
-|  |  | ... ≤ 15 min |  | 250 000 |
+| 19 | … ≤ 15 min | 325 000 |
 
-| P | Éjszakai munkavégzés |
+| 20 | P | Éjszakai munkavégzés |
 
-| P1 | Napi munkaidő 24 órás időszakonként éjszakai munkavégzés esetén, ha kollektív szerződés vagy jogszabály eltérést nem engedélyezett | 11h ≤ ... < 12h | SJ | 20 000 | járművezető szállító |
+| 21 | P1 | Napi munkaidő 24 órás időszakonként éjszakai munkavégzés esetén, ha kollektív szerződés vagy jogszabály eltérést nem engedélyezett | 11 h ≤ … < 12 h | SJ | 26 000 | járművezető szállító |
 
-|  |  | 12h ≤ ... < 13h |  | 60 000 |
+| 22 | 12 h ≤ … < 13 h | 78 000 |
 
-|  |  | 13h ≤ ... < 14h | NSJ | 100 000 |
+| 23 | 13 h ≤ … < 14 h | NSJ | 130 000 |
 
-|  |  | 14h ≤ ... |  | 250 000 |
+| 24 | 14 h ≤ … | 325 000 |
 
-| R | Nyilvántartás |
+| 25 | R | Nyilvántartás |
 
-| R1 | A munkáltató meghamisítja a munkaidőre vonatkozó információkat vagy megtagadja azoknak a vizsgáló tisztviselő rendelkezésére bocsátását | NSJ | 300 000 | munkáltató |
+| 26 | R1 | A munkáltató meghamisítja a munkaidőre vonatkozó információkat vagy megtagadja azoknak a vizsgáló tisztviselő rendelkezésére bocsátását | NSJ | 390 000 | munkáltató |
 
-| R2 | Az alkalmazott/önfoglalkoztató járművezetők meghamisítják az adatokat vagy megtagadják azoknak a vizsgáló tisztviselő rendelkezésére bocsátását | NSJ | 300 000 | járművezető |
+| 27 | R2 | Az alkalmazott/önfoglalkoztató járművezetők meghamisítják az adatokat vagy megtagadják azoknak a vizsgáló tisztviselő rendelkezésére bocsátását | NSJ | 390 000 | járművezető |
 
-5. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^84]
+5. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^88]
 
-[^84]: Az 5. melléklet a 713/2020. (XII. 30.) Korm. rendelet 19. § f) pontjával megállapított szöveg.
+[^88]: Az 5. melléklet a 393/2023. (VIII. 14.) Korm. rendelet 4. § (6) bekezdésével megállapított szöveg.
