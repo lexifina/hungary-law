@@ -118,7 +118,7 @@ b) a honvédelemért felelős miniszter, hogy a miniszterrel és az adópolitik�
 
 c) a miniszter, hogy a lajstromba vétel feltételeit, a bejegyzés tartalmának, módosításának és törlésének a szabályait,
 
-d) a miniszter, hogy a távoli pilóta képzését és vizsgáztatását végző szervezetek kijelölését, valamint a távoli pilóta képzésének és vizsgáztatásának részletes szabályait, a vizsgán való részvétel díját,
+d) a miniszter, hogy a távoli pilóta képzését és vizsgáztatását végző szervezetek kijelölését, valamint a távoli pilóta képzésének és vizsgáztatásának részletes szabályait,
 
 e) a miniszter, hogy a honvédelemért felelős miniszterrel és a rendészetért felelős miniszterrel egyetértésben a pilóta nélküli légijárművekkel végrehajtott repülések szabályait, a nyilvántartás részletes szabályait, a pilóta nélküli légijárművet vezetők képzésének részletes szabályait, a képzést végző szervezetek kijelölésének szabályait, a pilóta nélküli légijárművel végzett tevékenység részletes szabályait és az üzemben tartásának szabályait,
 
