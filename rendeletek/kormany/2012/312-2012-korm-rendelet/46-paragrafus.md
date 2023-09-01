@@ -24,7 +24,7 @@ e) az építésügyi hatósági engedélykérelem jogszabályban előírt mellé
 
 (4) Az építésügyi hatóság, ha a bontási kérelem a (2)–(3) bekezdésben foglalt feltételeket megsérti, a kérelmet határozattal elutasítja.
 
-(5)[^291] Az építésügyi hatóság azt a személyt, aki tervezői jogosultság nélkül, vállalkozás nyilvántartási jelölés nélkül végez bontási engedélyhez kötött építési tevékenységre vonatkozó építészeti-műszaki tervezési tevékenységet, 100 000 forintig terjedő közigazgatási bírsággal sújtja.
+(5)[^291] Az építésügyi hatóság azt a személyt, aki tervezői jogosultság nélkül, vállalkozás nyilvántartási jelölés nélkül végez bontási engedélyhez kötött építési tevékenységre vonatkozó építészeti-műszaki tervezési tevékenységet, 130 000 forintig terjedő közigazgatási bírsággal sújtja.
 
 (6)[^292]
 
@@ -40,6 +40,6 @@ b) részleges építménybontás esetén az engedély nélküli bontási tevéke
 [^288]: A 46. § (2) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 413. § 32. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^289]: A 46. § (2) bekezdés d) pontja a 266/2013. (VII. 11.) Korm. rendelet 53. § (4) bekezdés c) pontja szerint módosított szöveg.
 [^290]: A 46. § (3) bekezdését a 156/2016. (VI. 13.) Korm. rendelet 14. § n) pontja hatályon kívül helyezte.
-[^291]: A 46. § (5) bekezdése a 788/2021. (XII. 27.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^291]: A 46. § (5) bekezdése a 788/2021. (XII. 27.) Korm. rendelet 17. §-ával megállapított, a 385/2023. (VIII. 14.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
 [^292]: A 46. § (6) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 181. § 13. pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^293]: A 46. § (7) bekezdés nyitó szövegrésze a 441/2015. (XII. 28.) Korm. rendelet 180. § 8. pontja, a 457/2017. (XII. 28.) Korm. rendelet 413. § 33. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
