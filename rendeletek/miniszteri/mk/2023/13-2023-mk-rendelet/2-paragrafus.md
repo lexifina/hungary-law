@@ -1,0 +1,1 @@
+2. § A polgári nemzetbiztonsági szolgálat hivatásos állománya tagjának (a továbbiakban: hivatásos állomány tagja) szolgálati igazolványa (a továbbiakban: szolgálati igazolvány) a polgári nemzetbiztonsági szolgálat hivatásos állományába tartozáson túl a hivatásos állomány tagja fegyverviselésre való jogosultságát is igazolja.

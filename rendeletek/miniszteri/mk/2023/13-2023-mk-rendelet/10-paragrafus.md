@@ -1,0 +1,1 @@
+10. § Ha a polgári nemzetbiztonsági szolgálat a szolgálati igazolvány és a szolgálati jelvény visszavonására intézkedik, a visszavonandó szolgálati igazolványt és szolgálati jelvényt a hivatásos állomány tagja köteles leadni a polgári nemzetbiztonsági szolgálat részére.
