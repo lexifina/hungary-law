@@ -2,6 +2,8 @@
 
 (2) A hálózati engedélyes a felhasználó részére a rendszerhasználati díjakat tételesen is tartalmazó, részletes számlát állít ki, kivéve, ha a felhasználó hálózathasználati szerződését a 63. § (1) bekezdése alapján a villamosenergia-kereskedő kezeli és a felhasználó hálózathasználati szerződésében a rendszerhasználati díjak fizetőjeként a villamosenergia-kereskedő van feltüntetve.
 
+(2a) Az elosztó a (2) bekezdés szerinti esetben az egyetemes szolgáltatótól nem jogosult szerződéses biztosítékot kérni.
+
 (3) A (2) bekezdésben meghatározott számla elektronikus és nyomtatott másolatának egyszeri kiadását a hálózati engedélyes és a villamosenergia-kereskedő külön díj fizetéséhez nem kötheti.
 
 (4) Számla kiállítására csak olyan informatikai rendszer felhasználásával kerülhet sor, amely biztosítja a díjak hibátlan kiszámítását végző rendszerelemek zártságát, és megakadályozza a számlázási rendszerhez történő jogosulatlan hozzáférést, valamint a számlázási információk észrevétlen módosítását. A számlázási rendszernek továbbá meg kell felelnie az általános információbiztonsági zártsági követelményeknek is. Ennek érdekében az engedélyesnek adminisztratív, fizikai és logikai intézkedésekkel biztosítania kell az általános információbiztonsági zártsági követelmények teljesülését. E bekezdés alkalmazásában számlázási rendszer alatt a hálózati engedélyes számlázási rendszerén túl valamennyi villamosenergia-vásárlási szerződésben részes engedélyes számlázási rendszere értendő.

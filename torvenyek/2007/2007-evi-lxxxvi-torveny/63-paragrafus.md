@@ -1,8 +1,8 @@
-63. § (1) A villamosenergia-kereskedő a felhasználóval történő közös megegyezés esetén, az egyetemes szolgáltató a felhasználó igénye esetén köteles a felhasználó hálózati csatlakozási, hálózathasználati és villamosenergia-vásárlási szerződéseinek megbízottként történő, összevont kezelésére.
+63. § (1) A villamosenergia-kereskedő a felhasználóval történő közös megegyezés esetén, az egyetemes szolgáltató a felhasználó eltérő igénye hiányában, a felhasználó hálózathasználati és villamosenergia-vásárlási szerződését megbízottként, összevontan kezeli.
 
 (2) A kereskedő és az elosztó hálózati engedélyes az (1) bekezdés szerinti kötelezettség teljesítése érdekében az üzletszabályzatukban meghatározott feltételek szerint megállapodást kötnek.
 
-(3) A villamosenergia-kereskedő és felhasználó közötti villamosenergia-vásárlási szerződésből eredő polgári jogi igények három év alatt évülnek el. Az elévülés a követelés esedékességének napján kezdődik.
+(3)
 
 (4) A villamosenergia-kereskedő – jogszabály eltérő rendelkezése hiányában – akkor jogosult a felhasználóval vagy a szerződéskötési folyamat igénybejelentőjével a kapcsolatot elektronikusan tartani, ha azt a felhasználó vagy a szerződéskötési folyamat igénybejelentője kéri, vagy ahhoz hozzájárult. Ha a felhasználó vagy a szerződéskötési folyamat igénybejelentője az elektronikus kapcsolattartáshoz hozzájárult, az e törvényben és az e törvény végrehajtására kiadott jogszabályokban a felhasználó vagy a szerződéskötési folyamat igénybejelentője és a villamosenergia-kereskedő közötti kapcsolattartásra előírt írásbeliség kötelezettsége elektronikus úton is teljesíthető.
 

@@ -1,4 +1,4 @@
-102/A. § (1) Az átviteli rendszerirányító vezető tisztségviselője, cégvezetője, vezető állású munkavállalója, szervezeti egység vezetője (a továbbiakban együtt: operatív irányítást ellátó személy) munkaviszonyának létesítéséről, a munkaviszonyának meghosszabbításáról, munkafeltételeiről – ideértve a díjazását is –, valamint a munkaviszony megszüntetéséről a felügyelőbizottság dönt.
+102/A. § (1) Az operatív irányítást ellátó személy munkaviszonyának létesítéséről, a munkaviszonyának meghosszabbításáról, munkafeltételeiről – ideértve a díjazását is –, valamint a munkaviszony megszüntetéséről a felügyelőbizottság dönt.
 
 (2) Az operatív irányítást ellátó személy munkaviszonyának létesítéséről a munkaviszonyát, annak idejét, valamint megszűnését szabályozó feltételekről, továbbá a munkaviszonya megszüntetésére vonatkozó javaslat indokairól a döntést megelőzően értesíteni kell a Hivatalt. A döntés kizárólag abban az esetben válik hatályossá, ha a Hivatal 20 napon belül nem emel ellene kifogást. A Hivatal kifogást emelhet a döntés ellen, ha kétség merül fel
 

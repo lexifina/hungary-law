@@ -46,7 +46,7 @@ b) az érintett felhasználókat a tervezett módosítás tartalmáról, valamin
 
 (4c) Amennyiben a villamosenergia-kereskedő az igazolást azért nem adta ki, mert az egyetemes szolgáltatásra jogosult nem lakossági felhasználó kötött szerződése nemfizetésből eredő kikapcsolás miatt szűnt meg, az egyetemes szolgáltató jogosult a villamosenergia-vásárlási szerződés megkötésének feltételeként pénzügyi biztosítékot kérni, amelynek összegét a Vhr. tartalmazza.
 
-(5) Ha az egyetemes szolgáltatás keretében a villamosenergia-vásárlási szerződés megszűnése esetén a felhasználó a szerződésből eredő elszámolási és fizetési kötelezettségeinek nem tett eleget, és a felhasználó azonos felhasználási helyen ismételten villamosenergia-vásárlási szerződés megkötését kezdeményezi az egyetemes szolgáltatónál, az egyetemes szolgáltató jogosult az új villamosenergia-vásárlási szerződés megkötését a korábbi jogviszony alapján fennálló, el nem évült követelésből származó elszámolási és fizetési kötelezettség teljesítéséhez kötni.
+(5) Ha az egyetemes szolgáltatás keretében a villamosenergia-vásárlási szerződés megszűnése esetén a felhasználó a szerződésből eredő elszámolási és fizetési kötelezettségeinek nem tett eleget, és a felhasználó ismételten villamosenergia-vásárlási szerződés megkötését kezdeményezi az egyetemes szolgáltatónál, az egyetemes szolgáltató jogosult az új villamosenergia-vásárlási szerződés megkötését a korábbi jogviszony alapján fennálló, el nem évült követelésből származó elszámolási és fizetési kötelezettség teljesítéséhez kötni.
 
 (6)
 

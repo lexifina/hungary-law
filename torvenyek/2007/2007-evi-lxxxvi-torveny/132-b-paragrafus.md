@@ -1,6 +1,6 @@
 ## Integrált építési és környezetvédelmi engedélyezési eljárás
 
-132/B. § (1) A Hatóság a Hivatal által jóváhagyott hálózatfejlesztési tervben szereplő, új közcélú átviteli hálózati távvezetékre vonatkozó, a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló jogszabály szerinti környezeti hatásvizsgálati eljárást és a vezetékjogi engedélyezési eljárást ezen alcím szerinti eljárásban összevontan folytatja le, és dönt az integrált építési és környezetvédelmi engedély (a továbbiakban ezen alcím alkalmazásában: engedély) megadásáról.
+132/B. § (1) A Hatóság a Hivatal által jóváhagyott hálózatfejlesztési tervben szereplő, új közcélú átviteli hálózati távvezetékre, valamint a villamosmű műszaki biztonsági követelményeit meghatározó miniszteri rendeletben a főelosztóhálózatra vonatkozó, a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló jogszabály szerinti környezeti hatásvizsgálati eljárást és a vezetékjogi engedélyezési eljárást ezen alcím szerinti eljárásban összevontan folytatja le, és dönt az integrált építési és környezetvédelmi engedély (a továbbiakban ezen alcím alkalmazásában: engedély) megadásáról.
 
 (2) A Hatóság a környezeti hatásvizsgálat során a környezet- és természetvédelmi jogszabályokat alkalmazza.
 

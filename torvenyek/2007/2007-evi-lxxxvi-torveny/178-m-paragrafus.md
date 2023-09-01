@@ -1,1 +1,1 @@
-### 178/M. §
+178/M. § E törvénynek a közműszolgáltatások egyszerűsítésével összefüggő egyes törvények módosításáról szóló 2023. évi XXIX. törvénnyel (a továbbiakban: Mód9. törvénnyel) hatályon kívül helyezett 60. § (7) bekezdése és 63. § (3) bekezdése a hatályvesztéskor folyamatban lévő elévüléseket nem érinti.

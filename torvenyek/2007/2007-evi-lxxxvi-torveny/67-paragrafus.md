@@ -1,6 +1,6 @@
 ## X. Fejezet
 
-## SZABÁLYZATOK
+## SZABÁLYZATOK, MINTAPROJEKTEK
 
 67. § Az átviteli rendszerirányító az engedélyesekkel és reprezentatív érdekképviseletük útján a felhasználókkal egyeztetve kidolgozza a nemzetközi üzemi és kereskedelmi szabályzatban szabályozott kérdések kivételével
 

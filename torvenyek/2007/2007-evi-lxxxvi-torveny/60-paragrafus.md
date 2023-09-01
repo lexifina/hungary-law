@@ -32,7 +32,7 @@ b) rendszerhasználatidíj-fizetési kötelezettség elmulasztása miatti kikapc
 
 a rendelkezési jog az adott teljesítmény vonatkozásában a törvényi határidő leteltét követő napon a hálózati engedélyesre átszáll.
 
-(7) A hálózathasználati szerződésből eredő igények három év alatt évülnek el.
+(7)
 
 (8) Ha a felhasználó vagy a szerződéskötési folyamat igénybejelentője – az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény rendelkezéseire is figyelemmel – az elektronikus kapcsolattartást választja, az e törvényben és a Vhr.-ben a felhasználó és a hálózati engedélyes közötti kapcsolattartásra előírt írásbeliség kötelezettsége elektronikus úton is teljesíthető.
 

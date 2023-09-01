@@ -164,6 +164,8 @@ d) a közvilágítás ki- és bekapcsolását, továbbá szabályozását biztos
 
 48a. Okosmérő: olyan távlehívható fogyasztásmérő, amely képes a távoli utasításokat fogadni tájékoztatás, vezérlés, figyelemmelkísérés és ellenőrzés céljából;
 
+48b. Operatív irányítást ellátó személy: az átviteli rendszerirányító vezető tisztségviselője, cégvezetője, valamint azon vezető állású munkavállalója, aki az átviteli-rendszerirányító irányításáért, ügyvezetéséért felelős, és operatív irányítást ellátó személyként az átviteli rendszerirányító Hivatal által jóváhagyott megfelelési programjában szerepel.
+
 49. Összekötő berendezés: több felhasználó által használt ingatlan belső vezetékhálózatának nem az elosztó tulajdonában álló, a csatlakozási pont után lévő méretlen szakasza;
 
 49a. Profil: statisztikai elemzéssel készült normalizált, 1000 kWh éves fogyasztásra vonatkoztatott éves felhasználói villamosteljesítmény-igény görbe;
@@ -245,3 +247,5 @@ d) a közvilágítás ki- és bekapcsolását, továbbá szabályozását biztos
 78. Szerződésmegszüntetési díj: a villamosenergia-kereskedő vagy az aggregátor által a villamosenergia-vásárlási vagy aggregálási szerződés felhasználó általi megszüntetése esetén a felhasználóra kiszabott díj vagy pénzügyi szankció;
 
 79. Kereskedőváltással kapcsolatos díj: a villamosenergia-kereskedő vagy az aggregátor vagy a hálózati engedélyes által a kereskedőváltás vagy az aggregátorváltás esetén közvetve vagy közvetlenül a felhasználóra vagy aggregálásban részt vevőre kiszabott díj vagy pénzügyi szankció, ideértve a szerződésmegszüntetési díjat is;
+
+80. Felhasználói panasz: olyan felhasználói beadvány, amelyben a felhasználó az engedélyes intézkedése ellen vagy az engedélyes várt intézkedésének elmaradása miatt emel kifogást.
