@@ -10,11 +10,13 @@ terjedhet.
 
 (3)[^6] Az utasjogi bírságot az azt megállapító végleges határozatban előírt határidőn belül
 
-a) a vasúti igazgatási szerv eljárása esetében a vasúti igazgatási szervnek a kincstárnál vezetett 10032000-01040463-00000000 számú fizetési számlájára,
+a)[^7] a vasúti igazgatási szerv eljárása esetében a vasúti igazgatási szervnek a kincstárnál vezetett 10032000-00003582-09060096 számú fizetési számlájára,
 
-b) az autóbuszos piacfelügyeleti és utasjogi hatóság eljárása esetében annak a kincstárnál vezetett 10032000-01040463-00000000 számú fizetési számlájára,
+b)[^8] az autóbuszos piacfelügyeleti és utasjogi hatóság eljárása esetében annak a kincstárnál vezetett 10032000-00003582-09060096 számú fizetési számlájára,
 
 történő átutalással, utasjogi bírság jogcím megjelölésével kell megfizetni.
 
 [^5]: A 6. § (2) bekezdése az 516/2017. (XII. 29.) Korm. rendelet 33. § d) pontja szerint módosított szöveg.
 [^6]: A 6. § (3) bekezdése az 516/2017. (XII. 29.) Korm. rendelet 32. §-ával megállapított szöveg.
+[^7]: A 6. § (3) bekezdés a) pontja a 410/2023. (VIII. 30.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^8]: A 6. § (3) bekezdés b) pontja a 410/2023. (VIII. 30.) Korm. rendelet 5. §-a szerint módosított szöveg.
