@@ -88,7 +88,7 @@
 
 ## 4.8. a kérelmező vagy a törvényes képviselő aláíróhelye.
 
-1a. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^273]
+1a. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^277]
 
 A családi pótlék / anyasági támogatás megállapítása iránti hivatalbóli eljáráshoz tartozó adatlap adattartalma
 
@@ -136,4 +136,4 @@ A családi pótlék / anyasági támogatás megállapítása iránti hivatalból
 
 3.5. állampolgársága
 
-[^273]: Az 1/a. számú mellékletet az 572/2020. (XII. 9.) Korm. rendelet 18. §-a iktatta be.
+[^277]: Az 1/a. számú mellékletet az 572/2020. (XII. 9.) Korm. rendelet 18. §-a iktatta be.

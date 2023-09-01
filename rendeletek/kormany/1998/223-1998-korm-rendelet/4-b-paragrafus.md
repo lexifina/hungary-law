@@ -1,60 +1,60 @@
-## 4/A. §[^55] A családtámogatási és egyéb szociális támogatásokkal kapcsolatosan a Központ országos telefonos ügyfélszolgálatot működtet.
+## 4/A. §[^57] A családtámogatási és egyéb szociális támogatásokkal kapcsolatosan a Központ országos telefonos ügyfélszolgálatot működtet.
 
-4/B. §[^56] (1)[^57] A Cst.
+4/B. §[^58] (1)[^59] A Cst.
 
-a)[^58] 4. § g) pontja, 6. § (2) bekezdése, 8. § (1) bekezdés a) pontja, 8. § (3) bekezdés f) pontja, 11. § (1) bekezdés j) pontja, 12. § (1) bekezdés b) pontja, 15. § (1) és (3) bekezdése alkalmazásában a gyámhatóság a fővárosi és vármegyei kormányhivatal gyermekvédelmi és gyámügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala (a továbbiakban: gyámhivatal),
+a)[^60] 4. § g) pontja, 6. § (2) bekezdése, 8. § (1) bekezdés a) pontja, 8. § (3) bekezdés f) pontja, 11. § (1) bekezdés j) pontja, 12. § (1) bekezdés b) pontja, 15. § (1) és (3) bekezdése alkalmazásában a gyámhatóság a fővárosi és vármegyei kormányhivatal gyermekvédelmi és gyámügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala (a továbbiakban: gyámhivatal),
 
-b)[^59]
+b)[^61]
 
-c)–e)[^60]
+c)–e)[^62]
 
-f)[^61] 48. § (1)–(3) bekezdése alkalmazásában az egészségbiztosítási szerv a Központ,
+f)[^63] 48. § (1)–(3) bekezdése alkalmazásában az egészségbiztosítási szerv a Központ,
 
-g)[^62]
+g)[^64]
 
-(2)[^63]
+(2)[^65]
 
-(3)[^64]
+(3)[^66]
 
 (4) A Cst. 35. §-a (1) bekezdésének b) pontja alkalmazásában családtámogatási kifizetőhely:
 
-a)[^65] a honvédelemért felelős miniszter által vezetett minisztérium,
+a)[^67] a honvédelemért felelős miniszter által vezetett minisztérium,
 
-b)–c)[^66]
+b)–c)[^68]
 
-d)[^67]
+d)[^69]
 
-e)–f)[^68]
+e)–f)[^70]
 
-g)–j)[^69]
+g)–j)[^71]
 
-k)[^70]
+k)[^72]
 
-l)[^71]
+l)[^73]
 
-(5)[^72] Ha a családtámogatási ellátás iránti kérelem benyújtását közvetlenül megelőzően a kérelmező részére vagy ugyanazon gyermekre tekintettel más családtámogatási kifizetőhely folyósít vagy folyósított családtámogatási ellátást, az ügyben keletkezett iratok beszerzése iránt az Központot kell megkeresni.
+(5)[^74] Ha a családtámogatási ellátás iránti kérelem benyújtását közvetlenül megelőzően a kérelmező részére vagy ugyanazon gyermekre tekintettel más családtámogatási kifizetőhely folyósít vagy folyósított családtámogatási ellátást, az ügyben keletkezett iratok beszerzése iránt az Központot kell megkeresni.
 
-(6)[^73]
+(6)[^75]
 
-(7)[^74]
+(7)[^76]
 
-[^55]: A 4/A. §-t újonnan a 379/2016. (XII. 2.) Korm. rendelet 33. § (5) bekezdése iktatta be, szövege a 322/2018. (XII. 28.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^56]: A 4/B. §-t a 321/2006. (XII. 23.) Korm. rendelet 11. §-a iktatta be, szövege a 394/2007. (XII. 27.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^57]: A 4/B. § (1) bekezdése a 236/2012. (VIII. 30.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^58]: A 4/B. § (1) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 36. § (9) bekezdés f) pontja, a 405/2017. (XII. 15.) Korm. rendelet 10. § f) pontja és 11. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 30. § a) pontja szerint módosított szöveg.
-[^59]: A 4/B. § (1) bekezdés b) pontját a 70/2015. (III. 30.) Korm. rendelet 36. § (10) bekezdés a) pontja hatályon kívül helyezte.
-[^60]: A 4/B. § (1) bekezdés c)–e) pontját a 70/2015. (III. 30.) Korm. rendelet 36. § (10) bekezdés a) pontja hatályon kívül helyezte.
-[^61]: A 4/B. § (1) bekezdés f) pontja a 379/2016. (XII. 2.) Korm. rendelet 33. § (19) bekezdés 3. pontja szerint módosított szöveg.
-[^62]: A 4/B. § (1) bekezdés g) pontját a 70/2015. (III. 30.) Korm. rendelet 36. § (10) bekezdés a) pontja hatályon kívül helyezte.
-[^63]: A 4/B. § (2) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 33. § (20) bekezdés c) pontja hatályon kívül helyezte.
-[^64]: A 4/B. § (3) bekezdését a 70/2015. (III. 30.) Korm. rendelet 36. § (10) bekezdés b) pontja hatályon kívül helyezte.
-[^65]: A 4/B. § (4) bekezdés a) pontját a 340/2008. (XII. 30.) Korm. rendelet 25. § (2) bekezdése hatályon kívül helyezte, újonnan a 190/2016. (VII. 13.) Korm. rendelet 1. §-a iktatta be.
-[^66]: A 4/B. § (4) bekezdés b)–c) pontját a 340/2008. (XII. 30.) Korm. rendelet 25. § (2) bekezdése hatályon kívül helyezte.
-[^67]: A 4/B. § (4) bekezdés d) pontját a 323/2009. (XII. 29.) Korm. rendelet 14. § (1) bekezdés b) pont ba) alpontja hatályon kívül helyezte.
-[^68]: A 4/B. § (4) bekezdés e)–f) pontját a 340/2008. (XII. 30.) Korm. rendelet 25. § (2) bekezdése hatályon kívül helyezte.
-[^69]: A 4/B. § (4) bekezdés g)–j) pontját a 417/2015. (XII. 23.) Korm. rendelet 23. § (2) bekezdése hatályon kívül helyezte.
-[^70]: A 4/B. § (4) bekezdés k) pontját a 332/2011. (XII. 29.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
-[^71]: A 4/B. § (4) bekezdés l) pontját a 322/2018. (XII. 28.) Korm. rendelet 10. §-a hatályon kívül helyezte.
-[^72]: A 4/B. § (5) bekezdése a 176/2009. (VIII. 29.) Korm. rendelet 4. § (3) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 33. § (19) bekezdés 4. pontja, a 457/2017. (XII. 28.) Korm. rendelet 68. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át. [Ez utóbbi módosító rendelet ugyanezen pontjával elrendelt módosítás, amely szerint az „az Központ” szövegrész helyébe az „a Központ” szöveg lép, nem vezethető át.]
-[^73]: A 4/B. § (6) bekezdését a 176/2009. (VIII. 29.) Korm. rendelet 19. § (4) bekezdésének c) pontja hatályon kívül helyezte.
-[^74]: A 4/B. § (7) bekezdését a 236/2012. (VIII. 30.) Korm. rendelet 18. § b) pontja hatályon kívül helyezte.
+[^57]: A 4/A. §-t újonnan a 379/2016. (XII. 2.) Korm. rendelet 33. § (5) bekezdése iktatta be, szövege a 322/2018. (XII. 28.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^58]: A 4/B. §-t a 321/2006. (XII. 23.) Korm. rendelet 11. §-a iktatta be, szövege a 394/2007. (XII. 27.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^59]: A 4/B. § (1) bekezdése a 236/2012. (VIII. 30.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^60]: A 4/B. § (1) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 36. § (9) bekezdés f) pontja, a 405/2017. (XII. 15.) Korm. rendelet 10. § f) pontja és 11. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 30. § a) pontja szerint módosított szöveg.
+[^61]: A 4/B. § (1) bekezdés b) pontját a 70/2015. (III. 30.) Korm. rendelet 36. § (10) bekezdés a) pontja hatályon kívül helyezte.
+[^62]: A 4/B. § (1) bekezdés c)–e) pontját a 70/2015. (III. 30.) Korm. rendelet 36. § (10) bekezdés a) pontja hatályon kívül helyezte.
+[^63]: A 4/B. § (1) bekezdés f) pontja a 379/2016. (XII. 2.) Korm. rendelet 33. § (19) bekezdés 3. pontja szerint módosított szöveg.
+[^64]: A 4/B. § (1) bekezdés g) pontját a 70/2015. (III. 30.) Korm. rendelet 36. § (10) bekezdés a) pontja hatályon kívül helyezte.
+[^65]: A 4/B. § (2) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 33. § (20) bekezdés c) pontja hatályon kívül helyezte.
+[^66]: A 4/B. § (3) bekezdését a 70/2015. (III. 30.) Korm. rendelet 36. § (10) bekezdés b) pontja hatályon kívül helyezte.
+[^67]: A 4/B. § (4) bekezdés a) pontját a 340/2008. (XII. 30.) Korm. rendelet 25. § (2) bekezdése hatályon kívül helyezte, újonnan a 190/2016. (VII. 13.) Korm. rendelet 1. §-a iktatta be.
+[^68]: A 4/B. § (4) bekezdés b)–c) pontját a 340/2008. (XII. 30.) Korm. rendelet 25. § (2) bekezdése hatályon kívül helyezte.
+[^69]: A 4/B. § (4) bekezdés d) pontját a 323/2009. (XII. 29.) Korm. rendelet 14. § (1) bekezdés b) pont ba) alpontja hatályon kívül helyezte.
+[^70]: A 4/B. § (4) bekezdés e)–f) pontját a 340/2008. (XII. 30.) Korm. rendelet 25. § (2) bekezdése hatályon kívül helyezte.
+[^71]: A 4/B. § (4) bekezdés g)–j) pontját a 417/2015. (XII. 23.) Korm. rendelet 23. § (2) bekezdése hatályon kívül helyezte.
+[^72]: A 4/B. § (4) bekezdés k) pontját a 332/2011. (XII. 29.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^73]: A 4/B. § (4) bekezdés l) pontját a 322/2018. (XII. 28.) Korm. rendelet 10. §-a hatályon kívül helyezte.
+[^74]: A 4/B. § (5) bekezdése a 176/2009. (VIII. 29.) Korm. rendelet 4. § (3) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 33. § (19) bekezdés 4. pontja, a 457/2017. (XII. 28.) Korm. rendelet 68. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át. [Ez utóbbi módosító rendelet ugyanezen pontjával elrendelt módosítás, amely szerint az „az Központ” szövegrész helyébe az „a Központ” szöveg lép, nem vezethető át.]
+[^75]: A 4/B. § (6) bekezdését a 176/2009. (VIII. 29.) Korm. rendelet 19. § (4) bekezdésének c) pontja hatályon kívül helyezte.
+[^76]: A 4/B. § (7) bekezdését a 236/2012. (VIII. 30.) Korm. rendelet 18. § b) pontja hatályon kívül helyezte.
