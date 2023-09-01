@@ -1,3 +1,5 @@
-7. §[^30]
+7. § Hatályát veszti az R3.
 
-[^30]: A 7. § a 17. § (3) bekezdés alapján 2023. szeptember 1-jén lép hatályba.
+a) 8. § (1) bekezdésében az „a 9. számú melléklet szerinti adattartalommal rendelkező formanyomtatványnak a jogosult részére történő megküldésével” szövegrész,
+
+b) 9. számú melléklete.

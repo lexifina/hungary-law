@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-212-20-
 | 2023-06-17 | 2023-212-20-22.2 | 2010. évi CXXX. törvény |
 | 2023-08-01 | 2023-212-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2023-08-02 | 2023-212-20-22.4 | 2010. évi CXXX. törvény |
+| 2023-09-01 | 2023-212-20-22.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
