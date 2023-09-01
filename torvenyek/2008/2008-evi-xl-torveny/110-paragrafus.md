@@ -1,6 +1,6 @@
 ## X. Fejezet
 
-## SZABÁLYZATOK
+## SZABÁLYZATOK, MINTAPROJEKTEK
 
 110. § (1) A szállítási rendszerirányító kidolgozza az együttműködő földgázrendszer működésére vonatkozó szabályokat, eljárásokat és módszereket, a kereskedelmi, elszámolási- mérési és adatforgalmi megállapodások minimális tartalmi elemeit, valamint a napi egyensúlyozás részletes szabályait tartalmazó Üzemi és Kereskedelmi Szabályzatot. Az Üzemi és Kereskedelmi Szabályzat személyes adatok szolgáltatását, illetve kezelését nem írhatja elő.
 

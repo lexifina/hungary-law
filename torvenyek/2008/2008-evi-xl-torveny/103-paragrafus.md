@@ -18,13 +18,9 @@ e) a 141/A. § és a 141/J. § szerinti felajánlási ár,
 
 f) az 1998. január 1. előtt termelésbe állított szénhidrogén mezőkből termelt földgáz (a továbbiakban: hazai termelésű földgáz) ára az egyetemes szolgáltatás keretében földgázt vételező felhasználók ellátásához szükséges – miniszteri rendeletben meghatározott – mennyiség mértékéig,
 
-g) a vezetékes PB-gáz szolgáltatás és a PB-gáz tartályban történő értékesítésének lakossági PB-gáz fogyasztó által fizetendő ára, valamint
+g) a vezetékes PB-gáz szolgáltatás lakossági PB-gáz fogyasztó által fizetendő ára,
 
-h) a 11,5 kg-os töltettömegű palackos PB-gáz
-
-ha) gázkiskereskedő részére történő értékesítésének ára, és
-
-hb) palackos PB-gáz fogyasztó részére történő értékesítésének ára,
+h)
 
 i)
 
@@ -48,9 +44,9 @@ foglalt árat vagy díjat köteles megfizetni.
 
 a) a lakossági PB-gáz fogyasztó a (2) bekezdés g) pontjában,
 
-b) a PB-gáz kiskereskedő a (2) bekezdés h) pont ha) alpontjában, és
+b)
 
-c) a palackos PB-gáz fogyasztó a (2) bekezdés h) pont hb) alpontjában
+c)
 
 foglalt árat köteles megfizetni.
 

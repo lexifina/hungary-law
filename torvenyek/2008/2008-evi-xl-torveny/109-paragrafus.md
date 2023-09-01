@@ -1,4 +1,4 @@
-109. § A 103. § (2), (2a), (3)–(4a) bekezdésében és a 104–108. §-ban foglalt rendelkezések megsértése esetén a Hivatal
+109. § A 103. § (2), (2a), (3)–(4a) bekezdésében és a 104–108/A. §-ban foglalt rendelkezések megsértése esetén a Hivatal
 
 a) megtiltja a jogszabályt sértő díj, illetve ár alkalmazását, és egyidejűleg kötelezi az engedélyest a jogszerű ellenérték alkalmazására, valamint
 

@@ -14,4 +14,4 @@
 
 (5) A felhasználó köteles a szállítási rendszerüzemeltető és a földgázelosztó vagy megbízottja részére a mérő leolvasását, ellenőrzését, le- és felszerelését lehetővé tenni.
 
-(6) A fogyasztásmérő berendezés állagmegóvása és védelme a felhasználó kötelezettsége.
+(6) A fogyasztásmérő és házi nyomásszabályozó berendezés állagmegóvása és védelme a felhasználó kötelezettsége.

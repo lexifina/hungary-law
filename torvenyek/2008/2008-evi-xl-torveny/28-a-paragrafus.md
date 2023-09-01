@@ -8,8 +8,8 @@
 
 (3b) A kikapcsolás felhasználónak felróható elmaradásából vagy késedelméből eredő földgáz-fogyasztás, valamint rendszerhasználat ellenértékét a kikapcsolásig a felhasználó köteles megfizetni.
 
-(4) A földgázkereskedő köteles a felhasználó elosztóhálózat-használati és földgáz-kereskedelmi szerződéseinek megbízottként történő összevont kezelésére, ha a felhasználó ezt kéri.
+(4) A földgázkereskedő a felhasználóval történő közös megegyezés esetén, az egyetemes szolgáltató a felhasználó eltérő kérése hiányában, a felhasználó elosztóhálózat-használati és földgáz-kereskedelmi szerződését megbízottként, összevontan kezeli.
 
 (5) A földgázkereskedő és a földgázelosztó a (4) bekezdés szerinti kötelezettség teljesítése érdekében az üzletszabályzatukban meghatározott feltételek szerint megállapodást kötnek.
 
-(6) A földgázkereskedő és a felhasználó közötti földgáz-kereskedelmi szerződésből, valamint a földgázelosztó és a felhasználó között létrejött elosztóhálózat-használati szerződésből eredő polgári jogi igények három év alatt évülnek el. Az elévülés a követelés esedékességének napján kezdődik.
+(6)

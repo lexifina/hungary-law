@@ -20,7 +20,7 @@ c) amennyiben a felhasználót visszatérítés illeti meg, az annak teljesíté
 
 (5) A felhasználó köteles panaszával – a hatósági eljárást megelőzően – igazolható módon az engedélyeshez fordulni.
 
-(6) A panaszeljárás a jogsértés bekövetkezését követő három éven túl nem indítható meg. Ha a jogsértő magatartás folyamatos, a határidő a magatartás abbahagyásakor kezdődik. Ha a jogsértő magatartás azzal valósul meg, hogy valamely helyzetet vagy állapotot nem szüntetnek meg, a határidő mindaddig nem kezdődik el, amíg ez a helyzet vagy állapot fennáll. E határidő elmulasztása jogvesztéssel jár.
+(6) A panaszeljárás a jogsértés bekövetkezését követő öt éven túl nem indítható meg. Ha a jogsértő magatartás folyamatos, a határidő a magatartás abbahagyásakor kezdődik. Ha a jogsértő magatartás azzal valósul meg, hogy valamely helyzetet vagy állapotot nem szüntetnek meg, a határidő mindaddig nem kezdődik el, amíg ez a helyzet vagy állapot fennáll. E határidő elmulasztása jogvesztéssel jár.
 
 (7) Ha a panaszeljárás lefolytatására irányuló kérelemben foglaltak egésze vagy annak egy része tekintetében
 

@@ -10,7 +10,7 @@
 
 1c. Adatcsere: a jogszabályban, valamint az Adatcsere Szabályzatban kötelezettségként előírt adatszolgáltatások egységes keretek között történő, diszkriminációmentes lebonyolítása az Adatcsere Szabályzatban rögzítettek szerint, a rendszerhasználati szerződések betartása mellett.
 
-1d. Adatcsere Szabályzat: az adatcsere működésére, folyamataira vonatkozó, Hivatal által jóváhagyott szabályzat.
+1d. Adatcsere Szabályzat: az adatcsere működésére, folyamataira vonatkozó, Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) által jóváhagyott szabályzat.
 
 2. Célvezeték: a földgáztermelőhöz, határon túli földgázrendszerhez, a szállító-, elosztóvezetékhez vagy a tárolóhoz közvetlenül csatlakozó olyan földgázvezeték, amely kizárólag egy felhasználó egy felhasználási helyének ellátására szolgál.
 
@@ -18,7 +18,7 @@
 
 4. Csatlakozóvezeték: a felhasználási helyet magába foglaló ingatlan telekhatárától, mint elosztói kiadási ponttól a fogyasztói főcsapig terjedő vezeték.
 
-5. Egyablakos kapacitásértékesítő: az a földgázipari vállalkozás, amely a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) által kiadott engedély és az üzemeltetővel kötött jóváhagyott megállapodás alapján az egyablakos kiszolgálású nemzetközi földgázszállító-vezetéken két vagy több szállítási rendszerüzemeltető kapacitását értékesíti.
+5. Egyablakos kapacitásértékesítő: az a földgázipari vállalkozás, amely a Hivatal által kiadott engedély és az üzemeltetővel kötött jóváhagyott megállapodás alapján az egyablakos kiszolgálású nemzetközi földgázszállító-vezetéken két vagy több szállítási rendszerüzemeltető kapacitását értékesíti.
 
 6. Egyablakos kiszolgálású nemzetközi földgázszállító- vezeték: Magyarország és rajta kívül egy vagy több ország területét érintő – a hazai együttműködő földgázrendszernek részét nem képező – földgázszállító-vezeték, amelynek egy vagy több országot érintő szakaszára vonatkozóan egyetlen ügylettel lehet kapacitást lekötni.
 
@@ -248,7 +248,7 @@ c) a távhőtermelő, a távhőszolgáltatásról szóló törvény (a továbbia
 
 70a. Vészhelyzeti szint: a (EU) 2017/1938 európai parlamenti és tanácsi rendelet 11. cikk (1) bekezdés c) pontjában meghatározott válságszint.
 
-71. Lakossági PB-gáz fogyasztó: aki saját háztartása – egy felhasználási helyet képező egy vagy több lakóépület, lakás, üdülő vagy hétvégi ház, továbbá lakossági célra használt garázs – fogyasztása céljára vásárol tartályban forgalmazott PB-gázt vagy vezetékes PB-gázt, és az így vásárolt PB-gázzal nem folytat jövedelemszerzés céljából gazdasági tevékenységet. Ha a lakóépületben a műszakilag megosztott, önálló lakások száma meghaladja az épületben lévő önálló nem lakás céljára szolgáló helyiségek számát, a felhasználót úgy kell tekinteni, hogy saját háztartás céljára vásárol, és a vásárolt, tartályban forgalmazott vagy vezetékes PB-gázzal nem folytat jövedelemszerzés céljából gazdasági tevékenységet.
+71. Lakossági PB-gáz fogyasztó: aki saját háztartása – egy felhasználási helyet képező egy vagy több lakóépület, lakás, üdülő vagy hétvégi ház, továbbá lakossági célra használt garázs – fogyasztása céljára vásárol vezetékes PB-gázt, és az így vásárolt PB-gázzal nem folytat jövedelemszerzés céljából gazdasági tevékenységet. Ha a lakóépületben a műszakilag megosztott, önálló lakások száma meghaladja az épületben lévő önálló nem lakás céljára szolgáló helyiségek számát, a felhasználót úgy kell tekinteni, hogy saját háztartás céljára vásárol, és a vásárolt, vezetékes PB-gázzal nem folytat jövedelemszerzés céljából gazdasági tevékenységet.
 
 72. PB-gáz forgalmazó: aki PB-gáz forgalmazási tevékenység végzésére a műszaki-biztonsági hatóság által kiadott, hatályos engedéllyel rendelkezik, vagy a forgalmazási tevékenység folytatására irányuló szándékát a műszaki-biztonsági hatóságnak bejelentette.
 
@@ -289,3 +289,5 @@ b) a 75. pont a)–e) alpontja szerinti alapvető szociális szolgáltató,
 c) a 68a. pont c) alpontja szerinti távhőtermelő a Tszt. szerinti lakossági felhasználó vagy a 75. pont a)–e) alpontja szerinti alapvető szociális szolgáltató ellátása érdekében termelt, és kizárólag földgáz felhasználásával előállítható hő előállításához szükséges földgázkapacitás-igényének megfelelő földgáz mértékéig.
 
 77. Uniós riasztás: az (EU) 2022/1369 tanácsi rendelet 2. cikk 2. pontja szerinti riasztás.
+
+78. Felhasználói panasz: olyan felhasználói beadvány, amelyben a felhasználó az engedélyes intézkedése ellen vagy az engedélyes várt intézkedésének elmaradása miatt emel kifogást.

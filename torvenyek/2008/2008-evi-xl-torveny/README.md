@@ -96,3 +96,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-40-00-00
 | 2022-02-01 | 2021. évi CXXXVI. törvény | 2008-40-00-00.94 |
 | 2022-11-01 | 2022. évi VII. törvény | 2008-40-00-00.95 |
 | 2023-01-01 | 2022. évi LXX. törvény | 2008-40-00-00.96 |
+| 2023-09-01 | 2023. évi LVI. törvény | 2008-40-00-00.98 |

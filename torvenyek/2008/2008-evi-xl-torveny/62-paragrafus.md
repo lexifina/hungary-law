@@ -18,6 +18,6 @@ d) a földgáz határon keresztül történő beszállítása útján
 
 saját fogyasztására földgázt vásárolni.
 
-(3) A felhasználási helyet a vásárolt kapacitás mindaddig megilleti, amíg a felhasználási hely tulajdonosa arról írásban le nem mond. A vásárolt kapacitás feletti rendelkezés joga a felhasználási hely átruházásával átszáll az új tulajdonosra.
+(3) A felhasználási helyet a vásárolt kapacitás mindaddig megilleti, amíg a felhasználási hely tulajdonosa arról írásban le nem mond vagy azt a földgázelosztó vissza nem veszi. A vásárolt kapacitás feletti rendelkezés joga a felhasználási hely átruházásával átszáll az új tulajdonosra.
 
 (4) A vásárolt kapacitás tulajdonosa az igénybe nem vett vásárolt kapacitás mértékéig a kapacitáslekötési jogot írásbeli szerződéssel az adott felhasználási helyen más felhasználónak az e törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben foglaltak szerint átadhatja.
