@@ -27,3 +27,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-181-00-00
 | 2019-04-26 | 2019. évi XXXIV. törvény | 2012-181-00-00.20 |
 | 2022-05-25 | 2022. évi IV. törvény | 2012-181-00-00.21 |
 | 2023-03-07 | 2020. évi XLII. törvény | 2012-181-00-00.23 |
+| 2023-09-01 | 2023. évi XXXI. törvény | 2012-181-00-00.25 |

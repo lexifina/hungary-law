@@ -4,7 +4,7 @@
 
 (2) A SIRENE Iroda
 
-a) kiegészítő információkat cserél más SIS-t alkalmazó államok SIRENE Irodáival,
+a) kiegészítő információkat cserél más SIS-t alkalmazó államok SIRENE Irodáival és az Europol SIRENE Irodájával,
 
 b) koordinálja a CS.SIS-ben magyar jelzéskezelők által elhelyezett adatok minőségének ellenőrzését,
 
