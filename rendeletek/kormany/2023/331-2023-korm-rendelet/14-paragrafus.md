@@ -1,5 +1,3 @@
-## 8.[^14]
+## 8. Az egyes felsőoktatási tárgyú és kapcsolódó kormányrendeletek módosításáról szóló 617/2022. (XII. 29.) Korm. rendelet módosítása
 
-14. §
-
-[^14]: A 8. alcím (14-15. §) a 18. § (2) bekezdés alapján 2023. szeptember 1-jén lép hatályba.
+14. § Hatályát veszti az egyes felsőoktatási tárgyú és kapcsolódó kormányrendeletek módosításáról szóló 617/2022. (XII. 29.) Korm. rendelet [a továbbiakban: 617/2022. (XII. 29.) Korm. rendelet] 29. § (3) bekezdésében az „és a 28. §” szövegrész.
