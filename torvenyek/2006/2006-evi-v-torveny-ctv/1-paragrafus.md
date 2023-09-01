@@ -10,9 +10,11 @@ d) a cégnyilvántartás közhitelességének és a cég törvényes működés�
 
 e) a Polgári Törvénykönyvben (a továbbiakban: Ptk.) és más, az egyes cégformákra vonatkozó törvényekben, illetve az Európai Unió rendeleteiben meghatározott, a kisebbségi jogok gyakorlását, valamint a hitelezői jogok védelmét biztosító kérelmek elbírálása,
 
-f) döntés a közhasznúvá minősítésről, és a közhasznú jogállás cégjegyzékbe történő bejegyzése, illetve törlése, továbbá
+f) döntés a közhasznúvá minősítésről, és a közhasznú jogállás cégjegyzékbe történő bejegyzése, illetve törlése,
 
-g) azoknak az egyéb ügyeknek az elbírálása, amelyeket törvény a cégbíróság hatáskörébe utal.
+g) azoknak az egyéb ügyeknek az elbírálása, amelyeket törvény a cégbíróság hatáskörébe utal, továbbá
+
+h) a tőkeegyesítő társaságok határokon átnyúló átalakulásáról, egyesüléséről és szétválásáról szóló törvényben foglalt feladatok ellátása.
 
 (2) A céginformációs és az elektronikus cégeljárásban közreműködő szolgálat (a továbbiakban: céginformációs szolgálat) feladatai a következők:
 
@@ -20,7 +22,7 @@ a) az e törvényben szabályozott módon hozzájárul a cégnyilvánosság köv
 
 b) biztosítja a cégeljárásban és más, külön törvényben szabályozott nemperes eljárások során az elektronikus ügyintézést támogató rendszer üzemeltetését;
 
-c) biztosítja a tagállami központi nyilvántartások, kereskedelmi nyilvántartások és cégjegyzékek összekapcsolására szolgáló rendszerrel (a továbbiakban: tagállami cégnyilvántartások összekapcsolására szolgáló rendszer) való kapcsolattartást;
+c) biztosítja a tagállami központi nyilvántartások, kereskedelmi nyilvántartások és cégjegyzékek összekapcsolására szolgáló rendszerrel (a továbbiakban: tagállami cégnyilvántartások összekapcsolására szolgáló rendszer) való kapcsolattartást, valamint a tőkeegyesítő társaságok határokon átnyúló átalakulásával, egyesülésével és szétválásával kapcsolatos elektronikus adatszolgáltatást;
 
 d) jogi tanácsadó szolgálatot tart fenn annak érdekében, hogy a mikro- és kisvállalkozások a cégalapítással, a cégek megszüntetésével összefüggő jogilag jelentős információkat – korszerű informatikai eszközök alkalmazása révén – közérthető megfogalmazásban, költségmentesen is megismerhessék;
 
