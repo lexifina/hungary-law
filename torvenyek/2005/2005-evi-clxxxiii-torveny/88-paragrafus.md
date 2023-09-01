@@ -152,7 +152,7 @@ rendeletben állapítsa meg.
 
 37. a 3/B. § (7) bekezdésében meghatározott szervezet kijelölését és a szervezet által ellátandó, a vasúti közlekedés biztonságát és környezetvédelmét szolgáló kutatási, fejlesztési és koordinációs, valamint az átjárhatósági rendszerelemek és kapcsolódási pontok rendszerintegrációjának ellenőrzésére, a vonatkozó európai uniós előírásoknak való teljes körű adminisztrációs megfelelésének biztosítására vonatkozó feladatokat,
 
-38. a vasúti közlekedés biztonságával összefüggő munkakör betöltéséhez szükséges vizsgán való részvételért fizetendő díjak körét és mértékét, valamint azok megfizetésére vonatkozó részletes szabályokat az adópolitikáért felelős miniszterrel egyetértésben,
+38.
 
 39. a vasúti műszaki előírások kidolgozásáért és kiadásáért felelős szakértői testület létrehozására, összetételére, feladatkörére és működésére, valamint a tevékenységével összefüggő feladatokra és a közlekedési hatósággal történő együttműködésére vonatkozó részletes szabályokat,
 
