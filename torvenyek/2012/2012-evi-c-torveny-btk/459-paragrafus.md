@@ -138,7 +138,7 @@ e) a házastárs vagy az élettárs egyeneságbeli rokona és testvére;
 
 17. vagyoni hátrány: e törvény eltérő rendelkezése hiányában a vagyonban okozott kár és az elmaradt vagyoni előny;
 
-18. kábítószer: az egészségügyért felelős miniszter ellenőrzött anyagokról szóló rendelete 1. mellékletében a kábítószerek 1. és 2., valamint 2. mellékletében a pszichotróp anyagok 1. és 2. jegyzékén szereplő anyag;
+18. kábítószer: a 78/2022. (XII. 28.) BM rendelet 1. mellékletében a kábítószerek 1. és 2., valamint 2. mellékletében a pszichotróp anyagok 1. és 2. jegyzékén szereplő anyag;
 
 19. készpénz-helyettesítő fizetési eszköz a hitelintézetekről szóló törvényben meghatározott készpénz-helyettesítő fizetési eszköz és a forgatható utalvány, a kincstári kártya, az utazási csekk, a kifizetőt terhelő adó mellett vagy adómentesen adható, korlátozott körű áruk vagy szolgáltatások ellenértékének kiegyenlítése céljából törvény alapján kibocsátott utalvány és a váltó, feltéve, hogy kivitelezése, kódolása vagy a rajta lévő aláírás folytán a másolás, a meghamisítás vagy a jogosulatlan felhasználás ellen védett;
 
@@ -230,7 +230,7 @@ c) erőszakos többszörös visszaeső az a többszörös visszaeső, aki mindh�
 
 32. nemzetközileg védett személy: az a külföldi hivatalos személy, aki a rá vonatkozó nemzetközi szerződés alapján nemzetközi jogon alapuló mentességet élvez.
 
-33. új pszichoaktív anyag: az egészségügyért felelős miniszter ellenőrzött anyagokról szóló rendelete 3. mellékletében meghatározott anyag;
+33. új pszichoaktív anyag: a 78/2022. (XII. 28.) BM rendelet 3. mellékletében meghatározott anyag;
 
 34. külföldi védelemben részesített kulturális örökségi elem: a 2021. évi CXXV. törvénnyel kihirdetett, az Európa Tanács kulturális örökséggel kapcsolatos bűncselekményekről szóló, Nikóziában, 2017. május 19-én kelt egyezménye
 

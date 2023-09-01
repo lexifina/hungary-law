@@ -56,7 +56,7 @@ b) jelentős mennyiségű, ha annak tiszta hatóanyag-tartalma a hozzá nem szok
 
 c) különösen jelentős mennyiségű, ha annak tiszta hatóanyag-tartalma a hozzá nem szokott fogyasztó átlagos hatásos adagjának ezernégyszázszoros mértékét meghaladja.
 
-(5) A 184–184/C. § alkalmazásában az új pszichoaktív anyag csekély mennyiségű, ha annak tiszta hatóanyag-tartalma az egészségügyért felelős miniszter ellenőrzött anyagokról szóló rendelete 3. mellékletében szereplő jegyzék
+(5) A 184–184/C. § alkalmazásában az új pszichoaktív anyag csekély mennyiségű, ha annak tiszta hatóanyag-tartalma a 78/2022. (XII. 28.) BM rendelet 3. mellékletében szereplő jegyzék
 
 a) 1. pontja szerinti vegyületcsoport esetében a 0,5 gramm,
 
