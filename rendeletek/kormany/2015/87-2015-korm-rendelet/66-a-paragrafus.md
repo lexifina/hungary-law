@@ -1,3 +1,3 @@
-## 22/A. [^220] Közös rendelkezések
+## 22/A. [^213] Közös rendelkezések
 
-[^220]: A 22/A. alcímet (66/A. §-t) a 457/2017. (XII. 28.) Korm. rendelet 531. § (2) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 618. §-át.
+[^213]: A 22/A. alcímet (66/A. §-t) a 457/2017. (XII. 28.) Korm. rendelet 531. § (2) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 618. §-át.

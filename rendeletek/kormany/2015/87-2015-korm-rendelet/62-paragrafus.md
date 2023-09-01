@@ -1,148 +1,35 @@
 ## 20. A hallgatók esélyegyenlőségének előmozdítása
 
-62. § (1) A fogyatékossággal élő hallgató kérelmére a felsőoktatási intézménynek a tanterv előírásaitól részben vagy egészében eltérő követelményeket kell megállapítania, illetve – figyelemmel az Nftv. 49. § (8) bekezdésére – azok teljesítésétől el kell tekintenie a (2)–(7) bekezdésben foglalt kedvezmények közül legalább egy, szükség szerint több kedvezmény biztosításával, ha a fogyatékosságot igazoló szakvélemény megállapításai alapján kedvezmény, illetve mentesség biztosítható a hallgató számára.
+62. §[^204] (1) A fogyatékossággal élő hallgatót a felsőoktatási intézmény a 63. §-ban meghatározott szerv által kiadott szakértői vélemény alapján, az egyéni sajátosságok függvényében, figyelemmel az Nftv. 49. § (8) bekezdésére, az alábbi kedvezményekben részesítheti:
 
-(2) Mozgáskorlátozott hallgató esetében alkalmazható kedvezmények:
+a) írásbeli helyett szóbeli vagy szóbeli helyett írásbeli vizsga alkalmazása,
 
-a) a gyakorlati követelmények teljesítése alóli részleges vagy teljes felmentés, illetve annak más formában történő teljesítése,
+b) a vizsgák során a nem fogyatékossággal élő hallgatókra megállapított felkészülési, válaszadási időnél hosszabb idő biztosítása,
 
-b) az írásbeli vizsga szóbelivel, a szóbeli vizsga írásbelivel történő helyettesítése,
+c) a hallgató tanulmányai alatt és vizsgái során a fogyatékosságnak megfelelő segédeszközök, berendezési tárgyak alkalmazása,
 
-c) mentesítés a nyelvvizsga vagy annak egy része, illetve szintje alól,
+d) a hallgató tanulmányai alatt és vizsgái során személyi segítő, jelnyelvi, orális vagy jegyzetelő tolmács biztosítása,
 
-d) mentesítés a manuális készségeket igénylő feladatok alól azzal, hogy az elméleti ismeretek megkövetelhetők,
+e) az érthetőség és a megértés szempontjából az előadásokon és vizsgákon az elhangzottak egyidejű írásban való megjelenítése, audiovizuális szemléltetés, pontírás, nagyítás használatának lehetővé tétele,
 
-e) az írásbeli feladatok megoldásához szükséges speciális eszközök, berendezési tárgyak használatának lehetővé tétele,
+f) vizsgáknál a hallgató várakozási idejének minimálisra csökkentése, a hosszabb időtartamú vizsga több részletben való megtartása, vagy a vizsga helyiségének elhagyása nélküli szünetek alkalmazása,
 
-f) a nem fogyatékossággal élő hallgatókra megállapított felkészülési időnél hosszabb felkészülési idő biztosítása,
+g) a szóbeli vizsgáztatás során – hallgatói igény esetén – a kérdések leírása, az elvárások és kérdések tisztázása, a feltett kérdések, utasítások megfogalmazásának pontosítása,
 
-g)[^204] a hallgató tanulmányai alatt személyi segítő biztosítása.
+h) egyéni vizsga engedélyezése,
 
-(3) Hallássérült (siket, nagyothalló) hallgató esetében alkalmazható kedvezmények:
+i) mentesítés a manuális készségeket igénylő feladatok alól azzal, hogy az elméleti ismeretek megkövetelhetőek,
 
-a) a gyakorlati követelmények teljesítése alóli részleges vagy teljes felmentés, illetve annak más formában történő teljesítése,
+j) gyakorlati követelmények alóli részleges vagy teljes felmentés, vagy annak más formában történő teljesítése, illetve
 
-b) a szóbeli vizsga írásbelivel történő helyettesítése, szóbeli vizsgáztatás során – hallgatói igény esetén – jelnyelvi vagy orális tolmács biztosítása,
+k) nyelvismeret mérése, vagy annak egy része, illetve szintje alóli mentesítés.
 
-c) mentesítés a nyelvvizsga vagy annak egy része, illetve szintje alól,
+(2) A hosszabb felkészülési időt a nem fogyatékossággal élő hallgatókra megállapított időtartamhoz képest legalább 30%-kal hosszabb időtartamban kell megállapítani.
 
-d) az érthetőség és a megértés szempontjából az előadásokon és vizsgákon az elhangzottak egyidejű írásban való megjelenítése a hallgató részére,
+(3) Indokolt esetben a hallgató kérelmére, a szakértői vélemény alapján a felsőoktatási intézmény az (1) bekezdésben szabályozott kedvezményektől eltérő, további vagy más kedvezményt is biztosíthat a hallgató részére.
 
-e) minden vizsgáztatás alkalmával segédeszközök, vizuális szemléltetés biztosítása,
+(4) A nyelvvizsga vagy annak egy része, illetve szintje alóli mentesítés megilleti azt a fogyatékossággal élő volt hallgatót, aki záróvizsgát tett, és hallgatói jogviszonya megszűnt, de a szakképzettség megszerzéséhez szükséges nyelvvizsga kötelezettségét nem teljesítette.
 
-f) a nem fogyatékossággal élő hallgatókra megállapított felkészülési időnél hosszabb felkészülési idő biztosítása,
+(5) A felsőoktatási intézmény a fogyatékossággal nem járó egészségkárosodás, krónikus betegség fennállta esetén a szakorvosi vélemény alapján a hallgatót személyre szabott megsegítésben részesítheti.
 
-g)[^205] a hallgató tanulmányai alatt személyi segítő, jegyzetelő tolmács, jelnyelvi tolmács biztosítása.
-
-(4) Látássérült (vak, aliglátó, gyengénlátó) hallgató esetében alkalmazható kedvezmények:
-
-a) a gyakorlati követelmények teljesítése alóli részleges vagy teljes felmentés, illetve annak más formában történő teljesítése,
-
-b) az írásbeli vizsgák helyett a szóbeli vizsga, illetve az írásbeli számonkérés esetén speciális technikai eszközök használata,
-
-c) mentesítés a nyelvvizsga vagy annak egy része, illetve szintje alól,
-
-d) mentesítés a manuális, vizuális készségeket igénylő feladatok alól, de az elméleti ismeretek megkövetelhetők,
-
-e) az előadások, gyakorlatok és vizsgák alkalmával a kérdések, tételek hanghordozó eszközön, digitálisan, pontírásban vagy nagyításban történő hozzáférhetősége,
-
-f) a nem fogyatékossággal élő hallgatókra megállapított felkészülési időnél hosszabb felkészülési idő biztosítása,
-
-g)[^206] a hallgató tanulmányai alatt személyi segítő biztosítása.
-
-(5) Beszédfogyatékos (diszfázia, diszlália, diszfónia, dadogás, hadarás, afázia, orrhangzós beszéd, dizartria, mutizmus, súlyos beszédészlelési és beszédmegértési zavar, centrális pöszeség, megkésett beszédfejlődés) hallgató esetében alkalmazható kedvezmények:
-
-a) a szóbeli vizsga helyett írásbeli vizsga, és a számonkérések esetén speciális technikai eszközök használata,
-
-b) mentesítés a nyelvvizsga vagy annak egy része, illetve szintje alól,
-
-c) a nem fogyatékossággal élő hallgatókra megállapított felkészülési időnél hosszabb felkészülési idő biztosítása,
-
-d)[^207] a hallgató tanulmányai alatt személyi segítő biztosítása.
-
-(6) Pszichés fejlődési zavarral küzdő hallgató esetében alkalmazható kedvezmények:
-
-a) a diszlexiás-diszgráfiás-diszortográfiás hallgatónál:
-
-aa) az írásbeli vizsga helyett szóbeli vizsga vagy szóbeli helyett írásbeli vizsga,
-
-ab) írásbeli vizsga esetén a nem fogyatékossággal élő hallgatókra megállapított felkészülési időnél hosszabb felkészülési idő,
-
-ac) a vizsgán a szükséges segédeszközök (különösen számítógép, írógép, helyesírási szótár, értelmező szótár, szinonima szótár) biztosítása,
-
-ad) mentesítés a nyelvvizsga vagy annak egy része, illetve szintje alól;
-
-b) a diszkalkuliás hallgatónál:
-
-ba) mentesítés a számítási feladatok alól, de az elméleti ismeretek megkövetelhetők,
-
-bb) a vizsgák alkalmával mindazon segédeszközök használata, amelyekkel a hallgató a tanulmányai során korábban is dolgozott (különösen táblázatok, számológép, konfiguráció, mechanikus és manipulatív eszközök), továbbá hosszabb felkészülési idő biztosítása;
-
-c) a hiperaktív, figyelemzavarral küzdő hallgatónál:
-
-ca) az írásbeli vizsga helyett szóbeli vizsga vagy szóbeli helyett írásbeli vizsga,
-
-cb) a nem fogyatékossággal élő hallgatókra megállapított felkészülési időnél hosszabb felkészülési idő biztosítása,
-
-cc) vizsgáknál a hallgató várakozási idejének minimálisra csökkentése,
-
-cd) az írásbeli feladatok megoldásához szükséges speciális eszközök, berendezési tárgyak alkalmazása,
-
-ce) a hosszabb időtartamú vizsga több részletben való megtartása, vagy a vizsga helyiségének elhagyása nélküli szünetek, vagy mozgásos aktivitás engedélyezése, érzelmi megnyilvánulások tolerálása,
-
-cf) külön vizsga a többi hallgatótól elkülönítetten,
-
-cg) az egyéni sajátosságok függvényében a szóbeli vizsgáztatás során – hallgatói igény esetén – a kérdések leírása vagy többszöri megismétlése, komplex kérdések részegységekre történő lebontása, segítség az elvárások és kérdések tisztázásához,
-
-ch) az előadások, gyakorlatok és vizsgák alkalmával a kérdések, tételek hanghordozó eszközön, digitálisan történő hozzáférhetősége,
-
-ci)[^208] a hallgató tanulmányai alatt személyi segítő biztosítása;
-
-d) a magatartásszabályozási zavarral (szocio-adaptív folyamatok zavaraival, az érzelmi kontroll, ön-, vagy mások felé irányuló agresszió, a szorongás, az én-szabályozás gyengeségét mutató magatartásjellemzők, az alkalmazkodóképesség, a célirányos viselkedés, az önszervezés, valamint a metakogníció eltérő fejlődésével) küzdő hallgatónak:
-
-da) az írásbeli vizsga szóbelivel, a szóbeli vizsga írásbelivel történő helyettesítése,
-
-db) a hosszabb időtartamú vizsga több részletben való megtartása vagy szünetek engedélyezése, az egyéni késztetések, érzelmi megnyilvánulások tolerálása,
-
-dc) külön vizsga a többi hallgatótól elkülönítetten,
-
-dd) a szóbeli vizsgáztatás során – hallgatói igény esetén – a kérdések leírása, az elvárások és kérdések tisztázása, a feltett kérdések, utasítások megfogalmazásának egyszerűsítése, pontosítása,
-
-de) a nem fogyatékossággal élő hallgatókra megállapított felkészülési időnél hosszabb felkészülési idő,
-
-df)[^209] a hallgató tanulmányai alatt személyi segítő biztosítása.
-
-(7) Az autizmussal élő hallgató esetében alkalmazható kedvezmények:
-
-a) a számonkérés körülményeinek a hallgató speciális szükségleteihez alakítása, az írásbeli vizsga helyett szóbeli vizsga vagy szóbeli helyett írásbeli vizsga,
-
-b) számonkérés során segítségadás az elvárások és kérdések tisztázásához, szóbeli vizsgánál a feltett kérdések, utasítások írásban való megjelenítése, megfogalmazásuk egyszerűsítése,
-
-c) a nem fogyatékossággal élő hallgatókra megállapított felkészülési időnél hosszabb felkészülési idő,
-
-d) mind a kurzusok, mind a számonkérés során speciális eszközök (elsősorban hangrögzítő eszköz, számítógép, értelmező szótár, egyéb támogató, infokommunikációs technológiák) alkalmazása,
-
-e) mentesítés a nyelvvizsga vagy annak egy része, illetve szintje alól,
-
-f) a fejlődési zavarából következő nehézségek miatt egyes gyakorlati követelmények alóli mentesítés, vagy ezek teljesítésének megfelelő, nem gyakorlati feladatokkal való helyettesítése,
-
-g)[^210] a hallgató tanulmányai alatt személyi segítő biztosítása.
-
-(8) A hosszabb felkészülési időt a nem fogyatékossággal élő hallgatókra megállapított időtartamhoz képest legalább 30%-kal hosszabb időtartamban kell megállapítani.
-
-(9) Halmozott fogyatékosság esetén a (2)–(7) bekezdésben foglalt előnyben részesítések bármelyike adható, figyelembe véve a hallgató egyéni szükségleteit.
-
-(10) Indokolt esetben a hallgató kérelmére, a szakvélemény alapján a felsőoktatási intézmény a (2)–(7) bekezdésben szabályozott kedvezményektől eltérő, további vagy más kedvezményt is biztosíthat a hallgató részére.
-
-(11)[^211]
-
-(12) A nyelvvizsga vagy annak egy része, illetve szintje alóli mentesítés megilleti azt a fogyatékossággal élő volt hallgatót, aki záróvizsgát tett és hallgatói jogviszonya megszűnt, de a szakképzettség megszerzéséhez szükséges nyelvvizsga kötelezettségét nem teljesítette.
-
-[^204]: A 62. § (2) bekezdés g) pontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 11. pontja szerint módosított szöveg.
-[^205]: A 62. § (3) bekezdés g) pontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 11. pontja szerint módosított szöveg.
-[^206]: A 62. § (4) bekezdés g) pontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 11. pontja szerint módosított szöveg.
-[^207]: A 62. § (5) bekezdés d) pontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 11. pontja szerint módosított szöveg.
-[^208]: A 62. § (6) bekezdés c) pont ci) alpontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 11. pontja szerint módosított szöveg.
-[^209]: A 62. § (6) bekezdés d) pont df) alpontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 11. pontja szerint módosított szöveg.
-[^210]: A 62. § (7) bekezdés g) pontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 11. pontja szerint módosított szöveg.
-[^211]: A 62. § (11) bekezdését az Alkotmánybíróság a 6/2022. (IV. 26.) AB határozat 1. pontjával megsemmisítette 2022. április 27. napjával.
+[^204]: A 62. § a 617/2022. (XII. 29.) Korm. rendelet 16. §-ával megállapított szöveg.
