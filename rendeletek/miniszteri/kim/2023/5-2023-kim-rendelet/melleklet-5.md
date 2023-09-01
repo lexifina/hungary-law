@@ -1,3 +1,3 @@
-5. melléklet az 5/2023. (VII. 27.) KIM rendelethez[^15]
+5. melléklet az 5/2023. (VII. 27.) KIM rendelethez[^14]
 
-[^15]: Az 5. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: Az 5. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

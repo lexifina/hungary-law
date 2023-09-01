@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-5-20-8O
 | --- | --- | --- |
 | 2023-08-04 | 2023-5-20-8O.1 | 5/2023. (VII. 27.) KIM rendelet |
 | 2023-08-05 | 2023-5-20-8O.2 | 2010. évi CXXX. törvény |
+| 2023-09-01 | 2023-5-20-8O.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
