@@ -1,3 +1,5 @@
-10. §[^12]
+10. § Hatályát veszti a Korm. rendelet
 
-[^12]: A 10. § a 12. § (3) bekezdés alapján 2023. szeptember 1-jén lép hatályba.
+a) 25. § (6) bekezdésében az „és a 26. §” szövegrész,
+
+b) 14. alcíme.
