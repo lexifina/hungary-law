@@ -20,8 +20,10 @@ c) a Hszt. 259. § (1) bekezdés b)–d) pontjában, 259. § (2) bekezdésében,
 
 d) az (1) bekezdés b) pontjában foglaltak esetén a szociális bizottság tagjának állásfoglalását.
 
-(4) A kérelemhez a kérelmezőnek csatolnia kell az igénylésre jogosult, a vele közös háztartásban élő, valamint az indokolásban foglalt további személyek a támogatás igénylésére okot adó körülmény felmerülésekor fennálló jövedelmi viszonyokat tanúsító jövedelemigazolását, tankötelezettségnél idősebb gyermek, valamint beiskolázási segély kérelem esetén a 6–8 év közötti gyermek esetében tanulói jogviszony igazolását vagy az álláskeresési támogatás igénybevételéről kiállított igazolást, csatolnia kell továbbá az igény indokoltságát alátámasztó dokumentumokat, nyilatkozatokat.
+(4)[^2] A kérelemhez a kérelmezőnek csatolnia kell az igénylésre jogosult, a vele közös háztartásban élő, valamint az indokolásban foglalt további személyek a támogatás igénylésére okot adó körülmény felmerülésekor fennálló jövedelmi viszonyokat tanúsító jövedelemigazolását, tankötelezettségnél idősebb gyermek esetében az érvényes diákigazolványának másolatát vagy az álláskeresési támogatás igénybevételéről kiállított igazolást, csatolnia kell továbbá az igény indokoltságát alátámasztó dokumentumokat, nyilatkozatokat.
 
 (5) Pénzbeli támogatásban csak az az igénylésre jogosult részesíthető, aki a szociális helyzetének, rászorultságának megítéléséhez szükséges személyes adatokat a valóságnak megfelelően rendelkezésre bocsátja, azok hitelességét igazolja, és hozzájárul személyes adatai kezeléséhez.
 
 (6) A pénzbeli támogatásokra való jogosultságról és annak mértékéről a szociális bizottság javaslatának figyelembevételével a főigazgató dönt.
+
+[^2]: A 11. § (4) bekezdése a 17/2023. (VII. 27.) MK rendelet 1. §-a szerint módosított szöveg.
