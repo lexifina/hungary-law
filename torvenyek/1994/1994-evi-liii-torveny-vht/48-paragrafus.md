@@ -2,7 +2,7 @@
 
 48. § (1) A végrehajtást foganatosító bíróság köteles a végrehajtást felfüggeszteni, ha ezt kívánta a végrehajtást kérő, és a felfüggesztés másnak a jogát nem sérti.
 
-(2) Ha a zálogjogosult a 114/A. § (1) bekezdése, illetve a 140. § (6) bekezdése szerinti kérelmet terjesztett elő, a kérelem beérkezését követő 3 munkanapon belül a bíróság a végrehajtást felfüggeszti. A bíróság a végrehajtás felfüggesztéséről a végrehajtót azonnal értesíti, egyúttal részére a felfüggesztést elrendelő végzést haladéktalanul megküldi.
+(2) Ha a zálogjogosult – alzálogjog esetén az alzálogjogosult – a 114/A. § (1) bekezdése, illetve a 140. § (6) bekezdése szerinti kérelmet terjesztett elő, a kérelem beérkezését követő 3 munkanapon belül a bíróság a végrehajtást felfüggeszti. A bíróság a végrehajtás felfüggesztéséről a végrehajtót azonnal értesíti, egyúttal részére a felfüggesztést elrendelő végzést haladéktalanul megküldi.
 
 (3) A végrehajtást foganatosító bíróság az adós kérelmére kivételesen akkor függesztheti fel a végrehajtást, ha az adós a felfüggesztésre okot adó, méltányolható körülményt igazolta, és az adóst a végrehajtási eljárás során korábban nem sújtották rendbírsággal.
 

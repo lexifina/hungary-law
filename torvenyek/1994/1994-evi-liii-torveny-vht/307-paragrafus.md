@@ -45,3 +45,39 @@ o) a végrehajtó állandó helyettes általi helyettesítésével összefüggő
 (1b) Az (1a) bekezdés a), d), i), j), l) és m) pontjában meghatározott rendeletet a Hatóság elnöke a miniszter véleményének kikérését követően adja ki.
 
 (2) Felhatalmazást kap a miniszter, hogy rendelettel állapítsa meg
+
+a)
+
+b)
+
+c)
+
+d)
+
+e) a végrehajtói szakvizsga, a végrehajtási ügyintézői vizsga és a végrehajtó-jelölti kézbesítési vizsga szabályait,
+
+f) a bírósági árverési csarnokok létesítésére és működésére vonatkozó szabályokat,
+
+g) a végrehajtási ügyvitelre, pénzkezelésre és statisztikára vonatkozó szabályokat, valamint a végrehajtási kérelem előterjesztésére szolgáló végrehajtható okirat nyomtatványok adattartalmát,
+
+h) az adópolitikáért felelős miniszterrel egyetértésben a végrehajtási eljárásban közreműködő jogi képviselő díjazását,
+
+i) a rendészetért felelős miniszterrel és a gyermekek és az ifjúság védelméért felelős miniszterrel egyetértésben a meghatározott cselekmény végrehajtására vonatkozó részletes szabályokat, különösen a lakás kiürítésére, valamint a gyermek átadására irányuló eljárásban,
+
+j)
+
+k)
+
+l) az adópolitikáért felelős miniszterrel egyetértésben a természetes személy adós foglalkozásának gyakorlásához nélkülözhetetlen gépjármű becsértékének azt az összegét, amelynél alacsonyabb becsérték esetén a gépjármű mentes a végrehajtás alól, továbbá azt az összeget, amely a gépjármű értékesítése során befolyt vételárból az adóst illeti meg,
+
+m)
+
+n) az adópolitikáért felelős miniszterrel egyetértésben a végrehajtási kifogás előterjesztésével egyidejűleg letétbe helyezendő szakértői díj előlegének összegét, valamint megfizetésének módját,
+
+o)
+
+p)
+
+q)
+
+r)

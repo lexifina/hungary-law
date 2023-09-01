@@ -1,3 +1,3 @@
 ## A zálogjogosult bekapcsolódása a végrehajtási eljárásba
 
-140/A. § A végrehajtást foganatosító bíróság a zálogjogosult végrehajtási eljárásba történő bekapcsolódásáról a zálogjogosultnak a 140. § (6) bekezdése szerinti kérelmére a 114/A. § szerint dönt.
+140/A. § A végrehajtást foganatosító bíróság a zálogjogosult (alzálogjog esetén az alzálogjogosult) végrehajtási eljárásba történő bekapcsolódásáról a zálogjogosultnak (alzálogjog esetén az alzálogjogosultnak) a 140. § (6) bekezdése szerinti kérelmére – figyelemmel a 140. § (6a)–(6b) bekezdésre – a 114/A. § szerint dönt.

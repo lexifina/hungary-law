@@ -10,7 +10,11 @@
 
 (5) A végrehajtó a becsérték közlésével egyidejűleg tájékoztatja a feleket a részletfizetés lehetőségéről és feltételeiről.
 
-(6) A végrehajtó a becsérték közlésével egyidejűleg tájékoztatja a zálogjogosultat arról, hogy a zálogjogból fakadó igényét – ha az alapügyben nem végrehajtást kérő – végrehajtási eljárás során érvényesítheti, és az erre vonatkozó kérelmét az értesítés kézhezvételét követő 15 munkanapon belül kell bejelentenie a végrehajtónál. A végrehajtó a kérelmet haladéktalanul, de legkésőbb annak kézhezvételét követő munkanapon továbbítja a végrehajtást foganatosító bíróságnak.
+(6) A végrehajtó a becsérték közlésével egyidejűleg tájékoztatja a zálogjogosultat (alzálogjog esetén az alzálogjogosultat is) arról, hogy a zálogjogból (alzálogjog esetén alzálogjogból) fakadó igényét – ha az alapügyben a zálogjoggal biztosított követelése tekintetében nem végrehajtást kérő – végrehajtási eljárás során érvényesítheti, és az erre vonatkozó kérelmét az értesítés kézhezvételét követő 15 munkanapon belül kell bejelentenie a végrehajtónál. A végrehajtó a kérelmet haladéktalanul, de legkésőbb az annak kézhezvételét követő munkanapon továbbítja a végrehajtást foganatosító bíróságnak.
+
+(6a) A (6) bekezdés szerinti eljárás során az alzálogjogosult kizárólag abban az esetben érvényesítheti a végrehajtási eljárás során az alzálogjogból fakadó igényét, ha az alapügyben az alzálogjogosult és az alzálogjoggal terhelt követelés zálogjogosultja sem végrehajtást kérő.
+
+(6b) A (6) bekezdés szerinti eljárás során az alzálogjoggal terhelt követelés zálogjogosultja kizárólag abban az esetben érvényesítheti a végrehajtási eljárás során a zálogjogból fakadó igényét, ha az alzálogjogosult az alzálogjogból fakadó igényének érvényesítésére vonatkozó kérelmét nem jelentette be a végrehajtónál, és az alapügyben az alzálogjogosult és az alzálogjoggal terhelt követelés zálogjogosultja sem végrehajtást kérő.
 
 (7) Ha a közléstől számított 15 napon belül végrehajtási kifogást terjesztettek elő, a becsértéket a bíróság – szükség esetén szakértő közreműködésével – állapítja meg. A becsérték megállapításával szemben előterjesztett, a becsérték bíróság általi megállapítására irányuló végrehajtási kifogás előterjesztésével együtt letétbe kell helyezni az igazságügyi szakértő díjának fedezésére szolgáló, a miniszter rendeletében meghatározott összeget.
 

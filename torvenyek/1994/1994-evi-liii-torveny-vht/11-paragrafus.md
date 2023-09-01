@@ -8,4 +8,10 @@ a) az adós nevét (szervezet esetén elnevezését, cég esetén cégnevét) é
 
 b) az ügy körülményeitől függően: az adós lakóhelyét, munkahelyét, illetőleg székhelyét, telephelyét (a továbbiakban: székhelyét) és a végrehajtás alá vonható vagyontárgyának helyét; e pontban felsorolt adatok közül legalább egyet közölni kell.
 
+c) azt, hogy terheli-e a követelést biztosító zálogjogot ingatlan-nyilvántartásba bejegyzett alzálogjog (a továbbiakban: alzálogjog),
+
+d) az alzálogjog jogosultjának (a továbbiakban: alzálogjogosult) nevét (szervezet esetén elnevezését, cég esetén cégnevét) és az azonosításához szükséges adatokat (legalább a születési helyét, idejét és az anyja nevét, illetve a szervezet nyilvántartási számát, cég esetén a cégjegyzékszámát), valamint
+
+e) az alzálogjoggal érintett ingatlan adatait, továbbá csatolni köteles az ingatlan 15 napnál nem régebbi hiteles tulajdoni lapját.
+
 (3) Ingatlan-végrehajtás kérése esetén közölni kell az ingatlan-nyilvántartási adatokat.
