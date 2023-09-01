@@ -10,7 +10,7 @@ d) hatástalanító berendezés alkalmazási tilalmat megszegő és
 
 e) információhoz való hozzáférés biztosítási kötelezettségét nem teljesítő
 
-gyártóval szemben 100 000 forinttól 1 000 000 forintig terjedő bírság szabható ki. Az egyes rendelkezések megsértése esetén kiszabható bírságok összegét külön jogszabály határozza meg.
+gyártóval szemben 130 000 forinttól 1 300 000 forintig terjedő bírság szabható ki. Az egyes rendelkezések megsértése esetén kiszabható bírságok összegét külön jogszabály határozza meg.
 
 (2) A kivetett bírság összegének megfizetése meghatározott számlaszámra történő befizetéssel történhet.
 

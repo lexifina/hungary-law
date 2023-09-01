@@ -22,9 +22,9 @@ vonatkozó – külön jogszabályban meghatározott – egyes előírások beta
 
 (2) Ha az (1) bekezdés szerinti egyes előírásokat megszegik, az üzemben tartóval (járműszerelvény esetében a vontatást végző jármű üzemben tartójával), illetve a 21/A. § (2) bekezdésében meghatározott esetben a gépjárművet használatra átvevő személlyel szemben
 
-a) az (1) bekezdés a)–c) és e)–h) pontja szerinti esetben 10 000 forinttól 300 000 forintig,
+a) az (1) bekezdés a)–c) és e)–h) pontja szerinti esetben 13 000 forinttól 390 000 forintig,
 
-b) az (1) bekezdés d) és i) pontja szerinti esetben 10 000 forinttól 800 000 forintig
+b) az (1) bekezdés d) és i) pontja szerinti esetben 13 000 forinttól 1 040 000 forintig
 
 terjedő közigazgatási bírságot kell kiszabni. Az egyes rendelkezések megsértése esetén kiszabható bírságok összegét a Kormány rendeletben határozza meg. Amennyiben egy cselekménnyel több előírást szegnek meg és azt egy eljárásban bírálják el, a kiszabandó bírság összegét az egyes szabályszegésekhez rendelt bírságösszegek összegeként kell megállapítani.
 
@@ -40,7 +40,7 @@ terjedő közigazgatási bírságot kell kiszabni. Az egyes rendelkezések megs�
 
 (4a) Az (1) bekezdés a)–c) és e)–g) pontjában meghatározott szabályszegés miatt indult elsőfokú eljárást az előírás megszegését követő négy hónapon belül, az (1) bekezdés d), h) és i) pontjában meghatározott szabályszegés miatt indult elsőfokú eljárást az előírás megszegését követő öt hónapon belül be kell fejezni.
 
-(4b) A bírságolással kapcsolatos eljárás lefolytatására a Kormány által rendeletben kijelölt hatóság által hozott határozat ellen fellebbezésnek van helye.
+(4b) A bírságolással kapcsolatos eljárás lefolytatására a Kormány által rendeletben kijelölt hatóság – kivéve a közlekedési hatóság – által hozott határozat ellen fellebbezésnek van helye.
 
 (4c) Nincs helye bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta két év eltelt (elévülés).
 
