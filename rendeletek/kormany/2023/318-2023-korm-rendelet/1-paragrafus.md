@@ -1,0 +1,3 @@
+1. § (1) Az orvosokkal, fogorvosokkal, továbbá a nem orvosi- és egészségtudományi képzési területen szerzett alap szakképesítéssel rendelkező, de egészségügyi felsőfokú szakirányú szakképzésben egészségügyi szakképesítést szerzett egészségügyi dolgozókkal (a továbbiakban együtt: orvos) szembeni szakmai-etikai eljárásban (a továbbiakban: etikai eljárás) első fokon Egészségügyi Tudományos Tanács (a továbbiakban: ETT) területileg illetékes Vármegyei Etikai Bizottság (a továbbiakban: VEB) tagjaiból esetileg létrehozott Vármegyei Etikai Tanács (a továbbiakban: VET) jár el.
+
+(2) Az etikai eljárás nem nyilvános, a tárgyaláson csak a jogszabály alapján arra jogosultak vehetnek részt.
