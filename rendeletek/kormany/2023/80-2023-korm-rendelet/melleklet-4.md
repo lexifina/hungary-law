@@ -4,7 +4,7 @@
 
 A gyártó, a koncessziós társaság és a koncesszori alvállalkozó nyilvántartási és adatszolgáltatási kötelezettségének adattartalma
 
-1.[^53] A gyártó esetében
+1.[^59] A gyártó esetében
 
 1.1. Magyarországon az általa forgalomba hozott, az 1. melléklet szerinti körforgásos termékek
 
@@ -22,7 +22,7 @@ A gyártó, a koncessziós társaság és a koncesszori alvállalkozó nyilvánt
 
 2. A koncessziós társaság és a koncesszori alvállalkozó esetében
 
-2.1. átvett, gyűjtött vagy előkezelt, körforgásos termékből származó hulladék[^54]
+2.1. átvett, gyűjtött vagy előkezelt, körforgásos termékből származó hulladék[^60]
 
 2.1.1. mennyisége,
 
@@ -32,12 +32,21 @@ A gyártó, a koncessziós társaság és a koncesszori alvállalkozó nyilvánt
 
 3.1. az 1. és a 2. pont szerinti adatok, valamint
 
-3.2. a kiterjesztett gyártói felelősségi kötelezettségeinek egyéni teljesítése során kezelt hulladék[^55]
+3.2. a kiterjesztett gyártói felelősségi kötelezettségeinek egyéni teljesítése során kezelt hulladék[^61]
 
 3.2.1. mennyisége,
 
 3.2.2. azonosító kódszáma (KF kód).
 
-[^53]: A 4. melléklet 1. pontja a 276/2023. (VI. 29.) Korm. rendelet 69. § (1) bekezdés c) pontjával megállapított szöveg.
-[^54]: Az érintett körforgásos termékből származó, az 1. melléklet szerinti KF-kódok alá egyértelműen besorolható, nem körforgásos termékek hulladékát nem tartalmazó hulladék.
-[^55]: Az érintett körforgásos termékből származó, az 1. melléklet szerinti KF-kódok alá egyértelműen besorolható, nem körforgásos termékek hulladékát nem tartalmazó hulladék.
+4.[^62] A 20/A. § szerinti díjátalány-fizetést választó gyártó esetében
+
+4.1. a Magyarországon általa forgalomba hozott vagy készletre vett borászati termék
+
+4.1.1. kategóriájának megnevezése,
+
+4.1.2. üvegcsomagolásának mennyisége (palack darab).
+
+[^59]: A 4. melléklet 1. pontja a 276/2023. (VI. 29.) Korm. rendelet 69. § (1) bekezdés c) pontjával megállapított szöveg.
+[^60]: Az érintett körforgásos termékből származó, az 1. melléklet szerinti KF-kódok alá egyértelműen besorolható, nem körforgásos termékek hulladékát nem tartalmazó hulladék.
+[^61]: Az érintett körforgásos termékből származó, az 1. melléklet szerinti KF-kódok alá egyértelműen besorolható, nem körforgásos termékek hulladékát nem tartalmazó hulladék.
+[^62]: A 4. melléklet 4. pontját a 421/2023. (VIII. 31.) Korm. rendelet 7. §-a iktatta be.

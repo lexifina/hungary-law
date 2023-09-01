@@ -1,12 +1,14 @@
 ## 2. Értelmező rendelkezések
 
-2. § (1) E rendelet alkalmazásában
+2. § (1)[^2] E rendelet alkalmazásában
 
-1. irodai papír: információ hordozására alkalmas író-, nyomtató- vagy fénymásolópapír, amely további megmunkálás nélkül alkalmas írásra, nyomtatásra vagy fénymásolásra, továbbá az iratok, dokumentumok, folyóiratok vagy hasonló termékek tartására, rendezésére szolgáló, papírból készült iratrendező, dosszié, iratborító, levélrendező és irattartó mappa;
+1. borászati termék: a szőlészetről és borászatról szóló törvény szerinti borászati termék;
 
-2.[^2] reklámhordozó papír: a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló törvényben meghatározott gazdasági reklámot tartalmazó, a médiaszolgáltatásokról és a tömegkommunikációról szóló törvény által meghatározott egyéb nyomtatott anyagok közül a grafikát, rajzot vagy fotót tartalmazó kiadvány, a térkép, a nyomtatott képeslap, a névjegykártya kivételével az üdvözlő- és más hasonló kártya, a nyomtatott naptár, a nyomtatott üzleti reklámanyag, a katalógus, a prospektus, a reklámposzter és hasonlók, a röplap és az egyéb szöveges kiadvány, ideértve azt is, ha más kiadvány mellékletét képezik, kivéve az ISBN-számmal ellátott könyvet és a tankönyvjegyzékbe felvett tankönyvet.
+2. irodai papír: információ hordozására alkalmas író-, nyomtató- vagy fénymásolópapír, amely további megmunkálás nélkül alkalmas írásra, nyomtatásra vagy fénymásolásra, továbbá az iratok, dokumentumok, folyóiratok vagy hasonló termékek tartására, rendezésére szolgáló, papírból készült iratrendező, dosszié, iratborító, levélrendező és irattartó mappa;
 
-3. vámtarifaszám: a vám- és statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló, 1987. július 23-i 2658/87/EGK tanácsi rendelet 2022. január 1-jén hatályos áruosztályozási szabályai alapján megállapított, a tanácsi rendelet I. melléklete szerinti áruazonosító szám.
+3. reklámhordozó papír: a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló törvényben meghatározott gazdasági reklámot tartalmazó, a médiaszolgáltatásokról és a tömegkommunikációról szóló törvény által meghatározott egyéb nyomtatott anyagok közül a grafikát, rajzot vagy fotót tartalmazó kiadvány, a térkép, a nyomtatott képeslap, a névjegykártya kivételével az üdvözlő- és más hasonló kártya, a nyomtatott naptár, a nyomtatott üzleti reklámanyag, a katalógus, a prospektus, a reklámposzter és hasonlók, a röplap és az egyéb szöveges kiadvány, ideértve azt is, ha más kiadvány mellékletét képezik, kivéve az ISBN-számmal ellátott könyvet és a tankönyvjegyzékbe felvett tankönyvet;
+
+4. vámtarifaszám: a vám- és statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló, 1987. július 23-i 2658/87/EGK tanácsi rendelet 2022. január 1-jén hatályos áruosztályozási szabályai alapján megállapított, a tanácsi rendelet I. melléklete szerinti áruazonosító szám.
 
 (2) Az e rendeletben alkalmazott fogalmakat
 
@@ -24,4 +26,4 @@
 
 7. az egyes műanyagtermékek környezetre gyakorolt hatásának csökkentéséről szóló 349/2021. (VI. 22.) Korm. rendeletben
 
-[^2]: A 2. § (1) bekezdés 2. pontja a 326/2023. (VII. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § (1) bekezdése a 421/2023. (VIII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.

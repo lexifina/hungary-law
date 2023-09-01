@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-80-20-2
 | 2023-05-01 | 2023-80-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2023-07-01 | 2023-80-20-22.3 | 276/2023. (VI. 29.) Korm. rendelet |
 | 2023-07-18 | 2023-80-20-22.5 | 326/2023. (VII. 17.) Korm. rendelet |
+| 2023-09-01 | 2023-80-20-22.6 | 421/2023. (VIII. 31.) Korm. rendelet |
