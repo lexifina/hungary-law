@@ -14,16 +14,16 @@ d) a szülők napközbeni telefonszámát,
 
 e) a megjegyzés rovatot,
 
-f)[^262]
+f)[^270]
 
 tartalmazza.
 
-(4)[^263] Amennyiben az óvoda beilleszkedési, tanulási, magatartási nehézséggel küzdő vagy sajátos nevelési igényű gyermekek nevelését is ellátja, a megjegyzés rovatban fel kell tüntetni a szakértői véleményt kiállító szakértői bizottság nevét, címét, a szakértői vélemény kiállításának időpontját és számát, valamint az elvégzett felülvizsgálatok, továbbá a következő kötelező felülvizsgálat időpontját.
+(4)[^271] Amennyiben az óvoda beilleszkedési, tanulási, magatartási nehézséggel küzdő vagy sajátos nevelési igényű gyermekek nevelését is ellátja, a megjegyzés rovatban fel kell tüntetni a szakértői véleményt kiállító szakértői bizottság nevét, címét, a szakértői vélemény kiállításának időpontját és számát, valamint az elvégzett felülvizsgálatok, továbbá a következő kötelező felülvizsgálat időpontját.
 
 (5) A gyermeket akkor lehet a felvételi és mulasztási naplóból törölni, ha az óvodai elhelyezése megszűnt.
 
-(6)[^264] Az óvoda az (4) bekezdésben meghatározott adatok alapján minden év június 30-áig megküldi az illetékes szakértői bizottsági feladatot ellátó intézmény részére azon gyermekek nevét – a szakértői véleményt kiállító intézmény és a szakértői vélemény számával együtt –, akiknek a felülvizsgálata a következő nevelési évben esedékes.
+(6)[^272] Az óvoda az (4) bekezdésben meghatározott adatok alapján minden év június 30-áig megküldi az illetékes szakértői bizottsági feladatot ellátó intézmény részére azon gyermekek nevét – a szakértői véleményt kiállító intézmény és a szakértői vélemény számával együtt –, akiknek a felülvizsgálata a következő nevelési évben esedékes.
 
-[^262]: A 90. § (3) bekezdés f) pontját a 34/2019. (XII. 30.) EMMI rendelet 7. § (1) bekezdése iktatta be, hatályon kívül helyezte a 37/2021. (VIII. 31.) EMMI rendelet 24. § (1) bekezdés h) pontja.
-[^263]: A 90. § (4) bekezdése a 34/2019. (XII. 30.) EMMI rendelet 13. § 11. pontja, a 37/2021. (VIII. 31.) EMMI rendelet 23. § (1) bekezdés 14. pontja szerint módosított szöveg.
-[^264]: A 90. § (6) bekezdését a 34/2019. (XII. 30.) EMMI rendelet 7. § (2) bekezdése iktatta be..
+[^270]: A 90. § (3) bekezdés f) pontját a 34/2019. (XII. 30.) EMMI rendelet 7. § (1) bekezdése iktatta be, hatályon kívül helyezte a 37/2021. (VIII. 31.) EMMI rendelet 24. § (1) bekezdés h) pontja.
+[^271]: A 90. § (4) bekezdése a 34/2019. (XII. 30.) EMMI rendelet 13. § 11. pontja, a 37/2021. (VIII. 31.) EMMI rendelet 23. § (1) bekezdés 14. pontja szerint módosított szöveg.
+[^272]: A 90. § (6) bekezdését a 34/2019. (XII. 30.) EMMI rendelet 7. § (2) bekezdése iktatta be..

@@ -1,6 +1,6 @@
 ## 37. Az intézményi tanács
 
-121. § (1)[^308] Az Nkt. 73. § (3) bekezdése szerinti intézményi tanács létrehozását kezdeményezheti
+121. § (1)[^316] Az Nkt. 73. § (3) bekezdése szerinti intézményi tanács létrehozását kezdeményezheti
 
 a) a nevelőtestület tagjainak legalább húsz százaléka,
 
@@ -10,21 +10,21 @@ c) az iskolai diákönkormányzat képviselője, iskolai diákönkormányzat hi�
 
 d) az intézmény fenntartásáért, működtetésért felelős jogi személy, intézményfenntartó,
 
-e)[^309] az intézmény székhelye szerinti egyházi jogi személyek képviselői,
+e)[^317] az intézmény székhelye szerinti egyházi jogi személyek képviselői,
 
 f) az intézmény székhelye szerinti települési önkormányzat,
 
-g)[^310] a települési, területi nemzetiségi önkormányzat, térségi vagy országos feladatot ellátó iskola esetén – amennyiben nem az iskola fenntartója – az országos nemzetiségi önkormányzat [ezen alcím tekintetében az a)–g) pont alattiak a továbbiakban együtt: érdekeltek].
+g)[^318] a települési, területi nemzetiségi önkormányzat, térségi vagy országos feladatot ellátó iskola esetén – amennyiben nem az iskola fenntartója – az országos nemzetiségi önkormányzat [ezen alcím tekintetében az a)–g) pont alattiak a továbbiakban együtt: érdekeltek].
 
-h)[^311]
+h)[^319]
 
-(2)–(4)[^312]
+(2)–(4)[^320]
 
 (5) Az iskola igazgatója, ha bármelyik érdekelt kezdeményezi az intézményi tanács létrehozását, a kezdeményezéstől számított harminc napon belül az intézményi tanács munkájában részt vevő érdekeltek által delegált, azonos számú képviselőből álló bizottságot hoz létre az intézményi tanács megalakításának előkészítéséhez.
 
-(5a)[^313] Az Nkt. 73. § (4) bekezdése alapján létrehozott intézményi tanácsban – amennyiben a nevelési, oktatási intézmény kizárólag nagykorúak felnőttoktatását folytatja – a szülők delegáltjai helyett az intézménnyel tanulói jogviszonyban álló tanulók legalább húsz százalékát képviselő tanulói delegált vehet részt.
+(5a)[^321] Az Nkt. 73. § (4) bekezdése alapján létrehozott intézményi tanácsban – amennyiben a nevelési, oktatási intézmény kizárólag nagykorúak felnőttoktatását folytatja – a szülők delegáltjai helyett az intézménnyel tanulói jogviszonyban álló tanulók legalább húsz százalékát képviselő tanulói delegált vehet részt.
 
-(5b)[^314] Az intézményi tanács ügyrendje a működésével összefüggésben az Nkt. 44. § (13) bekezdése alapján nyilvántartott, az intézményi tanácsra vonatkozó adatokon kívül tartalmazza:
+(5b)[^322] Az intézményi tanács ügyrendje a működésével összefüggésben az Nkt. 44. § (13) bekezdése alapján nyilvántartott, az intézményi tanácsra vonatkozó adatokon kívül tartalmazza:
 
 a) amennyiben azt az Nkt. 73. § (3) bekezdése alapján hozták létre, ennek tényét, a célját, és feladatait,
 
@@ -46,13 +46,13 @@ c) azokban az ügyekben, amelyekben a nevelőtestület a döntési jogot az int�
 
 (8) Az intézményi tanács feladatai ellátásához térítésmentesen használhatja az iskola helyiségeit, berendezéseit, ha ezzel nem akadályozza az iskola működését.
 
-(9)[^315]
+(9)[^323]
 
-[^308]: A 121. § (1) bekezdés nyitó szövegrésze a 45/2014. (X. 27.) EMMI rendelet 54. § 24. pontja szerint módosított szöveg.
-[^309]: A 121. § (1) bekezdés e) pontja a 20/2019. (VIII. 30.) EMMI rendelet 24. § 6. pontja szerint módosított szöveg.
-[^310]: A 121. § (1) bekezdés g) pontja a 31/2020. (VIII. 31.) EMMI rendelet 10. §-ával megállapított szöveg.
-[^311]: A 121. § (1) bekezdés h) pontját a 22/2013. (III. 22.) EMMI rendelet 22. § (2) bekezdése iktatta be, hatályon kívül helyezte a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 20. pontja.
-[^312]: A 121. § (2)–(4) bekezdését a 45/2014. (X. 27.) EMMI rendelet 55. § e) pontja hatályon kívül helyezte.
-[^313]: A 121. § (5a) bekezdését a 45/2014. (X. 27.) EMMI rendelet 26. §-a iktatta be.
-[^314]: A 121. § (5b) bekezdését a 45/2014. (X. 27.) EMMI rendelet 26. §-a iktatta be.
-[^315]: A 121. § (9) bekezdését a 45/2014. (X. 27.) EMMI rendelet 55. § e) pontja hatályon kívül helyezte.
+[^316]: A 121. § (1) bekezdés nyitó szövegrésze a 45/2014. (X. 27.) EMMI rendelet 54. § 24. pontja szerint módosított szöveg.
+[^317]: A 121. § (1) bekezdés e) pontja a 20/2019. (VIII. 30.) EMMI rendelet 24. § 6. pontja szerint módosított szöveg.
+[^318]: A 121. § (1) bekezdés g) pontja a 31/2020. (VIII. 31.) EMMI rendelet 10. §-ával megállapított szöveg.
+[^319]: A 121. § (1) bekezdés h) pontját a 22/2013. (III. 22.) EMMI rendelet 22. § (2) bekezdése iktatta be, hatályon kívül helyezte a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 20. pontja.
+[^320]: A 121. § (2)–(4) bekezdését a 45/2014. (X. 27.) EMMI rendelet 55. § e) pontja hatályon kívül helyezte.
+[^321]: A 121. § (5a) bekezdését a 45/2014. (X. 27.) EMMI rendelet 26. §-a iktatta be.
+[^322]: A 121. § (5b) bekezdését a 45/2014. (X. 27.) EMMI rendelet 26. §-a iktatta be.
+[^323]: A 121. § (9) bekezdését a 45/2014. (X. 27.) EMMI rendelet 55. § e) pontja hatályon kívül helyezte.

@@ -2,11 +2,11 @@
 
 184/R. § (1) A képesítővizsga vizsgabizottsága egy elnökből és három értékelést, mérést végző szakértőből áll. A vizsgabizottság tagjainak kiválasztása szakértői pályázat útján történik.
 
-(2)[^612] A szakértői pályázat részletes szabályait a miniszter a hivatal honlapján teszi közzé.
+(2)[^620] A szakértői pályázat részletes szabályait a miniszter a hivatal honlapján teszi közzé.
 
 (3) A szakértői pályázatot elbíráló bizottságot a hivatal működteti, a bizottság évente legalább két alkalommal ülésezik.
 
-(4)[^613] A vizsgabizottság tagjait a miniszter bízza meg.
+(4)[^621] A vizsgabizottság tagjait a miniszter bízza meg.
 
-[^612]: A 184/R. § (2) bekezdése az 52/2022. (XII. 27.) BM rendelet 24. § a) pontja szerint módosított szöveg.
-[^613]: A 184/R. § (4) bekezdése az 52/2022. (XII. 27.) BM rendelet 24. § a) pontja szerint módosított szöveg.
+[^620]: A 184/R. § (2) bekezdése az 52/2022. (XII. 27.) BM rendelet 24. § a) pontja szerint módosított szöveg.
+[^621]: A 184/R. § (4) bekezdése az 52/2022. (XII. 27.) BM rendelet 24. § a) pontja szerint módosított szöveg.

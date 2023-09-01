@@ -16,7 +16,7 @@ a) fenntartó,
 
 b) települési, területi nemzetiségi önkormányzat, térségi vagy országos feladatot ellátó iskola esetén az országos nemzetiségi önkormányzat, ha nem az iskola fenntartója,
 
-c)[^316]
+c)[^324]
 
 (4) Az iskolaszékbe
 
@@ -40,7 +40,7 @@ b) tisztségviselőinek megválasztásáról, továbbá
 
 c) azokban az ügyekben, amelyekben a nevelőtestület a döntési jogot az iskolaszékre átruházza.
 
-(8)[^317] Az iskolaszék részt vesz a tanulók jogainak érvényesítésével, kötelezettségeinek teljesítésével összefüggésben a nevelési-oktatási intézmény által hozott döntések, intézkedések ellen benyújtott kérelmek elbírálásában.
+(8)[^325] Az iskolaszék részt vesz a tanulók jogainak érvényesítésével, kötelezettségeinek teljesítésével összefüggésben a nevelési-oktatási intézmény által hozott döntések, intézkedések ellen benyújtott kérelmek elbírálásában.
 
 (9) Az iskolaszék véleményt nyilváníthat a nevelési-oktatási intézmény működésével kapcsolatos valamennyi kérdésben. Ki kell kérni az iskolaszék véleményét a pedagógiai program, az SZMSZ, továbbá a házirend elfogadása előtt.
 
@@ -48,5 +48,5 @@ c) azokban az ügyekben, amelyekben a nevelőtestület a döntési jogot az isko
 
 (11) Az óvodaszék, a kollégiumi szék, az intézményi szék, az általános művelődési központban (a továbbiakban: ÁMK) az ÁMK-szék megalakulására, működésére, jogállására, feladataira az iskolaszékre vonatkozó rendelkezéseket kell alkalmazni, azzal az eltéréssel, hogy az óvodaszék tekintetében a diákönkormányzatra vonatkozó rendelkezéseket nem kell alkalmazni, az ÁMK-szék tevékenysége pedig kiterjed a nem köznevelési feladatokat ellátó intézményegységekre is, és tagjai közé – az érdekeltek megállapodása alapján – a (3) bekezdésben felsoroltak mellett más szerv, szervezet is delegálhat egy képviselőt.
 
-[^316]: A 122. § (3) bekezdés c) pontját a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 21. pontja hatályon kívül helyezte.
-[^317]: A 122. § (8) bekezdése a 36/2012. (XI. 14.) EMMI rendelet 11. § c) pontja szerint módosított szöveg.
+[^324]: A 122. § (3) bekezdés c) pontját a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 21. pontja hatályon kívül helyezte.
+[^325]: A 122. § (8) bekezdése a 36/2012. (XI. 14.) EMMI rendelet 11. § c) pontja szerint módosított szöveg.

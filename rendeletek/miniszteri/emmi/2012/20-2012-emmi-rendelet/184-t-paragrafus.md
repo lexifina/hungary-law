@@ -1,3 +1,3 @@
-184/T. §[^614] A miniszter hatáskörébe tartozó szakképesítések megfeleltetését a 10. melléklet határozza meg.
+184/T. §[^622] A miniszter hatáskörébe tartozó szakképesítések megfeleltetését a 10. melléklet határozza meg.
 
-[^614]: A 184/T. § az 52/2022. (XII. 27.) BM rendelet 24. § c) pontja szerint módosított szöveg.
+[^622]: A 184/T. § az 52/2022. (XII. 27.) BM rendelet 24. § c) pontja szerint módosított szöveg.

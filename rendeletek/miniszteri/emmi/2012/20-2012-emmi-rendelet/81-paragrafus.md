@@ -1,6 +1,6 @@
-## 26. [^252] A tanulók fizikai állapotának és edzettségének (fizikai fittségének) mérése
+## 26. [^260] A tanulók fizikai állapotának és edzettségének (fizikai fittségének) mérése
 
-81. §[^253] (1) A tanulók fizikai állapotának és edzettségének mérését (a továbbiakban: fizikai fittségi mérés)
+81. §[^261] (1) A tanulók fizikai állapotának és edzettségének mérését (a továbbiakban: fizikai fittségi mérés)
 
 a) – a b)–d) pontban foglalt kivétellel – az iskola testnevelés vagy mozgásnevelés tantárgyat tanító pedagógusa,
 
@@ -20,8 +20,8 @@ végzi el.
 
 (3) A fizikai fittségi mérések egyes tanulókra vonatkozó, adott tanévben rögzített adatait az érintett pedagógusok, továbbá köznevelési intézmények vezetői tanévenként elemzik, és meghatározzák az adott tanuló fizikai fittségi szintjének további fejlesztése szempontjából – elsősorban az iskolai testnevelés tantárgy, valamint az egészségügyi és pedagógiai célú habilitációs és rehabilitációs tanórai foglalkozás, valamint a gyógytestnevelés keretei között – szükséges intézkedéseket.
 
-(4)[^254] A tanulók fizikai fittségi mérésének részletes szabályait a miniszter az általa vezetett minisztérium honlapján teszi közzé.
+(4)[^262] A tanulók fizikai fittségi mérésének részletes szabályait a miniszter az általa vezetett minisztérium honlapján teszi közzé.
 
-[^252]: A 26. alcím (81. §) a 45/2014. (X. 27.) EMMI rendelet 24. §-ával megállapított szöveg.
-[^253]: A 81. § a 20/2019. (VIII. 30.) EMMI rendelet 9. §-ával megállapított szöveg.
-[^254]: A 81. § (4) bekezdése az 52/2022. (XII. 27.) BM rendelet 24. § a) pontja szerint módosított szöveg.
+[^260]: A 26. alcím (81. §) a 45/2014. (X. 27.) EMMI rendelet 24. §-ával megállapított szöveg.
+[^261]: A 81. § a 20/2019. (VIII. 30.) EMMI rendelet 9. §-ával megállapított szöveg.
+[^262]: A 81. § (4) bekezdése az 52/2022. (XII. 27.) BM rendelet 24. § a) pontja szerint módosított szöveg.

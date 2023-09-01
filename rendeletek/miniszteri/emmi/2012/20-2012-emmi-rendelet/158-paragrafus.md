@@ -24,13 +24,13 @@ a) anyanyelvű nevelés-oktatás: a magyar nyelv és irodalom, valamint az idege
 
 b) kétnyelvű nemzetiségi nevelés-oktatás: az anyanyelv és irodalom mellett a pedagógiai program által meghatározott legalább három tantárgyat a nemzetiség nyelvén kell oktatni összesen a heti kötelező órakeret magyar nyelv és irodalom, valamint idegen nyelv óraszámával csökkentett számának legalább ötven százalékában;
 
-c)[^470] nyelvoktató nemzetiségi nevelés-oktatás: a hagyományos nyelvoktató nemzetiségi nevelés-oktatásban a tanítás nyelve a magyar nyelv, a nemzetiségi nyelv és irodalom és a népismeret tantárgyak oktatása folyik nemzetiségi nyelven; a bővített nyelvoktató nemzetiségi nevelésben-oktatásban legalább három tantárgyat a nemzetiség nyelvén kell tanítani, a nemzetiségi nyelv és irodalom, valamint a nemzetiségi nyelvű órák aránya a heti órakeret magyar nyelv és irodalom, valamint idegen nyelv óraszámával csökkentett számának legalább harmincöt százalékát teszik ki;
+c)[^478] nyelvoktató nemzetiségi nevelés-oktatás: a hagyományos nyelvoktató nemzetiségi nevelés-oktatásban a tanítás nyelve a magyar nyelv, a nemzetiségi nyelv és irodalom és a népismeret tantárgyak oktatása folyik nemzetiségi nyelven; a bővített nyelvoktató nemzetiségi nevelésben-oktatásban legalább három tantárgyat a nemzetiség nyelvén kell tanítani, a nemzetiségi nyelv és irodalom, valamint a nemzetiségi nyelvű órák aránya a heti órakeret magyar nyelv és irodalom, valamint idegen nyelv óraszámával csökkentett számának legalább harmincöt százalékát teszik ki;
 
 d) magyar nyelvű roma vagy cigány nemzetiségi nevelés-oktatás: biztosítja a roma vagy cigány tanulók számára a romák, a cigányság kulturális értékeinek megismerését, a romák vagy cigányok történelméről, irodalmáról, képzőművészetéről, zenei és tánckultúrájáról, valamint hagyományairól szóló ismeretek oktatását;
 
-e)[^471] kiegészítő nemzetiségi nyelvoktatás: a nemzetiségi nyelv és irodalom, továbbá a nemzetiségi népismeret elsajátítását biztosító iskola, amely egy adott iskola szervezeti egységeként, külön nyelvoktató nemzetiségi iskola létrehozásával vagy utazó pedagógusok alkalmazásával szervezhető meg; tartalmára és időkeretére a nyelvoktató nemzetiségi nevelés-oktatás előírásai érvényesek.
+e)[^479] kiegészítő nemzetiségi nyelvoktatás: a nemzetiségi nyelv és irodalom, továbbá a nemzetiségi népismeret elsajátítását biztosító iskola, amely egy adott iskola szervezeti egységeként, külön nyelvoktató nemzetiségi iskola létrehozásával vagy utazó pedagógusok alkalmazásával szervezhető meg; tartalmára és időkeretére a nyelvoktató nemzetiségi nevelés-oktatás előírásai érvényesek.
 
 (8) Bármely nevelési-oktatási forma esetében a készségtárgyakra előírt óraszámokból évi harminchét óra átcsoportosítható a nemzetiségi nyelv és irodalom vagy a nemzetiségi népismeret oktatására.
 
-[^470]: A 158. § (7) bekezdés c) pontja a 37/2021. (VIII. 31.) EMMI rendelet 23. § (1) bekezdés 24. pont a) pontja szerint módosított szöveg.
-[^471]: A 158. § (7) bekezdés e) pontja a 37/2021. (VIII. 31.) EMMI rendelet 23. § (1) bekezdés 24. pont b) pontja szerint módosított szöveg.
+[^478]: A 158. § (7) bekezdés c) pontja a 37/2021. (VIII. 31.) EMMI rendelet 23. § (1) bekezdés 24. pont a) pontja szerint módosított szöveg.
+[^479]: A 158. § (7) bekezdés e) pontja a 37/2021. (VIII. 31.) EMMI rendelet 23. § (1) bekezdés 24. pont b) pontja szerint módosított szöveg.
