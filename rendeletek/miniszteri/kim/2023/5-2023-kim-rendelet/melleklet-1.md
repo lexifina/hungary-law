@@ -1,3 +1,3 @@
-1. melléklet az 5/2023. (VII. 27.) KIM rendelethez[^10]
+1. melléklet az 5/2023. (VII. 27.) KIM rendelethez[^12]
 
-[^10]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
