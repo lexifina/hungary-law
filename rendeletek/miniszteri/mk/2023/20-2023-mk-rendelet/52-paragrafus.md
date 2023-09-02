@@ -1,9 +1,3 @@
-52. § Hatályát veszti
+52. §[^2]
 
-a) a belügyminiszter irányítása alá tartozó rendvédelmi feladatokat ellátó szervek hivatásos szolgálati viszonyban álló tagjai illetményének és egyéb juttatásainak megállapításáról, valamint a folyósítás szabályairól szóló 33/2015. (VI. 16.) BM rendelet
-
-aa) 1. § (2) bekezdése,
-
-ab) 21. § (3) bekezdése;
-
-b) az Információs Hivatal hivatásos állományú tagjainak illetményéről, juttatásairól, valamint a folyósítás és költségtérítés szabályairól szóló 30/2017. (XI. 28.) MvM rendelet.
+[^2]: Az 52. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
