@@ -1,3 +1,1 @@
-7. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény 107. §-a a következő (11) bekezdéssel egészül ki:
-
-„(11) Az ajánlatkérő a közbeszerzési dokumentumokban (a részvételi vagy az ajánlattételi szakaszban) rendelkezhet úgy is, hogy az ajánlatok bírálatát az ajánlatok értékelését követően végzi el. Ebben az esetben csak az értékelési sorrendben legkedvezőbb vagy a legkedvezőbb és az azt követő egy vagy több legkedvezőbb ajánlatot tett ajánlattevő tekintetében végzi el a bírálatot. A bírálat során biztosítani kell, hogy a nyertes – és ha az összegezésben meg kívánja nevezni, a második legkedvezőbb ajánlatot tett – ajánlattevő ajánlatának érvényességét az eljárást lezáró döntést megelőzően az ajánlatkérő teljeskörűen elbírálja.”
+### 7. §
