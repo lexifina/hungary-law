@@ -1,5 +1,5 @@
 ## 1. Az egyes vasúti utazási kedvezményekről szóló 57/2009. (X. 20.) KHEM rendelet módosítása
 
-1. § Az egyes vasúti utazási kedvezményekről szóló 57/2009. (X. 20.) KHEM rendelet (a továbbiakban: R1.) 2. § (2) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(2) Az eltartott gyermeknek kedvezmény iskolai tanulmányok címén a tanulmányok befejezése hónapjának végéig, illetve a nyári tanítási, illetve tanulmányi szünet tartamára is jár. A tanulmányok folytatását a tankötelezettség megszűnését követően érvényes diákigazolvánnyal vagy az oktatási igazolványokról szóló 362/2011. (XII. 30.) Korm. rendelet 12. § (1) bekezdésében meghatározott igazolással középiskolai tanulmányok esetén évente, felsőfokú tanulmányok esetén félévente, a tanulmányok megkezdésétől számított egy hónapon belül kell igazolni. A kedvezményre való jogosultságot nem érinti, ha a középiskola tanulójának a tanulói jogviszonya vagy a felsőoktatási intézmény hallgatójának a hallgatói jogviszonya az oktatási intézmény igazolása szerint a tanuló vagy a hallgató betegsége, szülése, balesete vagy más váratlan ok miatt, önhibáján kívül szünetel.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

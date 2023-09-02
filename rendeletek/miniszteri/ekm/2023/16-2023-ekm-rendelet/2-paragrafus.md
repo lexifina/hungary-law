@@ -1,3 +1,3 @@
-2. § Az R1. 8. § (3) bekezdése helyébe a következő rendelkezés lép:
+2. §[^3]
 
-„(3) Az igényjogosult hozzátartozó kérelméhez mellékelni kell az igényjogosult hozzátartozói kapcsolatot igazoló közokiratot, valamint eltartott gyermek esetében, ha szükséges, a rokkantság igazolását, illetve a tankötelezettségének megszűnését követően az érvényes diákigazolvány másolatát vagy az oktatási igazolványokról szóló 362/2011. (XII. 30.) Korm. rendelet 12. § (1) bekezdésében meghatározott igazolást.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
