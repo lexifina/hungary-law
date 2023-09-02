@@ -1,3 +1,3 @@
-22. § A HasználtCSOKr. 30. § (5) bekezdés i) pontja helyébe a következő rendelkezés lép:
+22. §[^23]
 
-(A családi otthonteremtési kedvezmény igénylésekor az igénylő a büntetőjogi felelősség vállalásával tett nyilatkozat helyett – választása szerint – a következők szerint igazolhatja a kedvezményre való jogosultság feltételeinek meglétét:)
+[^23]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

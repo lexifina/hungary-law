@@ -1,5 +1,3 @@
-7. § Hatályát veszti a Cst. vhr.
+7. §[^8]
 
-a) 2. § (3) bekezdése,
-
-b) 5/a. számú melléklet 1.3. pontjában a „ , vagy – ha a kérelmező nem rendelkezik bankszámlaszámmal, akkor a postai úton (pénzfogalmi számláról történő készpénzkifizetés kézbesítése útján) történő folyósítás kérelmezése esetén – a folyósítási cím” szövegrész.
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

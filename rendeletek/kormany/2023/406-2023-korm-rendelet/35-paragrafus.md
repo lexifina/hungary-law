@@ -1,5 +1,3 @@
-35. § Hatályát veszti a JTCSr.
+35. §[^36]
 
-a) 4. § (1) bekezdés b) pontjában az „a 6. § (1) bekezdése szerinti,” szövegrész,
-
-b) 12. § (1a) bekezdés záró szövegrészében az „ , azzal, hogy e határidőnek az igénylő önhibáján kívüli okból történő elmulasztása esetén igazolási kérelem előterjesztésének van helye” szövegrész.
+[^36]: A 35. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

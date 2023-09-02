@@ -1,3 +1,3 @@
-29. § A JTCSr. 7. § (2) bekezdése helyébe a következő rendelkezés lép:
+29. §[^30]
 
-„(2) Ha a kérelem benyújtásának időpontjában az igénylő lakáscélú jelzáloghitel-tőketartozása és annak járulékai összege alacsonyabb az igénybe vehető támogatás összegénél, az igénylő legfeljebb a tőketartozás és annak járulékai összegének megfelelő támogatásra jogosult. Ha a kérelem benyújtása időpontjában az igénylő már folyósított lakáscélú jelzáloghitel-tőketartozása és annak járulékai összege valamely okból – különösen építési célú jelzáloghitel kölcsönösszegének szakaszos folyósítása miatt – alacsonyabb, mint a megkötött jelzáloghitel-szerződésben meghatározott teljes kölcsönösszeg, akkor az igénylő a szerződés szerinti teljes kölcsönösszeg tekintetében jogosult az (1) bekezdés szerinti támogatási összegre, a 14. § (1a) bekezdése szerinti folyósítási szabály alkalmazásával.”
+[^30]: A 29. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

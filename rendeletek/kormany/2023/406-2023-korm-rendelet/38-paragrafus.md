@@ -1,5 +1,5 @@
 ## 6. A babaváró támogatásról szóló 44/2019. (III. 12.) Korm. rendelet módosítása
 
-38. § A babaváró támogatásról szóló 44/2019. (III. 12.) Korm. rendelet (a továbbiakban: Babaváró r.) 2. § (1) bekezdés 5. pontja helyébe a következő rendelkezés lép:
+38. §[^39]
 
-(E rendelet alkalmazásában:)
+[^39]: A 38. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

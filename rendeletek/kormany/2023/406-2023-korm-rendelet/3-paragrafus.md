@@ -1,3 +1,3 @@
-3. § A Cst. vhr. 5/A. §-a a következő (2a) bekezdéssel egészül ki:
+3. §[^4]
 
-„(2a) Ha az (1) bekezdés szerinti személy házasságot köt, és tartásáról nem a szülő gondoskodik, akkor azonos lakcím esetén is úgy kell tekinteni, hogy a szülővel nem él egy háztartásban.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
