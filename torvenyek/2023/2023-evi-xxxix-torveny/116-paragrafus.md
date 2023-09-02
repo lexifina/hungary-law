@@ -4,6 +4,4 @@
 
 (2)
 
-(3) A Hpt. 6. § (5) bekezdése a következő f) ponttal egészül ki:
-
-(Nem minősül pénzkölcsön nyújtásának)
+(3)
