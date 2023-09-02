@@ -1,3 +1,3 @@
-1. § A szakdiplomata-álláshely létesítésére, valamint a szakdiplomata felkészítésére és szakmai irányítására vonatkozó részletes szabályokról szóló 239/2017. (VIII. 18.) Korm. rendelet (a továbbiakban: Korm. rendelet) 2. § (1) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(1) Szakdiplomata-álláshely létesítése érdekében a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény (a továbbiakban: Külszoltv.) 2. § 17b. pontja szerinti szakminiszter (a továbbiakban: szakminiszter) nyújt be előterjesztést – a Külszoltv. 2. § 12. pontja szerinti kihelyező vezetővel (a továbbiakban: kihelyező vezető) történő egyeztetést követően – a Kormány részére.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
