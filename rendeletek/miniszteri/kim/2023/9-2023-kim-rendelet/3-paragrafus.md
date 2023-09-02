@@ -1,3 +1,3 @@
-3. §[^2]
+3. §[^3]
 
-[^2]: A 3. § az 5. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^3]: A 3. § az 5. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
