@@ -1,1 +1,3 @@
-8. § A 238/2005. (X. 25.) Korm. rendelet 1. melléklete helyébe az 1. melléklet lép.
+8. §[^9]
+
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

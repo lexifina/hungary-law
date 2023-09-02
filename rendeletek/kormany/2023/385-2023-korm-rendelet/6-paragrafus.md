@@ -1,5 +1,3 @@
-6. § Hatályát veszti a 191/2001. (X. 18.) Korm. rendelet
+6. §[^7]
 
-a) 5/C. §-a,
-
-b) 5/A. § (2a) bekezdésében az „és (2c)” szövegrész.
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
