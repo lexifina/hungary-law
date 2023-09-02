@@ -1,5 +1,5 @@
 ## 2. A közjegyzői ügyvitel szabályairól szóló 29/2019. (XII. 20.) IM rendelet módosítása
 
-4. § A közjegyzői ügyvitel szabályairól szóló 29/2019. (XII. 20.) IM rendelet (a továbbiakban: Küsz.) 35. § (3) bekezdése a következő 20. ponttal egészül ki:
+4. §[^4]
 
-[Az (1) és (2) bekezdésben említett ügyön kívül befejezett az az ügy is]
+[^4]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

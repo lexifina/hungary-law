@@ -1,7 +1,3 @@
-## „20. az alzálogjog fennállásának igazolására irányuló eljárásban, amelyben a közjegyző vagy a közjegyzőhelyettes
+5. §[^5]
 
-## a) bizonyítványt állított ki,
-
-## b) a bizonyítvány kiállítását megtagadta.”
-
-5. § A Küsz. 1. melléklete az 1. melléklet szerint módosul.
+[^5]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
