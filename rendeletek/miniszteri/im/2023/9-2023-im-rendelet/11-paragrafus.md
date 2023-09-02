@@ -1,1 +1,3 @@
-11. § Hatályát veszti a pártfogó felügyelői, jogi segítségnyújtó és áldozatsegítő szolgálatként, valamint kárpótlási hatóságként kijelölt szervnél működő pártfogó felügyelők, kormánytisztviselők és kormányzati ügykezelők ügyviteli vizsgájáról szóló 22/2010. (XII. 28.) KIM rendelet.
+11. §[^1]
+
+[^1]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
