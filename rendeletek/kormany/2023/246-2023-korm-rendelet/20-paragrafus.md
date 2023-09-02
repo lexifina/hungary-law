@@ -1,3 +1,5 @@
 ## 11. A Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet módosítása
 
-20. § A Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 130. § (2) bekezdés c) pontjában az „az Eötvös Loránd Kutatási” szövegrész helyébe az „a Magyar Kutatási” szöveg lép.
+20. §[^26]
+
+[^26]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
