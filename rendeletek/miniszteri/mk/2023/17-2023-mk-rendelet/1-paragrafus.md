@@ -1,1 +1,3 @@
-1. § A polgári nemzetbiztonsági szolgálatok hivatásos és rendvédelmi igazgatási szolgálati jogviszonyú állománya részére adható szociális támogatásról és a kegyeleti gondoskodással kapcsolatos egyes feladatokról szóló 9/2023. (IV. 27.) MK rendelet 11. § (4) bekezdésében a „ , valamint beiskolázási segély kérelem esetén a 6–8 év közötti gyermek esetében tanulói jogviszony igazolását” szövegrész helyébe az „esetében az érvényes diákigazolványának másolatát” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
