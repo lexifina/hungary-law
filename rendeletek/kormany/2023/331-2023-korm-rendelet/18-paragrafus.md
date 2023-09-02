@@ -1,11 +1,11 @@
 ## 11. Záró rendelkezések
 
-18. § (1)[^15] Ez a rendelet – az (1a) és (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+18. § (1)[^19] Ez a rendelet – az (1a) és (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
 
-(1a)[^16] A 7. alcím 2023. augusztus 9-én lép hatályba.
+(1a)[^20] A 7. alcím 2023. augusztus 9-én lép hatályba.
 
-(2)[^17] A 8. és 10. alcím 2023. szeptember 1-jén lép hatályba.
+(2)[^21] A 8. és 10. alcím 2023. szeptember 1-jén lép hatályba.
 
-[^15]: A 18. § (1) bekezdése a 349/2023. (VII. 27.) Korm. rendelet 28. § a) pontja szerint módosított szöveg.
-[^16]: A 18. § (1a) bekezdését a 349/2023. (VII. 27.) Korm. rendelet 27. §-a iktatta be.
-[^17]: A 18. § (2) bekezdése a 349/2023. (VII. 27.) Korm. rendelet 28. § b) pontja szerint módosított szöveg.
+[^19]: A 18. § (1) bekezdése a 349/2023. (VII. 27.) Korm. rendelet 28. § a) pontja szerint módosított szöveg.
+[^20]: A 18. § (1a) bekezdését a 349/2023. (VII. 27.) Korm. rendelet 27. §-a iktatta be.
+[^21]: A 18. § (2) bekezdése a 349/2023. (VII. 27.) Korm. rendelet 28. § b) pontja szerint módosított szöveg.

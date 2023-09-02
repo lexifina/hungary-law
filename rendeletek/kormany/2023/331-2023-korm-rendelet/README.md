@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-331-20-
 | 2023-08-09 | 2023-331-20-22.6 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2023-08-10 | 2023-331-20-22.7 | 2010. évi CXXX. törvény |
 | 2023-09-01 | 2023-331-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2023-09-02 | 2023-331-20-22.4 | 2010. évi CXXX. törvény |

@@ -1,3 +1,5 @@
 ## 10. Az innovációs és tudományos eredmények gazdasági hasznosításának elősegítése érdekében szükséges egyes kormányrendeletek módosításáról szóló 246/2023. (VI. 22.) Korm. rendelet eltérő szöveggel történő hatályba léptetéséről
 
-17. § Az innovációs és tudományos eredmények gazdasági hasznosításának elősegítése érdekében szükséges egyes kormányrendeletek módosításáról szóló 246/2023. (VI. 22.) Korm. rendelet 4. §-ának a Magyar Formatervezési Tanácsról szóló 266/2001. (XII. 21.) Korm. rendelet 6. §-át megállapító rendelkezése az „az innovációs és tudományos eredmények gazdasági hasznosításának elősegítése érdekében szükséges egyes kormányrendeletek módosításáról szóló 246/2023. (VI. 22.) Korm. rendelet (a továbbiakban: MódKr.) hatálybalépésekor fennálló megbízatása a MódKr. hatálybalépésével egyidejűleg” szövegrész helyett az „az e § hatálybalépésekor fennálló megbízatása e § hatálybalépésekor” szöveggel lép hatályba.
+17. §[^18]
+
+[^18]: A 17. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
