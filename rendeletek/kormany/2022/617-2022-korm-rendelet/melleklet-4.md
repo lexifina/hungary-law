@@ -1,3 +1,3 @@
-4. melléklet a 617/2022. (XII. 29.) Korm. rendelethez[^32]
+4. melléklet a 617/2022. (XII. 29.) Korm. rendelethez[^34]
 
-[^32]: A 4. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^34]: A 4. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

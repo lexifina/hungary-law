@@ -1,3 +1,3 @@
-13. § Az Fkr. a következő 64. §-sal egészül ki:
+13. §[^14]
 
-„64. § E rendeletnek az egyes felsőoktatási tárgyú és kapcsolódó kormányrendeletek módosításáról szóló 617/2022. (XII. 29.) Korm. rendelettel módosított 15/A. §-át a 2024. évi általános felvételi eljárásban kell először alkalmazni.”
+[^14]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

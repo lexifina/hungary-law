@@ -1,3 +1,3 @@
-1. melléklet a 617/2022. (XII. 29.) Korm. rendelethez[^29]
+1. melléklet a 617/2022. (XII. 29.) Korm. rendelethez[^31]
 
-[^29]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^31]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

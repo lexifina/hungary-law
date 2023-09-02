@@ -1,3 +1,3 @@
-28. §[^27]
+28. §[^29]
 
-[^27]: A 28. § a 331/2023. (VII. 19.) Korm. rendelet 15. §-a alapján nem lép hatályba.
+[^29]: A 28. § a 331/2023. (VII. 19.) Korm. rendelet 15. §-a alapján nem lép hatályba.

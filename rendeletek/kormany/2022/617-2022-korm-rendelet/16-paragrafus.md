@@ -1,35 +1,5 @@
 ## 6. A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény egyes rendelkezéseinek végrehajtásáról szóló 87/2015. (IV. 9.) Korm. rendelet módosítása
 
-16. § A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény egyes rendelkezéseinek végrehajtásáról szóló 87/2015. (IV. 9.) Korm. rendelet [a továbbiakban: 87/2015. (IV. 9.) Korm. rendelet] 62. §-a helyébe a következő rendelkezés lép:
+16. §[^17]
 
-„62. § (1) A fogyatékossággal élő hallgatót a felsőoktatási intézmény a 63. §-ban meghatározott szerv által kiadott szakértői vélemény alapján, az egyéni sajátosságok függvényében, figyelemmel az Nftv. 49. § (8) bekezdésére, az alábbi kedvezményekben részesítheti:
-
-a) írásbeli helyett szóbeli vagy szóbeli helyett írásbeli vizsga alkalmazása,
-
-b) a vizsgák során a nem fogyatékossággal élő hallgatókra megállapított felkészülési, válaszadási időnél hosszabb idő biztosítása,
-
-c) a hallgató tanulmányai alatt és vizsgái során a fogyatékosságnak megfelelő segédeszközök, berendezési tárgyak alkalmazása,
-
-d) a hallgató tanulmányai alatt és vizsgái során személyi segítő, jelnyelvi, orális vagy jegyzetelő tolmács biztosítása,
-
-e) az érthetőség és a megértés szempontjából az előadásokon és vizsgákon az elhangzottak egyidejű írásban való megjelenítése, audiovizuális szemléltetés, pontírás, nagyítás használatának lehetővé tétele,
-
-f) vizsgáknál a hallgató várakozási idejének minimálisra csökkentése, a hosszabb időtartamú vizsga több részletben való megtartása, vagy a vizsga helyiségének elhagyása nélküli szünetek alkalmazása,
-
-g) a szóbeli vizsgáztatás során – hallgatói igény esetén – a kérdések leírása, az elvárások és kérdések tisztázása, a feltett kérdések, utasítások megfogalmazásának pontosítása,
-
-h) egyéni vizsga engedélyezése,
-
-i) mentesítés a manuális készségeket igénylő feladatok alól azzal, hogy az elméleti ismeretek megkövetelhetőek,
-
-j) gyakorlati követelmények alóli részleges vagy teljes felmentés, vagy annak más formában történő teljesítése, illetve
-
-k) nyelvismeret mérése, vagy annak egy része, illetve szintje alóli mentesítés.
-
-(2) A hosszabb felkészülési időt a nem fogyatékossággal élő hallgatókra megállapított időtartamhoz képest legalább 30%-kal hosszabb időtartamban kell megállapítani.
-
-(3) Indokolt esetben a hallgató kérelmére, a szakértői vélemény alapján a felsőoktatási intézmény az (1) bekezdésben szabályozott kedvezményektől eltérő, további vagy más kedvezményt is biztosíthat a hallgató részére.
-
-(4) A nyelvvizsga vagy annak egy része, illetve szintje alóli mentesítés megilleti azt a fogyatékossággal élő volt hallgatót, aki záróvizsgát tett, és hallgatói jogviszonya megszűnt, de a szakképzettség megszerzéséhez szükséges nyelvvizsga kötelezettségét nem teljesítette.
-
-(5) A felsőoktatási intézmény a fogyatékossággal nem járó egészségkárosodás, krónikus betegség fennállta esetén a szakorvosi vélemény alapján a hallgatót személyre szabott megsegítésben részesítheti.”
+[^17]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
