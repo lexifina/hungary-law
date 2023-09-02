@@ -1,5 +1,3 @@
-10. § Hatályát veszti a Korm. rendelet
+10. §[^12]
 
-a) 25. § (6) bekezdésében az „és a 26. §” szövegrész,
-
-b) 14. alcíme.
+[^12]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
