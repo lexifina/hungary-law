@@ -40,7 +40,7 @@
 
 3.[^2]
 
-4. Hatályát veszti a 2014–2020 közötti programozási időszakban uniós forrásból megvalósítani tervezett nagyprojektekkel kapcsolatos feladatokról szóló 1374/2017. (VI. 13.) Korm. határozat 1. mellékletében foglalt táblázat 23–26. sora.
+4.[^3]
 
 5. Ez a határozat – a 6. pontban foglalt kivétellel – a közzétételét követő napon lép hatályba.
 
@@ -48,3 +48,4 @@
 
 [^1]: A 2. pont a 6. pont alapján 2023. szeptember 10-én lép hatályba.
 [^2]: A 3. pont a 6. pont alapján 2023. szeptember 10-én lép hatályba.
+[^3]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
