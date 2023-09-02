@@ -1,1 +1,3 @@
-14. § Az R4. 3. § (1) bekezdésében a „Közlekedéstudományi” szövegrész helyébe a „Magyar Közlekedéstudományi és Logisztikai” szöveg lép.
+14. §[^15]
+
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

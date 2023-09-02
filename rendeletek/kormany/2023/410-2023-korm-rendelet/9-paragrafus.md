@@ -1,5 +1,3 @@
-9. § Hatályát veszti az R2.
+9. §[^10]
 
-a) 4. § (2) bekezdés 29. pontjában a „ ; továbbá” szövegrész és
-
-b) 4. § (2a) bekezdés d) pontja.
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,5 @@
 ## 7. A közlekedési igazgatási feladatokkal összefüggő hatósági feladatokat ellátó szervek kijelöléséről szóló 382/2016. (XII. 2.) Korm. rendelet módosítása
 
-7. § A közlekedési igazgatási feladatokkal összefüggő hatósági feladatokat ellátó szervek kijelöléséről szóló 382/2016. (XII. 2.) Korm. rendelet (a továbbiakban: R2.) 4. § (2) bekezdése a következő 33–35. ponttal egészül ki:
+7. §[^8]
 
-(Közúti gépjármű-közlekedési hatóságként a miniszter jár el:)
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

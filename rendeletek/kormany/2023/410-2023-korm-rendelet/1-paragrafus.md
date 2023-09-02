@@ -1,7 +1,5 @@
 ## 1. A közúti járművezetők utánképzéséről szóló 139/1991. (X. 29.) Korm. rendelet módosítása
 
-1. § Hatályát veszti a közúti járművezetők utánképzéséről szóló 139/1991. (X. 29.) Korm. rendelet
+1. §[^2]
 
-a) 4. § (3) bekezdése és
-
-b) 6. számú melléklete.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

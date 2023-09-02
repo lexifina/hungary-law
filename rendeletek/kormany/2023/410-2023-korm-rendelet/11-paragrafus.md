@@ -1,1 +1,3 @@
-11. § Az R3. 5. § (3) bekezdésében a „2022” szövegrész helyébe a „2023” szöveg lép.
+11. §[^12]
+
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

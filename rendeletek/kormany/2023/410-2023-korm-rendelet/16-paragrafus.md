@@ -1,1 +1,3 @@
-16. § Az R5. 4. § (2) bekezdésében a „2022” szövegrész helyébe a „2024” szöveg lép.
+16. §[^17]
+
+[^17]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
