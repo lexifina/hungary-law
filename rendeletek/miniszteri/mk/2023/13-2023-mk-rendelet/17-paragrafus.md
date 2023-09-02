@@ -1,1 +1,3 @@
-17. § Hatályát veszti az Információs Hivatalban rendszeresített szolgálati igazolványról és szolgálati jelvényről szóló 58/2015. (XII. 28.) MvM rendelet.
+17. §[^4]
+
+[^4]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
