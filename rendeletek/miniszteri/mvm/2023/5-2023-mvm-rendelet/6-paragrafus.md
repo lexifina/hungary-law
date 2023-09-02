@@ -1,7 +1,3 @@
-6. § (1) A NEAr. 22. § (11) bekezdése helyébe a következő rendelkezés lép:
+6. §[^7]
 
-„(11) A választás során minden elektor egyszer jogosult szavazni.”
-
-(2) A NEAr. 22. § (12) bekezdése helyébe a következő rendelkezés lép:
-
-„(12) A választás eredményeit tartalmazó jegyzőkönyvek a Tanácsra és a kollégiumokra vonatkozóan tartalmazzák a megválasztott tagok és póttagok adatait.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

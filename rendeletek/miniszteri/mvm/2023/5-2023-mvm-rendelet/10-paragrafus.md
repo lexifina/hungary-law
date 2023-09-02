@@ -1,13 +1,3 @@
-10. § Hatályát veszti a NEAr.
+10. §[^11]
 
-a) 4. § (19) bekezdése,
-
-b) 6. § (9) és (10) bekezdése,
-
-c) 8. § (2) bekezdés b) pontja,
-
-d) 14/B. § (1b) bekezdése,
-
-e) 22. § (1), (5) és (6) bekezdése,
-
-f) 26. § (5) bekezdése.
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

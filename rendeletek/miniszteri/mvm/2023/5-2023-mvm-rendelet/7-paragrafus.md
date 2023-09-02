@@ -1,3 +1,3 @@
-7. § A NEAr. 23. § (5) bekezdése helyébe a következő rendelkezés lép:
+7. §[^8]
 
-„(5) A (2) és (3) bekezdés szerinti jegyzőkönyveket a hivatalos honlapon kell nyilvánosságra hozni az elektori választással kapcsolatos összesített adatok rendelkezésre állását követő öt napon belül.”
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

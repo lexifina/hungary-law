@@ -1,3 +1,3 @@
-5. § A NEAr. 13. §-a a következő (7) bekezdéssel egészül ki:
+5. §[^6]
 
-„(7) Az egyedi támogatási kérelem esetén a legfeljebb hárommillió forint összegű támogatások esetében az elszámolás a 6. § (1a) bekezdése, a hárommillió forintot meghaladó összegű támogatások esetében az elszámolás a 6. § (1) bekezdése szerint történik.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
