@@ -1,65 +1,83 @@
 13. § Az R.
 
-1. 1. § (3) bekezdés e) pontjában az „a DKÜ által ellátott, e rendeletben” szövegrész helyébe az „az e rendeletben” szöveg,
+1. [^25]
 
-2. 2. alcím címében a „Digitális Kormányzati Ügynökség” szövegrész helyébe a „Digitális Kormányzati Ügynökség és a Digitális Magyarország Ügynökség” szöveg,
+2. [^26]
 
-3. 2. § (1) bekezdésében, 14/A. § (3)–(4) és (6) bekezdésében a „DKÜ” szövegrész helyébe a „DKÜ és a DMÜ” szöveg,
+3. [^27]
 
-4. 2. § (4) bekezdésében az „a DKÜ és az NHIT” szövegrész helyébe az „a DKÜ, a DMÜ és az NHIT” szöveg,
+4. [^28]
 
-5. 4. § (2) bekezdésében és 14/A. § (2) bekezdésében a „DKÜ” szövegrész helyébe a „DKÜ – a DMÜ-vel e rendelet szerint együttműködve –” szöveg,
+5. [^29]
 
-6. 5. § (2) bekezdésében a „95/46/EK rendelet” szövegrész helyébe a „95/46/EK irányelv” szöveg,
+6. [^30]
 
-7. 5. § (3) bekezdésében a „DKÜ, az NHIT” szövegrész helyébe a „DKÜ, a DMÜ, az NHIT” szöveg,
+7. [^31]
 
-8. 6. § (2) bekezdésében a „Portálon” szövegrész helyébe a „DKÜ alkalmazáson” szöveg,
+8. [^32]
 
-9. [^11]
+9. [^33]
 
-10. 9. § (4) bekezdésében az „a 8. § (10) bekezdése” szövegrész helyébe az „a 8. § (13) bekezdése” szöveg,
+10. [^34]
 
-11. 9. § (4) bekezdésében az „a 8. § (11) bekezdése” szövegrész helyébe az „a 8. § (14) bekezdése” szöveg,
+11. [^35]
 
-12. 9. § (8) bekezdésében az „a 8. § (1) és (2) bekezdése megfelelően alkalmazandó” szövegrész helyébe az „a 8. § (1)–(5) bekezdése megfelelően alkalmazandó” szöveg,
+12. [^36]
 
-13. [^12]
+13. [^37]
 
-14. [^13]
+14. [^38]
 
-15. [^14]
+15. [^39]
 
-16. [^15]
+16. [^40]
 
-17. [^16]
+17. [^41]
 
-18. [^17]
+18. [^42]
 
-19. [^18]
+19. [^43]
 
-20. 12. § (1) bekezdés b) pontjában az „a 8. § és 11. §” szövegrész helyébe az „a 11. §” szöveg,
+20. [^44]
 
-21. [^19]
+21. [^45]
 
-22. 12. § (2) bekezdésében az „az (1) bekezdés” szövegrész helyébe az „az (1) és (1a) bekezdés” szöveg,
+22. [^46]
 
-23. 12. § (4) bekezdésében a „beszerzési és fejlesztési tervet” szövegrész helyébe a „beszerzési és fejlesztési tervet, tervmódosítást” szöveg,
+23. [^47]
 
-24. 13. § (2c) bekezdés a)–c) pontjában a „beszerzési igény esetében a becsült érték” szövegrészek helyébe a „beszerzési igény esetében a becsült érték csökkenhet, vagy legfeljebb” szöveg,
+24. [^48]
 
-25. 13. § (2c) bekezdés a)–c) pontjában a „változhat” szövegrészek helyébe az „emelkedhet” szöveg,
+25. [^49]
 
-26. 13. § (2c) bekezdés a) pontjában a „10. § vagy 11. §” szövegrész helyébe a „10. §” szöveg,
+26. [^50]
 
-27. 13. § (2c) bekezdés d) pontjában az „egyenértékű vagy ahhoz hasonló” szövegrész helyébe a „műszakilag egyenértékű vagy meghatározó műszaki paramétereiben kedvezőbb” szöveg
+27. [^51]
 
-[^11]: A 13. § 9. pontja a 15. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
-[^12]: A 13. § 13. pontja a 15. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
-[^13]: A 13. § 14. pontja a 15. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
-[^14]: A 13. § 15. pontja a 15. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
-[^15]: A 13. § 16. pontja a 15. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
-[^16]: A 13. § 17. pontja a 15. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
-[^17]: A 13. § 18. pontja a 15. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
-[^18]: A 13. § 19. pontja a 15. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
-[^19]: A 13. § 21. pontja a 15. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^25]: A 13. § 1. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 13. § 2. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 13. § 3. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 13. § 4. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 13. § 5. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: A 13. § 6. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^31]: A 13. § 7. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^32]: A 13. § 8. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^33]: A 13. § 9. pontja a 15. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^34]: A 13. § 10. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^35]: A 13. § 11. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^36]: A 13. § 12. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^37]: A 13. § 13. pontja a 15. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^38]: A 13. § 14. pontja a 15. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^39]: A 13. § 15. pontja a 15. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^40]: A 13. § 16. pontja a 15. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^41]: A 13. § 17. pontja a 15. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^42]: A 13. § 18. pontja a 15. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^43]: A 13. § 19. pontja a 15. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^44]: A 13. § 20. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^45]: A 13. § 21. pontja a 15. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^46]: A 13. § 22. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^47]: A 13. § 23. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^48]: A 13. § 24. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^49]: A 13. § 25. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^50]: A 13. § 26. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^51]: A 13. § 27. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-7. §[^9]
+7. §[^17]
 
-[^9]: A 7. § a 15. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^17]: A 7. § a 15. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.

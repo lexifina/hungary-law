@@ -1,15 +1,9 @@
-3. § (1) Az R. 7. § a) pontja helyébe a következő rendelkezés lép:
+3. § (1)[^11]
 
-(Az érintett szervezet köteles az ott meghatározott struktúra és adattartalom szerint részletezve, a DKÜ alkalmazáson keresztül)
+(2)[^12]
 
-## „a) az éves informatikai beszerzési tervét és az éves informatikai fejlesztési tervét a tárgyévet megelőző év október 31. napjáig, de legkésőbb az érintett szervezetté válástól számított 60. napig,”
+(3)[^13]
 
-## (megküldeni.)
-
-(2)[^6]
-
-(3) Az R. 7. §-a a következő (2) bekezdéssel egészül ki:
-
-„(2) A DKÜ alkalmazáson közzétett struktúra és adattartalmakat a DKÜ határozza meg a DMÜ és az NHIT javaslatait is figyelembe véve.”
-
-[^6]: A 3. § (2) bekezdése a 15. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^11]: A 3. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 3. § (2) bekezdése a 15. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^13]: A 3. § (3) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
