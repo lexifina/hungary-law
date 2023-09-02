@@ -1,1 +1,3 @@
-4. § Az érettségi vizsga vizsgaszabályzatának kiadásáról szóló 100/1997. (VI. 13.) Korm. rendelet 20. § (7) bekezdés f) pontjában a „biztosítani kell” szövegrész helyébe a „mind a szóbeli, mind az írásbeli vizsgán biztosítani kell” szöveg lép.
+4. §[^1]
+
+[^1]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

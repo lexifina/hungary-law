@@ -3250,6 +3250,6 @@
 
 | 1624 | Zala vármegye | Zebecke |
 
-2. melléklet a 402/2023. (VIII. 30.) Korm. rendelethez[^2]
+2. melléklet a 402/2023. (VIII. 30.) Korm. rendelethez[^11]
 
-[^2]: A 2. melléklet a 2. § (2) bekezdés alapján 2024. február 1-jén lép hatályba.
+[^11]: A 2. melléklet a 2. § (2) bekezdés alapján 2024. február 1-jén lép hatályba.
