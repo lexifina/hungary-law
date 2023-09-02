@@ -1,4 +1,4 @@
-## 27. §[^27]
+## 27. §[^29]
 
 ## 5. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 20. § (2) bekezdése 2023. szeptember 1-jén lép hatályba.
 
-[^27]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
