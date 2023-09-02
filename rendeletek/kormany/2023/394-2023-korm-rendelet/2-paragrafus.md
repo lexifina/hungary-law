@@ -1,1 +1,3 @@
-2. § A Kr. 5. § (4) bekezdés b) pontjában az „az újszülöttek járóbeteg-szakellátásban jelenthető szűrővizsgálatát” szövegrész helyébe az „a robotterápiás vagy egyéb computerizált interaktív terápiás egészségügyi eljárásokat, az újszülöttek járóbeteg-szakellátásban jelenthető szűrővizsgálatát” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
