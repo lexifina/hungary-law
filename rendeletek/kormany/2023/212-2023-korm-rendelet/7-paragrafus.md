@@ -1,5 +1,3 @@
-7. § Hatályát veszti az R3.
+7. §[^30]
 
-a) 8. § (1) bekezdésében az „a 9. számú melléklet szerinti adattartalommal rendelkező formanyomtatványnak a jogosult részére történő megküldésével” szövegrész,
-
-b) 9. számú melléklete.
+[^30]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,24 +1,25 @@
 4. § Az R2.
 
-a)[^12]
+a)[^15]
 
-b)[^13]
+b)[^16]
 
-c)[^14]
+c)[^17]
 
-d)[^15]
+d)[^18]
 
-e)[^16]
+e)[^19]
 
-f) 69. § (5) bekezdésében az „igazolást. Az igazolás” szövegrész helyébe a „diákigazolvány vagy az arról szóló igazolás másolatát. A diákigazolvány vagy az arról szóló igazolás másolatának” szöveg,
+f)[^20]
 
-g)[^17]
+g)[^21]
 
 lép.
 
-[^12]: A 4. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^13]: A 4. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^14]: A 4. § c) pontja a 17. § (4) bekezdés alapján 2024. március 1-jén lép hatályba.
-[^15]: A 4. § d) pontja a 17. § (4) bekezdés alapján 2024. március 1-jén lép hatályba.
-[^16]: A 4. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^17]: A 4. § g) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 4. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 4. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 4. § c) pontja a 17. § (4) bekezdés alapján 2024. március 1-jén lép hatályba.
+[^18]: A 4. § d) pontja a 17. § (4) bekezdés alapján 2024. március 1-jén lép hatályba.
+[^19]: A 4. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 4. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 4. § g) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

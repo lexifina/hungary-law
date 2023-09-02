@@ -1,5 +1,5 @@
 ## 6. Az egyes továbbadott támogatások kihelyezésének részletes szabályairól szóló 187/2019. (VII. 30.) Korm. rendelet módosítása
 
-10. § Az egyes továbbadott támogatások kihelyezésének részletes szabályairól szóló 187/2019. (VII. 30.) Korm. rendelet 54/H. § (6) bekezdés b) pontja helyébe a következő rendelkezés lép:
+10. §[^33]
 
-(A támogatási kérelemhez csatolni kell)
+[^33]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
