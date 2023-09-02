@@ -1,3 +1,3 @@
-2. § A kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló 80/2023. (III. 14.) Korm. rendelet a következő 20/A. §-sal egészül ki:
+2. §[^3]
 
-„20/A. § A borászati termék üvegcsomagolásának gyártója díjátalány-fizetésre jogosult. Díjátalány választása esetén a gyártó által fizetendő kiterjesztett gyártói felelősségi díj mértékét a gyártó által forgalomba hozott palackmennyiség alapulvételével kell megállapítani. A díjátalány tartalmazza a borászati termék üvegcsomagolásához kapcsolódó további fogyasztói, gyűjtő- és szállítási csomagolás kiterjesztett gyártói felelősségi díját is. A gyártó a díjátalány-fizetésre vonatkozó választását tárgyéven belül nem változtathatja meg.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
