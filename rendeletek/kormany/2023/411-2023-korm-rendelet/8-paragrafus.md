@@ -1,3 +1,3 @@
-8. § A 63/2022. (II. 28.) Korm. rendelet a következő 11. §-sal egészül ki:
+8. §[^9]
 
-„11. § E rendeletnek a közbeszerzési tárgyú kormányrendeletek módosításáról szóló 411/2023. (VIII. 30.) Korm. rendelettel (a továbbiakban: Módr.) módosított 1. § (4) és (5) bekezdését a Módr. hatálybalépését követően megkezdett előzetes piaci konzultációkra kell alkalmazni.”
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
