@@ -1,1 +1,3 @@
-21. § A 423/2012. (XII. 29.) Korm. rendelet az 1. melléklet szerinti 4. melléklettel egészül ki.
+21. §[^21]
+
+[^21]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
