@@ -1,13 +1,3 @@
-## „7. melléklet a 156/2009. (VII. 29.) Korm. rendelethez
+17. melléklet a 393/2023. (VIII. 14.) Korm. rendelethez[^22]
 
-|  | A | B | C | D | E |
-
-| 1 | Sorszám | Bírságolással érintett cselekmények, mulasztások | A súlyosság foka (RSJ = rendkívül súlyos jogsértés, NSJ = nagyon súlyos jogsértés, SJ = súlyos jogsértés) | A bírság összege forintban | A bírságolással érintett cselekmény, mulasztás elkövetéséért felelőssé tehető |
-
-| 2 | 1. | A bérelt járművel nem a jármű bérlője (használatba vevője) végez árutovábbítást vagy saját számlás áruszállítást | NSJ | 390 000 | szállító |
-
-| 3 | 2. | Bérelt (használatba vett) jármű esetén a bérleti (használatba adási) szerződés hiánya (kivéve, ha a forgalmi engedélyben üzembentartóként bejegyzett) vagy a gépjárművezető foglalkoztatására vonatkozó igazolás hiánya, amennyiben a járművet nem a bérlő (használatba vevő) vezeti | NSJ | 130 000 | szállító gépjárművezető |
-
-## ”
-
-17. melléklet a 393/2023. (VIII. 14.) Korm. rendelethez
+[^22]: A 17. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

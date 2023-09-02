@@ -1,11 +1,3 @@
-## „5. melléklet a 410/2007. (XII. 29.) Korm. rendelethez
+6. melléklet a 393/2023. (VIII. 14.) Korm. rendelethez[^11]
 
-|  | A | B | C | D |
-
-| 1 | Sorszám | Az autópálya leálló sávjának igénybevételére vonatkozó rendelkezések | A közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet | Bírság összege forintban |
-
-| 2 | 1. | Haladás a leálló sávon | 37. § (5) bekezdés | 130 000 |
-
-## ”
-
-6. melléklet a 393/2023. (VIII. 14.) Korm. rendelethez
+[^11]: A 6. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

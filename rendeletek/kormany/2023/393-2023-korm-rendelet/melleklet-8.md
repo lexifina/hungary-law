@@ -1,13 +1,3 @@
-## „7. melléklet a 410/2007. (XII. 29.) Korm. rendelethez
+8. melléklet a 393/2023. (VIII. 14.) Korm. rendelethez[^13]
 
-|  | A | B | C | D |
-
-| 1 | Sorszám | A természet védelmére | A természet védelméről szóló 1996. évi LIII. törvény | Bírság összege Ft-ban |
-
-| 2 | 1. | A gépjárművel engedély nélkül történő közlekedés a) védett természeti területen b) fokozottan védett természeti területen | 38. § (1) bekezdés j) pont | a) 195 000 b) 390 000 |
-
-| 3 | 2. | Az engedélyezett közlekedési útról való letérés a védett vagy fokozottan védett természeti területen | 38. § (1) bekezdés j) pont | 130 000 |
-
-## ”
-
-8. melléklet a 393/2023. (VIII. 14.) Korm. rendelethez
+[^13]: A 8. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
