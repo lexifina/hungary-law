@@ -1,5 +1,3 @@
-3. § Hatályát veszti
+3. §[^4]
 
-a) az R. 19. §-a,
-
-b) az R. 22. § (6) bekezdése.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

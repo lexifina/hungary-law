@@ -1,7 +1,3 @@
-1. melléklet a 35/2023. (VIII. 31.) BM rendelethez
+1. melléklet a 35/2023. (VIII. 31.) BM rendelethez[^5]
 
-„4. melléklet a 22/2012. (IV. 13.) BM rendelethez
-
-3X07360.pdf
-
-”
+[^5]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
