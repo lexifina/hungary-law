@@ -1,5 +1,5 @@
 ## 15. A Transznacionális és Interregionális Együttműködés (2014–2020) előirányzat felhasználási szabályai
 
-30. §[^16] A Transznacionális és Interregionális Együttműködés (2014–2020) előirányzat (ezen alcím alkalmazásában a továbbiakban: előirányzat) a 396/2015. (XII. 12.) Korm. rendelet szabályai szerint használható fel.
+30. §[^17] A Transznacionális és Interregionális Együttműködés (2014–2020) előirányzat (ezen alcím alkalmazásában a továbbiakban: előirányzat) a 396/2015. (XII. 12.) Korm. rendelet szabályai szerint használható fel.
 
-[^16]: A 30. § a 339/2023. (VII. 25.) Korm. rendelet 49. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
+[^17]: A 30. § a 339/2023. (VII. 25.) Korm. rendelet 49. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.

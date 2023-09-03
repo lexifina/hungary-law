@@ -44,7 +44,7 @@ m) ha a kedvezményezettnek fel nem róható okból a támogatási szerződés v
 
 n) ha a kedvezményezett által nem befolyásolható olyan körülmény merül fel, amely az európai uniós forrásból finanszírozott projekt végrehajtásához nélkülözhetetlen, a 272/2014. (XI. 5.) Korm. rendelet 87. § (1) bekezdés c) pontja vagy a 256/2021. (V. 18.) Korm. rendelet 168. §-a szerinti költségnövekménynek nem minősülő kiadást keletkeztet.
 
-(2)[^8] Az előirányzatoknak az (1) bekezdés f)–l) pontja szerinti felhasználásáról a fejezetet irányító szerv vezetője dönt. Ha az előirányzat-felhasználás összege az (1) bekezdés f)–l) pontja szerinti esetben projektenként eléri az ötvenmillió forintot, vagy a 126/2016. (VI. 7.) Korm. rendelet 1. §-a, a 83/2018. (IV. 20.) Korm. rendelet 1. § (1) bekezdése és a 241/2023. (VI. 20.) Korm. rendelet 1. § (1) bekezdése szerinti program esetében a százötvenezer eurót, annak felhasználásához – az (5) bekezdés szerinti eset kivételével – az államháztartásért felelős miniszter jóváhagyása szükséges.
+(2)[^8] Az előirányzatoknak az (1) bekezdés f)–l) pontja szerinti felhasználásáról – a (4) és (4a) bekezdés szerinti eset kivételével – a fejezetet irányító szerv vezetője dönt. Ha az előirányzat-felhasználás összege az (1) bekezdés f)–l) pontja szerinti esetben projektenként eléri az ötvenmillió forintot, vagy a 126/2016. (VI. 7.) Korm. rendelet 1. §-a, a 83/2018. (IV. 20.) Korm. rendelet 1. § (1) bekezdése és a 241/2023. (VI. 20.) Korm. rendelet 1. § (1) bekezdése szerinti program esetén a százötvenezer eurót, annak felhasználásához – a (4a) és (5) bekezdés szerinti eset kivételével – az államháztartásért felelős miniszter jóváhagyása szükséges.
 
 (3) Az előirányzatoknak az (1) bekezdés m) és n) pontja szerinti felhasználásáról a Kormány egyedi ügyben hozott határozatban dönt.
 
@@ -56,9 +56,12 @@ b) a 256/2021. (V. 18.) Korm. rendelet 168. § (1) bekezdése
 
 szerinti költségnövekménynek minősülő kiadás finanszírozásához szükséges, az előirányzat-felhasználásról az a) pont szerinti esetben az európai uniós forrásból finanszírozott egyes projektek költségnövekménye támogathatóságáról szóló 17/2017. (II. 1.) Korm. rendelet 3–6. §-a szerint, a b) pont szerinti esetben a 256/2021. (V. 18.) Korm. rendelet 171–173. §-a szerint a Kormány egyedi ügyben hozott nyilvános határozatban dönt.
 
+(4a)[^9] Ha az (1) bekezdés f) pontja szerinti esetben az előirányzat-felhasználás a 272/2014. (XI. 5.) Korm. rendelet 156. § (8a) bekezdése vagy a 256/2021. (V. 18.) Korm. rendelet 385. § (2) bekezdése alapján szükséges, az előirányzat-felhasználásról – a fejezetet irányító szerv vezetője és az államháztartásért felelős miniszter egyidejű tájékoztatása mellett – az előirányzat kezelő szerve dönt.
+
 (5) A Helyreállítási és Ellenállóképességi Eszköz (RRF) előirányzat terhére megvalósuló projektek esetében az Európai Bizottság felé el nem számolható, a 373/2022. (IX. 30.) Korm. rendelet 2. § 6. pontjában meghatározott Helyreállítási és Ellenállóképességi Terv Európai Bizottság felé elszámolható összköltségének legfeljebb 5%-át kitevő kiadások erejéig az (1) bekezdés f) pontja szerinti előirányzat-felhasználáshoz az államháztartásért felelős miniszter jóváhagyása nem szükséges.
 
 [^5]: A 9. § (1) bekezdés c) pontja a 339/2023. (VII. 25.) Korm. rendelet 46. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
 [^6]: A 9. § (1) bekezdés e) pontja a 339/2023. (VII. 25.) Korm. rendelet 56. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
 [^7]: A 9. § (1) bekezdés k) pontja a 339/2023. (VII. 25.) Korm. rendelet 46. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
-[^8]: A 9. § (2) bekezdése a 339/2023. (VII. 25.) Korm. rendelet 46. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
+[^8]: A 9. § (2) bekezdése a 416/2023. (VIII. 31.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^9]: A 9. § (4a) bekezdését a 416/2023. (VIII. 31.) Korm. rendelet 25. § (2) bekezdése iktatta be.
