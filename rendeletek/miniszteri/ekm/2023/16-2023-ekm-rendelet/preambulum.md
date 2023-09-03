@@ -1,5 +1,0 @@
-A személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 49. § (2) bekezdés b) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 95. § 8. pontjában meghatározott feladatkörömben eljárva,
-
-a 2. alcím tekintetében a közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdés g) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 95. § 8. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 148. § (1) bekezdés 2. pontjában meghatározott feladatkörében eljáró pénzügyminiszterrel egyetértésben, valamint a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 9. § (1) bekezdés 17. pontjában meghatározott feladatkörében eljáró Miniszterelnöki Kabinetirodát vezető miniszterrel egyetértésben –
-
-a következőket rendelem el:
