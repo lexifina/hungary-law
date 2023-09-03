@@ -1,5 +1,0 @@
-Az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény 73. § (2) bekezdés a) pontjában, valamint az államháztartásról szóló 2011. évi CXCV. törvény 109. § (5) bekezdésében kapott felhatalmazás alapján a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 30. § (1) bekezdés 9. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 148. § (1) bekezdés 2. pontjában meghatározott feladatkörében eljáró pénzügyminiszterrel egyetértésben –,
-
-a 6−8. §, a 9. § n) pontja, valamint a 10. § e) pontja tekintetében az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény 73. § (2) bekezdés b) és c) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 30. § (1) bekezdés 9. pontjában meghatározott feladatkörömben eljárva
-
-a következőket rendelem el:
