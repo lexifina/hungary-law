@@ -1,5 +1,3 @@
-## 6. § E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
-
 1. melléklet a 364/2017. (XI. 30.) Korm. rendelethez
 
 A Beruházással összefüggő kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek

@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-364-20-
 | --- | --- | --- |
 | 2017-12-01 | 2017-364-20-22.1 | 364/2017. (XI. 30.) Korm. rendelet |
 | 2022-12-23 | 2017-364-20-22.2 | 546/2022. (XII. 22.) Korm. rendelet |
+| 2023-09-03 | 2017-364-20-22.3 | 415/2023. (VIII. 31.) Korm. rendelet |
