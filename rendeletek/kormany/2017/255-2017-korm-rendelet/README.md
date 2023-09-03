@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-255-20-
 | 2022-12-23 | 2017-255-20-22.9 | 546/2022. (XII. 22.) Korm. rendelet |
 | 2023-01-01 | 2017-255-20-22.5 | 523/2022. (XII. 15.) Korm. rendelet |
 | 2023-04-17 | 2017-255-20-22.6 | 125/2023. (IV. 14.) Korm. rendelet |
+| 2023-09-03 | 2017-255-20-22.7 | 415/2023. (VIII. 31.) Korm. rendelet |

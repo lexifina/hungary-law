@@ -1,4 +1,4 @@
-## 3. §[^4] Az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekre vonatkozó ügyintézési határidő – ha a jogszabály rövidebb határidőt nem állapít meg, illetve az előzetes vizsgálati eljárás, a környezeti hatásvizsgálati eljárás és a természetvédelmi hatósági eljárás kivételével – 15 nap.
+## 3. §[^5] Az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekre vonatkozó ügyintézési határidő – ha a jogszabály rövidebb határidőt nem állapít meg, illetve az előzetes vizsgálati eljárás, a környezeti hatásvizsgálati eljárás és a természetvédelmi hatósági eljárás kivételével – 15 nap.
 
 ## 4. § A Beruházással összefüggésben
 
@@ -8,4 +8,4 @@ b) településképi véleményezési eljárást nem kell lefolytatni, és
 
 c) településképi bejelentési eljárásnak nincs helye.
 
-[^4]: A 3. §-t a 458/2017. (XII. 28.) Korm. rendelet 398. §-a hatályon kívül helyezte, újonnan az 522/2021. (IX. 6.) Korm. rendelet 2. §-a iktatta be.
+[^5]: A 3. §-t a 458/2017. (XII. 28.) Korm. rendelet 398. §-a hatályon kívül helyezte, újonnan az 522/2021. (IX. 6.) Korm. rendelet 2. §-a iktatta be.
