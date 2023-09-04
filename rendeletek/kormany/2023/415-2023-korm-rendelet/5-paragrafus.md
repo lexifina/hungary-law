@@ -1,3 +1,3 @@
-5. § Az R2. a következő 7. §-sal egészül ki:
+5. §[^6]
 
-„7. § E rendeletnek a beruházásokkal összefüggő kormányrendeletek módosításáról szóló 415/2023. (VIII. 31.) Korm. rendelettel (a továbbiakban: Módr1.) megállapított 4/A. §-át a Módr1. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

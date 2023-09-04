@@ -1,1 +1,3 @@
-3. § Az R. 1. melléklet 3. pontjában az „építésügyi hatósági” szövegrész helyébe az „építésügyi és építésfelügyeleti hatósági” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
