@@ -1,3 +1,3 @@
-17. § A 256/2021. (V. 18.) Korm. rendelet 433. § (3) bekezdése helyébe a következő rendelkezés lép:
+17. §[^18]
 
-„(3) Ha a kedvezményezett az általa aláírt megállapodást – annak kézhezvételétől számított tizenöt napon belül – nem küldi meg az irányító hatóság részére, a részletfizetési kérelem elfogadása érvényét veszti.”
+[^18]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

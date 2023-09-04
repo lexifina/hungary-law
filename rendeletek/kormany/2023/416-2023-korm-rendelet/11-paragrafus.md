@@ -1,3 +1,3 @@
-11. § A 256/2021. (V. 18.) Korm. rendelet 253. § (2) bekezdése helyébe a következő rendelkezés lép:
+11. §[^12]
 
-„(2) A Kormány európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt tagja az államháztartásért felelős miniszter egyetértésével az (1) bekezdés a) és b) pontja szerinti százalékos mértéket, illetve összeghatárt megemelheti, ha a kedvezményezett – vagy technikai segítségnyújtási projekt esetén az irányító hatóság – a magasabb mértékű, illetve összegű támogatási előleg szükségességét megalapozottan indokolja, a támogatási előleg kifizetése ütemezését alátámasztó likviditási tervet készít, valamint az európai uniós forrásból nyújtott költségvetési támogatás kezelésére a kincstárnál külön fizetési számlával rendelkezik.”
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

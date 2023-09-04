@@ -1,5 +1,3 @@
-24. § Hatályát veszti a 256/2021. (V. 18.) Korm. rendelet
+24. §[^25]
 
-a) 260. § (1) bekezdésében az „a szerződés – tartalékkeret nélküli – elszámolható összege 30%-ának megfelelő mértékű” szövegrész,
-
-b) 267. § (2) bekezdése.
+[^25]: A 24. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

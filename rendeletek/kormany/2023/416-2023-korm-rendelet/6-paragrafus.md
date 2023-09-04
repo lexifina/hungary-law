@@ -1,9 +1,3 @@
-6. § (1) Hatályát veszti a 272/2014. (XI. 5.) Korm. rendelet 169. § (1a) bekezdése.
+6. §[^7]
 
-(2) Hatályát veszti a 272/2014. (XI. 5.) Korm. rendelet 1. melléklet
-
-a) 232.2. pontja,
-
-b) 255.2. pontjában a „vagy a kifizetések felfüggesztésének fenntartása indokolt” szövegrész,
-
-c) 260.4. pontja.
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

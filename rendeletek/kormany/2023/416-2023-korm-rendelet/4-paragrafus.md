@@ -1,11 +1,3 @@
-4. § A 272/2014. (XI. 5.) Korm. rendelet
+4. §[^5]
 
-a) 1. melléklete az 1. melléklet,
-
-b) 4. melléklete a 2. melléklet,
-
-c) 5. melléklete a 3. melléklet,
-
-d) 6. melléklete a 4. melléklet
-
-szerint módosul.
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

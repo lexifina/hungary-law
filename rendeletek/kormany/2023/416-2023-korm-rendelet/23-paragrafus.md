@@ -1,7 +1,3 @@
-23. § A 256/2021. (V. 18.) Korm. rendelet
+23. §[^24]
 
-a) 253. § (1) bekezdés d) pontjában a „kedvezményezett esetén” szövegrész helyébe az „esetben” szöveg,
-
-b) 454. §-ában az „ellenőrzési tevékenység” szövegrész helyébe az „ellenőrzés” szöveg
-
-lép.
+[^24]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

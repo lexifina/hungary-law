@@ -1,3 +1,3 @@
-18. § A 256/2021. (V. 18.) Korm. rendelet 452. §-a a következő (3) bekezdéssel egészül ki:
+18. §[^19]
 
-„(3) A helyszíni ellenőr a helyszíni ellenőrzés megkezdése előtt titoktartási nyilatkozatot és összeférhetetlenségi nyilatkozatot tesz.”
+[^19]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
