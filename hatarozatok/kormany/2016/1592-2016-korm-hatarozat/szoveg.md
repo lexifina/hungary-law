@@ -10,10 +10,12 @@ emberi erőforrások minisztere
 
 Határidő: 2016. november 30.
 
-3. egyetért azzal, hogy a Dél-budai Centrum megközelíthetősége érdekében kettő darab autópálya-lehajtó kerüljön megépítésre;
+3.[^1]
 
 4. felkéri Noll Tamás Ybl-díjas építészt a Dél-budai Centrum tervkoncepciójának elkészítésére annak érdekében, hogy a Dél-budai Centrum mind egészségügyi, mind építészeti értelemben is jelentős beruházás legyen, és felhívja az emberi erőforrások miniszterét az ezzel kapcsolatos intézkedések megtételére.
 
 Felelős: emberi erőforrások minisztere
 
 Határidő: azonnal
+
+[^1]: A 3. pontot az 1389/2023. (IX. 5.) Korm. határozat 6. pont 6.3. alpontja visszavonta.
