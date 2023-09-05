@@ -1,1 +1,0 @@
-A Kormány a hazai pályakerékpáros edzőcsarnokok megvalósítását célzó beruházások támogatásáról szóló 1695/2018. (XII. 17.) Korm. határozat 1. pontja szerinti kelet-magyarországi velodrom beruházás megépítése érdekében
