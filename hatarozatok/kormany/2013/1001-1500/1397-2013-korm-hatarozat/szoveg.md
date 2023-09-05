@@ -20,7 +20,7 @@ b) a Petőfi Csarnok átalakításával egy új Gyermek és Ifjúsági Tudás- �
 
 c) átfogó zöldfelületi rekonstrukció és új, korszerű zöldfelületi rendszer kialakítása oly módon, hogy a fejlesztések megvalósításával egyidejűleg a Városligetben a jelenlegihez képest megnövekedjen a zöldfelület biológiai aktivitása (ide értve a Hungexpo régi épületeinek elbontását, egy „Zöld Liget” ökologikus oktatási- és látogatóközpont létrehozását, a sportpályák és a játszóterek átépítését, valamint újak kialakítását, a városligeti tórendszer vízfelületének helyreállítását, valamint egy korszerű ökologikus monitorozási, fenntartási és üzemeltetési rendszer kialakítását), továbbá
 
-d) a Városliget közlekedési rendszerének átfogó átalakítása (ide értve egy új útvonalrendszer létrehozását, a tömegközlekedési kiszolgálás ésszerűsítését és fokozását, a Városliget parkolási rendszerének komplex átalakítását, elektromos midibusz-hálózat kialakítását);
+d)[^1] Városliget közlekedési rendszerének átfogó átalakításának előkészítése (ideértve egy új útvonalrendszer létrehozását, a tömegközlekedési kiszolgálás észszerűsítését és fokozását, a Városliget parkolási rendszerének komplex átalakítását, elektromos midibusz-hálózat kialakítását);
 
 1.4. felhívja az emberi erőforrások miniszterét, hogy – a nemzeti fejlesztési miniszter és a vidékfejlesztési miniszter bevonásával – az 1.3. pontban meghatározott fejlesztési célokkal összefüggésben folytassa le a szükséges tárgyalásokat Budapest Főváros Önkormányzatával;
 
@@ -75,3 +75,5 @@ Miniszterelnökség jogi ügyekért felelős államtitkára
 Határidő: 2013. szeptember 30.
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: Az 1. pont 1.3. pont d) alpontja az 1389/2023. (IX. 5.) Korm. határozat 1. pontjával megállapított szöveg.
