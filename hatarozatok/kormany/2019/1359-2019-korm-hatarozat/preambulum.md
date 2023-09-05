@@ -1,1 +1,0 @@
-A Kormány – a Magyarország Kormánya és Budapest Főváros Önkormányzata közötti együttműködési megállapodásban meghatározott feladatok végrehajtásával összefüggésben, a Fővárosi Közfejlesztések Tanácsa javaslata alapján, a kiemelt budapesti közösségi fejlesztések megvalósításának támogatása keretében –
