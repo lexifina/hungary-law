@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1839-30
 | 2016-12-24 | 2016-1839-30-22.2 | 2010: CXXX. törvény |
 | 2020-01-01 | 2016-1839-30-22.5 | 2011: CXCV. törvény |
 | 2021-02-19 | 2016-1839-30-22.3 | 1070/2021. (II. 19.) Korm. határozat |
+| 2023-09-05 | 2016-1839-30-22.4 | 1389/2023. (IX. 5.) Korm. határozat |

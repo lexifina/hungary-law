@@ -1,12 +1,12 @@
 | Sorszám | Létesítmény | Helyszín |
 
-| 1. | Budapesti Xtrém Szabadidő Park | Budapest XXI. kerület, Észak-Csepel |
+| 1. |  |  |
 
-| 2. | Dunai Evezős Központ | Ráckevei (Soroksári) Duna ág |
+| 2. |  |  |
 
 | 3. | Budapesti Atlétikai Stadion és szabadtéri edzőpályák | Budapest IX. kerület, Vituki Sport és Szabadidőközpont, valamint Budapest XXI. kerület, Észak-Csepel |
 
-| 4. | Fedett pályás atlétikai multifunkciós csarnok | Budapest XXI. kerület, Észak-Csepel |
+| 4. |  |  |
 
 | 5. | Új Budapesti Teniszközpont | Budapest XXI. kerület, Észak-Csepel |
 
@@ -22,6 +22,6 @@
 
 | 11. | A Népliget jelenleg is sportolásra hasznosított területe | Budapest X. kerület, Népliget |
 
-2. melléklet az 1839/2016. (XII. 23.) Korm. határozathoz[^5]
+2. melléklet az 1839/2016. (XII. 23.) Korm. határozathoz[^8]
 
-[^5]: A 2. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^8]: A 2. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.

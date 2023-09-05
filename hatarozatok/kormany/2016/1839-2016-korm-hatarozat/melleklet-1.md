@@ -2,17 +2,17 @@
 
 ## 2. egyetért azzal, hogy a Kemény Ferenc Program részeként az alábbi fejlesztési elemek valósuljanak meg az 1. melléklet szerint:
 
-## a) Budapesti Xtrém Szabadidő Park,
+## a)[^1]
 
-## b) Dunai Evezős Központ,
+## b)[^2]
 
 ## c) Budapesti Atlétikai Stadion és szabadtéri edzőpályák,
 
-## d) fedett pályás atlétikai multifunkciós csarnok,
+## d)[^3]
 
 ## e) új Budapesti Teniszközpont,
 
-## f)[^1]
+## f)[^4]
 
 ## g) Takács Károly Nemzeti Lövészeti Központ,
 
@@ -72,7 +72,7 @@
 
 ## Határidő: a 7. pont végrehajtásával összhangban
 
-## 9.[^2]
+## 9.[^5]
 
 ## 10. felhívja a nemzeti fejlesztési minisztert, hogy tegye meg a szükséges intézkedéseket annak érdekében, hogy a 9. pont szerinti forrás a KKBK Zrt. által felhasználható módon, e célokra rendelkezésre álljon, kiemelve a következő munkarészeket:
 
@@ -96,13 +96,16 @@
 
 ## Határidő: a 7. ponthoz igazodva
 
-## 12–13.[^3]
+## 12–13.[^6]
 
-1. melléklet az 1839/2016. (XII. 23.) Korm. határozathoz[^4]
+1. melléklet az 1839/2016. (XII. 23.) Korm. határozathoz[^7]
 
 Kemény Ferenc Sportlétesítmény-fejlesztési Program (2017–2022)
 
-[^1]: A 2. pont f) alpontját az 1070/2021. (II. 19.) Korm. határozat 5. pont a) alpontja hatályon kívül helyezte.
-[^2]: A 9. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
-[^3]: A 12–13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: Az 1. melléklet az 1070/2021. (II. 19.) Korm. határozat 5. pont b) alpontja szerint módosított szöveg.
+[^1]: A 2. pont a) alpontot az 1389/2023. (IX. 5.) Korm. határozat 6. pont 6.4. alpont a) pontja visszavonta.
+[^2]: A 2. pont b) alpontot az 1389/2023. (IX. 5.) Korm. határozat 6. pont 6.4. alpont a) pontja visszavonta.
+[^3]: A 2. pont d) alpontot az 1389/2023. (IX. 5.) Korm. határozat 6. pont 6.4. alpont a) pontja visszavonta.
+[^4]: A 2. pont f) alpontját az 1070/2021. (II. 19.) Korm. határozat 5. pont a) alpontja hatályon kívül helyezte.
+[^5]: A 9. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^6]: A 12–13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: Az 1. melléklet az 1070/2021. (II. 19.) Korm. határozat 5. pont b) alpontja, az 1389/2023. (IX. 5.) Korm. határozat 6. pont 6.4. pont b) alpontja szerint módosított szöveg.
