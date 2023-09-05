@@ -50,11 +50,7 @@
 
 ## Határidő: 2021. június 30.
 
-## 6. felhívja a Miniszterelnökséget vezető minisztert, hogy a BFK Budapest Fejlesztési Központ Nonprofit Zártkörűen Működő Részvénytársaság útján gondoskodjon Budapest és a fővárosi agglomeráció kerékpáros kapcsolatainak, a térségben a kötöttpályás közlekedés kerékpáros elérhetőségének, a kerékpárút hálózatának állapotáról és fejlesztésének fő irányairól szóló koncepció kidolgozásáról;
-
-## Felelős: Miniszterelnökséget vezető miniszter
-
-## Határidő: 2020. december 31.
+## 6.[^1]
 
 ## 7. felhívja az innovációért és technológiáért felelős minisztert, hogy gondoskodjon a 2021–2027-es európai uniós programozási időszak uniós támogatásainak tervezése során az országos kerékpárút hálózat, valamint a Budapest és a fővárosi agglomeráció kerékpáros kapcsolatainak fejlesztéséhez kapcsolódó szempontok érvényesítéséről.
 
@@ -64,7 +60,7 @@
 
 1. melléklet az 1377/2020. (VII. 10.) Korm. határozathoz
 
-## A Program keretében megvalósuló programelemek
+A Program keretében megvalósuló programelemek
 
 1. Közpolitikai intézkedések:
 
@@ -115,3 +111,5 @@ h) Nemzetközi szakmai rendezvények szervezése és lebonyolítása,
 i) Szakmai tanulmányutak szervezése önkormányzati döntéshozók és főépítészek számára,
 
 j) Kerékpáros kutatások és mérések lebonyolítása.
+
+[^1]: A 6. pontot az 1389/2023. (IX. 5.) Korm. határozat 6. pont 6.14. alpontja visszavonta.
