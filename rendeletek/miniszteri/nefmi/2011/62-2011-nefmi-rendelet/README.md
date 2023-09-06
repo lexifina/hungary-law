@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-62-20-2
 | 2021-05-19 | 2011-62-20-2V.12 | 17/2021. (V. 18.) EMMI rendelet |
 | 2022-12-28 | 2011-62-20-2V.14 | 11/2015. (II. 25.) EMMI rendelet |
 | 2023-01-01 | 2011-62-20-2V.13 | 45/2022. (XII. 20.) BM rendelet |
+| 2023-09-06 | 2011-62-20-2V.15 | 36/2023. (IX. 5.) BM rendelet |
