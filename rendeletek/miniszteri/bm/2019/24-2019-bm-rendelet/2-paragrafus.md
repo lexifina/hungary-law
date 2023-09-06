@@ -8,7 +8,7 @@ a)[^2] roma nemzetiségi anyanyelvű vagy nemzetiségi kétnyelvű középfokú 
 
 b) a nemzetiségi anyanyelvű, kétnyelvű középfokú nevelés-oktatással nem rendelkező nemzetiségek esetében roma nemzetiségi lovári és beás nyelvoktató vagy roma népismereti oktatást
 
-## folytatnak.
+folytatnak.
 
 (4) A középfokú iskola az általa kiválasztott – és sorrendbe állítással ajánlott –, legalább két, az érettségi megszerzésére irányuló képzés utolsó két évfolyamot megelőző évfolyamát végző tanulóval együttesen terjeszti fel pályázatát.
 
