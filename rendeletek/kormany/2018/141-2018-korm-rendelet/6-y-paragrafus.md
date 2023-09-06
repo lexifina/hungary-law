@@ -1,4 +1,4 @@
-6/Y. §[^121] (1) A 2. mellékletben foglalt táblázat 83. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:83 mezőjében megjelölt telkekre a beépítés szabályait és az egyedi építési követelményeket a (2)–(3) bekezdés állapítja meg, azzal, hogy
+6/Y. §[^122] (1) A 2. mellékletben foglalt táblázat 83. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:83 mezőjében megjelölt telkekre a beépítés szabályait és az egyedi építési követelményeket a (2)–(3) bekezdés állapítja meg, azzal, hogy
 
 a) az OTÉK előírásait a (2)–(3) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -30,4 +30,4 @@ k) a Kaposvár külterület 013/3 helyrajzi számú ingatlanon elhelyezkedő hon
 
 (3) A (2) bekezdés g) pontjának alkalmazása során az épületmagasságot az e § hatálybalépésekor hatályos OTÉK-ban foglalt követelmények szerint kell számítani.
 
-[^121]: A 6/Y. §-t a 831/2021. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
+[^122]: A 6/Y. §-t a 831/2021. (XII. 29.) Korm. rendelet 1. §-a iktatta be.

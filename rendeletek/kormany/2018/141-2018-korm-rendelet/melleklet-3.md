@@ -260,8 +260,10 @@
 
 | 120. | Építőipari alapanyaggyártó üzem létrehozására irányuló beruházás Halmajugra község területén | Halmajugra közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 07/60, 07/118 és 07/119 helyrajzi számú ingatlanok | Heves Vármegyei Kormányhivatalt vezető főispán |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^374]
+| 121. | Munkásszálló létesítése a Debreceni Déli Gazdasági Övezet mellett | Debrecen közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 0511/35 és 0511/37 helyrajzi számú ingatlanok | Hajdú-Bihar Vármegyei Kormányhivatalt vezető főispán |
+
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^377]
 
 A 2. mellékletben foglalt táblázat 7 és 7a sora szerinti beruházások közlekedési kapacitásbővítéssel összefüggő útszélesítései
 
-[^374]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^377]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.

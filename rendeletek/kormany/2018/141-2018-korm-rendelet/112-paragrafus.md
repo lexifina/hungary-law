@@ -1,4 +1,4 @@
-112. §[^333] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 482/2022. (XI. 28.) Korm. rendelettel (a továbbiakban: Módr104.) megállapított 2. mellékletében foglalt táblázat 107. sorát a Módr104. hatálybalépésekor[^334] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+112. §[^334] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 482/2022. (XI. 28.) Korm. rendelettel (a továbbiakban: Módr104.) megállapított 2. mellékletében foglalt táblázat 107. sorát a Módr104. hatálybalépésekor[^335] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^333]: A 112. §-t a 482/2022. (XI. 28.) Korm. rendelet 1. §-a iktatta be.
-[^334]: A hatálybalépés időpontja 2022. november 29.
+[^334]: A 112. §-t a 482/2022. (XI. 28.) Korm. rendelet 1. §-a iktatta be.
+[^335]: A hatálybalépés időpontja 2022. november 29.
