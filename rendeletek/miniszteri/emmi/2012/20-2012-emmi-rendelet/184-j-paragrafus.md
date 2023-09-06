@@ -4,7 +4,7 @@
 
 a) a szakképzési tankönyvek kivételével a tankönyvvé nyilvánítási eljárásban a 7. melléklet 8. pontja,
 
-b)[^616] a szakképzési tankönyvek esetén a tankönyvvé nyilvánítási eljárásban, a tankönyvjegyzék vezetésével kapcsolatos eljárásban az illetékes szakképesítésért felelős miniszter által vezetett minisztérium, illetve az Nkt. 93/B. § (2) bekezdése szerint kijelölt szerv 7. melléklet 2–9. pontja,
+b)[^618] a szakképzési tankönyvek esetén a tankönyvvé nyilvánítási eljárásban, a tankönyvjegyzék vezetésével kapcsolatos eljárásban az illetékes szakképesítésért felelős miniszter által vezetett minisztérium, illetve az Nkt. 93/B. § (2) bekezdése szerint kijelölt szerv 7. melléklet 2–9. pontja,
 
 c) a szakképzési tankönyvek kivételével a tankönyvjegyzék vezetésével kapcsolatos eljárásban a 7. melléklet 8. pontja
 
@@ -26,4 +26,4 @@ szerinti fizetési számlára kell a befizetést teljesíteni.
 
 (9) HTML-alapú online digitális tananyag esetén az igazgatási szolgáltatási díjat a 6. mellékletben foglalt táblázat 1., 2., 5., 7., 8., 11., 13., 14. és 17. sora szerint kell megfizetni, a hivatal honlapján közzétett számítás alapján.
 
-[^616]: A 184/J. § (1) bekezdés b) pontja az 52/2022. (XII. 27.) BM rendelet 24. § f) pontja szerint módosított szöveg.
+[^618]: A 184/J. § (1) bekezdés b) pontja az 52/2022. (XII. 27.) BM rendelet 24. § f) pontja szerint módosított szöveg.

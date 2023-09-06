@@ -10,12 +10,13 @@ c)[^118] gimnázium, szakgimnázium esetén a tanulmányi eredmények, a közpon
 
 alapján dönthet.
 
-(3) A (2) bekezdésben tanulmányi eredmények alatt kizárólag a középfokú iskolába felvételiző tanuló általános iskolai tanulmányait igazoló bizonyítványában, félévi értesítőjében (ellenőrzőjében) szereplő osztályzatait, minősítéseit kell érteni. A tanulmányi eredményekbe a magatartás és szorgalom értékelése, minősítése nem számítható be.
+(3)[^119] A (2) bekezdésben tanulmányi eredmények alatt kizárólag a középfokú iskolába felvételiző tanuló általános iskolai tanulmányait igazoló, az elektronikus nyilvántartásban rögzített osztályzatait, minősítéseit kell érteni. A tanulmányi eredményekbe a magatartás és szorgalom értékelése, minősítése nem számítható be.
 
 (4) Ha a középfokú iskola nemzetiségi nevelés-oktatást folytat, a hozzá jelentkező tanulók szövegértési kompetenciáinak a vizsgálatához a központi írásbeli vizsga magyar nyelvi feladatlapjai helyett helyben készített nemzetiségi nyelvű szövegértési feladatsort használhat.
 
-(5)[^119] Ha a középfokú iskola a művészeti vagy testnevelés tanulmányi területen hirdet felvételt, a (2) bekezdésben meghatározottak mellett további képességek, készségek meglétét is vizsgálhatja.
+(5)[^120] Ha a középfokú iskola a művészeti vagy testnevelés tanulmányi területen hirdet felvételt, a (2) bekezdésben meghatározottak mellett további képességek, készségek meglétét is vizsgálhatja.
 
 [^117]: A 27. § (2) bekezdés b) pontja a 20/2016. (VIII. 24.) EMMI rendelet 27. § 7. pontja szerint módosított szöveg.
 [^118]: A 27. § (2) bekezdés c) pontja a 20/2016. (VIII. 24.) EMMI rendelet 27. § 7. pontja szerint módosított szöveg.
-[^119]: A 27. § (5) bekezdése a 45/2014. (X. 27.) EMMI rendelet 54. § 5. pontja szerint módosított szöveg.
+[^119]: A 27. § (3) bekezdése a 36/2023. (IX. 5.) BM rendelet 3. § a) pontja szerint módosított szöveg.
+[^120]: A 27. § (5) bekezdése a 45/2014. (X. 27.) EMMI rendelet 54. § 5. pontja szerint módosított szöveg.

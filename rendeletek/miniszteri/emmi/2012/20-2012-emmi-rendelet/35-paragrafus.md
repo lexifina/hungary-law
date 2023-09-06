@@ -1,6 +1,6 @@
 35. § (1) A vizsga dolgozatainak javítását a hivatal által kiadott javítási-értékelési útmutató alapján kell elvégezni. A feladatlapokat és a javítási-értékelési útmutatókat legkésőbb a vizsga napját követő napon a hivatal a honlapján közzéteszi.
 
-(2)[^138] Az írásbeli vizsgát szervező intézmény a KIFIR rendszerben rögzíti a vizsgán való részvétel tényét, a 33. § (3) bekezdés alapján biztosított speciális körülményeket, a vizsgaeredményeket, valamint elvégzi az értékelő lapok előállítását, kinyomtatását, hitelesítését.
+(2)[^139] Az írásbeli vizsgát szervező intézmény a KIFIR rendszerben rögzíti a vizsgán való részvétel tényét, a 33. § (3) bekezdés alapján biztosított speciális körülményeket, a vizsgaeredményeket, valamint elvégzi az értékelő lapok előállítását, kinyomtatását, hitelesítését.
 
 (3) Az írásbeli vizsga kiértékelt dolgozatait a vizsgázó és szülője az iskola képviselőjének jelenlétében, az igazgató által meghatározott helyen és időben megtekintheti, azokról kézzel vagy elektronikus úton másolatot készíthet, és – kizárólag a hivatalos javítási-értékelési útmutatótól eltérő értékelés esetén – az értékelésre észrevételt tehet. Ha az iskolában a feltételek rendelkezésre állnak, a vizsgázó kérésére a saját kiértékelt dolgozatáról másolatot kell készíteni.
 
@@ -8,10 +8,10 @@
 
 (5) Ha az írásbeli vizsgakérdésekre adott megoldás értékelésére a vizsgázó észrevételt nyújt be, az iskola az észrevételt érdemben elbírálja. Az iskola a bírálat eredményét határozat formájában, megfelelő indokolással, az észrevétel benyújtását követő három munkanapon belül írásban közli az észrevételt tevővel.
 
-(6)[^139] Ha az észrevételt tevő az iskola határozatának kézhezvétele után is fenntartja korábbi észrevételét, az Nkt. 38. § (9) bekezdése szerinti fellebbezést a hivatalnak címezve, a vizsgát szervező iskolában kell benyújtani. Az iskola a fellebbezést az ügyre vonatkozó dokumentumokkal együtt egy munkanapon belül megküldi a hivatalnak.
+(6)[^140] Ha az észrevételt tevő az iskola határozatának kézhezvétele után is fenntartja korábbi észrevételét, az Nkt. 38. § (9) bekezdése szerinti fellebbezést a hivatalnak címezve, a vizsgát szervező iskolában kell benyújtani. Az iskola a fellebbezést az ügyre vonatkozó dokumentumokkal együtt egy munkanapon belül megküldi a hivatalnak.
 
-(7)[^140]
+(7)[^141]
 
-[^138]: A 35. § (2) bekezdése a 45/2014. (X. 27.) EMMI rendelet 54. § 12. pontja szerint módosított szöveg.
-[^139]: A 35. § (6) bekezdése a 12/2018. (III. 27.) EMMI rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^140]: A 35. § (7) bekezdését a 12/2018. (III. 27.) EMMI rendelet 1. § (3) bekezdés a) pontja hatályon kívül helyezte.
+[^139]: A 35. § (2) bekezdése a 45/2014. (X. 27.) EMMI rendelet 54. § 12. pontja szerint módosított szöveg.
+[^140]: A 35. § (6) bekezdése a 12/2018. (III. 27.) EMMI rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^141]: A 35. § (7) bekezdését a 12/2018. (III. 27.) EMMI rendelet 1. § (3) bekezdés a) pontja hatályon kívül helyezte.

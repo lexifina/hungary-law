@@ -1,12 +1,12 @@
 ## 184/L. § A tankönyvvé nyilvánítási eljárás keretében kirendelt szakértő díjazását a 8. melléklet tartalmazza.
 
-## XX/B. Fejezet[^617]
+## XX/B. Fejezet[^619]
 
 ## A SZAKGIMNÁZIUMOKRA ÉS SZAKISKOLÁKRA VONATKOZÓ ELTÉRŐ RENDELKEZÉSEK
 
 ## 76/F. A szakgimnáziumi és szakiskolai szakképzési megállapodás megkötésének szabályai, tartalma és érvényességi ideje
 
-184/M. § (1)[^618] A szakgimnáziumi és szakiskolai szakképzési megállapodás megkötése a fenntartó kérelmével indul, a megállapodást a fenntartó a miniszterrel köti meg.
+184/M. § (1)[^620] A szakgimnáziumi és szakiskolai szakképzési megállapodás megkötése a fenntartó kérelmével indul, a megállapodást a fenntartó a miniszterrel köti meg.
 
 (2) A szakgimnáziumi és szakiskolai szakképzési megállapodás tartalmazza
 
@@ -18,5 +18,5 @@ c) a beiskolázható tanulói létszámot.
 
 (3) A fenntartó a beiskolázási létszámot szabadon felhasználhatja a nappali rendszerű vagy felnőttoktatás keretei között, amennyiben a megállapodás erre vonatkozó korlátozó döntést nem tartalmaz. A megállapodás három évre szól, a megállapodás hatálya alatt induló, támogatott oktatás tekintetében az adott képzés jogszabályban meghatározott befejezéséig tart.
 
-[^617]: A XX/B. fejezetet (184/M–184/T. §) a 37/2021. (VIII. 31.) EMMI rendelet 16. §-a iktatta be.
-[^618]: A 184/M. § (1) bekezdése az 52/2022. (XII. 27.) BM rendelet 24. § d) pontja szerint módosított szöveg.
+[^619]: A XX/B. fejezetet (184/M–184/T. §) a 37/2021. (VIII. 31.) EMMI rendelet 16. §-a iktatta be.
+[^620]: A 184/M. § (1) bekezdése az 52/2022. (XII. 27.) BM rendelet 24. § d) pontja szerint módosított szöveg.

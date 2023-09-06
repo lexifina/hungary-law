@@ -1,3 +1,3 @@
-## 136/B. §[^395] A két tanítási nyelvű középiskolának biztosítania kell, hogy a tanulók a célnyelvből emelt szinten és a célnyelven tanított tantárgyakból az iskola helyi tanterve alapján az érettségi vizsga követelményeire közép- és emelt szinten is felkészülhessenek.
+## 136/B. §[^397] A két tanítási nyelvű középiskolának biztosítania kell, hogy a tanulók a célnyelvből emelt szinten és a célnyelven tanított tantárgyakból az iskola helyi tanterve alapján az érettségi vizsga követelményeire közép- és emelt szinten is felkészülhessenek.
 
-[^395]: A 136/B. §-t a 31/2020. (VIII. 31.) EMMI rendelet 12. §-a iktatta be.
+[^397]: A 136/B. §-t a 31/2020. (VIII. 31.) EMMI rendelet 12. §-a iktatta be.

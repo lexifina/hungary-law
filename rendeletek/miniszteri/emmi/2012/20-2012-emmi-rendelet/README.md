@@ -43,3 +43,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-20-20-5
 | 2023-01-01 | 2012-20-20-5H.36 | 45/2022. (XII. 20.) BM rendelet |
 | 2023-08-22 | 2012-20-20-5H.38 | 22/2015. (IV. 21.) EMMI rendelet |
 | 2023-09-01 | 2012-20-20-5H.34 | 23/2023. (VI. 30.) BM rendelet |
+| 2023-09-06 | 2012-20-20-5H.39 | 36/2023. (IX. 5.) BM rendelet |
