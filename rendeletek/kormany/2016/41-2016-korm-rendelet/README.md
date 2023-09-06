@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-41-20-2
 | 2022-03-06 | 2016-41-20-22.14 | 70/2022. (III. 2.) Korm. rendelet |
 | 2022-09-06 | 2016-41-20-22.15 | 333/2022. (IX. 6.) Korm. rendelet |
 | 2023-03-06 | 2016-41-20-22.16 | 46/2023. (II. 21.) Korm. rendelet |
+| 2023-09-06 | 2016-41-20-22.17 | 425/2023. (IX. 5.) Korm. rendelet |
