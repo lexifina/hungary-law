@@ -1,5 +1,0 @@
-1. § (1) E rendelet hatálya az esélyegyenlőséget, felzárkóztatást segítő támogatások igénylésének, döntési rendszerének, folyósításának, elszámolásának és ellenőrzésének részletes szabályairól szóló 9/2008. (III. 29.) OKM rendelet [a továbbiakban: 9/2008. (III. 29.) OKM rendelet] 1. § (1) bekezdésében meghatározott azon fenntartókra terjed ki, akik a 9/2008. (III. 29.) OKM rendelet 1–2. §-aiban szabályozott eljárás szerint támogatásban részesültek és az általuk fenntartott intézmény megfelel a közalkalmazottakról szóló 1992. évi XXXIII. törvény végrehajtásáról a közoktatási intézményekben tárgyú 138/1992. (X. 8.) Korm. rendelet [a továbbiakban: 138/1992. (X. 8.) Korm. rendelet] 15/A. §-ban meghatározott feltételeknek.
-
-(2) A támogatás a 2008/2009-es nevelési év, tanév 2009. január 1-jétől 2009. augusztus 31-ig tartó időszakára igényelhető.
-
-(3) A kiegészítő illetmény nem használható fel a 9/2008. (III. 29.) OKM rendelet 1–2. §-ai alapján elnyert támogatásból az ugyanezen rendelet 2. számú mellékeltében nevesített A) típusú tevékenységekre.
