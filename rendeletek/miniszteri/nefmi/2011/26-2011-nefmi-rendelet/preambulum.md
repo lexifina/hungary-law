@@ -1,1 +1,0 @@
-A közoktatásról szóló 1993. évi LXXIX. törvény 94. § (1) bekezdés a) és f) pontjában foglalt felhatalmazás alapján az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 41. § i) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
