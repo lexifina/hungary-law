@@ -1,1 +1,0 @@
-A közoktatásról szóló – többször módosított – 1993. évi LXXIX. törvény (a továbbiakban: közoktatásról szóló törvény) 94. §-a (1) bekezdésének a) pontjában kapott felhatalmazás alapján a következőket rendelem el:
