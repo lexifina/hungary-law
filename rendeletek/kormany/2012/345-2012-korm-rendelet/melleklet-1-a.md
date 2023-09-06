@@ -1868,13 +1868,13 @@
 
 ## 2.1.119. Budapest és az elővárosok kötöttpályás vasúti hálózatának fejlesztése.
 
-## 2.1.120. Ferencváros C elágazás – Kőbánya felső – Rákos – Rákosliget, valamint Rákos – Gyömrő vasúti vonalszakasz fejlesztése.
+## 2.1.120.
 
 ## 2.1.121. Budapest-Nyugati pályaudvar vágányhálózata és bevezető szakaszai (Budapest-Nyugati pályaudvar – Hungária körút – Kőbánya-Kispest) rekonstrukciója és fejlesztése.
 
 ## 2.1.122. A 100. számú vasútvonal, Nyíregyháza – Záhony szakasz fejlesztése.
 
-## 2.1.123. Budapest, külső körvasúti megállóhelyek (Pestújhely, Újpalota, Rákosfalva, Rákosszentmihály), valamint Albertfalva (40a) megállóhely kiépítése, fejlesztése.
+## 2.1.123.
 
 ## 2.1.124. A gödi ipari-innovációs fejlesztési területhez kapcsolódó vasúti infrastruktúra fejlesztése.
 
@@ -2014,11 +2014,11 @@
 
 ## 3.4. Helyi közúti közlekedési projektek
 
-## 3.4.1. Új Duna-híd és kapcsolódó közlekedési infrastruktúra előkészítés Budapesten.
+## 3.4.1.
 
 ## 3.4.2. Budapest Liszt Ferenc nemzetközi repülőtér közúti elérhetőségének javítása.
 
-## 3.4.3. Dél Budai Centrum (DBC) megközelíthetőségének fejlesztése.
+## 3.4.3.
 
 ## 3.4.4. A miskolci északi tehermentesítő út kiépítése a 26. számú főút és a 2505. jelű út között.
 

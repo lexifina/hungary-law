@@ -47,3 +47,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-345-20-
 | 2022-12-23 | 2012-345-20-22.49 | 458/2017. (XII. 28.) Korm. rendelet |
 | 2023-01-01 | 2012-345-20-22.39 | 458/2017. (XII. 28.) Korm. rendelet |
 | 2023-05-23 | 2012-345-20-22.40 | 198/2023. (V. 22.) Korm. rendelet |
+| 2023-09-06 | 2012-345-20-22.41 | 236/2020. (V. 26.) Korm. rendelet |
