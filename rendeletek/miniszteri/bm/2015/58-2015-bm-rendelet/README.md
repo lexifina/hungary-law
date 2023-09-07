@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-58-20-0
 | 2020-03-18 | 2015-58-20-0A.7 | 5/2020. (III. 10.) BM rendelet |
 | 2020-09-24 | 2015-58-20-0A.8 | 34/2020. (IX. 16.) BM rendelet |
 | 2023-01-01 | 2015-58-20-0A.9 | 72/2022. (XII. 27.) BM rendelet |
+| 2023-09-07 | 2015-58-20-0A.10 | 22/2023. (VIII. 30.) MK rendelet |

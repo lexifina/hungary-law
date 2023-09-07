@@ -1,3 +1,3 @@
-## 5. [^22] Záró rendelkezések
+## 5. [^24] Záró rendelkezések
 
-[^22]: Az 5. alcím (10–12. §) a 9/2016. (III. 17.) BM rendelet 5. §-ával megállapított szöveg.
+[^24]: Az 5. alcím (10–12. §) a 9/2016. (III. 17.) BM rendelet 5. §-ával megállapított szöveg.
