@@ -1,4 +1,4 @@
-## 26/A. [^177] Kibervédelmi intézkedések
+## 26/A. [^195] Kibervédelmi intézkedések
 
 40/A. § (1) A nemzetbiztonsági szakszolgálat elektronikus úton tájékoztatja az együttműködő hatóságokat és a légiközlekedés védelmében közreműködő szervezeteket az aktuális, releváns információkról, fenyegetettségről és kockázatokról, a kiberkockázatokat is beleértve, annak érdekében, hogy azok megfelelő kockázatelemzést tudjanak végrehajtani feladataik ellátásához.
 
@@ -76,4 +76,7 @@ j) a felderítő, megelőző és helyreállító intézkedések bevezetéséről
 
 (12) A légiközlekedési hatóság a (2)–(11) bekezdésben foglaltak végrehajtásához szükséges szakmai szabályokat a honlapján útmutatóban teszi közzé.
 
-[^177]: A 26/A. alcímet (40/A. §) a 789/2021. (XII. 27.) Korm. rendelet 42. §-a iktatta be.
+(13)[^196] A légiközlekedési hatóság a kockázatelemzés keretében a kockázatok felmérésére útmutatót tesz közzé a honlapján.
+
+[^195]: A 26/A. alcímet (40/A. §) a 789/2021. (XII. 27.) Korm. rendelet 42. §-a iktatta be.
+[^196]: A 40/A. § (13) bekezdését a 409/2023. (VIII. 30.) Korm. rendelet 22. §-a iktatta be.

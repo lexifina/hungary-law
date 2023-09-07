@@ -26,7 +26,7 @@ k) a légiforgalmi irányító szolgálatot ellátó szervezetre (a továbbiakba
 
 l) a repülőtér légi oldalán belül telephellyel rendelkező légijármű karbantartó, és javító szervezetre, valamint a légiközlekedési szállítási tevékenységben részt vevő légijármű karbantartó, légijármű és javító szervezetre (a továbbiakban együtt: karbantartó és javító szervezet),
 
-m) a földi kiszolgálási tevékenységet végző gazdálkodó szervezetekre, meghatalmazott ügynökre, ismert szállítóra, listás szállítóra, biztonsági vállalkozásra, fedélzeti ellátmány meghatalmazott beszállítójára, fedélzeti ellátmány ismert beszállítójára, repülőtéri készlet ismert beszállítójára, légiközlekedés védelmi tevékenységet végző jogalanyokra (a továbbiakban együtt: egyéb jogalany),
+m)[^2] a földi kiszolgálási tevékenységet végző gazdálkodó szervezetekre, meghatalmazott ügynökre, ismert szállítóra, a 100 főnél több munkavállalót foglalkoztató vámmentes boltra, biztonsági vállalkozásra, fedélzeti ellátmány meghatalmazott beszállítójára, fedélzeti ellátmány ismert beszállítójára, repülőtéri készlet ismert beszállítójára, légiközlekedés védelmi tevékenységet végző jogalanyokra (a továbbiakban együtt: egyéb jogalany),
 
 n) a légitársasággal személyszállítási szerződést kötött, a magáncélú repülést vagy a vállalati célú repülést igénybe vevő személyre (a továbbiakban: utas)
 
@@ -38,12 +38,13 @@ nc) a légijármű fedélzetén tartózkodás szabályai
 
 tekintetében,
 
-o)[^2] a katonai légügyi hatóságra.
+o)[^3] a katonai légügyi hatóságra.
 
-p)[^3] a Nemzetbiztonsági Szakszolgálatra.
+p)[^4] a Nemzetbiztonsági Szakszolgálatra.
 
 (2) A légiközlekedés védelmi tevékenységre a 46. §-ban felsorolt uniós jogi aktusok a légiközlekedésről szóló 1995. évi XCVII. törvényben, valamint az e rendeletben foglaltakkal együttesen alkalmazandóak.
 
 [^1]: Az 1. § (1) bekezdése a 240/2011. (XI. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^2]: Az 1. § (1) bekezdés o) pontját a 379/2016. (XII. 2.) Korm. rendelet 158. § (1) bekezdése iktatta be.
-[^3]: Az 1. § (1) bekezdés p) pontját a 789/2021. (XII. 27.) Korm. rendelet 33. §-a iktatta be.
+[^2]: Az 1. § (1) bekezdés m) pontja a 409/2023. (VIII. 30.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § (1) bekezdés o) pontját a 379/2016. (XII. 2.) Korm. rendelet 158. § (1) bekezdése iktatta be.
+[^4]: Az 1. § (1) bekezdés p) pontját a 789/2021. (XII. 27.) Korm. rendelet 33. §-a iktatta be.
