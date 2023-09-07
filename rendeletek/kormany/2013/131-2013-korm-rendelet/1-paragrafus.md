@@ -1,3 +1,0 @@
-1. § (1) A rendelet hatálya az Információs Hivatal (a továbbiakban: IH) által üzemben tartott járművekre (a továbbiakban: járművek) terjed ki.
-
-(2) A járművek esetében a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendeletben, a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendeletben, valamint a közúti járművek környezetvédelmi felülvizsgálatának szabályairól szóló 77/2009. (XII. 15.) KHEM–IRM–KvVM együttes rendeletben (a továbbiakban: együttes rendelet) foglaltakat az e rendeletben foglalt eltérésekkel kell alkalmazni.
