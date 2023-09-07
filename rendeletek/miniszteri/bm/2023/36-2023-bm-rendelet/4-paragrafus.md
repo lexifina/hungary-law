@@ -1,7 +1,3 @@
-4. § Hatályát veszti az R.
+4. §[^5]
 
-a) 41. § (4) bekezdésében az „A középfokú iskola igazgatója az ideiglenes felvételi rangsort a KIFIR rendszerből kinyomtatja, és minden oldalát aláírásával és az iskola körbélyegzőjének lenyomatával ellátva megőrzi.” szövegrész,
-
-b) 193. § (3)–(17) és (26) bekezdése,
-
-c) 193/A. §-a.
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
