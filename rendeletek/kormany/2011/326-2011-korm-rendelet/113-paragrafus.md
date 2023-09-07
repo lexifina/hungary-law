@@ -24,7 +24,7 @@ bb)[^535] a forgalmi engedélyt, kivéve a magyar hatóság által kiállított 
 
 (5)[^538] A vezetői engedély 31. § (5) bekezdésében foglaltak szerinti kézbesítése esetén az ügyfél köteles a vezetői engedély kiállításának alapjául szolgáló előző vezetői engedélyt a humánjárvány miatt kihirdetett veszélyhelyzet vagy a Kormány által elrendelt egészségügyi válsághelyzet megszűnésétől számított 15 napon belül a lakóhelye szerint illetékes járási (fővárosi kerületi) hivatalhoz visszaküldeni, vagy ott személyesen leadni.
 
-(6)[^539] Ha a magyar vezetői engedély cseréjére automatizált kiállítás útján kerül sor, az ügyfél az elkészült új vezetői engedély
+(6)[^539] Ha a magyar vezetői engedély cseréjére automatikus kiállítás útján kerül sor, az ügyfél az elkészült új vezetői engedély
 
 a) személyes átvétele esetén a (4) bekezdésben foglaltak szerint jár el,
 
@@ -38,5 +38,5 @@ b) postai úton történő átvétele esetén a kiállítás alapjául szolgál�
 [^536]: A 113. § (3) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 39. § (2) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 368. § l) pontja, a 360/2019. (XII. 30.) Korm. rendelet 94. § (3) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^537]: A 113. § (4) bekezdése a 467/2015. (XII. 29.) Korm. rendelet 25. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés o) pontja szerint módosított szöveg.
 [^538]: A 113. § (5) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 40. § (1) bekezdése iktatta be, szövege az 572/2020. (XII. 9.) Korm. rendelet 46. § g) pontja szerint módosított szöveg.
-[^539]: A 113. § (6) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 40. § (2) bekezdése iktatta be, nyitó szövegrésze a 628/2022. (XII. 30.) Korm. rendelet 33. § a) pontja szerint módosított szöveg.
+[^539]: A 113. § (6) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 40. § (2) bekezdése iktatta be, nyitó szövegrésze a 409/2023. (VIII. 30.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.
 [^540]: A 113. § (7) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 40. § (2) bekezdése iktatta be.

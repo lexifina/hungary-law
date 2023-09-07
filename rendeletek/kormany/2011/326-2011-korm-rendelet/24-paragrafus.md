@@ -1,16 +1,16 @@
-24. § (1)[^119] A járművezetésre jogosító okmányok kiállítása iránti eljárás a vezetői engedély automatizált kiállítása, valamint az okmány gyártmányhibája vagy hivatalbóli adatjavítás miatti cseréje esetén hivatalból, minden más esetben kérelemre indul.
+24. § (1)[^119] A járművezetésre jogosító okmányok kiállítása iránti eljárás a vezetői engedély automatikus kiállítása, valamint az okmány gyártmányhibája vagy hivatalbóli adatjavítás miatti cseréje esetén hivatalból, minden más esetben kérelemre indul.
 
 (2)[^120] A vezetői engedély kiállítása iránti kérelmet a közlekedési igazgatási hatóságnál személyesen kell benyújtani
 
 a) a külföldi vezetői engedély cseréje, honosítása vagy visszahonosítása,
 
-b)[^121] a vezetői engedély automatizált kiállításának visszautasítása és
+b)[^121] a vezetői engedély automatikus kiállításának visszautasítása és
 
-c)[^122] a vezetői engedély automatizált kiállításának ügyfél által elhárítható akadálya
+c)[^122] a vezetői engedély automatikus kiállításának ügyfél által elhárítható akadálya
 
 esetén.
 
-(2a)[^123] A településszintű lakcímmel rendelkező személy esetén nem alkalmazhatóak a vezetői engedély házasságkötésből eredő névváltoztatás miatti automatizált kiállításra vonatkozó szabályok.
+(2a)[^123] A településszintű lakcímmel rendelkező személy esetén nem alkalmazhatóak a vezetői engedély házasságkötésből eredő névváltoztatás miatti automatikus kiállításra vonatkozó szabályok.
 
 (3)[^124] Az elektronikus úton kezdeményezett pótlás esetén – az okmányazonosító adat és a kiállítás dátumának kivételével – a korábbi vezetői engedéllyel megegyező adattartalommal kell kiállítani a vezetői engedélyt.
 
@@ -18,7 +18,7 @@ esetén.
 
 (4a)[^125] A személyazonosító igazolvány kiadása és az egységes arcképmás- és aláírás-felvételezés szabályairól szóló kormányrendelet szerinti egységes arcképmás- és aláírás-felvételezés szabályait a vezetői engedély kiadására irányuló hatósági eljárásban az e rendeletben foglalt eltérésekkel kell alkalmazni.
 
-(4b)[^126] A vezetői engedély automatizált kiállítása során a (4a) bekezdés szerinti, a felvételezésétől számított három évnél nem régebbi arcképmás és aláírás használható fel. Amennyiben csak ennél régebbi aláírás és arcképmás felvétel áll rendelkezésre, úgy az ügyfélnek videotechnológiával történt személyazonosítást követően elektronikus úton vagy bármely kormányablakban személyesen van lehetősége új egységes arcképmás- és aláírás-felvételezést kezdeményezni.
+(4b)[^126] A vezetői engedély automatikus kiállítása során a (4a) bekezdés szerinti, a felvételezésétől számított három évnél nem régebbi arcképmás és aláírás használható fel. Amennyiben csak ennél régebbi aláírás és arcképmás felvétel áll rendelkezésre, úgy az ügyfélnek videotechnológiával történt személyazonosítást követően elektronikus úton vagy bármely kormányablakban személyesen van lehetősége új egységes arcképmás- és aláírás-felvételezést kezdeményezni.
 
 (5)[^127] A kérelem benyújtásakor a kérelmezőnek a személyazonosságát igazolnia kell.
 
@@ -36,14 +36,14 @@ esetén.
 
 (12) A közlekedési igazgatási hatóság a személyi azonosítót a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá tartozó személyek esetében az azt igazoló és az ügyfél által bemutatott okmány alapján ellenőrzi.
 
-[^119]: A 24. § (1) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 30. § (1) bekezdésével megállapított, a 628/2022. (XII. 30.) Korm. rendelet 33. § a) pontja szerint módosított szöveg.
+[^119]: A 24. § (1) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 30. § (1) bekezdésével megállapított, a 409/2023. (VIII. 30.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.
 [^120]: A 24. § (2) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 30. § (1) bekezdésével megállapított szöveg.
-[^121]: A 24. § (2) bekezdés b) pontja a 628/2022. (XII. 30.) Korm. rendelet 33. § a) pontja szerint módosított szöveg.
-[^122]: A 24. § (2) bekezdés c) pontja a 628/2022. (XII. 30.) Korm. rendelet 33. § a) pontja szerint módosított szöveg.
-[^123]: A 24. § (2a) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 30. § (2) bekezdése iktatta be, szövege a 628/2022. (XII. 30.) Korm. rendelet 33. § a) pontja szerint módosított szöveg.
+[^121]: A 24. § (2) bekezdés b) pontja a 409/2023. (VIII. 30.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.
+[^122]: A 24. § (2) bekezdés c) pontja a 409/2023. (VIII. 30.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.
+[^123]: A 24. § (2a) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 30. § (2) bekezdése iktatta be, szövege a 409/2023. (VIII. 30.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.
 [^124]: A 24. § (3) bekezdését az 544/2013. (XII. 30.) Korm. rendelet 43. § a) pontja hatályon kívül helyezte, újonnan a 477/2016. (XII. 27.) Korm. rendelet 57. § (3) bekezdése iktatta be.
 [^125]: A 24. § (4a) bekezdését a 194/2015. (VII. 21.) Korm. rendelet 5. §-a iktatta be, szövege a 414/2015. (XII. 23.) Korm. rendelet 72. §-a szerint módosított szöveg.
-[^126]: A 24. § (4b) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 30. § (3) bekezdése iktatta be, szövege a 375/2021. (VI. 30.) Korm. rendelet 16. § 6. pontja, a 628/2022. (XII. 30.) Korm. rendelet 33. § a) pontja szerint módosított szöveg.
+[^126]: A 24. § (4b) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 30. § (3) bekezdése iktatta be, szövege a 375/2021. (VI. 30.) Korm. rendelet 16. § 6. pontja, a 409/2023. (VIII. 30.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.
 [^127]: A 24. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 367. § (6) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^128]: A 24. § (7) bekezdése a 6/2020. (I. 31.) Korm. rendelet 9. §-ával megállapított, az 572/2020. (XII. 9.) Korm. rendelet 45. § 9. pontja szerint módosított szöveg.
 [^129]: A 24. § (8) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 369. § a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.

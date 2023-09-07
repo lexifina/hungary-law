@@ -2,15 +2,15 @@
 
 (2)[^160] Az elkészült vezetői engedély átvehető bármely közlekedési igazgatási hatóságnál vagy a Nyilvántartónál is, amely hatóság az okmányt a kiállítástól számított hatvan napig őrzi meg, és az ez idő alatt át nem vett okmányt selejtezi, és az erre feljogosított adatfeldolgozó részére megsemmisítésre megküldi.
 
-(3)[^161] Az átvétel módját és helyét az ügyfélnek – a (4) bekezdésben foglaltakra is figyelemmel – a vezetői engedély automatizált kiállításához szükséges nyilatkozatok megtételekor, vagy személyes eljárás esetén a kérelem benyújtásakor kell meghatároznia.
+(3)[^161] Az átvétel módját és helyét az ügyfélnek – a (4) bekezdésben foglaltakra is figyelemmel – a vezetői engedély automatikus kiállításához szükséges nyilatkozatok megtételekor, vagy személyes eljárás esetén a kérelem benyújtásakor kell meghatároznia.
 
-(4)[^162] Az elkészült vezetői engedély postai úton történő megküldése a vezetői engedély automatizált kiállításának eseteit kivéve nem kérhető abban az esetben, ha az ügyfél a vezetői engedély kiállítása alapjául szolgáló előző vezetői engedélyét az új okmány kézhezvételéig visszakapja. Ebben az esetben az okmány csak a közlekedési igazgatási hatóságnál vagy a Nyilvántartónál vehető át.
+(4)[^162] Az elkészült vezetői engedély postai úton történő megküldése a vezetői engedély automatikus kiállításának eseteit kivéve nem kérhető abban az esetben, ha az ügyfél a vezetői engedély kiállítása alapjául szolgáló előző vezetői engedélyét az új okmány kézhezvételéig visszakapja. Ebben az esetben az okmány csak a közlekedési igazgatási hatóságnál vagy a Nyilvántartónál vehető át.
 
 (5)[^163] A (2) bekezdésben foglaltaktól eltérően, humánjárvány miatt kihirdetett veszélyhelyzet és a Kormány által elrendelt egészségügyi válsághelyzet idején az elkészült vezetői engedély – a (4) bekezdésben meghatározott kivétellel – kizárólag postai úton, hivatalos iratként kerül kézbesítésre az ügyfeleknek. Ha az ügyfél az eljárás megindításakor valamely közlekedési igazgatási hatóságot jelölte meg az átvétel helyeként, akkor az okmányt az ügyfél engedély-nyilvántartásban szereplő belföldi tartózkodási helyére, ennek hiányában belföldi lakóhelyére kell kézbesíteni. Az át nem vett okmányokra az (1) és (2) bekezdésben foglaltakat kell alkalmazni.
 
 [^158]: A 31. § a 467/2015. (XII. 29.) Korm. rendelet 13. §-ával megállapított szöveg.
 [^159]: A 31. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés b) és f) pontja, a 284/2020. (VI. 17.) Korm. rendelet 45. § (3) bekezdés a) pontja, az 572/2020. (XII. 9.) Korm. rendelet 45. § 10. pontja, a 375/2021. (VI. 30.) Korm. rendelet 16. § 11. pontja szerint módosított szöveg.
 [^160]: A 31. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 186. § (7) bekezdésével megállapított, a 284/2020. (VI. 17.) Korm. rendelet 45. § (3) bekezdés b) pontja, a 375/2021. (VI. 30.) Korm. rendelet 16. § 12. pontja szerint módosított szöveg.
-[^161]: A 31. § (3) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 45. § 11. pontja, a 628/2022. (XII. 30.) Korm. rendelet 33. § a) pontja szerint módosított szöveg.
-[^162]: A 31. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés j) pontja, az 572/2020. (XII. 9.) Korm. rendelet 45. § 12. pontja, a 628/2022. (XII. 30.) Korm. rendelet 33. § a) pontja szerint módosított szöveg.
+[^161]: A 31. § (3) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 45. § 11. pontja, a 409/2023. (VIII. 30.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.
+[^162]: A 31. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés j) pontja, az 572/2020. (XII. 9.) Korm. rendelet 45. § 12. pontja, a 409/2023. (VIII. 30.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.
 [^163]: A 31. § (5) bekezdését a 284/2020. (VI. 17.) Korm. rendelet 45. § (2) bekezdése iktatta be, szövege az 572/2020. (XII. 9.) Korm. rendelet 32. §-ával megállapított szöveg.

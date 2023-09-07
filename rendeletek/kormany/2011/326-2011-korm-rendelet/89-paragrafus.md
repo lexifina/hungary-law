@@ -14,13 +14,13 @@ c) a 17. melléklet B. pontja szerinti forgalmi engedélyek esetében, a „Műs
 
 (4a)[^415] A korábban kiadott forgalmi engedélyt az új forgalmi engedély kiállításával egyidejűleg le kell adni. A leadott forgalmi engedélyt a közlekedési igazgatási hatóság selejtezi, és az erre feljogosított adatfeldolgozónak megsemmisítésre megküldi.
 
-(4b)[^416] Ha a forgalmi engedély cseréjére automatizált kiállítás útján hivatalból kerül sor, az ügyfél az elkészült új forgalmi engedély
+(4b)[^416] Ha a forgalmi engedély cseréjére automatikus kiállítás útján hivatalból kerül sor, az ügyfél az elkészült új forgalmi engedély
 
 a) személyes átvétele esetén az előző forgalmi engedélyt az új forgalmi engedély átvételével egyidejűleg leadja,
 
 b) postai úton történő átvétele esetén az előző forgalmi engedélyt az új forgalmi engedély kézhezvételétől számított 15 napon belül a lakóhelye szerint illetékes járási (fővárosi kerületi) hivatalhoz visszaküldi, vagy ott személyesen leadja.
 
-(4c)[^417] Ha a forgalmi engedély (4) bekezdés szerinti kiállítására automatizált eljárásban kérelemre kerül sor, az ügyfél az elkészült új forgalmi engedély
+(4c)[^417] Ha a forgalmi engedély (4) bekezdés szerinti kiállítására automatikus eljárásban kérelemre kerül sor, az ügyfél az elkészült új forgalmi engedély
 
 a) személyes átvétele esetén az előző forgalmi engedélyt az új forgalmi engedély átvételével egyidejűleg leadja,
 
@@ -53,8 +53,8 @@ b) postai úton történő átvétele esetén az előző forgalmi engedélyt az 
 [^413]: A 89. § (3) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 45. § 29. pontja szerint módosított szöveg.
 [^414]: A 89. § (4) bekezdése a 440/2016. (XII. 16.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
 [^415]: A 89. § (4a) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 38. §-a iktatta be, szövege a 375/2021. (VI. 30.) Korm. rendelet 16. § 20. pontja szerint módosított szöveg.
-[^416]: A 89. § (4b) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 38. §-a iktatta be, szövege a 628/2022. (XII. 30.) Korm. rendelet 30. § (1) bekezdésével megállapított szöveg.
-[^417]: A 89. § (4c) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 38. §-a iktatta be, szövege a 628/2022. (XII. 30.) Korm. rendelet 30. § (1) bekezdésével megállapított szöveg.
+[^416]: A 89. § (4b) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 38. §-a iktatta be, nyitó szövegrésze a 409/2023. (VIII. 30.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.
+[^417]: A 89. § (4c) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 38. §-a iktatta be, nyitó szövegrésze a 409/2023. (VIII. 30.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.
 [^418]: A 89. § (4d) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 38. §-a iktatta be.
 [^419]: A 89. § (4e) bekezdését a 628/2022. (XII. 30.) Korm. rendelet 30. § (2) bekezdése iktatta be.
 [^420]: A 89. § (5) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 154. § (11) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés b) pontja szerint módosított szöveg.
