@@ -62,10 +62,10 @@ c) közlekedésmérnök alapképzési szakon szerzett diploma vagy
 
 d) közlekedésmérnök mesterképzési szakon szerzett diploma vagy
 
-e)[^81] középfokú szakképesítés:
+e)[^82] középfokú szakképesítés:
 
 ea) nemzetközi szállítmányozási és logisztikai menedzser
 
 eb) forgalmi tiszti felsőfokú tanfolyami szakképesítés.
 
-[^81]: A 2. melléklet 4. pont e) alpont nyitó szövegrésze a 13/2020. (II. 7.) Korm. rendelet 105. §-a szerint módosított szöveg.
+[^82]: A 2. melléklet 4. pont e) alpont nyitó szövegrésze a 13/2020. (II. 7.) Korm. rendelet 105. §-a szerint módosított szöveg.

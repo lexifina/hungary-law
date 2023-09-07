@@ -4,7 +4,7 @@
 
 ## 17. A személytaxi-szolgáltatási szerződésekre vonatkozó rendelkezések
 
-20. § (1)[^51] A vállalkozást a személytaxi-szolgáltatásra – a (2)–(4) bekezdésben meghatározott kivétellel – szerződéskötési kötelezettség terheli.
+20. § (1)[^52] A vállalkozást a személytaxi-szolgáltatásra – a (2)–(4) bekezdésben meghatározott kivétellel – szerződéskötési kötelezettség terheli.
 
 (2) Nem köteles elvállalni az utas szállítását a vállalkozás – vagy képviseletében a személygépkocsi vezetője – ha azt a telephelye helységének közigazgatási határától számított 30 km-t meghaladó távolságra rendelik meg.
 
@@ -18,4 +18,4 @@ c) ruházatával, poggyászával, vagy más módon a járművet beszennyezheti.
 
 (4) A magatehetetlen vagy a szolgáltatás igénybevételére kísérő nélkül nem képes személy, valamint a hat éven aluli kiskorú személy, kísérő nélküli szállítását a vállalkozás – vagy képviseletében a személytaxi vezetője – megtagadhatja.
 
-[^51]: A 20. § (1) bekezdése a 394/2022. (X. 19.) Korm. rendelet 24. § j) pontja szerint módosított szöveg.
+[^52]: A 20. § (1) bekezdése a 394/2022. (X. 19.) Korm. rendelet 24. § j) pontja szerint módosított szöveg.
