@@ -1,0 +1,3 @@
+21. § Az R1. 40. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A Légiközlekedés Védelmi és Kényszerhelyzeti Tervben foglalt feladatok gyakorlására és az eredmények értékelésére a 2 millió fő feletti utasforgalommal rendelkező kereskedelmi repülőtér esetében évente, ezt az utasforgalmat el nem érő kereskedelmi repülőterek esetén kétévente kell végrehajtani. A védelmi gyakorlat irányítója az a szervezet, amely éles kényszerhelyzet esetén az irányító. A védelmi gyakorlat időpontjáról a légiközlekedési hatóságot legalább a védelmi gyakorlat időpontja előtt egy hónappal tájékoztatni kell.”
