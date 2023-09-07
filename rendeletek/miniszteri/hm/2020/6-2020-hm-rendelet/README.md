@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-6-20-15
 | --- | --- | --- |
 | 2020-04-17 | 2020-6-20-15.1 | 6/2020. (IV. 16.) HM rendelet |
 | 2021-08-12 | 2020-6-20-15.2 | 17/2021. (VIII. 11.) HM rendelet |
+| 2023-09-07 | 2020-6-20-15.3 | 19/2023. (IX. 6.) HM rendelet |
