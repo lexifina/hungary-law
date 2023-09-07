@@ -4,7 +4,7 @@
 
 a) az M1, M2, N1, N2 és N3 járműkategóriák tekintetében a Közbeszerzési és Ellátási Főigazgatóság, továbbá
 
-b)[^1] az M3 járműkategória tekintetében a VPE Vasúti Pályakapacitás-elosztó Korlátolt Felelősségű Társaság
+b)[^1] az M3 járműkategória tekintetében a KTI Magyar Közlekedéstudományi és Logisztikai Intézet Nonprofit Korlátolt Felelősségű Társaság
 
 látja el.
 
@@ -26,4 +26,4 @@ g) közreműködik a 8. § szerinti egyéb jelentési kötelezettségek teljesí
 
 h) elkészíti a járműbeszerzési terv részletes tartalmára vonatkozó módszertani útmutatót.
 
-[^1]: A 4. § (1) bekezdés b) pontja a 141/2023. (IV. 24.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^1]: A 4. § (1) bekezdés b) pontja a 409/2023. (VIII. 30.) Korm. rendelet 36. §-ával megállapított szöveg.
