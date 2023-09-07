@@ -18,4 +18,6 @@ g) az egyéb kötöttpályás közlekedés biztonságával összefüggő munkak�
 
 (3) A bejelentéshez mellékelni kell a tevékenységet végző személy vagy szervezet kötelező baleseti kárfedezeti képességének biztosításának részletes szabályairól szóló kormányrendeletben meghatározott követelményeknek való megfeleléséről szóló igazolást.
 
-(4) A bejelentő a bejelentésért a vasúti igazgatási szerv által végzett vasúti hatósági eljárások igazgatási szolgáltatási díjairól szóló miniszteri rendeletben előírt igazgatási szolgáltatási díjat köteles fizetni. A bejelentéshez mellékelni kell az igazgatási szolgáltatási díj megfizetésének igazolását.
+(4)[^1]
+
+[^1]: A 2. § (4) bekezdését a 409/2023. (VIII. 30.) Korm. rendelet 33. § a) pontja hatályon kívül helyezte.
