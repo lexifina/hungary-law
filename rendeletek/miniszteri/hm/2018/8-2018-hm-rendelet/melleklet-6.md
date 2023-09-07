@@ -36,6 +36,8 @@
 
 | 18. | legénységi állománycsoport | 1,3 |
 
-6. melléklet a 8/2018. (VI. 22.) HM rendelethez
+6. melléklet a 8/2018. (VI. 22.) HM rendelethez[^207]
 
 A külföldi napidíj-kiegészítés nettó összege
+
+[^207]: A 6. melléklet a 18/2023. (IX. 6.) HM rendelet 2. §-ával megállapított szöveg.

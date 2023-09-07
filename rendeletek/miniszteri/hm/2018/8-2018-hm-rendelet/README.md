@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-8-20-15
 | 2022-08-20 | 2018-8-20-15.11 | 7/2022. (IV. 14.) HM rendelet |
 | 2022-10-19 | 2018-8-20-15.12 | 14/2022. (X. 18.) HM rendelet |
 | 2022-12-29 | 2018-8-20-15.13 | 2/2019. (I. 31.) HM rendelet |
+| 2023-09-07 | 2018-8-20-15.14 | 18/2023. (IX. 6.) HM rendelet |
