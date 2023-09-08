@@ -1,3 +1,3 @@
-22. § Az R1. 40/A. §-a a következő (13) bekezdéssel egészül ki:
+22. §[^23]
 
-„(13) A légiközlekedési hatóság a kockázatelemzés keretében a kockázatok felmérésére útmutatót tesz közzé a honlapján.”
+[^23]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

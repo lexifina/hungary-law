@@ -1,3 +1,3 @@
-15. § Az R1. 31. § (1) bekezdése helyébe a következő rendelkezés lép:
+15. §[^16]
 
-„(1) A légiközlekedési hatóság nemzeti légiközlekedés-védelmi határozatban rendeli el a szigorúbb intézkedések bevezetését, amelyről haladéktalanul tájékoztatja a Bizottságot.”
+[^16]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

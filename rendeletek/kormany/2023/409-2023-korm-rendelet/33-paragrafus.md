@@ -1,7 +1,5 @@
 ## 7. A vasútnak nem minősülő egyéb kötöttpályás közlekedési tevékenység bejelentésének részletes szabályairól szóló 514/2017. (XII. 29.) Korm. rendelet módosítása
 
-33. § Hatályát veszti a vasútnak nem minősülő egyéb kötöttpályás közlekedési tevékenység bejelentésének részletes szabályairól szóló 514/2017. (XII. 29.) Korm. rendelet
+33. §[^34]
 
-a) 2. § (4) bekezdése,
-
-b) 3. § (3) bekezdés c) pontja.
+[^34]: A 33. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

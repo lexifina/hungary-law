@@ -1,3 +1,3 @@
-20. § Az R1. 37. § (2) bekezdése helyébe a következő rendelkezés lép:
+20. §[^21]
 
-„(2) A fedélzeti ellátmány ismert beszállítóját az a légitársaság vagy jogi személy jelöli ki és ellenőrzi az (EU) 2015/1998 bizottsági végrehajtási rendelet Melléklet 8.1.4.4. pontja szerint, amely részére az szállít. A meghatalmazott ügynökök, ismert szállítók, meghatalmazott beszállítók listáját a légiközlekedési hatóság a honlapján közzéteszi.”
+[^21]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

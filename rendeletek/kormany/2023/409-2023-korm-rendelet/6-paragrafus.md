@@ -1,11 +1,3 @@
-## „e) terrorkockázati szempontból szakhatóságként részt vesz az (EU) 2015/1998 bizottsági végrehajtási rendelet Melléklet 11.1.3. pont d) alpontja szerinti védelmi háttérellenőrzési eljárásban,”
+6. §[^7]
 
-6. § (1) Az R1. 15. § e) pontja helyébe a következő rendelkezés lép:
-
-(Az AH)
-
-## „e) nemzetbiztonsági szempontból szakhatóságként részt vesz az (EU) 2015/1998 bizottsági végrehajtási rendelet Melléklet 11.1.3. pont d) alpontja szerinti védelmi háttérellenőrzési eljárásban,”
-
-(2) Az R1. 15. § h) pontja helyébe a következő rendelkezés lép:
-
-(Az AH)
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

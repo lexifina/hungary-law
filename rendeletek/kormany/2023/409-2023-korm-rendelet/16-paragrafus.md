@@ -1,3 +1,3 @@
-16. § Az R1. 32. § (1) bekezdése helyébe a következő rendelkezés lép:
+16. §[^17]
 
-„(1) A harmadik ország által megkövetelt, magyar repülőtéren alkalmazandó szigorúbb védelmi intézkedések alkalmazására irányuló kérelmet a légiközlekedési hatóság juttatja el a Bizottságnak.”
+[^17]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

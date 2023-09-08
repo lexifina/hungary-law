@@ -1,3 +1,3 @@
-17. § Az R1. 34. §-a a következő (6) bekezdéssel egészül ki:
+17. §[^18]
 
-„(6) Ha a jóváhagyott meghatalmazott ügynök, ismert szállító, meghatalmazott beszállító két éven belül nem folytat az e jogkörhöz kapcsolódó tevékenységet, a légiközlekedési hatóság az engedélyét visszavonja.”
+[^18]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

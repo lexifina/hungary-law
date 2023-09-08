@@ -1,3 +1,3 @@
-14. § Az R1. 28. §-a helyébe a következő rendelkezés lép:
+14. §[^15]
 
-„28. § A repülőtér területén a megfigyelést, őrjáratot és egyéb fizikai ellenőrzést a repülőtér üzemben tartója hajtja végre.”
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

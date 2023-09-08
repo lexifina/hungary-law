@@ -1,5 +1,3 @@
-## „q) saját maga vagy meghatalmazottja útján ellátja a belterületi gépjárművezetői engedélyekkel kapcsolatos kibocsátói feladatokat,”
+9. §[^10]
 
-9. § Az R1. 18. § a) pontja helyébe a következő rendelkezés lép:
-
-(A légitársaság)
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
