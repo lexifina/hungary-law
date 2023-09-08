@@ -1,13 +1,3 @@
-12. § Hatályát veszti a belügyminiszter irányítása alá tartozó rendvédelmi szervek által üzemben tartott szolgálati járművekre, azok forgalomba helyezésére, időszakos vizsgálatára vonatkozó különös szabályokról szóló 58/2015. (X. 27.) BM rendelet
+12. §[^1]
 
-a) 2. alcíme,
-
-b) 3. § (2) bekezdése,
-
-c) 4. § (1) bekezdésében az „– a 2. § (1) bekezdésében meghatározott kivétellel –” szövegrész,
-
-d) 7/B. § (4) bekezdésében az „a polgári nemzetbiztonsági szolgálatok,” szövegrész,
-
-e) 7/B. § (9) bekezdésében a „polgári nemzetbiztonsági szolgálatok, a” szövegrész,
-
-f) 1. melléklete.
+[^1]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
