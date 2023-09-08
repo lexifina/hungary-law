@@ -1,3 +1,3 @@
-8. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^178]
+8. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^179]
 
-[^178]: A 8. mellékletet a 26/2022. (XII. 28.) PM rendelet 13. § d) pontja hatályon kívül helyezte.
+[^179]: A 8. mellékletet a 26/2022. (XII. 28.) PM rendelet 13. § d) pontja hatályon kívül helyezte.

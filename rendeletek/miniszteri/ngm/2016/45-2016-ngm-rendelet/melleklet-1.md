@@ -284,6 +284,8 @@ termék*
 
 3.35.[^168] A Jöt. 62. § (13) bekezdése szerinti termék feladása saját adóraktár részére*
 
+3.36.[^169] Adóraktárban a Jöt. 3. § (3) bekezdés 1. pontja szerinti alkoholmentesítéssel előállított csendes bor feladása egyszerűsített adóraktár vagy kisüzemi bortermelő részére*
+
 4. Zárókészlet (elszámolási időszak végén)
 
 4.1. Az állami adó- és vámhatóság jelenlétében végzett készletfelvétel esetén
@@ -657,4 +659,5 @@ IV. Bérfőzésre vonatkozó adatok (bérfőzetőnként és bérfőzésenként)
 [^165]: Az 1. melléklet 3.32. pontja a 26/2022. (XII. 28.) PM rendelet 11. § a) pontjával megállapított szöveg.
 [^166]: Az 1. melléklet II. Termékkészlet elszámolás (termék megnevezése, jövedéki termék KN-kódja*, jövedéki termék fajtakódja*, termék mennyisége*, [dohánygyártmány esetében kiszerelési egység és kiskereskedelmi eladási ár is]*) pont 3. alpont 3.33. pontját a 15/2018. (XII. 18.) PM rendelet 6. §-a iktatta be.
 [^167]: Az 1. melléklet II. Termékkészlet elszámolás (termék megnevezése, jövedéki termék KN-kódja*, jövedéki termék fajtakódja*, termék mennyisége*, [dohánygyártmány esetében kiszerelési egység és kiskereskedelmi eladási ár is]*) pont 3. Készletcsökkenés (bizonylat száma) alpont 3.34. pontját a 7/2020. (VII. 30.) PM rendelet 11. § a) pontja iktatta be, hatályon kívül helyezte a 7/2021. (VII. 29.) PM rendelet 4. §-a.
-[^168]: Az 1. melléklet 3.35. pontját a 7/2020. (VII. 30.) PM rendelet 11. § a) pontja iktatta be, szövege a 26/2022. (XII. 28.) PM rendelet 11. § a) pontjával megállapított szöveg.
+[^168]: Az 1. melléklet II. pont 3. alpont 3.35. pontját a 7/2020. (VII. 30.) PM rendelet 11. § a) pontja iktatta be, szövege a 26/2022. (XII. 28.) PM rendelet 11. § a) pontjával megállapított szöveg.
+[^169]: Az 1. melléklet 3.36. pontját a 6/2023. (IX. 5.) PM rendelet 11. § a) pontja iktatta be.

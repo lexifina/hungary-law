@@ -1,4 +1,4 @@
-13. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^180]
+13. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^181]
 
 Jövedéki engedélyes kereskedő és jövedéki kiskereskedő által forgalmazható üzemanyag minőségi követelményei
 
@@ -948,4 +948,26 @@ Jövedéki engedélyes kereskedő és jövedéki kiskereskedő által forgalmazh
 
 6.2. Évszakhoz kötött gőznyomás- (túlnyomás-) határértékek 40 °C-on
 
-[^180]: A 13. melléklet az 5/2017. (III. 30.) NGM rendelet 31. § (5) bekezdése, a 47/2017. (XII. 27.) NGM rendelet 12. § (3) bekezdése szerint módosított szöveg.
+|  | A | B | C |
+
+| 1. | Évszakhoz kötött gőznyomás- (túlnyomás-) határértékek 40 °C-on |
+
+| 2. | Fokozat | Legalább | 150 kPa-nak megfelelő hőmérséklet |
+
+| kPa |
+
+| 3. | A | 950 | -10 |
+
+| 4. | B | 800 | -5 |
+
+| 5. | C | 700 | 0 |
+
+| 6. | D | 500 | 10 |
+
+| 7. | E | 275 | 20 |
+
+| 8. | november 15-től február utolsó napjáig: B fokozat |
+
+| 9. | március 1-jétől november 14-ig: E fokozat |
+
+[^181]: A 13. melléklet az 5/2017. (III. 30.) NGM rendelet 31. § (5) bekezdése, a 47/2017. (XII. 27.) NGM rendelet 12. § (3) bekezdése szerint módosított szöveg.

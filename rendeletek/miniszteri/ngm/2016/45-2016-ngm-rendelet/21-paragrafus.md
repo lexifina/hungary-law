@@ -26,7 +26,7 @@ e) zárjegykészlet
 
 (2)[^30] Az adóraktár engedélyese a jövedéki termék mennyiségéről telephelyenként és adóraktári készlettípusonként vezetett, az 1. melléklet szerinti adatokat tartalmazó nyilvántartást – a gyártási hulladék, a Jöt. 3. § (3) bekezdés 22. pontja szerinti sörnek minősülő, erjesztést követően előállított még nem késztermék és az aroma kivételével – a jövedéki adó alapjául meghatározott mértékegységben, az energiaterméknél legalább három tizedesjegy, az üzemanyagok adaléka esetében legalább négy tizedesjegy, az alkoholterméknél legalább négy tizedesjegy, a sör, az egyéb csendes és habzó erjesztett ital, a habzóbor és a köztes alkoholtermék esetében legalább két tizedesjegy pontossággal vezeti.
 
-(2a)[^31] Az adóraktár engedélyese az általa igazoltan tüzelő- vagy fűtőanyagcélra, hulladékhasznosítási tevékenység keretében előállított Jöt. 3. § (3) bekezdés 1. pont c) alpontja szerinti jövedéki termék mennyiségét a Jöt. 132. § (5) bekezdése szerinti esetben a Jöt. 110. § (2) bekezdése szerint alkalmazni rendelt adómértékhez tartozó mértékegységben tartja nyilván. Az ilyen jövedéki termék esetében a Jöt. 110. § (2) bekezdése szerint alkalmazni rendelt adómértékhez tartozó mértékegységet kell az adó alapjául szolgáló mértékegységnek tekinteni.
+(2a)[^31] Az adóraktár engedélyese az általa igazoltan tüzelő- vagy fűtőanyagcélra, hulladékhasznosítási tevékenység keretében előállított Jöt. 3. § (3) bekezdés 1a. pont c) alpontja szerinti jövedéki termék mennyiségét a Jöt. 132. § (5) bekezdése szerinti esetben a Jöt. 110. § (2) bekezdése szerint alkalmazni rendelt adómértékhez tartozó mértékegységben tartja nyilván. Az ilyen jövedéki termék esetében a Jöt. 110. § (2) bekezdése szerint alkalmazni rendelt adómértékhez tartozó mértékegységet kell az adó alapjául szolgáló mértékegységnek tekinteni.
 
 (3) Az adóraktár nyilvántartása tartalmazza
 
@@ -56,6 +56,6 @@ f) a Jöt. szerinti készletfelvétel alkalmával kimutatott készleteltérések
 [^28]: A 21. § (1) bekezdés b) pont bb) alpontját a 47/2017. (XII. 27.) NGM rendelet 14. § 4. pontja hatályon kívül helyezte.
 [^29]: A 21. § (1) bekezdés b) pont bc) alpontja a 47/2017. (XII. 27.) NGM rendelet 13. § 5. pontja szerint módosított szöveg.
 [^30]: A 21. § (2) bekezdése a 47/2017. (XII. 27.) NGM rendelet 13. § 6. pontja, a 15/2018. (XII. 18.) PM rendelet 7. § 3. pontja szerint módosított szöveg.
-[^31]: A 21. § (2a) bekezdését a 7/2020. (VII. 30.) PM rendelet 2. §-a iktatta be.
+[^31]: A 21. § (2a) bekezdését a 7/2020. (VII. 30.) PM rendelet 2. §-a iktatta be, szövege a 6/2023. (IX. 5.) PM rendelet 10. §-a szerint módosított szöveg.
 [^32]: A 21. § (7) bekezdése az 5/2017. (III. 30.) NGM rendelet 8. § (1) bekezdésével megállapított szöveg.
 [^33]: A 21. § (8) bekezdését az 5/2017. (III. 30.) NGM rendelet 8. § (2) bekezdése iktatta be, szövege a 47/2017. (XII. 27.) NGM rendelet 13. § 7. pontja szerint módosított szöveg.
