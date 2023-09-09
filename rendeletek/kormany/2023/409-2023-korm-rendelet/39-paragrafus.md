@@ -1,1 +1,0 @@
-39. § Ez a rendelet az Unión belüli elektronikus útdíjszedési rendszerek átjárhatóságáról és az útdíjfizetés elmulasztásával kapcsolatos információk határokon átnyúló cseréjének elősegítéséről szóló, 2019. március 19-i (EU) 2019/520 európai parlamenti és tanácsi irányelv 4. cikkének, 5. cikk (4) bekezdésének, 16., valamint 17. cikkének való megfelelést szolgálja.
