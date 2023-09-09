@@ -1,1 +1,3 @@
-10. § A 45/2016. (XI. 29.) NGM rendelet 21. § (2a) bekezdésében az „1. pont” szövegrész helyébe az „1a. pont” szöveg lép.
+10. §[^10]
+
+[^10]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
