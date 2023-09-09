@@ -1,6 +1,6 @@
 ## 4. A kifizetési kérelem benyújtásának általános szabályai
 
-6. § (1)[^7] A kifizetési kérelem
+6. § (1)[^10] A kifizetési kérelem
 
 a) a 4. § (1) bekezdés a) pontjában meghatározott határidőben benyújtott támogatási kérelmekre vonatkozóan
 
@@ -20,19 +20,21 @@ bc) 2022. november 15. és december 21. között;
 
 c) a 2022. január 15. és február 15. között benyújtott támogatási kérelmekre vonatkozóan
 
-ca) 2022 november 15. és december 21. között vagy
+ca)[^11] 2022 november 15. és december 21. között
 
-cb) 2023. április 10. és május 2. között;
+cb)[^12] 2023. április 10. és május 2. között vagy;
 
-d) a 4. § (1) bekezdés c) pontjában meghatározott határidőben a 2023. évtől benyújtott támogatási kérelmekre vonatkozóan a támogatási kérelem benyújtását követő pénzügyi év november 15. és december 21. között
+cc)[^13] 2023. november 15. és december 21. között;
 
-## elektronikus úton nyújtható be a Kincstárhoz a Kormány által biztosított elektronikus azonosítási szolgáltatással elérhető, elektronikus űrlapkitöltő felületen keresztül, a Kincstár honlapján közzétett közleményben foglaltak szerint.
+d)[^14] a 4. § (1) bekezdés c) pontjában meghatározott határidőben a 2023. évtől benyújtott támogatási kérelmekre vonatkozóan a támogatási kérelem benyújtását követő pénzügyi év november 15. és december 21., továbbá április 10. és május 2. között
 
-(1a)[^8] A kifizetési kérelem az (1) bekezdés a) pontjában meghatározott későbbi időszakban akkor nyújtható be, ha a jóváhagyott támogatási kérelemben szereplő borászati gép, technológiai berendezés szállítása a szállító részéről igazoltan, a koronavírus-járvány kezelésére bevezetett szigorító intézkedések miatt a megrendelésben foglaltak szerinti időszakban nem teljesíthető, és a szállítás olyan időpontban történt, amely már nem tette lehetővé a borászati gép, technológiai berendezés üzembe helyezését és a kifizetési kérelem 2021. június 15. napjáig történő benyújtását. A kifizetési kérelemhez a szállítás késedelméről vagy időpontjának változásáról a szállító által megküldött értesítést csatolni kell.
+elektronikus úton nyújtható be a Kincstárhoz a Kormány által biztosított elektronikus azonosítási szolgáltatással elérhető, elektronikus űrlapkitöltő felületen keresztül, a Kincstár honlapján közzétett közleményben foglaltak szerint.
+
+(1a)[^15] A kifizetési kérelem az (1) bekezdés a) pontjában meghatározott későbbi időszakban akkor nyújtható be, ha a jóváhagyott támogatási kérelemben szereplő borászati gép, technológiai berendezés szállítása a szállító részéről igazoltan, a koronavírus-járvány kezelésére bevezetett szigorító intézkedések miatt a megrendelésben foglaltak szerinti időszakban nem teljesíthető, és a szállítás olyan időpontban történt, amely már nem tette lehetővé a borászati gép, technológiai berendezés üzembe helyezését és a kifizetési kérelem 2021. június 15. napjáig történő benyújtását. A kifizetési kérelemhez a szállítás késedelméről vagy időpontjának változásáról a szállító által megküldött értesítést csatolni kell.
 
 (2) Kifizetési kérelmet kizárólag – a 7. §-ban foglalt eset kivételével – az a kérelmező nyújthat be, aki vagy amely a Kincstár által jóváhagyott támogatási kérelemmel rendelkezik.
 
-(3)[^9] A kérelmező a támogatási kérelemhez kapcsolódóan egy kifizetési kérelmet nyújthat be.
+(3)[^16] A kérelmező a támogatási kérelemhez kapcsolódóan egy kifizetési kérelmet nyújthat be.
 
 (4) A kifizetési kérelem tartalmazza
 
@@ -47,6 +49,8 @@ d) a beszerzett borászati gép, technológiai berendezés üzemeltetési helyé
 e) a kérelmező gazdasági aktáját vezető hegybíró nevét és elérhetőségét,
 
 f) kisüzemi bortermelő kérelmező esetében az ezen státuszára vonatkozó nyilatkozatát.
+
+g)[^17] – a kisüzemi bortermelő kérelmező kivételével – az üzemeltetési helyre vonatkozó adóraktári vagy egyszerűsített adóraktári engedély számát, ha az a támogatási kérelem benyújtását követően megváltozott.
 
 (5) A kifizetési kérelemhez csatolni kell
 
@@ -64,13 +68,13 @@ ae) üzembehelyezési jegyzőkönyv,
 
 af) a borászati gép, technológiai berendezés műszaki adatait tartalmazó, a gyártó által kiállított dokumentum
 
-## másolatát;
+másolatát;
 
-b) a gazdasági aktát vezető hegybíró igazolását arról, hogy a kérelmező a 127/2009. (IX. 29.) FVM rendeletben meghatározott szüreti, termelési vagy készletjelentési kötelezettségének a kérelem benyújtását megelőző borpiaci évben határidőben eleget tett;
+b)[^18] a gazdasági aktát vezető hegybíró igazolását arról, hogy a kérelmező a Bkr.-ben meghatározott szüreti, termelési vagy készletjelentési kötelezettségének a kérelem benyújtását megelőző borpiaci évben határidőben eleget tett;
 
-c)[^10] az üzemeltetési hely szerinti üzemre vonatkozó, az adott borászati gép, technológiai berendezés szabályszerű működtetését lehetővé tevő, a kérelmező nevére kiállított működési engedély másolatát;
+c)[^19] az üzemeltetési hely szerinti üzemre vonatkozó, az adott borászati gép, technológiai berendezés szabályszerű működtetését lehetővé tevő, a kérelmező nevére kiállított működési engedély másolatát;
 
-d) az angoltól eltérő idegen nyelven kiállított dokumentum esetében a szakfordítói szakképesítéssel rendelkező személy által készített hiteles magyar nyelvű fordítást, valamint a fordítást végző személy szakfordítói szakképesítésének igazolását és
+d)[^20] az angoltól eltérő idegen nyelven kiállított dokumentum esetében az Országos Fordító és Fordításhitelesítő Iroda Zártkörűen Működő Részvénytársaság által készített magyar nyelvű fordítást, és
 
 e) a kérelmező 3. § (1) bekezdés f) pontja szerinti nyilatkozatait.
 
@@ -94,16 +98,23 @@ c) a beszerzett borászati gép, technológiai berendezés nem kerül a kérelme
 
 d) legkésőbb a kifizetési kérelem benyújtásának napjáig nem történik meg az üzemeltetési helyen az üzembe helyezés,
 
-e)[^11] borászati gép, technológiai berendezés vagy annak bármely, egy ajánlattevőtől származó eleme esetében a gyártás éve és a kifizetési kérelem benyújtásának éve között két évnél több idő telt el,
+e)[^21] borászati gép, technológiai berendezés vagy annak bármely, egy ajánlattevőtől származó eleme esetében a gyártás éve és a kifizetési kérelem benyújtásának éve között két évnél több idő telt el,
 
-f)[^12] a borászati gép, technológiai berendezés nem tartalmaz egyedi azonosításra alkalmas jelölést, vagy
+f)[^22] a borászati gép, technológiai berendezés nem tartalmaz egyedi azonosításra alkalmas jelölést, vagy
 
-g)[^13] a támogatási kérelemmel jóváhagyott beruházást teljes egészében nem hajtották végre.
+g)[^23] a támogatási kérelemmel jóváhagyott beruházást teljes egészében nem hajtották végre.
 
-[^7]: A 6. § (1) bekezdése a 14/2022. (III. 30.) AM rendelet 28. §-ával megállapított szöveg.
-[^8]: A 6. § (1a) bekezdését a 22/2021. (VI. 3.) AM rendelet 5. § (2) bekezdése iktatta be.
-[^9]: A 6. § (3) bekezdése a 22/2021. (VI. 3.) AM rendelet 5. § (3) bekezdésével megállapított szöveg.
-[^10]: A 6. § (5) bekezdés c) pontja a 18/2021. (IV. 14.) AM rendelet 38. § (1) bekezdésével megállapított szöveg.
-[^11]: A 6. § (11) bekezdés e) pontja a 35/2021. (X. 23.) AM rendelet 8. §-ával megállapított szöveg.
-[^12]: A 6. § (11) bekezdés f) pontja a 35/2021. (X. 23.) AM rendelet 8. §-ával megállapított szöveg.
-[^13]: A 6. § (11) bekezdés g) pontját a 18/2021. (IV. 14.) AM rendelet 38. § (2) bekezdése iktatta be.
+[^10]: A 6. § (1) bekezdése a 14/2022. (III. 30.) AM rendelet 28. §-ával megállapított szöveg.
+[^11]: A 6. § (1) bekezdés c) pont ca) alpontja az 51/2023. (IX. 6.) AM rendelet 10. § b) pontja szerint módosított szöveg.
+[^12]: A 6. § (1) bekezdés c) pont cb) alpontja az 51/2023. (IX. 6.) AM rendelet 10. § c) pontja szerint módosított szöveg.
+[^13]: A 6. § (1) bekezdés c) pont cc) alpontját az 51/2023. (IX. 6.) AM rendelet 3. § (1) bekezdése iktatta be.
+[^14]: A 6. § (1) bekezdés d) pontja az 51/2023. (IX. 6.) AM rendelet 10. § d) pontja szerint módosított szöveg.
+[^15]: A 6. § (1a) bekezdését a 22/2021. (VI. 3.) AM rendelet 5. § (2) bekezdése iktatta be.
+[^16]: A 6. § (3) bekezdése a 22/2021. (VI. 3.) AM rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^17]: A 6. § (4) bekezdés g) pontját az 51/2023. (IX. 6.) AM rendelet 3. § (2) bekezdése iktatta be.
+[^18]: A 6. § (5) bekezdés b) pontja az 51/2023. (IX. 6.) AM rendelet 10. § e) pontja szerint módosított szöveg.
+[^19]: A 6. § (5) bekezdés c) pontja a 18/2021. (IV. 14.) AM rendelet 38. § (1) bekezdésével megállapított szöveg.
+[^20]: A 6. § (5) bekezdés d) pontja az 51/2023. (IX. 6.) AM rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^21]: A 6. § (11) bekezdés e) pontja a 35/2021. (X. 23.) AM rendelet 8. §-ával megállapított szöveg.
+[^22]: A 6. § (11) bekezdés f) pontja a 35/2021. (X. 23.) AM rendelet 8. §-ával megállapított szöveg.
+[^23]: A 6. § (11) bekezdés g) pontját a 18/2021. (IV. 14.) AM rendelet 38. § (2) bekezdése iktatta be.

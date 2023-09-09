@@ -35,3 +35,7 @@ c) beszerzésével teljesülnek a 2. § (3) bekezdésében foglalt támogatási 
 d) a 2. § (3) bekezdésében foglalt feltételek teljesülésének indokoltsága bemutatásra kerül,
 
 e) üzemeltetési helye Magyarország területén van.
+
+(4)[^3] A 2023. október 15. napját követően benyújtott kifizetési kérelmek esetén – a (3) bekezdésben foglaltakon kívül – a támogatás olyan támogatható tevékenység megvalósításához igényelhető, amelynek végrehajtása teljesíti az (EU) 2021/2117 európai parlamenti és tanácsi rendelet 5. cikk (7) bekezdése, valamint az (EU) 2022/2528 felhatalmazáson alapuló bizottsági rendelet 2. cikk (3) bekezdése által meghatározott feltételeket.
+
+[^3]: A 3. § (4) bekezdését az 51/2023. (IX. 6.) AM rendelet 2. §-a iktatta be.

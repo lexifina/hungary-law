@@ -4,7 +4,7 @@
 
 1. borászati hatóság: a Nemzeti Élelmiszerlánc-biztonsági Hivatal,
 
-2. borászati üzem: a szőlőtermesztésről és a borgazdálkodásról szóló 2004. évi XVIII. törvény (a továbbiakban: Btv.) 2. § 14. pontja szerinti üzem,
+2.[^1] borászati üzem: a szőlészetről és borászatról szóló 2020. évi CLXIII. törvény (a továbbiakban: Btv.) 7. § (1) bekezdése szerinti üzem,
 
 3. egyedi azonosításra alkalmas jelölés: a gyártó – ennek hiányában a forgalmazó – által a vásárlást alátámasztó dokumentumon feltüntetett és az e rendelet alapján támogatott borászati gépen, technológiai berendezésen rögzített olyan jelölés, amely a legalább az üzembentartási időszak végéig lehetővé teszi annak egyedi azonosítását,
 
@@ -25,3 +25,5 @@
 11. üzemeltetési hely: az e rendelet alapján támogatott borászati gép, technológiai berendezés üzembe helyezésének és rendeltetésszerű használatának helye,
 
 12. terméktárolási kapacitás: az a hektoliterben kifejezett mennyiség, amely a borászati üzemben a gyártástechnológia műszaki feltételeinek betartása mellett maximálisan tárolható.
+
+[^1]: Az 1. § 2. pontja az 51/2023. (IX. 6.) AM rendelet 1. §-ával megállapított szöveg.

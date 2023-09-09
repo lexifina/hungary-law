@@ -78,6 +78,8 @@ ad) az új borászati gép, technológiai berendezés gyártási időpontját ig
 
 ae) üzembehelyezési jegyzőkönyv
 
-## másolati példányát és
+másolati példányát és
 
-b) az angoltól eltérő idegen nyelven kiállított dokumentum esetében a szakfordítói szakképesítéssel rendelkező személy által készített hiteles magyar nyelvű fordítást, valamint a fordítást végző személy szakfordítói szakképesítésének igazolását.
+b)[^32] az angoltól eltérő idegen nyelven kiállított dokumentum esetében az Országos Fordító és Fordításhitelesítő Iroda Zártkörűen Működő Részvénytársaság által készített magyar nyelvű fordítást.
+
+[^32]: A 11. § (7) bekezdés b) pontja az 51/2023. (IX. 6.) AM rendelet 6. §-ával megállapított szöveg.
