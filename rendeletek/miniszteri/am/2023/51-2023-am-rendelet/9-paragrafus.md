@@ -1,3 +1,3 @@
-9. § Az 53/2020. (X. 27.) AM rendelet 18. §-a a következő d) és e) ponttal egészül ki:
+9. §[^10]
 
-(Ez a rendelet)
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

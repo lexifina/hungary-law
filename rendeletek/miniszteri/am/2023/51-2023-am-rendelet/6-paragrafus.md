@@ -1,3 +1,3 @@
-6. § Az 53/2020. (X. 27.) AM rendelet 11. § (7) bekezdés b) pontja helyébe a következő rendelkezés lép:
+6. §[^7]
 
-[Az (5) bekezdés szerinti bejelentéshez csatolni kell]
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
