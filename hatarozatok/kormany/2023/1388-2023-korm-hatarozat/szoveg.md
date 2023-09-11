@@ -36,32 +36,16 @@
 
 | Határidő: | 2024. február 15. |
 
-2. Az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1247/2016. (V. 18.) Korm. határozat [a továbbiakban: 1247/2016. (V. 18.) Korm. határozat]
+2.[^1]
 
-2.1. 1. pont f) alpont fa) pont
+3.[^2]
 
-2.1.1. faa) alpontjában a „250,54%-áig” szövegrész helyébe a „244,83%-áig” szöveg,
-
-2.1.2. fab) alpontjában a „151,19%-áig” szövegrész helyébe a „149,47%-áig” szöveg,
-
-2.1.3. fac) alpontjában a „142,97%-áig” szövegrész helyébe a „140,53%-áig” szöveg;
-
-2.2. 1. melléklet
-
-2.2.1. 2. pontjában foglalt táblázat C:2 mezőjében az „1254,430” szövegrész helyébe az „1225,828” szöveg,
-
-2.2.2. 3. pontjában foglalt táblázat C:2 mezőjében a „350,154” szövegrész helyébe a „346,159” szöveg,
-
-2.2.3. 3. pontjában foglalt táblázat C:3 mezőjében a „180,138” szövegrész helyébe a „177,063” szöveg
-
-lép.
-
-3. Hatályát veszti az 1247/2016. (V. 18.) Korm. határozat 2. mellékletében foglalt táblázat 65c., 75a., valamint 102a. sora.
-
-4.[^1]
+4.[^3]
 
 5. Ez a határozat – a 6. pontban foglalt kivétellel – a közzétételét követő napon lép hatályba.
 
 6. A 2. és a 3. pont 2023. szeptember 10-én lép hatályba.
 
-[^1]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
