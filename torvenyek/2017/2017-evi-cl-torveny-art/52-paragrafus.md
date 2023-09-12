@@ -29,3 +29,5 @@ a) a csoportos általános forgalmi adóalanyiság létrejöttétől, illetve a 
 b) a csoportazonosító szám törlése esetén, a csoportképviselő – a törlő határozat véglegessé válásától számított harminc napon belül – a csoport általános forgalmi adójáról.
 
 (5) Ha a biztosított mezőgazdasági őstermelő, az Szja tv. rendelkezései szerint átalányadózást alkalmazó biztosított egyéni vállalkozó öregségi nyugdíj iránti igényt nyújt be, az igénylés benyújtását követő harminc napon belül saját magára vonatkozóan soron kívüli adóbevallást tesz az 50. § (2) bekezdésében meghatározott adatokról a bevallással még le nem fedett, az öregségi nyugdíj megállapításának általa kért kezdő napját megelőző napig terjedő időszakra vonatkozóan.
+
+(6) Ha az alkalmazandó bevallási gyakoriság – a 2. melléklet B. rész 3.4. pontjának figyelembevételével – az adómegállapítási időszak közben megváltozik, az általános forgalmi adó bevallás benyújtására kötelezett adózó az általános forgalmi adóról az áttérést megelőző naptól számított harminc napon belül soron kívüli bevallást nyújt be a bevallással még le nem fedett időszakról.

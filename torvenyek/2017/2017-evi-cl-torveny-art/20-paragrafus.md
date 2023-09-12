@@ -16,11 +16,7 @@ b) az adószám megállapítását a 19. § (2) bekezdés a) pont aa) alpontja v
 
 c) az adószám megállapítását a 19. § (2) bekezdés a) pont aa) alpontja vagy b) pontja alapján tagadta meg, és az a tag vagy részvényes, akire tekintettel az állami adó- és vámhatóság az adózó adószámának megállapítását megtagadta, igazolja, hogy jogviszonya öröklés útján létesült és a kizáró ok alapjául szolgáló adótartozás nem tagi, illetve részvényesi jogviszonyának időtartama alatt, vagy jogviszonya megszűnését követő száznyolcvan napon belül keletkezett.
 
-(3) Az állami adó- és vámhatóság az adószám megállapításának megtagadása tárgyában hozott határozatot visszavonja, és az adószámot megállapítja akkor is, ha az adószám megállapítását a 19. § (2) bekezdés a) pont ac) alpontja alapján tagadta meg, és az a vezető tisztségviselő, cégvezető, tag vagy részvényes, akire tekintettel az állami adó- és vámhatóság az adózó adószámát megtagadta,
-
-a) az adószám megtagadására okot adó adószám törléssel érintett adózóban (a továbbiakban: törölt adózó) tagi, részvényesi jogviszonnyal nem rendelkezett, és
-
-b) bizonyítja, hogy vezető tisztségviselőként vagy cégvezetőként a törölt adózó jogszerű működésének helyreállítása érdekében úgy járt el, ahogy az az adott helyzetben általában elvárható.
+(3) Az állami adó- és vámhatóság az adószám megállapításának megtagadása tárgyában hozott határozatot visszavonja, és az adószámot megállapítja akkor is, ha az adószám megállapítását a 19. § (2) bekezdés a) pont ac) alpontja alapján tagadta meg, és az a vezető tisztségviselő, cégvezető, tag vagy részvényes, akire tekintettel az állami adó- és vámhatóság az adózó adószámát megtagadta, bizonyítja, hogy vezető tisztségviselőként vagy cégvezetőként a törölt adózó jogszerű működésének helyreállítása érdekében úgy járt el, ahogy az az adott helyzetben általában elvárható.
 
 (4) A (3) bekezdés alkalmazásában kimentési oknak minősül, ha az adószám törléséről szóló határozat véglegessé válására tekintettel indult cégbírósági törvényességi felügyeleti eljárás arra figyelemmel került megszüntetésre, hogy az adózó a cég törvényes működését helyreállította.
 

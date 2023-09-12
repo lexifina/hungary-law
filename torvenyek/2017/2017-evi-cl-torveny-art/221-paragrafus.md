@@ -2,9 +2,9 @@
 
 (1) Az adóhatóság a bejelentkezési kötelezettség, a foglalkoztatotti bejelentés, a gépjármű, pótkocsi tulajdonjogának, vagyoni értékű jogának megszerzésével kapcsolatos bejelentési, valamint az EKAER bejelentési kötelezettség kivételével
 
-a) a bevallási, adatbejelentési, vagyonszerzési illetékkel kapcsolatos bejelentési, változásbejelentési, adatszolgáltatási, pénzforgalmi számlanyitási kötelezettségének, regisztrációs kötelezettségének nem teljesítése,
+a) a bejelentési, változásbejelentési, a bevallási, adatbejelentési, adatszolgáltatási, pénzforgalmi számlanyitási kötelezettségének, regisztrációs kötelezettségének nem teljesítése,
 
-b) a bevallási, adatbejelentési, vagyonszerzési illetékkel kapcsolatos bejelentési, (változás)bejelentési, adatszolgáltatási kötelezettségének hiányos, a bevallási hiba kivételével hibás teljesítése,
+b) a bejelentési, változásbejelentési, a bevallási, adatbejelentési, adatszolgáltatási kötelezettségének hiányos, a bevallási hiba kivételével hibás teljesítése,
 
 c) a bejelentési, változásbejelentési, adatszolgáltatási kötelezettségének valótlan adattartalommal történő teljesítése
 

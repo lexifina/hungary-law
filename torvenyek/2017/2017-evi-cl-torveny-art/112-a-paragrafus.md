@@ -16,6 +16,8 @@ f) a jogosult házastársa, bejegyzett élettársa, élettársa lakó-, illetve 
 
 g) az ellátás kifizetésével összefüggő adatot (fizetési számlaszám vagy postai utalási cím).
 
+h) a családi pótlékra való jogosultság jogcímét.
+
 (2) Az (1) bekezdés szerinti adatokról a honvédelemért felelős miniszter által vezetett minisztérium mint családtámogatási kifizetőhely is adatszolgáltatást teljesít elektronikus úton az állami adó- és vámhatóság részére havonta, a tárgyhónapot követő hónap 5. napjáig.
 
 (3) Az állami adó- és vámhatóság megkeresésére 8 napon belül elektronikus úton adatot szolgáltat az alábbi adatokról:

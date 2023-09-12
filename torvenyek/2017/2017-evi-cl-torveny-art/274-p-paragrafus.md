@@ -5,3 +5,7 @@
 (2) E törvénynek a Módtv.11. által megállapított 153. § (1) bekezdés c) pontját, valamint a 153. § (1a) bekezdését első alkalommal a hatálybalépését követő negyedév minősítése során kell alkalmazni.
 
 (3) E törvénynek a Módtv.11. által megállapított 145. § (7) bekezdését a hatálybalépését követően indult ellenőrzések során kell alkalmazni.
+
+(4) E törvénynek a Módtv.11. által megállapított 20. § (3) bekezdését a hatálybalépését követően indult eljárásokban kell alkalmazni.
+
+(5) E törvénynek a Módtv.11. által megállapított 221. § (1) bekezdését a hatálybalépését követően indult eljárásokban kell alkalmazni.
