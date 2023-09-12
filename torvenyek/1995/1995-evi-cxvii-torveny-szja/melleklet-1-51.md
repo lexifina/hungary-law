@@ -160,7 +160,13 @@ kerül sor.
 
 ## 7.25.
 
-7.26. bizalmi vagyonkezelési szerződés alapján a vagyonkezelő által a kezelt vagyon, valamint a magánalapítvány vagyona (ide nem értve az említett vagyonok hozamait) terhére a kedvezményezett magánszemély részére juttatott vagyoni érték; nem alkalmazható ez a rendelkezés, ha a kedvezményezett magánszemély e jogállását valamely tevékenység, dolog átruházása vagy szolgáltatás nyújtása ellenértékeként, vagy azzal összefüggésben szerezte, továbbá nem alkalmazható e rendelkezés akkor sem, ha a kifizető – kifizető hiányában a kedvezményezett magánszemély – nyilvántartása alapján a hozamok nem különíthetőek el a kezelt vagy az alapítványi vagyontól;
+## 7.26. a bizalmi vagyonkezelési szerződés alapján a vagyonkezelő által a kezelt vagyon, valamint a magánalapítvány vagyona terhére
+
+## a) – ide nem értve az említett vagyonok osztaléknak minősülő hozamait – a kedvezményezett magánszemély részére juttatott vagyoni érték,
+
+## b) a vagyonelem tulajdonjogát nem eredményező vagyoni érték szerzés (ideértve különösen az ingyenes vagy kedvezményes használatot),
+
+## azzal hogy nem alkalmazható ez a rendelkezés, ha a kedvezményezett magánszemély e jogállását valamely tevékenység, dolog átruházása vagy szolgáltatás nyújtása ellenértékeként, vagy azzal összefüggésben szerezte,
 
 7.27. külföldön bejegyzett pártalapítvány által, a bejegyzés helye szerinti állam állampolgárságával rendelkező munkavállalója részére a munkavégzésre irányuló jogviszonyra tekintettel kifizetett összeg, amennyiben e jogviszonyra tekintettel a bejegyzés helye szerinti állam nem vet ki rá adót.
 

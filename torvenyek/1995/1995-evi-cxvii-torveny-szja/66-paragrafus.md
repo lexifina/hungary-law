@@ -12,11 +12,11 @@ ac) a külföldi állam joga szerint osztaléknak minősülő jövedelem;
 
 ad) az alternatív befektetési alap által kibocsátott befektetési jegy hozama;
 
-ae) a bizalmi vagyonkezelési szerződés alapján a kezelt vagyon hozamainak terhére a vagyonkezelő által a kedvezményezett vagy a vagyonrendelő magánszemély részére juttatott vagyoni érték;
+ae) a bizalmi vagyonkezelési jogviszony alapján a vagyonkezelő által a kedvezményezett vagy a vagyonrendelő magánszemély részére a számviteli szabályok szerinti tartalék terhére juttatott vagyoni érték;
 
 af)
 
-ag) a közhasznúnak nem minősülő alapítvány által az alapítványi vagyon hozamainak terhére a kedvezményezett magánszemély részére juttatott vagyoni érték;
+ag) a magánalapítvány által a kedvezményezett magánszemély részére a számviteli szabályok szerinti felhalmozott adózott eredmény értékét meg nem haladó összegben juttatott vagyoni érték;
 
 ah) a KMRP résztvevője részére a KMRP által megszerzett vagyonelemek hozamából származó kifizetés;
 
@@ -34,4 +34,4 @@ b) figyelemmel a 15. § (4) bekezdés és a 7. számú melléklet rendelkezései
 
 (4) Nem alkalmazható az (1) bekezdés a) pont ae) és ag) alpontja, ha a kedvezményezett magánszemély e jogállását valamely tevékenység, dolog átruházása vagy szolgáltatás nyújtása ellenértékeként, vagy azzal összefüggésben szerezte.
 
-(5) Az (1) bekezdés a) pont ae) és ag) alpontjának alkalmazása során azt kell feltételezni, hogy a kedvezményezett először a hozamot szerzi meg. Ha a kifizető – kifizető hiányában a kedvezményezett magánszemély – nyilvántartása alapján a hozamok nem különíthetőek el a kezelt vagy az alapítványi vagyontól, a magánszemély által megszerzett vagyoni érték egészét osztaléknak kell tekinteni. Nem kell jövedelemként figyelembe venni az (1) bekezdés a) pont ae) és ag) alpontja szerinti osztalékból azt a részt, amelynek forrása a 67/B. § (14) bekezdés szerinti tartós befektetési szerződésből származó hozam. A jövedelemként figyelembe nem veendő osztalék forrásáról a vagyonkezelő és az alapítvány nyilvántartást vezet.
+(5) Nem kell jövedelemként figyelembe venni az (1) bekezdés a) pont ae) és ag) alpontja szerinti osztalékból azt a részt, amelynek forrása a 67/B. § (14) bekezdése szerinti tartós befektetési szerződésből származó hozam. A jövedelemként figyelembe nem veendő osztalék forrásáról a vagyonkezelő és az alapítvány nyilvántartást vezet.
