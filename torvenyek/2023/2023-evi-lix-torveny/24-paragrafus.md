@@ -1,6 +1,6 @@
 24. § Az Szja tv.
 
-a)
+a) 1. számú melléklete az 1. melléklet,
 
 b)
 
