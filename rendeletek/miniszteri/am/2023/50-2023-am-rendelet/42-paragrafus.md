@@ -1,0 +1,3 @@
+42. § Az 50/2017. (X. 10.) FM rendelet 8. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A termelői szervezet vagy a termelői szervezetek társulása a 891/2017/EU bizottsági rendelet 13. cikkében meghatározottak szerint megkötött, kiszervezésre vonatkozó szerződésről – annak megkötésétől számított 30 napon belül – valamint a 891/2017/EU bizottsági rendelet 13. cikk (3) bekezdés második albekezdése szerinti jegyzőkönyvekről és jelentésekről a 26. § (2) bekezdésében hivatkozott, a 26. § (1) bekezdése szerinti adatokkal egyidejűleg elektronikus úton, a minisztérium honlapján közzétett hivatkozás szerinti felületre történő feltöltése útján tájékoztatja a minisztert.”

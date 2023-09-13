@@ -1,0 +1,15 @@
+45. § Az 50/2017. (X. 10.) FM rendelet 28. §-a helyébe a következő rendelkezés lép:
+
+„28. § (1) A minisztérium a termelői szervezet vagy a termelői szervezetek társulásának az 1308/2013/EU európai parlamenti és tanácsi rendelet 154. cikk (4) bekezdés a) pontja vagy 156. cikk (1) bekezdése szerinti elismerése előtt adminisztratív és helyszíni ellenőrzést végez az elismerési követelmények betartásának vizsgálata céljából a termelői szervezetnél vagy a termelői szervezetek társulásánál.
+
+(2) A minisztérium évente adminisztratív és – legalább ötévente – helyszíni ellenőrzést végez az összes elismert zöldség-gyümölcs termelői szervezetre és termelői szervezetek társulására hatályos elismerési követelmények betartása tekintetében.
+
+(3) A Nemzeti Kifizető Ügynökség a működési alap támogatása iránti kifizetési kérelemhez kapcsolódó helyszíni ellenőrzés keretében vizsgálja az elismerési feltételek fennállását.
+
+(4) Az ellenőrzés alapját a 26. § (1) bekezdése szerinti adatok tekintetében a minisztérium honlapján közzétett hivatkozás szerinti elektronikus felületen feltöltött adatok képezik.
+
+(5) A Nemzeti Kifizető Ügynökség a működési alap támogatása iránti kifizetési kérelemhez kapcsolódó helyszíni ellenőrzés keretében az elismerési feltételeket érintő megállapításokat is tartalmazó dokumentum egy másolati példányát meg nem felelőség vagy szabálytalanság gyanúja esetén megküldi a miniszter részére.
+
+(6) Az elismerési feltételek sérelmével, csalással, az (EU) 2021/2116 európai parlamenti és tanácsi rendelet 62. cikkével, valamint az e rendelet 26. §-a szerinti adatszolgáltatás elmulasztásával vagy nem megfelelő teljesítésével kapcsolatos jogkövetkezményeket a miniszter, az ezek alapján a támogatások folyósításának felfüggesztése vagy a korábban már folyósított támogatási összeg visszakövetelése vonatkozásában a Nemzeti Kifizető Ügynökség foganatosítja.
+
+(7) A miniszter az elismerésnek a 891/2017/EU bizottsági rendelet 59. cikk szerinti felfüggesztéséről vagy visszavonásáról szóló határozatát az érintett termelői szervezetnek és a Nemzeti Kifizető Ügynökségnek küldi meg.”

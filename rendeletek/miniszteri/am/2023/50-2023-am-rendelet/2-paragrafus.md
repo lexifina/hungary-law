@@ -1,0 +1,87 @@
+## 2. Az operatív program tartalmának általános követelményei
+
+2. § (1) A január 1-jétől december 31-éig terjedő éves időszakokban végrehajtandó operatív programot a termelői szervezet vagy a termelői szervezetek társulása az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium (a továbbiakban: minisztérium) honlapján közzétett formátumban készíti el.
+
+(2) Az operatív program tartalmazza
+
+a) az operatív program időtartamát,
+
+b) a választott ágazati célkitűzéseket,
+
+c) a tervezett beavatkozásokat, beavatkozástípusokat és az azokhoz kapcsolódó eredménymutatókat,
+
+d) a monitoringhoz és értékeléshez szükséges információkat, és
+
+e) a pénzügyi szempontokat az operatív program végrehajtásának minden egyes évére vonatkozóan, különösen
+
+ea) a KAP I rendelet 51. cikk (1) bekezdés a) pontja szerinti pénzügyi hozzájárulások értékét és a számítás módját,
+
+eb) az uniós és nemzeti pénzügyi támogatás becsült értékét és a számítás módját, valamint
+
+ec) a beavatkozásokra előirányzott költségvetést és ütemtervet.
+
+(3) Az operatív programban a tervezett beavatkozásokhoz a KAP I rendelet 104. cikke szerinti KAP stratégiai tervben foglaltaknak megfelelően beavatkozásonként ki kell választani
+
+a) a KAP I rendelet 47. cikke szerinti beavatkozástípust,
+
+b) a 47. cikk (1) bekezdés a)–c) és i) pontja szerinti beavatkozástípusok esetén a beavatkozás altípusát,
+
+c) a KAP I rendelet 46. cikke szerinti ágazati célkitűzéseket és
+
+d) az (EU) 2021/2115 európai parlamenti és tanácsi rendeletnek a tagállamok 2023–2027-es, az említett rendelet szerinti KAP stratégiai tervében kidolgozandó egyes beavatkozástípusokra vonatkozó kiegészítő követelményekkel, valamint a jó mezőgazdasági és környezeti állapotra (GAEC) vonatkozó 1. szabványra irányadó szabályokkal történő kiegészítéséről szóló, 2021. december 7-i (EU) 2022/126 felhatalmazáson alapuló bizottsági rendelet [a továbbiakban: (EU) 2022/126 felhatalmazáson alapuló bizottsági rendelet] 24. cikke szerinti érintett termékeket.
+
+(4) A kiválasztott beavatkozástípushoz vagy -altípushoz a beavatkozás típusának vagy altípusának megfelelő bontásban a beavatkozás megvalósítása évei tekintetében meg kell adni a következő mutatók értékét:
+
+a) a KAP I rendelet 7. cikke szerinti eredménymutatók,
+
+b) az (EU) 2022/1475 bizottsági végrehajtási rendelet V. melléklet 8. pont d)–h) alpontja szerinti információk, valamint
+
+c) ha az operatív program vagy módosítása elfogadása iránti kérelem benyújtása évére vagy az azt követő évre a beavatkozásnak költsége van, a 7. § (4) bekezdése szerinti tulajdonságok.
+
+(5) Minden beavatkozáshoz a beavatkozás megvalósítása évei vonatkozásában éves bontásban meg kell adni azok tervezett költségét. Azon évekre, amelyekre mutató érték kerül megadásra, a tervezett költséget is fel kell tüntetni.
+
+(6) Az egyes beavatkozások elszámolási időszaka lehet egy vagy többéves. Ha az elszámolási időszak többéves, a költségértékeket több év vonatkozásában, a mutatókhoz tartozó értéket pedig csak a beavatkozás megvalósítása évére kell megadni. Több évben megvalósított beavatkozáshoz választott éves elszámolási időszak esetén a megvalósítás minden évére meg kell adni költséget és mutató értéket is. Adott beavatkozás éven túlnyúló megvalósítása esetén az évenként felmerülő költségeket kell feltüntetni.
+
+(7) A költségek alátámasztásánál egységköltség támogatási forma esetén a beavatkozás költségének kalkulációját az egységköltségekre kell alapozni. Költség-visszatérítés esetén csatolni kell a 22. §-ban foglaltaknak megfelelően a szokásos piaci ár alátámasztását és a beavatkozás teljes költségének számítási módját.
+
+(8) Az operatív programhoz csatolni kell
+
+a) a működési alap 6. §-nak megfelelő létrehozási és finanszírozási eljárása termelői szervezet által kiállított igazolását,
+
+b) a KAP I rendelet 52. cikk (3) bekezdésében foglalt feltételek fennállása esetén az 52. cikk (1) bekezdésében foglalt kérelmet a felső határ emelésére és a feltételek fennállása igazolására szolgáló dokumentumokat,
+
+c) a meghívót a termelői szervezet működési alap felhasználásáról szóló döntés meghozatalára irányuló ülésére, a jelenléti ívet az ülésen jelen lévő résztvevőkről, az ülésről készült jegyzőkönyvet, döntést a működési alap felhasználásáról, valamint
+
+d) a termelői szervezet írásos kötelezettségvállalását, miszerint
+
+da) eleget tesz a KAP I rendelet, az (EU) 2022/126 felhatalmazáson alapuló bizottsági rendelet és e rendelet előírásainak,
+
+db) a gyümölcs- és zöldségágazatban a KAP I rendelet értelmében támogatásra jogosult tevékenységek tekintetében sem közvetlenül, sem közvetve nem részesült és nem fog részesülni más uniós vagy nemzeti költségvetési forrásból származó finanszírozásban, valamint
+
+dc) az operatív programban foglalt beavatkozástípusok csak olyan termékekre terjednek ki, amelyek tekintetében a termelői szervezet elismeréssel rendelkezik, valamint, hogy az érintett termékek a termelői szervezet tagjaitól vagy más termelői szervezet, vagy termelői szervezetek társulásának termelő tagjaitól származnak.
+
+(9) Az operatív programhoz minden egyes beavatkozás tekintetében csatolni kell
+
+a) az ágazati célkitűzések kiválasztása indokolását,
+
+b) annak bemutatását, hogy az adott beavatkozás hogyan járul hozzá közvetlenül a taglétszám vagy az árbevétel megtartásához vagy növeléséhez,
+
+c) a megadott mutatóérték kiszámítása módját, és
+
+d) ha az operatív program vagy módosítása elfogadása iránti kérelem benyújtása évére vagy az azt követő évre a beavatkozásnak költsége van,
+
+da) a beavatkozás részletes leírását,
+
+db) a célkitűzés megvalósítása szempontjából figyelembe veendő technikai tulajdonságokat tartalmazó szakmai indokolást,
+
+dc) a felmerülő költségnemeket is tartalmazó költségvetést,
+
+dd) a költségek alátámasztását és indokolását,
+
+de) az ajánlattevőknek a szerződés teljesítésére való alkalmassága vizsgálatának módját és
+
+df) a vizsgálat elvégzésének, a vizsgálat során figyelembe vett szempontokat magában foglaló igazolását, valamint
+
+dg) a 3. § szerint a beavatkozás tekintetében előírt dokumentumokat.
+
+(10) A (9) bekezdés d) pontja szerinti dokumentumokat – ha azok az operatív program részeként nem kerültek benyújtásra – legkésőbb a végrehajtás évében és a támogatás kifizetése iránti kérelem benyújtását megelőzően, a végrehajtás évére vonatkozó módosítási kérelem részeként kell megküldeni a minisztérium részére.
