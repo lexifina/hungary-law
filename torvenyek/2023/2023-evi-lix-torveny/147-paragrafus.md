@@ -1,3 +1,1 @@
-147. § Az Art. 133. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az adóhatóság negyedévenként, a tárgynegyedévet követő hó 15. napjáig – a támogatás ellenőrzésének és nyilvántartásának céljából – tájékoztatja az agrárpolitikáért felelős minisztert, a mezőgazdasági igazgatási szervet, valamint a mezőgazdasági és vidékfejlesztési támogatási szervet a kiutalt, valamint a visszatartási jog gyakorlása keretében visszatartott, illetve az Szja tv. 3. § 41. pontjában és az Szja tv. 3. § 50. pontjában meghatározott, továbbá az Szja tv. 39. § (1) bekezdése alapján igénybe vett támogatás összegéről. Az adóhatóság a tájékoztatást adózónként, az adózók azonosítására alkalmas módon teljesíti.”
+### 147. §

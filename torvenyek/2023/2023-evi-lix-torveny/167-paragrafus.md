@@ -8,7 +8,7 @@
 
 4.
 
-5. 246. § (1) bekezdés g) pontjában a „háromszázhatvanöt napon” szövegrész helyébe a „száznyolcvan napon” szöveg,
+5.
 
 6.
 
