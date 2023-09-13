@@ -4,7 +4,7 @@
 
 (2) A termelői szervezetek társulásának – a 891/2017/EU bizottsági rendelet 20. cikk (1) bekezdésében foglaltaknak megfelelően – a termelői szervezeteken kívül tagja lehet összesen ötven százalékot meg nem haladó részesedéssel
 
-a) zöldség-gyümölcs termelői csoport,
+a)[^11]
 
 b) zöldség-gyümölcs termelői szervezet leányvállalata,
 
@@ -19,3 +19,5 @@ b) minden termelői szervezet tag közvetlenül képviselve legyen a szervezet i
 c) a (2) bekezdés szerinti tagok összesített szavazati aránya ne haladja meg a leadható szavazatok harminc százalékát.
 
 (4) A (2) bekezdés szerinti tag – közvetlenül vagy a termelői szervezet irányításában részt vevő képviselőjük útján leadott – szavazatát az operatív programot érintő döntések meghozatalánál nem lehet figyelembe venni.
+
+[^11]: A 3. § (2) bekezdés a) pontját az 50/2023. (IX. 5.) AM rendelet 49. § b) pontja hatályon kívül helyezte.

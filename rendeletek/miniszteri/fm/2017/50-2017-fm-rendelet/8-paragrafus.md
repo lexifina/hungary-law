@@ -4,6 +4,6 @@
 
 (3) A kiszervezésre vonatkozó szerződést a termelői szervezet vagy a termelői szervezetek társulása döntéshozó szervének jóvá kell hagynia. A döntéshozó szerv által történő jóváhagyás során a kiszervezett tevékenység elvégzésére szerződésben kötelezettséget vállaló fél, valamint a kiszervezett tevékenyég elvégzésére szerződésben kötelezettséget vállaló gazdálkodó szervezetben tag a termelői szervezetben meglévő tagsági jogviszonyából eredően nem szavazhat.
 
-(4)[^22] A termelői szervezet vagy a termelői szervezet társulása köteles a 891/2017/EU bizottsági rendelet 13. cikkében meghatározottak szerint megkötött, kiszervezésre vonatkozó szerződés másolati példányát annak megkötésétől számított tizenöt napon belül, valamint a 891/2017/EU bizottsági rendelet 13. cikk (3) bekezdés második albekezdése szerinti jegyzőkönyvek és jelentések másolati példányát a 26. § (4) bekezdésében meghatározott jelentéssel együtt megküldi a miniszter és a Kincstár részére.
+(4)[^27] A termelői szervezet vagy a termelői szervezetek társulása a 891/2017/EU bizottsági rendelet 13. cikkében meghatározottak szerint megkötött, kiszervezésre vonatkozó szerződésről – annak megkötésétől számított 30 napon belül – valamint a 891/2017/EU bizottsági rendelet 13. cikk (3) bekezdés második albekezdése szerinti jegyzőkönyvekről és jelentésekről a 26. § (2) bekezdésében hivatkozott, a 26. § (1) bekezdése szerinti adatokkal egyidejűleg elektronikus úton, a minisztérium honlapján közzétett hivatkozás szerinti felületre történő feltöltése útján tájékoztatja a minisztert.
 
-[^22]: A 8. § (4) bekezdése a 22/2020. (VI. 19.) AM rendelet 5. §-ával megállapított szöveg.
+[^27]: A 8. § (4) bekezdése az 50/2023. (IX. 5.) AM rendelet 42. §-ával megállapított szöveg.

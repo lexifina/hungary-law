@@ -1,3 +1,3 @@
-10/A. §[^31] Az (EU) 2021/2117 európai parlamenti és tanácsi rendelet 5. cikk (6) bekezdés a) és b) pontja szerinti kérelem esetén a 9. és 10. §-ban foglalt előírásokat az (EU) 2021/2115 európai parlamenti és tanácsi rendelet 51. cikke szerinti működési alap tekintetében kell alkalmazni, azzal, hogy a termelői szervezetnek a 2007. évi XVII. törvény szerinti ügyfél-azonosítóval rendelkező tagjai által termelt terméknek az (EU) 2022/126 felhatalmazáson alapuló bizottsági rendelet 32. cikkében hivatkozott referencia-időszakban forgalmazott értékét kell alapul venni az európai uniós pénzügyi támogatás (EU) 2021/2115 európai parlamenti és tanácsi rendelet 52. cikk (2) bekezdésében hivatkozott felső korlátjának a kiszámítása során.
+10/A. §[^30]
 
-[^31]: A 10/A. §-t a 32/2022. (IX. 27.) AM rendelet 1. §-a iktatta be.
+[^30]: A 10/A. §-t a 32/2022. (IX. 27.) AM rendelet 1. §-a iktatta be, az 50/2023. (IX. 5.) AM rendelet 49. § c) pontja hatályon kívül helyezte.

@@ -1,11 +1,3 @@
-29. § (1) Ha a támogatás alapjául szolgáló eszközt a 891/2017/EU bizottsági rendelet 31. cikk (5) bekezdés b) pontjában meghatározott időszak letelte előtt a termelői szervezet elidegeníti, vagy az megsemmisül, akkor azt a termelői szervezet köteles helyettesíteni oly módon, hogy a helyettesítésül szolgáló eszköz értéke érje el az időszak végéig fennálló, az eredetileg vásárolt eszköz elszámolható értékcsökkenési leírásának összegét, vagy ha évente kerül sor a helyettesítésre, akkor az időarányosan, adott évre jutó, az időszak adott évére számolt értékcsökkenési értékét.
+29. §[^67]
 
-(2) Ha egy összegben történik a helyettesítés, a helyettesítést az eszköz elidegenítése vagy megsemmisülése évének utolsó napjáig kell végrehajtani. Ha az értékcsökkenés arányában évente kerül sor a helyettesítésre, akkor a helyettesítést minden év december 31-éig kell végrehajtani, addig, míg a teljes helyettesítés meg nem történik.
-
-(3) A helyettesítésről a minisztériumot az eszköz elidegenítését vagy megsemmisülését követően a 16. § (1) bekezdésének megfelelően benyújtott, a miniszter által jóváhagyott operatív programnak és a működési alapnak a következő évre vonatkozó módosítási kérelmével együtt, de legkésőbb a következő év május 31-éig kell értesíteni.
-
-(4) A 891/2017/EU bizottsági rendelet 31. cikk (6) bekezdés harmadik és negyedik albekezdése alkalmazásában minden olyan beruházás helyettesítő beruházásnak tekintendő, amely a 891/2017/EU bizottsági rendelet alapján támogatásra lenne jogosult. Az 1308/2013/EU európai parlamenti és tanácsi rendelet 34. és 35. cikke szerinti támogatás felhasználásával megvalósított beruházás nem minősül az (1) bekezdés szerinti helyettesítésnek.
-
-(5) A 891/2017/EU bizottsági rendelet 31. cikk (6) bekezdés harmadik és negyedik albekezdését a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről („az egységes közös piacszervezésről szóló rendelet”) szóló 2007. október 22-i 1234/2007/EK tanácsi rendelet (a továbbiakban: 1234/2007/EK tanácsi rendelet) 103a. cikke alapján nyújtott támogatások igénybevételével megvalósított beruházások helyettesítése esetén is megfelelően alkalmazni kell.
-
-(6) A termelői szervezetként való elismerés visszavonása esetén a visszavonás időpontját megelőző öt évben az 1234/2007/EK tanácsi rendelet 103a. cikke alapján nyújtott támogatás jogosulatlanul igénybe vett támogatásnak minősül.
+[^67]: A 29. §-t az 50/2023. (IX. 5.) AM rendelet 49. § f) pontja hatályon kívül helyezte.
