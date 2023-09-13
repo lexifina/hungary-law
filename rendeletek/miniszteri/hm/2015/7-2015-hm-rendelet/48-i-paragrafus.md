@@ -1,4 +1,4 @@
-## 29/I. [^127] Szolgálati kiegészítő illetmény
+## 29/I. [^129] Szolgálati kiegészítő illetmény
 
 48/I. § (1) Az állomány tagja szolgálati viszonyának ideje alatt havonta szolgálati kiegészítő illetményre jogosult.
 
@@ -28,4 +28,4 @@ b) a Hjt. 65. és 66. §-a szerinti felmentési időre vagy
 
 c) a Hjt. 147. § (1) bekezdés d) pontja szerinti fenyítés időtartamára.
 
-[^127]: A 29/I. alcímet (48/I. §) a 12/2022. (VIII. 31.) HM rendelet 2. §-a iktatta be.
+[^129]: A 29/I. alcímet (48/I. §) a 12/2022. (VIII. 31.) HM rendelet 2. §-a iktatta be.

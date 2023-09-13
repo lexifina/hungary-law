@@ -1,4 +1,4 @@
-50/A. §[^132] (1) A Hjt. 122. § (1a) bekezdése szerinti esetben a Hjt. 122. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy
+50/A. §[^134] (1) A Hjt. 122. § (1a) bekezdése szerinti esetben a Hjt. 122. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy
 
 a) az illetmény egy összegben kerül megállapításra,
 
@@ -24,19 +24,19 @@ b) az illetmény összegét,
 
 c) a jogosultság kezdetét.
 
-(3)[^133] Ha az állomány tagja a (2) bekezdés a) pont ae) alpontja szerinti beosztásból áthelyezésre kerül, a Hjt. 122. § (1a) bekezdése szerinti illetményre való jogosultság indokoltságát felül kell vizsgálni. Ha a vizsgálat eredményeképpen a Hjt. 122. § (1a) bekezdése szerinti illetmény fenntartása indokolt, akkor azt újra meg kell állapítani.
+(3)[^135] Ha az állomány tagja a (2) bekezdés a) pont ae) alpontja szerinti beosztásból áthelyezésre kerül, a Hjt. 122. § (1a) bekezdése szerinti illetményre való jogosultság indokoltságát felül kell vizsgálni. Ha a vizsgálat eredményeképpen a Hjt. 122. § (1a) bekezdése szerinti illetmény fenntartása indokolt, akkor azt újra meg kell állapítani.
 
-(4)[^134] A Hjt. 122. § (1a) bekezdése szerinti eltérő illetménymegállapítást a 12. mellékletben meghatározott beosztások esetében lehet alkalmazni.
+(4)[^136] A Hjt. 122. § (1a) bekezdése szerinti eltérő illetménymegállapítást a 12. mellékletben meghatározott beosztások esetében lehet alkalmazni.
 
-(5)[^135] A (2) bekezdés a) pont ae) alpontja szerinti beosztás betöltésének ideje alatt az (1) bekezdés a) pontja szerinti illetményre való jogosultság visszavonásig érvényes.
+(5)[^137] A (2) bekezdés a) pont ae) alpontja szerinti beosztás betöltésének ideje alatt az (1) bekezdés a) pontja szerinti illetményre való jogosultság visszavonásig érvényes.
 
-(6)[^136] A visszavonást követően az állomány tagjának illetményét a Hjt. 122. § (1) bekezdése szerint kell megállapítani.
+(6)[^138] A visszavonást követően az állomány tagjának illetményét a Hjt. 122. § (1) bekezdése szerint kell megállapítani.
 
-(7)[^137] Visszavonás nélkül is megszűnik a Hjt. 122. § (1a) bekezdése szerint megállapított illetmény, ha az állomány tagja Hjt. 122. § (1) bekezdése szerint járó illetményének összege eléri a Hjt. 122. § (1a) bekezdése szerint részére megállapított illetmény összegét. Ebben az esetben az állomány tagjának illetményét a Hjt. 122. § (1) bekezdése szerint kell megállapítani.
+(7)[^139] Visszavonás nélkül is megszűnik a Hjt. 122. § (1a) bekezdése szerint megállapított illetmény, ha az állomány tagja Hjt. 122. § (1) bekezdése szerint járó illetményének összege eléri a Hjt. 122. § (1a) bekezdése szerint részére megállapított illetmény összegét. Ebben az esetben az állomány tagjának illetményét a Hjt. 122. § (1) bekezdése szerint kell megállapítani.
 
-[^132]: Az 50/A. §-t a 13/2020. (X. 14.) HM rendelet 39. §-a iktatta be.
-[^133]: Az 50/A. § (3) bekezdése a 13/2021. (VII. 15.) HM rendelet 25. § (1) bekezdésével megállapított szöveg.
-[^134]: Az 50/A. § (4) bekezdését a 13/2021. (VII. 15.) HM rendelet 25. § (2) bekezdése iktatta be.
-[^135]: Az 50/A. § (5) bekezdését a 13/2021. (VII. 15.) HM rendelet 25. § (2) bekezdése iktatta be.
-[^136]: Az 50/A. § (6) bekezdését a 13/2021. (VII. 15.) HM rendelet 25. § (2) bekezdése iktatta be.
-[^137]: Az 50/A. § (7) bekezdését a 13/2021. (VII. 15.) HM rendelet 25. § (2) bekezdése iktatta be.
+[^134]: Az 50/A. §-t a 13/2020. (X. 14.) HM rendelet 39. §-a iktatta be.
+[^135]: Az 50/A. § (3) bekezdése a 13/2021. (VII. 15.) HM rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^136]: Az 50/A. § (4) bekezdését a 13/2021. (VII. 15.) HM rendelet 25. § (2) bekezdése iktatta be.
+[^137]: Az 50/A. § (5) bekezdését a 13/2021. (VII. 15.) HM rendelet 25. § (2) bekezdése iktatta be.
+[^138]: Az 50/A. § (6) bekezdését a 13/2021. (VII. 15.) HM rendelet 25. § (2) bekezdése iktatta be.
+[^139]: Az 50/A. § (7) bekezdését a 13/2021. (VII. 15.) HM rendelet 25. § (2) bekezdése iktatta be.

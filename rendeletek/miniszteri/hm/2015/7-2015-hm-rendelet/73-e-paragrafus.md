@@ -1,3 +1,3 @@
-## 50. [^177] Egyszeri elismerésre való jogosultság az állomány tagjának halála esetén
+## 50. [^179] Egyszeri elismerésre való jogosultság az állomány tagjának halála esetén
 
-[^177]: Az 50. alcímet (73/E. §) a 13/2020. (X. 14.) HM rendelet 44. §-a iktatta be.
+[^179]: Az 50. alcímet (73/E. §) a 13/2020. (X. 14.) HM rendelet 44. §-a iktatta be.
