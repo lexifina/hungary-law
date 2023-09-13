@@ -1,3 +1,3 @@
-100/B. §[^401] Az átviteli rendszerirányító és az elektronikus hírközlési hálózati elem tulajdonosa a szerződést legalább 12 hónapos felmondási idővel mondhatja fel.
+100/B. §[^403] Az átviteli rendszerirányító és az elektronikus hírközlési hálózati elem tulajdonosa a szerződést legalább 12 hónapos felmondási idővel mondhatja fel.
 
-[^401]: A Vhr. 100/B. §-át a 378/2011. (XII. 31.) Korm. rendelet 24. §-a iktatta be.
+[^403]: A Vhr. 100/B. §-át a 378/2011. (XII. 31.) Korm. rendelet 24. §-a iktatta be.

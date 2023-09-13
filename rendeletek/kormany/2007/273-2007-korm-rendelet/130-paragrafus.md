@@ -1,6 +1,6 @@
-## Az Európai Unió jogának való megfelelés[^476]
+## Az Európai Unió jogának való megfelelés[^480]
 
-130. §[^477] (1) E rendelet
+130. §[^481] (1) E rendelet
 
 a) a villamos energia belső piacára vonatkozó közös szabályokról és a 2012/27/EU irányelv módosításáról szóló, 2019. június 5-i 2019/944/EU európai parlamenti és tanácsi irányelvnek,
 
@@ -42,5 +42,5 @@ c) a versenyképtelen szénbányák bezárását elősegítő állami támogatá
 
 végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-[^476]: A Vhr. 130. §-át megelőző alcím a 100/2011. (VI. 29.) Korm. rendelet 21. §-ával megállapított szöveg.
-[^477]: A Vhr. 130. §-a a 620/2022. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^480]: A Vhr. 130. §-át megelőző alcím a 100/2011. (VI. 29.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^481]: A Vhr. 130. §-a a 620/2022. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.

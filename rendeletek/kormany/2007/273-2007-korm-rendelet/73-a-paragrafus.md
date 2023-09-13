@@ -1,8 +1,8 @@
-## Közvilágítási üzemeltetési engedély[^330]
+## Közvilágítási üzemeltetési engedély[^332]
 
-73/A. §[^331] (1) A közvilágítási üzemeltetési engedély kérelmezőjének rendelkeznie kell a tervezett működési területen a közvilágítási berendezések üzemeltetéséhez és közvilágítási kötelezettségek teljesítéséhez szükséges kiszolgáló berendezésekkel, létesítményekkel és szakszemélyzettel.
+73/A. §[^333] (1) A közvilágítási üzemeltetési engedély kérelmezőjének rendelkeznie kell a tervezett működési területen a közvilágítási berendezések üzemeltetéséhez és közvilágítási kötelezettségek teljesítéséhez szükséges kiszolgáló berendezésekkel, létesítményekkel és szakszemélyzettel.
 
 (2) A közvilágítási üzemeltetési engedély iránti kérelemhez a 25. számú mellékletben meghatározott iratokat kell benyújtani.
 
-[^330]: A Vhr. 73/A. §-át megelőző alcímet a 119/2013. (IV. 23.) Korm. rendelet 8. §-a iktatta be.
-[^331]: A Vhr. 73/A. §-át a 119/2013. (IV. 23.) Korm. rendelet 8. §-a iktatta be.
+[^332]: A Vhr. 73/A. §-át megelőző alcímet a 119/2013. (IV. 23.) Korm. rendelet 8. §-a iktatta be.
+[^333]: A Vhr. 73/A. §-át a 119/2013. (IV. 23.) Korm. rendelet 8. §-a iktatta be.

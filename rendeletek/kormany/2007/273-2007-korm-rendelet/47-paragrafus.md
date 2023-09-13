@@ -12,25 +12,25 @@ e) az üzemzavarokkal, üzemi eseményekkel összefüggő adat- és információ
 
 f) a villamosenergia szolgáltatásának mennyiségi elszámolására, beleértve a működéshez szükséges infrastrukturális rendszereket is,
 
-g)[^267] az átviteli rendszerirányító által készítendő, a fogyasztói igények előrejelzéséről és a villamosenergia-rendszer közép- és hosszú távú forrásoldali kapacitásfejlesztéséről szóló dokumentumok, valamint a hálózati engedélyesek által készítendő hálózatfejlesztési tervek formájára, kötelező tartalmi elemeire, vizsgálati szempontjaira, valamint
+g)[^269] az átviteli rendszerirányító által készítendő, a fogyasztói igények előrejelzéséről és a villamosenergia-rendszer közép- és hosszú távú forrásoldali kapacitásfejlesztéséről szóló dokumentumok, valamint a hálózati engedélyesek által készítendő hálózatfejlesztési tervek formájára, kötelező tartalmi elemeire, vizsgálati szempontjaira, valamint
 
 h) a villamosenergia-rendszer hálózatfejlesztési tervének készítése során a hálózati engedélyesek együttműködésének szabályaira.
 
 (2) A Kereskedelmi Szabályzat előírásai a 46. §-ban meghatározottakkal összhangban legalább az alábbiakra terjednek ki:
 
-a)[^268] a villamosenergia-kereskedelemhez kapcsolódó szabályokra,
+a)[^270] a villamosenergia-kereskedelemhez kapcsolódó szabályokra,
 
-b)[^269]
+b)[^271]
 
 c) a mérlegköri elszámolás részletes szabályaira,
 
-d)[^270] a rendszerszintű szolgáltatások biztosításához szükséges kapacitások beszerzési rendjére és igénybevételére,
+d)[^272] a rendszerszintű szolgáltatások biztosításához szükséges kapacitások beszerzési rendjére és igénybevételére,
 
-e)[^271]
+e)[^273]
 
-f)[^272] a kiegyenlítő energia meghatározásának módjára, ármeghatározásának szabályaira és elszámolására,
+f)[^274] a kiegyenlítő energia meghatározásának módjára, ármeghatározásának szabályaira és elszámolására,
 
-g)[^273] a szervezett villamosenergia-piaci engedélyes és az átviteli rendszerirányító kapcsolatára, és
+g)[^275] a szervezett villamosenergia-piaci engedélyes és az átviteli rendszerirányító kapcsolatára, és
 
 h) a villamos energia határt keresztező be- vagy kiszállítására vonatkozó szabályokra, beleértve a határt keresztező szállításokkal kapcsolatos – egyes határokat érintő – megállapodásokat.
 
@@ -38,25 +38,25 @@ h) a villamos energia határt keresztező be- vagy kiszállítására vonatkozó
 
 a) az elosztó technikai és műszaki működésére,
 
-b)[^274] az elosztó hálózathoz csatlakozó erőművek csatlakozási feltételeire, beleértve a megvalósíthatósági tanulmány és a csatlakozási terv szükségességének eseteit, valamint ezek általános tartalmi elemeit, és
+b)[^276] az elosztó hálózathoz csatlakozó erőművek csatlakozási feltételeire, beleértve a megvalósíthatósági tanulmány és a csatlakozási terv szükségességének eseteit, valamint ezek általános tartalmi elemeit, és
 
 c) a profilos fogyasztás és elszámolás szabályaira.
 
-d)[^275] az elosztói rugalmassági szolgáltatások beszerzésének rendjére, igénybevételére és elszámolására, valamint
+d)[^277] az elosztói rugalmassági szolgáltatások beszerzésének rendjére, igénybevételére és elszámolására, valamint
 
-e)[^276] a teher-újraelosztás elosztó általi alkalmazására és elszámolására
+e)[^278] a teher-újraelosztás elosztó általi alkalmazására és elszámolására
 
 vonatkozó szabályaira.
 
 (4) A villamosenergia ellátási szabályzatokat egymással összhangban kell elkészíteni.
 
-[^267]: A Vhr. 47. § (1) bekezdés g) pontja a 378/2011. (XII. 31.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^268]: A Vhr. 47. § (2) bekezdés a) pontja a 378/2011. (XII. 31.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
-[^269]: A Vhr. 47. § (2) bekezdés b) pontját a 100/2011. (VI. 29.) Korm. rendelet 24. § (2) bekezdése hatályon kívül helyezte.
-[^270]: A Vhr. 47. § (2) bekezdés d) pontja a 378/2011. (XII. 31.) Korm. rendelet 15. § (3) bekezdésével megállapított szöveg.
-[^271]: A Vhr. 47. § (2) bekezdés e) pontját a 378/2011. (XII. 31.) Korm. rendelet 33. § (1) bekezdése hatályon kívül helyezte.
-[^272]: A Vhr. 47. § (2) bekezdés f) pontja a 378/2011. (XII. 31.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
-[^273]: A Vhr. 47. § (2) bekezdés g) pontja a 378/2011. (XII. 31.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
-[^274]: A Vhr. 47. § (3) bekezdés b) pontja a 378/2011. (XII. 31.) Korm. rendelet 15. § (5) bekezdésével megállapított szöveg.
-[^275]: A Vhr. 47. § (3) bekezdés d) pontját a 721/2020. (XII. 31.) Korm. rendelet 9. §-a iktatta be.
-[^276]: A Vhr. 47. § (3) bekezdés e) pontját a 721/2020. (XII. 31.) Korm. rendelet 9. §-a iktatta be.
+[^269]: A Vhr. 47. § (1) bekezdés g) pontja a 378/2011. (XII. 31.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^270]: A Vhr. 47. § (2) bekezdés a) pontja a 378/2011. (XII. 31.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^271]: A Vhr. 47. § (2) bekezdés b) pontját a 100/2011. (VI. 29.) Korm. rendelet 24. § (2) bekezdése hatályon kívül helyezte.
+[^272]: A Vhr. 47. § (2) bekezdés d) pontja a 378/2011. (XII. 31.) Korm. rendelet 15. § (3) bekezdésével megállapított szöveg.
+[^273]: A Vhr. 47. § (2) bekezdés e) pontját a 378/2011. (XII. 31.) Korm. rendelet 33. § (1) bekezdése hatályon kívül helyezte.
+[^274]: A Vhr. 47. § (2) bekezdés f) pontja a 378/2011. (XII. 31.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
+[^275]: A Vhr. 47. § (2) bekezdés g) pontja a 378/2011. (XII. 31.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
+[^276]: A Vhr. 47. § (3) bekezdés b) pontja a 378/2011. (XII. 31.) Korm. rendelet 15. § (5) bekezdésével megállapított szöveg.
+[^277]: A Vhr. 47. § (3) bekezdés d) pontját a 721/2020. (XII. 31.) Korm. rendelet 9. §-a iktatta be.
+[^278]: A Vhr. 47. § (3) bekezdés e) pontját a 721/2020. (XII. 31.) Korm. rendelet 9. §-a iktatta be.

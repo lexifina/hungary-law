@@ -1,4 +1,4 @@
-## Nagy- vagy középfeszültségű hálózatra történő termelői csatlakozás korlátja[^57]
+## Nagy- vagy középfeszültségű hálózatra történő termelői csatlakozás korlátja[^59]
 
 9/D. § (1) Az átviteli rendszerirányító az üzemi szabályzatban meghatározott objektív és transzparens feltételek szerint a VET 16. § n) pontjában és a VET 35. § (8) bekezdésében foglaltakkal összhangban hathavi rendszerességgel meghatározza a villamosenergia-rendszer üzembiztonsága – így különösen a villamosenergia-rendszer teljesítmény-egyensúlyának és a kiegyenlítő szabályozási kapacitásoknak a biztosíthatósága – szempontjából a villamosenergia-rendszerbe befogadható nap- és szélerőművi teljesítőképesség korlátját.
 
@@ -18,4 +18,4 @@ b) a csatlakozási igény a megújuló energiaforrásból termelt villamos energ
 
 (7) Ha a hálózati engedélyes a (6) bekezdésben meghatározott eljárás esetén új csatlakozási pontot jelöl ki, az eljárás során megvizsgálja, hogy az elosztó hálózati szűk keresztmetszet kezelése milyen elosztói rugalmassági szolgáltatás beszerzésével valósítható meg. Invertert tartalmazó erőmű esetén az elosztói rugalmassági szolgáltatás lehetőségének vizsgálata során a hálózati engedélyes figyelembe veszi az inverter meddőteljesítmény szabályozó képességét is. A hálózati engedélyes a (6) bekezdés szerinti műszaki feltételek meghatározása során figyelembe veszi az elvégzett vizsgálat eredményét.
 
-[^57]: A Vhr. „Nagy- vagy középfeszültségű hálózatra történő termelői csatlakozás korlátja” alcímét (Vhr. 9/D. §) a 146/2022. (IV. 14.) Korm. rendelet 1. §-a iktatta be.
+[^59]: A Vhr. „Nagy- vagy középfeszültségű hálózatra történő termelői csatlakozás korlátja” alcímét (Vhr. 9/D. §) a 146/2022. (IV. 14.) Korm. rendelet 1. §-a iktatta be.
