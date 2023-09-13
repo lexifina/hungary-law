@@ -8,7 +8,7 @@ a) az 5. § (1) bekezdés a) pontja szerinti közszolgáltatási szerződés ker
 
 b) az 5. § (1) bekezdés b) pontja szerint a központi szolgáltatóval közvetlenül megkötött direktfinanszírozási szerződés esetén az abban foglalt pénzügyi kötelezettségek központi szolgáltató felé történő teljesítésével
 
-## biztosítja.
+biztosítja.
 
 (2a)[^2] A (2) bekezdéstől eltérően a közszolgáltatások ellentételezését – ha a szükséges költségvetési forrás a 2. § (1) bekezdése szerinti megállapodás megkötését megelőzően a miniszter által vezetett minisztérium költségvetésében rendelkezésre áll – az 5. § (1) bekezdés a) pontja szerinti közszolgáltatási szerződés keretében történő igénybevétel esetén a miniszter által vezetett minisztérium a saját költségvetése terhére biztosítja.
 
