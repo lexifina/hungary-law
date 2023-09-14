@@ -1,5 +1,3 @@
-46. § Az 50/2017. (X. 10.) FM rendelet 30. §-a helyébe a következő rendelkezés lép:
+46. §[^6]
 
-„30. § (1) Az 1308/2013/EU európai parlamenti és tanácsi rendelet célkitűzéseivel ellentétesen az ugyanezen rendeletből fakadó előnyök megszerzéséhez szükséges feltételeknek a jogszabályok kijátszásával történő, az (EU) 2021/2116 európai parlamenti és tanácsi rendelet 62. cikke szerinti előnyök megszerzésének mesterséges megteremtése abban az esetben áll fenn, ha a termelői szervezet az elismerési kérelemben, továbbá a 28. § szerinti ellenőrzések során a feltételeknek való megfelelést az arra hatáskörrel rendelkező szerv által megállapított jogellenes cselekmény megvalósításával érte el az 1308/2013/EU európai parlamenti és tanácsi rendeletben foglalt célokkal ellentétes előnyök megszerzése érdekében.
-
-(2) Az (EU) 2021/2116 európai parlamenti és a tanácsi rendelet 62. cikkének alkalmazásában, ha az 1308/2013/EU európai parlamenti és tanácsi rendeletből fakadó előnyök megszerzéséhez szükséges feltételek mesterséges megteremtéséhez szükséges, a jogellenes magatartás és a támogatás céljával ellentétes előny elérése közötti ok-okozati összefüggés meglétét az arra hatáskörrel rendelkező szerv megállapítja, az így megszerzett előny jogosulatlan előnynek minősül, és a jogszabály alapján alkalmazandó egyéb jogkövetkezmények sérelme nélkül a 891/2017/EU bizottsági rendelet 59. cikkében meghatározott jogkövetkezmények alkalmazását vonja maga után.”
+[^6]: A 46. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
