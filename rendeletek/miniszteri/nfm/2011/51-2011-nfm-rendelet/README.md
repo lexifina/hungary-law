@@ -38,3 +38,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-51-20-2
 | 2022-11-21 | 2011-51-20-2W.30 | 27/2022. (XI. 21.) TIM rendelet |
 | 2023-01-01 | 2011-51-20-2W.31 | 83/2011. (XII. 29.) NFM rendelet |
 | 2023-04-01 | 2011-51-20-2W.32 | 59/2012. (X. 31.) NFM rendelet |
+| 2023-09-14 | 2011-51-20-2W.33 | 16/2023. (IX. 14.) EM rendelet |
