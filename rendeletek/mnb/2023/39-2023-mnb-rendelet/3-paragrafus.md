@@ -1,5 +1,3 @@
-3. § A Díjrendelet 5/A. §-a a következő (5) és (6) bekezdéssel egészül ki:
+3. §[^4]
 
-„(5) A Wekerle Sándor Kárpát-medencei Innovációs Különdíjjal az adományozást igazoló okirat, emlékérem és legfeljebb a Kossuth-díjról és a Széchenyi-díjról szóló törvény szerinti, a Kossuth-díj nagydíjfokozatával járó, az odaítélés szerinti tárgyévi jutalom hetedének megfelelő összegű pénzjutalom jár.
-
-(6) A Wekerle Sándor Kárpát-medencei Innovációs Különdíjjal járó, ezüstözött proof kivitelű rézötvözetű emlékérem 90% réz és 10% cink ötvözetéből készült, súlya 335 gramm, átmérője 100 mm, széle sima. Az emlékérem előlapján, a középmezőben Wekerle Sándor portréjának ábrázolása látható, jobb oldalon, a portré ábrázolásába ágyazva az emlékérmet tervező Pelcz Balázs mesterjegyével. A portré ábrázolásától jobbra, az alapsíktól kissé megemelt, téglalap formájú felületen a díj átadásának évszáma olvasható. Az emlékérem szélén, felső köriratban a „KÁRPÁT-MEDENCEI INNOVÁCIÓS KÜLÖNDÍJ”, alsó köriratban a „WEKERLE SÁNDOR” felirat olvasható. Az emlékérem hátlapján a Buda Palota épülete Várfok utcára néző homlokzatrészletének ábrázolása látható, lent, az ábrázolásba ágyazva a „BP.” verdejel található.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
