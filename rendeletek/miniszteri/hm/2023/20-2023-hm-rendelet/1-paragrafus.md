@@ -1,3 +1,3 @@
-1. § A honvédek illetményéről és illetményjellegű juttatásairól szóló 7/2015. (VI. 22.) HM rendelet (a továbbiakban: R.) 48/B. § (1a) bekezdése a következő h) ponttal egészül ki:
+1. §[^2]
 
-[Az (1) bekezdés alapján megállapítandó kiegészítő illetmény havi összege megegyezik]
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
