@@ -16,7 +16,7 @@
 
 (9) Az e rendelet 9. és 10. §-a szerinti rendelkezéseket a már folyamatban lévő Vet. 35. § (8) bekezdése szerinti eljárásban is alkalmazni kell.
 
-(10)[^14] A hálózati engedélyesek a Vet. 35. § (8) bekezdése szerinti, az aktuális szabad kapacitásokról és a csatlakozás műszaki és várható gazdasági feltételeiről szóló részletes tájékoztatót – a Vet. 35. § (8) bekezdésétől eltérően – másodszorra 2023. szeptember 11. napjáig teszik közzé.
+(10)[^14] A hálózati engedélyesek a Vet. 35. § (8) bekezdése szerinti, az aktuális szabad kapacitásokról és a csatlakozás műszaki és várható gazdasági feltételeiről szóló részletes tájékoztatót – a Vet. 35. § (8) bekezdésétől eltérően – másodszorra 2023. november 11. napjáig teszik közzé.
 
 (11)[^15] A Vet. 35. § (8) bekezdése szerinti, először 2022. május 2-án közzétett, az aktuális szabad kapacitásokról és a csatlakozás műszaki és várható gazdasági feltételeiről szóló részletes tájékoztató közzétételét követően indult, a Vet. 35. § (8) bekezdése szerinti egyedi eljárásban benyújtott csatlakozási igénybejelentésre vonatkozó, az üzemi és elosztói szabályzatban meghatározott első műszaki gazdasági tájékoztató és megvalósíthatósági tanulmány készítésére vonatkozó felhívás kiadásának határideje – az üzemi és elosztói szabályzattól eltérően –
 
@@ -47,7 +47,7 @@ cb) közvetlenül vagy aggregátoron keresztül aFRR kiegyenlítő szabályozás
 (17)[^23] Az 1. § (4) bekezdése szerinti nyilatkozattételtől függetlenül, e rendelet egyéb rendelkezéseinek alkalmazása nélkül jogosult a csatlakozás igénybevételére az államháztartási rendszerbe tartozó igénybejelentő, amennyiben az 1. § (4) bekezdés a) pontja szerinti körülmény fennállását a hálózati engedélyes felé az 1. § (5) bekezdésének megfelelően 2023. április 15. napjáig igazolja.
 
 [^13]: A 11. § (6) bekezdése a 31/2023. (II. 8.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^14]: A 11. § (10) bekezdése a 94/2023. (III. 29.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
+[^14]: A 11. § (10) bekezdése a 426/2023. (IX. 13.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
 [^15]: A 11. § (11) bekezdése a 94/2023. (III. 29.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^16]: A 11. § (12) bekezdését a 31/2023. (II. 8.) Korm. rendelet 6. §-a iktatta be.
 [^17]: A 11. § (13) bekezdését a 31/2023. (II. 8.) Korm. rendelet 6. §-a iktatta be.
