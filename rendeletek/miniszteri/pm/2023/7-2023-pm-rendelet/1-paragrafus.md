@@ -1,0 +1,1 @@
+1. § A Nemzeti Adó- és Vámhivatalnál rendszeresített pénzügyőri munkakörökről, a képesítési előírásokról, valamint a munkaköri pótlékról szóló 21/2020. (XII. 30.) PM rendelet 3. melléklet 1. pontjában foglalt táblázat B:9, B:10, B:13 mezőjében és 3. melléklet 2.2.1. pontjában a „38 650 Ft” szövegrész helyébe a „48 650 Ft” szöveg lép.
