@@ -4,7 +4,7 @@
 
 | 0 | 2000 |
 
-4. melléklet az 50/2011. (IX. 30.) NFM rendelethez[^29]
+4. melléklet az 50/2011. (IX. 30.) NFM rendelethez[^31]
 
 A külön kezelt intézményeknek értékesített távhő hődíja
 
@@ -18,11 +18,11 @@ A külön kezelt intézményeknek értékesített távhő hődíja
 
 | 4. | Algyő | Veolia Energia Magyarország Zrt. | 26 421 |
 
-| 5. | Almásfüzitő | ALFEN Almásfüzitői Energetikai és Szolgáltató Kft. | 29 402[^30] |
+| 5. | Almásfüzitő | ALFEN Almásfüzitői Energetikai és Szolgáltató Kft. | 29 402[^32] |
 
 | 6. | Baj | T-Szol Tatabányai Szolgáltató Zrt. | 23 930 |
 
-| 7. | Baja | Baja Energetika Kft. | 16 912[^31] |
+| 7. | Baja | Baja Energetika Kft. | 16 912[^33] |
 
 | 8. | Balatonfüred | Füredhő Távhőszolgáltatási Kft. | 22 438 |
 
@@ -92,7 +92,7 @@ A külön kezelt intézményeknek értékesített távhő hődíja
 
 | 41. | Kecskemét | Kecskeméti Termostar Hőszolgáltató Kft. | 27 118 |
 
-| 42. | Keszthely | VÜZ Nonprofit Kft. | 25 746[^32] |
+| 42. | Keszthely | VÜZ Nonprofit Kft. | 25 746[^34] |
 
 | 43. | Kiskunfélegyháza | Félegyházi Fejlesztési Nonprofit Kft. | 24 792 |
 
@@ -102,9 +102,9 @@ A külön kezelt intézményeknek értékesített távhő hődíja
 
 | 46. | Komárom | Komáromi Távhő Kft. | 27 328 |
 
-| 47. | Komló | Komlói Fűtőerőmű Zrt. | 12 376[^33] |
+| 47. | Komló | Komlói Fűtőerőmű Zrt. | 12 376[^35] |
 
-| 48. | Körmend | RÉGIÓHŐ Kft. | 14 750[^34] |
+| 48. | Körmend | RÉGIÓHŐ Kft. | 14 750[^36] |
 
 | 49. | Kőszeg | EQUANS Magyarország Kft. | 27 099 |
 
@@ -112,9 +112,9 @@ A külön kezelt intézményeknek értékesített távhő hődíja
 
 | 51. | Mátészalka | Mátészalkai Távhőszolgáltató Kft. | 23 569 |
 
-| 52. | Miskolc | MIHŐ Kft. | 17 373[^35] |
+| 52. | Miskolc | MIHŐ Kft. | 17 373[^37] |
 
-| 53. | Mohács | MOHÁCS-HŐ Kft. | 13 725[^36] |
+| 53. | Mohács | MOHÁCS-HŐ Kft. | 13 725[^38] |
 
 | 54. | Mór | MÓRHŐ Kft. | 27 650 |
 
@@ -142,15 +142,15 @@ A külön kezelt intézményeknek értékesített távhő hődíja
 
 | 66. | Pétfürdő | “PÉTKOMM” Kft. | 24 624 |
 
-| 67. | Pornóapáti | Pornóapáti Vagyonhasznosító Kft. | 5 505[^37] |
+| 67. | Pornóapáti | Pornóapáti Vagyonhasznosító Kft. | 5 505[^39] |
 
 | 68. | Putnok | Putnoki Városgondnokság | 25 482 |
 
 | 69. | Püspökladány | Püspökladányi Városüzemeltető és Gyógyfürdő Kft. | 25 170 |
 
-| 70. | Salgótarján | Salgó Vagyon Kft. | 25 544[^38] |
+| 70. | Salgótarján | Salgó Vagyon Kft. | 25 544[^40] |
 
-| 71. | Sárbogárd | EQUANS Sárbogárdi Kft.[^39] | 28 078 |
+| 71. | Sárbogárd | EQUANS Sárbogárdi Kft.[^41] | 28 078 |
 
 | 72. | Sárospatak | Patakhő Energiaszolgáltató Nonprofit Kft. | 24 554 |
 
@@ -188,11 +188,11 @@ A külön kezelt intézményeknek értékesített távhő hődíja
 
 | 89. | Szolnok | MVM OTSZ Zrt. | 27 049 |
 
-| 90. | Szombathely | Szombathelyi Távhőszolgáltató Kft. | 25 340[^40] |
+| 90. | Szombathely | Szombathelyi Távhőszolgáltató Kft. | 25 340[^42] |
 
 | 91. | Tapolca | Városgazdálkodási Kft. | 25 448 |
 
-| 92. | Tata | TATA ENERGIA Kft. | 14 246[^41] |
+| 92. | Tata | TATA ENERGIA Kft. | 14 246[^43] |
 
 | 93. | Tatabánya | T-Szol Tatabányai Szolgáltató Zrt. | 5 845 |
 
@@ -210,16 +210,16 @@ A külön kezelt intézményeknek értékesített távhő hődíja
 
 | 100. | Zirc | Veolia Energia Magyarország Zrt. | 29 234 |
 
-[^29]: A 4. melléklet a 8/2022. (XII. 28.) EM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^30]: A 4. mellékletben foglalt táblázat C:5 mezője a 3/2023. (III. 31.) EM rendelet 1. § 9. pontja szerint módosított szöveg.
-[^31]: A 4. mellékletben foglalt táblázat C:7 mezője a 3/2023. (III. 31.) EM rendelet 1. § 10. pontja szerint módosított szöveg.
-[^32]: A 4. mellékletben foglalt táblázat C:42 mezője a 3/2023. (III. 31.) EM rendelet 1. § 11. pontja szerint módosított szöveg.
-[^33]: A 4. mellékletben foglalt táblázat C:47 mezője a 3/2023. (III. 31.) EM rendelet 1. § 12. pontja szerint módosított szöveg.
-[^34]: A 4. mellékletben foglalt táblázat C:48 mezője a 3/2023. (III. 31.) EM rendelet 1. § 13. pontja szerint módosított szöveg.
-[^35]: A 4. mellékletben foglalt táblázat C:52 mezője a 3/2023. (III. 31.) EM rendelet 1. § 14. pontja szerint módosított szöveg.
-[^36]: A 4. mellékletben foglalt táblázat C:53 mezője a 3/2023. (III. 31.) EM rendelet 1. § 15. pontja szerint módosított szöveg.
-[^37]: A 4. mellékletben foglalt táblázat C:67 mezője a 3/2023. (III. 31.) EM rendelet 1. § 16. pontja szerint módosított szöveg.
-[^38]: A 4. mellékletben foglalt táblázat C:70 mezője a 3/2023. (III. 31.) EM rendelet 1. § 17. pontja szerint módosított szöveg.
-[^39]: A 4. mellékletben foglalt táblázat B:71 mezője a 3/2023. (III. 31.) EM rendelet 1. § 8. pontja szerint módosított szöveg.
-[^40]: A 4. mellékletben foglalt táblázat C:90 mezője a 3/2023. (III. 31.) EM rendelet 1. § 18. pontja szerint módosított szöveg.
-[^41]: A 4. mellékletben foglalt táblázat C:92 mezője a 3/2023. (III. 31.) EM rendelet 1. § 19. pontja szerint módosított szöveg.
+[^31]: A 4. melléklet a 8/2022. (XII. 28.) EM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^32]: A 4. mellékletben foglalt táblázat C:5 mezője a 3/2023. (III. 31.) EM rendelet 1. § 9. pontja szerint módosított szöveg.
+[^33]: A 4. mellékletben foglalt táblázat C:7 mezője a 3/2023. (III. 31.) EM rendelet 1. § 10. pontja szerint módosított szöveg.
+[^34]: A 4. mellékletben foglalt táblázat C:42 mezője a 3/2023. (III. 31.) EM rendelet 1. § 11. pontja szerint módosított szöveg.
+[^35]: A 4. mellékletben foglalt táblázat C:47 mezője a 3/2023. (III. 31.) EM rendelet 1. § 12. pontja szerint módosított szöveg.
+[^36]: A 4. mellékletben foglalt táblázat C:48 mezője a 3/2023. (III. 31.) EM rendelet 1. § 13. pontja szerint módosított szöveg.
+[^37]: A 4. mellékletben foglalt táblázat C:52 mezője a 3/2023. (III. 31.) EM rendelet 1. § 14. pontja szerint módosított szöveg.
+[^38]: A 4. mellékletben foglalt táblázat C:53 mezője a 3/2023. (III. 31.) EM rendelet 1. § 15. pontja szerint módosított szöveg.
+[^39]: A 4. mellékletben foglalt táblázat C:67 mezője a 3/2023. (III. 31.) EM rendelet 1. § 16. pontja szerint módosított szöveg.
+[^40]: A 4. mellékletben foglalt táblázat C:70 mezője a 3/2023. (III. 31.) EM rendelet 1. § 17. pontja szerint módosított szöveg.
+[^41]: A 4. mellékletben foglalt táblázat B:71 mezője a 3/2023. (III. 31.) EM rendelet 1. § 8. pontja szerint módosított szöveg.
+[^42]: A 4. mellékletben foglalt táblázat C:90 mezője a 3/2023. (III. 31.) EM rendelet 1. § 18. pontja szerint módosított szöveg.
+[^43]: A 4. mellékletben foglalt táblázat C:92 mezője a 3/2023. (III. 31.) EM rendelet 1. § 19. pontja szerint módosított szöveg.

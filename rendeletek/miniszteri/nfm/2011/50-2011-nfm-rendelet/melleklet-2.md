@@ -56,7 +56,7 @@
 
 | 28 | Dunaújváros | ISD Power Energiatermelő és Szolgáltató Kft. | DVG Dunaújvárosi Vagyonkezelő Zrt. | 0 | 1 401 |
 
-| 29 | Dunaújváros | Greenergy Távhő Kft. | DVG Dunaújvárosi Vagyonkezelő Zrt. | 46 700 000 | 22 702 |
+| 29 | Dunaújváros | Greenergy Távhő Kft. | DVG Dunaújvárosi Vagyonkezelő Zrt. | 93 400 000[^22] | 22 702 |
 
 | 30 | Eger | CHP-Erőmű Kft. | EVAT Zrt. | 0 | 22 987 |
 
@@ -86,7 +86,7 @@
 
 | 43 | Kiskunfélegyháza | Greenergy-Power Kft. | Félegyházi Fejlesztési Nonprofit Kft. | 0 | 24 880 |
 
-| 44 | Körmend | Greenergy-Power Kft. | RÉGIÓHŐ Kft. | 0 | 13 013[^22] |
+| 44 | Körmend | Greenergy-Power Kft. | RÉGIÓHŐ Kft. | 0 | 13 013[^23] |
 
 | 45 | Makó | Materm Hőszolgáltató, Befektető Kft. | Makói Városgazdálkodási Nonprofit Kft. | 0 | 2 349 |
 
@@ -106,7 +106,7 @@
 
 | 53 | Mohács | Veolia Energia Magyarország Zrt. | MOHÁCS-HŐ Kft. | 0 | 22 793 |
 
-| 54 | Mohács | BIOENERGY-Duna Befektető és Szolgáltató Kft. | MOHÁCS-HŐ Kft. | 0 | 5 703[^23] |
+| 54 | Mohács | BIOENERGY-Duna Befektető és Szolgáltató Kft. | MOHÁCS-HŐ Kft. | 0 | 5 703[^24] |
 
 | 55 | Mosonmagyaróvár | MESZ Mosonmagyaróvár Kft. | Városüzemeltető és Fenntartó Kft. | 29 393 000 | 25 130 |
 
@@ -126,9 +126,9 @@
 
 | 63 | Salgótarján | CHP-Erőmű Kft. - kapcsolt | Salgó Vagyon Kft. | 0 | 22 891 |
 
-| 64 | Salgótarján | CHP-Erőmű Kft.- kazán | Salgó Vagyon Kft. | 0 | 6 186[^24] |
+| 64 | Salgótarján | CHP-Erőmű Kft.- kazán | Salgó Vagyon Kft. | 0 | 6 186[^25] |
 
-| 65 | Sárbogárd | Perkons DHŐ Kft. | EQUANS Sárbogárdi Kft.[^25] | 0 | 23 602 |
+| 65 | Sárbogárd | Perkons DHŐ Kft. | EQUANS Sárbogárdi Kft.[^26] | 0 | 23 602 |
 
 | 66 | Sárvár | Greenergy-Power Kft. | Sárvári Városgondnokság Nonprofit Kft. | 0 | 23 982 |
 
@@ -174,9 +174,11 @@
 
 | 87 | Vasvár | Vasi Triász Kft. | RÉGIÓHŐ Kft. | 0 | 1 697 |
 
-| 88 | Veszprém | Greenergy-Power Kft.[^26] | “VKSZ” Veszprémi Közüzemi Szolgáltató Zrt. | 0 | 22 968 |
+| 88 | Veszprém | Greenergy-Power Kft.[^27] | “VKSZ” Veszprémi Közüzemi Szolgáltató Zrt. | 0 | 22 968 |
 
-2. melléklet az 50/2011. (IX. 30.) NFM rendelethez[^27]
+| 89. | Várpalota[^28] | Várpalotai Kiserőmű Kft. | Várpalotai Közszolgáltató Nonprofit Kft. | 0 | 22 412 |
+
+2. melléklet az 50/2011. (IX. 30.) NFM rendelethez[^29]
 
 Az indokolt költségek figyelembevételének módszertana a távhőtermelők és távhőszolgáltatók vonatkozásában
 
@@ -240,9 +242,11 @@ Abban az esetben, ha a beruházás hatására bekövetkező költségcsökkenés
 
 [^20]: Az 1. mellékletben foglalt táblázat E:5 mezője a 3/2023. (III. 31.) EM rendelet 1. § 4. pontja szerint módosított szöveg.
 [^21]: Az 1. mellékletben foglalt táblázat D:20 mezője a 3/2023. (III. 31.) EM rendelet 1. § 3. pontja szerint módosított szöveg.
-[^22]: Az 1. mellékletben foglalt táblázat E:44 mezője a 3/2023. (III. 31.) EM rendelet 1. § 5. pontja szerint módosított szöveg.
-[^23]: Az 1. mellékletben foglalt táblázat E:54 mezője a 3/2023. (III. 31.) EM rendelet 1. § 6. pontja szerint módosított szöveg.
-[^24]: Az 1. mellékletben foglalt táblázat E:64 mezője a 3/2023. (III. 31.) EM rendelet 1. § 7. pontja szerint módosított szöveg.
-[^25]: Az 1. mellékletben foglalt táblázat C:65 mezője a 3/2023. (III. 31.) EM rendelet 1. § 2. pontja szerint módosított szöveg.
-[^26]: Az 1. mellékletben foglalt táblázat B:88 mezője a 3/2023. (III. 31.) EM rendelet 1. § 1. pontja szerint módosított szöveg.
-[^27]: A 2. melléklet a 76/2015. (XII. 29.) NFM rendelet 6. § (2) bekezdésével megállapított, az 59/2017. (XII. 29.) NFM rendelet 3. § (2) bekezdése szerint módosított szöveg.
+[^22]: Az 1. mellékletben foglalt táblázat D:29 mezője a 16/2023. (IX. 14.) EM rendelet 1. §-ával megállapított szöveg.
+[^23]: Az 1. mellékletben foglalt táblázat E:44 mezője a 3/2023. (III. 31.) EM rendelet 1. § 5. pontja szerint módosított szöveg.
+[^24]: Az 1. mellékletben foglalt táblázat E:54 mezője a 3/2023. (III. 31.) EM rendelet 1. § 6. pontja szerint módosított szöveg.
+[^25]: Az 1. mellékletben foglalt táblázat E:64 mezője a 3/2023. (III. 31.) EM rendelet 1. § 7. pontja szerint módosított szöveg.
+[^26]: Az 1. mellékletben foglalt táblázat C:65 mezője a 3/2023. (III. 31.) EM rendelet 1. § 2. pontja szerint módosított szöveg.
+[^27]: Az 1. mellékletben foglalt táblázat B:88 mezője a 3/2023. (III. 31.) EM rendelet 1. § 1. pontja szerint módosított szöveg.
+[^28]: Az 1. mellékletben foglalt táblázat 89. sora a 16/2023. (IX. 14.) EM rendelet 1-2. §-a szerint módosított szöveg.
+[^29]: A 2. melléklet a 76/2015. (XII. 29.) NFM rendelet 6. § (2) bekezdésével megállapított, az 59/2017. (XII. 29.) NFM rendelet 3. § (2) bekezdése szerint módosított szöveg.
