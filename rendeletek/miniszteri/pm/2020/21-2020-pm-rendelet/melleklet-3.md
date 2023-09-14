@@ -24,15 +24,15 @@ A munkaköri pótlékra jogosító munkakörök és a munkaköri pótlék mért�
 
 | 8 | operatív adóellenőr II. | 57 975 Ft |
 
-| 9 | ügyfélkapcsolati referens | 38 650 Ft |
+| 9 | ügyfélkapcsolati referens | 48 650 Ft[^5] |
 
-| 10 | ügyfélkapcsolati ügyintéző | 38 650 Ft |
+| 10 | ügyfélkapcsolati ügyintéző | 48 650 Ft[^6] |
 
 | 11 | végrehajtó I. | 57 975 Ft |
 
 | 12 | végrehajtó II. | 57 975 Ft |
 
-| 13 | szakértő | 38 650 Ft |
+| 13 | szakértő | 48 650 Ft[^7] |
 
 | 14 | 57 975 Ft |
 
@@ -44,8 +44,13 @@ A munkaköri pótlékra jogosító munkakörök és a munkaköri pótlék mért�
 
 2.2. A szakértő abban az esetben jogosult munkaköri pótlékra, ha munkaköri feladatként ügyfélkapcsolati referens, operatív adóellenőr I., illetve végrehajtó I., határszolgálati vámreferens, járőr I., illetve nyomozó I. munkakörbe tartozó feladatokat is ellát.
 
-2.2.1. A szakértő munkaköri pótléka 38 650 Ft, ha munkaköri feladatként ügyfélkapcsolati referens munkakörbe tartozó feladatokat is ellát.
+2.2.1.[^8] A szakértő munkaköri pótléka 48 650 Ft, ha munkaköri feladatként ügyfélkapcsolati referens munkakörbe tartozó feladatokat is ellát.
 
 2.2.2. A szakértő munkaköri pótléka 57 975 Ft, ha munkaköri feladatként operatív adóellenőr I., illetve végrehajtó I. munkakörbe tartozó feladatokat is ellát.
 
 2.2.3. A szakértő munkaköri pótléka 77 300 Ft, ha munkaköri feladatként határszolgálati vámreferens, járőr I., illetve nyomozó I. munkakörbe tartozó feladatokat is ellát.
+
+[^5]: A 3. melléklet 1. pontjában foglalt táblázat B:9 mezője a 7/2023. (IX. 13.) PM rendelet 1. §-ával megállapított szöveg.
+[^6]: A 3. melléklet 1. pontjában foglalt táblázat B:10 mezője a 7/2023. (IX. 13.) PM rendelet 1. §-ával megállapított szöveg.
+[^7]: A 3. melléklet 1. pontjában foglalt táblázat B:13 mezője a 7/2023. (IX. 13.) PM rendelet 1. §-ával megállapított szöveg.
+[^8]: A 3. melléklet 2.2.1. pontja a 7/2023. (IX. 13.) PM rendelet 1. §-a szerint módosított szöveg.
