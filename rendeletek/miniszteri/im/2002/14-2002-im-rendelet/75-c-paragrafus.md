@@ -8,7 +8,7 @@ a)[^187] az Első és Második résznek az első fokú bíróságnál a polgári
 
 b) a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény 10. § (2) bekezdésének b) pontja alapján kiadott egységes iratkezelési szabályzatot (a továbbiakban: Isz.)
 
-## kell alkalmazni.
+kell alkalmazni.
 
 (2) Az elektronikus kapcsolattartással érintett ügyek iratkezelése a bíróság és az OBH között megosztva, vegyes rendszerben történik. Az OBH ezen iratkezeléséért az OBH elnöke felelős; az OBH elnöke ezzel összefüggő feladatait átruházhatja.
 

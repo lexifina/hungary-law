@@ -14,8 +14,8 @@
 
 (6)[^86] Büntetőügyben az egyes büntetőeljárási cselekményekre és a büntetőeljárásban részt vevő személyekre vonatkozó szabályokról szóló rendeletben meghatározott értesítések alkalmazandók.
 
-(7)[^87] Polgári ügyben az A/2. jelzésű értesítés alkalmazandó. Amennyiben a bíróság megítélése szerint az iratot kizárólag a címzett saját kezéhez lehet kézbesíteni, az A/6. jelzésű értesítést kell használni.
+(7)[^87] Polgári, gazdasági, munkaügyi és közigazgatási ügyben az A/2. jelzésű értesítés alkalmazandó. Amennyiben a bíróság megítélése szerint az iratot kizárólag a címzett saját kezéhez lehet kézbesíteni, az A/6. jelzésű értesítést kell használni. Minden ügycsoportban alkalmazható az A/7. és az A/7/2. jelzésű értesítés.
 
 [^85]: A 35. § (5) bekezdésének harmadik mondatát a 22/2004. (V. 18.) IM rendelet 8. § (1) bekezdése iktatta be, e módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^86]: A 35. § (6) bekezdését a 22/2004. (V. 18.) IM rendelet 8. § (2) bekezdése iktatta be, szövege a 17/2018. (VI. 27.) IM rendelet 4. § (6) bekezdésével megállapított szöveg.
-[^87]: A 35. § (7) bekezdését a 21/2005. (X. 28.) IM rendelet 1. §-a iktatta be. E módosító rendelet 3. §-a alapján a rendelkezést a folyamatban lévő ügyekben kell alkalmazni.
+[^87]: A 35. § (7) bekezdését a 21/2005. (X. 28.) IM rendelet 1. §-a iktatta be, szövege a 10/2023. (VII. 20.) IM rendelet 1. §-ával megállapított szöveg.

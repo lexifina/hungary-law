@@ -30,3 +30,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-14-20-0
 | 2021-01-01 | 2002-14-20-06.34 | 36/2010. (V. 13.) IRM rendelet |
 | 2022-04-12 | 2002-14-20-06.35 | 8/2022. (IV. 4.) IM rendelet |
 | 2022-07-01 | 2002-14-20-06.36 | 8/2022. (IV. 4.) IM rendelet |
+| 2023-09-15 | 2002-14-20-06.37 | 21/2005. (X. 28.) IM rendelet |
