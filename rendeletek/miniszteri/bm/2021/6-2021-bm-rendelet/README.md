@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-6-20-0A
 | 2022-09-23 | 2021-6-20-0A.4 | 51/2021. (XII. 23.) BM rendelet |
 | 2022-12-24 | 2021-6-20-0A.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2023-05-20 | 2021-6-20-0A.6 | 51/2021. (XII. 23.) BM rendelet |
+| 2023-09-15 | 2021-6-20-0A.7 | 52/2021. (XII. 27.) BM rendelet |
