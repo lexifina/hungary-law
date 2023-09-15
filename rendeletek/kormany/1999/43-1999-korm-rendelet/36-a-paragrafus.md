@@ -1,4 +1,4 @@
-36/A. §[^419] (1) Az aktív fekvőbeteg-szakellátás területén a külön jogszabályban meghatározott sürgősségi ellátási szinteknek megfelelő szolgáltatást nyújtó, vagy a traumatológiai ellátás területén 24 órás, folyamatos betegfelvételt biztosító szolgáltató abban az esetben jogosult az R.-ben meghatározott havi fix összegű díjra, ha
+36/A. §[^421] (1) Az aktív fekvőbeteg-szakellátás területén a külön jogszabályban meghatározott sürgősségi ellátási szinteknek megfelelő szolgáltatást nyújtó, vagy a traumatológiai ellátás területén 24 órás, folyamatos betegfelvételt biztosító szolgáltató abban az esetben jogosult az R.-ben meghatározott havi fix összegű díjra, ha
 
 a) a gyógyintézetben intenzív osztály és legalább 3 további szakmában szervezett aktív fekvőbeteg osztály működik, ideértve a mátrix szervezetben működő gyógyintézeteket is,
 
@@ -20,4 +20,4 @@ b) az egészségügyi ellátórendszer fejlesztéséről szóló törvény végr
 
 (5) Az (1) bekezdés szerinti egészségügyi szolgáltató a 4602 szakmakódú szervezeti egységek által végzett ellátásokról a 13. számú melléklet szerinti adattartalmú adatlapot köteles a havi teljesítményjelentéssel egyidejűleg megküldeni a finanszírozó számára. Az adatlap nélkül a szervezeti egységen nyújtott ellátás nem finanszírozható. Az adatlap formanyomtatványát és annak kitöltési útmutatóját a NEAK a honlapján közzéteszi.
 
-[^419]: A 36/A. §-t a 697/2020. (XII. 29.) Korm. rendelet 19. §-a iktatta be.
+[^421]: A 36/A. §-t a 697/2020. (XII. 29.) Korm. rendelet 19. §-a iktatta be.

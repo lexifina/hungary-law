@@ -1,3 +1,3 @@
-## 76/T. §[^592] Az egyes egészségügyi és egészségbiztosítási tárgyú kormányrendeletek módosításáról szóló 87/2018. (IV. 24.) Korm. rendelettel megállapított 34. számú melléklet szerinti finanszírozásra az érintett egészségügyi szolgáltatók 2018 januárjától jogosultak.
+## 76/T. §[^594] Az egyes egészségügyi és egészségbiztosítási tárgyú kormányrendeletek módosításáról szóló 87/2018. (IV. 24.) Korm. rendelettel megállapított 34. számú melléklet szerinti finanszírozásra az érintett egészségügyi szolgáltatók 2018 januárjától jogosultak.
 
-[^592]: A 76/T. §-t a 87/2018. (IV. 24.) Korm. rendelet 3. §-a iktatta be.
+[^594]: A 76/T. §-t a 87/2018. (IV. 24.) Korm. rendelet 3. §-a iktatta be.
