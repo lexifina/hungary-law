@@ -1,4 +1,4 @@
-## 5/F.[^27] A 2012/21/EU bizottsági határozat szerinti közszolgáltatásért járó ellentételezés
+## 5/F.[^42] A 2012/21/EU bizottsági határozat szerinti közszolgáltatásért járó ellentételezés
 
 13/J. § (1) A közszolgáltatásért járó ellentételezés kizárólag a közszolgáltatás ellátásával megbízott kedvezményezett részére nyújtható.
 
@@ -10,4 +10,4 @@
 
 (5) A kedvezményezett a közszolgáltatásért járó ellentételezésről olyan elkülönített elszámolást vezet, amelyből a (2)–(4) bekezdésben meghatározott követelmények ellenőrizhetőek.
 
-[^27]: Az 5/F. alcímet (13/J. §) a 33/2022. (IX. 22.) BM rendelet 2. §-a iktatta be.
+[^42]: Az 5/F. alcímet (13/J. §) a 33/2022. (IX. 22.) BM rendelet 2. §-a iktatta be.

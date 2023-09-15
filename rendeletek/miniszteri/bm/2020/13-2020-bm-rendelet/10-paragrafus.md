@@ -1,20 +1,12 @@
-10. § (1) Működési támogatás esetén a támogatás összege nem haladhatja meg a releváns időszakban keletkező működési veszteséget.
+10. §[^32] (1) Működési támogatás keretében elszámolható
 
-(2) Működési támogatás esetén a támogatás a működési veszteségen felül fedezetet nyújthat az észszerű nyereségre is.
+a) a kulturális intézmény vagy örökségi helyszín állandó vagy időszakos tevékenységéhez – különösen kiállításokhoz, előadásokhoz, rendezvényekhez és hasonló kulturális tevékenységekhez – kapcsolódó, a szokásos üzletmenetben felmerülő költség,
 
-(3) A működésből származó veszteség összegét előzetesen, megalapozott előrejelzések alapján kell meghatározni.
+b) a kulturális és művészeti oktatási tevékenység költsége, és a kulturális kifejezésmódok sokfélesége védelmének és előmozdításának fontosságát tudatosító oktatási és társadalmi célú figyelemfelhívó programok népszerűsítésének költsége – ideértve az új technológiák ezen célokra történő alkalmazásának költségét is –,
 
-(4) Az (1) és (2) bekezdésben meghatározottak teljesítése – a (3) bekezdéstől eltérően – visszafizetési mechanizmus alkalmazásával utólag is biztosítható.
+c) a közönség kulturális intézményhez vagy örökségi helyszínhez és tevékenységhez való hozzáférésének javítását szolgáló költség – ideértve a digitalizálással, egyéb új technológiákkal és a fogyatékkal élő személyek hozzáférési lehetőségeinek javításával kapcsolatos költséget is –,
 
-(5) A működési támogatás elszámolható költségei:
-
-a) a kulturális intézmény vagy örökségi helyszín állandó vagy időszakos tevékenységéhez (pl. kiállításokhoz, előadásokhoz, rendezvényekhez és hasonló kulturális tevékenységekhez) kapcsolódó, a szokásos üzletmenetben felmerülő költség,
-
-b) a kulturális és művészeti oktatási tevékenység költsége, a kulturális kifejezésmódok sokfélesége védelmének és népszerűsítésének fontosságát tudatosító oktatási és társadalmi célú figyelemfelhívó programok költsége (pl. az új technológiák e célokra történő alkalmazásának költsége),
-
-c) a közönség kulturális intézményhez vagy örökségi helyszínhez és tevékenységhez való hozzáférésének javítását szolgáló költség (pl. a digitalizálással, egyéb új technológiákkal és a speciális szükségletű személyek hozzáférési lehetőségeinek javításával kapcsolatos költség),
-
-d) közvetlenül a kulturális projekthez vagy tevékenységhez kapcsolódó működési költség, így különösen
+d) közvetlenül a kulturális projekthez vagy tevékenységhez kapcsolódó működési költség, különösen
 
 da) az ingatlanok és kulturális helyszínek bérletének, lízingjének költsége,
 
@@ -24,7 +16,7 @@ dc) a kiállítások és díszletek építészeti elemeinek költsége,
 
 dd) az eszközökhöz, szoftverekhez és felszerelésekhez igénybe vett hitel vagy lízing költsége,
 
-de) az eszközök, szoftverek, felszerelések amortizációja, ha e költséget nem fedezte beruházási támogatás,
+de) az eszközök, szoftverek, felszerelések amortizációja és a finanszírozási költség, ha e költséget nem fedezte beruházási támogatás,
 
 df) szerzői jogi védelem alatt álló alkotásokhoz és egyéb kapcsolódó szellemi tulajdonjogi védelem alatt álló tartalmakhoz való hozzáférésre vonatkozó jogokkal kapcsolatos költség,
 
@@ -32,6 +24,18 @@ dg) a marketing költsége,
 
 dh) a projekt vagy tevékenység eredményeként közvetlenül felmerült költség,
 
-e) a kulturális intézmény, örökségi helyszín vagy projekt személyi jellegű ráfordítása,
+e) a kulturális intézmény, örökségi helyszín vagy projekt személyi jellegű ráfordítása vagy
 
 f) a külső tanácsadással és külső szolgáltatók által biztosított támogató szolgáltatásokkal kapcsolatos, közvetlenül a projekt eredményeként felmerülő költség.
+
+(2) Működési támogatás esetén a támogatás összege nem haladhatja meg a támogatással érintett időszakban keletkező működési veszteséget, ideértve az észszerű nyereséget is.
+
+(3) A működésből származó veszteség és az észszerű nyereség összegét
+
+a) előzetesen, megalapozott előrejelzések alapján vagy
+
+b) visszafizetési mechanizmus alkalmazásával utólag
+
+kell meghatározni.
+
+[^32]: A 10. § a 39/2023. (IX. 14.) BM rendelet 4. §-ával megállapított szöveg.

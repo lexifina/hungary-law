@@ -1,23 +1,21 @@
-## 11. § A 2 000 000 eurónak megfelelő forintösszeget meg nem haladó beruházási vagy működési támogatás esetén a támogatás összege a 9. § (1) és (2) bekezdésében, valamint a 10. § (1)–(4) bekezdésében meghatározott módszerek alkalmazásától eltérően is meghatározható, azzal, hogy a támogatási intenzitás nem haladhatja meg az elszámolható költségek 80%-át.
+12. §[^34] (1) A 8. § (2) bekezdés f) pontja szerinti támogatás esetén
 
-12. § (1) A zenei és irodalmi alkotások kiadásához nyújtott támogatás keretében
+a) a támogatási intenzitás nem haladhatja meg az elszámolható költségek 70%-át, vagy
 
-a) a szerző díjazása (pl. szerzői joggal kapcsolatos költség),
+b) a támogatás összege nem haladhatja meg az elszámolható költségek és a projektből származó bevételek jelenértékének különbségét, azzal, hogy a bevételeket az elszámolható költségekből előzetesen vagy visszakövetelési mechanizmus alkalmazásával kell levonni.
+
+(2) A 8. § (2) bekezdés f) pontja szerinti támogatás keretében a zenei és irodalmi kiadói költségek számolhatók el, különösen
+
+a) a szerző díjazása, ideértve a szerzői joggal kapcsolatos költséget is,
 
 b) a fordító díjazása,
 
 c) a szerkesztő díjazása,
 
-d) az egyéb szerkesztési költség (pl. korrektúrázás, javítás, lektorálás),
+d) az egyéb szerkesztési költség, ideértve a korrektúrázás, javítás, lektorálás költségét is,
 
 e) az elrendezés és nyomdai előkészítés költsége és
 
-f) a nyomtatás vagy elektronikus közzététel költsége
+f) a nyomtatás vagy elektronikus közzététel költsége.
 
-számolható el.
-
-(2) Az (1) bekezdés f) pontja szerinti tevékenységekhez nyújtott támogatás esetén
-
-a) a támogatási intenzitás nem haladhatja meg az elszámolható költségek 70%-át, vagy
-
-b) a támogatás összege nem haladhatja meg az elszámolható költségek és a projektből származó bevételek jelenértékének különbségét, azzal, hogy a bevételeket az elszámolható költségekből előzetesen vagy visszakövetelési mechanizmus alkalmazásával kell levonni.
+[^34]: A 12. § a 39/2023. (IX. 14.) BM rendelet 4. §-ával megállapított szöveg.
