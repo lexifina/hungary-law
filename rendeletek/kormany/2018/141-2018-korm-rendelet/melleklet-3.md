@@ -100,7 +100,7 @@
 
 | 48. | Komplex ingatlanfejlesztésre, illetve az ahhoz kapcsolódó építmények, infrastrukturális fejlesztések megvalósítására irányuló beruházás a Budapest II. kerületben | Budapest II. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerint Budapest II. kerület belterület 13507/3 helyrajzi számon nyilvántartott ingatlan | Budapest Főváros Kormányhivatalát vezető főispán |
 
-| 49. | Szállodafejlesztésre, valamint ahhoz kapcsolódó építmények, infrastrukturális fejlesztések és kapcsolódó ingatlanfejlesztés megvalósítására irányuló beruházás | Balatonvilágos közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerint Balatonvilágos belterület 291, 292, 293, 294, 295/5, 295/6, 295/7, 295/8, 295/9, 295/10, 295/11, 295/12, 295/13, 295/14, 295/15, 295/16, 295/17, 296, 297, 298, 301/1, 302, 303/2 és 1412 helyrajzi számú ingatlanok | Somogy Vármegyei Kormányhivatalt vezető főispán |
+| 49. | Komplex ingatlanfejlesztés megvalósítására irányuló beruházások és az ezekhez kapcsolódó infrastrukturális fejlesztések | Balatonvilágos közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerint Balatonvilágos belterület 291, 292/1–19, 293, 294/1–16, 295/5, 295/6, 295/7, 295/8, 295/9, 295/10, 295/11, 295/12, 295/13, 295/14, 295/15, 295/16, 295/17, 296, 297/1–2, 298, 301/1 és 1412 helyrajzi számú ingatlanok | Somogy Vármegyei Kormányhivatalt vezető főispán |
 
 | 50. | Győr-Pér Repülőtér fejlesztése | Pér közigazgatási területén elhelyezkedő, az ingatlan- nyilvántartás szerinti külterület 034/34, 052/2, 052/2/A, 054/44, 077/2, 084/79, 087/4, 087/12 helyrajzi számú ingatlanok | Győr-Moson-Sopron Vármegyei Kormányhivatalt vezető főispán |
 
@@ -192,7 +192,7 @@
 
 | 89. | Gyártóegység kialakítására irányuló beruházás Újhartyán területén | Újhartyán belterület 1100/2 helyrajzi számú ingatlan | Pest Vármegyei Kormányhivatalt vezető főispán |
 
-| 90. | Logisztikai és általános gazdasági célú ingatlanfejlesztés Budapest XXIII. kerületben | Budapest közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti Budapest XXIII. kerület, külterület 0196147, 0196182/1, 0196183/1, 0196304/1, 0196304/2, 0196305, 0196306/2, 0196306/3, 0196308/1, 0196308/3, 0196309, 0196310, 0196311/1, 0196312/1, 0196313, 0196314, 0196315, 0196316, 0196317, 0196318, 0196320/1, 0196322, 0196323/1, 0196325/1, 0196325/3 és 0196330/4 helyrajzi számú ingatlanok | Budapest Főváros Kormányhivatalát vezető főispán |
+| 90. | Logisztikai és általános gazdasági célú ingatlanfejlesztés Budapest XXIII. kerületében és Gyálon | Budapest közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti Budapest XXIII. kerület külterület 0196119/1, 0196119/2, 0196119/3, 0196120, 0196121/4, 0196121/5, 0196121/6, 0196121/7, 0196121/8, 0196139/1, 0196141, 0196142/1, 0196142/2, 0196142/3, 0196142/4, 0196143, 0196144/1, 0196144/2, 0196144/3, 0196145, 0196146/1, 0196146/2, 0196147, 0196148, 0196149, 0196150/2, 0196151/1, 0196151/2, 0196153, 0196154/9, 0196154/10, 0196183/1, 0196224, 0196229, 0196230, 0196231/2, 0196231/3, 0196231/4, 0196231/5, 0196231/6, 0196231/7, 0196238/2, 0196238/5, 0196238/6, 0196238/7, 0196238/8, 0196238/9, 0196238/10, 0196238/11, 0196238/12, 0196238/13, 0196238/14, 0196238/15, 0196238/16, 0196238/17, 0196261, 0196262/1, 0196262/3, 0196262/4, 0196262/5, 0196262/6, 0196262/7, 0196262/8, 0196262/10, 0196262/12, 0196262/13, 0196262/14, 0196263, 0196264/1, 0196264/3, 0196264/5, 0196264/7, 0196264/9, 0196264/10, 0196264/12, 0196264/14, 0196264/16, 0196264/18, 0196264/19, 0196264/20, 0196265, 0196267/1, 0196267/3, 0196267/4, 0196267/5, 0196267/6, 0196267/7, 0196267/9, 0196267/10, 0196268, 0196269, 0196271, 0196273/1, 0196297, 0196298, 0196299, 0196302, 0196304/1, 0196306/1, 0196306/2, 0196308/1, 0196308/3, 0196309, 0196310, 0196311/1, 0196312/1, 0196313, 0196314, 0196316, 0196317,0196319/3, 0196320/1, 0196321/1, 0196322, 0196323/1, 0196325/1, 0196325/3, 0196330/4, továbbá Gyál külterület 150/2, 150/8, 150/9, 150/15, 0151/8, 0151/9, 0151/10, 0152, 0154/8, Gyál belterület 7000/1, 7000/2, 7000/8 és 7100 helyrajzi számú ingatlanok | Budapest Főváros Kormányhivatalát vezető főispán |
 
 | 91. | Képzési központ, irodaház, gyártóüzem és raktár kialakítására irányuló beruházás Sóskút területén | Sóskút belterület 3599, 3592, 3510/32, 3510/33, 3510/34, 3510/36, 3510/39 helyrajzi számú ingatlanok | Pest Vármegyei Kormányhivatalt vezető főispán |
 
@@ -262,8 +262,12 @@
 
 | 121. | Munkásszálló létesítése a Debreceni Déli Gazdasági Övezet mellett | Debrecen közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 0511/35 és 0511/37 helyrajzi számú ingatlanok | Hajdú-Bihar Vármegyei Kormányhivatalt vezető főispán |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^377]
+| 122. | Bankszékház építésére irányuló beruházás Budapest | Budapest közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti Budapest XIII. kerület belterület 25801/6 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető főispán |
+
+| 123. | Szállodafejlesztésre, valamint ahhoz kapcsolódó építmények, infrastrukturális fejlesztések és kapcsolódó ingatlanfejlesztés megvalósítására irányuló beruházás | Tihany közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerint Tihany belterület 570/5 helyrajzi számú ingatlan | Veszprém Vármegyei Kormányhivatalt vezető főispán |
+
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^393]
 
 A 2. mellékletben foglalt táblázat 7 és 7a sora szerinti beruházások közlekedési kapacitásbővítéssel összefüggő útszélesítései
 
-[^377]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^393]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.

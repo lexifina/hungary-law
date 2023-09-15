@@ -1,6 +1,6 @@
-## 6/W. §[^120] A 2. mellékletben foglalt táblázat 80. sora szerinti beruházás esetében az 1. melléklet 1. pontja szerinti közigazgatási hatósági ügyekben eljáró hatóságként Budapest Főváros Kormányhivatalát jelöli ki.
+## 6/W. §[^133] A 2. mellékletben foglalt táblázat 80. sora szerinti beruházás esetében az 1. melléklet 1. pontja szerinti közigazgatási hatósági ügyekben eljáró hatóságként Budapest Főváros Kormányhivatalát jelöli ki.
 
-6/X. §[^121] (1) A 2. mellékletben foglalt táblázat 71. sora szerinti beruházással érintett ingatlanokon a beépítés szabályait és az egyedi építési követelményeket a (2) és (3) bekezdés állapítja meg azzal, hogy
+6/X. §[^134] (1) A 2. mellékletben foglalt táblázat 71. sora szerinti beruházással érintett ingatlanokon a beépítés szabályait és az egyedi építési követelményeket a (2) és (3) bekezdés állapítja meg azzal, hogy
 
 a) a hatályos településrendezési tervek és az OTÉK előírásait a (2) és (3) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -40,5 +40,5 @@ b) B:71 mezőjében megjelölt Göd külterület 062/11 helyrajzi számú ingatl
 
 kizárólag véderdő, továbbá erdősített vagy fásított terület létesíthető.
 
-[^120]: A 6/W. §-t a 752/2021. (XII. 21.) Korm. rendelet 1. §-a iktatta be.
-[^121]: A 6/X. §-t a 811/2021. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
+[^133]: A 6/W. §-t a 752/2021. (XII. 21.) Korm. rendelet 1. §-a iktatta be.
+[^134]: A 6/X. §-t a 811/2021. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
