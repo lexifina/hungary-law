@@ -194,6 +194,8 @@
 
 | 97. | Az Andrássy-palotában megvalósuló beruházás | Budapest I. kerület, Bem rakpart 6. (Fő utca 11–13.) szám alatti ingatlan | Budapest Főváros Kormányhivatalát vezető főispán |
 
-3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^194]
+| 98. | A tihanyi Honthy-villa felújítását és átalakítását biztosító beruházás megvalósítása | Tihany belterület 1668, 1669, 1671 helyrajzi számú, valamint a Tihany külterület 0100/20, 0100/21 helyrajzi számú ingatlanok | Veszprém Vármegyei Kormányhivatalt vezető főispán |
 
-[^194]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja, az 566/2021. (X. 4.) Korm. rendelet 2. § b) pontja, az 591/2021. (X. 20.) Korm. rendelet 2. § b) pontja, a 622/2021. (XI. 9.) Korm. rendelet 3. § b) pontja, a 779/2021. (XII. 23.) Korm. rendelet 3. § b) pontja, a 145/2022. (IV. 7.) Korm. rendelet 6. § b) pontja, a 301/2022. (VIII. 9.) Korm. rendelet 3. § c) pontja, a 373/2023. (VIII. 7.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^197]
+
+[^197]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja, az 566/2021. (X. 4.) Korm. rendelet 2. § b) pontja, az 591/2021. (X. 20.) Korm. rendelet 2. § b) pontja, a 622/2021. (XI. 9.) Korm. rendelet 3. § b) pontja, a 779/2021. (XII. 23.) Korm. rendelet 3. § b) pontja, a 145/2022. (IV. 7.) Korm. rendelet 6. § b) pontja, a 301/2022. (VIII. 9.) Korm. rendelet 3. § c) pontja, a 373/2023. (VIII. 7.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.

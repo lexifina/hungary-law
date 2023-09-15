@@ -1,4 +1,4 @@
-6. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^197]
+6. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^200]
 
 ## A 2. mellékletben foglalt táblázat 95. sora szerinti beruházással érintett Tihany 1868/3, 1868/4, 1869, 1870, 1871 helyrajzi számú ingatlanok és Tihany külterület 0140/16 helyrajzi számú ingatlan Egységes Országos Vetületi Rendszerben megadott koordináták által lehatárolt része
 
@@ -210,4 +210,4 @@
 
 | 13 | 561979.7500 | 172207.6000 |
 
-[^197]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 220/2023. (VI. 1.) Korm. rendelet 4. § (3) bekezdése iktatta be.
+[^200]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 220/2023. (VI. 1.) Korm. rendelet 4. § (3) bekezdése iktatta be.
