@@ -1,4 +1,4 @@
-1. melléklet a 130/2023. (IV. 18.) Korm. rendelethez[^11]
+1. melléklet a 130/2023. (IV. 18.) Korm. rendelethez[^10]
 
 Érzékeny termékek köre
 
@@ -54,4 +54,4 @@
 
 | 25. |  |  |
 
-[^11]: Az 1. melléklet a 224/2023. (VI. 6.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^10]: Az 1. melléklet a 224/2023. (VI. 6.) Korm. rendelet 2. §-ával megállapított szöveg.

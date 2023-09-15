@@ -1,8 +1,8 @@
-2. § (1)[^3]
+2. § (1)[^2]
 
-(2)[^4] Az 1. § (1) bekezdésének alkalmazása során az érzékeny terméket szállító eszközt Magyarország területére történő belépéskor hatósági zárral kell ellátni olyan módon, hogy a szállítóeszközről való bármilyen mennyiség eltávolítására csak a hatósági zár roncsolásával kerülhessen sor.
+(2)[^3] Az 1. § (1) bekezdésének alkalmazása során az érzékeny terméket szállító eszközt Magyarország területére történő belépéskor hatósági zárral kell ellátni olyan módon, hogy a szállítóeszközről való bármilyen mennyiség eltávolítására csak a hatósági zár roncsolásával kerülhessen sor.
 
-(3)[^5] Az érzékeny termék fuvarozója felelős a hatósági zár sértetlenségének biztosításáért és a szállítmánynak az 1. § (1) bekezdés szerinti határidőben történő továbbításáért.
+(3)[^4] Az érzékeny termék fuvarozója felelős a hatósági zár sértetlenségének biztosításáért és a szállítmánynak az 1. § (1) bekezdés szerinti határidőben történő továbbításáért.
 
 (4) A hatósági zárat az állami adó- és vámhatóság helyezi fel.
 
@@ -30,6 +30,6 @@ d) a szállítóeszköz tulajdonosát, üzembentartóját, forgalmi rendszámát
 
 e) a Magyarország területéről való kilépés tervezett helyét és idejét, a tervezett magyarországi útvonalat.
 
-[^3]: A 2. § (1) bekezdését a 177/2023. (V. 12.) Korm. rendelet 4. § a) pontja hatályon kívül helyezte.
-[^4]: A 2. § (2) bekezdése a 177/2023. (V. 12.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
-[^5]: A 2. § (3) bekezdése a 177/2023. (V. 12.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdését a 177/2023. (V. 12.) Korm. rendelet 4. § a) pontja hatályon kívül helyezte.
+[^3]: A 2. § (2) bekezdése a 177/2023. (V. 12.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § (3) bekezdése a 177/2023. (V. 12.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
