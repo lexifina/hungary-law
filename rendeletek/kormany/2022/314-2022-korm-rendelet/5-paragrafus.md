@@ -32,7 +32,7 @@ b) ha a hatályos településrendezési terv, településképi rendelet, egyéb 
 
 12. P+R rendszerű személygépkocsi-várakozóhelyet nem kell kialakítani,
 
-13. a parkolóhelyek kialakításánál az építmények és önálló rendeltetési egységek rendeltetésszerű használatához előírt – az OTÉK 4. számú melléklete szerint meghatározott számú – személygépkocsi-várakozóhely legalább 55%-ának elhelyezését kell biztosítani, azzal, hogy
+13.[^3] a parkolóhelyek kialakításánál az építmények és önálló rendeltetési egységek rendeltetésszerű használatához előírt – az OTÉK 4. számú melléklete szerint meghatározott számú – személygépkocsi-várakozóhely legalább 45%-ának elhelyezését kell biztosítani, azzal, hogy
 
 a) az OTÉK 42. § (11) bekezdése ezen követelmények érvényesítése esetében is alkalmazható,
 
@@ -58,7 +58,7 @@ elhelyezését kell biztosítani,
 
 20. közhasználat céljára szolgáló területet nem kell kialakítani,
 
-21. az épület legmagasabb pontja legfeljebb 39 méter lehet,
+21.[^4] az épület legmagasabb pontja legfeljebb 41 méter lehet,
 
 22. építési határvonalon túlnyúló épületrész kiugrása közterület fölé kinyúlhat, azzal, hogy
 
@@ -90,11 +90,19 @@ b) csak személygépjárművek számára létesített terepszint alatti parkoló
 
 32. a közterületek kapcsolatának a beruházással érintett telkeken keresztüli biztosítása nem kötelező, kivéve gyalogos átjárást, legkésőbb az utolsó ütemben megvalósuló épület használatbavételi engedélyének véglegessé válásakor,
 
-33. új épület létesítése esetén a lapostető felületének 15%-át zöldtetőként kell kialakítani,
+33.[^5] új épület létesítése esetén a lapostető felületét nem kell zöldtetőként kialakítani,
 
-34. az egyes építési telkekre vonatkozóan az épület legmagasabb pontja az adott telekre vonatkozóan az épületmagasság megengedett legnagyobb mértékét maximum 8 méterrel haladhatja meg.
+34.[^6] az egyes építési telkekre vonatkozóan az épület legmagasabb pontja az adott telekre vonatkozóan az épületmagasság megengedett legnagyobb mértékét maximum 10 méterrel haladhatja meg.
 
-35.[^1] a beruházással érintett ingatlanok gépjárművel történő közvetlen megközelítésére szolgáló közterületeket a használatbavételi engedély iránti kérelem benyújtásáig kialakítható gépjármű-közlekedésre alkalmassá kell tenni.
+35.[^7] a Beruházással érintett ingatlanok gépjárművel történő közvetlen megközelítésére szolgáló közterületeket a használatbavételi engedély iránti kérelem benyújtásáig kialakítható gépjármű-közlekedésre alkalmassá kell tenni.
+
+36.[^8] a Beruházással érintett ingatlanokon belül és azokon keresztül közterületek, telkek kapcsolatát és azok megközelítését nem kell kötelezően biztosítani, terepszint alatt beépíthető területet a közterületek mentén nem kötelező közhasználat céljára átadni, a telkek közterületi határvonala mentén a közterületek kialakításához szükséges mértékben közforgalom elől el nem zárt magánút területi korlátozás nélkül létesíthető,
+
+37.[^9] a Beruházás bármely építési telkén létesíthető terepszint alatt megvalósításra kerülő önálló közműépítmény és közműcsatlakozást szolgáló építmény (transzformátor, záportározó, hőszivattyú, termálkút stb.), ezek területét a terepszint alatti beépítés mértékébe nem kell beszámítani,
+
+38.[^10] az épületekre és egyéb létesítményekre vonatkozó építési engedély kiadásának nem feltétele, hogy a közterülettel határos érintett telek vagy magánút kiépített közúti kapcsolattal rendelkezzen az engedély kiadásának időpontjában, így a Beruházással érintett ingatlanokon az utolsó építési ütemben megvalósuló épület(ek) használatbavételi engedély megkérésének időpontjáig kell megvalósítani a Csömöri út teljes szélességben közútként történő kiépítését és forgalomba helyezését a tervezett út és magánút csatlakozásokkal együtt a Budapest XIV. kerület belterület 31261 helyrajzi számú ingatlanon és a Budapest XIV. kerület belterület 31267/119 helyrajzi számú ingatlanon a fővárosi tervek szerint II. rendű főútként, az útépítési és forgalomtechnikai tervek alapján,
+
+39.[^11] a Beruházással érintett ingatlanok közterülettel határos szakaszain közhasználat céljára átadott, a közterületek kiépítéséhez szükséges közlekedési felület, gyalogos és kerékpáros forgalom számára kiépített terület létesíthető.
 
 (4) A 3. mellékletben foglalt 1. táblázatban megjelölt földrészletre meghatározott sajátos beépítési szabályok és egyedi építési követelmények:
 
@@ -136,7 +144,7 @@ b) a terepszint alatti beépítés legnagyobb mértéke 95%,
 
 c) a parkolási szintterületi mutató megengedett legnagyobb értéke 3,5 m2/m2,
 
-d) az általános szintterületi mutató megengedett legnagyobb értéke 4,5 m2/m2,
+d)[^12] az általános szintterületi mutató megengedett legnagyobb értéke 5,0 m2/m2,
 
 e) a zöldfelület megengedett legkisebb mértéke 15%,
 
@@ -158,7 +166,7 @@ e) a zöldfelület megengedett legkisebb mértéke 20%,
 
 f) az épületmagasság megengedett legkisebb mértéke 7 méter,
 
-g) az épületmagasság megengedett legnagyobb mértéke 25 méter.
+g)[^13] az épületmagasság megengedett legnagyobb mértéke 27 méter
 
 (8) A 3. mellékletben foglalt 5. táblázatban megjelölt földrészletre meghatározott sajátos beépítési szabályok és egyedi építési követelmények:
 
@@ -174,7 +182,7 @@ e) a zöldfelület megengedett legkisebb mértéke 20%,
 
 f) az épületmagasság megengedett legkisebb mértéke 7 méter,
 
-g) az épületmagasság megengedett legnagyobb mértéke 25 méter.
+g)[^14] az épületmagasság megengedett legnagyobb mértéke 27 méter
 
 (9) A 3. mellékletben foglalt 6. táblázatban megjelölt földrészletre meghatározott sajátos beépítési szabályok és egyedi építési követelmények:
 
@@ -184,7 +192,7 @@ b) a terepszint alatti beépítés legnagyobb mértéke 95%,
 
 c) a parkolási szintterületi mutató megengedett legnagyobb értéke 3,5 m2/m2,
 
-d) az általános szintterületi mutató megengedett legnagyobb értéke 4,5 m2/m2,
+d)[^15] az általános szintterületi mutató megengedett legnagyobb értéke 5,0 m2/m2,
 
 e) a zöldfelület megengedett legkisebb mértéke 15%,
 
@@ -200,7 +208,7 @@ b) a terepszint alatti beépítés legnagyobb mértéke 85%,
 
 c) a parkolási szintterületi mutató megengedett legnagyobb értéke 3 m2/m2,
 
-d) az általános szintterületi mutató megengedett legnagyobb értéke 4,5 m2/m2,
+d)[^16] az általános szintterületi mutató megengedett legnagyobb értéke 5,0 m2/m2,
 
 e) a zöldfelület megengedett legkisebb mértéke 25%,
 
@@ -222,7 +230,7 @@ e) a zöldfelület megengedett legkisebb mértéke 25%,
 
 f) az épületmagasság megengedett legkisebb mértéke 2 méter,
 
-g) az épületmagasság megengedett legnagyobb mértéke 21 méter.
+g)[^17] az épületmagasság megengedett legnagyobb mértéke 27 méter.
 
 (12) A Budapest XIV. kerület, belterület 31267/132, 31267/133, 31267/134 és 31267/135 helyrajzi számú telkek területén a magánutak területi lehatárolását a 3. mellékletben foglalt 9–11. táblázat tartalmazza.
 
@@ -292,4 +300,18 @@ a) a 2. melléklet B:2 mezőjében megjelölt telkeken, illetve az azokból tele
 
 b) amennyiben a fás szárú növény pótlása az ingatlan adottsága miatt nem, vagy csak részben teljesíthető, a pótlást a Budapest Főváros Kormányhivatala által kijelölt, Budapest ugyanazon kerületében elhelyezkedő másik ingatlanon kell teljesíteni.
 
-[^1]: Az 5. § (3) bekezdés 35. pontját a 612/2022. (XII. 28.) Korm. rendelet 1. §-a iktatta be.
+[^3]: Az 5. § (3) bekezdés 13. pont nyitó szövegrésze a 429/2023. (IX. 14.) Korm. rendelet 18. § c) pontja szerint módosított szöveg.
+[^4]: Az 5. § (3) bekezdés 21. pontja a 429/2023. (IX. 14.) Korm. rendelet 18. § d) pontja szerint módosított szöveg.
+[^5]: Az 5. § (3) bekezdés 33. pontja a 429/2023. (IX. 14.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^6]: Az 5. § (3) bekezdés 34. pontja a 429/2023. (IX. 14.) Korm. rendelet 18. § e) pontja szerint módosított szöveg.
+[^7]: Az 5. § (3) bekezdés 35. pontját a 612/2022. (XII. 28.) Korm. rendelet 1. §-a iktatta be, szövege a 429/2023. (IX. 14.) Korm. rendelet 18. § f) pontja szerint módosított szöveg.
+[^8]: Az 5. § (3) bekezdés 36. pontját a 429/2023. (IX. 14.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^9]: Az 5. § (3) bekezdés 37. pontját a 429/2023. (IX. 14.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^10]: Az 5. § (3) bekezdés 38. pontját a 429/2023. (IX. 14.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^11]: Az 5. § (3) bekezdés 39. pontját a 429/2023. (IX. 14.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^12]: Az 5. § (6) bekezdés d) pontja a 429/2023. (IX. 14.) Korm. rendelet 18. § g) pontja szerint módosított szöveg.
+[^13]: Az 5. § (7) bekezdés g) pontja a 429/2023. (IX. 14.) Korm. rendelet 18. § h) pontja szerint módosított szöveg.
+[^14]: Az 5. § (8) bekezdés g) pontja a 429/2023. (IX. 14.) Korm. rendelet 18. § h) pontja szerint módosított szöveg.
+[^15]: Az 5. § (9) bekezdés d) pontja a 429/2023. (IX. 14.) Korm. rendelet 18. § g) pontja szerint módosított szöveg.
+[^16]: Az 5. § (10) bekezdés d) pontja a 429/2023. (IX. 14.) Korm. rendelet 18. § g) pontja szerint módosított szöveg.
+[^17]: Az 5. § (11) bekezdés g) pontja a 429/2023. (IX. 14.) Korm. rendelet 18. § i) pontja szerint módosított szöveg.

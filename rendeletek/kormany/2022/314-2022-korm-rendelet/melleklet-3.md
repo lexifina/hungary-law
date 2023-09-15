@@ -1,8 +1,8 @@
-|  | A | B | C |
+|  | A | B | C | D |
 
-| 1. | A Beruházás megnevezése | A Beruházás megvalósításának helyszíne | Koordinációra kijelölt főispán |
+| 1. | A Beruházás megnevezése | A Beruházás megvalósításának helyszíne | A Beruházás helyszínének közvetlen környezete | Koordinációra kijelölt főispán |
 
-| 2. | Komplex ingatlanfejlesztésre, illetve az ahhoz kapcsolódó építmények, infrastrukturális fejlesztések megvalósítására irányuló beruházás Budapest XIV. kerületében | Budapest közigazgatási területén elhelyezkedő, természetben a Budapest XIV. kerület, Csömöri út 13–19., Bosnyák utca 48–56., Bosnyák utca 54–56., Rákospatak utca 12–28., a Budapest XIV. kerület, belterület 31267/132, 31267/133, 31267/134 és 31267/135 helyrajzi számokon nyilvántartott földrészletek | Budapest Főváros Kormányhivatalát vezető főispán |
+| 2. | Komplex ingatlanfejlesztésre, illetve az ahhoz kapcsolódó építmények, infrastrukturális fejlesztések megvalósítására irányuló beruházás Budapest XIV. kerületében | Budapest közigazgatási területén elhelyezkedő, természetben a Budapest XIV. kerület belterület 31267/132, 31267/133, 31267/134 és 31267/135 helyrajzi számokon nyilvántartott ingatlanok | Budapest közigazgatási területén elhelyezkedő, természetben a Budapest XIV. kerület belterület 31261, 31267/119, 31268/45, 31268/55, 31267/120, 30874/6, 31269/200, 31265 helyrajzi számokon nyilvántartott ingatlanok | Budapest Főváros Kormányhivatalát vezető főispán |
 
 3. melléklet a 314/2022. (VIII. 11.) Korm. rendelethez
 

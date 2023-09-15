@@ -4,8 +4,11 @@
 
 a) a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
-b) a Beruházáshoz közvetlenül kapcsolódó útépítési, közműcsatlakozási és -fejlesztési munkákra vonatkoznak,
+b)[^1] a Beruházáshoz közvetlenül kapcsolódó, valamint a Beruházás helyszínének közvetlen környezetét érintő útépítési, közműcsatlakozási és -fejlesztési munkákra vonatkoznak,
 
 c) a 2. mellékletben a Beruházás megvalósításának helyszíneként megjelölt ingatlanokból telekalakítási eljárásban hozott, véglegessé vált döntés alapján kialakított ingatlanokat érintik.
 
-(3) A Kormány kiemelten közérdekű beruházássá nyilvánítja a Beruházást, amelynek helyszíne a 2. mellékletben meghatározott ingatlanok területe.
+(3)[^2] A Kormány kiemelten közérdekű beruházássá nyilvánítja a Beruházást, amelynek helyszíne és közvetlen környezete a 2. mellékletben meghatározott ingatlanok területe.
+
+[^1]: Az 1. § (2) bekezdés b) pontja a 429/2023. (IX. 14.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (3) bekezdése a 429/2023. (IX. 14.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
