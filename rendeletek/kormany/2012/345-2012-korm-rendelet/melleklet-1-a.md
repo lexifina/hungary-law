@@ -154,7 +154,7 @@
 
 ## 1.1.76. Az M9 gyorsforgalmi út, 51. számú főút és 54. számú főút közötti szakasz megvalósítása.
 
-## 1.1.77. Az M9 gyorsforgalmi út, 54. számú főút és 53. számú főút közötti szakasz megvalósítása.
+## 1.1.77. Az M9 gyorsforgalmi út, 51. számú főút és 53. számú főút közötti szakasz megvalósítása.
 
 ## 1.1.78. Az M44 gyorsforgalmi út, Kunszentmárton csomópont megvalósítása.
 
@@ -165,6 +165,12 @@
 ## 1.1.81. Az M0 autóút 51+550–52+100 km szelvények között zajárnyékoló fal építése.
 
 ## 1.1.82. Az M3 autópálya új csomóponti kapcsolatok kialakítása Görbeháza és Hajdúnánás elérhetőségének biztosítása érdekében.
+
+## 1.1.83. Az M95 gyorsforgalmi út, M9 gyorsforgalmi út és Tompa, országhatár közötti szakasz megvalósítása.
+
+## 1.1.84. Az M44 gyorsforgalmi út Békéscsaba és Méhkerék, országhatár közötti szakasz megvalósítása.
+
+## 1.1.85. Kaposvár–Szigetvár gyorsforgalmi összeköttetése.
 
 ## 1.2. Főutak
 
@@ -348,7 +354,7 @@
 
 ## 1.2.90. A Szolnoki új tehermentesítő út előkészítése (új Tisza-híddal és Szandaszőlős elkerülővel).
 
-## 1.2.91. A 481. számú főút megvalósítása.
+## 1.2.91. A 481. számú főút fejlesztése.
 
 ## 1.2.92. A 6. számú főút Paks és az 512. számú főút közötti szakasz négynyomúsítása.
 
@@ -463,6 +469,38 @@
 ## 1.2.147. Kiskunlacháza északi elkerülő út megvalósítása.
 
 ## 1.2.148. Debrecen keleti elkerülő út megvalósítása.
+
+## 1.2.149. Tompa, új határátkelőhely fejlesztése.
+
+## 1.2.150. Hercegszántó, határátkelőhely fejlesztése.
+
+## 1.2.151. A 35. számú főút Debrecen-Józsa és 354. számú főút közötti szakasz fejlesztése.
+
+## 1.2.152. Debrecen-Józsa északi tehermentesítő út megvalósítása (az M35 autópálya és a 35. számú főút között).
+
+## 1.2.153. A 47. számú főút 4. számú főút és 481. számú főút közötti szakasz fejlesztése.
+
+## 1.2.154. A 47. számú főút Békéscsaba és Berettyóújfalu közötti szakasz fejlesztése.
+
+## 1.2.155. Pápa, keleti elkerülő út megvalósítása.
+
+## 1.2.156. Kaposvár dél-keleti iparterület megközelítését szolgáló úthálózat fejlesztése.
+
+## 1.2.157. Bük és az M87 gyorsforgalmi út közötti úthálózat fejlesztése.
+
+## 1.2.158. Békéscsaba, déli elkerülő út megvalósítása.
+
+## 1.2.159. Pécs, Kelet–Nyugat feltáró út megvalósítása.
+
+## 1.2.160. Komárom, dél-keleti elkerülő út megvalósítása.
+
+## 1.2.161. Sárvár, dél-nyugati elkerülő út megvalósítása.
+
+## 1.2.162. Nyíregyháza, déli iparterület megközelítését szolgáló úthálózat fejlesztése.
+
+## 1.2.163. Kecskemét, déli iparterület megközelítését szolgáló úthálózat fejlesztése.
+
+## 1.2.164. Zalaegerszeg, északi iparterület megközelítését szolgáló úthálózat fejlesztése.
 
 ## 1.3. Mellékutak
 
@@ -738,6 +776,10 @@
 
 ## 1.3.136. 1133. jelű út felújítása és Piliscsaba nyugati (1133 jelű út – 10. számú főút között) elkerülő út megvalósítása.
 
+## 1.3.137. Mihályfa, elkerülő út megvalósítása.
+
+## 1.3.138. Tormásliget, elkerülő út megvalósítása.
+
 ## 1.4. Csomóponti és közlekedésbiztonsági beavatkozások
 
 ## 1.4.1. Körforgalmú csomópont kiépítése az 1. számú főút és a 8101. jelű út keresztezésében.
@@ -948,6 +990,8 @@
 
 ## 1.4.104. Gyula, 44. számú főút – 4431. jelű úti csomópont átépítése.
 
+## 1.4.105. Debrecen, Füredi út – Böszörményi úti csomópont fejlesztése.
+
 ## 1.5. Hidak
 
 ## 1.5.1. A kisunyomi Sorok-patak-híd fejlesztése.
@@ -1003,6 +1047,8 @@
 ## 1.5.26. Göd, új felüljáró megvalósítása az M2 autóút felett.
 
 ## 1.5.27. Olcsva–Olcsvaapáti között új Szamos-híd megvalósítása.
+
+## 1.5.28. A 47. számú főút algyői Tisza-híd fejlesztése.
 
 ## 1.6. Határátkelőhelyek közúti akadálymentesítése
 
@@ -1072,7 +1118,7 @@
 
 ## 1.7.18. Az M0 Észak projektekhez kapcsolódóan Solymár készenléti telep megvalósítása.
 
-## 1.7.19. Az M0 gyorsforgalmi út M5 autópálya csomópontjának, valamint az M5 autópálya Alsónémedi, Gyál csomópontjának fejlesztése és az M0 gyorsforgalmi úton a 28–29 km szelvény környezetében új csomópont létesítése.
+## 1.7.19. Az M0 gyorsforgalmi út M5 autópálya csomópontjának, valamint az M5 autópálya Alsónémedi, Gyál csomópontjának fejlesztése, az M5 autópálya – M0 autóút – M51 autóút által határolt fejlesztési területet feltáró új helyi, magán és országos mellékutak létesítése és a meglévő utak fejlesztése (Gyálon a Gorcsev Iván utca meghosszabbítása Budapest XXIII. kerület határáig), valamint az M0 autóúton és az M51 autóúton az 5. számú főút és az M5 autópálya csomópontjai között új csomópontok létesítése.
 
 ## 1.8. Kerékpárutak
 
@@ -2052,6 +2098,12 @@
 
 ## 3.4.19. A Zsámbéki-medence autóbuszos közlekedésének fejlesztése.
 
+## 3.4.20. Kelebia, komplex különszintű átvezetés.
+
+## 3.4.21. Tompa településen parkolók kialakítása.
+
+## 3.4.22. Soltvadkert, buszforduló kialakítása.
+
 ## 4. Országos vízi közlekedési projektek
 
 ## 4.1. Győr–Gönyű Országos Közforgalmú Kikötő fejlesztése.
@@ -2098,6 +2150,6 @@
 
 ## 5.6. Békéscsabai repülőtér kifutópályájának meghosszabbítása.
 
-1/a. melléklet a 345/2012. (XII. 6.) Korm. rendelethez[^65]
+1/a. melléklet a 345/2012. (XII. 6.) Korm. rendelethez[^67]
 
-[^65]: Az 1/a. mellékletet a 226/2015. (VIII. 7.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 236/2020. (V. 26.) Korm. rendelet 9. § b) pontja.
+[^67]: Az 1/a. mellékletet a 226/2015. (VIII. 7.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 236/2020. (V. 26.) Korm. rendelet 9. § b) pontja.

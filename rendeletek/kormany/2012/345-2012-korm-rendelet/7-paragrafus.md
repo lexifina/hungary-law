@@ -64,6 +64,8 @@ c) a hatóságnak és a szakhatóságnak a hiánypótlásra az adott ügyfajtár
 
 (20)[^61] E rendeletnek az egyes kormányrendeleteknek a Mohács 500 program keretében megvalósuló fejlesztésekkel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításával összefüggő módosításáról szóló 198/2023. (V. 22.) Korm. rendelettel (a továbbiakban: Módr12.) megállapított 1. melléklet 1.8.275. pontját a Módr12. hatálybalépésekor[^62] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
+(21)[^63] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 429/2023. (IX. 14.) Korm. rendelettel (a továbbiakban: Módr13.) megállapított 1. § (6) és (8) bekezdését, valamint 1. mellékletét a Módr13. hatálybalépésekor[^64] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
 [^23]: A 7. § (2) bekezdés d) pontját a 441/2015. (XII. 28.) Korm. rendelet 185. § a) pontja hatályon kívül helyezte.
 [^24]: A 7. § (3) bekezdését a 376/2013. (X. 25.) Korm. rendelet 2. §-a iktatta be.
 [^25]: A hatálybalépés időpontja 2013. október 26.
@@ -104,3 +106,5 @@ c) a hatóságnak és a szakhatóságnak a hiánypótlásra az adott ügyfajtár
 [^60]: A hatálybalépés időpontja 2022. március 5.
 [^61]: A 7. § (20) bekezdését a 198/2023. (V. 22.) Korm. rendelet 1. §-a iktatta be.
 [^62]: A hatálybalépés időpontja 2023. május 23.
+[^63]: A 7. § (21) bekezdését a 429/2023. (IX. 14.) Korm. rendelet 1. §-a iktatta be.
+[^64]: A hatálybalépés időpontja 2023. szeptember 15.
