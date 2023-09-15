@@ -134,20 +134,4 @@ Az általános rendőrségi feladatok ellátására létrehozott szervnél, a be
 
 2.3. Az alapbeosztásnak nem minősülő tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások képesítési követelményei
 
-|  | A | B | C | D | E |
-
-| 1. | BESOROLÁS | ISKOLAI VÉGZETTSÉG | RENDÉSZETI SZAKKÉPZETTSÉG VAGY SZAKKÉPESÍTÉS | EGYÉB SZAKKÉPZETTSÉG VAGY SZAKKÉPESÍTÉS | EGYÉB RENDÉSZETI KÉPESÍTÉSI KÖVETELMÉNY |
-
-| 2. | E | érettségi végzettség | rendőr tiszthelyettes szakképzettség | beosztásnak megfelelő szakképesítés | nem szükséges |
-
-| 3. | D | érettségi végzettség | rendőr tiszthelyettes szakképzettség | beosztásnak megfelelő szakképesítés | nem szükséges |
-
-| 4. | C | érettségi végzettség | rendőr tiszthelyettes szakképzettség, közbiztonsági rendőrjárőr szakképesítés vagy határrendész és útlevélkezelő rendőrjárőr szakképesítés | beosztásnak megfelelő szakképesítés | nem szükséges |
-
-| 5. | B | érettségi végzettség | rendőr tiszthelyettes szakképzettség, közbiztonsági rendőrjárőr szakképesítés vagy határrendész és útlevélkezelő rendőrjárőr szakképesítés | beosztásnak megfelelő szakképesítés | nem szükséges |
-
-| 6. | A | érettségi végzettség | rendőr tiszthelyettes szakképzettség, közbiztonsági rendőrjárőr szakképesítés vagy határrendész és útlevélkezelő rendőrjárőr szakképesítés | beosztásnak megfelelő szakképesítés | nem szükséges |
-
-2.4. Magyarázat, rövidítések a 2.1–2.3. ponthoz
-
 [^39]: A 9. melléklet a 14/2021. (VI. 16.) BM rendelet 20. § (1) bekezdésével megállapított, a 45/2021. (XII. 16.) BM rendelet 6. §-a, a 4/2022. (III. 25.) BM rendelet 12. §-a, a 9/2022. (IV. 21.) BM rendelet 6. § b) pontja, a 2/2023. (I. 30.) BM rendelet 19. § i) pontja szerint módosított szöveg.

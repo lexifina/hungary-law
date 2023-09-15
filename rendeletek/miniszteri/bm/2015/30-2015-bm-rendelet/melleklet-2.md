@@ -36,7 +36,7 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 | 14. | irodavezető |  | 150-350 |
 
-| 15. | főosztályvezető- helyettes 2 | osztályvezető | 150-350 | 150-350 |
+| 15. | főosztályvezető- helyettes 2 | osztályvezető | 150–350 350–650* | 150-350 |
 
 1.2. Területi szervnél
 
@@ -92,6 +92,10 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 | 10. | őrsparancsnok (osztály jogállású) | 150-350 |  |
 
+1.4. Megjegyzés:
+
+1.4.1. 350–650*: Az Országos Rendőr-főkapitányság Bűnügyi Főigazgatóság Bűnügyi Főosztály Kiberstratégiai Osztály vezetője esetében a hivatásos pótlék mértéke 350–650%.”
+
 2. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 |  | A | B | C | D | E |
@@ -103,6 +107,8 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 | 3. | központi | E | ügyeletvezető | 400 |  |
 
 | 4. | kiemelt főreferens | 400 | 350 |
+
+| 4a | kiemelt főreferens (kiberbűnözési) | 650 |  |
 
 | 5. | osztályvezető-helyettes | 400 | 350 |
 
@@ -116,6 +122,8 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 | 10. | kiemelt főelőadó | 400 | 350 |
 
+| 10a | kiemelt főelőadó (kiberbűnözési) | 650 |  |
+
 | 11. | kiemelt főellenőr***** | 400 | 350 |
 
 | 12. | C | főnyomozó | 400 |  |
@@ -125,6 +133,8 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 | 14. | nyomozótiszt | 400 |  |
 
 | 15. | főelőadó | 400 | 350 |
+
+| 15a | főelőadó (kiberbűnözési) | 650 |  |
 
 | 16. | területi | E | ügyeletvezető | 350 |  |
 
@@ -158,6 +168,8 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 | 31. | kiemelt főnyomozó | 350 450**** |  |
 
+| 31a | kiemelt főnyomozó (kiberbűnözési) | 650 |  |
+
 | 32. | kiemelt főtechnikus | 350 | 300 |
 
 | 33. | kiemelt fővizsgáló | 350 |  |
@@ -178,6 +190,8 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 | 41. | főnyomozó | 350 450**** |  |
 
+| 41a | főnyomozó (kiberbűnözési) | 650 |  |
+
 | 42. | főrevizor |  | 300 |
 
 | 43. | főtechnikus | 350 | 300 |
@@ -193,6 +207,8 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 | 48. | mérnök |  | 300 |
 
 | 49. | nyomozótiszt | 350 |  |
+
+| 49a | nyomozótiszt (kiberbűnözési) | 650 |  |
 
 | 50. | technikustiszt | 350 | 300 |
 
@@ -282,6 +298,8 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 | 12. | nyomozó | 350 |  |
 
+| 12a | nyomozó (kiberbűnözési) | 650 |  |
+
 | 13. | szakoktató |  | 350 |
 
 | 14. | technikus | 350 375** 450** 475** | 300 |
@@ -318,6 +336,8 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 | 30. | bűnügyi referens | 350 |  |
 
+| 30a | bűnügyi referens (kiberbűnözési) | 650 |  |
+
 | 31. | B | fogdaőr | 350 |  |
 
 | 32. | B | határrendész | 350 375** 450** 475** 550* 575* |  |
@@ -331,6 +351,8 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 | 36. | kísérőőr | 350 |  |
 
 | 37. | bűnügyi segédelőadó | 350 |  |
+
+| 37a | bűnügyi segédelőadó (kiberbűnözési) | 650 |  |
 
 | 38. | A | objektumőr | 325* 350 |  |
 
@@ -800,7 +822,7 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 | 10. | beosztott vezető | főosztályvezető- helyettes 2 | főosztályvezető-helyettes | 150-350 | 150-350 |
 
-| 11. | osztályvezető 1 | osztályvezető | 150-350 | 150-350 |
+| 11. | osztályvezető 1 | osztályvezető | 150–350 350–650* | 150-350 |
 
 7.1.2. Helyi szervnél
 
@@ -832,7 +854,7 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 | 3. | területi | E | ügyeletvezető | 375 |  |
 
-| 4. | alosztályvezető | 375 450*** | 325 |
+| 4. | alosztályvezető | 375 450*** 650* | 325 |
 
 | 5. | osztályvezető-helyettes | 375 450*** | 325 |
 
@@ -850,7 +872,7 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 | 12. | kiemelt főelőadó | 375 | 325 |
 
-| 13. | kiemelt főnyomozó | 375 450*** |  |
+| 13. | kiemelt főnyomozó | 375 450*** 650* |  |
 
 | 14. | kiemelt főtechnikus | 375 | 325 |
 
@@ -862,7 +884,7 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 | 18. | főelőadó | 375 | 325 |
 
-| 19. | főnyomozó | 375 450*** |  |
+| 19. | főnyomozó | 375 450*** 650* |  |
 
 | 20. | főrevizor |  | 325 |
 
@@ -876,7 +898,7 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 | 25. | előadó I. | 375 | 325 |
 
-| 26. | nyomozótiszt | 375 450*** |  |
+| 26. | nyomozótiszt | 375 450*** 650* |  |
 
 | 27. | technikustiszt | 375 | 325 |
 
@@ -942,7 +964,7 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 | 7. | helyszínelő és balesetvizsgáló | 375 |  |
 
-| 8. | nyomozó | 375 450*** |  |
+| 8. | nyomozó | 375 450*** 650* |  |
 
 | 9. | szakoktató |  | 350 |
 
@@ -964,7 +986,7 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 | 18. | segédelőadó | 375 450*** | 325 |
 
-| 19. | bűnügyi referens | 375 |  |
+| 19. | bűnügyi referens | 375 650* |  |
 
 | 20. | B | fogdaőr | 375 |  |
 
@@ -974,7 +996,7 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 | 23. | kísérőőr | 375 |  |
 
-| 24. | bűnügyi segédelőadó | 375 450*** |  |
+| 24. | bűnügyi segédelőadó | 375 450*** 650* |  |
 
 | 25. | A | objektumőr | 350* 375 |  |
 
@@ -1049,6 +1071,10 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 7.4.4. 500**: A gondozásból adódó többletteher ellentételezése érdekében a szolgálati kutya kiképzésében részt vevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány esetében két vagy annál több kutya gondozása esetén a hivatásos pótlék mértéke 500%.
 
 7.4.5. ****: Az ellenőr/főellenőr/kiemelt főellenőr szolgálati beosztások esetében akkor jár az alapfeladatra vonatkozó magasabb mértékű hivatásos pótlék, ha a szolgálati beosztást bűnügyi, közbiztonsági vagy mobil ellenőrzési feladatok végrehajtására rendszeresítették.
+
+7.4.6. 350–650*: A Bűnügyi Szervek Gazdasági Bűnözés Elleni Főosztály Kiberbűnözés Elleni Osztály vezetője esetében a hivatásos pótlék mértéke 350–650%.
+
+7.4.7. 650*: A Bűnügyi Szervek Gazdasági Bűnözés Elleni Főosztály Kiberbűnözés Elleni Osztály állománya esetében a hivatásos pótlék mértéke 650%.
 
 8. A Nemzetközi Oktatási Központ szolgálati beosztásai
 
@@ -1160,4 +1186,4 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 9.2.5. kiemelt határrendészeti kirendeltségek: a Szegedi, a Kiszombori, a Nagylaki, a Kelebiai, a Hercegszántói, a Bácsbokodi, a Bácsalmási, a Záhonyi Határrendészeti Kirendeltség.
 
-[^31]: A 2. melléklet a 2/2023. (I. 30.) BM rendelet 19. § a) pontjával megállapított, az 5/2023. (II. 15.) BM rendelet 2. §-a szerint módosított szöveg.
+[^31]: A 2. melléklet a 2/2023. (I. 30.) BM rendelet 19. § a) pontjával megállapított, az 5/2023. (II. 15.) BM rendelet 2. §-a, a 38/2023. (IX. 14.) BM rendelet 1. § (1) bekezdése szerint módosított szöveg.
