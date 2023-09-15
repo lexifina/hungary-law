@@ -1,0 +1,3 @@
+19. § Az R4. a következő 9. §-sal egészül ki:
+
+„9. § E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 429/2023. (IX. 14.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 1. § (2) bekezdés b) pontját és (3) bekezdését, 5. § (3), (6), (7) és (11) bekezdését, 2. mellékletét a Módr2. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”

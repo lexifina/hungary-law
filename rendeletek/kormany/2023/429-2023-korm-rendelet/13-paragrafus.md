@@ -1,0 +1,3 @@
+13. § Az R3. a következő 66. §-sal egészül ki:
+
+„66. § E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 429/2023. (IX. 14.) Korm. rendelettel (a továbbiakban: Módr58.) megállapított 3. § (3) és (5) bekezdését, 7/ZS. §-át, 2. mellékletében foglalt táblázat 98. sorát a Módr58. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
