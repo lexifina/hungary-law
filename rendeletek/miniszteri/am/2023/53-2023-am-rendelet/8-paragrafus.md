@@ -1,0 +1,1 @@
+8. § Ez a rendelet a bulgáriai, magyarországi, lengyelországi, romániai és szlovákiai gabona- és olajosmag-ágazatnak nyújtandó szükséghelyzeti támogatási intézkedésről szóló, 2023. június 30-i (EU) 2023/1343 bizottsági végrehajtási rendelet hatálya alá tartozó támogatást tartalmaz.
