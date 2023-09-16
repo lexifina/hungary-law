@@ -1,7 +1,3 @@
-3. § Az R1. 1. §
+3. §[^4]
 
-a) (6) bekezdésében az „1.1.33., 1.1.66., 1.2.68., 1.2.77., 1.2.101., 1.3.134., 2.1.12., 2.1.34., 2.1.62., 2.1.113., 2.1.125–2.1.127., 3.2.7., 3.2.8., 3.2.10. és 3.2.17. pontjában” szövegrész helyébe az „1.1.33., 1.1.54., 1.1.66., 1.2.36., 1.2.68., 1.2.77., 1.2.101., 1.3.134., 2.1.12., 2.1.34., 2.1.62., 2.1.113., 2.1.125–2.1.127., 3.2.7., 3.2.8., 3.2.10. és 3.2.17. pontjában” szöveg,
-
-b) (8) bekezdésében a „2.1.90. pontjában meghatározott beruházás” szövegrész helyébe a „2.1.22. és 2.1.90. pontjában meghatározott beruházások” szöveg
-
-lép.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-10. § (1) Az R2. a 2. melléklet szerinti 10. melléklettel egészül ki.
+10. §[^11]
 
-(2) Az R2. 2. melléklete a 3. melléklet szerint módosul.
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
