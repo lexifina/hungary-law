@@ -1,3 +1,3 @@
-2. § A 13/2020. (V. 5.) BM rendelet 3. §-a a következő 17. ponttal egészül ki:
+2. §[^3]
 
-(E rendelet alkalmazásában)
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
