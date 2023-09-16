@@ -1,10 +1,9 @@
 6. § Hatályát veszti az Ukrajnából származó egyes mezőgazdasági termékek fuvarozásával kapcsolatos intézkedésekről szóló 130/2023. (IV. 18.) Korm. rendelet
 
-a)[^6]
+a) 2. § (3) bekezdésében az „1. §” szövegrész,
 
-b) 5. § (2) bekezdése,
+b)[^1]
 
-c)[^7]
+c) 8. §-a.
 
-[^6]: A 6. § a) pontja a 7. § (2) bekezdés alapján 2023. szeptember 16-án lép hatályba.
-[^7]: A 6. § c) pontja a 7. § (2) bekezdés alapján 2023. szeptember 16-án lép hatályba.
+[^1]: A 6. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

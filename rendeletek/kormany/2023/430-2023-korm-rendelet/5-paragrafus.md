@@ -1,3 +1,1 @@
-5. §[^5]
-
-[^5]: Az 5. § a 7. § (2) bekezdés alapján 2023. szeptember 16-án lép hatályba.
+5. § Az Ukrajnából származó egyes mezőgazdasági termékek fuvarozásával kapcsolatos intézkedésekről szóló 130/2023. (IV. 18.) Korm. rendelet 2. § (2) bekezdésében az „1. § (1) bekezdésének” szövegrész helyébe az „(1) bekezdés” szöveg lép.
