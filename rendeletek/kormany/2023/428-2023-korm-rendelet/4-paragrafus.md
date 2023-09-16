@@ -1,3 +1,3 @@
-4. § (1) A Korm. rendelet 5. számú melléklete helyébe az 1. melléklet lép.
+4. §[^5]
 
-(2) A Korm. rendelet a 2. melléklet szerinti 41. számú melléklettel egészül ki.
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
