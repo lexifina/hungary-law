@@ -1,0 +1,3 @@
+17. § (1) Annak a lepárlóüzemnek, amelyet a Kincstár krízislepárlási intézkedéssel kapcsolatban e rendelet hatálybalépését megelőzően már nyilvántartásba vett, legkésőbb a 2. § (6) bekezdése szerinti közleményben meghatározott időpontig be kell jelentenie a lepárlási vállalását.
+
+(2) A Nemzeti Élelmiszerlánc-biztonsági Hivatal az e rendelet hatálybalépését követő ötödik napig megküldi a Kincstár részére azon borászati üzemek listáját – a borászati üzem helyrajzi számának és a működési engedély számának feltüntetésével –, amelyeket az e rendelet hatálybalépésének napját megelőző három éven belül a borászati hatóság véglegessé vált határozatával véglegesen bezárt, vagy tevékenységét ideiglenesen felfüggesztette.

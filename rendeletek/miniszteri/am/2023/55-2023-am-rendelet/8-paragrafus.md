@@ -1,0 +1,1 @@
+8. § A támogatás összege az e rendelet szerint átvételi elismervénnyel igazoltan átvett, kifizetett és lepárolt borászatitermék-mennyiség és az 1. melléklet szerinti minimális nettó átvételi ár szorzata.
