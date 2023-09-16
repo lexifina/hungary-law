@@ -1,5 +1,5 @@
 ## 1. A bírósági ügyvitel szabályairól szóló 14/2002. (VIII. 1.) IM rendelet módosítása
 
-1. § A bírósági ügyvitel szabályairól szóló 14/2002. (VIII. 1.) IM rendelet 35. § (7) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(7) Polgári, gazdasági, munkaügyi és közigazgatási ügyben az A/2. jelzésű értesítés alkalmazandó. Amennyiben a bíróság megítélése szerint az iratot kizárólag a címzett saját kezéhez lehet kézbesíteni, az A/6. jelzésű értesítést kell használni. Minden ügycsoportban alkalmazható az A/7. és az A/7/2. jelzésű értesítés.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
