@@ -6,11 +6,11 @@
 
 ## c) a Projekt b) alpont szerinti többlettámogatás-igényének a Környezeti és Energiahatékonysági Operatív Program 5. prioritása rendelkezésre álló kerete terhére történő finanszírozásával.
 
-## 2. Az 1084/2016. (II. 29.) Korm. határozat 1. pont g) alpontjában a „344,47” szövegrész helyébe a „345,24” szöveg, az „50,07” szövegrész helyébe az „50,84” szöveg lép.
+## 2.[^1]
 
-## 3. Az 1084/2016. (II. 29.) Korm. határozat 1. melléklet 5. pontjában foglalt táblázat C:6 mezőjébena „129,91” szövegrész helyébe a „130,68” szöveg lép.
+## 3.[^2]
 
-## 4. Az 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat D:573at. mezőjében az „1,50” szövegrész helyébe a „2,27” szöveg lép.
+## 4.[^3]
 
 ## 5. Ez a határozat a közzétételét követő napon lép hatályba.
 
@@ -23,3 +23,7 @@
 | 2. | KEHOP (bruttó forint) | Az Európai Unió felé nem elszámolható költség (bruttó forint) | KEHOP (bruttó forint) | Az Európai Unió felé nem elszámolható költség (bruttó forint) | Projekt összköltsége (bruttó forint) | KEHOP (bruttó forint) | Az Európai Unió felé nem elszámolható költség (bruttó forint) |
 
 | 3. | KEHOP-5.2.2-16-2023-00168 | A Soproni Egyetem épület-gépészeti rendszereinek biomassza hőtermelés alapú ellátásának kiépítése | Soproni Egyetem | 1 500 000 000 | 0 | 1 500 000 000 | 765 696 638 | 0 | 765 696 638 | 2 265 696 638 | 0 | 2 265 696 638 | A Projektre vonatkozó támogatási szerződés 2023. 05. 10-én lépett hatályba, ennek keretébennégy projekthelyszínen kerül sora Soproni Egyetem létesítményeinek épületgépészeti korszerűsítésére. A 4 épületegyüttest ellátó 3 hőtermelő központ korszerűsítését valósítják meg, a beépíteni tervezett biomasszakazánok összteljesítménye 3250 kW. |
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
