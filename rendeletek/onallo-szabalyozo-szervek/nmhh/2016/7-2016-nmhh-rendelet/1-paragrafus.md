@@ -5,3 +5,5 @@
 a) az elektronikus hírközlési szolgáltatókra, valamint
 
 b) a postai szolgáltatókra
+
+terjed ki.
