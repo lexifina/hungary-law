@@ -1,1 +1,3 @@
-5. § Az Ukrajnából származó egyes mezőgazdasági termékek fuvarozásával kapcsolatos intézkedésekről szóló 130/2023. (IV. 18.) Korm. rendelet 2. § (2) bekezdésében az „1. § (1) bekezdésének” szövegrész helyébe az „(1) bekezdés” szöveg lép.
+5. §[^6]
+
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

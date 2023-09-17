@@ -1,3 +1,3 @@
-3. § Az Ukrajnából származó egyes mezőgazdasági termékek fuvarozásával kapcsolatos intézkedésekről szóló 130/2023. (IV. 18.) Korm. rendelet 3. § (1) bekezdése helyébe a következő rendelkezés lép:
+3. §[^4]
 
-„(1) Az Elektronikus Közúti Áruforgalom Ellenőrző Rendszer működéséről szóló 13/2020. (XII. 23.) PM rendelet [a továbbiakban: 13/2020. (XII. 23.) PM rendelet] szerinti bejelentési kötelezettség fennáll az Elektronikus Közúti Áruforgalom Ellenőrző Rendszer működésével összefüggésben a kockázatos termékek meghatározásáról szóló 51/2014. (XII. 31.) NGM rendeletben felsorolt termékeken kívül az 1. mellékletben foglalt táblázat 10–13., 18. és 19. sorában meghatározott, Magyarország területére behozni szándékozott termékekre (vetőmag kivételével) vonatkozóan is, a 13/2020. (XII. 23.) PM rendeletben foglaltak szerint.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

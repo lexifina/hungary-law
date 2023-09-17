@@ -1,3 +1,3 @@
-1. § Az Ukrajnából származó egyes mezőgazdasági termékek fuvarozásával kapcsolatos intézkedésekről szóló 130/2023. (IV. 18.) Korm. rendelet 1. § (1) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(1) Az Ukrajna területén fennálló fegyveres konfliktusra, illetve humanitárius katasztrófára tekintettel, valamint ezek magyarországi következményeinek az elhárítása és kezelése érdekében veszélyhelyzet kihirdetéséről és egyes veszélyhelyzeti szabályokról szóló 424/2022. (X. 28.) Korm. rendelet szerinti veszélyhelyzet ideje alatt az 1. mellékletben meghatározott termék (a továbbiakban: érzékeny termék) – a 2. §-ban foglalt tranzitszállítások kivételével – nem hozható be Magyarország területére, amennyiben az Ukrajna területéről származik. A Magyarország területén átmeneti megőrzésben lévő, Ukrajna területéről származó érzékeny termék nem vonható szabad forgalomba bocsátás, vámraktározási, vámszabad területi vagy aktív feldolgozási eljárás alá.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
