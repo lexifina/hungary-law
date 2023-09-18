@@ -1,0 +1,1 @@
+59. § Ha a jogorvoslati kérelem elbírálása során a miniszter megállapítja, hogy a jogorvoslati kérelemmel érintett döntés alapját képező döntés jogszabálysértő, akkor a 35. § (1) bekezdése szerinti eljárás lefolytatására hívja fel a támogatót.

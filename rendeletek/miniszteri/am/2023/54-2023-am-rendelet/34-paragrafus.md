@@ -1,0 +1,3 @@
+34. § (1) A miniszter a Közös Agrárpolitika és a nemzeti költségvetésből biztosított agrártámogatások végrehajtásának szervezetéről és intézményeiről szóló 601/2022. (XII. 28.) Korm. rendelet (a továbbiakban: Korm. r.) 2. § (1) bekezdés e) pontjában, (2) bekezdés c) pontjában és (3) bekezdés a) pontjában meghatározott feladatkörében kezdeményezheti a döntés felülvizsgálatát.
+
+(2) Az (1) bekezdés szerinti felülvizsgálatra a Nemzeti Irányító Hatóság és a Nemzeti Kifizető Ügynökség részvételével kerül sor, amelybe a miniszter bevonhatja a Korm. r. 10. §-a szerinti együttműködő szervezetet. A felülvizsgálat a döntés módosítására vagy visszavonására irányulhat.

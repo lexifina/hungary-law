@@ -1,0 +1,9 @@
+# 54/2023. (IX. 13.) AM rendelet
+
+a Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások felhasználásának rendjéről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-54-20-7R
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2023-09-18 | 2023-54-20-7R.1 | 54/2023. (IX. 13.) AM rendelet |

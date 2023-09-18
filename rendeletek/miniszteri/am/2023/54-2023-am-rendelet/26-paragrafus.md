@@ -1,0 +1,1 @@
+26. § Ha a kedvezményezett a hiánypótlást nem, hibásan, hiányosan vagy határidőn túl teljesíti, a támogató a rendelkezésre álló adatok alapján dönt, vagy – ha a rendelkezésre álló adatok nem elégségesek – megszünteti az eljárást.

@@ -1,0 +1,3 @@
+44. § (1) A helyszíni vizsgálatra kiválasztott kérelmek esetében a kiválasztási alapráta öt százalék, amelyet a kiválasztási alapsokaság természetétől függően a kérelmek darabszámára, összegére, területnagyságra vagy állatlétszámra kell alkalmazni. A kiválasztási rátát növelni kell jelentős meg nem felelés esetén. A kiválasztási ráta csökkenthető, ha két egymást követő évben jelentős meg nem felelés nem kerül megállapításra.
+
+(2) Jogszabály eltérő rendelkezése hiányában a helyszíni vizsgálatba vonható mintát a kedvezményezettek teljes köréből kell kiválasztani, és annak adott esetben egy véletlenszerűen kiválasztott részből, valamint egy kockázatelemzés alapján kiválasztott részből kell állnia.
