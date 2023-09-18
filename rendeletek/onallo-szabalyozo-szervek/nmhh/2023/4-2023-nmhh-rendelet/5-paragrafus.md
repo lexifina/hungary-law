@@ -1,3 +1,3 @@
-5. § (1) Az R2. 1. melléklete helyébe az 1. melléklet lép.
+5. §[^5]
 
-(2) Az R2. 2. melléklete helyébe a 2. melléklet lép.
+[^5]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
