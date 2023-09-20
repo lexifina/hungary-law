@@ -42,8 +42,10 @@ Dr. Szabó Marcel alkotmánybíró.
 
 3. A tanácsvezetők megbízatása 2024. szeptember 30-ig tart.
 
-4. Ez a határozat a közzététele napján lép hatályba, ezzel egyidejűleg hatályát veszti az Alkotmánybíróság öttagú állandó tanácsainak számáról, összetételéről és a tanácsvezetők személyéről szóló 1005/2020. (IX. 22.) AB Tü. határozat, valamint az ennek módosításáról szóló 1004/2021. (VI. 30.) AB Tü. határozat és 1002/2022. (IX. 22.) AB Tü. határozat.
+4.[^1] Ez a határozat a közzététele napján lép hatályba,
 
 5. Az Alkotmánybíróság e határozatát a jogalkotásról szóló 2010. évi CXXX. törvény 26. § (2) bekezdése alapján a Magyar Közlönyben közzé kell tenni.
 
 Alkotmánybírósági ügyszám: XVIII/1886/2023.
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
