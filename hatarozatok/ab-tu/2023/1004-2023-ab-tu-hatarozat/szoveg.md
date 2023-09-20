@@ -8,8 +8,10 @@ Dr. Hörcherné dr. Marosi Ildikó alkotmánybíró,
 
 Dr. Juhász Miklós alkotmánybíró.
 
-2. Ez a határozat a közzététele napján lép hatályba, ezzel egyidejűleg hatályát veszti az Alkotmánybíróság háromtagú tanácsának összetételéről és a tanácsvezető személyéről szóló 1008/2020. (XII. 2.) AB Tü. határozat.
+2.[^2] Ez a határozat a közzététele napján lép hatályba,
 
 3. Az Alkotmánybíróság e határozatát a jogalkotásról szóló 2010. évi CXXX. törvény 26. § (2) bekezdése alapján a Magyar Közlönyben közzé kell tenni.
 
 Alkotmánybírósági ügyszám: XVIII/1890/2023.
+
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
