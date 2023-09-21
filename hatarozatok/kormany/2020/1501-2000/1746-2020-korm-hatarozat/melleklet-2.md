@@ -76,7 +76,7 @@
 
 | 38. | Nagykáta Város Önkormányzata kötelező feladatainak támogatása | 195 000 000 | temető felújítása, új ravatalozó építése |
 
-| 39. | Nagykáta Város Önkormányzata szociális feladatainak támogatása | 700 000 000 | bentlakásos idősek otthona kialakítása |
+| 39. | Nagykáta Város Önkormányzata szociális feladatainak támogatása | 700 000 000 | bentlakásos idősotthon kialakítás előkészítésének és megvalósításának támogatása |
 
 | 40. | Nagyvenyim Község Önkormányzata csapadékvíz-elvezetési feladatainak támogatása | 200 000 000 | csapadékvíz-elvezető rendszer fejlesztése |
 
