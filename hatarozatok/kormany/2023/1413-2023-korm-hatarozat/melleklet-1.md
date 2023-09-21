@@ -1,0 +1,19 @@
+## 1. a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet [a továbbiakban: 272/2014. (XI. 5.) Korm. rendelet] 4. § (1) bekezdés f) pontjában meghatározott feladatkörében eljárva egyetért
+
+## a) az 1. és 2. mellékletben felsorolt projektek (a továbbiakban együtt: Projektek) összköltségének növelésével és forrásszerkezetének módosításával,
+
+## b) az 1. mellékletben foglalt táblázat F oszlopa és a 2. mellékletben foglalt táblázat I oszlopa szerinti többlettámogatásnak a Terület- és Településfejlesztési Operatív Program 1–7. prioritása rendelkezésre álló kerete terhére történő finanszírozásával;
+
+## 2. egyetért azzal, hogy a 2. mellékletben foglalt táblázat J oszlopában meghatározott, összesen 37 236 160 forint összegű európai uniós forrás terhére el nem számolható költség – az Uniós fejlesztések fejezetbe tartozó fejezeti és központi kezelésű előirányzatok felhasználásának rendjéről szóló 590/2022. (XII. 28.) Korm. rendelet [a továbbiakban: 590/2022. (XII. 28.) Korm. rendelet] 9. § (1) bekezdés f) pontja alapján – a Magyarország központi költségvetéséről szóló törvényben meghatározott XIX. Uniós fejlesztések fejezet Terület- és Településfejlesztési Operatív Program előirányzatának hazai társfinanszírozáson felüli felhasználásával kerüljön finanszírozásra;
+
+## 3. a 272/2014. (XI. 5.) Korm. rendelet 5. melléklet 3.12.6. pontja alapján hozzájárul a 3. mellékletben foglalt táblázat 2. sorában bemutatott projekt tekintetében az ingatlanvásárlás költségtípusra történő – a 272/2014. (XI. 5.) Korm. rendelet 5. melléklet 3.3.6.4. pontja szerinti mértéket meghaladó mértékű – átcsoportosításhoz, legfeljebb 11,5%-ig;
+
+## 4. a 2021–2027 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 256/2021. (V. 18.) Korm. rendelet [a továbbiakban: 256/2021. (V. 18.) Korm. rendelet] 236. § (2) bekezdése alapján hozzájárul a 3. melléklet 3. sorában bemutatott projekt tekintetében az ingatlanvásárlás költségtípusra történő – a 256/2021. (V. 18.) Korm. rendelet 235. § (1) bekezdés c) pontja szerinti mértéket meghaladó mértékű – átcsoportosításhoz;
+
+## 5. felhívja a területfejlesztési minisztert, hogy gondoskodjon a Projektek támogatási szerződéseinek 1–5. pontban foglaltak szerinti módosításáról.
+
+| Felelős: | területfejlesztési miniszter |
+
+| Határidő: | az e határozat közzétételét követő 60 napon belül |
+
+1. melléklet az 1413/2023. (IX. 21.) Korm. határozathoz
