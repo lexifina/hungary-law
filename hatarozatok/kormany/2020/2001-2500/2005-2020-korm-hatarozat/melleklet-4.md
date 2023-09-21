@@ -42,4 +42,4 @@
 
 4. melléklet a 2005/2020. (XII. 24.) Korm. határozathoz[^18]
 
-[^18]: A 4. melléklet az 1079/2021. (II. 27.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^18]: A 4. melléklet az 1079/2021. (II. 27.) Korm. határozat 2. pontja, az 1408/2023. (IX. 21.) Korm. határozat 2. pontja szerint módosított szöveg.

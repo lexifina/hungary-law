@@ -4,7 +4,7 @@
 
 | 2. | Levelek Nagyközség Önkormányzata óvoda beruházásának támogatása | 55 732 927 | óvoda építésének támogatása |
 
-| 3. | Kemecse Város Önkormányzata mentőállomás építésének támogatása | 750 000 000 | mentőállomás építésének támogatása |
+| 3. | Kemecse Város Önkormányzata mentőállomás építésének támogatása | 750 000 000 | mentőállomás-építés előkészítésének és megvalósításának támogatása |
 
 | 4. | Kemecse Város Önkormányzata kötelező feladatainak támogatása | 69 000 000 | kötelező feladatok támogatása |
 
