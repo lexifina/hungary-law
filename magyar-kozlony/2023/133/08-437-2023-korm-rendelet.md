@@ -1,0 +1,45 @@
+# A Kormány 437/2023. (IX. 21.) Korm. rendelete
+
+Magyar Közlöny 2023. évi 133. szám, 2023. szeptember 21. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/Vh8i9ETqpX7rc4CksGLr650208f6a3a83/dokumentumok/56fde1ca0e5700191337d1b201a42ad70b297c12/letoltes)
+
+---
+
+A Kormány 437/2023. (IX. 21.) Korm. rendelete
+a felszámolási eljárás során a telekalakítás veszélyhelyzeti szabályairól
+A Kormány az Alaptörvény 53. cikk (1) bekezdésében meghatározott eredeti jogalkotói hatáskörében, figyelemmel a védelmi
+és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 80. és 81. §-ára, az Alaptörvény 15. cikk
+(1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvényt, az épített környezet alakításáról
+és védelméről szóló 1997. évi LXXVIII. törvényt (a továbbiakban: Étv.), az erdőről, az erdő védelméről és
+az erdőgazdálkodásról szóló 2009. évi XXXVII. törvényt (a továbbiakban: Evt.), az egyes földügyi eljárások
+részletes szabályairól szóló 384/2016. (XII. 2.) Korm. rendeletet (a továbbiakban: Korm. rendelet), a csődeljárásról
+és a felszámolási eljárásról szóló 1991. évi XLIX. törvény, valamint a cégnyilvánosságról, a bírósági cégeljárásról
+és a végelszámolásról szóló 2006. évi V. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló
+521/2022. (XII. 13.) Korm. rendeletet (a továbbiakban: R.) és a többségi befolyás alatt álló gazdálkodó szervezetek
+felszámolásának veszélyhelyzeti szabályairól szóló 64/2023. (III. 1.) Korm. rendeletet (a továbbiakban: R2.) az Ukrajna
+területén fennálló fegyveres konfliktusra, illetve humanitárius katasztrófára tekintettel, valamint ezek magyarországi
+következményeinek az elhárítása és kezelése érdekében veszélyhelyzet kihirdetéséről és egyes veszélyhelyzeti
+szabályokról szóló 424/2022. (X. 28.) Korm. rendelet szerinti veszélyhelyzet ideje alatt az e rendeletben foglalt
+eltérésekkel és kiegészítésekkel kell alkalmazni.
+2. §
+E rendeletet az R. 4. §-a és az R2. 3. §-a alapján elrendelt felszámolási eljárásokban kell alkalmazni.
+3. § (1) Az olyan ingatlan telekfelosztása során, amely az R. 4. §-a alapján elrendelt felszámolás alatt álló gazdálkodó
+szervezet tulajdonában áll, és az ingatlan-nyilvántartásban erdő művelési ágban és művelés alól kivett
+ipartelepként, illetve erdő művelési ágban és művelés alól kivett meddőhányóként van nyilvántartva
+(a továbbiakban: érintett ingatlan), a telekfelosztás során nem kell alkalmazni
+a) az Étv. 23. §-át, 24. § (2) és (3) bekezdését, valamint 24/A. § (1) és (2) bekezdését,
+b) az Evt. 86. § (1) bekezdését,
+c) a Korm. rendelet 21–23/I. §-át.
+(2) Az ingatlanügyi hatóság a telekfelosztás ingatlan-nyilvántartási átvezetésével kapcsolatos döntését az érintett
+ingatlan tulajdonosának telekfelosztás átvezetése iránti kérelme, az R. 4. §-a és az R2. 3. §-a alapján elrendelt
+felszámolási eljárás folyamatban létének igazolása és az ingatlanügyi hatóság által záradékolt telekfelosztási
+változási vázrajz alapján hozza meg.
+(3) Az érintett ingatlan tulajdoni lapjára bejegyzett jogokat és feljegyzett tényeket a telekfelosztás során létrejövő
+valamennyi ingatlanra változtatás nélkül át kell jegyezni, azzal, hogy az új ingatlant nem érintő jog vagy tény törlése
+utóbb, a bejegyzett jogosult törlési engedélyével kérhető.
+4. § (1) Ez a rendelet a kihirdetését követő napon lép hatályba.
+(2) E rendeletet az e rendelet hatálybalépésekor folyamatban lévő, az R. 4. §-a és az R2. 3. §-a alapján elrendelt
+felszámolási eljárásokban is alkalmazni kell.
+ Orbán Viktor s. k.,
+ miniszterelnök
