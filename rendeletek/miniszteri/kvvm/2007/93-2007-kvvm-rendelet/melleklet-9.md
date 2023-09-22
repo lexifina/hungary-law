@@ -1,12 +1,116 @@
-9. számú melléklet a 93/2007. (XII. 18.) KvVM rendelethez[^38]
+## ahol
 
-## A vasúti közlekedési zaj mérése
+## A, B, lrefállandók, értékük az 1. táblázat szerint,
+
+## Qi az i-edik vonatfajta forgalma, db/óra,
+
+## Vi az i-edik vonatfajta sebessége, km/óra,
+
+## pi az i-edik vonatfajtán belül a tárcsafékes szerelvények részaránya,
+
+## Kp a pályatípustól függő korrekció a 2. táblázat szerint,
+
+## Kk a hangjelzéstől függő korrekció a 3. táblázat szerint.
+
+## Az A, B és lref állandók
+
+## 9K04666_1
+
+|  |  | 1. táblázat |
+
+|  | A | B | C | D | E |
+
+| 1. | Állandó | Vonat kategóriák |
+
+| 2. | Személy | Teher | BDvmot | Bzmot |
+
+| 3. | lref, m | 200 | 380 | 150 | 50 |
+
+| 4. | A | +57 | +61 | +57 | +57 |
+
+| 5. | B | 0 | 0 | - 6 | +2 |
+
+## A pályatípustól függő korrekció
+
+## A hangjelzéstől függő korrekció
+
+## A kiindulási egyenértékű A-hangnyomásszintet a következő összefüggéssel kell kiszámítani:
+
+## ahol
+
+## m a számításnál figyelembe vett vonatfajták száma
+
+## FORGALMI ADATLAP
+
+## A vasútvonal neve: ................................................................................................................
+
+## A vonal száma: ......................................................................................................................
+
+## A vizsgált pálya, jellemzők: ....................................................................................................
+
+## Pályaszakasz kezdete, vége: ..................................................................................................
+
+## Mértékadó vonatforgalom a vizsgált vonatkoztatási időtartamra:
+
+## napközben (06-18 óra),
+
+## este (18-22 óra),
+
+## nappal (06-22 óra),
+
+## éjszaka (22-06 óra)
+
+## közötti* időszakra
+
+## 9K04666_5
+
+|  | A | B | C | D | E | F |
+
+| 1. | Vonattípus | Vonatfajta | Forgalom db | Tárcsafékes % | Átlagos sebesség km/óra** | Átlagos hossz m*** |
+
+| 2. | Személy | Nemzetközi gyors |  |  |  |  |
+
+| 3. |  | Belföldi expressz |  |  |  |  |
+
+| 4. |  | Belföldi gyors |  |  |  |  |
+
+| 5. |  | Távolsági személy |  |  |  |  |
+
+| 6. |  | Helyi személy összesen |  |  |  |  |
+
+| 7. |  | Szerelvényvonat |  |  |  |  |
+
+| 8. |  | Postavonat |  |  |  |  |
+
+| 9. | Bzmot | Bzmot sorozatú Diesel-motorvonat |  |  |  |  |
+
+| 10. | BDvmot | BDvmot sorozatú Ganz villamos motorvonat |  |  |  |  |
+
+| 11. | Teher | Gyorsteher |  |  |  |  |
+
+| 12. |  | Irányvonat |  |  |  |  |
+
+| 13. |  | Közvetlen teher |  |  |  |  |
+
+| 14. |  | Tolatós teher |  |  |  |  |
+
+| 15. |  | Forda teher |  |  |  |  |
+
+## * a megfelelő időszak aláhúzandó
+
+## ** a szolgálati menetrendkönyv szerinti alapsebességet kell beírni
+
+## *** az adott vonalon közlekedő szerelvények átlagos hosszát kell beírni
+
+9. számú melléklet a 93/2007. (XII. 18.) KvVM rendelethez[^45]
+
+A vasúti közlekedési zaj mérése
 
 1. Fogalommeghatározások
 
 Az 5. számú és a 8. számú melléklet szerint, a következő kiegészítésekkel:
 
-1.1 A vasúti közlekedésből származó zaj megítélési szintje, LAM,va dB
+1.1 A vasúti közlekedésből származó zaj megítélési szintje, LAM,vadB
 
 E melléklet szerint mért, a vasúti közlekedésből származó zaj egyenértékű A-hang- nyomásszintjéből meghatározott érték. Számítása az 5. pont szerint, a mértékadó forgalmat alapul véve történik.
 
@@ -50,7 +154,7 @@ Szeles időben a mérőmikrofonon a szél ellen védelmet nyújtó eszközt kell
 
 3.2.1 A mérési pont helyzetét a mérés céljának megfelelően kell megválasztani, betartva az MSZ ISO 1996-2:1995 5.3. pont előírásait.
 
-3.2.2 A mérési pontok választásakor vonatkoztatási pontot lehet kijelölni. A vonatkoztatási pontot a ténylegesen haladásra való szélső forgalmi vágány középvonalától, dref = 25 m távolságban és 3,2-4,2 m magasságban kell kijelölni úgy, hogy a vasút és a vonatkoztatási pont között a hangterjedést gátló akadály ne legyen.
+3.2.2 A mérési pontok választásakor vonatkoztatási pontot lehet kijelölni. A vonatkoztatási pontot a ténylegesen haladásra való szélső forgalmi vágány középvonalától, dref= 25 m távolságban és 3,2-4,2 m magasságban kell kijelölni úgy, hogy a vasút és a vonatkoztatási pont között a hangterjedést gátló akadály ne legyen.
 
 3.3 A vizsgálat körülményeinek megválasztása
 
@@ -122,19 +226,19 @@ Az alapzajjal terhelt zajesemény mérési időre vonatkoztatott egyenértékű 
 
 5.1.2 Az i-edik elhaladás egyenértékű A-hangnyomásszintjét (LAeq, i) a következő módon kell kiszámítani:
 
-LAeq,i = LAx,i - 10 lg ti
+LAeq,i= LAx,i- 10 lg ti
 
 ahol
 
-LAx,i az i-edik elhaladás zajeseményszintje, dB,
+LAx,iaz i-edik elhaladás zajeseményszintje, dB,
 
 ti = 3600 s.
 
 5.1.3 A vasúti forgalomból származó, az aktuális helyzethez tartozó zajegyenértékű A-hangnyomásszintjét a következő összefüggéssel kell kiszámítani:
 
-ahol
+## ahol
 
-LAeq,i az i-edik kategóriába eső szerelvények egyenértékű A-hangnyomásszintje, dB
+## LAeq,iaz i-edik kategóriába eső szerelvények egyenértékű A-hangnyomásszintje, dB
 
 5.2 A vasúti forgalomtól származó zaj megítélési szintje az egyes mérési pontokon, az adott vonatkoztatási időre.
 
@@ -160,11 +264,11 @@ n az összesen megmért elhaladások száma.
 
 5.2.3 A vasúti forgalomból származó zaj megítélési szintjét a vonatkoztatási ponton a következő összefüggéssel kell kiszámítani:
 
-LAM,va = LAM,va,REF + K
+LAM,va= LAM,va,REF+ K
 
 ahol
 
-LAM,va,REF a vonatkoztatási ponton a mértékadó forgalmi adatokból, a 8. számú melléklet szerint kiszámított zajterhelés.
+LAM,va,REFa vonatkoztatási ponton a mértékadó forgalmi adatokból, a 8. számú melléklet szerint kiszámított zajterhelés.
 
 6. A vizsgálati eredmények közlése
 
@@ -206,4 +310,4 @@ q) a vizsgálatot végzők neve,
 
 r) a vizsgálatokért felelős vezető neve, aláírása.
 
-[^38]: A 9. mellékletet a 33/2019. (VII. 9.) AM rendelet 4. § (4) bekezdése iktatta be.
+[^45]: A 9. mellékletet a 33/2019. (VII. 9.) AM rendelet 4. § (4) bekezdése iktatta be.

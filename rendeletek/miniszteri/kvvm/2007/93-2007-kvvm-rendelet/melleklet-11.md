@@ -1,4 +1,4 @@
-11. számú melléklet a 93/2007. (XII. 18.) KvVM rendelethez[^40]
+11. számú melléklet a 93/2007. (XII. 18.) KvVM rendelethez[^47]
 
 A zajterjedés számítása
 
@@ -164,7 +164,7 @@ az 500 Hz-es frekvenciasáv értékeivel kell figyelembe venni.
 
 3.1.1 Valamely hangforrás által a tőle st távolságban lévő pontban létrehozott hangnyomásszintet a következő összefüggéssel kell számítani:
 
-| Lt = (LW + KIr + KΩ) - (Kd + ∑ K) | (1) |
+| Lt = (LW + KIr+ KΩ) - (Kd + ∑ K) | (1) |
 
 Az (1) összefüggésben az első zárójelben lévő rész a forrás zajkibocsátási jellemzőit, a második zárójelben lévő rész a hangterjedés során fellépő korrekciós tényezőket tartalmazza.
 
@@ -226,21 +226,21 @@ Azokban az esetekben, amikor valamely terhelési pontban valamely hangforrás á
 
 | LW = Lt-KΩ-Kf+Kd | (1/b) |
 
-A hangforrás Kf formakorrekciójának értékét vonal- és felülethangforrásokra az 1/a, 1/b, 1/c, 1/d, 1/e és 1/f ábrák szerint.
+A hangforrás Kfformakorrekciójának értékét vonal- és felülethangforrásokra az 1/a, 1/b, 1/c, 1/d, 1/e és 1/f ábrák szerint.
 
 Egyenletesen eloszló inkoherens felületi és vonalforrások, ha a terjedés útjában nincs járulékos csillapító tényező, akkor kivételes esetben a hangnyomásszint kisebb távolságnál a formakorrekciójával is meghatározható.
 
-1/a ábra: Kf,1 formakorrekció vonalforrásokra
+1/a ábra: Kf,1formakorrekció vonalforrásokra
 
-1/b ábra: Kf,f formakorrekció felületforrásokra a felület fölött vagy a felület előtt lévő vizsgálati pontokra
+1/b ábra: Kf,fformakorrekció felületforrásokra a felület fölött vagy a felület előtt lévő vizsgálati pontokra
 
-1/c ábra: Kf,f formakorrekció irányítatlan felületforrásokra, a felületen lévő vizsgálati pontokra, ha b/l =1
+1/c ábra: Kf,fformakorrekció irányítatlan felületforrásokra, a felületen lévő vizsgálati pontokra, ha b/l =1
 
-1/d ábra: Kf,f formakorrekció irányítatlan felületforrásokra, a felületen lévő vizsgálati pontokra, ha b/l =2
+1/d ábra: Kf,fformakorrekció irányítatlan felületforrásokra, a felületen lévő vizsgálati pontokra, ha b/l =2
 
-1/e ábra: Kf,f formakorrekció irányítatlan felületforrásokra, a felületen lévő vizsgálati pontokra, ha b/l=4
+1/e ábra: Kf,fformakorrekció irányítatlan felületforrásokra, a felületen lévő vizsgálati pontokra, ha b/l=4
 
-1/f ábra: Kf,f formakorrekció irányítatlan felületforrásokra, a felületen lévő vizsgálati pontokra, ha b/l=8
+1/f ábra: Kf,fformakorrekció irányítatlan felületforrásokra, a felületen lévő vizsgálati pontokra, ha b/l=8
 
 4. Az egyedi hangforrásoktól származó zajterhelés számítására alkalmazott eljárás
 
@@ -274,9 +274,9 @@ Az irányítási index alkalmazásakor figyelembe kell venni azt is, hogy a hang
 
 5.2. Az irányítási tényező
 
-A KŮ irányítási tényezőt a következő összefüggéssel kell meghatározni.
+A KŮirányítási tényezőt a következő összefüggéssel kell meghatározni.
 
-| KΩ = 10 lg 4π/Ω db | (3) |
+| KΩ= 10 lg 4π/Ω db | (3) |
 
 Az Ω térszög és a KΩ irányítási tényező értékeit különféle tipikus alkalmazási esetekre az 1. táblázat tartalmazza.
 
@@ -296,7 +296,7 @@ Az Ω térszög és a KΩ irányítási tényező értékeit különféle tipiku
 
 A hangforrás közelében lévő tükröző (visszaverő) felületek hatását a 7. pont szerint a tükörforrások módszerével is lehet számítani. A számításkor feltételezzük, hogy a hang teljes mértékben visszaverődik (3/b ábra), és hogy az eredeti hangforrás Q és a tükörforrás Q' inkoherens.
 
-Ha a tükröző felület kemény (erősen visszaverő) és s > 8 dQ cosθ (ahol dQ a hangforrás és a visszaverő felület közötti távolság, θszög a 3/a ábra szerinti), akkor az 1. táblázat szerinti egyszerűbb irányítási tényezővel lehet számolni.
+Ha a tükröző felület kemény (erősen visszaverő) és s > 8 dQcosθ (ahol dQ a hangforrás és a visszaverő felület közötti távolság, θszög a 3/a ábra szerinti), akkor az 1. táblázat szerinti egyszerűbb irányítási tényezővel lehet számolni.
 
 3/a ábra: Visszaverő felület
 
@@ -306,19 +306,21 @@ Ha a tükröző felület kemény (erősen visszaverő) és s > 8 dQ cosθ (ahol 
 
 6.1. A távolságtól függő korrekció
 
-6.1. 1. A Kd távolságtól függő korrekció a gömbhullám esetén
+6.1. 1. A Kdtávolságtól függő korrekció a gömbhullám esetén
 
 | Kd = 10 lg (4π st2/s02) = 20 lg (st/ s0) + 11 dB | (4) |
 
 6.1.2.A Kd távolságtól függő korrekció közutak esetén:
 
+9K04675_8
+
 |  | (5) |
 
 ahol:
 
-dg,s,t,j a g-edik órán belül az s-edik számítási útszakaszhoz tartozó j-edik út- és t-edik időszakaszhoz tartozó akusztikai középvonal és a megítélési pont távolsága, m (az 1. ábra szerint a „d” távolság),
+dg,s,t,ja g-edik órán belül az s-edik számítási útszakaszhoz tartozó j-edik út- és t-edik időszakaszhoz tartozó akusztikai középvonal és a megítélési pont távolsága, m (az 1. ábra szerint a „d” távolság),
 
-Cg,s,t,j a g-edik órán belül az s-edik számítási útszakaszhoz tartozó j-edik út- és t-edik időszakaszhoz tartozó állandó, értéke
+Cg,s,t,ja g-edik órán belül az s-edik számítási útszakaszhoz tartozó j-edik út- és t-edik időszakaszhoz tartozó állandó, értéke
 
 az 1. táblázat szerint:
 
@@ -326,7 +328,7 @@ az 1. táblázat szerint:
 
 |  | A | B |
 
-| 1. | Cg,s,t,j = | A forrás és a megítélési pont között akadálymentes a terjedés ... |
+| 1. | Cg,s,t,j= | A forrás és a megítélési pont között akadálymentes a terjedés ... |
 
 | 2. | 12,5 | ... és átlagos hangvisszaverő tulajdonságú terület van (pl. szilárd burkolatú terület) |
 
@@ -337,6 +339,8 @@ Megjegyzés: A [Kd]g,s,t,j korrekció csak az 5. számú melléklet szerinti LAe
 A-hangnyomásszinthez alkalmazható.
 
 6.1.3. A Kd távolságtól függő korrekció vasutak esetén:
+
+9K04675_10
 
 |  | (6) |
 
@@ -396,11 +400,15 @@ b) a levegő relatív légnedvesség-tartalma: 50% - 90%.
 
 A hang csillapodását a levegőben három jellemző fizikai folyamat okozza: a klasszikus hővezetés miatti veszteségek, a molekulák rotációs relaxációja által okozott energiaveszteség és a levegő két fő alkotó eleme: a nitrogén és az oxigén rezgési relaxációja miatti molekuláris hangelnyelés. Ez utóbbi folyamatba bele kell érteni - a számítás pontossági határain belül - a kis mennyiségben jelen lévő széndioxid molekuláris hatásait is. Ennek a jelenségnek a fizikai jellemzője a két elem relaxációs frekvenciája, amelyet a következő módon lehet kiszámítani:
 
+9K04675_13
+
 |  | (8/1) |
 
 |  | (8/2) |
 
 Ezek felhasználásával a levegő által okozott aL terjedési csillapítás (dB/m):
+
+9K04675_14
 
 |  | (8/3) |
 
@@ -416,6 +424,8 @@ A talaj akusztikai jellemzőit a tényleges tulajdonságának megfelelően kell 
 
 Az ábrázolt területen kívül eső zajforrásokat (például a vizsgált területen kívül eső közlekedési forrásokat) átlagosan G = 0,5 elnyelési tulajdonságú talaj felett terjedéssel akkor kell számításba venni, ha azok a vizsgált terület határán 35 dB-nél nagyobb zajterhelést jelentenek.
 
+9K04675_15
+
 |  | (9) |
 
 ahol
@@ -428,19 +438,19 @@ hm a talajszint fölötti közepes magasság (a 4. ábra). A negatív számítá
 
 Egyedi hangforrások és akadálytalan terjedés esetén a 10(hQ + hA)<s tartományban a következő eljárással lehet Km értékét pontosabban (minden oktávsávban külön-külön) számítani:
 
-| Km = - (Km,Q + Km,A + Km,k) dB | (9/1) |
+| Km = - (Km,Q+ Km,A+ Km,k) dB | (9/1) |
 
 ahol
 
-Km,Q a hangforrás közelében (sq = 30 hQ ≤ s környezetében) érvényesülő talajhatás mértéke,
+Km,Qa hangforrás közelében (sq = 30 hQ ≤ s környezetében) érvényesülő talajhatás mértéke,
 
-Km,A a terhelési pont közelében (sA = 30 hA ≤ s környezetében) érvényesülő talajhatás mértéke,
+Km,Aa terhelési pont közelében (sA = 30 hA ≤ s környezetében) érvényesülő talajhatás mértéke,
 
-Km,k a hangforrás és a terhelési pont közötti középtartomány talajhatásának mértéke.
+Km,ka hangforrás és a terhelési pont közötti középtartomány talajhatásának mértéke.
 
 A Km magában foglalja a talajról való visszaverődés hatását is. Ezáltal (Dl) egyenlet használata esetén az 5.2. pont 1. táblázat 2., 3. és 4. sorában adott irányítási index értéke 3 dB-lel csökken (0,3 illetve 6 dB-re).
 
-A Km,Q, Km,A és Km,k értékeit a 3. táblázatból kell kikeresni. Ehhez az s távolság- és h magasságparamétereken kívül meg kell adni a talaj αt jellemzőjét is a 0 ≡ (visszaverő, kemény) és 1 ≡ (elnyelő, puha) közé eső tartományban külön-külön a forrás- és terhelési pont körüli, illetve a kettő közötti tartományra.
+A Km,Q, Km,Aés Km,kértékeit a 3. táblázatból kell kikeresni. Ehhez az s távolság- és h magasságparamétereken kívül meg kell adni a talaj αt jellemzőjét is a 0 ≡ (visszaverő, kemény) és 1 ≡ (elnyelő, puha) közé eső tartományban külön-külön a forrás- és terhelési pont körüli, illetve a kettő közötti tartományra.
 
 | 3. táblázat: A frekvenciafüggő talajhatás |
 
@@ -448,7 +458,7 @@ A Km,Q, Km,A és Km,k értékeit a 3. táblázatból kell kikeresni. Ehhez az s 
 
 | 1. | Oktávsáv középfrekvencia (Hz) | A talajhatás függvénye |
 
-| 2. |  | a forrás közelében Km,Q (dB) | a terhelés közelében Km,A (dB) | a köztes tartományban Km,k (dB) |
+| 2. |  | a forrás közelében Km,Q(dB) | a terhelés közelében Km,A (dB) | a köztes tartományban Km,k (dB) |
 
 | 3. | 63 | 1,5 | 1,5 | 3t |
 
@@ -471,6 +481,8 @@ Az aszfalt vagy vízfelületek keménynek veendők (αt = 0), a szántóföldeke
 (αt = 1). Az érték megválasztása egyértelmű, ha a talaj az SQ és SA sugáron belül, illetve a köztes tartományban olyan egyenletes, hogy egy értékű adattal meghatározható. Változékony talaj vagy egymást fedő talajrétegek esetében ajánlatos megfelelő középértékek használata. A választáshoz azonban megfelelő tapasztalat szükséges.
 
 A 3. táblázat megfelelő tényezőit a következő összefüggésekkel kell számítani:
+
+9K04675_18
 
 |  | (9/2) |
 
@@ -510,13 +522,17 @@ A sugárgörbület feltételezése annak eldöntésére való, hogy szükség va
 
 A görbült hangsugár hx magasságát egyenes, x hosszúságú hangút fölött a (11/a) egyenlettel kell kiszámítani.
 
+9K04675_21
+
 |  | (11/a) |
 
 ahol
 
 x1 ≤ x ≤ x2
 
-A görbült hangsugár sík terület fölötti hx,G magasságát a (l l/b) egyenlettel kell kiszámítani:
+A görbült hangsugár sík terület fölötti hx,Gmagasságát a (l l/b) egyenlettel kell kiszámítani:
+
+9K04675_22
 
 |  | (11/b) |
 
@@ -553,6 +569,8 @@ B a beépítés sűrűsége, amely az épületek összes alapterületének és a
 Az sB hangút tartalmazhat egy d1 forrás közeli és egy d2 terhelési pont közeli szakaszt, ha a hangút a görbület miatt kilép a beépített terület fölé.
 
 Ha a beépítés jól meghatározható épületsort tartalmaz (pl. közút vagy vasút mentén), akkor KB2 tag (feltéve, hogy az kisebb, mint az árnyékolása 6.5. pont szerint számítható beiktatási vesztesége) a (14) képlettel határozható meg.
+
+9K04675_26
 
 |  | (14) |
 
@@ -592,7 +610,7 @@ Minden, térben egyenletesen sugárzó egyedi forrás pontforrással helyettesí
 
 Több forrásra az akadály beiktatási veszteségét külön-külön kell meghatározni, az egyes terjedési utak mentén figyelembe venni, majd az eredményeket energetikailag összegezni.
 
-Ha a hang egy akadálynak több élén is elhajlik (6/2. ábra), az egyes élekre számított Ke,j beiktatási veszteségek eredőjét
+Ha a hang egy akadálynak több élén is elhajlik (6/2. ábra), az egyes élekre számított Ke,jbeiktatási veszteségek eredőjét
 
 a (15/1) képlet szerint kell meghatározni.
 
@@ -606,7 +624,7 @@ A frekvenciánkénti számítás elkerülhető, ha ismert az adott zajforrástí
 
 6.5.2. Egy akadálynak egy terjedési útra vonatkozó Ke beiktatási veszteségét (amely egy hangforrás hangterének az akadály egy élén való elhajlása miatt jön létre) egy frekvenciasávban az (15/2.) egyenlet szerint kell számítani:
 
-| Ke = Kz - K0 + K1 > 0 dB | (15/2) |
+| Ke = Kz- K0 + K1 > 0 dB | (15/2) |
 
 ahol
 
@@ -627,6 +645,8 @@ azaz
 A beiktatási veszteség számításakor nem a hangútnak az akadály miatti meghosszabbodását veszik figyelembe, hanem a z hangútkülönbség függvényeként adódó Kz árnyékolási tényező alakítja ki a csillapodást.
 
 A Kz árnyékolási tényezőt a (15/4.) egyenlet szerint kell számítani.
+
+9K04675_31
 
 |  | (15/4) |
 
@@ -692,64 +712,10 @@ A tükörforrás hangteljesítményszintjét kisebbre kell vermi, mint az eredet
 
 Ha visszaverő felület αokt < 1 elnyelési tényezője ismert, akkor az abszorpciós veszteséget a frekvenciának a függvényében ki lehet számítani. A tükörforrás hangteljesítménye ez esetben:
 
-| LW,okt,tükör = LW,okt + 10 lg(1-αokt) dB | (16) |
+| LW,okt,tükör= LW,okt+ 10 lg(1-αokt) dB | (16) |
 
 A tükörforrás hangteljesítményét az A-hangnyomásszinttel való közelítő számításnál minden sima felületű falon való tükrözésnél 0-1 dB, az erősen tagolt falak esetében (pl. balkonos homlokzatok) 2 dB visszaverődési veszteséggel kell számolni. A visszaverő zajvédő falaknál 1 dB-lel, az elnyelő zajvédő falaknál 4 dB-lel, az erősen hangelnyelő zajvédő falaknál 8 dB-lel kell számolni. A mindkét oldalról beépített utak, utcák mentén a többszörös visszaverődésből származó hangnyomásszint-növekedést a 7.2. pont szerint kell figyelembe venni.
 
 Azt az fu frekvenciát, amely felett egy 1min legkisebb méretű felületet a visszaverődés szempontjából figyelembe kell venni, a 7/b ábra jelöléseivel a (17) egyenlet alapján lehet meghatározni.
 
-|  | (17) |
-
-A (17) egyenlet arra is felhasználható, hogy azt a legkisebb lmin hosszúságot meghatározzák, amelyet a visszaverődés szempontjából (pl. a közelítő A-szinttel való számoláskor 500 Hz frekvenciát és c=340 m/s hangterjedési sebességet használva) figyelembe kell venni.
-
-7/b ábra: Hangsugarak a visszaverődés alsó határfrekvenciájának számításához
-
-7.2. Hangnyomásszint-növekedés többszörös tükrözés miatt, mindkét oldalról zártan beépített terület esetén
-
-Ha valamely vonalforrás (pl. egy közlekedési út) mindkét oldala zártan van beépítve, akkor a hangnyomásszint-növekedés nemcsak az elsődleges tükrözés által, hanem az épülethomlokzatok közötti többszörös tükrözés által is megnő. A növekedés Kr,több mértékét a (18) egyenlet szerint kell meghatározni:
-
-| Kr,több = 4 h/w dB | (18) |
-
-h/w ≤ 0,8 értékre.
-
-Közlekedési zajforrás (közút, vasút) esetén a Kr,több korrekció az 1. táblázat szerint is meghatározható.
-
-A korrekcióhoz meg kell határozni az észlelési pont h magasságának és a vizsgálatba vont útvonal épülethomlokzattól épülethomlokzatig mért w szélességének az arányát: h/w.
-
-Ha az észlelési pont magasabban van a szemben fekvő oldal beépítési magasságánál, akkor a táblázat „Laza” és „Zárt” oszlopaiban szereplő 1,5-nél nagyobb értékekből 1-e ki kell vonni.
-
-| 1. táblázat: A többszörös hangvisszaverődés hatását kifejező korrekció közlekedési zajforrás esetén |
-
-|  | A | B | C | D |
-
-| 1. | Az észlelési pont relatív magassága | Kr,több dB, ha az észlelési ponttal szembeni beépítés: |
-
-| 2. | (h/w) | szabad tér | laza | zárt |
-
-| 3. | 0.3 alatt | 0,5 | 0,5 | 1,0 |
-
-| 4. | 0.3 - 0.65 | 0,5 | 1,0 | 2,0 |
-
-| 5. | 0.66 -1.30 | 0,5 | 1,5 | 2,5 |
-
-| 6. | 1.3 felett | 0,5 | 2,0 | 3,5 |
-
-8. A hosszútávú középérték kiszámítása, a meteorológiai körülmények figyelembevétele
-
-A szél és a hőmérséklet, valamint a talaj akusztikai jellemzői, amelyek a talaj közeli hangterjedésre meghatározóak, a helytől és az időtől függően (a napszakok vagy az évszakok folyamán) változnak, ami által a hangterjedésben is eltérések mutatkoznak.
-
-A 4. pont (2) összefüggése szerint kiszámított hangnyomásszin t a hangterjedésre kedvező körülmények között érvényes. Ha hosszabb időszakra (például 1 évre) vonatkozó középértékre van szükség, akkor a (2) összefüggéssel kapott eredményből ki kell vonni a (1) képlettel kiszámított Kh korrekciót.
-
-| , | (19) |
-
-ahol
-
-Kh a hosszú idejű szint meghatározására szolgáló korrekció,
-
-HQ a zajforrás föld feletti magassága,
-
-hA az észlelési pont föld feletti magassága,
-
-s az észlelési pont és a zajforrás távolságának vetülete a föld (közepes) síkján
-
-[^40]: A 11. mellékletet a 33/2019. (VII. 9.) AM rendelet 4. § (6) bekezdése iktatta be.
+[^47]: A 11. mellékletet a 33/2019. (VII. 9.) AM rendelet 4. § (6) bekezdése iktatta be.

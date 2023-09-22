@@ -6,14 +6,13 @@ a) a tervezett állapotot megelőző háttérterhelés mértékére irányuló v
 
 b) a hatásterület számítására vonatkozó eredményeket.
 
-(3)[^4] Ha az üzemeltető a zajkibocsátási határérték megállapítását a környezeti zaj- és rezgésterhelési határértékek megállapításáról szóló 27/2008. (XII. 3.) KvVM–EüM együttes rendelet [a továbbiakban: 27/2008. (XII. 3.)
+(3)[^4] Ha az üzemeltető a zajkibocsátási határérték megállapítását a környezeti zaj- és rezgésterhelési határértékek megállapításáról szóló 27/2008. (XII. 3.) KvVM–EüM együttes rendelet [a továbbiakban: 27/2008. (XII. 3.) KvVM–EüM együttes rendelet] 1. melléklet 2. pontja alapján kéri, a kérelemhez mellékelni kell:
 
-KvVM–EüM együttes rendelet] 1. melléklet 2. pontja alapján kéri, a kérelemhez mellékelni kell:
-
-a) a nemzetközi licenc másolatát és annak hiteles magyar nyelvű fordítását,
+a)[^5] a nemzetközi licenc másolatát és magyar nyelvű fordítását,
 
 b) a 4. § (1c) bekezdése szerinti zajmonitoring rendszer leírását, valamint
 
 c) a zajkibocsátás csökkentése érdekében tervezett intézkedéseket, azok várható eredményét, és az intézkedések műszaki és adminisztratív megvalósításához, szükséges időtartamot.
 
 [^4]: A 2. § (3) bekezdését a 91/2015. (XII. 23.) FM rendelet 2. §-a iktatta be.
+[^5]: A 2. § (3) bekezdés a) pontja a 17/2023. (IX. 21.) EM rendelet 5. §-a szerint módosított szöveg.

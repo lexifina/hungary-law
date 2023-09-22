@@ -2,6 +2,8 @@
 
 ## 1. táblázat: A közúti forgalom (nem kötöttpályás) adatai
 
+## 9K04651_0
+
 |  | A | B | C | D | E | F | G |
 
 | 1. | Az út | Szakasz |  |  | Forgalom (Q jm/napszak) | Sebesség* km/óra | LAeq(7,5) |
@@ -82,7 +84,7 @@
 
 ## 1.9 Vonatkoztatási távolság dref, m
 
-## A közút, illetve a vágány akusztikai tengelyétől mért 7,5 m távolság, azaz dref = 7,5 m.
+## A közút, illetve a vágány akusztikai tengelyétől mért 7,5 m távolság, azaz dref= 7,5 m.
 
 ## 1.10 Látószög ß, fok
 
@@ -162,9 +164,9 @@
 
 ## ahol
 
-## A = 0,07 vmegengedett + 20
+## A = 0,07 vmegengedett+ 20
 
-## Qsáv,x = (Q1x + Q2x + Q3x)/FS
+## Qsáv,x= (Q1x + Q2x + Q3x)/FS
 
 ## és
 
@@ -272,7 +274,7 @@
 
 ## u darab 1 órás időszakasz van):
 
-| LAeq (d,h)nappal esetén | u = 16 |
+| LAeq(d,h)nappal esetén | u = 16 |
 
 | LAeq (d,h)éjjel esetén | u = 8 |
 
@@ -366,33 +368,35 @@
 
 ## 4.3.1 Az egyes akusztikai járműkategóriákhoz tartozó, a napközben napszakra vonatkozó évi átlagos óraforgalom Qi,napköz
 
-## Q1,napköz = A1,napköz * ÁNF1/12
+## Q1,napköz= A1,napköz* ÁNF1/12
 
-## Q2,napköz = A2,napköz * (ÁNF2+ ÁNF4+ ÁNF7)/12
+## Q2,napköz= A2,napköz* (ÁNF2+ ÁNF4+ ÁNF7)/12
 
-## Q3,napköz = A3,napköz * (ÁNF3+ ÁNF5+ ÁNF6)/12
+## Q3,napköz= A3,napköz* (ÁNF3+ ÁNF5+ ÁNF6)/12
 
 ## 4.3.2 Az egyes akusztikai járműkategóriákhoz tartozó, az este napszakra vonatkozó évi átlagos óraforgalom Qi,este
 
-## Q1,este = A1,este*ÁNFi/4
+## Q1,este= A1,este*ÁNFi/4
 
-## Q2,este = A2,este * (ÁNF2+ ÁNF4+ ÁNF7)/4
+## Q2,este= A2,este* (ÁNF2+ ÁNF4+ ÁNF7)/4
 
-## Q3,este = A3,este * (ÁNF3+ ÁNF5+ ÁNF6)/4
+## Q3,este= A3,este* (ÁNF3+ ÁNF5+ ÁNF6)/4
 
 ## 4.3.3 Az egyes akusztikai járműkategóriákhoz tartozó, az éjszaka napszakra vonatkozó évi átlagos óraforgalom Qi,éjjel
 
-## Q1,éjjel = A1,éjjel*ÁNF1/8
+## Q1,éjjel= A1,éjjel*ÁNF1/8
 
-## Q2,éjjel = A2,éjjel * (ÁNF2+ ÁNF4+ ÁNF7)/8
+## Q2,éjjel= A2,éjjel* (ÁNF2+ ÁNF4+ ÁNF7)/8
 
-## Q3,éjjel = A3,éjjel * (ÁNF3+ ÁNF5+ ÁNF6)/8
+## Q3,éjjel= A3,éjjel* (ÁNF3+ ÁNF5+ ÁNF6)/8
 
 ## 4.3.4 A 4.3.1–4.3.3 pontok szerinti összefüggésekben:
 
 ## ÁNFk = a k-adik járműkategória (4.2 pont) ÁNF-adata, jármű/nap
 
 ## Az „Ai,napköz”, „Ai,este” és „Ai,éjjel” tényezők a 3. táblázat szerint.
+
+## 9K04651_6
 
 | 3. táblázat: Napszak forgalom aránya (Ai,x) az ÁNF-hez képest |
 
@@ -434,13 +438,13 @@
 
 ## 4.4.2 Az LAeq(7,5)g,s,t,j,i kiszámítása:
 
-## LAeq(7,5)g,s,t,j,i = [Kt + KD]g,s,t,j,i
+## LAeq(7,5)g,s,t,j,i = [Kt+ KD]g,s,t,j,i
 
 ## A[Kt] g,s,t,j,i számítása:
 
 ## ahol:
 
-## a) az adott akusztikai járműkategóriához tartozó Ai Bi Ci Di Ei Fi állandókat a 4. táblázat szerint kell behelyettesíteni:
+## a) az adott akusztikai járműkategóriához tartozó Ai BiCi DiEi Fi állandókat a 4. táblázat szerint kell behelyettesíteni:
 
 |  |  |  |  |  |  |  | 4. táblázat |
 
@@ -486,11 +490,11 @@
 
 ## [K]g,s,t,j,i útburkolat miatti korrekció értékét az adott akusztikai járműkategóriához tartozóan az adott kopórétegre az OKA adatbázisából kell venni.
 
-## Ha az OKA adatbázisának a [K]g,s,t,j,i útburkolat miatti korrekcióval való kiegészítése az adott járműkategóriához tartozóan az adott kopórétegre nem történt meg, akkor a zajtérkép készítőjének szakmai döntésétől függően a kopóréteg
+## Ha az OKA adatbázisának a [K]g,s,t,j,iútburkolat miatti korrekcióval való kiegészítése az adott járműkategóriához tartozóan az adott kopórétegre nem történt meg, akkor a zajtérkép készítőjének szakmai döntésétől függően a kopóréteg
 
 ## a) vagy besorolható a 6. táblázat szerinti kategóriákba, és ha a kopórétegen (a kopóréteg életkorától függetlenül) nincs felfagyástól, az alépítményen pedig nincs vetemedéstől vagy egyéb okból származó, kiterjedt folytonossági hiány vagy törés, akkor a 6. táblázat megfelelő [K]g,s,t,j,i értéket kell behelyettesíteni, és a 4. táblázat szerinti Ai Bi regressziós állandókat kell használni;
 
-## b) vagy ha az a) pont szerinti besorolás nem hajtható végre, akkor [K]g,s,t,j,i = 0, és az Ai Bi regressziós állandók értékeit
+## b) vagy ha az a) pont szerinti besorolás nem hajtható végre, akkor [K]g,s,t,j,i = 0, és az AiBiregressziós állandók értékeit
 
 ## a 4. táblázat szerinti értékek helyett az adott járműkategóriához tartozóan az adott útburkolatra méréssel kell meghatározni.
 
@@ -500,7 +504,7 @@
 
 ## Az Ai Bi regressziós állandók méréssel való meghatározásánál az MSZ EN ISO 11819-1 „Az útburkolatok közlekedési zajra gyakorolt hatásának mérése. 1. rész: Statisztikus elhaladási mérési módszer” előírásai szerint eljárni. Ez a szabványnak a regresszió alapjául szolgáló adatgyűjtésre (mérésre) vonatkozó előírásai, továbbá a műszerezésre és a regresszió-analízisre vonatkozó követelményei teljesítését jelenti. A vizsgálatok során az MSZ EN ISO 11819-1 szerinti 1. járműkategóriát az I. akusztikai járműkategóriának, a 2. járműkategóriát a
 
-## II: akusztikai járműkategóriának és a 2.b. járműkategóriát a III. akusztikai járműkategóriának kell megfeleltetni. Az Ai Bi regressziós állandók értékeként a vizsgálattal meghatározott ai és bi állandók tizedrészét kell alkalmazni, azaz Ai = ai/10 és Bi = bi/10.
+## II: akusztikai járműkategóriának és a 2.b. járműkategóriát a III. akusztikai járműkategóriának kell megfeleltetni. Az AiBi regressziós állandók értékeként a vizsgálattal meghatározott ai és bi állandók tizedrészét kell alkalmazni, azaz Ai = ai/10 és Bi = bi/10.
 
 ## Megjegyzés: A szabvány szerinti „SPBI” (statisztikus elhaladási index) meghatározása nem feladat, mivel az alkalmatlan a sebesség hatásainak a becslésére.
 
@@ -524,15 +528,15 @@
 
 ## ahol
 
-## vg,s,t,j,i az adott akusztikai járműkategóriához rendelt mértékadó sebesség, km/óra,
+## vg,s,t,j,iaz adott akusztikai járműkategóriához rendelt mértékadó sebesség, km/óra,
 
-## Qg,s,t,j,i az adott akusztikai járműkategóriához tartozó forgalomnagyság, jármű/óra.
+## Qg,s,t,j,iaz adott akusztikai járműkategóriához tartozó forgalomnagyság, jármű/óra.
 
 ## Megjegyzés: Ha Q/v nagyobb 43-nál, akkor a jelen előírás szerinti számítás nem végezhető el.
 
 ## 4.4.3 Az LAeq(7,5)g,s,t,j,i,v kiszámítása:
 
-## A vizsgált, Tt(másodperc) hosszúságú időszakaszra vonatkozó és Qv [jármű/óra] mértékegységben kifejezett kötöttpályás forgalomtól származó kiindulási egyenértékű A-hangnyomásszintje, dref = 7,5 m távolságban:
+## A vizsgált, Tt(másodperc) hosszúságú időszakaszra vonatkozó és Qv [jármű/óra] mértékegységben kifejezett kötöttpályás forgalomtól származó kiindulási egyenértékű A-hangnyomásszintje, dref= 7,5 m távolságban:
 
 ## LAeq(7,5)g,s,t,j,v = 10 lg (Qv) + Cvk
 
@@ -610,11 +614,11 @@
 
 ## LAeq(7,5 korrigált, távlati) = LAeq(7,5) számított, távlati) - ΔLAeq(7,5)
 
-## LAeq(d,h korrigált, távlati) = LAeq (d,h számított, távlati) - ΔLAeq(d,h)
+## LAeq(d,h korrigált, távlati) = LAeq(d,h számított, távlati) - ΔLAeq(d,h)
 
-6. számú melléklet a 93/2007. (XII. 18.) KvVM rendelethez[^31]
+6. számú melléklet a 93/2007. (XII. 18.) KvVM rendelethez[^38]
 
-## A közúti közlekedési zaj mérése
+A közúti közlekedési zaj mérése
 
 1. Fogalommeghatározások
 
@@ -672,7 +676,7 @@ Szeles időben a mérőmikrofonon a szél ellen védelmet nyújtó eszközt kell
 
 3.2.1 A mérési pont helyzetét a mérés céljának megfelelően kell megválasztani, betartva az MSZ ISO 1996-2:1995 5.3. pont előírásait.
 
-3.2.2. A mérési pontok választásakor vonatkoztatási pontot lehet kijelölni. A vonatkoztatási pontot a ténylegesen járműhaladásra való szélső forgalmi sáv középvonalától, dref = 7,5 m távolságban és abban a magasságban kell kijelölni, amely magasságra a mérés eredménye vonatkozik. A közút és a vonatkoztatási pont között a hangterjedést gátló akadály ne legyen.
+3.2.2. A mérési pontok választásakor vonatkoztatási pontot lehet kijelölni. A vonatkoztatási pontot a ténylegesen járműhaladásra való szélső forgalmi sáv középvonalától, dref= 7,5 m távolságban és abban a magasságban kell kijelölni, amely magasságra a mérés eredménye vonatkozik. A közút és a vonatkoztatási pont között a hangterjedést gátló akadály ne legyen.
 
 3.2.3 Ha a mérési pont 1,5 m magasan helyezkedett el, és a pont felett függőleges irányban 4 m magasságban kell a zajterhelést meghatározni, akkor az 5.2. pont szerinti mérési eredmény a 4 m-es magasságra a következő összefüggéssel korrigálható:
 
@@ -692,7 +696,7 @@ ahol Km értékét az 1. táblázat szerint kell behelyettesíteni
 
 | 4. | Szabadon álló pont | - 0,5 |
 
-A Km korrekció nem alkalmazható, ha az 1,5 m magas mérési pont és a 4 m magasságban a fentiek szerint meghatározott pont eltérő távolságban van a visszaverő felülettől (például megszűnik a felület).
+## A Kmkorrekció nem alkalmazható, ha az 1,5 m magas mérési pont és a 4 m magasságban a fentiek szerint meghatározott pont eltérő távolságban van a visszaverő felülettől (például megszűnik a felület).
 
 3.3 A vizsgálat körülményeinek megválasztása
 
@@ -748,41 +752,41 @@ A mérési idő alatt meg kell határozni a mérési ponton a közúttól szárm
 
 - alapzaj szerint korrigált (ha szükséges) - egyenértékű A-hang-nyomásszintből (LAeq,i) a következő összefüggéssel kell meghatározni.
 
-ahol
+## ahol
 
-LAeq,i az i-edik mérési szakaszban mért - alapzaj szerint korrigált (ha szükséges) - egyenértékű A-hangnyomásszint, dB,
+## LAeq,iaz i-edik mérési szakaszban mért - alapzaj szerint korrigált (ha szükséges) - egyenértékű A-hangnyomásszint, dB,
 
-ti az i-edik mérési szakasz időtartama, s
+## ti az i-edik mérési szakasz időtartama, s
 
-K = 0 dB, ha a mérés a 3.4 b) és c) pontok szerinti módszerek valamelyikével történt,
+## K = 0 dB, ha a mérés a 3.4 b) és c) pontok szerinti módszerek valamelyikével történt,
 
-K = -3 dB, ha a mérés a 3.4 d) pont szerint történt.
+## K = -3 dB, ha a mérés a 3.4 d) pont szerint történt.
 
-5. A közúti közlekedésből származó zaj LAM,kö megítélési szintjének meghatározása
+5. A közúti közlekedésből származó zaj LAM,kömegítélési szintjének meghatározása
 
 5.1 Az aktuális forgalmi helyzethez tartozó megítélési szint:
 
-| LAM,kö = LAeq | dB |
+| LAM,kö= LAeq | dB |
 
-Megjegyzés:
+## Megjegyzés:
 
-A 3.4 c) és 3.4 d) pontok szerinti mérések esetén a mérés eredménye: közelítő érték
+## A 3.4 c) és 3.4 d) pontok szerinti mérések esetén a mérés eredménye: közelítő érték
 
 5.2 A mértékadó forgalmi helyzethez tartozó megítélési szint:
 
-| LAM,kö = LAeq + Kf | dB |
-
-ahol
-
-Kf a következők szerint meghatározott korrekció, dB:
+| LAM,kö= LAeq + Kf | dB |
 
 | Kf = LAeqM-LAeqm | dB |
 
-ahol
+## ahol
 
-LAeqM az 5. számú melléklet szerinti forgalmi (Q és v) adatokból az 5. számú melléklet szerint meghatározott LAeq(7,5) vonatkoztatási egyenértékű A-hangnyomásszint,
+## Kf a következők szerint meghatározott korrekció, dB:
 
-LAeqm a méréssel párhuzamosan számlált forgalmi (Qtény és vtény) adatokból a 5. számú melléklet szerint meghatározott LAeq(7,5) vonatkoztatási egyenértékű A-hangnyomásszint.
+## ahol
+
+## LAeqM az 5. számú melléklet szerinti forgalmi (Q és v) adatokból az 5. számú melléklet szerint meghatározott LAeq(7,5) vonatkoztatási egyenértékű A-hangnyomásszint,
+
+## LAeqm a méréssel párhuzamosan számlált forgalmi (Qtény és vtény) adatokból a 5. számú melléklet szerint meghatározott LAeq(7,5) vonatkoztatási egyenértékű A-hangnyomásszint.
 
 6. A vizsgálati eredmények közlése
 
@@ -822,4 +826,4 @@ p) a vizsgálatot végzők neve,
 
 q) a vizsgálatokért felelős vezető neve, aláírása.
 
-[^31]: A 6. mellékletet a 70/2017. (XII. 29.) FM rendelet 8. §-a hatályon kívül helyezte, újonnan a 33/2019. (VII. 9.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^38]: A 6. mellékletet a 70/2017. (XII. 29.) FM rendelet 8. §-a hatályon kívül helyezte, újonnan a 33/2019. (VII. 9.) Korm. rendelet 4. § (2) bekezdése iktatta be.

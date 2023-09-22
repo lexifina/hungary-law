@@ -6,7 +6,7 @@ b) a stratégiai környezeti vizsgálat keretében, illetve
 
 c) a stratégiai dokumentumok előkészítése keretében és a stratégiai dokumentumokhoz készített hatásvizsgálat érdekében
 
-## végzett mérésekre és számításokra.
+végzett mérésekre és számításokra.
 
 (1a)[^2] Üzemi és szabadidős zajforrás zajkibocsátási határértékét (a továbbiakban: zajkibocsátási határérték) az 1. számú mellékletben meghatározott módon a zajforrás hatásterületére kell megállapítani.
 

@@ -1,6 +1,6 @@
-10. számú melléklet a 93/2007. (XII. 18.) KvVM rendelethez[^39]
+10. számú melléklet a 93/2007. (XII. 18.) KvVM rendelethez[^46]
 
-## Üzemi létesítmények zajkibocsátásának számítása
+Üzemi létesítmények zajkibocsátásának számítása
 
 Az üzemi létesítmények zajkibocsátása a rendelkezésre álló adatok, illetve az esetlegesen szükséges zajmérések feltételei alapján a következő módokon becsülhető.
 
@@ -50,7 +50,7 @@ ahol m a mérési pontok száma,
 
 c) az irányítottsági tényező a j-edik pont irányában:
 
-DIj = Lj-Lw0 + 10 lg rj2
+DIj= Lj-Lw0 + 10 lg rj2
 
 5. Bizonyos esetekben (különösen, ha az üzem környezetében nincs védendő létesítmény, illetve az üzem zajkibocsátása egyértelműen, biztosan nem okoz zavaró környezeti zajterhelést) megengedhető, hogy konkrét mérési adat vagy az üzem zajkibocsátásának pontos meghatározása nélkül végezzék el az üzem zajkibocsátásának becslését.
 
@@ -62,4 +62,4 @@ Ebben az esetben különösen, de az 1-4. pontok szerinti módok bármelyike sze
 
 Ha a zajkibocsátás becslésére alkalmazott mérési adatok épület homlokzata előtt 2 m-re végzett mérésből származnak, akkor a homlokzat hangvisszaverő hatásának kiküszöbölésére a mért adatokból 3 dB-t le kell vonni.
 
-[^39]: A 10. mellékletet a 33/2019. (VII. 9.) AM rendelet 4. § (5) bekezdése iktatta be.
+[^46]: A 10. mellékletet a 33/2019. (VII. 9.) AM rendelet 4. § (5) bekezdése iktatta be.

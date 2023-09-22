@@ -1,6 +1,6 @@
-1. számú melléklet a 93/2007. (XII. 18.) KvVM rendelethez[^23]
+1. számú melléklet a 93/2007. (XII. 18.) KvVM rendelethez[^30]
 
-## A zajkibocsátási határérték megállapításának módszere
+A zajkibocsátási határérték megállapításának módszere
 
 1. Üzemi és szabadidős zajforrás zajkibocsátási határértéke (LKH) megegyezik a zaj- és rezgésterhelési határértékek megállapításáról szóló jogszabály szerinti zajterhelési határértékkel, ha:
 
@@ -44,4 +44,4 @@ c) a b) pont szerinti kérelemben számszerűen megjelölik az egyes üzemeltet�
 
 A zajkibocsátási határértéket ebben az esetben úgy kell megállapítani, hogy a zajforrásoktól származó együttes zajterhelés ne haladja meg a 2. pont szerint megállapítható zajkibocsátási határértékek összegét.
 
-[^23]: Az 1. számú melléklet a 91/2015. (XII. 23.) FM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^30]: Az 1. számú melléklet a 91/2015. (XII. 23.) FM rendelet 7. § (1) bekezdésével megállapított szöveg.

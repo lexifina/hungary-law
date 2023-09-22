@@ -1,6 +1,6 @@
 2. számú melléklet a 93/2007. (XII. 18.) KvVM rendelethez
 
-## KÉRELEM
+KÉRELEM
 
 Üzemi, szabadidős létesítmény zajkibocsátási határértékének megállapítására
 
@@ -67,11 +67,3 @@ c) Nem rendszeresen működő zajforrásokra vonatkozó adatok (pl. szükségár
 6. A zajforrás hatásterületén elhelyezkedő ingatlanok felsorolása:
 
 | Ingatlan helyrajzi száma | Közterület elnevezése | Házszám | A védendő épület Építményjegyzék szerinti besorolása |
-
-A kérelemben közölt adatok a valóságnak megfelelnek.
-
-Kelt: ………………………….
-
-………………………………………….
-
-cégszerű aláírás

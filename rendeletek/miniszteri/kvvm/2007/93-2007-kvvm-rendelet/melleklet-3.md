@@ -1,6 +1,14 @@
+## A kérelemben közölt adatok a valóságnak megfelelnek.
+
+## Kelt: ………………………….
+
+## ………………………………………….
+
+## cégszerű aláírás
+
 3. számú melléklet a 93/2007. (XII. 18.) KvVM rendelethez
 
-## JELENTÉS
+JELENTÉS
 
 üzemi, szabadidős zajforrás[^*] zajkibocsátásának megváltozásáról
 
