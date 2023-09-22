@@ -38,9 +38,12 @@ b) az 1. melléklet 1.9. pontja szerinti körforgásos termék tulajdonjogának 
 
 c) a körforgásos termék természetes személy általi, nem gazdasági tevékenység keretében végzett saját célú felhasználása.
 
-(5)[^13] A (4) bekezdés szerinti esetben a gyártónak nem keletkezik a 6. § a) pontjában, a 7. és a 8. alcímben foglaltak szerinti kötelezettsége.
+(4a)[^13] A (2) és (3) bekezdés szerinti forgalomba hozatalt megvalósító személyre a gyártóra vonatkozó szabályokat kell alkalmazni az e rendeletben meghatározott kötelezettségek teljesítése során.
+
+(5)[^14] A (4) bekezdés szerinti esetben a gyártónak nem keletkezik a 6. § a) pontjában, a 7. és a 8. alcímben foglaltak szerinti kötelezettsége.
 
 [^10]: A 16. § (1) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 70. § 3. pontja szerint módosított szöveg.
 [^11]: A 16. § (3) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 58. § (1) bekezdésével megállapított szöveg.
 [^12]: A 16. § (4) bekezdés a) pont aa) alpontja a 276/2023. (VI. 29.) Korm. rendelet 70. § 4. pontja szerint módosított szöveg.
-[^13]: A 16. § (5) bekezdését a 276/2023. (VI. 29.) Korm. rendelet 58. § (2) bekezdése iktatta be.
+[^13]: A 16. § (4a) bekezdését a 435/2023. (IX. 21.) Korm. rendelet 1. §-a iktatta be.
+[^14]: A 16. § (5) bekezdését a 276/2023. (VI. 29.) Korm. rendelet 58. § (2) bekezdése iktatta be.

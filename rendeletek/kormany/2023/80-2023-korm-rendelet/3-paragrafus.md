@@ -1,5 +1,3 @@
-## (a 2–7. pont a továbbiakban együtt: termékárami kormányrendeletek) meghatározottak szerint kell értelmezni.
-
 ## 3. A gyártó kiterjesztett gyártói felelősségi kötelezettségeinek teljesítése
 
 3. § (1) A körforgásos termék gyártója a kiterjesztett gyártói felelősségi kötelezettségét a 7. §-ban foglalt esetet kivéve a Ht. 53/A. § (4) bekezdése alapján kijelölt koncessziós társaság útján teljesíti (a továbbiakban: kollektív teljesítés).

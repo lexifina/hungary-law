@@ -150,7 +150,7 @@ kivéve: a reklámhordozó papírnak minősülő termékeket, az üzleti könyv,
 
 | 2. | Termékkódok |
 
-| 3.[^49] | 11 | csomagolás (az egyes egyszer használatos műanyagterméknek minősülő csomagolások kivételével) |
+| 3.[^52] | 11 | csomagolás (az egyes egyszer használatos műanyagterméknek minősülő csomagolások kivételével) |
 
 | 4. | 12 | egyes egyszer használatos műanyagtermék |
 
@@ -340,7 +340,7 @@ kivéve: a reklámhordozó papírnak minősülő termékeket, az üzleti könyv,
 
 | 13. | 99 | vegyes elektromos, elektronikus berendezési hulladék |
 
-2.3.3.[^50] Elem, akkumulátor és hulladéka
+2.3.3.[^53] Elem, akkumulátor és hulladéka
 
 |  | A | B |
 
@@ -440,7 +440,7 @@ kivéve: a reklámhordozó papírnak minősülő termékeket, az üzleti könyv,
 
 2.4. A KF kód 5. és 6. karaktere: Csoport kód
 
-2.4.1.[^51] Csomagolás és hulladéka a 2.4.2. alá tartozó termékből létrehozott csomagolás kivételével
+2.4.1.[^54] Csomagolás és hulladéka a 2.4.2. alá tartozó termékből létrehozott csomagolás kivételével
 
 |  | A | B |
 
@@ -520,7 +520,7 @@ kivéve: a reklámhordozó papírnak minősülő termékeket, az üzleti könyv,
 
 | 4. | 99 | vegyes elektromos, elektronikus berendezés hulladéka |
 
-2.4.4.[^52] Elem, akkumulátor és hulladéka
+2.4.4.[^55] Elem, akkumulátor és hulladéka
 
 |  | A | B |
 
@@ -540,21 +540,43 @@ kivéve: a reklámhordozó papírnak minősülő termékeket, az üzleti könyv,
 
 | 8. | 99 | egyéb vegyes elem, akkumulátor hulladék |
 
-2.4.5.[^53] Gépjármű és hulladéka
+2.4.5.[^56] Gépjármű és hulladéka
 
 |  | A | B |
 
-| 1. | Kód | Megnevezés |
+| 1 | Kód | Megnevezés |
 
-| 2. | 10 | nem díjátalány-fizetéssel |
+| 2 | 1980. január 1-je előtt gyártott gépjármű |
 
-| 3. | 11 | kizárólag belső égésű motorral hajtott, díjátalány-fizetéssel |
+| 3 | 10 | nem díjátalány-fizetéssel |
 
-| 4. | 12 | részben elektromos motorral hajtott, tölthető akkumulátorral, díjátalány-fizetéssel |
+| 4 | 11 | tisztán belső égésű motorral hajtott, díjátalány-fizetéssel |
 
-| 5. | 13 | részben elektromos motorral hajtott, nem tölthető akkumulátorral, díjátalány-fizetéssel |
+| 5 | 12 | részben elektromos motorral hajtott, M1 járműkategóriájú, tölthető akkumulátorral, díjátalány-fizetéssel |
 
-| 6. | 14 | kizárólag elektromos motorral hajtott, díjátalány-fizetéssel |
+| 6 | 13 | részben elektromos motorral hajtott, M1 járműkategóriájú, nem tölthető akkumulátorral, díjátalány-fizetéssel |
+
+| 7 | 14 | részben elektromos motorral hajtott, N1 járműkategóriájú vagy háromkerekű gépjármű, kivéve a motoros triciklit, díjátalány-fizetéssel |
+
+| 8 | 15 | tisztán elektromos motorral hajtott, díjátalány-fizetéssel |
+
+| 9 | 1980. január 1-jén vagy utána gyártott gépjármű |
+
+| 10 | 20 | nem díjátalány-fizetéssel |
+
+| 11 | 21 | tisztán belső égésű motorral hajtott, díjátalány-fizetéssel |
+
+| 12 | 22 | részben elektromos motorral hajtott, M1 járműkategóriájú, tölthető akkumulátorral, díjátalány-fizetéssel |
+
+| 13 | 23 | részben elektromos motorral hajtott, M1 járműkategóriájú, nem tölthető akkumulátorral, díjátalány-fizetéssel |
+
+| 14 | 24 | részben elektromos motorral hajtott, N1 járműkategóriájú vagy háromkerekű gépjármű, kivéve a motoros triciklit, díjátalány-fizetéssel |
+
+| 15 | 25 | tisztán elektromos motorral hajtott, díjátalány-fizetéssel |
+
+| 16 | hulladékká vált gépjármű |
+
+| 17 | 99 | hulladékká vált gépjármű |
 
 2.4.6. Gumiabroncs és hulladéka
 
@@ -642,29 +664,21 @@ kivéve: a reklámhordozó papírnak minősülő termékeket, az üzleti könyv,
 
 2.5. A KF kód 7. karaktere: Termék esetén kötelezettséget, hulladék esetén hulladékkezelést jelölő kód
 
-2.5.1.[^54] Kötelezettségteljesítési kód
+2.5.1.[^57] Kötelezettségteljesítési kód
 
 |  | A | B |
 
-| 1. | Kód | Megnevezés |
+| 1 | Kód | Megnevezés |
 
-| 2. | 1 | kollektív teljesítés |
+| 2 | 1 | kollektív teljesítés |
 
-| 3. | 2 | egyéni teljesítés |
+| 3 | 2 | egyéni teljesítés |
 
-| 4. | 3 | díjátalány-fizetés, kizárólag belső égésű motorral hajtott gépjármű |
+| 4 | A | a kiterjesztett gyártói felelősségi díj nem került megfizetésre (22. § szerint) |
 
-| 5. | 4 | díjátalány-fizetés, részben elektromos motorral hajtott gépjármű, tölthető akkumulátorral |
+| 5 | B | a kiterjesztett gyártói felelősségi díj nem került megfizetésre (22/A. § szerint) |
 
-| 6. | 5 | díjátalány-fizetés, részben elektromos motorral hajtott gépjármű, nem tölthető akkumulátorral |
-
-| 7. | 6 | díjátalány-fizetés, kizárólag elektromos motorral hajtott gépjármű |
-
-| 8. | A | a kiterjesztett gyártói felelősségi díj nem került megfizetésre (22. § szerint) |
-
-| 9. | B | a kiterjesztett gyártói felelősségi díj nem került megfizetésre (22/A. § szerint) |
-
-| 10. | C | a kiterjesztett gyártói felelősségi díj nem került megfizetésre (22/C. § szerint) |
+| 6 | C | a kiterjesztett gyártói felelősségi díj nem került megfizetésre (22/C. § szerint) |
 
 2.5.2. Újrahasználat és hulladékkezelési kód
 
@@ -716,9 +730,9 @@ kivéve: a reklámhordozó papírnak minősülő termékeket, az üzleti könyv,
 
 | 13. | X | EU-n kívül újrahasznált/kezelt |
 
-[^49]: Az 1. melléklet 2.2. pontjában foglalt táblázat 3. sora a 276/2023. (VI. 29.) Korm. rendelet 69. § (1) bekezdés a) pontjával megállapított szöveg.
-[^50]: Az 1. melléklet 2.3.3. pontja a 276/2023. (VI. 29.) Korm. rendelet 69. § (1) bekezdés a) pontjával megállapított szöveg.
-[^51]: Az 1. melléklet 2.4.1. pontja a 276/2023. (VI. 29.) Korm. rendelet 69. § (1) bekezdés a) pontjával megállapított szöveg.
-[^52]: Az 1. melléklet 2.4.4. pontja a 276/2023. (VI. 29.) Korm. rendelet 69. § (1) bekezdés a) pontjával megállapított szöveg.
-[^53]: Az 1. melléklet 2.4.5. pontja a 276/2023. (VI. 29.) Korm. rendelet 69. § (1) bekezdés a) pontjával megállapított szöveg.
-[^54]: Az 1. melléklet 2.5.1. pontja a 276/2023. (VI. 29.) Korm. rendelet 69. § (1) bekezdés a) pontjával megállapított szöveg.
+[^52]: Az 1. melléklet 2.2. pontjában foglalt táblázat 3. sora a 276/2023. (VI. 29.) Korm. rendelet 69. § (1) bekezdés a) pontjával megállapított szöveg.
+[^53]: Az 1. melléklet 2.3.3. pontja a 276/2023. (VI. 29.) Korm. rendelet 69. § (1) bekezdés a) pontjával megállapított szöveg.
+[^54]: Az 1. melléklet 2.4.1. pontja a 276/2023. (VI. 29.) Korm. rendelet 69. § (1) bekezdés a) pontjával megállapított szöveg.
+[^55]: Az 1. melléklet 2.4.4. pontja a 276/2023. (VI. 29.) Korm. rendelet 69. § (1) bekezdés a) pontjával megállapított szöveg.
+[^56]: Az 1. melléklet 2.4.5. pontja a 435/2023. (IX. 21.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^57]: Az 1. melléklet 2.5.1. pontja a 435/2023. (IX. 21.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.

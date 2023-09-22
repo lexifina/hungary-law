@@ -26,4 +26,6 @@
 
 7. az egyes műanyagtermékek környezetre gyakorolt hatásának csökkentéséről szóló 349/2021. (VI. 22.) Korm. rendeletben
 
+(a 2–7. pont a továbbiakban együtt: termékárami kormányrendeletek) meghatározottak szerint kell értelmezni.
+
 [^2]: A 2. § (1) bekezdése a 421/2023. (VIII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.

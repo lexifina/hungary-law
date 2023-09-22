@@ -2,101 +2,191 @@
 
 A körforgásos termékek díjkódjai
 
-1. Csomagolás díjkódok
+1.[^58] Csomagolás díjkódok
 
 |  | A | B | C | D | E | F | G |
 
-| 1. | KF kód 1–4. karakter | Anyagáram | KF kód 1–6. karakter | Díjkód |
+| 1 | KF kód 1–4. karakter | Anyagáram | KF kód 1–6. karakter | Díjkód |
 
-| 2. | 1101 | polietilén-tereftalát (PET) | 110110 | 110120 | 110140 | 110150 | M01 |
+| 2 | 1101 | polietilén-tereftalát (PET) | 110110 | 110120 | 110140 | 110150 | M01 |
 
-| 3. | 1102 | nagysűrűségű polietilén (HDPE) | 110210 | 110220 | 110240 | 110250 | M01 |
+| 3 |  |  | 110111 | 110141 |  |  | M01 |
 
-| 4. | 1103 | poli(vinil-klorid) (PVC) | 110310 | 110320 | 110340 | 110350 | M01 |
+| 4 | 1102 | nagysűrűségű polietilén (HDPE) | 110210 | 110220 | 110240 | 110250 | M01 |
 
-| 5. | 1104 | kissűrűségű polietilén (LDPE) | 110410 | 110420 | 110440 | 110450 | M01 |
+| 5 |  |  | 110211 | 110241 |  |  | M01 |
 
-| 6. | 1105 | polipropilén (PP) | 110510 | 110520 | 110540 | 110550 | M01 |
+| 6 | 1103 | poli(vinil-klorid) (PVC) | 110310 | 110320 | 110340 | 110350 | M01 |
 
-| 7. | 1106 | polisztirol (PS) | 110610 | 110620 | 110640 | 110650 | M01 |
+| 7 |  |  | 110311 | 110341 |  |  | M01 |
 
-| 8. | 1107 | poliamid (PA) | 110710 | 110720 | 110740 | 110750 | M01 |
+| 8 | 1104 | kissűrűségű polietilén (LDPE) | 110410 | 110420 | 110440 | 110450 | M01 |
 
-| 9. | 1108 | poliuretán (PU) | 110810 | 110820 | 110840 | 110850 | M01 |
+| 9 |  |  | 110411 | 110441 |  |  | M01 |
 
-| 10. | 1109 | polivinil alkohol | 110910 | 110920 | 110940 | 110950 | M01 |
+| 10 | 1105 | polipropilén (PP) | 110510 | 110520 | 110540 | 110550 | M01 |
 
-| 11. | 1117 | biológiailag lebomló műanyag | 111710 | 111720 | 111740 | 111750 | M01 |
+| 11 |  |  | 110511 | 110541 |  |  | M01 |
 
-| 12. | 1119 | más műanyag (műanyag/műanyag) | 111910 | 111920 | 111940 | 111950 | M01 |
+| 12 | 1106 | polisztirol (PS) | 110610 | 110620 | 110640 | 110650 | M01 |
 
-| 13. | 1120 | hullámpapírlemez (PAP) | 112010 | 112020 | 112040 | 112050 | P01 |
+| 13 |  |  | 110611 | 110641 |  |  | M01 |
 
-| 14. | 1121 | nem hullámpapírlemez jellegű karton (PAP) | 112110 | 112120 | 112140 | 112150 | P01 |
+| 14 | 1107 | poliamid (PA) | 110710 | 110720 | 110740 | 110750 | M01 |
 
-| 15. | 1122 | papír (PAP) | 112210 | 112220 | 112140 | 112150 | P01 |
+| 15 |  |  | 110711 | 110741 |  |  | M01 |
 
-| 16.[^55] | 1129 | más papír | 112910 | 112920 | 112940 | 112950 | P01 |
+| 16 | 1108 | poliuretán (PU) | 110810 | 110820 | 110840 | 110850 | M01 |
 
-| 17. | 1140 | vas, acél (FE) | 114010 | 114020 | 114040 | 114050 | V01 |
+| 17 |  |  | 110811 | 110841 |  |  | M01 |
 
-| 18. | 1141 | alumínium (ALU) | 114110 | 114120 | 114140 | 114150 | V01 |
+| 18 | 1109 | polivinil alkohol | 110910 | 110920 | 110940 | 110950 | M01 |
 
-| 19. | 1149 | más fém | 114910 | 114920 | 114940 | 114950 | V01 |
+| 19 |  |  | 110911 | 110941 |  |  | M01 |
 
-| 20. | 1150 | fa (FOR) | 115010 | 115020 | 115040 | 115050 | F01 |
+| 20 | 1117 | biológiailag lebomló műanyag | 111710 | 111720 | 111740 | 111750 | M01 |
 
-| 21. | 1151 | parafa (FOR) | 115110 | 115120 | 115140 | 115150 | F01 |
+| 21 |  |  | 111711 | 111741 |  |  | M01 |
 
-| 22. | 1159 | más fa | 115910 | 115920 | 115940 | 115950 | F01 |
+| 22 | 1119 | más műanyag (műanyag/műanyag) | 111910 | 111920 | 111940 | 111950 | M01 |
 
-| 23. | 1160 | gyapot (TEX) | 116010 | 116020 | 116040 | 116050 | C01 |
+| 23 |  |  | 111911 | 111941 |  |  | M01 |
 
-| 24. | 1161 | juta, kender (TEX) | 116110 | 116120 | 116140 | 116150 | C01 |
+| 24 | 1120 | hullámpapírlemez (PAP) | 112010 | 112020 | 112040 | 112050 | P01 |
 
-| 25. | 1169 | más természetes alapú anyag | 116910 | 116920 | 116940 | 116950 | C01 |
+| 25 |  |  | 112011 | 112041 |  |  | P01 |
 
-| 26. | 1170 | színtelen üveg (GL) | 117010 | 117020 | 117040 | 117050 | U01 |
+| 26 | 1121 | nem hullámpapírlemez jellegű karton (PAP) | 112110 | 112120 | 112140 | 112150 | P01 |
 
-| 27. | 1171 | zöld üveg (GL) | 117110 | 117120 | 117140 | 117150 | U01 |
+| 27 |  |  | 112111 | 112141 |  |  | P01 |
 
-| 28. | 1172 | barna üveg (GL) | 117210 | 117220 | 117240 | 117250 | U01 |
+| 28 | 1122 | papír (PAP) | 112210 | 112220 | 112140 | 112150 | P01 |
 
-| 29. | 1179 | más üveg | 117910 | 117920 | 117940 | 117950 | U01 |
+| 29 |  |  | 112211 | 112241 |  |  | P01 |
 
-| 30. | 1180 | társított: papír és karton/különböző fémek | 118010 | 118020 | 118040 | 118050 | K01 |
+| 30 | 1129 | más papír | 112910 | 112920 | 112940 | 112950 | P01 |
 
-| 31. | 1181 | társított: papír és karton/műanyag, ideértve az abból készült rétegzett italkartont is | 118110 | 118120 | 118140 | 118150 | K01 |
+| 31 |  |  | 112911 | 112941 |  |  | P01 |
 
-| 32. | 1182 | társított: papír és karton/alumínium | 118210 | 118220 | 118240 | 118250 | K01 |
+| 32 | 1140 | vas, acél (FE) | 114010 | 114020 | 114040 | 114050 | V01 |
 
-| 33. | 1183 | társított: papír és karton/ónozott lemez | 118310 | 118320 | 118340 | 118350 | K01 |
+| 33 |  |  | 114011 | 114041 |  |  | V01 |
 
-| 34. | 1184 | társított: papír és karton/műanyag/alumínium, ideértve az abból készült rétegzett italkartont is | 118410 | 118420 | 118440 | 118450 | K01 |
+| 34 | 1141 | alumínium (ALU) | 114110 | 114120 | 114140 | 114150 | V01 |
 
-| 35. | 1185 | társított: papír és karton/műanyag/alumínium/ónozott lemez | 118510 | 118520 | 118540 | 118550 | K01 |
+| 35 |  |  | 114111 | 114141 |  |  | V01 |
 
-| 36. | 1186 | társított: papír és karton/más | 118610 | 118620 | 118640 | 118650 | K01 |
+| 36 | 1149 | más fém | 114910 | 114920 | 114940 | 114950 | V01 |
 
-| 37. | 1190 | társított: műanyag/alumínium | 119010 | 119020 | 119040 | 119050 | K01 |
+| 37 |  |  | 114911 | 114941 |  |  | V01 |
 
-| 38. | 1191 | társított: műanyag/ónozott lemez | 119110 | 119120 | 119140 | 119150 | K01 |
+| 38 | 1150 | fa (FOR) | 115010 | 115020 | 115040 | 115050 | F01 |
 
-| 39. | 1192 | társított: műanyag/különböző fémek | 119210 | 119220 | 119240 | 119250 | K01 |
+| 39 |  |  | 115011 | 115041 |  |  | F01 |
 
-| 40. | 1193 | társított: műanyag/más | 119310 | 119320 | 119340 | 119350 | K01 |
+| 40 | 1151 | parafa (FOR) | 115110 | 115120 | 115140 | 115150 | F01 |
 
-| 41. | 1194 | társított: egyéb anyag/egyéb anyag | 119410 | 119420 | 119440 | 119450 | K01 |
+| 41 |  |  | 115111 | 115141 |  |  | F01 |
 
-| 42. | 1195 | társított: üveg/műanyag | 119510 | 119520 | 119540 | 119550 | K01 |
+| 42 | 1159 | más fa | 115910 | 115920 | 115940 | 115950 | F01 |
 
-| 43. | 1196 | társított: üveg/alumínium | 119610 | 119620 | 119640 | 119650 | K01 |
+| 43 |  |  | 115911 | 115941 |  |  | F01 |
 
-| 44. | 1197 | társított: üveg/ónozott lemez | 119710 | 119720 | 119740 | 119750 | K01 |
+| 44 | 1160 | gyapot (TEX) | 116010 | 116020 | 116040 | 116050 | C01 |
 
-| 45. | 1198 | társított: üveg/különböző fémek | 119810 | 119820 | 119840 | 119850 | K01 |
+| 45 |  |  | 116011 | 116041 |  |  | C01 |
 
-| 46. | 1199 | egyéb anyag | 119910 | 119920 | 119940 | 119950 | X01 |
+| 46 | 1161 | juta, kender (TEX) | 116110 | 116120 | 116140 | 116150 | C01 |
+
+| 47 |  |  | 116111 | 116141 |  |  | C01 |
+
+| 48 | 1169 | más természetes alapú anyag | 116910 | 116920 | 116940 | 116950 | C01 |
+
+| 49 |  |  | 116911 | 116941 |  |  | C01 |
+
+| 50 | 1170 | színtelen üveg (GL) | 117010 | 117020 | 117040 | 117050 | U01 |
+
+| 51 |  |  | 117011 | 117041 |  |  | U01 |
+
+| 52 | 1171 | zöld üveg (GL) | 117110 | 117120 | 117140 | 117150 | U01 |
+
+| 53 |  |  | 117111 | 117141 |  |  | U01 |
+
+| 54 | 1172 | barna üveg (GL) | 117210 | 117220 | 117240 | 117250 | U01 |
+
+| 55 |  |  | 117211 | 117241 |  |  | U01 |
+
+| 56 | 1179 | más üveg | 117910 | 117920 | 117940 | 117950 | U01 |
+
+| 57 |  |  | 117911 | 117941 |  |  | U01 |
+
+| 58 | 1180 | társított: papír és karton / különböző fémek | 118010 | 118020 | 118040 | 118050 | K01 |
+
+| 59 |  |  | 118011 | 118041 |  |  | K01 |
+
+| 60 | 1181 | társított: papír és karton / műanyag, ideértve az abból készült rétegzett italkartont is | 118110 | 118120 | 118140 | 118150 | K01 |
+
+| 61 |  |  | 118111 | 118141 |  |  | K01 |
+
+| 62 | 1182 | társított: papír és karton / alumínium | 118210 | 118220 | 118240 | 118250 | K01 |
+
+| 63 |  |  | 118211 | 118241 |  |  | K01 |
+
+| 64 | 1183 | társított: papír és karton / ónozott lemez | 118310 | 118320 | 118340 | 118350 | K01 |
+
+| 65 |  |  | 118311 | 118341 |  |  | K01 |
+
+| 66 | 1184 | társított: papír és karton / műanyag / alumínium, ideértve az abból készült rétegzett italkartont is | 118410 | 118420 | 118440 | 118450 | K01 |
+
+| 67 |  |  | 118411 | 118441 |  |  | K01 |
+
+| 68 | 1185 | társított: papír és karton / műanyag / alumínium / ónozott lemez | 118510 | 118520 | 118540 | 118550 | K01 |
+
+| 69 |  |  | 118511 | 118541 |  |  | K01 |
+
+| 70 | 1186 | társított: papír és karton / más | 118610 | 118620 | 118640 | 118650 | K01 |
+
+| 71 |  |  | 118611 | 118641 |  |  | K01 |
+
+| 72 | 1190 | társított: műanyag/alumínium | 119010 | 119020 | 119040 | 119050 | K01 |
+
+| 73 |  |  | 119011 | 119041 |  |  | K01 |
+
+| 74 | 1191 | társított: műanyag / ónozott lemez | 119110 | 119120 | 119140 | 119150 | K01 |
+
+| 75 |  |  | 119111 | 119141 |  |  | K01 |
+
+| 76 | 1192 | társított: műanyag / különböző fémek | 119210 | 119220 | 119240 | 119250 | K01 |
+
+| 77 |  |  | 119211 | 119241 |  |  | K01 |
+
+| 78 | 1193 | társított: műanyag/más | 119310 | 119320 | 119340 | 119350 | K01 |
+
+| 79 |  |  | 119311 | 119341 |  |  | K01 |
+
+| 80 | 1194 | társított: egyéb anyag / egyéb anyag | 119410 | 119420 | 119440 | 119450 | K01 |
+
+| 81 |  |  | 119411 | 119441 |  |  | K01 |
+
+| 82 | 1195 | társított: üveg/műanyag | 119510 | 119520 | 119540 | 119550 | K01 |
+
+| 83 |  |  | 119511 | 119541 |  |  | K01 |
+
+| 84 | 1196 | társított: üveg/alumínium | 119610 | 119620 | 119640 | 119650 | K01 |
+
+| 85 |  |  | 119611 | 119641 |  |  | K01 |
+
+| 86 | 1197 | társított: üveg / ónozott lemez | 119710 | 119720 | 119740 | 119750 | K01 |
+
+| 87 |  |  | 119711 | 119741 |  |  | K01 |
+
+| 88 | 1198 | társított: üveg / különböző fémek | 119810 | 119820 | 119840 | 119850 | K01 |
+
+| 89 |  |  | 119811 | 119841 |  |  | K01 |
+
+| 90 | 1199 | egyéb anyag | 119910 | 119920 | 119940 | 119950 | X01 |
+
+| 91 |  |  | 119911 | 119941 |  |  | X01 |
 
 2. Egyszer használatos műanyagtermék díjkódok
 
@@ -186,7 +276,7 @@ A körforgásos termékek díjkódjai
 
 | 12. | 1360 | kisméretű számítástechnikai és távközlési berendezés (amelynek egyik külső mérete sem haladja meg az 50 cm-t) | 136010 | 136020 | E06 |
 
-4.[^56] Elem és akkumulátor díjkódok
+4.[^59] Elem és akkumulátor díjkódok
 
 |  | A | B | C | D | E | F | G |
 
@@ -198,33 +288,17 @@ A körforgásos termékek díjkódjai
 
 | 4. | 1450 | gépjármű elem, akkumulátor | 145010 | 145020 | 145030 | 145040 | A03 |
 
-5.[^57] Gépjármű díjkódok
+5.[^60] Gépjármű díjkódok
 
 |  | A | B | C | D | E |
 
-| 1. | KF kód 1–4. karakter | Anyagáram | KF kód 1–6. karakter | Díjkód |
+| 1 | KF kód 1–4. karakter | Anyagáram | KF kód 1–6. karakter | Díjkód |
 
-| 2. | 1510 | M1 járműkategória | 151010 | 151020 | J01 |
+| 2 | 1510 | M1 járműkategória | 151010 | 151020 | J01 |
 
-| 3. |  |  | 151011 | 151021 | J02 |
+| 3 | 1520 | N1 járműkategória | 152010 | 152020 | J01 |
 
-| 4. |  |  | 151012 | 151022 | J03 |
-
-| 5. |  |  | 151013 | 151023 | J04 |
-
-| 6. |  |  | 151014 | 151024 | J05 |
-
-| 7. | 1520 | N1 járműkategória | 152010 | 152020 | J01 |
-
-| 8. |  |  | 152011 | 152021 | J02 |
-
-| 9. |  |  | 152012 | 152022 | J03 |
-
-| 10. |  |  | 152013 | 152023 | J04 |
-
-| 11. |  |  | 152014 | 152024 | J05 |
-
-| 12. | 1530 | háromkerekű gépjármű, kivéve motoros tricikli | 153010 | 153020 | J01 |
+| 4 | 1530 | háromkerekű gépjármű, kivéve a motoros triciklit | 153010 | 153020 | J01 |
 
 6. Gumiabroncs díjkódok
 
@@ -262,17 +336,17 @@ A körforgásos termékek díjkódjai
 
 | 2. | 1910 | sütőolaj és -zsír | 191010 | 192020 | Z01 |
 
-10. Textil díjkódok
+10.[^61] Textil díjkódok
 
 |  | A | B | C | D | E |
 
-| 1. | KF kód 1–4. karakter | Anyagáram | KF kód 1–6. karakter | Díjkód |
+| 1 | KF kód 1–4. karakter | Anyagáram | KF kód 1–6. karakter | Díjkód |
 
-| 2. | 2010 | ruházati árucikkek, kellékek és tartozékok | 201010 | 201020 | T01 |
+| 2 | 2011 | ruházati árucikkek, kellékek és tartozékok | 201110 | 201120 | T01 |
 
-| 3. | 2020 | lakástextília | 202010 | 202020 | T01 |
+| 3 | 2021 | lakástextília | 202110 | 202120 | T01 |
 
-| 4. | 2030 | lábbeli, lábszárvédő és hasonló áru (kivéve: lábbelirész) | 203010 | 203020 | T01 |
+| 4 | 2031 | lábbeli, lábszárvédő és hasonló áru (kivéve: lábbelirész) | 203110 | 203120 | T01 |
 
 11. Bútor fából díjkód
 
@@ -282,6 +356,7 @@ A körforgásos termékek díjkódjai
 
 | 2. | 2100 | bútor fából | 210000 | B01 |
 
-[^55]: A 2. melléklet 1. pontjában foglalt táblázat 16. sora a 276/2023. (VI. 29.) Korm. rendelet 69. § (1) bekezdés b) pontjával megállapított szöveg.
-[^56]: A 2. melléklet 4. pontja a 276/2023. (VI. 29.) Korm. rendelet 69. § (1) bekezdés b) pontjával megállapított szöveg.
-[^57]: A 2. melléklet 5. pontja a 276/2023. (VI. 29.) Korm. rendelet 69. § (1) bekezdés b) pontjával megállapított szöveg.
+[^58]: A 2. melléklet 1. pontja a 435/2023. (IX. 21.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg. [A 2. melléklet 1. pontjában foglalt táblázat E:15 és F:15 mezőjében a 435/2023. (IX. 21.) Korm. rendelet 2. melléklet 4. pontjával elrendelt módosítás nem vezethető át.]
+[^59]: A 2. melléklet 4. pontja a 276/2023. (VI. 29.) Korm. rendelet 69. § (1) bekezdés b) pontjával megállapított szöveg.
+[^60]: A 2. melléklet 5. pontja a 435/2023. (IX. 21.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^61]: A 2. melléklet 10. pontja a 435/2023. (IX. 21.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
