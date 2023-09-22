@@ -1,0 +1,3 @@
+5. § Az R1 26/A. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Az (1) bekezdés szerinti esetben a körforgásos termék készletre vétele a 16. § (1) bekezdésének alkalmazása szempontjából forgalomba hozatalnak minősül. A gyártó által fizetendő kiterjesztett gyártói felelősségi díj mértékének 20. § és 20/A. § szerinti meghatározása során a gyártó által forgalomba hozott, a tárgynegyedévre vonatkozó adatszolgáltatásában szereplő körforgásos termék mennyiség helyett a tárgynegyedévre vonatkozó adatszolgáltatásában szereplő, készletre vett körforgásos termék mennyiség veendő figyelembe.”
