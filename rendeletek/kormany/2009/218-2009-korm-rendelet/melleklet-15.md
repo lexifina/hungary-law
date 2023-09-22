@@ -2,7 +2,7 @@
 
 | 1. | Térségi övezetek | A kiemelt térségi és a vármegyei területrendezési terv készítése vagy módosítása során előzetes adatszolgáltatásra kötelezett államigazgatási szervek | A vármegyei területrendezési terv hatálya alá tartozó település településrendezési tervének készítése vagy módosítása során előzetes adatszolgáltatásra kötelezett államigazgatási szervek |
 
-| 2. | 1. A Magyarország és kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény szerinti országos övezetek | a) ökológiai hálózat magterületének övezete | természetvédelemért felelős miniszter | nemzeti park igazgatóság |
+| 2. | 1. A Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény szerinti országos övezetek | a) ökológiai hálózat magterületének övezete | természetvédelemért felelős miniszter | nemzeti park igazgatóság |
 
 | 3. | b) ökológiai hálózat ökológiai folyosójának övezete | természetvédelemért felelős miniszter | nemzeti park igazgatóság |
 
@@ -28,13 +28,15 @@
 
 | 14. | m) honvédelmi és katonai célú terület övezete | honvédelemért felelős miniszter | honvédelemért felelős miniszter |
 
-| 15. | 2. A Magyarország és kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény szerinti Budapesti Agglomeráció kiemelt térségi övezetei és vármegyei övezetek | a) ásványi nyersanyagvagyon övezete | bányafelügyelet | bányafelügyelet |
+| 14a. | A Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény szerinti egyedileg meghatározott vármegyei övezetek |  |  | vármegyei önkormányzat |
 
-| 16. | b) rendszeresen belvízjárta terület övezete | területi vízügyi igazgatóság | területi vízügyi igazgatóság |
+| 15. | 2. A Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény szerinti Budapesti Agglomeráció kiemelt térségi övezetei és vármegyei övezetek | a) ásványi nyersanyagvagyon övezete | bányafelügyelet |  |
 
-| 17. | c) földtani veszélyforrás terület övezete | bányafelügyelet | bányafelügyelet |
+| 16. | b) rendszeresen belvízjárta terület övezete | területi vízügyi igazgatóság |  |
 
-| 18. | 3. A Magyarország és kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény szerinti Balaton Kiemelt Üdülőkörzet kiemelt térségi övezetei | a) ásványi nyersanyagvagyon övezete | bányafelügyelet |  |
+| 17. | c) földtani veszélyforrás terület övezete | bányafelügyelet |  |
+
+| 18. | 3. A Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény szerinti Balaton Kiemelt Üdülőkörzet kiemelt térségi övezetei | a) ásványi nyersanyagvagyon övezete | bányafelügyelet |  |
 
 | 19. | b) rendszeresen belvízjárta terület övezete | területi vízügyi igazgatóság |  |
 
@@ -50,4 +52,4 @@
 
 A Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvény 1/2. mellékletében felsorolt, a Balaton Kiemelt Üdülőkörzethez tartozó település településrendezési tervének készítése vagy módosítása során előzetes adatszolgáltatásra kötelezett államigazgatási szervek
 
-[^168]: A 15. mellékletet a 121/2019. (V. 27.) Korm. rendelet 17. § (4) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 76. § c) pontja, a 30/2020. (II. 28.) Korm. rendelet 13. § c)–d) pontja, a 420/2021. (VII. 15.) Korm. rendelet 52. § d) pontja, a 825/2021. (XXII. 28.) Korm. rendelet 22. § c) pontja, a 616/2022. (XII. 29.) Korm. rendelet 104. § d) pontja szerint módosított szöveg.
+[^168]: A 15. mellékletet a 121/2019. (V. 27.) Korm. rendelet 17. § (4) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 76. § c) pontja, a 30/2020. (II. 28.) Korm. rendelet 13. § c)–d) pontja, a 420/2021. (VII. 15.) Korm. rendelet 52. § d) pontja, a 825/2021. (XXII. 28.) Korm. rendelet 22. § c) pontja, a 616/2022. (XII. 29.) Korm. rendelet 104. § d) pontja, a 433/2023. (IX. 21.) Korm. rendelet 1. § b) pontja és 2. § b) pontja szerint módosított szöveg.
