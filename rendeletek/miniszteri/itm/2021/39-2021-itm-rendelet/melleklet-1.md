@@ -1,5 +1,3 @@
-## 4. §[^1]
-
 1. melléklet a 39/2021. (VII. 30.) ITM rendelethez
 
 Az ADR Szabályzat belföldi alkalmazásához szükséges részletes szabályok és kiegészítések
@@ -42,7 +40,7 @@ c) az oktatást végző veszélyes áru szállítási biztonsági tanácsadó ne
 
 d) az oktatás helye, időpontja.
 
-9.2. A munkáltató az oktatásban részt vevő részére igazolást állít ki. Az igazolást a jármű személyzetének a szállítás ideje alatt magánál kell tartania, és a hatóság kérésére ellenőrzéskor be kell mutatnia. Ha a munkáltató maga végzi a veszélyes áru szállítással kapcsolatos tevékenységet, az igazolás céljára az oktatásra vonatkozó irat használható. Több telephely esetén az egy-egy telephely vonatkozásában készült, oktatással kapcsolatos iratok eredeti vagy a munkáltató által hitelesített másolatát az adott telephelyen kell tárolni, vagy elektronikusan elérhetővé kell tenni a telephely számára.
+9.2.[^3] A munkáltató maga vagy a munkáltató által megbízott – az oktatást tartó veszélyes áru szállítási biztonsági tanácsadó aláírásával – az oktatásban részt vevő részére igazolást állít ki. Az igazolást a jármű személyzetének a szállítás ideje alatt magánál kell tartania, és a hatóság kérésére ellenőrzéskor be kell mutatnia. Ha a munkáltató maga végzi a veszélyes áru szállítással kapcsolatos tevékenységet, az igazolás céljára az oktatásra vonatkozó irat használható. Több telephely esetén az egy-egy telephely vonatkozásában készült, oktatással kapcsolatos iratok eredeti vagy a munkáltató által hitelesített másolatát az adott telephelyen kell tárolni, vagy elektronikusan elérhetővé kell tenni a telephely számára.
 
 9.3. Az oktatásra vonatkozó iratokat a munkáltatónak öt évig, de legalább a munkakör betöltésének megszűnését követő két évig meg kell őriznie.
 
@@ -50,7 +48,7 @@ d) az oktatás helye, időpontja.
 
 11. Az ADR Szabályzat 1.6.3.1 bekezdés alkalmazása során az 1978. október 1-je előtt gyártott tartányok és battériás járművek 1995. szeptember 1-je után időszakos vizsgálatnak nem vethetők alá, kivéve, ha a tartány kielégíti az ADR Szabályzat 1.6.3.1 bekezdésének feltételeit.
 
-12.[^2] Az ADR Szabályzat 1.7.2 szakasza szerinti sugárvédelmi programnak meg kell felelnie a radioaktív anyagok szállításáról, fuvarozásáról és csomagolásáról szóló 51/2013. (IX. 6.) NFM rendeletben és az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló OAH rendeletben foglalt követelményeknek. A sugárvédelmi program alkalmazásához az Országos Atomenergia Hivatal nukleáris energiával kapcsolatos európai uniós, valamint nemzetközi kötelezettségekkel összefüggő feladatköréről, az Országos Atomenergia Hivatal hatósági eljárásaiban közreműködő szakhatóságok kijelöléséről, a kiszabható bírság mértékéről, valamint az Országos Atomenergia Hivatal munkáját segítő tudományos tanácsról szóló 112/2011. (VII. 4.) Korm. rendelet szerinti engedély szükséges.
+12.[^4] Az ADR Szabályzat 1.7.2 szakasza szerinti sugárvédelmi programnak meg kell felelnie a radioaktív anyagok szállításáról, fuvarozásáról és csomagolásáról szóló 51/2013. (IX. 6.) NFM rendeletben és az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló OAH rendeletben foglalt követelményeknek. A sugárvédelmi program alkalmazásához az Országos Atomenergia Hivatal nukleáris energiával kapcsolatos európai uniós, valamint nemzetközi kötelezettségekkel összefüggő feladatköréről, az Országos Atomenergia Hivatal hatósági eljárásaiban közreműködő szakhatóságok kijelöléséről, a kiszabható bírság mértékéről, valamint az Országos Atomenergia Hivatal munkáját segítő tudományos tanácsról szóló 112/2011. (VII. 4.) Korm. rendelet szerinti engedély szükséges.
 
 13. Az ADR Szabályzat 1.10.3.2 bekezdése szerinti közbiztonsági tervnek a 7 osztályba tartozó anyagok szállítása esetén meg kell felelnie az atomenergia alkalmazása körében a fizikai védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 190/2011. (IX. 19.) Korm. rendeletben (a továbbiakban: Fvr.) foglalt követelményeknek, és a szállításhoz az Fvr. 32. § (1) bekezdés c) pontja szerinti engedély szükséges.
 
@@ -84,13 +82,17 @@ c) az árut csak a helyi elosztóhelyek és a kiskereskedők vagy a felhasznál�
 
 21. Az ADR Szabályzat fuvarokmány tartalmára vonatkozó 5.4.1.1.1 és 5.4.1.1.6 pontjának előírásait nem kell alkalmazni az ADR Szabályzat 1.1.3.6 bekezdése szerinti mennyiséget meg nem haladó veszélyes áru saját számlás szállítására, ha a küldeménydarab jelöléséből vagy a saját számlás menetlevél tartalmából megállapítható a szállított veszélyes árura vonatkozó ADR Szabályzat 1.1.3.6 bekezdése szerinti mennyiségi határ. Nem alkalmazható ez a könnyítés a 7 osztály anyagainak szállítása esetén.
 
-22. Az ADR Szabályzat 8.1.5 szakasza alkalmazásában az EN 14387:2004 + A1:2008 szabvány az MSZ EN 14387:2004 + A1:2008 „Légzésvédők. Gázszűrő(k) és kombinált szűrő(k). Követelmények, vizsgálat, megjelölés” című szabványt jelenti.
+21a.[^5] Az ADR Szabályzat 5.4.3.4 bekezdése a következő mondattal egészül ki:
+
+„A nyomtatott írásbeli utasításnak legalább négy A4 méretű oldalból kell állnia, és a mintának megfelelő, színes kivitelűnek kell lennie.”
+
+22.[^6] Az ADR Szabályzat 8.1.5 szakasza alkalmazásában az EN 14387:2004 + A1:2008 szabvány az MSZ EN 14387:2004 + A1:2008 „Légzésvédők. Gázszűrő(k) és kombinált szűrő(k). Követelmények, vizsgálat, megjelölés” című szabványt, valamint az EN 14387:2021 és MSZ EN 14387:2021 „Légzésvédők. Gázszűrő(k) és kombinált szűrő(k). Követelmények, vizsgálat, megjelölés” című utódszabványaikat jelenti.
 
 23. Az ADR Szabályzat 7.3.3 szakasz VC3 különleges előírását az UN 3291 tétel alá tartozó hulladékok ömlesztett szállítására a következők szerint kell alkalmazni
 
 a) a „különlegesen felszerelt jármű, illetve konténer” az ADR értelmében vett fedett járművet vagy zárt konténert jelent, melynek kialakítása, valamint állapota olyan, hogy normális szállítási körülmények között megakadályozza mind a szilárd, mind a folyékony rakomány szabadba jutását; a berakáshoz használt csomagolóeszközök biztonságosabb és könnyebb kezelhetősége érdekében a járművön, illetve konténeren belül műanyag tartóeszköz („hulladéktároló”) is elhelyezhető;
 
-b) a hulladékot műanyag zsákokba vagy merevfalú csomagolóeszközökbe helyezve kell a járműbe, illetve a konténerbe rakni, a csomagolóeszköz kialakításának, a hulladék csomagolóeszközbe helyezésének és lezárásának meg kell felelnie az egészségügyi szolgáltatónál képződő hulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló jogszabály[^3] rendelkezéseinek;
+b) a hulladékot műanyag zsákokba vagy merevfalú csomagolóeszközökbe helyezve kell a járműbe, illetve a konténerbe rakni, a csomagolóeszköz kialakításának, a hulladék csomagolóeszközbe helyezésének és lezárásának meg kell felelnie az egészségügyi szolgáltatónál képződő hulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló jogszabály[^7] rendelkezéseinek;
 
 c) a csomagolóeszközöket megfelelően rögzíteni kell, hogy normál szállítási körülmények között ne rongálódhassanak meg;
 
@@ -110,7 +112,13 @@ g) a műanyag tartóeszközöket („hulladéktárolókat”) a járműben, ille
 
 a) a veszélyes áruk közúti szállítására vonatkozó, az oktatni kívánt áruosztályokra érvényes veszélyes áru szállítási biztonsági tanácsadói bizonyítvánnyal rendelkezik, és
 
-b)[^4] a KTI Közlekedéstudományi Intézet Nonprofit Kft. által meghirdetett továbbképzésen igazoltan részt vett, és
+b)[^8] a Magyar Közlekedéstudományi és Logisztikai Intézet Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: KTI) által kétévenként meghirdetett továbbképzésen igazoltan részt vett, és
+
+ba) az új foglalkozásvezető a továbbképzést követő, a 25.2.1 pont szerinti alapvizsgán,
+
+bb) a már elismert foglalkozásvezető a továbbképzést követő, a 25.2.2 pont szerinti ismeret-felújító vizsgán
+
+megfelelt.
 
 25.2. Az ADR foglalkozásvezetői vizsga:
 
@@ -132,11 +140,11 @@ db) legalább 20 óra időtartamú – a közlekedési hatóság részére előz
 
 A vizsga teljesítéséhez egy 20 kérdésből álló feleletválasztós tesztet kell sikeresen megoldani. A vizsga időtartama 20 perc. Az elérhető maximális pontszám 20 pont, melyből a sikeres vizsgához legalább 17 pontot kell elérni.
 
-25.2.3 A foglalkozásvezetők vizsgáját az ADR foglalkozásvezetők továbbképzésének keretében kell megtartani. A sikertelenül vizsgázók részére a közlekedési hatóság a vizsgát követő hat hónapig pótvizsga-lehetőséget biztosít. Aki ez idő alatt nem teljesíti vizsgakötelezettségét, csak a következő továbbképzés keretében tehet vizsgát, amelynek során valamennyi vizsgatárgyból újra kell vizsgáznia.
+25.2.3[^9] A foglalkozásvezetők vizsgáját az ADR foglalkozásvezetők továbbképzésének keretében kell megtartani. A sikertelenül vizsgázók részére a vizsgát követő hat hónapon belül pótvizsga-lehetőséget kell biztosítani. Aki ez idő alatt nem teljesíti vizsgakötelezettségét, csak a következő továbbképzés keretében tehet vizsgát, amelynek során valamennyi vizsgatárgyból újra kell vizsgáznia.
 
-26. Az ADR Szabályzat 8.2.2.3.3 pont a) alpontját a következő kiegészítéssel kell alkalmazni:
+26.[^10] Az ADR Szabályzat 8.2.2.3.3 pont a) alpontját a következő kiegészítéssel kell alkalmazni:
 
-„Legalább négyórás tartányjármű vezetési gyakorlat keretében a járművek menet közbeni viselkedésére, beleértve a rakomány mozgását is;”
+„Legalább négyórás tartányjármű vezetési gyakorlat keretében a járművek menet közbeni viselkedésére, beleértve a rakomány mozgását is. Ez a gyakorlat kiváltható a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának általános szabályairól szóló kormányrendeletnek megfelelő, a járművek és járműszerelvények technikai kezelése, a forgalmi helyzetek és a járművezetési veszélyhelyzetek gyakorlására alkalmas szimulátoron szerzett, igazolt gyakorlattal;”
 
 27. Az ADR Szabályzat 8.2.2.6 bekezdését a következő kiegészítésekkel kell alkalmazni:
 
@@ -268,19 +276,23 @@ c) a gyakorlati vizsgafeladatok végrehajtásához szükséges eszközöket és 
 
 „1. Az 1 osztály anyagai és tárgyai szállításának szakosító vizsgájára az a hallgató bocsátható, aki a nem tartányos szállításra öt évnél nem régebben tett sikeres ADR vizsgát.
 
-2.[^5] A 7 osztály radioaktív anyagai szállításának szakosító vizsgájára az a hallgató bocsátható, aki a nem tartányos szállításra öt évnél nem régebben tett sikeres ADR vizsgát és az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló OAH rendelet szerinti, legalább alapfokozatú sugárvédelmi vagy radiológusi képzettséggel rendelkezik.
+2.[^11] A 7 osztály radioaktív anyagai szállításának szakosító vizsgájára az a hallgató bocsátható, aki a nem tartányos szállításra öt évnél nem régebben tett sikeres ADR vizsgát és az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló OAH rendelet szerinti, legalább alapfokozatú sugárvédelmi vagy radiológusi képzettséggel rendelkezik.
 
 3. Tartányos szakosító vizsgára az a hallgató bocsátható, aki a nem tartányos szállításra öt évnél nem régebben tett sikeres ADR vizsgát, legalább két éve, C kategóriára érvényes vezetői engedéllyel rendelkezik, és a 26. pontban előírt vezetési gyakorlatról szóló igazolását bemutatta.
 
 4. Ismeretfelújító vizsgára az a hallgató bocsátható, aki az adott osztályra és szállítási módra a vizsga időpontjában érvényes ADR oktatási bizonyítvánnyal rendelkezik.”
 
-32.[^6] Az ADR Szabályzat 8.5 fejezetében lévő S12 utasítás a következő kiegészítéssel alkalmazható:
+32.[^12] Az ADR Szabályzat 8.5 fejezetében lévő S12 utasítás a következő kiegészítéssel alkalmazható:
 
 „A járművezetők ezt a képzést az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló OAH rendelet szerinti, legalább alapfokozatú sugárvédelmi képzettség megszerzése után az ADR Szabályzat 8.2.3 szakasza szerinti oktatás során is megkaphatják, ha az oktatást az ADR Szabályzat 7 osztályára érvényes veszélyes áru szállítási biztonsági tanácsadói bizonyítvánnyal rendelkező személy tartja.”
 
-[^1]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. melléklet 12. pontja a 3/2022. (VI. 24.) TIM rendelet 4. §-a szerint módosított szöveg.
-[^3]: Lásd a 12/2017. (VI. 12.) EMMI rendeletet.
-[^4]: Az 1. melléklet 25.1. pont b) alpontja a 9/2022. (VIII. 1.) TIM rendelet 70. §-ával megállapított szöveg.
-[^5]: Az 1. melléklet 31. pont 2. alpontja a 3/2022. (VI. 24.) TIM rendelet 4. §-a szerint módosított szöveg.
-[^6]: Az 1. melléklet 32. pontja a 3/2022. (VI. 24.) TIM rendelet 4. §-a szerint módosított szöveg.
+[^3]: Az 1. melléklet 9.2. pontja a 17/2023. (IX. 21.) ÉKM rendelet 6. §-a szerint módosított szöveg.
+[^4]: Az 1. melléklet 12. pontja a 3/2022. (VI. 24.) TIM rendelet 4. §-a szerint módosított szöveg.
+[^5]: Az 1. melléklet 21a. pontját a 17/2023. (IX. 21.) ÉKM rendelet 6. §-a iktatta be.
+[^6]: Az 1. melléklet 22. pontja a 17/2023. (IX. 21.) ÉKM rendelet 6. §-ával megállapított szöveg.
+[^7]: Lásd a 12/2017. (VI. 12.) EMMI rendeletet.
+[^8]: Az 1. melléklet 25.1. pont b) alpontja a 17/2023. (IX. 21.) ÉKM rendelet 6. §-ával megállapított szöveg.
+[^9]: Az 1. melléklet 25.2.3. pontja a 17/2023. (IX. 21.) ÉKM rendelet 6. §-a szerint módosított szöveg.
+[^10]: Az 1. melléklet 26. pontja a 17/2023. (IX. 21.) ÉKM rendelet 6. §-ával megállapított szöveg.
+[^11]: Az 1. melléklet 31. pont 2. alpontja a 3/2022. (VI. 24.) TIM rendelet 4. §-a szerint módosított szöveg.
+[^12]: Az 1. melléklet 32. pontja a 3/2022. (VI. 24.) TIM rendelet 4. §-a szerint módosított szöveg.
