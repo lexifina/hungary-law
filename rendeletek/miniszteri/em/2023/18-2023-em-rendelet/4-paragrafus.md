@@ -1,0 +1,7 @@
+4. § A Rendelet 9. § (1)–(3) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A pénzeszköz pozitív értéke esetén a Befogadó a pénzeszköz fizetésére kötelezett részére havonta kiállít egy-egy számviteli bizonylatot az adott típusú pénzeszköz pénzeszköz fizetésére kötelezett által fizetendő összegéről, amelyet a pénzeszköz fizetésére kötelezetthez tartozó tárgyhavi tény értékesítési adat és a pénzeszköz tárgyhavi mértékének szorzataként kell kiszámítani.
+
+(2) A Befogadó az adott hónapban a pénzeszköz fizetésére kötelezettet terhelő, a KÁT pénzeszköz, Prémium pénzeszköz és tárolói pénzeszköz összegére vonatkozó számviteli bizonylatát a tárgyhónapot követő hónap 6. munkanapjától a pénzeszköz fizetésére kötelezett részére benyújtja.
+
+(3) A pénzeszköz fizetésére kötelezett és a vele kereskedelmi szabályzat alapján ellátásalapú szerződéssel rendelkező felhasználók, valamint azon villamosenergia-kereskedők és termelői engedélyesek, amelyek a pénzeszköz fizetésére kötelezett mérlegkörébe tartozó felhasználási helyeket látnak el a kereskedelmi szabályzat szerinti ellátásalapú szerződés alapján, továbbá az utóbbi villamosenergia-kereskedők és termelői engedélyesek és az általuk kereskedelmi szabályzat szerinti ellátásalapú szerződés alapján ellátott felhasználók a pénzeszközt egy tételben – a VR. 5. §-a szerinti értékesítés alapján – a pénzeszköznek a Befogadó által a 8. § (1) bekezdés b) pontja szerint közzétett mértékén számolják el.”
