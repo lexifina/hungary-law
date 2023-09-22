@@ -6,7 +6,7 @@ b) az elsődleges mezőgazdasági termeléssel foglalkozó kedvezményezettek es
 
 c) a mezőgazdasági termékek feldolgozásával vagy mezőgazdasági termékek forgalmazásával foglalkozó, az erdészeti ágazatban működő vagy az EUMSz 42. cikkének hatályán kívül eső tevékenységet folytató kedvezményezettek esetében az 500 000 eurónak megfelelő forintösszeget meghaladó támogatásokról, kedvezményezettek esetében az agrár- és erdészeti ágazatban nyújtott állami támogatásokról szóló európai uniós iránymutatás 3.7. pontja szerinti közzététel céljából,
 
-d) az 500 000 eurónak megfelelő forintösszeget meghaladó támogatásokról a 702/2014/EU bizottsági rendelet 9. cikke szerinti közzététel céljából
+d)[^20]
 
 adatot kell szolgáltatni a Támogatásokat Vizsgáló Iroda mint az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére.
 
@@ -29,3 +29,5 @@ f) támogatás formája,
 g) támogatás célja, valamint
 
 h) támogatást nyújtó hatóság megnevezése.
+
+[^20]: A 8. § (1) bekezdés d) pontját a 26/2023. (IX. 21.) MK rendelet 11. § j) pontja hatályon kívül helyezte.

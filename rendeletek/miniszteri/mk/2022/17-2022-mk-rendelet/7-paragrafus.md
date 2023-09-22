@@ -4,9 +4,9 @@
 
 (3) Ha a támogatás nyújtása az uniós állami támogatási szabályok értelmében az Európai Bizottság előzetes jóváhagyásától függ, a támogatás az Európai Bizottság jóváhagyó határozatának meghozatalát követően fizethető ki.
 
-(4) A 16–18. alcím szerinti támogatások esetén az általános forgalmi adó (a továbbiakban: áfa) nem támogatható, kivéve, ha az áfára vonatkozó nemzeti jogszabályok értelmében nem vonható le.
+(4)[^13] Az általános forgalmi adó (a továbbiakban: áfa) nem támogatható, kivéve, ha az az áfára vonatkozó nemzeti jogszabályok értelmében nem igényelhető vissza.
 
-(5) A mezőgazdasági ágazat részére nyújtott állami támogatások ugyanazon elszámolható költségek tekintetében nem halmozhatók az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó vidékfejlesztési támogatásról és az 1698/2005/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1305/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1305/2013/EU európai parlamenti és tanácsi rendelet) 81. cikk (2) bekezdésében és 82. cikkében említett kifizetésekkel, ha az ilyen halmozódás eredményeként a támogatási intenzitás vagy a támogatási összeg meghaladná az agrár- és erdészeti ágazatban nyújtott állami támogatásokról szóló európai uniós iránymutatásban megállapított intenzitást vagy összeget.
+(5)[^14]
 
 (6) Az Atr. 18. § (2) bekezdés a) és c) pontja szerint előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha a támogatás összege
 
@@ -60,18 +60,28 @@ n) az elsődleges mezőgazdasági termeléshez kapcsolódó, mezőgazdasági üz
 
 o) a mezőgazdasági termékek feldolgozásával és a mezőgazdasági termékek forgalmazásával kapcsolatos beruházásokhoz nyújtott támogatás esetén vállalkozásonként és beruházási projektenként meghaladja a 7,5 millió eurónak megfelelő forintösszeget.
 
+(6a)[^15] A széles sávú infrastruktúra kiépítéséhez nyújtott beruházási támogatás esetén az Atr. 18. § (2) bekezdés a) pontja szerint előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha a projekt teljes költsége meghaladja a 100 millió eurónak megfelelő forintösszeget, pénzügyi eszköz formájában odaítélt támogatás esetén pedig, ha a kedvezményezettnek nyújtott teljes finanszírozás névértéke bármely projekt esetén meghaladja a 150 millió eurót.
+
 (7) E rendelet alapján
 
-a) a 651/2014/EU bizottsági rendelet szerinti támogatás esetén – a regionális beruházási támogatás kivételével – 2024. június 30-ig,
+a)[^16] a 651/2014/EU bizottsági rendelet szerinti támogatás esetén – az induló vállalkozásoknak nyújtott támogatás és a széles sávú infrastruktúra kiépítéséhez nyújtott beruházási támogatás kivételével – 2027. június 30-ig,
 
 b) csekély összegű támogatás esetén 2024. június 30-ig,
 
-c) regionális beruházási támogatás esetén 2023. december 31-ig,
+c)[^17] az induló vállalkozásoknak nyújtott támogatás és a széles sávú infrastruktúra kiépítéséhez nyújtott beruházási támogatás esetén 2023. december 31-ig,
 
-d) az agrár- és erdészeti ágazatban nyújtott állami támogatásokról szóló európai uniós iránymutatás szerinti támogatás esetén 2022. december 31-ig,
+d)[^18]
 
-e) az SA.46515 sz. határozat szerinti támogatás esetében – az SA.59053. sz. bizottsági határozat 15. pontjára figyelemmel – 2022. december 31-ig az SA.46515 (2016/N) sz. bizottsági határozat 2.4. pontjában rögzített feltételek mellett,
+e)[^19]
 
 f) mezőgazdasági csekély összegű támogatás esetén 2028. június 30-ig
 
 lehet támogatási döntést hozni.
+
+[^13]: A 7. § (4) bekezdése a 26/2023. (IX. 21.) MK rendelet 2. §-ával megállapított szöveg.
+[^14]: A 7. § (5) bekezdését a 26/2023. (IX. 21.) MK rendelet 11. § h) pontja hatályon kívül helyezte.
+[^15]: A 7. § (6a) bekezdését a 26/2023. (IX. 21.) MK rendelet 3. §-a iktatta be.
+[^16]: A 7. § (7) bekezdés a) pontja a 26/2023. (IX. 21.) MK rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^17]: A 7. § (7) bekezdés c) pontja a 26/2023. (IX. 21.) MK rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^18]: A 7. § (7) bekezdés d) pontját a 26/2023. (IX. 21.) MK rendelet 11. § i) pontja hatályon kívül helyezte.
+[^19]: A 7. § (7) bekezdés e) pontját a 26/2023. (IX. 21.) MK rendelet 11. § i) pontja hatályon kívül helyezte.

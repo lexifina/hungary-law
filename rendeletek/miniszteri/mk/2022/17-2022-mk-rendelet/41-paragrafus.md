@@ -1,6 +1,6 @@
 ## 23. A regionális repülőterekhez nyújtott támogatás
 
-41. § (1)[^21] A regionális repülőterekhez nyújtott támogatás beruházási és működési támogatásként nyújtható.
+41. § (1)[^38] A regionális repülőterekhez nyújtott támogatás beruházási és működési támogatásként nyújtható.
 
 (2) A repülőtérnek valamennyi légitársaság számára hozzáférhetőnek kell lennie. A kapacitás fizikai korlátozottsága esetén a hozzáférést releváns, nyílt, átlátható és megkülönböztetésmentes módon kell biztosítani.
 
@@ -20,7 +20,7 @@ d) olyan repülőtérnek, amelynek az átlagos éves utasforgalma a támogatás 
 
 (6) A (3) bekezdés c) pontja és az (5) bekezdés nem alkalmazandó azokra a repülőterekre, amelyeknek az átlagos éves utasforgalma a támogatás tényleges odaítélését megelőző két pénzügyi évben nem haladta meg a 200 ezer főt, ha a beruházási támogatás következtében a repülőtér átlagos éves utasforgalma valószínűsíthetően nem emelkedik 200 ezer fő fölé a támogatás odaítélését követő két pénzügyi évben.
 
-(7)[^22] Beruházási támogatás esetén az elszámolható költségek a repülőtéri infrastruktúra beruházáshoz kapcsolódó költségek, ideértve a tervezési költségeket is.
+(7)[^39] Beruházási támogatás esetén az elszámolható költségek a repülőtéri infrastruktúra beruházáshoz kapcsolódó költségek, ideértve a tervezési költségeket is.
 
 (8) A beruházási támogatás összege nem haladhatja meg az elszámolható költségeknek és a beruházás működési eredményének a különbségét. A működési eredményt az elszámolható költségekből megalapozott előrejelzések alapján előzetesen vagy visszafizetési mechanizmus alkalmazásával kell levonni.
 
@@ -32,17 +32,17 @@ b) az elszámolható költségek 75%-át azon repülőterek esetében, amelyekne
 
 (10) A (6) bekezdés szerinti repülőtér fejlesztéséhez nyújtott beruházási támogatás a támogatást nyújtó választása szerint a (8) bekezdés szerinti maximális támogatási összegig vagy a (9) bekezdés b) pontja szerinti maximális támogatási intenzitásig nyújtható.
 
-(11)[^23] Nem nyújtható működési támogatás olyan regionális repülőtérnek, amelynek átlagos éves utasforgalma a támogatás odaítélését megelőző két pénzügyi évben meghaladta a kétszázezer főt.
+(11)[^40] Nem nyújtható működési támogatás olyan regionális repülőtérnek, amelynek átlagos éves utasforgalma a támogatás odaítélését megelőző két pénzügyi évben meghaladta a kétszázezer főt.
 
-(12)[^24] A működési támogatás összege nem haladhatja meg a támogatási időszak során keletkezett működési veszteséget és észszerű nyereséget fedező összeget. A támogatás kifizetése történhet előzetesen rögzített időszakos kifizetések formájában – amely esetén a kifizetések összege a támogatásnyújtás időtartama alatt nem növelhető – vagy a bekövetkezett működési veszteség alapján utólagosan megállapított összegek folyósítása útján.
+(12)[^41] A működési támogatás összege nem haladhatja meg a támogatási időszak során keletkezett működési veszteséget és észszerű nyereséget fedező összeget. A támogatás kifizetése történhet előzetesen rögzített időszakos kifizetések formájában – amely esetén a kifizetések összege a támogatásnyújtás időtartama alatt nem növelhető – vagy a bekövetkezett működési veszteség alapján utólagosan megállapított összegek folyósítása útján.
 
-(13)[^25] Nem nyújtható működési támogatás olyan naptári évre vonatkozóan, amely során a repülőtér átlagos éves utasforgalma meghaladja a kétszázezer főt.
+(13)[^42] Nem nyújtható működési támogatás olyan naptári évre vonatkozóan, amely során a repülőtér átlagos éves utasforgalma meghaladja a kétszázezer főt.
 
-(14)[^26] A működési támogatás nyújtását nem lehet olyan feltételhez kötni, hogy a kedvezményezettnek megállapodást kell kötnie bizonyos légitársaságokkal a repülőtéri díjakról, a marketingjellegű kifizetésekről vagy a légitársaságok adott repülőtéren végzett tevékenységének egyéb pénzügyi vonatkozásairól.
+(14)[^43] A működési támogatás nyújtását nem lehet olyan feltételhez kötni, hogy a kedvezményezettnek megállapodást kell kötnie bizonyos légitársaságokkal a repülőtéri díjakról, a marketingjellegű kifizetésekről vagy a légitársaságok adott repülőtéren végzett tevékenységének egyéb pénzügyi vonatkozásairól.
 
-[^21]: A 41. § (1) bekezdése a 20/2022. (XII. 27.) MK rendelet 5. §-ával megállapított szöveg.
-[^22]: A 41. § (7) bekezdése a 20/2022. (XII. 27.) MK rendelet 6. §-ával megállapított szöveg.
-[^23]: A 41. § (11) bekezdését a 20/2022. (XII. 27.) MK rendelet 7. §-a iktatta be.
-[^24]: A 41. § (12) bekezdését a 20/2022. (XII. 27.) MK rendelet 7. §-a iktatta be.
-[^25]: A 41. § (13) bekezdését a 20/2022. (XII. 27.) MK rendelet 7. §-a iktatta be.
-[^26]: A 41. § (14) bekezdését a 20/2022. (XII. 27.) MK rendelet 7. §-a iktatta be.
+[^38]: A 41. § (1) bekezdése a 20/2022. (XII. 27.) MK rendelet 5. §-ával megállapított szöveg.
+[^39]: A 41. § (7) bekezdése a 20/2022. (XII. 27.) MK rendelet 6. §-ával megállapított szöveg.
+[^40]: A 41. § (11) bekezdését a 20/2022. (XII. 27.) MK rendelet 7. §-a iktatta be.
+[^41]: A 41. § (12) bekezdését a 20/2022. (XII. 27.) MK rendelet 7. §-a iktatta be.
+[^42]: A 41. § (13) bekezdését a 20/2022. (XII. 27.) MK rendelet 7. §-a iktatta be.
+[^43]: A 41. § (14) bekezdését a 20/2022. (XII. 27.) MK rendelet 7. §-a iktatta be.
