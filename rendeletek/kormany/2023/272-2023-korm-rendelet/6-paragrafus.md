@@ -1,4 +1,4 @@
-6. § (1) A gazdálkodó szervezet a hulladék gyűjtésére szolgáló gyűjtőedényt a hulladék képződésének helye szerinti ingatlanon belül tartja, azt közterületen tartósan csak a közterület használatára vonatkozó önkormányzati rendeletben meghatározottak szerint helyezi el. Nem tekinthető tartós közterület használatnak a gyűjtőedény ürítési célból történő közterületre helyezése. A koncessziós társaság vagy a koncesszori alvállalkozó a gazdálkodó szervezet ingatlanán belül csak abban az esetben végez edényürítést, ha az ÁSZF így rendelkezik.
+6. § (1)[^3] A gazdálkodó szervezet a hulladék gyűjtésére szolgáló gyűjtőedényt a hulladék képződésének helye szerinti ingatlanon belül tartja, közterületen a gyűjtőedényt önkormányzati rendeletben meghatározottak szerint helyezheti el. A koncessziós társaság vagy a koncesszori alvállalkozó a gazdálkodó szervezet ingatlanán csak abban az esetben végez edényürítést, ha az ÁSZF így rendelkezik.
 
 (2) A gazdálkodó szervezet gondoskodik arról, hogy a hulladék koncessziós társaságnak vagy koncesszori alvállalkozónak történő átadása, továbbá a gazdálkodó szervezet által gyűjtőhelyre történő elszállítása biztonságosan, a környezet veszélyeztetését, szennyezését, károsítását, valamint a hulladék kiszóródását kizáró módon történjen.
 
@@ -17,3 +17,5 @@ b) fémhulladék, valamint
 c) papírhulladék.
 
 (7) Ha a koncessziós társaság vagy a koncesszori alvállalkozó által történő átvételekor, összegyűjtésekor, elszállításakor a hulladék a gyűjtőedényből kiesik vagy kiszóródik, a hulladék felszedéséről és elszállításáról, valamint a terület megtisztításáról az érintett tevékenységet végző koncesszori alvállalkozó, illetve ha a tevékenységet maga végzi, akkor a koncessziós társaság gondoskodik.
+
+[^3]: A 6. § (1) bekezdése a 435/2023. (IX. 21.) Korm. rendelet 9. §-ával megállapított szöveg.

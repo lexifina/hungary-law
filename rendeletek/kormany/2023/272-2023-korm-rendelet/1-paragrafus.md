@@ -28,10 +28,12 @@ h) a szerződés megszüntetésének feltételei, valamint
 
 i) az átvétel, gyűjtés és elszállítás módja.
 
-(6) A szerződés a dokumentumra mutató link gazdálkodó szervezet részére történő hozzáférhetővé válása időpontjában, de legkorábban 2023. július 1. napján lép hatályba. Az így létrejött szerződés a Ht. 31. § (11) bekezdésének, valamint az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 160. § (1) bekezdésének alkalmazásában írásbelinek tekintendő.
+(6)[^1] A szerződés a dokumentumra mutató link gazdálkodó szervezet részére történő hozzáférhetővé válása időpontjában lép hatályba. Az így létrejött szerződés a Ht. 31. § (11) bekezdésének, valamint az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 160. § (1) bekezdésének alkalmazásában írásbelinek tekintendő.
 
 (7) A koncessziós társaság és a gazdálkodó szervezet közötti szerződés módosítása a koncessziós társaság által üzemeltetett informatikai rendszeren keresztül történik a koncessziós társaság ÁSZF-jében foglaltak szerint.
 
 (8) A koncessziós társaság és a gazdálkodó szervezet közötti szerződés megszüntetésére egy adott ingatlan vonatkozásában, az érintett ingatlanon a gazdálkodó szervezet által folytatott hulladéktermelő tevékenység végleges megszüntetése esetén van lehetőség, a koncessziós társaság ÁSZF-jében foglalt részletes szabályok szerint.
 
 (9) A koncessziós társaság és az eredeti hulladéktermelő gazdálkodó szervezet között a Ht. 31. § (6) bekezdése szerint létrejött külön megállapodás alapján a koncessziós társaság az ÁSZF-jében foglaltaktól eltérhet.
+
+[^1]: Az 1. § (6) bekezdése a 435/2023. (IX. 21.) Korm. rendelet 11. §-a szerint módosított szöveg.

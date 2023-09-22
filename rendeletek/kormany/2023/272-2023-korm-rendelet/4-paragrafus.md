@@ -20,4 +20,6 @@ gyűjti.
 
 (8) A legkisebb költség elvére és az elérhető eredményekkel arányos észszerű gazdasági költségviselésre tekintettel az (5) bekezdés szerinti, a koncessziós társaság, illetve a koncesszori alvállalkozó részére átadandó biológiailag lebomló hulladék gyűjtésére irányuló szolgáltatás elérhetőségét a koncessziós társaság az ÁSZF-jében határozza meg.
 
-(9) Radioaktív hulladékot hulladék gyűjtésére szolgáló gyűjtőedényben elhelyezni nem lehet.
+(9)[^2] Veszélyes, radioaktív vagy speciális kezelést igénylő hulladékot hulladék gyűjtésére szolgáló gyűjtőedényben elhelyezni nem lehet.
+
+[^2]: A 4. § (9) bekezdése a 435/2023. (IX. 21.) Korm. rendelet 8. §-ával megállapított szöveg.
