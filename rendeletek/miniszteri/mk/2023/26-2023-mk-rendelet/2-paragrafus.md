@@ -1,0 +1,45 @@
+## 1. 7., 9., 14., 15., 16., 17., 18. és 19. sora alapján az 1407/2013/EU bizottsági rendelet szerinti csekély összegű támogatás;
+
+## 2. 9. sora alapján az 1408/2013/EU bizottsági rendelet szerinti mezőgazdasági csekély összegű támogatás;
+
+## 3. 7., 9., 15., 18., 22. és 25. sora alapján a 2012/21/EU bizottsági határozat szerinti közszolgáltatásért járó ellentételezéshez nyújtott támogatás;
+
+## 4. 7., 9., 15., 18. és 25. sora alapján a 360/2012/EU bizottsági rendelet szerinti csekély összegű közszolgáltatási támogatás;
+
+## 5. 7., 9., 13–17. és 25. sora alapján a 651/2014/EU bizottsági rendelet 13–14. cikke szerinti regionális beruházási támogatás;
+
+## 6. 17. sora alapján sora alapján a 651/2014/EU bizottsági rendelet 17. cikke szerinti kis- és középvállalkozásnak nyújtott beruházási támogatás;
+
+## 7. 7., 9., 15. és 18. sora alapján a 651/2014/EU bizottsági rendelet 18. cikke szerinti kis- és középvállalkozás részére tanácsadáshoz nyújtott támogatás;
+
+## 8. 9. sora alapján a 651/2014/EU bizottsági rendelet 19. cikke szerinti kis- és középvállalkozás vásáron való részvételéhez nyújtott támogatás;
+
+## 9. 9. sora alapján a 651/2014/EU bizottsági rendelet 22. cikke szerinti induló vállalkozásnak nyújtott támogatás;
+
+## 10. 9. és 19. sora alapján a 651/2014/EU bizottsági rendelet 25. cikke szerinti kutatás-fejlesztési projekthez nyújtott támogatás;
+
+## 11. F:9 mező 5) pontja alapján a 651/2014/EU bizottsági rendelet 28. cikke szerinti kis- és középvállalkozásnak nyújtott innovációs támogatás;
+
+## 12. 7., 9., 14., 15., 16., 18. és 19. sora alapján a 651/2014/EU bizottsági rendelet 31. cikke szerinti képzési támogatás;
+
+## 13. 7., 15., 18. és 25. sora alapján a 651/2014/EU bizottsági rendelet 52. cikke szerinti széles sávú infrastruktúrára irányuló támogatás;
+
+## 14. 6., 9., 13., 14., 16. és 19. sora alapján a 651/2014/EU bizottsági rendelet 53. cikke szerinti kultúrát és kulturális örökség megőrzését előmozdító támogatás;
+
+## 15. 9., 13., 16. és 17. sora alapján a 651/2014/EU bizottsági rendelet 55. cikke szerinti sportlétesítményekre és multifunkcionális szabadidős létesítményekre nyújtott támogatás;
+
+## 16. 7., 9., 13. és 14. sora alapján a 651/2014/EU bizottsági rendelet 56. cikke szerinti helyi infrastruktúrára irányuló támogatás;
+
+## 17. 9. és 28. sora alapján a 651/2014/EU bizottsági rendelet 56a. cikke szerinti regionális repülőterekre irányuló támogatás;
+
+## 18. 9. sora alapján a 651/2014/EU bizottsági rendelet 56c. cikke szerinti belvízi kikötőkre irányuló támogatás;
+
+## 19. 7., 9. és 16. sora alapján az Állami támogatási intézkedésekre vonatkozó ideiglenes keret a gazdaságnak a jelenlegi COVID–19-járvánnyal összefüggésben való támogatása céljából című, 2020. március 19-i 2020/C 91 I/01 számú európai bizottsági közlemény (a továbbiakban: átmeneti közlemény) 3.13. szakasza szerinti fenntartható helyreállításra irányuló beruházási támogatás;
+
+## 20. 4–28. sora alapján az SA.103089 (2022/N) számú, valamint az azt módosító európai bizottsági határozatokban foglaltakkal összhangban „Az állami támogatásokra vonatkozó, az Ukrajna elleni orosz agresszióval összefüggésben a gazdaság támogatását célzó ideiglenes válság- és átállási keret” című, 2023. március 17-i 2023/C 101/03. számú európai bizottsági közlemény (a továbbiakban: válságközlemény) 2.1. szakasza szerinti válságtámogatás
+
+## nyújtható.”
+
+2. § A Rendelet 7. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Az általános forgalmi adó (a továbbiakban: áfa) nem támogatható, kivéve, ha az az áfára vonatkozó nemzeti jogszabályok értelmében nem igényelhető vissza.”
