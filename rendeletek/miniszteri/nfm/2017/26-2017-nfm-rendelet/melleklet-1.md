@@ -1,8 +1,6 @@
-## 5. §[^1] Ez a rendelet a veszélyes áruk szárazföldi szállításáról szóló 2008/68/EK európai parlamenti és tanácsi irányelv mellékleteinek a tudományos és műszaki fejlődés figyelembevétele céljából történő módosításáról szóló, 2020. október 2-i (EU) 2020/1833 felhatalmazáson alapuló bizottsági irányelvnek való megfelelést szolgálja.
-
 1. melléklet a 26/2017. (VII. 5.) NFM rendelethez
 
-## Kiegészítések az ADN Szabályzat belföldi alkalmazásához
+Kiegészítések az ADN Szabályzat belföldi alkalmazásához
 
 1. A jelöléseknél és az okmányok kitöltésénél elegendő a magyar nyelv használata. Ez az eltérés nem alkalmazható a radioaktív küldeményeken lévő bárcák és nagybárcák felirataira.
 
@@ -22,11 +20,11 @@ b) az oktatás témaköre a 1.3.2 szakasz szerint;
 
 c) az oktatást végző veszélyes áru szállítási biztonsági tanácsadó neve, bizonyítványának száma, lejárati ideje;
 
-d) az oktatás helye, időpontja.
+d)[^3] az oktatás helye, időpontja.
 
-A munkáltató az oktatásban részt vevők részére igazolást állít ki. A hajó személyzetének az igazolását a szállítás ideje alatt a hajón kell tartani, és a hatóság kérésére ellenőrzéskor be kell mutatni. Több telephely esetén az egy-egy telephely vonatkozásában készült oktatással kapcsolatos iratokat az adott telephelyen is el kell helyezni eredetben vagy a munkáltató által hitelesített másolatban, vagy elektronikusan elérhetővé kell tenni a telephely számára.
+A munkáltató maga vagy a munkáltató által megbízott – az oktatást tartó veszélyes áru szállítási biztonsági tanácsadó aláírásával – az oktatásban részt vevő részére igazolást állít ki. A hajó személyzetének az igazolását a szállítás ideje alatt a hajón kell tartani, és a hatóság kérésére ellenőrzéskor be kell mutatni. Több telephely esetén az egy-egy telephely vonatkozásában készült oktatással kapcsolatos iratokat az adott telephelyen is el kell helyezni eredetben vagy a munkáltató által hitelesített másolatban, vagy elektronikusan elérhetővé kell tenni a telephely számára.
 
-Az oktatásra vonatkozó iratokat a munkáltatónak öt évig, de legalább a munkakör betöltésének megszűnését követő két évig meg kell őriznie.
+## Az oktatásra vonatkozó iratokat a munkáltatónak öt évig, de legalább a munkakör betöltésének megszűnését követő két évig meg kell őriznie.
 
 6. Az ADN Szabályzat 1.5.1 szakasza szerinti – Magyarország által is elfogadott – két- és többoldalú megállapodások a belföldi szállításokra is alkalmazhatók.
 
@@ -37,6 +35,10 @@ Az oktatásra vonatkozó iratokat a munkáltatónak öt évig, de legalább a mu
 ## a) Az ADN Szabályzat alkalmazása során „Ideiglenes jóváhagyási bizonyítvány”-ként a belvízi utakon közlekedő úszólétesítmények hajózásra alkalmassága és megfelelősége feltételeiről, az üzemképesség vizsgálatáról és tanúsításáról szóló 13/2001. (IV. 10.) KöViM rendelet (a továbbiakban: KöViM rendelet) szerinti, „Ideiglenes Közösségi Hajóbizonyítvány” is elfogadható, amennyiben az a 9. pontja alatt tartalmaz minden olyan adatot és információt, amely az ADN Szabályzat 8.6.1.2, illetve 8.6.1.4 bekezdés szerinti bizonyítvány mintájában szerepel.
 
 ## b) Az ADN Szabályzat 1. Rész, 1.16 Fejezetében, az 1.16.3 szakaszban szereplő vizsgáló testületként a KöViM rendelet 2. melléklet 2.01 cikke szerinti Szemlebizottság is elfogadható, amennyiben egy tagja olyan szakértő, aki rendelkezik az ADN szakosító ismereteivel és ezt az ADN Szabályzatban előírt bizonyítvánnyal igazolni tudja vagy a veszélyes áruk belvízi szállítására érvényes bizonyítvánnyal rendelkező veszélyes áru szállítási biztonsági tanácsadó.”
+
+7a.[^4] Az ADN Szabályzat 5.4.3.4 bekezdése a következő mondattal egészül ki:
+
+## „A nyomtatott írásbeli utasításnak legalább négy A4 méretű oldalból kell állnia, és a mintának megfelelő, színes kivitelűnek kell lennie.”
 
 8. Az ADN Szabályzat 7.1.1.10 bekezdésének rendelkezéseit a következő kiegészítéssel kell alkalmazni:
 
@@ -66,20 +68,21 @@ Az oktatásra vonatkozó iratokat a munkáltatónak öt évig, de legalább a mu
 
 ## f) baleset, segélykérés vagy a hajót fenyegető jogellenes tevékenység esetén a hivatásos katasztrófavédelmi szervek, a mentésben résztvevő szervek, illetve a jogellenes tevékenység felszámolásában illetékes rendőr-, vám-, vízügyi és környezetvédelmi hatóságok az adatokhoz haladéktalanul hozzájussanak,
 
-## g)[^3] a hajózási hatóságnál nyilvántartott és iktatott kérelmen feltüntetett adatokon kívül a szállítás befejezésekor (kirakó kikötőbe történt megérkezés vagy az ország területének elhagyása), illetve nemzetközi szerződés szerinti adattovábbítás megtörténte után a veszélyes árut szállító hajók bejelentett adatai közül a hajót és a vezetőjét azonosító adatokat (név, tulajdonos, lajstromszám) törölni kell minden más nyilvántartásból, a többi adatot statisztikai célokra felhasználásra havonta az Innovációs és Technológiai Minisztériumnak kell átadni.”
+## g)[^5] a hajózási hatóságnál nyilvántartott és iktatott kérelmen feltüntetett adatokon kívül a szállítás befejezésekor (kirakó kikötőbe történt megérkezés vagy az ország területének elhagyása), illetve nemzetközi szerződés szerinti adattovábbítás megtörténte után a veszélyes árut szállító hajók bejelentett adatai közül a hajót és a vezetőjét azonosító adatokat (név, tulajdonos, lajstromszám) törölni kell minden más nyilvántartásból, a többi adatot statisztikai célokra felhasználásra havonta az Innovációs és Technológiai Minisztériumnak kell átadni.”
 
-10.[^4] Az ADN Szabályzat 8.2.2.7.0 pont rendelkezéseinek alkalmazása során a tesztvizsgát a vizsgaközpont által delegált vizsgabizottság előtt kell megtartani. Ebben az esetben nincs szükség a Szabályzat által előírt írásos kijelölésre és a vizsgáztató szervezet tekintetében a leírt kritériumrendszer vizsgálatára.
+10.[^6] Az ADN Szabályzat 8.2.2.7.0 pont rendelkezéseinek alkalmazása során a tesztvizsgát a vizsgaközpont által delegált vizsgabizottság előtt kell megtartani. Ebben az esetben nincs szükség a Szabályzat által előírt írásos kijelölésre és a vizsgáztató szervezet tekintetében a leírt kritériumrendszer vizsgálatára.
 
-10a.[^5] Az ADN Szabályzat 8.2.2.7.3.1 pont rendelkezéseinek alkalmazása során az ismeretfelújító tesztvizsgát a vizsgaközpont által delegált vizsgabizottság előtt kell megtartani.
+10a.[^7] Az ADN Szabályzat 8.2.2.7.3.1 pont rendelkezéseinek alkalmazása során az ismeretfelújító tesztvizsgát a vizsgaközpont által delegált vizsgabizottság előtt kell megtartani.
 
-11.[^6] Az ADN Szabályzat 1.7.2 szakasza szerinti sugárvédelmi programnak meg kell felelnie a radioaktív anyagok szállításáról, fuvarozásáról és csomagolásáról szóló 51/2013. (IX. 6.) NFM rendeletben, és az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló OAH rendeletben foglalt követelményeknek. A sugárvédelmi program alkalmazásához az Országos Atomenergia Hivatal nukleáris energiával kapcsolatos európai uniós, valamint nemzetközi kötelezettségekkel összefüggő feladatköréről, az Országos Atomenergia Hivatal hatósági eljárásaiban közreműködő szakhatóságok kijelöléséről, a kiszabható bírság mértékéről, valamint az Országos Atomenergia Hivatal munkáját segítő tudományos tanácsról szóló 112/2011. (VII. 4.) Korm. rendelet szerinti engedély szükséges.
+11.[^8] Az ADN Szabályzat 1.7.2 szakasza szerinti sugárvédelmi programnak meg kell felelnie a radioaktív anyagok szállításáról, fuvarozásáról és csomagolásáról szóló 51/2013. (IX. 6.) NFM rendeletben, és az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló OAH rendeletben foglalt követelményeknek. A sugárvédelmi program alkalmazásához az Országos Atomenergia Hivatal nukleáris energiával kapcsolatos európai uniós, valamint nemzetközi kötelezettségekkel összefüggő feladatköréről, az Országos Atomenergia Hivatal hatósági eljárásaiban közreműködő szakhatóságok kijelöléséről, a kiszabható bírság mértékéről, valamint az Országos Atomenergia Hivatal munkáját segítő tudományos tanácsról szóló 112/2011. (VII. 4.) Korm. rendelet szerinti engedély szükséges.
 
-12.[^7] Az ADN Szabályzat 1.10.3.2 bekezdése szerinti közbiztonsági tervnek a 7 osztályba tartozó anyagok szállítása esetén meg kell felelnie az atomenergia alkalmazása körében a fizikai védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 190/2011. (IX. 19.) Korm. rendeletben (a továbbiakban: Fvr.) foglalt követelményeknek, és a szállításhoz az Fvr. 32. § (1) bekezdés c) pontja szerinti engedély szükséges.
+12.[^9] Az ADN Szabályzat 1.10.3.2 bekezdése szerinti közbiztonsági tervnek a 7 osztályba tartozó anyagok szállítása esetén meg kell felelnie az atomenergia alkalmazása körében a fizikai védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 190/2011. (IX. 19.) Korm. rendeletben (a továbbiakban: Fvr.) foglalt követelményeknek, és a szállításhoz az Fvr. 32. § (1) bekezdés c) pontja szerinti engedély szükséges.
 
-[^1]: Az 5. § a 38/2021. (VII. 30.) ITM rendelet 3. §-ával megállapított szöveg.
 [^2]: Az 1. melléklet 3. pontja a 38/2021. (VII. 30.) ITM rendelet 4. §-ával megállapított szöveg.
-[^3]: Az 1. melléklet 9. pont (4) bekezdés g) pontja a 20/2019. (VIII. 1.) ITM rendelet 6. § szerint módosított szöveg.
-[^4]: Az 1. melléklet 10. pontja a 38/2021. (VII. 30.) ITM rendelet 4. §-ával megállapított szöveg.
-[^5]: Az 1. melléklet 10a. pontját a 38/2021. (VII. 30.) ITM rendelet 4. §-a iktatta be.
-[^6]: Az 1. melléklet 11. pontja a 20/2019. (VIII. 1.) ITM rendelet 6. §-ával megállapított, a 3/2022. (VI. 24.) TIM rendelet 3. §-a szerint módosított szöveg.
-[^7]: Az 1. melléklet 12. pontját a 38/2021. (VII. 30.) ITM rendelet 4. §-a iktatta be.
+[^3]: Az 1. melléklet 5. pont d) alpontja a 17/2023. (IX. 21.) ÉKM rendelet 4. §-a szerint módosított szöveg.
+[^4]: Az 1. melléklet 7a. pontját a 17/2023. (IX. 21.) ÉKM rendelet 4. §-a iktatta be.
+[^5]: Az 1. melléklet 9. pont (4) bekezdés g) pontja a 20/2019. (VIII. 1.) ITM rendelet 6. § szerint módosított szöveg.
+[^6]: Az 1. melléklet 10. pontja a 38/2021. (VII. 30.) ITM rendelet 4. §-ával megállapított szöveg.
+[^7]: Az 1. melléklet 10a. pontját a 38/2021. (VII. 30.) ITM rendelet 4. §-a iktatta be.
+[^8]: Az 1. melléklet 11. pontja a 20/2019. (VIII. 1.) ITM rendelet 6. §-ával megállapított, a 3/2022. (VI. 24.) TIM rendelet 3. §-a szerint módosított szöveg.
+[^9]: Az 1. melléklet 12. pontját a 38/2021. (VII. 30.) ITM rendelet 4. §-a iktatta be.
