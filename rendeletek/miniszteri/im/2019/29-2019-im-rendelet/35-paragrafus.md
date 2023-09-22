@@ -32,7 +32,7 @@ i) egyéb befejező intézkedést tett (a nemperes eljárás lefolytatása irán
 
 2. az okirat, illetve információhordozó megőrzésére irányuló eljárásban, amelyben a közjegyző vagy a közjegyzőhelyettes az okirat átvételéről jegyzőkönyvet vett fel;
 
-3.[^9] a végrehajtási eljárásban, amelyben a közjegyző vagy a közjegyzőhelyettes
+3.[^11] a végrehajtási eljárásban, amelyben a közjegyző vagy a közjegyzőhelyettes
 
 a) a végrehajtás elrendelését megtagadta,
 
@@ -66,7 +66,7 @@ b) ennek hiányában a ki nem utalt letét visszautalásáról
 
 döntött;
 
-12.[^10] a fizetési meghagyásos eljárásban, amelyben a közjegyző vagy a közjegyzőhelyettes
+12.[^12] a fizetési meghagyásos eljárásban, amelyben a közjegyző vagy a közjegyzőhelyettes
 
 a) a fizetési meghagyást kibocsátotta,
 
@@ -96,7 +96,7 @@ d) rész-hagyatékátadás után az eljárást megszüntette;
 
 19. a Polgári Törvénykönyv hatálybalépéséről és végrehajtásáról szóló 1960. évi 11. törvényerejű rendelet 48/A. §-a szerinti, egyedi azonosításra kétséget kizáróan alkalmas ingó dolgot terhelő zálogjogi nyilvántartás (a továbbiakban: gépjármű zálogjogi nyilvántartás) vezetése iránti eljárásban, amelyben a közjegyző vagy a közjegyzőhelyettes a bejegyzés módosítását, illetve törlését a gépjármű zálogjogi nyilvántartásba bejegyezte.
 
-20.[^11] az alzálogjog fennállásának igazolására irányuló eljárásban, amelyben a közjegyző vagy a közjegyzőhelyettes
+20.[^13] az alzálogjog fennállásának igazolására irányuló eljárásban, amelyben a közjegyző vagy a közjegyzőhelyettes
 
 a) bizonyítványt állított ki,
 
@@ -106,6 +106,6 @@ b) a bizonyítvány kiállítását megtagadta.
 
 (5) A KÜR-nek alkalmasnak kell lennie arra, hogy a befejezett, de további intézkedést igénylő ügyek a befejezett és további intézkedést nem igénylő ügyektől elkülönítve legyenek lekérdezhetők.
 
-[^9]: A 35. § (3) bekezdés 3. pontja az 1/2021. (III. 12.) IM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^10]: A 35. § (3) bekezdés 12. pontja az 1/2021. (III. 12.) IM rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^11]: A 35. § (3) bekezdés 20. pontját a 12/2023. (VII. 31.) IM rendelet 4. §-a iktatta be.
+[^11]: A 35. § (3) bekezdés 3. pontja az 1/2021. (III. 12.) IM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^12]: A 35. § (3) bekezdés 12. pontja az 1/2021. (III. 12.) IM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^13]: A 35. § (3) bekezdés 20. pontját a 12/2023. (VII. 31.) IM rendelet 4. §-a iktatta be.

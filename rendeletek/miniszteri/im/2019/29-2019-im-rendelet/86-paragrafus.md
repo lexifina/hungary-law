@@ -10,13 +10,13 @@
 
 (4) Kezdőiratnak minősül az öröklési bizonyítvány kiállítása iránti kérelem, valamint – ha azt a hagyatéki tárgyalás berekesztése után terjesztik elő – az özvegyi jog megváltása iránti kérelem.
 
-(4a)[^37] Nem minősül kezdőiratnak a tárgyalás nélkül meghozott hagyatékátadó végzés esetén a hagyatéki tárgyalás tartása iránti kérelem.
+(4a)[^52] Nem minősül kezdőiratnak a tárgyalás nélkül meghozott hagyatékátadó végzés esetén a hagyatéki tárgyalás tartása iránti kérelem.
 
 (5) A közjegyző köteles az örökhagyó írásbeli magánokiratba foglalt eredeti végintézkedését vagy a közjegyzői okiratba foglalt végintézkedés hiteles kiadmányát páncélszekrényben vagy tűzbiztos lemezszekrényben őrizni. Az iratok között a végintézkedés egyszerű másolatát kell elhelyezni.
 
-(6)[^38] A hagyatéki ügyben becsatolt eredeti, magánokiratba foglalt végintézkedést, illetve a közjegyzői okiratba foglalt végintézkedés hiteles kiadmányát, illetve levéltári hiteles másolatát csak a bíróságnak lehet kiadni.
+(6)[^53] A hagyatéki ügyben becsatolt eredeti, magánokiratba foglalt végintézkedést, illetve a közjegyzői okiratba foglalt végintézkedés hiteles kiadmányát, illetve levéltári hiteles másolatát csak a bíróságnak lehet kiadni.
 
 (7) Az ügyintéző a Hetv. 43. § (3) és (4) bekezdése szerinti megkeresésekre a Végrendeletek Országos Nyilvántartásából és a házassági és élettársi vagyonjogi szerződések elektronikus nyilvántartásából kapott választ is az ügy digitális aktájában tárolja.
 
-[^37]: A 86. § (4a) bekezdését az 1/2021. (III. 12.) IM rendelet 16. § (1) bekezdése iktatta be.
-[^38]: A 86. § (6) bekezdése az 1/2021. (III. 12.) IM rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^52]: A 86. § (4a) bekezdését az 1/2021. (III. 12.) IM rendelet 16. § (1) bekezdése iktatta be.
+[^53]: A 86. § (6) bekezdése az 1/2021. (III. 12.) IM rendelet 16. § (2) bekezdésével megállapított szöveg.

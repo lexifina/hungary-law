@@ -1,5 +1,3 @@
-## 60. § A „Z” ügykategóriába tartozó ügyben az egyes iratok nem kapnak sorszámot.
-
 61. § (1) Minden jogügyletet – a (2)–(5) bekezdésben foglaltak kivételével – külön közjegyzői okiratba kell foglalni.
 
 (2) A jogügyletet biztosító mellékkötelezettség a biztosított jogügylettel azonos közjegyzői okiratba is foglalható.

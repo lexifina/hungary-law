@@ -1,4 +1,4 @@
-4. melléklet a 29/2019. (XII. 20.) IM rendelethez[^46]
+4. melléklet a 29/2019. (XII. 20.) IM rendelethez[^63]
 
 Irattári Terv
 
@@ -202,27 +202,21 @@ Irattári Terv
 
 | Irattári tételszám | Ügycsoport | Selejtezhetőség (NS: nem selejtezhető, S: selejtezhető) | Selejtezési idő (év) |
 
-| Közjegyző | Levéltár |
+|  |  |  | Közjegyző | Levéltár |
 
-| IT-00 | Hagyatéki ügyekben az eljárás során kihirdetett végintézkedések | NS | --- | --- |
+| IT-00 | Hagyatéki ügyekben a végintézkedést tartalmazó okirat | NS | --- | --- |
 
-| IT-00 | Hagyatéki ügyek iratai közül a hagyatéki leltár egy példánya, a jegyzőkönyvek, az érdemi határozatok (a hozzájuk tűzött tértivevényekkel, illetve átadóívekkel), az azokhoz csatolt mellékletek, valamint a hagyatékátadás alapjául szolgáló írásbeli egyezségek és jognyilatkozatok, továbbá a meghatalmazások | NS | --- | --- |
+| IT-00 | Hagyatéki ügyek iratai közül a hagyatéki leltár, a jegyzőkönyvek, az érdemi határozatok, az azok jogerejét tanúsító határozatok, az azokhoz csatolt mellékletek, valamint a hagyatékátadás alapjául szolgáló írásbeli egyezségek és jognyilatkozatok, valamint a meghatalmazások | NS | --- | --- |
 
 | IT-05 | Hagyatéki ügyek iratai közül a fentieken kívüli nem érdemi iratok | S | 5 | --- |
 
-| IT-00 | Közjegyzői előtti egyezségi eljárásban hozott érdemi határozatok, jóváhagyott egyezségek | NS | --- | --- |
+| IT-00 | Közjegyző előtti egyezségi eljárásban hozott érdemi határozatok, jóváhagyott egyezségek, az azok jogerejét tanúsító határozatok | NS | --- | --- |
 
-| IT-00 | Bejegyzett élettársi kapcsolat megszüntetési iránti eljárásban hozott érdemi határozatok, jóváhagyott egyezségek | NS | --- | --- |
+| IT-00 | Bejegyzett élettársi kapcsolat megszüntetése iránti eljárásban hozott érdemi határozatok, jóváhagyott egyezségek, az azok jogerejét tanúsító határozatok | NS | --- | --- |
 
-| IT-00 | Értékpapír semmissé nyilvánítása iránti eljárásban hozott érdemi határozatok | NS | --- | --- |
+| IT-00 | Értékpapír semmissé nyilvánítása iránti eljárásban hozott érdemi határozatok, az azok jogerejét tanúsító határozatok | NS | --- | --- |
 
-| IT-05 | Közjegyzői előtti egyezségi eljárásban, bejegyzett élettársi kapcsolat megszüntetési iránti eljárásban, értékpapír semmissé nyilvánítása iránti eljárásban keletkezett nem érdemi iratok | S | 5 | --- |
-
-| IT-00 | Okirat határozatlan idejű letétbe vételéről és visszaadásáról felvett jegyzőkönyv, okirat határozott idejű letétbe vételéről felvett jegyzőkönyv, ha az okirat nem került visszaadásra | NS | --- | --- |
-
-| IT-10 | Jegyzőkönyv okirat határozott idejű letétbe vételéről és visszaadásáról | S | --- | 10 |
-
-| IT-00 | Jegyzőkönyv végrendelet letétbe vételéről és visszaadásáról | NS | --- | --- |
+| IT-05 | Közjegyző előtti egyezségi eljárásban, bejegyzett élettársi kapcsolat megszüntetése iránti eljárásban, értékpapír semmissé nyilvánítása iránti eljárásban keletkezett nem érdemi iratok | S | 5 | --- |
 
 | IT-15 | Közjegyzői letét esetén a záradékolt kérelem közjegyzőnél maradó példánya | S | --- | 15 |
 
@@ -234,7 +228,7 @@ Irattári Terv
 
 | IT-05 | Tárgyalási napló, tárgyalási jegyzék, egyéb iratok | S | 5 | --- |
 
-| IT-20 | Az 1. alcsoportba tartozó – az 1. alcsoportban külön nem nevesített – nemperes ügyek irataiból a jegyzőkönyvek, az érdemi határozatok | S | --- | 20 |
+| IT-20 | Az 1. alcsoportba tartozó – az 1. alcsoportban külön nem nevesített – nemperes ügyek irataiból a jegyzőkönyvek, az érdemi határozatok, az azok jogerejét tanúsító határozatok | S | --- | 20 |
 
 | IT-05 | Az 1. alcsoportba tartozó nemperes ügyek fentieken kívüli nem érdemi iratai | S | 5 | --- |
 
@@ -246,7 +240,7 @@ Irattári Terv
 
 | Irattári tételszám | Ügycsoport | Selejtezhetőség (NS: nem selejtezhető, S: selejtezhető) | Selejtezési idő (év) |
 
-| Közjegyző | Levéltár |
+|  |  |  | Közjegyző | Levéltár |
 
 | IT-00 | Tulajdonjog átruházását tartalmazó vagy nem átruházással létrejött tulajdonjog elismerésére vonatkozó jogügylet (különösen: adásvételi szerződés, ajándékozási szerződés, csereszerződés) | NS | --- | --- |
 
@@ -274,19 +268,13 @@ Irattári Terv
 
 | IT-00 | Ellátás visszautasítása, továbbá egyéb, a tartalma vagy más ok miatt nem selejtezhető jogügylet | NS | --- | --- |
 
-| IT-50 | Bankgarancia szerződés (lejárattal) | S | --- | 50 |
+| IT-50 | Garanciaszerződés | S | --- | 50 |
 
-| IT-50 | Bankgarancia (lejárat nélkül) | S | --- | 50 |
-
-| IT-30 | Bérleti szerződés (határozott idejű) | S | --- | 30 |
-
-| IT-30 | Bérleti szerződés (határozatlan idejű) | S | --- | 30 |
+| IT-30 | Bérleti szerződés | S | --- | 30 |
 
 | IT-50 | Haszonélvezet, szolgalom alapítása | S | --- | 50 |
 
-| IT-50 | Hitel-, illetve kölcsönszerződés (határozott idejű) | S | --- | 50 |
-
-| IT-50 | Hitel-, illetve kölcsönszerződés (határozatlan idejű) | S | --- | 50 |
+| IT-50 | Hitel-, illetve kölcsönszerződés | S | --- | 50 |
 
 | IT-30 | Építőközösségi szerződés | S | --- | 30 |
 
@@ -302,9 +290,7 @@ Irattári Terv
 
 | IT-50 | Egyéb jogügyletek (teljesítési határidő nélküli) | S | --- | 50 |
 
-| IT-50 | Egyoldalú kötelezettségvállaló nyilatkozat és tartozáselismerő nyilatkozat (lejárattal) | S | --- | 50 |
-
-| IT-50 | Egyoldalú kötelezettségvállaló nyilatkozat és tartozáselismerő nyilatkozat (lejárat nélkül) | S | --- | 50 |
+| IT-50 | Egyoldalú kötelezettségvállaló nyilatkozat és tartozáselismerő nyilatkozat | S | --- | 50 |
 
 | IT-30 | Engedményezés | S | --- | 30 |
 
@@ -314,27 +300,29 @@ Irattári Terv
 
 | IT-30 | Tartozásátvállalás, teljesítésátvállalás, tartozáselvállalás | S | --- | 30 |
 
-| IT-05 | Külföldi letelepedésével kapcsolatos nyilatkozat | S | --- | 5 |
+| IT-05 | Külföldi letelepedésével kapcsolatos nyilatkozat | S | 5 | --- |
 
 | IT-15 | Egyéb nyilatkozat | S | --- | 15 |
 
 | IT-05 | JÜB lekérdezés eredménye | S | 5 | --- |
 
-| IT-08 | JÜB lekérdezés eredménye, ha az ügy a 2017. évi LIII. törvény hatálya alá tartozik | S | --- | 8 |
+| IT-08 | JÜB lekérdezés eredménye, ha az ügy a 2017. évi LIII. törvény hatálya alá tartozik | S | 8 | --- |
 
-| IT-08 | A 2017. évi LIII. törvény alapján készített okirat-másolat és az ügyfél által tett papíralapú nyilatkozat | S | --- | 8 |
+| IT-08 | A 2017. évi LIII. törvény alapján készített okiratmásolat és az ügyfél által tett papíralapú nyilatkozat | S | 8 | --- |
 
 | IT-05 | A 2. alcsoportba tartozó ügyben közreműködés megtagadásáról, az eljárás befejezetté nyilvánításáról hozott határozat | S | 5 | --- |
+
+| IT-05 | A 2. alcsoportba tartozó ügyek fentieken kívüli nem érdemi iratai | S | 5 | --- |
 
 | IT-00 | A 2. alcsoportba tartozó ügyek nyilvántartása | NS | --- | --- |
 
 | IT-00 | A 2. alcsoportba tartozó ügyek iratainak selejtezési jegyzőkönyvei | NS | --- | --- |
 
-| 3. alcsoport: jegyzőkönyvi ténytanúsítási eljárások, valamint a Kjtv. 158–161/B. § és 163. § szerinti jegyzőkönyvek iratai |
+| 3. alcsoport: jegyzőkönyvi ténytanúsítási eljárások, valamint a Kjtv. 158–161/B. §-a és 163. §-a szerinti jegyzőkönyvek iratai |
 
 | Irattári tételszám | Ügycsoport | Selejtezhetőség (NS: nem selejtezhető, S: selejtezhető) | Selejtezési idő (év) |
 
-| Közjegyző | Levéltár |
+|  |  |  | Közjegyző | Levéltár |
 
 | IT-15 | Életbenlét tanúsítása | S | --- | 15 |
 
@@ -344,17 +332,17 @@ Irattári Terv
 
 | IT-15 | Váltó- vagy csekkóvás tanúsítása | S | --- | 15 |
 
-| IT-05 | Peren kívüli eskü tanúsítása | S | --- | 5 |
+| IT-05 | Peren kívüli eskü tanúsítása | S | 5 | --- |
 
-| IT-05 | Ténytanúsítás pályázatbontásról | S | --- | 5 |
+| IT-05 | Ténytanúsítás pályázatbontásról | S | 5 | --- |
 
-| IT-05 | Ténytanúsítás értékpapír fizikai megsemmisítéséről | S | --- | 5 |
+| IT-05 | Ténytanúsítás értékpapír fizikai megsemmisítéséről | S | 5 | --- |
 
-| IT-05 | Ténytanúsítás közbeszerzési törvény alapján | S | --- | 5 |
+| IT-05 | Ténytanúsítás közbeszerzési törvény alapján | S | 5 | --- |
 
-| IT-05 | Ténytanúsítás közraktári törvény alapján | S | --- | 5 |
+| IT-05 | Ténytanúsítás közraktári törvény alapján | S | 5 | --- |
 
-| IT-05 | Ténytanúsítás sorsolásról | S | --- | 5 |
+| IT-05 | Ténytanúsítás sorsolásról | S | 5 | --- |
 
 | IT-15 | Ténytanúsítás árverésről | S | --- | 15 |
 
@@ -362,15 +350,21 @@ Irattári Terv
 
 | IT-50 | Egyéb jogi jelentőségű tény tanúsítása | S | --- | 50 |
 
-| IT-00 | Végrendelet letétbe vételéről, illetve visszaadásáról felvett jegyzőkönyv | NS | --- | --- |
+| IT-00 | Végrendelet letétbe vételéről felvett jegyzőkönyv, ha a letét nem került visszaadásra | NS | --- | --- |
 
-| IT-05 | Okirat és információhordozó megőrzése iránti eljárásban felvett jegyzőkönyv | S | 5 | --- |
+| IT-50 | Végrendelet letétbe vételéről és a visszaadásáról felvett jegyzőkönyv, ha a letét visszaadásra került | S | --- | 50 |
+
+| IT-00 | Okirat és információhordozó megőrzése iránti eljárásban a megőrzésbe vételről felvett jegyzőkönyv, ha az okirat vagy információhordozó nem került visszaadásra vagy kiadásra | NS | --- | --- |
+
+| IT-30 | Okirat és információhordozó megőrzése iránti eljárásban a megőrzésbe vételről és a visszaadásról felvett jegyzőkönyv, ha az okirat vagy információhordozó visszaadásra vagy kiadásra került | S | --- | 30 |
 
 | IT-15 | Bizalmi őrzésbe vételről felvett jegyzőkönyv | S | --- | 15 |
 
 | IT-05 | JÜB lekérdezés eredménye | S | 5 | --- |
 
-| IT-05 | A 3. alcsoportba tartozó ügyben közreműködés megtagadásáról, az eljárás befejezetté nyilvánításáról hozott határozat | S | 5 | --- |
+| IT-05 | A 3. alcsoportba tartozó ügyben közreműködés megtagadásáról, az eljárás befejezetté nyilvánításáról hozott határozat, az azok jogerejét tanúsító határozatok | S | 5 | --- |
+
+| IT-05 | A 3. alcsoportba tartozó nemperes ügyek fentieken kívüli nem érdemi iratai | S | 5 | --- |
 
 | IT-00 | A 3. alcsoportba tartozó ügyek nyilvántartása | NS | --- | --- |
 
@@ -380,24 +374,28 @@ Irattári Terv
 
 | Irattári tételszám | Ügycsoport | Selejtezhetőség (NS: nem selejtezhető, S: selejtezhető) | Selejtezési idő (év) |
 
-| Közjegyző | Levéltár |
+|  |  |  | Közjegyző | Levéltár |
 
-| IT-50 | Papíralapú aláírólapok | S | --- | 50 |
+| IT-50 | Hitelesítések papíralapú nyilvántartó könyve és papíralapú aláírólapok | S | --- | 50 |
 
 | IT-05 | ZONY lekérdezés másolata, visszaigazolások | S | 5 | --- |
 
 | IT-05 | Hitelbiztosítéki nyilvántartással összefüggő azonossági nyilatkozat papíralapú másolata | S | 5 | --- |
 
-| IT-10 | Hitelbiztosítéki nyilatkozatot tartalmazó irat (bejegyzés, módosítás, törlés) | S | --- | 10 |
+| IT-10 | Hitelbiztosítéki nyilatkozatot tartalmazó irat (bejegyzés, módosítás, törlés) | S | 10 | --- |
 
 | IT-05 | JÜB lekérdezés eredménye | S | 5 | --- |
 
-| IT-08 | JÜB lekérdezés eredménye, ha az ügy a 2017. évi LIII. törvény hatálya alá tartozik | S | --- | 8 |
+| IT-08 | JÜB lekérdezés eredménye, ha az ügy a 2017. évi LIII. törvény hatálya alá tartozik | S | 8 | --- |
 
-| IT-08 | Záradéki ténytanúsítási eljárásban a 2017. évi LIII. törvény alapján készített okirat-másolat és az ügyfél által tett papíralapú nyilatkozat | S | --- | 8 |
+| IT-08 | Záradéki ténytanúsítási eljárásban a 2017. évi LIII. törvény alapján készített okiratmásolat és az ügyfél által tett papíralapú nyilatkozat | S | 8 | --- |
 
-| IT-00 | Hitelesítések papíralapú nyilvántartó könyve és hitelesítések elektronikus nyilvántartása | NS | --- | --- |
+| IT-00 | Hitelesítések elektronikus nyilvántartása | NS | --- | --- |
 
 | IT-00 | A 4. alcsoportba tartozó ügyek iratainak selejtezési jegyzőkönyvei | NS | --- | --- |
 
-[^46]: A 4. melléklet az 1/2021. (III. 12.) IM rendelet 20. §-ával megállapított szöveg.
+| IT-10 | A 4. alcsoportba tartozó – a 4. alcsoportban külön nem nevesített – záradéki ténytanúsítási eljárások irataiból a jegyzőkönyvek, az érdemi határozatok, az azok jogerejét tanúsító határozatok | S | 10 | --- |
+
+| IT-05 | A 4. alcsoportba tartozó záradéki ténytanúsítási eljárások fentieken kívüli nem érdemi iratai | S | 5 | --- |
+
+[^63]: A 4. melléklet az 1/2021. (III. 12.) IM rendelet 20. §-ával megállapított, a 13/2023. (IX. 21.) IM rendelet 27. §-a szerint módosított szöveg.

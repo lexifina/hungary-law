@@ -14,7 +14,7 @@ d) a selejtezhető irattári tételek selejtezési idejét.
 
 (3) A selejtezési idő a MOKK, a területi kamara és a közjegyző által selejtezhető irattári tételekbe tartozó iratok megőrzésének időtartamát határozza meg években kifejezve.
 
-(4)[^21] Az irattári tételszám az IT betűkből, kötőjelből és az őrzési időre utaló két számjegyből áll. Az egyes tételszámok jelentése a következő:
+(4)[^28] Az irattári tételszám az IT betűkből, kötőjelből és az őrzési időre utaló két számjegyből áll. Az egyes tételszámok jelentése a következő:
 
 a) IT-00 jelöli a nem selejtezhető iratokat,
 
@@ -72,7 +72,7 @@ i) a 16. § (3) bekezdése alapján nem szkennelendő irat esetén az eljárást
 
 j) a MOKK és a területi kamara irata esetén az eljárást befejező határozat jogerőre emelkedésének, az utolsó érdemi intézkedés megtételének időpontjától
 
-k)[^22] a fizetési meghagyásos üggyel összefüggésben a MOKK-hoz érkezett tértivevény esetén az iratanyag irattárba helyezésének időpontjától
+k)[^29] a fizetési meghagyásos üggyel összefüggésben a MOKK-hoz érkezett tértivevény esetén az iratanyag irattárba helyezésének időpontjától
 
 kezdődik.
 
@@ -80,5 +80,5 @@ kezdődik.
 
 (10) A közjegyzői okirat, illetve a közjegyzői ügyben hozott határozat őrzési ideje irányadó a közjegyzői ügyben előterjesztett kérelemre, továbbá az okirat kijavítása, illetve a határozat kijavítása, valamint kiegészítése tárgyában hozott végzésre is.
 
-[^21]: Az 55. § (4) bekezdése az 1/2021. (III. 12.) IM rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^22]: Az 55. § (8) bekezdés k) pontját az 1/2021. (III. 12.) IM rendelet 9. § (2) bekezdése iktatta be.
+[^28]: Az 55. § (4) bekezdése az 1/2021. (III. 12.) IM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^29]: Az 55. § (8) bekezdés k) pontját az 1/2021. (III. 12.) IM rendelet 9. § (2) bekezdése iktatta be.
