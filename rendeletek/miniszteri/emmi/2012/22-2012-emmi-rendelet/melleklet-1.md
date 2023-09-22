@@ -1,4 +1,4 @@
-1. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^61]
+1. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^84]
 
 1. Szakorvosi alap szakképesítések
 
@@ -176,6 +176,8 @@
 
 | 37. | Neonatológia | csecsemő- és gyermekgyógyászat | (60) + 24 hó |
 
+| 37a | Neuro-nukleáris medicina | nukleáris medicina | (57) + 27 hó, azzal, hogy a 27 hónapból 3 hónap külföldi gyakorlat speciális neurodiagnosztikai intézményben is végezhető, online formában |
+
 | 38. | Neuroradiológia | radiológia | (60) + 24 hó |
 
 | 39. | Nőgyógyászati daganatsebészet | szülészet-nőgyógyászat | (60) + 36 hó |
@@ -326,4 +328,4 @@
 
 | 8. | 2.1. Molekuláris biológiai diagnosztika | klinikai mikrobiológia, klinikai biokémia | 24 hó |
 
-[^61]: Az 1. melléklet a 2/2013. (I. 2.) EMMI rendelet 36. § (1) bekezdése, a 69/2013. (XI. 19.) EMMI rendelet 12. § (1) bekezdése, a 14/2014. (III. 10.) EMMI rendelet 24. § a) pontja, a 34/2015. (VI 30.) EMMI rendelet 25. § (1) bekezdés a) pontja, a 28/2016. (IX. 29.) EMMI rendelet 12. § (1) bekezdése, a 28/2018. (VIII. 29.) EMMI rendelet 10. § a)–b) pontja, 11. § a) pontja és 12. § b) pontja, az 57/2021. (XII. 27.) EMMI rendelet 6. § (1) bekezdése, a 28/2022. (VIII. 25.) BM rendelet 27. § (1) bekezdése szerint módosított szöveg.
+[^84]: Az 1. melléklet a 2/2013. (I. 2.) EMMI rendelet 36. § (1) bekezdése, a 69/2013. (XI. 19.) EMMI rendelet 12. § (1) bekezdése, a 14/2014. (III. 10.) EMMI rendelet 24. § a) pontja, a 34/2015. (VI 30.) EMMI rendelet 25. § (1) bekezdés a) pontja, a 28/2016. (IX. 29.) EMMI rendelet 12. § (1) bekezdése, a 28/2018. (VIII. 29.) EMMI rendelet 10. § a)–b) pontja, 11. § a) pontja és 12. § b) pontja, az 57/2021. (XII. 27.) EMMI rendelet 6. § (1) bekezdése, a 28/2022. (VIII. 25.) BM rendelet 27. § (1) bekezdése, a 40/2023. (IX. 21.) BM rendelet 6. § (1) bekezdése szerint módosított szöveg.
