@@ -1,8 +1,6 @@
-## 25. §[^31]
+26. §[^33]
 
-26. §[^32]
-
-Melléklet a 4/2009. (III. 6.) IRM rendelethez[^33]
+Melléklet a 4/2009. (III. 6.) IRM rendelethez[^34]
 
 Végintézkedés bejelentéséhez szükséges adatok
 
@@ -32,6 +30,5 @@ Végintézkedés bejelentéséhez szükséges adatok
 
 5. A végrendelkező hozzájárulásának a ténye
 
-[^31]: A 25. § e rendelet 26. § (1) bekezdése alapján hatályát vesztette.
-[^32]: A 26. § a (3) bekezdése alapján hatályát vesztette.
-[^33]: A melléklet a 13/2017. (X. 20.) IM rendelet 4. §-ával megállapított szöveg.
+[^33]: A 26. § a (3) bekezdése alapján hatályát vesztette.
+[^34]: A melléklet a 13/2017. (X. 20.) IM rendelet 4. §-ával megállapított szöveg.

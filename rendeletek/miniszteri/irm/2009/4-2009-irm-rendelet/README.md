@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-4-20-1U
 | 2010-01-02 | 2009-4-20-1U.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2015-08-17 | 2009-4-20-1U.5 | 12/2015. (VII. 23.) IM rendelet |
 | 2018-01-01 | 2009-4-20-1U.6 | 13/2017. (X. 20.) IM rendelet |
+| 2023-09-22 | 2009-4-20-1U.7 | 12/2015. (VII. 23.) IM rendelet |

@@ -1,6 +1,4 @@
-## jogosult.
-
-18. §[^22] (1) A lekérdezés az erre szolgáló elektronikus adatlapnak a végintézkedő 6. § a) pontjában foglalt adataival való kitöltésével történik.
+18. §[^23] (1) A lekérdezés az erre szolgáló elektronikus adatlapnak a végintézkedő 6. § a) pontjában foglalt adataival való kitöltésével történik.
 
 (2) Az informatikai alkalmazást úgy kell kialakítani, hogy
 
@@ -12,4 +10,4 @@ c) ha a lekérdezés során kitöltött adatokkal megegyezően a végintézkedő
 
 d) ha a lekérdezés során kitöltött adatokkal nem szerepel a nyilvántartásban végintézkedő, ennek közlésével teljesítse a lekérdezést.
 
-[^22]: A 18. § e rendelet 23. § (2) bekezdése alapján 2009. április 5-én lépett hatályba.
+[^23]: A 18. § e rendelet 23. § (2) bekezdése alapján 2009. április 5-én lépett hatályba.

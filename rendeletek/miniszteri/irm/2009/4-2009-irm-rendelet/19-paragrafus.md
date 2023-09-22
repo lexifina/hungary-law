@@ -1,4 +1,4 @@
-19. §[^23] (1) Az informatikai alkalmazás működtetője naplót készít
+19. §[^24] (1) Az informatikai alkalmazás működtetője naplót készít
 
 a) az informatikai alkalmazás üzemben tartási idejéről,
 
@@ -22,4 +22,6 @@ d) az adatvédelmi biztos és
 
 e) a saját végintézkedésére vonatkozó adatok tekintetében a végintézkedő
 
-[^23]: A 19. § e rendelet 23. § (2) bekezdése alapján 2009. április 5-én lépett hatályba.
+megkeresésére nyújt tájékoztatást.
+
+[^24]: A 19. § e rendelet 23. § (2) bekezdése alapján 2009. április 5-én lépett hatályba.

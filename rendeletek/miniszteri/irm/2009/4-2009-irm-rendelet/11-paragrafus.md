@@ -1,5 +1,3 @@
-## 10. §[^13]
-
 ## 11. §[^14] Az informatikai alkalmazást úgy kell kialakítani, hogy
 
 a) ha a bejegyzésre szolgáló elektronikus adatlap tartalmazza
@@ -12,6 +10,5 @@ b) hiányosan kitöltött adatlap alapján ne rögzítsen adatot a nyilvántart�
 
 c) az adat rögzítését követően annak megtörténtéről és tartalmáról szóló rendszerüzenet képernyőn való megjelenítésével értesítse a közjegyzőt.
 
-[^13]: A 10. §-t a 12/2015. (VII. 23.) IM rendelet 3. § (8) bekezdés b) pontja hatályon kívül helyezte.
 [^14]: A 11. § e rendelet 23. § (2) bekezdése alapján 2009. április 5-én lépett hatályba.
 [^15]: A 11. § a) pont ab) alpontja a 12/2015. (VII. 23.) IM rendelet 3. § (3) bekezdésével megállapított szöveg.
