@@ -1,4 +1,4 @@
-## 6/A. [^114] ÜHG-egységek visszaadása
+## 6/A. [^118] ÜHG-egységek visszaadása
 
 15/A. § (1) Az üzemeltető köteles a nyomon követett és hitelesített tárgyévi kibocsátásának megfelelő mennyiségű kibocsátási egységet a tárgyévet követő év április 30-ig visszaadni az (EU) 2019/1122 felhatalmazáson alapuló bizottsági rendelet 56. cikkének megfelelően. A visszaadási kötelezettség teljesítéséhez az üzemeltető a más tagállam hatáskörrel rendelkező hatósága által kiadott kibocsátási egységet is felhasználhatja.
 
@@ -22,4 +22,4 @@ akkor a részükre a nemzeti kiosztási táblában és a nemzeti légiközleked�
 
 (6) A szén-dioxid geológiai tárolására használt tárolóhely üzemeltetője a bányászatról szóló törvényben meghatározott szivárgás esetén köteles a szivárgást követő év április 30-ig a környezetbe jutó üvegházhatású gázokkal egyenértékű kibocsátási egységet az állam részére visszaadni.
 
-[^114]: A 6/A. alcímet (15/A. §) az 527/2020. (XI. 26.) Korm. rendelet 11. §-a iktatta be.
+[^118]: A 6/A. alcímet (15/A. §) az 527/2020. (XI. 26.) Korm. rendelet 11. §-a iktatta be.

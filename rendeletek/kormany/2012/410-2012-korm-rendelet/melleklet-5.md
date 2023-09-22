@@ -1,4 +1,4 @@
-5. melléklet a 410/2012. (XII. 28.) Korm. rendelethez[^190]
+5. melléklet a 410/2012. (XII. 28.) Korm. rendelethez[^196]
 
 A kibocsátások nyomon követésére és jelentésére vonatkozó szabályok
 
@@ -50,4 +50,4 @@ A) Ha az (EU) 2018/2066 bizottsági végrehajtási rendelet lehetővé teszi ors
 
 | 4 | Gáz | 1 |
 
-[^190]: Az 5. mellékletet a 329/2013. (IX. 3.) Korm. rendelet 23. § (4) bekezdése iktatta be, szövege a 178/2016. (VII. 1.) Korm. rendelet 8. § (4) bekezdésével megállapított, az 527/2020. (XI. 26.) Korm. rendelet 15. § 41. pontja szerint módosított szöveg.
+[^196]: Az 5. mellékletet a 329/2013. (IX. 3.) Korm. rendelet 23. § (4) bekezdése iktatta be, szövege a 178/2016. (VII. 1.) Korm. rendelet 8. § (4) bekezdésével megállapított, az 527/2020. (XI. 26.) Korm. rendelet 15. § 41. pontja szerint módosított szöveg.

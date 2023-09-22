@@ -1,6 +1,6 @@
 ## 8. Számlavezetési díj
 
-17. §[^115] (1) Az üzemeltető a kibocsátási engedély véglegessé válásának, a légi jármű üzembentartó a nyomonkövetési terv jóváhagyása véglegessé válásának napjától a tárgyévet követő évben éves számlavezetési díjat fizet a hatóság részére a hatóság által küldött egyenlegértesítő alapján.
+17. §[^119] (1) Az üzemeltető a kibocsátási engedély véglegessé válásának, a légi jármű üzembentartó a nyomonkövetési terv jóváhagyása véglegessé válásának napjától a tárgyévet követő évben éves számlavezetési díjat fizet a hatóság részére a hatóság által küldött egyenlegértesítő alapján.
 
 (2) Az üzemeltető és a légi jármű üzembentartó által fizetendő éves számlavezetési díj mértéke az üzemeltető és a légi jármű üzembentartó által kibocsátott minden egyes tonna szén-dioxid után évi 5 Ft/év/tCO2.
 
@@ -18,4 +18,4 @@
 
 (9) A hatóság a számlavezetési díj fizetési kötelezettség teljesítéséről nyilvántartást vezet az ETS rendszerben.
 
-[^115]: A 17. § az 527/2020. (XI. 26.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^119]: A 17. § az 527/2020. (XI. 26.) Korm. rendelet 12. §-ával megállapított szöveg.

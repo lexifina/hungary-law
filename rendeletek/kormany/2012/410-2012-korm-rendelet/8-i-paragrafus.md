@@ -36,4 +36,16 @@ b) a 8/D. § (1) bekezdésében foglalt kiosztásban nem részesülő létesítm
 
 (17) A hatóság a (15) bekezdés szerinti eljárás alapján jár el a február 5. napjáig benyújtott, (1) bekezdés szerinti jelentés esetén, ha a jelentés tartalmára tekintettel annak ellenőrzése során az üzemeltető hiánypótlásra vagy nyilatkozattételre történő felhívása szükséges.
 
+(18)[^83] A (13) és (16) bekezdés rendelkezéseitől eltérően, ha az adott évben a létesítmény térítésmentes kibocsátási egység mennyiség kiigazítása szükséges az (EU) 2019/1842 bizottsági végrehajtási rendelet alapján, az üzemeltető kérelmére a hatóság az eljárás felfüggesztését megszünteti, és a nemzeti kiosztási tábla szerinti ingyenes kibocsátási egységeket az adott létesítmény részére az Európai Bizottságnak a kiigazításra vonatkozó jóváhagyó döntését megelőzően kiosztja.
+
+(19)[^84] A hatóság a (18) bekezdés szerinti kiosztás teljesítésével egyidejűleg kezdeményezi azon üzemeltető forgalmi jegyzékbeli számlájának zárolását, amely üzemeltető részére a kiigazítás Európai Bizottság általi jóváhagyása esetén a (18) bekezdésben foglaltak szerint kiosztott térítésmentes kibocsátási egység mennyiségnél várhatóan kevesebb kerül jóváhagyásra.
+
+(20)[^85] A hatóság a (19) bekezdés szerinti esetben a Bizottság (EU) 2019/1122 felhatalmazáson alapuló rendelete 20. cikk (7) bekezdése alapján lehetőséget biztosít, hogy az üzemeltető a jegyzékkezelőt a konkrét tranzakció végrehajtására meghatalmazva, a forgalmi jegyzékben tranzakció végrehajtását kérje. A tranzakció végrehajtása kizárólag az üzemeltető kiigazítás alapján várhatóan jóváhagyásra kerülő térítésmentes kibocsátási egység mennyiségének terhére kérhető.
+
+(21)[^86] A (18) bekezdésben meghatározott esetben, amennyiben az Európai Bizottság által jóváhagyott kiigazítás alapján az adott létesítménynek a (18) bekezdésben foglaltak szerint kiosztott térítésmentes kibocsátási egység mennyiségnél kevesebb került jóváhagyásra, és ez alapján a hatóság megállapítja, hogy az üzemeltető túlzott kiosztásban részesült, a hatóság a jegyzékkezelő útján gondoskodik az üzemeltető részére jogosulatlanul jóváírt többlet térítésmentes kibocsátási egység visszautalásáról, és kezdeményezi az üzemeltető számlája zárolásának feloldását.
+
 [^82]: A 8/I. §-t az 527/2020. (XI. 26.) Korm. rendelet 8. §-a iktatta be.
+[^83]: A 8/I. § (18) bekezdését a 439/2023. (IX. 21.) Korm. rendelet 1. §-a iktatta be.
+[^84]: A 8/I. § (19) bekezdését a 439/2023. (IX. 21.) Korm. rendelet 1. §-a iktatta be.
+[^85]: A 8/I. § (20) bekezdését a 439/2023. (IX. 21.) Korm. rendelet 1. §-a iktatta be.
+[^86]: A 8/I. § (21) bekezdését a 439/2023. (IX. 21.) Korm. rendelet 1. §-a iktatta be.
