@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-62-20-2
 | 2019-08-02 | 2013-62-20-2W.5 | 20/2019. (VIII. 1.) ITM rendelet |
 | 2021-07-31 | 2013-62-20-2W.6 | 38/2021. (VII. 30.) ITM rendelet |
 | 2022-06-25 | 2013-62-20-2W.7 | 20/2019. (VIII. 1.) ITM rendelet |
+| 2023-09-22 | 2013-62-20-2W.8 | 17/2023. (IX. 21.) ÉKM rendelet |
