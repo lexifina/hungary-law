@@ -1,3 +1,3 @@
-22/C. §[^67]
+22/C. §[^70]
 
-[^67]: A Vhr. 22/C. §-át a 33/2008. (XII. 31.) IRM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 29/2019. (XII. 20.) IM rendelet 100. § a) pontja.
+[^70]: A Vhr. 22/C. §-át a 33/2008. (XII. 31.) IRM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 29/2019. (XII. 20.) IM rendelet 100. § a) pontja.

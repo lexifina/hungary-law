@@ -1,3 +1,3 @@
-33. §[^93]
+33. §[^99]
 
-[^93]: A Vhr. 33. §-át a 29/2019. (XII. 20.) IM rendelet 100. § a) pontja hatályon kívül helyezte.
+[^99]: A Vhr. 33. §-át a 29/2019. (XII. 20.) IM rendelet 100. § a) pontja hatályon kívül helyezte.

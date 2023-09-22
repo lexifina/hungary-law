@@ -4,6 +4,6 @@
 
 ## (A Ktv. 25. §-ához)
 
-10. §[^48]
+10. §[^49]
 
-[^48]: A Vhr. 10. §-át a 7/1999. (VII. 16.) IM rendelet 16. §-ának (1) bekezdése hatályon kívül helyezte.
+[^49]: A Vhr. 10. §-át a 7/1999. (VII. 16.) IM rendelet 16. §-ának (1) bekezdése hatályon kívül helyezte.

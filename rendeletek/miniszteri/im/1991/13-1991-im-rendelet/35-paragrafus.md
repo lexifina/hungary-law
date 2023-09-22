@@ -1,5 +1,5 @@
 ## Névmutató
 
-35. §[^95]
+35. §[^101]
 
-[^95]: A Vhr. 35. §-át a 29/2019. (XII. 20.) IM rendelet 100. § a) pontja hatályon kívül helyezte.
+[^101]: A Vhr. 35. §-át a 29/2019. (XII. 20.) IM rendelet 100. § a) pontja hatályon kívül helyezte.
