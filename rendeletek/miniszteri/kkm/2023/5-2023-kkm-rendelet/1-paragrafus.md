@@ -1,0 +1,3 @@
+1. § A Magyarország Európai Unió melletti Állandó Képviseletén a biztonsági, informatikai és dokumentumbiztonsági feladatok ellátásának egyes kérdéseiről szóló 44/2021. (XII. 20.) KKM rendelet (a továbbiakban: KKM rendelet) 1. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) Az Európai Unió Tanácsa 2024. második félévi magyar elnökségi feladatai ellátásának ideje alatt az (1) bekezdés szerinti feladatokat a KKM hivatali szervezetének vezetője – mint a külpolitikáért felelős miniszter által vezetett kihelyező szervnek a Külszoltv. szerinti kihelyező vezetője – döntése alapján, ideiglenesen, a (2) bekezdés szerinti munkakörökön túl további diplomata, adminisztratív vagy technikai munkaköri osztályba tartozó munkakörökkel is elláthatja.”
