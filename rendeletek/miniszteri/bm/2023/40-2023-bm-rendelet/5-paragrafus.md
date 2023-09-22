@@ -1,0 +1,5 @@
+5. § A 22/2012. (IX. 14.) EMMI rendelet 14. §-a a következő (5) és (6) bekezdéssel egészül ki:
+
+„(5) Az egészségügyi felsőfokú szakirányú szakmai képzés részletes szabályairól szóló 16/2010. (IV. 15.) EüM rendelet, valamint az egészségügyi felsőfokú szakirányú szakképesítés megszerzéséről szóló 22/2012. (IX. 14.) EMMI rendelet módosításáról szóló 40/2023. (IX. 21.) BM rendelettel (a továbbiakban: MódR2.) megállapított 4. mellékletben foglaltakat első alkalommal a szakképzésüket 2024. január 1-jétől megkezdőkre vagy azt követően szakot váltókra kell alkalmazni. A szakképzését a MódR2. hatálybalépését megelőzően megkezdő szakfogorvos-jelölt a 4. mellékletben szereplő részvizsgák letételére jogosult, ha az egyes részvizsgák teljesítéséhez szükséges tevékenységeket a tutora által igazoltan elvégezte.
+
+(6) Az (5) bekezdés szerinti szakfogorvosi szakképzések esetében a részvizsgák témaköreit és kérdéseit az egyetemek legkésőbb 2024. június 30-ig határozzák meg, és honlapjukon a jelöltek számára hozzáférhetővé teszik.”
