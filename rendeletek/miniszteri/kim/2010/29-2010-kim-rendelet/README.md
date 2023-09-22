@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-29-20-2
 | 2020-01-01 | 2010-29-20-2T.10 | 40/2015. (XII. 22.) IM rendelet |
 | 2023-01-01 | 2010-29-20-2T.11 | 38/2022. (XII. 27.) IM rendelet |
 | 2023-07-23 | 2010-29-20-2T.12 | 10/2023. (VII. 20.) IM rendelet |
+| 2023-09-22 | 2010-29-20-2T.13 | 13/2023. (IX. 21.) IM rendelet |

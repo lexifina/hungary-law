@@ -1,0 +1,3 @@
+20. §[^17] A költségtérítés és a munkadíj (a továbbiakban együtt: a biztosítási intézkedés költsége) megelőlegezésére hivatalból vagy a foganatosító – akár több alkalommal előterjesztett – kérelmére a biztosítási intézkedést elrendelő jegyző vagy közjegyző végzéssel költségelőleg fizetését rendelheti el. A költségek megelőlegezésére szolgáló pénzösszeget – a jegyző vagy a közjegyző felhívásának megfelelően – az egyes közjegyzői nemperes eljárásokról szóló 2008. évi XLV. törvény megfelelő alkalmazásával a közjegyzőnél kell megfizetni.
+
+[^17]: A 20. § a 13/2023. (IX. 21.) IM rendelet 10. §-ával megállapított szöveg.

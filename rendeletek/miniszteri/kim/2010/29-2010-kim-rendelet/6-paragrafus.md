@@ -1,5 +1,6 @@
-6. § (1)[^8] A közjegyző végzést hoz az örökségletétbe vételről, annak megszüntetéséről, valamint az örökségletétbe-vételi kérelem elutasításáról vagy visszautasításáról.
+6. § (1)[^9] A közjegyző végzést hoz az örökségletétbe vételről, annak megszüntetéséről, valamint az örökségletétbe-vételi kérelem elutasításáról vagy visszautasításáról.
 
-(2) A közjegyző a költségletétbe-vételről jegyzőkönyvet vesz fel.
+(2)[^10]
 
-[^8]: A 6. § (1) bekezdése a 20/2017. (XII. 21.) IM rendelet 35. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^9]: A 6. § (1) bekezdése a 20/2017. (XII. 21.) IM rendelet 35. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^10]: A 6. § (2) bekezdését a 13/2023. (IX. 21.) IM rendelet 13. § b) pontja hatályon kívül helyezte.
