@@ -1,1 +1,3 @@
-2. § A Kjvhr. a 21. §-t követően a következő fejezetcímmel egészül ki:
+2. §[^2]
+
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

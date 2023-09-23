@@ -1,3 +1,3 @@
-4. § A Kjvhr. a következő 22. §-sal egészül ki:
+4. §[^4]
 
-„22. § A területi kamara elnöksége a működési vizsgálatot lefolytató közjegyzők részére a területi kamara által meghatározott, a vizsgálat lefolytatásához szükséges időtartamra, de legfeljebb 30 napra az egységes ügykezelő alkalmazásnak a vizsgált közjegyző székhelyén rögzített adataihoz hozzáférést engedélyez.”
+[^4]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

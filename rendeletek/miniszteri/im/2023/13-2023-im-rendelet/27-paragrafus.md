@@ -1,1 +1,3 @@
-27. § A Küsz. 4. melléklete a 6. melléklet szerint módosul.
+27. §[^27]
+
+[^27]: A 27. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

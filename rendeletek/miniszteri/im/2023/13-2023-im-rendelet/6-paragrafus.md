@@ -1,1 +1,3 @@
-6. § Hatályát veszti a Kjvhr. 14. § (4) bekezdésében a „vagy nyugalmazott bírót” szövegrész.
+6. §[^6]
+
+[^6]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

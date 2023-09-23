@@ -1,1 +1,3 @@
-12. § A Rendelet 1. melléklete az 5. melléklet szerint módosul.
+12. §[^12]
+
+[^12]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

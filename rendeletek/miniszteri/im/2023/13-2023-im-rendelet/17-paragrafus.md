@@ -1,3 +1,3 @@
-17. § A Küsz. 37. § (3) bekezdése helyébe a következő rendelkezés lép:
+17. §[^17]
 
-„(3) Ha az irat kijavítására, illetve kiegészítésére került sor, el kell készíteni a kijavítással, kiegészítéssel egységes szerkezetbe foglalt hiteles kiadmányt, amelyet rögzíteni kell a KÜR-ben.”
+[^17]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

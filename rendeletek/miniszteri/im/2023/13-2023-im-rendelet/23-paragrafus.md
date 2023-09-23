@@ -1,3 +1,3 @@
-23. § A Küsz. a következő 64/A. §-sal egészül ki:
+23. §[^23]
 
-„64/A. § Hiteles fordítás készítése vagy a fordítás helyességének tanúsítása esetén a fordítást az okirat hiteles kiadmányára – záradéki tanúsítvány esetén a záradékra –, hiteles kivonatára vagy hiteles másolatára kell írni, vagy ahhoz hozzá kell fűzni.”
+[^23]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

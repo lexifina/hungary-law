@@ -1,3 +1,3 @@
-24. §[^3]
+24. §[^24]
 
-[^3]: A 24. § a 30. § (2) bekezdés alapján 2023. október 1-jén lép hatályba.
+[^24]: A 24. § a 30. § (2) bekezdés alapján 2023. október 1-jén lép hatályba.

@@ -1,3 +1,3 @@
-## „A KÖZJEGYZŐK MŰKÖDÉSÉNEK FELÜGYELETE”
+3. §[^3]
 
-3. § A Kjvhr. „(A Ktv. 55. §-ához)” alcím címe helyébe az „(A Ktv. 69–69/A. §-ához)” alcím cím lép.
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

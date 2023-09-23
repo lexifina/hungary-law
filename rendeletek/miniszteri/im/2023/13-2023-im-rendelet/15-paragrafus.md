@@ -1,5 +1,5 @@
 ## 6. A közjegyzői ügyvitel szabályairól szóló 29/2019. (XII. 20.) IM rendelet módosítása
 
-15. § A közjegyzői ügyvitel szabályairól szóló 29/2019. (XII. 20.) IM rendelet (a továbbiakban: Küsz.) 7. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
+15. §[^15]
 
-(A KÜR-ben rögzített adatokhoz)
+[^15]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

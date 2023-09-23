@@ -1,5 +1,3 @@
-29. § Hatályát veszti a Küsz.
+29. §[^30]
 
-a) 56. § (1) bekezdés a) pontjában a „közjegyzői” szövegrész,
-
-b) 56. § (1) bekezdés c) pontja.
+[^30]: A 29. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-18. § A Küsz. 43. § (1) bekezdése helyébe a következő rendelkezés lép:
+18. §[^18]
 
-„(1) Az iratanyag Levéltárnak történő átadása a KÜR-ben tárolt iratanyag tekintetében a Levéltár általi, jogszabályban meghatározott feladatainak ellátásával összefüggő hozzáférési jogosultság használatával történik.”
+[^18]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

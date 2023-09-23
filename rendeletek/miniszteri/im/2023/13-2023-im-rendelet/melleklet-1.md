@@ -1,6 +1,6 @@
-1. melléklet a 13/2023. (IX. 21.) IM rendelethez[^5]
+1. melléklet a 13/2023. (IX. 21.) IM rendelethez[^31]
 
-1.[^6]
+1.[^32]
 
 2.
 
@@ -8,5 +8,5 @@
 
 4.
 
-[^5]: Az 1. melléklet a 30. § (2) bekezdés alapján 2023. október 1-jén lép hatályba.
-[^6]: Az 1. melléklet 1. pontja a 30. § (2) bekezdés alapján 2023. október 1-jén lép hatályba.
+[^31]: Az 1. melléklet a 30. § (2) bekezdés alapján 2023. október 1-jén lép hatályba.
+[^32]: Az 1. melléklet 1. pontja a 30. § (2) bekezdés alapján 2023. október 1-jén lép hatályba.

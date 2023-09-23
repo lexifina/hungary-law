@@ -1,5 +1,5 @@
 ## 2. A Végrendeletek Országos Nyilvántartásáról szóló 4/2009. (III. 6.) IRM rendelet módosítása
 
-7. § A Végrendeletek Országos Nyilvántartásáról szóló 4/2009. (III. 6.) IRM rendelete (a továbbiakban: VONY rendelet) a következő 10. §-sal egészül ki:
+7. §[^7]
 
-„10. § Az informatikai alkalmazást úgy kell kialakítani, hogy adategyeztetés céljából a közjegyző számára a bejegyzés előtt jelezze, ha a végintézkedő a nyilvántartásban szerepel.”
+[^7]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
