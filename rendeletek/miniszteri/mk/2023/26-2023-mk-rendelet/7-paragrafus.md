@@ -1,3 +1,3 @@
-7. § A Rendelet 55. §-a a következő (7) bekezdéssel egészül ki:
+7. §[^8]
 
-„(7) E rendeletnek a fejezeti és központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 17/2022. (XII. 1.) MK rendeletnek a 2023. évi felhasználási szabályok megállapításával összefüggő módosításáról szóló 26/2023. (IX. 21.) MK rendelettel (a továbbiakban: Módr3.) megállapított 2. § (2) bekezdését, 4. § (1) bekezdését, 5. § (2) bekezdés a) és b) pontját, valamint (5) bekezdését, 7. § (4) bekezdését, (6a) bekezdését, valamint (7) bekezdés a) és c) pontját, 4. alcímét, 13. § (28)–(30) bekezdését, 36. § (1) bekezdését, 40. § (4) bekezdését és 56. §-át a Módr3. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.”
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
