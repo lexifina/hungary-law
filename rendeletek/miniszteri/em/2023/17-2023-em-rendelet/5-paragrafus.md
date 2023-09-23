@@ -1,1 +1,3 @@
-5. § Hatályát veszti a 93/2007. (XII. 18.) KvVM rendelet 2. § (3) bekezdés a) pontjában az „annak hiteles” szövegrész.
+5. §[^6]
+
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
