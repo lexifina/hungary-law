@@ -1,1 +1,3 @@
-11. § Hatályát veszti az R2 1. § (6) bekezdésében a „ , de legkorábban 2023. július 1. napján” szövegrész.
+11. §[^12]
+
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

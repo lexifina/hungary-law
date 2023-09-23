@@ -1,3 +1,3 @@
-7. § (1) Az R1 1. melléklete az 1. melléklet szerint módosul.
+7. §[^8]
 
-(2) Az R1 2. melléklete a 2. melléklet szerint módosul.
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
