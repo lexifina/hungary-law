@@ -1,3 +1,3 @@
-2. § Az R. a következő 134. §-sal egészül ki:
+2. §[^3]
 
-„134. § E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 434/2023. (IX. 21.) Korm. rendelettel (a továbbiakban: Módr126.) módosított 3. § (2a) bekezdését, 5/Q. § (1) bekezdését, 2. mellékletébenfoglalt táblázat 21. sorát, valamint megállapított 5/Q. § (6) és (7) bekezdését a Módr126. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

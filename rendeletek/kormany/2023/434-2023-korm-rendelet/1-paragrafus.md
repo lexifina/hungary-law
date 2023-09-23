@@ -1,5 +1,3 @@
-1. § Az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet (a továbbiakban: R.) 5/Q. §-a a következő (6) és (7) bekezdéssel egészül ki:
+1. §[^2]
 
-„(6) A 2. mellékletbenfoglalt táblázat 21. sora szerinti beruházás esetében a 2. mellékletbenfoglalt táblázat B:21 mezőjében megjelölt ingatlanokon, valamint az ezen földrészletekből a telekalakítási eljárásokban hozott döntések véglegessé válását követően kialakított földrészleteken munkásszállás is elhelyezhető.
-
-(7) A fő rendeltetés szerinti épületek használatbavételéig az építési beruházás megvalósítása során a kivitelezési munkák elvégzéséhez szükséges, munkavállalók által ideiglenesen használt, munkásszállásnak nem minősülő, de az OTÉK 104/A. §-ában foglaltaknak megfelelő, szállás jellegű épület létesítése a telekalakítással kialakuló építési telken belül megengedett, azzal, hogy a szállás jellegű épülethez nem kötelező személygépkocsi-várakozóhelyeket és kerékpártárolót biztosítani, azonban gondoskodni kell a szállás jellegű épülettel igénybe vett terület fizikai lehatárolásáról.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
