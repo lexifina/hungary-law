@@ -1,1 +1,3 @@
-3. § Hatályát veszti a 16/2010. (IV. 15.) EüM rendelet 9/B. § (5) bekezdés b) pontjában a „vagy” szövegrész.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
