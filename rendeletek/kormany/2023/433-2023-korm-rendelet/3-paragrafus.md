@@ -1,7 +1,3 @@
-3. § Hatályát veszti az R1. 14. mellékletében foglalt táblázat
+3. §[^3]
 
-a) D:15 és D:17 mezőjében a „bányafelügyelet”,
-
-b) D:16 mezőjében a „területi vízügyi igazgatóság”
-
-szövegrész.
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
