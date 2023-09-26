@@ -1,4 +1,4 @@
-1. § (1)[^1] A hitelintézetnél 2023. szeptember 30. napjáig kötött, forintban elhelyezett látra szóló és legfeljebb egyéves futamidejű betétszerződés alapján a betét összegére fizetett kamat nem haladhatja meg az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság hivatalos honlapján utoljára közzétett 3 hónapos hátralévő futamidővel forgalomba hozott diszkont kincstárjegy aukciós átlaghozamának mértékét.
+1. § (1)[^1] A hitelintézetnél 2023. december 31. napjáig kötött, forintban elhelyezett látra szóló és legfeljebb egyéves futamidejű betétszerződés alapján a betét összegére fizetett kamat nem haladhatja meg az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság hivatalos honlapján utoljára közzétett 3 hónapos hátralévő futamidővel forgalomba hozott diszkont kincstárjegy aukciós átlaghozamának mértékét.
 
 (2) Az (1) bekezdést
 
@@ -8,4 +8,4 @@ b) a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 39. § (1) bek
 
 kötött betétszerződésekre kell alkalmazni.
 
-[^1]: Az 1. § (1) bekezdése a 257/2023. (VI. 26.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^1]: Az 1. § (1) bekezdése a 440/2023. (IX. 25.) Korm. rendelet 1. §-a szerint módosított szöveg.
