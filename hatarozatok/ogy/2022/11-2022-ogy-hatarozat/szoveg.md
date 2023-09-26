@@ -28,7 +28,7 @@ A bizottság feladatköre: fenntartható fejlődéssel kapcsolatos kérdések, k
 
 Tagok: Bencsik János (Fidesz)
 
-Zsigó Róbert (Fidesz)[^6]
+dr. Ferencz Orsolya (Fidesz)[^6]
 
 Becsó Zsolt (Fidesz)[^7]
 
@@ -224,7 +224,7 @@ Németh Zsolt (Fidesz)
 
 dr. Tilki Attila (Fidesz)[^22]
 
-dr. Zsigmond Barna Pál (Fidesz)
+Bóna Zoltán (Fidesz)[^23]
 
 dr. Juhász Hajnalka (KDNP)
 
@@ -236,7 +236,7 @@ dr. Brenner Koloman (Jobbik)
 
 dr. Gurmai Zita (MSZP)
 
-Tompos Márton Kristóf (Momentum)[^23]
+Tompos Márton Kristóf (Momentum)[^24]
 
 i) Mentelmi bizottság (6 fő)
 
@@ -248,7 +248,7 @@ dr. Pajtók Gábor (Fidesz)
 
 dr. Hargitai János (KDNP)
 
-Hegedüs Andrea (DK)[^24]
+Hegedüs Andrea (DK)[^25]
 
 Tompos Márton Kristóf (Momentum)
 
@@ -274,7 +274,7 @@ Pócs János (Fidesz)
 
 Mihálffy Béla (KDNP)
 
-Ráczné Földi Judit (DK)[^25]
+Ráczné Földi Judit (DK)[^26]
 
 Bencze János (Jobbik)
 
@@ -302,17 +302,17 @@ l) Nemzeti összetartozás bizottsága (9 fő)
 
 A bizottság feladatköre: nemzetpolitikai kérdések.
 
-Tagok: dr. Tiba István (Fidesz)[^26]
+Tagok: dr. Tiba István (Fidesz)[^27]
 
 Jakab István (Fidesz)
 
-Herczeg Tamás (Fidesz)[^27]
+Herczeg Tamás (Fidesz)[^28]
 
-Dócs Dávid (Mi Hazánk)[^28]
+Dócs Dávid (Mi Hazánk)[^29]
 
 Pánczél Károly (Fidesz)
 
-dr. Zsigmond Barna Pál (Fidesz)
+Zsigó Róbert (Fidesz)[^30]
 
 Szászfalvi László (KDNP)
 
@@ -330,7 +330,7 @@ Kovács Sándor (Fidesz)
 
 dr. Mészáros Lajos (Fidesz)
 
-Horváth László (Fidesz)[^29]
+Horváth László (Fidesz)[^31]
 
 dr. Pesti Imre (Fidesz)
 
@@ -340,19 +340,19 @@ Sztojka Attila (Fidesz)
 
 dr. Tapolczai Gergely (Fidesz)
 
-Bartos Mónika (Fidesz)[^30]
+Bartos Mónika (Fidesz)[^32]
 
 Nacsa Lőrinc (KDNP)
 
 dr. Komáromi Zoltán (DK)
 
-Varga Zoltán (DK)[^31]
+Varga Zoltán (DK)[^33]
 
 Sebők Éva (Momentum)
 
 Szabó Timea (Párbeszéd)
 
-Varga Ferenc (független)[^32]
+Varga Ferenc (független)[^34]
 
 n) Vállalkozásfejlesztési bizottság (9 fő)
 
@@ -364,13 +364,13 @@ Becsó Zsolt (Fidesz)
 
 Gelencsér Attila (Fidesz)
 
-Szabó Zsolt (Fidesz)[^33]
+Szabó Zsolt (Fidesz)[^35]
 
 Szatmáry Kristóf (Fidesz)
 
 Tasó László (Fidesz)
 
-Varga Ferenc (független)[^34]
+Varga Ferenc (független)[^36]
 
 Lőcsei Lajos (Momentum)
 
@@ -380,9 +380,9 @@ dr. Apáti István (Mi Hazánk)
 
 Törvényalkotási bizottság (42 fő)
 
-Tagok: dr. Hoppál Péter (Fidesz)[^35]
+Tagok: dr. Hoppál Péter (Fidesz)[^37]
 
-Süli János (KDNP)[^36]
+Süli János (KDNP)[^38]
 
 Balla György (Fidesz)
 
@@ -402,9 +402,9 @@ Héjj Dávid (Fidesz)
 
 Hende Csaba (Fidesz)
 
-Herczeg Zsolt (Fidesz)[^37]
+Herczeg Zsolt (Fidesz)[^39]
 
-dr. Kiss János (Fidesz)[^38]
+dr. Kiss János (Fidesz)[^40]
 
 Illés Boglárka (Fidesz)
 
@@ -412,7 +412,7 @@ dr. Láng Zsolt (Fidesz)
 
 Mátrai Márta (Fidesz)
 
-Pogácsás Tibor (Fidesz)[^39]
+Pogácsás Tibor (Fidesz)[^41]
 
 Nagy Csaba (Fidesz)
 
@@ -422,7 +422,7 @@ Ovádi Péter (Fidesz)
 
 dr. Salacz László (Fidesz)
 
-Erdős Norbert (Fidesz)[^40]
+Erdős Norbert (Fidesz)[^42]
 
 dr. Tapolczai Gergely (Fidesz)
 
@@ -438,15 +438,15 @@ dr. Vejkey Imre (KDNP)
 
 Arató Gergely (DK)
 
-Varju László (DK)[^41]
+Varju László (DK)[^43]
 
-Gy. Németh Erzsébet (DK)[^42]
+Gy. Németh Erzsébet (DK)[^44]
 
-Gréczy Zsolt (DK)[^43]
+Gréczy Zsolt (DK)[^45]
 
-Bencze János (Jobbik)[^44]
+Bencze János (Jobbik)[^46]
 
-Dudás Róbert (Jobbik)[^45]
+Dudás Róbert (Jobbik)[^47]
 
 Hajnal Miklós (Momentum)
 
@@ -460,7 +460,7 @@ Kunhalmi Ágnes (MSZP)
 
 Szabadi István (Mi Hazánk)
 
-Jámbor András Imre (Párbeszéd)[^46]
+Jámbor András Imre (Párbeszéd)[^48]
 
 Kanász-Nagy Máté (LMP)
 
@@ -472,13 +472,13 @@ Magyarországi nemzetiségek bizottsága
 
 a) Európai ügyek bizottsága
 
-Elnök: dr. Varga Judit (Fidesz)[^47]
+Elnök: dr. Varga Judit (Fidesz)[^49]
 
 Alelnök: Tessely Zoltán (Fidesz)
 
 Balassa Péter (Jobbik)
 
-Barkóczi Balázs (DK)[^48]
+Barkóczi Balázs (DK)[^50]
 
 b) Fenntartható fejlődés bizottsága
 
@@ -496,7 +496,7 @@ Elnök: Bánki Erik (Fidesz)
 
 Alelnök: Barcza Attila (Fidesz)
 
-Cseresnyés Péter (Fidesz)[^49]
+Cseresnyés Péter (Fidesz)[^51]
 
 dr. Molnár Ágnes (Fidesz)
 
@@ -512,7 +512,7 @@ d) Honvédelmi és rendészeti bizottság
 
 Elnök: Kósa Lajos (Fidesz)
 
-Alelnök: Kontrát Károly (Fidesz)[^50]
+Alelnök: Kontrát Károly (Fidesz)[^52]
 
 dr. Simon Miklós (Fidesz)
 
@@ -524,7 +524,7 @@ e) Igazságügyi bizottság
 
 Elnök: dr. Vejkey Imre (KDNP)
 
-Alelnök: Vigh László (Fidesz)[^51]
+Alelnök: Vigh László (Fidesz)[^53]
 
 dr. Kovács Zoltán (Fidesz)
 
@@ -538,13 +538,13 @@ Elnök: Vajda Zoltán (MSZP)
 
 Alelnök: Kara Ákos (Fidesz)
 
-F. Kovács Sándor (Fidesz)[^52]
+F. Kovács Sándor (Fidesz)[^54]
 
-dr. Tilki Attila (Fidesz)
+Törő Gábor (Fidesz)[^55]
 
-Szabó Zsolt (Fidesz)[^53]
+Szabó Zsolt (Fidesz)[^56]
 
-Ander Balázs (Jobbik)[^54]
+Ander Balázs (Jobbik)[^57]
 
 g) Kulturális bizottság
 
@@ -554,13 +554,13 @@ Alelnök: Demeter Zoltán (Fidesz)
 
 Dunai Mónika (Fidesz)
 
-Bodó Sándor (Fidesz)[^55]
+Bodó Sándor (Fidesz)[^58]
 
 dr. Kállai Mária (Fidesz)
 
 Simon Róbert Balázs (Fidesz)
 
-Kálmán Olga (DK)[^56]
+Kálmán Olga (DK)[^59]
 
 Kunhalmi Ágnes (MSZP)
 
@@ -572,7 +572,7 @@ Elnök: Németh Zsolt (Fidesz)
 
 Alelnök: Balla Mihály (Fidesz)
 
-dr. Zsigmond Barna Pál (Fidesz)
+dr. Tilki Attila (Fidesz)[^60]
 
 dr. Juhász Hajnalka (KDNP)
 
@@ -582,7 +582,7 @@ i) Mentelmi bizottság
 
 Elnök: dr. Hargitai János (KDNP)
 
-Alelnök: Hegedüs Andrea (DK)[^57]
+Alelnök: Hegedüs Andrea (DK)[^61]
 
 j) Mezőgazdasági bizottság
 
@@ -592,7 +592,7 @@ Alelnök: Czerván György (Fidesz)
 
 Győrffy Balázs (Fidesz)
 
-Ráczné Földi Judit (DK)[^58]
+Ráczné Földi Judit (DK)[^62]
 
 k) Nemzetbiztonsági bizottság
 
@@ -604,7 +604,7 @@ l) Nemzeti összetartozás bizottsága
 
 Elnök: Pánczél Károly (Fidesz)
 
-Alelnök: Herczeg Tamás (Fidesz)[^59]
+Alelnök: Herczeg Tamás (Fidesz)[^63]
 
 Szászfalvi László (KDNP)
 
@@ -612,15 +612,15 @@ dr. Molnár Zsolt (MSZP)
 
 m) Népjóléti bizottság
 
-Elnök: Varga Zoltán (DK)[^60]
+Elnök: Varga Zoltán (DK)[^64]
 
 Alelnök: dr. Kovács József (Fidesz)
 
 Kovács Sándor (Fidesz)
 
-dr. Pesti Imre (Fidesz)[^61]
+dr. Pesti Imre (Fidesz)[^65]
 
-dr. Mészáros Lajos (Fidesz)[^62]
+dr. Mészáros Lajos (Fidesz)[^66]
 
 dr. Komáromi Zoltán (DK)
 
@@ -628,19 +628,19 @@ n) Vállalkozásfejlesztési bizottság
 
 Elnök: dr. Apáti István (Mi Hazánk)
 
-Alelnök: Tasó László (Fidesz)[^63]
+Alelnök: Tasó László (Fidesz)[^67]
 
 Szatmáry Kristóf (Fidesz)
 
-Varga Ferenc (független)[^64]
+Varga Ferenc (független)[^68]
 
 o) Törvényalkotási bizottság
 
 Elnök: Hende Csaba (Fidesz)
 
-Alelnök: Süli János (KDNP)[^65]
+Alelnök: Süli János (KDNP)[^69]
 
-Pogácsás Tibor (Fidesz)[^66]
+Pogácsás Tibor (Fidesz)[^70]
 
 dr. Salacz László (Fidesz)
 
@@ -654,23 +654,23 @@ p) Magyarországi nemzetiségek bizottsága
 
 Elnök: Ritter Imre (nemzetiségi képviselő)
 
-Alelnök: Alexov Lyubomir (nemzetiségi szószóló),[^67]
+Alelnök: Alexov Lyubomir (nemzetiségi szószóló),[^71]
 
-Kissné Köles Erika (nemzetiségi szószóló),[^68]
+Kissné Köles Erika (nemzetiségi szószóló),[^72]
 
-Varga Szimeon (nemzetiségi szószóló)[^69]
+Varga Szimeon (nemzetiségi szószóló)[^73]
 
 5. Ez a határozat az elfogadásakor lép hatályba.
 
 6. A bizottságok megbízatása e határozat hatálybalépésekor kezdődik.
 
-7.[^70]
+7.[^74]
 
 [^2]: A 29/2022. (VII. 5.) OGY határozat 1. pontjával megállapított szöveg.
 [^3]: A 19/2023. (VII. 5.) OGY határozat 1. pontjával megállapított szöveg.
 [^4]: A 34/2022. (VII. 19.) OGY határozat 1. pontjával megállapított szöveg.
 [^5]: A 38/2022. (IX. 27.) OGY határozat 1. pontjával megállapított szöveg.
-[^6]: A 21/2022. (VI. 14.) OGY határozat 1. pontjával megállapított szöveg.
+[^6]: A 20/2023. (IX. 26.) OGY határozat 1. pontjával megállapított szöveg.
 [^7]: A 17/2022. (VI. 8.) OGY határozat 1. pontjával megállapított szöveg.
 [^8]: A 17/2022. (VI. 8.) OGY határozat 1. pontjával megállapított szöveg.
 [^9]: A 17/2022. (VI. 8.) OGY határozat 1. pontjával megállapított szöveg.
@@ -687,51 +687,55 @@ Varga Szimeon (nemzetiségi szószóló)[^69]
 [^20]: A 29/2022. (VII. 5.) OGY határozat 1. pontjával megállapított szöveg.
 [^21]: A 29/2022. (VII. 5.) OGY határozat 1. pontjával megállapított szöveg.
 [^22]: A 29/2022. (VII. 5.) OGY határozat 1. pontjával megállapított szöveg.
-[^23]: A 38/2022. (IX. 27.) OGY határozat 1. pontja iktatta be.
-[^24]: A 29/2022. (VII. 5.) OGY határozat 1. pontjával megállapított szöveg.
-[^25]: A 2/2023. (III. 8.) OGY határozat 1. pontjával megállapított szöveg.
-[^26]: Az 1/2023. (II. 28.) OGY határozat 1. pontjával megállapított szöveg.
-[^27]: A 21/2022. (VI. 14.) OGY határozat 1. pontjával megállapított szöveg.
-[^28]: A 17/2022. (VI. 8.) OGY határozat 1. pontjával megállapított szöveg.
+[^23]: A 20/2023. (IX. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^24]: A 38/2022. (IX. 27.) OGY határozat 1. pontja iktatta be.
+[^25]: A 29/2022. (VII. 5.) OGY határozat 1. pontjával megállapított szöveg.
+[^26]: A 2/2023. (III. 8.) OGY határozat 1. pontjával megállapított szöveg.
+[^27]: Az 1/2023. (II. 28.) OGY határozat 1. pontjával megállapított szöveg.
+[^28]: A 21/2022. (VI. 14.) OGY határozat 1. pontjával megállapított szöveg.
 [^29]: A 17/2022. (VI. 8.) OGY határozat 1. pontjával megállapított szöveg.
-[^30]: A 17/2022. (VI. 8.) OGY határozat 1. pontjával megállapított szöveg.
-[^31]: A 34/2022. (VII. 19.) OGY határozat 1. pontjával megállapított szöveg.
-[^32]: Az 1/2023. (II. 28.) OGY határozat 1. pontjával megállapított szöveg.
-[^33]: A 17/2022. (VI. 8.) OGY határozat 1. pontjával megállapított szöveg.
-[^34]: A 4/2023. (III. 27.) OGY határozat 1. pontjával megállapított szöveg.
-[^35]: A 8/2023. (III. 31.) OGY határozat 1. pontjával megállapított szöveg.
-[^36]: A 13/2023. (V. 3.) OGY határozat 1. pontjával megállapított szöveg.
-[^37]: A 21/2022. (VI. 14.) OGY határozat 2. pontjával megállapított szöveg.
-[^38]: A 17/2022. (VI. 8.) OGY határozat 2. pontjával megállapított szöveg.
-[^39]: A 17/2022. (VI. 8.) OGY határozat 2. pontjával megállapított szöveg.
+[^30]: A 20/2023. (IX. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^31]: A 17/2022. (VI. 8.) OGY határozat 1. pontjával megállapított szöveg.
+[^32]: A 17/2022. (VI. 8.) OGY határozat 1. pontjával megállapított szöveg.
+[^33]: A 34/2022. (VII. 19.) OGY határozat 1. pontjával megállapított szöveg.
+[^34]: Az 1/2023. (II. 28.) OGY határozat 1. pontjával megállapított szöveg.
+[^35]: A 17/2022. (VI. 8.) OGY határozat 1. pontjával megállapított szöveg.
+[^36]: A 4/2023. (III. 27.) OGY határozat 1. pontjával megállapított szöveg.
+[^37]: A 8/2023. (III. 31.) OGY határozat 1. pontjával megállapított szöveg.
+[^38]: A 13/2023. (V. 3.) OGY határozat 1. pontjával megállapított szöveg.
+[^39]: A 21/2022. (VI. 14.) OGY határozat 2. pontjával megállapított szöveg.
 [^40]: A 17/2022. (VI. 8.) OGY határozat 2. pontjával megállapított szöveg.
-[^41]: A 34/2022. (VII. 19.) OGY határozat 2. pontjával megállapított szöveg.
-[^42]: A 29/2022. (VII. 5.) OGY határozat 2. pontjával megállapított szöveg.
-[^43]: A 29/2022. (VII. 5.) OGY határozat 2. pontjával megállapított szöveg.
-[^44]: A 2/2023. (III. 8.) OGY határozat 2. pontjával megállapított szöveg.
-[^45]: A 38/2022. (IX. 27.) OGY határozat 2. pontjával megállapított szöveg.
-[^46]: A 15/2022. (V. 18.) OGY határozat 1. pontjával megállapított szöveg.
-[^47]: A 19/2023. (VII. 5.) OGY határozat 2. pontjával megállapított szöveg.
-[^48]: A 34/2022. (VII. 19.) OGY határozat 3. pontjával megállapított szöveg.
-[^49]: A 17/2022. (VI. 8.) OGY határozat 3. pontjával megállapított szöveg.
-[^50]: A 17/2022. (VI. 8.) OGY határozat 3. pontjával megállapított szöveg.
+[^41]: A 17/2022. (VI. 8.) OGY határozat 2. pontjával megállapított szöveg.
+[^42]: A 17/2022. (VI. 8.) OGY határozat 2. pontjával megállapított szöveg.
+[^43]: A 34/2022. (VII. 19.) OGY határozat 2. pontjával megállapított szöveg.
+[^44]: A 29/2022. (VII. 5.) OGY határozat 2. pontjával megállapított szöveg.
+[^45]: A 29/2022. (VII. 5.) OGY határozat 2. pontjával megállapított szöveg.
+[^46]: A 2/2023. (III. 8.) OGY határozat 2. pontjával megállapított szöveg.
+[^47]: A 38/2022. (IX. 27.) OGY határozat 2. pontjával megállapított szöveg.
+[^48]: A 15/2022. (V. 18.) OGY határozat 1. pontjával megállapított szöveg.
+[^49]: A 19/2023. (VII. 5.) OGY határozat 2. pontjával megállapított szöveg.
+[^50]: A 34/2022. (VII. 19.) OGY határozat 3. pontjával megállapított szöveg.
 [^51]: A 17/2022. (VI. 8.) OGY határozat 3. pontjával megállapított szöveg.
 [^52]: A 17/2022. (VI. 8.) OGY határozat 3. pontjával megállapított szöveg.
-[^53]: A 31/2022. (VII. 12.) OGY határozat 1. pontjával megállapított szöveg.
-[^54]: A 38/2022. (IX. 27.) OGY határozat 3. pontjával megállapított szöveg.
-[^55]: A 17/2022. (VI. 8.) OGY határozat 3. pontjával megállapított szöveg.
-[^56]: A 29/2022. (VII. 5.) OGY határozat 3. pontja iktatta be.
-[^57]: A 29/2022. (VII. 5.) OGY határozat 3. pontjával megállapított szöveg.
-[^58]: A 2/2023. (III. 8.) OGY határozat 3. pontjával megállapított szöveg.
-[^59]: A 21/2022. (VI. 14.) OGY határozat 3. pontjával megállapított szöveg.
-[^60]: A 34/2022. (VII. 19.) OGY határozat 3. pontjával megállapított szöveg.
-[^61]: A 38/2022. (IX. 27.) OGY határozat 3. pontjával megállapított szöveg.
-[^62]: A 13/2023. (V. 3.) OGY határozat 2. pontjával megállapított szöveg.
-[^63]: A 17/2022. (VI. 8.) OGY határozat 3. pontjával megállapított szöveg.
-[^64]: A 4/2023. (III. 27.) OGY határozat 2. pontjával megállapított szöveg.
-[^65]: A 13/2023. (V. 3.) OGY határozat 2. pontjával megállapított szöveg.
-[^66]: A 17/2022. (VI. 8.) OGY határozat 3. pontjával megállapított szöveg.
-[^67]: A 12/2022. (V. 13.) OGY határozat 1. pontja iktatta be.
-[^68]: A 12/2022. (V. 13.) OGY határozat 1. pontja iktatta be.
-[^69]: A 12/2022. (V. 13.) OGY határozat 1. pontja iktatta be.
-[^70]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^53]: A 17/2022. (VI. 8.) OGY határozat 3. pontjával megállapított szöveg.
+[^54]: A 17/2022. (VI. 8.) OGY határozat 3. pontjával megállapított szöveg.
+[^55]: A 20/2023. (IX. 26.) OGY határozat 2. pontjával megállapított szöveg.
+[^56]: A 31/2022. (VII. 12.) OGY határozat 1. pontjával megállapított szöveg.
+[^57]: A 38/2022. (IX. 27.) OGY határozat 3. pontjával megállapított szöveg.
+[^58]: A 17/2022. (VI. 8.) OGY határozat 3. pontjával megállapított szöveg.
+[^59]: A 29/2022. (VII. 5.) OGY határozat 3. pontja iktatta be.
+[^60]: A 20/2023. (IX. 26.) OGY határozat 2. pontjával megállapított szöveg.
+[^61]: A 29/2022. (VII. 5.) OGY határozat 3. pontjával megállapított szöveg.
+[^62]: A 2/2023. (III. 8.) OGY határozat 3. pontjával megállapított szöveg.
+[^63]: A 21/2022. (VI. 14.) OGY határozat 3. pontjával megállapított szöveg.
+[^64]: A 34/2022. (VII. 19.) OGY határozat 3. pontjával megállapított szöveg.
+[^65]: A 38/2022. (IX. 27.) OGY határozat 3. pontjával megállapított szöveg.
+[^66]: A 13/2023. (V. 3.) OGY határozat 2. pontjával megállapított szöveg.
+[^67]: A 17/2022. (VI. 8.) OGY határozat 3. pontjával megállapított szöveg.
+[^68]: A 4/2023. (III. 27.) OGY határozat 2. pontjával megállapított szöveg.
+[^69]: A 13/2023. (V. 3.) OGY határozat 2. pontjával megállapított szöveg.
+[^70]: A 17/2022. (VI. 8.) OGY határozat 3. pontjával megállapított szöveg.
+[^71]: A 12/2022. (V. 13.) OGY határozat 1. pontja iktatta be.
+[^72]: A 12/2022. (V. 13.) OGY határozat 1. pontja iktatta be.
+[^73]: A 12/2022. (V. 13.) OGY határozat 1. pontja iktatta be.
+[^74]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
