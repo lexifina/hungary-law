@@ -1,5 +1,5 @@
 1. § (1) Az Ukrajna területén fennálló fegyveres konfliktusra, illetve humanitárius katasztrófára tekintettel, valamint ezek magyarországi következményeinek az elhárítása és kezelése érdekében veszélyhelyzet kihirdetéséről és egyes veszélyhelyzeti szabályokról szóló 424/2022. (X. 28.) Korm. rendelet szerinti veszélyhelyzet ideje alatt a Polgári Törvénykönyvről szóló 2013. évi V. törvényt – a kötvényről szóló 285/2001. (XII. 26.) Korm. rendelet 5. §-ának megfelelően – az e rendeletben meghatározott eltéréssel kell alkalmazni.
 
-(2)[^1] A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 39. § (1) bekezdés a), d), f), i), l) és m) pontja szerinti törvények hatálya alá tartozó szervezet, valamint 20 000 000 forint összeget meghaladóan természetes személy 2023. szeptember 30-ig nem vásárolhat az Európai Unió tagállamának jegybankja által kibocsátott, forint devizanemben denominált, hitelviszonyt megtestesítő értékpapírt.
+(2)[^1] A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 39. § (1) bekezdés a), d), f), i), l) és m) pontja szerinti törvények hatálya alá tartozó szervezet, valamint 20 000 000 forint összeget meghaladóan természetes személy 2023. december 31-ig nem vásárolhat az Európai Unió tagállamának jegybankja által kibocsátott, forint devizanemben denominált, hitelviszonyt megtestesítő értékpapírt.
 
-[^1]: Az 1. § (2) bekezdése a 257/2023. (VI. 26.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^1]: Az 1. § (2) bekezdése a 440/2023. (IX. 25.) Korm. rendelet 2. §-a szerint módosított szöveg.
