@@ -20,9 +20,9 @@
 
 | Határidő: | a forrás rendelkezésre állását követően azonnal |
 
-## 2. A Budapest–Belgrád vasútvonal újjáépítési beruházás megvalósításához szükséges további feladatokról szóló 1090/2023. (III. 16.) Korm. határozat [a továbbiakban: 1090/2023. (III. 16.) Korm. határozat] 1. pont b) alpont nyitó szövegrészében a „3 560 000 000 forint” szövegrész helyébe a „4 560 000 000 forint” szöveg lép.
+## 2.[^1]
 
-## 3. Az 1090/2023. (III. 16.) Korm. határozat 1. pont b) alpont bb) pontjában az „1 500 000 000 forint” szövegrész helyébe a „2 500 000 000 forint” szöveg lép.
+## 3.[^2]
 
 1. melléklet az 1414/2023. (IX. 25.) Korm. határozathoz
 
@@ -43,3 +43,6 @@ d) a műszaki átadáshoz, a fejlesztés során létrehozott eszközök üzembe 
 a) az Északi szakasz kivitelezésével, finanszírozásával kapcsolatos széles körű adminisztrációs, koordinációs és projektmenedzsmenti feladatok ellátása,
 
 b) kommunikációs, tájékoztatási és sajtónyilvánossággal kapcsolatos feladatok elvégzése.
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
