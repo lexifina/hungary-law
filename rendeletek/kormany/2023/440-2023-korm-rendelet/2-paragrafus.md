@@ -1,3 +1,5 @@
 ## 2. A gazdasági, finanszírozási tárgyú intézkedésekről szóló 89/2023. (III. 22.) Korm. rendelet módosítása
 
-2. § A gazdasági, finanszírozási tárgyú intézkedésekről szóló 89/2023. (III. 22.) Korm. rendelet 1. § (2) bekezdésében a „2023. szeptember 30-ig” szövegrész helyébe a „2023. december 31-ig” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
