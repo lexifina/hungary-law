@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-1661-30
 | 2019-11-28 | 2018-1661-30-22.4 | 1668/2019. (XI. 28.) Korm. határozat |
 | 2021-09-30 | 2018-1661-30-22.5 | 1668/2019. (XI. 28.) Korm. határozat |
 | 2022-06-22 | 2018-1661-30-22.8 | 1602/2019. (X. 16.) Korm. határozat |
+| 2023-09-28 | 2018-1661-30-22.6 | 1602/2019. (X. 16.) Korm. határozat |
