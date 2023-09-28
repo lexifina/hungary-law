@@ -1,0 +1,3 @@
+24. § A 15/2023. (IV. 19.) AM rendelet 14. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A mikrobiológiai készítmények alkalmazása szántóföldi területen gyakorlat (a továbbiakban: gyakorlat7) keretében a mezőgazdasági termelőnek a tárgyévben a mezőgazdasági üzem szántóterületének legalább 50%-án a talajéletet és a talajállapotot javító mikrobiológiai készítményeket kell alkalmaznia a következő módok valamelyike szerint vagy azok tetszőleges kombinációjában: a vetés előtt, vagy a vetéssel egy menetben kijuttatva és a talajba dolgozva, vagy szármaradványokra kijuttatva, majd azokat a talajba dolgozva, beleértve a sekély tarlóhántást és -ápolást.”
