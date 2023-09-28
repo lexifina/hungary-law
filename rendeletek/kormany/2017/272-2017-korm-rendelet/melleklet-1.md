@@ -1,4 +1,4 @@
-1. melléklet a 272/2017. (IX. 14.) Korm. rendelethez[^7]
+1. melléklet a 272/2017. (IX. 14.) Korm. rendelethez[^9]
 
 1. Ivóvízminőség-javító projektek
 
@@ -604,4 +604,6 @@
 
 | 12. | Víziközmű hálózat rekonstrukció Nagykanizsán – a Platán sori és Teleki utcai ivóvíz közhálózat felújítása | Nagykanizsa Megyei Jogú Város Önkormányzata |
 
-[^7]: Az 1. melléklet a 141/2018. (VII. 27.) Korm. rendelet 13. §-ával megállapított, a 823/2021. (XII. 28.) Korm. rendelet 2. § (1) bekezdése és 3–4. §-a, az 523/2022. (XII. 15.) Korm. rendelet 22. §-a, az 546/2022. (XII. 22.) Korm. rendelet 189. § a)-d) pontja, a 621/2022. (XII. 29.) Korm. rendelet 2. §-a szerint módosított szöveg.
+| 13. | Ajka város víziközmű hálózatának hatékonyságnövelése kék-zöld infrastruktúra elemekkel – előkészítés | Ajka Város Önkormányzata és a BAKONYKARSZT Víz- és Csatornamű Zártkörűen Működő Részvénytársaság konzorciuma |
+
+[^9]: Az 1. melléklet a 141/2018. (VII. 27.) Korm. rendelet 13. §-ával megállapított, a 823/2021. (XII. 28.) Korm. rendelet 2. § (1) bekezdése és 3–4. §-a, az 523/2022. (XII. 15.) Korm. rendelet 22. §-a, az 546/2022. (XII. 22.) Korm. rendelet 189. § a)-d) pontja, a 621/2022. (XII. 29.) Korm. rendelet 2. §-a, a 442/2023. (IX. 27.) Korm. rendelet 2. §-a szerint módosított szöveg.
