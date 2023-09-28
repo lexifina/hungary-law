@@ -1,3 +1,5 @@
+## 0X03265_0
+
 | XV. Pénzügyminisztérium |
 
 | XVII. Innovációs és Technológiai Minisztérium |

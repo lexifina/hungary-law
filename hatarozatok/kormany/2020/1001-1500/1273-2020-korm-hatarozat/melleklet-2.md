@@ -1,3 +1,5 @@
+## 0X03263_0
+
 | XII. Agrárminisztérium |
 
 | XVII. Innovációs és Technológiai Minisztérium |

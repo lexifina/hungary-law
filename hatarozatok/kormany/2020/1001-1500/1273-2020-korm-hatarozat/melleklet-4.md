@@ -1,3 +1,5 @@
+## 0X03266_0
+
 | XXII. Miniszterelnöki Kormányiroda |
 
 | XLII. A költségvetés közvetlen bevételei és kiadásai |
