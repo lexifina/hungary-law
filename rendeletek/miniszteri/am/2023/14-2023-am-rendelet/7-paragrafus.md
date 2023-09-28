@@ -8,8 +8,8 @@
 
 (5) Ha a meg nem felelés miatt alkalmazandó teljes támogatáscsökkentés a tárgyévben nem haladja meg a 100 eurónak megfelelő forint összeget, a támogatáscsökkentés kiszabásától el kell tekinteni.
 
-(6)[^4] Ha két egymást követő évben ugyanazon elhanyagolható meg nem felelés megállapításra kerül, akkor a meg nem felelés megállapítása második évétől – azok számától függetlenül – 1% támogatáscsökkentést kell kiszabni.
+(6)[^5] Ha két egymást követő évben ugyanazon elhanyagolható meg nem felelés megállapításra kerül, akkor a meg nem felelés megállapítása második évétől – azok számától függetlenül – 1% támogatáscsökkentést kell kiszabni.
 
 (7) A 2023. támogatási évben a 2021-ben és 2022-ben, a 2024. támogatási évben a 2022-ben lefolytatott kölcsönös megfeleltetés ellenőrzése során megállapított meg nem feleléseket az ismétlődés megállapításakor figyelembe kell venni, amennyiben azok alapján egyértelműen megállapítható valamely feltételesség szerinti JFGK vagy HMKÁ előírás megsértése.
 
-[^4]: A 7. § (6) bekezdése a 26/2023. (VI. 30.) AM rendelet 17. §-ával megállapított szöveg.
+[^5]: A 7. § (6) bekezdése a 26/2023. (VI. 30.) AM rendelet 17. §-ával megállapított szöveg.
