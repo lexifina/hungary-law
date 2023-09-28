@@ -1,0 +1,1 @@
+41. § A Módtv. 129. § (2) bekezdésének a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 110/F. § (3) bekezdését megállapító rendelkezése a „2023. február 1.” szövegrészek helyett a „2024. október 1.” szöveggel lép hatályba.

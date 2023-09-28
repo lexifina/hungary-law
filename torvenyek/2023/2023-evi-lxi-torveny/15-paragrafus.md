@@ -1,0 +1,5 @@
+## 8. Az adózás rendjéről szóló 2017. évi CL. törvény módosítása
+
+15. § Az adózás rendjéről szóló 2017. évi CL. törvény 131. §-a a következő (31) bekezdéssel egészül ki:
+
+„(31) Az állami adó- és vámhatóság az adóazonosító jelet adatkérésre, elektronikus úton átadja az ingatlanügyi hatóságnak az ingatlan-nyilvántartással, a földhasználati nyilvántartással, a földmérési és térképészeti állami alapfeladatokkal és alapmunkákkal – ide nem értve a honvédelmi célú földmérési és térképészeti tevékenységet – a földméréssel, térképészettel, a földminősítéssel, a földvédelemmel, a földhasznosítási előírások érvényesülésével, a földtulajdoni és a földhasználati előírások érvényesülésével kapcsolatos eljárásokban, a telekalakítási hatóságnak telekalakítási engedélyezési eljárásban, valamint a mezőgazdasági igazgatási szervnek a földforgalmi eljárásokban és a földművesekről, a mezőgazdasági termelőszervezetekről és a mezőgazdasági üzemközpontokról vezetett nyilvántartással kapcsolatos eljárásokban az Országos Cégnyilvántartó és Céginformációs Rendszerben nyilvántartott cég képviseletére jogosult személy cégképviseleti jogosultságának megállapítása céljából.”
