@@ -1,6 +1,6 @@
-## 1.[^1] a termőföld védelméről szóló 2007. évi CXXIX. törvény 11. § (2) és (3) bekezdésében és az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény végrehajtásáról szóló 109/1999. (XII. 29.) FVM rendelet 62/A. §-ában foglaltakra figyelemmel a beruházási célterületre történő művelési ág változás átvezetése céljából beruházási célterületté nyilvánítja a Göd külterületén fekvő, az ingatlan-nyilvántartás szerinti 084/20, 084/21, 084/22, 084/23, 084/24, 084/25, 084/26, 084/27, 084/28, 084/32, 084/33, 084/34, 084/35, 084/36, 084/37, 084/38, 084/39, 084/40, 084/41, 084/42, 084/43, 084/44, 084/45, 084/46, 084/47, 084/48, 084/49, 084/50, 084/51, 084/52, 084/53, 084/68, 084/69, 084/72, 062/11, 062/12, 062/13, 062/14, 062/15, 062/16, 062/17, 062/18 és 062/50 helyrajzi számú földrészleteket, valamint az ezen földrészletekből a telekalakítási eljárásokban hozott döntések véglegessé válását követően kialakított földrészleteket;
+## 1.[^1] a termőföld védelméről szóló 2007. évi CXXIX. törvény 11. § (2) és (3) bekezdésében és az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény végrehajtásáról szóló 109/1999. (XII. 29.) FVM rendelet 62/A. §-ában foglaltakra figyelemmel a beruházási célterületre történő művelési ág változás átvezetése céljából beruházási célterületté nyilvánítja a Göd külterületén fekvő, az ingatlan-nyilvántartás szerinti 053/7, 053/8, 053/9, 062/11, 062/12, 062/13, 062/14, 062/15, 062/16, 062/17, 062/18, 062/50, 084/20, 084/21, 084/22, 084/23, 084/24, 084/25, 084/26, 084/27, 084/28, 084/32, 084/33, 084/34, 084/35, 084/36, 084/37, 084/38, 084/39, 084/40, 084/41, 084/42, 084/43, 084/44, 084/45, 084/46, 084/47, 084/48, 084/49, 084/50, 084/51, 084/52, 084/53, 084/68, 084/69 és 084/72 helyrajzi számú földrészleteket, valamint az ezen földrészletekből a telekalakítási eljárásokban hozott döntések véglegessé válását követően kialakított földrészleteket;
 
-## 2. az 1. pont szerinti földterületeken ipari park kialakítása érdekében az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet IX. Helyi önkormányzatok támogatásai fejezetének a 31. Göd Város közigazgatási területén ipari park kialakítása címmel történő kiegészítését;
+## 2.[^2] az 1. pont szerinti földterületeken, valamint a Göd külterületén fekvő, az ingatlan-nyilvántartás szerinti 053/12, 053/45, 053/49, 099/26, 099/27, 099/28, 099/29, 099/30, 099/31, 099/32 és 099/46 helyrajzi számú földrészleteken, valamint az ezen földrészletekből a telekalakítási eljárásokban hozott döntések véglegessé válását követően kialakított földrészleteken ipari park kialakítása érdekében az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet IX. Helyi önkormányzatok támogatásai fejezetének a 31. Göd Város közigazgatási területén ipari park kialakítása címmel történő kiegészítését;
 
 ## Felelős: pénzügyminiszter
 
@@ -18,11 +18,13 @@
 
 ## 4. a Kvtv. 17. §-ában biztosított jogkörében eljárva jóváhagyja a GÚP előirányzatnak a 3. pont szerinti átcsoportosítás alapján az eredeti előirányzaton felül – az eddig jóváhagyott összegen túl további – 1 763 547 000 forinttal történő túlteljesülését;
 
-## 5.[^2] egyetért azzal, hogy a belügyminiszter a 3. pont szerint átcsoportosított előirányzat terhére, a 2. pont szerinti cél megvalósítása érdekében, külön pályázat és kérelem benyújtása nélkül vissza nem térítendő egyedi támogatást nyújtson a Pest Megyei Önkormányzat részére támogatási előlegként, a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatói okirat alapján, azzal, hogy a támogatói okiratban rögzítse, amennyiben a Pest Megyei Önkormányzat a terület értékesítésével bevételre tesz szert, az azzal azonos összegű támogatást köteles visszafizetni a központi költségvetés javára;
+## 5.[^3] egyetért azzal, hogy a belügyminiszter a 3. pont szerint átcsoportosított előirányzat terhére, a 2. pont szerinti cél megvalósítása érdekében, külön pályázat és kérelem benyújtása nélkül vissza nem térítendő egyedi támogatást nyújtson a Pest Megyei Önkormányzat részére támogatási előlegként, a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatói okirat alapján, azzal, hogy a támogatói okiratban rögzítse, amennyiben a Pest Megyei Önkormányzat a terület értékesítésével bevételre tesz szert, az azzal azonos összegű támogatást köteles visszafizetni a központi költségvetés javára;
 
 ## 6. egyetért azzal, hogy a belügyminiszter az 5. pont szerinti egyedi költségvetési támogatást a támogatói okirat kiadását követően folyósítsa a Pest Megyei Önkormányzat számára.
 
 1. melléklet az 1523/2021. (VII. 30.) Korm. határozathoz
+
+1X06791_0
 
 | IX. Helyi önkormányzatok támogatásai XLVII. Gazdaság-újraindítási Alap ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA Költségvetési év: 2021. forintban |
 
@@ -74,5 +76,6 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
-[^1]: Az 1. pont az 1997/2021. (XII. 28.) Korm. határozat szerint módosított szöveg.
-[^2]: Az 5. pont az 1331/2022. (VII. 13.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^1]: Az 1. pont az 1420/2023. (IX. 28.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 2. pont az 1420/2023. (IX. 28.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^3]: Az 5. pont az 1331/2022. (VII. 13.) Korm. határozat 3. pontja szerint módosított szöveg.
