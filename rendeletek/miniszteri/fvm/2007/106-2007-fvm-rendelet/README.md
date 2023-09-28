@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-106-20-
 | 2017-03-18 | 2007-106-20-82.19 | 52/2015. (IX. 7.) FM rendelet |
 | 2020-04-06 | 2007-106-20-82.20 | 10/2020. (IV. 3.) AM rendelet |
 | 2023-04-20 | 2007-106-20-82.21 | 20/2023. (IV. 19.) AM rendelet |
+| 2023-09-28 | 2007-106-20-82.22 | 56/2023. (IX. 27.) AM rendelet |
