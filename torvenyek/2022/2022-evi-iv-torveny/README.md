@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2022-4-00-00
 | 2023-03-07 | 1/2023. (II. 15.) BM határozat | 2022-4-00-00.21 |
 | 2023-03-08 | 2010. évi CXXX. törvény | 2022-4-00-00.22 |
 | 2023-07-01 | 2022. évi VII. törvény | 2022-4-00-00.11 |
+| 2023-09-28 | 2023. évi LXI. törvény | 2022-4-00-00.23 |
