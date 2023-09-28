@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-47-20-0
 | 2023-01-01 | 2004-47-20-0M.22 | 82/2022. (XII. 30.) BM rendelet |
 | 2023-06-15 | 2004-47-20-0M.23 | 82/2022. (XII. 30.) BM rendelet |
 | 2023-07-01 | 2004-47-20-0M.24 | 23/2023. (VI. 30.) BM rendelet |
+| 2023-09-28 | 2004-47-20-0M.25 | 41/2023. (IX. 27.) BM rendelet |
