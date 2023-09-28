@@ -14,6 +14,6 @@
 
 (7) Ha a vonatkozó jogcím rendelet vagy pályázati felhívás eltérően nem rendelkezik, állat alapú támogatások esetében a kérelemben megjelölt szarvasmarha vagy juh állategyednek a kérelmező tenyészetéből a birtokon tartás időszakaiban történő kikerüléséről a számítógépes adatbázisba küldött értesítés a kérelmezett egyed visszavonásának tekintendő.
 
-(8)[^4]
+(8)[^10]
 
-[^4]: A 20. § (8) bekezdését a 26/2023. (VI. 30.) AM rendelet 16. § a) pontja hatályon kívül helyezte.
+[^10]: A 20. § (8) bekezdését a 26/2023. (VI. 30.) AM rendelet 16. § a) pontja hatályon kívül helyezte.

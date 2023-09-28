@@ -1,4 +1,4 @@
-7. § (1) A fiatal mezőgazdasági termelőnek – a FIG rendelet szerinti támogatás igénylésének első évében – az egységes kérelemben nyilatkoznia kell a FIG rendelet 2. § (4) bekezdés a) pontjában foglaltakról, továbbá arról, hogy – figyelemmel a FIG rendelet 4. § (2) bekezdés a) pont ac) alpontjában foglaltakra – rendelkezik-e mezőgazdasági vagy erdészeti szakirányú képzettséggel (a továbbiakban: szakirányú képzettség). Ha a mezőgazdasági termelő szakirányú képzettséggel
+7. § (1)[^7] A fiatal mezőgazdasági termelőnek – a FIG rendelet szerinti támogatás igénylésének első évében – az egységes kérelemben nyilatkoznia kell a FIG rendelet 2. § (4) bekezdés a) pontjában foglaltakról, továbbá arról, hogy – figyelemmel a FIG rendelet 2. § (4) bekezdés a) pont ac) alpontjában foglaltakra – rendelkezik-e mezőgazdasági vagy erdészeti szakirányú képzettséggel (a továbbiakban: szakirányú képzettség). Ha a mezőgazdasági termelő szakirányú képzettséggel
 
 a) rendelkezik, akkor meg kell adnia a képzettséggel kapcsolatos adatokat, és a kérelemhez mellékelni kell a FIG rendelet 1. melléklete szerinti mezőgazdasági vagy erdészeti szakirányú képzettséget igazoló okiratot,
 
@@ -22,10 +22,13 @@ c) a más mezőgazdasági termelő – az Aktív gazda rendelet szerinti – kö
 
 a) a FIG rendelet 4. § a) pontja szerinti uralmi szerződés másolatát vagy
 
-b) a FIG rendelet 3. § (3) bekezdés b) pontja szerinti ellenőrzés esetén az ellenőrzést gyakorló jogi személynek módosításokkal egységes szerkezetbe foglalt létesítő okirata másolatát
+b)[^8] a FIG rendelet 4. § b) pontja szerinti ellenőrzés esetén az ellenőrzést gyakorló jogi személynek módosításokkal egységes szerkezetbe foglalt létesítő okirata másolatát
 
 is csatolnia kell az egységes kérelemhez.
 
 (7) A szövetkezet vezető tisztségviselőjének minősülő mezőgazdasági termelő mezőgazdasági termeléssel összefüggő személyes közreműködésének tényleges megvalósulását az ezt igazoló okirat másolatának az egységes kérelemhez történő csatolásával igazolja.
 
 (8) A fiatal mezőgazdasági termelőnek az egységes kérelemben kell nyilatkoznia azon jogi személy nevéről, ügyfél-azonosítójáról, továbbá a tényleges és hosszú távú ellenőrzés megkezdésének időpontjáról, amelyben a fiatal mezőgazdasági termelő a mezőgazdasági tevékenységét a FIG rendelet 6. § (1) bekezdése szerint megkezdte.
+
+[^7]: A 7. § (1) bekezdés nyitó szövegrésze az 56/2023. (IX. 27.) AM rendelet 15. § c) pontja szerint módosított szöveg.
+[^8]: A 7. § (6) bekezdés b) pontja az 56/2023. (IX. 27.) AM rendelet 15. § d) pontja szerint módosított szöveg.

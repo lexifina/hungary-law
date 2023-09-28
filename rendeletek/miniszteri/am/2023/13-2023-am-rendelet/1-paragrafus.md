@@ -142,7 +142,7 @@ c) a 21. §-ban meghatározott minimumtevékenységek elvégzése a természetes
 
 53. nem termelő beruházás keretében, szántóföldön létrehozott erózióvédelmi létesítmény: nem termelő beruházás keretében, szántóföldön létrehozott erózióvédelmi létesítmény, amely a MePAR-ban is lehatárolásra kerül;
 
-54. nem termelő tájképi elem: védett tájképi elem, valamint fás, cserjés sáv, táblaszegély, vízvédelmi sáv, szántón elhelyezkedő kis vizes élőhely, erózióvédelmi sáv, nem termelő beruházás keretében létrehozott erózióvédelmi létesítmény;
+54.[^2] nem termelő tájképi elem: védett tájképi elem, valamint fás, cserjés sáv, táblaszegély, szántón elhelyezkedő, de szántóföldi művelés alatt nem álló vízvédelmi sáv, szántón elhelyezkedő kis vizes élőhely, erózióvédelmi sáv, nem termelő beruházás keretében létrehozott erózióvédelmi létesítmény;
 
 55. nem termelő terület: parlag, ökológiai jelentőségű másodvetés, HMKÁ 8. előírás alatt elszámolt nitrogénmegkötő növénnyel bevetett terület;
 
@@ -168,7 +168,7 @@ d) gyep vagy egyéb takarmánynövény;
 
 62. partvonal: a nagyvízi meder, a parti sáv, a vízjárta és a fakadó vizek által veszélyeztetett területek használatáról, hasznosításáról, valamint a folyók esetében a nagyvízi mederkezelési terv készítésének rendjére és tartalmára vonatkozó szabályokról szóló 83/2014. (III. 14.) Korm. rendelet 1. § 12. pontjában meghatározott fogalom;
 
-63. kijavítás: az egységes kérelemben megadott adatokra, illetve a kötelező mellékletet képező igazoló dokumentumokra vonatkozó minden olyan adatváltozás bejelentése – az 50. pont szerinti módosítás kivételével –, ami az egységes kérelemben megadott adatok valós állapothoz igazítására irányul;
+63.[^3] kijavítás: az egységes kérelemben megadott adatokra, illetve a kötelező mellékletet képező igazoló dokumentumokra vonatkozó minden olyan adatváltozás bejelentése – a 48. pont szerinti módosítás kivételével –, ami az egységes kérelemben megadott adatok valós állapothoz igazítására irányul;
 
 64. referenciaterület:
 
@@ -257,3 +257,5 @@ f) az „egyéb hasznosítás” rovatban bejelentett területi elemek;
 77. vízvédelmi sáv: a vizek partvonalától meghatározott, vízminőségi célokat szolgáló területsáv.
 
 [^1]: Az 1. § 39. pontja a 26/2023. (VI. 30.) AM rendelet 4. §-ával megállapított szöveg.
+[^2]: Az 1. § 54. pontja az 56/2023. (IX. 27.) AM rendelet 15. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § 63. pontja az 56/2023. (IX. 27.) AM rendelet 15. § b) pontja szerint módosított szöveg.

@@ -16,7 +16,7 @@ c) az nem metszheti a 2. § (3) bekezdés 1., 2., 4., 5., 6. pontja szerinti int
 
 (6) A mezőgazdasági termelőnek az egységes kérelemben meg kell jelölnie azokat a bejelentett területi elemeket, valamint konyhakerteket, amelyeken öntözési tevékenységet kíván végezni. A mezőgazdasági termelőnek az egységes kérelmen arra vonatkozóan is nyilatkoznia kell, hogy milyen öntözési technológiát kíván alkalmazni, illetve hogy termesztő berendezés alatt kíván-e termeszteni.
 
-(7)[^3] Az egységes kérelemben – a megszemélyesítés során a területalapú adatok tekintetében – a 2022/1173 rendelet 5. cikk (3) bekezdése szerinti adatok megjelenítése időpontját a Kincstár által az egységes kérelem végrehajtása tárgyában kiadott – a Kincstár honlapján elérhető – közlemény tartalmazza.
+(7)[^5] Az egységes kérelemben – a megszemélyesítés során a területalapú adatok tekintetében – a 2022/1173 rendelet 5. cikk (3) bekezdése szerinti adatok megjelenítése időpontját a Kincstár által az egységes kérelem végrehajtása tárgyában kiadott – a Kincstár honlapján elérhető – közlemény tartalmazza.
 
 (8) Az egységes kérelemben – a megszemélyesítés során az állatalapú támogatásokhoz kapcsolódó adatok tekintetében – a 2022/1173 rendelet 5. cikk (5) bekezdésében meghatározott adatokat kell megadni.
 
@@ -38,4 +38,4 @@ foglalt bejelentési kötelezettség teljesítésének, a bejelentés kezdemény
 
 (11) Az egységes kérelem benyújtása esetén az igényelt támogatás vonatkozásában a mezőgazdasági termelő felelős a benyújtott adatok és információk helytállóságáért.
 
-[^3]: A 4. § (7) bekezdése a 26/2023. (VI. 30.) AM rendelet 6. §-ával megállapított szöveg.
+[^5]: A 4. § (7) bekezdése a 26/2023. (VI. 30.) AM rendelet 6. §-ával megállapított szöveg.
