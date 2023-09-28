@@ -205,13 +205,3 @@ A toborzási adatbázis adatköre
 ## 4. állampolgárság
 
 ## 5. fénykép
-
-## II.
-
-## 1. szakmai tapasztalat
-
-## 2. munkáltatói megnevezése, tevékenységi területe
-
-## 3. betöltött feladatkör
-
-## 4. időtartam
