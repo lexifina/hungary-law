@@ -43,3 +43,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-60-20-0
 | 2022-12-28 | 2003-60-20-0M.50 | 7/2016. (III. 30.) EMMI rendelet |
 | 2023-01-01 | 2003-60-20-0M.49 | 29/2010. (XII. 30.) NEFMI rendelet |
 | 2023-07-01 | 2003-60-20-0M.51 | 23/2023. (VI. 30.) BM rendelet |
+| 2023-09-28 | 2003-60-20-0M.52 | 73/2013. (XII. 2.) EMMI rendelet |
