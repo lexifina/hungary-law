@@ -40,7 +40,7 @@
 
 1. melléklet az 1591/2019. (X. 16.) Korm. határozathoz
 
-[^1]: Az 1. pont a) alpontja az 1755/2019. (XII. 20.) Korm. határozat 13. pontja, az 1574/2020. (IX. 9.) Korm. határozat 4. pontja, a 2005/2020. (XII. 24.) Korm. határozat 13. pontja, az 1692/2021. (IX. 30.) Korm. határozat 10. pontja, az 1872/2021. (XII. 3.) Korm. határozat 3. pontja, az 1302/2022. (VI. 22.) Korm. határozat 12. pontja, az 1231/2023. (VI. 16.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^1]: Az 1. pont a) alpontja az 1755/2019. (XII. 20.) Korm. határozat 13. pontja, az 1574/2020. (IX. 9.) Korm. határozat 4. pontja, a 2005/2020. (XII. 24.) Korm. határozat 13. pontja, az 1692/2021. (IX. 30.) Korm. határozat 10. pontja, az 1872/2021. (XII. 3.) Korm. határozat 3. pontja, az 1302/2022. (VI. 22.) Korm. határozat 12. pontja, az 1231/2023. (VI. 16.) Korm. határozat 2. pontja szerint módosított szöveg. [Nem vezethető át az 1419/2023. (IX. 28.) Korm. határozat 9. pontjában foglalt azon módosítás, amely szerint az 1. pont a) alpontjában a „2022. december 31.” szövegrész helyébe a „2023. december 31.” szöveg lép.]
 [^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^4]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
