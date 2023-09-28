@@ -16,7 +16,7 @@ f) az ingatlan tulajdonosának, az állam tulajdonosi jogait gyakorló szervezet
 
 g) telekalakítás esetén az építésügyi hatóság részére,
 
-h)
+h) bányatelek jogi jelleget érintő telekalakítás átvezetése esetén a bányafelügyelet részére,
 
 i) adó- és illetéktartozás behajtására irányuló végrehajtási jog bejegyzéséről az állami adóhatóságnak,
 
