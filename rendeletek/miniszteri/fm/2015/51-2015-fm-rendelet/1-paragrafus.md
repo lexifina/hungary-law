@@ -6,12 +6,13 @@
 
 2.[^2] pénzügyi fegyelem: a 73/2009/EK tanácsi rendelet 11. cikkében, az 1307/2013/EU parlamenti és tanácsi rendelet 8. cikkében, valamint a közös agrárpolitika finanszírozásáról, irányításáról és monitoringjáról és a 352/78/EGK, a 165/94/EK, a 2799/98/EK, a 814/2000/EK, az 1290/2005/EK és a 485/2008/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1306/2013/EU európai parlamenti és tanácsi rendelet 26. cikkében meghatározott kiigazítás;
 
-3.[^3] tagállami keret: az (EU) 2021/2091 bizottsági végrehajtási rendelet mellékletében meghatározott összeg;
+3.[^3] tagállami keret: az (EU) 2022/2344 bizottsági végrehajtási rendelet mellékletében meghatározott összeg;
 
-4. tárgyév: a közvetlen támogatás iránti kérelem benyújtásának éve;
+4.[^4]
 
 5. visszatérítés: a pénzügyi fegyelem kapcsán alkalmazott kiigazítás során elvont összeg Európai Unió által fel nem használt, és a tagállam számára jóváhagyott része.
 
 [^1]: Az 1. § 1. pontja a 65/2016. (IX. 21.) FM rendelet 26. §-ával megállapított szöveg.
 [^2]: Az 1. § 2. pontja a 65/2016. (IX. 21.) FM rendelet 26. §-ával megállapított szöveg.
-[^3]: Az 1. § 3. pontja a 28/2018. (X. 5.) AM rendelet 7. §-ával megállapított, a 47/2020. (IX. 30.) AM rendelet 2. §-a, a 29/2021. (VIII. 31.) AM rendelet 4. §-a, a 30/2022. (IX. 27.) AM rendelet 2. §-a szerint módosított szöveg.
+[^3]: Az 1. § 3. pontja az 56/2023. (IX. 27.) AM rendelet 4. §-ával megállapított szöveg.
+[^4]: Az 1. § 4. pontját az 56/2023. (IX. 27.) AM rendelet 9. §-a hatályon kívül helyezte.

@@ -2,33 +2,36 @@
 
 ## 6. § Ez a rendelet
 
-a)[^9] a közös agrárpolitika keretébe tartozó támogatási rendszerek alapján a mezőgazdasági termelők részére nyújtott közvetlen kifizetésekre vonatkozó szabályok megállapításáról, valamint a 637/2008/EK és a 73/2009/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1307/2013/EU európai parlamenti és tanácsi rendelet
+a)[^14] a közös agrárpolitika keretébe tartozó támogatási rendszerek alapján a mezőgazdasági termelők részére nyújtott közvetlen kifizetésekre vonatkozó szabályok megállapításáról, valamint a 637/2008/EK és a 73/2009/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1307/2013/EU európai parlamenti és tanácsi rendelet
 
 b) a közös agrárpolitika finanszírozásáról, irányításáról és monitoringjáról és a 352/78/EGK, a 165/94/EK, a 2799/98/EK, a 814/2000/EK, az 1290/2005/EK és a 485/2008/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1306/2013/EU európai parlamenti és tanácsi rendelet, valamint
 
 c) az 1306/2013/EU európai parlamenti és tanácsi rendelet 26. cikke (5) bekezdése értelmében a 2014-es pénzügyi évről átvitt előirányzatok visszatérítéséről szóló, 2014. november 24-i 1259/2014/EU bizottsági végrehajtási rendelet
 
-d)[^10] az 1306/2013/EU európai parlamenti és tanácsi rendelet 26. cikke (5) bekezdése értelmében a 2015-ös pénzügyi évről átvitt előirányzatok visszatérítéséről szóló, 2015. november 19-i 2015/2094/EU bizottsági végrehajtási rendelet
+d)[^15] az 1306/2013/EU európai parlamenti és tanácsi rendelet 26. cikke (5) bekezdése értelmében a 2015-ös pénzügyi évről átvitt előirányzatok visszatérítéséről szóló, 2015. november 19-i 2015/2094/EU bizottsági végrehajtási rendelet
 
-e)[^11] az 1306/2013/EU európai parlamenti és tanácsi rendelet 26. cikke (5) bekezdése értelmében a 2016-ös pénzügyi évről átvitt előirányzatok visszatérítéséről szóló, 2016. november 23-i 2016/2073/EU bizottsági végrehajtási rendelet
+e)[^16] az 1306/2013/EU európai parlamenti és tanácsi rendelet 26. cikke (5) bekezdése értelmében a 2016-ös pénzügyi évről átvitt előirányzatok visszatérítéséről szóló, 2016. november 23-i 2016/2073/EU bizottsági végrehajtási rendelet
 
-f)[^12] az 1306/2013/EU európai parlamenti és tanácsi rendelet 26. cikk (5) bekezdése értelmében a 2017-es pénzügyi évről átvitt előirányzatok visszatérítéséről szóló, 2017. november 27-i 2017/2197/EU bizottsági végrehajtási rendelet
+f)[^17] az 1306/2013/EU európai parlamenti és tanácsi rendelet 26. cikk (5) bekezdése értelmében a 2017-es pénzügyi évről átvitt előirányzatok visszatérítéséről szóló, 2017. november 27-i 2017/2197/EU bizottsági végrehajtási rendelet
 
-g)[^13] az 1306/2013/EU európai parlamenti és tanácsi rendelet 26. cikkének (5) bekezdése értelmében a 2018-as pénzügyi évről átvitt előirányzatok visszatérítéséről szóló, 2018. november 26-i 2018/1848/EU bizottsági végrehajtási rendelet
+g)[^18] az 1306/2013/EU európai parlamenti és tanácsi rendelet 26. cikkének (5) bekezdése értelmében a 2018-as pénzügyi évről átvitt előirányzatok visszatérítéséről szóló, 2018. november 26-i 2018/1848/EU bizottsági végrehajtási rendelet
 
-h)[^14] az 1306/2013/EU európai parlamenti és tanácsi rendelet 26. cikkének (5) bekezdése értelmében a 2019-es pénzügyi évről átvitt előirányzatok visszatérítéséről szóló, 2019. november 25-i (EU) 2019/1953 bizottsági végrehajtási rendelet
+h)[^19] az 1306/2013/EU európai parlamenti és tanácsi rendelet 26. cikkének (5) bekezdése értelmében a 2019-es pénzügyi évről átvitt előirányzatok visszatérítéséről szóló, 2019. november 25-i (EU) 2019/1953 bizottsági végrehajtási rendelet
 
-i)[^15] az 1306/2013/EU európai parlamenti és tanácsi rendelet 26. cikkének (5) bekezdése értelmében a 2020-as pénzügyi évről átvitt előirányzatok visszatérítéséről szóló, 2020. november 25-i (EU) 2020/1769 bizottsági végrehajtási rendelet
+i)[^20] az 1306/2013/EU európai parlamenti és tanácsi rendelet 26. cikkének (5) bekezdése értelmében a 2020-as pénzügyi évről átvitt előirányzatok visszatérítéséről szóló, 2020. november 25-i (EU) 2020/1769 bizottsági végrehajtási rendelet
 
-j) [^16] az 1306/2013/EU európai parlamenti és tanácsi rendelet 26. cikkének (5) bekezdése értelmében a 2021-es pénzügyi évről átvitt előirányzatok visszatérítéséről szóló, 2021. november 26-i (EU) 2021/2091 bizottsági végrehajtási rendelet
+j) [^21] az 1306/2013/EU európai parlamenti és tanácsi rendelet 26. cikkének (5) bekezdése értelmében a 2021-es pénzügyi évről átvitt előirányzatok visszatérítéséről szóló, 2021. november 26-i (EU) 2021/2091 bizottsági végrehajtási rendelet
+
+k) [^22] a 2022-es pénzügyi évről átvitt előirányzatoknak az (EU) 2021/2116 európai parlamenti és tanácsi rendelet 17. cikkének (3) bekezdése szerinti visszatérítéséről szóló, 2022. november 29-i (EU) 2022/2344 bizottsági végrehajtási rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^9]: A 6. § a) pontja a 65/2016. (IX. 21.) FM rendelet 29. § (1) bekezdésével megállapított szöveg.
-[^10]: A 6. § d) pontját a 65/2016. (IX. 21.) FM rendelet 29. § (2) bekezdése iktatta be.
-[^11]: A 6. § e) pontját az 55/2017. (XI. 6.) FM rendelet 30. §-a iktatta be.
-[^12]: A 6. § f) pontját a 28/2018. (X. 5.) AM rendelet 8. §-a iktatta be.
-[^13]: A 6. § g) pontját a 43/2019. (IX. 20.) AM rendelet 5. §-a iktatta be.
-[^14]: A 6. § h) pontját a 47/2020. (IX. 30.) AM rendelet 1. §-a iktatta be.
-[^15]: A 6. § i) pontját a 29/2021. (VIII. 31.) AM rendelet 3. §-a iktatta be.
-[^16]: A 6. § j) alpontját a 30/2022. (IX. 27.) AM rendelet 1. §-a iktatta be.
+[^14]: A 6. § a) pontja a 65/2016. (IX. 21.) FM rendelet 29. § (1) bekezdésével megállapított szöveg.
+[^15]: A 6. § d) pontját a 65/2016. (IX. 21.) FM rendelet 29. § (2) bekezdése iktatta be.
+[^16]: A 6. § e) pontját az 55/2017. (XI. 6.) FM rendelet 30. §-a iktatta be.
+[^17]: A 6. § f) pontját a 28/2018. (X. 5.) AM rendelet 8. §-a iktatta be.
+[^18]: A 6. § g) pontját a 43/2019. (IX. 20.) AM rendelet 5. §-a iktatta be.
+[^19]: A 6. § h) pontját a 47/2020. (IX. 30.) AM rendelet 1. §-a iktatta be.
+[^20]: A 6. § i) pontját a 29/2021. (VIII. 31.) AM rendelet 3. §-a iktatta be.
+[^21]: A 6. § j) alpontját a 30/2022. (IX. 27.) AM rendelet 1. §-a iktatta be.
+[^22]: A 6. § k) pontját az 56/2023. (IX. 27.) AM rendelet 7. §-a iktatta be.
