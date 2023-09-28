@@ -9,15 +9,3 @@
 (4) A 7. § és a 9. § 2024. március 25-én lép hatályba.
 
 (5) A 16. §, a 23–32. §, a 34–36. §, a 38. és a 39. §, a 41. §, a 43. §, a 47. § és az 51. § 2024. október 1-jén lép hatályba.
-
-|
-
-Novák Katalin s. k.,
-
-köztársasági elnök
-
-|
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
