@@ -17,3 +17,7 @@ a) a tárgyévben december 31-ig a gyakorlat10 teljesítésébe bevont területe
 b) a tárgyévet megelőző évben állandó gyepterületként hasznosított területen a változásvezetési toleranciát meghaladó mértékben a mezőgazdasági termelő feltörte, felszántotta, vagy más módon hasznosította a gyepet, és azt nem alakította vissza gyeppé az egységes kérelem benyújtására nyitva álló időszak kezdetéig; vagy
 
 c) a vállalásba bevont területek Natura 2000 fedvényen helyezkednek el.
+
+d)[^8] a kérelmező nem rendelkezik legalább egy, állandó gyeppel hasznosított, egységes kérelemben bejelentett táblával.
+
+[^8]: A 18. § (6) bekezdés d) pontját az 56/2023. (IX. 27.) AM rendelet 25. §-a iktatta be.
