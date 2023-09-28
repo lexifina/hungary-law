@@ -36,7 +36,7 @@
 
 ## a miniszterelnök általános helyettese
 
-## Határidő: 2020. június 30., a Bethlen Gábor Alap fejezet javára biztosított 4 950 000 000 forint tekintetében 2023. december 31.
+## Határidő: 2020. június 30., a Bethlen Gábor Alap fejezet javára biztosított 4 950 000 000 forint tekintetében 2024. december 31.
 
 ## i) az Ávr. 152. § (3) bekezdésében biztosított jogkörében eljárva engedélyezi a XI. Miniszterelnökség fejezetnél keletkezett 867 907 732 forint, a XII. Agrárminisztérium fejezetnél keletkezett 4 929 851 667 forint, a XIV. Belügyminisztérium fejezetnél keletkezett 57 719 541 680 forint, a XV. Pénzügyminisztérium fejezetnél keletkezett 16 769 283 897 forint, valamint a XVII. Innovációs és Technológiai Minisztérium fejezetnél keletkezett 5 247 473 000 forint összegű, 2018. évi kötelezettségvállalással terhelt költségvetési maradvány 2019. június 30-át követő, változatlan célú felhasználását;
 
@@ -65,7 +65,7 @@
 [^3]: Az 1. pont e) alpontja a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
 [^4]: Az 1. pont f) alpontja a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
 [^5]: Az 1. pont g) alpontja a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
-[^6]: Az 1. pont h) alpontja az 1755/2019. (XII. 20.) Korm. határozat 11. pontja, az 1692/2021. (IX. 30.) Korm. határozat 9. pontja, az 1302/2022. (VI. 22.) Korm. határozat 11. pontja szerint módosított szöveg.
+[^6]: Az 1. pont h) alpontja az 1755/2019. (XII. 20.) Korm. határozat 11. pontja, az 1692/2021. (IX. 30.) Korm. határozat 9. pontja, az 1419/2023. (IX. 28.) Korm. határozat 8. pontja szerint módosított szöveg.
 [^7]: Az 1. pont j) alpontját az 1755/2019. (XII. 20.) Korm. határozat 14. pont b) alpontja visszavonta.
 [^8]: Az 1. pont k) alpontját az 1755/2019. (XII. 20.) Korm. határozat 14. pont b) alpontja visszavonta.
 [^9]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
