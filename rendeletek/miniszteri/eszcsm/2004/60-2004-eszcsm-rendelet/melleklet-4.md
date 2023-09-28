@@ -1,5 +1,3 @@
-## Adatlap pszichiátriai beteggel szemben alkalmazott, egyéb korlátozó intézkedés dokumentálásához
-
 ## A beteg neve:
 
 ## TAJ szám:
@@ -54,9 +52,9 @@
 
 |  | felelős vezető aláírása |
 
-4. számú melléklet a 60/2004. (VII. 6.) ESZCSM rendelethez[^11]
+4. számú melléklet a 60/2004. (VII. 6.) ESZCSM rendelethez[^14]
 
-Kérelem korlátozottan cselekvőképes kiskorú és cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott, illetve cselekvőképtelen pszichiátriai beteg pszichiátriai intézetbe történő ideiglenes önkéntes felvételéhez[^12]
+Kérelem korlátozottan cselekvőképes kiskorú és cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott, illetve cselekvőképtelen pszichiátriai beteg pszichiátriai intézetbe történő ideiglenes önkéntes felvételéhez[^15]
 
 Alulírott (beteg neve, születési év, hónap, nap)
 
@@ -82,5 +80,5 @@ Dátum: ................................................................
 
 a beteg aláírása az orvos aláírása
 
-[^11]: A 4. számú mellékletet a 15/2006. (III. 27.) EüM rendelet 4. §-a iktatta be.
-[^12]: A 4. számú melléklet címe a 16/2014. (III. 12.) EMMI rendelet 10. § a) pontja szerint módosított szöveg.
+[^14]: A 4. számú mellékletet a 15/2006. (III. 27.) EüM rendelet 4. §-a iktatta be.
+[^15]: A 4. számú melléklet címe a 16/2014. (III. 12.) EMMI rendelet 10. § a) pontja szerint módosított szöveg.

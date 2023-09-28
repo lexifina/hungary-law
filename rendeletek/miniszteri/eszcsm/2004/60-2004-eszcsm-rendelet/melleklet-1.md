@@ -1,6 +1,6 @@
 1. számú melléklet a 60/2004. (VII. 6.) ESZCSM rendelethez
 
-## Felvételi kérelem pszichiátriai intézetben történő önkéntes gyógykezeléshez
+Felvételi kérelem pszichiátriai intézetben történő önkéntes gyógykezeléshez
 
 ## Alulírott (beteg neve, születési év, hónap, nap)
 
@@ -38,17 +38,9 @@ Dátum: ………………………………
 
 |  | a beteg aláírása |
 
-Gyógykezelésem bírósági felülvizsgálata ellen tiltakozom.
-
-Dátum: ………………………………
-
 |  | ……………………………… |
 
 |  | a beteg aláírása |
-
-Igazolom, hogy a fentiek aláírásakor az aláíró nem volt cselekvőképtelen állapotban.
-
-Tudomásom szerint a beteg nem áll önkéntes felvételi kérelmét kizáró vagy korlátozó gondnokság alatt.
 
 |  | ……………………………… |
 
