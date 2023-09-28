@@ -32,6 +32,8 @@ e) a használat időtartamát, határozatlan időtartamú földhasználat eseté
 
 (3) Az ingatlanügyi hatóság az (1) bekezdés b) pont ba)–bd) alpontjában, valamint c) pont ca)–cd) alpontjában meghatározott adatokat a földhasználati nyilvántartás vezetésével kapcsolatos feladatai ellátásával összefüggésben jogosult kezelni.
 
+(3a) Az ingatlanügyi hatóság a földhasználati nyilvántartás vezetésével kapcsolatos eljárásban kezeli az eljárással érintett, az Országos Cégnyilvántartó és Céginformációs Rendszerben nyilvántartott cég képviseletére jogosult személy adóazonosító jelét cégképviseleti jogosultságának megállapítása céljából.
+
 (4) Az (1) bekezdésben foglalt adatok közül a személyi azonosítót a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvény rendelkezései szerint kell kezelni. Az (1) bekezdés b) pont bc) és bd) alpontjában, valamint c) pont cc) és cd) alpontjában foglalt adatok a földhasználati nyilvántartásból szolgáltatható földhasználati lap másolaton, a földhasználati összesítőn, továbbá a földhasználati nyilvántartás okirattárából kiadott másolatokon nem tüntethetőek fel.
 
 (5) Az ingatlanügyi hatóság a személyiadat- és lakcímnyilvántartás szerveitől személyi azonosító vagy természetes személyazonosító adatok alapján a természetes személy földhasználók azonosításához igényelhet adatot.

@@ -46,3 +46,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-212-00-00
 | 2023-05-01 | 2022. évi LXVII. törvény | 2013-212-00-00.40 |
 | 2023-07-01 | 2023. évi XLIV. törvény | 2013-212-00-00.42 |
 | 2023-07-24 | 2023. évi XXV. törvény | 2013-212-00-00.41 |
+| 2023-09-28 | 2023. évi LXI. törvény | 2013-212-00-00.43 |
