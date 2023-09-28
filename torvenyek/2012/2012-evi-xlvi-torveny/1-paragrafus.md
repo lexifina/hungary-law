@@ -14,7 +14,7 @@
 
 4. egységes ingatlan-nyilvántartási adatbázis: az ingatlan-nyilvántartásról szóló törvényben meghatározott adatbázis;
 
-5. elhatárolás: új földmérési alaptérképi adatbázis készítése, valamint a felmérési térképezési és területszámítási hiba kijavítása esetén, a földrészletek természetbeni határvonalának megállapítására irányuló joghatással járó hatósági tevékenység;
+5. elhatárolás: új földmérési alaptérképi adatbázis készítése, valamint a felmérési, térképezési vagy területszámítási hiba kijavítása esetén, a földrészletek természetbeni határvonalának megállapítására irányuló joghatással járó hatósági tevékenység;
 
 6. földmérési és térképészeti tevékenység:
 

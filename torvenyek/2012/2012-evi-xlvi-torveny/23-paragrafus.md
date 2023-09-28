@@ -16,7 +16,7 @@ e) egyéb önálló ingatlanok kialakításával és változásával kapcsolatos
 
 f) a földvédelmi, földminősítési tevékenységgel kapcsolatos földmérési munkák,
 
-g) a felmérési, térképezési és területszámítási hibák kiigazítására irányuló munkák,
+g) a felmérési, térképezési vagy területszámítási hibák kiigazítására irányuló munkák,
 
 h) jogok ingatlan-nyilvántartási bejegyzéséhez, valamint tények feljegyzéséhez szükséges földmérési munkák, valamint
 

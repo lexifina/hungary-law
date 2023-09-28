@@ -6,6 +6,6 @@
 
 (4) A földmérési és térinformatikai államigazgatási szerv országos hatáskörében eljárva dönt a 10. § (3) bekezdés a)–f) és h) pontjában meghatározott alapponthálózati pontok áthelyezéséről és megszüntetéséről, valamint az elpusztult alapponthálózati pontok pótlásáról, vagy az adatbázisból való törléséről.
 
-(5) Azon (4) bekezdésben meghatározott alapponthálózati pontok vonatkozásában, amelyek egyben a katonai tájékozási hálózat pontjai is, a földmérési és térinformatikai államigazgatási szerv a honvédelem térképészeti támogatásáért felelős szerv előzetes hozzájárulásával intézkedik.
+(5) Azon (4) bekezdésben meghatározott alapponthálózati pontok vonatkozásában, amelyek egyben a katonai tájékozási hálózat pontjai is, a földmérési és térinformatikai államigazgatási szerv a honvédelmi térképészeti hatósági feladatokért felelős szerv előzetes hozzájárulásával intézkedik.
 
 (6) A 10. § (3) bekezdés i) pontjában meghatározott alappontok áthelyezéséről vagy megszüntetéséről a honvédelmi térképészeti hatósági feladatokért felelős szerv dönt.
