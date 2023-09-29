@@ -16,7 +16,7 @@ esetén.
 
 (3)[^30] Az országos kórház-főigazgató megállapítja az állami fenntartású egészségügyi szolgáltatónál az egészségügyi szakdolgozók esetében az illetményen felül járó helyettesítési díj és a sürgősségi betegellátási műszakpótlék feltételeit és mértékét.
 
-(4)[^31] Az országos kórház-főigazgató minden év szeptember 30-ig felülvizsgálja azon illetményen felül járó díjak feltételeit és mértékét, amelyekre tekintettel az egészségügyi szolgáltató bértámogatásra jogosult, és szükség szerint a Kormány által az Országos Kórházi Főigazgatóság irányítására kijelölt miniszter jóváhagyásával módosítja az illetményen felül járó díjak mértékét.
+(4)[^31] Az országos kórház-főigazgató minden év december 15-ig felülvizsgálja azon illetményen felül járó díjak feltételeit és mértékét, amelyekre tekintettel az egészségügyi szolgáltató bértámogatásra jogosult, és szükség szerint a Kormány által az Országos Kórházi Főigazgatóság irányítására kijelölt miniszter jóváhagyásával módosítja az illetményen felül járó díjak mértékét.
 
 [^30]: A 26. § (3) bekezdését a 70/2021. (II. 19.) Korm. rendelet 24. §-a iktatta be, szövege a 820/2021. (XII. 28.) Korm. rendelet 5. §-a szerint módosított szöveg.
-[^31]: A 26. § (4) bekezdését a 820/2021. (XII. 28.) Korm. rendelet 4. §-a iktatta be.
+[^31]: A 26. § (4) bekezdését a 820/2021. (XII. 28.) Korm. rendelet 4. §-a iktatta be, szövege a 445/2023. (IX. 28.) Korm. rendelet 1. §-a szerint módosított szöveg.
