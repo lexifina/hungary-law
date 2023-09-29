@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme 90% réz és 10% cink ötvözetéből készült, súlya 18,4 gramm, átmérője 37 mm, széle recézett.
+
+(2) Az emlékérme előlapján az 1848. szeptember 29-én vívott pákozdi csata emlékére – Kiss Kovács Gyula szobrászművész által – 1951-ben alkotott obeliszk ábrázolása látható, háttérben a „Katonai Emlékpark Pákozd” nemzeti emlékhely környezetével és a Velencei-tóval. Az obeliszk ábrázolásától jobbra, fent, köriratban a „MAGYARORSZÁG” felirat, középen, két sorban a „3000” értékjelzés és a „FORINT” felirat, az obeliszk ábrázolásától balra, középen, két sorban a „BP.” verdejel és a „2023” verési évszám olvasható. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján, a középmezőben a „Katonai Emlékpark Pákozd” nemzeti emlékhely felülnézeti ábrázolása látható, melyet külső gyűrű övez. A külső gyűrűben, köriratban, fent a „KATONAI EMLÉKPARK • PÁKOZD”, lent a „NEMZETI EMLÉKHELY” felirat olvasható, bal oldalon a nemzeti emlékhelyek emblémája, jobb oldalon Molnár Mercédesz Dorisz tervezőművész mesterjegye látható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
