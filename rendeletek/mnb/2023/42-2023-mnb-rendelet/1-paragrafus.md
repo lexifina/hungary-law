@@ -1,1 +1,3 @@
-1. § A hitelintézetek jelzálogalapú eszközei és forrásai közötti lejárati összhang szabályozásáról szóló 22/2022. (VI. 11.) MNB rendelet 2. melléklet 4. pontjában a „2023.” szövegrészek helyébe a „2024.” szöveg lép.
+1. §[^1]
+
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
