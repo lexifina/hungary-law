@@ -1,1 +1,1 @@
-22. § A Kit. 95. § (10) bekezdés b) pontjában a „vagy az állami tulajdonos különleges jogokat biztosító megállapodás” szövegrész helyébe az „illetve az állam vagy az állam többségi tulajdonában álló gazdasági társaság megállapodás” szöveg lép.
+### 22. §
