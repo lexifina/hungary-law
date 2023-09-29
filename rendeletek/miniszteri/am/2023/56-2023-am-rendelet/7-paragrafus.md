@@ -1,3 +1,3 @@
-7. § Az 51/2015. (IX. 7.) FM rendelet 6. §-a a következő k) ponttal egészül ki:
+7. §[^8]
 
-(Ez a rendelet)
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-9. § Hatályát veszti az 51/2015. (IX. 7.) FM rendelet 1. § 4. pontja.
+9. §[^10]
+
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

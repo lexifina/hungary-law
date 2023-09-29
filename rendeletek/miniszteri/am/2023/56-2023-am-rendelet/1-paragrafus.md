@@ -1,7 +1,5 @@
 ## 1. A történelmi bázis jogosultságról szóló 106/2007. (IX. 24.) FVM rendelet módosítása
 
-1. § A történelmi bázis jogosultságról szóló 106/2007. (IX. 24.) FVM rendelet [a továbbiakban: 106/2007. (IX. 24.) FVM rendelet] 8. §-a helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„8. § (1) Az Európai Mezőgazdasági Garanciaalapból finanszírozott fenntarthatóságot elősegítő alapszintű-jövedelemtámogatás, az ahhoz kapcsolódó átmeneti nemzeti támogatás, valamint a fenntarthatóságot elősegítő, átcsoportosítással nyújtható kiegészítő jövedelemtámogatás igénybevételével kapcsolatos egyes kérdésekről szóló 16/2023. (IV. 19.) AM rendelet (a továbbiakban: Alapszintű-jövedelemtámogatási rendelet) 11., 12., 17. és 21. §-ában meghatározott jogcímek szerinti történelmi bázisjogosultságok használati jogának, valamint a történelmi bázisjogosultságok mennyiségének nyomon követése céljából nyilvántartást kell működtetni. A nyilvántartás működtetését, illetve a működtetés kapcsán felmerülő hatósági feladatokat a Kincstár látja el.
-
-(2) Ha a 2023. évi egységes kérelem keretében kérelmezett, az Alapszintű-jövedelemtámogatási rendelet 11. §-a, 12. §-a és 17. §-a szerinti történelmi bázisjogosultságok tekintetében a jogosultság megállapításáról rendelkező döntés a 6. § (1) bekezdésében meghatározott határnapot követően emelkedik jogerőre, akkor ezen támogatási jogosultságok tekintetében a 2023. támogatási évre vonatkozó átírási kérelem a jogosultság megállapításáról rendelkező döntés jogerőre emelkedését követő 15 napon belül nyújtható be a Kincstárhoz.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

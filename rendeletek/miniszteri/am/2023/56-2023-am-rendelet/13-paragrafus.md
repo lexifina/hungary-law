@@ -1,3 +1,3 @@
-13. § A 13/2023. (IV. 19.) AM rendelet 11. §-a a következő (3a) bekezdéssel egészül ki:
+13. §[^14]
 
-„(3a) A kamarai meghatalmazott eljárása esetén a (3) bekezdés b) pontja szerinti egyeztetés eljárásban irányadó határidőt a Kincstár hivatalból egy alkalommal meghosszabbíthatja.”
+[^14]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

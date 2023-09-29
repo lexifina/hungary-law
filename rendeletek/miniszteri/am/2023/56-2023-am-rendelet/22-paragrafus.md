@@ -1,1 +1,3 @@
-22. § A 14/2023. (IV. 19.) AM rendelet 2. melléklet E:3 mezőjében a „Helyrehozható” szövegrész helyébe a „Rövid távon helyrehozható” szöveg lép.
+22. §[^23]
+
+[^23]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

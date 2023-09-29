@@ -1,5 +1,3 @@
-## „5a. hüvelyes növény: a 14. melléklet szerinti nitrogénmegkötő növény;”
+18. §[^19]
 
-18. § A 14/2023. (IV. 19.) AM rendelet 13. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Az erózió veszélyeztetett területen történő gazdálkodás esetén az Egységes kérelem rendelet szerinti gazdálkodási napló (a továbbiakban: gazdálkodási napló) vezetése kötelező a 2. melléklet szerinti JFGK 1. tekintetében.”
+[^19]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

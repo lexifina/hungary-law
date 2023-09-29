@@ -1,3 +1,3 @@
-## „d) a kérelmező nem rendelkezik legalább egy, állandó gyeppel hasznosított, egységes kérelemben bejelentett táblával.”
+26. §[^27]
 
-26. § A 15/2023. (IV. 19.) AM rendelet 13. § (6) bekezdés c) pontjában a „nem dolgozta be” szövegrész helyébe a „nem forgatta vagy nem dolgozta be” szöveg lép.
+[^27]: A 26. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
