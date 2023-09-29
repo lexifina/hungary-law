@@ -1,7 +1,3 @@
-5. § A 60/2004. (VII. 6.) ESZCSM rendelet
+5. §[^6]
 
-a) 4. § (6) bekezdésében az „a veszélyeztető, illetve közvetlenül veszélyeztető magatartás elhárításához szükséges” szövegrész helyébe az „a kötelező gyógykezelés hatálya alá tartozó, a veszélyeztető vagy közvetlenül veszélyeztető magatartás elhárításához szükséges” szöveg,
-
-b) 5. § (2) bekezdésében az „a közvetlen veszélyeztető, illetve veszélyeztető magatartást elhárító kezelés” szövegrész helyébe az „a kötelező gyógykezelés hatálya alá tartozó, a közvetlen veszélyeztető, illetve veszélyeztető magatartást elhárító kezelés” szöveg
-
-lép.
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

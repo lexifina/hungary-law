@@ -1,3 +1,3 @@
-4. § A 60/2004. (VII. 6.) ESZCSM rendelet 4. §-a a következő (8) bekezdéssel egészül ki:
+4. §[^5]
 
-„(8) A korlátozó intézkedés hatálya alatt álló személy jogainak korlátozására a jogszabályban meghatározottak szerint kerülhet sor.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
