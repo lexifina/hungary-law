@@ -1,1 +1,3 @@
-2. § Az R. 6. § (2) bekezdés a) pontjában a „huszadik” szövegrész helyébe a „tizennyolcadik” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
