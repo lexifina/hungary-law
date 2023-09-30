@@ -194,7 +194,7 @@
 
 2.21. Magyar Közlöny Lap- és Könyvkiadó Kft.,
 
-2.22. NISZ Nemzeti Infokommunikációs Szolgáltató Zrt. és a közvetlen irányítása alatt álló Pro-M Professzionális Mobilrádió Zrt., IdomSoft Informatikai Zrt., Kopint-Datorg Informatikai és Vagyonkezelő Kft.),
+2.22.[^24] NISZ Nemzeti Infokommunikációs Szolgáltató Zrt. és a közvetlen irányítása alatt álló Pro-M Professzionális Mobilrádió Zrt., IdomSoft Informatikai Zrt.,),
 
 2.23. Győr-Sopron-Ebenfurti Vasút Zrt., GySev Cargo Zrt. és ezek háttérintézményei,
 
@@ -228,13 +228,13 @@
 
 2.38. GIRO Elszámolásforgalmi Zrt.,
 
-2.39.[^24] KELER Központi Értéktár Zrt.,
+2.39.[^25] KELER Központi Értéktár Zrt.,
 
-2.40.[^25] KELER KSZF Központi Szerződő Fél Zrt.,
+2.40.[^26] KELER KSZF Központi Szerződő Fél Zrt.,
 
 2.41. Budapesti Értéktőzsde Zrt.,
 
-2.42.[^26]
+2.42.[^27]
 
 2.43. Nemzeti Reorganizációs Nonprofit Kft.,
 
@@ -252,35 +252,35 @@
 
 2.50. Budapesti Közlekedési Zrt., Budapesti Közlekedési Központ Zrt.,
 
-2.51.[^27] NIF Nemzeti Infrastruktúra Fejlesztő Zrt.,
+2.51.[^28] NIF Nemzeti Infrastruktúra Fejlesztő Zrt.,
 
 2.52. Nemzeti Befektetési Ügynökség,
 
 2.53. állami protokoll által megjelölt szállodák,
 
-2.54.[^28] Magyar Turisztikai Ügynökség Zrt.,
+2.54.[^29] Magyar Turisztikai Ügynökség Zrt.,
 
 2.55. iparbiztonsági ellenőrzést követően a NATO beszállítók a projekt idejére,
 
 2.56. Bethlen Gábor Alapkezelő Zrt.,
 
-2.57.[^29] Széchenyi Programiroda Nonprofit Kft.,
+2.57.[^30] Széchenyi Programiroda Nonprofit Kft.,
 
-2.58.[^30] Új Világ Nonprofit Szolgáltató Kft.,
+2.58.[^31] Új Világ Nonprofit Szolgáltató Kft.,
 
-2.59.[^31] Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Kft.,
+2.59.[^32] Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Kft.,
 
-2.60.[^32] ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Kft.
+2.60.[^33] ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Kft.
 
-2.61.[^33] Zalaegerszegi Járműipari Tesztpálya,
+2.61.[^34] Zalaegerszegi Járműipari Tesztpálya,
 
-2.62.[^34] DEBRECEN INTERNATIONAL AIRPORT Kft.,
+2.62.[^35] DEBRECEN INTERNATIONAL AIRPORT Kft.,
 
-2.63.[^35] ELI-HU Kutatási és Fejlesztési Nonprofit Közhasznú Kft.,
+2.63.[^36] ELI-HU Kutatási és Fejlesztési Nonprofit Közhasznú Kft.,
 
-2.64.[^36] Bay Zoltán Alkalmazott Kutatási Közhasznú Nonprofit Kft.,
+2.64.[^37] Bay Zoltán Alkalmazott Kutatási Közhasznú Nonprofit Kft.,
 
-2.65.[^37] Országos Fordító és Fordításhitelesítő Iroda Zrt.
+2.65.[^38] Országos Fordító és Fordításhitelesítő Iroda Zrt.
 
 [^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdés alapján hatályát vesztette.
 [^2]: Az 1. melléklet 1. pont 1.22. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontja szerint módosított szöveg.
@@ -305,17 +305,18 @@
 [^21]: Az 1. melléklet 2. pont 2.5. alpontját az 1604/2019. (X. 16.) Korm. határozat 1. pontja hatályon kívül helyezte.
 [^22]: Az 1. melléklet 2. pont 2.6. alpontját az 1604/2019. (X. 16.) Korm. határozat 1. pontja hatályon kívül helyezte.
 [^23]: Az 1. melléklet 2. pont 2.7. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontja szerint módosított szöveg.
-[^24]: Az 1. melléklet 2. pont 2.39. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontja szerint módosított szöveg.
-[^25]: Az 1. melléklet 2. pont 2.40. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontja szerint módosított szöveg.
-[^26]: Az 1. melléklet 2. pont 2.42. alpontját az 1378/2022. (VII. 29.) Korm. határozat 4. pontja hatályon kívül helyezte.
-[^27]: Az 1. melléklet 2. pont 2.51. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontja szerint módosított szöveg.
-[^28]: Az 1. melléklet 2. pont 2.54. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontjával megállapított szöveg.
-[^29]: Az 1. melléklet 2. pont 2.57. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontja szerint módosított szöveg.
-[^30]: Az 1. melléklet 2. pont 2.58. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontja szerint módosított szöveg.
-[^31]: Az 1. melléklet 2. pont 2.59. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontja szerint módosított szöveg.
-[^32]: Az 1. melléklet 2. pont 2.60. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontja szerint módosított szöveg.
-[^33]: Az 1. melléklet 2. pont 2.61. alpontját az 1604/2019. (X. 16.) Korm. határozat 1. pontja iktatta be.
-[^34]: Az 1. melléklet 2. pont 2.62. alpontját az 1604/2019. (X. 16.) Korm. határozat 1. pontja iktatta be.
-[^35]: Az 1. melléklet 2. pont 2.63. alpontját az 1604/2019. (X. 16.) Korm. határozat 1. pontja iktatta be.
-[^36]: Az 1. melléklet 2. pont 2.64. alpontját az 1604/2019. (X. 16.) Korm. határozat 1. pontja iktatta be.
-[^37]: Az 1. melléklet 2. pont 2.65. alpontját az 1604/2019. (X. 16.) Korm. határozat 1. pontja iktatta be.
+[^24]: Az 1. melléklet 2.22. pontja az 1421/2023. (IX. 29.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^25]: Az 1. melléklet 2. pont 2.39. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^26]: Az 1. melléklet 2. pont 2.40. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^27]: Az 1. melléklet 2. pont 2.42. alpontját az 1378/2022. (VII. 29.) Korm. határozat 4. pontja hatályon kívül helyezte.
+[^28]: Az 1. melléklet 2. pont 2.51. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^29]: Az 1. melléklet 2. pont 2.54. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontjával megállapított szöveg.
+[^30]: Az 1. melléklet 2. pont 2.57. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^31]: Az 1. melléklet 2. pont 2.58. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^32]: Az 1. melléklet 2. pont 2.59. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^33]: Az 1. melléklet 2. pont 2.60. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^34]: Az 1. melléklet 2. pont 2.61. alpontját az 1604/2019. (X. 16.) Korm. határozat 1. pontja iktatta be.
+[^35]: Az 1. melléklet 2. pont 2.62. alpontját az 1604/2019. (X. 16.) Korm. határozat 1. pontja iktatta be.
+[^36]: Az 1. melléklet 2. pont 2.63. alpontját az 1604/2019. (X. 16.) Korm. határozat 1. pontja iktatta be.
+[^37]: Az 1. melléklet 2. pont 2.64. alpontját az 1604/2019. (X. 16.) Korm. határozat 1. pontja iktatta be.
+[^38]: Az 1. melléklet 2. pont 2.65. alpontját az 1604/2019. (X. 16.) Korm. határozat 1. pontja iktatta be.
