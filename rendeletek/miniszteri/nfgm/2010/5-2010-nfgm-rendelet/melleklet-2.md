@@ -1,4 +1,4 @@
-2. melléklet az 5/2010. (I. 14.) NFGM rendelethez[^13]
+2. melléklet az 5/2010. (I. 14.) NFGM rendelethez[^14]
 
 | A felelősségbiztosítási szerződésben biztosítandó fedezet legkisebb mértéke |
 
@@ -46,4 +46,8 @@
 
 | 21. | az egyes szállítható nyomástartó berendezések üzemeltetésével kapcsolatos műszaki biztonsági követelményekről és a Gázpalack Biztonsági Szabályzatról szóló jogszabály | 50 000 000 |
 
-[^13]: A 2. melléklet a 7/2016. (II. 22.) NGM rendelet 9. §-ával megállapított, a 25/2019. (VIII. 26.) ITM rendelet 6. § (2) bekezdése, a 26/2020. (VII. 3.) ITM rendelet 1. §-a szerint módosított szöveg.
+| 22. | a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás „A” és „B” Melléklete kihirdetéséről, valamint a belföldi alkalmazásának egyes kérdéseiről szóló jogszabály, valamint a Nemzetközi Vasúti Fuvarozási Egyezmény (COTIF) módosításáról Vilniusban elfogadott, 1999. június 3-án kelt Jegyzőkönyv C Függeléke Mellékletének kihirdetéséről, valamint a belföldi alkalmazásának egyes kérdéseiről szóló jogszabály | 50 000 000 |
+
+| 23. | a villamosmű, termelői, magán- és közvetlen vezeték műszaki biztonsági követelményeiről, valamint a feszültség alatti munkavégzés szabályairól szóló jogszabály | 10 000 000 |
+
+[^14]: A 2. melléklet a 7/2016. (II. 22.) NGM rendelet 9. §-ával megállapított, a 25/2019. (VIII. 26.) ITM rendelet 6. § (2) bekezdése, a 26/2020. (VII. 3.) ITM rendelet 1. §-a, a 22/2023. (VIII. 30.) GFM rendelet 2. §-a szerint módosított szöveg.

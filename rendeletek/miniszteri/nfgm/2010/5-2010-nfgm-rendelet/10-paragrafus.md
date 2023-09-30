@@ -1,5 +1,3 @@
-## 9. §[^7]
-
 ## A kijelölési eljárásért fizetendő igazgatási szolgáltatási díj megfizetésére és a felhasználására vonatkozó szabályok
 
 10. § (1) Az igazgatási szolgáltatási díj mértéke, ha a kérelmezett megfelelőségértékelési terület nem tartozik harmonizációs uniós jogi aktus hatálya alá, – a 2. mellékletben meghatározott – jogszabályonként
@@ -16,7 +14,7 @@ b) egy adott jogszabály vonatkozásában már kijelölt szervezet esetében 32 
 
 (3) Bármely egyéb nyilvántartott és közzétett adat módosítására irányuló kérelem esetén az igazgatási szolgáltatási díj mértéke 10 000 Ft.
 
-(4)[^8] Az igazgatási szolgáltatási díjat az eljárás megkezdése előtt kell megfizetni a mérőeszközökre vonatkozó egyedi előírásokról szóló miniszteri rendelet, valamint a nem automatikus működésű mérlegek méréstechnikai követelményeiről és megfelelőségének tanúsításáról szóló miniszteri rendelet szerinti kijelölési hatósági eljárások esetében az Innovációs és Technológiai Minisztérium Magyar Államkincstárnál vezetett 10032000-00290713-00000000 számú számlájára, a Budapest Főváros Kormányhivatala feladatkörébe tartozó kijelölési hatósági eljárások esetében a Budapest Főváros Kormányhivatalának a Magyar Államkincstárnál vezetett 10023002-00309653-00000000 számú számlájára, a „megfelelőségértékelő szervezetek kijelölése” kifejezésnek a befizetési bizonylat közlemény rovatában való feltüntetésével.
+(4)[^9] Az igazgatási szolgáltatási díjat az eljárás megkezdése előtt kell megfizetni a mérőeszközökre vonatkozó egyedi előírásokról szóló miniszteri rendelet, valamint a nem automatikus működésű mérlegek méréstechnikai követelményeiről és megfelelőségének tanúsításáról szóló miniszteri rendelet szerinti kijelölési hatósági eljárások esetében a Gazdaságfejlesztési Minisztérium Magyar Államkincstárnál vezetett 10032000-00005503-06010011 számú számlájára, a Budapest Főváros Kormányhivatala feladatkörébe tartozó kijelölési hatósági eljárások esetében a Budapest Főváros Kormányhivatalának a Magyar Államkincstárnál vezetett 10023002-00309653-00000000 számú számlájára, a „megfelelőségértékelő szervezetek kijelölése” kifejezésnek a befizetési bizonylat közlemény rovatában való feltüntetésével.
 
 (5) A befizetett igazgatási szolgáltatási díjat a megfelelőségértékelő szervezetek kijelölésével kapcsolatban felmerülő személyi és tárgyi költségekre lehet felhasználni.
 
@@ -26,10 +24,9 @@ a) a díjfizetési kötelezettségre az illetékekről szóló 1990. évi XCIII.
 
 b) a díjfizetésre kötelezettek körének megállapítására az Itv. 31. § (1) bekezdése első mondatában, valamint a 31. § (2), (4) és (5) bekezdésében,
 
-c)[^9]
+c)[^10]
 
 kell alkalmazni.
 
-[^7]: A 9. §-t a 25/2019. (VIII. 26.) ITM rendelet 7. §-a hatályon kívül helyezte.
-[^8]: A 10. § (4) bekezdése a 14/2018. (IX. 4.) ITM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^9]: A 10. § (6) bekezdés c) pontját a 62/2016. (XII. 29.) NGM rendelet 21. § (2) bekezdése hatályon kívül helyezte.
+[^9]: A 10. § (4) bekezdése a 14/2018. (IX. 4.) ITM rendelet 4. § (1) bekezdésével megállapított, a 22/2023. (VIII. 30.) GFM rendelet 1. § b) pontja szerint módosított szöveg.
+[^10]: A 10. § (6) bekezdés c) pontját a 62/2016. (XII. 29.) NGM rendelet 21. § (2) bekezdése hatályon kívül helyezte.
