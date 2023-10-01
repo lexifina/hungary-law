@@ -1,1 +1,3 @@
-### 66. §
+66. § A fizetési meghagyásos eljárásról szóló 2009. évi L. törvény 52. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A 4–7. §-t, 10–13. §-t, 15–17. §-t, a 18. § (1) és (3)–(5) bekezdését, a 23. § (1) és (5) bekezdését, a 24. § (1) bekezdés l) pontját, a 25. § (3) bekezdését, a 26. § (1) és (2) bekezdését, valamint a 39. § (2)–(5) bekezdését és 44. § (3) bekezdését a végrehajtás elrendelése iránti eljárásban is megfelelően alkalmazni kell. A 15. §-ban meghatározott jogkövetkezmények a végrehajtást kérővel szemben akkor alkalmazhatók, ha a Vht. 37/B. §-a szerint a végrehajtást kérő kézbesítési megbízottat nem jelöl meg, vagy az iratokat a kézbesítési megbízott részére kézbesíteni nem lehet.”

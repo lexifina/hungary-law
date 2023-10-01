@@ -1,1 +1,3 @@
-### 67. §
+67. § A fizetési meghagyásos eljárásról szóló 2009. évi L. törvény 59. § (10) bekezdése helyébe a következő rendelkezés lép:
+
+„(10) Az európai fizetési meghagyásos eljárásban a beadványokat az E-ügyintézési törvény alapján elektronikus ügyintézésre kötelezett személy az E-ügyintézési törvényben és végrehajtási rendeleteiben meghatározott módon, elektronikusan az eljáró közjegyzőhöz, más személy az eljáró közjegyzőnél papír alapon írásban terjesztheti elő. Az eljárásban a Kjnp. 15/A–15/D. §-a megfelelően alkalmazandó, és az e törvénynek a MOKK rendszerére vonatkozó rendelkezései nem alkalmazhatók.”

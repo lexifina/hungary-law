@@ -1,1 +1,5 @@
-### 6. §
+6. § A közjegyzőkről szóló 1991. évi XLI. törvény 29. § (2a) és (2b) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(2a) A közjegyzőjelölt a közjegyző utasítása és felelőssége mellett jogosult a közjegyző hatáskörébe utalt adatigénylés alapján adatot beszerezni, továbbá önálló aláírási joggal járhat el közjegyzői nemperes ügyekben azzal, hogy a közjegyzőjelölt közjegyzői okiratot (ügyleti okiratot és ténytanúsító okiratot) nem készíthet, az ügy érdemében hozott vagy az eljárást befejező egyéb határozatot nem hozhat, tárgyalást nem tarthat és – ide nem értve a beadvány szóbeli előterjesztését – a feleket személyesen nem hallgathatja meg. A 21/A. § rendelkezései a közjegyzőjelölt tekintetében megfelelően alkalmazandók. A közjegyzőjelölt jogosult a közjegyző (közjegyzőhelyettes, közjegyzőjelölt, közjegyzői irodai ügyintéző) határozatát kiadmányozni.
+
+(2b) A közjegyzői irodai ügyintéző a közjegyző utasítása és felelőssége mellett jogosult a közjegyző hatáskörébe utalt adatigénylés alapján adatot beszerezni, e körben önálló aláírási joggal járhat el. A 21/A. § rendelkezései a közjegyzői irodai ügyintéző tekintetében megfelelően alkalmazandók. A közjegyzői irodai ügyintéző jogosult a közjegyző (közjegyzőhelyettes, közjegyzőjelölt, közjegyzői irodai ügyintéző) határozatát kiadmányozni.”

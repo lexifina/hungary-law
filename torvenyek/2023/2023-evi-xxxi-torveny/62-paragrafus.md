@@ -1,1 +1,5 @@
-### 62. §
+## „a) a felek nevét, eljárásbeli állását, a jogosult Pp. szerinti azonosító adatait, a kötelezett ismert Pp. szerinti azonosító adatait, de legalább lakóhelyét vagy székhelyét, valamint perbeli cselekvőképessége hiányában vagy nem természetes személy kötelezett esetén törvényes képviselőjének a nevét és kézbesítési címét, továbbá – ha a kötelezett azzal rendelkezik – a kötelezett adószámát;”
+
+62. § A fizetési meghagyásos eljárásról szóló 2009. évi L. törvény 26. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Ha a fizetési meghagyás kibocsátása iránti kérelem visszautasításának nincs helye, és ha nem kell a felet a hiányok pótlására felhívni, vagy a fél a hiánypótlási kötelezettségének eleget tett, a közjegyző az ellenfél meghallgatása (nyilatkoztatása) nélkül köteles a fizetési meghagyást kibocsátani. A közjegyző a fizetési meghagyást legkésőbb a kérelem beérkezésétől számított tizenöt napon belül – elektronikus úton beadott kérelem esetén három munkanapon belül – bocsátja ki és papír alapon kézbesítteti. A közjegyző a fizetési meghagyást elektronikusan kézbesítteti, ha e törvény elektronikus kézbesítést ír elő.”

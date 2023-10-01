@@ -1,1 +1,3 @@
-### 7. §
+7. § A közjegyzőkről szóló 1991. évi XLI. törvény 37. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Ha a helyettes olyan közjegyző, aki a helyettesített közjegyzővel azonos székhelyen működik, a helyettes közjegyző a helyettesítés során a saját székhelyén is, illetve a saját irodája útján is eljárhat. Ha a helyettes közjegyző illetékességi területe a helyettesített közjegyző illetékességi területével határos, saját székhelyén, illetve saját irodája útján akkor járhat el, ha arra a területi kamara elnöksége a helyettesítésről szóló megállapodást jóváhagyó vagy ennek hiányában a kirendelésről szóló határozatában feljogosította.”
