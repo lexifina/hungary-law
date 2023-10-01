@@ -1,1 +1,1 @@
-36. § Az európai uniós forrásból finanszírozott pénzügyi eszközök keretében nyújtott visszatérítendő támogatások kapcsán a kedvezményezett által hitel törlesztésként vagy részesedés ellenértékeként teljesített, ütemezett visszafizetésből eredő költségvetési bevételből, illetve az uniós forrásból az előirányzatnak átadott pénzeszközökből képződött maradvány nem elvonható.
+### 36. §

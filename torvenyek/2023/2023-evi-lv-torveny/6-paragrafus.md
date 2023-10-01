@@ -1,3 +1,1 @@
-6. § (1) Az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 19. § (3) bekezdése szerinti kijelölt tulajdonosi joggyakorló az általa e minőségében a 2024. év során beszedett bevételeket előirányzat-módosítás nélkül is elszámolhatja, és ennek érdekében új bevételi előirányzatot is létrehozhat. Erről a fejezetet irányító szervet és az államháztartásért felelős minisztert írásban tájékoztatni kell.
-
-(2) A fejezetet irányító szerv az (1) bekezdés szerinti tulajdonosi joggyakorlói minőségben végrehajtandó, valamint az Áht. 19. § (3) bekezdése szerint az irányítása alá tartozó fejezetbe sorolt tulajdonosi kiadások teljesítése érdekében az államháztartásért felelős miniszter egyetértésével új központi kezelésű kiadási előirányzatot hozhat létre.
+### 6. §

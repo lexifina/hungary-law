@@ -1,1 +1,1 @@
-46. § Az Országgyűlés a XI. Miniszterelnökség fejezet, 30. cím, 1. alcím, 30. jogcímcsoport, 1. Egyházi közfeladatellátáshoz kapcsolódó céltámogatások és karitatív feladatok támogatása jogcím terhére az egyházi jogi személyek és a Karitatív Tanács számára nyújtandó támogatások keretösszegeit a 10. melléklet szerint állapítja meg.
+### 46. §

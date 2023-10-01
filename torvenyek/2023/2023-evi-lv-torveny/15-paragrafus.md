@@ -1,1 +1,1 @@
-15. § A LXXII. Egészségbiztosítási Alap fejezet, 2. Egészségbiztosítási ellátások kiadásai címen belül az időarányoshoz viszonyított évközi előirányzat-túllépést a 7. Gyógyító-megelőző ellátás alcím, a 10. Gyógyszertámogatás alcím, a 11. Gyógyászati segédeszköz támogatás alcím, továbbá a 13. alcím, 2. Külföldön tervezett egészségügyi ellátások megtérítése jogcímcsoport esetében az államháztartásért felelős miniszter a kiadások alakulásának figyelembevételével engedélyezheti.
+### 15. §

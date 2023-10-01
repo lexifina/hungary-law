@@ -1,15 +1,3 @@
 ## 15. A helyi önkormányzatok pénzellátásának kiegészítő szabályai
 
-42. § (1) A 2. melléklet, a 3. melléklet 2.1.7. Vármegyei önkormányzatok feladatainak támogatása jogcím, 2.2.2. Szociális ágazati összevont pótlék és egészségügyi kiegészítő pótlék jogcím, 2.3.2. Települési önkormányzatok kulturális feladatainak kiegészítő támogatása jogcím, 2.3.3. Települési önkormányzatok kulturális feladatainak bérjellegű támogatása jogcím és a 6.3. pont e) alpontja szerinti támogatás folyósítása nettó finanszírozás keretében történik.
-
-(2) A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) 19. § (1a) bekezdése szerinti pénzbeli ellátás esetében a települési önkormányzat januárban teljesített kifizetéseit követően, az őt megillető összeget január hónapban igényelheti jogszabályban meghatározott éven belüli elszámolási kötelezettséggel. A 3. melléklet 6.3. pont h) alpontjában meghatározott ellátások esetében, ha
-
-a) a települési önkormányzat a tárgyévet megelőző év decemberében igénylést nyújtott be, a január hónapban járó előleg folyósítása – jogszabályban meghatározott módon – igénylés nélkül történik,
-
-b) a települési önkormányzat a tárgyévet megelőző év decemberében nem nyújtott be igénylést, első alkalommal az őt megillető havi összeg legfeljebb kétszeresét igényelheti jogszabályban meghatározott éven belüli elszámolási kötelezettséggel.
-
-(3) A helyi önkormányzatok általános működésének és ágazati feladatainak ellátásához járó támogatás jogosulatlan igénybevételéhez kapcsolódó kamatfizetési kötelezettség kiszámítása szempontjából a 2. melléklet 1.1.2. Nem közművel összegyűjtött háztartási szennyvíz ártalmatlanítása jogcím, 1.2. A települési önkormányzatok egyes köznevelési feladatainak támogatása jogcím, 1.3.2. Egyes szociális és gyermekjóléti feladatok támogatása jogcím, 1.3.3. Bölcsőde, mini bölcsőde támogatása jogcím, 1.3.4. A települési önkormányzatok által biztosított egyes szociális szakosított ellátások, valamint a gyermekek átmeneti gondozásával kapcsolatos feladatok támogatása jogcím, valamint az 1.4. A települési önkormányzatok gyermekétkeztetési feladatainak támogatása jogcím szerinti támogatások együttes összegét kell figyelembe venni.
-
-(4) Az önkormányzattól a 2. melléklet 57. pontja szerinti szolidaritási hozzájárulás elvonása a települési önkormányzat számára folyósítandó támogatás havi összegéből a nettó finanszírozás keretében történik. Ennek összegét a IX. Helyi önkormányzatok támogatásai fejezet, 4. Önkormányzati szolidaritási hozzájárulás címen kell elszámolni.
-
-(5) Ha a települési önkormányzatot az (1) bekezdés alapján a nettó finanszírozás keretében megillető adott havi források a (4) bekezdés szerint levonandó összegekre nem nyújtanak fedezetet, a kincstár az Áht. 83. § (3) bekezdése alapján havonta beszedési megbízást nyújt be a települési önkormányzattal szemben. Ha a települési önkormányzatnak 2024. december 15-én bármilyen elmaradása van a (4) bekezdés szerinti befizetési kötelezettsége tekintetében, a kincstár a meg nem fizetett összegre a kötelezett fizetési számlájára beszedési megbízást nyújt be.
+### 42. §
