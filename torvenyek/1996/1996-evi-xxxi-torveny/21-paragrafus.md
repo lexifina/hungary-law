@@ -10,4 +10,8 @@
 
 (6) A felelős műszaki vezetőnek – annak hiányában a kivitelezőnek – az építőipari kivitelezési tevékenységek befejezését követően az (5) bekezdésben foglaltak érvényesítéséről írásban kell nyilatkoznia.
 
-(7)–(9)
+(7)
+
+(8)
+
+(9)

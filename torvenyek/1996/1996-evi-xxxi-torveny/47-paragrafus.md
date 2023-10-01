@@ -62,7 +62,11 @@ k) a tűzesetek vizsgálatára vonatkozó eljárási szabályokat.
 
 19. a hivatásos tűzoltóságok Szolgálati Szabályzatát,
 
-20–22.
+20.
+
+21.
+
+22.
 
 23. a tűzvédelem műszaki követelményeinek megállapítását,
 
@@ -84,7 +88,7 @@ k) a tűzesetek vizsgálatára vonatkozó eljárási szabályokat.
 
 a) a tűzoltóságok és a Magyar Honvédség tűzvédelmi szerveinek együttműködési rendjét a honvédelemért felelős miniszterrel,
 
-b) a Budapest Liszt Ferenc Nemzetközi Repülőtér tűzvédelmi, műszaki mentési feladatait ellátó hivatásos tűzoltóság működésére, fenntartására és fejlesztésére vonatkozó szabályokat a közlekedésért felelős miniszterrel,
+b)
 
 c) az erdők tűzvédelmére vonatkozó szabályokat az erdőgazdálkodásért felelős miniszterrel,
 

@@ -76,4 +76,4 @@ x) tűz- vagy robbanásveszélyes technológia: a tűz- vagy robbanásveszélyes
 
 y) megfelelőségi nyilatkozat: a termékek forgalomba hozatalának közös keretrendszeréről, valamint a 93/465/EGK tanácsi határozat hatályon kívül helyezéséről szóló 2008. július 9-i 2008/768/EK európai parlamenti és tanácsi határozat III. mellékletének tartalmán alapuló, a tűzoltó-technikai termékre, a tűz- vagy robbanásveszélyes készülékre, gépre, berendezésre vonatkozó tűzvédelmi, biztonságossági követelményeknek való megfelelőség igazolására alkalmas irat;
 
-z) tűzoltó szolgálat: a Nemzetközi Polgári Légiközlekedési Szervezet (ICAO) által kiadott, a nemzetközi polgári repülésről Chicagóban, az 1944. évi december hó 7. napján aláírt Egyezményhez tartozó, aktuális 14. Függelék I-es kötetében (ANNEX 14/I., Repülőterek) meghatározott repülőtereken mentő-, tűzoltó feladatokat ellátó szervezet.
+z)

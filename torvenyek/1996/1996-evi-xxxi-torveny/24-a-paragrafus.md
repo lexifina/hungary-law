@@ -22,4 +22,4 @@ i) meghatározza a tűzoltóság tűzoltási és műszaki mentési tevékenység
 
 j) jóváhagyja a beavatkozó önkéntes tűzoltó egyesülettel az önálló tűzoltási és műszaki mentési tevékenység tárgyában kötött megállapodást,
 
-k) meghatározza a tűzoltó szolgálat tűzoltási, műszaki mentési tevékenysége végrehajtásának módjára vonatkozó szakmai szabályokat és a hivatásos katasztrófavédelmi szervvel való együttműködés rendjét.
+k)
