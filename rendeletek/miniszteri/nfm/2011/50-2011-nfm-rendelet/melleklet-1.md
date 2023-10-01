@@ -2,4 +2,4 @@
 
 Az értékesítői díjak
 
-[^19]: Az 1. melléklet a 8/2022. (XII. 28.) EM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^19]: Az 1. melléklet a 20/2023. (IX. 29.) EM rendelet 1. § (1) bekezdésével megállapított szöveg.
