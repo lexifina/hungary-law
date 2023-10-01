@@ -26,6 +26,8 @@ I. Általános rendelkezések
 
 1.10. Nem keretjellegű instrumentum: olyan instrumentum, amelyből nem keletkezhet eltérő tulajdonsággal rendelkező instrumentum.
 
+1.10a. Nem pénzügyi kimutatás közzétételére köteles vállalkozás: a számvitelről szóló 2000. évi C. törvény 95/C. § (1) bekezdésében meghatározott vállalkozás.
+
 1.11. Nem speciális keretjellegű instrumentum: olyan keretinstrumentum, amely nem tartozik a speciális keretjellegű instrumentumok közé.
 
 1.12. Speciális keretjellegű instrumentum: olyan keretinstrumentum, amelyből a szerződés alapján több, eltérő tulajdonsággal rendelkező instrumentum keletkezhet [pl. többdevizás (multicurrency), többcélú (multipurpose) és faktoring hitelkeretek], vagy amely esetén a keret nyílásakor az alaptulajdonságok (pl. kamatozás) még nem ismertek.
@@ -104,7 +106,7 @@ Amennyiben az adatszolgáltatásban jelentendő hitelhez tartozó ügyfelek köz
 
 5. Az adatszolgáltatásban szerepeltetendő ügyletek
 
-5.1. Az adatszolgáltatásban hitelügyletként az adatszolgáltató által tartott olyan, hitelviszonyt megtestesítő, alapvetően visszafizetendő, pénzkölcsön nyújtásából vagy befektetési szolgáltatásból fakadó, hiteljellegű instrumentumok jelentendők, amelyek nem sorolhatók a különféle eszközoldali betétek vagy értékpapírok közé. Hitelügylet alatt értendő a faktoring és lízingügylet is.
+5.1. Az adatszolgáltatásban hitelügyletként az adatszolgáltató által tartott olyan, hitelviszonyt megtestesítő, alapvetően visszafizetendő, pénzkölcsön nyújtásából vagy befektetési szolgáltatásból fakadó, hiteljellegű instrumentumok jelentendők, amelyek nem sorolhatók a különféle eszközoldali betétek vagy értékpapírok közé. Hitelügylet alatt értendő a faktoring és lízingügylet is. Az adatszolgáltatásban jelentendő továbbá a garancia, az egyéb mérlegen kívüli kötelezettségvállalás, valamint a folyószámlához köthető olyan tartozás, amelyhez nem tartozik hitelkeret-szerződés, csak betéti szerződés, ideértve az értékpapírszámlán megjelenő negatív egyenleget is.
 
 5.2. Az adatok tartalmára, értékelésére vonatkozóan – e rendelet eltérő rendelkezése hiányában – azon adatszolgáltató számára, amely
 
@@ -125,6 +127,8 @@ az irányadók.
 5.7. Az ESRB kódú adatkört a negyedév első két hónapjára vonatkozóan nemlegesen kell teljesíteni, míg a negyedév utolsó hónapjára vonatkozó adatszolgáltatásban a teljes tárgynegyedév adatai jelentendők.
 
 5.8. Az INST_KAM adatkörben az alapvető feladatokhoz kapcsolódó adatszolgáltatási MNB rendelet szerinti „Jelentés a nem pénzügyi vállalatok egyedi hitelszerződéseiről” (MNB azonosító kód: K21) adatszolgáltatásban jelentett instrumentum azonosító szerepeltetendő az „Instrumentum azonosítója a K21 MNB azonosító kódú adatszolgáltatásban” mezőben, vagy a „Jelentés a háztartások és a háztartásokat segítő nonprofit intézmények egyedi hitelszerződéseiről” (MNB azonosító kód: K23) adatszolgáltatásban jelentett instrumentum azonosító szerepeltetendő az „Instrumentum azonosítója a K23 MNB azonosító kódú adatszolgáltatásban” mezőben. Egy instrumentumhoz kapcsolódóan csak az egyik azonosító adható meg az „Instrumentum azonosítója a K21 MNB azonosító kódú adatszolgáltatásban” és az „Instrumentum azonosítója a K23 MNB azonosító kódú adatszolgáltatásban” mezőkben jelentendő azonosítók közül.
+
+5.9. A TAX_UGYF kódú adatkörben azon ügyfelekre vonatkozóan jelentendő adat, amelyek nem pénzügyi kimutatás közzétételére köteles vállalkozásnak minősülnek.
 
 6. Irányelvek
 
@@ -274,33 +278,35 @@ Az összevont alapú felügyelet alá tartozó pénzügyi vállalkozás, valamin
 
 A hitelintézet, valamint az ezen típusú EGT-fióktelep tekintetében nem töltendő a 26. sorszámú attribútumra vonatkozó mező.
 
-Az összevont alapú felügyelet alá tartozó pénzügyi vállalkozás, valamint az MNB által kijelölt, összevont alapú felügyelet alá nem tartozó pénzügyi vállalkozás tekintetében nem töltendő az 5., 6., 14–17., 23., 26. sorszámú attribútumra vonatkozó mező.
+Az összevont alapú felügyelet alá tartozó pénzügyi vállalkozás, valamint az MNB által kijelölt, összevont alapú felügyelet alá nem tartozó pénzügyi vállalkozás tekintetében nem töltendő az 5., 6., 14–17., 23., 26., 31., 33., 34. sorszámú attribútumra vonatkozó mező.
 
 12.3. INSTR Instrumentum – nem speciális keretjellegű és nem keretjellegű
 
-A hitelintézet, valamint az ezen típusú EGT-fióktelep tekintetében nem töltendő az 51., 54., 80., 81., 87., 88., 125., 126. sorszámú attribútumra vonatkozó mező.
+A hitelintézet, valamint az ezen típusú EGT-fióktelep tekintetében nem töltendő az 51., 54., 125., 126. sorszámú attribútumra vonatkozó mező.
 
-Az összevont alapú felügyelet alá tartozó pénzügyi vállalkozás, valamint az MNB által kijelölt, összevont alapú felügyelet alá nem tartozó pénzügyi vállalkozás tekintetében nem töltendő a 6., 7., 21., 24., 28–30., 35., 40., 42., 46–48., 50–54., 59., 65., 70., 80., 81., 87., 88., 93–96., 109., 110., 112., 125., 126., 130., 138., 141., 173., 188. sorszámú attribútumra vonatkozó mező.
+Az összevont alapú felügyelet alá tartozó pénzügyi vállalkozás, valamint az MNB által kijelölt, összevont alapú felügyelet alá nem tartozó pénzügyi vállalkozás tekintetében nem töltendő a 6., 7., 21., 24., 28–30., 35., 40., 42., 46–48., 50–54., 59., 65., 70., 93–96., 109., 110., 112., 125., 126., 130., 138., 141., 173., 188., 198–202., 206–209. sorszámú attribútumra vonatkozó mező.
 
 12.4. INSTM Instrumentum – megszűnés
 
 A teljes adatszolgáltatói kör tekintetében nem töltendő a 16., 17. sorszámú attribútumra vonatkozó mező.
 
-12.5.
+12.5. INSTN Instrumentum – felügyeleti adatok
+
+## Az összevont alapú felügyelet alá tartozó pénzügyi vállalkozás, valamint az MNB által kijelölt, összevont alapú felügyelet alá nem tartozó pénzügyi vállalkozás tekintetében nem töltendő a 21–29. sorszámú attribútumra vonatkozó mező.
 
 12.6. INST_UGYF Instrumentum – ügyfél
 
-Az összevont alapú felügyelet alá tartozó pénzügyi vállalkozás, valamint az MNB által kijelölt, összevont alapú felügyelet alá nem tartozó pénzügyi vállalkozás tekintetében nem töltendő a 11–15. sorszámú attribútumra vonatkozó mező.
+Az összevont alapú felügyelet alá tartozó pénzügyi vállalkozás, valamint az MNB által kijelölt, összevont alapú felügyelet alá nem tartozó pénzügyi vállalkozás tekintetében nem töltendő a 11–15., 21., 22. sorszámú attribútumra vonatkozó mező.
 
 12.7. FEDE Fedezet – eredeti
 
 A hitelintézet, valamint az ezen típusú EGT-fióktelep tekintetében nem töltendő a 8. sorszámú attribútumra vonatkozó mező.
 
-Az összevont alapú felügyelet alá tartozó pénzügyi vállalkozás, valamint az MNB által kijelölt, összevont alapú felügyelet alá nem tartozó pénzügyi vállalkozás tekintetében nem töltendő a 8., 22. sorszámú attribútumra vonatkozó mező.
+Az összevont alapú felügyelet alá tartozó pénzügyi vállalkozás, valamint az MNB által kijelölt, összevont alapú felügyelet alá nem tartozó pénzügyi vállalkozás tekintetében nem töltendő a 8., 22., 28. sorszámú attribútumra vonatkozó mező.
 
 12.8. FEDA Fedezet – aktuális
 
-Az összevont alapú felügyelet alá tartozó pénzügyi vállalkozás, valamint az MNB által kijelölt, összevont alapú felügyelet alá nem tartozó pénzügyi vállalkozás tekintetében nem töltendő a 16. sorszámú attribútumra vonatkozó mező.
+Az összevont alapú felügyelet alá tartozó pénzügyi vállalkozás, valamint az MNB által kijelölt, összevont alapú felügyelet alá nem tartozó pénzügyi vállalkozás tekintetében nem töltendő a 16., 23., 24. sorszámú attribútumra vonatkozó mező.
 
 12.9. INST_FED Instrumentum – fedezet
 
@@ -352,4 +358,4 @@ Az összevont alapú felügyelet alá tartozó pénzügyi vállalkozás, valamin
 
 13. Az adatszolgáltatáshoz használandó kódokat, illetve a kitöltést segítő módszertani útmutatást a 3. melléklet 2., illetve 3. pontja szerinti, az MNB honlapján közzétett technikai segédlet tartalmazza. Az adatszolgáltatás hibátlan beküldését elősegítő ellenőrzési szabályokat a 3. melléklet 5. pontja szerinti, az MNB honlapján közzétett technikai segédlet tartalmazza.
 
-[^7]: A 2. melléklet a 46/2020. (XI. 20.) MNB rendelet 5. § (2) bekezdésével megállapított, az 59/2021. (XI. 24.) MNB rendelet 3. § b) pontja, a 18/2022. (V. 25.) MNB rendelet 2. § b) pontja szerint módosított szöveg.
+[^7]: A 2. melléklet a 46/2020. (XI. 20.) MNB rendelet 5. § (2) bekezdésével megállapított, az 59/2021. (XI. 24.) MNB rendelet 3. § b) pontja, a 18/2022. (V. 25.) MNB rendelet 2. § b) pontja, a 31/2023. (VI. 30.) MNB rendelet 2. § (1) bekezdés b) pontja szerint módosított szöveg.

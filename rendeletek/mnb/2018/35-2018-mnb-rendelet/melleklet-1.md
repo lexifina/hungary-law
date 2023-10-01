@@ -1,5 +1,3 @@
-## 6. §[^5] A hitelintézet és az ezen típusú EGT-fióktelep az adatszolgáltatást a jegybanki információs rendszerhez a hitelügyletek egyes adataira vonatkozóan teljesítendő adatszolgáltatási kötelezettségekről szóló 35/2018. (XI. 13.) MNB rendelet módosításáról szóló 18/2022. (V. 25.) MNB rendelet 1. mellékletével módosított 1. mellékletben meghatározott adattartalommal és a jegybanki információs rendszerhez a hitelügyletek egyes adataira vonatkozóan teljesítendő adatszolgáltatási kötelezettségekről szóló 35/2018. (XI. 13.) MNB rendelet módosításáról szóló 18/2022. (V. 25.) MNB rendelet 2. mellékletével módosított 2. mellékletben foglalt kitöltési előírások szerint első alkalommal 2023. március hónapra mint tárgyidőszakra vonatkozóan jelenti.
-
 1. melléklet a 35/2018. (XI. 13.) MNB rendelethez[^6]
 
 Az adatszolgáltatás részletes adattartalma
@@ -96,9 +94,15 @@ Az adatszolgáltatás részletes adattartalma
 
 | 30. | Cash-pool konstrukció típusa |
 
-| 31. |  |
+| 31. | Folyószámla-azonosító |
 
-| 32. |  |
+| 32. | Projekthitel célja |
+
+| 33. | Az értékvesztésképzés alá nem tartozó, mérlegen kívüli instrumentumok besorolása |
+
+| 34. | A garancia hitelhelyettesítő-e? |
+
+| 35. | Tőketörlesztés típusa |
 
 4. INSTR Instrumentum – nem speciális keretjellegű és nem keretjellegű
 
@@ -498,6 +502,32 @@ Az adatszolgáltatás részletes adattartalma
 
 | 197. | Az átstrukturált hitel gyógyulási időszakának kezdete |
 
+| 198. | Folyószámla-azonosító |
+
+| 199. | Az értékvesztésképzés alá nem tartozó, mérlegen kívüli instrumentumok besorolása |
+
+| 200. | A garancia hitelhelyettesítő-e? |
+
+| 201. | Fennálló tőke összege átvételkor |
+
+| 202. | Fennálló tőke összege átvételkor – devizanem |
+
+| 203. | Digitális módon értékesített kölcsön automatikus folyósítása |
+
+| 204. | Kölcsön folyósításáig eltelt idő |
+
+| 205. | Kamatozás módja a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény szerint |
+
+| 206. | Hiánytalan hitelkérelem hitelező általi befogadásának napja |
+
+| 207. | Adott instrumentum kezdeti törlesztőrészletének összege |
+
+| 208. | Adott instrumentum kezdeti törlesztőrészletének devizaneme |
+
+| 209. | Tevékenység végzése során KHR-ből származó pozitív hiteljelentést nem elváró pénzügyi vállalkozásoknak nyújtott hitel |
+
+| 210. | A környezeti célkitűzéshez igazodó kitettség igazodási aránya |
+
 5. INSTM Instrumentum – megszűnés
 
 | Attribútum sorszáma | Attribútum megnevezése |
@@ -582,11 +612,23 @@ Az adatszolgáltatás részletes adattartalma
 
 | 20. | Várható hitelezési veszteség alapján származtatott nemteljesítési valószínűség (PD) |
 
-| 21. |  |
+| 21. | Hitelegyenértékesítési tényező (CCF) Pillér II. alatt |
 
-| 22. |  |
+| 22. | Nemteljesítés bekövetkezésekor a kockázati kitettség értéke (EAD) Pillér II. alatt |
 
-| 23. |  |
+| 23. | Nemteljesítési valószínűség (PD) Pillér II. alatt |
+
+| 24. | Nemteljesítéskori veszteségráta (LGD) Pillér II. alatt |
+
+| 25. | Várható veszteség (EL) Pillér II. alatt |
+
+| 26. | M – lejárat Pillér II. alatt |
+
+| 27. | S paraméter |
+
+| 28. | Ügyfélcsoport kitettsége |
+
+| 29. | KKV-szorzó |
 
 7. INST_UGYF Instrumentum – ügyfél
 
@@ -631,6 +673,10 @@ Az adatszolgáltatás részletes adattartalma
 | 19. | Az ügyfél családi állapota |
 
 | 20. | Cash-pool szerepkör |
+
+| 21. | Adós alkalmazásának kezdete és a hitelbírálat között eltelt hónapok száma |
+
+| 22. | Adós hitelbírálatkori munkahelye szerinti nemzetgazdasági ágazat |
 
 8. FEDE Fedezet – eredeti
 
@@ -690,6 +736,8 @@ Az adatszolgáltatás részletes adattartalma
 
 | 27. | Energetikai besorolás kódja – eredeti |
 
+| 28. | Projekt tárgyát képező ingatlan készültségi foka |
+
 9. FEDA Fedezet – aktuális
 
 | Attribútum sorszáma | Attribútum megnevezése |
@@ -737,6 +785,10 @@ Az adatszolgáltatás részletes adattartalma
 | 21. | Összesített energetikai jellemző (kWh/m2) – aktuális |
 
 | 22. | Energetikai besorolás kódja – aktuális |
+
+| 23. | Projekt tárgyát képező ingatlan készültségi foka |
+
+| 24. | Alkalmazott fedezeti szorzó |
 
 10. INST_FED Instrumentum – fedezet
 
@@ -1090,6 +1142,8 @@ Az adatszolgáltatás részletes adattartalma
 
 | 39. | A vállalkozás ágazata |
 
+| 40. | Nem pénzügyi kimutatás közzétételére köteles vállalkozás-e? |
+
 19. UGYFBVTN Ügyfél – belföldi vállalkozás – törzsszámmal nem rendelkező vállalkozások
 
 | Attribútum sorszáma | Attribútum megnevezése |
@@ -1258,6 +1312,8 @@ Az adatszolgáltatás részletes adattartalma
 
 | 43. | Nemzetközi intézmény kódja |
 
+| 44. | Nem pénzügyi kimutatás közzétételére köteles vállalkozás-e? |
+
 21. UGYFM Ügyfélminősítés
 
 | Attribútum sorszáma | Attribútum megnevezése |
@@ -1287,6 +1343,8 @@ Az adatszolgáltatás részletes adattartalma
 | 12. | CRR szerinti ügyfélminősítés utolsó időpontja |
 
 | 13. | Ügyfél nemteljesítési valószínűsége (PD) |
+
+| 14. | Ügyfélminősítés kategória |
 
 22. HBIR Hitelbírálat
 
@@ -1408,5 +1466,62 @@ Az adatszolgáltatás részletes adattartalma
 
 | 5. | Instrumentum azonosítója a K23 MNB azonosító kódú adatszolgáltatásban |
 
-[^5]: A 6. § a 18/2022. (V. 25.) MNB rendelet 1. §-ával megállapított szöveg.
-[^6]: Az 1. melléklet a 46/2020. (XI. 20.)MNB rendelet 5. § (1) bekezdése, az 59/2021. (XI. 24.) MNB rendelet 3. § a) pontja, a 18/2022. (V. 25.) MNB rendelet 2. § a) pontja szerint módosított szöveg.
+25. TAX_UGYF Taxonómia – ügyfél
+
+| (Attribútum sorszáma | Attribútum megnevezése) |
+
+| 1. | Megfigyelt szervezet azonosító |
+
+| 2. | Belföldi vállalkozás törzsszáma |
+
+| 3. | Vállalkozás külföldi azonosító |
+
+| 4. | Az éghajlatváltozás mérséklése – taxonómiához igazodó tevékenységek árbevétele |
+
+| 5. | Az éghajlatváltozáshoz való alkalmazkodás – taxonómiához igazodó tevékenységek árbevétele |
+
+| 6. | A biológiai sokféleség és az ökoszisztémák védelme és helyreállítása – taxonómiához igazodó tevékenységek árbevétele |
+
+| 7. | A körforgásos gazdaságra való átállás – taxonómiához igazodó tevékenységek árbevétele |
+
+| 8. | A szennyezés megelőzése és csökkentése – taxonómiához igazodó tevékenységek árbevétele |
+
+| 9. | A vízi és tengeri erőforrások fenntartható használata és védelme – taxonómiához igazodó tevékenységek árbevétele |
+
+| 10. | Az éghajlatváltozás mérséklése – taxonómiához igazítható tevékenységek árbevétele |
+
+| 11. | Az éghajlatváltozáshoz való alkalmazkodás – taxonómiához igazítható tevékenységek árbevétele |
+
+| 12. | A biológiai sokféleség és az ökoszisztémák védelme és helyreállítása – taxonómiához igazítható tevékenységek árbevétele |
+
+| 13. | A körforgásos gazdaságra való átállás – taxonómiához igazítható tevékenységek árbevétele |
+
+| 14. | A szennyezés megelőzése és csökkentése – taxonómiához igazítható tevékenységek árbevétele |
+
+| 15. | A vízi és tengeri erőforrások fenntartható használata és védelme – taxonómiához igazítható tevékenységek árbevétele |
+
+| 16. | Az éghajlatváltozás mérséklése – taxonómiához igazodó tevékenységek beruházási ráfordítása |
+
+| 17. | Az éghajlatváltozáshoz való alkalmazkodás – taxonómiához igazodó tevékenységek beruházási ráfordítása |
+
+| 18. | A biológiai sokféleség és az ökoszisztémák védelme és helyreállítása – taxonómiához igazodó tevékenységek beruházási ráfordítása |
+
+| 19. | A körforgásos gazdaságra való átállás – taxonómiához igazodó tevékenységek beruházási ráfordítása |
+
+| 20. | A szennyezés megelőzése és csökkentése – taxonómiához igazodó tevékenységek beruházási ráfordítása |
+
+| 21. | A vízi és tengeri erőforrások fenntartható használata és védelme – taxonómiához igazodó tevékenységek beruházási ráfordítása |
+
+| 22. | Az éghajlatváltozás mérséklése – taxonómiához igazítható tevékenységek beruházási ráfordítása |
+
+| 23. | Az éghajlatváltozáshoz való alkalmazkodás – taxonómiához igazítható tevékenységek beruházási ráfordítása |
+
+| 24. | A biológiai sokféleség és az ökoszisztémák védelme és helyreállítása – taxonómiához igazítható tevékenységek beruházási ráfordítása |
+
+| 25. | A körforgásos gazdaságra való átállás – taxonómiához igazítható tevékenységek beruházási ráfordítása |
+
+| 26. | A szennyezés megelőzése és csökkentése – taxonómiához igazítható tevékenységek beruházási ráfordítása |
+
+| 27. | A vízi és tengeri erőforrások fenntartható használata és védelme – taxonómiához igazítható tevékenységek beruházási ráfordítása |
+
+[^6]: Az 1. melléklet a 46/2020. (XI. 20.)MNB rendelet 5. § (1) bekezdése, az 59/2021. (XI. 24.) MNB rendelet 3. § a) pontja, a 18/2022. (V. 25.) MNB rendelet 2. § a) pontja, a 31/2023. (VI. 30.) MNB rendelet 2. § (1) bekezdés a) pontja szerint módosított szöveg.
