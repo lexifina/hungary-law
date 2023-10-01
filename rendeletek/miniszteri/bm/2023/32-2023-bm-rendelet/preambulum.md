@@ -1,0 +1,1 @@
+Az egészségügyi alapellátásról szóló 2015. évi CXXIII. törvény 18. § (2) bekezdés i) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 66. § (1) bekezdés 26. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
