@@ -1,11 +1,11 @@
 11. § A 45/2016. (XI. 29.) NGM rendelet
 
-a)[^11]
+a)[^2]
 
-b)[^12]
+b) 1. melléklete a 2. melléklet szerint,
 
-c)[^13]
+c) 2. melléklete a 3. melléklet szerint
 
-[^11]: A 11. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^12]: A 11. § b) pontja a 12. § (2) bekezdés alapján 2023. október 1-jén lép hatályba.
-[^13]: A 11. § c) pontja a 12. § (2) bekezdés alapján 2023. október 1-jén lép hatályba.
+módosul.
+
+[^2]: A 11. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
