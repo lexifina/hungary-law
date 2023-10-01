@@ -2,7 +2,7 @@
 
 Az állami érdekű alkalmazásfejlesztések tervezése, beszerzése és lebonyolítása során kötelezően érvényesítendő szakmapolitikai alapkövetelmények
 
-1.[^98] Alkalmazásfejlesztések csak az állam által támogatott – és a 4. § (1) bekezdés a) pont af) alpontjában rögzített módszertan szerint meghatározott, szakmailag indokolt mértékű kapacitásig közszolgáltatási szerződés alapján igénybe vehető – fejlesztői környezetben végezhetők el.
+1.[^99] Alkalmazásfejlesztések csak az állam által támogatott – és a 4. § (1) bekezdés a) pont af) alpontjában rögzített módszertan szerint meghatározott, szakmailag indokolt mértékű kapacitásig közszolgáltatási szerződés alapján igénybe vehető – fejlesztői környezetben végezhetők el.
 
 2. A fejlesztésekbe a lehető legnagyobb mértékben be kell építeni az ÁAFK által biztosított szabályozott és a központi elektronikus ügyintézési szolgáltatás (a továbbiakban együtt: KEÜSZÖK és SZEÜSZ-ök) komponensek használatát.
 
@@ -30,13 +30,13 @@ Az állami érdekű alkalmazásfejlesztések tervezése, beszerzése és lebonyo
 
 14. Amennyiben az adott alkalmazás elektronikus dokumentumot állít elő, biztosítani kell, hogy a készített elektronikus dokumentum más szoftverrel is olvasható, illetve szerkeszthető legyen, legalább az elektronikus ügyintézés részletszabályairól szóló 451/2016. (XII. 19.) Korm. rendelet 1. mellékletében meghatározott és a szoftver felhasználása szempontjából értelmezhető, az elektronikus ügyintézést biztosító szervek által kötelezően elfogadott elektronikus dokumentumformátumok használatának a lehetővé tételével.
 
-15.[^99] Az alkalmazás-fejlesztések során nem alkalmazható olyan technológiai megoldás vagy rendszer, amely az adatkezelő kifejezett hozzájárulása nélkül lehetővé teszi a harmadik fél általi hozzáférést, továbbá nem alkalmazható olyan technológiai elem vagy rendszer komponens, amelynek felhasználási feltételei egyoldalú szerződésmódosítást tesznek lehetővé, és ezáltal lehetségessé válhat a harmadik fél általi adathozzáférés.
+15.[^100] Az alkalmazás-fejlesztések során nem alkalmazható olyan technológiai megoldás vagy rendszer, amely az adatkezelő kifejezett hozzájárulása nélkül lehetővé teszi a harmadik fél általi hozzáférést, továbbá nem alkalmazható olyan technológiai elem vagy rendszer komponens, amelynek felhasználási feltételei egyoldalú szerződésmódosítást tesznek lehetővé, és ezáltal lehetségessé válhat a harmadik fél általi adathozzáférés.
 
-16.[^100] Az éles üzembe állításnál az adott alkalmazás rendelkezik az informatikai elektronikus információbiztonsági, illetve adatvédelmi, valamint a jogszabályokban vagy szerződésben meghatározott tanúsítvánnyal.
+16.[^101] Az éles üzembe állításnál az adott alkalmazás rendelkezik az informatikai elektronikus információbiztonsági, illetve adatvédelmi, valamint a jogszabályokban vagy szerződésben meghatározott tanúsítvánnyal.
 
-17.[^101] Az állami érdekű alkalmazásfejlesztések tervezése, illetve a fejlesztési feladatok megvalósítása során figyelemmel kell lenni arra, hogy az elektronikus ügyintézés lehetőségét a megvalósult alkalmazás elősegítse, illetve biztosítsa.
+17.[^102] Az állami érdekű alkalmazásfejlesztések tervezése, illetve a fejlesztési feladatok megvalósítása során figyelemmel kell lenni arra, hogy az elektronikus ügyintézés lehetőségét a megvalósult alkalmazás elősegítse, illetve biztosítsa.
 
-[^98]: Az 1. melléklet 1. pontja a 717/2021. (XII. 20.) Korm. rendelet 27. § d) pontja szerint módosított szöveg.
-[^99]: Az 1. melléklet 15. pontját a 476/2021. (VIII. 9.) Korm. rendelet 2. §-a iktatta be.
-[^100]: Az 1. melléklet 16. pontját a 476/2021. (VIII. 9.) Korm. rendelet 2. §-a iktatta be.
-[^101]: Az 1. melléklet 17. pontját a 476/2021. (VIII. 9.) Korm. rendelet 2. §-a iktatta be.
+[^99]: Az 1. melléklet 1. pontja a 717/2021. (XII. 20.) Korm. rendelet 27. § d) pontja szerint módosított szöveg.
+[^100]: Az 1. melléklet 15. pontját a 476/2021. (VIII. 9.) Korm. rendelet 2. §-a iktatta be.
+[^101]: Az 1. melléklet 16. pontját a 476/2021. (VIII. 9.) Korm. rendelet 2. §-a iktatta be.
+[^102]: Az 1. melléklet 17. pontját a 476/2021. (VIII. 9.) Korm. rendelet 2. §-a iktatta be.

@@ -1,6 +1,6 @@
 ## 10. A műszaki-szakmai átadás-átvételi eljárás lefolytatásának szabályai
 
-18. §[^76] (1)[^77] A megrendelő szervnek az alkalmazás végső műszaki-szakmai átadás-átvételére irányuló eljárásba – függetlenül attól, hogy az alkalmazást az ÁAFK igénybevételével vagy azon kívül fejlesztik – a központi alkalmazás-szolgáltatót és a központi termék minőségbiztosítót be kell vonnia.
+18. §[^77] (1)[^78] A megrendelő szervnek az alkalmazás végső műszaki-szakmai átadás-átvételére irányuló eljárásba – függetlenül attól, hogy az alkalmazást az ÁAFK igénybevételével vagy azon kívül fejlesztik – a központi alkalmazás-szolgáltatót és a központi termék minőségbiztosítót be kell vonnia.
 
 (2) A megrendelő szerv az elkészült alkalmazás szakmai tartalmának és ágazati szakmapolitikai igényeknek való megfelelőségéről, az elkészült alkalmazásnak a 12/A. §-ban meghatározott szakmai szempontokkal való összeegyeztethetőségéről és a fejlesztéssel összefüggésben meghatározott szakmai követelményeknek való megfeleléséről megfelelőségi nyilatkozatot állít ki, amelyet – a végső műszaki-szakmai átadás-átvételre irányuló eljárásba történő bevonásra irányuló felhívással egyidejűleg – megküld a központi alkalmazás-szolgáltató részére.
 
@@ -40,11 +40,11 @@ f) a megrendelő szerv nem végzett teljesítményteszteket.
 
 (14) A Felügyeletnek a záró megfelelőségi nyilatkozat felülvizsgálatára irányuló eljárásában hiánypótlásra nincs lehetőség.
 
-(15)[^78] A Felügyelet a záró megfelelőségi nyilatkozat felülvizsgálatával kapcsolatos döntését a felülvizsgálatra irányuló kérelem kézhezvételétől számított 10 napon belül hozza meg, és arról haladéktalanul tájékoztatja a megrendelőt, a központi alkalmazás-szolgáltatót és a központi termék minőségbiztosítót.
+(15)[^79] A Felügyelet a záró megfelelőségi nyilatkozat felülvizsgálatával kapcsolatos döntését a felülvizsgálatra irányuló kérelem kézhezvételétől számított 10 napon belül hozza meg, és arról haladéktalanul tájékoztatja a megrendelőt, a központi alkalmazás-szolgáltatót és a központi termék minőségbiztosítót.
 
-(16)[^79] A kérelem elutasítása esetén a megrendelő szerv a döntés felülvizsgálatát kezdeményezheti a döntés kézhezvételét követő 5 munkanapon belül a miniszternél, aki a felülvizsgálatra irányuló kérelem Felügyelethez történő beérkezését követő 15 munkanapon belül hozza meg döntését.
+(16)[^80] A kérelem elutasítása esetén a megrendelő szerv a döntés felülvizsgálatát kezdeményezheti a döntés kézhezvételét követő 5 munkanapon belül a miniszternél, aki a felülvizsgálatra irányuló kérelem Felügyelethez történő beérkezését követő 15 munkanapon belül hozza meg döntését.
 
-[^76]: A 18. § a 476/2021. (VIII. 9.) Korm. rendelet 1. § (25) bekezdésével megállapított szöveg.
-[^77]: A 18. § (1) bekezdése a 618/2022. (XII. 29.) Korm. rendelet 21. § f) pontja szerint módosított szöveg.
-[^78]: A 18. § (15) bekezdése a 618/2022. (XII. 29.) Korm. rendelet 21. § n) pontja szerint módosított szöveg.
-[^79]: A 18. § (16) bekezdése a 618/2022. (XII. 29.) Korm. rendelet 20. § (15) bekezdésével megállapított szöveg.
+[^77]: A 18. § a 476/2021. (VIII. 9.) Korm. rendelet 1. § (25) bekezdésével megállapított szöveg.
+[^78]: A 18. § (1) bekezdése a 618/2022. (XII. 29.) Korm. rendelet 21. § f) pontja szerint módosított szöveg.
+[^79]: A 18. § (15) bekezdése a 618/2022. (XII. 29.) Korm. rendelet 21. § n) pontja szerint módosított szöveg.
+[^80]: A 18. § (16) bekezdése a 618/2022. (XII. 29.) Korm. rendelet 20. § (15) bekezdésével megállapított szöveg.

@@ -1,6 +1,6 @@
 ## 8. Az alkalmazásfejlesztések megindításának kezdeményezése
 
-16. §[^69] (1) A megrendelő szerv az általa igényelt alkalmazásfejlesztés megindítását az Állami Alkalmazás-fejlesztési Környezet ügyintézési felületen történő kérelem benyújtásával kezdeményezi.
+16. §[^70] (1) A megrendelő szerv az általa igényelt alkalmazásfejlesztés megindítását az Állami Alkalmazás-fejlesztési Környezet ügyintézési felületen történő kérelem benyújtásával kezdeményezi.
 
 (2) Az (1) bekezdés szerint benyújtott kérelemnek tartalmaznia kell:
 
@@ -66,4 +66,4 @@ b) új eljárást kezdeményezhet, vagy
 
 c) ha a támogató tanúsítvány kiállításának megtagadásával nem ért egyet, a megtagadás felülvizsgálatát kérheti a minisztertől, a megtagadásról szóló értesítés kézhezvételétől számított 5 munkanapon belül.
 
-[^69]: A 16. § a 618/2022. (XII. 29.) Korm. rendelet 20. § (14) bekezdésével megállapított szöveg.
+[^70]: A 16. § a 618/2022. (XII. 29.) Korm. rendelet 20. § (14) bekezdésével megállapított szöveg.
