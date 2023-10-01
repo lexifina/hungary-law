@@ -12,4 +12,4 @@
 
 a) a közjegyző szolgálati viszonya megszűnik, vagy a közjegyzőhelyettest törölték a névjegyzékből,
 
-b) a közjegyzőhelyettes olyan közjegyzővel létesít munkaviszonyt, aki nem rendelkezik az adott nyelvre nyelvi jogosítvánnyal.
+b) a közjegyzőhelyettesnek nem áll fenn olyan munkaviszonya, amely esetében a közjegyző rendelkezik az adott nyelvre nyelvi jogosítvánnyal.

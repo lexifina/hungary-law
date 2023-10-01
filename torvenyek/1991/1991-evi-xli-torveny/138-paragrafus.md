@@ -1,4 +1,4 @@
-138. § (1) Az a közjegyző, aki idegen nyelven okirat készítésére jogosult, ezen a nyelven a közjegyzői hatáskörbe tartozó ügyekben keletkezett közokiratról és annak mellékleteiről hiteles fordítást készíthet, vagy a fordítás helyességét tanúsíthatja.
+138. § (1) Az a közjegyző, aki idegen nyelven okirat készítésére jogosult, erről az idegen nyelvről magyar nyelvre, valamint magyar nyelvről erre az idegen nyelvre a közjegyzői hatáskörbe tartozó ügyekben keletkezett közokiratról és annak mellékleteiről hiteles fordítást készíthet, vagy a fordítás helyességét tanúsíthatja.
 
 (2) A fordítást az eredeti okiratra kell írni, vagy hozzá kell fűzni.
 

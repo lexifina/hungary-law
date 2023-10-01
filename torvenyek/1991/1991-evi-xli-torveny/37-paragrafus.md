@@ -4,7 +4,7 @@
 
 (3) A helyettesnek rendelkezési joga van a helyettesített közjegyző bizalmi őrzéses számlái felett.
 
-(4) Ha a helyettes olyan közjegyző, aki a helyettesített közjegyzővel azonos székhelyen működik, a helyettes közjegyző a helyettesítés során a saját székhelyén is, illetve a saját irodája útján is eljárhat. Ha a helyettes közjegyző illetékességi területe a helyettesített közjegyző illetékességi területével határos, saját székhelyén, illetve saját irodája útján csak indokolt esetben járhat el.
+(4) Ha a helyettes olyan közjegyző, aki a helyettesített közjegyzővel azonos székhelyen működik, a helyettes közjegyző a helyettesítés során a saját székhelyén is, illetve a saját irodája útján is eljárhat. Ha a helyettes közjegyző illetékességi területe a helyettesített közjegyző illetékességi területével határos, saját székhelyén, illetve saját irodája útján akkor járhat el, ha arra a területi kamara elnöksége a helyettesítésről szóló megállapodást jóváhagyó vagy ennek hiányában a kirendelésről szóló határozatában feljogosította.
 
 (5) A közjegyzőhelyettes és a közjegyzői tevékenységét a szolgálata megszűnéséig egyénileg folytató nyugalmazott közjegyző a helyettesítési tevékenységet egyénileg is folytathatja. Ebben az esetben a közjegyzőjelölt, a közjegyzőhelyettes és a közjegyzői irodai ügyintéző a helyettesítési tevékenységet egyénileg folytatóval áll munkaviszonyban.
 

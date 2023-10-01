@@ -10,7 +10,7 @@
 
 (5) A közjegyzői szolgáltatások zavartalanságának és megfelelő színvonalának biztosítása érdekében a miniszter a Magyar Országos Közjegyzői Kamara és az Országos Bírósági Hivatal elnöke véleményének beszerzését követően évente felülvizsgálja a közjegyzői állások számát és székhelyét.
 
-(6) Az e törvényben szabályozott eljárásokban az a közjegyző jár el, akihez a fél a kérelmét előterjeszti.
+(6) Az e törvényben szabályozott eljárásokban az a közjegyző jár el, akihez a fél a kérelmét előterjeszti. Ha a fél a kérelmét az eljárás folyamatban léte alatt több közjegyzőhöz is előterjeszti, az a közjegyző jár el, akinél az eljárás előbb indult meg.
 
 (7) Ha az eljárás lefolytatására illetékes közjegyző az eljárás lefolytatásában akadályoztatva van, köteles ezt – az akadályoztatás okának megjelölésével – a székhelye szerinti területi közjegyzői kamara elnökének írásban haladéktalanul bejelenteni. Ha a bejelentés alapos, a területi közjegyzői kamara elnöke a területi közjegyzői kamara területén székhellyel rendelkező közjegyzők közül kijelöli az eljárás lefolytatásában akadályoztatott közjegyző helyett az eljárást lefolytató közjegyzőt. Ha a területi közjegyzői kamara elnöke a bejelentést alaptalannak ítéli, erről a bejelentést tevő közjegyzőt értesíti. A területi közjegyzői kamara elnökének döntése ellen jogorvoslatnak nincs helye.
 

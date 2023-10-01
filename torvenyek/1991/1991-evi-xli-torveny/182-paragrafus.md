@@ -33,3 +33,5 @@
 (17) A tevékenységét 2022. december 31-én egyénileg folytató közjegyző a közjegyzői iroda megalapítására nem köteles és a tevékenységét e törvény 2021. december 31-én hatályos rendelkezései szerint tovább folytathatja egyénileg, ha a társadalombiztosítási nyugellátásról szóló törvényben meghatározott öregségi nyugdíjra jogosító legmagasabb öregségi nyugdíjkorhatár, de legalább a 65. életév közjegyző általi betöltéséig kevesebb, mint 5 év van hátra.
 
 (18) Ha a közjegyző a (17) bekezdés alapján egyénileg folytatja a tevékenységét, a közjegyzőjelölt, a közjegyzőhelyettes és a közjegyzői irodai ügyintéző a közjegyzővel áll munkaviszonyban. Ebben az esetben a 26. § (1) bekezdés d) pontjának, a 27. §-nak és a 27/B. § d) pontjának alkalmazása szempontjából a közjegyzői irodán a közjegyzőt kell érteni.
+
+(19) E törvénynek az igazságügyi tárgyú törvények módosításáról szóló 2023. évi XXXI. törvénnyel módosított 142. § (2) bekezdését az e rendelkezés módosításának hatálybalépését követően indult, a 142. § szerinti nyilatkozat vagy értesítés közlésének tanúsítása iránti eljárásokra kell alkalmazni.

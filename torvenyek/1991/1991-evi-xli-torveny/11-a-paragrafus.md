@@ -18,7 +18,7 @@ g) tartós vagy állandó helyettes kirendelése és a kirendelés visszavonása
 
 (a továbbiakban együtt: kamarai hatósági eljárás).
 
-(2)
+(2) A területi közjegyzői kamara hatósági eljárásában hozott határozat ellen fellebbezésnek van helye. Nincs helye fellebbezésnek a kérelemnek teljes egészében helyt adó elsőfokú döntés ellen, ha az ügyben nincs ellenérdekű ügyfél.
 
 (3) A kamarai hatósági eljárás lefolytatása iránti kérelmet csak a területi kamaránál, szóbeli kérelmet pedig csak személyesen lehet előterjeszteni.
 

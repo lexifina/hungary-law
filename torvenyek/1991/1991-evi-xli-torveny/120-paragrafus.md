@@ -2,15 +2,15 @@
 
 120. § (1) A közjegyzői okirat elkészítése alkalmával a közjegyző kötelessége, hogy
 
-a) meggyőződjék a fél ügyleti képességéről és jogosultságáról, továbbá valódi szándékáról,
+a) meggyőződjék a fél ügyleti képességéről és jogosultságáról, továbbá ügyleti szándékáról,
 
-b) tájékoztassa a felet a jogügylet lényegéről és jogi következményeiről,
+b) jogi tájékoztatást nyújtson a fél számára a jogügylet lényegéről és jogi következményeiről,
 
 c) világosan és egyértelműen írásba foglalja a fél nyilatkozatait,
 
 d) felolvassa a közjegyzői okiratot – a képlet, ábra, rajz, kép kivételével – a fél, képviselő útján történő eljárás esetén a képviselő előtt, valamint a felolvasás kezdő és befejező időpontját az okiratban óra, perc pontossággal rögzítse; a közjegyzői tanúsítványt csak akkor kell felolvasni, ha e törvény kifejezetten így rendelkezik,
 
-e) meggyőződjék arról, hogy a közjegyzői okiratban foglaltak megfelelnek a fél akaratának,
+e) a fél nyilatkozata alapján meggyőződjék arról, hogy a közjegyzői okiratban foglaltak megfelelnek a fél ügyleti akaratának,
 
 f) előzetesen tájékoztassa a személyazonosság ellenőrzésével érintett személyt az ellenőrzés céljáról, módjáról és tartalmáról, a közjegyzői közreműködés megtagadásának kötelezettségéről és a 122. § (8) bekezdésében megjelölt bejelentési kötelezettségéről, valamint az ellenőrzés során megismert adatok kezeléséről,
 

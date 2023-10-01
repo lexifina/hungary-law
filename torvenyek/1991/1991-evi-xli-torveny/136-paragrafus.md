@@ -22,7 +22,21 @@ i) közhitelességű nyilvántartás tartalmáról,
 
 j) a külföldi eljárás céljára tett peren kívüli eskü vagy fogadalom tételéről.
 
-(2) A tanúsítvány kiállítása esetén a törvénynek a közjegyzői okiratokra vonatkozó általános szabályait kell megfelelően alkalmazni azzal, hogy a közjegyző felelőssége a tanúsítvány mint közokirat alakiságának megtartásáért és a tanúsítvány tartalmi valódiságáért áll fenn. A közjegyző a tanúsítvány készítésénél nem köteles segédszemélyeket igénybe venni.
+k) személy életben létéről,
+
+l) a képviseleti jogról.
+
+(2) A tanúsítvány kiállítása esetén a törvénynek a közjegyzői okiratokra vonatkozó általános szabályait kell megfelelően alkalmazni azzal, hogy
+
+a) a közjegyző az okirat, a fordítás, a nyilatkozat vagy értesítés, a tanácskozás, a határozat, a váltó, a csekk, más értékpapír, a közhitelességű nyilvántartás tartalma, tanúsított képviseleti jog, egyéb jogi jelentőségű tény, illetve a 144. § (1) bekezdésében meghatározott egyéb tények és körülmények, a peren kívüli eskü vagy fogadalom jogszerűségét, érvényességét nem vizsgálja,
+
+b) a közjegyző felelőssége kizárólag a tanúsítvány mint közokirat alakiságának megtartásáért és a tanúsítvány tartalmi valódiságáért áll fenn,
+
+c) a 120. § (1) bekezdés a), b) és e) pontját nem kell alkalmazni,
+
+d) a közjegyző a tanúsítvány készítésénél nem köteles segédszemélyeket igénybe venni,
+
+e) a fél képviselőjének képviseleti jogosultságáról a közjegyzőnek csak akkor kell meggyőződnie, ha a félnek a tanúsítványt jogszabály rendelkezése szerint alá kell írnia.
 
 (2a) A félnek, képviselő útján történő eljárás esetén a képviselőnek a tanúsítványt – ha jogszabály eltérően nem rendelkezik – nem kell aláírnia.
 

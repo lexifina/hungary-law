@@ -86,7 +86,7 @@ h) a közjegyzői iroda E-ügyintézési tv. szerinti hivatalos elérhetősége.
 
 (6) A területi elnökség a közjegyzőjelöltet, illetve a közjegyzőhelyettest törli a kamarai névjegyzékből, ha
 
-a) a közjegyzőnél fennálló munkaviszonya megszűnt,
+a) a közjegyzői irodával fennálló munkaviszonya megszűnt,
 
 b) a 17. § (1) bekezdés a) vagy b) pontjában foglalt feltételeknek már nem felel meg,
 
@@ -106,7 +106,7 @@ i) cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal h
 
 (6a) A területi elnökség a közjegyzői irodai ügyintézőt törli a közjegyzői irodai ügyintézők nyilvántartásából, ha
 
-a) a közjegyzőnél fennálló munkaviszonya megszűnt,
+a) a közjegyzői irodával fennálló munkaviszonya megszűnt,
 
 b) a 27/B. § b) pontja szerinti feltételnek már nem felel meg,
 
