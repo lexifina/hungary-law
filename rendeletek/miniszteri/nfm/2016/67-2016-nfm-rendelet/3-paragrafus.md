@@ -10,11 +10,11 @@ a)[^18] az 1. § szerinti földgázforrás tekintetében az 1. mellékletben sze
 
 b)[^19] a 2. § szerinti földgázforrás tekintetében a 2. mellékletben szereplő ár csökkentve az árképzési rendelet 3. § (1) bekezdés b), d), g) pontjaiban szereplő árelemekkel, valamint a szállítás és a tárolás mennyiségarányos költségeinek indokolt, fajlagos mértékével.
 
-(5)[^20] A 3. melléklet 6.7. alpontja szerinti tárolói fedezett mennyiséget és az arra jutó rárakódó költséget, illetve a fedezés eredményét az egyetemes szolgáltatót ellátó földgázkereskedő köteles számviteli nyilvántartásában mennyiségben és értékben elkülönítetten nyilvántartani, és a betárolási időszakot követő kitárolási időszakban az egyetemes szolgáltatási célú tárolói készletből elsődlegesen ezt a mennyiséget kitárolni.
+(5)[^20] A 9. melléklet szerinti dedikált tárolói, illetve a 3. melléklet 6.7. alpontja szerinti tárolói fedezett mennyiséget és az arra jutó rárakódó költséget, illetve a 9. melléklet szerinti dedikált tárolói forrás fedezés esetén annak eredményét az egyetemes szolgáltatót ellátó földgázkereskedő számviteli nyilvántartásában mennyiségben és értékben elkülönítetten tartja nyilván, és a betárolási időszakot követő kitárolási időszakban az egyetemes szolgáltatási célú tárolói készletből elsődlegesen a 9. melléklet szerinti dedikált tárolói, majd a 3. melléklet szerinti tárolói fedezett mennyiséget kitárolja.
 
 [^15]: A 3. § (1) bekezdése az 5/2022. (VI. 30.) TIM rendelet 2. § c) pontja, a 21/2022. (IX. 30.) TIM rendelet 1. § (7) bekezdés b) pontja szerint módosított szöveg.
 [^16]: A 3. § (2) bekezdése a 23/2017. (VI. 30.) NFM rendelet 4. § a) pontja, a 10/2022. (III. 31.) ITM rendelet 2. § c) pontja szerint módosított szöveg.
 [^17]: A 3. § (3) bekezdése a 10/2022. (III. 31.) ITM rendelet 2. § a) és c) pontja, a 15/2022. (VIII. 18.) TIM rendelet 4. § a) pontja, a 3/2023. (III. 31.) EM rendelet 7. §-a szerint módosított szöveg.
 [^18]: A 3. § (4) bekezdés a) pontja a 48/2021. (IX. 30.) ITM rendelet 3. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^19]: A 3. § (4) bekezdés b) pontja a 48/2021. (IX. 30.) ITM rendelet 3. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^20]: A 3. § (5) bekezdését a 10/2022. (III. 31.) ITM rendelet 1. § (1) bekezdése iktatta be, szövege a 21/2022. (IX. 30.) TIM rendelet 1. § (7) bekezdés c) pontja szerint módosított szöveg.
+[^20]: A 3. § (5) bekezdését a 10/2022. (III. 31.) ITM rendelet 1. § (1) bekezdése iktatta be, szövege a 19/2023. (IX. 29.) EM rendelet 1. §-ával megállapított szöveg.
