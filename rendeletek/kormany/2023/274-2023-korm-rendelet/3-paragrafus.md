@@ -1,8 +1,5 @@
-3. § (1)[^1]
+3. § (1) A forgalmazó a gumiabroncs-hulladékot a hulladékbirtokostól a forgalmazás helyén, illetve az arra kijelölt helyen nyitvatartási időben átveszi.
 
 (2) A forgalmazó a gumiabroncs-hulladék átvétele, gyűjtése érdekében szerződést köt a koncessziós társasággal.
 
-(3)[^2]
-
-[^1]: A 3. § (1) bekezdése a 6. § (2) bekezdés alapján 2023. október 1-jén lép hatályba.
-[^2]: A 3. § (3) bekezdése a 6. § (2) bekezdés alapján 2023. október 1-jén lép hatályba.
+(3) A forgalmazó nem kötheti a gumiabroncs-hulladék átvételét új termék vásárlásához.

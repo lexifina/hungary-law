@@ -1,3 +1,1 @@
-4. §[^3]
-
-[^3]: A 4. § a 6. § (2) bekezdés alapján 2023. október 1-jén lép hatályba.
+4. § A hulladékbirtokos a nála keletkezett gumiabroncs-hulladékot elkülönítetten gyűjti, és gondoskodik a koncessziós társaságnak, a koncesszori alvállalkozónak vagy a forgalmazónak történő átadásáról.
