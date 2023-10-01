@@ -18,6 +18,4 @@
 
 ## i2,t = az 1. § (3) bekezdése szerinti kamatláb a teljesítési tárgyidőszak j. napján.
 
-3. §[^2]
-
-[^2]: A 3. § a 4. § (2) bekezdés alapján 2023. október 1-jén lép hatályba.
+3. § A Tartalékrendelet 5. § (1) bekezdése szerinti eszközöknek a kötelező tartalékba beszámítható − a Tartalékrendelet szerinti levelező tartalékköteles hitelintézet esetén a Tartalékrendelet szerinti levelezett tartalékköteles hitelintézet kötelező tartalékával növelt –, a kötelező tartalék összegén felüli részére (túltartalékolás) az MNB a jegybanki alapkamatnak megfelelő mértékű kamatot fizet.
