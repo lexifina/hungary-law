@@ -1,5 +1,5 @@
-## Képzési, továbbképzési kötelezettség
+## Képzési, továbbképzési és beszámolási kötelezettség
 
-241/A. § (1) A végrehajtó, a végrehajtó-helyettes és a végrehajtójelölt köteles a jogszabályban meghatározott szervezet képzésein és továbbképzésein részt venni.
+241/A. § (1) A végrehajtójelölt köteles az igazságügyért felelős miniszter rendeletében meghatározott szervezet képzésein és továbbképzésein részt venni.
 
-(2) A végrehajtó köteles az alkalmazásában álló végrehajtó-helyettes és végrehajtójelölt részére a képzésen történő részvétel lehetőségét biztosítani, ennek érdekében a képzés idejére őt a munkavégzés alól mentesíteni.
+(2) A végrehajtó köteles az alkalmazásában álló végrehajtójelölt részére az (1) bekezdés szerinti képzésen történő részvétel lehetőségét biztosítani, ennek érdekében a képzés idejére őt a munkavégzés alól mentesíteni.

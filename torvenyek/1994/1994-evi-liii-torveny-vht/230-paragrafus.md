@@ -18,10 +18,12 @@ d) a megfizetendő pénzösszeg mértéke.
 
 (2) Az önálló bírósági végrehajtó eljárásának törvényességével kapcsolatban a végrehajtó székhelye szerinti törvényszék elnöke fegyelmi eljárást kezdeményezhet, és a végrehajtó tevékenységének vizsgálatát kezdeményezheti.
 
-(3) Az önálló bírósági végrehajtók ügyvitelének, hivatali működésének és magatartásának rendszeres ellenőrzése a Kar hivatali szervének feladata.
+(3) Az önálló bírósági végrehajtók ügyvitelének, hivatali működésének és magatartásának rendszeres ellenőrzése – a (7) bekezdésben foglaltak kivételével – a Kar hivatali szervének feladata.
 
 (4) A Kar hivatali szerve a végrehajtó működésének ellenőrzését a Hatóság elnökének rendeletében meghatározott eljárás lefolytatásával végzi, ennek keretében a Hatóság elnökének rendeletében meghatározott időszakonként minden végrehajtó tevékenységének vizsgálatát el kell végezni.
 
 (5)
 
 (6) A végrehajtói tevékenység vizsgálatának és ellenőrzésének eredményéről a Hatóság elnökét soron kívül, de legkésőbb az ellenőrzési jelentés keltétől számított 45 napon belül tájékoztatni kell.
+
+(7) A 242. § szerinti szakmai beszámoló készítési kötelezettség teljesítését a Hatóság ellenőrzi.

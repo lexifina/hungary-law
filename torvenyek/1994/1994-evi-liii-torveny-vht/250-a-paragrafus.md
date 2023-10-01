@@ -48,9 +48,11 @@
 
 23. a végrehajtó hivatali elektronikus aláírás-tanúsítványa érvényességének kezdete és lejárta.
 
+24. a 241/B. § szerinti kötelező szakmai továbbképzési kötelezettség teljesítéséről szóló tanúsítvány száma.
+
 (3) A végrehajtó-helyettesek névjegyzéke a következő adatokat tartalmazza:
 
-a) a (2) bekezdés 1., 3–5. és 18–19. pontjában foglalt adatok és a végrehajtó-helyettes azonosító száma,
+a) a (2) bekezdés 1., 3–5., 18–19. és 24. pontjában foglalt adatok és a végrehajtó-helyettes azonosító száma,
 
 b) a névjegyzékbe vétel és az abból történő törlés időpontja,
 
