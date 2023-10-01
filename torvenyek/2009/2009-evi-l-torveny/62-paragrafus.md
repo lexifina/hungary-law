@@ -1,3 +1,3 @@
 ## Módosuló jogszabályok
 
-62–74. §
+### 62. §

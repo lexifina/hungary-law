@@ -26,17 +26,17 @@ k) a jogi képviselő által benyújtott kérelem nem tartalmazza az e törvény
 
 l) a jogi személy és az E-ügyintézési törvény alapján elektronikus ügyintézésre kötelezett egyéb személy a kérelmét nem elektronikus úton terjesztette elő, és a 10. § (3) bekezdésében meghatározott eset sem áll fenn; kivéve, ha a jogi képviselővel rendelkező természetes személy fél költségkedvezmény iránti kérelmet terjesztett elő (50. §);
 
-m) a jogosult a hiánypótlási felhívást követően a kitűzött határidő alatt a kérelmet (annak a szükséges részét) nem vagy ismételten hiányosan nyújtotta be, és emiatt a kérelem nem bírálható el, vagy a jogosult nem előlegezte meg az ügygondnoki díjat [17. § (4) bekezdés]; vagy
+m) a jogosult a hiánypótlási felhívást követően a kitűzött határidő alatt a kérelmet (annak a szükséges részét) nem vagy ismételten hiányosan nyújtotta be, és emiatt a kérelem nem bírálható el, vagy a jogosult nem előlegezte meg az ügygondnoki díjat; vagy
 
 n) a jogosult eljárási költségként anyagi jogi követelést érvényesít.
 
-(2) Ha a meghagyást a kötelezettnek – ide nem értve a kézbesítési fikció eseteit – nem lehet kézbesíteni, erről a jogosultat értesíteni kell, és egyidejűleg fel kell hívni, hogy a kötelezett új belföldi idézési címét harminc napon belül jelentse be.
+(2) Ha a meghagyást a kötelezettnek – ide nem értve a kézbesítési fikció eseteit – nem lehet kézbesíteni, erről a jogosultat értesíteni kell, és egyidejűleg fel kell hívni, hogy a kötelezett új belföldi kézbesítési címét harminc napon belül jelentse be.
 
 (3) Ha a jogosult az adatokat bejelenti, a kézbesítést ismételten meg kell kísérelni, és ha az ismét sikertelen, a kérelmet az (1) bekezdés h) pontja alapján vissza kell utasítani.
 
 (4) Ha az adatokat a jogosult nem, vagy hiányosan jelenti be, a kérelmet az (1) bekezdés m) pontja alapján kell visszautasítani.
 
-(5) A fizetési meghagyás iránti kérelem visszautasítására a Pp. 176. §-ának (4) bekezdését megfelelően alkalmazni kell.
+(5) A fizetési meghagyás iránti kérelem visszautasítására a Pp. 176. §-ának (3) és (4) bekezdését megfelelően alkalmazni kell.
 
 (6) A fizetési meghagyás iránti kérelem visszautasítása esetén a már kibocsátott fizetési meghagyás hatályát veszti.
 

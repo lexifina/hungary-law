@@ -1,6 +1,10 @@
 ## Egyéb perorvoslatok
 
-39. § (1) A fizetési meghagyásos eljárásban hozott azon végzések ellen, amelyek ellen e törvény vagy a Pp. a fellebbezést megengedi, fellebbezésnek van helye.
+39. § (1) A fizetési meghagyásos eljárásban hozott végzés ellen fellebbezésnek van helye, ha a fellebbezést
+
+a) e törvény megengedi, vagy
+
+b) a Pp. megengedi és e törvény nem zárja ki.
 
 (2) Ha a fellebbezéshez a fél mellékletet csatol, azt kizárólag papír alapon az ügyben eljáró közjegyzőnél nyújthatja be.
 

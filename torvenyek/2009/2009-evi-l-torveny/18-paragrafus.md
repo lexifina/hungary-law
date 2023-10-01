@@ -13,3 +13,5 @@
 (7) Az eljárásban a Pp. jegyzőkönyvre vonatkozó rendelkezéseit kell alkalmazni azzal, hogy a jegyzőkönyvet a közjegyző maga is felveheti, és a jegyzőkönyv folyamatos felvétel útján történő készítésének nincs helye.
 
 (8) Az eljárásban a jogi képviselet nem kötelező. Ha a fizetési meghagyásos eljárás során a fél jogi képviselővel jár el, az a Pp. 244. §-ának alkalmazása szempontjából nem minősül a jogi képviselővel történő eljárás választásának.
+
+(9) A közjegyző által elektronikus úton meghozott határozaton a keltezés helyeként a közjegyző székhelyét kell feltüntetni.

@@ -2,7 +2,7 @@
 
 a) az eljáró közjegyző nevét és székhelyét, valamint az ügyszámot;
 
-b) a 20. § (1) bekezdés a)–f) pontjában és (4)–(7) bekezdésében meghatározott adatokat;
+b) a 20. § (1) bekezdés a)–g) pontjában, és ha a jogosult megjelölte, a (4)–(7) bekezdésében meghatározott adatokat;
 
 c) azt a meghagyást, hogy a kötelezett a követelésnek a meghagyás kézbesítésétől számított tizenöt nap alatt tegyen eleget, és az összegszerűen meghatározott eljárási költségeket is fizesse meg;
 

@@ -16,7 +16,7 @@ b) nem az ellentmondás előterjesztésére jogosulttól származik,
 
 c) a jogi személy és az E-ügyintézési törvény alapján elektronikus ügyintézésre kötelezett egyéb személy azt nem elektronikus úton terjesztette elő, és a 10. § (3) bekezdésében meghatározott eset sem áll fenn, vagy
 
-d) a 32. § (2) bekezdésben vagy az 55. § (8) bekezdésben meghatározott ok áll fenn.
+d) a 32. § (2) bekezdésben meghatározott ok áll fenn.
 
 (6) Ha a jogi személy és az E-ügyintézési törvény alapján elektronikus ügyintézésre kötelezett egyéb személy ellentmondását nem elektronikus úton terjesztette elő, és a 10. § (3) bekezdésében meghatározott eset sem áll fenn, az ellentmondást hiánypótlási felhívás nélkül kell visszautasítani.
 

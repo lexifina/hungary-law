@@ -1,8 +1,8 @@
 20. § (1) A kérelemben fel kell tüntetni:
 
-a) a felek nevét, eljárásbeli állását, a jogosult Pp. szerinti azonosító adatait, a kötelezett ismert Pp. szerinti azonosító adatait, de legalább lakóhelyét vagy székhelyét, valamint perbeli cselekvőképessége hiányában törvényes képviselőjének a nevét és kézbesítési címét;
+a) a felek nevét, eljárásbeli állását, a jogosult Pp. szerinti azonosító adatait, a kötelezett ismert Pp. szerinti azonosító adatait, de legalább lakóhelyét vagy székhelyét, valamint perbeli cselekvőképessége hiányában vagy nem természetes személy kötelezett esetén törvényes képviselőjének a nevét és kézbesítési címét, továbbá – ha a kötelezett azzal rendelkezik – a kötelezett adószámát;
 
-b) meghatalmazottal történő eljárás esetén a jogosult képviselőjének a nevét, székhelyét, telefonszámát, elektronikus levélcímét;
+b) meghatalmazottal történő eljárás esetén a jogosult képviselőjének a nevét, kézbesítési címét, telefonszámát, elektronikus levélcímét;
 
 c) külföldi székhelyű vállalkozás esetén a 3. § (6) bekezdés szerinti képviselet nevét, székhelyét és azonosító adatait;
 
@@ -20,7 +20,7 @@ h) a fizetési meghagyás kibocsátására irányuló határozott kérelmet.
 
 (3)
 
-(4) A kérelemben röviden elő lehet adni az érvényesíteni kívánt jog alapjául szolgáló tényeket, és meg lehet jelölni azok bizonyítékait. A 285. § (1)–(3) bekezdésének alkalmazása esetén azonban a tanú személyi adatait külön lapon sem kell bejelenteni, ebben az esetben a tanú zártan kezelendő adatait a kérelem nem tartalmazza.
+(4) A kérelemben röviden elő lehet adni az érvényesíteni kívánt jog alapjául szolgáló tényeket, és meg lehet jelölni azok bizonyítékait. A Pp. 285. § (1)–(3) bekezdésének alkalmazása esetén azonban a tanú személyi adatait külön lapon sem kell bejelenteni, ebben az esetben a tanú zártan kezelendő adatait a kérelem nem tartalmazza.
 
 (5) A kérelemben megjelölhető perré alakulás esetére a perben illetékes bíróság azokkal az adatokkal együtt, amelyekből a bíróság hatásköre és illetékessége megállapítható.
 

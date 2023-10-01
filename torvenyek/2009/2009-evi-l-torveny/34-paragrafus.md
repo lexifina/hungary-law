@@ -2,7 +2,7 @@
 
 34. § (1) A közjegyző a meghagyásnak a kötelezett részére történő kézbesítése után, de annak jogerőre emelkedése, ellentmondás esetén pedig az ügynek a bírósághoz való megküldése előtt az eljárást megszünteti
 
-a) ha a kérelmet már a 24. § (1) bekezdésének a)–j) vagy m) pontja alapján vissza kellett volna utasítani;
+a) ha a kérelmet már a 24. § (1) bekezdésének a)–j) pontja alapján vissza kellett volna utasítani;
 
 b) ha a jogosult kérelmétől elállt;
 
@@ -16,11 +16,11 @@ f) a 30. § (2) bekezdésében meghatározott esetben;
 
 g) a 15. § (3) bekezdésének b) pontjában, a 17. § (4) bekezdésében, illetve a 18. § (2) bekezdésében meghatározott esetben.
 
-(2) A közjegyző az (1) bekezdés a) és d) pontja esetében az eljárást annak bármely szakában hivatalból megszüntetni köteles.
+(2) A közjegyző az (1) bekezdés a), d), f) és g) pontja esetében az eljárást annak bármely szakában hivatalból megszüntetni köteles.
 
 (3) A jogosult a kérelmétől a kötelezett hozzájárulása nélkül is elállhat, a kötelezett ebben az esetben költségekre nem tarthat igényt.
 
-(4) Az eljárás megszüntetésével a meghagyás hatályát veszti. Az eljárást megszüntető végzés ellen a jogosult fellebbezhet; fellebbezését a kötelezettnek észrevételezésre megküldeni nem kell.
+(4) Az eljárás megszüntetésével a meghagyás hatályát veszti.
 
 (5) Az eljárás megszüntetése esetén a jogosult a követelés érvényesítése végett választása szerint ismét fizetési meghagyás kibocsátása iránti kérelmet terjeszthet elő, vagy a bíróságnál keresetet indíthat, illetőleg követelését egyéb úton szabályszerűen érvényesítheti. Ebben az esetben a 3. § (2) bekezdésében meghatározott korlátozás nem alkalmazható.
 
