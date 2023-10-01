@@ -76,17 +76,17 @@ A nem a Kormány irányítása vagy felügyelete alatt álló központi költsé
 
 | 16. | IdomSoft Zrt. | Választási tájékoztató rendszer | alkalmazásüzemeltetési, alkalmazásüzemeltetés- támogatási és alkalmazásfejlesztési szolgáltatás | 9. § (1) bekezdése szerint |
 
-| 17. | KOPINT-DATORG Informatikai és Vagyonkezelő Kft. | Választási igazgatási és informatikai próbák szervezése és lebonyolítása | alkalmazásfejlesztés, alkalmazástámogatás | 9. § (1) bekezdése szerint |
+| 17. |  |  |  |  |
 
-| 18. | KOPINT-DATORG Informatikai és Vagyonkezelő Kft. | Választási rendszerek minőségbiztosítása | szolgáltatás nyújtása | 9. § (1) bekezdése szerint |
+| 18. | IdomSoft Zrt. | Választási rendszerek minőségbiztosítása (a választási rendszerek alkalmazásüzemeltetési, alkalmazásüzemeltetés-támogatási és alkalmazásfejlesztési tevékenységeitől elkülönítve végezve) | szolgáltatás nyújtása | 9. § (1) bekezdése szerint |
 
-| 19. | KOPINT-DATORG Informatikai és Vagyonkezelő Kft. | Magyarországi lakcímmel nem rendelkező választópolgárok papíralapú levélben benyújtott névjegyzéki kérelmét kezelő Nemzeti Regisztrációs Rendszer fejlesztése és üzemeltetése | alkalmazásüzemeltetési, alkalmazásüzemeltetés- támogatási és alkalmazásfejlesztési szolgáltatás | 9. § (1) bekezdése szerint |
+| 19. | IdomSoft Zrt. | Magyarországi lakcímmel nem rendelkező választópolgárok papíralapú levélben benyújtott névjegyzéki kérelmét kezelő Nemzeti Regisztrációs Rendszer fejlesztése és üzemeltetése | alkalmazásüzemeltetési, alkalmazásüzemeltetés- támogatási és alkalmazásfejlesztési szolgáltatás | 9. § (1) bekezdése szerint |
 
-| 20. | KOPINT-DATORG Informatikai és Vagyonkezelő Kft. | Választási iratok szkennelése, adatmonitoring-tevékenység és ezekhez kapcsolódó szolgáltatások | alkalmazásüzemeltetési, alkalmazásüzemeltetés- támogatási és alkalmazásfejlesztési szolgáltatás | 9. § (1) bekezdése szerint |
+| 20. | IdomSoft Zrt. | Ajánlóívek szkennelése és ezekhez kapcsolódó szolgáltatások | alkalmazásüzemeltetési, alkalmazásüzemeltetés- támogatási és alkalmazásfejlesztési szolgáltatás | 9. § (1) bekezdése szerint |
 
-| 21. | KOPINT-DATORG Informatikai és Vagyonkezelő Kft. | VIP adatállomány konzisztenciájának automatikus ellenőrzése | alkalmazásüzemeltetési, alkalmazásüzemeltetés- támogatási és alkalmazásfejlesztési szolgáltatás | 9. § (1) bekezdése szerint |
+| 21. | IdomSoft Zrt. | VIP adatállomány konzisztenciájának automatikus ellenőrzése | alkalmazásüzemeltetési, alkalmazásüzemeltetés- támogatási és alkalmazásfejlesztési szolgáltatás | 9. § (1) bekezdése szerint |
 
-| 22. | KOPINT-DATORG Informatikai és Vagyonkezelő Kft. | Választásnapi havária rendszer | alkalmazásüzemeltetési, alkalmazásüzemeltetés- támogatási és alkalmazásfejlesztési szolgáltatás | 9. § (1) bekezdése szerint |
+| 22. | IdomSoft Zrt. | Választásnapi havária rendszer | alkalmazásüzemeltetési, alkalmazásüzemeltetés- támogatási és alkalmazásfejlesztési szolgáltatás | 9. § (1) bekezdése szerint |
 
 | 23. | NISZ Zrt. | Adatátviteli szolgáltatás | Üzemeltetés | A BM rendeletben történő kijelölés hatálybalépésétől |
 
@@ -324,7 +324,7 @@ A nem a Kormány irányítása vagy felügyelete alatt álló központi költsé
 
 | 13. | IdomSoft Zrt. | NOVA.PRIO szakrendszer | alkalmazás üzemeltetés, alkalmazás-üzemeltetés támogatás és fejlesztés | 9. § (1) bekezdése szerint |
 
-| 14. | Kopint-Datorg Informatikai és Vagyonkezelő Kft. | iFORM űrlapok OBH általi szerkesztéséhez alkalmazás-üzemeltetés támogatás keretében nyújtott szakértői támogatás, tanácsadás | alkalmazás-üzemeltetés támogatás | 7/2022. (IV. 14.) BM rendelet hatálybalépésének napja |
+| 14. | IdomSoft Zrt. | iFORM űrlapok OBH általi szerkesztéséhez alkalmazás-üzemeltetés támogatás keretében nyújtott szakértői támogatás, tanácsadás | alkalmazás-üzemeltetés támogatás | 7/2022. (IV. 14.) BM rendelet hatálybalépésének napja |
 
 13. Az Integritás Hatóság részére nyújtott közszolgáltatások
 
@@ -366,4 +366,4 @@ A nem a Kormány irányítása vagy felügyelete alatt álló központi költsé
 
 | 17. | NISZ Zrt. | NTG-webtárhely-szolgáltatás – az Integritás Hatóság és a Korrupcióellenes Munkacsoport éles teszt weblapjaihoz | hálózati szolgáltatás (üzemeltetés és fejlesztés) | 9. § (1) bekezdése szerint |
 
-[^4]: Az 1. melléklet a 9/2021. (III. 30.) BM rendelet 2. §-a, a 12/2021. (V. 10.) BM rendelet 7. §-a, a 24/2021. (VII. 30.) BM rendelet 13. §-a, a 33/2021. (X. 1.) BM rendelet 2. §-a, a 7/2022. (IV. 14.) BM rendelet 2. §-a és 3. § b)–e) pontja, a 10/2022. (IV. 21.) BM rendelet 1. §-a, a 25/2023. (IX. 12.) MK rendelet 1. §-a és 2. § a)-b) pontja szerint módosított szöveg.
+[^4]: Az 1. melléklet a 9/2021. (III. 30.) BM rendelet 2. §-a, a 12/2021. (V. 10.) BM rendelet 7. §-a, a 24/2021. (VII. 30.) BM rendelet 13. §-a, a 33/2021. (X. 1.) BM rendelet 2. §-a, a 7/2022. (IV. 14.) BM rendelet 2. §-a és 3. § b)–e) pontja, a 10/2022. (IV. 21.) BM rendelet 1. §-a, a 25/2023. (IX. 12.) MK rendelet 1-3. §-a szerint módosított szöveg.
