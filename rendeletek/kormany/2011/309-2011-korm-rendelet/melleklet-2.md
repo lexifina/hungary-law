@@ -6,7 +6,7 @@
 
 ## 1.1. Asztali és hordozható munkaállomás biztosítása
 
-## 1.2.[^34] Alap irodai alkalmazások biztosítása, ideértve a levelezés és irodai munkához kapcsolódó dobozos alkalmazásokat, valamint a nyílt forráskódú szoftvereket is
+## 1.2.[^38] Alap irodai alkalmazások biztosítása, ideértve a levelezés és irodai munkához kapcsolódó dobozos alkalmazásokat, valamint a nyílt forráskódú szoftvereket is
 
 ## 1.3. Felhasználó – munkával kapcsolatos – anyagainak tárolásához központi tárterület biztosítása
 
@@ -48,7 +48,7 @@
 
 ## 2.9. Központi tárolóhely, nyomtatási várakozási sorok és központi levelezési szolgáltatások üzemeltetése
 
-## 2.10.[^35] Dobozos és egyedi fejlesztésű alkalmazásoknak a központi vagy egyedi szolgáltatási megállapodás szerint történő üzemeltetése.
+## 2.10.[^39] Dobozos és egyedi fejlesztésű alkalmazásoknak a központi vagy egyedi szolgáltatási megállapodás szerint történő üzemeltetése.
 
 ## 2.11. Egyéb alapvető informatikai és elektronikus hírközlő eszköz üzemeltetése, karbantartása
 
@@ -134,11 +134,11 @@
 
 ## 3. Egyedileg igényelt perifériákkal való ellátás (szkenner, nyomtató) raktári készletből
 
-## 4.[^36] A lakosság részére készített kormányzati tájékoztató levelekkel, kiadványokkal, illetve kérdőívekkel kapcsolatos adatfeldolgozói és adminisztrációs tevékenység, valamint a postai szolgáltatásokról szóló 2012. évi CLIX. törvény 2. § 35. pontja szerinti postai küldeménynek minősülő küldemények címzettek részére postai úton történő soron kívüli megküldésével kapcsolatos feladatok ellátása a Magyar Posta Zrt. bevonásával.
+## 4.[^40] A lakosság részére készített kormányzati tájékoztató levelekkel, kiadványokkal, illetve kérdőívekkel kapcsolatos adatfeldolgozói és adminisztrációs tevékenység, valamint a postai szolgáltatásokról szóló 2012. évi CLIX. törvény 2. § 35. pontja szerinti postai küldeménynek minősülő küldemények címzettek részére postai úton történő soron kívüli megküldésével kapcsolatos feladatok ellátása a Magyar Posta Zrt. bevonásával.
 
-## 5.[^37] A Nemzeti Konzultációk IT kiszolgáló rendszere
+## 5.[^41] A Nemzeti Konzultációk IT kiszolgáló rendszere
 
-2. melléklet a 309/2011. (XII. 23.) Korm. rendelethez[^38]
+2. melléklet a 309/2011. (XII. 23.) Korm. rendelethez[^42]
 
 A kötelezően biztosítandó központosított informatikai és elektronikus hírközlési szolgáltatásokat kötelezően igénybe vevő központi költségvetési szervek
 
@@ -160,27 +160,27 @@ A kötelezően biztosítandó központosított informatikai és elektronikus hí
 
 9. Pénzügyminisztérium
 
-10.[^39] Miniszterelnöki Kormányiroda, valamint az általa a működésében támogatott
+10.[^43] Miniszterelnöki Kormányiroda, valamint az általa a működésében támogatott
 
 a) Nemzeti Hírközlési és Informatikai Tanács
 
 11. Közbeszerzési és Ellátási Főigazgatóság
 
-12.[^40] Mádl Ferenc Összehasonlító Jogi Intézet
+12.[^44] Mádl Ferenc Összehasonlító Jogi Intézet
 
-13.[^41] Társadalmi Esélyteremtési Főigazgatóság
+13.[^45] Társadalmi Esélyteremtési Főigazgatóság
 
-14.[^42] Védelmi Igazgatási Hivatal
+14.[^46] Védelmi Igazgatási Hivatal
 
-15.[^43] Európai Uniós Ügyek Minisztériuma
+15.[^47] Európai Uniós Ügyek Minisztériuma
 
-[^34]: Az 1. melléklet A) rész 1. pont 1.2. alpontja a 717/2021. (XII. 20.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^35]: Az 1. melléklet 2.10. pontja a 300/2012. (X. 26.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^36]: Az 1. melléklet C) pont 4. alpontját a 16/2017. (I. 31.) Korm. rendelet 1. §-a iktatta be.
-[^37]: Az 1. melléklet C) pont 5. alpontját a 72/2023. (III. 10.) Korm. rendelet 1. § a) pontja iktatta be.
-[^38]: A 2. melléklet a 95/2018. (V. 22.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^39]: A 2. melléklet 10. pontja a 81/2019. (IV. 18.) Korm. rendelet 5. § a) pontjával megállapított szöveg.
-[^40]: A 2. melléklet 12. pontját a 95/2019. (IV. 25.) Korm. rendelet 7. §-a iktatta be.
-[^41]: A 2. melléklet 13. pontját a 262/2019. (XI. 14.) Korm. rendelet 1. §-a iktatta be.
-[^42]: A 2. melléklet 14. pontját a 337/2022. (IX. 7.) Korm. rendelet 7. §-a iktatta be.
-[^43]: A 2. melléklet 15. pontját a 314/2023. (VII. 17.) Korm. rendelet 10. §-a iktatta be.
+[^38]: Az 1. melléklet A) rész 1. pont 1.2. alpontja a 717/2021. (XII. 20.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^39]: Az 1. melléklet 2.10. pontja a 300/2012. (X. 26.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^40]: Az 1. melléklet C) pont 4. alpontját a 16/2017. (I. 31.) Korm. rendelet 1. §-a iktatta be.
+[^41]: Az 1. melléklet C) pont 5. alpontját a 72/2023. (III. 10.) Korm. rendelet 1. § a) pontja iktatta be.
+[^42]: A 2. melléklet a 95/2018. (V. 22.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^43]: A 2. melléklet 10. pontja a 81/2019. (IV. 18.) Korm. rendelet 5. § a) pontjával megállapított szöveg.
+[^44]: A 2. melléklet 12. pontját a 95/2019. (IV. 25.) Korm. rendelet 7. §-a iktatta be.
+[^45]: A 2. melléklet 13. pontját a 262/2019. (XI. 14.) Korm. rendelet 1. §-a iktatta be.
+[^46]: A 2. melléklet 14. pontját a 337/2022. (IX. 7.) Korm. rendelet 7. §-a iktatta be.
+[^47]: A 2. melléklet 15. pontját a 314/2023. (VII. 17.) Korm. rendelet 10. §-a iktatta be.

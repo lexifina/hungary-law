@@ -47,3 +47,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-309-20-
 | 2023-05-09 | 2011-309-20-22.39 | 163/2023. (V. 8.) Korm. rendelet |
 | 2023-08-01 | 2011-309-20-22.40 | 314/2023. (VII. 17.) Korm. rendelet |
 | 2023-08-08 | 2011-309-20-22.46 | 372/2023. (VIII. 7.) Korm. rendelet |
+| 2023-10-01 | 2011-309-20-22.41 | 338/2023. (VII. 25.) Korm. rendelet |
