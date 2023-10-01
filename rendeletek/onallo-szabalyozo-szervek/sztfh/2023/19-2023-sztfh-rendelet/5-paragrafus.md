@@ -1,0 +1,1 @@
+5. § A továbbképzésre kötelezett személy a továbbképzési napra, pótnapra vagy szakmai rendezvényre (a továbbiakban együtt: továbbképzési nap) történő jelentkezését a Jogakadémia képzésszervezést támogató informatikai rendszere útján nyújtja be.
