@@ -12,6 +12,6 @@ a szorzataként kell meghatározni.
 
 (3) A gáztechnikai normálállapotra történő térfogat-átszámításhoz használt nyomás- és hőmérsékletkorrekció szabályait az egyetemes szolgáltató az üzletszabályzatában közzéteszi.
 
-(4)[^5] Az elszámolás alapja a földgázszállító által a mérésügyi és műszaki biztonsági feladatkörében eljáró fővárosi és vármegyei kormányhivatala vagy a Magyar Kereskedelmi Engedélyezési Hivatal érvényes minősítésével rendelkező gázmérőn mért, naponkénti bontásban jegyzőkönyvben megadott, és ezen napi fűtőértékek alapján – az egyetemes szolgáltató által a mérési időszakra gázátadó állomásonként és településenként – alkalmazott átlagos fűtőérték, amit kéttizedes pontosságú MJ/m3 értékre kell kerekíteni.
+(4)[^6] Az elszámolás alapja a földgázszállító által a mérésügyi és műszaki biztonsági feladatkörében eljáró fővárosi és vármegyei kormányhivatala vagy a Magyar Kereskedelmi Engedélyezési Hivatal érvényes minősítésével rendelkező gázmérőn mért, naponkénti bontásban jegyzőkönyvben megadott, és ezen napi fűtőértékek alapján – az egyetemes szolgáltató által a mérési időszakra gázátadó állomásonként és településenként – alkalmazott átlagos fűtőérték, amit kéttizedes pontosságú MJ/m3 értékre kell kerekíteni.
 
-[^5]: A 4. § (4) bekezdése az 5/2022. (XII. 27.) EM rendelet 1. §-a szerint módosított szöveg.
+[^6]: A 4. § (4) bekezdése az 5/2022. (XII. 27.) EM rendelet 1. §-a szerint módosított szöveg.
