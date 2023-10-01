@@ -48,6 +48,8 @@ m) a külföldre történő kiszállítási céllal szabadforgalomba bocsátott 
 
 n) a külföldre történő kiszállítási céllal szabadforgalomba bocsátott hevített terméket.
 
+(1a) Az (1) bekezdéstől eltérően az importáló a zárjegy alkoholtermékre történő felhelyezését az állami adó- és vámhatóságnak tett bejelentést követően a telephelyén is végezheti.
+
 (2) A zárjegyet a Magyar Állam állíttatja elő és az állami adó- és vámhatóság bocsátja megrendelés alapján és
 
 a) elszámolási kötelezettség mellett,

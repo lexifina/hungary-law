@@ -12,13 +12,13 @@ d) másik tagállamban szabadforgalomba bocsátott jövedéki termék kereskedel
 
 e) bármilyen energiatermék üzemanyagkénti, üzemanyagok adalékakénti, hígítóanyagakénti vagy fűtőanyagkénti kínálásával, értékesítésével vagy felhasználásával, ha korábban nem keletkezett adófizetési kötelezettség az adott felhasználásra megállapított adómértékkel,
 
-f) ha az adóraktár engedélyese az 5 liternél vagy 5 kilogrammnál nagyobb kiszerelésű egyéb ellenőrzött ásványolajat vagy megfigyelt terméket nem másik adóraktár engedélyesének, felhasználói engedélyesnek, nyilvántartásba vett felhasználónak, másik tagállamba vagy harmadik országba értékesíti,
+f) ha az adóraktár engedélyese az 5 liternél vagy 5 kilogrammnál nagyobb kiszerelésű egyéb ellenőrzött ásványolajat vagy megfigyelt terméket nem másik adóraktár engedélyesének, felhasználói engedélyesnek, nyilvántartásba vett felhasználónak, másik tagállamba vagy harmadik országba értékesíti vagy szállítja,
 
-g) ha a bejegyzett kereskedő az 5 liternél vagy 5 kilogrammnál nagyobb kiszerelésű egyéb ellenőrzött ásványolajat nem felhasználói engedélyesnek vagy nyilvántartásba vett felhasználónak értékesíti, vagy másik tagállamból saját felhasználás céljára felhasználói engedély nélkül vagy nem nyilvántartásba vett felhasználóként hoz be,
+g) ha a bejegyzett kereskedő az 5 liternél vagy 5 kilogrammnál nagyobb kiszerelésű egyéb ellenőrzött ásványolajat nem felhasználói engedélyesnek vagy nyilvántartásba vett felhasználónak értékesíti vagy szállítja, vagy másik tagállamból saját felhasználás céljára felhasználói engedély nélkül vagy nem nyilvántartásba vett felhasználóként hoz be,
 
-h) ha az importáló az 5 liternél vagy 5 kilogrammnál nagyobb kiszerelésű egyéb ellenőrzött ásványolajat vagy megfigyelt terméket nem felhasználói engedélyesnek vagy nyilvántartásba vett felhasználónak értékesíti, vagy harmadik országból saját felhasználás céljára felhasználói engedély nélkül vagy nem nyilvántartásba vett felhasználóként hoz be,
+h) ha az importáló az 5 liternél vagy 5 kilogrammnál nagyobb kiszerelésű egyéb ellenőrzött ásványolajat vagy megfigyelt terméket nem felhasználói engedélyesnek vagy nyilvántartásba vett felhasználónak értékesíti vagy szállítja, vagy harmadik országból saját felhasználás céljára felhasználói engedély nélkül vagy nem nyilvántartásba vett felhasználóként hoz be,
 
-i) ha a felhasználói engedélyes az 5 liternél vagy 5 kilogrammnál nagyobb kiszerelésű egyéb ellenőrzött ásványolajat nem másik tagállamba vagy harmadik országba értékesíti, valamint a megfigyelt terméket nem felhasználói engedélyesnek, nyilvántartásba vett felhasználónak, másik tagállamba vagy harmadik országba értékesíti,
+i) ha a felhasználói engedélyes az 5 liternél vagy 5 kilogrammnál nagyobb kiszerelésű egyéb ellenőrzött ásványolajat nem másik tagállamba vagy harmadik országba értékesíti vagy szállítja, valamint a megfigyelt terméket nem felhasználói engedélyesnek, nyilvántartásba vett felhasználónak, másik tagállamba vagy harmadik országba értékesíti vagy szállítja,
 
 j) a felhasználói engedélyesnél, valamint egyéb ellenőrzött ásványolaj és megfigyelt termék vonatkozásában az adóraktár engedélyesnél a készletfelvétellel megállapított tényleges készlet és a nyilvántartás szerinti készlet különbözete szerinti hiányra, illetve
 

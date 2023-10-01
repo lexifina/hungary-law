@@ -28,6 +28,8 @@ c) a rendvédelmi feladatokat ellátó szervek és az Országos Mentőszolgálat
 
 járművei részére történő kiszolgálásához.
 
+(1b) Az adóraktár engedélyesének nem szükséges az (1) bekezdés szerinti engedéllyel rendelkeznie az általa belföldön szabadforgalomba bocsátott jövedéki terméknek az adóraktárába kereskedelmi céllal történő visszaszállításához, tárolásához, birtoklásához és továbbforgalmazásához.
+
 (2) A jövedéki engedélyes kereskedő jövedéki terméket belföldön csak adóraktár engedélyesétől (ideértve a megszűnt adóraktárt az engedély hatályvesztését követő 30 napig), termékét adóraktárban tároló személytől, felhasználói engedélyestől, kisüzemi bortermelőtől és jövedéki engedélyes kereskedőtől szerezhet be.
 
 (3) A jövedéki engedélyes kereskedő – a (2) bekezdéstől eltérően – a jövedéki kiskereskedő vagy végfelhasználó részére értékesített jövedéki termékeket vagy azok egy részét a jövedéki kiskereskedő vagy végfelhasználó kérésére visszavásárolhatja.
