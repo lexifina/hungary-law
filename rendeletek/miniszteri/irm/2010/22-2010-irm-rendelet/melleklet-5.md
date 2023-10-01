@@ -8,7 +8,7 @@ A fizetési meghagyás kibocsátása iránti kérelem papír alapú űrlapjának
 
 1.2. személyes költségfeljegyzési jog engedélyezése iránti kérelem előterjesztésére utalás
 
-1.3.[^37] okirati tanúk adatai, ha a Pp. 325. § (1) bekezdés b) pontja szerinti formában terjesztik elő a kérelmet
+1.3.[^44] okirati tanúk adatai, ha a Pp. 325. § (1) bekezdés b) pontja szerinti formában terjesztik elő a kérelmet
 
 1.3.1. neve
 
@@ -16,4 +16,4 @@ A fizetési meghagyás kibocsátása iránti kérelem papír alapú űrlapjának
 
 1.4. jogosult aláírásának helye.
 
-[^37]: Az 5. melléklet 1. pont 1.3. alpontja a 20/2017. (XII. 21.) IM rendelet 31. § (2) bekezdés f) pontja szerint módosított szöveg.
+[^44]: Az 5. melléklet 1. pont 1.3. alpontja a 20/2017. (XII. 21.) IM rendelet 31. § (2) bekezdés f) pontja szerint módosított szöveg.

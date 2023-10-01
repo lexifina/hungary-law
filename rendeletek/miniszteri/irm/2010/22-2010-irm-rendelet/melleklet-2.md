@@ -40,7 +40,7 @@ A biztosítási intézkedés elrendelése iránti kérelem elektronikus űrlapj�
 
 1.7. fizetési számlaszám, számlát vezető pénzforgalmi szolgáltató elnevezése
 
-1.8. adóazonosító jel
+1.8.[^26] adóazonosító jel, egyéni vállalkozó esetén adószám
 
 1.9. nem természetes személy adós esetén
 
@@ -96,6 +96,8 @@ A biztosítási intézkedés elrendelése iránti kérelem elektronikus űrlapj�
 
 2.4.10. elektronikus levelezési cím
 
+2.4.11.[^27] egyéni vállalkozó esetén adószám
+
 2.5. fizetési számlaszám, számlát vezető pénzforgalmi szolgáltató elnevezése
 
 2.6. nem természetes személy végrehajtást kérő esetén
@@ -110,7 +112,7 @@ A biztosítási intézkedés elrendelése iránti kérelem elektronikus űrlapj�
 
 2.7.1. név
 
-2.7.2.[^24] kézbesítési cím
+2.7.2.[^28] kézbesítési cím
 
 2.7.3. telefonszám
 
@@ -126,7 +128,7 @@ A biztosítási intézkedés elrendelése iránti kérelem elektronikus űrlapj�
 
 3. Biztosítási intézkedés elrendelése iránti határozott kérelem.
 
-4.[^25] A biztosítandó pénzköveteléssel kapcsolatos adatok
+4.[^29] A biztosítandó pénzköveteléssel kapcsolatos adatok
 
 4.1. a kibocsátott fizetési meghagyás ügyszáma és a bírósági végrehajtásról szóló 1994. évi LIII. törvény (Vht.) 189. §-a szerinti esetben a kibocsátott végrehajtási lap ügyszáma
 
@@ -184,5 +186,7 @@ A biztosítási intézkedés elrendelése iránti kérelem elektronikus űrlapj�
 
 7.5. arról szóló tájékoztatás, hogy a követelés későbbi kielégítésének veszélyeztetettségét valószínűsítő dokumentumok hiteles másolata – ha ilyen dokumentumok rendelkezésre állnak – papír alapon küldhető meg az eljáró közjegyzőnek.
 
-[^24]: A 2. melléklet 2. pont 2.7. pont 2.7.2. alpontja a 20/2017. (XII. 21.) IM rendelet 31. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^25]: A 2. melléklet 4. pontja a 20/2013. (VIII. 7.) KIM rendelet 5. § (6) bekezdésével megállapított szöveg.
+[^26]: A 2. melléklet 1.8. pontja a 13/2023. (IX. 21.) IM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^27]: A 2. melléklet 2.4.11. pontját a 13/2023. (IX. 21.) IM rendelet 9. § (2) bekezdése iktatta be.
+[^28]: A 2. melléklet 2. pont 2.7. pont 2.7.2. alpontja a 20/2017. (XII. 21.) IM rendelet 31. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^29]: A 2. melléklet 4. pontja a 20/2013. (VIII. 7.) KIM rendelet 5. § (6) bekezdésével megállapított szöveg.

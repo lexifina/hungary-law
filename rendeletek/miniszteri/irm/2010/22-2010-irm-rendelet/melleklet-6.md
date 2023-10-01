@@ -8,7 +8,7 @@ A biztosítási intézkedés elrendelése iránti kérelem papír alapú űrlapj
 
 1.2. személyes költségfeljegyzési jog engedélyezése iránti kérelem előterjesztésére utalás
 
-1.3.[^38] okirati tanúk adatai, ha a Pp. 325. § (1) bekezdés b) pontja szerinti formában terjesztik elő a kérelmet
+1.3.[^45] okirati tanúk adatai, ha a Pp. 325. § (1) bekezdés b) pontja szerinti formában terjesztik elő a kérelmet
 
 1.3.1. neve
 
@@ -16,4 +16,4 @@ A biztosítási intézkedés elrendelése iránti kérelem papír alapú űrlapj
 
 1.4. végrehajtást kérő aláírásának helye.
 
-[^38]: A 6. melléklet 1. pont 1.3. alpontja a 20/2017. (XII. 21.) IM rendelet 31. § (2) bekezdés f) pontja szerint módosított szöveg.
+[^45]: A 6. melléklet 1. pont 1.3. alpontja a 20/2017. (XII. 21.) IM rendelet 31. § (2) bekezdés f) pontja szerint módosított szöveg.
