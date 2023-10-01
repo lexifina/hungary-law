@@ -12,7 +12,7 @@ d) a pályázati eljárásban döntéshozóra,
 
 e) a pályázati eljárásokkal kapcsolatos adatok közzétételének helyéül szolgáló honlap üzemeltetőjére
 
-## terjed ki.
+terjed ki.
 
 (3)[^1] E rendelet alkalmazásában kiemelt adatszolgáltató
 
