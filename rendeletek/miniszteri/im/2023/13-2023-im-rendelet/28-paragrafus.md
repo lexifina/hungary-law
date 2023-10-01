@@ -1,6 +1,5 @@
-28. § (1)[^28]
+28. § (1) A Küsz. 20. § (1) bekezdés b) pontjában a „146–146/A. §-ai” szövegrész helyébe a „146–146/B. §-a, kivéve az a) pont hatálya alá tartozó jegyzőkönyvi ténytanúsítási eljárásokat” szöveg lép.
 
-(2)[^29]
+(2)[^26]
 
-[^28]: A 28. § (1) bekezdése a 30. § (2) bekezdés alapján 2023. október 1-jén lép hatályba.
-[^29]: A 28. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 28. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
