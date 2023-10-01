@@ -34,8 +34,12 @@ azzal, hogy két félszoba egy lakószobának felel meg;
 
 7. az állomány egyedülálló tagja: az állomány olyan tagja, aki nem él házastársi vagy élettársi kapcsolatban vagy saját háztartásában nem gondoskodik olyan gyermek eltartásáról, aki után családi pótlékban részesül;
 
-8. közeli hozzátartozó: a Polgári Törvénykönyvről szóló törvény szerinti közeli hozzátartozó, továbbá az élettárs, bejegyzett élettárs, valamint mindezek egyeneságbeli rokona.
+8.[^4] közeli hozzátartozó: a Polgári Törvénykönyvről szóló 2013. évi V. törvény 8:1. § (1) bekezdés 1. pontja szerinti közeli hozzátartozó, továbbá az élettárs;
+
+9.[^5] helyőrségi település: az a helység, amelyben katonai szervezet vagy annak szervezeti eleme működik.
 
 [^1]: Az 1. § 4. pontja a 16/2022. (XII. 22.) HM rendelet 9. §-a szerint módosított szöveg.
 [^2]: Az 1. § 5. pontja a 22/2018. (XII. 28.) HM rendelet 7. § a) pontja szerint módosított szöveg.
 [^3]: Az 1. § 6. pontja a 7/2022. (IV. 14.) HM rendelet 24. §-ával megállapított szöveg.
+[^4]: Az 1. § 8. pontja a 17/2023. (IX. 5.) HM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^5]: Az 1. § 9. pontját a 17/2023. (IX. 5.) HM rendelet 1. § (2) bekezdése iktatta be.

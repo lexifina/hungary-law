@@ -1,14 +1,14 @@
-5. § (1)[^39] A lakáspénz megállapítása iránti kérelmet az e célra rendszeresített igénylőlapon (a továbbiakban: igénylés) kell az R. 1. melléklete alapján a szolgálati hely szerint illetékes helyi lakásgazdálkodási szervhez benyújtani.
+5. § (1)[^41] A lakáspénz megállapítása iránti kérelmet az e célra rendszeresített igénylőlapon (a továbbiakban: igénylés) kell az R. 1. melléklete alapján a szolgálati hely szerint illetékes helyi lakásgazdálkodási szervhez benyújtani.
 
 (2) Az igényléshez csatolni kell:
 
 a) az igénylő teljes bizonyító erejű magánokiratba foglalt nyilatkozatát a lakáspénzre való jogosultságot kizáró, a 3. § (6) bekezdés 3–9. és 11–14. pontjában megjelölt okok vonatkozásában,
 
-b)[^40] az igénylő teljes bizonyító erejű magánokiratba foglalt nyilatkozatát arról, hogy a 6. § (1) bekezdés 1–6. és 9–11. pontjában megjelölt, a lakáspénzre való jogosultságot megszüntető okot a lakáspénz megállapítása során eljáró helyi lakásgazdálkodási szervnek és a folyósító pénzügyi szervnek a bekövetkezéstől számított 8 napon belül bejelenti, valamint a bejelentés elmulasztása esetén a jogosulatlanul felvett támogatást annak törvényes kamatával együtt a honvédelmi szervezet részére visszafizeti,
+b)[^42] az igénylő teljes bizonyító erejű magánokiratba foglalt nyilatkozatát arról, hogy a 6. § (1) bekezdés 1–6. és 9–11. pontjában megjelölt, a lakáspénzre való jogosultságot megszüntető okot a lakáspénz megállapítása során eljáró helyi lakásgazdálkodási szervnek és a folyósító pénzügyi szervnek a bekövetkezéstől számított 8 napon belül bejelenti, valamint a bejelentés elmulasztása esetén a jogosulatlanul felvett támogatást annak törvényes kamatával együtt a honvédelmi szervezet részére visszafizeti,
 
 c) a kinevezési, áthelyezési, vezénylési parancs másolatát,
 
-d)[^41] az élettársi kapcsolatot igazoló hatósági bizonyítványt vagy az élettársak közös lakhelyét is tartalmazó, a polgári perrendtartásról szóló törvény szerinti teljes bizonyító erejű magánokiratot,
+d)[^43] az élettársi kapcsolatot igazoló hatósági bizonyítványt vagy az élettársak közös lakhelyét is tartalmazó, a polgári perrendtartásról szóló törvény szerinti teljes bizonyító erejű magánokiratot,
 
 e) a házassági és az igénylő háztartásában eltartott gyermek születési anyakönyvi kivonatának másolatát,
 
@@ -18,19 +18,19 @@ g) a lakóingatlan bérleti vagy lízingszerződését,
 
 h) a bérleti vagy lízingdíjat tartalmazó számlát, számlakibocsátási kötelezettség hiányában az ügylet teljesítését igazoló, a számviteli törvény rendelkezései szerinti számviteli bizonylatnak minősülő okiratot,
 
-i) az igénylő és az igénylő házastársa, élettársa, saját háztartásában eltartott gyermeke lakcímet igazoló hatósági igazolványának másolatát,
+i)[^44] az életvitelszerű együttlakásról szóló nyilatkozatot, ha az igénylővel házastársa, élettársa vagy gyermeke együtt lakik;
 
-j)[^42] a lakáscélú támogatási szerv igazolását arról, hogy a 3. § (6) bekezdés 1–3. és 10. pontjában foglalt kizáró ok nem áll fent,
+j)[^45] a lakáscélú támogatási szerv igazolását arról, hogy a 3. § (6) bekezdés 1–3. és 10. pontjában foglalt kizáró ok nem áll fent,
 
-k)[^43] a 3. § (6) bekezdés 6. és 7. pontja szerinti esetben a lakásbérleti szerződés vagy a jogcím nélküli lakáshasználat megszüntetésére vonatkozó megállapodást.
+k)[^46] a 3. § (6) bekezdés 6. és 7. pontja szerinti esetben a lakásbérleti szerződés vagy a jogcím nélküli lakáshasználat megszüntetésére vonatkozó megállapodást.
 
-l)[^44]
+l)[^47]
 
 (3) A helyi lakásgazdálkodási szerv a benyújtástól számított 15 napon belül ellenőrzi az igénylést és
 
 a) a lakáspénzre való jogosultság hiányában az igénylést az állományilletékes katonai szervezet parancsnokának (a továbbiakban: állományilletékes parancsnok) egyidejű tájékoztatása mellett elutasítja,
 
-b) okirati hiányosság esetén az igénylőt 30 napos jogvesztő határidővel hiánypótlásra szólítja fel,
+b)[^48] okirati hiányosság esetén az igénylőt 2 hónapos jogvesztő határidővel hiánypótlásra szólítja fel,
 
 c) a lakáspénzre való jogosultság fennállása esetén az igénylést az általa kiállított igazolással együtt a támogatás folyósítása érdekében az állományilletékes parancsnoknak küldi meg.
 
@@ -42,9 +42,11 @@ c) a lakáspénzre való jogosultság fennállása esetén az igénylést az ál
 
 (7) A helyi lakásgazdálkodási szerv lakáspénzzel kapcsolatos érdemi döntése ellen panaszt az elbírálásra jogosult HM központi lakásgazdálkodási szervhez lehet írásban benyújtani.
 
-[^39]: Az 5. § (1) bekezdése a 22/2018. (XII. 28.) HM rendelet 6. § (10) bekezdésével megállapított, a 9/2021. (III. 2.) HM rendelet 35. § b) pontja szerint módosított szöveg.
-[^40]: Az 5. § (2) bekezdés b) pontja a 22/2018. (XII. 28.) HM rendelet 7. § d) pontja szerint módosított szöveg.
-[^41]: Az 5. § (2) bekezdés d) pontja a 22/2018. (XII. 28.) HM rendelet 6. § (11) bekezdésével megállapított szöveg.
-[^42]: Az 5. § (2) bekezdés j) pontja a 9/2021. (III. 2.) HM rendelet 34. § c) pontja szerint módosított szöveg.
-[^43]: Az 5. § (2) bekezdés k) pontja a 22/2018. (XII. 28.) HM rendelet 7. § g) pontja szerint módosított szöveg.
-[^44]: Az 5. § (2) bekezdés l) pontját a 22/2018. (XII. 28.) HM rendelet 8. §-a hatályon kívül helyezte.
+[^41]: Az 5. § (1) bekezdése a 22/2018. (XII. 28.) HM rendelet 6. § (10) bekezdésével megállapított, a 9/2021. (III. 2.) HM rendelet 35. § b) pontja szerint módosított szöveg.
+[^42]: Az 5. § (2) bekezdés b) pontja a 22/2018. (XII. 28.) HM rendelet 7. § d) pontja szerint módosított szöveg.
+[^43]: Az 5. § (2) bekezdés d) pontja a 22/2018. (XII. 28.) HM rendelet 6. § (11) bekezdésével megállapított szöveg.
+[^44]: Az 5. § (2) bekezdés i) pontja a 17/2023. (IX. 5.) HM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^45]: Az 5. § (2) bekezdés j) pontja a 9/2021. (III. 2.) HM rendelet 34. § c) pontja szerint módosított szöveg.
+[^46]: Az 5. § (2) bekezdés k) pontja a 22/2018. (XII. 28.) HM rendelet 7. § g) pontja szerint módosított szöveg.
+[^47]: Az 5. § (2) bekezdés l) pontját a 22/2018. (XII. 28.) HM rendelet 8. §-a hatályon kívül helyezte.
+[^48]: Az 5. § (3) bekezdés b) pontja a 17/2023. (IX. 5.) HM rendelet 3. § (2) bekezdésével megállapított szöveg.
