@@ -1,4 +1,4 @@
-4. melléklet a 29/2019. (XII. 20.) IM rendelethez[^63]
+4. melléklet a 29/2019. (XII. 20.) IM rendelethez[^65]
 
 Irattári Terv
 
@@ -398,4 +398,4 @@ Irattári Terv
 
 | IT-05 | A 4. alcsoportba tartozó záradéki ténytanúsítási eljárások fentieken kívüli nem érdemi iratai | S | 5 | --- |
 
-[^63]: A 4. melléklet az 1/2021. (III. 12.) IM rendelet 20. §-ával megállapított, a 13/2023. (IX. 21.) IM rendelet 27. §-a szerint módosított szöveg.
+[^65]: A 4. melléklet az 1/2021. (III. 12.) IM rendelet 20. §-ával megállapított, a 13/2023. (IX. 21.) IM rendelet 27. §-a szerint módosított szöveg.

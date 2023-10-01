@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-29-20-0
 | 2023-01-01 | 2019-29-20-06.4 | 38/2022. (XII. 27.) IM rendelet |
 | 2023-09-01 | 2019-29-20-06.5 | 12/2023. (VII. 31.) IM rendelet |
 | 2023-09-22 | 2019-29-20-06.6 | 13/2023. (IX. 21.) IM rendelet |
+| 2023-10-01 | 2019-29-20-06.7 | 13/2023. (IX. 21.) IM rendelet |

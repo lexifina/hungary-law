@@ -5,3 +5,7 @@
 (3) Az aláíró lapokat ügyszám szerinti sorrendben a tárgyévet követő év március hó 31-ig kell összefűzni.
 
 (4) A közjegyző az összefűzött űrlapokat az utolsó bejegyzés alatt hivatali aláírásával [Kjtv. 21/A. § (1) bekezdés] ellátva lezárja.
+
+(5)[^49] A Kjtv. 146/B. §-a szerinti eljárással kapcsolatos ügyet ugyanazon fél aláírása hitelesítésekor és a képviseleti jogosultságának egyidejű tanúsítása esetén azonos ügyszámon kell nyilvántartásba venni. Ha a fél a képviseleti jogának tanúsítását egyidejűleg több képviselt vonatkozásában kéri, ezeket külön ügyszám alatt kell nyilvántartásba venni. E rendelkezés nem érinti a 20. § (5) bekezdésében foglaltakat.
+
+[^49]: A 65. § (5) bekezdését a 13/2023. (IX. 21.) IM rendelet 24. §-a iktatta be.

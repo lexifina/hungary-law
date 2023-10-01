@@ -10,8 +10,8 @@
 
 (5) A felvilágosításra jogosult személynek a tárgyalás (meghallgatás) helyéről és időpontjáról, az iratok hollétéről, a jogorvoslati határidőről, arról, hogy az ügyben érkezett-e szakértői vélemény, továbbá terjesztettek-e elő jogorvoslati kérelmet, rövid úton is adható felvilágosítás, ha az ügy és a felvilágosítást kérő személy azonosításához szükséges adatokat közli.
 
-(6)[^8]
+(6)[^9]
 
 (7) A felvilágosítás során gondoskodni kell az iratok megőrzéséről, épségük védelméről.
 
-[^8]: A 28. § (6) bekezdését az 1/2021. (III. 12.) IM rendelet 22. § a) pontja hatályon kívül helyezte.
+[^9]: A 28. § (6) bekezdését az 1/2021. (III. 12.) IM rendelet 22. § a) pontja hatályon kívül helyezte.
