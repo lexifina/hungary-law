@@ -2,4 +2,4 @@
 
 Egyetemes szolgáltatói árrés mértéke
 
-[^25]: A 3. melléklet a 21/2022. (IX. 30.) TIM rendelet 2. § (6) bekezdésével megállapított szöveg.
+[^25]: A 3. melléklet a 19/2023. (IX. 29.) EM rendelet 6. § a) pontjával megállapított szöveg.
