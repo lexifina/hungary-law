@@ -1,6 +1,6 @@
 3. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-Melléklet a 38/2011. (III. 22.) Korm. rendelethez[^1]
+Melléklet a 38/2011. (III. 22.) Korm. rendelethez[^2]
 
 A nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozói
 
@@ -72,6 +72,6 @@ A nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozó
 
 | 33. | A Nemzeti Választási Iroda adatkezelésében lévő, a választási eljárásról szóló 2013. évi XXXVI. törvény 76. § (3) bekezdésében meghatározott választási nyilvántartásokat kezelő informatikai rendszer | IdomSoft Informatikai Zártkörűen Működő Részvénytársaság | elektronikus adatfeldolgozás | az adatkezelő döntésétől függő |
 
-| 34. | A magyarországi lakcímmel nem rendelkező választópolgárok levélben benyújtott névjegyzéki kérelmének regisztrációs előfeldolgozását végző informatikai rendszer | KOPINT-DATORG Informatikai és Vagyonkezelő Kft. | elektronikus adatfeldolgozás | az adatkezelő döntésétől függő |
+| 34. | A magyarországi lakcímmel nem rendelkező választópolgárok levélben benyújtott névjegyzéki kérelmének regisztrációs előfeldolgozását végző informatikai rendszer | IdomSoft Informatikai Zártkörűen Működő Részvénytársaság | elektronikus adatfeldolgozás | az adatkezelő döntésétől függő |
 
-[^1]: A melléklet a 379/2016. (XII. 2.) Korm. rendelet 172. §-ával megállapított, a 163/2017. (VI. 28.) Korm. rendelet 4. §-a, a 311/2017. (X. 31.) Korm. rendelet 18. §-a, a 467/2017. (XII. 28.) Korm. rendelet 15. §-a, a 75/2018. (IV. 20.) Korm. rendelet 8. §-a, a 156/2018. (IX. 3.) Korm. rendelet 1. §, a 153/2019. (VI. 26.) Korm. rendelet 1. §-a, a 200/2019. (VIII. 1.) Korm. rendelet 1. §-a, a 360/2019. (XII. 30.) Korm. rendelet 87. §-a szerint, a 38/2020. (III. 10.) Korm. rendelet 5. §-a, a 447/2020. (X. 1.) Korm. rendelet 13. §-a, a 616/2022. (XII. 29.) Korm. rendelet 121. §-a, a 340/2023. (VII. 25.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^2]: A melléklet a 379/2016. (XII. 2.) Korm. rendelet 172. §-ával megállapított, a 163/2017. (VI. 28.) Korm. rendelet 4. §-a, a 311/2017. (X. 31.) Korm. rendelet 18. §-a, a 467/2017. (XII. 28.) Korm. rendelet 15. §-a, a 75/2018. (IV. 20.) Korm. rendelet 8. §-a, a 156/2018. (IX. 3.) Korm. rendelet 1. §, a 153/2019. (VI. 26.) Korm. rendelet 1. §-a, a 200/2019. (VIII. 1.) Korm. rendelet 1. §-a, a 360/2019. (XII. 30.) Korm. rendelet 87. §-a szerint, a 38/2020. (III. 10.) Korm. rendelet 5. §-a, a 447/2020. (X. 1.) Korm. rendelet 13. §-a, a 616/2022. (XII. 29.) Korm. rendelet 121. §-a, a 340/2023. (VII. 25.) Korm. rendelet 1. §-a, a 338/2023. (VII. 25.) Korm. rendelet 2. §-a szerint módosított szöveg.
