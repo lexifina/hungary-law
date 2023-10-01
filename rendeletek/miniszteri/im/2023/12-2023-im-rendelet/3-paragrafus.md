@@ -1,3 +1,1 @@
-3. §[^3]
-
-[^3]: A 3. § a 6. § (2) bekezdés alapján 2023. október 1-jén lép hatályba.
+3. § Hatályát veszti a Díjrendelet 29. § (1) bekezdésében az „és cégjegyzés” szövegrész.
