@@ -1,9 +1,3 @@
-3. melléklet a 13/2023. (IX. 21.) IM rendelethez
+3. melléklet a 13/2023. (IX. 21.) IM rendelethez[^32]
 
-1. Az Űrlaprendelet 3. melléklet 1.8. alpontja helyébe a következő rendelkezés lép:
-
-„1.8. adóazonosító jel, egyéni vállalkozó esetén adószám”
-
-2. Az Űrlaprendelet 3. melléklet 2.4. pontja a következő 2.4.11. alponttal egészül ki:
-
-„2.4.11. egyéni vállalkozó esetén adószám”
+[^32]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
