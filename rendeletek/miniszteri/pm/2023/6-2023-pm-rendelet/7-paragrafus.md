@@ -1,3 +1,3 @@
-7. § A 45/2016. (XI. 29.) NGM rendelet 93/K. § (1) bekezdése a következő d) ponttal egészül ki:
+7. §[^8]
 
-(A zárjegyigénylő által a Jöt. 24. §-a szerinti adatszolgáltatásban az állami adó- és vámhatóságnak bejelentett zárjegykészlet-változások jövedéki bizonylata)
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

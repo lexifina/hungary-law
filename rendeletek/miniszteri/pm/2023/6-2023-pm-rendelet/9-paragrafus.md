@@ -1,13 +1,3 @@
-9. § A 45/2016. (XI. 29.) NGM rendelet 93/O. §-a helyébe a következő rendelkezés lép:
+9. §[^10]
 
-„93/O. § (1) A zárjegy készletelszámolást
-
-a) adóraktárban és jövedéki engedélyes kereskedőnél a Jöt. 17. §-ában foglalt készletfelvétel időpontjában,
-
-b) bejegyzett kereskedőnél legalább évente,
-
-c) eseti bejegyzett kereskedőnél a zárjegy átvételét követő 90 napon belül
-
-kell elvégezni.
-
-(2) A készletelszámolást – a zárjegyigénylő kérelmére – az állami adó- és vámhatóság a hivatali helyiségében is elvégezheti.”
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
