@@ -1,3 +1,5 @@
 ## 7. Az Országos Statisztikai Adatfelvételi Program kötelező adatszolgáltatásairól szóló 388/2017. (XII. 13.) Korm. rendelet módosítása
 
-7. § Az Országos Statisztikai Adatfelvételi Program kötelező adatszolgáltatásairól szóló 388/2017. (XII. 13.) Korm. rendelet 2/A. §-ában az „a KOPINT-DATORG Informatikai és Vagyonkezelő Kft.-t” szövegrész helyébe az „az IdomSoft Informatikai Zártkörűen Működő Részvénytársaságot” szöveg lép.
+7. §[^8]
+
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

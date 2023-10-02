@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-338-20-
 | 2023-08-01 | 2023-338-20-22.1 | 338/2023. (VII. 25.) Korm. rendelet |
 | 2023-08-02 | 2023-338-20-22.2 | 2010. évi CXXX. törvény |
 | 2023-10-01 | 2023-338-20-22.3 | 1/2023. (IX. 25.) MK határozat |
+| 2023-10-02 | 2023-338-20-22.4 | 2010. évi CXXX. törvény |
