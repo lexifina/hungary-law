@@ -1,1 +1,3 @@
-4. § A 69/2016. (XII. 29.) NFM rendelet 9. § (1) bekezdés a) pontjában a „2.1–2.4. pontok C) jelű sorában” szövegrész helyébe a „2. pontjában foglalt táblázat 8. sorában” szöveg lép.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

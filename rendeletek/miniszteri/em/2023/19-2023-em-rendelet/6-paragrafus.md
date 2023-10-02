@@ -1,9 +1,5 @@
 ## 3. A földgázpiaci egyetemes szolgáltatáshoz kapcsolódó hatósági árak képzésének keretszabályairól szóló 70/2016. (XII. 29.) NFM rendelet módosítása
 
-6. § A földgázpiaci egyetemes szolgáltatáshoz kapcsolódó hatósági árak képzésének keretszabályairól szóló 70/2016. (XII. 29.) NFM rendelet
+6. §[^7]
 
-a) 3. melléklete helyébe a 7. melléklet és
-
-b) 4. melléklete helyébe a 8. melléklet
-
-lép.
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

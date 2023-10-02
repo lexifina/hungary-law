@@ -1,1 +1,3 @@
-5. § Hatályát veszti a 69/2016. (XII. 29.) NFM rendelet 3. § (4) bekezdésében az „elosztói működési területenkénti bontásban,” szövegrész.
+5. §[^6]
+
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

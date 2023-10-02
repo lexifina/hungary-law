@@ -1,7 +1,3 @@
-## „3. melléklet a 67/2016. (XII. 29.) NFM rendelethez
+4. melléklet a 19/2023. (IX. 29.) EM rendelethez[^11]
 
-## 3X07798.pdf
-
-## ”
-
-4. melléklet a 19/2023. (IX. 29.) EM rendelethez
+[^11]: A 4. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
