@@ -1,9 +1,3 @@
-3. § (1) Az R. 5. § (2) bekezdés i) pontja helyébe a következő rendelkezés lép:
+3. §[^4]
 
-(Az igényléshez csatolni kell:)
-
-## „i) az életvitelszerű együttlakásról szóló nyilatkozatot, ha az igénylővel házastársa, élettársa vagy gyermeke együtt lakik;”
-
-(2) Az R. 5. § (3) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(A helyi lakásgazdálkodási szerv a benyújtástól számított 15 napon belül ellenőrzi az igénylést és)
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
