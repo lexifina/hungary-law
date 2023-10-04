@@ -1,0 +1,1 @@
+A Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló 2011. évi CCII. törvény 24. § (8) bekezdésében kapott felhatalmazás alapján, az atomenergiáról szóló 1996. évi CXVI. törvény 6/J. § (1) bekezdés j) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:

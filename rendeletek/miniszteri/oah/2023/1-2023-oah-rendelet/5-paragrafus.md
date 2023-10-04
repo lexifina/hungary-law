@@ -1,0 +1,1 @@
+5. § Az elismerés adományozására ünnepélyes keretek között, az október 23-ai nemzeti ünnep alkalmából kerülhet sor. Az elismerést az OAH elnöke vagy az általa megbízott vezető beosztású személy adja át. Az elnök által megbízott személy az adományozást nem delegálhatja tovább.
