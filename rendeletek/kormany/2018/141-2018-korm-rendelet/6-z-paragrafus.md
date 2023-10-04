@@ -48,9 +48,12 @@ i) a telek homlokvonalától mért 10 méteres sávban parkoló, a terepszint al
 
 (9)[^146] A 2. mellékletben foglalt táblázat B:78 mezőjében megjelölt ingatlanok tekintetében a 2. mellékletben foglalt táblázat 78. sora szerinti beruházás esetében a kulturális örökség védelmével kapcsolatos szabályokról szóló 68/2018. (IV. 9.) Korm. rendelet 21. § (3) bekezdés b) pontját azzal az eltéréssel kell alkalmazni, hogy a természetvédelmi hatóság – a természeti emlék megőrzése mellett – a földmunkával járó beruházást és a feltárást engedélyezheti.
 
+(10)[^147] A fő rendeltetés szerinti épületek használatbavételéig az építési beruházás megvalósítása során a kivitelezési munkák elvégzéséhez szükséges, a munkavállalók által ideiglenesen használt, munkásszállásnak nem minősülő, az OTÉK 104/A. §-ában foglaltaknak megfelelő, szállás jellegű épület létesítése a telekalakítással kialakuló építési telken belül megengedett, amennyiben az teljes közművesítettséggel rendelkezik, azzal, hogy a szállás jellegű épülethez nem kell személygépkocsi-várakozóhelyeket és kerékpártárolót biztosítani, azonban gondoskodni kell a szállás jellegű épülettel igénybe vett terület fizikai lehatárolásáról.
+
 [^141]: A 6/Z. §-t a 16/2022. (I. 20.) Korm. rendelet 7. §-a iktatta be.
 [^142]: A 6/Z. § (2) bekezdés nyitó szövegrésze a 47/2022. (II. 17.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
 [^143]: A 6/Z. § (2) bekezdés d) pontja a 112/2022. (III. 21.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
 [^144]: A 6/Z. § (4) bekezdése a 112/2022. (III. 21.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^145]: A 6/Z. § (4a) bekezdését a 112/2022. (III. 21.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^146]: A 6/Z. § (9) bekezdését a 168/2022. (IV. 28.) Korm. rendelet 1. §-a iktatta be.
+[^147]: A 6/Z. § (10) bekezdését a 447/2023. (X. 3.) Korm. rendelet 4. §-a iktatta be.

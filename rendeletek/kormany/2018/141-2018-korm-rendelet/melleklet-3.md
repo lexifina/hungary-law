@@ -266,8 +266,8 @@
 
 | 123. | Szállodafejlesztésre, valamint ahhoz kapcsolódó építmények, infrastrukturális fejlesztések és kapcsolódó ingatlanfejlesztés megvalósítására irányuló beruházás | Tihany közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerint Tihany belterület 570/5 helyrajzi számú ingatlan | Veszprém Vármegyei Kormányhivatalt vezető főispán |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^400]
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^403]
 
 A 2. mellékletben foglalt táblázat 7 és 7a sora szerinti beruházások közlekedési kapacitásbővítéssel összefüggő útszélesítései
 
-[^400]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^403]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
