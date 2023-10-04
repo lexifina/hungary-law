@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2019-46-00-00
 | --- | --- | --- |
 | 2019-06-25 | 2019. évi XLVI. törvény | 2019-46-00-00.0 (közlönyállapot) |
 | 2019-06-25 | Nemzeti Jogszabálytár (egységes szerkezet) | 2019-46-00-00.1 |
+| 2023-10-04 | Nemzeti Jogszabálytár (egységes szerkezet) | 2019-46-00-00.2 |
