@@ -36,7 +36,7 @@ n)[^23] a papíralapú irat átalakítása hiteles elektronikus irattá szolgál
 
 o)[^24] a központi kormányzati szolgáltatás busz szolgáltatás vonatkozásában az IdomSoft Zrt.-t,
 
-p)[^25] az automatikus közigazgatási döntéshozatali rendszer vonatkozásában a KOPINT-DATORG Informatikai és Vagyonkezelő Kft.-t,
+p)[^25] az automatikus közigazgatási döntéshozatali rendszer vonatkozásában az IdomSoft Zrt.-t,
 
 q)[^26] a személyre szabott ügyintézési felület szolgáltatás tekintetében a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.-t, a szolgáltatás keretében elérhető elektronikus űrlapkitöltés támogatási alkalmazás alkalmazásfejlesztése, alkalmazásüzemeltetés támogatása vonatkozásában az IdomSoft Zrt.-t,
 
@@ -71,7 +71,7 @@ x)[^33] szerepkör-tanúsító platform szolgáltatás vonatkozásban az IdomSof
 [^22]: A 4. § m) pontja a 717/2021. (XII. 20.) Korm. rendelet 14. § (6) bekezdésével megállapított, a 338/2023. (VII. 25.) Korm. rendelet 4. § (3) bekezdés a) pontja és 4. § (4) bekezdés j) pontja, a 338/2023. (VII. 25.) Korm. rendelet szerint módosított szöveg.
 [^23]: A 4. § n) pontja a 291/2018. (XII. 21.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 618/2022. (XII. 29.) Korm. rendelet 7. §-a szerint módosított szöveg.
 [^24]: A 4. § o) pontját újonnan a 221/2017. (VIII. 7.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege az 572/2020. (XII. 9.) Korm. rendelet 48. § (4) bekezdésével megállapított, a 338/2023. (VII. 25.) Korm. rendelet 4. § (4) bekezdés h) pontja és 4. § (5) bekezdés e) pontja szerint módosított szöveg.
-[^25]: A 4. § p) pontját újonnan a 310/2023. (VII. 14.) Korm. rendelet 1. §-a iktatta be.
+[^25]: A 4. § p) pontját újonnan a 310/2023. (VII. 14.) Korm. rendelet 1. §-a iktatta be, szövege a 447/2023. (X. 3.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^26]: A 4. § q) pontját az 515/2013. (XII. 30.) Korm. rendelet 31. § (2) bekezdése iktatta be, szövege az 572/2020. (XII. 9.) Korm. rendelet 48. § (5) bekezdésével megállapított, a 338/2023. (VII. 25.) Korm. rendelet 4. § (3) bekezdés b) pontja és 4. § (4) bekezdés k) pontja szerint módosított szöveg.
 [^27]: A 4. § r) pontját az 515/2013. (XII. 30.) Korm. rendelet 31. § (2) bekezdése iktatta be, szövege az 572/2020. (XII. 9.) Korm. rendelet 48. § (5) bekezdésével megállapított, a 338/2023. (VII. 25.) Korm. rendelet 4. § (4) bekezdés h) pontja és 4. § (5) bekezdés c) pontja szerint módosított szöveg.
 [^28]: A 4. § s) pontját az 515/2013. (XII. 30.) Korm. rendelet 31. § (2) bekezdése iktatta be, az 572/2020. (XII. 9.) Korm. rendelet 48. § (5) bekezdésével megállapított, a 338/2023. (VII. 25.) Korm. rendelet 4. § (4) bekezdés h) pontja és 4. § (5) bekezdés c) pontja szerint módosított szöveg.
