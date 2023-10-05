@@ -30,7 +30,7 @@
 
 | 15. | fotovoltaikus panel (amelynek bármely külső mérete meghaladja az 50 cm-t) | E05 | 62 | 1 | 63 |
 
-| 16. | kisméretű számítástechnikai berendezések és távközlési berendezések (amelyeknek egyik külső mérete sem haladja meg az 50 cm-t) | E06 | 260 | 1 | 261 |
+| 16. | kisgépek, kisméretű számítástechnikai berendezések és távközlési berendezések (amelyeknek egyik külső mérete sem haladja meg az 50 cm-t)[^7] | E06 | 260 | 1 | 261 |
 
 | 17. | hordozható elem, akkumulátor | A01 | 160 | – | 160 |
 
@@ -54,4 +54,7 @@
 
 2. melléklet a 8/2023. (VI. 2.) EM rendelethez
 
-A 80/2023. Korm. rendelet 13. § (3) bekezdése szerinti átvállalás esetén a gépjármű gyártója által választása szerint díjátalányként fizetendő kiterjesztett gyártói felelősségi díj egy egységre vetített mértéke
+A gépjármű gyártója által választása szerint díjátalányként fizetendő kiterjesztett gyártói felelősségi díj egy egységre vetített mértéke[^8]
+
+[^7]: Az 1. mellékletben foglalt táblázat A:16 mezője a 21/2023. (X. 4.) EM rendelet 5. § c) pontja szerint módosított szöveg.
+[^8]: A 2. melléklet címe a 21/2023. (X. 4.) EM rendelet 6. § b) pontja szerint módosított szöveg.

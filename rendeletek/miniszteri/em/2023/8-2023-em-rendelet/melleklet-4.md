@@ -17,11 +17,3 @@
 4. melléklet a 8/2023. (VI. 2.) EM rendelethez
 
 A települési önkormányzat köztisztasági feladatainak ellátásával összefüggésben a koncessziós társaság által végzett hulladékgazdálkodási tevékenységekért fizetendő díj egy egységre vetített mértéke
-
-|  | A | B | C | D |
-
-| 1. | Rendszeres szolgáltatás | Eseti szolgáltatás |
-
-| 2. | Ft/kg | Ft/liter | Ft/kg | Ft/liter |
-
-| 3. | 29,00 | 5,80 | 44,00 | 8,70 |
