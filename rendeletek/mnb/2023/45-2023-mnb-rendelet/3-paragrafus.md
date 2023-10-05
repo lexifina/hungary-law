@@ -1,1 +1,3 @@
-3. § Hatályát veszti a Rendelet 5. § (2) bekezdésében a „nemzetközi kapcsolatokért, készpénzlogisztikáért,” szövegrész.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
