@@ -1,3 +1,3 @@
-5. § Az R2. a következő 135. §-sal egészül ki:
+5. §[^6]
 
-„135. § E rendeletnek az egyes kormányrendeletek módosításáról szóló 447/2023. (X. 3.) Korm. rendelettel (a továbbiakban: Módr127.) megállapított 6/Z. § (10) bekezdését a Módr127. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
