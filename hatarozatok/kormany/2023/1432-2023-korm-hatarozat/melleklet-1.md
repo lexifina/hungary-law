@@ -42,7 +42,7 @@
 
 | Határidő: | az 1.2. alpont szerinti források rendelkezésre állását követően azonnal |
 
-## 2. A Kerepesi Széchenyi István Általános Iskola és Alapfokú Művészeti Iskola tanterem építéséről szóló 1622/2020. (X. 1.) Korm. határozat 3. pontjában a „420 879 060” szövegrész helyébe a „446 660 094” szöveg lép.
+## 2.[^1]
 
 1. melléklet az 1432/2023. (X. 5.) Korm. határozathoz
 
@@ -91,3 +91,5 @@
 | 17. | Komáromi Ipari Park víziközmű-hálózat fejlesztése érdekében szükséges intézkedésekről (22 km Távvezeték) | 311 238 501 |
 
 |  | 15–17. Közműfejlesztési beruházások összesen | 791 146 823 |
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
