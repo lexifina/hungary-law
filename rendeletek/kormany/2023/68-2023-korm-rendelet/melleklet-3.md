@@ -10,9 +10,9 @@
 
 | 5 | 1.2.2. | Az óvodában foglalkoztatott pedagógusok átlagbéralapú támogatása |  |
 
-| 6 | 1.2.2.1. | Napi nyolc órát elérő nyitvatartási idővel rendelkező óvodában foglalkoztatott pedagógusok átlagbéralapú támogatása | 717 890 forint/számított létszám/év |
+| 6 | 1.2.2.1. | Napi nyolc órát elérő nyitvatartási idővel rendelkező óvodában foglalkoztatott pedagógusok átlagbéralapú támogatása | 944 620 forint/számított létszám/év[^5] |
 
-| 7 | 1.2.2.2. | Napi hat órát elérő, nyolc órát el nem érő nyitvatartással rendelkező óvodában foglalkoztatott pedagógusok átlagbéralapú támogatása | 358 945 forint/számított létszám/év |
+| 7 | 1.2.2.2. | Napi hat órát elérő, nyolc órát el nem érő nyitvatartással rendelkező óvodában foglalkoztatott pedagógusok átlagbéralapú támogatása | 472 310 forint/számított létszám/év[^6] |
 
 | 8 | 1.2.3. | Kiegészítő támogatás a pedagógusok és a pedagógus szakképzettséggel rendelkező segítők minősítéséből adódó többletkiadásokhoz |  |
 
@@ -22,29 +22,29 @@
 
 | 11 | 1.2.3.1.1.1. | Alapfokozatú végzettségű |  |
 
-| 12 | 1.2.3.1.1.1.1. | Pedagógus II. kategóriába sorolt pedagógusok, pedagógus szakképzettséggel rendelkező segítők kiegészítő támogatása | 46 310 forint/fő/év |
+| 12 | 1.2.3.1.1.1.1. | Pedagógus II. kategóriába sorolt pedagógusok, pedagógus szakképzettséggel rendelkező segítők kiegészítő támogatása | 66 178 forint/fő/év[^7] |
 
-| 13 | 1.2.3.1.1.1.2. | Mesterpedagógus, kutatótanár kategóriába sorolt pedagógusok kiegészítő támogatása | 174 030 forint/fő/év |
+| 13 | 1.2.3.1.1.1.2. | Mesterpedagógus, kutatótanár kategóriába sorolt pedagógusok kiegészítő támogatása | 246 772 forint/fő/év[^8] |
 
 | 14 | 1.2.3.1.1.2. | Mesterfokozatú végzettségű |  |
 
-| 15 | 1.2.3.1.1.2.1. | Pedagógus II. kategóriába sorolt pedagógusok, pedagógus szakképzettséggel rendelkező segítők kiegészítő támogatása | 56 050 forint/fő/év |
+| 15 | 1.2.3.1.1.2.1. | Pedagógus II. kategóriába sorolt pedagógusok, pedagógus szakképzettséggel rendelkező segítők kiegészítő támogatása | 79 658 forint/fő/év[^9] |
 
-| 16 | 1.2.3.1.1.2.2. | Mesterpedagógus, kutatótanár kategóriába sorolt pedagógusok kiegészítő támogatása | 196 820 forint/fő/év |
+| 16 | 1.2.3.1.1.2.2. | Mesterpedagógus, kutatótanár kategóriába sorolt pedagógusok kiegészítő támogatása | 278 780 forint/fő/év[^10] |
 
 | 17 | 1.2.3.1.2. | Napi hat órát elérő, nyolc órát el nem érő nyitvatartási idővel rendelkező óvodában foglalkoztatott |  |
 
 | 18 | 1.2.3.1.2.1. | Alapfokozatú végzettségű |  |
 
-| 19 | 1.2.3.1.2.1.1. | Pedagógus II. kategóriába sorolt pedagógusok, pedagógus szakképzettséggel rendelkező segítők kiegészítő támogatása | 23 155 forint/fő/év |
+| 19 | 1.2.3.1.2.1.1. | Pedagógus II. kategóriába sorolt pedagógusok, pedagógus szakképzettséggel rendelkező segítők kiegészítő támogatása | 33 089 forint/fő/év[^11] |
 
-| 20 | 1.2.3.1.2.1.2. | Mesterpedagógus, kutatótanár kategóriába sorolt pedagógusok kiegészítő támogatása | 87 015 forint/fő/év |
+| 20 | 1.2.3.1.2.1.2. | Mesterpedagógus, kutatótanár kategóriába sorolt pedagógusok kiegészítő támogatása | 123 386 forint/fő/év[^12] |
 
 | 21 | 1.2.3.1.2.2. | Mesterfokozatú végzettségű |  |
 
-| 22 | 1.2.3.1.2.2.1. | Pedagógus II. kategóriába sorolt pedagógusok, pedagógus szakképzettséggel rendelkező segítők kiegészítő támogatása | 28 025 forint/fő/év |
+| 22 | 1.2.3.1.2.2.1. | Pedagógus II. kategóriába sorolt pedagógusok, pedagógus szakképzettséggel rendelkező segítők kiegészítő támogatása | 39 829 forint/fő/év[^13] |
 
-| 23 | 1.2.3.1.2.2.2. | Mesterpedagógus, kutatótanár kategóriába sorolt pedagógusok kiegészítő támogatása | 98 410 forint/fő/év |
+| 23 | 1.2.3.1.2.2.2. | Mesterpedagógus, kutatótanár kategóriába sorolt pedagógusok kiegészítő támogatása | 139 390 forint/fő/év[^14] |
 
 | 24 | 1.2.3.2. | Minősítést 2023. január 1-jéig történő átsorolással megszerző |  |
 
@@ -52,29 +52,29 @@
 
 | 26 | 1.2.3.2.1.1. | Alapfokozatú végzettségű |  |
 
-| 27 | 1.2.3.2.1.1.1. | Pedagógus II. kategóriába sorolt pedagógusok, pedagógus szakképzettséggel rendelkező segítők kiegészítő támogatása | 42 450 forint/fő/év |
+| 27 | 1.2.3.2.1.1.1. | Pedagógus II. kategóriába sorolt pedagógusok, pedagógus szakképzettséggel rendelkező segítők kiegészítő támogatása | 60 662 forint/fő/év[^15] |
 
-| 28 | 1.2.3.2.1.1.2. | Mesterpedagógus, kutatótanár kategóriába sorolt pedagógusok kiegészítő támogatása | 159 530 forint/fő/év |
+| 28 | 1.2.3.2.1.1.2. | Mesterpedagógus, kutatótanár kategóriába sorolt pedagógusok kiegészítő támogatása | 226 210 forint/fő/év[^16] |
 
 | 29 | 1.2.3.2.1.2. | Mesterfokozatú végzettségű |  |
 
-| 30 | 1.2.3.2.1.2.1. | Pedagógus II. kategóriába sorolt pedagógusok, pedagógus szakképzettséggel rendelkező segítők kiegészítő támogatása | 51 380 forint/fő/év |
+| 30 | 1.2.3.2.1.2.1. | Pedagógus II. kategóriába sorolt pedagógusok, pedagógus szakképzettséggel rendelkező segítők kiegészítő támogatása | 73 022 forint/fő/év[^17] |
 
-| 31 | 1.2.3.2.1.2.2. | Mesterpedagógus, kutatótanár kategóriába sorolt pedagógusok kiegészítő támogatása | 180 418 forint/fő/év |
+| 31 | 1.2.3.2.1.2.2. | Mesterpedagógus, kutatótanár kategóriába sorolt pedagógusok kiegészítő támogatása | 255 548 forint/fő/év[^18] |
 
 | 32 | 1.2.3.2.2. | Napi hat órát elérő, nyolc órát el nem érő nyitvatartási idővel rendelkező óvodában foglalkoztatott |  |
 
 | 33 | 1.2.3.2.2.1. | Alapfokozatú végzettségű |  |
 
-| 34 | 1.2.3.2.2.1.1. | Pedagógus II. kategóriába sorolt pedagógusok, pedagógus szakképzettséggel rendelkező segítők kiegészítő támogatása | 21 225 forint/fő/év |
+| 34 | 1.2.3.2.2.1.1. | Pedagógus II. kategóriába sorolt pedagógusok, pedagógus szakképzettséggel rendelkező segítők kiegészítő támogatása | 30 331 forint/fő/év[^19] |
 
-| 35 | 1.2.3.2.2.1.2. | Mesterpedagógus, kutatótanár kategóriába sorolt pedagógusok kiegészítő támogatása | 79 765 forint/fő/év |
+| 35 | 1.2.3.2.2.1.2. | Mesterpedagógus, kutatótanár kategóriába sorolt pedagógusok kiegészítő támogatása | 113 105 forint/fő/év[^20] |
 
 | 36 | 1.2.3.2.2.2. | Mesterfokozatú végzettségű |  |
 
-| 37 | 1.2.3.2.2.2.1. | Pedagógus II. kategóriába sorolt pedagógusok, pedagógus szakképzettséggel rendelkező segítők kiegészítő támogatása | 25 690 forint/fő/év |
+| 37 | 1.2.3.2.2.2.1. | Pedagógus II. kategóriába sorolt pedagógusok, pedagógus szakképzettséggel rendelkező segítők kiegészítő támogatása | 36 511 forint/fő/év[^21] |
 
-| 38 | 1.2.3.2.2.2.2. | Mesterpedagógus, kutatótanár kategóriába sorolt pedagógusok kiegészítő támogatása | 90 209 forint/fő/év |
+| 38 | 1.2.3.2.2.2.2. | Mesterpedagógus, kutatótanár kategóriába sorolt pedagógusok kiegészítő támogatása | 127 774 forint/fő/év[^22] |
 
 | 39 | 1.2.5. | Az óvodában foglalkoztatott pedagógusok nevelőmunkáját közvetlenül segítők átlagbéralapú támogatása |  |
 
@@ -82,13 +82,13 @@
 
 | 41 | 1.2.5.1.1. | Pedagógus szakképzettséggel nem rendelkező segítők átlagbéralapú támogatása | 543 000 forint/létszám/év |
 
-| 42 | 1.2.5.1.2. | Pedagógus szakképzettséggel rendelkező segítők átlagbéralapú támogatása | 717 890 forint/számított létszám/év |
+| 42 | 1.2.5.1.2. | Pedagógus szakképzettséggel rendelkező segítők átlagbéralapú támogatása | 944 620 forint/számított létszám/év[^23] |
 
 | 43 | 1.2.5.2. | Napi hat órát elérő, nyolc órát el nem érő nyitvatartási idővel rendelkező óvodában foglalkoztatott |  |
 
 | 44 | 1.2.5.2.1. | Pedagógus szakképzettséggel nem rendelkező segítők átlagbéralapú támogatása | 271 500 forint/létszám/év |
 
-| 45 | 1.2.5.2.2. | Pedagógus szakképzettséggel rendelkező segítők átlagbéralapú támogatása | 358 945 forint/számított létszám/év |
+| 45 | 1.2.5.2.2. | Pedagógus szakképzettséggel rendelkező segítők átlagbéralapú támogatása | 472 310 forint/számított létszám/év[^24] |
 
 | 46 | 1.3.2.1. | Család- és gyermekjóléti szolgálat | 799 060 forint/számított létszám/év |
 
@@ -190,7 +190,7 @@
 
 | 95 | 1.3.3.1. | Bölcsődei bértámogatás |  |
 
-| 96 | 1.3.3.1.1. | Felsőfokú végzettségű kisgyermeknevelők, szaktanácsadók bértámogatása | 570 200 forint/számított létszám |
+| 96 | 1.3.3.1.1. | Felsőfokú végzettségű kisgyermeknevelők, szaktanácsadók bértámogatása | 796 930 forint/számított létszám[^25] |
 
 | 97 | 1.3.3.1.2. | Bölcsődei dajkák, középfokú végzettségű kisgyermeknevelők, szaktanácsadók bértámogatása | 823 200 forint/számított létszám |
 
@@ -205,3 +205,25 @@
 Kulturális területen biztosítandó kiegészítő támogatás önkormányzatonkénti összege
 
 adatok forintban
+
+[^5]: A 2. mellékletben foglalt táblázat C:6 mezője a 453/2023. (X. 5.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^6]: A 2. mellékletben foglalt táblázat C:7 mezője a 453/2023. (X. 5.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^7]: A 2. mellékletben foglalt táblázat C:12 mezője a 453/2023. (X. 5.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
+[^8]: A 2. mellékletben foglalt táblázat C:13 mezője a 453/2023. (X. 5.) Korm. rendelet 3. § d) pontja szerint módosított szöveg.
+[^9]: A 2. mellékletben foglalt táblázat C:15 mezője a 453/2023. (X. 5.) Korm. rendelet 3. § e) pontja szerint módosított szöveg.
+[^10]: A 2. mellékletben foglalt táblázat C:16 mezője a 453/2023. (X. 5.) Korm. rendelet 3. § f) pontja szerint módosított szöveg.
+[^11]: A 2. mellékletben foglalt táblázat C:19 mezője a 453/2023. (X. 5.) Korm. rendelet 3. § g) pontja szerint módosított szöveg.
+[^12]: A 2. mellékletben foglalt táblázat C:20 mezője a 453/2023. (X. 5.) Korm. rendelet 3. § h) pontja szerint módosított szöveg.
+[^13]: A 2. mellékletben foglalt táblázat C:22 mezője a 453/2023. (X. 5.) Korm. rendelet 3. § i) pontja szerint módosított szöveg.
+[^14]: A 2. mellékletben foglalt táblázat C:23 mezője a 453/2023. (X. 5.) Korm. rendelet 3. § j) pontja szerint módosított szöveg.
+[^15]: A 2. mellékletben foglalt táblázat C:27 mezője a 453/2023. (X. 5.) Korm. rendelet 3. § k) pontja szerint módosított szöveg.
+[^16]: A 2. mellékletben foglalt táblázat C:28 mezője a 453/2023. (X. 5.) Korm. rendelet 3. § l) pontja szerint módosított szöveg.
+[^17]: A 2. mellékletben foglalt táblázat C:30 mezője a 453/2023. (X. 5.) Korm. rendelet 3. § m) pontja szerint módosított szöveg.
+[^18]: A 2. mellékletben foglalt táblázat C:31 mezője a 453/2023. (X. 5.) Korm. rendelet 3. § n) pontja szerint módosított szöveg.
+[^19]: A 2. mellékletben foglalt táblázat C:34 mezője a 453/2023. (X. 5.) Korm. rendelet 3. § o) pontja szerint módosított szöveg.
+[^20]: A 2. mellékletben foglalt táblázat C:35 mezője a 453/2023. (X. 5.) Korm. rendelet 3. § p) pontja szerint módosított szöveg.
+[^21]: A 2. mellékletben foglalt táblázat C:37 mezője a 453/2023. (X. 5.) Korm. rendelet 3. § q) pontja szerint módosított szöveg.
+[^22]: A 2. mellékletben foglalt táblázat C:38 mezője a 453/2023. (X. 5.) Korm. rendelet 3. § r) pontja szerint módosított szöveg.
+[^23]: A 2. mellékletben foglalt táblázat C:42 mezője a 453/2023. (X. 5.) Korm. rendelet 3. § s) pontja szerint módosított szöveg.
+[^24]: A 2. mellékletben foglalt táblázat C:45 mezője a 453/2023. (X. 5.) Korm. rendelet 3. § t) pontja szerint módosított szöveg.
+[^25]: A 2. mellékletben foglalt táblázat C:96 mezője a 453/2023. (X. 5.) Korm. rendelet 3. § u) pontja szerint módosított szöveg.
