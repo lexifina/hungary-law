@@ -30,6 +30,10 @@ j)[^15] a hadfelszerelés-fejlesztés, a haditechnikai eszközök fejlesztése �
 
 k)[^16] a katonai vám, jövedéki és határforgalmi feladatok ellátása.
 
+(5)[^17] A honvédelmi szervezet, valamint a miniszter által az állam nevében alapított szakképző intézmény vonatkozásában a munkáltató által elektronikus formában kiadott összesített adóigazolás és a társadalombiztosítási nyilvántartás adatairól szóló igazolás – a munka törvénykönyvéről szóló 2012. évi I. törvény hatálya alá tartozó munkavállaló, illetve munkavégzésre irányuló egyéb jogviszony keretében foglalkoztatott állomány kivételével – az érintett részére központilag, a pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet vezetőjének minősített elektronikus aláírásával és időbélyegzővel ellátva kerül kiadásra.
+
+(6)[^18] A KNBSZ által foglalkoztatott esetében az (5) bekezdés szerinti adóigazolás és társadalombiztosítási nyilvántartás adatairól szóló igazolás a KNBSZ által üzemeltetett önálló rendszer alkalmazásával kerül átadásra.
+
 [^7]: A 2. § (2) bekezdése a 26/2015. (II. 25.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
 [^8]: A 2. § (3) bekezdését a 196/2017. (VII. 10.) Korm. rendelet 3. § a) pontja hatályon kívül helyezte.
 [^9]: A 2. § (4) bekezdés nyitó szövegrésze a 26/2015. (II. 25.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
@@ -40,3 +44,5 @@ k)[^16] a katonai vám, jövedéki és határforgalmi feladatok ellátása.
 [^14]: A 2. § (4) bekezdés g) pontja a 247/2018. (XII. 17.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 354/2019. (XII. 23.) Korm. rendelet 7. § b) pontja, a 11/2021. (I. 20.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
 [^15]: A 2. § (4) bekezdés j) pontját újonnan a 247/2018. (XII. 17.) Korm. rendelet 2. § (2) bekezdése iktatta be.
 [^16]: A 2. § (4) bekezdés k) pontját a 354/2019. (XII. 23.) Korm. rendelet 2. §-a iktatta be.
+[^17]: A 2. § (5) bekezdését a 457/2023. (X. 5.) Korm. rendelet 1. §-a iktatta be.
+[^18]: A 2. § (6) bekezdését a 457/2023. (X. 5.) Korm. rendelet 1. §-a iktatta be.

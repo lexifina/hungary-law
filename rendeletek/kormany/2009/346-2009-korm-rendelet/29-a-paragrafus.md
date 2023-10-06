@@ -1,8 +1,8 @@
-29/A. §[^66] (1) A KNBSZ az állami vagyonról saját hatáskörben vezet nyilvántartást, melyben az alaptevékenysége ellátásához besorolt speciális kezelésű vagyonelemeket elkülönítetten tartja nyilván.
+29/A. §[^68] (1) A KNBSZ az állami vagyonról saját hatáskörben vezet nyilvántartást, melyben az alaptevékenysége ellátásához besorolt speciális kezelésű vagyonelemeket elkülönítetten tartja nyilván.
 
 (2) A KNBSZ
 
-a)[^67] az állami vagyonról az Áhsz. 5. mellékletének adataiból mérleg-főcsoportonkénti részletezésben szolgáltathat adatot a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaságnak, az ÁSZ-nak, a Nemzeti Földügyi Központnak, a Központi Statisztikai Hivatalnak és a KEHI-nek,
+a)[^69] az állami vagyonról az Áhsz. 5. mellékletének adataiból mérleg-főcsoportonkénti részletezésben szolgáltathat adatot a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaságnak, az ÁSZ-nak, a Nemzeti Földügyi Központnak, a Központi Statisztikai Hivatalnak és a KEHI-nek,
 
 b) az ajánlatkérés tényét nem kell, hogy nyilvánossá tegye, ha a használatában, illetve vagyonkezelésében lévő, vagy tulajdonosi joggyakorlása alatt álló, feladatai ellátásához feleslegessé vált vagyontárgyakat zártkörű pályázat útján értékesíti.
 
@@ -10,5 +10,5 @@ b) az ajánlatkérés tényét nem kell, hogy nyilvánossá tegye, ha a használ
 
 (4) A speciális működési kiadásból finanszírozott ingatlanok vonatkozásában az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet 2. § (1) bekezdésében és IX. Fejezetében foglaltak nem alkalmazhatóak. Ezen ingatlanok tulajdonjogának megszerzéséhez a miniszter jóváhagyása szükséges.
 
-[^66]: A 29/A. §-t a 26/2015. (II. 25.) Korm. rendelet 17. §-a iktatta be.
-[^67]: A 29/A. § (2) bekezdés a) pontja a 159/2019. (VI. 28.) Korm. rendelet 6. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^68]: A 29/A. §-t a 26/2015. (II. 25.) Korm. rendelet 17. §-a iktatta be.
+[^69]: A 29/A. § (2) bekezdés a) pontja a 159/2019. (VI. 28.) Korm. rendelet 6. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
