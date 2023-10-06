@@ -1,3 +1,3 @@
-2. § Az EM rendelet a következő 4/A. §-sal egészül ki:
+2. §[^3]
 
-„4/A. § Az 1–5. mellékletben meghatározott díjak az általános forgalmi adót nem tartalmazzák.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

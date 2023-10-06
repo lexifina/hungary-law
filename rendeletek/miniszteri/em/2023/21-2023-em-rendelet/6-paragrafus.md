@@ -1,7 +1,3 @@
-6. § Hatályát veszti a hulladékgazdálkodási intézményi résztevékenység ellátásával összefüggő díjak, a díjalkalmazási feltételek, valamint a díjmegfizetés rendjének megállapításáról szóló 8/2023. (VI. 2.) EM rendelet
+6. §[^7]
 
-a) 2. § (2) bekezdésében a „80/2023. Korm. rendelet 13. § (3) bekezdése szerinti átvállalás esetén a” szövegrész,
-
-b) 2. melléklet címében a „80/2023. Korm. rendelet 13. § (3) bekezdése szerinti átvállalás esetén a” szövegrész,
-
-c) 2. mellékletében foglalt táblázat B:4 mezőjében a „nem” szövegrész.
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
