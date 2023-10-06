@@ -1,0 +1,1 @@
+A Kormány a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 162. § (1) bekezdés s) pontjában, valamint a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 79. § (1) bekezdés e) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
