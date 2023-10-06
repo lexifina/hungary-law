@@ -1,4 +1,4 @@
-27/E. §[^185] (1) A VET 60. § (4) bekezdésében és 63. § (4) bekezdésében meghatározott elektronikus kapcsolattartás – a felhasználó eltérő rendelkezése hiányában – magában foglalja
+27/E. §[^188] (1) A VET 60. § (4) bekezdésében és 63. § (4) bekezdésében meghatározott elektronikus kapcsolattartás – a felhasználó eltérő rendelkezése hiányában – magában foglalja
 
 a) a jogszabályi előíráson alapuló,
 
@@ -12,4 +12,4 @@ d) az adatkezeléssel kapcsolatos
 
 (2) Ha az értesítés, tájékoztatás, megkeresés személyes adatot is tartalmaz, a villamosenergia-kereskedő és az elosztó technikai intézkedést tesz az elektronikus küldemény adatbiztonságának biztosítása érdekében.
 
-[^185]: A Vhr. 27/E. §-át a 787/2021. (XII. 27.) Korm. rendelet 11. §-a iktatta be.
+[^188]: A Vhr. 27/E. §-át a 787/2021. (XII. 27.) Korm. rendelet 11. §-a iktatta be.

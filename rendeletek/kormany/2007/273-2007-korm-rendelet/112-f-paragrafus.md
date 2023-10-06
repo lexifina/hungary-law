@@ -1,16 +1,16 @@
-112/F. §[^419] (1) A nagykereskedelmi piacfelügyeleti eljárás során kiszabható bírság mértéke
+112/F. §[^422] (1) A nagykereskedelmi piacfelügyeleti eljárás során kiszabható bírság mértéke
 
-a)[^420] a bennfentes kereskedelemre, a piaci manipulációra és a piaci manipuláció megkísérlésére vonatkozó tilalom megsértése esetén százezer forinttól kettőmilliárd forintig,
+a)[^423] a bennfentes kereskedelemre, a piaci manipulációra és a piaci manipuláció megkísérlésére vonatkozó tilalom megsértése esetén százezer forinttól kettőmilliárd forintig,
 
 b) a bennfentes információ közzétételére vonatkozó kötelezettség megsértése esetén százezer forinttól tízmillió forintig
 
 terjedhet.
 
-(2)[^421] A kiszabható bírság felső határa az (1) bekezdés a) pontjától eltérően az elért árfolyamnyereség vagy elkerült árfolyamveszteség négyszáz százaléka, ha az árfolyam-különbözet mértéke tételesen kimutatható és az magasabb, mint az (1) bekezdés a) pontjában meghatározott bírságtétel felső határa.
+(2)[^424] A kiszabható bírság felső határa az (1) bekezdés a) pontjától eltérően az elért árfolyamnyereség vagy elkerült árfolyamveszteség négyszáz százaléka, ha az árfolyam-különbözet mértéke tételesen kimutatható és az magasabb, mint az (1) bekezdés a) pontjában meghatározott bírságtétel felső határa.
 
-(3)[^422] A nem természetes személynek az (1) bekezdés a) pontja szerinti bírsággal sújtott tevékenységében érdemben közreműködő természetes személlyel szemben a VET 98. § (1) bekezdésében megállapított szempontok mérlegelésével kiszabható bírság összege – a piaci szereplővel szemben az (1) bekezdés a) pontjában meghatározott bírság alkalmazásán felül – százezer forinttól százmillió forintig terjedhet.
+(3)[^425] A nem természetes személynek az (1) bekezdés a) pontja szerinti bírsággal sújtott tevékenységében érdemben közreműködő természetes személlyel szemben a VET 98. § (1) bekezdésében megállapított szempontok mérlegelésével kiszabható bírság összege – a piaci szereplővel szemben az (1) bekezdés a) pontjában meghatározott bírság alkalmazásán felül – százezer forinttól százmillió forintig terjedhet.
 
-[^419]: A Vhr. 112/F. §-át a 344/2013. (IX. 27.) Korm. rendelet 2. §-a iktatta be.
-[^420]: A Vhr. 112/F. § (1) bekezdés a) pontja a 275/2017. (IX. 21.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
-[^421]: A Vhr. 112/F. § (2) bekezdése a 275/2017. (IX. 21.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
-[^422]: A Vhr. 112/F. § (3) bekezdését a 275/2017. (IX. 21.) Korm. rendelet 6. §-a iktatta be.
+[^422]: A Vhr. 112/F. §-át a 344/2013. (IX. 27.) Korm. rendelet 2. §-a iktatta be.
+[^423]: A Vhr. 112/F. § (1) bekezdés a) pontja a 275/2017. (IX. 21.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
+[^424]: A Vhr. 112/F. § (2) bekezdése a 275/2017. (IX. 21.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
+[^425]: A Vhr. 112/F. § (3) bekezdését a 275/2017. (IX. 21.) Korm. rendelet 6. §-a iktatta be.

@@ -1,4 +1,4 @@
-13/A. §[^73] (1) A magánvezeték engedélyese naptári évente, az adott üzleti évet követően kiértékeli az engedélyköteles tevékenységével kapcsolatos működését az üzemviteli naplóban foglaltak és a 13. § (6) bekezdés szerinti adatok alapján.
+13/A. §[^76] (1) A magánvezeték engedélyese naptári évente, az adott üzleti évet követően kiértékeli az engedélyköteles tevékenységével kapcsolatos működését az üzemviteli naplóban foglaltak és a 13. § (6) bekezdés szerinti adatok alapján.
 
 (2) Az (1) bekezdés szerinti kiértékelésben éves összefoglaló adatokkal külön be kell mutatni, hogy
 
@@ -10,4 +10,4 @@ c) a magánvezetékes szolgáltatási tevékenysége során miként alkalmazta a
 
 (3) A kiértékeléshez a vételezők és a (2) bekezdés c) pontja esetén felhasználók részére hozzáférési jogot kell biztosítani.
 
-[^73]: A Vhr. 13/A. §-át a 378/2011. (XII. 31.) Korm. rendelet 5. §-a iktatta be.
+[^76]: A Vhr. 13/A. §-át a 378/2011. (XII. 31.) Korm. rendelet 5. §-a iktatta be.

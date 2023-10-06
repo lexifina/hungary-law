@@ -1,10 +1,10 @@
-29/B. §[^201] (1) A közintézményi felhasználó a VET 63/A. §-a szerinti moratórium (a továbbiakban: moratórium) biztosítását a moratóriummal érintett időszakot (a továbbiakban: moratóriumi időszak) legalább 15 nappal megelőzően kezdeményezi a villamosenergia-kereskedőnél és az elosztónál.
+29/B. §[^204] (1) A közintézményi felhasználó a VET 63/A. §-a szerinti moratórium (a továbbiakban: moratórium) biztosítását a moratóriummal érintett időszakot (a továbbiakban: moratóriumi időszak) legalább 15 nappal megelőzően kezdeményezi a villamosenergia-kereskedőnél és az elosztónál.
 
 (2) A közintézményi felhasználó a moratórium biztosításának kezdeményezésével egyidejűleg az alábbi dokumentumokkal igazolja, hogy a VET 63/A. §-ában és e rendelet 29/A. §-ában meghatározott feltételeknek megfelel:
 
 a) a 29/A. § a) pont aa) alpontja szerinti közintézményi felhasználó alapító okirattal vagy működési engedéllyel,
 
-b)[^202] a 29/A. § a) pont ab) alpontja szerinti közintézményi felhasználó alapító okirattal vagy működési engedéllyel és hatályos köznevelési szerződéssel, fenntartói megállapodással, illetve együttműködési megállapodással,
+b)[^205] a 29/A. § a) pont ab) alpontja szerinti közintézményi felhasználó alapító okirattal vagy működési engedéllyel és hatályos köznevelési szerződéssel, fenntartói megállapodással, illetve együttműködési megállapodással,
 
 c) a 29/A. § b) pont ba) alpontja szerinti közintézményi felhasználó alapító okirattal vagy működési engedéllyel,
 
@@ -18,5 +18,5 @@ g) a javítóintézet alapító okirattal, és
 
 h) a 29/A. § d) pontja szerinti közintézményi felhasználó hatályos közfinanszírozási szerződéssel.
 
-[^201]: A Vhr. 29/B. §-át a 378/2011. (XII. 31.) Korm. rendelet 10. §-a iktatta be.
-[^202]: A Vhr. 29/B. § (2) bekezdés b) pontja a 13/2020. (II. 7.) Korm. rendelet 37. § 4. pontja szerint módosított szöveg.
+[^204]: A Vhr. 29/B. §-át a 378/2011. (XII. 31.) Korm. rendelet 10. §-a iktatta be.
+[^205]: A Vhr. 29/B. § (2) bekezdés b) pontja a 13/2020. (II. 7.) Korm. rendelet 37. § 4. pontja szerint módosított szöveg.

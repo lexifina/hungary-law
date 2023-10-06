@@ -1,4 +1,4 @@
-17a. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^594]
+17a. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^597]
 
 Cégjogi esemény, befolyásszerzés esetén a kérelemhez benyújtandó iratok és adatok
 
@@ -38,17 +38,4 @@ Cégjogi esemény, befolyásszerzés esetén a kérelemhez benyújtandó iratok 
 
 2.6. a tevékenység folytatásához szükséges szakszemélyzet rendelkezésre állásának bemutatásáról szóló nyilatkozat, kivéve a VET 74. § (1) bekezdés e) és l) pontjai szerinti engedélyesek esetében,
 
-2.7. telephelyi megosztás esetén a telephelyi megosztás bemutatását tartalmazó nyilatkozat, különös tekintettel az engedélyesi tevékenység megosztás utáni független és folyamatos továbbműködését biztosító műszaki átalakítási igényekre és elszámolási mérők kiépítésére.
-
-3. A 83. § (1) bekezdés b) pontja szerinti kérelemhez az 1. pont szerinti iratokon és adatokon kívül benyújtandó iratok és adatok:
-
-3.1. a befolyásszerző kérelmező teljes bizonyító erejű magánokiratba foglalt nyilatkozata arra vonatkozóan, hogy hozzájárul a kérelemhez mellékelt iratokban foglaltak valódiságának a Hivatal által megkeresett szervek útján történő ellenőrzéséhez,
-
-3.2. a befolyásszerzésre irányuló ügyletet megelőző, valamint az ügylet zárása után kialakuló társasági (engedélyesi) struktúrát mutató ábra a közvetlen tulajdoni és irányítási viszonyok, továbbá – a VET 74. § (1) bekezdés a), e) és l) pontjai szerinti engedélyesek kivételével – az engedélyesi szakszemélyzet létszáma változásának feltüntetésével,
-
-3.3. a befolyásszerző kérelmező és kapcsolt vállalkozásai magyarországi energiaipari befektetéseinek és részesedéseinek és azok mértékének bemutatása a VET és a földgázellátásról szóló törvény hatálya alá tartozó engedélyesekben,
-
-3.4.[^595] az ügyletre vonatkozó szerződés, valamint a döntéshozó befolyásszerzés megvalósításáról szóló döntése.
-
-[^594]: A Vhr. 17a. számú mellékletét a 80/2019. (IV. 15.) Korm. rendelet 15. § (4) bekezdése iktatta be.
-[^595]: A Vhr. 17a. számú melléklet 3. pont 3.4. alpontja a 401/2020. (VIII. 17.) Korm. rendelet 15. § h) pontja szerint módosított szöveg.
+[^597]: A Vhr. 17a. számú mellékletét a 80/2019. (IV. 15.) Korm. rendelet 15. § (4) bekezdése iktatta be.

@@ -1,12 +1,12 @@
-## A villamosenergia-ellátásból történő kikapcsolás alóli mentességre vonatkozó részletes szabályok[^196]
+## A villamosenergia-ellátásból történő kikapcsolás alóli mentességre vonatkozó részletes szabályok[^199]
 
-29/A. §[^197] A VET és e rendelet alkalmazásában közintézményi felhasználó
+29/A. §[^200] A VET és e rendelet alkalmazásában közintézményi felhasználó
 
-a)[^198] az óvoda, általános iskola, gyógypedagógiai, konduktív pedagógiai óvoda, iskola vagy szakképző intézmény, és az ezekhez tartozó kollégium, ha
+a)[^201] az óvoda, általános iskola, gyógypedagógiai, konduktív pedagógiai óvoda, iskola vagy szakképző intézmény, és az ezekhez tartozó kollégium, ha
 
 aa) állami vagy önkormányzati fenntartású, vagy
 
-ab)[^199] állami vagy önkormányzati feladatok ellátására hatályos köznevelési szerződéssel, fenntartói megállapodással, illetve együttműködési megállapodással rendelkezik,
+ab)[^202] állami vagy önkormányzati feladatok ellátására hatályos köznevelési szerződéssel, fenntartói megállapodással, illetve együttműködési megállapodással rendelkezik,
 
 b) a szociális igazgatásról és a szociális ellátásokról szóló törvény szerinti ápolást, gondozást nyújtó intézmény, rehabilitációs intézmény, lakóotthon, átmeneti elhelyezést nyújtó intézmény, valamint a hajléktalan személyek nappali ellátását biztosító szociális intézmény, ha
 
@@ -14,7 +14,7 @@ ba) állami vagy önkormányzati fenntartású, vagy
 
 bb) állami vagy önkormányzati feladatok ellátására hatályos ellátási szerződéssel rendelkezik,
 
-c)[^200] a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti bölcsődei ellátást nyújtó intézmény és szolgáltató, napközbeni gyermekfelügyelet, gyermekek átmeneti otthona, családok átmeneti otthona, gyermekotthon, lakásotthon, utógondozói otthon és javítóintézet, ha
+c)[^203] a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti bölcsődei ellátást nyújtó intézmény és szolgáltató, napközbeni gyermekfelügyelet, gyermekek átmeneti otthona, családok átmeneti otthona, gyermekotthon, lakásotthon, utógondozói otthon és javítóintézet, ha
 
 ca) állami vagy önkormányzati fenntartású, vagy
 
@@ -26,8 +26,8 @@ da) állami vagy önkormányzati fenntartású, vagy
 
 db) egészségügyi közszolgáltatás biztosítására vonatkozó hatályos szerződéssel rendelkezik.
 
-[^196]: A Vhr. 29/A. §-át megelőző alcímet a 378/2011. (XII. 31.) Korm. rendelet 10. §-a iktatta be.
-[^197]: A Vhr. 29/A. §-át a 378/2011. (XII. 31.) Korm. rendelet 10. §-a iktatta be.
-[^198]: A Vhr. 29/A. § a) pont nyitó szövegrésze a 13/2020. (II. 7.) Korm. rendelet 37. § 2. pontja szerint módosított szöveg.
-[^199]: A Vhr. 29/A. § a) pont ab) alpontja a 13/2020. (II. 7.) Korm. rendelet 37. § 3. pontja szerint módosított szöveg.
-[^200]: A Vhr. 29/A. § c) pont nyitó szövegrésze a 191/2016. (VII. 13.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^199]: A Vhr. 29/A. §-át megelőző alcímet a 378/2011. (XII. 31.) Korm. rendelet 10. §-a iktatta be.
+[^200]: A Vhr. 29/A. §-át a 378/2011. (XII. 31.) Korm. rendelet 10. §-a iktatta be.
+[^201]: A Vhr. 29/A. § a) pont nyitó szövegrésze a 13/2020. (II. 7.) Korm. rendelet 37. § 2. pontja szerint módosított szöveg.
+[^202]: A Vhr. 29/A. § a) pont ab) alpontja a 13/2020. (II. 7.) Korm. rendelet 37. § 3. pontja szerint módosított szöveg.
+[^203]: A Vhr. 29/A. § c) pont nyitó szövegrésze a 191/2016. (VII. 13.) Korm. rendelet 9. §-a szerint módosított szöveg.
