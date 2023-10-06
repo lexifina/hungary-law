@@ -8,4 +8,7 @@ E rendelet hatálya alá nem tartozó projektek
 
 | 2. | KEHOP-2.2.2. | Budapest XIII. kerület, Béke téri tehermentesítő főgyűjtőcsatorna építése | Budapest Főváros Önkormányzata |
 
+| 3.[^56] | KEHOP-2.2.2. | Piliscsaba szennyvíztisztító-telep kapacitásbővítése | Piliscsaba Város Önkormányzata |
+
 [^55]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 141/2019. (VI. 19.) Korm. rendelet 2. §-a iktatta be.
+[^56]: Az 1. mellékletben foglalt táblázat 3. sorát a 458/2023. (X. 5.) Korm. rendelet 1. §-a iktatta be.
