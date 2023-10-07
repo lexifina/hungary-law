@@ -2,7 +2,7 @@
 
 (2) A szén-dioxid kvóta adó alapja az (1) bekezdés szerinti adóalanynak az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény (a továbbiakban: Ügkr. tv.) 2. § 14. pontja szerinti kibocsátásának tCO2-ben számított mennyisége.
 
-(3) A szén-dioxid kvóta adó mértéke 40 EUR/tCO2-vel egyenértékű magyar forintnak megfelelő összeg.
+(3)[^6] A szén-dioxid kvóta adó mértéke 36 EUR/tCO2-vel egyenértékű magyar forintnak megfelelő összeg.
 
 (4) Az adózót adóelőleg megállapítási, bevallási és fizetési kötelezettség terheli, amelyre negyedévente, a tárgynegyedévet követő második hónap 15. napjáig kötelezett a naptári negyedévre vonatkozó kibocsátási adatok megküldésével egyidejűleg. Az adóelőleg összege a 3. § (2) bekezdése szerinti adóalap tárgynegyedévre vonatkozóan számított összege, amelynek forintra történő átszámításánál a Magyar Nemzeti Bank által a tárgynegyedév utolsó napján közzétett hivatalos középárfolyamot kell alkalmazni.
 
@@ -14,10 +14,13 @@ a) az adóalany szén-dioxid kibocsátással járó termelésének szintje legal
 
 b) az adóalanynak az e rendelet hatálybalépésekor hatályos egységes környezethasználati engedélyében foglalt, a főtevékenységéhez tartozó kapacitása a tárgyévet megelőző évi egységes környezethasználati engedélyében foglalt kapacitásához képest nem csökkent, és
 
-c) az adóalany fajlagos – egységnyi előállított termékre eső – szén-dioxid kibocsátása legalább az Európai Unió emisszió-kereskedelmi rendszerében használt, az Európai Unió által elvárt – a tárgyévben hatályos – lineáris csökkentési tényezővel megegyező mértékben csökkent,
+c)[^7] az adóalany fajlagos – egységnyi előállított termékre eső – szén-dioxid kibocsátása legalább az Európai Unió emisszió-kereskedelmi rendszerében használt, az Európai Unió által elvárt – a tárgyévben hatályos – lineáris csökkentési tényezővel megegyező mértékben csökkent a tárgyévet megelőző második év hitelesített kibocsátásához képest,
 
 az adóalany jogosult az adó alapját adóbevallásában 50%-kal csökkenteni.
 
 (7) A klímavédelemért felelős hatóság az állami adó- és vámhatóság részére az éves kibocsátási jelentés adatairól elektronikus úton a tárgyévet követő év április 30. napjáig szolgáltat adatot.
 
 (8) Az e §-ban nem szabályozott kérdésekben az adóigazgatási rendtartásról szóló 2017. évi CLI. törvény és az adózás rendjéről szóló 2017. évi CL. törvény rendelkezései az irányadók.
+
+[^6]: A 3. § (3) bekezdése a 452/2023. (X. 4.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^7]: A 3. § (6) bekezdés c) pontja a 452/2023. (X. 4.) Korm. rendelet 3. §-ával megállapított szöveg.
