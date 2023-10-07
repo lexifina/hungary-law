@@ -1,1 +1,3 @@
-2. § Az egyházi jogi személyek, a nemzetiségi önkormányzatok és a magán fenntartók által fenntartott köznevelési és szakképző intézményben foglalkoztatott, a nemzetiségi nevelési-oktatási feladatokat ellátó pedagógusok bérfejlesztéséhez nyújtott 2023. évi kiegészítő költségvetési támogatásáról szóló 70/2023. (III. 10.) Korm. rendelet az 1. melléklet szerinti 2. melléklettel egészül ki.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
