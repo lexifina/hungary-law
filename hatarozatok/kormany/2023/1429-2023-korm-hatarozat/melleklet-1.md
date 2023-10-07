@@ -8,20 +8,11 @@
 
 | Határidő: | a Környezeti és Energiahatékonysági Operatív Program zárójelentésének összeállítása, illetve folyamatos |
 
-## 2. Az 1084/2016. (II. 29.) Korm. határozat 2. melléklete az 1. melléklet szerint módosul.
+## 2.[^1]
 
 ## 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
-1. melléklet az 1429/2023. (X. 5.) Korm. határozathoz
+1. melléklet az 1429/2023. (X. 5.) Korm. határozathoz[^2]
 
-Az 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat a következő 316ac. sorral egészül ki:
-
-|  | [A | B | C | D | E | F | G |
-
-| 1. | Felhívás azonosító jele | Projekt megnevezése | Támogatást igénylő neve | Projekt indikatív támogatási kerete (Mrd Ft) | Magyarország központi költségve- téséből megtéríthető indikatív önerő (Mrd Ft) | Projekt benyúj-tásának várható ideje | Szakmai elvárások] |
-
-„
-
-| 316ac. | KEHOP-2.2.2. | Piliscsaba szennyvíz- tisztító-telep kapacitás- bővítése | Piliscsaba Város Önkormányzata | 0,36 | 0,02 | 2023 | A fejlesztés célja Piliscsaba város szennyvíztisztító telepének kapacitásbővítése. A fejlesztés során újra üzembe helyezik az üzemen kívül álló tisztító-medencéket. |
-
-”
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
