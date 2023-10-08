@@ -1,1 +1,3 @@
-5. § A Rendelet 3. § (3) bekezdésében a „40” szövegrész helyébe a „36” szöveg lép.
+5. §[^6]
+
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

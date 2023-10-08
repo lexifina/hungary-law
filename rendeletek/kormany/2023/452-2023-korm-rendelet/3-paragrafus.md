@@ -1,3 +1,3 @@
-3. § A Rendelet 3. § (6) bekezdés c) pontja helyébe a következő rendelkezés lép:
+3. §[^4]
 
-[Ha az (1) bekezdés szerinti adóalany Ügkr. tv. szerinti, tárgyévre vonatkozó hitelesített éves kibocsátási jelentése (a továbbiakban: éves kibocsátási jelentés) alapján]
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
