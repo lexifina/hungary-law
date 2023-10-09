@@ -18,9 +18,15 @@
 
 | Határidő: | 2023. december 31. |
 
-## 5. felhívja az agrárminisztert, a Miniszterelnöki Kabinetirodát vezető minisztert és a területfejlesztési minisztert, hogy gondoskodjanak az 1. melléklet szerinti programok vonatkozásában az ahhoz szükséges intézkedések megtételéről, hogy az Európai Bizottság Magyarország központi költségvetése részére legalább 2300,0 millió euró összegű átutalást teljesítsen;
+## 5.[^1] felhívja az agrárminisztert, a Miniszterelnöki Kabinetirodát vezető minisztert és a területfejlesztési minisztert, hogy gondoskodjanak az 1. melléklet szerinti programok vonatkozásában az ahhoz szükséges intézkedések megtételéről, hogy az Európai Bizottság Magyarország központi költségvetése részére legalább 2500,0 millió euró összegű átutalást teljesítsen;
 
 | Felelős: | agrárminiszter Miniszterelnöki Kabinetirodát vezető miniszter területfejlesztési miniszter |
+
+| Határidő: | 2023. december 31. |
+
+## 5a.[^2] felhívja a területfejlesztési minisztert, hogy gondoskodjon a Végrehajtás Operatív Program Plusz vonatkozásában az ahhoz szükséges intézkedések megtételéről, hogy az Európai Bizottság Magyarország központi költségvetése részére legalább 137,0 millió euró összegű átutalást teljesítsen;
+
+| Felelős: | területfejlesztési miniszter |
 
 | Határidő: | 2023. december 31. |
 
@@ -60,26 +66,39 @@
 
 | 1. | Program végrehajtásáért felelős minisztérium | Program | Benyújtási terv (millió euró) | Kifizetési terv (milliárd forint) |
 
-| 2. | Miniszterelnökség | Emberi Erőforrás Fejlesztési Operatív Program | 383,3 | 185,0 |
+| 2. | Miniszterelnökség | Emberi Erőforrás Fejlesztési Operatív Program | 1011,0[^3] | 185,0 |
 
 | 3. | Rászoruló Személyeket Támogató Operatív Program | 8,6 | 1,0 |
 
-| 4. | Gazdaságfejlesztési és Innovációs Operatív Program | 454,9 | 367,6 |
+| 4. | Gazdaságfejlesztési és Innovációs Operatív Program | 618,0[^4] | 367,6 |
 
 | 5. | Terület- és Településfejlesztési Operatív Program | 524,2 | 76,7 |
 
 | 6. | Versenyképes Közép-Magyarország Operatív Program | 62,9 | 28,2 |
 
-| 7. | Integrált Közlekedésfejlesztési Operatív Program | 36,0 | 167,6 |
+| 7. | Integrált Közlekedésfejlesztési Operatív Program | 140,0[^5] | 190,0[^6] |
 
-| 8. | Környezet és Energiahatékonysági Operatív Program | 1000,7 | 310,3 |
+| 8. | Környezet és Energiahatékonysági Operatív Program | 900,6[^7] | 300,0[^8] |
 
-| 9. | Miniszterelnöki Kabinetiroda | Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program | 103,6 | 27,1 |
+| 9. | Miniszterelnöki Kabinetiroda | Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program | 112,4[^9] | 27,1 |
 
 | 10. | Agrárminisztérium | Magyar Halgazdálkodási Operatív Program | 4,7 | 3,0 |
 
-| 11. | Vidékfejlesztési Program | 650,0 | 575,0 |
+| 11. | Vidékfejlesztési Program | 879,3[^10] | 575,0 |
 
-| 12. | Összesen (2014–2020 Operatív Programok) | 3228,9 | 1741,5 |
+| 12. | Összesen (2014–2020 Operatív Programok) | 4261,7[^11] | 1753,6[^12] |
 
 | 13. | Külgazdasági és Külügyminisztérium | Hazai irányító hatósággal rendelkező, bilaterális Határmenti Európai Területi Együttműködési Programok | 44,0 | n. r. |
+
+[^1]: Az 5. pont az 1437/2023. (X. 9.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^2]: Az 5a. pontot az 1437/2023. (X. 9.) Korm. határozat 1. pontja iktatta be.
+[^3]: Az 1. mellékletben foglalt táblázat C:2 mezője az 1437/2023. (X. 9.) Korm. határozat 3. pont a) pontjával megállapított szöveg.
+[^4]: Az 1. mellékletben foglalt táblázat C:4 mezője az 1437/2023. (X. 9.) Korm. határozat 3. pont b) pontjával megállapított szöveg.
+[^5]: Az 1. mellékletben foglalt táblázat C:7 mezője az 1437/2023. (X. 9.) Korm. határozat 3. pont c) pontjával megállapított szöveg.
+[^6]: Az 1. mellékletben foglalt táblázat D:7 mezője az 1437/2023. (X. 9.) Korm. határozat 3. pont d) pontjával megállapított szöveg.
+[^7]: Az 1. mellékletben foglalt táblázat C:8 mezője az 1437/2023. (X. 9.) Korm. határozat 3. pont e) pontjával megállapított szöveg.
+[^8]: Az 1. mellékletben foglalt táblázat D:8 mezője az 1437/2023. (X. 9.) Korm. határozat 3. pont f) pontjával megállapított szöveg.
+[^9]: Az 1. mellékletben foglalt táblázat C:9 mezője az 1437/2023. (X. 9.) Korm. határozat 3. pont g) pontjával megállapított szöveg.
+[^10]: Az 1. mellékletben foglalt táblázat C:11 mezője az 1437/2023. (X. 9.) Korm. határozat 3. pont h) pontjával megállapított szöveg.
+[^11]: Az 1. mellékletben foglalt táblázat C:12 mezője az 1437/2023. (X. 9.) Korm. határozat 3. pont i) pontjával megállapított szöveg.
+[^12]: Az 1. mellékletben foglalt táblázat D:12 mezője az 1437/2023. (X. 9.) Korm. határozat 3. pont j) pontjával megállapított szöveg.
