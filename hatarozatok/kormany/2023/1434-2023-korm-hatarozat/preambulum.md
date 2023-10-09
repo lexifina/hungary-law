@@ -1,0 +1,1 @@
+A Kormány egyes köznevelési intézmények biztonságos feladatellátása feltételeinek halaszthatatlan megteremtése érdekében
