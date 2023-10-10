@@ -1,0 +1,55 @@
+## 1. A Kormány
+
+## a) egyetért a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet 4. § (1) bekezdés c) és f) pontjában foglalt feladatkörében eljárva az IKOP-2.1.0-15-2016-00027 azonosító számú, „Bajai Közforgalmú Kikötő fejlesztése” című projekt (a továbbiakban: Projekt) támogatási összegének 1. melléklet szerinti módosításával;
+
+## b) egyetért a Projekt 443 721 263 forint összegű többlettámogatásának az Integrált Közlekedésfejlesztési Operatív Program (a továbbiakban: IKOP) 2. prioritás pénzügyi kerete terhére történő finanszírozásával;
+
+## c) egyetért a Projekt – a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet 3. § (1) bekezdés 49. pontja szerinti – szakaszolásával;
+
+## d) egyetért a Projekt forrásszerkezetének 1. melléklet szerinti módosításával;
+
+## e) az Uniós fejlesztések fejezetbe tartozó fejezeti és központi kezelésű előirányzatok felhasználásának rendjéről szóló 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján úgy határoz, hogy az 1. mellékletben foglalt táblázat N:4 mezőjében meghatározott, összesen legfeljebb nettó 850 668 434 forint összeg a központi költségvetés XIX. Uniós fejlesztések fejezet Integrált Közlekedésfejlesztési OP (IKOP) hazai társfinanszírozáson felüli felhasználásával kerüljön finanszírozásra ideiglenesen, a projekt második szakaszára vonatkozó, Integrált Közlekedésfejlesztés OP Plusz (a továbbiakban: IKOP Plusz) terhére megkötésre kerülő támogatási szerződés hatálybalépéséig;
+
+## f) felhívja a területfejlesztési minisztert, hogy gondoskodjon a Projekt első szakasza tekintetében a támogatási szerződés 1. melléklet szerinti módosításáról;
+
+| Felelős: | területfejlesztési miniszter |
+
+| Határidő: | 2023. október 31. |
+
+## g) felhívja az építési és közlekedési minisztert és a területfejlesztési minisztert, hogy az IKOP Plusz operatív programmal összefüggő tervezési tevékenysége során vegyék figyelembe a Projekt 1. mellékletben meghatározott költségeit;
+
+| Felelős: | építési és közlekedési miniszter területfejlesztési miniszter |
+
+| Határidő: | folyamatos |
+
+## h) felhívja a területfejlesztési minisztert, hogy gondoskodjon a Projekt második szakaszára vonatkozó támogatási szerződés megkötéséről.
+
+| Felelős: | területfejlesztési miniszter |
+
+| Határidő: | az IKOP Pluszban a Projektre vonatkozó felhívás megjelenését követő 60 napon belül |
+
+## 2. Ez a határozat a közzétételét követő napon lép hatályba.
+
+## 3. Az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1247/2016. (V. 18.) Korm. határozat
+
+## a) 1. pont f) alpont fa) pont faa) alpontjában a „244,83%-áig” szövegrész helyébe a „244,75%-áig” szöveg,
+
+## b) 1. melléklet 2. pontjában foglalt táblázat C:2 mezőjében az „1 225,828” szövegrész helyébe az „1 225,421” szöveg,
+
+## c) 2. mellékletében foglalt táblázat D:61 mezőjében a „3,62” szövegrész helyébe a „3,95” szöveg
+
+## lép.
+
+1. melléklet az 1439/2023. (X. 9.) Korm. határozathoz
+
+|  | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S |
+
+| 1. | Projekt azonosító száma | Projekt megnevezése | Támogatást igénylő neve | Projekt eredeti támogatási intenzitása és forrásszerkezete | Projekt támogatási intenzitása és forrásszerkezete a módosítás után | Projekt összköltsége (forint) | Projekt rövid bemutatása |
+
+| 2. | Projekt támogatási intenzitása | Projekt Integrált Közlekedésfejlesztési Operatív Program (a továbbiakban: IKOP) keretében finanszírozandó támogatásának összege (forint) |  | Projekt részére a Fejezet Integrált Közlekedésfejlesztési OP (IKOP) előirányzatának (a továbbiakban: IKOP-előirányzat) hazai társfinanszírozáson felüli felhasználásával biztosítandó forrás | Projekt támogatási intenzitása | Projekt IKOP keretében finanszírozandó támogatás összege (forint) |  | Projekt részére az IKOP-előirányzat hazai társfinanszírozáson felüli felhasználásával biztosítandó forrás | Projekt IKOP Plusz keretében finanszírozandó támogatás összege (forint) |  | Projekt részére az IKOP Plusz előirányzat hazai társfinanszírozáson felüli felhasználásával biztosítandó forrás |
+
+| 3. | Kedvezményezett által biztosított önerő (forint) | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege (forint) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés b) pontja alapján | Az EU felé el nem számolható költségek összege (forint) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján | Kedvezményezett által biztosított önerő (forint) | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege (forint) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés b) pontja alapján | Az EU felé el nem számolható költségek összege (forint) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján | Kedvezményezett által biztosított önerő (forint) | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege (forint) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés b) pontja alapján | Az EU felé el nem számolható költségek összege (forint) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján |
+
+| 4. | IKOP-2.1.0-15-2016-00027 | Bajai Közforgalmú Kikötő fejlesztése | Bajai Országos Közforgalmú Kikötőműködtető Korlátolt Felelősségű Társaság | 94,99% | 3 502 132 181 | 184 710 835 | 0 | 0 | 94,99% | 3 095 185 010 | 163 247 467 | 0 | 0 | 850 668 434[^*] | 44 866 290 | 0 | 0 | 4 153 967 201 | A tervezett beruházás megvalósítása elősegíti a Bajai Kikötő meglévő infrastruktúrájának korszerűsítését, szolgáltatási színvonalának növekedését, ezáltal forgalomnövekedést generál. |
+
+[^*]: Az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján az IKOP hazai társfinanszírozáson felüli felhasználásával kerül finanszírozásra ideiglenesen, a projekt második szakaszára vonatkozó, IKOP Plusz terhére megkötésre kerülő támogatási szerződés hatálybalépéséig.
