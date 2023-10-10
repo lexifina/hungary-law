@@ -46,7 +46,7 @@
 
 | 21. | 1514 | Repce- és mustárolaj és ezek frakciói, finomítva is, de vegyileg nem átalakítva |
 
-| 22. | 1701 | Nád- vagy répacukor és vegytiszta szacharóz szilárd állapotban |
+| 22.[^11] |  |  |
 
 | 23. | 1905 10 00 | Ropogós kenyér |
 
@@ -55,3 +55,4 @@
 | 25. | 2204 | Bor friss szőlőből, beleértve a szeszezett bort is; szőlőmust (kivéve a szőlőlevet) és kivéve a 2209 vtsz alá tartozó borecetet |
 
 [^10]: Az 1. melléklet a 224/2023. (VI. 6.) Korm. rendelet 2. §-ával, az 1. mellékletben foglalt táblázat a 430/2023. (IX. 15.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^11]: Az 1. mellékletben foglalt táblázat 22. sorát a 464/2023. (X. 9.) Korm. rendelet 1. §-a hatályon kívül helyezte.
