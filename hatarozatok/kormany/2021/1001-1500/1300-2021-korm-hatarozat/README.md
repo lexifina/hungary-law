@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-1300-30
 | 2022-04-30 | 2021-1300-30-22.5 | 1849/2021. (XI. 30.) Korm. határozat |
 | 2022-10-14 | 2021-1300-30-22.6 | 1849/2021. (XI. 30.) Korm. határozat |
 | 2023-08-08 | 2021-1300-30-22.7 | 1369/2023. (VIII. 7.) Korm. határozat |
+| 2023-10-10 | 2021-1300-30-22.8 | 1438/2023. (X. 9.) Korm. határozat |
