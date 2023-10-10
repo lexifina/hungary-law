@@ -1,1 +1,0 @@
-Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (2a) bekezdés 2. pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 116. § 8. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
