@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-673-20-
 | 2022-06-15 | 2020-673-20-22.9 | 208/2022. (VI. 14.) Korm. rendelet |
 | 2022-09-06 | 2020-673-20-22.10 | 773/2021. (XII. 23.) Korm. rendelet |
 | 2023-01-01 | 2020-673-20-22.11 | 628/2022. (XII. 30.) Korm. rendelet |
+| 2023-10-10 | 2020-673-20-22.12 | 465/2023. (X. 9.) Korm. rendelet |

@@ -2,7 +2,7 @@
 
 12. § (1) A KSZDR Központ, illetve a KSZDR informatikai üzemeltetést végző szervezet (ezen alcím vonatkozásában a továbbiakban együtt: adatfeldolgozó) és a KSZDR szervezet (ezen alcím alkalmazásában a továbbiakban: adatkezelő) közötti adatfeldolgozói jogviszonyban az adatfeldolgozó
 
-a) a személyes adatokat kizárólag az adatkezelő utasításai alapján kezeli, azokkal kapcsolatban kizárólag a Tv. és e § szerinti műveleteket végezheti,
+a)[^8] a személyes adatokat az adatkezelő utasításai vagy a Tv. és e § rendelkezései alapján kezeli,
 
 b) biztosítja azt, hogy az adatfeldolgozói feladatkörével kapcsolatos feladatokat ellátó személyek titoktartási kötelezettséget vállalnak vagy jogszabályon alapuló megfelelő titoktartási kötelezettség alatt állnak,
 
@@ -29,3 +29,5 @@ b) a személyes adatok kezelésére használt rendszerek és szolgáltatások fo
 c) fizikai vagy műszaki incidens esetén az arra való képességet, hogy a személyes adatokhoz való hozzáférést és az adatok rendelkezésre állását kellő időben vissza lehet állítani,
 
 d) az adatkezelés biztonságának garantálására hozott technikai és szervezési intézkedések hatékonyságának rendszeres tesztelésére, felmérésére és értékelésére szolgáló eljárást.
+
+[^8]: A 12. § (1) bekezdés a) pontja a 465/2023. (X. 9.) Korm. rendelet 1. §-ával megállapított szöveg.
