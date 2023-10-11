@@ -30,15 +30,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1247/2016. (V. 18.) Korm. határozat
-
-## a) 1. pont f) alpont fa) pont faa) alpontjában a „244,83%-áig” szövegrész helyébe a „244,75%-áig” szöveg,
-
-## b) 1. melléklet 2. pontjában foglalt táblázat C:2 mezőjében az „1 225,828” szövegrész helyébe az „1 225,421” szöveg,
-
-## c) 2. mellékletében foglalt táblázat D:61 mezőjében a „3,62” szövegrész helyébe a „3,95” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1439/2023. (X. 9.) Korm. határozathoz
 
@@ -52,4 +44,5 @@
 
 | 4. | IKOP-2.1.0-15-2016-00027 | Bajai Közforgalmú Kikötő fejlesztése | Bajai Országos Közforgalmú Kikötőműködtető Korlátolt Felelősségű Társaság | 94,99% | 3 502 132 181 | 184 710 835 | 0 | 0 | 94,99% | 3 095 185 010 | 163 247 467 | 0 | 0 | 850 668 434[^*] | 44 866 290 | 0 | 0 | 4 153 967 201 | A tervezett beruházás megvalósítása elősegíti a Bajai Kikötő meglévő infrastruktúrájának korszerűsítését, szolgáltatási színvonalának növekedését, ezáltal forgalomnövekedést generál. |
 
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^*]: Az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján az IKOP hazai társfinanszírozáson felüli felhasználásával kerül finanszírozásra ideiglenesen, a projekt második szakaszára vonatkozó, IKOP Plusz terhére megkötésre kerülő támogatási szerződés hatálybalépéséig.
