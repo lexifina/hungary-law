@@ -1,1 +1,3 @@
-6. § Hatályát veszti a minimális építőipari rezsióradíj 2021. évi mértékéről szóló 56/2021. (XI. 19.) ITM rendelet.
+6. §[^2]
+
+[^2]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-18-20-8
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2023-10-10 | 2023-18-20-8X.1 | 18/2023. (X. 5.) ÉKM rendelet |
+| 2023-10-11 | 2023-18-20-8X.2 | 44/2024. (XII. 20.) ÉKM rendelet |
