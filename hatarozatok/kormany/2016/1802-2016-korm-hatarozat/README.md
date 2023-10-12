@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1802-30
 | 2017-04-10 | 2016-1802-30-22.3 | 1198/2017. (IV. 10.) Korm. határozat |
 | 2017-09-22 | 2016-1802-30-22.4 | 1198/2017. (IV. 10.) Korm. határozat |
 | 2019-06-26 | 2016-1802-30-22.5 | 1380/2019. (VI. 26.) Korm. határozat |
+| 2023-10-12 | 2016-1802-30-22.6 | 1443/2023. (X. 12.) Korm. határozat |
