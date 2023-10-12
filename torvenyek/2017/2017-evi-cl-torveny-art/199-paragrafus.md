@@ -4,4 +4,8 @@
 
 (2) A vállalkozási tevékenységet nem folytató, általános forgalmi adó fizetésére nem kötelezett természetes személy – a bevallás benyújtására előírt határidőig – személyi jövedelemadó-bevallásában nyilatkozhat úgy, hogy a bevallott, együttesen ötszázezer forintot meg nem haladó személyi jövedelemadó és szociális hozzájárulási adó-fizetési kötelezettségét pótlékmentes részletfizetés keretében, az esedékességtől számított legfeljebb tizenkettő hónapon keresztül, havonként egyenlő részletekben teljesíti. Az első részlet megfizetésének határideje a személyi jövedelemadó fizetési kötelezettség törvényben meghatározott esedékességének napja. A nyilatkozat megtételére előírt határidő jogvesztő.
 
-(3) Ha az adózó az esedékes részlet befizetését nem teljesíti, az (1) és (2) bekezdés szerinti kedvezményre való jogosultságát elveszti, és a tartozás egy összegben esedékessé válik. Ebben az esetben az adóhatóság a tartozás fennmaradó részére az eredeti esedékesség napjától késedelmi pótlékot számít fel.
+(2a) A nem természetes személy adózó kérelmére az adóhatóság az általa nyilvántartott, legfeljebb egymillió forint összegű adótartozásra évente egy alkalommal legfeljebb hathavi pótlékmentes részletfizetést engedélyez.
+
+(3) Ha az adózó az esedékes részlet befizetését nem teljesíti, az (1)–(2a) bekezdés szerinti kedvezményre való jogosultságát elveszti, és a tartozás egy összegben esedékessé válik. Ebben az esetben az adóhatóság a tartozás fennmaradó részére az eredeti esedékesség napjától késedelmi pótlékot számít fel.
+
+(4) Az (1)–(1a) és a (2a) bekezdés szerint engedélyezett részletfizetésről szóló határozat ellen fellebbezésnek helye nincs.
