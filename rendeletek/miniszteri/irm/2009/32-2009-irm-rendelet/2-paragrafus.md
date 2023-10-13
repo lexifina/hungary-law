@@ -6,41 +6,41 @@
 
 Melléklet a 32/2009. (VIII. 19.) IRM rendelethez
 
-A. Lőfegyverek, gránátvetők[^3]
+A.[^3] Lőfegyverek, gránátvetők
 
-1. 7,65 mm-es Browning tölténnyel működő pisztolyok,
+1. 7,65 mm-es Browning lőszerrel működő pisztolyok,
 
-2. 7,65 mm-es Browning tölténnyel működő géppisztolyok,
+2. 7,65 mm-es Browning lőszerrel működő géppisztolyok,
 
-3. 9 mm-es Makarov tölténnyel működő pisztolyok,
+3. 9 mm-es Makarov lőszerrel működő pisztolyok,
 
-4. 9 mm-es Makarov tölténnyel működő géppisztolyok,
+4. 9 mm-es Makarov lőszerrel működő géppisztolyok,
 
-5. 9 mm-es Parabellum tölténnyel működő pisztolyok,
+5. 9 mm-es Parabellum lőszerrel működő pisztolyok,
 
-6. 9 mm-es Parabellum tölténnyel működő géppisztolyok,
+6. 9 mm-es Parabellum lőszerrel működő géppisztolyok,
 
-7. 7,62 mm-es 43M tölténnyel működő gépkarabélyok,
+7. 7,62 mm-es 43M lőszerrel működő gépkarabélyok,
 
-8. 7,62 mm-es 39M tölténnyel működő mesterlövő puskák,
+8. 7,62 mm-es 39M lőszerrel működő mesterlövő puskák,
 
-9. 7,62 mm-es 39M tölténnyel működő géppuskák,
+9. 7,62 mm-es 39M lőszerrel működő géppuskák,
 
-10. 7,62 mm-es 39M tölténnyel működő toronygéppuskák,
+10. 7,62 mm-es 39M lőszerrel működő toronygéppuskák,
 
-11. 12,7 mm-es tölténnyel működő mesterlövő puskák,
+11. 12,7 mm-es lőszerrel működő mesterlövő puskák,
 
-12. 14,5 mm-es tölténnyel működő toronygéppuskák,
+12. 14,5 mm-es lőszerrel működő toronygéppuskák,
 
-13. 5,56 mm-es .223-as tölténnyel működő gépkarabélyok,
+13. 5,56×45 mm-es lőszerrel működő gépkarabélyok,
 
-14. 7,62x51 mm-es NATO tölténnyel működő puskák, mesterlövő puskák,
+14. 7,62×51 mm-es NATO lőszerrel működő puskák, mesterlövő puskák,
 
-15. .308-as kaliberű tölténnyel működő puskák, mesterlövő puskák,
+15. .308-as kaliberű lőszerrel működő puskák, mesterlövő puskák,
 
-16. .338-as kaliberű tölténnyel működő mesterlövő puskák,
+16. .338-as kaliberű lőszerrel működő mesterlövő puskák,
 
-17. .45-ös kaliberű tölténnyel működő pisztolyok,
+17. .45-ös kaliberű lőszerrel működő pisztolyok,
 
 18. 12-es kaliberű előágytáras ismétlő vagy öntöltő (félautomata) sörétes puskák,
 
@@ -52,9 +52,25 @@ A. Lőfegyverek, gránátvetők[^3]
 
 22. Kézi páncélelhárító gránátvető,
 
-23.[^4] .22-es kaliberű tölténnyel működő puskák,
+23. .22-es kaliberű lőszerrel működő puskák,
 
-24.[^5] .22-es kaliberű tölténnyel működő pisztolyok.
+24. .22-es kaliberű lőszerrel működő pisztolyok,
+
+25. .223 Rem kaliberű lőszerrel működő gépkarabélyok,
+
+26. 4,6×30 mm űrméretű lőszerrel működő géppisztolyok,
+
+27. 4,6×30 mm űrméretű lőszerrel működő pisztolyok,
+
+28. .68 kaliberű lövedékkel működő pisztolyok,
+
+29. .68 kaliberű lövedékkel működő géppisztolyok,
+
+30. .300-as kaliberű lőszerrel működő gépkarabélyok,
+
+31. 5,7×28 mm-es lőszerrel működő pisztolyok,
+
+32. 5,7×28 mm-es lőszerrel működő géppisztolyok.
 
 B. Különféle rendőrbotok, ütőeszközök, hidegfegyverek és elektromos eszközök
 
@@ -68,7 +84,7 @@ B. Különféle rendőrbotok, ütőeszközök, hidegfegyverek és elektromos esz
 
 5. Kardok,
 
-6–7.[^6]
+6–7.[^4]
 
 C. Mozgásszabadságot korlátozó eszközök
 
@@ -86,7 +102,7 @@ C. Mozgásszabadságot korlátozó eszközök
 
 7. Személy- és gépjármű elfogó hálók,
 
-8.[^7]
+8.[^5]
 
 9. Tömegoszlató rácsok,
 
@@ -106,49 +122,59 @@ E. Speciális bevetési gépjárművek
 
 1. Vízágyúk.
 
-F. Lőfegyverek különféle töltényei, gránátvetők gránátjai[^8]
+F.[^6] Lőfegyverek különféle lőszerei, lövedékei, gránátvetők gránátjai
 
-1. 7,65 mm-es Browning pisztolytöltény különféle változatai,
+1. 7,65 mm-es Browning pisztolylőszer különféle változatai,
 
-2. 9 mm-es Makarov pisztolytöltény különféle változatai,
+2. 9 mm-es Makarov pisztolylőszer különféle változatai,
 
-3. 9 mm-es Parabellum pisztolytöltény különféle változatai,
+3. 9 mm-es Parabellum pisztolylőszer különféle változatai,
 
-4. 7,62 mm-es 43M karabély töltény különféle változatai,
+4. 7,62 mm-es 43M karabély lőszer különféle változatai,
 
-5. 7,62 mm-es 39M puskatöltény különféle változatai,
+5. 7,62 mm-es 39M puskalőszer különféle változatai,
 
-6. 12,7 mm-es töltény különféle változatai,
+6. 12,7 mm-es lőszer különféle változatai,
 
-7. 14,5 mm-es töltény különféle változatai,
+7. 14,5 mm-es lőszer különféle változatai,
 
-8. 5,56 mm-es .223-as kaliberű töltény különféle változatai,
+8. 5,56 mm-es lőszer különféle változatai,
 
-9. 7,62x51 mm-es NATO töltény különféle változatai,
+9. 7,62×51 mm-es NATO lőszer különféle változatai,
 
-10. .308-as kaliberű töltény különféle változatai,
+10. .308-as kaliberű lőszer különféle változatai,
 
-11. .338-as kaliberű töltény különféle változatai,
+11. .338-as kaliberű lőszer különféle változatai,
 
-12. .45-ös kaliberű töltény különféle változatai,
+12. .45-ös kaliberű lőszer különféle változatai,
 
-13. 12-es kaliberű töltények különféle változatai,
+13. 12-es kaliberű lőszer különféle változatai,
 
 14. Kumulatív (páncéltörő) gránát,
 
 15. 40 mm-es gránát különféle változatai,
 
-16. UKG könnygáz gránát,
+16. UKG könnygázgránát,
 
-17.[^9] .22-es kaliberű töltény különféle változatai.
+17. .22-es kaliberű lőszer különféle változatai,
+
+18. 4,6×30 mm űrméretű lőszer különféle változatai,
+
+19. .68 kaliberű lövedék különféle változatai,
+
+20. .300-as kaliberű lőszer különféle változatai,
+
+21. 5,7×28 mm-es lőszer különféle változatai,
+
+22. .223-as Rem kaliberű lőszer különféle változatai.
 
 G. Védekezésre, vagy akaratnyilvánításra képtelen állapotot előidéző, természetes vagy mesterséges hatóanyagú, könnyfakasztó, szemet, nyálkahártyát irritáló eszközök és anyagok
 
-1. Mesterséges vagy természetes hatóanyaggal szerelt könnygázszóró palackok, gázspray-k, habok,
+1.[^7] Mesterséges vagy természetes hatóanyaggal szerelt könnygázszóró palackok, gázspray-k, habok, gélek, jetek,
 
 2. Mesterséges vagy természetes hatóanyaggal szerelt univerzális (lőhető, dobható) könnygázgránát,
 
-3. Fegyverről, speciális vetőeszközről indítható, mesterséges vagy természetes hatóanyaggal szerelt könnygázgránát,
+3.[^8] Fegyverből, speciális vetőeszközből indítható, mesterséges vagy természetes hatóanyaggal szerelt könnygázgránát, illetve lövedék,
 
 4. Kézi működtetésű, dobható, mesterséges vagy természetes hatóanyaggal szerelt könnygázgránát,
 
@@ -160,10 +186,9 @@ H. A vízágyúk alkalmazásához szükséges kémiai anyagok
 
 [^1]: Az 1. § a 9/2010. (XII. 22.) BM rendelet 9. §-a szerint módosított szöveg.
 [^2]: A 2. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
-[^3]: A melléklet A. pontja a 9/2010. (XII. 22.) BM rendelet 6. §-ával megállapított szöveg.
-[^4]: A melléklet A. pont 23. alpontját a 46/2011. (XII. 9.) BM rendelet 1. §-a iktatta be.
-[^5]: A melléklet A. pont 24. alpontját a 46/2011. (XII. 9.) BM rendelet 1. §-a iktatta be.
-[^6]: A melléklet B pont 6–7. alpontját a 32/2010. (V. 12.) IRM rendelet 6. § (2) bekezdése hatályon kívül helyezte.
-[^7]: A melléklet C. pont 8. alpontját a 46/2011. (XII. 9.) BM rendelet 1. §-a hatályon kívül helyezte.
-[^8]: A melléklet F. pontja a 9/2010. (XII. 22.) BM rendelet 6. §-ával megállapított szöveg.
-[^9]: A melléklet F. pont 17. alpontját a 46/2011. (XII. 9.) BM rendelet 1. §-a iktatta be.
+[^3]: A melléklet A. pontja a 42/2023. (X. 12.) BM rendelet 1. §-ával megállapított szöveg.
+[^4]: A melléklet B pont 6–7. alpontját a 32/2010. (V. 12.) IRM rendelet 6. § (2) bekezdése hatályon kívül helyezte.
+[^5]: A melléklet C. pont 8. alpontját a 46/2011. (XII. 9.) BM rendelet 1. §-a hatályon kívül helyezte.
+[^6]: A melléklet F. pontja a 42/2023. (X. 12.) BM rendelet 1. §-ával megállapított szöveg.
+[^7]: A Melléklet G. pont 1. alpontja a 42/2023. (X. 12.) BM rendelet 1. §-ával megállapított szöveg.
+[^8]: A Melléklet G. pont 3. alpontja a 42/2023. (X. 12.) BM rendelet 1. §-ával megállapított szöveg.
