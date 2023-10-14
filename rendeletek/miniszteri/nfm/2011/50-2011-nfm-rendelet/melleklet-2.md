@@ -12,7 +12,7 @@
 
 | 6. | Bonyhád | Greenergy-Power Kft. | “FŰTŐMŰ” Kft. | 0 | 12 172 |
 
-| 7. | Budapest | Alpiq Csepel Kft. –kombinált ciklusú erőmű | BKM Nonprofit Zrt. | 99 140 000 | 4 8074 |
+| 7. | Budapest | Alpiq Csepel Kft. –kombinált ciklusú erőmű | BKM Nonprofit Zrt. | 99 140 000 | 4 807[^20] |
 
 | 8. | Budapest | Alpiq Csepel Kft. – kazán | BKM Nonprofit Zrt. | 0 | 12 703 |
 
@@ -104,9 +104,9 @@
 
 | 52. | Miskolc | MVM MIFŰ Kft. – Miskolc, Szarkahegy u. 21. | MIHŐ Kft. | 0 | 11 764 |
 
-| 53. | Mohács | Veolia Energia Magyarország Zrt. | MOHÁCS-HŐ Kft. | 0 | 7 329 |
+| 53. | Mohács | Veolia Energia Magyarország Zrt. | MOHÁCS-HŐ Kft. | 0 | 11 074[^21] |
 
-| 54. | Mohács | BIOENERGY-Duna Befektető és Szolgáltató Kft. | MOHÁCS-HŐ Kft. | 0 | 6 220 |
+| 54. | Mohács | BIOENERGY-Duna Befektető és Szolgáltató Kft. | MOHÁCS-HŐ Kft. | 0 | 7 329[^22] |
 
 | 55. | Mosonmagyaróvár | MESZ Mosonmagyaróvár Kft. | Városüzemeltető és Fenntartó Kft. | 24 449 000 | 12 788 |
 
@@ -180,7 +180,9 @@
 
 | 90. | Veszprém | Greenergy-Power Kft. | “VKSZ” Veszprémi Közüzemi Szolgáltató Zrt. | 0 | 11 453 |
 
-2. melléklet az 50/2011. (IX. 30.) NFM rendelethez[^20]
+| 91.[^23] | Sárospatak | Greenergy-Power Kft. | Patakhő Energiaszolgáltató Nonprofit Kft. | 0 | 12 402 |
+
+2. melléklet az 50/2011. (IX. 30.) NFM rendelethez[^24]
 
 Az indokolt költségek figyelembevételének módszertana a távhőtermelők és távhőszolgáltatók vonatkozásában
 
@@ -242,4 +244,8 @@ A Hivatal az egyedi vizsgálata során a beruházás számított tőkeköltsége
 
 Abban az esetben, ha a beruházás hatására bekövetkező költségcsökkenés mértéke a beruházás számított tőkeköltségének összegét meghaladja, akkor a Hivatal a beruházás számított tőkeköltségét indokolt költségként elismeri.
 
-[^20]: A 2. melléklet a 76/2015. (XII. 29.) NFM rendelet 6. § (2) bekezdésével megállapított, az 59/2017. (XII. 29.) NFM rendelet 3. § (2) bekezdése szerint módosított szöveg.
+[^20]: Az 1. mellékletben foglalt táblázat E:7 mezője a 22/2023. (X. 13.) EM rendelet 3. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^21]: Az 1. mellékletben foglalt táblázat E:53 mezője a 22/2023. (X. 13.) EM rendelet 3. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^22]: Az 1. mellékletben foglalt táblázat E:54 mezője a 22/2023. (X. 13.) EM rendelet 3. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^23]: Az 1. mellékletben foglalt táblázat 91. sorát a 22/2023. (X. 13.) EM rendelet 2. §-a iktatta be.
+[^24]: A 2. melléklet a 76/2015. (XII. 29.) NFM rendelet 6. § (2) bekezdésével megállapított, az 59/2017. (XII. 29.) NFM rendelet 3. § (2) bekezdése szerint módosított szöveg.
