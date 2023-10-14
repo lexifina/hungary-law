@@ -1,1 +1,3 @@
-1. § A Rendőrségnél rendszeresíthető kényszerítő eszközök típusairól és fajtáiról szóló 32/2009. (VIII. 19.) IRM rendelet Melléklete az 1. melléklet szerint módosul.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
