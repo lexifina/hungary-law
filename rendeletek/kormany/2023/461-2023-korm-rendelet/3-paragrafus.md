@@ -1,3 +1,3 @@
-3. § A Korm. rendelet 6. §-a a következő (9) bekezdéssel egészül ki:
+3. §[^3]
 
-„(9) Az elosztó hálózati engedélyes a 3. § (2) bekezdése szerinti javaslatát először 2024. június 30. napjáig teszi meg.”
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
