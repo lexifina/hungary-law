@@ -806,11 +806,25 @@
 
 | 326 | 4F-MBZP | 1-[(4-fluorophenyl)methyl]-4-methylpiperazine | C₁₂H₁₇FN₂ | KFMDNJJTGINMCS-UHFFFAOYSA-N |
 
+| 327 | ADMB-3TMS-PRINACA | N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1- (3-(trimethylsilyl)propyl)-1H-indazole-3-carboxamide | C₂₀H₃₂N₄O₂Si | LJKMOYFTWIBFJI-UHFFFAOYSA-N |
+
+| 328 | N-cyclohexyl butylone | 1-(1,3-benzodioxol-5-yl)-2-(cyclohexylamino)butan- 1-one | C₁₇H₂₃NO₃ | JUIRPSMGWVYMJT-UHFFFAOYSA-N |
+
+| 329 | 2’-Fluoro-2-fluoro-3-methylfentanyl | N-(1-(2-fluorophenethyl)-3-methylpiperidin-4-yl)-N-(2-fluorophenyl)propionamide | C₂₃H₂₈F₂N₂O | ZHMCEQBHANQWEW-UHFFFAOYSA-N |
+
+| 330 | Etomethazene | 2-[(4-ethoxyphenyl)methyl]-N,N-diethyl-5-methyl-1H-benzimidazole-1-ethanamine | C₂₃H₃₁N₃O | ZARKNPABJGEAOQ-UHFFFAOYSA-N |
+
+| 331 | Ethyleneoxynitazene | 2-{2-[(2,3-dihydro-1-benzofuran-5-yl)methyl]-5-nitro-1H-benzimidazol-1-yl}-N,N-diethylethan-1-amine | C₂₂H₂₆N₄O₃ | IPSJQZUMCSELFZ-UHFFFAOYSA-N |
+
+| 332 | iso-3-MMC | 1-(methylamino)-1-(3-methylphenyl)propan-2-one | C₁₁H₁₅NO | QXBFBMKWNOHDFB-UHFFFAOYSA-N |
+
+| 333 | 1cP-Al-LAD | 4-(cyclopropanecarbonyl)-N,N-diethyl-7-(prop-2-en-1-yl)-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinoline-9-carboxamide | C₂₆H₃₁N₃O₂ | VSABTUDYQCMWKE-UHFFFAOYSA-N |
+
 6.2. az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, ha kémiai szerkezetük alapján azok léteznek,
 
 6.3. az ebben a jegyzékben felsorolt anyagok sói, beleértve a 6.2. pontban említett sztereoizomerek sóit, ha ilyen sók léteznek.
 
 7.[^8] A jegyzékbe sorolás szempontjából a 6.1. pontban foglalt táblázat A és B oszlopában található adatok irányadóak, a C és D oszlop adatai a vegyületek számítógépes kereshetőségét biztosítják.
 
-[^7]: A 3. melléklet 6. pont 6.1. alpontja a 31/2023. (VIII. 22.) BM rendelet 4. §-ával megállapított szöveg.
+[^7]: A 3. melléklet 6. pont 6.1. alpontja a 31/2023. (VIII. 22.) BM rendelet 4. §-ával megállapított, a 43/2023. (X. 12.) BM rendelet 1. §-a szerint módosított szöveg.
 [^8]: A 3. melléklet 7. pontját a 31/2023. (VIII. 22.) BM rendelet 4. §-a iktatta be.

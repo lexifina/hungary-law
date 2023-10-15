@@ -22,9 +22,9 @@ PSZICHOTRÓP ANYAGOK JEGYZÉKEI
 
 | 6 | 2C-IEU |  | 2,5-dimethoxy-4-iodophenethylamineEU2 ; 4-Iod-2,5-dimethoxyphenethylazan°° | C10H14INO2 | PQHQBRJAAZQXHL-UHFFFAOYSA-N |
 
-| 7 | 2C-T-2 EU |  | 2,5-dimethoxy-4-ethylthiophenethylamineEU2; 4-Ethylsulfanyl-2,5-dimethoxy-phenethylazan°° | C12H19NO2S | HCWQGDLBIKOJPM-UHFFFAOYSA-N |
+| 7 | 2C-T-2EU |  | 2,5-dimethoxy-4-ethylthiophenethylamineEU2; 4-Ethylsulfanyl-2,5-dimethoxy-phenethylazan°° | C12H19NO2S | HCWQGDLBIKOJPM-UHFFFAOYSA-N |
 
-| 8 | 2C-T-7 EU |  | 2,5-dimetoxi-4-(n)-propil-tio-fenetil-aminEU2; 2,5-Dimethoxy-4-(propylsulfanyl)-phenethylazan°° | C13H21NO2S | OLEVEPDJOFPJTF-UHFFFAOYSA-N |
+| 8 | 2C-T-7EU |  | 2,5-dimetoxi-4-(n)-propil-tio-fenetil-aminEU2; 2,5-Dimethoxy-4-(propylsulfanyl)-phenethylazan°° | C13H21NO2S | OLEVEPDJOFPJTF-UHFFFAOYSA-N |
 
 | 9 | 2-DPMP*** (dezoxipipradrol) | Desoxypipradrol | 2-(diphenylmethyl)piperidine | C18H21N | RWTNXJXZVGHMGI-UHFFFAOYSA-N |
 
@@ -58,13 +58,13 @@ PSZICHOTRÓP ANYAGOK JEGYZÉKEI
 
 | 24 | 5-IAI*** |  | 5-iodo-2,3-dihydro-1H-inden-2-amine | C9H10IN | BIHPYCDDPGNWQO-UHFFFAOYSA-N |
 
-| 25 | 5-IT EU |  | 5-(2-aminopropyl)indole | C11H14N2 | AULGMISRJWGTBA-UHFFFAOYSA-N |
+| 25 | 5-ITEU |  | 5-(2-aminopropyl)indole | C11H14N2 | AULGMISRJWGTBA-UHFFFAOYSA-N |
 
 | 26 | 5-MeO-AMT*** |  | 1-(5-methoxy-1H-indol-3-yl)propan-2-amine | C12H16N2O | OGNJZVNNKBZFRM-UHFFFAOYSA-N |
 
 | 27 | A-836,339*** |  | N-[3-(2-methoxyethyl)-4,5-dimethyl-1,3-thiazol-2-ylidene]-2,2,3,3-tetramethylcyclopropane-carboxamide | C16H26N2O2S | JKGIMVBQKSRTGX-UHFFFAOYSA-N |
 
-| 28 | AH-7921 EU |  | 3,4-dichloro-N-{[1-(dimethylamino)cyclohexyl]methyl}benzamide | C16H22Cl2N2O | JMZROFPPEXCTST-UHFFFAOYSA-N |
+| 28 | AH-7921EU |  | 3,4-dichloro-N-{[1-(dimethylamino)cyclohexyl]methyl}benzamide | C16H22Cl2N2O | JMZROFPPEXCTST-UHFFFAOYSA-N |
 
 | 29 | AL*** |  | 4-allil-oxi-3,5-dimetoxi-fenetil-amin ° | C13H19NO3 | JNUAYHHGCXYBHX-UHFFFAOYSA-N |
 
