@@ -1,0 +1,3 @@
+6. § (1) Ha a megállapodásban részt vevő vállalkozások együttes piaci részesedése kezdetben kevesebb, mint 20%, de az később az érintett piacok legalább egyikén e fölé emelkedik, a 2. § szerinti mentesülést a 20%-os piaci részesedési küszöbérték első alkalommal történő átlépésének naptári éve utáni két egymást követő naptári évben továbbra is alkalmazni kell.
+
+(2) A piaci részesedési küszöb alkalmazása szempontjából az 1. § (2) bekezdés e) pontjában említett vállalkozások piaci részesedését az 1. § (2) bekezdés a) pontjában felsorolt jogok, illetve hatáskörök közül eggyel vagy többel rendelkező vállalkozások között egyenlő arányban kell felosztani.
