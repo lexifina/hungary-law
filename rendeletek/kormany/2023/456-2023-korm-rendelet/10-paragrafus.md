@@ -1,1 +1,3 @@
-10. § Hatályát veszti a kutatási és fejlesztési megállapodások egyes csoportjainak a versenykorlátozás tilalma alóli mentesítéséről szóló 206/2011. (X. 7.) Korm. rendelet.
+10. §[^1]
+
+[^1]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
