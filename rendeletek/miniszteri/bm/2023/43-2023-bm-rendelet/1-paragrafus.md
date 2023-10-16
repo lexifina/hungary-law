@@ -1,1 +1,3 @@
-1. § Az ellenőrzött anyagokról szóló 78/2022. (XII. 28.) BM rendelet (a továbbiakban: R.) 3. melléklete az 1. melléklet szerint módosul.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
