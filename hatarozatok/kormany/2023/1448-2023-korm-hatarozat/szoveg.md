@@ -40,14 +40,6 @@ fb) a beszerzett eszközök az MNV Zrt. által vezetett állami vagyonnyilvánta
 
 g) az állami vagyonról szóló 2007. évi CVI. törvény 24. § (2) bekezdés e) pontja alapján úgy dönt, hogy a GYSEV Zrt. versenyeztetés mellőzésével, legalább a független szakértő által megállapított bérleti díj megfizetése mellett, határozatlan időre, bérleti jogviszony keretében a GYSEV CARGO Zártkörűen Működő Részvénytársaság használatába adhatja a Konténerterminál üzemeltetéséhez szükséges eszközöket, a debreceni gazdasági övezetek létrehozása és működése, mint fejlesztéspolitikai szempontok szerinti közérdekű cél ellátásának elősegítése érdekében.
 
-2. Az egy fejlesztéspolitikai szempontból kiemelt jelentőségű beruházás megvalósításához szükséges kormányzati intézkedésekről szóló 1023/2023. (II. 9.) Korm. határozat 1. és 2. pontja helyébe a következő rendelkezések lépnek:
+2.[^1]
 
-(A Kormány)
-
-„1. felhívja az építési és közlekedési minisztert, hogy tegye meg a szükséges intézkedéseket annak érdekében, hogy a MACS Ipari Park vasútállomás területén nyílt forgalmú vasúti rakodóállomáson kialakított Intermodális Konténerterminál területét képező ingatlanok (a továbbiakban: Konténerterminál) tekintetében a Győr–Sopron–Ebenfurti Vasút Zártkörűen Működő Részvénytársasággal (a továbbiakban: GYSEV Zrt.) a vagyonkezelési szerződés megkötésre kerüljön;
-
-| Felelős: | építési és közlekedési miniszter |
-
-| Határidő: | 2023. december 31. |
-
-2. az állami vagyonról szóló 2007. évi CVI. törvény 24. § (2) bekezdés e) pontja alapján úgy dönt, hogy a GYSEV Zrt. versenyeztetés mellőzésével, legalább a független szakértő által megállapított bérleti díj megfizetése mellett, határozatlan időre, bérleti jogviszony keretében a GYSEV CARGO Zártkörűen Működő Részvénytársaság használatába adhatja a Konténerterminált, fejlesztéspolitikai szempontok szerinti közérdekű cél ellátásának elősegítése érdekében.”
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
