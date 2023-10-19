@@ -1,6 +1,6 @@
-10. melléklet a 19/2011. (V. 10.) NFM rendelethez[^238]
+10. melléklet a 19/2011. (V. 10.) NFM rendelethez[^241]
 
-## Egyéb vasúti hatósági képzések
+Egyéb vasúti hatósági képzések
 
 1. Kazánbiztosi képzés
 
@@ -24,4 +24,4 @@
 
 11. Vasúti balesetvizsgálók továbbképzése
 
-[^238]: A 10. mellékletet a 7/2018. (VII. 26.) ITM rendelet 15. § (6) bekezdése iktatta be, szövege a 43/2021. (IX. 8.) ITM rendelet 25. § (5) bekezdésével megállapított szöveg.
+[^241]: A 10. mellékletet a 7/2018. (VII. 26.) ITM rendelet 15. § (6) bekezdése iktatta be, szövege a 43/2021. (IX. 8.) ITM rendelet 25. § (5) bekezdésével megállapított szöveg.

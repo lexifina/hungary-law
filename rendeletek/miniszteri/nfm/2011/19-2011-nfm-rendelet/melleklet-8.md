@@ -1,4 +1,4 @@
-8. melléklet a 19/2011. (V. 10.) NFM rendelethez[^236]
+8. melléklet a 19/2011. (V. 10.) NFM rendelethez[^239]
 
 ## Képzési központok, képzőszervezetek és regisztrált szervezetek esetében
 
@@ -16,4 +16,4 @@ I. Helyiségek
 
 II. Helyiségek bútorzata, egyéb berendezési tárgyai
 
-[^236]: A 8. mellékletet a 22/2015. (V. 6.) NFM rendelet 38. § (3) bekezdés a) pontja iktatta be, szövege a 33/2016. (VIII. 2.) NFM rendelet 32. § o) pontja szerint módosított szöveg.
+[^239]: A 8. mellékletet a 22/2015. (V. 6.) NFM rendelet 38. § (3) bekezdés a) pontja iktatta be, szövege a 33/2016. (VIII. 2.) NFM rendelet 32. § o) pontja szerint módosított szöveg.

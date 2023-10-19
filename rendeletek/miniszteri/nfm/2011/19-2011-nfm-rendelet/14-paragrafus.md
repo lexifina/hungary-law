@@ -18,7 +18,7 @@ a) a vizsga tárgyának megfelelő legalább 5 év szakirányú gyakorlattal és
 
 b) a vizsga tárgyának megfelelő legalább 3 év szakmai irányítási és szakmai felügyeleti gyakorlattal
 
-## rendelkezik.
+rendelkezik.
 
 (4)[^90] A hatóság 30 napon belül visszavonja a vizsgabiztosi kinevezését annak a vizsgabiztosnak, aki nem vesz részt
 

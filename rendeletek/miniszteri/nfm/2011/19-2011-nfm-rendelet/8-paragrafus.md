@@ -10,7 +10,7 @@ c) a képzés tartalmának megfelelő felsőfokú szakmai, alap- vagy képesít�
 
 d) legalább 3 év vasútforgalmi, vagy a képzés tartalmának megfelelő szakmai gyakorlattal
 
-## rendelkezik.
+rendelkezik.
 
 (2)[^51] Az (1) bekezdés b) és d) pontjától eltérően
 
@@ -20,7 +20,7 @@ b)[^52] a saját célú vasúti pályahálózaton, iparvágányon, közúti vill
 
 c) a saját célú vasúti pályahálózaton, iparvágányon, közúti villamos vasúti pályahálózaton és a különleges kötöttpálya-hálózaton elméleti képzést végző oktató érettségi végzettséggel
 
-## is kérheti az oktatói nyilvántartásba való felvételét, ha a vasútforgalmi vagy a képzés tartalmának megfelelő legalább 5 éves szakmai gyakorlattal rendelkezik.
+is kérheti az oktatói nyilvántartásba való felvételét, ha a vasútforgalmi vagy a képzés tartalmának megfelelő legalább 5 éves szakmai gyakorlattal rendelkezik.
 
 (3)[^53] A 3. melléklet „V. Járművezető alapképzés” cím „5. Járművezetői gyakorlat” táblázat „Munkamódszer-átadás” című képzés során az előírt járművezetői kíséretet a munkáltató által külön nyilvántartásba vett, legalább 5 év gyakorlattal rendelkező járművezető láthatja el.
 

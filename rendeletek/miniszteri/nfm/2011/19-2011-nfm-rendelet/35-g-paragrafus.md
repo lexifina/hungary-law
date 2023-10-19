@@ -1,6 +1,6 @@
-## 35/F. §[^194] A vasúti és a különleges kötöttpályás közlekedés biztonságával összefüggő egyéb vasúti hatósági képzéseket a 10. melléklet tartalmazza. Az egyéb vasúti hatósági képzések a hatóság által a képzési programok jóváhagyásának a képzési módszertani központ honlapján közzétett szempontrendszere alapján jóváhagyott képzési program alapján végezhetők.
+## 35/F. §[^195] A vasúti és a különleges kötöttpályás közlekedés biztonságával összefüggő egyéb vasúti hatósági képzéseket a 10. melléklet tartalmazza. Az egyéb vasúti hatósági képzések a hatóság által a képzési programok jóváhagyásának a képzési módszertani központ honlapján közzétett szempontrendszere alapján jóváhagyott képzési program alapján végezhetők.
 
-## 30/D. [^195] Zárt rendszerű elektronikus távoktatás
+## 30/D. [^196] Zárt rendszerű elektronikus távoktatás
 
 35/G. § (1) A hatóság évente legalább egy alkalommal – a Közlekedési Szakértői Testület szakmai javaslata alapján – pályázatot hirdet az e-learning rendszerű képzésben alkalmazható zárt rendszerű távoktatási képzésmenedzsment rendszer (a továbbiakban: Rendszer) és az e-learning rendszerű képzéshez szükséges digitális tananyagok (a továbbiakban: Tananyag) tanúsításának, minősítésének megszerzésére.
 
@@ -34,5 +34,5 @@ bc) színvonala és kidolgozottsága tekintetében – ideértve, de nem kizár�
 
 (9) A hatóság az akkreditált Rendszerek és a Tananyagok listáját és akkreditációs számát honlapján közzéteszi.
 
-[^194]: A 35/F. § a 45/2019. (XII. 20.) ITM rendelet 48. § o) pontja szerint módosított szöveg.
-[^195]: A 30/D. alcímet (35/G–35/H. §) a 43/2021. (IX. 8.) ITM rendelet 21. §-a iktatta be.
+[^195]: A 35/F. § a 45/2019. (XII. 20.) ITM rendelet 48. § o) pontja szerint módosított szöveg.
+[^196]: A 30/D. alcímet (35/G–35/H. §) a 43/2021. (IX. 8.) ITM rendelet 21. §-a iktatta be.

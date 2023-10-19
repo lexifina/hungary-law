@@ -1,6 +1,6 @@
-1. melléklet a 19/2011. (V. 10.) NFM rendelethez[^229]
+1. melléklet a 19/2011. (V. 10.) NFM rendelethez[^232]
 
-## A rendelet alkalmazásakor figyelembe veendő munkakörök, feladatkörök és munkaköri csoportok
+A rendelet alkalmazásakor figyelembe veendő munkakörök, feladatkörök és munkaköri csoportok
 
 I. Országos jelentőségű vasútvonalak, térségi és saját célú vasúti pályahálózat, iparvágány, különleges kötöttpálya-hálózat
 
@@ -630,7 +630,7 @@ III. Egysínű függővasúti pálya
 
 |  | A | B |
 
-| Sorszám | Munkakör | Feladatkör |
+|  | Munkakör | Feladatkör |
 
 | 1. | Egysínű függővasúti járművezető | A mozdony üzemeltetése, vezetése, megindítása, megállítása, felügyelete, az üzembiztos állapot biztosítása a föld alatti és a föld feletti pályahálózaton. |
 
@@ -638,10 +638,10 @@ IV. Valamennyi pályahálózat, kivéve a különleges kötöttpálya-hálózat
 
 |  | A | B |
 
-| Sorszám | Munkakör | Feladatkör |
+|  | Munkakör | Feladatkör |
 
 | 1. | Vasútszakmai oktató | A képzőszervezet, illetve vasúti társaság megbízásával az alapképzésben és időszakos oktatásokon oktatói tevékenység végzése, valamint a vasúti társaság ügykörébe tartozó, nem hatósági vizsgaköteles témakörök képzési és vizsgáztatási feladatai. |
 
 V. Különleges kötöttpálya-hálózat
 
-[^229]: Az 1. melléklet a 43/2021. (IX. 8.) ITM rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^232]: Az 1. melléklet a 43/2021. (IX. 8.) ITM rendelet 25. § (1) bekezdésével megállapított szöveg.

@@ -1,5 +1,3 @@
-## Időszakos oktatásra, valamint időszakos vizsgára kötelezett munkavállalók és az időszakos oktatás rendje
-
 |  | A | B | C | D | E | F | G | H | I | J | K | L | M |
 
 | 1. |  | Országos jelentőségű vasútvonalak | Térségi vasúti pályahálózat | Saját célú vasúti pályahálózat, iparvágány | Elővárosi vasúti pályahálózat | Helyi, városi vasúti pályahálózat | Valamennyi különleges kötöttpálya-hálózat |
@@ -24,6 +22,6 @@
 
 | 11. | Járművek üzemeltetésével és fenntartásával összefüggő munkakörök | 6 | 12 | 6 | 12 | 6 | 12 | 6 | 12 | 6 | 12 | 6 | 12 |
 
-3. melléklet a 19/2011. (V. 10.) NFM rendelethez[^231]
+3. melléklet a 19/2011. (V. 10.) NFM rendelethez[^234]
 
-[^231]: A 3. melléklet a 43/2021. (IX. 8.) ITM rendelet 25. § (2) bekezdésével megállapított szöveg.
+[^234]: A 3. melléklet a 43/2021. (IX. 8.) ITM rendelet 25. § (2) bekezdésével megállapított szöveg.
