@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a légijárművek fedélzetén elkövetett bűncselekményekről és egyéb cselekményekről szóló Egyezményt (a továbbiakban: Egyezmény) módosító Jegyzőkönyv (a továbbiakban: Jegyzőkönyv) kötelező hatályának elismerésére.
