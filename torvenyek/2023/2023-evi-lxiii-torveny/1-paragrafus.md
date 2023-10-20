@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és a Maldív Köztársaság Kormánya között a diplomata, hivatalos és szolgálati útlevéllel rendelkező állampolgáraik vízummentességéről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
