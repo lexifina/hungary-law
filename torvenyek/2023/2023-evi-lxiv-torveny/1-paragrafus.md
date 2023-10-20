@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és Románia Kormánya között a Békéscsaba – Méhkerék – államhatár (Magyarország) és a Salonta (Nagyszalonta) – államhatár (Románia) közötti gyorsforgalmi úti kapcsolat létesítéséről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
