@@ -1,3 +1,3 @@
-2. § Az R. 37. §-a a következő (18) bekezdéssel egészül ki:
+2. §[^3]
 
-„(18) Ha a 22. § (1) bekezdése szerinti alapvizsga érvényességi ideje a vasúti közlekedés biztonságával összefüggő munkakört betöltő munkavállalók szakmai képzésének és vizsgáztatásának, a vasúti vizsgaközpont és képzőszervezetek működésének, a képzési engedély kiadásának, továbbá a vasúti járművezetői gyakorlat szabályairól szóló 19/2011. (V. 10.) NFM rendelet módosításáról szóló 19/2023. (X. 16.) ÉKM rendelet hatálybalépésének napja és 2023. október 31. között jár le, az érvényességi idő az alapvizsga lejártától számított 120. napig meghosszabbodik.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

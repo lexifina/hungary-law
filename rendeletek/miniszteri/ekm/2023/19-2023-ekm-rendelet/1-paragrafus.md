@@ -1,3 +1,3 @@
-1. § A vasúti közlekedés biztonságával összefüggő munkakört betöltő munkavállalók szakmai képzésének és vizsgáztatásának, a vasúti vizsgaközpont és képzőszervezetek működésének, a képzési engedély kiadásának, továbbá a vasúti járművezetői gyakorlat szabályairól szóló 19/2011. (V. 10.) NFM rendelet (a továbbiakban: R.) 22. §-a a következő (2a) bekezdéssel egészül ki:
+1. §[^2]
 
-„(2a) A hatóság a munkáltató kérelmére egy alkalommal 120 nappal meghosszabbítja az alapvizsga érvényességét – a vasúti vizsgaközpont egyidejű értesítése mellett –, ha a munkáltató igazolja, hogy a meghosszabbítás a vasúti közlekedés biztonságával összefüggő munkaszervezési ok miatt szükséges.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
