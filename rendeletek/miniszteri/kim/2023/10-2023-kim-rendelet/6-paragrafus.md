@@ -1,0 +1,3 @@
+6. § (1) A támogatást nyújtó adatot szolgáltat a Támogatásokat Vizsgáló Iroda mint az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére a 651/2014/EU bizottsági rendelet 9. cikke szerinti közzététel céljából a 3–9. alcím hatálya alá tartozó, az Atr. 2. § 6c. pontja szerinti halászati állami támogatás vagy elsődleges mezőgazdasági termelés támogatása esetén a 10 000 eurónak, minden más esetben pedig a 100 000 eurónak megfelelő forintösszeget meghaladó egyedi támogatásokról.
+
+(2) A támogatást nyújtó adatszolgáltatására, illetve a közzététel módjára az Atr. 18/A–18/D. §-ában foglaltakat kell alkalmazni.

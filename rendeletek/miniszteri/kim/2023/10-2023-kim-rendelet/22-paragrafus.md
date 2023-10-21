@@ -1,0 +1,41 @@
+## IV. Fejezet
+
+## AZ ELŐIRÁNYZATOK FELHASZNÁLÁSÁNAK KÜLÖNÖS SZABÁLYAI
+
+## 1. Az állami szakképző intézmények Szkt. szerinti ingyenes képzéseinek kiegészítő finanszírozása
+
+22. § (1) A XX. Kulturális és Innovációs Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 14. Állami szakképző intézmények szakképzésről szóló törvény szerinti ingyenes képzéseinek kiegészítő finanszírozása alcím terhére az állami szakképző intézmények – az Szkt. szerinti – ingyenes képzéseinek kiegészítő finanszírozása céljából nyújtott támogatás vissza nem térítendő normatív támogatás.
+
+(2) Az állami szakképző intézmény – a szakképzési centrum részeként működő szakképző intézmény esetében a szakképzési centrum vagy állami felsőoktatási intézmény fenntartásában lévő szakképző intézmény esetében a felsőoktatási intézmény – (ezen alcím alkalmazásában a továbbiakban: kedvezményezett) a képzésben részt vevő személy részére az Szkt. 3. §-a szerinti ingyenesen nyújtott
+
+a) szakmai oktatással (ezen alcím alkalmazásában a továbbiakban: oktatás),
+
+b) szakmai képzéssel (ezen alcím alkalmazásában a továbbiakban: képzés),
+
+c) a technikumban az érettségi bizonyítvány megszerzését célzó felkészítéssel
+
+összefüggésben – erre irányuló támogatási kérelem és elszámolás alapján – támogatásra jogosult.
+
+(3) Az oktatás és képzés teljes időtartamára meghatározott normatíva
+
+a) oktatás esetén a szakképzésről szóló törvény végrehajtásáról szóló 12/2020. (II. 7.) Korm. rendelet (a továbbiakban: Szkr.) 332/A. § (2) bekezdése szerinti, a szakmára alkalmazandó szakmaszorzóval korrigált, a központi költségvetési törvényben meghatározott, a szociális hozzájárulási adóról szóló 2018. évi LII. törvény (a továbbiakban: Szocho tv.) 17/A. § (3) bekezdése szerinti önköltség 15 százalékának és a szakmai oktatás érettségi végzettséggel, évben meghatározott időtartamának a szorzata,
+
+b) képzés esetén az Szkr. 332/A. § (2) bekezdése szerinti, a szakképesítés programkövetelményében megjelölt ágazatra alkalmazandó szakmaszorzóval korrigált, a központi költségvetési törvényben meghatározott, a Szocho tv. 17/A. § (3) bekezdése szerinti önköltség 30 százalékának és a képzés elvégzéséhez szükséges, a programkövetelményben meghatározott minimális foglalkozásszám 1000 órához viszonyított arányának a szorzata.
+
+(4) A költségvetési évre a támogatási kérelem alapján meghatározásra kerülő tárgyévi támogatás összege
+
+a) oktatás esetén a kedvezményezett által a támogatási kérelemben megjelölt, a tárgyévet megelőző évben felnőttképzési jogviszonnyal rendelkező képzésben részt vevők létszáma, a (3) bekezdés a) pontja szerinti normatíva egy évre meghatározott összege, a képzési időszak által érintett hónapok számának az évhez viszonyított aránya és az (5) bekezdés szerinti súlyszorzó szorzatának a 70 százaléka,
+
+b) képzés esetén a kedvezményezett által a támogatási kérelemben megjelölt, a tárgyévet megelőző évben felnőttképzési jogviszonnyal rendelkező képzésben részt vevők létszáma, a (3) bekezdés b) pontja szerinti normatíva, a képzésben a tárgyévet megelőző évben ténylegesen megvalósult órák számának és a tervezett vagy már megvalósult összes óraszámnak a hányadosa szorzatának a 70 százaléka,
+
+c) a technikum kétéves, kizárólag érettségi vizsgára felkészítő képzésében, a tárgyévet megelőző évben felnőttképzési jogviszonyban részt vevő személyenként 360 000 forint/év és a képzési időszak által érintett hónapok számának az évhez viszonyított arányának szorzata.
+
+(5) A (4) bekezdés a) pontja szerinti támogatás összegének számításakor alkalmazott súlyszorzó értéke 2, ha az oktatás időtartamából és a ténylegesen megtartott óraszámból adódó intenzitás legalább kétszeres. A súlyszorzó értéke minden más esetben 1.
+
+(6) A (4) bekezdés szerinti támogatás összegének számításakor – ha az ágazat vagy az ágazathoz tartozó szakmaszorzó az Szkr. vagy a programkövetelmények alapján nem határozható meg – a szakmaszorzó értéke 2,4.
+
+(7) A (4) bekezdés b) pontja szerinti támogatás összegének számításakor alkalmazott szakmaszorzót a szakképesítésnek a Magyar Képesítési Keretrendszer szintje határozza meg, oly módon, hogy a legfeljebb 4-es szintű szakképesítés esetén a 4-es szinthez, a legalább 5-ös szintű szakképesítés esetén az 5-ös szinthez meghatározott szakmaszorzót kell alkalmazni.
+
+(8) A támogatási kérelmet a támogató által meghatározott formanyomtatványon a január 1-jétől december 31-éig tartó időszakra a tárgyév január 15-éig kell benyújtani.
+
+(9) A támogatási kérelem alapján a támogató megállapítja a kedvezményezett részére az adott költségvetési évre folyósítandó támogatás – ezer forintra kerekített – összegét, a támogatás két részletben történő folyósításának határidejét, és erről támogatói okiratot ad ki.
