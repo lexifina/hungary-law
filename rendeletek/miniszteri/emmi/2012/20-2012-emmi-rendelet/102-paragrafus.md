@@ -20,6 +20,6 @@ g) a foglalkozást tartó pedagógus aláírását
 
 tartalmazza.
 
-(4)[^298] A csoportnaplóba a gyermek, tanuló sajátos nevelési igényére, beilleszkedési, tanulási, magatartási nehézségére, tartós gyógykezelésére vonatkozó, továbbá a gyermek, tanuló speciális köznevelési ellátásához elengedhetetlenül szükséges szakértői vélemények, fejlesztési és rehabilitációs tervek, pedagógiai vélemények, feljegyzések, szakorvosi és iskolaorvosi diagnózisok tölthetőek fel.
+(4)[^329] A csoportnaplóba a gyermek, tanuló sajátos nevelési igényére, beilleszkedési, tanulási, magatartási nehézségére, tartós gyógykezelésére vonatkozó, továbbá a gyermek, tanuló speciális köznevelési ellátásához elengedhetetlenül szükséges szakértői vélemények, fejlesztési és rehabilitációs tervek, pedagógiai vélemények, feljegyzések, szakorvosi és iskolaorvosi diagnózisok tölthetőek fel.
 
-[^298]: A 102. § (4) bekezdését a 37/2021. (VIII. 31.) EMMI rendelet 9. §-a iktatta be.
+[^329]: A 102. § (4) bekezdését a 37/2021. (VIII. 31.) EMMI rendelet 9. §-a iktatta be.

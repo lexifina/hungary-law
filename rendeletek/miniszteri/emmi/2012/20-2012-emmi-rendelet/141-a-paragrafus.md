@@ -2,7 +2,7 @@
 
 (2) Az iskolai sportköri foglalkozások nem kötelező tanórai foglalkozásként vagy egyéb foglalkozásként is megszervezhetőek.
 
-(3) Az intézményvezető a tanulók iskolai sportköri foglalkozásokra vonatkozó igényének felmérése, illetve a diákönkormányzat véleménye alapján – minden év május 31-ig – tesz javaslatot a következő tanévi szakmai program tartalmára.
+(3)[^451] Az igazgató a tanulók iskolai sportköri foglalkozásokra vonatkozó igényének felmérése, illetve a diákönkormányzat véleménye alapján – minden év május 31-ig – tesz javaslatot a következő tanévi szakmai program tartalmára.
 
 (4) Ha az iskolai sportkör feladatait – az iskolával kötött megállapodás alapján – a sportról szóló törvény szerinti sportszervezet látja el, a szakmai program elkészítésébe a sportszervezet képviselőjét is be kell vonni.
 
@@ -11,3 +11,5 @@
 (6) A tornaszobával, tornateremmel nem rendelkező iskola részére annak igazgatója kérelmére az iskola fenntartója a fenntartásában működő másik iskola, kollégium tornatermét, tornaszobáját köteles a mindennapos testnevelés céljaira rendelkezésre bocsátani, amennyiben ennek a feltételei rendelkezésre állnak, van szabad kapacitás és nem akadályozza az érintett ingatlanban működő intézmény alapfeladatának az ellátását. A következő tanítási évre vonatkozó kérelmet a tanítási év utolsó tanítási napjáig kell az iskola fenntartójának átadni.
 
 (7) Az iskola fenntartójának fenntartásában működő iskola, kollégium tornaterme, tornaszobája csak a (6) bekezdés szerinti igénybevételen kívüli időtartamban hasznosítható más célra.
+
+[^451]: A 141/A. § (3) bekezdése a 44/2023. (X. 19.) BM rendelet 23. § 2. pontja szerint módosított szöveg.

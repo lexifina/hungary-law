@@ -1,6 +1,6 @@
-## 26. [^261] A tanulók fizikai állapotának és edzettségének (fizikai fittségének) mérése
+## 26. [^283] A tanulók fizikai állapotának és edzettségének (fizikai fittségének) mérése
 
-81. §[^262] (1) A tanulók fizikai állapotának és edzettségének mérését (a továbbiakban: fizikai fittségi mérés)
+81. §[^284] (1) A tanulók fizikai állapotának és edzettségének mérését (a továbbiakban: fizikai fittségi mérés)
 
 a) – a b)–d) pontban foglalt kivétellel – az iskola testnevelés vagy mozgásnevelés tantárgyat tanító pedagógusa,
 
@@ -18,10 +18,11 @@ végzi el.
 
 (2) A fizikai fittségi mérés eredményeit az (1) bekezdés a), c), d) és f) pontja szerinti esetben a mérést végző pedagógus, az (1) bekezdés b) és e) pontja szerinti esetben az iskola testnevelés tantárgyat tanító pedagógusa rögzíti az Nkt. 44/B. § (1) bekezdése szerinti rendszerbe.
 
-(3) A fizikai fittségi mérések egyes tanulókra vonatkozó, adott tanévben rögzített adatait az érintett pedagógusok, továbbá köznevelési intézmények vezetői tanévenként elemzik, és meghatározzák az adott tanuló fizikai fittségi szintjének további fejlesztése szempontjából – elsősorban az iskolai testnevelés tantárgy, valamint az egészségügyi és pedagógiai célú habilitációs és rehabilitációs tanórai foglalkozás, valamint a gyógytestnevelés keretei között – szükséges intézkedéseket.
+(3)[^285] A fizikai fittségi mérések egyes tanulókra vonatkozó, adott tanévben rögzített adatait az érintett pedagógusok, továbbá köznevelési intézmények igazgatói tanévenként elemzik, és meghatározzák az adott tanuló fizikai fittségi szintjének további fejlesztése szempontjából – elsősorban az iskolai testnevelés tantárgy, valamint az egészségügyi és pedagógiai célú habilitációs és rehabilitációs tanórai foglalkozás, valamint a gyógytestnevelés keretei között – szükséges intézkedéseket.
 
-(4)[^263] A tanulók fizikai fittségi mérésének részletes szabályait a miniszter az általa vezetett minisztérium honlapján teszi közzé.
+(4)[^286] A tanulók fizikai fittségi mérésének részletes szabályait a miniszter az általa vezetett minisztérium honlapján teszi közzé.
 
-[^261]: A 26. alcím (81. §) a 45/2014. (X. 27.) EMMI rendelet 24. §-ával megállapított szöveg.
-[^262]: A 81. § a 20/2019. (VIII. 30.) EMMI rendelet 9. §-ával megállapított szöveg.
-[^263]: A 81. § (4) bekezdése az 52/2022. (XII. 27.) BM rendelet 24. § a) pontja szerint módosított szöveg.
+[^283]: A 26. alcím (81. §) a 45/2014. (X. 27.) EMMI rendelet 24. §-ával megállapított szöveg.
+[^284]: A 81. § a 20/2019. (VIII. 30.) EMMI rendelet 9. §-ával megállapított szöveg.
+[^285]: A 81. § (3) bekezdése a 44/2023. (X. 19.) BM rendelet 23. § 17. pontja szerint módosított szöveg.
+[^286]: A 81. § (4) bekezdése az 52/2022. (XII. 27.) BM rendelet 24. § a) pontja szerint módosított szöveg.

@@ -28,7 +28,7 @@ b) a tanulók helyzetét elemző, értékelő beszámolók elkészítéséhez, e
 
 c) a tanulói pályázatok, versenyek meghirdetéséhez, megszervezéséhez,
 
-d)[^316] az iskolai sportkör – a munkaterv részét képező – szakmai programjának megállapításához,
+d)[^350] az iskolai sportkör – a munkaterv részét képező – szakmai programjának megállapításához,
 
 e) az egyéb foglalkozás formáinak meghatározásához,
 
@@ -36,7 +36,7 @@ f) a könyvtár, a sportlétesítmények működési rendjének kialakításáho
 
 g) az intézményi SZMSZ-ben meghatározott ügyekben,
 
-h)[^317] az iskolai étkeztetés keretében biztosított ételek minőségéről, az iskola házirendjében szabályozott módon
+h)[^351] az iskolai étkeztetés keretében biztosított ételek minőségéről, az iskola házirendjében szabályozott módon
 
 ki kell kérni.
 
@@ -50,5 +50,5 @@ ki kell kérni.
 
 (10) A diákönkormányzatok jogosultak szövetséget létesíteni, továbbá ilyenhez csatlakozni. A szövetség az iskolában, kollégiumban a diákönkormányzat jogait nem gyakorolhatja.
 
-[^316]: A 120. § (5) bekezdés d) pontja a 20/2019. (VIII. 30.) EMMI rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^317]: A 120. § (5) bekezdés h) pontját a 20/2019. (VIII. 30.) EMMI rendelet 10. § (2) bekezdése iktatta be.
+[^350]: A 120. § (5) bekezdés d) pontja a 20/2019. (VIII. 30.) EMMI rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^351]: A 120. § (5) bekezdés h) pontját a 20/2019. (VIII. 30.) EMMI rendelet 10. § (2) bekezdése iktatta be.

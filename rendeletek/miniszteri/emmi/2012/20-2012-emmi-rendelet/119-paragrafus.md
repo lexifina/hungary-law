@@ -12,4 +12,6 @@ szótöbbséggel dönt.
 
 (3) Az iskolai, kollégiumi szülői szervezet, közösség kezdeményezheti az iskolaszék, kollégiumi szék létrehozását, továbbá dönt arról, hogy ki lássa el a szülők képviseletét az iskolaszékben, kollégiumi székben.
 
-(4) Az óvodai, iskolai, kollégiumi szülői szervezet, közösség figyelemmel kíséri a gyermeki, tanulói jogok érvényesülését, a pedagógiai munka eredményességét, a gyermekek, tanulók csoportját érintő bármely kérdésben tájékoztatást kérhet a nevelési-oktatási intézmény vezetőjétől, az e körbe tartozó ügyek tárgyalásakor képviselője tanácskozási joggal részt vehet a nevelőtestület értekezletein.
+(4)[^349] Az óvodai, iskolai, kollégiumi szülői szervezet, közösség figyelemmel kíséri a gyermeki, tanulói jogok érvényesülését, a pedagógiai munka eredményességét, a gyermekek, tanulók csoportját érintő bármely kérdésben tájékoztatást kérhet a nevelési-oktatási intézmény igazgatójától, az e körbe tartozó ügyek tárgyalásakor képviselője tanácskozási joggal részt vehet a nevelőtestület értekezletein.
+
+[^349]: A 119. § (4) bekezdése a 44/2023. (X. 19.) BM rendelet 23. § 18. pontja szerint módosított szöveg.

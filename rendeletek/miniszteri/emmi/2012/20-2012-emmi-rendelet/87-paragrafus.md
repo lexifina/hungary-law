@@ -10,6 +10,6 @@ c) elektronikus okirat,
 
 d) elektronikus úton előállított, az intézmény SZMSZ-ében meghatározott rend szerint hitelesített papíralapú nyomtatvány.
 
-(2)[^268] Az elektronikus okirat a miniszter által jóváhagyott rendszer alkalmazásával elektronikus úton előállított, az intézmény SZMSZ-ében meghatározott rend szerint elektronikus aláírással ellátott, elektronikusan tárolt irat.
+(2)[^294] Az elektronikus okirat a miniszter által jóváhagyott rendszer alkalmazásával elektronikus úton előállított, az intézmény SZMSZ-ében meghatározott rend szerint elektronikus aláírással ellátott, elektronikusan tárolt irat.
 
-[^268]: A 87. § (2) bekezdése az 52/2022. (XII. 27.) BM rendelet 24. § a) pontja szerint módosított szöveg.
+[^294]: A 87. § (2) bekezdése az 52/2022. (XII. 27.) BM rendelet 24. § a) pontja szerint módosított szöveg.

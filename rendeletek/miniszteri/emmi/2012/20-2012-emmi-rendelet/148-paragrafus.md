@@ -1,17 +1,19 @@
-## 58. [^444] A pedagógus, a köznevelési intézmény vezetője és a köznevelési intézmény ellenőrzésének sajátos szabályai
+## 58. Intézményellenőrzésre vonatkozó különös szabályok
 
-148. §[^445] (1)[^446] Pedagógus ellenőrzése esetén az ellenőrzésben érintett pedagógus az ellenőrzési terv elkészítése évének november 30-áig feltölti a pedagógusok előmeneteli rendszeréről és a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény köznevelési intézményekben történő végrehajtásáról szóló 326/2013. (VIII. 30.) Korm. rendelet 8. § (1) bekezdésében meghatározott portfólióból
+148. § (1) Az intézményellenőrzés célja, hogy iránymutatást adjon az intézmény pedagógiai-szakmai munkájának fejlesztéséhez annak feltárása által, hogy a köznevelési intézmény hogyan valósította meg a pedagógiai programjában és a munkatervében, valamint a 149. § (3) bekezdése szerinti intézkedési tervben foglaltakat. Az intézményellenőrzés módszere az interjúkészítés és dokumentumelemzés, a pedagógiai munkához szükséges infrastruktúra megfigyeléssel történő vizsgálata, valamint az intézmény feladatellátásával kapcsolatos kérdőíves felmérések és az intézményi önértékelés eredményeinek elemzése.
 
-a) a szakmai önéletrajzot,
+(2) Az intézményellenőrzés a következő területekre terjed ki:
 
-b) a pedagógust foglalkoztató intézmény intézményi környezetének rövid bemutatását,
+a) pedagógiai folyamatok,
 
-c) a szakmai életút értékelését
+b) személyiség- és közösségfejlesztés,
 
-a hivatal által működtetett informatikai támogató rendszerbe. Ha az ellenőrzés kijelölt időpontja előtt megváltozik a pedagógus munkáltatója, akkor a portfólió feltöltésére szolgáló informatikai hozzáférést úgy kell biztosítani számára, hogy a portfólió a)–c) pontban megjelölt elemeinek módosítására legalább tizenöt nap álljon rendelkezésre.
+c) az intézményben folyó pedagógiai munkával összefüggő eredmények,
 
-(2) A pedagógust egyidejűleg két szakértő látogatja meg. Ha a pedagógus munkakörének részét képezi tanítási óra, foglalkozás megtartása, a szakértők egy nap alatt a pedagógus két tanítási óráját, foglalkozását látogatják meg.
+d) belső kapcsolatok, együttműködés, kommunikáció,
 
-[^444]: Az 58. alcím címe a 22/2015. (IV. 21.) EMMI rendelet 11. §-ával megállapított szöveg.
-[^445]: A 148. § a 22/2015. (IV. 21.) EMMI rendelet 12. §-ával megállapított szöveg.
-[^446]: A 148. § (1) bekezdése a 22/2015. (IV. 21.) EMMI rendelet 13. §-ával megállapított, záró szövegrésze a 24/2017. (X. 3.) EMMI rendelet 14. § 3. pontja szerint módosított szöveg.
+e) az intézmény külső kapcsolatai,
+
+f) a pedagógiai működés feltételei, valamint
+
+g) az intézménytípusra vonatkozó nevelési, nevelési-oktatási irányelvben meghatározottak.

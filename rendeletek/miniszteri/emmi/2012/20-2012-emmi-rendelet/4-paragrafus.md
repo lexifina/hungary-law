@@ -12,13 +12,13 @@ d) ha a nevelési-oktatási intézmény tagintézménnyel, intézményegységgel
 
 e) a vezetők és a szervezeti egységek közötti kapcsolattartás rendjét, formáját, továbbá a vezetők közötti feladatmegosztást, a kiadmányozás és a képviselet szabályait, a szervezeti egységek közötti kapcsolattartás rendjét,
 
-f) az intézményvezető vagy intézményvezető-helyettes akadályoztatása esetén a helyettesítés rendjét,
+f)[^20] az igazgató vagy igazgatóhelyettes akadályoztatása esetén a helyettesítés rendjét,
 
 g) a vezetők és az iskolaszék, az óvodaszék, a kollégiumi szék, az intézményi tanács, valamint az óvodai, iskolai, kollégiumi szülői szervezet, közösség közötti kapcsolattartás formáját, rendjét,
 
 h) a nevelőtestület feladatkörébe tartozó ügyek átruházására, továbbá a feladatok ellátásával megbízott beszámolására vonatkozó rendelkezéseket,
 
-i)[^19] a külső kapcsolatok rendszerét, formáját és módját, beleértve a pedagógiai szakszolgálatokkal, a pedagógiai szakmai szolgáltatokkal, a gyermekjóléti szolgálattal, valamint az iskola-egészségügyi ellátást, illetve a tartós gyógykezelés alatt álló gyermek, tanuló egészségügyi ellátását biztosító egészségügyi szolgáltatóval való kapcsolattartást,
+i)[^21] a külső kapcsolatok rendszerét, formáját és módját, beleértve a pedagógiai szakszolgálatokkal, a pedagógiai szakmai szolgáltatokkal, a gyermekjóléti szolgálattal, valamint az iskola-egészségügyi ellátást, illetve a tartós gyógykezelés alatt álló gyermek, tanuló egészségügyi ellátását biztosító egészségügyi szolgáltatóval való kapcsolattartást,
 
 j) az ünnepélyek, megemlékezések rendjét, a hagyományok ápolásával kapcsolatos feladatokat,
 
@@ -34,13 +34,13 @@ o) annak meghatározását, hogy hol, milyen időpontban lehet tájékoztatást 
 
 p) azokat az ügyeket, amelyekben a szülői szervezetet, közösséget az SZMSZ véleményezési joggal ruházza fel,
 
-q)[^20] a nevelési-oktatási intézményben a tanulóval szemben lefolytatásra kerülő fegyelmi eljárást megelőző egyeztető eljárás, valamint a tanulóval szemben lefolytatásra kerülő fegyelmi eljárás részletes szabályait,
+q)[^22] a nevelési-oktatási intézményben a tanulóval szemben lefolytatásra kerülő fegyelmi eljárást megelőző egyeztető eljárás, valamint a tanulóval szemben lefolytatásra kerülő fegyelmi eljárás részletes szabályait,
 
 r) az elektronikus úton előállított papíralapú nyomtatványok hitelesítésének rendjét,
 
 s) az elektronikus úton előállított, hitelesített és tárolt dokumentumok kezelési rendjét,
 
-t) az intézményvezető feladat- és hatásköréből leadott feladat- és hatásköröket, munkakörileírás-mintákat,
+t)[^23] az igazgató feladat- és hatásköréből leadott feladat- és hatásköröket, munkakörileírás-mintákat,
 
 u) mindazokat a kérdéseket, amelyek meghatározását jogszabály előírja, továbbá a nevelési-oktatási intézmény működésével összefüggő minden olyan kérdést, amelyet jogszabály rendelkezése alapján készített szabályzatban nem kell, vagy nem lehet szabályozni.
 
@@ -54,7 +54,7 @@ c) a diákönkormányzat, a diákképviselők, valamint az iskolai vezetők köz
 
 d) az iskolai sportkör, valamint az iskola vezetése közötti kapcsolattartás formáit és rendjét,
 
-e)[^21] szakiskola és szakgimnázium esetén a gyakorlati képzést folytatókkal és szervezőkkel való kapcsolattartás formáit és rendjét,
+e)[^24] szakiskola és szakgimnázium esetén a gyakorlati képzést folytatókkal és szervezőkkel való kapcsolattartás formáit és rendjét,
 
 f) a gyermekek, tanulók egészségét veszélyeztető helyzetek kezelésére irányuló eljárásrendet,
 
@@ -68,9 +68,11 @@ tartalmazza.
 
 (5) Ha iskolaszék, óvodaszék, kollégiumi szék nem működik, az SZMSZ elfogadásakor az óvodai, iskolai, kollégiumi szülői szervezet, közösség véleményét kell beszerezni.
 
-(6)[^22] A közös igazgatású köznevelési intézmény és az általános művelődési központ SZMSZ-e tartalmazza a működés közös szabályait és – intézményegységenként külön-külön – az egyes intézményegységek működését meghatározó előírásokat.
+(6)[^25] A közös igazgatású köznevelési intézmény és az általános művelődési központ SZMSZ-e tartalmazza a működés közös szabályait és – intézményegységenként külön-külön – az egyes intézményegységek működését meghatározó előírásokat.
 
-[^19]: A 4. § (1) bekezdés i) pontja a 37/2021. (VIII. 31.) EMMI rendelet 23. § (1) bekezdés 3. pontja szerint módosított szöveg.
-[^20]: A 4. § (1) bekezdés q) pontja a 22/2013. (III. 22.) EMMI rendelet 2. §-ával megállapított szöveg.
-[^21]: A 4. § (2) bekezdés e) pontja a 31/2020. (VIII. 31.) EMMI rendelet 19. § 1. pontja szerint módosított szöveg.
-[^22]: A 4. § (6) bekezdése a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 2. pontja szerint módosított szöveg.
+[^20]: A 4. § (1) bekezdés f) pontja a 44/2023. (X. 19.) BM rendelet 23. § 2. és 3. pontja szerint módosított szöveg.
+[^21]: A 4. § (1) bekezdés i) pontja a 37/2021. (VIII. 31.) EMMI rendelet 23. § (1) bekezdés 3. pontja szerint módosított szöveg.
+[^22]: A 4. § (1) bekezdés q) pontja a 22/2013. (III. 22.) EMMI rendelet 2. §-ával megállapított szöveg.
+[^23]: A 4. § (1) bekezdés t) pontja a 44/2023. (X. 19.) BM rendelet 23. § 2. pontja szerint módosított szöveg.
+[^24]: A 4. § (2) bekezdés e) pontja a 31/2020. (VIII. 31.) EMMI rendelet 19. § 1. pontja szerint módosított szöveg.
+[^25]: A 4. § (6) bekezdése a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 2. pontja szerint módosított szöveg.

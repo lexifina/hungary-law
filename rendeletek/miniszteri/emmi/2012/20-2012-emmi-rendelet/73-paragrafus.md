@@ -1,12 +1,12 @@
-73. § (1)[^242] A független vizsgabizottság előtt letehető tanulmányok alatti vizsgát a kormányhivatal szervezi.
+73. § (1)[^258] A független vizsgabizottság előtt letehető tanulmányok alatti vizsgát a kormányhivatal szervezi.
 
-(2)[^243] A tanuló – kiskorú tanuló esetén a szülője – a félév vagy a tanítási év utolsó napját megelőző harmincadik napig, az 51. § (7) bekezdésében meghatározott esetben az engedély megadását követő öt napon belül jelentheti be, ha osztályzatának megállapítása céljából független vizsgabizottság előtt kíván számot adni tudásáról. A bejelentésben meg kell jelölni, hogy milyen tantárgyból kíván vizsgát tenni. Az iskola igazgatója a bejelentést nyolc napon belül továbbítja a kormányhivatalnak, amelyik az első félév, valamint a tanítási év utolsó hetében szervezi meg a vizsgát.
+(2)[^259] A tanuló – kiskorú tanuló esetén a szülője – a félév vagy a tanítási év utolsó napját megelőző harmincadik napig, az 51. § (7) bekezdésében meghatározott esetben az engedély megadását követő öt napon belül jelentheti be, ha osztályzatának megállapítása céljából független vizsgabizottság előtt kíván számot adni tudásáról. A bejelentésben meg kell jelölni, hogy milyen tantárgyból kíván vizsgát tenni. Az iskola igazgatója a bejelentést nyolc napon belül továbbítja a kormányhivatalnak, amelyik az első félév, valamint a tanítási év utolsó hetében szervezi meg a vizsgát.
 
-(3)[^244] A tanuló – kiskorú tanuló esetén a szülője – a bizonyítvány átvételét követő tizenöt napon belül kérheti, hogy amennyiben bármely tantárgyból javítóvizsgára utasították, akkor azt független vizsgabizottság előtt tehesse le. Az iskola a kérelmet nyolc napon belül továbbítja a kormányhivatalnak.
+(3)[^260] A tanuló – kiskorú tanuló esetén a szülője – a bizonyítvány átvételét követő tizenöt napon belül kérheti, hogy amennyiben bármely tantárgyból javítóvizsgára utasították, akkor azt független vizsgabizottság előtt tehesse le. Az iskola a kérelmet nyolc napon belül továbbítja a kormányhivatalnak.
 
-(4)[^245] A kormányhivatal által szervezett független vizsgabizottságnak nem lehet tagja az a pedagógus, akinek a vizsgázó hozzátartozója, továbbá aki abban az iskolában tanít, amellyel a vizsgázó tanulói jogviszonyban áll.
+(4)[^261] A kormányhivatal által szervezett független vizsgabizottságnak nem lehet tagja az a pedagógus, akinek a vizsgázó hozzátartozója, továbbá aki abban az iskolában tanít, amellyel a vizsgázó tanulói jogviszonyban áll.
 
-[^242]: A 73. § (1) bekezdése a 20/2016. (VIII. 24.) EMMI rendelet 6. §-ával megállapított, a 14/2020. (IV. 16.) EMMI rendelet 1. § g) pontja szerint módosított szöveg.
-[^243]: A 73. § (2) bekezdése a 14/2020. (IV. 16.) EMMI rendelet 1. § h) pontja szerint módosított szöveg.
-[^244]: A 73. § (3) bekezdése a 14/2020. (IV. 16.) EMMI rendelet 1. § h) pontja szerint módosított szöveg.
-[^245]: A 73. § (4) bekezdése a 14/2020. (IV. 16.) EMMI rendelet 1. § g) pontja szerint módosított szöveg.
+[^258]: A 73. § (1) bekezdése a 20/2016. (VIII. 24.) EMMI rendelet 6. §-ával megállapított, a 14/2020. (IV. 16.) EMMI rendelet 1. § g) pontja szerint módosított szöveg.
+[^259]: A 73. § (2) bekezdése a 14/2020. (IV. 16.) EMMI rendelet 1. § h) pontja szerint módosított szöveg.
+[^260]: A 73. § (3) bekezdése a 14/2020. (IV. 16.) EMMI rendelet 1. § h) pontja szerint módosított szöveg.
+[^261]: A 73. § (4) bekezdése a 14/2020. (IV. 16.) EMMI rendelet 1. § g) pontja szerint módosított szöveg.

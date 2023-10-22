@@ -4,13 +4,13 @@
 
 ## 3. A munkaterv
 
-3. § (1) Az óvodai, az iskolai és a kollégiumi munkaterv határozza meg az óvodai nevelési év, valamint az iskolai, kollégiumi tanév helyi rendjét. Ennek elkészítéséhez az intézményvezető kikéri a fenntartó, az óvodaszék, iskolaszék, kollégiumi szék, az óvodai, iskolai, kollégiumi szülői szervezet, közösség, az intézményi tanács, a tanulókat érintő programokat illetően az iskolai, kollégiumi diákönkormányzat, továbbá, ha a gyakorlati képzés nem az iskolában folyik, a gyakorlati képzés folytatójának véleményét is.
+3. § (1)[^12] Az óvodai, az iskolai és a kollégiumi munkaterv határozza meg az óvodai nevelési év, valamint az iskolai, kollégiumi tanév helyi rendjét. Ennek elkészítéséhez az igazgató kikéri a nevelőtestület, az óvodaszék, iskolaszék, kollégiumi szék, az óvodai, iskolai, kollégiumi szülői szervezet, közösség, az intézményi tanács, a tanulókat érintő programokat illetően az iskolai, kollégiumi diákönkormányzat, továbbá, ha a gyakorlati képzés nem az iskolában folyik, a gyakorlati képzés folytatójának véleményét is.
 
 (2) Az óvodai nevelési év helyi rendjében, valamint az iskolai, kollégiumi tanév helyi rendjében kell meghatározni
 
 a) az óvodai nevelés nélküli munkanapok, az iskolai tanítás nélküli munkanapok időpontját, felhasználását,
 
-b)[^12] az iskolai szünetek időtartamát,
+b)[^13] az iskolai szünetek időtartamát,
 
 c) az iskolában a nemzetünk szabadságtörekvéseit tükröző, továbbá nemzeti múltunk mártírjainak emlékét, példáját őrző, az aradi vértanúk (október 6.), a kommunista és egyéb diktatúrák áldozatai (február 25.), a holokauszt áldozatai (április 16.), a Nemzeti Összetartozás Napja (június 4.), a március 15-ei és az október 23-ai nemzeti ünnepek, valamint az iskola hagyományai ápolása érdekében meghonosított egyéb emléknapok, megemlékezések időpontját,
 
@@ -24,15 +24,15 @@ g) az alapfokú művészeti iskola és kollégium kivételével a tanulók fizik
 
 h) minden egyéb, a nevelőtestület által szükségesnek ítélt kérdést,
 
-i)[^13] az iskolai kórus időpontjait, amely foglalkozás ideje alatt más tanórán kívüli tevékenység a kórustagok számára nem folytatható,
+i)[^14] az iskolai kórus időpontjait, amely foglalkozás ideje alatt más tanórán kívüli tevékenység a kórustagok számára nem folytatható,
 
-j)[^14] az iskolai sportkör szakmai programját,
+j)[^15] az iskolai sportkör szakmai programját,
 
-k)[^15] az általános iskolák 1–8. évfolyamán, a tanítási év során tervezett színházi, tánc- és cirkuszi előadások, komolyzenei hangversenyek, valamint az őshonos állatok bemutatóhelyei látogatásának előre tervezhető időszakát.
+k)[^16] az általános iskolák 1–8. évfolyamán, a tanítási év során tervezett színházi, tánc- és cirkuszi előadások, komolyzenei hangversenyek, valamint az őshonos állatok bemutatóhelyei látogatásának előre tervezhető időszakát.
 
-(2a)[^16] Az iskola munkatervében kell meghatározni azoknak a tanulmányi versenyeknek az időpontját, amelyekben az iskola a tanulóival részt kíván venni. Ha a tanulmányi versenyt a munkaterv elfogadásakor még nem hirdették meg, az iskola a felkészítést a munkatervben való feltüntetés nélkül is elvégezheti. Ha a versenyek anyagi ráfordítást igényelnek, ahhoz a fenntartó egyetértése szükséges.
+(2a)[^17] Az iskola munkatervében kell meghatározni azoknak a tanulmányi versenyeknek az időpontját, amelyekben az iskola a tanulóival részt kíván venni. Ha a tanulmányi versenyt a munkaterv elfogadásakor még nem hirdették meg, az iskola a felkészítést a munkatervben való feltüntetés nélkül is elvégezheti. Ha a versenyek anyagi ráfordítást igényelnek, ahhoz a fenntartó egyetértése szükséges.
 
-(2b)[^17] Az iskolai nevelés-oktatás mellett
+(2b)[^18] Az iskolai nevelés-oktatás mellett
 
 a) az Nkt. 6. §-a szerinti érettségi vizsga,
 
@@ -56,12 +56,13 @@ a kerettantervek végrehajtását szolgálják. Az a)–e) pont szerinti esemén
 
 (7) Az óvodában a napirendet úgy kell kialakítani, hogy a szülők – a házirendben meghatározottak szerint – gyermeküket az óvodai tevékenység zavarása nélkül behozhassák és hazavihessék. Az óvoda nyári zárva tartásáról legkésőbb február tizenötödikéig, a nevelés nélküli munkanapokról legalább hét nappal a zárva tartást megelőzően a szülőket tájékoztatni kell.
 
-(8)[^18]
+(8)[^19]
 
-[^12]: A 3. § (2) bekezdés b) pontja a 37/2021. (VIII. 31.) EMMI rendelet 23. § (1) bekezdés 2. pontja szerint módosított szöveg.
-[^13]: A 3. § (2) bekezdés i) pontját a 20/2016. (VIII. 24.) EMMI rendelet 2. §-a iktatta be.
-[^14]: A 3. § (2) bekezdés j) pontját a 20/2019. (VIII. 30.) EMMI rendelet 4. § (1) bekezdése iktatta be.
-[^15]: A 3. § (2) bekezdés k) pontját a 20/2019. (VIII. 30.) EMMI rendelet 4. § (1) bekezdése iktatta be.
-[^16]: A 3. § (2a) bekezdését a 20/2019. (VIII. 30.) EMMI rendelet 4. § (2) bekezdése iktatta be.
-[^17]: A 3. § (2b) bekezdését a 31/2020. (VIII. 31.) EMMI rendelet 2. §-a iktatta be, szövege a 37/2021. (VIII. 31.) EMMI rendelet 1. §-ával megállapított szöveg.
-[^18]: A 3. § (8) bekezdését a 45/2014. (X. 27.) EMMI rendelet 55. § a) pontja hatályon kívül helyezte.
+[^12]: A 3. § (1) bekezdése a 44/2023. (X. 19.) BM rendelet 23. § 1. pontja szerint módosított szöveg.
+[^13]: A 3. § (2) bekezdés b) pontja a 37/2021. (VIII. 31.) EMMI rendelet 23. § (1) bekezdés 2. pontja szerint módosított szöveg.
+[^14]: A 3. § (2) bekezdés i) pontját a 20/2016. (VIII. 24.) EMMI rendelet 2. §-a iktatta be.
+[^15]: A 3. § (2) bekezdés j) pontját a 20/2019. (VIII. 30.) EMMI rendelet 4. § (1) bekezdése iktatta be.
+[^16]: A 3. § (2) bekezdés k) pontját a 20/2019. (VIII. 30.) EMMI rendelet 4. § (1) bekezdése iktatta be.
+[^17]: A 3. § (2a) bekezdését a 20/2019. (VIII. 30.) EMMI rendelet 4. § (2) bekezdése iktatta be.
+[^18]: A 3. § (2b) bekezdését a 31/2020. (VIII. 31.) EMMI rendelet 2. §-a iktatta be, szövege a 37/2021. (VIII. 31.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^19]: A 3. § (8) bekezdését a 45/2014. (X. 27.) EMMI rendelet 55. § a) pontja hatályon kívül helyezte.

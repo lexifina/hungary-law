@@ -4,14 +4,14 @@
 
 (2) Az iskolai, kollégiumi könyvtár SZMSZ-e szabályozza működésének és igénybevételének szabályait. E rendelet határozza meg azokat az előírásokat, amelyeket minden iskolai, kollégiumi könyvtár működtetésénél meg kell tartani, továbbá amelyek figyelembevételével a könyvtár igénybevételével és használatával kapcsolatos rendelkezéseket el kell készíteni.
 
-(3)[^498]
+(3)[^493]
 
 (4) Az iskolai, kollégiumi könyvtár állományába csak a könyvtár gyűjtőkörébe tartozó dokumentum vehető fel.
 
-(5)[^499] Az iskolai könyvtárban a tankönyveket elkülönítve kell kezelni és gyűjteni, ennek sajátos rendjét a tankönyvtári szabályzatban kell rögzíteni.
+(5)[^494] Az iskolai könyvtárban a tankönyveket elkülönítve kell kezelni és gyűjteni, ennek sajátos rendjét a tankönyvtári szabályzatban kell rögzíteni.
 
-(6)[^500]
+(6)[^495]
 
-[^498]: A 163. § (3) bekezdését a 22/2013. (III. 22.) EMMI rendelet 40. § n) pontja hatályon kívül helyezte.
-[^499]: A 163. § (5) bekezdése a 22/2013. (III. 22.) EMMI rendelet 30. §-ával megállapított szöveg.
-[^500]: A 163. § (6) bekezdését a 22/2013. (III. 22.) EMMI rendelet 40. § n) pontja hatályon kívül helyezte.
+[^493]: A 163. § (3) bekezdését a 22/2013. (III. 22.) EMMI rendelet 40. § n) pontja hatályon kívül helyezte.
+[^494]: A 163. § (5) bekezdése a 22/2013. (III. 22.) EMMI rendelet 30. §-ával megállapított szöveg.
+[^495]: A 163. § (6) bekezdését a 22/2013. (III. 22.) EMMI rendelet 40. § n) pontja hatályon kívül helyezte.

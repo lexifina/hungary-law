@@ -4,7 +4,7 @@
 
 a) a gyermek, tanuló távolmaradásának, mulasztásának, késésének igazolására vonatkozó előírásokat,
 
-b)[^23] az állami fenntartású nevelési-oktatási intézmények kivételével a térítési díj, tandíj befizetésére, visszafizetésére vonatkozó rendelkezéseket, továbbá a tanuló által előállított termék, dolog, alkotás vagyoni jogára vonatkozó díjazás szabályait,
+b)[^26] az állami fenntartású nevelési-oktatási intézmények kivételével a térítési díj, tandíj befizetésére, visszafizetésére vonatkozó rendelkezéseket, továbbá a tanuló által előállított termék, dolog, alkotás vagyoni jogára vonatkozó díjazás szabályait,
 
 c) a szociális ösztöndíj, a szociális támogatás megállapításának és felosztásának elveit, a nem alanyi jogon járó tankönyvtámogatás elvét, az elosztás rendjét,
 
@@ -16,9 +16,9 @@ f) a fegyelmező intézkedések formáit és alkalmazásának elveit,
 
 g) elektronikus napló használata esetén a szülő részéről történő hozzáférés módját,
 
-h)[^24] a tanulmányok alatti vizsgák tervezett idejét, az osztályozó vizsgára jelentkezés módját és határidejét,
+h)[^27] a tanulmányok alatti vizsgák tervezett idejét, az osztályozó vizsgára jelentkezés módját és határidejét,
 
-i)[^25] a tankönyvellátás iskolán belüli szabályait.
+i)[^28] a tankönyvellátás iskolán belüli szabályait.
 
 (2) Az (1) bekezdésben foglaltakon túl az iskola és a kollégium házirendje állapítja meg
 
@@ -32,17 +32,17 @@ d) a tanulók tantárgyválasztásával, annak módosításával kapcsolatos elj
 
 e) a kollégiumi lakhatás ideje alatt a kollégiumon kívüli tartózkodás során elvárt tanulói magatartást,
 
-f)[^26] az iskola és a kollégium helyiségei, berendezési tárgyai, eszközei és az iskolához, kollégiumhoz tartozó területek használatának rendjét, figyelembe véve a környezettudatos használatra vonatkozó szabályokat,
+f)[^29] az iskola és a kollégium helyiségei, berendezési tárgyai, eszközei és az iskolához, kollégiumhoz tartozó területek használatának rendjét, figyelembe véve a környezettudatos használatra vonatkozó szabályokat,
 
 g) az iskola, kollégium által szervezett, a pedagógiai program végrehajtásához kapcsolódó iskolán, kollégiumon kívüli rendezvényeken elvárt tanulói magatartást,
 
-h)[^27] a mobiltelefon és egyéb digitális, infokommunikációs eszköz tanórai és egyéb foglalkozásokon való használatának szabályait,
+h)[^30] a mobiltelefon és egyéb digitális, infokommunikációs eszköz tanórai és egyéb foglalkozásokon való használatának szabályait,
 
-i)[^28] büntetőjogi és fegyelmi eljárás hatálya alá nem tartozó, pedagógus vagy a köznevelési intézmény egyéb alkalmazottja ellen irányuló, a köznevelési intézménnyel jogviszonyban álló tanuló részéről elkövetett közösségellenes vagy azzal fenyegető cselekmények megelőzésének, kivizsgálásának, elbírálásának elveit és az alkalmazandó intézkedéseket.
+i)[^31] büntetőjogi és fegyelmi eljárás hatálya alá nem tartozó, pedagógus vagy a köznevelési intézmény egyéb alkalmazottja ellen irányuló, a köznevelési intézménnyel jogviszonyban álló tanuló részéről elkövetett közösségellenes vagy azzal fenyegető cselekmények megelőzésének, kivizsgálásának, elbírálásának elveit és az alkalmazandó intézkedéseket.
 
-[^23]: Az 5. § (1) bekezdése a 20/2016. (VIII. 24.) EMMI rendelet 27. § 4. pontja szerint módosított szöveg.
-[^24]: Az 5. § (1) bekezdés h) pontja a 34/2019. (XII. 30.) EMMI rendelet 14. § a) pontja szerint módosított szöveg.
-[^25]: Az 5. § (1) bekezdés i) pontját a 45/2014. (X. 27.) EMMI rendelet 2. §-a iktatta be.
-[^26]: Az 5. § (2) bekezdés f) pontja a 20/2019. (VIII. 30.) EMMI rendelet 24. § 1. pontja szerint módosított szöveg.
-[^27]: Az 5. § (2) bekezdés h) pontját a 31/2020. (VIII. 31.) EMMI rendelet 3. §-a iktatta be.
-[^28]: Az 5. § (2) bekezdés i) pontját a 31/2020. (VIII. 31.) EMMI rendelet 3. §-a iktatta be.
+[^26]: Az 5. § (1) bekezdése a 20/2016. (VIII. 24.) EMMI rendelet 27. § 4. pontja szerint módosított szöveg.
+[^27]: Az 5. § (1) bekezdés h) pontja a 34/2019. (XII. 30.) EMMI rendelet 14. § a) pontja szerint módosított szöveg.
+[^28]: Az 5. § (1) bekezdés i) pontját a 45/2014. (X. 27.) EMMI rendelet 2. §-a iktatta be.
+[^29]: Az 5. § (2) bekezdés f) pontja a 20/2019. (VIII. 30.) EMMI rendelet 24. § 1. pontja szerint módosított szöveg.
+[^30]: Az 5. § (2) bekezdés h) pontját a 31/2020. (VIII. 31.) EMMI rendelet 3. §-a iktatta be.
+[^31]: Az 5. § (2) bekezdés i) pontját a 31/2020. (VIII. 31.) EMMI rendelet 3. §-a iktatta be.

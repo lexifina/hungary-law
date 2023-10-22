@@ -1,6 +1,6 @@
 ## 10. § A kollégium pedagógiai programja
 
-a)[^52] a kollégiumi nevelés országos alapprogramjának kiadásáról szóló jogszabályban meghatározottaknak megfelelően a kollégiumi nevelés alapelveit, értékeit, célkitűzéseit,
+a)[^55] a kollégiumi nevelés országos alapprogramjának kiadásáról szóló jogszabályban meghatározottaknak megfelelően a kollégiumi nevelés alapelveit, értékeit, célkitűzéseit,
 
 b) a tanulók életrendje, tanulása, szabadideje szervezésének pedagógiai elveit,
 
@@ -20,11 +20,11 @@ i) a kollégium hagyományait és továbbfejlesztésének tervét,
 
 j) az iskolával, a szülővel való kapcsolattartás és együttműködés formáit,
 
-k)[^53] egészségnevelési és környezeti nevelési elveket, programokat, tevékenységeket,
+k)[^56] egészségnevelési és környezeti nevelési elveket, programokat, tevékenységeket,
 
 l) a nevelőtestület által szükségesnek tartott további kérdéseket
 
 tartalmazza.
 
-[^52]: A 10. § a) pontja a 45/2014. (X. 27.) EMMI rendelet 4. §-ával megállapított szöveg.
-[^53]: A 10. § k) pontja a 20/2019. (VIII. 30.) EMMI rendelet 24. § 4. pontja szerint módosított szöveg.
+[^55]: A 10. § a) pontja a 45/2014. (X. 27.) EMMI rendelet 4. §-ával megállapított szöveg.
+[^56]: A 10. § k) pontja a 20/2019. (VIII. 30.) EMMI rendelet 24. § 4. pontja szerint módosított szöveg.

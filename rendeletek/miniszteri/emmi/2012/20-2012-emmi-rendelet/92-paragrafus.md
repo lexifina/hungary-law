@@ -2,7 +2,7 @@
 
 (2) Az óvodai törzskönyv tartalmazza
 
-a) a törzskönyvi bejegyzések hitelesítésének időpontját, az óvodavezető aláírását, papíralapú nyomtatvány esetén az óvoda körbélyegzőjének lenyomatát,
+a)[^308] a törzskönyvi bejegyzések hitelesítésének időpontját, az óvodaigazgató aláírását, papíralapú nyomtatvány esetén az óvoda körbélyegzőjének lenyomatát,
 
 b) az óvoda nevét és címét,
 
@@ -25,3 +25,5 @@ j) kimutatást az óvoda helyiségeiről (alapterület, férőhely, minőség, h
 k) az óvoda könyvtárának adatait (állományát, állományának gyarapodását, csökkenését) nevelési évenként,
 
 l) az óvodapedagógusok és egyéb alkalmazottak adatai közül a nevet, születési helyet és időt, a végzettséget, szakképzettséget, a beosztást, a szolgálati idő kezdetét, a munkába lépés és kilépés időpontját.
+
+[^308]: A 92. § (2) bekezdés a) pontja a 44/2023. (X. 19.) BM rendelet 23. § 8. pontja szerint módosított szöveg.

@@ -1,7 +1,9 @@
-154. §[^461] (1) A pedagógus ellenőrzésében az érintett pedagógussal azonos munkakörben és intézménytípusban szerzett legalább ötéves szakmai gyakorlattal rendelkező pedagógus vehet részt.
+## 59. Az országos pedagógiai-szakmai ellenőrzésben résztvevő szakértő tevékenysége folytatásának szakmai feltételei
 
-(2) Az intézményvezető ellenőrzésében az érintett intézményvezetővel azonos intézménytípusban szerzett legalább ötéves szakmai gyakorlattal rendelkező pedagógus vehet részt. Az intézményvezető vezetői ellenőrzésében részt vevő szakértők közül legalább az egyiknek szintén intézményvezetőnek vagy korábban intézményvezetői feladatot ellátó személynek kell lennie.
+154. § (1) Az országos pedagógiai-szakmai ellenőrzésben olyan köznevelési szakértő vehet részt, aki
 
-(3) Az intézményellenőrzést az adott intézménytípusban szerzett legalább ötéves szakmai gyakorlattal rendelkező szakértő végzi. Ha az intézményvezető ellenőrzésére a 146. § (9) bekezdése alapján kerül sor, a szakértők közül legalább egynek intézményvezetőnek vagy korábban intézményvezetői feladatot ellátó személynek kell lennie.
+a) pedagógiai-szakmai ellenőrzés és pedagógusminősítés szakterületen szerepel az Országos szakértői névjegyzékben, valamint
 
-[^461]: A 154. § a 22/2015. (IV. 21.) EMMI rendelet 19. §-ával megállapított szöveg.
+b) az országos pedagógiai-szakmai ellenőrzéshez szükséges szakmai ismereteket a hivatal honlapján a mesterpedagógus fokozatot megcélzó pedagógusok számára meghirdetett, a hivatal által szervezett hatvanórás akkreditált pedagógus-továbbképzés keretében elsajátította.
+
+(2) Az intézményellenőrzést az adott intézménytípusban szerzett legalább ötéves szakmai gyakorlattal rendelkező szakértő végzi.

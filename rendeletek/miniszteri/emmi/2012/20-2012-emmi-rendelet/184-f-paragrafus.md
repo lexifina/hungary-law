@@ -4,11 +4,11 @@
 
 a) tankönyvrendelés határideje április utolsó munkanapja,
 
-b)[^612] tankönyvrendelés módosításának határideje június 30.,
+b)[^608] tankönyvrendelés módosításának határideje június 30.,
 
 c) pótrendelés határideje szeptember 15.
 
-(2)[^613]
+(2)[^609]
 
 (3) Az (1) bekezdés a) pontja szerinti tankönyvrendelést a tankönyvrendelés időpontjában rendelkezésre álló információk alapján kell teljesíteni, legalább a kiválasztott tankönyvek címének, darabszámának, az érintett tanulóknak és a tanulókat esetlegesen megillető támogatásoknak a feltüntetésével.
 
@@ -30,5 +30,5 @@ b) az, hogy az adott tanévi tankönyvjegyzék az (1) bekezdés a) pontjában fo
 
 (10) Az iskola a hit- és erkölcstanoktatáshoz a bevett egyház által alkalmazott tankönyvekre vonatkozó rendelését tankönyvenként és egyházanként összesítve küldi meg a könyvtárellátó részére. A könyvtárellátó az adott egyházra vonatkozó adatok összesítését követően megküldi az adatokat az érintett bevett egyház számára. A hit- és erkölcstanoktatáshoz alkalmazott tankönyvek beszerzéséről és az iskolákhoz tanévkezdésre történő eljuttatásáról a bevett egyház gondoskodik.
 
-[^612]: A 184/F. § (1) bekezdés b) pontja a 20/2019. (VIII. 30.) EMMI rendelet 25. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^613]: A 184/F. § (2) bekezdését a 20/2019. (VIII. 30.) EMMI rendelet 25. § (2) bekezdés d) pontja hatályon kívül helyezte.
+[^608]: A 184/F. § (1) bekezdés b) pontja a 20/2019. (VIII. 30.) EMMI rendelet 25. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^609]: A 184/F. § (2) bekezdését a 20/2019. (VIII. 30.) EMMI rendelet 25. § (2) bekezdés d) pontja hatályon kívül helyezte.
