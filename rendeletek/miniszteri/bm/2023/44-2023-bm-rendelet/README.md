@@ -1,0 +1,9 @@
+# 44/2023. (X. 19.) BM rendelet
+
+a pedagógusok új életpályájáról szóló 2023. évi LII. törvény hatálybalépésével kapcsolatos egyes köznevelési tárgyú miniszteri rendeletek módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-44-20-0A
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2023-10-22 | 2023-44-20-0A.1 | 44/2023. (X. 19.) BM rendelet |
