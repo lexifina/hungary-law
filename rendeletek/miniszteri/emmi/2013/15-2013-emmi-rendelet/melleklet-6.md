@@ -14,7 +14,7 @@
 
 | 6. | Tagintézményigazgató-helyettes (Tagintézményvezető-helyettes) | Tagintézményenként | 1 |
 
-6. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^212]
+6. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^216]
 
 1. A pedagógus-munkakörben foglalkoztatottak szakképzettségi követelményei a vármegyében, fővárosban az Intézmény egyes tevékenységeinek ellátásához
 
@@ -124,4 +124,4 @@
 
 | 2 | Egyéb munkakörök | ügyviteli dolgozó, kisegítő dolgozó, munkaügyi, személyzeti előadó, gazdasági dolgozó, műszaki dolgozó |
 
-[^212]: A 6. melléklet az 53/2016. (XII. 29.) EMMI rendelet 45. §-ával megállapított és 48. § d) pontja, a 24/2017. (X. 3.) EMMI rendelet 26. §-a, a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 21. pontja, 12. § (1) bekezdés a), i) és l) pontja, a 45/2022. (XII. 20.) BM rendelet 71. § b) pontja szerint módosított szöveg.
+[^216]: A 6. melléklet az 53/2016. (XII. 29.) EMMI rendelet 45. §-ával megállapított és 48. § d) pontja, a 24/2017. (X. 3.) EMMI rendelet 26. §-a, a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 21. pontja, 12. § (1) bekezdés a), i) és l) pontja, a 45/2022. (XII. 20.) BM rendelet 71. § b) pontja szerint módosított szöveg.

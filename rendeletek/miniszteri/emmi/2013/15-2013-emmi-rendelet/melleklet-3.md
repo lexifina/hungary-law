@@ -1,4 +1,4 @@
-3. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^210]
+3. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^214]
 
 A szakértői vélemény elkészítésének szakmai követelményei
 
@@ -420,4 +420,4 @@ A vizsgálatok céljai:
 
 | Toalett, alvás- és étkezési szokások megismerése | Szülői kikérdezés Pedagógiai jellemzés elemzése |
 
-[^210]: A 3. melléklet a 8/2014. (I. 30.) EMMI rendelet 31. § 14. és 15. pontja, a 14/2020. (IV. 16.) EMMI rendelet 12. § (1) bekezdés j)–k) pontja, a 37/2021. (VIII. 31.) EMMI rendelet 35. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^214]: A 3. melléklet a 8/2014. (I. 30.) EMMI rendelet 31. § 14. és 15. pontja, a 14/2020. (IV. 16.) EMMI rendelet 12. § (1) bekezdés j)–k) pontja, a 37/2021. (VIII. 31.) EMMI rendelet 35. § (1) bekezdés c) pontja szerint módosított szöveg.

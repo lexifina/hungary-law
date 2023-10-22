@@ -1,10 +1,10 @@
-## 3. [^31] A gyógypedagógiai tanácsadás, korai fejlesztés és gondozás
+## 3. [^32] A gyógypedagógiai tanácsadás, korai fejlesztés és gondozás
 
-4. § (1)[^32] Az Nkt. 18. § (2) bekezdés a) pontja szerinti gyógypedagógiai tanácsadás, korai fejlesztés és gondozás (a továbbiakban: korai fejlesztés és gondozás) feladata a komplex koragyermekkori prevenció, tanácsadás és fejlesztés, az ellátásra való jogosultság megállapításának időpontjától kezdődően a gyermek fejlődésének elősegítése, a család kompetenciáinak erősítése, a gyermek és a család társadalmi inklúziójának támogatása érdekében. A korai fejlesztés és gondozás tevékenységei a komplex gyógypedagógiai, konduktív pedagógiai tanácsadás, a kognitív, a szociális, a kommunikációs és a nyelvi készségek fejlesztése, a mozgásfejlesztés és a pszichológiai segítségnyújtás.
+4. § (1)[^33] Az Nkt. 18. § (2) bekezdés a) pontja szerinti gyógypedagógiai tanácsadás, korai fejlesztés és gondozás (a továbbiakban: korai fejlesztés és gondozás) feladata a komplex koragyermekkori prevenció, tanácsadás és fejlesztés, az ellátásra való jogosultság megállapításának időpontjától kezdődően a gyermek fejlődésének elősegítése, a család kompetenciáinak erősítése, a gyermek és a család társadalmi inklúziójának támogatása érdekében. A korai fejlesztés és gondozás tevékenységei a komplex gyógypedagógiai, konduktív pedagógiai tanácsadás, a kognitív, a szociális, a kommunikációs és a nyelvi készségek fejlesztése, a mozgásfejlesztés és a pszichológiai segítségnyújtás.
 
-(2)[^33] A korai fejlesztés és gondozás megkezdésére a szakértői bizottság tesz javaslatot.
+(2)[^34] A korai fejlesztés és gondozás megkezdésére a szakértői bizottság tesz javaslatot.
 
-(2a)[^34] A szakértői bizottság a három évnél fiatalabb gyermek esetében szakértői véleményét a gyermek külön vizsgálata nélkül, a neonatológia, csecsemő és gyermek fül-orr-gégegyógyászat, audiológia, szemész, ortopédia és traumatológia, gyermek- és ifjúságpszichiátria, fizikális medicina és rehabilitációs orvoslás, orvosi rehabilitáció csecsemő- és gyermekgyógyászat szakterületen, illetve gyermek-neurológia szakorvos által felállított diagnosztikai vélemény és terápiás javaslat alapján is elkészítheti.
+(2a)[^35] A szakértői bizottság a három évnél fiatalabb gyermek esetében szakértői véleményét a gyermek külön vizsgálata nélkül, a neonatológia, csecsemő és gyermek fül-orr-gégegyógyászat, audiológia, szemész, ortopédia és traumatológia, gyermek- és ifjúságpszichiátria, fizikális medicina és rehabilitációs orvoslás, orvosi rehabilitáció csecsemő- és gyermekgyógyászat szakterületen, illetve gyermek-neurológia szakorvos által felállított diagnosztikai vélemény és terápiás javaslat alapján is elkészítheti.
 
 (3) Ha a gyermek bölcsődei nevelésben, gyermekotthoni ellátásban, fogyatékosok nappali intézményében, fogyatékosok ápoló-gondozó bentlakásos intézményében intézményi ellátásban részesül, a korai fejlesztést és gondozást – amennyiben a feladat ellátásához szükséges feltételek biztosítottak – az intézményben kell ellátni. A pedagógiai szakszolgálati intézmény a tanácsadást a szülőn kívül a feladatellátási hely adott gyermekkel foglalkozó szakalkalmazottai részére is biztosítja.
 
@@ -12,33 +12,33 @@
 
 (5) A korai fejlesztés és gondozás egyéni foglalkozás, vagy legfeljebb hat gyermekből álló csoportfoglalkozás keretében valósítható meg.
 
-(6)[^35] A korai fejlesztés és gondozás keretében a gyermek állapotának, szükségleteinek, valamint a család terhelhetőségének függvényében a fejlesztési feladatok végrehajtásának időkerete
+(6)[^36] A korai fejlesztés és gondozás keretében a gyermek állapotának, szükségleteinek, valamint a család terhelhetőségének függvényében a fejlesztési feladatok végrehajtásának időkerete
 
-a) 0–3 éves kor között: legalább heti egy, legfeljebb heti négy óra,
+a) 0–2 éves kor között legalább heti egy óra,
 
-b) 3–5 éves kor között legalább heti kettő, legfeljebb heti öt óra,
+b) 3–4 éves kor között legalább heti kettő óra,
 
 c) 5–6 éves kor között legalább heti öt óra.
 
 (7) A heti időkeretet a szakértői bizottság állapítja meg. Az időkeretet a fejlesztést ellátó szakember a szakértői bizottság írásbeli egyetértésével módosíthatja. A fejlesztés a gyermek állapota alapján egyéni, vagy csoportfoglalkozáson, illetve vegyesen – egyéni és csoportfoglalkozáson – is történhet.
 
-(7a)[^36] Intenzív ellátás a gyermek – a szülő gondozásba történő aktív bevonásával megvalósított – összefüggő, bentlakásos korai fejlesztése és gondozása, amelynek időtartama legalább egy, legfeljebb három hét. A (6) bekezdésben meghatározott időkeret teljesítése szempontjából egy hét intenzív ellátás hat hét általános szabályok szerinti fejlesztésnek felel meg. A bentlakás feltételeit a gyermek és a szülő számára az intenzív ellátást végző intézmény biztosítja.
+(7a)[^37] Intenzív ellátás a gyermek – a szülő gondozásba történő aktív bevonásával megvalósított – összefüggő, bentlakásos korai fejlesztése és gondozása, amelynek időtartama legalább egy, legfeljebb három hét. A (6) bekezdésben meghatározott időkeret teljesítése szempontjából egy hét intenzív ellátás hat hét általános szabályok szerinti fejlesztésnek felel meg. A bentlakás feltételeit a gyermek és a szülő számára az intenzív ellátást végző intézmény biztosítja.
 
 (8) Ha a korai fejlesztés és gondozás igénybevétele a pedagógiai szakszolgálati intézményben nem oldható meg, a gyermek fejlesztésére
 
 a) otthoni ellátás keretében vagy
 
-b)[^37] a gyermek gondozását végző intézményben
+b)[^38] a gyermek gondozását végző intézményben
 
 kerül sor.
 
-(9)[^38] Otthoni ellátás keretében vagy a gyermek gondozását végző intézményben történő ellátás esetén a (6) bekezdésben meghatározott időkeretet – a szülő egyetértésével és a gondozásba történő bevonásával – a fejlesztési év átlagában kell teljesíteni.
+(9)[^39] Otthoni ellátás keretében vagy a gyermek gondozását végző intézményben történő ellátás esetén a (6) bekezdésben meghatározott időkeretet – a szülő egyetértésével és a gondozásba történő bevonásával – a fejlesztési év átlagában kell teljesíteni.
 
-[^31]: A 3. alcím címe az 53/2016. (XII. 29.) EMMI rendelet 47. § 3. pontja szerint módosított szöveg.
-[^32]: A 4. § (1) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 22. § (1) bekezdésével megállapított és 47. § 4. pontja szerint módosított szöveg.
-[^33]: A 4. § (2) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 22. § (2) bekezdésével megállapított szöveg.
-[^34]: A 4. § (2a) bekezdését az 53/2016. (XII. 29.) EMMI rendelet 23. §-a iktatta be, szövege a 37/2021. (VIII. 31.) EMMI rendelet 35. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^35]: A 4. § (6) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 24. §-ával megállapított szöveg.
-[^36]: A 4. § (7a) bekezdését az 53/2016. (XII. 29.) EMMI rendelet 25. §-a iktatta be.
-[^37]: A 4. § (8) bekezdés b) pontja a 20/2019. (VIII. 30.) EMMI rendelet 30. § (1) bekezdésével megállapított szöveg.
-[^38]: A 4. § (9) bekezdése a 20/2019. (VIII. 30.) EMMI rendelet 30. § (2) bekezdésével megállapított szöveg.
+[^32]: A 3. alcím címe az 53/2016. (XII. 29.) EMMI rendelet 47. § 3. pontja szerint módosított szöveg.
+[^33]: A 4. § (1) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 22. § (1) bekezdésével megállapított és 47. § 4. pontja szerint módosított szöveg.
+[^34]: A 4. § (2) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^35]: A 4. § (2a) bekezdését az 53/2016. (XII. 29.) EMMI rendelet 23. §-a iktatta be, szövege a 37/2021. (VIII. 31.) EMMI rendelet 35. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^36]: A 4. § (6) bekezdése a 44/2023. (X. 19.) BM rendelet 26. §-ával megállapított szöveg.
+[^37]: A 4. § (7a) bekezdését az 53/2016. (XII. 29.) EMMI rendelet 25. §-a iktatta be.
+[^38]: A 4. § (8) bekezdés b) pontja a 20/2019. (VIII. 30.) EMMI rendelet 30. § (1) bekezdésével megállapított szöveg.
+[^39]: A 4. § (9) bekezdése a 20/2019. (VIII. 30.) EMMI rendelet 30. § (2) bekezdésével megállapított szöveg.

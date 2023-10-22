@@ -218,6 +218,6 @@
 
 ## 8. Ahol a „székhelyen, tagintézményben, telephelyen” megjelölést alkalmazza, azon érteni kell az intézmény székhelyét és valamennyi telephelyét, függetlenül attól, hogy a székhelyen, illetve a telephelyen hány épület van.
 
-10. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^216]
+10. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^220]
 
-[^216]: A 10. mellékletet a 12/2018. (III. 27.) EMMI rendelet 5. § c) pontja hatályon kívül helyezte.
+[^220]: A 10. mellékletet a 12/2018. (III. 27.) EMMI rendelet 5. § c) pontja hatályon kívül helyezte.
