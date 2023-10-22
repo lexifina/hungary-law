@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-10-20-8
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2023-10-21 | 2023-10-20-8O.1 | 10/2023. (X. 16.) KIM rendelet |
+| 2023-10-22 | 2023-10-20-8O.2 | 2010. évi CXXX. törvény |
