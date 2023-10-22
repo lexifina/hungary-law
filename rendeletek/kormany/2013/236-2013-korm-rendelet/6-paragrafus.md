@@ -28,6 +28,8 @@ a) szerződő felek részére a szakértői vélemény,
 
 b) szerződést biztosító mellékkötelezettség érvényesítésének vizsgálatához kapcsolódó kérelem esetén a biztosítékot nyújtó személy részére a szakértői vélemény kivonatának
 
+határidőben történő megküldéséről.
+
 [^6]: A 6. § (1) bekezdése a 426/2015. (XII. 23.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^7]: A 6. § (4) bekezdése a 426/2015. (XII. 23.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^8]: A 6. § (6) bekezdése a 426/2015. (XII. 23.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.

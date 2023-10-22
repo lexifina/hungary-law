@@ -1,5 +1,3 @@
-## határidőben történő megküldéséről.
-
 7. § (1) A szakértői tanács tagjai független szakértőként járnak el. A szakértői vélemény tartalmát illetően nem kérhetnek és nem fogadhatnak el utasításokat sem a Szerv vezetőjétől, vezetőhelyettesétől, sem más személytől.
 
 (2)[^10] A szakértői tanács a szakértői vélemény elkészítéséhez szükséges vizsgálatot – a kivitelezési szerződés vizsgálata esetén – nem köteles a kivitelezés helyszínén elvégezni, ha az eljárásban a felek írásban egybehangzóan nyilatkoznak arról, hogy

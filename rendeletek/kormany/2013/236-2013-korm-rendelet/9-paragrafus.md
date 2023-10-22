@@ -2,7 +2,7 @@
 
 9. § (1)[^13] A szakértői vélemény elkészítése díjazás, illetve a (2a) bekezdésben meghatározott esetben díjazás és kiegészítés ellenében történik.
 
-(2)[^14] A szakértői díj a kérelmező által megjelölt vitatott bruttó érték 1%-a, de legkevesebb bruttó 60 000 forint és nem haladhatja meg a bruttó 450 000 forintot. A szakértői díj a Szervet illeti, mely a szakértői tanács tagjai között a következők szerint oszlik meg: elnök 40%, tagok 30-30%. A Tszszt. 2. § (4) bekezdése által meghatározott eljárás esetében a szakértői díj az eljáró szakértői tanács tagját illeti.
+(2)[^14] A szakértői díj a kérelmező által megjelölt vitatott bruttó érték 1%-a, de legkevesebb bruttó 60 000 forint és nem haladhatja meg a bruttó 2 000 000 forintot. A szakértői díj a Szervet illeti, mely a szakértői tanács tagjai között a következők szerint oszlik meg: elnök 40%, tagok 30-30%. A Tszszt. 2. § (4) bekezdése által meghatározott eljárás esetében a szakértői díj az eljáró szakértői tanács tagját illeti.
 
 (2a)[^15] Ha a szakértői díj nem éri el a nettó 100 000 forintot, a szakértői tanács díjazása nettó 100 000 forint összegig a 4. § (4) bekezdése szerinti pénzügyi forrás terhére kerül kiegészítésre, és a kiegészített összeg az elnök és a tagok között a (2) bekezdés szerinti arányban oszlik meg. A Tszszt. 4. § (3) bekezdése által meghatározott eljárásban a szakértői díj nem egészíthető ki.
 
@@ -19,7 +19,7 @@
 (8) A Szerv vezetője és vezetőhelyettese a Magyar Kereskedelmi és Iparkamarával áll megbízási jogviszonyban, a megbízási szerződést az építésgazdaságért felelős miniszter és az igazságügyért felelős miniszter jóváhagyja.
 
 [^13]: A 9. § (1) bekezdése a 432/2017. (XII. 21.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^14]: A 9. § (2) bekezdése a 426/2015. (XII. 23.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^14]: A 9. § (2) bekezdése a 426/2015. (XII. 23.) Korm. rendelet 5. §-ával megállapított, a 433/2023. (IX. 21.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^15]: A 9. § (2a) bekezdését a 432/2017. (XII. 21.) Korm. rendelet 2. § (2) bekezdése iktatta be.
 [^16]: A 9. § (4) bekezdése a 432/2017. (XII. 21.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
 [^17]: A 9. § (5) bekezdése a 432/2017. (XII. 21.) Korm. rendelet 2. § (4) bekezdésével megállapított szöveg.

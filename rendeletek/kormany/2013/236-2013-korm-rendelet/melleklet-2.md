@@ -1,6 +1,6 @@
 2. melléklet a 236/2013. (VI. 30.) Korm. rendelethez[^21]
 
-## Teljesítésigazolási Szakértői Szerv véleménye
+Teljesítésigazolási Szakértői Szerv véleménye
 
 Megbízó: Magyar Kereskedelmi és Iparkamara
 
