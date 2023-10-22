@@ -1,3 +1,3 @@
-3. melléklet a 433/2023. (IX. 21.) Korm. rendelethez[^7]
+3. melléklet a 433/2023. (IX. 21.) Korm. rendelethez[^6]
 
-[^7]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

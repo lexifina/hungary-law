@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-433-20-
 | --- | --- | --- |
 | 2023-09-22 | 2023-433-20-22.1 | 433/2023. (IX. 21.) Korm. rendelet |
 | 2023-09-23 | 2023-433-20-22.2 | 2010. évi CXXX. törvény |
+| 2023-10-22 | 2023-433-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
