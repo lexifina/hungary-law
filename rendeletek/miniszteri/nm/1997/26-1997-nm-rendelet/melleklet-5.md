@@ -6,7 +6,7 @@ Az iskolafogászati tevékenységet végző fogászati asszisztens feladatai
 
 2. Önálló feladatként, az orvos irányításával és felügyeletével az alábbi tevékenységeket végzi:
 
-a) kapcsolatot tart a tanulókkal, a szülőkkel, a nevelési-oktatási intézmények vezetőivel, pedagógusaival, az iskola-egészségügyi szolgálat munkatársaival,
+a)[^33] kapcsolatot tart a tanulókkal, a szülőkkel, a nevelési-oktatási intézmények igazgatóival, pedagógusaival, az iskola-egészségügyi szolgálat munkatársaival,
 
 b) részt vesz a csoportos szűrések, kezelések, megelőző foglalkozások szervezésében,
 
@@ -17,3 +17,5 @@ d) ellenőrzi a szájhigiénét,
 e) megelőző tevékenységet végez (pl. fogmosás, fluoridos zselébedörzsölés, szájöblítés, megelőző akciók és vetélkedők szervezése) a rendelőben, a nevelési-oktatási intézményben, nyári táborban.
 
 3. Elvégez minden – a megelőzéssel, terápiával, rendeléssel kapcsolatos – feladatot, amellyel felettesei megbízzák.
+
+[^33]: Az 5. számú melléklet 2. pont a) alpontja a 44/2023. (X. 19.) BM rendelet 1. § b) pontja szerint módosított szöveg.

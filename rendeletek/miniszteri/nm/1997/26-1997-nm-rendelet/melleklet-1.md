@@ -1,3 +1,3 @@
-1. számú melléklet a 26/1997. (IX. 3.) NM rendelethez[^17]
+1. számú melléklet a 26/1997. (IX. 3.) NM rendelethez[^19]
 
-[^17]: Az 1. számú melléklet a 19/2009. (VI. 18.) EüM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^19]: Az 1. számú melléklet a 19/2009. (VI. 18.) EüM rendelet 12. § (1) bekezdésével megállapított szöveg.

@@ -118,13 +118,13 @@
 
 ## A = ajánlott
 
-2. számú melléklet a 26/1997. (IX. 3.) NM rendelethez[^18]
+2. számú melléklet a 26/1997. (IX. 3.) NM rendelethez[^20]
 
 A nevelési-oktatási intézmény orvosa által ellátandó iskola-egészségügyi feladatok
 
 1. A gyermekek, tanulók egészségi állapotának vizsgálata, követése
 
-a)[^19] Az óvodás korú gyermekek vizsgálata járvány és a fertőző betegségek és a járványok megelőzése érdekében szükséges járványügyi intézkedésekről szóló miniszteri rendelet szerinti fertőző betegség esetén, az iskolai tanulók vizsgálata a 2., 4., 6., 8., 10. és 12. évfolyamokban. Ennek keretében:
+a)[^21] Az óvodás korú gyermekek vizsgálata járvány és a fertőző betegségek és a járványok megelőzése érdekében szükséges járványügyi intézkedésekről szóló miniszteri rendelet szerinti fertőző betegség esetén, az iskolai tanulók vizsgálata a 2., 4., 6., 8., 10. és 12. évfolyamokban. Ennek keretében:
 
 – teljes fizikális vizsgálat,
 
@@ -138,7 +138,7 @@ b) A krónikus beteg, valamint a testi, szellemi, érzékszervi fogyatékos tanu
 
 c) A testi, érzékszervi, értelmi és beszédfogyatékosságot megállapító szakértői bizottság elé utalás esetén a bizottság részére a tanuló egészségi állapotára vonatkozó adatok közlése.
 
-d)[^20]
+d)[^22]
 
 e) Az átfogó gyermekfogászati program szervezésében való közreműködés és végrehajtásának ellenőrzése.
 
@@ -154,11 +154,11 @@ b) A testnevelési csoportbeosztás elkészítése, gyógytestneveléssel, testn
 
 a) Az iskolai életkorhoz kötött és kampányoltások elvégzése és dokumentálása.
 
-b)[^21] A járványügyi előírások betartásának ellenőrzése, fertőző megbetegedések esetén járványügyi intézkedések elrendelése, a megtett intézkedésekről a járási hivatal értesítése.
+b)[^23] A járványügyi előírások betartásának ellenőrzése, fertőző megbetegedések esetén járványügyi intézkedések elrendelése, a megtett intézkedésekről a járási hivatal értesítése.
 
 c) A nevelési-oktatási intézményben folyó étkeztetés ellenőrzése.
 
-d)[^22] Közegészségügyi-járványügyi hiányosságok észlelésekor javaslattétel a hibák megszüntetésére, valamint a járási hivatal értesítése.
+d)[^24] Közegészségügyi-járványügyi hiányosságok észlelésekor javaslattétel a hibák megszüntetésére, valamint a járási hivatal értesítése.
 
 4. Elsősegélynyújtás
 
@@ -178,11 +178,11 @@ a) Az intézményi környezet – tantermek, gyakorlati helyiségek, tornaterem,
 
 b) A tanulók gyakorlati oktatásával kapcsolatos munkahelyi körülmények figyelemmel kísérése.
 
-7. Az ellátott gyermekekről nyilvántartás vezetése, a külön jogszabályok szerinti jelentések elkészítése, valamint az elvégzett vizsgálatok, oltások dokumentálása külön jogszabály szerint az Egészségügyi Könyvben[^23].
+7. Az ellátott gyermekekről nyilvántartás vezetése, a külön jogszabályok szerinti jelentések elkészítése, valamint az elvégzett vizsgálatok, oltások dokumentálása külön jogszabály szerint az Egészségügyi Könyvben[^25].
 
-[^18]: A 2. számú melléklet a 19/2009. (VI. 18.) EüM rendelet 12. § (2) bekezdésével megállapított szöveg.
-[^19]: A 2. számú melléklet 1. pont a) alpontja a 19/2010. (IV. 22.) EüM rendelet 1. § (2) bekezdés a) pont aa) és ab) alpontja szerint módosított szöveg.
-[^20]: A 2. melléklet 1. pont d) alpontját a 19/2012. (III. 28.) NEFMI rendelet 6. §-a hatályon kívül helyezte.
-[^21]: A 2. számú melléklet 3. pont b) alpontja a 23/2015. (IV. 28.) EMMI rendelet 14. § b) pontja szerint módosított szöveg.
-[^22]: A 2. számú melléklet 3. pont d) alpontja a 23/2015. (IV. 28.) EMMI rendelet 14. § b) pontja szerint módosított szöveg.
-[^23]: 2009. szeptember 1-je előtt született gyermekek esetében a Gyermek-egészségügyi kiskönyvben.
+[^20]: A 2. számú melléklet a 19/2009. (VI. 18.) EüM rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^21]: A 2. számú melléklet 1. pont a) alpontja a 19/2010. (IV. 22.) EüM rendelet 1. § (2) bekezdés a) pont aa) és ab) alpontja szerint módosított szöveg.
+[^22]: A 2. melléklet 1. pont d) alpontját a 19/2012. (III. 28.) NEFMI rendelet 6. §-a hatályon kívül helyezte.
+[^23]: A 2. számú melléklet 3. pont b) alpontja a 23/2015. (IV. 28.) EMMI rendelet 14. § b) pontja szerint módosított szöveg.
+[^24]: A 2. számú melléklet 3. pont d) alpontja a 23/2015. (IV. 28.) EMMI rendelet 14. § b) pontja szerint módosított szöveg.
+[^25]: 2009. szeptember 1-je előtt született gyermekek esetében a Gyermek-egészségügyi kiskönyvben.
