@@ -1,3 +1,3 @@
-21. § Az R1. 193. §-a a következő (23) bekezdéssel egészül ki:
+21. §[^21]
 
-„(23) A 147. § (1) bekezdése szerinti ellenőrzési tervet a hivatal 2023. október 31. napjáig módosítja, azzal, hogy a 2023. évre vonatkozó ellenőrzési tervben szereplő, 2023. szeptember 1. napját követően esedékes pedagógus-ellenőrzéseket, valamint az intézményvezetői ellenőrzéseket nem kell lefolytatni.”
+[^21]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

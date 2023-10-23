@@ -1,3 +1,3 @@
-7. § Az R1. 56. § (2) bekezdése helyébe a következő rendelkezés lép:
+7. §[^7]
 
-„(2) A fegyelmi eljárás megindításáról – a tanuló terhére rótt kötelességszegés megjelölésével – a tanulót, kiskorú tanuló esetében a szülőt postai úton és a tanulmányi rendszeren keresztül is haladéktalanul értesíteni kell. Az értesítésben fel kell tüntetni a fegyelmi tárgyalás időpontját és helyét, azzal a tájékoztatással, hogy a tárgyalást akkor is meg lehet tartani, ha a tanuló, a szülő ismételt szabályszerű meghívás ellenére nem jelenik meg. A postai értesítést oly módon kell kiküldeni, hogy azt a tanuló, a szülő külön-külön a tárgyalás előtt legalább nyolc nappal megkapja.”
+[^7]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

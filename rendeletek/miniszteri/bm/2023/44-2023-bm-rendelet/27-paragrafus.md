@@ -1,3 +1,3 @@
-27. § Az R2. 5. §-a a következő (5) bekezdéssel egészül ki:
+27. §[^27]
 
-„(5) A korai fejlesztés és gondozás tekintetében a 18. §-ban, valamint a nemzeti köznevelésről szóló törvény végrehajtásáról szóló 229/2012. (VIII. 28.) Korm. rendelet (a továbbiakban: Korm. rendelet) 42. § (1) és (2) bekezdésében, 42. § (3) bekezdés d) pontjában, 42. § (4)–(6) bekezdésében, továbbá 43. §-ában foglaltakat kell alkalmazni, azzal, hogy kijelölt intézmény alatt a gyermek korai fejlesztésére és gondozására kijelölt intézményt vagy az intézmény erre kijelölt tagintézményét, az óvodai foglalkozáson való kötelező részvétel alatt pedig a korai fejlesztésben és gondozásban való részvételt kell érteni.”
+[^27]: A 27. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

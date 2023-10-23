@@ -1,3 +1,3 @@
-16. § Az R1. 184/M. §-a a következő (4) bekezdéssel egészül ki:
+16. §[^16]
 
-„(4) A fenntartó a megállapodásban rögzített szakképesítések keretszámainak felhasználásáról minden tanévre vonatkozóan adatot szolgáltat. Amennyiben beiskolázás nem történt, a szakképesítés a következő időszakra szóló megállapodásban törlésre kerül.”
+[^16]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

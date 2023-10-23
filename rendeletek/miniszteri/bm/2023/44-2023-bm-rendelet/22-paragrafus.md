@@ -1,3 +1,3 @@
-22. § (1) Az R1. 9. melléklete helyébe az 1. melléklet lép.
+22. §[^22]
 
-(2) Az R1. 10. melléklete a 2. melléklet szerint módosul.
+[^22]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

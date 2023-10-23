@@ -1,3 +1,3 @@
-11. § Az R1. 74. § (4) bekezdése helyébe a következő rendelkezés lép:
+11. §[^11]
 
-„(4) Ha a tanuló egy vagy több tantárgy több évfolyamra megállapított követelményeit egy tanévben teljesíti, osztályzatait minden érintett évfolyamra meg kell állapítani. Ha a tanuló több iskolai évfolyam valamennyi követelményét teljesíti, az osztályzatokat a tanulmányi rendszerben történő rögzítés mellett valamennyi elvégzett évfolyam bizonyítványába be kell jegyezni. Ha a tanuló nem teljesíti az iskolai évfolyam valamennyi követelményét, az egyes tantárgyak osztályzatát a törzslapján valamennyi elvégzett évfolyamon fel kell tüntetni, és a vizsga évében, ezt követően az adott évben kiállításra kerülő év végi bizonyítványba be kell írni, és rögzíteni kell a tanulmányi rendszerben is. E rendelkezéseket kell alkalmazni abban az esetben is, ha a tanulót az alapfokú művészeti iskola magasabb évfolyamára vették fel.”
+[^11]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

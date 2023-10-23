@@ -1,5 +1,3 @@
-20. § Az R1. XX/B. Fejezete a következő 76/H. alcímmel egészül ki:
+20. §[^20]
 
-„76/H. A szakgimnáziumi tanulóra vonatkozó eltérő rendelkezés
-
-184/V. § A szakgimnázium tanulója a közismereti nevelés-oktatás utolsó évfolyama első félévének befejezésekor nyilatkozik arról, hogy az adott évfolyam eredményes befejezése esetén tanulmányait a szakképző évfolyamon folytatni kívánja-e.”
+[^20]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

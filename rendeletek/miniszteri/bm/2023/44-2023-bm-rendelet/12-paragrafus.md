@@ -1,3 +1,3 @@
-12. § Az R1. 80. § (8) bekezdése helyébe a következő rendelkezés lép:
+12. §[^12]
 
-„(8) A hivatal vizsgálja a (2)–(5) bekezdésben szabályozott intézkedéseknek az intézmények eredményes működésére gyakorolt hatását.”
+[^12]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

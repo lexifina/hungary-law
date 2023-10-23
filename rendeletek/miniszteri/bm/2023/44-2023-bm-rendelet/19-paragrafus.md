@@ -1,3 +1,3 @@
-19. § Az R1. 76/G. alcíme a következő 184/U. §-sal egészül ki:
+19. §[^19]
 
-„184/U. § Az Nkt. 77. § (5) bekezdés a) pont ac) alpontjában foglaltak szerint kijelölt akkreditált vizsgaközpontokkal a miniszter megállapodást köt.”
+[^19]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

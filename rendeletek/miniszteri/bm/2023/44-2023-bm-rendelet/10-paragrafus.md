@@ -1,3 +1,3 @@
-10. § Az R1. 74. § (1) bekezdése helyébe a következő rendelkezés lép:
+10. §[^10]
 
-„(1) A tanuló félévi osztályzatáról a szülőt a tanulmányi rendszeren keresztül kell tájékoztatni. A szülőt a tanuló félévi osztályzatáról – a tanulmányi rendszeren keresztül történő értesítés mellett – papíralapú értesítőben is lehet, a szülő kérésére pedig papíralapú értesítőben is kell tájékoztatni.”
+[^10]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

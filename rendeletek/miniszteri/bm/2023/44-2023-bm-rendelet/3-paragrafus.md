@@ -1,3 +1,3 @@
-3. § Az R1. 23. § (3) bekezdése helyébe a következő rendelkezés lép:
+3. §[^3]
 
-„(3) Az iskola igazgatója a felvételi eljárásban a felvételről, átvételről tanulói jogviszonyt létesítő vagy a kérelmet elutasító döntést hoz. A kérelemnek helyt adó döntést az iskola igazgatója írásban közli a tanulóval, kiskorú tanuló esetén a szülővel, továbbá átvétel esetén a döntésről értesíti az előző iskola igazgatóját. A jelentkező részére – kiskorú tanuló esetén a szülő – hozzájárulásával a felvételről szóló döntés elektronikus úton is továbbítható. A jelentkező részére – kiskorú jelentkező esetén a szülő – hozzájárulásával az elutasításról szóló értesítés elektronikus úton is továbbítható, ha a közlés módja megfelel az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény biztonságos kézbesítésre vonatkozó rendelkezéseinek. Az iskola igazgatója a tanuló felvételének, átvételének megtagadásáról határozat formájában dönt.”
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
