@@ -1,4 +1,4 @@
-## A vadgazdálkodási tájegység trófeabírálati irányelvei
+## A Dél-dunántúli Vadgazdálkodási Táj vadgazdálkodási tájegységeinek trófeabírálati irányelvei
 
 ## Az elejtés szakszerűtlenségének megállapítása során a hibapont megítélését a táblázatokban megadott trófeajellegek együttes értékelésével kell végezni. A hibapont-besoroláshoz valamennyi határértéknek együttesen kell teljesülnie.
 
@@ -10,7 +10,7 @@
 
 ## I. A gímbika szakszerűtlen elejtés határértékei
 
-| A gímbika szakszerűtlen elejtés határértékei a 402. számú Külső-somogyi, a 403. számú Kapos-tolnai, a 404. számú Zselic-közép-somogyi, a 405. számú Belső-somogyi, a 407. számú Dél-baranyai ártéri, a 408. számú Tolna-hegyháti, a 409. számú Gemenci, valamint a 410. számú Dél-balatoni vadgazdálkodási tájegységben |
+| A gímbika szakszerűtlen elejtés határértékei a 402. számú Külső-somogyi, a 403. számú Kapos-tolnai, a 404. számú Zselic-közép-somogyi, a 405. számú Belső-somogyi, a 407. számú Dél-baranyai, a 408. számú Tolna-hegyháti, a 409. számú Gemenci, valamint a 410. számú Dél-balatoni vadgazdálkodási tájegységben |
 
 | Hibapont | Felrakás (bika kora, év) | Trófea tömege legalább (kg) | Szárhossz legalább (cm) | Főág hossza legalább (cm) | Trófea jellege |
 
@@ -286,7 +286,7 @@
 
 ## a) a legalább a 10. agancsát viselő (11. életévében levő) gímbika, amelynek agancsa szabályos, legalább 30 cm-es főágakkal (szemág, középág) és a minimum hármas koronákban összesen legalább 5 db hosszú (15 cm-t meghaladó) ággal vagy kehelykoronával rendelkezik, és a trófea tömege meghaladja a 8,50 kg-ot;
 
-## b) a 402. számú Külső-somogyi, a 403. számú Kapos-tolnai, a 404. számú Zselic-közép-somogyi, a 405. számú Belső-somogyi, a 407. számú Dél-baranyai ártéri, a 408. számú Tolna-hegyháti, a 409. számú Gemenci, és a 410. számú Dél-balatoni vadgazdálkodási tájegységben a legalább a 11. agancsát viselő (12. életévében levő) gímbika, amelynek agancsa szabályos, legalább 30 cm-es főágakkal (szemág, középág) és a minimum hármas koronákban összesen legalább 6 db hosszú (15 cm-t meghaladó) ággal vagy kehelykoronával rendelkezik, és a trófea tömege meghaladja a 8,50 kg-ot;
+## b) a 402. számú Külső-somogyi, a 403. számú Kapos-tolnai, a 404. számú Zselic-közép-somogyi, a 405. számú Belső-somogyi, a 407. számú Dél-baranyai, a 408. számú Tolna-hegyháti, a 409. számú Gemenci, és a 410. számú Dél-balatoni vadgazdálkodási tájegységben a legalább a 11. agancsát viselő (12. életévében levő) gímbika, amelynek agancsa szabályos, legalább 30 cm-es főágakkal (szemág, középág) és a minimum hármas koronákban összesen legalább 6 db hosszú (15 cm-t meghaladó) ággal vagy kehelykoronával rendelkezik, és a trófea tömege meghaladja a 8,50 kg-ot;
 
 ## c) a legalább a 9. agancsát viselő (10. életévében levő) dámbika, amelynek agancsa közel szimmetrikus, legalább
 

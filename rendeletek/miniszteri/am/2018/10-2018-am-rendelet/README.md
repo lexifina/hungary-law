@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-10-20-7
 | 2018-07-08 | 2018-10-20-7R.1 | 10/2018. (VII. 3.) AM rendelet |
 | 2020-11-01 | 2018-10-20-7R.2 | 52/2020. (X. 27.) AM rendelet |
 | 2021-02-16 | 2018-10-20-7R.3 | 2/2021. (II. 15.) AM rendelet |
+| 2023-10-24 | 2018-10-20-7R.4 | 57/2023. (X. 16.) AM rendelet |

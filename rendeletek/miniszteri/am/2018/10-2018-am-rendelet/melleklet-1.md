@@ -1,4 +1,4 @@
-## 4. §[^1] Az egyes vadgazdálkodással összefüggő miniszteri rendeletek módosításáról szóló 52/2020. (X. 27.) AM rendelettel [a továbbiakban: 52/2020. (X. 27.) AM rendelet] megállapított trófeabírálatra vonatkozó rendelkezéseket az 52/2020. (X. 27.) AM rendelet hatálybalépését[^2] követően elejtett vad trófeabírálata során kell alkalmazni.
+## 4. §[^2] Az egyes vadgazdálkodással összefüggő miniszteri rendeletek módosításáról szóló 52/2020. (X. 27.) AM rendelettel [a továbbiakban: 52/2020. (X. 27.) AM rendelet] megállapított trófeabírálatra vonatkozó rendelkezéseket az 52/2020. (X. 27.) AM rendelet hatálybalépését[^3] követően elejtett vad trófeabírálata során kell alkalmazni.
 
 1. melléklet a 10/2018. (VII. 3.) AM rendelethez
 
@@ -16,7 +16,7 @@ A vad élőhelyének általános jellemzése
 
 6. A 406. számú Mecseki vadgazdálkodási tájegység területének mintegy 95%-a alkalmas vadgazdálkodásra. A vadgazdálkodási tájegység területének mintegy felét (52,8%) borítják szántó- és gyepterületek, az erdő aránya 40,3%.
 
-7. A 407. számú Dél-baranyai ártéri vadgazdálkodási tájegység területének mintegy 96%-a alkalmas vadgazdálkodásra. A vadgazdálkodási tájegység területének mintegy kétharmadát (71,3%) borítják szántó- és gyepterületek, az erdő aránya 19,9%.
+7.[^4] A 407. számú Dél-baranyai vadgazdálkodási tájegység területének mintegy 96%-a alkalmas vadgazdálkodásra. A vadgazdálkodási tájegység területének mintegy kétharmadát (71,3%) borítják szántó- és gyepterületek, az erdő aránya 19,9%.
 
 8. A 408. számú Tolnai-hegyháti vadgazdálkodási tájegység területének mintegy 97%-a alkalmas vadgazdálkodásra. A vadgazdálkodási tájegység területének közel kétharmadát (62,6%) borítják szántó- és gyepterületek, az erdő aránya 29,7%.
 
@@ -24,5 +24,6 @@ A vad élőhelyének általános jellemzése
 
 10. A 410. számú Dél-balatoni vadgazdálkodási tájegység területének mintegy 95%-a alkalmas vadgazdálkodásra. A vadgazdálkodási tájegység területének mintegy felét (52,6%) borítják szántó- és gyepterületek, az erdő aránya 28,7%.
 
-[^1]: A 4. §-t az 52/2020. (X. 27.) AM rendelet 16. § (1) bekezdése iktatta be.
-[^2]: A hatálybalépés időpontja 2020. november 1.
+[^2]: A 4. §-t az 52/2020. (X. 27.) AM rendelet 16. § (1) bekezdése iktatta be.
+[^3]: A hatálybalépés időpontja 2020. november 1.
+[^4]: Az 1. melléklet 7. pontja az 57/2023. (X. 16.) AM rendelet 32. § a) pontja szerint módosított szöveg.

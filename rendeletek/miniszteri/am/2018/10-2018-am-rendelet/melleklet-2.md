@@ -16,7 +16,7 @@ Az egyes vadfajok állományának leírása
 
 1.6. A 406. számú Mecseki vadgazdálkodási tájegységben a gímszarvas létszámát tekintve nagyon jelentős. A vadgazdálkodási tájegység a jelentett létszámok és a teríték alapján a felső negyedben helyezkedik el. Az állomány minősége a trófeabírálati adatok alapján a vadgazdálkodási tájegységek között a felső harmadban helyezkedik el. Az állomány minősége országos viszonylatban kiemelkedő.
 
-1.7. A 407. számú Dél-baranyai ártéri vadgazdálkodási tájegységben a gímszarvasállomány mennyiségét tekintve nagyon jelentős. A vadgazdálkodási tájegység a jelentett létszámok alapján a felső negyedben, a teríték alapján az átlag feletti negyedben helyezkedik el. Az állomány minősége a trófeabírálati adatok alapján a vadgazdálkodási tájegységek között a felső harmadban helyezkedik el. Az állomány minősége országos viszonylatban kiemelkedő.
+1.7.[^5] A 407. számú Dél-baranyai vadgazdálkodási tájegységben a gímszarvasállomány mennyiségét tekintve nagyon jelentős. A vadgazdálkodási tájegység a jelentett létszámok alapján a felső negyedben, a teríték alapján az átlag feletti negyedben helyezkedik el. Az állomány minősége a trófeabírálati adatok alapján a vadgazdálkodási tájegységek között a felső harmadban helyezkedik el. Az állomány minősége országos viszonylatban kiemelkedő.
 
 1.8. A 408. számú Tolnai-hegyháti vadgazdálkodási tájegységben a gímszarvas létszámát tekintve nagy jelentőségű. A vadgazdálkodási tájegység a jelentett létszámok és a teríték alapján a felső negyedben helyezkedik el. Az állomány minősége a trófeabírálati adatok alapján a vadgazdálkodási tájegységek között a felső harmadban helyezkedik el. Az állomány minősége országos viszonylatban kiemelkedő.
 
@@ -38,7 +38,7 @@ Az egyes vadfajok állományának leírása
 
 2.6. A 406. számú Mecseki vadgazdálkodási tájegység területén a dámszarvas a létszám alapján az átlag feletti negyedbe, a teríték alapján az átlag feletti negyedbe tartozik a tájegységek rangsorában. A trófeák minősége az alacsony trófeaszám miatt nem értékelhető. A dámszarvas a vadgazdálkodási tájegység területén jelentős nagyvad.
 
-2.7. A 407. számú Dél-baranyai ártéri vadgazdálkodási tájegység területén a dámszarvas a létszám alapján az átlag alatti negyedbe, a teríték alapján az átlag alatti negyedbe tartozik a tájegységek rangsorában. A dámszarvas a vadgazdálkodási tájegység területén kis jelentőségű nagyvad. Országos viszonylatban közepes minőségű állomány.
+2.7.[^6] A 407. számú Dél-baranyai vadgazdálkodási tájegység területén a dámszarvas a létszám alapján az átlag alatti negyedbe, a teríték alapján az átlag alatti negyedbe tartozik a tájegységek rangsorában. A dámszarvas a vadgazdálkodási tájegység területén kis jelentőségű nagyvad. Országos viszonylatban közepes minőségű állomány.
 
 2.8. A 408. számú Tolnai-hegyháti vadgazdálkodási tájegység területén a dámszarvas a létszám és a teríték alapján a felső negyedbe tartozik a tájegységek rangsorában. A mennyiségi mutatókat tekintve országosan a 2. legnagyobb szabad területi állomány. Az állomány minősége a trófeabírálati adatok alapján a vadgazdálkodási tájegységek felső fél csoportjába tartozik. A dámszarvas a vadgazdálkodási tájegység területén kiemelkedő jelentőségű nagyvad. Országos viszonylatban kiemelkedő minőségű állomány.
 
@@ -60,7 +60,7 @@ Az egyes vadfajok állományának leírása
 
 3.6. Az őz a 406. számú Mecseki vadgazdálkodási tájegységben a mennyiségi viszonyokat nézve közepes jelentőségű nagyvad. A vadgazdálkodási tájegység a jelentett létszámok alapján az átlag alatti negyedben, a terítéket tekintve az átlag feletti negyedben található. Az őzagancsok minősége gyenge. Az állomány minősége a trófeabírálati adatok alapján a vadgazdálkodási tájegységek között az alsó negyedben helyezkedik el.
 
-3.7. Az őz a 407. számú Dél-baranyai ártéri vadgazdálkodási tájegységben a mennyiségi viszonyokat nézve közepes jelentőségű nagyvad. A vadgazdálkodási tájegység a jelentett létszámok alapján az átlag feletti negyedben, a terítéket tekintve az alsó negyedben található. Az agancsok minősége közepes. Az állomány minősége a trófeabírálati adatok alapján a vadgazdálkodási tájegységek között az átlag feletti negyedben helyezkedik el.
+3.7.[^7] Az őz a 407. számú Dél-baranyai vadgazdálkodási tájegységben a mennyiségi viszonyokat nézve közepes jelentőségű nagyvad. A vadgazdálkodási tájegység a jelentett létszámok alapján az átlag feletti negyedben, a terítéket tekintve az alsó negyedben található. Az agancsok minősége közepes. Az állomány minősége a trófeabírálati adatok alapján a vadgazdálkodási tájegységek között az átlag feletti negyedben helyezkedik el.
 
 3.8. Az őz a 408. számú Tolnai-hegyháti vadgazdálkodási tájegységben a mennyiségi viszonyokat nézve közepes jelentőségű nagyvad. A vadgazdálkodási tájegység a jelentett létszámok alapján és a terítéket tekintve is az átlag feletti negyedben található. Az agancsok minősége közepes. Az állomány minősége a trófeabírálati adatok alapján a vadgazdálkodási tájegységek között az alsó negyedben helyezkedik el.
 
@@ -82,7 +82,7 @@ Az egyes vadfajok állományának leírása
 
 4.6. A 406. számú Mecseki vadgazdálkodási tájegységben a hasznosítási adatok biológiai és vadgazdálkodási szempontból is értékelhetetlenek. Az állomány minősége nem értékelhető.
 
-4.7. A 407. számú Dél-baranyai ártéri vadgazdálkodási tájegység területén a muflon szabad területen nem fordul elő. Vadgazdálkodási és vadászati jelentősége nincs.
+4.7.[^8] A 407. számú Dél-baranyai vadgazdálkodási tájegység területén a muflon szabad területen nem fordul elő. Vadgazdálkodási és vadászati jelentősége nincs.
 
 4.8. A 408. számú Tolnai-hegyháti vadgazdálkodási tájegység területén a muflon szabad területen nem fordul elő. Vadgazdálkodási és vadászati jelentősége nincs.
 
@@ -104,7 +104,7 @@ Az egyes vadfajok állományának leírása
 
 5.6. A 406. számú Mecseki vadgazdálkodási tájegységben a vaddisznó nagyon jelentős vad. A vadgazdálkodási tájegység a jelentett létszámok és a teríték alapján is a felső negyedben van.
 
-5.7. A 407. számú Dél-baranyai ártéri vadgazdálkodási tájegységben a vaddisznó jelentős vad. A vadgazdálkodási tájegység a jelentett létszámok és a teríték alapján is az átlag feletti negyedben van.
+5.7.[^9] A 407. számú Dél-baranyai vadgazdálkodási tájegységben a vaddisznó jelentős vad. A vadgazdálkodási tájegység a jelentett létszámok és a teríték alapján is az átlag feletti negyedben van.
 
 5.8. A 408. számú Tolnai-hegyháti vadgazdálkodási tájegységben a vaddisznó jelentős vad. A vadgazdálkodási tájegység a jelentett létszámok alapján a felső, a teríték alapján az átlag feletti negyedben van.
 
@@ -126,7 +126,7 @@ Az egyes vadfajok állományának leírása
 
 6.6. A 406. számú Mecseki vadgazdálkodási tájegységben a mezei nyúl kis jelentőségű vadfaj. A vadgazdálkodási tájegység a jelentett létszámok és a teríték alapján is az alsó negyedben helyezkedik el, nincs vadászati jelentősége.
 
-6.7. A 407. számú Dél-baranyai ártéri vadgazdálkodási tájegységben a mezei nyúl kis jelentőségű vadfaj. A vadgazdálkodási tájegység a jelentett létszámok és a teríték alapján is az alsó negyedben helyezkedik el, nincs vadászati jelentősége.
+6.7.[^10] A 407. számú Dél-baranyai vadgazdálkodási tájegységben a mezei nyúl kis jelentőségű vadfaj. A vadgazdálkodási tájegység a jelentett létszámok és a teríték alapján is az alsó negyedben helyezkedik el, nincs vadászati jelentősége.
 
 6.8. A 408. számú Tolnai-hegyháti vadgazdálkodási tájegységben a mezei nyúl kis jelentőségű vadfaj. A vadgazdálkodási tájegység a jelentett létszámok és a teríték alapján is az átlag alatti negyedben helyezkedik el, nincs vadászati jelentősége.
 
@@ -148,10 +148,18 @@ Az egyes vadfajok állományának leírása
 
 7.6. A 406. számú Mecseki vadgazdálkodási tájegységben a fácán kis jelentőségű apróvadfaj. A vadgazdálkodási tájegység a jelentett létszámok és a teríték alapján is az alsó negyedben helyezkedik el, nincs vadászati jelentősége.
 
-7.7. A 407. számú Dél-baranyai ártéri vadgazdálkodási tájegységben a fácán kis jelentőségű apróvadfaj. A vadgazdálkodási tájegység a jelentett létszámok alapján az átlag alatti negyedben, a teríték szerint az alsó negyedben helyezkedik el, nincs vadászati jelentősége.
+7.7.[^11] A 407. számú Dél-baranyai vadgazdálkodási tájegységben a fácán kis jelentőségű apróvadfaj. A vadgazdálkodási tájegység a jelentett létszámok alapján az átlag alatti negyedben, a teríték szerint az alsó negyedben helyezkedik el, nincs vadászati jelentősége.
 
 7.8. A 408. számú Tolnai-hegyháti vadgazdálkodási tájegységben a fácán kis jelentőségű apróvadfaj. A vadgazdálkodási tájegység a jelentett létszámok alapján az átlag alatti negyedben, a teríték szerint az alsó negyedben helyezkedik el, nincs vadászati jelentősége.
 
 7.9. A 409. számú Gemenci vadgazdálkodási tájegységben a fácán közepes jelentőségű apróvadfaj. A vadgazdálkodási tájegység a jelentett létszámok és a teríték alapján is az átlag feletti negyedben helyezkedik el. Nem meghatározó jelentőségű faj.
 
 7.10. A 410. számú Dél-balatoni vadgazdálkodási tájegységben a fácán közepes jelentőségű apróvadfaj. A vadgazdálkodási tájegység a jelentett létszámok és a teríték alapján is az átlag alatti negyedben helyezkedik el. Nem meghatározó jelentőségű faj.
+
+[^5]: A 2. melléklet 1.7. pontja az 57/2023. (X. 16.) AM rendelet 32. § a) pontja szerint módosított szöveg.
+[^6]: A 2. melléklet 2.7. pontja az 57/2023. (X. 16.) AM rendelet 32. § a) pontja szerint módosított szöveg.
+[^7]: A 2. melléklet 3.7. pontja az 57/2023. (X. 16.) AM rendelet 32. § a) pontja szerint módosított szöveg.
+[^8]: A 2. melléklet 4.7. pontja az 57/2023. (X. 16.) AM rendelet 32. § a) pontja szerint módosított szöveg.
+[^9]: A 2. melléklet 5.7. pontja az 57/2023. (X. 16.) AM rendelet 32. § a) pontja szerint módosított szöveg.
+[^10]: A 2. melléklet 6.7. pontja az 57/2023. (X. 16.) AM rendelet 32. § a) pontja szerint módosított szöveg.
+[^11]: A 2. melléklet 7.7. pontja az 57/2023. (X. 16.) AM rendelet 32. § a) pontja szerint módosított szöveg.

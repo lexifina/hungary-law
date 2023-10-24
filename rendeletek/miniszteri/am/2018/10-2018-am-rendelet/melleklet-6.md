@@ -30,7 +30,7 @@ Hosszú távú természetvédelmi célok
 
 10. Törekedni kell a nagyvad intenzív takarmányozásának megszüntetésére. Hosszú távon jelentősen csökkenteni kell a kijuttatott takarmány mennyiségét. Az ökológiai vadeltartó képességnél magasabb nagyvadlétszám intenzív takarmányozással való mesterséges fenntartását mindenhol meg kell szüntetni.
 
-11. A 406. számú Mecseki, a 407. számú Dél-Baranyai ártéri, a 409. számú Gemenci tájegységben kívánatos a nagyragadozók (farkas, hiúz, barna medve) állandó jelenléte, ezért a vadgazdálkodási tevékenység során figyelmet kell fordítani a megőrzésükre. Azon területeken, ahol e fajok tartós jelenlétére lehet számítani, a vadászatokat úgy kell tervezni, hogy az ne zavarja indokolatlan mértékben e fokozottan védett ragadozókat. Mindent meg kell tenni annak érdekében, hogy e fajok egyedeit sem szándékosan, sem véletlenül ne ejtsék el.
+11.[^38] A 406. számú Mecseki, a 407. számú Dél-Baranyai ártéri, a 409. számú Gemenci tájegységben kívánatos a nagyragadozók (farkas, hiúz, barna medve) állandó jelenléte, ezért a vadgazdálkodási tevékenység során figyelmet kell fordítani a megőrzésükre. Azon területeken, ahol e fajok tartós jelenlétére lehet számítani, a vadászatokat úgy kell tervezni, hogy az ne zavarja indokolatlan mértékben e fokozottan védett ragadozókat. Mindent meg kell tenni annak érdekében, hogy e fajok egyedeit sem szándékosan, sem véletlenül ne ejtsék el.
 
 12. Javítani kell az őshonos, veszélyeztetett apróvadfajok, így különösen a mezei nyúl és a fogoly életfeltételein. A vadgazdálkodás során előtérbe kell helyezni az e fajoknak kedvező élőhelyfejlesztéseket és az e fajok számára kedvező vadföldgazdálkodást. Mindenképpen kerülni kell a túlhasznosítást. A szárnyasvadfajok esetében is a védelmet döntően a természetes állomány védelmével, és nem pedig tenyésztett madarak kibocsátásával kell biztosítani. Szárnyasvad-kibocsátás esetén biztosítani kell, hogy a tenyésztett madarak ne jelentsenek állategészségügyi kockázatot a vadon élő állomány számára, illetve a kibocsátás technológiája ne okozza a ragadozók adott területen való túlzott csoportosulását.
 
@@ -49,3 +49,5 @@ Hosszú távú természetvédelmi célok
 15.4. A vadászható varjúfélék gyérítése során figyelemmel kell lenni arra, hogy kellő mennyiségű fészkelőhely legyen a varjúfélék fészkeit használó fajoknak (pl. erdei fülesbagoly, kabasólyom, vércsék).
 
 15.5. A ragadozók gyérítése során, különösen csapdák használatakor, az állatvédelmi szempontokat a lehetőségek szerint figyelembe kell venni.
+
+[^38]: [A 6. melléklet 11. pontjában az 57/2023. (X. 16.) AM rendelet 32. § a) pontja által elrendelt módosítás, amely szerint a „Dél-baranyai ártéri” szövegrész helyébe a „Dél-baranyai” szöveg lép, nem vezethető át.]
