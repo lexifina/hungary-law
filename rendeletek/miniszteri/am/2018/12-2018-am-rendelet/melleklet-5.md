@@ -1,4 +1,4 @@
-## A vadgazdálkodási tájegység trófeabírálati irányelvei
+## Az Észak-dunántúli Vadgazdálkodási Táj vadgazdálkodási tájegységeinek trófeabírálati irányelvei
 
 ## Az elejtés szakszerűtlenségének megállapítása során a hibapont megítélését a táblázatokban megadott trófeajellegek együttes értékelésével kell végezni. A hibapont-besoroláshoz valamennyi határértéknek együttesen kell teljesülnie.
 
@@ -10,7 +10,7 @@
 
 ## I. A gímbika szakszerűtlen elejtés határértékei
 
-| A gímbika szakszerűtlen elejtés határértékei az 503. számú Alpokaljai, az 504. számú Rába-menti-Kemenesháti, valamint az 508. számú Marcal-medencei vadgazdálkodási tájegységben |
+| A gímbika szakszerűtlen elejtés határértékei az 503. számú Alpokaljai, az 504. számú Rábamenti-kemenesháti, valamint az 508. számú Marcal-medencei vadgazdálkodási tájegységben |
 
 | Hibapont | Felrakás (bika kora, év) | Trófea tömege legalább (kg) | Szárhossz legalább (cm) | Főág hossza legalább (cm) | Trófea jellege |
 
@@ -196,7 +196,7 @@
 
 | 9. (10.) | 10,5 | 105 | 35 | szabályos; min. 3-as koronák; koronánként min. 3 db 20 cm-es ággal |
 
-| A gímbika szakszerűtlen elejtés határértékei az 501. számú Hanság-mosoni, az 502. számú Vas-soproni-síksági, az 509. számú Bakonyalja-Komáromi, az 510. számú Vértes-hegységi, az 511. számú Velencei, valamint az 512. számú Dunazugi vadgazdálkodási tájegységben |
+| A gímbika szakszerűtlen elejtés határértékei az 501. számú Hanság-mosoni, az 502. számú Vas-soproni-síksági, az 509. számú Bakonyalja-komáromi, az 510. számú Vértesi, az 511. számú Velencei, valamint az 512. számú Dunazugi vadgazdálkodási tájegységben |
 
 | Hibapont | Felrakás (bika kora, év) | Trófea tömege legalább (kg) | Szárhossz legalább (cm) | Főág hossza legalább (cm) | Trófea jellege |
 
@@ -312,7 +312,7 @@
 
 | 8. (9.) | 22 | 40 | 23 | 4,8 | szabályos; mindkét száron zárt, csipkézett lapát |
 
-| A dámbika szakszerűtlen elejtés határértékei az 502. számú Vas-soproni-síksági, az 503. számú Alpokaljai, az 504. számú Rába-menti-Kemenesháti, az 507. számú Bakonyi, az 508. számú Marcal-medencei, valamint az 509. számú Bakonyalja-Komáromi vadgazdálkodási tájegységben |
+| A dámbika szakszerűtlen elejtés határértékei az 502. számú Vas-soproni-síksági, az 503. számú Alpokaljai, az 504. számú Rábamenti-kemenesháti, az 507. számú Bakonyi, az 508. számú Marcal-medencei, valamint az 509. számú Bakonyalja-komáromi vadgazdálkodási tájegységben |
 
 | Hibapont | Felrakás (bika kora, év) | Szemág hossza legalább (cm) | Lapát | Tömeg legalább (kg) | Trófea jellege |
 
@@ -368,7 +368,7 @@
 
 | 8. (9.) | 20 | 40 | 22 | 4,3 | szabályos; mindkét száron zárt, csipkézett lapát |
 
-| A dámbika szakszerűtlen elejtés határértékei az 505. számú Zalai-dombsági, az 506. számú Zala-kisbalatoni, valamint az 510. számú Vértes-hegységi vadgazdálkodási tájegységben |
+| A dámbika szakszerűtlen elejtés határértékei az 505. számú Zalai-dombsági, az 506. számú Zala-kisbalatoni, valamint az 510. számú Vértesi vadgazdálkodási tájegységben |
 
 | Hibapont | Felrakás (bika kora, év) | Szemág hossza legalább (cm) | Lapát | Tömeg legalább (kg) | Trófea jellege |
 
@@ -426,7 +426,7 @@
 
 | III. Az őzbak szakszerűtlen elejtésének határértékei |
 
-| Az őzbak szakszerűtlen elejtés határértékei az 501. számú Hanság-mosoni, az 502. számú Vas-soproni-síksági, az 507. számú Bakonyi, az 508. számú Marcal-medencei, az 509. Bakonyalja-Komáromi, az 511. számú Velencei, az 512. számú dunazugi, valamint az 513. számú Balaton-felvidéki vadgazdálkodási tájegységben |
+| Az őzbak szakszerűtlen elejtés határértékei az 501. számú Hanság-mosoni, az 502. számú Vas-soproni-síksági, az 507. számú Bakonyi, az 508. számú Marcal-medencei, az 509. Bakonyalja-komáromi, az 511. számú Velencei, az 512. számú dunazugi, valamint az 513. számú Balaton-felvidéki vadgazdálkodási tájegységben |
 
 | Hibapont | Felrakás (bak kora) | Trófea tömege legalább (g) | Ágak hossza legalább (cm) | Trófea jellege |
 
@@ -460,7 +460,7 @@
 
 | 5. (5.) | 480 | 5 | legalább szabályos hatos |
 
-| Az őzbak szakszerűtlen elejtés határértékei az 503. számú Alpokaljai, az 504. számú Rába-menti-Kemenesháti, az 505. számú Zalai-dombsági, az 506. számú Zala-kisbalatoni, valamint az 510. számú Vértes-hegységi vadgazdálkodási tájegységben |
+| Az őzbak szakszerűtlen elejtés határértékei az 503. számú Alpokaljai, az 504. számú Rábamenti-kemenesháti, az 505. számú Zalai-dombsági, az 506. számú Zala-kisbalatoni, valamint az 510. számú Vértesi vadgazdálkodási tájegységben |
 
 | Hibapont | Felrakás (bak kora) | Trófea tömege legalább (g) | Ágak hossza legalább (cm) | Trófea jellege |
 
@@ -496,9 +496,9 @@
 
 ## Az Észak-dunántúli Vadgazdálkodási Táj vadgazdálkodási tájegységeiben érett
 
-## a) az 501. számú Hanság-mosoni, az 502. számú Vas-soproni-síksági, 507. számú Bakonyi, az 509. számú Bakonyalja-Komáromi, az 510. számú Vértes-hegységi, az 511. számú Velencei, az 512. számú Dunazugi és az 513. számú Balaton-felvidéki vadgazdálkodási tájegységben a legalább a 10. agancsát viselő (11. életévében levő) gímbika, amelynek, agancsa szabályos, legalább 30 cm-es főágakkal (szemág, középág) és a minimum hármas koronákban összesen legalább 5 db hosszú (15 cm-t meghaladó) ággal vagy kehelykoronával rendelkezik, és a trófea tömege meghaladja a 8,50 kg-ot;
+## a) az 501. számú Hanság-mosoni, az 502. számú Vas-soproni-síksági, 507. számú Bakonyi, az 509. számú Bakonyalja-komáromi, az 510. számú Vértesi, az 511. számú Velencei, az 512. számú Dunazugi és az 513. számú Balaton-felvidéki vadgazdálkodási tájegységben a legalább a 10. agancsát viselő (11. életévében levő) gímbika, amelynek, agancsa szabályos, legalább 30 cm-es főágakkal (szemág, középág) és a minimum hármas koronákban összesen legalább 5 db hosszú (15 cm-t meghaladó) ággal vagy kehelykoronával rendelkezik, és a trófea tömege meghaladja a 8,50 kg-ot;
 
-## b) az 503. számú Alpokaljai, az 504. számú Rába-menti-Kemenesháti, az 505. számú Zalai-dombsági, az 506. számú Zala-kisbalatoni és az 508. számú Marcal-medencei vadgazdálkodási tájegységben a legalább a 11. agancsát viselő (12. életévében levő) gímbika, amelynek agancsa szabályos, legalább 30 cm-es főágakkal (szemág, középág) és a minimum hármas koronákban összesen legalább 6 db hosszú (15 cm-t meghaladó) ággal vagy kehelykoronával rendelkezik, és a trófea tömege meghaladja a 9 kg-ot;
+## b) az 503. számú Alpokaljai, az 504. számú Rábamenti-kemenesháti, az 505. számú Zalai-dombsági, az 506. számú Zala-kisbalatoni és az 508. számú Marcal-medencei vadgazdálkodási tájegységben a legalább a 11. agancsát viselő (12. életévében levő) gímbika, amelynek agancsa szabályos, legalább 30 cm-es főágakkal (szemág, középág) és a minimum hármas koronákban összesen legalább 6 db hosszú (15 cm-t meghaladó) ággal vagy kehelykoronával rendelkezik, és a trófea tömege meghaladja a 9 kg-ot;
 
 ## c) a legalább a 9. agancsát viselő (10. életévében levő) dámbika, amelynek agancsa közel szimmetrikus, legalább 30 cm hosszú és 14 cm széles zárt lapáttal rendelkezik, amelynek tömege eléri a 3 kg-ot.
 
