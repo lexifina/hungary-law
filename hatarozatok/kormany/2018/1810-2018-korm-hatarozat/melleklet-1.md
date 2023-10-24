@@ -1,6 +1,6 @@
 ## 1. egyetért az 1. mellékletben felsorolt kedvezményezettek (a továbbiakban: Kedvezményezettek) programjainak, beruházásainak, fejlesztéseinek megvalósításával, illetve működésének támogatásával;
 
-## 2.[^1] felhívja a miniszterelnök általános helyettesét, hogy az 1. pont szerinti támogatások biztosítása érdekében – a Bethlen Gábor Alap irányításáért felelős Bizottság közreműködésével – a Kedvezményezettek részére, az 1. mellékletben meghatározott támogatási célokra és összegben, mindösszesen 32 547 313 039 forint összegben nyújtson – az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 101/A. §-a hatálya alá tartozó – költségvetési támogatást;
+## 2.[^1] felhívja a miniszterelnök általános helyettesét, hogy az 1. pont szerinti támogatások biztosítása érdekében – a Bethlen Gábor Alap irányításáért felelős Bizottság közreműködésével – a Kedvezményezettek részére, az 1. mellékletben meghatározott támogatási célokra és összegben, mindösszesen 27 397 313 039 forint összegben nyújtson – az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 101/A. §-a hatálya alá tartozó – költségvetési támogatást;
 
 ## Felelős: a miniszterelnök általános helyettese
 
@@ -56,7 +56,7 @@
 
 | 15. | Jolánta Kulturális Egyesület | Az Árpád-ház Program első ütemének további támogatása | 72 500 000 |
 
-| 16. | Sapientia Alapítvány | A szervezet sepsiszentgyörgyi fejlesztéseinek támogatása | 4 150 000 000 |
+| 16. |  |  |  |
 
 | 17. | Pannónia Alapítvány | Pannon Médiaház működésének és fejlesztésének támogatása | 60 000 000 |
 
@@ -86,7 +86,7 @@
 
 | 30. | Erdélyi Református Egyházkerület | Egyházkerülethez tartozó intézmények működésének támogatása | 300 000 000 |
 
-| 31. | Sapientia Alapítvány | A szervezet ingatlan-beruházásainak támogatása | 2 520 000 000 |
+| 31. | Sapientia Alapítvány | A szervezet ingatlan-beruházásainak támogatása | 1 520 000 000 |
 
 | 32. | Görögkatolikus Egyház Nagypeleske | A nagypeleskei görög katolikus műemlék templom felújításának támogatása | 89 000 000 |
 
@@ -112,6 +112,6 @@
 
 | 43. | Bicskei Torna Club Egyesület | Határon túli ingatlanfejlesztés támogatása | 120 000 000 |
 
-[^1]: A 2.4. pont az 1602/2019. (X. 16.) Korm. határozat 5. pont a) alpontja szerint módosított szöveg.
+[^1]: A 2.4. pont az 1602/2019. (X. 16.) Korm. határozat 5. pont a) alpontja, az 1452/2023. (X. 24.) Korm. határozat 1. pont a) alpontja szerint módosított szöveg.
 [^2]: A 4. pontot az 1602/2019. (X. 16.) Korm. határozat 4. pontja iktatta be.
-[^3]: Az 1. melléklet az 1835/2018. (XII. 27.) Korm. határozat 2. pontja, az 1058/2019. (II. 22.) Korm. határozat 2. pontja, az 1468/2019. (VII. 31.) Korm. határozat, az 1602/2019. (X. 16.) Korm. határozat 5. pont b) alpontja szerint módosított szöveg.
+[^3]: Az 1. melléklet az 1835/2018. (XII. 27.) Korm. határozat 2. pontja, az 1058/2019. (II. 22.) Korm. határozat 2. pontja, az 1468/2019. (VII. 31.) Korm. határozat, az 1602/2019. (X. 16.) Korm. határozat 5. pont b) alpontja, az 1452/2023. (X. 24.) Korm. határozat 1. pont b) alpontja és 2. pontja szerint módosított szöveg.
