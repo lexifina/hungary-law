@@ -16,4 +16,6 @@ A vadászvizsgát megelőző tanfolyam szervezésének engedélyezéséhez szük
 
 2.2. az 1.1. és 1.2. pontokban meghatározottak esetében az azok használatát igazoló dokumentum, valamint
 
-2.3. a tanfolyamon oktatók nevét, valamint végzettségét és szakmai gyakorlatát igazoló dokumentumok másolata.
+2.3.[^8] a tanfolyamon oktatók nevét, valamint vadászjegyét, végzettségét és szakmai gyakorlatát igazoló dokumentumok másolata.
+
+[^8]: Az 1. melléklet 2. pont 2.3. alpontja az 57/2023. (X. 16.) AM rendelet 45. § b) pontja szerint módosított szöveg.

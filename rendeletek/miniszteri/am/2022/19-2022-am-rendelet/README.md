@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-19-20-7
 | --- | --- | --- |
 | 2022-08-01 | 2022-19-20-7R.1 | 19/2022. (VII. 29.) AM rendelet |
 | 2022-08-02 | 2022-19-20-7R.2 | 2010: CXXX. törvény |
+| 2023-10-24 | 2022-19-20-7R.3 | 57/2023. (X. 16.) AM rendelet |

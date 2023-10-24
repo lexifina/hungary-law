@@ -20,8 +20,10 @@ c) a vizsgán használt képanyagot.
 
 (7) A vizsga (6) bekezdés szerinti anyagai akkor alkalmazhatók, ha azokat a vadászati hatóság a hatályos jogszabályok, valamint a vadbiológiai és vadgazdálkodási szakmai ismeretek alapján jóváhagyta.
 
-(8) A vizsgabizottság elnökét és tagjait a megjelent vizsgázók száma alapján vizsgáztatási díj illeti meg, amely a vizsgabizottság tagjai esetében vizsgázónként az 1 főre eső vizsgadíj 10 százaléka, a bizottság elnöke esetében az 1 főre eső vizsgadíj 15 százaléka.
+(8)[^6] A vizsgabizottság elnökét és tagjait a jelentkezett vizsgázók száma alapján vizsgáztatási díj illeti meg, amely a vizsgabizottság tagjai esetében vizsgázónként az 1 főre eső vizsgadíj 10 százaléka, a bizottság elnöke esetében az 1 főre eső vizsgadíj 15 százaléka. Ha a vizsgabizottság elnöke vagy tagja csak a vizsga egyik vizsgarészén vesz részt, a vizsgáztatási díj fele illeti meg.
 
 (9) A vizsgabizottság elnöke és tagja – a (10) bekezdésben meghatározott esetet kivéve – csak felsőfokú végzettséggel rendelkező személy lehet.
 
 (10) A 11. § (1) bekezdésében meghatározott, adott kiegészítő vizsga szakterületén jártas személyekből felkért szakember legalább középfokú végzettséggel rendelkező személy lehet.
+
+[^6]: A 13. § (8) bekezdése az 57/2023. (X. 16.) AM rendelet 44. §-ával megállapított szöveg.

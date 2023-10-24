@@ -22,7 +22,7 @@ e) a felek szerződésszegésének jogkövetkezményeit.
 
 a) az igazolás sorszáma vagy iktatószáma,
 
-b) az igazolást kiállító tanfolyamszervező adatai,
+b)[^2] az igazolást kiállító tanfolyamszervező azonosító adatai és a Vtv. 66. § (1a) bekezdése szerinti engedély száma;
 
 c) a tanfolyam kezdő és befejező dátuma,
 
@@ -39,3 +39,5 @@ h) az igazolást kiállító tanfolyamszervező képviselőjének aláírása.
 (7) Nem tekinthető a gyakorlati óráról történő hiányzásnak, ha a gyakorlati vadászlövészeti vizsgára nem kötelezett, kizárólag vadászíjjal, ragadozó madárral vagy magyar agárral vadászni kívánó hallgató a vadászlőfegyver biztonságos kezelésével és a lővizsgára történő felkészüléssel kapcsolatos gyakorlati foglalkozáson nem vesz részt.
 
 (8) A kizárólag vadászíjjal, ragadozó madárral vagy magyar agárral vadászni kívánó hallgató a tanfolyamra jelentkezéskor írásban nyilatkozik, ha a gyakorlati lővizsgát nem kívánja teljesíteni. A nyilatkozat tényét a tanfolyam teljesítéséről szóló igazoláson is rögzíteni kell.
+
+[^2]: A 4. § (6) bekezdés b) pontja az 57/2023. (X. 16.) AM rendelet 41. §-ával megállapított szöveg.
