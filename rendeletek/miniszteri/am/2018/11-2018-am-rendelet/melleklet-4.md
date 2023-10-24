@@ -1,3 +1,3 @@
-4. melléklet a 11/2018. (VII. 3.) AM rendelethez[^4]
+4. melléklet a 11/2018. (VII. 3.) AM rendelethez[^66]
 
-[^4]: A 4. melléklet az 52/2020. (X. 27.) AM rendelet 17. § (2) bekezdésével megállapított szöveg.
+[^66]: A 4. melléklet az 52/2020. (X. 27.) AM rendelet 17. § (2) bekezdésével megállapított, az 57/2023. (X. 16.) AM rendelet 33. § (2) bekezdése és 34. § e) és f) pontja szerint módosított szöveg.

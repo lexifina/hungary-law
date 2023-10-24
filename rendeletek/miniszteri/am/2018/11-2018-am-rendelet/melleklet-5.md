@@ -1,4 +1,4 @@
-## A vadgazdálkodási tájegység trófeabírálati irányelvei
+## A Duna–Tisza közi Vadgazdálkodási Táj vadgazdálkodási tájegységeinek trófeabírálati irányelvei
 
 ## Az elejtés szakszerűtlenségének megállapítása során a hibapont megítélését a táblázatokban megadott trófeajellegek együttes értékelésével kell végezni. A hibapont-besoroláshoz valamennyi határértéknek együttesen kell teljesülnie.
 
@@ -10,7 +10,7 @@
 
 ## I. A gímbika szakszerűtlen elejtés határértékei
 
-| A gímbika szakszerűtlen elejtés határértékei a 303. számú Illancs-bugaci vadgazdálkodási tájegységben |
+| A gímbika szakszerűtlen elejtés határértékei a 303. számú Illancs-bácskai vadgazdálkodási tájegységben |
 
 | Hibapont | Felrakás (bika kora, év) | Trófea tömege legalább (kg) | Szárhossz legalább (cm) | Főág hossza legalább (cm) | Trófea jellege |
 
@@ -190,7 +190,7 @@
 
 | 8. (9.) | 22 | 40 | 20 | 4,8 | szabályos; mindkét száron zárt, csipkézett lapát |
 
-| A dámbika szakszerűtlen elejtés határértékei a 301. számú Pesti-síksági, a 303. számú Illancs-bugaci, valamint a 305. számú Alsó-tiszamenti vadgazdálkodási tájegységben |
+| A dámbika szakszerűtlen elejtés határértékei a 301. számú Pesti-síksági, a 303. számú Illancs-bácskai, valamint a 305. számú Alsó-tiszamenti vadgazdálkodási tájegységben |
 
 | Hibapont | Felrakás (bika kora, év) | Szemág hossza legalább (cm) | Lapát | Tömeg legalább (kg) | Trófea jellege |
 
@@ -248,7 +248,7 @@
 
 ## III. Az őzbak szakszerűtlen elejtés határértékei
 
-| Az őzbak szakszerűtlen elejtés határértékei a 302. számú Észak-bács-kiskuni, a 303. számú Illancs-bugaci, a 306. számú Kiskunsági, a 309. számú Jászsági, valamint a 311. számú Tiszatavi vadgazdálkodási tájegységben |
+| Az őzbak szakszerűtlen elejtés határértékei a 302. számú Észak-bács-kiskuni, a 303. számú Illancs-bácskai, a 306. számú Kiskunsági, a 309. számú Jászsági, valamint a 311. számú Tisza-tavi vadgazdálkodási tájegységben |
 
 | Hibapont | Felrakás (bak kora) | Trófea tömege legalább (g) | Ágak hossza legalább (cm) | Trófea jellege |
 
@@ -282,7 +282,7 @@
 
 | 5. (5.) | 500 | 5 | legalább szabályos hatos |
 
-| Az őzbak szakszerűtlen elejtés határértékei a 301. számú Pesti-síksági, a 304. számú Közép-bács-kiskuni, a 305. számú Alsó-tiszamenti, a 307. számú Közép-pesti, a 308. számú Tápió-vidéki, valamint a 310. számú Mátra-alja-Dél-hevesi vadgazdálkodási tájegységben |
+| Az őzbak szakszerűtlen elejtés határértékei a 301. számú Pesti-síksági, a 304. számú Közép-bács-kiskuni, a 305. számú Alsó-tiszamenti, a 307. számú Közép-pesti, a 308. számú Tápióvidéki, valamint a 310. számú Dél-hevesi vadgazdálkodási tájegységben |
 
 | Hibapont | Felrakás (bak kora) | Trófea tömege legalább (g) | Ágak hossza legalább (cm) | Trófea jellege |
 
@@ -320,7 +320,7 @@
 
 ## a) a legalább a 10. agancsát viselő (11. életévében levő) gímbika, amelynek agancsa szabályos, legalább 30 cm-es főágakkal (szemág, középág) és a minimum hármas koronákban összesen legalább 5 db hosszú (15 cm-t meghaladó) ággal vagy kehelykoronával rendelkezik, és a trófea tömege meghaladja a 8,50 kg-ot;
 
-## b) a 303. számú Illancs-bugaci tájegységben a legalább a 11. agancsát viselő (12. életévében levő) gímbika, amelynek agancsa szabályos, legalább 30 cm-es főágakkal (szemág, középág) és a minimum hármas koronákban összesen legalább 6 db hosszú (15 cm-t meghaladó) ággal vagy kehelykoronával rendelkezik, és a trófea tömege meghaladja a 8,50 kg-ot;
+## b) a 303. számú Illancs-bácskai tájegységben a legalább a 11. agancsát viselő (12. életévében levő) gímbika, amelynek agancsa szabályos, legalább 30 cm-es főágakkal (szemág, középág) és a minimum hármas koronákban összesen legalább 6 db hosszú (15 cm-t meghaladó) ággal vagy kehelykoronával rendelkezik, és a trófea tömege meghaladja a 8,50 kg-ot;
 
 ## c) a legalább a 9. agancsát viselő (10. életévében levő) dámbika, amelynek agancsa közel szimmetrikus, legalább
 
