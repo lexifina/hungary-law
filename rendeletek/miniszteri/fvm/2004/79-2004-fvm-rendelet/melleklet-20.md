@@ -246,8 +246,8 @@
 
 ## szakértő
 
-20. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^274]
+20. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^318]
 
-A VADÁSZHATÓ ÁLLATOK ÉS A HULLOTT AGANCS VADGAZDÁLKODÁSI ÉRTÉKE
+A vadászható állatok és a hullott agancs vadgazdálkodási értéke
 
-[^274]: A Vhr. 20. számú melléklete a 72/2012. (VII. 24.) VM rendelet 15. § c) pontjával megállapított, a 65/2015. (X. 26.) FM rendelet 4. § d) pontja szerint módosított szöveg.
+[^318]: A Vhr. 20. számú melléklete az 57/2023. (X. 16.) AM rendelet 27. § (10) bekezdésével megállapított szöveg.

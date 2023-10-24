@@ -50,90 +50,72 @@
 
 ## 5.3. A tervben felhasznált adatok és szakirodalom forrásai
 
-7. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^260]
+7. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^297]
 
-I. A VADÁLLOMÁNYBECSLÉS ÉS AZ ÉVES VADGAZDÁLKODÁSI TERV TARTALMI KÖVETELMÉNYEI
+I. A vadállománybecslés és az éves vadgazdálkodási terv kötelező adattartalma
 
-## Vadgazdálkodási egység azonosító adatai:
+1.1. A vadgazdálkodási egység azonosító adatai (neve, székhelye, kódszáma)
 
-## Adatszolgáltató neve, székhelye, kódszáma, levelezési címe, adatszolgáltatói számjele.
+1.2. Becsült vadállomány szabad és zárt területi bontásban nagyvadfajok, mezei nyúl, fácán és fogoly esetében
 
-## A) TÁBLA Becsült vadállomány
+1.3. Egyéb fajok (üregi nyúl, házi görény, nyest, borz, róka, aranysakál, dolmányos varjú, szarka, szajkó) állománylétszáma
 
-## Vadállomány (gímszarvas, dámszarvas, őz, muflon, vaddisznó, mezei nyúl, fácán, fogoly) szabad területen, zárt kertben, összesen.
+1.4. Állományszabályozás (lelövés és befogás) szabad és zárt területi bontásban, valamint vadtelepítés és -kibocsátás nagyvadfajok, mezei nyúl, fácán, fogoly és tőkés réce esetében
 
-## B) TÁBLA Egyéb fajok állománya
+1.5. Mesterséges vadtenyésztés esetén vadászatra, valamint a természetes állomány pótlására tervezett kihelyezés fácán, fogoly, vörös fogoly és tőkés réce vonatkozásában
 
-## Megnevezés (szarka, dolmányos varjú, vetési varjú, holló, barna rétihéja, egerészölyv, héja, róka, borz, nyest, görény, nyuszt, menyét, aranysakál) és létszám.
+1.6. Művelésre tervezett vadföld és vadlegelő, valamint tervezett takarmányfelhasználás (szálas, szemes, lédús, táp)
 
-## C) TÁBLA Állományszabályozás, vadtelepítés és értékesítés
+2. Az egyéb apróvadfajokra előírt állománycsökkentés teljesítését bizonyító igazolás adattartalma
 
-## Megnevezés, állományszabályozás (lelövés, befogás összesen) szabad területi és zárt területi bontásban. Vadtelepítés és kibocsátás.
+2.1. Vadászatra jogosult neve, kódszáma
 
-## D) TÁBLA Mesterséges vadtenyésztés
+2.2. Vadászati év
 
-## Megnevezés (tervezett zárttéri törzsállomány, tervezett értékesítés, tervezett vásárlás, vadászatra történő tervezett kihelyezés, tervezett kihelyezés természetes állomány pótlására, zárttéri törzsállománynak tovább tartva) fácán, fogoly, vörös fogoly és vadkacsa esetében.
+2.3. A vadászati hatóság által előírt gyérítés mértéke, fajok szerinti bontásban:
 
-## E) TÁBLA Vadföldek és vadtakarmányozás
+2.3.1. Házi görény
 
-## A vadászatra jogosultak a minisztérium által elkészíttetett éves vadgazdálkodási terv nyomtatvány tartalmi és formai előírásait kötelesek betartani.
+2.3.2. Nyest
 
-## A vadállománybecslési jelentéseket és a vadgazdálkodási terveket elektronikus formában is benyújthatják az Országos Vadgazdálkodási Adattár által regisztrált vadgazdálkodási egységek.
+2.3.3. Borz
 
-II. 1. § (1) BEKEZDÉS b) PONT bb) ALPONTJÁBAN MEGHATÁROZOTT FAJOKRA ELŐÍRT ÁLLOMÁNYCSÖKKENTÉS TELJESÍTÉSÉT IGAZOLÓ NYOMTATVÁNY
+2.3.4. Róka
 
-1. Vadászatra jogosult neve:
+2.3.5. Aranysakál
 
-2. Vadászatra jogosult kódszáma:
+2.3.6. Pézsmapocok
 
-3. Vadászati év:
+2.3.7. Nyestkutya
 
-4. A vadászati hatóság által előírt gyérítés mértéke, fajok szerinti bontásban:
+2.3.8. Mosómedve
 
-Házi görény:
+2.3.9. Dolmányos varjú
 
-Nyest:
+2.3.10. Szarka
 
-Borz:
+2.3.11. Szajkó
 
-Róka:
+2.4. A tájegységi fővadász által igazoltan teljesített gyérítés, fajok szerinti bontásban:
 
-Aranysakál:
+2.4.1. Borz
 
-Pézsmapocok:
+2.4.2. Róka
 
-Nyestkutya:
+2.4.3. Aranysakál
 
-Mosómedve:
+2.4.4. Dolmányos varjú
 
-Dolmányos varjú:
+2.4.5. Szarka
 
-Szarka:
+2.4.6. Szajkó
 
-Szajkó:
+2.5. A gyérítésre, továbbá az elejtési jelek megsemmisítésére vonatkozó következő szöveg:
 
-5. A tájegységi fővadász által igazoltan teljesített gyérítés, fajok szerinti bontásban:
+## „Fent nevezett vadászatra jogosult a vadászati hatóság által a ……/…… éves vadgazdálkodási tervben a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény végrehajtásának szabályairól szóló 79/2004. (V. 4.) FVM rendelet 1. § (1) bekezdés b) pont bb) alpontjában meghatározott fajokra előírt gyérítést, továbbá az elejtési jelek megsemmisítését teljesítette / nem teljesítette.”
 
-Róka:
+2.6. Tájegységi fővadász aláírása
 
-Aranysakál:
+2.7. Az igazolás kiállításának helye és dátuma
 
-Dolmányos varjú:
-
-Szarka:
-
-Szajkó:
-
-Fent nevezett vadászatra jogosult a vadászati hatóság által a ……/…… éves vadgazdálkodási tervben az 1. § (1) bekezdés b) pont bb) alpontjában meghatározott fajokra előírt gyérítést, továbbá az elejtési jelek megsemmisítését
-
-teljesítette/nem teljesítette.*
-
-Dátum:
-
-...................................................................................................
-
-tájegységi fővadász
-
-* A megfelelő rész aláhúzandó.
-
-[^260]: A Vhr. 7. számú melléklete a 24/2017. (V. 17.) FM rendelet 33. § (3) bekezdésével megállapított, az 52/2020. (X. 27.) AM rendelet 12. § d) pontja szerint módosított szöveg.
+[^297]: A Vhr. 7. számú melléklete az 57/2023. (X. 16.) AM rendelet 27. § (5) bekezdésével megállapított szöveg.

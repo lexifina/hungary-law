@@ -1,40 +1,4 @@
-## A. A tulajdonosi közösség közös képviselőjének nyilvántartásba vétele iránti kérelem kötelező adattartalma
-
-## 1. A közös képviselő neve:
-
-## 2. A közös képviselő lakcíme/székhelye:
-
-## 3. A közös képviselő adóazonosító jele/adószáma:
-
-## 4. A közös képviselő telefonszáma:
-
-## 5. A közös képviselő e-mail címe:
-
-## 6. A vadászterület határát megállapító határozat száma:
-
-## 7. A vadászterület kódszáma (megyekódja és a vadászterület sorszáma):
-
-## 8. Keltezés, a kérelmező aláírása (bélyegzője):
-
-## B. A vadászatra jogosult nyilvántartásba vétele iránti kérelem kötelező adattartalma
-
-## 1. A vadászatra jogosult neve:
-
-## 2. A vadászatra jogosult címe/székhelye:
-
-## 3. A vadászatra jogosult adóazonosító jele/adószáma:
-
-## 3.1. A vadászatra jogosult bírósági bejegyzés száma:
-
-## 4. A vadászterület határát megállapító határozat száma:
-
-## 5. A vadászati jog formája:
-
-## 6. A vadászati jog hasznosításának módja:
-
-## 7. Keltezés, a kérelmező aláírása (bélyegzője):
-
-2. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^255]
+2. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^291]
 
 A TULAJDONOSI KÖZÖSSÉG VADÁSZATI JOG HASZNOSÍTÁSÁVAL ÖSSZEFÜGGÉSBEN KÉSZÍTETT MŰKÖDÉSI SZABÁLYZATÁNAK MINIMÁLIS ADATTARTALMA
 
@@ -76,8 +40,9 @@ A TULAJDONOSI KÖZÖSSÉG VADÁSZATI JOG HASZNOSÍTÁSÁVAL ÖSSZEFÜGGÉSBEN K�
 
 7.3. a számlavezető bank címe:
 
-8. A működési szabályzatban nem szabályozott kérdésekben a Polgári Törvénykönyvben foglaltak irányadók.
+8.[^292] A tulajdonosi közösség részére az adóhatóság által kiállított adószám.
 
 9. Dátum, a közös képviselő és két tanú aláírása
 
-[^255]: A Vhr. 2. számú melléklete a 14/2016. (III. 2.) FM rendelet 8. §-ával megállapított szöveg.
+[^291]: A Vhr. 2. számú melléklete a 14/2016. (III. 2.) FM rendelet 8. §-ával megállapított szöveg.
+[^292]: A Vhr. 2. számú melléklet 8. pontja az 57/2023. (X. 16.) AM rendelet 27. § (2) bekezdésével megállapított szöveg.

@@ -1,6 +1,6 @@
 ## (A Vtv. 46. §-ához)
 
-28. §[^71] (1) Vadgazdálkodási üzemtervet felsőfokú vadgazdálkodási képesítéssel, valamint ötéves szakmai gyakorlattal rendelkező, a vadgazdálkodási tervezés szakértői névjegyzékébe felvett személy készíthet.
+28. §[^82] (1) Vadgazdálkodási üzemtervet felsőfokú vadgazdálkodási képesítéssel, valamint ötéves szakmai gyakorlattal rendelkező, a vadgazdálkodási tervezés szakértői névjegyzékébe felvett személy készíthet.
 
 (2) A vadgazdálkodási üzemterv tartalmi követelményeit a 6. számú melléklet tartalmazza.
 
@@ -12,4 +12,4 @@ a) az üzemterv vadászati hatósághoz történő benyújtásakor írásban úg
 
 b) a javaslatot a 6. számú melléklet 4. pontjában felsorolt – az üzemterv benyújtásának időpontjában rendelkezésére álló – vadgazdálkodásra vonatkozó dokumentumokkal kiegészítette.
 
-[^71]: A Vhr. 28. §-a a 13/2018. (VII. 3.) AM rendelet 3. §-ával megállapított szöveg.
+[^82]: A Vhr. 28. §-a a 13/2018. (VII. 3.) AM rendelet 3. §-ával megállapított szöveg.

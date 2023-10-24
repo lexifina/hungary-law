@@ -1,109 +1,113 @@
-| Faj | Érték (ezer Ft/egyed) |
+|  | A | B |
 
-| gímszarvas |  |
+| 1 | Faj | Érték (ezer Ft/egyed) |
 
-| bika (trófea szerint) |  |
+| 2 | a) gímszarvas |
 
-| 5,00 kg-ig | 600 |
+| 3 | bika (trófea szerint) |  |
 
-| 5,01–10,00 kg-ig | 1000 |
+| 4 | – 5,00 kg-ig | 600 |
 
-| 10,01 kg-tól | 3750 |
+| 5 | – 5,01–10,00 kg-ig | 1000 |
 
-| tar fejű és agancsfejlesztő (barkás) | 1000 |
+| 6 | – 10,00 kg felett | 3750 |
 
-| tehén, ünő | 200 |
+| 7 | tar fejű és agancsfejlesztő (barkás) | 1000 |
 
-| borjú | 100 |
+| 8 | tehén, ünő | 200 |
 
-| dámszarvas, szikaszarvas |  |
+| 9 | borjú | 100 |
 
-| bika (trófea szerint) |  |
+| 10 | b) dámszarvas, szikaszarvas |
 
-| 3,00 kg-ig | 400 |
+| 11 | bika (trófea szerint) |  |
 
-| 3,01 kg-tól | 850 |
+| 12 | – 3,00 kg-ig | 400 |
 
-| tar fejű és agancsfejlesztő (barkás) | 600 |
+| 13 | – 3,00 kg felett | 850 |
 
-| tehén, ünő | 150 |
+| 14 | tar fejű és agancsfejlesztő (barkás) | 600 |
 
-| borjú | 100 |
+| 15 | tehén, ünő | 150 |
 
-| őz |  |
+| 16 | borjú | 100 |
 
-| bak (trófea szerint) |  |
+| 17 | c) őz |
 
-| 350 g-ig | 200 |
+| 18 | bak (trófea szerint) |  |
 
-| 351 g-tól | 600 |
+| 19 | – 400 g-ig | 350 |
 
-| tar fejű és agancsfejlesztő (barkás) | 350 |
+| 20 | – 400,01 g-tól 500 g-ig | 700 |
 
-| suta | 100 |
+| 21 | – 500 g felett | 1000 |
 
-| gida | 50 |
+| 22 | tar fejű és agancsfejlesztő (barkás) | 400 |
 
-| muflon |  |
+| 23 | suta | 150 |
 
-| kos (trófea szerint) |  |
+| 24 | gida | 50 |
 
-| 70 cm-ig | 350 |
+| 25 | d) muflon |
 
-| 70,01 cm-től | 600 |
+| 26 | kos (trófea szerint) |  |
 
-| juh, jerke | 100 |
+| 27 | – 70 cm-ig | 350 |
 
-| bárány | 50 |
+| 28 | – 70 cm felett | 600 |
 
-| vaddisznó |  |
+| 29 | juh, jerke | 100 |
 
-| kan (trófea szerint) |  |
+| 30 | bárány | 50 |
 
-| 12–18 cm-ig | 250 |
+| 31 | e) vaddisznó |
 
-| 18,01 cm-től | 600 |
+| 32 | kan (trófea szerint) |  |
 
-| koca |  |
+| 33 | – 12–18 cm-ig | 250 |
 
-| 50 kg-tól | 250 |
+| 34 | – 18 cm felett | 600 |
 
-| süldő | 100 |
+| 35 | koca |  |
 
-| malac (20 kg-ig) | 50 |
+| 36 | – 50 kg-tól | 250 |
 
-| (zsigerelt testtömeg szerint) |  |
+| 37 | süldő | 100 |
 
-| mezei nyúl | 20 |
+| 38 | malac (20 kg-ig) | 50 |
 
-| üregi nyúl | 10 |
+| 39 | (zsigerelt testtömeg szerint) |  |
 
-| fácán |  |
+| 40 | mezei nyúl | 50 |
 
-| - kakas | 10 |
+| 41 | üregi nyúl | 10 |
 
-| - tyúk | 20 |
+| 42 | fácán |  |
 
-| fogoly | 50 |
+| 43 | – kakas | 25 |
 
-| nyári lúd | 20 |
+| 44 | – tyúk | 50 |
 
-| vetési lúd | 20 |
+| 45 | fogoly | 50 |
 
-| nagy lilik | 20 |
+| 46 | nyári lúd | 50 |
 
-| tőkés réce | 10 |
+| 47 | vetési lúd | 50 |
 
-| szárcsa | 10 |
+| 48 | nagy lilik | 50 |
 
-| erdei szalonka | 10 |
+| 49 | tőkés réce | 25 |
 
-| örvös galamb | 10 |
+| 50 | szárcsa | 25 |
 
-| balkáni gerle | 10 |
+| 51 | erdei szalonka | 10 |
 
-| egyéb vadászható állatfajok | 5 |
+| 52 | örvös galamb | 10 |
 
-| hullott agancs (kg-ja) | 5 |
+| 53 | balkáni gerle | 10 |
+
+| 54 | egyéb vadászható állatfajok | 5 |
+
+| 55 | hullott agancs (kg-ja) | 10 |
 
 21. számú melléklet a 79/2004. (V. 4.) FVM rendelethez

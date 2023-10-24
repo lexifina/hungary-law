@@ -1,20 +1,15 @@
-34. §[^77] (1) A vadászati hatóság a vadászatra jogosult kérelmére az e rendeletben meghatározott feltételeknek megfelelő hivatásos vadász jelöltet a 9. számú melléklet szerinti adattartalommal nyilvántartásba veszi. A vadászati hatóság a nyilvántartásba vett hivatásos vadász, valamint a vadászatra jogosult számára igazolást állít ki.
+34. §[^99] (1) A vadászatra jogosult a hivatásos vadászként alkalmazni kívánt személy 9. számú melléklet szerinti rendelkezésre álló adatait megküldi a vadászati hatóság számára, amelyről a vadászati hatóság a hivatásos vadászként alkalmazni kívánt személy, valamint a vadászatra jogosult számára igazolást állít ki.
 
-(2) A vadászatra jogosult az (1) bekezdés szerinti igazolás birtokában kezdeményezheti a rendőrségnél a szolgálati igazolvány és szolgálati jelvény kiállítását.
+(2) A vadászatra jogosult az (1) bekezdés szerinti igazolás birtokában kezdeményezheti a rendőrségnél a szolgálati igazolvány kiállítását és a szolgálati jelvény kiadását.
 
-(3) A hivatásos vadász a szolgálati igazolványt és szolgálati jelvényt – a kézhezvételt követő 15 napon belül – a vadászati hatóságnál köteles bemutatni. A szolgálati igazolvány és szolgálati jelvény sorszámát a vadászati hatóság a 9. számú melléklet szerint köteles nyilvántartásában rögzíteni.
+(3) A hivatásos vadászként alkalmazni kívánt személy a szolgálati igazolványt és a szolgálati jelvényt – a kézhezvételt követő 15 napon belül – a vadászati hatóságnál bemutatja. A vadászati hatóság a hivatásos vadászként alkalmazni kívánt személyt a 9. számú melléklet szerinti adattartalommal nyilvántartásba veszi.
 
-(4) A hivatásos vadász a vadászati hatóság előtt esküt tesz. A hivatásos vadász esküjének szövegét és az esküokmány formáját a 10. számú melléklet tartalmazza.
+(4) A hivatásos vadász esküjének és esküokmányának szövegét a 10. számú melléklet tartalmazza.
 
-(5)[^78] A vadászati hatóság az eskü letételét követően a hivatásos vadászt nyilvántartásba veszi. A hivatásos vadász tevékenységét csak a nyilvántartásba vételét követően kezdheti meg.
+(5) A hivatásos vadász a szolgálati tevékenységét a Vtv. 51. § (1) bekezdése szerinti nyilvántartásba vételét követően kezdheti meg.
 
-(6)[^79]
+(6) A vadászatra jogosult a hivatásos vadász alkalmazásának megszűnését a vadászati hatóságnak – a megszűnést követő 15 napon belül – bejelenti.
 
-(7) A vadászatra jogosult köteles a hivatásos vadász alkalmazásának megszűnését – a megszűnését követő 15 napon belül – bejelenteni a működési helye szerint illetékes vadászati hatóságnak.
+(7) A vadászatra jogosult a hivatásos vadász alkalmazásáról, szolgálati helyéről, továbbá alkalmazásának megszűnéséről – 15 napon belül – tájékoztatja a működési helye szerinti rendőrhatóságot, valamint a vadászkamarának a hivatásos vadász lakóhelye és működési helye szerint illetékes területi szervezetét.
 
-(8)[^80] A vadászatra jogosult köteles a hivatásos vadász alkalmazásáról, szolgálati helyéről, továbbá alkalmazásának megszűnéséről – 15 napon belül – tájékoztatni a működési helye szerinti rendőrhatóságot, valamint a hivatásos vadász lakóhelye és működési helye szerint illetékes vadászkamarát.
-
-[^77]: A Vhr. 34. §-a a 45/2013. (VI. 3.) VM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^78]: A Vhr. 34. § (5) bekezdése az 52/2020. (X. 27.) AM rendelet 3. §-ával megállapított szöveg.
-[^79]: A Vhr. 34. § (6) bekezdését az 52/2020. (X. 27.) AM rendelet 13. § a) pontja hatályon kívül helyezte.
-[^80]: A Vhr. 34. § (8) bekezdése a 24/2017. (V. 17.) FM rendelet 34. § 10. pontja szerint módosított szöveg.
+[^99]: A Vhr. 34. §-a az 57/2023. (X. 16.) AM rendelet 8. §-ával megállapított szöveg.

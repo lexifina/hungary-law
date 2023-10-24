@@ -1,4 +1,4 @@
-7/B. §[^20] (1) A vadászati hatóság a benyújtott módosító javaslatot és a rendelkezésére bocsátott dokumentumokat megvizsgálja és a módosító javaslatot elutasítja, ha
+7/B. §[^28] (1) A vadászati hatóság a benyújtott módosító javaslatot és a rendelkezésére bocsátott dokumentumokat megvizsgálja és a módosító javaslatot elutasítja, ha
 
 a) az nem határidőben került benyújtásra,
 
@@ -22,4 +22,4 @@ c) a módosító javaslattal érintett, a 7/C. § (1) bekezdés b) pontjában me
 
 (4) A vadászati hatóság a módosító javaslat befogadásáról szóló döntését az elektronikus tájékoztatásra szolgáló honlapján közzéteszi, valamint minden érintett település önkormányzatának – az önkormányzati közzététel érdekében – megküldi.
 
-[^20]: A Vhr. 7/B. §-át a 14/2016. (III. 2.) FM rendelet 4. §-a iktatta be.
+[^28]: A Vhr. 7/B. §-át a 14/2016. (III. 2.) FM rendelet 4. §-a iktatta be.

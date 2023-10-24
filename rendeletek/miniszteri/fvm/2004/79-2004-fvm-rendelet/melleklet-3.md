@@ -1,4 +1,4 @@
-3. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^256]
+3. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^293]
 
 I. A VADASKERT LÉTESÍTÉSÉRE IRÁNYULÓ KÉRELEM TARTALMI KÖVETELMÉNYEI
 
@@ -94,6 +94,8 @@ h) az érintett erdőterületre vonatkozó erdészeti üzemterv kivonata.
 
 6. Bemutatás célú vadaspark esetében, látogatási rendet.
 
+7. Az állategészségügyi hatóság által kiadott működési engedély másolata.
+
 III. A VADFARM LÉTESÍTÉSÉRE IRÁNYULÓ KÉRELEM TARTALMI KÖVETELMÉNYEI
 
 1. A bekerítésre tervezett földterület tulajdonosának, használójának megnevezése és előzetes hozzájárulása a vadfarm létesítéséhez.
@@ -122,6 +124,68 @@ i) az érintett erdőterületre vonatkozó erdészeti üzemterv kivonata, üzemt
 
 4. Felszámolási terv az I. 2.4. pontban meghatározott tartalommal.
 
+5. Az állategészségügyi hatóság által kiadott működési engedély másolata.
+
 IV. ÁLLOMÁNYVÁLTOZÁSI NAPLÓ
 
-[^256]: A Vhr. korábbi 3. I. számú mellékletének számozását 3. számú mellékletre változtatta és szövegét megállapította a 24/2017. (V. 17.) FM rendelet 33. § (1) bekezdése, a melléklet szövege a 70/2017. (XII. 29.) FM rendelet 4. § (1) bekezdés d) pontja szerint módosított szöveg. (A Vhr. 3. II. számú mellékletét a 24/2017. (V. 17.) FM rendelet 35. § (2) bekezdés 8. pontja hatályon kívül helyezte.)
+## Dátum: 20…… január 1-től 20…… december 31-ig.
+
+| VADTARTÁSI ENGEDÉLY SZÁMA: TIR AZONOSÍTÓ: | ENGEDÉLYES NEVE: CÍM: TEL.: E-MAIL: |
+
+| állományváltozás oka | Vadfaj: ……………………… Ivar: ……………………… | összesen |
+
+| I. | II. | III. | IV. | V. | VI. | VII. | VIII. | IX. | X. | XI. | XII. |
+
+| induló létszám |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| növekedés | szaporulat |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| vétel |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| korosbítás |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| növekedés összesen |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| csökkenés | elhullás |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| értékesítés (élő állatként) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| felhasználás (élelmiszer elállítás vagy saját célra) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| korosbítás |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| csökkenés összesen |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| záró létszám |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+## Dátum: ……………………… …………………………………… aláírás
+
+V. AZ APRÓVADTARTÓ TELEP LÉTESÍTÉSÉRE IRÁNYULÓ KÉRELEM TARTALMI KÖVETELMÉNYEI
+
+1. Az apróvadtartó telep létesítésének tervdokumentációja a következő tartalmi elemekkel:
+
+1.1. Az apróvadtartó telep létesítésének célja
+
+1.2. Az apróvadtartó telepnek helyt adó terület természeti adottságai, a terület leírása
+
+1.3. Az apróvadtartó telep üzemeltetéséhez tervezett létesítmények, berendezések
+
+1.4. Az apróvadtartó telep törzsállománya, szaporulata, állományhasznosítása (a törzsállomány kor és ivar szerinti bontásban)
+
+1.5. Az apróvadtartó telep működési feltételei (takarmányozási technológia, takarmányféleségek)
+
+1.6. Az apróvadtartó telep nyilvántartások (állományváltozási napló, elhullási napló, takarmányozási napló)
+
+1.7. Állategészségügyi irányelvek (leggyakoribb állategészségügyi problémák, személy- és járműforgalom), az apróvadtartó telep állategészségügyi felügyeletét ellátó állatorvossal kötött megállapodás
+
+1.8. Az apróvadtartó telep térképi megjelenítése, különös tekintettel a volierek elhelyezkedésére és a kerítések nyomvonalára, az apróvadtartó telep létesítményeinek, berendezéseinek elhelyezkedésére, valamint az erdőre
+
+1.9. Az érintett erdőterületre vonatkozó erdészeti üzemterv kivonata, üzemtervezett erdő terület esetén az erdő igénybevételét engedélyező erdészeti hatósági engedély, nem üzemtervezett erdő esetében erdészeti hatóság hozzájáruló nyilatkozata
+
+2. Igazolás a baromfi Tenyészet Információs Rendszerben való regisztrációról
+
+3. Nagylétszámú apróvadtartó telep esetében az illetékes állategészségügyi hatóság által kiadott működési engedély másolata
+
+4. Felszámolási terv az I. 2.4. pontban meghatározott tartalommal
+
+[^293]: A Vhr. korábbi 3. I. számú mellékletének számozását 3. számú mellékletre változtatta és szövegét megállapította a 24/2017. (V. 17.) FM rendelet 33. § (1) bekezdése, a melléklet szövege a 70/2017. (XII. 29.) FM rendelet 4. § (1) bekezdés d) pontja, az 57/2023. (X. 16.) AM rendelet 27. § (3) bekezdése szerint módosított szöveg. (A Vhr. 3. II. számú mellékletét a 24/2017. (V. 17.) FM rendelet 35. § (2) bekezdés 8. pontja hatályon kívül helyezte.)

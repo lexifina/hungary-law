@@ -16,11 +16,11 @@ a) nagyvadfajok:
 
 6. Szikaszarvas – Japán szika (Cervus nippon nippon),
 
-7. Dybowski szika (Cervus nippon hortulorum),
+7.[^2] Szikaszarvas – Dybowski szika (Cervus nippon hortulorum);
 
-8.[^2]
+8.[^3]
 
-b)[^3] apróvadfajok:
+b)[^4] apróvadfajok:
 
 ba) hasznos apróvadfajok
 
@@ -52,7 +52,7 @@ ba) hasznos apróvadfajok
 
 14. Örvös galamb (Columba palumbus),
 
-15.[^4] Vörös fogoly (Alectoris rufa).
+15.[^5] Vörös fogoly (Alectoris rufa).
 
 bb) egyéb apróvadfajok:
 
@@ -78,7 +78,7 @@ bb) egyéb apróvadfajok:
 
 11. Szajkó (Garrulus glandarius).
 
-(2)[^5] Közösségi jelentőségű vadászható állatfajok a következők:
+(2)[^6] Közösségi jelentőségű vadászható állatfajok a következők:
 
 1. Fácán (Phasianus colchicus),
 
@@ -90,7 +90,7 @@ bb) egyéb apróvadfajok:
 
 5. Nagy lilik (Anser albifrons albifrons),
 
-6. Kanadai lúd (Branta canadensis),
+6.[^7]
 
 7. Tőkés réce (Anas platyrynchos),
 
@@ -112,11 +112,13 @@ bb) egyéb apróvadfajok:
 
 16. Szajkó (Garrulus glandarius).
 
-17.[^6] Vörös fogoly (Alectoris rufa).
+17.[^8] Vörös fogoly (Alectoris rufa).
 
 [^1]: A Vhr. 1. §-a a 7/2010. (II. 2.) FVM rendelet 1. §-ával megállapított szöveg.
-[^2]: A Vhr. 1. § (1) bekezdés a) pont 8. alpontját a 65/2015. (X. 26.) FM rendelet 4. § a) pontja hatályon kívül helyezte.
-[^3]: A Vhr. 1. § (1) bekezdés b) pontja a 72/2012. (VII. 24.) VM rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^4]: A Vhr. 1. § (1) bekezdés b) pont ba) alpont 15. pontját az 52/2020. (X. 27.) AM rendelet 1. § (1) bekezdése iktatta be.
-[^5]: A Vhr. 1. § (2) bekezdése a 72/2012. (VII. 24.) VM rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^6]: A Vhr. 1. § (2) bekezdés 17. pontját az 52/2020. (X. 27.) AM rendelet 1. § (2) bekezdése iktatta be.
+[^2]: A Vhr. 1. § (1) bekezdés a) pont 7. alpontja az 57/2023. (X. 16.) AM rendelet 28. § 1. pontja szerint módosított szöveg.
+[^3]: A Vhr. 1. § (1) bekezdés a) pont 8. alpontját a 65/2015. (X. 26.) FM rendelet 4. § a) pontja hatályon kívül helyezte.
+[^4]: A Vhr. 1. § (1) bekezdés b) pontja a 72/2012. (VII. 24.) VM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^5]: A Vhr. 1. § (1) bekezdés b) pont ba) alpont 15. pontját az 52/2020. (X. 27.) AM rendelet 1. § (1) bekezdése iktatta be.
+[^6]: A Vhr. 1. § (2) bekezdése a 72/2012. (VII. 24.) VM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^7]: A Vhr. 1. § (2) bekezdés 6. pontját az 57/2023. (X. 16.) AM rendelet 29. § a) pontja hatályon kívül helyezte.
+[^8]: A Vhr. 1. § (2) bekezdés 17. pontját az 52/2020. (X. 27.) AM rendelet 1. § (2) bekezdése iktatta be.

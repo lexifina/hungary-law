@@ -1,6 +1,6 @@
 ## (A Vtv. 11. §-ához)
 
-5. §[^16] (1) A Vtv. 19. § (2) bekezdés i) pontja alkalmazásában zárványterület az a földterület, amely
+5. §[^23] (1) A Vtv. 19. § (2) bekezdés i) pontja alkalmazásában zárványterület az a földterület, amely
 
 a) önálló vadászterületként történő kialakítása esetén – a különleges rendeltetésű vadászterület kivételével – kizárólag egy vadászterülettel lenne határos,
 
@@ -22,4 +22,4 @@ c) a vadászati hatóság ajánlásához érkező módosító javaslat elfogadá
 
 (8) A vadászati hatóság a vadászterület határának megállapítására vonatkozó, a (3) bekezdésben foglaltak szerint egyeztetett és véglegesített ajánlásának tervezetét a közzétételét megelőző öt nappal korábban, de legkésőbb március 21. napjáig a vadgazdálkodásért felelős miniszter által vezetett minisztérium (a továbbiakban: minisztérium) részére tájékoztatás céljából megküldi.
 
-[^16]: A Vhr. 5. §-a a 14/2016. (III. 2.) FM rendelet 4. §-ával megállapított szöveg.
+[^23]: A Vhr. 5. §-a a 14/2016. (III. 2.) FM rendelet 4. §-ával megállapított szöveg.

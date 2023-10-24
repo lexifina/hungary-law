@@ -14,14 +14,35 @@ e) az egyéni apróvad vadászat,
 
 f) a solymászat,
 
-g)[^174] az agarászat.
+g)[^194] az agarászat.
 
-(2)[^175] Vadászterületen a solymászatra használt vadászmadár betanításához, bevadászásához szükséges röpítés és műpedzés, valamint a magyar agár tanításához szükséges „műnyúl” utáni futtatás csak a vadászatra jogosult hozzájárulásával, a vadászterület e célra kijelölt részén végezhető.
+(2)[^195] Vadászterületen a solymászatra használt vadászmadár betanításához, bevadászásához szükséges röpítés és műpedzés, valamint a magyar agár tanításához szükséges „műnyúl” utáni futtatás csak a vadászatra jogosult hozzájárulásával, a vadászterület e célra kijelölt részén végezhető.
 
 (3) Nagyvadra történő egyéni vadászat alkalmával keresőtávcső használata kötelező.
 
-(4)[^176] Vaddisznó, aranysakál, borz és róka éjszakai vadászatán a vadász köteles magánál tartani és használni keresőtávcsövet, céltávcsövet, valamint kézilámpát, továbbá – ha a vadászati hatóság az eseti használatát külön engedélyezte – a fegyverlámpát.
+(4)[^196] Vaddisznó, borz, róka, aranysakál, nyestkutya és mosómedve éjszakai vadászatán a vadász köteles keresőtávcsövet, céltávcsövet, valamint lámpát használni. Vaddisznó, róka, nyestkutya, mosómedve, valamint a vadászati hatóság külön engedélyével a borz és az aranysakál éjszakai vadászatához célzást segítő mesterséges fényforrás is használható.
 
-[^174]: A Vhr. 69. § (1) bekezdés g) pontját a 24/2017. (V. 17.) FM rendelet 21. § (1) bekezdése iktatta be.
-[^175]: A Vhr. 69. § (2) bekezdése a 24/2017. (V. 17.) FM rendelet 21. § (2) bekezdésével megállapított szöveg.
-[^176]: A Vhr. 69. § (4) bekezdése a 24/2017. (V. 17.) FM rendelet 34. § 25. pontja szerint módosított szöveg.
+(5)[^197] Az állomány hatékony szabályozása céljából elektronikus akusztikai eszköz használható
+
+a) a róka, továbbá
+
+b) a vadászati hatóság engedélyével az aranysakál
+
+vadászatához.
+
+(6)[^198] Az állomány hatékony szabályozása érdekében vagy állategészségügyi indok fennállása esetén a (4) bekezdésben meghatározott vadfajok éjszakai vadászatához
+
+a) a hivatásos vadász munkaköri feladatai ellátása során – a borz és az aranysakál elejtéséhez a vadászatra jogosult kérelmére a vadászati hatóság külön engedélyével –,
+
+b) a vadász a vadászatra jogosult kérelmére a vadászati hatóság külön engedélyével
+
+elektronikus képnagyítóból vagy képátalakítóból álló, éjszakai lövésre alkalmas célzóeszközt is használhat.
+
+(7)[^199] A (6) bekezdés b) pontja szerinti esetben a vadászati hatóság által kiadott engedélyről a vadászatra jogosult a vadászterületén vadászókat a helyben szokásos módon tájékoztatja.
+
+[^194]: A Vhr. 69. § (1) bekezdés g) pontját a 24/2017. (V. 17.) FM rendelet 21. § (1) bekezdése iktatta be.
+[^195]: A Vhr. 69. § (2) bekezdése a 24/2017. (V. 17.) FM rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^196]: A Vhr. 69. § (4) bekezdése az 57/2023. (X. 16.) AM rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^197]: A Vhr. 69. § (5) bekezdését az 57/2023. (X. 16.) AM rendelet 16. § (1) bekezdése iktatta be.
+[^198]: A Vhr. 69. § (6) bekezdését az 57/2023. (X. 16.) AM rendelet 16. § (1) bekezdése iktatta be.
+[^199]: A Vhr. 69. § (7) bekezdését az 57/2023. (X. 16.) AM rendelet 16. § (1) bekezdése iktatta be.

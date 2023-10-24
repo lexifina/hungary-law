@@ -50,14 +50,14 @@
 
 ## – a 110. számú Felső-tiszavidéki tájegységben;
 
-## – a 303. számú Illancs-bugaci tájegységben;
+## – a 303. számú Illancs-bácskai tájegységben;
 
 ## – a 402. számú Külső-somogyi, a 403. számú Kapos-tolnai, a 404. számú Zselic-közép-somogyi, a 405. számú Belső-
 
-## somogyi, a 407. számú Dél-baranyai ártéri, a 408. számú Tolna-hegyháti, a 409. számú Gemenci, és a 410. számú Dél-balatoni vadgazdálkodási tájegységben;
+## somogyi, a 407. számú Dél-baranyai, a 408. számú Tolna-hegyháti, a 409. számú Gemenci, és a 410. számú Dél-balatoni vadgazdálkodási tájegységben;
 
-## – az 503. számú Alpokaljai, az 504. számú Rába-menti-Kemenesháti, az 505. számú Zalai-dombsági, az 506. számú Zala-kisbalatoni és az 508. számú Marcal-medencei vadgazdálkodási tájegységben.
+## – az 503. számú Alpokaljai, az 504. számú Rábamenti-kemenesháti, az 505. számú Zalai-dombsági, az 506. számú Zala-kisbalatoni és az 508. számú Marcal-medencei vadgazdálkodási tájegységben.
 
-17. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^271]
+17. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^315]
 
-[^271]: A Vhr. 17. számú melléklete a 7/2010. (II. 2.) FVM rendelet 46. § (5) bekezdésével megállapított szöveg.
+[^315]: A Vhr. 17. számú mellékletet az 57/2023. (X. 16.) AM rendelet 29. § m) pontja hatályon kívül helyezte.

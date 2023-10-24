@@ -80,6 +80,34 @@
 
 ## a vadász-vadtenyésztő szakmunkás-bizonyítványt.
 
-9. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^262]
+9. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^299]
 
-[^262]: A Vhr. 9. számú melléklete a 45/2013. (VI. 3.) VM rendelet 4. § (4) bekezdés a) pontjával megállapított, a 65/2015. (X. 26.) FM rendelet 3. § c) pontja, a 89/2016. (XII. 29.) FM rendelet 8. § e) pontja, a 24/2017. (V. 17.) FM rendelet 33. § (5) bekezdése szerint módosított szöveg. [A Vhr. 9. számú melléklet I. pontjában a 70/2013. (VII. 31.) VM rendelet 40. § g) pontjával elrendelt módosítás, amely szerint a „Földművelésügyi és Vidékfejlesztési Minisztérium ..... Megyei Vadászati Hatóság” szövegrész helyébe „.... Megyei Kormányhivatal Földművelésügyi Igazgatóság” szöveg lép, nem vezethető át.]
+A hivatásos vadászok hatósági nyilvántartása
+
+1. A hivatásos vadászok hatósági nyilvántartása a foglalkoztató vadászatra jogosultak szerint:
+
+1.1. A vadászatra jogosult Vtv. 92. § (2) bekezdésében meghatározott adatai
+
+1.2. A vadászterület kódszáma
+
+1.3. A vadászterület nagysága
+
+1.4. A vadászatra jogosult hivatásos vadász alkalmazási kötelezettsége (fő)
+
+1.5. A vadászatra jogosult által alkalmazott hivatásos vadászok száma (fő)
+
+1.6. A hivatásos vadászra vonatkozó adatok:
+
+1.6.1. Vtv. 92. § (2a) bekezdésében meghatározott adatok
+
+1.6.2. Végzettség megnevezése, okirat száma, az okiratot kibocsátó szerv megnevezése
+
+1.6.3. Az eskü letételének időpontja és az esküdokumentum száma
+
+1.6.4. FELIR azonosító száma
+
+1.6.5. Nyilvántartásba vétel dátuma és a nyilvántartásba vételről rendelkező döntés száma
+
+1.6.6. Munkaviszony megszűnésének időpontja és a nyilvántartásból való törlésről rendelkező döntés száma
+
+[^299]: A Vhr. 9. számú melléklete az 57/2023. (X. 16.) AM rendelet 27. § (6) bekezdésével megállapított szöveg.

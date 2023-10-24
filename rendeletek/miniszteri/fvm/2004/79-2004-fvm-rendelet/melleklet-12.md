@@ -18,76 +18,94 @@
 
 ## III.
 
-## IV. A hivatásos vadász szolgálati egyenruhája és felszerelése
+## IV. A hivatásos vadász szolgálati egyenruhája, felszerelése és védőeszköze
 
-| A | B | C | D | E |
+## 1. Szolgálati egyenruha
 
-| Sorszám | Megnevezés | Irányszín | Alap norma | Tervezett viselési idő (hónap) |
+|  | A | B | C | D |
 
-| 1. Terepi szolgálati egyenruha |
+| 1 | Megnevezés | Irányszín | Alap norma | Tervezett viselési idő (hónap) |
 
-| 1.1. Téli viseletelemek |
+| 2 | Terepi szolgálati egyenruha |
 
-| 1.1.1. | Terepi téli kabát | sötétzöld | 1 db | 36 hónap |
+| 3 | Téli viseletelemek |
 
-| 1.1.2. | Polár dzseki egyben téli kabát bélés | sötétzöld | 1 db | 36 hónap |
+| 4 | Terepi téli kabát | sötétzöld | 1 db | 36 hónap |
 
-| 1.1.3. | Téli nadrág | sötétzöld | 2 db | 24 hónap |
+| 5 | Polár dzseki egyben téli kabát bélés | sötétzöld | 1 db | 36 hónap |
 
-| 1.1.4. | Téli pulóver | sötétzöld | 1 db | 24 hónap |
+| 6 | Téli nadrág | sötétzöld | 2 db | 24 hónap |
 
-| 1.1.5. | Téli sapka | sötétzöld | 1 db | 36 hónap |
+| 7 | Téli pulóver | sötétzöld | 1 db | 24 hónap |
 
-| 1.1.6. | Téli ing | zöld vagy homok | 2 db | 24 hónap |
+| 8 | Téli sapka | sötétzöld | 1 db | 36 hónap |
 
-| 1.1.7. | Téli aláöltözet (alsó és felső) | zöld | 1 db | 24 hónap |
+| 9 | Téli ing | zöld vagy homok | 2 db | 24 hónap |
 
-| 1.2. Nyári és őszi-tavaszi viseletelemek |
+|  | Téli aláöltözet (alsó és felső) | zöld | 1 db | 24 hónap |
 
-| 1.2.1. | Nyári és őszi-tavaszi nadrág | sötétzöld | 2-2 db | 12 hónap |
+| 10 | Nyári és őszi-tavaszi viseletelemek |
 
-| 1.2.2. | Mellény | sötétzöld | 1 db | 24 hónap |
+| 11 | Nyári nadrág | sötétzöld | 2 db | 12 hónap |
 
-| 1.2.3. | Pulóver | sötétzöld | 1 db | 24 hónap |
+| 12 | Őszi-tavaszi nadrág | sötétzöld | 2 db | 12 hónap |
 
-| 1.2.4. | Ing vagy póló | zöld | 3 db | 12 hónap |
+| 13 | Mellény | sötétzöld | 1 db | 24 hónap |
 
-| 2. További viseletelemek |
+| 14 | Pulóver | sötétzöld | 1 db | 24 hónap |
 
-| 2.1. | Kalap | sötétzöld | 1 db | 36 hónap |
+|  | Ing vagy póló | zöld | 3 db | 12 hónap |
 
-| 2.2. | Sál | sötétzöld | 1 db | 36 hónap |
+| 15 | További viseletelemek |
 
-| 2.3. | Félcipő | barna vagy fekete | 1 pár | 24 hónap |
+| 16 | Kalap | sötétzöld | 1 db | 36 hónap |
 
-| 2.4. | Szolgálati oldaltáska, vagy hátizsák | sötétzöld | 1 db | 36 hónap |
+| 17 | Sál | sötétzöld | 1 db | 36 hónap |
 
-| 2.5. | Láthatósági mellény | világoszöld | 1 db | 24 hónap |
+| 18 | Félcipő | barna vagy fekete | 1 pár | 24 hónap |
 
-| 3. Védőruházat |
+| 19 | Szolgálati oldaltáska vagy hátizsák | sötétzöld | 1 db | 36 hónap |
 
-| 3.1. | Esőkabát | zöld | 1 db | 36 hónap |
+|  | Láthatósági mellény | világoszöld vagy sárga | 1 db | 24 hónap |
 
-| 3.2. | Gumicsizma (neoprén béléssel ellátott) | barna vagy zöld | 1 pár | 24 hónap |
+| 20 | Védőruházat |
 
-| 3.3. | Kamásli | sötétzöld | 1 pár | 24 hónap |
+| 21 | Esőkabát | zöld | 1 db | 36 hónap |
 
-| 3.4. | Vízhatlan bakancs | barna | 1 pár | 24 hónap |
+| 22 | Gumicsizma (neoprén béléssel ellátott) | barna vagy zöld | 1 pár | 24 hónap |
 
-| Sorszám | Felszerelési eszközök megnevezés | Mennyiség/ Mennyiségi egység | Tervezett viselési idő (hónap) |
+| 23 | Kamásli | sötétzöld | 1 pár | 24 hónap |
 
-| 1. | Vadászlőfegyver tokkal (golyós vadászlőfegyver esetén céltávcsővel együtt) | 1 db |  |
+| 24 | Vízhatlan bakancs | barna | 1 pár | 24 hónap |
 
-| 2. | Vadásztőr | 1 db |  |
+## 2. Felszerelési eszközök
 
-| 3. | Kereső távcső (tokkal) | 1 db |  |
+|  | A | B |
 
-| 4. | Kézi és fejlámpa | 1-1 db |  |
+| 1 | Felszerelési eszközök megnevezés | Mennyiség |
 
-| 5. | Egyéni sebkötöző csomag | 1 db |  |
+| 2 | Vadászlőfegyver tokkal (golyós vadászlőfegyver esetén céltávcsővel együtt) | 1 db |
 
-| 6. | Gázspray (tokkal) | 1 db |  |
+| 3 | Vadásztőr | 1 db |
 
-12. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^265]
+| 4 | Kereső távcső (tokkal) | 1 db |
 
-[^265]: A Vhr. 12. számú mellékletét a 24/2017. (V. 17.) FM rendelet 35. § (2) bekezdés 9. pontja hatályon kívül helyezte.
+| 5 | Kézilámpa | 1 db |
+
+| 6 | Fejlámpa | 1 db |
+
+| 7 | Egyéni sebkötöző csomag | 1 db |
+
+| 8 | Gázspray (tokkal) | 1 db |
+
+| 9 | Mobiltelefon | 1 db |
+
+## 3. Védőeszközök
+
+## 1. Gumikesztyű
+
+## 2. Szájmaszk
+
+12. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^302]
+
+[^302]: A Vhr. 12. számú mellékletét a 24/2017. (V. 17.) FM rendelet 35. § (2) bekezdés 9. pontja hatályon kívül helyezte.

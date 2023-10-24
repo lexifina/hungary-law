@@ -6,19 +6,19 @@
 
 ## A VADÁSZTERÜLETEK NYILVÁNTARTÁSA
 
-| Vadászterület azonosító száma (megye, vadászterület sorszáma) | A nyilvántartásba vett vadászatra jogosult neve, székhelye | Vadászterület rendeltetése (megnevezve) | Vadászterület nagysága | Vadgazdálkodási tájegység száma |
+| Vadászterület azonosító száma (vármegye, vadászterület sorszáma) | A nyilvántartásba vett vadászatra jogosult neve, székhelye | Vadászterület rendeltetése (megnevezve) | Vadászterület nagysága | Vadgazdálkodási tájegység száma |
 
 ## II.
 
 ## A VADÁSZTERÜLETEK 11 SZÁMKARAKTERŰ AZONOSÍTÓ KÓDSZÁMA TARTALMA
 
-| Megye |  | Vadászterület sorszáma |  | Tájegység |
+| Vármegye |  | Vadászterület sorszáma |  | Tájegység |
 
 |  |  | – |  |  |  |  |  |  | – |  |  |  |
 
-## Megye: a vadászterület elhelyezkedése megyék szerint, 2–20-ig a KSH sorszámoknak megfelelően.
+## Vármegye: a vadászterület elhelyezkedése vármegyék szerint, 2–20-ig a KSH sorszámoknak megfelelően.
 
-## Vadászterület számjele (4+2 karakter): országosan és megyénként észak–déli irányban, nyugatról kelet felé haladva egyesével és emelkedő sorrendben számozott.
+## Vadászterület számjele (4+2 karakter): országosan és vármegyénként észak–déli irányban, nyugatról kelet felé haladva egyesével és emelkedő sorrendben számozott.
 
 ## Vadgazdálkodási tájegység: a vadászterület kódszámának utolsó három számjegye annak a vadgazdálkodási tájegységnek a kódszáma, amelyben területén a vadgazdálkodási egység elhelyezkedik.
 
@@ -30,7 +30,7 @@
 
 ## 3. Amennyiben az előbbi lehetőségek kimerülnek, akkor a régi és az ajánlott vadgazdálkodási egységek kódszámai utáni új kódszám határozható meg. Ebben az esetben az 5. számjegy értéke minden esetben „5” kell legyen és a 6. számjegy értéke minden esetben „0” kell legyen.
 
-| Megye kódszáma | Megye megnevezése | Vadászterület számjele kezdőértéke |
+| Vármegye kódszáma | Vármegye megnevezése | Vadászterület számjele kezdőértéke |
 
 | 02 | Baranya | 5001 |
 
@@ -40,7 +40,7 @@
 
 | 05 | Borsod-Abaúj-Zemplén | 6501 |
 
-| 06 | Csongrád | 8001 |
+| 06 | Csongrád-Csanád | 8001 |
 
 | 07 | Fejér | 4001 |
 
@@ -114,7 +114,7 @@
 
 | 3 | 302 | Észak-bács-kiskuni |
 
-| 3 | 303 | Illancs-bugaci |
+| 3 | 303 | Illancs-bácskai |
 
 | 3 | 304 | Közép-bács-kiskuni |
 
@@ -124,13 +124,13 @@
 
 | 3 | 307 | Közép-pesti |
 
-| 3 | 308 | Tápió-vidéki |
+| 3 | 308 | Tápióvidéki |
 
 | 3 | 309 | Jászsági |
 
-| 3 | 310 | Mátra-alja-dél-hevesi |
+| 3 | 310 | Dél-hevesi |
 
-| 3 | 311 | Tisza-tói |
+| 3 | 311 | Tisza-tavi |
 
 | 4 | 401 | Mezőföldi |
 
@@ -144,7 +144,7 @@
 
 | 4 | 406 | Mecseki |
 
-| 4 | 407 | Dél-baranyai ártéri |
+| 4 | 407 | Dél-baranyai |
 
 | 4 | 408 | Tolnai-hegyháti |
 
@@ -158,7 +158,7 @@
 
 | 5 | 503 | Alpokaljai |
 
-| 5 | 504 | Rába-menti-kemenesháti |
+| 5 | 504 | Rábamenti-kemenesháti |
 
 | 5 | 505 | Zalai-dombsági |
 
@@ -170,7 +170,7 @@
 
 | 5 | 509 | Bakonyalja-komáromi |
 
-| 5 | 510 | Vértes-hegységi |
+| 5 | 510 | Vértesi |
 
 | 5 | 511 | Velencei |
 
@@ -178,6 +178,6 @@
 
 | 5 | 513 | Balaton-felvidéki |
 
-5. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^258]
+5. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^295]
 
-[^258]: A Vhr. 5. számú melléklete a 7/2010. (II. 2.) FVM rendelet 46. § (4) bekezdésével megállapított, a 72/2012. (VII. 24.) VM rendelet 15. § a) pontja, a 65/2015. (X. 26.) FM rendelet 2. §-a és 4. § c) pontja, az 52/2020. (X. 27.) AM rendelet 10. §-a, a 2/2021. (II. 15.) AM rendelet 3. §-a, a 38/2021. (X. 21.) AM rendelet 2. §-a szerint módosított szöveg.
+[^295]: A Vhr. 5. számú melléklete a 7/2010. (II. 2.) FVM rendelet 46. § (4) bekezdésével megállapított, a 72/2012. (VII. 24.) VM rendelet 15. § a) pontja, a 65/2015. (X. 26.) FM rendelet 2. §-a és 4. § c) pontja, az 52/2020. (X. 27.) AM rendelet 10. §-a, a 2/2021. (II. 15.) AM rendelet 3. §-a, a 38/2021. (X. 21.) AM rendelet 2. §-a, az 57/2023. (X. 16.) AM rendelet 27. § (4) bekezdése szerint módosított szöveg.
