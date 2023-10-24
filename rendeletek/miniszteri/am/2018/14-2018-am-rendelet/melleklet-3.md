@@ -40,9 +40,9 @@ a 205. számú Bükkalja-taktaközi vadgazdálkodási tájegységben 0 egyed
 
 a 206. számú Zemplén-bodrogközi vadgazdálkodási tájegységben 1400 egyed
 
-2. A dámállomány szabályozási irányelvei
+2.[^3] A dámszarvasállomány szabályozási irányelvei
 
-2.1. A 201. számú Börzsöny-gödöllői, a 202. számú Nógrád-cserháti, a 203. számú Bükki, a 205. számú Bükkalja-taktaközi vadgazdálkodási tájegységek területén az állomány kezelési cél a dámszarvas tartós megtelepedésének következetes akadályozása, 7 éven belül a tájegység becsült dámállományát a fenntartandó legkisebb dámlétszám és az élőhelyet nem veszélyeztető legmagasabb szabadterületi dámlétszám közé kell csökkenteni.
+2.1.[^4] A 201. számú Börzsöny-gödöllői, a 202. számú Nógrád-cserháti, a 203. számú Bükki, a 205. számú Bükkalja-taktaközi vadgazdálkodási tájegységek területén az állomány kezelési cél a dámszarvas tartós megtelepedésének következetes akadályozása, 7 éven belül a tájegység becsült dámszarvasállományát a fenntartandó legkisebb dámlétszám és az élőhelyet nem veszélyeztető legmagasabb szabadterületi dámlétszám közé kell csökkenteni.
 
 2.2. A 204. számú Cserehát-aggteleki és a 206. számú Zemplén-bodrogközi vadgazdálkodási tájegységek területén a dámszarvas megtelepedését meg kell akadályozni, az esetlegesen megjelenő egyedeket fel kell számolni.
 
@@ -80,7 +80,7 @@ a 206. számú Zemplén-bodrogközi vadgazdálkodási tájegységben 0 egyed
 
 3.1. A cél a pontos létszám megállapítása helyett az állomány változásának (trend) és állapotának nyomon követése. Az őzgazdálkodás céljait a vadászatra jogosultak által módszertanilag következetesen végzett felmérések alapján a vadgazdálkodási egységek szintjén kell meghatározni. A vadászatra jogosult által végzett monitoring hiányában a vadászati hatóság határozza meg a vadászterületeken az őzgazdálkodás céljait.
 
-3.2. A vadgazdálkodási tájegység adatai alapján a terítéket fokozatosan növelni kell addig az egyensúlyi állapotig (≈30%–35%-ig), amikor az őzállomány hasznosításának mértéke és a hasznosítás összetétele is biztosítja a vadgazdálkodási egység területén célként meghatározott létszám/teríték fenntartását.
+3.2.[^5] Az Északi hegy- és dombvidéki Vadgazdálkodási Táj vadgazdálkodási tájegységeinek adatai alapján a terítéket fokozatosan növelni kell addig az egyensúlyi állapotig (≈30%–35%-ig), amikor az őzállomány hasznosításának mértéke és a hasznosítás összetétele is biztosítja a vadgazdálkodási egység területén célként meghatározott létszám/teríték fenntartását.
 
 3.3. A teríték bak:suta:gida összetétele 1:1:1 arányú legyen.
 
@@ -116,7 +116,7 @@ a 205. számú Bükkalja-taktaközi vadgazdálkodási tájegységben 7000 egyed
 
 a 206. számú Zemplén-bodrogközi vadgazdálkodási tájegységben 5500 egyed
 
-4. A vadgazdálkodási tájegység muflonállomány-szabályozási irányelvei, a fenntartandó legkisebb vadlétszám, valamint az élőhelyet nem veszélyeztető legmagasabb vadlétszám
+4.[^6] A muflonállomány szabályozási irányelvei
 
 4.1. A 201. számú Börzsöny-gödöllői, a 202. számú Nógrád-cserháti, a 203. számú Bükki és a 206. számú Zemplén-bodrogközi vadgazdálkodási tájegységek területén:
 
@@ -160,7 +160,7 @@ a 205. számú Bükkalja-taktaközi vadgazdálkodási tájegységben 0 egyed
 
 a 206. számú Zemplén-bodrogközi vadgazdálkodási tájegységben 500 egyed
 
-5. A vadgazdálkodási tájegység vaddisznóállomány-szabályozási irányelvei, a fenntartandó legkisebb vadlétszám, valamint az élőhelyet nem veszélyeztető legmagasabb vadlétszám
+5.[^7] A vaddisznóállomány szabályozási irányelvei
 
 5.1. Az Északi hegy- és dombvidéki Vadgazdálkodási Táj területén a vaddisznó szabad területi létszámát a következő 10 évben a 2017-ben becsült létszámnak legalább felére (40–60%-kal) kell csökkenteni.
 
@@ -198,7 +198,7 @@ a 205. számú Bükkalja-taktaközi vadgazdálkodási tájegységben 400 egyed
 
 a 206. számú Zemplén-bodrogközi vadgazdálkodási tájegységben 1600 egyed
 
-6. A vadgazdálkodási tájegység mezeinyúl-gazdálkodási irányelvei
+6.[^8] A mezei nyúl állomány szabályozási irányelvei
 
 6.1. A vadászati hatóság által meghatározott, magasabb populációsűrűségű vadgazdálkodási egységek területén kötelező egy elfogadott létszámbecslési módszer (éjszakai reflektoros létszámbecslés) használata tavasszal és ősszel, a vadászatok megkezdése előtt. Ezek alapján meg lehet tervezni a hasznosítandó mennyiséget a Kovács-Heltay modell vagy az SZIE VMI modell segítségével.
 
@@ -208,7 +208,7 @@ a 206. számú Zemplén-bodrogközi vadgazdálkodási tájegységben 1600 egyed
 
 6.4. A tartós túlhasznosítás megelőzése és az állomány felépülése érdekében a vadászati hatóság által meghatározott vadgazdálkodási egységek területén elő kell írni, hogy évente nem vadászott, pihentetett területeket jelöljön ki a vadászatra jogosult a vadgazdálkodási egységek 15–30%-án (mozaikszerű hasznosítás).
 
-7. A vadgazdálkodási tájegység fácángazdálkodási irányelvei
+7.[^9] A fácánállomány szabályozási irányelvei
 
 7.1. A fácán végleges hasznosítási tervszáma a vadgazdálkodók őszi állománybecslései és annak hatósági ellenőrzései alapján kerüljön meghatározásra. Szabadterületi fácán hasznosítása helyileg indokolt esetben csak meghatározott küszöb felett (jelenleg: 4 egyed/km2) engedélyezhető. A szabadterületi vadállományra gyakorolt vadászati nyomás maradjon 25–40% alatt.
 
@@ -216,20 +216,31 @@ a 206. számú Zemplén-bodrogközi vadgazdálkodási tájegységben 1600 egyed
 
 7.3. A hasznosítási tervet a felnevelt szaporulatra (szabadterületi állomány) és a kibocsátott fácánok várható megtérülése (korábbi évek adatai) alapján elkülönítve kell megtervezni.
 
-7.4.[^3]
+7.4.[^10]
 
-8. A vadgazdálkodási tájegység ragadozógazdálkodási irányelvei
+8.[^11] Az Északi hegy- és dombvidéki Vadgazdálkodási Táj ragadozóállomány szabályozási irányelvei
 
 8.1. Elsőrendű cél a vadászható ragadozó fajok állományának visszaszorítása.
 
-8.2. A róka tavaszi becsült törzsállományának másfélszeresét kell eltávolítani a területről. A tervezett gyérítés 60%-át az év első felében kell teljesíteni.
+8.2.[^12] A róka tavaszi becsült törzsállományának legalább másfélszeresét kell eltávolítani a területről. A tervezett gyérítés 60%-át az év első felében kell teljesíteni.
 
-8.3. A borz állománya esetében a további növekedés megakadályozása a cél, ezért a 0,5–0,7-es gyérítési rátát kell alkalmazni.
+8.3.[^13] A borz állománya esetében a további növekedés megakadályozása a cél, ezért legalább 0,5–0,7-es gyérítési rátát kell alkalmazni.
 
-8.4. A tájegységben a nyestkutya és a mosómedve megjelenő egyedeit el kell eltávolítani.
+8.4.[^14] Az Északi hegy- és dombvidéki Vadgazdálkodási Táj vadgazdálkodási tájegységeiben a nyestkutya és a mosómedve megjelenő egyedeit el kell eltávolítani.
 
 8.5. Az aranysakál megtelepedésének a megakadályozása, illetve az állományának csökkentése a cél, ezért legalább 2-es gyérítési ráta előírása szükséges.
 
 8.6. Csaliállatos élvefogó csapdák alkalmazása csak napi ellenőrzés mellett lehetséges, a csaliállat rendszeres takarmány- és frissvíz-ellátása, valamint 2-3 naponkénti cseréje mellett, úttól, lakott területtől távol.
 
-[^3]: A 3. melléklet 7. pont 7.4. alpontját a 2/2021. (II. 15.) AM rendelet 13. § d) pontja hatályon kívül helyezte.
+[^3]: A 3. melléklet 2. pont címe az 57/2023. (X. 16.) AM rendelet 39. § (1) bekezdésével megállapított szöveg.
+[^4]: A 3. melléklet 2. pont 2.1. alpontja az 57/2023. (X. 16.) AM rendelet 40. § a) pontja szerint módosított szöveg.
+[^5]: A 3. melléklet 3. pont 3.2. alpontja az 57/2023. (X. 16.) AM rendelet 40. § b) pontja szerint módosított szöveg.
+[^6]: A 3. melléklet 4. pont címe az 57/2023. (X. 16.) AM rendelet 39. § (1) bekezdésével megállapított szöveg.
+[^7]: A 3. melléklet 5. pont címe az 57/2023. (X. 16.) AM rendelet 39. § (1) bekezdésével megállapított szöveg.
+[^8]: A 3. melléklet 6. pont címe az 57/2023. (X. 16.) AM rendelet 39. § (1) bekezdésével megállapított szöveg.
+[^9]: A 3. melléklet 7. pont címe az 57/2023. (X. 16.) AM rendelet 39. § (1) bekezdésével megállapított szöveg.
+[^10]: A 3. melléklet 7. pont 7.4. alpontját a 2/2021. (II. 15.) AM rendelet 13. § d) pontja hatályon kívül helyezte.
+[^11]: A 3. melléklet 8. pont címe az 57/2023. (X. 16.) AM rendelet 39. § (1) bekezdésével megállapított szöveg.
+[^12]: A 3. melléklet 8. pont 8.2. alpontja az 57/2023. (X. 16.) AM rendelet 40. § c) pontja szerint módosított szöveg.
+[^13]: A 3. melléklet 8. pont 8.3. alpontja az 57/2023. (X. 16.) AM rendelet 40. § d) pontja szerint módosított szöveg.
+[^14]: A 3. melléklet 8. pont 8.4. alpontja az 57/2023. (X. 16.) AM rendelet 40. § e) pontja szerint módosított szöveg.
