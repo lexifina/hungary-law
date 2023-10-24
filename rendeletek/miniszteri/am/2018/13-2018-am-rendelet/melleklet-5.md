@@ -1,4 +1,4 @@
-## A vadgazdálkodási tájegység trófeabírálati irányelvei
+## A Tiszántúli Vadgazdálkodási Táj vadgazdálkodási tájegységeinek trófeabírálati irányelvei[^18]
 
 ## Az elejtés szakszerűtlenségének megállapítása során a hibapont megítélését a táblázatokban megadott trófeajellegek együttes értékelésével kell végezni. A hibapont-besoroláshoz valamennyi határértéknek együttesen kell teljesülnie.
 
@@ -407,3 +407,5 @@ Túzokvédelem
 29. Túzokok tartózkodási helyét érintő társas vadászatok helyszíneit az idény megkezdése előtt a természetvédelmi kezelővel előzetesen egyeztetni kell.
 
 30. Túzoktelelőhelyeken tarvadvadászat a természetvédelmi kezelővel egyeztetett módon történhet. Az adott évi telelőhelyek pontosítását minden évben a tájegységi fővadász bevonásával egyeztetni kell a természetvédelmi kezelővel, melyet jegyzőkönyvben rögzítenek legkésőbb december 1-ig.
+
+[^18]: A 4. melléklet címe az 57/2023. (X. 16.) AM rendelet 37. § (2) bekezdésével megállapított szöveg.
