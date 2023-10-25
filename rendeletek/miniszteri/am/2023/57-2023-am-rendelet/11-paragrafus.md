@@ -1,3 +1,3 @@
-11. § A 79/2004. (V. 4.) FVM rendelet 48. § (2) bekezdése helyébe a következő rendelkezés lép:
+11. §[^11]
 
-„(2) A vadászjegy és a vadászati engedély adattartalmát a 14. számú melléklet tartalmazza.”
+[^11]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

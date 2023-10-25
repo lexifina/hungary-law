@@ -1,109 +1,116 @@
 28. § A 79/2004. (V. 4.) FVM rendelet
 
-1. 1. § (1) bekezdés a) pont 7. alpontjában a „Dybowski szika (Cervus nippon hortulorum),” szövegrész helyébe a „Szikaszarvas – Dybowski szika (Cervus nippon hortulorum);” szöveg,
+1. [^39]
 
-2. 2. § (1) bekezdésében, 4. számú melléklet I. pontjában foglalt táblázatában és 24. számú melléklet II. pontjában a „megye” szövegrész helyébe a „vármegye” szöveg,
+2. [^40]
 
-3. 2. § (2) bekezdésében, valamint 2/A. § (1) bekezdésében a „Megyei” szövegrész helyébe a „Vármegyei” szöveg,
+3. [^41]
 
-4. 2. § (4) bekezdés a) pont ab) alpontjában és 2/A. § (3) bekezdés a) pont ab) alpontjában a „kifüggesztése” szövegrész helyébe a „közzététele, illetve kifüggesztése” szöveg,
+4. [^42]
 
-5.[^5]
+5. [^43]
 
-6. 13. §-ában a „Vtv. II–IV. és VI. Fejezetében” szövegrész helyébe a „Vtv. II–VI. Fejezetében” szöveg,
+6. [^44]
 
-7. 18. §-ában a „vadaspark és vadfarm” szövegrész helyébe a „vadaspark, vadfarm és apróvadtartó telep” szöveg,
+7. [^45]
 
-8. 20/B. § (1) bekezdésében a „hét vadászati évre” szövegrész helyébe az „az üzemtervi ciklus végéig” szöveg,
+8. [^46]
 
-9. 27. § (2) bekezdésében az „EOV koordinátákat” szövegrész helyébe a „földrajzi koordinátákat” szöveg,
+9. [^47]
 
-10. 27. § (5) bekezdésében a „suta vadat” szövegrész helyébe a „tarvadat” szöveg,
+10. [^48]
 
-11. 27. § (8) bekezdésében a „Szent István Egyetem vadbiológiai kutatásért felelős szervezeti egységének” szövegrész helyébe a „Magyar Agrár- és Élettudományi Egyetem Vadgazdálkodási és Természetvédelmi Intézet Vadbiológiai és Vadgazdálkodási Tanszéknek” szöveg,
+11. [^49]
 
-12. 27/A. § (4) bekezdésében a „Soproni Egyetemnek” szövegrész helyébe a „Soproni Egyetem Vadgazdálkodási és Vadbiológiai Intézetének” szöveg,
+12. [^50]
 
-13. 27/A. § (5) bekezdésében a „kísérő” szövegrész helyébe a „kísérővadász” szöveg,
+13. [^51]
 
-14. 29. § (3) bekezdésében az „I. pontjában” szövegrész helyébe az „1. pontjában” szöveg,
+14. [^52]
 
-15. 29. § (4) bekezdés a) pontjában a „felülvizsgálja és” szövegrész helyébe a „felülvizsgálja és – a tájegységi fővadász szakmai javaslatának figyelembevételével –” szöveg,
+15. [^53]
 
-16. 30. § (2) bekezdésében a „szaporulatának” szövegrész helyébe a „szaporulatának, a fiatal korosztályba tartozó gímszarvas, dámszarvas és az őz hímivarú egyedeinek” szöveg,
+16. [^54]
 
-17. 30. § (6) bekezdésében a „rókára” szövegrész helyébe a „rókára, borzra” szöveg, a „jóváhagyásakor” szövegrész helyébe a „jóváhagyásakor vagy annak felülvizsgálatakor” szöveg és a „korlátozza” szövegrész helyébe a „korlátozza vagy megtiltja” szöveg,
+17. [^55]
 
-18. 43. § (1) bekezdésében az „és az éves vadgazdálkodási tervben” szövegrész helyébe az „és – figyelemmel a 30. § (2) bekezdésére – az éves vadgazdálkodási tervben” szöveg,
+18. [^56]
 
-19. 43. § (1a) bekezdésében az „az elejtett vad faját, ivarát és az elejtés idejét.” szövegrész helyébe az „a vad faját, ivarát és az elejtés vagy – elhullás esetén – a birtokbavétel idejét.” szöveg,
+19. [^57]
 
-20. 61. § (2) bekezdésében a „Vidékfejlesztési Értesítőben” szövegrész helyébe a „minisztérium honlapján” szöveg,
+20. [^58]
 
-21. 61. § (5) bekezdésében a „megyénként” szövegrész helyébe a „vármegyénként” szöveg,
+21. [^59]
 
-22. 63. § (1) bekezdésében a „vaddisznó hajtóvadászata” szövegrész helyébe a „nagyvad társas vadászata” szöveg,
+22. [^60]
 
-23. 64. § (3) bekezdésében a „hajtó-, illetve terelővadászat” szövegrész helyébe a „nagyvad társas vadászata” szöveg,
+23. [^61]
 
-24. 65. § (3) bekezdésében a „kísérő vadásznak” szövegrész helyébe a „kísérővadásznak” szöveg,
+24. [^62]
 
-25. 67. § (2) bekezdésében a „Kísérőként” szövegrész helyébe a „Kísérővadászként” szöveg és a „kísérőszemélyt” szövegrész helyébe a „kísérővadászt” szöveg,
+25. [^63]
 
-26. 67. § (3a) bekezdésében a „kísérő vadász” szövegrész helyébe a „kísérővadász” szöveg,
+26. [^64]
 
-27. 67. § (4) bekezdésében a „kísérő” szövegrész helyébe a „kísérővadász” szöveg,
+27. [^65]
 
-28. 71. § (1) bekezdésében a „terelővadászaton a sutavad” szövegrész helyébe a „nagyvad társas vadászatán a tarvad” szöveg,
+28. [^66]
 
-29. 71. § (2) bekezdésében a „hajtás, illetve a terelés” szövegrész helyébe a „hajtás” szöveg,
+29. [^67]
 
-30. 73. § (2) bekezdésében a „terelő és hajtóvadászatán” szövegrész helyébe a „társas vadászatán” szöveg és a „hatályos” szövegrész helyébe az „érvényes” szöveg,
+30. [^68]
 
-31. 77. § (4) bekezdésében a „gépjárművel” szövegrész helyébe a „járművel” szöveg,
+31. [^69]
 
-32. 78. §-ában a „20” szövegrész helyébe a „60” szöveg,
+32. [^70]
 
-33. 79. § (2) bekezdésében az „A trófea kivitelénél a trófeabírálat vadászati hatóság igazolását” szövegrész helyébe az „A nagyvad trófeájának kivitelénél a trófeabírálat során kiadott hatósági bizonyítványt” szöveg,
+33. [^71]
 
-34. 82. § (3) bekezdés b) pontjában az „április 1. – augusztus 31.” szövegrész helyébe a „március 1. – július 31.” szöveg,
+34. [^72]
 
-35. 86. § (3) bekezdésében az „5” szövegrész helyébe a „8” szöveg,
+35. [^73]
 
-36. 4. számú melléklet II. pontjában
+36. [^74]
 
-a) a „Megye” szövegrészek helyébe a „Vármegye” szöveg,
+37. [^75]
 
-b) a „megyék” szövegrész helyébe a „vármegyék” szöveg,
+38. [^76]
 
-c) a „megyénként” szövegrész helyébe a „vármegyénként” szöveg,
-
-d) foglalt táblázat „Megye megnevezése” oszlopában a „Csongrád” szövegrész helyébe a „Csongrád-Csanád” szöveg,
-
-e) az „Illancs-bugaci” szövegrész helyébe az „Illancs-bácskai” szöveg,
-
-f) a „Mátra-alja-dél-hevesi” szövegrész helyébe a „Dél-hevesi” szöveg,
-
-g) a „Tápió-vidéki” szövegrész helyébe a „Tápióvidéki” szöveg,
-
-h) a „Tisza-tói” szövegrész helyébe a „Tisza-tavi” szöveg,
-
-i) a „Dél-baranyai ártéri” szövegrész helyébe a „Dél-baranyai” szöveg,
-
-j) a „Rába-menti-kemenesháti” szövegrész helyébe a „Rábamenti-kemenesháti” szöveg,
-
-k) a „Vértes-hegységi” szövegrész helyébe a „Vértesi” szöveg,
-
-37. 16. számú mellékletében
-
-a) az „Illancs-bugaci” szövegrész helyébe az „Illancs-bácskai” szöveg,
-
-b) a „Dél-baranyai ártéri” szövegrész helyébe a „Dél-baranyai” szöveg,
-
-c) a „Rába-menti-Kemenesháti” szövegrész helyébe a „Rábamenti-kemenesháti” szöveg,
-
-38. 23. számú melléklet 1. és 2. pontjában a „megyei” szövegrész helyébe a „vármegyei” szöveg
-
-lép.
-
-[^5]: A 28. § 5. pontja a 46. § (4) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^39]: A 28. § 1. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^40]: A 28. § 2. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^41]: A 28. § 3. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^42]: A 28. § 4. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^43]: A 28. § 5. pontja a 46. § (4) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^44]: A 28. § 6. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^45]: A 28. § 7. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^46]: A 28. § 8. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^47]: A 28. § 9. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^48]: A 28. § 10. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^49]: A 28. § 11. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^50]: A 28. § 12. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^51]: A 28. § 13. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^52]: A 28. § 14. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^53]: A 28. § 15. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^54]: A 28. § 16. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^55]: A 28. § 17. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^56]: A 28. § 18. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^57]: A 28. § 19. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^58]: A 28. § 20. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^59]: A 28. § 21. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^60]: A 28. § 22. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^61]: A 28. § 23. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^62]: A 28. § 24. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^63]: A 28. § 25. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^64]: A 28. § 26. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^65]: A 28. § 27. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^66]: A 28. § 28. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^67]: A 28. § 29. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^68]: A 28. § 30. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^69]: A 28. § 31. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^70]: A 28. § 32. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^71]: A 28. § 33. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^72]: A 28. § 34. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^73]: A 28. § 35. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^74]: A 28. § 36. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^75]: A 28. § 37. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^76]: A 28. § 38. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-18. § A 79/2004. (V. 4.) FVM rendelet 75/A. § (2) bekezdése helyébe a következő rendelkezés lép:
+18. §[^19]
 
-„(2) A Vtv. 71. § (1) bekezdés 2. pontja alkalmazásában – a Vtv. 37/A. § (3) bekezdése, valamint a 69. § (6) bekezdésében meghatározott esetek kivételével – a vadászat rendje megsértésének minősül a Vtv. 37/A. § (1) bekezdés 11. pontjában meghatározott tiltott vadászati eszköz vadászaton történő birtoklása is.”
+[^19]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

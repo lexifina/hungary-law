@@ -1,3 +1,3 @@
-21. § A 79/2004. (V. 4.) FVM rendelet 78. §-a a következő f) és g) ponttal egészül ki:
+21. §[^22]
 
-[A következő nemzetközi ponthatárt elérő trófeák (a továbbiakban: C.I.C. pont)]
+[^22]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-22. melléklet az 57/2023. (X. 16.) AM rendelethez
+22. melléklet az 57/2023. (X. 16.) AM rendelethez[^115]
 
-A 14/2018. (VII. 3.) AM rendelet 4. melléklet címe helyébe a következő cím lép:
-
-„Az Északi hegy- és dombvidéki Vadgazdálkodási Táj vadgazdálkodási tájegységeinek trófeabírálati irányelvei”
+[^115]: A 22. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-15. § A 79/2004. (V. 4.) FVM rendelet 65. § (1) bekezdése helyébe a következő rendelkezés lép:
+15. §[^15]
 
-„(1) A vadász a vadászat megkezdése előtt a vadászatra jogosultnál a vadászatra az előírt rendben bejelentkezik. Egyéni vadászat esetén a vadászatra jogosultnál való bejelentkezésnek minősül a vadászatnak a 47. § (1) bekezdése szerinti, vadászati naplóba való bejegyzése. A vadász bejelentkezésével a vadászatra jogosult hozzájárulása a vadászathoz megadottnak tekintendő. Egyéni vadászat esetén a vadászatra jogosult – figyelemmel az egyéni vadászat módjára is – a vadászat rendjére vonatkozó szabályokat ismerteti a vadásszal.”
+[^15]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
