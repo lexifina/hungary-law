@@ -1,0 +1,3 @@
+1. Az Országgyűlés elfogadja az Európai Ügyek Bizottságának az egyes új génkezelési technikák útján nyert növényekről és a belőlük származó élelmiszerekről és takarmányokról, valamint az (EU) 2017/625 rendelet módosításáról szóló európai parlamenti és tanácsi rendelettervezet vonatkozásában az indokolt vélemény elfogadása feltételeinek fennállásáról szóló jelentését és annak alapján megállapítja, hogy a rendelettervezet sérti a szubszidiaritás elvét.
+
+2. Az Országgyűlés felkéri az Országgyűlés elnökét, hogy a jelentésben foglalt indokolt véleményt továbbítsa az Európai Parlament, a Tanács, illetve az Európai Bizottság elnökének, és egyidejűleg arról a Kormányt is tájékoztassa.
