@@ -1,15 +1,13 @@
-## 22. §[^60] A Hatóság a hirdetmény Értesítőben történő közzétételének tényéről elektronikus úton értesíti a kérelmezőt a közzététel napján.
-
 ## 7. Helyesbítés
 
-23. § (1)[^61] Ha a 26–32. §-ban meghatározott hirdetmények esetében a TED-en közzétett hirdetmény és a kérelmező által közzétételre megküldött hirdetmény tartalma között eltérés van, a Hatóság a kérelmező kérelme alapján helyesbítést ad fel a TED-en történő közzétételre, továbbá azt a 20. § (2) bekezdése szerint az Értesítőben is közzéteszi.
+23. § (1)[^88] Ha a 26. §-ban meghatározott hirdetmények esetében a TED-en közzétett hirdetmény és a kérelmező által közzétételre megküldött hirdetmény tartalma között eltérés van, a Hatóság a kérelmező kérelme alapján helyesbítést ad fel a TED-en történő közzétételre, továbbá azt a 20. § (2) bekezdése szerint az Értesítőben is közzéteszi.
 
-(2)[^62] Ha a 34. §-ban meghatározott hirdetmények esetében az Értesítőben közzétett hirdetmény és a kérelmező által feladott hirdetmény tartalma között eltérés van, a Hatóság a kérelmező kérelme alapján az Értesítőben helyesbítést tesz közzé.
+(2)[^89] Ha a 34. §-ban meghatározott hirdetmények esetében az Értesítőben közzétett hirdetmény és a kérelmező által feladott hirdetmény tartalma között eltérés van, a Hatóság a kérelmező kérelme alapján az Értesítőben helyesbítést tesz közzé.
 
-(3) A kérelmezőnek az (1) bekezdés szerinti helyesbítést a 30. § (1) bekezdése szerinti hirdetményminta kitöltésével és megküldésével kell kezdeményeznie.
+(3)[^90] A kérelmezőnek az (1) bekezdés szerinti helyesbítést a közbeszerzési hirdetmények közzétételére használandó hirdetményminták („e-hirdetmények”) létrehozásáról és az (EU) 2015/1986 végrehajtási rendelet hatályon kívül helyezéséről szóló, 2019. szeptember 23-i 2019/1780 végrehajtási rendelet (a továbbiakban: uniós e-hirdetményminta rendelet) mellékletében foglalt 2. táblázat szerinti, változtatásról szóló hirdetmény kitöltésével és megküldésével kell kezdeményeznie.
 
 (4) A kérelmezőnek a (2) bekezdés szerinti helyesbítést a 34. § (11) bekezdése szerinti hirdetményminta kitöltésével és megküldésével kell kezdeményeznie.
 
-[^60]: A 22. § az 5/2019. (III. 28.) MvM rendelet 22. § 5. pontja szerint módosított szöveg.
-[^61]: A 23. § (1) bekezdése az 5/2019. (III. 28.) MvM rendelet 22. § 5. pontja szerint módosított szöveg.
-[^62]: A 23. § (2) bekezdése az 5/2019. (III. 28.) MvM rendelet 22. § 5. pontja szerint módosított szöveg.
+[^88]: A 23. § (1) bekezdése az 5/2019. (III. 28.) MvM rendelet 22. § 5. pontja, a 3/2023. (X. 16.) TFM rendelet 15. § 22. pontja szerint módosított szöveg.
+[^89]: A 23. § (2) bekezdése az 5/2019. (III. 28.) MvM rendelet 22. § 5. pontja szerint módosított szöveg.
+[^90]: A 23. § (3) bekezdése a 3/2023. (X. 16.) TFM rendelet 9. §-ával megállapított szöveg.

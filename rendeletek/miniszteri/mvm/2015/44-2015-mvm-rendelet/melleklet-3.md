@@ -190,7 +190,7 @@
 
 | 1 szükség szerinti számban ismételje meg 2 adott esetben 4 ha az információ ismert 20 súlyszám helyett fontosság is megadható 21 súlyszám helyett fontosság is megadható; ha az ár az egyetlen értékelési szempont, súlyszám nem szükséges |
 
-3. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^101]
+3. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^132]
 
 ## KÖZBESZERZÉSI ÉRTESÍTŐ
 
@@ -348,4 +348,4 @@ IV. szakasz: Eljárás
 
 VI. szakasz: Kiegészítő információk
 
-[^101]: A 3. melléklet a 10/2020. (VI. 26.) MvM rendelet 6. § (3) bekezdése szerint módosított szöveg.
+[^132]: A 3. melléklet a 10/2020. (VI. 26.) MvM rendelet 6. § (3) bekezdése szerint módosított szöveg.

@@ -1,16 +1,16 @@
-15. § (1)[^41] Amennyiben a Hatóság a 10. § (8) bekezdés e) pontja szerinti ellenőrzés alapján a Kbt.-ben meghatározott határidők betartásával kapcsolatban mulasztást állapít meg, és az a 12. § (1) bekezdése szerinti hiánypótlást követően is fennáll, a Hatóság az ajánlatkérőt közzétételi költségtérítés (a továbbiakban: költségtérítés) fizetésére kötelezheti. A költségtérítés fizetési kötelezettség nem érinti a hirdetmény ellenőrzésére vonatkozó díj fizetési kötelezettséget és annak mértékét.
+15. § (1)[^67] Amennyiben a Hatóság a 10. § (8) bekezdés e) pontja szerinti ellenőrzés alapján a Kbt.-ben meghatározott határidők betartásával kapcsolatban mulasztást állapít meg, és az a 12. § (1) bekezdése szerinti hiánypótlást követően is fennáll, a Hatóság az ajánlatkérőt közzétételi költségtérítés (a továbbiakban: költségtérítés) fizetésére kötelezheti. A költségtérítés fizetési kötelezettség nem érinti a hirdetmény ellenőrzésére vonatkozó díj fizetési kötelezettséget és annak mértékét.
 
-(2)[^42] Amennyiben a Hatóság megállapítja az (1) bekezdésben foglaltak szerinti költségtérítés fizetési kötelezettséget, a kérelmezőt a 12. § (1) bekezdése szerinti hiánypótlás kézhezvételét követően legkésőbb két munkanapon belül elektronikus úton, hiánypótlás keretben hívja fel a költségtérítés befizetésére.
+(2)[^68] Amennyiben a Hatóság megállapítja az (1) bekezdésben foglaltak szerinti költségtérítés fizetési kötelezettséget, a kérelmezőt a 12. § (1) bekezdése szerinti hiánypótlás kézhezvételét követően legkésőbb két munkanapon belül elektronikus úton, hiánypótlás keretben hívja fel a költségtérítés befizetésére.
 
 (3) A költségtérítést az ajánlatkérőnek a hiánypótlásra történő felhívás feladásától számított tizenöt napon belül kell befizetnie, egyúttal kérelmezőnek a kérelmet, illetve a hirdetményt ismételten, teljes terjedelemben meg kell küldeni.
 
-(4)[^43] A költségtérítés befizetésére nyitva álló határidő eredménytelen eltelte esetén a Hatóság a kérelmet visszavontnak tekinti, és erről a kérelmezőt elektronikus úton – továbbá a Hatóság elnökét írásban – öt munkanapon belül tájékoztatja.
+(4)[^69] A költségtérítés befizetésére nyitva álló határidő eredménytelen eltelte esetén a Hatóság a kérelmet visszavontnak tekinti, és erről a kérelmezőt elektronikus úton öt munkanapon belül tájékoztatja.
 
-(5)[^44] A költségtérítés mértéke egységesen 80 000 forint.
+(5)[^70] A költségtérítés mértéke egységesen 80 000 forint.
 
 (6) A költségtérítés befizetésére a 13. § (3)–(5) bekezdése és a 14. § c) pontja megfelelően alkalmazandó.
 
-[^41]: A 15. § (1) bekezdése az 5/2019. (III. 28.) MvM rendelet 22. § 10. pontja szerint módosított szöveg.
-[^42]: A 15. § (2) bekezdése az 5/2019. (III. 28.) MvM rendelet 22. § 8. pontja szerint módosított szöveg.
-[^43]: A 15. § (4) bekezdése az 5/2019. (III. 28.) MvM rendelet 14. §-ával megállapított szöveg.
-[^44]: A 15. § (5) bekezdése a 43/2016. (XII. 30.) MvM rendelet 4. §-ával megállapított szöveg.
+[^67]: A 15. § (1) bekezdése az 5/2019. (III. 28.) MvM rendelet 22. § 10. pontja szerint módosított szöveg.
+[^68]: A 15. § (2) bekezdése az 5/2019. (III. 28.) MvM rendelet 22. § 8. pontja szerint módosított szöveg.
+[^69]: A 15. § (4) bekezdése az 5/2019. (III. 28.) MvM rendelet 14. §-ával megállapított, a 3/2023. (X. 16.) TFM rendelet 16. § 13. pontja szerint módosított szöveg.
+[^70]: A 15. § (5) bekezdése a 43/2016. (XII. 30.) MvM rendelet 4. §-ával megállapított szöveg.

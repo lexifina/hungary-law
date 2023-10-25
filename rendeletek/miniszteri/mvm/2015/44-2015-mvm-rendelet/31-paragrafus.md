@@ -1,7 +1,3 @@
-31. §[^72] (1) A Kbt. Harmadik Része alkalmazásában a Kbt. 5. §-a szerinti ajánlatkérők esetében, ha a Kbt. 3. melléklete szerinti szociális és egyéb szolgáltatások becsült értéke eléri az uniós értékhatárt, az előzetes tájékoztatót, illetve az ajánlati és részvételi felhívást tartalmazó, továbbá a hirdetmény visszavonásáról, az eljárás eredménytelenségéről, a szerződés megkötésének megtagadásáról, az eljárás eredményéről, illetve a keretmegállapodás vagy dinamikus beszerzési rendszer alapján megkötött szerződésekről szóló tájékoztató hirdetmény mintáját – a 34. §-ban foglaltaktól eltérően – az uniós hirdetményminta rendelet XVIII. melléklete tartalmazza.
+31. §[^101]
 
-(2) A Kbt. Harmadik Része alkalmazásában a Kbt. 6–7. §-a szerinti ajánlatkérők esetében, ha a Kbt. 3. melléklete szerinti szociális és egyéb szolgáltatások becsült értéke eléri az uniós értékhatárt, az időszakos előzetes tájékoztatót, az előminősítési hirdetményt, illetve az ajánlati és részvételi felhívást tartalmazó, továbbá a hirdetmény visszavonásáról, az eljárás eredménytelenségéről, a szerződés megkötésének megtagadásáról, az eljárás eredményéről, illetve a keretmegállapodás vagy dinamikus beszerzési rendszer alapján megkötött szerződésekről szóló tájékoztató hirdetmény mintáját – a 34. §-ban foglaltaktól eltérően – az uniós hirdetményminta rendelet XIX. melléklete tartalmazza.
-
-(3) Ha a Kbt. 3. melléklete szerinti szociális és egyéb szolgáltatások beszerzésekor az ajánlatkérő a Kbt. 21. § (1) bekezdése alapján a Kbt. Második Rész szabályai szerint jár el, az (1)–(2) bekezdések szerinti hirdetményeket kell alkalmazni.
-
-[^72]: A 31. § a 10/2020. (VI. 26.) MvM rendelet 4. §-ával megállapított szöveg.
+[^101]: A 31. §-t a 3/2023. (X. 16.) TFM rendelet 16. § 19. pontja hatályon kívül helyezte.

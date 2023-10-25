@@ -1,69 +1,31 @@
-| A szerződés teljesítésére vonatkozó adatok |
+| 1 | Azonosító | Elnevezés |
 
-| I. szakasz: Ajánlatkérő |
+| 2 | BT-738 | Hirdetmény közzétételének preferált dátuma |
 
-| I.1) Név és címek1 (jelölje meg a szerződést kötő összes ajánlatkérőt) |
+| 3 | BT-509 | Szervezet elektronikus ügyfélkapuja |
 
-| Hivatalos név: |
+| 4 | BG-557 | Csoportos keretmegállapodás becsült maximális értéke |
 
-| Postai cím: |
+| 5 | BG-330 | Részcsoportok odaítélése |
 
-| Város: | Postai irányítószám: |
+| 6 | BT-578 | Biztonsági átvilágítás |
 
-| II. szakasz: Tárgy |
+| 7 | BT-78 | Biztonsági átvilágítás határideje |
 
-| II.1) Meghatározás |
+| 8 | BT-732 | Biztonsági átvilágítás leírása |
 
-| II.1.1) A közbeszerzés tárgya: |
+| 9 | BT-769 | Több ajánlat |
 
-| II.2) A közbeszerzés mennyisége |
+| 10 | BT-771 | Késedelmes ajánlattevői információ |
 
-| II.2.1) A közbeszerzés mennyisége: |
+| 11 | BT-772 | Késedelmes ajánlattevői információ leírása |
 
-| IV. szakasz: Eljárás |
+| 12 | BG-556 | Csoportos keretmegállapodás maximális értéke |
 
-| IV.1) Meghatározás |
+| 13 | BG-5561 | Csoportos keretmegállapodás újrabecsült értéke |
 
-| IV.1.1) A Kbt. mely része, illetve fejezete szerinti eljárás került alkalmazásra: |
+| 14 | BG-8 | Nem azonnal közzéteendő |
 
-| IV.1.2) Az eljárás fajtája: |
+17. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^144]
 
-| IV.2) Adminisztratív információk |
-
-| IV.2.1) A közbeszerzési eljárást megindító hirdetmény2 A hirdetmény száma a Hivatalos Lapban:1 [ ][ ][ ][ ]/S [ ][ ][ ]-[ ][ ][ ][ ][ ][ ][ ] A hirdetmény száma a Közbeszerzési Értesítőben:1 [ ][ ][ ][ ][ ]/[ ][ ][ ][ ] (KÉ-szám/évszám) |
-
-| IV.2.2) Hirdetmény közzététele nélkül induló eljárás esetén az eljárást megindító felhívás megküldésének, illetőleg a Közbeszerzési Hatóság tájékoztatásának napja:2 (éééé/hh/nn) |
-
-| V. szakasz: A szerződés teljesítése |
-
-| V.1 A szerződést kötő fél (felek) |
-
-| V.1.1) A szerződést kötő fél (felek) |
-
-| Hivatalos név: |
-
-| Postai cím: |
-
-| Város: | Postai irányítószám: |
-
-| V.2) A szerződés teljesítése1 |
-
-| V.2.1) A teljesítés szerződésszerű volt o igen o nem A nem szerződésszerű teljesítés indoka: |
-
-| V.2.2) A szerződés teljesítésének ajánlatkérő által elismert időpontja: (éééé/hh/nn) |
-
-| V.2.3) Az ellenszolgáltatás teljesítésének időpontja: (éééé/hh/nn) |
-
-| V.2.4) A szerződés értéke A kifizetett ellenszolgáltatás értéke ÁFA nélkül: [ ] Pénznem: [ ][ ][ ] |
-
-| VI. szakasz: Kiegészítő információk |
-
-| VI.1) További információk:2 |
-
-| ____________________ |
-
-| 1 szükség szerinti számban ismételje meg 2 adott esetben |
-
-17. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^113]
-
-[^113]: A 17. mellékletet a 21/2018. (XII. 21.) MvM rendelet 5. §-a hatályon kívül helyezte.
+[^144]: A 17. mellékletet a 21/2018. (XII. 21.) MvM rendelet 5. §-a hatályon kívül helyezte.

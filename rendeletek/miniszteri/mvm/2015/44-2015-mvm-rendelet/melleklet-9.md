@@ -18,7 +18,7 @@
 
 ## 2adott esetben
 
-9. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^106]
+9. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^137]
 
 ## KÖZBESZERZÉSI ÉRTESÍTŐ
 
@@ -124,4 +124,4 @@ IV. szakasz: Eljárás
 
 VI. szakasz: Kiegészítő információk
 
-[^106]: A 9. melléklet a 10/2020. (VI. 26.) MvM rendelet 6. § (8) bekezdése szerint módosított szöveg.
+[^137]: A 9. melléklet a 10/2020. (VI. 26.) MvM rendelet 6. § (8) bekezdése szerint módosított szöveg.

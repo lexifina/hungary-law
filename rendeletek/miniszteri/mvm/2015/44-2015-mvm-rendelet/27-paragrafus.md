@@ -1,7 +1,9 @@
-27. § (1) A Kbt. Második Része alkalmazásában a Kbt. 6–7. §-a szerinti ajánlatkérők esetében a Kbt. 37. § (1) bekezdés e) pont szerinti időszakos előzetes tájékoztatót tartalmazó hirdetmény mintáját az uniós hirdetményminta rendelet IV. melléklete tartalmazza.
+27. §[^97] (1) A TED-en megjelenő hirdetményeket az uniós e-hirdetményminta rendelet mellékletében foglalt 1. és 2. táblázat alapján meghatározott tartalommal kell feladni, a (2) bekezdésben és a (3) bekezdés szerinti közleményben foglaltak figyelembevételével.
 
-(2) A Kbt. Második Része alkalmazásában a Kbt. 6–7. §-a szerinti ajánlatkérők esetében a Kbt. 37. § (1) bekezdés b) pontja szerinti ajánlati felhívást tartalmazó hirdetmény és a Kbt. 37. § (1) bekezdés c) pontja szerinti részvételi felhívást tartalmazó hirdetmény mintáját az uniós hirdetményminta rendelet V. melléklete tartalmazza.
+(2) Az uniós e-hirdetményminta rendelet mellékletében foglalt 2. táblázatban szereplő mezők közül a 16. mellékletben meghatározott mezők az egyes hirdetmények vonatkozásában nem alkalmazhatók.
 
-(3) A Kbt. Második Része alkalmazásában a Kbt. 6–7. §-a szerinti ajánlatkérők esetében a Kbt. 37. § (1) bekezdés h) pontja szerinti, a hirdetmény visszavonásáról, az eljárás eredménytelenségéről, a szerződés megkötésének megtagadásáról, illetve az eljárás eredményéről, továbbá a Kbt. 37. § (4) bekezdése szerinti, a keretmegállapodás vagy dinamikus beszerzési rendszer alapján megkötött szerződésekről szóló tájékoztató hirdetmény mintáját az uniós hirdetményminta rendelet VI. melléklete tartalmazza.
+(3) Az uniós e-hirdetményminta rendelet mellékletében foglalt 2. táblázatban foglaltak figyelembevételével meghatározott, egyes hirdetményekben kötelezően és opcionálisan kitöltendő mezők listájáról a közbeszerzésekért felelős miniszter az EKR honlapján közleményt tesz közzé. A hirdetményben kötelezően feltüntetendő adattartalomként határozható meg minden olyan adattartalom, amelynek kötelező megadása előírását az uniós e-hirdetményminta rendelet lehetővé teszi.
 
-(4) A Kbt. Második Része alkalmazásában a Kbt. 6–7. §-a szerinti ajánlatkérők esetében a Kbt. 37. § (1) bekezdés e) pontja szerinti, meghívásos vagy tárgyalásos eljárás, versenypárbeszéd, illetve innovációs partnerség meghirdetésére irányuló előminősítési hirdetmény mintáját az uniós hirdetményminta rendelet VII. melléklete tartalmazza.
+(4) Az ajánlatkérő a hirdetményt az EKR alkalmazásával tölti ki.
+
+[^97]: A 27. § a 3/2023. (X. 16.) TFM rendelet 11. §-ával megállapított szöveg.

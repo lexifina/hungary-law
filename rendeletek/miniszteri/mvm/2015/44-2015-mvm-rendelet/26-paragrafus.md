@@ -1,9 +1,13 @@
 ## 9. A TED-en megjelenő hirdetmények
 
-26. § (1)[^68] A Kbt. Második Része alkalmazásában a Kbt. 5. §-a szerinti ajánlatkérők esetében a Kbt. 37. § (1) bekezdés a) pont szerinti előzetes tájékoztatót tartalmazó hirdetmény mintáját a közbeszerzési hirdetmények közzétételére használandó hirdetményminták létrehozásáról és a 842/2011/EK végrehajtási rendelet hatályon kívül helyezéséről szóló 2015. november 11-i 2015/1986 végrehajtási rendelet (a továbbiakban: uniós hirdetményminta rendelet) I. melléklete tartalmazza.
+26. §[^96] (1) A TED-en megjelenő hirdetmények az uniós e-hirdetményminta rendelet mellékletében foglalt 2. táblázatban meghatározott adatokból álló elektronikus fájlok.
 
-(2) A Kbt. Második Része alkalmazásában a Kbt. 5. §-a szerinti ajánlatkérők esetében a Kbt. 37. § (1) bekezdés b) pontja szerinti ajánlati felhívást tartalmazó hirdetmény és a Kbt. 37. § (1) bekezdés c) pontja szerinti részvételi felhívást tartalmazó hirdetmény mintáját az uniós hirdetményminta rendelet II. melléklete tartalmazza.
+(2) A Kbt. Második Része alkalmazásában a TED-en kell közzétenni a közbeszerzési eljárásokhoz és tervpályázati eljárásokhoz és az ezek alapján megkötött szerződések módosításához kapcsolódó valamennyi hirdetményt.
 
-(3) A Kbt. Második Része alkalmazásában a Kbt. 5. §-a szerinti ajánlatkérők esetében a Kbt. 37. § (1) bekezdés h) pontja szerinti, a hirdetmény visszavonásáról, az eljárás eredménytelenségéről, a szerződés megkötésének megtagadásáról, illetve az eljárás eredményéről, továbbá a Kbt. 37. § (4) bekezdése szerinti, a keretmegállapodás vagy dinamikus beszerzési rendszer alapján megkötött szerződésekről szóló tájékoztatót tartalmazó hirdetmény mintáját az uniós hirdetményminta rendelet III. melléklete tartalmazza.
+(3) A Kbt. Harmadik Része alkalmazásában a TED-en kell közzétenni az uniós értékhatárokat elérő vagy meghaladó értékű, a Kbt. 3. melléklete szerinti szociális és egyéb szolgáltatások igénybevételére irányuló közbeszerzési eljárásokhoz és az ezek alapján megkötött szerződések módosításához kapcsolódó valamennyi hirdetményt.
 
-[^68]: A 26. § (1) bekezdése a 43/2016. (XII. 30.) MvM rendelet 11. § 6. pontja szerint módosított szöveg.
+(4) A (2) és (3) bekezdést kell alkalmazni akkor is, ha az ajánlatkérő a Kbt. 21. § (1) bekezdése alapján a Kbt. Harmadik Része helyett a Második Rész szabályai szerint jár el.
+
+(5) A Kbt. Negyedik Része alkalmazásában a TED-en kell közzétenni az uniós értékhatárokat elérő vagy meghaladó értékű koncessziós beszerzési eljárásokhoz és az ezek alapján megkötött szerződések módosításához kapcsolódó valamennyi hirdetményt.
+
+[^96]: A 26. § a 3/2023. (X. 16.) TFM rendelet 10. §-ával megállapított szöveg.
