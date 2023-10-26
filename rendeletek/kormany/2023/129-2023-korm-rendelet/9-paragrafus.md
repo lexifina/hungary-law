@@ -50,6 +50,10 @@ h) a bizonyított környezeti terhet, tartós környezeti kár mértékét.
 
 (13b)[^6] A (13a) bekezdés szerinti elidegenítési tilalomba ütköző megállapodás semmis.
 
+(13c)[^7] A nyertes ajánlattevő az üzletrész-átruházási szerződés teljesedésbe menését követően is köteles együttműködni az adós, illetve az adósok felszámolójával annak biztosítása érdekében, hogy a felszámoló el tudja látni a feladatait a felszámolás lebonyolítása során az adós, illetve az adósok felszámolásának lezárásáig. Az együttműködés feltételeit a felek kötelesek külön szerződésben meghatározni az üzletrész-átruházási szerződés megkötéséig, de legkésőbb a szerződés teljesedésbe menésétől számított 30. napig. A szerződésben ki kell térni a nyertes ajánlattevő kötelezettségeire legalább a felszámoló irattározási, adminisztratív, számviteli, őrzési, tárolási és értékesítési feladataival kapcsolatban.
+
+(13d)[^8] A nyertes ajánlattevő (13c) bekezdés szerinti együttműködési kötelezettsége teljesítéséért ellenértéket nem követelhet.
+
 (14) A felszámoló a nyertes ajánlattevő személyéről vagy az eljárás eredménytelenné nyilvánításáról szóló tájékoztatásnak a Cégközlönyben történő közzétételét követő 5 napon belül intézkedik a részvételi biztosíték és az ajánlati biztosíték összegének a nem nyertes ajánlattevők részére történő visszautalása iránt. A visszautalás költségét az ajánlattevő viseli.
 
 (15) Amennyiben az ajánlattételi felhívásban meghatározott határidőn túl, vagy nem az abban meghatározott módon nyújtanak be ajánlatot, a felszámoló az ajánlat beérkezését követő 3 napon belül írásban tájékoztatja erről az ajánlattevőt, és egyidejűleg a benyújtott iratokat visszaküldi neki.
@@ -61,3 +65,5 @@ h) a bizonyított környezeti terhet, tartós környezeti kár mértékét.
 [^4]: A 9. § (1c) bekezdését a 232/2023. (VI. 8.) Korm. rendelet 1. §-a iktatta be.
 [^5]: A 9. § (13a) bekezdését a 266/2023. (VI. 28.) Korm. rendelet 2. §-a iktatta be.
 [^6]: A 9. § (13b) bekezdését a 266/2023. (VI. 28.) Korm. rendelet 2. §-a iktatta be.
+[^7]: A 9. § (13c) bekezdését a 472/2023. (X. 25.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^8]: A 9. § (13d) bekezdését a 472/2023. (X. 25.) Korm. rendelet 1. § (1) bekezdése iktatta be.
