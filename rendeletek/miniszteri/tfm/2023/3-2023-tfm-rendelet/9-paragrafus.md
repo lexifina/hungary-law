@@ -1,3 +1,3 @@
-9. § Az R. 23. § (3) bekezdése helyébe a következő rendelkezés lép:
+9. §[^10]
 
-„(3) A kérelmezőnek az (1) bekezdés szerinti helyesbítést a közbeszerzési hirdetmények közzétételére használandó hirdetményminták („e-hirdetmények”) létrehozásáról és az (EU) 2015/1986 végrehajtási rendelet hatályon kívül helyezéséről szóló, 2019. szeptember 23-i 2019/1780 végrehajtási rendelet (a továbbiakban: uniós e-hirdetményminta rendelet) mellékletében foglalt 2. táblázat szerinti, változtatásról szóló hirdetmény kitöltésével és megküldésével kell kezdeményeznie.”
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

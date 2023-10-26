@@ -1,3 +1,3 @@
-8. § Az R. 20. § (6) bekezdése helyébe a következő rendelkezés lép:
+8. §[^9]
 
-„(6) A hirdetmény (2) bekezdés szerinti tájékoztató jellegű közzétételére annak TED-en történő közzétételét követően, az Értesítő soron következő első számában kerül sor.”
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
