@@ -1,0 +1,1 @@
+A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva 201 896 000 000 forint egyszeri átcsoportosítását rendeli el a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 1. melléklet L. Rezsivédelmi Alap fejezet, 1. Lakossági rezsivédelem cím terhére, az 1. melléklet szerint.
