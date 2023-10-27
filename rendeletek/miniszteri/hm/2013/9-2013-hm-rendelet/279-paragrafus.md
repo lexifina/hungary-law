@@ -1,3 +1,3 @@
-279. §[^498]
+279. §[^499]
 
-[^498]: A 279. §-t a 4/2015. (VI. 22.) HM rendelet 29. § n) pontja hatályon kívül helyezte.
+[^499]: A 279. §-t a 4/2015. (VI. 22.) HM rendelet 29. § n) pontja hatályon kívül helyezte.
