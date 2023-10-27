@@ -1,0 +1,1 @@
+4. § A kormányzati igazgatási létszámgazdálkodásról, valamint a kormányzati igazgatási szerveket és azok foglalkoztatottjait érintő egyes személyügyi kérdésekről szóló 88/2019. (IV. 23.) Korm. rendelet 83/A. § (2) bekezdésében az „az ötezer” szövegrész helyébe az „a tízezer” szöveg lép.
