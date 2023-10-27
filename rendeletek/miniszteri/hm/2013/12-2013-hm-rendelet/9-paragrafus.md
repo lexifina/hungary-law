@@ -16,7 +16,7 @@ d)[^32] az állomány c) pontba nem tartozó elhunyt, volt tagja, valamint az el
 
 (4)[^35] Az (1) bekezdés c) pontja szerinti jogosult részére a tanévindítási hozzájárulás összegét a (3) bekezdés szerinti összeg két és félszeresében kell megállapítani.
 
-(5)[^36] Az (1) bekezdés a) pontja szerinti tanulmányok folytatását kizárólag abban az esetben kell a közoktatási intézmény által kiállított igazolással igazolni, ha a gyermek már nem tanköteles, de közoktatásban tanulmányokat folytat. Ha a gyermek még nem tanköteles, de engedéllyel már megkezdte tankötelességének teljesítését, erről az igénylő a 11. § (1) bekezdése szerinti formanyomtatványon nyilatkozik.
+(5)[^36] Az (1) bekezdés a) pontja szerinti tanulmányok folytatását kizárólag abban az esetben kell érvényes diákigazolvány másolatának pénzügyi és számviteli szerv részére történő leadásával igazolni, ha a gyermek már nem tanköteles, de köznevelésben tanulmányokat folytat. Ha a gyermek még nem tanköteles, de engedéllyel már megkezdte tankötelességének teljesítését, erről az igénylő a 11. § (1) bekezdése szerinti formanyomtatványon vagy elektronikus űrlapon nyilatkozik.
 
 [^29]: A 9. § (1) bekezdés a) pontja a 26/2016. (XII. 22.) HM rendelet 7. §-ával megállapított, a 20/2018. (XII. 28.) HM rendelet 75. § a) pontja, a 20/2022. (XII. 28.) HM rendelet 3. § f) pontja szerint módosított szöveg.
 [^30]: A 9. § (1) bekezdés b) pontja a 25/2016. (XII. 22.) HM rendelet 54. § (1) bekezdésével megállapított, a 20/2018. (XII. 28.) HM rendelet 75. § a) pontja, a 20/2022. (XII. 28.) HM rendelet 3. § f) pontja szerint módosított szöveg.
@@ -25,4 +25,4 @@ d)[^32] az állomány c) pontba nem tartozó elhunyt, volt tagja, valamint az el
 [^33]: A 9. § (2) bekezdése a 12/2018. (VII. 27.) HM rendelet 27. §-ával megállapított, a 7/2022. (IV. 14.) HM rendelet 13. § a) pontja szerint módosított szöveg.
 [^34]: A 9. § (3) bekezdése a 12/2018. (VII. 27.) HM rendelet 27. §-ával megállapított, a 20/2018. (XII. 28.) HM rendelet 75. § f) pontja szerint módosított szöveg.
 [^35]: A 9. § (4) bekezdését a 20/2015. (XII. 22.) HM rendelet 4. §-a hatályon kívül helyezte, újonnan a 25/2016. (XII. 22.) HM rendelet 54. § (2) bekezdése iktatta be, szövege a 12/2018. (VII. 27.) HM rendelet 32. § a) pontja szerint módosított szöveg.
-[^36]: A 9. § (5) bekezdését a 20/2015. (XII. 22.) HM rendelet 4. §-a hatályon kívül helyezte, újonnan az 1/2021. (I. 14.) HM rendelet 3. §-a iktatta be.
+[^36]: A 9. § (5) bekezdését a 20/2015. (XII. 22.) HM rendelet 4. §-a hatályon kívül helyezte, újonnan az 1/2021. (I. 14.) HM rendelet 3. §-a iktatta be, szövege a 21/2023. (X. 26.) HM rendelet 2. §-ával megállapított szöveg.

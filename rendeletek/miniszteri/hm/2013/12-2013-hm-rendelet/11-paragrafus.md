@@ -1,6 +1,6 @@
 ## 5. A tanévindítási hozzájárulásra és a nevelési támogatásra vonatkozó közös szabályok
 
-11. § (1)[^43] A tanévindítási hozzájárulásra és a nevelési támogatásra vonatkozó igényt az erre rendszeresített formanyomtatvány alkalmazásával – írásban, papír alapon vagy elektronikus úton – a tárgyév július 1-jétől szeptember 30-ig a pénzügyi és számviteli szervhez kell benyújtani, mely alapján a pénzügyi és számviteli szerv előkészíti a pénzügyi záradékkal ellátott tanévindítási hozzájárulásra és a nevelési támogatásra vonatkozó parancsnoki döntést. Az igénybejelentő lapon nyilatkozni kell a jogosultság feltételeinek fennállásáról, továbbá az igénybejelentéshez csatolni kell a köznevelési, illetve felsőoktatási intézmény tanulmányok folytatásáról szóló igazolását – elektronikus ügyintézés esetén annak digitális másolatát –, ha a gyermek már nem tanköteles, de még oktatási intézményben folytat tanulmányokat. Ha az arra jogosult a tanévindítási hozzájárulásra és a nevelési támogatásra vonatkozó igénybejelentését a tárgyév szeptember 30-ig akadályoztatás miatt nem tudja benyújtani, azt a mulasztás okának megjelölésével az akadály megszűnésétől számított 30 napon belül benyújthatja.
+11. § (1)[^43] A tanévindítási hozzájárulásra és a nevelési támogatásra vonatkozó igényt írásban, formanyomtatvány vagy elektronikus űrlap alkalmazásával a tárgyév július 1-jétől szeptember 30-ig a pénzügyi és számviteli szervhez kell benyújtani, amely alapján a pénzügyi és számviteli szerv előkészíti a pénzügyi záradékkal ellátott tanévindítási hozzájárulásra és a nevelési támogatásra vonatkozó parancsnoki döntést. Az igénybejelentő lapon nyilatkozni kell a jogosultság feltételeinek fennállásáról, továbbá az igénybejelentéshez be kell nyújtani az érvényes diákigazolvány másolatát – elektronikus ügyintézés esetén annak hiteles elektronikus másolatát –, ha a gyermek már nem tanköteles, de még oktatási intézményben folytat tanulmányokat. Ha az arra jogosult a tanévindítási hozzájárulásra és a nevelési támogatásra vonatkozó igénybejelentését a tárgyév szeptember 30-ig akadályoztatás miatt nem tudja benyújtani, azt a mulasztás okának megjelölésével az akadály megszűnésétől számított 30 napon belül benyújthatja.
 
 (2)[^44] A jogosultsági feltételek fennállása esetén a tanévindítási hozzájárulást és a nevelési támogatást a honvédelmi szervezet a kérelem benyújtását követő 30 napon belül, de legkorábban augusztus 1-jén biztosítja az igénylő részére. A jogosultsági feltételek hiányában az igényt el kell utasítani, melyről az igénylőt írásban értesíteni kell.
 
@@ -38,7 +38,7 @@ h)[^49]
 
 i)[^50] az igénylő aláírása.
 
-[^43]: A 11. § (1) bekezdése a 10/2017. (VIII. 31.) HM rendelet 34. §-ával megállapított szöveg.
+[^43]: A 11. § (1) bekezdése a 21/2023. (X. 26.) HM rendelet 3. §-ával megállapított szöveg.
 [^44]: A 11. § (2) bekezdése a 6/2014. (IV. 14.) HM rendelet 16. § c) pontja szerint módosított szöveg.
 [^45]: A 11. § (4) bekezdése a 20/2018. (XII. 28.) HM rendelet 75. § b) és i) pontja, a 20/2022. (XII. 28.) HM rendelet 3. § e) és h) pontja szerint módosított szöveg.
 [^46]: A 11. § (5) bekezdése a 20/2018. (XII. 28.) HM rendelet 75. § a) pontja, a 20/2022. (XII. 28.) HM rendelet 3. § f) pontja szerint módosított szöveg.
