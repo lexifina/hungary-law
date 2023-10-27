@@ -1,0 +1,1 @@
+A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 25. pontja alapján, valamint az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
