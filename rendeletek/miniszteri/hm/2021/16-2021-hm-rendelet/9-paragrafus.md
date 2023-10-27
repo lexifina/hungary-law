@@ -8,4 +8,6 @@ b) a szakképző intézmény tanulója esetében a minimálbér 50%-a.
 
 (2) Az (1) bekezdéstől eltérően nem illeti meg a hallgatói jogviszonyát szüneteltető ösztöndíjas hallgatót az ösztöndíj a 6. § (4) bekezdés a) pontja és a 6. § (6) bekezdése szerinti szünetelés időtartamára.
 
-(3) A következő tanév vagy félév megkezdését követően a hallgatói vagy tanulói jogviszony igazolás bemutatását követően folyósítható ismét az ösztöndíj. A hallgatói vagy tanulói jogviszony igazolást a tanév vagy félév kezdetét követő 15 munkanapon belül kell eljuttatni az állományilletékes katonai szervezet részére. A benyújtásra előírt határidő jogvesztő.
+(3)[^4] A következő tanév vagy félév megkezdését követően a hallgatói vagy tanulói jogviszony igazolása céljából az érvényes diákigazolvány másolatának benyújtását követően folyósítható ismét az ösztöndíj. A hallgatói vagy tanulói jogviszony igazolása céljából az érvényes diákigazolvány másolatát a tanév vagy félév kezdetét követő 15 munkanapon belül kell benyújtani az állományilletékes katonai szervezet részére. A tanulói vagy hallgatói jogviszony igazolására előírt határidő jogvesztő.
+
+[^4]: A 9. § (3) bekezdése a 21/2023. (X. 26.) HM rendelet 4. §-ával megállapított szöveg.
