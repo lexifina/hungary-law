@@ -1,7 +1,5 @@
 ## 2. A felszámolási eljárás során az adós gazdasági tevékenységének folytatására alapított gazdasági társaság szerződései felmondásának és vitatásának veszélyhelyzeti szabályairól szóló 436/2023. (IX. 21.) Korm. rendelet módosítása
 
-2. § A felszámolási eljárás során az adós gazdasági tevékenységének folytatására alapított gazdasági társaság szerződései felmondásának és vitatásának veszélyhelyzeti szabályairól szóló 436/2023. (IX. 21.) Korm. rendelet (a továbbiakban: Korm. rendelet2.) a következő 5/A. §-sal egészül ki:
+2. §[^3]
 
-„5/A. § (1) E rendeletnek a felszámolási eljárás során az adós gazdasági tevékenysége folytatása érdekében való értékesítés veszélyhelyzeti szabályairól szóló 129/2023. (IV. 17.) Korm. rendelet, valamint a felszámolási eljárás során az adós gazdasági tevékenységének folytatására alapított gazdasági társaság szerződései felmondásának és vitatásának veszélyhelyzeti szabályairól szóló 436/2023. (IX. 21.) Korm. rendelet módosításáról szóló 472/2023. (X. 25.) Korm. rendelettel (a továbbiakban: Módr.) módosított 2. §-át a Módr. hatálybalépésekor folyamatban lévő azon eljárásokban is alkalmazni kell, amelyekben még nem került sor a felszámolás elrendelésére.
-
-(2) E rendeletnek a Módr.-rel módosított 3. §-át a Módr. hatálybalépésekor folyamatban lévő, az R. 4. §-a és az R3. 3. §-a alapján elrendelt felszámolási eljárásokban is alkalmazni kell, függetlenül attól, hogy a szerződést a felszámolás elrendelése előtt vagy után kötötték.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
