@@ -1,1 +1,0 @@
-A Várpalota város és Csór község külterületén fekvő földrészletek beruházási célterületté nyilvánításáról szóló 1568/2022. (XI. 24.) Korm. határozat a) pontjában a „Várpalota külterület 0171, 0172, 0174, 0177, 0178 és 0179/2 helyrajzi számú” szövegrész helyébe a „Várpalota külterület 0171, 0172, 0174, 0177, 0178, 0179/2, 0182 és 0185/2 helyrajzi számú” szöveg lép.
