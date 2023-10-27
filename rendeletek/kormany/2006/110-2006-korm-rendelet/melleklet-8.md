@@ -34,7 +34,7 @@
 
 ## 1 Nagyobb számú kiállítási tárgy esetén mellékletként csatolható!
 
-8. számú melléklet a 110/2006. (V. 5.) Korm. rendelethez[^159]
+8. számú melléklet a 110/2006. (V. 5.) Korm. rendelethez[^161]
 
 KÖTELEZVÉNY
 
@@ -92,4 +92,4 @@ Budapest, [dátum]
 
 Garantőr
 
-[^159]: A 8. számú melléklet a 109/2009. (V. 20.) Korm. rendelet 19. § (6) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 322. § i) pontja szerint módosított szöveg.
+[^161]: A 8. számú melléklet a 109/2009. (V. 20.) Korm. rendelet 19. § (6) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 322. § i) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-13. számú melléklet a 110/2006. (V. 5.) Korm. rendelethez[^167]
+13. számú melléklet a 110/2006. (V. 5.) Korm. rendelethez[^169]
 
 Igénylőlap a családok támogatásáról szóló 1998. évi LXXXIV. törvény 50/B. §-a szerinti állami kezesség beváltásához
 
@@ -68,4 +68,4 @@ Dátum: ...............
 
 aláírás
 
-[^167]: A 13. számú mellékletet a 253/2020. (V. 29.) Korm. rendelet 2. §-a iktatta be.
+[^169]: A 13. számú mellékletet a 253/2020. (V. 29.) Korm. rendelet 2. §-a iktatta be.

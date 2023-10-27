@@ -1,6 +1,6 @@
 ## Nyilatkozat
 
-## 1.[^162] Kiállítási garancia esetén alkalmazandó
+## 1.[^164] Kiállítási garancia esetén alkalmazandó
 
 ## Kölcsönbe adó (intézmény) megnevezése és címe:
 
@@ -32,7 +32,7 @@
 
 ## [a kiállító aláírása és pecsétje]
 
-## 2.[^163] Kiállítási viszontgarancia esetén alkalmazandó
+## 2.[^165] Kiállítási viszontgarancia esetén alkalmazandó
 
 ## Biztosító társaság megnevezése és címe:
 
@@ -64,7 +64,7 @@
 
 ## [a kiállító aláírása és pecsétje]
 
-11. számú melléklet a 110/2006. (V. 5.) Korm. rendelethez[^164]
+11. számú melléklet a 110/2006. (V. 5.) Korm. rendelethez[^166]
 
 Igénylőlap az állami jogszabályi kezességek beváltásához
 
@@ -120,7 +120,7 @@ Hitel/kölcsönszerződés/garanciaszerződés/garancianyilatkozat/készfizető 
 
 Hitel/kölcsönszerződés-módosítások/garanciaszerződés/garancianyilatkozat/készfizető kezesi szerződés módosításai és annak mellékletét képező dokumentumok
 
-A jogosult nyilatkozata, hogy a hitelt/kölcsönt céljának megfelelően használták-e fel[^165]
+A jogosult nyilatkozata, hogy a hitelt/kölcsönt céljának megfelelően használták-e fel[^167]
 
 A jogosult nyilatkozata, hogy volt-e megtérülés a biztosítékokból, ha igen, mennyi
 
@@ -140,7 +140,7 @@ A folyósítási feltételek teljesítésének dokumentumai
 
 Dátum: ............................................................
 
-[^162]: A 10. számú melléklet 1. pontja a 221/2014. (IX. 4.) Korm. rendelet 322. § k) és l) pontja szerint módosított szöveg.
-[^163]: A 10. számú melléklet 2. pontja a 221/2014. (IX. 4.) Korm. rendelet 322. § m) és n) pontja szerint módosított szöveg.
-[^164]: A 11. számú mellékletet a 40/2007. (III. 13.) Korm. rendelet 6. számú melléklete iktatta be, szövege a 331/2019. (XII. 20.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^165]: Értékpapír, valamint garancia/készfizető kezesség esetén nem kell kitölteni.
+[^164]: A 10. számú melléklet 1. pontja a 221/2014. (IX. 4.) Korm. rendelet 322. § k) és l) pontja szerint módosított szöveg.
+[^165]: A 10. számú melléklet 2. pontja a 221/2014. (IX. 4.) Korm. rendelet 322. § m) és n) pontja szerint módosított szöveg.
+[^166]: A 11. számú mellékletet a 40/2007. (III. 13.) Korm. rendelet 6. számú melléklete iktatta be, szövege a 331/2019. (XII. 20.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^167]: Értékpapír, valamint garancia/készfizető kezesség esetén nem kell kitölteni.
