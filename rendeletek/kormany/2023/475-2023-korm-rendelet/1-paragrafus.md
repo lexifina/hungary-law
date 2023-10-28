@@ -1,3 +1,3 @@
-1. § A nyergesújfalui ipari park bővítésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 65/2018. (IV. 4.) Korm. rendelet [a továbbiakban: 65/2018. (IV. 4.) Korm. rendelet] a következő 7. §-sal egészül ki:
+1. §[^2]
 
-„7. § E rendeletnek a nyergesújfalui ipari park bővítésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 65/2018. (IV. 4.) Korm. rendelet módosításáról szóló 475/2023. (X. 26.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 1. § (1) bekezdését a Módr2. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
