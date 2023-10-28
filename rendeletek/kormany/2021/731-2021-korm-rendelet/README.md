@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-731-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-12-21 | 2021-731-20-22.1 | 731/2021. (XII. 20.) Korm. rendelet |
+| 2023-10-28 | 2021-731-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
