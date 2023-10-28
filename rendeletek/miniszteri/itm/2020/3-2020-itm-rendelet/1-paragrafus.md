@@ -6,7 +6,7 @@ a) a földgáz, a földgáz minőségű biogáz és biomasszából származó g�
 
 b) a 30 kg/h feletti tüzelőanyag-fogyasztású olaj- és egyéb cseppfolyós tüzelőanyag-fogyasztó technológiai rendszerek (a továbbiakban: olajfogyasztó technológiai rendszerek), az 5 m3 vagy annál nagyobb névleges térfogatú, éghető gázok tárolására szolgáló, nyomástartó berendezésnek nem minősülő, ipari, mezőgazdasági vagy szolgáltatási célú tartályos gáztárolók (a továbbiakban: gáztárolók)
 
-## tervezésének, kivitelezésének, üzemeltetésének, átalakításának, javításának és megszüntetésének műszaki biztonsági követelményeire.
+tervezésének, kivitelezésének, üzemeltetésének, átalakításának, javításának és megszüntetésének műszaki biztonsági követelményeire.
 
 (2) E rendeletet nem kell alkalmazni:
 

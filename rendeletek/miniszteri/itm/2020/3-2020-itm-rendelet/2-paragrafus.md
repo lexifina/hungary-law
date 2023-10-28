@@ -7,3 +7,5 @@ a) csatlakozóvezetéket,
 b) telephelyi vezetéket, és
 
 c) felhasználói berendezést
+
+úgy kell megtervezni, létesíteni, telepíteni, üzembe helyezni, üzemeltetni és rendszeresen karbantartani, hogy az megfeleljen az 1. mellékletben szereplő műszaki biztonsági szabályzatban meghatározott műszaki biztonsági követelményeknek.

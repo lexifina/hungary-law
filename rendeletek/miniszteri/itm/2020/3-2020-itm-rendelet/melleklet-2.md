@@ -10,11 +10,11 @@
 
 ## 4. Csatlakozóvezeték tartályos PB-gáz és szintetikus gáz esetén: a tartály folyadék vagy gázfázisú elvételi csonkjának elzáró szerelvényétől induló és a fogyasztói főcsapig terjedő vezeték tartozékaival együtt. Az elzáró szerelvény nem része a csatlakozóvezetéknek.
 
-## 5. Egység-hőterhelés: a gázfogyasztó készülék EU-megfelelőségi nyilatkozatán megjelölt típushoz megadott hőterhelése. Amennyiben a tanúsított gázfogyasztó készülék több olyan részegységből áll, amelyek teljes üzembiztonsággal önállóan, egymástól függetlenül is működőképesek, akkor a részegység hőterhelése tekintendő egység-hőterhelésnek. Több névleges hőterheléssel rendelkező gázfogyasztó készülék esetén, az EU-megfelelőségi nyilatkozatán felsoroltak közül a telepítés tervezője, vagy az egyszerűsített készülékcsere végrehajtója által, a megadott hőterhelések közül kiválasztott hőterhelés.
+## 5.[^4] Egység-hőterhelés: a gázfogyasztó készülék EU-megfelelőségi nyilatkozatán megjelölt típushoz megadott hőterhelése. Amennyiben a tanúsított gázfogyasztó készülék több olyan részegységből áll, amelyek teljes üzembiztonsággal önállóan, egymástól függetlenül is működőképesek, akkor a részegység hőterhelése tekintendő egység-hőterhelésnek. Több névleges hőterheléssel rendelkező gázfogyasztó készülék esetén, az EU-megfelelőségi nyilatkozatán felsoroltak közül a tervező, vagy az egyszerűsített készülékcsere végrehajtója által, a megadott hőterhelések közül kiválasztott hőterhelés.
 
 ## 6. Együttes hőterhelés: az egy helyiségben üzemeltetett gázfogyasztó készülék vagy készülékek együttes (összes), névleges hőterhelése.
 
-## 7. Felhagyás: a csatlakozóvezeték, a telephelyi vezeték és a felhasználói berendezés végleges használaton kívül helyezése, elbontással.
+## 7.[^5] Felhagyás: a csatlakozóvezeték, a telephelyi vezeték és a felhasználói berendezés végleges használaton kívül helyezése.
 
 ## 8. Földgázelosztó: az a természetes személy, jogi személy, vagy jogi személyiséggel nem rendelkező szervezet, amely a Magyar Energetikai és Közmű-szabályozási Hivatal által kiadott működési engedéllyel rendelkezik.
 
@@ -36,7 +36,7 @@
 
 ## 17. Gázterhelés: az az időegységre eső térfogatáram, amely a gázfogyasztó készülék folyamatos üzeme során időegység alatt a készülékbe áramlik (m3/h; m3/s).
 
-## 18. Hasadó és hasadó-nyíló felületek: az Országos Tűzvédelmi Szabályzatról szóló miniszteri rendelet (a továbbiakban: OTSZ) szerinti hasadó-nyíló felületek.
+## 18.[^6] Hasadó és hasadó-nyíló felületek: a Robbanás elleni védelemről szóló Tűzvédelmi Műszaki Irányelv szerinti hasadó, hasadó-nyíló felületek.
 
 ## 19. Hőre záró szerelvény: 100 °C hőmérsékleten legfeljebb 1 percen belül önműködően lezáró szerelvény.
 
@@ -50,15 +50,15 @@
 
 ## 24. Kibocsátó forrás: olyan pont vagy hely, amelyből éghető gáz szabadulhat ki a légkörbe úgy, hogy robbanóképes gáz-levegő keverék képződhet.
 
-## 25. Kiviteli terv: a tervező által készített dokumentum a kivitelező részére, a kivitelezendő, átalakítandó vagy felhagyandó csatlakozóvezeték, felhasználói berendezés, és telephelyi vezeték kivitelezéséhez.
+## 25.[^7] Kiviteli terv: a tervező által készített dokumentum a kivitelező részére, a létesítendő, átalakítandó, megszüntetendő vagy felhagyandó csatlakozóvezeték, felhasználói berendezés, és telephelyi vezeték kivitelezéséhez.
 
 ## 26. Közcsatorna: a felszíni vizek minősége védelmének szabályairól szóló 220/2004. (VII. 21.) Korm. rendelet 3. § 29. pontja szerint meghatározott fogalom.
 
-## 27. Légtér-összeköttetés: két vagy több helyiség légtere akkor tekintendő összeköttetésben lévőnek, ha közöttük nyílás van és azon nincs fokozott légzárású, automatikusan záródó nyílászáró.
+## 27.[^8] Légtér-összeköttetés: két vagy több helyiség légterének olyan kialakítása, ahol a helyiségek között nyílás van, és azon nincs fokozott légzárású, automatikusan záródó nyílászáró.
 
 ## 28. Levegő-bevezető: olyan, erre a célra teljesítménynyilatkozattal rendelkező vagy méretezett szerkezet, amely a levegőt a szabadból a gázfogyasztó készülék helyiségébe vagy a gázfogyasztó készülék levegőbevezetés céljára kialakított nyílásához vezeti.
 
-## 29. Megvalósulási dokumentáció: a tervdokumentáció olyan példánya, amely a csatlakozóvezeték, a telephelyi vezeték és a felhasználói berendezés megvalósult állapotát tükrözi.
+## 29.[^9] Megvalósulási dokumentáció: a kiviteli terv olyan példánya, amely a csatlakozóvezeték, a telephelyi vezeték és a felhasználói berendezés megvalósult állapotát tükrözi.
 
 ## 30. Membrános (lemezházas) gázmérő: olyan gáztérfogat-mérő eszköz, amelyben az átáramló gáz térfogatát a gáz által elmozdított válaszfalakkal rendelkező mérőkamrák segítségével határozzák meg.
 
@@ -90,7 +90,7 @@
 
 ## k) normál (atmoszférikus) légköri nyomás (p): Magyarországon a légnyomás egységesen elfogadott abszolút értéke, mely a gáz halmazállapotú anyagok normál állapotának meghatározására szolgál (bar, mbar);
 
-## l) tervezési nyomás (DP): az a nyomásérték, amelyen a szilárdsági számítások alapulnak. A műszaki biztonsági szabályzatban megegyezik a szilárdságvizsgálati nyomás (STP) értékével (bar, mbar);
+## l)[^10] tervezési nyomás (DP): az a nyomásérték, amelyen a szilárdsági számítások alapulnak. A műszaki biztonsági szabályzatban megegyezik a szilárdsági nyomáspróba értékével (bar, mbar);
 
 ## m) üzemi nyomás (OP): a csővezetékben normális üzemszerű körülmények közt kialakuló nyomás (bar, mbar).
 
@@ -114,9 +114,9 @@
 
 ## 37. PB-gáz forgalmazó: az a gazdálkodó szervezet, amely a cseppfolyós propán-, butángázok és ezek elegyei tartályban vagy palackban történő forgalmazásának szabályairól és hatósági felügyeletéről szóló jogszabályban előírt feltételeknek megfelel és a bányafelügyelettől a PB-gáz forgalmazására engedélyt kapott.
 
-## 38. Rendeltetési ország (közvetlen): az az ország, amely számára a gázfogyasztó készüléket tanúsították, és amelyet a gyártó közvetlen rendeltetési célországként megad, és ott a gázfogyasztó készülék gyártója által előírt külön beavatkozás nélkül üzemeltethető.
+## 38.[^11] Rendeltetési ország (közvetlen): az az ország, amelyre a gázfogyasztó készülék EU-típusvizsgálati tanúsítvánnyal rendelkezik, és amelyet a gyártó közvetlen rendeltetési országként a készülék adattábláján megad.
 
-## 39. Rendeltetési ország (közvetett): az az ország, amelyhez a gázfogyasztó készüléket tanúsították, de a gázfogyasztó készülék csak a gyártó által előírt beavatkozást követően alkalmazható a célországban.
+## 39.[^12] Rendeltetési ország (közvetett): az az ország, amelyre vonatkozóan a gázfogyasztó készülék EU-típusvizsgálati tanúsítvánnyal rendelkezik.
 
 ## 40. Rendeltetésszerű használat: a csatlakozóvezeték, a felhasználói berendezés, telephelyi vezeték műszaki leírásában, kezelési és karbantartási útmutatójában vagy termékismertetőjében feltüntetett minőségű gázzal és a megadott paraméterekkel jellemzett feltételeknek megfelelő használat.
 
@@ -146,7 +146,7 @@
 
 ## 50. Teljesítménynyilatkozat: az építési termék építménybe történő betervezésének és beépítésének, ennek során a teljesítmény igazolásának részletes szabályairól szóló 275/2013. (VII. 16.) Korm. rendelet 2. § 15. pontjában ekként meghatározott fogalom.
 
-## 51. Tervező: az a személy, aki a csatlakozóvezeték, a felhasználói berendezés és a telephelyi vezeték megvalósításához szükséges tervezési feladatokat elvégzi, a tervezői nyilatkozatot adja, és aki a tervezési feladatnak megfelelő, az építésügyi és az építésüggyel összefüggő szakmagyakorlási tevékenységekről szóló 266/2013. (VII. 11.) Korm. rendelet szerinti szakirányú tervezési jogosultsággal rendelkezik.
+## 51.[^13] Tervező: az a személy, aki a csatlakozóvezeték, a felhasználói berendezés és a telephelyi vezeték kivitelezéséhez, átalakításához, felhagyásához szükséges tervezési feladatokat elvégzi, a tervezői nyilatkozatot adja, és aki a tervezési feladatnak megfelelő, az építésügyi és az építésüggyel összefüggő szakmagyakorlási tevékenységekről szóló 266/2013. (VII. 11.) Korm. rendelet szerinti szakirányú tervezési jogosultsággal rendelkezik.
 
 ## 52. Tervfelülvizsgálat: a kiviteli terv műszaki-biztonsági szempontból történő felülvizsgálata.
 
@@ -154,7 +154,7 @@
 
 ## 54. Tömegtartózkodásra szolgáló helyiség: az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet 1. melléklet 132. pontjában ekként meghatározott fogalom.
 
-## 55. Üzembe helyezés: a csatlakozóvezeték, a fogyasztói vezeték, a telephelyi vezeték teljes vagy részleges gáz alá helyezéséhez és a gázfogyasztó készülékek vagy a gázfelhasználó technológiai rendszer üzemeltetése megkezdéséhez szükséges tevékenységek összessége.
+## 55.[^14] Üzembe helyezés: a csatlakozóvezeték, a fogyasztói vezeték, a telephelyi vezeték vagy a gázfelhasználó technológiai rendszer üzemeltetése megkezdéséhez szükséges tevékenységek összessége. A részegységenként szállítható gázfogyasztó készülék végső ellenőrzése és használatra való alkalmasságának megállapítása a gázfogyasztó készülék gyártójának felhatalmazott megbízottja által.
 
 ## 56. Védőtávolság: a csatlakozóvezeték, a fogyasztói vezeték vagy a telephelyi vezeték, a gázfogyasztó készülék és a megközelített létesítmény, épületszerkezet vagy használati tárgyak között függőleges vetületben megengedhető legkisebb vízszintes távolság.
 
@@ -200,7 +200,7 @@
 
 ## dd) égéstermék elvezetés terve,
 
-## de) gáznyomás-szabályozó és gázmérő telepítési terve,
+## de)[^15] gáznyomás-szabályozó és a fogyasztásmérő berendezés telepítési terve,
 
 ## df) szolgalmi jogi rendezéshez szükséges dokumentáció,
 
@@ -230,7 +230,7 @@
 
 ## 2.3.11. a tervezési határokat,
 
-## 2.3.12. a csatlakozóvezeték, a telephelyi vezeték paramétereit, védőtávolságát,
+## 2.3.12.[^16] a csatlakozóvezeték, a telephelyi vezeték műszaki adatait, védőtávolságát,
 
 ## 2.3.13. a felhasználói berendezés főbb műszaki paramétereit, valamint ezek meghatározására vonatkozó számításokat,
 
@@ -240,7 +240,7 @@
 
 ## 2.3.16. a gázfogyasztó készülékek légellátásának, égéstermék elvezetésének hő- és áramlástechnikai méretezését, vagy a gyártó előírásának betartását igazoló leírást, az alkalmazott elemek gyártó szerinti azonosító adatait, együttműködést a meglévő felhasználói berendezéssel, az égési levegőellátással és égéstermék elvezetéssel érintett épületszerkezetek felsorolását,
 
-## 2.3.17. a kivitelezésre vonatkozó előírásokat, a hegesztési eljárást, az eljáráshoz tartozó személyi és tárgyi követelményeket és a tervezett kötések vizsgálatát,
+## 2.3.17.[^17] a kivitelezésre vonatkozó előírásokat, az alkalmazásra kerülő cső- és szerelvénykötési módokat, a hegesztési eljárást, az ezekhez tartozó személyi és tárgyi követelményeket és a tervezett kötések vizsgálatát,
 
 ## 2.3.18. a munkavédelem és az egészségvédelem követelményeit és az azok teljesítésére vonatkozó megoldásokat,
 
@@ -260,47 +260,53 @@
 
 ## 2.3.26. a külső térbe mesterséges kifúvással rendelkező berendezések, a belső légtérben nyomáscsökkenést létrehozó eszközök, légkezelők feltüntetését.
 
+## 2.3.27.[^18] a korlátozott élettartamú tartozékok felsorolását az élettartam megjelölésével,
+
+## 2.3.28.[^19] a meglévő rendszerhez való csatlakozás műszaki megoldását.
+
 ## 2.4. A rajzdokumentációnak tartalmaznia kell a 2.4.1–2.4.5. pontban meghatározott rajzokat és terveket.
 
-## 2.4.1. Helyszínrajz a szükséges méretarányban tartalmazza:
+## 2.4.1.[^20] Helyszínrajz a szükséges méretarányban tartalmazza:
 
 ## a) a gázellátással érintett felhasználási hely címét, helyrajzi számát,
 
-## b) a tervezés határát, érintett elosztóvezetékhez, telephelyi vezetékhez, csatlakozóvezetékhez, fogyasztói vezetékhez történő csatlakozás pontját,
+## b) a tervezési határt, az ahhoz való csatlakozásnak a területileg illetékes engedélyessel egyeztetett műszaki megoldását,
 
-## c) ha a kiviteli terv az ellátandó ingatlanon kívül más ingatlant is érint azok helyrajzi számát, szolgalmi jogi rendezéshez szükséges dokumentumokat,
+## c) ha a kiviteli terv az ellátandó ingatlanon kívül más ingatlant is érint, annak helyrajzi számát, szolgalmi jogi rendezéséhez szükséges dokumentumokat,
 
 ## d) az épületek, létesítmények körvonalrajzát, elhelyezkedésük méreteit,
 
 ## e) a tervezett csatlakozóvezeték vagy fogyasztói vezeték vagy telephelyi vezeték nyomvonalát, méretét, anyagát, védőtávolságát,
 
-## f) a felhasználási helyen lévő közműveknek az adatszolgáltatás pontosságának megfelelően feltüntetett elhelyezkedését,
+## f) a felhasználási helyen lévő közműveknek az adatszolgáltatás pontosságának megfelelően feltüntetett elhelyezkedését, ismeretlen nyomvonal esetén az intézkedés szükségességét,
 
-## g) a gáznyomás-szabályozó, gázmérő helyét, méretét, teljesítmény adatait,
+## g) a gáznyomás-szabályozó, fogyasztásmérő berendezés helyét, típusát, beépítési méreteit, műszaki adatait,
 
 ## h) a föld alatti ismert létesítmények helyét,
 
-## i) az égéstermék-elvezető kitorkollását, annak környezetében lévő objektumokat, épületeket, méreteket.
+## i) az égéstermék-elvezető vagy a gázfogyasztó készülék kitorkollását, annak környezetében lévő objektumokat, épületeket, méreteket, és
 
-## 2.4.2. Az alaprajzok tartalmazzák a gázzal ellátott felhasználási helynek a csatlakozóvezeték, a felhasználói berendezés, a telephelyi vezeték elhelyezésével érintett részeit a következők szerint:
+## j) átalakítás esetében az elbontásra kerülő, a megmaradó és az új vezetékek megkülönböztetett megjelölését.
+
+## 2.4.2.[^21] Az alaprajzok tartalmazzák a gázzal ellátott felhasználási helynek a csatlakozóvezeték, a felhasználói berendezés, a telephelyi vezeték elhelyezésével érintett részeit, a következők szerint:
 
 ## a) a felhasználói berendezés részét képező nyílászárók helye, típusa és légzárási értéke, továbbá az összeszellőztető-nyílások adatai,
 
 ## b) az egyes helyiségek megnevezése,
 
-## c) a vizes berendezési tárgyak alak- és mérethű helye,
+## c) az alak- és mérethű vizes berendezési tárgyak helye,
 
-## d) a meglevő és beépítésre kerülő gázfogyasztó készülék helye, rendeltetése, tanúsított típusa, névleges gázterhelése,
+## d) a meglévő és beépítésre kerülő gázfogyasztó készülék helye, rendeltetése, tanúsított típusa, névleges gázterhelése,
 
 ## e) fürdőkádat, zuhanyt tartalmazó helyiségben elhelyezett gázfogyasztó készülék esetében annak villamos védettsége,
 
-## f) a meglévő és tervezett csatlakozóvezeték és a fogyasztói vezeték (beleértve az épületre szerelt telephelyi vezetéket, vagy elosztóvezetékké átminősített telephelyi vezetéket) nyomvonala, mérete, anyaga,
+## f) a meglévő és tervezett csatlakozóvezeték és a fogyasztói vezeték – beleértve az épületre szerelt telephelyi vezetéket vagy elosztóvezetékké átminősített telephelyi vezetéket – nyomvonala, mérete, anyaga,
 
 ## g) a szerelvények, anyagátmenetek helye, típusa, mérete,
 
-## h) a gáznyomás-szabályozó, gázmérő helye, típusa, mérete, teljesítmény adatai,
+## h) a gáznyomás-szabályozó, fogyasztásmérő berendezés helye, típusa, mérete, teljesítmény adatai,
 
-## i) a légellátás, szellőzés, légmennyiség adatai, szerkezetei, a típus és teljesítmény megjelölésével,
+## i) a légellátás és a szellőzés légmennyiségadatai, szerkezetei, a típus és teljesítmény megjelölésével,
 
 ## j) a levegő bevezetésének és az égéstermék elvezetésének főbb műszaki adatai, műszaki megoldása,
 
@@ -310,7 +316,7 @@
 
 ## m) a gázérzékelők, beavatkozó szerkezetek elhelyezése, típusa, üzemi paraméterei,
 
-## n) bontás, átalakítás esetében az elbontásra kerülő, a megmaradó és az új vezetékek típusának megjelölése, és
+## n) bontás, átalakítás esetében az elbontásra kerülő, a megmaradó és az új vezetékek típusának megjelölése és
 
 ## o) minden olyan adat, amely a terv műszaki-biztonsági felülvizsgálatához nélkülözhetetlen.
 
@@ -322,7 +328,7 @@
 
 ## c) a tervezett gázfogyasztó készüléket és annak telepítése szerint kiválasztott típusa megadását,
 
-## d) a gáznyomás-szabályozó, gázmérő, mérési rendszer helyét típusát, méretét, teljesítményadatait,
+## d)[^22] a gáznyomás-szabályozó, mérési rendszer helyét típusát, méretét, teljesítményadatait,
 
 ## e) a csővezetékek, szerelvények anyagát, méretét, kötésmódját, kapcsolását,
 
@@ -350,7 +356,7 @@
 
 ## 2.5.1. A kivitelezésre alkalmas tervfelülvizsgálói nyilatkozat a keltétől számított 2 évig érvényes, ha a kiviteli tervben foglaltak a műszaki-biztonsági feltételeknek a kivitelezés megkezdésének időpontjában a helyszíni adottságoknak változatlanul megfelelnek.
 
-## 2.5.2. Ha az eltérés műszaki-biztonsági feltételt érint, a tervező a területi földgázelosztótól, a vezetékes PB-gáz szolgáltatótól, a telephelyi szolgáltatótól, a telephelyi engedélyestől, a PB-gáz forgalmazótól – a készülékcsere kivételével – ismételt tervfelülvizsgálatot köteles kérni. Készülékcsere esetén a kiviteli tervet a tervező módosíthatja.
+## 2.5.2.[^23] Ha az eltérés műszaki-biztonsági feltételt érint, a tervező a területi földgázelosztótól, a vezetékes PB-gáz szolgáltatótól, a telephelyi szolgáltatótól, a telephelyi engedélyestől, a PB-gáz forgalmazótól ismételt tervfelülvizsgálatot köteles kérni. Készülékcsere esetén a kiviteli tervet a tervező módosíthatja.
 
 ## 2.5.3. Ha a módosítás nem érint műszaki-biztonsági feltételeket, a kiviteli tervet a tervező módosíthatja, és a módosított kiviteli tervet köteles dátummal ellátni, és aláírni.
 
@@ -358,11 +364,11 @@
 
 ## 2.6. A csatlakozóvezeték, a fogyasztói vezeték és a telephelyi vezeték sajátos tervezési követelményei
 
-## 2.6.1. Csatlakozóvezeték és fogyasztói vezeték körvezetékként nem alakítható ki.
+## 2.6.1.[^24] Csatlakozóvezeték és fogyasztói vezeték körvezetékként nem alakítható ki.
 
 ## 2.6.2. A csatlakozóvezeték, a fogyasztói vezeték és a telephelyi vezeték épületen kívüli szakaszát a helyszíni adottságoktól függően a térszint alatt, a védőtávolságok betartásával kell elhelyezni, kivéve a gázfelhasználó technológiai rendszerek csővezetékeit, valamint a felszín feletti keresztezések eseteit.
 
-## 2.6.3. A fogyasztói főelzáró helyét a területi földgázelosztó, a vezetékes PB-gáz szolgáltató adja meg a tervező részére.
+## 2.6.3.[^25] A fogyasztói főelzáró helyét a területi földgázelosztó, a vezetékes PB-gáz szolgáltató, a telephelyi szolgáltató, a telephelyi engedélyes, a PB-gáz forgalmazó adja meg a tervező részére.
 
 ## 2.6.4. A csatlakozóvezeték, a fogyasztói vezeték, a telephelyi vezeték telekhatár és épület, építmény közötti szakasza épületektől, közművektől és más objektumoktól biztosítandó védőtávolságait a 3.1–3.5. pontban foglaltak alapján kell tervezni.
 
@@ -378,7 +384,7 @@
 
 ## c) A csatlakozóvezeték, fogyasztói vezeték, a telephelyi vezeték és egyéb más közművezeték keresztezése esetén a keresztezési szögnek 30–150° között kell lennie. A keresztezésnél a megtartandó legkisebb keresztezési palást-távolságnak legalább 0,2 m-nek kell lennie.
 
-## 2.6.8 A földbe fektetett vezetékbe épített elzáró szerelvény nyitásához és zárásához szükséges kezelőszárnak csapszekrénybe felhozott kivitelűnek kel lennie. Az elzáró szerelvény típusát és helyét jelzőtáblával meg kell jelölni.
+## 2.6.8[^26] A földbe fektetett telephelyi, csatlakozó- és fogyasztói vezetékbe épített elzáró szerelvény nyitásához és zárásához szükséges kezelőszárnak csapszekrénybe felhozott kivitelűnek kel lennie. Az elzáró szerelvény típusát és helyét jelzőtáblával meg kell jelölni.
 
 ## 2.6.9. Ha az elzáró szerelvény nyitásához és záráshoz speciális eszköz szükséges, azt az elzáró szerelvény közelében, hozzáférhető helyen, és az illetéktelen behatástól védve kell elhelyezni.
 
@@ -468,9 +474,9 @@
 
 ## 5.18. A csatlakozóvezeték és a fogyasztói vezeték korrózióvédelméről az üzembe helyezést követően az ingatlan tulajdonosa köteles gondoskodni.
 
-## 5.19. Csatlakozóvezeték és fogyasztói vezeték nem helyezhető el:
+## 5.19.[^27] Csatlakozóvezeték, telephelyi vezeték és fogyasztói vezeték nem helyezhető el
 
-## a) szellőző aknában,
+## a) szellőzőaknában,
 
 ## b) szellőzővezetékben,
 
@@ -484,9 +490,17 @@
 
 ## g) a villamos elosztói berendezések és alállomások helyiségeiben,
 
-## h) olyan helyiségben, ahol a gázfogyasztó készülékek és a gázfelhasználó technológia együttes hőterhelése nagyobb, mint 140 kW, kivéve az azt ellátó vagy a helyiség fűtését biztosító gázfogyasztó készülék fogyasztói vezetékét,
+## h) olyan helyiségben, ahol a gázfogyasztó készülékek és a gázfelhasználó technológiai rendszer együttes hőterhelése nagyobb, mint 200 kW, kivéve az azt ellátó vagy a helyiség fűtését biztosító gázfogyasztó készülék fogyasztói vezetékét,
 
-## i) a 0,4 kV-nál nagyobb feszültségű erősáramú berendezést tartalmazó helyiségben, kivéve a helyiség fűtését szolgáló gázfogyasztó készülék gázellátását.
+## i) a 0,4 kV-nál nagyobb feszültségű erősáramú berendezést tartalmazó helyiségben, kivéve a helyiség fűtését szolgáló gázfogyasztó készülék gázellátását,
+
+## j) égéstermék-elvezetőben és az ezek befogadására szolgáló járatban,
+
+## k) levegő-bevezetőben és az ezek befogadására szolgáló járatban,
+
+## l) a lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvényben meghatározottak szerint önkormányzati, illetve állami tulajdonban lévő életvédelem céljára épített, vagy ilyen célra kijelölt helyiségekben, az abban elhelyezett gázfogyasztó készülék gázellátását biztosító fogyasztói vezeték kivételével,
+
+## m) idegen tulajdonú ingatlanon, kivéve az osztatlan közös tulajdonban lévő, közös használatú helységet.
 
 ## 6. A hegesztésre vonatkozó sajátos követelmények
 
@@ -594,7 +608,7 @@
 
 |  | A | B | C | D | E |
 
-| 1. | Vezeték névleges átmérője | 3/8 ″ | 1/2 ″ | 3/4 ″ | 1″ |
+| 1. | Vezeték névleges átmérője | 3/8″ | 1/2″ | 3/4″ | 1″ |
 
 | 2. | Áramlási sebesség | 0,6 m/s | 1,0 m/s | 1,0 m/s | 1,5 m/s |
 
@@ -614,7 +628,7 @@
 
 ## b) 25 bar, ha a vezetékben van nyomásfokozó szivattyú.
 
-## 7.8. A 7.7. pontban foglaltak alkalmazása szempontjából a csatlakozás méretét a bezárható folyadéktérfogat függvényében a 7.2. táblázat szerint kell megválasztani.
+## 7.8.[^28] A 7.7. pontban foglaltak alkalmazása szempontjából a csatlakozás méretét a bezárható folyadéktérfogat függvényében a 7.2. táblázat szerint kell megválasztani.
 
 ## 7.2. táblázat
 
@@ -622,15 +636,31 @@
 
 | 1. | A bezárt folyadéktérfogat [dm3] | A hőtágulási lefúvató szelep csatlakozó menetmérete |
 
-| 2. | V ≤ 2 | 3/8 ″ |
+| 2. | V ≤ 2 | 3/8″ |
 
-| 3. | 4 ≥ V ≥ 10 | 1/2 ″ |
+| 3. | 2 < V < 10 | 1/2″ |
 
-| 4. | V ≥ 10 | 3/4 ″ |
+| 4. | V ≥ 10 | 3/4″ |
 
 ## 7.9. Folyadékfázisú csatlakozóvezeték kizárólag acél anyagú lehet.
 
-## 7.10. Az acél anyagú csatlakozóvezeték térszint alatti szakaszában csak hegesztett kötés alkalmazható.
+## 7.10.[^29] Az acél anyagú csatlakozóvezeték térszint alatti szakaszában csak hegesztett kötés alkalmazható. A csatlakozóvezetéket a 7.3. táblázatban meghatározott védőtávolságok betartásával kell vezetni. Kivétel az épület fala, ha azt merőlegesen közelíti meg.
+
+## 7.3. táblázat
+
+|  | A | B | C |
+
+| 1. | Nyomásfokozat | Védőtávolság épülettől [m] | Védőtávolság üreges, túlnyomás nélküli közműtől vagy műtárgytól [m] |
+
+| 2. | Kisnyomás | 2 (1) | 1 (0,5) |
+
+| 3. | Középnyomás | 4 (2) | 2 (1) |
+
+| 4. | Nagyközép-nyomás | 5 (2,5) | 2 (1) |
+
+| 5. | A zárójeles távolságok akkor tervezhetők, ha a tervező igazolja, hogy a műszaki biztonsági szintet más módon is biztosítani tudja. |
+
+| 6. | PB-gáz csatlakozóvezeték tartozékainak védőtávolságát a tervező a robbanásveszélyes övezet határának kiszámításával, azzal azonos méretűre határozza meg. |
 
 ## 7.11. A csatlakozóvezeték tartozékai rendelkezzenek CE megfelelőségi jelöléssel és az ehhez tartozó gyártói teljesítménynyilatkozatokkal, feleljenek meg a tervezési nyomásnak.
 
@@ -674,33 +704,37 @@
 
 ## 8. A megvalósulási dokumentáció tartalmi követelményei
 
-## 8.1. A megvalósulási dokumentáció tartalmazza a következőket:
+## 8.1.[^30] A megvalósulási dokumentáció tartalmazza a következőket:
 
-## a) tartalomjegyzék;
+## a) tartalomjegyzék,
 
-## b) a megvalósult állapot kiviteli tervtől való eltérése esetén a tervező nyilatkozata, valamint érintettsége esetén a területi földgázelosztó, telephelyi szolgáltató vagy a PB-gáz forgalmazó hozzájáruló nyilatkozata;
+## b) a megvalósult állapot kiviteli tervtől való eltérése esetén a tervező nyilatkozata, valamint érintettsége esetén a területi földgázelosztó, a vezetékes PB-gáz szolgáltató, a telephelyi szolgáltató, a telephelyi engedélyes és a PB-gáz forgalmazó hozzájáruló nyilatkozata,
 
-## c) jogszabály eltérő rendelkezése hiányában a kéményseprő-ipari tevékenységet ellátó nyilatkozata a tervezett gázfogyasztó készülék típusától függően;
+## c) jogszabály eltérő rendelkezése hiányában a kéményseprő-ipari tevékenységet ellátó nyilatkozata a tervezett gázfogyasztó készülék típusától függően,
 
-## d) szerelői nyilatkozat;
+## d) szerelői nyilatkozat,
 
-## e) szilárdsági nyomáspróba és tömörségi próba jegyzőkönyvek;
+## e) szilárdságinyomáspróba- és tömörségipróba-jegyzőkönyvek,
 
-## f) szolgalmi jogi nyilatkozat (idegen ingatlan – nyomvonallal vagy a csatlakozó-, telephelyi vagy fogyasztói vezeték védőtávolságával történő – érintése esetén a szolgalmi jog alapításáról szóló, ingatlan-nyilvántartási bejegyzésre alkalmas okirat, továbbá ennek mellékletét képező, érvényes földhivatali záradékkal ellátott változási vázrajz);
+## f) szolgalmi jogi nyilatkozat (idegen ingatlan – nyomvonallal vagy a csatlakozó-, telephelyi vagy fogyasztói vezeték védőtávolságával történő – érintése esetén a szolgalmi jog alapításáról szóló, ingatlan-nyilvántartási bejegyzésre alkalmas okirat, továbbá ennek mellékletét képező, érvényes földhivatali záradékkal ellátott változási vázrajz),
 
-## g) elektromos szabványossági nyilatkozat;
+## g) elektromos szabványossági nyilatkozat, mely tartalmazza az épület védő egyenpotenciálú összekötést biztosító hálózatának megfelelőségéről szóló nyilatkozatot is,
 
-## h) villamos felülvizsgálati jegyzőkönyv RB szerelés, villámvédelmi rendszer és elektromos reteszfeltételek esetén;
+## h) villamos biztonsági felülvizsgáló által kiállított jegyzőkönyv elektromos reteszfeltételek esetén,
 
-## i) hegesztési napló, varrattérkép;
+## i) robbanásbiztos berendezés szerelője által kiállított jegyzőkönyv RB szerelés esetén,
 
-## j) hegesztési varratvizsgálati jegyzőkönyvek;
+## j) villámvédelmi felülvizsgáló által kiállított jegyzőkönyv villámvédelmi rendszer érintettsége esetén,
 
-## k) a beépített anyagok, szerelvények, tartozékok teljesítménynyilatkozatai;
+## k) hegesztési napló, varrattérkép,
 
-## l) a szellőző berendezések beszabályozási jegyzőkönyve;
+## l) hegesztési varratvizsgálati jegyzőkönyvek,
 
-## m) a kiviteli tervben a tervező által meghatározott egyéb dokumentumok.
+## m) a beépített anyagok, szerelvények, tartozékok teljesítménynyilatkozatai,
+
+## n) a szellőző berendezések beszabályozási jegyzőkönyve,
+
+## o) a kiviteli tervben a tervező által meghatározott egyéb dokumentumok.
 
 ## 9. Gáznyomás-szabályozók elhelyezésének általános követelményei
 
@@ -714,7 +748,7 @@
 
 ## 9.5. A gáznyomás-szabályozó épületen belül történő elhelyezésénél a legfeljebb 100 m3/h együttes névleges teljesítményű membrános (lemezházas) gázmérők elhelyezésének követelményei szerinti feltételeket kell biztosítani.
 
-## 9.6. Az épületen belül elhelyezett házi nyomásszabályozónak rendelkezni kell biztonsági membránnal, vagy kétfokozatúnak kell lennie, és a membrántér szabadba kiszellőztetését biztosítani kell.
+## 9.6.[^31] Az épületben elhelyezett házi és egyedi nyomásszabályzónak kétfokozatúnak kell lennie, és rendelkeznie kell biztonsági membránnal. Minden légtérkapcsolatban álló membránterének kiszellőzését kiszellőző vezetéken kell biztosítani, melyben záró szerelvény nem lehet.
 
 ## 9.7. Épületen belül legfeljebb középnyomású gáznyomás-szabályzó helyezhető el.
 
@@ -748,7 +782,7 @@
 
 ## 10.6. Az MSZ EN 12279 (Gázellátó rendszerek. Gáznyomás-szabályozók a csatlakozóvezetékben. Műszaki követelmények) szabvány A. melléklet 5. sz. módozata szerinti beépítésénél, vagy azzal egyenértékű más műszaki megoldás esetén, ahol nem lehetséges a közúti forgalom előli elzárás, az akna fedlap a terhelésnek feleljen meg.
 
-## 10.7. A belépő oldali gázvezetékbe épületen kívül, térszinten, kezelési magasságban szakaszoló szerelvényt kell beépíteni. A gáznyomás-szabályozó állomás villámvédelmét tervező tervezheti meg.
+## 10.7.[^32] A belépő oldali gázvezetékbe épületen kívül, térszinten, kezelési magasságban szakaszoló szerelvényt kell beépíteni.
 
 ## 11. Házi gáznyomás-szabályozók és egyedi gáznyomás-szabályozó állomások gépészeti követelményei
 
@@ -866,7 +900,7 @@
 
 ## 15.5.1. Az épület az OTSZ szerinti magas kockázati, MK osztályba sorolandó.
 
-## 15.5.2. Az épületnek az OTSZ szerinti hasadó vagy hasadó-nyíló felülettel kell rendelkeznie.
+## 15.5.2.[^33] Az épületnek hasadó vagy hasadó-nyíló felülettel kell rendelkeznie, amely megvalósítható a Robbanás elleni védelem című Tűzvédelmi Műszaki Irányelv szerint.
 
 ## 15.5.3. Az épület belmagasságának legalább 2,60 méternek kell lennie.
 
@@ -998,7 +1032,7 @@
 
 ## 25. A gázmérőkre vonatkozó követelmények
 
-## 25.1. 140 kW-nál nagyobb együttes hőterhelésű gázfogyasztó készülékek helyiségébe és 0,4 kV-nál nagyobb feszültségű villamos berendezéseket tartalmazó helyiségbe a gázgépészeti berendezések gázmérő és gáznyomás-szabályozó helyiségeit kivéve gázmérő nem szerelhető.
+## 25.1.[^34] 200 kW-nál nagyobb együttes hőterhelésű gázfogyasztó készülékek helyiségébe és 0,4 kV-nál nagyobb feszültségű villamos berendezéseket tartalmazó helyiségbe, valamint robbanásveszélyes térségnek minősülő helyiségbe gázmérő, mérési rendszerek és gáznyomás-szabályozó helyiségeket kivéve gázmérő, mérési rendszer nem szerelhető.
 
 ## 25.2. A gázmérő és a legközelebbi gázfogyasztó készülék közötti vízszintes vetületben mért távolságnak legalább 1 m-nek kell lennie. Ez a távolság beépített fallal 0,5 m-ig csökkenthető.
 
@@ -1012,11 +1046,11 @@
 
 ## 25.7. Nagy-középnyomású gáznyomás-szabályozóról ellátott membrános (lemezházas) gázmérő épületben nem helyezhető el.
 
-## 25.8. A gázmérő üzemeltetője, kezelője a gázmérővel, mérési rendszerrel kapcsolatos üzemeltetési és karbantartási munkákat akkor végezheti, ha rendelkezésre áll a területi földgázelosztó, vezetékes PB-gáz szolgáltató, telephelyi szolgáltató, telephelyi engedélyes, vagy PB-gáz forgalmazó által ellenőrzött, az üzemeltetési és karbantartási munkára vonatkozó műveleti utasítás.
+## 25.8.[^35] A fogyasztásmérő berendezés üzemeltetője, kezelője a fogyasztásmérő berendezéssel kapcsolatos üzemeltetési és karbantartási munkákat akkor végezheti, ha rendelkezésre áll a területi földgázelosztó, vezetékes PB-gáz szolgáltató, telephelyi szolgáltató, telephelyi engedélyes, vagy PB-gáz forgalmazó által ellenőrzött, az üzemeltetési és karbantartási munkára vonatkozó műveleti utasítás.
 
 ## 25.9. A legfeljebb 100 m3/h névleges együttes teljesítményű membrános (lemezházas) gázmérő elé, annak mérőkötésébe elzáró szerelvényt kell beépíteni.
 
-## 25.10. Ha a házi gáznyomás-szabályozó és a legfeljebb 6 m3/h névleges teljesítményű gázmérő közvetlenül, együtt kerül elhelyezésre, akkor elegendő a gáznyomás-szabályozó előtt közvetlenül elhelyezett elzáró szerelvény beépítése. Almérő a területi földgázelosztó, vezetékes PB-gáz szolgáltató, telephelyi szolgáltató, telephelyi engedélyes, vagy a PB-gáz forgalmazó feltételeinek és a műszaki biztonsági szabályzat előírásainak betartásával építhető be.
+## 25.10.[^36] Ha a házi gáznyomás-szabályozó és a legfeljebb 6 m3/h névleges teljesítményű gázmérő közvetlenül, együtt kerül elhelyezésre, akkor elegendő a gáznyomás-szabályozó előtt közvetlenül elhelyezett elzáró szerelvény beépítése. Egy helyrajzi számú ingatlanon egynél több fogyasztásmérő berendezés vagy almérő a területi földgázelosztó, vezetékes PB-gáz szolgáltató, telephelyi szolgáltató, telephelyi engedélyes vagy a PB-gáz forgalmazó műszaki, biztonsági feltételeinek és e szabályzat előírásainak betartásával építhető be.
 
 ## 25.11. A 100 m3/h-nál nagyobb névleges teljesítményű membrános (lemezházas) gázmérő gázfogyasztó készülékkel azonos helyiségben a szekunder mérésre alkalmazott turbinás-, forgódugattyús és mérőperemes gázmérőinek kivételével nem helyezhető el.
 
@@ -1036,7 +1070,7 @@
 
 ## 25.19. A külön mérőhelyiség légterének fűtése csak közvetett lehet.
 
-## 25.20. A külön mérőhelyiség 140 kW egység-hőterhelés és 1400 kW együttes hőterhelés feletti hőtermelő berendezés helyiségével egymásba nyílóan nem létesíthető.
+## 25.20.[^37] A külön mérőhelyiség 200 kW egység-hőterhelés és 1400 kW együttes hőterhelés feletti hőtermelő berendezés helyiségével egymásba nyílóan nem létesíthető.
 
 ## 25.21. Ha a gázellátás külön gáznyomás-szabályozóról történik és a mérőhelyiség a primer oldali (közműre vagy távvezetékre csatlakozó) gáznyomás-szabályozókra előírt védőtávolságnál a gáznyomás-szabályozó állomáshoz közelebb vagy azzal együtt kerül telepítésre, akkor a mérőhelyiségére is az adott gáznyomás-szabályozó állomásra érvényes előírások vonatkoznak.
 
@@ -1074,7 +1108,7 @@
 
 ## b) amelyben közvetlen vagy közvetett rendeltetési országként Magyarország (HU) nevesített, és
 
-## c) amely gázfogyasztó készülék gyári tanúsítványán feltüntetett egyik típusa megfelel a telepítés tervén, vagy az egyszerűsített készülékcsere bizonylaton feltüntetett változata szerinti egyetlen típusnak.
+## c)[^38] amely gázfogyasztó készülék EU-típusvizsgálati tanúsítványán feltüntetett típusok egyike, és megfelel a telepítés tervén vagy az egyszerűsített készülékcsere bizonylaton feltüntetett változata szerinti típusnak.
 
 ## 26.1.2. A 26.1.1. pontban meghatározott telepítési feltételek alkalmazandók az ismételten üzembe helyezésre kerülő használt vagy felújított, vagy magánforgalomban behozott gázfogyasztó készülékekre is.
 
@@ -1110,7 +1144,7 @@
 
 ## 26.2.10. Éghető anyagú hajlékony vezeték alkalmazása esetén hőhatásra záró szerelvényt kell a gázfogyasztó készülék elzáró szerelvénye és a hajlékony vezeték közé beépíteni.
 
-## 26.2.11. Falra szerelt gázfogyasztó készüléket megfelelő módon rögzíteni kell és szükség szerint alátámasztani.
+## 26.2.11.[^39] A gázfogyasztó készüléket a gyártói előírásában foglaltak szerint kell rögzíteni.
 
 ## 26.2.12. A gázfogyasztó készülék abban az esetben szerelhető kádhoz vagy zuhanyzóhoz 60 cm-nél kisebb vízszintes távolságban, ha a villamos részeinek védettsége megfelel az ilyen elhelyezés esetén várható hatásoknak és a készülék áramkörét legfeljebb 30 mA névleges kioldóáramú áram-védőkapcsolóval kell védeni. Az MSZ HD 60364-7-701:2007 [Kisfeszültségű villamos berendezések. 7–701. rész: Különleges berendezésekre vagy helyekre vonatkozó követelmények. Helyiségek fürdőkáddal vagy zuhannyal (IEC 60364-7-701 módosítva)], az MSZ HD 60364-4-41 [Kisfeszültségű villamos berendezések. 4–41. rész: Biztonság. Áramütés elleni védelem. (IEC 60364-4-41, módosítva)], az MSZ EN 60529 [Villamos gyártmányok burkolatai által nyújtott védettségi fokozatok (IEC 529:1989)] szabvány vonatkozó követelményeinek megfelelő gázfogyasztó készülékeket úgy kell tekinteni, hogy megfelelnek e pont követelményeinek.
 
@@ -1160,7 +1194,7 @@
 
 ## 26.3.7. Laboratóriumi, lángőrzés nélküli gázfogyasztó készülék esetében a fogyasztói vezetékbe a laboratóriumon kívül közös elzáró szerelvényt kell beépíteni, amelyet iskola, tanintézet vagy idegen által is látogatott helyen illetéktelenek elől elzárva, védőszekrényben kell elhelyezni. Az üzemeltetőnek ennek kezelésére alkalmazottai közül kijelölt személyt kell megbíznia.
 
-## 26.4. A „B” típusú, legfeljebb 140 kW együttes hőterhelésű gázfogyasztó készülékek elhelyezésének sajátos feltételei
+## 26.4.[^40] A „B” típusú, legfeljebb 200 kW együttes hőterhelésű gázfogyasztó készülékek elhelyezésének sajátos feltételei
 
 ## 26.4.1. Új felhasználói berendezés létesítése esetén, huzamos emberi tartózkodásra szolgáló helyiségekben és az azokkal légtér-összeköttetésben lévő helyiségekben B11, B12, B13, B21, B31, B41, B42, B43, B51 típusú gázfogyasztó készülék – a 26.4.2. pontban meghatározott kivétellel – nem helyezhető el.
 
@@ -1214,13 +1248,13 @@
 
 ## b) a felállítási helyiségben üzemeltetett, depresszió keltésére alkalmas gépi berendezés üzemel.
 
-## 26.5. A „C” típusú, egy helyiségben legfeljebb 140 kW együttes hőterhelésű gázfogyasztó készülékek elhelyezésének sajátos feltételei
+## 26.5.[^41] A „C” típusú, egy helyiségben legfeljebb 200 kW együttes hőterhelésű gázfogyasztó készülékek elhelyezésének sajátos feltételei
 
-## 26.5.1. A „C” típusú, egy helyiségben legfeljebb 140 kW együttes hőterhelésű gázfogyasztó készülékek elhelyezésénél a 26.2.1–26.2.12. pont általános előírásain túl a 26.13.1–26.13.5.1. pont előírásait is be kell tartani.
+## 26.5.1.[^42] A „C” típusú, egy helyiségben legfeljebb 200 kW együttes hőterhelésű gázfogyasztó készülékek elhelyezésénél a 26.2.1–26.2.12. pont általános előírásain túl a 26.13.1–26.13.5.1. pont előírásait is be kell tartani.
 
-## 26.5.2. A „C” típusú, egy helyiségben legfeljebb 140 kW együttes hőterhelésű gázfogyasztó készülék csak olyan égéstermék-elvezetőhöz csatlakoztatható, amely alkalmas a gázfogyasztó készülékek égéstermékének elvezetésére. Az MSZ EN 15287-2 (Égéstermék-elvezető berendezések. Égéstermék-elvezető berendezések tervezése, kivitelezése és üzembe helyezése. 2. rész: Zárt égésterű tüzelőberendezések égéstermék-elvezető berendezései) szabvány előírásainak megfelelő égéstermék-elvezetőt, vagy legalább egyenértékű műszaki megoldásokat úgy kell tekinteni, hogy azok megfelelnek e pont követelményeinek.
+## 26.5.2.[^43] A „C” típusú, egy helyiségben legfeljebb 200 kW együttes hőterhelésű gázfogyasztó készülék csak olyan égéstermék-elvezetőhöz csatlakoztatható, amely alkalmas a gázfogyasztó készülékek égéstermékének elvezetésére. Az MSZ EN 15287-2 (Égéstermék-elvezető berendezések. Égéstermék-elvezető berendezések tervezése, kivitelezése és üzembe helyezése. 2. rész: Zárt égésterű tüzelőberendezések égéstermék-elvezető berendezései) szabvány előírásainak megfelelő égéstermék-elvezetőt, vagy legalább egyenértékű műszaki megoldásokat úgy kell tekinteni, hogy azok megfelelnek e pont követelményeinek.
 
-## 26.5.3. A 70 kW-nál nagyobb, de legfeljebb 140 kW együttes hőterhelésű gázfogyasztó készülékek égéstermék kivezetését úgy kell kialakítani, hogy az megfeleljen az MSZ EN 15287-2 [Égéstermék elvezető berendezések. Égéstermék-elvezető berendezések tervezése, kivitelezése és üzembe helyezése. 2. rész: Zárt égésterű tüzelőberendezések égéstermék-elvezető berendezései] szabvány előírásainak, vagy az alkalmazott műszaki megoldás műszaki biztonsági szempontból a szabványossal legalább egyenértékű legyen.
+## 26.5.3.[^44] A 70 kW-nál nagyobb, de legfeljebb 200 kW együttes hőterhelésű gázfogyasztó készülékek égéstermék kivezetését úgy kell kialakítani, hogy az megfeleljen az MSZ EN 15287-2 (Égéstermék-elvezető berendezések. Égéstermék-elvezető berendezések tervezése, kivitelezése és üzembe helyezése. 2. rész: Zárt égésterű tüzelőberendezések égéstermék-elvezető berendezései) szabvány előírásainak, vagy az alkalmazott műszaki megoldás műszaki biztonsági szempontból a szabványossal legalább egyenértékű legyen. A 70 kW-nál nagyobb, de legfeljebb 200 kW hőterhelésű gázfogyasztó készüléknél égéstermék kivezetésére alkalmazott védőtávolságot megfelelőnek kell tekinteni, ha azt a tervező számítással vagy más módon igazolja.
 
 ## 26.5.4. A legfeljebb 70 kW együttes hőterhelésű kondenzációs készülékekben keletkező kondenzátum vízzáron keresztül, semlegesítés nélkül akkor vezethető közcsatornába, ha a közcsatornát üzemeltető a tervező részére mást nem ír elő.
 
@@ -1234,19 +1268,19 @@
 
 ## 26.5.9. Éghető vagy éghető burkolatú falszerkezetre gázfogyasztó készüléket felszerelni nem szabad, kivéve, ha a gázfogyasztó készülék méreteit legalább 0,1 m-rel meghaladó felületű falat nem éghető falszerkezettel kiváltják, vagy a gyártó előírása ettől kifejezetten eltér.
 
-## 26.5.10. A homlokzati levegő ellátású, vagy homlokzati égéstermék kivezetésű gázfogyasztó készülékkel érintett homlokzat utólagos hőszigetelése esetén a légellátás és az égéstermék elvezetés, valamint a hő- és tűzvédelem feltételeit az OTSZ, a műszaki biztonsági szabályzat és a gázfogyasztó készülék gyártója előírásainak betartásával biztosítani kell.
+## 26.5.10.[^45] A homlokzati levegő ellátású, vagy homlokzati égéstermék kivezetésű gázfogyasztó készülékkel érintett homlokzat utólagos hőszigetelése esetén a légellátást és az égéstermék elvezetést, valamint a tűzvédelmi követelményeknek történő megfelelést az OTSZ, a műszaki biztonsági szabályzat és a gázfogyasztó készülék gyártója előírásainak betartásával biztosítani kell.
 
-## 26.6. A 140 kW-nál nagyobb együttes hőterhelésű gázfogyasztó készülékek elhelyezésének kiegészítő követelményei
+## 26.6.[^46] A 200 kW egység-hőterhelésű vagy egy helyiségben 1400 kW-nál nagyobb együttes hőterhelésű gázfogyasztó készülékek elhelyezésének kiegészítő követelményei
 
-## 26.6.1. A 140 kW-nál nagyobb együttes hőterhelésű gázfogyasztó készülék helyiségét a hozzá technológiailag nem kapcsolódó terektől tűzgátló szerkezetekkel kell határolni.
+## 26.6.1.[^47] Az OTSZ-ben meghatározott gázfogyasztó készülék helyiségét a hozzá technológiailag nem kapcsolódó terektől tűzgátló szerkezetekkel kell határolni.
 
-## 26.6.2. A keletkező kondenzátumot 70 kW feletti együttes hőterhelés esetén a tervezőnek a közcsatorna-szolgáltatóval történt egyeztetésnek megfelelően kell a közcsatornába vezetnie. Az egyeztetéskor figyelembe kell venni a keletkező kondenzátum és a háztartási jellegű szennyvíz tervezett mennyiségét.
+## 26.6.2.[^48]
 
 ## 26.6.3. A gázfogyasztó készülék helyiségének szellőző berendezése tűzszakasz határt nem módosíthat.
 
-## 26.6.4. A 140 kW-nál nagyobb együttes hőterhelésű gázfogyasztó készülékkel azonos légtérben lévő villamos berendezések e helyiségen kívülről történő lekapcsolhatóságát biztosítani kell.
+## 26.6.4.[^49] A 200 kW-nál nagyobb együttes hőterhelésű gázfogyasztó készüléket vagy gázfelhasználói technológia rendszert tartalmazó helyiségben a készülékkel azonos légtérben lévő villamos berendezések kézi lekapcsolhatóságát a helyiségen kívülről biztosítani kell.
 
-## 26.6.5. A gázérzékelővel vezérelt önműködő leválasztás esetében a főkapcsolótól független részleválasztó kapcsolót kell létesíteni. A részleválasztás terjedjen ki az ellenőrzött légtérben lévő valamennyi villamos berendezésre, kivéve:
+## 26.6.5.[^50] A 200 kW egység-hőterhelésű és az 1400 kW együttes hőterhelés feletti gázfogyasztó készüléket vagy gázfelhasználói technológia rendszert tartalmazó helyiséghez a gázérzékelővel vezérelt önműködő leválasztás esetében a főkapcsolótól független, a helyiségen kívül elhelyezkedő részleválasztó kapcsolót kell létesíteni. Az önműködő részleválasztásnak ki kell terjednie az ellenőrzött légtérben lévő valamennyi villamos berendezésre, kivéve
 
 ## a) a vészszellőző berendezést,
 
@@ -1254,7 +1288,7 @@
 
 ## c) az ellenőrzött légtérben elhelyezett, robbanásbiztos kivitelű villamos berendezést.
 
-## 26.6.6. Minden, a helyiségben lévő, a részleválasztás után is feszültség alatt maradó, villamos berendezésnek robbanásbiztos kivitelűnek kell lennie. Az MSZ EN 60079-14 (Villamos gyártmányok robbanóképes gázközegben. Villamos berendezések létesítése robbanásveszélyes térségekben) szabványnak megfelelő, vagy azzal legalább egyenértékű műszaki megoldásokat úgy kell tekinteni, hogy azok teljesítik e pont követelményeit.
+## 26.6.6.[^51] Minden 200 kW egység-hőterhelés és 1400 kW együttes hőterhelés feletti gázfogyasztó készüléket vagy gázfelhasználói technológia rendszert tartalmazó helyiségben a részleválasztás után is feszültség alatt maradó, villamos berendezésnek robbanásbiztos kivitelűnek kell lennie. Az MSZ EN 60079-14 (Villamos gyártmányok robbanóképes gázközegben. Villamos berendezések létesítése robbanásveszélyes térségekben) szabványnak megfelelő vagy azzal legalább egyenértékű műszaki megoldásokat úgy kell tekinteni, hogy azok teljesítik e pont követelményeit.
 
 ## 26.6.7. A csatlakozóvezetékbe vagy a fogyasztói vezetékbe a gázfogyasztó készülék helyiségén kívül – közvetlenül az ajtó mellett – kézi működtetésű elzárót kell beépíteni úgy, hogy az a gázfogyasztó készülékhez tartozó valamennyi záró- és egyéb szerelvény előtt legyen. Az elzáró szerelvény helyét jelzőtáblával jelölni kell.
 
@@ -1262,19 +1296,19 @@
 
 ## 26.6.9. A szellőzőcső végét víz elleni védelemmel és DN 25 feletti méret esetén visszalobbanás-gátlóval kell ellátni.
 
-## 26.6.10. Az ipari és mezőgazdasági gázfogyasztó készülékeket olyan automatikus égésellenőrző, égésvezérlő berendezéssel kell ellátni, amely biztosítja a gázfogyasztó készülék égőinek biztonságos gyújtását, az égésellenőrzést, a tűztér megfelelő elő- és utószellőzését. Az MSZ EN ISO 23553-1 [Olajégők és gázfogyasztó készülékek biztonsági, szabályozó és vezérlőberendezései. Egyedi követelmények. 1. rész: Az olajégők zárószerelvényei (ISO 23553-1)], az MSZ EN 298 (Automatikus égőellenőrző rendszerek gáznemű vagy folyékony tüzelőanyaggal működő égőkhöz és készülékekhez), az MSZ EN 746-1 (Ipari hőtechnikai berendezések. 1. rész: Ipari hőtechnikai berendezések általános biztonsági követelményei) és az MSZ EN 746-2 (Ipari hőtechnikai berendezések. 2. rész: Tüzelő- és tüzelőanyag-ellátó rendszerek biztonsági követelményei) szabványok előírásainak megfelelő égésellenőrző és égésvezérlő berendezéseket, vagy ezekkel legalább egyenértékű műszaki megoldásokat úgy kell tekinteni, hogy teljesítik e pont követelményeit.
+## 26.6.10.[^52] Gázfelhasználó technológiai rendszerben a gázfogyasztó készülékeket olyan automatikus égésellenőrző, égésvezérlő berendezéssel kell ellátni, amely biztosítja a gázfogyasztó készülék égőinek biztonságos gyújtását, az égésellenőrzést, a tűztér megfelelő elő- és utószellőzését. Az MSZ EN ISO 23553-1 [Olajégők és gázfogyasztó készülékek biztonsági, szabályozó és vezérlőberendezései. Egyedi követelmények. 1. rész: Az olajégők zárószerelvényei (ISO 23553-1)], az MSZ EN 298 (Automatikus égőellenőrző rendszerek gáznemű vagy folyékony tüzelőanyaggal működő égőkhöz és készülékekhez), az MSZ EN 746-1 (Ipari hőtechnikai berendezések. 1. rész: Ipari hőtechnikai berendezések általános biztonsági követelményei) és az MSZ EN 746-2 (Ipari hőtechnikai berendezések. 2. rész: Tüzelő- és tüzelőanyag-ellátó rendszerek biztonsági követelményei) szabványok előírásainak megfelelő égésellenőrző és égésvezérlő berendezéseket, vagy ezekkel legalább egyenértékű műszaki megoldásokat úgy kell tekinteni, hogy teljesítik e pont követelményeit.
 
-## 26.6.11. Minden gázégő vagy együttműködő égőcsoport elé automatikusan működő záró-szerelvényt kell beépíteni, amely lángkimaradás vagy a tűztér nem megfelelő levegőellátása, vagy a fűtendő közeg túlmelegedése esetén az égők gázellátását megszünteti. Az MSZ EN 161 (Gázégők és gázfogyasztó készülékek automatikus záró szelepei) szabványnak megfelelő műszaki megoldásokat, vagy az ezekkel legalább egyenértékű műszaki megoldásokat úgy kell tekinteni, hogy azok megfelelnek e pont követelményeinek. Az automatikus záró szerelvény beépítésével a készülék elzáró nem helyettesíthető.
+## 26.6.11.[^53] A gázfelhasználó technológiai rendszer esetét kivéve minden, a harmonizált szabályozás hatálya alá tartozó gázégő vagy együttműködő égőcsoport elé automatikusan működő záró szerelvényt kell beépíteni, amely lángkimaradás vagy a tűztér nem megfelelő égési levegő ellátása vagy a fűtendő közeg túlmelegedése esetén az égők gázellátását megszünteti. 4 bar nyomásig az MSZ EN 161 (Gázégők és gázkészülékek automatikus záró szelepei) szabványnak megfelelő műszaki megoldásokat vagy az ezekkel legalább egyenértékű műszaki megoldásokat úgy kell tekinteni, hogy azok megfelelnek e pont követelményeinek. Az automatikus záró szerelvény beépítésével a készülékelzáró nem helyettesíthető. Az automatikus záró szerelvény adatainál a tervező igazolja az automatikus záró szerelvény rendeltetési célnak való megfelelőségét. A kiviteli terv készítőjének feladata a szerelvénysor elemeinek félreérthetetlen módon történő ábrázolása. A szabványnak, műszaki megoldásoknak való megfelelőséget a műszaki leírás készítője igazolja.
 
 ## 26.6.12. Az automatikus biztonsági záró- és a szabályozószerelvények működésének egymástól való függetlenségét a tervezőnek biztosítania kell.
 
-## 26.6.13. A tervezőnek a záró szerelvények beépítését a 26.1. táblázatban foglaltak alapján kell meghatároznia.
+## 26.6.13.[^54] A tervezőnek a záró szerelvények beépítését a 26.1. táblázatban foglaltak alapján kell meghatároznia.
 
 ## 26.1. táblázat
 
 |  | A | B | C |
 
-| 1. | Hőterhelés [kW] | Természetes huzattal működő égő vagy együttműködő égőcsoport | Mesterséges huzattal működő égő vagy együttműködő égőcsoport |
+| 1. | Együttes hőterhelés [kW] | Természetes huzattal működő égő vagy együttműködő égőcsoport | Mesterséges huzattal működő égő vagy együttműködő égőcsoport |
 
 | 2. | ≤ 70 | 2 × B | 2 × A |
 
@@ -1288,21 +1322,21 @@
 
 ## 26.6.16. A tervezőnek az automatikus záró szerelvény beépítését úgy kell megterveznie, hogy a készülék rendszerétől függően az egyes égőket vagy égőcsoportokat, vagy az egész gázbetáplálást lezárja.
 
-## 26.6.17. Ipari és mezőgazdasági berendezéseknél gázoldali kötésbe 140 kW hőterhelésig kényszerlevegős gázégőnél elegendő a gázégő előtt 2 db „B” osztályú elzáró szerelvény beépítése. Az MSZ EN 746-2 (Ipari hőtechnikai berendezések. 2. rész: Tüzelő- és tüzelőanyag-ellátó rendszerek biztonsági követelményei) szabvány szerinti megoldásokat úgy kell tekinteni, hogy azok teljesítik e pont követelményeit.
+## 26.6.17.[^55] A gázfelhasználó technológiai rendszer elé, a fogyasztói vezetékbe az elzáró szerelvény beépítését az MSZ EN 746-2:2010 (Ipari hőtechnikai berendezések. 2. rész: Tüzelő- és tüzelőanyag-ellátó rendszerek biztonsági követelményei) szabvány szerinti kell megvalósítani, azzal, hogy az EU-megfelelőségi nyilatkozatot vagy gyártói megfelelőségi nyilatkozatot vagy a szabvánnyal egyenértékű műszaki megoldást úgy kell tekinteni, hogy azok teljesítik e pont követelményeit. Az automatikus záró szerelvény adatainál a tervezőnek a záró szerelvény rendeltetési célnak való megfelelőségét igazolnia kell. A kiviteli tervben a tervező a szerelvénysor elemeit félreérthetetlen módon ábrázolja, és igazolja a szabvány szerinti műszaki megoldásnak való megfelelőséget.
 
 ## 26.6.18. A fogyasztói vezeték végpontjain és a jelentősebb szakaszait elzáró szerelvények előtt szellőztető vezetéket, vagy annak csatlakoztatási lehetőségét a tervezés során biztosítani kell. A szellőzőcső végét víz elleni védelemmel és DN 25 feletti méret esetén visszalobbanás-gátlóval kell ellátni.
 
 ## 26.7. A gázfogyasztó készülékek erősáramú villamos hálózatra történő csatlakoztatásának követelményei
 
-## 26.7.1. Az olyan gázfogyasztó készülék esetében, amelynek villamos hálózati csatlakoztatása van és áramfelvétele nem éri el a 30 A áramerősséget, a villamos hálózatnak csak olyan részéről táplálható, amelyet testzárlat esetében a tápláló áramkörbe, a tápláló elosztóba vagy az azt megelőző táplálásba iktatott 30 mA érzékenységű, vagy ennél érzékenyebb áram-védőkapcsoló önműködően lekapcsol.
+## 26.7.1.[^56] Az olyan gázfogyasztó készülék esetében, amelynek villamos hálózati csatlakoztatása van és áramfelvétele nem éri el a 32 A áramerősséget, a villamos hálózatnak csak olyan részéről táplálható, amelyet testzárlat esetében a tápláló áramkörbe, a tápláló elosztóba vagy az azt megelőző táplálásba iktatott 30 mA érzékenységű, vagy ennél érzékenyebb áram-védőkapcsoló önműködően lekapcsol.
 
-## 26.7.2. A villamos hálózati csatlakozással rendelkező gázfogyasztó készülék esetében a gázfogyasztó készülék közelében az áramkörbe iktatott hárompólusú (2s+f) megszakítóval vagy dugós csatlakoztatóval biztosítani kell a villamos hálózatról való leválasztás lehetőségét.
+## 26.7.2.[^57] A villamos hálózati csatlakozással rendelkező gázfogyasztó készülék esetében a gázfogyasztó készülék közelében az áramkörbe iktatott kétpólusú megszakítóval, leválasztást biztosító kapcsolóval vagy dugós csatlakoztatóval biztosítani kell a villamos hálózatról való leválasztás lehetőségét.
 
 ## 26.7.3. A villamos hálózati csatlakozással rendelkező gázfogyasztó készülék esetében a testet csak szerszámmal bontható módon össze kell kötni a villamos hálózat érintésvédelmi védővezetőjével. Ha a villamos csatlakoztatás dugós csatlakozóval megoldható, akkor ez az összekötés a dugós csatlakozó védőérintkezőjével is biztosítható.
 
-## 26.7.4. A villamos hálózati csatlakozással rendelkező gázfogyasztó készüléket csak olyan helyen szabad felszerelni, ahol a csatlakozóvezeték, a fogyasztói vezeték be van kötve az épület egyenpotenciálra hozó (EPH) hálózatba. Épületen belül új csatlakozóvezeték esetében ellenőrizni kell az EPH csomópontot, valamint a csatlakozóvezetéknek ezzel való összekötését. Gázfogyasztó készüléknek meglévő fogyasztói vezetékre való csatlakoztatása esetén ennek ellenőrzése elhagyható.
+## 26.7.4.[^58] A villamos hálózati csatlakozással rendelkező gázfogyasztó készüléket csak olyan helyen lehet felszerelni, ahol a csatlakozóvezeték, a fogyasztói vezeték be van kötve az épület védő egyenpotenciálú összekötést biztosító hálózatába. Épületen belül új csatlakozóvezeték létesítése esetén annak védő egyenpotenciálú hálózatba való bekötését meg kell valósítani.
 
-## 26.8. Robbanás elleni védelmi követelmények a legalább 140 kW egység-hőterhelésű gázfogyasztó készülék és az egy helyiségben elhelyezett, legalább 1400 kW együttes hőterhelésű gázfogyasztó készülékek esetében
+## 26.8.[^59] Robbanás elleni védelmi követelmények a legalább 200 kW egység-hőterhelésű gázfogyasztó készülék és az egy helyiségben elhelyezett, legalább 1400 kW együttes hőterhelésű gázfogyasztó készülékek esetében
 
 ## 26.8.1. A robbanási helyzet hatásai elleni védelmet
 
@@ -1320,17 +1354,13 @@
 
 ## b) a gáz ARH 40 tf%-án szüntesse meg a felhasználói berendezés gázellátását és az esetleges egyéb tüzelést, valamint hajtsa végre a helyiség villamos szempontból gyújtóforrásként számításba vehető berendezéseinek leválasztását, kivéve a vészszellőzést és vészvilágítást.
 
-## 26.8.3. A gázkoncentráció érzékelő és beavatkozó készülék által indított vészszellőzés óránként legalább tízszeres befúvásos légcserét biztosítson, és az általa indított vészszellőző berendezésnek szerkezetileg és működés szempontjából függetlennek kell lennie a helyiség szellőző rendszerétől.
+## 26.8.3.[^60]
 
 ## 26.8.4. Állandó felügyelettel üzemelő gázfelhasználó technológiai rendszer, valamint mezőgazdasági célú gázfogyasztó készülék esetében az ARH 20 és 40 tf%-ához tartozóan a 26.8.2. pontban meghatározott funkciók végrehajtása akkor mellőzhető, ha az a technológiai folyamatban zavart okozhat, egyéb veszélyhelyzetet idézhet elő.
 
 ## 26.8.5. Az 1400 kW-nál kisebb együttes hőterhelésű gázfogyasztó készülékek helyiségében a gázkoncentráció érzékelése és a beavatkozás módja kialakítható úgy is, hogy a gázérzékelő csak egy jelzőhatárral működik, és ennél a jelzőhatárnál együttesen teljesíti az ARH 20 és 40 tf%-ához tartozó funkciókat.
 
-## 26.8.6. Nem lehet eltekinteni a hasadó vagy hasadó-nyíló felület alkalmazásától:
-
-## a) iskola, óvoda-bölcsőde, kórház, színház, filmszínház, áruház és más, tömegek befogadására alkalmas épületekben,
-
-## b) a vegyes rendeltetésű épületben, ha a tömegtartózkodásra szolgáló helyiségek alapterülete az épület szintenkénti összes alapterületének 40%-át meghaladja, vagy ha az előző tömegtartózkodásra szolgáló helyiségek közvetlenül a tüzelőberendezés helyisége felett vagy mellett vannak.
+## 26.8.6.[^61]
 
 ## 26.8.7. Ha a helyiségben gáztüzelésű és szilárd tüzelésű berendezések együtt üzemelnek, akkor a robbanási túlnyomás levezetésére kizárólag hasadó-nyíló felület alkalmazható.
 
@@ -1347,6 +1377,8 @@
 ## b) a meglévő nyílászárók tömítése, ha az olyan nyílászárót érint, amely a felhasználói berendezés létesítésének műszaki-biztonsági szempontok alapján felülvizsgált terve szerint a gázfogyasztó készülék üzemére hatással van, és
 
 ## c) elszívó szellőző ventilátorok, konyhai páraelszívók beépítése.
+
+## d)[^62] amennyiben vegyes tüzelésű kályhát, kandallót vagy cserépkályhát telepítenek, vagy egyéb módon elszívó ventilátorral szerelt berendezést, hordozható beltéri légkondicionáló berendezést üzemeltetnek.
 
 ## 26.9.4. A már üzemelő gázfogyasztó készülékek légellátási feltételeinek megváltozása esetén a gázfogyasztó készülékek légellátását a tervezőnek biztosítania kell.
 
@@ -1380,9 +1412,9 @@
 
 ## 26.10.3. A 26.10.2. pont c) alpontjában meghatározott figyelemfelhívásnak az átvételét a felhasználónak aláírásával igazolnia kell.
 
-## 26.10.4. Ha a 26.10.2 pontban meghatározott követelmények közül egy vagy több nem teljesül, akkor a gázfogyasztó készülék elhelyezésére szolgáló helyiség szellőzőlevegő-térfogatáramát a tervezőnek úgy kell meghatároznia, hogy a gázfogyasztó készülék egyidejű hőterhelésére vonatkoztatva a legalább 12 m3/h/kW érték biztosított legyen.
+## 26.10.4.[^63] Ha a 26.10.2 pontban meghatározott követelmények közül egy vagy több nem teljesül, akkor a gázfogyasztó készülék elhelyezésére szolgáló helyiség szellőzőlevegő-térfogatáramát a tervezőnek úgy kell meghatároznia, hogy a gázfogyasztó készülék vagy készülékek együttes hőterhelésére vonatkoztatva a legalább 12 m3/h/kW érték biztosított legyen.
 
-## 26.10.5. A lakossági fogyasztónál felszerelt gázfogyasztó készülékek egyidejű hőterhelését az adattábla szerinti névleges hőterhelés (kW) és a 26.2. táblázatban megadott egyidejűségi tényezők szorzataként kell kiszámítani.
+## 26.10.5.[^64] A lakossági fogyasztónál felszerelt gázfogyasztó készülékek együttes hőterhelését az adattábla szerinti névleges hőterhelés (kW) és a 26.2. táblázatban megadott egyidejűségi tényezők szorzataként kell kiszámítani.
 
 ## 26.2. táblázat
 
@@ -1416,7 +1448,7 @@
 
 ## 26.11.5. A légellátási tényező értékét a készülék égéstermék elvezetőjében mért CO2 vagy O2 értékek alapján a gázfogyasztó készülék üzembe helyezőjének ellenőriznie és írásban rögzítenie kell.
 
-## 26.11.6. A tervezőnek biztosítania kell, hogy az áramlásbiztosító nélküli „B” típusú gázfogyasztó készülék esetében a gázfogyasztó készülék helyiségének szellőzőlevegő-térfogatárama legalább a gázfogyasztó készülék névleges hőteljesítményéhez tartozó égéstermék tömegáram alapján meghatározott égési levegő térfogatáram legyen.
+## 26.11.6.[^65] A tervezőnek biztosítania kell az áramlásbiztosító nélküli „B” típusú gázfogyasztó készülék számára szükséges égési levegőellátást, továbbá a gázfogyasztó készülék felállítási helyiségében, az azzal összenyitható légtérben található további tüzelőberendezések és egyéb légtechnikai berendezések megfelelő együttes levegőellátását úgy, hogy ezek biztonságos üzeme bármely lehetséges üzemi állapotban biztosított legyen.
 
 ## 26.11.7. Áramlásbiztosítóval rendelkező gázfogyasztó készülékek esetén, ha a szellőző levegőnek a helyiségbe való beáramlásához, valamint a gázfogyasztó készülék égéstermék kilépésénél szükséges nyomáskülönbség összegét az égéstermék-elvezető huzata nem biztosítja, a tervezőnek a kiviteli tervben kell megadnia a megfelelő műszaki megoldást a következők szerint:
 
@@ -1454,15 +1486,19 @@
 
 ## c) a homlokzati hőszigetelési munkák idejére a gázfogyasztó készüléket le kell választani a fogyasztói vezetékről.
 
-## 26.13.5. A 70 kW-nál nem nagyobb együttes hőterhelésű, „C” típusú gázfogyasztó készülékek égéstermék kivezetésének épület homlokzatán (külső falán) való elhelyezésére vonatkozó feltételek
+## 26.13.5.[^66] A „C” típusú gázfogyasztó készülékek égéstermék kivezetésének épület homlokzatán (külső falán) való elhelyezésére vonatkozó feltételek
 
 ## 26.13.5.1. A „C” típusú gázfogyasztó készülékek égéstermékének homlokzati, külső fali kivezetését úgy kell megtervezni, hogy a kiáramló égéstermék ne jelentsen veszélyt az épületben tartózkodók számára, egészségüket ne veszélyeztesse, továbbá a kiáramló égéstermék az épület meglévő berendezéseinek működését hátrányosan ne befolyásolja. Az MSZ EN 15287-2 (Égéstermék elvezető berendezések. Égéstermék-elvezető berendezések tervezése, kivitelezése és üzembe helyezése. 2. rész: Zárt égésterű tüzelőberendezések égéstermék-elvezető berendezései) szabványnak megfelelő, az ezekkel legalább egyenértékű más műszaki megoldásokat úgy kell tekinteni, hogy azok e pont követelményeinek megfelelnek.
+
+## 26.13.5.2.[^67] A homlokzati kivezetéssel rendelkező gázfogyasztó készülékek égési levegőt beszívó és égéstermékét kivezető tartozékát a külső falsíkon kell elhelyezni. A kivezetéseket tilos a külső falsíkhoz képest kifejezetten besüllyeszteni, kúpok vagy lépcsős felületek kialakításával. A kivezetések környezetében ablakpárkányok és a kivezetés egyik szélétől 200 mm-nél távolabb lévő díszítési célú, 5 cm-t meg nem haladó falvastagság-változások megengedettek.
+
+## 26.13.5.3.[^68] A C6 típusú gázfogyasztó készülékek égéstermék elvezetése az MSZ EN 1749 [Gázkészülékek osztályozása az égéslevegő-ellátás és az égéstermék-elvezetés módja (típusok)] szabványban szereplő, bármelyik „C” típusú kialakításra megadott elrendezésben kialakítható, amennyiben a gázfogyasztó készülék gyártója a kialakítható „C” típusok körét nem korlátozza. A gázfogyasztó készülék égéstermékének elvezetését a gázfogyasztó készülék gyártójának, égéstermék-elvezető érintettsége esetén az égéstermék-elvezető gyártójának előírásai alapján kell kialakítani, figyelemmel a kivezetés környezetére.
 
 ## 26.14. A gyűjtő és központi rendszerű égéstermék-elvezetőhöz csatlakozó „B” és „C” típusú gázfogyasztó készülékek légellátásával és égéstermék elvezetésével kapcsolatos sajátos követelmények
 
 ## 26.14.1. Lakóépületek új, egy vagy több építményszintről igénybe vett gyűjtő rendszerű égéstermék-elvezetői csak „C” típusú gázfogyasztó készülékek csatlakoztatására alkalmas kivitelűek lehetnek.
 
-## 26.14.2. Ha lakóépületben a gázfogyasztó készülékek elhelyezése egy közös kazánházban történik és központi rendszerű égéstermék-elvezetőhöz csatlakoznak (kaszkád telepítés), akkor megengedett „B” típusú gázfogyasztó készülékek telepítése is.
+## 26.14.2.[^69] Ha lakóépületben a gázfogyasztó készülékek elhelyezése egy közös kazánházban történik és központi rendszerű égéstermék-elvezetőhöz csatlakoznak (kaszkád telepítés), akkor megengedett „B2” típusú gázfogyasztó készülékek telepítése is.
 
 ## 26.14.3. Az égéstermék elvezetését és a levegő bevezetését valamennyi rácsatlakozó gázfogyasztó készülék figyelembevételével kell tervezni és méretezni.
 
@@ -1554,23 +1590,23 @@
 
 ## 28.13. Ha a csatlakozóvezeték, fogyasztói vezeték, telephelyi vezeték üzemi nyomása nagyobb, mint 16 bar, a szilárdsági próbanyomás értékét a csatlakozóvezeték, a fogyasztói vezeték, a telephelyi vezeték, üzemi nyomásától függően 25 bar tervezési nyomásig a gázelosztó vezetékek biztonsági követelményeiről és a Gázelosztó Vezetékek Biztonsági Szabályzatáról szóló rendelet, a fölött a szénhidrogén szállítóvezetékek biztonsági követelményeiről és a Szénhidrogén Szállítóvezetékek Biztonsági Szabályzata közzétételéről szóló rendelet előírásai szerint a tervezőnek kell meghatároznia.
 
-## 28.14. A legfeljebb 0,1 bar üzemi nyomás esetében a tömörségi próba értéke 150 mbar. A 0,1 bar-t meghaladó üzemi nyomás esetében a tömörségi próba értékének legalább akkorának kell lennie, mint a legnagyobb üzemi nyomás, de nem haladhatja meg a maximális üzemi nyomás 150%-át.
+## 28.14.[^70] A legfeljebb 0,1 bar üzemi nyomás esetében a tömörségi próba értéke 150 mbar. A 0,1 bart meghaladó üzemi nyomás esetében a tömörségi próba értékét a tervező határozza meg, de annak értéke nem haladhatja meg a szilárdsági nyomáspróba értékét.
 
 ## 28.15. Nagy-középnyomású PB-gáz vezeték tömörségi próbája egyensúlyi gőznyomáson is elvégezhető, ha annak értéke legalább 3 bar. A tömörségi próba időtartama az állandósult állapot elérését követően legalább 10 perc.
 
 ## 28.16. A tömörségi próba akkor tekinthető eredményesnek, ha a vizsgált létesítményen szivárgás, maradandó alakváltozás, és a külső légnyomás- és hőmérsékletváltozás által indokoltan bekövetkezett nyomásváltozáson túli nyomásváltozás nem következett be.
 
-## 28.17. Egyszerűsített készülékcsere során a szereléssel érintett oldható kötések tömörségét üzemi nyomáson
+## 28.17.[^71] Egyszerűsített készülékcsere során a szereléssel érintett oldható kötések tömörségét üzemi nyomáson
 
 ## a) haszongázzal,
 
 ## b) szivárgásjelző folyadékkal,
 
-## c) nyomásmérő műszerrel, vagy
+## c) nyomásmérő műszerrel vagy
 
 ## d) a haszongázra hitelesített vagy használati etalonnal ellenőrzött érzékelő- vagy mérőműszerrel
 
-## végzendő alkalmasság-vizsgálattal kell ellenőrizni.
+## kell ellenőrizni.
 
 ## 28.18. A gázfogyasztó készülékek égéstermék elvezetésének, levegő bevezetésének vizsgálata során a gázfogyasztó készülék típusát a felhasználási hely kialakítására vagy átalakítására vonatkozó kiviteli terven azonosított típus, egyszerűsített készülékcsere esetén a szerelési nyilatkozaton azonosított típus szerint kell azonosítani. A gázfogyasztó készülék üzembe helyezésekor a gázfogyasztó készülék kiviteli tervének és a szerelési nyilatkozatnak megfelelő típusát a típus feltüntetésével az üzembe helyező írásban igazolja.
 
@@ -1600,7 +1636,7 @@
 
 ## d) a kivitelező az anyagok, és tartozékok, és robbanásbiztos kivitelű berendezések megfelelőségét igazoló dokumentumokat a megvalósulási dokumentációhoz csatolta;
 
-## e) az érintésvédelmi szabványossági felülvizsgáló által kiadott érintésvédelmi szabványossági igazolása rendelkezésre áll;
+## e)[^72] a villamos biztonsági felülvizsgálatot elvégző felülvizsgáló által kiadott érintésvédelmi szabványossági igazolása rendelkezésre áll;
 
 ## f) a műszaki kialakítástól függően a szükséges egyéb szakvélemények rendelkezésre állnak;
 
@@ -1654,13 +1690,27 @@
 
 ## 28.38. Az üzemen kívül helyezett csatlakozóvezeték, fogyasztói vezeték, telephelyi vezeték újbóli gáz alá helyezésére a tömörségi próba, hat hónapon túli üzemszünet esetében a szilárdsági nyomáspróba és a tömörségi próba eredményes elvégzését követően kerülhet sor.
 
-## 28.39. A gázmérő bármilyen okból történő leszerelését csak a területi földgázelosztó, vezetékes PB-gáz szolgáltató, telephelyi szolgáltató, telephelyi engedélyes, a PB-gáz forgalmazó, vagy azok megbízottja végezheti.
+## 28.39.[^73] A fogyasztásmérő berendezés bármilyen okból történő leszerelését csak a területi földgázelosztó, vezetékes PB-gáz szolgáltató, telephelyi szolgáltató, telephelyi engedélyes, a PB-gáz forgalmazó, vagy azok megbízottja végezheti.
 
-## 28.40. A felhasználási helyen a csatlakozóvezeték és a fogyasztói vezeték üzemen kívül helyezése esetén a gázmentesítést a gázszerelők és gázkészülék-javítók tevékenysége folytatásának részletes feltételeiről, az e tevékenységek bejelentésének és nyilvántartásának rendjéről, valamint az e tevékenységekre vonatkozó kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményekről szóló miniszteri rendelet 1. melléklet szerinti táblázat 2. sor B oszlopa szerinti végzettséggel és üzembe helyezésre jogosultsággal rendelkező gázszerelő végezheti.
+## 28.40.[^74] A felhasználási helyen a csatlakozóvezeték és a fogyasztói vezeték üzemen kívül helyezése esetén a gázmentesítést a gázszerelők és gázkészülék-javítók tevékenysége folytatásának részletes feltételeiről, az e tevékenységek bejelentésének és nyilvántartásának rendjéről, valamint az e tevékenységekre vonatkozó kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményekről szóló 42/2017. (XII. 11.) NGM rendelet 1. mellékletében foglalt táblázat B:2 és B:3 mezője szerinti végzettséggel és üzembe helyezésre jogosultsággal rendelkező gázszerelő végezheti.
+
+## 28.41.[^75] Az üzemeltetés követelményei gázfelhasználói technológiai rendszerekre
+
+## 28.41.1. A 70 kW együttes hőterhelést meghaladó gázfelhasználó technológiai rendszerek esetében az első és átalakítás utáni ismételt használatbavételének jóváhagyásához a próbaüzem időtartama legfeljebb hét hónap.
+
+## 28.41.2. A próbaüzem csak sikeres és jegyzőkönyvezett hidegüzemi vizsgálatot követően kezdhető meg.
+
+## 28.41.3. A próbaüzem időtartalma alatt fokozott figyelemmel és állandó kezelői személyzet mellett használható a gázfelhasználói technológiai rendszer.
+
+## 28.41.4. A 290 kW alatti névleges hőterhelésű gázfogyasztó készülék és gázfelhasználó technológiai rendszer kezelését az annak kezelésére kioktatott személy végezheti.
+
+## 28.41.5. A gázfelhasználó technológiai rendszer biztonságos üzemeltetését lehetővé tévő kezelők létszámát a gázfelhasználó technológiai rendszer biztonsági szintje és a helyi adottságok figyelembevételével a felhasználónak kell meghatároznia és biztosítania.
+
+## 28.41.6. A gázfelhasználó technológiai rendszert üzemeltető felhasználónak a gyártó előírásait figyelembe véve üzemeltetési utasítást kell készítenie, mely tartalmazza a gázfelhasználó technológiai rendszer indítására, normál üzemmódjára, leállítására, vészleállítására vonatkozó eljárásokat és a rendkívüli események esetében szükséges teendőket. A gázfelhasználó technológiai rendszert üzemeltető felhasználó minden szükséges intézkedést megtesz a rendellenesség elhárítása érdekében.
 
 2. melléklet a 3/2020. (I. 13.) ITM rendelethez
 
-## Olajfogyasztó technológiai rendszerek és gáztárolók műszaki biztonsági szabályzata
+Olajfogyasztó technológiai rendszerek és gáztárolók műszaki biztonsági szabályzata
 
 1. Fogalommeghatározások
 
@@ -1765,3 +1815,76 @@ b) 6 hónapnál hosszabb ideig nem üzemeltetett gáztároló ismételt üzembe 
 4.4. Valamennyi gáztároló-vizsgálatról jegyzőkönyvet kell felvenni, amely rögzíti a vizsgálat körülményeit és eredményeit.
 
 4.5. További üzemelésre nem alkalmas minősítés esetén a gáztárolót a technológiai előírások szerint le kell állítani, üzemen kívül kell helyezni.
+
+[^4]: Az 1. melléklet 1. pont 5. alpontja a 24/2023. (IX. 27.) GFM rendelet 2. § 2. pontja szerint módosított szöveg.
+[^5]: Az 1. melléklet 1. pont 7. alpontja a 24/2023. (IX. 27.) GFM rendelet 2. § 3. pontja szerint módosított szöveg.
+[^6]: Az 1. melléklet 1. pont 18. alpontja a 24/2023. (IX. 27.) GFM rendelet 1. §-ával megállapított szöveg.
+[^7]: Az 1. melléklet 1. pont 25. alpontja a 24/2023. (IX. 27.) GFM rendelet 2. § 4. pontja szerint módosított szöveg.
+[^8]: Az 1. melléklet 1. pont 27. alpontja a 24/2023. (IX. 27.) GFM rendelet 1. §-ával megállapított szöveg.
+[^9]: Az 1. melléklet 1. pont 29. alpontja a 24/2023. (IX. 27.) GFM rendelet 2. § 5. pontja szerint módosított szöveg.
+[^10]: Az 1. melléklet 1. pont 33. alpont l) pontja a 24/2023. (IX. 27.) GFM rendelet 2. § 6. pontja szerint módosított szöveg.
+[^11]: Az 1. melléklet 1. pont 38. alpontja a 24/2023. (IX. 27.) GFM rendelet 1. §-ával megállapított szöveg.
+[^12]: Az 1. melléklet 1. pont 39. alpontja a 24/2023. (IX. 27.) GFM rendelet 1. §-ával megállapított szöveg.
+[^13]: Az 1. melléklet 1. pont 51. alpontja a 24/2023. (IX. 27.) GFM rendelet 1. §-ával megállapított szöveg.
+[^14]: Az 1. melléklet 1. pont 55. alpontja a 24/2023. (IX. 27.) GFM rendelet 1. §-ával megállapított szöveg.
+[^15]: Az 1. melléklet 2. pont 2.2. alpont de) alpontja a 24/2023. (IX. 27.) GFM rendelet 2. § 7. pontja szerint módosított szöveg.
+[^16]: Az 1. melléklet 2. pont 2.3.12. alpontja a 24/2023. (IX. 27.) GFM rendelet 2. § 8. pontja szerint módosított szöveg.
+[^17]: Az 1. melléklet 2. pont 2.3.17. alpontja a 24/2023. (IX. 27.) GFM rendelet 1. §-ával megállapított szöveg.
+[^18]: Az 1. melléklet 2. pont 2.3.27. alpontját a 24/2023. (IX. 27.) GFM rendelet 1. §-a iktatta be.
+[^19]: Az 1. melléklet 2. pont 2.3.28. alpontját a 24/2023. (IX. 27.) GFM rendelet 1. §-a iktatta be.
+[^20]: Az 1. melléklet 2. pont 2.4.1. alpontja a 24/2023. (IX. 27.) GFM rendelet 1. §-ával megállapított szöveg.
+[^21]: Az 1. melléklet 2. pont 2.4.2. alpontja a 24/2023. (IX. 27.) GFM rendelet 1. §-ával megállapított szöveg.
+[^22]: Az 1. melléklet 2. pont 2.4.3. alpont d) alpontja a 24/2023. (IX. 27.) GFM rendelet 3. § a) pontja szerint módosított szöveg.
+[^23]: Az 1. melléklet 2. pont 2.5.2. alpontja a 24/2023. (IX. 27.) GFM rendelet 1. §-ával megállapított szöveg.
+[^24]: Az 1. melléklet 2. pont 2.6.1. alpontja a 24/2023. (IX. 27.) GFM rendelet 1. §-ával megállapított szöveg.
+[^25]: Az 1. melléklet 2. pont 2.6.3. alpontja a 24/2023. (IX. 27.) GFM rendelet 2. § 9. pontja szerint módosított szöveg.
+[^26]: Az 1. melléklet 2. pont 2.6.8. alpontja a 24/2023. (IX. 27.) GFM rendelet 2. § 10. pontja szerint módosított szöveg.
+[^27]: Az 1. melléklet 5. pont 5.19. alpontja a 24/2023. (IX. 27.) GFM rendelet 1. §-ával megállapított szöveg.
+[^28]: Az 1. melléklet 7. pont 7.8. alpontjában szereplő 7.2. táblázat A:3 mezője a 24/2023. (IX. 27.) GFM rendelet 2. § 11. pontja szerint módosított szöveg.
+[^29]: Az 1. melléklet 7. pont 7.10. alpontja a 24/2023. (IX. 27.) GFM rendelet 1. §-ával megállapított szöveg.
+[^30]: Az 1. melléklet 8. pont 8.1. alpontja a 24/2023. (IX. 27.) GFM rendelet 1. §-ával megállapított szöveg.
+[^31]: Az 1. melléklet 9. pont 9.6. alpontja a 24/2023. (IX. 27.) GFM rendelet 1. §-ával megállapított szöveg.
+[^32]: Az 1. melléklet 10. pont 10.7. alpontja a 24/2023. (IX. 27.) GFM rendelet 3. § b) pontja szerint módosított szöveg.
+[^33]: Az 1. melléklet 15. pont 15.5.2. alpontja a 24/2023. (IX. 27.) GFM rendelet 1. §-ával megállapított szöveg.
+[^34]: Az 1. melléklet 25. pont 25.1. alpontja a 24/2023. (IX. 27.) GFM rendelet 1. §-ával megállapított szöveg.
+[^35]: Az 1. melléklet 25. pont 25.8. alpontja a 24/2023. (IX. 27.) GFM rendelet 2. § 12. pontja szerint módosított szöveg.
+[^36]: Az 1. melléklet 25. pont 25.10. alpontja a 24/2023. (IX. 27.) GFM rendelet 1. §-ával megállapított szöveg.
+[^37]: Az 1. melléklet 25. pont 25.20. alpontja a 24/2023. (IX. 27.) GFM rendelet 2. § 13. pontja szerint módosított szöveg.
+[^38]: Az 1. melléklet 26. pont 26.1.1. alpont c) pontja a 24/2023. (IX. 27.) GFM rendelet 1. §-ával megállapított szöveg.
+[^39]: Az 1. melléklet 26. pont 26.2.11. alpontja a 24/2023. (IX. 27.) GFM rendelet 1. §-ával megállapított szöveg.
+[^40]: Az 1. melléklet 26. pont 26.4. alpontja a 24/2023. (IX. 27.) GFM rendelet 2. § 13. pontja szerint módosított szöveg.
+[^41]: Az 1. melléklet 26. pont 26.5. alpontja a 24/2023. (IX. 27.) GFM rendelet 2. § 13. pontja szerint módosított szöveg.
+[^42]: Az 1. melléklet 26. pont 26.5.1. alpontja a 24/2023. (IX. 27.) GFM rendelet 2. § 13. pontja szerint módosított szöveg.
+[^43]: Az 1. melléklet 26. pont 26.5.2. alpontja a 24/2023. (IX. 27.) GFM rendelet 2. § 13. pontja szerint módosított szöveg.
+[^44]: Az 1. melléklet 26. pont 26.5.3. alpontja a 24/2023. (IX. 27.) GFM rendelet 1. §-ával megállapított szöveg.
+[^45]: Az 1. melléklet 26. pont 26.5.10. alpontja a 24/2023. (IX. 27.) GFM rendelet 2. § 14. pontja szerint módosított szöveg.
+[^46]: Az 1. melléklet 26. pont 26.6. alpontja a 24/2023. (IX. 27.) GFM rendelet 1. §-ával megállapított szöveg.
+[^47]: Az 1. melléklet 26. pont 26.6.1. alpontja a 24/2023. (IX. 27.) GFM rendelet 1. §-ával megállapított szöveg.
+[^48]: Az 1. melléklet 26. pont 26.6.2. alpontját a 24/2023. (IX. 27.) GFM rendelet 3. § c) pontja hatályon kívül helyezte.
+[^49]: Az 1. melléklet 26. pont 26.6.4. alpontja a 24/2023. (IX. 27.) GFM rendelet 1. §-ával megállapított szöveg.
+[^50]: Az 1. melléklet 26. pont 26.6.5. alpontja a 24/2023. (IX. 27.) GFM rendelet 1. §-ával megállapított szöveg.
+[^51]: Az 1. melléklet 26. pont 26.6.6. alpontja a 24/2023. (IX. 27.) GFM rendelet 1. §-ával megállapított szöveg.
+[^52]: Az 1. melléklet 26. pont 26.6.10. alpontja a 24/2023. (IX. 27.) GFM rendelet 2. § 15. pontja szerint módosított szöveg.
+[^53]: Az 1. melléklet 26. pont 26.6.11. alpontja a 24/2023. (IX. 27.) GFM rendelet 1. §-ával megállapított szöveg.
+[^54]: Az 1. melléklet 26. pont 26.6.13. alpontjában szereplő 26.1. táblázat A:1 mezője a 24/2023. (IX. 27.) GFM rendelet 2. § 16. pontja szerint módosított szöveg.
+[^55]: Az 1. melléklet 26. pont 26.6.17. alpontja a 24/2023. (IX. 27.) GFM rendelet 1. §-ával megállapított szöveg.
+[^56]: Az 1. melléklet 26. pont 26.7.1. alpontja a 24/2023. (IX. 27.) GFM rendelet 2. § 17. pontja szerint módosított szöveg.
+[^57]: Az 1. melléklet 26. pont 26.7.2. alpontja a 24/2023. (IX. 27.) GFM rendelet 1. §-ával megállapított szöveg.
+[^58]: Az 1. melléklet 26. pont 26.7.4. alpontja a 24/2023. (IX. 27.) GFM rendelet 1. §-ával megállapított szöveg.
+[^59]: Az 1. melléklet 26. pont 26.8. alpontja a 24/2023. (IX. 27.) GFM rendelet 2. § 13. pontja szerint módosított szöveg.
+[^60]: Az 1. melléklet 26. pont 26.8.3. alpontját a 24/2023. (IX. 27.) GFM rendelet 3. § d) pontja hatályon kívül helyezte.
+[^61]: Az 1. melléklet 26. pont 26.8.6. alpontját a 24/2023. (IX. 27.) GFM rendelet 3. § e) pontja hatályon kívül helyezte.
+[^62]: Az 1. melléklet 26. pont 26.9.3. alpont d) pontját a 24/2023. (IX. 27.) GFM rendelet 1. §-a iktatta be.
+[^63]: Az 1. melléklet 26. pont 26.10.4. alpontja a 24/2023. (IX. 27.) GFM rendelet 2. § 18. pontja szerint módosított szöveg.
+[^64]: Az 1. melléklet 26. pont 26.10.5. alpontja a 24/2023. (IX. 27.) GFM rendelet 2. § 19. pontja szerint módosított szöveg.
+[^65]: Az 1. melléklet 26. pont 26.11.6. alpontja a 24/2023. (IX. 27.) GFM rendelet 1. §-ával megállapított szöveg.
+[^66]: Az 1. melléklet 26. pont 26.13.5. alpontja a 24/2023. (IX. 27.) GFM rendelet 3. § f) pontja szerint módosított szöveg.
+[^67]: Az 1. melléklet 26. pont 26.13.5. alpont 26.13.5.2. pontját a 24/2023. (IX. 27.) GFM rendelet 1. §-a iktatta be.
+[^68]: Az 1. melléklet 26. pont 26.13.5. alpont 26.13.5.3. pontját a 24/2023. (IX. 27.) GFM rendelet 1. §-a iktatta be.
+[^69]: Az 1. melléklet 26. pont 26.14.2. alpontja a 24/2023. (IX. 27.) GFM rendelet 2. § 20. pontja szerint módosított szöveg.
+[^70]: Az 1. melléklet 28. pont 28.14. alpontja a 24/2023. (IX. 27.) GFM rendelet 1. §-ával megállapított szöveg.
+[^71]: Az 1. melléklet 28. pont 28.17. alpontja a 24/2023. (IX. 27.) GFM rendelet 1. §-ával megállapított szöveg.
+[^72]: Az 1. melléklet 28. pont 28.27. pont e) alpontja a 24/2023. (IX. 27.) GFM rendelet 2. § 21. pontja szerint módosított szöveg.
+[^73]: Az 1. melléklet 28. pont 28.39. alpontja a 24/2023. (IX. 27.) GFM rendelet 2. § 22. pontja szerint módosított szöveg.
+[^74]: Az 1. melléklet 28. pont 28.40. alpontja a 24/2023. (IX. 27.) GFM rendelet 1. §-ával megállapított szöveg.
+[^75]: Az 1. melléklet 28. pont 28.41. alpontját a 24/2023. (IX. 27.) GFM rendelet 1. §-a iktatta be.

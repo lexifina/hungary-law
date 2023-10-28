@@ -1,8 +1,6 @@
-## úgy kell megtervezni, létesíteni, telepíteni, üzembe helyezni, üzemeltetni és rendszeresen karbantartani, hogy az megfeleljen az 1. mellékletben szereplő műszaki biztonsági szabályzatban meghatározott műszaki biztonsági követelményeknek.
-
 ## 3. Gázipari Műszaki Szakbizottság működése és feladatai
 
-3. § (1) Az 1. § (1) bekezdés a) pontjában meghatározott berendezések és rendszerek létesítési és üzemeltetési tapasztalatainak figyelembevételével a műszaki biztonságot növelő alkalmazások széles körű elterjedésének elősegítése céljából az iparügyekért felelős miniszter (a továbbiakban: miniszter) Gázipari Műszaki Szakbizottságot hoz létre.
+3. § (1)[^1] Az 1. § (1) bekezdés a) pontjában meghatározott csatlakozóvezetékek, telephelyi vezetékek és felhasználói berendezések létesítési és üzemeltetési tapasztalatainak figyelembevételével a műszaki biztonságot növelő alkalmazások széles körű elterjedésének elősegítése céljából az iparügyekért felelős miniszter (a továbbiakban: miniszter) Gázipari Műszaki Szakbizottságot hoz létre.
 
 (2) A Gázipari Műszaki Szakbizottság az 1. § (1) bekezdés a) pontjában meghatározott csatlakozóvezetékek, felhasználói berendezések és a telephelyi vezetékek tervezésével, létesítésével és üzemeltetésével kapcsolatban szakági műszaki előírások formájában a műszaki biztonsági szabályzatának követelményeit az egészségvédelem magas szintjét kielégítő, valamint a műszaki-tudományos színvonallal és a gazdasági megfontolások alapján megvalósítható gyakorlattal összhangban álló műszaki megoldásokat dolgoz ki.
 
@@ -29,3 +27,5 @@ h) a szakterületen működő egyéb, a miniszter által felkért civil szerveze
 (5) A Gázipari Műszaki Szakbizottság megalkotja a működési szabályzatát, és tagjai közül 3 év időtartamra megválasztja a Szakbizottság elnökét.
 
 (6) A Gázipari Műszaki Szakbizottság által elfogadott szakági műszaki előírásokat a kormányzati honlapon, valamint a termékinformációs pont honlapján közzé kell tenni.
+
+[^1]: A 3. § (1) bekezdése a 24/2023. (IX. 27.) GFM rendelet 2. § 1. pontja szerint módosított szöveg.
