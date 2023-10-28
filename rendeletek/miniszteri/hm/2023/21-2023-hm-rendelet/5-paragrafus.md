@@ -1,3 +1,3 @@
-5. § Az R2. 10. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
+5. §[^6]
 
-(Az ösztöndíjat)
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
