@@ -1,5 +1,10 @@
-6. § (1) Gyártó és kivitelező – a (3) bekezdésben foglalt eltéréssel – csak tanúsított minőségirányítási rendszerrel rendelkező gazdasági szereplő lehet.
+6. § (1)[^9] Az elsődleges tartószerkezeti és biztonságtechnikai elemek gyártását, kivitelezését, felújítását végző gyártó, kivitelező vagy forgalmazó – a (3) és (4) bekezdésben foglalt eltéréssel – MSZ EN ISO 9001 szabvány szerint tanúsított minőségirányítási rendszerrel rendelkező gazdasági szereplő lehet.
 
 (2) Az I. veszélyességi osztályba tartozó acélszerkezetek gyártójának rendelkeznie kell tanúsított üzemi gyártásellenőrzési rendszerrel és hegesztőüzemi tanúsítvánnyal.
 
 (3) Vasalt út kivitelezése során a via ferraták (mászóösvények) tervezése és kivitelezése tárgyú, MSZ EN 16869 műszaki szabványban foglaltakat vagy a szabványos megoldással biztonsági szempontból egyenértékű megoldást kell alkalmazni.
+
+(4)[^10] Az 1. melléklet 3. pont 3.2.1. alpontja alá tartozó eszköz sorozatgyártása, kivitelezése és telepítése során az állandó jelleggel telepített kültéri fitneszeszközök, biztonsági követelmények és vizsgálati módszerek tárgyú, MSZ EN 16630 műszaki szabványban foglaltakat vagy a szabványos megoldással biztonsági szempontból egyenértékű megoldást kell alkalmazni, azzal, hogy a gyártó választása szerint a termék a kijelölt szervezet által kiállított típusvizsgálati tanúsítvány alapján, belső gyártásellenőrzéssel hozható forgalomba. A típusvizsgálati tanúsítvány a kiállítás időpontjától 5 évig hatályos, amelyben a kijelölt szervezet tanúsítja, hogy az 1. melléklet 3. pont 3.2.1. alpontja alá tartozó eszköz típusa megfelel az e rendeletben és a terméktípusra vonatkozó nemzeti szabványokban meghatározott műszaki és biztonságtechnikai előírásoknak. A belső gyártásellenőrzésen alapuló típusmegfelelőség biztosítása keretében a gyártó a gyártási eljárás és ennek figyelemmel kísérése révén gondoskodik az 1. melléklet 3. pont 3.2.1. alpontja alá tartozó, gyártott eszköznek a típusvizsgálati tanúsítványban leírt típusnak és az e rendeletben foglaltaknak való megfelelőségéről, és ezt megfelelőségi nyilatkozat kiállításával igazolja.
+
+[^9]: A 6. § (1) bekezdése a 26/2023. (IX. 28.) GFM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^10]: A 6. § (4) bekezdését a 26/2023. (IX. 28.) GFM rendelet 4. § (2) bekezdése iktatta be.

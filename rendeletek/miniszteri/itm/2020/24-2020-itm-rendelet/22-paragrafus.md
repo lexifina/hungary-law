@@ -1,1 +1,5 @@
 ## 21. § E rendeletben meghatározott műszaki jellegű előírásoknak nem kell megfelelniük az olyan termékeknek, amelyeket az Európai Unió valamely tagállamában vagy Törökországban állítottak elő, illetve hoztak forgalomba, vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely EFTA-államban állítottak elő, az ott irányadó előírásoknak megfelelően, feltéve, hogy az e rendeletben meghatározottal egyenértékű védelmet nyújtanak.
+
+22. §[^23]
+
+[^23]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

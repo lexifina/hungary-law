@@ -18,7 +18,7 @@ g) az operatív üzemeltetési, kezelési feladatokat ellátó személyek felké
 
 h) az üzemeltetési kockázatok elemzésének legalább évenkénti gyakorisággal történő rendszeres, valamint a szórakoztatási célú berendezéssel, létesítménnyel, ideiglenes szerkezettel, szórakozási célú sporteszközzel kapcsolatos rendkívüli eseményt követő eseti elvégzését,
 
-i) az I. veszélyességi osztályba tartozó szórakoztatási célú berendezések, létesítmények háromévente, a tervező által meghatározott kritikus elemek szétszedett állapotban történő vizsgálatához tartozó szakértői munkák elvégeztetését, valamint
+i)[^11] az I. veszélyességi osztályba tartozó szórakoztatási célú berendezések, létesítmények háromévente, a tervező vagy a megfelelőségértékelő szervezet által meghatározott kritikus elemek szétszedett állapotban történő vizsgálatához tartozó szakértői munkák elvégeztetését, valamint
 
 j) az I. és II. veszélyességi osztályba tartozó szórakoztatási célú berendezések, létesítmények kezelő személyzetének a biztonságos üzemeltetésre való kioktatását és az állandó megbízatással működő személyzet biztonsági ismereteinek legalább háromévenkénti megújítását.
 
@@ -37,3 +37,5 @@ b) az ellenőrzés eredménye, a feltárt hiányosságok és nem-megfelelősége
 c) az utóellenőrzés szükségességének megjelölése;
 
 d) az ellenőrzést végző neve, elérhetősége és aláírása.
+
+[^11]: A 7. § (1) bekezdés i) pontja a 26/2023. (IX. 28.) GFM rendelet 11. § f) pontja szerint módosított szöveg.
