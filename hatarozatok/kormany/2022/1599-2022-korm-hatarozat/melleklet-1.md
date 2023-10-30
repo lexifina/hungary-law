@@ -4,7 +4,7 @@
 
 ## b) egyetért a NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság (a továbbiakban: NIF Zrt.) által kiírt, folyamatban lévő vasúti tervezési közbeszerzési eljárás eredménytelen lezárásával;
 
-## c) egyetért azzal, hogy a módosított műszaki tartalmú vasúti Beruházás legfeljebb 43 521 750 000 forint forrás felhasználásával valósuljon meg;
+## c)[^1] egyetért azzal, hogy a módosított műszaki tartalmú vasúti Beruházás legfeljebb 43 500 000 000 forint forrás felhasználásával valósuljon meg;
 
 ## d) egyetért azzal, hogy az IKOP-2.1.0-15-2020-00054 azonosító számú „NIF Zrt. vasúti infrastruktúra fejlesztési projektek előkészítése” projekt részét képező „Zalaszentiván–Nagykanizsa vasúti vonalszakasz villamosításának és korszerűsítésének előkészítése” projektelem legfeljebb 1 800 900 000 forint forrás felhasználásával – a műszaki tartalom tekintetében az építési és közlekedési miniszterrel egyeztetve – valósuljon meg;
 
@@ -38,9 +38,9 @@
 
 ## i) felhívja a pénzügyminisztert, hogy az építési és közlekedési miniszter kezdeményezésére gondoskodjon az a) alpont szerinti vasúti feladatok 2023–2026. évi megvalósítása érdekében
 
-## ia) a 2023. évben legfeljebb 6 403 200 000 forint biztosításáról a 2023. évi Kvtv. 1. melléklet XVI. Építési és Beruházási Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 15. Infrastruktúra-fejlesztési beruházások alcím, 2. Vasúti infrastruktúra-fejlesztések jogcímcsoport javára,
+## ia) [^2] a 2023. évben legfeljebb 1 000 000 000 forint biztosításáról a 2023. évi Kvtv. 1. melléklet XLV. Állami beruházások fejezet, 2. Közlekedési beruházások cím, 1. Közlekedési célú központi kezelésű előirányzatok alcím, 1. Állami vasútfejlesztési beruházások jogcímcsoport javára,
 
-## ib) a 2024. évben legfeljebb 12 806 400 000 forint, 2025. évben legfeljebb 12 806 400 000 forint, 2026. évben legfeljebb 11 505 750 000 forint rendelkezésre állásáról az éves központi költségvetés vasúti infrastruktúra-fejlesztéseket finanszírozó előirányzata javára;
+## ib) [^3] a 2024. évben legfeljebb 15 500 000 000 forint, a 2025. évben legfeljebb 15 500 000 000 forint, a 2026. évben legfeljebb 11 500 000 000 forint rendelkezésre állásáról az éves központi költségvetés vasúti infrastruktúra-fejlesztéseket finanszírozó előirányzata javára;
 
 | Felelős: | pénzügyminiszter építési és közlekedési miniszter |
 
@@ -52,21 +52,24 @@
 
 | Határidő: | azonnal |
 
-## 2.[^1]
+## 2.[^4]
 
-## 3.[^2]
+## 3.[^5]
 
-## 4.[^3]
+## 4.[^6]
 
-## 5.[^4]
+## 5.[^7]
 
-## 6.[^5]
+## 6.[^8]
 
-1. melléklet az 1599/2022. (XII. 1.) Korm. határozathoz[^6]
+1. melléklet az 1599/2022. (XII. 1.) Korm. határozathoz[^9]
 
-[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 6. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont c) alpontja az 1468/2023. (X. 30.) Korm. határozat 4. pont b) alpontja szerint módosított szöveg.
+[^2]: Az 1. pont i) alpont ia) pontja az 1468/2023. (X. 30.) Korm. határozat 4. pont a) alpontjával megállapított szöveg.
+[^3]: Az 1. pont i) alpont ib) pontja az 1468/2023. (X. 30.) Korm. határozat 4. pont c) alpontja szerint módosított szöveg.
+[^4]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 6. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

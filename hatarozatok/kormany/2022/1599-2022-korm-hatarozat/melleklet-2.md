@@ -1,3 +1,3 @@
-2. melléklet az 1599/2022. (XII. 1.) Korm. határozathoz[^7]
+2. melléklet az 1599/2022. (XII. 1.) Korm. határozathoz[^10]
 
-[^7]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
