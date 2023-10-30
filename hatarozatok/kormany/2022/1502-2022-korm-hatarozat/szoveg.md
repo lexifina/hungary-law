@@ -34,21 +34,25 @@ A Kormány az iváncsai ipari-innovációs fejlesztési terület kialakításáv
 
 | Határidő: | azonnal |
 
-5. felhívja a pénzügyminisztert, hogy az építési és beruházási miniszter kezdeményezésére gondoskodjon az 1. pont szerinti közúti és vasúti fejlesztési feladatok megvalósítása érdekében 84 132 245 100 forint forrás rendelkezésre állásáról, az alábbi ütemezés szerint:
+5.[^1] felhívja a pénzügyminisztert, hogy az építési és közlekedési miniszter kezdeményezésére gondoskodjon az 1. pont szerinti közúti és vasúti fejlesztési feladatok megvalósítása érdekében 84 132 245 100 forint forrás rendelkezésre állásáról, az alábbi ütemezés szerint:
 
 a) a közúti fejlesztési feladatokra a Kvtv2022. 1. melléklet XVI. Építési és Beruházási Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 15. Infrastruktúra-fejlesztési beruházások alcím, 1. Közúti infrastruktúra-fejlesztések jogcímcsoport javára 900 450 000 forint,
 
 b) a közúti fejlesztési feladatokra a Kvtv2023. 1. melléklet XVI. Építési és Beruházási Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 15. Infrastruktúra-fejlesztési beruházások alcím, 1. Közúti infrastruktúra-fejlesztések jogcímcsoport javára 19 314 652 500 forint,
 
-c) a vasúti fejlesztési feladatokra a Kvtv2023. 1. melléklet XVI. Építési és Beruházási Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 15. Infrastruktúra-fejlesztési beruházások alcím, 2. Vasúti infrastruktúra-fejlesztések jogcímcsoport javára 25 297 642 500 forint,
+c)[^2] a vasúti fejlesztési feladatokra a Kvtv2023. 1. melléklet XLV. Állami beruházások fejezet, 2. Közlekedési beruházások cím, 1. Közlekedési célú központi kezelésű előirányzatok alcím, 1. Állami vasútfejlesztési beruházások jogcímcsoport javára 1 000 000 000 forint,
 
 d) a közúti fejlesztési feladatokra a 2024. évi központi költségvetés Építési és Beruházási Minisztérium fejezet, Közúti infrastruktúra-fejlesztéseket szolgáló fejezeti kezelésű előirányzat javára 28 008 997 500 forint,
 
-e) a vasúti fejlesztési feladatokra a 2024. évi központi költségvetés Építési és Beruházási Minisztérium fejezet, Vasúti infrastruktúra-fejlesztéseket szolgáló fejezeti kezelésű előirányzat javára 10 610 502 600 forint;
+e)[^3] a vasúti fejlesztési feladatokra a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény 1. melléklet XLV. Állami beruházások fejezet, 2. Közlekedési beruházások cím, 1. Közlekedési célú központi kezelésű előirányzatok alcím, 1. Állami vasútfejlesztési beruházások jogcímcsoport javára 9 105 000 000 forint,
 
-| Felelős: | pénzügyminiszter építési és beruházási miniszter |
+f)[^4] a vasúti fejlesztési feladatokra a 2025. évi központi költségvetés Állami beruházások fejezet, Állami vasútfejlesztési beruházásokat szolgáló előirányzat javára 20 285 000 000 forint,
 
-| Határidő: | az a) alpont tekintetében a 2022. évi központi költségvetés végrehajtása során, a felmerülés ütemében a b) és c) alpont tekintetében a 2023. évi központi költségvetés végrehajtása során, a felmerülés ütemében a d) és e) alpont tekintetében a 2024. évi központi költségvetés tervezése során |
+g)[^5] a vasúti fejlesztési feladatokra a 2026. évi központi költségvetés Állami beruházások fejezet, Állami vasútfejlesztési beruházásokat szolgáló előirányzat javára 5 500 000 000 forint;
+
+| Felelős: | pénzügyminiszter építési és közlekedési miniszter |
+
+| Határidő: | az a) alpont tekintetében a 2022. évi központi költségvetés végrehajtása során, a felmerülés ütemében a b) és c) alpont tekintetében a 2023. évi központi költségvetés végrehajtása során, a felmerülés ütemében a d), e), f) és g) alpont tekintetében az adott évi központi költségvetés tervezése során |
 
 6. felhívja az építési és beruházási minisztert, hogy az 1. pont 1.1. és 1.2. alpontjában foglalt közúti infrastruktúra-fejlesztési feladatok megvalósítása érdekében létesítsen támogatási jogviszonyt a Magyar Közút Nonprofit Zártkörűen Működő Részvénytársasággal 4 500 000 000 forint összegben;
 
@@ -56,14 +60,16 @@ e) a vasúti fejlesztési feladatokra a 2024. évi központi költségvetés Ép
 
 | Határidő: | azonnal |
 
-7. felhívja az építési és beruházási minisztert, hogy az 1. pont 1.3–1.7. alpontjában foglalt közúti és vasúti infrastruktúra-fejlesztési feladatok megvalósítása érdekében létesítsen támogatási jogviszonyt a NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársasággal a közútfejlesztési feladatokra 43 700 000 000 forint összegben, a vasútfejlesztési feladatokra 35 890 200 000 forint összegben;
-
-| Felelős: | építési és beruházási miniszter |
-
-| Határidő: | azonnal |
+7.[^6]
 
 8. egyetért az 1. pont 1.7. alpontjában foglalt vasúti infrastruktúra-fejlesztések megvalósítása érdekében tervezésre és kivitelezésre együttesen irányuló közbeszerzés indításával;
 
-9.[^1]
+9.[^7]
 
-[^1]: A 9. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 5. pont nyitó szövegrésze az 1468/2023. (X. 30.) Korm. határozat 3. pont d) alpontja szerint módosított szöveg.
+[^2]: Az 5. pont c) alpontja az 1468/2023. (X. 30.) Korm. határozat 3. pont a) alpontjával megállapított szöveg.
+[^3]: Az 5. pont e) alpontja az 1468/2023. (X. 30.) Korm. határozat 3. pont b) alpontjával megállapított szöveg.
+[^4]: Az 5. pont f) alpontját az 1468/2023. (X. 30.) Korm. határozat 3. pont c) alpontja iktatta be.
+[^5]: Az 5. pont g) alpontját az 1468/2023. (X. 30.) Korm. határozat 3. pont c) alpontja iktatta be.
+[^6]: A 7. pontot az 1468/2023. (X. 30.) Korm. határozat 6. pont a) alpontja visszavonta.
+[^7]: A 9. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

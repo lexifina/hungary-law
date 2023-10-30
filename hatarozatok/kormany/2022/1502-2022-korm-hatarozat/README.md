@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-1502-30
 | --- | --- | --- |
 | 2022-10-19 | 2022-1502-30-22.1 | 1502/2022. (X. 19.) Korm. határozat |
 | 2022-10-20 | 2022-1502-30-22.2 | 2010. évi CXXX. törvény |
+| 2023-10-30 | 2022-1502-30-22.4 | 1468/2023. (X. 30.) Korm. határozat |
