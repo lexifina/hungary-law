@@ -1,14 +1,14 @@
 ## 1. egyetért a Debrecen Észak-Nyugati Gazdasági Övezettel kapcsolatos vasúti fejlesztések 2. ütemének keretében az 1. melléklet szerinti beruházások (a továbbiakban: Beruházások) megvalósításával együttesen legfeljebb 65 680 000 000 forint összegben;
 
-## 2. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az építési és közlekedési miniszter a Beruházások finanszírozása érdekében a 2023. évben legfeljebb a szabad előirányzatot meghaladó mértékű, 14 910 000 000 forint összegben kötelezettséget vállaljon a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény (a továbbiakban: Kvtv.) 1. melléklet XLV. Állami beruházások fejezet, 2. Közlekedési beruházások cím, 1. Közlekedési célú központi kezelésű előirányzatok alcím, 1. Állami vasútfejlesztési beruházások jogcímcsoport terhére;
+## 2.[^1] az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az építési és közlekedési miniszter a Beruházások finanszírozása érdekében a 2023. évben legfeljebb a szabad előirányzatot meghaladó mértékű, 14 788 933 337 forint összegben kötelezettséget vállaljon a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény (a továbbiakban: Kvtv.) 1. melléklet XLV. Állami beruházások fejezet, 2. Közlekedési beruházások cím, 1. Közlekedési célú központi kezelésű előirányzatok alcím, 1. Állami vasútfejlesztési beruházások jogcímcsoport terhére;
 
-## 3. felhívja a pénzügyminisztert, hogy az építési és közlekedési miniszter kezdeményezése alapján gondoskodjon a 2. pontban foglaltak végrehajtása érdekében 14 910 000 000 forint biztosításáról a Kvtv. 1. melléklet XLV. Állami beruházások fejezet, 2. Közlekedési beruházások cím, 1. Közlekedési célú központi kezelésű előirányzatok alcím, 1. Állami vasútfejlesztési beruházások jogcímcsoport javára;
+## 3.[^2] felhívja a pénzügyminisztert, hogy az építési és közlekedési miniszter kezdeményezése alapján gondoskodjon a 2. pontban foglaltak végrehajtása érdekében 14 788 933 337 forint biztosításáról a Kvtv. 1. melléklet XLV. Állami beruházások fejezet, 2. Közlekedési beruházások cím, 1. Közlekedési célú központi kezelésű előirányzatok alcím, 1. Állami vasútfejlesztési beruházások jogcímcsoport javára;
 
 | Felelős: | pénzügyminiszter építési és közlekedési miniszter |
 
 | Határidő: | azonnal |
 
-## 4. az egyes beruházási szabályok veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 541/2022. (XII. 22.) Korm. rendelet 4. § (7) bekezdés b) pontjában biztosított jogkörében eljárva a Beruházások 2024–2026. évi finanszírozása érdekében a központi költségvetés XLV. Állami beruházások fejezet, 2. Közlekedési beruházások cím, 1. Közlekedési célú központi kezelésű előirányzatok alcím, 1. Állami vasútfejlesztési beruházások jogcímcsoport terhére vállalható kötelezettség felső korlátját 50 770 000 000 forintban határozza meg;
+## 4.[^3] az egyes beruházási szabályok veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 541/2022. (XII. 22.) Korm. rendelet 4. § (7) bekezdés b) pontjában biztosított jogkörében eljárva a Beruházások 2024–2026. évi finanszírozása érdekében a központi költségvetés XLV. Állami beruházások fejezet, 2. Közlekedési beruházások cím, 1. Közlekedési célú központi kezelésű előirányzatok alcím, 1. Állami vasútfejlesztési beruházások jogcímcsoport terhére vállalható kötelezettség felső korlátját 50 891 066 663 forintban határozza meg;
 
 ## 5. felhívja az építési és közlekedési minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon a 4. pont szerinti összeg 2024–2026. évi részeinek rendelkezésre állásáról az adott évi központi költségvetés állami beruházásokat finanszírozó fejezetében;
 
@@ -37,3 +37,7 @@ A debreceni Észak-Nyugati Gazdasági Övezet kialakításával összefüggő va
 | 3. | VASÚT-2/2/A | 2023–2025 | Építési és Közlekedési Minisztérium | 2 760 000 000 | Macs Ipari Park konténerterminál kiegészítő elemei |
 
 | 4. | VASÚT-2/2/B | 2023–2026 | Építési és Közlekedési Minisztérium | 14 740 000 000 | Debrecen állomás Külső Fatér területén tehervonati indító-fogadó vágánycsoport létesítése a konténerterminál kiszolgálására |
+
+[^1]: A 2. pont az 1468/2023. (X. 30.) Korm. határozat 5. pont a) alpontja szerint módosított szöveg.
+[^2]: A 3. pont az 1468/2023. (X. 30.) Korm. határozat 5. pont b) alpontja szerint módosított szöveg.
+[^3]: A 4. pont az 1468/2023. (X. 30.) Korm. határozat 5. pont c) alpontja szerint módosított szöveg.
