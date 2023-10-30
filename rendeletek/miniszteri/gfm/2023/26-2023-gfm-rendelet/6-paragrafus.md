@@ -1,3 +1,3 @@
-6. § A 24/2020. (VII. 3.) ITM rendelet 10. §-a a következő (1a) bekezdéssel egészül ki:
+6. §[^7]
 
-„(1a) Az 1. melléklet 3. pont 3.2.1. alpontja alá tartozó eszköz esetén a kondipark bejáratánál vagy annak központi helyén elhelyezett információs táblán megnevezéssel és piktogrammal kell feltüntetni a telepített eszközöket, valamint az (1) bekezdés a) és b) pontjában meghatározott adatokat és korlátozásokat. E követelmények teljesíthetők az állandó jelleggel telepített kültéri fitneszeszközök, biztonsági követelmények és vizsgálati módszerek tárgyú, MSZ EN 16630 műszaki szabványban meghatározott telepítési követelményeknek való megfeleléssel is.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

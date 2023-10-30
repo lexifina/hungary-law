@@ -1,9 +1,3 @@
-7. § A 24/2020. (VII. 3.) ITM rendelet 8. alcíme helyébe a következő alcím lép:
+7. §[^8]
 
-„8. A szórakoztatási célú berendezés, létesítmény, ideiglenes szerkezet, szórakozási célú sporteszköz időszakos műszaki ellenőrzése
-
-16. § (1) Az I. veszélyességi osztályba tartozó, szórakoztatási célú berendezést, létesítményt, ideiglenes szerkezetet, valamint a vasalt út kivételével a szórakozási célú sporteszközt évenként, a II. veszélyességi osztályba tartozó, szórakoztatási célú berendezést, létesítményt, a görgős sporteszközök létesítménye kivételével a szórakozási célú sporteszközt kétévenként, a III. veszélyességi osztályba tartozó, szórakoztatási célú berendezést, létesítményt, ideiglenes szerkezetet, valamint a vasalt út kivételével a szórakozási célú sporteszközt háromévenként időszakos műszaki ellenőrzésnek kell alávetni, melynek célja annak eldöntése az e rendeletben foglaltak, valamint a berendezésre, létesítményre vonatkozó szabványok műszaki követelményei és a szakmai értékítélet alapján értelmezett általános biztonságossági követelmények alapján, hogy adott szórakoztatási célú berendezés, létesítmény, ideiglenes szerkezet, szórakozási célú sporteszköz megfelelőségi tanúsítványának hatálya meghosszabbítható-e, vagy az 1. melléklet 3. pont 3.2.1. alpontja alá tartozó eszköz biztonságos használatra való alkalmasságát igazoló jegyzőkönyv kiállítható-e.
-
-(2) Az I. veszélyességi osztályba tartozó, szórakoztatási célú berendezést, létesítményt, ideiglenes szerkezetet háromévenként szétszerelt állapotban, majd azt követően összeszerelt állapotban kell bemutatni a kijelölt szervezetnek. A megbontás mértékét és a szétszerelt állapotban történő vizsgálat műszaki feltételeit a kijelölt szervezet előzetesen határozza meg az ellenőrzés bejelentésekor.
-
-(3) Az üzemeltető a megfelelőségi tanúsítvány hatályának lejárta előtt kezdeményezi az időszakos műszaki ellenőrzést a kijelölt szervezetnél. A kijelölt szervezet az időszakos műszaki ellenőrzést a (2) bekezdés szerinti szórakoztatási célú berendezés, létesítmény, ideiglenes szerkezet telepítési helyén elvégzi. A szétszerelt állapotban történő vizsgálat műszaki feltételeit a kijelölt szervezet határozza meg.”
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
