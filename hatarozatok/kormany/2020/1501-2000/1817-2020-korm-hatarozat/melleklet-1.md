@@ -62,7 +62,7 @@
 
 ## a miniszterelnök általános helyettese
 
-## Határidő: 2022. december 31., a Bethlen Gábor Alap fejezet javára biztosított 1 440 720 000 forint tekintetében 2023. december 31.
+## Határidő: 2022. december 31., a Bethlen Gábor Alap fejezet javára biztosított 1 440 720 000 forint tekintetében 2025. június 30.
 
 ## 7. az Áht. 33. § (2) bekezdésében és a Kvtv. 4. § (6) bekezdésében biztosított jogkörében eljárva 2 739 467 367 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XLVI. Járvány Elleni Védekezési Alap fejezet, 1. Járvány Elleni Védekezés Központi Tartaléka cím terhére, a 4. melléklet szerint;
 
@@ -96,4 +96,4 @@
 
 1. melléklet az 1817/2020. (XI. 18.) Korm. határozathoz
 
-[^1]: A 6. pontja az 1584/2022. (XI. 30.) Korm. határozat 6. pontja szerint módosított szöveg.
+[^1]: A 6. pontja az 1584/2022. (XI. 30.) Korm. határozat 6. pontja, az 1471/2023. (X. 31.) Korm. határozat 5. pontja szerint módosított szöveg.
