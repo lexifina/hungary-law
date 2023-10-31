@@ -18,7 +18,7 @@ A Nemzeti Bűnmegelőzési Stratégia 2022–2023. évekre vonatkozó intézked�
 
 |  | A | B |
 
-| 1. | Intézkedés: | Ösztönözni kell az önkormányzatokat, hogy – ahol van megyei bűnmegelőzési tanács, ott a bevonásukkal, ahol nincsen, ott a megyei rendőr-főkapitányságok bevonásával – dolgozzák ki a közbiztonsági és bűnmegelőzési stratégiájukat, valamint amennyiben már rendelkeznek stratégiával, azt vizsgálják felül és korszerűsítsék. |
+| 1. | Intézkedés: | Ösztönözni kell az önkormányzatokat, hogy – ahol van vármegyei bűnmegelőzési tanács, ott a bevonásukkal, ahol nincsen, ott a vármegyei rendőr-főkapitányságok bevonásával – dolgozzák ki a közbiztonsági és bűnmegelőzési stratégiájukat, valamint amennyiben már rendelkeznek stratégiával, azt vizsgálják felül és korszerűsítsék. |
 
 | 2. | Felelős: | NBT, rendőrség |
 
@@ -66,7 +66,7 @@ A Nemzeti Bűnmegelőzési Stratégia 2022–2023. évekre vonatkozó intézked�
 
 |  | A | B |
 
-| 1. | Intézkedés: | A hátrányos helyzetű települések bűnmegelőzési szempontú támogatásának elősegítése jelentősen hozzájárul a felzárkózásuk sikeréhez. A megyei bűnmegelőzési tanácsok szakmai irányításával helyi szintű komplex bűnmegelőzési programokat célszerű kialakítani. A prevenció (ideértve a kábítószer-fogyasztás megelőzését is), valamint a korai beavatkozás hatékonyan képesek megelőzni a bűnelkövetővé és áldozattá válást, csökkentik a későbbi károkat és költségeket, amelyek az elkövető egyéni sorsa, a család, az áldozatok és nem utolsósorban a társadalom egésze oldalán jelentkezhetnek. |
+| 1. | Intézkedés: | A hátrányos helyzetű települések bűnmegelőzési szempontú támogatásának elősegítése jelentősen hozzájárul a felzárkózásuk sikeréhez. A vármegyei bűnmegelőzési tanácsok szakmai irányításával helyi szintű komplex bűnmegelőzési programokat célszerű kialakítani. A prevenció (ideértve a kábítószer-fogyasztás megelőzését is), valamint a korai beavatkozás hatékonyan képesek megelőzni a bűnelkövetővé és áldozattá válást, csökkentik a későbbi károkat és költségeket, amelyek az elkövető egyéni sorsa, a család, az áldozatok és nem utolsósorban a társadalom egésze oldalán jelentkezhetnek. |
 
 | 2. | Felelős: | NBT |
 
@@ -82,9 +82,9 @@ A Nemzeti Bűnmegelőzési Stratégia 2022–2023. évekre vonatkozó intézked�
 
 |  | A | B |
 
-| 1. | Intézkedés: | Az ország egyes területein és megyéiben az idegenforgalom alapvetően befolyásolja a bűnözés alakulását. Az idegenforgalmi szezonban az adott területen tartózkodók száma megsokszorozódik. Feltétlenül szükséges, hogy a vendégek megfelelő bűnmegelőzési tájékoztatást kapjanak az adott területen jellemző elkövetési szokásokról, felvilágosítás nélkül ugyanis könnyen válhatnak áldozattá. |
+| 1. | Intézkedés: | Az ország egyes területein és vármegyéiben az idegenforgalom alapvetően befolyásolja a bűnözés alakulását. Az idegenforgalmi szezonban az adott területen tartózkodók száma megsokszorozódik. Feltétlenül szükséges, hogy a vendégek megfelelő bűnmegelőzési tájékoztatást kapjanak az adott területen jellemző elkövetési szokásokról, felvilágosítás nélkül ugyanis könnyen válhatnak áldozattá. |
 
-| 2. | Felelős: | NBT, a balatoni és a Tisza-tavi Közbiztonsági Koordinációs Bizottság soros elnöki tisztét ellátó megyei rendőr-főkapitányság |
+| 2. | Felelős: | NBT, a balatoni és a Tisza-tavi Közbiztonsági Koordinációs Bizottság soros elnöki tisztét ellátó vármegyei rendőr-főkapitányság |
 
 | 3. | Partner: | IM – Veszprémi Áldozatsegítő Központ, rendőrség, polgárőrség |
 
@@ -104,7 +104,7 @@ A Nemzeti Bűnmegelőzési Stratégia 2022–2023. évekre vonatkozó intézked�
 
 | 2. | Felelős: | NBT |
 
-| 3. | Partner: | BM, IM, KIM, TIM, rendőrség, Klebelsberg Központ, SZGYF, NSZI, NSZFH, egyházak, iskolafenntartók, civil szervezetek |
+| 3. | Partner: | BM, IM, KIM,, rendőrség, Klebelsberg Központ, SZGYF, NSZI, NSZFH, egyházak, iskolafenntartók, civil szervezetek |
 
 | 4. | Eszköz: | képzések tartása, tananyagírás, multiplikátorok képzése |
 
@@ -262,21 +262,21 @@ A Nemzeti Bűnmegelőzési Stratégia 2022–2023. évekre vonatkozó intézked�
 
 5. Horizontális intézkedések
 
-5.1. A Megyei Bűnmegelőzési Tanácsok működtetése és szakmai koordinálása
+5.1. A Vármegyei Bűnmegelőzési Tanácsok működtetése és szakmai koordinálása
 
 |  | A | B |
 
-| 1. | Intézkedés: | A bűnmegelőzési tevékenység helyi szinten történő megjelenése a lakosság közvetlen megszólításával és bevonásával jelentősen növelheti a lakosság szubjektív biztonságérzetét. A megyei bűnmegelőzési tanácsok az adott megye bűnmegelőzésben érintett szereplőinek megszólításával, a helyi szintű stratégiák kidolgozásával, a megyei bűnmegelőzési programok koordinálásával járulnak hozzá a bűnmegelőzési feladatok hatékony végrehajtásához. E testületek képesek fókuszba állítani a lakosság közbiztonságát célzó és erősítő intézkedéseket, feladatokkal és felelősökkel konkrét helyi és megyei közbiztonsági és bűnmegelőzési stratégiát megfogalmazni, és ennek mentén végrehajtani az abban foglalt feladatokat. |
+| 1. | Intézkedés: | A bűnmegelőzési tevékenység helyi szinten történő megjelenése a lakosság közvetlen megszólításával és bevonásával jelentősen növelheti a lakosság szubjektív biztonságérzetét. A vármegyei bűnmegelőzési tanácsok az adott vármegye bűnmegelőzésben érintett szereplőinek megszólításával, a helyi szintű stratégiák kidolgozásával, a vármegyei bűnmegelőzési programok koordinálásával járulnak hozzá a bűnmegelőzési feladatok hatékony végrehajtásához. E testületek képesek fókuszba állítani a lakosság közbiztonságát célzó és erősítő intézkedéseket, feladatokkal és felelősökkel konkrét helyi és vármegyei közbiztonsági és bűnmegelőzési stratégiát megfogalmazni, és ennek mentén végrehajtani az abban foglalt feladatokat. |
 
 | 2. | Felelős: | NBT |
 
 | 3. | Partner: | IM, rendőrség, kormányhivatalok, civil szervezetek |
 
-| 4. | Eszköz: | tanácsok kialakítása, ülések, programok szervezése, megyei bűnmegelőzési stratégia megalkotása |
+| 4. | Eszköz: | tanácsok kialakítása, ülések, programok szervezése, vármegyei bűnmegelőzési stratégia megalkotása |
 
 | 5. | Határidő: | 2023. december 31. napjáig folyamatos |
 
-| 6. | Indikátor: | megyei bűnmegelőzési tanácsok száma, megyei bűnmegelőzési stratégiák száma |
+| 6. | Indikátor: | vármegyei bűnmegelőzési tanácsok száma, vármegyei bűnmegelőzési stratégiák száma |
 
 5.2. Bűnmegelőzési projektek támogatása
 
@@ -350,7 +350,7 @@ A Nemzeti Bűnmegelőzési Stratégia 2022–2023. évekre vonatkozó intézked�
 
 | 2. | Felelős: | NBT |
 
-| 3. | Partner: | TIM, PM |
+| 3. | Partner: | KIM, PM |
 
 | 4. | Eszköz: | Bűn- és Balesetmegelőzési Oktatóközpont kialakítása, a lakosság és a gyermekek biztonságát, tudatosságát és felkészültségét növelő új képzési és oktatóközpont létrehozása, képzések és továbbképzések szervezése és lebonyolítása |
 
@@ -366,7 +366,7 @@ A Nemzeti Bűnmegelőzési Stratégia 2022–2023. évekre vonatkozó intézked�
 
 | 2. | PM | Pénzügyminisztérium |
 
-| 3. | TIM | Technológiai és Ipari Minisztérium |
+| 3. |  |  |
 
 | 4. | ME | Miniszterelnökség |
 
@@ -384,4 +384,4 @@ A Nemzeti Bűnmegelőzési Stratégia 2022–2023. évekre vonatkozó intézked�
 
 | 11. | NSZFH | Nemzeti Szakképzési és Felnőttképzési Hivatal |
 
-[^2]: Az 1. melléklet az 1521/2022. (XI. 2.) Korm. határozat 54-56. szerint módosított szöveg.
+[^2]: Az 1. melléklet az 1521/2022. (XI. 2.) Korm. határozat 54-56. pontja, az 1467/2023. (X. 30.) Korm. határozat 4-5. pontja szerint módosított szöveg.
