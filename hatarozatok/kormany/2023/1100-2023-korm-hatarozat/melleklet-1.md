@@ -12,7 +12,7 @@
 
 | Határidő: | azonnal |
 
-## 2. az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 29 666 122 841 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 613/2022. (XII. 29.) Korm. rendelet 1. mellékletével eltérően megállapított XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 7. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, az 1. melléklet szerint;
+## 2.[^1] az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 29 666 122 841 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 613/2022. (XII. 29.) Korm. rendelet 1. mellékletével eltérően megállapított XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 7. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -24,7 +24,7 @@
 
 | Felelős: | belügyminiszter külgazdasági és külügyminiszter a miniszterelnök általános helyettese |
 
-| Határidő: | 2023. december 31. |
+| Határidő: | 2023. december 31., a Belügyminisztérium fejezet javára biztosított 6 164 411 444 forint tekintetében 2024. december 31., a Bethlen Gábor Alap fejezet javára biztosított 498 993 000 forint tekintetében 2025. június 30. |
 
 ## 3. az Áht. 33. § (1) bekezdésében biztosított jogkörében eljárva – 2023. január 1-jei fordulónappal – Magyarország 2023. évi központi költségvetésének címrendjét a 2. melléklet szerint módosítja;
 
@@ -51,3 +51,5 @@
 | Határidő: | azonnal |
 
 1. melléklet az 1100/2023. (III. 22.) Korm. határozathoz
+
+[^1]: A 2. pont az 1471/2023. (X. 31.) Korm. határozat 10. pontja szerint módosított szöveg.
