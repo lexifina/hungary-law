@@ -16,6 +16,9 @@ c) a mezőgazdasági termelőt megillető támogatás összegét és
 
 d) az esetlegesen alkalmazandó jogkövetkezményekről szóló tájékoztatást.
 
-(5) A mezőgazdasági termelő támogatásra a vállalt gyakorlat teljesítésével érintett földterület után akkor jogosult, ha a mezőgazdasági üzem minden földhasználati kategóriájában teljesít összesen legalább 2 pont értékű, egységes kérelemben vállalt gyakorlatot.
+(5)[^3] A mezőgazdasági termelő teljes támogatásra a vállalt gyakorlat teljesítésével érintett földterület után akkor jogosult, ha a mezőgazdasági üzem minden földhasználati kategóriájában teljesít összesen legalább 2 pont értékű, egységes kérelemben vállalt gyakorlatot.
 
-(6) Az (5) bekezdéstől eltérően, ha kizárólag a gyakorlat alól mentesített területek vonatkozásában nem kerül sor a vállalt gyakorlatok teljesítésére, úgy a támogatás a mezőgazdasági üzem fennmaradó részére kifizethető.
+(6)[^4] Az (5) bekezdéstől eltérően, ha kizárólag a gyakorlat alól mentesített területek vonatkozásában nem kerül sor a vállalt gyakorlatok teljesítésére, úgy a támogatás a mezőgazdasági üzem fennmaradó részére teljes összegében kifizethető.
+
+[^3]: A 4. § (5) bekezdése az 58/2023. (X. 30.) AM rendelet 10. § a) pontja szerint módosított szöveg.
+[^4]: A 4. § (6) bekezdése az 58/2023. (X. 30.) AM rendelet 10. § b) pontja szerint módosított szöveg.

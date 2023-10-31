@@ -1,6 +1,6 @@
 ## 19. Kizárólag alternáló kasza használata
 
-24. § (1)[^11] A kizárólag alternáló kasza használata gyakorlat (a továbbiakban: gyakorlat13) keretében a mezőgazdasági termelő a mezőgazdasági üzem – a 17. § (1) bekezdésében foglaltakra figyelemmel – adott földhasználati kategória szerinti valamennyi gyepterületen a tárgyévben valamennyi kaszálást alternáló kasza használatával valósítja meg, azzal, hogy a gyepterületet legalább évente egy alkalommal lekaszálja.
+24. § (1)[^13] A kizárólag alternáló kasza használata gyakorlat (a továbbiakban: gyakorlat13) keretében a mezőgazdasági termelő a mezőgazdasági üzem – a 17. § (1) bekezdésében foglaltakra figyelemmel – adott földhasználati kategória szerinti valamennyi gyepterületen a tárgyévben valamennyi kaszálást alternáló kasza használatával valósítja meg, azzal, hogy a gyepterületet legalább évente egy alkalommal lekaszálja.
 
 (2) A gyakorlat13 a gyakorlat12-vel együtt nem választható.
 
@@ -28,4 +28,4 @@ cb) az adott gazdálkodási évben nem alternáló kaszával végezte a kaszál�
 
 d) a gyakorlat12-t is választotta.
 
-[^11]: A 24. § (1) bekezdése a 26/2023. (VI. 30.) AM rendelet 23. § f) pontja szerint módosított szöveg.
+[^13]: A 24. § (1) bekezdése a 26/2023. (VI. 30.) AM rendelet 23. § f) pontja szerint módosított szöveg.

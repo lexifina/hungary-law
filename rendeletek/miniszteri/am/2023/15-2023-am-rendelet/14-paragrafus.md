@@ -1,6 +1,6 @@
 ## 12. Mikrobiológiai készítmények alkalmazása szántóföldi területen
 
-14. § (1)[^7] A mikrobiológiai készítmények alkalmazása szántóföldi területen gyakorlat (a továbbiakban: gyakorlat7) keretében a mezőgazdasági termelőnek a tárgyévben a mezőgazdasági üzem szántóterületének legalább 50%-án a talajéletet és a talajállapotot javító mikrobiológiai készítményeket kell alkalmaznia a következő módok valamelyike szerint vagy azok tetszőleges kombinációjában: a vetés előtt, vagy a vetéssel egy menetben kijuttatva és a talajba dolgozva, vagy szármaradványokra kijuttatva, majd azokat a talajba dolgozva, beleértve a sekély tarlóhántást és -ápolást.
+14. § (1)[^9] A mikrobiológiai készítmények alkalmazása szántóföldi területen gyakorlat (a továbbiakban: gyakorlat7) keretében a mezőgazdasági termelőnek a tárgyévben a mezőgazdasági üzem szántóterületének legalább 50%-án a talajéletet és a talajállapotot javító mikrobiológiai készítményeket kell alkalmaznia a következő módok valamelyike szerint vagy azok tetszőleges kombinációjában: a vetés előtt, vagy a vetéssel egy menetben kijuttatva és a talajba dolgozva, vagy szármaradványokra kijuttatva, majd azokat a talajba dolgozva, beleértve a sekély tarlóhántást és -ápolást.
 
 (2) A gyakorlat7 teljesítése során kizárólag olyan mikrobiológiai készítmény kijuttatása fogadható el,
 
@@ -56,4 +56,4 @@ b) nem teljesítette a (2) bekezdésben meghatározott valamely feltételt.
 
 (8) A gyakorlat7-et nem teljesítettnek kell tekinteni, ha az adminisztratív, illetve helyszíni ellenőrzés keretében megállapításra kerül, hogy a szántóterület több mint 50%-án a mezőgazdasági termelő nem, vagy nem az (1)–(6) bekezdésben foglaltaknak megfelelően juttatta ki a mikrobiológiai készítményt.
 
-[^7]: A 14. § (1) bekezdése az 56/2023. (IX. 27.) AM rendelet 24. §-ával megállapított szöveg.
+[^9]: A 14. § (1) bekezdése az 56/2023. (IX. 27.) AM rendelet 24. §-ával megállapított szöveg.
