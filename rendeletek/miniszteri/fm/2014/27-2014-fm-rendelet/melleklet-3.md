@@ -12,13 +12,15 @@
 
 ## 3. A mezőgazdasági biztosítási szerződés időbeli hatályának meghatározása (év)
 
+## 3a. A határozott idejű mezőgazdasági biztosítási szerződés megkötésének vagy a határozatlan idejű mezőgazdasági biztosítási szerződés megújításának dátuma
+
 ## 4. A növénykultúra megnevezése (az egységes kérelemhez kiadott hasznosítási kódok szerint)
 
 ## 5. A biztosításba bevont terület (ha)
 
 ## 6. A biztosított hozamérték (Ft)
 
-## 7. A biztosító által káreseményekre kifizetett és a továbbiakban még kifizetni tervezett kártérítés káreseményenkénti bontásban (Ft)
+## 7. A biztosító által káreseményekre megállapított kártérítés káreseményenkénti bontásban (Ft)
 
 ## 8. Ha az ügyfél mezőgazdasági biztosítással nem rendelkezik, akkor az ügyfél erről szóló nyilatkozata
 
@@ -84,7 +86,7 @@
 
 ## 13.2. Földbérlet esetén a 12. § (3) bekezdésében meghatározott bérleti díjcsökkenés (Ft)
 
-## 14. A biztosító által kifizetett kártérítés összege (Ft)
+## 14. A biztosító által megállapított kártérítés összege (Ft)
 
 ## 15. A mezőgazdasági termelő nyilatkozata arról, hogy
 
@@ -96,6 +98,6 @@
 
 ## 1Újravetés, újratelepítés, vagy másodvetés esetén meg kell adni az újravetett, újratelepített, vagy másodvetett növénykultúrát is.
 
-3. melléklet a 27/2014. (XI. 25.) FM rendelethez[^101]
+3. melléklet a 27/2014. (XI. 25.) FM rendelethez[^108]
 
-[^101]: A 3. melléklet a 35/2017. (VII. 6.) FM rendelet 16. § (2) bekezdésével megállapított, a 9/2018. (VII. 2.) AM rendelet 9. §-a, a 43/2021. (XI. 29.) AM rendelet 5. §-a, a 138/2022. (XII. 27.) AM rendelet 1. § a) és b) pontja, a 31/2023. (VII. 14.) AM rendelet 4. § b) pontja szerint módosított szöveg.
+[^108]: A 3. melléklet a 35/2017. (VII. 6.) FM rendelet 16. § (2) bekezdésével megállapított, a 9/2018. (VII. 2.) AM rendelet 9. §-a, a 43/2021. (XI. 29.) AM rendelet 5. §-a, a 138/2022. (XII. 27.) AM rendelet 1. § a) és b) pontja, a 31/2023. (VII. 14.) AM rendelet 4. § b) pontja, az 59/2023. (X. 30.) AM rendelet 5. § b) pontja szerint módosított szöveg.

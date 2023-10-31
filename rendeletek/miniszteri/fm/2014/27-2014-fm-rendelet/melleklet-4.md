@@ -1,4 +1,4 @@
-## 3X05706M.docx
+## 3X08253M.docx
 
 ## A kárenyhítő juttatás meghatározásának számítási módszere
 
@@ -70,7 +70,7 @@
 
 ## 4.1. Károsodott növénykultúrára számított kárenyhítő juttatás maximális összege
 
-| károsodott növény- kultúrára számított kárenyhítő juttatás maximális összege (Ft) | = 0,8 × | [növénykultúra hozamérték- csökkenésének összege (Ft) | – | növénykultúra hozamérték- csökkenéséből levonásra kerülő tételek (Ft)] | – | a biztosító által a növény- kultúrára kifizetett kártérítés összege (Ft) | – | ugyanazon elszámolható költségek tekintetében megállapított bármely egyéb (állami vagy európai uniós társfinanszírozású) támogatás összege (Ft) |
+| károsodott növény- kultúrára számított kárenyhítő juttatás maximális összege (Ft) | = 0,8 × | [növénykultúra hozamérték- csökkenésének összege (Ft) | – | növénykultúra hozamérték- csökkenéséből levonásra kerülő tételek (Ft)] | – | a biztosító által a növény- kultúrára megállapított kártérítés összege (Ft) | – | ugyanazon elszámolható költségek tekintetében megállapított bármely egyéb (állami vagy európai uniós társfinanszírozású) támogatás összege (Ft) |
 
 ## 4.2. Üzemi szintű kárenyhítő juttatás maximális összege
 
@@ -136,6 +136,6 @@
 
 | Bérletidíj-csökkenés összege (Ft) | = | növénykultúra tárgyévi vetésterülete (ha) | × | [piaci bérleti díj (Ft/ha) – kedvezményes bérleti díj (Ft/ha)] |
 
-4. melléklet a 27/2014. (XI. 25.) FM rendelethez[^102]
+4. melléklet a 27/2014. (XI. 25.) FM rendelethez[^109]
 
-[^102]: A 4. mellékletet a 60/2020. (XII. 9.) AM rendelet 9. § b) pontja hatályon kívül helyezte.
+[^109]: A 4. mellékletet a 60/2020. (XII. 9.) AM rendelet 9. § b) pontja hatályon kívül helyezte.
