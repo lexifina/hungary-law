@@ -54,7 +54,7 @@
 
 (22)[^237] A 115. § 2021. december 31-én hatályos rendelkezéseit a Nemzeti Adó- és Vámhivatal részére történő ÁNYK-űrlapok benyújtására 2021. december 31-ét követően is alkalmazni kell.
 
-(23)[^238] A 115. § 2021. december 31-én hatályos rendelkezéseit az Országos Bírósági Hivatal, a bíróságok, a közjegyzők és a közjegyzői kamarák részére történő ÁNYK-űrlapok benyújtására 2021. december 31-ét követően is alkalmazni kell.
+(23)[^238] A 115. § 2021. december 31-én hatályos rendelkezéseit az Országos Bírósági Hivatal, a bíróságok, a közjegyzők és a közjegyzői kamarák részére történő ÁNYK-űrlapok benyújtására 2021. december 31-ét követően is alkalmazni kell, azzal, hogy azon ügytípusokban, ahol már rendelkezésre áll más típusú elektronikus űrlap, kizárólag az tehető elérhetővé az ügyfelek számára.
 
 [^217]: A 155. § (2) bekezdését a 221/2017. (VIII. 7.) Korm. rendelet 9. § d) pontja hatályon kívül helyezte, újonnan a 361/2017. (XI. 30.) Korm. rendelet 5. § (11) bekezdése iktatta be.
 [^218]: A 155. § (2a) bekezdését a 361/2017. (XI. 30.) Korm. rendelet 5. § (11) bekezdése iktatta be.
@@ -77,4 +77,4 @@
 [^235]: A 155. § (20) bekezdését a 361/2017. (XI. 30.) Korm. rendelet 5. § (13) bekezdése iktatta be, hatályon kívül helyezte a 176/2019. (VII. 18.) Korm. rendelet 11. § (13) bekezdése.
 [^236]: A 155. § (21) bekezdését a 361/2017. (XI. 30.) Korm. rendelet 5. § (13) bekezdése iktatta be.
 [^237]: A 155. § (22) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 102. §-a iktatta be.
-[^238]: A 155. § (23) bekezdését a 717/2021. (XII. 20.) Korm. rendelet 20. § (16) bekezdése iktatta be.
+[^238]: A 155. § (23) bekezdését a 717/2021. (XII. 20.) Korm. rendelet 20. § (16) bekezdése iktatta be, szövege a 420/2023. (VIII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
