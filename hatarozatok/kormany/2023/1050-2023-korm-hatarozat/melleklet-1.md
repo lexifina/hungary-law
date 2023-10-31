@@ -18,7 +18,7 @@
 
 | Határidő: | azonnal |
 
-## b) az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 39 484 605 536 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 613/2022. (XII. 29.) Korm. rendelet 1. mellékletével eltérően megállapított XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 7. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, az 1. melléklet szerint;
+## b) [^1] az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 39 484 605 536 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 613/2022. (XII. 29.) Korm. rendelet 1. mellékletével eltérően megállapított XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 7. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -30,7 +30,7 @@
 
 | Felelős: | érintett miniszterek |
 
-| Határidő: | 2023. december 31. |
+| Határidő: | 2023. december 31., a Bethlen Gábor Alap fejezet javára biztosított 1 050 324 900 forint tekintetében 2024. június 30. |
 
 ## a Sportági fejlesztési koncepciók megvalósításával összefüggő feladatok támogatása előirányzat javára biztosított 1 650 000 000 forint tekintetében 2024. augusztus 31.
 
@@ -62,11 +62,12 @@
 
 | Határidő: | 2023. március 1. |
 
-## 2.[^1]
+## 2.[^2]
 
-## 3.[^2]
+## 3.[^3]
 
 1. melléklet az 1050/2023. (II. 23.) Korm. határozathoz
 
-[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont b) alpontja az 1471/2023. (X. 31.) Korm. határozat 9. pontja szerint módosított szöveg.
+[^2]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
