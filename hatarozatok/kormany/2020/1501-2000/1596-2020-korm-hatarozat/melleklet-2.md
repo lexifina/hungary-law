@@ -1,3 +1,5 @@
+## 0X06526_0
+
 | XI. Miniszterelnökség XIV. Belügyminisztérium XVII. Innovációs és Technológiai Minisztérium XX. Emberi Erőforrások Minisztériuma XXI. Miniszterelnöki Kabinetiroda XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások XLV. Kiemelt kormányzati magasépítési beruházások XLVII. Gazdaságvédelmi Alap ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA Költségvetési év: 2020. forintban |
 
 | Államháztartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |

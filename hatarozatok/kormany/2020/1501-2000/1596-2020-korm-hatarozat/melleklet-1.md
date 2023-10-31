@@ -26,7 +26,7 @@
 
 ## Felelős: a miniszterelnök általános helyettese
 
-## Határidő: 2022. december 31., a Bethlen Gábor Alap fejezet részére átcsoportosított forrás tekintetében 2024. június 30.
+## Határidő: 2022. december 31., a Bethlen Gábor Alap fejezet részére átcsoportosított forrás tekintetében 2025. június 30.
 
 ## e) az Áht. 33. § (2) bekezdésében és a Kvtv. 4. § (6) bekezdésében biztosított jogkörében eljárva 26 415 314 318 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XLVI. Járvány Elleni Védekezési Alap fejezet, 1. Járvány Elleni Védekezés Központi Tartaléka cím terhére, a 4. melléklet szerint;
 
@@ -52,5 +52,5 @@
 
 1. melléklet az 1596/2020. (IX. 21.) Korm. határozathoz
 
-[^1]: Az 1. pont d) alpontja az 1007/2022. (I. 20.) Korm. határozat 8. pontja, az 1302/2022. (VI. 22.) Korm. határozat 16. pontja szerint módosított szöveg.
+[^1]: Az 1. pont d) alpontja az 1007/2022. (I. 20.) Korm. határozat 8. pontja, az 1302/2022. (VI. 22.) Korm. határozat 16. pontja, az 1471/2023. (X. 31.) Korm. határozat 4. pontja szerint módosított szöveg.
 [^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdés alapján hatályát vesztette.
