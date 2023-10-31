@@ -24,10 +24,11 @@ a miniszterelnök általános helyettese
 
 Határidő: azonnal
 
-3. felhívja a miniszterelnök általános helyettesét, hogy gondoskodjon a Program negyedik ütemének végrehajtásáról.
+3.[^2] felhívja a miniszterelnök általános helyettesét, hogy gondoskodjon a Program negyedik ütemének végrehajtásáról.
 
 Felelős: a miniszterelnök általános helyettese
 
-Határidő: 2023. december 31.
+Határidő: 2024. december 31.
 
 [^1]: A 2. pont az 1664/2022. (XII. 22.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^2]: A 3. pont az 1471/2023. (X. 31.) Korm. határozat 6. pontja szerint módosított szöveg.
