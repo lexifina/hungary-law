@@ -60,7 +60,11 @@ a) a telepítési engedély megadásáról szóló végzés a határozat elleni 
 
 b)[^213] a telekalakítási engedély alapján a változást az ingatlan-nyilvántartáson az integrált építési engedély véglegessé válása után, az építőipari kivitelezési tevékenység megkezdése előtt át kell vezetni, és annak megtörténtét az építtető az építőipari kivitelezési tevékenység megkezdésekor – az építési naplóban történő rögzítéssel – igazolni köteles,
 
-c)[^214] a 19. § (4) bekezdés i) pontjában meghatározott épületet a határnapot követően az épületek energetikai jellemzőinek meghatározásáról szóló miniszteri rendelet szerint közel nulla vagy annál kedvezőbb energiaigényű épületként kell kialakítani.
+c)[^214] a miniszteri rendelet hatálya alá tartozó épület esetében az építési engedélytől építési engedélyhez nem kötött építési tevékenységgel történő eltérés esetén az épület energetikai jellemzőinek
+
+ca) új épület esetén energetikai tanúsítvánnyal igazoltan az építészeti-műszaki dokumentációban meghatározott energetikai jellemzőknek vagy a használatbavételi engedély iránti vagy használatbavétel tudomásulvétele iránti kérelem benyújtásának napján hatályos miniszteri rendeletben meghatározott követelményeknek kell megfelelnie,
+
+cb) bővítés esetén a bővítésre – vagy ha a bővítés mértéke meghaladja a bővítendő épület hasznos alapterületének 100%-át, a teljes épületre – vonatkozóan a miniszteri rendeletben meghatározott számítással vagy energetikai tanúsítvánnyal igazoltan az építési engedélyhez tartozó engedélyezési záradékkal ellátott építészeti-műszaki dokumentációban foglalt energetikai jellemzőknek vagy a használatbavételre irányuló kérelem benyújtása napján hatályos miniszteri rendeletben meghatározott követelményeknek kell megfelelnie.
 
 (12) Az integrált építési engedélyről hozott, iratazonosítóval ellátott döntést közölni kell:
 
@@ -102,7 +106,7 @@ b)[^217] véglegessé válására tekintet nélkül a közhírré teszi azt az i
 [^211]: A 35. § (9) bekezdését újonnan a 150/2018. (VIII. 13.) Korm. rendelet 17. § (2) bekezdése iktatta be, szövege a 700/2020. (XII. 29.) Korm. rendelet 13. §-ával megállapított, a 315/2022. (VIII. 16.) Korm. rendelet 4. § (5) bekezdés b) pontja szerint módosított szöveg.
 [^212]: A 35. § (9a) bekezdését a 700/2020. (XII. 29.) Korm. rendelet 13. §-a iktatta be, szövege a 420/2021. (VII. 15.) Korm. rendelet 61. § 6. pontja szerint módosított szöveg.
 [^213]: A 35. § (11) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 412. § 50. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^214]: A 35. § (11) bekezdés c) pontját a 262/2015. (IX. 14.) Korm. rendelet 4. §-a iktatta be.
+[^214]: A 35. § (11) bekezdés c) pontját a 262/2015. (IX. 14.) Korm. rendelet 4. §-a iktatta be, szövege a 200/2023. (V. 25.) Korm. rendelet 14. §-ával megállapított szöveg.
 [^215]: A 35. § (13) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 412. § 51. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^216]: A 35. § (14) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 412. § 52–53. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^217]: A 35. § (14) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 412. § 54–55. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

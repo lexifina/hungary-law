@@ -1,5 +1,5 @@
-## XVI. Fejezet[^424]
+## XVI. Fejezet[^427]
 
 70. §
 
-[^424]: A XVI. fejezetet (70–71. §) a 360/2019. (XII. 30.) Korm. rendelet 108. § (2) bekezdés e) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^427]: A XVI. fejezetet (70–71. §) a 360/2019. (XII. 30.) Korm. rendelet 108. § (2) bekezdés e) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.

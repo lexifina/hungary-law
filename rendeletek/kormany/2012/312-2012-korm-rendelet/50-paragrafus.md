@@ -1,7 +1,7 @@
-## XI. Fejezet[^311]
+## XI. Fejezet[^313]
 
 ## 39.
 
 50. §
 
-[^311]: A XI. fejezetet (50–52. §) a 700/2020. (XII. 29.) Korm. rendelet 22. § e) pontja hatályon kívül helyezte.
+[^313]: A XI. fejezetet (50–52. §) a 700/2020. (XII. 29.) Korm. rendelet 22. § e) pontja hatályon kívül helyezte.

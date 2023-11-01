@@ -1,4 +1,4 @@
-## 77/G. §[^451] E rendeletnek az egyes építésügyi, örökségvédelmi, vagyongazdálkodási és kormányzati igazgatási tárgyú kormányrendeletek módosításáról szóló 315/2022. (VIII. 16.) Korm. rendelettel (a továbbiakban: Mód. Kr.8.) megállapított 18. § (4) bekezdés c) pontját és 25. § (3) bekezdés c) pontját, valamint módosított 18. § (4) bekezdés a) pontját, 19. § (4) bekezdés i) pontját, 25. § (3) bekezdés a) és b) pontját, 33. § (1) bekezdését, 35. § (9) bekezdését, 44. § (1) bekezdését, valamint 77/E. § (1) bekezdését a Mód. Kr.8. hatálybalépésekor[^452] folyamatban lévő ügyekben is alkalmazni kell.
+## 77/G. §[^453] E rendeletnek az egyes építésügyi, örökségvédelmi, vagyongazdálkodási és kormányzati igazgatási tárgyú kormányrendeletek módosításáról szóló 315/2022. (VIII. 16.) Korm. rendelettel (a továbbiakban: Mód. Kr.8.) megállapított 18. § (4) bekezdés c) pontját és 25. § (3) bekezdés c) pontját, valamint módosított 18. § (4) bekezdés a) pontját, 19. § (4) bekezdés i) pontját, 25. § (3) bekezdés a) és b) pontját, 33. § (1) bekezdését, 35. § (9) bekezdését, 44. § (1) bekezdését, valamint 77/E. § (1) bekezdését a Mód. Kr.8. hatálybalépésekor[^454] folyamatban lévő ügyekben is alkalmazni kell.
 
 ## 78. § E rendelet
 
@@ -10,5 +10,5 @@ c) az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgá
 
 való megfelelést szolgálja.
 
-[^451]: A 77/G. §-t a 315/2022. (VIII. 16.) Korm. rendelet 4. § (4) bekezdése iktatta be.
-[^452]: A hatálybalépés időpontja 2022. augusztus 17.
+[^453]: A 77/G. §-t a 315/2022. (VIII. 16.) Korm. rendelet 4. § (4) bekezdése iktatta be.
+[^454]: A hatálybalépés időpontja 2022. augusztus 17.

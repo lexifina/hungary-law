@@ -30,7 +30,11 @@ b)[^246]
 
 c)[^247] a (2) bekezdés f) pontja szerinti dokumentum rendelkezésre áll,
 
-d)[^248] a 19. § (4) bekezdés i) pontjában meghatározott épület az ott meghatározott határnapot követően energetikai tanúsítvánnyal igazoltan közel nulla vagy annál kedvezőbb energiaigényű épületként épült meg.
+d)[^248] a miniszteri rendelet hatálya alá tartozó
+
+da) új épület esetén energetikai tanúsítvánnyal igazoltan az építészeti-műszaki dokumentációban meghatározott energetikai jellemzőknek vagy a használatbavételi engedély iránti vagy használatbavétel tudomásulvétele iránti kérelem benyújtásának napján hatályos miniszteri rendelet követelményeinek megfelel,
+
+db) épület bővítése esetén a bővítés – vagy ha a bővítés mértéke meghaladja a bővítendő épület hasznos alapterületének 100%-át, a teljes épület – a miniszteri rendeletben meghatározott számítással vagy energetikai tanúsítvánnyal igazoltan megfelel az építési engedélyhez tartozó engedélyezési záradékkal ellátott építészeti-műszaki dokumentációban foglalt energetikai jellemzőknek vagy a használatbavételre irányuló kérelem benyújtása napján hatályos miniszteri rendeletben meghatározott követelményeknek.
 
 (4) Ha a használatbavételi engedélyezéskor az építésügyi hatóság a rendeltetésszerű és biztonságos építményhasználatot nem gátló hiányosságokat tapasztal, a használatbavételi engedélyt megadja és ezzel egyidejűleg megfelelő teljesítési határidő megjelölésével és a nem teljesítés esetén alkalmazható szankciók alkalmazására való figyelmeztetéssel – a kötelezésre vonatkozó, e rendeletben foglalt előírások szerint – kötelezi az építtetőt a még fennálló hibák, hiányosságok megszüntetésére, a kulturális örökség védelme érdekében szükséges munkálatok elvégzésére.
 
@@ -40,19 +44,19 @@ d)[^248] a 19. § (4) bekezdés i) pontjában meghatározott épület az ott meg
 
 a) az észlelt hibák, hiányosságok, valamint a kikötések és feltételek teljesítésének hiánya az építmény rendeltetésszerű és biztonságos használhatóságát gátolja vagy akadályozza,
 
-b) a 19. § (4) bekezdés i) pontjában meghatározott épület az ott meghatározott határnapon túl a közel nulla vagy annál kedvezőbb energiaigényt nem teljesíti,
+b)[^251] új épület esetén az nem felel meg a 40. § (3) bekezdés d) pont da) alpontjában előírt követelményeknek,
 
-c)[^251] a 39. § (10) bekezdésében meghatározott esetben az épületenergetikai számítás nem igazolja az épületek energetikai jellemzőinek meghatározásáról szóló miniszteri rendeletben meghatározott követelményeknek való megfelelést,
+c)[^252] bővítés esetén az nem felel meg a 40. § (3) bekezdés d) pont db) alpontjában előírt követelményeknek,
 
 d) az építtető a 39. § (8a) bekezdésében foglaltaknak nem tett eleget,
 
-e)[^252] a (2) bekezdés f) pontja szerinti dokumentum nem áll rendelkezésre, vagy
+e)[^253] a (2) bekezdés f) pontja szerinti dokumentum nem áll rendelkezésre, vagy
 
-f)[^253] az építtető – a 22. §-ban meghatározott kivétellel – építésügyi hatósági engedélyhez kötött építési tevékenységgel tért el az építési engedélytől és a hozzá tartozó engedélyezési záradékkal ellátott építészeti-műszaki dokumentációtól.
+f)[^254] az építtető – a 22. §-ban meghatározott kivétellel – építésügyi hatósági engedélyhez kötött építési tevékenységgel tért el az építési engedélytől és a hozzá tartozó engedélyezési záradékkal ellátott építészeti-műszaki dokumentációtól.
 
-(6)[^254]
+(6)[^255]
 
-(7)[^255] A határozat rendelkező része az Ákr. 81. § (1) bekezdésében foglaltakon kívül tartalmazza:
+(7)[^256] A határozat rendelkező része az Ákr. 81. § (1) bekezdésében foglaltakon kívül tartalmazza:
 
 a) az ÉTDR ügy- és iratazonosítót,
 
@@ -60,17 +64,17 @@ b) az építési engedély számát, keltét,
 
 c) a használatbavételi engedély kikötéseit,
 
-d)[^256] kötelezést
+d)[^257] kötelezést
 
 da) a rendeltetésszerű és biztonságos használatot nem veszélyeztető kisebb hibák és hiányosságok esetén a megállapított hibák és hiányosságok megszüntetése érdekében, határidő kitűzése mellett a szükséges építési munkák elvégzésére,
 
-db)[^257]
+db)[^258]
 
-dc)[^258] arról, hogy a használatbavételi engedély véglegessé válását követő hatvan napon belül – amennyiben erre korábban nem került sor – a változás ingatlan-nyilvántartási átvezetése, valamint az OÉNY-ben történő feltüntetés érdekében a megvalósult állapotról a hatályos földhivatali záradékkal ellátott változási vázrajzot kell az OÉNY-be feltölteni,
+dc)[^259] arról, hogy a használatbavételi engedély véglegessé válását követő hatvan napon belül – amennyiben erre korábban nem került sor – a változás ingatlan-nyilvántartási átvezetése, valamint az OÉNY-ben történő feltüntetés érdekében a megvalósult állapotról a hatályos földhivatali záradékkal ellátott változási vázrajzot kell az OÉNY-be feltölteni,
 
-e)[^259] az építési tevékenység rövid leírását, az építmény rendeltetését, valamint az önálló rendeltetési egységek számát, rendeltetésének megjelölését és hasznos alapterületét önálló rendeltetési egységenként.
+e)[^260] az építési tevékenység rövid leírását, az építmény rendeltetését, valamint az önálló rendeltetési egységek számát, rendeltetésének megjelölését és hasznos alapterületét önálló rendeltetési egységenként.
 
-(8)[^260] A határozat tájékoztatást tartalmaz arra vonatkozóan, hogy az építtető az építési, illetve bontási tevékenység befejezését követően, a használatbavételi engedély kézhezvételét követő harminc napon belül (de legkésőbb a kikötések teljesítésekor) – jogszabályban meghatározott minőségű és mennyiségű hulladék keletkezése esetén – köteles elkészíteni az építési tevékenység során ténylegesen keletkezett hulladékról az előírt építési hulladék nyilvántartó lapot, illetve a bontási tevékenység során ténylegesen keletkezett hulladékról az előírt bontási hulladék nyilvántartó lapot, melyet a hulladékgazdálkodási hatósághoz kell benyújtania.
+(8)[^261] A határozat tájékoztatást tartalmaz arra vonatkozóan, hogy az építtető az építési, illetve bontási tevékenység befejezését követően, a használatbavételi engedély kézhezvételét követő harminc napon belül (de legkésőbb a kikötések teljesítésekor) – jogszabályban meghatározott minőségű és mennyiségű hulladék keletkezése esetén – köteles elkészíteni az építési tevékenység során ténylegesen keletkezett hulladékról az előírt építési hulladék nyilvántartó lapot, illetve a bontási tevékenység során ténylegesen keletkezett hulladékról az előírt bontási hulladék nyilvántartó lapot, melyet a hulladékgazdálkodási hatósághoz kell benyújtania.
 
 (9) Az építésügyi hatóság a határozaton a 41. § (2) bekezdésében foglaltak szerint feltünteti az értesítettek körét.
 
@@ -81,16 +85,17 @@ e)[^259] az építési tevékenység rövid leírását, az építmény rendelte
 [^245]: A 40. § (3) bekezdés a) pontja a 262/2015. (IX. 14.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^246]: A 40. § (3) bekezdés b) pontját a 156/2016. (VI. 13.) Korm. rendelet 14. § k) pontja hatályon kívül helyezte.
 [^247]: A 40. § (3) bekezdés c) pontját a 109/2013. (IV. 9.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 244/2019. (X. 22.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^248]: A 40. § (3) bekezdés d) pontját a 262/2015. (IX. 14.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^248]: A 40. § (3) bekezdés d) pontját a 262/2015. (IX. 14.) Korm. rendelet 6. § (2) bekezdése iktatta be, szövege a 200/2023. (V. 25.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
 [^249]: A 40. § (4a) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 4. § (3) bekezdése iktatta be, hatályon kívül helyezte a 441/2015. (XII. 28.) Korm. rendelet 181. § 11. pontja. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^250]: A 40. § (5) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 179. § (11) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^251]: A 40. § (5) bekezdés c) pontja a 457/2017. (XII. 28.) Korm. rendelet 412. § 58. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^252]: A 40. § (5) bekezdés e) pontja a 244/2019. (X. 22.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg.
-[^253]: A 40. § (5) bekezdés f) pontja a 306/2016. (X. 13.) Korm. rendelet 15. § d) pontja, a 244/2019. (X. 22.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
-[^254]: A 40. § (6) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 413. § 31. pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^255]: A 40. § (7) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 412. § 59. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^256]: A 40. § (7) bekezdés d) pont nyitó szövegrésze a 13/2019. (II. 11.) Korm. rendelet 19. § e) pontja szerint módosított szöveg.
-[^257]: A 40. § (7) bekezdés d) pont db) alpontját a 262/2015. (IX. 14.) Korm. rendelet 10. § b) pontja hatályon kívül helyezte.
-[^258]: A 40. § (7) bekezdés d) pont dc) alpontja a 457/2017. (XII. 28.) Korm. rendelet 412. § 60. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^259]: A 40. § (7) bekezdés e) pontját a 38/2020. (III. 10.) Korm. rendelet 6. §-a iktatta be.
-[^260]: A 40. § (8) bekezdése a 312/2021. (VI. 7.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^251]: A 40. § (5) bekezdés b) pontja a 200/2023. (V. 25.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^252]: A 40. § (5) bekezdés c) pontja a 200/2023. (V. 25.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^253]: A 40. § (5) bekezdés e) pontja a 244/2019. (X. 22.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^254]: A 40. § (5) bekezdés f) pontja a 306/2016. (X. 13.) Korm. rendelet 15. § d) pontja, a 244/2019. (X. 22.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
+[^255]: A 40. § (6) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 413. § 31. pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^256]: A 40. § (7) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 412. § 59. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^257]: A 40. § (7) bekezdés d) pont nyitó szövegrésze a 13/2019. (II. 11.) Korm. rendelet 19. § e) pontja szerint módosított szöveg.
+[^258]: A 40. § (7) bekezdés d) pont db) alpontját a 262/2015. (IX. 14.) Korm. rendelet 10. § b) pontja hatályon kívül helyezte.
+[^259]: A 40. § (7) bekezdés d) pont dc) alpontja a 457/2017. (XII. 28.) Korm. rendelet 412. § 60. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^260]: A 40. § (7) bekezdés e) pontját a 38/2020. (III. 10.) Korm. rendelet 6. §-a iktatta be.
+[^261]: A 40. § (8) bekezdése a 312/2021. (VI. 7.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.

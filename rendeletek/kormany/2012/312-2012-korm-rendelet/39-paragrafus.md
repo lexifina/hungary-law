@@ -38,7 +38,7 @@ c)[^236] a lejárt hatályú építési engedéllyel rendelkező építmény ese
 
 d)[^237] a fővállalkozó kivitelező halála vagy megszűnése esetén az építésügyi műszaki szakértő Épkiv. 14. §-ában meghatározott tartalmú nyilatkozatát.
 
-(8a)[^238] Az építtetőnek a használatbavételi engedély iránti kérelem benyújtásáig az épületek energetikai jellemzőinek tanúsításáról szóló kormányrendelet hatálya alá tartozó épületek esetében az energetikai tanúsítványt az OÉNY-ben ki kell állíttatnia.
+(8a)[^238] Az építtetőnek a használatbavételi engedély iránti kérelem benyújtásáig a miniszteri rendelet hatálya alá tartozó új épületek esetében az energetikai tanúsítványt az OÉNY-ben ki kell állíttatnia.
 
 (9) A kérelemhez mellékelni lehet
 
@@ -46,7 +46,7 @@ a) az ügyben érintett szakhatóság előzetes állásfoglalását – amennyib
 
 b)[^239] a 4. § (4) bekezdése szerinti nyilatkozatokat.
 
-(10)[^240] Meglévő épület bővítése esetén, ha a bővítés mértéke meghaladja a bővítendő épület hasznos alapterületének 100%-át, igazolni kell az épületek energetikai jellemzőinek meghatározásáról szóló miniszteri rendeletben meghatározott követelményeknek való megfelelést.
+(10)[^240] A miniszteri rendelet hatálya alá tartozó épület bővítése esetén, ha a bővítés mértéke meghaladja a bővítendő épület hasznos alapterületének 100%-át, a teljes épületre vonatkozóan a miniszteri rendeletben meghatározott számítással vagy energetikai tanúsítvánnyal kell igazolni az építési engedélyhez tartozó engedélyezési záradékkal ellátott építészeti-műszaki dokumentációban foglalt energetikai jellemzőknek vagy a használatbavételre irányuló kérelem benyújtása napján hatályos miniszteri rendelet követelményeinek való megfelelést.
 
 [^228]: A 39. § (1) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 179. § (10) bekezdésével megállapított, nyitó szövegrésze a 144/2017. (VI. 12.) Korm. rendelet 16. § c) pontja szerint módosított szöveg.
 [^229]: A 39. § (1) bekezdés a) pontját a 306/2016. (X. 13.) Korm. rendelet 15. § c) pontja hatályon kívül helyezte.
@@ -58,6 +58,6 @@ b)[^239] a 4. § (4) bekezdése szerinti nyilatkozatokat.
 [^235]: A 39. § (8) bekezdés b) pontja a 262/2015. (IX. 14.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
 [^236]: A 39. § (8) bekezdés c) pontját a 457/2017. (XII. 28.) Korm. rendelet 413. § 29. pontja hatályon kívül helyezte, újonnan a 700/2020. (XII. 29.) Korm. rendelet 14. §-a iktatta be.
 [^237]: A 39. § (8) bekezdés d) pontját újonnan a 700/2020. (XII. 29.) Korm. rendelet 14. §-a iktatta be.
-[^238]: A 39. § (8a) bekezdését a 262/2015. (IX. 14.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^238]: A 39. § (8a) bekezdését a 262/2015. (IX. 14.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 200/2023. (V. 25.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
 [^239]: A 39. § (9) bekezdés b) pontja a 360/2019. (XII. 30.) Korm. rendelet 108. § (2) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^240]: A 39. § (10) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 410. § (14) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^240]: A 39. § (10) bekezdése a 200/2023. (V. 25.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.

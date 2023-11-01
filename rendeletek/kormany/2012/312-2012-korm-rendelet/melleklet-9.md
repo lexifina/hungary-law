@@ -18,9 +18,9 @@
 
 ## 1.2. Épületgépészeti műszaki leírás, melynek minden esetben része:
 
-## 1.2.1. alternatív energiaellátás megvalósíthatósági elemzését az épületek energetikai jellemzőinek meghatározásáról szóló 7/2006. (V. 24.) TNM rendeletben meghatározott esetekben és annak 4. melléklete szerint,
+## 1.2.1. alternatív energiaellátás megvalósíthatósági elemzése a miniszteri rendeletben meghatározott esetekben és annak 4. melléklete szerint,
 
-## 1.2.2. az épületek energetikai jellemzőinek meghatározásáról szóló 7/2006. (V. 24.) TNM rendelet hatálya alá tartozó épületek esetében legalább az épületek energetikai jellemzőinek tanúsításáról szóló 176/2008. (VI. 30.) Korm. rendelet 2. melléklet 2. pontjában meghatározott részletezettséggel a követelményeknek való megfelelést igazoló épületenergetikai számítást.
+## 1.2.2. a miniszteri rendelet hatálya alá tartozó épületek esetében a miniszteri rendelet 1. és 2. mellékletében meghatározott követelményeknek való megfelelést igazoló miniszteri rendelet szerinti épületenergetikai számítás az épületek energetikai jellemzőinek tanúsításáról szóló 176/2008. (VI. 30.) Korm. rendelet 2. mellékletében meghatározott tartalommal.
 
 ## 1.3. Tartószerkezeti műszaki leírás
 
@@ -292,7 +292,7 @@
 
 ## 9.4.9. az adott rendeltetéssel érintett építmény, építményrész tartalmaz-e azbesztet.
 
-9. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^460]
+9. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^462]
 
 Statisztikai adatlap épület bontásának engedélyezéséhez és tudomásulvételéhez
 
@@ -340,4 +340,4 @@ Statisztikai adatlap épület bontásának engedélyezéséhez és tudomásulvé
 
 | 16. | Összesen |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^460]: A 9. melléklet a 482/2016. (XII. 28.) Korm. rendelet 32. § j) pontja és 33. § d) pontja szerint módosított szöveg.
+[^462]: A 9. melléklet a 482/2016. (XII. 28.) Korm. rendelet 32. § j) pontja és 33. § d) pontja szerint módosított szöveg.
