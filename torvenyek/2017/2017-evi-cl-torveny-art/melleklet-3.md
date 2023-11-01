@@ -273,7 +273,3 @@
 ## II.
 
 ## AZ ÖNKORMÁNYZATI ADÓHATÓSÁGHOZ TELJESÍTENDŐ BEFIZETÉSEK
-
-## Általános rendelkezések
-
-## Ha a helyi adóban az esedékes adó összege az ezer forintot nem éri el, akkor azt az adózónak kizárólag akkor kell megfizetnie, amikor a meg nem fizetett és a jövőben esedékessé váló adó együttes összege az ezer forintot eléri. Az ezer forintot el nem érő, korábban esedékessé vált adó után – az adónemben ezer forintot elérő adófizetési kötelezettség esedékességéig – késedelmi pótlék nem számítható fel.
