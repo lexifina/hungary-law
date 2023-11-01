@@ -1,0 +1,9 @@
+4. § (1) A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 47. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(1) Az a személy vagy szervezet, aki vagy amely az Ftv. 3. § (1) bekezdés c) pont ca) alpontjában meghatározott engedéllyel rendelkezik, jogosult annak hatályossága alatt az engedélyben szereplő lőfegyver, lőfegyverdarab, lőfegyvernek minősülő légfegyver, lőszer, illetve lőszerelem behozatalára. Az Európai Unióhoz nem tartozó államból történő behozatal esetén ennek tényét a Nemzeti Adó- és Vámhivatal területileg illetékes vámszerve az engedélyen bélyegzőlenyomattal és aláírással igazolja.
+
+(2) Ha a 45. § a) pontjában meghatározott engedéllyel nem rendelkező személy vagy szervezet egyedi jóváhagyást igénylő lőfegyvert, illetve lőszert akar Magyarország területéről kivinni vagy azon átszállítani, az ehhez szükséges engedély megszerzéséhez köteles igazolni, hogy a lakóhelye, székhelye vagy telephelye szerinti államban jogosult az adott lőfegyver, lőszer gyártására, javítására, forgalmazására, kiállítására, megszerzésére vagy tartására.”
+
+(2) A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 47. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) A hangtompítónak az ország területére történő behozatalához, az ország területéről történő kiviteléhez, illetve az ország területén történő átszállításához nincs szükség a 45. § b) pontjában meghatározott engedélyre abban az esetben, ha a hangtompítót jogszerűen birtokló személy rendelkezik a sportlőfegyver, illetve a vadászlőfegyver tartására jogosító engedéllyel. Ilyen esetben a 45. § b) pontjában meghatározott engedélyt a sportlőfegyver, illetve a vadászlőfegyver tartására jogosító engedély helyettesíti, feltéve, hogy a hangtompító felszerelésére alkalmas lőfegyvert a tartására jogosító engedély meglétét igazoló hatósági igazolványba bejegyezték.”
