@@ -1,1 +1,7 @@
-### 140. §
+140. § A Nemzeti Egészségügyi és Orvosképzésért Alapítványról, a Nemzeti Egészségügyi és Orvosképzésért Alapítvány és a Semmelweis Egyetem részére történő vagyonjuttatásról szóló 2021. évi XX. törvény 3. alcíme a következő 6/A–6/C. §-sal egészül ki:
+
+„6/A. § A Dél-pesti Centrumkórház – Országos Hematológiai és Infektológiai Intézet jogutódja a Merényi Gusztáv telephely (a továbbiakban: Merényi telephely) traumatológiai járó- és fekvőbeteg-szakellátása tekintetében az Egyetem. A Merényi telephely traumatológiai járó- és fekvőbeteg-szakellátását 2023. november 1. napjától az Egyetem klinikai központja látja el.
+
+6/B. § Az 5. § (1b) bekezdése szerinti ingatlan tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas háromoldalú szerződést a tulajdonosi joggyakorló és a Dél-pesti Centrumkórház – Országos Hematológiai és Infektológiai Intézet köti meg az Egyetemmel.
+
+6/C. § A Merényi telephelyet érintő, európai uniós forrásból finanszírozott, folyamatban lévő vagy fenntartás alatt álló projektje vonatkozásában a Dél-pesti Centrumkórház – Országos Hematológiai és Infektológiai Intézet jogutódja az Egyetem. E projektekkel összefüggő jogok és kötelezettségek az Egyetemet illetik meg, illetve terhelik. Az Egyetem köteles az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló kormányrendelet alapján a változást az érintett irányító hatóság részére bejelenteni.”
