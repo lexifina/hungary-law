@@ -2,7 +2,7 @@
 
 (2)[^73] Aktív fekvőbeteg-ellátási háttér az egészségügyi intézményen belül, vagy más olyan egészségügyi intézménnyel kötött szerződéssel biztosítható, amely a biztosított számára 30 percen belül elérhető.
 
-(3)[^74] A 10. számú mellékletben felsorolt meddőségi kezelések közül a 6530, 6540, 6550, 6560 HBCs-ben elszámolható beavatkozási sorozatok kezdete a gyógyszerstimulálási kezelés első napja, második fázisa a petesejtnyerés, maximális időtartama a HBCs felső határnapja. A kezelések a kötelező egészségbiztosítás keretében igénybe vehető meddőségkezelési eljárásokról szóló 49/1997. (XII. 17.) NM rendeletben (a továbbiakban: Rendelet) előírt számban és gyakorisággal jelenthetők. A kezelések fázisai (a különálló beavatkozások) csak egymást követő sorrendben jelenthetők, az első két beavatkozásért 1,00000 súlyszám külön is elszámolható. A HBCs súlyszámérték tartalmazza a hűtési költségeket is.
+(3)[^74] A 10. számú melléklet szerinti meddőségi kezelések a kötelező egészségbiztosítás keretében igénybe vehető meddőségkezelési eljárásokról szóló 49/1997. (XII. 17.) NM rendeletben előírt számban és gyakorisággal jelenthetők. Petesejt leszívásának céljából végzett stimulációért önmagában 0,25000 súlyszám, amennyiben emellett petesejt leszívása is történik, 1,40953 súlyszám, fagyasztott petesejt felhasználásáért, amennyiben további részfolyamat nem történik, 0,25000 súlyszám számolható el.
 
 (3a)[^75] A 10. számú mellékletben felsorolt meddőségi kezelések közül a 6570 HBCs-ben elszámolható beavatkozási sorozatok a Rendeletben előírt számban és gyakorisággal jelenthetők. A különálló beavatkozások a 92700 vagy a 92701 OENO kódú eljárás nélkül is elszámolhatók a HBCs súlyszámértékének 50 százalékával.
 
@@ -18,7 +18,7 @@
 
 [^72]: A 7. §-t a 3/1997. (II. 13.) NM rendelet 2. §-a iktatta a szövegbe.
 [^73]: A 7. § (2) bekezdése a 7/2001. (III. 2.) EüM rendelet 3. §-ának (1) bekezdésével megállapított szöveg.
-[^74]: A 7. § (3) bekezdése a 2/2020. (I. 30.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^74]: A 7. § (3) bekezdése a 34/2023. (VIII. 24.) BM rendelet 1. §-ával megállapított szöveg.
 [^75]: A 7. § (3a) bekezdését a 2/2020. (I. 30.) EMMI rendelet 1. §-a iktatta be.
 [^76]: A 7. § (4) bekezdése a 48/2005. (XI. 8.) EüM rendelet 2. §-ával megállapított, a 36/2011. (VI. 27.) NEFMI rendelet 6. §-a szerint módosított szöveg.
 [^77]: A 7. § (4a) bekezdését a 36/2011. (VI. 27.) NEFMI rendelet 2. §-a iktatta be, szövege az 54/2016. (XII. 30.) EMMI rendelet 2. § g)–h) pontja szerint módosított szöveg.
