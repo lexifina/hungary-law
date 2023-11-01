@@ -1,25 +1,26 @@
-12. §[^61] (1) Az önálló rendeltetési egység bérbeadása esetén a 2015. december 31-ét követően kötött bérleti szerződéshez kell tanúsítványt kiállítani.
+12. §[^65] (1) Az önálló rendeltetési egység bérbeadása esetén a 2015. december 31-ét követően kötött bérleti szerződéshez kell tanúsítványt kiállítani.
 
 (2) E rendeletnek az egyes építésügyi és területrendezési tárgyú kormányrendeletek módosításáról szóló 105/2012. (V. 30.) Korm. rendelettel megállapított 3. § (3) bekezdését az önálló rendeltetési egység esetében a 2015. december 31-ét követően kötött bérleti szerződés tekintetében kell alkalmazni.
 
-(3)[^62] 2016. március 1-jéig az Országos Építésügyi Nyilvántartás (a továbbiakban: OÉNY) üzemeltetője az OÉNY-ben 2016. január 1-je előtt kiállított tanúsítványoknak számítógépes algoritmusok segítségével a 2016. január 1-jén hatályba lépő követelményszintnek megfelelő új energetikai minőség szerinti besorolást (a továbbiakban: új besorolást) ad
+(3)[^66]
 
-a) lakó- és oktatási rendeltetésűként nyilvántartott épületek esetében a 4. § (7) bekezdésének megfelelően,
+(4)[^67]
 
-b) iroda rendeltetésűként nyilvántartott épületek esetében a 4. § (7) bekezdésének megfelelően a hűtéssel ellátott területeket figyelmen kívül hagyva,
+(5)[^68]
 
-c) egyéb rendeltetésű épületek esetén a „BB” besorolás maximumát 100 kWh/m2a referencia értékre számítva,
+(6)[^69] A 2016. január 1. előtt a lakásépítési támogatásról szóló kormányrendelet szerint kötött támogatási szerződések teljesítésének igazolásához a szerződéskötés időpontjában hatályban lévő szabályok szerint elkészített tanúsítványt is be lehet nyújtani.
 
-a 2016. január 1-jén hatályba lépett 3. melléklet és a 8. § (2) bekezdésének megfelelően. Az új besorolás meghatározása során az új besorolást végző nem vizsgálja a Rend. 6. melléklet II. és IV. részében foglaltaknak való megfelelést, ami a „BB” besorolás alapfeltétele. A számítógépes algoritmus új besorolása „CC” besorolást ad eredményül a Rend. 6. melléklet III. részének megfelelő esetekben. Az új besorolásról az OÉNY összefoglaló pótlapot állít ki, ami a 2016. január 1-je előtt készült összefoglaló lappal és alátámasztó munkarésszel együtt érvényes a 8. § (1) bekezdése figyelembevételével meghatározott időpontig.
+(7)[^70] A 2023. október 31-éig közel nulla vagy annál kedvezőbb energiaigényűként
 
-(4)[^63] 2016. március 1-je után az épület vagy önálló rendeltetési egység tulajdonosa vagy a korábbi tanúsítvány megrendelője elektronikus formában, díjmentesen igényelheti a (3) bekezdés szerinti új besorolást tartalmazó összefoglaló pótlapot az Építésügyi Dokumentációs és Információs Központról, valamint az Országos Építésügyi Nyilvántartásról szóló kormányrendeletben meghatározottak szerint.
+a) kérelmezett építési engedéllyel rendelkező vagy
 
-(5)[^64] A 3. § (5) bekezdésében meghatározottak szerint kifüggesztett tanúsítvány összefoglaló lapot 2016. július 1-jéig ki kell cserélni a (3) bekezdés szerinti új besorolással ellátott összefoglaló pótlapra.
+b) egyszerű bejelentés alapján megépítendő
 
-(6)[^65] A 2016. január 1. előtt a lakásépítési támogatásról szóló kormányrendelet szerint kötött támogatási szerződések teljesítésének igazolásához a szerződéskötés időpontjában hatályban lévő szabályok szerint elkészített tanúsítványt is be lehet nyújtani.
+épület esetében, ha a Rend. szerint elkészített energetikai tanúsítvány szerint az épület nem felelne meg a közel nulla vagy annál kedvezőbb energiaigény követelményének, a tanúsítvány mellett attól különállóan, a közel nulla vagy annál kedvezőbb energiaigény követelményeinek való megfelelést igazoló számítást az e rendeletnek az építési engedély kérelme benyújtásának vagy az egyszerű bejelentés megtételének napján hatályos tartalmával és a Rend. ugyanekkor hatályos számítási módszere szerint is el lehet készíteni.
 
-[^61]: A 12. §-t a 105/2012. (V. 30.) Korm. rendelet 12. §-a iktatta be.
-[^62]: A 12. § (3) bekezdését a 261/2015. (IX. 14.) Korm. rendelet 5. §-a iktatta be.
-[^63]: A 12. § (4) bekezdését a 261/2015. (IX. 14.) Korm. rendelet 5. §-a iktatta be.
-[^64]: A 12. § (5) bekezdését a 261/2015. (IX. 14.) Korm. rendelet 5. §-a iktatta be.
-[^65]: A 12. § (6) bekezdését a 261/2015. (IX. 14.) Korm. rendelet 5. §-a iktatta be.
+[^65]: A 12. §-t a 105/2012. (V. 30.) Korm. rendelet 12. §-a iktatta be.
+[^66]: A 12. § (3) bekezdését a 261/2015. (IX. 14.) Korm. rendelet 5. §-a iktatta be, a 200/2023. (V. 25.) Korm. rendelet 12. § e) pontja hatályon kívül helyezte.
+[^67]: A 12. § (4) bekezdését a 261/2015. (IX. 14.) Korm. rendelet 5. §-a iktatta be, a 200/2023. (V. 25.) Korm. rendelet 12. § e) pontja hatályon kívül helyezte.
+[^68]: A 12. § (5) bekezdését a 261/2015. (IX. 14.) Korm. rendelet 5. §-a iktatta be, a 200/2023. (V. 25.) Korm. rendelet 12. § e) pontja hatályon kívül helyezte.
+[^69]: A 12. § (6) bekezdését a 261/2015. (IX. 14.) Korm. rendelet 5. §-a iktatta be.
+[^70]: A 12. § (7) bekezdését a 200/2023. (V. 25.) Korm. rendelet 9. §-a iktatta be.

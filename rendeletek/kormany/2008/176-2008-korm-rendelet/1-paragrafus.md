@@ -28,6 +28,8 @@ bb)[^6] bérbeadása;
 
 c)[^7] 500 m2-nél nagyobb hasznos alapterületű hatósági rendeltetésű, állami tulajdonú közhasználatú épület
 
+esetén.
+
 [^1]: Az 1. § (1) bekezdése a 387/2014. (XII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. § (2) bekezdése a 387/2014. (XII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^3]: Az 1. § (2) bekezdés e) pontja a 701/2020. (XII. 29.) Korm. rendelet 1. §-a szerint módosított szöveg.

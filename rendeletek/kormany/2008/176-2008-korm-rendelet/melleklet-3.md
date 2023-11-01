@@ -1,49 +1,45 @@
 3. melléklet a 176/2008. (VI. 30.) Korm. rendelethez[^73]
 
-## Épületenergetikai minőség szerinti besorolás (az energetikai minőségi osztályok)
+Energetikai minőség és szén-dioxid-kibocsátás szerinti besorolás (hatékonysági osztályok)
 
-1. Az energetikai minőséget elsősorban a vizsgált épület, illetve önálló rendeltetési egység összesített energetikai mutatójának és a 4. § (7) bekezdése szerinti minimumkövetelményeknek éppen megfelelő, viszonyítási alapként szolgáló épület, illetve önálló rendeltetési egység összesített energetikai mutatójának százalékban kifejezett arányával kell jellemezni.
+1. A hatékonyságot az alábbi indikátorral kell jellemezni, és kétféle hatékonysági skálán kell a tanúsított épületeket vagy önálló rendeltetési egységeket besorolni.
 
-2. „BB” vagy annál jobb besorolás csak abban az esetben adható az épületre vagy a benne lévő önálló rendeltetési egységre, ha az épület egésze megfelel a Rend. 6. melléklet II. és IV. részében meghatározott követelményeknek is.
+1.1. Az energetikai minőséget a vizsgált épület vagy önálló rendeltetési egység összesített energetikai jellemzőjének és az új épületek létesítése során a teljes épület összesített energetikai jellemzője Rend. szerint megengedett követelményértékének százalékban kifejezett arányával kell jellemezni. A Rend. szerinti egyéb rendeltetésű épületek önálló rendeltetési egységeinek energetikai tanúsítása esetén az önálló rendeltetési egységre meghatározott új épületekre vonatkozó követelményértékek tekintendők viszonyítási alapnak.
 
-3. „AA” vagy annál jobb besorolás csak a Rend. szerinti részletes módszerrel vagy dinamikus szimulációval alátámasztott módon adható. A dinamikus szimulációs esetén is a Rend.-ben meghatározott mértezési alapadatokkal egyenértékű adatokkal kell végezni a méretezést.
+1.2. A szén-dioxid-kibocsátást a vizsgált épület vagy önálló rendeltetési egység fajlagos szén-dioxid-kibocsátása és az új épületek létesítése során a teljes épület fajlagos szén-dioxid-kibocsátása Rend. szerint megengedett követelményértékének százalékban kifejezett arányával kell jellemezni. A Rend. szerinti egyéb rendeltetésű épületek önálló rendeltetési egységeinek energetikai tanúsítása esetén az önálló rendeltetési egységre meghatározott új épületekre vonatkozó követelményértékek tekintendők viszonyítási alapnak.
 
-4. „AA” vagy annál jobb besorolás csak olyan esetben adható
+2. A vizsgált épület vagy önálló rendeltetési egység összesített energetikai jellemzője, továbbá fajlagos szén-dioxid-kibocsátása és az 1. pont 1.1. és 1.2. alpontja szerinti nevező arányának százalékban kifejezett értéke alapján az épület vagy önálló rendeltetési egység besorolásának betűjele:
 
-4.1. ahol a hőtermelő időjárásfüggő szabályozása megoldott,
+|  | A | B | C | D |
 
-4.2. ahol a hűtési és fűtési rendszer helyiségenkénti szabályozhatósága megoldott,
+| 1. | Összesített energetikai jellemző szerinti besorolás | Fajlagos szén-dioxid-kibocsátás szerinti besorolás |
 
-4.3. ahol az önálló tulajdonú vagy külön bérbe adható épületrészek energiafogyasztásának mérése külön legalább költségosztók felszerelésével vagy egyedi mérőkkel megoldott.
+| 2. | Besorolás | Energetikai minőség (%) | Besorolás | Szén-dioxid-kibocsátás (%) |
 
-5. A vizsgált épület, illetve önálló rendeltetési egység összesített energetikai jellemzője és a viszonyítási alap arányának százalékban kifejezett értéke alapján az épület vagy önálló rendeltetési egység besorolásának betűjele és minőségi osztályának szöveges jellemzése az alábbi:
+| 3. | A+++2023 | ≤0 | A+++2023 | ≤0 |
 
-|  | A | B | C |
+| 4. | A++2023 | 0<…≤50 | A++2023 | 0<…≤50 |
 
-| 1. | Besorolás | Az 1. pont szerinti százalékos viszony | Minőségi osztályának szöveges jellemzése |
+| 5. | A+2023 | 50<…≤90 | A+2023 | 50<…≤90 |
 
-| 2. | AA++ | <40 | Minimális energiaigényű |
+| 6. | A2023 | 90<…≤100 | A2023 | 90<…≤100 |
 
-| 3. | AA+ | 40–60 | Kiemelkedően nagy energiahatékonyságú |
+| 7. | B2023 | 100<…≤130 | B2023 | 100<…≤130 |
 
-| 4. | AA | 61–80 | Közel nulla energiaigényre vonatkozó követelménynél jobb |
+| 8. | C2023 | 130<…≤160 | C2023 | 130<…≤160 |
 
-| 5. | BB | 81–100 | Közel nulla energiaigényre vonatkozó követelményeknek megfelelő |
+| 9. | D2023 | 160<…≤200 | D2023 | 160<…≤200 |
 
-| 6. | CC | 101–130 | Korszerű |
+| 10. | E2023 | 200<…≤250 | E2023 | 200<…≤250 |
 
-| 7. | DD | 131–160 | Korszerűt megközelítő |
+| 11. | F2023 | 250<…≤310 | F2023 | 250<…≤310 |
 
-| 8. | EE | 161–200 | Átlagosnál jobb |
+| 12. | G2023 | 310<…≤390 | G2023 | 310<…≤390 |
 
-| 9. | FF | 201–250 | Átlagos |
+| 13. | H2023 | 390<…≤500 | H2023 | 390<…≤500 |
 
-| 10. | GG | 251–310 | Átlagost megközelítő |
+| 14. | I2023 | 500<… | I2023 | 500<… |
 
-| 11. | HH | 311–400 | Gyenge |
+3. Amennyiben az épület vagy önálló rendeltetési egység műszaki állapota miatt nem alkalmas a rendeltetésszerű funkció ellátására, úgy mind az összesített energetikai jellemző, mind a fajlagos szén-dioxid-kibocsátás szerinti besorolás „I” kategóriába tartozik. Ebben az esetben az energetikai tanúsítványban a nem meghatározható számszerű eredmény adatok nem kerülnek kitöltésre.
 
-| 12. | II | 401–500 | Rossz |
-
-| 13. | JJ | >500 | Kiemelkedően rossz |
-
-[^73]: A 3. melléklet a 261/2015. (IX. 14.) Korm. rendelet 6. § c) pontjával megállapított szöveg.
+[^73]: A 3. melléklet a 200/2023. (V. 25.) Korm. rendelet 10. § (1) bekezdés c) pontjával megállapított szöveg.
