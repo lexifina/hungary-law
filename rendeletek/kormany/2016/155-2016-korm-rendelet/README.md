@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-155-20-
 | 2021-03-11 | 2016-155-20-22.10 | 114/2021. (III. 10.) Korm. rendelet |
 | 2022-01-11 | 2016-155-20-22.11 | 788/2021. (XII. 27.) Korm. rendelet |
 | 2022-08-17 | 2016-155-20-22.12 | 315/2022. (VIII. 16.) Korm. rendelet |
+| 2023-11-01 | 2016-155-20-22.13 | 200/2023. (V. 25.) Korm. rendelet |

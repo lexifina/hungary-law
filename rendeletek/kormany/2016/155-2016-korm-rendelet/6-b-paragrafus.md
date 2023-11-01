@@ -1,4 +1,4 @@
-6/B. §[^54] (1) A felelősségbiztosításnak fedezetet kell nyújtania a biztosított tevékenység körében felmerülő dologi és személyben történő károkozás esetére.
+6/B. §[^51] (1) A felelősségbiztosításnak fedezetet kell nyújtania a biztosított tevékenység körében felmerülő dologi és személyben történő károkozás esetére.
 
 (2) A tervezői felelősségbiztosításnak ki kell terjednie a felelősségbiztosítási szerződés hatálya alatt
 
@@ -18,4 +18,4 @@ c) az általa bármely jogviszonyban foglalkoztatott felelős műszaki vezető �
 
 biztosítására.
 
-[^54]: A 6/B. §-t a 353/2016. (XI. 18.) korm. rendelet 5. § (1) bekezdése iktatta be.
+[^51]: A 6/B. §-t a 353/2016. (XI. 18.) korm. rendelet 5. § (1) bekezdése iktatta be.

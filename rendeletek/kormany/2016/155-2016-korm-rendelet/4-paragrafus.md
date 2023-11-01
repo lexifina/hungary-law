@@ -10,7 +10,7 @@ c) a lakások, önálló rendeltetési egységek számát vagy
 
 d) az épület telken belüli elhelyezkedését
 
-## érinti.
+érinti.
 
 (3)[^25] Ha az egyszerű bejelentés a saját lakhatás biztosítása céljából valósul meg, akkor az építési tevékenység
 
@@ -20,7 +20,7 @@ b) tervezői művezetés, valamint
 
 c) tervezői és kivitelezői felelősségbiztosítás
 
-## nélkül végezhető.
+nélkül végezhető.
 
 (4)[^26] Ha az építtető a (3) bekezdéstől eltérően az elektronikus építési napló vezetése mellett dönt, akkor a naplóvezetésre vonatkozó szabályokat be kell tartani.
 

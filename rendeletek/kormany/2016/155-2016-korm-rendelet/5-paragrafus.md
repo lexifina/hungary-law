@@ -6,7 +6,7 @@ b) az 1. § (1) bekezdés a) vagy b) pontja szerint egyszerű bejelentéssel meg
 
 c) az 1. § (1) bekezdés c) vagy d) pontja szerint egyszerű bejelentéssel megkezdett építési tevékenységet nem természetes személy építtető vagy nem saját lakhatásának biztosítása céljából végzi,
 
-## és az Étv. 48/A. § (1) bekezdésében foglaltak teljesülnek, az építtető az R. szerint fennmaradási engedély iránti kérelmet terjeszthet elő.
+és az Étv. 48/A. § (1) bekezdésében foglaltak teljesülnek, az építtető az R. szerint fennmaradási engedély iránti kérelmet terjeszthet elő.
 
 (2)[^30] Ha az építtető a fennmaradási engedély iránti kérelmet a lakóépület rendeltetésszerű és biztonságos használatra alkalmassá válása előtt nyújtja be, az épületet a végleges fennmaradási és továbbépítési engedély birtokában lehet továbbépíteni.
 

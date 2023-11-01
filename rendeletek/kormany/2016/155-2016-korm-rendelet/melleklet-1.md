@@ -1,8 +1,6 @@
-## 9. §[^68]
+1. melléklet a 155/2016. (VI. 13.) Korm. rendelethez[^65]
 
-1. melléklet a 155/2016. (VI. 13.) Korm. rendelethez[^69]
-
-## Az egyszerű bejelentési dokumentáció munkarészei
+Az egyszerű bejelentési dokumentáció munkarészei
 
 1. Helyszínrajz M=1:200 méretarányban, amely tartalmazza a következőket:
 
@@ -104,9 +102,9 @@ jc) a tervezésben részt vett valamennyi tervező neve, tervezői jogosultsági
 
 5.2. Épületgépészeti műszaki leírás, melynek minden esetben része:
 
-a) alternatív energiaellátás megvalósíthatósági elemzése az épületek energetikai jellemzőinek meghatározásáról szóló 7/2006. (V. 24.) TNM rendeletben meghatározott esetekben és annak 4. melléklete szerint,
+a)[^66] alternatív energiaellátás megvalósíthatósági elemzése az épületek energetikai jellemzőinek meghatározásáról szóló miniszteri rendeletben meghatározott esetekben és annak 4. melléklete szerint,
 
-b) az épületek energetikai jellemzőinek meghatározásáról szóló 7/2006. (V. 24.) TNM rendelet hatálya alá tartozó épületek esetében legalább az épületek energetikai jellemzőinek tanúsításáról szóló 176/2008. (VI. 30.) Korm. rendelet 2. melléklet 2. pontjában meghatározott részletezettséggel a követelményeknek való megfelelést igazoló épületenergetikai számítás,
+b)[^67] a miniszteri rendelet hatálya alá tartozó épületek esetében a miniszteri rendelet 1. és 2. mellékletében meghatározott követelményeknek való megfelelést igazoló miniszteri rendelet szerinti épületenergetikai számítás az épületek energetikai jellemzőinek tanúsításáról szóló 176/2008. (VI. 30.) Korm. rendelet 2. mellékletében meghatározott tartalommal,
 
 c) az építmény gépészeti kialakítása, vízellátási, szennyvíz- és csapadékvíz elvezetési, gázellátási és égéstermék elvezetési; fűtési és hűtési, valamint légtechnikai rendszerek bemutatása, összefoglalása.
 
@@ -122,7 +120,7 @@ a) az építmény tartószerkezetének rendszere, az alkalmazott fesztávok, a f
 
 b) meglévő építmény esetén a tehernövekedéssel érintett függőleges és vízszintes teherhordó szerkezetéről, valamint a meglévő teherhordó szerkezetek megfelelőségéről, illetve megerősítésére vonatkozó tartószerkezeti megoldások.
 
-6.[^70] Tartószerkezeti terv, zártsorúan vagy ikresen csatlakozó épületek, emeletráépítés, monolit vasbeton szerkezet (kivéve az 5,4 m-es fal- vagy oszlopközű vagy annál kisebb fesztávú előregyártott födémszerkezethez csatlakozó vasbeton koszorút), vagy 5,4 métert meghaladó támaszközű tartószerkezet esetén, számítással igazolva
+6.[^68] Tartószerkezeti terv, zártsorúan vagy ikresen csatlakozó épületek, emeletráépítés, monolit vasbeton szerkezet (kivéve az 5,4 m-es fal- vagy oszlopközű vagy annál kisebb fesztávú előregyártott födémszerkezethez csatlakozó vasbeton koszorút), vagy 5,4 métert meghaladó támaszközű tartószerkezet esetén, számítással igazolva
 
 a) alapozás, zártsorú és ikres beépítés esetén a szomszédos, meglévő épületek feltárás útján meghatározott alapsíkjának megadása,
 
@@ -132,6 +130,7 @@ c) monolit és előre gyártott födémek és azok elemei,
 
 d) szintek áthidalására szolgáló szerkezetek.
 
-[^68]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^69]: Az 1. melléklet a 244/2019. (X. 22.) Korm. rendelet 25. §-ával megállapított szöveg.
-[^70]: Az 1. melléklet 6. pont nyitó szövegrésze a 700/2020. (XII. 29.) Korm. rendelet 26. § f) pontja szerint módosított szöveg.
+[^65]: Az 1. melléklet a 244/2019. (X. 22.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^66]: Az 1. melléklet 5.2. pont a) alpontja a 200/2023. (V. 25.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
+[^67]: Az 1. melléklet 5.2. pont b) alpontja a 200/2023. (V. 25.) Korm. rendelet 24. § b) pontja szerint módosított szöveg.
+[^68]: Az 1. melléklet 6. pont nyitó szövegrésze a 700/2020. (XII. 29.) Korm. rendelet 26. § f) pontja szerint módosított szöveg.
