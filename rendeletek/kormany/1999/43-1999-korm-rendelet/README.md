@@ -128,3 +128,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-43-20-2
 | 2023-09-01 | 1999-43-20-22.200 | 507/2017. (XII. 29.) Korm. rendelet |
 | 2023-09-15 | 1999-43-20-22.202 | 428/2023. (IX. 14.) Korm. rendelet |
 | 2023-10-01 | 1999-43-20-22.198 | 322/2023. (VII. 17.) Korm. rendelet |
+| 2023-11-01 | 1999-43-20-22.201 | 395/2023. (VIII. 24.) Korm. rendelet |

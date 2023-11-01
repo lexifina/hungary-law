@@ -1,4 +1,4 @@
-77/F. §[^613] (1) A (2) és (3) bekezdésben foglaltak szerint 2023. április, május és június hónapokban kompenzálásra (e § alkalmazásában a továbbiakban: kompenzáló támogatás) kerül
+77/F. §[^611] (1) A (2) és (3) bekezdésben foglaltak szerint 2023. április, május és június hónapokban kompenzálásra (e § alkalmazásában a továbbiakban: kompenzáló támogatás) kerül
 
 a) a 12/A. § szerinti díjazás (e § alkalmazásában a továbbiakban: háziorvosi díjazás) és
 
@@ -8,4 +8,4 @@ b) a 25/B. § szerinti díjazás (e § alkalmazásában a továbbiakban: fogorvo
 
 (3) Az (1) bekezdés b) pontja szerinti kompenzáló támogatás számításakor a 2023. február, március, április hónapokban elvégzett és lejelentett teljesítmény alapján a NEAK a 2022. december 31-ig és a 2023. január 1-től hatályos szabályok szerint is kiszámítja a fogorvosi díjazás havi összegét. Ha a két számítás eredménye az adott hónapban több mint 75 000 forint csökkenést mutat, a 75 000 forint feletti különbözetet kompenzáló támogatásként megkapja a fogorvosi szolgáltató.
 
-[^613]: A 77/F. §-t a 97/2023. (III. 29.) Korm. rendelet 1. §-a iktatta be.
+[^611]: A 77/F. §-t a 97/2023. (III. 29.) Korm. rendelet 1. §-a iktatta be.

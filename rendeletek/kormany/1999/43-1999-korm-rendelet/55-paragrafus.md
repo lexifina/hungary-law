@@ -1,3 +1,3 @@
-55. §[^535]
+55. §[^533]
 
-[^535]: Az 55. §-t újonnan a 263/2011. (XII. 13.) Korm. rendelet 2. §-a iktatta be, újból hatályon kívül helyezte e módosító rendelet 6. § a) pontja.
+[^533]: Az 55. §-t újonnan a 263/2011. (XII. 13.) Korm. rendelet 2. §-a iktatta be, újból hatályon kívül helyezte e módosító rendelet 6. § a) pontja.
