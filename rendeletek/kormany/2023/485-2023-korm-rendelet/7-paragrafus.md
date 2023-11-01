@@ -1,0 +1,1 @@
+7. § A 4. §-t és a 6. §-t a Vksztv. 5/H. § (2) vagy (3) bekezdése, illetve azokhoz kapcsolódóan a települési önkormányzat Vksztv. 5/H. § (9) bekezdése szerinti folyamatban lévő átruházásra irányuló eljárásokban még hatályba nem lépett szerződések vonatkozásában is alkalmazni kell.
