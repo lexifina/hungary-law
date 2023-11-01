@@ -1,0 +1,3 @@
+1. § Az Elektronikus Egészségügyi Szolgáltatási Térrel kapcsolatos részletes szabályokról szóló 39/2016. (XII. 21.) EMMI rendelet (a továbbiakban: R.) 2/A. alcíme a következő 3/B. §-sal egészül ki:
+
+„3/B. § A közfinanszírozott egészségügyi ellátás céljából felhasznált, az Eüak. 35/B. § (5) bekezdése szerint engedélyezett informatikai rendszer engedélyjogosultja – az általa kiszolgált, digitális időpontfoglalási rendszert használó egészségügyi szolgáltató kérelmére – biztosítja, hogy az informatikai rendszer az EESZT útján digitálisan elérhetővé tett betegfogadási időpont elérhetővé tételéhez, alkalmazásához és ellenőrzéséhez szükséges adatokat fogadni és továbbítani tudja.”
