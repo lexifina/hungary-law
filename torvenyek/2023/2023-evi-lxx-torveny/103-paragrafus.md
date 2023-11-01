@@ -1,7 +1,7 @@
 103. § Hatályát veszti a Kit.
 
-a) 84. § (2) és (4) bekezdése,
+a)
 
-b) 107. § (7) bekezdés a) pontja,
+b)
 
-c) 170. § (14) bekezdése.
+c)

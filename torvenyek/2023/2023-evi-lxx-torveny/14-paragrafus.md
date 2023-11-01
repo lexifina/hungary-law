@@ -60,9 +60,7 @@ d) a honosított személy rendelkezik más érvényes, személyazonosság igazol
 
 (10) Ha az állampolgársági eskü vagy fogadalom letételére a felhívás kézbesítésétől számított egy éven belül, a honosított hibájából nem kerül sor, a honosítási, visszahonosítási határozat hatályát veszti, és a honosítási okiratot a felhívás kézbesítésétől számított 13 hónap elteltével az eskütételi igazgatási szerv, a polgármester vagy – a soron következő diplomáciai posta útján – a magyar külképviselet vezetője megküldi az állampolgársági ügyekben eljáró szervnek. Ha a 4. § (2a), (3), (3a) és (7) bekezdése alapján honosított, illetve az 5. § alapján visszahonosított személy a (3) bekezdés szerinti kérelmet terjeszt elő, akkor a határidőt az első felhívás kézbesítésétől kell számítani.”
 
-(3) Az Áptv. 19. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) Az (EU) 2018/1240 európai parlamenti és tanácsi rendelet 55. cikk (5) bekezdése szerinti ellenőrzés érdekében a magyar állampolgárság honosítással vagy visszahonosítással történő megszerzéséről – a 14. § (1) bekezdés a) pontjában és a 20/A. § (1) bekezdésében meghatározott adatokkal – az állampolgársági eskü vagy fogadalom letételének helye szerint illetékes anyakönyvvezető vagy az eskütételi igazgatási szerv, illetve a 4. § (3), (3a), (6) és (7) bekezdése, illetve az 5. § alapján honosított esetében az állampolgársági eskü vagy fogadalom letételének helye szerint illetékes anyakönyvvezető vagy az eskütételi igazgatási szerv, külképviseleten történt állampolgársági eskü vagy fogadalomtétel esetén pedig az állampolgársági ügyekben eljáró szerv értesíti az ETIAS nemzeti egységet.”
+(3)
 
 (4) Az Áptv. 24. §-a a következő (5) bekezdéssel egészül ki:
 

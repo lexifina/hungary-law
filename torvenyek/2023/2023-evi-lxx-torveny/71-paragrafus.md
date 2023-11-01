@@ -1,9 +1,9 @@
 71. § Hatályát veszti a Kttv.
 
-a) 42. § (3), (5) és (5a) bekezdése,
+a)
 
-b) 63. § (2b) bekezdés a) pontja,
+b)
 
-c) 74. § (3) bekezdése,
+c)
 
-d) 197. § (5) bekezdése.
+d)

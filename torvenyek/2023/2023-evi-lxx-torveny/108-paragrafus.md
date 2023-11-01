@@ -1,9 +1,9 @@
 108. § Hatályát veszti a Küt.
 
-a) 24. § (13) és (15) bekezdése,
+a)
 
-b) 39. § (5) bekezdés a) pontja,
+b)
 
-c) 66/A. § (4) bekezdése,
+c)
 
-d) 95. § (15) bekezdése.
+d)

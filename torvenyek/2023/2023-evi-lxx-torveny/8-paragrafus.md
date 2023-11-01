@@ -1,5 +1,3 @@
 ## 5. A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény módosítása
 
-8. § A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 21/C. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A hirdetményi úton történő kézbesítéskor a végzést a Cégközlöny honlapján kell közzétenni. A közzétételre a Cégközlöny honlapján, napi feltöltéssel kerül sor. A hirdetményi úton történő kézbesítéskor a végzés rendelkező részét tizenöt napra a bíróságok központi internetes honlapján is közzé kell tenni és postai úton meg kell küldeni az adósnak, a vagyonfelügyelőnek és a hitelezői választmánynak, illetve a hitelezői képviselőnek. A végzés rendelkező részét a Cégközlöny honlapján két alkalommal, 2 napos időközökkel kell közzétenni, és a második közzététel napján kell kézbesítettnek tekinteni. A közzététel tartalmazza, hogy a végzés teljes szövege a bíróságon átvehető, továbbá, hogy a végzés ellen benyújtott esetleges fellebbezéseket a fellebbezés bírósághoz érkezését követő 3 munkanapon belül lehet a bíróságon megtekinteni, és a fellebbezés bírósághoz érkezését követő 5 munkanapon belül lehet rá észrevételt benyújtani.”
+### 8. §
