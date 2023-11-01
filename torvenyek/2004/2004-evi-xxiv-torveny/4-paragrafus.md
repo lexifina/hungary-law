@@ -4,7 +4,7 @@ a) az ,,A'' kategóriába tartozó tűzfegyver vagy lőszer;
 
 b) az automata lőfegyver;
 
-c) a hangtompító;
+c) a lőfegyver tartására való jogosultság alapján tartható hangtompítók körébe nem tartozó hangtompító;
 
 d) külső formájában automata szerkezetű lőfegyverre hasonlító félautomata lőfegyver;
 

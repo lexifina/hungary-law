@@ -1,0 +1,1 @@
+4/M. § A törvényes képviselő személyében, illetve a 4/J. § (1) bekezdése szerinti kérelem elbíráláshoz szükséges adatokban a kérelem előterjesztését követően beállott változást a kiskorú köteles haladéktalanul bejelenteni és hitelt érdemlő módon igazolni a kérelem elbírálására jogosult rendőri szervnek.
