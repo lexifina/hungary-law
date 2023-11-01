@@ -1,0 +1,5 @@
+5. § (1) Új épület építése esetén a tervezési programban és az építészeti-műszaki dokumentációban, meglévő épület jelentős felújítása esetén dokumentáltan vizsgálni és rögzíteni kell műszaki, környezetvédelmi és gazdasági szempontból az alternatív rendszerek alkalmazásának lehetőségét a 4. mellékletben foglaltak vagy az azzal egyenértékű módszer szerint.
+
+(2) Az alternatív rendszerek elemzése elvégezhető egyedi épületekre vagy hasonló épületek csoportjaira vagy azonos területen levő, azonos adottságú épülettípusokra vonatkozóan, valamint közös fűtési vagy hűtési rendszer esetében valamennyi, a rendszerre rákötött épületre vonatkozóan is.
+
+(3) Meglévő épületek jelentős felújítása esetén dokumentáltan vizsgálni és rögzíteni kell a nagy hatékonyságú alternatív rendszerek alkalmazásának lehetőségét a (2) bekezdés szerint. A vizsgálatnak a tűzvédelmi követelményeknek való megfelelésre, az egészséges beltéri légállapotra vonatkozó, valamint a földrengésállósági követelmények teljesülésére is ki kell terjednie.
