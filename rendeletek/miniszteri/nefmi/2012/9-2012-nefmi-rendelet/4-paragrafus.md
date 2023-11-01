@@ -10,5 +10,11 @@
 
 (6)[^3] A telemedicina útján nyújtott egészségügyi szolgáltatás T = telemedicinális ellátás ellátási típusként jelenthetőek.
 
+(7)[^4] A meddőségi vizsgálatok keretében elvégzett, a komplex vizsgálati kód részét képező egészségügyi eljárások „R = meddőségi komplex vizsgálati kód részét képező eljárás” beavatkozás jelleggel jelentendők.
+
+(8)[^5] Meddőségi kivizsgálás céljából elvégzett valamennyi beavatkozás kötelezően jelentendő a finanszírozó felé, függetlenül attól, hogy azt az 1. melléklet 6.5. pontja nevesíti-e.
+
 [^2]: A 4. § (5) bekezdését a 33/2020. (IX. 16.) EMMI rendelet 4. §-a iktatta be.
 [^3]: A 4. § (6) bekezdését a 33/2020. (IX. 16.) EMMI rendelet 4. §-a iktatta be.
+[^4]: A 4. § (7) bekezdését a 34/2023. (VIII. 24.) BM rendelet 5. §-a iktatta be.
+[^5]: A 4. § (8) bekezdését a 34/2023. (VIII. 24.) BM rendelet 5. §-a iktatta be.
