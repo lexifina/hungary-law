@@ -1,0 +1,1 @@
+115. § A NAV Szj. tv. 70. § (5) bekezdés b) pontjában az „a foglalkoztatott a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvánnyal nem tudja igazolni” szövegrész helyébe a „bűnügyi nyilvántartó szerv nem igazolja” szöveg lép.
