@@ -1,1 +1,3 @@
-### 111. §
+111. § A Mkk.tv. 10. §-a a következő (3a) bekezdéssel egészül ki:
+
+„(3a) Ha a kárenyhítési hozzájárulás-fizetési kötelezettség összegéről szóló döntés adott tárgyév augusztus 16. után kerül közlésre a 6. § (5) bekezdése szerinti örökös részére, úgy ebben az esetben az örökös általi kárenyhítési hozzájárulás megfizetése kizárólag akkor tekinthető határidőben történő befizetésnek, ha az agrárkár-enyhítési szerv e törvény végrehajtására kiadott rendeletben meghatározott számláján a teljes összeg jóváírásra került a kárenyhítési hozzájárulás-fizetési kötelezettség összegéről szóló határozat véglegessé válástól számított 15 napon belül.”

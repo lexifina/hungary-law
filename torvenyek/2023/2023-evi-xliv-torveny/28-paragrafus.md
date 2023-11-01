@@ -4,4 +4,8 @@
 
 (3)
 
-(4)
+(4) A Vtv. 100. § (1) bekezdés c) pontja a következő 38. alponttal egészül ki:
+
+(Felhatalmazást kap a miniszter, hogy
+
+rendeletben szabályozza)
