@@ -66,26 +66,37 @@
 
 ## i) az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva engedélyezi a Miniszterelnökséget vezető miniszter számára, hogy a Magyar Falu Program keretében a 2024. költségvetési év kiadási előirányzata terhére legfeljebb 10 000 000 000 forint összeg mértékéig pályázatot írjon ki a Kvtv1. 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 41. Magyar Falu Program megvalósításához kapcsolódó támogatások jogcímcsoport, 2. Magyar Falu program jogcím terhére.
 
-## 2. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból és a Központi Maradványelszámolási Alapból történő, illetve fejezetek közötti előirányzat-átcsoportosításról, valamint egyes kormányhatározatok módosításáról szóló 1591/2019. (X. 16.) Korm. határozat 1. pont a) alpontjában a „2023. december 31.” szövegrész helyébe a „2024. december 31.” szöveg lép.
+## 2.[^1]
 
-## 3. A központi költségvetést érintő címrendi módosításról, a Gazdaságvédelmi programok előirányzatból, a Központi Maradványelszámolási Alapból, a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő, fejezetek közötti és fejezeten belüli előirányzat-átcsoportosításokról, valamint egyes kormányhatározatok módosításáról szóló 1397/2020. (VII. 14.) Korm. határozat 1. pont e) alpontjában a „2 562 870 000 forint tekintetében 2023. december 31.” szövegrész helyébe az „1 600 000 000 forint tekintetében 2023. december 31. és 962 870 000 forint tekintetében 2024. december 31.” szöveg lép.
+## 3.[^2]
 
-## 4. A Gazdaságvédelmi programok előirányzatból, a Központi Maradványelszámolási Alapból, a rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Járvány Elleni Védekezés Központi Tartalékából történő előirányzat-átcsoportosításokról, továbbá a terrorellenes intézkedések kezeléséhez szükséges további források biztosításáról, valamint kormányhatározat módosításáról szóló 1596/2020. (IX. 21.) Korm. határozat 1. pont d) alpontjában a „2024. június 30.” szövegrész helyébe a „2025. június 30.” szöveg lép.
+## 4.[^3]
 
-## 5. A Gazdaságvédelmi programok előirányzatból, a Központi Maradványelszámolási Alapból, a rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Járvány Elleni Védekezés Központi Tartalékából történő, valamint fejezetek közötti és fejezeten belüli előirányzat-átcsoportosításokról szóló 1817/2020. (XI. 18.) Korm. határozat 6. pontjában a „2023. december 31.” szövegrész helyébe a „2025. június 30.” szöveg lép.
+## 5.[^4]
 
-## 6. A Kárpát-medencei óvodafejlesztési program negyedik üteméről szóló 1150/2021. (III. 31.) Korm. határozat 3. pontjában a „2023. december 31.” szövegrész helyébe a „2024. december 31.” szöveg lép.
+## 6.[^5]
 
-## 7. A címrendi kiegészítésről, a Gazdaság-újraindítási programok előirányzatból, a rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Járvány Elleni Védekezés Központi Tartaléka előirányzatból, fejezetek közötti és fejezeten belüli előirányzat-átcsoportosításról, kormányhatározat végrehajtása során alkalmazandó eltérő intézkedésről, valamint kormányhatározat módosításáról szóló 1569/2021. (VIII. 9.) Korm. határozat 1. pont d) alpontjában a „2023. december 31.” szövegrész helyébe a „2024. december 31.” szöveg lép.
+## 7.[^6]
 
-## 8. A címrendi kiegészítésről, a Központi Maradványelszámolási Alapból, a Gazdaság-újraindítási programok előirányzatból, a Járvány Elleni Védekezés Központi Tartaléka előirányzatból, a rendkívüli kormányzati intézkedésekre szolgáló tartalékból, fejezeten belüli és fejezetek közötti előirányzat-átcsoportosításról, kormányhatározat végrehajtása során alkalmazandó eltérő rendelkezésről, valamint kormányhatározat módosításáról szóló 1640/2021. (IX. 21.) Korm. határozat 1. pont e) alpontjában a „2024. március 30.” szövegrész helyébe a „2024. december 31.” szöveg lép.
+## 8.[^7]
 
-## 9. A címrendi módosításról és kiegészítésről, a rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Rezsivédelmi Alap központi kiadása előirányzatból történő, fejezeten belüli előirányzat-átcsoportosításról, valamint kormányhatározat módosításáról szóló 1050/2023. (II. 23.) Korm. határozat 1. pont b) alpontjában a „2023. december 31.” szövegrész helyébe a „2023. december 31., a Bethlen Gábor Alap fejezet javára biztosított 1 050 324 900 forint tekintetében 2024. június 30.” szöveg lép.
+## 9.[^8]
 
-## 10. A címrendi módosításról és kiegészítésről, a rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Központi Maradványelszámolási Alap előirányzatból történő és fejezetek közötti előirányzat-átcsoportosításról szóló 1100/2023. (III. 22.) Korm. határozat 2. pontjában a „2023. december 31.” szövegrész helyébe a „2023. december 31., a Belügyminisztérium fejezet javára biztosított 6 164 411 444 forint tekintetében 2024. december 31., a Bethlen Gábor Alap fejezet javára biztosított 498 993 000 forint tekintetében 2025. június 30.” szöveg lép.
+## 10.[^9]
 
-## 11. A címrendi kiegészítésről, a rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Központi Maradványelszámolási Alap előirányzatból, a Rezsivédelmi Alap központi kiadása előirányzatból történő és fejezetek közötti előirányzat-átcsoportosításról szóló 1131/2023. (IV. 5.) Korm. határozat 2. pontjában a „2023. december 31.” szövegrész helyébe a „2024. december 31.” szöveg lép.
+## 11.[^10]
 
 1. melléklet az 1471/2023. (X. 31.) Korm. határozathoz
 
 Eredeti előirányzattal rendelkező, megosztásra nem kerülő intézményi előirányzatok címrendi módosítása
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 6. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 8. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 9. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 10. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 11. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
