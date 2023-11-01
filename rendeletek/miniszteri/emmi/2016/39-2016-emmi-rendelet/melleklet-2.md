@@ -108,6 +108,8 @@
 
 | 53 | Rend- és honvédelmi dolgozók orvosi ellátásának befejezése | – az ellátás megkezdésekor létrehozott eseménykatalógus bejegyzésazonosítója – az ellátással kapcsolatban megállapított diagnózisok és elvégzett beavatkozások – továbbküldés | 1 óra |
 
+| 54 | Járóbeteg-szakellátásban a beteg behívásának időpontja | – ellátott személyazonosító-típusa és értéke (TAJ vagy ennek hiányában az EESZT által nyilvántartott más azonosító) – a szolgáltatási egység kódja (az ellátást végző szervezeti egység finanszírozási szerződés szerinti 9 karakteres kódja) – az elektronikus beutaló EESZT-azonosítója – esemény dátuma | 1 óra |
+
 ## Jelmagyarázat:
 
 ## * A „beteg további sorsa” fogalom megfelel az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló rendelet szerinti fogalomnak.
