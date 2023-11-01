@@ -6,18 +6,18 @@
 
 (3) Az ajánlatnak vagy részvételi jelentkezésnek az ajánlattételi, illetve a részvételi határidő lejártának időpontjáig kell elektronikusan beérkeznie. A beérkezés időpontjáról az EKR visszaigazolást küld.
 
-(4)[^31]
+(4)[^32]
 
-(5)[^32]
+(5)[^33]
 
-(6)[^33]
+(6)[^34]
 
-(7)[^34]
+(7)[^35]
 
-(8)[^35]
+(8)[^36]
 
-[^31]: A 15. § (4) bekezdését a 66/2019. (III. 27.) Korm. rendelet 38. § (1) bekezdés h) pontja hatályon kívül helyezte.
-[^32]: A 15. § (5) bekezdését a 66/2019. (III. 27.) Korm. rendelet 38. § (1) bekezdés h) pontja hatályon kívül helyezte.
-[^33]: A 15. § (6) bekezdését a 66/2019. (III. 27.) Korm. rendelet 38. § (1) bekezdés h) pontja hatályon kívül helyezte.
-[^34]: A 15. § (7) bekezdését a 66/2019. (III. 27.) Korm. rendelet 38. § (1) bekezdés h) pontja hatályon kívül helyezte.
-[^35]: A 15. § (8) bekezdését a 66/2019. (III. 27.) Korm. rendelet 38. § (1) bekezdés h) pontja hatályon kívül helyezte.
+[^32]: A 15. § (4) bekezdését a 66/2019. (III. 27.) Korm. rendelet 38. § (1) bekezdés h) pontja hatályon kívül helyezte.
+[^33]: A 15. § (5) bekezdését a 66/2019. (III. 27.) Korm. rendelet 38. § (1) bekezdés h) pontja hatályon kívül helyezte.
+[^34]: A 15. § (6) bekezdését a 66/2019. (III. 27.) Korm. rendelet 38. § (1) bekezdés h) pontja hatályon kívül helyezte.
+[^35]: A 15. § (7) bekezdését a 66/2019. (III. 27.) Korm. rendelet 38. § (1) bekezdés h) pontja hatályon kívül helyezte.
+[^36]: A 15. § (8) bekezdését a 66/2019. (III. 27.) Korm. rendelet 38. § (1) bekezdés h) pontja hatályon kívül helyezte.

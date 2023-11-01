@@ -1,3 +1,3 @@
-21. §[^56]
+21. §[^57]
 
-[^56]: A 21. §-t a 66/2019. (III. 27.) Korm. rendelet 38. § (1) bekezdés k) pontja hatályon kívül helyezte.
+[^57]: A 21. §-t a 66/2019. (III. 27.) Korm. rendelet 38. § (1) bekezdés k) pontja hatályon kívül helyezte.
