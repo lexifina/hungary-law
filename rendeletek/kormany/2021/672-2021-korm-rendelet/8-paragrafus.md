@@ -2,14 +2,15 @@
 
 ## 6. A szolgáltatást igénybe vevő ügyfelek regisztrációja és jogosultságai
 
-8. § (1) Az ügyfél a szolgáltatást az általános szerződési feltételek elfogadása, valamint a Khtv. 20/Q. § (1) bekezdése szerinti regisztrációt követően jogosult igénybe venni.
+8. § (1)[^14] Az ügyfél a szolgáltatást az általános szerződési feltételek elfogadása, valamint a Tkmtv. 12. § (1) bekezdése szerinti regisztrációt követően jogosult igénybe venni.
 
 (2) Az ügyfél a regisztráció során megadott adatokon túl a regisztrációt követően létrehozott ügyfélprofiljában rögzítheti az automatizált adatváltozás-bejelentési szolgáltatás igénybevételére vonatkozó nyilatkozatait.
 
-(3) Az ügyfélprofilban rögzített adatainak naprakészen tartásáról az ügyfél gondoskodik, kivéve
+(3)[^15] Az ügyfélprofilban rögzített adatainak naprakészen tartásáról az ügyfél gondoskodik, kivéve
 
-a) automatizált adatváltozás-bejelentési szolgáltatás igénybevétele esetén a szolgáltatással érintett adatok, illetve
+a) automatizált adatváltozás-bejelentési szolgáltatás igénybevétele esetén a szolgáltatással érintett adatokat, illetve
 
-b) a Khtv. 20/R. § (4) bekezdése szerint közhiteles nyilvántartásból átvett adatok
+b) a Tkmtv. 13. § (4) bekezdése szerint közhiteles nyilvántartásból átvett adatokat.
 
-tekintetében.
+[^14]: A 8. § (1) bekezdése a 487/2023. (X. 31.) Korm. rendelet 3. § j) pontja szerint módosított szöveg.
+[^15]: A 8. § (3) bekezdése a 487/2023. (X. 31.) Korm. rendelet 2. §-ával megállapított szöveg.

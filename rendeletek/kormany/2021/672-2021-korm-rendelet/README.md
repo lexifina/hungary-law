@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-672-20-
 | 2022-01-02 | 2021-672-20-22.3 | 2010: CXXX. törvény |
 | 2022-03-31 | 2021-672-20-22.4 | 119/2022. (III. 23.) Korm. rendelet |
 | 2023-03-01 | 2021-672-20-22.5 | 60/2023. (II. 28.) Korm. rendelet |
+| 2023-11-01 | 2021-672-20-22.6 | 487/2023. (X. 31.) Korm. rendelet |

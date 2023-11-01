@@ -18,4 +18,6 @@ a) fogadja az AVSZ rendszer által továbbított adatcsomagokat,
 
 b) azonosítja az ügyfelet és kezeli a továbbított adatokat,
 
-c) a Khtv. szerint értesítést küld az üzemeltető felé a nem beazonosítható ügyfélről.
+c)[^13] a Tkmtv. szerint értesítést küld az üzemeltető felé a nem beazonosítható ügyfélről.
+
+[^13]: A 6. § (2) bekezdés c) pontja a 487/2023. (X. 31.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.

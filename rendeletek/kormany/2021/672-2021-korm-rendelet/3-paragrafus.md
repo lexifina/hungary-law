@@ -4,7 +4,7 @@ a) a csatlakozás- és szolgáltatás-menedzsment ellátása;
 
 b) a csatlakozási szerződésnek a csatlakozott szolgáltatókkal és a harmadik fél szolgáltatókkal való megkötése, szükség esetén módosítása, megszüntetése;
 
-c) a szolgáltatással kapcsolatos ügyfél-kapcsolattartási, tájékoztatási és adminisztratív feladatok ellátása, biztosítva a hibabejelentés lehetőségét;
+c)[^6] a szolgáltatással kapcsolatos ügyfél-kapcsolattartási, tájékoztatási, panaszkezelési és adminisztratív feladatok ellátása, biztosítva a hibabejelentés lehetőségét;
 
 d) a szolgáltatással kapcsolatos kommunikációs és képzési feladatok koordinációja és
 
@@ -18,6 +18,7 @@ b) ügyfelek támogatása az AVSZ rendszer használata során;
 
 c) az AVSZ rendszer működésével összefüggő panaszok, közérdekű bejelentések, észrevételek fogadása és továbbítása az üzemeltető felé.
 
-(3)[^1] Az AVSZ rendszer alkalmazásüzemeltetésének támogatását az IdomSoft Informatikai Zártkörűen Működő Részvénytársaság – az üzemeltetővel megkötött direkt finanszírozási szerződés keretében – biztosítja.
+(3)[^7] Az AVSZ rendszer alkalmazásüzemeltetésének támogatását az IdomSoft Informatikai Zártkörűen Működő Részvénytársaság – az üzemeltetővel megkötött direkt finanszírozási szerződés keretében – biztosítja.
 
-[^1]: A 3. § (3) bekezdését a 119/2022. (III. 23.) Korm. rendelet 4. §-a iktatta be.
+[^6]: A 3. § (1) bekezdés c) pontja a 487/2023. (X. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^7]: A 3. § (3) bekezdését a 119/2022. (III. 23.) Korm. rendelet 4. §-a iktatta be.
