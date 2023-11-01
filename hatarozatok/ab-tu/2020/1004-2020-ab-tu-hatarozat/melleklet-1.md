@@ -544,7 +544,7 @@
 
 ## a) az elnök és az alkotmánybírók illetménymegállapításának előkészítése a megválasztásról szóló országgyűlési határozat alapján;
 
-## b) a szolgálati elismerésre és az álláshelyi elismerésre jogosító közszolgálati idő kezdő időpontjának megállapítása, a hivatal köztisztviselőinek közszolgálati jogviszonya, valamint munkavállalóinak munkaviszonya keletkezésével és megszűnésével kapcsolatos okiratok előkészítése;
+## b)[^3] a szolgálati elismerésre jogosító közszolgálati idő kezdő időpontjának megállapítása, a hivatal köztisztviselőinek közszolgálati jogviszonya, valamint munkavállalóinak munkaviszonya keletkezésével és megszűnésével kapcsolatos okiratok előkészítése;
 
 ## c) a közszolgálati jogviszony és munkaviszony létesítéséhez szükséges feltételek meglétének ellenőrzése; áthelyezés esetén az elnök utasítása alapján a szükséges intézkedések megtétele;
 
@@ -724,7 +724,9 @@
 
 ## h) az eszközökkel, forrásokkal való hatékony, takarékos gazdálkodás, valamint a vagyonmegóvásról történő megfelelő gondoskodás ellenőrzése.
 
-## 18.3. Az integritási tanácsadói álláshelyen külön megbízási szerződéssel alkalmazott, külső gazdasági-pénzügyi szakember látja el a feladatot, aki közvetlenül az elnök irányítása alatt áll, feladatait a főtitkárral és a gazdasági főigazgatóval együttműködésben látja el. Az integritási tanácsadói álláshely célja a szervezeti integritás támogatása az Alkotmánybíróság Hivatalában. Az integritási tanácsadói álláshelyen ellátandó feladatokat az elnök állapítja meg. Az integritási tanácsadó közvetlen elérhetőségeit az Alkotmánybíróság honlapján és a hivatali belső tájékoztatási honlapon közzé kell tenni. A szervezeti integritást sértő események kezelésének és bejelentésének rendjét hivatali utasításban kell szabályozni.
+## 18.3.[^4] Az Alkotmánybíróság Hivatalában a belső kontrollrendszer kialakításával és fejlesztésével kapcsolatos koordinációs feladatokat a megbízási szerződés alapján foglalkoztatott belső kontroll felelős látja el, aki közvetlenül az elnök irányítása alatt, a főtitkárral és a gazdasági főigazgatóval együttműködésben végzi tevékenységét. A belső kontrollrendszer minőségének értékelésére és az erről szóló vezetői nyilatkozat előkészítésére – az integritás tanácsadó kontrollkörnyezet kialakításával és változásaival, valamint az integrált kockázatkezelési rendszer működésével kapcsolatos adatszolgáltatása alapján – a belső kontroll felelős köteles.
+
+## 18.3.a.[^5] Az Alkotmánybíróság Hivatalában a szervezeti integritás támogatása érdekében az elnök közvetlen irányítása alatt álló integritás tanácsadó működik. A megbízási szerződéssel foglalkoztatott szakember a szervezet működésével összefüggő integritási és korrupciós kockázatokra vonatkozó bejelentések fogadásával és kivizsgálásával kapcsolatos feladatokat lát el, valamint közreműködik az Alkotmánybíróság Hivatalának működésével kapcsolatos kockázatok felmérésében, az azok kezelésére szolgáló intézkedési terv, valamint az annak végrehajtásáról szóló jelentés elkészítésében, továbbá hivatásetikai kérdésekben tájékoztatást és tanácsot ad a Hivatal munkatársai számára. Az integritás tanácsadó emellett – a főtitkárral és a gazdasági főigazgatóval együttműködésben – a jogszabályi előírásoknak megfelelő kontrollkörnyezet és integrált kockázatkezelési rendszer kialakításával kapcsolatos koordinációs feladatokat lát el. Az integritás tanácsadó közvetlen elérhetőségeit az Alkotmánybíróság honlapján és a hivatali belső tájékoztatási honlapon közzé kell tenni. A szervezeti integritást sértő események kezelésének és bejelentésének rendjét hivatali utasításban kell szabályozni.
 
 ## 18.4. Az Alkotmánybíróság Hivatala külső ellenőrzésének szabályait az erre vonatkozó jogszabályok tartalmazzák. Az ellenőrzésére jogosult külső szervezet képviselőjének megbízólevelét az elnök veszi át. A vizsgált szervezeti egység minden munkatársa köteles az ellenőrzést végző szervezet, illetve a képviseletében eljáró személy részére a szükséges tájékoztatást megadni, jogosultság esetén a dokumentációs anyagokba történő betekintést engedélyezni, és az ellenőrzés végzéséhez a megfelelő feltételeket biztosítani. Az ellenőrzés lezárását követően a vizsgált szervezeti egység vezetője köteles érdemi intézkedéseket foganatosítani a feltárt hiányosságok megszüntetése érdekében.
 
@@ -746,7 +748,7 @@
 
 ## c) az SZMSZ-2012. 5.7. pontja alapján adományozott szakmai tanácsadói, szakmai főtanácsadói, valamint az SZMSZ-2012. 5.9. pontja alapján adományozott címzetes vezetőtanácsosi, címzetes főtanácsosi, címzetes vezető-főtanácsosi, címzetes főmunkatársi címek megszűnnek. Az ilyen címekkel rendelkező köztisztviselők esetében a Küt. 105. § (15) bekezdésének a végrehajtása során ezeknek a címeknek, illetve az azokkal járó juttatásoknak a figyelembevételével kell eljárni.
 
-## 20.2.[^3] Ez a határozat 2020. május 1-jén lép hatályba.
+## 20.2.[^6] Ez a határozat 2020. május 1-jén lép hatályba.
 
 ## 20.3. Az Alkotmánybíróság e határozatát a jogalkotásról szóló 2010. évi CXXX. törvény 26. § (2) bekezdése alapján a Magyar Közlönyben közzé kell tenni.
 
@@ -754,4 +756,7 @@
 
 [^1]: Az 5.3. pont az 1002/2021. (II. 10.) AB Tü. határozat 2. pontjával megállapított szöveg.
 [^2]: A 8.6. pont g) alpontját az 1002/2021. (II. 10.) AB Tü. határozat 1. pontja iktatta be.
-[^3]: A 20.2. pont a 2010: CXXX. törvény 12. § (2) bekezdése szerint módosított szöveg.
+[^3]: A 11.12. pont b) alpontja az 1006/2023. (X. 19.) AB Tü. határozat 1. pontjával megállapított szöveg.
+[^4]: A 18.3. pont az 1006/2023. (X. 19.) AB Tü. határozat 2. pontjával megállapított szöveg.
+[^5]: A 18.3.a. pontot az 1006/2023. (X. 19.) AB Tü. határozat 3. pontja iktatta be.
+[^6]: A 20.2. pont a 2010: CXXX. törvény 12. § (2) bekezdése szerint módosított szöveg.

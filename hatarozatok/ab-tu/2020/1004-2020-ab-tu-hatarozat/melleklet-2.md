@@ -1,4 +1,4 @@
-2. melléklet az 1004/2020. (IV. 30.) AB Tü. határozathoz[^4]
+2. melléklet az 1004/2020. (IV. 30.) AB Tü. határozathoz[^7]
 
 Állománytábla
 
@@ -40,7 +40,7 @@
 
 | Gazdálkodás és pénzügy | Pénzügyi és számviteli vezető | 1 |
 
-| Pénzügyi és számviteli ügyintéző | 4 |
+| Pénzügyi és számviteli ügyintéző | 3 |
 
 | Bérszámfejtési és társadalombiztosítási ügyintéző | 1 |
 
@@ -50,12 +50,12 @@
 
 | Üzemeltetés | Üzemeltetési vezető | 1 |
 
-| Szakmunkás, egyéb fizikai alkalmazott | 12 |
+| Szakmunkás, egyéb fizikai alkalmazott | 11 |
 
 | Gépkocsi-üzemeltetés | Garázsmester | 1 |
 
 | Gépkocsivezetők | 17 |
 
-| Összesen |  | 144 |
+| Összesen |  | 142 |
 
-[^4]: A 2. melléklet az 1002/2023. (VII. 4.) AB Tü. határozat 1. pontjával megállapított szöveg.
+[^7]: A 2. melléklet az 1006/2023. (X. 19.) AB Tü. határozat 4. pontjával megállapított szöveg.
