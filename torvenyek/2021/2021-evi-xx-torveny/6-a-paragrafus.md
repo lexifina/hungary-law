@@ -1,0 +1,1 @@
+6/A. § A Dél-pesti Centrumkórház – Országos Hematológiai és Infektológiai Intézet jogutódja a Merényi Gusztáv telephely (a továbbiakban: Merényi telephely) traumatológiai járó- és fekvőbeteg-szakellátása tekintetében az Egyetem. A Merényi telephely traumatológiai járó- és fekvőbeteg-szakellátását 2023. november 1. napjától az Egyetem klinikai központja látja el.

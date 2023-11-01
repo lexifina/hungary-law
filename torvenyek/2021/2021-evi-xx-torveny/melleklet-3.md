@@ -1159,3 +1159,23 @@ HERCEGHALOM
 |
 
 kivett major
+
+|
+
+58.
+
+|
+
+BUDAPEST
+
+|
+
+38239
+
+|
+
+1/1
+
+|
+
+Kivett lakóház, udvar

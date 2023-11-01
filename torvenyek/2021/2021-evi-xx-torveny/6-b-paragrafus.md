@@ -1,0 +1,1 @@
+6/B. § Az 5. § (1b) bekezdése szerinti ingatlan tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas háromoldalú szerződést a tulajdonosi joggyakorló és a Dél-pesti Centrumkórház – Országos Hematológiai és Infektológiai Intézet köti meg az Egyetemmel.
