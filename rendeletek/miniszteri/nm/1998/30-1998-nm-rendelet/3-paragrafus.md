@@ -10,6 +10,6 @@ b) a nyilatkozattétellel,
 
 c) az utazással
 
-## összefüggésben keletkezett indokolt és igazolt – a társadalombiztosítási jogviszony alapján meg nem térülő – költségeit az egészségügyi szolgáltató utólag megtéríti. Az egészségügyi szolgáltató vezetője a költségek megtérítésére költségátalányt állapíthat meg.
+összefüggésben keletkezett indokolt és igazolt – a társadalombiztosítási jogviszony alapján meg nem térülő – költségeit az egészségügyi szolgáltató utólag megtéríti. Az egészségügyi szolgáltató vezetője a költségek megtérítésére költségátalányt állapíthat meg.
 
 (3) Az igazolt és szükséges költségeket akkor is meg kell téríteni, ha az adományozó hibáján kívüli okból az adományozás nem vezet a kívánt eredményre.

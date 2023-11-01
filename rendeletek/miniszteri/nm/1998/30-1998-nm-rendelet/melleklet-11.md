@@ -1,5 +1,3 @@
-## Reprodukciós Eljárási Nyilvántartási Lap tartalma
-
 ## A Reprodukciós Eljárási Nyilvántartási Lap tartalmazza a következőket:
 
 ## – az intézmény azonosító adatai,
@@ -52,6 +50,6 @@
 
 ## – ellenőrzésre visszarendelés időpontja és eredménye.
 
-11. számú melléklet a 30/1998. (VI. 24.) NM rendelethez[^34]
+11. számú melléklet a 30/1998. (VI. 24.) NM rendelethez[^35]
 
-[^34]: A 11. számú mellékletet a 49/2008. (XII. 31.) EüM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
+[^35]: A 11. számú mellékletet a 49/2008. (XII. 31.) EüM rendelet 2. § (1) bekezdése hatályon kívül helyezte.

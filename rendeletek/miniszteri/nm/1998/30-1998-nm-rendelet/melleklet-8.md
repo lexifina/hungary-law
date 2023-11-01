@@ -1,5 +1,7 @@
 ## Rendelkezési nyilatkozat ivarsejt felhasználásáról
 
+## 6M01538_0
+
 | Rendelkezési nyilatkozat ivarsejt felhasználásáról |
 
 | Sorszám: |
@@ -32,6 +34,8 @@
 
 ## 10 A választott rendelkezésnek megfelelő nyilatkozat betűjelzését kérjük jól láthatóan bekeretezni.
 
+## 6M01538_1
+
 | Tudomásul veszem, hogy az Eütv. 171. §-ának (3) és (4) bekezdése alapján a meghatározott recipiens számára történő női ivarsejt-adományozáshoz az adományozó nevének (családi és utónév, leánykori név), anyja leánykori nevének, az adományozó lakcímének, születési idejének, külsődleges testi jegyeinek*, ismert megbetegedéseinek a közlése szükséges. Ezen adatokat a következők szerint rendelkezésre bocsátom: |
 
 | Kijelentem, hogy az adományozó nyilatkozatban meghatározott recipiens számára történő női ivarsejt-adományozás ellenérték nélkül, kényszertől, fenyegetéstől és megtévesztéstől mentesen történt. |
@@ -62,6 +66,6 @@
 
 ## ** Kitöltése nem kötelező, amennyiben a más személy részére történő felhasználáshoz nem járul hozzá, kérjük a pontot jól láthatóan áthúzni.
 
-8. számú melléklet a 30/1998. (VI. 24.) NM rendelethez[^30]
+8. számú melléklet a 30/1998. (VI. 24.) NM rendelethez[^31]
 
-[^30]: A 8. számú melléklet a 32/2006. (VIII. 23.) EüM rendelet 4. §-ával megállapított szöveg.
+[^31]: A 8. számú melléklet a 32/2006. (VIII. 23.) EüM rendelet 4. §-ával megállapított szöveg.

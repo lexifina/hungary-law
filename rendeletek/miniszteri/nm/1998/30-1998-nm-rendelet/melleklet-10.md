@@ -1,5 +1,3 @@
-## A Fagyasztási Napló tartalmi követelményei
-
 ## A Fagyasztási Napló tartalmazza a következőket:
 
 ## – az intézmény azonosító adatai,
@@ -27,3 +25,5 @@
 ## – megsemmisítés esetén arra vonatkozó megjegyzés, hogy hány embriót, milyen állapotban semmisítettek meg, a megsemmisítést végző személy neve (amennyiben az adott intézet megsemmisítési naplót vezet, úgy annak száma).
 
 10. számú melléklet a 30/1998. (VI. 24.) NM rendelethez
+
+Reprodukciós Eljárási Nyilvántartási Lap tartalma

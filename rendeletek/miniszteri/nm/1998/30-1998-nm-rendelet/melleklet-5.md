@@ -1,5 +1,3 @@
-## Az ivarsejtek és embriók fagyasztva tárolásának javallatai[^24]
-
 ## Az embriók fagyasztva tárolásának javallatai:
 
 ## – számfeletti embriók későbbi ciklusban történő visszaültetése,
@@ -46,7 +44,6 @@
 
 ## 2. Adományozás céljára történő női ivarsejt fagyasztás: a donor női ivarsejt felhasználásának javallatai szerint.
 
-5. számú melléklet a 30/1998. (VI. 24.) NM rendelethez[^25]
+5. számú melléklet a 30/1998. (VI. 24.) NM rendelethez[^26]
 
-[^24]: A 4. számú melléklet „Az ivarsejtek és embriók fagyasztva tárolásának javallatai” alcím szövege a 68/2013. (XI. 15.) EMMI rendelet 4. §-ával megállapított szöveg.
-[^25]: Az 5. számú mellékletet a 44/2016. (XII. 28.) EMMI rendelet 17. §-a hatályon kívül helyezte.
+[^26]: Az 5. számú mellékletet a 44/2016. (XII. 28.) EMMI rendelet 17. §-a hatályon kívül helyezte.
