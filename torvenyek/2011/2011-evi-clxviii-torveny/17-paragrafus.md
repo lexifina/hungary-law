@@ -20,13 +20,15 @@ vonatkozó adatokat átadni.
 
 (1b) Az agrárkár-enyhítési szerv a mezőgazdasági biztosítási szerződés díjához nyújtott támogatás helyszíni ellenőrzését a biztosító és a mezőgazdasági termelő közötti szerződés vizsgálatával látja el, amelynek során a biztosító a 16. § (1) bekezdés szerinti szerződés vonatkozásában az (1) bekezdésben felsorolt adatokat az agrárkár-enyhítési szerv ellenőrzésének végrehajtása céljából az agrárkár-enyhítési szerv részére rendelkezésre bocsátja.
 
-(2) A biztosító a pályázati felhívás szerinti díjtámogatott konstrukcióban (a továbbiakban: díjtámogatott konstrukció) kötött mezőgazdasági biztosítási szerződés adatai alapján a kár lezárását követően harminc napon belül, de legkésőbb a tárgyév november 20-ig az alábbi információkról köteles tájékoztatást adni az agrárkár-enyhítési szervnek és a mezőgazdasági igazgatási szervnek:
+(2) A biztosító a lábon álló növénykultúrára megkötött mezőgazdasági biztosítási szerződés adatai alapján a kár lezárását követően harminc napon belül, de legkésőbb a tárgyév november 20-ig az alábbi információkról köteles tájékoztatást adni – abban az esetben is, ha a szerződő fél nem a biztosított mezőgazdasági termelő – az agrárkár-enyhítési szervnek és a mezőgazdasági igazgatási szervnek:
 
-a) a mezőgazdasági termelő azonosítására szolgáló adatok (név, székhely vagy lakcím, eljárási tv. szerinti ügyfél-azonosító),
+a) a biztosított mezőgazdasági termelő azonosítására szolgáló adatok (név, eljárási tv. szerinti ügyfél-azonosító),
 
-b) a kockázatviselés helye szerint, növénykultúránkénti bontásban a biztosítónak bejelentett káresemény, valamint
+b) a kockázatviselés helye szerint, növénykultúránkénti bontásban a biztosítónak bejelentett káresemény,
 
-c) a mezőgazdasági termelő részére a mezőgazdasági biztosítási szerződés alapján kifizetendő kártérítés összege.
+c) a mezőgazdasági termelő részére a mezőgazdasági biztosítási szerződés alapján megállapított kártérítés káreseményenkénti összege, és
+
+d) szerződés kötvényszáma.
 
 (3) Az agrárkár-enyhítési szerv és a mezőgazdasági igazgatási szerv a (2) bekezdés szerinti információkat az agrárkár-megállapító szerv részére elérhetővé teszi.
 

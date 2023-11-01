@@ -6,9 +6,11 @@ b) a kárenyhítési hozzájárulás teljesítése,
 
 c) az agrárkár-megállapító szerv által hozott végleges döntés,
 
-d) a biztosító által adott nyilatkozatok, valamint
+d) a biztosító által adott, e törvény végrehajtására kiadott rendeletben meghatározott dokumentumok és nyilatkozatok,
 
-e) a rendelkezésre álló pénzforrás
+e) a rendelkezésre álló pénzforrás, valamint
+
+f) e törvény végrehajtására kiadott rendeletben meghatározott egyéb szempontok
 
 alapján dönt.
 

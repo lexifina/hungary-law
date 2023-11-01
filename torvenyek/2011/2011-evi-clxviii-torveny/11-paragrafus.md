@@ -4,7 +4,7 @@
 
 a) a termőföld az egységes kérelem benyújtásakor, a mezőgazdasági káresemény bekövetkezésekor és a kárenyhítő juttatás iránti kérelem benyújtásakor is a használatában volt,
 
-b) a használatában levő termőföldön bekövetkezett mezőgazdasági káreseményt – az e törvény végrehajtásáról szóló rendeletben meghatározottak szerint – az erre a célra létrehozott elektronikus felületen bejelentette,
+b) a használatában levő termőföldön bekövetkezett mezőgazdasági káreseményt – az e törvény végrehajtásáról szóló rendeletben meghatározottak szerint – az erre a célra létrehozott elektronikus felületen határidőben bejelentette,
 
 c) elemi káreseményt szenvedett el,
 
@@ -26,4 +26,4 @@ h) a kárenyhítő juttatás iránti kérelem benyújtásakor az elemi káresem�
 
 (4) A kárenyhítési hozzájárulás-fizetési kötelezettség és a kárenyhítő juttatásra való jogosultság megállapításakor a termőre fordult és az elemi káresemény bekövetkezésekor még termő ültetvényterület vehető figyelembe.
 
-(5) Jogszabály eltérő rendelkezése hiányában az e törvény szerinti kockázatközösségben tag mezőgazdasági termelő a neki járó kárenyhítő juttatás felére jogosult, amennyiben az egységes kérelem, valamint a kárenyhítő juttatás iránti kérelem adatai alapján számított üzemi szintű referencia hozamértékének legalább felére kiterjedően – az adott kárenyhítési évre vonatkozóan – nem köt az adott növénykultúrára jellemző, e törvény szerinti aszály, belvíz, felhőszakadás, jégeső, mezőgazdasági árvíz, tavaszi fagy, őszi fagy, téli fagy vagy vihar miatt bekövetkező káreseményre kiterjedő hatályú mezőgazdasági biztosítást.
+(5) Az e törvény szerinti kockázatközösségben tag mezőgazdasági termelő – jogszabály eltérő rendelkezése hiányában – a neki járó kárenyhítő juttatás felére jogosult, amennyiben az egységes kérelem, valamint a kárenyhítő juttatás iránti kérelem adatai alapján számított üzemi szintű referencia hozamértékének legalább felére kiterjedően nem rendelkezik – az adott kárenyhítési évre vonatkozóan – a hozamcsökkenést kiváltó káresemény bekövetkezése előtt megkötött és biztosítási szerződés szerint díjrendezett, az adott növénykultúrára jellemző, e törvény szerinti aszály, belvíz, felhőszakadás, jégeső, mezőgazdasági árvíz, tavaszi fagy, őszi fagy, téli fagy vagy vihar miatt bekövetkező káreseményre kiterjedő hatályú mezőgazdasági biztosítással.

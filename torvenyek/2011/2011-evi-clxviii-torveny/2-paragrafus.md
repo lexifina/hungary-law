@@ -16,7 +16,7 @@ b) a lehullott csapadék összes mennyisége a huszonöt millimétert nem éri e
 
 5. biztosító: az a szervezet, amely a hatályos magyar jogi szabályozás, illetve valamely hatályos tagállami szabályozás szerint biztosítási és azzal közvetlenül összefüggő tevékenységre jogosult;
 
-6. egységes kérelem: a közös agrárpolitika keretébe tartozó közvetlen támogatási rendszer részét képező uniós jogi aktusban meghatározottak szerinti közvetlen támogatás kifizetése iránti kérelem;
+6. egységes kérelem: a közös agrárpolitika finanszírozásáról, irányításáról és monitoringjáról, valamint az 1306/2013/EU rendelet hatályon kívül helyezéséről szóló, 2021. december 2-i (EU) 2021/2116 európai parlamenti és tanácsi rendelet 69. cikk (1) és (2) bekezdése alapján, az (EU) 2021/2116 európai parlamenti és tanácsi rendeletnek a közös agrárpolitika keretében működő integrált igazgatási és kontrollrendszer tekintetében történő alkalmazására vonatkozó szabályok megállapításáról szóló, 2022. május 31-i (EU) 2022/1173 bizottsági végrehajtási rendelet 8. és 9. cikke szerint benyújtásra kerülő támogatási, illetve kifizetési kérelem;
 
 7. elemi káresemény: üzemi szinten a növénykultúrában 30%-ot meghaladó mértékű hozamcsökkenést okozó aszálykár, belvízkár, felhőszakadáskár, jégesőkár, mezőgazdasági árvízkár, tavaszi fagykár, őszi fagykár, téli fagykár vagy viharkár;
 
@@ -92,7 +92,7 @@ b) a lehullott csapadék összes mennyisége a huszonöt millimétert nem éri e
 
 32a. téli fagykár: a kockázatviselés helyén, nyugalmi periódusban, az őszi kalászos gabona-, a repce- és az őszi takarmánykeverék kultúráinak a téli fagy miatt bekövetkezett kipusztulásából, valamint az ültetvényben a termőrész vagy növényegyed téli fagy miatt bekövetkezett elhalásából adódóan hozamcsökkenést eredményező káresemény;
 
-33. üzemi szint: a tárgyévi egységes kérelemben feltüntetett összes használatban lévő termőföld figyelembevételével megállapított üzemméret;
+33. üzemi szint: a tárgyévi kárbejelentő kérelemben vagy egységes kérelemben bejelentett összes használatban lévő termőföldön termesztett növénykultúra figyelembevételével megállapított üzemméret;
 
 34. vihar: a legalább húsz m/sec. szélsebesség, ideértve a szántóföldi növény állományában mechanikai sérülést okozó, a legalább húsz m/sec sebességű szél által szállított szemcse vagy részecske miatti homokverést is;
 

@@ -12,7 +12,7 @@ c) a kárenyhítési hozzájárulás megfizetésével kapcsolatos,
 
 d) a kárenyhítő juttatással kapcsolatos,
 
-e) a mezőgazdasági biztosítás díjához nyújtott támogatással és a díjtámogatott konstrukcióban kötött biztosítási szerződéssel kapcsolatos,
+e) a mezőgazdasági biztosítás díjához nyújtott támogatással és a lábon álló növénykultúrára kötött biztosítási szerződéssel kapcsolatos,
 
 f) a kármegállapítást támogató szerv által e törvény alapján szolgáltatott, és e törvény végrehajtásáról szóló rendeletben meghatározott, valamint
 
@@ -40,6 +40,8 @@ céljából.
 
 (2d) Az agrárkár-enyhítési szerv a kockázatkezelési adatbázisból erre irányuló kérelemre tudományos, valamint kutatási célra térítésmentesen adhat át anonimizált adatot.
 
+(2e) Az agrárkár-megállapító szerv jogosult a kármegállapítás során, valamint a kárenyhítő juttatás iránti kérelemre hozott döntésnek a mezőgazdasági termelő értesítési tárhelyére történő megküldése érdekében egyedi azonosításra alkalmas módon megismerni a mezőgazdasági termelő adatait.
+
 (3) A 6. § (1) és (2) bekezdése, valamint a 16. § (1) bekezdése szerinti támogatást igénylő mezőgazdasági termelőnek az egységes kérelem benyújtásával egyidejűleg a kárenyhítő juttatásra, illetve a mezőgazdasági biztosítási díjtámogatásra jogosító növénykultúra szerinti bontásban nyilatkoznia kell a tárgyévet megelőző évben használatában lévő összes termőterület nagyságáról, valamint e termőterületen megtermelt összes termény mennyiségéről.
 
 (4) A mezőgazdasági kockázatkezelési adatbázisból egyedi azonosításra alkalmas adat az eljárási tv. 25. § (4) bekezdésében foglaltakon túl a külön törvényben meghatározott feltételek megléte esetén a titkos információgyűjtés folytatására feljogosított szerv megkeresése alapján adható ki, feltéve, ha a folyamatban levő eljárásban a döntés meghozatalához ez szükséges, és e körülményről a megkereső szerv nyilatkozik.
@@ -50,6 +52,6 @@ céljából.
 
 a) nevéről és eljárási tv. szerinti ügyfél-azonosítójáról, továbbá
 
-b) az érintett biztosító által díjtámogatott konstrukcióban biztosított növénykultúráinak tárgyévi egységes kérelemben bejelentett teljes területéről és azok MePAR szerinti blokkazonosítójáról.
+b) lábon álló növénykultúrára kötött biztosítási szerződéssel biztosított növénykultúráinak tárgyévi egységes kérelemben bejelentett teljes területéről és azok MePAR szerinti blokkazonosítójáról.
 
 (7) A kárbejelentésben és a kárenyhítő juttatás iránti kérelemben bejelentett adatok ellenőrzése céljából az agrárkár-enyhítési szerv a kárenyhítési hozzájárulás-fizetési kötelezettség mezőgazdasági termelőnkénti adatait az e törvény végrehajtására kiadott rendeletben meghatározott módon továbbítja a mezőgazdasági igazgatási szerv részére.

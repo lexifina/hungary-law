@@ -22,7 +22,7 @@ d) a kár helyéről,
 
 e) a hozamcsökkenés mértékéről, és
 
-f) az üzemi szinten az elemi káreseménnyel érintett növénykultúra vonatkozásában számított hozamérték-csökkenés mértékéről.
+f) az üzemi szinten az elemi káreseménnyel érintett növénykultúra vonatkozásában számított hozamérték-csökkenés mértékéről, hozamérték-csökkenés összegéről,
 
 g) a mezőgazdasági termelővel kötött mezőgazdasági biztosítás 11. § (5) bekezdésében foglaltaknak való megfeleléséről.
 

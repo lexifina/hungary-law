@@ -14,7 +14,7 @@ megjelölésével nyújtanak be egységes kérelmet, az elemi káresemények mia
 
 (2) Az (1) bekezdés hatálya alá nem tartozó mezőgazdasági termelő a tárgyévre vonatkozó egységes kérelemben tett nyilatkozatával hároméves időtartamra önkéntesen kötelezettséget vállalhat az (1) bekezdésben foglaltak szerinti kockázatközösségben való részvételre. Ebben az esetben a mezőgazdasági termelő e törvény szerinti kockázatközösségi tagságát a tárgyévet megelőző év november 1. napjától fennállónak kell tekinteni.
 
-(3) A (2) bekezdés szerint vállalt kötelezettség esetén, ha a kockázatközösségben tag mezőgazdasági termelő az egységes kérelem benyújtását követően meghal vagy jogutód nélkül megszűnik, akkor a kockázatközösségi tagsága a tárgyév október 31. napjával megszűnik.
+(3) A (2) bekezdés szerint vállalt kötelezettség esetén, ha a kockázatközösségben tag mezőgazdasági termelő a tárgyévi egységes kérelem benyújtását követően a tárgyévet követő évi egységes kérelem benyújtási időszak kezdetéig fennálló időszakban meghal vagy jogutód nélkül megszűnik, akkor a kockázatközösségi tagsága a tárgyév október 31. napjával megszűnik.
 
 (4) A kockázatközösségben tag mezőgazdasági termelő az e törvényben foglaltaknak megfelelően
 
