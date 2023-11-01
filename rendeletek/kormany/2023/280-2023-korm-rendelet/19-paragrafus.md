@@ -1,19 +1,19 @@
 19. § A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról szóló 114/2007. (V. 24.) Korm. rendelet
 
-a)[^11]
+a)[^20]
 
-b)[^12]
+b)[^21]
 
-c)[^13]
+c)[^22]
 
-d)[^14]
+d)[^23]
 
-e)[^15]
+e)[^24]
 
 lép.
 
-[^11]: A 19. § a) pontja a 49. § (3) bekezdés alapján 2023. november 19-én lép hatályba.
-[^12]: A 19. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^13]: A 19. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^14]: A 19. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^15]: A 19. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 19. § a) pontja a 49. § (3) bekezdés alapján 2023. november 19-én lép hatályba.
+[^21]: A 19. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 19. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 19. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 19. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

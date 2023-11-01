@@ -1,3 +1,3 @@
-14. §[^6]
+14. §[^15]
 
-[^6]: A 14. § a 49. § (4) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^15]: A 14. § a 49. § (4) bekezdés alapján 2024. január 1-jén lép hatályba.
