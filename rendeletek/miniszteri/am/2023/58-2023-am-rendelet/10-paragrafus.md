@@ -1,7 +1,3 @@
-10. § A 15/2023. (IV. 19.) AM rendelet
+10. §[^10]
 
-a) 4. § (5) bekezdésében a „támogatásra” szövegrész helyébe a „teljes támogatásra” szöveg,
-
-b) 4. § (6) bekezdésében a „kifizethető” szövegrész helyébe a „teljes összegében kifizethető” szöveg
-
-lép.
+[^10]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
