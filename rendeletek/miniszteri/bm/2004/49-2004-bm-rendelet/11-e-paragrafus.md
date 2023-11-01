@@ -1,4 +1,4 @@
-## 11/E. §[^51] A vizsgákról hitelesített nyilvántartókönyvet kell vezetni, amelyben fel kell tüntetni
+## 11/E. §[^57] A vizsgákról hitelesített nyilvántartókönyvet kell vezetni, amelyben fel kell tüntetni
 
 a) a vizsgázó természetes személyazonosító adatait,
 
@@ -10,4 +10,4 @@ d) a vizsgabizonyítvány sorszámát, valamint
 
 e) a vizsgázónak a vizsgabizonyítvány átvételét igazoló aláírását és a vizsgabizottság elnökének aláírását.
 
-[^51]: A 11/E. §-t a 42/2016. (X. 25.) BM rendelet 2. §-a iktatta be.
+[^57]: A 11/E. §-t a 42/2016. (X. 25.) BM rendelet 2. §-a iktatta be.

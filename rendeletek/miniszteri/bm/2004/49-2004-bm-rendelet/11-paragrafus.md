@@ -1,6 +1,6 @@
-11. §[^38] (1) A fegyvertartáshoz, illetve a házilagos lőszerszereléshez és -újratöltéshez előírt vizsga elméleti és gyakorlati részvizsgából áll. Az elméleti részvizsga írásbeli tesztből és szóbeli vizsgarészből tevődik össze. Gyakorlati részvizsgára csak olyan vizsgázó bocsátható, aki eredményes elméleti részvizsgát tett.
+11. §[^40] (1)[^41] A fegyvertartáshoz, a vadászlőfegyver kiskorúként történő használatához, illetve a házilagos lőszerszereléshez és -újratöltéshez előírt vizsga elméleti és gyakorlati részvizsgából áll. Az elméleti részvizsga írásbeli tesztből és szóbeli vizsgarészből tevődik össze. Gyakorlati részvizsgára csak olyan vizsgázó bocsátható, aki eredményes elméleti részvizsgát tett.
 
-(2) A fegyvertartáshoz, illetve a házilagos lőszerszereléshez és -újratöltéshez előírt vizsga akkor tekinthető sikeresnek, hogy ha a vizsgázó valamennyi részvizsga minden vizsgarészét eredményesen teljesítette.
+(2)[^42] A fegyvertartáshoz, a vadászlőfegyver kiskorúként történő használatához, illetve a házilagos lőszerszereléshez és -újratöltéshez előírt vizsga akkor tekinthető sikeresnek, hogy ha a vizsgázó valamennyi részvizsga minden vizsgarészét eredményesen teljesítette.
 
 (3) Sikertelen vizsga esetén a vizsgázó számára – a vizsgadíj ismételt befizetése esetén – a sikertelen vizsga napjától számított 1 éven belül biztosítani kell a vizsga megismétlésének lehetőségét. A vizsga megismétlésére a sikertelen vizsga napján nem kerülhet sor. Az eredményes részvizsgákat, illetve vizsgarészeket nem kell megismételni.
 
@@ -18,8 +18,11 @@ e) a vizsgabizonyítvány sorszámát, valamint
 
 f) a vizsgázónak a vizsgabizonyítvány átvételét igazoló aláírását és a vizsgabizottság elnökének aláírását.
 
-(5) A fegyvertartáshoz előírt vizsga elméleti részvizsgájának kérdéseit az 1. számú melléklet határozza meg.
+(5)[^43] A fegyvertartáshoz vagy a fegyver jogszerű használatához előírt vizsga elméleti részvizsgájának kérdéseit az 1. számú melléklet határozza meg.
 
 (6) A házilagos lőszerszereléshez és -újratöltéshez előírt vizsga elméleti részvizsgájának kérdéseit a 2. számú melléklet határozza meg.
 
-[^38]: A 11. § a 25/2012. (V. 11.) BM rendelet 3. §-ával megállapított szöveg.
+[^40]: A 11. § a 25/2012. (V. 11.) BM rendelet 3. §-ával megállapított szöveg.
+[^41]: A 11. § (1) bekezdése a 24/2023. (VI. 30.) BM rendelet 13. § b) pontja szerint módosított szöveg.
+[^42]: A 11. § (2) bekezdése a 24/2023. (VI. 30.) BM rendelet 13. § b) pontja szerint módosított szöveg.
+[^43]: A 11. § (5) bekezdése a 24/2023. (VI. 30.) BM rendelet 13. § c) pontja szerint módosított szöveg.

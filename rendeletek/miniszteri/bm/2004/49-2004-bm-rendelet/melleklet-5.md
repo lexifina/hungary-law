@@ -1,4 +1,4 @@
-5. számú melléklet a 49/2004. (VIII. 31.) BM rendelethez[^75]
+5. számú melléklet a 49/2004. (VIII. 31.) BM rendelethez[^81]
 
 Az elöltöltő fegyver vadászati célú használatához szükséges elméleti ismereteket és gyakorlati jártasságot igazoló vizsga elméleti részvizsgájának szóbelivizsga-tételei
 
@@ -128,4 +128,4 @@ a. Ismertesse a lőfegyver fogalmát!
 
 b. Ismertesse a fekete lőpor, illetve a gyárilag ennek kiváltására készült lőpor, továbbá a csappantyú birtoklására, szállítására vonatkozó szabályokat!
 
-[^75]: Az 5. mellékletet a 42/2016. (X. 25.) BM rendelet 3. § b) pontja iktatta be.
+[^81]: Az 5. mellékletet a 42/2016. (X. 25.) BM rendelet 3. § b) pontja iktatta be.
