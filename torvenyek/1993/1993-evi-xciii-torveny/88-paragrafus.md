@@ -42,6 +42,10 @@ ae) a kollektív munkaügyi vita munkavédelmi képviselet által történő kez
 
 af) az ipari alpintechnikai tevékenység biztonsági követelményeinek;
 
+ag) a munkavédelmi oktatásnak megfelelő általános oktatási tematika átadásának és az alkalmazhatóság feltételeinek;
+
+ah) az általános oktatási tematika
+
 részletes szabályait;
 
 b) az egészségügyért felelős miniszterrel és a tevékenység szerinti miniszterrel egyetértésben, rendeletben határozza meg a veszélyhelyzettel járó munkavégzéshez szükséges szakképzettség, illetőleg gyakorlat részletes szabályait;
