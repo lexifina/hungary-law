@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-10-20-2
 | 2023-03-09 | 2005-10-20-2C.12 | 25/2005. (XII. 12.) MNB rendelet |
 | 2023-04-01 | 2005-10-20-2C.13 | 11/2023. (III. 31.) MNB rendelet |
 | 2023-07-01 | 2005-10-20-2C.14 | 25/2023. (VI. 14.) MNB rendelet |
+| 2023-11-01 | 2005-10-20-2C.15 | 49/2023. (X. 24.) MNB rendelet |
