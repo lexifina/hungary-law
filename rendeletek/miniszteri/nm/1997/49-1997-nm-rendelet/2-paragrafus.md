@@ -30,7 +30,7 @@ ce) a házastárs, illetve élettárs ivarsejtjeivel végzett mesterséges ondó
 
 cf) adományozott ivarsejttel végzett mesterséges ondóbevitelből (R. 1. számú melléklet 9.2. pont) legfeljebb hat
 
-## beavatkozás.
+beavatkozás.
 
 (1a)[^4] Ha az (1) bekezdés c) pont ca)–cd) alpontja szerinti öt teljes, az embrió beültetésével végződő beavatkozás eredményeként legalább egy gyermek élve születik, úgy további négy teljes beavatkozás vehető igénybe az Egészségbiztosítási Alap terhére.
 
