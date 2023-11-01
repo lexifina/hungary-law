@@ -1,4 +1,4 @@
-5/P. §[^41] (1) A 2. mellékletben foglalt táblázat B:112 mezőjében megjelölt ingatlanokra a beépítés egyedi szabályait a (2)–(4) bekezdés állapítja meg, azzal, hogy
+5/P. §[^43] (1) A 2. mellékletben foglalt táblázat B:112 mezőjében megjelölt ingatlanokra a beépítés egyedi szabályait a (2)–(4) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK előírásait a (2)–(4) bekezdésben foglalt eltéréssel kell alkalmazni, és
 
@@ -14,4 +14,4 @@ a) a Tát város belterületén fekvő 1788/42 és 1788/50 helyrajzi számú ing
 
 b) a Tát város külterületén fekvő 072/4 helyrajzi számú ingatlan területének a Tát város településrendezési terve szerint kialakítandó közterület területével csökkentett, a mindösszesen 69 605 m2 alapterületű részét együttesen, egy egységként kell figyelembe venni.
 
-[^41]: Az 5/P. §-t a 86/2023. (III. 21.) Korm. rendelet 1. §-a iktatta be.
+[^43]: Az 5/P. §-t a 86/2023. (III. 21.) Korm. rendelet 1. §-a iktatta be.

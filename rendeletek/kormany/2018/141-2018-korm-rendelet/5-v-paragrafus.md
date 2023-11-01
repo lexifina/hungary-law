@@ -1,4 +1,4 @@
-5/V. §[^61] (1) A 2. mellékletben foglalt táblázat 122. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:122 mezőjében megjelölt telekre a beépítés szabályait és az egyedi építési követelményeket a (2)–(4) bekezdés állapítja meg, azzal, hogy
+5/V. §[^63] (1) A 2. mellékletben foglalt táblázat 122. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:122 mezőjében megjelölt telekre a beépítés szabályait és az egyedi építési követelményeket a (2)–(4) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK előírásait a (2)–(4) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -32,4 +32,4 @@ a) az OTÉK 4. számú melléklete szerint meghatározott számú személygépko
 
 b) autóbusz-várakozóhelyet nem kell biztosítani.
 
-[^61]: Az 5/V. §-t a 429/2023. (IX. 14.) Korm. rendelet 6. §-a iktatta be.
+[^63]: Az 5/V. §-t a 429/2023. (IX. 14.) Korm. rendelet 6. §-a iktatta be.
