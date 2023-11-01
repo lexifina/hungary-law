@@ -90,6 +90,8 @@ c) rendeletben szabályozza
 
 37. a vadászatra jogosult adatszolgáltatására vonatkozó részletes szabályokat,
 
+38. a lőfegyverre szerelt hangtompító eszköz vadászat során történő használatának részletes szabályait.
+
 (1a) Felhatalmazást kap a miniszter, hogy rendeletben jelölje ki a vadgazdálkodási tájegységeket.
 
 (2) Felhatalmazást kap a Kormány arra, hogy a vadászati hatóságot vagy hatóságokat rendeletben jelölje ki.

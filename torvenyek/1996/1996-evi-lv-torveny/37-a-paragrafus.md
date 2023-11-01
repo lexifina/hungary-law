@@ -6,7 +6,7 @@
 
 2. a számszeríj;
 
-3. a lőfegyverre szerelt hangtompító eszköz;
+3. e törvény végrehajtására kiadott rendeletben meghatározott követelményeknek meg nem felelő, lőfegyverre szerelt hangtompító eszköz;
 
 4. a hurok, horog, madárlép, verem;
 
