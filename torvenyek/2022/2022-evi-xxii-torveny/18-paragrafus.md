@@ -18,4 +18,6 @@ e) az adatváltozás-kezelési szolgáltatás igénybevételének részletes sza
 
 f) az adatváltozás-kezelési szolgáltatáshoz való csatlakozás feltételeit, az adatváltozás-kezelési szolgáltató és a csatlakozott szolgáltató, valamint a felhasználó közötti jogviszony tartalmi elemeit, továbbá az érintettek jogait és kötelezettségeit
 
+g) a hazatérést támogató szolgáltatással kapcsolatos feladatok ellátására kijelölt, valamint a Hazaváró Portállal kapcsolatos alkalmazás-üzemeltetési és alkalmazás-fejlesztési szolgáltatások biztosítására kijelölt szervet, és az azok feladataira vonatkozó részletes szabályokat
+
 rendeletben határozza meg.

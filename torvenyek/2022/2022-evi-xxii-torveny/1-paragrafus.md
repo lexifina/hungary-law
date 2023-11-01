@@ -22,11 +22,15 @@ d) a földgázellátásról szóló 2008. évi XL. törvény szerinti földgázk
 
 e) a víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény szerinti víziközmű-szolgáltató;
 
+3a. diaszpóra-magyarsággal történő kapcsolattartást támogató rendszer: a hazatérést támogató szolgáltatáshoz rendelt informatikai rendszer;
+
 4. felhasználóváltozás-bejelentési szolgáltatás: az ügyfél személyében bekövetkezett változás bejelentésének adatváltozás-kezelési szolgáltató általi továbbítása a csatlakozott szolgáltató felé;
 
 5. haláleseti kapcsolattartó: az ügyfél által megjelölt természetes személy, akivel a 3. pont b)–e) alpontja szerinti csatlakozott szolgáltató az ügyfél halála esetén az adatváltozás-kezelési szolgáltató értesítése alapján felveheti a kapcsolatot;
 
 6. harmadik fél szolgáltató: a csatlakozott szolgáltatótól szervezetileg független szervezet, amellyel a csatlakozott szolgáltató szerződést köt a csatlakozott szolgáltató saját szolgáltatási tevékenységéhez kapcsolódó vagy jogszabály által végezni rendelt olyan tevékenység folyamatos vagy rendszeres elvégzésére, amelynek során adatkezelés vagy adatfeldolgozás valósul meg; így különösen harmadik fél szolgáltató a csatlakozott szolgáltató mint számlakibocsátó számára megbízás alapján, illetve képviselőként számlákat kibocsátó, a számlakibocsátó számláit a számlabefogadók részére a számlakibocsátóval történt megállapodás alapján rendelkezésre bocsátó, a számlák elektronikus befizetését biztosító, a kiegyenlítésre nem került számlák követeléskezelési feladatait ellátó, továbbá a csatlakozott szolgáltató számára ügyfélszolgálati tevékenységet ellátó harmadik fél;
+
+6a. hazatérést támogató szolgáltatás: a külföldön élő magyar állampolgár vagy a diaszpóra magyarsághoz tartozó természetes személy Magyarországra történő hazatérésével kapcsolatos ügyeiben való közreműködés, támogatás;
 
 7. ügyfél elérhetőségi adatai: az ügyfél levelezési címe, telefonszáma, e-mail-címe.
 

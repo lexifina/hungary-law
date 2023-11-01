@@ -16,7 +16,7 @@ b) a felhasználóváltozás átvezetése céljából továbbítja – jogszabá
 
 ba) az ügyfél elérhetőségi adatait,
 
-bb) az előző szerződő a) pont és b) pont ba) alpontja szerinti adatait, ha a beküldő ügyfél nem azonos az előző szerződővel,
+bb) ha a beküldő ügyfél nem azonos az előző szerződővel, az előző természetes személy szerződő a) pont és b) pont ba) alpontja szerinti adatait, nem természetes személy előző szerződő esetén az előző nem természetes személy szerződő nevét, székhelyét, nyilvántartási számát, adószámát, valamint a) pont ac) alpontja és b) pont ba) alpontja szerinti adatait,
 
 bc) az új szerződő a) pont aa) és ab) alpontja, valamint b) pont ba) alpontja szerinti adatait, ha a beküldő ügyfél nem azonos az új szerződővel,
 

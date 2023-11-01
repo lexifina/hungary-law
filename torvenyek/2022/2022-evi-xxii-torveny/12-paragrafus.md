@@ -26,7 +26,7 @@ b) az adatváltozás-kezelési szolgáltató általános szerződési feltétele
 
 (8) Az adatváltozás-kezelési szolgáltató a 15. § (2) bekezdése és a 16. § (2) bekezdése szerinti adatokat
 
-a) az adatváltozás-bejelentési értesítésnek vagy a felhasználóváltozási értesítésnek a csatlakozott szolgáltatóhoz történő továbbítását követő 15. munkanapig, illetve
+a) az adatváltozás-bejelentési értesítésnek vagy a felhasználóváltozási értesítésnek a csatlakozott szolgáltatóhoz történő továbbítását követően egy évig, illetve
 
 b) a 15. § (4) bekezdése szerinti ellenőrzés alapján az ügyfél rendelkezésének időközbeni visszavonása esetén az erről való értesülésig
 

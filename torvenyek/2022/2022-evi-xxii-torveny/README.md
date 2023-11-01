@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2022-22-00-00
 | 2023-07-01 | 2022. évi XLVIII. törvény | 2022-22-00-00.21 |
 | 2023-07-02 | 2010. évi CXXX. törvény | 2022-22-00-00.16 |
 | 2023-09-28 | 2023. évi LXI. törvény | 2022-22-00-00.17 |
+| 2023-11-01 | 2023. évi LXX. törvény | 2022-22-00-00.18 |
