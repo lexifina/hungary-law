@@ -1,4 +1,4 @@
-1. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^290]
+1. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^291]
 
 1. A tulajdonosi közösség közös képviselőjének nyilvántartásba vétele iránti kérelem kötelező adattartalma
 
@@ -26,4 +26,4 @@
 
 2.7. Keltezés, a kérelmező aláírása (bélyegzője)
 
-[^290]: A Vhr. 1. számú melléklete az 57/2023. (X. 16.) AM rendelet 27. § (1) bekezdésével megállapított szöveg.
+[^291]: A Vhr. 1. számú melléklete az 57/2023. (X. 16.) AM rendelet 27. § (1) bekezdésével megállapított szöveg.

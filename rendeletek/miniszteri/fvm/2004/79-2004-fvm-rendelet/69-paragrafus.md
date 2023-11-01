@@ -40,9 +40,12 @@ elektronikus képnagyítóból vagy képátalakítóból álló, éjszakai löv�
 
 (7)[^199] A (6) bekezdés b) pontja szerinti esetben a vadászati hatóság által kiadott engedélyről a vadászatra jogosult a vadászterületén vadászókat a helyben szokásos módon tájékoztatja.
 
+(8)[^200] A hivatásos vadász munkaköri feladatai ellátása, valamint a vadász a vadászat során a vadászlőfegyverre szerelt, a lőfegyverekről és lőszerekről szóló törvény szerinti hangtompítót is használhat.
+
 [^194]: A Vhr. 69. § (1) bekezdés g) pontját a 24/2017. (V. 17.) FM rendelet 21. § (1) bekezdése iktatta be.
 [^195]: A Vhr. 69. § (2) bekezdése a 24/2017. (V. 17.) FM rendelet 21. § (2) bekezdésével megállapított szöveg.
 [^196]: A Vhr. 69. § (4) bekezdése az 57/2023. (X. 16.) AM rendelet 16. § (1) bekezdésével megállapított szöveg.
 [^197]: A Vhr. 69. § (5) bekezdését az 57/2023. (X. 16.) AM rendelet 16. § (1) bekezdése iktatta be.
 [^198]: A Vhr. 69. § (6) bekezdését az 57/2023. (X. 16.) AM rendelet 16. § (1) bekezdése iktatta be.
 [^199]: A Vhr. 69. § (7) bekezdését az 57/2023. (X. 16.) AM rendelet 16. § (1) bekezdése iktatta be.
+[^200]: A Vhr. 69. § (8) bekezdését az 57/2023. (X. 16.) AM rendelet 16. § (2) bekezdése iktatta be.

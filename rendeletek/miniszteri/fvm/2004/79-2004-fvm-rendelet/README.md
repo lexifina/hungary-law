@@ -41,3 +41,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-79-20-8
 | 2022-03-01 | 2004-79-20-82.40 | 50/2021. (XII. 29.) AM rendelet |
 | 2023-01-01 | 2004-79-20-82.41 | 36/2022. (XI. 29.) AM rendelet |
 | 2023-10-24 | 2004-79-20-82.42 | 57/2023. (X. 16.) AM rendelet |
+| 2023-11-01 | 2004-79-20-82.43 | 57/2023. (X. 16.) AM rendelet |

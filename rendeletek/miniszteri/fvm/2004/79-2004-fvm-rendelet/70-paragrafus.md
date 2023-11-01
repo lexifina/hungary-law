@@ -1,4 +1,4 @@
-70. §[^200] (1) A Vtv. 70. § (1) bekezdés b) pontja szerinti társas vadászatnak minősül a nagyvad társas vadászata, az apróvad kereső-, illetve hajtóvadászata, ha a felsorolt vadászatokon három vagy több vadász vesz részt.
+70. §[^201] (1) A Vtv. 70. § (1) bekezdés b) pontja szerinti társas vadászatnak minősül a nagyvad társas vadászata, az apróvad kereső-, illetve hajtóvadászata, ha a felsorolt vadászatokon három vagy több vadász vesz részt.
 
 (2) Apróvad vadászatán az 1. § (1) bekezdés b) pont ba) és bb) alpontjában meghatározott apróvadfajok ejthetőek el.
 
@@ -24,4 +24,4 @@ h) a dolmányos varjú, a szarka és a szajkó kivételével az 1. § (1) bekezd
 
 (5) Sík terepen egy vonalban kijelölt lőállások, illetve a lőálláson elhelyezkedő vadászok összelövésének lehetősége esetén nagyvad társas vadászatán kizárólag magasított lőállások használhatók.
 
-[^200]: A Vhr. 70. §-a az 57/2023. (X. 16.) AM rendelet 17. §-ával megállapított szöveg.
+[^201]: A Vhr. 70. §-a az 57/2023. (X. 16.) AM rendelet 17. §-ával megállapított szöveg.
