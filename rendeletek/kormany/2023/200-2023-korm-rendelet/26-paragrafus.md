@@ -1,0 +1,1 @@
+26. § E rendelet 1. alcíme az épületek energiahatékonyságáról szóló 2010/31/EU irányelv és az energiahatékonyságról szóló 2012/27/EU irányelv módosításáról szóló, 2018. május 30-i (EU) 2018/844 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
