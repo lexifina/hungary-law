@@ -1,0 +1,1 @@
+Az Országgyűlés a magyar munkavállalók munkahelyeinek megőrzése, valamint a vendégmunkások átlátható és szabályozott keretek között történő magyarországi foglalkoztatásának biztosítása érdekében a következő törvényt alkotja:
