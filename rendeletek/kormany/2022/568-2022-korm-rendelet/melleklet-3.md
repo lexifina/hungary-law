@@ -345,21 +345,3 @@ Az eljáró hatóság egészeként kizárt járási (fővárosi kerületi) hivat
 | 9. | Törökszentmiklós | Szolnok |
 
 | 10. | Szolnok | Törökszentmiklós |
-
-12. Komárom-Esztergom vármegye
-
-|  | A | B |
-
-| 1. | Járási hivatal | Helyettesítő járási hivatal |
-
-| 2. | Esztergom | Komárom |
-
-| 3. | Kisbér | Oroszlány |
-
-| 4. | Oroszlány | Kisbér |
-
-| 5. | Komárom | Esztergom |
-
-| 6. | Tata | Tatabánya |
-
-| 7. | Tatabánya | Tata |
