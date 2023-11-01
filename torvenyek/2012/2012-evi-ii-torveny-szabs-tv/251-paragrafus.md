@@ -5,5 +5,3 @@
 (2) A 253. § (8) és (9) bekezdése a törvény kihirdetését követő harmadik napon lép hatályba.
 
 (3) E törvénynek más jogszabályban alkalmazandó rövid megjelölése: Szabs. tv.
-
-## 206. Átmeneti rendelkezések
