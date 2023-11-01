@@ -24,3 +24,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-175-00-00
 | 2022-11-01 | 2022. évi XXI. törvény | 2013-175-00-00.17 |
 | 2023-01-01 | 2021. évi CXXXV. törvény | 2013-175-00-00.18 |
 | 2023-02-01 | 2022. évi I. törvény | 2013-175-00-00.19 |
+| 2023-11-01 | 2023. évi XXXVIII. törvény | 2013-175-00-00.20 |
