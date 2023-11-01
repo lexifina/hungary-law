@@ -1,3 +1,3 @@
-3. § A 27/2014. (XI. 25.) FM rendelet a következő 24. §-sal egészül ki:
+3. §[^4]
 
-„24. § A 2023. kárenyhítési évben a 9. § (4b) bekezdése szerinti első kárbejelentés alatt a 2023. március 30-át követően benyújtott első kárbejelentést kell érteni.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

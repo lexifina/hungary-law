@@ -1,1 +1,3 @@
-4. § A 27/2014. (XI. 25.) FM rendelet 2. melléklete az 1. melléklet szerint módosul.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

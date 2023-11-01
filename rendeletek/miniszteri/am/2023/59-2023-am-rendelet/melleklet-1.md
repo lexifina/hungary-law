@@ -1,5 +1,3 @@
-1. melléklet az 59/2023. (X. 30.) AM rendelethez
+1. melléklet az 59/2023. (X. 30.) AM rendelethez[^7]
 
-A 27/2014. (XI. 25.) FM rendelet 2. melléklet I. pontja a következő 3a. alponttal egészül ki:
-
-„3a. A határozott idejű mezőgazdasági biztosítási szerződés megkötésének vagy a határozatlan idejű mezőgazdasági biztosítási szerződés megújításának dátuma”
+[^7]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
