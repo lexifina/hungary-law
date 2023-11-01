@@ -1,3 +1,7 @@
-2. melléklet a 24/2023. (VI. 30.) BM rendelethez[^57]
+## „2. számú melléklet a 22/1991. (XI. 15.) NM rendelethez
 
-[^57]: A 2. melléklet a 65. § (2) bekezdés alapján 2023. november 1-jén lép hatályba.
+## 3X04922.pdf
+
+## ”
+
+2. melléklet a 24/2023. (VI. 30.) BM rendelethez
