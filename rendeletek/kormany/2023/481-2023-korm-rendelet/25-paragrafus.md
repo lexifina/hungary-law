@@ -1,0 +1,1 @@
+25. § Ez a rendelet a közös agrárpolitika finanszírozásáról, irányításáról és monitoringjáról, valamint az 1306/2013/EU rendelet hatályon kívül helyezéséről szóló, 2021. december 2-i (EU) 2021/2116 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.

@@ -1,0 +1,3 @@
+20. § (1) A behajthatatlan tartozás törlésére vonatkozóan a Nemzeti Kifizető Ügynökség az EU által meghatározott kötelezettségek, valamint a nemzeti beszámolási kötelezettségek figyelembevételével a KAP törvény 46. §-ában foglaltak szerint jár el.
+
+(2) A behajthatatlan vagy még vissza nem fizetett összegeket – ha azokkal kapcsolatosan a Nemzeti Kifizető Ügynökséget az Európai Bizottság részére az EU kötelezően alkalmazandó jogi aktusaiban meghatározott határidőben befizetési kötelezettség terheli – a forrásgazda a meghatározott fejezeti kezelésű előirányzat-felhasználási keretszámláján keresztül biztosítja.

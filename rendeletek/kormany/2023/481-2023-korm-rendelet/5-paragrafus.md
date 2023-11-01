@@ -1,0 +1,3 @@
+5. § (1) A Nemzeti Kifizető Ügynökség ellátja a KAP Alapok finanszírozásában megvalósuló programokkal és intézkedésekkel, valamint a nemzeti agrártámogatásokkal összefüggő költségvetés tervezési feladatokat, elkészíti a kifizetési előrejelzéseket, prognózisokat, amelyek keretében szakmai javaslatot tesz a fejezeti vagy központi költségvetést érintő összes várható kiadásra és bevételre vonatkozóan.
+
+(2) Az (1) bekezdés szerinti szakmai javaslatot a forrásgazda által meghatározott formában és bontásban – az európai uniós költségvetési keretek, valamint a nemzeti agrártámogatások keretére vonatkozó szakmai előrejelzésekkel összhangban – állítja össze a KAP törvény 11. § (1) és (2) bekezdésében meghatározott egyes agrártámogatások összegére.

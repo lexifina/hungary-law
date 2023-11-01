@@ -1,0 +1,1 @@
+4. § A KAP Stratégiai Terv terhére térítendő áthúzódó tételeket az Európai Mezőgazdasági Orientációs és Garancia Alap Garancia Részlegéből finanszírozott Nemzeti Vidékfejlesztési Terv alapján, az EMVA-ból a 2007–2013 és a 2014–2020 közötti programozási időszakban – ideértve a 2021–2022-es átmeneti időszakot is – hozott támogatási döntések keletkeztethetnek.
