@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1992-111-20-
 | 2022-07-01 | 1992-111-20-22.23 | 161/2022. (IV. 28.) Korm. rendelet |
 | 2022-11-01 | 1992-111-20-22.24 | 375/2022. (X. 5.) Korm. rendelet |
 | 2023-01-01 | 1992-111-20-22.25 | 616/2022. (XII. 29.) Korm. rendelet |
+| 2023-11-01 | 1992-111-20-22.26 | 463/2023. (X. 6.) Korm. rendelet |
