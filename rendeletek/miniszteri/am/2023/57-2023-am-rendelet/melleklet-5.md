@@ -1,3 +1,3 @@
-5. melléklet az 57/2023. (X. 16.) AM rendelethez[^98]
+5. melléklet az 57/2023. (X. 16.) AM rendelethez[^97]
 
-[^98]: Az 5. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^97]: Az 5. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

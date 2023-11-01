@@ -1,3 +1,3 @@
-45. §[^93]
+45. §[^92]
 
-[^93]: A 45. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^92]: A 45. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

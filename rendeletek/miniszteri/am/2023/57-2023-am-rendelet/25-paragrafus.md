@@ -1,3 +1,3 @@
-25. §[^26]
+25. §[^25]
 
-[^26]: A 25. § a 46. § (3) bekezdés alapján 2023. november 16-án lép hatályba.
+[^25]: A 25. § a 46. § (3) bekezdés alapján 2023. november 16-án lép hatályba.
