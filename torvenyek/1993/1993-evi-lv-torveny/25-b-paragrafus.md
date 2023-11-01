@@ -1,1 +1,1 @@
-### 25/B. §
+25/B. § Az állam működésének további egyszerűsítésével összefüggő rendelkezésekről szóló 2023. évi LXX. törvénnyel megállapított 7. § (1) és (1a)–(1c) bekezdését, 16. §-t, 24. § (5) bekezdését, 18. § b) pontját, és 19. § (1) és (1a) bekezdését  a 2024. július 1-jét követően indult eljárásokban kell alkalmazni.

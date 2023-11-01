@@ -15,3 +15,9 @@ d) az e törvény szerinti eljárásokban használandó formanyomtatványokat, a
 e) a 4. § (1) bekezdés e) pontjában előírt vizsga követelményeit, az eljárás rendjét, a vizsga letétele alóli felmentésre való jogosultság igazolásának szabályait, a vizsga letételét igazoló okmány tartalmát és biztonsági követelményét, továbbá a vizsga szervezésére jogosult szervet és annak a vizsgával kapcsolatos feladatait,
 
 f) a névmódosítási kérelemhez a névmódosítási kérelemben foglaltak alátámasztására szolgáló okiratok körét.
+
+(5) Felhatalmazást kap a Kormány, hogy rendeletben
+
+a) jelölje ki az eskütételi igazgatási szervet,
+
+b) határozza meg az eskütételi igazgatási szerv részletes feladat- és hatáskörét, valamint eljárásának szabályait.

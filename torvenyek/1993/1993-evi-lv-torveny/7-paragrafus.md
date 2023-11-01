@@ -1,4 +1,24 @@
-7. § (1) A honosított, illetőleg a visszahonosított (a továbbiakban együtt: honosított) személy választása szerint állampolgársági esküt vagy fogadalmat tesz. Az esküt vagy a fogadalmat a honosított a lakóhelye szerint illetékes polgármester előtt, illetve a 4. § (2a), (3), (3a) és (7) bekezdésének, illetve az 5. § hatálya alá tartozó honosított választása szerint a polgármester vagy a magyar külképviselet vezetője előtt teszi le. Az eskü vagy fogadalom letételénél a magyar külképviselet vezetője helyett az általa kijelölt konzuli tisztviselő is eljárhat. A cselekvőképtelen személy nevében az esküt vagy fogadalmat a törvényes képviselője teszi le. Az eskü vagy fogadalom letételénél a magyar külképviselet vezetője helyett az általa kijelölt konzuli tisztviselő is eljárhat.
+7. § (1) A honosított, illetve a visszahonosított (a továbbiakban együtt: honosított) személy, cselekvőképtelen személy nevében a törvényes képviselője a választása szerint állampolgársági esküt vagy fogadalmat tesz. Az esküt vagy a fogadalmat
+
+a) a honosított lakóhelye szerint illetékes polgármester,
+
+b) – erre irányuló kérelem és az eskütételi igazgatási szerv jóváhagyása esetén – az eskütételi igazgatási szerv vezetője vagy
+
+c) a 4. § (2a), (3), (3a) és (7) bekezdésének, illetve az 5. §-nak a hatálya alá tartozó honosított választása szerint bármely polgármester vagy a magyar külképviselet vezetője
+
+előtt kell letenni.
+
+(1a) Az eskü vagy fogadalomtétel során
+
+a) a magyar külképviselet vezetője helyett az általa kijelölt konzuli tisztviselő,
+
+b) az eskütételi igazgatási szerv vezetője helyett az eskütételi igazgatási szerv tisztviselője
+
+is eljárhat.
+
+(1b) Az eskütételi igazgatási szerv az eskü- és fogadalomtétellel kapcsolatos feladatokat ellátó, kormányrendeletben kijelölt központi kormányzati igazgatási szerv.
+
+(1c) A kormányrendeletben kijelölt központi kormányzati igazgatási szerv vezetője nevezi ki az eskütételi igazgatási szerv vezetőjét. Az eskütételi igazgatási szerv vezetőjének jogviszonya más tisztség, megbízatás, egyéb munkavégzéssel együtt járó tevékenység végzése, illetve jogviszony létrehozása szempontjából nem keletkeztet összeférhetetlenséget.
 
 (2) A honosított a magyar állampolgárságot az eskü vagy fogadalom letételének napján szerzi meg. Az eskütétel, illetve fogadalomtétel tényét és napját a honosítási okiraton fel kell tüntetni.
 
