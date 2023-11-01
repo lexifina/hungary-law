@@ -4,6 +4,6 @@
 
 ## A csőben található egyéb szűkítéseket kicsavarodás, kiesés ellen ragasztással, forrasszal, illetve csappal rögzíteni kell.
 
-23. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^313]
+23. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^317]
 
-[^313]: A 23. mellékletet a 39/2012. (III. 12.) Korm. rendelet 28. § g) pontja iktatta be, szövege a 616/2022. (XII. 29.) Korm. rendelet 57. §-a szerint módosított szöveg.
+[^317]: A 23. mellékletet a 39/2012. (III. 12.) Korm. rendelet 28. § g) pontja iktatta be, szövege a 616/2022. (XII. 29.) Korm. rendelet 57. §-a szerint módosított szöveg.
