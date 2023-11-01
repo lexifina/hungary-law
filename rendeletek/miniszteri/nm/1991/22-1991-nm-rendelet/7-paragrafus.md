@@ -1,4 +1,4 @@
-7. §[^31] (1) Az az I. alkalmassági csoportba tartozó, lőfegyvertartási engedéllyel rendelkező személy, aki
+7. §[^37] (1) Az az I. alkalmassági csoportba tartozó, lőfegyvertartási engedéllyel rendelkező személy, aki
 
 a) 40. életévét még nem töltötte be, 5 évenként orvosi és pszichológiai;
 
@@ -8,7 +8,7 @@ c) 60. életévét betöltötte, évenként orvosi, 2 évenként pszichológiai
 
 időszakos alkalmassági vizsgálaton köteles részt venni.
 
-(2)[^32] Az a II. alkalmassági csoportba tartozó, lőfegyvertartási engedéllyel, a muzeális fegyver sportlövészeti célú használatára jogosító engedéllyel, illetve az elöltöltő fegyver vadászati célú használatára jogosító engedéllyel rendelkező személy – a KR1. 23. § (1) bekezdésében meghatározott személy kivételével –, aki
+(2)[^38] Az a II. alkalmassági csoportba tartozó, lőfegyvertartási engedéllyel, a muzeális fegyver sportlövészeti célú használatára jogosító engedéllyel, illetve az elöltöltő fegyver vadászati célú használatára jogosító engedéllyel rendelkező személy – a KR1. 23. § (1) bekezdésében meghatározott személy kivételével –, aki
 
 a) a 40. életévét még nem töltötte be, 10 évenként,
 
@@ -20,11 +20,11 @@ d) a 70. életévét betöltötte, 2 évenként
 
 időszakos orvosi alkalmassági vizsgálaton köteles részt venni.
 
-(3)[^33]
+(3)[^39]
 
 (4) A KR1. 23. § (1) bekezdésben meghatározott személy orvosi alkalmassági vizsgálata a KR2. szerinti sportorvosi vizsgálat keretében, az ott meghatározott gyakorisággal történik.
 
-(5)[^34] A lőfegyvertartási engedéllyel, a muzeális fegyver sportlövészeti célú használatára jogosító engedéllyel, illetve az elöltöltő fegyver vadászati célú használatára jogosító engedéllyel rendelkező személy az (1), a (2) és a (4) bekezdésben, valamint a 7/A. § alapján meghatározott időnél korábban soron kívüli pszichológiai vagy orvosi alkalmassági vizsgálatnak köteles magát alávetni az 1. § (4) bekezdésében foglaltakon kívül akkor is, ha
+(5)[^40] A lőfegyvertartási engedéllyel, a muzeális fegyver sportlövészeti célú használatára jogosító engedéllyel, illetve az elöltöltő fegyver vadászati célú használatára jogosító engedéllyel rendelkező személy az (1), a (2) és a (4) bekezdésben, valamint a 7/A. § alapján meghatározott időnél korábban soron kívüli pszichológiai vagy orvosi alkalmassági vizsgálatnak köteles magát alávetni az 1. § (4) bekezdésében foglaltakon kívül akkor is, ha
 
 a) az egészségi alkalmasságot vizsgáló szerv az orvosi vagy a pszichológiai alkalmassági vizsgálatra rövidebb határidőt állapított meg,
 
@@ -38,7 +38,7 @@ a) olyan körülményt (betegséget, állapotromlást) észlel, amely a lőfegyv
 
 b) legalább 6 hónapig tartó keresőképtelenség áll fenn.
 
-[^31]: A 7. § a 9/2010. (III. 18.) EüM rendelet 7. §-ával megállapított szöveg.
-[^32]: A 7. § (2) bekezdése a 8/2017. (V. 25.) EMMI rendelet 6. § (1) bekezdésével megállapított, nyitó szövegrésze az 56/2022. (XII. 27.) BM rendelet 3. § j) pontja szerint módosított szöveg.
-[^33]: A 7. § (3) bekezdését a 42/2013. (VI. 19.) EMMI rendelet 6. §-a hatályon kívül helyezte.
-[^34]: A 7. § (5) bekezdése a 8/2017. (V. 25.) EMMI rendelet 6. § (2) bekezdésével megállapított, nyitó szövegrésze az 56/2022. (XII. 27.) BM rendelet 3. § j) pontja szerint módosított szöveg.
+[^37]: A 7. § a 9/2010. (III. 18.) EüM rendelet 7. §-ával megállapított szöveg.
+[^38]: A 7. § (2) bekezdése a 8/2017. (V. 25.) EMMI rendelet 6. § (1) bekezdésével megállapított, nyitó szövegrésze az 56/2022. (XII. 27.) BM rendelet 3. § j) pontja szerint módosított szöveg.
+[^39]: A 7. § (3) bekezdését a 42/2013. (VI. 19.) EMMI rendelet 6. §-a hatályon kívül helyezte.
+[^40]: A 7. § (5) bekezdése a 8/2017. (V. 25.) EMMI rendelet 6. § (2) bekezdésével megállapított, nyitó szövegrésze az 56/2022. (XII. 27.) BM rendelet 3. § j) pontja szerint módosított szöveg.

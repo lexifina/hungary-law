@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1991-22-20-3
 | 2013-07-10 | 1991-22-20-3D.11 | 42/2013. (VI. 19.) EMMI rendelet |
 | 2017-06-02 | 1991-22-20-3D.12 | 8/2017. (V. 25.) EMMI rendelet |
 | 2023-01-01 | 1991-22-20-3D.13 | 8/2017. (V. 25.) EMMI rendelet |
+| 2023-11-01 | 1991-22-20-3D.14 | 24/2023. (VI. 30.) BM rendelet |

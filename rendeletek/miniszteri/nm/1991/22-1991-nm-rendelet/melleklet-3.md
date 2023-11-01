@@ -1,6 +1,6 @@
-## 2x10467.pdf
+## 3X04922.pdf
 
-3. számú melléklet a 22/1991. (XI. 15.) NM rendelethez[^67]
+3. számú melléklet a 22/1991. (XI. 15.) NM rendelethez[^75]
 
 A pszichológiai alkalmassági vizsgálat tartalma:
 
@@ -24,4 +24,4 @@ A pszichológiai alkalmassági vizsgálat tartalma:
 
 – projektív tesztekkel.
 
-[^67]: A 3. számú melléklet a 44/1997. (XII. 17.) NM rendelet 1. §-ának (2) bekezdésével megállapított és a 9/2010. (III. 18.) EüM rendelet 13. § (3) bekezdése szerint módosított szöveg.
+[^75]: A 3. számú melléklet a 44/1997. (XII. 17.) NM rendelet 1. §-ának (2) bekezdésével megállapított és a 9/2010. (III. 18.) EüM rendelet 13. § (3) bekezdése szerint módosított szöveg.
