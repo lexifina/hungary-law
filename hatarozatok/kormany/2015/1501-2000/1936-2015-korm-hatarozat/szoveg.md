@@ -22,15 +22,7 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: 2020. szeptember 30.
 
-2. felhívja a nemzetgazdasági minisztert, a belügyminisztert és a Miniszterelnökséget vezető minisztert, hogy Szombathely Megyei Jogú Város Önkormányzata bevonásával vizsgálják meg az ipari parkban tervezett multifunkcionális városi közszolgáltatási telephely európai uniós fejlesztési forrásból történő kialakításának lehetőségét, valamint a vizsgálat eredményétől függően tegyék meg a szükséges intézkedéseket legfeljebb 1500,0 millió forint összegű támogatás Szombathely Megyei Jogú Város Önkormányzata részére – a rendelkezésre álló uniós fejlesztési forrásokból vagy ennek hiányában központi költségvetési forrásból – történő biztosítására;
-
-Felelős: nemzetgazdasági miniszter
-
-belügyminiszter
-
-Miniszterelnökséget vezető miniszter
-
-Határidő: Szombathely Megyei Jogú Város Önkormányzatával egyeztetett módon, a forrásigény felmerülése ütemében
+2.[^3]
 
 3. felhívja a belügyminisztert, hogy tegye meg a szükséges intézkedéseket a Szombathely és a környező települések árvízi védelmét szolgáló dozmati víztározó megépítéséhez szükséges források biztosítása és a víztározó megépítése érdekében;
 
@@ -52,7 +44,7 @@ a) felhívja az emberi erőforrások miniszterét, hogy – a művész bevonás�
 
 Felelős: emberi erőforrások minisztere
 
-Határidő: 2016. január 31.[^3]
+Határidő: 2016. január 31.[^4]
 
 b) felhívja az emberi erőforrások miniszterét, hogy Szombathely Megyei Jogú Város Önkormányzata által kidolgozott tervek alapján, az a) alpont szerinti javaslatra vonatkozó döntést figyelembe véve – a forrásbiztosítás tekintetében a nemzetgazdasági miniszter és a belügyminiszter közreműködésével – tegyen javaslatot a Szombathelyi Képtárnak helyet adó épület felújításának támogatására,
 
@@ -62,7 +54,7 @@ nemzetgazdasági miniszter
 
 belügyminiszter
 
-Határidő: az épület felújítására vonatkozó önkormányzati terv kidolgozásához igazodva, a felújítás 2018. március 31-ig történő megvalósítását biztosítva[^4]
+Határidő: az épület felújítására vonatkozó önkormányzati terv kidolgozásához igazodva, a felújítás 2018. március 31-ig történő megvalósítását biztosítva[^5]
 
 6. a 2016. év Szent Márton Emlékévvé nyilvánításáról és az ahhoz kapcsolódó további feladatról szóló 1170/2015. (III. 24.) Korm. határozatban foglaltakat megerősítve kiemelten támogatja a Szombathelyi Szent Márton Terv és Szent Márton Programsorozat megvalósítását, amelyre figyelemmel
 
@@ -86,19 +78,7 @@ Miniszterelnökséget vezető miniszter
 
 Határidő: 2016. január 31.
 
-c) felhívja a nemzetgazdasági minisztert, a belügyminisztert, a nemzeti fejlesztési minisztert, az emberi erőforrások miniszterét és a Miniszterelnökséget vezető minisztert, hogy Szombathely Megyei Jogú Város Önkormányzatának javaslata alapján vizsgálják meg Szombathely Megyei Jogú Város Önkormányzata által a Szent Márton Terv III. üteme keretében tervezett, további városrehabilitációs projektek európai uniós fejlesztési forrásokból, illetve központi költségvetési forrásból történő támogatásának lehetőségét;
-
-Felelős: nemzetgazdasági miniszter
-
-belügyminiszter
-
-nemzeti fejlesztési miniszter
-
-emberi erőforrások minisztere
-
-Miniszterelnökséget vezető miniszter
-
-Határidő: a javaslatok önkormányzat általi kidolgozásához igazodva
+c)[^6]
 
 7. a városi sport- és kulturális élet fejlesztését elősegítve
 
@@ -112,9 +92,9 @@ emberi erőforrások minisztere
 
 Határidő: 2016. február 29.
 
-8.[^5]
+8.[^7]
 
-9.[^6] a város vonzerejének növelése és élhetőbbé tételének elősegítése érdekében
+9.[^8] a város vonzerejének növelése és élhetőbbé tételének elősegítése érdekében
 
 a) egyetért a Vas Megyei Kormányhivatal székhelyéül szolgáló, Szombathely, Berzsenyi Dániel tér 1. szám alatti Megyeháza épülete átfogó felújításának támogatásával;
 
@@ -126,7 +106,7 @@ Miniszterelnökséget vezető miniszter
 
 Határidő: a felmerülés ütemében
 
-10.[^7] támogatja a gazdaságfejlesztést szolgáló útfejlesztés megvalósítását, amely keretében
+10.[^9] támogatja a gazdaságfejlesztést szolgáló útfejlesztés megvalósítását, amely keretében
 
 a) egyetért azzal, hogy a Ferenczy István utcát érintő útfejlesztés önkormányzati beruházásként valósuljon meg,
 
@@ -138,8 +118,10 @@ Határidő: 2019. szeptember 30.
 
 [^1]: Az 1. pont c) alpontját az 1422/2016. (VII. 29.) Korm. határozat 10. pontja visszavonta.
 [^2]: Az 1. pont d) alpontját az 1657/2017. (IX. 13.) Korm. határozat 1. pontja iktatta be.
-[^3]: Az 1495/2018. (X. 10.) Korm. határozat 2. pontja alapján az 5. pont a) alpontja szerinti határidő 2018. december 31.
-[^4]: Az 1495/2018. (X. 10.) Korm. határozat 2. pontja alapján az 5. pont b) alpontja szerinti határidő 2020. december 31.
-[^5]: A 8. pontot az 1414/2019. (VII. 10.) Korm. határozat 2. pontja visszavonta.
-[^6]: A 9. pontot az 1130/2019. (III. 14.) Korm. határozat iktatta be.
-[^7]: A 10. pontot az 1414/2019. (VII. 10.) Korm. határozat 1. pontja iktatta be.
+[^3]: A 2. pontot az 1474/2023. (XI. 2.) Korm. határozat 19. pont c) alpontja visszavonta.
+[^4]: Az 1495/2018. (X. 10.) Korm. határozat 2. pontja alapján az 5. pont a) alpontja szerinti határidő 2018. december 31.
+[^5]: Az 1495/2018. (X. 10.) Korm. határozat 2. pontja alapján az 5. pont b) alpontja szerinti határidő 2020. december 31.
+[^6]: A 6. pont c) alpontját az 1474/2023. (XI. 2.) Korm. határozat 19. pont c) alpontja visszavonta.
+[^7]: A 8. pontot az 1414/2019. (VII. 10.) Korm. határozat 2. pontja visszavonta.
+[^8]: A 9. pontot az 1130/2019. (III. 14.) Korm. határozat iktatta be.
+[^9]: A 10. pontot az 1414/2019. (VII. 10.) Korm. határozat 1. pontja iktatta be.
