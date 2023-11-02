@@ -32,19 +32,7 @@ nemzetgazdasági miniszter
 
 Határidő: 2015. december 31.
 
-5. támogatja és elősegíti a város mint megyeszékhely és a régió gazdasági versenyképességének növelése céljából a város lakókörnyezetének fejlesztését, valamint szakemberek részére szolgálati lakások kialakítását, ennek keretében felhívja a nemzetgazdasági minisztert és a belügyminisztert, hogy gondoskodjanak e célok megvalósítását szolgáló program
-
-a) előkészítéséhez 2015. évben szükséges 60 millió forint költségvetési forrás biztosításáról,
-
-b) megvalósítására irányuló beruházásokhoz szükséges költségvetési források rendelkezésre állásáról;
-
-Felelős: nemzetgazdasági miniszter
-
-belügyminiszter
-
-Határidő: az a) alpont tekintetében azonnal
-
-a b) alpont tekintetében a felmerülés ütemében a 2016–2017. év folyamán
+5.[^1]
 
 6. a város gazdaságának és a város infrastruktúrájának fejlesztését elősegítve
 
@@ -124,10 +112,11 @@ belügyminiszter
 
 Határidő: 2015. december 31.
 
-11.[^1] felhívja a nemzeti fejlesztési minisztert, hogy a város és térsége gazdasági fejlődésének elősegítése érdekében gondoskodjon a város ipari park területeinek bővítéséről, fejlesztéséről.
+11.[^2] felhívja a nemzeti fejlesztési minisztert, hogy a város és térsége gazdasági fejlődésének elősegítése érdekében gondoskodjon a város ipari park területeinek bővítéséről, fejlesztéséről.
 
 Felelős: nemzeti fejlesztési miniszter
 
 Határidő: 2017. december 31.
 
-[^1]: A 11. pontot az 1245/2017. (IV. 28.) Korm. határozat iktatta be.
+[^1]: Az 5. pontot az 1474/2023. (XI. 2.) Korm. határozat 8. pont d) alpontja visszavonta.
+[^2]: A 11. pontot az 1245/2017. (IV. 28.) Korm. határozat iktatta be.
