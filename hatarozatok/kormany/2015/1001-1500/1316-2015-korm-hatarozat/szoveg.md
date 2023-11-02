@@ -20,15 +20,7 @@ Miniszterelnökséget vezető miniszter, a Nemzeti Kutatási, Fejlesztési és I
 
 Határidő: 2015. július 31.
 
-3. a helyi gazdaságfejlesztést, valamint a barnamezős területek rehabilitációját támogatva
-
-a) egyetért azzal, hogy a városban és környezetében található felhagyott vagy hasznosítatlan ipari rendeltetésű területek, ingatlanok hasznosításra kerüljenek a helyi kis- és középvállalkozások fejlesztése céljából,
-
-b) felhívja a nemzetgazdasági minisztert, hogy intézkedjen az a) alpontban foglalt fejlesztési program uniós fejlesztési források bevonásával történő támogatásának biztosításáról;
-
-Felelős: nemzetgazdasági miniszter
-
-Határidő: azonnal
+3.[^1]
 
 4. Pécs déli új ipari parkjának bővítése és fejlesztése érdekében felhívja a nemzetgazdasági minisztert, hogy a külgazdasági és külügyminiszter bevonásával tegyen javaslatot a Kormány részére az új iparterület kialakítását, valamint új üzemcsarnokok építését szolgáló intézkedésekre;
 
@@ -38,13 +30,7 @@ külgazdasági és külügyminiszter
 
 Határidő: azonnal
 
-5. felhívja a nemzeti fejlesztési minisztert és az emberi erőforrások miniszterét, hogy készítsenek javaslatot a pécsi sportcélú beruházások koncepciójára, illetve a koncepció megvalósítását szolgáló intézkedésekre, amely koncepció a Nemzeti Kosárlabda Akadémia beruházás mellett magában foglalja egy új multifunkcionális sportcsarnok és uszoda építését, az uszodához kapcsolódó aquapark kialakításával;
-
-Felelős: nemzeti fejlesztési miniszter
-
-emberi erőforrások minisztere
-
-Határidő: 2015. július 31.
+5.[^2]
 
 6. munkacsoportot alakít a Zsolnay Kulturális Negyed, a Pannon Filharmonikusok és a Kodály Központ hatékonyabb üzemeltetését biztosító új működtetési, fenntartási modelljének kidolgozására, az érintett minisztériumok és Pécs Megyei Jogú Város Önkormányzata képviselőinek bevonásával.
 
@@ -53,3 +39,6 @@ Felelős: emberi erőforrások minisztere
 Miniszterelnökséget vezető miniszter
 
 Határidő: azonnal
+
+[^1]: A 3. pontot az 1474/2023. (XI. 2.) Korm. határozat 12. pont b) pontja visszavonta.
+[^2]: Az 5. pontot az 1474/2023. (XI. 2.) Korm. határozat 12. pont b) pontja visszavonta.
