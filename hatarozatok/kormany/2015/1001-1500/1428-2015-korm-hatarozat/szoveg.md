@@ -24,13 +24,7 @@ Felelős: nemzetgazdasági miniszter
 
 Határidő: azonnal, a fejlesztés megvalósítására 2017. május 31.
 
-b) felhívja nemzeti fejlesztési minisztert és nemzetgazdasági minisztert, hogy tegyenek javaslatot a Tiszaligetben medencés kikötő kialakítását szolgáló intézkedésekre,
-
-Felelős: nemzeti fejlesztési miniszter
-
-nemzetgazdasági miniszter
-
-Határidő: azonnal
+b)[^1]
 
 c) felhívja nemzetgazdasági minisztert és az emberi erőforrások miniszterét, hogy tegye meg a szükséges intézkedéseket – amennyiben szükséges, a Kormány részére előterjesztés benyújtásával – a szolnoki művésztelep fejlesztését szolgáló projekt támogatására;
 
@@ -40,11 +34,11 @@ emberi erőforrások minisztere
 
 Határidő: azonnal
 
-4.[^1] továbbra is támogatja a verseny- és szabadidősport feltételeit javító, a rekreációs lehetőségek bővítését és az érintett városrész környezetének rehabilitációját szolgáló sport- és rekreációs célú városi fejlesztések megvalósítását, ennek keretében
+4.[^2] továbbra is támogatja a verseny- és szabadidősport feltételeit javító, a rekreációs lehetőségek bővítését és az érintett városrész környezetének rehabilitációját szolgáló sport- és rekreációs célú városi fejlesztések megvalósítását, ennek keretében
 
-a)[^2] egyetért – a Szolnoki Atlétikai Centrum megvalósítását szolgáló támogatás mellett – a Véső úti Sporttelep és Strandfürdő fejlesztésével,
+a)[^3] egyetért – a Szolnoki Atlétikai Centrum megvalósítását szolgáló támogatás mellett – a Véső úti Sporttelep és Strandfürdő fejlesztésével,
 
-b)[^3] felhívja a nemzetgazdasági minisztert és a nemzeti fejlesztési minisztert, hogy gondoskodjanak az a szükséges támogatás biztosításához szükséges intézkedések megtételéről;
+b)[^4] felhívja a nemzetgazdasági minisztert és a nemzeti fejlesztési minisztert, hogy gondoskodjanak az a szükséges támogatás biztosításához szükséges intézkedések megtételéről;
 
 Felelős: nemzetgazdasági miniszter
 
@@ -62,21 +56,13 @@ külgazdasági és külügyminiszter
 
 Határidő: 2015. szeptember 30.
 
-6. munkacsoportot alakít komplex vízügyi igazgatási, illetve stratégiai feladatokat ellátó szerv Szolnokon történő elhelyezésének megvizsgálására az érintett minisztériumok és Szolnok Megyei Jogú Város Önkormányzata képviselőinek bevonásával.
+6.[^5]
 
-Felelős: belügyminiszter
+7.[^6] egyetért a fenntarthatóság és az energiahatékonyság szempontjainak erőteljesebb érvényesítése érdekében Szolnok komplex energetikai programjának fejlesztésével Okos Hálózat (SMART GRID) és Okos Mérés (SMART METERING) rendszer kialakítása útján.
 
-földművelésügyi miniszter
-
-emberi erőforrások minisztere
-
-Miniszterelnökséget vezető miniszter
-
-Határidő: azonnal
-
-7.[^4] egyetért a fenntarthatóság és az energiahatékonyság szempontjainak erőteljesebb érvényesítése érdekében Szolnok komplex energetikai programjának fejlesztésével Okos Hálózat (SMART GRID) és Okos Mérés (SMART METERING) rendszer kialakítása útján.
-
-[^1]: A 4. pont az 1734/2015. (X. 8.) Korm. határozat 14. pontja szerint módosított szöveg.
-[^2]: A 4. pont a) alpontja az 1333/2018. (VII. 23.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
-[^3]: A 4. pont b) alpontja az 1333/2018. (VII. 23.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
-[^4]: A 7. pontot az 1024/2023. (II. 9.) Korm. határozat 2. pontja iktatta be.
+[^1]: A 3. pont b) alpontját az 1474/2023. (XI. 2.) Korm. határozat 18. pont d) pontja visszavonta.
+[^2]: A 4. pont az 1734/2015. (X. 8.) Korm. határozat 14. pontja szerint módosított szöveg.
+[^3]: A 4. pont a) alpontja az 1333/2018. (VII. 23.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^4]: A 4. pont b) alpontja az 1333/2018. (VII. 23.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
+[^5]: A 6. pontot az 1474/2023. (XI. 2.) Korm. határozat 18. pont d) pontja visszavonta.
+[^6]: A 7. pontot az 1024/2023. (II. 9.) Korm. határozat 2. pontja iktatta be.
