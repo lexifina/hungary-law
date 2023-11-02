@@ -32,31 +32,9 @@ Határidő: a vizsgálatra: azonnal
 
 a javaslatok kidolgozására: 2016. szeptember 30.
 
-3. A Kormány az elektromobilitás hazai elterjesztésének és az ezzel összefüggő helyi innovatív kezdeményezések támogatása keretében
+3.[^1]
 
-a) munkacsoportot alakít a Dunaújvárosi Egyetem e-kutatóközpontja által kidolgozott e-mobilitásról szóló szakmai koncepció megvalósításának, valamint ezzel összefüggésben a helyi kutatási és képzési kapacitások fejlesztésének vizsgálatára az érintett miniszterek, a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal elnöke, az Önkormányzat és a Dunaújvárosi Egyetem bevonásával;
-
-Felelős: nemzetgazdasági miniszter
-
-Miniszterelnökséget vezető miniszter, a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal elnöke útján
-
-emberi erőforrások minisztere
-
-nemzeti fejlesztési miniszter
-
-Határidő: azonnal
-
-b) felhívja a nemzeti fejlesztési minisztert, hogy az Önkormányzattal együttműködve tegyen javaslatot az a) alpont szerinti szakmai koncepcióval összhangban tervezett, e-mobilitásra épülő, új modern buszpályaudvar megvalósítására és az ezzel összefüggő közlekedési csomópont kialakítására irányuló városfejlesztési projektek támogatására, az európai uniós fejlesztési források bevonásának lehetőségére és a megvalósítás modelljére is kiterjedően.
-
-Felelős: nemzeti fejlesztési miniszter
-
-Határidő: 2016. szeptember 30.
-
-4. A Kormány egyért a városi autóbusz-állomány cseréjének szükségességével, amely érdekében felhívja a nemzetgazdasági minisztert, hogy vizsgálja meg az autóbusz-állomány környezetbarát, korszerű elektromos hajtású buszokkal történő lecserélésének lehetőségeit, továbbá a vizsgálat alapján – a nemzeti autóbuszgyártás cselekvési programjával összhangban – tegyen javaslatot az autóbusz-állomány cseréjéhez és elektromos hajtású buszok beszerzéséhez szükséges intézkedésekre.
-
-Felelős: nemzetgazdasági miniszter
-
-Határidő: a nemzeti autóbuszgyártás cselekvési programjának végrehajtásához igazodva
+4.[^2]
 
 5. A Kormány támogatja a városi víziközmű-hálózat fejlesztését, amely érdekében felhívja a nemzeti fejlesztési minisztert és a belügyminisztert, hogy – az Önkormányzattal együttműködve – a Környezeti és Energiahatékonysági Operatív Program keretében rendelkezésre álló fejlesztési források bevonásának lehetőségére kiterjedően tegyenek javaslatot a fejlesztések ütemezett megvalósításának támogatására.
 
@@ -76,13 +54,7 @@ emberi erőforrások minisztere
 
 Határidő: 2016. szeptember 30.
 
-b) felhívja a földművelésügyi minisztert és a nemzeti fejlesztési minisztert, hogy az Önkormányzattal együttműködve tegyenek javaslatot – európai uniós fejlesztési források bevonásának lehetőségére is kiterjedve – a Baracsi úti Arborétum további fejlesztésére és az ahhoz kapcsolódó látogatóközpont kialakítására irányuló tervek megvalósításának támogatására;
-
-Felelős: földművelésügyi miniszter
-
-nemzeti fejlesztési miniszter
-
-Határidő: 2016. augusztus 31.
+b)[^3]
 
 c) felhívja a nemzeti fejlesztési minisztert és az emberi erőforrások miniszterét, hogy az Önkormányzattal együttműködve tegyenek javaslatot a radari sporttelep fejlesztési programjának támogatására;
 
@@ -92,29 +64,9 @@ emberi erőforrások minisztere
 
 Határidő: 2016. augusztus 31.
 
-d) felhívja a nemzeti fejlesztési minisztert és a turizmussal kapcsolatos állami feladatok koordinálásáért felelős kormánybiztost, hogy az Önkormányzattal együttműködve tegyenek javaslatot – európai uniós fejlesztési források bevonásának lehetőségére is kiterjedve – a Szalki-sziget rekreációs célú fejlesztésére irányuló projekt megvalósításának támogatására;
+d)[^4]
 
-Felelős: nemzeti fejlesztési miniszter
-
-a turizmussal kapcsolatos állami feladatok koordinálásáért felelős kormánybiztos
-
-Határidő: 2016. szeptember 30.
-
-e)[^1] a városi múzeum- és szállodafejlesztés céljából
-
-ea) felhívja a miniszterelnök kabinetfőnökét és az emberi erőforrások miniszterét, hogy az Önkormányzattal és a Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársasággal együttműködve vizsgálják meg a g) alpontban foglalt beruházás területén egy szálloda- vagy egyéb, sport- vagy turisztikai célú szálláshely megvalósításának lehetőségét;
-
-Felelős: a miniszterelnök kabinetfőnöke
-
-emberi erőforrások minisztere
-
-Határidő: azonnal
-
-eb) felhívja az emberi erőforrások miniszterét, hogy az Intercisa Múzeum európai uniós forrásból megvalósuló fejlesztése során működjön együtt az Önkormányzattal, az új kiállítások, továbbá az azokhoz kapcsolódó komplex múzeumpedagógiai programcsomagok koncepciójának kidolgozása érdekében;
-
-Felelős: emberi erőforrások minisztere
-
-Határidő: folyamatosan
+e)[^5]
 
 f) felhívja a nemzeti fejlesztési minisztert, hogy a Miniszterelnökséget vezető miniszter bevonásával vizsgálja meg az egykori II. számú rendelőintézet épületének hasznosítására vonatkozó önkormányzati terveket és a vizsgálat eredményéről, a hasznosítás, illetve uniós fejlesztési források bevonásának lehetőségéről tájékoztassa a Kormányt;
 
@@ -124,13 +76,7 @@ Miniszterelnökséget vezető miniszter
 
 Határidő: 2016. szeptember 30.
 
-g) felhívja a nemzeti fejlesztési minisztert és az emberi erőforrások miniszterét, hogy az Önkormányzattal együttműködve dolgozzák ki az új városi fürdő- és vízisport centrum megvalósításának ingatlan-fejlesztési és beruházási koncepcióját, amely keretében kialakításra kerülhet egy új, korszerű sport- és szabadidős létesítmény a használaton kívüli élményfürdő létesítményei bevonásával és korszerűsítésével, a Fabó Éva Sportuszoda felújításával, a két létesítmény összeköttetésével, valamint a létesítmények környezete megújításával sport- és szabadidős célú funkciókkal.
-
-Felelős: nemzeti fejlesztési miniszter
-
-emberi erőforrások minisztere
-
-Határidő: 2016. október 31.
+g)[^6]
 
 7. A Kormány
 
@@ -146,7 +92,12 @@ Felelős: az 1–6. pontban felelősként megjelölt miniszterek
 
 Határidő: azonnal
 
-8.[^2]
+8.[^7]
 
-[^1]: A 6. pont e) alpontja az 1805/2018. (XII. 21.) Korm. határozat 1. pontjával megállapított szöveg.
-[^2]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 3. pontot az 1474/2023. (XI. 2.) Korm. határozat 3. pont b) alpontja visszavonta.
+[^2]: A 4. pontot az 1474/2023. (XI. 2.) Korm. határozat 3. pont b) alpontja visszavonta.
+[^3]: A 6. pont b) alpontját az 1474/2023. (XI. 2.) Korm. határozat 3. pont b) alpontja visszavonta.
+[^4]: A 6. pont d) alpontját az 1474/2023. (XI. 2.) Korm. határozat 3. pont b) alpontja visszavonta.
+[^5]: A 6. pont e) alpontját az 1474/2023. (XI. 2.) Korm. határozat 3. pont b) alpontja visszavonta.
+[^6]: A 6. pont g) alpontját az 1474/2023. (XI. 2.) Korm. határozat 3. pont b) alpontja visszavonta.
+[^7]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
