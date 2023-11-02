@@ -8,19 +8,9 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: a projekt tervezésére: 2018. december 31. a projekt kivitelezésére: 2021. december 31.
 
-b) felhívja a nemzeti fejlesztési minisztert, hogy – részben az Integrált Közlekedésfejlesztési Operatív Program keretében rendelkezésre álló forrás, részben hazai forrás bevonásával – gondoskodjon a „Szeged–Makó elővárosi közlekedés fejlesztése, vegyesforgalmú Tisza-híd építésével” megnevezésű, az új Tisza-hídhoz kapcsolódó, vasúti és buszközlekedést kiszolgáló forgalmi csomópontot és P+R parkolót is magában foglaló beruházás előkészítéséről és megvalósításáról;
+b)[^1]
 
-Felelős: nemzeti fejlesztési miniszter
-
-Határidő: a projekt előkészítésére: 2019. március 31.
-
-a projekt megvalósítására: 2022. augusztus 31.
-
-c) felhívja a nemzeti fejlesztési minisztert, hogy vizsgálja meg a városi repülőtér további működéséhez szükséges fejlesztési lehetőségeket, és tegyen javaslatot a fejlesztések támogatása érdekében szükséges intézkedésekre a Kormány számára.
-
-Felelős: nemzeti fejlesztési miniszter
-
-Határidő: 2017. augusztus 31.
+c)[^2]
 
 2. A Kormány a város és térsége gazdasági fejlődésének elősegítése keretében
 
@@ -34,11 +24,7 @@ földművelésügyi miniszter
 
 Határidő: 2017. augusztus 31.
 
-b) felhívja a nemzeti fejlesztési minisztert, hogy gondoskodjon a város ipari parki területeinek bővítéséről.
-
-Felelős: nemzeti fejlesztési miniszter
-
-Határidő: 2018. augusztus 31.
+b)[^3]
 
 3. A Kormány egyetért a szegedi innovációs projektek további támogatásával, melynek keretében
 
@@ -54,41 +40,17 @@ Miniszterelnökséget vezető miniszter a Nemzeti Kutatási, Fejlesztési és In
 
 Határidő: 2017. augusztus 31.
 
-b) felhívja a Miniszterelnökséget vezető minisztert, hogy az Önkormányzat bevonásával – az „okos város” szolgáltatások összehangolt bevezetését és működését támogató szervezeti és tudásplatform létrehozásáról és működtetésétől, valamint a teljes rendszer működésének monitoringjáról szóló 1024/2017. (I. 24.) Korm. határozattal összhangban – dolgozza ki a szegedi Okos Város Program fejlesztési koncepcióját, és tegyen javaslatot a koncepció megvalósítására.
-
-Felelős: Miniszterelnökséget vezető miniszter
-
-Határidő: 2017. augusztus 31.
+b)[^4]
 
 4. A Kormány támogatja Szeged városrehabilitációs célú fejlesztéseit és a Tisza által nyújtott lehetőségek hatékonyabb kihasználását, ezzel összhangban
 
-a) támogatja a Belvárosi híd rekonstrukcióját, melynek érdekében felhívja a nemzeti fejlesztési minisztert, hogy tegye meg a szükséges intézkedéseket a Belvárosi híd rekonstrukciója érdekében;
+a)[^5]
 
-Felelős: nemzeti fejlesztési miniszter
+b)[^6]
 
-Határidő: 2019. augusztus 31.
+c)[^7]
 
-b) felhívja a Miniszterelnökséget vezető minisztert és a belügyminisztert, hogy tegyék meg a szükséges intézkedéseket a Tisza Szeged Főutcája projekt – lehetőség szerinti uniós fejlesztési források bevonásával történő – megvalósítása érdekében;
-
-Felelős: Miniszterelnökséget vezető miniszter
-
-belügyminiszter
-
-Határidő: 2019. augusztus 31.
-
-c) felhívja a Miniszterelnökséget vezető minisztert, hogy tegye meg a szükséges intézkedéseket a Széchenyi tér második világháború előtti arculatának helyreállítása érdekében;
-
-Felelős: Miniszterelnökséget vezető miniszter
-
-Határidő: 2019. augusztus 31.
-
-d) felhívja a nemzeti fejlesztési minisztert és a nemzetgazdasági minisztert, hogy tegyék meg a szükséges intézkedéseket a Mars tér rehabilitációja érdekében a távolságiautóbusz-közlekedés áthelyezését követően;
-
-Felelős: nemzeti fejlesztési miniszter
-
-nemzetgazdasági miniszter
-
-Határidő: 2019. augusztus 31.
+d)[^8]
 
 e) felhívja a nemzeti fejlesztési minisztert, hogy vizsgálja meg egy kerékpáros- és gyalogoshíd megépítésének lehetőségeit, és a vizsgálat eredményéről tájékoztassa a Kormányt.
 
@@ -96,21 +58,11 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: a Kormány tájékoztatására: 2017. augusztus 31.
 
-5. A Kormány támogatja Szeged helyi közlekedésének fejlesztését, amelynek keretében felhívja a nemzeti fejlesztési minisztert, a postaügyért és a nemzeti pénzügyi szolgáltatásokért felelős kormánybiztost és a nemzetgazdasági minisztert, hogy az Önkormányzat részvételével alakítsanak munkacsoportot, melynek keretében Szeged tömegközlekedésének elektromos alapra helyezésének lehetőségét vizsgálják meg, és tegyenek javaslatot a Kormány számára.
-
-Felelős: nemzeti fejlesztési miniszter
-
-postaügyért és a nemzeti pénzügyi szolgáltatásokért felelős kormánybiztos
-
-nemzetgazdasági miniszter
-
-Határidő: a munkacsoport megalakítására: azonnal
-
-a javaslattételre: 2017. augusztus 31.
+5.[^9]
 
 6. A Kormány a város sportéletének élénkítése, a helyi és térségi társadalmi igények kielégítése céljából támogatja Szegeden sportcélú beruházások megvalósítását, ennek keretében
 
-a)[^1] felhívja a nemzeti fejlesztési minisztert és az emberi erőforrások miniszterét, hogy gondoskodjanak a város által tervezett új fedett versenyuszoda megvalósításához szükséges intézkedések megtételéről;
+a)[^10] felhívja a nemzeti fejlesztési minisztert és az emberi erőforrások miniszterét, hogy gondoskodjanak a város által tervezett új fedett versenyuszoda megvalósításához szükséges intézkedések megtételéről;
 
 Felelős: nemzeti fejlesztési miniszter
 
@@ -130,28 +82,19 @@ Határidő: az előkészítésre: azonnal
 
 a megvalósításra: 2019. augusztus 31.
 
-c) felhívja a nemzeti fejlesztési minisztert és az emberi erőforrások miniszterét, hogy az Önkormányzat részvételével alakítsanak munkacsoportot, melynek keretében dolgozzák ki az atlétikai központ megvalósításának koncepcióját, és arról tájékoztassák a Kormányt.
+c)[^11]
 
-Felelős: nemzeti fejlesztési miniszter
+7.[^12]
 
-emberi erőforrások minisztere
-
-Határidő: a munkacsoport megalakítására: azonnal
-
-a javaslattételre: 2017. augusztus 31.
-
-7. A Kormány
-
-a) felhívja a Miniszterelnökséget vezető minisztert, hogy – a kormányzati tevékenység összehangolásáért való feladat- és hatáskörében – gondoskodjon a Megállapodásban, illetve a jelen kormányhatározatban meghatározott feladatok végrehajtásának koordinálásáról;
-
-Felelős: Miniszterelnökséget vezető miniszter
-
-Határidő: folyamatos
-
-b) felhívja az 1–6. pontban felelősként megjelölt minisztereket, hogy – szükség szerint az Önkormányzattal egyeztetve – határozzák meg a Megállapodásban foglaltak ütemezett megvalósításához szükséges 2017. és 2018. évi indikatív forrásigényeket, és tájékoztassák ezen forrásigényekről a Miniszterelnökséget vezető minisztert.
-
-Felelős: az 1–6. pontban felelősként megjelölt miniszterek
-
-Határidő: azonnal
-
-[^1]: A 6. pont a) alpontja az 1281/2018. (VI. 20.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^1]: Az 1. pont b) alpontját az 1474/2023. (XI. 2.) Korm. határozat 15. pont d) alpontja visszavonta.
+[^2]: Az 1. pont c) alpontját az 1474/2023. (XI. 2.) Korm. határozat 15. pont d) alpontja visszavonta.
+[^3]: A 2. pont b) alpontját az 1474/2023. (XI. 2.) Korm. határozat 15. pont d) alpontja visszavonta.
+[^4]: A 3. pont b) alpontját az 1474/2023. (XI. 2.) Korm. határozat 15. pont d) alpontja visszavonta.
+[^5]: A 4. pont a) alpontját az 1474/2023. (XI. 2.) Korm. határozat 15. pont d) alpontja visszavonta.
+[^6]: A 4. pont b) alpontját az 1474/2023. (XI. 2.) Korm. határozat 15. pont d) alpontja visszavonta.
+[^7]: A 4. pont c) alpontját az 1474/2023. (XI. 2.) Korm. határozat 15. pont d) alpontja visszavonta.
+[^8]: A 4. pont d) alpontját az 1474/2023. (XI. 2.) Korm. határozat 15. pont d) alpontja visszavonta.
+[^9]: Az 5. pontot az 1474/2023. (XI. 2.) Korm. határozat 15. pont d) alpontja visszavonta.
+[^10]: A 6. pont a) alpontja az 1281/2018. (VI. 20.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^11]: A 6. pont c) alpontját az 1474/2023. (XI. 2.) Korm. határozat 15. pont d) alpontja visszavonta.
+[^12]: A 7. pontot az 1474/2023. (XI. 2.) Korm. határozat 15. pont d) alpontja visszavonta.
