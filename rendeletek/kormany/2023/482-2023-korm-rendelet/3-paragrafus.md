@@ -1,1 +1,3 @@
-3. § Az R. 3. § (3) bekezdésében a „103. és 117. sora” szövegrész helyébe a „103., 117. és 120. sora” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

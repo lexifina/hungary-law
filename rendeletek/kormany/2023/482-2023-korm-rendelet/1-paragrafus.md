@@ -1,5 +1,3 @@
-1. § Az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet (a továbbiakban: R.) 4. §-a a következő (7) és (8) bekezdéssel egészül ki:
+1. §[^2]
 
-„(7) A 2. mellékletbenfoglalt táblázat 120. sora szerinti beruházás esetében az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekre vonatkozó ügyintézési határidő – a környezetvédelmi, a természetvédelmi, a vízügyi és vízvédelmi, valamint a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény szerinti veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások kivételével – tizenöt nap.
-
-(8) A 2. mellékletbenfoglalt táblázat 120. sora szerinti beruházás esetében az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekben a szakhatósági eljárásra vonatkozó ügyintézési határidő – a környezetvédelmi, a természetvédelmi, a vízügyi és vízvédelmi, valamint az iparbiztonsági szakhatósági eljárások kivételével – nyolc nap.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
