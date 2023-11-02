@@ -1,3 +1,3 @@
-5. § A kézilőfegyverek, lőszerek, gáz- és riasztófegyverek megszerzésének és tartásának egészségi alkalmassági feltételeiről és vizsgálatáról szóló 22/1991. (XI. 15.) NM rendelet 6. §-a a következő (2a) bekezdéssel egészül ki:
+5. §[^6]
 
-„(2a) Az Ftv. 4/J. § (2) bekezdésében meghatározott személy esetében a lőfegyvertartási engedély hatályossági idején belül elvégzett időszakos, illetve soron kívüli egészségi alkalmassági vizsgálat alapján megállapított „alkalmas” vagy „alkalmatlan”, továbbá a „versenyezhet” vagy „nem versenyezhet” minősítés tényéről az orvosi alkalmasságot vizsgáló szerv a rendőrségnek az Ftv. 4/J. § (1) bekezdése szerinti kérelem elbírálására jogosult szervét haladéktalanul tájékoztatja.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

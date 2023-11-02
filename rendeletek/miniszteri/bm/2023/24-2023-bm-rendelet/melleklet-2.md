@@ -1,7 +1,3 @@
-## „2. számú melléklet a 22/1991. (XI. 15.) NM rendelethez
+2. melléklet a 24/2023. (VI. 30.) BM rendelethez[^67]
 
-## 3X04922.pdf
-
-## ”
-
-2. melléklet a 24/2023. (VI. 30.) BM rendelethez
+[^67]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
