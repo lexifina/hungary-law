@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1840-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2017-11-10 | 2017-1840-30-22.1 | 1840/2017. (XI. 10.) Korm. határozat |
+| 2023-11-02 | 2017-1840-30-22.2 | 1474/2023. (XI. 2.) Korm. határozat |
