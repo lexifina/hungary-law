@@ -1,3 +1,3 @@
-4. §[^4]
+4. § A 39/2019. (VIII. 23.) AM rendelet 4. §-a a következő e) ponttal egészül ki:
 
-[^4]: A 4. § a 11. § (2) bekezdés alapján 2023. november 2-án lép hatályba.
+[A támogatás igénybevételére jogosult az a természetes vagy jogi személy (a továbbiakban: kérelmező), aki vagy amely]
