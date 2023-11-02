@@ -1,3 +1,3 @@
-1. § Az adatváltozás-kezelési szolgáltatás részletszabályairól szóló 672/2021. (XII. 2.) Korm. rendelet (a továbbiakban: R.) 3. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-(Az üzemeltető feladatai:)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
