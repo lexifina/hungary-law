@@ -1,0 +1,65 @@
+# A Kormány 493/2023. (XI. 2.) Korm. rendelete
+
+Magyar Közlöny 2023. évi 155. szám, 2023. november 2. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/5sdL8ZxYc9frpGLVJkjx653981ecf1d2a/dokumentumok/079d8c1560680507a0a312db897a5457367a0463/letoltes)
+
+---
+
+A Kormány 493/2023. (XI. 2.) Korm. rendelete
+a Borsod-Abaúj-Zemplén Vármegye, Hajdú-Bihar Vármegye, Jász-Nagykun-Szolnok Vármegye,
+Szabolcs-Szatmár-Bereg Vármegye, illetve Zala Vármegye területén 2023. november 3. napja és
+2023. november 19. napja között megrendezésre kerülő„Adaptive Hussars 23”gyakorlatra vonatkozó
+eltérő szabályokról
+A Kormány az Alaptörvény 53. cikk (1) bekezdésében meghatározott eredeti jogalkotói hatáskörében, figyelemmel a védelmi
+és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 80. és 81. §-ára, az Alaptörvény 15. cikk
+(1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A Borsod-Abaúj-Zemplén Vármegye, Hajdú-Bihar Vármegye, Jász-Nagykun-Szolnok Vármegye, Szabolcs-
+Szatmár-Bereg Vármegye, illetve Zala Vármegye területén 2023. november 3. napja és 2023. november 19. napja
+között megrendezésre kerülő „Adaptive Hussars 23” elnevezésű gyakorlat (a továbbiakban: gyakorlat) a Magyar
+Honvédség veszélyhelyzeti működési rendjéről szóló 240/2023. (VI. 20.) Korm. rendelet [a továbbiakban:
+240/2023. (VI. 20.) Korm. rendelet] alkalmazása tekintetében a 240/2023. (VI. 20.) Korm. rendelet 5. § (2) bekezdés
+e) pontja szerint nemzetközi gyakorlat.
+2. § (1) A gyakorlat végrehajtásához szükséges ingatlanok és az azokkal összefüggésben biztosítandó szolgáltatások
+vonatkozásában az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) szerinti
+sommás eljárás szabályai alkalmazhatóak a gazdasági és anyagi szolgáltatásra kijelölés tekintetében, abban
+az esetben is, ha van ellenérdekű ügyfél.
+(2) A gyakorlattal kapcsolatos közigazgatási hatósági eljárás esetén az ügyet a közbiztonság, a közrend, illetve
+a nemzetbiztonság érdekében – az Ákr. 50. § (8) bekezdés d) pontja alapján – soron kívül kell elintézni.
+(3) Az Ákr. 58. § (2) bekezdésétől eltérően, ha az eljárás során személyes meghallgatás szükséges, az idézést
+a meghallgatást megelőző öt napon belül, rövid úton is közölni lehet az érintettel.
+(4) Az Ákr. 86. § (1) bekezdésétől eltérően, a nem elektronikusan közölt irat esetén
+a) a„nem kereste”jelzéssel visszaérkezett iratot a kézbesítés második megkísérlésének napját vagy
+b) az„ismeretlen”vagy„elköltözött”jelzéssel visszaérkezett iratot a kézbesítés megkísérlésének napját
+követő második munkanapon kézbesítettnek kell tekinteni.
+3. § (1) A védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény (a továbbiakban: Vbö.)
+35. alcímét a gyakorlat során az alábbi eltérésekkel kell alkalmazni:
+a) fegyver és éles lőszer, valamint robbanószer, elektronikus hadviselésre rendszeresített eszköz használatával
+járó feladatok a honvédelemért felelős miniszter külön engedélyével a lőtereken és gyakorlótereken kívül is,
+a biztonsági követelmények biztosítása mellett megvalósíthatók a Vbö. 73. § (6) bekezdés b) pontja szerinti
+feltételekkel;
+b) a Borsod-Abaúj-Zemplén, Hajdú-Bihar, Jász-Nagykun-Szolnok, Szabolcs-Szatmár-Bereg és Zala Vármegye
+területi védelmi bizottságának elnöke (a továbbiakban együtt: védelmi bizottság elnöke) a gyakorlattal
+összefüggő feladatok biztosítása érdekében legfeljebb 48 óra időtartamra folyamatos munkarendet
+rendelhetnek el az irányításuk alá tartozó területi védelmi bizottság tevékenységének biztosítása érdekében;
+c) a védelmi bizottság elnöke a gyakorlattal összefüggő feladatok biztosítása érdekében legfeljebb 48 óra
+időtartamra bevezetheti a Vbö. 73. § (6) bekezdés d) pontja szerinti intézkedést;
+d) a gyakorlattal érintett közterületek és közlekedési útvonalak forgalma – a honvédelmi érdek
+elsődlegességének biztosítása érdekében – legfeljebb 8 óra időtartamra korlátozható a Vbö. 73. §
+(6) bekezdés f) pontja szerinti intézkedés keretében.
+(2) A Vbö. 14. § (5) bekezdés e) pontjától eltérően a korábban gazdasági és anyagi szolgáltatásra ki nem jelölt ingatlan
+vagy szolgáltatás is a gyakorlat időtartamára a gazdasági és anyagi szolgáltatási kötelezettség hatálya alá vonható
+azonnal, továbbá a gyakorlat céljára ideiglenesen igénybe vehető.
+(3) A gyakorlat céljából kijelölt ingatlan vagy szolgáltatás igénybevételére akkor kerülhet sor, ha a Vbö. 24. §
+(2) bekezdés b) pontja alapján a szerződéskötésre kötelezés előírásának feltételei a gyakorlat időtartamára
+fennállnak.
+(4) A gyakorlat céljára történő kijelölés és igénybevétel esetén annak időtartama nem terjedhet túl az 1. § szerinti
+időtartamon, a határozatot 2023. november 19-én vissza kell vonni.
+
+4. §
+Az e rendelet eltérő szabályainak alkalmazásán alapuló intézkedéseken túlmenően az állampolgárok alapvető jogai
+– a 240/2023. (VI. 20.) Korm. rendelet hatálya alá tartozók, illetve a közigazgatási tevékenységet ellátók kivételével –
+a Vbö. 7. § (2) bekezdése alapján nem korlátozhatók.
+5. § (1) Ez a rendelet a kihirdetését követő napon lép hatályba.
+(2) Ez a rendelet 2023. december 1-jén hatályát veszti.
+ Orbán Viktor s. k.,
+ miniszterelnök
