@@ -56,7 +56,7 @@
 
 28. azokat az egyes személyes szabadságot korlátozó intézkedésekkel vagy semmissé nyilvánított elítéléssel összefüggésben járó emeléseket és juttatásokat, amelyeknek a Tny. 62. §-ában foglaltak szerinti emelését kormányrendelet elrendeli,
 
-## amely után a jogosultnak a nyugellátások és egyes más ellátások 2023. január havi emeléséről szóló 506/2022. (XII. 13.) Korm. rendelet 1. §-a alapján emelés (a továbbiakban: januári emelés) járt.
+amely után a jogosultnak a nyugellátások és egyes más ellátások 2023. január havi emeléséről szóló 506/2022. (XII. 13.) Korm. rendelet 1. §-a alapján emelés (a továbbiakban: januári emelés) járt.
 
 (2) Ha az (1) bekezdés szerinti saját jogú ellátást 2023. évi időponttól, a januári emelésre jogosító ellátás helyett, újraszámítás nélkül folyósítják tovább, vagy a januári emelésre jogosító ellátás megszűnését követő naptól, újraszámítás nélkül állapítják meg – ideértve a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény 9. § b) pontja szerinti esetet is –, az (1) bekezdés szerint megemelt összeget kell tovább folyósítani, illetve megállapítani.
 
@@ -70,7 +70,7 @@ c) baleseti járadéknak vagy
 
 d) bányászok egészségkárosodási járadékának
 
-## a megszűnését követő naptól állapítják meg, a megállapított ellátást az (1) bekezdés szerinti mértékkel meg kell emelni.
+a megszűnését követő naptól állapítják meg, a megállapított ellátást az (1) bekezdés szerinti mértékkel meg kell emelni.
 
 (4) Az ellátások (2), illetve (3) bekezdés szerinti emelésére való jogosultság akkor is fennáll, ha az ellátásokban több, a (2), illetve (3) bekezdés szerinti változás következett be.
 

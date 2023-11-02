@@ -1,3 +1,3 @@
-5. § A rokkantsági járadékról szóló 83/1987. (XII. 27.) MT rendelet 7. §-a helyébe a következő rendelkezés lép:
+5. §[^2]
 
-„7. § A 2023. november 1-jét megelőző kezdő időponttól megállapított rokkantsági járadékot a nyugellátások és egyes más ellátások 2023. november havi kiegészítő emeléséről szóló 463/2023. (X. 6.) Korm. rendelettel megállapított 2. § (3) bekezdésének alapulvételével – 2023. november 1-jétől, hivatalból, 2023. január 1-jére visszamenőleges hatállyal, illetve a 2023. január 1-je és 2023. október 31-e közötti kezdő időponttól megállapított rokkantsági járadék esetén a járadék kezdő időpontjára visszamenőleges hatállyal – meg kell emelni.”
+[^2]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

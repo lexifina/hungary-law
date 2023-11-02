@@ -1,1 +1,3 @@
-6. § A rokkantsági járadékról szóló 83/1987. (XII. 27.) MT rendelet 2. § (3) bekezdésében az „53 830” szövegrész helyébe az „55 500” szöveg lép.
+6. §[^3]
+
+[^3]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
