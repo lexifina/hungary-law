@@ -1,0 +1,1 @@
+2. § Az e rendelet alapján megszűnt jogviszonyok tekintetében nem minősül a költségvetési támogatás jogosulatlan igénybevételének, támogatási céltól eltérő felhasználásának, ha valamely meg nem valósult projektelemre biztosított összeget a kedvezményezett az ugyanazon támogatási jogviszonyon belüli projektelemnek a támogatási jogviszony szerinti megvalósítására használt fel.
