@@ -1,5 +1,5 @@
-## 7.[^39]
+## 7.[^38]
 
 34. §
 
-[^39]: A 7. alcím a 49. § (3) bekezdés alapján 2023. november 19-én lép hatályba.
+[^38]: A 7. alcím a 49. § (3) bekezdés alapján 2023. november 19-én lép hatályba.

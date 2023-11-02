@@ -1,5 +1,5 @@
-## 2.[^11]
+## 2.[^10]
 
 10. §
 
-[^11]: A 2. alcím a 49. § (3) bekezdés alapján 2023. november 19-én lép hatályba.
+[^10]: A 2. alcím a 49. § (3) bekezdés alapján 2023. november 19-én lép hatályba.
