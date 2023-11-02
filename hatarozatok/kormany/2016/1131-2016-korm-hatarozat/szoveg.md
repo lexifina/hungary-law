@@ -70,21 +70,7 @@ Felelős: innovációért és technológiáért felelős miniszter
 
 Határidő: azonnal
 
-3. A Kormány
-
-a) támogatja azon tervet, amely a Pallasz Athéné Egyetemmel együttműködve, annak tudásbázisára és diákjaira alapozva Kecskeméten egyetemi ipari kutatóközpont kialakítására irányul;
-
-b) munkacsoportot alakít az a) alpont szerinti fejlesztési terv vizsgálatára és a Kormány részére történő javaslat kidolgozására az érintett miniszterek, a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal elnöke, az érintett felsőoktatási intézmények és Kecskemét Megyei Jogú Város Önkormányzata bevonásával.
-
-Felelős: Miniszterelnökséget vezető miniszter a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal elnöke útján
-
-emberi erőforrások minisztere
-
-nemzetgazdasági miniszter
-
-nemzeti fejlesztési miniszter
-
-Határidő: azonnal
+3.[^4]
 
 4. A Kormány támogatja a város kulturális és turisztikai vonzerejét növelő, értékmegőrző fejlesztéseket, ennek keretében
 
@@ -94,7 +80,7 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: 2017. szeptember 1.
 
-b)[^4] a kecskeméti Városháza teljes körű, az épület 120 éves évfordulójáig megvalósítandó felújítását, amely érdekében
+b)[^5] a kecskeméti Városháza teljes körű, az épület 120 éves évfordulójáig megvalósítandó felújítását, amely érdekében
 
 ba) felhívja a Miniszterelnökséget vezető minisztert és a nemzetgazdasági minisztert, hogy a külső felújítás 2017. november 15-i, a belső felújítás 2018. augusztus 31-i befejezési határidejéhez igazodóan gondoskodjanak a felújításhoz szükséges források ütemezett biztosításáról;
 
@@ -141,4 +127,5 @@ Határidő: 2016. március 31.
 [^1]: A 2. pont b) pont bb) alpontját az 1422/2016. (VII. 29.) Korm. határozat 8. pontja visszavonta.
 [^2]: A 2. pont b) alpont bc) pontját az 1657/2017. (IX. 13.) Korm. határozat 2. pontja iktatta be.
 [^3]: A 2. pont e) alpontját az 1892/2017. (XI. 30.) Korm. határozat 3. pontja iktatta be, szövege az 1580/2019. (X. 15.) Korm. határozat 1. pontjával megállapított szöveg.
-[^4]: A 4. pont b) alpontja az 1202/2017. (IV. 10.) Korm. határozat 6. pontjával megállapított szöveg.
+[^4]: A 3. pontot az 1474/2023. (XI. 2.) Korm. határozat 9. pont f) alpontja visszavonta.
+[^5]: A 4. pont b) alpontja az 1202/2017. (IV. 10.) Korm. határozat 6. pontjával megállapított szöveg.
