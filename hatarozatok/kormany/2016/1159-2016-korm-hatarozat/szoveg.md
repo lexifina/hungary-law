@@ -1,12 +1,6 @@
 A Kormány a Modern Városok Program keretében 2016. február 23. napján együttműködési megállapodást (a továbbiakban: Megállapodás) kötött Szekszárd Megyei Jogú Város Önkormányzatával a város további fejlődése és megújulása érdekében. A Kormány a Megállapodásban foglaltak eredményes kormányzati végrehajtását, valamint a végrehajtás Miniszterelnökséget vezető miniszter útján történő koordinációját biztosítva a következőkről határoz:
 
-1. A Kormány a városi intézmények, a lakosok, és a helyi vállalkozások olcsóbb energiaellátását elősegítve felhívja a Miniszterelnökséget vezető minisztert és a nemzeti fejlesztési minisztert, hogy vizsgálják meg a Paksi Atomerőmű és Szekszárd között távhővezeték megépítésének feltételrendszerét, amely biztosíthatja Szekszárd távhővel való gazdaságosabb ellátását, és a vizsgálat alapján tegyenek javaslatot a Kormány részére a további intézkedésekre.
-
-Felelős: Miniszterelnökséget vezető miniszter
-
-nemzeti fejlesztési miniszter
-
-Határidő: 2016. június 30.
+1.[^1]
 
 2. A térség gazdasági versenyképességének erősítését támogatva a Kormány egyetért a város ipari parkjának bővítésével, amely keretében felhívja a nemzeti fejlesztési minisztert, a nemzetgazdasági minisztert és a földművelésügyi minisztert, hogy tegyék meg, illetve kezdeményezzék a Kormánynál a szükséges intézkedéseket a Szekszárdi Ipari Park bővítése érdekében.
 
@@ -46,33 +40,9 @@ Miniszterelnökséget vezető miniszter
 
 Határidő: azonnal
 
-6. A Kormány támogatja a szekszárdi borvidék értékeire épülő turizmus fellendítését, a város idegenforgalmi vonzerejének növelését szolgáló fejlesztéseket, amely keretében felhívja a nemzetgazdasági minisztert, hogy Szekszárd Megyei Jogú Város Önkormányzatával együttműködve vizsgálja meg a tervezett szálláshelybővítés kormányzati támogatással történő megvalósításának feltételrendszerét és tegyen javaslatot a fejlesztések megvalósítására és támogatására.
+6.[^2]
 
-Felelős: nemzetgazdasági miniszter
-
-Határidő: 2016. május 31.
-
-7. A Kormány a Gemenci erdő térségének természeti értékeit szem előtt tartó turisztikai fejlesztések támogatása érdekében
-
-a) felhívja a nemzetgazdasági minisztert és a földművelésügyi minisztert, hogy Szekszárd Megyei Jogú Város Önkormányzatával együttműködve dolgozzák ki az önkormányzat által tervezett ökocentrum és kalandpark fejlesztési programját és tegyék meg, illetve kezdeményezzék a Kormánynál a fejlesztési program megvalósítását szolgáló intézkedéseket;
-
-Felelős: nemzetgazdasági miniszter
-
-földművelésügyi miniszter
-
-Határidő: 2016. május 31.
-
-b) felhívja a földművelésügyi minisztert, a nemzeti fejlesztési minisztert és a nemzetgazdasági minisztert, hogy dolgozzák ki a Gemenci Erdei Vasút felújításának és fejlesztésének, valamint a Gemenc-Dunapart kikötő felújításának tervét, és tegyék meg a szükséges intézkedéseket a fejlesztések megvalósításának támogatására.
-
-Felelős: földművelésügyi miniszter
-
-nemzetgazdasági miniszter
-
-nemzeti fejlesztési miniszter
-
-Határidő: a fejlesztés tervek kidolgozására: 2016. június 30.
-
-a fejlesztés megvalósítására: folyamatos
+7.[^3]
 
 8. A Kormány a városi sportélet fellendítése, a helyi és térségi társadalmi igények kielégítése céljából támogatja a városi sportinfrastruktúra fejlesztését, amely keretében felhívja a nemzeti fejlesztési minisztert és az emberi erőforrások miniszterét, hogy Szekszárd Megyei Jogú Város Önkormányzatával együttműködve gondoskodjanak
 
@@ -99,3 +69,7 @@ b) felhívja az 1–8. pontban felelősként megjelölt minisztereket, hogy – 
 Felelős: az 1–8. pontban felelősként megjelölt miniszterek
 
 Határidő: 2016. április 30.
+
+[^1]: Az 1. pontot az 1474/2023. (XI. 2.) Korm. határozat 17. pont g) alpontja visszavonta.
+[^2]: A 6. pontot az 1474/2023. (XI. 2.) Korm. határozat 17. pont g) alpontja visszavonta.
+[^3]: A 7. pontot az 1474/2023. (XI. 2.) Korm. határozat 17. pont g) alpontja visszavonta.
