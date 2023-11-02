@@ -8,15 +8,7 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: folyamatos, a beruházás megvalósítására 2018. március 15.
 
-b) a Dózsakert és Újváros közötti vasúti felüljáró négysávossá történő bővítését, amely érdekében felhívja a nemzeti fejlesztési minisztert és a Miniszterelnökséget vezető minisztert, hogy – az a) alpont szerinti fejlesztéssel összehangoltan, az állami és az önkormányzati tulajdonú vagyonelemekre kiterjedően – tegyék meg a szükséges intézkedéseket a beruházás előkészítésre és megvalósításának támogatására;
-
-Felelős: nemzeti fejlesztési miniszter
-
-Miniszterelnökséget vezető miniszter
-
-Határidő: az előkészítésre azonnal,
-
-a beruházás megvalósítására 2018. március 15.
+b)[^1]
 
 c) a Bánhida és Sárberek városrészek összekötését biztosító, a vasútvonalat keresztező aluljárót magában foglaló útfejlesztést, amely érdekében felhívja a nemzeti fejlesztési minisztert és a Miniszterelnökséget vezető minisztert, hogy tegyék meg a szükséges intézkedéseket a beruházás előkészítésére és megvalósításának támogatására.
 
@@ -84,13 +76,7 @@ Határidő: a beruházás megvalósítására folyamatos,
 
 a befogadóképesség megfelelőségének vizsgálatára 2016. május 31.
 
-b) az a) alpont szerinti multifunkcionális csarnok beruházással összhangban egy új, fedett, 50 méteres medencével rendelkező városi uszoda megvalósítására irányuló beruházás koncepciójának, valamint a beruházás kormányzati támogatással történő megvalósítására vonatkozó javaslat kidolgozásáról.
-
-Felelős: nemzeti fejlesztési miniszter
-
-emberi erőforrások minisztere
-
-Határidő: 2016. július 31.
+b)[^2]
 
 5. A Kormány a helyi értékek és a bányászati hagyományok megőrzését elősegítve egyetért
 
@@ -112,13 +98,7 @@ emberi erőforrások minisztere
 
 Határidő: 2016. július 31.
 
-6. A Kormány felhívja a nemzetgazdasági minisztert és a Miniszterelnökséget vezető minisztert, hogy gondoskodjanak az Önkormányzat által tervezett új vásárcsarnok és piac kialakítását célzó beruházás támogatásáról.
-
-Felelős: nemzetgazdasági miniszter
-
-Miniszterelnökséget vezető miniszter
-
-Határidő: az Önkormányzat által kidolgozott terv ütemezéséhez igazodva, a felmerülés ütemében
+6.[^3]
 
 7. A Kormány a tatabányai tömegközlekedés színvonalának és hatékonyságának javítása érdekében felhívja a nemzeti fejlesztési minisztert, hogy vizsgálja meg az Önkormányzat által a városi tömegközlekedés fejlesztésére kidolgozott tervet, továbbá a vizsgálat alapján a Miniszterelnökséget vezető miniszter közreműködésével tegyen javaslatot a fejlesztések európai uniós fejlesztési forrásból történő megvalósíthatóságával kapcsolatos intézkedésekre.
 
@@ -128,17 +108,7 @@ Miniszterelnökséget vezető miniszter
 
 Határidő: a városi tömegközlekedés fejlesztésére vonatkozó önkormányzati tervek kidolgozásához igazodva
 
-8. A Kormány munkacsoportot alakít a Bánhidai Erőmű területe revitalizációjának, illetve a terület turisztikai, kulturális, sport, illetve rekreációs célú hasznosításának vizsgálatára az érintett miniszterek és az Önkormányzat bevonásával.
-
-Felelős: nemzeti fejlesztési miniszter
-
-emberi erőforrások minisztere
-
-nemzetgazdasági miniszter
-
-Miniszterelnökséget vezető miniszter
-
-Határidő: azonnal
+8.[^4]
 
 9. A Kormány felhívja az emberi erőforrások miniszterét, hogy vizsgálja meg a Szent Borbála Kórház további fejlesztésének szükségességét és feltételeit, ennek keretében a mozgásszervi rehabilitációs osztályok Gyémánt Fürdőbe történő elhelyezésének és új helyen történő működtetésének feltételeit, továbbá a vizsgálat alapján tegyen javaslatot a szükséges intézkedésekre.
 
@@ -146,16 +116,10 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: 2016. augusztus 31.
 
-10. A Kormány
+10.[^5]
 
-a) felhívja a Miniszterelnökséget vezető minisztert, hogy – a kormányzati tevékenység összehangolásáért való feladat- és hatáskörében – gondoskodjon a Megállapodásban, illetve a jelen kormányhatározatban meghatározott feladatok végrehajtásának koordinálásáról;
-
-Felelős: Miniszterelnökséget vezető miniszter
-
-Határidő: folyamatos
-
-b) felhívja az 1–9. pontban felelősként megjelölt minisztereket, hogy – szükség szerint az Önkormányzattal egyeztetve – határozzák meg a Megállapodásban foglaltak ütemezett megvalósításához szükséges 2016. évi és 2017. évi indikatív forrásigényeket, és tájékoztassák ezen forrásigényekről a Miniszterelnökséget vezető minisztert.
-
-Felelős: az 1–9. pontban felelősként megjelölt miniszterek
-
-Határidő: azonnal
+[^1]: Az 1. pont b) alpontját az 1474/2023. (XI. 2.) Korm. határozat 20. pont d) alpontja visszavonta.
+[^2]: A 4. pont b) alpontját az 1474/2023. (XI. 2.) Korm. határozat 20. pont d) alpontja visszavonta.
+[^3]: A 6. pontot az 1474/2023. (XI. 2.) Korm. határozat 20. pont d) alpontja visszavonta.
+[^4]: A 8. pontot az 1474/2023. (XI. 2.) Korm. határozat 20. pont d) alpontja visszavonta.
+[^5]: A 10. pontot az 1474/2023. (XI. 2.) Korm. határozat 20. pont d) alpontja visszavonta.

@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1240-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2016-05-13 | 2016-1240-30-22.1 | 1240/2016. (V. 13.) Korm. határozat |
+| 2023-11-02 | 2016-1240-30-22.2 | 1474/2023. (XI. 2.) Korm. határozat |
