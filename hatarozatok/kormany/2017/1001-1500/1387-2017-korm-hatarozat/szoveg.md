@@ -72,19 +72,9 @@ emberi erőforrások minisztere
 
 Határidő: a vizsgálat lefolytatására és a kormány-előterjesztés elkészítésére 2017. december 31.
 
-d) felhívja a nemzeti fejlesztési minisztert és az emberi erőforrások miniszterét, hogy vizsgálják meg a Püspökerdő területén egy új városi aktív rekreációs szabadidőközpont kialakításának, fenntartásának lehetőségét és forrásigényét, valamint a vizsgálat alapján készítsenek előterjesztést a Kormány számára a fejlesztés támogatása érdekében;
+d)[^1]
 
-Felelős: nemzeti fejlesztési miniszter
-
-emberi erőforrások minisztere
-
-Határidő: a vizsgálat lefolytatására és a kormány-előterjesztés elkészítésére 2017. december 31.
-
-e) felhívja a nemzeti fejlesztési minisztert, hogy a d) alponttal összefüggésben, az Önkormányzattal együttműködve vizsgálja meg a Püspökerdő-fejlesztéssel érintett terület Önkormányzat részére történő átadásának lehetőségét, és a vizsgálat alapján készítsen jelentést a Kormány számára;
-
-Felelős: nemzeti fejlesztési miniszter
-
-Határidő: 2017. szeptember 30.
+e)[^2]
 
 f) felhívja a nemzeti fejlesztési minisztert, hogy az emberi erőforrások miniszterével együttműködve és az Önkormányzat bevonásával hozzanak létre munkacsoportot, ennek keretében vizsgálják meg az érintett terület árvízvédelmének biztosítása mellett a városban tervezett vízi élménypark megvalósításának és fenntartásának lehetőségét és forrásigényét, valamint a vizsgálat alapján készítsenek jelentést a Kormány számára;
 
@@ -134,13 +124,13 @@ Határidő: 2017. december 31.
 
 4. A Kormány támogatja Győr kulturális életének fellendítését, ennek érdekében
 
-a)[^1] felhívja az emberi erőforrások miniszterét, hogy vizsgálja meg a Győri Nemzeti Színház komplex megújításának, valamint a II. János Pál tér rehabilitációjának lehetőségét és forrásigényét, valamint a vizsgálat alapján készítsen előterjesztést a Kormány számára a fejlesztés ütemezett támogatása érdekében;
+a)[^3] felhívja az emberi erőforrások miniszterét, hogy vizsgálja meg a Győri Nemzeti Színház komplex megújításának, valamint a II. János Pál tér rehabilitációjának lehetőségét és forrásigényét, valamint a vizsgálat alapján készítsen előterjesztést a Kormány számára a fejlesztés ütemezett támogatása érdekében;
 
 Felelős: emberi erőforrások minisztere
 
 Határidő: a kivitelezésre irányuló feltételes közbeszerzési eljárást követően
 
-b)[^2] felhívja az emberi erőforrások miniszterét, hogy az Önkormányzat bevonásával vizsgálja meg egy új hangversenyterem építésének, fenntartásának lehetőségét és forrásigényét, valamint a vizsgálat alapján készítsen előterjesztést a Kormány számára a fejlesztés támogatása érdekében;
+b)[^4] felhívja az emberi erőforrások miniszterét, hogy az Önkormányzat bevonásával vizsgálja meg egy új hangversenyterem építésének, fenntartásának lehetőségét és forrásigényét, valamint a vizsgálat alapján készítsen előterjesztést a Kormány számára a fejlesztés támogatása érdekében;
 
 Felelős: emberi erőforrások minisztere
 
@@ -158,13 +148,13 @@ Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: 2017. december 31.
 
-5.[^3] A Kormány a győri Spartacus csónakház helyreállítása és környezetének fejlesztése érdekében felhívja a Miniszterelnökséget vezető minisztert, hogy az Önkormányzattal egyeztetve tegye meg a szükséges intézkedéseket a beruházás előkészítéséhez és megvalósításához szükséges források biztosítása érdekében.
+5.[^5] A Kormány a győri Spartacus csónakház helyreállítása és környezetének fejlesztése érdekében felhívja a Miniszterelnökséget vezető minisztert, hogy az Önkormányzattal egyeztetve tegye meg a szükséges intézkedéseket a beruházás előkészítéséhez és megvalósításához szükséges források biztosítása érdekében.
 
 Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: azonnal
 
-6.[^4] A Kormány
+6.[^6] A Kormány
 
 a) felhívja a Miniszterelnökséget vezető minisztert, hogy – a településfejlesztésért és településrendezésért való feladat- és hatáskörében – gondoskodjon a Megállapodásban, illetve a jelen kormányhatározatban meghatározott feladatok végrehajtásának koordinálásáról;
 
@@ -190,7 +180,9 @@ külgazdasági és külügyminiszter
 
 Határidő: azonnal
 
-[^1]: A 4. pont a) alpontja az 1126/2020. (III. 25.) Korm. határozattal megállapított szöveg.
-[^2]: A 4. pont b) alpontja az 1126/2020. (III. 25.) Korm. határozattal megállapított szöveg.
-[^3]: Az 5. pont az 1836/2021. (XI. 30.) Korm. határozattal megállapított szöveg.
-[^4]: A 6. pontot az 1836/2021. (XI. 30.) Korm. határozat iktatta be.
+[^1]: A 2. pont d) alpontját az 1474/2023. (XI. 2.) Korm. határozat 6. pont g) alpontja visszavonta.
+[^2]: A 2. pont e) alpontját az 1474/2023. (XI. 2.) Korm. határozat 6. pont g) alpontja visszavonta.
+[^3]: A 4. pont a) alpontja az 1126/2020. (III. 25.) Korm. határozattal megállapított szöveg.
+[^4]: A 4. pont b) alpontja az 1126/2020. (III. 25.) Korm. határozattal megállapított szöveg.
+[^5]: Az 5. pont az 1836/2021. (XI. 30.) Korm. határozattal megállapított szöveg.
+[^6]: A 6. pontot az 1836/2021. (XI. 30.) Korm. határozat iktatta be.
