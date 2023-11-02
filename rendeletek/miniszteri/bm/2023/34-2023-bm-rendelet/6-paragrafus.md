@@ -1,7 +1,3 @@
-6. § (1) Az R2. 1. melléklete a 6. melléklet szerint módosul.
+6. §[^7]
 
-(2) Az R2. 2. melléklete a 7. melléklet szerint módosul
-
-(3) Az R2. 3. melléklete a 8. melléklet szerint módosul.
-
-(4) Az R2. 4. melléklete a 9. melléklet szerint módosul.
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
