@@ -16,23 +16,11 @@ Felelős: nemzetgazdasági miniszter
 
 Határidő: 2016. szeptember 30.
 
-c) az „Aranyosvölgy Tudáspark és Tudományos Központ” megvalósítására vonatkozó tervek megvalósítását elősegítve felhívja a Miniszterelnökséget vezető minisztert, hogy a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal elnöke útján, az emberi erőforrások minisztere és a nemzetgazdasági miniszter bevonásával vizsgálja meg
-
-ca) a Tudásparkra kidolgozott koncepciót, valamint
-
-cb) a Pannon Egyetem bázisán megvalósítani tervezett Tudományos Központra vonatkozó koncepciót, és a vizsgálat eredménye alapján tegyen javaslatot a fejlesztések megvalósításával és támogatásával kapcsolatos intézkedésekre.
-
-Felelős: Miniszterelnökséget vezető miniszter, a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal elnöke útján
-
-emberi erőforrások minisztere
-
-nemzetgazdasági miniszter
-
-Határidő: 2016. október 31.
+c)[^1]
 
 2. A Kormány támogatja a város és térsége közlekedési infrastruktúrájának fejlesztését, amely érdekében
 
-a)–b)[^1]
+a)–b)[^2]
 
 c) felhívja a nemzeti fejlesztési minisztert, hogy – az európai uniós fejlesztési források bevonásának lehetőségére is kiterjedően – gondoskodjon a Balaton irányában (Csopak és Alsóörs térsége) a Veszprém–Szabadságpuszta közötti szakasz, Zirc irányában a Veszprém (Kádárta városrész) – Gyulafirátót közötti szakasz, továbbá a Veszprém–Márkó–Bánd közötti szakasz megépítésére vonatkozó kerékpárút-fejlesztések megvalósításáról.
 
@@ -42,7 +30,7 @@ Határidő: a fejlesztések előkészítésére: azonnal
 
 a fejlesztések megvalósítására: folyamatos
 
-d)[^2] felhívja a nemzeti fejlesztési minisztert, hogy az Önkormányzattal egyeztetve vizsgálja meg a 8. számú főút és a 82. számú főút összeköttetésével tervezett, a veszprémi sportlétesítmények megközelítésének javítását is szolgáló útfejlesztés megvalósíthatóságát, továbbá a vizsgálat alapján készítsen javaslatot a beruházás kormányzati támogatással történő megvalósítására és ütemezésére;
+d)[^3] felhívja a nemzeti fejlesztési minisztert, hogy az Önkormányzattal egyeztetve vizsgálja meg a 8. számú főút és a 82. számú főút összeköttetésével tervezett, a veszprémi sportlétesítmények megközelítésének javítását is szolgáló útfejlesztés megvalósíthatóságát, továbbá a vizsgálat alapján készítsen javaslatot a beruházás kormányzati támogatással történő megvalósítására és ütemezésére;
 
 Felelős: nemzeti fejlesztési miniszter
 
@@ -52,7 +40,7 @@ a javaslattételre a 4. pont a) és b) alpontja szerinti fejlesztések előkész
 
 a megvalósításra a 4. pont a) és b) alpontja szerinti fejlesztések megvalósításához igazodva
 
-e)[^3] felhívja a nemzeti fejlesztési minisztert, hogy tegye meg a szükséges intézkedéseket az Aranyosvölgy felett tervezett új völgyhíd és az ehhez kapcsolódó, a város belső elérhetőségét javító közútfejlesztés megvalósítása érdekében.
+e)[^4] felhívja a nemzeti fejlesztési minisztert, hogy tegye meg a szükséges intézkedéseket az Aranyosvölgy felett tervezett új völgyhíd és az ehhez kapcsolódó, a város belső elérhetőségét javító közútfejlesztés megvalósítása érdekében.
 
 Felelős: nemzeti fejlesztési miniszter
 
@@ -60,7 +48,7 @@ Határidő: 2018. december 31.
 
 3. A Kormány Veszprém kulturális életének gazdagítását és turisztikai vonzerejének növelését támogatva, a város életében betöltött szerepüket elismerve
 
-a)[^4] egyetért a Veszprémi Petőfi Színház kormányzati szerepvállalással történő felújításával és korszerűsítésével, amely érdekében felhívja az emberi erőforrások miniszterét és a nemzeti fejlesztési minisztert, hogy az Önkormányzat közreműködésével tegyenek javaslatot a színház épületének rekonstrukcióját szolgáló beruházási programra és ütemezett támogatására, azzal, hogy kormányzati támogatással a műemléképület felújításhoz és korszerűsítéséhez szükséges projektelemek megvalósítására kerüljön sor, míg az Önkormányzat által tervezett, a színház környezetének megújítását célzó fejlesztések esetében kerüljön vizsgálatra egyéb források bevonásának lehetősége, illetve a fejlesztések több ütemben történő megvalósítása;
+a)[^5] egyetért a Veszprémi Petőfi Színház kormányzati szerepvállalással történő felújításával és korszerűsítésével, amely érdekében felhívja az emberi erőforrások miniszterét és a nemzeti fejlesztési minisztert, hogy az Önkormányzat közreműködésével tegyenek javaslatot a színház épületének rekonstrukcióját szolgáló beruházási programra és ütemezett támogatására, azzal, hogy kormányzati támogatással a műemléképület felújításhoz és korszerűsítéséhez szükséges projektelemek megvalósítására kerüljön sor, míg az Önkormányzat által tervezett, a színház környezetének megújítását célzó fejlesztések esetében kerüljön vizsgálatra egyéb források bevonásának lehetősége, illetve a fejlesztések több ütemben történő megvalósítása;
 
 Felelős: emberi erőforrások minisztere
 
@@ -68,7 +56,7 @@ nemzeti fejlesztési miniszter
 
 Határidő: 2016. október 31.
 
-b)[^5] egyetért a Kittenberger Kálmán Növény- és Vadaspark fejlesztésével és bővítésével, amelynek érdekében felhívja a pénzügyminisztert és a Miniszterelnökséget vezető minisztert, hogy gondoskodjanak a fejlesztéshez szükséges támogatás biztosításáról, amennyiben lehetőség van rá, európai uniós fejlesztési források bevonásával;
+b)[^6] egyetért a Kittenberger Kálmán Növény- és Vadaspark fejlesztésével és bővítésével, amelynek érdekében felhívja a pénzügyminisztert és a Miniszterelnökséget vezető minisztert, hogy gondoskodjanak a fejlesztéshez szükséges támogatás biztosításáról, amennyiben lehetőség van rá, európai uniós fejlesztési források bevonásával;
 
 Felelős: pénzügyminiszter
 
@@ -84,13 +72,7 @@ Határidő: a felújítás megvalósításához igazodva, a felmerülés ütemé
 
 4. A Kormány a városi közösségi és sportélet támogatása érdekében felhívja a nemzeti fejlesztési minisztert, hogy az Önkormányzattal együttműködve
 
-a) vizsgálja meg – az emberi erőforrások minisztere közreműködésével – a Veszprém Aréna bővítésének lehetőségét, továbbá a vizsgálat eredménye alapján, a gazdaságossági szempontokra figyelemmel tegyen javaslatot a jelenleginél nagyobb befogadóképességű városi sportcsarnok kialakítására bővítés vagy más megoldás útján;
-
-Felelős: nemzeti fejlesztési miniszter
-
-emberi erőforrások minisztere
-
-Határidő: 2016. szeptember 30.
+a)[^7]
 
 b) gondoskodjon az új, fedett városi uszoda megvalósításáról a veszprémi uszoda beruházás egyes kérdéseiről szóló 1049/2015. (II. 11.) Korm. határozat alapján;
 
@@ -98,15 +80,7 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: a veszprémi uszoda beruházás egyes kérdéseiről szóló 1049/2015. (II. 11.) Korm. határozat szerint
 
-c) gondoskodjon – a fejlesztéssel érintett társadalmi szervezetek bevonásával, az emberi erőforrások minisztere és a nemzetgazdasági miniszter közreműködésével – a városban tervezett új jégcsarnok megvalósítását biztosító, illetve az ütemezett megvalósítást elősegítő intézkedések megtételéről;
-
-Felelős: nemzeti fejlesztési miniszter
-
-emberi erőforrások minisztere
-
-nemzetgazdasági miniszter
-
-Határidő: folyamatos, a jégcsarnokra vonatkozó tervek kidolgozásához és megvalósításához igazodva
+c)[^8]
 
 d) készítsen javaslatot az emberi erőforrások minisztere bevonásával a veszprémi stadion rekonstrukciójának – részben a Terület- és Településfejlesztési Operatív Program keretében rendelkezésre álló európai uniós fejlesztési források bevonásával történő – támogatására, azzal, hogy a beruházás terjedjen ki egy új futófolyosó kialakítására is.
 
@@ -130,7 +104,7 @@ Felelős: az 1–4. pontban felelősként megjelölt miniszterek
 
 Határidő: azonnal
 
-6.[^6] A Kormány Veszprém belterületi közúthálózat és kapcsolódó terek fejlesztési céljainak (a továbbiakban: beruházás) megvalósítása érdekében felhívja a Miniszterelnökséget vezető minisztert, hogy az innovációért és technológiáért felelős miniszter bevonásával és az Önkormányzattal egyeztetve tegye meg a szükséges intézkedéseket a beruházás előkészítéséhez és megvalósításához szükséges források biztosítása érdekében.
+6.[^9] A Kormány Veszprém belterületi közúthálózat és kapcsolódó terek fejlesztési céljainak (a továbbiakban: beruházás) megvalósítása érdekében felhívja a Miniszterelnökséget vezető minisztert, hogy az innovációért és technológiáért felelős miniszter bevonásával és az Önkormányzattal egyeztetve tegye meg a szükséges intézkedéseket a beruházás előkészítéséhez és megvalósításához szükséges források biztosítása érdekében.
 
 Felelős: Miniszterelnökséget vezető miniszter
 
@@ -138,9 +112,12 @@ innovációért és technológiáért felelős miniszter
 
 Határidő: azonnal
 
-[^1]: A 2. pont a)–b) alpontját az 1422/2016. (VII. 29.) Korm. határozat 7. pontja visszavonta.
-[^2]: A 2. pont d) alpontját az 1657/2017. (IX. 13.) Korm. határozat 3. pontja iktatta be.
-[^3]: A 2. pont e) alpontját az 1657/2017. (IX. 13.) Korm. határozat 3. pontja iktatta be.
-[^4]: A 3. pont a) alpontja az 1394/2016. (VII. 21.) Korm. határozat 8. pontja szerint módosított szöveg.
-[^5]: A 3. pont b) alpontja az 1526/2019. (IX. 10.) Korm. határozat 2. pontjával megállapított szöveg.
-[^6]: A 6. pontot az 1193/2021. (IV. 21.) Korm. határozat iktatta be.
+[^1]: Az 1. pont c) alpontját az 1474/2023. (XI. 2.) Korm. határozat 21. pont f) alpontja visszavonta.
+[^2]: A 2. pont a)–b) alpontját az 1422/2016. (VII. 29.) Korm. határozat 7. pontja visszavonta.
+[^3]: A 2. pont d) alpontját az 1657/2017. (IX. 13.) Korm. határozat 3. pontja iktatta be.
+[^4]: A 2. pont e) alpontját az 1657/2017. (IX. 13.) Korm. határozat 3. pontja iktatta be.
+[^5]: A 3. pont a) alpontja az 1394/2016. (VII. 21.) Korm. határozat 8. pontja szerint módosított szöveg.
+[^6]: A 3. pont b) alpontja az 1526/2019. (IX. 10.) Korm. határozat 2. pontjával megállapított szöveg.
+[^7]: A 4. pont a) alpontját az 1474/2023. (XI. 2.) Korm. határozat 21. pont f) alpontja visszavonta.
+[^8]: A 4. pont c) alpontját az 1474/2023. (XI. 2.) Korm. határozat 21. pont f) alpontja visszavonta.
+[^9]: A 6. pontot az 1193/2021. (IV. 21.) Korm. határozat iktatta be.
