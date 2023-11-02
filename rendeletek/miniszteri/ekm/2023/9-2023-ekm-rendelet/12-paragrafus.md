@@ -1,1 +1,3 @@
-12. § Hatályát veszti az épületek energetikai jellemzőinek meghatározásáról szóló 7/2006. (V. 24.) TNM rendelet.
+12. §[^2]
+
+[^2]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
