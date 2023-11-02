@@ -1,1 +1,3 @@
-3. § A Kr. 27. § (13) bekezdés g) pontjában a „16644” szövegrész helyébe a „16645” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

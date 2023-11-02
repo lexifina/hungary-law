@@ -1,3 +1,3 @@
-2. § (1) A Kr. 6/A. számú melléklete az 1. melléklet szerint módosul.
+2. §[^3]
 
-(2) A Kr. 28/B. számú melléklete a 2. melléklet szerint módosul.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
