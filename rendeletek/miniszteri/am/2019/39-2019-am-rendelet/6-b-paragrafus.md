@@ -1,4 +1,4 @@
-6/B. § (1)[^14] A 2. § (1) bekezdésében foglaltaktól eltérően a kérelmező a 2020. október 1. és október 15., a 2021. április 1. és április 15., valamint a 2022. április 1. és április 8. közötti támogatási kérelem benyújtási időszakban, postai úton benyújtott támogatási kérelme alapján kizárólag átmeneti támogatás igénybevételére jogosult.
+6/B. § (1)[^21] A 2. § (1) bekezdésében foglaltaktól eltérően a kérelmező a 2020. október 1. és október 15., a 2021. április 1. és április 15., valamint a 2022. április 1. és április 8. közötti támogatási kérelem benyújtási időszakban, postai úton benyújtott támogatási kérelme alapján kizárólag átmeneti támogatás igénybevételére jogosult.
 
 (2) Az (1) bekezdés szerinti átmeneti támogatás vonatkozásában nem kell alkalmazni a 2. § (4) és (6) bekezdésében, a 4. § b) pont bc) alpontjában, valamint a 6. § (3) és (5) bekezdésében foglaltakat.
 
@@ -18,4 +18,4 @@ bd) a kapcsolt vállalkozások adatairól (név, adószám vagy adóazonosító 
 
 (4) A kérelmező (1) bekezdés szerinti átmeneti támogatás iránti kérelme – az 5. § (3) bekezdésében foglaltakon túl – tartalmazza a (3) bekezdésben foglalt nyilatkozatokat.
 
-[^14]: A 6/B. § (1) bekezdése a 18/2021. (IV. 14.) AM rendelet 27. § a) pontja, az 50/2021. (XII. 29.) AM rendelet 34. § c) pontja szerint módosított szöveg.
+[^21]: A 6/B. § (1) bekezdése a 18/2021. (IV. 14.) AM rendelet 27. § a) pontja, az 50/2021. (XII. 29.) AM rendelet 34. § c) pontja szerint módosított szöveg.

@@ -2,7 +2,17 @@
 
 6. § (1) Hiányosan benyújtott támogatási kérelem esetén a Kincstár a kérelmezőt – nyolcnapos határidő tűzésével – hiánypótlásra szólítja fel.
 
-(2) Az érintett támogatási időszakon kívül vásárolt, illetve pénzügyileg nem rendezett haszongalamb-vásárlás után igényelt támogatást a Kincstár elutasítja.
+(2)[^18] A Kincstár a támogatási kérelemben megjelölt azon igényt elutasítja, amely esetében
+
+a) az igény alapját képező haszongalamb-vásárlás
+
+aa) pénzügyileg nem rendezett,
+
+ab) szerződéssel nem alátámasztott, vagy
+
+ac) nem az érintett támogatási időszakra esik; vagy
+
+b) az igényt 1200 darabot meghaladó haszongalambra nyújtották be.
 
 (3) Ha a támogatási kérelem szerinti jogos igény összegével a kérelmező a 37/2011. (III. 22.) Korm. rendelet 11. § (8) bekezdésében meghatározott csekély összegű támogatási keretet túllépi, akkor a támogatási kérelemben feltüntetett jogos igénynek a fenti összeget meghaladó részét a Kincstár elutasítja.
 
@@ -12,6 +22,7 @@
 
 (6) A támogatás összegét a támogatási kérelem benyújtási időszakának első napján érvényes, az Európai Központi Bank által közzétett forint/euró átváltási árfolyam alapján kell euróban meghatározni.
 
-(7)[^12] Ha a számla az elszámolható költség összegét nem forintban tartalmazza, akkor a számla összegének forintra történő átváltásakor a támogatási kérelem benyújtási időszakának első napján érvényes, az Európai Központi Bank által közzétett devizaárfolyamot kell alkalmazni.
+(7)[^19] Ha a számla az elszámolható költség összegét nem forintban tartalmazza, akkor a számla összegének forintra történő átváltásakor a támogatási kérelem benyújtási időszakának első napján érvényes, az Európai Központi Bank által közzétett devizaárfolyamot kell alkalmazni.
 
-[^12]: A 6. § (7) bekezdését a 66/2019. (XII. 30.) AM rendelet 11. §-a iktatta be.
+[^18]: A 6. § (2) bekezdése az 58/2023. (X. 30.) AM rendelet 6. §-ával megállapított szöveg.
+[^19]: A 6. § (7) bekezdését a 66/2019. (XII. 30.) AM rendelet 11. §-a iktatta be.

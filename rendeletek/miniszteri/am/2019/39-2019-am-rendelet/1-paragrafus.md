@@ -18,7 +18,10 @@ d)[^1] 5. § (1) bekezdés d) pontjában meghatározott időszakban történő b
 
 e)[^2] 5. § (1) bekezdés e) pontjában meghatározott időszakban történő benyújtása esetén a 2022. január 15. és 2022. március 31.
 
+f)[^3] 5. § (1) bekezdés f) pontjában meghatározott időszakban történő benyújtása esetén a 2023. október 16. és 2023. november 15.
+
 közötti időszak.
 
 [^1]: Az 1. § 3. pont d) alpontját a 65/2020. (XII. 17.) AM rendelet 16. §-a iktatta be.
 [^2]: Az 1. § 3. pont e) alpontját az 50/2021. (XII. 29.) AM rendelet 30. §-a iktatta be.
+[^3]: Az 1. § 3. pont f) alpontját az 58/2023. (X. 30.) AM rendelet 2. §-a iktatta be.
