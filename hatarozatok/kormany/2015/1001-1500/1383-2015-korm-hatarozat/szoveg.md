@@ -22,27 +22,7 @@ pénzügyminiszter
 
 Határidő: a fejlesztési igény ütemében
 
-3. támogatja a város kulturális és turisztikai vonzerejének növelése érdekében a város idegenforgalmi és infrastrukturális fejlesztéseinek megvalósulását, ennek keretében
-
-a) felhívja a nemzetgazdasági minisztert és az emberi erőforrások miniszterét, hogy a város új kulturális arculatának kialakítása jegyében tegyék meg a szükséges intézkedéseket az új kulturális negyed kialakítását szolgáló Fekete Sas Szálló rekonstrukciójához és fejlesztéséhez szükséges tervek támogatása érdekében;
-
-b) felhívja a nemzetgazdasági minisztert, a nemzeti fejlesztési minisztert és a Miniszterelnökséget vezető minisztert, hogy tegyék meg a szükséges intézkedéseket a belváros élhetőségének javítását szolgáló Zichy-liget projekt uniós fejlesztési források bevonásával történő támogatására;
-
-Felelős: az a) alpont pont tekintetében:
-
-nemzetgazdasági miniszter
-
-emberi erőforrások minisztere
-
-a b) alpont tekintetében:
-
-nemzetgazdasági miniszter
-
-nemzeti fejlesztési miniszter
-
-Miniszterelnökséget vezető miniszter
-
-Határidő: azonnal
+3.[^2]
 
 4. felhívja a nemzetgazdasági minisztert, a Miniszterelnökséget vezető minisztert és a nemzeti fejlesztési minisztert, hogy Székesfehérvár Megyei Jogú Város Önkormányzatának javaslata alapján, az önkormányzattal együttműködve gondoskodjanak a városi lakókörnyezet fejlesztését, az életminőség javítását, valamint az ökológiai és környezeti terheltség csökkentését szolgáló program kidolgozásáról;
 
@@ -83,3 +63,4 @@ nemzetgazdasági miniszter
 Határidő: azonnal
 
 [^1]: A 2. pont az 1853/2021. (XII. 1.) Korm. határozat 2. pontjával megállapított szöveg.
+[^2]: A 3. pontot az 1474/2023. (XI. 2.) Korm. határozat 16. pont d) pontja visszavonta.
