@@ -196,6 +196,8 @@
 
 | 98. | A tihanyi Honthy-villa felújítását és átalakítását biztosító beruházás megvalósítása | Tihany belterület 1668, 1669, 1671 helyrajzi számú, valamint a Tihany külterület 0100/20, 0100/21 helyrajzi számú ingatlanok | Veszprém Vármegyei Kormányhivatalt vezető főispán |
 
-3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^199]
+| 99. | A Rákóczi Tábor fejlesztésével összefüggő beruházások | Sátoraljaújhely zártkert 10975/1, 10975/2, 10977, 10985/10, 10985/11, 10985/12, 10985/17, 10985/18, 10985/30, 10985/31, 10985/32, 10986 helyrajzi számú ingatlanok | Borsod-Abaúj-Zemplén Vármegyei Kormányhivatalt vezető főispán |
 
-[^199]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja, az 566/2021. (X. 4.) Korm. rendelet 2. § b) pontja, az 591/2021. (X. 20.) Korm. rendelet 2. § b) pontja, a 622/2021. (XI. 9.) Korm. rendelet 3. § b) pontja, a 779/2021. (XII. 23.) Korm. rendelet 3. § b) pontja, a 145/2022. (IV. 7.) Korm. rendelet 6. § b) pontja, a 301/2022. (VIII. 9.) Korm. rendelet 3. § c) pontja, a 373/2023. (VIII. 7.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^202]
+
+[^202]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja, az 566/2021. (X. 4.) Korm. rendelet 2. § b) pontja, az 591/2021. (X. 20.) Korm. rendelet 2. § b) pontja, a 622/2021. (XI. 9.) Korm. rendelet 3. § b) pontja, a 779/2021. (XII. 23.) Korm. rendelet 3. § b) pontja, a 145/2022. (IV. 7.) Korm. rendelet 6. § b) pontja, a 301/2022. (VIII. 9.) Korm. rendelet 3. § c) pontja, a 373/2023. (VIII. 7.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
