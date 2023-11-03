@@ -502,6 +502,12 @@
 
 ## 1.2.164. Zalaegerszeg, északi iparterület megközelítését szolgáló úthálózat fejlesztése.
 
+## 1.2.165. 431. sz. főút fejlesztése Maros-híddal.
+
+## 1.2.166. Makó nyugati elkerülőút megvalósítása.
+
+## 1.2.167. 430. sz. főút fejlesztése.
+
 ## 1.3. Mellékutak
 
 ## 1.3.1. A 74176. jelű út (Kercaszomor–országhatár) fejlesztése.
@@ -2150,6 +2156,6 @@
 
 ## 5.6. Békéscsabai repülőtér kifutópályájának meghosszabbítása.
 
-1/a. melléklet a 345/2012. (XII. 6.) Korm. rendelethez[^67]
+1/a. melléklet a 345/2012. (XII. 6.) Korm. rendelethez[^69]
 
-[^67]: Az 1/a. mellékletet a 226/2015. (VIII. 7.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 236/2020. (V. 26.) Korm. rendelet 9. § b) pontja.
+[^69]: Az 1/a. mellékletet a 226/2015. (VIII. 7.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 236/2020. (V. 26.) Korm. rendelet 9. § b) pontja.
