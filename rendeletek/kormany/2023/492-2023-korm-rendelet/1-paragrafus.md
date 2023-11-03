@@ -1,0 +1,3 @@
+1. § Az extraprofit adókról szóló 197/2022. (VI. 4.) Korm. rendelet (a továbbiakban: Kormányrendelet) 21. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A 2022. július 1-jét követően kezdődő, 12 hónapnál rövidebb adóév esetén a fizetendő kiskereskedelmi adó összege az adóévi, Kiskeradó tv. szerinti adóalapnak, illetve a (3a) bekezdés szerinti adóalaprésznek a naptári napi időarányosítással 365 napos időszakra számított összege alapján a Kiskeradó tv. 6. §-a szerint, a 2023-ban kezdődő adóévben a (2) bekezdés szerint, a 2024-ben kezdődő adóévben a (3) és (3a) bekezdés szerint megállapított adóösszegnek az adóév naptári napjaival arányos része.”
