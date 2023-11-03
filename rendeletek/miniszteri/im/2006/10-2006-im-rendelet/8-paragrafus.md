@@ -1,5 +1,3 @@
-## 7. §[^19]
-
 8. §[^20] (1) A jelentkező vagy a szakértő a tanfolyamra és a vizsgára történő jelentkezését a Jogakadémiához írásban
 
 a) a Jogakadémia képzésszervezést támogató informatikai rendszere útján,
@@ -10,7 +8,7 @@ c) az elektronikus ügyintézés és a bizalmi szolgáltatások általános szab
 
 d) személyesen átadott irat útján
 
-## nyújthatja be.
+nyújthatja be.
 
 (2) A jelentkezőnek mellékelnie kell
 
@@ -28,5 +26,4 @@ szerinti díj befizetését igazoló, a fizetési számla megterhelését tartal
 
 (6) A Jogakadémia a szakértői névjegyzékbe vétel tényét a szakértői névjegyzék interneten elérhető adatbázisából közvetlen adatlekérdezéssel ellenőrzi.
 
-[^19]: A 7. §-t a 43/2009. (IX. 22.) IRM rendelet 37. § (1) bekezdés b) pontja hatályon kívül helyezte. E módosító rendelet 34. § (3) bekezdése alapján a rendelkezést a 2009. október 1. napjét követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^20]: A 8. § a 14/2016. (VI. 29.) IM rendelet 11. §-ával megállapított szöveg.

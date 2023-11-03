@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-10-20-0
 | 2016-06-30 | 2006-10-20-06.14 | 43/2009. (IX. 22.) IRM rendelet |
 | 2017-01-01 | 2006-10-20-06.15 | 43/2015. (XII. 30.) IM rendelet |
 | 2020-04-22 | 2006-10-20-06.16 | 3/2020. (IV. 21.) IM rendelet |
+| 2023-11-03 | 2006-10-20-06.17 | 43/2009. (IX. 22.) IRM rendelet |
