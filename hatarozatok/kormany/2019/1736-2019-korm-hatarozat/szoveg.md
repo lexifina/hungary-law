@@ -18,17 +18,11 @@ Határidő: azonnal
 
 4.[^4]
 
-5. A Kormány felhívja a pénzügyminisztert, hogy az innovációért és technológiáért felelős miniszter bevonásával gondoskodjon az 1–3. pont szerinti konstrukciók támogatásához szükséges költségvetési források rendelkezésre állásáról a 2021 és 2030 közötti években.
+5.[^5]
 
-Felelős: pénzügyminiszter
+6.[^6]
 
-innovációért és technológiáért felelős miniszter
-
-Határidő: Magyarország 2021–2030. évi központi költségvetéseinek tervezése során
-
-6.[^5]
-
-7. Az 1–3. pont szerinti kamattámogatás mértékét ügyletenként olyan módon kell meghatározni, hogy a kamattámogatással csökkentett ügyleti kamat mértéke ne legyen kevesebb, mint 0%.
+7.[^7]
 
 8. Ez a határozat a közzétételét követő napon lép hatályba.
 
@@ -36,4 +30,6 @@ Határidő: Magyarország 2021–2030. évi központi költségvetéseinek terve
 [^2]: A 2. pont az 1913/2020. (XII. 16.) Korm. határozat 7. pontja szerint módosított szöveg.
 [^3]: A 3. pont az 1913/2020. (XII. 16.) Korm. határozat 7. pontja, az 1298/2022. (VI. 20.) Korm. határozat 2. pont 2.2. pontja szerint módosított szöveg.
 [^4]: A 4. pontot az 1913/2020. (XII. 169.) Korm. határozat 9. pontja hatályon kívül helyezte.
-[^5]: A 6. pontot az 1913/2020. (XII. 169.) Korm. határozat 9. pontja helyezte.
+[^5]: Az 5. pontot az 1473/2023. (XI. 2.) Korm. határozat 6. pont 6.5. alpontja hatályon kívül helyezte.
+[^6]: A 6. pontot az 1913/2020. (XII. 169.) Korm. határozat 9. pontja helyezte.
+[^7]: A 7. pontot az 1473/2023. (XI. 2.) Korm. határozat 6. pont 6.5. alpontja hatályon kívül helyezte.

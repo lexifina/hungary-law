@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-1736-30
 | 2020-10-22 | 2019-1736-30-22.4 | 1684/2020. (X. 21.) Korm. határozat |
 | 2021-01-01 | 2019-1736-30-22.5 | 1913/2020. (XII. 16.) Korm. határozat |
 | 2022-07-01 | 2019-1736-30-22.6 | 1298/2022. (VI. 20.) Korm. határozat |
+| 2023-11-03 | 2019-1736-30-22.7 | 1473/2023. (XI. 2.) Korm. határozat |
