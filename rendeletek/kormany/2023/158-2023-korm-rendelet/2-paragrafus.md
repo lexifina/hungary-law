@@ -2,9 +2,15 @@
 
 (2) Amennyiben a turizmusfejlesztési hozzájárulás 2023. december 20-ig pénzforgalmilag teljesült bevétele meghaladja a Turisztikai fejlesztési célelőirányzat kiadási előirányzatán az (1) bekezdés szerinti jogcímen rendelkezésre bocsátott összeget, az államháztartásért felelős miniszter legkésőbb 2023. december 22. napjáig megnövelheti a Turisztikai fejlesztési célelőirányzat kiadási előirányzatát a pénzforgalmilag teljesült bevétel, valamint a Kvtv. 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 2. Fogyasztáshoz kapcsolt adók cím, 7. Turizmusfejlesztési hozzájárulás alcím eredeti bevételi előirányzatának az (1) bekezdés szerinti jogcímen rendelkezésre bocsátott összeggel növelt mértéke különbségének megfelelő összeggel.
 
-(3)[^1] A Kvtv. 54. § (2) bekezdésétől eltérően a Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény (a továbbiakban: Etv.) 7. § (1) bekezdés b) pontja szerinti felső határ a 2023. évben 200 000,0 millió forint.
+(2a)[^2] A Kvtv. 53. § (1) bekezdésétől eltérően a Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény 5. § (3) bekezdés a) pontja szerinti felső határ a 2023. évben 3 500 000,0 millió forint.
 
-(4)[^2] A Kvtv. 54. § (4) bekezdésétől eltérően az Etv. 7. § (1) bekezdés f) pontja szerinti felső határ a 2023. évben 500 000,0 millió forint.
+(2b)[^3] A Kvtv. 54. § (1) bekezdésétől eltérően a Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény (a továbbiakban: Etv.) 7. § (1) bekezdés a) pontja szerinti felső határ a 2023. évben 4 300 000,0 millió forint.
 
-[^1]: A 2. § (3) bekezdését a 312/2023. (VII. 14.) Korm. rendelet 1. §-a iktatta be.
-[^2]: A 2. § (4) bekezdését a 312/2023. (VII. 14.) Korm. rendelet 1. §-a iktatta be.
+(3)[^4] A Kvtv. 54. § (2) bekezdésétől eltérően a Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény (a továbbiakban: Etv.) 7. § (1) bekezdés b) pontja szerinti felső határ a 2023. évben 200 000,0 millió forint.
+
+(4)[^5] A Kvtv. 54. § (4) bekezdésétől eltérően az Etv. 7. § (1) bekezdés f) pontja szerinti felső határ a 2023. évben 1 200 000,0 millió forint.
+
+[^2]: A 2. § (2a) bekezdését a 488/2023. (XI. 2.) Korm. rendelet 1. §-a iktatta be.
+[^3]: A 2. § (2b) bekezdését a 488/2023. (XI. 2.) Korm. rendelet 1. §-a iktatta be.
+[^4]: A 2. § (3) bekezdését a 312/2023. (VII. 14.) Korm. rendelet 1. §-a iktatta be.
+[^5]: A 2. § (4) bekezdését a 312/2023. (VII. 14.) Korm. rendelet 1. §-a iktatta be, szövege a 488/2023. (XI. 2.) Korm. rendelet 2. §-ával megállapított szöveg.
