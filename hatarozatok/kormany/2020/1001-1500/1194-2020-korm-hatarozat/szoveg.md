@@ -48,56 +48,31 @@ c) 3. pontja szerinti Széchenyi Beruházási Hitel forgalmazása az 1. pont 1.1
 
 forgalmazásának idejére felfüggesztésre kerül;
 
-3.2. felhívja a pénzügyminisztert, hogy gondoskodjon 2 900 000 000 forint összegű többletforrás biztosításáról a gazdaságfejlesztést szolgáló feladatok finanszírozása céljából a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 33. Hazai fejlesztési programok alcím, 3. Gazdaságfejlesztést szolgáló célelőirányzat jogcímcsoport javára;
+3.2.[^3]
 
-Felelős: pénzügyminiszter
+3.3.[^4]
 
-Határidő: azonnal
+3.4.[^5]
 
-3.3. felhívja a pénzügyminisztert, hogy az innovációért és technológiáért felelős miniszter bevonásával gondoskodjon a gazdaságfejlesztést szolgáló feladatok finanszírozásához szükséges összeg, de legfeljebb 18 100 000 000 forint biztosításáról 2021. évben a XVII. Innovációs és Technológiai Minisztérium fejezet Gazdaságfejlesztést szolgáló célelőirányzat javára;
+3.5.[^6]
 
-Felelős: pénzügyminiszter
+3.6.[^7]
 
-innovációért és technológiáért felelős miniszter
+3.7.[^8]
 
-Határidő: a felmerülés ütemében
-
-3.4. felhívja a pénzügyminisztert, hogy gondoskodjon az 1. pont 1.1. alpontja szerinti hiteltermékek támogatásának finanszírozásához szükséges költségvetési források rendelkezésre állásáról a 2022–2031 közötti időszakban;
-
-Felelős: pénzügyminiszter
-
-Határidő: Magyarország 2022–2031. évi központi költségvetésének tervezése során
-
-3.5. felhívja az innovációért és technológiáért felelős minisztert, hogy az 1. pont 1.1. alpontja szerinti hitelkonstrukciókat jelentse be az Európai Bizottságnak az Európai Unió működéséről szóló szerződés 108. cikk (3) bekezdése alapján a Támogatásokat Vizsgáló Irodán keresztül;
-
-Felelős: innovációért és technológiáért felelős miniszter
-
-Határidő: az 1. pont 1.1. alpontja szerinti hitelkonstrukciók véglegesítését követően azonnal
-
-3.6. felhívja a pénzügyminisztert, hogy gondoskodjon 5 500 000 000 forint összegű többletforrás biztosításáról az intézményi kezességi díjtámogatások finanszírozása céljából a Kvtv. 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 33. Hazai fejlesztési programok alcím, 5. Intézményi kezességi díjtámogatások jogcímcsoport javára;
-
-Felelős: pénzügyminiszter
-
-Határidő: azonnal
-
-3.7. felhívja a pénzügyminisztert, hogy az innovációért és technológiáért felelős miniszter bevonásával gondoskodjon az intézményi kezességi díjtámogatások finanszírozásához szükséges összeg, de legfeljebb 5 500 000 000 forint biztosításáról a 2021. évben a XVII. Innovációs és Technológiai Minisztérium fejezet javára;
-
-Felelős: pénzügyminiszter
-
-innovációért és technológiáért felelős miniszter
-
-Határidő: a felmerülés ütemében
-
-3.8. felhívja a pénzügyminisztert, hogy gondoskodjon az intézményi kezességi díjtámogatások finanszírozásához szükséges költségvetési források rendelkezésre állásáról a 2022–2031 közötti időszakban.
-
-Felelős: pénzügyminiszter
-
-Határidő: Magyarország 2022–2031. évi központi költségvetésének tervezése során
+3.8.[^9]
 
 4. Ez a határozat a közzétételét követő napon lép hatályba.
 
-5.[^3]
+5.[^10]
 
 [^1]: A 2. pont d) alpontja az 1684/2020. (X. 21.) Korm. határozat 5. pontjával megállapított szöveg.
 [^2]: A 3. pont 3.1. alpont a) pontját az 1368/2021. (VI. 10.) Korm. határozat 4. pont a) alpontja visszavonta.
-[^3]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 3. pont 3.2. alpontját az 1473/2023. (XI. 2.) Korm. határozat 6. pont 6.6. alpontja hatályon kívül helyezte.
+[^4]: A 3. pont 3.3. alpontját az 1473/2023. (XI. 2.) Korm. határozat 6. pont 6.6. alpontja hatályon kívül helyezte.
+[^5]: A 3. pont 3.4. alpontját az 1473/2023. (XI. 2.) Korm. határozat 6. pont 6.6. alpontja hatályon kívül helyezte.
+[^6]: A 3. pont 3.5. alpontját az 1473/2023. (XI. 2.) Korm. határozat 6. pont 6.6. alpontja hatályon kívül helyezte.
+[^7]: A 3. pont 3.6. alpontját az 1473/2023. (XI. 2.) Korm. határozat 6. pont 6.6. alpontja hatályon kívül helyezte.
+[^8]: A 3. pont 3.7. alpontját az 1473/2023. (XI. 2.) Korm. határozat 6. pont 6.6. alpontja hatályon kívül helyezte.
+[^9]: A 3. pont 3.8. alpontját az 1473/2023. (XI. 2.) Korm. határozat 6. pont 6.6. alpontja hatályon kívül helyezte.
+[^10]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
