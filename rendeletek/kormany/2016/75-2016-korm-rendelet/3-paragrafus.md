@@ -6,7 +6,11 @@
 
 1. hazai társfinanszírozás: a CEF-ből származó forrásokra vonatkozó pályázatokhoz nyújtott hazai forrás,
 
-2. kedvezményezett: az Európai Hálózatfinanszírozási Eszköz létrehozásáról, a 913/2010/EU rendelet módosításáról és a 680/2007/EK és 67/2010/EK rendelet hatályon kívül helyezéséről szóló, 2013. december 11-i 1316/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1316/2013/EU európai parlamenti és tanácsi rendelet) 2. cikk 10. pontja szerinti tagállam, nemzetközi szervezet, állami vagy magánvállalkozás vagy szerv,
+2.[^2] kedvezményezett:
+
+a) a 2014–2020-as programozási időszak tekintetében az Európai Hálózatfinanszírozási Eszköz létrehozásáról, a 913/2010/EU rendelet módosításáról és a 680/2007/EK és 67/2010/EK rendelet hatályon kívül helyezéséről szóló, 2013. december 11-i 1316/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1316/2013/EU európai parlamenti és tanácsi rendelet) 2. cikk 10. pontja szerinti tagállam, nemzetközi szervezet, állami vagy magánvállalkozás vagy szerv,
+
+b) a 2021–2027-es programozási időszak tekintetében az Európai Hálózatfinanszírozási Eszköz létrehozásáról, valamint az 1316/2013/EU és a 283/2014/EU rendelet hatályon kívül helyezéséről szóló, 2021. július 7-i 2021/1153/EU európai parlamenti és tanácsi rendelet 2. cikk c) pontja szerinti szervezet,
 
 3. költségvetési hozzájárulás: a projekt megvalósításához nyújtott költségvetési forrás, ide értve az utólagosan a CEF-ből folyósított támogatás megelőlegezését is,
 
@@ -32,6 +36,10 @@
 
 14. végrehajtó szerv: az 1316/2013/EU európai parlamenti és tanácsi rendelet 2. cikk 11. pontja szerinti vállalkozás vagy szerv.
 
+15.[^3] koordinátor: a 2021–2027-es programozási időszak központi költségvetési hozzájárulással megvalósuló projektjei esetében a tagállamot képviselő kedvezményezett; ahol e rendelet kedvezményezettet említ, ott a 2021–2027-es programozási időszak központi költségvetési hozzájárulással megvalósuló projektjei tekintetében koordinátort kell érteni,
+
+16.[^4] társkedvezményezett: a 2021–2027-es programozási időszak projektjei tekintetében a központi költségvetési hozzájárulást tartalmazó projektek esetében a koordinátor által a projekt megvalósításába bevont kedvezményezett; ahol e rendelet végrehajtó szervre hivatkozik, ott a 2021–2027-es programozási időszak tekintetében társkedvezményezettet kell érteni.
+
 (2) Az (1) bekezdésben nem értelmezett fogalmakat
 
 a) a transzeurópai közlekedési hálózat fejlesztésére vonatkozó uniós iránymutatásokról és a 661/2010/EU határozat hatályon kívül helyezéséről szóló, 2013. december 11-i 1315/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1315/2013/EU európai parlamenti és tanácsi rendelet),
@@ -45,3 +53,7 @@ d) a távközlési infrastruktúrák területén működő transzeurópai háló
 szerint kell értelmezni.
 
 (3) E rendeletet az e rendelet hatálya alá tartozó projektek támogatására vonatkozó, kötelezően alkalmazandó európai uniós jogi aktusokban foglalt eltérésekre figyelemmel kell alkalmazni és értelmezni.
+
+[^2]: A 3. § (1) bekezdés 2. pontja a 494/2023. (XI. 2.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: A 3. § (1) bekezdés 15. pontját a 494/2023. (XI. 2.) Korm. rendelet 2. §-a iktatta be.
+[^4]: A 3. § (1) bekezdés 16. pontját a 494/2023. (XI. 2.) Korm. rendelet 2. §-a iktatta be.

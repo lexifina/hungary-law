@@ -1,4 +1,4 @@
-## 51/A. §[^8] Az Európai Hálózatfinanszírozási Eszközből származó források felhasználásáról szóló 75/2016. (IV. 5.) Korm. rendelet módosításáról szóló 411/2016. (XII. 13.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 27/A. §-t a Módr. hatálybalépésekor[^9] folyamatban lévő projektekre is alkalmazni kell.
+## 51/A. §[^11] Az Európai Hálózatfinanszírozási Eszközből származó források felhasználásáról szóló 75/2016. (IV. 5.) Korm. rendelet módosításáról szóló 411/2016. (XII. 13.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 27/A. §-t a Módr. hatálybalépésekor[^12] folyamatban lévő projektekre is alkalmazni kell.
 
 ## 30. Az Európai Unió jogának való megfelelés
 
@@ -14,5 +14,5 @@ d) a távközlési infrastruktúrák területén működő transzeurópai háló
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^8]: Az 51/A. §-t a 411/2016. (XII. 13.) Korm. rendelet 2. §-a iktatta be.
-[^9]: A hatálybalépés időpontja 2016. december 14.
+[^11]: Az 51/A. §-t a 411/2016. (XII. 13.) Korm. rendelet 2. §-a iktatta be.
+[^12]: A hatálybalépés időpontja 2016. december 14.

@@ -6,6 +6,6 @@
 
 44. § (1) A költségvetési hozzájárulást nem tartalmazó, saját erővel megvalósuló projektek esetén az I–IV. Fejezet rendelkezéseit az e fejezetben foglalt eltérésekkel kell alkalmazni.
 
-(2)[^7] A költségvetési hozzájárulást nem tartalmazó projektek esetében a 7. alcímet és a 27/A. §-t nem kell alkalmazni.
+(2)[^10] A költségvetési hozzájárulást nem tartalmazó projektek esetében a 7. alcímet és a 27/A. §-t nem kell alkalmazni.
 
-[^7]: A 44. § (2) bekezdése a 411/2016. (XII. 13.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^10]: A 44. § (2) bekezdése a 411/2016. (XII. 13.) Korm. rendelet 3. §-a szerint módosított szöveg.
