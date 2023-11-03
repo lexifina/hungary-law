@@ -26,21 +26,13 @@ e) a Széchenyi Újraindítási Lízingkonstrukciót;
 
 2.2.[^4]
 
-2.3. felhatalmazza az innovációért és technológiáért felelős minisztert, hogy az 1.4., 2.1. és 2.2. alpont figyelembevételével a konstrukciók mindenkor hatályos kamattámogatás mértékeit a Széchenyi Kártya Program mindenkor hatályos Üzletszabályzatában rögzítse;
+2.3.[^5]
 
-Felelős: innovációért és technológiáért felelős miniszter
+2.4.[^6]
 
-Határidő: folyamatosan
+2.5.[^7]
 
-2.4. felhatalmazza az innovációért és technológiáért felelős minisztert, hogy vizsgálja meg, folytasson egyeztetéseket, és szükség esetén tegye meg az intézkedéseket a Széchenyi Kártya Program működtetésében részt vevő KAVOSZ Pénzügyi Szolgáltatásokat Közvetítő Zártkörűen Működő Részvénytársasággal és a Széchenyi Kártya Programban részt vevő pénzügyi intézményekkel együttműködve a Széchenyi Kártya Újraindítási Program díjai és az adminisztráció csökkentésről, és ennek eredménye alapján vizsgálja felül a díjakhoz kapcsolódó támogatások mértékét;
-
-Felelős: innovációért és technológiáért felelős miniszter
-
-Határidő: folyamatos, első alkalommal 2021. szeptember
-
-2.5.[^5]
-
-2.6.[^6]
+2.6.[^8]
 
 3. A Kormány
 
@@ -56,79 +48,23 @@ forgalmazásának idejére felfüggesztésre kerül;
 
 3.3. egyetért azzal, hogy a Széchenyi Kártya Újraindítási Program konstrukciói kapcsán a pénzügyi intézményeknek a hiteldöntés meghozatalára legfeljebb 30 nap, illetve beruházási típusú hitelek és a lízingkonstrukció esetén legfeljebb 60 nap áll rendelkezésükre;
 
-3.4. felhívja a pénzügyminisztert, hogy az 1. pont 1.1. és 1.4. alpontja szerinti konstrukciók támogatásának finanszírozásához az innovációért és technológiáért felelős miniszter kezdeményezésére gondoskodjon 4 800 000 000 forint összegű többletforrás biztosításáról a gazdaságfejlesztést szolgáló feladatok finanszírozása céljából a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 6. Gazdaságvédelmet szolgáló innovációs és technológiai fejezeti kezelésű előirányzatok alcím, 2. Gazdaságfejlesztési feladatok jogcímcsoport, 2. Gazdaságfejlesztési programok jogcím javára;
+3.4.[^9]
 
-Felelős: pénzügyminiszter
+3.5.[^10]
 
-Határidő: a 3.11. alpont szerinti feladat végrehajtásával összhangban
+3.6.[^11]
 
-3.5. felhívja a pénzügyminisztert, hogy az 1. pont 1.1. és 1.4. alpontja szerinti konstrukciók támogatásának finanszírozásához az innovációért és technológiáért felelős miniszter kezdeményezésére gondoskodjon 14 800 000 000 forint többletforrás biztosításáról a 2022. évben a XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 6. Gazdaságvédelmet szolgáló innovációs és technológiai fejezeti kezelésű előirányzatok alcím, 2. Gazdaságfejlesztési feladatok jogcímcsoport, 2. Gazdaságfejlesztési programok jogcím javára;
+3.7.[^12]
 
-Felelős: pénzügyminiszter
+3.8.[^13]
 
-innovációért és technológiáért felelős miniszter
+3.9.[^14]
 
-Határidő: a felmerülés ütemében
+3.10.[^15]
 
-3.6. felhívja a pénzügyminisztert, hogy gondoskodjon az 1. pont 1.1. és 1.4. alpontja szerinti konstrukciók támogatásának finanszírozásához szükséges költségvetési források rendelkezésre állásáról a 2023–2036. közötti időszakban;
+3.11.[^16]
 
-Felelős: pénzügyminiszter
-
-Határidő: Magyarország 2023–2036. évi központi költségvetésének tervezése során
-
-3.7. az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a 2021. évben a XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 6. Gazdaságvédelmet szolgáló innovációs és technológiai fejezeti kezelésű előirányzatok alcím, 2. Gazdaságfejlesztési feladatok jogcímcsoport, 2. Gazdaságfejlesztési programok jogcím terhére vállalható kötelezettség mértékét a 2022–2036 közötti évekre az alábbiak szerint állapítja meg:
-
-a) a 2022. évre vonatkozó kötelezettségvállalás felső korlátja 66 500 000 000 forint,
-
-b) a 2023. évre vonatkozó kötelezettségvállalás felső korlátja 68 400 000 000 forint,
-
-c) a 2024. évre vonatkozó kötelezettségvállalás felső korlátja 42 100 000 000 forint,
-
-d) a 2025. évre vonatkozó kötelezettségvállalás felső korlátja 24 300 000 000 forint,
-
-e) a 2026–2036. évekre vonatkozó kötelezettségvállalások felső korlátja évente 15 500 000 000 forint;
-
-3.8. a 3.7. alpontban megállapított mértéken belül a gazdaságfejlesztést szolgáló feladatok finanszírozásához vállalható kötelezettség mértékét az alábbiak szerint határozza meg:
-
-a) a 2022. évre vonatkozó kötelezettségvállalás felső korlátja 56 300 000 000 forint,
-
-b) a 2023. évre vonatkozó kötelezettségvállalás felső korlátja 60 200 000 000 forint,
-
-c) a 2024. évre vonatkozó kötelezettségvállalás felső korlátja 37 600 000 000 forint,
-
-d) a 2025. évre vonatkozó kötelezettségvállalás felső korlátja 21 300 000 000 forint,
-
-e) a 2026–2036. évekre vonatkozó kötelezettségvállalások felső korlátja évente 13 000 000 000 forint;
-
-3.9. a 3.7. alpontban megállapított mértéken belül az intézményi kezességi díjtámogatások finanszírozásához vállalható kötelezettségek mértékét az alábbiak szerint határozza meg:
-
-a) a 2022. évre vonatkozó kötelezettségvállalás felső korlátja 10 200 000 000 forint,
-
-b) a 2023. évre vonatkozó kötelezettségvállalás felső korlátja 8 200 000 000 forint,
-
-c) a 2024. évre vonatkozó kötelezettségvállalás felső korlátja 4 500 000 000 forint,
-
-d) a 2025. évre vonatkozó kötelezettségvállalás felső korlátja 3 000 000 000 forint,
-
-e) a 2026–2036. évekre vonatkozó kötelezettségvállalások felső korlátja évente 2 500 000 000 forint;
-
-3.10. felhívja az innovációért és technológiáért felelős minisztert, hogy amennyiben a 2021. évi és a 3.8. alpontban meghatározott adott évi célelőirányzat forrásainak lekötöttsége eléri a 75%-ot, vizsgálja meg a Széchenyi Kártya Program konstrukciói támogatására meghatározott kötelezettségvállalási felhatalmazás mértékére figyelemmel szükséges intézkedéseket, és a vizsgálat eredményének megfelelően a pénzügyminiszter bevonásával tegyen javaslatot a Kormány számára;
-
-Felelős: innovációért és technológiáért felelős miniszter
-
-pénzügyminiszter
-
-Határidő: az adott évi források 75%-ának lekötését követő tizenöt napon belül
-
-3.11. felhívja az innovációért és technológiáért felelős minisztert, hogy – a Miniszterelnökséget vezető miniszter bevonásával – az 1. pont 1.1. és 1.4. alpontja szerinti konstrukciókat, szükség szerinti módosításait jelentse be az Európai Bizottságnak az Európai Unió működéséről szóló szerződés 108. cikk (3) bekezdése alapján a Támogatásokat Vizsgáló Irodán keresztül.
-
-Felelős: innovációért és technológiáért felelős miniszter
-
-Miniszterelnökséget vezető miniszter
-
-Határidő: az 1. pont 1.1. és 1.4. alpontja szerinti konstrukciók módosítását követően azonnal
-
-4.[^7]
+4.[^17]
 
 5. Ez a határozat a közzétételét követő napon lép hatályba.
 
@@ -136,6 +72,16 @@ Határidő: az 1. pont 1.1. és 1.4. alpontja szerinti konstrukciók módosítá
 [^2]: Az 1. pont 1.4. alpontját az 1298/2022. (VI. 20.) Korm. határozat 3. pont 3.3. alpont b) pontja hatályon kívül helyezte.
 [^3]: A 2. pont 2.1. pontot az 1478/2022. (X. 6.) Korm. határozat 3. pontja visszavonta.
 [^4]: A 2. pont 2.2. pontot az 1478/2022. (X. 6.) Korm. határozat 3. pontja visszavonta.
-[^5]: A 2. pont 2.5. pontot az 1478/2022. (X. 6.) Korm. határozat 3. pontja visszavonta.
-[^6]: A 2. pont 2.6. pontot az 1478/2022. (X. 6.) Korm. határozat 3. pontja visszavonta.
-[^7]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 2. pont 2.3. alpontját az 1473/2023. (XI. 2.) Korm. határozat 6. pont 6.8. alpontja hatályon kívül helyezte.
+[^6]: A 2. pont 2.4. alpontját az 1473/2023. (XI. 2.) Korm. határozat 6. pont 6.8. alpontja hatályon kívül helyezte.
+[^7]: A 2. pont 2.5. pontot az 1478/2022. (X. 6.) Korm. határozat 3. pontja visszavonta.
+[^8]: A 2. pont 2.6. pontot az 1478/2022. (X. 6.) Korm. határozat 3. pontja visszavonta.
+[^9]: A 3. pont 3.4. alpontját az 1473/2023. (XI. 2.) Korm. határozat 6. pont 6.8. alpontja hatályon kívül helyezte.
+[^10]: A 3. pont 3.5. alpontját az 1473/2023. (XI. 2.) Korm. határozat 6. pont 6.8. alpontja hatályon kívül helyezte.
+[^11]: A 3. pont 3.6. alpontját az 1473/2023. (XI. 2.) Korm. határozat 6. pont 6.8. alpontja hatályon kívül helyezte.
+[^12]: A 3. pont 3.7. alpontját az 1473/2023. (XI. 2.) Korm. határozat 6. pont 6.8. alpontja hatályon kívül helyezte.
+[^13]: A 3. pont 3.8. alpontját az 1473/2023. (XI. 2.) Korm. határozat 6. pont 6.8. alpontja hatályon kívül helyezte.
+[^14]: A 3. pont 3.9. alpontját az 1473/2023. (XI. 2.) Korm. határozat 6. pont 6.8. alpontja hatályon kívül helyezte.
+[^15]: A 3. pont 3.10. alpontját az 1473/2023. (XI. 2.) Korm. határozat 6. pont 6.8. alpontja hatályon kívül helyezte.
+[^16]: A 3. pont 3.11. alpontját az 1473/2023. (XI. 2.) Korm. határozat 6. pont 6.8. alpontja hatályon kívül helyezte.
+[^17]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
