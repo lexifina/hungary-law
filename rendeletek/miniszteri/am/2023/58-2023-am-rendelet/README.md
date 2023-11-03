@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-58-20-7
 | 2023-10-31 | 2023-58-20-7R.1 | 58/2023. (X. 30.) AM rendelet |
 | 2023-11-01 | 2023-58-20-7R.2 | 2010. évi CXXX. törvény |
 | 2023-11-02 | 2023-58-20-7R.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2023-11-03 | 2023-58-20-7R.4 | 2010. évi CXXX. törvény |

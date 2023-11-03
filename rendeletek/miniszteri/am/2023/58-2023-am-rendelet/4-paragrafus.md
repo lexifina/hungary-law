@@ -1,3 +1,3 @@
-4. § A 39/2019. (VIII. 23.) AM rendelet 4. §-a a következő e) ponttal egészül ki:
+4. §[^5]
 
-[A támogatás igénybevételére jogosult az a természetes vagy jogi személy (a továbbiakban: kérelmező), aki vagy amely]
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
