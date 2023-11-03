@@ -148,7 +148,7 @@ a) felhívja a honvédelmi minisztert, hogy – az építési és közlekedési 
 
 | Határidő: | 2024. július 1. |
 
-b) visszavonja az 1394/2016. (VII. 21.) Korm. határozat 3. és 4. pontját, valamint 6. pont b), d), e) és g) alpontját;
+b) [^1]
 
 c) egyetért azzal, hogy az a) alpontban foglalt, valamint a b) alpont szerint visszavonással érintett beruházások megvalósítására irányuló szakminiszteri szándék felülvizsgálatot követő további fennállása esetén az érintett szakminiszterek az adott beruházást az állami építési beruházások rendjéről szóló törvényben foglaltaknak megfelelően előkészítendő szakpolitikai-ágazati beruházási koncepciójában szerepeltessék;
 
@@ -208,7 +208,7 @@ ab) az 1504/2015. (VII. 23.) Korm. határozat 3. pont c) alpontjában foglaltakt
 
 | Határidő: | 2024. július 1. |
 
-b) visszavonja az 1504/2015. (VII. 23.) Korm. határozat 2. pontját, 3. pont a), c) és d) alpontját, valamint 4. és 5. pontját;
+b) [^2]
 
 c) egyetért azzal, hogy az a) alpont aa) és ab) pontjában foglalt, valamint a b) alpont szerint visszavonással érintett beruházások megvalósítására irányuló szakminiszteri szándék felülvizsgálatot követő további fennállása esetén az érintett szakminiszterek az adott beruházást az állami építési beruházások rendjéről szóló törvényben foglaltaknak megfelelően előkészítendő szakpolitikai-ágazati beruházási koncepciójában szerepeltessék;
 
@@ -254,7 +254,7 @@ f) az 1387/2017. (VI. 27.) Korm. határozat 5. pontjában meghatározott fejlesz
 
 | Határidő: | 2024. július 1. |
 
-g) visszavonja az 1387/2017. (VI. 27.) Korm. határozat 2. pont d) és e) alpontját;
+g) [^3]
 
 h) egyetért azzal, hogy az a), b), e) és f) alpontban foglalt, valamint a g) alpont szerint visszavonással érintett beruházások megvalósítására irányuló szakminiszteri szándék felülvizsgálatot követő további fennállása esetén az érintett szakminiszterek az adott beruházást az állami építési beruházások rendjéről szóló törvényben foglaltaknak megfelelően előkészítendő szakpolitikai-ágazati beruházási koncepciójában szerepeltessék;
 
@@ -294,7 +294,7 @@ e) az 1840/2017. (XI. 10.) Korm. határozat 6. pont d) alpontjában foglaltaktó
 
 | Határidő: | 2024. július 1. |
 
-f) visszavonja az 1840/2017. (XI. 10.) Korm. határozat 2. pont b) és c) alpontját, 3. pontját, 4. pont a), c), d) és f) alpontját, 5. pont b) alpontját és 7. pontját;
+f) [^4]
 
 g) egyetért azzal, hogy az a)–e) alpontban foglalt, valamint az f) alpont szerint visszavonással érintett beruházások megvalósítására irányuló szakminiszteri szándék felülvizsgálatot követő további fennállása esetén az érintett szakminiszterek az adott beruházást az állami építési beruházások rendjéről szóló törvényben foglaltaknak megfelelően előkészítendő szakpolitikai-ágazati beruházási koncepciójában szerepeltessék;
 
@@ -322,7 +322,7 @@ c) az 1803/2015. (XI. 10.) Korm. határozat 10. pontjában foglaltaktól eltér�
 
 | Határidő: | 2024. július 1. |
 
-d) visszavonja az 1803/2015. (XI. 10.) Korm. határozat 5. pontját;
+d) [^5]
 
 e) egyetért azzal, hogy az a)–c) alpontban foglalt, valamint a d) alpont szerint visszavonással érintett beruházások megvalósítására irányuló szakminiszteri szándék felülvizsgálatot követő további fennállása esetén az érintett szakminiszterek az adott beruházást az állami építési beruházások rendjéről szóló törvényben foglaltaknak megfelelően előkészítendő szakpolitikai-ágazati beruházási koncepciójában szerepeltessék;
 
@@ -362,7 +362,7 @@ e) a város kulturális és turisztikai vonzerejét növelő, értékmegőrző f
 
 | Határidő: | 2024. július 1. |
 
-f) visszavonja az 1131/2016. (III. 10.) Korm. határozat 3. pontját;
+f) [^6]
 
 g) egyetért azzal, hogy az a)–e) alpontban foglalt, valamint az f) alpont szerint visszavonással érintett beruházások megvalósítására irányuló szakminiszteri szándék felülvizsgálatot követő további fennállása esetén az érintett szakminiszterek az adott beruházást az állami építési beruházások rendjéről szóló törvényben foglaltaknak megfelelően előkészítendő szakpolitikai-ágazati beruházási koncepciójában szerepeltessék;
 
@@ -444,7 +444,7 @@ a) az 1316/2015. (V. 21.) Korm. határozat 4. pontjában foglaltaktól eltérőe
 
 | Határidő: | 2024. július 1. |
 
-b) visszavonja az 1316/2015. (V. 21.) Korm. határozat 3. és 5. pontját;
+b) [^7]
 
 c) egyetért azzal, hogy az a) alpontban foglalt, valamint a b) alpont szerint visszavonással érintett beruházások megvalósítására irányuló szakminiszteri szándék felülvizsgálatot követő további fennállása esetén az érintett szakminiszterek az adott beruházást az állami építési beruházások rendjéről szóló törvényben foglaltaknak megfelelően előkészítendő szakpolitikai-ágazati beruházási koncepciójában szerepeltessék;
 
@@ -466,7 +466,7 @@ b) felhívja az építési és közlekedési minisztert, hogy vizsgálja meg a S
 
 | Határidő: | 2024. július 1. |
 
-c) visszavonja az 1388/2017. (VI. 27.) Korm. határozat 1. pont c)–e) alpontját, 2. pont a), b) és d) alpontját, 3. pontját, 4. pont b)–e) alpontját, 5. pontját, 6. pont c) alpontját, valamint 7. pontját;
+c) [^8]
 
 d) egyetért azzal, hogy az a) és b) alpontban foglalt, valamint a c) alpont szerint visszavonással érintett beruházások megvalósítására irányuló szakminiszteri szándék felülvizsgálatot követő további fennállása esetén az érintett szakminiszterek az adott beruházást az állami építési beruházások rendjéről szóló törvényben foglaltaknak megfelelően előkészítendő szakpolitikai-ágazati beruházási koncepciójában szerepeltessék;
 
@@ -514,7 +514,7 @@ c) felhívja a honvédelmi minisztert, hogy – az építési és közlekedési 
 
 | Határidő: | 2024. július 1. |
 
-d) visszavonja az 1151/2017. (III. 20.) Korm. határozat 1. pont b) és c) alpontját, 2. pont b) alpontját, 3. pont b) alpontját, 4. pont a)–d) alpontját, 5. pontját, 6. pont c) alpontját és 7. pontját;
+d) [^9]
 
 e) egyetért azzal, hogy az a)–c) alpontban foglalt, valamint a d) alpont szerint visszavonással érintett beruházások megvalósítására irányuló szakminiszteri szándék felülvizsgálatot követő további fennállása esetén az érintett szakminiszterek az adott beruházást az állami építési beruházások rendjéről szóló törvényben foglaltaknak megfelelően előkészítendő szakpolitikai-ágazati beruházási koncepciójában szerepeltessék;
 
@@ -546,7 +546,7 @@ c) felhívja az építési és közlekedési minisztert, hogy vizsgálja meg az 
 
 | Határidő: | 2024. július 1. |
 
-d) visszavonja az 1383/2015. (VI. 12.) Korm. határozat 3. pontját;
+d) [^10]
 
 e) egyetért azzal, hogy az a)–c) alpontban foglalt, valamint a d) alpont szerint visszavonással érintett beruházások megvalósítására irányuló szakminiszteri szándék felülvizsgálatot követő további fennállása esetén az érintett szakminiszterek az adott beruházást az állami építési beruházások rendjéről szóló törvényben foglaltaknak megfelelően előkészítendő szakpolitikai-ágazati beruházási koncepciójában szerepeltessék;
 
@@ -584,7 +584,7 @@ f) a d) alpontban foglaltak megvalósítása érdekében felhívja az építési
 
 | Határidő: | 2024. július 1. |
 
-g) visszavonja az 1159/2016. (IV. 5.) Korm. határozat 1., 6. és 7. pontját;
+g) [^11]
 
 h) egyetért azzal, hogy az a), c)–f) alpontban foglalt, valamint a g) alpont szerint visszavonással érintett beruházások megvalósítására irányuló szakminiszteri szándék felülvizsgálatot követő további fennállása esetén az érintett szakminiszterek az adott beruházást az állami építési beruházások rendjéről szóló törvényben foglaltaknak megfelelően előkészítendő szakpolitikai-ágazati beruházási koncepciójában szerepeltessék;
 
@@ -608,7 +608,7 @@ c) az 1428/2015. (VI. 25.) Korm. határozat 3. pont c) alpontjában foglalt szol
 
 | Határidő: | 2023. december 31. |
 
-d) visszavonja az 1428/2015. (VI. 25.) Korm. határozat 3. pont b) alpontját és 6. pontját;
+d) [^12]
 
 e) egyetért azzal, hogy a d) alpont szerint visszavonással érintett beruházások megvalósítására irányuló szakminiszteri szándék felülvizsgálatot követő további fennállása esetén az érintett szakminiszterek az adott beruházást az állami építési beruházások rendjéről szóló törvényben foglaltaknak megfelelően előkészítendő szakpolitikai-ágazati beruházási koncepciójában szerepeltessék;
 
@@ -630,7 +630,7 @@ b) felhívja az építési és közlekedési minisztert, hogy vizsgálja meg a G
 
 | Határidő: | 2024. július 1. |
 
-c) visszavonja az 1936/2015. (XII. 12.) Korm. határozat 2. pontját és 6. pont c) alpontját;
+c) [^13]
 
 d) egyetért azzal, hogy az a) és b) alpontban foglalt, valamint a c) alpont szerint visszavonással érintett beruházások megvalósítására irányuló szakminiszteri szándék felülvizsgálatot követő további fennállása esetén az érintett szakminiszterek az adott beruházást az állami építési beruházások rendjéről szóló törvényben foglaltaknak megfelelően előkészítendő szakpolitikai-ágazati beruházási koncepciójában szerepeltessék;
 
@@ -654,7 +654,7 @@ c) az 1240/2016. (V. 13.) Korm. határozat 1. pont a) alpontjában foglaltaktól
 
 | Határidő: | 2024. július 1. |
 
-d) visszavonja az 1240/2016. (V. 13.) Korm. határozat 1. pont b) alpontját, 4. pont b) alpontját, 6. pontját, 8. pontját és 10. pontját;
+d) [^14]
 
 e) egyetért azzal, hogy a b) és c) alpontban foglalt, valamint a d) alpont szerint visszavonással érintett beruházások megvalósítására irányuló szakminiszteri szándék felülvizsgálatot követő további fennállása esetén az érintett szakminiszterek az adott beruházást az állami építési beruházások rendjéről szóló törvényben foglaltaknak megfelelően előkészítendő szakpolitikai-ágazati beruházási koncepciójában szerepeltessék;
 
@@ -694,7 +694,7 @@ e) a veszprémi stadion rekonstrukciójának érdekében az 1284/2016. (VI. 7.) 
 
 | Határidő: | 2024. július 1. |
 
-f) visszavonja az 1284/2016. (VI. 7.) Korm. határozat 1. pont c) alpontját, valamint 4. pont a) és c) alpontját;
+f) [^15]
 
 g) egyetért azzal, hogy az a), b) és d) alpontban foglalt, valamint az f) alpont szerint visszavonással érintett beruházások megvalósítására irányuló szakminiszteri szándék felülvizsgálatot követő további fennállása esetén az érintett szakminiszterek az adott beruházást az állami építési beruházások rendjéről szóló törvényben foglaltaknak megfelelően előkészítendő szakpolitikai-ágazati beruházási koncepciójában szerepeltessék;
 
@@ -775,3 +775,19 @@ d) egyetért azzal, hogy az a)–c) alpontban foglalt beruházás megvalósítá
 | Felelős: | érintett miniszterek |
 
 | Határidő: | 2024. július 1. |
+
+[^1]: A 3. pont b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 5. pont b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 6. pont g) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 7. pont f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 8. pont d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 9. pont f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 12. pont b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 13. pont c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 15. pont d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 16. pont d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 17. pont g) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 18. pont d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 19. pont c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 20. pont d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 21. pont f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
