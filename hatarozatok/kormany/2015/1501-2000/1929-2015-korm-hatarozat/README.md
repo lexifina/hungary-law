@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1929-30
 | 2016-01-01 | 2015-1929-30-22.1 | 1929/2015. (XII. 12.) Korm. határozat |
 | 2016-01-02 | 2015-1929-30-22.2 | 2010: CXXX. törvény |
 | 2017-01-12 | 2015-1929-30-22.3 | 1011/2017. (I. 11.) Korm. határozat |
+| 2023-11-03 | 2015-1929-30-22.4 | 1473/2023. (XI. 2.) Korm. határozat |
