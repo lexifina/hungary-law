@@ -12,13 +12,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Gazdaságfejlesztési és Innovációs Operatív Program éves fejlesztési keretének megállapításáról szóló 1006/2016. (I. 18.) Korm. határozat 1. melléklet 2. („A kutatás, technológiai fejlesztés és innováció című 2. prioritás”) pontjában foglalt táblázat
-
-## a) C:7 mezőjében a „91,70” szövegrész helyébe a „90,53” szöveg,
-
-## b) C:9 mezőjében a „29,37” szövegrész helyébe a „30,54” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1476/2023. (XI. 2.) Korm. határozathoz
 
@@ -27,3 +21,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (forint) | Többlet- támogatás legfeljebb (forint) | Megnövelt támogatás legfeljebb (forint) | Projekt rövid bemutatása |
 
 | 2. | GINOP-2.3.1-20-2020-00002 | Pilot kutatólaboratórium létrehozása a Debreceni Egyetemen | Debreceni Egyetem | 3 999 999 999 | 1 168 393 284 | 5 168 393 283 | A projekt keretében pilot kutatólaboratórium kerül létrehozásra a Debreceni Egyetemen, melyben két jól elkülönített kutató termelő területen, Prokarióta (elősejtes) és Eukarióta (sejtes) kísérletek végzésére kerül sor. |
+
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
