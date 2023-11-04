@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-488-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2023-11-03 | 2023-488-20-22.1 | 488/2023. (XI. 2.) Korm. rendelet |
+| 2023-11-04 | 2023-488-20-22.2 | 2010. évi CXXX. törvény |
