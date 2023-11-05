@@ -1,5 +1,5 @@
 ## 22. Módosuló rendelkezések
 
-48. §[^63]
+48. §[^68]
 
-[^63]: A 48. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^68]: A 48. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

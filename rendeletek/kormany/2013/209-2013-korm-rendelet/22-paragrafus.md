@@ -29,3 +29,7 @@ k) az útdíjszolgáltató által kezelt adatok fajtái, tárolásuk és esetleg
 l) a díjfizetés és a számlázás módja és ideje, a díjnak a díjfizetésre kötelezett igénye szerinti előre történő megfizetésére vonatkozó szabályok,
 
 m) a felügyeleti szerv neve, címe, telefonszáma.
+
+n)[^47] Az utólagos díjfizetési rendből az előrefizetéses díjfizetési rendbe és az előrefizetéses díjfizetési rendből az utólagos díjfizetési rendbe történő átsorolás feltételeit, ha az útdíjszolgáltató az általa nyújtott szolgáltatásokat előrefizetéses módon és utólagos fizetés mellett is biztosítja.
+
+[^47]: A 22. § (3) bekezdés n) pontját a 490/2023. (XI. 2.) Korm. rendelet 4. § (2) bekezdése iktatta be.
