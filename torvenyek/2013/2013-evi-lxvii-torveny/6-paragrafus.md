@@ -30,4 +30,12 @@ feladatokat lát el.
 
 (9) Az egyetemes útdíjszolgáltató azonos feltételekkel köteles szerződést kötni a külön jogszabályban foglalt követelményeknek megfelelő bevallási közreműködőkkel.
 
-(10) Az útdíjszolgáltató az úthasználati jogosultság ellenértékének kiegyenlítésére üzemanyagkártya elfogadását biztosíthatja az úthasználók számára. Az egyetemes útdíjszolgáltató azonos feltételekkel köteles szerződést kötni az e törvény végrehajtására kiadott jogszabályban foglaltak szerint az üzemanyagkártya-kibocsátókkal.
+(10) Az útdíjszolgáltató az általa nyújtott szolgáltatásokat előrefizetéses módon és utólagos fizetés mellett biztosíthatja.
+
+(11) Az egyetemes útdíjszolgáltató az útdíjfizetés lehetséges módjára vonatkozóan a szerződött díjfizetővel a (10) bekezdésben foglaltaktól eltérő egyedi megállapodást köthet.
+
+(12) Ha az egyetemes útdíjszolgáltató az általa nyújtott szolgáltatásokat utólagos fizetés mellett is nyújtja, fizetési közreműködőt vehet igénybe annak érdekében, hogy a szerződött díjfizető az utólagos fizetési kötelezettségét a fizetési közreműködőn keresztül teljesítse az egyetemes útdíjszolgáltató felé.
+
+(13) Az egyetemes útdíjszolgáltató azonos feltételekkel köt szerződést az e törvény végrehajtására kiadott rendeletben foglalt követelményeknek megfelelő fizetési közreműködőkkel.
+
+(14) Az egyetemes útdíjszolgáltató a fizetési közreműködő közreműködésével beszedett útdíjnak az e törvény felhatalmazása alapján kiadott rendeletben meghatározott hányadával egyező mértékű átalány-költségtérítést fizet a fizetési közreműködőnek.

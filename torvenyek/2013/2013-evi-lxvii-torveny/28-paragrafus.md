@@ -44,6 +44,8 @@ r) állapítsa meg a 8/A. § és 8/B. § szerinti állami kezesség, valamint a 
 
 s) állapítsa meg az egyetemes útdíjszolgáltató és a szerződött díjfizető közötti szerződés megszüntetésének, valamint a felek közötti elszámolás részletes szabályait.
 
+t) állapítsa meg a fizetési közreműködő igénybevételének részletes szabályait, a fizetési közreműködővel szemben támasztott követelményeket, valamint a fizetési közreműködőkkel történő szerződéskötés alapvető szabályait.
+
 (2) Felhatalmazást kap a miniszter, hogy
 
 a) rendeletben állapítsa meg a törvény hatálya alá tartozó, díjfizetési kötelezettséggel érintett utakat és díjköteles elemi útszakaszokat, valamint a 6. § (2a) bekezdése szerinti útdíjköteles elemi útszakaszok körét, továbbá az ezen útdíjköteles elemi útszakaszokon az úthasználati jogosultság keletkezésének és fennállásának különös szabályait;
@@ -58,4 +60,4 @@ e) rendeletben jelölje ki a tanúsító szervet,
 
 f)
 
-(3) Felhatalmazást kap az útdíjfizetési-szolgáltatásért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben az útdíjszedő által az útdíjszolgáltatóknak fizetendő átalány-költségtérítés mértékét és számításának módját, és az egyetemes útdíjszolgáltató által a bevallási közreműködők és a viszonteladók részére fizetendő átalány-költségtérítés mértékét és számításának módját rendeletben határozza meg.
+(3) Felhatalmazást kap az útdíjfizetési-szolgáltatásért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben az útdíjszedő által az útdíjszolgáltatóknak fizetendő átalány-költségtérítés mértékét és számításának módját, és az egyetemes útdíjszolgáltató által a bevallási közreműködők, a viszonteladók és a fizetési közreműködők részére fizetendő átalány-költségtérítés mértékét és számításának módját rendeletben határozza meg.

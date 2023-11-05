@@ -83,3 +83,5 @@
 40. útdíj megállapításával összefüggő adatok: az útdíjszedő által meghatározott olyan információk, amelyek egy adott gépjárműre vonatkozó útdíj megállapításához, kivetéséhez és beszedéséhez szükségesek;
 
 41. útdíjból származó bevétel: az útdíjakból származó valamennyi bevételnek az útdíjszedési, egyetemes útdíjszolgáltatói, útdíjellenőrzési, útdíjellenőrzés-támogatói rendszer működtetése és fenntartása, valamint az azokhoz kapcsolódó – különösen műszaki szakmai, pénzügyi, számviteli és jogi – tevékenységek pénzügyi fedezetének biztosításával kapcsolatban felmerült indokolt költségekkel – a Kormány által rendeletben meghatározottak alapján – csökkentett összege.
+
+73. fizetési közreműködő: az egyetemes útdíjszolgáltató által egyes szolgáltatásainak utólagos fizetés mellett történő igénybevételével összefüggő feladatai teljesítéséhez igénybe vehető, szerződött közreműködő.
