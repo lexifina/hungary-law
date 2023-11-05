@@ -1,3 +1,3 @@
-243. §[^171]
+243. §[^182]
 
-[^171]: A 243. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^182]: A 243. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

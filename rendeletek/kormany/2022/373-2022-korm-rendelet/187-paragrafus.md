@@ -22,7 +22,7 @@ j) a projekt szintű elkülönített számviteli nyilvántartás vezetését,
 
 k) a projektben vállalt műszaki szakmai tartalom teljesülését,
 
-l)[^104] a kettős finanszírozás elkerülésére, az összeférhetetlenségre, valamint a csalás és a korrupció tilalmára vonatkozó előírások teljesülését.
+l)[^111] a kettős finanszírozás elkerülésére, az összeférhetetlenségre, valamint a csalás és a korrupció tilalmára vonatkozó előírások teljesülését.
 
 (2) Az elszámoló bizonylatok ellenőrzése történhet mintavételezés alapján, a nemzeti hatóság által előzetesen jóváhagyott módszertan szerint.
 
@@ -30,4 +30,4 @@ l)[^104] a kettős finanszírozás elkerülésére, az összeférhetetlenségre,
 
 (4) A nemzeti hatóság az általa végzett helyszíni ellenőrzésről készített jegyzőkönyvet, továbbá az intézkedési tervek teljesüléséről szóló végső kedvezményezetti tájékoztatót rögzíti a monitoring és információs rendszerben.
 
-[^104]: A 187. § (1) bekezdés l) pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 29. pontja szerint módosított szöveg.
+[^111]: A 187. § (1) bekezdés l) pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 29. pontja szerint módosított szöveg.

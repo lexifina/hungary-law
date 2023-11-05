@@ -12,8 +12,8 @@ e) 231. § (4) bekezdés a) pontja az az Európai Unió működéséről szóló
 
 f) 231. § (1) bekezdés f) pontja, (2) bekezdés c) pontja, (3) bekezdés d) pontja, (4) bekezdés b) pontja, (5) bekezdés i) pontja, valamint (6) bekezdés c) pontja az „Állami támogatási intézkedésekre vonatkozó ideiglenes keret a gazdaságnak a jelenlegi COVID19-járvánnyal összefüggésben való támogatása céljából” című, C(2020) 1863 számú, 2021. március 19-i európai bizottsági közlemény 3.1. szakasza
 
-g)[^167] 231. § (1) bekezdés i) pontja „Az állami támogatásokra vonatkozó, az Ukrajna elleni orosz invázióval összefüggésben a gazdaság támogatását célzó ideiglenes válságkeret” című, 2022/C 426/01. számú európai bizottsági közlemény
+g)[^178] 231. § (1) bekezdés i) pontja „Az állami támogatásokra vonatkozó, az Ukrajna elleni orosz invázióval összefüggésben a gazdaság támogatását célzó ideiglenes válságkeret” című, 2022/C 426/01. számú európai bizottsági közlemény
 
 hatálya alá tartozó támogatást tartalmaz.
 
-[^167]: A 239. § g) pontját az 571/2022. (XII. 23.) Korm. rendelet 8. §-a iktatta be.
+[^178]: A 239. § g) pontját az 571/2022. (XII. 23.) Korm. rendelet 8. §-a iktatta be.

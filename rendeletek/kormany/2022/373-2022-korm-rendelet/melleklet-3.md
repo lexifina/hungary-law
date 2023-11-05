@@ -1,3 +1,3 @@
-3. melléklet a 373/2022. (IX. 30.) Korm. rendelethez[^186]
+3. melléklet a 373/2022. (IX. 30.) Korm. rendelethez[^198]
 
-[^186]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^198]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

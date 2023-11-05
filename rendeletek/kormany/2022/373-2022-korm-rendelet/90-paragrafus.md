@@ -18,7 +18,7 @@ f) az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban:
 
 g) hitelintézet által kiállított – készfizető kezességvállalást tartalmazó – kötelezvény.
 
-h)[^60] valamennyi – jogszabály alapján beszedési megbízással megterhelhető – fizetési számlára vonatkozó, a támogató javára szóló beszedési megbízás benyújtására vonatkozó felhatalmazó nyilatkozat a pénzügyi fedezethiány miatt nem teljesíthető fizetési megbízás esetére a követelés legfeljebb 35 napra való sorba állítására vonatkozó rendelkezéssel együtt.
+h)[^66] valamennyi – jogszabály alapján beszedési megbízással megterhelhető – fizetési számlára vonatkozó, a támogató javára szóló beszedési megbízás benyújtására vonatkozó felhatalmazó nyilatkozat a pénzügyi fedezethiány miatt nem teljesíthető fizetési megbízás esetére a követelés legfeljebb 35 napra való sorba állítására vonatkozó rendelkezéssel együtt.
 
 (3) A biztosítéki értéknek fedeznie kell legalább a kifizetési igénylésben igényelt és a már kifizetett támogatás együttes összegét.
 
@@ -26,19 +26,19 @@ h)[^60] valamennyi – jogszabály alapján beszedési megbízással megterhelhe
 
 (5) A végső kedvezményezett a kifizetési igénylésben igényelt támogatási összegnek megfelelően megemelt biztosíték rendelkezésre állását legkésőbb a kifizetési igénylés benyújtásával egyidejűleg igazolja. Ha a végső kedvezményezett az igazolást a kifizetési igénylés hiánypótlását követően sem nyújtja be, a kifizetési igénylést el kell utasítani. Ha a végső kedvezményezett a megemelt biztosíték rendelkezésre állását utóbb igazolja, az elutasított kifizetési igénylés ismételten benyújtható.
 
-(6)[^61] A záró kifizetési kérelemhez a biztosítéki értéket csak akkor kell kiegészíteni, ha az addig nyújtott biztosítéki érték nem éri el a végső kedvezményezett által a fenntartási időszakban nyújtandó biztosítéki értéket. Biztosíték legfeljebb a támogatás összegét elérő biztosítéki értékig kérhető.
+(6)[^67] A záró kifizetési kérelemhez a biztosítéki értéket csak akkor kell kiegészíteni, ha az addig nyújtott biztosítéki érték nem éri el a végső kedvezményezett által a fenntartási időszakban nyújtandó biztosítéki értéket. Biztosíték legfeljebb a támogatás összegét elérő biztosítéki értékig kérhető.
 
-(7)[^62] A biztosítéknak a fenntartási kötelezettség megszűnéséig rendelkezésre kell állnia.
+(7)[^68] A biztosítéknak a fenntartási kötelezettség megszűnéséig rendelkezésre kell állnia.
 
-(8)[^63] A biztosíték a biztosítéknyújtási kötelezettséggel érintett időszaknál rövidebb lejárattal is rendelkezésre bocsátható, azzal, hogy a végső kedvezményezettnek legalább negyvenöt nappal a biztosíték érvényességének lejárata előtt igazolnia kell a biztosíték meghosszabbítását vagy cseréjét.
+(8)[^69] A biztosíték a biztosítéknyújtási kötelezettséggel érintett időszaknál rövidebb lejárattal is rendelkezésre bocsátható, azzal, hogy a végső kedvezményezettnek legalább negyvenöt nappal a biztosíték érvényességének lejárata előtt igazolnia kell a biztosíték meghosszabbítását vagy cseréjét.
 
-(9)[^64] Ha a biztosíték mérsékelhető vagy megszüntethető, a nemzeti hatóság haladéktalanul kiadja az erre vonatkozó nyilatkozatot.
+(9)[^70] Ha a biztosíték mérsékelhető vagy megszüntethető, a nemzeti hatóság haladéktalanul kiadja az erre vonatkozó nyilatkozatot.
 
-(10)[^65] A biztosítéknyújtási kötelezettség megszűnése esetén a biztosíték megszüntetésének költsége a végső kedvezményezettet terheli.
+(10)[^71] A biztosítéknyújtási kötelezettség megszűnése esetén a biztosíték megszüntetésének költsége a végső kedvezményezettet terheli.
 
-[^60]: A 90. § (2) bekezdés h) pontját a 463/2022. (XI. 15.) Korm. rendelet 19. §-a iktatta be.
-[^61]: A 90. § (6) bekezdését a 154/2023. (IV. 27.) Korm. rendelet 5. §-a iktatta be.
-[^62]: A 90. § (7) bekezdését a 154/2023. (IV. 27.) Korm. rendelet 5. §-a iktatta be.
-[^63]: A 90. § (8) bekezdését a 154/2023. (IV. 27.) Korm. rendelet 5. §-a iktatta be.
-[^64]: A 90. § (9) bekezdését a 154/2023. (IV. 27.) Korm. rendelet 5. §-a iktatta be.
-[^65]: A 90. § (10) bekezdését a 154/2023. (IV. 27.) Korm. rendelet 5. §-a iktatta be.
+[^66]: A 90. § (2) bekezdés h) pontját a 463/2022. (XI. 15.) Korm. rendelet 19. §-a iktatta be.
+[^67]: A 90. § (6) bekezdését a 154/2023. (IV. 27.) Korm. rendelet 5. §-a iktatta be.
+[^68]: A 90. § (7) bekezdését a 154/2023. (IV. 27.) Korm. rendelet 5. §-a iktatta be.
+[^69]: A 90. § (8) bekezdését a 154/2023. (IV. 27.) Korm. rendelet 5. §-a iktatta be.
+[^70]: A 90. § (9) bekezdését a 154/2023. (IV. 27.) Korm. rendelet 5. §-a iktatta be.
+[^71]: A 90. § (10) bekezdését a 154/2023. (IV. 27.) Korm. rendelet 5. §-a iktatta be.

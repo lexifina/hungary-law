@@ -51,3 +51,10 @@ k) projektátadás esetén, előleg jogcímen, ha a projektátadó végső kedve
 (7) A nemzeti hatóság a követelés jóváhagyását követő öt napon belül megkísérli a követelés kompenzálását. A kompenzálás a még ki nem fizetett, azonos projektre vonatkozó, de elszámoló bizonylatokkal elszámolt és elfogadott támogatás követelésbe történő beszámítását jelenti. Konzorcium esetén kompenzálni csak a követeléssel érintett tag elszámolásaiból lehet.
 
 (8) Ha a követelés a kompenzálással nem teljesül, a további kompenzálás a végső kedvezményezett értesítése után vagy az Ávr. 99. §-ában foglaltak szerint részletfizetés engedélyezése esetén a futamidő alatt is lehetséges.
+
+(9)[^148] Amennyiben a követelés a 163. § (1) bekezdés a) pontja alapján került előírásra, a követelés törlésre kerül, ha a végső kedvezményezett a nemzeti hatóság által kiküldött felszólító levélben foglalt határidőn belül a 162. § szerinti határidőknek nem megfelelő szállítói előlegről szóló záradékolt számlát a nemzeti hatóság részére megküldi.
+
+(10)[^149] A követeléskezelést meg kell szüntetni, ha az előírás a 222. § (2) bekezdés i) pontja alapján történt, és a végső kedvezményezett a 162. § szerinti határidőknek nem megfelelő előlegszámlát határidőn túl, de a nemzeti hatóság által kiküldött felszólító levélben foglalt határidőn belül megküldi.
+
+[^148]: A 222. § (9) bekezdését a 497/2023. (XI. 2.) Korm. rendelet 5. §-a iktatta be.
+[^149]: A 222. § (10) bekezdését a 497/2023. (XI. 2.) Korm. rendelet 5. §-a iktatta be.

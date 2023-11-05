@@ -1,6 +1,6 @@
 ## 44. Az időközi kifizetés igénylése
 
-166. §[^92] (1) A végső kedvezményezett a támogatási szerződésben foglalt ütemezés szerinti projekt mérföldkövek elérését követő tizenöt napon belül kifizetési igényléssel egybekötött szakmai beszámolót nyújt be a projekt műszaki-szakmai előrehaladásának bemutatásával a projekt eredményességéről, valamint hatékonyságáról. A projekt mérföldkőben vállalt eredmények alátámasztását szolgáló dokumentumokat a szakmai beszámolóhoz kell csatolni.
+166. §[^99] (1) A végső kedvezményezett a támogatási szerződésben foglalt ütemezés szerinti projekt mérföldkövek elérését követő tizenöt napon belül kifizetési igényléssel egybekötött szakmai beszámolót nyújt be a projekt műszaki-szakmai előrehaladásának bemutatásával a projekt eredményességéről, valamint hatékonyságáról. A projekt mérföldkőben vállalt eredmények alátámasztását szolgáló dokumentumokat a szakmai beszámolóhoz kell csatolni.
 
 (2) A nemzeti hatóság a szakmai beszámoló ellenőrzése során az általa lefolytatott helyszíni ellenőrzés jegyzőkönyvének megállapításait, tényadatait is figyelembe veszi. A helyszíni ellenőrzési jegyzőkönyv – a helyszíni ellenőrzés során vizsgált dokumentumok tényleges csatolása nélkül is – alátámasztó dokumentumnak minősül, ha a helyszíni ellenőrzés során vizsgált dokumentumok körét és azok elfogadhatóságát tételesen tartalmazza.
 
@@ -20,4 +20,4 @@ e) az építési beruházások, valamint az építési beruházásokhoz kapcsol�
 
 (5) Szakmai beszámolóhoz kötött kifizetési igénylés esetén a támogatás folyósításának feltétele a szakmai beszámoló elfogadása, azzal, hogy a nemzeti hatóság a kifizetési igénylést elutasítja, ha a szakmai beszámoló benyújtása határidőben nem történt meg.
 
-[^92]: A 166. § a 154/2023. (IV. 27.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^99]: A 166. § a 154/2023. (IV. 27.) Korm. rendelet 9. §-ával megállapított szöveg.

@@ -32,11 +32,13 @@
 
 13. nyilvánvaló hiba: a támogatást igénylő vagy a végső kedvezményezett által a támogatási kérelemben vagy a kifizetési igénylésben szolgáltatott adat olyan egyértelmű hiánya vagy hibája, amely a támogatási kérelem vagy a kifizetési igénylés más adataiból vagy más, közvetlenül elérhető nyilvántartásból származó adatok alapján hiánypótlásra való felszólítás nélkül pótolható vagy javítható,
 
+13a.[^3] pénzügyi eszköz: az Unió általános költségvetésére alkalmazandó pénzügyi szabályokról, az 1296/2013/EU, az 1301/2013/EU, az 1303/2013/EU, az 1304/2013/EU, az 1309/2013/EU, az 1316/2013/EU, a 223/2014/EU és a 283/2014/EU rendelet és az 541/2014/EU határozat módosításáról, valamint a 966/2012/EU, Euratom rendelet hatályon kívül helyezéséről szóló, az Európai Parlament és a Tanács 2018. július 18-i (EU, Euratom) 2018/1046 rendelete 2. cikk 29. pontja szerinti támogatási intézkedés, ideértve az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alap Pluszra, a Kohéziós Alapra, az Igazságos Átmenet Alapra és az Európai Tengerügyi, Halászati és Akvakultúra-alapra vonatkozó közös rendelkezések, valamint az előbbiekre és a Menekültügyi, Migrációs és Integrációs Alapra, a Belső Biztonsági Alapra és a határigazgatás és a vízumpolitika pénzügyi támogatására szolgáló eszközre vonatkozó pénzügyi szabályok megállapításáról szóló, az Európai Parlament és a Tanács 2021. június 24-i (EU) 2021/1060 rendelete 58. cikk (5) bekezdése szerinti, egyetlen pénzügyi eszköz műveletben kombinált támogatást is,
+
 14. programterület: a HET elkészítéséhez és végrehajtásához kijelölt kiemelt terület,
 
 15. szabálytalansági gyanú: szabálytalanság elkövetésére utaló tények, körülmények vagy dokumentumok, amelyek alapján megalapozottan lehet következtetni a szabálytalanság tényállási elemeinek fennállására,
 
-16.[^3] szabálytalanság: az alkalmazandó nemzeti vagy uniós jognak a kedvezményezett vagy végső kedvezményezett cselekményéből vagy mulasztásából adódó bármilyen megsértése, ami az Európai Unió költségvetését, illetve Magyarország központi költségvetését arra rótt indokolatlan kiadás formájában sérti vagy sértheti,
+16.[^4] szabálytalanság: az alkalmazandó nemzeti vagy uniós jognak a kedvezményezett vagy végső kedvezményezett cselekményéből vagy mulasztásából adódó bármilyen megsértése, ami az Európai Unió költségvetését, illetve Magyarország központi költségvetését arra rótt indokolatlan kiadás formájában sérti vagy sértheti,
 
 17. támogatási megállapodás: a HET vissza nem térítendő támogatás felhasználására az Európai Bizottsággal az (EU) 2021/241 rendelet 23. cikk (1) bekezdése szerinti megállapodás,
 
@@ -44,4 +46,5 @@
 
 [^1]: A 2. § 10a. pontját a 154/2023. (IV. 27.) Korm. rendelet 1. §-a iktatta be.
 [^2]: A 2. § 10b. pontját a 154/2023. (IV. 27.) Korm. rendelet 1. §-a iktatta be.
-[^3]: A 2. § 16. pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 1. pontja szerint módosított szöveg.
+[^3]: A 2. § 13a. pontját a 497/2023. (XI. 2.) Korm. rendelet 1. §-a iktatta be.
+[^4]: A 2. § 16. pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 1. pontja szerint módosított szöveg.

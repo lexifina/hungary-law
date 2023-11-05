@@ -32,15 +32,15 @@ h) egyéb, a végső kedvezményezett fizetésképtelenségével összefüggésb
 
 indult, vagy van folyamatban.
 
-(4)[^99] A nemzeti hatóság a köztartozás-mentességet a pénzügyi lebonyolítás során egyszer, a támogatásnak az előirányzat-felhasználási keretszámláról történő kifizetése előtt vizsgálja.
+(4)[^106] A nemzeti hatóság a köztartozás-mentességet a pénzügyi lebonyolítás során egyszer, a támogatásnak az előirányzat-felhasználási keretszámláról történő kifizetése előtt vizsgálja.
 
-(5)[^100] Ha a végső kedvezményezettnek köztartozása van, a nemzeti hatóság legfeljebb kilencvennapos határidő kitűzésével felhívja a köztartozás rendezésére.
+(5)[^107] Ha a végső kedvezményezettnek köztartozása van, a nemzeti hatóság legfeljebb kilencvennapos határidő kitűzésével felhívja a köztartozás rendezésére.
 
-(6)[^101] Ha a végső kedvezményezett az (5) bekezdés szerinti határidőben a köztartozását nem szünteti meg, a nemzeti hatóság a kifizetési kérelem alapján jóváhagyott támogatást nem fizeti ki.
+(6)[^108] Ha a végső kedvezményezett az (5) bekezdés szerinti határidőben a köztartozását nem szünteti meg, a nemzeti hatóság a kifizetési kérelem alapján jóváhagyott támogatást nem fizeti ki.
 
-(7)[^102] Szállítói finanszírozás, valamint engedményezés esetén a nemzeti hatóság az (1)–(6) bekezdés szerint vizsgálja a szállító, valamint az engedményes köztartozás-mentességét.
+(7)[^109] Szállítói finanszírozás, valamint engedményezés esetén a nemzeti hatóság az (1)–(6) bekezdés szerint vizsgálja a szállító, valamint az engedményes köztartozás-mentességét.
 
-[^99]: A 179. § (4) bekezdését a 154/2023. (IV. 27.) Korm. rendelet 12. §-a iktatta be.
-[^100]: A 179. § (5) bekezdését a 154/2023. (IV. 27.) Korm. rendelet 12. §-a iktatta be.
-[^101]: A 179. § (6) bekezdését a 154/2023. (IV. 27.) Korm. rendelet 12. §-a iktatta be.
-[^102]: A 179. § (7) bekezdését a 154/2023. (IV. 27.) Korm. rendelet 12. §-a iktatta be.
+[^106]: A 179. § (4) bekezdését a 154/2023. (IV. 27.) Korm. rendelet 12. §-a iktatta be.
+[^107]: A 179. § (5) bekezdését a 154/2023. (IV. 27.) Korm. rendelet 12. §-a iktatta be.
+[^108]: A 179. § (6) bekezdését a 154/2023. (IV. 27.) Korm. rendelet 12. §-a iktatta be.
+[^109]: A 179. § (7) bekezdését a 154/2023. (IV. 27.) Korm. rendelet 12. §-a iktatta be.

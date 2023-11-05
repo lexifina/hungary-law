@@ -1,4 +1,4 @@
-## IV/A. Fejezet[^88]
+## IV/A. Fejezet[^94]
 
 ## ADATSZOLGÁLTATÁS, BESZÁMOLÁS, MONITORING
 
@@ -6,4 +6,4 @@
 
 136. § Az adatszolgáltatás és beszámolás rendjét a nemzeti hatóság határozza meg az Ávr.-ben, valamint a 137–141. §-ban foglaltak figyelembevételével.
 
-[^88]: Az IV/A. Fejezet címét a 463/2022. (XI. 15.) Korm. rendelet 21. §-a iktatta be.
+[^94]: Az IV/A. Fejezet címét a 463/2022. (XI. 15.) Korm. rendelet 21. §-a iktatta be.
