@@ -1,0 +1,1 @@
+3. § A Hatóság hatósági ellenőrzés keretében vizsgálja a beszámoló készítési kötelezettség teljesítését. A hatósági ellenőrzéshez a Hatóság elnökének megkeresésére a Magyar Bírósági Végrehajtói Kar a Vht. 250. § (2) bekezdése szerinti feladatkörében adatot szolgáltat.
