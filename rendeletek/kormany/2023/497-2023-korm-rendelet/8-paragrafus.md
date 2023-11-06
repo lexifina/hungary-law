@@ -1,7 +1,3 @@
-8. § Az R.
+8. §[^9]
 
-a) 9. § (8) bekezdés a) pontjában a „szerződés” szövegrész helyébe a „megállapodás” szöveg,
-
-b) 9. § (8) bekezdés b) pontjában a „szerződésben” szövegrész helyébe a „megállapodásban” szöveg
-
-lép.
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
