@@ -1,3 +1,3 @@
-7. § A Vhr. 28. § (2) bekezdése helyébe a következő rendelkezés lép:
+7. §[^8]
 
-„(2) Az egyetemes útdíjszolgáltató ügyfélszolgálati irodáiban biztosítja az (1) bekezdés c), e), f), valamint h)–n) pontjában meghatározott szolgáltatások elérhetőségét. Az egyetemes útdíjszolgáltató ügyfélszolgálati irodáiban igénybe vehető fizetési módokat az egyetemes útdíjszolgáltató az általános szerződési feltételeiben határozza meg.”
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

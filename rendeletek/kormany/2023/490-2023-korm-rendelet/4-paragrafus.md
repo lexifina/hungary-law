@@ -1,7 +1,6 @@
-4. § (1)[^3]
+4. § (1)[^4]
 
-(2) A Vhr. 22. § (3) bekezdése a következő n) ponttal egészül ki:
+(2)[^5]
 
-[Az (1) bekezdés szerinti általános szerződési feltételeknek legalább az alábbiakat kell tartalmaznia:]
-
-[^3]: A 4. § (1) bekezdése a 13. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^4]: A 4. § (1) bekezdése a 13. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^5]: A 4. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

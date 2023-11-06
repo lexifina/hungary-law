@@ -1,3 +1,3 @@
-8. § A Vhr. 16. alcíme a következő 30. §-sal egészül ki:
+8. §[^9]
 
-„30. § Az egyetemes útdíjszolgáltató meghatározhatja azt az időtartamot, amelynek elteltével felmondhatja azon szerződött díjfizetővel hatályban lévő szerződését, akinek egyenlegén nem történik forgalmazás.”
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
