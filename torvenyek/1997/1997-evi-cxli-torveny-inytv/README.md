@@ -75,3 +75,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-141-00-00
 | 2023-06-24 | 2023. évi XXXIX. törvény | 1997-141-00-00.92 |
 | 2023-09-01 | 2023. évi XXXIX. törvény | 1997-141-00-00.93 |
 | 2023-09-28 | 2023. évi LXI. törvény | 1997-141-00-00.94 |
+| 2023-11-08 | 2023. évi LXIX. törvény | 1997-141-00-00.95 |
