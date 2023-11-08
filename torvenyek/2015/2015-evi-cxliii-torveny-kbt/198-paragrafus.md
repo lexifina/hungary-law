@@ -46,11 +46,13 @@
 
 21. a tömeges bevándorlás okozta válsághelyzettel összefüggő intézkedésekhez kapcsolódó beszerzésekre vonatkozó sajátos szabályokat;
 
-22. a felelős akkreditált közbeszerzési szaktanácsadók tevékenységére, a felelős akkreditált közbeszerzési szaktanácsadói tevékenység feltételét képező közbeszerzési gyakorlatra és annak igazolására, a felelős akkreditált közbeszerzési szaktanácsadók nyilvántartásba vételére, a nyilvántartásba vétel folyamatára, a felelős akkreditált közbeszerzési szaktanácsadók névjegyzékére, annak vezetésére, a névjegyzékbe vétel feltételeire, a felelős akkreditált közbeszerzési szaktanácsadók szakmai testületére, valamint a felelős akkreditált közbeszerzési szaktanácsadói tevékenység feltételét képező felelősségbiztosításra vonatkozó szabályokat;
+22. az állami közbeszerzési szaktanácsadók tevékenységére, az állami közbeszerzési szaktanácsadói tevékenység feltételét képező közbeszerzési gyakorlatra és annak igazolására, az állami közbeszerzési szaktanácsadók nyilvántartásba vételére, a nyilvántartásba vétel folyamatára, az állami közbeszerzési szaktanácsadók névjegyzékére, annak vezetésére, a névjegyzékbe vétel feltételeire, a közbeszerzési tanácsadók szakmai testületére, valamint az állami közbeszerzési szaktanácsadói tevékenység feltételét képező felelősségbiztosításra vonatkozó szabályokat;
 
 23. a közétkeztetés tárgyú közbeszerzések – e törvénytől ezen eljárások sajátosságai miatt szükséges eltérő – sajátos szabályait.
 
 24. az ideiglenes védelemre jogosultként elismert személyek ellátásával összefüggő egyes beszerzések sajátos, szükség esetén e beszerzések sajátosságai miatt e törvénytől eltérő szabályait.
+
+25. a 197/E. § (2) bekezdés szerinti ajánlatkérői kört.
 
 (2) Felhatalmazást kap a közbeszerzésekért felelős miniszter, hogy rendeletben szabályozza
 
@@ -58,7 +60,7 @@ a) a hirdetmények és a közbeszerzési terv megküldésének, feladásának é
 
 b) a hirdetmények, és a bírálati összegezések mintáját, a hirdetmények egyes tartalmi elemeit, a közbeszerzési terv minimális adattartalmát;
 
-c) a felelős akkreditált közbeszerzési szaktanácsadók névjegyzékbe vételéért fizetendő – az adópolitikáért felelős miniszter egyetértésével megállapított – igazgatási szolgáltatási díj mértékére, a díj beszedésére, kezelésére, nyilvántartására, visszatérítésére, valamint a névjegyzékbe történő felvételért, a bejegyzés megújításáért, illetve a névjegyzékbe bejelentett adatok kiegészítéséért fizetendő igazgatási szolgáltatási díj mértékére, kezelésére, nyilvántartására, visszatérítésére vonatkozó szabályokat;
+c) az állami közbeszerzési szaktanácsadók névjegyzékbe vételéért fizetendő – az adópolitikáért felelős miniszter egyetértésével megállapított – igazgatási szolgáltatási díj mértékére, a díj beszedésére, kezelésére, nyilvántartására, visszatérítésére, valamint a névjegyzékbe történő felvételért, a bejegyzés megújításáért, illetve a névjegyzékbe bejelentett adatok kiegészítéséért fizetendő igazgatási szolgáltatási díj mértékére, kezelésére, nyilvántartására, visszatérítésére vonatkozó szabályokat;
 
 d) az EKR használatáért fizetendő szolgáltatási díjjal, az EKR használatáért fizetendő díj befizetésének elmulasztása esetén a rendszer üzemeltetője által alkalmazható intézkedésekkel, az EKR fenntartásával és működtetésével kapcsolatos sajátos szabályokat;
 

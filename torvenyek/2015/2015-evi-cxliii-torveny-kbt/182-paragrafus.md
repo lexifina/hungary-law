@@ -22,7 +22,7 @@ h) a munkáltatók országos érdekképviseletei és az országos gazdasági kam
 
 i) a Magyar Mérnöki Kamara elnöke és a Magyar Építész Kamara elnöke által közösen kijelölt személy;
 
-j) a felelős akkreditált közbeszerzési szaktanácsadók szakmai testülete által kijelölt személy;
+j) a közbeszerzési tanácsadók szakmai testülete által kijelölt személy;
 
 k) az innovációért felelős miniszter által kijelölt személy;
 

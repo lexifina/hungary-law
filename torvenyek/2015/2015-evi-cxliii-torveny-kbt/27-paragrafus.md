@@ -2,7 +2,7 @@
 
 (2) Ha az ajánlatkérő nem rendelkezik általános jellegű, az (1) bekezdésnek megfelelő közbeszerzési szabályzattal, vagy a szabályzattól – az abban meghatározott módon – való eltérés feltételei fennállnak, legkésőbb az adott közbeszerzési eljárás előkészítését megelőzően kell meghatároznia az (1) bekezdésben foglaltakat.
 
-(3) A közbeszerzési eljárás előkészítése, a felhívás és a közbeszerzési dokumentumok elkészítése, valamint az ajánlatok értékelése során és az eljárás más szakaszában az ajánlatkérő nevében eljáró, illetve az eljárásba bevont személyeknek és szervezeteknek együttesen rendelkezniük kell a közbeszerzés tárgya szerinti szakmai, közbeszerzési, jogi és pénzügyi szakértelemmel. Az ajánlatkérő köteles felelős akkreditált közbeszerzési szaktanácsadót bevonni
+(3) A közbeszerzési eljárás előkészítése, a felhívás és a közbeszerzési dokumentumok elkészítése, valamint az ajánlatok értékelése során és az eljárás más szakaszában az ajánlatkérő nevében eljáró, illetve az eljárásba bevont személyeknek és szervezeteknek együttesen rendelkezniük kell a közbeszerzés tárgya szerinti szakmai, közbeszerzési, jogi és pénzügyi szakértelemmel. Az 5. § (1) bekezdés a) és b) pontja szerinti ajánlatkérő, valamint az 5. § (1) bekezdés c) pont ca) és cb) alpontja szerinti szervezet – a helyi önkormányzati költségvetési szerv és a nemzetiségi önkormányzati költségvetési szerv kivételével – köteles állami közbeszerzési szaktanácsadót bevonni
 
 a) árubeszerzés és szolgáltatás megrendelése esetén az uniós értékhatárt elérő értékű közbeszerzési eljárásba,
 
@@ -12,7 +12,9 @@ c) a részben vagy egészben európai uniós forrásból megvalósuló közbesze
 
 d) keretmegállapodás alapján történő, az a)–b) pontban meghatározott értékű beszerzés megvalósításába.
 
-(3a) Az ajánlatkérő – a (3) bekezdéstől eltérően – nem köteles felelős akkreditált közbeszerzési szaktanácsadót bevonni a keretmegállapodás alapján történő, ajánlatkérő általi közvetlen megrendelés esetén.
+(3a) Az ajánlatkérő – a (3) bekezdéstől eltérően – nem köteles az állami közbeszerzési szaktanácsadót bevonni a keretmegállapodás alapján történő, ajánlatkérő általi közvetlen megrendelés esetén.
+
+(3b) Az állami közbeszerzési szaktanácsadó az őt foglalkoztató ajánlatkérő engedélyével más ajánlatkérővel közbeszerzési szakértelem biztosítása céljából megbízási jogviszonyt létesíthet.
 
 (4) Az ajánlatkérő a (3) bekezdésben meghatározott szakértelemmel együttesen rendelkező, legalább háromtagú bírálóbizottságot köteles létrehozni az ajánlatoknak – szükség esetén a hiánypótlás, felvilágosítás vagy indokolás [71–72. §] megadását követő – e törvény szerinti elbírálására és értékelésére. A bírálóbizottság írásbeli szakvéleményt és döntési javaslatot készít az eljárást lezáró döntést meghozó személy vagy testület részére. A bírálóbizottsági munkáról jegyzőkönyvet kell készíteni, amelynek – amennyiben az ajánlatkérő alkalmaz ilyet – részét képezhetik a tagok indokolással ellátott bírálati lapjai.
 

@@ -14,6 +14,8 @@ b) a szerződés teljesítéséhez igénybe venni kívánt gyártót, forgalmaz�
 
 c) építési beruházás esetén az építőanyag-eladót;
 
+2a. állami közbeszerzési szaktanácsadó: az 5. § (1) bekezdés a) és b) pontja szerinti ajánlatkérő, valamint az 5. § (1) bekezdés c) pont ca) alpontja és – a helyi önkormányzati költségvetési szerv és a nemzetiségi önkormányzati költségvetési szerv kivételével – cb) alpontja szerinti szervezet által foglalkoztatott személy, aki járulékos közbeszerzési feladatot lát el az őt foglalkoztató ajánlatkérő számára;
+
 3. címke: olyan dokumentum, bizonyítvány vagy tanúsítvány, amely igazolja, hogy az adott építmény, termék, szolgáltatás, folyamat vagy eljárás megfelel bizonyos követelményeknek;
 
 4. címkézési követelmény(ek): az a követelmény, amelyet az adott építménynek, terméknek, szolgáltatásnak, folyamatnak vagy eljárásnak teljesítenie kell a kérdéses címke megszerzéséhez;
@@ -72,7 +74,7 @@ c) amely a közszolgáltató ajánlatkérővel közösen egy másik vállalkozá
 
 24. közbeszerzési szerződés: e törvény szerinti ajánlatkérő által, írásban megkötött, árubeszerzésre, szolgáltatás megrendelésre vagy építési beruházásra irányuló visszterhes szerződés;
 
-24a. közbeszerzési szolgáltató: olyan szervezet vagy személy, amely járulékos közbeszerzési szolgáltatást kínál a piacon, különösen a felelős akkreditált közbeszerzési szaktanácsadó;
+24a. közbeszerzési szolgáltató: olyan szervezet vagy személy, amely járulékos közbeszerzési szolgáltatást kínál a piacon;
 
 25. központi beszerző szerv: a központosított közbeszerzés során ajánlatkérésre feljogosított szervezet;
 

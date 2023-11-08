@@ -24,4 +24,4 @@ d) a hiányzó közbeszerzési dokumentumok az ügyfél nyilatkozatával nem pó
 
 (6) A Közbeszerzési Döntőbizottság az e törvény alkalmazása alóli kivételekkel kapcsolatos jogorvoslat során nem vizsgálhatja felül az Országgyűlés illetékes bizottságának e törvény alkalmazása alóli felmentést eredményező döntését. Törvény ilyen tartalmú rendelkezése esetén a Közbeszerzési Döntőbizottság hatáskörébe tartozhat a védelmi és biztonsági tárgyú, továbbá a minősített adatot, illetve alapvető biztonsági, nemzetbiztonsági érdeket érintő vagy különleges biztonsági intézkedést igénylő beszerzésre, beszerzési eljárásra vonatkozó jogszabályok megsértése miatt indult eljárás lefolytatása.
 
-(7) A Közbeszerzési Döntőbizottság előtti jogorvoslati eljárásban a felelős akkreditált közbeszerzési szaktanácsadói, kamarai jogtanácsosi vagy ügyvédi képviselet kötelező.
+(7) A Közbeszerzési Döntőbizottság előtti jogorvoslati eljárásban az állami közbeszerzési szaktanácsadói, kamarai jogtanácsosi vagy ügyvédi képviselet kötelező.

@@ -14,7 +14,7 @@ ac) a gazdasági szereplők közbeszerzési eljárás alapján vállalt szerződ
 
 ad) a kizáró ok hatálya alatt álló gazdasági szereplő megbízhatóságát megállapító határozatokat [188. § (4) bekezdés],
 
-ae) a felelős akkreditált közbeszerzési szaktanácsadók névjegyzékét;
+ae) az állami közbeszerzési szaktanácsadók névjegyzékét;
 
 b) nyilvántartást vezet a közbeszerzésekről;
 
@@ -86,21 +86,21 @@ y) a honlapján közzéteszi az IPI rendelet 6. cikk (1) bekezdése szerinti vé
 
 (11) A Hatóság (2) bekezdés a) pont aa) és ab) alpontja szerinti eljárásában vagy annak előkészítésében nem vehet részt olyan személy, akinek az eljárással érintettekhez személyi vagy vagyoni érdekeltsége fűződik. Ezzel az összeférhetetlenségi okkal érintett személy a Hatóság elnökének köteles ezt haladéktalanul bejelenteni, és köteles a folyamatban levő eljárásban vagy előkészítésében való részvételét azonnal megszüntetni. A kérelmező, illetve az érintett minősített ajánlattevő a Hatóság határozatát közigazgatási perben megtámadhatja a határozat kézhezvételétől számított tizenöt napon belül. A bíróság ítélete ellen fellebbezésnek nincs helye.
 
-(12) A Hatóság a felelős akkreditált közbeszerzési szaktanácsadók névjegyzékének vezetése céljából jogosult a felelős akkreditált közbeszerzési szaktanácsadó természetes személyazonosító adatait, elérhetőségi címét, végzettségét, a cselekvőképességére és büntetett előéletre vonatkozó adatokat, a munkáltatóra és a felelős akkreditált közbeszerzési szaktanácsadó közbeszerzési gyakorlatára vonatkozó adatokat, valamint azt nyilvántartani, hogy a felelős akkreditált közbeszerzési szaktanácsadó jogosult-e az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény 2. § (1) bekezdésében meghatározott tevékenység folytatására.
+(12) A Hatóság az állami közbeszerzési szaktanácsadók névjegyzékének vezetése céljából jogosult az állami közbeszerzési szaktanácsadó természetes személyazonosító adatait, elérhetőségi címét, végzettségét, a cselekvőképességére és büntetett előéletre vonatkozó adatokat, a munkáltatóra és az állami közbeszerzési szaktanácsadó közbeszerzési gyakorlatára vonatkozó adatokat, valamint azt nyilvántartani, hogy az állami közbeszerzési szaktanácsadó jogosult-e az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény 2. § (1) bekezdésében meghatározott tevékenység folytatására.
 
-(13) A Hatóság a (12) bekezdésben foglalt adatokat a felelős akkreditált közbeszerzési szaktanácsadó jegyzékből történő törlését követően egy évig kezelheti. Törölni kell a névjegyzékből a felelős akkreditált közbeszerzési szaktanácsadót,
+(13) A Hatóság a (12) bekezdésben foglalt adatokat az állami közbeszerzési szaktanácsadó jegyzékből történő törlését követően egy évig kezelheti. Törölni kell a névjegyzékből az állami közbeszerzési szaktanácsadót,
 
 a) ha nem felel meg a jogszabályban meghatározott bejegyzési feltételeknek,
 
-b) ha a (14) bekezdésben foglalt valamely kizáró ok bekövetkezik vagy jogerős határozattal megállapították, hogy a felelős akkreditált közbeszerzési szaktanácsadó ilyen minőségében szándékos jogszabálysértést követett el,
+b) ha a (14) bekezdésben foglalt valamely kizáró ok bekövetkezik vagy jogerős határozattal megállapították, hogy az állami közbeszerzési szaktanácsadó ilyen minőségében szándékos jogszabálysértést követett el,
 
 c) ha a névjegyzékbe vétel hatálya lejárt és a névjegyzékbe vétel hatályának lejárta előtt nem nyújtottak be megújítási kérelmet vagy azt elutasították, illetve az eljárást megszüntették,
 
-d) ha azt a felelős akkreditált közbeszerzési szaktanácsadó kéri, vagy
+d) ha azt az állami közbeszerzési szaktanácsadó kéri, vagy
 
 e) a névjegyzékben szereplő személy halála esetén.
 
-(14) Nem lehet felelős akkreditált közbeszerzési szaktanácsadó, aki
+(14) Nem lehet állami közbeszerzési szaktanácsadó, aki
 
 a) cselekvőképtelen vagy cselekvőképességében részlegesen korlátozott;
 
@@ -116,4 +116,4 @@ d) a Közbeszerzési Hatóság elnöke.
 
 (17) A névjegyzékbe vétel iránti kérelmet írásban kell előterjeszteni. A hatósági eljárás során az elektronikus kapcsolattartás kötelező. A kérelem kormányablaknál nem terjeszthető elő. A névjegyzékbe vétel feltételeinek igazolásához benyújtandó dokumentumok az ügyfél nyilatkozatával nem pótolhatóak.
 
-(18) A Hatóság (12) bekezdés szerinti eljárásában vagy annak előkészítésében nem vehet részt olyan személy, akinek az eljárással érintettekhez személyi vagy vagyoni érdekeltsége fűződik. Ezzel az összeférhetetlenségi okkal érintett személy a Hatóságnak köteles ezt haladéktalanul bejelenteni, és köteles a folyamatban levő eljárásban vagy előkészítésében való részvételét azonnal megszüntetni. A kérelmező, illetve az érintett felelős akkreditált közbeszerzési szaktanácsadó a Hatóság határozatát annak kézhezvételétől számított tizenöt napon belül támadhatja meg. A bíróság ítélete ellen fellebbezésnek nincs helye.
+(18) A Hatóság (12) bekezdés szerinti eljárásában vagy annak előkészítésében nem vehet részt olyan személy, akinek az eljárással érintettekhez személyi vagy vagyoni érdekeltsége fűződik. Ezzel az összeférhetetlenségi okkal érintett személy a Hatóságnak köteles ezt haladéktalanul bejelenteni, és köteles a folyamatban levő eljárásban vagy előkészítésében való részvételét azonnal megszüntetni. A kérelmező, illetve az érintett állami közbeszerzési szaktanácsadó a Hatóság határozatát annak kézhezvételétől számított tizenöt napon belül támadhatja meg. A bíróság ítélete ellen fellebbezésnek nincs helye.
