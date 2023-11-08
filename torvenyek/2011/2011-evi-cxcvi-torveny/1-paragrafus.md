@@ -23,3 +23,5 @@ g) állami vagy helyi önkormányzati fenntartású közgyűjtemény (muzeális 
 h) a régészeti lelet,
 
 i) a nemzeti adatvagyon körébe tartozó állami nyilvántartások fokozottabb védelméről szóló törvény szerinti nemzeti adatvagyon.
+
+(3) A (2) bekezdés szerinti nemzeti vagyon kezelésének és védelmének – állami építési beruházások során irányadó – szabályait külön törvény állapítja meg.

@@ -32,6 +32,8 @@ n) a hulladékról szóló törvény szerinti állami hulladékgazdálkodási k�
 
 o) az a)–n) pontban nem szereplő, az állam kizárólagos tulajdonába tartozó dolog létrehozása és működtetése.
 
+p) a külön törvény szerinti állami építési beruházás.
+
 (2) A helyi önkormányzat kizárólagos gazdasági tevékenységei a következők:
 
 a) a helyi közutak és műtárgyaik létrehozása és működtetése,
