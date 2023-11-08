@@ -1,0 +1,3 @@
+65. § (1) A miniszter e törvényben meghatározott feladatkörére tekintettel az Áht. 11/F. §-a alapján bekövetkezett jogállásváltozás esetén a jogállásváltozással érintett foglalkoztatott illetményének, valamint bérének éves összege nem lehet kevesebb annál, mint amekkora összegre a foglalkoztatott munkabérként – a teljesítménybért is ideértve – a megszűnő társaságnál az átvétel napját megelőző nap évében jogosult volt azzal, hogy az nem haladhatja meg a kormányzati igazgatásról szóló törvény szerinti legmagasabb besorolási kategóriához tartozó illetménysávba eső illetmény összegét.
+
+(2) Az (1) bekezdés szerinti foglalkoztatott béren kívüli juttatásának megállapítására és mértékére a kormányzati igazgatásról szóló törvény rendelkezései az irányadóak.

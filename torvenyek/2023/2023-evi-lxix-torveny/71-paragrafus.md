@@ -1,0 +1,1 @@
+71. § Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 16. § a) pontjában a „tulajdonjog, illetőleg” szövegrész helyébe a „tulajdonjog, építtetői tulajdonosi joggyakorlásra vonatkozó jog, valamint” szöveg lép.

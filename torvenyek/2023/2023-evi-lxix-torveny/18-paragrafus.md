@@ -1,0 +1,1 @@
+18. § A keretprogramban szereplő költségbecslés alapján az uniós közbeszerzési értékhatárt meg nem haladó becsült értékű állami építési beruházás esetén a lebonyolító feladatait a műszaki ellenőr is elláthatja.

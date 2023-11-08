@@ -1,0 +1,1 @@
+34. § Közösségi célokat szolgáló, közhasználatú beruházás esetén a beruházás becsült értékének legalább 3 ezrelékét a beruházással szervesen összefüggő, vagy annak környezetében elhelyezkedő – elsősorban, de nem kizárólagosan kortárs – képzőművészeti és iparművészeti alkotások megvalósítására kell fordítani.

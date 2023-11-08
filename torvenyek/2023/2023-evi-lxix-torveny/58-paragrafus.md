@@ -1,0 +1,1 @@
+58. § A miniszter a vízgazdálkodásról szóló 1995. évi LVII. törvény (a továbbiakban: Vgtv.) 3. § (2) bekezdés b) pontjában foglalt kivételekre figyelemmel ellátja a Vgtv. 3. § (2a) bekezdésében meghatározott, vízimunkák és vízilétesítmények műszaki tervezésével, előkészítésével és megvalósításával összefüggő feladatokat.
