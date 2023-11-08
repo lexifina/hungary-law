@@ -1,0 +1,1 @@
+7. § Ha az igazoláson szereplő közbeszerzési eljárás az EKR vagy a központosított közbeszerzés keretében kötött keretmegállapodás alapján vagy dinamikus beszerzési rendszer alapján történő beszerzések esetén a központi beszerző szerv honlapján nem szerepel, az adott közbeszerzési eljárás vagy tevékenység a kérelmező gyakorlatának igazolásaként nem fogadható el.

@@ -1,0 +1,5 @@
+11. § (1) A közbeszerzési eljárások teljes körű lebonyolítása körében egy adott közbeszerzési eljárás előkészítésével és lefolytatásával kapcsolatban kifejtett, 1. § 5. pont a) alpontja szerinti különböző tevékenységek a közbeszerzési gyakorlattal szemben a 9. §-ban támasztott követelmények teljesítése szempontjából a névjegyzékbe vétel során a kérelmező tekintetében csak egyszer vehetők figyelembe.
+
+(2) Egy közbeszerzési eljárással kapcsolatos jogorvoslati eljárással összefüggő képviseleti tevékenység jogorvoslati szakaszonként külön-külön figyelembe vehető, azzal, hogy ugyanazon közbeszerzési eljárással kapcsolatos jogorvoslati tevékenység egy kérelmező szempontjából csak egyszer vehető figyelembe.
+
+(3) Az (1) és (2) bekezdésben foglaltaktól eltérően, ha az állami közbeszerzési szaktanácsadó a névjegyzékbe vételét az azt követő egy éven belül kéri, hogy a Hatóság a 3. § (2) bekezdése szerinti okból törölte a névjegyzékből, a 9. § (1) bekezdése vagy a 10. § szerinti közbeszerzési tevékenységet a névjegyzékbe vételkor akkor is kérheti figyelembe venni, ha azokra egy korábbi névjegyzékbe vétel vagy a bejegyzés megújítása során már hivatkozott.

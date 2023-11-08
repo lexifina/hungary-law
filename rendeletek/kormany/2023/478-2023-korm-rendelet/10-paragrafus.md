@@ -1,0 +1,1 @@
+10. § A kérelmezőnek nem szükséges a 9. §-ban meghatározott közbeszerzési eljárások teljes körű lebonyolítását igazolnia, ha a kérelem benyújtását megelőző három éven belül legalább ötven közbeszerzési eljárás tekintetében az 1. § 5. pont a) alpontja szerinti közbeszerzési tevékenységre vagy ellenőrzési tevékenységre vonatkozó referenciával igazoltan rendelkezik.
