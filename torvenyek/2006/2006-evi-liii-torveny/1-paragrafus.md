@@ -1,29 +1,33 @@
 ## A törvény hatálya
 
-1. § (1) A törvény hatálya az egyes,
+1. § (1) A törvény hatálya a részben vagy egészben európai uniós támogatást, továbbá a részben vagy egészben központi költségvetési támogatást felhasználó azon beruházásokra terjed ki, amely
 
-a) részben vagy egészben európai uniós támogatásból megvalósítandó,
+a) honvédelmi, nemzetbiztonsági vagy rendvédelmi célú és rendeltetésű építmény,
 
-b) részben vagy egészben központi költségvetési támogatásból megvalósítandó,
+b) környezetvédelmi, oktatási, kulturális, egészségügyi és szociális, valamint az oktatáshoz és egészségügyhöz kötődő kutatás-fejlesztési és innovációs célok megvalósítását elősegítő építmény,
 
-c) a koncessziós, illetve az egyes kizárólagos állami tevékenységek gyakorlása jogának átengedése érdekében lefolytatott árverési és pályázati eljárások keretében létrejött szerződések alapján megvalósítandó és ahhoz szorosan kapcsolódó, összesen legalább öt milliárd forint teljes költségigényű,
+c) közcélú nyomvonalas építmény,
 
-d) részben vagy egészben egyedi kormánydöntéssel megítélt támogatásból megvalósítandó,
+d) egyházi és nemzetiségi célú és rendeltetésű építmény,
 
-e) legalább 90 millió forint teljes költségigényű és legalább 15 új munkahely megteremtését biztosító,
+e) az energetika terén az ellátásbiztonságot érintő építmény,
 
-f) környezetvédelmi, kutatás-fejlesztési, oktatási, valamint egészségügyi és szociális célok megvalósítását elősegítő,
+f) a Budapest és az agglomeráció fejlesztésével összefüggő állami feladatokról, valamint egyes fejlesztések megvalósításáról, továbbá egyes törvényeknek a Magyarország filmszakmai támogatási programjáról szóló SA.50768 számú Európai Bizottsági határozattal összefüggő módosításáról szóló 2018. évi XLIX. törvény (a továbbiakban: Budapest tv.) III–III/B. Fejezetében meghatározott beruházások,
 
-g) kiemelt nemzeti emlékhely fenntartásához, bemutatásához, fejlesztéséhez szorosan kapcsolódó, vagy
+g) a kiemelt nemzeti emlékhelyen és annak külön jogszabály szerinti településkép-védelmi környezetében, továbbá nemzeti és történelmi emlékhelyen megvalósuló építmény,
 
-h) nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő műemlékek és műemlékegyüttesek, továbbá a világörökségi területen lévő műemlékek és műemlékegyüttesek fenntartásához, felújításához, fejlesztéséhez szorosan kapcsolódó,
+h) nemzetgazdasági szempontból stratégiai fontosságú, a kormánnyal stratégiai megállapodást kötött gazdálkodó szervezet által tervezett építmény, vagy
 
-i) az épített környezet alakításáról és védelméről szóló törvény szerinti rozsdaövezeti akcióterületen megvalósítandó, valamint a rozsdaövezeti akcióterület fejlesztésének előkészítését szolgáló vagy azt elősegítő,
+i) az a)–h) pont alá nem tartozó, legalább 10 milliárd forint teljes költségigényű és legalább 50 új munkahely megteremtését biztosító beruházás
 
-j) szénhidrogén-kutatáshoz és -termeléshez kapcsolódó
-
-nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósítására, valamint az azokkal összefüggő, a Kormány által rendeletben meghatározott közigazgatási hatósági ügyekben (a továbbiakban: kiemelt jelentőségű ügy) indult eljárásokra és e törvény szerinti egyéb eljárásokra terjed ki.
+megvalósítására irányul és azt az 1/A. §-ban foglaltak szerint kiemelt beruházássá és a kiemelt beruházással összefüggő közigazgatási hatósági ügyeket kiemelt jelentőségű üggyé nyilvánították.
 
 (1a) A kisajátításról szóló törvény hatálya alá tartozó kisajátítási eljárás nem nyilvánítható kiemelt jelentőségű üggyé.
 
+(1b) A törvény hatálya kiterjed a szénhidrogén-kutatáshoz és -termeléshez kapcsolódó kiemelt beruházások megvalósítására és az azokkal összefüggő kiemelt jelentőségű ügyekre is.
+
+(1c) Az (1) és (1b) bekezdés szerinti kiemelt beruházások nemzetgazdasági szempontból kiemelt jelentőségű beruházásnak, a kiemelt beruházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű ügynek minősülnek. Az (1) bekezdés a)–g) pontja, valamint az (1b) bekezdés szerinti közcélú kiemelt beruházásokra az (1) bekezdés h) és i) pontja szerinti magáncélú kiemelt beruházásokhoz képest a törvény eltérő szabályokat is megállapít.
+
 (2) A kiemelt jelentőségű ügyekben az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló jogszabály és az ügyfajtára vonatkozó különös hatósági eljárási szabályok rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni.
+
+(3) Az (1) bekezdés szerinti kiemelt beruházások az általános építmények mellett az Étv. szerinti sajátos építményfajták megvalósítását is magukban foglalják.

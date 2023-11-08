@@ -8,39 +8,23 @@
 
 (4) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
-a) a kiemelten közérdekű beruházást, a kiemelten közérdekű beruházás helyszínét és közvetlen környezetét, valamint a kiemelten közérdekű beruházás során építési tevékenységgel érintett telek közvetlen környezetébe tartozó, az építési tevékenység költséghatékony elvégzéséhez szükséges közterület használatának feltétlenül szükséges időtartamát,
+a) a kiemelt jelentőségű ügyek körét, a kiemelt beruházások körét, a kiemelt beruházás helyszínét és közvetlen környezetét, valamint az 1. § (1) bekezdés a)–g) pontja és az 1. § (1b) bekezdése szerinti kiemelt beruházás esetében az építési tevékenységgel érintett telek közvetlen környezetébe tartozó, az építési tevékenység költséghatékony elvégzéséhez szükséges közterület használatának feltétlenül szükséges időtartamát,
 
-b) a kiemelten közérdekű beruházás megvalósításával összefüggő sajátos településrendezési és beépítési szabályokat, egyedi építési követelményeket, sajátos telekalakítási követelményeket, egyedi településképi követelményeket, egyedi örökségvédelmi szabályokat, a fás szárú növények védelmére vonatkozó szabályokat, valamint a felszín alatti vizek és a földtani közeg kármentesítésével összefüggő hatósági eljárások különös eljárási szabályait, a kármentesítés során a tényfeltárás, a beavatkozás és a kármentesítési monitoring egyedi szabályait,
+b) a kiemelt jelentőségű ügyben eljáró hatóság vagy hatóságok kijelölését,
 
-c) a 11/D. § (1) bekezdése szerinti különös eljárás szabályokat,
+c) a kiemelt jelentőségű ügyben a főispán feladat- és hatáskörét, a koordináció részletes eljárási szabályait,
 
-d) a kiemelten közérdekű beruházással kapcsolatos, a 11/C. § szerinti kártalanítás részletes szabályait,
+d) a kiemelt beruházás megvalósításával összefüggő, az általánostól eltérő területrendezési, településrendezési, építési és telekalakítási szabályokat, az 1. § (1) bekezdés a)–g) pontja és az 1. § (1b) bekezdése szerinti kiemelt beruházások esetében az örökségvédelmi szabályokat, tűzvédelmi követelményeket, környezetvédelmi és fás szárú növények védelmére vonatkozó követelményeket, valamint mindezekhez kapcsolódó eljárási szabályokat,
 
-e) a kiemelten közérdekű beruházáshoz közvetlenül kapcsolódó, közműszakaszt érintő munka elvégezésére és elszámolására a 11/F. §-ban foglaltak alkalmazását.
+e) az 1/C. § (2) bekezdésében foglalt esetekben a sajátos településrendezési, építési és telekalakítási követelményeket,
 
-(5) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg
+f) a kiemelt beruházással kapcsolatos, az 1/C. § (4) bekezdése szerinti kártalanítás részletes szabályait,
 
-a) a nemzetgazdasági szempontból kiemelt jelentőségű ügyek körét;
+g) a kiemelt beruházáshoz közvetlenül kapcsolódó, közműszakaszt érintő munka elvégzésére és elszámolására vonatkozó részletes szabályokat, valamint
 
-b) a nemzetgazdasági szempontból kiemelt jelentőségű ügyben eljáró hatóság vagy hatóságok kijelölését;
+h) a kiemelt jelentőségű ügyek vonatkozásában a beruházó tájékoztatási kötelezettségének részletes szabályait.
 
-c) a nemzetgazdasági szempontból kiemelt jelentőségű ügyben a főispán feladat- és hatáskörét, a koordináció részletes eljárási szabályait,
-
-d) a nemzetgazdasági szempontból kiemelt jelentőségű ügyben feladatkörrel rendelkező főispán kijelölését,
-
-e) a nemzetgazdasági szempontból kiemelt jelentőségű ügyek vonatkozásában a beruházó tájékoztatási kötelezettségének részletes szabályait,
-
-f) az intermodális csomópontok tekintetében fejlesztési közreműködőként eljárni jogosult szervezetet, a fejlesztési közreműködő feladatait és jogosultságait, valamint a fejlesztési közreműködő mint építtető által megvalósítandó intermodális csomópontok körét;
-
-g) a nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházáshoz kapcsolódó kiemelt jelentőségű ügyek körét, valamint szabályozza ezen ügyekben a b)–f) pontban meghatározottakat.
-
-h) a nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházáshoz megvalósításához szükséges területsávot vagy nyomvonalat.
-
-i) a közlekedési infrastruktúra-beruházással érintett közművek kiváltása során az eljáró hatóságot, a késedelmes vagy hibás, valamint a késedelmes és hibás kiváltása esetén alkalmazandó bírság mértékét, valamint a bírságolás során alkalmazandó szempontokat,
-
-j) a NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság, mint építtető által megvalósítandó intermodális csomópontok körét.
-
-k) a nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházások kapcsán kiváltásra vagy kiépítésre kerülő közművek elhelyezése érdekében a felszíni ingatlan korlátozására vonatkozó jogok tartalmával, engedélyezésével, megszűnésével és a kártalanítással kapcsolatos részletes szabályokat.
+(5)
 
 (6) Felhatalmazást kap a közigazgatás-szervezésért felelős miniszter, hogy rendeletben állapítsa meg a kiemelt jelentőségű ügyben eljáró hatóságok és szakhatóságok által a koordinációs feladatokat ellátó főispánok felé, továbbá a koordinációs feladatokat ellátó főispánok által a közigazgatás-szervezésért felelős miniszter és a Kormány tagjai felé teljesítendő, törvényben vagy kormányrendeletben előírt rendszeres és eseti jellegű jelentések, valamint tájékoztatások részletszabályait.
 

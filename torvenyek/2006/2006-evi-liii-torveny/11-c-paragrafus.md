@@ -1,9 +1,1 @@
-11/C. § (1) Amennyiben a 11/B. § (1) bekezdés a) pontja szerinti beépítési szabály, építési követelmény meghatározásából a tulajdonosnak, haszonélvezőnek kára származik, a tulajdonost, haszonélvezőt – az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott módon – egyösszegű, az Étv. 30. § (2) és (3) bekezdése szerinti kártalanítás illeti meg.
-
-(2) Nem jár kártalanítás az Étv. 30. § (5) bekezdésében rögzített esetekben.
-
-(3) A kártalanítási igény a vagyoni hátrány keletkezésekor válik esedékessé. A kártalanítás a felek megállapodásának tárgya. Ha a felek között – a kártalanítási igényt támasztó kérelmének benyújtásától számított egy éven belül – nem jön létre megállapodás, akkor kisajátítási kártalanítás szabályai szerinti kártalanítási eljárás lefolytatásának van helye.
-
-(4) A kártalanítás tárgyában hozott közigazgatási határozat elleni közigazgatási perre az Étv. 30. § (8) bekezdésében foglaltakat kell alkalmazni.
-
-(5) Ha az adott kiemelten közérdekű beruházásra vonatkozó 11/B. § (1) bekezdés a) pontja szerinti beépítési szabálynak, építési követelménynek megfelelő beépítést a szomszédos ingatlan építményének az ingatlan határvonalán átnyúló része akadályozza, a szomszédos ingatlan tulajdonosa az adott építményrész elbontását, átalakítását köteles elvégezni. Az elbontásról a kiemelten közérdekű beruházás építtetője és a szomszédos ingatlan tulajdonosa a költségek viselésére is kiterjedő módon megállapodnak. Amennyiben a megállapodás nem jön létre a felek között a szerződéskötésre vonatkozó ajánlat megtételétől számított 90 napon belül a Polgári Törvénykönyvről szóló 2013. évi V. törvény 6:71. §-a szerint, a felek bármelyike bírósághoz fordulhat és a megállapodást a bíróság ítéletével pótolja. A bíróság ítélete elleni fellebbezésnek az ítélet végrehajtására nincs halasztó hatálya.
+### 11/C. §

@@ -1,17 +1,17 @@
-11/F. § (1) Kiemelten közérdekű beruházáshoz közvetlenül kapcsolódóan közműszakasz bontása, kiváltása vagy fejlesztése (a továbbiakban együtt: a közműszakaszt érintő munka) esetében a törvény vagy kormányrendelet rendelkezhet arról, hogy a közműszakaszt érintő munkát a (2)–(7) bekezdésben foglaltak alapján kell elvégezni és elszámolni.
+11/F. § (1)
 
-(2) Az egységes elektronikus közműnyilvántartásról szóló kormányrendelet szerinti közműegyeztetést követően a kiemelten közérdekű beruházás építtetője (e § tekintetében a továbbiakban: építtető) köteles írásban értesíteni a kiemelten közérdekű beruházással érintett közmű tulajdonosát és üzemeltetőjét arról, hogy a beruházás során mely közműszakasz bontása, kiváltása vagy fejlesztése szükséges.
+(2)
 
-(3) Az építtető a közműszakaszt érintő munka elvégzésére vagy elvégeztetésére a körülmények és a műszaki szükségesség által indokolt mértékű – a közmű tulajdonosa számára biztosított, legalább 10 napos határidőn belül adott véleménye figyelembevételével –, 180 napnál nem rövidebb határidőt határoz meg. A közmű tulajdonosa az egyeztetett, egyetértés hiányában az építtető által meghatározott határidőn belül köteles a közműszakaszt érintő munkát elvégezni vagy elvégeztetni.
+(3)
 
-(4) Ha a közmű tulajdonosa a közműszakaszt érintő munkát a (3) bekezdés szerinti véleménye szerint nem kívánja elvégezni vagy elvégeztetni, és az építtetővel másképp nem állapodik meg, akkor az építtető jogosult a közműszakaszt érintő munkát megfelelő szakmai képesítéssel rendelkező vállalkozóval elvégeztetni, amit a közmű tulajdonosa tűrni köteles. A közmű tulajdonosa jogosult a munkát ellenőrizni, erre külön szakfelügyeletet biztosíthat.
+(4)
 
-(5) A közmű tulajdonosa által elvégzett, a közműszakaszt érintő munka indokolt költségeit az építtető a közmű tulajdonosának köteles megtéríteni. Ha a közműszakaszt érintő munkára a műszakilag feltétlenül szükséges mértéket meghaladóan került sor, akkor a műszakilag feltétlenül szükséges mértéket meghaladó munkák költségét a közmű tulajdonosa köteles megtéríteni, illetve viselni. Az építtető által létrehozott közmű – a közmű műszaki átadás-átvételi eljárása eredményes lezárását követően – e törvény erejénél fogva, ingyenesen, az építtető által nyilvántartott nyilvántartási értéken való átvezetéssel a (6) bekezdés szerinti közműtulajdonos tulajdonába – Budapesten a víziközmű az ellátásért felelős fővárosi önkormányzat tulajdonába – és a közmű üzemeltetőjének üzemeltetésébe kerül.
+(5)
 
-(6) Kiemelten közérdekű beruházás megvalósításához közvetlenül kapcsolódó útépítési, közmű-csatlakozási, fejlesztési, bontási és kiváltási munkák elvégzésével érintett vagyonelemek értékének változásával az építtető a beruházások teljes megvalósítását követően, a teljes beruházás időszakát figyelembe véve köteles elszámolni a beruházással érintett közművagyon-elemek tulajdonosával, Budapesten a víziközművek esetén az ellátásért felelős fővárosi önkormányzattal.
+(6)
 
-(7) A felek kötelesek a (2) bekezdés szerinti értesítést követően legkésőbb 90 napon belül megállapodást kötni – a teljes beruházási időszakban elvégzésre kerülő munkálatok figyelembevételével – az elszámolás feltételeiről, valamint a felmerülő terhek viselésének megosztásáról.
+(7)
 
-(8) Kiemelten közérdekű beruházás megvalósításával összefüggésben, az építmény rendeltetésszerű és biztonságos használhatósága, közszolgálati járművel, vagy gyalogosan történő megközelíthetőségének, valamint közhasználatú építmény esetén az akadálymentes módon történő megközelítésének biztosítása szempontjából, illetve a biztonságos kiürítés biztosíthatósága érdekében, a közterület és az építmény szintkülönbségének áthidalása (terepcsatlakozás) céljából az építtető által – a közterületre a feltétlenül szükséges mértékben – rámpa, lépcső, vagy egyéb szintemelés építéséhez nem szükséges tulajdonosi hozzájárulás.
+(8) A Budapest tv. III. Fejezete szerinti beruházás megvalósításával összefüggésben, az építmény rendeltetésszerű és biztonságos használhatósága, közszolgálati járművel, vagy gyalogosan történő megközelíthetőségének, valamint közhasználatú építmény esetén az akadálymentes módon történő megközelítésének biztosítása szempontjából, illetve a biztonságos kiürítés biztosíthatósága érdekében, a közterület és az építmény szintkülönbségének áthidalása (terepcsatlakozás) céljából az építtető által – a közterületre a feltétlenül szükséges mértékben – rámpa, lépcső, vagy egyéb szintemelés építéséhez nem szükséges tulajdonosi hozzájárulás.
 
 (9) Az építtető a (8) bekezdés szerint közterületen elhelyezett építményrészt az adott közterületre vonatkozó jogszabályi és építési követelményeknek megfelelően köteles megvalósítani. Az építtető vagy az ingatlan tulajdonosa, használója a (8) bekezdés szerint létrejött, közterületen elhelyezkedő építményrész tekintetében a beruházás befejezését követően a közhasználatot nem korlátozhatja, és a beruházást követően egyebekben az építményrészre a közterületre vonatkozó szabályokat kell alkalmazni.

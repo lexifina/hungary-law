@@ -1,11 +1,3 @@
-## A kiemelt jelentőségű ügyben eljáró hatóságok
+## A kiemelt jelentőségű ügyekre irányadó különös szabályok
 
-1/A. § (1) Kiemelt jelentőségű ügyben
-
-a) a Kormány által rendeletben kijelölt hatóság, ennek hiányában az a hatóság jár el, amely az adott ügyfajtára vonatkozó jogszabály szerint hatóságként jár el,
-
-b)
-
-(2)
-
-(3)
+1/A. § Kiemelt jelentőségű ügyben törvény vagy e törvény felhatalmazása alapján kiadott kormányrendelet állapítja meg – a kiemelt jelentőségű üggyé nyilvánítással egyidejűleg – a kiemelt beruházás helyszínét és közvetlen környezetét, valamint az 1. § (1) bekezdés a)–g) pontja és az 1. § (1b) bekezdése szerinti kiemelt beruházás esetén az építési tevékenységgel érintett telek közvetlen környezetébe tartozó, az építési tevékenység költséghatékony elvégzéséhez szükséges közterület használatának feltétlenül szükséges időtartamát.
