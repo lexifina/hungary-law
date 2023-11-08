@@ -22,6 +22,6 @@ b) a szerződésben rendelkezni kell településtervek véleményezési eljárá
 
 (5) A (3) bekezdés b) pontja szerinti szerződésben kikötött vagy vállalt kötelezettségek és a megvalósuló településrendezési cél között településfejlesztési vagy településrendezési összefüggésnek kell lennie. A településrendezési szerződésben a telek tulajdonosa vagy annak hozzájárulásával a beruházó által vállalt kötelezettségek teljesítése érdekében a településrendezési kötelezettség tényét a települési önkormányzat jegyzőjének megkeresésére a mellékelt szerződés alapján az ingatlan-nyilvántartásba fel kell jegyeztetni. A kötelezettség megszűnését követő 15 munkanapon belül az önkormányzat jegyzője megkeresi az ingatlanügyi hatóságot a tény törlése érdekében.
 
-(5a) Az (5) bekezdésben foglaltaktól eltérően a településrendezési kötelezettség tényét a nemzetgazdasági szempontból kiemelt közlekedési infrastruktúra-beruházások esetében az ingatlan-nyilvántartásba nem kell feljegyezni, ha a kisajátítási vázrajzok földhivatali záradékolása megtörtént vagy a végleges építési engedély rendelkezésre áll.
+(5a)
 
 (6) Törvény vagy törvény felhatalmazása alapján kiadott kormányrendelet eltérő rendelkezése hiányában az önkormányzat a szerződést a (3) bekezdés a) pontja szerinti esetben a települési önkormányzat képviselő-testületének döntésétől számított 30 napon belül írásban köti meg.

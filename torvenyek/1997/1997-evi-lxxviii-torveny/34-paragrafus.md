@@ -40,4 +40,4 @@ eljárásokat folytat, és jogszabályban meghatározott esetben és módon ép�
 
 (5) Az építésügyi hatóság tény, állapot, egyéb adat igazolása céljából az ingatlan adataiban bekövetkezett változásnak – jogszabályban meghatározottak szerinti – ingatlan-nyilvántartásban történő átvezetéséhez helyszíni szemle alapján hatósági bizonyítványt állít ki.
 
-(6) A nemzetgazdasági szempontból kiemelt jelentőségű beruházásokra, valamint a kiemelten közérdekű beruházásokra eltérő eljárási szabályok állapíthatók meg.
+(6) A nemzetgazdasági szempontból kiemelt jelentőségű beruházásokra eltérő eljárási szabályok állapíthatók meg.
