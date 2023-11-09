@@ -1,1 +1,3 @@
-4. § Hatályát veszti a felelős akkreditált közbeszerzési szaktanácsadók névjegyzékének vezetésével összefüggő hatósági eljárásért fizetendő igazgatási szolgáltatási díjról szóló 18/2018. (XII. 18.) MvM rendelet.
+4. §[^1]
+
+[^1]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
