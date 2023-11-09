@@ -42,7 +42,7 @@
 
 20. Budapest Főváros Önkormányzata
 
-## által delegált személy azzal, hogy a 2–20. pont szerinti szervezetek egy-egy fő jelölésére jogosultak.
+által delegált személy azzal, hogy a 2–20. pont szerinti szervezetek egy-egy fő jelölésére jogosultak.
 
 (3) A Tanács elnöke a miniszter.
 
