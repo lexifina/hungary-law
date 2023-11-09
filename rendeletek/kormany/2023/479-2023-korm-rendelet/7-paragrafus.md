@@ -1,1 +1,3 @@
-7. § Hatályát veszti a felelős akkreditált közbeszerzési szaktanácsadók kötelező közbeszerzési szakmai képzéséről szóló 217/2017. (VII. 31.) Korm. rendelet.
+7. §[^1]
+
+[^1]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
