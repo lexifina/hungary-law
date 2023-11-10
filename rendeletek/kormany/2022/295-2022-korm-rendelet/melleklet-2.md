@@ -24,12 +24,12 @@ A kedvezményre jogosultakról szóló értesítés adatai
 
 11. Az egyes egyetemes szolgáltatási árszabások meghatározásáról szóló 259/2022. (VII. 21.) Korm. rendelet 2. § (1) bekezdésében meghatározott kedvezményes villamosenergia-mennyiség felett vételezhető kedvezményes villamos energia mennyisége
 
-12.[^18] Arányosítás jelölés
+12.[^19] Arányosítás jelölés
 
-13.[^19] Visszaigazolási kód
+13.[^20] Visszaigazolási kód
 
-14.[^20] Jogosultság vége
+14.[^21] Jogosultság vége
 
-[^18]: A 2. melléklet 12. pontját a 348/2023. (VII. 27.) Korm. rendelet 5. §-a iktatta be.
-[^19]: A 2. melléklet 13. pontját a 348/2023. (VII. 27.) Korm. rendelet 5. §-a iktatta be.
-[^20]: A 2. melléklet 14. pontját a 348/2023. (VII. 27.) Korm. rendelet 5. §-a iktatta be.
+[^19]: A 2. melléklet 12. pontját a 348/2023. (VII. 27.) Korm. rendelet 5. §-a iktatta be.
+[^20]: A 2. melléklet 13. pontját a 348/2023. (VII. 27.) Korm. rendelet 5. §-a iktatta be.
+[^21]: A 2. melléklet 14. pontját a 348/2023. (VII. 27.) Korm. rendelet 5. §-a iktatta be.
