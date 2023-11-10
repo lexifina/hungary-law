@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-359-20-
 | 2019-01-04 | 2015-359-20-22.4 | 265/2018. (XII. 20.) Korm. rendelet |
 | 2020-07-31 | 2015-359-20-22.5 | 375/2020. (VII. 30.) Korm. rendelet |
 | 2022-11-01 | 2015-359-20-22.6 | 409/2022. (X. 24.) Korm. rendelet |
+| 2023-11-10 | 2015-359-20-22.7 | 474/2023. (X. 26.) Korm. rendelet |
