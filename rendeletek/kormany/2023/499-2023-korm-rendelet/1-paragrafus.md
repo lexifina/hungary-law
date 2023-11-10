@@ -1,0 +1,1 @@
+1. § Az egyes fogyasztók által használt gyógyászati segédeszközök villamosenergia-fogyasztásának támogatásáról szóló 295/2022. (VIII. 9.) Korm. rendelet 4. § (4) bekezdés b) pontjában a „2. § 1. pont b) alpontja” szövegrész helyébe a „2. § 1. pont b), illetve c) alpontja” szöveg lép.
