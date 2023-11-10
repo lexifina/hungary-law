@@ -6,15 +6,15 @@
 
 ## 4. Ha a gyakorlat jellege azt indokolja, az 1. pont szerinti engedély az 1. mellékletben meghatározott időtartamokon belül, a résztvevők – a vonatkozó összlétszám kereteit meg nem haladó – váltása érdekében történő, többszöri határátlépésére is vonatkozik.
 
-## 5. A Kormány hozzájárul ahhoz, hogy az 1. melléklet 1. pontjában foglalt táblázat 19., 20., 21., 59. sora, valamint az 1. melléklet 2. pontjában foglalt táblázat 6., 16., 30., 31., 44., 78. sora szerinti nemzetközi gyakorlat Magyarország területén – a vagyonkezelővel vagy a tulajdonossal való előzetes megállapodás függvényében – a Honvédelmi Minisztérium vagyonkezelésében lévő ingatlanon kívül is végrehajtható.
+## 5.[^2] A Kormány hozzájárul ahhoz, hogy az 1. melléklet 1. pontjában foglalt táblázat 19., 20., 21., 59. sora, valamint az 1. melléklet 2. pontjában foglalt táblázat 6., 14., 16., 30., 31., 44., 78. sora szerinti nemzetközi gyakorlat Magyarország területén – a vagyonkezelővel vagy a tulajdonossal való előzetes megállapodás függvényében – a Honvédelmi Minisztérium vagyonkezelésében lévő ingatlanon kívül is végrehajtható.
 
 ## 6. Ez a határozat 2023. január 1-jén lép hatályba.
 
-## 7.[^1]
+## 7.[^3]
 
-1. melléklet az 1583/2022. (XI. 30.) Korm. határozathoz[^2]
+1. melléklet az 1583/2022. (XI. 30.) Korm. határozathoz[^4]
 
-1.[^3] A Magyar Honvédség részvételével tervezett, külföldi fegyveres erők átvonulásával is járó NATO, EU gyakorlatok és kiképzési rendezvények
+1.[^5] A Magyar Honvédség részvételével tervezett, külföldi fegyveres erők átvonulásával is járó NATO, EU gyakorlatok és kiképzési rendezvények
 
 |  | A | B | C | D | E | F | G | H |
 
@@ -162,7 +162,7 @@
 
 | 72. | Quick Response 2023 | HVK ÖMVIK EUFOR-ALTHEA | Harcászati szintű gyakorlat / LIVEX | Bosznia-Hercegovina | III–IV. | 20 | – | – |
 
-2.[^4] A Magyar Honvédség és külföldi fegyveres erők részvételével tervezett, külföldi fegyveres erők átvonulásával is járó, két- és többoldalú megállapodásokon alapuló gyakorlatok és kiképzések
+2.[^6] A Magyar Honvédség és külföldi fegyveres erők részvételével tervezett, külföldi fegyveres erők átvonulásával is járó, két- és többoldalú megállapodásokon alapuló gyakorlatok és kiképzések
 
 |  | A | B | C | D | E | F | G | H |
 
@@ -192,7 +192,7 @@
 
 | 13. | BEDROCK | HVK LCSF | valós befogadó nemzeti támogatást megvalósító gyakorlat | A DEFENDER EUROPE 23 tervezése szerint NATO- és EU-tagállamok | I–IV. | 150 | 80 | – |
 
-| 14. | Belga térítéses gyakorlat | MH SZFP / MH TTP / HVK KIKCSF | térítéses gyakorlat | Magyarország | I–IV. | – | 200 | – |
+| 14.[^7] | Belga térítéses gyakorlat | HVK KIKCSF | térítéses gyakorlat | Magyarország | IV. | – | 500 | – |
 
 | 15. | BISON COUNTER | MH SZFP / MH HTP / MH AA | többnemzeti C-IED gyakorlat | NATO- és EU-tagállamok, Magyarország | IV. | 30 | 50 | – |
 
@@ -456,7 +456,9 @@
 
 | 9. | HQ MND-C által szervezett magyarországi gyakorlatok | I–IV. | 500 |
 
-[^1]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. melléklet az 1380/2023. (VIII. 30.) Korm. határozat 1. pontja szerint módosított szöveg.
-[^3]: Az 1. melléklet 1. pontja az 1069/2023. (III. 10.) Korm. határozat 1. pontjával megállapított szöveg.
-[^4]: Az 1. melléklet 2. pontja az 1069/2023. (III. 10.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: Az 5. pont az 1484/2023. (XI. 9.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 1. melléklet az 1380/2023. (VIII. 30.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^5]: Az 1. melléklet 1. pontja az 1069/2023. (III. 10.) Korm. határozat 1. pontjával megállapított szöveg.
+[^6]: Az 1. melléklet 2. pontja az 1069/2023. (III. 10.) Korm. határozat 1. pontjával megállapított szöveg.
+[^7]: Az 1. melléklet 2. pontjában foglalt táblázat 14. sora az 1484/2023. (XI. 9.) Korm. határozat 2. pontjával megállapított szöveg.
