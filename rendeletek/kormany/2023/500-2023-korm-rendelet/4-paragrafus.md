@@ -1,0 +1,1 @@
+4. § A villamos energiáról szóló 2007. évi LXXXVI. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 526/2022. (XII. 16.) Korm. rendelet 11. § (10) bekezdésében a „2023. november 11.” szövegrész helyébe a „2023. november 30.” szöveg lép.
