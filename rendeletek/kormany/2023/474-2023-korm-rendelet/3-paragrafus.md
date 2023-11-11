@@ -1,5 +1,3 @@
-3. § Hatályát veszti a Korm. rendelet
+3. §[^4]
 
-a) 1. § (2) bekezdés a) pontja és
-
-b) 6. § (1) bekezdése.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
