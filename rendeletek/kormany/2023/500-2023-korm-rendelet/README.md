@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-500-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2023-11-10 | 2023-500-20-22.1 | 500/2023. (XI. 9.) Korm. rendelet |
+| 2023-11-11 | 2023-500-20-22.2 | 519/2023. (XI. 30.) Korm. rendelet |
