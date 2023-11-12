@@ -8,7 +8,7 @@ a) az építtető tulajdonában lévő ingatlanon történő építési tevéken
 
 b) jogerős bírósági vagy végleges hatósági határozattal,
 
-c)[^6]
+c)[^6] nem az építtető tulajdonában lévő ingatlanon történő építési tevékenység végzése esetén az ingatlan tulajdonosának hozzájáruló nyilatkozatával,
 
 d) társasház esetében közgyűlési határozattal vagy
 
@@ -22,7 +22,7 @@ b)[^8] az 1. melléklet 2. pont 2.1–2.3. alpontja szerinti építmények épí
 
 (4)[^9] A (3) bekezdés b) pontja szerinti esetben az építtető idegen ingatlant az építés céljára akkor vehet igénybe, ha az ingatlan igénybevételére vonatkozó jogosultsággal rendelkezik.
 
-[^6]: A 6. § (2) bekezdés c) pontját a 17/2023. (VII. 31.) SZTFH rendelet 7. § b) pontja hatályon kívül helyezte.
+[^6]: A 6. § (2) bekezdés c) pontját a 17/2023. (VII. 31.) SZTFH rendelet 7. § b) pontja hatályon kívül helyezte, újonnan a 21/2023. (XI. 9.) SZTFH rendelet 1. §-a iktatta be.
 [^7]: A 6. § (3) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 25. §-ával megállapított szöveg.
 [^8]: A 6. § (3) bekezdés b) pontja a 6/2023. (II. 28.) SZTFH rendelet 1. § a) pontja szerint módosított szöveg.
 [^9]: A 6. § (4) bekezdését a 40/2022. (XII. 19.) SZTFH rendelet 25. §-a iktatta be.
