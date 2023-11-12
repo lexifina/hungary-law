@@ -10,7 +10,7 @@ határozat véglegessé válásának napjától kell számítani.
 
 (2) Az üzemszerű kitermelés megkezdésére előírt határidő meghosszabbítása iránti kérelmet az (1) bekezdés a) és b) pontja szerinti határidő lejárta előtt kell a bányafelügyelethez benyújtani.
 
-(3)[^41] A kérelem tartalmazza
+(3)[^47] A kérelem tartalmazza
 
 a) a meghosszabbítás időtartamának megjelölését és indokát,
 
@@ -28,7 +28,7 @@ b) a bányavállalkozó a bányajáradék bevallására vonatkozó kötelezetts�
 
 c) a bányavállalkozónak az üzemszerű kitermelés megkezdésének elmulasztása felróható.
 
-d)[^42] a (3) bekezdés d) pontja szerinti intézkedések nem alkalmasak az üzemszerű kitermelés megkezdésére.
+d)[^48] a (3) bekezdés d) pontja szerinti intézkedések nem alkalmasak az üzemszerű kitermelés megkezdésére.
 
 (5) A bányafelügyelet határozatában dönt a meghosszabbítás időtartamáról és a fizetendő térítés mértékéről.
 
@@ -48,5 +48,5 @@ b) ha a bányatelekben nyilvántartott kitermelhető ásványvagyon mennyisége 
 
 (11) A megállapított térítési díjat a bányászatról szóló 1993. évi XLVIII. törvény végrehajtásáról szóló 203/1998. (XII. 19.) Korm. rendelet (a továbbiakban: Bt. Vhr.) 4. § (5) bekezdésében foglalt gyakorisággal és időpontoknak megfelelően kell megfizetni.
 
-[^41]: A 27. § (3) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 37. § (1) bekezdésével megállapított szöveg.
-[^42]: A 27. § (4) bekezdés d) pontját a 40/2022. (XII. 19.) SZTFH rendelet 37. § (2) bekezdése iktatta be.
+[^47]: A 27. § (3) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 37. § (1) bekezdésével megállapított szöveg.
+[^48]: A 27. § (4) bekezdés d) pontját a 40/2022. (XII. 19.) SZTFH rendelet 37. § (2) bekezdése iktatta be.

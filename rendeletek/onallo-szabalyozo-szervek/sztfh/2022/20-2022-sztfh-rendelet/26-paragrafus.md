@@ -18,7 +18,7 @@ c) védendő létesítményenként, területenként a védő- és határpillére
 
 d) az alkalmazni tervezett bányaművelési technológiát,
 
-e) a megállapítandó bányatelekkel határos bányatelkek felsorolását,
+e)[^44]
 
 f) külfejtésre tervezett bányatelek esetében az ingatlan igénybevételi ütemtervről szóló döntést,
 
@@ -44,7 +44,7 @@ c) annak a haszonanyagként meghatározott ásványi nyersanyagnak az ásványi 
 
 (8) A véglegessé vált határozatot és a megállapított bányatelek térképét a bányafelügyelet záradékkal ellátva megküldi a kérelmezőnek, valamint szilárd ásványi nyersanyagra megállapított bányatelek esetén az ingatlanügyi hatóságnak, a bányatelek mint jogi jelleg ingatlan-nyilvántartásba történő feljegyzése céljából. Ha a megállapított bányatelek nem az egész ingatlant érinti, a határozathoz a bányafelügyelet mellékeli az ingatlan bányatelekkel érintett részét ábrázoló, közigazgatási határonként egy vagy több ingatlant is tartalmazó, az ingatlanügyi hatóság által záradékolt változási vázrajzot is.
 
-(9) A bányatelek módosítására irányuló eljárásban a bányatelek megállapítására vonatkozó szabályokat kell alkalmazni. Ha a módosítás a bányatelekben található ásványinyersanyag-besorolásának változtatására irányul, a módosításról az annak alapjául szolgáló földtani szakértő által ellenjegyzett készletszámítási jelentés alapján a bányafelügyelet dönt.
+(9)[^45] A bányatelek módosítására irányuló eljárásban a bányatelek megállapítására vonatkozó szabályokat kell alkalmazni. Ha a módosítás a bányatelekben található ásványinyersanyag-besorolásának változtatására irányul, a módosításról az annak alapjául szolgáló földtani szakértő által ellenjegyzett készletszámítási jelentés alapján a bányafelügyelet dönt. A készletszámítási jelentést a 11. § (1) bekezdése, (2) bekezdés f) pontja és a 11. § (3) bekezdés a) és b) pontja szerint kell elkészíteni.
 
 (10) Bányatelek megosztása esetén a létrejövő bányatelkek védnevében sorszámként a soron következő sorszámokat kell megadni, és a megosztott bányatelket a bányafelügyelet által vezetett nyilvántartásból törölni kell.
 
@@ -70,4 +70,8 @@ határozat véglegessé válásának napja.
 
 (16) A bányatelek jogosultja a nyilvántartásban szereplő azonosító adatainak változásáról harminc napon belül értesíti a bányafelügyeletet.
 
-(17) A bányatelek akkor törölhető, ha a területen a bányászattal összefüggő környezetkárosodást felszámolták, valamint – mélyműveléses bányatelek esetében – a felszínt veszélyeztető talajmozgás nem várható.
+(17)[^46]
+
+[^44]: A 26. § (2) bekezdés e) pontját a 21/2023. (XI. 9.) SZTFH rendelet 4. § c) pontja hatályon kívül helyezte.
+[^45]: A 26. § (9) bekezdése a 21/2023. (XI. 9.) SZTFH rendelet 2. §-ával megállapított szöveg.
+[^46]: A 26. § (17) bekezdését a 21/2023. (XI. 9.) SZTFH rendelet 4. § d) pontja hatályon kívül helyezte.

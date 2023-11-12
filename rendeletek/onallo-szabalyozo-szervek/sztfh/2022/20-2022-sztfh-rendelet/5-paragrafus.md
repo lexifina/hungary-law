@@ -14,10 +14,11 @@ c) a Bt. 22/A. § (4) és (5) bekezdése szerinti kérelem esetén a geológiai 
 
 a) annak, aki a korábbi kutatási jogadománya vagy engedélye alapján vállalt, és a kutatási műszaki üzemi tervben számára engedélyezett kutatási tevékenységét a kérelmezett területen neki felróhatóan a kérelem benyújtását megelőző 5 éven belül nem teljesítette,
 
-b) a bányavállalkozónak 5 éven belül arra a területre, amelyet a bányavállalkozó már megkutatott, és a kutatás eredményéről készült zárójelentést a bányafelügyelet végleges határozatban elfogadta, és
+b)[^10] a bányavállalkozónak 5 éven – szénhidrogének esetében 3 éven – belül arra a területre, amelyet a bányavállalkozó már megkutatott, és a kutatás eredményéről készült zárójelentést a bányafelügyelet végleges határozatban elfogadta, és
 
 c) a kérelmezett kutatási terület azon részére, amelyre vonatkozóan a jog megadása már megállapított bányászati jogot sértene.
 
 (4) A kutatási jogot engedélyező határozat – az általános közigazgatási rendtartásról szóló törvényben előírtakon túl – tartalmazza a kutatási területtel érintett ingatlanok helyrajzi számait, a kutatási terület sarokpontjainak koordinátáit, a kutatási terület alap- és fedőlapját, és azt, hogy mely ásványi nyersanyag kutatására biztosít jogot.
 
 [^9]: Az 5. § (1) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 33. §-ával megállapított szöveg.
+[^10]: Az 5. § (3) bekezdés b) pontja a 21/2023. (XI. 9.) SZTFH rendelet 3. § a) pontja szerint módosított szöveg.

@@ -6,7 +6,7 @@ b) az engedélyezett kutatási tevékenységet, a kutatás során kinyerni terve
 
 c) ha ismert, a kutatási létesítménnyel érintett ingatlanok helyrajzi számát,
 
-d)[^38] a kutatási időszak hosszát és az egyes kutatási feladatok végrehajtásának időtartamát, amelybe a kutatási tevékenységek végzésére vonatkozó közbeszerzési eljárások időtartama nem számít bele,
+d)[^39] a kutatási időszak hosszát és az egyes kutatási feladatok végrehajtásának időtartamát, amelybe a kutatási tevékenységek végzésére vonatkozó közbeszerzési eljárások időtartama nem számít bele,
 
 e) a műszaki-biztonság és a tulajdon védelme érdekében szükséges feltételeket,
 
@@ -36,4 +36,4 @@ c) a kutatási engedélyben engedélyezett kutatási feladatait igazoltan elvég
 
 (8) Ha a kutatási engedély módosítása iránti kérelem az engedélyezett kutatási tevékenység csökkentésére irányul, a bányavállalkozó a kutatási engedély módosítása iránti kérelemben igazolja, hogy a kutatás eredeti célja a kutatási feladatok csökkentése esetén is elérhető, és megadja a kutatás végrehajtásának új ütemezését. A bányafelügyelet a kutatási feladatok csökkentése esetén a kutatási időszakot csökkenti a csökkentéssel érintett kutatási feladatok elvégzésének tervezett időtartamával.
 
-[^38]: A 13. § (1) bekezdés d) pontja a 9/2023. (V. 12.) SZTFH rendelet 3. § g) pontja szerint módosított szöveg.
+[^39]: A 13. § (1) bekezdés d) pontja a 9/2023. (V. 12.) SZTFH rendelet 3. § g) pontja szerint módosított szöveg.

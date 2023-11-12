@@ -50,10 +50,10 @@ c) a nyertes pályázó a bányászati jog ellenértékét az (5) bekezdésben m
 
 (7) Ha a nyertes pályázó a bányászati jog ellenértékét az (5) bekezdésben meghatározott határidőn belül nem fizeti meg, vagy a bányászati jog megszerzésétől eláll, a bányászati jog megszerzésére érvényes pályázatot benyújtó pályázók közül a (4) bekezdés szerint felállított rangsor alapján következő pályázót kell nyertesnek nyilvánítani.
 
-(8)[^43] Eredménytelen pályázat esetében a pályázatot a bányafelügyelet az eredménytelenség megállapításától számított hat hónapon belül egy alkalommal ismételten meghirdeti.
+(8)[^49] Eredménytelen pályázat esetében a pályázatot a bányafelügyelet az eredménytelenség megállapításától számított hat hónapon belül egy alkalommal ismételten meghirdeti.
 
 (9) A pályázat ismételt eredménytelensége esetén a bányafelügyelet – a Bt. 26/A. § (5) bekezdés c) pontjában foglalt eset kivételével – felszólítja a bányászati jog törlésével érintett bányavállalkozót a tájrendezési kötelezettségek végrehajtására. Ennek eredménytelensége esetén intézkedik a fennmaradó kötelezettségeknek a Bt. 41. § (7) bekezdése szerinti biztosíték terhére történő teljesítéséről, ezt követően – mélyművelésre vagy külfejtésre tervezett bányatelek esetében – megkeresi az ingatlanügyi hatóságot a bányatelek jogi jelleg ingatlan-nyilvántartásból való törlése céljából.
 
 (10) Ha a (9) bekezdés szerinti biztosíték nem elegendő a fennmaradó kötelezettségek teljesítésére, a bányafelügyelet határidő tűzésével kötelezi a bányászati jog törlésével érintett bányavállalkozót – a Bt. 26/A. § (5) bekezdés c) pontjában foglalt eset kivételével – a kötelezettségek teljesítésére.
 
-[^43]: A 28. § (8) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 42. § h) pontja szerint módosított szöveg.
+[^49]: A 28. § (8) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 42. § h) pontja szerint módosított szöveg.

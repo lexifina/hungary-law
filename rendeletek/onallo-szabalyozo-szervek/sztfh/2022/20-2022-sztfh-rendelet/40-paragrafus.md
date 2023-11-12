@@ -1,6 +1,6 @@
 ## 19. Tájrendezés
 
-40. § (1)[^63] A 29. § (1) bekezdése szerinti műszaki üzemi tervben a tájrendezési feladatokat a tájrendezési előtervben foglaltakkal és a bányatelek megállapítása tárgyában hozott határozat előírásaival összhangban kell megtervezni. Ha a tájrendezési előtervben foglalt koncepció részben vagy egészben bármely körülmény megváltozása következtében már nem valósítható meg, a bányavállalkozó köteles a tájrendezési előterv módosítását kérelmezni, amelyre a 29. § (1) bekezdése vagy a bánya bezárására kidolgozott műszaki üzemi terv jóváhagyása keretében kerülhet sor.
+40. § (1)[^73] A 29. § (1) bekezdése szerinti műszaki üzemi tervben a tájrendezési feladatokat a tájrendezési előtervben foglaltakkal és a bányatelek megállapítása tárgyában hozott határozat előírásaival összhangban kell megtervezni. Ha a tájrendezési előtervben foglalt koncepció részben vagy egészben bármely körülmény megváltozása következtében már nem valósítható meg, a bányavállalkozó köteles a tájrendezési előterv módosítását kérelmezni, amelyre a 29. § (1) bekezdése vagy a bánya bezárására kidolgozott műszaki üzemi terv jóváhagyása keretében kerülhet sor.
 
 (2) A tájrendezési feladatok keretében – a Bt. 36. § (2) bekezdésében meghatározott eljárásban – határozni kell a felszín alatti vízkészletet érintő bányatavak fennmaradásának és hasznosításának feltételeiről.
 
@@ -60,7 +60,7 @@ mb) a műszakilag biztonságba nem helyezett kútról.
 
 (7) A használaton kívüli mélyfúrás tulajdonosának – a Magyar Állam és természetes személy tulajdonos kivételével – a Bt. 36. § (6) bekezdésében foglalt tájrendezési feladatok teljesítésének fedezetére céltartalékot kell képeznie.
 
-(8)[^64] A bányafelügyelet a Bt. 36. § (7) bekezdése szerinti hasznosítás lehetőségének vizsgálata érdekében kérelemre engedélyezi a Bt. 36. § (3) bekezdése szerinti létesítmény vizsgálatát, a létesítmény felhasználásával végezhető földtani vizsgálatokat.
+(8)[^74] A bányafelügyelet a Bt. 36. § (7) bekezdése szerinti hasznosítás lehetőségének vizsgálata érdekében kérelemre engedélyezi a Bt. 36. § (3) bekezdése szerinti létesítmény vizsgálatát, a létesítmény felhasználásával végezhető földtani vizsgálatokat.
 
-[^63]: A 40. § (1) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 42. § p) pontja szerint módosított szöveg.
-[^64]: A 40. § (8) bekezdését a 6/2023. (II. 28.) SZTFH rendelet 4. §-a iktatta be.
+[^73]: A 40. § (1) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 42. § p) pontja szerint módosított szöveg.
+[^74]: A 40. § (8) bekezdését a 6/2023. (II. 28.) SZTFH rendelet 4. §-a iktatta be.

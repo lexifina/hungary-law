@@ -6,6 +6,9 @@
 
 (3) A hites bányamérő szakmai feladatát önállóan, egyéni felelősséggel látja el, tevékenységét a bányafelügyelet ellenőrzi. Ha a hites bányamérő tevékenysége során jogosulatlan vagy szabálytalan bányászati tevékenység végzésre vonatkozó adat birtokába kerül, köteles azt a bányafelügyelettel haladéktalanul közölni.
 
-(4) A bányamérés adatait és ezen adatokból létrehozott bányatérképek egy példányát – a műszaki üzemi terv mellékleteként – meg kell küldeni a bányafelügyeletnek.
+(4)[^71]
 
-(5) A bányafelügyelet – a térkép minősítésének megfelelő előírások megtartásával – az érdekeltek részére lehetővé teszi a bányatérképekbe történő betekintést.
+(5)[^72]
+
+[^71]: A 39. § (4) bekezdését a 21/2023. (XI. 9.) SZTFH rendelet 4. § e) pontja hatályon kívül helyezte.
+[^72]: A 39. § (5) bekezdését a 21/2023. (XI. 9.) SZTFH rendelet 4. § e) pontja hatályon kívül helyezte.

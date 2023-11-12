@@ -4,11 +4,11 @@ a) a kutatás engedélyezett időtartamát,
 
 b) az ásványvagyon-gazdálkodás, a műszaki-biztonság és a tulajdon védelme érdekében szükséges feltételeket,
 
-c)[^13] a tájrendezési feladatokat és azok elvégzésének ütemezését,
+c)[^14] a tájrendezési feladatokat és azok elvégzésének ütemezését,
 
-d)[^14] a 7. § (1) bekezdés g) pontja szerinti biztosítékkal kapcsolatos rendelkezést.
+d)[^15] a 7. § (1) bekezdés g) pontja szerinti biztosítékkal kapcsolatos rendelkezést.
 
-e)[^15] a kutatás során kitermelésre engedélyezett ásványi nyersanyag fajtáját és mennyiségét, továbbá a próbatermelés engedélyezésével kapcsolatos rendelkezéseket.
+e)[^16] a kutatás során kitermelésre engedélyezett ásványi nyersanyag fajtáját és mennyiségét, továbbá a próbatermelés engedélyezésével kapcsolatos rendelkezéseket.
 
 (2) A kutatásra engedélyezett időtartam számításának kezdő napja a kutatási műszaki üzemi tervet jóváhagyó határozat véglegessé válásának a napja.
 
@@ -38,6 +38,6 @@ c) a műszaki üzemi tervben jóváhagyott kutatási feladatait elvégezte, de a
 
 (10) A bányafelügyelet a kutatási időtartam meghosszabbításáról a műszaki üzemi terv módosításával dönt. Ha a bányavállalkozó a kutatási időtartam meghosszabbítását a (6) bekezdés c) pontja alapján kérelmezi, a bányafelügyelet a kutatási időtartam meghosszabbításával egyidejűleg dönt a kutatási feladatok jóváhagyásáról is.
 
-[^13]: A 8. § (1) bekezdés c) pontja a 40/2022. (XII. 19.) SZTFH rendelet 42. § d) pontja szerint módosított szöveg.
-[^14]: [A 40/2022. (XII. 19.) SZTFH rendelet 42. § e) pontja által elrendelt a „rendelkezéseket.” szövegrész helyébe a „rendelkezéseket és” szöveg lép szövegcsere nem átvezethető.]
-[^15]: A 8. § (1) bekezdés e) pontját a 40/2022. (XII. 19.) SZTFH rendelet 35. §-a iktatta be.
+[^14]: A 8. § (1) bekezdés c) pontja a 40/2022. (XII. 19.) SZTFH rendelet 42. § d) pontja szerint módosított szöveg.
+[^15]: [A 40/2022. (XII. 19.) SZTFH rendelet 42. § e) pontja által elrendelt a „rendelkezéseket.” szövegrész helyébe a „rendelkezéseket és” szöveg lép szövegcsere nem átvezethető.]
+[^16]: A 8. § (1) bekezdés e) pontját a 40/2022. (XII. 19.) SZTFH rendelet 35. §-a iktatta be.
