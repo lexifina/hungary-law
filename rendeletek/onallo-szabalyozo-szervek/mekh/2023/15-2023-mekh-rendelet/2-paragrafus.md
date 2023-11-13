@@ -1,0 +1,3 @@
+2. § A 16/2022. (XII. 21.) MEKH rendelet 11. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A Hivatal az indokolt költség meghatározásakor – a módszertani útmutatóban meghatározottak szerint – összehasonlítja a díjjavaslat elkészítésekor figyelembe vett és a díjjavaslattal érintett időszakban ténylegesen az adott hulladékgazdálkodási alrendszerhez, valamint az egyes anyagáramokhoz kapcsolódóan képződött hulladékok és kibocsátott termékek mennyiségét. Ha az összehasonlítás eltérést mutat, a Hivatal a soron következő évre vonatkozó indokolt költség mértékének meghatározásakor az érintett hulladékgazdálkodási alrendszer, valamint anyagáram tekintetében, a díjjavaslatnál figyelembe veendő indokolt költség mértékét az eltérésnek megfelelően korrigálja.”
