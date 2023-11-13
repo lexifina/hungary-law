@@ -1,0 +1,1 @@
+A Kormány a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet 46. § (1b) bekezdése alapján hozzájárul, hogy az Agrártudományi Kutatóközpont a VP1-1.2.1-23 kódszámú, „Bemutató üzemek támogatása” című pályázati felhívásra támogatási kérelmet nyújtson be.
