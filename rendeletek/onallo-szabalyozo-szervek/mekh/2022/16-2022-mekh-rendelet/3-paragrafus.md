@@ -24,7 +24,7 @@ bd) kötelező visszaváltási díjas intézményi alrendszer: a kötelező viss
 
 5. kezdeti beruházás: tárgyi eszköz és immateriális jószág beszerzésére és bővítésére irányuló olyan beruházás, amelyet a koncessziós társaság saját forrásból, az állami hulladékgazdálkodási közfeladat ellátásával kapcsolatban 2023. június 30. napjáig, valamint a kötelező visszaváltási díjas intézményi alrendszerrel kapcsolatban 2023. december 31. napjáig valósít meg;
 
-6. rendszeres szolgáltatás: a koncessziós társaság és a koncesszori alvállalkozó által a hulladékgazdálkodási közszolgáltatási résztevékenységi alrendszerben, valamint a gazdálkodó szervezetek intézményi alrendszerben, ugyanazon ingatlanhasználó részére, ugyanolyan tartalommal, meghatározott időközönként, ismétlődő jelleggel nyújtott hulladékgazdálkodási tevékenységek összessége;
+6.[^1]
 
 7. tételes eszközfelülvizsgálat: a koncessziós társaság és a koncesszori alvállalkozók állami hulladékgazdálkodási közfeladattal összefüggő eszközei értékének részletes vizsgálata;
 
@@ -41,3 +41,5 @@ c) a visszaváltási díj megállapításának és alkalmazásának, valamint a 
 d) a számvitelről szóló törvény
 
 fogalmait kell alkalmazni.
+
+[^1]: A 3. § (1) bekezdés 6. pontját a 15/2023. (XI. 8.) MEKH rendelet 9. § a) pontja hatályon kívül helyezte.

@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-16-20-5
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2022-12-26 | 2022-16-20-5Z.1 | 16/2022. (XII. 21.) MEKH rendelet |
+| 2023-11-13 | 2022-16-20-5Z.2 | 15/2023. (XI. 8.) MEKH rendelet |

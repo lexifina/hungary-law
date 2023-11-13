@@ -2,4 +2,6 @@
 
 (2) A Hivatal az indokolt költség mértékét naptári évekre (a továbbiakban: tárgyév) vonatkozóan határozza meg.
 
-(3) A Hivatal az indokolt költség meghatározásakor figyelembe veszi a koncessziós társaság esetében a hulladékgazdálkodási célértékek teljesítése érdekében végzett beruházásokat és fejlesztéseket, továbbá a hulladékgazdálkodási célértékek elérése, a hulladékgazdálkodási tevékenységek magasabb szintű ellátása, a hulladékminőség javítása és a hatékonyság növelése érdekében alkalmazott pénzügyi ösztönzőkből eredő többletköltségeket.
+(3)[^2] A Hivatal az indokolt költség meghatározásakor figyelembe veszi a koncessziós társaság esetében a hulladékgazdálkodási célértékek teljesítése érdekében végzett beruházásokat és fejlesztéseket, továbbá a hulladékgazdálkodási célértékek elérése, a hulladékgazdálkodási tevékenységek magasabb szintű ellátása, a hulladékminőség javítása és a hatékonyság növelése érdekében alkalmazott pénzügyi ösztönzőkből és ösztönző intézkedésekből eredő többletköltségeket.
+
+[^2]: A 6. § (3) bekezdése a 15/2023. (XI. 8.) MEKH rendelet 8. § a) pontja szerint módosított szöveg.
