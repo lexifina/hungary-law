@@ -20,6 +20,7 @@ i) végrehajtja a védelmi ipari beruházások megvalósításával kapcsolatos 
 
 j) kormányzati szinten összehangolja a védelmi ipari állami infrastruktúra-beruházások előkészítését és megvalósítását,
 
-k) működteti a védelmi ipar beszállítófejlesztési program végrehajtásának rendszerét, gondoskodik annak fenntartásáról és finanszírozásáról, valamint a forráskezelési és közvetítői feladatok ellátásáról.
+k)[^45] működteti a védelmi ipari beszállító-fejlesztési program végrehajtásának rendszerét, és a FOCUS VENTURES Befektetési Alapkezelő Zártkörűen Működő Részvénytársaság útján gondoskodik annak fenntartásáról és finanszírozásáról, valamint a forráskezelési és közvetítői feladatok ellátásáról.
 
 [^44]: A 115. § a 467/2022. (XI. 21.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^45]: A 115. § k) pontja az 501/2023. (XI. 13.) Korm. rendelet 1. §-ával megállapított szöveg.

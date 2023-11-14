@@ -2,7 +2,7 @@
 
 ## 18. Stratégiai és Családügyi Kabinet
 
-187. §[^78] (1)[^79] A Stratégiai és Családügyi Kabinet a Kormány vagy a miniszterelnök által meghatározott, így különösen
+187. §[^79] (1)[^80] A Stratégiai és Családügyi Kabinet a Kormány vagy a miniszterelnök által meghatározott, így különösen
 
 1. az aktív Magyarországért,
 
@@ -112,5 +112,5 @@ való felelősségi körökben a Kormány ügydöntő jogkörrel rendelkező sze
 
 (2) A Stratégiai és Családügyi Kabinet – az (1) bekezdésben foglaltakon túl – a Kormány ügydöntő jogkörrel rendelkező szerve bármely olyan előterjesztés és jelentés kapcsán, amelyet a Növekedési és Versenyképességi Kabinet megtárgyalt, és napirendre felvételét a Stratégiai és Családügyi Kabinet elnöke kéri.
 
-[^78]: A 187. § a 261/2022. (VII. 21.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^79]: A 187. § (1) bekezdése a 314/2023. (VII. 17.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^79]: A 187. § a 261/2022. (VII. 21.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^80]: A 187. § (1) bekezdése a 314/2023. (VII. 17.) Korm. rendelet 21. §-ával megállapított szöveg.

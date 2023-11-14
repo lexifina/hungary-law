@@ -12,7 +12,7 @@ d) az agrárminiszter esetében az AM,
 
 e) a belügyminiszter esetében a BM,
 
-f)[^70] az építési és közlekedési miniszter esetében az ÉKM,
+f)[^71] az építési és közlekedési miniszter esetében az ÉKM,
 
 g) a gazdaságfejlesztési miniszter estében a GFM,
 
@@ -26,14 +26,14 @@ k) a külgazdasági és külügyminiszter esetében a KKM,
 
 l) a pénzügyminiszter esetében a PM,
 
-m)[^71] az energiaügyi miniszter esetében az EM,
+m)[^72] az energiaügyi miniszter esetében az EM,
 
 n) a területfejlesztési miniszter esetében a TFM
 
-o)[^72] az európai uniós ügyekért felelős miniszter esetében az EUM
+o)[^73] az európai uniós ügyekért felelős miniszter esetében az EUM
 
 rövid megjelölést kell alkalmazni.
 
-[^70]: A 184. § f) pontja a 467/2022. (XI. 21.) Korm. rendelet 16. § (2) bekezdés a) és c) pontja szerint módosított szöveg.
-[^71]: A 184. § m) pontja a 467/2022. (XI. 21.) Korm. rendelet 16. § (2) bekezdés d) és e) pontja szerint módosított szöveg.
-[^72]: A 184. § o) pontját a 314/2023. (VII. 17.) Korm. rendelet 19. §-a iktatta be.
+[^71]: A 184. § f) pontja a 467/2022. (XI. 21.) Korm. rendelet 16. § (2) bekezdés a) és c) pontja szerint módosított szöveg.
+[^72]: A 184. § m) pontja a 467/2022. (XI. 21.) Korm. rendelet 16. § (2) bekezdés d) és e) pontja szerint módosított szöveg.
+[^73]: A 184. § o) pontját a 314/2023. (VII. 17.) Korm. rendelet 19. §-a iktatta be.
