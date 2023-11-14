@@ -270,8 +270,10 @@
 
 | 125. | Ipari park kialakítása Nagytálya község területén | Nagytálya közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 044/4, 044/30, 044/42, 045, 046/1, 046/9, 046/10 helyrajzi számú ingatlanok | Heves Vármegyei Kormányhivatalt vezető főispán |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^411]
+| 126. | Ipari és logisztikai park kialakítása Érd megyei jogú város területén és Budapest Főváros XXII. kerületében | Budapest XXII. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 0238025/8 helyrajzi számú ingatlan, Érd közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 024/8, 024/20, 024/21, 024/22, 025, 026 helyrajzi számú ingatlanok | Pest Vármegyei Kormányhivatalt vezető főispán |
+
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^414]
 
 A 2. mellékletben foglalt táblázat 7 és 7a sora szerinti beruházások közlekedési kapacitásbővítéssel összefüggő útszélesítései
 
-[^411]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^414]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
