@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-40-20-6
 | 2019-05-01 | 2017-40-20-6N.4 | 5/2019. (III. 28.) MvM rendelet |
 | 2020-07-01 | 2017-40-20-6N.5 | 10/2020. (VI. 26.) MvM rendelet |
 | 2020-07-27 | 2017-40-20-6N.6 | 5/2019. (III. 28.) MvM rendelet |
+| 2023-11-14 | 2017-40-20-6N.7 | 5/2023. (XI. 13.) TFM rendelet |

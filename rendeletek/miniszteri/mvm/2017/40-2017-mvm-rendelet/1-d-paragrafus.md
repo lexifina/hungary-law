@@ -1,0 +1,5 @@
+1/D. §[^11] (1) Amennyiben az ajánlatkérő az EKR-ben létrehozott közbeszerzési eljárását a létrehozástól számított egy éven belül nem indítja meg, a befizetett rendszerhasználati díjat az EKR üzemeltetőjéhez intézett írásbeli kérelemmel az eljárás létrehozásától számított egy évet követő kilencven napon belül visszaigényelheti. Az ajánlatkérő a rendszerhasználati díj visszaigénylésére a kilencven napos határidő lejártát követően nem jogosult.
+
+(2) Amennyiben az ajánlatkérő az elektronikus közbeszerzés részletes szabályairól szóló kormányrendelet 11. § (8) bekezdés b) pontja szerinti ok miatt nem indítja meg az EKR-ben létrehozott közbeszerzési eljárását, a befizetett rendszerhasználati díjat az EKR üzemeltetőjéhez intézett írásbeli kérelemmel, az ok bekövetkezésétől számított kilencven napon belül visszaigényelheti. Az ajánlatkérő a rendszerhasználati díj visszaigénylésére a kilencven napos határidő lejártát követően nem jogosult.
+
+[^11]: Az 1/D. §-t az 5/2023. (XI. 13.) TFM rendelet 2. §-a iktatta be.
