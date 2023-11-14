@@ -1,3 +1,3 @@
-1. § Az állami hulladékgazdálkodási közfeladatot ellátó koncessziós társaság, a koncesszori alvállalkozók és az önkormányzatok indokolt költségeinek meghatározására és szabályozására, valamint az állami hulladékgazdálkodási közfeladat ellátásáért szedhető díjakkal kapcsolatos díjjavaslat elkészítésére vonatkozó alapelvekről és keretszabályokról szóló 16/2022. (XII. 21.) MEKH rendelet [a továbbiakban: 16/2022. (XII. 21.) MEKH rendelet] 7. §-a helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„7. § Ha jogszabály eltérően nem rendelkezik, a Hivatal az indokolt költség meghatározásakor nem veszi figyelembe a koncessziós társaság és a koncesszori alvállalkozók állami hulladékgazdálkodási közfeladat ellátásából származó hatósági díjbevételén kívüli, az állami hulladékgazdálkodási közfeladat ellátásából, valamint a Ht. alapján nyújtott egyéb szolgáltatásokból származó egyéb bevételeiből megtérülő költségeit.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

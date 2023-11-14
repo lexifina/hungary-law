@@ -1,3 +1,3 @@
-4. § A 16/2022. (XII. 21.) MEKH rendelet 13. § (7) bekezdése helyébe a következő rendelkezés lép:
+4. §[^5]
 
-„(7) A Hivatal az indokolt költség meghatározásakor – a módszertani útmutatóban meghatározottak szerint – összehasonlítja a díjjavaslat elkészítésekor figyelembe vett és a díjjavaslattal érintett időszakban ténylegesen képződött, az önkormányzatok Ht. 30/C. § (2) bekezdése szerinti tevékenységeihez, valamint az ezekkel érintett anyagáramokhoz kapcsolódó hulladékok és kibocsátott termékek mennyiségét. Ha az összehasonlítás eltérést mutat, a Hivatal a soron következő évre vonatkozó indokolt költség mértékének meghatározásakor az önkormányzatok Ht. 30/C. § (2) bekezdése szerinti tevékenységei, valamint anyagáramok tekintetében a díjjavaslatnál figyelembe veendő indokolt költség mértékét az eltérésnek megfelelően korrigálja.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
