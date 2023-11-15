@@ -1,5 +1,3 @@
-2. § Az R. „Rendszerhasználati díj” című alcíme a következő 1/D. §-sal egészül ki:
+2. §[^3]
 
-„1/D. § (1) Amennyiben az ajánlatkérő az EKR-ben létrehozott közbeszerzési eljárását a létrehozástól számított egy éven belül nem indítja meg, a befizetett rendszerhasználati díjat az EKR üzemeltetőjéhez intézett írásbeli kérelemmel az eljárás létrehozásától számított egy évet követő kilencven napon belül visszaigényelheti. Az ajánlatkérő a rendszerhasználati díj visszaigénylésére a kilencven napos határidő lejártát követően nem jogosult.
-
-(2) Amennyiben az ajánlatkérő az elektronikus közbeszerzés részletes szabályairól szóló kormányrendelet 11. § (8) bekezdés b) pontja szerinti ok miatt nem indítja meg az EKR-ben létrehozott közbeszerzési eljárását, a befizetett rendszerhasználati díjat az EKR üzemeltetőjéhez intézett írásbeli kérelemmel, az ok bekövetkezésétől számított kilencven napon belül visszaigényelheti. Az ajánlatkérő a rendszerhasználati díj visszaigénylésére a kilencven napos határidő lejártát követően nem jogosult.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
