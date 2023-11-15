@@ -1,1 +1,0 @@
-A hulladékról szóló 2012. évi CLXXXV. törvény 88. § (3a) bekezdés c) pontjában kapott felhatalmazás alapján, a Magyar Energetikai és Közmű-szabályozási Hivatalról szóló 2013. évi XXII. törvény 12. § i) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
