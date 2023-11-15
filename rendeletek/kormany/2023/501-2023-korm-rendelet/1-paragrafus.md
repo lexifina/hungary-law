@@ -1,3 +1,3 @@
-1. § A Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 115. § k) pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-(A miniszter a védelmi fejlesztésekért való felelőssége keretében)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
