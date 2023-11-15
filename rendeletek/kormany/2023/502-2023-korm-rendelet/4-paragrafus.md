@@ -1,7 +1,3 @@
-4. § Az R.
+4. §[^5]
 
-a) 4. § (1) és (2) bekezdésében a „122. és 123. sora” szövegrész helyébe a „122., 123. és 126. sora” szöveg,
-
-b) 6/G. § (2) bekezdésében a „90. és 100. sora” szövegrész helyébe a „90., 100. és 126. sora” szöveg
-
-lép.
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
