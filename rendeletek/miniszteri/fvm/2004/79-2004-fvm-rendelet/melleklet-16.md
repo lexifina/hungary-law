@@ -38,25 +38,25 @@
 
 ## 3.6. Tulajdoni hányadra eső terület hektárban:
 
-## 4.[^310] A meghatalmazás tárgya, valamint a meghatalmazó nyilatkozata, hogy a meghatalmazás aláírásával valamennyi, azonos tárgykörben korábban adott meghatalmazását visszavonja.
+## 4.[^311] A meghatalmazás tárgya, valamint a meghatalmazó nyilatkozata, hogy a meghatalmazás aláírásával valamennyi, azonos tárgykörben korábban adott meghatalmazását visszavonja.
 
 ## 5. Keltezés, a meghatalmazó aláírása
 
-## 6.[^311]
+## 6.[^312]
 
-## 6.1.[^312]
+## 6.1.[^313]
 
-## 6.2.[^313]
+## 6.2.[^314]
 
-## 6.3.[^314]
+## 6.3.[^315]
 
-16. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^315]
+16. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^316]
 
 GÍMSZARVAS, DÁMSZARVAS, ŐZ, MUFLON TRÓFEÁS EGYEDEINEK KOROSZTÁLY SZERINTI BESOROLÁSA
 
-[^310]: A Vhr. 15. számú melléklet 4. pontja a 41/2016. (VI. 22.) FM rendelet 3. §-a szerint módosított szöveg.
-[^311]: A Vhr. 15. számú melléklet 6. pontját az 57/2023. (X. 16.) AM rendelet 29. § l) pontja hatályon kívül helyezte.
-[^312]: A Vhr. 15. számú melléklet 6. pont 6.1. alpontját az 57/2023. (X. 16.) AM rendelet 29. § l) pontja hatályon kívül helyezte.
-[^313]: A Vhr. 15. számú melléklet 6. pont 6.2. alpontját az 57/2023. (X. 16.) AM rendelet 29. § l) pontja hatályon kívül helyezte.
-[^314]: A Vhr. 15. számú melléklet 6. pont 6.3. alpontját az 57/2023. (X. 16.) AM rendelet 29. § l) pontja hatályon kívül helyezte.
-[^315]: A Vhr. 16. számú melléklete az 52/2020. (X. 27.) AM rendelet 11. §-ával megállapított, az 57/2023. (X. 16.) AM rendelet 28. § 37. pontja szerint módosított szöveg.
+[^311]: A Vhr. 15. számú melléklet 4. pontja a 41/2016. (VI. 22.) FM rendelet 3. §-a szerint módosított szöveg.
+[^312]: A Vhr. 15. számú melléklet 6. pontját az 57/2023. (X. 16.) AM rendelet 29. § l) pontja hatályon kívül helyezte.
+[^313]: A Vhr. 15. számú melléklet 6. pont 6.1. alpontját az 57/2023. (X. 16.) AM rendelet 29. § l) pontja hatályon kívül helyezte.
+[^314]: A Vhr. 15. számú melléklet 6. pont 6.2. alpontját az 57/2023. (X. 16.) AM rendelet 29. § l) pontja hatályon kívül helyezte.
+[^315]: A Vhr. 15. számú melléklet 6. pont 6.3. alpontját az 57/2023. (X. 16.) AM rendelet 29. § l) pontja hatályon kívül helyezte.
+[^316]: A Vhr. 16. számú melléklete az 52/2020. (X. 27.) AM rendelet 11. §-ával megállapított, az 57/2023. (X. 16.) AM rendelet 28. § 37. pontja szerint módosított szöveg.

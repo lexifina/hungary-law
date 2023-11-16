@@ -1,6 +1,6 @@
 | Agrárminisztérium vadászati hatósági feladatainak ellátásához kapcsolódó előirányzat felhasználási számlaszáma: | 10032000-01494549-00000000 |
 
-26. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^328]
+26. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^329]
 
 A hivatásos vadászt megillető lődíj mértéke az egyes vadfajok után
 
@@ -32,4 +32,4 @@ A hivatásos vadászt megillető lődíj mértéke az egyes vadfajok után
 
 | 13 | a vadászatra jogosult által előírt állományszabályozás során elejtett nagyvad | 4 000 |
 
-[^328]: A Vhr. 26. számú mellékletét az 57/2023. (X. 16.) AM rendelet 27. § (11) bekezdése iktatta be.
+[^329]: A Vhr. 26. számú mellékletét az 57/2023. (X. 16.) AM rendelet 27. § (11) bekezdése iktatta be.
