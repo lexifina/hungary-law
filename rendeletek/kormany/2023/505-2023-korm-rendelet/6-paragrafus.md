@@ -1,0 +1,1 @@
+6. § Az R. 1. § (1) bekezdés a) pontjában a „25866/6, 25866/7, 25867, 25868, 25910, 25886/32, 25886/33 és 25886/34 helyrajzi számú ingatlanokon” szövegrész helyébe a „25865/3, 25866/6, 25866/7, 25867, 25868, 25910, 25886/31, 25886/32, 25886/33, 25886/34 és 25886/35 helyrajzi számú ingatlanokon” szöveg lép.
