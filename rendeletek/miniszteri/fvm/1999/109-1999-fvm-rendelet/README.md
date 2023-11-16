@@ -33,3 +33,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-109-20-
 | 2020-06-18 | 1999-109-20-82.32 | 7/2020. (VI. 10.) MvM rendelet |
 | 2022-05-02 | 1999-109-20-82.33 | 9/2022. (IV. 29.) MvM rendelet |
 | 2023-01-01 | 1999-109-20-82.34 | 23/2022. (XII. 28.) MVM rendelet |
+| 2023-11-16 | 1999-109-20-82.35 | 6/2023. (XI. 13.) MVM rendelet |

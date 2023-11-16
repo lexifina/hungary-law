@@ -1,4 +1,4 @@
-## 115/A. §[^365] A naplóból történő adatszolgáltatás iránti kérelemben fel kell tüntetni a kérelmező nevét, születési idejét, lakcímét, valamint személyazonosító jelét.
+## 115/A. §[^366] A naplóból történő adatszolgáltatás iránti kérelemben fel kell tüntetni a kérelmező nevét, születési idejét, lakcímét, valamint személyazonosító jelét.
 
 116. § (1) Az összesítő fekvésenként művelési ágak szerinti részletezéssel, a kataszteri tiszta jövedelem feltüntetésével tartalmazza:
 
@@ -8,7 +8,7 @@ b) a különböző tulajdonban (vagyonkezelésben, használatban) álló terüle
 
 c) a bel- és külterületi ingatlanok összesített adatait.
 
-(2)[^366] A vármegye és az ország területéről külön összesítőt kell készíteni az (1) bekezdésben megjelölt csoportosításban.
+(2)[^367] A vármegye és az ország területéről külön összesítőt kell készíteni az (1) bekezdésben megjelölt csoportosításban.
 
-[^365]: A 115/A. §-t a 117/2005. (XII. 19.) FVM rendelet 44. §-a iktatta be, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
-[^366]: A 116. § (2) bekezdése a 26/2022. (XII. 29.) MVM rendelet 2. §-a szerint módosított szöveg.
+[^366]: A 115/A. §-t a 117/2005. (XII. 19.) FVM rendelet 44. §-a iktatta be, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
+[^367]: A 116. § (2) bekezdése a 26/2022. (XII. 29.) MVM rendelet 2. §-a szerint módosított szöveg.

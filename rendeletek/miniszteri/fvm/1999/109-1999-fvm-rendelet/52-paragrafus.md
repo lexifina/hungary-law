@@ -4,10 +4,10 @@
 
 (1a)[^184] Az ingatlan-nyilvántartás vonatkozásában a tv. 12. § b) pontja szerinti nem lakás céljára szolgáló helyiség az álláshely is.
 
-(1b)[^185] E rendelet alkalmazásában álláshely: az épület gépjárműtároló helyiségében kialakított, gépjármű elhelyezésére szolgáló terület, amelynek egyik oldala az álláshelyekhez vezető közlekedési úthoz kapcsolódik, további három oldala a helyiség padlóján tartós fizikai jelöléssel vagy fallal körülhatárolt. Az álláshely hossza mozgásukban korlátozottak részére legalább 5,00 méter, szélessége legalább 3,60 méter, egyéb esetben az álláshely hossza legalább 5,00 méter, szélessége legalább 2,70 méter, azzal, hogy a közforgalom számára nem megnyitott gépjárműtárolóban az álláshelyek legfeljebb 30%-ának a hossza 4,10 méterre és szélessége 2,20 méterre csökkenthető. A méretek a tartós fizikai jelölés tengelyétől számítandók.
+(1b)[^185] E rendelet alkalmazásában álláshely: az épület gépjárműtároló helyiségében kialakított, gépjármű elhelyezésére szolgáló terület, amelynek egyik oldala az álláshelyekhez vezető közlekedési úthoz kapcsolódik, további három oldala a helyiség padlóján tartós fizikai jelöléssel vagy fallal körülhatárolt, és megfelel az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet 6. melléklete szerinti, az álláshely méreteire vonatkozó előírásoknak. A méretek a tartós fizikai jelölés tengelyétől számítandók.
 
 (2) A társasházat akkor is egy társasház törzslapon kell nyilvántartani, ha a földrészleten több épület áll és a társasháztulajdon létesítését egy alapító okiratba foglalták.
 
 [^183]: A 49. alcím a 48/2010. (IV. 27.) FVM rendelet 56. §-ával megállapított szöveg.
 [^184]: Az 52. § (1a) bekezdését a 9/2022. (IV. 29.) MvM rendelet 1. §-a iktatta be.
-[^185]: Az 52. § (1b) bekezdését a 9/2022. (IV. 29.) MvM rendelet 1. §-a iktatta be.
+[^185]: Az 52. § (1b) bekezdését a 9/2022. (IV. 29.) MvM rendelet 1. §-a iktatta be, szövege a 6/2023. (XI. 13.) MVM rendelet 1. §-ával megállapított szöveg.
