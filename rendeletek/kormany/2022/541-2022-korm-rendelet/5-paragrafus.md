@@ -1,3 +1,3 @@
-5. §[^1]
+5. §[^3]
 
-[^1]: Az 5. §-t a 2023. évi LIII. törvény 158. §-a hatályon kívül helyezte.
+[^3]: Az 5. §-t a 2023. évi LIII. törvény 158. §-a hatályon kívül helyezte.
