@@ -1,0 +1,1 @@
+A Kormány az állami építési beruházások rendjéről szóló 2023. évi LXIX. törvény (a továbbiakban: Ábtv.) 4. § (2) bekezdése alapján, az építési beruházás gyors lefolytatásához fűződő kiemelt nemzeti érdekre tekintettel, a Várpalotai Védelmi Ipari Komplexum – ideértve a hozzá kapcsolódó tesztlőtereket is – ingatlanberuházást mentesíti az Ábtv. alkalmazása alól.
