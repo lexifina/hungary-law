@@ -1,5 +1,5 @@
 ## 5. Az Észak-dunántúli Vadgazdálkodási Táj vadgazdálkodási tájegységeinek vadgazdálkodási tervéről szóló 12/2018. (VII. 3.) AM rendelet módosítása
 
-35. §[^82]
+35. §[^80]
 
-[^82]: A 35. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^80]: A 35. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

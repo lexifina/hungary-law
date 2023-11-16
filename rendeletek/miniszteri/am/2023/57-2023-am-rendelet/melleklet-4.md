@@ -1,3 +1,3 @@
-4. melléklet az 57/2023. (X. 16.) AM rendelethez[^96]
+4. melléklet az 57/2023. (X. 16.) AM rendelethez[^94]
 
-[^96]: A 4. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^94]: A 4. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

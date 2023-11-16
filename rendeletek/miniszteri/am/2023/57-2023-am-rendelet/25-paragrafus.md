@@ -1,3 +1,3 @@
-25. §[^25]
+25. § A 79/2004. (V. 4.) FVM rendelet 92. §-a a következő (4) bekezdéssel egészül ki:
 
-[^25]: A 25. § a 46. § (3) bekezdés alapján 2023. november 16-án lép hatályba.
+„(4) A trófeabírálati eljárásban hozott döntés ellen benyújtott fellebbezés elbírálására irányuló eljárás igazgatási szolgáltatási díja tízezer forint.”

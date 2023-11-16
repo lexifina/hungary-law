@@ -1,3 +1,3 @@
-6. melléklet az 57/2023. (X. 16.) AM rendelethez[^98]
+6. melléklet az 57/2023. (X. 16.) AM rendelethez[^96]
 
-[^98]: A 6. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^96]: A 6. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
