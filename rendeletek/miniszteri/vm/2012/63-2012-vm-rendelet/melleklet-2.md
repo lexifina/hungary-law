@@ -1154,11 +1154,7 @@
 
 | 13.1. |  |  |
 
-| 13.2. | Trófeabírálati díjak |  |
-
-| 13.2.1. | Nem érmes trófea esetén | 2 500 |
-
-| 13.2.2. | Érmes trófea esetén | 5 000 |
+| 13.2. | Trófeabírálati díj | 4 000 |
 
 | 13.3. | Kérelemre indult vadászati hatósági eljárás díjai |  |
 
