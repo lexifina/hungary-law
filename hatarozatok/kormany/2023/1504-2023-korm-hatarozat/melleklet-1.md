@@ -24,6 +24,8 @@
 
 | Határidő: | azonnal |
 
-## 2. A címrendi módosításról és kiegészítésről, a rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Rezsivédelmi Alap központi kiadása előirányzatból történő, fejezeten belüli előirányzat-átcsoportosításról, valamint kormányhatározat módosításáról szóló 1050/2023. (II. 23.) Korm. határozat 1. pont b) alpontjában a „biztosított 1 050 324 900 forint” szövegrész helyébe a „biztosított 3 206 924 155 forint” szöveg lép.
+## 2.[^1]
 
 1. melléklet az 1504/2023. (XI. 16.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
