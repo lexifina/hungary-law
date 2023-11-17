@@ -1,3 +1,5 @@
 ## 2. A Nemzeti Élelmiszerlánc-biztonsági Hivatal, valamint a megyei kormányhivatalok mezőgazdasági szakigazgatási szervei előtt kezdeményezett eljárásokban fizetendő igazgatási szolgáltatási díjak mértékéről, valamint az igazgatási szolgáltatási díj fizetésének szabályairól szóló 63/2012. (VII. 2.) VM rendelet módosítása
 
-30. § A Nemzeti Élelmiszerlánc-biztonsági Hivatal, valamint a megyei kormányhivatalok mezőgazdasági szakigazgatási szervei előtt kezdeményezett eljárásokban fizetendő igazgatási szolgáltatási díjak mértékéről, valamint az igazgatási szolgáltatási díj fizetésének szabályairól szóló 63/2012. (VII. 2.) VM rendelet [a továbbiakban: 63/2012. (VII. 2.) VM rendelet] 1. melléklete a 12. melléklet szerint módosul.
+30. §[^77]
+
+[^77]: A 30. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

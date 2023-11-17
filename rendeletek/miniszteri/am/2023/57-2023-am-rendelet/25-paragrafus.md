@@ -1,3 +1,3 @@
-25. § A 79/2004. (V. 4.) FVM rendelet 92. §-a a következő (4) bekezdéssel egészül ki:
+25. §[^25]
 
-„(4) A trófeabírálati eljárásban hozott döntés ellen benyújtott fellebbezés elbírálására irányuló eljárás igazgatási szolgáltatási díja tízezer forint.”
+[^25]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
