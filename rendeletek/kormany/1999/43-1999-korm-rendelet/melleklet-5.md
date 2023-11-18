@@ -28,4 +28,4 @@
 
 5. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^620]
 
-[^620]: Az 5. számú mellékletet újonnan a 7/2008. (I. 23.) Korm. rendelet 3. § (9) bekezdése iktatta be, szövege a 322/2023. (VII. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^620]: Az 5. számú mellékletet újonnan a 7/2008. (I. 23.) Korm. rendelet 3. § (9) bekezdése iktatta be, szövege az 507/2023. (XI. 17.) Korm. rendelet 5. §-ával megállapított szöveg.
