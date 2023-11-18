@@ -1,0 +1,1 @@
+1. § A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és a Marokkói Királyság Kormánya közötti filmkoprodukciós megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
