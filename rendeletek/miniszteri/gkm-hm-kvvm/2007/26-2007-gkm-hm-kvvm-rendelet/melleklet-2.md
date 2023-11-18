@@ -44,7 +44,7 @@
 
 2. melléklet a 26/2007. (III. 1.) GKM–HM–KvVM
 
-együttes rendelethez[^106]
+együttes rendelethez[^107]
 
 ELLENŐRZÖTT, NEM ELLENŐRZÖTT ÉS IDŐSZAKOSAN KORLÁTOZOTT LÉGTEREK
 
@@ -1818,4 +1818,4 @@ IV. IDŐSZAKOSAN KORLÁTOZOTT LÉGTEREK (TRA)
 
 1. Időszakosan korlátozott légterek
 
-[^106]: A 2. melléklet a 45/2017. (XII. 4.) NFM rendelet 2. §-ával megállapított, a 33/2018. (XII. 17.) ITM rendelet 3. §-a, a 34/2019. (IX. 13.) ITM rendelet 7. § j)–o) pontja, 8. § (2) bekezdése és 9. § b)–c) pontja, a 33/2020. (X. 5.) ITM rendelet 3. § c) pontja, 4. § (2) bekezdése, a 3/2021. (I. 20.) ITM rendelet 1. §-a, az 55/2021. (XI. 5.) ITM rendelet 4–5. §-a, a 7/2022. (VII. 27.) TIM rendelet 3. §-a, a 7/2023. (IV. 14.) ÉKM rendelet 2. §-a szerint módosított szöveg. A Magyar Közlöny 201. számában megjelent helyesbítésnek megfelelő szöveg.
+[^107]: A 2. melléklet a 45/2017. (XII. 4.) NFM rendelet 2. §-ával megállapított, a 33/2018. (XII. 17.) ITM rendelet 3. §-a, a 34/2019. (IX. 13.) ITM rendelet 7. § j)–o) pontja, 8. § (2) bekezdése és 9. § b)–c) pontja, a 33/2020. (X. 5.) ITM rendelet 3. § c) pontja, 4. § (2) bekezdése, a 3/2021. (I. 20.) ITM rendelet 1. §-a, az 55/2021. (XI. 5.) ITM rendelet 4–5. §-a, a 7/2022. (VII. 27.) TIM rendelet 3. §-a, a 7/2023. (IV. 14.) ÉKM rendelet 2. §-a szerint módosított szöveg. A Magyar Közlöny 201. számában megjelent helyesbítésnek megfelelő szöveg.

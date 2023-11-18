@@ -23,3 +23,7 @@ e) a Budapest ATS Központtól telefonon kapott – a légtér igénybevételén
 (7) A tanúsítási célú veszélyes légtér 4000 láb AMSL felett akkor vehető igénybe, ha az abban repülést végrehajtó pilóta nélküli légijármű és pilóta nélküli állami légijármű működőképes C vagy S módú transzponderrel rendelkezik.
 
 (8) Ellenőrzött légtérrel átlapoló tanúsítási célú veszélyes légtérben pilóta nélküli légijármű és pilóta nélküli állami légijármű kizárólag működőképes C vagy S módú transzponder és kétoldalú folyamatos összeköttetést biztosító berendezés megléte esetén hajthat végre repülést.
+
+(9)[^27] C vagy S módú transzponderrel nem rendelkező pilóta nélküli állami légijármű TRA-ban, veszélyes légtérben, tanúsítási célú veszélyes légtérben és eseti légtérben működőképes ADS-B Out jeladó használata mellett üzemeltethető.
+
+[^27]: A 7/B. § (9) bekezdését a 8/2023. (V. 22.) ÉKM rendelet 2. §-a iktatta be.

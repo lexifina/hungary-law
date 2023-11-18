@@ -1,4 +1,4 @@
-4. melléklet a 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelethez[^108]
+4. melléklet a 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelethez[^109]
 
 A LÉGTÉRSZERKEZET MÓDOSÍTÁSÁRA IRÁNYULÓ JAVASLAT KÖTELEZŐ TARTALMI ELEMEI
 
@@ -20,10 +20,4 @@ A LÉGTÉRSZERKEZET MÓDOSÍTÁSÁRA IRÁNYULÓ JAVASLAT KÖTELEZŐ TARTALMI ELE
 
 2.4. ha a légtér típusa szükségessé teszi, a légiforgalmi irányító vagy légiforgalmi tájékoztató szolgálat megjelölése,
 
-2.5. repülőtéri légtér (a közelkörzeti légteret is beleértve) esetében a repülőtér műszerezettsége, a légtér felderítésére alkalmazott és egyéb navigációs eszközök,
-
-2.6. a légtér felhasználóira gyakorolt hatások vizsgálata, a forgalom összetételének várható változása, a tervezett légtérben végrehajtható műveletek változása (IFR/VFR),
-
-2.7. a meglévő légtérstruktúrába való beillesztés várható hatásai az érintett (környező) légterekre és repülőterekre,
-
-[^108]: A 4. mellékletet az 56/2011. (XI. 8.) NFM rendelet 7. §-a iktatta be.
+[^109]: A 4. mellékletet az 56/2011. (XI. 8.) NFM rendelet 7. §-a iktatta be.
