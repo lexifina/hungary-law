@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és a Ruandai Köztársaság Kormánya közötti Légiközlekedési Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
