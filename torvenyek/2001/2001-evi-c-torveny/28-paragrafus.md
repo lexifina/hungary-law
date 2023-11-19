@@ -12,7 +12,7 @@ b) a kutatás céljából tartózkodási engedéllyel rendelkező harmadik orsz�
 
 c) a bevándorolt, illetve letelepedett jogállású személy, valamint
 
-d) a magas szintű képzettséget igénylő munkavállalás és tartózkodás céljából kiállított engedéllyel (EU Kék Kártyával) rendelkező harmadik országbeli állampolgár,
+d) a magas szintű képzettséget igénylő munkavállalás és tartózkodás céljából Magyarország vagy valamely tagállam által kiállított engedéllyel (EU Kék Kártyával) rendelkező harmadik országbeli állampolgár,
 
 e) az összevont engedéllyel rendelkező harmadik országbeli állampolgár.
 

@@ -8,7 +8,7 @@
 
 21. § (1) E törvény rendelkezéseit az ebben a részben foglalt eltérésekkel kell alkalmazni, ha a kérelmező
 
-a) magyar állampolgár, valamely tagállam [28. § (1) bekezdés] állampolgára vagy azzal azonos megítélés alá eső személy [28. § (2) bekezdés],
+a) magyar állampolgár, valamely tagállam állampolgára vagy azzal azonos megítélés alá eső személy,
 
 b) a képzés sikeres elvégzését tanúsító okiratát valamely tagállamban szerezte, és
 
