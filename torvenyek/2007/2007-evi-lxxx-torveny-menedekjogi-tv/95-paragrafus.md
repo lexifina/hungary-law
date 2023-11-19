@@ -38,6 +38,8 @@ q) a nemzetközi védelmet kérelmezők befogadására vonatkozó szabályok meg
 
 r) a harmadik országok illegálisan tartózkodó állampolgárainak visszatérésével kapcsolatban a tagállamokban használt közös normákról és eljárásokról szóló, 2008. december 16-i 2008/115/EK parlamenti és tanácsi irányelvnek.
 
+s) a harmadik országbeli állampolgárok magas szintű képzettséget igénylő munkavállalás céljából való beutazásának és tartózkodásának feltételeiről és a 2009/50/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2021. október 20-i (EU) 2021/1883 európai parlamenti és tanácsi irányelv.
+
 (2) E törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapít meg:
 
 a) a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről szóló, 2008. július 9-i, 767/2008/EK európai parlamenti és tanácsi rendelet (VIS-rendelet) [35. §, 83. §],
