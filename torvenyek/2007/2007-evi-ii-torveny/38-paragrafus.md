@@ -8,7 +8,7 @@ b) az EU kék kártyával rendelkezik, és
 
 ba) a kérelem benyújtását közvetlenül megelőzően legalább két évig jogszerűen és megszakítás nélkül Magyarország területén tartózkodott, és
 
-bb) legalább öt évig jogszerűen és megszakítás nélkül az Európai Unió tagállamainak területén tartózkodott.
+bb) legalább öt évig EU Kék Kártyával, illetve magas szintű képzettséget igénylő munkavállalás céljából, kutatási vagy tanulmányi célú tartózkodási engedéllyel jogszerűen és megszakítás nélkül az Európai Unió tagállamainak területén tartózkodott.
 
 (2) Nem kaphat EK letelepedési engedélyt:
 

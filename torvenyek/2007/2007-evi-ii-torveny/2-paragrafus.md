@@ -44,7 +44,7 @@ n) dublini rendeletek: egy harmadik országbeli állampolgár vagy egy hontalan 
 
 o) foglalkoztatás: a vonatkozó jogszabályokkal összhangban bármely munka- vagy foglalkoztatási formát magában foglaló, munkavégzésre irányuló jogviszony alapján történő, valamely munkáltató javára, vagy irányítása alatt végzett tevékenység;
 
-p) magas szintű képzettséget igénylő munkavállalás: olyan személy foglalkoztatása legalább a harmadik országbeli állampolgár részére fizetendő minimális díjazás mértékének kiszámítási módjáról szóló jogszabályban meghatározott mértékű ellenérték fejében, aki rendelkezik a munkavégzéshez szükséges felsőfokú szakmai képesítéssel;
+p) magas szintű képzettséget igénylő munkavállalás: olyan személy foglalkoztatása legalább a harmadik országbeli állampolgár részére fizetendő minimális díjazás mértékének kiszámítási módjáról szóló jogszabályban meghatározott mértékű ellenérték fejében, aki rendelkezik a munkavégzéshez szükséges felsőfokú szakmai képesítéssel vagy jogszabály szerinti, meghatározott idejű releváns magas szintű szakmai képzettséggel;
 
 q) felsőfokú szakmai képesítés: a felsőfokú végzettséget és szakképzettséget tanúsító felsőfokú képesítés;
 
@@ -61,3 +61,5 @@ v) összevont engedély: olyan tartózkodási engedély, amely a harmadik orszá
 w) összevont kérelmezési eljárás: olyan eljárás, amely az általa benyújtott kérelem alapján a harmadik országbeli állampolgárnak Magyarország területén való száznyolcvan napon belül kilencven napot meghaladó tartózkodása és meghatározott foglalkoztatóval foglalkoztatási jogviszony létesítése engedélyezésére irányul.
 
 x) Fehér Kártya: olyan tartózkodási engedély, amelynek birtokosa Magyarországon kívüli országban igazolt foglalkoztatásra irányuló jogviszonyban áll, és a munkáját Magyarországról fejlett digitális technológiai megoldással végzi, vagy Magyarországon kívüli országban igazolt nyereséggel rendelkező vállalkozásban tulajdoni részesedéssel rendelkezik, és a munkáját vagy a vállalkozása irányítását Magyarországról fejlett digitális technológiai megoldással végzi.
+
+y) magas szintű szakmai képzettség: olyan tudás, készségek és kompetenciák, amelyeket a felsőfokú végzettséggel és szakképzettséggel összehasonlítható olyan szakmai tapasztalat igazol, amely a munkaszerződésben vagy a kötelező érvényű állásajánlatban meghatározott szakma vagy ágazat terén releváns, és amelyet jogszabályban meghatározott időszak alatt szereztek.

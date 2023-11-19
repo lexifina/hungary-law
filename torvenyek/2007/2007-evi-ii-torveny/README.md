@@ -72,3 +72,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-2-00-00
 | 2023-03-07 | 2020. évi XLII. törvény | 2007-2-00-00.74 |
 | 2023-07-01 | 2023. évi XXXVIII. törvény | 2007-2-00-00.76 |
 | 2023-07-24 | 2023. évi XXV. törvény | 2007-2-00-00.75 |
+| 2023-11-19 | 2023. évi XXXVIII. törvény | 2007-2-00-00.77 |

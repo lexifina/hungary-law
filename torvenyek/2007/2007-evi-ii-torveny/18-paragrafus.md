@@ -12,19 +12,31 @@ d) a családi kapcsolatot a családi együttélés céljára szolgáló tartózk
 
 (1b) Az EU Kék Kártya meghosszabbítását meg kell tagadni, illetve a kiadott EU Kék Kártyát vissza kell vonni, ha a harmadik országbeli állampolgár
 
-a) nem felel meg vagy az EU Kék Kártya kiadásakor nem felelt meg a 20/A. § (1) bekezdésében foglalt valamely feltételnek,
+a) nem felel meg vagy az EU Kék Kártya kiadásakor nem felelt meg a 20/A. § (1) bekezdés a), c) és d) pontjában foglalt valamely feltételnek,
 
-b) a munkakörhöz szükséges felsőfokú szakmai képesítéssel nem rendelkezik,
+b) a munkakörhöz szükséges felsőfokú szakmai képesítéssel, vagy jogszabály szerinti, meghatározott idejű releváns magas szintű szakmai képzettséggel nem rendelkezik,
 
 c) megélhetése Magyarország területén nem biztosított, kivéve, ha a harmadik országbeli állampolgár oly módon nem áll foglalkoztatásra irányuló jogviszonyban, hogy az e) vagy f) pontban foglalt feltételek nem valósulnak meg,
 
 d) a tartózkodási jogosultság megszerzése érdekében az eljáró hatósággal hamis adatot, valótlan tényt közölt, vagy a tartózkodási cél vonatkozásában az eljáró hatóságot megtévesztette, illetve tartózkodásának célja az engedélyezettől eltér,
 
-e) legalább egymást követő három hónapon keresztül nem áll foglalkoztatásra irányuló jogviszonyban,
+e) az EU Kék Kártya kiállítását követő két évben legalább egymást követő három hónapon keresztül, vagy az EU Kék Kártya kiállítását követő két év eltelte után legalább egymást követő hat hónapon keresztül nem áll foglalkoztatásra irányuló jogviszonyban,
 
-f) foglalkoztatásra irányuló jogviszonya az EU Kék Kártya érvényességi ideje alatt legalább két alkalommal megszűnt, vagy
+f) foglalkoztatásra irányuló jogviszonya az EU Kék Kártya érvényességi ideje alatt legalább két alkalommal megszűnt,
 
 g) az EU Kék Kártya kiadását követő két évben előzetes írásbeli engedély nélkül végzett a korábban engedélyezettektől eltérő munkát.
+
+h) a 20/A. § (1) bekezdés b) pontjában foglalt feltételnek azért nem felel meg, mert
+
+ha) a munkáltató nem teljesítette a jogszabály szerinti társadalombiztosításra, adózásra, munkáltatói jogokra, illetve munkakörülményekre vonatkozó jogi kötelezettségeit, vagy
+
+hb) már nem teljesülnek az érintett foglalkozási ágazatban a magas szintű képzettséget igénylő munkavállalásra vonatkozó feltételek,
+
+és az idegenrendészeti hatóság által jogszabály szerint biztosított időtartam alatt új munkaviszonyt nem jelent be,
+
+i) nem jelentette be a 20/A. § (1) bekezdésében meghatározott feltételekben bekövetkezett változást vagy a 29/A. § (9) bekezdés a) pontjában foglaltakat, kivéve, ha igazolja, hogy a bejelentés rajta kívül álló okból nem érkezett meg az illetékes hatósághoz, vagy
+
+j) nem tesz eleget a 20/B. §-ban meghatározott feltételeknek.
 
 (1c) Szezonális munkavállalás céljából a tartózkodási engedély kiadását meg kell tagadni az (1) bekezdés a)–c) pontjában meghatározott eseteken túl akkor is, ha a harmadik országbeli állampolgár
 

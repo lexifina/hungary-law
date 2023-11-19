@@ -14,4 +14,4 @@
 
 (6) A IX. Fejezetet a (3) bekezdésben meghatározott személyek beutazásával és tartózkodásával kapcsolatos eljárásokra is alkalmazni kell.
 
-(7) Magyarországon harmadik országbeli állampolgár egy jogcímen tartózkodhat. Amennyiben a tartózkodási jogosultsággal rendelkező harmadik országbeli állampolgár meglévő jogcíme mellett más jogcímen kap tartózkodásra jogosító engedélyt – ide értve a menedékjogról szóló törvény szerinti jogcímeket is – a korábbi tartózkodási jogcímen kiadott tartózkodásra jogosító engedélyét az idegenrendészeti hatóság érvényteleníti.
+(7) Magyarországon harmadik országbeli állampolgár – a 2. § r) pontja szerinti EU Kék Kártya kivételével – egy jogcímen tartózkodhat. Amennyiben a tartózkodási jogosultsággal rendelkező harmadik országbeli állampolgár meglévő jogcíme mellett más jogcímen kap tartózkodásra jogosító engedélyt – ideértve a menedékjogról szóló törvény szerinti jogcímeket is –, a korábbi tartózkodási jogcímen kiadott tartózkodásra jogosító engedélyét az idegenrendészeti hatóság érvényteleníti.

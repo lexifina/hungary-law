@@ -34,7 +34,7 @@ o) a Tanács 1997. december 4-i állásfoglalása az érdekházasságok elleni k
 
 p) a harmadik országok illegálisan tartózkodó állampolgárainak visszatérésével kapcsolatban a tagállamokban használt közös normákról és eljárásokról szóló, 2008. december 16-i 2008/115/EK parlamenti és tanácsi irányelv;
 
-q) a Tanács 2009/50/EK irányelve (2009. május 25.) a harmadik országbeli állampolgárok magas képzettséget igénylő munkavállalás céljából való belépésének és tartózkodásának feltételeiről
+q) a harmadik országbeli állampolgárok magas szintű képzettséget igénylő munkavállalás céljából való beutazásának és tartózkodásának feltételeiről és a 2009/50/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2021. október 20-i (EU) 2021/1883 európai parlamenti és tanácsi irányelv;
 
 r) a Tanács 2009/52 irányelve (2009. június 18.) az illegálisan tartózkodó harmadik országbeli állampolgárokat foglalkoztató munkáltatókkal szembeni szankciókra és intézkedésekre vonatkozó minimumszabályokról;
 

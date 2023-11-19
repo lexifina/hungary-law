@@ -30,8 +30,12 @@ ga) valamely vállalaton belül áthelyezett személy számára szóló engedél
 
 gb) engedélyt a harmadik országbeli állampolgárok kutatás, tanulmányok folytatása, gyakorlat, önkéntes szolgálat, diákcsereprogramok vagy oktatási projektek, és au pair tevékenység céljából történő beutazásának és tartózkodásának feltételeiről szóló, 2016. május 11-i (EU) 2016/801 európai parlamenti és tanácsi irányelv alapján a harmadik országbeli állampolgárnak;
 
+gc) EU Kék Kártyát a harmadik országbeli állampolgár számára;
+
 h) második tagállam: az első tagállamtól eltérő minden olyan tagállam, amelyben
 
 ha) a vállalaton belül áthelyezett személy gyakorolni kívánja vagy gyakorolja a törvény szerinti mobilitáshoz való jogot;
 
 hb) a harmadik országbeli állampolgárok kutatás, tanulmányok folytatása, gyakorlat, önkéntes szolgálat, diákcsereprogramok vagy oktatási projektek, és au pair tevékenység céljából történő beutazásának és tartózkodásának feltételeiről szóló, 2016. május 11-i (EU) 2016/801 európai parlamenti és tanácsi irányelv alapján a harmadik országbeli állampolgár gyakorolni kívánja vagy gyakorolja a törvény szerinti mobilitáshoz való jogot.
+
+hc) az EU Kék Kártya birtokosa gyakorolni kívánja vagy gyakorolja a 20/B. § szerinti mobilitáshoz való jogot.
