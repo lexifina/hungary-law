@@ -26,6 +26,8 @@ b) a harmadik országbeli állampolgár kutatói hosszú távú mobilitási tart
 
 c) a harmadik országbeli állampolgár családtag kutatói hosszú távú mobilitási tartózkodási engedély iránti kérelmét.
 
+(5)[^174] Az EU Kék Kártya iránti kérelemmel egyidejűleg kell elbírálni az azzal együtt benyújtott családi együttélés biztosítása célú tartózkodási engedély iránti kérelmet.
+
 [^166]: A 49. § e rendelet 182. § (2) bekezdésének o) pontja alapján a Magyar Köztársaságot a schengeni vívmányok teljes körű alkalmazására felhatalmazó tanácsi határozatban meghatározott napon lépett hatályba. A 2007/801/EK tanácsi határozat 1. cikk (1) bekezdése alapján a schengeni vívmányokat 2007. december 21-től, a légi határokra vonatkozóan 2008. március 30-tól kell alkalmazni.
 [^167]: A 49. § (1) bekezdését a 411/2017. (XII. 15.) Korm. rendelet 35. § b) pontja hatályon kívül helyezte.
 [^168]: A 49. § (2) bekezdés nyitó szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 547. §-a, a 290/2010. (XII. 21.) Korm. rendelet 125. § (8) bekezdése szerint módosított szöveg.
@@ -34,3 +36,4 @@ c) a harmadik országbeli állampolgár családtag kutatói hosszú távú mobil
 [^171]: A 49. § (3) bekezdés c) pontját a 113/2016. (V. 30.) Korm. rendelet 27. §-a iktatta be.
 [^172]: A 49. § (3) bekezdés d) pontját a 411/2017. (XII. 15.) Korm. rendelet 20. § (1) bekezdése iktatta be.
 [^173]: A 49. § (4) bekezdését a 411/2017. (XII. 15.) Korm. rendelet 20. § (2) bekezdése iktatta be.
+[^174]: A 49. § (5) bekezdését a 280/2023. (VI. 29.) Korm. rendelet 11. §-a iktatta be.

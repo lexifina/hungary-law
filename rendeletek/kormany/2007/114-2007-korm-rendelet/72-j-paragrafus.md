@@ -1,6 +1,6 @@
-## A vállalaton belüli áthelyezés célú tartózkodási engedély kiadására és a mobilitásra vonatkozó szabályok[^263]
+## A vállalaton belüli áthelyezés célú tartózkodási engedély kiadására és a mobilitásra vonatkozó szabályok[^266]
 
-72/J. §[^264] (1) A vállalaton belüli áthelyezés célú tartózkodási engedély kiadására irányuló eljárásban a Tv. 13. § (1) bekezdés d) pontjában foglalt feltétel fennállása a harmadik országbeli állampolgár és a harmadik országban letelepedett vállalkozás között fennálló munkaszerződéssel vagy megbízólevéllel igazolható, amely tartalmazza a Tv. 20/E. § (1) bekezdés c) pontjában meghatározott időtartamot.
+72/J. §[^267] (1) A vállalaton belüli áthelyezés célú tartózkodási engedély kiadására irányuló eljárásban a Tv. 13. § (1) bekezdés d) pontjában foglalt feltétel fennállása a harmadik országbeli állampolgár és a harmadik országban letelepedett vállalkozás között fennálló munkaszerződéssel vagy megbízólevéllel igazolható, amely tartalmazza a Tv. 20/E. § (1) bekezdés c) pontjában meghatározott időtartamot.
 
 (2) A vállalaton belüli áthelyezés célú tartózkodási engedély kiadására irányuló kérelemhez – a 47. § (7) és (8) bekezdésében foglaltak mellett – mellékelni kell:
 
@@ -12,7 +12,7 @@ c) a magyarországi fogadó szervezet által kiállított nyilatkozatot, mely sz
 
 d) a Tv. 20/E. § (1) bekezdés d) pontjában meghatározott feltétel tekintetében a vállalaton belüli áthelyezés során az Európai Unió tagállamaiban eltölteni kívánt időtartamra vonatkozó, a harmadik országban letelepedett vállalkozás által kiállított nyilatkozatot.
 
-(3)[^265]
+(3)[^268]
 
 (4) A vállalaton belüli áthelyezés célú tartózkodási engedély kiadására irányuló eljárásban a megélhetés nem tekinthető biztosítottnak, ha a harmadik országbeli állampolgár nem rendelkezik elegendő forrással önmaga és családtagjai számára ahhoz, hogy tartózkodásuk ne jelentsen indokolatlan terhet Magyarország szociális ellátó rendszerére.
 
@@ -30,6 +30,6 @@ három hónapnál hosszabb ideig részesül.
 
 (7) A vállalaton belüli áthelyezés célú tartózkodási engedély kiadására irányuló eljárás során az összevont engedély kiadásáig a harmadik országbeli állampolgár haladéktalanul értesíti az illetékes regionális igazgatóságot a kérelemhez mellékelt okiratok tartalmában bekövetkezett változásról.
 
-[^263]: A 72/J. §-t megelőző alcímet a 113/2016. (V. 30.) Korm. rendelet 36. §-a iktatta be.
-[^264]: A 72/J. §-t a 113/2016. (V. 30.) Korm. rendelet 36. §-a iktatta be.
-[^265]: A 72/J. § (3) bekezdését a 628/2022. (XII. 30.) Korm. rendelet 17. § e) pontja hatályon kívül helyezte.
+[^266]: A 72/J. §-t megelőző alcímet a 113/2016. (V. 30.) Korm. rendelet 36. §-a iktatta be.
+[^267]: A 72/J. §-t a 113/2016. (V. 30.) Korm. rendelet 36. §-a iktatta be.
+[^268]: A 72/J. § (3) bekezdését a 628/2022. (XII. 30.) Korm. rendelet 17. § e) pontja hatályon kívül helyezte.

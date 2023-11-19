@@ -1,3 +1,3 @@
-65. §[^207]
+65. §[^208]
 
-[^207]: A 65. §-t a 628/2022. (XII. 30.) Korm. rendelet 17. § c) pontja hatályon kívül helyezte.
+[^208]: A 65. §-t a 628/2022. (XII. 30.) Korm. rendelet 17. § c) pontja hatályon kívül helyezte.
