@@ -1,5 +1,5 @@
 ## 15. A közlekedési létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 161/2019. (VII. 4.) Korm. rendelet módosítása
 
-45. §[^49]
+45. §[^41]
 
-[^49]: A 45. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^41]: A 45. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

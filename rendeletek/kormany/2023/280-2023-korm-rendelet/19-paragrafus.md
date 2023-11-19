@@ -1,19 +1,18 @@
 19. § A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról szóló 114/2007. (V. 24.) Korm. rendelet
 
-a)[^19]
+a) 72/A. § (2) bekezdésében a „legfeljebb négyéves” szövegrész helyébe a „legalább hat hónapos” szöveg,
 
-b)[^20]
+b)[^14]
 
-c)[^21]
+c)[^15]
 
-d)[^22]
+d)[^16]
 
-e)[^23]
+e)[^17]
 
 lép.
 
-[^19]: A 19. § a) pontja a 49. § (3) bekezdés alapján 2023. november 19-én lép hatályba.
-[^20]: A 19. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^21]: A 19. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^22]: A 19. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^23]: A 19. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 19. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 19. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 19. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 19. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-280-20-
 | 2023-07-02 | 2023-280-20-22.2 | 2010. évi CXXX. törvény |
 | 2023-11-01 | 2023-280-20-22.3 | 486/2023. (X. 31.) Korm. rendelet |
 | 2023-11-02 | 2023-280-20-22.4 | 2010. évi CXXX. törvény |
+| 2023-11-19 | 2023-280-20-22.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
