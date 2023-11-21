@@ -1,0 +1,1 @@
+3. § A tartalékköteles hitelintézet e rendelet hatálybalépését követő első negyedévre vonatkozóan a kötelező tartalékráta mértékéről szóló 6/2023. (III. 8.) MNB rendelet 2. § (1) bekezdése szerinti nyilatkozatot nem tesz.
