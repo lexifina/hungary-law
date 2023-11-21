@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-54-20-2
 | 2022-10-01 | 2021-54-20-2C.5 | 44/2022. (IX. 30.) MNB rendelet |
 | 2023-01-01 | 2021-54-20-2C.6 | 49/2022. (XI. 22.) MNB rendelet |
 | 2023-05-26 | 2021-54-20-2C.7 | 44/2022. (IX. 30.) MNB rendelet |
+| 2023-11-21 | 2021-54-20-2C.8 | 54/2023. (XI. 20.) MNB rendelet |

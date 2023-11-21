@@ -2,7 +2,7 @@
 
 ## I.
 
-## 3X03005N.docx
+## 3X08788M.docx
 
 |  | MNB azonosító kód | Megnevezés | Az adatszolgáltatók köre | Az adatszolgáltatás |
 
@@ -105,6 +105,10 @@
 | 47 | F99 | Vagyonkezelő és csoportfinanszírozó tevékenységet végző vállalatok pénzügyi adatai | kijelölt – a 2. melléklet I. A. pontja szerinti Z) Zártkörű pénzügyi közvetítők szektorába sorolt – gazdasági szervezet | egyedi elrendelés alapján, negyedéves | elektronikus úton (ERA rendszer) | tárgyidőszakot követő hónap 30. nap |
 
 | 48 | J01 | Természetes személyek anonimizált jövedelmi és munkatörténeti adatai | MÁK | éves | elektronikus úton (elektronikus adathordozó) | tárgyidőszakot követő év október 31. |
+
+| 48a | J02 | Családtámogatást igénylő természetes személyekre, a támogatásokra és a támogatott ingatlanra vonatkozó egyes adatok | MÁK | éves | elektronikus úton (elektronikus adathordozó) | október 31. |
+
+| 48b | J03 | Családtámogatások feltételeinek teljesülésével kapcsolatos adatok | MÁK | negyedéves, az I., III. és IV. naptári negyedévre vonatkozóan | elektronikus úton (elektronikus adathordozó) | tárgyidőszakot követő negyedik hónap utolsó munkanap |
 
 | 49 | K02 | Napi jelentés a bankközi forinthitelek és forintbetétek kamatlábáról | bank, szakosított hitelintézet, az ezen típusú EGT-fióktelep | napi | elektronikus úton (ERA rendszer) | tárgynapot követő munkanap 8:30 óra |
 
@@ -336,6 +340,6 @@
 
 | 7 | Z07 | Anonimizált konszolidált biztosított betéti adatok | Országos Betétbiztosítási Alap | megállapodás szerint | elektronikus úton (elektronikus adathordozó) | megállapodás szerint |
 
-2. melléklet az 54/2021. (XI. 23.) MNB rendelethez[^8]
+2. melléklet az 54/2021. (XI. 23.) MNB rendelethez[^10]
 
-[^8]: A 2. melléklet a 62/2021. (XII. 9.) MNB rendelet 3. §-a, a 22/2022. (VI. 11.) MNB rendelet 5. §-a, a 44/2022. (IX. 30.) MNB rendelet 3. §-a, a 49/2022. (XI. 22.) MNB rendelet 1. § b) pontja, az 58/2022. (XII. 22.) MNB rendelet 2. §-a, a 21/2023. (V. 11.) MNB rendelet 1. §-a szerint módosított szöveg. [ A 2. melléklet I.A.!. pontjában a 49/2022. (XI. 22.) MNB rendelet 1. § b) pontja (2. melléklet 29. pont a) alpontja által elrendelt módosítás, amely szerint a „szervezetekről is listát publikál az 5.2.2. alpontban foglaltak szerint” szövegrész helyébe a „szervezeteket is felteszi a 3. melléklet 1. pontja szerinti, az MNB honlapján közzétett listára” szöveg lép, nem vezethető át. ]
+[^10]: A 2. melléklet a 62/2021. (XII. 9.) MNB rendelet 3. §-a, a 22/2022. (VI. 11.) MNB rendelet 5. §-a, a 44/2022. (IX. 30.) MNB rendelet 3. §-a, a 49/2022. (XI. 22.) MNB rendelet 1. § b) pontja, az 58/2022. (XII. 22.) MNB rendelet 2. §-a, a 21/2023. (V. 11.) MNB rendelet 1. §-a, az 54/2023. (XI. 20.) MNB rendelet 2. § (1) bekezdés b) pontja szerint módosított szöveg. [ A 2. melléklet I.A.!. pontjában a 49/2022. (XI. 22.) MNB rendelet 1. § b) pontja (2. melléklet 29. pont a) alpontja által elrendelt módosítás, amely szerint a „szervezetekről is listát publikál az 5.2.2. alpontban foglaltak szerint” szövegrész helyébe a „szervezeteket is felteszi a 3. melléklet 1. pontja szerinti, az MNB honlapján közzétett listára” szöveg lép, nem vezethető át. ]

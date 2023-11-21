@@ -1,3 +1,3 @@
-1. melléklet az 54/2021. (XI. 23.) MNB rendelethez[^7]
+1. melléklet az 54/2021. (XI. 23.) MNB rendelethez[^9]
 
-[^7]: Az 1. melléklet a 44/2022. (IX. 30.) MNB rendelet 2. § b) pontja, a 49/2022. (XI. 22.) MNB rendelet 1. § a) pontja, a 21/2023. (V. 11.) MNB rendelet 2. §-a szerint módosított szöveg.
+[^9]: Az 1. melléklet a 44/2022. (IX. 30.) MNB rendelet 2. § b) pontja, a 49/2022. (XI. 22.) MNB rendelet 1. § a) pontja, a 21/2023. (V. 11.) MNB rendelet 2. §-a, az 54/2023. (XI. 20.) MNB rendelet 2. § (1) bekezdés a) pontja szerint módosított szöveg.

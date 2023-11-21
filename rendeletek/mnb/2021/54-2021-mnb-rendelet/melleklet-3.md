@@ -978,7 +978,7 @@
 
 ## II. A SZOLGÁLTATANDÓ INFORMÁCIÓKHOZ KAPCSOLÓDÓ TÁBLÁK ÉS AZ AZOK KITÖLTÉSÉRE VONATKOZÓ RENDELKEZÉSEK
 
-## 3X03005M.pdf
+## 3X08790M.pdf
 
 3. melléklet az 54/2021. (XI. 23.) MNB rendelethez
 
@@ -1018,7 +1018,7 @@ Az információk szolgáltatásához szükséges technikai segédletek
 
 4.13. Kódlista a D10 MNB azonosító kódú adatszolgáltatáshoz
 
-4.14. Kódlista a J01 MNB azonosító kódú adatszolgáltatáshoz
+4.14.[^11] Kódlista a J jelű adatszolgáltatáshoz
 
 4.15. Kódlista az L70MNB azonosító kódú adatszolgáltatáshoz
 
@@ -1032,9 +1032,10 @@ Az információk szolgáltatásához szükséges technikai segédletek
 
 9. Módszertani segédletek az egyes adatszolgáltatásokhoz; Példatárak
 
-10.[^9]
+10.[^12]
 
-11.[^10]
+11.[^13]
 
-[^9]: A 3. melléklet 10. pontját a 49/2022. (XI. 22.) MNB rendelet 2. §-a hatályon kívül helyezte.
-[^10]: A 3. melléklet 11. pontját a 49/2022. (XI. 22.) MNB rendelet 2. §-a hatályon kívül helyezte.
+[^11]: A 3. melléklet 4. pont 4.14. alpontja az 54/2023. (XI. 20.) MNB rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^12]: A 3. melléklet 10. pontját a 49/2022. (XI. 22.) MNB rendelet 2. §-a hatályon kívül helyezte.
+[^13]: A 3. melléklet 11. pontját a 49/2022. (XI. 22.) MNB rendelet 2. §-a hatályon kívül helyezte.
