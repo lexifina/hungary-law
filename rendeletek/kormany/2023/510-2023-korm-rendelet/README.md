@@ -1,0 +1,9 @@
+# 510/2023. (XI. 20.) Korm. rendelet
+
+a közhasználatú fürdők létesítéséről és üzemeltetéséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-510-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2023-11-21 | 2023-510-20-22.1 | 510/2023. (XI. 20.) Korm. rendelet |
