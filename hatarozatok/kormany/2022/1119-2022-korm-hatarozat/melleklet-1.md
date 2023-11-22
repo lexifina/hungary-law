@@ -34,7 +34,21 @@
 
 | Határidő: | a 7. pontban meghatározott forrás rendelkezésre állását követően azonnal |
 
-1. melléklet az 1119/2022. (III. 5.) Korm. határozathoz[^4]
+## 9.[^4] egyetért a szomszédos országokban felmerülő – Magyarország területét közvetlenül érintő – humanitárius katasztrófa kezelésével kapcsolatos feladatok ellátásának 2023. évi kiegészítése érdekében a Karitatív Tanács szervezeti tagjának további támogatásával;
+
+## 10.[^5] felhívja a pénzügyminisztert, hogy – a miniszterelnök általános helyettese bevonásával – gondoskodjon a 9. pontban meghatározott cél megvalósítása érdekében 33 377 515 forint forrás rendelkezésre állásáról a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 30. Egyházi célú központi költségvetési hozzájárulások jogcímcsoport, 1. Egyházi közfeladatellátáshoz kapcsolódó céltámogatások és karitatív feladatok támogatása jogcíme javára;
+
+| Felelős: | pénzügyminiszter a miniszterelnök általános helyettese |
+
+| Határidő: | azonnal |
+
+## 11.[^6] felhívja a miniszterelnök általános helyettesét, hogy a 9. pontban foglalt cél megvalósítása érdekében, a 10. pontban meghatározott forrás terhére 33 357 500 forint támogatási összegben létesítsen támogatási jogviszonyt.
+
+| Felelős: | a miniszterelnök általános helyettese |
+
+| Határidő: | a 10. pontban meghatározott forrás rendelkezésre állását követően azonnal |
+
+1. melléklet az 1119/2022. (III. 5.) Korm. határozathoz[^7]
 
 2X01608M_0
 
@@ -113,4 +127,7 @@
 [^1]: A 6. pontot az 1631/2022. (XII. 16.) Korm. határozat bevezetője iktatta be.
 [^2]: A 7. pontot az 1631/2022. (XII. 16.) Korm. határozat bevezetője iktatta be.
 [^3]: A 8. pontot az 1631/2022. (XII. 16.) Korm. határozat bevezetője iktatta be.
-[^4]: Az 1. melléklet az 1121/2022. (III. 7.) Korm. határozat 10. pontja szerint módosított szöveg.
+[^4]: A 9. pontot az 1509/2023. (XI. 22.) Korm. határozat szövege iktatta be.
+[^5]: A 10. pontot az 1509/2023. (XI. 22.) Korm. határozat szövege iktatta be.
+[^6]: A 11. pontot az 1509/2023. (XI. 22.) Korm. határozat szövege iktatta be.
+[^7]: Az 1. melléklet az 1121/2022. (III. 7.) Korm. határozat 10. pontja szerint módosított szöveg.
