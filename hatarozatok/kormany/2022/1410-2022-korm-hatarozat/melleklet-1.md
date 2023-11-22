@@ -18,9 +18,9 @@
 
 ## 2. a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény 13. § (1) bekezdés c) pontjára figyelemmel
 
-## a) egyetért a HE Partnerségekben történő magyar részvételhez szükséges 39 284 000 eurónak megfelelő forint összegű forrásnak a Nemzeti Kutatási, Fejlesztési és Innovációs Alap (a továbbiakban: NKFI Alap) szabad maradványának terhére történő, az egyenleget nem rontó biztosításával, az 1. mellékletben meghatározott ütemezés és megoszlás szerint,
+## a) [^2] egyetért a HE Partnerségekben történő magyar részvételhez szükséges 39 284 000 eurónak megfelelő forintösszegű forrásnak a Nemzeti Kutatási, Fejlesztési és Innovációs Alap (a továbbiakban: NKFI Alap) szabad maradványának terhére történő, az egyenleget nem rontó biztosításával az 1. mellékletben meghatározott ütemezés szerint, azzal, hogy a tárgyévi forrás megoszlását a HE Partnerségekben való magyar részvételhez igazodóan, a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal (a továbbiakban: NKFI Hivatal) elnökének javaslatára a kultúráért és innovációért felelős miniszter határozza meg,
 
-## b) felhívja a kultúráért és innovációért felelős minisztert, hogy a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal elnöke útján gondoskodjon a HE Partnerségekben történő részvételhez szükséges, a) alpont szerinti forrás NKFI Alap szabad maradvány terhére történő, az egyenleget nem rontó biztosítása érdekében szükséges intézkedésekről, az 1. mellékletben meghatározott ütemezés és megoszlás szerint.
+## b) [^3] felhívja a kultúráért és innovációért felelős minisztert, hogy az NKFI Hivatal elnöke útján gondoskodjon a HE Partnerségekben történő részvételhez szükséges, a) alpont szerinti forrás NKFI Alap szabad maradvány terhére történő, az egyenleget nem rontó biztosítása érdekében szükséges intézkedésekről, az 1. mellékletben meghatározott ütemezés szerint.
 
 ## Felelős: kultúráért és innovációért felelős miniszter
 
@@ -28,28 +28,16 @@
 
 ## a 2023. évtől a tárgyévi programstratégia tervezése során
 
-1. melléklet az 1410/2022. (VIII. 18.) Korm. határozathoz
+1. melléklet az 1410/2022. (VIII. 18.) Korm. határozathoz[^4]
 
-millió euró
+|  | A | B | C | D | E | F | G | H | I |
 
-|  | A | B | C | D | E | F | G | H | I | J |
-
-| 1. | A Horizont Európa partnerség megnevezése | Éves szintű kötelezettségvállalások (millió euró) | Összesen |
+| 1. | Éves szintű kötelezettségvállalások (millió euró) | Összesen |
 
 | 2. | 2022 | 2023 | 2024 | 2025 | 2026 | 2027 | 2028 | 2029 |
 
-| 3. | Biodiversity | 0 | 0,25 | 0,25 | 0,25 | 0,25 | 0,25 | 0,25 | 0 | 1,5 |
+| 3. | 3,094 | 5,845 | 5,845 | 5,845 | 5,845 | 5,855 | 5,855 | 1,1 | 39,284 |
 
-| 4. | Water4All | 0 | 0,33 | 0,33 | 0,33 | 0,33 | 0,34 | 0,34 | 0 | 2 |
-
-| 5. | EUROSTARS-3 (Innovative SMEs) | 1,094 | 1 | 1 | 1 | 1 | 1 | 1 | 0 | 7,094 |
-
-| 6. | Driving Urban Transition (DUT) | 0 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 7 |
-
-| 7. | Clean Energy Transition (CETP) | 0 | 1,165 | 1,165 | 1,165 | 1,165 | 1,165 | 1,165 | 0 | 6,99 |
-
-| 8. | Key Digital Technologies (KDT) | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 0 | 14 |
-
-| 9. | ERA for Health | 0 | 0,1 | 0,1 | 0,1 | 0,1 | 0,1 | 0,1 | 0,1 | 0,7 |
-
-| 10. | Összesen | 3,094 | 5,845 | 5,845 | 5,845 | 5,845 | 5,855 | 5,855 | 1,1 | 39,284 |
+[^2]: A 2. pont a) alpontja az 1510/2023. (XI. 22.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: A 2. pont b) alpontja az 1510/2023. (XI. 22.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^4]: Az 1. melléklet az 1510/2023. (XI. 22.) Korm. határozat 2. pontjával megállapított szöveg.
