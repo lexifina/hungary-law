@@ -1,9 +1,3 @@
-2. § (1) A Rendelet
+2. §[^3]
 
-a) 1. melléklete az 1. melléklet szerint,
-
-b) 2. melléklete a 2. melléklet szerint
-
-módosul.
-
-(2) A Rendelet 3. melléklet 4. pont 4.14. alpontjában a „J01 MNB azonosító kódú” szövegrész helyébe a „J jelű” szöveg lép.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
