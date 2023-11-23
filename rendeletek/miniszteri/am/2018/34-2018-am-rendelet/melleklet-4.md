@@ -1,5 +1,3 @@
-## A középvállalkozás méretű élelmiszer-vállalkozás élelmiszer-előállítási tevékenysége esetén a szakmai felelős személy számára minimálisan előírt, felsőoktatási szakképzésben, felsőfokú végzettségi szinten vagy szakirányú továbbképzésben megszerzett szakképzettség
-
 |  | A |
 
 | 1. | Szakképzettség / Szakirányú továbbképzésben megszerzett szakképzettség |
@@ -43,3 +41,5 @@
 ## ***** kizárólag sörgyártás tevékenység esetén
 
 4. melléklet a 34/2018. (XII. 3.) AM rendelethez
+
+A középvállalkozásoknál nagyobb méretű élelmiszer-vállalkozás élelmiszer-előállítási tevékenysége esetén a szakmai felelős személy számára minimálisan előírt felsőoktatási szakképzésben, felsőfokú végzettségi szinten vagy szakirányú továbbképzésben megszerzett szakképzettség

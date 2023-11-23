@@ -1,5 +1,3 @@
-## A kisvállalkozás méretű élelmiszer-vállalkozás élelmiszer-előállítási tevékenysége esetén a szakmai felelős személy számára előírt minimális élelmiszeripari szakképesítés vagy szakirányú továbbképzésben megszerzett szakképzettség
-
 |  | A | B | C |
 
 | 1. | Tevékenység szerinti besorolás | TEÁOR ’08 | Szakképesítés / Szakirányú továbbképzésben megszerzett szakképzettség |
@@ -63,3 +61,5 @@
 | 30. | Malomipari termékgyártás | 10.61 | molnár |
 
 3. melléklet a 34/2018. (XII. 3.) AM rendelethez
+
+A középvállalkozás méretű élelmiszer-vállalkozás élelmiszer-előállítási tevékenysége esetén a szakmai felelős személy számára minimálisan előírt, felsőoktatási szakképzésben, felsőfokú végzettségi szinten vagy szakirányú továbbképzésben megszerzett szakképzettség

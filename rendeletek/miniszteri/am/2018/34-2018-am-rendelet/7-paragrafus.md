@@ -13,3 +13,5 @@ c) a cukrászmester esetében a Magyar Kereskedelmi és Iparkamara,
 d) a megszerzett szakirányú felsőfokú szakképzettség tekintetében az oklevelet kiállító intézmény vagy annak jogutódja,
 
 e) a külföldön megszerzett szakképesítések vagy képzettségek tekintetében az annak elismerésére vagy honosítására jogosult intézmény
+
+adja ki.

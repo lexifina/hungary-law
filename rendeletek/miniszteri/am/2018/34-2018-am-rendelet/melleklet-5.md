@@ -1,5 +1,3 @@
-## A középvállalkozásoknál nagyobb méretű élelmiszer-vállalkozás élelmiszer-előállítási tevékenysége esetén a szakmai felelős személy számára minimálisan előírt felsőoktatási szakképzésben, felsőfokú végzettségi szinten vagy szakirányú továbbképzésben megszerzett szakképzettség
-
 |  | A |
 
 | 1. | Szakképzettség / Szakirányú továbbképzésben megszerzett szakképzettség |

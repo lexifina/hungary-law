@@ -44,9 +44,9 @@ gc) az élelmiszer-adalékanyag, -aroma, -enzim gyártása vagy
 
 gd) a dúsított élelmiszerek gyártása
 
-## esetében legalább az 5. mellékletben meghatározott szakirányú felsőfokú mesterképzésben megszerzett szakképzettséggel és igazoltan az adott tevékenységi körben megszerzett legalább 1 éves, az adott szakiránynak megfelelő szakmai tapasztalattal
+esetében legalább az 5. mellékletben meghatározott szakirányú felsőfokú mesterképzésben megszerzett szakképzettséggel és igazoltan az adott tevékenységi körben megszerzett legalább 1 éves, az adott szakiránynak megfelelő szakmai tapasztalattal
 
-## rendelkezik.
+rendelkezik.
 
 (3) Ha a mikro- és kisvállalkozás méretű vállalkozás, az 1. és 2. mellékletben nem szereplő TEÁOR 10.89 besorolási számú, egyéb élelmiszer gyártása tevékenységet végez, a szakmai felelős személy az lehet, aki rendelkezik
 
@@ -60,6 +60,6 @@ a) több élelmiszer-előállítási tevékenységet folytat vagy
 
 b) több élelmiszer-előállító telephellyel rendelkezik,
 
-## akkor az élelmiszer-vállalkozás az azonos szakágazati tevékenységekhez alkalmazhat egy szakmai felelős személyt.
+akkor az élelmiszer-vállalkozás az azonos szakágazati tevékenységekhez alkalmazhat egy szakmai felelős személyt.
 
 (5) Az élelmiszer-vállalkozás méret alapján történő besorolása esetén – a szakmai felelős személy minimális képesítésének meghatározásakor – a vállalkozásnál az azonos szakágazati tevékenységet végzőket kell figyelembe venni és összegezni.

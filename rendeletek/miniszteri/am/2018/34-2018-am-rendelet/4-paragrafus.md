@@ -18,8 +18,8 @@ cc) az 54-es szintű 524-es számú vegyipar tanulmányi szakterületen 03 sorsz
 
 cd) a 34-es szintű 524-es számú vegyipar tanulmányi szakterületen 01 sorszámmal jelölt gyógyszerkészítmény-gyártó szakképesítéssel
 
-## és igazoltan az adott tevékenységi körben megszerzett legalább 1 éves szakmai tapasztalattal
+és igazoltan az adott tevékenységi körben megszerzett legalább 1 éves szakmai tapasztalattal
 
-## rendelkezik.
+rendelkezik.
 
 (2) A szakmai felelős személy és az intézkedésre feljogosított felelős személy azonos lehet, ha a 3. és 4. § által előírt feltételeknek egyaránt megfelel.
