@@ -1,4 +1,4 @@
-## 2/C. [^25] Az élelmiszerenzimekkel, élelmiszerenzim-készítményekkel, élelmiszer-adalékanyagokkal és aromákkal kapcsolatos tájékoztatási követelmények
+## 2/C. [^26] Az élelmiszerenzimekkel, élelmiszerenzim-készítményekkel, élelmiszer-adalékanyagokkal és aromákkal kapcsolatos tájékoztatási követelmények
 
 ## 7/E. § A Magyarország területén nem végső fogyasztóknak történő értékesítésre szánt
 
@@ -10,4 +10,4 @@ c) aromák csomagolásán az 1334/2008/EK európai parlamenti és tanácsi rende
 
 előírt információkat magyar nyelven kell feltüntetni.
 
-[^25]: A 2/C. alcímet (7/E. §) a 79/2016. (XII. 12.) FM rendelet 4. §-a iktatta be.
+[^26]: A 2/C. alcímet (7/E. §) a 79/2016. (XII. 12.) FM rendelet 4. §-a iktatta be.

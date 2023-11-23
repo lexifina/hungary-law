@@ -1,4 +1,4 @@
-## 2/D. [^26] A gyümölcsre és zöldségre vonatkozó további tájékoztatási követelmények
+## 2/D. [^27] A gyümölcsre és zöldségre vonatkozó további tájékoztatási követelmények
 
 7/F. § (1) A nem előrecsomagolt gyümölcs és zöldség végső fogyasztónak történő értékesítése esetén az 543/2011/EU bizottsági végrehajtási rendeletnek megfelelően az eladásra kínálás helyén fizikai vagy elektronikus hordozón fel kell tüntetni
 
@@ -8,4 +8,4 @@ b) a helyi termelői piac kivételével grafikai ábrázolással a származási 
 
 (2) A származási ország (1) bekezdés szerinti feltüntetését oly módon kell elvégezni, hogy az eladásra kínált, különböző származási országú gyümölcsök és zöldségek a végső fogyasztó számára egymástól egyértelműen elkülöníthetőek legyenek.
 
-[^26]: A 2/D. alcímet (7/F. §) a 33/2020. (VI. 26.) AM rendelet 1. §-a iktatta be.
+[^27]: A 2/D. alcímet (7/F. §) a 33/2020. (VI. 26.) AM rendelet 1. §-a iktatta be.

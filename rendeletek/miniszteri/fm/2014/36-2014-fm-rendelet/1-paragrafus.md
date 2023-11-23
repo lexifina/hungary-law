@@ -10,7 +10,8 @@ c) valamennyi élelmiszer-vállalkozóra, amelynek tevékenysége összefügg a 
 
 (2)[^2] E rendeletet nem kell alkalmazni az élelmiszerek magánfogyasztásra történő előállítására.
 
-(3) A kistermelők által előállított és forgalomba hozott élelmiszerek esetén nem kell alkalmazni a 3. §-t, a 4. § (2)–(4) bekezdését, az 5. § (1) bekezdés c) pontját, (2) és (3) bekezdését, valamint a 6. §-t.
+(3)[^3] A kistermelők által előállított és forgalomba hozott élelmiszerek esetén nem kell alkalmazni a 3. § (1)–(4) bekezdését, a 4. § (2)–(4) bekezdését, az 5. § (1) bekezdés c) pontját, (2) és (3) bekezdését, valamint a 6. §-t.
 
 [^1]: Az 1. § (1) bekezdése a 79/2016. (XII. 12.) FM rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. § (2) bekezdése a 79/2016. (XII. 12.) FM rendelet 1. §-ával megállapított szöveg.
+[^3]: Az 1. § (3) bekezdése a 60/2023. (XI. 15.) AM rendelet 51. §-a szerint módosított szöveg.
