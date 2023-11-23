@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-75-20-2
 | 2023-02-23 | 2015-75-20-22.11 | 42/2023. (II. 20.) Korm. rendelet |
 | 2023-03-01 | 2015-75-20-22.12 | 63/2023. (II. 28.) Korm. rendelet |
 | 2023-10-04 | 2015-75-20-22.13 | 48/2022. (II. 17.) Korm. rendelet |
+| 2023-11-23 | 2015-75-20-22.14 | 517/2023. (XI. 22.) Korm. rendelet |
