@@ -1,4 +1,4 @@
-3. melléklet a 62/2011. (VI. 30.) VM rendelethez[^17]
+3. melléklet a 62/2011. (VI. 30.) VM rendelethez[^18]
 
 Vendéglátó tevékenység keretében végzett fagyasztás feltételei
 
@@ -16,4 +16,4 @@ Vendéglátó tevékenység keretében végzett fagyasztás feltételei
 
 7. Meleg ételt fagyasztás előtt a lehető legrövidebb időn belül környezeti hőmérsékletűre kell lehűteni.
 
-[^17]: A 3. számú melléklet a 23. § (2) bekezdése alapján 2011. augusztus 1-jén lép hatályba.
+[^18]: A 3. számú melléklet a 23. § (2) bekezdése alapján 2011. augusztus 1-jén lép hatályba.

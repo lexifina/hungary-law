@@ -1,4 +1,4 @@
-5. melléklet a 62/2011. (VI. 30.) VM rendelethez[^19]
+5. melléklet a 62/2011. (VI. 30.) VM rendelethez[^20]
 
 Elejtett vad vendéglátó-ipari alapanyagként történő felhasználása
 
@@ -16,4 +16,4 @@ Elejtett vad vendéglátó-ipari alapanyagként történő felhasználása
 
 7. A kültakaró eltávolítását és zsigerelést követően az elejtett vad húsát további feldolgozásig nyers húsként kell kezelni.
 
-[^19]: Az 5. számú melléklet a 23. § (2) bekezdése alapján 2011. augusztus 1-jén lép hatályba.
+[^20]: Az 5. számú melléklet a 23. § (2) bekezdése alapján 2011. augusztus 1-jén lép hatályba.
