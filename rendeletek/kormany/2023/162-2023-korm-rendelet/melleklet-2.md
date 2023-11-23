@@ -42,7 +42,7 @@
 
 | 20. | Ásványvizek és üdítőitalok |
 
-2. melléklet a 162/2023. (V. 5.) Korm. rendelethez[^26]
+2. melléklet a 162/2023. (V. 5.) Korm. rendelethez[^27]
 
 A 2/A. § szerinti kedvezményes árú termékfajták
 
@@ -66,4 +66,4 @@ A 2/A. § szerinti kedvezményes árú termékfajták
 
 | 9. | Étkezési burgonya, kivéve újburgonya |
 
-[^26]: A 2. mellékletet a 279/2023. (VI. 29.) Korm. rendelet 8. §-a iktatta be.
+[^27]: A 2. mellékletet a 279/2023. (VI. 29.) Korm. rendelet 8. §-a iktatta be.

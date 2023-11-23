@@ -1,4 +1,4 @@
-3/A. §[^9] (1) A kereskedő köteles a 2. melléklet szerinti, 2023. június 1. napján forgalmazott termékek
+3/A. §[^10] (1) A kereskedő köteles a 2. melléklet szerinti, 2023. június 1. napján forgalmazott termékek
 
 a) forgalmazására,
 
@@ -18,4 +18,4 @@ b) a (3) bekezdés szerinti esetben az üzlet működtetésének vagy a 2. mell�
 
 (5) A (4) bekezdés a) és b) pontja szerinti esetben a kereskedő e § szerinti kötelezettségének első alkalommal az üzlet működtetésének vagy a termék forgalmazásának megkezdésétől számított 30 nap elteltét követően köteles eleget tenni.
 
-[^9]: A 3/A. §-t a 279/2023. (VI. 29.) Korm. rendelet 6. § - 347/2023. (VII. 27.) Korm. rendelet 8. § (1) bekezdés a) pontja szerint módosított - (6) bekezdése iktatta be.
+[^10]: A 3/A. §-t a 279/2023. (VI. 29.) Korm. rendelet 6. § - 347/2023. (VII. 27.) Korm. rendelet 8. § (1) bekezdés a) pontja szerint módosított - (6) bekezdése iktatta be.

@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-162-20-
 | 2023-06-30 | 2023-162-20-22.2 | 279/2023. (VI. 29.) Korm. rendelet |
 | 2023-08-01 | 2023-162-20-22.3 | 279/2023. (VI. 29.) Korm. rendelet |
 | 2023-09-26 | 2023-162-20-22.4 | 279/2023. (VI. 29.) Korm. rendelet |
+| 2023-11-23 | 2023-162-20-22.5 | 279/2023. (VI. 29.) Korm. rendelet |
