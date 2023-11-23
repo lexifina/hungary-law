@@ -24,4 +24,6 @@ c) vizsgálja meg a b) alpontban meghatározottak költségigényét, ütemezés
 
 | Határidő: | azonnal |
 
-4. visszavonja a Nemzeti Adatvagyon Tanácsról szóló 1782/2021. (XI. 5.) Korm. határozatot.
+4.[^1]
+
+[^1]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
