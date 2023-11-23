@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-20-20-7
 | 2021-05-23 | 2021-20-20-7R.2 | 2010: CXXX. törvény |
 | 2021-07-01 | 2021-20-20-7R.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2021-07-02 | 2021-20-20-7R.4 | 2010: CXXX. törvény |
+| 2023-11-23 | 2021-20-20-7R.5 | 60/2023. (XI. 15.) AM rendelet |

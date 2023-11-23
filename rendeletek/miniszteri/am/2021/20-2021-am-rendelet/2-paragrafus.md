@@ -21,3 +21,5 @@ d) a 853/2004/EK európai parlamenti és tanácsi rendelet 2. cikkében,
 e) a csírák és a csírák előállítására szánt magvak nyomonkövethetőségének követelményeiről szóló, 2013. március 11-i 208/2013/EU bizottsági végrehajtási rendelet 2. cikkében, valamint
 
 f) az (EU) 2017/625 európai parlamenti és tanácsi rendelet 3. cikkében
+
+meghatározottak szerint kell értelmezni.

@@ -1,3 +1,3 @@
-## 19. §[^10]
+20. §[^14]
 
-[^10]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-## meghatározottak szerint kell értelmezni.
-
 3. § (1) Az élelmiszer-vállalkozó által az engedélyköteles létesítmény engedélyezése iránt – az Éltv. 23. § (1) bekezdésében foglaltak tekintetében a földművelésügyi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló 383/2016. (XII. 2.) Korm. rendelet [a továbbiakban: 383/2016. (XII. 2.) Korm. rendelet] 20. § (1) bekezdés c) pontjában kijelölt hatóságnak (a továbbiakban: engedélyező hatóság) – benyújtott kérelem (a továbbiakban: engedély iránti kérelem) tartalmazza
 
 a) a telephely jogszerű használatát igazoló dokumentumot,

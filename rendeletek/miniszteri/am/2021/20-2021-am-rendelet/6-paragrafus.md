@@ -24,6 +24,8 @@ g) amennyiben a bejelentő már rendelkezik vele, az élelmiszerlánc-felügyele
 
 (3) Az (1) bekezdésben szereplő bejelentés során a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény 23. §-át és 27. § (1) bekezdését is alkalmazni kell.
 
-(4) A kiskereskedelmi létesítményekben történő állati eredetű élelmiszer-előállítási tevékenységet az állati eredetű élelmiszerek forgalomba hozatalának és az értékesítés helyén történő élelmiszer-előállításnak élelmiszer-higiéniai feltételeiről szóló miniszteri rendeletben foglalt esetekben kell bejelenteni az (1) bekezdés szerinti hatóságnak.
+(4)[^3]
 
 (5) A bejelentés mintáját a NÉBIH honlapján közzéteszi.
+
+[^3]: A 6. § (4) bekezdését a 60/2023. (XI. 15.) AM rendelet 54. § d) pontja hatályon kívül helyezte.
