@@ -1,0 +1,1 @@
+8. § A 4. § (1) bekezdése szerinti tevékenységeknél a kistermelőnek a 6. melléklet szerinti követelményeket, valamint baromfi és nyúlféle húsának előállítása és forgalomba hozatala során a 7. melléklet szerinti követelményeket is be kell tartania.

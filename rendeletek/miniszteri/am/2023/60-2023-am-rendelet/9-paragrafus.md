@@ -1,0 +1,1 @@
+9. § A kistermelő felelős az általa forgalomba hozott élelmiszer biztonságáért, minőségéért, a fogyasztók megfelelő tájékoztatásáért, valamint a 178/2002/EK európai parlamenti és tanácsi rendelet 18. cikke szerinti nyomonkövethetőség biztosításáért és dokumentálásáért.

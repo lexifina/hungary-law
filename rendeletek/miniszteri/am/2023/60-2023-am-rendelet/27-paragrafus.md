@@ -1,0 +1,1 @@
+27. § Rendkívüli élelmiszerlánc esemény esetén a vármegyei kormányhivatal állategészségügyi intézkedés keretében előírhatja az elejtett vad kötelező hatósági állatorvosi vizsgálatát, függetlenül annak forgalombahozatali módjától.

@@ -1,0 +1,1 @@
+36. § A 10. melléklet szerinti hússzállítási igazolást vagy annak a hatósági vagy a jogosult állatorvos által hitelesített másolatát a helyi kiskereskedelmi vagy vendéglátó-ipari létesítmény üzemeltetője az árusítás helyén a 3/2010. (VII. 5.) VM rendelet 5. § (3) bekezdésében foglaltak szerint őrzi meg.

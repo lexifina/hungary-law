@@ -1,0 +1,1 @@
+26. § A vadászatra jogosult biztosítja, hogy az engedélyezett vadfeldolgozó üzembe való szállítás esetén az elejtett vadat vadkísérő jegy vagy apróvad gyűjtőigazolás kísérje, amelyet a magyarországi engedélyezett vadfeldolgozó üzembe történő szállítás esetén, a húsvizsgálatot követően, a húsvizsgálatot végző hatósági vagy jogosult állatorvos bevon.
