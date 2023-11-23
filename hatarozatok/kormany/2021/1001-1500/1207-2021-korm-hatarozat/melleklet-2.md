@@ -88,7 +88,7 @@
 
 | 40. | Környezeti és Energiahatékonysági Operatív Program | KEHOP-1 – A klímaváltozás hatásaihoz való alkalmazkodás | 354,9 |
 
-| 41. | KEHOP-2 – Települési vízellátás, szennyvíz-elvezetés és –tisztítás, szennyvízkezelés fejlesztése | 413,8 |
+| 41. | KEHOP-2 – Települési vízellátás, szennyvíz-elvezetés és –tisztítás, szennyvízkezelés fejlesztése | 396,3 |
 
 | 42. | KEHOP-3 – Hulladékgazdálkodással és kármentesítéssel kapcsolatos fejlesztések | 137,7 |
 
@@ -97,6 +97,8 @@
 | 44. | KEHOP-5 – Energiahatékonyság növelése, megújuló energiaforrások alkalmazása | 294,4 |
 
 | 44a. | KEHOP-6 – A Covid19 világjárványt követő zöld és reziliens gazdasági helyreállítás előkészítése (REACT-EU) | 81,5 |
+
+| 44b. | Miniszterelnökség | Környezeti és Energiahatékonysági Operatív Program | KEHOP-7 – Energiaintenzív vállalatok támogatása | 15 |
 
 | 45. | Miniszterelnöki Kabinetiroda | Közigazgatás- és Közszolgáltatás- fejlesztés Operatív Program | KÖFOP-1 – Az adminisztratív terhek csökkentése | 173,0 |
 

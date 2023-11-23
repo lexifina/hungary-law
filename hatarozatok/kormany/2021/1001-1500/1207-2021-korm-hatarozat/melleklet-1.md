@@ -110,4 +110,4 @@
 [^6]: A 7. pontot az 1867/2021. (XII. 2.) Korm határozat 2. pontja iktatta be.
 [^7]: A 8. pontot az 1867/2021. (XII. 2.) Korm határozat 2. pontja iktatta be.
 [^8]: A 9. pontot az 1166/2022. (III. 21.) Korm. határozat 2. pontja iktatta be.
-[^9]: Az 1. melléklet az 1867/2021. (XII. 2.) Korm határozat 3. pontja, az 1166/2022. (III. 21.) Korm. határozat 4. pont a) alpontja szerint módosított szöveg.
+[^9]: Az 1. melléklet az 1867/2021. (XII. 2.) Korm határozat 3. pontja, az 1166/2022. (III. 21.) Korm. határozat 4. pont a) alpontja, az 1513/2023. (XI. 22.) Korm. határozat 4. pont a) pontja, és 5. pont a) alpontja szerint módosított szöveg.

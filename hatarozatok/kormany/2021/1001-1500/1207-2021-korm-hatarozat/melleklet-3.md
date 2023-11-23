@@ -140,7 +140,7 @@
 
 | 44. |  | Környezeti és Energiahatékonysági Operatív Program | KEHOP-1 – A klímaváltozás hatásaihoz való alkalmazkodás | 121,00 | 429,39 |
 
-| 45. | KEHOP-2 – Települési vízellátás, szennyvíz-elvezetés és -tisztítás, szennyvízkezelés fejlesztése | 139,06 | 575,40 |
+| 45. | KEHOP-2 – Települési vízellátás, szennyvíz-elvezetés és -tisztítás, szennyvízkezelés fejlesztése | 141,41 | 574,75 |
 
 | 46. | KEHOP-3 – Hulladékgazdálkodással és kármentesítéssel kapcsolatos fejlesztések | 124,42 | 171,27 |
 
@@ -160,4 +160,6 @@
 
 | 54. | Vidékfejlesztési Program | – | 106,80 | 3142,80 |
 
-[^11]: A 3. mellékletet az 1867/2021. (XII. 2.) Korm határozat 5. pontja iktatta be, szövege az 1559/2022. (XI. 21.) Korm. határozat 1. pont b) pontjával megállapított szöveg.
+| 55. | Miniszterelnökség | Környezeti és Energiahatékonysági Operatív Program | KEHOP-7 – Energiaintenzív vállalatok támogatása | 100 | 15 |
+
+[^11]: A 3. mellékletet az 1867/2021. (XII. 2.) Korm határozat 5. pontja iktatta be, szövege az 1559/2022. (XI. 21.) Korm. határozat 1. pont b) pontjával megállapított, az 1513/2023. (XI. 22.) Korm. határozat 4. pont b) pontja és 5. pont b) és c) pontja szerint módosított szöveg.

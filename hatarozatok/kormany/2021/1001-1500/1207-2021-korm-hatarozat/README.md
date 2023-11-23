@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-1207-30
 | 2022-10-19 | 2021-1207-30-22.5 | 1867/2021. (XII. 2.) Korm határozat |
 | 2022-11-09 | 2021-1207-30-22.6 | 1867/2021. (XII. 2.) Korm. határozat |
 | 2022-11-21 | 2021-1207-30-22.7 | 1559/2022. (XI. 21.) Korm. határozat |
+| 2023-11-23 | 2021-1207-30-22.8 | 1867/2021. (XII. 2.) Korm határozat |
