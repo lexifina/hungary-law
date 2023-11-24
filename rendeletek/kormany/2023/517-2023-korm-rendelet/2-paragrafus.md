@@ -1,5 +1,3 @@
-2. § Az R. a következő 14. §-sal egészül ki:
+2. §[^3]
 
-„14. § (1) E rendeletnek a Debrecenben megvalósuló ipari telephely kialakításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 75/2015. (III. 30.) Korm. rendelet módosításáról szóló 63/2023. (II. 28.) Korm. rendelettel (a továbbiakban: Módr8.) módosított 1. § (1) bekezdését, 3. §-át, 3/A. §-át, 2., 3. és 4. mellékletét a Módr8. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
-
-(2) E rendeletnek a Módr8.-cal hatályon kívül helyezett 5. mellékletét a Módr8. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben nem kell alkalmazni.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
