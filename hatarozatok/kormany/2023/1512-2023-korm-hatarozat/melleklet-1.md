@@ -12,13 +12,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Gazdaságfejlesztési és Innovációs Operatív Program éves fejlesztési keretének megállapításáról szóló 1006/2016. (I. 18.) Korm. határozat 1. melléklet 2. pontjában foglalt táblázat
-
-## a) C:2b. mezőjében a „46,900” szövegrész helyébe a „44,87” szöveg,
-
-## b) C:9 mezőjében a „30,54” szövegrész helyébe a „32,57” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1512/2023. (XI. 22.) Korm. határozathoz
 
@@ -27,3 +21,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (forint) | Többlettámogatás legfeljebb (forint) | Megnövelt támogatás legfeljebb (forint) | Projekt rövid bemutatása |
 
 | 2. | GINOP-2.3.1-20-2020-00005 | Tudományos és Innovációs Park létrehozása a Széchenyi István Egyetemen | Széchenyi István Egyetem | 6 766 000 000 | 2 028 251 946 | 8 794 251 946 | A Tudományos és Innovációs Park (TIP) fejlesztés a kedvezményezett tudományos kapacitásfejlesztési, kutatás-fejlesztési és innovációs ökoszisztéma építési tevékenységeinek szélesítését szolgálja. |
+
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
