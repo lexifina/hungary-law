@@ -1,3 +1,5 @@
 ## 2. A zöldség-gyümölcs termelői szervezetek operatív programjainak részletes szabályairól szóló 50/2023. (IX. 5.) AM rendelet módosítása
 
-3. § A zöldség-gyümölcs termelői szervezetek operatív programjainak részletes szabályairól szóló 50/2023. (IX. 5.) AM rendelet 39. § (1) bekezdésében a „november 30-áig” szövegrész helyébe a „december 15-éig” szöveg lép.
+3. §[^3]
+
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
