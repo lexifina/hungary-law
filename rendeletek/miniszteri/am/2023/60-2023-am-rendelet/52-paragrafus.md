@@ -1,3 +1,3 @@
-52. § A 34/2018. (XII. 3.) AM rendelet 1. § (2) bekezdés d) pontja helyébe a következő rendelkezés lép:
+52. §[^3]
 
-(E rendelet hatálya nem terjed ki)
+[^3]: Az 52. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

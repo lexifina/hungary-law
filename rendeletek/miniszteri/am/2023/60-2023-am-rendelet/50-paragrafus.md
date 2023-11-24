@@ -1,3 +1,3 @@
-50. § A 62/2011. (VI. 30.) VM rendelet 1. § (2) bekezdés c) pontja helyébe a következő rendelkezés lép:
+50. §[^1]
 
-(E rendeletben foglaltakat nem kell alkalmazni:)
+[^1]: Az 50. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
