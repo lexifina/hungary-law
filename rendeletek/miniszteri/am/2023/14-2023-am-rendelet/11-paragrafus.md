@@ -2,4 +2,4 @@
 
 11. §[^6]
 
-[^6]: A 11. § a 38. § (2) bekezdés alapján 2025. január 1-jén lép hatályba.
+[^6]: A 11. § a 38. § (2) bekezdés alapján 2023. november 25-én lép hatályba.
