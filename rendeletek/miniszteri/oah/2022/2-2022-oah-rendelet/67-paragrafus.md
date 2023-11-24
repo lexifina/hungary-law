@@ -11,3 +11,7 @@ a) a külső sugárzásból származó dózisokat, valamint
 b) a radionuklid-bevitelt, a radionuklidok jellegét és szükség esetén a fizikai és kémiai állapotát, valamint az élelmiszerekben és az ivóvízben vagy más releváns környezeti elemekben található radionuklidok aktivitáskoncentrációinak mértékét.
 
 (4) Az OAH nyilvántartást vezet a külső sugárterheléssel és a radioaktív szennyezéssel kapcsolatos mérésekről, a radionuklid-felvétellel kapcsolatos becslésekről, valamint a reprezentatív személy által kapott dózisok értékelésének eredményeiről. A nyilvántartásban lévő adatokat az OAH a honlapján közzéteszi.
+
+(5)[^13] Az OAH a felszabadított anyagok mennyiségéről és újrafelhasználásának, ártalmatlanításának módjáról nyilvántartást vezet. Az adott helyen kezelt felszabadított anyagok mennyiségét, valamint az azokból származó lakossági sugárterhelés növekményét az OAH figyelembe veszi az 53. § (1) bekezdés 17. pontja szerinti engedélyezési eljárás során.
+
+[^13]: A 67. § (5) bekezdését a 2/2023. (XI. 23.) OAH rendelet 5. §-a iktatta be.

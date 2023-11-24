@@ -16,13 +16,23 @@ ae) kiemelt létesítmény és az I. sugárvédelmi kategóriába tartozó tevé
 
 af) esetében az engedélyezett sugárveszélyes tevékenység végleges megszüntetését,
 
-b) a radioaktív anyag 3. § (1) bekezdésében meghatározott feltételekkel történő felszabadítását – a felszabadított anyag fizikai-kémiai formájának, mennyiségének, izotóponkénti aktivitásának, illetve aktivitás-koncentrációjának, valamint az anyag további kezelését végző szervezet megnevezésének feltüntetésével –,
+b)[^9] a radioaktív anyag 3. § (1) és (2) bekezdésében meghatározott feltételekkel történő felszabadítását – a felszabadított anyag fizikai-kémiai formájának, mennyiségének, izotóponkénti aktivitásának, illetve aktivitás-koncentrációjának, valamint az anyag további kezelését végző szervezet megnevezésének feltüntetésével –,
 
 ba) a 3. § (1) bekezdés a) pontjában meghatározott követelményeknek megfelelő, éves szinten egy tonnát nem meghaladó mennyiség esetében a tárgyévet követően január 31-ig,
 
 bb) a 3. § (1) bekezdés a) pontjában meghatározott követelményeknek megfelelő, éves szinten egy tonnát meghaladó mennyiség esetében legalább 30 nappal az egy tonna feletti anyagmennyiség tervezett felszabadítását megelőzően,
 
 bc) a 3. § (1) bekezdés b) pontja szerinti esetben legalább 30 nappal a tervezett felszabadítást megelőzően,
+
+bd)[^10] a 3. § (2) bekezdése szerinti eljárás keretében a 3. § (4) bekezdés a) pontja szerinti anyagmennyiség felszabadítása esetében legalább 10 nappal a tervezett felszabadítást megelőzően,
+
+be)[^11] a 3. § (2) bekezdése szerinti eljárás keretében a 3. § (4) bekezdés b) pontja szerinti anyagmennyiség felszabadítása esetében az adott évet követően március 31-ig
+
+bea) az adott év során felszabadított hulladék mennyiségét (tömeg és aktivitás értékek) felszabadítási útvonalanként,
+
+beb) az adott év során ténylegesen felszabadított radioaktív anyagban található izotópok aktivitásával korrigált, a sugárvédelmi értékelésben szereplő dózisbecslését és
+
+bec) a felszabadítási folyamat alkalmazási feltételeinek értékelését,
 
 c) a bejelentési kötelezettségek fenntartásával – az alkalmazott anyag mennyiségének, izotóptartalmának és aktivitás-koncentrációjának, valamint az alkalmazás helyének feltüntetésével – a sugárvédelmi hatósági felügyelet alól mentesített radioaktív anyag alkalmazását és alkalmazásának megszüntetését, legalább 10 nappal az alkalmazás megkezdését vagy megszüntetését megelőzően,
 
@@ -81,3 +91,16 @@ f) az ügyfelek részére megküldendő, a szolgáltatásra vonatkozó tájékoz
 g) az ügyfelek részére megküldendő mérési eredményközlő lapok mintáját.
 
 (16) Az OAH a (9) bekezdés szerinti bejelentés tudomásulvételéről 30 napon belül írásban tájékoztatja a bejelentőt.
+
+(17)[^12] Radioaktív anyag – a 3. § (2) bekezdésében meghatározott feltételeknek megfelelő – sugárvédelmi értékelés szerint történő felszabadításáról éves jelentést kell készíteni, és az OAH-hoz legkésőbb az adott évet követően március 31-ig be kell nyújtani. A jelentésnek tartalmaznia kell
+
+a) az adott év során felszabadított hulladék mennyiségét (tömeg és aktivitás értékek) felszabadítási útvonalanként,
+
+b) a felszabadított mennyiség szerinti dózisbecslés korrekcióját és
+
+c) a felszabadítási gyakorlat alkalmazási feltételeinek értékelését.
+
+[^9]: A 60. § (1) bekezdés b) pont nyitó szövegrésze a 2/2023. (XI. 23.) OAH rendelet 6. § b) pontja szerint módosított szöveg.
+[^10]: A 60. § (1) bekezdés b) pont bd) alpontját a 2/2023. (XI. 23.) OAH rendelet 4. § (1) bekezdése iktatta be.
+[^11]: A 60. § (1) bekezdés b) pont be) alpontját a 2/2023. (XI. 23.) OAH rendelet 4. § (1) bekezdése iktatta be.
+[^12]: A 60. § (17) bekezdését a 2/2023. (XI. 23.) OAH rendelet 4. § (2) bekezdése iktatta be.

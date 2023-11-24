@@ -18,7 +18,7 @@ Az értelmező rendelkezésekhez tartozó képletek
 
 3. Az egyenértékdózishoz tartozó képlet
 
-3.1. Az egyenértékdózis számítása az alábbi: HT,R = wR DT,R .
+3.1. Az egyenértékdózis számítása az alábbi: HT,R = wR DT,R.
 
 3.2. Az egyenértékdózis számításának képletében a DT,R az R sugárzástól származó, a T szövetre vagy szervre átlagolt elnyelt dózis, a wR a sugárzási súlytényező.
 
