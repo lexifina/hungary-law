@@ -120,9 +120,9 @@
 
 | 60. | Hibrid perje (vetőmag célra) | Lolium | Poaceae |
 
-| 61. | Somkóró | Melilotus | Fabaceae[^41] |
+| 61. | Somkóró | Melilotus | Fabaceae[^38] |
 
-| 62. | Fehérvirágú somkóró | Melilotus | Fabaceae[^42] |
+| 62. | Fehérvirágú somkóró | Melilotus | Fabaceae[^39] |
 
 | 63. | Gumós komócsin (vetőmag célra) | Phleum | Poaceae |
 
@@ -276,5 +276,5 @@
 
 A nitrogénmegkötő növényfajok listája
 
-[^41]: A 13. mellékletben foglalt táblázat C:61 mezője az 56/2023. (IX. 27.) AM rendelet 20. § (3) bekezdésével megállapított szöveg.
-[^42]: A 13. mellékletben foglalt táblázat C:62 mezője az 56/2023. (IX. 27.) AM rendelet 20. § (3) bekezdésével megállapított szöveg.
+[^38]: A 13. mellékletben foglalt táblázat C:61 mezője az 56/2023. (IX. 27.) AM rendelet 20. § (3) bekezdésével megállapított szöveg.
+[^39]: A 13. mellékletben foglalt táblázat C:62 mezője az 56/2023. (IX. 27.) AM rendelet 20. § (3) bekezdésével megállapított szöveg.

@@ -1,5 +1,3 @@
 ## 7. Tarló, nád, valamint növényi maradvány égetésének tilalma – HMKÁ 3. előírás
 
-11. §[^6]
-
-[^6]: A 11. § a 38. § (2) bekezdés alapján 2023. november 25-én lép hatályba.
+11. § Tarló, nád, valamint növényi maradvány égetése tilos, kivéve zárlati károsító megjelenése esetén, az erre vonatkozó hatósági határozat alapján.
