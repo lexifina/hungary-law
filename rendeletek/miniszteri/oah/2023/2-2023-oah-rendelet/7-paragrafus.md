@@ -1,1 +1,3 @@
-7. § Hatályát veszti a 2/2022. (IV. 29.) OAH rendelet 3. § (2) bekezdés záró szövegrésze.
+7. §[^8]
+
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
