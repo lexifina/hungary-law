@@ -1,1 +1,3 @@
-5. § A 14/2023. (IV. 19.) AM rendelet 38. § (2) bekezdésében a „2025. január 1-jén” szövegrész helyébe a „2023. november 25-én” szöveg lép.
+5. §[^6]
+
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
