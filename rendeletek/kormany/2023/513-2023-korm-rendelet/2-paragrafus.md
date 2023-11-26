@@ -1,3 +1,3 @@
-2. § A 272/2014. (XI. 5.) Korm. rendelet 66. alcíme a következő 201/ZJ. §-sal egészül ki:
+2. §[^3]
 
-„201/ZJ. § E rendeletnek a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet módosításáról szóló 513/2023. (XI. 22.) Korm. rendelettel [a továbbiakban: 513/2023. (XI. 22.) Korm. rendelet] megállapított 199/E. § a) pontja figyelembevételével az irányító hatóság a 2023. október 31. napját követően, de az 513/2023. (XI. 22.) Korm. rendelet hatálybalépését megelőzően benyújtott szállítói finanszírozású számláról az 513/2023. (XI. 22.) Korm. rendelet hatálybalépését megelőzően hozott döntését felülvizsgálhatja.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
