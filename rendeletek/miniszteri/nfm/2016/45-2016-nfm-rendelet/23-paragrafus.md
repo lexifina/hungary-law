@@ -17,3 +17,5 @@ f) az EU-megfelelőségi nyilatkozatot nem küldték meg a hajó számára.
 a) a termék forgalmazásának korlátozása vagy megtiltása,
 
 b) a termék visszahívása vagy forgalomból való kivonása
+
+érdekében.

@@ -22,7 +22,7 @@ b) az általuk végzett vizsgálatok követelményeinek megfelelő szintű ismer
 
 c) a vizsgálatok hitelt érdemlő igazolásához szükséges tanúsítványok, jegyzőkönyvek és jelentések összeállításának képességével
 
-## kell rendelkezniük.
+kell rendelkezniük.
 
 (6) A vizsgálatokat végző alkalmazottak pártatlanságát garantálni kell. Díjazásuk nem függhet az általuk elvégzett vizsgálatok számától és azok eredményétől.
 

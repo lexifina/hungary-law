@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-45-20-2
 | 2021-02-20 | 2016-45-20-2W.4 | 9/2021. (II. 15.) ITM rendelet |
 | 2021-07-16 | 2016-45-20-2W.5 | 25/2020. (VII. 3.) ITM rendelet |
 | 2022-03-12 | 2016-45-20-2W.6 | 8/2022. (III. 11.) ITM rendelet |
+| 2023-11-28 | 2016-45-20-2W.7 | 9/2021. (II. 15.) ITM rendelet |

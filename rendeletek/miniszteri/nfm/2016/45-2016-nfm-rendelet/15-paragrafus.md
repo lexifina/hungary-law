@@ -14,7 +14,7 @@ b) termék minőségbiztosításán alapuló EK-típusmegfelelőségi eljárás 
 
 c) termékellenőrzésen alapuló EK-típusmegfelelőségi eljárás (F modul)
 
-## szerint történik.
+szerint történik.
 
 (3) Ha a felszerelés-készletet egyedileg vagy kis mennyiségben és nem sorozatban vagy nagy tömegben állítják elő, akkor a megfelelőségének tanúsítása az egyedi termékellenőrzési EK eljárás (G modul) alapján történik.
 

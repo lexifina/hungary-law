@@ -10,7 +10,7 @@ d) termékellenőrzési EK típus-megfelelőségi nyilatkozatot, vagy
 
 e) az egyedi termékellenőrzési eljárás keretében megfelelőségi tanúsítványt
 
-## állít ki, ebbe a nyilvántartásba az érdekeltek betekinthetnek.
+állít ki, ebbe a nyilvántartásba az érdekeltek betekinthetnek.
 
 (2) Az (1) bekezdés szerinti nyilvántartás tartalmazza
 
