@@ -1944,8 +1944,6 @@ f) a kikötőkben.
 
 6.38 cikk
 
-Az üzemeltetési engedéllyel rendelkező vízi járművel végzett személyszállításnak nem képezheti részét a hajóval végrehajtott, közlekedésbiztonsági vagy forgalmi okból nem indokolt – hirtelen, a megszokottnál gyorsabban végrehajtott fordulási, megállási, kitérési, irány- vagy sebességváltoztató – manőverek bemutatása.
-
 7. FEJEZET
 
 A VESZTEGLÉS SZABÁLYAI
@@ -2364,6 +2362,8 @@ A 3.01 cikk 3. bekezdése szerinti fények
 
 1.3 Magyarázatok az ábrákhoz:
 
+1M32994_1
+
 |  | A szemlélő által nem látható fény, középen ponttal jelölve | a |
 
 |  | Minden oldalról látható folyamatos fény | b |
@@ -2392,6 +2392,8 @@ A 3.01 cikk 3. bekezdése szerinti fények
 
 2. JELZÉSEK MENETBEN
 
+1M32994_3
+
 |  | 1. | nincs kiegészítő jelzés |
 
 | 3.08 cikk 1. bekezdése: Magányosan haladó géphajó. Árbocfény, oldalfények, farfény |
@@ -2403,6 +2405,8 @@ A 3.01 cikk 3. bekezdése szerinti fények
 |  | 3. |  |
 
 | 3.08 cikk 3. bekezdése: Ideiglenesen előfogatot adó géphajó mögött haladó géphajó. árbocfény, oldalfények, farfény és szükség megfelelő helyen és olyan magasan elhelyezett esetén második árbocfény a farrészen sárga gömb, hogy minden oldalról látható legyen |
+
+1M32994_4
 
 | ÉJSZAKA | ÁBRA | NAPPAL |
 
@@ -2417,6 +2421,8 @@ A 3.01 cikk 3. bekezdése szerinti fények
 |  | 6. |  |
 
 | három, egymás felett elhelyezett árbocfény, oldalfények, sárga farfény a fehér helyett |  | sárga henger, két-két (fekete és fehér) sávval a felső és alsó részén úgy, hogy a fehér sáv legyen a hengerpalást szélén |
+
+1M32994_5
 
 | ÉJSZAKA | ÁBRA | NAPPAL |
 
@@ -2434,6 +2440,8 @@ A 3.01 cikk 3. bekezdése szerinti fények
 
 | 3.09 cikk 3. bekezdés b) pontja: Kettőnél több sorból álló vontatmány fényt, illetve gömböt csak a két szélső hajónak kell viselnie |
 
+1M32994_6
+
 | ÉJSZAKA | ÁBRA | NAPPAL |
 
 |  | 10. |  |
@@ -2447,6 +2455,8 @@ A 3.01 cikk 3. bekezdése szerinti fények
 |  | 12. |  |
 
 | 3.09 cikk 6. bekezdése: Közvetlenül a nyílt tengerről beérkező vagy oda induló vontatott tengeri hajó a fehér fény helyett a 3.08 cikk 1. bekez- egy sárga gömb dés b) pontjában előírt oldalfények |
+
+1M32994_7
 
 | ÉJSZAKA | ÁBRA | NAPPAL |
 
@@ -2462,6 +2472,8 @@ A 3.01 cikk 3. bekezdése szerinti fények
 
 | 3.10 cikk 2. bekezdése: Egy vagy több előfogatot adó géphajó mögött haladó tolt kötelék a három farfény fehér helyett sárga lehet egy sárga gömböt viselhet |
 
+1M32994_8
+
 | ÉJSZAKA | ÁBRA | NAPPAL |
 
 |  | 16. | nincs kiegészítő jelzés |
@@ -2475,6 +2487,8 @@ A 3.01 cikk 3. bekezdése szerinti fények
 |  | 18. | nincs kiegészítő jelzés |
 
 | 3.11 cikk 1. bekezdése: Mellévett alakzat egy géphajóval mindegyik hajón egy-egy árbocfény és farfény, a kötelék külső oldalain oldalfények; a nem önjáró hajón az árbocfény egy minden oldalról látható közepesen erős fénnyel helyettesíthető |
+
+1M32994_9
 
 | ÉJSZAKA | ÁBRA | NAPPAL |
 
@@ -2490,6 +2504,8 @@ A 3.01 cikk 3. bekezdése szerinti fények
 
 | 3.12 cikk 3. bekezdése: Vitorlával haladó és egyidejűleg gépi hajtását használó hajó oldalfények, amelyek közepesen erős fények csúcsával lefelé fordított fekete kúp helyett szokásos fények lehetnek, egy farfény és egy árbocfény |
 
+1M32994_10
+
 | ÉJSZAKA | ÁBRA | NAPPAL |
 
 |  | 22. | nincs kiegészítő jelzés |
@@ -2503,6 +2519,8 @@ A 3.01 cikk 3. bekezdése szerinti fények
 |  | 24. | nincs kiegészítő jelzés |
 
 | minden oldalról látható közepesen erős fehér fény, oldalfények valamelyik fenti módon elhelyezve |
+
+1M32994_11
 
 | ÉJSZAKA | ÁBRA | NAPPAL |
 
@@ -2518,6 +2536,8 @@ A 3.01 cikk 3. bekezdése szerinti fények
 
 | 3.13 cikk 5. bekezdése: Vitorlás kishajó oldalfények, amelyek szokásosak lehetnek, nem pedig közepesen erősek egymás mellett vagy egy lámpatestben a hajó orrán vagy annak közelében elhelyezve, farfény vagy |
 
+1M32994_12
+
 | ÉJSZAKA | ÁBRA | NAPPAL |
 
 |  | 28. | nincs kiegészítő jelzés |
@@ -2532,4 +2552,16 @@ A 3.01 cikk 3. bekezdése szerinti fények
 
 | 3.13 cikk 6. bekezdése: Gép- és vitorlás hajónak nem minősülő magányosan haladó kishajó minden oldalról látható szokásos fehér fény |
 
-[^2]: Az 1. melléklet a 42/2013. (VII. 19.) NFM rendelet 5–6. §-a, a 29/2014. (V. 5.) NFM rendelet 25. §-a, a 13/2020. (V. 8.) ITM rendelet 5. §-a, a 15/2021. (IV. 9.) ITM rendelet 40. §-a, a 13/2022. (IV. 14.) ITM rendelet 31–32. §-a szerint módosított szöveg.
+1M32994_13
+
+| ÉJSZAKA | ÁBRA | NAPPAL |
+
+|  | 31a |  |
+
+|  | 31b |  |
+
+| 3.14 cikk 1. bekezdése: Egyes olyan gyúlékony anyagokat szállító hajók kiegészítő jelzései, amelyekre az ADN 7.1.5.0 bekezdésében vagy 7.2.5.0 bekezdésében és 3.2 fejezet A táblázat (12) oszlopában vagy C táblázat (19) oszlopában foglalt követelményeknek megfelelően az alábbi jelzés van előírva: egy minden oldalról látható szokásos kék fény egy csúcsával lefelé fordított kék kúp vagy egy-egy csúcsával lefelé fordított kék kúp a hajó orránál és faránál |
+
+|  | 32a |  |
+
+[^2]: Az 1. melléklet a 42/2013. (VII. 19.) NFM rendelet 5–6. §-a, a 29/2014. (V. 5.) NFM rendelet 25. §-a, a 13/2020. (V. 8.) ITM rendelet 5. §-a, a 15/2021. (IV. 9.) ITM rendelet 40. §-a, a 13/2022. (IV. 14.) ITM rendelet 31–32. §-a, a 21/2023. (XI. 23.) ÉKM rendelet 18. §-a szerint módosított szöveg.

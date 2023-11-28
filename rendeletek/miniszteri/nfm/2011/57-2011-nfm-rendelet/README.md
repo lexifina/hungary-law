@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-57-20-2
 | 2020-06-08 | 2011-57-20-2W.5 | 42/2013. (VII. 19.) NFM rendelet |
 | 2021-04-14 | 2011-57-20-2W.6 | 42/2013. (VII. 19.) NFM rendelet |
 | 2022-04-19 | 2011-57-20-2W.7 | 42/2013. (VII. 19.) NFM rendelet |
+| 2023-11-28 | 2011-57-20-2W.8 | 42/2013. (VII. 19.) NFM rendelet |
