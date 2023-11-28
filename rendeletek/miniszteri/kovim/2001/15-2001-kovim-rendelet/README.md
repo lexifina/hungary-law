@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-15-20-9
 | 2022-04-19 | 2001-15-20-93.29 | 13/2022. (IV. 14.) ITM rendelet |
 | 2022-07-08 | 2001-15-20-93.30 | 14/2022. (VII. 7.) AB határozat |
 | 2022-08-06 | 2001-15-20-93.31 | 9/2022. (VIII. 1.) TIM rendelet |
+| 2023-11-28 | 2001-15-20-93.32 | 21/2023. (XI. 23.) ÉKM rendelet |
