@@ -6,35 +6,35 @@
 
 | 2. | Budapest Főváros Kormányhivatala | mérésügyi eljárásokban: Budapest főváros, Pest vármegye |
 
-| műszaki biztonsági, építésügyi és villamosenergia-ipari építésügyi eljárásokban: Budapest főváros, Pest vármegye, valamint Ercsi város közigazgatási területéből a Százhalombattai Dunai Finomító területe |
+| műszaki biztonsági, építésügyi és építésfelügyeleti eljárásokban: Budapest főváros, Pest vármegye, valamint Ercsi város közigazgatási területéből a Százhalombattai Dunai Finomító területe |
 
 | 3. | Hajdú-Bihar Vármegyei Kormányhivatal | mérésügyi eljárásokban: Hajdú-Bihar vármegye, Szabolcs-Szatmár-Bereg vármegye, |
 
-| műszaki biztonsági, építésügyi és villamosenergia-ipari építésügyi eljárásokban: Hajdú-Bihar vármegye, Szabolcs-Szatmár-Bereg vármegye, |
+| műszaki biztonsági, építésügyi és építésfelügyeleti eljárásokban: Hajdú-Bihar vármegye, Szabolcs-Szatmár-Bereg vármegye, |
 
 | 4. | Jász-Nagykun-Szolnok Vármegyei Kormányhivatal | mérésügyi eljárásokban: Jász-Nagykun-Szolnok vármegye |
 
-| műszaki biztonsági, építésügyi és villamosenergia-ipari építésügyi eljárásokban: Jász-Nagykun-Szolnok vármegye |
+| műszaki biztonsági, építésügyi és építésfelügyeleti eljárásokban: Jász-Nagykun-Szolnok vármegye |
 
 | 5. | Győr-Moson-Sopron Vármegyei Kormányhivatal | mérésügyi eljárásokban: Győr-Moson-Sopron vármegye |
 
-| műszaki biztonsági, építésügyi és villamosenergia-ipari építésügyi eljárásokban: Győr-Moson-Sopron vármegye |
+| műszaki biztonsági, építésügyi és építésfelügyeleti eljárásokban: Győr-Moson-Sopron vármegye |
 
 | 6. | Vas Vármegyei Kormányhivatal | mérésügyi eljárásokban: Vas vármegye |
 
-| műszaki biztonsági, építésügyi és villamosenergia-ipari építésügyi eljárásokban: Vas vármegye |
+| műszaki biztonsági, építésügyi és építésfelügyeleti eljárásokban: Vas vármegye |
 
 | 7. | Zala Vármegyei Kormányhivatal | mérésügyi eljárásokban: Zala vármegye |
 
-| műszaki biztonsági, építésügyi és villamosenergia-ipari építésügyi eljárásokban: Zala vármegye |
+| műszaki biztonsági, építésügyi és építésfelügyeleti eljárásokban: Zala vármegye |
 
 | 8. | Borsod-Abaúj-Zemplén Vármegyei Kormányhivatal | mérésügyi eljárásokban: Borsod-Abaúj-Zemplén vármegye, Heves vármegye, Nógrád vármegye |
 
-| műszaki biztonsági, építésügyi és villamosenergia-ipari építésügyi eljárásokban: Borsod-Abaúj-Zemplén megye, Heves megye, Nógrád megye |
+| műszaki biztonsági, építésügyi és építésfelügyeleti eljárásokban: Borsod-Abaúj-Zemplén megye, Heves megye, Nógrád megye |
 
 | 9. | Baranya Vármegyei Kormányhivatal | mérésügyi eljárásokban: Baranya vármegye |
 
-| műszaki biztonsági, építésügyi és villamosenergia-ipari építésügyi eljárásokban: Baranya vármegye, Somogy vármegye, Tolna vármegye |
+| műszaki biztonsági, építésügyi és építésfelügyeleti eljárásokban: Baranya vármegye, Somogy vármegye, Tolna vármegye |
 
 | 10. | Somogy Vármegyei Kormányhivatal | mérésügyi eljárásokban: Somogy vármegye |
 
@@ -42,11 +42,11 @@
 
 | 12. | Csongrád-Csanád Vármegyei Kormányhivatal | mérésügyi eljárásokban: Bács-Kiskun vármegye, Csongrád-Csanád vármegye, Békés vármegye |
 
-| műszaki biztonsági, építésügyi és villamosenergia-ipari építésügyi eljárásokban: Bács-Kiskun vármegye, Csongrád-Csanád vármegye, Békés vármegye |
+| műszaki biztonsági, építésügyi és építésfelügyeleti eljárásokban: Bács-Kiskun vármegye, Csongrád-Csanád vármegye, Békés vármegye |
 
 | 13. | Fejér Vármegyei Kormányhivatal | mérésügyi eljárásokban: Fejér vármegye, Veszprém vármegye, Komárom-Esztergom vármegye |
 
-| műszaki biztonsági, építésügyi és villamosenergia-ipari építésügyi eljárásokban: Fejér vármegye – kivéve Ercsi város közigazgatási területéből a Százhalombattai Dunai Finomító területe –, valamint Veszprém vármegye, Komárom-Esztergom vármegye |
+| műszaki biztonsági, építésügyi és építésfelügyeleti eljárásokban: Fejér vármegye – kivéve Ercsi város közigazgatási területéből a Százhalombattai Dunai Finomító területe –, valamint Veszprém vármegye, Komárom-Esztergom vármegye |
 
 2. melléklet a 365/2016. (XI. 29.) Korm. rendelethez
 
@@ -74,6 +74,8 @@ a) a szervezet rendelkezzen a tevékenységi területre vonatkozó szabványokka
 
 b) a szervezetnek legyen belső szabályzata az egyes hegesztett szerkezetek gyártását végző gazdálkodó szervezetek alkalmasságának vizsgálatára és értékelésére;
 
-c) a szervezet rendelkezzen az irányítási rendszerek auditjára és tanúsítására vonatkozó szabvány szerint akkreditált rendszertanúsítással;
+c)[^150] a szervezet rendelkezzen az irányítási rendszerek auditját és tanúsítását végző testületekre vonatkozó szabvány vagy a szolgáltatásokat tanúsító testületekre vonatkozó szabvány szerint akkreditációval;
 
 d) a szervezet legyen tagja a Magyar Hegesztéstechnikai és Anyagvizsgálati Egyesülésnek.
+
+[^150]: A 2. melléklet II. pont c) alpontja a 414/2023. (VIII. 30.) Korm. rendelet 10. § (1) bekezdés f) pontja szerint módosított szöveg.

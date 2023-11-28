@@ -56,7 +56,7 @@ l) az aeroszol termékek és aeroszol csomagolások forgalmazásának követelm�
 
 m)[^52] a villamos energiáról szóló törvény szerint a bejelentett és jogosult villanyszerelők nyilvántartásának vezetésével, valamint a víziközmű-szolgáltatásról szóló törvény szerint a kivitelezői jogosultsággal rendelkező vízszerelők nyilvántartásának vezetésével,
 
-n)[^53] a mutatványos berendezések biztonságosságáról szóló miniszteri rendelet szerinti I. és II. veszélyességi osztályba tartozó mutatványos berendezések biztonságos üzemeltetésével kapcsolatos oktatásra történő feljogosításával
+n)[^53] az egyes szórakoztatási célú berendezések, létesítmények és ideiglenes szerkezetek, valamint szórakozási célú sporteszközök biztonságosságáról szóló miniszteri rendelet szerinti I. és II. veszélyességi osztályba tartozó szórakoztatási célú berendezések, létesítmények biztonságos üzemeltetésével kapcsolatos oktatásra történő feljogosításával
 
 kapcsolatos eljárásokban.
 
@@ -84,5 +84,5 @@ kapcsolatos eljárásokban.
 [^50]: A 13. § (3) bekezdés h) pontja a 447/2021. (VII. 26.) Korm. rendelet 6. § (5) bekezdés a) pontja szerint módosított szöveg.
 [^51]: A 13. § (3) bekezdés k) pontja a 447/2021. (VII. 26.) Korm. rendelet 6. § (5) bekezdés b) pontja szerint módosított szöveg.
 [^52]: A 13. § (3) bekezdés m) pontját a 218/2017. (VII. 31.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^53]: A 13. § (3) bekezdés n) pontját a 198/2019. (VIII. 1.) Korm. rendelet 16. §-a iktatta be.
+[^53]: A 13. § (3) bekezdés n) pontját a 198/2019. (VIII. 1.) Korm. rendelet 16. §-a iktatta be, szövege a 414/2023. (VIII. 30.) Korm. rendelet 10. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^54]: A 13. § (7) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 240. § a) pontja szerint módosított szöveg.

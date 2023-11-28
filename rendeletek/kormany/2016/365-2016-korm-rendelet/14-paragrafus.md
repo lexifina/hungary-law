@@ -22,11 +22,11 @@ i) alkalmazásával szolgáltatást végző szervezetek tevékenységére
 
 vonatkozó jogszabályi rendelkezések megtartását és érvényesülését.
 
-(2) Törvény vagy kormányrendelet eltérő rendelkezése hiányában a műszaki biztonsági hatóság jár el a következő berendezések, létesítmények tekintetében:
+(2)[^55] Jogszabály eltérő rendelkezése hiányában a műszaki biztonsági hatóság jár el a következő berendezések, létesítmények tekintetében:
 
 a) a földgáz csatlakozóvezetékei, felhasználói berendezései és telephelyi vezetékei, ezek tartozékai,
 
-b)[^55] a nyomástartó berendezések és létesítmények, beleértve az autógáztöltő állomások berendezéseit is,
+b)[^56] a nyomástartó berendezések és létesítmények, beleértve az autógáztöltő állomások berendezéseit is,
 
 c) a szállítható nyomástartó berendezések,
 
@@ -36,7 +36,7 @@ e) a nyomástartó berendezésnek nem minősülő gáztárolók és üzemi beren
 
 f) a gázüzemű közúti jármű üzemanyag-ellátó berendezései, munkagép és nem közúti gép üzemanyag-ellátó berendezései,
 
-g) a veszélyes áruk szállítására használt nem nyomástartó tartályok, tartányok, csomagolóeszközök, kivéve az ezek szállítására vonatkozó szállítóeszközök,
+g)[^57] a veszélyes áruk szállítására használt nem nyomástartó tartályok, tartányok, csomagolóeszközök, kivéve az ezek szállítására használt szállítóeszközök,
 
 h) a veszélyes folyadékok és olvadékok – nyomástartó berendezésnek nem minősülő – tárolótartályai és tároló létesítményei, beleértve az üzemanyagtöltő állomást, valamint azok működéséhez szükséges technológiai, biztonsági berendezések, csővezetékek, szerelvények, tartozékok,
 
@@ -58,4 +58,6 @@ b) bejelentés alapján kivizsgálja a hatáskörébe tartozó rendkívüli esem
 
 (4) A műszaki biztonsági hatóság a műszaki biztonsági felügyeleti feladat- és hatáskörében a műszaki biztonsági követelmények megtartása érdekében ellátja mindazokat a feladatokat, amelyeket a jogszabályok a hatáskörébe utalnak.
 
-[^55]: A 14. § (2) bekezdés b) pontja a 80/2018. (IV. 20.) Korm. rendelet 19. § (13) bekezdésével megállapított szöveg.
+[^55]: A 14. § (2) bekezdés nyitó szövegrésze a 414/2023. (VIII. 30.) Korm. rendelet 10. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^56]: A 14. § (2) bekezdés b) pontja a 80/2018. (IV. 20.) Korm. rendelet 19. § (13) bekezdésével megállapított szöveg.
+[^57]: A 14. § (2) bekezdés g) pontja a 414/2023. (VIII. 30.) Korm. rendelet 10. § (1) bekezdés c) pontja szerint módosított szöveg.
