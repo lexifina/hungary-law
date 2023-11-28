@@ -172,14 +172,6 @@
 
 ## (This book contains 64 numerated pages)
 
-3. számú melléklet a 26/2002. (XI. 29.) GKM rendelethez
+3. számú melléklet a 26/2002. (XI. 29.) GKM rendelethez[^41]
 
-Kedvtelési célú hajóvezető részére kiállított szolgálati könyv felülbélyegzése
-
-KEDVTELÉSI CÉLÚ HAJÓVEZETŐ RÉSZÉRE
-
-FÜR INHABER EINES SCHIFFERPATENTES FÜR VERGNÜGUNGSZWECKE
-
-DLÁ YODITELÁ PROGULOXNOGO CUDNA
-
-FOR BOATMASTER OF PLEASURE CRAFT
+[^41]: A 3. számú mellékletet a 21/2023. (XI. 23.) ÉKM rendelet 17. § e) pontja hatályon kívül helyezte.

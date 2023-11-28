@@ -1,3 +1,3 @@
-1. számú melléklet a 26/2002. (XI. 29.) GKM rendelethez[^35]
+1. számú melléklet a 26/2002. (XI. 29.) GKM rendelethez[^39]
 
-[^35]: Az 1. számú melléklet a 94/2011. (XII. 30.) NFM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^39]: Az 1. számú mellékletet a 21/2023. (XI. 23.) ÉKM rendelet 17. § d) pontja hatályon kívül helyezte.

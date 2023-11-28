@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-26-20-0
 | 2012-01-01 | 2002-26-20-0L.6 | 91/2011. (XII. 30.) NFM rendelet |
 | 2012-01-04 | 2002-26-20-0L.7 | 94/2011. (XII. 30.) NFM rendelet |
 | 2022-04-19 | 2002-26-20-0L.8 | 13/2022. (IV. 14.) ITM rendelet |
+| 2023-11-28 | 2002-26-20-0L.9 | 21/2023. (XI. 23.) ÉKM rendelet |

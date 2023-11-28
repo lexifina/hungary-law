@@ -1,4 +1,4 @@
-7. §[^18] (1) A hajós szolgálati könyvet a belvízi utakon közlekedő úszólétesítmények hajózásra alkalmassága és megfelelősége feltételeiről, az üzemképesség vizsgálatáról és tanúsításáról szóló miniszteri rendeletben[^19], valamint a hivatásos hajós képesítésekről szóló miniszteri rendeletben foglalt szabályok szerint kell az úszólétesítményen tartani, vezetni és kezelni.
+7. §[^19] (1) A hajós szolgálati könyvet a belvízi utakon közlekedő úszólétesítmények hajózásra alkalmassága és megfelelősége feltételeiről, az üzemképesség vizsgálatáról és tanúsításáról szóló miniszteri rendeletben[^20], valamint a hivatásos hajós képesítésekről szóló miniszteri rendeletben foglalt szabályok szerint kell az úszólétesítményen tartani, vezetni és kezelni.
 
 (2) A hitelesített hajós szolgálati könyv a tulajdonos személyi adatainak, a szolgálatban eltöltött hajózási idejének, a szolgálat alatt megtett utaknak, valamint képesítéseinek hatósági igazolására szolgál.
 
@@ -22,11 +22,13 @@
 
 (12) A tengerész szolgálati könyvben a behajózásra vonatkozó bejegyzést a behajózást követő 24 órán belül kell megtenni.
 
-(13) A szolgálati könyvet tulajdonosa legalább 12 havonta hitelesítésre (láttamozásra) a kiállító hajózási hatóságnak bemutatja.
+(13)[^21] A hajós szolgálati könyvet a tulajdonosa legalább 15 havonta hitelesítésre a vizsgaközpontnak bemutatja.
 
-(14) A tengerész szolgálati könyv tulajdonosa, ha szolgálati okokból nem tudja szolgálati könyvét a (13) bekezdésben foglalt határidőre hitelesíttetni, a hajózási hatóságnál azt első hazaérkezését követően haladéktalanul hitelesítteti.
+(14)[^22] A tengerész szolgálati könyvet a tulajdonosa legalább 15 havonta hitelesítésre a vizsgaközpontnak bemutatja. Ha szolgálati okokból nem tudja szolgálati könyvét határidőre hitelesíttetni, a vizsgaközpontnál azt az első hazaérkezését követően haladéktalanul hitelesítteti.
 
 (15) A be- és kihajózásokat a szolgálati könyv tulajdonosa külföldi hajózási hatóságnál is hitelesíttetheti. A külföldi hatóságnál hitelesített szolgálatokat nyilvántartásba vétel céljából a hajózási hatóságnál be kell mutatni.
 
-[^18]: A 7. § a 13/2022. (IV. 14.) ITM rendelet 24. §-ával megállapított szöveg.
-[^19]: 13/2001. (IV. 10) KöViM rendelet a belvízi utakon közlekedő úszólétesítmények hajózásra alkalmassága és megfelelősége feltételeiről, az üzemképesség vizsgálatáról és tanúsításáról.
+[^19]: A 7. § a 13/2022. (IV. 14.) ITM rendelet 24. §-ával megállapított szöveg.
+[^20]: 13/2001. (IV. 10) KöViM rendelet a belvízi utakon közlekedő úszólétesítmények hajózásra alkalmassága és megfelelősége feltételeiről, az üzemképesség vizsgálatáról és tanúsításáról.
+[^21]: A 7. § (13) bekezdése a 21/2023. (XI. 23.) ÉKM rendelet 15. §-ával megállapított szöveg.
+[^22]: A 7. § (14) bekezdése a 21/2023. (XI. 23.) ÉKM rendelet 15. §-ával megállapított szöveg.
