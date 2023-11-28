@@ -50,8 +50,6 @@
 
 ## – Krónikus alkoholbetegség, kábítószer-függőség, szenvedélybetegségek.
 
-4. számú melléklet a 21/2002. (XI. 8.) GKM–ESZCSM
+4. számú melléklet a 21/2002. (XI. 8.) GKM–ESZCSM rendelethez[^40]
 
-együttes rendelethez[^38]
-
-[^38]: A 4. számú mellékletet a 13/2022. (IV. 14.) ITM rendelet 22. § b) pontja hatályon kívül helyezte.
+[^40]: A 4. számú mellékletet a 13/2022. (IV. 14.) ITM rendelet 22. § b) pontja hatályon kívül helyezte, újonnan a 21/2023. (XI. 23.) ÉKM rendelet 12. §-a iktatta be.
