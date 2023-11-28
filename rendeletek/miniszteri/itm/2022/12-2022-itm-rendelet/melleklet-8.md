@@ -174,7 +174,7 @@ vagy
 
 4.4. LNG szakértői vizsga kompetenciáihoz tartozó vizsgaelemek
 
-| A | B | C | D |
+|  | B | C | D |
 
 | 1. | Kompetenciák | Vizsgaelemek | Kategória I–II |
 

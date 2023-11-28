@@ -1,6 +1,6 @@
 7. melléklet a 12/2022. (IV. 14.) ITM rendelethez
 
-## A SZEMÉLYHAJÓZÁSI SZAKÉRTŐI KÉPESÍTÉS MEGSZERZÉSÉHEZ SZÜKSÉGES KOMPETENCIÁKRA ÉS VIZSGÁRA VONATKOZÓ KÖVETELMÉNYEK
+A SZEMÉLYHAJÓZÁSI SZAKÉRTŐI KÉPESÍTÉS MEGSZERZÉSÉHEZ SZÜKSÉGES KOMPETENCIÁKRA ÉS VIZSGÁRA VONATKOZÓ KÖVETELMÉNYEK
 
 1. A személyhajózási szakértői képesítés megszerzésének és megtartásának feltételei
 
@@ -108,7 +108,7 @@ A II. kategória esetén a vizsgázóknak legalább 45 pont összpontszámot el 
 
 3.6. A személyhajózási szakértői vizsgán a kompetenciákhoz tartozó vizsgaelemek
 
-| A | B | C | D |
+|  | B | C | D |
 
 | 1. | Kompetenciák | Vizsgaelemek | Kategória I–II |
 

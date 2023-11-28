@@ -1,6 +1,6 @@
 1. melléklet a 12/2022. (IV. 14.) ITM rendelethez
 
-## AZ ÉLETKORRA, A HATÓSÁGI MEGFELELÉSRE, A KOMPETENCIÁRA ÉS A HAJÓZÁSI IDŐRE VONATKOZÓ MINIMUMKÖVETELMÉNYEK
+AZ ÉLETKORRA, A HATÓSÁGI MEGFELELÉSRE, A KOMPETENCIÁRA ÉS A HAJÓZÁSI IDŐRE VONATKOZÓ MINIMUMKÖVETELMÉNYEK
 
 1. Az e mellékletben a fedélzeti személyzet képesítésére vonatkozóan meghatározott minimumkövetelményeket úgy kell értelmezni, hogy azok a képesítések lépcsőzetesen emelkedő szintjei, – a gyakornok- és tanulómatrózok képesítéseit kivéve – amelyeket azonos szintűnek kell tekinteni.
 

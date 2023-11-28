@@ -1,6 +1,6 @@
 9. melléklet a 12/2022. (IV. 14.) ITM rendelethez
 
-## A vonalvizsgára vonatkozó követelmények
+A vonalvizsgára vonatkozó követelmények
 
 1. Vonalismeret vizsga
 
@@ -56,30 +56,24 @@
 
 5.2. A vizsgázónak a vizsgán részletesen ismertetnie kell a vizsgabizottság által kiemelt részszakasz áthajózását, különös tekintettel a mederben történő helyezkedésre, a helyadás formájára, a kitűzésre, a hajózást irányító jelekre, a helynevekre, a műtárgyak jellemzőire, a kedvezőtlen vízmozgásokra, a korlátozottan hajózható részszakaszokra, és a kommunikáció szabályaira.
 
-5.3. A vizsgázó a vizsga során vaktérkép kitöltésével igazolja a helyszínek pontos ismeretét és a hajózási térképeken alkalmazott jelölések, szimbólumok alkalmazásképes ismeretét. Vaktérképből 100 km-es szakaszonként 1 darabot, de vizsgánként – a szakasz hosszától függetlenül – legalább 1 darabot kell kitölteni.
+5.3.[^11] A vizsgázó a vizsga során igazolja a helyszínek pontos ismeretét és a hajózási térképeken alkalmazott jelölések, szimbólumok alkalmazásképes ismeretét.
 
-5.4. A vaktérképen a vizsgázónak jelölnie kell:
+5.4.[^12]
 
-5.4.1. a hajóút helyét,
-
-5.4.2. a helyadás módját,
-
-5.4.3. a hajózást irányító és kitűző jeleket,
-
-5.4.4. a műtárgyak jellemző adatait (pl. hidak hajózó nyílásai, vízlépcső üzemmódja),
-
-5.4.5. a kedvezőtlen áramlási jelenségek (pl. erős keresztáramlás, limány) helyét, hatásait, és vízállásfüggőségét, és
-
-5.4.6. a mederben található akadályokat (pl. sziklák, gázlók, elsüllyedt tárgyak).
-
-5.5. A vaktérkép kitölthető elektronikus úton is, a vizsgaközpont által biztosított, erre alkalmas eszközön.
+5.5.[^13]
 
 6. A vonalismeret vizsga lebonyolítása
 
-6.1. Ha a vizsgázó az első vonalismeret vizsgáját teszi, akkor a vonalismeret alapjaiból vizsgát tesz. Ezt a vizsgaelemet a későbbi vonalvizsgákon nem kell megismételni.
+6.1.[^14] A Duna fő ágának az 1811–1708 fkm közötti szakaszára írásbeli, az 1708–1433 fkm közötti szakaszára írásbeli és szóbeli vizsgát kell tenni.
 
-6.2. Ha a vizsgázó már teljesítette az 1. pontban foglalt vizsgaelemet, akkor a vizsgaszakasz 5. pont szerinti ismereteiből a szakaszra előírt vizsgát tesz.
+6.2.[^15] A Tisza 403–255 fkm közötti szakaszára írásbeli vizsgát kell tenni.
 
 6.3. A vonalvizsga akkor tekinthető sikeresen teljesítettnek, ha a vizsgázó valamennyi vizsgaelem tekintetében elérte a vizsgabizottság által elfogadhatónak ítélt minimális ismeretszintet.
 
 6.4. Ha a vizsgázó a kérelmezett folyószakasz egy részszakaszának ismeretét elfogadható szinten bizonyítja, egy másik részét viszont nem, akkor a vizsgabizottság dönthet az elfogadható szinten teljesített szakaszra korlátozott vonalvizsga igazolásáról. Ebben az esetben a vizsgaközpont a csökkentett szakaszt jegyzi be a vonalvizsga igazolására szolgáló okmányba.
+
+[^11]: A 9. melléklet 5. pont 5.3. alpontja a 21/2023. (XI. 23.) ÉKM rendelet 26. § d) pontjával megállapított szöveg.
+[^12]: A 9. melléklet 5. pont 5.4. alpontját a 21/2023. (XI. 23.) ÉKM rendelet 26. § d) pontja hatályon kívül helyezte.
+[^13]: A 9. melléklet 5. pont 5.5. alpontját a 21/2023. (XI. 23.) ÉKM rendelet 26. § d) pontja hatályon kívül helyezte.
+[^14]: A 9. melléklet 6. pont 6.1. alpontja a 21/2023. (XI. 23.) ÉKM rendelet 26. § d) pontjával megállapított szöveg.
+[^15]: A 9. melléklet 6. pont 6.2. alpontja a 21/2023. (XI. 23.) ÉKM rendelet 26. § d) pontjával megállapított szöveg.

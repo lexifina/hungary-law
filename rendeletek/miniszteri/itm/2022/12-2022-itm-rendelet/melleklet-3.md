@@ -1,6 +1,6 @@
 3. melléklet a 12/2022. (IV. 14.) ITM rendelethez
 
-## A MATRÓZ KÉPESÍTÉSHEZ SZÜKSÉGES KOMPETENCIÁKRA ÉS VIZSGÁKRA VONATKOZÓ KÖVETELMÉNYEK
+A MATRÓZ KÉPESÍTÉSHEZ SZÜKSÉGES KOMPETENCIÁKRA ÉS VIZSGÁKRA VONATKOZÓ KÖVETELMÉNYEK
 
 Üzemeltetési szint
 
@@ -242,7 +242,7 @@
 
 | 2. | A személyszállításra vonatkozó szabályozások és egyezmények figyelembevétele. | 2a. | A személyszállításra vonatkozó alkalmazandó szabályozások és egyezmények ismerete. |
 
-| 2b. | Képesség a fogyatékkal élőknek és a csökkent mozgásképességű személyeknek való közvetlen az 1177/2010/EU európai parlamenti és tanácsi rendelet IV. mellékletében előírt képzési követelményeknek és utasításoknak megfelelően. |
+| 2b. | Képesség a fogyatékkal élőknek és a csökkent mozgásképességű személyeknek való közvetlen segítségnyújtásra az 1177/2010/EU európai parlamenti és tanácsi rendelet IV. mellékletében előírt képzési követelményeknek és utasításoknak megfelelően.[^9] |
 
 | 3. | Közreműködik az utasok biztonságos közlekedésében a beszálláskor és kiszálláskor. | 3a. | Az utasok beszállítása és kiszállítása előtt, illetve annak során alkalmazandó eljárások ismerete. |
 
@@ -637,3 +637,5 @@ az azonnali cselekvésre.
 10. A matróz és a képesített matróz képesítés alkalmazása
 
 10.1. Az e mellékletben foglaltak alapján megszerzett matróz képesítéssel minden olyan belvízi vízi járművön, amelynek hajóbizonyítványában a személyzet összetételét meghatározó pontban szerepel matróz munkakör, az e képesítéssel ellátható, a képesített matróz képesítés belvízi vízi járművön matróz és képesített matróz munkakör ellátására jogosít.
+
+[^9]: A 3. melléklet 4. pont 4.4. alpontjában foglalt táblázat D:2b. mezője a 21/2023. (XI. 23.) ÉKM rendelet 26. § b) pontjával megállapított szöveg.

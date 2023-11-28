@@ -1,6 +1,6 @@
 4. melléklet a 12/2022. (IV. 14.) ITM rendelethez
 
-## HAJÓVEZETŐI KÉPESÍTÉS MEGSZERZÉSÉHEZ SZÜKSÉGES KOMPETENCIÁKRA ÉS VIZSGÁKRA VONATKOZÓ KÖVETELMÉNYEK
+HAJÓVEZETŐI KÉPESÍTÉS MEGSZERZÉSÉHEZ SZÜKSÉGES KOMPETENCIÁKRA ÉS VIZSGÁKRA VONATKOZÓ KÖVETELMÉNYEK
 
 1. A hajóvezetői képesítés megadásának minimumkövetelményei
 
@@ -770,7 +770,7 @@ a különböző típusú vízi járművek üzemeltetéséhez való alkalmazásá
 
 |  | 2b. | Képesség a személyzetnek megfelelő és professzionális módon történő utasításadásra. |
 
-|  | 2c. | Képesség a személyzetnek a vízi jármű kommunikációs, média- és informatikai rendszereinek használatára történő oktatására. |
+|  | 2c. | Képesség a személyzetnek adott utasítások elmagyarázására.[^10] |
 
 |  | 2d. | Képesség visszajelzésre a személyzet részére a fedélzeten tanúsítandó professzionális és társasági viselkedéssel kapcsolatban. |
 
@@ -998,7 +998,7 @@ a vizsgázóknak minden egyes értékelt elemnél 10 pontból legalább 7 pontot
 
 A II. kategória esetén a vizsgázóknak legalább 60 pont összpontszámot el kell érniük.
 
-| A | B | C | D |
+|  | B | C | D |
 
 | 1. | Kompetenciák | Vizsgaelemek | Kategória I–II |
 
@@ -1096,7 +1096,7 @@ A II. kategória esetén a vizsgázóknak legalább 60 pont összpontszámot el 
 
 5.6.3. A vizsga ezen részében felsorolt összes elemet értékelni kell. A vizsgázónak a következő táblázatban foglalt minden egyes elemnél a maximális 10 pontból legalább 7 pontot el kell érnie.
 
-| A | B | C |
+|  | B | C |
 
 | 1. | Kompetenciák | Vizsgaelemek |
 
@@ -1142,7 +1142,7 @@ A II. kategória esetén a vizsgázóknak legalább 60 pont összpontszámot el 
 
 8.3. A hajózási hatóság határozza meg a vizsgakövetelményekre vagy a képesítés megszerzésére vonatkozó előírások alapján a számonkérhető ismeretanyagot, a vizsgafeladatokat és a vizsgatárgyak számonkérésének módját.
 
-| A | B | C | D |
+|  | B | C | D |
 
 | 1. | Kompetenciák | Vizsgaelemek | Kategória I–II |
 
@@ -1227,3 +1227,5 @@ A II. kategória esetén a vizsgázóknak legalább 60 pont összpontszámot el 
 9.2. A hajóvezető képesítés - nagy kötelék vezetésére kiterjesztéssel - bármely vízi jármű és azok kötelékének vezetésére és gépi berendezéseinek kezelésére, valamint vitorlázáselmélet tárgyból tett elméleti vizsga és vitorlás hajóval tett gyakorlati vizsga birtokában - vitorla meghajtás kezelésére jogosít. E jogosultság igazolására a kiállító szerv a képesítő bizonyítvány 10. (Kódolt egyedi engedély(ek):) sorába a „V” kódot jegyzi be.
 
 9.3. Azokon a vízterületeken, ahol a jogszabály vonalvizsgát ír elő feltételként a vízi jármű vezetéséhez, a vezetés feltétele a teljesített vonalvizsga bejegyzése a hajóvezetői képesítésbe.
+
+[^10]: A 4. melléklet 4.8. pont 4.8.2. alpontjában foglalt táblázat D:2c. mezője a 21/2023. (XI. 23.) ÉKM rendelet 26. § c) pontjával megállapított szöveg.

@@ -41,3 +41,7 @@ a) a belvízi utakon tartózkodó tengeri hajón szolgálatot teljesítők képe
 b) a belvízi szolgálati célú és a kedvtelési célú hajózásra,
 
 c) a honvédelmi, rendvédelmi, polgári védelmi, katasztrófavédelmi, tűzoltósági és sürgősségi segélyszolgálati célú hajózási tevékenységet végző úszólétesítmények vezetőire és személyzetére.
+
+d)[^1] a nem önállóan közlekedő (köteles) kompok személyzetére.
+
+[^1]: Az 1. § (2) bekezdés d) pontját a 21/2023. (XI. 23.) ÉKM rendelet 21. §-a iktatta be.

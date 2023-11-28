@@ -8,7 +8,7 @@
 
 (2) A vizsgaközpont azon hajóvezető kérelmére, aki a Közösségen belüli belvízi árufuvarozásra és személyszállításra vonatkozó nemzeti hajóvezetői bizonyítvány megszerzési feltételeinek összehangolásáról szóló, 1996. július 23-i 96/50/EK tanácsi irányelvben (a továbbiakban: 96/50/EK tanácsi irányelv) foglaltaknak megfelelően kiállított és a hajózási hatóság nyilvántartásában szereplő bizonyítvánnyal rendelkezik, uniós képesítő bizonyítványt állít ki, feltéve, hogy a hajóvezető a kérelem benyújtásával egyidejűleg bemutatta a 8. § (1) bekezdés a), c) és d) pontja szerinti okiratokat.
 
-(3) A (2) bekezdés szerinti esetben a vizsgaközpont olyan uniós képesítő bizonyítványt állít ki, amely a korábban biztosított jogosultságokat tartalmazza, különösen a 4. § szerinti különleges engedélyeket.
+(3)[^3] A belvízi hajó vezetésére jogosító képesítés esetén a vizsgaközpont kérelemre olyan uniós képesítő bizonyítványt állít ki, amely a korábban biztosított jogosultságokat – különösen a 4. § szerinti –, különleges engedélyeket tartalmazza.
 
 (4) A személyzet azon tagjai, akik nem hajóvezetők, és olyan képesítő bizonyítvánnyal rendelkeznek, amelyet egy tagállam 2022. január 18-át megelőzően adott ki, vagy akik egy vagy több tagállam által elismert képesítéssel rendelkeznek, az említett időpontot követően legfeljebb 10 évig jogosultak ezen bizonyítványra vagy képesítésre. Ezen időszak alatt a személyzet hajóvezetőtől eltérő tagjai továbbra is hivatkozhatnak a szakmai képesítések elismeréséről szóló, 2005. szeptember 7-i 2005/36/EK európai parlamenti és tanácsi irányelv rendelkezéseire képesítésük más tagállamok hatóságai által történő elismerése tekintetében.
 
@@ -46,10 +46,15 @@ d) a hajózási hatóság vagy a vizsgaközpont rendelkezésére álló dokument
 
 (14) 2032. január 18-ig a vizsgaközpont a hajózási képesítésekről szóló miniszteri rendelet alapján a 2022. január 18. előtt kiadott géptiszt és gépkezelő képesítésekkel rendelkezők kérelmére az e rendeletben meghatározott gépész képesítést a hajós szolgálati könyvbe bejegyzi.
 
-(15) 2032. január 18-ig a vizsgaközpont a hajózási képesítésekről szóló miniszteri rendelet alapján 2022. január 18. előtt kiadott „C” kategóriás hajóvezető képesítéssel rendelkezők kérelmére uniós hajóvezetői képesítő bizonyítvány állít ki.
+(15)[^4] 2032. január 18-ig a vizsgaközpont a hajózási képesítésekről szóló miniszteri rendelet alapján 2022. január 18. előtt kiadott, belvízi nagyhajó vezetésére jogosító hajóvezető képesítéssel rendelkező személy kérelmére uniós hajóvezetői képesítő bizonyítványt állít ki, ha a kérelmező legalább két év nagyhajóvezetői szolgálatot igazol. Ez a rendelkezés nem vonatkozik az „A” és „B” kategóriájú hajóvezetői képesítéssel rendelkező személyekre.
 
 (16) Azok az „A” és „B” kategóriájú hajóvezetői képesítéssel rendelkező személyek esetében, akik az egészségi alkalmasság orvosi igazolása mellett az e rendeletben meghatározott uniós hajóvezető bizonyítvány kiadását kérelmezik, az e rendeletben előírt követelményeket teljesítettnek kell tekinteni. Az „A” kategóriájú képesítés esetén az e rendelet szerint kiállított hajóvezető bizonyítványba be kell jegyezni a tengeri jellegűnek minősített belvízi úton történő hajózásra való jogosultság kódját.
 
-(17) Azok a vizsgázók, akik vizsgáikat e rendelet hatálybalépése előtt kezdték meg, de a hatálybalépés időpontjáig nem fejezték be, 2022. december 31-ig az e rendelet hatálybalépése előtt hatályos eljárás szerint vizsgázhatnak le és számukra az e rendeletben meghatározott hajóvezető bizonyítványt állít ki a vizsgaközpont.
+(17)[^5]
 
-(18) Annak a jelöltnek, aki 2022 január 18-át megelőzően a hajózási hatóság által jóváhagyott képzésen kezdte meg tanulmányait, annak befejezését követően egy év áll rendelkezésére, hogy a vizsgát a hajózási képesítésekről szóló miniszteri rendeletben előírtak szerint teljesítse. A vizsgaközpont a vizsga sikeres letételét követően, ha a megszerzett képesítés az (1)–(17) bekezdésben foglaltak alapján uniós képesítésre cserélhető, az uniós képesítést állítja ki. E rendelkezés 2025. január 18-ig alkalmazható.
+(18)[^6] Annak a jelöltnek, aki 2022. január 17-ét megelőzően a hajózási hatóság által jóváhagyott képzésen kezdte meg tanulmányait, annak befejezését követően egy év áll rendelkezésére, hogy a vizsgát a hajózási képesítésekről szóló miniszteri rendelet 2022. április 18. napján hatályos előírásai szerint teljesítse. E rendelkezés 2025. január 18-ig alkalmazható.
+
+[^3]: A 22. § (3) bekezdése a 21/2023. (XI. 23.) ÉKM rendelet 23. §-ával megállapított szöveg.
+[^4]: A 22. § (15) bekezdése a 21/2023. (XI. 23.) ÉKM rendelet 24. §-ával megállapított szöveg.
+[^5]: A 22. § (17) bekezdését a 21/2023. (XI. 23.) ÉKM rendelet 27. §-a hatályon kívül helyezte.
+[^6]: A 22. § (18) bekezdése a 21/2023. (XI. 23.) ÉKM rendelet 25. § (1) bekezdésével megállapított szöveg.

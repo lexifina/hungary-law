@@ -1,6 +1,6 @@
 2. melléklet a 12/2022. (IV. 14.) ITM rendelethez
 
-## AZ ÉLETKORRA, A HATÓSÁGI MEGFELELÉSRE, A KOMPETENCIÁRA A HAJÓZÁSI IDŐRE ÉS VIZSGÁKRA VONATKOZÓ KÖVETELMÉNYEK A KIZÁRÓLAG A NEMZETI VÍZIUTAKRA ÉRVÉNYES ÉS AZ 1. MELLÉKLETBEN NEM SZABÁLYOZOTT, A HAJÓS SZOLGÁLATI KÖNYVBE ÉS A HAJÓNAPLÓBA BEJEGYEZHETŐ KÉPESÍTÉSEK ESETÉN
+AZ ÉLETKORRA, A HATÓSÁGI MEGFELELÉSRE, A KOMPETENCIÁRA A HAJÓZÁSI IDŐRE ÉS VIZSGÁKRA VONATKOZÓ KÖVETELMÉNYEK A KIZÁRÓLAG A NEMZETI VÍZIUTAKRA ÉRVÉNYES ÉS AZ 1. MELLÉKLETBEN NEM SZABÁLYOZOTT, A HAJÓS SZOLGÁLATI KÖNYVBE ÉS A HAJÓNAPLÓBA BEJEGYEZHETŐ KÉPESÍTÉSEK ESETÉN
 
 1. Képesítések igazolása, ellenőrzés
 
@@ -120,4 +120,6 @@
 
 3.3.7. a matróz gyakorlatban szükséges munkáinak elvégzési képességének ellenőrzésére gyakorlati vizsgán: legalább evezés, kötélkezelés és -karbantartás, speciális kötések és csomók, dobókötél használata, horgonyzás, kikötés, tűz oltása, vízből mentés, csatoló csörlők kezelése és mélységmérés.
 
-3.4. A 3.1. alpont szerinti matróz képesítés az 5. § (1) bekezdésében foglalt vízterületeken matróz szolgálat ellátására jogosít.
+3.4.[^8] A 2.1.6. és a 3.1. alpont szerinti matróz képesítés az 5. § (1) bekezdésében foglalt vízterületeken bármely úszólétesítményen, továbbá a kizárólag Magyarország területén közlekedő úszólétesítményeken matróz szolgálat ellátására jogosít.
+
+[^8]: A 2. melléklet 3. pont 3.4. alpontja a 21/2023. (XI. 23.) ÉKM rendelet 26. § a) pontjával megállapított szöveg.

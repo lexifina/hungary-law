@@ -144,7 +144,7 @@ KOMPETENCIÁKRA ÉS VIZSGÁKRA VONATKOZÓ KÖVETELMÉNYEK
 
 3.1.2. Speciális kompetenciák és vizsgaelemek
 
-| A | B | C |
+|  | B | C |
 
 | 1. | Kompetenciák | Vizsgaelem |
 
