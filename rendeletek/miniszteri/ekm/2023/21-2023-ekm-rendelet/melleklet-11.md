@@ -1,7 +1,3 @@
-11. melléklet a 21/2023. (XI. 23.) ÉKM rendelethez
+11. melléklet a 21/2023. (XI. 23.) ÉKM rendelethez[^39]
 
-Az R6. 10. melléklet 2.1. alpontja a következő 2.1.5. alponttal egészül ki:
-
-(A hajózási hatóság értesíti a szimulátor jóváhagyásáról az Európai Bizottságot, megjelölve az értesítésben legalább a következőket:)
-
-„2.1.5. a képesítő bizonyítványt, különleges engedélyt vagy gyakorlati vizsgabizonyítványt kiállító szerv megnevezése.”
+[^39]: A 11. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

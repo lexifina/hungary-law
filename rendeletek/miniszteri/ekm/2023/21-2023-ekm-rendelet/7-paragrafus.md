@@ -1,3 +1,3 @@
-7. § Az R1. 14. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+7. §[^8]
 
-(Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:)
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

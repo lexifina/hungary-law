@@ -1,3 +1,3 @@
-11. § Az R2. 7. § (3) bekezdés a) pontja helyébe a következő rendelkezés lép:
+11. §[^12]
 
-(Hajózási szolgálatot ellátó személy esetében a vizsgálat eredményéről a vizsgálatot végző orvos)
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

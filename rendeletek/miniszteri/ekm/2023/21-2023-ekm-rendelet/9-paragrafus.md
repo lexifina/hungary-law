@@ -1,9 +1,3 @@
-9. § Hatályát veszti az R1.
+9. §[^10]
 
-a) 2. § c) pontja,
-
-b) 9/B. § (3) bekezdésében a „Vonalvizsgához kötött képesítés esetén az adott víziútszakaszra vonatkozó vonalvizsga kötelező.” szövegrész,
-
-c) 12. § (4) bekezdése,
-
-d) 14. § (1) bekezdés b) pontja.
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-23. § Az R6. 22. § (3) bekezdése helyébe a következő rendelkezés lép:
+23. §[^24]
 
-„(3) A belvízi hajó vezetésére jogosító képesítés esetén a vizsgaközpont kérelemre olyan uniós képesítő bizonyítványt állít ki, amely a korábban biztosított jogosultságokat – különösen a 4. § szerinti –, különleges engedélyeket tartalmazza.”
+[^24]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

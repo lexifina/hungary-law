@@ -1,11 +1,3 @@
-17. § Hatályát veszti az R3.
+17. §[^18]
 
-a) 3. § (2) bekezdése,
-
-b) 3. § (3) bekezdés d) pontja,
-
-c) 3. § (6) bekezdése,
-
-d) 1. számú melléklete és
-
-e) 3. számú melléklete.
+[^18]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

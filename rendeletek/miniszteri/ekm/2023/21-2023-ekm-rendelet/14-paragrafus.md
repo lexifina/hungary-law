@@ -1,3 +1,3 @@
-14. § Az R3. 3. § (3) bekezdés c) pontja helyébe a következő rendelkezés lép:
+14. §[^15]
 
-(A szolgálati könyv kiállítását a vizsgaközpontnál az alábbi mellékletek benyújtásával kell kérelmezni:)
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
