@@ -16,13 +16,13 @@ Bányabiztonsági Szabályzat a védő- és határpillérek méretezéséről
 
 1.5. A bányaműveletek hatására végbemenő mozgások ellenőrzésére a bányafelügyelet – a bányavállalkozó költségére – mérőhálózat telepítését és a mozgások rendszeres mérését rendelheti el.
 
-1.6. Jelen szabályzattól eltérő védőpillér méretezés megengedett, ha a védelmi és biztonsági követelmények más módon is kielégíthetők. Ez esetben a kockázatokról a védendő építmény, létesítmény vagy terület tulajdonosával meg kell állapodni, és a megállapodást a védőpillér kijelölési kérelemhez csatolni kell.
+1.6.[^6] Jelen szabályzattól eltérő védőpillér méretezés megengedett, ha a védelmi és biztonsági követelmények más módon is kielégíthetők.
 
-1.7. A méretezés során alkalmazandó jelölések:
+1.7.[^7] A méretezés során alkalmazandó jelölések:
 
-R védő-, illetve határpillér szélessége [m]
+R védőpillér szélessége [m]
 
-H védő-, illetve határpillér magassága [m]
+H védőpillér magassága [m]
 
 mt telepvastagság [m]
 
@@ -173,3 +173,6 @@ A védőpillér méretek közül a nagyobb méretet kell alkalmazni.
 Lejtősakna védőpillérének méretezését a 3.2. és az 5.1. pont alapján kell elvégezni úgy, hogy az akna szájnyílásának – mint külszíni létesítménynek – védőpillérét korrigált határszöggel és védősávval, a lejtősakna talpának védőpillérét pedig mint telepben lévő létesítmény védőpillérét kell meghatározni.
 
 A lejtősakna teljes védőpillérét a két végpontban kapott védőpillér-szélességgel megállapított méretek határozzák meg.
+
+[^6]: Az 1. melléklet 1. pont 1.6. alpontja a 22/2023. (XI. 21.) SZTFH rendelet 12. § 3. pontja szerint módosított szöveg.
+[^7]: Az 1. melléklet 1. pont 1.7. alpontja a 22/2023. (XI. 21.) SZTFH rendelet 11. §-a szerint módosított szöveg.

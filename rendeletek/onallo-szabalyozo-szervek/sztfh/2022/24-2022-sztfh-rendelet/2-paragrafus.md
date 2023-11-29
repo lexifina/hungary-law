@@ -6,7 +6,7 @@
 
 2. határpillér: a bányatelek határvonala mentén kijelölt olyan védőpillér, amely biztosítja, hogy a bányaműveletek okozta felszíni kőzet- és talajmozgások a bányatelek határán belül legyenek;
 
-3. határszög (ß):
+3.[^1] határszög:
 
 a) külfejtés esetén a bányaműveletekkel nem érintett kőzettest rézsűs határoló felületének vízszintes síkkal bezárt dőlésszöge, amelynél a számítások vagy a tapasztalat szerint a határoló felület alatti kőzettest megcsúszása, elmozdulása nem következik be, a bányaműveletek felől nézve a védőpilléreken túli terület nyugalomban marad, és így a bányaműveletek hatása a védett területet nem veszélyezteti,
 
@@ -18,7 +18,7 @@ b) mélyművelés esetén – egy függőleges, a fejtés határvonalára meről
 
 6. hatástávolság: a bányaműveletek talpponti szélétől vagy a fejtési üreg szélétől az ép kőzetek irányába mérve az a vízszintes vetületi távolság, ameddig a kőzetmozgások a felszínen kiterjednek;
 
-7. korrigált hatástávolság (r', illetve a, b és c): a határszög megállapításának bizonytalansága miatt megnövelt hatástávolság;
+7.[^2] korrigált hatástávolság: a határszög megállapításának bizonytalansága miatt megnövelt hatástávolság;
 
 8. védősáv: a védendő létesítmény vagy terület mellett biztonsági okokból kijelölt vízszintes vetületi távolság;
 
@@ -27,3 +27,15 @@ b) mélyművelés esetén – egy függőleges, a fejtés határvonalára meről
 10. szakértő: szakirányú felsőfokú végzettséggel, valamint az adott szakterületre tervezői vagy szakértői jogosultsággal rendelkező és névjegyzékben szereplő személy;
 
 11. lábvonal: a védőpillért határoló rézsűs felületnek és a védőpillér vonatkozó felületének (alaplap, fekü) metszésvonala.
+
+12.[^3] védőpillér magassága: a bányatelek alaplapja vagy más vonatkozó felület és a felszín közötti függőleges távolság;
+
+13.[^4] telepvastagság: a telep fekü- és fedősíkja közötti átlagos merőleges távolság;
+
+14.[^5] telep dőlésszöge: a telep jellemző síkjának a vízszintessel bezárt szöge.
+
+[^1]: A 2. § 3. pont nyitó szövegrésze a 22/2023. (XI. 21.) SZTFH rendelet 12. § 1. pontja szerint módosított szöveg.
+[^2]: A 2. § 7. pontja a 22/2023. (XI. 21.) SZTFH rendelet 12. § 2. pontja szerint módosított szöveg.
+[^3]: A 2. § 12. pontját a 22/2023. (XI. 21.) SZTFH rendelet 10. §-a iktatta be.
+[^4]: A 2. § 13. pontját a 22/2023. (XI. 21.) SZTFH rendelet 10. §-a iktatta be.
+[^5]: A 2. § 14. pontját a 22/2023. (XI. 21.) SZTFH rendelet 10. §-a iktatta be.
