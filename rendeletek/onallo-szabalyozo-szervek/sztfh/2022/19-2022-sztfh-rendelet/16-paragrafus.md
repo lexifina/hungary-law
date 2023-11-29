@@ -2,9 +2,9 @@
 
 16. § (1) A tervtérkép a bányaművelési térkép adatállományának felhasználásával készített térkép. A jóváhagyott tervtérkép egy kinyomtatott példányát a bányaüzemben kell őrizni.
 
-(2) A tervtérképen a 15. § (2) bekezdésében előírtakon túlmenően fel kell tüntetni
+(2)[^16] A tervtérkép a 15. § (2) bekezdésében előírtakon túlmenően tartalmazza
 
-a) negyedéves bontásban a vágathajtási (feltárási és elővájási) tervet zöld színnel, a tervezett lefejtéseket zöld színű vonalkázással, és ezekhez kapcsolódóan
+a)[^17] negyedéves bontásban a vágathajtási tervet zöld színnel, a tervezett lefejtéseket zöld színű vonalkázással, és ezekhez kapcsolódóan
 
 aa) a tervezett vágatok és fejtések megnevezését és azonossági számát,
 
@@ -35,3 +35,6 @@ ce) a tervezett műveleti területen valószínűsíthető legnagyobb vízbetör
 d) a többi fő bányaveszélyek ellen tervezett állandó létesítményeket és
 
 e) a tervezett és ütemezett tájrendezési feladatokat.
+
+[^16]: A 16. § (2) bekezdés nyitó szövegrésze a 22/2023. (XI. 21.) SZTFH rendelet 8. § 13. pontja szerint módosított szöveg.
+[^17]: A 16. § (2) bekezdés a) pont nyitó szövegrésze a 22/2023. (XI. 21.) SZTFH rendelet 9. § a) pontja szerint módosított szöveg.

@@ -2,7 +2,7 @@
 
 18. § (1) A vízveszélyes területen megállapított bányatelek területéről hidrogeológiai térképet kell készíteni 1:2000 vagy nagyobb méretarányban.
 
-(2) A hidrogeológiai térképen a 15. §-ban előírtakon túlmenően fel kell tüntetni
+(2)[^20] A hidrogeológiai térkép a 15. §-ban előírtakon túlmenően tartalmazza
 
 a) megkülönböztetett színjelzéssel
 
@@ -31,3 +31,5 @@ i) az esetleges tömedékelés vagy a vízbetörések elfojtására vonatkozó a
 (3) A hidrogeológiai térképhez jellemző vízföldtani metszetet kell készíteni, amely hidrogeológiai térkép tartozékát képezi.
 
 (4) A hidrogeológiai térképet a bányanyitás kezdetéig el kell készíteni, szükség szerint ki kell egészíteni, és a bányaüzemben kell tartani.
+
+[^20]: A 18. § (2) bekezdés nyitó szövegrésze a 22/2023. (XI. 21.) SZTFH rendelet 8. § 14. pontja szerint módosított szöveg.

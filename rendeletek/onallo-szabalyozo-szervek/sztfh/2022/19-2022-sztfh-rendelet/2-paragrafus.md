@@ -4,7 +4,7 @@
 
 (2) A bányatérképet digitális formában kell elkészíteni az erre alkalmas térképező vagy térinformatikai számítástechnikai program segítségével.
 
-(3) A térképező vagy térinformatikai számítástechnikai program akkor minősül alkalmasnak, ha a térképi alapelemeket – mint pont, vonal, vonallánc és szöveg – térbeli helyzetüknek megfelelően le tudja képezni más számítástechnikai rendszerek által értelmezhető formátumba.
+(3)[^2] A térképező vagy térinformatikai számítástechnikai program akkor minősül alkalmasnak, ha a térképi alapelemeket – különösen pont, vonal, vonallánc és szöveg – térbeli helyzetüknek megfelelően le tudja képezni más számítástechnikai rendszerek által értelmezhető formátumba.
 
 (4) A vektorosan elkészített bányatérképek archiválására, valamint más számítástechnikai rendszerek részére történő adatátadás és adatcsere céljára rajzcsere fájlt kell használni. Az adatmentést az alkalmazott szoftver eredeti adatformátumában is el kell végezni.
 
@@ -12,7 +12,7 @@
 
 (6) A bányavállalkozó vagy a hites bányamérő a bányatérképek elkészítéséhez és kiegészítéséhez az állami térképi adatbázis adatait használja fel. A bányatérképek továbbvezetésekor az állami térképi adatbázisban bekövetkezett változásokat ellenőrizni kell, és a változásokat a bányatérképen is át kell vezetni.
 
-(7) A bányafelügyelet a bányatérkép helyességének ellenőrzésére méréseket végez vagy végeztet. A bányafelügyelet – az ellenőrzés eredménye szerint – kötelezheti a bányavállalkozót
+(7)[^3] A bányafelügyelet a bányatérkép helyességének ellenőrzésére méréseket végez vagy végeztet. Ha a bányafelügyelet az ellenőrzése alapján megállapítja, hogy a bányatérkép nem felel meg e rendelet előírásainak, kötelezheti a bányavállalkozót
 
 a) a bányatérkép felülvizsgálatára, szükség szerinti kijavítására,
 
@@ -21,3 +21,6 @@ b) további ellenőrző mérések elvégzésére,
 c) a bányatérkép készítéséhez felhasznált mérési és számítási dokumentációk átadására vagy
 
 d) új bányatérkép vagy műszaki-biztonsági szempontból szükséges más térképek vagy térképmellékletek készítésére.
+
+[^2]: A 2. § (3) bekezdése a 22/2023. (XI. 21.) SZTFH rendelet 8. § 1. pontja szerint módosított szöveg.
+[^3]: A 2. § (7) bekezdés nyitó szövegrésze a 22/2023. (XI. 21.) SZTFH rendelet 8. § 2. pontja szerint módosított szöveg.

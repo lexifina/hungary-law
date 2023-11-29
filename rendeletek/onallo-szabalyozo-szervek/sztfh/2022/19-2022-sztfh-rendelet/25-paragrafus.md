@@ -6,7 +6,7 @@
 
 25. § (1) A távvezetéki térképen a szállító, leágazó és mezők közötti vezetéket az indítóállomástól az átadóállomásig, vagy – ha az az országhatárt keresztezi – az országhatárig kell ábrázolni. A távvezetéki térképet az ingatlan-nyilvántartási térkép hiteles másolata teljes tartalmának felhasználásával kell készíteni és a vezetéket üzemben tartónál kell őrizni.
 
-(2) A távvezetéki térképen fel kell tüntetni
+(2)[^38] A távvezetéki térkép tartalmazza
 
 a) a szállító- és leágazó vezeték megnevezését,
 
@@ -37,3 +37,5 @@ a) a vezeték kezdő-, törés- és végpontjainak koordinátáit sorszámuk sze
 b) a vezeték hossz-szelvényét a térképi vízszintes és 1:100 magassági méretaránnyal, a keresztező létesítményeket is ábrázolva.
 
 (4) A távvezetéki térképet 3 havonta a bányavállalkozónak a változásoknak megfelelően ki kell egészítenie.
+
+[^38]: A 25. § (2) bekezdés nyitó szövegrésze a 22/2023. (XI. 21.) SZTFH rendelet 8. § 9. pontja szerint módosított szöveg.

@@ -2,7 +2,7 @@
 
 1. melléklet a 19/2022. (I. 28.) SZTFH rendelethez
 
-## A bányászati térképezés egyes jelkulcsaihoz kapcsolódó szabványok
+A bányászati térképezés egyes jelkulcsaihoz kapcsolódó szabványok
 
 1. MSZ-09 10.0134-4:1990 Bányászati térképezés. Szénhidrogén mélyfúrások, termelő kutak egyezményes jelei.
 

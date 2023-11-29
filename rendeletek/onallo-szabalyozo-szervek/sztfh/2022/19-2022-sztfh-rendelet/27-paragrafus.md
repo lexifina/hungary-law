@@ -4,7 +4,7 @@
 
 27. § (1) Minden bányászati tevékenységhez a műszaki üzemi terv mellékleteként olyan környezetvédelmi térképet kell készíteni, amelyen nyomon követhetőek a bányászati tevékenység környezeti hatásai és az ezek miatt bekövetkezett változások. A környezetvédelmi térképet a bányászati tevékenység területének nagyságától függően 1:1000–1:100 000 méretarányban kell készíteni az állami térképek felhasználásával.
 
-(2) A környezetvédelmi térképnek tartalmaznia kell
+(2)[^40] A környezetvédelmi térkép tartalmazza
 
 a) a bányászati tevékenység területének megnevezését, határvonalát töréspontjaival és azok sorszámával,
 
@@ -29,3 +29,5 @@ j) a hatásmegfigyelő rendszert és
 k) a tervezett és megvalósult tájrendezést.
 
 (3) A környezetvédelmi térképet szükség szerint, legalább évente a december 31-i állapotnak megfelelően ki kell egészíteni.
+
+[^40]: A 27. § (2) bekezdés nyitó szövegrésze a 22/2023. (XI. 21.) SZTFH rendelet 8. § 18. pontja szerint módosított szöveg.

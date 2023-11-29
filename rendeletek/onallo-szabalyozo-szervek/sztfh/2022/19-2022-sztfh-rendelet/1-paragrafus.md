@@ -12,6 +12,6 @@ b) módosításához, kiegészítéséhez és
 
 c) tárolásához
 
-## kapcsolódóan végez.
+kapcsolódóan végez.
 
 (2) A rendelet hatálya kiterjed a bányaüzem felelős műszaki vezetőjének ellenőrzési és adatszolgáltatási kötelezettségére, valamint a Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: bányafelügyelet) bányatérképekkel kapcsolatos felügyeleti tevékenységére.

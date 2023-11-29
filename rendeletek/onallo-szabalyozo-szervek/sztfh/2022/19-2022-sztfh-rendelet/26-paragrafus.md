@@ -2,7 +2,7 @@
 
 26. § (1) A szállító, leágazó és mezők közötti vezetékről az átadó állomásig, vagy – ha az az országhatárt keresztezi – az országhatárig távvezetéki átnézeti térképet kell készíteni. A távvezetéki átnézeti térképhez közvetlenül csak az 1:10 000 vagy 1:25 000 méretarányú állami topográfiai térképek használhatók fel, és azokat a távvezetéket üzemben tartónál kell őrizni.
 
-(2) A távvezetéki átnézeti térképen fel kell tüntetni
+(2)[^39] A távvezetéki átnézeti térkép tartalmazza
 
 a) a távvezeték megnevezését,
 
@@ -21,3 +21,5 @@ g) a bányatelek nyilvántartásból nem törölt bányatelek határvonalát, me
 h) a koncessziós területek megnevezését és határvonalait.
 
 (3) A távvezeték nyomvonalán vagy szelvényezésében beállott változásokat a távvezetéki átnézeti térképen évenként át kell vezetni.
+
+[^39]: A 26. § (2) bekezdés nyitó szövegrésze a 22/2023. (XI. 21.) SZTFH rendelet 8. § 9. pontja szerint módosított szöveg.

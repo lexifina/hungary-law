@@ -4,7 +4,7 @@
 
 13. § (1) A bányatelek térkép a kutatási zárójelentés adatainak és az ingatlan-nyilvántartási térképi adatbázis hiteles másolata teljes tartalmának felhasználásával készül. A kőolaj- és földgázbányászat, valamint a földtani szerkezetben történő szénhidrogén-tárolás bányatelek térképe az állami ingatlan-nyilvántartási térképi adatbázis adatállományából létrehozva, csökkentett tartalmú térképi állományban is készíthető.
 
-(2) A bányatelek térképen fel kell tüntetni
+(2)[^12] A bányatelek térkép tartalmazza
 
 a) a bányatelek határvonalát töréspontjainak sorszámával,
 
@@ -35,3 +35,5 @@ l) a b)–k) pontban meghatározott térképi elemeket a bányatelken és annak 
 (4) A bányatelek térképre fel kell jegyezni a határvonal töréspontjainak koordinátáit (x, y és z), a fedő- és alaplap magasságát, valamint a bányatelek területét. Szénhidrogénekre vonatkozó bányatelkek esetében a „z” érték megadása nem kötelező.
 
 (5) A bányatelek térképen ábrázolni kell a védőpillérek általános metszetét.
+
+[^12]: A 13. § (2) bekezdés nyitó szövegrésze a 22/2023. (XI. 21.) SZTFH rendelet 8. § 9. pontja szerint módosított szöveg.

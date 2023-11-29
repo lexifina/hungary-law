@@ -1,4 +1,4 @@
-6. § (1) Minden bányatérképen fel kell tüntetni
+6. § (1)[^8] A bányatérkép tartalmazza
 
 a) a bányatérkép megnevezését,
 
@@ -27,3 +27,5 @@ l) a bányatérkép helyességéért felelős hites bányamérő nevét, nyilvá
 m) nyomtatott formátum esetében a hites bányamérő eredeti aláírását, valamint a bányavállalkozó eredeti cégszerű aláírását.
 
 (2) A mélyműveléses és külfejtéses bánya bányaművelési és tervtérképein haladéktalanul fel kell tüntetni a biztonsági, védő- és határpilléreket, az azokat megállapító bányafelügyeleti határozatok megjelölésével.
+
+[^8]: A 6. § (1) bekezdés nyitó szövegrésze a 22/2023. (XI. 21.) SZTFH rendelet 8. § 7. pontjával megállapított szöveg.
