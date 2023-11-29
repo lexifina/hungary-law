@@ -1,3 +1,3 @@
-3. § A 365/2016. (XI. 29.) Korm. rendelet 24. §-a a következő h) ponttal egészül ki:
+3. §[^4]
 
-(Budapest Főváros Kormányhivatala)
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

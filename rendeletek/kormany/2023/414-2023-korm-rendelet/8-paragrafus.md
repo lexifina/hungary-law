@@ -1,3 +1,3 @@
-8. § A 365/2016. (XI. 29.) Korm. rendelet 34. § (1) bekezdése a következő 19. ponttal egészül ki:
+8. §[^9]
 
-(E rendelet)
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

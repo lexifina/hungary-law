@@ -1,5 +1,3 @@
-11. § Hatályát veszti a 365/2016. (XI. 29.) Korm. rendelet
+11. §[^12]
 
-a) 24/A. § (2) bekezdése,
-
-b) 24/A. § (4) bekezdésében a „24. § d) pontjában meghatározott kijelölő” szövegrész.
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
