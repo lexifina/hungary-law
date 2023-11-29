@@ -1,5 +1,3 @@
-8. § Hatályát veszti
+8. §[^1]
 
-a) a Villamosmű Műszaki-Biztonsági Követelményei Szabályzat hatálybaléptetéséről szóló 8/2001. (III. 30.) GM rendelet,
-
-b) a Feszültség Alatti Munkavégzés Biztonsági Szabályzatának kiadásáról szóló 72/2003. (X. 29.) GKM rendelet.
+[^1]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
