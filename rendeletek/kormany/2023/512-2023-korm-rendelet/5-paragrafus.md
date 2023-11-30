@@ -1,0 +1,1 @@
+5. § Hatályát veszti a transzeurópai energiaipari infrastruktúrára vonatkozó közös érdekű projektek és azok engedélyezési eljárásának megkönnyítéséről, koordinálásáról szóló 111/2014. (IV. 1.) Korm. rendelet.
