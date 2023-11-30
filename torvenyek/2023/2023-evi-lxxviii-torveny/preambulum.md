@@ -1,0 +1,1 @@
+Az Országgyűlés megerősítve Magyarország elkötelezettségét a sport mint nemzeti alapérték és a nemzetközi sportmozgalmak támogatása mellett, szem előtt tartva azt a kiemelkedő szerepet, amelyet a World Aquatics a nemzetközi olimpiai és sportmozgalomban betölt, a következő törvényt alkotja:

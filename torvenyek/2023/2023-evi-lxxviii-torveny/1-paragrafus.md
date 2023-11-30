@@ -1,0 +1,3 @@
+1. § (1) Az Országgyűlés e törvénnyel kiterjeszti az 1957. évi 15. törvényerejű rendelettel kihirdetett, az Egyesült Nemzetek kiváltságairól és mentességeiről New Yorkban, 1946. évi február hó 13. napján kelt nemzetközi egyezmény II. cikk 3. és 4. bekezdésében biztosított kiváltságokat, mentességeket és könnyítéseket a World Aquatics magyarországi székhelyén a World Aquatics hivatalos igazgatási és végrehajtó funkcióinak helyiségeire, valamint az irattárára és irataira.
+
+(2) Magyarország Kormánya és a World Aquatics között létrejött megállapodás alapján az állami vagyon felügyeletéért felelős miniszter a World Aquatics székhelyének elhelyezését térítésmentesen biztosítja.
