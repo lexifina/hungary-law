@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad Magyarország Kormánya és Nagy-Britannia és Észak-Írország Egyesült Királysága Kormánya között a minősített adatok védelméről szóló egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
