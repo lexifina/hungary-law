@@ -1,7 +1,3 @@
-## „12. védőpillér magassága: a bányatelek alaplapja vagy más vonatkozó felület és a felszín közötti függőleges távolság;
+11. §[^12]
 
-## 13. telepvastagság: a telep fekü- és fedősíkja közötti átlagos merőleges távolság;
-
-## 14. telep dőlésszöge: a telep jellemző síkjának a vízszintessel bezárt szöge.”
-
-11. § Az R2. 1. melléklet 1. pont 1.7. alpontjában a „védő-, illetve határpillér” szövegrészek helyébe a „védőpillér” szöveg lép.
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

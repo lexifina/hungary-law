@@ -1,3 +1,3 @@
-6. § Az R1. 21. § (5) bekezdése helyébe a következő rendelkezés lép:
+6. §[^7]
 
-„(5) A bányavállalkozó a bányafelügyeletnek megküldi a 20. § (5)–(7) bekezdésében meghatározottak szerint a vonatkozó digitális állományokat is.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
