@@ -68,7 +68,7 @@ IV. Tulajdonosi joggyakorló: Nemzeti Sportügynökség Nonprofit Zártkörűen 
 
 | 3. | Haladás Sportkomplexum Fejlesztő Nonprofit Korlátolt Felelősségű Társaság | 18-09-112060 | 2026. december 31. |
 
-| 4. | HUNGARORING Sport Zártkörűen Működő Részvénytársaság | 13-10-040464 | 2026. december 31. |
+| 4. |  |  |  |
 
 V. Tulajdonosi joggyakorló: N7 Holding Nemzeti Védelmi Ipari Innovációs Zártkörűen Működő Részvénytársaság
 
@@ -88,4 +88,4 @@ VI. Tulajdonosi joggyakorló: Paks II. Atomerőmű Zártkörűen Működő Rész
 
 VII. Tulajdonosi joggyakorló: Nemzeti Vízművek Zártkörűen Működő Részvénytársaság
 
-[^5]: A 3. melléklet a 8/2022. (VIII. 31.) GFM rendelet 2. §-a, a 9/2022. (IX. 30.) GFM rendelet 1. § (1) és (2) bekezdése, a 14/2022. (XI. 21.) GFM rendelet 1. § c) pontja és 2. §-a, a 18/2022. (XII. 20.) GFM rendelet 3. §-a, a 23/2022. (XII. 27.) GFM rendelet 1. §-a, az 5/2023. (IV. 17.) GFM rendelet 1. §-a, a 6/2023. (IV. 27.) GFM rendelet 1. § d) pontja, a 19/2023. (VIII. 24.) GFM rendelet 2. §-a, a 20/2023. (VIII. 24.) GFM rendelet 1-2. §-a szerint módosított szöveg.
+[^5]: A 3. melléklet a 8/2022. (VIII. 31.) GFM rendelet 2. §-a, a 9/2022. (IX. 30.) GFM rendelet 1. § (1) és (2) bekezdése, a 14/2022. (XI. 21.) GFM rendelet 1. § c) pontja és 2. §-a, a 18/2022. (XII. 20.) GFM rendelet 3. §-a, a 23/2022. (XII. 27.) GFM rendelet 1. §-a, az 5/2023. (IV. 17.) GFM rendelet 1. §-a, a 6/2023. (IV. 27.) GFM rendelet 1. § d) pontja, a 19/2023. (VIII. 24.) GFM rendelet 2. §-a, a 20/2023. (VIII. 24.) GFM rendelet 1-2. §-a, a 29/2023. (XI. 29.) GFM rendelet 2. §-a szerint módosított szöveg.
