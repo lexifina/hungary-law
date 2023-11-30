@@ -4,7 +4,7 @@
 
 a) Lánczy Leó-díj;
 
-b) Magyar Belgazdaságért díj;
+b)[^1] Magyar Vállalkozói Nagydíj,
 
 c) Szlávy József-díj;
 
@@ -17,3 +17,5 @@ f) Magyar Prosperitás Érdemérem;
 g) Eötvös Loránd Elismerő Oklevél;
 
 h) Nemzeti Kiválóság Díj.
+
+[^1]: A 2. § (2) bekezdés b) pontja a 30/2023. (XI. 29.) GFM rendelet 1. §-ával megállapított szöveg.
