@@ -1,0 +1,3 @@
+24. § Az MFB tv. 8. § (1b) bekezdése helyébe a következő rendelkezés lép:
+
+„(1b) Az (1) bekezdés alkalmazása során az 575/2013/EU rendelet 4. cikk (1) bekezdés 39. pontjától eltérően az MFB Zrt. tekintetében nem minősül ügyfélcsoportnak azoknak az ügyfeleknek a köre, amely ügyfelek részére az MFB Zrt. befektetési jegy lejegyzése vagy megvásárlása céljából nyújtott kölcsönt, és amelyek a befektetési alapra, az alapkezelőre, az alapkezelők keresztkapcsolataira, vagy a befektetési alap portfóliójában lévő eszközökkel kapcsolatos jogra vagy kötelezettségre tekintettel képeznének egyetlen kockázati tényezőt.”
