@@ -58,7 +58,7 @@ h) egyéb, az a)–g) pontban foglaltakhoz kapcsolódó kiegészítő szolgálta
 
 (7) Az MFB Zrt. az (1) bekezdésben meghatározott körben a 2. § m) pontjában meghatározott feladatához kapcsolódóan nyújthat az 1. mellékletben meghatározott, valamint a közvetlen vagy közvetett tulajdoni részesedésével működő gazdálkodó szervezetek, valamint e gazdálkodó szervezetek közvetlen vagy közvetett tulajdonában álló gazdálkodó szervezetek részére szolgáltatásokat.
 
-(8)
+(8) A hallgatói hitelrendszerről szóló jogszabályban meghatározott Diákhitel szervezet számára nyújtott szolgáltatások teljesítése érdekében a Diákhitel szervezet a személyes adatokat továbbítja az MFB Zrt.-nek. Az MFB Zrt. a személyes adatokat kizárólag e szolgáltatások nyújtása céljából jogosult kezelni, mindaddig, amíg a hallgatói hitelszerződés alapján a Diákhitel szervezetet vagy a hallgatót jogok illethetik meg, illetve kötelezettségek terhelhetik.
 
 (9) Az MFB Zrt. saját vagyonát, illetve annak nyilvántartását el kell különíteni annak a vagyonnak a nyilvántartásától, amely felett az állam nevében az MFB Zrt. gyakorolja a tulajdonosi jogokat (rábízott vagyon).
 

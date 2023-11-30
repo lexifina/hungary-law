@@ -47,3 +47,5 @@ b) rövid pozíció esetén: az az összeg, amennyivel a határidős szerződés
 (7) Az (1) bekezdés a), c) és d) pontja alapján vállalt jogszabályi állami kezességgel kapcsolatosan az állam kezességvállalási díjat nem számol fel.
 
 (8) Az MFB Zrt. javára vagy érdekében fennálló állami kezességgel érintett alapjogviszony módosítása esetén az állami kezesség – az államháztartásért felelős miniszter külön hozzájárulása nélkül – az alapjogviszony változásához igazodva áll fenn, feltéve, ha a változás nem érinti a fennálló kezességvállalással biztosított alapjogviszonynak az állami kezességvállalásra vonatkozó jogszabályokban vagy kormányhatározatban rögzített feltételeit.
+
+(9) Az MFB Zrt., az NTH Nemzeti Tőkeholding Zártkörűen Működő Részvénytársaság, a Magyar Export-Import Bank Zártkörűen Működő Részvénytársaság, a Magyar Exporthitel Biztosító Zártkörűen Működő Részvénytársaság, a Diákhitel Központ Zártkörűen Működő Részvénytársaság, valamint ezen gazdasági társaságok közvetlen vagy közvetett többségi befolyása alatt álló gazdasági társaságok az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 8. §-a alkalmazásában együttesen kapcsolt vállalkozásnak minősülnek.
