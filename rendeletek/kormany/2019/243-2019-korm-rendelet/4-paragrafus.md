@@ -8,7 +8,7 @@ c) változik az elektromobilitás szolgáltató személye, vagy
 
 d) az elektromos töltőberendezés üzemeltető adataiban változás következik be,
 
-## az elektromos töltőberendezés üzemeltető az üzemeltetési engedély módosítását kérelmezi.
+az elektromos töltőberendezés üzemeltető az üzemeltetési engedély módosítását kérelmezi.
 
 (2) Az (1) bekezdésben foglalt bármely változás esetén az üzemeltetési engedély módosítása iránti kérelmet az elektromos töltőberendezés üzemeltető a tervezett változást megelőzően legalább 75 nappal nyújtja be a Hivatal részére.
 

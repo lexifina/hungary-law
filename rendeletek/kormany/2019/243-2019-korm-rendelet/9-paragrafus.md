@@ -1,5 +1,3 @@
-## nyilvántartásba veszi.
-
 9. § (1) A 8. § (1) bekezdése szerinti bejelentésben az elektromobilitás szolgáltató
 
 a) – természetes személy bejelentő esetén – feltünteti a személyazonosító adatait;

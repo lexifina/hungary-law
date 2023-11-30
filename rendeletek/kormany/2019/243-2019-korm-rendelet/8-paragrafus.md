@@ -9,3 +9,5 @@ a) az elektromobilitás szolgáltatót,
 b) a nyilvános töltőberendezésekhez kapcsolt elektromobilitás szolgáltatás nyújtására irányuló tevékenységet és
 
 c) a 9. § (1) bekezdés f) pontjában meghatározott adatokat
+
+nyilvántartásba veszi.

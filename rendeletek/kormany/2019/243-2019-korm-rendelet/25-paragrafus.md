@@ -3,3 +3,7 @@
 ## 14. Az elektromobilitás hazai elterjesztésével kapcsolatos egyes állami feladatokról szóló
 
 ## 443/2017. (XII. 27.) Korm. rendelet módosítása
+
+25. §[^2]
+
+[^2]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

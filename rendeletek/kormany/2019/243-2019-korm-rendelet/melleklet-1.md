@@ -1,8 +1,6 @@
-## 29. §[^5]
-
 1. melléklet a 243/2019. (X. 22.) Korm. rendelethez
 
-## A nyilvános töltőberendezések alkalmasságának igazolásához szükséges paraméterek
+A nyilvános töltőberendezések alkalmasságának igazolásához szükséges paraméterek
 
 1. Elektromos töltőpontok száma;
 
@@ -28,6 +26,12 @@
 
 8.4. a kizárólag „Type 4 (CHAdeMO)” típusú csatlakozóval ellátott töltőponttal rendelkező töltőberendezés, továbbá kizárólag Tesla Supercharger csatlakozóval ellátott töltőponttal rendelkező töltőberendezés esetén elektromos töltőállomásonként legalább egy olyan elektromos töltőberendezés üzemel, amelyik az EN 62196-3 szabvány szerinti kombinált Combo 2 (CCS-Type 2) típusú csatlakozóval rendelkezik;
 
+8.5.[^7] az elektromos autóbuszok normál és nagy teljesítményű váltakozó áramú (AC) töltőállomása legalább egy, az EN 62196-2 szabvány szerinti 2. típusú (Type 2) csatlakozóval rendelkezik;
+
+8.6.[^8] az elektromos autóbuszok normál és nagy teljesítményű egyenáramú (DC) töltőállomása legalább egy, az EN 62196-3 szabvány szerinti kombinált „Combo 2” töltőrendszer (CCS-Type 2) csatlakozójával rendelkezik;
+
+8.7.[^9] az infrastruktúrára szerelt automatizált kapcsolóeszközről (ACD) (áramszedő), a jármű tetejére szerelt ACD-ről, a jármű alá szerelt ACD-ről, valamint az infrastruktúrára szerelt és a jármű oldalára vagy tetejére csatlakozó ACD-ről szóló EN 61851-23-1 szabványnak megfelelő, a 4. üzemmódban az elektromos buszok vezetékes feltöltésére szolgáló automatizált kapcsolóeszköz az EN 50696 szabvány szerint mechanikai és elektromos kapcsolódási pontokkal rendelkezik;
+
 9. a nyilvános töltőberendezés a felhasználók azonosítására szolgáló rendszerrel és távoli elérést biztosító adatkommunikációs modullal van ellátva;
 
 10. a nyilvános töltőberendezés az adatkommunikációs modul meghibásodása vagy az adatkapcsolat megszűnése esetén képes a töltési tranzakciók adatainak megőrzésére (offline működés);
@@ -42,4 +46,6 @@
 
 12. ha az elektromos töltőberendezés üzemeltető az általa üzemeltetett elektromos töltőberendezésen elektromobilitás szolgáltatási tevékenységet is nyújt, a 9. § (1) bekezdésében foglaltak.
 
-[^5]: A 29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: Az 1. melléklet 8. pont 8.5. alpontját az 514/2023. (XI. 22.) Korm. rendelet 2. §-a iktatta be.
+[^8]: Az 1. melléklet 8. pont 8.6. alpontját az 514/2023. (XI. 22.) Korm. rendelet 2. §-a iktatta be.
+[^9]: Az 1. melléklet 8. pont 8.7. alpontját az 514/2023. (XI. 22.) Korm. rendelet 2. §-a iktatta be.
