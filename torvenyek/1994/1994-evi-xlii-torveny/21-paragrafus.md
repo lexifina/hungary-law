@@ -16,6 +16,6 @@ ca) a Gazdasági Együttműködési és Fejlesztési Szervezet tagországában s
 
 cb) olyan hitelintézet garanciájával fedezett hitelnél és pénzkölcsönnél, amellyel szembeni – hitelkockázati fedezettel nem ellátott – három hónapnál hosszabb futamidejű kitettségre a hitelezési kockázat sztenderd módszere alkalmazásában legfeljebb 50%-os kockázati súly rendelhető,
 
-d) a központi költségvetés készfizető kezességével fedezett kockázatvállalásokra, ideértve a Mehib Rt. nem piacképes kockázatú biztosításával fedezett exportcélú hitelt és pénzkölcsönt is a biztosított összeg önrészesedéssel csökkentett mértékéig.
+d) a központi költségvetés készfizető kezességével fedezett kockázatvállalásokra, ideértve a Mehib nem piacképes kockázatú biztosításával fedezett exportcélú hitelt és pénzkölcsönt is a biztosított összeg önrészesedéssel csökkentett mértékéig.
 
 (4) Az 575/2013/EU rendelet I. melléklet 4. pontja szerinti alacsony kockázatú kategóriába sorolandók azok a mérlegen kívüli kötelezettségvállalások, amelyekből a kötelezettségvállaláshoz kapcsolódó fedezet még nem érvényesíthető állapota miatt az Eximbank belső szabályzata szerint lehívás, folyósítás nem valósulhat meg.

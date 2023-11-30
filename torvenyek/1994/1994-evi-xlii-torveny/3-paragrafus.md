@@ -1,4 +1,4 @@
-3. § (1) A Mehib Rt. tevékenysége a következő biztosítási ágazatok piacképes és nem- piacképes kockázatú biztosításaira, viszontbiztosításaira, valamint az ezekhez kapcsolódó információszolgáltatásra terjed ki:
+3. § (1) A Mehib tevékenysége a következő biztosítási ágazatok piacképes és nem- piacképes kockázatú biztosításaira, viszontbiztosításaira, valamint az ezekhez kapcsolódó információszolgáltatásra terjed ki:
 
 a) hitel,
 
@@ -6,7 +6,9 @@ b) kezesség,
 
 c) különböző pénzügyi veszteségek.
 
-(2) A Mehib Rt. az (1) bekezdés szerinti tevékenységeit exportirányú külkereskedelmi ügyletekhez, nemzetközi segélyügyletekhez, beszállítói ügyletekhez, exportcélú befektetésekhez, magyar befektetők külföldi befektetéseihez és belföldi értékesítésekhez, illetve utazásszervezési szolgáltatást végző belföldi vállalkozás, külföldi vállalkozás belföldi fióktelepe vagy kereskedelmi képviselete Magyarországra történő utaztatási tevékenységéhez kapcsolódóan jogosult végezni. A Mehib Rt. az e bekezdésben felsorolt tevékenységekből eredő deviza-árfolyamkockázatot elkülönülten is biztosíthatja.
+(1a) A Mehib az e törvény szerinti felhatalmazás alapján teljeskörűen jogosult az (1) bekezdés szerinti ágazatokban a nem-piacképes biztosítási és viszontbiztosítási tevékenység, valamint a nem-piacképes biztosítási és viszontbiztosítási tevékenységgel összefüggő tevékenységek végzésére.
+
+(2) A Mehib az (1a) bekezdés szerinti tevékenységeit exportirányú külkereskedelmi ügyletekhez, nemzetközi segélyügyletekhez, magyar befektetők külföldi befektetéseihez, illetve utazásszervezési szolgáltatást végző belföldi vállalkozás, külföldi vállalkozás belföldi fióktelepe vagy kereskedelmi képviselete Magyarországra történő utaztatási tevékenységéhez kapcsolódóan jogosult végezni. A Mehib az e bekezdésben felsorolt tevékenységekből eredő deviza-árfolyamkockázatot elkülönülten is biztosíthatja.
 
 (3) A 6. § (2) bekezdés szerint állami készfizető kezesség a következő ügyletekhez kapcsolódhat:
 
@@ -20,7 +22,7 @@ a) a (6) és (7) bekezdésben felsorolt kockázatok, ha a teljes kockázatvisel�
 
 b) azon kockázatok, amelyeknél a teljes kockázatviselési idő a két évet nem éri el, amennyiben
 
-ba) az adós vagy kezese letelepedési helye nem a Mehib Rt. által a központi költségvetés terhére, a Kormány készfizető kezessége mellett vállalható nem-piacképes kockázatú biztosítások feltételeiről szóló kormányrendeletben piacképes kockázatúként meghatározott országban van és
+ba) az adós vagy kezese letelepedési helye nem a Mehib által a központi költségvetés terhére, a Kormány készfizető kezessége mellett vállalható nem-piacképes kockázatú biztosítások feltételeiről szóló kormányrendeletben piacképes kockázatúként meghatározott országban van és
 
 bb) magánadós vagy kezese esetén a (6) bekezdésben vagy a (7) bekezdés a)–c) pontjában szereplő kockázatok bármelyike,
 
@@ -50,6 +52,6 @@ b) magánadós: az a) pontba nem tartozó szervezet.
 
 (9) A (4) bekezdés a) pontjában foglalt kockázatok az exportcélú szerződések gyártási és teljesítési szakaszaira biztosíthatóak, illetőleg viszontbiztosíthatók.
 
-(10) A Mehib Rt.-nek az általa megkötött piacképes kockázatú biztosításokból eredő fizetési kötelezettségei még abban az esetben sem teljesíthetőek a központi költségvetés terhére, ha az ügylethez kapcsolódó besorolási feltételek későbbi megváltozása nem-piacképes kockázatú biztosítás megkötését tenné lehetővé.
+(10) A Mehibnek az általa megkötött piacképes kockázatú biztosításokból eredő fizetési kötelezettségei még abban az esetben sem teljesíthetőek a központi költségvetés terhére, ha az ügylethez kapcsolódó besorolási feltételek későbbi megváltozása nem-piacképes kockázatú biztosítás megkötését tenné lehetővé.
 
-(11) A Mehib Rt. az e § alapján folytatott tevékenységéhez a központi költségvetés terhére, valamint a központi költségvetésből folyósított előirányzatokból kapott támogatás felhasználásával kötött ügyletekre rögzíti az ügyfél azonosítási eljárásról szóló belső szabályzatában azokat a speciális, fokozott körültekintést biztosító megfelelési eljárásokat is, amelyeket azon szervezetek esetében alkalmaz a kockázatok csökkentésére, amelyek az államháztartásról szóló 2011. évi CXCV. törvény alapján nem minősülnek átláthatónak.
+(11) A Mehib az e § alapján folytatott tevékenységéhez a központi költségvetés terhére, valamint a központi költségvetésből folyósított előirányzatokból kapott támogatás felhasználásával kötött ügyletekre rögzíti az ügyfél azonosítási eljárásról szóló belső szabályzatában azokat a speciális, fokozott körültekintést biztosító megfelelési eljárásokat is, amelyeket azon szervezetek esetében alkalmaz a kockázatok csökkentésére, amelyek az államháztartásról szóló 2011. évi CXCV. törvény alapján nem minősülnek átláthatónak.

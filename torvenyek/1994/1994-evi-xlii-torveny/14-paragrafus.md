@@ -4,8 +4,8 @@
 
 ## Igazgatóság
 
-14. § (1) Az Eximbank és a Mehib Rt. ügyvezető szerve az igazgatóság, amely az igazgatóság elnökéből és további igazgatósági tagokból áll.
+14. § (1) Az Eximbank és a Mehib ügyvezető szerve az igazgatóság, amely az igazgatóság elnökéből és további igazgatósági tagokból áll.
 
-(2) Az Eximbank igazgatósági tagja egyidejűleg a Mehib Rt. igazgatósági tagjává, a Mehib Rt. igazgatósági tagja egyidejűleg az Eximbank igazgatósági tagjává jelölhető.
+(2) Az Eximbank igazgatósági tagja egyidejűleg a Mehib igazgatósági tagjává, a Mehib igazgatósági tagja egyidejűleg az Eximbank igazgatósági tagjává jelölhető.
 
 (3)

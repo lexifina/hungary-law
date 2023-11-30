@@ -1,6 +1,6 @@
-18. § (1) A Hpt. 137. § (1) bekezdésében és a Bit. 53. §-ában meghatározott felügyeleti engedély nem szükséges az Eximbank és a Mehib Rt. vezető állású személyének megválasztásához vagy kinevezéséhez.
+18. § (1) Az Eximbank és a Mehib esetében nem szükséges felügyeleti engedély a vezető állású személyek megválasztásához vagy kinevezéséhez.
 
-(2) A Hpt. 137. §-ától és 155. §-ától, valamint a Bit. 53. § (4)–(5) bekezdésétől, az 54. §-ától és a 69. §-ától eltérően az Eximbank vagy a Mehib Rt. vezető állású személyének választható meg vagy nevezhető ki az a személy, aki
+(2) A Mehib, illetve – a Hpt. 137. §-ától és 155. §-ától eltérően – az Eximbank vezető állású személyének választható meg vagy nevezhető ki az a személy, aki
 
 a) büntetlen előéletű,
 
@@ -40,6 +40,8 @@ b) külföldön az illetékes hatóság vádat emelt olyan vagyon elleni vagy ga
 
 a büntetőeljárás jogerős befejezéséig vezető állású személyként nem foglalkoztatható, vagy az ilyen feladatok általa történ ő ellátását fel kell függeszteni.
 
-(6) Vezető állású személy megválasztását, illetve kinevezését az Eximbank, illetve a Mehib Rt. a kinevezéstől számított nyolc munkanapon belül a Magyar Nemzeti Banknak bejelenti. A bejelentésnek tartalmaznia kell a vezető állású személy szakmai önéletrajzát, valamint a (2) bekezdésben meghatározott feltételek teljesítésére vonatkozó okiratokat vagy azok hiteles másolatát.
+(6) Vezető állású személy megválasztását, illetve kinevezését az Eximbank, illetve a Mehib a kinevezéstől számított nyolc munkanapon belül a Magyar Nemzeti Banknak bejelenti. A bejelentésnek tartalmaznia kell a vezető állású személy szakmai önéletrajzát, valamint a (2) bekezdésben meghatározott feltételek teljesítésére vonatkozó okiratokat vagy azok hiteles másolatát.
 
 (7) Amennyiben a Magyar Nemzeti Bank úgy ítéli meg, hogy a megválasztott vagy kinevezett személy nem felel meg az e törvényben meghatározott feltételeknek, 10 munkanapon belül kezdeményezheti a tulajdonosi jogok gyakorlójánál a megválasztott személy visszahívását vagy a kinevezett személy felmentését. A tulajdonosi jogok gyakorlója a kezdeményezésben megnevezett személyt 10 munkanapon belül visszahívja, vagy felmenti.
+
+(8) E szakasz alkalmazásában a Mehib vezető állású személyének minősülnek az igazgatóság tagjai és a felügyelőbizottság tagjai, valamint a vezérigazgató és annak helyettesei.

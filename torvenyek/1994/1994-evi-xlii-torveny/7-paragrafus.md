@@ -4,7 +4,7 @@ a) a forrásszerzés céljából a 2. § (1) bekezdés g) pont ga) alpontja alap
 
 b) az Eximbank által az állam készfizető kezessége mellett vállalható garanciák állományának felső határát,
 
-c) a Mehib Rt. által az állam készfizető kezessége mellett vállalható biztosítási kötelezettségek és viszontbiztosításból eredő kötelezettségek állományának felső határát,
+c) a Mehib által az állam készfizető kezessége mellett vállalható biztosítási kötelezettségek és viszontbiztosításból eredő kötelezettségek állományának felső határát,
 
 d) a kamatkiegyenlítési rendszer keretében az Eximbank által a központi költségvetéssel elszámolható kiegyenlítés forrásául szolgáló összeg előirányzatát,
 
@@ -18,4 +18,4 @@ f) a Kormány határozata alapján nyújtott hitel- és kölcsönállomány fels
 
 (4) Hitelminősítő által minősített, devizában megvalósuló kötvénykibocsátási program esetén, a programban meghatározott kibocsátási időszak lezárultáig a (3) bekezdés szerinti állományok együttes összegének meghatározásakor – az (1) bekezdés a) pontjában foglaltaktól eltérően – a kötvénykibocsátási program teljes keretösszegét kell állományként figyelembe venni, a program alapján történt első kötvénykibocsátás időpontjában érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamon forintra átszámított összegben.
 
-(5) Az (1) bekezdés b) és c) pontjában meghatározott állományok az év egyetlen napján sem haladhatják meg a Magyarország központi költségvetéséről szóló törvényben felső határként meghatározott összegeket.
+(5) Az (1) bekezdés b), c) és f) pontjában meghatározott állományok az év egyetlen napján sem haladhatják meg a Magyarország központi költségvetéséről szóló törvényben felső határként meghatározott összegeket.

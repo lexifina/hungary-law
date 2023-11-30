@@ -1,4 +1,4 @@
-2. § (1) Az Eximbank a magyar áruk és szolgáltatások exportjához, a beszállítói ügyletekhez, az exportcélú befektetésekhez, a belföldi székhelyű gazdálkodó szervezet nemzetközi versenyképességet javító befektetéseihez, beruházásaihoz, forgóeszközigényeihez, a nemzetközi segélyügyletekhez, a magyar befektetők külföldi befektetéseihez, valamint az importhoz, a Magyarországon megvalósuló külföldi beruházásokhoz és azok érdekében létrejött jogviszonyokhoz kapcsolódóan, továbbá a Kormány egyedi döntése alapján egyéb célokból az alábbi pénzügyi szolgáltatási tevékenységet, kiegészítő pénzügyi szolgáltatási tevékenységet és befektetési szolgáltatási tevékenységet végzi:
+2. § (1) Az Eximbank a magyar áruk és szolgáltatások exportjához, a beszállítói ügyletekhez, az exportcélú befektetésekhez, a belföldi székhelyű gazdálkodó szervezet, illetve a belföldi székhelyű gazdálkodó szervezet leányvállalata nemzetközi versenyképességet javító befektetéseihez, beruházásaihoz, forgóeszközigényeihez, a nemzetközi segélyügyletekhez, a magyar befektetők külföldi befektetéseihez, valamint az importhoz, a Magyarországon megvalósuló külföldi beruházásokhoz az előbbiekhez, illetve az ezek érdekében létrejött jogviszonyokhoz kapcsolódóan, továbbá a Kormány egyedi döntése alapján egyéb célokból az alábbi pénzügyi szolgáltatási tevékenységet, kiegészítő pénzügyi szolgáltatási tevékenységet és befektetési szolgáltatási tevékenységet végzi:
 
 a) hitel és pénzkölcsön nyújtása;
 
@@ -14,7 +14,7 @@ f) pénzforgalmi szolgáltatások nyújtása;
 
 g) kizárólag tevékenységéhez szükséges forrásszerzés céljából:
 
-ga) betétek gyűjtése bankközi piacon bel- és külföldi, a Bszt. 48. § (1) bekezdése szerinti szakmai ügyféltől és a Mehib Rt.-től,
+ga) betétek gyűjtése bel- és külföldi, a Bszt. 48. § (1) bekezdése szerinti szakmai ügyféltől és a Mehib Rt.-től,
 
 gb) kötvények kibocsátása;
 
@@ -36,13 +36,13 @@ c) bel- és külföldi kockázati- és magántőkealap alapítása vagy ahhoz t�
 
 (1d) Az Eximbank az (1a) bekezdés szerinti tevékenységén túl jogosult bel- és külföldi alternatív befektetési alap alapításához vagy ahhoz történő csatlakozáshoz kapcsolódóan befektetési jegyet jegyezni vagy megszerezni.
 
-(1e) Az Eximbank a Kormány határozata alapján az (1d) bekezdés szerinti tevékenységet az állam nevében is végezheti, ekkor az alapításhoz vagy csatlakozáshoz szükséges fedezetet a központi költségvetés terhére kell biztosítani, e kifizetéseket a külgazdaságért felelős miniszter irányítása alá tartozó központi költségvetési fejezetben kell megtervezni és elszámolni.
+(1e) Az Eximbank a Kormány határozata alapján az (1d) bekezdés szerinti tevékenységet az állam nevében is végezheti, ekkor az alapításhoz vagy csatlakozáshoz szükséges fedezetet a központi költségvetés terhére kell biztosítani, e kifizetéseket a miniszter irányítása alá tartozó központi költségvetési fejezetben kell megtervezni és elszámolni.
 
 (1f) Az Eximbank jogosult alternatív befektetési alapkezelőt alapítani vagy abban részesedést szerezni.
 
 (2) Az Eximbank a hitel és pénzkölcsön nyújtás keretében az export finanszírozása érdekében külön rendeletben foglalt feltételek mellett kötött segélyhitelt nyújthat a magyar árukat, szolgáltatásokat megvásároló, igénybe vevő devizakülföldieknek, és kedvező kamatozású hiteleket nyújthat a külön rendeletben foglalt feltételek mellett. Devizabelföldi és devizakülföldi alatt a devizakorlátozások megszüntetéséről, valamint egyes kapcsolódó törvények módosításáról szóló 2001. évi XCIII. törvény 2. §-ában foglaltakat kell érteni.
 
-(2a) Az ügyfél az Eximbank által folyósított kölcsönt más pénzügyi intézmény által folyósított kölcsön kiváltására is fordíthatja, ha a kiváltandó kölcsön megfelel az (1) bekezdésben meghatározott hitelcéloknak.
+(2a) Az Eximbank az (1) bekezdésben meghatározottakon túlmenően exporthoz, beszállítói ügylethez, exportcélú befektetésekhez, belföldi székhelyű gazdálkodó szervezetek, illetve a belföldi székhelyű gazdálkodó szervezet leányvállalatai befektetéseihez, beruházásaihoz, forgóeszközigényeihez, külföldi beruházásokhoz, importhoz kapcsolódóan, illetve a Kormány egyedi döntése alapján egyéb célokból nyújtott hitel és kölcsön kiváltása céljából is végezhet hitel és pénzkölcsön nyújtási tevékenységet azzal, hogy a tagi kölcsön kiváltásának finanszírozása a Kormány egyedi döntése alapján lehetséges.
 
 (3) Az (1) bekezdés f) pontjában meghatározott tevékenységet az Eximbank kizárólag az adott ügylettel kapcsolatban végezhet, olyan gazdasági társaságok, egyéni cégek és egyéni vállalkozók (a továbbiakban: ügyfelek) részére, amelyeknek hitelt nyújtott, vagy amelyekért garanciát vállalt, a hitel-, illetve a garanciajogviszony fennállásáig.
 
