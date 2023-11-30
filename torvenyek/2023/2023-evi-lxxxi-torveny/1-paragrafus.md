@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a felsőoktatást érintő képesítések elismeréséről szóló globális egyezmény (a továbbiakban: Globális Elismerési Egyezmény) kötelező hatályának elismerésére.
