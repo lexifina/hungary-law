@@ -1,0 +1,1 @@
+4. § Ez a rendelet a 2014/94/EU európai parlamenti és tanácsi irányelvnek az elektromos buszok töltőállomásaira vonatkozó szabványok tekintetében történő kiegészítéséről szóló, 2021. június 17-i (EU) 2021/1444 felhatalmazáson alapuló bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
