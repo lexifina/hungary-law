@@ -2,7 +2,7 @@
 
 ## 9. Adatleválogatást igénylő adatszolgáltatás elektronikusan feldolgozható formában
 
-15. § (1)[^24] A földmérési és térinformatikai államigazgatási szerv egyedi megállapodásban meghatározott térítés ellenében az ingatlan-nyilvántartásról szóló törvényben foglalt keretek között:
+15. § (1)[^25] A földmérési és térinformatikai államigazgatási szerv egyedi megállapodásban meghatározott térítés ellenében az ingatlan-nyilvántartásról szóló törvényben foglalt keretek között:
 
 a) a Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.),
 
@@ -20,7 +20,7 @@ megkeresésére az ingatlan-nyilvántartási adatbázisból adatleválogatást v
 
 (4) Díjmentes adatszolgáltatásra helyrajzi számonként évente egy alkalommal kerülhet sor, a díjmentességről a megkeresőnek a vonatkozó jogszabályhely megjelölésével a megkeresésben nyilatkoznia kell.
 
-(5)[^25] Az MNV Zrt. és az MVH részére történő, az (1) bekezdésben meghatározott adatszolgáltatás az alábbi adatokra nem terjed ki:
+(5)[^26] Az MNV Zrt. és az MVH részére történő, az (1) bekezdésben meghatározott adatszolgáltatás az alábbi adatokra nem terjed ki:
 
 a) a lakásszövetkezeti tagot megillető állandó használati jog,
 
@@ -40,12 +40,12 @@ d) jelzálogjog ranghelyének előzetes biztosítása, lemondás jelzálogjog el
 
 e) földminősítési mintatér megjelölése.
 
-(7)[^26] Az NFK részére történő, az (1) bekezdésben meghatározott adatszolgáltatás az alábbi adatokra nem terjed ki:
+(7)[^27] Az NFK részére történő, az (1) bekezdésben meghatározott adatszolgáltatás az alábbi adatokra nem terjed ki:
 
 a) a lakásszövetkezeti tagot megillető állandó használati jog,
 
 b) a társasházakról szóló törvény szerinti, a közös tulajdon átruházására a tulajdonostársak összes tulajdoni hányadának legalább kétharmadát feljogosító alapító okirat elfogadása, módosítása, továbbá az elfogadás, illetve a módosítás időpontja.
 
-[^24]: A 15. § (1) bekezdése a 827/2021. (XII. 28.) Korm. rendelet 28. § (1) bekezdésével megállapított szöveg.
-[^25]: A 15. § (5) bekezdése a 827/2021. (XII. 28.) Korm. rendelet 28. § (2) bekezdésével megállapított szöveg.
-[^26]: A 15. § (7) bekezdés nyitó szövegrésze a 159/2019. (VI. 28.) Korm. rendelet 52. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^25]: A 15. § (1) bekezdése a 827/2021. (XII. 28.) Korm. rendelet 28. § (1) bekezdésével megállapított szöveg.
+[^26]: A 15. § (5) bekezdése a 827/2021. (XII. 28.) Korm. rendelet 28. § (2) bekezdésével megállapított szöveg.
+[^27]: A 15. § (7) bekezdés nyitó szövegrésze a 159/2019. (VI. 28.) Korm. rendelet 52. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.

@@ -1,4 +1,4 @@
-23/I. §[^62] (1) Amennyiben az Étv. 23. § (1) bekezdése szerinti jogszabályi vizsgálat során megállapításra kerül, hogy a telekalakítással érintett területre vonatkozóan nincs hatályban helyi építési szabályzat – vagy ha a helyi építési szabályzat a telekalakítási követelményeket nem tartalmazza teljeskörűen –, telket alakítani csak úgy lehet, ha
+23/I. §[^63] (1) Amennyiben az Étv. 23. § (1) bekezdése szerinti jogszabályi vizsgálat során megállapításra kerül, hogy a telekalakítással érintett területre vonatkozóan nincs hatályban helyi építési szabályzat – vagy ha a helyi építési szabályzat a telekalakítási követelményeket nem tartalmazza teljeskörűen –, telket alakítani csak úgy lehet, ha
 
 a) teljesülnek az Étv. 23. és 24. §-ában, valamint a IV. Fejezetben foglalt előírások, és
 
@@ -18,4 +18,4 @@ c) az országos településrendezési és építési követelményekről szóló
 
 (5) A helyi építési szabályzat vagy annak rendelkezése nem helyezhető hatályon kívül a kialakult állapotra vonatkozó (1)–(4) bekezdés szerinti szabályok közvetlen érvényesítése érdekében.
 
-[^62]: A 23/I. §-t a 253/2023. (VI. 23.) Korm. rendelet 7. §-a iktatta be.
+[^63]: A 23/I. §-t a 253/2023. (VI. 23.) Korm. rendelet 7. §-a iktatta be.

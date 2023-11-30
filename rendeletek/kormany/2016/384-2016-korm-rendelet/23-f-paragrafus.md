@@ -1,4 +1,4 @@
-23/F. §[^59] (1) A tömbtelken a már meglévő épületek részére úszótelkek alakíthatók ki.
+23/F. §[^60] (1) A tömbtelken a már meglévő épületek részére úszótelkek alakíthatók ki.
 
 (2) Az úszótelket úgy kell kialakítani, hogy az magába foglalja legalább
 
@@ -12,4 +12,4 @@ d) az épület külső falsíkjának függőleges vetületétől mért – a tö
 
 (3) Az úszótelek kialakításának feltétele az épület önálló közműcsatlakozásának biztosítása.
 
-[^59]: A 23/F. §-t a 253/2023. (VI. 23.) Korm. rendelet 7. §-a iktatta be.
+[^60]: A 23/F. §-t a 253/2023. (VI. 23.) Korm. rendelet 7. §-a iktatta be.
