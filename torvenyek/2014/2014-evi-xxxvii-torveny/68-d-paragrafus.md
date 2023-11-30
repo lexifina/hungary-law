@@ -18,11 +18,11 @@ szanálási hatósága az érintett szervezet rendelkezésére bocsátja azt.
 
 (3) Ha a szanálási stratégiával összeegyeztethető és a szanálás alá vonható szervezet közvetve vagy közvetlenül nem vásárolt elegendő, a 68/B. § szerinti követelményeknek megfelelő instrumentumot, akkor az e § szerinti többoldalú eljárás keretében hozott döntés rendelkezhet úgy, hogy a 67. §-ban meghatározott követelményeket a leányvállalat a 68/B. §-sal összhangban részben olyan instrumentumokkal teljesíti, amelyeket a szanálás alá vonható csoporthoz nem tartozó szervezetek számára bocsátottak ki és vásárolták meg.
 
-(4) Ha ugyanahhoz a globálisan rendszerszinten jelentős intézményhez több globálisan rendszerszinten jelentős intézménynek minősülő szanálás alá vonható szervezet tartozik, akkor a szanálási feladatkörében eljáró MNB tárgyalásokat folytat a többi érintett hatósággal és a globálisan rendszerszinten jelentős intézmény szanálási stratégiájával összhangban megállapodik az érintett hatóságokkal az 575/2013/EU rendelet 72e. cikkének alkalmazásáról és minden olyan korrekcióról, amely az egyedi szanálás alá vonható szervezet esetében
+(4) Ha ugyanahhoz a globálisan rendszerszinten jelentős intézményhez több olyan globálisan rendszerszinten jelentős intézmény tartozik, amely szanálás alá vonható szervezetnek minősül, vagy olyan harmadik országbeli szervezet tartozik, amely szanálás alá vonható szervezetnek minősülne, ha EGT-államban telepedne le, akkor a szanálási feladatkörében eljáró MNB tárgyalásokat folytat a többi érintett hatósággal és a globálisan rendszerszinten jelentős intézmény szanálási stratégiájával összhangban megállapodik az érintett hatóságokkal az 575/2013/EU rendelet 72e. cikkének alkalmazásáról és minden olyan korrekcióról, amely
 
-a) a 68. § (4) bekezdés alapján minden egyes szanálás alá vont szervezetre megállapított és az 575/2013/EU rendelet 12. cikkében meghatározott értékek összege, valamint
+a) a 68. § (4) bekezdés alapján minden egyes szanálás alá vonható szervezetre, vagy olyan harmadik országbeli, EGT-államban történő letelepedése esetén szanálás alá vonható szervezetnek minősülő szervezetre megállapított és az 575/2013/EU rendelet 12a. cikk a) pontjában meghatározott értékek összege, valamint
 
-b) a 68. § (4) bekezdés alapján az EU-szintű anyavállalatra megállapított és az 575/2013/EU rendelet 12. cikkében meghatározott értékek összege
+b) a 68. § (4) bekezdés alapján az EU-szintű anyavállalatra megállapított és az 575/2013/EU rendelet 12a. cikk b) pontjában meghatározott értékek összege
 
 közötti különbség minimalizálásához vagy kiküszöböléséhez szükséges azzal, hogy az a) pont szerinti összeg nem lehet kisebb, mint a b) pont szerinti összeg.
 

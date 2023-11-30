@@ -22,6 +22,6 @@ a) az (1) bekezdés a) pontja és a (2) bekezdés a) pontja szerinti követelmé
 
 b) nem haladja meg a kötelezés eredményeként a 67. §-ban foglalt követelményeket.
 
-(4) Ha egy globálisan rendszerszinten jelentős intézményhez egynél több szanálás alá vonható globálisan rendszerszinten jelentős intézmény tartozik, akkor a 68/D. § (4) bekezdésének alkalmazásában a (3) bekezdés szerinti összeget a szanálási feladatkörében eljáró MNB meghatározza minden szanálás alá vonható szervezetre és az EU-szintű anyavállalatra, mintha az lenne a globálisan rendszerszinten jelentős intézmény egyetlen szanálás alá vonható szervezete.
+(4) Ha egy globálisan rendszerszinten jelentős intézményhez egynél több olyan globálisan rendszerszinten jelentős intézmény tartozik, amely szanálás alá vonható szervezetnek minősül vagy olyan harmadik országbeli szervezet tartozik, amely szanálás alá vonható szervezetnek minősülne, ha EGT-államban telepedne le, akkor a 68/D. § (4) bekezdésének alkalmazásában a (3) bekezdés szerinti összeget a szanálási feladatkörében eljáró MNB meghatározza minden szanálás alá vonható szervezetre, vagy ezen harmadik országbeli szervezetre és az EU-szintű anyavállalatra, mintha az EU-szintű anyavállalat lenne a globálisan rendszerszinten jelentős intézmény egyetlen szanálás alá vonható szervezete.
 
 (5) A szanálási feladatkörében eljáró MNB az e § szerinti határozatának indokolásában kitér a (3) bekezdésben foglaltak teljes körű értékelésére és a határozatát rendszeresen felülvizsgálja a Hpt. 186. § szerinti követelményhez való igazítás érdekében.

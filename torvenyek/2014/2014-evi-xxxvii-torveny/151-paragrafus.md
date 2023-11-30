@@ -16,4 +16,6 @@ a) a hitelintézetekre vonatkozó prudenciális követelményekről és a 648/20
 
 b) az 575/2013/EU rendeletnek a tőkeáttételi mutató, a nettó stabil forrásellátottsági ráta, a szavatolótőkére és a leírható, illetve átalakítható kötelezettségekre vonatkozó követelmények, a partnerkockázat, a piaci kockázat, a központi szerződő felekkel szembeni kitettségek, a kollektív befektetési formákkal szembeni kitettségek, a nagykockázat-vállalások és az adatszolgáltatási és nyilvánosságra hozatali követelmények tekintetében történő módosításáról, valamint a 648/2012/EU rendelet módosításáról szóló, 2019. május 20-i (EU) 2019/876 európai parlamenti és tanácsi rendeletnek
 
+c) az 575/2013/EU rendeletnek és a 2014/59/EU irányelvnek a több pontból kiinduló szanálási stratégiával rendelkező globálisan rendszerszinten jelentős intézmények prudenciális kezelése, valamint a szavatolótőkére és a leírható, illetve átalakítható kötelezettségekre vonatkozó minimumkövetelménynek való megfelelés szempontjából figyelembe vehető instrumentumok közvetett jegyzésére vonatkozó módszerek tekintetében történő módosításáról szóló 2022. október 19-i (EU) 2022/2036 európai parlamenti és tanácsi rendeletnek
+
 a végrehajtásához szükséges rendelkezéseket állapít meg.
