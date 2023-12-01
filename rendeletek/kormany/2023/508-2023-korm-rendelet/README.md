@@ -1,0 +1,9 @@
+# 508/2023. (XI. 20.) Korm. rendelet
+
+a kötelező legkisebb munkabér (minimálbér) és a garantált bérminimum megállapításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-508-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2023-12-01 | 2023-508-20-22.1 | 508/2023. (XI. 20.) Korm. rendelet |
