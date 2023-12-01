@@ -45,3 +45,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-68-00-00
 | 2023-08-01 | 2023. évi LIX. törvény | 2016-68-00-00.35 |
 | 2023-08-14 | 2023. évi LIX. törvény | 2016-68-00-00.40 |
 | 2023-10-01 | 2023. évi LIX. törvény | 2016-68-00-00.41 |
+| 2023-12-01 | 2023. évi LXXXIII. törvény | 2016-68-00-00.43 |
