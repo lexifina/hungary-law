@@ -1,4 +1,4 @@
-20/C. §[^24] (1) A Nemzeti Választási Bizottság (a továbbiakban: NVB) választott tagja az NVB ülésén való megjelenése kapcsán felmerült, indokolt és az NVI nevére kiállított számviteli bizonylattal igazolt utazási és – ha Budapesten lakóhellyel vagy tartózkodási hellyel nem rendelkezik – szállásköltsége megtérítésére jogosult.
+20/C. §[^26] (1) A Nemzeti Választási Bizottság (a továbbiakban: NVB) választott tagja az NVB ülésén való megjelenése kapcsán felmerült, indokolt és az NVI nevére kiállított számviteli bizonylattal igazolt utazási és – ha Budapesten lakóhellyel vagy tartózkodási hellyel nem rendelkezik – szállásköltsége megtérítésére jogosult.
 
 (2) Az (1) bekezdésben meghatározott NVB tag utazásiköltség-térítésként
 
@@ -22,4 +22,4 @@ számolhatja el.
 
 (5) A jogszerűen elszámolható költség térítését az NVI legkésőbb az elszámolás dokumentumának benyújtását követő harmincadik napig az NVB választott tagjának fizetési számlájára utalja át.
 
-[^24]: A 20/C. § a 15/2021. (XI. 29.) IM rendelet 3. §-ával megállapított szöveg.
+[^26]: A 20/C. § a 15/2021. (XI. 29.) IM rendelet 3. §-ával megállapított szöveg.

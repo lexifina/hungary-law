@@ -1,3 +1,3 @@
-2. melléklet a 17/2013. (VII. 17.) KIM rendelethez[^30]
+2. melléklet a 17/2013. (VII. 17.) KIM rendelethez[^35]
 
-[^30]: A 2. melléklet a 26/2018. (IX. 7.) IM rendelet 11. § a) pontjával megállapított szöveg.
+[^35]: A 2. mellékletet a 17/2023. (XI. 30.) IM rendelet 8. § c) pontja hatályon kívül helyezte.

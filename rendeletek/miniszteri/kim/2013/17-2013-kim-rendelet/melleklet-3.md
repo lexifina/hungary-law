@@ -1,3 +1,3 @@
-3. melléklet a 17/2013. (VII. 17.) KIM rendelethez[^31]
+3. melléklet a 17/2013. (VII. 17.) KIM rendelethez[^36]
 
-[^31]: A 3. melléklet a 3/2019. (II. 27.) IM rendelet 27. §-ával megállapított szöveg.
+[^36]: A 3. mellékletet a 17/2023. (XI. 30.) IM rendelet 8. § c) pontja hatályon kívül helyezte.

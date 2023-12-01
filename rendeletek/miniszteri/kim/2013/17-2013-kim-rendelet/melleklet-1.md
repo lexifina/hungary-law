@@ -1,10 +1,8 @@
-## 24. §[^25] Az NVI a magyarországi lakcímmel nem rendelkező választópolgárokat a központi névjegyzékbe vétel iránti kérelem, illetve az adatmódosítási, törlési kérelem benyújtásával kapcsolatos tudnivalókról – a 6. § (2a) bekezdésében meghatározott módon – első alkalommal 2015 októberében tájékoztatja.
-
 1. melléklet a 17/2013. (VII. 17.) KIM rendelethez
 
 A szavazási levélcsomag átvételére kijelölt települések és külképviseletek
 
-1.[^26] A Ve. 277. § (2) bekezdés b) pontja alapján a szavazási levélcsomagot a magyarországi lakcímmel nem rendelkező választópolgár a következő településeken veheti át:
+1.[^31] A Ve. 277. § (2) bekezdés b) pontja alapján a szavazási levélcsomagot a magyarországi lakcímmel nem rendelkező választópolgár a következő településeken veheti át:
 
 a. Battonya (Békés vármegye)
 
@@ -70,14 +68,13 @@ h. Magyarország Főkonzulátusa, Szabadka
 
 i. Magyarország Főkonzulátusa, Ungvár
 
-j.[^27] Magyarország Főkonzulátusa, Eszék
+j.[^32] Magyarország Főkonzulátusa, Eszék
 
-k.[^28] Magyarország Nagykövetsége, Kijev
+k.[^33] Magyarország Nagykövetsége, Kijev
 
-l.[^29] Magyarország Főkonzulátusa, Lendva
+l.[^34] Magyarország Főkonzulátusa, Lendva
 
-[^25]: A 24. §-t a 27/2015. (X. 16.) IM rendelet 2. §-a iktatta be.
-[^26]: Az 1. melléklet 1. pontja a 42/2022. (XII. 28.) IM rendelet 1. §-ával megállapított szöveg.
-[^27]: Az 1. melléklet 2. pont j. alpontját a 38/2013. (XII. 30.) Korm. rendelet 13. §-a iktatta be.
-[^28]: Az 1. melléklet 2. pont k. alpontját a 9/2016. (VI. 28.) IM rendelet 28. §-a iktatta be.
-[^29]: Az 1. melléklet 2. pont l. alpontját a 9/2016. (VI. 28.) IM rendelet 28. §-a iktatta be.
+[^31]: Az 1. melléklet 1. pontja a 42/2022. (XII. 28.) IM rendelet 1. §-ával megállapított szöveg.
+[^32]: Az 1. melléklet 2. pont j. alpontját a 38/2013. (XII. 30.) Korm. rendelet 13. §-a iktatta be.
+[^33]: Az 1. melléklet 2. pont k. alpontját a 9/2016. (VI. 28.) IM rendelet 28. §-a iktatta be.
+[^34]: Az 1. melléklet 2. pont l. alpontját a 9/2016. (VI. 28.) IM rendelet 28. §-a iktatta be.

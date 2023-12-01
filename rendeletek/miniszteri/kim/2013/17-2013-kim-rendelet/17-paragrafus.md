@@ -1,5 +1,5 @@
 ## 6. Automatikus felvétel, frissítés, törlés
 
-17. § (1) Az SZL-ben bekövetkező változásokat az informatikai rendszer haladéktalanul átvezeti a központi névjegyzéken és a NESZA-n.
+17. §[^18]
 
-(2) A NESZA-ban bekövetkező változásokat az informatikai rendszer haladéktalanul átvezeti a központi névjegyzéken.
+[^18]: A 17. §-t a 17/2023. (XI. 30.) IM rendelet 8. § b) pontja hatályon kívül helyezte.
