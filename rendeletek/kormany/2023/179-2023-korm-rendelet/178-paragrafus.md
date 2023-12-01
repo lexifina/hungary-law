@@ -1,3 +1,3 @@
-178. §[^15]
+178. §[^16]
 
-[^15]: A 178. § a 171. § (2) bekezdés alapján 2024. február 1-jén lép hatályba.
+[^16]: A 178. § a 171. § (2) bekezdés alapján 2024. február 1-jén lép hatályba.
