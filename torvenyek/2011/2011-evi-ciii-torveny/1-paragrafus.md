@@ -56,7 +56,7 @@ Előrecsomagolt terméknek minősül az az a)–c) pontokban foglalt feltételek
 
 18.
 
-19. élmény- és szabadidősport, valamint egészségmegőrző program: az aktív Magyarországért felelős miniszter munkaszervezete tulajdonosi joggyakorlása alatt álló gazdasági társaság (a továbbiakban: Társaság) egészséges étkezésre, aktív életmódra, a sportolás elősegítésére, ösztönzésére irányuló minden tevékenysége, akciója, szemléletformáló kampánya vagy programja, továbbá a Társaság ezeket szolgáló beruházása;
+19. élmény- és szabadidősport, valamint egészségmegőrző program: az aktív Magyarországért felelős miniszter (a továbbiakban: miniszter) munkaszervezete által, annak e célt szolgáló fejezeti kezelésű előirányzatáról (a továbbiakban: előirányzat) támogatott, egészséges étkezésre, aktív életmódra, a sportolás elősegítésére, ösztönzésére, a lelki egészség megőrzésére irányuló minden tevékenység, akció, szemléletformáló kampány vagy program, továbbá ezeket szolgáló beruházás;
 
 20. tejalapanyag: a termékben található tej, tejtermék (különösen joghurt, kefir, vaj, túró, tejszín, tejpor, sajt, író);
 

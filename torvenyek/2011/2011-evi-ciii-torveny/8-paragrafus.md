@@ -16,7 +16,7 @@ a 10. § (2) és (3) bekezdése szerinti bevallási időszakra (a továbbiakban:
 
 (5) A rendelkező nyilatkozat az adóbevallás benyújtását követően nem módosítható és nem pótolható, késedelmesen benyújtott bevallás esetén a rendelkező nyilatkozat érvénytelen.
 
-(6) Az állami adó- és vámhatóság (a továbbiakban: hatóság) a rendelkező nyilatkozatban megjelölt összeget a bevallás benyújtását követő 15 munkanapon belül a felajánlás fogadására jogosult Társaságnak átutalja, feltéve, hogy az adóalany
+(6) Az állami adó- és vámhatóság (a továbbiakban: hatóság) a rendelkező nyilatkozatban megjelölt összeget a bevallás benyújtását követő 15 munkanapon belül a felajánlás fogadására jogosult előirányzat javára átutalja, feltéve, hogy az adóalany
 
 a) hatóságnál nyilvántartott, végrehajtható, nettó módon számított adótartozása az átutaláskor nem haladja meg a százezer forintot és
 
@@ -24,4 +24,4 @@ b) a rendelkező nyilatkozatot magában foglaló adóbevallásában fizetendő a
 
 (7) Nem érinti a (6) bekezdés szerint átutalt összeget, ha a hatóság határozata vagy az adóalany önellenőrzése eredményeképpen a fizetendő adó (4) bekezdés szerinti 10%-ának megfelelő összeg módosul.
 
-(8) A hatóság a (6) bekezdés szerint végrehajtott átutalást követő hónap 15. napjáig elektronikus adatközlés útján tájékoztatja a Társaságot a felajánlás összegéről, valamint, ha a felajánlást tevő adóalany ahhoz hozzájárul, az adóalany nevéről és székhelyéről.
+(8) A hatóság a (6) bekezdés szerint végrehajtott átutalást követő hónap 15. napjáig elektronikus adatközlés útján tájékoztatja a minisztert a felajánlás összegéről, valamint, ha a felajánlást tevő adóalany ahhoz hozzájárul, az adóalany nevéről és székhelyéről.
