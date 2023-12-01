@@ -8,7 +8,7 @@
 
 (5) A (4) bekezdésben foglalt esetben a végrehajtó az építmény ajtajára kifüggeszti a helyszíni eljárásáról készített jegyzőkönyvet, és abban megjelöli az ingóságok átvételének helyét, valamint azt, hogy az eljárásban mely gyámhatóság vesz részt. Az állami adó- és vámhatóság a helyszíni eljárásáról készített jegyzőkönyvet soron kívül megküldi az építmény fekvése szerinti községi, városi, fővárosi kerületi jegyzőnek is.
 
-(6) Az ingóságok megőrzésére és értékesítésére a 90. § (4) bekezdését kell alkalmazni, azzal, hogy az értékesítésből befolyó vételár az (1) bekezdésben írt adóst vagy harmadik személyt illeti meg.
+(6) Az ingóságok megőrzésére és értékesítésére a 90. § (5) bekezdését kell alkalmazni, azzal, hogy az értékesítésből befolyó vételár az (1) bekezdésben írt adóst vagy harmadik személyt illeti meg.
 
 (7) Ha a meghatározott cselekmény végrehajtásához elegendő az építmény egy részének elhagyása, az állami adó- és vámhatóság az érintett építményrészt az (1)–(6) bekezdésben foglaltak alkalmazásával kiüríti, a kiürített építményrészt lezárja és lepecsételi.
 

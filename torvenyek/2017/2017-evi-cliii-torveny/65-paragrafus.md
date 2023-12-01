@@ -10,7 +10,7 @@
 
 (6) Az árverést addig kell folytatni, amíg ajánlatot tesznek. Ha nincs további ajánlat, a végrehajtó – figyelemmel a (4) bekezdésben megállapított legkisebb vételárra – a felajánlott legmagasabb vételár háromszori kikiáltása után megnevezi a nyertes árverési vevőt.
 
-(7) Az árverési vevő nyertességének a (6) bekezdésben foglaltak szerinti kikiáltását követően azonnal köteles a teljes vételárat készpénzben megfizetni, vagy ha arra a helyszínen lehetőség van, bankkártyával teljesíteni.
+(7) Az árverési vevő nyertességének a (6) bekezdésben foglaltak szerinti kikiáltását követően azonnal köteles a teljes vételárat készpénzben vagy átutalási megbízással megfizetni, vagy ha arra a helyszínen lehetőség van, bankkártyával teljesíteni. Átutalási megbízás esetén a végrehajtó az ingóság átadása iránt csak az árverési vételárnak a végrehajtási kényszer eredményeként befizetett összegek fogadására és kezelésére elkülönített számlára történő megérkezését követően intézkedik.
 
 (8) Ha az árverési vevő a (7) bekezdésben meghatározott fizetési kötelezettségének nem tesz eleget, az ingóságra e § rendelkezései szerint az árverést tovább kell folytatni a 64. § (2) bekezdés e) pontjában foglaltak alkalmazásával.
 
