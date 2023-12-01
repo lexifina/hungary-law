@@ -222,6 +222,8 @@ c) a nemzetközi sportszövetséggel foglalkoztatásra irányuló jogviszonyban 
 
 7.45. a Kormány határozatával kiemelt nemzetközi sportrendezvénynek minősített esemény megrendezésével összefüggésben a kiemelt nemzetközi sportrendezvénynek a Kormány határozatában megjelölt szervezője vagy szervezői által a sportolóknak, a versenybíróknak, a magyar és külföldi sportszövetségek tisztségviselőinek és képviselőinek, a szervezőbizottsági tisztségviselőknek és az önkénteseknek adott napidíj, költségtérítés, formaruha, természetben biztosított ellátás, a sportolóknak fizetett pénzdíj, továbbá a versenyekhez kapcsolódó promóciós jellegű juttatások a Kormány határozatában meghatározott mértékig.
 
+## 7.46. a hulladékról szóló törvény, valamint az annak felhatalmazása alapján kiadott jogszabályok alapján a hulladék átadásának ösztönzése érdekében adott juttatás a juttatás időpontjától függetlenül, ide nem értve ha a hulladék átadása gazdasági tevékenység [3. § 46. pont] keretében történik.
+
 8. A nem pénzben kapott juttatások közül adómentes:
 
 8.1. az állam, a helyi önkormányzat vagy az egyházi jogi személy forrásából nyújtott oktatási, egészségügyi és szociális ellátás (ideértve a gyermek, a tanuló, a beteg, illetve a szociális ellátásra jogosult részére ingyenesen vagy kedvezményesen természetben biztosított étkeztetést is) azzal, hogy az üdültetés és a gyógyüdültetés nem minősül egészségügyi, illetőleg szociális ellátásnak;
@@ -351,6 +353,8 @@ az adóévben legfeljebb – az a) és b) pont szerinti juttatási körben kül�
 8.43. a hallgatók, diákok, oktatók széles köre számára köznevelési intézmény, szakképző intézmény vagy felsőoktatási intézmény által működési körében meghirdetett rendezvény – ideértve a közösségépítő, hagyományőrző rendezvényeket is – keretében nyújtott szolgáltatás, továbbá a rendezvény összes költségének 10 százalékát meg nem haladó mértékben biztosított vendéglátás, a juttatás időpontjától függetlenül, akkor is, ha a rendezvényen a tanulókon, hallgatókon, tanárokon, oktatókon kívül más személy is részt vehet.
 
 8.44. kifizető által biztosított – kizárólag emberi erővel hajtott vagy legfeljebb 300 W teljesítményű elektromos motorral segített – kerékpár magáncélú használata.
+
+## 8.45. a juttató által reprezentációs és nem reprezentációs célú vendéglátás keretében, továbbá üzleti ajándékként vagy csekély értékű ajándékként történő juttatás céljából közvetlenül a szőlészetről és borászatról szóló 2020. évi CLXIII. törvény 9. § (1) bekezdése szerinti forgalomba hozatalt kezdeményező borászati üzemengedélyestől palackozott kiszerelésben vásárolt, oltalom alatt álló eredetmegjelöléssel ellátott borászati termék, valamint az oltalom alatt álló földrajzi jelzéssel ellátott borászati termék, azzal, hogy a juttató az ilyen célból beszerzett termékekről olyan nyilvántartást vezet, melyből megállapítható a beszerzés forrása és a termék felhasználásának módja is.
 
 9. Adómentességre vonatkozó vegyes rendelkezések:
 

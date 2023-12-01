@@ -35,3 +35,11 @@ de adóévenként legfeljebb a jogosultsági hónapok számának és a teljes mu
 (4) Jogosultsági hónapként az a hónap vehető figyelembe, amelyben a 30 év alatti anya családi kedvezményre való jogosultsága a (2) bekezdés szerint fennáll, de legkorábban a 25. életéve betöltésének hónapját követő hónap. A kedvezmény legfeljebb annak az évnek az utolsó jogosultsági hónapjáig érvényesíthető, amely évben a 30 év alatti anya betölti a 30. életévét.
 
 (5) Amennyiben a 30 év alatti anyák kedvezményére való jogosultság az adóév egészében nem áll fenn, és a jogosultsági hónapokban megszerzett, összevont adóalapba tartozó önálló tevékenységből származó jövedelem másként nem állapítható meg, azt az ilyen címen megszerzett adóévi jövedelemnek a jogosultsági hónapokkal arányos részeként kell figyelembe venni.
+
+(6) A 30 év alatti anyák kedvezménye érvényesítésének feltétele a 30 év alatti anya adóbevalláshoz tett nyilatkozata, amelyen fel kell tüntetni
+
+a) a kedvezményre való jogosultság jogcímét,
+
+b) a (2) bekezdés a) pontja szerinti gyermek(ek) nevét, adóazonosító jelét, magzat esetében a várandósság időszakát, valamint
+
+c) a jogosultság megnyíltának vagy megszűntének napját, ha a kedvezményre való jogosultság nem állt fenn az adóév egészében.
