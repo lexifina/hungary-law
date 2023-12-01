@@ -23,15 +23,3 @@ i) 101. § és 103. §-a a belső piaci szolgáltatásokról szóló, 2006. dece
 j) 168. §, 170. §, 172. §–175. §, 186. §-a, valamint 9. melléklete az adózás területén történő közigazgatási együttműködésről szóló 2011/16/EU irányelv módosításáról szóló, 2021. március 22-i (EU) 2021/514 tanácsi irányelvnek való megfelelést szolgálja,
 
 k) 176. §, 177. §, 184. § a)–b) pontja az európai uniós adóügyi vitarendezési mechanizmusokról szóló, 2017. október 10-i (EU) 2017/1852 tanácsi irányelvnek való megfelelést szolgálja.
-
-|
-
-Novák Katalin s. k.,
-
-köztársasági elnök
-
-|
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

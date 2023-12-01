@@ -4,4 +4,4 @@
 
 2. 106. § címében az „online” szövegrész,
 
-3. 264/A. §-a.
+3.

@@ -14,13 +14,7 @@
 
 ## d) az adózó által lízing formájában végrehajtandó beruházáshoz, felújításhoz képest kevésbé energiahatékony tárgyi eszközök lízingelésére irányuló beruházás, felújítás;”
 
-(2) A Tao. törvény 4. § 11. pont h) alpontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában
-
-ellenőrzött külföldi társaság:)
-
-„h) az a) pont alkalmazásában nem kell figyelembe venni a külföldi személy olyan állandó telephelyét, amely a külföldi személy illetősége szerinti államban adómentes vagy nem adóköteles,”
+(2)
 
 (3) A Tao. törvény 4. §-a a következő 29a. ponttal egészül ki:
 

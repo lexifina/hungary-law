@@ -1,7 +1,7 @@
 67. § Hatályát veszti az Áfa tv.
 
-a) 178. § (1a) bekezdése,
+a)
 
-b) 188. § (3) bekezdés b) pontja,
+b)
 
-c) 196. §-a.
+c)

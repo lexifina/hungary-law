@@ -28,6 +28,4 @@ m) 30/I. § (1) bekezdésében az „SA.46615 (2016/N) és SA.48265 számú” s
 
 n) 31. § (4) bekezdésében a „2014. június 25-i 702/2014/EU bizottsági” szövegrész helyébe a „2022. december 14-i 2022/2472/EU bizottsági” szöveg,
 
-o) 3. számú melléklet A) rész 9. pontjában a „megalapozó okokat” szövegrész helyébe a „megalapozó okokat. Nem kell még egyszer növelni az adózás előtti eredményt azzal a költséggel, ráfordítással, amellyel az adózó az 1. pont alapján adóalapját megnövelte” szöveg
-
-lép.
+o)
