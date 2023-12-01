@@ -1,0 +1,5 @@
+## „f) az újrahasználható termék és az önkéntes visszaváltási díjas termék után a helyesbítő számviteli bizonylatban rögzített, visszafizetett visszaváltási díj összegét (a helyesbítés a visszafizetés időpontjára vonatkozik).”
+
+153. § Az Szt. 78. §-ának (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Az eladott áruk beszerzési értéke az üzleti évben – általában – változatlan formában eladott anyagok, áruk bekerülési (értékvesztéssel csökkentett, az értékvesztés visszaírt összegével növelt bekerülési) értékét foglalja magában. Az eladott áruk beszerzési értékét növelő tételként kell kimutatni az értékesített betétdíjas göngyölegek bekerülési értékét, míg az eladott áruk beszerzési értékét csökkenteni kell a visszavett betétdíjas göngyölegek bekerülési értékével. Az eladott áruk beszerzési értékét növelő tételként kell kimutatni a visszaváltási díjas termékek bekerülési értékének részét képező visszaváltási díjat, míg az eladott áruk beszerzési értékét csökkenteni kell a visszakapott visszaváltási díj összegével.”

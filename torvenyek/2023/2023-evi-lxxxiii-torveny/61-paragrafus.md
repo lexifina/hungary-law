@@ -1,0 +1,3 @@
+61. § Az Áfa tv. a következő 366. §-sal egészül ki:
+
+„366. § Az Áfa tv. 173. § (1) bekezdésében foglalt rendelkezéseket teljesítettnek kell tekinteni a 2028. július 1-jét megelőzően kiállított azon nyugta tekintetében is, amelyik nem tartalmazza a 173. § (1) bekezdés e) pontja szerinti globális kereskedelmi áruazonosító számot.”

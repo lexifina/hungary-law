@@ -1,0 +1,3 @@
+14. § Az Szja tv. 84. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) E törvény 3. § 40. pontja, 49/B. § (6) bekezdés d) pont da) és dc) alpontja, 11. számú melléklet II. Az értékcsökkenési leírás szabályai fejezet 2. pont p) pont pa) és pc) alpontja, 13. számú melléklet 12. pont a) és c) alpontja az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdőalapú ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló 2022. december 14-i 2022/2472/EU bizottsági rendelet (HL L 327., 2022.12.21., 1. o.) 1–14. és 17. cikkei hatálya alá tartozó támogatási programot tartalmaz.”
