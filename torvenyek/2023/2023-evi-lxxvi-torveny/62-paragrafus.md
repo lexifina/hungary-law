@@ -1,5 +1,3 @@
 ## 14. A pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvény módosítása
 
-62. § A pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvény (a továbbiakban: Szantv.) 68. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Ha egy globálisan rendszerszinten jelentős intézményhez egynél több olyan globálisan rendszerszinten jelentős intézmény tartozik, amely szanálás alá vonható szervezetnek minősül vagy olyan harmadik országbeli szervezet tartozik, amely szanálás alá vonható szervezetnek minősülne, ha EGT-államban telepedne le, akkor a 68/D. § (4) bekezdésének alkalmazásában a (3) bekezdés szerinti összeget a szanálási feladatkörében eljáró MNB meghatározza minden szanálás alá vonható szervezetre, vagy ezen harmadik országbeli szervezetre és az EU-szintű anyavállalatra, mintha az EU-szintű anyavállalat lenne a globálisan rendszerszinten jelentős intézmény egyetlen szanálás alá vonható szervezete.”
+### 62. §
