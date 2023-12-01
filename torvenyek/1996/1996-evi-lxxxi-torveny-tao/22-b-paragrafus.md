@@ -46,11 +46,11 @@ b) Észak-Magyarország, Észak-Alföld, Dél-Alföld, Dél-Dunántúl, Közép-
 
 (2a) Az adókedvezmény igénybevételének feltétele a Kormány – Európai Bizottság engedélyén alapuló – határozata, ha
 
-a) a beruházáshoz igényelt összes állami támogatás meghaladja azt az összeget, amelyet ugyanazon településen egy jelenértéken 100 millió eurónak megfelelő forintösszegű elszámolható költségű beruházás kaphat,
+a) a jelenértéken legalább 110 millió eurónak megfelelő forintösszegű elszámolható költségű beruházás esetén a beruházáshoz igényelt összes állami támogatás meghaladja az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet (a továbbiakban: Atr.) 25. § (1) bekezdés a) pontja szerinti településen a 41,25 millió eurónak, az Atr. 25. § (1) bekezdés b) pontja szerinti településen a 24,75 millió eurónak, az Atr. 25. § (1) bekezdés c) pontja szerinti településen a 49,5 millió eurónak megfelelő forintösszeget,
 
-b) kis- és középvállalkozás által Budapesten megvalósított beruházáshoz igényelt összes állami támogatás jelenértéken, adózónként meghaladja a 7,5 millió eurónak megfelelő forintösszeget.
+b) kis- és középvállalkozás által Budapesten megvalósított beruházáshoz igényelt összes állami támogatás jelenértéken, adózónként meghaladja a 8,25 millió eurónak megfelelő forintösszeget.
 
-(2b) Az adózó a (2a) bekezdésben meghatározott esetekben az adókedvezmény iránti kérelmet a kormányrendeletben előírt formában és tartalommal az adópolitikáért felelős miniszterhez nyújtja be. A kérelmet a benyújtást, hiánypótlás esetén a hiánypótlás benyújtását követő 90 napon belül kell a Kormány elé terjeszteni; a határidő egy alkalommal, legfeljebb 90 nappal meghosszabbítható. A (2a) bekezdésben felsorolt esetekben, a kérelem Kormány elé terjesztését megelőzően az adópolitikáért felelős miniszter – az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet (a továbbiakban: Atr.) szabályaival összhangban – megkéri az Európai Bizottság engedélyét, azzal, hogy az ügyintézési határidőbe nem számít bele az Európai Bizottság megkeresésének napjától az Európai Bizottság válaszának megérkezéséig terjedő időtartam. Ha a kérelem nem felel meg a kormányrendeletben előírt formának vagy tartalomnak, és az adózó a hiányt felszólítás ellenére nem pótolja, az adópolitikáért felelős miniszter határozatban elutasítja a kérelmet.
+(2b) Az adózó a (2a) bekezdésben meghatározott esetekben az adókedvezmény iránti kérelmet a kormányrendeletben előírt formában és tartalommal az adópolitikáért felelős miniszterhez nyújtja be. A kérelmet a benyújtást, hiánypótlás esetén a hiánypótlás benyújtását követő 90 napon belül kell a Kormány elé terjeszteni; a határidő egy alkalommal, legfeljebb 90 nappal meghosszabbítható. A (2a) bekezdésben felsorolt esetekben, a kérelem Kormány elé terjesztését megelőzően az adópolitikáért felelős miniszter – az Atr. szabályaival összhangban – megkéri az Európai Bizottság engedélyét, azzal, hogy az ügyintézési határidőbe nem számít bele az Európai Bizottság megkeresésének napjától az Európai Bizottság válaszának megérkezéséig terjedő időtartam. Ha a kérelem nem felel meg a kormányrendeletben előírt formának vagy tartalomnak, és az adózó a hiányt felszólítás ellenére nem pótolja, az adópolitikáért felelős miniszter határozatban elutasítja a kérelmet.
 
 (3) Az adókedvezmény igénybevételének feltétele, hogy az adózó a beruházás tervezett megkezdése előtt
 
@@ -116,7 +116,7 @@ d) a szabályozott piacra bevezetett részvények tekintetében a kérelem, a be
 
 (28) A (25) bekezdés szerinti eljárásban az adópolitikáért felelős miniszter utoljára 2025. december 31. napján határoz.
 
-(29) Az adózó által igénybe vehető átmeneti fejlesztési adókedvezmény mértéke nem haladhatja meg az igényelt összes állami támogatással együttesen, jelenértéken a beruházás elszámolható költsége
+(29) Az adózó által igénybe vehető átmeneti fejlesztési adókedvezmény mértéke nem haladhatja meg az igényelt összes állami támogatással együttesen, folyóáron a beruházás elszámolható költsége
 
 a) Budapesten 15 százalékának,
 

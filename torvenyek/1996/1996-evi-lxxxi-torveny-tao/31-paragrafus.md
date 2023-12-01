@@ -24,6 +24,6 @@ c)
 
 (3) Ez a törvény az Iránymutatás a regionális állami támogatásokról (2021/C 153/01) című bizottsági közlemény hatálya alá tartozó támogatást tartalmaz.
 
-(4) E törvény 7. § (12) bekezdése, 22/A. § (4) bekezdése és 1. számú melléklet 14. pontja az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdészeti ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2014. június 25-i 702/2014/EU bizottsági rendelet 1–14. és 17. cikkei hatálya alá tartozó támogatási programot tartalmaz.
+(4) E törvény 7. § (12) bekezdése, 22/A. § (4) bekezdése és 1. számú melléklet 14. pontja az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdőalapú ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2022. december 14-i 2022/2472/EU bizottságirendelet 1–14. és 17. cikkei hatálya alá tartozó támogatási programot tartalmaz.
 
 (5) E törvény a Gazdasági Együttműködési és Fejlesztési Szervezet Adóalap-erózió és Nyereség-átcsoportosítás Projekt 4. akciópontja kapcsán publikált jelentés figyelembevételével készült szabályozást tartalmaz.

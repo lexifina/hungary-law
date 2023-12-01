@@ -8,6 +8,16 @@
 
 2. adózó: a 2. § (2)–(4), (6) és (7) bekezdése szerinti belföldi és külföldi személy, a 2. § (5) és (8) bekezdésében meghatározottak kivételével, továbbá a 2/A. §-ban meghatározott csoportos társasági adóalany;
 
+2a. alternatív beruházás, felújítás: a 22/E. § alkalmazásában az adózó által végrehajtandó, adókedvezmény alapját képező beruházáshoz, felújításhoz hasonló termelési kapacitással és élettartammal rendelkező olyan beruházás, felújítás, amely eleget tesz az érvényben lévő uniós szabványoknak és amelyet az adózó adókedvezmény vagy más állami támogatás hiányában hitelt érdemlően végrehajtott volna, továbbá amely
+
+a) megfelel a szokásos kereskedelmi gyakorlatnak az ágazat vagy az érintett tevékenység esetében, de az adózó által végrehajtandó beruházáshoz, felújításhoz képest kevésbé energiahatékony beruházás, felújítás,
+
+b) az adózó által végrehajtandó ugyanazon beruházás, felújítás későbbi időpontban történő megvalósítása,
+
+c) meglévő tárgyi eszköz üzemben tartását magában foglaló beruházás, felújítás, vagy
+
+d) az adózó által lízing formájában végrehajtandó beruházáshoz, felújításhoz képest kevésbé energiahatékony tárgyi eszközök lízingelésére irányuló beruházás, felújítás;
+
 3. azonos munkakör: a 7/2010. (IV. 23.) KSH közleménnyel kiadott, 2011. január 1-jétől hatályos Foglalkozások Egységes Osztályozási Rendszere (a továbbiakban: FEOR-08) szerint azonosnak minősülő munkakör;
 
 3a. állami támogatás: az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdése szerinti állami támogatás;
@@ -66,11 +76,11 @@ ab) a jegyzett tőkéből 50 százalékot meghaladó közvetlen vagy közvetett 
 
 ac) adózott nyereségéből 50 százalékot meghaladó részre jogosult,
 
-abban az adóévében, amelyben a külföldi személy által ténylegesen megfizetett társasági adónak megfelelő adó kisebb, mint az a különbözet, amellyel az a társasági adó, amelyet az illetősége szerinti államot Magyarországnak feltételezve fizetett volna, meghaladja a külföldi személy által megfizetett, társasági adónak megfelelő adót,
+abban az adóévében, amelyben a külföldi személy által ténylegesen megfizetett társasági adónak megfelelő adó kisebb, mint az a különbözet, amellyel az a társasági adó, amelyet az illetősége szerinti államot Magyarországnak feltételezve fizetett volna, meghaladja a külföldi személy által ténylegesen megfizetett, társasági adónak megfelelő adót,
 
 valamint
 
-b) a belföldi illetőségű adózó külföldi telephelye abban az adóévében, amelyben a külföldi telephely által megfizetett társasági adónak megfelelő adó kisebb, mint az a különbözet, amellyel az a társasági adó, amelyet a telephely szerinti államot Magyarországnak feltételezve fizetett volna, meghaladja a külföldi telephely által megfizetett társasági adónak megfelelő adót,
+b) a belföldi illetőségű adózó külföldi telephelye abban az adóévében, amelyben a külföldi telephely által ténylegesen megfizetett társasági adónak megfelelő adó kisebb, mint az a különbözet, amellyel az a társasági adó, amelyet a telephely szerinti államot Magyarországnak feltételezve fizetett volna, meghaladja a külföldi telephely által ténylegesen megfizetett társasági adónak megfelelő adót,
 
 azzal, hogy
 
@@ -186,9 +196,9 @@ e) az adózó és külföldi telephelye, továbbá az adózó külföldi telephe
 
 f) az adózó és más személy, ha köztük az ügyvezetés egyezőségére tekintettel az üzleti és pénzügyi politikára vonatkozó döntő befolyásgyakorlás valósul meg,
 
-g) az a)–c) alpontban foglaltaktól függetlenül akkor is létrejön a kapcsolt vállalkozási viszony
+g) az a)–c) alpontban foglaltakat kiegészítve akkor is létrejön a kapcsolt vállalkozási viszony
 
-ga) a 11. pont, az 53. pont, a 8. § (1) bekezdés f) pontja és a 16/A. § alkalmazásában, ha az adózó és más személy viszonylatában legalább 25 százalékos közvetlen vagy közvetett szavazatijog-részesedés, vagy legalább 25 százalékos közvetlen vagy közvetett tőkerészesedés, vagy legalább 25 százalékos nyereségrészesedés áll fenn, azzal, hogy ezen rendelkezések alkalmazásában az f) alpontban foglaltak teljesülését nem kell vizsgálni,
+ga) a 11. pont, az 53. pont, a 8. § (1) bekezdés f) pontja és a 16/A. § alkalmazásában, ha az adózó és más személy viszonylatában legalább 25 százalékos közvetlen vagy közvetett szavazatijog-részesedés, vagy legalább 25 százalékos közvetlen vagy közvetett tőkerészesedés, vagy legalább 25 százalékos nyereségrészesedés áll fenn, vagy ha az adózóban és más személyben harmadik személy közvetlenül vagy közvetve legalább 25 százalékos közvetlen vagy közvetett szavazatijog-részesedésre, vagy legalább 25 százalékos közvetlen vagy közvetett tőkerészesedésre, vagy legalább 25 százalékos nyereségrészesedésre jogosult, azzal, hogy ezen rendelkezések alkalmazásában az f) alpontban foglaltak teljesülését nem kell vizsgálni,
 
 gb) a 2. § (7) bekezdés és a 16/B. § alkalmazásában, ha az adózó és más személy viszonylatában legalább 50 százalékos közvetlen vagy közvetett szavazatijog-részesedés, vagy legalább 50 százalékos közvetlen vagy közvetett tőkerészesedés, vagy legalább 50 százalékos nyereségrészesedés áll fenn, azzal, hogy a szavazatijog-részesedések és a tőkerészesedések tekintetében az összehangoltan eljáró személyek befolyását egybe kell számítani, továbbá az összevont (konszolidált) pénzügyi beszámolót készítő vállalatcsoporthoz tartozó adózók esetében az f) alpontban foglaltakat is vizsgálni kell;
 
@@ -239,6 +249,8 @@ c) az a) pont szerinti berendezés és a b) pont szerinti alkatrész gyártásá
 28c. önálló szervezeti egység: egy társaság olyan részlegének összes eszköze és kötelezettsége (ideértve a passzív időbeli elhatárolást is), amely részleg szervezeti szempontból független, a hozzá tartozó vagyonnal működni képes egységet képez;
 
 29. összes bevétel: az adóévre vonatkozó beszámolóban kimutatott (ennek hiányában az adóév utolsó napjára vonatkozó könyvviteli zárlat alapján megállapított) értékesítés nettó árbevétele, egyéb bevételek és pénzügyi műveletek bevételei, továbbá az éves beszámolóját, a könyvviteli zárlatát az IFRS-ek szerint összeállító adózónál az adóévre vonatkozó beszámolóban az adózás előtti eredmény javára (bevételként, nyereségjellegű különbözetként) elszámolt összeg, ideértve a megszűnt tevékenységek eredmény javára elszámolt összegét is;
+
+29a. primerenergia: az a megújuló és nem megújuló forrásból származó energia, amely nem esett át átalakításon vagy feldolgozási eljáráson;
 
 30. korai fázisú vállalkozás: a korai fázisú vállalkozások nyilvántartásba vételéről szóló kormányrendelet szerint nyilvántartásba vett jogi személy, feltéve, hogy megfelel a nyilvántartásba vételéről szóló kormányrendeletben foglaltaknak és azon túlmenően
 
@@ -314,7 +326,7 @@ j) a külföldi személyt minden esetben telephellyel rendelkezőnek kell tekint
 
 34b. uniós szabvány:
 
-a) olyan kötelező uniós szabvány, amely az egyes vállalkozások által elérendő szinteket ír elő a környezeti mutatókra nézve; vagy
+a) olyan kötelező uniós szabvány, amely meghatározza az egyes vállalkozások által környezeti szempontból elérendő szinteket, kivéve az uniós szinten meghatározott olyan normákat vagy célokat, amelyek a tagállamokra nézve kötelezőek, de az egyes vállalkozásokra nézve nem, vagy
 
 b) az ipari kibocsátásokról (a környezetszennyezés integrált megelőzése és csökkentése) szóló 2010. november 24-i 2010/75/EU európai parlamenti és tanácsi irányelvben rögzített, az elérhető legjobb technikák használatára és annak biztosítására vonatkozó kötelezettség, hogy a szennyező anyagok kibocsátási szintje ne haladja meg az elérhető legjobb technikák alkalmazásával elérhető szintet; azokban az esetekben, amelyeknél az elérhető legjobb technikák szerinti kibocsátási szinteket az ipari kibocsátásokról (a környezetszennyezés integrált megelőzése és csökkentése) szóló 2010. november 24-i 2010/75/EU európai parlamenti és tanácsi irányelv értelmében elfogadott végrehajtási jogi aktusokban határozták meg, akkor azok a szintek alkalmazandók; amennyiben az említett szinteket tartományban állapítják meg, az a korlát alkalmazandó, amelynél az elérhető legjobb technikákat elérték;
 

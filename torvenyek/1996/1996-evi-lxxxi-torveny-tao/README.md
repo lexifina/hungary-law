@@ -100,3 +100,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-81-00-00
 | 2023-01-01 | 2022. évi XLV. törvény | 1996-81-00-00.143 |
 | 2023-07-15 | 2023. évi LIX. törvény | 1996-81-00-00.146 |
 | 2023-08-14 | 2023. évi LIX. törvény | 1996-81-00-00.147 |
+| 2023-12-01 | 2023. évi LXXXIII. törvény | 1996-81-00-00.149 |
