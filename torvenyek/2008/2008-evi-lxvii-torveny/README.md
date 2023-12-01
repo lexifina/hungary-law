@@ -31,3 +31,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-67-00-00
 | 2023-07-01 | 2023. évi XLV. törvény | 2008-67-00-00.29 |
 | 2023-07-15 | 2023. évi LIX. törvény | 2008-67-00-00.30 |
 | 2023-08-01 | 2023. évi LIX. törvény | 2008-67-00-00.31 |
+| 2023-12-01 | 2023. évi LXXXIII. törvény | 2008-67-00-00.32 |
