@@ -1,0 +1,1 @@
+84/A. § A külföldön élő, magyarországi lakcímmel nem rendelkező választópolgár külföldi lakóhelyének az általa bejelentett külföldi lakóhelyet, annak hiányában a személyiadat- és lakcímnyilvántartásban nyilvántartott külföldi lakóhelyet kell tekinteni.

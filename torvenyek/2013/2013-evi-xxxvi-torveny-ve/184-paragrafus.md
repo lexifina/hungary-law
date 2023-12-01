@@ -2,7 +2,7 @@
 
 184. § (1) A mozgóurnát a szavazatszámláló bizottság két tagja viszi ki – a szavazókör területén belül – a mozgóurnát igénylő választópolgárok jegyzékében szereplő választópolgárhoz.
 
-(2) Ha a 102. § (3) bekezdése alapján a lakcíme szerinti szavazókör névjegyzékéből más szavazókör névjegyzékébe áttett választópolgár – a 103. § (2) bekezdés a) pont ac) alpontja vagy b) pontja szerint – a lakcímére kér mozgóurnát, a szavazatszámláló bizottság két tagja a szavazókör területén kívülre, a választópolgár lakcímére viszi ki a mozgóurnát.
+(2) Ha a 102. § (3) bekezdése alapján a lakcíme szerinti szavazókör névjegyzékéből más szavazókör névjegyzékébe áttett választópolgár – a 103. § (2) bekezdés b) pont ba) alpontja vagy c) pontja szerint – a lakcímére kér mozgóurnát, a szavazatszámláló bizottság két tagja a szavazókör területén kívülre, a választópolgár lakcímére viszi ki a mozgóurnát.
 
 (3) Az esetleges rontott szavazólapok kicserélése érdekében a mozgóurnás szavazáshoz a választópolgárok számánál legfeljebb tízzel több szavazólapot visz ki a szavazatszámláló bizottság két tagja.
 

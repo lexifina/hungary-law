@@ -8,7 +8,7 @@ c) az ajánlás megfelel a 122. §-ban foglalt követelményeknek.
 
 (2) Nem tekinthető érvénytelenségi oknak, ha az ajánló választópolgár
 
-a) adatai az alábbi okból nem egyeznek meg a központi névjegyzék vagy a polgárok személyi és lakcím adatait tartalmazó nyilvántartás, a központi útiokmány-nyilvántartás vagy a vezetőiengedély-nyilvántartás adataival, de a választópolgár személyazonossága kétséget kizáróan megállapítható:
+a) adatai az alábbi okból nem egyeznek meg a központi névjegyzék vagy a polgárok személyi és lakcím adatait tartalmazó nyilvántartás, az útiokmány-nyilvántartás vagy a vezetőiengedély-nyilvántartás adataival, de a választópolgár személyazonossága kétséget kizáróan megállapítható:
 
 aa) ékezethiba,
 

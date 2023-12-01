@@ -10,7 +10,7 @@ a) a jelölést elfogadja,
 
 b) nincs olyan tisztsége, amely összeférhetetlen a képviselői megbízatással, illetve megválasztása esetén az összeférhetetlenséget megszünteti,
 
-c) az országgyűlési képviselők választása kampányköltségeinek átláthatóvá tételéről szóló törvény szerinti párttámogatás visszafizetésére a tartozás párttól való behajthatatlansága esetére kötelezettséget vállal.
+c)
 
 (4) Ajánlóívet csak olyan választópolgár számára lehet igényelni, aki az igény benyújtásakor választójoggal rendelkezik.
 

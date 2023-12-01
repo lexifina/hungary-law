@@ -40,8 +40,8 @@ d) földrajzi név idegen nyelvű megjelölése,
 
 e) a 278. § (2) bekezdés a) pontja szerinti adatban több utónév egyikének elhagyása, „dr.” megjelölés elhagyása vagy feltüntetése, az ifjabb, idősebb, özvegy vagy más előtag, illetve ezen előtagok rövidítésének feltüntetése vagy adat más nyelven történő megadása.
 
-(6)
+(6) Ha a választópolgár az azonosító nyilatkozaton a személyazonosságát igazoló hatósági igazolvány számát tünteti fel, annak ellenőrzése során érvényesnek kell tekinteni az igazolványt, ha a szavazási levélcsomagok kiküldésének első napja és az azonosító nyilatkozat ellenőrzésének napja között bármely napon érvényes volt.
 
-(7) A (3) bekezdés g) pontjában a választópolgár által már leadott szavazási iratnak csak az olyan szavazási irat tekinthető, amely érvényes, vagy nem a (3) bekezdés e), f) vagy i) pontja szerinti okból érvénytelen.
+(7) A (3) bekezdés g) pontjában a választópolgár által már leadott szavazási iratnak csak az olyan szavazási irat tekinthető, amely érvényes, vagy nem a (3) bekezdés e), f) vagy h) pontja szerinti okból érvénytelen.
 
-(8) Ha a szavazási irat érvényes, vagy nem a (3) bekezdés e), f) vagy i) pontja szerinti okból érvénytelen, a választási iroda a központi névjegyzéken feltünteti, hogy a választópolgár szavazási iratot adott le.
+(8) Ha a szavazási irat érvényes, vagy nem a (3) bekezdés e), f) vagy h) pontja szerinti okból érvénytelen, a választási iroda a központi névjegyzéken feltünteti, hogy a választópolgár szavazási iratot adott le.

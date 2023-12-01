@@ -1,9 +1,3 @@
-104. § (1) A helyi választási iroda
+104. § (1) A 103. § (2) bekezdés b) pont bb) és bc) alpontja szerint benyújtott kérelmet a helyi választási iroda a választási informatikai rendszerben rögzíti.
 
-a) a 103. § (2) bekezdés a) pont aa) és ab) alpontja szerinti kérelem alapján a mozgóurnát igénylő választópolgárt felveszi a mozgóurnát igénylő választópolgárok jegyzékébe,
-
-b) a 103. § (2) bekezdés a) pont ac) alpontja szerinti kérelmet elbírálásra továbbítja a szavazatszámláló bizottsághoz.
-
-(2) A helyi választási iroda a 103. § (2) bekezdés a) pont aa) és ab) alpontja szerint benyújtott, a 103. § (4) bekezdése szerinti kérelem alapján a választópolgárt felveszi a mozgóurnát igénylő választópolgárok jegyzékébe.
-
-(3) A szavazatszámláló bizottság a mozgóurnát igénylő választópolgárt felveszi a mozgóurnát igénylő választópolgárok kinyomtatott jegyzékébe, és törli a kinyomtatott szavazóköri névjegyzékből.
+(2) A 103. § (2) bekezdés b) pont ba) alpontja szerint benyújtott kérelmet a helyi választási iroda a szavazatszámláló bizottság részére továbbítja.

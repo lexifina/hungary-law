@@ -4,7 +4,7 @@
 
 (2) A szavazatszámláló bizottsági tag megbízására jogosultak a szavazás napját megelőző ötödik napig megbízott tagokat jelenthetnek be abba a szavazatszámláló bizottságba is, amelyben a megismételtetett szavazáson nem rendelkeztek a maximális számú megbízott taggal.
 
-(3) A helyi választási iroda értesítő útján haladéktalanul tájékoztatja a választópolgárokat az ismételt szavazással kapcsolatos információkról.
+(3) A Nemzeti Választási Iroda értesítő útján haladéktalanul tájékoztatja a választópolgárokat az ismételt szavazással kapcsolatos információkról.
 
 (4) A 153–155. § szerinti névjegyzéki adatszolgáltatás igénylésére van lehetőségük a jogosultaknak, a kampánytevékenységre az általános szabályokat kell alkalmazni.
 

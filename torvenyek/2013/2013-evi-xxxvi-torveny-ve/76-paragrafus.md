@@ -2,7 +2,7 @@
 
 76. § (1) A Nemzeti Választási Iroda ellátja a 75. §-ban foglalt feladatokat, továbbá
 
-a) gondoskodik a központi névjegyzék vezetéséről,
+a) gondoskodik a központi névjegyzék, a szavazóköri névjegyzék, a levélben szavazók névjegyzéke, a külképviseleti névjegyzék, a választójoggal nem rendelkező polgárok nyilvántartása, a szavazókörök és választókerületek nyilvántartása, a jelölő szervezetek, jelöltek és listák nyilvántartása, a képviselők nyilvántartása vezetéséről,
 
 b) gondoskodik a választás lebonyolításához szükséges közbeszerzési eljárások lefolytatásáról, a termékek, szolgáltatások beszerzéséről,
 
@@ -35,6 +35,8 @@ b) a központi névjegyzéken szereplő, az egyes szavazóköri névjegyzékekbe
 c) az egyes szavazóhelyiségekben szavazóként megjelenő, az egyes külképviseleteken szavazóként megjelenő választópolgárok számát,
 
 d) a választás szavazóköri eredményét és a választás eredményét megállapító jegyzőkönyvek tartalmát.
+
+(2a) A Nemzeti Választási Iroda a választások hivatalos honlapján minden évben – a január 1-jei adatok alapján közzéteszi a választópolgárok számát választástípusonkénti, településenkénti, valamint a választójogot megalapozó – az Alaptörvény XXIII. cikk (1)–(3) bekezdése szerinti – jogállás szerinti bontásban.
 
 (3) A Nemzeti Választási Iroda csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezet adatfeldolgozót bízhat meg
 

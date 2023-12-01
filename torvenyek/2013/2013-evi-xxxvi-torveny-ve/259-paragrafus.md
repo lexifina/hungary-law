@@ -4,4 +4,4 @@
 
 (2) A külképviseleti névjegyzékbe való felvételre irányuló kérelemnek legkésőbb a szavazást megelőző kilencedik napon kell megérkeznie.
 
-(3) A kérelemnek a 92. § (1) vagy (3) bekezdésében foglalt adatokon túl tartalmaznia kell annak a külképviseletnek a megjelölését, ahol a kérelmező a választójogát gyakorolni kívánja.
+(3) A kérelemnek tartalmaznia kell annak a külképviseletnek a megjelölését, ahol a kérelmező a választójogát gyakorolni kívánja.

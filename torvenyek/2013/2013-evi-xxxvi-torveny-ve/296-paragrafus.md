@@ -1,4 +1,4 @@
-296. § (1) Az országos listás szavazás eredményéről kiállított szavazóköri jegyzőkönyv egy példányát a helyi választási iroda a Nemzeti Választási Irodához juttatja el.
+296. § (1)
 
 (2) A Nemzeti Választási Bizottság
 

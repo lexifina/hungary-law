@@ -1,21 +1,13 @@
 ## 45. A központi névjegyzékkel kapcsolatos kérelem benyújtása
 
-91. § (1) A magyarországi lakcímmel rendelkező választópolgár a központi névjegyzékkel kapcsolatos kérelmet
+91. § (1) A magyarországi lakcímmel nem rendelkező választópolgár a központi névjegyzékkel kapcsolatos kérelmet – a 13/D. § (1) bekezdésében meghatározottakon kívül –
 
-a) személyesen a lakóhelye vagy tartózkodási helye szerinti helyi választási irodához vagy
+a) a Nemzeti Választási Irodához vagy a külképviseleti választási irodához levélben,
 
-b) levélben, elektronikus azonosítását követően elektronikusan vagy anélkül elektronikusan a lakcíme szerinti helyi választási irodához
+b) a külképviseleti választási irodához személyesen vagy kézbesítési meghatalmazott útján, vagy
 
-nyújthatja be.
+c) a Nemzeti Választási Irodához elektronikus azonosítás nélkül elektronikusan
 
-(2) A magyarországi lakcímmel nem rendelkező választópolgár a központi névjegyzékkel kapcsolatos kérelmet
+is benyújthatja.
 
-a) levélben,
-
-b) elektronikus azonosítását követően elektronikusan,
-
-c) elektronikus azonosítás nélkül elektronikusan
-
-nyújthatja be a Nemzeti Választási Irodához.
-
-(3) A Magyarországon élő, lakcímmel nem rendelkező választópolgár a központi névjegyzékkel kapcsolatos kérelmet – a (2) bekezdésben foglaltakon túl – bármely helyi választási irodához személyesen vagy levélben is benyújthatja.
+(2) Az (1) bekezdés a) és b) pontja szerint benyújtott kérelmet a választási iroda a választási informatikai rendszerben rögzíti, és megindítja az eljárást.

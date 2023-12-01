@@ -16,7 +16,7 @@ f) gondoskodnak a választási iratok kezeléséről, biztonságos őrzéséről
 
 g) ellátják az igazgatási és informatikai próbákkal kapcsolatos feladatokat,
 
-h) az adatvédelem és az informatikai biztonság követelményeinek biztosításával, feladatkörükben eljárva működtetik a választás előkészítéséhez és lebonyolításához szükséges választási információs rendszereket,
+h) feladatkörükben adatkezelést végeznek a választási informatikai rendszerben,
 
 i) a technikai háttér biztosításával segítséget nyújtanak a szavazatok összesítéséhez, a választás eredményének megállapításához,
 

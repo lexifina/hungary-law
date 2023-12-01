@@ -22,9 +22,11 @@ ha a választási bizottság a jelölő szervezetek nyilvántartásába felvette
 
 5. magyarországi lakcím: a bejelentett magyarországi lakóhely címe; a sem magyarországi, sem külföldi bejelentett lakóhellyel nem rendelkező személy esetében a bejelentett magyarországi tartózkodási hely címe,
 
+5a. kézbesítési meghatalmazott: a kérelem átadására és a választási szerv döntésének átvételére jogosult meghatalmazott,
+
 6. külképviselet: Magyarországnak a Kormány döntése alapján létrehozott, külföldön működő diplomáciai és konzuli képviselete,
 
-7. meghatalmazott: közokiratba vagy teljes bizonyító erejű magánokiratba foglalt meghatalmazással rendelkező személy,
+7. meghatalmazott: ügyintézési rendelkezésben tett meghatalmazással, illetve közokiratba vagy teljes bizonyító erejű magánokiratba foglalt meghatalmazással rendelkező személy,
 
 8. miniszter: a választások és népszavazások szabályozásáért felelős miniszter,
 
@@ -42,10 +44,4 @@ ha a választási bizottság a jelölő szervezetek nyilvántartásába felvette
 
 15. választási szerv: a választási bizottság és a választási iroda.
 
-(2) E törvény alkalmazásában a névjegyzékkel kapcsolatos, valamint a jogorvoslati kérelem
-
-a) közokiratba vagy teljes bizonyító erejű magánokiratba foglalt meghatalmazással történő benyújtására a személyesen történő benyújtás,
-
-b) borítékba helyezett példányának postai szolgáltató vagy egyéb – meghatalmazással nem rendelkező – személy általi kézbesítésére a levélben történő benyújtás
-
-szabályait kell alkalmazni.
+(2)

@@ -1,17 +1,15 @@
 ## 47. A központi névjegyzék vezetése
 
-96. § (1) A központi névjegyzék adatait folyamatosan frissíteni kell a következő nyilvántartások adataiban bekövetkezett változásokkal:
+96. § (1) A Nemzeti Választási Iroda a központi névjegyzék adatait folyamatosan frissíti
 
-a) a polgárok személyi és lakcím adatait tartalmazó nyilvántartás,
+a) a személyiadat- és lakcímnyilvántartás,
 
 b) a választójoggal nem rendelkező polgárok nyilvántartása,
 
-c) a szavazókörök és választókerületek nyilvántartása.
+c) a szavazókörök és választókerületek nyilvántartása és
 
-d) a központi útiokmány-nyilvántartás.
+d) az útiokmány-nyilvántartás
 
-(2) A Nemzeti Választási Iroda közvetlen hozzáférést biztosít a választási iroda számára a választópolgárok központi névjegyzéki adataihoz.
+adataiban bekövetkezett változásokkal.
 
-(3) A választópolgár a központi névjegyzékben nyilvántartott adatairól a magyarországi lakcíme szerinti helyi választási irodában, a magyarországi lakcímmel nem rendelkező választópolgár a Nemzeti Választási Irodában másolatot kérhet.
-
-(4) A Nemzeti Választási Bizottság tagja a magyarországi lakcímmel nem rendelkező választópolgárok központi névjegyzékben nyilvántartott adataiba betekinthet, de azokról feljegyzést, másolatot nem készíthet. A betekintés során a Nemzeti Választási Bizottság tagja a 84. § szerinti kérelem, valamint a 93. § szerinti adatbázisok adatainak megtekintésével ellenőrizheti a névjegyzékbe vétel törvényességét.
+(2) A Nemzeti Választási Bizottság tagja a magyarországi lakcímmel nem rendelkező választópolgárok központi névjegyzékben nyilvántartott adataiba betekinthet, de azokról feljegyzést, másolatot nem készíthet. A betekintés során a Nemzeti Választási Bizottság tagja a 84. § szerinti kérelem, valamint a személyiadat- és lakcímnyilvántartás, az útiokmány-nyilvántartás és a választójoggal nem rendelkező nagykorú polgárok nyilvántartása adatainak megtekintésével ellenőrizheti a névjegyzékbe vétel törvényességét.

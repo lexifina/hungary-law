@@ -1,3 +1,7 @@
-113. § (1) A 103. § (2) bekezdés a) pontja, a 250. §, a 259. § és a 307/A. § szerinti kérelmet beérkezése napján, vagy ha nem munkanapon érkezik be, akkor a következő munkanapon kell elbírálni.
+113. § (1) A szavazóköri névjegyzékkel kapcsolatos, határidőben beérkezett kérelmet azonnal, de legfeljebb a benyújtásától, illetve az eljárás megindításától számított huszonnégy órán belül kell elbírálni. A szavazást megelőző második napon benyújtott, 10 óráig beérkezett mozgóurna, illetve annak visszavonása iránti kérelmet azonnal, de legfeljebb egy órán belül kell elbírálni.
 
-(2) A 103. § (2) bekezdés a) pont aa) és ab) alpontja szerinti kérelmet legkésőbb a szavazást megelőző második napon 10 óráig, a 103. § (2) bekezdés a) pont ac) alpontja és b) pontja szerinti kérelmet beérkezésekor haladéktalanul el kell bírálni.
+(2) Ha a kérelem elbírálásához ügyintézői közreműködésre van szükség, a kérelmet a benyújtásától, illetve az eljárás megindításától számított három munkanapon belül, de legkésőbb a szavazást megelőző második napon 11 óráig kell elbírálni.
+
+(3) A szavazatszámláló bizottság a mozgóurna iránti kérelmet soron kívül bírálja el.
+
+(4) A szavazás kitűzését követően, de a szavazást megelőző hatvanhatodik napnál korábban benyújtott kérelem elbírálását a szavazást megelőző hatvanhatodik napon kell megkezdeni.

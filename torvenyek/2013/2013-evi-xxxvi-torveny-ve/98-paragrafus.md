@@ -20,6 +20,6 @@ b) a bűnügyi nyilvántartó szerv a bűnügyi nyilvántartási rendszer törv�
 
 automatikus adattovábbítás útján továbbítja a Nemzeti Választási Iroda számára.
 
-(3) A Nemzeti Választási Iroda az adatok változásának a nyilvántartásban történő feltüntetése céljából a választójoggal nem rendelkező polgárok nyilvántartásának karbantartását a személyiadat- és lakcímnyilvántartás hatálya alá tartozó polgárok személyazonosító és lakcímadatai tekintetében a személyiadat- és lakcímnyilvántartásból való rendszeres adatátvétellel biztosítja.
+(3) A Nemzeti Választási Iroda az adatok változásának a nyilvántartásban történő feltüntetése, valamint az elhalálozott polgár törlése céljából a választójoggal nem rendelkező polgárok nyilvántartásának karbantartását a személyiadat- és lakcímnyilvántartás hatálya alá tartozó polgárok személyazonosító és lakcímadatai tekintetében a személyiadat- és lakcímnyilvántartásból automatikus információátadás útján történő rendszeres adatátvétellel biztosítja.
 
 (4) Ha a polgár választójogosultságát visszanyerte, adatait a választójoggal nem rendelkező polgárok nyilvántartásából törölni kell. A választójoggal nem rendelkező polgárok nyilvántartásából törölt polgár adatait a törléstől számított hat hónapig meg kell őrizni.
