@@ -1,7 +1,0 @@
-1. § (1) Az Ukrajna területén fennálló fegyveres konfliktusra, illetve humanitárius katasztrófára tekintettel, valamint ezek magyarországi következményeinek az elhárítása és kezelése érdekében veszélyhelyzet kihirdetéséről és egyes veszélyhelyzeti szabályokról szóló 424/2022. (X. 28.) Korm. rendelet szerinti veszélyhelyzet ideje alatt a népegészségügyi termékadóról szóló 2011. évi CIII. törvényt (a továbbiakban: Neta tv.) az e rendeletben foglalt eltéréssel kell alkalmazni.
-
-(2) A Neta tv. 1. § 19. pontjában foglaltaktól eltérően élmény- és szabadidősport, valamint egészségmegőrző program az aktív Magyarországért felelős miniszter (a továbbiakban: miniszter) munkaszervezete által, annak e célt szolgáló fejezeti kezelésű előirányzatáról (a továbbiakban: előirányzat) támogatott, egészséges étkezésre, aktív életmódra, a sportolás elősegítésére, ösztönzésére, a lelki egészség megőrzésére irányuló minden tevékenység, akció, szemléletformáló kampány vagy program, továbbá ezeket szolgáló beruházás.
-
-(3) A Neta tv. 8. § (6) bekezdésétől eltérően az állami adó- és vámhatóság (a továbbiakban: hatóság) a rendelkező nyilatkozatban megjelölt összeget a bevallás benyújtását követő 15 munkanapon belül az előirányzat javára teljesíti.
-
-(4) A Neta tv. 8. § (8) bekezdésétől eltérően a hatóság az előirányzat javára történő teljesítést követő hónap 15. napjáig elektronikus adatközlés útján tájékoztatja a minisztert.
