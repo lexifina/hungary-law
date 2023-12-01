@@ -12,13 +12,9 @@
 
 ## Határidő: a 2. pont végrehajtását követően azonnal
 
-## 4.[^1] felhívja a pénzügyminisztert, hogy gondoskodjon 10 080 000 000 forint többletforrás biztosításáról a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény (a továbbiakban: Kvtv.) 1. melléklet XVIII. Külgazdasági és Külügyminisztérium fejezet, 7. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 3. Külügyi fejlesztési és kutatási programok jogcímcsoport javára;
+## 4.[^1]
 
-| Felelős: | pénzügyminiszter |
-
-| Határidő: | 3 130 000 000 forint tekintetében a 2023. évi központi költségvetés végrehajtása során 2023. február 15-ig 6 950 000 000 forint tekintetében a 2023. évi központi költségvetés végrehajtása során 2023. június 15-ig |
-
-## 5.[^2] az Áht. 36. § (4b) és (4c) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy a külgazdasági és külügyminiszter az 1. pontban meghatározott cél érdekében a Kvtv. 1. melléklet XVIII. Külgazdasági és Külügyminisztérium fejezet, 7. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 3. Külügyi fejlesztési és kutatási programok jogcímcsoporton biztosított előirányzaton felül 10 080 000 000 forint összegben kötelezettséget vállaljon;
+## 5.[^2]
 
 ## 6. felhívja a külgazdasági és külügyminisztert, hogy vizsgálja felül a CED Közép-európai Gazdaságfejlesztési Hálózat Nonprofit Korlátolt Felelősségű Társaság által lebonyolításra kerülő, magyarországi vállalkozások kárpát-medencei fejlesztéseit célzó pályázati programok, valamint a HEPA NZrt. közreműködésével megvalósításra kerülő Nemzeti Exportvédelmi Program keretében meghirdetett pályázatok teljesítésének ütemezését, és tegyen javaslatot további, a gazdasági élet újraindítása, valamint egyéb külügyi programok érdekében szükséges átcsoportosítások végrehajtására.
 
@@ -26,13 +22,13 @@
 
 ## Határidő: azonnal
 
-## 7.[^3] felhívja a pénzügyminisztert, hogy gondoskodjon 4 470 127 497 forint forrás biztosításáról a 2024. évi központi költségvetés XVIII. Külgazdasági és Külügyminisztérium fejezet Külügyi fejlesztési és kutatási programok lebonyolítására szolgáló előirányzat javára;
+## 7.[^3] felhívja a pénzügyminisztert, hogy gondoskodjon 8 777 212 530 forint többletforrás biztosításáról a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény (a továbbiakban: Kvtv.) 1. melléklet XVIII. Külgazdasági és Külügyminisztérium fejezet, 7. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 3. Külügyi fejlesztési és kutatási programok jogcímcsoport javára;
 
 | Felelős: | pénzügyminiszter |
 
-| Határidő: | a 2024. évi központi költségvetés tervezése során |
+| Határidő: | 2024. január 31. |
 
-## 8.[^4] az Áht. 36. § (4c) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy a külgazdasági és külügyminiszter az 1. pontban meghatározott cél érdekében a 2024. évi központi költségvetés terhére a XVIII. Külgazdasági és Külügyminisztérium fejezet Külügyi fejlesztési és kutatási programok lebonyolítására biztosított előirányzaton felül 4 470 127 497 forint összegben kötelezettséget vállaljon.
+## 8.[^4] az Áht. 36. § (4b) bekezdésében és (4c) bekezdés b) pontjában biztosított jogkörében eljárva jóváhagyja, hogy a külgazdasági és külügyminiszter az 1. pontban meghatározott cél érdekében a 7. pontban meghatározott fejezeti kezelésű előirányzat törvény szerinti előirányzatán felül további 8 777 212 530 forint összegben kötelezettséget vállaljon.
 
 1. melléklet az 1664/2021. (IX. 28.) Korm. határozathoz
 
@@ -174,7 +170,7 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
-[^1]: A 4. pont az 1588/2022. (XI. 30.) Korm. határozat 4. pontjával megállapított szöveg.
-[^2]: Az 5. pont az 1588/2022. (XI. 30.) Korm. határozat 4. pontjával megállapított szöveg.
-[^3]: A 7. pontot az 1588/2022. (XI. 30.) Korm. határozat 5. pontja iktatta be.
-[^4]: A 8. pontot az 1588/2022. (XI. 30.) Korm. határozat 5. pontja iktatta be.
+[^1]: A 4. pontot az 1526/2023. (XII. 1.) Korm. határozat 6. pontja visszavonta.
+[^2]: Az 5. pontot az 1526/2023. (XII. 1.) Korm. határozat 6. pontja visszavonta.
+[^3]: A 7. pontot az 1588/2022. (XI. 30.) Korm. határozat 5. pontja iktatta be, szövege az 1526/2023. (XII. 1.) Korm. határozat 5. pontjával megállapított szöveg.
+[^4]: A 8. pontot az 1588/2022. (XI. 30.) Korm. határozat 5. pontja iktatta be, szövege az 1526/2023. (XII. 1.) Korm. határozat 5. pontjával megállapított szöveg.
