@@ -1,1 +1,3 @@
-2. § Az elektromobilitás szolgáltatás egyes kérdéseiről szóló 243/2019. (X. 22.) Korm. rendelet 1. melléklete az 1. melléklet szerint módosul.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
