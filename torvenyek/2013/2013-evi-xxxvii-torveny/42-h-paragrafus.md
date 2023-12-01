@@ -2,6 +2,8 @@
 
 42/H. § (1) Amennyiben a magyar illetékes hatóság és a többi érintett állam illetékes hatósága is elfogadja a panaszt, akkor a vitás kérdést kölcsönös egyeztető eljárás útján rendezheti a magyar illetékes hatóság és a többi érintett állam illetékes hatósága.
 
+(1a) A kölcsönös egyeztető eljárásra nyitva álló határidő az érintett államok illetékes hatóságainak panasz elfogadását tartalmazó döntéseire vonatkozó értesítések közül a legkésőbbi időpontjától számított két év. A határidő indokolt esetben egy évvel meghosszabbítható.
+
 (2) Ha az érintett államok illetékes hatóságai megállapodásra jutottak a vitás kérdés rendezésének módjáról, akkor erről a magyar illetékes hatóság a kölcsönös megállapodás időpontját követően soron kívül határozattal értesíti az érintett személyt.
 
 (3) A kölcsönös megállapodás alapján hozott határozat akkor válik véglegessé, és a magyar illetékes hatóságra, valamint az adóhatóságra kötelezővé, ha az érintett személy az érintett államok illetékes hatóságai kölcsönös megállapodásában foglalt határidőn belül

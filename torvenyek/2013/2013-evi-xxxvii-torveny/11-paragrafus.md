@@ -8,7 +8,7 @@ c) elektronikus hírközlési eszközök alkalmazásával részt vehet a megkere
 
 (2) A megkeresett hatóság az (1) bekezdésben meghatározott megkeresés beérkezésétől számított 60 napon belül visszajelzést küld a megkeresett hatóságnak a megkeresés teljesítéséről vagy a megkeresést indokolással elutasítja.
 
-(3) A magyar megkeresett hatóság magyarországi eljárása során a megkereső hatóság tisztviselője természetes személyt nem nyilatkoztathat, és nyilvántartást nem vizsgálhat meg. A megkereső hatóság tisztviselője e cselekmények elvégzésére tett indítványait a megkeresett magyar hatóság a közigazgatási vizsgálat eredményes elvégzése érdekében figyelembe veszi és azokat indokolt esetben saját intézkedésként végrehajtja.
+(3) A megkereső hatóság tisztviselője a magyar megkeresett hatóság magyarországi eljárása során, a közigazgatási vizsgálat eredményes elvégzése érdekében, indokolt esetben jogosult természetes személyt nyilatkozattételre felhívni és nyilvántartást megvizsgálni.
 
 (4) A magyar megkeresett hatóság az olyan okiratokról, amelyekhez a magyarországi közigazgatási vizsgálat során a magyar megkeresett hatóság tisztviselői hozzáférhetnek, a megkereső hatóság tisztviselője részére kérelemre másolatot ad.
 

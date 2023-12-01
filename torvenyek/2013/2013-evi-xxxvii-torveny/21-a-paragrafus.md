@@ -2,7 +2,7 @@
 
 ## A PLATFORMÜZEMELTETŐKET ÉRINTŐ ADATSZOLGÁLTATÁS, ÁTVILÁGÍTÁS ÉS AUTOMATIKUS INFORMÁCIÓCSERE EGYES SZABÁLYAIRÓL
 
-21/A. § (1) Az 5. melléklet I/A/4. pontjában meghatározott, Magyarországon adóügyi illetőséggel rendelkező, továbbá I/A/4. pont a) alpontjában szereplő feltételek egyikének megfelelő, Magyarországot választó, valamint az 5. melléklet I/A/4. pont b) alpontjában meghatározott, Magyarországot választó Adatszolgáltatásra kötelezett platformüzemeltető – e minőségét az annak keletkezését követő 15 napon belül a (6) bekezdésben meghatározott adattartalommal bejelenti az állami adó- és vámhatóságnak.
+21/A. § (1) Az 5. melléklet I/A/4. pont a) alpontjában meghatározott feltételek egyikének megfelelő, valamint az 5. melléklet I/A/4. pont b) alpontjában meghatározott, Magyarországot választó Adatszolgáltatásra kötelezett platformüzemeltető e minőségét az annak keletkezését követő 15 napon belül a (6) bekezdésben meghatározott adattartalommal bejelenti az állami adó- és vámhatóságnak.
 
 (2) Az 5. melléklet I/A/4. pont a) alpontjában szereplő feltételek egyikének megfelelő Adatszolgáltatásra kötelezett platformüzemeltető az 5. melléklet III. pontjában meghatározott adatszolgáltatási kötelezettségét választása szerint Magyarországon teljesíti.
 

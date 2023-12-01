@@ -2,7 +2,7 @@
 
 (2) Ha az Adatszolgáltatásra kötelezett platformüzemeltetőnek az (1) bekezdés alapján nem keletkezik adatszolgáltatási kötelezettsége, erről a tényről az azonosító adatainak feltüntetésével az (1) bekezdésben foglaltaknak megfelelő határidőben bejelentést tesz az állami adó- és vámhatósághoz.
 
-(3) Az állami adó- és vámhatóság automatikus információcsere keretében az Adatszolgáltatási időszak utolsó napját követő két hónapon belül közli az Európai Unió tagállamának hatáskörrel rendelkező hatóságával a Jelentendő értékesítőkre vonatkozóan a (4) és (5) bekezdésben meghatározott információkat.
+(3) Az állami adó- és vámhatóság automatikus információcsere keretében az Adatszolgáltatási időszak utolsó napját követő két hónapon belül közli az Európai Unió azon tagállamának hatáskörrel rendelkező hatóságával, amelyben a Jelentendő értékesítő az 5. melléklet II/D. pontja szerinti illetőséggel rendelkezik, valamint – ingatlan-bérbeadási szolgáltatás nyújtása esetén – az ingatlan helye szerinti tagállam hatáskörrel rendelkező hatóságával a Jelentendő értékesítőkre vonatkozóan a (4) és (5) bekezdésben meghatározott információkat.
 
 (4) A (3) bekezdés szerinti információk a következők:
 
@@ -12,7 +12,7 @@ b) a magánszemély Jelentendő értékesítő családi neve és utóneve, valam
 
 c) a magánszemély vagy a Szervezet Értékesítő Elsődleges címe;
 
-d) a Jelentendő értékesítő tagállamonként kiadott bármely Adóazonosító száma, illetve ennek hiányában a magánszemélynek minősülő Jelentendő értékesítő születési helye;
+d) a Jelentendő értékesítő tagállamonként kiadott bármely Adóazonosító száma az adószámot kiadó tagállam megnevezésével, illetve ennek hiányában a magánszemélynek minősülő Jelentendő értékesítő születési helye;
 
 e) a Szervezetnek minősülő Jelentendő értékesítő cégnyilvántartási száma;
 

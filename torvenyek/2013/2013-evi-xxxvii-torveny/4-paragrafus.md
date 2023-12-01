@@ -2,7 +2,7 @@
 
 4. § (1) E törvény alkalmazásában:
 
-1. adómegállapítási jogsegély: az 5. § (1) bekezdésben meghatározott adókkal kapcsolatos tagállami jogszabályok végrehajtása szempontjából előreláthatólag releváns információk cseréje céljából folytatott közigazgatási együttműködés az Európai Unió tagállamainak hatáskörrel rendelkező hatóságai között;
+1. adómegállapítási jogsegély: az 5. § (1) bekezdésben meghatározott adókkal kapcsolatos tagállami jogszabályok végrehajtása szempontjából előreláthatólag releváns információk cseréje céljából folytatott közigazgatási együttműködés az Európai Unió tagállamainak, vagy más államoknak hatáskörrel rendelkező hatóságai között;
 
 2. behajtási jogsegély: az információkérés, a kézbesítés, a behajtás és a biztosítási intézkedés iránti megkereséssel kapcsolatos, 22–41. §-ban szabályozott eljárás;
 
@@ -228,7 +228,7 @@ bc) az üzleti évben foglalkoztatottak átlagos létszáma: 250;
 
 2. vitás kérdés: az adóegyezmények értelmezéséből és alkalmazásából eredő vitákhoz vezető ügy;
 
-3. érintett személy: a vitás kérdésben alkalmazandó adóegyezmény alapján magyar belföldi illetőségű személy – a természetes személyt is ideértve –, akinek vagy amelynek adóztatására a vitás kérdés közvetlen hatással van;
+3. érintett személy: a vitás kérdésben alkalmazandó adóegyezményben részes valamely államban belföldi adóügyi illetőségű személy – a természetes személyt is ideértve –, akinek vagy amelynek adóztatására a vitás kérdés közvetlen hatással van;
 
 4. érintett állam: vitás kérdésben érintett állam.
 

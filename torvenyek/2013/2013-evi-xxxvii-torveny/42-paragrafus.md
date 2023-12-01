@@ -4,6 +4,8 @@
 
 42. § (1) E fejezet rendelkezéseit – a Választottbírósági Egyezmény eltérő rendelkezése hiányában – az érintett személy választása alapján a Választottbírósági Egyezmény szerinti eljárásokra kell alkalmazni. A Választottbírósági Egyezmény szerinti eljárásban az adópolitikáért felelős miniszter (a továbbiakban: illetékes hatóság) jár el.
 
+(1a) A magyar illetékes hatóság döntése ellen nincs helye fellebbezésnek.
+
 (2) Vitás kérdés rendezésére irányuló kérelmet (a továbbiakban: panasz) terjeszthet elő a magyar illetékes hatóság részére a magyar belföldi adóügyi illetőségű érintett személy, illetve a külföldi illetékes hatóság a külföldi adóügyi illetőségű érintett személy kérelme alapján.
 
 (3) A panasz benyújtására a 42/B. § (3)–(5) bekezdésben foglalt rendelkezéseket kell alkalmazni, azzal az eltéréssel, hogy az illetékes hatóságnak az érintett személy, illetve a külföldi illetékes hatóság részére történő visszaigazolás, tájékoztatás megküldésére egy hónapos határidő az irányadó.
@@ -18,7 +20,7 @@
 
 (8) Amennyiben a magyar illetékes hatóság és a többi érintett állam illetékes hatósága is elfogadja a panaszt, akkor a vitás kérdést kölcsönös egyeztető eljárás útján rendezheti a magyar illetékes hatóság és a többi érintett állam illetékes hatósága.
 
-(9) A Választottbírósági Egyezmény 7. cikk (1) bekezdése szerinti kétéves időszak kezdőnapja az a nap, amikor a panasz tartalma a (4) bekezdésben előírt tartalomnak további hiánypótlás nélkül megfelel. A kölcsönös egyeztető eljárás lefolytatására és a kölcsönös megállapodás végrehajtására a 42/H. § (2)–(9) bekezdésében foglalt rendelkezéseket kell alkalmazni.
+(9) A Választottbírósági Egyezmény 7. cikk (1) bekezdése szerinti kétéves időszak kezdőnapja az a nap, amikor a panasz tartalma a (4) bekezdésben előírt tartalomnak további hiánypótlás nélkül megfelel. A kölcsönös egyeztető eljárás lefolytatására és a kölcsönös megállapodás végrehajtására a 42/H. § (2)–(10) bekezdésében foglalt rendelkezéseket kell alkalmazni.
 
 (10) A nemzeti eljárásokkal való kölcsönhatások és az azoktól való eltérések tekintetében 42/I. §-ban foglalt rendelkezéseket kell alkalmazni.
 

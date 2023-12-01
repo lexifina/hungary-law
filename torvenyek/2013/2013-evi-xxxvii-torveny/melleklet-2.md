@@ -570,7 +570,7 @@
 
 ## 1. Jelentendő Pénzügyi Számla: olyan Pénzügyi Számla, amelyet a Jelentő Magyar Pénzügyi Intézmény vezet, és tulajdonosa egy vagy több Jelentendő Személy, vagy olyan Passzív Nem Pénzügyi Jogalany, amelyben egy vagy több Ellenőrzést gyakorló személy egyúttal Jelentendő Személy is, feltéve, hogy a számla e melléklet II–VII. pontjában meghatározott átvilágítási eljárások eredményeként Jelentendő Pénzügyi Számlának minősül.
 
-## 2. Jelentendő Személy: olyan, tagállamban vagy más államban illetőséggel bíró személy, aki vagy amely nem minősül az alábbiaknak:
+## 2. Jelentendő Személy: olyan, tagállamban, más államban vagy joghatósággal rendelkező területen illetőséggel bíró személy, aki vagy amely nem minősül az alábbiaknak:
 
 ## a) olyan vállalat, amely részvényeivel egy vagy több szabályozott értékpapír-piacon rendszeresen kereskednek;
 

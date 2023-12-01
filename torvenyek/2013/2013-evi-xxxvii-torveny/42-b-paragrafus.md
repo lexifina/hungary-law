@@ -2,6 +2,8 @@
 
 42/B. § (1) A kölcsönös egyeztető eljárásban az adópolitikáért felelős miniszter jár el (a továbbiakban: magyar illetékes hatóság).
 
+(1a) A magyar illetékes hatóság döntése ellen nincs helye fellebbezésnek.
+
 (2) A vitás kérdés rendezésére irányuló kérelmet (a továbbiakban: panaszt) terjeszthet elő a magyar illetékes hatóság részére
 
 a) a magyar belföldi adóügyi illetőségű érintett személy (a továbbiakban: belföldi érintett személy), valamint

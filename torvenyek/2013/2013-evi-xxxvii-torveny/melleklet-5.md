@@ -298,7 +298,7 @@ A Platformüzemeltetőkkel kapcsolatos átvilágítási és adatszolgáltatási 
 
 ## Az Adatszolgáltatásra kötelezett platformüzemeltető a következő információt jelenti be az állami adó- és vámhatósághoz:
 
-## 1. Az Adatszolgáltatásra kötelezett platformüzemeltető neve, bejegyzett székhelyének címe, Adóazonosító száma és a IV/F/4. pont szerint hozzárendelt egyedi azonosító száma, továbbá a platform(ok) neve(i), amely(ek)re vonatkozóan az Adatszolgáltatásra kötelezett platformüzemeltető adatot szolgáltat.
+## 1. Az Adatszolgáltatásra kötelezett platformüzemeltető neve, bejegyzett székhelyének címe, Adóazonosító száma és az e törvény 21/A. § (5) bekezdése szerint hozzárendelt egyedi azonosító száma, továbbá a platform(ok) neve(i), amely(ek)re vonatkozóan az Adatszolgáltatásra kötelezett platformüzemeltető adatot szolgáltat.
 
 ## 2. Az ingatlan-bérbeadástól eltérő Érintett tevékenységet folytató Jelentendő értékesítő esetében:
 
