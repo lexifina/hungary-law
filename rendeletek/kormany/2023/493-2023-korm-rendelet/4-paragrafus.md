@@ -1,1 +1,0 @@
-4. § Az e rendelet eltérő szabályainak alkalmazásán alapuló intézkedéseken túlmenően az állampolgárok alapvető jogai – a 240/2023. (VI. 20.) Korm. rendelet hatálya alá tartozók, illetve a közigazgatási tevékenységet ellátók kivételével – a Vbö. 7. § (2) bekezdése alapján nem korlátozhatók.
