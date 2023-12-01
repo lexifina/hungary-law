@@ -8,7 +8,7 @@
 
 (4) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy a 268. § (1) bekezdés 17. pontja szerinti bejelentési és nyilvántartásba vételi eljárásért, a nyilvántartásban szereplő adatok módosításával, a hatósági igazolvány pótlásával, cseréjével összefüggő eljárásért, a nyilvántartásból való törlésért, valamint a továbbképzési programok szervezésére és lebonyolítására jelentkező szervezetek kreditpont-minősítési eljárásáért, továbbá a tevékenységek határon átnyúló jelleggel történő megkezdésének és folytatásának bejelentésével összefüggő eljárásért fizetendő igazgatási szolgáltatási díj mértékét és a díj megfizetésének részletes szabályait rendeletben állapítsa meg.
 
-(5) Felhatalmazást kap az adópolitikáért felelős miniszter arra, hogy az online pénztárgép éves felülvizsgálatának részletes szabályait rendeletben állapítsa meg.
+(5) Felhatalmazást kap az adópolitikáért felelős miniszter arra, hogy a pénztárgép éves felülvizsgálatának részletes szabályait rendeletben állapítsa meg.
 
 (6) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy az üzemeltető részére nyújtott, az Áfa tv. szerinti, a nyugtaadási kötelezettség pénztárgéppel, e-pénztárgéppel történő megvalósítása esetén kötelező, közvetlen adatlekérdezéssel megvalósított adatszolgáltatást biztosító valamennyi szolgáltatás hatósági árát és a hatósági árszabályozás részletes szabályait rendeletben állapítsa meg.
 

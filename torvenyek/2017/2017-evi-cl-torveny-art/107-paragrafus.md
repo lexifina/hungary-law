@@ -12,7 +12,7 @@ d) az üzemeltetésnek az adózó érdekkörén kívül eső okból bekövetkeze
 
 e) haladéktalanul, a jogszabályban meghatározott adattartalomban bekövetkezett bármely változást.
 
-(2) Az automataberendezéseket automata felügyeleti egységgel (a továbbiakban: AFE) kell ellátni, amely önállóan elkülöníthető zárt, elektronikus adattárolást és adatkommunikációt végez. Az AFE-ben tárolt adatokról az adózó rendszeresen adatszolgáltatást teljesít az állami adó- és vámhatóság részére, amely adatokat az állami adó- és vámhatóság kizárólag az e törvény szerinti adózók ellenőrzéséhez, ellenőrzésre történő kiválasztásához, törvényben meghatározott feladatai ellátásához használhatja fel az adó megállapításához való jog elévülési idején belül.
+(2) Az automataberendezéseket AFE-val kell ellátni, amely önállóan elkülöníthető zárt, elektronikus adattárolást és adatkommunikációt végez. Az AFE-ben tárolt adatokról az adózó rendszeresen adatszolgáltatást teljesít az állami adó- és vámhatóság részére, amely adatokat az állami adó- és vámhatóság kizárólag az e törvény szerinti adózók ellenőrzéséhez, ellenőrzésre történő kiválasztásához, törvényben meghatározott feladatai ellátásához használhatja fel az adó megállapításához való jog elévülési idején belül.
 
 (3) Az automataberendezések működését az állami adó- és vámhatóság hírközlő eszköz és rendszer útján felügyeli.
 
@@ -20,7 +20,7 @@ e) haladéktalanul, a jogszabályban meghatározott adattartalomban bekövetkeze
 
 (5) A felügyeleti szolgáltatói tevékenység hatósági engedélyhez kötött tevékenység. A felügyeleti szolgáltatói tevékenységre vonatkozó rendelkezéseket a határon átnyúló szolgáltatásnyújtás esetén is alkalmazni kell.
 
-(6) A felügyeleti szolgáltatói engedélyezési eljárás tekintetében a mérésügyi feladatkörében eljáró Budapest Főváros Kormányhivatala (a továbbiakban: engedélyező hatóság) jár el.
+(6) A felügyeleti szolgáltatói engedélyezési eljárás tekintetében a mérésügyi feladatkörében eljáró Budapest Főváros Kormányhivatala (e § alkalmazásában a továbbiakban: engedélyező hatóság) jár el.
 
 (7) A (2) és (3) bekezdésben meghatározott kötelezettség teljesítéséhez szükséges feltételek folyamatos biztosítása érdekében a Kormány rendeletében ideiglenes jelleggel – legfeljebb 2 éves időtartamban – menedékes felügyeleti szolgáltatót jelölhet ki a jogszabály szerinti felügyeleti szolgáltatói feladatok ellátására, ha az engedélyező hatóság arról tájékoztatja, hogy a felügyeleti szolgáltatói engedély kiadására nem került sor.
 

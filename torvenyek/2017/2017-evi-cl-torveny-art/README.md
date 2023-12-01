@@ -49,3 +49,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-150-00-00
 | 2023-09-28 | 2023. évi LXI. törvény | 2017-150-00-00.47 |
 | 2023-10-12 | 2023. évi LIX. törvény | 2017-150-00-00.43 |
 | 2023-11-01 | 2023. évi LIX. törvény | 2017-150-00-00.44 |
+| 2023-12-01 | 2023. évi LXXXIII. törvény | 2017-150-00-00.49 |

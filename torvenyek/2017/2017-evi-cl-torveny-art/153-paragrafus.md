@@ -6,7 +6,7 @@ a) legalább három éve folyamatosan működik, vagy legalább három éve áfa
 
 b) a tárgyévben és az azt megelőző öt évben az állami adó- és vámhatóság által az adózó terhére megállapított összes adókülönbözet nem haladta meg az adózó tárgyévre megállapított adóteljesítményének három százalékát, azzal, hogy az adózó terhére megállapított összes adókülönbözetet csökkenteni kell a tárgyévben és az azt megelőző öt évben az állami adó- és vámhatóság által az adózó javára megállapított összes adókülönbözettel,
 
-c) a tárgyévben és az azt megelőző négy évben az állami adó- és vámhatóság nem indított ellene adótartozás behajtására irányuló végrehajtási eljárást, továbbá az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény 29. § (1) bekezdés 6–21. pontján alapuló, megkeresésenként százezer forintot meghaladó összegre irányuló végrehajtást.
+c) a tárgyévben és az azt megelőző négy évben az állami adó- és vámhatóság nem indított ellene adótartozás behajtására irányuló végrehajtási eljárást, továbbá az Avt. 29. § (1) bekezdés 6–21. pontján alapuló, megkeresésenként százezer forintot meghaladó összegre irányuló végrehajtást.
 
 d) a tárgyévben és az azt megelőző öt évben nem állt és nem áll csőd-, felszámolási, illetve kényszertörlési eljárás alatt,
 

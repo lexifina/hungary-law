@@ -76,7 +76,7 @@ k) az élelmiszerlánc-felügyeleti szervet a felügyeleti díj bevallásának �
 
 l) a Gazdasági Versenyhivatalt, ha a tájékoztatás törvényben meghatározott feladata ellátásához szükséges;
 
-m) az online pénztárgép forgalmazót, valamint a mobilszolgáltatót, ha a tájékoztatás az online pénztárgép és az állami adó- és vámhatóság szervere közötti kommunikáció fenntartásával, a pénztárgép által történő adatszolgáltatás küldésének biztosításával összefüggő, jogszabályban előírt kötelezettség teljesítéséhez szükséges;
+m) a pénztárgép forgalmazót, valamint a mobilszolgáltatót, ha a tájékoztatás a pénztárgép és az állami adó- és vámhatóság szervere közötti kommunikáció fenntartásával, a pénztárgép által történő adatszolgáltatás küldésének biztosításával összefüggő, jogszabályban előírt kötelezettség teljesítéséhez szükséges;
 
 n) a közbeszerzési hatóságot, ha a tájékoztatás a törvényben meghatározott feladata ellátásához szükséges.
 

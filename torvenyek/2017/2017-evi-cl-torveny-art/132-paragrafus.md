@@ -26,13 +26,13 @@ e) a tízmillió eurónak megfelelő forintösszeget meghaladó, de a harmincmil
 
 f) a harmincmillió eurónak megfelelő forintösszeget meghaladó mértékű támogatástartalom.
 
-(4) Az állami adó- és vámhatóság adatot szolgáltat az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére az Európai Unió Működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdészeti ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló 2014. június 25-ei 702/2014/EU bizottsági rendelet (a továbbiakban: 702/2014/EU bizottsági rendelet) hatálya alá tartozó, az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdése szerinti állami támogatás igénybevételéről a 702/2014/EU bizottsági rendelet 9. cikke szerinti közzététel céljából, feltéve, hogy az adózó által érvényesített elsődleges mezőgazdasági termeléssel foglalkozó kedvezményezettek esetében a kedvezmény összege jogcímenként a hatvanezer eurónak megfelelő forintösszeget, a mezőgazdasági termékek feldolgozásával vagy mezőgazdasági termékek forgalmazásával foglalkozó, az erdészeti ágazatban működő vagy az Európai Unió működéséről szóló Szerződés 42. cikkének hatályán kívül eső tevékenységet folytató kedvezményezettek esetében az ötszázezer eurónak megfelelő forintösszeget meghaladja.
+(4) Az állami adó- és vámhatóság adatot szolgáltat az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére az Európai Unió Működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdőalapú ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló 2022. december 14-i (EU) 2022/2472 bizottsági rendelet [a továbbiakban: (EU) 2022/2472 bizottsági rendelet] hatálya alá tartozó, az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdése szerinti állami támogatás igénybevételéről az (EU) 2022/2472 bizottsági rendelet 9. cikke szerinti közzététel céljából, feltéve, hogy az adózó által érvényesített elsődleges mezőgazdasági termeléssel foglalkozó kedvezményezettek esetében a kedvezmény összege jogcímenként a tízezer eurónak megfelelő forintösszeget, a mezőgazdasági termékek feldolgozásával vagy mezőgazdasági termékek forgalmazásával foglalkozó, az erdészeti ágazatban működő vagy az Európai Unió működéséről szóló Szerződés 42. cikkének hatályán kívül eső tevékenységet folytató kedvezményezettek esetében a százezer eurónak megfelelő forintösszeget meghaladja.
 
 (5) A (4) bekezdés szerinti adatszolgáltatást havi gyakoriságú adóbevallás benyújtására kötelezett adózók esetén az adóévet követő év március tizenötödikéig, éves adóbevallás benyújtására kötelezett adózók esetén a bevallás benyújtásának határidejét követő szeptember tizenötödikéig kell teljesíteni az alábbi adatokról:
 
 a) az adózó neve, székhelye, adószáma,
 
-b) az adózónak a 702/2014/EU bizottsági rendelet I. melléklete szerinti típusa, ha ez az adat rendelkezésre áll,
+b) az adózónak a 2022/2472/EU bizottsági rendelet I. melléklete szerinti típusa, ha ez az adat rendelkezésre áll,
 
 c) az adózó főtevékenysége a mindenkor hatályos TEÁOR-nómenklatúra szerint, egyéni vállalkozó esetén ÖVTJ-kódok szerint,
 
@@ -54,13 +54,13 @@ f) a tízmillió eurónak megfelelő forintösszeget meghaladó, de a harmincmil
 
 g) a harmincmillió eurónak megfelelő forintösszeget meghaladó mértékű támogatástartalom.
 
-(7) Az állami adó- és vámhatóság adatot szolgáltat az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére az Európai Unió működéséről szóló szerződés 107. és 108. cikke alkalmazásában a halászati és akvakultúra-termékek előállításával, feldolgozásával és forgalmazásával foglalkozó vállalkozások számára nyújtott támogatások bizonyos fajtáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló 2014. december 16-i 1388/2014/EU bizottsági rendelet (a továbbiakban: 1388/2014/EU bizottsági rendelet) hatálya alá tartozó, az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdése szerinti állami támogatás igénybevételéről a 1388/2014/EU bizottsági rendelet 9. cikke szerinti közzététel céljából, feltéve, hogy az adózó által érvényesített kedvezmény összege jogcímenként a harmincezer eurónak megfelelő forintösszeget meghaladja.
+(7) Az állami adó- és vámhatóság adatot szolgáltat az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére az Európai Unió működéséről szóló szerződés 107. és 108. cikke alkalmazásában a halászati és akvakultúra-termékek előállításával, feldolgozásával és forgalmazásával foglalkozó vállalkozások számára nyújtott támogatások bizonyos fajtáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló 2022. december 14-i (EU) 2022/2473 bizottsági rendelet [a továbbiakban: (EU) 2022/2473 bizottsági rendelet] hatálya alá tartozó, az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdése szerinti állami támogatás igénybevételéről az (EU) 2022/2473 bizottsági rendelet 9. cikke szerinti közzététel céljából, feltéve, hogy az adózó által érvényesített kedvezmény összege jogcímenként a tízezer eurónak megfelelő forintösszeget meghaladja.
 
 (8) A (7) bekezdés szerinti adatszolgáltatást havi gyakoriságú adóbevallás benyújtására kötelezett adózók esetén az adóévet követő év március tizenötödikéig, éves adóbevallás benyújtására kötelezett adózók esetén a bevallás benyújtásának határidejét követő szeptember tizenötödikéig kell teljesíteni az alábbi adatokról:
 
 a) az adózó neve, székhelye, adószáma,
 
-b) az adózónak a 1388/2014/EU bizottsági rendelet I. melléklete szerinti típusa, ha ez az adat rendelkezésre áll,
+b) az adózónak a 2022/2473/EU bizottsági rendelet I. melléklete szerinti típusa, ha ez az adat rendelkezésre áll,
 
 c) az adózó főtevékenysége a mindenkor hatályos TEÁOR-nómenklatúra szerint, egyéni vállalkozó esetén ÖVTJ-kódok szerint,
 
