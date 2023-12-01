@@ -92,7 +92,7 @@ Orvosi radioaktív izotópok
 
 |
 
-Speciális gyógyászati célra szánt tápszerek (élelmiszerek), valamint anyatej-helyettesítő és anyatej-kiegészítő tápszerek (élelmiszerek),
+Külön jogszabályban meghatározott speciális gyógyászati célra szánt tápszerek (élelmiszerek), valamint anyatej-helyettesítő és anyatej-kiegészítő tápszerek (élelmiszerek)
 
 |
 
@@ -101,6 +101,10 @@ Speciális gyógyászati célra szánt tápszerek (élelmiszerek), valamint anya
 2106 90 92-ből
 
 2106 90 98-ból
+
+2202 99-ből
+
+3004 50 00-ból
 
 |
 

@@ -281,3 +281,285 @@ Szőlőtörköly
 2308 00 11
 
 2308 0019
+
+B. pont
+
+|
+
+Sorszám
+
+|
+
+Megnevezés
+
+|
+
+vtsz.
+
+|
+
+1.
+
+|
+
+Ló, szarvasmarha, sertés, juh, kecske, baromfi és más élő állat (a sportló, versenyló, kutya, macska, díszállat, laboratóriumi és állatkerti állat kivételével)
+
+|
+
+0101-től 0105-ig,
+
+0106-ból
+
+|
+
+2.
+
+|
+
+Halak (csak az édesvízi halak, halikra), rákok, puhatestű és más gerinctelen víziállatok
+
+|
+
+0301-ből, 0302-ből,
+
+0306 19 10,
+
+0307-ből, 0307 60,
+
+0307 91-ből
+
+|
+
+3.
+
+|
+
+Nyers tej
+
+|
+
+0401-ből
+
+|
+
+4.
+
+|
+
+Friss tojás
+
+|
+
+0407-ből
+
+|
+
+5.
+
+|
+
+Természetes méz
+
+|
+
+0409
+
+|
+
+6.
+
+|
+
+Máshol nem említett állati eredetű termékek (szőr, háziállatok spermája, propolisz, méhpempő, virágpor, méhviasz, méhpempővel dúsított méz)
+
+|
+
+0502, 0503, 0505,
+
+0511-ből,
+
+1301 90ből,
+
+0410-ből,
+
+1212 99-ből,
+
+1521 90-ből,
+
+2106 90 98-ból
+
+|
+
+7.
+
+|
+
+Állati vagy növényi trágya
+
+|
+
+3101
+
+|
+
+8.
+
+|
+
+Nyers szőrme
+
+|
+
+4301-ből
+
+|
+
+9.
+
+|
+
+Legombolyításra alkalmas selyemhernyógubó
+
+|
+
+5001
+
+|
+
+10.
+
+|
+
+Nyers gyapjú
+
+|
+
+5101-ből
+
+|
+
+11.
+
+|
+
+Erdei fák és cserjék csemetéje, oltványa
+
+|
+
+0602-ből
+
+|
+
+12.
+
+|
+
+Erdei fák és cserjék magja
+
+|
+
+1209 99-ből
+
+|
+
+13.
+
+|
+
+Feldolgozott tej és tejtermékek
+
+|
+
+0401-ből,
+
+0402-től 0406-ig
+
+II. RÉSZ: SZOLGÁLTATÁSOK
+
+|
+
+Sor- szám
+
+|
+
+Megnevezés
+
+|
+
+1.
+
+|
+
+Talajművelés, aratás, cséplés, préselés, szüretelés, betakarítás, vetés és ültetés
+
+|
+
+2.
+
+|
+
+Mezőgazdasági termékek csomagolása és piacra történő előkészítése, mint például mezőgazdasági termékek szárítása, tisztítása, aprítása, fertőtlenítése és silózása
+
+|
+
+3.
+
+|
+
+Mezőgazdasági termékek tárolása
+
+|
+
+4.
+
+|
+
+Ló, szarvasmarha, sertés, juh, kecske, baromfi és más élő állat (a sportló, versenyló, kutya, macska, díszállat, laboratóriumi és állatkerti állat kivételével) gondozása, tenyésztése és hízlalása
+
+|
+
+5.
+
+|
+
+Mezőgazdasági, erdőgazdálkodási vagy halgazdasági vállalkozásokban alkalmazott eszközök mezőgazdasági célokra történő bérbeadása
+
+|
+
+6.
+
+|
+
+Műszaki segítségnyújtás
+
+|
+
+7.
+
+|
+
+Gyomirtás és mezőgazdasági kártevők irtása, növények és földek permetezése
+
+|
+
+8.
+
+|
+
+Mezőgazdasági, erdőgazdálkodási öntöző berendezések üzemeltetése
+
+|
+
+9.
+
+|
+
+Vízlecsapoló berendezések üzemeltetése
+
+|
+
+10.
+
+|
+
+Fák nyesése és kivágása, valamint egyéb mező- és erdőgazdálkodási szolgáltatások
