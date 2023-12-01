@@ -70,7 +70,7 @@
 
 10. Kezdő mezőgazdasági őstermelő: az a személy, aki a tárgyévet megelőző évben nem minősült mezőgazdasági őstermelőnek.
 
-11. Kiegészítő tevékenységet folytató személy: a 6. § szerinti biztosítási kötelezettség alá eső jogviszonyban kereső tevékenységet folytató saját jogú nyugdíjas személy, továbbá az az özvegyi nyugdíjban részesülő személy, aki a reá irányadó nyugdíjkorhatárt betöltötte és egyéni vagy társas vállalkozónak minősül, akkor is, ha a saját jogú vagy a hozzátartozói nyugellátás folyósítása szünetel.
+11. Kiegészítő tevékenységet folytató személy: a 6. § szerinti biztosítási kötelezettség alá eső jogviszonyban kereső tevékenységet folytató saját jogú nyugdíjas személy, továbbá az az özvegyi nyugdíjban részesülő személy, aki a reá irányadó nyugdíjkorhatárt betöltötte és egyéni vagy társas vállalkozónak vagy mezőgazdasági őstermelőnek minősül, akkor is, ha a saját jogú vagy a hozzátartozói nyugellátás folyósítása szünetel.
 
 12. Külföldi: az a természetes személy, aki nem minősül belföldinek.
 

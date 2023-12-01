@@ -30,7 +30,7 @@ ha) az őstermelők családi gazdaságának kiskorú tagját,
 
 hb) az egyéb jogcímen – ide nem értve a f) pont és a (2) bekezdés szerint – biztosítottat,
 
-hc) a saját jogú nyugdíjast és az özvegyi nyugdíjban részesülő személyt, aki az öregségi nyugdíjkorhatárt betöltötte,
+hc)
 
 i) a kisadózó vállalkozók tételes adójáról szóló törvényben meghatározottak szerint bejelentett személy;
 
