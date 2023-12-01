@@ -4,6 +4,8 @@
 
 (2) A jogviszony megszüntetésekor, illetve megszűnésekor az utolsó munkában töltött napon, de legkésőbb tizenöt napon belül, a foglalkoztatott részére ki kell fizetni az illetményét, egyéb járandóságait, valamint ki kell adni a jogviszonyra vonatkozó szabályban és egyéb jogszabályokban előírt igazolásokat.
 
+(2a) Ha a szolgálati jogviszonyt a foglalkoztatott a 67. § d) pontja alapján az igazgatási szünet alatt szünteti meg, a jogviszony megszüntetésével kapcsolatos munkáltatói intézkedéseket az igazgatási szünetet követő első munkanapon kell megtenni.
+
 (3) A foglalkoztatott részére a (2) bekezdés szerint kiadandó igazolás tartalmazza
 
 a) szolgálati jogviszonya megszűnésének jogcímét,
