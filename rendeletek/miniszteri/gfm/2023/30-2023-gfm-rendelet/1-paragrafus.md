@@ -1,5 +1,5 @@
 ## 1. Általános rendelkezések
 
-1. § A gazdaságfejlesztési miniszter által adományozható elismerésekről szóló 9/2023. (VI. 5.) GFM rendelet (a továbbiakban: Elismerési rendelet) 2. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
+1. §[^1]
 
-(A miniszter által adományozható díjak:)
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

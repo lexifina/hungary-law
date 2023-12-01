@@ -1,1 +1,3 @@
-3. § Az Elismerési rendelet 1. melléklet 1. pont b) alpontjában a „Magyar Belgazdaságért díj;” szövegrész helyébe a „Magyar Vállalkozói Nagydíj;” szöveg lép.
+3. §[^3]
+
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
