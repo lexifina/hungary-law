@@ -1,4 +1,4 @@
-11. § (1) A 2019. július 1. és 2023. december 31. közötti adókötelezettségre nem kell alkalmazni a 3. § (3)–(4) bekezdését, a 7. § (4)–(5) és (7) bekezdését, valamint a 7/B. §–7/E. §-t.
+11. § (1) A 2019. július 1. és 2024. december 31. közötti adókötelezettségre nem kell alkalmazni a 3. § (3)–(4) bekezdését, a 7. § (4)–(5) és (7) bekezdését, valamint a 7/B. §–7/E. §-t.
 
 (2) Az adóalany a 2019. július 1-jét magában foglaló adóév adóalapjának azon hányadára (részére) alkalmazza az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvénnyel megállapított 5/A. § szerinti adómértéket, amekkora
 
