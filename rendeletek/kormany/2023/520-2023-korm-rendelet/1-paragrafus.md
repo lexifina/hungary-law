@@ -1,1 +1,3 @@
-1. § Hatályát veszti az általános forgalmi adóról szóló 2007. évi CXXVII. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 30/2023. (II. 3.) Korm. rendelet.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
