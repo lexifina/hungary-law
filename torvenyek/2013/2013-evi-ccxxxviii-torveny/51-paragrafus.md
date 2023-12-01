@@ -4,7 +4,7 @@
 
 (2) A választópolgár és az aláírást gyűjtő polgár adatait, valamint a technikai nyilvántartást a választási szervek és a törvényszék ellenőrizhetik.
 
-(3) A szervezőknek a be nem nyújtott aláírásgyűjtő íveket a benyújtásukra rendelkezésre álló határidő lejártát követő három napon belül meg kell semmisíteniük, és erről jegyzőkönyvet kell készíteniük. A jegyzőkönyvet három napon belül a helyi választási bizottságnak át kell adni.
+(3) A szervezőknek a be nem nyújtott aláírásgyűjtő íveket a benyújtásukra rendelkezésre álló határidő lejártát követő három napon belül meg kell semmisíteniük, és erről jegyzőkönyvet kell készíteniük. A jegyzőkönyvet három napon belül a helyi választási irodának át kell adni.
 
 (4) A benyújtott aláírásgyűjtő íveket, valamint a technikai nyilvántartást a helyi választási iroda az érvényes aláírások számának megállapítását követő harmincadik és negyvenötödik nap között megsemmisíti.
 
