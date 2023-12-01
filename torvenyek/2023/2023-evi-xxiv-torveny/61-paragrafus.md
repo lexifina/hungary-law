@@ -1,1 +1,3 @@
-### 61. §
+61. § A választási eljárásról szóló 2013. évi XXXVI. törvény 331. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A közös eljárásban az Európai Parlament tagjainak választására az I–XII. Fejezetet, a XIV. Fejezetet, a XV. Fejezetet, továbbá a 244. § (2) bekezdését, a 245. § (2)–(5) bekezdését, a 247. § (1) és (3) bekezdését, a 250. § (1), (3), (4) és (6)–(8) bekezdését, a 251. §-t, a 257. § (3) bekezdését, a 257/A. §-t, a 257/B. §-t, a 258. § (1) bekezdését, a 259–263. §-t, a 266–270. §-t, a 271. § (2) bekezdését, a 272–281. §-t, a 283–285. §-t, a 288–291. §-t, a 293. §-t, valamint a 295. §-t az e fejezetben foglalt eltérésekkel kell alkalmazni.”

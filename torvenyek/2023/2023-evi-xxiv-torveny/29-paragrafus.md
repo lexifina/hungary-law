@@ -1,1 +1,3 @@
-### 29. §
+29. § A választási eljárásról szóló 2013. évi XXXVI. törvény 135. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A bejelentett és a nyilvántartásba vett jelölő szervezetek, jelöltek és listák közhiteles, elektronikus nyilvántartását – a 4. melléklet szerinti adattartalommal – a Nemzeti Választási Iroda és a nyilvántartásba vevő választási bizottság mellett működő választási iroda vezeti. A jelöltek, jelölő szervezetek adatait a Nemzeti Választási Iroda a központi névjegyzékből, a személyiadat- és lakcímnyilvántartásból, valamint a civil szervezetek bírósági nyilvántartásából veszi át.”
