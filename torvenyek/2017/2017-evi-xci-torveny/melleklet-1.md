@@ -46,6 +46,8 @@ Magyarország a Megállapodás alapján – a Megállapodásban foglalt feltéte
 
 8b. Egyesült Királyság
 
+8c. Feröer szigetek
+
 9. Gabon
 
 10. Georgia
@@ -78,11 +80,15 @@ Magyarország a Megállapodás alapján – a Megállapodásban foglalt feltéte
 
 18b. Kazahsztán
 
-18c. Kolumbia
+18c. Kenya
+
+18d. Kolumbia
 
 19. Korea
 
 20. Kínai Népköztársaság
+
+20a. Libéria
 
 21. Liechtenstein
 
@@ -102,6 +108,8 @@ Magyarország a Megállapodás alapján – a Megállapodásban foglalt feltéte
 
 25a. Monaco
 
+25b. Montserrat
+
 26. Nigéria
 
 27. Norvégia
@@ -114,9 +122,11 @@ Magyarország a Megállapodás alapján – a Megállapodásban foglalt feltéte
 
 28b. Pakisztán
 
-28c. San Marino
+28c. Pápua Új-Guinea
 
-28d. Seychelle-szigetek
+28d. San Marino
+
+28e. Seychelle-szigetek
 
 29. Peru
 
@@ -128,14 +138,16 @@ Magyarország a Megállapodás alapján – a Megállapodásban foglalt feltéte
 
 30a. Szingapúr
 
-30b. Törökország
+30b. Thaiföld
 
-30c. Turks és Caicos-szigetek
+30c. Törökország
 
-## 30c. Tunézia
+30d. Tunézia
 
-30d. Turks és Caicos-szigetek
+30e. Turks és Caicos-szigetek
 
 31. Új-Zéland
+
+31b. Ukrajna
 
 32. Uruguay
