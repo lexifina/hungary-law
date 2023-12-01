@@ -36,10 +36,14 @@ l) ha az adózónak az adóévben a Tao. tv. 7. § (1) bekezdés ny) pontja, ill
 
 m) ha az adózónak az adóévben a Tao. tv. 16/A. §-a, illetve 16/B. §-a alkalmazásával társasági adóalap módosítást kellene végrehajtania, az adóév első napját megelőző nappal.
 
+n) ha a zártkörűen működő részvénytársaság működési formája nyilvánosan működő részvénytársasággá változik, a formaváltás napját megelőző nappal.
+
 (6) Nem szűnik meg az egyéni cég adóalanyisága, ha a tag halála esetén özvegye, özvegy hiányában vagy annak egyetértésével örököse (örökösei), illetve a tag cselekvőképtelenségét vagy cselekvőképességének korlátozását kimondó bírósági határozat esetén a tag nevében és javára eljárva törvényes képviselője az egyéni cég tagjává válik, és az e törvény szerinti adóalanyiságot választja. Választását az ok bekövetkeztétől számított harminc napon belül jelenti be az állami adó- és vámhatóságnak.
 
 (7) Az adóalanyiság (5) bekezdésben meghatározott megszűnése napjával mint mérlegfordulónappal önálló üzleti év zárul. Az üzleti évről az adóalanynak az Szt. általános szabályai szerint beszámolót kell készítenie, és az elkészített beszámolót letétbe kell helyeznie, közzé kell tennie.
 
-(8) Az adóalanyiság megszűnésétől számított 24 hónapban az adóalanyiság ismételten nem választható.
+(8) Az adóalanyiság megszűnésétől számított 24 hónapban – figyelemmel a (8a) bekezdésben foglaltakra – az adóalanyiság ismételten nem választható.
+
+(8a) Amennyiben a Tao. tv. szerint kedvezményezett átalakulásnak nem minősülő, könyv szerinti értéken megvalósított egyesülés, szétválás miatt szűnt meg az adóalanyiság, az egyesüléssel, szétválással érintett adózó az egyesülés, szétválás napját követő 15 napon belül az állami adó- és vámhatósághoz megtett bejelentéssel, az adóalanyiság keletkezésére vonatkozó feltételek betartásával ismételten választhatja az adóalanyiságot. Ez esetben az adóalanyiság az egyesülés, szétválás napját követő nappal jön létre.
 
 (9) A tevékenységét év közben kezdő vállalkozás bejelentését az állami adó- és vámhatósághoz való bejelentkezéssel egyidejűleg teljesíti. Az (1) bekezdéstől eltérően a tevékenységét év közben kezdő vállalkozás adóalanyisága a létesítő okirata közokiratba foglalásának, ellenjegyzésének napján kezdődik, ha vállalkozási tevékenységét a cégnyilvántartásba történő bejegyzése előtt megkezdheti, az első jognyilatkozat megtételének napján, ha belföldi illetősége az üzletvezetés helyére tekintettel keletkezik, más esetben az állami adó- és vámhatósághoz történő bejelentkezése napjával. Amennyiben a tevékenységét év közben kezdő vállalkozás az állami adó- és vámhatósághoz való bejelentkezését nem elektronikus úton teljesíti, úgy az (1) bekezdés szerinti bejelentését is azonos formában teheti meg.
