@@ -26,7 +26,7 @@ g) az állományába tartozók részére egészségmegőrzési, egészségügyi,
 
 h) a foglalkoztatottai részére ellátja a munkavégzésükhöz szükséges képzés, továbbképzés megszervezését és lebonyolítását,
 
-i) az informatikai rendszerek és az elektronikus ügyintézés fejlesztése érdekében gazdasági társaságot működtet, amelynél a tulajdonosi jogokat a NAV elnöke gyakorolja,
+i) az informatikai rendszerek, az elektronikus ügyintézés fejlesztése érdekében, valamint az elektronikus pénztárgépek által nyújtott adatszolgáltatáshoz és az azokból származó adatok továbbításához, fogadásához, tárolásához szükséges elektronikai felület és adattár működtetéséhez gazdasági társaságot működtet, amelynél a tulajdonosi jogokat a NAV elnöke gyakorolja.
 
 j) végzi a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény rendelkezései betartásával kapcsolatos, feladatkörébe utalt ellenőrzési, hatósági felügyeleti feladatokat,
 
