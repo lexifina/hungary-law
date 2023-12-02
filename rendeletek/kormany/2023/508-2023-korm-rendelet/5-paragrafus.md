@@ -1,1 +1,3 @@
-5. § Hatályát veszti a kötelező legkisebb munkabér (minimálbér) és a garantált bérminimum megállapításáról szóló 573/2022. (XII. 23.) Korm. rendelet.
+5. §[^1]
+
+[^1]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
