@@ -1,4 +1,4 @@
-2. melléklet az 1187/2020. (IV. 28.) Korm. határozathoz[^93]
+2. melléklet az 1187/2020. (IV. 28.) Korm. határozathoz[^94]
 
 Az Országos Fogyatékosságügyi Program végrehajtásához kapcsolódó mérőszámok (indikátorok)
 
@@ -30,4 +30,4 @@ Az Országos Fogyatékosságügyi Program végrehajtásához kapcsolódó mérő
 
 | 13. | Megváltozott munkaképességű vagy fogyatékossággal élő vagy sajátos nevelési igényű személyek munkavállalásra való felkészítése és elhelyezése a nyílt munkaerőpiacon. | Megváltozott munkaképességű vagy fogyatékossággal élő vagy sajátos nevelési igényű személyek számára foglalkozási rehabilitációs szolgáltatások biztosítása. Ennek keretében az egyéni rehabilitációs tervek elkészítése, a foglalkoztathatóságot támogató kompetenciák fejlesztése, önismereti tréningek, életvezetési tanácsadás, mentorálás biztosítása, valamint a nyílt munkaerőpiacon való elhelyezés. | fő | 0 | 180 | 2023. 12. 31. | 4.1. |
 
-[^93]: A 2. mellékletet az 1522/2022. (XI. 2.) Korm. határozat 2. pontja iktatta be, szövege az 1595/2022. (XII. 1.) Korm. határozat 1. és 3. pontja szerint módosított szöveg..
+[^94]: A 2. mellékletet az 1522/2022. (XI. 2.) Korm. határozat 2. pontja iktatta be, szövege az 1595/2022. (XII. 1.) Korm. határozat 1. és 3. pontja szerint módosított szöveg..
