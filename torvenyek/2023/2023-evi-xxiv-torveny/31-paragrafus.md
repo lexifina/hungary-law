@@ -1,3 +1,1 @@
-31. § A választási eljárásról szóló 2013. évi XXXVI. törvény 137. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A jelölt kiesik, ha a magyarországi szavazás megkezdése előtt a központi névjegyzékből törlésre kerül, a választhatóság jogát elveszíti, vagy a jelöltet állító jelölő szervezetet, illetve a közös jelölt állításában részt vevő valamennyi jelölő szervezetet a szavazás megkezdése előtt törlik a jelölő szervezetek, jelöltek és listák nyilvántartásából. Kiesik továbbá a jelölt, ha a szavazást megelőző második nap 16 óráig a jelölésről – elektronikus azonosítást követően elektronikus úton, a nyilvántartásba vételről döntő választási bizottság mellett működő választási iroda részére személyesen vagy kézbesítési meghatalmazott útján benyújtott nyilatkozattal – írásban lemond. A kiesett jelöltet a jelölő szervezetek, jelöltek és listák nyilvántartásából, valamint az egyéni szavazólapokról törölni kell.”
+### 31. §
