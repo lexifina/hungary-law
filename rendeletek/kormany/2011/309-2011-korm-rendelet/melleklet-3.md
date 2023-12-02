@@ -246,11 +246,13 @@ Az IdomSoft Informatikai Zártkörűen Működő Részvénytársaság által kö
 
 122.[^79] eHR-iFORM rendszer tekintetében alkalmazás-üzemeltetés támogatási és alkalmazás-fejlesztési szolgáltatások
 
-123.[^80] a SZEÜSZ csatlakozásokat támogató alkalmazás (SZEÜSZ REG) tekintetében alkalmazás-üzemeltetés támogatási és alkalmazás-fejlesztési szolgáltatások
+123.[^80] a SZEÜSZ csatlakozásokat támogató alkalmazás (SZEÜSZ REG)
 
 124.[^81] Termék Minőségbiztosítási Rendszer (TMR)
 
 125. az orosz–ukrán háború elől Magyarországra menekülő személyek tájékoztatását támogató portál
+
+126.[^82] Nemzeti Virtuális Térhez kapcsolódó előregisztrációs szolgáltatás
 
 [^51]: A 3. mellékletet a 257/2016. (VIII. 31.) Korm. rendelet 18. § (4) bekezdése iktatta be, szövege a 81/2019. (IV. 18.) Korm. rendelet 5. § b) pontjával megállapított szöveg.
 [^52]: A 3. melléklet 1. pontja a 680/2020. (XII. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
@@ -281,5 +283,6 @@ Az IdomSoft Informatikai Zártkörűen Működő Részvénytársaság által kö
 [^77]: A 3. melléklet 120. pontját a 163/2023. (V. 8.) Korm. rendelet 23. §-a iktatta be. Alkalmazására lásd e módosító rendelet 21. §-át.
 [^78]: A 3. melléklet 121. pontját a 338/2023. (VII. 25.) Korm. rendelet 3. § (1) bekezdése iktatta be.
 [^79]: A 3. melléklet 122. pontját a 338/2023. (VII. 25.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^80]: A 3. melléklet 123. pontját a 338/2023. (VII. 25.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^80]: A 3. melléklet 123. pontját a 338/2023. (VII. 25.) Korm. rendelet 3. § (1) bekezdése iktatta be, szövege az 530/2023. (XII. 1.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.
 [^81]: A 3. melléklet 124. pontját a 338/2023. (VII. 25.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^82]: A 3. melléklet 126. pontját az 530/2023. (XII. 1.) Korm. rendelet 4. § (1) bekezdése iktatta be.
