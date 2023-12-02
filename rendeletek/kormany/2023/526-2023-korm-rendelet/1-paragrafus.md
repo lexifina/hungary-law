@@ -1,0 +1,3 @@
+1. § Az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet (a továbbiakban: R.) 4. §-a a következő (9) bekezdéssel egészül ki:
+
+„(9) A 2. mellékletbenfoglalt táblázat 115. sora szerinti beruházás esetében az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekben hirdetményi úton történő közlés esetén a döntés közlésének napja a hirdetmény kifüggesztését követő nap.”
