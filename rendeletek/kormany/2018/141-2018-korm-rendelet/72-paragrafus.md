@@ -1,4 +1,4 @@
-## 71. §[^276] E rendeletnek az egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 594/2021. (X. 27.) Korm. rendelettel (a továbbiakban: Módr63.) megállapított 2. mellékletben foglalt táblázat 76. sorát a Módr63. hatálybalépésekor[^277] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 71. §[^279] E rendeletnek az egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 594/2021. (X. 27.) Korm. rendelettel (a továbbiakban: Módr63.) megállapított 2. mellékletben foglalt táblázat 76. sorát a Módr63. hatálybalépésekor[^280] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^276]: A 71. §-t az 594/2021. (X. 27.) Korm. rendelet 4. §-a iktatta be.
-[^277]: A hatálybalépés időpontja 2021. október 28.
+[^279]: A 71. §-t az 594/2021. (X. 27.) Korm. rendelet 4. §-a iktatta be.
+[^280]: A hatálybalépés időpontja 2021. október 28.
