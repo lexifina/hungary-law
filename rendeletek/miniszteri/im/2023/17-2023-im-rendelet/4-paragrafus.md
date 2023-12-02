@@ -1,5 +1,3 @@
-4. § Az R. 7. §-a helyébe a következő rendelkezés lép:
+4. §[^5]
 
-„7. § (1) A választási iroda a személyesen, kézbesítési meghatalmazott útján, valamint levélben benyújtott kérelmet iktatja.
-
-(2) Az NVI-hez elektronikus úton vagy levélben benyújtott kérelmet az NVI iktatja.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-2. § Az R. 4. §-a helyébe a következő rendelkezés lép:
+2. §[^3]
 
-„4. § A szavazási levélcsomag átvételére kijelölt települések és külképviseletek felsorolását az 1. melléklet tartalmazza.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

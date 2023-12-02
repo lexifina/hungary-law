@@ -1,7 +1,3 @@
-8. § Hatályát veszti az R.
+8. §[^8]
 
-a) II. fejezetének címében a „KÖZPONTI” szövegrész,
-
-b) 8–15. §-a, 17. §-a, 18. §-a, 21. § (2) bekezdése és 22–24. §-a,
-
-c) 2–5. melléklete.
+[^8]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
