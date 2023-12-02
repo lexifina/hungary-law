@@ -1,5 +1,1 @@
-## „d) a Jelentendő értékesítő tagállamonként kiadott bármely Adóazonosító száma az adószámot kiadó tagállam megnevezésével, illetve ennek hiányában a magánszemélynek minősülő Jelentendő értékesítő születési helye;”
-
-175. § Az Aktv. 21/D. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az Adatszolgáltatásra kötelezett platformüzemeltető a 21/A. § (1), (3), (6) bekezdése és a 21/B. § (2) bekezdése szerinti bejelentési, változásbejelentési kötelezettségét elektronikus úton, az állami adó- és vámhatóság által erre a célra rendszeresített meghatározott formátumban, a 21/B. § (1) bekezdése szerinti adatszolgáltatási kötelezettségét elektronikus úton, az állami adó- és vámhatóság által meghatározott formátumban teljesíti az állami adó- és vámhatósághoz. Az Adatszolgáltatásra nem kötelezett platformüzemeltető a 21/A. § (8) bekezdése szerinti kérelmét elektronikus úton, az állami adó- és vámhatóság által erre a célra rendszeresített elektronikus űrlapon nyújtja be az állami adó- és vámhatósághoz.”
+### 175. §

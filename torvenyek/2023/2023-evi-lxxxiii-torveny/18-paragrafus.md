@@ -1,1 +1,1 @@
-18. § Hatályát veszti az Szja tv. 46. § (8) bekezdésében az „azzal, hogy a rendelkezés alkalmazásában elszámolt adóelőlegként a magánszemély által a befizetésre nyitva álló határidőig megszerzett bevételt terhelő adóelőleg vehető figyelembe” szövegrész.
+### 18. §

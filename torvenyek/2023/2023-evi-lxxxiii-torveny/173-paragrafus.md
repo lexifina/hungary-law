@@ -1,3 +1,1 @@
-173. § Az Aktv. 21/B. §-ának (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az állami adó- és vámhatóság automatikus információcsere keretében az Adatszolgáltatási időszak utolsó napját követő két hónapon belül közli az Európai Unió azon tagállamának hatáskörrel rendelkező hatóságával, amelyben a Jelentendő értékesítő az 5. melléklet II/D. pontja szerinti illetőséggel rendelkezik, valamint – ingatlan-bérbeadási szolgáltatás nyújtása esetén – az ingatlan helye szerinti tagállam hatáskörrel rendelkező hatóságával a Jelentendő értékesítőkre vonatkozóan a (4) és (5) bekezdésben meghatározott információkat.”
+### 173. §

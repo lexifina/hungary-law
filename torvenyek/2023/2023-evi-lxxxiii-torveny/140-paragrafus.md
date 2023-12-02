@@ -1,3 +1,1 @@
-140. § Az Avt. 70. § (8) bekezdése helyébe a következő rendelkezés lép:
-
-„(8) A (6) bekezdés szerinti kereskedő és a jelenlévő érvényes ajánlatot legalább a becsérték 35%-át elérő összegben tehet. A dolgot az szerzi meg, aki a legmagasabb összegű érvényes ajánlatot tette, azonos vételi ajánlat esetén pedig az, aki az ajánlatát korábban tette. Az árverés nyertese köteles a vételárat haladéktalanul készpénzben vagy átutalási megbízással megfizetni, vagy ha az árverés helyszínén ennek lehetősége biztosított, bankkártyával is teljesítheti. Átutalási megbízás esetén a végrehajtó az ingóság átadása iránt, csak az árverési vételárnak a végrehajtási kényszer eredményeként befizetett összegek fogadására és kezelésére elkülönített számlára történő megérkezését követően intézkedik. Ha az árverési vevő a vételárat nem fizeti meg, az adóhatóság a 103. § szerint jár el. A határozat a végrehajtási eljárásban végrehajtható okirat.”
+### 140. §

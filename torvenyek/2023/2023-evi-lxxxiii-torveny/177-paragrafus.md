@@ -1,3 +1,1 @@
-177. § Az Aktv. 41/C. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A magyar illetékes hatóság a panasz kézhezvételétől számított 3 hónapon belül kérheti az (1) bekezdés g) pontjában említett információkat magyar és angol nyelven, a hiánypótlásra nyitva álló határidő az erre irányuló felhívás kézhezvételét követő 3 hónap. A külföldi adóügyi illetőségű érintett személy panasza alapján indult eljárásban a magyar illetékes hatóság az értesítés kézhezvételétől számított 3 hónapon belül a hiányok pótlása céljából a külföldi illetékes hatóságot keresi meg, hiányos válasz esetében akár több alkalommal is. Az érintett személy a hiánypótlás egy példányát egyidejűleg megküldi a többi érintett tagállam illetékes hatóságának. További információk a kölcsönös egyeztető eljárás során több alkalommal is kérhetők.”
+### 177. §

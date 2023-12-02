@@ -1,3 +1,1 @@
-## „8.45. a juttató által reprezentációs és nem reprezentációs célú vendéglátás keretében, továbbá üzleti ajándékként vagy csekély értékű ajándékként történő juttatás céljából közvetlenül a szőlészetről és borászatról szóló 2020. évi CLXIII. törvény 9. § (1) bekezdése szerinti forgalomba hozatalt kezdeményező borászati üzemengedélyestől palackozott kiszerelésben vásárolt, oltalom alatt álló eredetmegjelöléssel ellátott borászati termék, valamint az oltalom alatt álló földrajzi jelzéssel ellátott borászati termék, azzal, hogy a juttató az ilyen célból beszerzett termékekről olyan nyilvántartást vezet, melyből megállapítható a beszerzés forrása és a termék felhasználásának módja is.”
-
 2. melléklet a 2023. évi LXXXIII. törvényhez
