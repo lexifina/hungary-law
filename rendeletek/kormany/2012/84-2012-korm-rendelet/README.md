@@ -44,3 +44,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-84-20-2
 | 2023-08-01 | 2012-84-20-22.36 | 572/2020. (XII. 9.) Korm. rendelet |
 | 2023-10-01 | 2012-84-20-22.37 | 572/2020. (XII. 9.) Korm. rendelet |
 | 2023-10-04 | 2012-84-20-22.38 | 310/2023. (VII. 14.) Korm. rendelet |
+| 2023-12-02 | 2012-84-20-22.39 | 530/2023. (XII. 1.) Korm. rendelet |

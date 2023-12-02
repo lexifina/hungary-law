@@ -2,6 +2,6 @@
 
 8. § (1) Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-(2)[^68]
+(2)[^67]
 
-[^68]: A 8. § (2) bekezdését a 2013: LXXXI. törvény 17. § (2) bekezdése hatályon kívül helyezte.
+[^67]: A 8. § (2) bekezdését a 2013: LXXXI. törvény 17. § (2) bekezdése hatályon kívül helyezte.
