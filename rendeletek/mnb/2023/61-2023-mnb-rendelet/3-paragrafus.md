@@ -1,7 +1,3 @@
-3. § (1) Hatályát veszti a Rendelet
+3. §[^4]
 
-a) 2. § (4) bekezdése,
-
-b) 5. § (2) bekezdése.
-
-(2) Hatályát veszti a Rendelet 2. § (3) bekezdésében a „ , (4)” szövegrész.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
