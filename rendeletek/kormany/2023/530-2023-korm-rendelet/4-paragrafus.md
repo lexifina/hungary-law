@@ -1,7 +1,5 @@
 ## 2. A központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló 309/2011. (XII. 23.) Korm. rendelet módosítása
 
-4. § (1) A központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló 309/2011. (XII. 23.) Korm. rendelet 3. melléklete a következő 126. sorral egészül ki:
+4. §[^2]
 
-## „126. Nemzeti Virtuális Térhez kapcsolódó előregisztrációs szolgáltatás”
-
-(2) Hatályát veszti a központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló 309/2011. (XII. 23.) Korm. rendelet 3. melléklet 123. pontjában a „tekintetében alkalmazás-üzemeltetés támogatási és alkalmazás-fejlesztési szolgáltatások” szövegrész.
+[^2]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
