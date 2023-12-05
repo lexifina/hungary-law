@@ -1,4 +1,4 @@
-5. § (1) Az élelmiszer-vállalkozó önellenőrzési együttműködési megállapodást (a továbbiakban: megállapodás) köthet a NÉBIH-hel.
+5. § (1)[^8] A kis- és mikrovállalkozás önellenőrzési együttműködési megállapodást (a továbbiakban: megállapodás) köthet a NÉBIH-hel.
 
 (2) A megállapodás önkéntes, és annak megkötését mindkét fél kezdeményezheti. A megállapodás telephelyenként vagy az élelmiszer-vállalkozás egészére köthető, és határozott időtartamra szól. A megállapodás során a NÉBIH figyelembe veszi az illetékes élelmiszerlánc-felügyeleti szerv javaslatát.
 
@@ -9,3 +9,5 @@ a) az élelmiszer-vállalkozó vállalja, hogy az önellenőrzése keretében el
 b) a NÉBIH vállalja, hogy a hatósági élelmiszerlánc-felügyeleti tevékenysége kapcsán kidolgozandó, kockázatalapú éves hatósági, ellenőrzési és mintavételi tervek elkészítésekor figyelembe veszi az a) pont alapján megküldött adatokat, amelyre tekintettel az élelmiszer-vállalkozó kockázati besorolását módosíthatja.
 
 (4) A megkötött megállapodásról a NÉBIH tájékoztatja az illetékes élelmiszerlánc-felügyeleti szervet.
+
+[^8]: Az 5. § (1) bekezdése a 61/2023. (XI. 20.) AM rendelet 4. §-ával megállapított szöveg.

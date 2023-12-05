@@ -9,3 +9,7 @@ ab) az adott élelmiszer-vállalkozás tevékenységének jellegét, sajátossá
 teljesítésének élelmiszer-vállalkozás általi ellenőrzése, önellenőrzési rendszer működtetése által;
 
 b) önellenőrzési rendszer: az önellenzési terv felállítása és az abban foglaltak végrehajtása dokumentumokkal igazolva.
+
+c)[^1] önellenőrzést végző személy: az élelmiszer-vállalkozó által megbízott, az önellenőrzésért és az önellenőrzési terv végrehajtásáért felelős természetes személy.
+
+[^1]: A 2. § c) pontját a 61/2023. (XI. 20.) AM rendelet 1. §-a iktatta be.

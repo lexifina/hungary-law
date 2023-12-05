@@ -1,6 +1,14 @@
 3. § (1) Az élelmiszer-vállalkozásnak az Éltv. 22. § (1) bekezdés b) pontjában meghatározott önellenőrzési kötelezettséget legalább az e rendeletben meghatározott módon kell teljesítenie.
 
-(2) Az élelmiszer-vállalkozásnak az önellenőrzés megvalósítása érdekében papíralapú vagy elektronikus, folyamatosan végrehajtott, megfelelően részletes önellenőrzési tervvel kell rendelkeznie. Az önellenőrzési tervnek tartalmaznia kell legalább
+(1a)[^2] Az élelmiszer-vállalkozásnak az önellenőrzés megvalósítása érdekében
+
+a) a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény 3. § (2) bekezdése szerinti kisvállalkozás, valamint 3. § (3) bekezdése szerinti mikrovállalkozás (a továbbiakban együtt: kis- és mikrovállalkozás) esetében papíralapú vagy elektronikus,
+
+b) az a) pontba nem tartozó élelmiszer-vállalkozás esetében elektronikus,
+
+folyamatosan végrehajtott, megfelelően részletes önellenőrzési tervvel kell rendelkeznie.
+
+(2)[^3] Az önellenőrzési tervnek tartalmaznia kell legalább
 
 a) az önellenőrzési terv által felölelt időszakot,
 
@@ -18,7 +26,7 @@ g) az ellenőrzési időpontot vagy gyakoriságot,
 
 h) az ellenőrzés, megfigyelés vagy mintavétel pontos helyét,
 
-i) az ellenőrzésért és az önellenőrzési terv végrehajtásáért felelős személyt.
+i)[^4] az önellenőrzést végző személy nevét.
 
 (3) Az önellenőrzési terv meghatározása során figyelembe kell venni
 
@@ -51,3 +59,9 @@ a) élelmiszer-biztonsági rendszerekben,
 b) minőségirányítási rendszerekben,
 
 c) az elfogadott nemzeti Jó Higiéniai Gyakorlatokra vonatkozó útmutatók alapján
+
+keletkezett dokumentumok megfelelnek az e rendeletben az önellenőrzési rendszerrel kapcsolatban meghatározott követelményeknek, e rendelet végrehajtása érdekében nem szükséges új dokumentációs rendszert létrehozni és működtetni.
+
+[^2]: A 3. § (1a) bekezdését a 61/2023. (XI. 20.) AM rendelet 2. § (1) bekezdése iktatta be.
+[^3]: A 3. § (2) bekezdés nyitó szövegrésze a 61/2023. (XI. 20.) AM rendelet 6. §-a szerint módosított szöveg.
+[^4]: A 3. § (2) bekezdés i) pontja a 61/2023. (XI. 20.) AM rendelet 2. § (2) bekezdésével megállapított szöveg.
