@@ -22,9 +22,9 @@
 
 ## 6. egyetért azzal, hogy a belügyminiszter a 4. pont szerinti forrás terhére, a fejlesztési területek kialakítása – a terület tulajdoni helyzetének rendezése, a termőföld más célú hasznosítása, a telekalakítási eljárások lefolytatása, a terület előkészítése, területen belül meglévő közművek kiváltása – érdekében külön pályázat és kérelem benyújtása nélkül, vissza nem térítendő egyedi támogatást nyújtson Szeged Megyei Jogú Város Önkormányzata részére támogatási előlegként, a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatói okirat alapján, azzal, hogy a támogatói okiratban rögzítse azt, hogy
 
-## a) Szeged Megyei Jogú Város Önkormányzata köteles a támogatásból megszerzett ingatlanok vonatkozásában a megszerzést követő 60 napon belül a Belügyminisztérium mint Támogató javára elidegenítési és terhelési tilalmat bejegyeztetni a földhivatali nyilvántartásba,
+## a)[^1] Szeged Megyei Jogú Város Önkormányzata köteles a támogatásból megszerzett ingatlanok vonatkozásában a megszerzést követő 60 napon belül a Magyar Állam javára elidegenítési és terhelési tilalmat bejegyeztetni a földhivatali nyilvántartásba,
 
-## b) Szeged Megyei Jogú Város Önkormányzata a területet annak telekalakítással történt végleges kialakítását követően, a belügyminiszter – a külgazdasági és külügyminiszter véleményének kikérésével – előzetes írásbeli jóváhagyásával értékesítheti,
+## b)[^2] Szeged Megyei Jogú Város Önkormányzata a területet annak telekalakítással történt végleges kialakítását követően, a helyi önkormányzatokért felelős miniszter – a külgazdasági és külügyminiszter véleményének kikérésével – előzetes írásbeli jóváhagyásával értékesítheti,
 
 ## c) amennyiben Szeged Megyei Jogú Város Önkormányzata a terület értékesítésével bevételre tesz szert, a biztosított költségvetési támogatás erejéig köteles visszafizetni a központi költségvetés javára;
 
@@ -33,3 +33,6 @@
 ## 8. felkéri Szeged Megyei Jogú Város polgármesterét, hogy a jogszerű felhasználás feltételének megteremtése érdekében e határozat közzétételét követő 8 napon belül a Magyar Államkincstárnál a 7. pont szerinti számlát nyissa meg.
 
 1. melléklet az 1352/2023. (VII. 31.) Korm. határozathoz
+
+[^1]: A 6. pont a) alpontja az 1533/2023. (XII. 5.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^2]: A 6. pont b) alpontja az 1533/2023. (XII. 5.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
