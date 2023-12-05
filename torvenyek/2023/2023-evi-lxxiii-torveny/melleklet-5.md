@@ -1,0 +1,5 @@
+## | millió forint | Sorszám | Megnevezés | Eredeti előirányzat | Módosított előirányzat | Teljesítés | 3. | A helyi önkormányzatok felhalmozási célú kiegészítő támogatásai | | | | 3.1. | Vis maior támogatás | 4 000,0 | 2 850,0 | 2 825,9 | 3.2. | Kompok, révek fenntartásának, felújításának támogatása | 390,0 | 390,0 | 390,0 | 3.3. | Kötelező önkormányzati feladatot ellátó intézmények fejlesztése, felújítása | 2 000,0 | 1 300,0 | 1 299,8 | 3.4. | Óvodai, iskolai és utánpótlás sport infrastruktúra-fejlesztés, felújítás | 500,0 | 300,0 | 299,5 | 3.5. | Belterületi utak, járdák, hidak felújítása | 3 500,0 | 2 000,0 | 1 999,2 | 3.6. | Önkormányzati étkeztetési fejlesztések támogatása | 1 500,0 | 0,0 | 0,0 | 3.7. | Ózdi martinsalak felhasználása miatt kárt szenvedett lakóépületek tulajdonosainak kártalanítása | 300,0 | 0,0 | 0,0 | 3.8. | Normafa Park program támogatása | 620,0 | 0,0 | 0,0 | 3.9. | Kisbér Város városközpontja megújításának támogatása | 800,0 | 400,0 | 400,0
+
+5. melléklet a 2023. évi LXXIII. törvényhez
+
+Uniós kötelezettségvállalási keret-előirányzatok a 2014–2020-as programozási időszakra

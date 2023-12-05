@@ -1,0 +1,7 @@
+## II. Fejezet
+
+## AZ ÁLLAMI KÖVETELÉSEK KÖRE, KEZELÉSE ÉS VÁLTOZÁSA
+
+8. § (1) Az Országgyűlés e törvény hatálybalépésével egyidejűleg lemond a magyar államnak a Várkapitányság Integrált Területfejlesztési Központ Nonprofit Zártkörűen Működő Részvénytársasággal (a továbbiakban: Várkapitányság NZrt.) szembeni 1 692 761 222 forint összegű, a Várkapitányság NZrt vagyonkezelésében lévő állami vagyonra vonatkozó visszapótlási kötelezettség alapján fennálló követeléséről azzal, hogy a Várkapitányság NZrt. vállalja, hogy a vagyonkezelt állami vagyonon saját forrásból megvalósított beruházás, valamint egyéb felmerült költségek tekintetében megtérítést nem érvényesít a magyar állammal szemben.
+
+(2) Az Országgyűlés e törvény hatálybalépésével egyidejűleg lemond a magyar államnak a Helikon Kastélymúzeum Közhasznú Nonprofit Korlátolt Felelősségű Társasággal szemben keletkezett és 2023. január 1. napjától jogutódlás alapján a NÖF Nemzeti Örökségvédelmi Fejlesztési Nonprofit Korlátolt Felelősségű Társasággal (a továbbiakban: NÖF NKft.) szemben fennálló 210 564 052 forint összegű, a NÖF NKft. vagyonkezelésében lévő állami vagyonra vonatkozó visszapótlási kötelezettség alapján fennálló követeléséről azzal, hogy a NÖF NKft. vállalja, hogy a vagyonkezelt állami vagyonon saját forrásból megvalósított beruházás, valamint egyéb felmerült költségek tekintetében megtérítést nem érvényesít a magyar állammal szemben.
