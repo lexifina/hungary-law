@@ -1,0 +1,1 @@
+Az Országgyűlés a Nemzeti Média- és Hírközlési Hatóság 2022. évi egységes költségvetéséről szóló 2021. évi CXXVII. törvényben meghatározott költségvetések végrehajtásáról a következő törvényt alkotja.
