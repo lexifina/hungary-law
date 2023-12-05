@@ -1,0 +1,1 @@
+6. § Hatályát veszti az R. 3. § (2) bekezdésében az „Az élelmiszer-vállalkozásnak az önellenőrzés megvalósítása érdekében papíralapú vagy elektronikus, folyamatosan végrehajtott, megfelelően részletes önellenőrzési tervvel kell rendelkeznie.” szövegrész.
