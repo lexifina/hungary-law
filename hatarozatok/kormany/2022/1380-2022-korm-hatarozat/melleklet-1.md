@@ -10,7 +10,7 @@
 
 ## Határidő: azonnal
 
-## 4.[^2] az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva – a Ferencvárosi Önkormányzat részére a 2. pontban meghatározott bontási és hulladékelszállítási részfeladat 2023. július 31-ig történő megvalósításának támogatása érdekében – elrendeli 1 239 584 983 forint egyszeri átcsoportosítását a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 2. A helyi önkormányzatok működési célú kiegészítő támogatásai cím, 1. A helyi önkormányzatok általános feladatainak működési célú támogatása alcím terhére, a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 14. Budapest Főváros IX. Kerület Ferencváros Önkormányzata feladatainak támogatása cím javára, az 1. melléklet szerint;
+## 4.[^2] az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva – a Ferencvárosi Önkormányzat részére a 2. pontban meghatározott bontási és hulladékelszállítási részfeladat 2023. augusztus 31-ig történő megvalósításának támogatása érdekében – elrendeli 1 239 584 983 forint egyszeri átcsoportosítását a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 2. A helyi önkormányzatok működési célú kiegészítő támogatásai cím, 1. A helyi önkormányzatok általános feladatainak működési célú támogatása alcím terhére, a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 14. Budapest Főváros IX. Kerület Ferencváros Önkormányzata feladatainak támogatása cím javára, az 1. melléklet szerint;
 
 ## Felelős: pénzügyminiszter
 
@@ -85,4 +85,4 @@ forintban
 Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
 
 [^1]: A 2. pont az 1481/2022. (X. 13.) Korm. határozat 2. pontja szerint módosított szöveg.
-[^2]: A 4. pont az 1481/2022. (X. 13.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^2]: A 4. pont az 1481/2022. (X. 13.) Korm. határozat 3. pontja, az 1533/2023. (XII. 5.) Korm. határozat 1. pontja szerint módosított szöveg.
