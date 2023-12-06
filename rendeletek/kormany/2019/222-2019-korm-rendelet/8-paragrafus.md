@@ -1,5 +1,0 @@
-8. § (1) Az e rendeletben meghatározott képzési és kimeneti követelményeket, valamint az e követelmények alapján módosított képzési programot a 2020/2021. tanévben alap- és mesterképzésben első évfolyamon tanulmányaikat kezdő hallgatókra, majd azt követően felmenő rendszerben kell alkalmazni.
-
-(2) A legkésőbb a 2019/2020. tanévben megkezdett tanulmányokat – folyamatos képzésben – végzőkre az államtudományi képzési terület alap- és mesterképzési szakjainak meghatározásáról és azok képzési és kimeneti követelményeiről, valamint az azzal összefüggő kormányrendeletek módosításáról szóló 282/2016. (IX. 21.) Korm. rendeletet [a továbbiakban: 282/2016. (IX. 21.) Korm. rendelet] kell alkalmazni azzal, hogy a tanulmányaikat a 2019/2020. tanévet megelőzően megkezdőkre a 282/2016. (IX. 21.) Korm. rendeletet az abban foglaltak szerint kell alkalmazni.
-
-(3) A 2020/2021. tanévet megelőzően megkezdett és oklevél kiadásával le nem zárt, alap- vagy mesterképzésben folytatott tanulmányokra tekintettel meghatározott idegennyelvi követelmény – feltéve, hogy az a hallgató, illetve volt hallgató számára kedvezőbb – e rendelet alapján is teljesíthető.
