@@ -1,0 +1,1 @@
+A Kormány Magyarország energiafüggetlenségének megerősítése, az állami meteorológiai feladatellátás hatékonyságának növelése és magas színvonalú piaci szolgáltatások nyújtása, a környezeti értékek védelme, valamint a klímaváltozással kapcsolatos jelenségek kezelése érdekében
