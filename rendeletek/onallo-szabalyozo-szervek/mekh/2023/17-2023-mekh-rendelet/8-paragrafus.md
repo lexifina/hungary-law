@@ -1,0 +1,1 @@
+8. § A Hivatal a bevételkompenzációra és a referencia nettó bevételre vonatkozó, szerkeszthető számítási modellt tesz közzé honlapján e rendelet hatálybalépését követően, amelyet a referencia nettó bevétel Hivatal általi, 9. § szerinti felülvizsgálatait követően szükség szerint aktualizál.
