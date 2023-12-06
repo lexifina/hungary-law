@@ -1,0 +1,1 @@
+3. § Ha a szakképzési és kimeneti követelményei másként nem rendelkeznek, a képzés a tantervében meghatározottak szerint teljes idejű képzésben és részidős képzésben, valamint távoktatásként is megszervezhető.
