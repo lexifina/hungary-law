@@ -1,6 +1,6 @@
 ## 3. A tartós külszolgálatra történő felkészítés általános szabályai
 
-5. § (1)[^18] A tartós külszolgálatra történő felkészítés célja a Külszoltv. 1. mellékletében foglalt tartós külszolgálati munkakörök ellátásához szükséges
+5. § (1)[^23] A tartós külszolgálatra történő felkészítés célja a Külszoltv. 1. mellékletében foglalt tartós külszolgálati munkakörök ellátásához szükséges
 
 a) a külképviseleti hálózatra és a külügyi és külgazdasági szakpolitikai célkitűzésekre,
 
@@ -16,11 +16,11 @@ f) a fogadó állam szokásaira, jellegzetességeire, valamint
 
 g) egyéb, a munkáltatói jogkör gyakorlója által előírt felkészítési elemekre
 
-## vonatkozó aktuális szakmai ismeretek átadása.
+vonatkozó aktuális szakmai ismeretek átadása.
 
 (2) Az (1) bekezdésben meghatározottakon túl a felkészítés
 
-a)[^19] a tartós külszolgálat keretében ellátandó tartós külszolgálati munkakörökhöz szükséges szakmai, funkcionális elméleti és azok gyakorlati alkalmazását elősegítő ismeretek megszerzésére, fejlesztésére,
+a)[^24] a tartós külszolgálat keretében ellátandó tartós külszolgálati munkakörökhöz szükséges szakmai, funkcionális elméleti és azok gyakorlati alkalmazását elősegítő ismeretek megszerzésére, fejlesztésére,
 
 b) a felkészülő személyes készségeinek fejlesztésére,
 
@@ -32,5 +32,7 @@ e) az ügyfelekkel való kapcsolattartásra, valamint
 
 f) a külföldi életvezetésre vonatkozó gyakorlati tanácsadásra
 
-[^18]: Az 5. § (1) bekezdés nyitó szövegrésze a 127/2019. (V. 30.) Korm rendelet 10. § b) pontja szerint módosított szöveg.
-[^19]: Az 5. § (2) bekezdés a) pontja a 127/2019. (V. 30.) Korm rendelet 10. § d) pontja szerint módosított szöveg.
+is kiterjed.
+
+[^23]: Az 5. § (1) bekezdés nyitó szövegrésze a 127/2019. (V. 30.) Korm rendelet 10. § b) pontja szerint módosított szöveg.
+[^24]: Az 5. § (2) bekezdés a) pontja a 127/2019. (V. 30.) Korm rendelet 10. § d) pontja szerint módosított szöveg.
