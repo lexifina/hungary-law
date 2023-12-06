@@ -1,1 +1,3 @@
-6. § Hatályát veszti az R. 3. § (2) bekezdésében az „Az élelmiszer-vállalkozásnak az önellenőrzés megvalósítása érdekében papíralapú vagy elektronikus, folyamatosan végrehajtott, megfelelően részletes önellenőrzési tervvel kell rendelkeznie.” szövegrész.
+6. §[^7]
+
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

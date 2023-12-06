@@ -1,3 +1,3 @@
-1. § Az élelmiszer-vállalkozások által működtetendő önellenőrzési rendszerre vonatkozó követelményekről szóló 28/2017. (V. 30.) FM rendelet (a továbbiakban: R.) 2. §-a a következő c) ponttal egészül ki:
+1. §[^2]
 
-(E rendelet alkalmazásában)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
