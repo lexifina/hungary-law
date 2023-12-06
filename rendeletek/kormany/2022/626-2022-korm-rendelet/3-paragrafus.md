@@ -18,6 +18,8 @@
 
 9. realizált árfolyam-különbözet: a külföldi pénzértékre vonatkozó kötelezettséghez, követeléshez kapcsolódó, a pénzügyi teljesítés során – az Áhsz. 17. melléklet 4. pontjával összhangban lévő – számviteli politikában meghatározott időszakonként elszámolt realizált árfolyamveszteség, illetve árfolyamnyereség;
 
-10. rendkívüli pénztárellenőrzés: a külképviselet vezetőjének – gazdasági régió működése esetén a regionális gazdasági igazgatónak – utasítására legalább félévente elrendelt, a pénztárellenőr által végrehajtott rendkívüli, váratlan és átfogó ellenőrzés;
+10.[^1] rendkívüli pénztárellenőrzés: a külképviselet-vezető – gazdasági régió működése esetén a regionális gazdasági igazgatónak – utasítására legalább félévente elrendelt, a pénztárellenőr által végrehajtott rendkívüli, váratlan és átfogó ellenőrzés;
 
 11. rendszeres pénztárellenőrzés: a külképviseleten a gazdálkodással összefüggő analitikus nyilvántartások, a nyilvántartásokat alátámasztó számviteli bizonylatok, bankkivonatok, a pénztárban kezelt készpénz, készpénzt helyettesítő eszközök, egyéb eszközök, előlegek ellenőrzése, pénztári egyenlegek és bankszámlaegyenlegek számszaki tételes összevetése, valamint a gazdasági eseményekkel kapcsolatban a pénzügyi ellenjegyzés, a kötelezettségvállalás, a teljesítési igazolás, az érvényesítés, illetve az utalványozás jogszabályszerűségének munkafolyamatba épített, a pénztárellenőr általi ellenőrzése.
+
+[^1]: A 3. § 10. pontja az 536/2023. (XII. 5.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.

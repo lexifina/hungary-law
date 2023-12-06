@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-626-20-
 | --- | --- | --- |
 | 2023-01-01 | 2022-626-20-22.1 | 626/2022. (XII. 30.) Korm. rendelet |
 | 2023-01-02 | 2022-626-20-22.2 | 2010. évi CXXX. törvény |
+| 2023-12-06 | 2022-626-20-22.3 | 536/2023. (XII. 5.) Korm. rendelet |

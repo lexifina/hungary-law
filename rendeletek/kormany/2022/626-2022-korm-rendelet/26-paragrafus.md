@@ -22,8 +22,10 @@ d) a szakdiplomata a szakmai feladatainak ellátására biztosított előirányz
 
 (4) A külképviseleten utalványozásra jogosult,
 
-a) ha a külképviselet részeként kulturális intézet működik, a kulturális intézet szakmai feladatainak ellátására biztosított előirányzati keret kivételével valamennyi előirányzat tekintetében a külképviselet vezetője, a külképviselet vezetője távollétében vagy akadályoztatása esetén az első beosztott diplomata vagy az első beosztott konzul;
+a)[^12] ha a külképviselet részeként kulturális intézet működik, a kulturális intézet szakmai feladatainak ellátására biztosított előirányzati keret kivételével valamennyi előirányzat tekintetében a külképviselet-vezető, a külképviselet-vezető távollétében vagy akadályoztatása esetén az első beosztott diplomata vagy az első beosztott konzul;
 
 b) ha a külképviselet részeként kulturális intézet működik, a kulturális intézet szakmai feladatainak ellátására biztosított előirányzati keret tekintetében az intézetigazgató, az intézetigazgató távollétében vagy akadályoztatása esetén a szakmai irányítást ellátó kormányzati igazgatási szerv előzetes engedélyével az a) pontban meghatározott személy, az ott meghatározott rendben;
 
 c) gazdasági régió működése esetén, a kulturális intézet szakmai feladatainak ellátására biztosított előirányzati keret kivételével valamennyi előirányzat tekintetében a regionális gazdasági igazgató, a regionális gazdasági igazgató távollétében vagy akadályoztatása esetén, ha a régióban van megfelelő végzettséggel, képzettséggel rendelkező gazdasági munkatárs, akkor a kihelyező szerv külképviseletek gazdálkodását felügyelő helyettes államtitkára által kijelölt helyettesítő személy, ilyen munkatárs hiányában pedig az a) pontban meghatározott személy, az ott meghatározott rendben.
+
+[^12]: A 26. § (4) bekezdés a) pontja az 536/2023. (XII. 5.) Korm. rendelet 1. § l) pontja szerint módosított szöveg.

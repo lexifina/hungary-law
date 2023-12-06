@@ -1,8 +1,8 @@
-16. § (1) A pénztárellenőr és a pénztárellenőr-helyettes a külképviselet vezetőjének és – gazdasági régió működése esetén – a regionális gazdasági igazgatónak együttes javaslata alapján a kihelyező vezető által írásban kijelölt, a külképviseletre tartós külszolgálatra kihelyezett beosztott diplomata.
+16. § (1)[^6] A pénztárellenőr és a pénztárellenőr-helyettes a külképviselet-vezető és – gazdasági régió működése esetén – a regionális gazdasági igazgató együttes javaslata alapján a kihelyező vezető által írásban kijelölt, a külképviseletre tartós külszolgálatra kihelyezett beosztott diplomata.
 
 (2) A pénztárellenőrt távollétében a pénztárellenőr-helyettesi kiegészítő feladatkört ellátó kihelyezett (a továbbiakban: pénztárellenőr-helyettes) helyettesíti.
 
-(3) A pénztárellenőr és a pénztárellenőr-helyettes hiánya, illetve együttes akadályoztatása esetén a pénztárellenőri feladatokat a külképviselet vezetője, vagy a külképviselet-vezető hiányában a gazdasági régió működése esetén a regionális gazdasági igazgató látja el.
+(3)[^7] A pénztárellenőr és a pénztárellenőr-helyettes hiánya, illetve együttes akadályoztatása esetén a pénztárellenőri feladatokat a külképviselet-vezető, vagy a külképviselet-vezető hiányában a gazdasági régió működése esetén a regionális gazdasági igazgató látja el.
 
 (4) A pénztárellenőri és a pénztárellenőr-helyettesi kiegészítő feladatkör betöltésének feltétele a pénztárellenőri feladatok ellátásához kapcsolódó, a kihelyező szerv által szervezett oktatáson való részvétel és az ahhoz kapcsolódó vizsga legalább „megfelelt” eredménnyel történő teljesítése.
 
@@ -33,3 +33,6 @@ h) a megelőző pénztárellenőrzéstől számított időszakra vonatkozóan t�
 (9) Gazdasági régió működése esetén a rendszeres pénztárellenőri, valamint a rendkívüli pénztárellenőrzés során a (8) bekezdés c) pontjában meghatározott ellenőrzési feladatokat, valamint a (8) bekezdés a) pontjában meghatározott bankszámlákkal kapcsolatos ellenőrzési feladatokat kizárólag a gazdasági régió központjában feladatot ellátó pénztárellenőr végezheti el.
 
 (10) A külképviselet részeként működő, önálló költségvetéssel és vezetéssel nem rendelkező nem önálló külképviselet (a továbbiakban: nem önálló külképviselet) esetében a pénztárellenőrzést elrendelő vezető döntése alapján a pénztárellenőrzés az irányítást ellátó külképviselet pénztárellenőrzésével összevontan is elvégezhető, amely során a nem önálló külképviselet helyszíni pénztárellenőrzése csak évente egy alkalommal kötelező. Ha nem kerül sor helyszíni ellenőrzésre, úgy a szükséges iratok postai, elektronikus vagy online úton, audiovizuális eszközök igénybevételével is bekérhetők, bemutathatók. Az online ellenőrzés felvétele előzetes tájékoztatást követően rögzíthető.
+
+[^6]: A 16. § (1) bekezdése az 536/2023. (XII. 5.) Korm. rendelet 1. § f) pontja szerint módosított szöveg.
+[^7]: A 16. § (3) bekezdése az 536/2023. (XII. 5.) Korm. rendelet 1. § g) pontja szerint módosított szöveg.
