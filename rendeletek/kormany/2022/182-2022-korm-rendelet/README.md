@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-182-20-
 | 2023-08-01 | 2022-182-20-22.15 | 314/2023. (VII. 17.) Korm. rendelet |
 | 2023-09-01 | 2022-182-20-22.13 | 246/2023. (VI. 22.) Korm. rendelet |
 | 2023-11-14 | 2022-182-20-22.16 | 501/2023. (XI. 13.) Korm. rendelet |
+| 2023-12-07 | 2022-182-20-22.17 | 531/2023. (XII. 5.) Korm. rendelet |

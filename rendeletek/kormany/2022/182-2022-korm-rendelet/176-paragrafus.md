@@ -1,3 +1,3 @@
-176. §[^68] A miniszter az energiapolitikáért és a víziközmű-szolgáltatásért való felelőssége keretében – az informatikáért felelős miniszterrel egyetértésben – kidolgozza az ágazati infokommunikációs infrastruktúra-fejlesztési javaslatokat, valamint szolgáltatási stratégiáját.
+176. §[^70] A miniszter az energiapolitikáért és a víziközmű-szolgáltatásért való felelőssége keretében – az informatikáért felelős miniszterrel egyetértésben – kidolgozza az ágazati infokommunikációs infrastruktúra-fejlesztési javaslatokat, valamint szolgáltatási stratégiáját.
 
-[^68]: A 176. § a 467/2022. (XI. 21.) Korm. rendelet 16. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^70]: A 176. § a 467/2022. (XI. 21.) Korm. rendelet 16. § (1) bekezdés c) pontja szerint módosított szöveg.

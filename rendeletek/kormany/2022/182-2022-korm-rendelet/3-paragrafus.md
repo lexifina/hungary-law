@@ -22,7 +22,7 @@ i) átfogó megközelítést igénylő ügyekben javaslatot tesz, illetve előte
 
 j) képviselője útján részt vesz a Kormány más tagja által szervezett miniszteri értekezleten,
 
-k)[^1] aláírja a Kormánynak, a Stratégiai és Családügyi Kabinetnek, a Gazdasági Kabinetnek, a Növekedési és Versenyképességi Kabinetnek, a Nemzetpolitikai Kabinetnek (a továbbiakban együtt: Kabinet), a Védelmi Tanácsnak a Miniszterelnöki Kormányiroda közigazgatási államtitkára által írásba foglalt és részére felterjesztett döntéseit,
+k)[^1] aláírja a Kormánynak, a Stratégiai Kabinetnek, a Gazdasági Kabinetnek, a Nemzetpolitikai Kabinetnek (a továbbiakban együtt: Kabinet), a Védelmi Tanácsnak a Miniszterelnöki Kormányiroda közigazgatási államtitkára által írásba foglalt és részére felterjesztett döntéseit,
 
 l) aláírja a Kormány feladat- és hatáskörét érintő egyéb, a Miniszterelnöki Kormányiroda közigazgatási államtitkára által írásba foglalt és részére felterjesztett döntéseket, ideértve azon döntéseket is, amelyek előkészítése nem tartozik a Kormány valamely más tagjának feladat- és hatáskörébe,
 
@@ -30,4 +30,4 @@ m) aláírja az állami vezetők politikai szolgálati vagy kormányzati szolgá
 
 (3) A miniszterelnök meghatározza a kormányzás általános irányait, ennek érdekében szervezi a Kormány mint testület munkáját, megállapítja a miniszterek között kialakított belső munkamegosztást.
 
-[^1]: A 3. § (2) bekezdés k) pontja a 261/2022. (VII. 21.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^1]: A 3. § (2) bekezdés k) pontja az 531/2023. (XII. 5.) Korm. rendelet 1. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
 ## 7. A belügyminiszter feladat- és hatásköre
 
-66. § (1)[^13] A belügyminiszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
+66. § (1)[^14] A belügyminiszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
 
 1. bűncselekmények megelőzéséért,
 
@@ -80,4 +80,4 @@ tekintetében a roma nemzetiség vonatkozásában a Kormány nemzetiségpolitik�
 
 (3) A miniszter ellátja a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvényben meghatározott feladatokat.
 
-[^13]: A 66. § (1) bekezdés nyitó szövegrésze a 238/2022. (VI. 30.) Korm. rendelet 221. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^14]: A 66. § (1) bekezdés nyitó szövegrésze a 238/2022. (VI. 30.) Korm. rendelet 221. § (3) bekezdés a) pontja szerint módosított szöveg.

@@ -44,6 +44,8 @@ felelős tagja.
 
 (4) A miniszter figyelemmel kíséri az Országgyűlés és a bizottságai napirendjét és üléseit, részt vesz az üléseket előkészítő fórumokon.
 
-(5) A miniszter vezeti a Stratégiai és Családügyi Kabinet üléseit.
+(5)[^7]
 
 (6) A miniszter a miniszterelnök részére – feladat- és hatáskörében – soron kívül tájékoztatást, felvilágosítást, továbbá kormányzati összeállítások elkészítéséhez szakmai előkészítő anyagot, adatszolgáltatást, illetve szakértői közreműködést kérhet a kormányzati szervektől, közvetíti a miniszterelnök eseti döntéseit a miniszterek és a kormányzati szervek számára.
+
+[^7]: A 30. § (5) bekezdését az 531/2023. (XII. 5.) Korm. rendelet 9. § a) pontja hatályon kívül helyezte.

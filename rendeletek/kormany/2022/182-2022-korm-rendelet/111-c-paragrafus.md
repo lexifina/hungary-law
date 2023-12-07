@@ -1,4 +1,4 @@
-111/C. §[^40] (1) A miniszter az iparügyekért való felelőssége keretében előkészíti a műszaki szabályozás tárgykörébe eső – ideértve az áruk, a szolgáltatások és az anyagi értéket képviselő jogok országhatárt, illetve vámhatárt átlépő kereskedelmére –, az ipari parkokra és a nemzeti akkreditálásra vonatkozó jogszabályokat.
+111/C. §[^41] (1) A miniszter az iparügyekért való felelőssége keretében előkészíti a műszaki szabályozás tárgykörébe eső – ideértve az áruk, a szolgáltatások és az anyagi értéket képviselő jogok országhatárt, illetve vámhatárt átlépő kereskedelmére –, az ipari parkokra és a nemzeti akkreditálásra vonatkozó jogszabályokat.
 
 (2) A miniszter az iparügyekért való felelőssége keretében
 
@@ -10,4 +10,4 @@ c) kidolgozza az elektromobilitás hazai elterjedését elősegítő döntéseke
 
 (3) A miniszter az iparügyekért való felelőssége keretében – az informatikáért felelős miniszterrel egyetértésben – kidolgozza az ágazati infokommunikációs infrastruktúra-fejlesztési javaslatokat, valamint szolgáltatási stratégiáját.
 
-[^40]: A 111/C. §-t a 467/2022. (XI. 21.) Korm. rendelet 6. §-a iktatta be.
+[^41]: A 111/C. §-t a 467/2022. (XI. 21.) Korm. rendelet 6. §-a iktatta be.

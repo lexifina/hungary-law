@@ -1,6 +1,6 @@
 ## 19. Gazdasági Kabinet
 
-188. §[^81] (1) A Gazdasági Kabinet a Kormány vagy a miniszterelnök által meghatározott, így különösen
+188. §[^87] (1) A Gazdasági Kabinet a Kormány vagy a miniszterelnök által meghatározott, így különösen
 
 1. az adópolitikáért,
 
@@ -12,108 +12,140 @@
 
 5. az államháztartásért,
 
-6. az állami vagyon felügyeletéért,
+6. az állami beruházásokért,
 
-7. az állami vagyonnal való gazdálkodás szabályozásáért,
+7. az állami vagyon felügyeletéért,
 
-8. a bányászati ügyekért,
+8. az állami vagyonnal való gazdálkodás szabályozásáért,
 
-9. a belgazdaságért,
+9. a bányászati ügyekért,
 
-10. az egészségbiztosításért,
+10. a belgazdaságért,
 
-11. az egészségbiztosítási járulékfizetés szabályozásáért,
+11. az egészségbiztosításért,
 
-12. az e-közigazgatási és informatikai fejlesztések egységesítéséért,
+12. az egészségbiztosítási járulékfizetés szabályozásáért,
 
-13. az elektronikus hírközlésért,
+13. az e-közigazgatási és informatikai fejlesztések egységesítéséért,
 
-14. az energiapolitikáért,
+14. az elektronikus hírközlésért,
 
-15. az élelmiszeriparért,
+15. az energiapolitikáért,
 
-16. az élelmiszerlánc-felügyeletért,
+16. az élelmiszeriparért,
 
-17. az erdőgazdálkodásért,
+17. az élelmiszerlánc-felügyeletért,
 
-18. a felnőttképzésért,
+18. az erdőgazdálkodásért,
 
-19. a foglalkoztatáspolitikáért,
+19. az építésügyi szabályozásért és építéshatósági ügyekért,
 
-20. a földügyért,
+20. az építésgazdaságért,
 
-21. a gazdaságfejlesztésért,
+21. az európai uniós források felhasználásáért,
 
-22. a halgazdálkodásért,
+22. a felnőttképzésért,
 
-23. a hulladékgazdálkodási közszolgáltatási és szolgáltatási díj megállapításáért,
+23. a foglalkoztatáspolitikáért,
 
-24. a hulladékgazdálkodásért,
+24. a földügyért,
 
-25. a hulladékgazdálkodás felügyeletéért,
+25. a gazdaságfejlesztésért,
 
-26. az informatikáért,
+26. a halgazdálkodásért,
 
-27. az iparügyekért,
+27. a hulladékgazdálkodási közszolgáltatási és szolgáltatási díj megállapításáért,
 
-28. a kereskedelemért,
+28. a hulladékgazdálkodásért,
 
-29. a kormányzati tudománypolitikáért,
+29. a hulladékgazdálkodás felügyeletéért,
 
-30. a költségvetés makrogazdasági megalapozásáért,
+30. az informatikáért,
 
-31. a környezetvédelemért,
+31. az iparügyekért,
 
-32. a közfoglalkoztatásért,
+32. a kereskedelemért,
 
-33. a közlekedésért,
+33. a kormányzati tudománypolitikáért,
 
-34. a külgazdasági ügyekért,
+34. a költségvetés makrogazdasági megalapozásáért,
 
-35. a lakáscélú állami támogatásokért,
+35. a környezetvédelemért,
 
-36. a lakáspolitikáért,
+36. a közfoglalkoztatásért,
 
-37. a nemzeti közműszolgáltatásokért,
+37. a közlekedésért,
 
-38. a nemzeti pénzügyi szolgáltatásokért,
+38. a kulturális örökség védelméért,
 
-39. a nemzetközi pénzügyi kapcsolatokért,
+39. a külgazdasági ügyekért,
 
-40. a nyugdíjjárulék- és nyugdíjbiztosításijárulék-fizetés szabályozásáért,
+40. a lakáscélú állami támogatásokért,
 
-41. a nyugdíjpolitikáért,
+41. a lakáspolitikáért,
 
-42. a Paksi Atomerőmű két új blokkja tervezéséért, megépítéséért és üzembe helyezéséért,
+42. a nemzeti közműszolgáltatásokért,
 
-43. a pénz-, tőke- és biztosítási piac szabályozásáért,
+43. a nemzeti pénzügyi szolgáltatásokért,
 
-44. a postaügyért,
+44. a nemzetközi pénzügyi kapcsolatokért,
 
-45. a sportlétesítmény-fejlesztésért és gazdálkodásért,
+45. a nyugdíjjárulék- és nyugdíjbiztosításijárulék-fizetés szabályozásáért,
 
-46. a szakképzésért,
+46. a nyugdíjpolitikáért,
 
-47. a számviteli szabályozásért,
+47. a Paksi Atomerőmű két új blokkja tervezéséért, megépítéséért és üzembe helyezéséért,
 
-48. a szerencsejáték szabályozásért,
+48. a pénz-, tőke- és biztosítási piac szabályozásáért,
 
-49. a településüzemeltetésért, kéményseprő-ipari tevékenységért,
+49. a postaügyért,
 
-50. a tudománypolitika koordinációjáért,
+50. a sportlétesítmény-fejlesztésért és -gazdálkodásért,
 
-51. a turizmusért,
+51. a szakképzésért,
 
-52. az űrkutatásért,
+52. a számviteli szabályozásért,
 
-53. a vadgazdálkodásért,
+53. a szerencsejáték szabályozásért,
 
-54. a vállalkozásfejlesztésért,
+54. a településüzemeltetésért, kéményseprő-ipari tevékenységért,
 
-55. a vendéglátásért
+55. a településfejlesztésért és településrendezésért,
+
+56. a településkép védelméért,
+
+57. a területfejlesztésért,
+
+58. a területfejlesztés stratégiai tervezésért,
+
+59. a területrendezésért,
+
+60. a tudománypolitika koordinációjáért,
+
+61. a turizmusért,
+
+62. az űrkutatásért,
+
+63. a vadgazdálkodásért,
+
+64. a vállalkozásfejlesztésért,
+
+65. a vendéglátásért,
+
+66. a versenyképesség gazdasági és jogi feltételrendszeréért
 
 való felelősségi körökben a Kormány ügydöntő jogkörrel rendelkező szerve.
 
-(2) A Gazdasági Kabinet – az (1) bekezdésben foglaltakon túl – a Kormány ügydöntő jogkörrel rendelkező szerve bármely olyan előterjesztés és jelentés kapcsán, amelyet a Növekedési és Versenyképességi Kabinet megtárgyalt, és napirendre felvételét a Gazdasági Kabinet elnöke kéri.
+(2) A Gazdasági Kabinet – az (1) bekezdésben foglaltakon túl – a Kormány ügydöntő jogkörrel rendelkező szerve továbbá
 
-[^81]: A 188. § a 261/2022. (VII. 21.) Korm. rendelet 3. §-ával megállapított szöveg.
+a) bármely olyan előterjesztés kapcsán, amely állami támogatással megvalósuló építési beruházás megvalósítására tesz javaslatot;
+
+b) a Magyarország szomszédságában zajló háború idején a rezsicsökkentés megvédése és a honvédelmi célok teljesítése érdekében szükséges költségvetési intézkedésekről szóló 1281/2022. (VI. 4.) Korm. határozat 2. pontja szerinti állami támogatással megvalósuló építési beruházások kapcsán;
+
+c) a Kormány ügyrendjéről szóló 1352/2022. (VII. 21.) Korm. határozat 15. alcíme szerinti Fejlesztéspolitikai Koordinációs Bizottság feladat- és hatáskörébe tartozó előterjesztés és jelentés, továbbá a Fejlesztéspolitikai Koordinációs Bizottság által előkészített egyedi kormánydöntéssel támogatott beruházások, illetve befektetések kapcsán.
+
+(3) A Gazdasági Kabinet – az (1) bekezdésben foglaltakon túl – a Kormány ügydöntő jogkörrel rendelkező szerve bármely olyan előterjesztés és jelentés kapcsán, amely napirendre felvételét a Gazdasági Kabinet elnöke kéri.
+
+(4) A Gazdasági Kabinet üléseit a gazdaságfejlesztési miniszter vezeti.
+
+[^87]: A 188. § az 531/2023. (XII. 5.) Korm. rendelet 4. §-ával megállapított szöveg.
