@@ -6527,3 +6527,7 @@ B/ A képzés szerkezeti és kimeneti jellemzői
 - A biztonság- és védelempolitika területén kritikai gondolkodásmóddal rendelkezik, álláspontját hitelesen képviseli.
 
 - Elkötelezett a közszolgálat és a honvédelem ügye iránt, képes felelősségteljes munkavégzésére és magatartásra.
+
+- A biztonság- és védelempolitika területén elsajátított tudása alapján nyitott a továbbképzésre, szakmai fejlődésre.
+
+7.2.4. Autonómia és felelősség:

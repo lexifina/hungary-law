@@ -1,1 +1,3 @@
-11. § Hatályát veszti a 222/2019. (IX. 25.) Korm. rendelet.
+11. §[^1]
+
+[^1]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
