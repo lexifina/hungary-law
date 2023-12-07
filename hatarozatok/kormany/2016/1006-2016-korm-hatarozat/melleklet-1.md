@@ -4,7 +4,7 @@
 
 ## b) elfogadja a 2 melléklet szerint az ott felsorolt projektek kiemelt projektként történő nevesítését,
 
-## c)[^1] egyetért azzal, hogy a GINOP 8. prioritása keretében kihelyezett európai uniós pénzügyi eszköz támogatásokból visszaforgó források terhére elsődlegesen a GINOP 9. prioritása keretében kihelyezett európai uniós pénzügyi eszköz végrehajtásához kapcsolódó pénzügyi közvetítőknek járó irányítási díjak, illetve az alapok alapja végrehajtó szervezeti feladatokkal összefüggő auditált és elismert irányítási költségek, másodsorban a GINOP 8. prioritásának túlvállalására eső auditált és elismert végrehajtási költségek a felhasznált túlvállalási összeg legfeljebb 9,8%-áig kerüljenek finanszírozásra. A GINOP-8.3.5-18 azonosító számú, „Mikro-, kis- és középvállalkozások technológiai korszerűsítése célú hitel” című, kamatmentes forgóeszköz hiteltermék keretére beérkezett, túlvállalásból nem finanszírozható része, 108 milliárd forint erejéig, továbbá ennek az összegnek az elismert végrehajtási költsége, ennek legfeljebb 9,8%-áig kerüljenek finanszírozásra: a visszaforgó forrás felhasználható továbbá a GINOP pénzügyi eszközökhöz kapcsolódó, elismert, de az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra, a Kohéziós Alapra, az Európai Mezőgazdasági Vidékfejlesztési Alapra és az Európai Tengerügyi és Halászati Alapra vonatkozó közös rendelkezések megállapításáról, az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra és a Kohéziós Alapra és az Európai Tengerügyi és Halászati Alapra vonatkozó általános rendelkezések megállapításáról szóló 1303/2013/EU európai parlamenti és tanácsi rendelet kiegészítéséről szóló, 2014. március 3-i 480/2014/EU felhatalmazáson alapuló bizottsági rendelet 13. cikkében meghatározott díjazási maximumok miatt ki nem fizethető költségek megtérítésére,
+## c)[^1] egyetért azzal, hogy a GINOP 8. prioritása keretében kihelyezett európai uniós pénzügyi eszköz támogatásokból visszaforgó források terhére elsődlegesen a GINOP 9. prioritása keretében kihelyezett európai uniós pénzügyi eszköz végrehajtásához kapcsolódó pénzügyi közvetítőknek járó irányítási díjak, illetve az alapok alapja végrehajtó szervezeti feladatokkal összefüggő auditált és elismert irányítási költségek, másodsorban a GINOP 8. prioritásának túlvállalására eső auditált és elismert végrehajtási költségek a felhasznált túlvállalási összeg legfeljebb 9,8%-áig kerüljenek finanszírozásra. A GINOP-8.3.5-18 azonosító számú, „Mikro-, kis- és középvállalkozások technológiai korszerűsítése célú hitel” című, kamatmentes forgóeszköz hiteltermék keretére beérkezett, túlvállalásból nem finanszírozható része, 108 milliárd forint erejéig, továbbá ennek az összegnek az elismert végrehajtási költsége, ennek legfeljebb 9,8%-áig kerüljenek finanszírozásra: a visszaforgó forrás felhasználható továbbá a GINOP pénzügyi eszközökhöz kapcsolódó, elismert, de az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra, a Kohéziós Alapra, az Európai Mezőgazdasági Vidékfejlesztési Alapra és az Európai Tengerügyi és Halászati Alapra vonatkozó közös rendelkezések megállapításáról, az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra és a Kohéziós Alapra és az Európai Tengerügyi és Halászati Alapra vonatkozó általános rendelkezések megállapításáról szóló 1303/2013/EU európai parlamenti és tanácsi rendelet kiegészítéséről szóló, 2014. március 3-i 480/2014/EU felhatalmazáson alapuló bizottsági rendelet 13. cikkében meghatározott díjazási maximumok miatt ki nem fizethető költségek megtérítésére, valamint a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet 199/D. §-a szerinti határidőig be nem nyújtható auditált és elismert végrehajtási költségekre.
 
 ## d)[^2]
 
@@ -66,13 +66,15 @@
 
 ## u) [^27] a Gazdaságfejlesztési és Innovációs Operatív Program éves fejlesztési keretének megállapításáról szóló 1006/2016. (I. 18.) Korm. határozat módosításáról szóló 1105/2023. (III. 29.) Korm. határozattal módosított, a 2. mellékletben foglalt táblázat 4., 5., 6a, 12., 12b, 19. és 22b sora szerinti kiemelt projektek szakpolitikai felelős által javasolt műszaki-szakmai tartalmának bővítéséhez kapcsolódó, azzal arányos keretemelése és annak végrehajtása
 
+## v) [^28] a Gazdaságfejlesztési és Innovációs Operatív Program éves fejlesztési keretének megállapításáról szóló 1006/2016. (I. 18.) Korm. határozat módosításáról szóló 1539/2023. (XII. 6.) Korm. határozattal módosított, a 2. mellékletben foglalt táblázat 12. és 13. sora szerinti kiemelt projektek szakpolitikai felelős által javasolt műszaki-szakmai tartalmának bővítéséhez kapcsolódó, azzal arányos keretemelése és annak végrehajtása
+
 ## során a Kormányrendelet 3–6. §-ában foglalt eljárási szabályok ne kerüljenek alkalmazásra.
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3.[^28]
+## 3.[^29]
 
-1. melléklet az 1006/2016. (I. 18.) Korm. határozathoz[^29]
+1. melléklet az 1006/2016. (I. 18.) Korm. határozathoz[^30]
 
 A GINOP éves fejlesztési kerete
 
@@ -224,7 +226,7 @@ A GINOP éves fejlesztési kerete
 
 | 6. | GINOP-3.2.1-15 | Infokommunikációs motivációs, szemléletformáló és kompetencia-fejlesztő program KKV-knak | 6,642 | kiemelt | Meghirdetve 2015. áprilisban |
 
-| 7. | GINOP-3.2.2-8.2.4-16 | Vállalati komplex infokommunikációs és mobilfejlesztések, felhőalapú online üzleti szolgáltatások terjesztésének támogatása | 10,917 | egyszerűsített | Meghirdetve 2016. decemberben |
+| 7. | GINOP-3.2.2-8.2.4-16 | Vállalati komplex infokommunikációs és mobilfejlesztések, felhőalapú online üzleti szolgáltatások terjesztésének támogatása | 10,842 | egyszerűsített | Meghirdetve 2016. decemberben |
 
 | 8. | GINOP-3.2.4-8.2.4-16 | Felhőalapú (IaaS, PaaS, SaaS) vállalati szolgáltatások, IKT megoldások fejlesztésének és piaci bevezetésének támogatása | 0,889 | standard | Meghirdetve 2016. decemberben |
 
@@ -248,7 +250,7 @@ A GINOP éves fejlesztési kerete
 
 | 14. | GINOP-3.4.3-VEKOP-15 | Kormányzati hálózatok konszolidációja, kapacitásainak, teljesítményének növelése | 4,29 (ebből VEKOP: 1,29) | kiemelt | Meghirdetve 2015. decemberben |
 
-| 15. | GINOP-3.4.4-16 | Szélessávú fejlesztések előkészítéséhez és végrehajtásához kapcsolódó feladatok ellátása | 3,006 | kiemelt | Meghirdetve 2016. júliusban |
+| 15. | GINOP-3.4.4-16 | Szélessávú fejlesztések előkészítéséhez és végrehajtásához kapcsolódó feladatok ellátása | 3,081 | kiemelt | Meghirdetve 2016. júliusban |
 
 | 16. | GINOP-3.4.5-VEKOP-16 | Kormányzati hálózatok konszolidációja, kapacitásainak, teljesítményének növelése és intézmények hálózati hozzáféréseinek, kapcsolatainak fejlesztése | 4,73 (ebből VEKOP: 1,73) | kiemelt | Meghirdetve 2016. decemberben |
 
@@ -278,7 +280,7 @@ A GINOP éves fejlesztési kerete
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | GINOP-5.1.1-15 | Út a munkaerőpiacra | 254,59 | kiemelt | Meghirdetve 2015. szeptemberben |
+| 2. | GINOP-5.1.1-15 | Út a munkaerőpiacra | 256,22 | kiemelt | Meghirdetve 2015. szeptemberben |
 
 | 3. | GINOP-5.1.2-15 | Társadalmi célú vállalkozások ösztönzése – támogató szolgáltatások | 2,31 | kiemelt | Meghirdetve 2015. decemberben |
 
@@ -296,7 +298,7 @@ A GINOP éves fejlesztési kerete
 
 | 6d. | GINOP-5.1.10-18 | Álláskeresők vállalkozóvá válásának támogatása | 13,29 | kiemelt | Meghirdetve 2018. novemberben |
 
-| 7. | GINOP-5.2.1-14 | Ifjúsági Garancia | 179,41 | kiemelt | Meghirdetve 2014. októberben |
+| 7. | GINOP-5.2.1-14 | Ifjúsági Garancia | 177,78 | kiemelt | Meghirdetve 2014. októberben |
 
 | 8. | GINOP-5.2.2-14 | Fiatalok vállalkozóvá válásának ösztönzése | 1,05 | standard | Meghirdetve 2014. októberben |
 
@@ -396,23 +398,23 @@ A GINOP éves fejlesztési kerete
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | GINOP-7.1.1-15 | Nemzeti Kastély- és Várprogram turisztikai célú fejlesztéseinek támogatása | 44,60 | kiemelt | Meghirdetve 2015. augusztusban |
+| 2. | GINOP-7.1.1-15 | Nemzeti Kastély- és Várprogram turisztikai célú fejlesztéseinek támogatása | 44,13 | kiemelt | Meghirdetve 2015. augusztusban |
 
-| 3. | GINOP-7.1.2-15 | Aktív turisztikai hálózatok infrastruktúrájának fejlesztése | 10,780 | kiemelt | Meghirdetve 2015. decemberben |
+| 3. | GINOP-7.1.2-15 | Aktív turisztikai hálózatok infrastruktúrájának fejlesztése | 10,860 | kiemelt | Meghirdetve 2015. decemberben |
 
-| 4. | GINOP-7.1.3-15 | Gyógyhelyek komplex turisztikai fejlesztése | 7,865 | standard | Meghirdetve 2015. novemberben |
+| 4. | GINOP-7.1.3-15 | Gyógyhelyek komplex turisztikai fejlesztése | 7,723 | standard | Meghirdetve 2015. novemberben |
 
-| 5. | GINOP-7.1.4-16 | Egyházi kulturális örökség turisztikai fejlesztése | 7,33 | standard | Meghirdetve 2016. júniusban |
+| 5. | GINOP-7.1.4-16 | Egyházi kulturális örökség turisztikai fejlesztése | 7,48 | standard | Meghirdetve 2016. júniusban |
 
-| 6. | GINOP-7.1.5-16 | Nemzeti parkok komplex turisztikai fejlesztése | 4,626 | standard | Meghirdetve 2016. márciusban |
+| 6. | GINOP-7.1.5-16 | Nemzeti parkok komplex turisztikai fejlesztése | 4,513 | standard | Meghirdetve 2016. márciusban |
 
-| 7. | GINOP-7.1.6-16 | Világörökségi helyszínek fejlesztése | 10,651 | standard | Meghirdetve 2016. októberben |
+| 7. | GINOP-7.1.6-16 | Világörökségi helyszínek fejlesztése | 10,793 | standard | Meghirdetve 2016. októberben |
 
-| 7a. | GINOP-7.1.8-18 | Turisztikai attrakciók minősítési feltételrendszerének kialakítása | 1,00 | kiemelt | Meghirdetve 2018. januárban |
+| 7a. | GINOP-7.1.8-18 | Turisztikai attrakciók minősítési feltételrendszerének kialakítása | 0,98 | kiemelt | Meghirdetve 2018. januárban |
 
-| 8. | GINOP-7.1.9-17 | Turisztikailag frekventált térségek integrált termék- és szolgáltatásfejlesztése | 54,217 | standard | Meghirdetve 2017. márciusban |
+| 8. | GINOP-7.1.9-17 | Turisztikailag frekventált térségek integrált termék- és szolgáltatásfejlesztése | 54,637 | standard | Meghirdetve 2017. márciusban |
 
-| 9. | GINOP-7.1.10-21 | A természetes fürdőhelyek komplex és élményközpontú fejlesztése | 2,295 | kiemelt | Meghirdetve 2021. szeptemberben |
+| 9. | GINOP-7.1.10-21 | A természetes fürdőhelyek komplex és élményközpontú fejlesztése | 2,256 | kiemelt | Meghirdetve 2021. szeptemberben |
 
 8. A pénzügyi eszközökről szóló 8. prioritás
 
@@ -486,7 +488,7 @@ A GINOP éves fejlesztési kerete
 
 | 2. | GINOP-10.1.1-21 | Ágazati bértámogatás a COVID–19 járvány munkaerőpiaci hatásainak kezelésére | 84,00 | kiemelt | Meghirdetve 2021. októberben |
 
-[^1]: Az 1. pont c) alpontját az 1201/2016. (IV. 15.) Korm. határozat 1. pontja iktatta be, szövege az 1105/2023. (III. 29.) Korm. határozat 1. pontjával megállapított szöveg.
+[^1]: Az 1. pont c) alpontját az 1201/2016. (IV. 15.) Korm. határozat 1. pontja iktatta be, szövege az 1539/2023. (XII. 6.) Korm. határozat 1. pontjával megállapított szöveg.
 [^2]: Az 1. pont d) alpontját az 1169/2020. (IV. 21.) Korm. határozat 1. pontja iktatta be, az 1110/2022. (III. 4.) Korm. rendelet 6. pontja hatályon kívül helyezte.
 [^3]: Az 1. pont e) alpontját az 1067/2021. (II. 19.) Korm. határozat 2. pontja iktatta be.
 [^4]: Az 1. pont f) alpontját az 1067/2021. (II. 19.) Korm. határozat 2. pontja iktatta be.
@@ -513,5 +515,6 @@ A GINOP éves fejlesztési kerete
 [^25]: Az 1/A. pont s) alpontját az 1482/2022. (X. 13.) Korm. határozat 2. pontja iktatta be.
 [^26]: Az 1/A. pont t) alpontját az 1603/2022. (XII. 6.) Korm. határozat 1. pontja iktatta be.
 [^27]: Az 1/A. pont u) alpontját az 1105/2023. (III. 29.) Korm. határozat 2. pontja iktatta be.
-[^28]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^29]: Az 1. melléklet az 1201/2016. (IV. 15.) Korm. határozat 2. és 4. pontja, az 1472/2016. (VIII. 31.) Korm. határozat 1. és 3. pontja, az 1547/2016. (X. 19.) Korm. határozat 1. pont a) alpontja és 2. pontja, az 1859/2016. (XII. 27.) Korm. határozat 1. pont a) alpontja és 2. pont 2.1.–2.7. pontja, az 1271/2017. (V. 29.) Korm. határozat 2. pont a) alpontja és 3. pont 3.1.–3.6. alpontja, az 1837/2017. (XI. 9.) Korm. határozat 2. pont a) alpontja és 3. pont 3.1.–3.5. alpontja, az 1885/2017. (XI. 30.) Korm. határozat 2. pont a) alpontja, 3. pont 3.1–3.6. alpontja, az 1092/2018. (III. 13.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1339/2018. (VII. 25.) Korm. határozat 1. pont a) alpontja és 2. pontja, az 1545/2018. (X. 30.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1256/2019. (V. 3.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1450/2019. (VII. 26.) Korm. határozat 4. pont a) alpontja és 5. pontja, az 1684/2019. (XII. 5.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1169/2020. (IV. 21.) Korm. határozat 3. pont a) alpontja és 4. pontja, az 1301/2020. (VI. 11.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1362/2020. (VII. 2.) Korm. határozat 4. pontja és 6. pont a) alpontja, az 1474/2020. (VIII. 7.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1628/2020. (X. 1.) Korm. határozat 3. pontja, az 1735/2020. (XI. 2.) Korm. határozat 3. pontja, az 1827/2020. (XI. 19.) Korm. határozat 3. pont a) alpontja, az 1942/2020. (XII. 17.) Korm. határozat 3. pontja, az 1966/2020. (XII. 21.) Korm. határozat 3. pontja, a 2021/2020. (XII. 24.) Korm. határozat 4. pont a) alpontja, 5. pontja, az 1067/2021. (II. 19.) Korm. határozat 3–4. pontja, az 1248/2021. (V. 6.) Korm. rendelet 3. pontja, az 1310/2021. (V. 26.) Korm. határozat 3. pontja, az 1397/2021. (VI. 24.) Korm. határozat 3. pontja, az 1445/2021. (VII. 6.) Korm. határozat 3. pontja, az 1479/2021. (VII. 15.) Korm. határozat 3. pontja, az 1500/2021. (VII. 23.) Korm. határozat 3. pontja, az 1585/2021. (VIII. 11.) Korm. határozat 3. pont a) alpontja és 5. pontja, az 1844/2021. (XI. 30.) Korm. határozat 4. pontja, az 1110/2022. (III. 4.) Korm. határozat 3–4. pontja, az 1349/2022. (VII. 20.) Korm. határozat 6. pontja, az 1396/2022. (VIII. 11.) Korm. határozat 3. pontja, az 1397/2022. (VIII. 11.) Korm. határozat 3. pontja, az 1417/2022. (VIII. 18.) Korm. határozat 3. pont a) és b) alpontja, az 1482/2022. (X. 13.) Korm. határozat 3. és 4. pontja, az 1549/2022. (XI. 18.) Korm. határozat 2. pontja, az 1581/2022. (XI. 28.) Korm. határozat 3. pontja, az 1603/2022. (XII. 6.) Korm. határozat 2. pontja, az 1047/2023. (II. 22.) Korm. határozat 3. pont a)-b) alpontja, az 1054/2023. (II. 23.) Korm. határozat 3. pont a)-b) alpontja, az 1105/2023. (III. 29.) Korm. határozat 3. pontja, az 1126/2023. (IV. 5.) Korm. határozat 3. pontja, az 1153/2023. (IV. 24.) Korm. határozat 3. pontja, az 1450/2023. (X. 16.) Korm. határozat 3. pontja, az 1456/2023. (X. 25.) Korm. határozat 3. pontja, az 1476/2023. (XI. 2.) Korm. határozat 3. pontja, az 1494/2023. (XI. 13.) Korm. határozat 3. pontja, az 1512/2023. (XI. 22.) Korm. határozat 3. pontja szerint módosított szöveg. [Az 1. mellékletnek az 1844/2021. (XI. 30.) Korm. határozat 4. pont 4.1. alpont 4.1.2. alpontjával elrendelt módosítása nem vezethető át.]
+[^28]: Az 1/A. pont v) alpontját az 1539/2023. (XII. 6.) Korm. határozat 2. pontja iktatta be.
+[^29]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: Az 1. melléklet az 1201/2016. (IV. 15.) Korm. határozat 2. és 4. pontja, az 1472/2016. (VIII. 31.) Korm. határozat 1. és 3. pontja, az 1547/2016. (X. 19.) Korm. határozat 1. pont a) alpontja és 2. pontja, az 1859/2016. (XII. 27.) Korm. határozat 1. pont a) alpontja és 2. pont 2.1.–2.7. pontja, az 1271/2017. (V. 29.) Korm. határozat 2. pont a) alpontja és 3. pont 3.1.–3.6. alpontja, az 1837/2017. (XI. 9.) Korm. határozat 2. pont a) alpontja és 3. pont 3.1.–3.5. alpontja, az 1885/2017. (XI. 30.) Korm. határozat 2. pont a) alpontja, 3. pont 3.1–3.6. alpontja, az 1092/2018. (III. 13.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1339/2018. (VII. 25.) Korm. határozat 1. pont a) alpontja és 2. pontja, az 1545/2018. (X. 30.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1256/2019. (V. 3.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1450/2019. (VII. 26.) Korm. határozat 4. pont a) alpontja és 5. pontja, az 1684/2019. (XII. 5.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1169/2020. (IV. 21.) Korm. határozat 3. pont a) alpontja és 4. pontja, az 1301/2020. (VI. 11.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1362/2020. (VII. 2.) Korm. határozat 4. pontja és 6. pont a) alpontja, az 1474/2020. (VIII. 7.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1628/2020. (X. 1.) Korm. határozat 3. pontja, az 1735/2020. (XI. 2.) Korm. határozat 3. pontja, az 1827/2020. (XI. 19.) Korm. határozat 3. pont a) alpontja, az 1942/2020. (XII. 17.) Korm. határozat 3. pontja, az 1966/2020. (XII. 21.) Korm. határozat 3. pontja, a 2021/2020. (XII. 24.) Korm. határozat 4. pont a) alpontja, 5. pontja, az 1067/2021. (II. 19.) Korm. határozat 3–4. pontja, az 1248/2021. (V. 6.) Korm. rendelet 3. pontja, az 1310/2021. (V. 26.) Korm. határozat 3. pontja, az 1397/2021. (VI. 24.) Korm. határozat 3. pontja, az 1445/2021. (VII. 6.) Korm. határozat 3. pontja, az 1479/2021. (VII. 15.) Korm. határozat 3. pontja, az 1500/2021. (VII. 23.) Korm. határozat 3. pontja, az 1585/2021. (VIII. 11.) Korm. határozat 3. pont a) alpontja és 5. pontja, az 1844/2021. (XI. 30.) Korm. határozat 4. pontja, az 1110/2022. (III. 4.) Korm. határozat 3–4. pontja, az 1349/2022. (VII. 20.) Korm. határozat 6. pontja, az 1396/2022. (VIII. 11.) Korm. határozat 3. pontja, az 1397/2022. (VIII. 11.) Korm. határozat 3. pontja, az 1417/2022. (VIII. 18.) Korm. határozat 3. pont a) és b) alpontja, az 1482/2022. (X. 13.) Korm. határozat 3. és 4. pontja, az 1549/2022. (XI. 18.) Korm. határozat 2. pontja, az 1581/2022. (XI. 28.) Korm. határozat 3. pontja, az 1603/2022. (XII. 6.) Korm. határozat 2. pontja, az 1047/2023. (II. 22.) Korm. határozat 3. pont a)-b) alpontja, az 1054/2023. (II. 23.) Korm. határozat 3. pont a)-b) alpontja, az 1105/2023. (III. 29.) Korm. határozat 3. pontja, az 1126/2023. (IV. 5.) Korm. határozat 3. pontja, az 1153/2023. (IV. 24.) Korm. határozat 3. pontja, az 1450/2023. (X. 16.) Korm. határozat 3. pontja, az 1456/2023. (X. 25.) Korm. határozat 3. pontja, az 1476/2023. (XI. 2.) Korm. határozat 3. pontja, az 1494/2023. (XI. 13.) Korm. határozat 3. pontja, az 1512/2023. (XI. 22.) Korm. határozat 3. pontja, az 1539/2023. (XII. 6.) Korm. határozat 3. pontja szerint módosított szöveg. [Az 1. mellékletnek az 1844/2021. (XI. 30.) Korm. határozat 4. pont 4.1. alpont 4.1.2. alpontjával elrendelt módosítása nem vezethető át.]
