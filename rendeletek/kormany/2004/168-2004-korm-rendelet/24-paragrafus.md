@@ -1,10 +1,10 @@
 ## A keretszerződés, a keretmegállapodás és a szerződés
 
-24. §[^91] (1) A központosított közbeszerzési eljárás eredményeképpen keretmegállapodás vagy keretszerződés [közbeszerzési törvény 104–105. §], a keretmegállapodás vagy keretszerződés alapján egyedi szerződés jön létre.
+24. §[^89] (1) A központosított közbeszerzési eljárás eredményeképpen keretmegállapodás vagy keretszerződés [közbeszerzési törvény 104–105. §], a keretmegállapodás vagy keretszerződés alapján egyedi szerződés jön létre.
 
-(2)[^92] A keretmegállapodást vagy keretszerződést a központi beszerző szervezet köti a 26. § (1) bekezdése szerint lefolytatott közbeszerzési eljárás eredményeként.
+(2)[^90] A keretmegállapodást vagy keretszerződést a központi beszerző szervezet köti a 26. § (1) bekezdése szerint lefolytatott közbeszerzési eljárás eredményeként.
 
-(3)[^93] A központosított közbeszerzési eljárás eredményeképpen keretszerződés vagy keretmegállapodás legfeljebb 4 évre köthető, kivéve a kellően – különösen a keretmegállapodás tárgyára tekintettel – indokolt kivételes eseteket.
+(3)[^91] A központosított közbeszerzési eljárás eredményeképpen keretszerződés vagy keretmegállapodás legfeljebb 4 évre köthető, kivéve a kellően – különösen a keretmegállapodás tárgyára tekintettel – indokolt kivételes eseteket.
 
 (4) A keretszerződésnek legalább a következőket kell tartalmaznia:
 
@@ -24,7 +24,7 @@ g) a megrendelések kezdeményezésével, ezek visszaigazolásával, valamint a 
 
 h) a szerződésszegésért való felelősség szabályait,
 
-i)[^94] a keretszerződéssel és annak teljesítésével kapcsolatos adatszolgáltatási kötelezettségre vonatkozó, valamint az ennek végrehajtási módját szabályozó rendelkezéseket,
+i)[^92] a keretszerződéssel és annak teljesítésével kapcsolatos adatszolgáltatási kötelezettségre vonatkozó, valamint az ennek végrehajtási módját szabályozó rendelkezéseket,
 
 j) annak rögzítését, hogy az intézmény előleget nem adhat.
 
@@ -44,13 +44,13 @@ f) a szerződésszegésért való felelősség szabályait,
 
 g) a keretmegállapodáson alapuló egyedi szerződés megkötésére irányuló kiválasztási eljárás során alkalmazandó – a közbeszerzési törvény 105. § (4) bekezdése alapján meghatározott – értékelési szempontokat,
 
-h)[^95] a keretmegállapodással és annak teljesítésével kapcsolatos adatszolgáltatási kötelezettségre vonatkozó, valamint az ennek végrehajtási módját szabályozó rendelkezéseket.
+h)[^93] a keretmegállapodással és annak teljesítésével kapcsolatos adatszolgáltatási kötelezettségre vonatkozó, valamint az ennek végrehajtási módját szabályozó rendelkezéseket.
 
-i)[^96] a termékcsere lehetőségét és szabályait, összhangban a közbeszerzési törvény 141. § (4) bekezdés a) pontjával.
+i)[^94] a termékcsere lehetőségét és szabályait, összhangban a közbeszerzési törvény 141. § (4) bekezdés a) pontjával.
 
-[^91]: A 24. § a 323/2015. (X. 30.) Korm. rendelet 2. § (7) bekezdésével megállapított szöveg.
-[^92]: A 24. § (2) bekezdése a 165/2020. (IV. 30.) Korm. rendelet 15. § (1) bekezdésével megállapított, a 771/2021. (XII. 23.) Korm. rendelet 10. § i) pontja szerint módosított szöveg.
-[^93]: A 24. § (3) bekezdése a 771/2021. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^94]: A 24. § (4) bekezdés i) pontja a 165/2020. (IV. 30.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
-[^95]: A 24. § (5) bekezdés h) pontja a 165/2020. (IV. 30.) Korm. rendelet 15. § (3) bekezdésével megállapított szöveg.
-[^96]: A 24. § (5) bekezdés i) pontját a 648/2020. (XII. 23.) Korm. rendelet 1. § (5) bekezdése iktatta be, szövege a 330/2023. (VII. 19.) Korm. rendelet 6. § f) pontja szerint módosított szöveg.
+[^89]: A 24. § a 323/2015. (X. 30.) Korm. rendelet 2. § (7) bekezdésével megállapított szöveg.
+[^90]: A 24. § (2) bekezdése a 165/2020. (IV. 30.) Korm. rendelet 15. § (1) bekezdésével megállapított, a 771/2021. (XII. 23.) Korm. rendelet 10. § i) pontja szerint módosított szöveg.
+[^91]: A 24. § (3) bekezdése a 771/2021. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^92]: A 24. § (4) bekezdés i) pontja a 165/2020. (IV. 30.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^93]: A 24. § (5) bekezdés h) pontja a 165/2020. (IV. 30.) Korm. rendelet 15. § (3) bekezdésével megállapított szöveg.
+[^94]: A 24. § (5) bekezdés i) pontját a 648/2020. (XII. 23.) Korm. rendelet 1. § (5) bekezdése iktatta be, szövege a 330/2023. (VII. 19.) Korm. rendelet 6. § f) pontja szerint módosított szöveg.
