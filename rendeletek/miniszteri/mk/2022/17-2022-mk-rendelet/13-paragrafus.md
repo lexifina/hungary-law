@@ -138,14 +138,14 @@ d) nagyvállalkozás esetén a beruházó a beruházás megkezdésekor már lét
 
 (27) A támogatás széles sávú infrastruktúra kiépítéséhez abban az esetben nyújtható, ha a beruházást olyan területen valósítják meg, ahol nincs azonos kategóriájú infrastruktúra (különösen a széles sávú alaphálózat, újgenerációs hozzáférési hálózat), és ahol a piaci szereplő – egy ebből a célból meghirdetett nyilvános konzultáció keretében – nyilatkozik, hogy a támogatási döntés meghozatalától számított három éven belül piaci feltételek mellett nem tervez azonos kategóriájú infrastruktúrát kiépíteni.
 
-(28)[^22] A hálózat üzemeltetője tisztességes és megkülönböztetésmentes feltételek mellett a lehető legszélesebb körű aktív és passzív nagykereskedelmi hozzáférést biztosítja a támogatott infrastruktúrához.
+(28)[^30] A hálózat üzemeltetője tisztességes és megkülönböztetésmentes feltételek mellett a lehető legszélesebb körű aktív és passzív nagykereskedelmi hozzáférést biztosítja a támogatott infrastruktúrához.
 
-(29)[^23] A hálózat üzemeltetője a nagykereskedelmi hozzáférést az újgenerációs hozzáférési hálózat esetén fizikai átengedés révén biztosítja.
+(29)[^31] A hálózat üzemeltetője a nagykereskedelmi hozzáférést az újgenerációs hozzáférési hálózat esetén fizikai átengedés révén biztosítja.
 
-(30)[^24] A kedvezményezettről és a támogatás összegéről a támogatást nyújtó nyílt, átlátható, megkülönböztetésmentes és a technológiasemlegesség elvén alapuló pályáztatás alapján dönt.
+(30)[^32] A kedvezményezettről és a támogatás összegéről a támogatást nyújtó nyílt, átlátható, megkülönböztetésmentes és a technológiasemlegesség elvén alapuló pályáztatás alapján dönt.
 
 (31) A támogatást nyújtó a kedvezményezettről és a támogatás összegéről nyílt, átlátható, megkülönböztetésmentes és a technológiasemlegesség elvén alapuló pályáztatás alapján dönt.
 
-[^22]: A 13. § (28) bekezdését a 26/2023. (IX. 21.) MK rendelet 6. § (1) bekezdése iktatta be.
-[^23]: A 13. § (29) bekezdése a 26/2023. (IX. 21.) MK rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^24]: A 13. § (30) bekezdése a 26/2023. (IX. 21.) MK rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^30]: A 13. § (28) bekezdését a 26/2023. (IX. 21.) MK rendelet 6. § (1) bekezdése iktatta be.
+[^31]: A 13. § (29) bekezdése a 26/2023. (IX. 21.) MK rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^32]: A 13. § (30) bekezdése a 26/2023. (IX. 21.) MK rendelet 6. § (2) bekezdésével megállapított szöveg.

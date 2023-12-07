@@ -144,7 +144,7 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 66. működési eredmény: a beruházásnak az Sztv. 3. § (4) bekezdés 5. pontja szerinti hasznos élettartama alatt elért – a projektkockázat és a tőkeköltség alapján a támogatást nyújtó által jóváhagyott diszkonttényezővel diszkontált – bevételei, csökkentve az ugyanezen diszkonttényezővel diszkontált működési költségekkel, így különösen a személyi jellegű ráfordítással, anyagköltséggel, szerződéses szolgáltatással, a távközléssel, az energiával és a karbantartással, bérleti díjjal, az adminisztrációval összefüggő költséggel, kivéve az olyan értékcsökkenési és a finanszírozási költséget, amelyet beruházási támogatásból már fedeztek, azzal, hogy ha a számítás eredménye negatív, a működési eredmény nulla;
 
-67.[^4] nagyberuházás: az induló beruházás, amelyhez kapcsolódóan az elszámolható költségek összege – az összeszámítási szabályt figyelembe véve – jelenértéken meghaladja az 50 millió eurónak megfelelő forintösszeget;
+67.[^12] nagyberuházás: az induló beruházás, amelyhez kapcsolódóan az elszámolható költségek összege – az összeszámítási szabályt figyelembe véve – jelenértéken meghaladja az 50 millió eurónak megfelelő forintösszeget;
 
 68. nagykereskedelmi hozzáférés: a 651/2014/EU bizottsági rendelet 2. cikk 139. pontja szerinti hozzáférés;
 
@@ -220,4 +220,4 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 (2) Az (1) bekezdés 29. pontja szerinti ellenszolgáltatás meghaladja a részvételi költségeket, és a sportoló jövedelmének jelentős részét kell kitennie, függetlenül attól, hogy a sportoló és az érintett sportvállalkozás kötött-e munka- vagy más, munkavégzésre irányuló szerződést. Nem minősül ellenszolgáltatásnak a sportrendezvényen való részvételhez kapcsolódó utazási és szállásköltségek megtérítése.
 
-[^4]: A 3. § (1) bekezdés 67. pontja a 20/2022. (XII. 27.) MK rendelet 12. § a) pontja szerint módosított szöveg.
+[^12]: A 3. § (1) bekezdés 67. pontja a 20/2022. (XII. 27.) MK rendelet 12. § a) pontja szerint módosított szöveg.

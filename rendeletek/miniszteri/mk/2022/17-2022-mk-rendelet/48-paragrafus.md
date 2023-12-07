@@ -4,6 +4,6 @@
 
 (3) A támogatás a 6. § szerint halmozható egyéb állami támogatással, azzal, hogy a támogatás nem halmozható olyan egyéb állami támogatással, amelynek szabályai alapján a kedvezményezett az elszámolható költségeknek és a beruházás működési eredményének a különbségét meg nem haladó mértékű támogatásban részesülhet.
 
-(4)[^45] A támogatás azonos vagy részben azonos elszámolható költségekre nem halmozható a válságközlemény 2.1. szakasza szerinti válságtámogatással.
+(4)[^53] A támogatás azonos vagy részben azonos elszámolható költségekre nem halmozható a válságközlemény 2.1. szakasza szerinti válságtámogatással.
 
-[^45]: A 48. § (4) bekezdését a 20/2022. (XII. 27.) MK rendelet 8. §-a iktatta be.
+[^53]: A 48. § (4) bekezdését a 20/2022. (XII. 27.) MK rendelet 8. §-a iktatta be.

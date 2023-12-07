@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-17-20-7
 | 2022-12-28 | 2022-17-20-7G.3 | 20/2022. (XII. 27.) MK rendelet |
 | 2023-02-16 | 2022-17-20-7G.4 | 3/2023. (II. 15.) MK rendelet |
 | 2023-09-22 | 2022-17-20-7G.5 | 26/2023. (IX. 21.) MK rendelet |
+| 2023-12-07 | 2022-17-20-7G.6 | 28/2023. (XII. 6.) MK rendelet |
