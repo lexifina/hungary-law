@@ -1,4 +1,4 @@
-3. melléklet a 102/2021. (III. 3.) Korm. rendelethez[^4]
+3. melléklet a 102/2021. (III. 3.) Korm. rendelethez[^6]
 
 A Beruházás megvalósításához szükséges hatósági eljárások lefolytatására hatáskörrel rendelkező hatóságok
 
@@ -26,4 +26,4 @@ A Beruházás megvalósításához szükséges hatósági eljárások lefolytat�
 
 | 11. | bányahatósági engedélyezési eljárások | Pest Vármegyei Kormányhivatal |
 
-[^4]: A 3. melléklet az 546/2022. (XII. 22.) Korm. rendelet 276. §-a szerint módosított szöveg.
+[^6]: A 3. melléklet az 546/2022. (XII. 22.) Korm. rendelet 276. §-a szerint módosított szöveg.
