@@ -1,3 +1,5 @@
 ## 2. A Közbeszerzési és Ellátási Főigazgatóságról szóló 250/2014. (X. 2.) Korm. rendelet módosítása
 
-2. § Hatályát veszti a Közbeszerzési és Ellátási Főigazgatóságról szóló 250/2014. (X. 2.) Korm. rendelet 3. § (1) bekezdés f) pont fb) alpontjában az „a Szabályozott Tevékenységek Felügyeleti Hatósága,” szövegrész.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
