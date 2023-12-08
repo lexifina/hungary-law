@@ -1,3 +1,3 @@
-2. § A Rendelet a következő 19. §-sal egészül ki:
+2. §[^3]
 
-„19. § E rendeletnek a Magyar Export-Import Bank Zrt. által az állam készfizető kezessége mellett vállalható garanciák, valamint a deviza- és kamatcsere ügyletek pótlási- és kamatköltségei feltételeiről és részletes szabályairól szóló 435/2012. (XII. 29.) Korm. rendelet módosításáról szóló 538/2023. (XII. 6.) Korm. rendelettel (a továbbiakban: Módr.2) megállapított 2/a. alcímét és 1. mellékletét a Módr.2 hatálybalépését megelőzően az Eximbank által a Kormány határozata alapján nyújtott hitel- és pénzkölcsönhöz kapcsolódó, az Eximbank javára fennálló állami készfizető kezességvállalásra is alkalmazni kell.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
