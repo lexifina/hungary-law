@@ -1,3 +1,3 @@
-1. § A fejezeti és központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 17/2022. (XII. 1.) MK rendelet (a továbbiakban: Rendelet) 55. §-a a következő (8) bekezdéssel egészül ki:
+1. §[^2]
 
-„(8) E rendeletnek a fejezeti és központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 17/2022. (XII. 1.) MK rendelet tulajdonosi joggyakorlással kapcsolatos címrendi kiegészítéssel és felhasználási szabályokkal összefüggő módosításáról szóló 28/2023. (XII. 6.) MK rendelettel (a továbbiakban: Módr4.) megállapított 2. § (2) bekezdését, 1. mellékletében foglalt táblázat 18. és 21b. sorát a Módr4. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

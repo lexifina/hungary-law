@@ -1,5 +1,3 @@
-4. § Hatályát veszti a Rendelet
+4. §[^5]
 
-a) 2. § (2) bekezdés 4., 12. és 13. pontjában a „ , 18.” szövegrész, valamint
-
-b) 2. § (2) bekezdés 3. pontjában a „18.,” szövegrész.
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
