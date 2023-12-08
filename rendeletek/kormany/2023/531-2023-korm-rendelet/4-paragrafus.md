@@ -1,3 +1,3 @@
-4. § Az R. 188. §-a helyébe a következő rendelkezés lép:
+4. §[^5]
 
-„188. § (1) A Gazdasági Kabinet a Kormány vagy a miniszterelnök által meghatározott, így különösen
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

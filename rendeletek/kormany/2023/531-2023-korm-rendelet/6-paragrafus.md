@@ -1,3 +1,3 @@
-6. § Az R. a következő 190/A. §-sal egészül ki:
+6. §[^7]
 
-„190/A. § A Védelmi Tanács üléseit a miniszterelnök vezeti.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

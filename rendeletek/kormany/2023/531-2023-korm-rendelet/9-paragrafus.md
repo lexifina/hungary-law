@@ -1,9 +1,3 @@
-9. § Hatályát veszti az R.
+9. §[^10]
 
-a) 30. § (5) bekezdése,
-
-b) 103. § (3) bekezdése,
-
-c) 148. § (2) bekezdése,
-
-d) 188/A. §-a.
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
