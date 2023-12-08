@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-653-20-
 | 2023-01-01 | 2021-653-20-22.8 | 410/2022. (X. 24.) Korm. rendelet |
 | 2023-07-01 | 2021-653-20-22.9 | 285/2023. (VI. 30.) Korm. rendelet |
 | 2023-09-29 | 2021-653-20-22.10 | 2010: CXXX. törvény |
+| 2023-12-08 | 2021-653-20-22.11 | 2010: CXXX. törvény |
