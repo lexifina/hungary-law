@@ -1,3 +1,3 @@
-1. § A Budapest–Kelebia határátkelő közti 150. számú vasútvonal fejlesztésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok, valamint a beruházás helyszínével, közvetlen környezetével érintett ingatlanok kijelöléséről szóló 102/2021. (III. 3.) Korm. rendelet (a továbbiakban: Korm. rendelet) a következő 9. §-sal egészül ki:
+1. §[^2]
 
-„9. § E rendeletnek a Budapest–Kelebia határátkelő közti 150. számú vasútvonal fejlesztésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok, valamint a beruházás helyszínével, közvetlen környezetével érintett ingatlanok kijelöléséről szóló 102/2021. (III. 3.) Korm. rendelet módosításáról szóló 540/2023. (XII. 6.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 1. mellékletben foglalt táblázat 5a–5b., 6., 8., 13., 26., 27., 29. és 50. sorát a Módr2. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
