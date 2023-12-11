@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme 75% réz és 25% nikkel ötvözetéből készült, súlya 30,8 gramm, átmérője 38,61 mm, széle recézett.
+
+(2) Az emlékérme előlapján a „Kúria300” logó emlékérmére adaptált ábrázolása látható, háttérben a kiegészítő arculati elemeket idéző motívumokkal. Kissé balra billentett sorokban, az előlap bal oldalán a „3000” értékjelzés, valamint a „FORINT” és a „MAGYARORSZÁG” felirat, az előlap jobb oldalán a „BP.” verdejel és a „2023” verési évszám olvasható. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján Stróbl Alajos Justitia című szobrának oldalnézeti ábrázolása látható, fókuszban az igazság mérlegével. A hátlap szélén, a szoborábrázolás fölött fonott zsinórt jelképező díszítőmotívum látható, a díszítőmotívum alatti köriratban, balra az „1723 ÓTA A JOGEGYSÉG ŐRE”, jobbra a „300 ÉVES A KÚRIA” felirat olvasható. A hátlap jobb oldalán – a szoborábrázolásba illesztve – Veres Gábor tervezőművész mesterjegye látható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
