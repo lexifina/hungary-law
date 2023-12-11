@@ -1,3 +1,3 @@
-4. §[^10]
+4. §[^11]
 
-[^10]: A 4. § a 6. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^11]: A 4. § a 6. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
