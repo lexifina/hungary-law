@@ -53,3 +53,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-20-00-00
 | 2022-08-11 | 2022. évi XXIV. törvény | 2001-20-00-00.66 |
 | 2023-01-01 | 2022. évi XXII. törvény | 2001-20-00-00.67 |
 | 2023-11-30 | 2023. évi LXXVI. törvény | 2001-20-00-00.68 |
+| 2023-12-12 | 2023. évi LXXVI. törvény | 2001-20-00-00.69 |

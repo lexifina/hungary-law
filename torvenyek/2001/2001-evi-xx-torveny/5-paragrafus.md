@@ -38,7 +38,7 @@ a) hosszú pozíció esetén: az az összeg, amennyivel a származtatott ügylet
 
 b) rövid pozíció esetén: az az összeg, amennyivel a határidős szerződés tárgyának névértéke meghaladja a származtatott ügylet alapjául szolgáló eszköz piaci értékét (vagy deviza esetén az elszámoló árát).
 
-(4) Az MFB Zrt. idegen devizában meghatározott, éven túli lejáratú forrásbevonását az államháztartásért felelős miniszterrel és a miniszterrel egyeztetve végzi.
+(4) Az MFB Zrt. idegen devizában meghatározott, éven túli lejáratú forrásbevonását a miniszterrel egyeztetve, az államháztartásért felelős miniszter egyidejű tájékoztatása mellett végzi.
 
 (5) Az (1) bekezdésben szereplő kezességek vállalására, beváltására, nyilvántartására és a hozzájuk kapcsolódó adatszolgáltatási kötelezettségre az államháztartásról szóló 2011. évi CXCV. törvényt, illetve annak felhatalmazása alapján kiadott jogszabályokat – a (6) és (7) bekezdésben foglalt kivételekkel – kell alkalmazni.
 

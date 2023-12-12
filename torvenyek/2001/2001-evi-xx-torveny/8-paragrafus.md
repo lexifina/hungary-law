@@ -10,7 +10,7 @@ c) pénzügyi intézménynek nem minősülő egy ügyféllel vagy egy ügyfélcs
 
 (1a) Az 575/2013/EU rendelet 4. cikk (1) bekezdés 39. pontjától eltérően az (1) bekezdés alkalmazása során az MFB Zrt. tekintetében nem minősül ügyfélcsoportnak azoknak az ügyfeleknek a köre, amely ügyfelek kizárólag az MFB Zrt.-vel fennálló kapcsolatukra tekintettel képeznének egyetlen kockázati tényezőt.
 
-(1b) Az (1) bekezdés alkalmazása során az 575/2013/EU rendelet 4. cikk (1) bekezdés 39. pontjától eltérően az MFB Zrt. tekintetében nem minősül ügyfélcsoportnak azoknak az ügyfeleknek a köre, amely ügyfelek részére az MFB Zrt. befektetési jegy lejegyzése vagy megvásárlása céljából nyújtott kölcsönt és amelyek a befektetési alapra, az alapkezelőre vagy azok keresztkapcsolataira tekintettel képeznének egyetlen kockázati tényezőt.
+(1b) Az (1) bekezdés alkalmazása során az 575/2013/EU rendelet 4. cikk (1) bekezdés 39. pontjától eltérően az MFB Zrt. tekintetében nem minősül ügyfélcsoportnak azoknak az ügyfeleknek a köre, amely ügyfelek részére az MFB Zrt. befektetési jegy lejegyzése vagy megvásárlása céljából nyújtott kölcsönt, és amelyek a befektetési alapra, az alapkezelőre, az alapkezelők keresztkapcsolataira, vagy a befektetési alap portfóliójában lévő eszközökkel kapcsolatos jogra vagy kötelezettségre tekintettel képeznének egyetlen kockázati tényezőt.
 
 (1c) Az (1) bekezdést nem kell alkalmazni az MFB Zrt. közvetlen többségi tulajdoni részesedésével működő gazdasági társaságokra, továbbá az 1. mellékletben meghatározott gazdasági társaságokra.
 

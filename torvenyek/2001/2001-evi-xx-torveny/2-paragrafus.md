@@ -26,7 +26,7 @@ szükséges hitelek refinanszírozásában;
 
 g) a Kormány határozata alapján az elemi kárt szenvedett térségben a gazdálkodó szervezetek, önkormányzatok és természetes személyek részére a kár következményeinek felszámolását szolgáló beruházások finanszírozásához szükséges hitel, illetve kölcsön formájában történő biztosításában;
 
-h) európai uniós források közvetítésében és ezen feladatához kapcsolódó hitel- és tőkefinanszírozásban, garancia nyújtásában és kezesség vállalásában, vissza nem térítendő támogatás nyújtásában;
+h) az európai uniós források, valamint az ezek felhasználásáról szóló jogszabályok által meghatározott források közvetítésében és ezen feladatához kapcsolódó hitel- és tőkefinanszírozásban, garancia nyújtásában és kezesség vállalásában, vissza nem térítendő támogatás nyújtásában;
 
 i) a Kormány határozata alapján a Magyar Vállalkozásfejlesztési Alapítvány, valamint a vármegyei és fővárosi vállalkozásfejlesztési alapítványok mikrohitelezési tevékenységéhez szükséges hitelek, illetve kölcsönök finanszírozásában;
 

@@ -30,7 +30,7 @@ j) követelésvásárlási tevékenység, ha az a 2. §-ban meghatározott felad
 
 (2a) Az MFB Zrt. az (1) bekezdésben meghatározott körben, a 2. § o) pontjában szereplő feladatához kapcsolódóan iratok – kockázatvállalásból eredő kitettséget nem eredményező – formai vizsgálatát végezheti.
 
-(3) Az MFB Zrt. az (1) bekezdésben meghatározott körben, a (2) bekezdés szerinti pénzügyi szolgáltatási tevékenységeken túlmenően – jogszabály, vagy az érintett minisztériumokkal, vagy más jogi személyekkel kötött szerződés alapján – az elkülönített állami pénzalapokból, a fejezeti kiadási előirányzatokból és európai uniós forrásokból finanszírozott operatív programokhoz kapcsolódó feladatokat láthat el, így különösen:
+(3) Az MFB Zrt. az (1) bekezdésben meghatározott körben, a (2) bekezdés szerinti pénzügyi szolgáltatási tevékenységeken túlmenően – jogszabály, vagy az érintett minisztériumokkal, vagy más jogi személyekkel kötött szerződés alapján – az elkülönített állami pénzalapokból, a fejezeti kiadási előirányzatokból és európai uniós forrásokból, valamint az ezek felhasználásáról szóló jogszabályok által meghatározott forrásokból finanszírozott programokhoz kapcsolódó feladatokat láthat el, így különösen:
 
 a) támogatott pályázatok kezelését;
 
@@ -47,6 +47,8 @@ f) visszatérítendő, valamint vissza nem térítendő európai uniós forráso
 g) tanácsadást; valamint
 
 h) egyéb, az a)–g) pontban foglaltakhoz kapcsolódó kiegészítő szolgáltatásokat.
+
+(3a) A (3) bekezdésben meghatározott forrásokkal kapcsolatos feladatkörében az MFB Zrt. jár el a bírósági és a hatósági eljárásokban a visszafizetési kötelezettséggel kihelyezett források behajtása érdekében, ideértve a követelések és a biztosítékok érvényesítését is.
 
 (4) Az MFB Zrt. az (1) bekezdésben meghatározott körben, a (2) bekezdés szerinti pénzügyi szolgáltatási tevékenységeken túlmenően befektetési alap által kibocsátott befektetési jegyet vásárolhat.
 
@@ -72,4 +74,4 @@ h) egyéb, az a)–g) pontban foglaltakhoz kapcsolódó kiegészítő szolgálta
 
 (14) Az MFB Zrt. jogosult ellenőrizni az 1. mellékletben meghatározott, valamint a közvetlen vagy közvetett tulajdoni részesedésével működő gazdálkodó szervezetek gazdálkodását, működését. Az ellenőrzött szervezet, a szervezet vezetője, alkalmazottja adatszolgáltatásra és együttműködésre köteles.
 
-(15)
+(15) Az MFB Zrt. veszteségmérséklés céljából pénzügyi intézménytől hitelállományt vehet át és követelést vásárolhat.
