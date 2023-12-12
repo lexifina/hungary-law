@@ -1,4 +1,4 @@
-7/B. §[^11] (1) Videotechnológiás kapcsolattal történő ügyintézés esetén az E-ügyintézési tv. 17/A. § (2) bekezdés a) pontja szerinti esetben az azonosítás érvényes személyazonosság igazolására alkalmas okmány (a továbbiakban: okmány) birtokában kezdeményezhető.
+7/B. §[^14] (1) Videotechnológiás kapcsolattal történő ügyintézés esetén az E-ügyintézési tv. 17/A. § (2) bekezdés a) pontja szerinti esetben az azonosítás érvényes személyazonosság igazolására alkalmas okmány (a továbbiakban: okmány) birtokában kezdeményezhető.
 
 (2) Az azonosítás feltétele, hogy az azonosítás során használt elektronikus hírközlő eszköz képfelbontása és a kép megvilágítása alkalmas legyen az ügyfél nemének, korának, arcjellemzőinek felismerésére, valamint az ügyfél
 
@@ -24,4 +24,4 @@ hitelesíti.
 
 (5) A videotechnológiás kapcsolattal történő ügyintézés során keletkezett érdemi nyilatkozatot tartalmazó elektronikus dokumentum megőrzési ideje megegyezik az adott ügytípus esetében előírt megőrzési idővel.
 
-[^11]: A 7/B. §-t a 717/2021. (XII. 20.) Korm. rendelet 20. § (2) bekezdése iktatta be.
+[^14]: A 7/B. §-t a 717/2021. (XII. 20.) Korm. rendelet 20. § (2) bekezdése iktatta be.

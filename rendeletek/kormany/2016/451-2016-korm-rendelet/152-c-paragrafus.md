@@ -1,10 +1,10 @@
-## 37/C. [^214] Az informatikai együttműködés felügyeleti vizsgálata
+## 37/C. [^221] Az informatikai együttműködés felügyeleti vizsgálata
 
 ## 152/C. § A felügyelet E-ügyintézési tv. 76. §-a szerinti felügyeleti vizsgálata különösen az alábbiakra terjed ki:
 
 a) az együttműködés alapelveinek érvényesülése,
 
-b)[^215] az adatkezelési tevékenységek nyilvántartása vezetésének megfelelősége,
+b)[^222] az adatkezelési tevékenységek nyilvántartása vezetésének megfelelősége,
 
 c) az informatikai együttműködés technikai alapkövetelményeinek történő megfelelés,
 
@@ -24,5 +24,5 @@ j) az információátadási szabályzat tartalmára, közzétételére, módosí
 
 k) az információátadási megállapodásra vonatkozó jogszabályi rendelkezések betartása és az információátadási megállapodásban foglaltak gyakorlati érvényesülése.
 
-[^214]: A 37/C. alcímet (152/C. §) a 221/2017. (VIII. 7.) Korm. rendelet 7. § (12) bekezdése iktatta be.
-[^215]: A 152/C. § b) pontja a 717/2021. (XII. 20.) Korm. rendelet 22. § c) pontja szerint módosított szöveg.
+[^221]: A 37/C. alcímet (152/C. §) a 221/2017. (VIII. 7.) Korm. rendelet 7. § (12) bekezdése iktatta be.
+[^222]: A 152/C. § b) pontja a 717/2021. (XII. 20.) Korm. rendelet 22. § c) pontja szerint módosított szöveg.

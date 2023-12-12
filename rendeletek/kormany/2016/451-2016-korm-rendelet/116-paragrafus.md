@@ -1,4 +1,4 @@
-116. §[^128] (1)[^129] Az e-Űrlap szolgáltatás a központi azonosítási ügynök szolgáltatáson keresztül elérhető elektronikus azonosítási megoldással azonosított ügyfél számára érhető el.
+116. §[^131] (1)[^132] Az e-Űrlap szolgáltatás a központi azonosítási ügynök szolgáltatáson keresztül elérhető elektronikus azonosítási megoldással azonosított ügyfél számára érhető el.
 
 (2) A szolgáltató az elektronikus űrlapot olyan formátumban állítja elő,
 
@@ -10,11 +10,11 @@ b) amely automatizált feldolgozásra alkalmas, strukturált módon tartalmazza 
 
 (4) A szolgáltatás része a kitöltött űrlapot és csatolmányait tartalmazó elektronikus dokumentum hivatali tárhelyre történő kézbesítésre átadása a biztonságos kézbesítési szolgáltatás részére.
 
-(5)[^130] A szolgáltató az azonosítás során megismert, valamint az űrlapon megadott adatok alapján az elektronikusan hozzáférhető nyilvántartásokból – ideértve az ügyintézési rendelkezések nyilvántartását vezető szerv ügynöki szolgáltatásán keresztül történő hozzáférést is – az űrlap adatokkal történő kiegészítését biztosíthatja. Az űrlap automatikus kitöltésű adatainál az űrlapot rendszeresítő, az adott űrlapra a szolgáltatás nyújtását igénylő elektronikus ügyintézést biztosító szerv az adatokra vonatkozó adatkezelési jogát az igénye bejelentésekor igazolja.
+(5)[^133] A szolgáltató az azonosítás során megismert, valamint az űrlapon megadott adatok alapján az elektronikusan hozzáférhető nyilvántartásokból – ideértve az ügyintézési rendelkezések nyilvántartását vezető szerv ügynöki szolgáltatásán keresztül történő hozzáférést is – az űrlap adatokkal történő kiegészítését biztosíthatja. Az űrlap automatikus kitöltésű adatainál az űrlapot rendszeresítő, az adott űrlapra a szolgáltatás nyújtását igénylő elektronikus ügyintézést biztosító szerv az adatokra vonatkozó adatkezelési jogát az igénye bejelentésekor igazolja.
 
-(6)[^131] Az elektronikus ügyintézést biztosító szerv köteles biztosítani, hogy az űrlap automatikus kitöltésű rovatai csak olyan adatokat tartalmazzanak, amelyekre az adatkezelési jogosultsága fennáll.
+(6)[^134] Az elektronikus ügyintézést biztosító szerv köteles biztosítani, hogy az űrlap automatikus kitöltésű rovatai csak olyan adatokat tartalmazzanak, amelyekre az adatkezelési jogosultsága fennáll.
 
-[^128]: A 116. §-t megelőző „Elektronikus űrlapkitöltés-támogatási szolgáltatás” alcím címét az 572/2020. (XII. 9.) Korm. rendelet 105. § e) pontja hatályon kívül helyezte.
-[^129]: A 116. § (1) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 104. § b) pontja szerint módosított szöveg.
-[^130]: A 116. § (5) bekezdését a 221/2017. (VIII. 7.) Korm. rendelet 7. § (4) bekezdése iktatta be, szövege a 6/2020. (I. 31.) Korm. rendelet 15. § (5) bekezdésével megállapított szöveg.
-[^131]: A 116. § (6) bekezdését a 221/2017. (VIII. 7.) Korm. rendelet 7. § (4) bekezdése iktatta be.
+[^131]: A 116. §-t megelőző „Elektronikus űrlapkitöltés-támogatási szolgáltatás” alcím címét az 572/2020. (XII. 9.) Korm. rendelet 105. § e) pontja hatályon kívül helyezte.
+[^132]: A 116. § (1) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 104. § b) pontja szerint módosított szöveg.
+[^133]: A 116. § (5) bekezdését a 221/2017. (VIII. 7.) Korm. rendelet 7. § (4) bekezdése iktatta be, szövege a 6/2020. (I. 31.) Korm. rendelet 15. § (5) bekezdésével megállapított szöveg.
+[^134]: A 116. § (6) bekezdését a 221/2017. (VIII. 7.) Korm. rendelet 7. § (4) bekezdése iktatta be.

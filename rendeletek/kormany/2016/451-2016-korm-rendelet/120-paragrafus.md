@@ -1,4 +1,4 @@
-120. §[^138] (1) Az értesítéshez szükséges adatokat
+120. §[^141] (1) Az értesítéshez szükséges adatokat
 
 a) a 119. § (1) bekezdés b) pontja szerinti üzenetküldés esetén a csatlakozott szerv és az érintett más szolgáltató küldi meg az esemény bekövetkezésekor a szolgáltatónak,
 
@@ -12,4 +12,4 @@ b) az (1) bekezdés b) pontja esetén az adatszolgáltatást megelőzően
 
 ellenőrzi a rendelkezési nyilvántartásban.
 
-[^138]: A 120. § a 717/2021. (XII. 20.) Korm. rendelet 20. § (10) bekezdésével megállapított szöveg.
+[^141]: A 120. § a 717/2021. (XII. 20.) Korm. rendelet 20. § (10) bekezdésével megállapított szöveg.

@@ -40,3 +40,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-451-20-
 | 2023-07-22 | 2016-451-20-22.33 | 717/2021. (XII. 20.) Korm. rendelet |
 | 2023-08-01 | 2016-451-20-22.34 | 338/2023. (VII. 25.) Korm. rendelet |
 | 2023-10-31 | 2016-451-20-22.35 | 717/2021. (XII. 20.) Korm. rendelet |
+| 2023-12-12 | 2016-451-20-22.38 | 528/2023. (XII. 1.) Korm. rendelet |

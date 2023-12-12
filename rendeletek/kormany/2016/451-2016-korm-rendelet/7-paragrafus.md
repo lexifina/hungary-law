@@ -1,4 +1,4 @@
-7. §[^8] (1)[^9] Ha az ügyfél úgy kíván az általános célú elektronikus kéreleműrlap szolgáltatás (a továbbiakban: e-Papír szolgáltatás) útján kérelmet, iratot, egyéb beadványt (a továbbiakban együtt: beadvány) benyújtani, hogy
+7. §[^11] (1)[^12] Ha az ügyfél úgy kíván az általános célú elektronikus kéreleműrlap szolgáltatás (a továbbiakban: e-Papír szolgáltatás) útján kérelmet, iratot, egyéb beadványt (a továbbiakban együtt: beadvány) benyújtani, hogy
 
 a) az adott beadvány esetében jogszabály alapján az elektronikus kapcsolattartásra nincs lehetőség,
 
@@ -18,5 +18,5 @@ a) maradéktalanul megtehetőek legyenek azok a nyilatkozatok, amelyek megtétel
 
 b) valamennyi nyilatkozat esetében ellenőrizhető és utólag igazolható legyen, hogy azokat az ügyfél tette meg.
 
-[^8]: A 7. § a 361/2017. (XI. 30.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^9]: A 7. § (1) bekezdése a 73/2018. (IV. 20.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^11]: A 7. § a 361/2017. (XI. 30.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^12]: A 7. § (1) bekezdése a 73/2018. (IV. 20.) Korm. rendelet 10. §-ával megállapított szöveg.

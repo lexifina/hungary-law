@@ -2,9 +2,9 @@
 
 ## 40. § A 16. alcím vonatkozásában:
 
-1.[^24] csatlakozott ügyfélszolgálat: 1818-as számon hívható, az országos telefonos ügyfélszolgálathoz csatlakozott olyan telefonos ügyfélszolgálat, mely a 8. pontban foglalt országos telefonos ügyfélszolgálat feladatainak ellátásában közvetlenül vesz részt, és a Kormányzati Ügyfélvonal működtetője által meghatározott szolgáltatási szabályok alapján működik;
+1.[^27] csatlakozott ügyfélszolgálat: 1818-as számon hívható, az országos telefonos ügyfélszolgálathoz csatlakozott olyan telefonos ügyfélszolgálat, mely a 8. pontban foglalt országos telefonos ügyfélszolgálat feladatainak ellátásában közvetlenül vesz részt, és a Kormányzati Ügyfélvonal működtetője által meghatározott szolgáltatási szabályok alapján működik;
 
-2.[^25] kapcsolattartási csatorna: a 8. pontban foglalt országos telefonos ügyfélszolgálat és az ügyfelek között rendelkezésre álló szóbeli és elektronikus kapcsolattartási formák, ilyen különösen a telefon, internetprotokollon alapuló telefon (VoIP), telefax, rövid szöveges üzenet (SMS), azonnali válaszadást lehetővé tevő chatszolgáltatás, a fórum, az elektronikus levél (e-mail) és az élő videóképes telekommunikációs csatorna;
+2.[^28] kapcsolattartási csatorna: a 8. pontban foglalt országos telefonos ügyfélszolgálat és az ügyfelek között rendelkezésre álló szóbeli és elektronikus kapcsolattartási formák, ilyen különösen a telefon, internetprotokollon alapuló telefon (VoIP), telefax, rövid szöveges üzenet (SMS), azonnali válaszadást lehetővé tevő chatszolgáltatás, a fórum, az elektronikus levél (e-mail) és az élő videóképes telekommunikációs csatorna;
 
 3. Kormányzati Ügyfélvonal: 1818-as rövidített hívószámon elérhető telefonos ügyfélszolgálat, mely a 8. pontban meghatározott országos telefonos ügyfélszolgálat bázisaként működik;
 
@@ -18,5 +18,5 @@
 
 8. országos telefonos ügyfélszolgálat: online hozzáférés lehetőségét is biztosító telefonos ügyfélszolgálati hálózat, amely a Kormányzati Ügyfélvonalból és a csatlakozott ügyfélszolgálatokból áll.
 
-[^24]: A 40. § 1. pontja a 361/2017. (XI. 30.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
-[^25]: A 40. § 2. pontja a 717/2021. (XII. 20.) Korm. rendelet 20. § (3) bekezdésével megállapított szöveg.
+[^27]: A 40. § 1. pontja a 361/2017. (XI. 30.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
+[^28]: A 40. § 2. pontja a 717/2021. (XII. 20.) Korm. rendelet 20. § (3) bekezdésével megállapított szöveg.

@@ -10,5 +10,8 @@
 
 (3)[^2] A 23/A. alcím hatálya az E-ügyintézési tv. szerinti szabályozott elektronikus ügyintézési szolgáltatások és a központi elektronikus ügyintézési szolgáltatások nyújtóira és azok E-ügyintézési tv. 42/A. § szerinti igénybevevőire, valamint az Elektronikus Ügyintézési Felügyeletre terjed ki.
 
+(4)[^3] E rendelet szabályait kell alkalmazni a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény 31. §-a szerint elektronikus úton elérhető egyablakos tájékoztatási és ügyintézési pont kialakítására és működtetésére.
+
 [^1]: Az 1. § (1) bekezdése a 361/2017. (XI. 30.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (3) bekezdését a 361/2017. (XI. 30.) Korm. rendelet 5. § (1) bekezdése iktatta be.
+[^3]: Az 1. § (4) bekezdését az 528/2023. (XII. 1.) Korm. rendelet 4. § (1) bekezdése iktatta be.

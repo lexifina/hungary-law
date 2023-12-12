@@ -1,3 +1,3 @@
-72/A. §[^50]
+72/A. §[^53]
 
-[^50]: A 72/A. §-t a 284/2020. (VI. 17.) Korm. rendelet 83. §-a iktatta be, hatályon kívül helyezte e módosító rendelet 84. §-a.
+[^53]: A 72/A. §-t a 284/2020. (VI. 17.) Korm. rendelet 83. §-a iktatta be, hatályon kívül helyezte e módosító rendelet 84. §-a.
