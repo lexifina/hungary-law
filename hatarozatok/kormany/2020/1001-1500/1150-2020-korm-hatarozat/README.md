@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1150-30
 | 2021-06-22 | 2020-1150-30-22.2 | 1392/2021. (VI. 22.) Korm. határozat |
 | 2021-12-21 | 2020-1150-30-22.3 | 1392/2021. (VI. 22.) Korm. határozat |
 | 2022-12-23 | 2020-1150-30-22.4 | 1392/2021. (VI. 22.) Korm. határozat |
+| 2023-12-12 | 2020-1150-30-22.5 | 1392/2021. (VI. 22.) Korm. határozat |

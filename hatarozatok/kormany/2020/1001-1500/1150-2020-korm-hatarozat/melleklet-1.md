@@ -36,7 +36,7 @@
 
 | 6. | Csiky Gergely Színház Közhasznú Nonprofit Korlátolt Felelősségű Társaság | Kaposvár Megyei Jogú Város Önkormányzata | 2024. december 31. |
 
-| 7. | Kecskeméti Katona József Nemzeti Színház | Kecskemét Megyei Jogú Város Önkormányzata | 2023. december 31. |
+| 7. | Kecskeméti Katona József Nemzeti Színház | Kecskemét Megyei Jogú Város Önkormányzata | 2024. december 31. |
 
 | 8. | Miskolci Nemzeti Színház Nonprofit Korlátolt Felelősségű Társaság | Miskolc Megyei Jogú Város Önkormányzata | 2024. december 31. |
 
@@ -84,4 +84,4 @@
 
 | 30. | Kövér Béla Bábszínház | Szeged Megyei Jogú Város Önkormányzata | 2024. december 31. |
 
-[^1]: Az 1. melléklet az 1392/2021. (VI. 22.) Korm. határozat 2. pontja, az 1945/2021. (XII. 21.) Korm. határozat 2. pontja, az 1673/2022. (XII. 23.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^1]: Az 1. melléklet az 1392/2021. (VI. 22.) Korm. határozat 2. pontja, az 1945/2021. (XII. 21.) Korm. határozat 2. pontja, az 1673/2022. (XII. 23.) Korm. határozat 2. pontja, az 1543/2023. (XII. 12.) Korm. határozat 2. pontja szerint módosított szöveg.
