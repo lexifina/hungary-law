@@ -1,5 +1,5 @@
 ## 6. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-7. §[^1]
+7. §[^4]
 
-[^1]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

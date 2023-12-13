@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-4-20-6Q
 | --- | --- | --- |
 | 2020-02-18 | 2020-4-20-6Q.1 | 4/2020. (II. 17.) KKM rendelet |
 | 2020-02-19 | 2020-4-20-6Q.2 | 2010: CXXX. törvény |
+| 2023-12-13 | 2020-4-20-6Q.3 | 12/2023. (XII. 12.) KKM rendelet |
