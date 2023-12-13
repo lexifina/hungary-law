@@ -1,6 +1,6 @@
-8. § (1) A miniszter a pályázóval az ösztöndíj odaítéléséről szóló értesítésben megjelölt határidőn belül az 4. § d) pontja szerinti ösztöndíjszerződést köt. A miniszter a nyertes pályázók névsorát az (5) bekezdés e) pontja alapján adott hozzájárulásuk alapján a minisztérium hivatalos honlapján közzéteszi.
+8. § (1)[^20] A miniszter a pályázóval az ösztöndíj odaítéléséről szóló értesítésben megjelölt határidőn belül a 4. § d) pontja szerinti ösztöndíjszerződést köt. A miniszter a nyertes pályázók névsorát az (5) bekezdés e) pontja alapján adott hozzájárulásuk alapján a minisztérium hivatalos honlapján közzéteszi.
 
-(2)[^16] Ha a pályázó az ösztöndíj odaítéléséről szóló értesítésben megjelölt határidőn belül az (1) bekezdés szerinti szerződést nem köti meg, a pályázó helyébe a 7. § (5) bekezdés b) pontja szerinti rangsorolási listán soron következő – a fogadóintézmény által is támogatott – pályázó lép.
+(2)[^21] Ha a pályázó az ösztöndíj odaítéléséről szóló értesítésben megjelölt határidőn belül az (1) bekezdés szerinti szerződést nem köti meg, a pályázó helyébe a 7. § (5) bekezdés b) pontja szerinti rangsorolási listán soron következő – a fogadóintézmény által is támogatott – pályázó lép.
 
 (3) Ha a pályázó rajta kívül álló okból nem tudja az értesítésben megjelölt határidőn belül megkötni az (1) bekezdés szerinti szerződést, akkor erre a vendégoktatói ösztöndíjas jogviszonynak ösztöndíjszerződés szerinti tervezett kezdőnapját megelőző legkésőbb tizenötödik napig lehetőséget kell biztosítani számára.
 
@@ -14,14 +14,15 @@ b) a vendégoktatói ösztöndíjas jogviszony kezdetének és megszűnésének 
 
 c) az ösztöndíj és költségtérítés havi összegét, azok kifizetésének határidejét, módját,
 
-d)[^17] a fogadóintézményben a 2. § (1) bekezdés a) és b) pontjában meghatározott tevékenység folytatásának helyszínét, feltételeit, valamint az ezzel kapcsolatos jogokat és kötelezettségeket,
+d)[^22] a fogadóintézményben a 2. § (1) bekezdés a) és b) pontjában meghatározott tevékenység folytatásának helyszínét, feltételeit, valamint az ezzel kapcsolatos jogokat és kötelezettségeket,
 
 e) a személyes adatok kezelésére vonatkozó hozzájárulást,
 
-f)[^18] a nyilatkozatot, amelyben az ösztöndíjas vállalja, hogy a fogadóintézménnyel – amennyiben azt az oktatóhely megköveteli – a vendégoktatói ösztöndíjas jogviszony fennállta alatt foglalkoztatásra irányuló jogviszonyt létesít és tart fenn, valamint
+f)[^23] a nyilatkozatot, amelyben az ösztöndíjas vállalja, hogy a fogadóintézménnyel – amennyiben azt az oktatóhely megköveteli – a vendégoktatói ösztöndíjas jogviszony fennállta alatt foglalkoztatásra irányuló jogviszonyt létesít és tart fenn, valamint
 
 g) a szerződésszegés jogkövetkezményeit.
 
-[^16]: A 8. § (2) bekezdése a 307/2019. (XII. 17.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
-[^17]: A 8. § (5) bekezdés d) pontja a 307/2019. (XII. 18.) Korm. rendelet 3. § e) pontja szerint módosított szöveg.
-[^18]: A 8. § (5) bekezdés f) pontja a 307/2019. (XII. 18.) Korm. rendelet 3. § f) pontja szerint módosított szöveg.
+[^20]: A 8. § (1) bekezdése az 553/2023. (XII. 12.) Korm. rendelet 8. § d) pontja szerint módosított szöveg.
+[^21]: A 8. § (2) bekezdése a 307/2019. (XII. 17.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^22]: A 8. § (5) bekezdés d) pontja a 307/2019. (XII. 18.) Korm. rendelet 3. § e) pontja szerint módosított szöveg.
+[^23]: A 8. § (5) bekezdés f) pontja a 307/2019. (XII. 18.) Korm. rendelet 3. § f) pontja szerint módosított szöveg.

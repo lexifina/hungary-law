@@ -2,7 +2,7 @@
 
 a) közzéteszi az ösztöndíjprogramra és annak keretében az egyes ösztöndíjakra vonatkozó pályázati felhívást,
 
-b)[^4] kijelöli az ösztöndíjprogram keretében közzétett pályázati felhívás alapján benyújtott pályázatokat elbíráló bírálóbizottság (a továbbiakban: Bizottság) elnökét és tagjait,
+b)[^6] kijelöli az ösztöndíjprogram keretében közzétett pályázati felhívás alapján benyújtott pályázatokat elbíráló bírálóbizottság (a továbbiakban: Bizottság) elnökét és tagjait,
 
 c) visszavonja a Bizottság elnökének vagy tagjainak a kijelölését,
 
@@ -38,4 +38,4 @@ n) gondoskodik az ösztöndíjprogram részét képező egyéb programok megszer
 
 o) kapcsolatot tart az ösztöndíjprogramban részt vevő intézményekkel.
 
-[^4]: A 3. § b) pontja a 307/2019. (XII. 17.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
+[^6]: A 3. § b) pontja a 307/2019. (XII. 17.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.

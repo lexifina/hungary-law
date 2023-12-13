@@ -1,4 +1,4 @@
-6. § (1)[^7] A miniszter minden év november 30. napjáig nyilvános pályázati felhívást tesz közzé az ösztöndíjprogram keretében fogadóintézményben vendégoktatói ösztöndíjas jogviszony létesítésére.
+6. § (1)[^9] A miniszter minden év november 30. napjáig nyilvános pályázati felhívást tesz közzé az ösztöndíjprogram keretében fogadóintézményben vendégoktatói ösztöndíjas jogviszony létesítésére.
 
 (2) A miniszter indokolt esetben dönthet pályázati felhívásnak az (1) bekezdésben meghatározott időponttól eltérő pályázati felhívás közzétételéről is (rendkívüli pályázati felhívás).
 
@@ -16,7 +16,7 @@ d) az ösztöndíjasnak biztosítandó ösztöndíj, költségtérítés mérté
 
 e) a pályázati és kiválasztási eljárással, továbbá az ösztöndíjjal összefüggő egyéb követelményeket.
 
-(5)[^8] Pályázat benyújtására az a cselekvőképes, nagykorú, büntetlen előéletű magyar állampolgár jogosult, aki a pályázat benyújtásának időpontjában
+(5)[^10] Pályázat benyújtására az a cselekvőképes, nagykorú, büntetlen előéletű magyar állampolgár jogosult, aki a pályázat benyújtásának időpontjában
 
 a) lektori tevékenység esetén vagy mesterfokozatú magyar nyelv és irodalom tanára szakképzettséggel, vagy mesterfokozatú magyar mint idegen nyelv tanára szakképzettséggel rendelkezik,
 
@@ -28,17 +28,17 @@ d) megfelel a fogadóintézmény által meghatározott feltételeknek, valamint
 
 e) vállalja, hogy sikeres kiválasztás esetén a minisztériummal ösztöndíjszerződést köt.
 
-(6)[^9] Az (5) bekezdésben foglaltakon túli további feltétel, hogy ugyanazon fogadóintézménybe egymást követően csak két ösztöndíj nyerhető el.
+(6)[^11] Az (5) bekezdésben foglaltakon túli további feltétel, hogy ugyanazon fogadóintézménybe egymást követően legfeljebb két ösztöndíj nyerhető el, összességében legfeljebb hat év időtartamra.
 
-(7)[^10] A (6) bekezdésben foglaltak alól a miniszter a Bizottság javaslatára mentesítést adhat.
+(7)[^12] A (6) bekezdésben foglaltak alól a miniszter a Bizottság javaslatára mentesítést adhat.
 
-(8)[^11] Az (5) és (6) bekezdésben foglalt feltételek fennállását a pályázati eljárás folyamán a miniszter ellenőrzi.
+(8)[^13] Az (5) és (6) bekezdésben foglalt feltételek fennállását a pályázati eljárás folyamán a miniszter ellenőrzi.
 
-(9)[^12] A miniszter a pályázat elbírálásáról a pályázati felhívásban meghatározott határidőn belül elektronikus úton értesíti a pályázót.
+(9)[^14] A miniszter a pályázat elbírálásáról a pályázati felhívásban meghatározott határidőn belül elektronikus úton értesíti a pályázót.
 
-[^7]: A 6. § (1) bekezdése a 307/2019. (XII. 18.) Korm. rendelet 3. § e) pontja szerint módosított szöveg.
-[^8]: A 6. § (5) bekezdése a 307/2019. (XII. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^9]: A 6. § (6) bekezdése a 307/2019. (XII. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^10]: A 6. § (7) bekezdése a 307/2019. (XII. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^11]: A 6. § (8) bekezdését a 307/2019. (XII. 17.) Korm. rendelet 1. §-a iktatta be.
-[^12]: A 6. § (9) bekezdését a 307/2019. (XII. 17.) Korm. rendelet 1. §-a iktatta be.
+[^9]: A 6. § (1) bekezdése a 307/2019. (XII. 18.) Korm. rendelet 3. § e) pontja szerint módosított szöveg.
+[^10]: A 6. § (5) bekezdése a 307/2019. (XII. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^11]: A 6. § (6) bekezdése az 553/2023. (XII. 12.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^12]: A 6. § (7) bekezdése a 307/2019. (XII. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^13]: A 6. § (8) bekezdését a 307/2019. (XII. 17.) Korm. rendelet 1. §-a iktatta be.
+[^14]: A 6. § (9) bekezdését a 307/2019. (XII. 17.) Korm. rendelet 1. §-a iktatta be.

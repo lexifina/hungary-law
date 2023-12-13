@@ -1,8 +1,8 @@
-2. § (1) A Kormány által alapított vendégoktatói ösztöndíjprogram (a továbbiakban: ösztöndíjprogram) célja
+2. § (1)[^5] A Kormány által alapított vendégoktatói ösztöndíjprogram (a továbbiakban: ösztöndíjprogram) célja
 
-a)[^2] a magyar nyelv és kultúra megállapodás alapján külföldi felsőoktatási intézményben vagy külföldi magyar intézetben (a továbbiakban együtt: fogadóintézmény) történő oktatásának, megismertetésének és terjesztésének, valamint
+a) a magyar nyelv és kultúra megállapodás alapján a fogadóintézményben vagy külföldi magyar intézetben történő oktatásának, megismertetésének és terjesztésének, valamint
 
-b)[^3] a fogadóintézmény igénye szerinti külföldi hungarológiai kutatási és oktatási tevékenységekben való részvételének
+b) a fogadóintézmény igénye szerinti külföldi hungarológiai, illetve a közép-európai térséget illető kutatási és oktatási tevékenységeknek
 
 az elősegítése és támogatása.
 
@@ -12,5 +12,4 @@ az elősegítése és támogatása.
 
 (4) Az ösztöndíjprogram működtetésének pénzügyi fedezetét a minisztérium költségvetésében kell tervezni és biztosítani.
 
-[^2]: A 2. § (1) bekezdés a) pontja a 307/2019. (XII. 17.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
-[^3]: A 2. § (1) bekezdés b) pontja a 307/2019. (XII. 17.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^5]: A 2. § (1) bekezdése az 553/2023. (XII. 12.) Korm. rendelet 2. §-ával megállapított szöveg.
