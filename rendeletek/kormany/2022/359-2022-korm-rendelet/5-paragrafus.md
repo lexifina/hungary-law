@@ -1,3 +1,0 @@
-5. §[^3]
-
-[^3]: Az 5. § a 425/2022. (X. 28.) Korm. rendelet 1. § (3) bekezdés 55. pontja alapján nem lépett hatályba.
