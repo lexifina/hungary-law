@@ -1,0 +1,27 @@
+# A Kormány 1550/2023. (XII. 13.) Korm. határozata
+
+Magyar Közlöny 2023. évi 179. szám, 2023. december 13. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/GK8GbP7tJ1oGZbCrt8Nj6572129fab505/dokumentumok/a163ae949e7aa442664748aa04d9e922548077dc/letoltes)
+
+---
+
+A Kormány 1550/2023. (XII. 13.) Korm. határozata
+a 2021–2027 programozási időszakban az egyes víziközmű ágazati beruházások megvalósítása érdekében
+szükséges intézkedésekről
+A Kormány
+1. egyetért azzal, hogy a Környezeti és Energiahatékonysági Operatív Program Plusz (a továbbiakban: KEHOP Plusz)
+terhére finanszírozott ivóvízminőség-javító, valamint szennyvízelvezetési és -tisztítási projektekben
+a beruházásokkal összefüggő le nem vonható és el nem számolható általános forgalmi adó – amely a célterületekre
+rendelkezésre álló teljes forrásösszegre nézve nem haladja meg a 36 540 000 000 forintot – a központi költségvetés
+Uniós fejlesztések fejezet, KEHOP Plusz előirányzat hazai társfinanszírozáson felüli felhasználásával megtéríthető
+legyen az Uniós fejlesztések fejezetbe tartozó fejezeti és központi kezelésű előirányzatok felhasználásának rendjéről
+szóló 590/2022. (XII. 28.) Korm. rendelet [a továbbiakban: 590/2022. (XII. 28.) Korm. rendelet] 9. § (1) bekezdés
+b) pontja alapján;
+
+2. egyetért azzal, hogy a KEHOP Plusz terhére finanszírozott, derogációval összefüggő, uniós jogból fakadó
+kötelezettséggel érintett ivóvízminőség-javító, valamint szennyvízelvezetési és -tisztítási projektekben
+a költség-haszon elemzés eredményeként megállapított megtérülő projektköltség alapján meghatározott
+14 200 000 000 forint összegű önerő az 590/2022. (XII. 28.) Korm. rendelet 48. § (2) bekezdése alapján a központi
+költségvetés Uniós fejlesztések fejezet, KEHOP Plusz előirányzat hazai társfinanszírozáson felüli felhasználásával
+biztosítható legyen a közszféra szervezet kedvezményezettek részére.
+ Orbán Viktor s. k.,
+ miniszterelnök
