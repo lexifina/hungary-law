@@ -1,1 +1,0 @@
-## 101. § A munkaköri alkalmassági vizsgálatot a munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló 33/1998. (VI. 24.) NM rendeletben foglalt szakmai szabályok alkalmazásával kell végezni.

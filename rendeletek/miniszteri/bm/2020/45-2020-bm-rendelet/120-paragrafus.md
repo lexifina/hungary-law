@@ -1,3 +1,3 @@
-120. §[^50]
+120. §[^51]
 
-[^50]: A 120. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^51]: A 120. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
