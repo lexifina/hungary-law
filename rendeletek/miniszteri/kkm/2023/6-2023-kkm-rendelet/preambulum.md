@@ -1,0 +1,1 @@
+A konzuli kapcsolatokról Bécsben, 1963. április 24-én elfogadott egyezmény kihirdetéséről szóló 1987. évi 13. törvényerejű rendelet 3. § (2) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 139. § 2. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
