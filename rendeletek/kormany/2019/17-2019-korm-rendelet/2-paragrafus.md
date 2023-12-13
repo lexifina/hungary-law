@@ -1,4 +1,4 @@
-## 2. § A miniszter az 1. § szerinti felelősségi körében – szakmai alapfeladataként – az egységes külképviseleti rendszer és a külképviseleti hálózatot érintően az általa vezetett minisztérium (a továbbiakban: minisztérium) keretein belül
+2. §[^1] A miniszter az 1. § szerinti felelősségi körében – szakmai alapfeladataként – az egységes külképviseleti rendszer és a külképviseleti hálózatot érintően az általa vezetett minisztérium (a továbbiakban: Minisztérium) keretein belül
 
 a) gondoskodik a külképviseletekhez kötődő központi jogi, támogatási és beszerzési, közbeszerzési feladatok ellátásáról,
 
@@ -21,3 +21,5 @@ de) közreműködik a külszolgálati személyügyi műveleteket és adminisztr�
 df) közreműködik a tartós külszolgálati kihelyezés előtt álló, tartós külszolgálatra kihelyezettek, illetve a tartós külszolgálat megszűnését vagy megszüntetését követően átmeneti belföldi felkészülési állományba tartozó kormánytisztviselők álláshelyeinek nyilvántartásával kapcsolatos koordinatív és adminisztratív feladatok ellátásában,
 
 dg) gondoskodik a tartós külszolgálati személyzetpolitikát, a pályázati és kiválasztási rendszert és a tartós külszolgálati felkészítést érintően a szakmai módszertani anyagok és útmutatók kiadásáról.
+
+[^1]: A 2. § nyitó szövegrésze az 554/2023. (XII. 12.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
