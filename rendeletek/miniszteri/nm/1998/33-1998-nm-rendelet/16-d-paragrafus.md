@@ -1,6 +1,6 @@
-## A büntető ügyben kiszabott közérdekű munkához kapcsolódó foglalkoztathatósági szakvélemény[^101]
+## A büntető ügyben kiszabott közérdekű munkához kapcsolódó foglalkoztathatósági szakvélemény[^102]
 
-16/D. §[^102] (1) A foglalkoztathatóság szakvéleményezését a közérdekű munka esetén a pártfogó felügyelői szolgálat kezdeményezi a közérdekű munkahely kijelölése előtt az elítélt nevének és a közérdekű munkaként végezhető munkakör megnevezésének a megadásával.
+16/D. §[^103] (1) A foglalkoztathatóság szakvéleményezését a közérdekű munka esetén a pártfogó felügyelői szolgálat kezdeményezi a közérdekű munkahely kijelölése előtt az elítélt nevének és a közérdekű munkaként végezhető munkakör megnevezésének a megadásával.
 
 (2) A foglalkoztathatósági vizsgálatról a szakvéleményt
 
@@ -14,12 +14,12 @@ c) a feladatra szerződött foglalkozás-egészségügyi szakellátó hely szako
 
 (3) A szakvélemény a közérdekű munka megkezdésének kötelező feltétele.
 
-(4)[^103] A szakvélemény kiadásának díját az Igazságügyi Minisztérium viseli.
+(4)[^104] A szakvélemény kiadásának díját az Igazságügyi Minisztérium viseli.
 
 (5) A foglalkoztathatósági szakvélemény a kiállításától számított egy évig érvényes.
 
 Záró és átmeneti rendelkezések
 
-[^101]: A 16/D. §-t megelőző alcímet az 55/2013. (XII. 4.) NGM rendelet 2. § (4) bekezdése iktatta be.
-[^102]: A 16/D. §-t az 55/2013. (XII. 4.) NGM rendelet 2. § (4) bekezdése iktatta be.
-[^103]: A 16/D. § (4) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 10. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^102]: A 16/D. §-t megelőző alcímet az 55/2013. (XII. 4.) NGM rendelet 2. § (4) bekezdése iktatta be.
+[^103]: A 16/D. §-t az 55/2013. (XII. 4.) NGM rendelet 2. § (4) bekezdése iktatta be.
+[^104]: A 16/D. § (4) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 10. § (2) bekezdés a) pontja szerint módosított szöveg.

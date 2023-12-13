@@ -1,4 +1,4 @@
-17. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^120]
+17. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^121]
 
 Egészségügyi Nyilatkozat és vizsgálati adatok (borító)
 
@@ -262,4 +262,4 @@ Kötelező vizsgálatok
 
 | Vizsgálat fajtája* | Időpont | Eredmény |  | Vizsgálat fajtája* | Időpont | Eredmény |
 
-[^120]: A 17. számú mellékletet a 27/2000. (IX. 30.) EüM rendelet 14. §-ának (4) bekezdése, illetve 4. számú melléklete iktatta be, szövege a 19/2017. (IX. 18.) EMMI rendelet 9. § b) pontja és 10. § b) pontja szerint módosított szöveg.
+[^121]: A 17. számú mellékletet a 27/2000. (IX. 30.) EüM rendelet 14. §-ának (4) bekezdése, illetve 4. számú melléklete iktatta be, szövege a 19/2017. (IX. 18.) EMMI rendelet 9. § b) pontja és 10. § b) pontja szerint módosított szöveg.

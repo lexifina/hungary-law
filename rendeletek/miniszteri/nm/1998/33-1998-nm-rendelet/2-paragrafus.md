@@ -36,7 +36,7 @@ e) a túlnyomásos munkahelyeken dolgozók
 
 f)[^12] az egészségügyi tevékenységet folytatók,
 
-g)[^13] a polgári nemzetbiztonsági szolgálatok kivételével a rendvédelmi szervek hivatásos, kormányzati szolgálati jogviszonyban álló, közalkalmazotti és igazságügyi alkalmazotti állománya, valamint a hivatásos, kormánytisztviselői, közalkalmazotti és igazságügyi alkalmazotti állományba pályázók,
+g)[^13] a polgári nemzetbiztonsági szolgálatok kivételével a rendvédelmi szervek hivatásos, szerződéses határvadász jogviszonyban álló és igazságügyi alkalmazotti állománya, valamint a hivatásos, a szerződéses határvadász jogviszonyba és igazságügyi alkalmazotti állományba pályázók,
 
 h)[^14] az Országgyűlési Őrség hivatásos állománya, valamint a hivatásos állományba pályázók,
 
@@ -48,19 +48,22 @@ k)[^17] a Nemzeti Közszolgálati Egyetem rendészeti igazgatási szak biztonsá
 
 l)[^18] a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) kormánytisztviselői, kormányzati ügykezelői és hivatásos állománya, valamint a NAV-hoz szolgálati jogviszonyba felvételre jelentkezők
 
+m)[^19] a rendészetért felelős miniszter, a büntetés-végrehajtásért felelős miniszter és a katasztrófák elleni védekezésért felelős miniszter által irányított rendvédelmi szervnél foglalkoztatott fegyveres biztonsági őr
+
 munkaköri alkalmasságának orvosi vizsgálatánál és véleményezésénél.
 
-(3)[^19]
+(3)[^20]
 
 [^8]: A 2. § (1) bekezdése a 41/2012. (XII. 20.) NGM rendelet 4. §-ával megállapított szöveg.
 [^9]: A 2. § (1) bekezdés b) pont bc) alpontja a 23/2015. (IV. 28.) EMMI rendelet 18. § a) pontja, az 54/2022. (XII. 27.) BM rendelet 2. § a) pontja szerint módosított szöveg.
 [^10]: A 2. § (1) bekezdés c) pontja az 55/2013. (XII. 4.) NGM rendelet 2. § (2) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 18. § a) pontja, az 54/2022. (XII. 27.) BM rendelet 2. § a) pontja szerint módosított szöveg.
 [^11]: A 2. § (2) bekezdés c) pontja a 13/2014. (III. 14.) NGM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^12]: A 2. § (2) bekezdésének f) pontját a 18/2007. (V. 10.) SZMM rendelet 10. § (3) bekezdése iktatta be.
-[^13]: A 2. § (2) bekezdés g) pontját a 13/2014. (III. 14.) NGM rendelet 1. § (2) bekezdése iktatta be.
+[^13]: A 2. § (2) bekezdés g) pontját a 13/2014. (III. 14.) NGM rendelet 1. § (2) bekezdése iktatta be, szövege az 52/2023. (XII. 12.) BM rendelet 37. § (1) bekezdésével megállapított szöveg.
 [^14]: A 2. § (2) bekezdés h) pontját a 13/2014. (III. 14.) NGM rendelet 1. § (2) bekezdése iktatta be.
 [^15]: A 2. § (2) bekezdés i) pontját a 13/2014. (III. 14.) NGM rendelet 1. § (2) bekezdése iktatta be.
 [^16]: A 2. § (2) bekezdés j) pontját a 13/2014. (III. 14.) NGM rendelet 1. § (2) bekezdése iktatta be.
 [^17]: A 2. § (2) bekezdés k) pontját a 13/2014. (III. 14.) NGM rendelet 1. § (2) bekezdése iktatta be.
 [^18]: A 2. § (2) bekezdés l) pontját a 13/2014. (III. 14.) NGM rendelet 1. § (2) bekezdése iktatta be.
-[^19]: A 2. § (3) bekezdését a 18/2007. (V. 10.) SZMM rendelet 24. § d) pontja hatályon kívül helyezte.
+[^19]: A 2. § (2) bekezdés m) pontját az 52/2023. (XII. 12.) BM rendelet 37. § (2) bekezdése iktatta be.
+[^20]: A 2. § (3) bekezdését a 18/2007. (V. 10.) SZMM rendelet 24. § d) pontja hatályon kívül helyezte.
