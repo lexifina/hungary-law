@@ -1,0 +1,7 @@
+13. § (1) Az alkalmasságvizsgálat minősítését az alkalmasságvizsgálatot végző személy rögzíti az alkalmasságvizsgálatokat támogató informatikai keretrendszerben (a továbbiakban: informatikai rendszer).
+
+(2) Ha az alkalmasságvizsgálatot nem a vizsgált személy rendvédelmi alapellátó orvosa vagy rendvédelmi alapellátó pszichológusa végzi, az alkalmasságvizsgálat minősítésével együtt a vizsgálat során keletkező dokumentációt − beleértve ebbe az orvosi titoknak, különleges adatnak minősülő orvosi leleteket, illetve pszichikai teszteket, azok eredményeit − zárt borítékban csatolni kell a vizsgálatot kérő humánigazgatási szerv részére megküldendő minősítéshez. A zárt borítékban lévő orvosi, illetve pszichikai leleteket − kivéve, ha a jogviszony létrejöttére alkalmatlanság miatt nem kerül sor − a humánigazgatási szerv továbbítja a rendvédelmi alapellátó orvosnak vagy a rendvédelmi alapellátó pszichológusnak. A továbbított zárt boríték felbontására, illetve az abban lévő adatok kezelésére csak a rendvédelmi alapellátó orvos, valamint a rendvédelmi alapellátó pszichológus jogosult.
+
+(3) A jelentkező állományba vétele esetén a rendvédelmi alapellátó orvos a leletek kézhezvételét követően gondoskodik a fegyveres biztonsági őr állomány újonnan állományba vett tagja vonatkozásában egészségügyi törzskönyvének megnyitásáról.
+
+(4) A humánigazgatási szerv a minősítést és annak érvényességét tartalmazó dokumentumot a munkaügyi nyilvántartásban helyezi el.

@@ -1,0 +1,1 @@
+19. § A pszichikai alkalmasságvizsgálatot az informatikai rendszer támogatásával a vizsgálatot végző pszichológusnak vagy az őt segítő asszisztensnek dokumentálnia kell. A dokumentáció tartalmazza a végrehajtott vizsgálatok időpontját, megnevezését, a végrehajtott vizsgálatok dokumentumait, eredményeit és kiértékelését.
