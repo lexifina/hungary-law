@@ -120,3 +120,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1084-30
 | 2023-09-15 | 2016-1084-30-22.112 | 1625/2017. (IX. 11.) Korm. határozat |
 | 2023-10-06 | 2016-1084-30-22.113 | 1625/2017. (IX. 11.) Korm. határozat |
 | 2023-11-23 | 2016-1084-30-22.114 | 1651/2017. (IX. 12.) Korm. határozat |
+| 2023-12-13 | 2016-1084-30-22.115 | 1717/2016. (XII. 5.) Korm. határozat |
