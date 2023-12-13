@@ -32,4 +32,7 @@ Határidő: 2022. május 31.
 
 | Határidő: | a felmerülés ütemében |
 
+6.[^2] az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 36. § (4c) bekezdés b) pontjában biztosított jogkörében eljárva, illetve amennyiben a kötelezettségvállalásra a 2024. évben kerül sor, az Áht. 36. § (2) bekezdésében foglalt jogkörében eljárva engedélyezi a külgazdasági és külügyminiszter számára, hogy az 1. pontban foglalt feladat megvalósítása érdekében, az 5. pontban meghatározott előirányzat terhére legfeljebb 10 000 000 000 forint összeg mértékéig éven túli, illetve amennyiben a kötelezettségvállalásra a 2024. évben kerül sor, tárgyévi előirányzattal nem rendelkező közfeladathoz kapcsolódó tárgyévi kötelezettséget vállaljon, egyúttal az Áht. 36. § (4b) bekezdése alapján jóváhagyja az ötmilliárd forintot meghaladó értékű kötelezettségvállalás megtételét.
+
 [^1]: Az 5. pontot az 1405/2023. (IX. 21.) Korm. határozat iktatta be.
+[^2]: A 6. pontot az 1560/2023. (XII. 13.) Korm. határozat 2. pontja iktatta be.
