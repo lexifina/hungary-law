@@ -1,6 +1,4 @@
-## Önkormányzati tulajdonba adásra kerülő ingatlanok jegyzéke
-
-| Sor- szám | Önkormányzat | Ingatlan/tulajdoni hányad | Segítendő feladat/cél | Ingatlan-nyilvántartási megnevezés | Terület (m2) |
+|  | Önkormányzat | Ingatlan/tulajdoni hányad | Segítendő feladat/cél | Ingatlan-nyilvántartási megnevezés | Terület (m2) |
 
 | 1. | Aba Város Önkormányzata | Aba, külterület, 0453/2 helyrajzi szám (a továbbiak- ban: hrsz.) 1/1 | településfejlesztés, településrendezés, helyi közösségi közlekedés biztosítása / helyi közlekedés biztosítása céljára | kivett közút | 1925 |
 
@@ -311,3 +309,5 @@
 | 154. | Zsombó Nagyközség Önkormányzata | Zsombó, külterület, 0137/4 hrsz. 1/1 | településüzemeltetés feladatainak ellátása érdekében kívánja tulajdonba venni, és a 7 éve megépült kerékpárút fenntartásának céljára kívánja felhasználni | kivett kerékpárút | 216 |
 
 2. melléklet az 1243/2019. (IV. 30.) Korm. határozathoz
+
+A Magyar Máltai Szeretetszolgálat tulajdonába kerülő ingóságok jegyzéke

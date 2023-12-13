@@ -136,9 +136,9 @@
 
 ## a) az Érd belterület, 24099, 20248 és 20485 helyrajzi számú ingatlanok tulajdonjogának Érd Megyei Jogú Város Önkormányzata részére ingyenesen történő átruházása érdekében az MNV Zrt. útján – az érintett önkormányzat és a vagyonkezelő bevonásával – gondoskodjon a közúti közlekedésről szóló 1988. évi I. törvény 32. § (3) bekezdésében foglalt eljárás megindításáról,
 
-## b) a Budapest X. kerület, belterület 41451/3 helyrajzi számú ingatlan tulajdonjogának Budapest Főváros X. kerület Kőbánya Önkormányzata, valamint a Pápa, külterület 0998 helyrajzi számú ingatlan tulajdonjogának Pápa Város Önkormányzata részére ingyenesen történő átruházása érdekében az MNV Zrt. útján gondoskodjon az ingatlanok kivett megnevezésének módosítása ingatlan-nyilvántartásba történő bejegyzése érdekében szükséges eljárás megindításáról,
+## b)[^5] a Budapest X. kerület, belterület 41451/3 helyrajzi számú ingatlan tulajdonjogának Budapest Főváros X. kerület Kőbánya Önkormányzata részére ingyenesen történő átruházása érdekében az MNV Zrt. útján gondoskodjon az ingatlan kivett megnevezésének módosítása ingatlan-nyilvántartásba történő bejegyzése érdekében szükséges eljárás megindításáról,
 
-## c) a b) alpont szerinti feladat végrehajtását követően készítsen előterjesztést a Kormány részére az ingatlanok ingyenes tulajdonba adása érdekében.
+## c)[^6] a b) alpont szerinti feladat végrehajtását követően készítsen előterjesztést a Kormány részére az ingatlan ingyenes tulajdonba adása érdekében.
 
 ## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
@@ -146,10 +146,14 @@
 
 ## a c) alpont tekintetében 2019. október 31.
 
-1. melléklet az 1243/2019. (IV. 30.) Korm. határozathoz[^5]
+1. melléklet az 1243/2019. (IV. 30.) Korm. határozathoz[^7]
+
+Önkormányzati tulajdonba adásra kerülő ingatlanok jegyzéke
 
 [^1]: Az 5. pontot az 1588/2020. (IX. 21.) Korm. határozat 12. pontja visszavonta.
 [^2]: A 14. pontot az 1588/2020. (IX. 21.) Korm. határozat 12. pontja visszavonta.
 [^3]: A 15. pontot az 1588/2020. (IX. 21.) Korm. határozat 12. pontja visszavonta.
 [^4]: A 16. pontot az 1588/2020. (IX. 21.) Korm. határozat 12. pontja visszavonta.
-[^5]: Az 1. melléklet az 1588/2020. (IX. 21.) Korm. határozat 12. pontja szerint módosított szöveg.
+[^5]: A 18. pont b) alpontja az 1556/2023. (XII. 13.) Korm. határozat 2. és 3. pontja szerint módosított szöveg.
+[^6]: A 18. pont c) alpontja az 1556/2023. (XII. 13.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^7]: Az 1. melléklet az 1588/2020. (IX. 21.) Korm. határozat 12. pontja szerint módosított szöveg.
