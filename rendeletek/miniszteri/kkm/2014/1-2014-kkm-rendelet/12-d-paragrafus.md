@@ -1,4 +1,4 @@
-12/D. §[^32] (1) A „Külgazdasági és Külügyminisztérium Kiváló Külgazdasági Attaséja” Kitüntető Oklevél a Magyarország külképviseletein – a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény (a továbbiakban: Külszoltv.) szerinti tartós külszolgálatot teljesítő – külgazdasági attasé beosztott diplomata munkakört ellátó kormánytisztviselőnek adható, aki gazdaságdiplomáciai és külgazdasági tevékenységét kimagasló színvonalon végzi, tartós külszolgálatra történő kihelyezését követően legalább egy év eltelt, és kiemelkedő eredményt ért el a (2) bekezdésben meghatározott területek valamelyikén.
+12/D. §[^36] (1) A „Külgazdasági és Külügyminisztérium Kiváló Külgazdasági Attaséja” Kitüntető Oklevél a Magyarország külképviseletein – a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény (a továbbiakban: Külszoltv.) szerinti tartós külszolgálatot teljesítő – külgazdasági attasé beosztott diplomata munkakört ellátó kormánytisztviselőnek adható, aki gazdaságdiplomáciai és külgazdasági tevékenységét kimagasló színvonalon végzi, tartós külszolgálatra történő kihelyezését követően legalább egy év eltelt, és kiemelkedő eredményt ért el a (2) bekezdésben meghatározott területek valamelyikén.
 
 (2) Kitüntető Oklevél az alábbi területeken elért kiemelkedő eredmény esetén adományozható:
 
@@ -6,7 +6,7 @@ a) kiemelkedő magyar exportügylet elősegítésében történő közreműköd�
 
 b) a magyar cégek külpiacra jutásának innovatív, eredményes módon történő elősegítése,
 
-c) sikeres gazdaságdiplomáciai tevékenység előmozdítása vagy
+c)[^37] sikeres gazdaságdiplomáciai tevékenység előmozdítása, vagy
 
 d) kiemelkedő jelentőségű beruházás elősegítése.
 
@@ -18,4 +18,5 @@ d) kiemelkedő jelentőségű beruházás elősegítése.
 
 (6) Az oklevéllel 850 000 forint összegű pénzjutalom jár.
 
-[^32]: A 12/D. §-t a 3/2019. (VI. 13.) KKM rendelet 5. §-a iktatta be.
+[^36]: A 12/D. §-t a 3/2019. (VI. 13.) KKM rendelet 5. §-a iktatta be.
+[^37]: A 12/D. § (2) bekezdés c) pontja a 7/2023. (XII. 12.) KKM rendelet 1. § f) pontja szerint módosított szöveg.
