@@ -44,3 +44,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-8-20-6N
 | 2023-01-01 | 2016-8-20-6N.36 | 17/2022. (X. 18.) MVM rendelet |
 | 2023-02-21 | 2016-8-20-6N.37 | 1/2023. (II. 20.) MVM rendelet |
 | 2023-06-03 | 2016-8-20-6N.38 | 3/2023. (VI. 2.) MVM rendelet |
+| 2023-12-13 | 2016-8-20-6N.39 | 7/2023. (XII. 12.) MVM rendelet |

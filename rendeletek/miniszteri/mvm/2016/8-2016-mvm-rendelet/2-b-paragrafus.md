@@ -1,6 +1,6 @@
 2/B. §[^5] Az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdése szerinti állami támogatások esetében az 1. mellékletben foglalt táblázat
 
-1. 5., 6., 7., 8., 8b., 9., 10., 12., 13., 14., 15., 17., 19., 19a., 20. és 21. sora alapján az 1407/2013/EU bizottsági rendelet szerinti csekély összegű támogatás,
+1.[^6] 5., 6., 7., 7a., 8., 8aa., 8b., 9., 10., 12., 13., 14., 15., 17., 19., 19a., 20. és 21. sora alapján az 1407/2013/EU bizottsági rendelet szerinti csekély összegű támogatás,
 
 2. 5., 6., 7., 9., 10., 14., 15., 19a. és 21. sora alapján a 651/2014/EU bizottsági rendelet 53. cikke szerinti, a kultúrát és a kulturális örökség megőrzését előmozdító támogatás,
 
@@ -16,9 +16,10 @@
 
 8. 19b. sora alapján a Modern Városok Program megvalósításáról szóló 250/2016. (VIII. 24.) Korm. rendelet 8/F–8/Z. §-a szerinti támogatás,
 
-9.[^6] 4–26. sora alapján az SA.104850 számú, valamint az azt módosító európai bizottsági határozatokban foglaltakkal összhangban „Az állami támogatásokra vonatkozó, az Ukrajna elleni orosz agresszióval összefüggésben a gazdaság támogatását célzó ideiglenes válság- és átállási keret” című, 2023. március 17-i, 2023/C 101/03. számú európai bizottsági közlemény 2.1. szakasza szerinti támogatás
+9.[^7] 4–26. sora alapján az SA.104850 számú, valamint az azt módosító európai bizottsági határozatokban foglaltakkal összhangban „Az állami támogatásokra vonatkozó, az Ukrajna elleni orosz agresszióval összefüggésben a gazdaság támogatását célzó ideiglenes válság- és átállási keret” című, 2023. március 17-i, 2023/C 101/03. számú európai bizottsági közlemény 2.1. szakasza szerinti támogatás
 
 nyújtható.
 
 [^5]: A 2/B. §-t a 2/2022. (I. 21.) MvM rendelet 1. §-a iktatta be, szövege az 1/2023. (II. 20.) MVM rendelet 2. §-ával megállapított szöveg.
-[^6]: A 2/B. § 9. pontja a 3/2023. (VI. 2.) MvM rendelet 3. § a) pontja szerint módosított szöveg.
+[^6]: A 2/B. § 1. pontja a 7/2023. (XII. 12.) MVM rendelet 3. §-a szerint módosított szöveg.
+[^7]: A 2/B. § 9. pontja a 3/2023. (VI. 2.) MvM rendelet 3. § a) pontja szerint módosított szöveg.

@@ -10,11 +10,11 @@ b) nehéz helyzetben lévő vállalkozás részére, kivéve a 8. § (4) bekezd�
 
 (4) Nem ítélhető meg
 
-a)[^18] a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-i 1379/2013/EU európai parlamenti és tanácsi rendeletben meghatározott akvakultúra-termékek termeléséhez, feldolgozásához és értékesítéséhez a 4–5., valamint a 7–23. alcím szerinti támogatás,
+a)[^19] a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-i 1379/2013/EU európai parlamenti és tanácsi rendeletben meghatározott akvakultúra-termékek termeléséhez, feldolgozásához és értékesítéséhez a 4–5., valamint a 7–23. alcím szerinti támogatás,
 
-b)[^19] elsődleges mezőgazdasági termeléshez a 4–5., valamint 7–23 alcím szerinti támogatás,
+b)[^20] elsődleges mezőgazdasági termeléshez a 4–5., valamint 7–23 alcím szerinti támogatás,
 
-c)[^20] mezőgazdasági termék feldolgozásában és mezőgazdasági termék forgalmazásában tevékeny vállalkozás részére a 4–5. alcím szerinti támogatás, illetve a 7. alcím szerinti támogatás, ha
+c)[^21] mezőgazdasági termék feldolgozásában és mezőgazdasági termék forgalmazásában tevékeny vállalkozás részére a 4–5. alcím szerinti támogatás, illetve a 7. alcím szerinti támogatás, ha
 
 ca) a támogatás összege az elsődleges termelőktől beszerzett vagy érintett vállalkozások által forgalmazott ilyen termékek ára vagy mennyisége alapján kerül rögzítésre, vagy
 
@@ -42,6 +42,6 @@ f) olyan feltétellel nyújtott támogatás, amely az európai uniós jog megsé
 
 (12) Az általános forgalmi adó nem támogatható, kivéve, ha az általános forgalmi adóra vonatkozó nemzeti jogszabályok értelmében az nem igényelhető vissza.
 
-[^18]: Az 5. § (4) bekezdés a) pontja a 17/2022. (X. 18.) MVM rendelet 12. § a) pontja szerint módosított szöveg.
-[^19]: Az 5. § (4) bekezdés b) pontja a 17/2022. (X. 18.) MVM rendelet 12. § b) pontja szerint módosított szöveg.
-[^20]: Az 5. § (4) bekezdés c) pont nyitó szövegrésze a 17/2022. (X. 18.) MVM rendelet 4. §-ával megállapított szöveg.
+[^19]: Az 5. § (4) bekezdés a) pontja a 17/2022. (X. 18.) MVM rendelet 12. § a) pontja szerint módosított szöveg.
+[^20]: Az 5. § (4) bekezdés b) pontja a 17/2022. (X. 18.) MVM rendelet 12. § b) pontja szerint módosított szöveg.
+[^21]: Az 5. § (4) bekezdés c) pont nyitó szövegrésze a 17/2022. (X. 18.) MVM rendelet 4. §-ával megállapított szöveg.

@@ -30,7 +30,7 @@ h) képzési támogatás esetében meghaladja képzési projektenként a 2 milli
 
 i) környezetvédelmi beruházási támogatás esetében – amennyiben ezen szakasz eltérően nem rendelkezik – meghaladja vállalkozásonként és beruházási projektenként a 15 millió eurónak megfelelő forintösszeget;
 
-j)[^21] sportlétesítményekre és multifunkcionális létesítményekre nyújtott beruházási támogatás esetében meghaladja a projektenként 30 millió eurónak vagy 100 millió eurónak megfelelő forintösszeg összköltséget vagy sportlétesítményekhez nyújtott működési támogatás esetében meghaladja a létesítményenként évente 2 millió eurónak megfelelő forintösszeget;
+j)[^22] sportlétesítményekre és multifunkcionális létesítményekre nyújtott beruházási támogatás esetében meghaladja a projektenként 30 millió eurónak vagy 100 millió eurónak megfelelő forintösszeg összköltséget vagy sportlétesítményekhez nyújtott működési támogatás esetében meghaladja a létesítményenként évente 2 millió eurónak megfelelő forintösszeget;
 
 k) szennyezett terület szennyeződésmentesítéséhez nyújtott beruházási támogatás esetében a támogatás meghaladja vállalkozásonként és beruházási projektenként a 20 millió eurónak megfelelő forintösszeget;
 
@@ -40,14 +40,14 @@ m) kkv-knak nyújtott innovációs támogatás esetében meghaladja vállalkozá
 
 n) az uniós szabvány túlteljesítését, illetve uniós szabvány hiányában a környezetvédelem szintjének emelését szolgáló beruházási támogatás, jövőbeni uniós szabványhoz idő előtt történő alkalmazkodáshoz nyújtott beruházási támogatás, energiahatékonysági intézkedéshez nyújtott beruházási támogatás esetén vállalkozásonként és beruházásonként meghaladja a 15 millió eurónak megfelelő forintösszeget.
 
-o)[^22] a kultúrát és a kulturális örökség megőrzését előmozdító
+o)[^23] a kultúrát és a kulturális örökség megőrzését előmozdító
 
 oa) beruházási támogatás esetében meghaladja a projektenként 150 millió eurónak megfelelő forintösszeget,
 
 ob) működési támogatás esetében meghaladja a vállalkozásonként évente 75 millió eurónak megfelelő forintösszeget.
 
-p)[^23] regionális beruházási támogatás esetén a beruházáshoz igényelt összes állami támogatással együtt – figyelembe véve a nagyberuházásokra vonatkozó rendelkezéseket – meghaladja azt az összeget, amelyet ugyanazon településen egy jelenértéken 100 millió eurónak megfelelő forintösszeget meghaladó elszámolható költségű beruházás az adott régióban kaphat.
+p)[^24] regionális beruházási támogatás esetén a beruházáshoz igényelt összes állami támogatással együtt – figyelembe véve a nagyberuházásokra vonatkozó rendelkezéseket – meghaladja azt az összeget, amelyet ugyanazon településen egy jelenértéken 100 millió eurónak megfelelő forintösszeget meghaladó elszámolható költségű beruházás az adott régióban kaphat.
 
-[^21]: A 6. § j) pontja a 17/2022. (X. 18.) MVM rendelet 12. § c) pontja szerint módosított szöveg.
-[^22]: A 6. § o) pontját a 18/2020. (XII. 8.) MvM rendelet 2. §-a iktatta be.
-[^23]: A 6. § p) pontját a 17/2022. (X. 18.) MVM rendelet 5. §-a iktatta be.
+[^22]: A 6. § j) pontja a 17/2022. (X. 18.) MVM rendelet 12. § c) pontja szerint módosított szöveg.
+[^23]: A 6. § o) pontját a 18/2020. (XII. 8.) MvM rendelet 2. §-a iktatta be.
+[^24]: A 6. § p) pontját a 17/2022. (X. 18.) MVM rendelet 5. §-a iktatta be.
