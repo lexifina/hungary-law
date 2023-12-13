@@ -16,6 +16,10 @@
 
 (7)[^143] A Diákhitel szervezet feladatait a Diákhitel Központ Zrt. látja el.
 
+(8)[^144] A Diákhitel szervezet az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaságot (a továbbiakban: MFB Magyar Fejlesztési Bank Zrt.) megbízza a hallgatói és képzési hitelrendszer működtetésével kapcsolatos olyan feladat végzésével, amelyet egyébként maga végezne, ideértve a hallgatói és képzési hitel nevében, javára és kockázatára történő megkötését is.
+
+(9)[^145] A hallgatói és képzési hitelrendszer működtetése során a Diákhitel Központ Zrt. és az MFB Magyar Fejlesztési Bank Zrt. közfeladatot lát el, a közöttük létrejövő szerződés vagy szerződések célja közfeladatok teljesítése.
+
 [^136]: A 24. § a 475/2017. (XII. 28.) Korm. rendelet 50. § 1. pontja, a 721/2021. (XII. 20.) Korm. rendelet 7. § h) és 8. § i) pontja szerint módosított szöveg.
 [^137]: A 25. § (1) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 75. §-a, a 389/2020. (VIII. 8.) Korm. rendelet 4. § a), c) és második c) pontja szerint módosított szöveg.
 [^138]: A 25. § (2) bekezdése a 389/2020. (VIII. 8.) Korm. rendelet 4. § második c) pontja szerint módosított szöveg.
@@ -24,3 +28,5 @@
 [^141]: A 25. § (5) bekezdése a 468/2015. (XII. 29.) Korm. rendelet 23. §-ával megállapított szöveg. [Nem vezethető át a 622/2022. (XII. 29.) Korm. rendelet 4. § b) pontjában foglalt azon módosítás, amely szerint a 25. § (5) bekezdésben az „államháztartásért felelős miniszternek” szövegrész helyébe az „az államháztartásért felelős miniszternek, valamint a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszternek” szöveg lép.]
 [^142]: A 25. § (6) bekezdését a 408/2017. (XII. 15.) Korm. rendelet 4. §-a hatályon kívül helyezte.
 [^143]: A 25. § (7) bekezdését a 224/2012. (VIII. 15.) Korm. rendelet 10. §-a iktatta be.
+[^144]: A 25. § (8) bekezdését az 545/2023. (XII. 12.) Korm. rendelet 1. §-a iktatta be.
+[^145]: A 25. § (9) bekezdését az 545/2023. (XII. 12.) Korm. rendelet 1. §-a iktatta be.
