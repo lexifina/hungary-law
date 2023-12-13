@@ -1,4 +1,4 @@
-111/E. §[^43] (1) A miniszter a vállalkozásfejlesztésért való felelőssége keretében előkészíti a mikro-, kis- és középvállalkozásokra, fejlődésük támogatására és a beruházások ösztönzésére vonatkozó jogszabályokat.
+111/E. §[^44] (1) A miniszter a vállalkozásfejlesztésért való felelőssége keretében előkészíti a mikro-, kis- és középvállalkozásokra, fejlődésük támogatására és a beruházások ösztönzésére vonatkozó jogszabályokat.
 
 (2) A miniszter a vállalkozásfejlesztésért való felelőssége keretében
 
@@ -10,4 +10,4 @@ c) együttműködik a gazdaságstratégia cél-, eszköz- és intézményrendsze
 
 d) együttműködik a befektetés-ösztönzést segítő szervezetekkel, regionális fejlesztésekben érdekelt kockázati tőketársaságokkal és pénzügyi intézményekkel.
 
-[^43]: A 111/E. §-t a 467/2022. (XI. 21.) Korm. rendelet 6. §-a iktatta be.
+[^44]: A 111/E. §-t a 467/2022. (XI. 21.) Korm. rendelet 6. §-a iktatta be.

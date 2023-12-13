@@ -1,6 +1,6 @@
 ## 14. A pénzügyminiszter feladat- és hatásköre
 
-148. § (1)[^58] A pénzügyminiszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
+148. § (1)[^59] A pénzügyminiszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
 
 1. adópolitikáért,
 
@@ -22,7 +22,7 @@
 
 felelős tagja.
 
-(2)[^59]
+(2)[^60]
 
-[^58]: A 148. § (1) bekezdés nyitó szövegrésze a 238/2022. (VI. 30.) Korm. rendelet 221. § (3) bekezdés b) pontja szerint módosított szöveg.
-[^59]: A 148. § (2) bekezdését az 531/2023. (XII. 5.) Korm. rendelet 9. § c) pontja hatályon kívül helyezte.
+[^59]: A 148. § (1) bekezdés nyitó szövegrésze a 238/2022. (VI. 30.) Korm. rendelet 221. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^60]: A 148. § (2) bekezdését az 531/2023. (XII. 5.) Korm. rendelet 9. § c) pontja hatályon kívül helyezte.

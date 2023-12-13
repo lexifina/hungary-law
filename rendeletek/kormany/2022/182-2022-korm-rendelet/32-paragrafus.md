@@ -19,3 +19,7 @@ g) a Kormány más tagjától a feladat- és hatáskörébe tartozó kérdésben
 a) ellátja a közösségi bormarketing és a magyar bor egységes kommunikációja kapcsán jelentkező feladatokat,
 
 b) előkészíti a magyar bor egységes kommunikációjára vonatkozó jogszabályokat.
+
+(3)[^8] A miniszter a kormányzati stratégiák kidolgozásának támogatásáért és a társadalompolitika összehangolásáért való felelőssége körében ellátja a HUNGARORING versenypálya fejlesztésével, üzemeltetésével, valamint a Formula-1 Világbajnokság Magyar Nagydíj megrendezésével összefüggő kormányzati feladatokat.
+
+[^8]: A 32. § (3) bekezdését az 556/2023. (XII. 12.) Korm. rendelet 3. §-a iktatta be.

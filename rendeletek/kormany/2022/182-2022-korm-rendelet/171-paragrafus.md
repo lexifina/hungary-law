@@ -1,3 +1,3 @@
-171. §[^67]
+171. §[^68]
 
-[^67]: A 171. §-t a 467/2022. (XI. 21.) Korm. rendelet 17. § (1) bekezdés d) pontja hatályon kívül helyezte.
+[^68]: A 171. §-t a 467/2022. (XI. 21.) Korm. rendelet 17. § (1) bekezdés d) pontja hatályon kívül helyezte.
