@@ -1,1 +1,0 @@
-2. § A Külszoltv. 26. § (1a) bekezdésétől eltérően, ha az állomáshely szerinti országgal szemben a bankrendszert érintő szankciós eljárás van érvényben, a kihelyező szerv a díjazás kifizetését 100%-ban készpénzes kifizetéssel is teljesítheti.
