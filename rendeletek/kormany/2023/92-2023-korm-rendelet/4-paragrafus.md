@@ -1,1 +1,0 @@
-4. § Az Mkk. törvény 18. § (2) bekezdésétől eltérően a mezőgazdasági kockázatkezelési adatbázis tartalmazza – a biztosítók adatközlése alapján – a lábon álló növénykultúrára megkötött mezőgazdasági biztosítási szerződéssel kapcsolatos adatokat.

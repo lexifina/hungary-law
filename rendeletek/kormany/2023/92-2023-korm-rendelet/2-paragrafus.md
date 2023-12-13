@@ -1,1 +1,0 @@
-2. § Az Mkk. törvény 11. § (5) bekezdésében meghatározott jogkövetkezmény alkalmazásakor mezőgazdasági biztosítás alatt a hozamcsökkenést kiváltó káresemény bekövetkezése előtt megkötött és a biztosítási szerződés alapján díjrendezett mezőgazdasági biztosítást kell érteni.

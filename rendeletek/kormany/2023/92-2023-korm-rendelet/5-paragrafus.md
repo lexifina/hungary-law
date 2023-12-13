@@ -1,1 +1,0 @@
-5. § Az Mkk. törvény 19/A. § (2) bekezdésétől eltérően az országos jégkármegelőző rendszer keretében létrehozott, valamint működő berendezések tárgyévi működtetéséhez – az agrárpolitikáért felelős miniszterrel kötött megállapodás alapján – a 2023. évben legfeljebb 1800 millió forint használható fel.
