@@ -1,0 +1,3 @@
+1. § A haditechnikai tevékenység engedélyezésének és a vállalkozások tanúsításának részletes szabályairól szóló 156/2017. (VI. 16.) Korm. rendelet a következő 22/A. §-sal egészül ki:
+
+„22/A. § A honvédelemért felelős miniszter a haditechnikai külkereskedelemre vonatkozó tevékenységi engedély, tárgyalási engedély vagy forgalmi engedély megszerzésére irányuló kérelem tárgyát képező védelmi ipari termék vagy szolgáltatás hazai és nemzetközi piacra jutásának stratégiai jelentőségére tekintettel gyorsított eljárás lefolytatását kezdeményezheti a Hatóságnál. Ebben az esetben a Httv. 3. § (7) bekezdésétől eltérően a Hatóság ügyintézési határideje 21 nap.”
