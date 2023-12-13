@@ -206,8 +206,8 @@
 
 | 103. | Vietnám | vietnámi | angol |
 
-2. melléklet a 6/2017. (VII. 10.) KKM rendelethez[^73]
+2. melléklet a 6/2017. (VII. 10.) KKM rendelethez[^77]
 
 Munkanyelvek a multilaterális külképviseleteken
 
-[^73]: A 2. melléklet a 16/2022. (XII. 20.) KKM rendelet 1. § (2) bekezdésével megállapított, az 1/2023. (IV. 24.) KKM rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^77]: A 2. melléklet a 16/2022. (XII. 20.) KKM rendelet 1. § (2) bekezdésével megállapított, az 1/2023. (IV. 24.) KKM rendelet 2. § (2) bekezdése szerint módosított szöveg.
