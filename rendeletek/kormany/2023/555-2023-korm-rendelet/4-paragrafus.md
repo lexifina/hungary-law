@@ -1,0 +1,5 @@
+4. § A Korm. rendelet 4. §-a a következő (10) és (11) bekezdéssel egészül ki:
+
+„(10) A 2. mellékletbenfoglalt táblázat 127. sora szerinti beruházással összefüggő közigazgatási hatósági ügyekre vonatkozó ügyintézési határidő – az előzetes vizsgálati eljárás és a környezeti hatásvizsgálati eljárás, a természetvédelmi hatósági eljárás, a vízügyi és vízvédelmi, valamint a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény szerinti veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások kivételével, vagy ha jogszabály rövidebbet nem állapít meg – tizenöt nap.
+
+(11) A 2. mellékletbenfoglalt táblázat 127. sora szerinti beruházással összefüggő közigazgatási hatósági ügyekben a szakhatósági eljárásra vonatkozó ügyintézési határidő – a környezetvédelmi és természetvédelmi szakhatóság eljárása, a vízügyi és vízvédelmi, valamint iparbiztonsági szakhatósági eljárások kivételével, vagy ha jogszabály rövidebbet nem állapít meg – nyolc nap.”
