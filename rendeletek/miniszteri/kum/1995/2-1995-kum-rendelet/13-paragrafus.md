@@ -1,8 +1,6 @@
 ## Költségtérítés
 
-## 13. §
-
-(1) A tiszteletbeli konzuli tisztviselő a 12. § (1) bekezdése rendelkezéseivel összhangban bevételezett díjakról és illetékekről nyilvántartást vezet.
+13. § (1) A tiszteletbeli konzuli tisztviselő a 12. § (1) bekezdése rendelkezéseivel összhangban bevételezett díjakról és illetékekről nyilvántartást vezet.
 
 (2) Az irányítási jogkört gyakorló diplomáciai vagy konzuli képviselet vezetője vagy megbízottja jogosult ellenőrizni a díj- és illetékbevételek nyilvántartását és a költségtérítés mértékének indokoltságát.
 

@@ -1,8 +1,6 @@
 ## A költségtérítési igény igazolása
 
-## 14. §
-
-(1) A tiszteletbeli konzuli tisztviselő a költségtérítés mértékének indokoltságát a 13. § (3) bekezdése
+14. § (1) A tiszteletbeli konzuli tisztviselő a költségtérítés mértékének indokoltságát a 13. § (3) bekezdése
 
 a) a)—c) pontjában említett költségek tekintetében az elvégzett konzuli cselekmények számával, és azok szokásos költségigényével,
 

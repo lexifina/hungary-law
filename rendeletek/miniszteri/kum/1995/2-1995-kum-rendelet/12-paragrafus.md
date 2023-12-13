@@ -1,8 +1,6 @@
 ## Általános pénzügyi rendelkezések
 
-## 12. §
-
-(1) A tiszteletbeli konzul e tevékenységéért díjazásra nem jogosult; működése során jogszabályban megállapított díjakat és illetékeket szed.
+12. § (1) A tiszteletbeli konzul e tevékenységéért díjazásra nem jogosult; működése során jogszabályban megállapított díjakat és illetékeket szed.
 
 (2) A tiszteletbeli konzul az (1) bekezdés alapján beszedett konzuli díjak szükséges hányadát az e minőségében történő működése során keletkezett indokolt és igazolt költségei fedezésére fordíthatja.
 

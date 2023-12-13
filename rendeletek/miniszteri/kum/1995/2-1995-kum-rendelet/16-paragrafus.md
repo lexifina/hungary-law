@@ -2,9 +2,7 @@
 
 ## és mentességek
 
-## 16. §
-
-(1) A tiszteletbeli konzuli tisztviselőt az Egyezmény 58. cikkének 2. bekezdésében említett könnyítések, kiváltságok és mentességek illetik meg.
+16. § (1) A tiszteletbeli konzuli tisztviselőt az Egyezmény 58. cikkének 2. bekezdésében említett könnyítések, kiváltságok és mentességek illetik meg.
 
 (2) A tiszteletbeli konzuli tisztviselő által vezetett konzuli képviselet igazgatási vagy műszaki feladatokat ellátó tagját az Egyezmény 42. cikkében meghatározott kiváltság és a 44. cikk 3. bekezdésében meghatározott mentesség illeti meg.
 
