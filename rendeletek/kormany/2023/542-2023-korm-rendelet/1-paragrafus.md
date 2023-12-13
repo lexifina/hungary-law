@@ -1,0 +1,1 @@
+1. § A Kormány e rendelettel felhatalmazást ad a Közép-európai Felsőoktatási Csereprogram (CEEPUS IV.) multilaterális oktatási megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
