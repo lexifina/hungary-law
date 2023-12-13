@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-156-20-
 | 2022-09-01 | 2017-156-20-22.13 | 309/2022. (VIII. 11.) Korm. rendelet |
 | 2022-09-27 | 2017-156-20-22.14 | 360/2022. (IX. 19.) Korm. rendelet |
 | 2023-06-07 | 2017-156-20-22.15 | 204/2023. (V. 31.) Korm. rendelet |
+| 2023-12-13 | 2017-156-20-22.16 | 551/2023. (XII. 12.) Korm. rendelet |

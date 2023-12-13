@@ -30,6 +30,6 @@ e) ha ismert, a haditechnikai eszköz végfelhasználása, és
 
 f) annak igazolása, hogy a haditechnikai eszközök címzettjét tájékoztatták a forgalmi engedélyben foglalt kiviteli korlátozásról.
 
-(4)[^44] A vállalkozás a (3) bekezdés szerinti nyilvántartásában rögzített adatokat és kapcsolódó dokumentációt köteles az 1. melléklet I–IV. fejezete szerinti termékek esetén 30 évig, egyéb termékek esetén 10 évig megőrizni.
+(4)[^45] A vállalkozás a (3) bekezdés szerinti nyilvántartásában rögzített adatokat és kapcsolódó dokumentációt köteles az 1. melléklet I–IV. fejezete szerinti termékek esetén 30 évig, egyéb termékek esetén 10 évig megőrizni.
 
-[^44]: A 28. § (4) bekezdése a 360/2022. (IX. 19.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^45]: A 28. § (4) bekezdése a 360/2022. (IX. 19.) Korm. rendelet 29. §-ával megállapított szöveg.
