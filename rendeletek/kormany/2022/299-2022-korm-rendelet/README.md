@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-299-20-
 | 2022-08-24 | 2022-299-20-22.2 | 2022. évi VI. törvény |
 | 2022-11-01 | 2022-299-20-22.3 | 2022. évi VI. törvény |
 | 2023-10-26 | 2022-299-20-22.4 | 471/2023. (X. 25.) Korm. rendelet |
+| 2023-12-13 | 2022-299-20-22.5 | 471/2023. (X. 25.) Korm. rendelet |
