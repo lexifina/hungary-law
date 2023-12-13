@@ -1,0 +1,1 @@
+A fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény 30. § (5a) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 66. § (1) bekezdés 16. és 26. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
