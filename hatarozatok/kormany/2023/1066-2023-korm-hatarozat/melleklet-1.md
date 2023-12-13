@@ -22,7 +22,7 @@
 
 | Határidő: | azonnal |
 
-## 1.2. az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 3 300 574 985 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 613/2022. (XII. 29.) Korm. rendelet 1. mellékletével eltérően megállapított XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 7. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, az 1. melléklet szerint;
+## 1.2. [^1] az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 3 300 574 985 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 613/2022. (XII. 29.) Korm. rendelet 1. mellékletével eltérően megállapított XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 7. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -34,7 +34,7 @@
 
 | Felelős: | az Országgyűlés Hivatala főigazgatója Köztársasági Elnöki Hivatal hivatalvezetője Miniszterelnökséget vezető miniszter Miniszterelnöki Kabinetirodát vezető miniszter |
 
-| Határidő: | 2023. december 31. |
+| Határidő: | 2023. december 31., a Nemzeti Információs Központ cím javára biztosított 1 407 603 278 forint tekintetében 2024. február 28. |
 
 ## 1.3. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 1 167 996 151 forint egyszeri átcsoportosítását rendeli el, a 2. melléklet szerint;
 
@@ -70,17 +70,18 @@
 
 | Határidő: | azonnal |
 
-## 2.[^1]
+## 2.[^2]
 
-## 3.[^2]
+## 3.[^3]
 
-## 4.[^3]
+## 4.[^4]
 
-## 5.[^4]
+## 5.[^5]
 
 1. melléklet az 1066/2023. (III. 8.) Korm. határozathoz
 
-[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont 1.2. alpontja az 1560/2023. (XII. 13.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^2]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
