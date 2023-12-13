@@ -1,7 +1,7 @@
-133. §[^400] (1) E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 429/2023. (IX. 14.) Korm. rendelettel (a továbbiakban: Módr125.) módosított 3. § (4)–(7) bekezdését, 4. § (1) és (2) bekezdését, 5/C. § (2) bekezdését, (7) bekezdés a) és b) pontját, 6/K. §-át és 2. mellékletében foglalt táblázat 49. és 90. sorát a Módr125. hatálybalépésekor[^401] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+133. §[^406] (1) E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 429/2023. (IX. 14.) Korm. rendelettel (a továbbiakban: Módr125.) módosított 3. § (4)–(7) bekezdését, 4. § (1) és (2) bekezdését, 5/C. § (2) bekezdését, (7) bekezdés a) és b) pontját, 6/K. §-át és 2. mellékletében foglalt táblázat 49. és 90. sorát a Módr125. hatálybalépésekor[^407] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-(2) E rendeletnek a Módr125.-tel megállapított 5/C. § (2a), (2b) és (8) bekezdését, 5/V. §-át, 5/W. §-át és 2. mellékletében foglalt táblázat 122. és 123. sorát, 10. mellékletét a Módr125. hatálybalépésekor[^402] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+(2) E rendeletnek a Módr125.-tel megállapított 5/C. § (2a), (2b) és (8) bekezdését, 5/V. §-át, 5/W. §-át és 2. mellékletében foglalt táblázat 122. és 123. sorát, 10. mellékletét a Módr125. hatálybalépésekor[^408] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^400]: A 133. §-t a 429/2023. (IX. 14.) Korm. rendelet 9. §-a iktatta be.
-[^401]: A hatálybalépés időpontja 2023. szeptember 15.
-[^402]: A hatálybalépés időpontja 2023. szeptember 15.
+[^406]: A 133. §-t a 429/2023. (IX. 14.) Korm. rendelet 9. §-a iktatta be.
+[^407]: A hatálybalépés időpontja 2023. szeptember 15.
+[^408]: A hatálybalépés időpontja 2023. szeptember 15.
