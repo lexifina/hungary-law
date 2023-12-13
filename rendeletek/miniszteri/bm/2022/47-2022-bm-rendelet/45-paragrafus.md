@@ -4,4 +4,6 @@
 
 (3) Az Alkalmasságvizsgálati Szakmai Protokollban elrendelhető, hogy az időszakos egészségi alkalmasságvizsgálaton a határvadász a kötelező egészségbiztosítás keretében igénybe vehető betegségek megelőzését és korai felismerését szolgáló egészségügyi szolgáltatásokról és a szűrővizsgálatok igazolásáról szóló 51/1997. (XII. 18.) NM rendeletben meghatározott valamely népegészségügyi célú, célzott szűrővizsgálat leletét bemutassa, azzal, hogy a határvadász nem kötelezhető az ott meghatározottnál gyakoribb vizsgálatra.
 
-(4) A jogszabályban meghatározott munkaegészségügyi vizsgálatok elvégzésére lehetőség szerint az időszakos egészségi alkalmasságvizsgálat keretében kell intézkedni.
+(4)[^2]
+
+[^2]: A 45. § (4) bekezdését az 52/2023. (XII. 12.) BM rendelet 39. §-a hatályon kívül helyezte.
