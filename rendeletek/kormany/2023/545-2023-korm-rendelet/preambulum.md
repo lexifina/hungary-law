@@ -1,0 +1,1 @@
+A Kormány a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 110. § (1) bekezdés 27. pontjában, valamint a szakképzésről szóló 2019. évi LXXX. törvény 123. § (2) bekezdés 30. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (3) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
