@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-18-20-6
 | 2018-01-01 | 2017-18-20-6Q.1 | 18/2017. (XII. 21.) KKM rendelet |
 | 2022-12-23 | 2017-18-20-6Q.2 | 24/2022. (XII. 22.) KKM rendelet |
 | 2023-04-25 | 2017-18-20-6Q.3 | 3/2023. (IV. 24.) KKM rendelet |
+| 2023-12-13 | 2017-18-20-6Q.4 | 10/2023. (XII. 12.) KKM rendelet |
