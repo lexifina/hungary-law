@@ -32,7 +32,7 @@
 
 | Határidő: | a felmerülés ütemében |
 
-## 7. visszavonja a közvetlen irányítású európai uniós programokban való magyar részvétel növeléséről, valamint egyes közvetlen uniós pályázatok önerő költségének biztosításáról szóló 1612/2022. (XII. 13.) Korm. határozatot.
+## 7.[^1]
 
 1. melléklet az 1548/2023. (XII. 13.) Korm. határozathoz
 
@@ -77,3 +77,5 @@
 | 18 | 2023 | LIFE (LOGOS 4 WATERS) | Belügyminisztérium | – | – | 112 819 526 | – |
 
 | 19 | 2023 | LIFE (CLIMCOOP) | Miskolci Egyetem | – | 21 585 883 | 12 096 438 | – |
+
+[^1]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
