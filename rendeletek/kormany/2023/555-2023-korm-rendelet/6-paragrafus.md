@@ -1,3 +1,3 @@
-6. § A Korm. rendelet a következő 141. §-sal egészül ki:
+6. §[^7]
 
-„141. § E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 555/2023. (XII. 12.) Korm. rendelettel (a továbbiakban: Módr133.) módosított 3. § (4) bekezdését, valamint megállapított 1. § (2a) bekezdését, 2/A. §-át, 3. § (8) bekezdését, 4. § (10) és (11) bekezdését, 5/Y. §-át és 2. mellékletébenfoglalt táblázat 127. sorát a Módr133. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

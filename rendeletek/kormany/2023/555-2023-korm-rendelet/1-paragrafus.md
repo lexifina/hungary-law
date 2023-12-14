@@ -1,3 +1,3 @@
-1. § Az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet (a továbbiakban: Korm. rendelet) 1. §-a a következő (2a) bekezdéssel egészül ki:
+1. §[^2]
 
-„(2a) A (2) bekezdésében foglaltakon túl az (1) bekezdés alkalmazásában a 2. mellékletbenfoglalt táblázat 127. sora szerinti beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek a beruházás előkészítéséhez, valamint a beruházáshoz közvetlenül kapcsolódó létesítmény megközelítését, működését és városképi illeszkedését segítő közterület- és zöldfelület-rendezési, közlekedésfejlesztési munkákra vonatkoznak.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

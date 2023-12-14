@@ -1,1 +1,3 @@
-8. § A Korm. rendelet 3. § (4) bekezdésében a „90. és 122.” szövegrész helyébe a „90., 122. és 127.” szöveg lép.
+8. §[^9]
+
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
