@@ -1,1 +1,3 @@
-2. § Hatályát veszti az R. 4. § (1) bekezdésében a „december 31-ig” szövegrész.
+2. §[^2]
+
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

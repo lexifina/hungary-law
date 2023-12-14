@@ -1,5 +1,5 @@
-## 12.[^5]
+## 12.[^13]
 
 13. §
 
-[^5]: A 12. alcím a 27. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^13]: A 12. alcím a 27. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
