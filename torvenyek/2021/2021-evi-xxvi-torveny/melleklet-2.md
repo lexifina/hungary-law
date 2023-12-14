@@ -1502,7 +1502,7 @@ SZEKSZÁRD
 
 |
 
-kivett iskola, kollégium, tornacsarnok, udvar
+kivett iskola, kollégium, tornacsarnok, és udvar
 
 |
 
