@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1005-30
 | 2023-05-23 | 2016-1005-30-22.20 | 1205/2023. (V. 22.) Korm. határozat |
 | 2023-07-28 | 2016-1005-30-22.21 | 1330/2023. (VII. 27.) Korm. határozat |
 | 2023-10-26 | 2016-1005-30-22.22 | 1455/2023. (X. 25.) Korm. határozat |
+| 2023-12-14 | 2016-1005-30-22.23 | 1143/2016. (III. 21.) Korm. határozat |
