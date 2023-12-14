@@ -1,1 +1,3 @@
-3. § Az R. 2/B. § 1. pontjában a „8.,” szövegrész helyébe a „7a., 8., 8aa.,” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

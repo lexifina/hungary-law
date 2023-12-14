@@ -1,3 +1,3 @@
-1. § A fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 8/2016. (III. 25.) MvM rendelet (a továbbiakban: R.) 42. §-a a következő (30) bekezdéssel egészül ki:
+1. §[^2]
 
-„(30) E rendeletnek a fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 8/2016. (III. 25.) MvM rendeletnek a népegészségügyi termékadó felajánlásokkal összefüggő módosításáról szóló 7/2023. (XII. 12.) MvM rendelettel (a továbbiakban: Módr28.) megállapított 2/B. § 1. pontját a Módr28. hatálybalépése napján folyamatban lévő ügyekben is alkalmazni kell.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
