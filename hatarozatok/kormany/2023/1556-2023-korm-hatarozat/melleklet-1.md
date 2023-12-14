@@ -120,10 +120,13 @@
 
 | Határidő: | az e határozat közzétételét követő hat hónapon belül |
 
-## 2. Az egyes állami tulajdonban álló vagyontárgyak ingyenes tulajdonba adásáról szóló 1243/2019. (IV. 30.) Korm. határozat (a továbbiakban: Mód. Korm. hat.) 18. pont b) és c) alpontjában az „ingatlanok” szövegrész helyébe az „ingatlan” szöveg lép.
+## 2.[^1]
 
-## 3. A Kormány visszavonja a Mód. Korm. hat. 18. pont b) alpontjában a „ , valamint a Pápa, külterület, 0998 helyrajzi számú ingatlan tulajdonjogának Pápa Város Önkormányzata” szövegrészt.
+## 3.[^2]
 
 1. melléklet az 1556/2023. (XII. 13.) Korm. határozathoz
 
 Önkormányzati tulajdonba kerülő ingatlanok jegyzéke
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
