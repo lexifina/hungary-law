@@ -1,4 +1,4 @@
-11. § (1) Az Alkotmánybíróság tagja a megválasztását követő harminc napon belül vagyonnyilatkozatot tesz. A vagyonnyilatkozatra az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályokat – az e törvényben meghatározott eltérésekkel – kell megfelelően alkalmazni.
+11. § (1) Az Alkotmánybíróság tagja a megválasztását követő 30 napon belül vagyonnyilatkozatot tesz. A vagyonnyilatkozatra az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályokat – az e törvényben meghatározott eltérésekkel – kell megfelelően alkalmazni.
 
 (2) Az Alkotmánybíróság tagja a vagyonnyilatkozatához csatolni köteles a vele közös háztartásban élő házas- vagy élettársának, gyermekeinek (a továbbiakban együtt: családtag) az Alkotmánybíróság tagja vagyonnyilatkozatával azonos tartalmú vagyonnyilatkozatát.
 
