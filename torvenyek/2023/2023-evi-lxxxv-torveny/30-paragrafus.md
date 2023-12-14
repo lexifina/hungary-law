@@ -1,0 +1,5 @@
+## „e) a technológia transzfer tevékenységgel összefüggő részletes szabályokat,”
+
+30. § A KFItv. 16. alcíme a következő 47/D. §-sal egészül ki:
+
+„47/D. § E törvénynek az egyetemek és a kutatóintézetek, valamint a gazdaság összekapcsoltságának erősítéséhez szükséges egyes törvények, továbbá egyes felnőttképzési és kulturális tárgyú törvények módosításáról szóló 2023. évi LXXXV. törvénnyel megállapított 42/C. § (2c) bekezdésének hatálybalépését megelőzően kinevezett, a 42/A. § szerinti kutatóközpont, kutatóintézet vagy a kutatóközpont szervezeti egységeként működő kutatóintézet vezetőjének az Irányító Testületben betöltött tagsága 2024. január 1. napján megszűnik.”
