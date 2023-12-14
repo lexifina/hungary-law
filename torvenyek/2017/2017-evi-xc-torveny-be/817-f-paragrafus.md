@@ -1,4 +1,4 @@
-817/F. § (1) A bíróság a támadott határozatot a felülbírálati indítvány indokaira tekintet nélkül bírálja felül, ennek érdekében az ügyiratokat és az indítványozó által csatolt, az indítványozó álláspontja szerint az ügyben bizonyítandó tény bizonyítására alkalmas adatokat, iratokat, nyilatkozatokat teljeskörűen megvizsgálja.
+817/F. § (1) A bíróság a támadott határozatot a felülbírálati indítvány indokaira tekintet nélkül bírálja felül, ennek érdekében az ügyiratokat és az indítványozó által csatolt, az indítványozó álláspontja szerint az ügyben bizonyítandó tény bizonyítására alkalmas adatokat, iratokat és nyilatkozatokat teljeskörűen megvizsgálja.
 
 (2) Ha az indítvány elbírálásának nincs akadálya, a bíróság nem ügydöntő végzéssel határoz, amelyben
 
