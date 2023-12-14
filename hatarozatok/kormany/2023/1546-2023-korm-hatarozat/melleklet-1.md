@@ -12,13 +12,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Emberi Erőforrás Fejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1037/2016. (II. 9.) Korm. határozat
-
-## a) 1. melléklet 2. pontjában foglalt táblázat C:16j. mezőjében a „7,06” szövegrész helyébe a „8,32” szöveg,
-
-## b) 2. mellékletében foglalt táblázat D:43c. mezőjében a „7,06” szövegrész helyébe a „8,32” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1546/2023. (XII. 12.) Korm. határozathoz
 
@@ -27,3 +21,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatási összeg (bruttó, forint) | Hatályos támogatási összeg (bruttó, forint) | EFOP 2. prioritás terhére történő többletforrás legfeljebb (bruttó, forint) | Projekt megnövelt támogatási összege legfeljebb (bruttó, forint) | Projekt rövid bemutatása |
 
 | 2. | EFOP-2.2.24-22-2022-00002 | NASZLADY ATTILA egészségfejlesztési program – beruházási komponens | Magyar Máltai Szeretetszolgálat Egyesület | 6 300 000 000 | 7 054 397 225 | 1 264 214 589 | 8 318 611 814 | Az EFOP-2.2.24-22-2022-00002 azonosító számú projekt fejlesztéseivel kiemelten a hátrányos helyzetű embereknél és az elmaradott térségekben elérhető az egészségtudatosság növelése, a szűrővizsgálatok elvégzése, és szükség esetén a betegek szakellátáshoz való eljuttatása, összességében a jobb egészségügyi szolgáltatásokhoz való hozzáférés biztosítása. A Projekt keretében felszerelt gyermekszemészeti szűrő gépjármű, egyéb gépjárművek, három gyermekszemészeti szűrő team, tíz mobil egészségügyi központ, három egészségügyi bázis, valamint egészségügyi logisztikai központ keretében gyógyszerelési optimalizáció és egy laboratórium kerül kialakításra. |
+
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
