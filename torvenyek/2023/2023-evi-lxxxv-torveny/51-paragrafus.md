@@ -1,5 +1,1 @@
-51. § A Nemzeti Egészségügyi és Orvosképzésért Alapítványról, a Nemzeti Egészségügyi és Orvosképzésért Alapítvány és a Semmelweis Egyetem részére történő vagyonjuttatásról szóló 2021. évi XX. törvény 3. alcíme a következő 6/D. és 6/E. §-sal egészül ki:
-
-„6/D. § A 3. mellékletben foglalt táblázat 59–61. sorában meghatározott ingatlanok tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas háromoldalú szerződést a tulajdonosi joggyakorló, az Országos Mentális, Ideggyógyászati és Idegsebészeti Intézet és az Országos Mozgásszervi Intézet köti meg az Egyetemmel.
-
-6/E. § Az Amerikai úti telephely és a Rehabilitációs Intézet európai uniós forrásból finanszírozott, folyamatban lévő vagy fenntartás alatt álló projektje vonatkozásában az Amerikai úti telephely és a Rehabilitációs Intézet jogutódja az Egyetem. E projektekkel összefüggő jogok és kötelezettségek az Egyetemet illetik meg, illetve terhelik. Az Egyetem köteles az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló kormányrendelet alapján a változást az érintett irányító hatóság részére bejelenteni.”
+### 51. §

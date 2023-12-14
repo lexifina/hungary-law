@@ -1,11 +1,1 @@
-43. § A 2021. évi XVI. törvény 2. alcíme a következő 2/D. §-sal egészül ki:
-
-„2/D. § (1) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a KEKVA tv. 12. §-a alapján – az Alapítvány közérdekű céljainak megvalósítása és a KEKVA tv. 1. mellékletében foglalt táblázatban meghatározott közfeladata ellátása érdekében – az Ózd belterület 11185 helyrajzi számú ingatlant (a továbbiakban: Digitális Erőmű), az Ózd belterület 11140 helyrajzi számú ingatlant és az Ózd belterület 11140/A helyrajzi számú ingatlant (e § alkalmazásában a továbbiakban együtt: ingatlanok) ingyenesen, nyilvántartási értéken történő átvezetéssel az Alapítvány tulajdonába kell adni.
-
-(2) Az (1) bekezdés szerinti ingatlanjuttatás tárgyában kötendő megállapodás létrejöttének napjával egyidejűleg az Alapítvány közfeladatai ellátásához szükséges, a Forum Hungaricum Nonprofit Korlátolt Felelősségű Társaság vagyonkezelésében lévő, (1) bekezdés szerinti ingatlanokhoz kapcsolódó, állami tulajdonú ingó vagyontárgyak és immateriális javak (a továbbiakban együtt: ingó javak) az Alapítvány tulajdonába kerülnek.
-
-(3) A Digitális Erőmű tulajdonjogát az Alapítvány – a TIOP-1.2.1.B-12/1-2013-0001 azonosító számú kiemelt projekt keretében kötött támogatási szerződés alapján – fenntartási kötelezettséggel együtt szerzi meg.
-
-(4) Ha az Alapítvány a tulajdonába adott, (1) bekezdés szerinti ingatlanokat elidegeníti, az elidegenítésből származó bevételnek az elidegenítés költségeinek kiegyenlítését követően fennmaradó részét az Alapítvány közérdekű céljainak megvalósítására és a KEKVA tv. 1. mellékletében foglalt táblázatban meghatározott közfeladata ellátására köteles fordítani. Az Alapítvány az ingatlanértékesítésből származó bevételt működési költségek finanszírozására nem használhatja fel.
-
-(5) Az ingatlanokat az Alapítvány a KEKVA tv. 1. mellékletében foglalt táblázatban meghatározott közfeladatai ellátása érdekében használja.”
+### 43. §

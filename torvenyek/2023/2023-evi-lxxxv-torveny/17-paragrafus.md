@@ -1,5 +1,1 @@
-## „30. a felsőoktatási intézmények által kiállított okiratok külföldi felhasználásra történő felülhitelesítését,
-
-## 31. a mikrotanúsítvány kötelező tartalmi elemeit.”
-
-17. § Az Nftv. 1. melléklete helyébe az 1. melléklet lép.
+### 17. §
