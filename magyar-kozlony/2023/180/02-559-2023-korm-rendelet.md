@@ -1,0 +1,1559 @@
+# A Kormány 559/2023. (XII. 14.) Korm. rendelete
+
+Magyar Közlöny 2023. évi 180. szám, 2023. december 14. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/1KF1UplKlkxeQXbunniy6576d4b570957/dokumentumok/e7f59a2f1d69403f98627395c1ffd048976c5d75/letoltes)
+
+---
+
+A Kormány 559/2023. (XII. 14.) Korm. rendelete
+a biológiailag lebomló hulladék képződésének megelőzésére vonatkozó tevékenységekről, a biológiailag
+lebomló hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályairól és
+a biohulladékból előállított komposzt osztályozásának szabályairól
+A Kormány
+a hulladékról szóló 2012. évi CLXXXV. törvény 88. § (1) bekezdés 28. és 29. pontjában,
+a 20. § tekintetében a jogalkotásról szóló 2010. évi CXXX. törvény 31. § (1) bekezdés a) pont ac) alpontjában
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket
+rendeli el:
+1. A rendelet hatálya
+1. § (1) E rendelet hatálya
+a) a biológiailag lebomló hulladék képződésének megelőzésére,
+b) a biológiailag lebomló hulladékra,
+c) a stabilizált hulladékra,
+d) a vegyes hulladékra,
+e) az erjesztési maradékra,
+f) a komposztra,
+g) a házi és közösségi komposztálásra,
+h) a telepi komposztálásra,
+i) a komposztálható bioműanyagokra,
+j) a telepi komposztáláshoz felhasználható segédanyagokra,
+k) a stabilizálásra,
+l) a biogáz-előállításra,
+m) a biogáz-előállításhoz felhasználható segédanyagokra és
+n) a biológiailag lebomló hulladék hulladékstátuszának megszűnésére
+terjed ki.
+(2) E rendelet hatálya nem terjed ki
+a) a szennyezett földtani közeg, kitermelt szennyezett talaj kármentesítési eljárásban történő biológiai
+ártalmatlanítására,
+b) a mező- és erdőgazdálkodási tevékenység során képződő, a felszínen és a felszín alatt visszamaradó növényi
+maradványokra,
+c) a hulladéklerakóban természetes módon képződő biogázra és
+d) a kiterjesztett gyártói felelősségi rendszer hatálya alá tartozó sütőolajból és zsírból képződő hulladékra.
+2. Értelmező rendelkezések
+2. §
+E rendelet alkalmazásában
+ 1. állati melléktermék: a nem emberi fogyasztásra szánt állati melléktermékekre és a belőlük származó
+termékekre vonatkozó egészségügyi szabályok megállapításáról és az 1774/2002/EK rendelet hatályon kívül
+helyezéséről (állati melléktermékekre vonatkozó rendelet) szóló, 2009. október 21-i 1069/2009/EK európai
+parlamenti és tanácsi rendelet 3. cikk 1. pontja szerinti állati melléktermék;
+ 2. állati melléktermékekből származó termékek: a nem emberi fogyasztásra szánt állati melléktermékekre és
+a belőlük származó termékekre vonatkozó egészségügyi szabályok megállapításáról és az 1774/2002/EK
+rendelet hatályon kívül helyezéséről (állati melléktermékekre vonatkozó rendelet) szóló, 2009. október 21-i
+
+1069/2009/EK európai parlamenti és tanácsi rendelet 3. cikk 2. pontja szerinti állati melléktermékekből
+származó termékek;
+ 3. biogáz: a biológiailag lebomló anyag, hulladék anaerob lebomlása során képződő, metánból, szén-dioxidból
+és nyomokban előforduló gázokból álló keverék;
+ 4. biogáz-előállítás: olyan hasznosítási művelet, amelynek során a biológiailag lebomló anyag, hulladék
+ellenőrzött körülmények között, anaerob környezetben, mikroorganizmusok segítségével lebomlik, és
+a lebomlás eredményeképpen biogáz és erjesztési maradék képződik;
+ 5. biológiai kezelés: a biogáz-előállítás, a zöldhulladék előkezelése, a komposztálás, valamint a stabilizálás;
+ 6. előkezelő tér: a biológiai kezelés előkészítéséhez szükséges telephely területrészét képező olyan műszaki
+védelemmel ellátott hely vagy terület, ahol a biológiailag lebomló hulladék kezelését megkezdik;
+ 7. erjesztési maradék: a biogáz-előállítás során képződő, szilárd vagy folyékony halmazállapotú hulladék;
+ 8. élelmiszer-hulladék: a nem emberi fogyasztásra szánt állati melléktermékekre és a belőlük származó
+termékekre vonatkozó egészségügyi szabályok megállapításáról szóló 1069/2009/EK európai parlamenti
+és tanácsi rendelet végrehajtásáról, valamint a 97/78/EK tanácsi irányelvnek az egyes minták és tételek
+határon történő állat-egészségügyi ellenőrzése alóli, az irányelv szerinti mentesítése tekintetében
+történő végrehajtásáról szóló 142/2011/EU bizottsági rendelet 1. melléklet szerinti étkezési hulladék,
+valamint az élelmiszerjog általános elveiről és követelményeiről, az Európai Élelmiszerbiztonsági Hatóság
+létrehozásáról és az élelmiszerbiztonságra vonatkozó eljárások megállapításáról szóló, 2002. január 28-i
+178/2002/EK európai parlamenti és tanácsi rendelet 2. cikke szerinti élelmiszer, amely hulladékká vált;
+ 9. házi komposztálás: a zöldhulladéknak és a konyhai zöldhulladéknak vagy más növényi eredetű szerves
+anyagnak, a képződése helyén vagy a képződésének helye szerinti ingatlan, vagy a házi komposztálást végző
+más ingatlanának területén, a növények tápanyagellátása érdekében, saját célra történő olyan feldolgozása,
+amelynek során házi komposzt képződik;
+10. higiénizáció: a biológiailag lebomló hulladékban a fertőző mikrobák vegetatív formájának minimálisra
+csökkentése a fertőzés kizárása érdekében;
+11. komposzt: az 1. melléklet szerinti hulladék, továbbá háztartásokban képződő zöldhulladékból és
+a konyhai zöldhulladékokból, segédanyagok felhasználásával, házi és közösségi vagy telepi komposztálás
+során előállított, magas szervesanyag-tartalmú, növényi tápanyagban gazdag – külön jogszabályban
+meghatározott – humuszszerű anyag, amelynek megszűnt a hulladékstátusza;
+12. komposztálási egység: az előkezelés során végzett műveleteket követően a biológiailag lebomló hulladékból
+és segédanyagokból kialakított, az alkalmazott technológia szerint egységesen kezelt tétel;
+13. komposzt tétel: azonos komposztálási egységből származó komposzt;
+14. koncesszió hatálya alá tartozó biológiailag lebomló hulladék: a hulladékról szóló törvény szerinti koncesszió
+körébe tartozó, biológiailag lebomló, kerti vagy parkból származó zöld növényi hulladék, valamint
+a háztartásban vagy nem gazdálkodó szervezet ingatlanhasználónál képződő háztartási hulladékhoz hasonló
+hulladéknak minősülő konyhai zöld- és élelmiszer-hulladék, továbbá a nem emberi fogyasztásra szánt
+állati eredetű melléktermékekre vonatkozó állategészségügyi szabályok megállapításáról szóló miniszteri
+rendelet szerinti üzemeltetőtől eltérő gazdálkodó szervezet ingatlanhasználónál képződő konyhai zöld- és
+élelmiszer-hulladék;
+15. konyhai élelmiszer-hulladék: a háztartásokban képződő emberi fogyasztásra szánt konyhai étel és élelmiszer,
+amely hulladékká vált, és amely nem minősül konyhai zöldhulladéknak;
+16. konyhai zöldhulladék: konyhai zöldhulladéknak tekinthető a háztartások növényi eredetű konyhai hulladéka,
+amely nyers zöldség- és gyümölcs maradékokat, kávézaccot (filter, kapszula és egyéb csomagolóanyag
+nélkül), teafüvet (filter és egyéb csomagolóanyag nélkül), fűszereket, gyógynövényeket, tojáshéjat tartalmaz;
+17. közösségi gyűjtés: a természetes személy ingatlanhasználók több lakóépületben élő közössége által
+a zöldhulladék és konyhai zöldhulladék lakóépületekhez közvetlen közeli helyen történő elkülönített
+gyűjtése;
+18. közösségi komposztálás: olyan házi komposztálás, ahol a komposztálás előkezelését, komposztálást,
+komposzt felhasználását társasházak, lakásszövetkezetek, kis közösségek közösen végzik;
+19. légzési intenzitás: a biológiailag lebomló hulladék szervesanyag-tartalmának oxigénfogyasztása
+[mg O
+
+/g szárazanyag];
+20. minősített termék komposzt: az 1. melléklet szerinti hulladék, továbbá segédanyagok felhasználásával telepi
+komposztálás során előállított, magas szervesanyag-tartalmú, növényi tápanyagban gazdag humuszszerű,
+a termésnövelő anyagok engedélyezéséről, tárolásáról, forgalmazásáról és felhasználásáról szóló miniszteri
+
+rendelet alapján forgalombahozatali engedéllyel rendelkező termésnövelő és talajjavító anyag, amely
+elhagyta a hulladékstátuszt, mezőgazdasági felhasználásra az engedélyben előírtak szerint alkalmas;
+21. nyitott komposztálási rendszer: a komposztáló telepen alkalmazott olyan komposztálási technológia,
+amelynek alkalmazása során a komposztálási egység levegővel történő közvetlen érintkezése biztosított, és
+a komposztálási egység nincs letakarva, körülhatárolva műszaki vagy építészeti elemekkel;
+22. stabilizálás: olyan előkezelési művelet, amelynek során a biológiailag lebomló hulladékot tartalmazó vegyes
+hulladék biológiai bomló képességét mechanikai és biológiai eljárások szükség szerinti kombinációinak
+alkalmazásával csökkentik, és ennek következtében a légzési intenzitás mértéke csökken és a higiénés
+feltételeknek megfelelő stabilizált hulladék jön létre, amelynek a légzési intenzitása (AT4) 10 mg O
+
+/g
+szárazanyag tartalom érték alá csökkent;
+23. stabilizált hulladék: komposztálásra vagy anaerob biológiai lebontásra alkalmatlan biohulladék mechanikai-
+biológiai kezeléséből származó olyan anyag, melynél a stabilizálást követően a 4 nap utáni (AT4) légzési
+intenzitás érték 10 mg O
+
+/g érték alá, a dinamikus légzési intenzitás érték 1000 mg O
+
+/kg VS * h érték alá
+csökken;
+24. telepi komposztálás: a komposztáló telepen végzett olyan hasznosítási művelet, amelynek során
+a biológiailag lebomló hulladék, továbbá a hozzáadott segédanyagok oxigén jelenlétében,
+mikroorganizmusok és egyéb élő szervezetek segítségével autotermikus és termofil biológiai folyamatok
+útján lebomlik, és ennek eredményeképpen biológiailag stabil, szerves és szervetlen komponenseket,
+kórokozókat legfeljebb a 2. melléklet szerinti koncentrációban tartalmazó komposzt jön létre;
+25. telepi komposztálásra alkalmas bioműanyag: biológiai lebomlásra alkalmas jelzéssel vagy tanúsítvánnyal
+rendelkező műanyag hulladék, amely megfelel az MSZ EN 13 432-es szabványnak vagy azzal egyenértékű
+műszaki megoldásnak, és a telepi komposztálás mellett a konyhai élelmiszer-hulladékokkal együtt gyűjtve
+biogáz előállításához is felhasználhatók;
+26. zárt komposztálási rendszer: a komposztáló telepen alkalmazott olyan komposztálási technológia, amelynek
+alkalmazása során a komposztálási folyamat zárt egységben, műszaki vagy építészeti elemek alkalmazásával
+valósul meg.
+3. A biológiailag lebomló hulladék képződésének megelőzésére vonatkozó szabályok
+3. § (1) Ha műszakilag megvalósítható, környezetvédelmi szempontból előnyös, valamint gazdasági szempontból
+arányosan kivitelezhető, a növényi eredetű szervesanyag házi vagy közösségi komposztálását kell megvalósítani.
+(2) Az e rendelet szabályainak megfelelő komposzt a hulladékokkal kapcsolatos adatoknak a 2008/98/EK európai
+parlamenti és tanácsi irányelvnek megfelelően való kiszámítására, ellenőrzésére és jelentésére vonatkozó
+szabályok megállapításáról és a C(2012) 2384 bizottsági végrehajtási határozat hatályon kívül helyezéséről szóló,
+2019. június 7-i (EU) 2019/1004 bizottsági végrehajtási határozata alapján a célérték teljesítésébe elszámolható.
+(3) A koncessziós társaság legalább ötévente, országos szinten adatot gyűjt a házi és közösségi komposztálás során
+képződő komposzt mennyiségéről és felhasználásáról.
+(4) A biológiailag lebomló hulladék képződésének megelőzésére vonatkozó szemléletformálás és edukáció a lakosság
+körében a Nemzeti Élelmiszerlánc-biztonsági Hivatal által működtetett Maradék nélkül – Élelmiszerhulladék-
+megelőzési Nemzeti Program országos előadássorozat hozzájárulásával valósul meg annak érdekében, hogy
+az Egyesült Nemzetek Szervezete által megfogalmazott 12.3. számú fenntartható fejlődési cél 2030-ig teljesüljön
+Magyarországon.
+4. A biológiailag lebomló hulladék elkülönített gyűjtésére vonatkozó szabályok
+4. § (1) A biológiailag lebomló hulladékot a hulladékbirtokos a képződés helyén, kizárólag erre a célra rendszeresített
+hulladékgyűjtő edényzetben elkülönítetten és a környezet veszélyeztetését kizáró módon, önkéntesen gyűjti.
+(2) A koncessziós társaság a (9) bekezdés szerinti tevékenysége keretében külön e célra rendszeresített hulladékgyűjtő
+edényzetet biztosít a hulladékbirtokos részére a konyhai zöldhulladék és a konyhai élelmiszer-hulladék gyűjtésére.
+(3) A konyhai élelmiszer-hulladék szállítása és nyomon követése során a nem emberi fogyasztásra szánt állati eredetű
+melléktermékekre vonatkozó állategészségügyi szabályok megállapításáról szóló miniszteri rendelet vonatkozó
+rendelkezéseit kell alkalmazni, amennyiben biogáz- és komposztáló üzemben kerül feldolgozásra. A koncesszió
+hatálya alá tartozó biológiailag lebomló hulladék vonatkozásában a nem emberi fogyasztásra szánt állati eredetű
+melléktermékekre vonatkozó állategészségügyi szabályok megállapításáról szóló miniszteri rendelet szerinti
+
+kereskedelmi okmány kiállítására vonatkozó rendelkezéseket a háztartásokból történő átvétel során nem kell
+alkalmazni.
+(4) Tilos a háztartásokból származó elkülönítetten gyűjtött élelmiszer-hulladék takarmányozási célú felhasználása,
+annak felhasználására a koncesszor közvetlenül és közvetve sem jogosult.
+(5) A gazdálkodó szervezetektől származó élelmiszer-hulladék gyűjtését, szállítását és nyomon követését, ha az biogáz-
+és komposztáló üzemben kerül feldolgozásra, a nem emberi fogyasztásra szánt állati eredetű melléktermékekre
+vonatkozó állategészségügyi szabályok megállapításáról szóló miniszteri rendelet vonatkozó rendelkezéseinek
+megfelelően kell végezni.
+(6) A koncesszió hatálya alá tartozó biológiailag lebomló hulladék átvételének, gyűjtésének, szállításának módját és
+gyakoriságát a koncessziós társaság határozza meg.
+(7) A koncesszió hatálya alá tartozó biológiailag lebomló hulladék gyűjtése, szállítása hulladékgazdálkodási engedély
+birtokában végezhető.
+(8) A hulladékbirtokos gondoskodik arról, hogy a koncessziós társaság részére átadott biológiailag lebomló hulladék
+más hulladékot – ideértve a csomagolóanyagot és az idegen anyagot – ne tartalmazzon.
+(9) A koncessziós társaság az e rendelet szerinti elkülönített gyűjtés feltételeit akkor biztosítja, ha az műszakilag
+és szakmailag megvalósítható. A koncessziós társaság elsősorban házhoz menő gyűjtést biztosít, ha az nem jár
+aránytalan gazdasági költséggel. A koncessziós társaság az ellátott lakosság számát figyelembe vevő méretű
+hulladékgyűjtő pontokat alakít ki, ahol a házhoz menő gyűjtés nem biztosított.
+(10) A koncessziós társaság – az egyes hulladékgazdálkodási létesítmények kialakításának és üzemeltetésének
+szabályairól szóló kormányrendeletben meghatározottaktól eltérően – hulladékgyűjtő pontként kijelöli az általa
+vagy koncesszori alvállalkozó által üzemeltetett hulladékgyűjtő udvart.
+5. §
+A környezetben tartósan megmaradó szerves szennyező anyagokról szóló 2019/1021/EU rendelet I. és
+II. mellékletében szereplő anyagokat tartalmazó biológiailag lebomló hulladék nem komposztálható, erjesztési
+maradékká nem alakítható.
+5. A zöldhulladék és konyhai zöldhulladék elkülönített közösségi gyűjtésére vonatkozó szabályok
+6. §
+Ha a zöldhulladéknak és a konyhai zöldhulladéknak a 8. §-ban meghatározottak szerinti más felhasználása
+nem lehetséges, akkor az elkülönítetten gyűjtött zöldhulladékot és konyhai zöldhulladékot elsősorban telepi
+komposztálás vagy biogáz-előállítás, és legvégső esetben biomassza erőműben energetikai hasznosítás útján kell
+hasznosítani.
+7. § (1) Közösségi gyűjtés a koncessziós társaság által meghatározott, a helyi közösséggel egyeztetett területen vagy
+a lakóközösség által fenntartott magánterületen, de kizárólag kijelölt, az ingatlanon belül elkerített helyen
+végezhető.
+(2) A közösségi gyűjtésre szolgáló helyhez történő szabad és akadálymentes hozzáférést folyamatosan biztosítani kell.
+(3) A közösségi gyűjtés hulladékgazdálkodási engedély nélkül végezhető.
+(4) Közösségi gyűjtés helyén veszélyes összetevőket tartalmazó zöldhulladék, házi komposztálási körülmények közötti
+biológiai lebomlásra alkalmasságról tanúsítvánnyal nem rendelkező műanyag, valamint a zöldhulladékon és
+a konyhai zöldhulladékon kívül más hulladék nem helyezhető el.
+(5) A közösségi gyűjtésre szolgáló helyen az ingatlan tulajdonosa vagy az adott közösség, lakóközösség által írásbeli
+megállapodásban megbízott személy gondoskodik
+a) a közösségi gyűjtésre szolgáló hely tisztántartásáról, karbantartásáról, az ehhez szükséges személyi és tárgyi
+feltételek biztosításáról, valamint
+b) a használatra vonatkozó feltételeket tartalmazó tájékoztató tábla helyben történő kihelyezéséről.
+(6) Közösségi gyűjtés végzését az elkerített hely kijelölésével egyidejűleg, a közösségi gyűjtés megkezdését
+megelőzően és befejezését követően a közösségi gyűjtéssel érintett ingatlan tulajdonosának vagy az általa
+meghatalmazott személynek be kell jelentenie a koncessziós társaság részére.
+6. A házi komposztálásra, a közösségi komposztálásra és a telepi komposztálásra vonatkozó szabályok
+8. § (1) A komposztokra vonatkozó fizikai, kémiai és biológiai követelményeket nem mezőgazdasági felhasználás esetén
+a 2. melléklet tartalmazza.
+
+(2) A közösségi és házi komposztálással kapcsolatos feladatok megvalósításáért a komposztálás megvalósítására
+szolgáló ingatlan tulajdonosa felelős.
+(3) A (2) bekezdés szerinti közösségi komposztálással kapcsolatos feladatok megvalósításáról az adott közösség
+a közösség által megválasztott személy vagy szervezet vagy a lakóközösség által írásbeli megállapodásban
+megbízott személy vagy szervezet útján gondoskodik.
+(4) A (3) bekezdés szerinti személy vagy szervezet gondoskodik
+a) a gyűjtésre szolgáló hely tisztántartásáról, karbantartásáról, és az ehhez szükséges személyi és tárgyi
+feltételek biztosításáról,
+b) a használatra vonatkozó feltételeket tartalmazó tájékoztató tábla helyben történő kihelyezéséről,
+c) a képződő komposzt felhasználásáról,
+d) a képződő komposzt mennyiségére és felhasználására vonatkozó adatoknak a koncessziós társaság részére
+történő megküldéséről a koncessziós társaság által meghatározott módon.
+(5) A házi vagy közösségi komposztálással állati melléktermék és állati melléktermékekből származó termék, valamint
+házi komposztálási körülmények közötti biológiai lebomlásra alkalmasságról tanúsítvánnyal nem rendelkező
+műanyag nem kezelhető.
+(6) Házi és közösségi komposztálás során veszélyes összetevőket tartalmazó zöldhulladék, valamint a zöldhulladékon
+kívül más hulladék nem használható fel.
+9. § (1) Telepi komposztálás kizárólag hasznosításra vonatkozó hulladékgazdálkodási engedéllyel, komposztáló telepen
+végezhető a hulladékgazdálkodással kapcsolatos ártalmatlanítási és hasznosítási műveletek felsorolásáról szóló
+miniszteri rendeletben meghatározott R3c hasznosítási művelet útján.
+(2) A biológiailag lebomló hulladékból történő telepi komposztálásra az 1. melléklet szerinti hulladéktípusok és
+segédanyagok, továbbá segédanyagként felhasználható hulladékfajták használhatók fel.
+(3) A telepi komposztálás során a szennyvizek és szennyvíziszapok mezőgazdasági felhasználásának és
+kezelésének szabályairól szóló kormányrendeletben meghatározott követelmények betartása mellett, valamint
+a hulladékgazdálkodási tevékenységek nyilvántartásba vételéről, valamint hatósági engedélyezéséről szóló
+kormányrendelet szerint kiadott hulladékgazdálkodási engedély birtokában szennyvíziszap felhasználható.
+(4) Kizárólag a telepi komposztálás során kezelhető komposztálható bioműanyag.
+10. § (1) A telepi komposztálás, a stabilizálás és a biogáz-előállításra vonatkozó műszaki szabályokat, valamint a telepi
+komposztáláshoz biztosítandó műszaki és üzemeltetési feltételeket a 3. melléklet tartalmazza.
+(2) A biológiailag lebomló hulladékot – ideértve a telepi komposztálás során kezelhető bioműanyagokat – a telepi
+komposztálás megkezdéséig az előkezelő téren minden más hulladéktól és anyagtól elkülönítetten kell tárolni.
+(3) A biológiailag lebomló hulladék – ideértve a telepi komposztálás során kezelhető bioműanyagokat –
+komposztálásra történő előkészítését az előkezelő téren kell megkezdeni. Ezt követően a hulladékot a további
+kezelés elvégzése érdekében a komposztáló térre át kell szállítani.
+(4) A komposztáló téren végzett telepi komposztálás
+a) nyitott komposztálási rendszerben,
+b) zárt komposztálási rendszerben vagy
+c) az a) és a b) pont szerinti egységek kombinációjában
+végezhető.
+(5) A biológiailag lebomló hulladékot – ideértve a telepi komposztálás során kezelhető bioműanyagokat – a választott
+komposztálási rendszertől függően a komposztáló téren komposztálási egységbe kell rendezni.
+(6) A feldolgozásra átadott vagy átvett állati eredetű mellékterméknek minősülő élelmiszer-hulladék mennyiségéről
+az élelmiszerlánc-felügyeleti szerv által a nem emberi fogyasztásra szánt állati eredetű melléktermékekre vonatkozó
+állategészségügyi szabályok megállapításáról szóló miniszteri rendelet szerint gyűjtött adatok a vonatkozó
+– feldolgozás esetén az újrahasznosítási – célértékbe, a célérték teljesítéseként beszámíthatók.
+7. A stabilizálásra vonatkozó szabályok
+11. § (1) A biológiai kezelésre, valamint stabilizálásra felhasználható hulladéktípusokat és segédanyagokat, valamint
+segédanyagként felhasználható hulladékfajtákat az 1. melléklet tartalmazza.
+
+(2) Stabilizálásra csak az 1. mellékletben felsorolt hulladékok kerülhetnek, amelyek biológiai kezelése
+hulladékgazdálkodási engedéllyel végezhető, a hulladékgazdálkodási tevékenységek nyilvántartásba vételéről,
+valamint hatósági engedélyezéséről szóló kormányrendeletben meghatározott szabályok figyelembevételével.
+(3) A stabilizálás során nyert stabilizált hulladék kizárólag a hulladékgazdálkodási hatóság által meghatározott
+hasznosítási vagy ártalmatlanítási műveletek elvégzéséhez használható fel.
+(4) Stabilizálást szilárd burkolattal ellátott területen kell végezni.
+(5) A hulladéklerakó üzemeltetése során takarórétegként vagy annak rekultivációjához a felső záróréteg részét képező
+kiegyenlítő- és fedőrétegként a stabilizált hulladék felhasználható a hulladéklerakással, valamint a hulladéklerakóval
+kapcsolatos egyes szabályokról és feltételekről szóló miniszteri rendeletben előírtak szerint és az ártalmatlanításra
+vonatkozó hulladékgazdálkodási engedélyben meghatározott, a környezetszennyezés megelőzésére és
+csökkentésére alkalmazandó leghatékonyabb megoldások figyelembevételével meghatározott műszaki védelem és
+technológia leírásának megfelelő mértékben. Ezt meghaladó mértékben a stabilizált biohulladék hasznosítási céllal
+a hulladéklerakó üzemeltetése során nem használható fel.
+(6) A hulladéklerakó rekultivációja során az adott területen felhasználható stabilizált hulladék mértéke nem haladhatja
+meg az 500 tonna/hektár szárazanyag-mennyiséget.
+(7) A stabilizáláshoz biztosítandó műszaki feltételeket a 3. melléklet tartalmazza.
+8. A biogáz-előállításra vonatkozó szabályok
+12. § (1) Ha biogáz üzembe biológiailag lebomló hulladékot szállítanak be, akkor a biogáz-előállítás hulladékgazdálkodási
+engedéllyel a hulladékgazdálkodással kapcsolatos ártalmatlanítási és hasznosítási műveletek felsorolásáról szóló
+miniszteri rendeletben meghatározott R3 hasznosítási művelet útján végezhető.
+(2) Az állati eredetű mellékterméket is feldolgozó biogáz üzem létesítésére, engedélyezésére és üzemeltetésére
+a nem emberi fogyasztásra szánt állati eredetű melléktermékekre vonatkozó állategészségügyi szabályok
+megállapításáról szóló miniszteri rendelet, a nem emberi fogyasztásra szánt állati melléktermékekre és a belőlük
+származó termékekre vonatkozó egészségügyi szabályok megállapításáról és az 1774/2002/EK rendelet hatályon
+kívül helyezéséről (állati melléktermékekre vonatkozó rendelet) szóló, 2009. október 21-i 1069/2009/EK európai
+parlamenti és tanácsi rendelet 24. cikke, valamint a nem emberi fogyasztásra szánt állati melléktermékekre
+és a belőlük származó termékekre vonatkozó egészségügyi szabályok megállapításáról szóló 1069/2009/EK
+európai parlamenti és tanácsi rendelet végrehajtásáról, valamint a 97/78/EK tanácsi irányelvnek az egyes minták
+és tételek határon történő állat-egészségügyi ellenőrzése alóli, az irányelv szerinti mentesítése tekintetében
+történő végrehajtásáról szóló 142/2011/EU bizottsági rendelet (a továbbiakban: 142/2011/EU bizottsági rendelet)
+V. melléklete az irányadó.
+(3) Biológiailag lebomló hulladékból történő biogáz-előállításra az 1. melléklet szerinti hulladéktípusok – ideértve
+a telepi komposztálásra alkalmas bioműanyagokat – használhatók fel.
+(4) Biológiailag lebomló hulladékból történő biogáz-előállítás biogáz üzemben
+a) nedves vagy
+b) száraz
+fermentációs eljárással végezhető.
+(5) A biogáz-előállításhoz biztosítandó műszaki feltételeket a 3. melléklet tartalmazza.
+(6) A feldolgozásra átadott vagy átvett állati eredetű mellékterméknek minősülő élelmiszer-hulladék mennyiségéről
+az élelmiszerlánc-felügyeleti szerv által a nem emberi fogyasztásra szánt állati eredetű melléktermékekre vonatkozó
+állategészségügyi szabályok megállapításáról szóló miniszteri rendelet szerint gyűjtött adatok a vonatkozó
+– feldolgozás esetén az újrahasznosítási – célértékbe, a célérték teljesítéseként beszámíthatók.
+9. A hulladékstátusz megszűnésére vonatkozó szabályok
+13. § (1) Mezőgazdasági célú felhasználás esetében a biológiailag lebomló hulladék hulladékstátusza akkor szűnik meg,
+ha az abból előállított komposzt és erjesztési maradék
+a) a termésnövelő anyagok engedélyezéséről, tárolásáról, forgalmazásáról és felhasználásáról szóló miniszteri
+rendeletben és
+b) az uniós termésnövelő anyagok forgalmazására vonatkozó szabályok megállapításáról szóló 2019/1009 EK
+rendeletben
+meghatározott követelményeket is teljesíti.
+
+(2) Nem mezőgazdasági célú felhasználás esetében a biológiailag lebomló hulladék hulladékstátusza akkor szűnik meg,
+ha az abból előállított komposzt és erjesztési maradék a 2. melléklet szerinti követelményeket teljesíti.
+14. § (1) A komposztot a komposztáló telep üzemeltetője, valamint az erjesztési maradékot a biogáz üzem üzemeltetője
+akkor adhatja át másnak felhasználásra, ha a hulladékról szóló 2012. évi CLXXXV. törvény 9. § (1) bekezdésében
+meghatározott, a hulladékstátusz megszűnésére vonatkozó feltételeknek való megfelelést a 4. melléklet szerinti
+megfelelőségi nyilatkozat útján igazolja, kivéve, ha hulladékstátuszban további kezelésre adja át.
+(2) A megfelelőségi nyilatkozatot átvevőnként és ügyletenként, egyedi átadásonként kell kiállítani.
+(3) A megfelelőségi nyilatkozat a következő megfelelőségi nyilatkozat kiállításáig tanúsítja a benne foglalt adatokat.
+(4) A megfelelőségi nyilatkozatból 2 példányt készít az (1) bekezdés szerinti üzemeltető, aki az első példányt
+igazolásként megőrzi, a másodpéldányt a felhasználónak az elszállításkor átadja vagy – igazolható
+módon – eljuttatja.
+(5) A megfelelőségi nyilatkozatot az üzemeltetőnek és a felhasználónak legalább 5 évig meg kell őriznie.
+15. § (1) Nem mezőgazdasági célú felhasználás esetében a komposzt e rendelet szerinti fizikai, kémiai, biológiai és
+higiénés mikrobiológiai tulajdonságainak megfelelőségét a komposztáló telep üzemeltetője a komposztból
+vett reprezentatív minta útján ellenőrzi. Az akkreditált mintavételt és a minta előkészítését szabvány alapján kell
+elvégezni.
+(2) A komposztáló telepen előállított komposztból a következő esetekben és gyakorisággal kell komposztálási
+tételenként mintát venni:
+a) ha a komposztáló telep kapacitása nem haladja meg a 10 000 tonna/tárgyév biológiailag lebomló hulladék
+mennyiséget, akkor az előállított komposztból évente legalább egy alkalommal,
+b) ha a komposztáló telep kapacitása több, mint 10 000 tonna/tárgyév biológiailag lebomló hulladék, akkor
+az előállított komposztból évente legalább két alkalommal, vagy
+c) ha a komposztáló telep technológiája megváltozik.
+(3) A komposztból vett minta laboratóriumi vizsgálatát szabvány szerinti vagy azzal egyenértékű módszerrel,
+a vizsgálatra akkreditált laboratóriumban kell elvégezni. A vizsgálat eredményeit tartalmazó laborvizsgálati
+jegyzőkönyvet legalább 5 évig meg kell őrizni.
+(4) A szerves szennyező vegyületekre vonatkozó vizsgálatokat abban az esetben kell elvégezni, ha a felhasznált
+anyagok közül egy vagy több az 1. melléklet szerint kockázatos anyagnak minősül.
+(5) Amennyiben a komposzt nem teljesíti a hulladékstátusz megszűnésére vonatkozó, a 2. melléklet szerinti
+követelményeket, úgy azt továbbra is hulladékként kell kezelni és be kell sorolni a hulladékjegyzékről szóló
+miniszteri rendelet szerint, majd ezt követően érvényes hulladékgazdálkodási vagy egységes környezethasználati
+engedéllyel rendelkező hulladékkezelőnek kell továbbadni.
+16. § (1) Nem mezőgazdasági célú felhasználás esetében az erjesztési maradék e rendelet szerinti fizikai, kémiai, biológiai és
+higiénés mikrobiológiai tulajdonságainak megfelelőségét a biogáz üzem üzemeltetője az erjesztési maradékból vett
+reprezentatív minta útján ellenőrzi.
+(2) A biogáz üzemben képződött erjesztési maradékból a következő esetekben és gyakorisággal kell mintát venni:
+a) ha a biogáz üzem kapacitása nem haladja meg a 10 000 tonna/tárgyév biológiailag lebomló hulladék, akkor
+a képződött erjesztési maradékból évente legalább egy alkalommal,
+b) ha a biogáz üzem kapacitása több, mint 10 000 tonna/tárgyév biológiailag lebomló hulladék, akkor
+a képződött erjesztési maradékból évente legalább két alkalommal, vagy
+c) ha a biogáz üzem technológiája megváltozik.
+(3) Az erjesztési maradékból vett minta laboratóriumi vizsgálatát szabvány szerinti a vizsgálatra akkreditált
+laboratóriumban kell elvégezni. A vizsgálat eredményeit tartalmazó laborvizsgálati jegyzőkönyvet legalább 5 évig
+meg kell őrizni.
+(4) A szerves szennyező vegyületekre vonatkozó vizsgálatokat abban az esetben kell elvégezni, ha a felhasznált
+anyagok közül egy vagy több az 1. melléklet szerint kockázatos anyagnak minősül.
+10. Záró rendelkezések
+17. §
+Ez a rendelet 2023. december 31-én lép hatályba.
+
+18. § (1) Ez a rendelet
+a) a hulladékokról és egyes irányelvek hatályon kívül helyezéséről szóló, 2008. november 19-i 2008/98/EK
+európai parlamenti és tanácsi irányelvnek, valamint
+b) a hulladéklerakókról szóló, 1999. április 26-i 1999/31/EK tanácsi irányelvnek
+való megfelelést szolgálja.
+(2) A rendelet tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó
+szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i
+(EU) 2015/1535 európai parlamenti és tanácsi irányelv szerinti előzetes bejelentése megtörtént.
+19. §
+Aki az e rendelet hatálybalépését megelőzően az élelmiszer-hulladékáról a nem emberi fogyasztásra szánt állati
+eredetű melléktermékekre vonatkozó állategészségügyi szabályok megállapításáról szóló rendelet (a továbbiakban:
+Rendelet) szabályai szerint gondoskodott, az ezen tevékenységét e rendelet hatálybalépését követően is a Rendelet
+szabályainak megfelelően folytathatja.
+20. §
+Hatályát veszti a biohulladék kezeléséről és komposztálás műszaki követelményeiről szóló 23/2003. (XII. 29.)
+KvVM rendelet.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet az 559/2023. (XII. 14.) Korm. rendelethez
+A biológiai kezelésre, valamint stabilizálásra felhasználható hulladéktípusok és segédanyagok, valamint
+segédanyagként felhasználható hulladékfajták
+1. Biológiai kezelésre felhasználható hulladéktípusok:
+A B C D
+1. Azonosító kód
+A hulladéktípus megnevezése Megjegyzés
+Kockázatos
+anyag
+2.
+főcsoport szám
+alcsoport
+szám
+3.
+
+MEZŐGAZDASÁGI,
+KERTÉSZETI,
+AKVAKULTÚRÁS
+TERMELÉSBŐL,
+ERDŐGAZDÁLKODÁSBÓL,
+VADÁSZATBÓL,
+HALÁSZATBÓL,
+ÉLELMISZER-
+ELŐÁLLÍTÁSBÓL ÉS-
+FELDOLGOZÁSBÓL
+SZÁRMAZÓ HULLADÉK
+4.
+02 01
+mezőgazdaság, kertészet,
+akvakultúrás termelés,
+erdőgazdálkodás, vadászat
+és halászat hulladéka
+5.
+02 01 01
+mosásból és tisztításból
+származó iszap
+Csak az az iszap,
+amely nem
+tartalmaz kémiai
+tisztító-, koaguláló-
+vagy
+kivonószereket.
+6.
+02 01 02 hulladékká vált állati szövetek
+Kivéve
+csontszövet.
+Az állati
+melléktermékekre
+vonatkozó hazai és
+uniós jogszabályok
+sérelme nélkül.
+7.
+02 01 03
+hulladékká vált növényi
+szövetek
+8.
+02 01 06
+állati ürülék, vizelet és trágya
+(beleértve a szennyezett
+szalmát), elkülönítve gyűjtött
+és nem a képződés helyén
+kezelt folyékony hulladék
+(hígtrágya)
+Szennyezett
+szalma alatt az
+állati ürülék, vizelet
+és trágya
+felitatására
+használt alom
+értendő. Az állati
+melléktermékekre
+vonatkozó hazai és
+uniós jogszabályok
+sérelme nélkül.
+9. 02 01 07 erdőgazdálkodás hulladéka Csak kezeletlen fa.
+10.
+02 02
+hús, hal és egyéb állati
+eredetű élelmiszerek
+előkészítéséből és
+feldolgozásából származó
+hulladék
+11.
+02 02 01
+mosásból és tisztításból
+származó iszap
+12.
+02 02 02 hulladékká vált állati szövetek
+Az állati
+melléktermékekre
+vonatkozó hazai és
+uniós jogszabályok
+sérelme nélkül.
+13.
+02 02 03
+fogyasztásra vagy
+feldolgozásra alkalmatlan
+anyag
+Az állati
+melléktermékekre
+vonatkozó hazai és
+uniós jogszabályok
+sérelme nélkül.
+
+14.
+02 02 04
+a folyékony hulladéknak
+a képződése helyén történő
+kezeléséből származó iszap
+Csak az az iszap,
+amely nem
+tartalmaz kémiai
+tisztító-, koaguláló-
+vagy
+kivonószereket.
+Az állati
+melléktermékekre
+vonatkozó hazai és
+uniós jogszabályok
+sérelme nélkül.
+15.
+02 03
+gyümölcs, zöldség,
+gabonafélék, étolaj, kakaó,
+kávé, tea és dohány
+előkészítéséből és
+feldolgozásából,
+konzervgyártásból, élesztő
+és élesztőkivonat
+készítéséből, melasz-
+feldolgozásból és
+fermentálásból származó
+hulladék
+16.
+02 03 01
+mosásból, tisztításból,
+hámozásból, centrifugálásból
+és más szétválasztásokból
+származó iszap
+Csak az az iszap,
+amely nem
+tartalmaz kémiai
+tisztító-, koaguláló-
+vagy
+kivonószereket.
+17.
+02 03 04
+fogyasztásra vagy
+feldolgozásra alkalmatlan
+anyag
+Nem alkalmaztak
+extrakciós
+szereket.
+18.
+02 03 05
+a folyékony hulladéknak a
+képződése helyén történő
+kezeléséből származó iszap
+Csak az az iszap,
+amely nem
+tartalmaz kémiai
+tisztító-, koaguláló-
+vagy
+kivonószereket.
+19. 02 04 cukorgyártási hulladék
+20.
+02 04 03
+a folyékony hulladéknak a
+képződése helyén történő
+kezeléséből származó iszap
+Csak az az iszap,
+amely nem
+tartalmaz kémiai
+tisztító-, koaguláló-
+vagy
+kivonószereket.
+21. 02 05 tejipari hulladék
+22.
+02 05 01
+fogyasztásra vagy
+feldolgozásra alkalmatlan
+anyag
+Az állati
+melléktermékekre
+vonatkozó hazai és
+uniós jogszabályok
+sérelme nélkül.
+23.
+02 05 02
+a folyékony hulladéknak
+a képződése helyén történő
+kezeléséből származó iszap
+Csak az az iszap,
+amely nem
+tartalmaz kémiai
+tisztító-, koaguláló-
+vagy
+kivonószereket.
+Az állati
+melléktermékekre
+vonatkozó hazai és
+uniós jogszabályok
+sérelme nélkül.
+24.
+02 06
+sütő- és cukrászipari
+hulladék
+25.
+02 06 01
+fogyasztásra vagy
+feldolgozásra alkalmatlan
+anyag
+
+26.
+02 06 03
+a folyékony hulladéknak
+a képződése helyén történő
+kezeléséből származó iszap
+Csak az az iszap,
+amely nem
+tartalmaz kémiai
+tisztító-, koaguláló-
+vagy
+kivonószereket.
+27.
+02 07
+alkoholtartalmú vagy
+alkoholmentes italok
+termeléséből származó
+hulladék (kivéve kávé, tea és
+kakaó)
+28.
+02 07 01
+a nyersanyagok mosásából,
+tisztításából és mechanikus
+aprításából származó hulladék
+29. 02 07 02 szeszfőzés hulladéka
+30.
+02 07 04
+fogyasztásra vagy
+feldolgozásra alkalmatlan
+anyag
+31.
+02 07 05
+a folyékony hulladéknak a
+képződése helyén történő
+kezeléséből származó iszap
+Csak az az iszap,
+amely nem
+tartalmaz kémiai
+tisztító-, koaguláló-
+vagy
+kivonószereket.
+32.
+
+FAFELDOLGOZÁSBÓL ÉS
+FALEMEZ-, BÚTOR-,
+CELLULÓZ ROST
+SZUSZPENZIÓ-, PAPÍR- ÉS
+KARTONGYÁRTÁSBÓL
+SZÁRMAZÓ HULLADÉK
+33.
+03 01
+fafeldolgozásból, falemez-,
+és bútorgyártásból
+származó hulladék
+34. 03 01 01 fakéreg és parafahulladék Csak kezeletlen fa.
+03 01 05
+fűrészpor, faforgács, darabos
+esedék, fa, forgácslap és
+furnér, amely különbözik
+a 03 01 04-től
+Csak kezeletlen fa.
+35.
+03 03
+cellulózrost szuszpenzió,
+papír-, és kartongyártási,
+feldolgozási hulladék
+36. 03 03 01 fakéreg és fahulladék
+37.
+03 03 07
+hulladék papír és karton rost
+szuszpenzió készítésénél
+mechanikai úton elválasztott
+maradék
+Csak
+az a maradék,
+amely nem
+tartalmaz kémiai
+kezelőanyagokat.
+38.
+03 03 08
+hasznosításra szánt papír és
+karton válogatásából
+származó hulladék
+Csak
+az a maradék,
+amely nem
+tartalmaz kémiai
+kezelőanyagokat.
+39.
+03 03 10
+mechanikai elválasztásból
+származó szálmaradék, szál-,
+töltőanyag- és fedőanyag-
+iszap
+Csak az az iszap,
+amely nem
+tartalmaz kémiai
+tisztító-, koaguláló-
+vagy
+kivonószereket.
+40.
+03 03 11
+a folyékony hulladéknak
+a képződése helyén történő
+kezeléséből származó iszap,
+amely különbözik
+a 03 03 10-től
+41. 04 BŐR-, SZŐRME- ÉS
+TEXTILIPARI HULLADÉK
+42.
+04 01
+bőr-, és szőrmeipari
+hulladék
+Az állati
+melléktermékekre
+vonatkozó hazai és
+
+uniós jogszabályok
+sérelme nélkül.
+43.
+04 01 07
+a folyékony hulladéknak
+a képződése helyén történő
+kezeléséből származó, krómot
+nem tartalmazó iszap
+Csak az az iszap,
+amely nem
+tartalmaz kémiai
+tisztító-, koaguláló-
+vagy
+kivonószereket.
+Igen
+44. 04 02 textilipari hulladék
+45.
+04 02 10
+természetes alapanyagokból
+származó szerves anyag
+(pl. zsír, viasz)
+46.
+04 02 20
+a folyékony hulladéknak a
+képződése helyén történő
+kezeléséből származó iszap,
+amely különbözik
+a 04 02 19-től
+Igen
+47.
+04 02 21
+feldolgozatlan textilszál
+hulladék
+Csak természetes
+eredetű.
+48.
+04 02 22 feldolgozott textilszál hulladék
+Csak vegyi
+szennyeződéstől
+mentes.
+49.
+
+CSOMAGOLÁSI
+HULLADÉK;
+KÖZELEBBRŐL MEG NEM
+HATÁROZOTT FELITATÓ
+ANYAGOK
+(ABSZORBENSEK),
+TÖRLŐKENDŐK,
+SZŰRŐANYAGOK ÉS
+VÉDŐRUHÁZAT
+50.
+15 01
+csomagolási hulladék
+(beleértve a válogatottan
+gyűjtött települési
+biológiailag lebontható
+csomagolási hulladékot)
+51.
+15 01 01
+papír és karton csomagolási
+hulladék
+Amennyiben
+papíripari
+újrafeldolgozása
+nem megoldható,
+vagy a kezelésre
+előkészített
+biológiailag
+lebomló hulladék
+szén–nitrogén-
+arányához
+szükséges.
+52. 15 01 03 fa csomagolási hulladék
+53.
+
+A HULLADÉKJEGYZÉKBEN
+KÖZELEBBRŐL MEG NEM
+HATÁROZOTT HULLADÉK
+54.
+16 03
+az előírásoknak nem
+megfelelő és nem használt
+termékek
+55.
+16 03 06
+szerves hulladék, amely
+különbözik a 16 03 05-től
+56.
+
+HULLADÉKKEZELŐ
+LÉTESÍTMÉNYEKBŐL,
+A SZENNYVIZET
+KÉPZŐDÉSÉNEK
+TELEPHELYÉN KÍVÜL
+KEZELŐ
+SZENNYVÍZTISZTÍTÓKBÓL,
+VALAMINT AZ IVÓVÍZ ÉS
+IPARI VÍZ
+SZOLGÁLTATÁSBÓL
+SZÁRMAZÓ HULLADÉK
+
+57.
+19 05
+szilárd hulladék aerob
+kezeléséből származó
+hulladék
+58.
+19 05 03
+előírástól eltérő minőségű
+komposzt
+Mechanikai-
+biológiai
+hulladékkezelés
+végső rostálása
+során képződött,
+a kezelt anyag
+azon része, amely
+e kezelésbe
+visszavezethető
+újbóli stabilizálási
+kísérlet vagy
+biológiai
+„oltóanyagként”
+történő
+felhasználásra.
+59.
+19 06
+hulladék anaerob
+kezeléséből származó
+hulladék
+60.
+19 06 04
+települési hulladék anaerob
+kezeléséből származó
+kirothasztott anyag
+Igen
+61.
+19 06 06
+állati és növényi hulladék
+anaerob kezeléséből
+származó kirothasztott anyag
+62.
+19 08
+szennyvíztisztító művekből
+származó, közelebbről meg
+nem határozott hulladék
+Igen
+63.
+19 08 05
+települési szennyvíz
+tisztításából származó iszap
+Igen
+64.
+19 08 12
+ipari szennyvíz biológiai
+kezeléséből származó iszap,
+amely különbözik
+a 19 08 11-től
+Igen
+65.
+19 08 14
+ipari szennyvíz egyéb
+kezeléséből származó iszap,
+amely különbözik
+a 19 08 13-tól
+Igen
+66.
+19 09
+ivóvíz vagy ipari víz
+termeléséből származó
+hulladék
+67.
+19 09 01
+durva és finom szűrésből
+származó szilárd hulladék
+Igen
+68.
+19 09 02
+víz derítéséből származó
+iszap
+69.
+19 09 03
+karbonát sók eltávolításából
+származó iszap
+70.
+
+TELEPÜLÉSI HULLADÉK
+(HÁZTARTÁSI HULLADÉK
+ÉS A HÁZTARTÁSI
+HULLADÉKHOZ HASONLÓ,
+KERESKEDELMI, IPARI ÉS
+INTÉZMÉNYI HULLADÉK),
+IDEÉRTVE
+AZ ELKÜLÖNÍTETTEN
+GYŰJTÖTT FRAKCIÓT IS
+Csak akkor, ha
+elkülönített gyűjtési
+rendszerből
+származik.
+71.
+20 01
+elkülönítetten gyűjtött
+hulladék frakciók
+(kivéve 15 01)
+72. 20 01 01 papír és karton
+73.
+20 01 08
+biológiailag lebomló konyhai
+és étkezdei hulladék
+Az állati
+melléktermékekre
+vonatkozó hazai és
+uniós jogszabályok
+sérelme nélkül.
+
+74.
+20 01 25 étolaj és zsír
+Az állati
+melléktermékekre
+vonatkozó hazai és
+uniós jogszabályok
+sérelme nélkül.
+75.
+20 01 38
+fa, amely különbözik
+a 20 01 37-től
+Csak akkor,
+ha kémiai
+anyagokkal nem
+kezelték (beleértve
+a festés,
+felületkezelés).
+76.
+20 02
+kertekből és parkokból
+származó hulladék
+(a temetői hulladékot is
+beleértve)
+77.
+20 02 01 biológiailag lebomló hulladék
+Fakéreg esetében
+csak kezeletlen fa.
+Külön gyűjtött
+temetői hulladék
+esetében csak
+közvetlen átvétel
+estén, amennyiben
+a temetőben
+elkülönített gyűjtési
+rendszer működik,
+és megfelelően
+ellenőrizhető, hogy
+a hulladék mentes
+az idegen
+anyagoktól
+(pl. fóliák, virág- és
+koszorúdrótok,
+műanyagvirágok és
+alkatrészeik).
+78. 20 03 egyéb települési hulladék
+79.
+20 03 01
+egyéb települési hulladék,
+ideértve a vegyes települési
+hulladékot is
+Előkezelést
+követően.
+Igen
+80.
+20 03 02 piacokon képződő hulladék
+Amennyiben a piac
+elkülönített gyűjtési
+rendszert
+működtet.
+81.
+20 03 04
+oldó medencéből származó
+iszap
+2. A komposzt előállításához felhasználható segédanyagok, valamint segédanyagként felhasználható
+hulladékfajták:
+A B
+1. A segédanyagtípus megnevezése
+Minőségi előírások és
+megjegyzések
+2. Kőzet őrlemények
+a) bazalt őrlemény,
+b) alginit őrlemény,
+c) egyéb kőzetek őrleményei
+–
+3. Iszapok, üledékek
+természetes iszapok és
+üledékek talaj hozzákeverése és
+szennyeződések nélkül, ideértve
+a csatornatisztításból és a
+mederkotrásból származó nem
+szennyezett mederüledékeket
+és iszapokat is
+–
+4. Agyag ásványok tiszta agyag ásványok –
+
+5. Mész
+a) mészkő őrlemény,
+b) dolomit őrlemény,
+c) cukorgyári mésziszap,
+d) nem szabványos kalcium-
+karbonát,
+e) hulladék mésziszap
+–
+6.
+Biomassza tüzelésből
+származó hamu
+növényi hamu
+Legfeljebb 2 m/m% arányban.
+Pernyét nem tartalmazhat,
+szennyezőanyag-tartalma legfeljebb
+(mg/kg sz.a.):
+a) cink (Zn): 1500,
+b) réz (Cu): 250,
+c) króm (Cr): 250,
+d) ólom (Pb): 100,
+e) vanádium (V): 100,
+f) kobalt (Co): 100,
+g) nikkel (Ni): 100,
+h) molibdén (Mo): 20,
+i) arzén (As): 20,
+j) kadmium (Cd): 8,
+Pernyét nem tartalmazhat
+7.
+Föld (kitermelt vagy
+leiszapolt)
+természetes, építésből vagy
+bontásból származó nem
+szennyezett föld,
+gyökérnövények mosásából
+származó iszap
+Legfeljebb 15 m/m% arányban.
+A szennyezőanyag-tartalma legfeljebb
+(mg/kg sz.a.):
+a) arzén (As): 30,
+b) ólom (Pb): 100,
+c) kadmium (Cd): 1,1,
+d) króm (Cr): 90,
+e) réz (Cu): 90;
+f) nikkel (Ni): 55,
+g) higany (Hg): 0,7,
+h) cink (Zn): 450,
+i) policiklusos aromás
+szénhidrogén (PAH16:
+naftalin, fluorén, fenantrén,
+antracén, fluorantén, pirén,
+benzo[a]antracén, krizén,
+benzo[b]fluorantén,
+benzo[k]fluorantén,
+benzo[a]pirén, indeno[1,2,3-
+cd]pirén,
+dibenzo[a,h]antracén,
+benzo[GHI]perilén): 2,
+j) teljes szénhidrogén tartalom:
+200, amelyet csak akkor kell
+vizsgálni, hogy ha fennáll
+korábbi szénhidrogén
+szennyezés gyanúja, vagy a
+mosásból származó iszap
+képződése nem ismert, és
+fennáll annak gyanúja, hogy
+valamilyen oldó-; koaguláló-
+vagy kivonószert tartalmaz
+8. Lignocellulóz
+a) növényi eredetű
+mezőgazdasági
+melléktermék,
+b) léha,
+c) szalmás trágya,
+d) zöldnyesedék,
+e) zöldhulladék
+–
+9.
+Komposztálási
+folyamatot elősegítő
+termékek
+a) mikrobiológiai
+készítmények,
+b) biológiai starterkultúrák
+Forgalomba hozatalra és
+felhasználásra engedélyezett termék.
+10.
+Hulladékkezelő
+létesítményekből,
+szennyvizet
+képződésének
+telephelyén kívül kezelő
+a) durva és finom szűrésből
+származó szilárd hulladék,
+b) víz derítéséből származó
+iszap,
+–
+
+szennyvíztisztítókból,
+valamint az ivóvíz és
+ipari vízszolgáltatásból
+származó hulladék
+c) karbonát sók
+eltávolításából származó
+iszap
+
+2. melléklet a…/2023. (…) Korm. rendelethez
+A komposztokra vonatkozó fizikai, kémiai és biológiai követelmények nem mezőgazdasági felhasználás
+esetén
+1. A biológiailag lebomló hulladékból előállított komposzt hulladékstátusza a következő kategóriákba sorolt
+felhasználási területre vonatkozó határértékek teljesítésével szűnik meg:
+A B C
+1. I. kategória II. kategória III. kategória
+2. Ha a biológiailag lebomló
+hulladékból előállított
+komposztot olyan területen
+használják fel, ahol
+az az emberi egészséget
+közvetlenül veszélyeztetheti
+(így különösen lakóövezethez
+és pihenő övezethez tartozó
+zöldterületen, játszótéren,
+parkban, út menti
+virágágyásban, fasor menti
+területen, köztéri sétányon,
+kutyasétáltató területen, köztéri
+virágládában,
+sportlétesítményhez tartozó
+területen, strandon, valamint
+közintézményhez tartozó
+területen), akkor a
+komposztnak a termésnövelő
+anyagok engedélyezéséről,
+tárolásáról, forgalmazásáról és
+felhasználásáról szóló 36/2006.
+(V. 18.) FVM rendelet 3. számú
+melléklet 4. pontjában
+meghatározott
+követelményeket is
+teljesítenie kell.
+Ha a biológiailag lebomló
+hulladékból előállított
+komposztot az erdőről, az erdő
+védelméről és az
+erdőgazdálkodásról szóló
+törvény hatálya alá eső
+területen az ott szabályozott
+módon, vagy egyéb külterületi,
+faállománnyal borított területen
+használják fel, akkor a
+komposztnak az 1.1. és
+az 1.2. pontban meghatározott
+követelményeket is teljesítenie
+kell.
+Ha a biológiailag lebomló
+hulladékból előállított
+komposztot a hulladéklerakóval
+kapcsolatos egyes
+szabályokról és feltételekről
+szóló 20/2006. (IV. 5.)
+KvVM rendelet szerinti
+rekultivációhoz, tájsebek
+feltöltéséhez, továbbá bezárt
+zagytározókban használják fel,
+akkor komposztnak az 1.1. és
+az 1.2. pontban meghatározott
+követelményeket is teljesítenie
+kell.
+1.1. Fizikai és biológiai tulajdonságok:
+A B C D
+1. Tulajdonság II. kategória III. kategória Megjegyzés
+2.
+Szerves anyag
+tartalom
+A komposzt szerves
+anyag tartalma legalább
+a szárazanyag tartalom
+15%-át teszi ki.
+A komposzt szerves
+anyag tartalma
+legalább
+a szárazanyag
+tartalom 15%-át
+teszi ki.
+A minimális szerves
+anyag tartalom
+a komposztálási fázis
+végén lévő termékre
+vonatkozik, mielőtt azt
+más anyagokkal keverték
+volna. A cél az, hogy
+megakadályozzuk az
+összetevők felhígítását
+(pl. homokkal, földdel).
+3. Komposztérettség
+Az önhevülési teszt
+során az elért
+legmagasabb
+hőmérséklet
+nem haladhatja meg
+a 30 ˚C-ot.
+–
+4. Kórokozók
+a) Salmonella sp 2x5 g
+negatív,
+b) Fekál coliform szám
+500/g,
+c) Fekál streptococcus
+szám 500/g,
+–
+Ennek a paraméternek
+a mérését rendszeres
+hőmérsékletméréssel kell
+kiegészíteni.
+2. melléklet az 559/2023. (XII. 14.) Korm. rendelethez
+
+d) Humán parazita
+bélféreg peteszám
+25 g negatív
+5.
+Életképes gyom
+magvak és növényi
+szaporító képletek
+A komposztban
+literenként legfeljebb
+2 db életképes
+gyommag lehet.
+–
+Ennek a paraméternek
+a mérését rendszeres
+hőmérsékletméréssel kell
+kiegészíteni.
+6.
+Makroszkopikus
+szennyeződések
+A komposztban
+a 2 mm-nél nagyobb
+részecskék között
+legfeljebb
+a szárazanyag tartalom
+0,5 % százalékában
+tartalmazhat üveget,
+fémet és műanyagot.
+A komposztban
+a 2 mm-nél nagyobb
+részecskék között
+legfeljebb
+a szárazanyag
+tartalom
+0,5 % százalékában
+tartalmazhat üveget,
+fémet és műanyagot.
+Különbséget kell tenni
+a kövek és
+a mesterséges
+szennyeződések között.
+1.2. Kémiai tulajdonságok:
+1.2.1. Nehézfémtartalom:
+A B C D
+1. Nehézfémek
+Mennyiség
+(mg/kg sz.a.
+tartalom)
+II. kategória
+Mennyiség
+(mg/kg sz.a.
+tartalom)
+III. kategória
+Megjegyzés
+2. Arzén (As) 25 60
+3. Cink (Zn) 2000 2000
+4. Higany (Hg) 5 10
+5. Kadmium (Cd) 5 10
+6. Kobalt (Co) 50 300
+7. Összes króm (∑Cr) 350 800
+Végtermék, más anyagokkal való
+keverés előtt. A króm III. (CrIII)
+esetében.
+8. Króm VI. (Cr VI.) 1 –
+9. Molibdén (Mo) 10 100
+10. Nikkel (Ni) 100 250
+11. Ólom (Pb) 400 600
+12. Réz (Cu) 750 400
+13. Szelén (Se) 50 20
+1.2.2. Szerves szennyeződések:
+A B C D
+1. Szerves szennyeződések
+Mennyiség
+II. kategória
+Mennyiség
+III. kategória
+Megjegyzés
+2.
+Összes jelző poliklórozott
+bifenil tartalom (PCB7: PCBs
+28, 52, 101, 118, 138, 153,
+180) (mg/kg sz.a. tartalom)
+0,5 5
+3.
+Összes policiklusos aromás
+szénhidrogén tartalom
+(PAH16: naftalin, fluorén,
+fenantrén, antracén,
+fluorantén, pirén,
+benzo[a]antracén, krizén,
+benzo[b]fluorantén,
+benzo[k]fluorantén,
+benzo[a]pirén, indeno[1,2,3-
+cd]pirén,
+5 40
+Végtermék, más
+anyagokkal való
+keverés előtt.
+
+dibenzo[a,h]antracén,
+benzo[GHI]perilén) (mg/kg
+sz.a. tartalom)
+4.
+Összes alifás szénhidrogén
+(TPH) (mg/kg sz.a. tartalom) 1000 5000
+2. A biogáz üzemben képződött erjesztési maradék hulladékstátusza az erjesztési maradék szennyvíztisztítóba
+történő bevezetése esetén a vízszennyező anyagok kibocsátásaira vonatkozó határértékekről és alkalmazásuk
+egyes szabályairól szóló miniszteri rendelet 4. és 5. számú mellékletében meghatározott határértékek teljesítésével
+szűnik meg.
+
+3. melléklet a…/2023. (…) Korm. rendelethez
+A telepi komposztálás, a stabilizálás és a biogáz-előállításra vonatkozó műszaki szabályok
+1. Telepi komposztálás:
+1.1. A 10. § (3) bekezdése szerinti komposztálási rendszerek esetében – kivéve, ha a telepi komposztálás során
+állati mellékterméket használnak fel – legalább a következő hőmérsékleteket, valamint keverési és forgatási
+gyakoriságokat kell biztosítani a komposztáló téren:
+a) nyílt komposztálási egységben legalább 5 keverés, forgatás esetén a higiénizáció biztosítása érdekében
+55 °C-os hőmérsékletet legalább 14 napig kell fenntartani;
+b) nyílt komposztálási egységben legalább 2 keverés, forgatás esetén a higiénizáció biztosítása érdekében
+65 °C-os hőmérsékletet legalább 7 napig kell fenntartani;
+c) zárt komposztálási egységben a higiénizáció biztosítása érdekében 60 °C-os hőmérsékletet legalább
+7 napig kell fenntartani.
+1.2. A komposztálás során a nagyfokú biológiai aktivitás elérésének érdekében legalább a következő feltételeket
+kell biztosítani:
+a) elérhető legjobb szerkezet és levegőzés;
+b) megfelelő oxigénellátás;
+c) megfelelő nedvesség- és tápanyagtartalom;
+d) 25-35:1 szén/nitrogén arány, valamint
+e) pH=4-9 pH tartomány.
+1.3. A komposztáló telep üzemeltetője az intenzív érés befejeztével a komposztot az utókezelő téren addig utó
+érleli, amíg annak önhevülési vizsgálat során a hőmérséklete nem haladja meg a 30 ⁰C-ot. Az utóérést megelőzheti
+rostálás, vagy frakcionálás.
+1.4. Állati melléktermékek vagy állati melléktermékekből származó termékek komposztálása esetén a 142/2011/EU
+bizottsági rendelet V. melléklet III. fejezet 1. és 3. szakaszában meghatározott átalakítási és mikrobiológiai
+paraméterek szerint szükséges eljárni.
+2. Stabilizálás:
+2.1. Stabilizálás csak vízzáró burkolatú munkatérrel ellátott hulladékgazdálkodási létesítményben végezhető.
+2.2. A stabilizálás során legalább a következő feltételeket kell biztosítani:
+a) a pszichrofil, mezofil és termofil mikroorganizmusok hőmérsékleti igénye szerinti szakaszokat;
+b) a biológiailag lebomló hulladék számára nagyfokú biológiai aktivitást és megfelelő nedvességtartalmat,
+a megfelelő pH-viszonyok kialakulását;
+c) a higiénizáció érdekében az elérhető legjobb szerkezetet, levegőzést és homogenizációt.
+2.3. A vegyes hulladék stabilizálását addig kell végezni, amíg a légzési intenzitása (AT4) 10 mg O2
+/g szárazanyag
+tartalom érték alá nem csökken.
+3. Biogáz-előállítás:
+3.1. A 12. § (3) bekezdése szerinti eljárások esetében a következő táblázat szerinti minimális hőmérsékleti
+értékeket és tartózkodási időket kell biztosítani:
+A B C
+1. Biogáz üzemi rendszer
+Hőmérsékleti
+értékek
+A hőmérsékleti értékek
+fenntartásának időtartama
+2. Nedves fermentációs eljárás 33–38 °C legalább 25–35 nap
+3. Száraz fermentációs eljárás 33–38 °C legalább 20–30 nap
+3.2. Az optimális szén/nitrogén arány: 15-30:1.
+3.3. A megfelelő pH-tartomány: pH=7-9.
+3.4. Állati melléktermék vagy állati melléktermékekből származó termékek biogáz üzemi felhasználása esetén
+a 142/2011/EU bizottsági rendelet V. melléklet III. fejezet 1. és 3. szakaszában meghatározott átalakítási és
+mikrobiológiai paraméterek szerint szükséges eljárni.
+3. melléklet az 559/2023. (XII. 14.) Korm. rendelethez
+
+4. melléklet a…/2023. (…) Korm. rendelethez
+A megfelelőségi nyilatkozat és tartalmi elemei
+1. A komposzt tételről a következő táblázat szerinti megfelelőségi nyilatkozatot kell kiállítani:
+KOMPOSZT
+MEGFELELŐSÉGI NYILATKOZAT
+1. A komposztáló telep üzemeltetőjének neve:
+2. Az üzemeltető székhelyének címe: 3. Az előállítás szerinti telephely címe:
+4. Telefon: 5. E-mail:
+6. KÜJ-azonosító:           7. KTJ-azonosító:          
+8. KSH-statisztikai számjele:         -    -   
+9. Hulladékgazdálkodási engedély száma:
+10. A komposzt forgalomba hozatalára és felhasználására vonatkozó engedély száma (ha van):
+11. Hulladékstátusz megszűnését igazoló mintavételi és a laboratóriumi vizsgálati jegyzőkönyvek száma
+(hulladékminta azonosító jele):
+12. A kezelési művelet: 13. A kezelési technológia:
+14. A komposzt előállításához felhasznált hulladék:
+a) típusa:
+b) mennyisége:
+15. A komposzt előállításához felhasznált segédanyag (ha van):
+a) típusa:
+b) mennyisége:
+16. A komposzt előállításához alkalmazott szabvány (ha van):
+17. A komposzt felhasználási területére vonatkozó kategóriája:
+18. A komposztáló telepről elszállított komposzt tétele (kg):
+4. melléklet az 559/2023. (XII. 14.) Korm. rendelethez
+
+19. A komposzt bel tartalmi mutatói:
+a) kémhatás:
+b) térfogattömeg:
+c) szárazanyag-tartalom:
+d) szerves anyag tartalom:
+e) vízben oldható összes sótartalom:
+f) szemcseméret eloszlás:
+g) hatóanyag tartalom (N, P2
+O5
+, K2
+O, Ca, Mg):
+20. A komposzt fizikai és biológiai tulajdonságai:
+a) szerves anyag tartalom:
+b) komposztérettség:
+c) kórokozók:
+d) életképes gyom magvak és növényi szaporító képletek:
+e) makroszkopikus szennyeződések:
+21. A komposzt kémiai tulajdonságai:
+21.1. Nehézfémtartalom:
+a) Zn:
+b) Cu:
+c) Ni:
+d) Cd:
+e) Pb:
+f) Hg:
+g) Cr:
+21.2. Szerves szennyeződések:
+a) PCB7:
+b) PAH16:
+c) PCDD/PCDF/d PCB:
+d) PFC:
+e) TPH:
+22. A felhasználó neve, címe, székhelye, akinek (amelynek) részére a komposztot átadják:
+23. Kézbesítési cím:
+24. Nyilatkozom arról, hogy a komposzt a biológiailag lebomló hulladék képződésének megelőzésére vonatkozó
+tevékenységekről, a biológiailag lebomló hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek részletes
+szabályairól és a biohulladékból előállított komposzt osztályozásának szabályairól szóló 559/2023. (XII. 14.)
+Korm. rendeletben, valamint a hulladékról szóló 2012. évi CLXXXV. törvény 9. § (1) bekezdésében meghatározott,
+a hulladékstátusz megszűnésére vonatkozó feltételeknek megfelel:
+25. Dátum és aláírás:
+2. Az erjesztési maradék tételről a következő táblázat szerinti megfelelőségi nyilatkozatot kell kiállítani:
+ERJESZTÉSI MARADÉK
+MEGFELELŐSÉGI NYILATKOZAT
+1. A biogáz üzem üzemeltetőjének neve:
+2. Az üzemeltető székhelyének címe: 3. Az előállítás szerinti telephely címe:
+4. Telefon: 5. E-mail:
+
+6. KÜJ-azonosító:          
+7. KTJ-azonosító:          
+8. KSH-statisztikai számjele:         -    -   
+9. Hulladékgazdálkodási engedély száma:
+10. Az erjesztési maradék forgalomba hozatalára és felhasználására vonatkozó engedély száma (ha van):
+
+11. A kezelési művelet:
+
+12. A kezelési technológia:
+
+13. Az erjesztési maradék előállításához felhasznált hulladék:
+a) típusa:
+
+b) mennyisége:
+
+14. A erjesztési maradék előállításához felhasznált segédanyag (ha van):
+a) típusa:
+
+b) mennyisége:
+
+15. A biogáz-előállításhoz alkalmazott szabvány (ha van):
+
+16. A képződött erjesztési maradék mennyisége (kg vagy l):
+
+17. Az erjesztési maradék kémiai tulajdonságai:
+17.1. Kémiai jellemzők:
+a)
+kémhatás:
+b)
+szerves anyag tartalom:
+c)
+összes nitrogén:
+d)
+összes foszfor:
+
+Az erjesztési maradék
+
+17.2. Kockázatos elemek:
+17.2.1. 10% alatti szárazanyag-tartalom esetén: 17.2.2. 10% feletti szárazanyag-tartalom esetén:
+a) Al:
+b) As:
+c) B:
+d) Ba:
+e) Cd:
+f) ∑Cr:
+g) CrVI:
+h) Cu:
+i) Mn:
+j) Mo:
+k) Ni:
+l) Pb:
+m) Zn:
+n) Hg:
+o) Cl:
+a) As:
+b) Cd:
+c) Co:
+d) ∑Cr:
+e) CrVI:
+f) Cu:
+g) Mo:
+h) Ni:
+i) Pb:
+j) Se:
+k) Zn:
+l) Hg:
+17.3. Szerves szennyezők:
+17.3.1. 10% alatti szárazanyag-tartalom esetén:
+a) állati és növényi eredetű zsiradék:
+b) anionos felületaktív anyag:
+c) ∑PAH:
+d) ∑PCB:
+e) PCDD/PCDF/d PCB:
+f) TPH:
+17.3.2. 10% feletti szárazanyag-tartalom esetén:
+a) ∑PAH:
+b) ∑PCB:
+c) PCDD/PCDF/d PCB:
+d) TPH:
+18. Az erjesztési maradék biológiai tulajdonságai:
+18.1. Mikrobiológiai szennyezők:
+a) fekál coliform szám:
+b) humánparazita bélféreg peteszám:
+c) salmonella sp.:
+d) fekál streptococcus szám:
+e) pseudomonas aeroginosa szám:
+18.2. Azotobacter agile teszt eredménye:
+19. A felhasználó neve, címe, székhelye, akinek (amelynek) részére az erjesztési maradékot átadják:
+20. Kézbesítési cím:
+21. Nyilatkozom arról, hogy az erjesztési maradék a biológiailag lebomló hulladék képződésének megelőzésére
+vonatkozó tevékenységekről, a biológiailag lebomló hulladékkal kapcsolatos hulladékgazdálkodási
+tevékenységek részletes szabályairól és a biohulladékból előállított komposzt osztályozásának szabályairól szóló
+559/2023. (XII. 14.) Korm. rendeletben, valamint a hulladékról szóló 2012. évi CLXXXV. törvény 9. §
+(1) bekezdésében meghatározott, a hulladékstátusz megszűnésére vonatkozó feltételeknek megfelel:
+22. Dátum és aláírás:
