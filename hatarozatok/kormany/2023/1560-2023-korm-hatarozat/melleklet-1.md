@@ -74,12 +74,11 @@
 
 | Határidő: | 2024. február 19. |
 
-## 2. A Külpiaci Növekedési Támogatási Program létrehozásáról szóló 1485/2021. (VII. 16.) Korm. határozat a következő 6. ponttal egészül ki:
+## 2.[^1]
 
-## (A Kormány)
-
-## „6. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 36. § (4c) bekezdés b) pontjában biztosított jogkörében eljárva, illetve amennyiben a kötelezettségvállalásra a 2024. évben kerül sor, az Áht. 36. § (2) bekezdésében foglalt jogkörében eljárva engedélyezi a külgazdasági és külügyminiszter számára, hogy az 1. pontban foglalt feladat megvalósítása érdekében, az 5. pontban meghatározott előirányzat terhére legfeljebb 10 000 000 000 forint összeg mértékéig éven túli, illetve amennyiben a kötelezettségvállalásra a 2024. évben kerül sor, tárgyévi előirányzattal nem rendelkező közfeladathoz kapcsolódó tárgyévi kötelezettséget vállaljon, egyúttal az Áht. 36. § (4b) bekezdése alapján jóváhagyja az ötmilliárd forintot meghaladó értékű kötelezettségvállalás megtételét.”
-
-## 3. A címrendi kiegészítésről, a rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Rezsivédelmi Alap központi kiadása előirányzatból, a Járványügyi kiadások előirányzatból történő, fejezeten belüli és fejezetek közötti előirányzat-átcsoportosításról, valamint egyes kormányhatározatok módosításáról szóló 1066/2023. (III. 8.) Korm. határozat 1. pont 1.2. alpontjában a „2023. december 31.” szövegrész helyébe a „2023. december 31., a Nemzeti Információs Központ cím javára biztosított 1 407 603 278 forint tekintetében 2024. február 28.” szöveg lép.
+## 3.[^2]
 
 1. melléklet az 1560/2023. (XII. 13.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
