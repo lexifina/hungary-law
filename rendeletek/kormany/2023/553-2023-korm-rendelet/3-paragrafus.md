@@ -1,3 +1,3 @@
-3. § A vendégoktatói ösztöndíjprogram részletes szabályairól, valamint egyes külügyi tárgyú kormányrendeletek módosításáról szóló 333/2017. (XI. 9.) Korm. rendelet 6. § (6) bekezdése helyébe a következő rendelkezés lép:
+3. §[^4]
 
-„(6) Az (5) bekezdésben foglaltakon túli további feltétel, hogy ugyanazon fogadóintézménybe egymást követően legfeljebb két ösztöndíj nyerhető el, összességében legfeljebb hat év időtartamra.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
