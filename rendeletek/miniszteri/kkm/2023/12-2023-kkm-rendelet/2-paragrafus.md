@@ -1,1 +1,3 @@
-2. § A KKM rendelet 3. § (3) bekezdésében a „KKM” szövegrész helyébe a „Külgazdasági és Külügyminisztérium” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
