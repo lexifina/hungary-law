@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-29-30-4
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2023-12-13 | 2023-29-30-41.1 | 29/2023. (XII. 14.) OGY határozat |
+| 2023-12-14 | 2023-29-30-41.2 | 2010. évi CXXX. törvény |
