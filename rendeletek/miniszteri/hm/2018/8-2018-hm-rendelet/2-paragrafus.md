@@ -38,6 +38,8 @@
 
 17. kiküldő: a külföldi szolgálatra vagy külföldi képzésre történő vezénylést, kihelyezést (a továbbiakban együtt: vezénylést) írásban elrendelő személy,
 
+17a.[^9] kincstári VIP kártya: az OTP Bank által a kincstári kártyarendszerre vonatkozó keretmegállapodás alapján a Magyar Államkincstárral együttműködve kibocsátott készpénz-helyettesítő fizetőeszköz,
+
 18. közüzemi szolgáltatások díja: az elektromos energia-, a gáz-, a víz- és a csatornadíj, a fűtés, a hűtés és a szemétszállítás díja, valamint a társasház közös költsége,
 
 19. külföldi napidíj: az állomány ideiglenes külföldi szolgálatot teljesítő vagy ideiglenes külföldi képzésben részt vevő, továbbá e rendelet eltérő rendelkezése hiányában a HM rendelet2 1. § 10. pont f) alpontja szerint külföldi szolgálatot teljesítő tagja részére a Honvédség által külföldi pénznemben folyósított juttatás, melynek célja a külföldi tartózkodással összefüggésben felmerült többletkiadásokhoz és költségekhez való hozzájárulás,
@@ -76,7 +78,7 @@ ae) az egyéb, nem műveleti területen elhelyezkedő nemzetközi katonai paranc
 
 af) a Magyarország önálló külföldi képviseleteinél és külföldön működő nemzeti szervezeteinél, szervezeti elemeinél beosztást tölt be,
 
-b)[^9] az a) ponttól eltérően, a Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ) főigazgatója az állománynak a HM rendelet2 185. § e) pontja szerinti, valamint a Hjt. 196. § (2) bekezdése szerinti beosztásban külföldi szolgálatot teljesítő tagja esetén,
+b)[^10] az a) ponttól eltérően, a Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ) főigazgatója az állománynak a HM rendelet2 185. § e) pontja szerinti, valamint a Hjt. 196. § (2) bekezdése szerinti beosztásban külföldi szolgálatot teljesítő tagja esetén,
 
 c) az állományilletékes parancsnoki jogkört gyakorló elöljáró az állománynak a Hjt. 46. § (1) bekezdés a) pontja szerinti rendelkezési állományba tartozó, valamint a HM rendelet2 1. § 10. pont o) alpontja szerint külföldi szolgálatot teljesítő tagja esetén,
 
@@ -92,7 +94,7 @@ a) a Honvédség központi logisztikai gazdálkodási és ellátási felelőssé
 
 b) a KNBSZ-nek az e tevékenység tekintetében feladat- és hatáskörrel rendelkező szervezeti egysége az állomány (2) bekezdés b) pontja szerinti tagja esetén és
 
-c)[^10] a Magyar Honvédség Parancsnokságának alárendelt, e tevékenység tekintetében feladat- és hatáskörrel rendelkező honvédelmi szervezet az állomány (2) bekezdés c), d) és e) pontja szerinti tagja esetén.
+c)[^11] a Magyar Honvédség Parancsnokságának alárendelt, e tevékenység tekintetében feladat- és hatáskörrel rendelkező honvédelmi szervezet az állomány (2) bekezdés c), d) és e) pontja szerinti tagja esetén.
 
 (4) Az illetékes pénzügyi ellátó szerv
 
@@ -100,13 +102,13 @@ a) a Honvédség pénzügyi feladatokat ellátó központi szervezete az állom�
 
 b) a KNBSZ-nek az e tevékenység tekintetében feladat- és hatáskörrel rendelkező szervezeti egysége az állomány (2) bekezdés b) pontja szerinti tagja esetén,
 
-c)[^11] a Honvédség pénzügyi feladatokat ellátó központi szervezetének vezetője által az adott művelet vonatkozásában – Hvt. szerinti belső rendelkezésben – kijelölt pénzügyi és számviteli szervezet vagy szervezeti elem – időtartamtól függetlenül – a béketámogató műveletekben részt vevők és az állomány (2) bekezdés d) pontja szerinti tartós külföldi szolgálatot teljesítő tagja esetén és
+c)[^12] a Honvédség pénzügyi feladatokat ellátó központi szervezetének vezetője által az adott művelet vonatkozásában – Hvt. szerinti belső rendelkezésben – kijelölt pénzügyi és számviteli szervezet vagy szervezeti elem – időtartamtól függetlenül – a béketámogató műveletekben részt vevők és az állomány (2) bekezdés d) pontja szerinti tartós külföldi szolgálatot teljesítő tagja esetén és
 
-d)[^12] a honvédelmi szervezetek pénzügyi és számviteli ellátási-utaltsági rendjében meghatározott pénzügyi és számviteli szervezet vagy szervezeti elem az állomány (2) bekezdés e) pontja szerinti tagja esetén.
+d)[^13] a honvédelmi szervezetek pénzügyi és számviteli ellátási-utaltsági rendjében meghatározott pénzügyi és számviteli szervezet vagy szervezeti elem az állomány (2) bekezdés e) pontja szerinti tagja esetén.
 
-(5)[^13] A felszámítási alap összege 48 895 forint.
+(5)[^14] A felszámítási alap összege 48 895 forint.
 
-(6)[^14]
+(6)[^15]
 
 [^3]: A 2. § (1) bekezdés 2. pontja a 2/2019. (I. 31.) HM rendelet 1. §-ával megállapított szöveg.
 [^4]: A 2. § (1) bekezdés 3. pontját a 2/2019. (I. 31.) HM rendelet 39. § a) pontja hatályon kívül helyezte.
@@ -114,9 +116,10 @@ d)[^12] a honvédelmi szervezetek pénzügyi és számviteli ellátási-utaltsá
 [^6]: A 2. § (1) bekezdés 9. pontja a 26/2022. (XII. 28.) HM rendelet 1. §-ával megállapított szöveg.
 [^7]: A 2. § (1) bekezdés 10. pontja a 26/2022. (XII. 28.) HM rendelet 2. § 1. pontja szerint módosított szöveg.
 [^8]: A 2. § (1) bekezdés 15. pontja a 26/2022. (XII. 28.) HM rendelet 2. § 2. pontja szerint módosított szöveg.
-[^9]: A 2. § (2) bekezdés b) pontja a 2/2019. (I. 31.) HM rendelet 37. § 3. pontja szerint módosított szöveg.
-[^10]: A 2. § (3) bekezdés c) pontja a 2/2019. (I. 31.) HM rendelet 37. § 4. pontja szerint módosított szöveg.
-[^11]: A 2. § (4) bekezdés c) pontja a 2/2019. (I. 31.) HM rendelet 37. § 5. pontja szerint módosított szöveg.
-[^12]: A 2. § (4) bekezdés d) pontja a 3/2021. (I. 14.) HM rendelet 1. §-ával megállapított szöveg.
-[^13]: A 2. § (5) bekezdése a 4/2022. (II. 17.) HM rendelet 26. §-ával megállapított szöveg.
-[^14]: A 2. § (6) bekezdését a 2/2019. (I. 31.) HM rendelet 4. §-a iktatta be, a 26/2022. (XII. 28.) HM rendelet 3. § a) pontja hatályon kívül helyezte.
+[^9]: A 2. § (1) bekezdés 17a. pontját a 22/2023. (XII. 14.) HM rendelet 1. §-a iktatta be.
+[^10]: A 2. § (2) bekezdés b) pontja a 2/2019. (I. 31.) HM rendelet 37. § 3. pontja szerint módosított szöveg.
+[^11]: A 2. § (3) bekezdés c) pontja a 2/2019. (I. 31.) HM rendelet 37. § 4. pontja szerint módosított szöveg.
+[^12]: A 2. § (4) bekezdés c) pontja a 2/2019. (I. 31.) HM rendelet 37. § 5. pontja szerint módosított szöveg.
+[^13]: A 2. § (4) bekezdés d) pontja a 3/2021. (I. 14.) HM rendelet 1. §-ával megállapított szöveg.
+[^14]: A 2. § (5) bekezdése a 4/2022. (II. 17.) HM rendelet 26. §-ával megállapított szöveg.
+[^15]: A 2. § (6) bekezdését a 2/2019. (I. 31.) HM rendelet 4. §-a iktatta be, a 26/2022. (XII. 28.) HM rendelet 3. § a) pontja hatályon kívül helyezte.

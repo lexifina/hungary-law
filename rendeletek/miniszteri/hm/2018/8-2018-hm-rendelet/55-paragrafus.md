@@ -36,11 +36,11 @@ a) a lakóingatlanban elhelyezett honvédségi tulajdonú berendezési tárgyak 
 
 b) a lakóingatlan és a garázs biztosítási díját,
 
-c)[^112] a technikai biztosítás költségét, ha az állomány tagja személyi biztonsága érdekében annak szükségességét az illetékes logisztikai ellátó szerv javaslata alapján a HM KÁT megállapítja, és
+c)[^114] a technikai biztosítás költségét, ha az állomány tagja személyi biztonsága érdekében annak szükségességét az illetékes logisztikai ellátó szerv javaslata alapján a HM KÁT megállapítja, és
 
 d) a közüzemi szolgáltatások felhasznált mennyiségének mérésére szolgáló mérőkészülékek beszerelésének, cseréjének költségét.
 
-(11)[^113] A Honvédség kölcsönként megfizeti az állomány tagja részére a lakóingatlan és a garázs bérlésével összefüggésben felmerült letét összegét.
+(11)[^115] A Honvédség kölcsönként megfizeti az állomány tagja részére a lakóingatlan és a garázs bérlésével összefüggésben felmerült letét összegét.
 
 (12) Az állomány tagja
 
@@ -60,5 +60,5 @@ a) a bérbeadó tulajdonát képezik, de a bérlés ideje alatt azokat a lakóin
 
 b) külön szolgáltatótól kerülnek bérlésre, és a bérlés díja a biztosítási díjat nem tartalmazza.
 
-[^112]: Az 55. § (10) bekezdés c) pontja a 17/2020. (XII. 12.) HM rendelet 48. § c) pontja szerint módosított szöveg.
-[^113]: Az 55. § (11) bekezdése a 3/2021. (I. 14.) HM rendelet 12. § 5. pontja szerint módosított szöveg.
+[^114]: Az 55. § (10) bekezdés c) pontja a 17/2020. (XII. 12.) HM rendelet 48. § c) pontja szerint módosított szöveg.
+[^115]: Az 55. § (11) bekezdése a 3/2021. (I. 14.) HM rendelet 12. § 5. pontja szerint módosított szöveg.
