@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-13-20-6
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2022-11-19 | 2022-13-20-6Q.1 | 13/2022. (XI. 18.) KKM rendelet |
+| 2023-12-15 | 2022-13-20-6Q.2 | 13/2023. (XII. 14.) KKM rendelet |
