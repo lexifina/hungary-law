@@ -1,0 +1,91 @@
+## 1. A Kormány egyetért, a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet 4. § (1) bekezdés c) és f) pontjában meghatározott jogkörében eljárva,
+
+## a) az 1. melléklet szerinti többlettámogatásnak a Környezeti és Energiahatékonysági Operatív Program (a továbbiakban: KEHOP) tekintetében az operatív programot finanszírozó Kohéziós Alap meghatározott maximális kötelezettségvállalási szint eléréséig rendelkezésre álló keret terhére,
+
+## b) az 1. mellékletben foglalt táblázat R:5 mezőjében meghatározott 639 940 085 forint összegű, az európai uniós forrás terhére el nem számolható költség – az Uniós fejlesztések fejezetbe tartozó fejezeti és központi kezelésű előirányzatok felhasználásának rendjéről szóló 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján – a Magyarország központi költségvetéséről szóló törvényben meghatározott XIX. Uniós fejlesztések fejezet KEHOP előirányzat hazai társfinanszírozásán felüli felhasználásával
+
+## történő finanszírozásával.
+
+## 2. A Kormány felhívja a területfejlesztésért felelős minisztert, hogy gondoskodjon a projektek támogatási szerződésének 1. melléklet szerinti módosításáról.
+
+| Felelős: | területfejlesztésért felelős miniszter |
+
+| Határidő: | 2023. december 22. |
+
+## 3. Ez a határozat a közzétételét követő napon lép hatályba.
+
+## 4. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat
+
+## a) D:216b. mezőjében az „1,29” szövegrész helyébe az „1,43” szöveg,
+
+## b) E:216b. mezőjében a „0,21” szövegrész helyébe a „0,24” szöveg,
+
+## c) D:217h. mezőjében az „5,21” szövegrész helyébe az „5,58” szöveg,
+
+## d) E:217h. mezőjében a „0,77” szövegrész helyébe a „0,83” szöveg,
+
+## e) D:277. mezőjében az „1,66” szövegrész helyébe az „1,77” szöveg,
+
+## f) E:277. mezőjében a „0,19” szövegrész helyébe a „0,20” szöveg,
+
+## g) D:297b. mezőjében a „2,01” szövegrész helyébe a „2,11” szöveg,
+
+## h) E:297b. mezőjében a „0,23” szövegrész helyébe a „0,24” szöveg,
+
+## i) D:297e. mezőjében az „1,52” szövegrész helyébe az „1,61” szöveg,
+
+## j) E:297e. mezőjében a „0,17” szövegrész helyébe a „0,18” szöveg,
+
+## k) D:297f. mezőjében az „1,78” szövegrész helyébe az „1,89” szöveg,
+
+## l) E:297f. mezőjében a „0,20” szövegrész helyébe a „0,21” szöveg,
+
+## m) D:316o. mezőjében a „6,28” szövegrész helyébe a „6,66” szöveg,
+
+## n) E:316o. mezőjében a „0,52” szövegrész helyébe a „0,55” szöveg,
+
+## o) D:316p. mezőjében a „8,29” szövegrész helyébe a „8,60” szöveg,
+
+## p) E:316p. mezőjében a „0,69” szövegrész helyébe a „0,71” szöveg,
+
+## q) D:351c. mezőjében a „4,07” szövegrész helyébe a „4,33” szöveg,
+
+## r) E:351c. mezőjében a „0,46” szövegrész helyébe a „0,49” szöveg,
+
+## s) D:652d. mezőjében a „4,56” szövegrész helyébe a „4,89” szöveg
+
+## lép.
+
+1. melléklet az 1566/2023. (XII. 14.) Korm. határozathoz
+
+|  | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T |
+
+| 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Projekt hatályos támogatási intenzitása és forrásszerkezete | Változás | Projekt támogatási intenzitása és forrásszerkezete a módosítás után | Projekt összköltsége (Ft) | Projekt rövid bemutatása |
+
+| 2. | Projekt támogatási intenzitása (%) | Projekt KEHOP keretében finanszírozandó támogatásának összege (Ft) | Projekt részére az KEHOP-előirányzat hazai társfinanszírozáson felüli felhasználásával biztosítandó forrás | Projekt támogatási intenzitása (%) | Projekt KEHOP keretében finanszírozandó támogatásának összege (Ft) | Projekt részére az KEHOP-előirányzat hazai társfinanszírozáson felüli felhasználásával biztosítandó forrás | Projekt támogatási intenzitása (%) | Projekt KEHOP keretében finanszírozandó támogatás összege (Ft) | Projekt részére az KEHOP-előirányzat hazai társfinanszírozáson felüli felhasználásával biztosítandó forrás |
+
+| 3. | Megtérülő projektköltségre jutó központi költségvetési forrás összege (Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés a) pontja alapján | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege (Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés b) pontja alapján | Az EU felé el nem számolható költségek összege (Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján | Megtérülő projektköltségre jutó központi költség-vetési forrás összege (Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés a) pontja alapján | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege (Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés b) pontja alapján | Az EU felé el nem számolható költségek összege (Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján | Megtérülő projektköltségre jutó központi költség-vetési forrás összege (Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés a) pontja alapján | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege (Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés b) pontja alapján | Az EU felé el nem számolható költségek összege (Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján |
+
+| 4. | KEHOP-2.1.11-21-2022-00008 | „Borsod megyei regionális víziközmű rendszerek bővítése keretében távvezetékek építése” című projekt, az „ÉRV Zrt. Miskolc-Borsodi régió közötti kooperációs vezeték létesítése” című projekt és a „Verpelét és térsége biztonságos vízellátása” című projekt | Építési és Közlekedési Minisztérium és ÉRV. Északmagyarországi Regionális Vízművek Zrt. konzorciuma | 100 | 13 450 186 822 | 0 | 50 364 834 | 0 | – | +522 666 404 | 0 | 0 | 0 | 100 | 13 972 853 226 | 0 | 50 364 834 | 0 | 14 023 218 060 | Trizs–Ragály települések biztonságos vízellátása Szalonna II. számú lakóövezet és Meszes település összekötő vezeték létesítése Parasznya és térsége biztonságos vízellátása Újharangod község vízellátása Kelemér és Gömörszőlős vízellátása Miskolc-Borsodi régió közötti kooperációs vezeték létesítése Szentdomonkosi medencét a Bükkszenterzsébeti medencével összekötő távvezeték építése A bükkszenterzsébeti nyomásfokozó kapacitásbővítése Bükkszéki nyomásfokozó kapacitásbővítése |
+
+| 5. | KEHOP-2.1.11-21-2022-00009 | Keleti Főcsatorna Felszíni Ivóvíztisztító művének (Balmazújváros) és a Debrecen 1. sz. vízműig húzódó távvezetékek korszerűsítése az ivóvíz minőség javítása és az ellátás biztonságának növelése érdekében | Építési és Közlekedési Minisztérium és Tiszamenti Regionális Vízművek Zártkörűen működő Részvénytársaság konzorciuma | 100 | 16 630 597 486 | 0 | 54 487 465 | 0 | – | +369 402 514 | 0 | 0 | +639 940 085 | 100, | 17 000 000 000 | 0 | 54 487 465 | 639 940 085 | 17 694 427 550 | A Balmazújváros és a Debrecen közti meglévő távvezeték átépítése a teljes hosszban a szükséges kiegészítő szerelvényekkel, aknákkal, gépészeti elemekkel. A teljes szakasz hossza kb. 2×16 km, átmérője DN600. |
+
+| 6. | KEHOP-2.1.3-15-2017-00057 | Nyugat- és Dél-Dunántúli ivóvízminőség-javítóprogram 3. (NYDDU 3) | Gellénháza Község Önkormányzata, Nagylengyel Község Önkormányzata, Gombosszeg Község Önkormányzata, Iborfia Község Önkormányzata, Lickóvadamos Község Önkormányzata, Ormándlak Község Önkormányzata, Petrikeresztúr Község Önkormányzata, Zalaegerszeg Megyei Jogú Város Önkormányzata, Buzsák Község Önkormányzata, Pamuk Község Önkormányzata, Udvar Község Önkormányzata, Beleg Község Önkormányzata, Görcsönydoboka Község Önkormányzata, Mohács Város Önkormányzata, Székelyszabar Község Önkormányzat, Kölked Község Önkormányzata, Lánycsók Községi Önkormányzat, Erdősmárok Község Önkormányzata, Kisnyárád Község Önkormányzat, Liptód Község Önkormányzata, Maráza Község Önkormányzata, Himesháza Község Önkormányzata, Geresdlak Község Önkormányzata, Szűr Község Önkormányzat, Fazekasboda Község Önkormányzata, Bázakerettye Község Önkormányzata, Lispeszentadorján Község Önkormányzata, Kiscsehi Község Önkormányzata, Maróc Község Önkormányzata és Lasztonya Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet, valamint a 362/2022. (IX. 19.) Korm. rendelet szerint | 87,150227 | 5 205 973 114 | 767 589 198 | 1 596 015 532 | 0 | – | +370 046 539 | +54 561 120 | +114 644 068 | 0 | 87,150227 | 5 576 019 653 | 822 150 318 | 1 710 659 600 | 0 | 8 108 829 571 | A beruházással szembeni szakmai elvárás, hogy az érintett területen elsősorban az öt, a vízminőséget kiemelten befolyásoló komponens (arzén, bór, fluor, nitrit, ammónium) vonatkozásában a szolgáltatott közműves ivóvíz minősége feleljen meg a 98/83/EK irányelvben és a 201/2001. (X. 25.) Korm. rendeletben rögzített paramétereknek, határértékeknek. |
+
+| 7. | KEHOP-2.1.3-15-2019-00091 | Búcsúszentlászló és térsége ivóvízminőség javítása | Búcsúszentlászló Község Önkormányzata, Kisbucsa Község Önkormányzata, Nemeshetés Község Önkormányzata, Nemesszentandrás Község Önkormányzata, Nemessándorháza Község Önkormányzata, Pölöske Község Önkormányzata és Zalaszentmihály Községi Önkormányzat a 339/2014. (XII. 19.) Korm. rendelet, valamint a 362/2022. (IX. 19.) Korm. rendelet szerint | 86,038344 | 1 298 097 944 | 210 645 585 | 403 743 410 | 0 | – | +127 660 880 | +20 715 848 | +40 061 717 | 0 | 86,038344 | 1 425 758 824 | 231 361 433 | 443 805 127 | 0 | 2 100 925 384 | A jelenleg két külön vízműként üzemelő vízellátó rendszerből (Búcsúszentlászlói és Zalaszentmihályi vízmű) egy kistérségi vízellátó rendszer kialakítása szükséges. Ehhez szükséges a vízbázis bővítése, egy új víztisztító mű létesítése, valamint a vízelosztó rendszerek összekötése. |
+
+| 8. | KEHOP-2.2.2-15-2016-00053 | Beremend Nagyközség szennyvízelvezetésének- és tisztításának fejlesztése | Beremend Nagyközség Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet, valamint a 362/2022. (IX. 19.) Korm. rendelet szerint | 90,025000 | 1 651 246 521 | 182 962 334 | 491 596 600 | 0 | – | +116 645 788 | +12 924 651 | +34 984 019 | 0 | 90,025000 | 1 767 892 309 | 195 886 985 | 526 580 619 | 0 | 2 490 359 913 | A beruházás célja Beremend Püspökbóly városrészének csatornázása, a meglévő korszerűtlen szennyvíztisztító telep fejlesztése és a projekt költségvetésének 5%-os arányának eléréséig hálózatrekonstrukció végrehajtása. |
+
+| 9. | KEHOP-2.2.2-15-2019-00137 | Békésszentandrási szennyvíztisztító telep bővítése és korszerűsítése | Békésszentandrás Nagyközség Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet, valamint a 362/2022. (IX. 19.) Korm. rendelet szerint | 89,997000 | 1 502 022 014 | 166 946 966 | 447 309 736 | 0 | – | +98 820 119 | +10 983 673 | +29 647 024 | 0 | 89,997000 | 1 600 842 133 | 177 930 639 | 476 956 760 | 0 | 2 255 729 532 | A projekttel szembeni szakmai elvárás, hogy Magyarország megfeleljen az uniós jogi követelményeknek a kijelölt határidőig. A beruházás keretében bővítik és korszerűsítik Békésszentandrás nagyközség szennyvíztisztító telepét 5977 LE kapacitással. |
+
+| 10. | KEHOP-2.2.2-15-2019-00141 | Dévaványai szennyvíztisztító telep fejlesztése | Dévaványa Város Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet, valamint a 362/2022. (IX. 19.) Korm. rendelet szerint | 89,997 | 1 765 644 928 | 196 248 166 | 525 817 971 | 0 | – | +119 700 392 | +13 304 477 | +35 911 315 | 0 | 89,997000 | 1 885 345 320 | 209 552 643 | 561 729 286 | 0 | 2 656 627 249 | A projekttel szembeni szakmai elvárás, hogy Magyarország megfeleljen az uniós jogi követelményeknek a kijelölt határidőig. A beruházás keretében bővítik és korszerűsítik Dévaványa Város szennyvíztisztító telepét 7272 LE kapacitással. |
+
+| 11. | KEHOP-2.2.2-15-2019-00143 | Mezőberény szennyvíztisztító telep fejlesztése | Mezőberény Város Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet, valamint a 362/2022. (IX. 19.) Korm. rendelet szerint | 89,997 | 1 973 818 324 | 219 386 254 | 587 813 058 | 0 | – | +126 876 957 | +14 102 139 | +38 064 356 | 0 | 89,997000 | 2 100 695 281 | 233 488 393 | 625 877 414 | 0 | 2 960 061 088 | A projekttel szembeni szakmai elvárás, hogy Magyarország megfeleljen az uniós jogi követelményeknek a kijelölt határidőig. A beruházás keretében fejlesztik Mezőberény Város szennyvíztisztító telepét 12 450 LE kapacitással. |
+
+| 12. | KEHOP-2.2.2-15-2021-00165 | Regölyi agglomeráció szennyvízelvezetése és -tisztítása | Regöly Község Önkormányzata, Szakály Község Önkormányzata és Szárazd Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet, valamint a 362/2022. (IX. 19.) Korm. rendelet szerint | 92,396902 | 6 277 031 532 | 516 520 412 | 1 087 308 590 | 0 | – | +381 193 054 | +31 367 374 | +65 581 998 | 0 | 92,396902 | 6 658 224 586 | 547 887 786 | 1 152 890 588 | 0 | 8 359 002 960 | A tervezett agglomeráció központja Regöly település, ahol egy újonnan megépülő szennyvíztisztító telep végezné el az agglomerációból érkező szennyvizek tisztítását, amely szennyvíztisztító telep Regöly településen kerül megépítésre, a befogadó Kapos-folyó mellett. Az agglomeráció települései: Regöly, Szakály, Szárazd |
+
+| 13. | KEHOP-2.2.2-15-2021-00167 | Bikácsi agglomeráció szennyvízelvezetése és -tisztítása | Bikács Község Önkormányzata, Györköny Községi Önkormányzat, Pálfa Község Önkormányzata, Pusztahencse Községi Önkormányzat és Vajta Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet, valamint a 362/2022. (IX. 19.) Korm. rendelet szerint | 92,396902 | 8 250 051 175 | 678 875 008 | 2 393 091 579 | 0 | – | +346 004 577 | +28 471 806 | +101 108 623 | 0 | 92,396902 | 8 596 055 752 | 707 346 814 | 2 494 200 202 | 0 | 11 797 602 768 | A tervezett agglomeráció központja Bikács település, ahol egy újonnan megépülő szennyvíztisztító telep végezné el az agglomerációból érkező szennyvizek tisztítását, amely szennyvíztisztító telep Bikács településen kerül megépítésre, a befogadó Sárvíz (Nádor) csatorna közelében. Az agglomeráció települései: Pálfa, Vajta, Bikács, Györköny, Pusztahencse |
+
+| 14. | KEHOP-3.2.1-15-2019-00032 | A hulladékgazdálkodási rendszer fejlesztése Borsod-Abaúj-Zemplén megye teljes területén, különös tekintettel az elkülönített hulladékgyűjtési, szállítási és előkezelő rendszerre | Abaúj-Zempléni Szilárdhulladék Gazdálkodási Önkormányzati Társulás, Hernád Völgye és Térsége Szilárdhulladék-kezelési Önkormányzati Társulás, Sajó-Bódva Völgye és Környéke Hulladékkezelési Önkormányzati Társulás és Miskolci Regionális Hulladékgazdálkodási Önkormányzati Társulás konzorciuma a 339/2014. (XII. 19.) Korm. rendelet, valamint a 362/2022. (IX. 19.) Korm. rendelet szerint | 89,984777 | 4 065 907 163 | 452 531 732 | 20 002 954 | 0 | – | +263 655 022 | +29 344 562 | 0 | 0 | 89,984777 | 4 329 562 185 | 481 876 294 | 20 002 954 | 0 | 4 831 441 433 | A projekt célja a hulladékgazdálkodási közszolgáltatási rendszer átalakítása nyomán a területi optimalizáció eredményeként a Borsod-Abaúj-Zemplén vármegyében kialakított új hulladékgazdálkodási régióban a hulladékgazdálkodási közszolgáltatás országos elvárásait és céljait meghatározó Országos Hulladékgazdálkodási Közszolgáltatási Tervben előírt kötelezettségek teljesítése. |
+
+| 15. | KEHOP-5.3.4-21-2021-00002 | Kaposvári Biohőtermelő (KBH) létesítése | Kaposvári Önkormányzati Vagyonkezelő és Szolgáltató Zártkörűen Működő Részvénytársaság a 158/2016. (VI. 13.) Korm. rendelet szerint | 100 | 4 559 961 097 | 0 | 9 840 474 | 0 | – | +320 699 174 | 0 | 0 | 0 | 100,000000 | 4 880 660 271 | 0 | 9 840 474 | 0 | 4 890 500 745 | A projekt célja a környezetbarát helyi hő- és hűtési igényt ellátó rendszerek megújuló energiaforrás alapra helyezésével a Nemzeti Energia- és Klímatervben kitűzött teljes bruttó energiafelhasználáson belül a 21%-os megújuló részarány teljesítéséhez való hozzájárulás. |
