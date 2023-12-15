@@ -16,4 +16,6 @@ f) – amennyiben a hadműveleti helyzet megköveteli – a Bosznia-Hercegoviná
 
 g) az ALTHEA-erők egységei Magyarország területén és légterében – legfeljebb a fent megjelölt erők feladata végrehajtásának végéig – átvonuljanak, átmenetileg állomásozzanak, ideértve az állomásozás ideje alatt ezen szervezetek felkészítését, valamint a tevékenységhez szükséges vezetési és logisztikai feladatok ellátását;
 
-2. visszavonja az Európai Unió irányítása alatt megvalósuló balkáni katonai békefenntartó (ALTHEA) művelettel kapcsolatos magyar katonai részvételről szóló 2025/2005. (II. 25.) Korm. határozatot.
+2.[^1]
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
