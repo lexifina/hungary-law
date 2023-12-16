@@ -30,15 +30,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1247/2016. (V. 18.) Korm. határozat
-
-## a) 1. pont f) alpont fa) pont faa) alpontjában a „244,75%-áig” szövegrész helyébe a „244,78%-áig” szöveg,
-
-## b) 1. melléklet 2. pontjában foglalt táblázat C:2 mezőjében az „1 225,421” szövegrész helyébe az „1 225,602” szöveg,
-
-## c) 2. mellékletében foglalt táblázat D:60 mezőjében a „9,05” szövegrész helyébe a „9,23” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1567/2023. (XII. 14.) Korm. határozathoz
 
@@ -53,3 +45,5 @@
 | 4. | IKOP-2.1.0-15-2016-00026 | Új országos közforgalmú kikötő kiépítése Mohácson | Mohács Város Önkormányzata | 97,06% | 9 040 372 637 | 274 294 298 | 0 | 0 | 97,06% | 9 221 307 707 | 279 784 065 | 0 | 0 | 1 538 419 652* | 46 677 252 | 0 | 0 | 11 086 188 676 | A Duna 1448+660-1449+000 folyamkilométer-szelvények közötti szakaszán új kikötőterület kiépítése. |
 
 * Az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján az IKOP hazai társfinanszírozáson felüli felhasználásával kerül finanszírozásra ideiglenesen, a projekt második szakaszára vonatkozó, IKOP Plusz terhére megkötésre kerülő támogatási szerződés hatálybalépéséig.
+
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
