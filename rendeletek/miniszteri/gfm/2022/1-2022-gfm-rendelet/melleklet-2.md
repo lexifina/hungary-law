@@ -112,7 +112,7 @@ XII. Tulajdonosi joggyakorló: Somogy Vármegyei Kormányhivatal
 
 |  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
 
-| 1. | Somogy Megyei Beruházásszervező és Mérnöki Korlátolt Felelősségű Társaság | 14-09-311381 | 2026. december 31. |
+| 1. | Somogyi Beruházásszervező és Mérnöki Korlátolt Felelősségű Társaság | 14-09-311381 | 2026. december 31. |
 
 XIII. Tulajdonosi joggyakorló: Érdi Szakképzési Centrum
 
@@ -158,7 +158,7 @@ XVII. Tulajdonosi joggyakorló: Nemzeti Kutatási, Fejlesztési és Innovációs
 
 |  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
 
-| 1. | Express Innovation Agency VMV Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-049678 | 2026. december 31. |
+| 1. | Nemzeti Innovációs Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-049678 | 2026. december 31. |
 
 XVIII. Tulajdonosi joggyakorló: Magyar Nemzeti Múzeum
 
@@ -178,4 +178,4 @@ XIX. Tulajdonosi joggyakorló: Nemzetbiztonsági Szakszolgálat
 
 XX. Tulajdonosi joggyakorló: Nemzeti Kommunikációs Hivatal
 
-[^4]: A 2. melléklet a 2/2022. (VI. 20.) GFM rendelet 2. §-a, a 4/2022. (VII. 14.) GFM rendelet 2. §-a, a 12/2022. (XI. 7.) GFM rendelet 1. §-a, a 17/2022. (XII. 13.) GFM rendelet 1. §-a, a 21/2022. (XII. 27.) GFM rendelet 1. §-a, a 22/2022. (XII. 27.) GFM rendelet 1. §-a, a 23/2022. (XII. 27.) GFM rendelet 1. §-a, a 6/2023. (IV. 27.) GFM rendelet 1. § c) pontja, a 10/2023. (VI. 16.) GFM rendelet 2. §-a szerint módosított szöveg.
+[^4]: A 2. melléklet a 2/2022. (VI. 20.) GFM rendelet 2. §-a, a 4/2022. (VII. 14.) GFM rendelet 2. §-a, a 12/2022. (XI. 7.) GFM rendelet 1. §-a, a 17/2022. (XII. 13.) GFM rendelet 1. §-a, a 21/2022. (XII. 27.) GFM rendelet 1. §-a, a 22/2022. (XII. 27.) GFM rendelet 1. §-a, a 23/2022. (XII. 27.) GFM rendelet 1. §-a, a 6/2023. (IV. 27.) GFM rendelet 1. § c) pontja, a 10/2023. (VI. 16.) GFM rendelet 2. §-a, a 32/2023. (XII. 15.) GFM rendelet 2. §-a, a 33/2023. (XII. 15.) GFM rendelet 2. §-a szerint módosított szöveg.
