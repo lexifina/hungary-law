@@ -1,3 +1,3 @@
-3. § A KKM rendelet 2. § (6) bekezdése helyébe a következő rendelkezés lép:
+3. §[^4]
 
-„(6) Az (5) bekezdés szerinti kifizetés a kompenzációval érintett járandóságra irányadó jogszabályi előírások szerint kerül a külképviseleten foglalkoztatott személy részére számfejtésre. A kihelyező vezető az (1) bekezdés szerinti döntésének meghozatalát követő legkésőbb 1 hónapon belül gondoskodik az (5) bekezdés szerinti árfolyam-kompenzáció átutalásának elindításáról a külképviseleten foglalkoztatott személy részére a foglalkoztatási jogviszonya során általa használt fizetési számlára.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
