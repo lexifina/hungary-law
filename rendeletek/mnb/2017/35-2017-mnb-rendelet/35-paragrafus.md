@@ -1,8 +1,8 @@
-35. §[^34] (1) Azonnali átutalási megbízásnak minősül az egyedi, forintösszegre szóló átutalási megbízás, ha
+35. §[^35] (1) Azonnali átutalási megbízásnak minősül az egyedi, forintösszegre szóló átutalási megbízás, ha
 
 a) azt a fizető fél forintban vezetett fizetési számlája terhére adja meg,
 
-b)[^35] összege legfeljebb 20 millió Ft,
+b)[^36] összege legfeljebb 20 millió Ft,
 
 c) a pénzforgalmi szolgáltatóhoz való beérkezés napját követő terhelési napot nem tartalmaz,
 
@@ -26,8 +26,8 @@ e) benyújtása – a (2) bekezdésben foglalt kivétellel – nem kötegenként
 
 (9) A fizető fél fizetési számláját vezető pénzforgalmi szolgáltató haladéktalanul értesíti a fizető felet a fizetési művelet teljesítésének visszautasítására vonatkozó, (5) és (6) bekezdés szerinti és – törvény eltérő rendelkezése hiányában – (7) bekezdés szerinti tájékoztatásról, annak beérkezését követően a keretszerződésben meghatározott módon, a visszautasítás okának közlésével.
 
-(10)[^36] Ha a fizető fél az átutalási megbízást a kedvezményezett másodlagos számlaazonosítójának a feltüntetésével nyújtotta be, a fizető fél pénzforgalmi szolgáltatója a Pft. szerinti utólagos tájékoztatásban a kedvezményezett adataként ezen másodlagos számlaazonosítót tünteti fel.
+(10)[^37] Ha a fizető fél az átutalási megbízást a kedvezményezett másodlagos számlaazonosítójának a feltüntetésével nyújtotta be, a fizető fél pénzforgalmi szolgáltatója a Pft. szerinti utólagos tájékoztatásban a kedvezményezett adataként ezen másodlagos számlaazonosítót tünteti fel.
 
-[^34]: A 35. § a 10/2019. (II. 21.) MNB rendelet 4. §-ával megállapított szöveg.
-[^35]: A 35. § (1) bekezdés b) pontja az 57/2022. (XII. 22.) MNB rendelet 10. § (2) bekezdése szerint módosított szöveg.
-[^36]: A 35. § (10) bekezdése a 29/2020. (IX. 16.) MNB rendelet 6. § (1) bekezdése szerint módosított szöveg.
+[^35]: A 35. § a 10/2019. (II. 21.) MNB rendelet 4. §-ával megállapított szöveg.
+[^36]: A 35. § (1) bekezdés b) pontja az 57/2022. (XII. 22.) MNB rendelet 10. § (2) bekezdése szerint módosított szöveg.
+[^37]: A 35. § (10) bekezdése a 29/2020. (IX. 16.) MNB rendelet 6. § (1) bekezdése szerint módosított szöveg.
