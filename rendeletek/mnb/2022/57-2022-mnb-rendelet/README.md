@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-57-20-2
 | 2023-01-02 | 2022-57-20-2C.2 | 2010. évi CXXX. törvény |
 | 2023-09-01 | 2022-57-20-2C.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2023-09-02 | 2022-57-20-2C.4 | 2010. évi CXXX. törvény |
+| 2023-12-16 | 2022-57-20-2C.7 | 65/2023. (XII. 15.) MNB rendelet |

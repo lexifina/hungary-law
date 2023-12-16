@@ -1,3 +1,3 @@
-1. melléklet az 57/2022. (XII. 22.) MNB rendelethez[^19]
+1. melléklet az 57/2022. (XII. 22.) MNB rendelethez[^22]
 
-[^19]: Az 1. melléklet a 12. § (3) bekezdése alapján 2024. február 1-jén lép hatályba.
+[^22]: Az 1. melléklet a 65/2023. (XII. 15.) MNB rendelet 13. § (4) bekezdése alapján nem lép hatályba.

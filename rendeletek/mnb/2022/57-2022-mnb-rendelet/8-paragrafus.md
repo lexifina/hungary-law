@@ -1,3 +1,3 @@
 8. §[^13]
 
-[^13]: A 8. § a 12. § (3) bekezdés alapján 2024. február 1-jén lép hatályba.
+[^13]: A 8. § a 65/2023. (XII. 15.) MNB rendelet 13. § (4) bekezdése alapján nem lép hatályba.
