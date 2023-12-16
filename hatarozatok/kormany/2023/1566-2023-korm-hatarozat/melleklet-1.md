@@ -14,47 +14,7 @@
 
 ## 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 4. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat
-
-## a) D:216b. mezőjében az „1,29” szövegrész helyébe az „1,43” szöveg,
-
-## b) E:216b. mezőjében a „0,21” szövegrész helyébe a „0,24” szöveg,
-
-## c) D:217h. mezőjében az „5,21” szövegrész helyébe az „5,58” szöveg,
-
-## d) E:217h. mezőjében a „0,77” szövegrész helyébe a „0,83” szöveg,
-
-## e) D:277. mezőjében az „1,66” szövegrész helyébe az „1,77” szöveg,
-
-## f) E:277. mezőjében a „0,19” szövegrész helyébe a „0,20” szöveg,
-
-## g) D:297b. mezőjében a „2,01” szövegrész helyébe a „2,11” szöveg,
-
-## h) E:297b. mezőjében a „0,23” szövegrész helyébe a „0,24” szöveg,
-
-## i) D:297e. mezőjében az „1,52” szövegrész helyébe az „1,61” szöveg,
-
-## j) E:297e. mezőjében a „0,17” szövegrész helyébe a „0,18” szöveg,
-
-## k) D:297f. mezőjében az „1,78” szövegrész helyébe az „1,89” szöveg,
-
-## l) E:297f. mezőjében a „0,20” szövegrész helyébe a „0,21” szöveg,
-
-## m) D:316o. mezőjében a „6,28” szövegrész helyébe a „6,66” szöveg,
-
-## n) E:316o. mezőjében a „0,52” szövegrész helyébe a „0,55” szöveg,
-
-## o) D:316p. mezőjében a „8,29” szövegrész helyébe a „8,60” szöveg,
-
-## p) E:316p. mezőjében a „0,69” szövegrész helyébe a „0,71” szöveg,
-
-## q) D:351c. mezőjében a „4,07” szövegrész helyébe a „4,33” szöveg,
-
-## r) E:351c. mezőjében a „0,46” szövegrész helyébe a „0,49” szöveg,
-
-## s) D:652d. mezőjében a „4,56” szövegrész helyébe a „4,89” szöveg
-
-## lép.
+## 4.[^1]
 
 1. melléklet az 1566/2023. (XII. 14.) Korm. határozathoz
 
@@ -89,3 +49,5 @@
 | 14. | KEHOP-3.2.1-15-2019-00032 | A hulladékgazdálkodási rendszer fejlesztése Borsod-Abaúj-Zemplén megye teljes területén, különös tekintettel az elkülönített hulladékgyűjtési, szállítási és előkezelő rendszerre | Abaúj-Zempléni Szilárdhulladék Gazdálkodási Önkormányzati Társulás, Hernád Völgye és Térsége Szilárdhulladék-kezelési Önkormányzati Társulás, Sajó-Bódva Völgye és Környéke Hulladékkezelési Önkormányzati Társulás és Miskolci Regionális Hulladékgazdálkodási Önkormányzati Társulás konzorciuma a 339/2014. (XII. 19.) Korm. rendelet, valamint a 362/2022. (IX. 19.) Korm. rendelet szerint | 89,984777 | 4 065 907 163 | 452 531 732 | 20 002 954 | 0 | – | +263 655 022 | +29 344 562 | 0 | 0 | 89,984777 | 4 329 562 185 | 481 876 294 | 20 002 954 | 0 | 4 831 441 433 | A projekt célja a hulladékgazdálkodási közszolgáltatási rendszer átalakítása nyomán a területi optimalizáció eredményeként a Borsod-Abaúj-Zemplén vármegyében kialakított új hulladékgazdálkodási régióban a hulladékgazdálkodási közszolgáltatás országos elvárásait és céljait meghatározó Országos Hulladékgazdálkodási Közszolgáltatási Tervben előírt kötelezettségek teljesítése. |
 
 | 15. | KEHOP-5.3.4-21-2021-00002 | Kaposvári Biohőtermelő (KBH) létesítése | Kaposvári Önkormányzati Vagyonkezelő és Szolgáltató Zártkörűen Működő Részvénytársaság a 158/2016. (VI. 13.) Korm. rendelet szerint | 100 | 4 559 961 097 | 0 | 9 840 474 | 0 | – | +320 699 174 | 0 | 0 | 0 | 100,000000 | 4 880 660 271 | 0 | 9 840 474 | 0 | 4 890 500 745 | A projekt célja a környezetbarát helyi hő- és hűtési igényt ellátó rendszerek megújuló energiaforrás alapra helyezésével a Nemzeti Energia- és Klímatervben kitűzött teljes bruttó energiafelhasználáson belül a 21%-os megújuló részarány teljesítéséhez való hozzájárulás. |
+
+[^1]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
