@@ -1,3 +1,3 @@
-4. § Az R. 74. § (9) bekezdése helyébe a következő rendelkezés lép:
+4. §[^5]
 
-„(9) Az állomány NFTC program keretében Kanadában, illetve a Szállító és Harcászati pilótaképzési program keretében az Amerikai Egyesült Államokban külföldi képzésben részt vevő tagja részére az állomáshely szerinti országon belüli, képzéssel összefüggésben indokolt utazások lebonyolítása érdekében bérelt gépjármű igénybevétele engedélyezhető. A gépjárműbérlés költségének a Honvédség által megtéríthető legmagasabb összegét a 15. § (4) bekezdése szerinti utazási átalány-költségtérítéssel egy helyen és időben, de attól elkülönített módon kell közzétenni.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-6. § Az R. a következő 108. §-sal egészül ki:
+6. §[^7]
 
-„108. § A HM rendelet10 hatálybalépését megelőzően megkezdett ideiglenes külföldi szolgálatok és ideiglenes külföldi képzések esetén e rendeletnek az ideiglenes külföldi szolgálat vagy ideiglenes külföldi képzés megkezdésekor hatályos szabályait kell alkalmazni.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
