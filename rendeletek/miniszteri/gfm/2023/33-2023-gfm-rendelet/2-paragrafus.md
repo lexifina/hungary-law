@@ -1,1 +1,3 @@
-2. § A Rendelet 2. melléklet XVII. pontjában foglalt táblázat A:1 mezőjében az „Express Innovation Agency VMV” szövegrész helyébe a „Nemzeti Innovációs Ügynökség” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
