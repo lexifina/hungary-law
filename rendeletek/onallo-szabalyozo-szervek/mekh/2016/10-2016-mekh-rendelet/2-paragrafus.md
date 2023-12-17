@@ -14,7 +14,7 @@ b) a közcélú hálózaton már rendelkezésre álló teljesítményen felül t
 
 2a.[^4] egyéb érintett hálózati engedélyes: a befogadó hálózati engedélyesen kívüli azon hálózati engedélyes, akinek a hálózatán az adott csatlakozási igény kielégítése érdekében beruházást kell végezni;
 
-2b.[^5] elosztói tápponti körzet: az elosztó hálózatnak átviteli hálózati alállomások, átviteli hálózati alállomásokat közvetlenül összekötő nagyfeszültségű (kuplung) vezetékek, valamint a normál kapcsolási állapot szerinti körzethatárok által határolt – az üzemi szabályzatban rögzített – része, amely egymással összefüggő nagy-, közép- és kisfeszültségű hálózati elemeket tartalmaz;
+2b.[^5] elosztói tápponti körzet: az elosztó hálózatnak átviteli alállomások, átviteli alállomásokat közvetlenül összekötő nagyfeszültségű (kuplung) vezetékek, valamint a normál kapcsolási állapot szerinti körzethatárok által határolt – az üzemi szabályzatban rögzített – része, amely egymással összefüggő nagy-, közép- és kisfeszültségű hálózati elemeket tartalmaz;
 
 3. ideiglenes csatlakozást kérő: az a leendő rendszerhasználó, aki ideiglenes csatlakozás megvalósítására határozott idejű, legfeljebb 12 hónapos időtartamra vonatkozó hálózathasználati szerződést kíván kötni;
 
@@ -56,15 +56,18 @@ b) az adott elszámolási időszakban (de legfeljebb 12 hónap alatt) a háztart
 
 az aránya, két tizedesjegyre kerekítve;
 
-13a.[^9] teljesítményarány: az igényelt csatlakozási teljesítmény és a csatlakozási beruházással létrejött hálózati eszközök névleges teljesítménynövekményének százalékos (három tizedesjegyre kerekített) aránya, amelynek figyelembe vehető mértéke nem haladhatja meg a 100,000%-ot;
+13a.[^9] teljesítményarány: az igényelt, betáplálásra és vételezésre irányonként külön-külön figyelembe vett csatlakozási teljesítmény és a csatlakozási beruházással létrejött hálózati eszközök névleges teljesítménynövekményének százalékos (három tizedesjegyre kerekített) aránya, amelynek figyelembe vehető mértéke nem haladhatja meg a 100,000%-ot;
 
 14. túláramvédelmi készülék: kismegszakító, olvadóbiztosító, túláram-korlátozóval rendelkező megszakító.
+
+15.[^10] alállomás: olyan villamos hálózati csomópont, amely transzformátort is tartalmaz.
 
 [^2]: A 2. § 1. pontja az 1/2021. (II. 10.) MEKH rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: A 2. § 1a. pontját az 1/2021. (II. 10.) MEKH rendelet 1. § (2) bekezdése iktatta be.
 [^4]: A 2. § 2a. pontját az 1/2021. (II. 10.) MEKH rendelet 1. § (3) bekezdése iktatta be.
-[^5]: A 2. § 2b. pontját az 1/2021. (II. 10.) MEKH rendelet 1. § (3) bekezdése iktatta be.
+[^5]: A 2. § 2b. pontját az 1/2021. (II. 10.) MEKH rendelet 1. § (3) bekezdése iktatta be, szövege a 20/2023. (XII. 1.) MEKH rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^6]: A 2. § 6. pontja az 1/2021. (II. 10.) MEKH rendelet 1. § (4) bekezdésével megállapított szöveg.
 [^7]: A 2. § 9a. pontját az 1/2021. (II. 10.) MEKH rendelet 1. § (5) bekezdése iktatta be.
 [^8]: A 2. § 9b. pontját az 1/2021. (II. 10.) MEKH rendelet 1. § (5) bekezdése iktatta be.
-[^9]: A 2. § 13a. pontját az 1/2021. (II. 10.) MEKH rendelet 1. § (6) bekezdése iktatta be, szövege a 14/2021. (XI. 8.) MEKH rendelet 1. §-ával megállapított szöveg.
+[^9]: A 2. § 13a. pontját az 1/2021. (II. 10.) MEKH rendelet 1. § (6) bekezdése iktatta be, szövege a 20/2023. (XII. 1.) MEKH rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^10]: A 2. § 15. pontját a 20/2023. (XII. 1.) MEKH rendelet 1. § (3) bekezdése iktatta be.
