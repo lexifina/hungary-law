@@ -8,7 +8,10 @@
 
 (5)[^452] A helyi önkormányzat a központi költségvetés Áht. 14. § (3) bekezdése szerinti fejezetéből biztosított költségvetési támogatással összefüggésben keletkező visszafizetési kötelezettségét a Kincstár által megjelölt fizetési számlára történő befizetéssel teljesíti. A nettó finanszírozás keretében folyósított költségvetési támogatás esetében, ha a visszafizetési kötelezettség a folyósítás évében keletkezik, a visszafizetési kötelezettséget az annak során történt elszámolással egyidejűleg kell teljesíteni.
 
-(6)[^453] A visszafizetési kötelezettséget annak az előirányzatnak a javára kell teljesíteni, amelyből a támogatás folyósítása történt. Ilyen előirányzat hiányában, illetve ha a visszafizetési kötelezettséget az Áht. 67. §-a alapján a kormányzati ellenőrzési szerv érvényesíti, a visszafizetési kötelezettséget a központi költségvetés Áht. 14. § (4) bekezdés d) pontja szerinti fejezete javára kell teljesíteni.
+(6)[^453] A visszafizetési kötelezettséget annak az előirányzatnak a javára kell teljesíteni, amelyből a támogatás folyósítása történt. Ha a visszafizetési kötelezettséget az Áht. 67. §-a alapján a kormányzati ellenőrzési szerv érvényesíti, a visszafizetési kötelezettséget a központi költségvetés Áht. 14. § (4) bekezdés d) pontja szerinti fejezete javára kell teljesíteni.
+
+(6a)[^454] Ha a támogatás folyósításával érintett előirányzat a visszafizetési kötelezettség teljesítésének időpontjában már nem szerepel a támogató címrendjében, úgy a visszafizetési kötelezettségből származó bevételt a támogatónak a támogatási jogviszony céljával azonos cél finanszírozására szolgáló előirányzat bevételeként kell elszámolnia.
 
 [^452]: Az Ávr. 99. § (5) bekezdése a 465/2015. (XII. 29.) Korm. rendelet 24. § 21. pontja szerint módosított szöveg.
-[^453]: Az Ávr. 99. § (6) bekezdése a 465/2015. (XII. 29.) Korm. rendelet 24. § 22. pontja szerint módosított szöveg.
+[^453]: Az Ávr. 99. § (6) bekezdése az 560/2023. (XII. 14.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^454]: Az Ávr. 99. § (6a) bekezdését az 560/2023. (XII. 14.) Korm. rendelet 7. § (2) bekezdése iktatta be.

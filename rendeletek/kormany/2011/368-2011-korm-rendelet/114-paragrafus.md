@@ -1,4 +1,4 @@
-114. §[^523] Az Áht. 60/A. § (2) bekezdése szerinti beszedési megbízást a Kincstár akkor nyújtja be, ha a helyi önkormányzat
+114. §[^525] Az Áht. 60/A. § (2) bekezdése szerinti beszedési megbízást a Kincstár akkor nyújtja be, ha a helyi önkormányzat
 
 a) az Áht. 53/A. § (1) bekezdése szerinti költségvetési támogatás jogosulatlan igénybevétele, jogszabálysértő vagy nem rendeltetésszerű felhasználása esetén a 99. § (2) bekezdésében meghatározott határidő leteltét,
 
@@ -10,4 +10,4 @@ d) az Áht. 59. §-a szerinti felülvizsgálat keretében megállapított fizet�
 
 követő kilencven napon belül nem teljesítette.
 
-[^523]: Az Ávr. 114. §-a a 310/2018. (XII. 27.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^525]: Az Ávr. 114. §-a a 310/2018. (XII. 27.) Korm. rendelet 20. §-ával megállapított szöveg.
