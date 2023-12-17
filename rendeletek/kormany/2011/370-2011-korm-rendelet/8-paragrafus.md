@@ -1,6 +1,6 @@
-8. § (1)[^24] A költségvetési szerv vezetője köteles a szervezeten belül kontrolltevékenységeket kialakítani, melyek biztosítják a kockázatok kezelését, hozzájárulnak a szervezet céljainak eléréséhez, és erősítik a szervezet integritását.
+8. § (1)[^25] A költségvetési szerv vezetője köteles a szervezeten belül kontrolltevékenységeket kialakítani, melyek biztosítják a kockázatok kezelését, hozzájárulnak a szervezet céljainak eléréséhez, és erősítik a szervezet integritását.
 
-(2)[^25] A kontrolltevékenység részeként minden tevékenységre vonatkozóan biztosítani kell a szervezeti célok elérését veszélyeztető kockázatok csökkentésére irányuló kontrollok kiépítését, különösen az alábbiak vonatkozásában:
+(2)[^26] A kontrolltevékenység részeként minden tevékenységre vonatkozóan biztosítani kell a szervezeti célok elérését veszélyeztető kockázatok csökkentésére irányuló kontrollok kiépítését, különösen az alábbiak vonatkozásában:
 
 a) a döntések dokumentumainak elkészítése (ideértve a költségvetési tervezés, a kötelezettségvállalások, a szerződések, a kifizetések, a támogatásokkal való elszámolás, a szabálytalanság miatti visszafizettetések dokumentumait is),
 
@@ -20,5 +20,5 @@ b) a dokumentumokhoz és információkhoz való hozzáférés,
 
 c) beszámolási eljárások.
 
-[^24]: A 8. § (1) bekezdése a 187/2016. (VII. 13.) Korm. rendelet 16. § j) pontja szerint módosított szöveg.
-[^25]: A 8. § (2) bekezdése a 187/2016. (VII. 13.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^25]: A 8. § (1) bekezdése a 187/2016. (VII. 13.) Korm. rendelet 16. § j) pontja szerint módosított szöveg.
+[^26]: A 8. § (2) bekezdése a 187/2016. (VII. 13.) Korm. rendelet 5. §-ával megállapított szöveg.

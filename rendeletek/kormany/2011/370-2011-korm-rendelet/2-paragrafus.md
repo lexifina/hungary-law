@@ -14,7 +14,7 @@
 
 6. bizonyosságot adó tevékenység: belső ellenőrzési tevékenység, amelynek során a belső ellenőr objektív értékelést nyújt egy adott folyamatról, rendszerről, eljárásról, és az ellenőrzési program végrehajtása során tett megállapításokat, következtetéseket és javaslatokat ellenőrzési jelentésbe foglalja,
 
-7. ellenőrzés lezárása: egy adott ellenőrzés akkor tekinthető lezártnak, ha az ellenőrzési jelentést (vagy annak kivonatát) az ellenőrzést végző költségvetési szerv vezetője megküldte az ellenőrzött szerv, illetve szervezeti egység részére, valamint annak, akire vonatkozóan megállapítást vagy javaslatot tartalmaz,
+7.[^7] ellenőrzés lezárása: egy adott ellenőrzés akkor tekinthető lezártnak, ha az ellenőrzési jelentést (vagy annak kivonatát) az ellenőrzést végző költségvetési szerv vezetője, vagy ha a szervezeti és működési szabályzat így rendelkezik, a belső ellenőrzési vezető megküldte az ellenőrzött szerv, illetve szervezeti egység részére, valamint annak, akire vonatkozóan megállapítást vagy javaslatot tartalmaz,
 
 8. eredményesség: annak követelménye, hogy a kitűzött célok – az elfogadott módosításokat és a változó körülményeket figyelembe véve – megvalósuljanak, a tevékenység tervezett és tényleges hatása közötti különbség a lehető legkisebb mértékű legyen, vagy a tényleges hatás legyen kedvezőbb a tervezettnél,
 
@@ -59,3 +59,4 @@ f) országos nemzetiségi önkormányzat esetén az országos nemzetiségi önko
 22. vizsgálatvezető: a belső ellenőrzési vezető által kijelölt, az adott ellenőrzés lebonyolításáért felelős személy.
 
 [^6]: A 2. § a 132/2023. (IV. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^7]: A 2. § 7. pontja az 560/2023. (XII. 14.) Korm. rendelet 15. § 1. pontja szerint módosított szöveg.

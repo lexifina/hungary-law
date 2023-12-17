@@ -10,10 +10,10 @@
 
 (5) A jelentéstervezet megküldésére vonatkozó kísérő levélben fel kell hívni az ellenőrzött figyelmét arra, hogy a határidő elmulasztását egyetértésnek kell tekinteni és a nemleges választ is jelezni kell a határidőn belül, valamint az észrevételek megküldésével egy időben lehetősége van a 43. § (1) bekezdése szerinti egyeztető megbeszélés kezdeményezésére.
 
-(6)[^92] Ha az érintettek nem tesznek érdemi észrevételt a jelentéstervezetre, akkor a nemleges válaszukkal együtt – ha a jelentéstervezet megállapításokat vagy javaslatokat tartalmaz az érintett szervezeti egység vonatkozásában – már az intézkedési tervet is elkészíthetik és megküldhetik az ellenőrzést végző szerv vagy szervezeti egység részére a megadott véleményezési határidőn belül.
+(6)[^94] Ha az érintettek nem tesznek érdemi észrevételt a jelentéstervezetre, akkor a nemleges válaszukkal együtt – ha a jelentéstervezet megállapításokat vagy javaslatokat tartalmaz az érintett szervezeti egység vonatkozásában – már az intézkedési tervet is elkészíthetik és megküldhetik az ellenőrzést végző szerv vagy szervezeti egység részére a megadott véleményezési határidőn belül.
 
 (7) Az észrevétel elfogadásáról vagy elutasításáról a vizsgálatvezető dönt, amelyről az észrevételezési határidő lejártától számított 8 napon belül az érintetteknek írásbeli tájékoztatást ad és indokolja az el nem fogadott észrevételeket vagy kezdeményezi a 43. § (1) bekezdése szerinti megbeszélés összehívását.
 
 (8) Az elfogadott észrevételeket a vizsgálatvezető átvezeti az ellenőrzési jelentéstervezeten. Az érintettek észrevételeit, illetve a vizsgálatvezető válaszát csatolni kell az ellenőrzés dokumentációjához.
 
-[^92]: A 42. § (6) bekezdése a 465/2015. (XII. 29.) Korm. rendelet 34. § 3. és 4. pontja szerint módosított szöveg.
+[^94]: A 42. § (6) bekezdése a 465/2015. (XII. 29.) Korm. rendelet 34. § 3. és 4. pontja szerint módosított szöveg.

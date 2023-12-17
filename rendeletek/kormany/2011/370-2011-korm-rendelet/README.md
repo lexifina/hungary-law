@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-370-20-
 | 2018-12-28 | 2011-370-20-22.15 | 310/2018. (XII. 27.) Korm. rendelet |
 | 2020-01-01 | 2011-370-20-22.16 | 342/2019. (XII. 23.) Korm. rendelet |
 | 2023-05-03 | 2011-370-20-22.17 | 132/2023. (IV. 18.) Korm. rendelet |
+| 2023-12-17 | 2011-370-20-22.18 | 560/2023. (XII. 14.) Korm. rendelet |
