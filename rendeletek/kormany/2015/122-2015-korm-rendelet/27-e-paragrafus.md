@@ -1,0 +1,1 @@
+27/E. § A szervezett piaci átruházás alapján a jogosult személyében bekövetkező változást a szervezett piac működtetője jelenti be a hitelesített energiamegtakarítások nyilvántartásába történő rögzítése érdekében.

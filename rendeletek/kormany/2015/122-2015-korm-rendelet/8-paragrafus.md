@@ -1,4 +1,4 @@
-## 7/F. §[^28] A közintézmények tulajdonában és használatában álló, közfeladat ellátását szolgáló épület üzemeltetéséért felelős az épület energiafogyasztási adatait – az energiahatékonyságról szóló 2015. évi LVII. törvény 11/B. § (2) bekezdése alapján szolgáltatandó energiafogyasztási adatok kivételével – havi rendszerességgel, a tárgyhónapot követő 5. napon jelenti be.
+## 7/F. §[^29] A közintézmények tulajdonában és használatában álló, közfeladat ellátását szolgáló épület üzemeltetéséért felelős az épület energiafogyasztási adatait – az energiahatékonyságról szóló 2015. évi LVII. törvény 11/B. § (2) bekezdése alapján szolgáltatandó energiafogyasztási adatok kivételével – havi rendszerességgel, a tárgyhónapot követő 5. napon jelenti be.
 
 ## 6. A közintézmények által megkötésre kerülő energiahatékonyság-alapú szerződés kötelező tartalmi elemei
 
@@ -46,4 +46,4 @@ l) az energiahatékonysági szolgáltatással elért megtakarítás pénzbeli é
 
 m) az előzetes energetikai auditálás eredménye.
 
-[^28]: A 7/F. § a 715/2020. (XII. 30.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^29]: A 7/F. § a 715/2020. (XII. 30.) Korm. rendelet 12. §-ával megállapított szöveg.

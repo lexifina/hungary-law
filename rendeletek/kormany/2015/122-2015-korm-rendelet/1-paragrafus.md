@@ -22,4 +22,7 @@
 
 7. részt vevő fél: olyan gazdálkodó szervezet vagy közintézmény, amely szakpolitikai intézkedésnek minősülő önkéntes megállapodás keretében vállalta meghatározott célkitűzések elérését, vagy amely szakpolitikai intézkedésnek minősülő szabályozás hatálya alá tartozik.
 
+8.[^2] szervezett piaci szabályzat: a hitelesített energiamegtakarítások szervezett piacán folytatott tevékenységre vonatkozó általános szerződési feltételeket, valamint a 27/A. § (6) bekezdésében meghatározott elemeket tartalmazó, a 27/A. § (4) bekezdése szerint megalkotott és a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) által jóváhagyott szabályzat.
+
 [^1]: Az 1. § 6a. pontját a 715/2020. (XII. 30.) Korm. rendelet 8. §-a iktatta be.
+[^2]: Az 1. § 8. pontját az 546/2023. (XII. 12.) Korm. rendelet 1. §-a iktatta be.

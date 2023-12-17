@@ -4,9 +4,9 @@
 
 (3) A szakmai gyakorlatra, valamint annak igazolására a 23. § rendelkezései irányadók.
 
-(4)[^13] A Hivatal a névjegyzékbe vétellel egyidejűleg névjegyzéki jelölést ad.
+(4)[^14] A Hivatal a névjegyzékbe vétellel egyidejűleg névjegyzéki jelölést ad.
 
-(5)[^14] A természetes személy energetikai szakreferens engedély iránti kérelmének tartalmaznia kell
+(5)[^15] A természetes személy energetikai szakreferens engedély iránti kérelmének tartalmaznia kell
 
 a) a névjegyzékben feltüntetendő, az energiahatékonyságról szóló 2015. évi LVII. törvény 21/B. § (7) bekezdés a)–d) pontja szerinti adatait,
 
@@ -22,7 +22,7 @@ f) erkölcsi bizonyítványát, valamint
 
 g) nyilatkozatát a kérelem tartalmának valódiságáról, a névjegyzékbe vételi feltételek teljesítéséről, valamint a csatolt iratmásolatok valódiságáról.
 
-(6)[^15] Az energetikai szakreferens szervezet engedély iránti kérelmének tartalmaznia kell
+(6)[^16] Az energetikai szakreferens szervezet engedély iránti kérelmének tartalmaznia kell
 
 a) a névjegyzékben feltüntetendő adatait,
 
@@ -32,12 +32,12 @@ c) igazolását a regisztrációs díj megfizetéséről,
 
 d) nyilatkozatát a kérelem tartalmának valódiságáról, a névjegyzékbe vételi feltételek teljesítéséről, valamint a csatolt iratmásolatok valódiságáról.
 
-(7)[^16] A Hivatal kétség esetén bekérheti az eredeti dokumentumokat is.
+(7)[^17] A Hivatal kétség esetén bekérheti az eredeti dokumentumokat is.
 
-(8)[^17] A határon átnyúló energetikai szakreferensi szolgáltatásnyújtás engedélyezésére vonatkozóan a 27. § rendelkezései irányadók.
+(8)[^18] A határon átnyúló energetikai szakreferensi szolgáltatásnyújtás engedélyezésére vonatkozóan a 27. § rendelkezései irányadók.
 
-[^13]: A 7/B. § (4) bekezdését a 80/2019. (IV. 15.) Korm. rendelet 36. §-a iktatta be.
-[^14]: A 7/B. § (5) bekezdését a 80/2019. (IV. 15.) Korm. rendelet 36. §-a iktatta be.
-[^15]: A 7/B. § (6) bekezdését a 80/2019. (IV. 15.) Korm. rendelet 36. §-a iktatta be.
-[^16]: A 7/B. § (7) bekezdését a 80/2019. (IV. 15.) Korm. rendelet 36. §-a iktatta be.
-[^17]: A 7/B. § (8) bekezdését a 80/2019. (IV. 15.) Korm. rendelet 36. §-a iktatta be.
+[^14]: A 7/B. § (4) bekezdését a 80/2019. (IV. 15.) Korm. rendelet 36. §-a iktatta be.
+[^15]: A 7/B. § (5) bekezdését a 80/2019. (IV. 15.) Korm. rendelet 36. §-a iktatta be.
+[^16]: A 7/B. § (6) bekezdését a 80/2019. (IV. 15.) Korm. rendelet 36. §-a iktatta be.
+[^17]: A 7/B. § (7) bekezdését a 80/2019. (IV. 15.) Korm. rendelet 36. §-a iktatta be.
+[^18]: A 7/B. § (8) bekezdését a 80/2019. (IV. 15.) Korm. rendelet 36. §-a iktatta be.
