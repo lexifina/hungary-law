@@ -1,1 +1,3 @@
-2. § A Rendelet 2. melléklet XII. pont 1. sorában a „Somogy Megyei Beruházásszervező” szövegrész helyébe a „Somogyi Beruházásszervező” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
