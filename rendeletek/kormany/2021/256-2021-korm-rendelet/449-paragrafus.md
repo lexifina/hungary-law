@@ -15,19 +15,3 @@
 7. a támogatási arányt,
 
 8. az elszámolás típusát,
-
-9. az előleg mértékét és összegét,
-
-10. a projekt megvalósítása során korábban felmerült problémák, szabálytalanságok számát,
-
-11. a kedvezményezett más projektjei kapcsán felmerült szabálytalanságokat és azok számát,
-
-12. a projekt megvalósításának jelentős elmaradását a tervezett ütemtervhez képest,
-
-13. az előző helyszíni ellenőrzés óta eltelt időt,
-
-14. az audit hatóság ellenőrzései során megállapított szabálytalanságokat és kockázatokat,
-
-15. a projekt életútja során bekövetkezett jogutódlás vagy projekt-átadás miatti változásokat,
-
-16. a projektmenedzsment költségek javára történt átcsoportosítást az elszámolható összköltségen belül.
