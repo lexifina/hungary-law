@@ -6,6 +6,6 @@
 
 (4) Az elfogadott észrevételeket a vizsgálatvezető átvezeti az ellenőrzési jelentéstervezeten. Az érintettek észrevételeit és a vizsgálatvezető válaszát csatolni kell az ellenőrzés dokumentációjához.
 
-(5)[^18] Ha az érintett a megállapításokat vitatja, bármelyik fél kezdeményezésére egyeztető megbeszélést kell tartani. Az egyeztető megbeszélésről jegyzőkönyv készül, amely tartalmazza a megbeszélés eredményét. Ha az egyeztetések ellenére véleménykülönbség marad fenn a belső ellenőrzés és az ellenőrzött fél között, úgy az ellenőrzött szervezeti egység vezetőjének különvéleményét a belső ellenőrzés megjeleníti a belső ellenőrzési jelentésben. Az érintettek észrevételeit, illetve a belső ellenőrzési vezető válaszát csatolni kell az ellenőrzés dokumentációjához.
+(5)[^20] Ha az érintett a megállapításokat vitatja, bármelyik fél kezdeményezésére egyeztető megbeszélést kell tartani. Az egyeztető megbeszélésről jegyzőkönyv készül, amely tartalmazza a megbeszélés eredményét. Ha az egyeztetések ellenére véleménykülönbség marad fenn a belső ellenőrzés és az ellenőrzött fél között, úgy az ellenőrzött szervezeti egység vezetőjének különvéleményét a belső ellenőrzés megjeleníti a belső ellenőrzési jelentésben. Az érintettek észrevételeit, illetve a belső ellenőrzési vezető válaszát csatolni kell az ellenőrzés dokumentációjához.
 
-[^18]: A 22. § (5) bekezdése a 132/2023. (IV. 18.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^20]: A 22. § (5) bekezdése a 132/2023. (IV. 18.) Korm. rendelet 27. §-ával megállapított szöveg.

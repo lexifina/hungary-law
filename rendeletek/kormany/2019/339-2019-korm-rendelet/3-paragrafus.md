@@ -16,4 +16,6 @@ kialakításáért, működtetéséért és fejlesztéséért.
 
 (2) A belső kontrollrendszer kialakítása és fejlesztése során a köztulajdonban álló gazdasági társaság első számú vezetője figyelembe veszi a társaság legfőbb szerve, a tulajdonosi joggyakorló, a felügyelőbizottság, valamint a külső ellenőrzés és a belső ellenőrzés által a nemzetközi és hazai standardok és jó gyakorlatok ismeretében megfogalmazott ajánlásokat és javaslatokat.
 
-(3) A köztulajdonban álló gazdasági társaság első számú vezetője a köztulajdonban álló gazdasági társaság belső kontrollrendszerét – a szektor specifikus eltérések figyelembevételével – az állami vagyon felügyeletéért felelős miniszter által az államháztartásért felelős miniszter egyetértésével közzétett irányelv megfelelő alkalmazásával alakítja ki és működteti.
+(3)[^4] A köztulajdonban álló gazdasági társaság első számú vezetője a köztulajdonban álló gazdasági társaság belső kontrollrendszerét – a szektor specifikus eltérések figyelembevételével – az államháztartásért felelős miniszter által – a tulajdonosi jogokat gyakorló miniszterek véleményének figyelembevételével – közzétett irányelv megfelelő alkalmazásával alakítja ki és működteti.
+
+[^4]: A 3. § (3) bekezdése az 560/2023. (XII. 14.) Korm. rendelet 20. § 1. pontja szerint módosított szöveg.
