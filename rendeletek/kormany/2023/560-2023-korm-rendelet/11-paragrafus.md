@@ -1,21 +1,20 @@
-## szerint módosul.
-
 11. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet
 
-1. [^8]
+1. [^12]
 
-2. [^9]
+2. [^13]
 
-3. [^10]
+3. [^14]
 
-4. [^11]
+4. [^15]
 
-5. [^12]
+5. [^16]
 
-6. 150. § (1) bekezdés i) pontjában a „122/A. § (2) bekezdés a) pontja” szövegrész helyébe a „122/A. § (2) bekezdés a) pontja, valamint a 126. § (1b) bekezdése” szöveg
+6. [^17]
 
-[^8]: A 11. § 1. pontja a 21. § (3) bekezdés alapján 2024. január 1-jén lép hatályba.
-[^9]: A 11. § 2. pontja a 21. § (3) bekezdés alapján 2024. január 1-jén lép hatályba.
-[^10]: A 11. § 3. pontja a 21. § (3) bekezdés alapján 2024. január 1-jén lép hatályba.
-[^11]: A 11. § 4. pontja a 21. § (3) bekezdés alapján 2024. január 1-jén lép hatályba.
-[^12]: A 11. § 5. pontja a 21. § (3) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^12]: A 11. § 1. pontja a 21. § (3) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^13]: A 11. § 2. pontja a 21. § (3) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^14]: A 11. § 3. pontja a 21. § (3) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^15]: A 11. § 4. pontja a 21. § (3) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^16]: A 11. § 5. pontja a 21. § (3) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^17]: A 11. § 6. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

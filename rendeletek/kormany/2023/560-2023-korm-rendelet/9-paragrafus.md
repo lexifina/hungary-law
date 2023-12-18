@@ -1,3 +1,3 @@
-9. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 126. §-a a következő (1b) bekezdéssel egészül ki:
+9. §[^10]
 
-„(1b) Ha az (1a) bekezdés szerint a fejezeti kezelésű előirányzatokhoz kapcsolódó fizetési számla egyenlege a tárgyév utolsó kincstári napján történő előirányzat-felhasználási keret folyósítását követően negatív összegű, a Kincstár a tárgyév utolsó kincstári napján a fizetési számla negatív és nulla egyenlege közötti különbözetet a Kincstári Egységes Számla terhére megelőlegezi. A tárgyévet követő évben a Kincstár jogosult ezen összeggel a fejezeti kezelésű előirányzatok fizetési számláját megterhelni.”
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

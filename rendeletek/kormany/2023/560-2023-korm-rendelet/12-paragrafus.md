@@ -1,7 +1,5 @@
 ## lép.
 
-12. § Hatályát veszti az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet
+12. §[^18]
 
-1. 113. § (4) bekezdése és
-
-2. 176. § (29) bekezdése.
+[^18]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
