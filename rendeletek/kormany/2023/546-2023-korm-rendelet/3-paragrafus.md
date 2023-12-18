@@ -1,3 +1,3 @@
-3. § Az Ehat. Vhr. a következő 28/B. §-sal egészül ki:
+3. §[^4]
 
-„28/B. § A 27/D. § szerinti szabályzati bizottság létrehozására első alkalommal a 2024. évre vonatkozóan kerül sor.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-1. § Az energiahatékonyságról szóló törvény végrehajtásáról szóló 122/2015. (V. 26.) Korm. rendelet (a továbbiakban: Ehat. Vhr.) 1. §-a a következő 8. ponttal egészül ki:
+1. §[^2]
 
-(E rendelet alkalmazásában:)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

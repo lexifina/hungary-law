@@ -1,1 +1,3 @@
-4. § Hatályát veszti az Ehat. Vhr. 11. § (3) bekezdésében a „Magyar Energetikai és Közmű-szabályozási” és az „(a továbbiakban: Hivatal)” szövegrész.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
