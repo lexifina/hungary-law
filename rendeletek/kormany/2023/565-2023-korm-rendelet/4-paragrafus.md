@@ -1,3 +1,3 @@
-4. § A 256/2021. (V. 18.) Korm. rendelet a következő 530/I. §-sal egészül ki:
+4. §[^5]
 
-„530/I. § E rendeletnek a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet, valamint a 2021–2027 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 256/2021. (V. 18.) Korm. rendelet módosításáról szóló 565/2023. (XII. 14.) Korm. rendelettel [a továbbiakban: 565/2023. (XII. 14.) Korm. rendelet] megállapított 397/A. §-át az 565/2023. (XII. 14.) Korm. rendelet hatálybalépését megelőzően megkezdett és az 565/2023. (XII. 14.) Korm. rendelet hatálybalépésekor még folyamatban lévő eljárásokban is alkalmazni kell.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
