@@ -1,5 +1,3 @@
-## „15. alállomás: olyan villamos hálózati csomópont, amely transzformátort is tartalmaz.”
+2. §[^3]
 
-2. § A Rendelet 13. alcím címe helyébe a következő alcím cím lép:
-
-„13. A betáplálási irányú és a nagyfeszültségű hálózaton vételezési irányú csatlakozást igénylő által fizetendő csatlakozási díj alkalmazásának szabályai”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

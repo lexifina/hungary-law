@@ -1,3 +1,3 @@
-7. § A Rendelet 33. § (2) bekezdése a következő c) ponttal egészül ki:
+7. §[^8]
 
-(A csatlakozást igénylőnek nem kell közcélú vezeték díjat fizetnie)
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

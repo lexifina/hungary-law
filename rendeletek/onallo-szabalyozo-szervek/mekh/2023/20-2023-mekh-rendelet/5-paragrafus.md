@@ -1,3 +1,3 @@
-5. § A Rendelet 31. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
+5. §[^6]
 
-(Csatlakozási alapdíjat nem fizet)
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

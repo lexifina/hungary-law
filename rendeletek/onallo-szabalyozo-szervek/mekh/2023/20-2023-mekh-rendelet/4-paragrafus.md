@@ -1,5 +1,3 @@
-4. § A Rendelet VIII. fejezet címe helyébe a következő fejezetcím lép:
+4. §[^5]
 
-„VIII. Fejezet
-
-A KÖZÉP- VAGY KISFESZÜLTSÉGŰ KÖZCÉLÚ HÁLÓZATON VÉTELEZÉSI IRÁNYÚ CSATLAKOZÁST IGÉNYLŐ ÁLTAL FIZETENDŐ CSATLAKOZÁSI DÍJ ALKALMAZÁSÁNAK SZABÁLYAI”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

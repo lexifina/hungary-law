@@ -1,7 +1,3 @@
-13. § Hatályát veszti a Rendelet
+13. §[^13]
 
-a) 28. §-a,
-
-b) 29. § (2) bekezdésében az „a rendszerhasználókra vonatkozó,” szövegrész,
-
-c) 44. § (2) bekezdése.
+[^13]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
