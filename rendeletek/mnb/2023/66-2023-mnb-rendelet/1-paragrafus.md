@@ -1,0 +1,1 @@
+1. § E rendeletet kell alkalmazni a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 174/A. §-ában meghatározott informatikai rendszer (a továbbiakban: rendszer) működtetésének minimum követelményeire, auditálásának módjára, valamint az e rendszer útján végzett adat továbbításra vonatkozóan.

@@ -1,0 +1,3 @@
+4. § (1) A rendszer megfelelő működéséhez szükséges informatikai infrastruktúra (beleértve a hardver és szoftver komponenseket) biztosítása a hitelintézet, a biztosító és az MNB feladata a saját informatikai infrastruktúrájukba telepítendő rendszerkomponensek vonatkozásában. A rendszer műszaki kereteit, ennek részeként a telepítendő rendszerkomponenseket a rendszer dokumentációja határozza meg, amelyet az MNB kérésre a hitelintézet, illetve a biztosító rendelkezésére bocsát.
+
+(2) A rendszer komponensei az MNB-nél, a biztosítóknál és hitelintézeteknél helyezkednek el, a biztosítók közvetlenül, a hitelintézetek az MNB-n keresztül közvetetten kapcsolódnak a rendszerhez.
