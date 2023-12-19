@@ -5,8 +5,3 @@
 ## m) irányítja]
 
 ## „ma) a Kormányzati Informatikai Fejlesztési Ügynökséget,”
-
-9. §[^17] A Kormányzati Informatikai Fejlesztési Ügynökségről szóló 268/2010. (XII. 3.) Korm. rendelet módosításáról szóló 268/2013. (VII. 11.) Korm. rendelettel (a továbbiakban: Mód. rendelet) megállapított a 2. § (1) és (3) bekezdésében foglalt rendelkezést a Mód. rendelet hatályba lépését[^18] követően létrejött elnöki és elnökhelyettesi megbízásokra kell alkalmazni.
-
-[^17]: A 9. §-t a 268/2013. (VII. 11.) Korm. rendelet 5. §-a iktatta be.
-[^18]: A hatálybalépés napja: 2013. július 14.
