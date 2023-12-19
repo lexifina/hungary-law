@@ -6,7 +6,7 @@ a) a kormányzati adatközponti szolgáltatásokat nyújtó központi szolgálta
 
 b)[^1] a kormányzati adatközponti szolgáltatások igénybevételére vagy igénybevételének vizsgálatára kötelezett felhasználókra (a továbbiakban együtt: kötelezett felhasználó);
 
-c)[^2]
+c)[^2] a kormányzati célú hálózatokról szóló 346/2010. (XII. 28.) Korm. rendelet 4. § (1) bekezdése alapján a nemzeti távközlési gerinchálózat igénybevételére jogosult és e rendelet alapján a kormányzati adatközponti szolgáltatások igénybevételének vizsgálatára kötelezett felhasználónak nem minősülő szervekre (a továbbiakban: vizsgálatra kötelezett felhasználónak nem minősülő felhasználó);
 
 d) a kormányzati adatközponti szolgáltatásokkal érintett természetes személyekre, jogi személyekre és egyéb szervezetekre
 
@@ -23,7 +23,7 @@ a)[^6] a polgári nemzetbiztonsági, honvédelmi, katonai nemzetbiztonsági, ren
 b) a védett érdeket érintő feladatokat ellátó szervezetek körébe nem tartozó szervek rendszereivel kapcsolatos fejlesztéseire, amelyek olyan kódolási, rendszerkapcsolati, működési-logikai, illetve egyéb fejlesztés-technológiai megoldásokkal készültek, vagy ilyen megoldásokat tartalmaznak, amelyek mások általi megismerése közvetlenül sértheti vagy veszélyeztetheti a védett érdekeket.
 
 [^1]: [Az 1. § (1) bekezdés b) pontjában a 310/2023. (VII. 14.) Korm. rendelet 14. § a) pontja által elrendelt módosítás, amely szerint hatályát veszti az „az igénybevételére vagy” szövegrész, nem vezethető át.]
-[^2]: Az 1. § (1) bekezdés c) pontját a 310/2023. (VII. 14.) Korm. rendelet 14. § b) pontja hatályon kívül helyezte.
+[^2]: Az 1. § (1) bekezdés c) pontját a 310/2023. (VII. 14.) Korm. rendelet 14. § b) pontja hatályon kívül helyezte, újonnan az 570/2023. (XII. 18.) Korm. rendelet 3. § (1) bekezdése iktatta be.
 [^3]: Az 1. § (1) bekezdés e) pontját a 618/2022. (XII. 29.) Korm. rendelet 17. § (1) bekezdése iktatta be.
 [^4]: Az 1. § (2) bekezdése a 310/2023. (VII. 14.) Korm. rendelet 7. §-ával megállapított szöveg. [Ugyanezen módosító rendelet 14. § c) pontja által elrendelt módosítás, amely szerint hatályát veszti az „igénybevételt vagy” szövegrész, nem vezethető át.]
 [^5]: Az 1. § (3) bekezdését a 618/2022. (XII. 29.) Korm. rendelet 17. § (2) bekezdése iktatta be.
