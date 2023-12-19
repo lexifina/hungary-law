@@ -1,0 +1,1397 @@
+# A Kormány 1580/2023. (XII. 19.) Korm. határozata
+
+Magyar Közlöny 2023. évi 183. szám, 2023. december 19. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/Qrpp3wFXdPmLUVLB2YUD657a07733b661/dokumentumok/ef21343541b4f51ba2bbea199c4bc0e0ed340b85/letoltes)
+
+---
+
+A Kormány 1580/2023. (XII. 19.) Korm. határozata
+a 2024. évi határátlépéssel járó csapatmozgások engedélyezéséről
+1. A Kormány a határátlépéssel járó csapatmozgások engedélyezésének kormányzati feladatairól szóló
+190/2000. (XI. 14.) Korm. rendelet 2. § (1) bekezdése alapján engedélyezi az 1. melléklet szerinti, 2024. évi
+gyakorlatokhoz, kiképzésekhez és egyéb katonai tevékenységekhez (a továbbiakban együtt: gyakorlat) kapcsolódó
+határátlépéssel járó csapatmozgásokat.
+2. Az 1. pont szerinti engedély a Magyar Honvédség gyakorlaton való részvételének, a gyakorlaton részt vevő külföldi
+fegyveres erők államhatáron való átlépésének és az ország területén történő átvonulásának, illetve átrepülésének
+engedélyezését is jelenti, ha az engedélyezés feltételei egyébként fennállnak.
+3. Az 1. mellékletben megjelölt, a Magyar Honvédséghez és a külföldi fegyveres erőkhöz tartozó kontingensek
+küldése, fogadása, illetve átvonulása – az adott gyakorlaton való részvételhez szükséges és indokolt mennyiségű –
+saját rendszeresített gép- és harcjárműveikkel, híradó és kommunikációs eszközeikkel, fegyverzetükkel, lőszer- és
+robbanóanyag-ellátmányukkal, felszerelésükkel és a szállításukhoz szükséges járművekkel történhet.
+4. Ha a gyakorlat jellege azt indokolja, az 1. pont szerinti engedély az 1. mellékletben meghatározott időtartamokon
+belül, a résztvevők – a vonatkozó összlétszám kereteit meg nem haladó – váltása érdekében történő, többszöri
+határátlépésére is vonatkozik.
+5. A Kormány hozzájárul ahhoz, hogy az 1. melléklet 1. pontjában foglalt táblázat 17., 18., 21., 28., 56. sora, valamint
+az 1. melléklet 2. pontjában foglalt táblázat 5., 13., 18., 24., 72., 74. sora szerinti nemzetközi gyakorlat Magyarország
+területén – a vagyonkezelővel vagy a tulajdonossal való előzetes megállapodás függvényében – a Honvédelmi
+Minisztérium vagyonkezelésében lévő ingatlanon kívül is végrehajtható.
+6. Ez a határozat 2024. január 1-jén lép hatályba.
+7. Hatályát veszti a 2023. évi határátlépéssel járó csapatmozgások engedélyezéséről szóló 1583/2022. (XI. 30.)
+Korm. határozat.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet az 1580/2023. (XII. 19.) Korm. határozathoz
+A 2024. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
+1. A Magyar Honvédség részvételével tervezett NATO, EU gyakorlatok és kiképzési rendezvények, amelyek külföldi fegyveres erők átvonulásával is járhatnak
+A B C D E F G H
+A gyakorlat megnevezése Felelős A gyakorlat jellege
+A gyakorlat tervezett helye
+(ország)
+A gyakorlat tervezett
+időpontja
+(negyedév)
+Külföldi
+helyszín
+esetén
+MH létszám
+(fő)
+legfeljebb
+Magyarországi
+helyszín esetén
+résztvevő külföldi
+fegyveres erő
+létszáma
+(fő)
+legfeljebb
+Magyarországi
+áthaladás esetén
+áthaladó külföldi
+fegyveres erő
+létszáma
+(fő)
+legfeljebb
+
+AIR FIELD MANAGEMENT/
+KERESZTKISZOLGÁLÁS
+MH LEP
+légierő/harcászati
+szintű gyakorlat/
+LIVEX/AIREX
+Németország,
+Csehország
+II. és IV. 40 50
+2 AVANGER TRIAD HQ MND-C
+USAREUR-AF
+törzsvezetési
+gyakorlata
+Németország,
+Baltikum
+III. 5
+3 BRAVE BEDUIN MH SZFP
+CBRN törzsvezetési
+gyakorlat
+Dánia II. 5
+4 BRAVE WARRIOR-EU24 MH SZFP
+harcászati szintű
+EU gyakorlat/LIVEX
+Magyarország III–IV. 1000
+5 BREAKTHROUGH MH SZFP tűztámogató gyakorlat Magyarország III–IV. 100
+6 CASUALTY MOVE MH EK
+egészségügyi
+gyakorlat
+NATO- és
+EU-tagállamok
+(Észtország)
+I–IV. 30 150
+7 CAPABLE LOGISTICAN HVK LCSF logisztikai gyakorlat
+NATO- és
+EU-tagállamok
+(Litvánia)
+I–IV. 15
+8 CLEARANCE DIVER MH SZFP
+tűzszerész
+búvárgyakorlat
+Magyarország I–IV. 30
+
+9 CYBER COALITION KNBSZ
+kibervédelmi
+gyakorlat
+Németország,
+Hollandia,
+Észtország,
+Magyarország
+I–IV. 14 90
+
+CRISIS MANAGEMENT
+EXERCISE
+Short Notice Exercise
+HVK KIKCSF
+hadászati szintű
+törzsgyakorlás
+NATO- és
+EU-tagállamok
+III–IV. 30
+11 CROSSED SWORDS KNBSZ
+kibervédelmi
+gyakorlat
+NATO-tagállamok I–IV. 10
+12 CYBER EUROPE KNBSZ
+kibervédelmi
+gyakorlat
+EU-tagállamok III–IV. 10 40
+13 CYBER gyakorlatok KNBSZ
+kibervédelmi
+gyakorlat
+NATO- és
+EU-tagállamok,
+Magyarország
+I–IV. 6 10
+14 CYBER PHALANX KNBSZ
+kibervédelmi
+gyakorlat
+NATO- és
+EU-tagállamok
+III–IV. 6
+15 CYBER TESLA KNBSZ
+kibervédelmi
+gyakorlat
+NATO- és
+EU-tagállamok,
+Magyarország
+III–IV. 18 10
+16 EUBG kiképzési rendezvények HVK ÖMVIK EUBG gyakorlat
+Németország,
+Olaszország
+I–IV. 235
+
+EDA Helicopter Exercise
+Program
+MH LEP
+légierő/harcászati
+szintű gyakorlat/
+LIVEX/AIREX
+Magyarország
+és NATO- és
+EU-tagállamok
+I–IV. 50 50
+
+EDA Helikopteres kiképzések
+(Helicopter Tactical Instructor
+Course)
+MH LEP
+légierő/harcászati
+szintű gyakorlat/
+LIVEX/AIREX
+Magyarország
+és NATO- és
+EU-tagállamok
+I–IV. 300 300
+
+EDA
+HOT BLADE
+helikopter gyakorlat
+MH LEP
+légierő/harcászati
+szintű gyakorlat/
+LIVEX/AIREX
+Portugália II–III. 40
+20 EDA MilCERT KNBSZ
+kibervédelmi
+gyakorlat
+EU-tagállamok I–IV. 10
+
+EDA Multinational Helicopter
+Training Centre
+MH LEP
+légierő/harcászati
+szintű gyakorlat/
+LIVEX/AIREX
+Magyarország
+és NATO- és
+EU-tagállamok
+I–IV. 40 40
+
+22 ENGINEER THUNDER MH SZFP műszaki gyakorlat Litvánia I–IV. 20
+23 EU LIVEX/BRWA24-EU HVK KIKCSF
+harcászati szintű, EU
+LIVEX gyakorlat
+Magyarország III–IV. 500
+24 EUROPEAN FALCON HVK ÖMVIK
+harcászati szintű, EU
+LIVEX gyakorlat
+Németország III–IV. 200 100
+25 EU MILEX 24 HVK KIKCSF
+törzsvezetési
+gyakorlat/CAX/CPX
+Belgium/
+Franciaország,
+EU-tagállamok
+II. 100 100
+26 EU MULTILAYER HVK KIKCSF
+válságkezelési
+gyakorlat
+NATO- és
+EU-tagállamok
+I–II. 10
+27 EUROPEAN CHALLANGE MH SZFP
+BG 25 minősítő
+gyakorlat
+Németország IV. 200
+
+EUROPEAN DEFENCE AGENCY
+PERSONNEL RECOVERY-
+EDUCATION & TRAINING
+COURSES
+MH LEP
+légierő/harcászati
+szintű gyakorlat/
+LIVEX/AIREX
+NATO- és
+EU-tagállamok,
+Magyarország
+I–IV. 50 50
+29 GRAND QUADRIGA HQ MND-C
+többnemzeti
+törzsvezetési gyakorlat
+Németország II. 5
+30 GRIFFIN FORCE NFIU HUN RSOM gyakorlat Lengyelország I–IV. 5
+
+JLSG HQ törzsmegerősítő
+tartalék kiképzés
+HVK LCSF logisztikai kiképzés Németország III. 10
+
+Különleges műveleti kiképzési
+rendezvények, gyakorlatok
+R-SOCC, felajánlott
+képességek, közös
+rohamlövész, légideszant,
+KM csoport/részleg
+kiképzések, STEADFAST
+gyakorlatsorozathoz
+kapcsolódó gyakorlatok
+MH ÖKMP
+különleges műveleti
+gyakorlat
+Amerikai Egyesült
+Államok, Belgium,
+Lengyelország,
+Ausztria,
+Magyarország,
+Németország,
+NATO-, EU- és
+V4-tagállamok
+I–IV. 100 100
+33 LION EFFORT MH LEP
+légierő/harcászati
+szintű gyakorlat/
+LIVEX/AIREX
+Csehország II. 80
+34 LOCKED SHIELDS KNBSZ
+kibervédelmi
+gyakorlat
+Észtország,
+Magyarország
+I–IV. 20 20
+
+35 LOYAL LEDA 24 HVK LCSF
+NATO LANDCOM
+törzsvezetési gyakorlat
+NATO-tagállamok,
+Lengyelország
+I–II. 20
+
+LORD MOUNTAIN
+Helikopteres Magashegyi
+repülőkiképzés
+MH LEP
+légierő/harcászati
+szintű gyakorlat/
+LIVEX/AIREX
+NATO- és
+EU-tagállamok
+I–IV. 20
+
+MATC (Multinational Aviation
+Training Centre)
+légierő gyakorlatok
+MH LEP
+légierő/harcászati
+szintű gyakorlat/
+LIVEX/AIREX/SIMEX
+NATO- és
+EU-tagállamok
+I–IV. 70
+
+MEDEVAC gyakorlatok és
+kiképzések
+(„Emergency Medical
+Multinational Team”
+összekovácsoló gyakorlat)
+MH EK
+MEDEVAC helikopter
+gyakorlat
+Belgium,
+Németország,
+Hollandia,
+Olaszország,
+Magyarország,
+Egyesült Királyság
+I–IV. 20 180
+39 MOVCON MILU MH LTP
+szállítás tervezői
+gyakorlat
+NATO- és
+EU-tagállamok
+I–IV. 5
+
+MULTINATIONAL AIR GROUP
+légierő harcászati gyakorlat
+MH LEP
+légierő/harcászati
+szintű gyakorlat/
+LIVEX/AIREX
+Németország I–IV. 90
+
+NATINAMDS gyakorlatok
+(RAMSTEIN AMBITION,
+LEGACY, TORREJON
+ADVANTAGE, KALKAR SKY,
+DEU JFAC felajánlás)
+MH LEP
+légierő/harcászati
+szintű gyakorlat/
+LIVEX/AIREX/CAX/CPX
+NATO- és
+EU-tagállamok
+I–IV. 250
+
+NATO C-IED felkészítési
+rendezvények, gyakorlatok
+MH HTP felkészítési gyakorlat
+NATO- és
+EU-tagállamok,
+Magyarország
+I–IV. 50 50
+
+NATO COALITION WARRIOR
+INTEROPERABILITY EXERCISE
+(CWIX)
+HVK HICSF
+interoperabilitási
+gyakorlat
+Lengyelország II. 60 1000
+44 NATO METOC Seminar MH LEP
+meteorológiai
+gyakorlat
+Belgium I–IV. 5 30
+
+NATO RESPONSE FORCE (NRF)
+CBRN felkészítés
+MH SZFP CBRN felkészítés
+Németország,
+NATO- és
+EU-tagállamok
+I–IV. 30
+
+NATO RESPONSE FORCE (NRF)
+Különleges Művelet készenléti
+szolgálatok felkészülései,
+gyakorlatai
+HVK ÖMVIK
+különleges műveleti
+gyakorlat
+NATO- és
+EU-tagállamok
+I–IV. 300 200
+47 NATO TIGER MEET 2024 MH LEP
+légierő/harcászati
+szintű gyakorlat/
+LIVEX/AIREX
+Németország II. 70
+
+NCO WINTER/SUMMER
+TRAINING
+MH VZLS altiszti kiképzés
+Szlovénia,
+Horvátország
+I–III. 5
+49 NEWFIP (RAMSTEIN GUARD) MH LEP
+légierő/harcászati
+szintű gyakorlat/
+LIVEX/AIREX
+Magyarország,
+Szlovénia
+és NATO-tagállamok
+I–II. 100 300 200
+
+NOBLE/BRILLIANT BLUEPRINT/
+BLISTER
+Table Top Exercise
+HVK HDMCSF törzsvezetési gyakorlat NATO-tagállamok II–IV. 50
+51 NOBLE PARTNER HVK KIKCSF
+törzsvezetési és valós
+végrehajtású gyakorlat
+Georgia II–III. 20
+52 NORTHERN SPIRIT KNBSZ
+többnemzeti
+harcászati gyakorlat
+Izland, Hollandia I–IV. 10
+53 RAMSTEIN FLAG 2024 MH LEP
+légierő/harcászati
+szintű gyakorlat/
+LIVEX/AIREX
+Görögország IV. 70
+
+Sampling and Identification
+of Biological Chemical and
+Radiological Agents (SIBCRA)
+gyakorlat
+MH SZFP SIBCRA gyakorlat
+Olaszország,
+Hollandia
+I–IV. 20
+55 SMART DEFENCE MH SZFP CBRN gyakorlat
+Lengyelország,
+Szlovákia,
+Olaszország,
+Csehország
+I–IV. 10
+56 SOATU nemzetközi kiképzések MH LEP
+légierő/harcászati
+szintű gyakorlat/
+LIVEX/AIREX/CAX/CPX
+NATO- és
+EU-tagállamok,
+Magyarország
+I–IV. 50 50
+57 STEADFAST COBALT NFIU HUN CIS gyakorlat Lengyelország II. 50
+
+58 STEADFAST FLOW NFIU HUN
+NATO, stratégiai,
+mozgástervező,
+CAX gyakorlat
+Törökország III. 10
+59 STEADFAST FOUNT NFIU HUN
+NATO, stratégiai,
+mozgástervező,
+CAX gyakorlat
+Belgium II. 10
+60 STEADFAST INTEREST HQ MND-C
+valós erőkkel
+végrehajtott felderítő
+gyakorlat
+Lengyelország,
+Románia,
+Spanyolország
+I–III. 50
+
+STEADFAST DETERRENCE /
+DUEL
+NFIU HUN
+összhaderőnemi NATO
+Response Force (NRF)
+minősítő gyakorlat
+NATO-tagállamok,
+Norvégia és
+a Baltikum
+II–IV. 150 500
+
+STEADFAST PYRAMID /
+PINNACLE
+HVK KIKCSF
+szeminárium,
+módszertani
+törzsvezetési
+gyakorlás
+NATO- és
+EU-tagállamok
+III. 50 50
+63 SWEEPSTAKES KNBSZ
+interoperabilitási
+gyakorlat
+NATO- és
+EU-tagállamok,
+Szlovénia
+III. 10
+
+TACTICAL LEADERSHIP
+PROGRAM (TLP21)
+harcászati szintű nemzetközi
+repülő képzés
+MH LEP
+légierő/harcászati
+szintű gyakorlat/
+LIVEX/AIREX/CAX/CPX
+Spanyolország I–IV. 50
+65 UNG/VMI NKE
+harcászati szintű
+gyakorlat
+USA, Magyarország III. 5 5
+66 UNIFIED VISION KNBSZ
+többnemzeti,
+többszintű,
+számítógéppel
+támogatott gyakorlat
+NATO- és
+EU-tagállamok,
+Magyarország
+I. és IV. 5 10
+
+2. A Magyar Honvédség és külföldi fegyveres erők részvételével tervezett, két- és többoldalú megállapodásokon alapuló gyakorlatok és kiképzések,
+amelyek külföldi fegyveres erők átvonulásával is járhatnak
+A B C D E F G H
+A gyakorlat megnevezése Felelős A gyakorlat jellege
+A gyakorlat tervezett helye
+(ország)
+A gyakorlat tervezett
+időpontja
+(negyedév)
+Külföldi
+helyszín
+esetén
+MH létszám
+(fő)
+legfeljebb
+Magyarországi
+helyszín esetén
+résztvevő külföldi
+fegyveres erő
+létszáma
+(fő)
+legfeljebb
+Magyarországi
+áthaladás esetén
+áthaladó külföldi
+fegyveres erő
+létszáma
+(fő)
+legfeljebb
+1 ADAPTIVE INTERACTION MH KIBP
+CIMIC törzsvezetési
+gyakorlat
+Olaszország III. 10
+
+ADRIATIC STRIKE (JTAC/CAS)
+gyakorlat
+MH LEP
+légierő/harcászati
+szintű gyakorlat/
+LIVEX/AIREX/CAX/CPX
+Szlovénia II. 15 30
+3 AFRICAN LION MH ÖKMP
+KM harcászati
+és műveleti
+szintű kiképzés,
+törzsgyakorlás és
+gyakorlat
+Marokkó III. 80
+
+AIR TO AIR REFUELING
+RECURRENCY TRAINING
+légi utántöltési gyakorlat
+MH LEP
+légierő/harcászati
+szintű gyakorlat/
+LIVEX/AIREX
+Magyarország,
+NATO- és
+EU-tagállamok
+II. és IV. 40 50
+
+AIR WOLF HUNTING
+Regionális Légi Kutató-mentő
+gyakorlás
+MH LEP
+légierő/harcászati
+szintű gyakorlat/
+LIVEX/AIREX
+Magyarország III. 120
+6 ALLIED SPIRIT MH LTP
+többnemzeti terepen
+végrehajtott gyakorlat
+Németország I. 100
+
+AMPLE STRIKE
+Közvetlen légi támogatás
+(Close Air Support, CAS)
+előkészítésének és
+végrehajtásának gyakorlása
+MH LEP
+légierő/harcászati
+szintű gyakorlat/
+LIVEX/AIREX
+Csehország III. 20
+
+ANAKONDA/DRAGON
+gyakorlat
+HVK KIKCSF harcászati gyakorlat Lengyelország I–III. 50
+
+9 ARDENT DEFENDER MH SZFP tűzszerész gyakorlat Kanada III. 5
+10 ATP-45 MH SZFP
+vegyivédelmi
+gyakorlat
+Magyarország II. 30
+11 BALTIC BARRACKS HQ MND-C
+többnemzeti
+egészségügyi
+gyakorlat
+Lengyelország II. 5
+12 BISON COUNTER MH SZFP
+többnemzeti
+C-IED gyakorlat
+NATO- és
+EU-tagállamok,
+Magyarország
+IV. 30
+13 BLACK SWAN/JACKAL CAVE MH ÖKMP
+különleges műveleti
+gyakorlat
+Magyarország,
+NATO- és
+EU-tagállamok
+I. 200 100
+14 BLASTING CAP MH SZFP
+amerikai–magyar
+tűzszerész közös
+kiképzés
+Németország,
+Magyarország,
+NATO- és
+EU-tagállamok
+I–IV. 25 10
+15 BLONDE AVALANCHE MH SZFP
+a többnemzetiségű
+műszaki zászlóalj
+(TISZA zászlóalj)
+katasztrófa-
+védelmi gyakorlata
+Románia III. 300 300
+
+BLUE HORIZON
+légierő törzsvezetési gyakorlat
+MH LEP
+légierő/harcászati
+szintű gyakorlat/CAX/
+CPX
+Magyarország IV. 40
+
+BOLD QUEST, (DACAS) JTAC
+gyakorlat
+MH LEP
+légierő/harcászati
+szintű gyakorlat/
+LIVEX/AIREX
+NATO- és
+EU-tagállamok,
+Ausztrália
+II. és IV. 15
+18 BRAVE WARRIOR I–II. MH SZFP
+terepen végrehajtásra
+kerülő szárazföldi
+harcászati gyakorlat
+eVA BG gyakorlata
+Magyarország I–IV. 1100
+19 BROKEN WING HM KÁT ALBO
+légiközlekedés
+vészhelyzeti gyakorlat
+Szlovénia III. 2
+
+BULK FUEL INSTALLATION (BFI)
+kiképzések, felkészítések
+MH LTP közös kiképzés
+Németország,
+Magyarország
+I. 50
+
+21 CETATEA HVK HICSF
+vezetés-irányítási
+(Federated Mission
+Network) gyakorlat
+Románia III–IV. 40 3000
+22 CLEVER FERRET NKE
+harcászati szintű,
+számítógéppel
+támogatott
+többnemzeti gyakorlat
+Olaszország/
+Szlovénia/
+Magyarország
+I–IV. 25 20
+23 CORONAT MASK MH SZFP
+vegyivédelmi
+gyakorlat
+Csehország,
+Németország
+I–IV. 50
+
+CROSS LANDING
+román–magyar légi
+kutató-mentő gyakorlat
+MH LEP
+légierő/harcászati
+szintű gyakorlat/
+LIVEX/AIREX
+Magyarország,
+Románia
+I–IV. 30 50
+25 DIGITAL SHIELDS MH KIBP
+többnemzeti,
+kibervédelmi
+gyakorlat
+Magyarország I. 15
+26 DIGITÁLIS CSAPÁS MH KIBP
+többnemzeti
+kiberműveleti
+gyakorlat
+Magyarország IV. 20
+27 DOUBLE EAGLE MH SZFP ABV gyakorlat Szerbia II. 5
+28 DYNAMIC FRONT MH SZFP
+tüzér törzsvezetési
+gyakorlat
+Németország, Dánia I–III. 60
+29 EFES HVK KIKCSF
+törzsvezetési és
+harcászati gyakorlat
+Törökország II. 50
+
+Egyiptomi együttműködés:
+Részvétel a többnemzeti
+együttműködés keretében
+az egyiptomi fegyveres
+erők szervezésében
+végrehajtásra kerülő kiképzési
+rendezvényeken
+HVK KIKCSF közös kiképzés
+Egyiptom/
+Magyarország
+I–IV. 30 20
+
+Ejtőernyős nemzetközi
+kiképzések
+MH LEP
+légierő/harcászati
+szintű gyakorlat/
+LIVEX/AIREX
+NATO- és
+EU-tagállamok
+I–IV. 100
+32 EU RETEX MH SZFP tűzszerész gyakorlat EU-tagországok I–IV. 30
+33 Ferenc József búvárkiképzés KNBSZ búvárkiképzés Horvátország II–III. 20
+
+34 FLINTLOCK MH ÖKMP
+többnemzeti
+KM gyakorlat
+NATO- és
+EU-tagállamok,
+Afrika
+I–III. 50
+35 FORT, FLINTLOCK, COBRA MH ÖKMP
+többnemzeti
+harcászati különleges
+műveleti gyakorlatok
+NATO- és
+EU-tagállamok,
+Afrika,
+Lengyelország,
+Szenegál
+I–IV. 100
+
+Holland–Magyar harcászati
+EHV gyakorlat
+KNBSZ
+harcászati, valós
+erőkkel, terepen
+végrehajtott gyakorlat
+Hollandia I–IV. 30
+
+Horvát–Szlovák–Magyar
+KM búvárkiképzés
+MH SZFP búvárkiképzés
+Horvátország/
+Szlovákia/
+Magyarország
+III–IV. 30 30
+
+HUN-GBR-USA
+(Brit–Magyar–Amerikai) közös
+légierő felkészítés
+(HUNGARY PUMA,
+CENTRAL HAWK,
+CARPATHIAN HAWK,
+FLYING SWORD
+MAGYAR–BRIT REPÜLŐ
+HARCÁSZATI REPÜLŐ
+KIKÉPZÉS)
+MH LEP
+légierő/harcászati
+szintű gyakorlat/
+LIVEX/AIREX
+USA, Egyesült
+Királyság,
+Magyarország
+I–IV. 50 500
+
+HUN-USA közös kiképzés
+többnemzeti részvétellel
+(STEPPE ARCHER)
+HVK KIKCSF
+légierő/harcászati
+szintű gyakorlat/
+LIVEX/AIREX
+Magyarország I–IV. 600
+
+HUN-USA különleges műveleti
+közös kiképzés és felkészítés
+MH ÖKMP
+különleges műveleti
+kiképzés
+NATO- és
+EU-tagállamok
+I–IV. 50
+
+INTERCEPTOR
+Air Policing gyakorlat
+MH LEP
+légierő/harcászati
+szintű gyakorlat/
+LIVEX/AIREX
+Magyarország,
+Románia
+I–IV. 15 15
+
+IRON CAT
+szerb–magyar közös flottilla
+gyakorlat
+MH SZFP harcászati gyakorlat
+Szerbia,
+Magyarország
+III. 55 40
+
+JOLLY VIHAR
+magyar–amerikai közös
+helikopter fedélzetéről
+negyedévente végrehajtott
+éleslövészet és CSAR gyakorlat
+MH LEP
+légierő/harcászati
+szintű gyakorlat/
+LIVEX/AIREX
+Magyarország I–IV. 150
+44 JOINT COOPERATION MH KIBP
+többnemzeti terepen
+végrehajtott
+CIMIC gyakorlat
+Németország II–III. 5
+
+JTAC/SOTAC/TACP előretolt/
+harcászati repülésirányító
+kiképzés
+MH ÖKMP
+légierő/harcászati
+szintű gyakorlat/
+LIVEX/AIREX
+NATO- és
+EU-tagállamok
+I–IV. 60 40
+
+Kadét csapatgyakorlat
+Saint Cyr-i Katonai
+Akadémiával történő
+együttműködés keretében
+cserekiképzés
+MH SZFP közös kiképzés Magyarország I. 50
+
+Különleges Műveleti
+mesterlövész kiképzések
+MH ÖKMP mesterlövész kiképzés
+Magyarország,
+NATO- és
+EU-tagállamok
+I–IV. 25 30
+48 MADRIGAL MH KIBP
+számítógéppel
+támogatott
+törzsvezetési gyakorlat
+Horvátország I. 50
+49 MAGLITE NKE
+többnemzeti
+logisztikai kiképzés
+Nagy-Britannia,
+Magyarország
+II. és IV. 30 30
+
+Magyar–Belga KM/RL
+közös kiképzés és felkészítés
+MH ÖKMP
+különleges műveleti
+kiképzés
+NATO- és
+EU-tagállamok
+I–IV. 50 250
+
+MH hajózó állomány
+magashegyi kondicionáló és
+túlélő kiképzése
+MH LEP túlélő kiképzés Bulgária I–II. 60
+52 MOON STAR MH TVEP
+tartalékos harcászati
+gyakorlat
+Magyarország I–IV. 100
+
+53 NATO-GEORGIA (AGILE SPIRIT) HVK KIKCSF
+többnemzeti
+számítógéppel
+támogatott
+parancsnoki és
+törzsvezetési
+gyakorlat
+Georgia II–III. 20
+54 NEIGHBOURS MH SZFP
+magyar–szerb–
+amerikai szakasz
+szintű cserekiképzés
+Szerbia,
+Magyarország
+II. 50 50
+
+Nemzetközi logisztikai
+törzsfelkészítések és
+gyakorlatok logisztikai
+előkészítése
+HVK LCSF logisztikai gyakorlat
+Belgium, Hollandia,
+Törökország,
+Németország,
+Lengyelország
+I–IV. 50 200
+
+Német–Magyar harcászati
+EHV gyakorlat
+KNBSZ
+harcászati, valós
+erőkkel, terepen
+végrehajtott gyakorlat
+Németország I–IV. 50
+57 OPERATION RESOLUTE CASTLE MH LTP
+amerikai–magyar
+közös műszaki
+gyakorlat
+Magyarország I–IV. 80
+58 OPEN WATER 2024 MH SZFP
+SVK-HUN közös
+búvárkiképzés
+Szlovákia II. 30
+
+Pakisztáni együttműködés:
+Részvétel a többnemzeti
+együttműködés keretében
+a pakisztáni fegyveres
+erők szervezésében
+végrehajtásra kerülő kiképzési
+rendezvényeken
+HVK KIKCSF közös kiképzés
+Pakisztán/
+Magyarország
+I–IV. 30 20
+60 PLATINUM WOLF MH TVEP
+békeműveleti
+harcászati gyakorlat
+Szerbia II–III. 50
+61 POWERFUL WORLD MH KIBP
+harcászati
+törzsgyakorlás
+Csehország IV. 10
+62 PURPLE FIELD MH SZFP CBRN gyakorlat Szerbia II. 50
+63 QUICK RESPONSE HVK ÖMVIK
+EUFOR műveleti
+gyakorlat
+Bosznia-Hercegovina III. 160
+
+64 SABER JUNCTION 24 NKE/LZ
+nagy láthatóságú
+NATO gyakorlat
+Németország I–IV. 150
+65 SAFETY FUEL MH LTP logisztikai gyakorlat
+Németország
+az AIR DEFENDER 24
+gyakorlat keretében
+II–III. 25 35
+66 SAFETY TRANSPORT MH LTP logisztikai gyakorlat
+Németország,
+Magyarország,
+Horvátország
+II. 70 100
+67 SÁRARANY MEZŐ MH SZFP
+vegyivédelmi
+gyakorlat
+Szlovákia I. 50
+68 SAVA STAR MH TVEP
+többnemzeti
+(tartalékos) harcászati
+gyakorlat
+Horvátország,
+Szerbia, Egyesült
+Királyság,
+Magyarország
+I–III. 300 150
+69 SHARP LYNX MH KRE
+többnemzeti (katonai
+rendész) harcászati
+gyakorlat
+V4-tagországok III. 20 60
+70 SLOVAK SHIELD MH SZFP
+V4 harcászati
+gyakorlat
+Szlovákia/
+Magyarország
+II. 150 110
+71 SMS Ferenc József KNBSZ búvárkiképzés Horvátország
+II–III.
+
+72 SOFT CAPS MH KIBP
+nemzetközi CIMIC,
+Kiber és PSYOPS
+gyakorlat
+Magyarország II. 50
+73 SOTAC (JTAC) MH ÖKMP
+többnemzeti
+különleges műveleti
+kiképzés
+NATO- és
+EU-tagállamok
+I–IV. 10
+
+STEADFAST DEFENDER 24
+és DEFENDER EUROPE 24
+gyakorlatsorozat
+(SWIFT RESPONSE, IMMEDIATE
+RESPONSE, SABER GUARDIAN,
+JACKAL STONE, ASTRAL
+KNIGHT)
+MH ÖKMP
+többnemzeti
+harcászati gyakorlat
+NATO-tagállamok II–III. 300 3500 2000
+
+75 STRONG BASTION HVK KIKCSF
+Közép-európai
+Többnemzeti
+Hadosztály-
+parancsnokság
+minősítő gyakorlata
+Magyarország/
+Horvátország,
+Szlovákia
+II. 300 300
+76 STRONG WILL KNBSZ
+harcászati
+szintű, mélységi/
+csapatfelderítő
+szakasz/század szintű,
+nemzetközi gyakorlat
+Magyarország IV. 100
+
+SUMMER RECONNAISSANCE
+TRAINING GROUPING
+MH VZLS
+terepen végrehajtott
+harcászati gyakorlat
+Lengyelország II. 50
+
+Szlovák–Magyar közös
+búvárkiképzés
+MH SZFP közös búvárkiképzés
+Szlovákia,
+Magyarország
+I–III. 12 15
+
+THE CONTRIBUTION OF
+CYBER IN HYBRID CONFLICT
+törzsgyakorlás
+MH KIBP kiber törzsgyakorlás Finnország III. 2
+
+TIMRAC
+CBRN gyakorlat
+MH SZFP
+vegyivédelmi
+gyakorlat
+Ausztria III. 10
+
+TOXIC LANCE
+vegyivédelmi gyakorlat
+MH SZFP
+vegyivédelmi
+gyakorlat
+Szlovákia II. 45
+82 TOXIC VALLEY gyakorlat MH SZFP
+SICA/SIBCRA
+vegyivédelmi
+gyakorlat
+Szlovákia III. 40
+
+Többnemzeti Szárazföldi
+Kötelék (Multinational Land
+Force – MLF) gyakorlatai és
+kiképzési rendezvényei
+MH SZFP harcászati gyakorlat
+Szlovénia,
+Olaszország,
+Magyarország
+I–IV. 350 650
+84 TRIGLAV STAR MH ÖKMP
+terepen végrehajtott
+harcászati gyakorlat
+Szlovénia II. 100
+85 Tűzszerész felkészítés MH SZFP tűzszerész felkészítés
+NATO- és
+EU-tagállamok
+I–IV. 30
+86 US OHNG gyakorlat HVK HDMCSF
+katasztrófavédelmi
+gyakorlat
+Amerikai
+Egyesült Államok,
+Magyarország
+I–IV. 150 80
+
+US OHNG Erők Védelme (FP)
+felkészítés
+HVK HDMCSF harcászati kiképzés
+Amerikai Egyesült
+Államok
+II–IV. 25
+
+US Ridge Runner /
+Northern Strike
+MH ÖKMP SOFEX
+Amerikai Egyesült
+Államok
+II–IV. 30
+89 VALIANT LYNX HQ MND-C
+számítógéppel
+támogatott
+törzsvezetési gyakorlat
+Spanyolország IV. 80
+90 VALIANT PANTHER MH TVEP
+tartalékos képesség
+fejlesztés, nemzetközi
+együttműködés
+keretében harcászati
+gyakorlat
+Magyarország II. 50
+
+V4 EUBG kiképzési
+rendezvények
+MH SZFP harcászati gyakorlat V4-tagországok I–IV. 120 330
+92 V4 JLSG HQ felkészítések HVK LCSF logisztikai kiképzések
+NATO- és
+EU-tagországok
+(V4-nemzetek)
+I–IV. 30
+
+VIGOROUS WARRIOR /
+CLEAN CARE 24
+MH EK
+NATO egészségügyi/
+ABV gyakorlat
+Magyarország,
+NATO- és
+EU-tagállamok
+I–II. 20 2000
+
+WISE FORESIGHT
+román–magyar békefenntartó
+zászlóalj gyakorlata
+MH SZFP harcászati gyakorlat
+Magyarország és
+Románia
+III–IV. 300 100
+
+3. Külföldi fegyveres erők átvonulásával járó műveletek, gyakorlatok és kiképzések
+A B C
+A tevékenység megnevezése
+A feladat tervezett időpontja
+(negyedév)
+Engedélyezett létszám
+(egyidejűleg legfeljebb, főben meghatározva)
+1 ENSZ UNIFIL békefenntartó misszió keretében történő áthaladások I–IV. 500
+2 Iszlám Állam elnevezésű terrorszervezet elleni nemzetközi fellépés keretében történő áthaladások I–IV. 1000
+3 UNFICYP misszió keretében történő áthaladások I–IV. 1000
+4 NATO Iraki Missziója (NMI) keretében történő áthaladások I–IV. 1000
+5 NATO KFOR misszió keretében történő áthaladások I–IV. 1000
+6 EUFOR misszió keretében történő áthaladások I–IV. 1000
+7 EUTM Mali misszió keretében történő áthaladások I–IV. 200
+8 MINURSO Nyugat-Szahara misszió keretében történő áthaladások I–IV. 200
+9 EUNAVFOR MED IRINI misszió keretében történő áthaladások I–IV. 500
+10 EU harccsoport keretében történő áthaladások I–IV. 1000
+11 NATO enhanced Vigilance Activity Battlegroupok (eVA BG) keretében történő áthaladások I–IV. 1000
+
+NATO Response Force (NRF), Very High Readiness Joint Task Force (VJTF) és NATO Readiness
+Initiative (NRI) áthaladási gyakorlatok
+I–IV. 1000
+13 DEFENDER 24 gyakorlatsorozat keretében történő áthaladások I–IV. 1000
+
+NATO 2024. évi Katonai Kiképzés és Gyakorlat Programban szereplő rendezvényeken részt vevő
+erők áthaladása
+I–IV. 500
+15 EU 2024. évi Gyakorlat Programban szereplő rendezvényeken részt vevő erők áthaladása I–IV. 500
+
+Az Európában Települő Amerikai Parancsnokság által 2024. évben végrehajtásra tervezett
+gyakorlatokon részt vevő más külföldi erők áthaladása
+I–IV. 1000
+17 BARKHANE művelet keretében történő áthaladások I–IV. 500
+18 MINUSCA Közép-afrikai Köztársaság misszió keretében történő áthaladások I–IV. 500
+19 MFO békefenntartó misszió keretében történő áthaladások I–IV. 1000
+20 EUTM RCA Közép-afrikai Köztársaság misszió keretében történő áthaladások I–IV. 500
+21 EUMM Grúzia misszió keretében történő áthaladások I–IV. 200
+22 Szövetséges felderítő légijárművek áthaladása a magyar légtérben I–IV. 150
+23 Joint Combined Exchange Training szövetségesi gyakorlatok I–IV. 1000
+
+4. Magyarországon települő nemzetközi katonai szervezetekkel kapcsolatos csapatmozgások
+A B C
+A tevékenység megnevezése
+A feladat tervezett időpontja
+(negyedév)
+Külföldi fegyveres erő létszáma
+(egyidejűleg legfeljebb, főben meghatározva)
+
+A Pápán települő Stratégiai Légiszállítási Képességgel kapcsolatos katonai szállítás jellegű
+csapatmozgások
+I–IV. 1000
+
+A Pápán települő Stratégiai Légiszállítási Képességgel (SAC) kapcsolatos, a magyar felségjelű
+légijárművekhez kötődő kiképzési jellegű csapatmozgások, ideértve a SAC nemzetekhez tartozó
+legfeljebb 10 légijármű részvételét
+I–IV. 500
+3 DCM-E csapatmozgások I–IV. 100
+4 DCM-E által szervezett magyarországi gyakorlatok I–IV. 300
+5 NFIU HUN csapatmozgások I–IV. 100
+6 NFIU HUN által szervezett magyarországi gyakorlatok I–IV. 300
+7 HQ MND-C csapatmozgások I–IV. 300
+8 HQ MND-C által szervezett magyarországi gyakorlatok I–IV. 500
+
+2. melléklet az 1580/2023. (XII. 19.) Korm. határozathoz
+A Korm. határozatban szereplő rövidítések jegyzéke
+ 1.
+ABV: Atom-, Biológiai és Vegyi
+ 2.
+AIREX: Air Exercise
+ 3.
+ATP: Allied Tactical Publication (Szövetséges Harcászati Kiadvány)
+ 4.
+BFI: Bulk Fuel Installation (a folyékony üzemanyagok tárolására szolgáló létesítmények – Tábori üzemanyag
+raktárak)
+ 5.
+BRWA24: Brave Warrior 2024 gyakorlat
+ 6.
+CAS: Close Air Support (közvetlen légi támogatás)
+ 7.
+CAX: Computer Assisted Exercise
+ 8.
+CBRN: Chemical, Biological, Radiological and Nuclear (vegyi, biológiai, radiológiai és nukleáris)
+ 9.
+CIMIC: Civil-military Cooperation (Civili-katonai együttműködés)
+10.
+CIS: Communication and Information Systems (Kommunikációs és Információs Rendszerek)
+11.
+CPX: Command Post Exercise
+12.
+CSAR gyakorlat: Combat Search and Rescue (Harci Kutató-Mentő gyakorlat)
+13.
+DACAS: Digitally Aided Close Air Support (Digitálisan támogatott közvetlen légi támogatás)
+14.
+DCM-E: Deployable Communications and Information System Module – ECHO
+15.
+EDA: European Defence Agency (Európai Védelmi Ügynökség)
+16.
+EHV: Elektronikai Hadviselés
+17.
+ENSZ UNIFIL: United Nations Interim Force in Lebanon (ENSZ Libanoni Békefenntartó Misszió)
+18.
+EUBG: EU Battle Group (EU Harccsoport)
+19.
+EUFOR: European Union Force
+20.
+EUMM: European Union Monitoring Mission in Georgia (az Európai Unió grúziai megfigyelő missziója)
+21.
+EUNAVFOR: European Union Naval Force Mediterranean Operation IRINI (Európai Unió Haditengerészetének
+Mediterrán Hadművelete)
+22.
+EUTM Mali: European Union Training Mission in Mali (Európai Unió Mali Kiképző Misszió)
+23.
+EUTM RCA: European Union Training Mission in Central African Republic (Európai Unió Közép-afrikai
+Köztársasági Kiképzési Misszió)
+24.
+eVA BG: enhanced Vigilance Activity Battle Group (Kiemelt Éberségi Tevékenység Többnemzeti Harccsoport)
+25.
+FP: Force Protection (Erők Védelme)
+26.
+HM KÁT ALBO: Honvédelmi Minisztérium Közigazgatási Államtitkár Állami Légiközlekedési Balesetvizsgáló
+Osztály
+27.
+HQ MND-C: Headquarters Multinational Division – Centre (Közép-európai Többnemzeti Hadosztály-parancsnokság)
+28.
+HVK HDMCSF: Honvéd Vezérkar Hadműveleti Csoportfőnökség
+29.
+HVK HICSF: Honvéd Vezérkar Híradó és Informatikai Csoportfőnökség
+30.
+HVK KIKCSF: Honvéd Vezérkar Kiképzési Csoportfőnökség
+31.
+HVK LCSF: Honvéd Vezérkar Logisztikai Csoportfőnökség
+32.
+HVK ÖMVIK: Honvéd Vezérkar Összhaderőnemi Műveletvezető és Irányító Központ
+33.
+JLSG HQ: Joint Logistics Support Group Headquarters (Összhaderőnemi Logisztikai Támogató Csoport
+Parancsnokság)
+34.
+JTAC: Joint Terminal Attack Controller (közös előterolt repülésirányítás)
+35.
+KFOR: Kosovo Force (a Koszovóban tevékenykedő nemzetközi békefenntartó haderő)
+36.
+KNBSZ: Katonai Nemzetbiztonsági Szolgálat
+37.
+LIVEX: Live Exercise
+38.
+MEDEVAC: Medical evacuation (Orvosi evakuálás)
+39.
+MFO: Multinational Force and Observers (Multinacionális Erők és Megfigyelők)
+40.
+MH EK: Magyar Honvédség Egészségügyi Központ
+41.
+MH HTP: Magyar Honvédség Haderőmodernizációs és Transzformációs Parancsnokság
+42.
+MH KIBP: Magyar Honvédség Kiberműveleti Parancsnokság
+43.
+MH KRE: Magyar Honvédség Katonai Rendészeti Ezred
+44.
+MH LEP: Magyar Honvédség Légierő Parancsnokság
+45.
+MH LTP: Magyar Honvédség Logisztikai Támogató Parancsnokság
+
+46. MH ÖKMP: Magyar Honvédség Összhaderőnemi Különleges Műveleti Parancsnokság
+47. MH SZFP: Magyar Honvédség Szárazföldi Parancsnokság
+48. MH TVEP: Magyar Honvédség Területvédelmi Erők Parancsnoksága
+49. MH VZLS: Magyar Honvédség Vezénylő Zászlós
+50. MINURSO: United Nations Mission for the Referendum in Western Sahara (ENSZ Nyugat-Szahara misszió)
+51. MINUSCA: Multidimensional Integrated Stabilization Mission in the Central African Republic (ENSZ
+Közép-afrikai Köztársaságbeli Többdimenziós Integrált Stabilizációs Misszió)
+52. NATINAMDS: NATO Integrated Air and Missile Defence System (NATO Integrált Lég- és Rakétavédelmi
+Rendszer)
+53. NATO C-IED: NATO Counter-Improvised Explosive Device (NATO Rögtönzött Robbanószerkezetek Elleni
+Védelem)
+54. NATO LANDCOM: NATO Allied Land Command (NATO Szövetséges Szárazföldi Parancsnokság)
+55. NATO METOC Seminar: NATO Meteorological and Oceanographic Seminar (NATO Katonameteorológiai és
+Oceanográfiai Szeminárium)
+56. NCO: Non-Commissioned Officer (Altiszt)
+57. NEWFIP: NATO Electronic Warfare Force Integration Program (NATO vezetésű harcászati szintű elektronikai
+hadviselés gyakorlat)
+58. NFIU HUN: NATO Force Integration Unit Hungary (Magyarországon települő NATO Erőket Integráló Elem)
+59. NKE LZ: Nemzeti Közszolgálati Egyetem Ludovika Zászlóalj
+60. NKE: Nemzeti Közszolgálati Egyetem
+61. NRF: NATO Response Force (NATO Reagáló Erők)
+62. NRI: NATO Readiness Initiative (NATO Készenléti Kezdeményezés)
+63. PSYOPS: Psychological operations (Lélektani hadviselés)
+64. R-SOCC: Regional Special Operations Component Command (Regionális Különleges Műveleti
+Komponensparancsnokság)
+65. SIBCRA: Sampling and Identification of Biological, Chemical and Radiological Agents (Biológiai, vegyi és
+radiológiai anyagok mintavétele és azonosítása)
+66. SICA: Sampling and Identification of Chemical Warfare Agents (Vegyi harcászati anyagok mintavétele és
+azonosítása)
+67. SOATU: Special Operations Air Task Unit (Különleges Légi Műveleti Csoport)
+68. SOFEX: Special Operations Forces Exercise (Különleges Műveleti Erők Gyakorlata)
+69. SOTAC: Special Operations Terminal Attack Controller (különleges műveleti előretolt repülésirányítás)
+70. TACP: Tactical Air Control Party (Harcászati Légi Irányító Csoport)
+71. UNFICYP: United Nations Peacekeeping Force in Cyprus (ENSZ Ciprusi Békefenntartó Erő)
+72. US OHNG: United States Ohio National Guard (US Ohio Nemzeti Gárda)
+73. USAREUR-AF: United States Army Europe and Africa (USA Európai és Afrikai Hadszíntéri Parancsnokság)
+74. VJTF: Very High Readiness Joint Task Force (Nagyon Magas Készenlétű Összhaderőnemi Kötelék)
