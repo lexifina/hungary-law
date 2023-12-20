@@ -1,0 +1,9 @@
+# 1583/2023. (XII. 20.) Korm. határozat
+
+az egyes egészségügyi fejlesztések Egészséges Budapest Program keretében történő megvalósításával kapcsolatos feladatokról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-1583-30-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2023-12-20 | 2023-1583-30-22.1 | 1583/2023. (XII. 20.) Korm. határozat |
