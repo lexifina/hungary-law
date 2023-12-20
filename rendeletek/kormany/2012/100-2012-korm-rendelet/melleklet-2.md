@@ -46,10 +46,10 @@ A Kossuth Lajos téri beruházási programmal összefüggő, kiemelten közérde
 
 | 5. | Vécsey utca 4. szám alatti épület részleges bontása és rekonstrukciója | Budapest V. kerület, belterület 24718 helyrajzi számú ingatlan | Budapest V. kerület, belterület 24713, 24719, 24834/1 helyrajzi számú ingatlan | 2021. 07. 01. – 2024. 06. 30. |
 
-| 6. | Alkotmány utca 5. szám alatti irodaház rekonstrukciója | Budapest V. kerület, belterület 24888 helyrajzi számú ingatlan | Budapest V. kerület, belterület 24881, 24892/1 helyrajzi számú ingatlan | 2021. 07. 01. – 2024. 06. 30. |
+| 6. |  |  |  |  |
 
 | 7. | Kozma Ferenc utca felszíni rendezése | Budapest V. kerület, belterület 24890 helyrajzi számú ingatlan | – | 2021. 07. 01. – 2024. 06. 30. |
 
 [^48]: Az 1. mellékletben foglalt táblázat D:4 mezője az 546/2022. (XII. 22.) Korm. rendelet 21. § b) pontja szerint módosított szöveg.
 [^49]: Az 1. mellékletben foglalt táblázat D:13 mezője az 546/2022. (XII. 22.) Korm. rendelet 21. § b) pontja szerint módosított szöveg.
-[^50]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 49. § g) pontja hatályon kívül helyezte, újonnan a 2/2021. (I. 7.) Korm. rendelet 5. §-a iktatta be.
+[^50]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 49. § g) pontja hatályon kívül helyezte, újonnan a 2/2021. (I. 7.) Korm. rendelet 5. §-a iktatta be, szövege az 580/2023. (XII. 19.) Korm. rendelet 1. § d) pontja szerint módosított szöveg.
