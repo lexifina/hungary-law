@@ -1,4 +1,4 @@
-## 9/S.[^37] Szent Anna a Nevelőszülőkért díj
+## 9/S.[^38] Szent Anna a Nevelőszülőkért díj
 
 9/S. § (1) A Szent Anna a Nevelőszülőkért díj a nevelőszülői hivatás példamutató, kiemelkedő szakmai színvonalú teljesítésének elismerésére adományozható.
 
@@ -12,4 +12,4 @@
 
 (6) A Szent Anna a Nevelőszülőkért díj adományozása a Polgári Törvénykönyvről szóló 2013. évi V. törvény 8:1. § (1) bekezdés 1. pontja szerinti közeli hozzátartozó számára is kezdeményezhető.
 
-[^37]: A 9/S. alcímet (9/S. §-t) a 39/2022. (XI. 22.) BM rendelet 2. § (3) bekezdése iktatta be.
+[^38]: A 9/S. alcímet (9/S. §-t) a 39/2022. (XI. 22.) BM rendelet 2. § (3) bekezdése iktatta be.

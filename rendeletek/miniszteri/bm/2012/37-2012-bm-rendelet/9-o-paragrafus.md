@@ -14,7 +14,7 @@ d) akkreditált foglalkozási rehabilitációs szolgáltatóknak az Év Foglalko
 
 e) a megváltozott munkaképességű vagy fogyatékossággal élő, valamint a megváltozott munkaképességű vagy fogyatékossággal élők foglalkoztatását példaértékűen segítő természetes személynek a Mindennap Hős díj.
 
-(3) Az ÉRTÉK VAGY! díj átadására minden év első negyedévében megrendezésre kerülő ÉRTÉK VAGY! konferencia keretében kerül sor.
+(3)[^34] Az ÉRTÉK VAGY! díj átadására évente egy alkalommal kerül sor.
 
 (4) A (2) bekezdés a)–d) pontja szerinti kategóriákban a díjból évente, kategóriánként legfeljebb egy-egy díj osztható ki.
 
@@ -25,3 +25,4 @@ e) a megváltozott munkaképességű vagy fogyatékossággal élő, valamint a m
 (7) A (2) bekezdés e) pontja szerinti díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap nyolcszorosának megfelelő összeg.
 
 [^33]: A 9/O. alcímet (9/O. §-t) a 39/2022. (XI. 22.) BM rendelet 2. § (3) bekezdése iktatta be.
+[^34]: A 9/O. § (3) bekezdése az 53/2023. (XII. 19.) BM rendelet 1. §-ával megállapított szöveg.

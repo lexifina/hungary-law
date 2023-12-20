@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-37-20-0
 | 2023-01-01 | 2012-37-20-0A.24 | 45/2022. (XII. 20.) BM rendelet |
 | 2023-02-04 | 2012-37-20-0A.25 | 2/2023. (II. 3.) MK rendelet |
 | 2023-07-01 | 2012-37-20-0A.26 | 24/2023. (VI. 30.) BM rendelet |
+| 2023-12-20 | 2012-37-20-0A.27 | 53/2023. (XII. 19.) BM rendelet |
