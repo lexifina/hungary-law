@@ -1,4 +1,4 @@
-| Alcím- szám | Alcímnév | Támogatási összeg (forint) | Támogatás célja |
+|  | Alcímnév | Támogatási összeg (forint) | Támogatás célja |
 
 | 1. | Ajka Város Önkormányzata infrastrukturális fejlesztéseinek támogatása | 60 000 000 | a TOP-3.2.1-15-VE1-2016-00025 azonosító számú, „Fekete Mihály-Vörösmarty Mihály Általános Iskola és Gimnázium fejlesztése” című projekt el nem számolható költségeinek támogatása |
 
@@ -28,7 +28,7 @@
 
 | 14. | Kiskunfélegyháza Város Önkormányzata feladatainak támogatása | 530 000 000 | TOP-projekt el nem számolható költségeinek támogatása, önkormányzati feladatok ellátása részben támogatás nyújtásával |
 
-| 15. | Kiskunhalas Város Önkormányzata feladatainak támogatása | 380 000 000 | közlekedésfejlesztési feladatok, légvezeték kiváltása, új ivóvízkút kialakítása, önkormányzati feladatok ellátása támogatás nyújtásával |
+| 15.[^1] | Kiskunhalas Város Önkormányzata feladatainak támogatása | 380 000 000 | közlekedésfejlesztési feladatok, új ivóvízkút kialakítása, önkormányzati feladatok ellátása támogatás nyújtásával |
 
 | 16. | Miskolc Megyei Jogú Város Önkormányzata feladatainak támogatása | 1 350 000 000 | TOP-projekt el nem számolható költségeinek támogatása, önkormányzati feladatok ellátása részben támogatás nyújtásával |
 
@@ -65,6 +65,8 @@
 | 32. | Zalaegerszeg Megyei Jogú Város Önkormányzata feladatainak támogatása | 630 000 000 | ingatlanvásárlás, önkormányzati ingatlanok felújítása, turisztikai fejlesztés, önkormányzati feladatok ellátása részben támogatás nyújtásával |
 
 2. melléklet az 1369/2021. (VI. 10.) Korm. határozathoz
+
+1X04686_0
 
 | IX. Helyi önkormányzatok támogatásai ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA Költségvetési év: 2021. forintban |
 
@@ -237,3 +239,5 @@
 | 22 487 100 000 | 22 487 100 000 |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: Az 1. mellékletben foglalt táblázat 15. sora az 1584/2023. (XII. 20.) Korm. határozat 4. pontja szerint módosított szöveg.
