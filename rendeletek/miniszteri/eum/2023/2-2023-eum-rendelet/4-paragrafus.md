@@ -1,1 +1,3 @@
-4. § Hatályát veszti a Magyarország Európai Unió melletti Állandó Képviseletére tartós külszolgálatra kihelyezettek részére biztosítható devizaárfolyam-kompenzáció megállapításának részletes szabályairól szóló 27/2022. (XII. 8.) IM rendelet.
+4. §[^1]
+
+[^1]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
