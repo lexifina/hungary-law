@@ -14,15 +14,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat
-
-## a) D:674 mezőjében a „3,91” szövegrész helyébe a „4,11” szöveg,
-
-## b) D:87 mezőjében az „5,40” szövegrész helyébe az „5,69” szöveg,
-
-## c) D:99e. mezőjében a „0,42” szövegrész helyébe a „0,46” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1573/2023. (XII. 18.) Korm. határozathoz
 
@@ -35,3 +27,5 @@
 | 3. | KEHOP-1.6.0-15-2016-00012 | Tűzoltó laktanyák kialakítása – Kecskemét tűzoltóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | 5 366 618 606 | 319 906 349 | 5 686 524 955 | A projekttel szembeni szakmai elvárás a katasztrófákkal szembeni ellenálló képesség fokozása érdekében új tűzoltó laktanyák kialakítására irányuló, katasztrófavédelmi célt szolgáló ingatlanberuházás végzése az alacsonyabb riasztási fokozat és a gyorsabb helyszínre érkezés biztosítása érdekében. |
 
 | 4. | KEHOP-1.6.0-15-2022-00030 | Logisztikai raktárcsarnok építése – II. | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | 420 000 000 | 39 967 239 | 459 967 239 | A projekttel szembeni szakmai elvárás a klímaváltozás vagy ipari katasztrófák miatt létrejövő katasztrófahelyzet esetén felmerülő logisztikai feladatok műveleti idejének csökkentése. Az új raktárcsarnok megépítésével és az eszközök rendezett tárolásával a rakodás gépesíthetővé válik, mellyel jelentősen csökken a rakodási idő, valamint gyorsabbá válik a logisztikai műveletek végrehajtása. |
+
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
