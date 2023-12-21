@@ -1,0 +1,1 @@
+1. § Hatályát veszti az egységes területalapú támogatások és egyes vidékfejlesztési támogatások igényléséhez teljesítendő „Helyes Mezőgazdasági és Környezeti Állapot” fenntartásához szükséges feltételrendszer, valamint az állatok állategységre való átváltási arányának meghatározásáról szóló 50/2008. (IV. 24.) FVM rendelet módosításáról szóló 80/2009. (VII. 3.) FVM rendelet.
