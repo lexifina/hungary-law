@@ -1,0 +1,1 @@
+1. § Hatályát veszti az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgazdasági termelők számára nyújtandó támogatások részletes feltételeiről szóló 67/2007. (VII. 26.) FVM rendelet módosításáról szóló 95/2009. (VII. 30.) FVM rendelet.
