@@ -1,0 +1,1 @@
+1. § Hatályát veszti az Európai Mezőgazdasági Vidékfejlesztési Alapból az erdészeti potenciál helyreállítására nyújtandó támogatások igénybevételének részletes szabályairól szóló 32/2008. (III. 27.) FVM rendelet módosításáról szóló 82/2008. (VI. 30.) FVM rendelet.
