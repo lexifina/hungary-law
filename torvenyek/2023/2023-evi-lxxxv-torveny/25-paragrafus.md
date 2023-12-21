@@ -1,1 +1,3 @@
+## „7. kísérleti fejlesztés: a meglévő tudományos, technológiai, üzleti és egyéb, vonatkozó ismeretek és szakértelem megszerzése, összesítése, alakítása és felhasználása új vagy javított termékek, eljárások vagy szolgáltatások kidolgozása céljából, ide tartozhatnak digitális termékek, eljárások vagy szolgáltatások, bármilyen területről, technológiából, iparágból vagy ágazatból (beleértve, de nem kizárólagosan a digitális iparágakat és technológiákat is, mint például a szuperszámítógépek, kvantumtechnológiák, blokklánc-technológiák, mesterséges intelligencia, kiberbiztonság, big data és felhőalapú vagy peremtechnológiák),”
+
 ### 25. §

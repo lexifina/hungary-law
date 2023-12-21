@@ -1,1 +1,1 @@
-### 37. §
+37. § A Széchenyi István Egyetemért Alapítványról, a Széchenyi István Egyetemért Alapítvány és a Széchenyi István Egyetem részére történő vagyonjuttatásról szóló 2020. évi XXXVIII. törvény a 2. melléklet szerinti 5. melléklettel egészül ki.
