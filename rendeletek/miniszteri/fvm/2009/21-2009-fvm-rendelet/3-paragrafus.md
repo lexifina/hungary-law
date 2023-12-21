@@ -1,1 +1,0 @@
-## „k) támogatási intenzitás: a támogatás összege – a vissza nem térítendő támogatástól eltérő formában nyújtott támogatás esetén a támogatástartalom – a támogatható elszámolható kiadások százalékában kifejezve;”
