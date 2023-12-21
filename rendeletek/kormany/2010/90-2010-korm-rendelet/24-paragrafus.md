@@ -8,7 +8,7 @@ b) 3. kategóriájú, ha legalább az EN 14450; MSZ EN 1143–1-A1-A2, EU 00-ás
 
 c) 2. kategóriájú, ha legalább az EN 14450; MSZ EN 1143–1-A1-A2, S 1-es
 
-## ellenállási fokozattal rendelkezik.
+ellenállási fokozattal rendelkezik.
 
 (2)[^94] Az 1. kategóriájú tároló a hagyományos zárral felszerelt lemezszekrény.
 

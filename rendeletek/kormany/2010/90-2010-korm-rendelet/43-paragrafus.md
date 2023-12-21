@@ -38,7 +38,7 @@ p)[^135] a felülvizsgálat dátuma és eredménye a minősítési szint csökke
 
 q) a kezelési bejegyzés (csatolás, határidő, visszaérkezés stb.)
 
-## megállapítható legyen.
+megállapítható legyen.
 
 (4) Az iktatás minden év január 1-jén 1-es főszámmal kezdődik és a naptári év végéig emelkedő számmal folytatódik. A titkos ügykezelő az azonos tárgyban, ugyanabban az ügyben érkezett vagy készített újabb adatot az illető főszám 1-től növekvő alszámára iktatja. Amennyiben más tárgyban érkezett vagy készült az újabb adat, akkor azt iktatókönyv következő főszámára iktatja.
 

@@ -1,5 +1,3 @@
-## A nemzeti minősített adatokra meghatározott minimum biztonsági követelmények állami szervek esetében
-
 |  | A | B | C | D |
 
 | 1. |  | I. | II. | III. |
@@ -34,6 +32,8 @@
 
 | 16. | Teljes pontszám: | Minimum 11 | Minimum 14 | Minimum 16 |
 
-3. melléklet a 90/2010. (III. 26.) Korm. rendelethez[^187]
+3. melléklet a 90/2010. (III. 26.) Korm. rendelethez[^192]
 
-[^187]: A 3. melléklet a 243/2016. (VIII. 17.) Korm. rendelet 35. § (1) bekezdés n) és o) pontja szerint módosított szöveg.
+A külföldi minősített adatokra meghatározott minimum biztonsági követelmények állami szervek esetében
+
+[^192]: A 3. melléklet a 243/2016. (VIII. 17.) Korm. rendelet 35. § (1) bekezdés n) és o) pontja szerint módosított szöveg.

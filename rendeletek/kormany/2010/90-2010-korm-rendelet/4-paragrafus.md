@@ -6,7 +6,7 @@
 
 (1c)[^17] A hatósági ellenőrzésben nem vehet részt az ellenőrzött szerv dolgozójának a Polgári Törvénykönyv szerinti hozzátartozója. A hatósági ellenőrzést végző a kizárási okot közvetlen vezetőjének haladéktalanul köteles bejelenteni, továbbá azt az ellenőrzött szerv is bejelentheti.
 
-(2)[^18] A Nemzeti Biztonsági Felügyelet a hatósági ellenőrzést a helyi biztonsági felügyelet, ennek hiányában a biztonsági vezető, továbbá a külképviseletek vonatkozásában a külpolitikáért felelős miniszter által vezetett minisztérium, a honvédségi szervezetek vonatkozásában a Magyar Honvédség Parancsnoksága, az Információs Hivatal vonatkozásában a polgári hírszerzési tevékenység irányításáért felelős miniszter által vezetett minisztérium bevonásával végzi.
+(2)[^18] A Nemzeti Biztonsági Felügyelet a hatósági ellenőrzést a helyi biztonsági felügyelet, ennek hiányában a biztonsági vezető, továbbá a külképviseletek vonatkozásában a külpolitikáért felelős miniszter által vezetett minisztérium, a honvédségi szervezetek vonatkozásában a Honvéd Vezérkar, az Információs Hivatal vonatkozásában a polgári hírszerzési tevékenység irányításáért felelős miniszter által vezetett minisztérium bevonásával végzi.
 
 (2a)[^19] A hatósági ellenőrzésről az ellenőrizendő szervet az ellenőrzés megkezdése előtt – a biztonsági vezetőn keresztül – értesíteni kell, ha az értesítés megküldése az ellenőrzés célját nem hiúsítja meg.
 
@@ -44,7 +44,7 @@ ac) a tárolt minősített adatok biztonságba helyezésére, valamint a jogszer
 
 ad)[^26] telephely biztonsági tanúsítvány vagy egyszerűsített telephely biztonsági tanúsítvány visszavonására
 
-## irányuló közigazgatási hatósági eljárást indít;
+irányuló közigazgatási hatósági eljárást indít;
 
 b) kezdeményezheti a biztonsági vezető kinevezésének visszavonását;
 
@@ -63,7 +63,7 @@ d) javasolhatja büntető- vagy szabálysértési eljárás kezdeményezését.
 [^15]: A 4. § (1a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 289. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^16]: A 4. § (1b) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 289. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^17]: A 4. § (1c) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 289. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^18]: A 4. § (2) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 375/2020. (VII. 30.) Korm. rendelet 20. § a) pontja szerint módosított szöveg.
+[^18]: A 4. § (2) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 375/2020. (VII. 30.) Korm. rendelet 20. § a) pontja, az 592/2023. (XII. 20.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^19]: A 4. § (2a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 289. § (3) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^20]: A 4. § (2b) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 289. § (3) bekezdése iktatta be, szövege a 375/2020. (VII. 30.) Korm. rendelet 8. §-ával megállapított szöveg.
 [^21]: A 4. § (2c) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 289. § (3) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.

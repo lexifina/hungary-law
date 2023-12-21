@@ -1,5 +1,3 @@
-## 18. §[^80]
-
 ## 11. I. osztályú biztonsági terület helyszíne (minősített adat nyílt tárolása)
 
 19. § (1)[^81] Minősített adat nyílt tárolására akkor kerülhet sor, ha az I. osztályú biztonsági terület körül adminisztratív zóna vagy biztonsági terület található, és az adminisztratív zónával vagy a biztonsági területtel határos falazat, födém és padozat legalább a 6 cm vastagságú tömör téglafal szilárdsági mutatóival egyenértékű falszerkezettel, ennél kisebb szilárdsági mutatóval rendelkező anyag esetén a 19. § (2) bekezdés a) pontjában meghatározott rácsszerkezettel rendelkezik. Ha az I. osztályú biztonsági terület körül nincs adminisztratív zóna vagy biztonsági terület, ott az I. osztályú biztonsági területet határoló falazat, födém és padozat legalább a 30 cm vastagságú tömör téglafal szilárdsági mutatóival egyenértékű falszerkezettel, ennél kisebb szilárdsági mutatóval rendelkező anyag esetén a 19. § (2) bekezdés a), b) vagy c) pontjában meghatározott rácsszerkezettel rendelkezik.
@@ -20,7 +18,7 @@ b) nemzeti és külföldi „Titkos!” minősítési szintű minősített adato
 
 c) nemzeti és külföldi „Szigorúan titkos!” minősítési szintű minősített adatok esetén minimum 15 perces
 
-## áttörésgátlással rendelkezik.
+áttörésgátlással rendelkezik.
 
 (4) Ablakok esetén
 
@@ -30,7 +28,7 @@ b) a (2) bekezdés b) pontjában említett rácsszerkezettel egyenértékű az a
 
 c) a (2) bekezdés c) pontjában említett rácsszerkezettel egyenértékű az a biztonsági üvegszerkezet, amely legalább P7B
 
-## áttörésbiztos fokozattal rendelkezik.
+áttörésbiztos fokozattal rendelkezik.
 
 (4a)[^83] A biztonsági területet határoló falazat
 
@@ -40,7 +38,7 @@ b) a (2) bekezdés b) pontjában szereplő rácsszerkezettel egyenértékű, ha 
 
 c) a (2) bekezdés c) pontjában szereplő rácsszerkezettel egyenértékű, ha legalább 15 perces áttörésgátlással vagy legalább P7B áttörésbiztos fokozattal
 
-## rendelkezik.
+rendelkezik.
 
 (5)[^84] A minősített adat nyílt tárolása esetén a helyszín az (1)–(4) bekezdésben meghatározottakon túl, fizikai biztonsági intézkedések keretében a biztonsági terület határán kialakított bejárathoz telepített beléptető rendszer mellett a 34. § szerinti személyes felügyelettel, vagy legalább a 27. § (3) bekezdésében meghatározott elektronikai jelzőrendszerrel és füstérzékelővel, valamint legalább a 28. § (5) bekezdésében előírt reagáló erő alkalmazásával biztosított.
 
@@ -64,7 +62,6 @@ f) az I. osztályú biztonsági terület legalább 3. kategóriájú elektronika
 
 g) az I. osztályú biztonsági területet magába foglaló épület biztonsági világítással és zárt láncú kamerarendszerrel rendelkezik.
 
-[^80]: A 18. §-t a 243/2016. (VIII. 17.) Korm. rendelet 35. § (2) bekezdés g) pontja hatályon kívül helyezte.
 [^81]: A 19. § (1) bekezdése a 375/2020. (VII. 30.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
 [^82]: A 19. § (2) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
 [^83]: A 19. § (4a) bekezdését a 375/2020. (VII. 30.) Korm. rendelet 13. § (2) bekezdése iktatta be.

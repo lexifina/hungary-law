@@ -10,7 +10,7 @@ b) a miniszterelnöknek a Kormány tagjainak feladat- és hatásköréről szól
 
 c) a b) pont szerinti munkaszervezetet vezető miniszter által irányított központi államigazgatási szerv
 
-## tekintetében a biztonsági vezetői feladatokat egyidejűleg több, az a)–c) pont szerinti minősített adatot kezelő szerv vonatkozásában is elláthatja.
+tekintetében a biztonsági vezetői feladatokat egyidejűleg több, az a)–c) pont szerinti minősített adatot kezelő szerv vonatkozásában is elláthatja.
 
 (2) Az (1) bekezdésben meghatározott esetben a biztonsági vezető az (1) bekezdés a) vagy b) pontja szerinti minősített adatot kezelő szervvel
 
@@ -30,7 +30,7 @@ g)[^36] a honvédek jogállásáról szóló törvény szerinti szolgálati jogv
 
 h)[^37] a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyban
 
-## áll.
+áll.
 
 (3)[^38] A 4/A. § (3) bekezdése szerinti közös titkos ügykezelő feladatait az (1) bekezdés szerinti minősített adatot kezelő szervek vonatkozásában ellátja.
 

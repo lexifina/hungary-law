@@ -18,7 +18,7 @@ c) a minősítő vagy a felülvizsgálati szakértő aláírását vagy a minős
 
 d) a felülvizsgálat dátumát
 
-## tartalmazza.
+tartalmazza.
 
 (4)[^157] A minősítés megszüntetéséről hozott döntés esetén a nemzeti minősített adatot tartalmazó adathordozó, az elektronikus adatállomány vagy a külön kísérőlap – az első oldalon a minősítési jelölés, valamint a minősítési szint minden oldalon történő áthúzása mellett –
 
@@ -30,7 +30,7 @@ c) a minősítő vagy a felülvizsgálati szakértő aláírását vagy a minős
 
 d) a felülvizsgálat dátumát
 
-## tartalmazza.
+tartalmazza.
 
 (5)[^158] A minősítési szint csökkentéséről, valamint az érvényességi idő módosításáról hozott döntés esetén a nemzeti minősített adatot tartalmazó adathordozó, külön kísérőlap vagy az elektronikus adatállomány – az első oldalon a minősítési jelölés, valamint a minősítési szint minden oldalon történő áthúzása mellett –
 
@@ -42,7 +42,7 @@ c) a minősítő vagy a felülvizsgálati szakértő aláírását vagy a minős
 
 d) a felülvizsgálat dátumát
 
-## tartalmazza.
+tartalmazza.
 
 (6)[^159] A minősítési szint csökkentéséhez, valamint az érvényességi idő módosításához készített minősítési javaslatot a kezdeményező a nemzeti minősített adatot tartalmazó adathordozóján, elektronikus adatállományban vagy – ha az adathordozó jellege ezt nem teszi lehetővé – külön kísérőlapon rögzíti. Ha a felülvizsgálat a nemzeti minősített adatok iktatószámának, minősítési szintjének, érvényességi idejének jegyzékbe foglalásával külön iratban történik, a minősítési javaslat a külön irat része lehet.
 

@@ -20,7 +20,7 @@ e) irattári tételszáma,
 
 f) selejtezése dátumának
 
-## rögzítésével történik.
+rögzítésével történik.
 
 (4) A minősített adatok kezelésére szolgáló iratkezelési segédlet
 

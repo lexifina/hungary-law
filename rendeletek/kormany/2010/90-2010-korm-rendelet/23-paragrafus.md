@@ -12,7 +12,7 @@ b) 3. kategóriájú, ha legalább 10 perces,
 
 c) 2. kategóriájú, ha legalább 5 perces
 
-## áttörésgátlással rendelkezik.
+áttörésgátlással rendelkezik.
 
 (2) A biztonsági terület határán lévő ajtó 1. kategóriájú, ha bármilyen, tanúsítvánnyal nem rendelkező zárral rendelkezik.
 

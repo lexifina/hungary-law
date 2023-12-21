@@ -1,5 +1,3 @@
-## Fizikai biztonsági intézkedések ponttáblázata
-
 |  | A | B |
 
 | 1. |  | Pontszámok |
@@ -154,6 +152,8 @@
 
 | 76. | Összes pontszám: F1+F2+F3+F4+F5 |  |
 
-2. melléklet a 90/2010. (III. 26.) Korm. rendelethez[^186]
+2. melléklet a 90/2010. (III. 26.) Korm. rendelethez[^191]
 
-[^186]: A 2. melléklet a 243/2016. (VIII. 17.) Korm. rendelet 34. § (2) bekezdésével megállapított szöveg.
+A nemzeti minősített adatokra meghatározott minimum biztonsági követelmények állami szervek esetében
+
+[^191]: A 2. melléklet a 243/2016. (VIII. 17.) Korm. rendelet 34. § (2) bekezdésével megállapított szöveg.

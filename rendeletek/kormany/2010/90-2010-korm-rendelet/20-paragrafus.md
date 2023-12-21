@@ -38,7 +38,7 @@ b) a (3) bekezdésben szereplő rácsszerkezettel egyenértékű az a biztonság
 
 c) a (4) bekezdésben szereplő rácsszerkezettel egyenértékű az a biztonsági üvegszerkezet, amely legalább P5A
 
-## áttörésbiztos fokozattal rendelkezik.
+áttörésbiztos fokozattal rendelkezik.
 
 (7)[^91] A biztonsági területet határoló falazat
 
@@ -47,6 +47,8 @@ a) a (4) bekezdésben szereplő rácsszerkezettel egyenértékű, ha legalább 5
 b) a (3) bekezdésben szereplő rácsszerkezettel egyenértékű, ha legalább 10 perces áttörésgátlással vagy legalább P6B áttörésbiztos fokozattal,
 
 c) a (2) bekezdésben szereplő rácsszerkezettel egyenértékű, ha legalább 15 perces áttörésgátlással vagy legalább P7B áttörésbiztos fokozattal
+
+rendelkezik.
 
 [^88]: A 20. § (2) bekezdése a 375/2020. (VII. 30.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
 [^89]: A 20. § (3) bekezdése a 375/2020. (VII. 30.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.

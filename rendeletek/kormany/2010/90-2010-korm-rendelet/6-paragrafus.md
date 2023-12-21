@@ -10,11 +10,11 @@
 
 (5)[^45] Az iratforgalmi statisztika mintáját a Nemzeti Biztonsági Felügyelet a honlapján közzéteszi.
 
-(6)[^46] A honvédségi szervezeteknél kinevezett biztonsági vezetők a minősített adatok védelmével kapcsolatos feladatok végrehajtását és koordinálását a Magyar Honvédség Parancsnoksága szakirányításra jogosult vezetőjének szakmai irányítása mellett végzik.
+(6)[^46] A honvédségi szervezeteknél kinevezett biztonsági vezetők a minősített adatok védelmével kapcsolatos feladatok végrehajtását és koordinálását a Honvéd Vezérkar szakirányításra jogosult vezetőjének szakmai irányítása mellett végzik.
 
 (7)[^47] NATO, EU, illetve nemzeti minősített adatok kezelése esetén a biztonsági vezető köteles gondoskodni arról, hogy évente egy alkalommal a minősített adatot kezelő szervnél NATO, EU, illetve nemzeti minősített adatot felhasználók – tudatosságuk növelése érdekében – a NATO, EU, illetve nemzeti minősített adatok védelmére vonatkozó hatályos rendelkezésekre, az információbiztonsági és elektronikus biztonságot érintő fenyegetésekre és a minősített adat biztonsága megsértésének lehetséges következményeire kiterjedő tájékoztatásban részesüljenek.
 
 [^44]: A 6. § (3) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 35. § (1) bekezdés b) és c) pontja, a (2) bekezdés b) pontja szerint módosított szöveg.
 [^45]: A 6. § (5) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 463. § a) pontja, a 243/2016. (VIII. 17.) Korm. rendelet 35. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^46]: A 6. § (6) bekezdése a 375/2020. (VII. 30.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^46]: A 6. § (6) bekezdése a 375/2020. (VII. 30.) Korm. rendelet 9. §-ával megállapított, az 592/2023. (XII. 20.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^47]: A 6. § (7) bekezdését a 697/2021. (XII. 13.) Korm. rendelet 2. §-a iktatta be.
