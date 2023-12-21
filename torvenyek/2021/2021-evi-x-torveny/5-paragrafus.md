@@ -14,4 +14,4 @@
 
 (7) Az ingatlan tulajdonjogát az Egyetem a terhekkel együtt szerzi meg.
 
-(8) A Budapest belterület 31905/11 helyrajzi számú ingatlant az ingatlanon folyamatban lévő beruházás megvalósulását követően – az (1)–(7) bekezdés, valamint a 6. § alkalmazásával – ingyenesen az Egyetem tulajdonába kell adni.
+(8) A Budapest belterület 31905/11 helyrajzi számú ingatlant és az ingatlanon folyamatban lévő beruházás során beszerzésre kerülő ingóságokat a beruházás megvalósulását követően – az (1)–(7) bekezdés, valamint a 6. § alkalmazásával – ingyenesen az Egyetem tulajdonába kell adni.
