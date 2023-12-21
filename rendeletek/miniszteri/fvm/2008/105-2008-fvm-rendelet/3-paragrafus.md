@@ -1,1 +1,0 @@
-## „be) gazdaságátadás esetén a gazdaság átvételéről szóló adásvételi vagy ajándékozási szerződés hiteles másolatát, teljes földhasználati lap szemle másolatát, az állatok átadására vonatkozó okiratot, egyéb dokumentumokat, amelyek igazolják, hogy az átadó gazdálkodó a tulajdonjogot az átvevőre átruházta;”
