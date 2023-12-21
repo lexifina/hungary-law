@@ -1,1 +1,0 @@
-11. § Ez a rendelet a kihirdetését követő nyolcadik napon lép hatályba azzal, hogy rendelkezéseit – az R. e rendelet 2. § (1) bekezdésével módosított 5. § (1) bekezdés a) pontja, az R. e rendelet 6. §-ával módosított 12. § (2) és (6) bekezdése, valamint az R. e rendelet 8. §-ával módosított 14. § (1)–(4) bekezdései kivételével – a folyamatban lévő eljárásokban is alkalmazni kell.

@@ -1,3 +1,0 @@
-## 4. § Az R. 7. § (2) bekezdése helyébe az alábbi rendelkezés lép:
-
-## „(2) Az első kivitel részben történő elmaradása esetén, a kedvezményezett köteles a kifizetési kérelem benyújtásának időpontjáig bejelenteni azt, az erdőrészlet elhelyezkedése szerint illetékes Mezőgazdasági Szakigazgatási Hivatal (a továbbiakban: MgSzH) erdészeti igazgatóságának. Amennyiben az erdőtelepítés a tervezett erdőrészlet részterületén valósul meg, köteles az erdészeti hatóságnál az erdőrészlet megosztását kezdeményezni. Ha az első kivitel a támogatási határozatban szereplő területen az (1) bekezdés b) pontjában meghatározott időpontra csak részben valósul meg, az elmaradással érintett terület támogatási jogosultsága az adott kérelem vonatkozásában megszűnik.”
