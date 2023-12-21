@@ -1,1 +1,3 @@
-8. § Az R2. 2. § (2) bekezdésében és 2. § (3) bekezdésében az „1. § (1) bekezdése” szövegrész helyébe az „1. § (1) és (1a) bekezdése” szöveg lép.
+8. §[^9]
+
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-7. § Az R2. az 1. melléklet szerinti 1a. melléklettel egészül ki.
+7. §[^8]
+
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
