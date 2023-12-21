@@ -1,1 +1,0 @@
-8. § Ez a rendelet az Európai Kiberbiztonsági Ipari, Technológiai és Kutatási Kompetenciaközpontnak és a nemzeti koordinációs központok hálózatának a létrehozásáról szóló, 2021. május 20-i (EU) 2021/887 európai parlamenti és tanácsi rendeletnek a végrehajtásához szükséges rendelkezéseket állapít meg.
