@@ -1,1 +1,0 @@
-## „c) a Vhr. 27. § (1) bekezdésének i) pontjában foglaltaknak megfelelően, amennyiben az ügyfél természetes személy vagy mikrovállalkozás, pénzügyi és üzleti tervet, ha a kérelmezett támogatás összege az 5 000 000 forintot meghaladja;”
