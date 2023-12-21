@@ -1,1 +1,0 @@
-## „h) tábla: az Európai Mezőgazdasági Garancia Alapból, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes támogatások igénybevételével kapcsolatos egységes eljárási szabályokról szóló 36/2009. (IV. 3.) FVM rendelet 1. § 3. pontjában meghatározott fogalom;”
