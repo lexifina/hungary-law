@@ -1,1 +1,0 @@
-## „(6) Nem támogatható kiadás a támogatás elnyerése esetén fizetendő, számszerűen meghatározott összegű, az összköltség vagy a támogatás százalékában megállapított, vagy bármilyen egyéb módon meghatározott sikerdíj.”

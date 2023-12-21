@@ -1,1 +1,0 @@
-## „e) a támogatással érintett ingatlannak a támogatási kérelem benyújtásakor per- és igénymentesnek kell lennie. Ettől eltérően a támogatással érintett ingatlant elővásárlási jog, az önkormányzatokat megillető visszavásárlási jog, a banki jelzálogjoghoz kapcsolódó vételi jog terhelheti.”
