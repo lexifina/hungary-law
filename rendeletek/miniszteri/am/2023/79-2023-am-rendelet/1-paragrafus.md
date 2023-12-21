@@ -1,0 +1,1 @@
+1. § Hatályát veszti az Európai Mezőgazdasági Vidékfejlesztési Alapból a kertészeti gépek, technológiai berendezések beszerzéséhez nyújtandó támogatások részletes feltételeiről szóló 26/2008. (III. 7.) FVM rendelet módosításáról szóló 58/2008. (IV. 29.) FVM rendelet.
