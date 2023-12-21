@@ -1,0 +1,1 @@
+1. § Hatályát veszti az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgazdasági termelők számára nyújtandó támogatás részletes feltételeiről szóló 67/2007. (VII. 26.) FVM rendeletet módosításáról szóló 105/2008. (VIII. 14.) FVM rendelet.
