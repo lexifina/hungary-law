@@ -470,13 +470,13 @@ c) további, az a) pontba nem sorolt, a felsőoktatási intézmény képzési te
 
 d) a felsőoktatási intézmény alaptevékenységéből származó szellemi értékek közösségi célú megismertetésével és gazdasági hasznosításával hozzájárulás a térsége társadalmi és gazdasági fejlődéséhez,
 
-3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése, érdekében
+3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése érdekében
 
 a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése,
 
 b) rászorultsági alapú támogatás biztosítása,
 
-c) tehetséggondozó programok működésének támogatása.
+4. a betegségek megelőzését segítő – kiemelten lézeres egészségügyi adatelemzésen és mesterséges intelligencián alapuló – technológiákhoz kapcsolódó kutatások végzése, valamint az ehhez szükséges humánbiológiai minták gyűjtéséhez és tárolásához szükséges biobanki környezet kialakítása és működtetése
 
 |
 
