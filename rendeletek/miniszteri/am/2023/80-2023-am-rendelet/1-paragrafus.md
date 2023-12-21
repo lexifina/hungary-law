@@ -1,0 +1,1 @@
+1. § Hatályát veszti az Európai Mezőgazdasági Vidékfejlesztési Alapból a mezőgazdasági termékek értéknöveléséhez nyújtandó támogatások igénybevételének részletes feltételeiről szóló 47/2008. (IV. 17.) FVM rendelet módosításáról szóló 61/2008. (IV. 30.) FVM rendelet.
