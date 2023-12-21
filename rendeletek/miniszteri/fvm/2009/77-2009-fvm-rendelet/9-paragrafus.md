@@ -1,1 +1,0 @@
-## „(7) Azon felsőfokú agrárvégzettségek esetében, amelyek nem szerepelnek a 4. számú mellékletben, de az azoknak megfeleltethető középfokú végzettség szerepel a 23/2007. (IV.17.) FVM rendelet 5/a. számú mellékletében, a középfokú agrárvégzettségért járó többletpont kerül beszámításra.”

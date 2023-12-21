@@ -1,3 +1,0 @@
-## 2. § Az R. 5. § (3) bekezdése helyébe az alábbi rendelkezés lép:
-
-## „(3) Amennyiben adott földterület tekintetében a Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.) gyakorolja a tulajdonosi jogokat és a földhasználó az (1) bekezdésben foglaltaktól eltérően nem rendelkezik földhasználati joggal a teljes támogatási időszakra, akkor legkésőbb 2010. május 15-ig rendelkeznie kell a teljes támogatási időszakra vonatkozóan bejegyzett földhasználati jogosultsággal, illetve az MNV Zrt. vagy a vagyonkezelő arra vonatkozó nyilatkozatával, hogy a támogatható földterületet a teljes támogatási időszak alatt használhatja.”
