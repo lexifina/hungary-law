@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-490-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2022-12-02 | 2022-490-20-22.1 | 490/2022. (XII. 1.) Korm. rendelet |
+| 2023-12-21 | 2022-490-20-22.2 | 589/2023. (XII. 20.) Korm. rendelet |
