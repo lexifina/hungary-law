@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-38-20-2
 | --- | --- | --- |
 | 2021-02-10 | 2021-38-20-22.1 | 38/2021. (II. 2.) Korm. rendelet |
 | 2023-01-01 | 2021-38-20-22.2 | 409/2022. (X. 24.) Korm. rendelet |
+| 2023-12-21 | 2021-38-20-22.3 | 592/2023. (XII. 20.) Korm. rendelet |
