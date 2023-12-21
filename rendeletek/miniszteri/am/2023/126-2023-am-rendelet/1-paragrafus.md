@@ -1,0 +1,1 @@
+1. § Hatályát veszti a Nemzeti Vidékfejlesztési Terv alapján a központi költségvetés, valamint az Európai Mezőgazdasági Orientációs és Garancia Alap Garancia Részlege társfinanszírozásában megvalósuló agrár-környezetgazdálkodási támogatások igénybevételének részletes szabályairól szóló 150/2004. (X. 12.) FVM rendelet módosításáról szóló 108/2009. (VIII. 14.) FVM rendelet.
