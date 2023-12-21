@@ -1,0 +1,1 @@
+1. § Hatályát veszti az Európai Mezőgazdasági Vidékfejlesztési Alapból a turisztikai tevékenységek ösztönzéséhez nyújtandó támogatások részletes feltételeiről szóló 137/2008. (X. 18.) FVM rendelet módosításáról szóló 92/2009. (VII. 28.) FVM rendelet.
