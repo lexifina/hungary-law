@@ -1,0 +1,1 @@
+1. § Hatályát veszti az egyes állatbetegségek és zoonózisok felszámolására, az ellenük való védekezésre és figyelemmel kísérésükre irányuló nemzeti programok 2009. évi finanszírozásának szabályairól szóló 38/2009. (IV. 8.) FVM rendelet módosításáról szóló 170/2009. (XII. 18.) FVM rendelet.
