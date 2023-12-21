@@ -1,0 +1,1 @@
+1. § Hatályát veszti az iparialma-termesztés 2008. évi termőegyensúly-helyreállításának csekély összegű (de minimis) támogatásáról szóló 128/2008. (X. 1.) FVM rendelet módosításáról szóló 146/2008. (XI. 7.) FVM rendelet.
