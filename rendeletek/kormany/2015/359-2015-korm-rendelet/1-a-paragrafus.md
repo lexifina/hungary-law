@@ -1,4 +1,4 @@
-1/A. §[^4] (1) Honvédelmi létfontosságú rendszerelem az ágazaton belüli honvédelmi létfontosságú rendszerelem és az ágazaton kívüli honvédelmi létfontosságú rendszerelem.
+1/A. §[^5] (1) Honvédelmi létfontosságú rendszerelem az ágazaton belüli honvédelmi létfontosságú rendszerelem és az ágazaton kívüli honvédelmi létfontosságú rendszerelem.
 
 (2) Ágazaton belüli honvédelmi létfontosságú rendszerelem a 3. § (1) bekezdése szerinti kijelölő hatóság által kijelölt,
 
@@ -10,4 +10,4 @@ amely megfelel a 2. §-ban meghatározott ágazati kritériumok valamelyikének.
 
 (3) Ágazaton kívüli honvédelmi létfontosságú rendszerelem a 4. § (3) vagy (4) bekezdése szerinti kijelölő hatóság által kijelölt, az Lrtv. 1. mellékletében meghatározott, nem honvédelmi ágazatba tartozó olyan rendszerelem vagy létesítmény, amely megfelel a 2. §-ban meghatározott ágazati kritériumok valamelyikének.
 
-[^4]: Az 1/A. §-t a 474/2023. (X. 26.) Korm. rendelet 1. §-a iktatta be.
+[^5]: Az 1/A. §-t a 474/2023. (X. 26.) Korm. rendelet 1. §-a iktatta be.
