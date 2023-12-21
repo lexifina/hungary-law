@@ -1,0 +1,1 @@
+1. § Hatályát veszti az Európai Mezőgazdasági Vidékfejlesztési Alapból a szaktanácsadási szolgáltatások igénybevételéhez nyújtandó támogatások részletes feltételeiről szóló 52/2007. (VI. 28.) FVM rendelet módosításáról szóló 154/2008. (XI. 26.) FVM rendelet.
