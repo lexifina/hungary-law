@@ -1,4 +1,4 @@
-8/D. §[^104] (1) Terrorcselekmény, fegyverrel vagy robbanószerrel valószínűsíthetően felszerelt elkövető által előidézett jogellenes cselekmény megszakítása érdekében a Terrorelhárítási Központ
+8/D. §[^105] (1) Terrorcselekmény, fegyverrel vagy robbanószerrel valószínűsíthetően felszerelt elkövető által előidézett jogellenes cselekmény megszakítása érdekében a Terrorelhárítási Központ
 
 a) Budapest CTR-ben a HungaroControl Zrt.-vel és a repülőtér üzemben tartójával,
 
@@ -8,4 +8,4 @@ kötött, a légiközlekedési hatóság által jóváhagyott háromoldalú koor
 
 (2) Az (1) bekezdésben meghatározott koordinációs együttműködési megállapodásnak a szerződő felek által közösen elkészített repülésbiztonsági elemzésen kell alapulnia.
 
-[^104]: A 8/D. §-t a 39/2021. (II. 2.) Korm. rendelet 8. §-a iktatta be.
+[^105]: A 8/D. §-t a 39/2021. (II. 2.) Korm. rendelet 8. §-a iktatta be.

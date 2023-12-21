@@ -2,7 +2,7 @@
 
 (2)[^88] A Magyarország érdekei szempontjából különösen fontos védett személyek védelme, a közbiztonság szempontjából különösen kockázatos rendezvények, események biztosítása, a nemzet biztonságát, az állampolgárok személyét vagy javait kiemelten sértő vagy veszélyeztető esemény felszámolása vagy következményeinek enyhítése, a közrend fenntartása vagy helyreállítása érdekében a Terrorelhárítási Központ, az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, a Katonai Nemzetbiztonsági Szolgálat, az Információs Hivatal, a Készenléti Rendőrség, az Országgyűlési Őrség vagy az Országos Rendőr-főkapitányság kérelmére a légiközlekedési hatóság a védelemhez szükséges légtér igénybevételét korlátozza.
 
-(3)[^89] A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló törvényben meghatározott honvédelmi érdekek alapján a Magyar Honvédség kérelmére a légiközlekedési hatóság a védelemhez szükséges légtér igénybevételét korlátozza.
+(3)[^89] A honvédelemről és Magyar Honvédségről szóló törvényben meghatározott honvédelmi érdekek alapján a Magyar Honvédség kérelmére a légiközlekedési hatóság a védelemhez szükséges légtér igénybevételét korlátozza.
 
 (4)[^90] Magyarországot ért vagy várható támadás, az azzal való fenyegetettség esetén a magyar légtér védelmének biztosítása érdekében a légiközlekedési hatóság a Terrorelhárítási Központ, vagy a Katonai Nemzetbiztonsági Szolgálat kérelmére a védelemhez szükséges légtér igénybevételét korlátozza.
 
@@ -12,5 +12,5 @@
 
 [^87]: A 8/A. §-t a 177/2011. (IX. 1.) Korm. rendelet 8. §-a iktatta be.
 [^88]: A 8/A. § (2) bekezdése a 39/2021. (II. 2.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^89]: A 8/A. § (3) bekezdése a 286/2012. (X. 11.) Korm. rendelet 2. § c) pontja, a 11/2018. (II. 6.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
+[^89]: A 8/A. § (3) bekezdése a 286/2012. (X. 11.) Korm. rendelet 2. § c) pontja, a 11/2018. (II. 6.) Korm. rendelet 4. § c) pontja, az 592/2023. (XII. 20.) Korm. rendelet 1. § d) pontja szerint módosított szöveg.
 [^90]: A 8/A. § (4) bekezdése a 286/2012. (X. 11.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
