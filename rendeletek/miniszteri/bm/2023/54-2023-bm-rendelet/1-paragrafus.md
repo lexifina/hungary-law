@@ -1,1 +1,3 @@
-1. § Hatályát veszti a Budapest Liszt Ferenc Nemzetközi Repülőtér tűzvédelmi, műszaki mentési feladatait ellátó hivatásos tűzoltóság működéséről, fenntartásáról és fejlesztéséről szóló 60/2012. (XI. 30.) BM rendelet.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
