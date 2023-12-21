@@ -1,0 +1,1 @@
+1. § Hatályát veszti az Európai Mezőgazdasági Vidékfejlesztési Alapból a mezőgazdasági termelők gazdaságátadásához nyújtandó támogatás részletes feltételeiről szóló 83/2007. (VIII. 10.) FVM rendelet módosításáról szóló 76/2008. (VI. 14.) FVM rendelet.
