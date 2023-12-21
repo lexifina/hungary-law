@@ -1,1 +1,0 @@
-## „Zöldségvetőmag előállítás szántóföldi ellenőrzése”
