@@ -1,1 +1,0 @@
-## „(5) Az (1) bekezdés a) és c) pontjában meghatározott ügyfelek kötelesek a gazdaságuk méretét igazoló – a Vhr. 1. számú melléklete szerinti – SFH kódot és annak mennyiségét a gazdaságuk egészére vonatkozóan közölni a támogatási kérelmükben.”
