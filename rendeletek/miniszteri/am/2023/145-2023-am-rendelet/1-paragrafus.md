@@ -1,0 +1,1 @@
+1. § Hatályát veszti a 2012. évi körzeti erdőtervezésre vonatkozó tervezési alapelvekről, valamint az érintett körzeti erdőtervek alapján folytatott erdőgazdálkodásról szóló 85/2012. (VIII. 6.) VM rendelet.
