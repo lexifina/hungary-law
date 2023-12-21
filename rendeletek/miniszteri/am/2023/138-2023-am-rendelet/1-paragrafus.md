@@ -1,0 +1,1 @@
+1. § Hatályát veszti a pénzügyi- és gazdasági válság kapcsán mezőgazdasági termelő vállalkozások részére a központi költségvetésből nyújtandó átmeneti állami támogatás igénybevételének eljárási szabályairól szóló 2/2010. (I. 14.) FVM rendelet.
