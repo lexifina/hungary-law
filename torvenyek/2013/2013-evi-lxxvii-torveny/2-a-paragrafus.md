@@ -8,10 +8,12 @@
 
 (2) Ha a felnőttképző
 
-a) a szakképzésről szóló törvény szerinti szakmai képzést vagy – nem szakképző intézményként – részszakmára felkészítő szakmai oktatást vagy
+a) a szakképzésről szóló törvény szerinti szakmai képzést vagy – nem szakképző intézményként – részszakmára felkészítő szakmai oktatást,
 
-b) – a belső képzés és jogszabály alapján szervezett oktatás és képzés kivételével – részben vagy egészben az államháztartás terhére nyújtott költségvetési támogatásból vagy európai uniós forrásból megvalósuló oktatást vagy képzést
+b) – a belső képzés és jogszabály alapján szervezett oktatás és képzés kivételével – részben vagy egészben az államháztartás terhére nyújtott költségvetési támogatásból vagy európai uniós forrásból megvalósuló oktatást vagy képzést, vagy
+
+c) mikrotanúsítványt adó képzést
 
 szervez, e felnőttképzési tevékenységét a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti engedély alapján végezheti.
 
-(3) A szakképző intézmény a (2) bekezdés a) pontja szerinti felnőttképzési tevékenységet engedély nélkül is végezhet.
+(3) A szakképző intézmény és a felsőoktatási intézmény a (2) bekezdés szerinti felnőttképzési tevékenységeket engedély nélkül is végezhet.
