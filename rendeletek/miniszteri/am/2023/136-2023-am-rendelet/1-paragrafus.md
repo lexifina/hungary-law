@@ -1,0 +1,1 @@
+1. § Hatályát veszti az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtott támogatások részletes feltételeit megállapító egyes miniszteri rendeletek módosításáról szóló 175/2009. (XII. 23.) FVM rendelet.
