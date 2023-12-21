@@ -1,3 +1,0 @@
-## 3. § Az R. 4. §-a a következő (9) bekezdéssel egészül ki:
-
-## „(9) Ha az ügyfél pálinkatermékekkel kapcsolatos beruházásra nyújt be kérelmet, akkor – függetlenül attól, hogy az (1) bekezdés a) vagy b) pontjának hatálya alá tartozik – a támogatás mértéke az állami támogatásokról szóló r. 9. § (2) és (3) bekezdésében foglalt mérték azzal, hogy a támogatás intenzitása nem lehet magasabb, mint az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról szóló, 2005. szeptember 20-i 1698/2005/EK tanácsi rendelet mellékletében a 26. és 28. cikkekhez rendelt maximális támogatás intenzitás.”

@@ -1,3 +1,0 @@
-## 2. § Az R. a következő 3/A. §-sal egészül ki:
-
-## „3/A. § Az 5. számú mellékletben felsorolt 22082029, 22082089, 22089033, 22089038, 22089048, 22089071 KN kódú termékekkel (a továbbiakban: pálinkatermékek) kapcsolatos beruházásokkal kapcsolatban az Új Magyarország Vidékfejlesztési Programra meghatározott előirányzatok felhasználásának állami támogatási szempontú szabályairól szóló 77/2007. (VII. 30.) FVM rendelet (a továbbiakban: állami támogatásokról szóló r.) előírásait is alkalmazni kell. Amennyiben az állami támogatásokról szóló r. szabályai eltérően rendelkeznek a Vhr.-től, vagy e rendelet előírásaitól, akkor az állami támogatásokról szóló r. szabályai irányadók.”

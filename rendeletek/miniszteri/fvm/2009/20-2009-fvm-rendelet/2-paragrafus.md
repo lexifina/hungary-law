@@ -1,5 +1,0 @@
-## 1. § Az Európai Mezőgazdasági Vidékfejlesztési Alapból a mezőgazdasági termékek értéknöveléséhez nyújtandó támogatások részletes feltételeiről szóló 47/2008. (IV. 17.) FVM rendelet (a továbbiakban: R.) 3. §-ának (3)–(4) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) Támogatás az 1. célterületen kizárólag az 5. számú melléklet szerinti termékekkel kapcsolatos műveletre vehető igénybe. Támogatás csak abban az esetben adható, ha az ügyfélnek a beruházással érintett termékek esetében az 5. számú mellékletben szereplő támogatható termékek értékesítéséből származó árbevételének a beruházással érintett termékek értékesítéséből származó árbevételéhez viszonyított aránya a beruházás befejezését követő első lezárt, teljes gazdasági évtől kezdődően 50%-nál nagyobb.
-
-## (4) Támogatás a 2. célterületen kizárólag a 3. számú mellékletben felsorolt TEÁOR'08 számok szerinti tevékenységek valamelyikét főtevékenységként végző ügyfél számára nyújtható, amennyiben a Szerződés I. mellékletében szereplő termékek – kivéve halászat – és a pálinkatermékek értékesítéséből származó árbevételének aránya a vállalkozás összárbevételének 50%-át meghaladja.”
