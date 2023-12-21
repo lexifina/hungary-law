@@ -8,7 +8,7 @@ b) végrehajtja a katasztrófák elleni védekezésért felelős miniszter, öss
 
 c) irányítja a védekezésben részt vevő szerv tevékenységét, és koordinálja a felajánlást,
 
-d)[^9] kezdeményezheti más vármegye vagy a főváros polgári védelmi szervezetének alkalmazását, továbbá a Magyar Honvédség közreműködését,
+d)[^10] kezdeményezheti más vármegye vagy a főváros polgári védelmi szervezetének alkalmazását, továbbá a Magyar Honvédség közreműködését,
 
 e) illetékességi területén működő területi államigazgatási szerv részére a védekezéssel és a felkészüléssel összefüggő feladatot határozhat meg a védekezés feladatainak összehangolása érdekében, valamint
 
@@ -16,4 +16,4 @@ f) felügyeli és koordinálja a lakosság tájékoztatásával kapcsolatos ter�
 
 (3) Az operatív munkaszerv ügyrendjét saját maga állapítja meg, amelyet a területi védelmi bizottság vezetője hagy jóvá.
 
-[^9]: A 11. § (2) bekezdés d) pontja a 22. § (2) bekezdése szerint módosított szöveg.
+[^10]: A 11. § (2) bekezdés d) pontja a 22. § (2) bekezdése szerint módosított szöveg.

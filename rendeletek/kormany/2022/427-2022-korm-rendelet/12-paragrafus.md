@@ -1,8 +1,8 @@
 ## 2. A helyi védelmi bizottság
 
-12. § (1)[^10] A helyi védelmi bizottság gazdasági ügyeit a fővárosi és vármegyei kormányhivatal intézi.
+12. § (1)[^11] A helyi védelmi bizottság gazdasági ügyeit a fővárosi és vármegyei kormányhivatal intézi.
 
-(2)[^11] A helyi védelmi bizottság elnökét védelmi és biztonsági igazgatási feladata ellátásában a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal), valamint a védelmi és biztonsági feladat ellátásában részt vevő szerv, szervezet javaslattevő, döntés-előkészítő jogkörrel támogatja, és közreműködik a döntés végrehajtásában.
+(2)[^12] A helyi védelmi bizottság elnökét védelmi és biztonsági igazgatási feladata ellátásában a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal), valamint a védelmi és biztonsági feladat ellátásában részt vevő szerv, szervezet javaslattevő, döntés-előkészítő jogkörrel támogatja, és közreműködik a döntés végrehajtásában.
 
 (3) A helyi védelmi bizottság titkári feladatait a járási hivatal hivatalvezető-helyettese látja el.
 
@@ -12,5 +12,5 @@
 
 (6) A járási hivatalvezető-helyettest titkári feladata ellátásában a területi védelmi igazgatási szerv rendszeres felkészítés és továbbképzés formájában támogatja. A helyi védelmi bizottság titkára közreműködik a polgármester védelmi és biztonsági igazgatási feladata ellátásában.
 
-[^10]: A 12. § (1) bekezdése a 22. § (1) bekezdése szerint módosított szöveg.
-[^11]: A 12. § (2) bekezdése a 22. § (1) bekezdése szerint módosított szöveg.
+[^11]: A 12. § (1) bekezdése a 22. § (1) bekezdése szerint módosított szöveg.
+[^12]: A 12. § (2) bekezdése a 22. § (1) bekezdése szerint módosított szöveg.

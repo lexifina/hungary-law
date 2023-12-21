@@ -12,7 +12,7 @@ d)[^8] a területi védelmi bizottság illetékességi területén működő ren
 
 e) az Országos Idegenrendészeti Főigazgatóság területileg illetékes vezetőjét, kivéve, ha tagja a területi védelmi bizottságnak,
 
-f) a Magyar Honvédség parancsnoka által a területi védelmi bizottsággal együttműködésre kijelölt katonai szervezet parancsnokát,
+f)[^9] a Honvéd Vezérkar főnöke által a területi védelmi bizottsággal együttműködésre kijelölt katonai szervezet parancsnokát,
 
 g) az Országos Mentőszolgálat területileg illetékes vezetőjét,
 
@@ -25,3 +25,4 @@ j) az a)–i) pont szerinti vezető által kijelölt képviselőt.
 (3) A (2) bekezdésben meghatározott személyen kívül a területi védelmi bizottság elnöke meghívja azt, akinek a területi védelmi bizottság ülésén való jelenlétét indokoltnak tartja.
 
 [^8]: A 10. § (2) bekezdés d) pontja a 22. § (1) bekezdése szerint módosított szöveg.
+[^9]: A 10. § (2) bekezdés f) pontja az 592/2023. (XII. 20.) Korm. rendelet 8. §-a szerint módosított szöveg.
