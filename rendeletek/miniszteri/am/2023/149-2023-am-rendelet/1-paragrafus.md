@@ -1,0 +1,1 @@
+1. § Hatályát veszti a 2015. évi körzeti erdőtervezésre vonatkozó tervezési alapelvekről, valamint az erdőgazdálkodás tartamosságát és fejlesztését szolgáló körzeti erdőtervezési keretértékekről szóló 45/2015. (VII. 28.) FM rendelet.
