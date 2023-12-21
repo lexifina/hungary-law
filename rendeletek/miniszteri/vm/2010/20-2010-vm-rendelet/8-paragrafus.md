@@ -1,1 +1,0 @@
-## „b) a (2) bekezdés b) pontja esetén az új tagok belépési nyilatkozata és az aktualizált taglista, korlátolt felelősségű társasági formában működő csoportoknál elegendő az új tagok adatait is tartalmazó alapító okirat másolati példánya,”

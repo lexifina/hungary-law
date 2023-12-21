@@ -1,1 +1,0 @@
-## „d) a csoport tagjainak jogosultságai között – a tagokkal folytatott gazdasági kapcsolatokban megvalósuló non-profit elv és a beszállításra vonatkozó arányos osztozkodás érvényesítése érdekében – üzletrészhányadon kívüli különbségtétel nem lehet.”
