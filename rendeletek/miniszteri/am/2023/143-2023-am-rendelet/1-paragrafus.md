@@ -1,0 +1,1 @@
+1. § Hatályát veszti a 2011. évi körzeti erdőtervezésre vonatkozó tervezési alapelvekről, valamint az érintett körzeti erdőtervek alapján folytatott erdőgazdálkodásról szóló 96/2011. (X. 17.) VM rendelet.
