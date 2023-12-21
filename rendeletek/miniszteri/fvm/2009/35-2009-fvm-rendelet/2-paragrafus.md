@@ -1,1 +1,0 @@
-## 1. § Az Európai Mezőgazdasági Vidékfejlesztési Alapból a kertészeti gépek, technológiai berendezések beszerzéséhez nyújtandó támogatások részletes feltételeiről szóló 26/2008. (III. 7.) FVM rendelet (a továbbiakban: R.) 2. számú melléklete helyébe e rendelet 1. számú melléklete lép.
