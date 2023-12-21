@@ -1,0 +1,1 @@
+1. § Hatályát veszti az Európai Mezőgazdasági Vidékfejlesztési Alapból a rövid vágásfordulójú fás szárú energiaültetvények telepítéséhez nyújtott támogatás igénybevételének részletes feltételeiről szóló 72/2007. (VII. 27.) FVM rendelet módosításáról szóló 48/2009. (IV. 16.) FVM rendelet.
