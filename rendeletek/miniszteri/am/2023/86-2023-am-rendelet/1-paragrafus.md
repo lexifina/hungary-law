@@ -1,0 +1,1 @@
+1. § Hatályát veszti a mezőgazdasági vállalkozások által de minimis támogatásként igénybe vehető intézményi kezességvállalásról szóló 50/2007. (VI. 27.) FVM rendelet módosításáról szóló 99/2008. (VIII. 6.) FVM rendelet.
