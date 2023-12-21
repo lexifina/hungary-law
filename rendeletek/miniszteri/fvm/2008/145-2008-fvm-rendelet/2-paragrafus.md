@@ -1,3 +1,0 @@
-## 1. § Az Európai Mezőgazdasági Vidékfejlesztési Alapból az öntözés, a melioráció és a területi vízgazdálkodás mezőgazdasági üzemi és közösségi létesítményeinek fejlesztéséhez nyújtandó támogatások részletes feltételeiről szóló 34/2008. (III. 27.) FVM rendelet (a továbbiakban: R.) 4. § (9) bekezdése helyébe a következő rendelkezés lép:
-
-## „(9) Ha az ügyfél vízgazdálkodási társulat, akkor az állami tulajdonú földterületek esetében a Vhr. 27. § (1) bekezdés b) pontjától eltérően, az első kifizetési kérelemhez kell mellékelni a beruházás megvalósításának helyére vonatkozó, teljes bizonyító erejű okiratot.”
