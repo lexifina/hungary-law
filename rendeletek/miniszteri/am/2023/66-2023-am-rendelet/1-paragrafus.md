@@ -1,0 +1,1 @@
+1. § Hatályát veszti a növényvédő szerek forgalomba hozatalának és felhasználásának engedélyezéséről, valamint a növényvédő szerek csomagolásáról, jelöléséről, tárolásáról és szállításáról szóló 89/2004. (V. 15.) FVM rendelet módosításáról szóló 2/2006. (I. 18.) FVM rendelet.
