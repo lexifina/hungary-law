@@ -4,7 +4,7 @@
 
 a) a tanulmányaihoz kapcsolódó résztanulmányok folytatása céljából másik felsőoktatási intézménnyel vendéghallgatói jogviszonyt létesíthet,
 
-b) kérheti átvételét azonos, illetve másik felsőoktatási intézmény ugyanazon képzési területhez tartozó szakjára.
+b) kérheti átvételét azonos, illetve másik felsőoktatási intézmény ugyanazon vagy rokon képzési területhez tartozó szakjára.
 
 (1a) A felsőoktatási intézmény az (1) bekezdés a) pontja szerinti tanulmányi teljesítményről a tanulmányi rendszeréből a tárgyleírást (tematika) is tartalmazó mikrotanúsítványt állít ki és azt elektronikusan a tanulmányi rendszeren keresztül átadja azon felsőoktatási intézmény tanulmányi rendszerének, amellyel a vendéghallgató hallgatói jogviszonyban áll.
 

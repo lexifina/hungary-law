@@ -6,7 +6,7 @@ a) közhiteles nyilvántartást vezet a felsőoktatási intézmények alapító 
 
 b) dönt a nem költségvetési szervként működő felsőoktatási intézmény közhasznúsági nyilvántartásba vételéről,
 
-c) nyilvántartásba veszi a Felsőoktatási Tervezési Testületet, a Magyar Rektori Konferenciát, a MAB-ot, és a Hallgatói Önkormányzatok Országos Konferenciáját, a Doktoranduszok Országos Szövetségét, az Országos Tudományos Diákköri Tanácsot, az Országos Doktori Tanácsot,
+c) nyilvántartásba veszi a Magyar Rektori Konferenciát, a MAB-ot, és a Hallgatói Önkormányzatok Országos Konferenciáját, a Doktoranduszok Országos Szövetségét, az Országos Tudományos Diákköri Tanácsot, az Országos Doktori Tanácsot,
 
 d) vezeti a nyelvvizsgák nyelvvizsga-anyakönyveinek nyilvántartását, továbbá
 
@@ -40,11 +40,11 @@ kapcsolatos ügyekben.
 
 (4a) A MAB a szakértői véleményét a (3) bekezdés a), c) és e) pontjában, valamint a 8. § (2) bekezdésében szabályozott eljárásokban a felsőoktatási minőségbiztosítás európai sztenderdjeinek (Standards and Guidelines in the European Higher Education Area, a továbbiakban: ESG) figyelembe vételével alakítja ki. Az oktatási hivatal határozatában ismertetni kell a MAB ESG-nek való megfelelésről hozott szakértői megállapítását.
 
-(4b) A (3) bekezdés e) pontjában meghatározott eljárásokban, valamint az alap- és mesterképzés, felsőoktatási szakképzés indítása esetén a (3) bekezdés c) pontja szerinti eljárásban a felsőoktatási intézmény kezdeményezheti, hogy a (4) bekezdésben megjelölt szakértő helyett a felsőoktatási intézmény által javasolt, az Európai Felsőoktatási Minőségbiztosítási Szövetség (European Association for Quality Assurance in Higher Education) teljes jogú tagjaként működő és az Európai Felsőoktatási Minőségbiztosítási Regiszterbe (European Quality Assurance Register for Higher Education) bejegyzett szervezet felkérésére kerüljön sor. Ebben az esetben az oktatási hivatal a MAB szakvéleménye helyett – a (4) bekezdésben meghatározott feltételek mellett – a felkért szervezet szakértői véleményét szerzi be azzal, hogy az azonos tárgy vagy személy tekintetében egy eljárás keretében szükséges újabb, ugyanazon szervezet által adott szakvélemény elkészítésében nem vehet részt az a személy, aki az eljárás korábbi részében szakértőként már részt vett.
+(4b) A (3) bekezdés a) és e) pontjában meghatározott eljárásokban, valamint az alap- és mesterképzés, felsőoktatási szakképzés indítása esetén a (3) bekezdés c) pontja szerinti eljárásban a felsőoktatási intézmény kezdeményezheti, hogy a (4) bekezdésben megjelölt szakértő helyett a felsőoktatási intézmény által javasolt, az Európai Felsőoktatási Minőségbiztosítási Szövetség (European Association for Quality Assurance in Higher Education) teljes jogú tagjaként működő és az Európai Felsőoktatási Minőségbiztosítási Regiszterbe (European Quality Assurance Register for Higher Education) bejegyzett szervezet felkérésére kerüljön sor. Ebben az esetben az oktatási hivatal a MAB szakvéleménye helyett – a (4) bekezdésben meghatározott feltételek mellett – a felkért szervezet szakértői véleményét szerzi be azzal, hogy az azonos tárgy vagy személy tekintetében egy eljárás keretében szükséges újabb, ugyanazon szervezet által adott szakvélemény elkészítésében nem vehet részt az a személy, aki az eljárás korábbi részében szakértőként már részt vett.
 
 (4c) A 15. § (4a) bekezdésének megfelelő felsőoktatási intézmény a képzés nyilvántartásba vételét követő 3 éven belül köteles beszerezni a MAB vagy a (4b) bekezdés szerinti szervezet szakvéleményét, ha arra a képzés indítását megelőzően nem került sor. Ezen időpontig köteles a képzésre jelentkezők, illetve a képzésre felvett hallgatók figyelmét felhívni arra, hogy az adott képzés még nem rendelkezik külső minőségbiztosító értékelésével.
 
-(4d) A 15. § (4a) bekezdésének megfelelő felsőoktatási intézmény a 15. § (1a) bekezdés szerint létesített mesterképzés létesítését a képzési és kimeneti követelménynek és a mintatantervnek az oktatási hivatalhoz és a képzési és kimeneti követelménynek a MAB-hoz történő megküldésével kezdeményezi.
+(4d) A 15. § (4a) bekezdésének megfelelő felsőoktatási intézmény a 15. § (1a) bekezdés szerint létesített mesterképzés létesítését a képzési és kimeneti követelménynek és a mintatantervnek az oktatási hivatalhoz történő megküldésével kezdeményezi.
 
 (5) A (3) bekezdés c) pontjában meghatározott eljárásban – Magyarországon folytatott alap- vagy mesterképzésként – csak a 14. § (2a) bekezdés a), b) és d) pontja szerinti helyszínen folytatott képzés indítása engedélyezhető.
 

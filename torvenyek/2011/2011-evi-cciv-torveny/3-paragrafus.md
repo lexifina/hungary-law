@@ -12,7 +12,9 @@ c) a doktori képzés.
 
 a) felsőoktatási szakképzés,
 
-b) szakirányú továbbképzés
+b) szakirányú továbbképzés, valamint
+
+c) részismereti képzés
 
 is szervezhető.
 

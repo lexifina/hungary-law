@@ -6,7 +6,7 @@
 
 83. § (1) Ha a hallgató önköltséges képzésben vesz részt, a 81. § (1)–(2) bekezdésében meghatározottakért önköltséget, a 82. § (1)–(2) bekezdésben felsoroltakért térítési díjat kell fizetnie.
 
-(2) A térítési díj megállapításának rendjét a térítési és juttatási szabályzatban kell meghatározni, amely alapján a hallgató és a felsőoktatási intézmény megállapodásban rögzíti a térítési díj összegét.
+(2) Az önköltség és a térítési díj megállapításának rendjét a térítési és juttatási szabályzatban kell meghatározni, amely alapján a hallgató és a felsőoktatási intézmény a hallgatói képzési szerződésben rögzíti az önköltség és a térítési díj összegét.
 
 (3) Vissza kell fizetni a befizetett önköltség szervezeti és működési szabályzatban meghatározott arányos részét, ha a hallgató a szervezeti és működési szabályzatban meghatározott időpontig bejelenti, hogy megszünteti vagy szünetelteti hallgatói jogviszonyát.
 

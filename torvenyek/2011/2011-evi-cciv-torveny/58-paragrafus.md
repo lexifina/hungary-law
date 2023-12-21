@@ -4,7 +4,7 @@
 
 (3) A 57. §-t, és az (1)–(2) bekezdésben foglaltakat megfelelően alkalmazni kell
 
-a) a felsőoktatási intézménybe jelentkezőt,
+a)
 
 b)
 

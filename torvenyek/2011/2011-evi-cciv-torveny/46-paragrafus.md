@@ -8,7 +8,7 @@
 
 a) magyar állami ösztöndíjjal támogatott hallgató,
 
-b) magyar állami részösztöndíjjal támogatott hallgató,
+b) magyar állami részösztöndíjjal támogatott hallgató, valamint
 
 c) önköltséges hallgató.
 
@@ -16,7 +16,7 @@ c) önköltséges hallgató.
 
 (2a)
 
-(3) A magyar állami ösztöndíjjal támogatott hallgató képzésének jogszabályban meghatározott költségét, valamint a magyar állami részösztöndíjjal támogatott hallgató képzési költségének egy részét az állam, az önköltséges képzés költségeit a hallgató viseli. A magyar állami (rész)ösztöndíjjal támogatott képzésre tekintettel a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv által megállapított visszafizetési kötelezettség adók módjára behajtandó köztartozás. Bármely képzési ciklusban, felsőoktatási szakképzésben, szakirányú továbbképzésben részt vevő hallgató lehet magyar állami (rész)ösztöndíjjal támogatott, függetlenül annak munkarendjétől.
+(3) A magyar állami ösztöndíjjal támogatott hallgató képzésének jogszabályban meghatározott költségét, valamint a magyar állami részösztöndíjjal támogatott hallgató képzési költségének egy részét az állam, az önköltséges képzés költségeit a hallgató vagy a hallgató önköltséges képzésének díját viselő természetes vagy jogi személy viseli. A magyar állami (rész)ösztöndíjjal támogatott képzésre tekintettel a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv által megállapított visszafizetési kötelezettség adók módjára behajtandó köztartozás. Bármely képzési ciklusban, felsőoktatási szakképzésben, szakirányú továbbképzésben részt vevő hallgató lehet magyar állami (rész)ösztöndíjjal támogatott, függetlenül annak munkarendjétől.
 
 (4) A miniszter évente − a 39. § (5) és (6) bekezdésében megállapított keretek között − határozattal állapítja meg azt, hogy mely, a felsőoktatási intézmények által folytatott szakos képzésen vehető igénybe magyar állami (rész)ösztöndíj. A határozatot Magyar Közlöny mellékletét képező Hivatalos Értesítőben közzé kell tenni.
 

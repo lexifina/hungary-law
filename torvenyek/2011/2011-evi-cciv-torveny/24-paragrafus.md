@@ -30,7 +30,7 @@ c) szerinti vezetői illetménypótlék mértékét a rektor, kancellár tekinte
 
 d) 69. §-ában foglaltaktól kormányrendelet a magasabb vezető vezetői illetménypótlékának számítási alapja tekintetében eltérhet,
 
-e) 70. § (2) bekezdésétől kormányrendelet eltérhet,
+e) 70. § (2) bekezdésétől kormányrendelet eltérhet, továbbá
 
 f) 20/A. § (6) bekezdésében foglaltakat azzal kell alkalmazni, hogy a kancellári pályázati eljárásban a bizottságban a felsőoktatási intézmény rektora részt vesz.
 

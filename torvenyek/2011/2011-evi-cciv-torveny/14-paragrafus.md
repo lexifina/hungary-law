@@ -12,9 +12,11 @@ c) a 78. § (1) bekezdésében meghatározott esetben székhelyen kívüli képz
 
 d) fenntartói egyetértéssel kötött megállapodás alapján más felsőoktatási intézmény székhelyének, telephelyének településén, továbbá
 
-e) szakirányú továbbképzés esetén székhelyén kívüli képzési hely településén is
+e) szakirányú továbbképzés és részismereti képzés esetén székhelyén kívüli képzési hely településén is
 
 folytathat tevékenységet.
+
+(2b) A felsőoktatási intézmény zárt rendszerű távoktatási képzésmenedzsment-rendszerrel megvalósított képzési tevékenységét – ideértve a részismereti képzést is és függetlenül a hallgató tartózkodási vagy beiratkozási helyétől – úgy kell tekinteni, hogy az Magyarország területén a képző felsőoktatási intézmény székhelyén valósult meg.
 
 (3) A felsőoktatási intézmény nem oktatási szervezeti egységei intézményi központtá szervezhetők.
 

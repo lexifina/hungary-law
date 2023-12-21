@@ -70,11 +70,11 @@ g) a záróvizsgák szervezésének rendjét és értékelésének elveit,
 
 18. a felsőoktatási intézmények nyilvántartását vezető szerv vagy szervek eljárását, működési, felügyeleti rendjét,
 
-19. a MAB elnöke, tagjai, tisztségviselői részére biztosított tiszteletdíj megállapításának szabályait, a MAB létrehozásával, működésével, hatáskörével, a Felsőoktatási Tervezési Testület, a Duális Képzési Tanács létrehozásával, működésével, hatáskörével kapcsolatos kérdéseket,
+19. a MAB elnöke, tagjai, tisztségviselői részére biztosított tiszteletdíj megállapításának szabályait, a MAB létrehozásával, működésével, hatáskörével, a Duális Képzési Tanács létrehozásával, működésével, hatáskörével kapcsolatos kérdéseket,
 
 20. a felsőoktatási intézmény finanszírozásával, gazdálkodásával, az állammal köthető finanszírozási keretmegállapodással, a feladatfinanszírozási megállapodással kapcsolatos kérdéseket, a magán intézmények gazdálkodásával kapcsolatos kérdéseket,
 
-21. felsőoktatási ösztöndíjak alapítását, odaítélésük feltételeit, rendjét, így különösen a nemzeti felsőoktatási ösztöndíj, az esélyegyenlőségi ösztöndíj, valamint a Bursa Hungarica Felsőoktatási Önkormányzati Ösztöndíj adományozásának rendjét és feltételeit,
+21. felsőoktatási ösztöndíjak alapítását, odaítélésük feltételeit, rendjét, így különösen a nemzeti felsőoktatási ösztöndíj, ideértve a Kooperatív Doktori Program ösztöndíjat is, az esélyegyenlőségi ösztöndíj, valamint a Bursa Hungarica Felsőoktatási Önkormányzati Ösztöndíj adományozásának rendjét és feltételeit,
 
 22. a pedagógus ösztöndíj igénybevételének feltételeit, a pedagógusképzésben az alap- és mesterképzés, valamint az osztatlan képzés szakjait, választható egyenrangú szakpárjait, továbbá a mesterképzés szakosodási rendszerének általános szabályait,
 

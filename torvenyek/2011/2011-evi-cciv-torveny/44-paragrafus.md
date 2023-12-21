@@ -14,7 +14,7 @@ a) az (1) bekezdés a) pontja szerinti esetben díjazás illetheti, illetve a ha
 
 b)
 
-(3a) A képzési program keretében, illetve a képzés részeként – az (1) bekezdés a) pont szerint – megszervezett szakmai gyakorlatra – ide nem értve a duális képzést – költségvetési szervnél hallgatói munkaszerződés és díjazás nélkül is sor kerülhet. A hallgatót ez esetben is megilletik mindazon jogok, amelyeket a munka törvénykönyve biztosít a munkavállalók részére. A gyakorlati képzésben részt vevő hallgatóval e tevékenységére tekintettel a Kormány által meghatározott feltételekkel megállapodást kell kötni.
+(3a) A képzési program keretében, illetve a képzés részeként – az (1) bekezdés a) pont szerint – megszervezett szakmai gyakorlatra – ide nem értve a duális képzést – költségvetési szervnél, közfeladatot ellátó közérdekű vagyonkezelő alapítvány által fenntartott felsőoktatási intézménynél hallgatói munkaszerződés és díjazás nélkül is sor kerülhet. A hallgatót ez esetben is megilletik mindazon jogok, amelyeket a munka törvénykönyve biztosít a munkavállalók részére. A gyakorlati képzésben részt vevő hallgatóval e tevékenységére tekintettel a Kormány által meghatározott feltételekkel megállapodást kell kötni.
 
 (3b) Azon munkáltatónál végzett szakmai gyakorlat esetén, amelynél a hallgató foglalkoztatásra irányuló jogviszonyban áll, az (1) bekezdés a) pontja szerinti hallgatói munkaszerződést nem szükséges megkötni.
 

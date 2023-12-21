@@ -4,7 +4,7 @@
 
 (2) A felsőoktatás rendszerének működtetése az állam, a felsőoktatási intézmény működtetése a fenntartó feladata.
 
-(3) A felsőoktatási intézmény oktatási alaptevékenysége magában foglalja a felsőoktatási szakképzést, alapképzést, mesterképzést, a doktori képzést és a szakirányú továbbképzést. Az oktatási alaptevékenység körébe tartozó tevékenységet – ha e törvény eltérően nem rendelkezik – kizárólag felsőoktatási intézmény folytathat.
+(3) A felsőoktatási intézmény oktatási alaptevékenysége magában foglalja a felsőoktatási szakképzést, alapképzést, mesterképzést, a doktori képzést, részismereti képzést és a szakirányú továbbképzést. Az oktatási alaptevékenység körébe tartozó tevékenységet – ha e törvény eltérően nem rendelkezik – kizárólag felsőoktatási intézmény folytathat.
 
 (4) A felsőoktatási intézmény párt vagy párthoz kötődő szervezet részére helyiségeit működési célra nem engedheti át.
 

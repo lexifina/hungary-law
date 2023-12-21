@@ -6,7 +6,9 @@
 
 1a. doktori értekezés: a doktorandusz által készített írásmű, alkotás vagy munka, amellyel bizonyítja, hogy a fokozat követelményeihez mért tudományos feladat önálló megoldására képes;
 
-1b. duális képzés: a műszaki, informatika, agrár, természettudomány, egészségtudomány vagy gazdaságtudományok képzési területen indított gyakorlatigényes alapképzési szakon, diakónia és szociális munka alapképzési szakon, illetve a felsorolt képzési területhez tartozó mesterképzési szakon folytatott képzés azon formája, amelyben a szak – képzési és kimeneti követelményeknek megfelelően meghatározott, teljes idejű, a képzési időszakra, a képzés módszereire, a tanórára, a megszerzett tudás értékelésére egyedi rendelkezéseket tartalmazó – tanterve szerint a gyakorlati képzés a Duális Képzési Tanács által meghatározott keretek között, minősített szervezetnél folyik;
+1b. duális képzés: a műszaki, informatika, agrár, természettudomány, egészségtudomány vagy gazdaságtudományok képzési területen indított gyakorlatigényes alapképzési szakon, diakónia és szociális munka alapképzési szakon, illetve a felsorolt képzési területhez tartozó mesterképzési szakon folytatott képzés azon formája, amelyben a szak – képzési és kimeneti követelményeknek megfelelően meghatározott, a képzési időszakra, a képzés módszereire, a tanórára, a megszerzett tudás értékelésére egyedi rendelkezéseket tartalmazó – tanterve szerint a gyakorlati képzés a Duális Képzési Tanács által meghatározott keretek között, minősített szervezetnél folyik;
+
+1c. biztonságos elektronikus környezet: olyan, a felsőoktatási intézmény tanulmányi rendszerén vagy zárt rendszerű távoktatási képzésmenedzsment-rendszerén (a továbbiakban együtt: képzési rendszerek) keresztül egyéni autentikációval elérhető digitális oktatási és tanulási környezet, illetve az intézményben használt elektronikus táblák, interaktív panelek, kivetítők, amelyekhez történő hozzáférés az oktatási intézmény oktatóira, tanáraira vagy segítőikre, továbbá a képzésében részt vevő – tanulói vagy hallgatói jogviszonnyal rendelkező – tanulókra vagy hallgatókra korlátozódik, függetlenül attól, hogy az oktatási és tanulási tevékenység az intézmény telephelyén vagy a tanulmányi rendszer, vagy a zárt rendszerű távoktatási képzésmenedzsment-rendszeren keresztüli – egyéni autentikációval megvalósuló – lehívással, hozzáférhetővé tétellel valósul meg;
 
 2. egészségügyi alkalmassági vizsgálat: orvosi vizsgálat, amelynek célja annak megállapítása, hogy az egyén testi adottságai és egészségi állapota alapján képes-e felkészülni a választott tevékenység ellátására, ennek során nem kerül-e veszélybe egészsége;
 
@@ -64,11 +66,15 @@ tartalmazza, a képzés részletes szabályaival, különösen a tantervvel, ill
 
 22. klinika: a klinikai központ szervezeti egysége, amely az egészségügyi szolgáltató működési engedélye szerinti progresszivitási szinten és területi ellátási kötelezettsége keretében nyújtott gyógyító-megelőző feladatain keresztül közreműködik az orvos-, fogorvos-, gyógyszerész- és egészségtudományi képzéssel összefüggő képzési feladatok ellátásában, továbbá részt vesz az orvos- és egészségtudomány adott ágának elméleti és gyakorlati fejlesztésében, e szakterületen kutatómunkát végez;
 
+22a. kooperatív doktori képzés: olyan doktori képzés, amely során a matematikai, természettudományi, műszaki, informatikai, agrártudományi, orvos- és egészségtudományi vagy művészeti területeken tanuló doktorandusz a doktori hallgatói jogviszonyával párhuzamosan olyan, nem felsőoktatási intézményként vagy költségvetési szervként működő munkáltatónál, vagy egészségügyi szolgáltatónál áll foglalkoztatásban, amely a doktorandusznak a kutatáshoz és a disszertációhoz szakmai, témavezetői segítséget nyújt azzal, hogy a tudományos és kutatási eredmények a doktoranduszt alkalmazó munkáltatónál kerülnek gyakorlati hasznosításra;
+
 23. konzultáció: a felsőoktatási intézmény oktatója által a hallgató részére biztosított személyes megbeszélés lehetősége, ideértve az elektronikus úton történő kommunikációt is;
 
 23a. közösségi felsőoktatási képzési központ: felsőoktatási intézmény székhelyén kívül működő, felsőoktatási intézménynek nem minősülő szervezet, amely a működési engedélyében meghatározott képzési terület és maximális hallgatói létszám erejéig a képzésre vonatkozó működési jogosultsággal, a szükséges oktatói karral rendelkező felsőoktatási intézménnyel kötött megállapodás alapján a felsőoktatási intézmény és annak hallgatói számára biztosítja a felsőoktatási oktatási alaptevékenység, a képzés tárgyi és ingatlanhasználati – a felsőoktatási intézménnyel kötött megállapodásban foglaltak szerint pénzügyi – feltételeit.
 
 24. kredit: a hallgatói tanulmányi munka mértékegysége, amely a tantárgy, illetve a tantervi egység vonatkozásában kifejezi azt a becsült időt, amely a tárgyleírás alapján meghatározott ismeretek elsajátításához, a követelmények teljesítéséhez szükséges; egy kredit átlagosan harminc tanulmányi munkaórát jelent, a kredit értéke – feltéve, hogy a hallgató teljesítményét elfogadták – nem függ attól, hogy a hallgató a tudására milyen értékelést kapott;
+
+24a. kurzus: a tantárgy (tanegység) adott félévre szóló, meghatározott ismeretátadási formával és típussal rendelkező meghirdetett megvalósulása, amelyhez a félévre vonatkozó – többek között a kurzus oktatóival, az órarendi időpontokkal, a félévi számonkéréssel kapcsolatos – adatok kerülnek rögzítésre a tantárgy adatain túl a tanulmányi rendszerben;
 
 25. levelező képzés munkarendje: olyan oktatásszervezési rend, mely szerint – az érintett hallgatókkal kötött eltérő megállapodás hiányában – a hallgatók tanóráira tömbösítve, legfeljebb két hetenként munkanapokon vagy a heti pihenőnapon az intézményben, valamint a képzés fennmaradó részében a távoktatás módszereinek alkalmazásával kerül sor;
 
@@ -78,13 +84,21 @@ tartalmazza, a képzés részletes szabályaival, különösen a tantervvel, ill
 
 28. mentorprogram: a képzésnek az a sajátos formája, amelyben a hátrányos helyzetű hallgató, tanuló felkészítéséhez, felkészüléséhez a felsőoktatási intézmény hallgatója, oktatója segítséget nyújt;
 
-28a. mikrotanúsítvány: tárgyleírást és kreditértéket is tartalmazó olyan igazolás, amely a felsőoktatási intézmény valamely kurzusának, moduljának elvégzése révén megszerzett tanulási eredményt igazoló közokirat;
+28a. mikrotanúsítvány: tárgyleírást és kreditértéket is tartalmazó olyan igazolás, amely a felsőoktatási intézmény valamely kurzusának, moduljának, részismereti vagy mikroképzésének elvégzése révén megszerzett tanulási eredményt igazoló közokirat;
+
+28b. modul: a tanulmányi rendszerben egyedi azonosítóval rögzített, meghatározott tantárgyak vagy tanegységek összessége;
+
+28c. oktatási, szemléltetési célú felhasználás: az oktatási tartalmak olyan felhasználása, ahol a felsőoktatási intézmény felelősségi körében végzett oktatási és tanulási tevékenység során kizárólag a felsőoktatási intézmény hallgatói jogviszonnyal rendelkező hallgatói, illetve oktatói vagy segítőik férnek hozzá az oktatási tartalmakhoz biztonságos elektronikus környezet – tanulmányi rendszer vagy zárt rendszerű távoktatási képzésmenedzsment-rendszer, illetve elektronikus táblák, interaktív panelek, kivetítők – használatával;
+
+28d. önköltséges képzés: a képzés finanszírozásának olyan formája, amelyben a felsőoktatási intézmény által a hallgatónak nyújtott képzési szolgáltatás díját nem az állam, hanem a hallgató önmaga vagy helyette más természetes vagy jogi személy viseli;
 
 29. pályaalkalmassági vizsgálat: olyan képességvizsgálat, amelynek keretei között megállapítják, hogy a jelentkező rendelkezik-e azokkal az egyéni képességekkel, tulajdonságokkal, amelyek alkalmassá teszik a képzésben való részvételre, a megszerzett szakképzettségnek megfelelő tevékenység ellátására;
 
 29a. projektfeladat: olyan, tantárgyhoz vagy modulhoz tartozó tanulási és az ismeretek, készségek és képességek elsajátításának, megszerzésének – értékeléssel egybekötött – ellenőrzési formája, amelynek a középpontjában egy meghatározott téma áll, célja az önálló feladatvégzéssel megvalósuló kutatási tevékenység, amelynek végeredménye önálló produktum létrehozása, a probléma meghatározása, megoldása, és ahhoz az összefüggések feltárása;
 
 30. résztanulmányok folytatása: ha a hallgató másik felsőoktatási intézményben vendéghallgatói jogviszony keretében szerez kreditet;
+
+30a. rokon képzési terület: azoknak a képzési területeknek a miniszter rendeletében meghatározott összessége, amelyek összevethető képzési tartalommal rendelkeznek;
 
 31. specializáció: az adott szak részét képező önálló szakképzettséget nem eredményező, speciális szaktudást biztosító képzés;
 
@@ -102,7 +116,7 @@ tartalmazza, a képzés részletes szabályaival, különösen a tantervvel, ill
 
 38. székhelyen kívüli képzési hely: az alapító okiratban meghatározott, a székhelyen kívüli képzésnek [ide nem értve a 14. § (2a) bekezdés b), d) és e) pontjában meghatározott képzési helyet] otthont adó település;
 
-39. tanegység: egy félév alatt teljesíthető, kredittel elismert tantervi egység vagy tantárgy;
+39. tanegység: egy félév alatt teljesíthető, meghatározott kreditértékkel elismert, teljesítési követelménnyel és tárgytematikával rendelkező tantárgy;
 
 40. tanév: legalább tíz, legfeljebb tizenkét hónapból álló oktatásszervezési időszak; doktori képzés esetén tizenkét hónapból álló oktatásszervezési időszak;
 
@@ -113,6 +127,8 @@ tartalmazza, a képzés részletes szabályaival, különösen a tantervvel, ill
 43. tanszék: az a szervezeti egység, amely ellátja legalább egy tantárggyal összefüggésben a képzés, a tudományos kutatás, az oktatásszervezés feladatait;
 
 43a. tanulmányi rendszer: a felsőoktatási intézmény rendeltetésszerű működéséhez, a képzéshez, a kutatáshoz, a felsőoktatási kutatás-fejlesztési vállalkozási tevékenységhez és ezek külső kapcsolatainak megszervezéséhez, a felsőoktatási intézmény iratkezelésének, továbbá pénzügyi, számviteli, illetve bér- és humánügyviteli funkcióinak biztosításához, a tanulmányi rendszer üzemeltetője, a miniszter, a hatóság és a fenntartó általi közvetlen intézményi, hallgatói, oktatói kommunikáció biztosításához, az oktatói munka hallgatói véleményezésének személyazonosításra alkalmatlan módon történő biztosításához, a munkáltatói jogok gyakorlásához, illetve a felsőoktatási intézmény által foglalkoztatottak jogainak gyakorlásához, kötelezettségeik teljesítéséhez és az ezekhez kapcsolódó igazolások kiállításához, a jogszabályban meghatározott nyilvántartások vezetéséhez, a jogszabályban, illetve a felsőoktatási intézmény szervezeti és működési szabályzatában biztosított kedvezményekre való jogosultság megállapításához, elbírálásához és igazolásához, a végzettek pályakövetése céljából adatvédelmi követelményekkel való összhangban kezelt személyes és különleges adatoknak a nyilvántartásához, az elektronikus dokumentumok, a tárgyleírások, a mintatantervek, a kreditátviteli bizottság döntéseinek hiteles nyilvántartásához és változás követéséhez, a zárt rendszerű elektronikus távolléti oktatás intézményi szintű biztosításához, a SZEÜSZ, illetve KEÜSZ szolgáltatások eléréséhez, a szakdolgozatok (diplomamunka) nyilvántartásához és elektronikus megőrzéséhez, e törvény 3. melléklete szerint nyilvántartott adatok tárolásához és megőrzéséhez, valamint a felsőoktatási információs rendszerrel elektronikus úton való kapcsolattartáshoz a felsőoktatási intézmény által használt intézményi alaprendszer a moduljaival és a kapcsolódó rendszerekkel együtt, amelyet úgy szükséges kialakítani, hogy az biztosítsa az ahhoz való egyenlő esélyű hozzáférést, továbbá minden kliensének, felhasználói felületének és a megvalósított funkcionalitásainak magyar nyelven is elérhetőnek kell lennie;
+
+43b. tárgytematika: a tantárgy adatainak, azonosítóinak és specifikumainak tartalmi összegzése, amely többek között meghatározza a tantárgy ismeretanyagát, a teljesítéséhez szükséges követelményeket; a tárgytematika lényeges változása esetén új verziószámmal kerül elmentésre, továbbá a tantárgy meghirdetett kurzusadatainál a meghirdetett tárgytematika verziója is rögzítésre kerül.
 
 44. távoktatás: sajátos információ-technológiai és kommunikációs taneszközök, valamint ismeretátadási-tanulási módszerek, digitális tananyagok használatával az oktató és hallgató interaktív kapcsolatára és az önálló hallgatói munkára épülő képzés, amelyben a tanórák száma nem éri el a teljes idejű képzés tanóráinak harminc százalékát;
 

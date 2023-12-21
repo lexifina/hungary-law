@@ -4,7 +4,7 @@
 
 ## 61. A művészeti felsőoktatási intézmény
 
-101. § (1) Ha a felsőoktatási intézmény kizárólag a művészeti képzési területen folytat képzést (a továbbiakban: művészeti felsőoktatási intézmény), az e törvényben foglaltakat a következő eltérésekkel kell alkalmazni.
+101. § (1) Ha a felsőoktatási intézmény kizárólag a művészeti, művészetközvetítési képzési területen vagy a pedagógusképzés képzési terület művésztanár szakjain folytat képzést (a továbbiakban: művészeti felsőoktatási intézmény), az e törvényben foglaltakat a következő eltérésekkel kell alkalmazni.
 
 (2) A művészeti felsőoktatási intézmény művészeti gyakorlóhelyet létesíthet és tarthat fenn.
 
@@ -22,6 +22,6 @@
 
 (9) A művészeti felsőoktatásban – a 105. § (5) bekezdésében foglaltakon túl – az e törvényben előírt alkalmazási, foglalkoztatási, képesítési feltétel teljesítése szempontjából a doktori fokozattal egyenértékű a jogszabály alapján adományozott díj annak tekintetében, aki a díj tulajdonosa, feltéve hogy az érintett legalább alapképzésben szerzett oklevéllel rendelkezik.
 
-(9a) A művészeti felsőoktatásban az egyetemi tanári munkaköri cím adományozására és az egyetemi tanári munkakörben történő alkalmazásra vonatkozó, a 28. § (5) bekezdésében foglalt feltételeknek megfelel az adott művészeti területen kifejtett művészi munkássága miatt Kossuth-díjban részesített oktató. A cím adományozásával kapcsolatos javaslathoz ebben az esetben a rektornak nem szükséges beszereznie a 69. § (1) bekezdése szerinti szakértői véleményt a MAB-tól.
+(9a) A művészeti felsőoktatásban az egyetemi tanári munkaköri cím adományozására és az egyetemi tanári munkakörben történő alkalmazásra vonatkozó, a 28. § (5) bekezdésében foglalt feltételeknek megfelel az adott művészeti területen kifejtett művészi munkássága miatt Kossuth-díjban részesített oktató. A cím adományozásával kapcsolatos javaslathoz ebben az esetben a rektornak, a Magyar Művészeti Akadémiának, a Magyar Tudományos Akadémiának nem szükséges beszereznie a 69. § (1) bekezdése szerinti szakértői véleményt a MAB-tól.
 
 (10) Az Állami Balettintézet táncművészeti képesítő oklevelével és balettművész oklevelével mesterképzésre lehet jelentkezni.

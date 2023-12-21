@@ -1,8 +1,8 @@
-## 17. A tudományos kutatók
+## 17. A kutatói munkakörök
 
 33. § (1) Tudományos kutatói munkakörben kell foglalkoztatni azt, aki – a munkaszerződésében, illetve közalkalmazotti kinevezésében meghatározottak alapján – a teljes munkaidejének legalább nyolcvan százalékát a felsőoktatási intézmény tudományos tevékenységének ellátására fordítja, továbbá munkakörébe tartozó feladatként részt vesz a felsőoktatási intézmény oktatással összefüggő tevékenységében is. A tudományos kutató kutatási tevékenységének eredményére vonatkozó adatokat az Adatbázisban rögzíteni kell.
 
-(2) A felsőoktatási intézményben létesíthető kutatói munkakörök a következők:
+(2) A felsőoktatási intézményben létesíthető tudományos kutatói munkakörök a következők:
 
 a) tudományos segédmunkatárs,
 
@@ -15,3 +15,5 @@ d) tudományos tanácsadó,
 e) kutatóprofesszor.
 
 (3) A tudományos kutatók foglalkoztatására egyebekben 25. § (1)–(3) bekezdésben, 26. § (3) bekezdésében, 27. § (2) bekezdésében, 29. § (1)–(2) bekezdésében, 30. § (2) bekezdésében foglalt rendelkezéseket kell alkalmazni azzal az eltéréssel, hogy nyilvános pályázati eljárás alapján az egy évnél hosszabb időre szóló kutatóprofesszori, tudományos tanácsadói, tudományos főmunkatársi munkaköröket kell betölteni, az óraadó oktató helyett a megbízásos kutatót kell érteni. A felsőoktatási intézmény az általa kutatói munkakörben foglalkoztatott személlyel további kutatási feladatra megbízási, vagy más polgári jogi szerződéssel jogviszonyt csak akkor létesíthet, ha a kutatási feladat nem esik a kutató munkaköri feladatainak körébe, és a kutatás külső megbízás, megrendelés keretében valósul meg.
+
+(4) Kooperatív kutatói munkakörben lehet foglalkoztatni azt, aki – a munkaszerződésében, illetve közalkalmazotti kinevezésében meghatározottak alapján – a teljes munkaidejének legalább nyolcvan százalékát a felsőoktatási intézményben külső megrendelés, megbízás, pályázat, projekt vagy egyéb célfeladat keretében megvalósuló kutatási vagy fejlesztési tevékenység ellátására fordítja, és rendelkezik a feladata ellátásához szükséges szakmai-gyakorlati munkatapasztalattal és végzettséggel.
