@@ -1,0 +1,1 @@
+1. § Hatályát veszti a 2013. évi körzeti erdőtervezésre vonatkozó tervezési alapelvekről, valamint az érintett körzeti erdőtervek alapján folytatott erdőgazdálkodásról szóló 60/2013. (VII. 19.) VM rendelet.
