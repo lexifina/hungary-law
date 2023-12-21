@@ -1,3 +1,3 @@
-16. §[^50]
+16. §[^53]
 
-[^50]: A 14–16. §-t a 26/2015. (II. 25.) Korm. rendelet 19. §-a hatályon kívül helyezte.
+[^53]: A 14–16. §-t a 26/2015. (II. 25.) Korm. rendelet 19. §-a hatályon kívül helyezte.

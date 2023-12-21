@@ -1,4 +1,4 @@
-## 12. §[^45] A KNBSZ
+## 12. §[^48] A KNBSZ
 
 a) Kincstárnál vezetett fizetési számláját érintő kiadásai és bevételei teljesítése során az érintett rovathoz kapcsolódó Egységes Rovat Azonosítót nem kell alkalmazni, a Kincstár a KNBSZ fizetési számláját érintő kifizetés előtti fedezetvizsgálatkor csak a rendelkezésre álló likviditási fedezetet vizsgálja,
 
@@ -6,4 +6,4 @@ b) fizetési számlájának forgalmáról és egyenlegéről a Kincstár az Áll
 
 c) a kincstári költségvetési jelentéshez – az Áhsz.-ben foglaltaknak megfelelően – a költségvetési számvitelben elszámolt adatairól a 11. § (3) bekezdése szerinti tartalommal, a tárgyhónapot követő hónap tizedik napjáig szolgáltat adatot a Kincstár részére akként, hogy a pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet az időközi költségvetési jelentést a KNBSZ tekintetében az azt alátámasztó – a könyvelési rendszerből előállított – teljes főkönyvi kivonat nélkül küldi meg a Kincstár részére.
 
-[^45]: A 12. § a 26/2015. (II. 25.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^48]: A 12. § a 26/2015. (II. 25.) Korm. rendelet 12. §-ával megállapított szöveg.
