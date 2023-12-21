@@ -1,0 +1,1 @@
+1. § Hatályát veszti a mezőgazdasági üzemek korszerűsítéséhez, fejlesztéséhez nemzeti hatáskörben nyújtott kedvezményes hitel és lízingdíj-támogatás igénybevételének részletes feltételeiről szóló 114/2008. (IX. 5.) FVM rendelet módosításáról szóló 163/2008. (XII. 18.) FVM rendelet.
