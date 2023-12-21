@@ -1,1 +1,0 @@
-## „(5) A (4) bekezdés d) pontjában meghatározottak esetében a támogatásra jogosult ügyfél számára megengedett az üzleti tervben megnevezett termékek helyettesítése más ágazatok (állattenyésztés, kertészet, növénytermesztés) termékeivel is.”
