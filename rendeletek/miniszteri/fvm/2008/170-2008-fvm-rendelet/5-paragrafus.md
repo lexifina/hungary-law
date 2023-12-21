@@ -1,1 +1,0 @@
-## „(10) A 4. § (3) bekezdés b) pontjának bb) alpontja alapján jogosult támogatást igényli az a non-profit szervezet, amely vállalja, hogy a támogatás megítélését követően az első kifizetési kérelem benyújtásának időpontjáig az 1997. évi CLVI. törvény 3. §-a szerinti közhasznúsági nyilvántartásba veteti magát és tevékenységét ekként végzi.”
