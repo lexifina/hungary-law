@@ -126,21 +126,23 @@
 
 ## 2.9. az Áht. 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az energiaügyi miniszter az 1.2–1.6. alpontban és az azokhoz kapcsolódó 1.8. alpontban meghatározott feladat megvalósítása érdekében a 2023. évben legfeljebb a szabad előirányzatot meghaladó mértékben, 2 500 000 000 forint összegben kötelezettséget vállaljon a Kvtv2023. 1. melléklet XVII. Energiaügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 35. Energetikai és fenntarthatósági ágazati feladatok alcím, 3. Fenntarthatósági feladatok és közmű-szolgáltatások jogcímcsoport terhére;
 
-## 2.10. felhívja a pénzügyminisztert, hogy a külgazdasági és külügyminiszter, valamint az energiaügyi miniszter kezdeményezésére, az 1.2–1.6. alpontban és az azokhoz kapcsolódó 1.8. alpontban meghatározott feladatok elvégzése érdekében gondoskodjon 110 865 034 628 forint forrás biztosításáról, az alábbi ütemezés szerint:
+## 2.10. [^1] felhívja a pénzügyminisztert, hogy a külgazdasági és külügyminiszter, valamint az energiaügyi miniszter kezdeményezésére, az 1.2–1.6. alpontban és az azokhoz kapcsolódó 1.8. alpontban meghatározott feladatok elvégzése érdekében gondoskodjon 110 865 034 628 forint forrás biztosításáról, az alábbi ütemezés szerint:
 
 ## a) a 2023. évben a Kvtv2023. 1. melléklet
 
-## aa) XVII. Energiaügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Térségi fejlesztési feladatok alcím javára 40 513 135 009 forint,
+## aa) XVII. Energiaügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Térségi fejlesztési feladatok alcím javára 14 242 219 949 forint,
 
 ## ab) XVII. Energiaügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 35. Energetikai és fenntarthatósági ágazati feladatok alcím, 3. Fenntarthatósági feladatok és közmű-szolgáltatások jogcímcsoport javára 2 501 500 000 forint,
 
-## b) a 2024. évben a központi költségvetés XVII. Energiaügyi Minisztérium fejezet térségi fejlesztési feladatokat finanszírozó előirányzata javára 67 789 080 695 forint,
+## b) a 2024. évben a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény 1. melléklet XVII. Energiaügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Térségi fejlesztési feladatok alcím javára 24 208 069 760 forint,
 
-## c) a 2026. évben a központi költségvetés XVII. Energiaügyi Minisztérium fejezet térségi fejlesztési feladatokat finanszírozó előirányzata javára 61 318 924 forint;
+## c) a 2025. évben a központi költségvetés XVII. Energiaügyi Minisztérium fejezet térségi fejlesztési feladatokat finanszírozó előirányzata javára 37 481 214 793 forint,
 
-| Felelős: | az a) és b) pont tekintetében pénzügyminiszter külgazdasági és külügyminiszter energiaügyi miniszter a c) pont tekintetében energiaügyi miniszter külgazdasági és külügyminiszter pénzügyminiszter |
+## d) a 2026. évben a központi költségvetés XVII. Energiaügyi Minisztérium fejezet térségi fejlesztési feladatokat finanszírozó előirányzata javára 32 432 030 126 forint;
 
-| Határidő: | az a) pont tekintetében a felmerülés ütemében a b) pont tekintetében a 2024. évi központi költségvetés végrehajtása során, a felmerülés ütemében a c) pont tekintetében az adott évi központi költségvetés tervezésekor |
+| Felelős: | az a) és b) pont tekintetében pénzügyminiszter külgazdasági és külügyminiszter energiaügyi miniszter a c) és d) pont tekintetében energiaügyi miniszter külgazdasági és külügyminiszter pénzügyminiszter |
+
+| Határidő: | az a) pont tekintetében a felmerülés ütemében a b) pont tekintetében a 2024. évi központi költségvetés végrehajtása során, a felmerülés ütemében a c) és d) pont tekintetében az adott évi központi költségvetés tervezésekor |
 
 ## 2.11. az Áht. 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy a gazdaságfejlesztési miniszter az 1.7. alpontban és a hozzá kapcsolódó 1.8. alpontban meghatározott feladat megvalósítása érdekében a 2023. évben legfeljebb a szabad előirányzatot meghaladó mértékben, 1 520 725 893 forint összegben kötelezettséget vállaljon a Kvtv2023. 1. melléklet XXIII. Gazdaságfejlesztési Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 4. Egyéb ágazati feladatok alcím terhére;
 
@@ -198,18 +200,19 @@
 
 | Határidő: | azonnal |
 
-## 4.[^1]
+## 4.[^2]
 
-## 5.[^2]
+## 5.[^3]
 
-## 6.[^3]
+## 6.[^4]
 
-## 7.[^4]
+## 7.[^5]
 
-1. melléklet az 1289/2023. (VII. 17.) Korm. határozathoz[^5]
+1. melléklet az 1289/2023. (VII. 17.) Korm. határozathoz[^6]
 
-[^1]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 6. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 2. pont 2.10. alpontja az 1604/2023. (XII. 22.) Korm. határozat 7. pontjával megállapított szöveg.
+[^2]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 6. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
