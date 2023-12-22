@@ -1,6 +1,6 @@
-## 18. §[^29] Ez a rendelet az 1082/2013/EU európai parlamenti és tanácsi határozat szerint a korai figyelmeztető és gyorsreagáló rendszer keretében a határokon át terjedő súlyos egészségügyi veszélyekkel kapcsolatos riasztások kiadására, valamint az ilyen veszélyekkel kapcsolatos információcserére, konzultációra és a reagálás koordinációjára vonatkozó eljárások megállapításáról szóló, 2017. február 13-i (EU) 2017/253 bizottsági végrehajtási határozat végrehajtásához szükséges rendelkezéseket állapít meg.
+## 18. §[^30] Ez a rendelet az 1082/2013/EU európai parlamenti és tanácsi határozat szerint a korai figyelmeztető és gyorsreagáló rendszer keretében a határokon át terjedő súlyos egészségügyi veszélyekkel kapcsolatos riasztások kiadására, valamint az ilyen veszélyekkel kapcsolatos információcserére, konzultációra és a reagálás koordinációjára vonatkozó eljárások megállapításáról szóló, 2017. február 13-i (EU) 2017/253 bizottsági végrehajtási határozat végrehajtásához szükséges rendelkezéseket állapít meg.
 
-1. melléklet az 1/2014. (I. 16.) EMMI rendelethez[^30]
+1. melléklet az 1/2014. (I. 16.) EMMI rendelethez[^31]
 
 Fertőző beteg jelentés adattartalma
 
@@ -44,5 +44,5 @@ a halál oka: a megnevezett fertőző betegség vagy más, éspedig: .………�
 
 Az orvos megjegyzései:
 
-[^29]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 12/2019. (VII. 3.) EMMI rendelet 6. §-a iktatta be.
-[^30]: Az 1. melléklet az 54/2015. (XI. 24.) EMMI rendelet 55. § (1) bekezdése szerint módosított szöveg.
+[^30]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 12/2019. (VII. 3.) EMMI rendelet 6. §-a iktatta be.
+[^31]: Az 1. melléklet az 54/2015. (XI. 24.) EMMI rendelet 55. § (1) bekezdése szerint módosított szöveg.
