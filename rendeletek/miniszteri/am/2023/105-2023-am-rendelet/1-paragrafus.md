@@ -1,1 +1,3 @@
-1. § Hatályát veszti az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó, a vidéki gazdaság és lakosság számára nyújtott alapszolgáltatások körében a kistérségi közlekedési szolgáltatások fejlesztésére igénybe vehető támogatások részletes feltételeiről szóló 9/2008. (I. 24.) FVM rendelet módosításáról szóló 1/2009. (I. 9.) FVM rendelet.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
