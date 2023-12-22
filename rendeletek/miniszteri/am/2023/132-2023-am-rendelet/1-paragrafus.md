@@ -1,1 +1,3 @@
-1. § Hatályát veszti az Európai Mezőgazdasági Vidékfejlesztési Alapból az ültetvények korszerűsítéséhez, telepítéséhez nyújtandó támogatások részletes feltételeiről szóló 75/2007. (VII. 27.) FVM rendelet módosításáról szóló 162/2009. (XI. 26.) FVM rendelet.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
