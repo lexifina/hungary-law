@@ -20,7 +20,7 @@
 
 ## j)[^8] jóváhagyja a Versenyképes Közép-Magyarország Operatív Program 6. prioritása 44,98 milliárd forint összegű meghirdethető keretét, amely 16,88 milliárd forinttal haladja meg a Versenyképes Közép-Magyarország Operatív Program 6. prioritásának keretét,
 
-## k)[^9] egyetért a VEKOP 1., 2. és 5. prioritásai keretében kihelyezett európai uniós pénzügyi eszköz támogatásokból visszaforgó források terhére a VEKOP pénzügyi eszközökhöz kapcsolódó, elismert, de az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra, a Kohéziós Alapra, az Európai Mezőgazdasági Vidékfejlesztési Alapra és az Európai Tengerügyi és Halászati Alapra vonatkozó közös rendelkezések megállapításáról, az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra és a Kohéziós Alapra és az Európai Tengerügyi és Halászati Alapra vonatkozó általános rendelkezések megállapításáról szóló 1303/2013/EU európai parlamenti és tanácsi rendelet kiegészítéséről szóló, 2014. március 3-i 480/2014/EU felhatalmazáson alapuló bizottsági rendelet 13. cikkében meghatározott díjazási maximumok miatt ki nem fizethető költségek megtérítésével.
+## k)[^9] egyetért a VEKOP 1., 2. és 5. prioritásai keretében kihelyezett európai uniós pénzügyi eszköz támogatásokból visszaforgó források terhére a VEKOP pénzügyi eszközökhöz kapcsolódó, elismert, de az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra, a Kohéziós Alapra, az Európai Mezőgazdasági Vidékfejlesztési Alapra és az Európai Tengerügyi és Halászati Alapra vonatkozó közös rendelkezések megállapításáról, az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra és a Kohéziós Alapra és az Európai Tengerügyi és Halászati Alapra vonatkozó általános rendelkezések megállapításáról szóló 1303/2013/EU európai parlamenti és tanácsi rendelet kiegészítéséről szóló, 2014. március 3-i 480/2014/EU felhatalmazáson alapuló bizottsági rendelet 13. cikkében meghatározott díjazási maximumok miatt ki nem fizethető költségek megtérítésével, valamint a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet 199/D. §-a szerinti határidőig be nem nyújtható auditált és elismert végrehajtási költségek finanszírozásával.
 
 ## l)[^10]
 
@@ -144,9 +144,9 @@ A Versenyképes Közép-Magyarország Operatív Program éves fejlesztési keret
 
 | 2. | VEKOP-6.1.1-15 | Kisgyermeket nevelő szülők munkavállalási aktivitásának növelése | 11,089 | területi | Meghirdetve 2016. márciusban |
 
-| 2a. | VEKOP-6.1.1-21 | Bölcsődei férőhelyek kialakítása, bővítése | 13,546 | területi | Meghirdetve 2021. januárban |
+| 2a. | VEKOP-6.1.1-21 | Bölcsődei férőhelyek kialakítása, bővítése | 13,552 | területi | Meghirdetve 2021. januárban |
 
-| 3. | VEKOP-6.2.1-15 | A leromlott településrészeken élő alacsony státuszú lakosság életkörülményeinek javítása, társadalmi és fizikai rehabilitációja Budapesten | 12,804 | területi | Meghirdetve 2016. márciusban |
+| 3. | VEKOP-6.2.1-15 | A leromlott településrészeken élő alacsony státuszú lakosság életkörülményeinek javítása, társadalmi és fizikai rehabilitációja Budapesten | 12,798 | területi | Meghirdetve 2016. márciusban |
 
 | 4. | VEKOP-6.2.2-15 | A leromlott településrészeken élő alacsony státuszú lakosság életkörülményeinek javítása, társadalmi és fizikai rehabilitációja Pest megyében | 1,839 | területi | Meghirdetve 2016. márciusban |
 
@@ -206,7 +206,7 @@ A Versenyképes Közép-Magyarország Operatív Program éves fejlesztési keret
 
 | 3. | VEKOP-8.1.2-16 | Nem állami szervezetek és társadalmi partnerek munkaerőpiaci szolgáltatásainak támogatása | 0,972 | standard | Meghirdetve 2017. februárban |
 
-| 4. | VEKOP-8.2.1-15 | Ifjúsági Garancia a közép-magyarországi régióban | 8,15 | kiemelt | Meghirdetve 2015. augusztusban |
+| 4. | VEKOP-8.2.1-15 | Ifjúsági Garancia a közép-magyarországi régióban | 8,154 | kiemelt | Meghirdetve 2015. augusztusban |
 
 | 5. | VEKOP-8.3.1-16 | Fiatalok vállalkozóvá válásának támogatása | 0,462 | egyszerűsített | Meghirdetve 2016. áprilisban |
 
@@ -288,21 +288,21 @@ A Versenyképes Közép-Magyarország Operatív Program éves fejlesztési keret
 
 | 6. |  |  |  |
 
-| 7. | EFOP-1.6.1-VEKOP-16 | Felzárkózási együttműködések támogatása | 0,22 |
+| 7. | EFOP-1.6.1-VEKOP-16 | Felzárkózási együttműködések támogatása | 0,32 |
 
 | 7a. | EFOP-1.8.0-VEKOP-17 | Egészségügyi ellátórendszer szakmai módszertani fejlesztése | 7,43 |
 
-| 8. | EFOP-1.8.1-VEKOP-15 | Komplex népegészségügyi szűrések | 5,37 |
+| 8. | EFOP-1.8.1-VEKOP-15 | Komplex népegészségügyi szűrések | 5,00 |
 
 | 9. | EFOP-1.8.10-VEKOP-17 | Komplex egészségvédelem és szemléletfejlesztés a táplálkozás és gyógyszerfogyasztás területén | 0,60 |
 
 | 10. |  |  |  |
 
-| 11. | EFOP-1.9.1-VEKOP-15 | Szociális intézményi férőhely kiváltási szakmai koordinációs műhely kialakítása | 0,45 |
+| 11. | EFOP-1.9.1-VEKOP-15 | Szociális intézményi férőhely kiváltási szakmai koordinációs műhely kialakítása | 0,43 |
 
-| 12. | EFOP-1.9.2-VEKOP-16 | A fogyatékos személyek számára nyújtott szakmai- és közszolgáltatások hozzáférhetőségének kialakítása, fejlesztése | 0,99 |
+| 12. | EFOP-1.9.2-VEKOP-16 | A fogyatékos személyek számára nyújtott szakmai- és közszolgáltatások hozzáférhetőségének kialakítása, fejlesztése | 0,89 |
 
-| 13. | EFOP-1.9.3-VEKOP-17 | A foglalkoztatási rehabilitáció szakmai folyamatainak fejlesztése | 0,26 |
+| 13. | EFOP-1.9.3-VEKOP-17 | A foglalkoztatási rehabilitáció szakmai folyamatainak fejlesztése | 0,23 |
 
 | 14. | EFOP-1.9.4-VEKOP-16 | A szociális ágazat módszertani és információs rendszereinek megújítása | 1,74 |
 
@@ -310,7 +310,7 @@ A Versenyképes Közép-Magyarország Operatív Program éves fejlesztési keret
 
 | 16. |  |  |  |
 
-| 17. | EFOP-2.2.4-VEKOP-16 | Területi gyermekvédelmi szakszolgáltatási feladatok infrastrukturális feltételeinek javítása | 0,08 |
+| 17. | EFOP-2.2.4-VEKOP-16 | Területi gyermekvédelmi szakszolgáltatási feladatok infrastrukturális feltételeinek javítása | 0,07 |
 
 | 18. | EFOP-2.2.6-VEKOP-16 | Pszichiátriai ellátórendszer strukturált fejlesztése | 1,44 |
 
@@ -318,13 +318,13 @@ A Versenyképes Közép-Magyarország Operatív Program éves fejlesztési keret
 
 | 20. |  |  |  |
 
-| 21. | EFOP-3.2.2-VEKOP-15 | A köznevelés tartalmi szabályozóinak megfelelő tankönyvek, taneszközök fejlesztése és digitális tartalomfejlesztés | 1,76 |
+| 21. | EFOP-3.2.2-VEKOP-15 | A köznevelés tartalmi szabályozóinak megfelelő tankönyvek, taneszközök fejlesztése és digitális tartalomfejlesztés | 2,21 |
 
-| 21a | EFOP-3.2.15-VEKOP-17 | A köznevelés keretrendszeréhez kapcsolódó mérési-értékelési és digitális fejlesztések, innovatív oktatásszervezési eljárások kialakítása, megújítása | 3,62 |
+| 21a | EFOP-3.2.15-VEKOP-17 | A köznevelés keretrendszeréhez kapcsolódó mérési-értékelési és digitális fejlesztések, innovatív oktatásszervezési eljárások kialakítása, megújítása | 3,54 |
 
-| 22. | EFOP-3.3.3-VEKOP-16 | Országos múzeumi és könyvtári központi fejlesztés | 0,60 |
+| 22. | EFOP-3.3.3-VEKOP-16 | Országos múzeumi és könyvtári központi fejlesztés | 0,55 |
 
-| 23. | EFOP-3.4.2-VEKOP-15 | Campus Mundi – felsőoktatási mobilitási és nemzetköziesítési program | 2,30 |
+| 23. | EFOP-3.4.2-VEKOP-15 | Campus Mundi – felsőoktatási mobilitási és nemzetköziesítési program | 2,10 |
 
 | 24. | EFOP-3.4.5-VEKOP-17 | Rendszerszintű fejlesztések és hozzáférés bővítését szolgáló ágazati programok a felsőoktatásban | 0,43 |
 
@@ -340,7 +340,7 @@ A Versenyképes Közép-Magyarország Operatív Program éves fejlesztési keret
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Versenyképes Közép-Magyarország Operatív Program terhére történő finanszírozás (Mrd Ft) |
 
-| 2. | KÖFOP-1.0.0-VEKOP-15 | A szolgáltató kormányhivatali és közigazgatási modell bevezetése | 0,493 |
+| 2. | KÖFOP-1.0.0-VEKOP-15 | A szolgáltató kormányhivatali és közigazgatási modell bevezetése | 0,469 |
 
 | 3. | KÖFOP-1.0.0-VEKOP-15 | Hatósági eljárások és hatósági jogalkalmazási gyakorlat felülvizsgálata és egyszerűsítése | 0,673 |
 
@@ -348,43 +348,43 @@ A Versenyképes Közép-Magyarország Operatív Program éves fejlesztési keret
 
 | 5. | KÖFOP-1.0.0-VEKOP-15 | Elektronikus megoldás az eltérő földrajzi helyszíneken történő közigazgatási ügyintézés munkaszervezésének és kommunikációjának fejlesztésére | 0,566 |
 
-| 6. | KÖFOP-1.0.0-VEKOP-15 | Közigazgatási eljárásokhoz kapcsolódó levéltári szolgáltatás fejlesztése | 0,499 |
+| 6. | KÖFOP-1.0.0-VEKOP-15 | Közigazgatási eljárásokhoz kapcsolódó levéltári szolgáltatás fejlesztése | 0,498 |
 
-| 7. | KÖFOP-1.0.0-VEKOP-15 | „Digitális fogyasztóvédelem” – a fogyasztóvédelmi feladatok elektronizálása | 0,321 |
+| 7. | KÖFOP-1.0.0-VEKOP-15 | „Digitális fogyasztóvédelem” – a fogyasztóvédelmi feladatok elektronizálása | 0,318 |
 
-| 8. | KÖFOP-1.0.0-VEKOP-15 | Közúti gépjármű-, vízügyi és légügyi közlekedési-, engedélyezési és vizsgáztatási folyamatok ügyfélközpontú elektronizálása | 0,344 |
+| 8. | KÖFOP-1.0.0-VEKOP-15 | Közúti gépjármű-, vízügyi és légügyi közlekedési-, engedélyezési és vizsgáztatási folyamatok ügyfélközpontú elektronizálása | 0,312 |
 
 | 9. | KÖFOP-1.0.0-VEKOP-15 | Kormányzati hitelesítés szolgáltatás (Gov CA) kiterjesztése | 0,710 |
 
-| 10. | KÖFOP-1.0.0-VEKOP-15 | Ügyfélkapcsolati rendszerek fejlesztése | 1,196 |
+| 10. | KÖFOP-1.0.0-VEKOP-15 | Ügyfélkapcsolati rendszerek fejlesztése | 1,197 |
 
-| 11. | KÖFOP-1.0.0-VEKOP-15 | Hivatalos küldeménykövető | 0,453 |
+| 11. | KÖFOP-1.0.0-VEKOP-15 | Hivatalos küldeménykövető | 0,452 |
 
-| 12. | KÖFOP-1.0.0-VEKOP-15 | E-ingatlan-nyilvántartás | 3,074 |
+| 12. | KÖFOP-1.0.0-VEKOP-15 | E-ingatlan-nyilvántartás | 3,059 |
 
-| 13. | KÖFOP-1.0.0-VEKOP-15 | Közigazgatás informatikai infrastruktúrájának konszolidálása a költségek csökkentése érdekében | 5,106 |
+| 13. | KÖFOP-1.0.0-VEKOP-15 | Közigazgatás informatikai infrastruktúrájának konszolidálása a költségek csökkentése érdekében | 5,505 |
 
-| 14. | KÖFOP-1.0.0-VEKOP-15 | Közigazgatási szakrendszerek egységes eléréséhez és interoperabilitásához központi alkalmazás szintű szolgáltatások biztosítása | 2,293 |
+| 14. | KÖFOP-1.0.0-VEKOP-15 | Közigazgatási szakrendszerek egységes eléréséhez és interoperabilitásához központi alkalmazás szintű szolgáltatások biztosítása | 2,292 |
 
 | 15. | KÖFOP-1.0.0-VEKOP-15 | Az önkormányzati ASP rendszer továbbfejlesztése és országos kiterjesztése (ASP 2.0) | 3,520 |
 
-| 16. | KÖFOP-1.0.0-VEKOP-15 | A Belügyminisztérium által kezelt nemzeti adatvagyon nyilvántartások továbbfejlesztése, magas szintű szolgáltató képesség megteremtése a KÖFOP 1.1.1., 1.1.2. és 1.2.3. intézkedések támogatása érdekében, az érintett adatvagyon nyilvántartások Kormányzati Adatközpontba történő integrálásával | 1,131 |
+| 16. | KÖFOP-1.0.0-VEKOP-15 | A Belügyminisztérium által kezelt nemzeti adatvagyon nyilvántartások továbbfejlesztése, magas szintű szolgáltató képesség megteremtése a KÖFOP 1.1.1., 1.1.2. és 1.2.3. intézkedések támogatása érdekében, az érintett adatvagyon nyilvántartások Kormányzati Adatközpontba történő integrálásával | 1,609 |
 
-| 17. | KÖFOP-1.0.0-VEKOP-15 | Szabályozott elektronikus ügyintézési szolgáltatások (SZEÜSZ) továbbfejlesztése, bővítése, bevezetése | 0,229 |
+| 17. | KÖFOP-1.0.0-VEKOP-15 | Szabályozott elektronikus ügyintézési szolgáltatások (SZEÜSZ) továbbfejlesztése, bővítése, bevezetése | 0,228 |
 
 | 18. | KÖFOP-1.0.0-VEKOP-15 | Központosított kormányzati informatikai rendszer bővítése – „KKIR3” | 0,473 |
 
-| 19. | KÖFOP-1.0.0-VEKOP-15 | Rendészeti tevékenységekhez kapcsolódó hatósági ügyek továbbfejlesztése, a hozzá kapcsolódó elektronikus feldolgozó képesség bővítésével | 0,933 |
+| 19. | KÖFOP-1.0.0-VEKOP-15 | Rendészeti tevékenységekhez kapcsolódó hatósági ügyek továbbfejlesztése, a hozzá kapcsolódó elektronikus feldolgozó képesség bővítésével | 0,893 |
 
 | 20. | KÖFOP-1.0.0-VEKOP-15 | A konzuli ügyintézést és a külgazdasági működést támogató elektronikus szolgáltatások fejlesztése | 0,382 |
 
 | 21. | KÖFOP-1.0.0-VEKOP-15 | Területi államigazgatás egységes működését támogató rendszerfejlesztések | 1,236 |
 
-| 22. | KÖFOP-1.0.0-VEKOP-15 | EKEIDR egységes irat- és folyamatkezelő rendszer területi közigazgatásra történő kiterjesztésre | 2,600 |
+| 22. | KÖFOP-1.0.0-VEKOP-15 | EKEIDR egységes irat- és folyamatkezelő rendszer területi közigazgatásra történő kiterjesztésre | 2,599 |
 
-| 23. | KÖFOP-1.0.0-VEKOP-15 | 3D alapú adat infrastruktúra kialakítása | 2,021 |
+| 23. | KÖFOP-1.0.0-VEKOP-15 | 3D alapú adat infrastruktúra kialakítása | 2,013 |
 
-| 24. | KÖFOP-1.0.0-VEKOP-15 | E-építés keretrendszer – innovációval a magyar emberek szolgálatában | 1,864 |
+| 24. | KÖFOP-1.0.0-VEKOP-15 | E-építés keretrendszer – innovációval a magyar emberek szolgálatában | 1,848 |
 
 | 25. | KÖFOP-1.0.0-VEKOP-15 | Az informatikai beszerzések központosítását támogató rendszer továbbfejlesztése, bővítése (Integrált DKÜ Portál Rendszer) | 0,573 |
 
@@ -394,45 +394,45 @@ A Versenyképes Közép-Magyarország Operatív Program éves fejlesztési keret
 
 | 28. | KÖFOP-1.0.0-VEKOP-15 | A 21. század családtámogatási, nyugdíj és kincstári számlavezető rendszere | 2,818 |
 
-| 29. | KÖFOP-1.0.0-VEKOP-15 | Oktatási Nyilvántartás továbbfejlesztése | 0,229 |
+| 29. | KÖFOP-1.0.0-VEKOP-15 | Oktatási Nyilvántartás továbbfejlesztése | 0,230 |
 
-| 30. | KÖFOP-1.0.0-VEKOP-15 | Vízhasználat Információs, Ellenőrzési és Integrált hatósági feladatokat ellátó Keretrendszer (VIZEK) kialakítása | 1,470 |
+| 30. | KÖFOP-1.0.0-VEKOP-15 | Vízhasználat Információs, Ellenőrzési és Integrált hatósági feladatokat ellátó Keretrendszer (VIZEK) kialakítása | 1,469 |
 
 | 31. | KÖFOP-1.0.0-VEKOP-15 | Intelligens élelmiszerlánc-biztonsági elemző rendszer létrehozása | 0,691 |
 
-| 32. | KÖFOP-1.0.0-VEKOP-15 | Integrált Jogalkotási Rendszer | 0,744 |
+| 32. | KÖFOP-1.0.0-VEKOP-15 | Integrált Jogalkotási Rendszer | 0,736 |
 
 | 32a. | KÖFOP-1.0.0-VEKOP-15 | A külgazdasági és külügyi működést támogató kiemelt alapfolyamatok fejlesztése és szolgáltatási kapacitásuk bővítése | 0,251 |
 
 | 32b. | KÖFOP-1.0.0-VEKOP-15 | Mesterséges intelligenciával támogatott ügyintézési pont (KIOSK) kiterjesztése a kormányhivatalokra, illetve más külső intézményekre | 0,497 |
 
-| 32c. | KÖFOP-1.0.0-VEKOP-15 | A kormányhivatal irányításának hatékonyabbá tételét biztosító háttér kialakítása | 1,557 |
+| 32c. | KÖFOP-1.0.0-VEKOP-15 | A kormányhivatal irányításának hatékonyabbá tételét biztosító háttér kialakítása | 1,556 |
 
-| 32d. | KÖFOP-1.0.0-VEKOP-15 | A hatáskör átcsoportosításból adódó szakrendszeri integrációs feladatok | 1,738 |
+| 32d. | KÖFOP-1.0.0-VEKOP-15 | A hatáskör átcsoportosításból adódó szakrendszeri integrációs feladatok | 1,739 |
 
 | 32e. | KÖFOP-1.0.0-VEKOP-15 | A szőlő és bor ágazat elektronikus ügyintézési és ellenőrzési rendszerének kialakítása és az elektronikus pincekönyv vezetési lehetőség biztosítása | 0,23 |
 
-| 32f. | KÖFOP-1.0.0-VEKOP-15 | Földmegfigyelési Információs Rendszer (FIR) földmegfigyelési adatinfrastruktúra és szolgáltatások kialakítása | 1,403 |
+| 32f. | KÖFOP-1.0.0-VEKOP-15 | Földmegfigyelési Információs Rendszer (FIR) földmegfigyelési adatinfrastruktúra és szolgáltatások kialakítása | 1,401 |
 
-| 32g. | KÖFOP-1.0.0-VEKOP-15 | Az egészségügyi ellátási rendszer pénzügyi irányítási és közigazgatási funkcióinak megújítása | 0,833 |
+| 32g. | KÖFOP-1.0.0-VEKOP-15 | Az egészségügyi ellátási rendszer pénzügyi irányítási és közigazgatási funkcióinak megújítása | 0,908 |
 
 | 32h. | KÖFOP-1.0.0-VEKOP-15 | A Nemzeti Akkreditáló Hatóság hatósági eljárásainak tudásalapú átalakítása és az ehhez kapcsolódó szervezeti és informatikai fejlesztés a közigazgatási szolgáltatások átfutási ideje csökkentésének és minősége javításának érdekében | 0,311 |
 
 | 32i. | KÖFOP-1.0.0-VEKOP-15 | A bírósági igazgatás további elektronizálása (Digitális Bíróság) | 0,475 |
 
-| 32j. | KÖFOP-1.0.0-VEKOP-15 | Adatváltozás-kezelési szolgáltatás bevezetése | 0,276 |
+| 32j. | KÖFOP-1.0.0-VEKOP-15 | Adatváltozás-kezelési szolgáltatás bevezetése | 0,357 |
 
 | 32k. |  |  |  |
 
 | 33. | KÖFOP-1.2.1-VEKOP-16 | Csatlakoztatási konstrukció az önkormányzati ASP rendszer országos kiterjesztéséhez | 0,851 |
 
-| 33a. | KÖFOP-1.2.2-VEKOP-18 | Az elektronikus ügyintézést biztosító szervezetek elektronikus ügyintézési térbe való integrálásának támogatása | 0,080 |
+| 33a. | KÖFOP-1.2.2-VEKOP-18 | Az elektronikus ügyintézést biztosító szervezetek elektronikus ügyintézési térbe való integrálásának támogatása | 0,067 |
 
-| 34. | KÖFOP-2.1.1-VEKOP-15 | A közszolgáltatás komplex kompetencia, életpálya-program és oktatás technológiai fejlesztése | 2,444 |
+| 34. | KÖFOP-2.1.1-VEKOP-15 | A közszolgáltatás komplex kompetencia, életpálya-program és oktatás technológiai fejlesztése | 2,438 |
 
-| 35. | KÖFOP-2.1.2-VEKOP-15 | A jó kormányzást megalapozó közszolgálat-fejlesztés | 1,140 |
+| 35. | KÖFOP-2.1.2-VEKOP-15 | A jó kormányzást megalapozó közszolgálat-fejlesztés | 1,119 |
 
-| 36. | KÖFOP-2.1.3-VEKOP-15 | A területi államigazgatási szervek humánerőforrásának fejlesztése | 1,535 |
+| 36. | KÖFOP-2.1.3-VEKOP-15 | A területi államigazgatási szervek humánerőforrásának fejlesztése | 1,533 |
 
 | 37. | KÖFOP-2.1.4-VEKOP-16 | A Külgazdasági és Külügyminisztérium humánerőforrás-gazdálkodásának és belső képzési rendszerének fejlesztése | 0,296 |
 
@@ -444,7 +444,7 @@ A Versenyképes Közép-Magyarország Operatív Program éves fejlesztési keret
 
 | 41. | KÖFOP-2.2.2-VEKOP-16 | KÖFOP keretében megvalósuló fejlesztések IT biztonságának növelése, ezáltal rendszerekkel összefüggő korrupciós lehetőségek és kockázatok csökkentése | 0,478 |
 
-| 42. | KÖFOP-2.2.3-VEKOP-16 | Kapacitásfejlesztés és szemléletformálás a korrupciós esetek nagyobb arányú felderítése, illetve megelőzése érdekében | 1,141 |
+| 42. | KÖFOP-2.2.3-VEKOP-16 | Kapacitásfejlesztés és szemléletformálás a korrupciós esetek nagyobb arányú felderítése, illetve megelőzése érdekében | 1,140 |
 
 | 43. |  |  |  |
 
@@ -452,17 +452,17 @@ A Versenyképes Közép-Magyarország Operatív Program éves fejlesztési keret
 
 | 44a. | KÖFOP-2.2.6-VEKOP-18 | Jogszabályban rögzített közzétételi kötelezettségek alá eső adatok körének felülvizsgálata | 0,382 |
 
-| 44b. | KÖFOP-2.2.7-VEKOP-20 | Automatikus Közigazgatási Döntéshozatali (AKD) rendszer SZEÜSZ kialakítása | 0,191 |
+| 44b. | KÖFOP-2.2.7-VEKOP-20 | Automatikus Közigazgatási Döntéshozatali (AKD) rendszer SZEÜSZ kialakítása | 0,187 |
 
 | 45. | KÖFOP-2.3.1.-VEKOP-16 | Helyi közszolgáltatás információs rendszer fejlesztése és bevezetése (IKIR) | 1,452 |
 
-| 46. | KÖFOP-2.3.2.-VEKOP-15 | Hálózatfejlesztés Támogató Monitoring Rendszer (HTMR) létrehozása | 0,485 |
+| 46. | KÖFOP-2.3.2.-VEKOP-15 | Hálózatfejlesztés Támogató Monitoring Rendszer (HTMR) létrehozása | 0,483 |
 
 | 47. | KÖFOP-2.3.3.-VEKOP-16 | Helyi versenyképesség-fejlesztési kutatási program | 0,189 |
 
-| 48. | KÖFOP-2.3.4.-VEKOP-15 | Önkormányzati fejlesztések figyelemmel kísérése II. | 0,212 |
+| 48. | KÖFOP-2.3.4.-VEKOP-15 | Önkormányzati fejlesztések figyelemmel kísérése II. | 0,211 |
 
-| 49. | KÖFOP-2.3.6-VEKOP-16 | Integrált közcélú víziközmű adatbázis | 0,877 |
+| 49. |  |  |  |
 
 [^1]: Az 1. pont c) alpontját az 1202/2016. (IV. 15.) Korm. határozat 1. pontja iktatta be, szövege az 1479/2020. (VIII. 7.) Korm. határozat 1. pontjával megállapított szöveg.
 [^2]: Az 1. pont d) alpontját az 1148/2017. (III. 20.) Korm. határozat 1. pontja iktatta be, szövege az 1479/2020. (VIII. 7.) Korm. határozat 1. pontjával megállapított szöveg.
@@ -472,11 +472,11 @@ A Versenyképes Közép-Magyarország Operatív Program éves fejlesztési keret
 [^6]: Az 1. pont h) alpontját az 1597/2019. (X. 16.) Korm. határozat 1. pontja iktatta be, szövege az 1297/2021. (V. 20.) Korm. határozat 1. pontjával megállapított szöveg.
 [^7]: Az 1. pont i) alpontját újonnan a 2025/2020. (XII. 24.) Korm. határozat 1. pontja iktatta be, szövege az 1659/2021. (IX. 24.) Korm. határozat 1. pontjával megállapított szöveg.
 [^8]: Az 1. pont j) alpontját újonnan az 1659/2021. (IX. 24.) Korm. határozat 2. pontja iktatta be, szövege az 1560/2022. (XI. 21.) Korm. határozat 1. pontjával megállapított szöveg.
-[^9]: Az 1. pont k) alpontját újonnan az 1659/2021. (IX. 24.) Korm. határozat 2. pontja iktatta be.
+[^9]: Az 1. pont k) alpontját újonnan az 1659/2021. (IX. 24.) Korm. határozat 2. pontja iktatta be, szövege az 1594/2023. (XII. 21.) Korm. határozat 1. pontjával megállapított szöveg.
 [^10]: Az 1. pont l) alpontját újonnan a 2025/2020. (XII. 24.) Korm. határozat 1. pontja iktatta be, az 1297/2021. (V. 20.) Korm. határozat 5. pontja hatályon kívül helyezte.
 [^11]: Az 1/A. alpontot az 1479/2020. (VIII. 7.) Korm. határozat 2. pontja iktatta be.
 [^12]: Az 1/B. pontot a 2025/2020. (XII. 24.) Korm. határozat 2. pontja iktatta be, szövege az 1560/2022. (XI. 21.) Korm. határozat 2. pontjával megállapított szöveg.
 [^13]: Az 1/C. pontot az 1659/2021. (IX. 24.) Korm. határozat 3. pontja iktatta be.
 [^14]: Az 1/D. pontot az 1191/2023. (V. 12.) Korm. határozat 1. pontja iktatta be.
 [^15]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^16]: Az 1. melléklet az 1202/2016. (IV. 15.) Korm. határozat 2. és 3. pontja, az 1475/2016. (VIII. 31.) Korm. határozat 1. pont a) alpontja és 2. pont a)–j) alpontja, az 1860/2016. (XII. 27.) Korm. határozat 1. pont a) alpontja és 2. pontja, az 1148/2017. (III. 20.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1157/2017. (III. 21.) Korm. határozat 1. és 3. pontja, az 1271/2017. (V. 29.) Korm. határozat 4. pontja, az 1620/2017. (IX. 5.) Korm. határozat 1. pont a) alpontja és a 2. pontja, a 2111/2017. (XII. 28.) Korm. határozat 2. pont a) alpontja és 3. pont 3.1.–3.5. alpontja, az 1180/2018. (III. 28.) Korm. határozat 1. pontja és 2. pont 2.1–2.6. alpontja, az 1306/2018. (VII. 4.) Korm. határozat 1. pont a) alpontja és a 2. pont a)–b) pontja, az 1620/2018. (XI. 27.) Korm. határozat 2. pont a)–b) alpontja, az 1122/2019. (III. 13.) Korm. határozat 2. pontja és 3. pont a) alpontja, az 1402/2019. (VII. 5.) Korm. határozat 3. pontja, az 1597/2019. (X. 16.) Korm. határoat 2. pont a) alpontja és 3. pontja, az 1479/2020. (VIII. 7.) Korm. határozat 3. pont a) alpontja és 4. pontja, a 2025/2020. (XII. 24.) Korm. határozat 3–5. pontja, az 1297/2021. (V. 20.) Korm. határozat 2., 3. és 6. pontja, az 1659/2021. (IX. 24.) Korm. határozat 4. és 6. pontja, az 1898/2021. (XII. 13.) Korm. határozat 1. pontja, az 1560/2022. (XI. 21.) Korm. határozat 1-3. pontja, a 1191/2023. (V. 12.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^16]: Az 1. melléklet az 1202/2016. (IV. 15.) Korm. határozat 2. és 3. pontja, az 1475/2016. (VIII. 31.) Korm. határozat 1. pont a) alpontja és 2. pont a)–j) alpontja, az 1860/2016. (XII. 27.) Korm. határozat 1. pont a) alpontja és 2. pontja, az 1148/2017. (III. 20.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1157/2017. (III. 21.) Korm. határozat 1. és 3. pontja, az 1271/2017. (V. 29.) Korm. határozat 4. pontja, az 1620/2017. (IX. 5.) Korm. határozat 1. pont a) alpontja és a 2. pontja, a 2111/2017. (XII. 28.) Korm. határozat 2. pont a) alpontja és 3. pont 3.1.–3.5. alpontja, az 1180/2018. (III. 28.) Korm. határozat 1. pontja és 2. pont 2.1–2.6. alpontja, az 1306/2018. (VII. 4.) Korm. határozat 1. pont a) alpontja és a 2. pont a)–b) pontja, az 1620/2018. (XI. 27.) Korm. határozat 2. pont a)–b) alpontja, az 1122/2019. (III. 13.) Korm. határozat 2. pontja és 3. pont a) alpontja, az 1402/2019. (VII. 5.) Korm. határozat 3. pontja, az 1597/2019. (X. 16.) Korm. határoat 2. pont a) alpontja és 3. pontja, az 1479/2020. (VIII. 7.) Korm. határozat 3. pont a) alpontja és 4. pontja, a 2025/2020. (XII. 24.) Korm. határozat 3–5. pontja, az 1297/2021. (V. 20.) Korm. határozat 2., 3. és 6. pontja, az 1659/2021. (IX. 24.) Korm. határozat 4. és 6. pontja, az 1898/2021. (XII. 13.) Korm. határozat 1. pontja, az 1560/2022. (XI. 21.) Korm. határozat 1-3. pontja, a 1191/2023. (V. 12.) Korm. határozat 2. pontja, az 1594/2023. (XII. 21.) Korm. határozat 2. és 3. pontja szerint módosított szöveg.
