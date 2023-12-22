@@ -1,1 +1,3 @@
-1. § Hatályát veszti a Nemzeti Vidékfejlesztési Terv alapján a központi költségvetés, valamint az Európai Mezőgazdasági Orientációs és Garancia Alap Garancia Részlege társfinanszírozásában megvalósuló, a félig önellátó mezőgazdasági üzemek szerkezetének átalakításához nyújtott támogatás igénybevételének részletes szabályairól szóló 145/2004. (IX. 30.) FVM rendelet módosításáról szóló 129/2008. (X. 1.) FVM rendelet.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
