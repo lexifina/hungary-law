@@ -132,7 +132,7 @@
 
 | 66. | Hauszmann Emlékház/Annavölgyi szakiskola/turistaház fejlesztési programmal összefüggő beruházások | Szentendre külterület 0220/1, 0231, 0232/2, 0232/3, 0600/3, 0600/6, 0603/3, 0603/3/A, 0603/3/B, 0603/3/C, 0603/3/D, 0603/3/F, 0603/4 és 0603/5 helyrajzi számú ingatlanok | Pest Vármegyei Kormányhivatalt vezető főispán |
 
-| 67. | Csenger településen új büntetés- végrehajtási intézet megvalósítása | Csenger külterületi 0149/41 helyrajzi számú ingatlan | Szabolcs-Szatmár-Bereg Vármegyei Kormányhivatalt vezető főispán |
+| 67. | Csenger településen új büntetés-végrehajtási intézet és az ahhoz kapcsolódó egyéb beruházások megvalósítása | Csenger külterületi 0149/41 helyrajzi számú, valamint a Csenger belterületi 911/2, 911/3 és 912 helyrajzi számú ingatlanok | Szabolcs-Szatmár-Bereg Vármegyei Kormányhivatalt vezető főispán |
 
 | 68. | A Károli Gáspár Református Egyetem oktatási feladatai ellátásának elősegítése érdekében átfogó egyetemi campus céljára történő funkcióbővítő felújítás és átalakítás | Budapest IX. kerület belterület, 36971 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető főispán |
 
