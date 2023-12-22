@@ -1,1 +1,3 @@
-1. § Hatályát veszti az Európai Mezőgazdasági Vidékfejlesztési Alapból a kertészet korszerűsítésére nyújtandó támogatások részletes feltételeiről szóló 25/2008. (III. 7.) FVM rendelet módosításáról szóló 57/2008. (IV. 29.) FVM rendelet.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
