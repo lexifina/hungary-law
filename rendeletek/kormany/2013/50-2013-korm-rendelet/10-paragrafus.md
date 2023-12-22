@@ -6,9 +6,9 @@
 
 (3) A felettes jogosult a tisztviselő érdekérvényesítővel való találkozását megtiltani, vagy harmadik személy jelenlétéhez kötni. A hivatali szervezet vezetője a közigazgatási szerv tisztviselői számára az érdekérvényesítőkkel való találkozást normatív utasításban is megtilthatja, korlátozhatja vagy harmadik személy jelenlétéhez kötheti.
 
-(4)[^15] Amennyiben ennek technikai feltételei fennállnak és a hivatali szervezet vezetője ehhez hozzájárult, a tisztviselő az érdekérvényesítővel való találkozásról szóló előzetes írásos tájékoztatást és az érdekérvényesítőkkel való találkozókról szóló éves jelentést a felettesével megosztott, naplózott elektronikus naptár vezetésével is teljesítheti. Ilyen esetben a ténylegesen megtörtént találkozókat az elektronikus naptárban tilos törölni vagy módosítani, ennek szándékos megszegése fegyelmi felelősséget keletkeztet.
+(4)[^16] Amennyiben ennek technikai feltételei fennállnak és a hivatali szervezet vezetője ehhez hozzájárult, a tisztviselő az érdekérvényesítővel való találkozásról szóló előzetes írásos tájékoztatást és az érdekérvényesítőkkel való találkozókról szóló éves jelentést a felettesével megosztott, naplózott elektronikus naptár vezetésével is teljesítheti. Ilyen esetben a ténylegesen megtörtént találkozókat az elektronikus naptárban tilos törölni vagy módosítani, ennek szándékos megszegése fegyelmi felelősséget keletkeztet.
 
-(5)[^16] A kormányzati szervek hivatali szervezetének vezetői évente kötelesek áttekinteni az irányításuk alatt álló tisztviselők érdekérvényesítőkkel való találkozására vonatkozó információkat, felmérni az ezzel kapcsolatos kockázatokat, és az intézkedési tervben megtenni a kockázatok kezeléséhez szükséges intézkedéseket.
+(5)[^17] A kormányzati szervek hivatali szervezetének vezetői évente kötelesek áttekinteni az irányításuk alatt álló tisztviselők érdekérvényesítőkkel való találkozására vonatkozó információkat, felmérni az ezzel kapcsolatos kockázatokat, és az intézkedési tervben megtenni a kockázatok kezeléséhez szükséges intézkedéseket.
 
-[^15]: A 10. § (4) bekezdése a 187/2016. (VII. 13.) Korm. rendelet 24. § e) pontja szerint módosított szöveg.
-[^16]: A 10. § (5) bekezdése a 187/2016. (VII. 13.) Korm. rendelet 24. § c) pontja szerint módosított szöveg.
+[^16]: A 10. § (4) bekezdése a 187/2016. (VII. 13.) Korm. rendelet 24. § e) pontja szerint módosított szöveg.
+[^17]: A 10. § (5) bekezdése a 187/2016. (VII. 13.) Korm. rendelet 24. § c) pontja szerint módosított szöveg.

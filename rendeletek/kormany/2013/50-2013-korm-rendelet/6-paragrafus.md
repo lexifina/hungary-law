@@ -6,13 +6,18 @@
 
 (4)[^11] Az integritás tanácsadó gondoskodik a belső kontrollrendszer vonatkozásában a kontrollkörnyezet kialakításának és az integrált kockázatkezelésnek a koordinációjáról, valamint a hivatali szervezet vezetője általi meghatalmazása esetén ellátja a szervezet működésével összefüggő integritási és korrupciós kockázatokra vonatkozó bejelentések fogadásával és kivizsgálásával kapcsolatos feladatokat.
 
-(5) Az (1)–(4) bekezdésben foglaltakon túlmenően az integritás tanácsadó
+(5)[^12] Az (1)–(4) bekezdésben foglaltakon túlmenően az integritás tanácsadó
 
-a) adatvédelmi felelősi,
+a) adatvédelmi tisztviselői,
 
-b) esélyegyenlőségi referensi, és
+b) esélyegyenlőségi referensi,
 
-c) fegyelmi biztosi
+c) fegyelmi biztosi és
+
+d) belső visszaélés-bejelentési rendszer működtetésével kapcsolatos
+
+feladatot is elláthat. Integritás tanácsadói és belső ellenőri feladatok azonos személy által egyidejűleg nem láthatóak el.
 
 [^10]: A 6. § (2) bekezdése a 187/2016. (VII. 13.) Korm. rendelet 24. § c) pontja szerint módosított szöveg.
 [^11]: A 6. § (4) bekezdése a 187/2016. (VII. 13.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^12]: A 6. § (5) bekezdése az 597/2023. (XII. 21.) Korm. rendelet 9. §-ával megállapított szöveg.
