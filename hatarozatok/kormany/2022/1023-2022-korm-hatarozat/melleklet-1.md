@@ -38,9 +38,11 @@
 
 ## 1.19.[^13] a Szeged Ipari Park közcélú infrastrukturális fejlesztésének támogatásáról és a szükséges források biztosításáról szóló 1595/2023. (XII. 21.) Korm. határozatra
 
+## 1.20.[^14] a Szikszó és térsége fejlesztésének érdekében szükséges intézkedésekről szóló 1821/2020. (XI. 18.) Korm. határozatra
+
 ## a következőkről dönt.
 
-## 2.[^14] A Kormány az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a központi költségvetésről szóló törvényben meghatározott térségi fejlesztési feladatok ellátását szolgáló előirányzat terhére vállalható kötelezettségek mértékét
+## 2.[^15] A Kormány az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a központi költségvetésről szóló törvényben meghatározott térségi fejlesztési feladatok ellátását szolgáló előirányzat terhére vállalható kötelezettségek mértékét
 
 ## a) 2023-ban az 1. melléklet szerinti táblázat D oszlopának összegében,
 
@@ -50,37 +52,37 @@
 
 ## d) 2026-ban az 1. melléklet szerinti táblázat G oszlopának összegében
 
-## e)[^15] 2027-ben az 1. melléklet szerinti táblázat H oszlopának összegében
+## e)[^16] 2027-ben az 1. melléklet szerinti táblázat H oszlopának összegében
 
-## f)[^16] 2028-ban az 1. melléklet szerinti táblázat I oszlopának összegében
+## f)[^17] 2028-ban az 1. melléklet szerinti táblázat I oszlopának összegében
 
 ## állapítja meg.
 
-## 3.[^17] A Kormány az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy az energiaügyi miniszter az 1. melléklet A oszlopa szerinti kormányhatározatokban foglalt, ötmilliárd forintot elérő vagy azt meghaladó kötelezettségvállalással járó feladatok végrehajtása érdekében legfeljebb az adott sor J oszlopában szereplő összegében kötelezettséget vállaljon.
+## 3.[^18] A Kormány az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy az energiaügyi miniszter az 1. melléklet A oszlopa szerinti kormányhatározatokban foglalt, ötmilliárd forintot elérő vagy azt meghaladó kötelezettségvállalással járó feladatok végrehajtása érdekében legfeljebb az adott sor J oszlopában szereplő összegében kötelezettséget vállaljon.
 
-## 4.[^18] A Kormány az Áht. 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az energiaügyi miniszter a 2023. évben
+## 4.[^19] A Kormány az Áht. 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az energiaügyi miniszter a 2023. évben
 
 ## a) az Északkelet-Magyarországon megvalósuló nagyberuházásokhoz szükséges villamosenergia-hálózatfejlesztéshez köthető forrásbiztosításról szóló 1052/2023. (II. 23.) Korm. határozat végrehajtása érdekében legfeljebb 100 000 000 forint értékig,
 
 ## b) a Science Park Szeged Tudományos és Innovációs Park teljes közműfejlesztése és az ahhoz kapcsolódó útfejlesztés megvalósításáról szóló 1119/2023. (III. 31.) Korm. határozat végrehajtása érdekében legfeljebb 6 397 154 366 forint értékig
 
-## c)[^19] a Várpalotai Védelmi Ipari Park Komplexum megvalósítása érdekében szükséges intézkedésekről szóló 1257/2023. (VI. 28.) Korm. határozat végrehajtása érdekében legfeljebb 2 030 040 000 forint értékig
+## c)[^20] a Várpalotai Védelmi Ipari Park Komplexum megvalósítása érdekében szükséges intézkedésekről szóló 1257/2023. (VI. 28.) Korm. határozat végrehajtása érdekében legfeljebb 2 030 040 000 forint értékig
 
-## d)[^20] a makói ipari park infrastrukturális fejlesztésének előkészítéséhez és egyes elemek ütemezett megvalósításához szükséges intézkedésekről szóló 1256/2023. (VI. 28.) Korm. határozat végrehajtása érdekében legfeljebb 518 532 346 forint értékig
+## d)[^21] a makói ipari park infrastrukturális fejlesztésének előkészítéséhez és egyes elemek ütemezett megvalósításához szükséges intézkedésekről szóló 1256/2023. (VI. 28.) Korm. határozat végrehajtása érdekében legfeljebb 518 532 346 forint értékig
 
-## e)[^21] a Nyíregyházi Ipari Park közcélú infrastrukturális fejlesztési feladataihoz szükséges kötelezettségvállalásokról szóló 1289/2023. (VII. 17.) Korm. határozat végrehajtása érdekében legfeljebb 40 488 841 704 forint értékig
+## e)[^22] a Nyíregyházi Ipari Park közcélú infrastrukturális fejlesztési feladataihoz szükséges kötelezettségvállalásokról szóló 1289/2023. (VII. 17.) Korm. határozat végrehajtása érdekében legfeljebb 40 488 841 704 forint értékig
 
-## f)[^22] a debreceni Déli Gazdasági Övezet bővítésével összefüggő infrastruktúra-fejlesztésekről szóló 1041/2022. (II. 4.) Korm. határozat végrehajtása érdekében 31 323 813 680 forint értékig,
+## f)[^23] a debreceni Déli Gazdasági Övezet bővítésével összefüggő infrastruktúra-fejlesztésekről szóló 1041/2022. (II. 4.) Korm. határozat végrehajtása érdekében 31 323 813 680 forint értékig,
 
-## g)[^23] a Bük város iparterületének fejlesztéséhez szükséges víziközmű-beruházásról szóló 1026/2023. (II. 9.) Korm. határozat végrehajtása érdekében 5 909 945 000 forint értékig,
+## g)[^24] a Bük város iparterületének fejlesztéséhez szükséges víziközmű-beruházásról szóló 1026/2023. (II. 9.) Korm. határozat végrehajtása érdekében 5 909 945 000 forint értékig,
 
-## h)[^24] a debreceni Észak-Nyugati Gazdasági Övezet kialakításával összefüggő közúti, vasúti és közmű infrastruktúra fejlesztések megvalósításáról, valamint a fejlesztésekkel összefüggő kormányhatározatok módosításáról szóló 1592/2018. (XI. 22.) Korm. határozat végrehajtása érdekében 10 975 559 784 forint értékig
+## h)[^25] a debreceni Észak-Nyugati Gazdasági Övezet kialakításával összefüggő közúti, vasúti és közmű infrastruktúra fejlesztések megvalósításáról, valamint a fejlesztésekkel összefüggő kormányhatározatok módosításáról szóló 1592/2018. (XI. 22.) Korm. határozat végrehajtása érdekében 10 975 559 784 forint értékig
 
 ## szabad előirányzatot meghaladó mértékben kötelezettséget vállaljon a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 1. melléklet XVII. Energiaügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Térségi fejlesztési feladatok alcím terhére.
 
-## 5.[^25]
+## 5.[^26]
 
-1. melléklet az 1023/2022. (I. 27.) Korm. határozathoz[^26]
+1. melléklet az 1023/2022. (I. 27.) Korm. határozathoz[^27]
 
 A kötelezettségvállalás mértéke a Térségi fejlesztési feladatok előirányzaton (kincstári díj nélkül)
 
@@ -88,7 +90,7 @@ A kötelezettségvállalás mértéke a Térségi fejlesztési feladatok előir�
 
 | 1. | Kapcsolódó kormányhatározat | 2021. évi költségvetési év (nettó forint) | 2022. évi költségvetési év (nettó forint) | 2023. évi költségvetési év (nettó forint) | 2024. évi költségvetési év (nettó forint) | 2025. évi költségvetési év (nettó forint) | 2026. évi költségvetési év (nettó forint) | 2027. évi költségvetési év (nettó forint) | 2028. évi költségvetési év (nettó forint) | Összesen (nettó forint) |
 
-| 2. | 1173/2020. (IV. 22.) Korm. határozat | 12 481 560 388 | 6 382 140 000 | 20 776 335 649 | 16 994 311 547 | 5 545 000 000 | 0 | 0 | 0 | 62 179 367 584 |
+| 2. | 1173/2020. (IV. 22.) Korm. határozat | 12 481 560 388 | 6 382 140 000 | 19 707 306 259 | 18 063 360 937 | 5 545 000 000 | 0 | 0 | 0 | 62 179 367 584 |
 
 | 3. | 1292/2020. (VI. 10.) Korm. határozat | 6 306 346 827 | 14 681 759 120 | 7 476 661 669 | 0 | 0 | 0 | 0 | 0 | 28 464 767 616 |
 
@@ -98,7 +100,7 @@ A kötelezettségvállalás mértéke a Térségi fejlesztési feladatok előir�
 
 | 6. | 1384/2021. (VI. 15.) Korm. határozat | 6 522 000 000 | 5 364 057 867 | 11 806 327 531 | 10 363 562 447 | 3 336 052 155 | 0 | 0 | 0 | 37 392 000 000 |
 
-| 7. | 1558/2021. (VIII. 5.) Korm. határozat | 15 317 666 511 | 2 733 954 575 | 26 635 373 346 | 11 932 414 807 | 7 901 800 000 | 5 400 000 000 | 2 700 000 000 | 0 | 72 621 209 239 |
+| 7. | 1558/2021. (VIII. 5.) Korm. határozat | 15 317 666 511 | 2 733 954 575 | 15 266 798 471 | 23 300 989 682 | 7 901 800 000 | 5 400 000 000 | 2 700 000 000 | 0 | 72 621 209 239 |
 
 | 8. | 1041/2022. (II. 4.) Korm. határozat | 0 | 4 558 301 152 | 31 323 813 680 | 18 245 441 307 | 30 531 239 504 | 26 389 926 831 | 0 | 0 | 111 048 722 474 |
 
@@ -106,7 +108,7 @@ A kötelezettségvállalás mértéke a Térségi fejlesztési feladatok előir�
 
 | 10. | 1259/2022. (V. 19.) Korm. határozat | 0 | 0 | 428 000 000 | 0 | 0 | 0 | 0 | 0 | 428 000 000 |
 
-| 11. | 1026/2023. (II. 9.) Korm. határozat | 0 | 0 | 5 909 945 000 | 2 862 580 000 | 0 | 0 | 0 | 0 | 8 772 525 000 |
+| 11. | 1026/2023. (II. 9.) Korm. határozat | 0 | 0 | 928 000 000 | 4 844 525 000 | 3 000 000 000 | 0 | 0 | 0 | 8 772 525 000 |
 
 | 12. | 1052/2023. (II. 23.) Korm. határozat | 0 | 0 | 100 000 000 | 2 072 000 000 | 9 367 000 000 | 23 083 000 000 | 34 717 000 000 | 46 270 000 000 | 115 609 000 000 |
 
@@ -118,11 +120,13 @@ A kötelezettségvállalás mértéke a Térségi fejlesztési feladatok előir�
 
 | 16. | 1256/2023. (VI. 28.) Korm. határozat | 0 | 0 | 518 532 346 | 0 | 0 | 0 | 0 | 0 | 518 532 346 |
 
-| 17. | 1289/2023. (VII. 17.) Korm. határozat | 0 | 0 | 40 488 841 704 | 67 748 431 636 | 0 | 61 282 155 | 0 | 0 | 108 298 555 495 |
+| 17. | 1289/2023. (VII. 17.) Korm. határozat | 0 | 0 | 14 233 679 741 | 24 193 553 628 | 37 458 739 549 | 32 412 582 577 | 0 | 0 | 108 298 555 495 |
 
 | 18. | 1592/2018. (XI. 22.) Korm. határozat | 0 | 0 | 10 975 559 784 | 0 | 315 000 000 | 6 017 000 000 | 6 795 290 516 | 0 | 24 102 850 300 |
 
 | 19. | 1595/2023. (XII. 21.) Korm. határozat | 0 | 0 | 0 | 825 500 000 | 0 | 0 | 0 | 0 | 825 500 000 |
+
+| 20. | 1821/2020. (XI. 18.) Korm. határozat | 0 | 0 | 0 | 10 754 402 992 | 681 110 185 | 0 | 0 | 0 | 11 435 513 177 |
 
 [^1]: Az 1. pont 1.7. alpontját az 1041/2022. (II. 4.) Korm. határozat 2. pontja iktatta be.
 [^2]: Az 1. pont 1.8. alpontját az 1251/2022. (V. 4.) Korm. határozat 2. pontja iktatta be.
@@ -137,16 +141,17 @@ A kötelezettségvállalás mértéke a Térségi fejlesztési feladatok előir�
 [^11]: Az 1. pont 1.17. alpontját az 1289/2023. (VII. 17.) Korm. határozat 4. pontja iktatta be.
 [^12]: Az 1. pont 1.18. alpontját az 1302/2023. (VII. 19.) Korm. határozat 4. pontja iktatta be.
 [^13]: Az 1. pont 1.19. alpontját az 1595/2023. (XII. 21.) Korm. határozat 5. pontja iktatta be.
-[^14]: A 2. pont nyitó szövegrésze az 1052/2023. (II. 23.) Korm. határozat 6. pont a) alpontja szerint módosított szöveg.
-[^15]: A 2. pont e) alpontját az 1251/2022. (V. 4.) Korm. határozat 3. pontja iktatta be.
-[^16]: A 2. pont f) alpontját az 1052/2023. (II. 23.) Korm. határozat 3. pontja iktatta be.
-[^17]: A 3. pont az 1251/2022. (V. 4.) Korm. határozat 4. pontja, az 1052/2023. (II. 23.) Korm. határozat 6. pont b) alpontja szerint módosított szöveg.
-[^18]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 1052/2023. (II. 23.) Korm. határozat 4. pontja iktatta be, szövege az 1119/2023. (III. 31.) Korm. határozat 3. pontjával megállapított, záró szövegrésze az 1302/2023. (VII. 19.) Korm. határozat 7. pontja szerint módosított szöveg.
-[^19]: A 4. pont c) alpontját az 1257/2023. (VI. 28.) Korm. határozat 3. pontja iktatta be.
-[^20]: A 4. pont d) alpontját az 1256/2023. (VI. 28.) Korm. határozat 3. pontja iktatta be.
-[^21]: A 4. pont e) alpontját az 1289/2023. (VII. 17.) Korm. határozat 5. pontja iktatta be.
-[^22]: A 4. pont f) alpontját az 1302/2023. (VII. 19.) Korm. határozat 5. pontja iktatta be.
-[^23]: A 4. pont g) alpontját az 1302/2023. (VII. 19.) Korm. határozat 5. pontja iktatta be.
-[^24]: A 4. pont h) alpontját az 1302/2023. (VII. 19.) Korm. határozat 5. pontja iktatta be.
-[^25]: Az 5. pontot az 1302/2022. (VI. 22.) Korm. határozat 25. pontja iktatta be, az 1302/2023. (VII. 19.) Korm. határozat 8. pontja visszavonta.
-[^26]: Az 1. melléklet az 1052/2023. (II. 23.) Korm. határozat 5. pontjával megállapított, az 1065/2023. (III. 8.) Korm. határozat 2. pontja, az 1068/2023. (III. 8.) Korm. határozat 3. pontja, az 1119/2023. (III. 31.) Korm. határozat 4. pontja, az 1257/2023. (VI. 28.) Korm. határozat 4. pontja, az 1256/2023. (VI. 28.) Korm. határozat 4. pontja, az 1289/2023. (VII. 17.) Korm. határozat 6. pontja, az 1302/2023. (VII. 19.) Korm. határozat 6. pontja, az 1595/2023. (XII. 21.) Korm. határozat 6. pontja szerint módosított szöveg.
+[^14]: Az 1. pont 1.20. alpontját az 1604/2023. (XII. 22.) Korm. határozat 4. pontja iktatta be.
+[^15]: A 2. pont nyitó szövegrésze az 1052/2023. (II. 23.) Korm. határozat 6. pont a) alpontja szerint módosított szöveg.
+[^16]: A 2. pont e) alpontját az 1251/2022. (V. 4.) Korm. határozat 3. pontja iktatta be.
+[^17]: A 2. pont f) alpontját az 1052/2023. (II. 23.) Korm. határozat 3. pontja iktatta be.
+[^18]: A 3. pont az 1251/2022. (V. 4.) Korm. határozat 4. pontja, az 1052/2023. (II. 23.) Korm. határozat 6. pont b) alpontja szerint módosított szöveg.
+[^19]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 1052/2023. (II. 23.) Korm. határozat 4. pontja iktatta be, szövege az 1119/2023. (III. 31.) Korm. határozat 3. pontjával megállapított, záró szövegrésze az 1302/2023. (VII. 19.) Korm. határozat 7. pontja szerint módosított szöveg.
+[^20]: A 4. pont c) alpontját az 1257/2023. (VI. 28.) Korm. határozat 3. pontja iktatta be.
+[^21]: A 4. pont d) alpontját az 1256/2023. (VI. 28.) Korm. határozat 3. pontja iktatta be.
+[^22]: A 4. pont e) alpontját az 1289/2023. (VII. 17.) Korm. határozat 5. pontja iktatta be.
+[^23]: A 4. pont f) alpontját az 1302/2023. (VII. 19.) Korm. határozat 5. pontja iktatta be.
+[^24]: A 4. pont g) alpontját az 1302/2023. (VII. 19.) Korm. határozat 5. pontja iktatta be.
+[^25]: A 4. pont h) alpontját az 1302/2023. (VII. 19.) Korm. határozat 5. pontja iktatta be.
+[^26]: Az 5. pontot az 1302/2022. (VI. 22.) Korm. határozat 25. pontja iktatta be, az 1302/2023. (VII. 19.) Korm. határozat 8. pontja visszavonta.
+[^27]: Az 1. melléklet az 1052/2023. (II. 23.) Korm. határozat 5. pontjával megállapított, az 1065/2023. (III. 8.) Korm. határozat 2. pontja, az 1068/2023. (III. 8.) Korm. határozat 3. pontja, az 1119/2023. (III. 31.) Korm. határozat 4. pontja, az 1257/2023. (VI. 28.) Korm. határozat 4. pontja, az 1256/2023. (VI. 28.) Korm. határozat 4. pontja, az 1289/2023. (VII. 17.) Korm. határozat 6. pontja, az 1302/2023. (VII. 19.) Korm. határozat 6. pontja, az 1595/2023. (XII. 21.) Korm. határozat 6. pontja, az 1604/2023. (XII. 22.) Korm. határozat 5. pontja szerint módosított szöveg.
