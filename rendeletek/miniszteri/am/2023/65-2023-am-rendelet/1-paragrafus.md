@@ -1,1 +1,3 @@
-1. § Hatályát veszti a növényvédelmi igazgatási szolgáltatási díjakról szóló 165/2004. (XI. 22.) FVM rendelet módosításáról szóló 116/2005. (XII. 19.) FVM rendelet.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
