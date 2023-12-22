@@ -1,1 +1,3 @@
-1. § Hatályát veszti a birtok-összevonási célú termőföldvásárlás támogatásáról szóló 99/2007. (IX. 19.) FVM rendelet.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
