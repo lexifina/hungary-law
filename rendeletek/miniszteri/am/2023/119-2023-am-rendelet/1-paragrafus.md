@@ -1,1 +1,3 @@
-1. § Hatályát veszti az Európai Mezőgazdasági Vidékfejlesztési Alapból az erdészeti célra használt géppark fejlesztéséhez és korszerűsítéséhez nyújtandó támogatások részletes feltételeiről szóló 144/2008. (XI. 7.) FVM rendelet módosításáról szóló 76/2009. (VI. 30.) FVM rendelet.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
