@@ -1,8 +1,8 @@
-## 51/A. §[^256] Az e rendeletben előírt bejelentési kötelezettségeket a kötelezett elektronikus úton is teljesítheti.
+## 51/A. §[^257] Az e rendeletben előírt bejelentési kötelezettségeket a kötelezett elektronikus úton is teljesítheti.
 
 ## Záró rendelkezések
 
-## A nemzeti kapcsolattartó pont kijelölése[^257]
+## A nemzeti kapcsolattartó pont kijelölése[^258]
 
-[^256]: Az 51/A. §-t a 247/2009. (XI. 10.) Korm. rendelet 23. § (2) iktatta be, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^257]: Az „A nemzeti kapcsolattartó pont kijelölése” alcímet (51/B. §) a 326/2020. (VII. 1.) Korm. rendelet 17. §-a iktatta be.
+[^257]: Az 51/A. §-t a 247/2009. (XI. 10.) Korm. rendelet 23. § (2) iktatta be, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^258]: Az „A nemzeti kapcsolattartó pont kijelölése” alcímet (51/B. §) a 326/2020. (VII. 1.) Korm. rendelet 17. §-a iktatta be.

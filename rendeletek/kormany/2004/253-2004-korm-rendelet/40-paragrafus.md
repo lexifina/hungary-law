@@ -1,9 +1,9 @@
-40. § (1)[^200] Színházi tűzfegyver színpadon vagy egyéb előadás, illetve filmforgatás vagy hagyományőrző bemutató helyszínén viselhető és használható.
+40. § (1)[^201] Színházi tűzfegyver színpadon vagy egyéb előadás, illetve filmforgatás vagy hagyományőrző bemutató helyszínén viselhető és használható.
 
-(2)[^201] Színházi tűzfegyver csak az előadás, a filmforgatás vagy a hagyományőrző bemutató időtartamára, az előadásban, a filmforgatásban, illetve a bemutatón közreműködő személynek adható át.
+(2)[^202] Színházi tűzfegyver csak az előadás, a filmforgatás vagy a hagyományőrző bemutató időtartamára, az előadásban, a filmforgatásban, illetve a bemutatón közreműködő személynek adható át.
 
-(3)[^202] A színházi tűzfegyvert a hozzá tartozó tölténytől elkülönítetten, jól zárható helyen kell tárolni.
+(3)[^203] A színházi tűzfegyvert a hozzá tartozó tölténytől elkülönítetten, jól zárható helyen kell tárolni.
 
-[^200]: A 40. § (1) bekezdése a 326/2020. (VII. 1.) Korm. rendelet 21. § (1) bekezdés 32. pontja szerint módosított szöveg.
-[^201]: A 40. § (2) bekezdése a 334/2009. (XII. 29.) Korm. rendelet 5. § (3) bekezdés a) pontja, a 326/2020. (VII. 1.) Korm. rendelet 21. § (1) bekezdés 32. pontja szerint módosított szöveg.
-[^202]: A 40. § (3) bekezdése a 326/2020. (VII. 1.) Korm. rendelet 21. § (1) bekezdés 33. pontja szerint módosított szöveg.
+[^201]: A 40. § (1) bekezdése a 326/2020. (VII. 1.) Korm. rendelet 21. § (1) bekezdés 32. pontja szerint módosított szöveg.
+[^202]: A 40. § (2) bekezdése a 334/2009. (XII. 29.) Korm. rendelet 5. § (3) bekezdés a) pontja, a 326/2020. (VII. 1.) Korm. rendelet 21. § (1) bekezdés 32. pontja szerint módosított szöveg.
+[^203]: A 40. § (3) bekezdése a 326/2020. (VII. 1.) Korm. rendelet 21. § (1) bekezdés 33. pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
-## 55/H. §[^281] Ha jogszabály szigorúbb követelményt nem támaszt, az 5. § (6) bekezdésében meghatározott határidőt a Módosító Rendelet 3. hatálybalépésétől[^282] kell számítani.
+## 55/H. §[^282] Ha jogszabály szigorúbb követelményt nem támaszt, az 5. § (6) bekezdésében meghatározott határidőt a Módosító Rendelet 3. hatálybalépésétől[^283] kell számítani.
 
-55/I. §[^283] (1) Ha jogszabály eltérő követelményt nem támaszt, az Ftv. 21/E. §-ában meghatározott eszközt a birtoklására jogosult személy – az ellenérték nélküli átadást kezdeményező írásbeli kérelemmel (e § alkalmazásában a továbbiakban: kérelem) egyidejűleg – bármely rendőrkapitányságon átadhatja.
+55/I. §[^284] (1) Ha jogszabály eltérő követelményt nem támaszt, az Ftv. 21/E. §-ában meghatározott eszközt a birtoklására jogosult személy – az ellenérték nélküli átadást kezdeményező írásbeli kérelemmel (e § alkalmazásában a továbbiakban: kérelem) egyidejűleg – bármely rendőrkapitányságon átadhatja.
 
 (2) A kérelemnek tartalmaznia kell
 
@@ -12,6 +12,6 @@ b) – a tulajdonos kilétére vonatkozóan a lőfegyverek központi nyilvántar
 
 (4) A számára az (1) bekezdés szerint jogszerűen átadott eszköz átvételéről a hatóság jegyzőkönyvet vesz fel, amelynek egy példánya az átadót illeti meg. A jegyzőkönyv rendőrségnél maradó példányához az ellenérték nélküli átadást kezdeményező kérelem eredeti példányát is csatolni kell.
 
-[^281]: Az 55/H. §-t a 326/2020. (VII. 1.) Korm. rendelet 18. §-a iktatta be.
-[^282]: A hatálybalépés időpontja 2020. július 2.
-[^283]: Az 55/I. §-t a 326/2020. (VII. 1.) Korm. rendelet 18. §-a iktatta be.
+[^282]: Az 55/H. §-t a 326/2020. (VII. 1.) Korm. rendelet 18. §-a iktatta be.
+[^283]: A hatálybalépés időpontja 2020. július 2.
+[^284]: Az 55/I. §-t a 326/2020. (VII. 1.) Korm. rendelet 18. §-a iktatta be.

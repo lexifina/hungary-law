@@ -62,6 +62,6 @@
 
 ## A MEGÚJÍTÁS, VALAMINT A MUZEÁLIS FEGYVER, ILLETVE AZ ELÖLTÖLTŐ FEGYVER KIVÉTELÉVEL FEGYVERENKÉNT KÜLÖN KÉRELMET KELL BENYÚJTANI!
 
-18. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^312]
+18. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^313]
 
-[^312]: A 18. számú melléklet a 371/2016. (XI. 29.) Korm. rendelet 21. § f) pontjával megállapított szöveg.
+[^313]: A 18. számú melléklet a 371/2016. (XI. 29.) Korm. rendelet 21. § f) pontjával megállapított szöveg.

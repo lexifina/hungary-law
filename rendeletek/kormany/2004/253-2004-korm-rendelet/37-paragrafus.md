@@ -32,7 +32,9 @@ b) a vadászvizsgán vizsgázóként részt vevő személynek
 
 (5b)[^166] Az (5a) bekezdés alkalmazása során a lőgyakorlat végrehajtásáért felelős személyként kizárólag olyan személy jelölhető ki, aki munkakörénél vagy szakértelménél fogva felkészült és alkalmas a lövészet során használni kívánt lőfegyverrel, lőszerrel kapcsolatos kiképzési feladatok ellátására. A lőgyakorlat végrehajtásáért felelős személy kijelölését a lőtér üzemeltetésének, illetve a lövészetvezetői tevékenység végzésének az ellenőrzésére irányuló hatósági eljárás során a védelmi jellegű képzést folytató intézmény vezetője igazolja.
 
-(6)[^167] A sportegyesület az egyedi jóváhagyást igénylő lőfegyverét és a lőszerét
+(5c)[^167] Lőgyakorlatot törvény alapján a honvédelmi nevelés programjában való közreműködés keretében végző, törvény által kijelölt köztestület az egyedi jóváhagyást igénylő, legfeljebb 0,22-es kaliberű lőfegyverét, lőszerét az általa üzemeltetett lőtéren átengedheti a lőgyakorlaton részt vevő, a tizennegyedik életévét betöltött személynek a lőgyakorlat idejére, a lőgyakorlat végrehajtásáért felelős személy felügyelete mellett.
+
+(6)[^168] A sportegyesület az egyedi jóváhagyást igénylő lőfegyverét és a lőszerét
 
 a) átengedheti
 
@@ -42,15 +44,15 @@ ab) a tizennyolcadik életévét betöltött tagjának az edzés időtartamára,
 
 b) átadhatja a tizennyolcadik életévét betöltött, versenyengedéllyel vagy rajtengedéllyel rendelkező sportolójának a lőfegyver és a lőszer tárolásának helye és a sporttevékenység (edzés, verseny) végzésének helyszíne közötti közvetlen szállítás időtartamára.
 
-(7)[^168] A 28. § (2) bekezdésében meghatározott szervezet egyedi jóváhagyást igénylő lőfegyverét, lőszerét a 35. § (1) bekezdése szerinti engedélyben feltüntetett, a vele írásban foglalt szerződés alapján munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban lévő, a lőfegyver tartásához szükséges – jogszabályban meghatározott – feltételekkel rendelkező személynek, a szerződésben meghatározott feladat tényleges ellátásának időtartamára átadhatja.
+(7)[^169] A 28. § (2) bekezdésében meghatározott szervezet egyedi jóváhagyást igénylő lőfegyverét, lőszerét a 35. § (1) bekezdése szerinti engedélyben feltüntetett, a vele írásban foglalt szerződés alapján munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban lévő, a lőfegyver tartásához szükséges – jogszabályban meghatározott – feltételekkel rendelkező személynek, a szerződésben meghatározott feladat tényleges ellátásának időtartamára átadhatja.
 
-(8)[^169] Filmgyártási célú lőfegyver olyan, a filmforgatásban szerződés alapján közvetlenül közreműködő személynek engedhető át, aki részt vett a filmgyártási célú lőfegyvert tartó szervezet által végzett biztonsági oktatáson, ezt aláírásával igazolta és az oktatottak elsajátításáról a lőfegyvert átengedő személy meggyőződött. A biztonsági oktatáson való részvételt igazoló dokumentumot a filmgyártási célú lőfegyver tartására jogosult szervezet az engedély hatályosságának tartama alatt mindvégig köteles megőrizni. A fegyver átengedéséért, visszavételéért és biztonságos műszaki állapotáért a filmgyártási célú lőfegyvert tartó szervezet gyártásra jogosító hatósági engedéllyel rendelkező tagja felel.
+(8)[^170] Filmgyártási célú lőfegyver olyan, a filmforgatásban szerződés alapján közvetlenül közreműködő személynek engedhető át, aki részt vett a filmgyártási célú lőfegyvert tartó szervezet által végzett biztonsági oktatáson, ezt aláírásával igazolta és az oktatottak elsajátításáról a lőfegyvert átengedő személy meggyőződött. A biztonsági oktatáson való részvételt igazoló dokumentumot a filmgyártási célú lőfegyver tartására jogosult szervezet az engedély hatályosságának tartama alatt mindvégig köteles megőrizni. A fegyver átengedéséért, visszavételéért és biztonságos műszaki állapotáért a filmgyártási célú lőfegyvert tartó szervezet gyártásra jogosító hatósági engedéllyel rendelkező tagja felel.
 
-(9)[^170] Kizárólag olyan filmgyártási célú lőfegyver engedhető át, amelynek csövébe a hozzá való lőszer betöltését akadályozó gátat vagy a fegyver űrméretének megfelelő lövedék kilövését megakadályozó szűkítést szereltek.
+(9)[^171] Kizárólag olyan filmgyártási célú lőfegyver engedhető át, amelynek csövébe a hozzá való lőszer betöltését akadályozó gátat vagy a fegyver űrméretének megfelelő lövedék kilövését megakadályozó szűkítést szereltek.
 
-(10)[^171] Filmgyártási célú lőfegyver filmforgatás helyszínén viselhető és használható.
+(10)[^172] Filmgyártási célú lőfegyver filmforgatás helyszínén viselhető és használható.
 
-(11)[^172] Az elöltöltő fegyver vadászati célú használatára jogosító hatósági engedéllyel rendelkező az engedély birtokában az elöltöltő fegyvert vadászat céljára – a (13) bekezdésben foglaltakra figyelemmel –
+(11)[^173] Az elöltöltő fegyver vadászati célú használatára jogosító hatósági engedéllyel rendelkező az engedély birtokában az elöltöltő fegyvert vadászat céljára – a (13) bekezdésben foglaltakra figyelemmel –
 
 a) a magyar hatóság által megadott ugyanilyen engedéllyel vagy
 
@@ -58,7 +60,7 @@ b) a vadászati engedéllyel
 
 rendelkező személynek átengedheti.
 
-(12)[^173] Az elöltöltő fegyver működtetéséhez szükséges lőszerelemet (fekete lőport vagy az annak kiváltására gyártott lőport, csappantyút) a tartására jogosult – a (13) bekezdésben foglaltakra figyelemmel –
+(12)[^174] Az elöltöltő fegyver működtetéséhez szükséges lőszerelemet (fekete lőport vagy az annak kiváltására gyártott lőport, csappantyút) a tartására jogosult – a (13) bekezdésben foglaltakra figyelemmel –
 
 a) a vadászaton történő részvétel feltételeként a biztonságos fegyverhasználat elsajátítása és ellenőrzése érdekében előírt felkészítő képzésen részt vevő,
 
@@ -68,7 +70,7 @@ c) az ugyanezen eszközök tartására egyébként jogosult
 
 személynek átadhatja.
 
-(13)[^174] Vadászat céljára az elöltöltő fegyver, valamint a működtetéséhez szükséges lőszerelem (fekete lőpor vagy az annak kiváltására gyártott lőpor, csappantyú) a Vtv. 62. § (1) bekezdés a) pontjában meghatározott – a (11) bekezdés a) pontja, illetve a (12) bekezdés a) vagy c) pontja szerinti körbe nem tartozó – személynek abban az esetben engedhető, illetve adható át, ha előzőleg a bérvadászati szerződésben megjelölt vagy a vendégvadászati meghívást adó jogosult által szervezett és az elöltöltő fegyver vadászati célú használatára jogosító engedéllyel rendelkező személy által megtartott, az elöltöltő fegyverek kezelésére vonatkozó speciális balesetvédelmi oktatásban részesült és ezt aláírásával igazolja.
+(13)[^175] Vadászat céljára az elöltöltő fegyver, valamint a működtetéséhez szükséges lőszerelem (fekete lőpor vagy az annak kiváltására gyártott lőpor, csappantyú) a Vtv. 62. § (1) bekezdés a) pontjában meghatározott – a (11) bekezdés a) pontja, illetve a (12) bekezdés a) vagy c) pontja szerinti körbe nem tartozó – személynek abban az esetben engedhető, illetve adható át, ha előzőleg a bérvadászati szerződésben megjelölt vagy a vendégvadászati meghívást adó jogosult által szervezett és az elöltöltő fegyver vadászati célú használatára jogosító engedéllyel rendelkező személy által megtartott, az elöltöltő fegyverek kezelésére vonatkozó speciális balesetvédelmi oktatásban részesült és ezt aláírásával igazolja.
 
 [^158]: A 37. § (1) bekezdése a 67/2010. (III. 18.) Korm. rendelet 9. § (2) bekezdés g) pontja, a 326/2020. (VII. 1.) Korm. rendelet 21. § (1) bekezdés 13. pontja szerint módosított szöveg.
 [^159]: A 37. § (2) bekezdése a 39/2012. (III. 12.) Korm. rendelet 17. § (1) bekezdésével megállapított, a 326/2020. (VII. 1.) Korm. rendelet 21. § (1) bekezdés 14. pontja szerint módosított szöveg.
@@ -79,11 +81,12 @@ személynek átadhatja.
 [^164]: A 37. § (5) bekezdése a 39/2012. (III. 12.) Korm. rendelet 29. § (1) bekezdés 14. pontja, a 326/2020. (VII. 1.) Korm. rendelet 21. § (1) bekezdés 15. pontja, a 283/2022. (VIII. 1.) Korm. rendelet 5. §-a szerint módosított szöveg.
 [^165]: A 37. § (5a) bekezdését a 283/2022. (VIII. 1.) Korm. rendelet 3. §-a iktatta be.
 [^166]: A 37. § (5b) bekezdését a 283/2022. (VIII. 1.) Korm. rendelet 3. §-a iktatta be.
-[^167]: A 37. § (6) bekezdése az 54/2015. (III. 17.) Korm. rendelet 2. §-ával megállapított, nyitó szövegrésze a 326/2020. (VII. 1.) Korm. rendelet 21. § (1) bekezdés 16. pontja szerint módosított szöveg.
-[^168]: A 37. § (7) bekezdése a 21/2010. (II. 9.) Korm. rendelet 2. § (3) bekezdése, a 39/2012. (III. 12.) Korm. rendelet 29. § (2) bekezdés 11. pontja, a 326/2020. (VII. 1.) Korm. rendelet 21. § (1) bekezdés 17. pontja szerint módosított szöveg.
-[^169]: A 37. § (8) bekezdését a 39/2012. (III. 12.) Korm. rendelet 17. § (2) bekezdése iktatta be.
-[^170]: A 37. § (9) bekezdését a 39/2012. (III. 12.) Korm. rendelet 17. § (2) bekezdése iktatta be.
-[^171]: A 37. § (10) bekezdését a 39/2012. (III. 12.) Korm. rendelet 17. § (2) bekezdése iktatta be.
-[^172]: A 37. § (11) bekezdését a 371/2016. (XI. 29.) Korm. rendelet 14. §-a iktatta be.
-[^173]: A 37. § (12) bekezdését a 371/2016. (XI. 29.) Korm. rendelet 14. §-a iktatta be.
-[^174]: A 37. § (13) bekezdését a 371/2016. (XI. 29.) Korm. rendelet 14. §-a iktatta be.
+[^167]: A 37. § (5c) bekezdését az 597/2023. (XII. 21.) Korm. rendelet 6. §-a iktatta be.
+[^168]: A 37. § (6) bekezdése az 54/2015. (III. 17.) Korm. rendelet 2. §-ával megállapított, nyitó szövegrésze a 326/2020. (VII. 1.) Korm. rendelet 21. § (1) bekezdés 16. pontja szerint módosított szöveg.
+[^169]: A 37. § (7) bekezdése a 21/2010. (II. 9.) Korm. rendelet 2. § (3) bekezdése, a 39/2012. (III. 12.) Korm. rendelet 29. § (2) bekezdés 11. pontja, a 326/2020. (VII. 1.) Korm. rendelet 21. § (1) bekezdés 17. pontja szerint módosított szöveg.
+[^170]: A 37. § (8) bekezdését a 39/2012. (III. 12.) Korm. rendelet 17. § (2) bekezdése iktatta be.
+[^171]: A 37. § (9) bekezdését a 39/2012. (III. 12.) Korm. rendelet 17. § (2) bekezdése iktatta be.
+[^172]: A 37. § (10) bekezdését a 39/2012. (III. 12.) Korm. rendelet 17. § (2) bekezdése iktatta be.
+[^173]: A 37. § (11) bekezdését a 371/2016. (XI. 29.) Korm. rendelet 14. §-a iktatta be.
+[^174]: A 37. § (12) bekezdését a 371/2016. (XI. 29.) Korm. rendelet 14. §-a iktatta be.
+[^175]: A 37. § (13) bekezdését a 371/2016. (XI. 29.) Korm. rendelet 14. §-a iktatta be.

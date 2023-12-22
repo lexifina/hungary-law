@@ -39,3 +39,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-253-20-
 | 2023-01-01 | 2004-253-20-22.39 | 569/2022. (XII. 23.) Korm. rendelet |
 | 2023-08-31 | 2004-253-20-22.41 | 326/2020. (VII. 1.) Korm. rendelet |
 | 2023-11-01 | 2004-253-20-22.40 | 486/2023. (X. 31.) Korm. rendelet |
+| 2023-12-22 | 2004-253-20-22.42 | 597/2023. (XII. 21.) Korm. rendelet |
