@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-8-20-0M
 | 2017-01-01 | 2002-8-20-0M.8 | 23/2015. (IV. 28.) EMMI rendelet |
 | 2021-06-09 | 2002-8-20-0M.9 | 23/2015. (IV. 28.) EMMI rendelet |
 | 2023-01-01 | 2002-8-20-0M.10 | 23/2015. (IV. 28.) EMMI rendelet |
+| 2023-12-22 | 2002-8-20-0M.11 | 58/2023. (XII. 21.) BM rendelet |
