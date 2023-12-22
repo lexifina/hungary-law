@@ -1,1 +1,3 @@
-1. § Hatályát veszti a piaci szereplőknek az 1973/2004/EK rendelet 37. cikke alapján energianövény feldolgozóként, illetve felvásárlóként történő elismeréséről szóló 141/2007. (XI. 28.) FVM rendelet módosításáról szóló 70/2008. (V. 29.) FVM rendelet.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
