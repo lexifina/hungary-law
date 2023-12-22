@@ -1,1 +1,3 @@
-1. § Hatályát veszti az Európai Mezőgazdasági Garancia Alapból finanszírozott egységes területalapú támogatásokhoz (SAPS) kapcsolódó 2008. évi kiegészítő nemzeti támogatások (top up) igénybevételével kapcsolatos egyes kérdésekről szóló 42/2008. (IV. 4.) FVM rendelet módosításáról szóló 74/2008. (VI. 14.) FVM rendelet.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
