@@ -6,7 +6,7 @@ a) szakirányú felsőfokú iskolai végzettséggel vagy felsőfokú iskolai vé
 
 b) legalább hároméves vezetői gyakorlattal
 
-## rendelkezik.
+rendelkezik.
 
 (2)[^17] Az (1) bekezdés b) pontjában előírt vezetői gyakorlat alól felmentést az intézeti vezető javaslatára a fenntartó adhat. A minisztérium közvetlen felügyelete alá tartozó intézmények tekintetében – az intézet vezetőjének javaslatára – felmentést a kinevező (megbízó) adhat.
 

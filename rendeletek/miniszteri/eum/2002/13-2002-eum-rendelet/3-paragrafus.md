@@ -6,7 +6,7 @@ b)[^12] mesterképzési szakon szerzett egészségügyi menedzser szakképesít�
 
 c) legalább hároméves vezetői gyakorlattal
 
-## rendelkezik.
+rendelkezik.
 
 (2)[^13] Az (1) bekezdés b) pontjában előírt képesítési feltétel alól – a 4. §-ban foglaltak szerint –, illetőleg a vezetői gyakorlat alól felmentést – indokolt esetben – az intézeti vezető javaslata alapján a fenntartó adhat. Az (1) bekezdés b) és c) pontjaiban előírt feltételek alól együttesen is adható felmentés.
 
