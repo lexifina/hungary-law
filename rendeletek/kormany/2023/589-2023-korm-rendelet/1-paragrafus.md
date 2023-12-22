@@ -1,3 +1,3 @@
-1. § A 2025. évi Oszakai Világkiállítással kapcsolatos egyes rendelkezésekről szóló 490/2022. (XII. 1.) Korm. rendelet (a továbbiakban: Rendelet) 3. § (1) bekezdése helyébe következő rendelkezés lép:
+1. §[^2]
 
-„(1) A Törvény 1. §-a szerinti világkiállítási pavilon (a továbbiakban: Pavilon) létesítésével összefüggő közbeszerzési eljárások során – amennyiben az építési beruházás építmény kivitelezésére és tervezésére együtt vagy a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) 1. mellékletében foglalt tevékenységek egyikéhez kapcsolódó munka kivitelezésére és tervezésére együtt irányul – az építési beruházásokhoz kapcsolódó tervezői és mérnöki szolgáltatások közbeszerzésének részletes szabályairól szóló 322/2015. (X. 30.) Korm. rendelet 2. § (2) bekezdését, 6. § (2) bekezdését, 8. § (1) bekezdését, 14. § (3)–(5) bekezdését, 17. § (2) bekezdését, 21. §-át, 27. § (1) bekezdését, 29. §-át, 29/A. §-át, 32/A. §-át, valamint 34/A. §-át nem kell alkalmazni.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
