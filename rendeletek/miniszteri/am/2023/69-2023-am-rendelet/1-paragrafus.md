@@ -1,1 +1,3 @@
-1. § Hatályát veszti az egységes területalapú támogatási rendszer alapján támogatásra jogosult mezőgazdasági termelőknek nyújtott elkülönített cukortámogatásról szóló 48/2006. (VI. 22.) FVM rendelet módosításáról szóló 60/2007. (VII. 11.) FVM rendelet.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
