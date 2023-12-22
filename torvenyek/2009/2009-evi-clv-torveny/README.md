@@ -45,3 +45,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-155-00-00
 | 2022-05-25 | 2022. évi IV. törvény | 2009-155-00-00.38 |
 | 2022-11-01 | 2021. évi CXXI. törvény | 2009-155-00-00.39 |
 | 2023-06-05 | 2023. évi XXXII. törvény | 2009-155-00-00.40 |
+| 2023-12-22 | 2023. évi LXXXVIII. törvény | 2009-155-00-00.41 |
