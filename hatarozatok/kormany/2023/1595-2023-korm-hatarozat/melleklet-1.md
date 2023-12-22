@@ -116,26 +116,12 @@
 
 ## 4. A Kormány az állami építési beruházások rendjéről szóló 2023. évi LXIX. törvény 4. § (2) bekezdése alapján a beruházások gyors lefolytatása érdekében az 1.1–1.6. alpontban meghatározott fejlesztéseket, az ahhoz fűződő kiemelt nemzeti és befektetésösztönzési érdekre tekintettel, mentesíti a törvény alkalmazása alól.
 
-## 5. A Térségi fejlesztési feladatokhoz szükséges kötelezettségvállalásokról szóló 1023/2022. (I. 27.) Korm. határozat [a továbbiakban: 1023/2022. (I. 27.) Korm. határozat] 1. pontja a következő 1.19. alponttal egészül ki:
+## 5.[^1]
 
-## (A Kormány, tekintettel)
+## 6.[^2]
 
-## „1.19. a Szeged Ipari Park közcélú infrastrukturális fejlesztésének támogatásáról és a szükséges források biztosításáról szóló 1595/2023. (XII. 21.) Korm. határozatra”
+1. melléklet az 1595/2023. (XII. 21.) Korm. határozathoz[^3]
 
-## (a következőkről dönt.)
-
-## 6. Az 1023/2022. (I. 27.) Korm. határozat 1. melléklete az 1. melléklet szerint módosul.
-
-1. melléklet az 1595/2023. (XII. 21.) Korm. határozathoz
-
-Az 1023/2022. (I. 27.) Korm. határozat 1. mellékletében foglalt táblázat a következő 19. sorral egészül ki:
-
-|  | [A | B | C | D | E | F | G | H | I | J |
-
-| 1. | Kapcsolódó kormányhatározat | 2021. évi költségvetési év (nettó forint) | 2022. évi költségvetési év (nettó forint) | 2023. évi költségvetési év (nettó forint) | 2024. évi költségvetési év (nettó forint) | 2025. évi költségvetési év (nettó forint) | 2026. évi költségvetési év (nettó forint) | 2027. évi költségvetési év (nettó forint) | 2028. évi költségvetési év (nettó forint) | Összesen (nettó forint)] |
-
-„
-
-| 19. | 1595/2023. (XII. 21.) Korm. határozat | 0 | 0 | 0 | 825 500 000 | 0 | 0 | 0 | 0 | 825 500 000 |
-
-”
+[^1]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 6. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
