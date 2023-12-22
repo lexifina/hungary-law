@@ -242,6 +242,10 @@ b) 2. Cikk 2. bekezdés b. pontjának megfelelően meghatározott vagy megjelöl
 
 36. külföldi hadműveleti területen végzett humanitárius tevékenység: a Honvédség részvétele a szemben álló felek fegyveres összeütközése miatt veszélyeztetett területen, a polgári lakosok élete, testi épsége, egészsége, az életfenntartáshoz szükséges alapvető javak biztosítása érdekében.
 
+37. tiltott külföldi támogatás: olyan külföldről származó támogatás, amelynek elfogadását vagy felhasználását a pártok működéséről és gazdálkodásáról szóló törvény, illetve a választási eljárásról szóló törvény tiltja.
+
+38. felelős személy: a civil szervezetekről szóló törvényben meghatározott felelős személy.
+
 (2) Ahol e törvény élettársat említ, azon a bejegyzett élettársat is érteni kell.
 
 (3) Ahol e törvény honvédet, műveleti területet, szövetséges fegyveres erőt vagy békefenntartást említ, azon a honvédelemről és a Magyar Honvédségről szóló törvényben meghatározott fogalmakat kell érteni.
