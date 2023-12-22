@@ -1,1 +1,3 @@
-1. § Hatályát veszti az Európai Mezőgazdasági Vidékfejlesztési Alapból a szaktanácsadási szolgáltatások igénybevételéhez nyújtandó támogatások részletes feltételeiről szóló 52/2007. (VI. 28.) FVM rendelet módosításáról szóló 168/2009. (XII. 15.) FVM rendelet.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
