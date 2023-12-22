@@ -1,1 +1,3 @@
-1. § Hatályát veszti az Európai Mezőgazdasági Vidékfejlesztési Alapból a mezőgazdasági területek erdősítéséhez nyújtandó támogatás igénybevételének részletes szabályairól szóló 88/2007. (VIII. 17.) FVM rendelet módosításáról szóló 149/2008. (XI. 12.) FVM rendelet.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
