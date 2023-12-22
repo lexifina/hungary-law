@@ -1,0 +1,1 @@
+4. § A Hivatal a társadalmi döntéshozatali folyamatokban az átláthatóság érvényesülését elősegítő tevékenységet végez, és együttműködik minden állami szervvel a nemzeti szuverenitás védelmének előmozdítása érdekében.
