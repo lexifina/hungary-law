@@ -90,7 +90,7 @@
 
 ## Határidő: azonnal
 
-## 1.10.[^12] egyetért a gödi ipari-innovációs fejlesztési területhez kapcsolódó – 2. melléklet szerinti – víziközmű-hálózatokhoz kapcsolódó infrastruktúra-fejlesztéssel összefüggő feladatok elvégzésével, valamint a megvalósításukhoz szükséges 32 249 797 605 forint biztosításával;
+## 1.10.[^12] egyetért a gödi ipari-innovációs fejlesztési területhez kapcsolódó – 2. melléklet szerinti – víziközmű-hálózatokhoz kapcsolódó infrastruktúra-fejlesztéssel összefüggő feladatok elvégzésével, valamint a megvalósításukhoz szükséges 32 251 248 371 forint biztosításával;
 
 ## 1.10a.[^13] felhívja a pénzügyminisztert, hogy az energiaügyi miniszter bevonásával az 1.10. alpontban foglalt fejlesztések komplex előkészítése, megvalósítása és az ezekkel összefüggő feladatok elvégzése érdekében gondoskodjon az 1.10. alpontban foglalt feladat ellátására szolgáló előirányzat javára
 
@@ -100,15 +100,15 @@
 
 ## c) a 2022. évben 6 385 331 070 forint,
 
-## d) a 2023. évben 8 707 707 327 forint,
+## d) a 2023. évben 7 638 886 843 forint,
 
-## e) a 2024. évben 3 986 303 703 forint
+## e) a 2024. évben 5 056 392 953 forint
 
 ## forrás biztosításáról;
 
 | Felelős: | pénzügyminiszter energiaügyi miniszter |
 
-| Határidő: | az a) és a b) pont tekintetében azonnal a c) pont tekintetében a 2022. évi központi költségvetés végrehajtása során, a felmerülés ütemében a d) pont tekintetében a 2023. évi központi költségvetés végrehajtása során, a felmerülés ütemében az e) pont tekintetében az adott évi központi költségvetés tervezése során |
+| Határidő: | az a)–c) pont tekintetében azonnal a d) pont tekintetében a felmerülés ütemében az e) pont tekintetében a 2024. évi központi költségvetés végrehajtása során, a felmerülés ütemében |
 
 ## 1.11. [^14]
 
@@ -149,8 +149,8 @@ Közlekedési infrastruktúra-fejlesztéssel összefüggő feladatok
 [^9]: Az 1. pont 1.8. alpontja az 1633/2021. (IX. 14.) Korm. határozattal megállapított szöveg.
 [^10]: Az 1. pont 1.9. pontja az 1567/2022. (XI. 24.) Korm. határozat 4. pont d) pontja szerint módosított szöveg.
 [^11]: Az 1.9a. alpontot az 1567/2022. (XI. 24.) Korm. határozat 3. pontja iktatta be.
-[^12]: Az 1. pont 1.10. alpontja az 1608/2022. (XII. 8.) Korm. határozat 3. pontjával megállapított szöveg.
-[^13]: Az 1. pont 1.10a. alpontját az 1080/2021. (II. 27.) Korm. határozat 5. pontja iktatta be, szövege az 1608/2022. (XII. 8.) Korm. határozat 3. pontjával megállapított szöveg.
+[^12]: Az 1. pont 1.10. pontja az 1604/2023. (XII. 22.) Korm. határozat 1. pontjával megállapított szöveg.
+[^13]: Az 1. pont 1.10a. alpontját az 1080/2021. (II. 27.) Korm. határozat 5. pontja iktatta be, szövege az 1604/2023. (XII. 22.) Korm. határozat 1. pontjával megállapított szöveg.
 [^14]: Az 1. pont 1.11. alpontját az 1023/2022. (I. 27.) Korm. határozat 4. pont a) alpontja hatályon kívül helyezte.
 [^15]: Az 1. pont 1.11a. alpontját az 1080/2021. (II. 27.) Korm. határozat 7. pontja iktatta be, az 1023/2022. (I. 27.) Korm. határozat 4. pont a) alpontja hatályon kívül helyezte.
 [^16]: Az 1. pont 1.12. alpontja az 1821/2020. (XI. 18.) Korm. határozat 3. pontja szerint módosított szöveg.
