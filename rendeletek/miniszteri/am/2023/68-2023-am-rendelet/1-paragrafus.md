@@ -1,1 +1,3 @@
-1. § Hatályát veszti a növényfajták állami elismeréséről és a szaporítóanyagok előállításáról és forgalomba hozataláról szóló egyes miniszteri rendeletek jogharmonizációs célú módosításáról szóló 70/2006. (IX. 27.) FVM rendelet.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
