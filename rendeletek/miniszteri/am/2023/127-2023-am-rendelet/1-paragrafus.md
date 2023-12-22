@@ -1,1 +1,3 @@
-1. § Hatályát veszti az Európai Mezőgazdasági Vidékfejlesztési Alapból a mezőgazdasági termelők gazdaságátadásához nyújtandó támogatás részletes feltételeiről szóló 83/2007. (VIII. 10.) FVM rendelet módosításáról szóló 133/2009. (X. 14.) FVM rendelet.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
