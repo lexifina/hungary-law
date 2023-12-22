@@ -40,6 +40,8 @@ e) a Nemzeti Választási Iroda.
 
 f) az Európai Támogatásokat Auditáló Főigazgatóság.
 
+g) a Szuverenitásvédelmi Hivatal.
+
 (5) Rendvédelmi szerv
 
 a) a rendőrség,
