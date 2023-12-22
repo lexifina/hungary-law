@@ -1,1 +1,3 @@
-1. § Hatályát veszti az egyes állatbetegségek és zoonózisok felszámolására, ellenőrzésére és megfigyelésére irányuló nemzeti programok finanszírozásának szabályairól szóló 95/2008. (VII. 25.) FVM rendelet módosításáról szóló 19/2009. (III. 6.) FVM rendelet.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
