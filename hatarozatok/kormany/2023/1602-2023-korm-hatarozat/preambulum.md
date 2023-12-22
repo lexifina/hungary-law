@@ -1,0 +1,1 @@
+A Kormány – az egészségügyi feladatellátásban történő egyházi szerepvállalás megerősítése érdekében, a tüdőgyógyászati hálózat szakmai egységének a Törökbálinti Tüdőgyógyintézet és az Országos Korányi Pulmonológiai Intézet közötti további kölcsönös együttműködés biztosításával –
