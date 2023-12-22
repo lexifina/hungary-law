@@ -43,3 +43,5 @@ e) a közélet befolyásolására alkalmas tevékenységet végző civil szervez
 (12a) Az Állami Számvevőszék által a (11) bekezdés e) pontja alapján lefolytatott ellenőrzés során a 31. § és a 33. § szerinti intézkedések nem alkalmazhatóak.
 
 (13) Az Állami Számvevőszék feladatkörében elemzéseket és tanulmányokat készíthet. Az Állami Számvevőszék az elnök 13. § (2) bekezdés l) pontjában foglalt feladataihoz kapcsolódóan elemzéseket és tanulmányokat készít, ezek rendelkezésre bocsátásával segíti a Költségvetési Tanácsot feladatai ellátásában.
+
+(14) Az Állami Számvevőszék a választási eljárásról szóló törvényben meghatározottak szerint ellenőrzési feladatokat lát el.
