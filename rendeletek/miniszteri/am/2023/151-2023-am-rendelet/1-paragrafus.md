@@ -1,1 +1,3 @@
-1. § Hatályát veszti a 2016. évi körzeti erdőtervezésre vonatkozó tervezési alapelvekről, valamint az erdőgazdálkodás tartamosságát és fejlesztését szolgáló körzeti erdőtervezési keretértékekről szóló 69/2016. (X. 14.) FM rendelet.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
