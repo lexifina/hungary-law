@@ -21,15 +21,3 @@ vagyonnyilatkozatával kapcsolatban jogosult az a)–e) pontban meghatározott s
 ## „d) e) pontja az Alaptörvény R) cikk (4) bekezdése alapján”
 
 [sarkalatosnak minősül.]
-
-|
-
-Novák Katalin s. k.,
-
-köztársasági elnök
-
-|
-
-Dr. Latorcai János s. k.,
-
-az Országgyűlés alelnöke
