@@ -1,1 +1,3 @@
-1. § Hatályát veszti az Új Magyarország Vidékfejlesztési Programra meghatározott előirányzatok felhasználásának állami támogatási szempontú szabályairól szóló 77/2007. (VII. 30.) FVM rendelet módosításáról szóló 21/2009. (III. 6.) FVM rendelet.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
