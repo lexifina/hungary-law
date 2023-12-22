@@ -1,1 +1,3 @@
-1. § Hatályát veszti az Új Magyarország Vidékfejlesztési Program finanszírozáshoz igénybe vehető projekt kiegészítő hitelről szóló 78/2009. (VI. 30.) FVM rendelet módosításáról szóló 151/2009. (XI. 6.) FVM rendelet.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
