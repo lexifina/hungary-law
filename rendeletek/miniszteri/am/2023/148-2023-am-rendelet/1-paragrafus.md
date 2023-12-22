@@ -1,1 +1,3 @@
-1. § Hatályát veszti a 2014. évi körzeti erdőtervezésre vonatkozó tervezési alapelvekről, valamint az érintett körzeti erdőtervek alapján folytatott erdőgazdálkodásról szóló 47/2014. (IV. 24.) VM rendelet.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
