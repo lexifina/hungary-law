@@ -1,1 +1,0 @@
-A Szeged Megyei Jogú Város külterületén fekvő földrészletek beruházási célterületté nyilvánításáról szóló 1200/2023. (V. 17.) Korm. határozat 1. pontjában a „földrészletet” szövegrész helyébe a „földrészletet, továbbá a 01374/22 helyrajzi számú földrészlet „a”, „c”, „f”, „g”, „j”, „k”, „m”, „n” és „p” alrészletét” szöveg lép.
