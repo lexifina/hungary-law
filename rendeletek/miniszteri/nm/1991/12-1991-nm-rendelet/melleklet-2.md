@@ -1,4 +1,4 @@
-2. melléklet a 12/1991. (V. 18.) NM rendelethez[^21]
+2. melléklet a 12/1991. (V. 18.) NM rendelethez[^22]
 
 A nyilatkozat adattartalma
 
@@ -36,4 +36,4 @@ A nyilatkozat adattartalma
 
 7. A nyilatkozat kiállításának dátuma
 
-[^21]: A 2. mellékletet a 19/2012. (III. 28.) NEFMI rendelet 5. § (2) bekezdése iktatta be.
+[^22]: A 2. mellékletet a 19/2012. (III. 28.) NEFMI rendelet 5. § (2) bekezdése iktatta be.
