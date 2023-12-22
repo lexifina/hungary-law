@@ -8,4 +8,4 @@
 
 (3a) A magyarországi lakcímmel nem rendelkező választópolgár az ajánlóívre a személyi azonosítója és a lakcíme helyett a személyazonosságát igazoló hatósági igazolványa számát és a születési idejét is rávezetheti.
 
-(4) A listán állított jelölt bejelentésének tartalmaznia kell a 120. § (3) bekezdése szerinti adatokat és nyilatkozatokat.
+(4)

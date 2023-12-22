@@ -44,4 +44,6 @@ ha a választási bizottság a jelölő szervezetek nyilvántartásába felvette
 
 15. választási szerv: a választási bizottság és a választási iroda.
 
+16. külföldi támogatás: más államtól, külföldi természetes vagy jogi személytől, jogi személyiséggel nem rendelkező szervezettől származó vagyoni hozzájárulás.
+
 (2)

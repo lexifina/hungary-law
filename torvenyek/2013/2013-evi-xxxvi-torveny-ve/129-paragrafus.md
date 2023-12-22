@@ -6,7 +6,7 @@ a) a jelölést elfogadja,
 
 b) nincs olyan tisztsége, amely összeférhetetlen a képviselői megbízatással, illetve megválasztása esetén az összeférhetetlenséget megszünteti,
 
-c)
+c) a választói akarat befolyásolására vagy ennek megkísérlésére irányuló tevékenység folytatása céljából külföldi támogatást vagy ebből származó vagyonelemet az adott választás vonatkozásában nem használ fel.
 
 (2) A listán legfeljebb háromszor annyi jelölt állítható, mint a listán megszerezhető mandátumok száma. A listán szereplő jelöltek sorrendjét a jelölő szervezet határozza meg.
 
