@@ -20,7 +20,9 @@ A besugárzások, expozíciók során releváns paraméterek
 
 1.8. Gondozó vagy segítő részvétele esetén a sugárterhelésének becsült értéke.
 
-2. Röntgenberendezéssel végzett felvételezéskor:
+1.9.[^40] Az adott diagnosztikai vagy terápiás eljárás pontos azonosítása, amennyiben az rendelkezésre áll, akkor a 3. § (2)–(3) bekezdése szerint.
+
+2.[^41] Röntgenberendezéssel végzett felvételezéskor (amennyiben a röntgenberendezés elektronikus adatok gyűjtésére és továbbítására képes):
 
 2.1. Az alkalmazott röntgencsőfeszültség (kV).
 
@@ -39,6 +41,16 @@ A besugárzások, expozíciók során releváns paraméterek
 2.8. A berendezésre szerelt dózis-terület szorzat mérő eszköz által kijelzett érték és annak kalibrációs faktora, ha rendelkezésre áll.
 
 2.9. A képalkotás módja (film-fóliás képalkotó rendszer, foszforlemez, egyéb digitális képreceptor).
+
+2.10.[^42] Fókuszméret.
+
+2.11.[^43] Rács alkalmazásának ténye (igen/nem) és annak fókusztávolsága, ha alkalmazták.
+
+2.12.[^44] Automatikus expozícióvezérlő alkalmazásának ténye (igen/nem) és a kiválasztott kamrák.
+
+2.13.[^45] Expozíciós idő, amennyiben külön leolvasható.
+
+2.14.[^46] Vetítési irány (pl. antero-posterior, lateralis stb.).
 
 3. Röntgen átvilágításkor:
 
@@ -62,7 +74,17 @@ A besugárzások, expozíciók során releváns paraméterek
 
 3.10. A berendezésre szerelt dózis-terület szorzat mérő eszköz által kijelzett érték és annak kalibrációs faktora, ha rendelkezésre áll.
 
-4. Mammográfiai vizsgálat során:
+3.11.[^47] Fókuszméret.
+
+3.12.[^48] Rács alkalmazásának ténye (igen/nem) és annak fókusztávolsága, ha alkalmazták.
+
+3.13.[^49] Automatikus expozícióvezérlő alkalmazásának ténye (igen/nem) és a kiválasztott kamrák.
+
+3.14.[^50] Expozíciós idő felvételsorozatonként, amennyiben külön leolvasható.
+
+3.15.[^51] Vetítési irány(ok) (pl. RAO, CRA stb.).
+
+4.[^52] Mammográfiai vizsgálat során (amennyiben a röntgenberendezés elektronikus adatok gyűjtésére és továbbítására képes):
 
 4.1. Az alkalmazott röntgencsőfeszültség (kV).
 
@@ -85,6 +107,14 @@ A besugárzások, expozíciók során releváns paraméterek
 4.10. A berendezés által kijelzett belépőoldali bőrdózis.
 
 4.11. A berendezés által kijelzett átlagos mirigydózis.
+
+4.12.[^53] Fókuszméret.
+
+4.13.[^54] Rács alkalmazásának ténye (igen/nem).
+
+4.14.[^55] Automatikus expozícióvezérlő alkalmazásának ténye (igen/nem) és a kiválasztott kamrák vagy szegmentált terület.
+
+4.15.[^56] Expozíciós idő, amennyiben külön leolvasható.
 
 5. CT-vizsgálat során:
 
@@ -120,6 +150,8 @@ A besugárzások, expozíciók során releváns paraméterek
 
 5.16. A vizsgálat során a berendezés által kijelzett DLP.
 
+5.17.[^57] Gantry dőlésszöge (ha döntött gantryvel készült a vizsgálat).
+
 6. Izotópdiagnosztikai vizsgálatok során:
 
 6.1. A beadott radiofarmakonban található radioizotóp.
@@ -134,11 +166,11 @@ A besugárzások, expozíciók során releváns paraméterek
 
 6.6. A radioizotóp fizikai felezési ideje.
 
-6.7. A radiofarmakon becsült biológiai felezési ideje.
+6.7.[^58] A radioaktivitás becsült ürülési ideje, amelyből meghatározható az az időtartam, amíg a betegnek meg kell tartania a protokoll által előírt óvintézkedéseket.
 
 7. Nyitott izotóppal végzett terápiás eljárások során:
 
-7.1. A beadott radiofarmakonban található radioizotóp.
+7.1.[^59] A beadott radiofarmakon és a jelző radioizotóp.
 
 7.2. A beadott aktivitás.
 
@@ -146,7 +178,7 @@ A besugárzások, expozíciók során releváns paraméterek
 
 7.4. A radioizotóp fizikai felezési ideje.
 
-7.5. A radiofarmakon becsült biológiai felezési ideje.
+7.5.[^60] A radiofarmakon becsült effektív felezési ideje, vagyis amelyből meghatározható az az időtartam, amíg a betegnek meg kell tartania a protokoll által előírt óvintézkedéseket.
 
 8. Felületi, közel- vagy mélyterápiás röntgenberendezésekkel végzett külső terápiás besugárzások során:
 
@@ -303,3 +335,25 @@ b. Az alkalmazott képvezérlési (IGRT), mozgáskövetési technika rövid leí
 11.13. Dóziseloszlás legalább három síkban (axiális, sagittalis, coronalis)
 
 Az e mellékletben felsorolt eljárásokra vonatkozó paraméterek dokumentálhatóak a berendezések által kijelzett idegen nyelven is, azonban az adatok és információk pontos értelmezése és rögzítése érdekében az egészségügyi szolgáltató köteles a kezelőszemélyzetet megfelelő képzésben részesíteni, továbbá biztosítani a berendezés magyar nyelvű kézikönyvének elérhetőségét.
+
+[^40]: A 4. melléklet 1.9. pontját a 64/2023. (XII. 21.) BM rendelet 11. §-a iktatta be.
+[^41]: A 4. melléklet 2. pont címe a 64/2023. (XII. 21.) BM rendelet 11. §-ával megállapított szöveg.
+[^42]: A 4. melléklet 2.10. pontját a 64/2023. (XII. 21.) BM rendelet 11. §-a iktatta be.
+[^43]: A 4. melléklet 2.11. pontját a 64/2023. (XII. 21.) BM rendelet 11. §-a iktatta be.
+[^44]: A 4. melléklet 2.12. pontját a 64/2023. (XII. 21.) BM rendelet 11. §-a iktatta be.
+[^45]: A 4. melléklet 2.13. pontját a 64/2023. (XII. 21.) BM rendelet 11. §-a iktatta be.
+[^46]: A 4. melléklet 2.14. pontját a 64/2023. (XII. 21.) BM rendelet 11. §-a iktatta be.
+[^47]: A 4. melléklet 3.11. pontját a 64/2023. (XII. 21.) BM rendelet 11. §-a iktatta be.
+[^48]: A 4. melléklet 3.12. pontját a 64/2023. (XII. 21.) BM rendelet 11. §-a iktatta be.
+[^49]: A 4. melléklet 3.13. pontját a 64/2023. (XII. 21.) BM rendelet 11. §-a iktatta be.
+[^50]: A 4. melléklet 3.14. pontját a 64/2023. (XII. 21.) BM rendelet 11. §-a iktatta be.
+[^51]: A 4. melléklet 3.15. pontját a 64/2023. (XII. 21.) BM rendelet 11. §-a iktatta be.
+[^52]: A 4. melléklet 4. pont címe a 64/2023. (XII. 21.) BM rendelet 11. §-ával megállapított szöveg.
+[^53]: A 4. melléklet 4.12. pontját a 64/2023. (XII. 21.) BM rendelet 11. §-a iktatta be.
+[^54]: A 4. melléklet 4.13. pontját a 64/2023. (XII. 21.) BM rendelet 11. §-a iktatta be.
+[^55]: A 4. melléklet 4.14. pontját a 64/2023. (XII. 21.) BM rendelet 11. §-a iktatta be.
+[^56]: A 4. melléklet 4.15. pontját a 64/2023. (XII. 21.) BM rendelet 11. §-a iktatta be.
+[^57]: A 4. melléklet 5.17. pontját a 64/2023. (XII. 21.) BM rendelet 11. §-a iktatta be.
+[^58]: A 4. melléklet 6.7. pontja a 64/2023. (XII. 21.) BM rendelet 11. §-ával megállapított szöveg.
+[^59]: A 4. melléklet 7.1. pontja a 64/2023. (XII. 21.) BM rendelet 11. §-ával megállapított szöveg.
+[^60]: A 4. melléklet 7.5. pontja a 64/2023. (XII. 21.) BM rendelet 11. §-ával megállapított szöveg.

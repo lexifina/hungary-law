@@ -8,7 +8,7 @@
 
 (4) Az engedélyes gondoskodik arról, hogy az (1) bekezdésben felsorolt besugárzásokról értesüljön a kezelőorvos, a beutaló orvos, a beteg és annak törvényes képviselője.
 
-(5) Az engedélyes köteles az országos tisztifőorvos által működtetett elektronikus bejelentő rendszerben a (6) bekezdés szerinti jelentős eseményeket haladéktalanul, a (3) bekezdés szerinti vizsgálat eredményét és a szükséges javító intézkedéseket a vizsgálat lezárultát követő 15 napon belül bejelenteni.
+(5)[^31] Az engedélyes köteles az NNGYK által működtetett elektronikus bejelentő rendszerben a (6) bekezdés szerinti jelentős eseményeket haladéktalanul, a (3) bekezdés szerinti vizsgálat eredményét és a szükséges javító intézkedéseket a vizsgálat lezárultát követő 15 napon belül bejelenteni.
 
 (6) Jelentős eseménynek minősülnek mindazok, amelyek az egyének szándékolatlan
 
@@ -24,6 +24,7 @@ e) halálukat okozhatják, vagy
 
 f) sugárterhelését okozzák, azonban az alkalmatlan dozírozás miatt a kezelés nem éri el a célját.
 
-(7)[^12] Az országos tisztifőorvos az NNGYK részére hozzáférést biztosít az elektronikus bejelentő rendszer adatbázisához a bejelentett események elemezése céljából. Az NNGYK a bejelentett események elemzéséről készített jelentését a tárgyévet követő év április 30-ig megküldi az országos tisztifőorvosnak, aki azt az általa működtetett honlapon közzéteszi.
+(7)[^32] Az NNGYK a bejelentett események elemzéséről készített jelentését a tárgyévet követő év április 30-ig a honlapján közzéteszi.
 
-[^12]: A 22. § (7) bekezdése a 28/2023. (VIII. 10.) BM rendelet 81. § d) pontja szerint módosított szöveg.
+[^31]: A 22. § (5) bekezdése a 64/2023. (XII. 21.) BM rendelet 12. § f) pontja szerint módosított szöveg.
+[^32]: A 22. § (7) bekezdése a 64/2023. (XII. 21.) BM rendelet 8. §-ával megállapított szöveg. [Nem vezethető át a 64/2023. (XII. 21.) BM rendelet 12. § g) pontjában foglalt azon módosítás, amely szerint a 22. § (7) bekezdésében az „elemezése” szövegrész helyébe az „elemzése” szöveg lép.]

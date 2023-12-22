@@ -1,6 +1,6 @@
-4. § (1) Ionizáló sugárzással járó új orvosi eljárást csak az országos tisztifőorvos jóváhagyását és az eljárás nyilvántartásba vételét követően lehet alkalmazni.
+4. § (1)[^3] Ionizáló sugárzással járó új orvosi eljárást és szűrővizsgálatot csak az országos tisztifőorvos jóváhagyását és az eljárás nyilvántartásba vételét követően lehet alkalmazni.
 
-(2) A jóváhagyás iránti kérelmet az első hazai alkalmazást megelőzően az egészségügyi szolgáltatónak kell az országos tisztifőorvoshoz benyújtania az új orvosi radiológiai eljárás indokoltságát alátámasztó alábbi dokumentumokkal együtt:
+(2)[^4] Ionizáló sugárzással járó új orvosi eljárás jóváhagyása iránti kérelmet az első hazai alkalmazást megelőzően az egészségügyi szolgáltatónak kell az országos tisztifőorvoshoz benyújtania az új orvosi radiológiai eljárás indokoltságát alátámasztó alábbi dokumentumokkal együtt:
 
 a) a klinikai vizsgálatok kivitelezése során elvégzett, az ionizáló sugárzás által okozott kockázatok elemzése,
 
@@ -20,6 +20,8 @@ bf) az eljárás várható sugárterhelése és kockázatai a beteg, a gondozó 
 
 c) az Egészségügyi Szakmai Kollégium alkalmazási terület szerint illetékes tagozatának ajánlása és
 
-d)[^1] a Nemzeti Népegészségügyi és Gyógyszerészeti Központ (a továbbiakban: NNGYK) szakvéleménye.
+d)[^5]
 
-[^1]: A 4. § (2) bekezdés d) pontja a 28/2023. (VIII. 10.) BM rendelet 81. § a) pontja szerint módosított szöveg.
+[^3]: A 4. § (1) bekezdése a 64/2023. (XII. 21.) BM rendelet 12. § a) pontja szerint módosított szöveg.
+[^4]: A 4. § (2) bekezdés nyitó szövegrésze a 64/2023. (XII. 21.) BM rendelet 12. § b) pontja szerint módosított szöveg.
+[^5]: A 4. § (2) bekezdés d) pontját a 64/2023. (XII. 21.) BM rendelet 13. § b) pontja hatályon kívül helyezte.

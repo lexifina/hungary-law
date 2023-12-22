@@ -1,5 +1,3 @@
-## 15. § Az engedélyes legalább ötévente az ionizáló sugárzással járó orvosi eljárások megfelelőségének vizsgálatára irányuló klinikai auditot végeztet a szakterületének megfelelő, az 1. melléklet 1. pontja szerinti auditáló csoporttal.
-
 16. § (1) Az auditáló csoport tagja olyan, a szakterületén szakképesítéssel, speciális szakértelemmel és gyakorlattal rendelkező személy lehet, aki az országos tisztifőorvos által az 1. melléklet 2. pontjában foglalt adattartalommal vezetett auditorok névjegyzékében szerepel.
 
 (2) Az országos tisztifőorvos a névjegyzéket az általa működtetett honlapon közzéteszi, az abban foglalt adatokat karbantartja.

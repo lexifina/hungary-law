@@ -1,4 +1,4 @@
-2. § (1) E rendelet alkalmazásakor az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 487/2015. (XII. 30.) Korm. rendelet 4. §-a szerinti fogalom-meghatározásokat kell alkalmazni az aktivitás, aktivitás-koncentráció, becquerel, besugárzás, bevitel, dekontaminálás, dóziskorlát, dózismegszorítás, effektív dózis, egészségkárosodás, orvosi radiológiai, orvosi radiológiai létesítmény, orvosi sugárterhelés, minőségbiztosítás, minőség-ellenőrzés, zárt sugárforrás, végtagok kifejezések tekintetében.
+2. § (1)[^1] E rendelet alkalmazásakor az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 4. §-a szerinti fogalom-meghatározásokat kell alkalmazni az aktivitás, aktivitás-koncentráció, becquerel, besugárzás, bevitel, dekontaminálás, dóziskorlát, dózismegszorítás, effektív dózis, egészségkárosodás, orvosi radiológiai, orvosi radiológiai létesítmény, orvosi sugárterhelés, minőségbiztosítás, minőség-ellenőrzés, zárt sugárforrás, végtagok kifejezések tekintetében.
 
 (2) E rendelet alkalmazásában:
 
@@ -31,3 +31,5 @@
 14. orvosi sugárdiagnosztika: az in vivo izotópdiagnosztika, az ionizáló sugárzást alkalmazó orvosi radiológiai diagnosztika, az intervenciós radiológia és a fogászati radiológia;
 
 15. üzemképességet befolyásoló karbantartás: a berendezésen a villamosenergia-ellátó rendszert, sugárforrás-egységet, sugárhatároló eszközöket vagy a képalkotó rendszert érintő javítás vagy módosítás, amely befolyásolja a berendezés dozimetriai jellemzőit.
+
+[^1]: A 2. § (1) bekezdése a 64/2023. (XII. 21.) BM rendelet 13. § a) pontja szerint módosított szöveg.

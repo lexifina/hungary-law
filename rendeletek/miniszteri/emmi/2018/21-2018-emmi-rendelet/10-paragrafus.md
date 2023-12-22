@@ -1,6 +1,6 @@
 ## 4. A kezelőorvos felelőssége
 
-10. § (1) A kezelőorvos a beteg kezelése során köteles gondoskodni arról, hogy tervezett expozíciós helyzetben tényleges indikáció nélkül ne következhessen be sugárterhelés.
+10. § (1)[^10] A kezelőorvos a beteg kezelése, diagnosztikai vizsgálata során köteles gondoskodni arról, hogy tervezett expozíciós helyzetben tényleges indikáció nélkül ne következhessen be sugárterhelés.
 
 (2) A kezelőorvos gondoskodik a beteg sugárterhelésének optimálásáról. A megfelelő optimálás kiterjed a megfelelő típusú berendezés kiválasztására, a diagnosztikai adatok és terápiás eredmények következetes előállítására, az ionizáló sugárzással járó orvosi eljárások gyakorlati vonatkozásaira, a minőségbiztosításra, a páciensdózisok meghatározására és értékelésére, és az alkalmazott aktivitások ellenőrzésére.
 
@@ -8,7 +8,7 @@
 
 (4) Ha a kezelőorvos nem ért egyet az ionizáló sugárzással járó orvosi eljárás indokoltságával, az eljárás elvégzésének megtagadása előtt köteles a beutaló orvossal konzultációt kezdeményezni.
 
-(5) Tünetmentes személyeken betegség korai diagnosztikája céljából kizárólag abban az esetben hajtható végre orvosi sugárdiagnosztikai eljárás, ha
+(5)[^11] Tünetmentes személyeken betegség korai diagnosztikája céljából kizárólag abban az esetben hajtható végre ionizáló sugárzást alkalmazó orvosi diagnosztikai eljárás, ha
 
 a) egészségügyi szűrővizsgálati program részeként történik, vagy
 
@@ -35,3 +35,6 @@ e) a rendelkezésre álló adatoknak és egyéb információknak a beutaló orvo
 f) a betegeknek és vizsgálatban érintett személyeknek az ionizáló sugárzás alkalmazásával járó eljárás kockázatairól szóló tájékoztatására.
 
 (10) Az ionizáló sugárzással járó orvosi eljárások bármely orvosi alkalmazásáért a kezelőorvos felel. Az eljárás kivitelezését vagy annak egy részét a kezelőorvos átruházhatja a megfelelő szakképesítéssel rendelkező egészségügyi dolgozóra, amelynek tényét írásban dokumentálni kell. A kivitelezés átruházása nem érinti a kezelőorvos Eütv. szerinti felelősségét.
+
+[^10]: A 10. § (1) bekezdése a 64/2023. (XII. 21.) BM rendelet 12. § d) pontja szerint módosított szöveg.
+[^11]: A 10. § (5) bekezdés nyitó szövegrésze a 64/2023. (XII. 21.) BM rendelet 12. § e) pontja szerint módosított szöveg.
