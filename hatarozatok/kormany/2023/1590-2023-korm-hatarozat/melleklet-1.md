@@ -12,13 +12,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Emberi Erőforrás Fejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1037/2016. (II. 9.) Korm. határozat
-
-## a) 1. melléklet 1. pontjában foglalt táblázat C:38l. mezőjében az „50,00” szövegrész helyébe a „65,00” szöveg,
-
-## b) 2. mellékletében foglalt táblázat D:21h. mezőjében az „50,00” szövegrész helyébe a „65,00” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1590/2023. (XII. 20.) Korm. határozathoz
 
@@ -27,3 +21,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatási összeg (bruttó, forint) | EFOP 1. prioritás terhére történő többletforrás legfeljebb (bruttó, forint) | Projekt megnövelt támogatási összege legfeljebb (bruttó, forint) | Projekt rövid bemutatása |
 
 | 2. | EFOP-1.8.27-23-2023-00001 | A Coviddal kapcsolatos személyi jellegű költségek elszámolása | Országos Kórházi Főigazgatóság | 49 999 999 995 | 15 000 000 000 | 64 999 999 995 | A felhívás keretében az Országos Kórházi Főigazgatóság közreműködésével a Covid–19-járvány elleni védekezésben részt vevő munkatársak bérköltségének elszámolására nyílik lehetőség. |
+
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
