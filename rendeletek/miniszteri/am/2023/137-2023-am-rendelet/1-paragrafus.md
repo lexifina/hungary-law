@@ -1,1 +1,3 @@
-1. § Hatályát veszti a növényfajták állami elismeréséről, valamint a szaporítóanyagok előállításáról és forgalomba hozataláról szóló 2003. évi LII. törvény végrehajtására kiadott egyes miniszteri rendeletek módosításáról szóló 183/2009. (XII. 30.) FVM rendelet.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
