@@ -6,4 +6,4 @@ R) cikk
 
 (3) Az Alaptörvény rendelkezéseit azok céljával, a benne foglalt Nemzeti hitvallással és történeti alkotmányunk vívmányaival összhangban kell értelmezni.
 
-(4) Magyarország alkotmányos önazonosságának és keresztény kultúrájának védelme az állam minden szervének kötelessége.
+(4) Magyarország alkotmányos önazonosságának és keresztény kultúrájának védelme az állam minden szervének kötelessége. Az alkotmányos önazonosság védelme érdekében sarkalatos törvénnyel létrehozott, független szerv működik.
