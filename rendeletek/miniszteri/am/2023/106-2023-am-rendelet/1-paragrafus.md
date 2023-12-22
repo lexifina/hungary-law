@@ -1,1 +1,3 @@
-1. § Hatályát veszti a vadgazdálkodáshoz kapcsolódó tevékenységek csekély összegű (de minimis) támogatásáról szóló 27/2008. (III. 12.) FVM rendelet módosításáról szóló 2/2009. (I. 16.) FVM rendelet.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
