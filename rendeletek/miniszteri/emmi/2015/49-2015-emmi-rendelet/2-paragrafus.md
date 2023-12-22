@@ -26,4 +26,7 @@ j) nedves hűtőtorony: olyan berendezés, amelyben a felmelegedett víz légár
 
 k) vízhőmérséklet mérése: a végkifolyókon végzett hőmérsékletmérés, amelyet kalibrált vízhőmérővel kell végezni meleg víz esetén a víz egyperces, hideg víz esetén annak kétperces kifolyatását követően.
 
+l)[^2] közintézmény: az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló 5/2023. (I. 12.) Korm. rendelet 2. § 32. pontja szerinti fogalom.
+
 [^1]: A 2. § az 1/2023. (I. 12.) BM rendelet 4. §-ával megállapított szöveg.
+[^2]: A 2. § l) pontját a 63/2023. (XII. 21.) BM rendelet 1. §-a iktatta be.

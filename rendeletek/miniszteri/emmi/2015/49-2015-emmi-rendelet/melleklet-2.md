@@ -1,4 +1,4 @@
-2. melléklet a 49/2015. (XI. 6.) EMMI rendelethez[^22]
+2. melléklet a 49/2015. (XI. 6.) EMMI rendelethez[^23]
 
 1. A Legionella parametrikus értékének meghatározása ivó- és használati melegvízre
 
@@ -30,4 +30,4 @@
 
 | **Ha a létesítményhez igazoltan legionellosis megbetegedés vagy járvány köthető, a Legionella-csíraszám értéktől függetlenül az azonnali beavatkozási szintnek megfelelő intézkedéseket kell elvégezni. *** A Nemzeti Népegészségügyi és Gyógyszerészeti Központ által kiadott módszertani útmutató alapján. |
 
-[^22]: A 2. melléklet az 1/2023. (I. 12.) BM rendelet 9. §-ával megállapított, a 28/2023. (VIII. 10.) BM rendelet 74. § c) pontja szerint módosított szöveg.
+[^23]: A 2. melléklet az 1/2023. (I. 12.) BM rendelet 9. §-ával megállapított, a 28/2023. (VIII. 10.) BM rendelet 74. § c) pontja szerint módosított szöveg.
