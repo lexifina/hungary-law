@@ -1,4 +1,4 @@
-6/U. §[^43] (1) A 2. mellékletben foglalt táblázat 89. sora szerinti beruházással érintett ingatlan telkére a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
+6/U. §[^45] (1) A 2. mellékletben foglalt táblázat 89. sora szerinti beruházással érintett ingatlan telkére a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni, továbbá
 
@@ -22,4 +22,4 @@ b) ha a hatályos településrendezési terv vagy az OTÉK a beépítés (2) bek
 
 8. a telekszélesség mértéke nem korlátozott.
 
-[^43]: A 6/U. §-t a 301/2022. (VIII. 9.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^45]: A 6/U. §-t a 301/2022. (VIII. 9.) Korm. rendelet 1. § (3) bekezdése iktatta be.

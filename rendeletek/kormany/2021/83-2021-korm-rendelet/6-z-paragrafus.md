@@ -1,4 +1,4 @@
-6/Z. §[^48] (1) A 2. mellékletben foglalt táblázat 95. sora szerinti beruházással érintett ingatlanokon a beépítés szabályait és az egyedi építési követelményeket a (2)–(4) bekezdés állapítja meg, azzal, hogy
+6/Z. §[^50] (1) A 2. mellékletben foglalt táblázat 95. sora szerinti beruházással érintett ingatlanokon a beépítés szabályait és az egyedi építési követelményeket a (2)–(4) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési tervek, településképi rendelet, egyéb önkormányzati rendelet és az OTÉK előírásait a (2)–(4) bekezdésben foglalt eltérésekkel kell alkalmazni, továbbá
 
@@ -62,4 +62,4 @@ a) személygépkocsi-parkolókat telken belül nem kell létesíteni, azok telke
 
 b) autóbusz-várakozóhelyeket telken belül nem kell biztosítani, azok telken kívül, a telekhatártól 10 méteren belüli közterületi ingatlanon létesített parkolóhelyekkel biztosíthatók.
 
-[^48]: A 6/Z. §-t a 220/2023. (VI. 1.) Korm. rendelet 2. §-a iktatta be.
+[^50]: A 6/Z. §-t a 220/2023. (VI. 1.) Korm. rendelet 2. §-a iktatta be.

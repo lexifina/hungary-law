@@ -198,6 +198,10 @@
 
 | 99. | A Rákóczi Tábor fejlesztésével összefüggő beruházások | Sátoraljaújhely zártkert 10975/1, 10975/2, 10977, 10985/10, 10985/11, 10985/12, 10985/17, 10985/18, 10985/30, 10985/31, 10985/32, 10986 helyrajzi számú ingatlanok | Borsod-Abaúj-Zemplén Vármegyei Kormányhivatalt vezető főispán |
 
-3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^202]
+| 100. | Mosonmagyaróvári Agrár- és Élelmiszeripari Tudományos és Innovációs Park létrehozása | Mosonmagyaróvár közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 0126/1 és 0128/1, 0131/1 és 081/1 helyrajzi számú ingatlanok | Győr-Moson-Sopron Vármegyei Kormányhivatalt vezető főispán |
 
-[^202]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja, az 566/2021. (X. 4.) Korm. rendelet 2. § b) pontja, az 591/2021. (X. 20.) Korm. rendelet 2. § b) pontja, a 622/2021. (XI. 9.) Korm. rendelet 3. § b) pontja, a 779/2021. (XII. 23.) Korm. rendelet 3. § b) pontja, a 145/2022. (IV. 7.) Korm. rendelet 6. § b) pontja, a 301/2022. (VIII. 9.) Korm. rendelet 3. § c) pontja, a 373/2023. (VIII. 7.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+| 101. | Petőfi Sándor Kulturális Központ újjáépítését célzó beruházás | Kiskőrös belterület 2675, 2676, 2677/1, 2684/3, 2684/4, 3092/1, 3092/2, 3093, 3094, 3095, 3105/2 helyrajzi számú ingatlanok | Bács-Kiskun Vármegyei Kormányhivatalt vezető főispán |
+
+3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^206]
+
+[^206]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja, az 566/2021. (X. 4.) Korm. rendelet 2. § b) pontja, az 591/2021. (X. 20.) Korm. rendelet 2. § b) pontja, a 622/2021. (XI. 9.) Korm. rendelet 3. § b) pontja, a 779/2021. (XII. 23.) Korm. rendelet 3. § b) pontja, a 145/2022. (IV. 7.) Korm. rendelet 6. § b) pontja, a 301/2022. (VIII. 9.) Korm. rendelet 3. § c) pontja, a 373/2023. (VIII. 7.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-6/M. §[^35] (1) A 2. mellékletben foglalt táblázat 79. sora szerinti beruházással érintett ingatlanokra a beépítés egyedi szabályait és követelményeit a (2) és (3) bekezdés állapítja meg, azzal, hogy
+6/M. §[^37] (1) A 2. mellékletben foglalt táblázat 79. sora szerinti beruházással érintett ingatlanokra a beépítés egyedi szabályait és követelményeit a (2) és (3) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK előírásait a (2) és (3) bekezdésben foglalt eltérésekkel kell alkalmazni, és
 
@@ -22,4 +22,4 @@ a) összesen 1400 darab személygépkocsi elhelyezését kell biztosítani,
 
 b) az a) pontban foglaltakat – a telek megosztása esetén – a Győr belterület 5761/5 helyrajzi számú ingatlanból a telekalakítási eljárásban hozott döntés véglegessé válást követően kialakuló ingatlanokra együttesen kell teljesíteni.
 
-[^35]: A 6/M. §-t a 143/2022. (IV. 7.) Korm. rendelet 1. §-a iktatta be.
+[^37]: A 6/M. §-t a 143/2022. (IV. 7.) Korm. rendelet 1. §-a iktatta be.
