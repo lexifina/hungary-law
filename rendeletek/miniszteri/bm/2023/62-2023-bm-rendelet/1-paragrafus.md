@@ -1,3 +1,3 @@
-1. § A fertőző betegségek jelentésének rendjéről szóló 1/2014. (I. 16.) EMMI rendelet [a továbbiakban: 1/2014. (I. 16.) EMMI rendelet] 4. §-a helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„4. § A betegellátó a telephelye szerint illetékes népegészségügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatal (a továbbiakban: vármegyei kormányhivatal) részére köteles jelenteni az érintett személy egészségügyi és személyazonosító adatait, ha klinikailag, illetve laboratóriumi vizsgálatok során észleli a 6. mellékletben felsorolt, egészségügyi ellátással összefüggő fertőzések előfordulását. A jelentést a beteg fekvőbeteg-gyógyintézetből távozását vagy az ott bekövetkezett halálát követő 14 munkanapon belül kell megtenni. Ha a beteg az egészségügyi ellátással összefüggő fertőzés tárgyévének december 31. napjáig nem távozott a fekvőbeteg-gyógyintézetből, a betegellátó az egészségügyi ellátással összefüggő fertőzés tárgyévének december 31. napját követő 14 munkanapon belül köteles megtenni a jelentést. Az egyes jelentések adattartalmát a 7. melléklet tartalmazza.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
