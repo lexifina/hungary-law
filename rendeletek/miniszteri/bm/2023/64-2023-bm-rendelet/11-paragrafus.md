@@ -1,1 +1,3 @@
-11. § A 21/2018. (VII. 9.) EMMI rendelet 4. melléklete az 1. melléklet szerint módosul.
+11. §[^12]
+
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

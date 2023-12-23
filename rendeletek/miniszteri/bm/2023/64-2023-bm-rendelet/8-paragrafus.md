@@ -1,3 +1,3 @@
-8. § A 21/2018. (VII. 9.) EMMI rendelet 22. § (7) bekezdése helyébe a következő rendelkezés lép:
+8. §[^9]
 
-„(7) Az NNGYK a bejelentett események elemzéséről készített jelentését a tárgyévet követő év április 30-ig a honlapján közzéteszi.”
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

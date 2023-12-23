@@ -1,3 +1,3 @@
-4. § A 21/2018. (VII. 9.) EMMI rendelet 14. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+4. §[^5]
 
-(Orvosi fizikus szakértői tevékenység végzésére az egészségügyi szakértői tevékenységgel kapcsolatos egyes kérdésekről szóló rendelet szabályai szerint az alábbi feltételeknek megfelelő, szakismerettel rendelkező személy jogosult:)
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

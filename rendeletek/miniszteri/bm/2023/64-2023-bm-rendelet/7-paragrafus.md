@@ -1,3 +1,3 @@
-7. § A 21/2018. (VII. 9.) EMMI rendelet 21. § (4) bekezdése helyébe a következő rendelkezés lép:
+7. §[^8]
 
-„(4) Szoptató nőknél izotópdiagnosztikai vizsgálatok vagy kezelések csak olyan indokolt esetben végezhetők, ahol az eljárás alkalmazásával járó haszon egyértelműen meghaladja a radioaktív izotóp alkalmazásával járó kockázatot. A vizsgálatért felelős szakorvosnak biztosítania kell, hogy az anya megkapja a részletes tájékoztatást arról, hogy a radioizotóp-alkalmazást követően a szoptatást a radioizotóp fajtájától és mennyiségétől függően milyen időszakra kell beszüntetni a gyermek sugárvédelme érdekében.”
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
