@@ -1,6 +1,6 @@
 3. § (1)–(2)
 
-(3) A Büntető Törvénykönyvről szóló 2012. évi C. törvény hatálybalépéséhez kapcsolódó átmeneti rendelkezésekről és egyes törvények módosításáról szóló 2012. évi CCXXIII. törvény 316. §-ának az Országgyűlésről szóló 2012. évi XXXVI. törvény 73. § (2) bekezdését megállapító rendelkezése a „nemzeti szocialista” szövegrész helyett a „nemzetiszocialista” szöveggel lép hatályba.
+(3)
 
 (4) A Büntető Törvénykönyvről szóló 2012. évi C. törvény hatálybalépéséhez kapcsolódó átmeneti rendelkezésekről és egyes törvények módosításáról szóló 2012. évi CCXXIII. törvény
 
