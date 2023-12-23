@@ -6,6 +6,6 @@
 
 (2) Az MNB osztalékelőleget nem fizet.
 
-(3) Amennyiben a tárgyév végére vonatkozóan a saját tőke összege a jegyzett tőke alá csökken, a különbözetet a központi költségvetés 5 éven belül, évente egyenlő részletben – a 6. § (2) bekezdése szerinti tájékoztatás részvényes általi kézhezvételét követő 30 napon belül – közvetlenül az eredménytartalék javára megtéríti. Amennyiben a saját tőke összege meghaladja a jegyzett tőkét, a még fennálló összes térítési kötelezettség megszűnik. Amennyiben az 5 éves időtartamon belül a központi költségvetésnek újabb térítési kötelezettsége keletkezik, annak teljesítésére e bekezdésben meghatározottak alkalmazandók azzal, hogy a központi költségvetés biztosítja, hogy az MNB saját tőkéje huzamosabb ideig ne maradjon a jegyzett tőke szintje alatt.
+(3) Ha a saját tőke hosszabb ideig a jegyzett tőke szintje alatt van, a központi költségvetés terhére közvetlenül az eredménytartalék javára történő térítéssel biztosítani kell, hogy elfogadható időn belül – a pénzügyi függetlenség elvének való megfelelés érdekében – legalább a jegyzett tőke mértékének megfelelő mértékű saját tőke álljon az MNB rendelkezésére.
 
 (4) A részvényes az eredménytartalék javára pénzben tőkejuttatást nyújthat.

@@ -14,7 +14,7 @@ b) az MNB alelnökei.
 
 a) a Monetáris Tanács és a Pénzügyi Stabilitási Tanács által hozott döntések végrehajtásának irányítása,
 
-b) az MNB számviteli beszámolójának megállapítása, a 166. § (1a) bekezdése szerinti osztalék fizetéséről való döntés meghozatala, továbbá az üzletvezetésről és az MNB vagyoni helyzetéről szóló, a részvényesnek küldendő jelentés tervezetének jóváhagyása,
+b) az MNB számviteli beszámolójának megállapítása, a 166. § (1a) bekezdése szerinti osztalék fizetéséről való döntés meghozatala, továbbá az MNB saját tőkéjének az előző év végi, előzetes mértékéről és annak várható alakulásáról szóló, évenkénti előrejelzés tervezetének, valamint az üzletvezetésről és az MNB vagyoni helyzetéről szóló, a részvényesnek küldendő jelentés tervezetének jóváhagyása,
 
 c) az MNB szervezetével és belső irányításával összefüggő kérdések jóváhagyása,
 
@@ -37,3 +37,5 @@ a) a 4. § (2) bekezdésében meghatározott feladatkörben a forgalomban lévő
 b) a 4. § (6) bekezdése szerinti feladatkörben eljárva kibocsátott MNB rendeletben foglaltak megtartásának ellenőrzésével
 
 kapcsolatos hatósági eljárásokban a hatáskörgyakorlási jogot átruházza.
+
+(8) Az igazgatóság a (4) bekezdés b) pontja szerinti előrejelzést annak jóváhagyását követően, legkésőbb április 30-ig megküldi a Költségvetési Tanács és a részvényes részére.

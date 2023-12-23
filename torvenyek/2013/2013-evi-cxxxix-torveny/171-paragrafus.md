@@ -8,7 +8,7 @@
 
 a) a Monetáris Tanács döntésének megfelelően az alapkamat mértékét,
 
-b) a Monetáris Tanács döntésének megfelelően a kötelező tartalékráta mértékét, és a kötelező jegybanki tartalék után fizetendő kamat mértékét,
+b) a Monetáris Tanács döntésének megfelelően a kötelező tartalékráta mértékét, a kötelező jegybanki tartalék után fizetendő kamat mértékét, valamint a kötelező tartalékráta mértékét meghaladóan az MNB-nél elhelyezett pénzösszegre meghatározott kamatot,
 
 c) a kötelező jegybanki tartalék kiszámítását, képzésének és elhelyezésének módját, valamint a teljesítés elmaradása esetén alkalmazandó intézkedéseket,
 
