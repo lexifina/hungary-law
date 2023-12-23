@@ -1,3 +1,1 @@
-6. § A Mötv. 82. § (1) bekezdése a következő szöveggel lép hatályba:
-
-„(1) A polgármester – pályázat alapján határozatlan időre – nevezi ki a jegyzőt. A tízezer főnél kevesebb lakosú települések önkormányzatánál és a tízezer főnél kevesebb együttes lakosságszámú települések közös önkormányzati hivatalánál a polgármester – a jegyzőre vonatkozó szabályok szerint, a jegyző javaslatára – kinevezheti, más önkormányzatnál, közös önkormányzati hivatalnál kinevezi az aljegyzőt. A jegyzői és az aljegyzői kinevezés vezetői munkakörnek minősül, a jegyzőre, aljegyzőre alkalmazni kell a közszolgálati tisztviselőkről szóló törvény vonatkozó rendelkezéseit. Megyei jogú városban több aljegyző is kinevezhető.”
+### 6. §

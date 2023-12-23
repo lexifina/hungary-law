@@ -1,7 +1,1 @@
-5. § A Mötv. 80. §-a a következő szöveggel lép hatályba:
-
-„80. § (1) A főpolgármester-helyettes, a főállású alpolgármester, a megyei közgyűlés alelnöke illetményének összegét a főpolgármester, a polgármester, a megyei közgyűlés elnöke illetménye 70–90%-a közötti összegben a képviselő-testület állapítja meg.
-
-(2) A társadalmi megbízatású alpolgármester tiszteletdíját a képviselő-testület a társadalmi megbízatású polgármester tiszteletdíja 70–90%-a közötti összegben állapítja meg, melynek egészéről vagy meghatározott részéről a képviselő-testülethez intézett írásbeli nyilatkozatával lemondhat.
-
-(3) A főpolgármester-helyettes, a főállású alpolgármester, a társadalmi megbízatású alpolgármester, a megyei közgyűlés alelnöke havonta az illetményének, tiszteletdíjának 15%-ában meghatározott összegű költségtérítésre jogosult.”
+### 5. §
