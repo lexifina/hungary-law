@@ -1,0 +1,3 @@
+16. §[^12]
+
+[^12]: A 16. § a 44. § (3) bekezdés alapján 2024. január 21-én lép hatályba.

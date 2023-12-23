@@ -1,0 +1,3 @@
+26. §[^24]
+
+[^24]: A 26. § a 44. § (3) bekezdés alapján 2024. január 21-én lép hatályba.
