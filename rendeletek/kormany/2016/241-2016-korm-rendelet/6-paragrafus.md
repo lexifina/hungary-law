@@ -1,5 +1,3 @@
-## 6. § Felhatalmazást kap a miniszter, hogy rendeletben szabályozza
+6. §[^3]
 
-a) az ösztöndíjprogram működését, valamint
-
-b) az ösztöndíj odaítélésének feltételeit, az ösztöndíj támogatási időtartamát, összegét, a pályázás és kiválasztás eljárásrendjét.
+[^3]: A 6. §-t a 606/2023. (XII. 22.) Korm. rendelet 13. §-a hatályon kívül helyezte.

@@ -1,3 +1,3 @@
-## 10. §[^5]
+11. §[^8]
 
-[^5]: A 10. §-t a 381/2020. (VII. 31.) Korm. rendelet 2. §-a hatályon kívül helyezte.
+[^8]: A 11. §-t a 381/2020. (VII. 31.) Korm. rendelet 2. §-a hatályon kívül helyezte.
