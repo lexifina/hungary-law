@@ -1,0 +1,11 @@
+## 12. A megfelelőségi jelölés elhelyezésére vonatkozó rendelkezések
+
+34. § (1) A tanúsított hadiipari IKT-terméken, hadiipari IKT-szolgáltatás során vagy hadiipari IKT-folyamatban a tanúsítottság tényének jelzése érdekében a tanúsítási rendszer által előírt formátumban megfelelőségi jelölést kell elhelyezni. A megfelelőségi jelölést jól láthatóan, egyértelműen és maradandóan kell elhelyezni.
+
+(2) Ahol a megfelelőségi jelölés elhelyezése nem értelmezhető, a hadiipari IKT-termék, hadiipari IKT-szolgáltatás vagy hadiipari IKT-folyamat jellege által biztosított lehetőség szerinti formában kell feltüntetni a megfelelőségi jelölést vagy az erre történő utalást.
+
+(3) A megfelelőségi jelölést a forgalomba hozatal előtt akkor kell elhelyezni, amikor a hadiipari IKT-termék, hadiipari IKT-szolgáltatás vagy hadiipari IKT-folyamat elkészült. A megfelelőségi jelölést csak a gyártó vagy meghatalmazott képviselője helyezheti el. A megfelelőségi jelölés elhelyezésével vagy elhelyeztetésével a gyártó jelzi, hogy vállalja a felelősséget a hadiipari IKT-termék, hadiipari IKT-szolgáltatás vagy hadiipari IKT-folyamat e rendeletben, valamint valamennyi olyan alkalmazandó közösségi jogszabályban megállapított követelménynek való megfelelésért, amely a jelölés alkalmazását előírja.
+
+(4) Ha a tanúsító hatóság azt állapítja meg, hogy a megfelelőségi jelölést jogosulatlanul tüntették fel a hadiipari IKT-terméken, hadiipari IKT-szolgáltatás során vagy hadiipari IKT-folyamatban, kötelezi a gyártót vagy meghatalmazott képviselőjét, hogy a terméket, illetve a tájékoztatást módosítsa a megfelelőségi jelölésre vonatkozó előírások szerint, és akadályozza meg a további szabálytalanságot a tanúsító hatóság által előírt feltételeknek megfelelően.
+
+(5) Ha a nem-megfelelőség továbbra is fennáll, a tanúsító hatóság felszólítja a gyártót a meg nem feleléssel érintett termékről, illetve tájékoztatásról a megfelelőségi jelölés eltávolítása iránt. Amennyiben erre nincs lehetőség, vagy, amennyiben a gyártó e kötelezettségének nem tesz eleget, a tanúsító hatóság intézkedhet az adott hadiipari IKT-termék, hadiipari IKT-szolgáltatás vagy hadiipari IKT-folyamat forgalomba hozatalának, nyújtásának korlátozása, megtiltása vagy forgalomból történő kivonása iránt.

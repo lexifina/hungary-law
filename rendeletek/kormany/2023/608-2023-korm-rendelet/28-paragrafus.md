@@ -1,0 +1,5 @@
+28. § (1) A tanúsító hatóság eljárása során a szükséges vizsgálatok elvégzéséhez szakértő vagy az adott területen akkreditált szervezet vagy szakértelemmel rendelkező szervezet (a továbbiakban: szakértő) közreműködését veheti igénybe, vagy elrendelheti azok igénybevételét a megfelelőség igazolásához.
+
+(2) Nem működhet közre a tanúsító hatóság eljárásában olyan szakértő, amely a hadiipari IKT-termék, hadiipari IKT-szolgáltatás vagy hadiipari IKT-folyamat megfelelőségét korábban vizsgálta, vagy a hadiipari IKT-termék, hadiipari IKT-szolgáltatás vagy hadiipari IKT-folyamat fejlesztésében, kialakításában közreműködött.
+
+(3) A tanúsító hatóság szakértő bevonásával vagy a saját laboratóriumában, vagy, amennyiben a vizsgálat alá vont hadiipari IKT-termék, hadiipari IKT-szolgáltatás vagy hadiipari IKT-folyamat tulajdonságai ezt nem teszik lehetővé, a gyártó vagy az üzemeltető telephelyén a hadiipari IKT-terméket, hadiipari IKT-szolgáltatást vagy hadiipari IKT-folyamatot az előírt követelmények teljesítése tekintetében vizsgálat alá vonhatja.

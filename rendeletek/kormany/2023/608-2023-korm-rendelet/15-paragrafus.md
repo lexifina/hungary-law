@@ -1,0 +1,3 @@
+15. § (1) Ha a tanúsító hatóság az engedélyezésre irányuló kérelmet jóváhagyja, a kérelmezőt és közreműködőjét nyilvántartásba veszi. Ha a kérelem vagy a kérelmező nem felel meg a kérelemmel vagy a kérelmezővel, közreműködővel szemben támasztott követelményeknek, a kérelmet elutasítja.
+
+(2) A „magas” megbízhatósági szintű tanúsítványok kiadása jogkörének átruházására irányuló kérelmet a tanúsító hatóság elutasítja, ha annak jóváhagyása honvédelmi vagy nemzetbiztonsági érdeket sért.

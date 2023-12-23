@@ -1,0 +1,1 @@
+13. § Ha a tanúsítási rendszer konkrét vagy kiegészítő követelményt határoz meg, a nemzeti akkreditáló szerv az akkreditációról szóló határozatban szerepelteti, hogy az akkreditációs eljárás ezen követelmények teljesítésének ellenőrzésére is kiterjedt.

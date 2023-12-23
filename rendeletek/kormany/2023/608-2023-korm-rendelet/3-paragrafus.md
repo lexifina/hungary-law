@@ -1,0 +1,1 @@
+3. § A tanúsító hatóság tanúsításfelügyeleti tevékenységet európai vagy nemzeti kiberbiztonsági tanúsítási rendszer hatálya alá tartozó hadiipari IKT-termék, hadiipari IKT-szolgáltatás vagy hadiipari IKT-folyamat vonatkozásában végez. A tanúsító hatóság hatásköre a Magyarországon letelepedett gyártó, illetve megfelelőségértékelő szervezet tevékenységére terjed ki.
