@@ -12,4 +12,6 @@
 
 ## e) csövek: valamennyi varratmentes acélcső, a 406,4 mm-t meghaladó átmérőjű hegesztett acélcsövek.
 
-5. melléklet a 165/2014. (VII. 17.) Korm. rendelethez
+5. melléklet a 165/2014. (VII. 17.) Korm. rendelethez[^73]
+
+[^73]: Az 5. mellékletet a 622/2023. (XII. 22.) Korm. rendelet 6. § b) pontja hatályon kívül helyezte.

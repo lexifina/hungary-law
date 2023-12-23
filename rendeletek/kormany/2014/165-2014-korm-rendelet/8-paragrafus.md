@@ -14,7 +14,7 @@ ad) a kérelem, illetve a bejelentés elbírálásában részt vevő megnevezés
 
 ae) hiánypótlás esetén a hiánypótlási felhívás időpontját,
 
-af) a beruházás elszámolható költségét jelenértéken, a beruházás helyét,
+af)[^58] a beruházás elszámolható költségét jelenértéken és folyóáron, a beruházás helyét,
 
 ag) az adókedvezmény tervezett összegét folyó áron és jelenértéken,
 
@@ -22,10 +22,11 @@ ah) az adópolitikáért felelős miniszterhez beérkezett bejelentés, vagy ké
 
 b) kérelem esetén – az a) pontban meghatározottakon túl – tartalmazza továbbá
 
-ba)[^50]
+ba)[^59]
 
 bb) a határozat számát és meghozatalának időpontját,
 
 bc) a kérelem visszavonásának időpontját.
 
-[^50]: A 8. § b) pont ba) alpontját a 441/2015. (XII. 28.) Korm. rendelet 229. §-a hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^58]: A 8. § a) pont af) alpontja a 622/2023. (XII. 22.) Korm. rendelet 5. § j) pontja szerint módosított szöveg.
+[^59]: A 8. § b) pont ba) alpontját a 441/2015. (XII. 28.) Korm. rendelet 229. §-a hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

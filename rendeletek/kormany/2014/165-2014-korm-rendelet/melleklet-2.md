@@ -46,11 +46,11 @@
 
 ## a) beruházás településenkénti adatai;
 
-## b)[^60] vármegyei szintű összesítő adatok;
+## b)[^70] vármegyei szintű összesítő adatok;
 
 ## c) megelőző háromszor háromszázhatvanöt napos időszak beruházásainak bemutatása.
 
-2. melléklet a 165/2014. (VII. 17.) Korm. rendelethez[^61]
+2. melléklet a 165/2014. (VII. 17.) Korm. rendelethez[^71]
 
-[^60]: Az 1. melléklet C) rész b) pontja a 616/2022. (XII. 29.) Korm. rendelet 185. § b) pontja szerint módosított szöveg.
-[^61]: A 2. mellékletet a 395/2017. (XII. 13.) Korm. rendelet 8. § 4. pontja hatályon kívül helyezte.
+[^70]: Az 1. melléklet C) rész b) pontja a 616/2022. (XII. 29.) Korm. rendelet 185. § b) pontja szerint módosított szöveg.
+[^71]: A 2. mellékletet a 395/2017. (XII. 13.) Korm. rendelet 8. § 4. pontja hatályon kívül helyezte, újonnan a 622/2023. (XII. 22.) Korm. rendelet 4. §-a iktatta be.

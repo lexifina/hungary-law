@@ -10,7 +10,7 @@
 
 ## i - diszkont kamatláb.
 
-8. melléklet a 165/2014. (VII. 17.) Korm. rendelethez[^63]
+8. melléklet a 165/2014. (VII. 17.) Korm. rendelethez[^74]
 
 Az adókedvezmény támogatástartalmának meghatározása
 
@@ -26,4 +26,4 @@ Xn - a kérelem, bejelentés adóévét követő n. adóévben igénybe vehető/
 
 i - a kérelem, bejelentés benyújtásakor érvényes diszkont kamatláb
 
-[^63]: A 8. mellékletet a 395/2017. (XII. 13.) Korm. rendelet 7. § (4) bekezdése iktatta be.
+[^74]: A 8. mellékletet a 395/2017. (XII. 13.) Korm. rendelet 7. § (4) bekezdése iktatta be.
