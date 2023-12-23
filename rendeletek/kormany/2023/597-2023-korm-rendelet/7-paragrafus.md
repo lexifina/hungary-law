@@ -1,5 +1,5 @@
-## 4.[^3]
+## 4.[^4]
 
 7. §
 
-[^3]: A 4. alcím a 19. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^4]: A 4. alcím a 19. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.

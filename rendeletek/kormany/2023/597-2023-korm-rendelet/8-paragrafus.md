@@ -1,5 +1,5 @@
 ## 5. A rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve kijelöléséről, valamint feladatai ellátásának, a kifogástalan életvitel ellenőrzés és a megbízhatósági vizsgálat részletes szabályainak megállapításáról szóló 293/2010. (XII. 22.) Korm. rendelet módosítása
 
-8. § A rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve kijelöléséről, valamint feladatai ellátásának, a kifogástalan életvitel ellenőrzés és a megbízhatósági vizsgálat részletes szabályainak megállapításáról szóló 293/2010. (XII. 22.) Korm. rendelet 6/A. §-a helyébe a következő rendelkezés lép:
+8. §[^5]
 
-„6/A. § Az NVSZ a rendőrségről szóló törvényben meghatározottak szerint titkos információgyűjtést végez a 6. § (1) bekezdésében meghatározott bűncselekmények megelőzése érdekében.”
+[^5]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
