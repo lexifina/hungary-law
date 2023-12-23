@@ -2,7 +2,13 @@
 
 23. § (1) A Tanács
 
-a) az Alaptörvény 44. cikk (2) bekezdésében foglaltakkal összhangban véleményt nyilvánít a központi költségvetésről szóló törvény tervezetéről, ennek keretében külön is vizsgálja a költségvetési hiány mértékét, valamint a 3/A. § (2) bekezdésének való megfelelést,
+a) az Alaptörvény 44. cikk (2) bekezdésében foglaltakkal összhangban véleményt nyilvánít a központi költségvetésről szóló törvény tervezetéről, ennek keretében külön is vizsgálja
+
+aa) a költségvetési hiány mértékét,
+
+ab) a 3/A. § (2) bekezdésének való megfelelést, továbbá
+
+ac) a Magyar Nemzeti Bank tőkehelyzete tekintetében a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 166. § (3) bekezdésében meghatározottnak való megfelelést,
 
 b) dönt az Alaptörvény 44. cikk (3) bekezdése szerinti előzetes hozzájárulásról,
 
