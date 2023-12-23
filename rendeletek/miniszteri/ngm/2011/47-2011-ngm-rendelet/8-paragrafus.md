@@ -1,3 +1,3 @@
-## 7. §[^4]
+8. §[^6]
 
-[^4]: A 7. §-t az 57/2013. (XII. 5.) NGM rendelet 10. § b) pontja hatályon kívül helyezte.
+[^6]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
