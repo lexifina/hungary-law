@@ -1,0 +1,3 @@
+1. § Az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet (a továbbiakban: R.) a következő 3/B. §-sal egészül ki:
+
+„3/B. § A 2. mellékletbenfoglalt táblázat 52. sorában szereplő beruházással érintett ingatlanra vonatkozóan megállapított jókarbantartási kötelezettség teljesítésének határideje a beruházás megvalósításához szükséges végleges örökségvédelmi engedély hatályának lejárta.”
