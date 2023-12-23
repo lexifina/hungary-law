@@ -8,7 +8,7 @@
 
 a) minden magyarországi telephelyű gépjármű üzemben tartójára, továbbá más tagállami telephelyű gépjármű – ha annak rendeltetés helye szerinti tagállama Magyarország – tulajdonosára, és az általuk kötött kötelező gépjármű-felelősségbiztosítási szerződésre;
 
-b) a külföldi telephelyű gépjármű Magyarország területére történő belépésének, valamint Magyarország területén a fogalomban történő részvételének feltételeire;
+b) a külföldi telephelyű gépjármű Magyarország területére történő belépésének, valamint Magyarország területén történő használatának feltételeire;
 
 c) a biztosítók, a kárrendezési megbízott, kárképviselő, a levelező, a Kártalanítási Számla, a Kártalanítási Alap, a Nemzeti Iroda, a Kártalanítási Szervezet, az Információs Központ, valamint a Magyar Biztosítók Szövetségének (a továbbiakban: MABISZ) e törvényben szabályozott tevékenységére;
 

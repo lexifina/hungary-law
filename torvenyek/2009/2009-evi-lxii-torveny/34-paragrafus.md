@@ -16,6 +16,8 @@ f) a vezetőtől, ha a kárt segítségnyújtás elmulasztásával, illetve fogl
 
 g) az üzemben tartótól, illetve a vezetőtől, ha a szerződés megkötésekor, a biztosítási esemény bekövetkezésekor, vagy egyébként terhelő közlési, változásbejelentési, kárbejelentési kötelezettségét nem teljesítette, oly mértékben, ahogyan ez a fizetési kötelezettséget befolyásolta.
 
+(1a) A Nemzeti Iroda, valamint a Kártalanítási Számla kezelője az általa kifizetett kártérítési összeg megtérítését követelheti az üzemben tartótól, illetve a vezetőtől, ha a kárt a 4. § (8) bekezdésében meghatározott gépjárművel okozták.
+
 (2) Ha a biztosított az (1) bekezdés c) pontjában, valamint a vezető az f) pontban felsorolt esetekben köteles a megtérítésre, a teljesített szolgáltatások keretei között egy biztosítási eseménnyel kapcsolatban a biztosító, a Nemzeti Iroda, valamint a Kártalanítási Számla kezelője legfeljebb 5 millió Ft-ig érvényesítheti követelését.
 
 (3) Ha a biztosított az (1) bekezdés d) pontjában, valamint az üzemben tartó az (1) bekezdés e) pontjában meghatározott esetben köteles a megtérítésre, a teljesített szolgáltatások keretei között egy biztosítási eseménnyel kapcsolatban a biztosító, a Nemzeti Iroda, valamint a Kártalanítási Számla kezelője legfeljebb 1,5 millió Ft-ig érvényesítheti követelését.

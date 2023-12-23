@@ -10,16 +10,16 @@ d) sugárzó, toxikus anyagok és termékek hatására, vagy az egészségügyi 
 
 e) a gépjármű balesete nélkül az út burkolatában keletkezett;
 
-f) a gépjármű – forgalomban való részvétele nélkül – munkagépként való használata során keletkezett;
+f) a gépjármű szállítási, illetve közlekedési eszközkénti rendeltetésétől eltérő módon, munkagépként való használata során keletkezett;
 
-g) álló gépjárműre fel-, illetve arról való lerakodás következtében keletkezett;
+g)
 
-h) üzemi balesetnek minősül, és a gépjármű javítási vagy karbantartási munkái során keletkezett;
+h) munkabalesetnek minősül, és a gépjármű javítási vagy karbantartási munkái során keletkezett;
 
-i) gépjárműverseny vagy az ahhoz szükséges edzés során következett be;
+i) gépjárműsport-rendezvény során következett be;
 
 j) környezetszennyezéssel a gépjármű balesete nélkül keletkezett;
 
-k) a gépjármű üzemeltetésével egyéb vagyontárgyban folyamatos állagrongálással okozott, illetőleg állagromlásból adódott;
+k) a gépjármű használatával egyéb vagyontárgyban folyamatos állagrongálással okozott, illetőleg állagromlásból adódott;
 
 l) háború, háborús cselekmény, terrorcselekmény következményeként keletkezett.

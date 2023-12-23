@@ -1,12 +1,12 @@
 ## Nemzeti Iroda
 
-43. § (1) Ha Magyarország területén külföldi telephelyű gépjármű üzemeltetésével okoztak kárt, a kártérítési igényt – a 13. § (1) bekezdésében meghatározott értékhatárt figyelembe véve – a Nemzeti Irodával szemben is lehet érvényesíteni. Ha a károkozó gépjármű-felelősségbiztosítója – a Nemzeti Iroda hozzájárulásával – a biztosítottjai által Magyarország területén okozott károk rendezésére levelezővel megállapodást kötött, a károk rendezését és a Nemzeti Iroda perbeli képviselete ellátását – a Nemzeti Iroda ellentétes rendelkezése hiányában – e levelező, illetve képviselője végzi.
+43. § (1) Ha Magyarország területén külföldi telephelyű gépjármű használatával okoztak kárt, a kártérítési igényt – a 13. § (1) bekezdésében meghatározott értékhatárt figyelembe véve – a Nemzeti Irodával szemben is lehet érvényesíteni. Ha a károkozó gépjármű-felelősségbiztosítója – a Nemzeti Iroda hozzájárulásával – a biztosítottjai által Magyarország területén okozott károk rendezésére levelezővel megállapodást kötött, a károk rendezését és a Nemzeti Iroda perbeli képviselete ellátását – a Nemzeti Iroda ellentétes rendelkezése hiányában – e levelező, illetve képviselője végzi.
 
 (2) A Nemzeti Iroda ellátja a Kártalanítási Szervezet és az Információs Központ e jogszabályban meghatározott feladatait.
 
 (2a) A Nemzeti Iroda a határbiztosítással kapcsolatos feladatok ellátásáról gondoskodik, ezen feladatok elvégzésére biztosítóval megbízási szerződést köthet.
 
-(3) Ha Magyarország területén külföldi telephelyű gépjármű üzemeltetésével okoztak kárt és a külföldi károsult szokásos tartózkodási helye nem valamely tagállam területén van, a külföldi károsult a Nemzeti Irodával szemben az (1) bekezdés alapján kártérítési igényt kizárólag abban az esetben érvényesíthet, ha országában a baleset időpontjában a magyar károsultat hasonló jog illette meg.
+(3) Ha Magyarország területén külföldi telephelyű gépjármű használatával okoztak kárt és a külföldi károsult szokásos tartózkodási helye nem valamely tagállam területén van, a külföldi károsult a Nemzeti Irodával szemben az (1) bekezdés alapján kártérítési igényt kizárólag abban az esetben érvényesíthet, ha országában a baleset időpontjában a magyar károsultat hasonló jog illette meg.
 
 (3a) A Nemzeti Iroda megtérítése folytán a károsultat a károkozóval és biztosítójával szemben megillető követelés a Nemzeti Irodára száll át.
 

@@ -2,7 +2,7 @@
 
 (2)
 
-(3) A Kártalanítási Alap térítési kötelezettsége az e törvény hatálybalépését követően felszámolás alá kerülő biztosító esetében áll fenn.
+(3) A Kártalanítási Alap térítési kötelezettsége – a más tagállamban székhellyel rendelkező biztosítók tekintetében fennálló térítési kötelezettsége vonatkozásában – a 2023. december 23-án vagy azt követően csőd- vagy felszámolási eljárás alá kerülő más tagállamban székhellyel rendelkező biztosító esetében áll fenn.
 
 (4) E törvény hatálybalépését megelőzően kezdődött és e törvény hatálybalépését követően lezáruló fedezetlenségi díj (elmaradt díj) számítására a fedezetlenség kezdő napján hatályban lévő rendelkezéseket kell megfelelően alkalmazni.
 

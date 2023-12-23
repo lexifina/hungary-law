@@ -1,0 +1,1 @@
+36/A. § A forgalomból kivont gépjárművel vagy a 4. § (8) bekezdésében meghatározott gépjárművel Magyarország területén okozott károk megtérítése esetében a Kártalanítási Számla kezelője megtérítéssel élhet a balesetet okozó gépjármű telephelye szerinti tagállam garanciaalapjával szemben.

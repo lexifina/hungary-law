@@ -8,9 +8,9 @@
 
 ## A biztosítási kötelezettség
 
-4. § (1) Minden magyarországi telephelyű gépjármű üzemben tartója köteles – a külön jogszabály alapján mentesített gépjárművek kivételével – az e törvény szerinti biztosítóval a gépjármű üzemeltetése során okozott károk fedezetére, az e törvényben meghatározott feltételek szerinti biztosítási szerződést kötni, és azt díjfizetéssel hatályban tartani (biztosítási kötelezettség).
+4. § (1) Minden magyarországi telephelyű gépjármű üzemben tartója köteles – a külön jogszabály alapján mentesített gépjárművek kivételével – az e törvény szerinti biztosítóval a gépjárműhasználat során okozott károk fedezetére az e törvényben meghatározott feltételek szerinti biztosítási szerződést kötni, és azt díjfizetéssel hatályban tartani (biztosítási kötelezettség).
 
-(2) A biztosítási kötelezettség, ha jogszabály másként nem rendelkezik, a mindenkori üzemben tartót a gépjármű hatósági engedéllyel és jelzéssel való ellátásának időpontjától – a szünetelés kivételével – a gépjármű forgalomból történő kivonásáig, illetve a külön jogszabályban meghatározott forgalomba helyezésre nem kötelezett gépjármű esetében a forgalomban történő részvétel kezdetétől a részvétel végleges megszüntetéséig terheli.
+(2) A biztosítási kötelezettség – ha jogszabály másként nem rendelkezik – a mindenkori üzemben tartót a gépjárműhasználat kezdetétől a gépjárműhasználat végleges megszűnéséig terheli.
 
 (3) A szerződés megkötésére vonatkozó kötelezettség tekintetében üzemben tartónak minősül a gépjármű tulajdonosa által – szerződés vagy más hitelt érdemlően igazolt jogcím alapján – üzemben tartóként megnevezett személy.
 
@@ -22,4 +22,8 @@
 
 (6) Az üzemben tartó halála esetén, ha a biztosítási kötelezettség címzettje nem állapítható meg, a szerződés legkésőbb a hagyatéki eljárást lezáró határozat jogerőre emelkedésétől számított 30 napig tartható hatályban, amennyiben a gépjármű birtokosa a halál tényét a biztosítónak bejelentette, és a szerződést díjfizetéssel hatályban tartja.
 
-(7) Más tagállami telephelyű gépjármű tulajdonosa – ha a gépjármű rendeltetés helye szerinti tagállama Magyarország – köteles a tulajdonszerzést követően a rendelkezésre bocsátástól számított harmincnapos időtartamra az e törvény szerinti biztosítással rendelkezni.
+(7) Más tagállami telephelyű gépjármű tulajdonszerzését követően a gépjármű tulajdonosa – ha a gépjármű rendeltetési helye szerinti tagállama Magyarország – a tulajdonszerzését követően a gépjármű rendelkezésére bocsátásától számított 30 napos időtartamra köteles – választásától függően – vagy az e törvény szerinti biztosítóval vagy a gépjármű telephelye szerinti tagállam biztosítójával biztosítási szerződést kötni.
+
+(8) Az e törvény szerinti biztosítási kötelezettség nem terjed ki azon gépjárművekre, amelyek közutakon való használata nem megengedett vagy amelyeket kizárólag olyan területeken használnak, ahová a belépés a vonatkozó rendelkezések alapján korlátozott.
+
+(9) Az e törvény szerinti biztosítási kötelezettség, valamint a Kártalanítási Számla kártérítési kötelezettsége nem terjed ki a nyilvánosság elől elzárt olyan területen okozott kárra, ahová a belépés a vonatkozó rendelkezések alapján jogilag vagy fizikailag korlátozott, amennyiben ezen kárt olyan gépjármű okozta, amelynek közutakon való használata nem megengedett.

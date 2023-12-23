@@ -24,7 +24,7 @@ d) a biztosító nevét, a biztosítást igazoló okirat számát;
 
 e) a biztosítási időszak kezdő és záró időpontját, továbbá a kockázatviselés kezdetének időpontját, megszűnésének dátumát és a megszűnés okát;
 
-f) a káresemény dátumát;
+f) a káresemény és a kárbejelentés dátumát;
 
 g) a kártérítés kötelezettjét, a kötelezettség ismertté válásának dátumát (az első kárkifizetés, vagy a biztosítóval szemben hozott jogerős ítélet dátuma);
 

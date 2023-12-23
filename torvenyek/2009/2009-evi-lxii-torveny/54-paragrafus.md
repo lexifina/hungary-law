@@ -22,6 +22,8 @@ c) a baleset helyszíne szerinti tagállam információs központjától
 
 késedelem nélkül megkapja.
 
+(3a) Az Információs Központ a (3) bekezdésben foglaltakon kívül együttműködik továbbá a más tagállamokban működő információs központokkal annak érdekében, hogy a 4. § (7) bekezdés szerinti gépjárműre vonatkozó szükséges információk rendelkezésre álljanak.
+
 (4) A biztosítóra és a szerződésre vonatkozó adatokat a káresemény időpontjára vonatkozóan, míg a kárrendezési megbízottra vonatkozóan a megkeresésre adandó válasz időpontjában aktuális adatokat kell közölni. Ha a kért adatokat az információs központok közötti megállapodásban kikötött időpontig az Információs Központ bármely okból nem tudja megadni, ezt a körülményt az ok megjelölésével legkésőbb a határidő lejártakor köteles közölni a megkeresővel.
 
 (5) Ha a káreseményben részes gépjármű a káresemény időpontjában érvényes biztosítási fedezettel nem rendelkezett, az Információs Központ ezt a körülményt és a Kártalanítási Számla kezelőjének adatait a megkeresővel közli.
