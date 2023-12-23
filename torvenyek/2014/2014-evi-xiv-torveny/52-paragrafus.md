@@ -1,9 +1,1 @@
-52. § Az Ogytv. 107. §-a a következő szöveggel lép hatályba:
-
-„107. § (1) A képviselő esedékes tiszteletdíjának összege arányosan csökken, ha igazolatlanul nem vesz részt az Országgyűlés adott hónapban tartott ülésének, – több ülés esetén – üléseinek napirendi javaslatában feltüntetett szavazásainak több mint egynegyedén.
-
-(2) Ha az Országgyűlés a napirendi javaslatban előre feltüntetett szavazások – napirendi javaslatban jelzett – időpontjában nem határozatképes és a határozatképességet az ülést vezető elnöknek nem sikerül helyreállítania, akkor a bejelentés nélkül távol lévő képviselő esedékes tiszteletdíját a Házbizottság csökkentheti. A tiszteletdíj csökkentésének mértéke nem haladhatja meg a képviselő esedékes tiszteletdíjának harmadát. A tiszteletdíj csökkentésére az 51/A. § rendelkezéseit kell alkalmazni.
-
-(3) Ha az országgyűlési bizottság – legalább 24 órával korábban összehívott ülése – nem határozatképes és a határozatképességet a bizottság elnökének nem sikerül helyreállítania, akkor a távol lévő képviselő esedékes tiszteletdíját a Házbizottság csökkentheti, kivéve, ha a képviselő a bizottsági ülésről való távolmaradását az országgyűlési bizottság elnökének a bizottsági ülés kezdetéig bejelentette. A tiszteletdíj csökkentésének mértéke nem haladhatja meg a képviselő esedékes tiszteletdíjának harmadát. A tiszteletdíj csökkentésére az 51/A. § rendelkezéseit kell alkalmazni.
-
-(4) A képviselő – ülésszakot követően esedékes első havi – tiszteletdíjának összege ará-nyosan csökken, ha a bizottsági tag ülésszakonként – ide nem értve a rendkívüli ülésszakot – a bizottsági ülések több mint a felén, de legalább három ülésen igazolatlanul nem vesz részt. A bizottsági ülésen részt nem vevőnek kell tekinteni azt a képviselőt, aki bizottsági ülés – teljes vagy részbeni tartamára – eseti képviseleti megbízást adott.”
+### 52. §

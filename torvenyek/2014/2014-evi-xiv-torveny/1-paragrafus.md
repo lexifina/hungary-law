@@ -1,3 +1,3 @@
 ## 1. Az Országgyűlésről szóló 2012. évi XXXVI. törvény módosítása
 
-1–7. §
+### 1. §
