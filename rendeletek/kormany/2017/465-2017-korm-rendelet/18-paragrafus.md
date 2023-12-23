@@ -18,6 +18,9 @@ b) nem ért egyet, a (2) bekezdésben foglaltak szerint kell eljárni.
 
 (7) Az adó megállapításához való jog elévülési idején belül az adózó is kezdeményezheti az adóbevallás kijavítását, ha a bevallás – adó, adóalap, költségvetési támogatás összegét nem érintő – hibáját észleli.
 
-(8) Ha az adózó bevallásában nyilatkozik arról, hogy nem választja adóalapként a személyi jövedelemadóról szóló törvény szerinti jövedelem-(nyereség-)minimumot, köteles az adóbevallásához mellékelni az állami adó- és vámhatóság által rendszeresített bevallást kiegészítő nyomtatványt. A nyomtatvány a jogkövetkezmények szempontjából bevallásnak minősül.
+(8)[^21]
 
-(9) Ha az adózó a bevallás önellenőrzése következtében jogosulttá válik arra, hogy a jövedelem-(nyereség-)minimumra vonatkozó szabályozás alapján nyilatkozatot tegyen, és ezt választja, az önellenőrzési lap mellékleteként köteles a bevallás kiegészítő nyilatkozat megtételére szolgáló nyomtatványt kitölteni és benyújtani.
+(9)[^22]
+
+[^21]: A 18. § (8) bekezdését a 611/2023. (XII. 22.) Korm. rendelet 37. § 1. pontja hatályon kívül helyezte.
+[^22]: A 18. § (9) bekezdését a 611/2023. (XII. 22.) Korm. rendelet 37. § 1. pontja hatályon kívül helyezte.

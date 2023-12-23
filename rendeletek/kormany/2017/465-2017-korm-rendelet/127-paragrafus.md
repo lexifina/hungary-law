@@ -1,1 +1,3 @@
-127. § Az adóév utolsó napján az erre a célra létesített nyilvántartásban családi gazdálkodóként bejegyzett természetes személy és a családi gazdaságban nem foglalkoztatottként közreműködő családtagja őstermelői tevékenysége tekintetében adókötelezettségeit – jogszabály eltérő rendelkezése hiányában – a mezőgazdasági őstermelőre irányadó szabályok szerint teljesíti. A családi gazdálkodó és említett családtagja a családi gazdaság nyilvántartási számát az adózásával összefüggő valamennyi iratán, valamint a törvény alapján adókedvezményt, adómentességet biztosító nyilatkozatán köteles feltüntetni.
+127. §[^99]
+
+[^99]: A 127. §-t a 611/2023. (XII. 22.) Korm. rendelet 37. § 4. pontja hatályon kívül helyezte.

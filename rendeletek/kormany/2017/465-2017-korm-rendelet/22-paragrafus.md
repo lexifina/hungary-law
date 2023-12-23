@@ -1,6 +1,6 @@
-## 8. [^23] Az adószámla kivonat
+## 8. [^25] Az adószámla kivonat
 
-22. §[^24] (1) Ha az adószámla tartozást vagy túlfizetést mutat,
+22. §[^26] (1) Ha az adószámla tartozást vagy túlfizetést mutat,
 
 a) az állami adó- és vámhatóság ötezer forintot meghaladó összegű tartozás vagy túlfizetés esetén október 31-ig,
 
@@ -12,5 +12,5 @@ az adózó adószámlájának adónemenkénti egyenlegéről, valamint annak ré
 
 (3) Az önkormányzati adóhatóság az adózó adószámlájának egyenlegéről, a tartozásai után felszámított késedelmi pótlékról elektronikusan a hivatalos elérhetőségén értesíti azt az adózót, aki (amely) bevallás benyújtására, adatszolgáltatás teljesítésére elektronikus úton kötelezett, vagy választása szerint elektronikusan nyújtotta be a bevallását.
 
-[^23]: A 8. alcím címe a 311/2018. (XII. 27.) Korm. rendelet 36. § 3. pontjával megállapított szöveg.
-[^24]: A 22. § a 260/2019. (XI. 7.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^25]: A 8. alcím címe a 311/2018. (XII. 27.) Korm. rendelet 36. § 3. pontjával megállapított szöveg.
+[^26]: A 22. § a 260/2019. (XI. 7.) Korm. rendelet 5. §-ával megállapított szöveg.

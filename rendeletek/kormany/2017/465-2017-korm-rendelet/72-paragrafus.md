@@ -1,4 +1,6 @@
-72. §[^62] A telefonos ügyféltájékoztató és ügyintéző rendszere útján, az adózó vagy képviselője telefonon előterjesztett kérelme alapján az állami adó- és vámhatóság
+72. §[^69] A telefonos ügyféltájékoztató és ügyintéző rendszere útján az állami adó- és vámhatóság
+
+a) az ügyfél egyedi ügyintézés vagy tájékoztatás iránti telefonon előterjesztett kérelme alapján
 
 1. az adózó – állami adó- és vámhatóságnál közvetlenül bejelentendő törzsadataira vonatkozó – egyedi bejelentéseivel, változás bejelentéseivel kapcsolatban jár el,
 
@@ -30,8 +32,12 @@
 
 15. tájékoztatást nyújt a közösségi adószám érvényességéről,
 
-16. egyedi tájékoztatást ad az adózó állami adó- és vámhatósághoz bejelentett törzsadatairól, az adózó adószámlájáról, az állami adó- és vámhatóság által nyilvántartott egyéb köztartozásokról, a képviseletre vonatkozóan nyilvántartott adatokról, az adózó bevallásainak adatairól, az adózó által elmulasztott bevallásokról, az adózói minősítésről, valamint az adó-, jövedelem- és illetőségigazolás ügyintézéssel kapcsolatosan, továbbá
+16. egyedi tájékoztatást ad az adózó állami adó- és vámhatósághoz bejelentett törzsadatairól, az adózó adószámlájáról, az állami adó- és vámhatóság által nyilvántartott egyéb köztartozásokról, a képviseletre vonatkozóan nyilvántartott adatokról, az adózó bevallásainak adatairól, az adózó által elmulasztott bevallásokról, az adózói minősítésről, valamint az adó-, jövedelem- és illetőségigazolás ügyintézéssel kapcsolatosan,
 
-17. fogadja az adózói minősítéssel kapcsolatos kifogást, és intézkedik annak elbírálása iránt.
+17. fogadja az adózói minősítéssel kapcsolatos kifogást, és intézkedik annak elbírálása iránt, továbbá
 
-[^62]: A 72. § a 260/2019. (XI. 7.) Korm. rendelet 11. §-ával megállapított szöveg.
+18. a honlapján közzétett, „a NAV telefonos Ügyféltájékoztató és Ügyintéző Rendszerén keresztül intézhető ügyekről” megnevezésű felhívásban felsorolt minden egyéb ügyben eljár,
+
+b) a jogszabály által hatáskörébe utalt körben általános adójogi tájékoztatást és informatikai segítséget nyújt.
+
+[^69]: A 72. § a 260/2019. (XI. 7.) Korm. rendelet 11. §-ával megállapított szöveg.

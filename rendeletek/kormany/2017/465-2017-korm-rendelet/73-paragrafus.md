@@ -4,6 +4,6 @@
 
 ## 28. Az ellenőrzés megindítása
 
-73. §[^63] A helyszíni ellenőrzést az adóhatóság csak akkor kezdheti meg, ha az adózó vagy annak képviselője, ezek hiányában két hatósági tanú jelen van.
+73. §[^70] A helyszíni ellenőrzést az adóhatóság csak akkor kezdheti meg, ha az adózó vagy annak képviselője, ezek hiányában két hatósági tanú jelen van.
 
-[^63]: A 73. § a 260/2019. (XI. 7.) Korm. rendelet 15. § 3. pontja szerint módosított szöveg.
+[^70]: A 73. § a 260/2019. (XI. 7.) Korm. rendelet 15. § 3. pontja szerint módosított szöveg.
