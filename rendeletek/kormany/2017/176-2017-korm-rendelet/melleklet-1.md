@@ -1,5 +1,3 @@
-## 8. § Ez a rendelet az Európai Unió működéséről szóló szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU bizottsági rendelet I. és II. fejezete és 38. cikke hatálya alá tartozó támogatást tartalmaz.
-
 1. melléklet a 176/2017. (VII. 4.) Korm. rendelethez
 
 IGAZOLÁS
