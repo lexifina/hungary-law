@@ -1,3 +1,3 @@
 ## 5. Az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény módosítása
 
-5–8. §
+### 5. §

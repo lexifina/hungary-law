@@ -1,3 +1,3 @@
 ## 38. A fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvény módosítása
 
-122–126. §
+### 122. §

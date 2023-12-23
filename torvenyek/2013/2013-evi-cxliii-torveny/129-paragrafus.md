@@ -1,3 +1,3 @@
 ## 40. A pénzügyi közvetítőrendszer stabilitásának erősítéséről szóló 2008. évi CIV. törvény módosítása
 
-129–133. §
+### 129. §

@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-143-00-00
 | 2013-10-02 | 2010. évi CXXX. törvény | 2013-143-00-00.2 |
 | 2014-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-143-00-00.3 |
 | 2014-01-02 | 2010. évi CXXX. törvény | 2013-143-00-00.4 |
+| 2023-12-23 | 2023. évi CIX. törvény | 2013-143-00-00.5 |

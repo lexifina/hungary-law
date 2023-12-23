@@ -1,3 +1,3 @@
 ## 47. A központi hitelinformációs rendszerről szóló 2011. évi CXXII. törvény módosítása
 
-149–151. §
+### 149. §
