@@ -1,5 +1,3 @@
-## Az igazolóeszköz kötelező tartalmi elemei
-
 ## – a biztosítás megnevezése: kötelező gépjármű-felelősségbiztosítás;
 
 ## – a szerződő üzemben tartó

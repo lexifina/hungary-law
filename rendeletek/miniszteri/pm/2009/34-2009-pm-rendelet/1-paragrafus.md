@@ -6,13 +6,15 @@ b) az 1. számú mellékletben meghatározott adatokat tartalmazó biztosítást
 
 c) a 2. számú mellékletben meghatározott igazolás, vagy
 
-d) a Gfbt.-ben meghatározott zöldkártya.
+d)[^1] a Gfbt.-ben meghatározott zöldkártya, ide nem értve annak elektronikus úton előállított tanúsítvány formáját.
 
-(2)[^1] A biztosító a kockázatviselést tanúsító, az (1) bekezdésben meghatározott valamely igazolóeszközt gépjárművenként egyedileg előállítja, és a kockázatviselés teljes időtartamára – késedelmes díjfizetés esetén a késedelemre való tekintettel –, akár a biztosításközvetítői tevékenysége keretében eljáró függő vagy független biztosításközvetítő közreműködésével az üzemben tartó rendelkezésére bocsátja. A rendelkezésre bocsátás történhet papír alapon vagy – erre vonatkozó megállapodás alapján – az igazolóeszköz elektronikus képi formájának elektronikus úton történő rendelkezésre bocsátásával.
+(2)[^2] A biztosító a kötvénynyilvántartásban nem szereplő járművek üzembentartói esetében a kockázatviselést tanúsító, az (1) bekezdésben meghatározott valamely igazolóeszközt gépjárművenként egyedileg előállítja, és a kockázatviselés teljes időtartamára – késedelmes díjfizetés esetén a késedelemre való tekintettel –, akár a biztosításközvetítői tevékenysége keretében eljáró függő vagy független biztosításközvetítő közreműködésével az üzemben tartó rendelkezésére bocsátja. A rendelkezésre bocsátás történhet papír alapon vagy – erre vonatkozó megállapodás alapján – az igazolóeszköz elektronikus képi formájának elektronikus úton történő rendelkezésre bocsátásával.
 
-(2a)[^2] A zöldkártya mint igazolóeszköz elektronikus képi formájának az üzemben tartó részére elektronikus úton történő rendelkezésre bocsátása a zöldkártyarendszer keretében meghatározott formában történhet. Elektronikus úton történő rendelkezésre bocsátás esetén a rendelkezésre bocsátó felhívja a figyelmet a zöldkártya kinyomtatására vonatkozó követelményekre. Az üzemben tartó kérése alapján a biztosító a zöldkártyát az elektronikus út mellett papír alapon is díjmentesen rendelkezésére bocsátja.
+(2a)[^3] A kötvénynyilvántartásban szereplő járművek üzemben tartói részére a biztosító a szerződés létrejöttekor köteles az 1. számú melléklet szerinti igazolást gépjárművenként egyedileg előállítani, és a kockázatviselés teljes időtartamára – késedelmes díjfizetés esetén a késedelemre való tekintettel – akár a biztosításközvetítői tevékenysége keretében eljáró függő vagy független biztosításközvetítő közreműködésével az üzembentartó rendelkezésére bocsátani, ezt követően a kötvénynyilvántartásban szereplő járművek üzembentartói részére csak akkor kell az (1) bekezdésben felsorolt igazolások valamelyikét gépjárművenként egyedileg előállítani és rendelkezésre bocsátani, ha ezt az érintett üzembentartó kifejezetten kéri. A rendelkezésre bocsátás történhet papír alapon vagy – erre vonatkozó megállapodás alapján – az igazolóeszköz elektronikus képi formájának elektronikus úton történő rendelkezésre bocsátásával.
 
-(3) Késedelmes díjfizetés esetén, ha az üzemben tartó a díjfizetést megfelelő módon igazolja, a biztosító a (2) bekezdésben meghatározott kötelezettségének – az igazolást követően – haladéktalanul köteles eleget tenni.
+(2b)[^4] A zöldkártya mint igazolóeszköz elektronikus képi formájának az üzembentartó részére elektronikus úton történő rendelkezésre bocsátása a zöldkártyarendszer keretében meghatározott formában történhet. Elektronikus úton történő rendelkezésre bocsátás esetén a rendelkezésre bocsátó felhívja a figyelmet a zöldkártya kinyomtatására vonatkozó követelményekre. Az üzembentartó kérése alapján a biztosító a zöldkártyát az elektronikus út mellett papír alapon is díjmentesen rendelkezésére bocsátja.
+
+(3)[^5] Késedelmes díjfizetés esetén, ha az üzemben tartó a díjfizetést megfelelő módon igazolja, a biztosító a (2) és (2a) bekezdésben meghatározott kötelezettségének – az igazolást követően – haladéktalanul köteles eleget tenni.
 
 (4) Az (1) bekezdés b) pontjában szereplő feladóvevény vagy díjfizetési bizonylat abban az esetben fogadható el – a biztosítást igazoló okirattal együtt – igazolóeszközként, ha az azokon feltüntetett adatokból egyértelműen megállapítható a díjfizetéssel rendezett díjfizetési időszak.
 
@@ -20,5 +22,8 @@ d) a Gfbt.-ben meghatározott zöldkártya.
 
 (6) Határozott tartamú szerződés esetén az (1) bekezdés a) pontja szerinti biztosítást igazoló okirat a kockázatviselést a tartam során, annak záró napjáig tanúsítja.
 
-[^1]: Az 1. § (2) bekezdése a 4/2019. (IV. 5.) PM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § (2a) bekezdését a 4/2019. (IV. 5.) PM rendelet 1. § (2) bekezdése iktatta be, szövege a 6/2020. (VII. 23.) PM rendelet 1. §-ával megállapított szöveg.
+[^1]: Az 1. § (1) bekezdés d) pontja a 36/2023. (XII. 23.) GFM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (2) bekezdése a 4/2019. (IV. 5.) PM rendelet 1. § (1) bekezdésével megállapított, a 36/2023. (XII. 23.) GFM rendelet 2. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § (2a) bekezdését a 4/2019. (IV. 5.) PM rendelet 1. § (2) bekezdése iktatta be, szövege a 36/2023. (XII. 23.) GFM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^4]: Az 1. § (2b) bekezdését a 36/2023. (XII. 23.) GFM rendelet 1. § (3) bekezdése iktatta be.
+[^5]: Az 1. § (3) bekezdése a 36/2023. (XII. 23.) GFM rendelet 2. § b) pontja szerint módosított szöveg.
