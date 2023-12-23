@@ -1,14 +1,14 @@
 33. § A Mavtv.
 
-a) 3. § 11. pontjában az „adat felhasználására kaphat felhasználói engedélyt;” szövegrész helyébe az „adatot használhat fel;” szöveg,
+a)
 
-b) 15. § (4) bekezdésében az „A felhasználói engedély nem adható ki,” szövegrész helyébe az „A minősített adat nem adható át,” szöveg,
+b)
 
-c) 20. § (2) bekezdés f) pontjában a „kapcsolatban,” szövegrész helyébe a „kapcsolatban, jogosult a kiadott egyetértés visszavonására,” szöveg,
+c)
 
-d) 20. § (2) bekezdés s) pontjában a „meghatározza azok” szövegrész helyébe a „meghatározza az elektronikus adatkezelő rendszerek telepítési helyének” szöveg,
+d)
 
-e) 22. § (1) bekezdésében a „nemzeti biztonsági felügyelet” szövegrész helyébe a „Nemzeti Biztonsági Felügyelet” szöveg,
+e)
 
 f) 40. § (3) bekezdésében a „2023. december 31-éig” szövegrész helyébe a „2026. december 31-ig” szöveg,
 
