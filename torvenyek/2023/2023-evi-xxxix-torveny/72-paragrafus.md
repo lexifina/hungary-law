@@ -1,11 +1,11 @@
 72. § Hatályát veszti a Gfbt.
 
-a)
+a) 15. § g) pontja,
 
-b)
+b) 36. § (6a)–(6h) bekezdése és (8a)–(8b) bekezdése,
 
 c)
 
-d)
+d) 57. § (5) és (6) bekezdése,
 
-e)
+e) 62/D. §-a.
