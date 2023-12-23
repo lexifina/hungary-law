@@ -1,6 +1,6 @@
-## 42. §[^153] A TIR rendelet 4. §-a szerinti feladat ellátására a nemzetközi áruforgalom számára megnyitott határátkelőhelyeken, illetve az ország belterületén működő valamennyi vármegyei igazgatóság, illetve a Repülőtéri Igazgatóság jogosult.
+## 42. §[^158] A TIR rendelet 4. §-a szerinti feladat ellátására a nemzetközi áruforgalom számára megnyitott határátkelőhelyeken, illetve az ország belterületén működő valamennyi vármegyei igazgatóság, illetve a Repülőtéri Igazgatóság jogosult.
 
-43. §[^154]
+43. §[^159]
 
-[^153]: A 42. § a 616/2022. (XII. 29.) Korm. rendelet 228. § b) pontja szerint módosított szöveg.
-[^154]: A 43. §-t a 88/2016. (IV. 29.) Korm. rendelet 21. § 1. pontja hatályon kívül helyezte.
+[^158]: A 42. § a 616/2022. (XII. 29.) Korm. rendelet 228. § b) pontja szerint módosított szöveg.
+[^159]: A 43. §-t a 88/2016. (IV. 29.) Korm. rendelet 21. § 1. pontja hatályon kívül helyezte.

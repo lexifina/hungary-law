@@ -1,5 +1,3 @@
-81. § (1)[^237] A hulladékgazdálkodás ellenőrzésével kapcsolatos feladatokat a KAVIG látja el azon kiemelt adózók vonatkozásában, amelyek székhelye Budapesten vagy Pest vármegyében található.
+81. §[^245]
 
-(2) A termékdíjköteles termékből képződött hulladékkal kapcsolatos ügyben az illetékességi területén található telephely vonatkozásában a KAVIG jogosult helyszíni szemle tartására, valamint a telephely ellenőrzés lefolytatására.
-
-[^237]: A 81. § (1) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 228. § h) pontja szerint módosított szöveg.
+[^245]: A 81. §-t a 611/2023. (XII. 22.) Korm. rendelet 21. § 8. pontja hatályon kívül helyezte.

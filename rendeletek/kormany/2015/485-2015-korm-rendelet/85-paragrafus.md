@@ -1,1 +1,3 @@
-## 84. § A Bűnügyi Főigazgatóság főigazgatója egyedi ügyekben a 83. § a) és b) pontjában meghatározott nyomozóhatósági jogkörét a bűnügyi igazgatóságra ruházhatja át, ha ezt a nyomozási cselekmények hatékonyabb elvégzése indokolja.
+85. §[^255] Ha az adott bűncselekmény vonatkozásában hatáskörrel rendelkező nyomozó hatóságtól a nyomozó hatósági jogkört a Bűnügyi Főigazgatóság főigazgatója a 83. § b) pontja alapján a Bűnügyi Főigazgatóság vagy a 84. §-a alapján a bűnügyi igazgatóság hatáskörébe utalta vagy vonta, kizárólag a Bűnügyi Főigazgatóság főigazgatójának saját hatáskörben vagy a bűnügyi és rendészeti elnökhelyettes javaslata alapján meghozott döntés értelmében kerülhet sor az ügynek az arra eredetileg hatáskörrel rendelkező nyomozó hatóság részére történő visszaadására.
+
+[^255]: A 85. § a 311/2018. (XII. 27.) Korm. rendelet 11. §-ával megállapított, a 611/2023. (XII. 22.) Korm. rendelet 20. § 16. pontja szerint módosított szöveg.

@@ -1,3 +1,3 @@
-## 21. [^179] Szerencsejáték üggyel kapcsolatos különös illetékesség
+## 21. [^185] Szerencsejáték üggyel kapcsolatos különös illetékesség
 
-[^179]: A 21. alcímet (55. §) újonnan a 345/2017. (XI. 16.) Korm. rendelet 13. §-a iktatta be.
+[^185]: A 21. alcímet (55. §) újonnan a 345/2017. (XI. 16.) Korm. rendelet 13. §-a iktatta be.

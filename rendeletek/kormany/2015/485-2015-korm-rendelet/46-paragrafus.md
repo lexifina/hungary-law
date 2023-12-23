@@ -1,5 +1,5 @@
 ## 19. Rendészeti feladatokkal kapcsolatos különös illetékesség
 
-46. §[^161]
+46. §[^168]
 
-[^161]: A 46. §-t a 670/2020. (XII. 28.) Korm. rendelet 18. § g) pontja hatályon kívül helyezte.
+[^168]: A 46. §-t a 670/2020. (XII. 28.) Korm. rendelet 18. § g) pontja hatályon kívül helyezte.

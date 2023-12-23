@@ -1,4 +1,4 @@
-## 4. §[^11] Felülellenőrzés, valamint felülellenőrzés során a tényállás tisztázása érdekében szükséges jogkövetési vizsgálat és az azt követő hatósági eljárás lefolytatására a Központi Irányítás jogosult.
+## 4. §[^13] Felülellenőrzés, valamint felülellenőrzés során a tényállás tisztázása érdekében szükséges jogkövetési vizsgálat és az azt követő hatósági eljárás lefolytatására a Központi Irányítás jogosult.
 
 ## 2. Vám- és jövedéki, valamint rendészeti ügyek
 
@@ -10,9 +10,9 @@ b) fogadja és az Európai Bizottsághoz továbbítja a dömpingellenes vám vis
 
 c) elfogadja az áruknak TIR-igazolvánnyal történő nemzetközi fuvarozására vonatkozó vámegyezmény végrehajtásáról szóló 39/2013. (IX. 24.) NGM rendelet (a továbbiakban: TIR rendelet) 2. § (2) bekezdés b) pontja szerinti biztosítási szerződést;
 
-d) ellátja a közös agrárpolitika finanszírozásáról, irányításáról és monitoringjáról és a 352/78/EGK, a 165/94/EK, a 2799/98/EK, a 814/2000/EK, az 1290/2005/EK és a 485/2008/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-ei 1306/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1306/2013/EU rendelet) 85. cikkében meghatározott feladatokat (Különleges Szolgálat), illetve végzi a Különleges Szolgálat által magának fenntartott ügyekben az 1306/2013/EU rendelet V. cím III. fejezetében meghatározott Európai Mezőgazdasági Garancia Alap utólagos ellenőrzést (a továbbiakban együtt: EMGA utólagos ellenőrzés), valamint a külön jogszabály szerinti EMGA felülellenőrzést, illetve helyszíni szemle lefolytatását;
+d)[^14] ellátja a közös agrárpolitika finanszírozásáról, irányításáról és monitoringjáról, valamint az 1306/2013/EU rendelet hatályon kívül helyezéséről szóló, 2021. december 2-i az (EU) 2021/2116 európai parlamenti és tanácsi rendelet IV. cím III. fejezetében meghatározott feladatokat, végzi a Különleges Szolgálat által magának fenntartott ügyekben az Európai Mezőgazdasági Garanciaalap finanszírozási rendszerébe tartozó ügyletek utólagos ellenőrzését (a továbbiakban együtt: EMGA utólagos ellenőrzés), valamint az uniós vámjog végrehajtásáról szóló 2017. évi CLII. törvény (a továbbiakban: Vtv.) szerinti EMGA felülellenőrzést, illetve helyszíni szemlét;
 
-e)[^12] a hatáskörrel és illetékességgel rendelkező területi szerv által lefolytatott EMGA utólagos ellenőrzést, valamint a helyszíni szemle lefolytatását a Különleges Szolgálat útján szakmailag irányítja és felügyeli;
+e)[^15] szakmailag irányítja és felügyeli a hatáskörrel és illetékességgel rendelkező területi szerv által lefolytatott EMGA utólagos ellenőrzést, valamint a helyszíni szemle lefolytatását a Különleges Szolgálat útján;
 
 f) – jogszabály eltérő rendelkezése hiányában – kapcsolatot tart a vámigazgatási és rendészeti ügyekben az Európai Bizottsággal, a nemzetközi szervezetekkel, továbbá a tagállamok és harmadik országok hatóságaival;
 
@@ -24,34 +24,35 @@ i) végzi az egyes ásványolajtermékekkel elkövetett nemzetközi visszaélés
 
 j) ellátja az Európai Unió és tagállamai, valamint a dohányipar szereplői között a dohány feketekereskedelem visszaszorításáért kötött együttműködési megállapodás alapján a különböző dohány-csalással kapcsolatos ügyben a kapcsolattartási feladatokat;
 
-k)[^13] jogszabályi kijelölés alapján szakhatóságként jár el;
+k)[^16] jogszabályi kijelölés alapján szakhatóságként jár el;
 
-l)[^14] ellátja az Uniós Vámkódex alapján történő információcserére és az érintett információk tárolására szolgáló elektronikus rendszerek kifejlesztésének, fenntartásának és alkalmazásának technikai szabályairól szóló, 2019. június 21-i (EU) 2019/1026 bizottsági végrehajtási rendelet 3. cikke, 19. cikke, 41. cikk (1), (2), (5) és (6) bekezdése, 42. cikk (3) bekezdése, 45. cikke, 48. cikke és a 49. cikke által meghatározott feladatokat;
+l)[^17] a 952/2013/EU európai parlamenti és tanácsi rendelet alapján történő információcserére és az érintett információk tárolására szolgáló elektronikus rendszerek kifejlesztésének, fenntartásának és alkalmazásának technikai szabályairól szóló, 2023. június 1-i (EU) 2023/1070 bizottsági végrehajtási rendelet 3. cikke, 21. cikke, 104. cikk (1), (2), (5) és (6) bekezdése, 105. cikk (3) bekezdése, 108. cikke, 111. cikke és a 114. cikke által meghatározott feladatokat;
 
 m) képviseli a NAV-ot a Határellenőrzési Munkacsoportban,
 
-n)[^15] ellátja a vámjogszabályok alkalmazása tekintetében az Európai Bizottság felé teljesítendő tagállami feladatokat;
+n)[^18] ellátja a vámjogszabályok alkalmazása tekintetében az Európai Bizottság felé teljesítendő tagállami feladatokat;
 
-o)[^16]
+o)[^19] irányítja a NAV-nak a védelmi és biztonsági tevékenységek összehangolásáról szóló törvényben és a különleges jogrendre történő felkészülés tekintetében a jogszabályban meghatározott feladatai ellátását;
 
-p)[^17] közzéteszi a jövedéki adóról szóló 2016. évi LXVIII. törvényben (a továbbiakban: Jöt.) előírt, az üzemanyagok adómértékének megállapításához szükséges átlagos árat;
+p)[^20] közzéteszi a jövedéki adóról szóló 2016. évi LXVIII. törvényben (a továbbiakban: Jöt.) előírt, az üzemanyagok adómértékének megállapításához szükséges átlagos árat;
 
-q)[^18] közzéteszi a Jöt.-ben előírt, a dohánygyártmányok értékesítése során alkalmazható kiskereskedelmi eladási árat;
+q)[^21]
 
-r)[^19] közzéteszi az állami adó- és vámhatóság részére jogszabályban meghatározott kötelezettség alapján megjelenítendő formanyomtatványokat;
+r)[^22] közzéteszi az állami adó- és vámhatóság részére jogszabályban meghatározott kötelezettség alapján megjelenítendő formanyomtatványokat;
 
-s)[^20] jogszabály erre vonatkozó rendelkezése alapján közzéteszi a közhiteles nyilvántartás adatait;
+s)[^23] jogszabály erre vonatkozó rendelkezése alapján közzéteszi a közhiteles nyilvántartás adatait;
 
-t)[^21] végzi a megújuló energia közlekedési célú felhasználásának teljesítésével, illetve az közlekedésben felhasznált energia üvegházhatású gázkibocsátásának csökkentésével kapcsolatosan az állami adó- és vámhatóság részére jogszabályban meghatározott adatgyűjtési és adatszolgáltatási feladatokat.
+t)[^24] végzi a megújuló energia közlekedési célú felhasználásának teljesítésével, illetve az közlekedésben felhasznált energia üvegházhatású gázkibocsátásának csökkentésével kapcsolatosan az állami adó- és vámhatóság részére jogszabályban meghatározott adatgyűjtési és adatszolgáltatási feladatokat.
 
-[^11]: A 4. § a 311/2018. (XII. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^12]: Az 5. § e) pontja a 670/2020. (XII. 28.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
-[^13]: Az 5. § k) pontja a 475/2017. (XII. 28.) Korm. rendelet 68. § (1) bekezdésével megállapított szöveg.
-[^14]: Az 5. § l) pontját a 475/2017. (XII. 28.) Korm. rendelet 80. § 1. pontja hatályon kívül helyezte, újonnan a 311/2018. (XII. 27.) Korm. rendelet 2. §-a iktatta be, szövege a 670/2020. (XII. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^15]: Az 5. § n) pontját a 88/2016. (IV. 29.) Korm. rendelet 1. §-a iktatta be.
-[^16]: Az 5. § o) pontját a 88/2016. (IV. 29.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 670/2020. (XII. 28.) Korm. rendelet 18. § c) pontja.
-[^17]: Az 5. § p) pontját a 419/2016. (XII. 14.) Korm. rendelet 10. § (1) bekezdése iktatta be, szövege e módosító rendelet 10. § (11) bekezdése szerint módosított szöveg.
-[^18]: Az 5. § q) pontját a 419/2016. (XII. 14.) Korm. rendelet 10. § (1) bekezdése iktatta be.
-[^19]: Az 5. § r) pontját a 419/2016. (XII. 14.) Korm. rendelet 10. § (1) bekezdése iktatta be.
-[^20]: Az 5. § s) pontját a 419/2016. (XII. 14.) Korm. rendelet 10. § (1) bekezdése iktatta be, szövege a 475/2017. (XII. 28.) Korm. rendelet 79. § 1. pontja szerint módosított szöveg.
-[^21]: Az 5. § t) pontját a 475/2017. (XII. 28.) Korm. rendelet 68. § (2) bekezdése iktatta be.
+[^13]: A 4. § a 311/2018. (XII. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^14]: Az 5. § d) pontja a 611/2023. (XII. 22.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^15]: Az 5. § e) pontja a 611/2023. (XII. 22.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^16]: Az 5. § k) pontja a 475/2017. (XII. 28.) Korm. rendelet 68. § (1) bekezdésével megállapított szöveg.
+[^17]: Az 5. § l) pontját a 475/2017. (XII. 28.) Korm. rendelet 80. § 1. pontja hatályon kívül helyezte, újonnan a 311/2018. (XII. 27.) Korm. rendelet 2. §-a iktatta be, szövege a 611/2023. (XII. 22.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^18]: Az 5. § n) pontját a 88/2016. (IV. 29.) Korm. rendelet 1. §-a iktatta be.
+[^19]: Az 5. § o) pontját újonnan a 611/2023. (XII. 22.) Korm. rendelet 2. § (3) bekezdése iktatta be.
+[^20]: Az 5. § p) pontját a 419/2016. (XII. 14.) Korm. rendelet 10. § (1) bekezdése iktatta be, szövege e módosító rendelet 10. § (11) bekezdése szerint módosított szöveg.
+[^21]: Az 5. § q) pontját a 419/2016. (XII. 14.) Korm. rendelet 10. § (1) bekezdése iktatta be, a 611/2023. (XII. 22.) Korm. rendelet 21. § 1. pontja hatályon kívül helyezte.
+[^22]: Az 5. § r) pontját a 419/2016. (XII. 14.) Korm. rendelet 10. § (1) bekezdése iktatta be.
+[^23]: Az 5. § s) pontját a 419/2016. (XII. 14.) Korm. rendelet 10. § (1) bekezdése iktatta be, szövege a 475/2017. (XII. 28.) Korm. rendelet 79. § 1. pontja szerint módosított szöveg.
+[^24]: Az 5. § t) pontját a 475/2017. (XII. 28.) Korm. rendelet 68. § (2) bekezdése iktatta be.
