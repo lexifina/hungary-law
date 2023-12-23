@@ -1,7 +1,0 @@
-## 9. § Ahol a hadiipari IKT-termék, hadiipari IKT-szolgáltatás vagy hadiipari IKT-folyamat jellege lehetővé teszi, a gyártónak a megfelelőségi önértékelés megtörténtét jelző megfelelőségi jelölést kell elhelyeznie az adott hadiipari IKT-terméken, hadiipari IKT-szolgáltatáson vagy hadiipari IKT-folyamatban. A megfelelőségi jelölésre a 39. § rendelkezései alkalmazandók.
-
-10. § (1) A gyártó a tanúsítási rendszerben foglaltak szerint, ennek hiányában negyedévente vizsgálja, hogy a hadiipari IKT-termék, hadiipari IKT-szolgáltatás vagy hadiipari IKT-folyamat megfelel-e a tanúsítási rendszer szerinti követelményeknek, nem megfelelés esetén kiigazító intézkedéseket tesz.
-
-(2) Ha a hadiipari IKT-termék, hadiipari IKT-szolgáltatás vagy hadiipari IKT-folyamat a gyártó által megtett kiigazító intézkedések eredményeképpen sem felel meg a tanúsítási rendszer szerinti egyes követelményeknek, a gyártó az általa kiadott uniós megfelelőségi nyilatkozatot visszavonja, és erről a visszavonást követő 8 napon belül tájékoztatja az Európai Uniós Kiberbiztonsági Ügynökséget (a továbbiakban: ENISA), a tanúsító hatóságot és a forgalmazót, valamint a visszavonásról szóló tájékoztatást tesz közzé a honlapján.
-
-(3) Az uniós megfelelőségi nyilatkozat visszavonása esetén a gyártó haladéktalanul köteles intézkedni az érintett hadiipari IKT-termékről, hadiipari IKT-szolgáltatásról vagy hadiipari IKT-folyamatról a megfelelőségi jelölés eltávolítása iránt.
