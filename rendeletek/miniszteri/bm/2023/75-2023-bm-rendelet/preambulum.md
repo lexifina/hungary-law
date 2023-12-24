@@ -1,0 +1,1 @@
+a kémiai biztonságról szóló 2000. évi XXV. törvény 34. § (4) bekezdés a) pont ah) alpontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 66. § (1) bekezdés 26. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
