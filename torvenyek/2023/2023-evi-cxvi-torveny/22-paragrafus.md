@@ -9,15 +9,3 @@
 (4) Az 5. §, a 6. §, a 8. §, 9. § (1) bekezdése, a 10. §, a 11. §, valamint a 12. § a)–c) és g) pontja 2024. március 25-én lép hatályba.
 
 (5) A 13. § és a 4–6. alcím 2024. október 1-jén lép hatályba.
-
-|
-
-Novák Katalin s. k.,
-
-köztársasági elnök
-
-|
-
-Dr. Latorcai János s. k.,
-
-az Országgyűlés alelnöke
