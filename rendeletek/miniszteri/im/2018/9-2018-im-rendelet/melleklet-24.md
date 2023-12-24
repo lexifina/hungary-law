@@ -82,7 +82,7 @@ KÖZÉRDEKŰ MUNKA SZABADSÁGVESZTÉSRE ÁTVÁLTOZTATÁSÁRÓL ÉRTESÍTŐLAP AD
 
 4. Végrehajtásra vonatkozó adatok
 
-4.1.[^124] A közérdekű munka végrehajtó pártfogó felügyelői feladatkörében eljáró fővárosi és vármegyei kormányhivatal előírási tételszáma
+4.1.[^121] A közérdekű munka végrehajtó pártfogó felügyelői feladatkörében eljáró fővárosi és vármegyei kormányhivatal előírási tételszáma
 
 4.2. A tényleges munkavégzéssel ledolgozott közérdekű munka (óra, számmal és betűvel)
 
@@ -98,4 +98,4 @@ KÖZÉRDEKŰ MUNKA SZABADSÁGVESZTÉSRE ÁTVÁLTOZTATÁSÁRÓL ÉRTESÍTŐLAP AD
 
 7.3. Keltezés, aláírás és az értesítőlapot kiállító bv. bírói tisztség megjelölése
 
-[^124]: A 24. melléklet 4. pont 4.1. alpontja a 35/2022. (XII. 27.) IM rendelet 5. § 34. pontja szerint módosított szöveg.
+[^121]: A 24. melléklet 4. pont 4.1. alpontja a 35/2022. (XII. 27.) IM rendelet 5. § 34. pontja szerint módosított szöveg.

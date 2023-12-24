@@ -1,6 +1,6 @@
 ## 61. A feltételes szabadságra bocsátás
 
-117. §[^86] (1) A bv. bíró a Btk. 69. § (2) bekezdés a) és c) pontjában meghatározott esetben a feltételes szabadság esedékessége előtt két hónappal intézkedik a pártfogó felügyelői vélemény beszerzése iránt a fogvatartást foganatosító bv. intézet megkeresésével.
+117. §[^83] (1) A bv. bíró a Btk. 69. § (2) bekezdés a) és c) pontjában meghatározott esetben a feltételes szabadság esedékessége előtt két hónappal intézkedik a pártfogó felügyelői vélemény beszerzése iránt a fogvatartást foganatosító bv. intézet megkeresésével.
 
 (2) A bv. bíró a feltételes szabadságra bocsátás kérdésében tartott meghallgatáson a Bv. tv. 188. § (1) bekezdés b) pontjában meghatározott feltétel szempontjából vizsgálja
 
@@ -20,4 +20,4 @@ dc) a hozzátartozó sérelmére elkövetett személy elleni erőszakos bűncsel
 
 (3) A Bv. tv. 58. § (1) bekezdésében meghatározott esetben a bv. bíró az elítélt lakcíme, illetve tényleges tartózkodási helye szerint illetékes rendőrkapitányság megkeresésével az elítélt életvitelére és közbiztonsági kockázatára vonatkozó rendőri jelentés beszerzést rendeli el, ha a Btk. 92–92/B. § szerinti beszámítás kizárólag bűnügyi felügyeletre vagy házi őrizetre vonatkozott.
 
-[^86]: A 117. § a 20/2020. (XII. 30.) IM rendelet 124. §-ával megállapított szöveg.
+[^83]: A 117. § a 20/2020. (XII. 30.) IM rendelet 124. §-ával megállapított szöveg.

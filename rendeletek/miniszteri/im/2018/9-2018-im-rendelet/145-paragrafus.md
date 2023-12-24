@@ -8,8 +8,8 @@ a) a büntetőeljárás során az ártatlanság vélelme egyes vonatkozásainak 
 
 b) a büntetőeljárás során és az európai elfogatóparancshoz kapcsolódó eljárásokban ügyvédi segítség igénybevételéhez való jogról, valamint valamely harmadik félnek a szabadságelvonáskor történő tájékoztatásához való jogról és a szabadságelvonás ideje alatt harmadik felekkel és a konzuli hatóságokkal való kommunikációhoz való jogról szóló 2013. október 22-i 2013/48/EU parlamenti és tanácsi irányelvnek
 
-c)[^117] a szakmai képesítések elismeréséről szóló, 2005. szeptember 7-i 2005/36/EK európai parlamenti és tanácsi irányelvnek
+c)[^114] a szakmai képesítések elismeréséről szóló, 2005. szeptember 7-i 2005/36/EK európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
-[^117]: A 145. § c) pontját a 30/2019. (XII. 30.) IM rendelet 18. § (2) bekezdése iktatta be.
+[^114]: A 145. § c) pontját a 30/2019. (XII. 30.) IM rendelet 18. § (2) bekezdése iktatta be.
