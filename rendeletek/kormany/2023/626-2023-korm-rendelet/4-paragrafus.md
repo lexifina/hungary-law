@@ -1,3 +1,3 @@
-4. § Az egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokra vonatkozó szabályoknak a veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 523/2023. (XI. 30.) Korm. rendelet a következő 7. §-sal egészül ki:
+4. §[^5]
 
-„7. § E rendeletnek az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 525/2022. (XII. 16.) Korm. rendelet, valamint az egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokra vonatkozó szabályoknak a veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 523/2023. (XI. 30.) Korm. rendelet módosításáról szóló 626/2023. (XII. 22.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1. § c) pontját, 2. §-át és 4/A. §-át a Módr. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
