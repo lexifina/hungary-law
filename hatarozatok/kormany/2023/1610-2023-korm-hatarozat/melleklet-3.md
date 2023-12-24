@@ -1,13 +1,3 @@
-## „2. melléklet az 1495/2021. (VII. 23.) Korm. határozathoz
+3. melléklet az 1610/2023. (XII. 23.) Korm. határozathoz[^7]
 
-## 3X11539.pdf
-
-## ”
-
-3. melléklet az 1610/2023. (XII. 23.) Korm. határozathoz
-
-„3. melléklet az 1495/2021. (VII. 23.) Korm. határozathoz
-
-3X11595.pdf
-
-”
+[^7]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
