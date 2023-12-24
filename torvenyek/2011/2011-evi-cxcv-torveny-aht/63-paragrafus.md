@@ -14,9 +14,9 @@ e) azon alapítványok, közalapítványok ellenőrzésére, amelyek felett az a
 
 f) az állami kezesség vállalása és beváltása jogosságának ellenőrzésére, ideértve a központi költségvetés, valamint a tartozás eredeti kötelezettjénél és jogosultjánál a kezességi szerződés feltételei betartásának ellenőrzését,
 
-g)
+g) a 23. § (2b) bekezdés b) pontja szerinti kötelezettségnek közgazdasági megalapozottsága ellenőrzésére az Mötv.-ben meghatározott kormányhivatali eljárás során, valamint a Gst. 10/B. § (5) bekezdésében foglalt feltételek teljesülésének ellenőrzésére,
 
-h) az a)–f) pontban foglaltakkal összefüggésben létrejött jogviszonyokra, valamint azon szerződő felekre is, amelyek a jogviszony teljesítésében közvetlen vagy közvetett módon közreműködnek, és
+h) az a)–g) pontban foglaltakkal összefüggésben létrejött jogviszonyokra, valamint azon szerződő felekre is, amelyek a jogviszony teljesítésében közvetlen vagy közvetett módon közreműködnek, és
 
 i)
 

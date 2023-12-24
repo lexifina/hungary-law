@@ -8,6 +8,8 @@ b) a 70. alcím alapján teljesítendő adatszolgáltatási kötelezettségek sz
 
 c) az éves költségvetési beszámoló megbízható, valós összképének
 
+d) az Mötv.-ben meghatározott kormányhivatali eljárás során a 23. § (2b) bekezdés b) pontja szerinti kötelezettség közgazdasági megalapozottságának
+
 vizsgálatára terjed ki.
 
 (2) A kincstár ellenőrzésére a 63. § (2) és (4) bekezdését, a 64. §-t, a 65. § (1)–(5) bekezdését és a 66. §-t kell alkalmazni.
