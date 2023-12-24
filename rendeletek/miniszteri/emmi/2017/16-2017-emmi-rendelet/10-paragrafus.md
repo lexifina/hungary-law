@@ -20,7 +20,7 @@ g) az ajtajára, jól látható helyen és módon az „Idegeneknek belépni til
 
 a) a kiürült, de irtószer átcsomagolására felhasználható, kívül, belül szabályszerűen megtisztított és lezárható irtószer csomagolóeszközt,
 
-b) a sérült csomagolású, azonosíthatatlan, szennyezett, illetve lejárt szavatosságú irtószereket és gázosítószereket, ártalmatlanításra váró hulladékokat, göngyölegeket, illetve szennyezett védőfelszerelést, valamint
+b)[^22] , azonosíthatatlan, szennyezett, illetve lejárt szavatosságú irtószereket és gázosítószereket, ártalmatlanításra váró hulladékokat, göngyölegeket, illetve szennyezett védőfelszerelést,
 
 c) a kiselejtezett I. és II. forgalmi kategóriájú irtószert, gázosítószert a további kezeléséig.
 
@@ -28,4 +28,10 @@ c) a kiselejtezett I. és II. forgalmi kategóriájú irtószert, gázosítósze
 
 (5) Munkaterületen az egynapi felhasználásra előkészített irtószer biztonságosan zárható, alkalmi raktárban is tárolható, amelynek kulcsát kizárólag szakképzett személy vagy gázmester kezelheti. Az alkalmi raktár más célra kizárólag az esetleges irtószer-szennyeződés maradéktalan eltávolítása után használható.
 
-(6) Az irtószerek és gázosítószerek kereskedelmi raktárban történő tárolására a veszélyes áruk szállításával összefüggő ideiglenes tárolásra vonatkozó műszaki követelményekben előírtakat kell alkalmazni.
+(6)[^23]
+
+(7)[^24] Gondoskodni kell a sérült csomagolású irtószerek és gázosítószerek megfelelő biztonságos újra csomagolásáról, amennyiben ez nem valósítható meg, az ártalmatlanításáról.
+
+[^22]: A 10. § (3) bekezdés b) pontja a 74/2023. (XII. 23.) BM rendelet 9. § b) pontja szerint módosított szöveg.
+[^23]: A 10. § (6) bekezdését a 74/2023. (XII. 23.) BM rendelet 9. § c) pontja hatályon kívül helyezte.
+[^24]: A 10. § (7) bekezdését a 74/2023. (XII. 23.) BM rendelet 3. §-a iktatta be.

@@ -1,8 +1,6 @@
-## 24–26. §[^6]
-
 1. melléklet a 16/2017. (VIII. 7.) EMMI rendelethez
 
-## A gázosítószer alkalmazásának különleges feltételei
+A gázosítószer alkalmazásának különleges feltételei
 
 1. Középtér vagy helyiséggázosítás, valamint nagytér-, vagy épületgázosítás alkalmazásának feltételei:
 
@@ -183,5 +181,3 @@
 9.7.6. a fokozott mértékben tűzveszélyes gázok gyúlékonyságát megfelelő adalékanyag hozzákeverésével kell kiküszöbölni, illetve csökkenteni.
 
 9.8. Robbanásveszélyes gáz használatakor különös gondot kell fordítani a gáztéren belül valamennyi elektromos berendezés és hálózat áramtalanítására és a statikus feltöltődés kiküszöbölésére is, melynek érdekében a gáztérben dolgozók csak szegelés és vasalás nélküli bőrtalpú lábbelit viselhetnek, és nem hordhatnak műszálból készült vagy műszálat tartalmazó ruházatot, nem használhatnak kézi világítóeszközt és fém szerszámot.
-
-[^6]: A 24–26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

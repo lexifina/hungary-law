@@ -10,8 +10,10 @@ d) a gázosítás megkezdésének és befejezésének időpontját,
 
 e) a termény, élelmiszer forgalomba hozhatóságának és felhasználhatóságának időpontját és
 
-f) a gázosítást végző gázmester érvényes működési igazolványa és tevékenységi engedélye számát.
+f)[^38] a gázosítást végző gázmester érvényes működési igazolványának és az egészségügyi államigazgatási szerv által kiállított megfelelőségi nyilatkozat vagy engedély számát.
 
 (2) A gázosított termény, élelmiszer csak az adott gázosítószer engedélyében megjelölt élelmezésegészségügyi várakozási idő leteltét követően tárolható ki, hozható forgalomba és használható fel.
 
 (3) Az élelmezésegészségügyi várakozási idő letelte előtt a kezelt termény kizárólag akkor tárolható ki, ha a termény tulajdonosának azt a növény- és talajvédelmi feladatkörében eljáró kijelölt illetékes járási hivatal engedélyezte.
+
+[^38]: A 21. § (1) bekezdés f) pontja a 74/2023. (XII. 23.) BM rendelet 7. §-ával megállapított szöveg.

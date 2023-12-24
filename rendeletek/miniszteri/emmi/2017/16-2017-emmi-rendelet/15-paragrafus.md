@@ -14,6 +14,8 @@
 
 (5) A gázmesternek vagy a szakképzett személynek gondoskodnia kell arról, hogy
 
-a) az előkészített, illetve a már kijuttatott vagy kihelyezett irtószerhez illetéktelen személyek, egészségügyi kártevőnek nem minősülő állatok ne férhessenek hozzá, az egészségüket ne veszélyeztesse, és
+a)[^29] az előkészített, illetve a már kijuttatott vagy kihelyezett irtószerhez illetéktelen személyek, egészségügyi kártevőnek nem minősülő állatok véletlenszerűen ne férhessenek hozzá, az egészségüket ne veszélyeztesse, és
 
 b) az irtószer ne juthasson talajba, felszíni vagy felszín alatti vizekbe.
+
+[^29]: A 15. § (5) bekezdés a) pontja a 74/2023. (XII. 23.) BM rendelet 8. § l) pontja szerint módosított szöveg.

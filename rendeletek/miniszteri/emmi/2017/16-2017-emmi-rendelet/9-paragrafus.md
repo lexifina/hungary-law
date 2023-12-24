@@ -1,4 +1,4 @@
-## 5. Irtószer és gázosítószer raktározása a felhasználónál
+## 5.[^21] Irtószer és gázosítószer raktározása
 
 9. § (1) Irtószert és gázosítószert eredeti, zárt csomagolásban vagy a használat után ismét visszazárt eredeti csomagolásban, az engedélyben és a használati útmutatóban meghatározott módon kell tárolni.
 
@@ -9,3 +9,5 @@
 (4) I. forgalmi kategóriájú irtószer, gázosítószer csak a (3) bekezdésben meghatározott raktáron belül elhelyezett – a tárolt mennyiségtől függően – tűz- és ütésálló méregkazettában, méregszekrényben, méregládában vagy elkülönített méregkamrában tárolható.
 
 (5) A méregkazetta, méregszekrény, méregláda vagy méregkamra külsején, illetve bejáratán kívülről szembetűnően és el nem távolítható módon az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról, a 67/548/EGK és az 1999/45/EK irányelv módosításáról és hatályon kívül helyezéséről, valamint az 1907/2006/EK rendelet módosításáról szóló, 2008. december 16-i 1272/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1272/2008/EK európai parlamenti és tanácsi rendelet) szerinti feliratot és veszélyt jelző piktogramot kell elhelyezni.
+
+[^21]: Az 5. alcím címe a 74/2023. (XII. 23.) BM rendelet 9. § d) pontja szerint módosított szöveg.

@@ -2,7 +2,7 @@
 
 14. § (1) A 2. § 16. pontjában meghatározott szakképzettséggel nem rendelkező személy a szakoktatás ideje alatt a gázmester közvetlen felügyelete mellett foglalkoztatható. Gázosításkor kizárólag a gáztér előkészítésében vehet részt.
 
-(2) Irtószer vagy gázosítószer alkalmazása során, illetve annak megkezdése előtt és azt követően nyolc órán belül tilos alkoholt fogyasztani. Munkavégzés közben tilos étkezni, dohányozni.
+(2)[^28] Irtószer vagy gázosítószer alkalmazása során, csak kipihent, megfelelő fizikai és szellemi állapotban lévő, alkohol vagy más bódítószer hatása alatt nem álló munkavégző foglalkoztatható.. Munkavégzés közben tilos étkezni, dohányozni.
 
 (3) Az I. és II. forgalmi kategóriába tartozó irtószerrel, illetve a gázosítószerrel közvetlen vagy közvetett kapcsolatba kerülő tevékenységet végző személy – ideértve a tömény készítménnyel tevékenységet végző előkészítőt és a felhasználásra kész szer kijuttatóját is – az adott készítmény forgalomba hozatali engedélyében előírt védőeszközöket köteles viselni.
 
@@ -19,3 +19,5 @@
 (9) Az egészségügyi kártevőirtás elvégzéséhez ivóvíz minőségű vizet és tisztálkodási lehetőséget kell biztosítani. Az irtószerekkel és gázosítószerekkel végzett tevékenységet követően, valamint étkezés előtt kötelező az alapos kéz- és arcmosás, valamint a szájöblítés.
 
 (10) Tűz- és robbanásveszélyes irtószerek, gázosítószerek, valamint az irtószerek tűz- és robbanásveszélyes oldó- és hígítószerei az Országos Tűzvédelmi Szabályzat előírásainak megfelelően tárolhatóak és használhatóak fel.
+
+[^28]: A 14. § (2) bekezdése a 74/2023. (XII. 23.) BM rendelet 8. § k) pontja szerint módosított szöveg.

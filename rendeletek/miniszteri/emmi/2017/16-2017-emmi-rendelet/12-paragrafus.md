@@ -14,11 +14,23 @@ d) felszíni vagy felszín alatti vízbe kerülését.
 
 (3) Az irtószerek és gázosítószerek kezeléséhez feltűnően megjelölt, kizárólag erre a célra szolgáló, biztonságos munkaeszközöket kell használni.
 
-(4) Az irtószerek és a gázosítószerek felhasználásáról a gázmesternek vagy a szakképzett személynek nyilvántartást kell vezetni. A nyilvántartás tartalmazza
+(4)[^26] Az irtószerek és a gázosítószerek felhasználásáról a gázmesternek vagy a szakképzett személynek nyilvántartást kell vezetni. A nyilvántartás tartalmazza:
 
-a) a felhasználás helyét,
+a) a szolgáltató
 
-b) a felhasználás időpontját,
+aa) nevét,
+
+ab) címét,
+
+ac) elérhetőségét,
+
+ad) az egészségügyi államigazgatási szerv által kiállított megfelelőségi nyilatkozat számát,
+
+b) a felhasználás
+
+ba) helyét,
+
+bb) időpontját,
 
 c) az elvégzett védekezésre irányuló tevékenységet,
 
@@ -26,8 +38,9 @@ d) a célkártevő megnevezését,
 
 e) a felhasznált irtószer megnevezését,
 
-f) a munkavégző nevét,
+f) a munkavégzés utáni teendőket.
 
-g) a tevékenységi engedély számát,
+(5)[^27] A dokumentáció egy példányát a felhasználás helyén, egy példányát a szolgáltató székhelyén, telephelyén kell a felhasználás idejétől számított 5 évig megőrizni.
 
-h) a munkavégzés utáni teendőket.
+[^26]: A 12. § (4) bekezdése a 74/2023. (XII. 23.) BM rendelet 5. §-ával megállapított szöveg.
+[^27]: A 12. § (5) bekezdését a 74/2023. (XII. 23.) BM rendelet 5. §-a iktatta be.

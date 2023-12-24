@@ -12,7 +12,7 @@
 
 5. egészségügyi kártevők: a fertőző betegségek és a járványok megelőzése érdekében szükséges járványügyi intézkedésekről szóló miniszteri rendelet szerinti egészségügyi kártevők,
 
-6. felhasználó: az irtószert vagy gázosítószert alkalmazó természetes vagy jogi személy vagy jogi személyiséggel nem rendelkező szervezet,
+6.[^1] felhasználó: az irtószert vagy gázosítószert alkalmazó személy
 
 7. főszellőztetés: a gázosítószer fő tömegének kijuttatása a gáztérből,
 
@@ -36,10 +36,13 @@
 
 17. szellőztetés: a főszellőztetés és utószellőztetés együttesen,
 
-18. szolgáltató: egészségügyi kártevőirtást végző természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet, aki vagy amelynek személyesen közreműködő tagja vagy munkavállalója gázmester vagy szakképzett személy,
+18.[^2] szolgáltató: egészségügyi kártevőirtást végző természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet, aki vagy amely szerepel az egészségügyi államigazgatási szerv egészségügyi kártevőirtó tevékenységet folytató szolgáltatókról vezetett nyilvántartásában,
 
 19. utószellőztetés: a főszellőztetést követően a még gáztérben maradt gázosítószer teljes eltávolítása a gáztérből,
 
 20. védekezés: az egészségügyi kártevők megtelepedésének és elszaporodásának meggátlása, valamint életfolyamataik megzavarása és a kártevők csalogatása vagy távoltartása, riasztása, továbbá elpusztítása,
 
 21. védőfelszerelés: a munkavállalók munkahelyen történő egyéni védőeszköz használatának minimális biztonsági és egészségvédelmi követelményeiről szóló miniszteri rendeletnek, az egyéni védőeszközök követelményeiről és megfelelőségének tanúsításáról szóló miniszteri rendeletnek, illetve a gázosítószer biztonsági adatlapján feltüntetett előírásnak megfelelő egyéni védőfelszerelés és légzésvédő eszköz együttesen.
+
+[^1]: A 2. § 6. pontja a 74/2023. (XII. 23.) BM rendelet 8. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § 18. pontja a 74/2023. (XII. 23.) BM rendelet 8. § b) pontja szerint módosított szöveg.
