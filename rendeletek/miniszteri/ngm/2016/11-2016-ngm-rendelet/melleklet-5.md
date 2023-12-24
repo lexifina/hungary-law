@@ -1,5 +1,3 @@
-## Vámjegy
-
 | Tőszelvény: | Sorszám: AA |
 
 | Név: ...........................................................................................................................................................…………………… |
@@ -44,7 +42,7 @@
 
 5. melléklet a 11/2016. (IV. 29.) NGM rendelethez
 
-## Az adónyilatkozatra vonatkozó követelmények
+Az adónyilatkozatra vonatkozó követelmények
 
 1. A Vtv. 92. §-a szerinti adónyilatkozat vám-árunyilatkozat formájában is benyújtható.
 

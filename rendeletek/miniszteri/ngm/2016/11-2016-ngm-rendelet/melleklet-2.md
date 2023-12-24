@@ -1,6 +1,6 @@
 2. melléklet a 11/2016. (IV. 29.) NGM rendelethez
 
-## Szemlebejelentés
+Szemlebejelentés
 
 | 1. | ............................................................................................ Eljáró vámhivatal Adóigazgatási szám: Sztj: 151000 | Szemlekérelem száma: |
 
@@ -48,7 +48,7 @@
 
 | .......................................... aláírás | P. H. .............................................. pénzügyőr aláírása |
 
-Kitöltési útmutató a szemlebejelentéshez
+## Kitöltési útmutató a szemlebejelentéshez
 
 1. A Szemlebejelentés vagy azzal egyező adattartalmú és formátumú , az érintett személy által – fénymásolás útján, nyomdailag vagy más módon szabadon – kiállított adatlap.
 

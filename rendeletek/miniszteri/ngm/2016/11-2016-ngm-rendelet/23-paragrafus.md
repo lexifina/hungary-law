@@ -1,6 +1,4 @@
-## 22. §[^20]
-
-23. § (1)–(2)[^21]
+23. § (1)–(2)[^23]
 
 (3) Könyvelés szerinti elkülönítés engedélyezéséhez csatolandó iratok:
 
@@ -30,13 +28,12 @@ c) kimutathatóak legyenek az alábbi mennyiségek:
 
 d) legyen alkalmas annak bizonyítására, akár a gyártáskor, akár a származási igazolás kiállításakor, hogy a könyvelés szerint elegendő mennyiségű származó anyagkészlet állt rendelkezésre ahhoz, hogy a származó helyzet igazolható legyen.
 
-(5)[^22]
+(5)[^24]
 
 (6) A könyvelés szerinti elkülönítés engedélyezésekor a vámhatóság köteles megvizsgálni a gyártó nyilvántartásait a származó és nem származó anyagok nyitókészleteinek meghatározása céljából.
 
-(7)[^23]
+(7)[^25]
 
-[^20]: A 22. §-t a 37/2017. (XI. 6.) NGM rendelet 9. § b) pontja hatályon kívül helyezte.
-[^21]: A 23. § (1)–(2) bekezdését a 48/2017. (XII. 29.) NGM rendelet 17. § g) pontja hatályon kívül helyezte.
-[^22]: A 23. § (5) bekezdését a 48/2017. (XII. 29.) NGM rendelet 17. § h) pontja hatályon kívül helyezte.
-[^23]: A 23. § (7) bekezdését a 18/2018. (XII. 20.) PM rendelet 23. §-a hatályon kívül helyezte.
+[^23]: A 23. § (1)–(2) bekezdését a 48/2017. (XII. 29.) NGM rendelet 17. § g) pontja hatályon kívül helyezte.
+[^24]: A 23. § (5) bekezdését a 48/2017. (XII. 29.) NGM rendelet 17. § h) pontja hatályon kívül helyezte.
+[^25]: A 23. § (7) bekezdését a 18/2018. (XII. 20.) PM rendelet 23. §-a hatályon kívül helyezte.

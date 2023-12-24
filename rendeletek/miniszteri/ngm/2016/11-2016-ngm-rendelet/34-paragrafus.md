@@ -7,3 +7,5 @@ a) a belépési gyűjtő árunyilatkozat,
 b) a kilépési gyűjtő árunyilatkozat, és
 
 c) az újrakiviteli értesítés
+
+benyújtásához.

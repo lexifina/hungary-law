@@ -1,5 +1,3 @@
-## 4–7. §
-
 ## 5. A díjakra és költségekre vonatkozó részletes szabályok
 
 8. § (1) A közúti járművek és szállítótartályok vámzár alatt történő nemzetközi árufuvarozásra való alkalmassági vizsgálatáért – a vizsgálat eredményétől függetlenül – járművenként, a szállítótartályok esetén típusbizonyítványonként 15 000 forint vizsgálati díjat kell fizetni a vizsgálatot végző vámhivatalnál. A Honvédelmi Minisztérium, a Magyar Honvédség, a NATO és a NATO békepartner tagországok haderőinek tulajdonában lévő járművekre és szállítótartályokra, valamint a katonai árukat szállító polgári járművekre és szállítótartályokra nem kell vizsgálati díjat fizetni, ha a nemzetközi árufuvarozás a vámjogszabályok szerinti 302. formanyomtatvány igénybevételével történik.

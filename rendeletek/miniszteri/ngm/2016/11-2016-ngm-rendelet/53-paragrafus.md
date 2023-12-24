@@ -5,3 +5,5 @@
 a) 2015. évben kiadott engedély alapján 2016. június 30-ig,
 
 b) 2016. január 1. és 2016. április 30. közötti időszakban kiadott engedély alapján 2017. június 30-ig
+
+megadottnak kell tekinteni, feltéve, hogy az engedélyezéskor fennálló feltételek – a megbízható vámadós státusz igazolását kivéve – fennállnak.
