@@ -6,7 +6,7 @@ a) a 2020. évben november 2. és november 22. között,
 
 b) a 2021. évben április 1. és április 20. között,
 
-c) a 2022. évtől kezdődően az adott pénzügyi év január 15. és február 15. között
+c)[^4] a 2022. és 2023. években az adott pénzügyi év január 15. és február 15. között
 
 elektronikus úton nyújtható be a Kormány által biztosított elektronikus azonosítási szolgáltatással elérhető, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben (a továbbiakban: E-ügyintézési törvény) foglaltaknak megfelelően a Kincstárhoz az erre a célra rendszeresített elektronikus űrlapkitöltő felületen (a továbbiakban: elektronikus űrlapkitöltő felület) keresztül, a Kincstár honlapján közzétett közleményben foglaltak szerint.
 
@@ -38,7 +38,7 @@ a) a beszerezni tervezett borászati gép, technológiai berendezés műszaki ad
 
 b) a kérelmező nyilatkozatát a borászati üzem – a borászati gép, technológiai berendezés beszerzésével tervezett beruházást megelőző, valamint az azt követő – erjesztő- és tárolókapacitásáról;
 
-c)[^4] a gazdasági aktát vezető hegybíró igazolását arról, hogy a kérelmező a szőlő-bor ágazatban folytatott hatósági eljárásokról és teljesítendő adatszolgáltatási kötelezettségekről szóló 435/2021. (VII. 16.) Korm. rendeletben (a továbbiakban: Bkr.) meghatározott szüreti, termelési vagy készletjelentési kötelezettségének a kérelem benyújtását megelőző borpiaci évben határidőben eleget tett;
+c)[^5] a gazdasági aktát vezető hegybíró igazolását arról, hogy a kérelmező a szőlő-bor ágazatban folytatott hatósági eljárásokról és teljesítendő adatszolgáltatási kötelezettségekről szóló 435/2021. (VII. 16.) Korm. rendeletben (a továbbiakban: Bkr.) meghatározott szüreti, termelési vagy készletjelentési kötelezettségének a kérelem benyújtását megelőző borpiaci évben határidőben eleget tett;
 
 d) a kérelmező nevére kiállított működési engedély másolatát;
 
@@ -48,7 +48,7 @@ f) őstermelő, egyéni vállalkozó esetében az utolsó két év adóbevallás
 
 g) a borászati gép, technológiai berendezés nem saját tulajdonú vagy más személy rendelkezési jogával terhelt ingatlanon történő üzemeltetése esetében a Kincstár honlapján közzétett – a (4) bekezdésben meghatározott adattartalmú –, teljes bizonyító erejű magánokiratba foglalt hozzájáruló nyilatkozatot;
 
-h)[^5] három, egymástól és a kérelmezőtől független ajánlattevőtől származó, azonos vagy hasonló műszaki paraméterekkel rendelkező, funkcionálisan egyező borászati gépre, technológiai berendezésre vonatkozó, a Kincstár honlapján közzétett – az (5) bekezdésben meghatározott adattartalmú – árajánlatot;
+h)[^6] három, egymástól és a kérelmezőtől független ajánlattevőtől származó, azonos vagy hasonló műszaki paraméterekkel rendelkező, funkcionálisan egyező borászati gépre, technológiai berendezésre vonatkozó, a Kincstár honlapján közzétett – az (5) bekezdésben meghatározott adattartalmú – árajánlatot;
 
 i) a kérelmező által választott legkedvezőbb ajánlat szakmai indokolását, amelyben bemutatja a beruházás reális, takarékos, költséghatékony megvalósítását;
 
@@ -108,5 +108,6 @@ dönt.
 
 (10) A támogatási kérelem annak benyújtását követő naptól számított tíz napon belül, de legkésőbb az (1) bekezdésben meghatározott határidő végéig elektronikus úton, az elektronikus űrlapkitöltő felületen keresztül módosítható. Módosítás esetén az utolsó támogatási kérelem kerül elbírálásra, a kérelem benyújtásának időpontját az utolsó módosító kérelem benyújtásának időpontja jelenti.
 
-[^4]: A 4. § (3) bekezdés c) pontja az 51/2023. (IX. 6.) AM rendelet 10. § a) pontja szerint módosított szöveg.
-[^5]: A 4. § (3) bekezdés h) pontja a 18/2021. (IV. 14.) AM rendelet 36. §-ával megállapított szöveg.
+[^4]: A 4. § (1) bekezdés c) pontja a 152/2023. (XII. 21.) AM rendelet 29. § a) pontja szerint módosított szöveg.
+[^5]: A 4. § (3) bekezdés c) pontja az 51/2023. (IX. 6.) AM rendelet 10. § a) pontja szerint módosított szöveg.
+[^6]: A 4. § (3) bekezdés h) pontja a 18/2021. (IV. 14.) AM rendelet 36. §-ával megállapított szöveg.

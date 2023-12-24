@@ -80,6 +80,6 @@ ae) üzembehelyezési jegyzőkönyv
 
 másolati példányát és
 
-b)[^32] az angoltól eltérő idegen nyelven kiállított dokumentum esetében az Országos Fordító és Fordításhitelesítő Iroda Zártkörűen Működő Részvénytársaság által készített magyar nyelvű fordítást.
+b)[^33] az angoltól eltérő idegen nyelven kiállított dokumentum esetében az Országos Fordító és Fordításhitelesítő Iroda Zártkörűen Működő Részvénytársaság által készített magyar nyelvű fordítást.
 
-[^32]: A 11. § (7) bekezdés b) pontja az 51/2023. (IX. 6.) AM rendelet 6. §-ával megállapított szöveg.
+[^33]: A 11. § (7) bekezdés b) pontja az 51/2023. (IX. 6.) AM rendelet 6. §-ával megállapított szöveg.

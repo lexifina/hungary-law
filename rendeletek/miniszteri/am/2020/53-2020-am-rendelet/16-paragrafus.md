@@ -6,7 +6,7 @@ a) az üzemeltetési kötelezettség lejárta előtti elidegenítés, illetve a 
 
 b) ha a Kincstár az ellenőrzése során megállapítja, hogy a kérelmező a támogatási kérelemben vagy a 7. § (1) bekezdésében meghatározott időszakban benyújtott kifizetési kérelemben megjelölt borászati gép, technológiai berendezés üzemeltetésének helyén olyan borászati gépet, technológiai berendezést üzemeltet, amely megfelel a 3. § (1) bekezdés f) pont fd) alpontjában, valamint a 4. § (3) bekezdés m) pontjában meghatározottaknak, és erről a kérelmező nem nyilatkozott,
 
-c)[^33] ha a kérelmezővel szemben a borászati hatóság vagy a borászati hatáskörben eljáró vármegyei kormányhivatal a Bkr.
+c)[^34] ha a kérelmezővel szemben a borászati hatóság vagy a borászati hatáskörben eljáró vármegyei kormányhivatal a Bkr.
 
 ca) 82. § (2) bekezdés a) pontjában meghatározott jogkövetkezményt a Bkr. 82. § (2) bekezdés a) pont aa) alpontja,
 
@@ -22,4 +22,4 @@ e) ha az a közös agrárpolitika finanszírozásáról, irányításáról és 
 
 (2) Az 1308/2013/EU európai parlamenti és tanácsi rendeletből fakadó előnyök megszerzéséhez szükséges feltételeknek a jogszabályok kijátszásával történő, az 1306/2013/EU európai parlamenti és tanácsi rendelet 60. cikke szerinti mesterséges megteremtése akkor áll fenn, ha bármely természetes vagy jogi személy a 3. § (1) és (3) bekezdésében meghatározott feltételek teljesítését az arra hatáskörrel rendelkező szerv által megállapított jogellenes cselekmény megvalósításával érte el a támogatás céljával ellentétes előnyök megszerzése érdekében.
 
-[^33]: A 16. § (1) bekezdés c) pontja az 51/2023. (IX. 6.) AM rendelet 7. §-ával megállapított szöveg.
+[^34]: A 16. § (1) bekezdés c) pontja az 51/2023. (IX. 6.) AM rendelet 7. §-ával megállapított szöveg.

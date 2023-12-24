@@ -42,7 +42,7 @@ af) a borászati gép, technológiai berendezés műszaki adatait tartalmazó, a
 
 másolatát;
 
-b)[^24] a kérelmező nyilatkozatát a borászati üzem – beruházást megelőző, valamint a borászati gép, technológiai berendezés üzembe helyezését követő – erjesztő- és tárolókapacitásáról;
+b)[^25] a kérelmező nyilatkozatát a borászati üzem – beruházást megelőző, valamint a borászati gép, technológiai berendezés üzembe helyezését követő – erjesztő- és tárolókapacitásáról;
 
 c) a gazdasági aktát vezető hegybíró igazolását arról, hogy a kérelmező a 127/2009. (IX. 29.) FVM rendeletben meghatározott szüreti, termelési vagy készletjelentési kötelezettségének a kifizetési kérelem benyújtását megelőző borpiaci évben határidőben eleget tett;
 
@@ -60,7 +60,7 @@ i) a kérelmező által választott legkedvezőbb ajánlat szakmai indokolását
 
 j) a kérelmező nyilatkozatát arra vonatkozóan, hogy vizsgálta a h) pont szerinti feltétel teljesülését, és megállapította, hogy az ajánlattevő nem minősül a 272/2014. (XI. 5.) Korm. rendelet 5. melléklet 2. pont 2.3.2.5b. alpontja szerinti ajánlattevőnek, és az árajánlatban szereplő borászati gép, technológiai berendezés megfelel a 2. § (3) bekezdés b) pontjában foglaltaknak;
 
-k)[^25] az angoltól eltérő idegen nyelven kiállított dokumentum esetében az Országos Fordító és Fordításhitelesítő Iroda Zártkörűen Működő Részvénytársaság által készített magyar nyelvű fordítást;
+k)[^26] az angoltól eltérő idegen nyelven kiállított dokumentum esetében az Országos Fordító és Fordításhitelesítő Iroda Zártkörűen Működő Részvénytársaság által készített magyar nyelvű fordítást;
 
 l) a borászati gép, technológiai berendezés 2. § (3) bekezdésében foglaltaknak való megfelelés kérelmező általi bemutatását tartalmazó leírást, amely számadatokkal alátámasztja a borászati gép, technológiai berendezés beszerzésével megvalósuló beruházás indokoltságát;
 
@@ -68,8 +68,8 @@ m) a kérelmező 3. § (1) bekezdés f) pontja szerinti nyilatkozatait és
 
 n) a kérelmező nyilatkozata szerinti energiahatékonysági célokat szolgáló beruházás esetén a 8. § szerinti igazolást.
 
-(4)[^26] Az (1) bekezdés szerint benyújtott kifizetési kérelmek vonatkozásában a 3. §-ban, a 4. § (4)–(6) és (9)–(10) bekezdésében, valamint az 5. § (1)–(4) bekezdésében foglalt, a támogatási kérelemre vonatkozó rendelkezéseket a kifizetési kérelemre is alkalmazni kell.
+(4)[^27] Az (1) bekezdés szerint benyújtott kifizetési kérelmek vonatkozásában a 3. §-ban, a 4. § (4)–(6) és (9)–(10) bekezdésében, valamint az 5. § (1)–(4) bekezdésében foglalt, a támogatási kérelemre vonatkozó rendelkezéseket a kifizetési kérelemre is alkalmazni kell.
 
-[^24]: A 7. § (3) bekezdés b) pontja a 18/2021. (IV. 14.) AM rendelet 39. § (1) bekezdésével megállapított szöveg.
-[^25]: A 7. § (3) bekezdés k) pontja az 51/2023. (IX. 6.) AM rendelet 4. §-ával megállapított szöveg.
-[^26]: A 7. § (4) bekezdése a 18/2021. (IV. 14.) AM rendelet 39. § (2) bekezdésével megállapított szöveg.
+[^25]: A 7. § (3) bekezdés b) pontja a 18/2021. (IV. 14.) AM rendelet 39. § (1) bekezdésével megállapított szöveg.
+[^26]: A 7. § (3) bekezdés k) pontja az 51/2023. (IX. 6.) AM rendelet 4. §-ával megállapított szöveg.
+[^27]: A 7. § (4) bekezdése a 18/2021. (IV. 14.) AM rendelet 39. § (2) bekezdésével megállapított szöveg.

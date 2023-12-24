@@ -1,4 +1,4 @@
-## 19. §[^39] E rendeletnek az egyes agrártámogatások támogatási formáját érintő módosításokról szóló 18/2021. (IV. 14.) AM rendelettel [a továbbiakban: 18/2021. (IV. 14.) AM rendelet] megállapított 7. § (4) bekezdését a 18/2021. (IV. 14.) AM rendelet hatálybalépésekor[^40] folyamatban lévő eljárásokban is alkalmazni kell.
+## 19. §[^40] E rendeletnek az egyes agrártámogatások támogatási formáját érintő módosításokról szóló 18/2021. (IV. 14.) AM rendelettel [a továbbiakban: 18/2021. (IV. 14.) AM rendelet] megállapított 7. § (4) bekezdését a 18/2021. (IV. 14.) AM rendelet hatálybalépésekor[^41] folyamatban lévő eljárásokban is alkalmazni kell.
 
 1. melléklet az 53/2020. (X. 27.) AM rendelethez
 
@@ -280,5 +280,5 @@ Településlista
 
 138. Zsámbék
 
-[^39]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 18/2021. (IV. 14.) AM rendelet 40. §-a iktatta be.
-[^40]: A hatálybalépés időpontja 2021. április 15.
+[^40]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 18/2021. (IV. 14.) AM rendelet 40. §-a iktatta be.
+[^41]: A hatálybalépés időpontja 2021. április 15.
