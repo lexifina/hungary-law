@@ -1,9 +1,9 @@
-20. § (1)[^102] Ha a bűnjel lezárt postai küldeményként postán érkezett, azt a bűnjelkezelő két tanú (hatósági dolgozó) jelenlétében bonthatja fel. A KBR adataitól való eltérés esetén a bűnjelkezelő jegyzőkönyvet készít.
+20. § (1)[^105] Ha a bűnjel lezárt postai küldeményként postán érkezett, azt a bűnjelkezelő két tanú (hatósági dolgozó) jelenlétében bonthatja fel. A KBR adataitól való eltérés esetén a bűnjelkezelő jegyzőkönyvet készít.
 
-(2)[^103] A postán érkezett sérült könyvelt, valamint a posta által átcsomagolt bűnjelet a posta dolgozójától a bűnjelkezelő csak a posta által készített jegyzőkönyv másolati példányával együtt veheti át. Ebben az esetben a bűnjelkezelő a csomagot a posta dolgozójának jelenlétében bontja fel és annak tartalmát a KBR adataival, illetve a posta által készített jegyzőkönyvvel egyezteti. Eltérés esetén a bűnjelkezelő jegyzőkönyvet készít és azt a posta dolgozójával együtt hitelesíti.
+(2)[^106] A postán érkezett sérült könyvelt, valamint a posta által átcsomagolt bűnjelet a posta dolgozójától a bűnjelkezelő csak a posta által készített jegyzőkönyv másolati példányával együtt veheti át. Ebben az esetben a bűnjelkezelő a csomagot a posta dolgozójának jelenlétében bontja fel és annak tartalmát a KBR adataival, illetve a posta által készített jegyzőkönyvvel egyezteti. Eltérés esetén a bűnjelkezelő jegyzőkönyvet készít és azt a posta dolgozójával együtt hitelesíti.
 
-(3)[^104]
+(3)[^107]
 
-[^102]: A 20. § (1) bekezdése a 20/2020. (XII. 30.) IM rendelet 16. §-ával megállapított szöveg.
-[^103]: A 20. § (2) bekezdése a 20/2020. (XII. 30.) IM rendelet 16. §-ával megállapított szöveg.
-[^104]: A 20. § (3) bekezdését a 20/2020. (XII. 30.) IM rendelet 40. § 7. pontja hatályon kívül helyezte.
+[^105]: A 20. § (1) bekezdése a 20/2020. (XII. 30.) IM rendelet 16. §-ával megállapított szöveg.
+[^106]: A 20. § (2) bekezdése a 20/2020. (XII. 30.) IM rendelet 16. §-ával megállapított szöveg.
+[^107]: A 20. § (3) bekezdését a 20/2020. (XII. 30.) IM rendelet 40. § 7. pontja hatályon kívül helyezte.

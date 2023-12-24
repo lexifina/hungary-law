@@ -1,6 +1,6 @@
-## A bűnjel átadása és átvétele[^100]
+## A bűnjel átadása és átvétele[^103]
 
-19. §[^101] (1) Az átadó hatóság vagy bűnjelkezelő kezdeményezi a bűnjel KBR-en keresztül történő átadását, ha
+19. §[^104] (1) Az átadó hatóság vagy bűnjelkezelő kezdeményezi a bűnjel KBR-en keresztül történő átadását, ha
 
 a) a bűnjelet az átvevő hatósághoz vagy bűnjelkezelőhöz szállítja, vagy
 
@@ -28,5 +28,5 @@ b) az átvevő hatóság vagy bűnjelkezelő jegyzőkönyvet vesz fel és tiszt�
 
 (10) Nem minősül átadás-átvételnek a bűnjel meghatározott eljárási cselekmény elvégzése céljából történő ideiglenes kiadása, különösen a bizonyítási cselekményre történő kiadás vagy a szakértői vizsgálat céljából történő kiadás. A bűnjel adataiban bekövetkezett változásokat ebben az esetben a 10/B. §-ban meghatározott személy rögzíti.
 
-[^100]: A 19. §-t megelőző alcím a 20/2020. (XII. 30.) IM rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^101]: A 19. § a 20/2020. (XII. 30.) IM rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^103]: A 19. §-t megelőző alcím a 20/2020. (XII. 30.) IM rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^104]: A 19. § a 20/2020. (XII. 30.) IM rendelet 15. § (2) bekezdésével megállapított szöveg.

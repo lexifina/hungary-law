@@ -1,6 +1,6 @@
-## A bűnjel adatainak rögzítése[^81]
+## A bűnjel adatainak rögzítése[^84]
 
-11. §[^82] (1) A bűnjel adatait a lefoglalás foganatosításáról készített jegyzőkönyv vagy a létrehozásról készült jegyzőkönyv vagy feljegyzés adatai alapján kell rögzíteni a KBR-ben.
+11. §[^85] (1) A bűnjel adatait a lefoglalás foganatosításáról készített jegyzőkönyv vagy a létrehozásról készült jegyzőkönyv vagy feljegyzés adatai alapján kell rögzíteni a KBR-ben.
 
 (2) A bűnjel KBR-ben rögzített adataiban bekövetkezett változást haladéktalanul rögzíteni kell a KBR-ben.
 
@@ -12,5 +12,5 @@
 
 (6) Az (5) bekezdésben meghatározott képfelvételt lehetőség szerint a KBR-ben is rögzíteni kell. A 10. § (3) és (5) bekezdése szerinti ügyiratokat, valamint a bűnjelre vonatkozó okmányt és hatósági jelzést a bűnjel-ügyiratban kell kezelni.
 
-[^81]: A 11. §-t megelőző alcím a 20/2020. (XII. 30.) IM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^82]: A 11. § a 20/2020. (XII. 30.) IM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^84]: A 11. §-t megelőző alcím a 20/2020. (XII. 30.) IM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^85]: A 11. § a 20/2020. (XII. 30.) IM rendelet 10. § (2) bekezdésével megállapított szöveg.

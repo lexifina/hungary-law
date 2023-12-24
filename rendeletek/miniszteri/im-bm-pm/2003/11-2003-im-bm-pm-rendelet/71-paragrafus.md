@@ -1,12 +1,12 @@
-## 70. §[^233] A külföldi személy tulajdonában volt elkobzott államkölcsön-kötvényt a hatóság a Nemzetgazdasági Minisztérium Nemzetközi Pénzügyi Főosztályának adja át.
+## 70. §[^236] A külföldi személy tulajdonában volt elkobzott államkölcsön-kötvényt a hatóság a Nemzetgazdasági Minisztérium Nemzetközi Pénzügyi Főosztályának adja át.
 
 ## Ingatlan
 
-71. §[^234] (1)[^235]
+71. §[^237] (1)[^238]
 
-(2)[^236]
+(2)[^239]
 
-[^233]: A 70. § a 35/2013. (XII. 23.) KIM rendelet 11. § 4. pontja szerint módosított szöveg.
-[^234]: A 71. § a 47/2009. (IX. 28.) IRM–PM együttes rendelet 21. §-ával megállapított szöveg. E módosító rendelet 30. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^235]: A 71. § (1) bekezdését a 35/2013. (XII. 23.) KIM rendelet 12. § a) pontja hatályon kívül helyezte.
-[^236]: A 71. § (2) bekezdését a 20/2020. (XII. 30.) IM rendelet 40. § 22. pontja hatályon kívül helyezte.
+[^236]: A 70. § a 35/2013. (XII. 23.) KIM rendelet 11. § 4. pontja szerint módosított szöveg.
+[^237]: A 71. § a 47/2009. (IX. 28.) IRM–PM együttes rendelet 21. §-ával megállapított szöveg. E módosító rendelet 30. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^238]: A 71. § (1) bekezdését a 35/2013. (XII. 23.) KIM rendelet 12. § a) pontja hatályon kívül helyezte.
+[^239]: A 71. § (2) bekezdését a 20/2020. (XII. 30.) IM rendelet 40. § 22. pontja hatályon kívül helyezte.

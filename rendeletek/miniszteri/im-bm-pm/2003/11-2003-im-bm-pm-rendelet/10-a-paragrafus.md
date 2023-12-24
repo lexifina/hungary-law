@@ -1,6 +1,6 @@
-## A bűnjel nyilvántartása[^78]
+## A bűnjel nyilvántartása[^81]
 
-10/A. §[^79] (1) A bűnjel adatait és azok változását a KBR-ben kell nyilvántartani. A KBR-ben a bűnjelhez tartozó adatokat és azok változását – a nyomon követhetőséget biztosító – egyedi bűnjelszám azonosítja.
+10/A. §[^82] (1) A bűnjel adatait és azok változását a KBR-ben kell nyilvántartani. A KBR-ben a bűnjelhez tartozó adatokat és azok változását – a nyomon követhetőséget biztosító – egyedi bűnjelszám azonosítja.
 
 (2) A KBR-be csak a hatóság határozata, jegyzőkönyve, más ügyirata, valamint e rendelet rendelkezései alapján rögzíthető adat.
 
@@ -32,5 +32,5 @@ i) a bűnjel kezelése szempontjából jelentős további körülményeket, kül
 
 (7) A bűnjelkezelés során a hatóság és a bűnjelkezelő e rendeletben meghatározottak szerint készít ügyiratot (a továbbiakban: bűnjel-ügyirat) és gondoskodik annak megőrzéséről.
 
-[^78]: A 10/A. §-t megelőző alcímet a 20/2020. (XII. 30.) IM rendelet 9. §-a iktatta be.
-[^79]: A 10/A. §-t a 20/2020. (XII. 30.) IM rendelet 9. §-a iktatta be.
+[^81]: A 10/A. §-t megelőző alcímet a 20/2020. (XII. 30.) IM rendelet 9. §-a iktatta be.
+[^82]: A 10/A. §-t a 20/2020. (XII. 30.) IM rendelet 9. §-a iktatta be.

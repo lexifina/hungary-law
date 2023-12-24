@@ -1,3 +1,3 @@
-58. §[^206]
+58. §[^209]
 
-[^206]: Az 58. §-t a 20/2020. (XII. 30.) IM rendelet 40. § 19. pontja hatályon kívül helyezte.
+[^209]: Az 58. §-t a 20/2020. (XII. 30.) IM rendelet 40. § 19. pontja hatályon kívül helyezte.

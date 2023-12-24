@@ -1,7 +1,7 @@
 ## VII. Fejezet
 
-## SZABÁLYSÉRTÉSI ÜGYBEN ALKALMAZANDÓ KÜLÖN RENDELKEZÉSEK[^296]
+## SZABÁLYSÉRTÉSI ÜGYBEN ALKALMAZANDÓ KÜLÖN RENDELKEZÉSEK[^299]
 
 ## Általános rendelkezés
 
-[^296]: A VII. fejezet címe a 35/2013. (XII. 23.) KIM rendelet 11. § 9. pontja szerint módosított szöveg.
+[^299]: A VII. fejezet címe a 35/2013. (XII. 23.) KIM rendelet 11. § 9. pontja szerint módosított szöveg.

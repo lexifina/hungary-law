@@ -8,7 +8,7 @@ a) a BGH megnevezését és számlaszámát, amelyre az átutalást teljesíti,
 
 b) az ügy számát,
 
-c)[^207] az átvett bűnjel egyedi bűnjelszámát,
+c)[^210] az átvett bűnjel egyedi bűnjelszámát,
 
 d) az általa fizetendő ellenértéket,
 
@@ -16,4 +16,4 @@ e) saját megnevezését, számlaszámát, cégszerű aláírását és bélyegz
 
 (3) Egy átvételi elismervényen csak az ugyanabban az ügyben elkobzott bűnjeleket szabad feltüntetni.
 
-[^207]: A 60. § (2) bekezdés c) pontja a 20/2020. (XII. 30.) IM rendelet 39. § 34. pontja szerint módosított szöveg.
+[^210]: A 60. § (2) bekezdés c) pontja a 20/2020. (XII. 30.) IM rendelet 39. § 34. pontja szerint módosított szöveg.

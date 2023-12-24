@@ -1,7 +1,7 @@
-## IV. Fejezet[^132]
+## IV. Fejezet[^135]
 
 ## A BŰNJEL ELŐZETES ÉRTÉKESÍTÉSE, MEGVÁLTÁSA, VISSZAADÁSA, MEGSEMMISÍTÉSE
 
 ## A bűnjel előzetes értékesítése
 
-[^132]: A IV. fejezet címe a 17/2018. (VI. 27.) IM rendelet 25. §-ával megállapított szöveg.
+[^135]: A IV. fejezet címe a 17/2018. (VI. 27.) IM rendelet 25. §-ával megállapított szöveg.
