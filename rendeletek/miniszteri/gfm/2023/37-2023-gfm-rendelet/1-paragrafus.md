@@ -1,3 +1,3 @@
-1. § A Kártalanítási Alap javára teljesített befizetéseknek, az Alap kezelésének és az Alap kezelője eredményelszámolásának szabályairól szóló 47/2011. (XII. 21.) NGM rendelet 1. § (1) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(1) A Kártalanítási Alap (a továbbiakban: Alap) kezelője gépjármű-kategóriánként az utolsó rendelkezésre álló éves káradatok alapján állapítja meg az adott évet illető befizetésekre alkalmazandó, átlagkárral korrigált kockázati szorzót, és azokról az adott év első hónapjának végéig tájékoztatja a Magyarországon székhellyel rendelkező biztosítót (a továbbiakban: biztosító).”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
