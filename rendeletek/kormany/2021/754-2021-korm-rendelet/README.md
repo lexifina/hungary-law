@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-754-20-
 | 2022-01-06 | 2021-754-20-22.2 | 2021. évi I. törvény |
 | 2022-06-01 | 2021-754-20-22.3 | 2021. évi I. törvény |
 | 2022-11-01 | 2021-754-20-22.4 | 2021. évi I. törvény |
+| 2023-12-24 | 2021-754-20-22.5 | 635/2023. (XII. 23.) Korm. rendelet |
