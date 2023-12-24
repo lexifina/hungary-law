@@ -1,3 +1,5 @@
-12. számú melléklet a 44/2000. (XII. 27.) EüM rendelethez[^64]
+12. számú melléklet a 44/2000. (XII. 27.) EüM rendelethez[^61]
 
-[^64]: A 12. számú melléklet a 21/2012. (IV. 4.) NEFMI rendelet 41. § (2) bekezdésével megállapított, a 44/2016. (XII. 28.) EMMI rendelet 19. §-a, a 45/2022. (XII. 20.) BM rendelet 19. § b) pontja szerint módosított szöveg.
+Mérgezési eset bejelentőlap
+
+[^61]: A 12. számú melléklet a 75/2023. (XII. 23.) BM rendelet 3. §-ával megállapított szöveg.

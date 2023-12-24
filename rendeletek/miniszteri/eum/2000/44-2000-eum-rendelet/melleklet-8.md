@@ -1,18 +1,3 @@
-8. számú melléklet a 44/2000. (XII. 27.) EüM rendelethez[^59]
+8. számú melléklet a 44/2000. (XII. 27.) EüM rendelethez[^57]
 
-A veszélyes anyagok magyarországi jegyzéke egyes tételeinek adattartalma
-
-1.[^60] Azonosítási jel
-
-2. Anyag kémiai megnevezése
-
-3. CAS-szám (ha van)
-
-4. EU-szám (ha van)
-
-5. Veszély jel (jelek), a veszély jellegére utaló R-mondatok, valamint az 1272/2008/EK európai parlamenti és tanácsi rendelet szerinti veszélyességi osztály/kategória kódja (kódjai) és a figyelmeztető, H mondat (mondatok) száma (számai)
-
-6. Az 1272/2008/EK európai parlamenti és tanácsi rendelet szerinti óvintézkedésre utaló P mondat (mondatok) száma (számai)
-
-[^59]: A 8. számú melléklet a 25/2010. (V. 12.) EüM rendelet 1. § (10) bekezdésével megállapított szöveg.
-[^60]: A 8. számú melléklet 1. pontja a 23/2015. (IV. 28.) EMMI rendelet 29. § b) pontja, az 54/2016. (XII. 30.) EMMI rendelet 17. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^57]: A 8. számú mellékletet a 75/2023. (XII. 23.) BM rendelet 4. § d) pontja hatályon kívül helyezte.

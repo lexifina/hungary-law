@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-44-20-0
 | 2020-11-18 | 2000-44-20-0B.29 | 41/2020. (XI. 17.) EMMI rendelet |
 | 2022-12-28 | 2000-44-20-0B.31 | 52/2022. (XII. 27.) BM rendelet |
 | 2023-01-01 | 2000-44-20-0B.30 | 21/2012. (IV. 4.) NEFMI rendelet |
+| 2023-12-24 | 2000-44-20-0B.32 | 75/2023. (XII. 23.) BM rendelet |

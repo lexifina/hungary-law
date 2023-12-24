@@ -1,4 +1,4 @@
-## Veszélyes anyagokkal, illetve veszélyes keverékekkel végzett tevékenység és abban bekövetkezett változás járási hivatalnak történő elektronikus bejelentése
+## Veszélyes anyagokkal, illetve veszélyes keverékekkel végzett tevékenység és abban bekövetkezett változás elektronikus bejelentése
 
 ## 1. Tevékenységet végző (cég)
 
@@ -74,6 +74,6 @@
 
 ## b) 2001. január 1-jétől bejelentés nélkül vagy érvényes engedély nélkül végzett tevékenység kémiai terhelési bírsággal sújtható.
 
-14. számú melléklet a 44/2000. (XII. 27.) EüM rendelethez[^66]
+14. számú melléklet a 44/2000. (XII. 27.) EüM rendelethez[^63]
 
-[^66]: A 14. számú mellékletet az 1/2009. (I. 30.) EüM rendelet 3. § (6) bekezdésének b) pontja hatályon kívül helyezte.
+[^63]: A 14. számú mellékletet az 1/2009. (I. 30.) EüM rendelet 3. § (6) bekezdésének b) pontja hatályon kívül helyezte.
