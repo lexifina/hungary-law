@@ -1,1 +1,0 @@
-8. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba; rendelkezéseit azokra a megkeresésekre és megbízásokra kell alkalmazni, amelyek a hatálybalépést követően érkeznek a Szerzői Jogi Szakértő Testülethez.
