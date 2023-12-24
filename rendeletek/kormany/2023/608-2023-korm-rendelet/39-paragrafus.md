@@ -1,1 +1,3 @@
-39. § Hatályát veszti a hadiipari kutatással, fejlesztéssel, gyártással és kereskedelemmel összefüggő kiberbiztonsági tanúsításról szóló 718/2021. (XII. 20.) Korm. rendelet.
+39. §[^1]
+
+[^1]: A 39. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
