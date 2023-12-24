@@ -8,7 +8,7 @@ a) a bíróság, a bírósági végrehajtó, az adóhatóság, a nemzetbiztonsá
 
 b) az ügyészség a közérdekvédelmi feladatai ellátásához,
 
-c) a jegyző a hagyatéki leltár elkészítéséhez, a közjegyző a hagyatéki eljárás lefolytatásához,
+c) a jegyző a hagyatéki leltár elkészítéséhez vagy a közjegyző a hagyatéki eljárás lefolytatásához, illetve az örökhagyó tulajdonában álló magyarországi ingatlan adatainak a külföldi hagyatéki eljárás céljára történő tanúsításához,
 
 d) a mezőgazdasági igazgatási szerv, valamint az ingatlanügyi hatóság az Fftv. szerinti hatósági eljárásaihoz,
 
