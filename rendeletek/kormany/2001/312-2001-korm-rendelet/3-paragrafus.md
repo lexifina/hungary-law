@@ -2,7 +2,7 @@
 
 a) mint biztosított
 
-aa) a külkereskedelmi tevékenységet folytató belföldi gazdálkodó szervezet,
+aa)[^34] a külkereskedelmi tevékenységet folytató gazdálkodó szervezet,
 
 ab) a külföldi vállalkozásba közvetlenül vagy közvetetten befektető belföldi gazdálkodó szervezet, abban az esetben, ha a Mehib Zrt. kockázatviselése az egyéb módozat alá tartozó ügyletre terjed ki,
 
@@ -15,3 +15,4 @@ b) a külföldi székhelyű biztosító mint viszontbiztosított vagy viszontbiz
 c) a belföldi székhelyű biztosító mint viszontbiztosított.
 
 [^33]: A 3. § a 126/2020. (IV. 16.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^34]: A 3. § a) pont aa) alpontja a 630/2023. (XII. 23.) Korm. rendelet 18. § c) pontja szerint módosított szöveg.
