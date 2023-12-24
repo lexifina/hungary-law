@@ -1,5 +1,5 @@
-12. § (1)[^32] A versenyképesség-növelő támogatásról támogatói okirat 2021. június 30-ig bocsátható ki.
+12. § (1)[^33] A versenyképesség-növelő támogatásról támogatói okirat 2021. június 30-ig bocsátható ki.
 
 (2) A versenyképesség-növelő támogatás tekintetében érvényesíteni kell az Ávr. 101. §-ában foglalt iratmegőrzési kötelezettséget.
 
-[^32]: A 12. § (1) bekezdése a 15/2020. (XI. 20.) KKM rendelet 3. §-ával megállapított szöveg.
+[^33]: A 12. § (1) bekezdése a 15/2020. (XI. 20.) KKM rendelet 3. §-ával megállapított szöveg.

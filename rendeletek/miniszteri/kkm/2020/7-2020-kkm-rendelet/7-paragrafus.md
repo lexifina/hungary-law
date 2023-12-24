@@ -1,5 +1,5 @@
-## 6. §[^27] Versenyképesség-növelő támogatás a Magyarországon székhellyel, telephellyel vagy fiókteleppel rendelkező gazdasági társaság részére nyújtható.
+## 6. §[^28] Versenyképesség-növelő támogatás a Magyarországon székhellyel, telephellyel vagy fiókteleppel rendelkező gazdasági társaság részére nyújtható.
 
 ## 6. A támogatható tevékenységek köre
 
-[^27]: A 6. § a 17/2020. (XII. 17.) KKM rendelet 6. § b) pontja szerint módosított szöveg.
+[^28]: A 6. § a 17/2020. (XII. 17.) KKM rendelet 6. § b) pontja szerint módosított szöveg.
