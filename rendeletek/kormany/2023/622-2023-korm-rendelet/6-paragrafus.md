@@ -1,5 +1,3 @@
-6. § Hatályát veszti a 165/2014. (VII. 17.) Korm. rendelet
+6. §[^7]
 
-a) 3. § (12) bekezdés f) pontja,
-
-b) 5. melléklete.
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
