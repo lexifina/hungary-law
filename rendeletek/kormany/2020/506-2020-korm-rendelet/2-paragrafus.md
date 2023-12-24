@@ -6,8 +6,10 @@
 
 (4) Az országos kórház-főigazgatót az országos kórházfőigazgató-helyettes helyettesíti.
 
-(5) Az országos kórházfőigazgató-helyettest az országos kórház-főigazgató javaslatára a miniszterelnök nevezi ki és menti fel.
+(5)[^2] Az országos kórházfőigazgató-helyettest a miniszter javaslatára a miniszterelnök nevezi ki és menti fel.
 
 (6) A (4) és (5) bekezdés alapján egyidejűleg több országos kórházfőigazgató-helyettes is kinevezhető, azzal, hogy az országos kórházfőigazgató-helyettesek – az országos kórház-főigazgató eltérő rendelkezése hiányában – az OKFŐ szervezeti és működési szabályzatában meghatározott feladatkörükben helyettesítik az országos kórház-főigazgatót.
 
 (7) Az országos kórházfőigazgató-helyettes felett az (5) bekezdésben nem szereplő munkáltatói jogokat az országos kórház-főigazgató gyakorolja.
+
+[^2]: A 2. § (5) bekezdése a 634/2023. (XII. 23.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
