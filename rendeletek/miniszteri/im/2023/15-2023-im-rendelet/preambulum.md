@@ -1,0 +1,11 @@
+A büntetőeljárásról szóló 2017. évi XC. törvény 866. § (2) bekezdés 17. pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 119. § 1. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 66. § (1) bekezdés 16. pontjában meghatározott feladatkörében eljáró belügyminiszterrel, valamint a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 148. § (1) bekezdés 2. pontjában meghatározott feladatkörében eljáró pénzügyminiszterrel egyetértésben –,
+
+a 2. alcím és a 12. § tekintetében a büntetőeljárásról szóló 2017. évi XC. törvény 866. § (2) bekezdés 5. pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 119. § 1. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 66. § (1) bekezdés 16. pontjában meghatározott feladatkörében eljáró belügyminiszterrel, valamint a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 148. § (1) bekezdés 2. pontjában meghatározott feladatkörében eljáró pénzügyminiszterrel egyetértésben –,
+
+a 3. alcím tekintetében a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény 434. § (2) bekezdés e) pontjában, valamint a büntetőeljárásról szóló 2017. évi XC. törvény 866. § (2) bekezdés 20. pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 119. § 1. pontjában meghatározott feladatkörömben eljárva,
+
+a 9–11., 13. § tekintetében a büntetőeljárásról szóló 2017. évi XC. törvény 866. § (2) bekezdés 1. pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 119. § 1. pontjában meghatározott feladatkörömben eljárva,
+
+az 5. alcím tekintetében a polgári perrendtartásról szóló 2016. évi CXXX. törvény 628. § (2) bekezdés e) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 119. § 1. pontjában meghatározott feladatkörömben eljárva
+
+a következőket rendelem el:
