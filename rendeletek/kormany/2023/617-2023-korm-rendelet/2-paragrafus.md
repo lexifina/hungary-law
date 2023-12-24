@@ -1,1 +1,3 @@
-2. § Az R. 2/B. § (1) bekezdésében a „2013. január 1-jétől 1 160” szövegrész helyébe a „2025” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
