@@ -1,0 +1,5 @@
+6. § A helyi önkormányzatok adósságrendezési eljárásáról szóló 1996. évi XXV. törvény 7. §-a helyébe a következő rendelkezés lép:
+
+„7. § (1) Ha adósságrendezési eljárás van folyamatban, a hitelező az adósságrendezési eljárás megindításának időpontjában fennálló – lejárt és le nem járt – követelését kizárólag az adósságrendezési eljárásban érvényesítheti.
+
+(2) Az (1) bekezdésben foglaltaktól eltérően az a hitelező, akinek az adósságrendezési eljárás megindításának időpontjában le nem járt tartozása van, és fennálló követelését azért nem tudta érvényesíteni, mert az adósságrendezési eljárás megindításáról az önkormányzati csődbiztos a 15. § (1a) bekezdése alapján nem értesítette, követelését az adósságrendezési eljárásban kötött egyezséget, vagy a vagyon felosztását követően hozott eljárást befejező végzés jogerőre emelkedésétől számított 2 év eltelte után érvényesítheti.”
