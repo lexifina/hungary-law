@@ -1,42 +1,59 @@
 20. § A NAV Korm. rendelet
 
-1. 3/A. § (2) bekezdésében a „kényszertörlési és adósságrendezési” szövegrész helyébe a „kényszertörlési, az adósságrendezési, a szerkezetátalakítási és a reorganizációs” szöveg,
+1. [^20]
 
-2. 3/B. § (2) bekezdés b) pontjában a „vezetője” szövegrész helyébe az „elnöke” szöveg,
+2. [^21]
 
-3. 15. § (3) bekezdésében az „az uniós vámjog végrehajtásáról szóló 2017. évi CLII. törvény (a továbbiakban: Vtv.)” szövegrész helyébe az „a Vtv.” szöveg,
+3. [^22]
 
-4. 19. § (4) és (5) bekezdésében, 22. § (2) bekezdésében, 29. § (1) bekezdés c) pontjában és 29. § (5) bekezdésében az „az állami adó- és vámhatóság vezetője” szövegrész helyébe az „a NAV elnöke” szöveg,
+4. [^23]
 
-5. 22. § (1) bekezdésében és 22. § (3) bekezdésében a „d)–i)” szövegrész helyébe a „d)–j)” szöveg,
+5. [^24]
 
-6. 22. § (1) bekezdés o) pontjában a „74. § (1) bekezdése” szövegrész helyébe a „74. § (1a) bekezdése” szöveg,
+6. [^25]
 
-7. 44. § (1) bekezdés b) pontjában a „Jöt. 43. §-a, 44. § (2) bekezdése, 45-46. §-a,” szövegrész helyébe a „Jöt. 44. §-a, 46. §-a,” szöveg,
+7. [^26]
 
-8. 44. § (2) bekezdés e) pontjában a „44. § (1) bekezdése” szövegrész helyébe a „44. §-a” szöveg,
+8. [^27]
 
-9. 56/C. §-ában a „történő ügyintézést” szövegrész helyébe a „történő egyedi ügyintézést”szöveg,
+9. [^28]
 
-10. [^15]
+10. [^29]
 
-11. 59. §-ában az „adóigazgatási rendtartásról szóló 2017. évi CLI. törvény” szövegrész helyébe az „Air.” szöveg,
+11. [^30]
 
-12. 63. § (4) bekezdésében az „az állami adó- és vámhatóság vezetőjének” szövegrész helyébe az „a NAV elnökének” szöveg,
+12. [^31]
 
-13. 68. § (1) bekezdésében a „kényszertörlési vagy végelszámolási” szövegrész helyébe a „kényszertörlési, végelszámolási, szerkezetátalakítási vagy reorganizációs” szöveg,
+13. [^32]
 
-14. 82. § (1) bekezdés nyitó szövegrészében az „Az állami adó- és vámhatóság vezetőjének a NAV bűnügyi, vámszakmai és rendészeti feladatai ellátásáért felelős szakmai helyettese (a továbbiakban: bűnügyi, vámszakmai és rendészeti feladatok ellátásáért felelős szakmai helyettes)” szövegrész helyébe az „A NAV bűnügyi és rendészeti elnökhelyettese (a továbbiakban: bűnügyi és rendészeti elnökhelyettes)” szöveg,
+14. [^33]
 
-15. 82. § (1) bekezdés a) pontjában a „közigazgatási hatósági eljárásban” szövegrész helyébe az „az általános közigazgatási rendtartás szabályai szerint” szöveg,
+15. [^34]
 
-16. 85. §-ában a „83. § c) pontja” szövegrész helyébe a „83. § b) pontja” szöveg, a „bűnügyi, vámszakmai és rendészeti feladatok ellátásáért felelős szakmai helyettes” szövegrész helyébe a „bűnügyi és rendészeti elnökhelyettes” szöveg,
+16. [^35]
 
-17. 90. § (1) bekezdés e) pontjában az „az állami adó- és vámhatóság vezetőjének bűnügyi, vámszakmai és rendészeti feladatai ellátásáért felelős szakmai helyettesének” szövegrész helyébe az „a bűnügyi és rendészeti elnökhelyettes” szöveg,
+17. [^36]
 
-18. [^16]
+18. [^37]
 
-19. 98. § (3) bekezdésében az „a közös agrárpolitika finanszírozásáról, irányításáról és monitoringjáról és a 352/78/EGK, a 165/94/EK, a 2799/98/EK, a 814/2000/EK, az 1290/2005/EK és a 485/2008/EK tanácsi rendelet hatályon kívül helyezéséről szóló 2013. december 17-ei 1306/2013/EU európai parlamenti és tanácsi rendelet” szövegrész helyébe az „a közös agrárpolitika finanszírozásáról, irányításáról és monitoringjáról, valamint az 1306/2013/EU rendelet hatályon kívül helyezéséről szóló 2021. december 2-i (EU) 2021/2116 európai parlamenti és tanácsi rendelet” szöveg
+19. [^38]
 
-[^15]: A 20. § 10. pontja a 44. § (3) bekezdés alapján 2024. január 21-én lép hatályba.
-[^16]: A 20. § 18. pontja a 44. § (3) bekezdés alapján 2024. január 21-én lép hatályba.
+[^20]: A 20. § 1. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 20. § 2. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 20. § 3. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 20. § 4. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 20. § 5. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 20. § 6. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 20. § 7. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 20. § 8. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 20. § 9. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 20. § 10. pontja a 44. § (3) bekezdés alapján 2024. január 21-én lép hatályba.
+[^30]: A 20. § 11. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^31]: A 20. § 12. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^32]: A 20. § 13. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^33]: A 20. § 14. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^34]: A 20. § 15. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^35]: A 20. § 16. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^36]: A 20. § 17. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^37]: A 20. § 18. pontja a 44. § (3) bekezdés alapján 2024. január 21-én lép hatályba.
+[^38]: A 20. § 19. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

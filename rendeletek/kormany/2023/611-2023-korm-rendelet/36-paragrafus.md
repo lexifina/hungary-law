@@ -1,32 +1,37 @@
 36. § (1) Az Adóig. vhr.
 
-1. [^31]
+1. [^64]
 
-2. 38. § (3) bekezdés c) pontjában és 66. § (3) bekezdésében az „a Magyar Államkincstár” szövegrész helyébe az „a Kincstár” szöveg,
+2. [^65]
 
-3. 66. § (1) bekezdésében az „a Magyar Államkincstár a XLII. Költségvetés” szövegrész helyébe az „a Kincstár a XLII. Költségvetés” szöveg,
+3. [^66]
 
-4. 85. § (2) bekezdésében az „a)–c) pontjában” szövegrész helyébe a „b) és c) pontjában” szöveg,
+4. [^67]
 
-5. [^32]
+5. [^68]
 
-6. [^33]
+6. [^69]
 
-7. [^34]
+7. [^70]
 
-8. [^35]
+8. [^71]
 
-9. 110. § (1) bekezdésében és 116. § (1) bekezdésében a „Pénzügyminisztérium Magyar Államkincstárnál vezetett” szövegrész helyébe a „Pénzügyminisztérium Kincstárnál vezetett” szöveg,
+9. [^72]
 
-10. 111. § (1) bekezdés e) pontjában a „kérelem elutasítása vagy visszavonása esetén” szövegrész helyébe a „kérelem visszautasítása, az eljárás megszüntetése vagy a kérelem elutasítása esetén” szöveg
+10. [^73]
 
 ## lép.
 
-(2) [^36]
+(2) [^74]
 
-[^31]: A 36. § (1) bekezdés 1. pontja a 44. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
-[^32]: A 36. § (1) bekezdés 5. pontja a 44. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
-[^33]: A 36. § (1) bekezdés 6. pontja a 44. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
-[^34]: A 36. § (1) bekezdés 7. pontja a 44. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
-[^35]: A 36. § (1) bekezdés 8. pontja a 44. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
-[^36]: A 36. § (2) bekezdése a 44. § (5) bekezdés alapján 2024. november 1-jén lép hatályba.
+[^64]: A 36. § (1) bekezdés 1. pontja a 44. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^65]: A 36. § (1) bekezdés 2. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^66]: A 36. § (1) bekezdés 3. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^67]: A 36. § (1) bekezdés 4. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^68]: A 36. § (1) bekezdés 5. pontja a 44. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^69]: A 36. § (1) bekezdés 6. pontja a 44. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^70]: A 36. § (1) bekezdés 7. pontja a 44. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^71]: A 36. § (1) bekezdés 8. pontja a 44. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^72]: A 36. § (1) bekezdés 9. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^73]: A 36. § (1) bekezdés 10. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^74]: A 36. § (2) bekezdése a 44. § (5) bekezdés alapján 2024. november 1-jén lép hatályba.

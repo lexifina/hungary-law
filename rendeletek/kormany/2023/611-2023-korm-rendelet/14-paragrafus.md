@@ -1,3 +1,3 @@
-14. §[^10]
+14. §[^14]
 
-[^10]: A 14. § a 44. § (3) bekezdés alapján 2024. január 21-én lép hatályba.
+[^14]: A 14. § a 44. § (3) bekezdés alapján 2024. január 21-én lép hatályba.

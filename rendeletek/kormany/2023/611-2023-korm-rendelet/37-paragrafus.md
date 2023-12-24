@@ -1,9 +1,3 @@
-37. § Hatályát veszti az Adóig. vhr.
+37. §[^75]
 
-1. 18. § (8) és (9) bekezdése,
-
-2. 27/B. § (1) bekezdés 7. pontja,
-
-3. 13/C. alcíme,
-
-4. 127. §-a.
+[^75]: A 37. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-34. §[^30]
+34. §[^62]
 
-[^30]: A 34. § a 44. § (3) bekezdés alapján 2024. január 21-én lép hatályba.
+[^62]: A 34. § a 44. § (3) bekezdés alapján 2024. január 21-én lép hatályba.

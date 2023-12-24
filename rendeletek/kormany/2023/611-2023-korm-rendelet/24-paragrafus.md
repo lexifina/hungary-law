@@ -1,3 +1,3 @@
-24. §[^22]
+24. §[^52]
 
-[^22]: A 24. § a 44. § (3) bekezdés alapján 2024. január 21-én lép hatályba.
+[^52]: A 24. § a 44. § (3) bekezdés alapján 2024. január 21-én lép hatályba.

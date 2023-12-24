@@ -1,3 +1,3 @@
-27. §[^25]
+27. §[^55]
 
-[^25]: A 27. § a 44. § (3) bekezdés alapján 2024. január 21-én lép hatályba.
+[^55]: A 27. § a 44. § (3) bekezdés alapján 2024. január 21-én lép hatályba.

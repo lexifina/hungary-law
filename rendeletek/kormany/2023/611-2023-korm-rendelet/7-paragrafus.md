@@ -1,3 +1,3 @@
-7. § A NAV Korm. rendelet 29. § (7) bekezdése helyébe a következő rendelkezés lép:
+7. §[^7]
 
-„(7) Jogszabályi rendelkezés szerint kiállított bírósági értesítés alapján az a vármegyei igazgatóság írja elő az illetékkötelezettséget, amelynek illetékességi területén az adós lakóhelye (székhelye) van. Ha a bírósági értesítés alapján az illeték megfizetésére több adós egyetemlegesen kötelezett, akkor az illetékkötelezettséget az a vármegyei igazgatóság írja elő az egyetemlegesen kötelezett adóstársaknak, amelynek illetékességi területén annak az adósnak a lakóhelye (székhelye) van, akinek a nevére kiállított bírósági értesítést az adóhatóság elsőként nyilvántartásba vette. Ha minden fizetésre kötelezettnek az ország területén kívül van a lakóhelye (székhelye), az illetéket az a vármegyei igazgatóság írja elő, amelynek illetékességi területén az értesítést kiállító szerv székhelye van.”
+[^7]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
