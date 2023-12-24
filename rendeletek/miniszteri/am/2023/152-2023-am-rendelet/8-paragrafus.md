@@ -1,0 +1,1 @@
+8. § A támogatási összeg meghatározásakor a forintra történő átszámításnál a támogatás kifizetése pénzügyi évének első napján érvényes, az Európai Központi Bank által közzétett devizaárfolyamot kell alkalmazni.
