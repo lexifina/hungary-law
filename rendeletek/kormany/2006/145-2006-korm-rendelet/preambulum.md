@@ -1,1 +1,0 @@
-A bányászatról szóló 1993. évi XLVIII. törvény 22. §-ának (4) bekezdésében, valamint 50/A. §-a (1) bekezdésének b), e), i), j), k) pontjaiban kapott felhatalmazás alapján a Kormány a következőket rendeli el:
