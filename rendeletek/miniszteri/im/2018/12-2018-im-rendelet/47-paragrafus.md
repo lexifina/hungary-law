@@ -14,9 +14,9 @@ b) az ügyirat képének közvetítését.
 
 (5) Ha az eljárási cselekmény helyszínén több kamera elhelyezésére kerül sor, az elkülönített helyszínen lehetőség szerint biztosítani kell valamennyi kamera felvételének egyidejű közvetítését, ebből a célból több közvetítő készülék vagy a kamerafelvételek egyidejű megjelenítésére alkalmas közvetítő készülék is alkalmazható.
 
-(6)[^51] Ha a telekommunikációs eszköz használata esetén több elkülönített helyszínnel létesül összeköttetés, az egyes elkülönített helyszíneken lehetőség szerint – az (5) bekezdésben meghatározott módon – biztosítani kell valamennyi elkülönített helyszínen elhelyezett kamera felvételének egyidejű közvetítését.
+(6)[^55] Ha a telekommunikációs eszköz használata esetén több elkülönített helyszínnel létesül összeköttetés, az egyes elkülönített helyszíneken lehetőség szerint – az (5) bekezdésben meghatározott módon – biztosítani kell valamennyi elkülönített helyszínen elhelyezett kamera felvételének egyidejű közvetítését.
 
-(7)[^52] Az eljárási cselekménynek nem akadálya, ha az eljárási cselekmény helyszínéről, illetve a többi elkülönített helyszínről továbbított kamerafelvételek egyidejű észlelése nem biztosítható, azonban az elkülönített helyszínen ebben az esetben is biztosítani kell a vallomást vagy nyilatkozatot tevő személy közvetlen figyelemmel kísérését lehetővé tevő kamerafelvétel észlelését.
+(7)[^56] Az eljárási cselekménynek nem akadálya, ha az eljárási cselekmény helyszínéről, illetve a többi elkülönített helyszínről továbbított kamerafelvételek egyidejű észlelése nem biztosítható, azonban az elkülönített helyszínen ebben az esetben is biztosítani kell a vallomást vagy nyilatkozatot tevő személy közvetlen figyelemmel kísérését lehetővé tevő kamerafelvétel észlelését.
 
-[^51]: A 47. § (6) bekezdését a 20/2020. (XII. 30.) IM rendelet 139. §-a iktatta be.
-[^52]: A 47. § (7) bekezdését a 20/2020. (XII. 30.) IM rendelet 139. §-a iktatta be.
+[^55]: A 47. § (6) bekezdését a 20/2020. (XII. 30.) IM rendelet 139. §-a iktatta be.
+[^56]: A 47. § (7) bekezdését a 20/2020. (XII. 30.) IM rendelet 139. §-a iktatta be.

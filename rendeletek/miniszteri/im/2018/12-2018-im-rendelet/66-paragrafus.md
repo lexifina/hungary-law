@@ -14,4 +14,8 @@ d) a büntetőeljárás során gyanúsított vagy vádlott gyermekek részére n
 
 e) a büntetőeljárás során az ártatlanság vélelme egyes vonatkozásainak és a tárgyaláson való jelenlét jogának erősítéséről szóló, 2016. március 9-i (EU) 2016/343 parlamenti és tanácsi irányelvnek
 
+f)[^67] a gyermekek szexuális bántalmazása, szexuális kizsákmányolása és a gyermekpornográfia elleni küzdelemről szóló 2011/93/EU európai parlamenti és tanácsi irányelvnek
+
 való megfelelést szolgálja.
+
+[^67]: A 66. § f) pontját a 15/2023. (X. 24.) IM rendelet 13. §-a iktatta be.

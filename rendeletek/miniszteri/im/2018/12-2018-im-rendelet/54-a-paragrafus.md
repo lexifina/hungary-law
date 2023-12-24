@@ -1,6 +1,6 @@
 ## 54. § E Fejezet szabályait kell megfelelően alkalmazni, ha az eljárási cselekményen alkalmazott telekommunikációs eszköz használata kizárólag folyamatos hangfelvétel útján valósul meg.
 
-## 29/A. [^57] Egyszerűsített telekommunikációs jelenlét
+## 29/A. [^61] Egyszerűsített telekommunikációs jelenlét
 
 54/A. § (1) Az egyszerűsített telekommunikációs jelenlét esetén a 45–54. § rendelkezéseit az ezen alcímben meghatározott eltérésekkel kell alkalmazni.
 
@@ -14,4 +14,4 @@ b) biztosítja, hogy rajta kívül az elkülönített helyszínen csak olyan sze
 
 c) együttműködik az eljárási cselekményt lefolytató bírósággal, ügyészséggel vagy nyomozó hatósággal az eljárási cselekmény egyszerűsített telekommunikációs jelenléttel való szabályszerű lefolytatása, valamint az önkéntesség és befolyásmentesség ellenőrzése érdekében.
 
-[^57]: A 29/A. alcímet (54/A–54/E. §) a 12/2022. (IV. 26.) IM rendelet 63. §-a iktatta be.
+[^61]: A 29/A. alcímet (54/A–54/E. §) a 12/2022. (IV. 26.) IM rendelet 63. §-a iktatta be.

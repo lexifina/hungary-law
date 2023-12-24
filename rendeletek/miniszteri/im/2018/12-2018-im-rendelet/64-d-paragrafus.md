@@ -1,0 +1,1 @@
+64/D. § Az elfogatóparancs alapján történő előállítással felmerült költséget megállapító, további jogorvoslattal nem támadható határozat alapján a bűnügyi költségek előlegezéséről szóló 11/2018. (VI. 12.) IM rendelet 4. §-ában meghatározottak érdekében haladéktalanul intézkedni kell.

@@ -15,3 +15,7 @@ a) a sértettel vagy a tanúval történő első kapcsolatba kerüléskor erre u
 b) a különleges bánásmód megállapítására irányuló indítványt a bíróság, az ügyészség vagy a nyomozó hatóság korábban elutasította, vagy
 
 c) a különleges bánásmód megállapítását a sértett vagy a tanú visszautasította.
+
+(4)[^7] Ha a sértett életkora nem állapítható meg, de megalapozottan feltehető, hogy a tizennyolcadik életévét nem töltötte be, akkor őt a különleges bánásmód biztosítása szempontjából tizennyolcadik életévét be nem töltött személynek kell tekinteni.
+
+[^7]: A 7. § (4) bekezdését a 15/2023. (X. 24.) IM rendelet 9. §-a iktatta be.

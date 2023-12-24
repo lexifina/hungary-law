@@ -1,4 +1,4 @@
-2. melléklet a 12/2018. (VI. 12.) IM rendelethez[^64]
+2. melléklet a 12/2018. (VI. 12.) IM rendelethez[^70]
 
 Polgári jogi igény előterjesztésére vonatkozó nyomtatvány adattartalma
 
@@ -108,4 +108,4 @@ Polgári jogi igény előterjesztésére vonatkozó nyomtatvány adattartalma
 
 11. A polgári jogi igény előterjesztésének kelte, az előterjesztő aláírása
 
-[^64]: A 2. mellékletet a 18/2020. (XII. 29.) IM rendelet 19. §-a iktatta be.
+[^70]: A 2. mellékletet a 18/2020. (XII. 29.) IM rendelet 19. §-a iktatta be.

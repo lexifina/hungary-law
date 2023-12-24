@@ -1,6 +1,6 @@
 ## 32. § A Védelmi Programban részt vevő személy számára a Tanúvédelmi Szolgálat útján, illetve katona számára az elöljárója útján történő postai kézbesítés esetén a Tanúvédelmi Szolgálatot, illetve az elöljárót fel kell hívni, hogy a címzett általi átvétel megtörténtét, valamint az átvétel időpontját igazoló iratot küldje vissza. Ebből a célból az ügyirathoz megfelelően kitöltött kézbesítési ív vagy tértivevény csatolható.
 
-## 16/A. [^31] Kézbesítés egyszerűsített elektronikus úton
+## 16/A. [^35] Kézbesítés egyszerűsített elektronikus úton
 
 32/A. § (1) Egyszerűsített elektronikus úton a kézbesítés a címzett olyan elektronikus levelezési címére vagy más elektronikus elérhetőségére (a továbbiakban együtt: elektronikus elérhetőség) teljesíthető, amelyet az eljárás során bejelentett, ennek hiányában amelyről a bíróságnak, az ügyészségnek vagy a nyomozó hatóságnak hivatalos tudomása van.
 
@@ -26,4 +26,4 @@ teheti meg.
 
 (7) Az (5) bekezdés b) pontjában meghatározott címzetti nyilatkozattétel napjának azt a napot kell tekinteni, amely napon az elektronikus elérhetőségről megküldött írásbeli nyilatkozat a bírósághoz, az ügyészséghez vagy a nyomozó hatósághoz megérkezett, vagy az írásbeli nyilatkozatot postára adták.
 
-[^31]: A 16/A. alcímet (32/A. §) a 12/2022. (IV. 26.) IM rendelet 62. §-a iktatta be.
+[^35]: A 16/A. alcímet (32/A. §) a 12/2022. (IV. 26.) IM rendelet 62. §-a iktatta be.

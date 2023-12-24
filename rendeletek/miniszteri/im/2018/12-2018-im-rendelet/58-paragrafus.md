@@ -2,7 +2,7 @@
 
 58. § (1) Az eljárási cselekmény megkezdése előtt az eljárási cselekmény vezetője tájékoztatja a jelen lévő személyeket, hogy az eljárási cselekményről kép- és hangfelvétel készül.
 
-(1a)[^58] Ha a Be. 360/A. §-a alapján az eljárási cselekményről a jegyzőkönyv nem egyidejűleg készül, az eljárási cselekmény megkezdését követően az eljárási cselekmény vezetője tájékoztatja a jelen lévő személyeket
+(1a)[^62] Ha a Be. 360/A. §-a alapján az eljárási cselekményről a jegyzőkönyv nem egyidejűleg készül, az eljárási cselekmény megkezdését követően az eljárási cselekmény vezetője tájékoztatja a jelen lévő személyeket
 
 a) ennek tényéről,
 
@@ -18,4 +18,4 @@ b) a kép- és hangfelvétel készítése megkezdésének és befejezésének id
 
 c) a kép- és hangfelvétel megismerésére vonatkozó tájékoztatás megtörténtét.
 
-[^58]: Az 58. § (1a) bekezdését a 12/2022. (IV. 26.) IM rendelet 64. §-a iktatta be.
+[^62]: Az 58. § (1a) bekezdését a 12/2022. (IV. 26.) IM rendelet 64. §-a iktatta be.
