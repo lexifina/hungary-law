@@ -1,5 +1,0 @@
-A Rendőrségről szóló 1994. évi XXXIV. törvény 101. § (2) bekezdés a) pont aa) alpontjában, a büntetőeljárásról szóló 1998. évi XIX. törvény 604. § (7) bekezdésében, a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 250. § (2) bekezdés f) pontjában, valamint a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény 434. § (5) bekezdésében kapott felhatalmazás alapján,
-
-a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 21. § 22. és 23. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 79. § 1. pontjában meghatározott feladatkörében eljáró igazságügyi miniszterrel, valamint a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 90. § 2. pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben –,
-
-a következőket rendelem el:
