@@ -1,26 +1,26 @@
 |  | A | B |
 
-| 1 | Raktározás, szállítást kiegészítő tevékenység (52) | 5210 Raktározás, tárolás |
+| 1 | Raktározás, szállítást kiegészítő tevékenység (52) | 52.10 Raktározás, tárolás |
 
-| 2 | Információ-technológiai szolgáltatás (62) | 6201 Számítógépes programozás 6202 Információ-technológiai szaktanácsadás 6203 Számítógép-üzemeltetés 6209 Egyéb információ-technológiai szolgáltatás |
+| 2 | Információ-technológiai szolgáltatás (62) | 62.01 Számítógépes programozás 62.02 Információ-technológiai szaktanácsadás 62.03 Számítógép-üzemeltetés 62.09 Egyéb információ-technológiai szolgáltatás |
 
-| 3 | Információs szolgáltatás (63) | 6311 Adatfeldolgozás, web-hoszting szolgáltatás 6399 M. n. s. egyéb információs szolgáltatás |
+| 3 | Információs szolgáltatás (63) | 63.11 Adatfeldolgozás, web-hoszting szolgáltatás 63.99 M. n. s. egyéb információs szolgáltatás |
 
-| 4 | Jogi, számviteli, adószakértői tevékenység (69) | 6910 Jogi tevékenység 6920 Számviteli, könyvvizsgálói, adószakértői tevékenység |
+| 4 | Jogi, számviteli, adószakértői tevékenység (69) | 69.10 Jogi tevékenység 69.20 Számviteli, könyvvizsgálói, adószakértői tevékenység |
 
-| 5 | Üzletvezetési, vezetői tanácsadás (70) | 7022 Üzletviteli, egyéb vezetési tanácsadás |
+| 5 | Üzletvezetési, vezetői tanácsadás (70) | 70.22 Üzletviteli, egyéb vezetési tanácsadás |
 
-| 6 | Mérnöki és építészmérnöki tevékenység; műszaki vizsgálat, elemzés (71) | 7112 Mérnöki tevékenység, műszaki tanácsadás |
+| 6 | Mérnöki és építészmérnöki tevékenység; műszaki vizsgálat, elemzés (71) | 71.12 Mérnöki tevékenység, műszaki tanácsadás |
 
-| 7 | Tudományos kutatás, fejlesztés (72) | 7211 Biotechnológiai kutatás, fejlesztés 7219 Egyéb természettudományi, műszaki kutatás, fejlesztés 7220 Társadalomtudományi, humán kutatás, fejlesztés |
+| 7 | Tudományos kutatás, fejlesztés (72) | 72.11 Biotechnológiai kutatás, fejlesztés 72.19 Egyéb természettudományi, műszaki kutatás, fejlesztés 72.20 Társadalomtudományi, humán kutatás, fejlesztés |
 
-| 8 | Reklám, piackutatás (73) | 7320 Piac-, közvélemény-kutatás 7810 Munkaközvetítés |
+| 8 | Reklám, piackutatás (73) | 73.20 Piac-, közvélemény-kutatás 78.10 Munkaközvetítés |
 
-| 9 | Adminisztratív, kiegészítő egyéb üzleti szolgáltatás (82) | 8211 Összetett adminisztratív szolgáltatás 8220 Telefoninformáció 8299 M. n. s. egyéb kiegészítő üzleti szolgáltatás |
+| 9 | Adminisztratív-, kiegészítő egyéb üzleti szolgáltatás (82) | 82.11 Összetett adminisztratív szolgáltatás 82.20 Telefoninformáció 82.99 M. n. s. egyéb kiegészítő üzleti szolgáltatás |
 
-2. melléklet a 210/2014. (VIII. 27.) Korm. rendelethez[^262]
+2. melléklet a 210/2014. (VIII. 27.) Korm. rendelethez[^320]
 
-Az energiahatékonysági beruházási, a megújuló energiatermelési beruházási és a korlátozott összegű támogatásban részesíthető tevékenységek felsorolása TEÁOR’08 kód szerint
+Az energiahatékonysági beruházási, a megújuló energia előállítására és tárolására, valamint a megújuló hidrogén előállítására irányuló beruházási támogatásban részesíthető tevékenységek felsorolása TEÁOR’08 kód szerint[^321]
 
 | 1. | 101 Húsfeldolgozás, -tartósítás, húskészítmény gyártása |
 
@@ -114,9 +114,9 @@ Az energiahatékonysági beruházási, a megújuló energiatermelési beruházá
 
 | 46. | 239 Egyéb csiszolótermék és nemfém ásványi termék gyártása m.n.s. |
 
-| 47. | 241 Vas-, acél-, vasötvözet-alapanyag gyártása |
+| 47.[^322] |  |
 
-| 48. | 242 Acélcsőgyártás |
+| 48.[^323] |  |
 
 | 49. | 243 Egyéb kohászati termék gyártása acélból |
 
@@ -212,4 +212,7 @@ Az energiahatékonysági beruházási, a megújuló energiatermelési beruházá
 
 | 95. | 332 Ipari gép, berendezés üzembe helyezése |
 
-[^262]: A 2. mellékletet a 416/2022. (X. 26.) Korm. rendelet 5. §-a iktatta be.
+[^320]: A 2. mellékletet a 416/2022. (X. 26.) Korm. rendelet 5. §-a iktatta be.
+[^321]: A 2. melléklet címe a 632/2023. (XII. 23.) Korm. rendelet 28. § (2) bekezdésével megállapított szöveg.
+[^322]: A 2. mellékletben foglalt táblázat 47. sorát a 632/2023. (XII. 23.) Korm. rendelet 32. § i) pontja hatályon kívül helyezte.
+[^323]: A 2. mellékletben foglalt táblázat 48. sorát a 632/2023. (XII. 23.) Korm. rendelet 32. § i) pontja hatályon kívül helyezte.

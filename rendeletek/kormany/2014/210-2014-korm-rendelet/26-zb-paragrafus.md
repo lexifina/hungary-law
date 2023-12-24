@@ -1,3 +1,3 @@
-## 15/S. Az energiahatékonysági beruházási támogatás biztosítékai
+## 15/S.
 
-26/ZB. § A kedvezményezett az Ávr. 84. § (2) bekezdés a) pontja szerinti biztosíték rendelkezésre bocsátására köteles.
+26/ZB. §

@@ -2,6 +2,8 @@
 
 26/ZR. § (1) A támogatást – a (2) bekezdésben foglalt kivétellel – az elszámolható költségek felmerülése alapján utólag, teljesítésarányosan, forintban kell kifizetni.
 
-(2) A támogatási szerződés hatálybalépését követően a kedvezményezett a támogatás 50%-ának megfelelő összegű előlegre jogosult.
+(2)[^251]
 
 (3) Az energia termelési beruházási támogatás kifizetésének ütemezését a támogatási szerződés határozza meg.
+
+[^251]: A 26/ZR. § (2) bekezdését a 632/2023. (XII. 23.) Korm. rendelet 32. § h) pontja hatályon kívül helyezte.

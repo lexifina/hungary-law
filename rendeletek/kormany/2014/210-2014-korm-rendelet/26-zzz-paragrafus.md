@@ -1,0 +1,1 @@
+26/ZZZ. § A támogatás a 9/A. § (1)–(5) bekezdésében foglalt feltételeket teljesítő beruházásra is igénybe vehető, azzal, hogy ha a főberuházás elszámolható költségét a 17. § (2) bekezdés a) pontja alapján állapítják meg, az újonnan létesített munkahelyek száma el kell, hogy érje a 10-et, azzal, hogy 2. § (1) bekezdés c) pontja alapján támogatást odaítélni nem lehet.

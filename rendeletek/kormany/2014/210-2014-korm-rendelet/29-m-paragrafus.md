@@ -1,14 +1,14 @@
-## 29/L. §[^235] E rendeletnek a beruházás ösztönzési célelőirányzat felhasználásáról szóló 210/2014. (VIII. 27.) Korm. rendelet módosításáról szóló 720/2021. (XII. 20.) Korm. rendelettel (a továbbiakban: Módr9.) megállapított rendelkezéseit – a Rendelet 9. § (1) bekezdés g) pontjában meghatározott szállodaépítési beruházásokkal kapcsolatos hatályon kívül helyezett rendelkezései kivételével – a Módr9. hatálybalépését[^236] megelőzően benyújtott támogatási kérelemmel indult eljárásokban is alkalmazni kell, amennyiben a Módr9. hatálybalépéséig az adott támogatási szerződés megkötésére még nem került sor.
+## 29/L. §[^289] E rendeletnek a beruházás ösztönzési célelőirányzat felhasználásáról szóló 210/2014. (VIII. 27.) Korm. rendelet módosításáról szóló 720/2021. (XII. 20.) Korm. rendelettel (a továbbiakban: Módr9.) megállapított rendelkezéseit – a Rendelet 9. § (1) bekezdés g) pontjában meghatározott szállodaépítési beruházásokkal kapcsolatos hatályon kívül helyezett rendelkezései kivételével – a Módr9. hatálybalépését[^290] megelőzően benyújtott támogatási kérelemmel indult eljárásokban is alkalmazni kell, amennyiben a Módr9. hatálybalépéséig az adott támogatási szerződés megkötésére még nem került sor.
 
-29/M. §[^237] (1) E rendeletnek a beruházás ösztönzési célelőirányzat felhasználásáról szóló 210/2014. (VIII. 27.) Korm. rendelet módosításáról szóló 310/2022. (VIII. 11.) Korm. rendelettel (a továbbiakban: Módr10.) megállapított rendelkezéseit – a (2)–(4) bekezdés kivételével – a Módr10. hatálybalépését[^238] követően benyújtott támogatási kérelemmel indult eljárásokban kell alkalmazni.
+29/M. §[^291] (1) E rendeletnek a beruházás ösztönzési célelőirányzat felhasználásáról szóló 210/2014. (VIII. 27.) Korm. rendelet módosításáról szóló 310/2022. (VIII. 11.) Korm. rendelettel (a továbbiakban: Módr10.) megállapított rendelkezéseit – a (2)–(4) bekezdés kivételével – a Módr10. hatálybalépését[^292] követően benyújtott támogatási kérelemmel indult eljárásokban kell alkalmazni.
 
-(2) A Módr10. 1. § (1) és (3) bekezdésében, 6. § (1)–(4) bekezdésében, 7. §-ában, 9. §-ában, 10. §-ában, 12. § b)–e) pontjában, 13. § c) és d) pontjában, valamint 13. § f)–j) pontjában megállapított rendelkezéseket a Módr10. hatálybalépésekor[^239] folyamatban lévő ügyekben, továbbá a már megkötött és hatályban lévő támogatási szerződésekben is alkalmazni kell.
+(2) A Módr10. 1. § (1) és (3) bekezdésében, 6. § (1)–(4) bekezdésében, 7. §-ában, 9. §-ában, 10. §-ában, 12. § b)–e) pontjában, 13. § c) és d) pontjában, valamint 13. § f)–j) pontjában megállapított rendelkezéseket a Módr10. hatálybalépésekor[^293] folyamatban lévő ügyekben, továbbá a már megkötött és hatályban lévő támogatási szerződésekben is alkalmazni kell.
 
-(3) A Módr10. 1. § (2) és (4) bekezdésében, 3. és 4. §-ában, 6. § (5) bekezdésében, 12. § a) pontjában, 13. § a) és b) pontjában, 13. § e) pontjában, valamint 13. § k) pontjában megállapított rendelkezéseket a Módr10. hatálybalépésekor[^240] folyamatban lévő olyan ügyekben is alkalmazni kell, ahol a támogatás nyújtására a 2. § (1) bekezdés c) pontja alapján kerül sor, és a támogatási kérelmet a beruházó 2021. december 31-ét követően nyújtotta be.
+(3) A Módr10. 1. § (2) és (4) bekezdésében, 3. és 4. §-ában, 6. § (5) bekezdésében, 12. § a) pontjában, 13. § a) és b) pontjában, 13. § e) pontjában, valamint 13. § k) pontjában megállapított rendelkezéseket a Módr10. hatálybalépésekor[^294] folyamatban lévő olyan ügyekben is alkalmazni kell, ahol a támogatás nyújtására a 2. § (1) bekezdés c) pontja alapján kerül sor, és a támogatási kérelmet a beruházó 2021. december 31-ét követően nyújtotta be.
 
 (4) A Módr10. 1. § (5) bekezdésében, 5. §-ában és 8. §-ában megállapított rendelkezéseket alkalmazni kell
 
-a) a Módr10. hatálybalépésekor[^241] folyamatban lévő ügyekben,
+a) a Módr10. hatálybalépésekor[^295] folyamatban lévő ügyekben,
 
 b) e rendeletnek a Módr5. által hatályon kívül helyezett 9. § (1) bekezdés h) pontján alapuló technológiaintenzív beruházások támogatása tárgyában, a Módr10. hatálybalépésekor folyamatban lévő és a már megkötött támogatási szerződésekre, továbbá
 
@@ -20,10 +20,10 @@ cb) az újonnan létesített munkahelyek számába az átlagos statisztikai áll
 
 minden esetben akkor, ha a támogatás nyújtására a 2. § (1) bekezdés a) vagy c) pontja alapján kerül vagy került sor, és az elszámolható költségeket a 17. § (2) bekezdés a) pontja szerint állapították meg.
 
-[^235]: A 29/L. §-t a 720/2021. (XII. 20.) Korm. rendelet 6. §-a iktatta be.
-[^236]: A hatálybalépés időpontja 2022. január 1.
-[^237]: A 29/M. §-t a 310/2022. (VIII. 11.) Korm. rendelet 11. §-a iktatta be.
-[^238]: A hatálybalépés időpontja 2022. augusztus 12.
-[^239]: A hatálybalépés időpontja 2022. augusztus 12.
-[^240]: A hatálybalépés időpontja 2022. augusztus 12.
-[^241]: A hatálybalépés időpontja 2022. augusztus 12.
+[^289]: A 29/L. §-t a 720/2021. (XII. 20.) Korm. rendelet 6. §-a iktatta be.
+[^290]: A hatálybalépés időpontja 2022. január 1.
+[^291]: A 29/M. §-t a 310/2022. (VIII. 11.) Korm. rendelet 11. §-a iktatta be.
+[^292]: A hatálybalépés időpontja 2022. augusztus 12.
+[^293]: A hatálybalépés időpontja 2022. augusztus 12.
+[^294]: A hatálybalépés időpontja 2022. augusztus 12.
+[^295]: A hatálybalépés időpontja 2022. augusztus 12.

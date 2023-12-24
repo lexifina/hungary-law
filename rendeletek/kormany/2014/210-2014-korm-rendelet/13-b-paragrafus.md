@@ -1,1 +1,3 @@
-## 13/A. § A támogatási intenzitás legfeljebb huszonöt százalék.
+13/B. §[^129] A támogatás nem haladhatja meg beruházónként és kutatás-fejlesztési projektenként a 9. § (2) bekezdése szerinti árfolyamon számolva jelenértéken a 25 millió eurónak megfelelő forintösszeget.
+
+[^129]: A 13/B. § a 632/2023. (XII. 23.) Korm. rendelet 29. § k) pontja szerint módosított szöveg.

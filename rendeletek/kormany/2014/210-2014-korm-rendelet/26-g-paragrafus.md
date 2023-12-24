@@ -4,12 +4,13 @@
 
 (2) A támogatási intenzitás kiszámítása során valamennyi felhasznált számadatot az adók vagy egyéb illetékek levonása előtt kell figyelembe venni.
 
-(3)[^189] A képzési támogatás mértéke a támogatással érintett képzésben részt vevő személyenként legfeljebb 5 ezer eurónak megfelelő forintösszeg, azzal, hogy
+(3)[^216] A képzési támogatás mértéke a támogatással érintett képzésben részt vevő személyenként legfeljebb 5 ezer eurónak megfelelő forintösszeg, azzal, hogy
 
-a) a támogatás mértéke nem haladhatja meg képzési projektenként a 2 millió eurónak megfelelő forintösszeget, és
+a)[^217] a támogatás mértéke nem haladhatja meg képzési projektenként a 3 millió eurónak megfelelő forintösszeget, és
 
 b) egyetlen képzési projektnek kell tekinteni a kérelemben szereplő képzési projektet és a kérelmezővel azonos jogi személynek minősülő kérelmező által a kérelemben szereplő projekt megkezdésétől számított 24 hónapos időszakon belül megkezdett, e rendelet szerinti képzési támogatásban részesülő képzési projektet.
 
 (4) A (3) bekezdésben foglaltak figyelembevételével meghatározott összeg forintra történő átszámítása során a támogatási kérelem benyújtását megelőző hónap utolsó munkanapján érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamot kell figyelembe venni.
 
-[^189]: A 26/G. § (3) bekezdése a 390/2021. (VII. 2.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^216]: A 26/G. § (3) bekezdése a 390/2021. (VII. 2.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^217]: A 26/G. § (3) bekezdés a) pontja a 632/2023. (XII. 23.) Korm. rendelet 29. § q) pontja szerint módosított szöveg.

@@ -1,5 +1,8 @@
-## 15/V. A megújuló energia termelési beruházási támogatásban részesíthetők köre, a megújuló energia termelési beruházási támogatás területi hatálya
+## 15/V.[^231] A támogatásban részesíthetők köre, a támogatás területi hatálya
 
-26/ZG. § (1) A megújuló energiatermelési beruházási támogatás (e fejezet alkalmazásában a továbbiakban: támogatás) Magyarországon székhellyel, fiókteleppel vagy telephellyel rendelkező olyan nagyvállalkozásnak minősülő gazdasági társaság részére nyújtható, amely a 26/ZO. § (2) bekezdése szerinti regisztrációkor legalább egy lezárt üzleti évvel rendelkezik.
+26/ZG. § (1)[^232] A megújuló energia előállítására és tárolására, valamint megújuló hidrogén előállítására irányuló termelési beruházási támogatás (e fejezet alkalmazásában a továbbiakban: támogatás) Magyarországon székhellyel, fiókteleppel vagy telephellyel rendelkező olyan nagyvállalkozásnak minősülő gazdasági társaság részére nyújtható, amely a 26/ZO. § (2) bekezdése szerinti regisztrációkor legalább egy lezárt üzleti évvel rendelkezik.
 
 (2) A támogatás Magyarország egész területén igénybe vehető.
+
+[^231]: A 15/V. alcím címe a 632/2023. (XII. 23.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^232]: A 26/ZG. § (1) bekezdése a 632/2023. (XII. 23.) Korm. rendelet 29. § t) pontja szerint módosított szöveg.

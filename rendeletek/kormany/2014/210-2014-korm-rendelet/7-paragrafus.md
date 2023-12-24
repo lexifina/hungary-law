@@ -2,7 +2,7 @@
 
 ## 6. A támogatható tevékenységek köre
 
-## 7. §[^59] Támogatás a 8. §-ban meghatározottak kivételével bármely iparágban és gazdasági területen megvalósuló beruházáshoz, illetve kutatás-fejlesztési projektekhez nyújtható, de a támogatás meghatározásakor előnyt élveznek a kutatás-fejlesztési projektek, illetve az alábbi iparágakban és gazdasági területen megvalósuló beruházások:
+## 7. §[^70] Támogatás a 8. §-ban meghatározottak kivételével bármely iparágban és gazdasági területen megvalósuló beruházáshoz, illetve kutatás-fejlesztési projektekhez nyújtható, de a támogatás meghatározásakor előnyt élveznek a kutatás-fejlesztési projektek, illetve az alábbi iparágakban és gazdasági területen megvalósuló beruházások:
 
 a) biotechnológiai ipar,
 
@@ -20,4 +20,4 @@ g) élelmiszeripar,
 
 h) tudás-intenzív regionális szolgáltató központok létesítése vagy bővítése.
 
-[^59]: A 7. § a 426/2016. (XII. 15.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^70]: A 7. § a 426/2016. (XII. 15.) Korm. rendelet 3. §-ával megállapított szöveg.
