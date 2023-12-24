@@ -1,3 +1,3 @@
-3. § Az R. a következő 69. §-sal egészül ki:
+3. §[^4]
 
-„69. § E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 625/2023. (XII. 22.) Korm. rendelettel (a továbbiakban: Módr61.) módosított 1. § (2a) és (7) bekezdését, 3. § (3) és (5) bekezdését, 3/A. §-át, 5. § (2) bekezdését, 7/F. §-át és 7/R. §-át, valamint megállapított 3/B. §-át, 5/A. §-át és a 2. mellékletbenfoglalt táblázat 100. és 101. sorát a Módr61. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
