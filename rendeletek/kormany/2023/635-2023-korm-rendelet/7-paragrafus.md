@@ -1,3 +1,3 @@
-7. § A Korm. rendelet 8. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
+7. §[^8]
 
-(A kimutatás tartalmazza)
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## „b) a 4. § (1) bekezdése szerinti kérelem tekintetében a villamosenergia-termelő részére elfogadott tárgyévi üzleti tervet.”
+9. §[^10]
 
-9. § A Korm. rendelet 1. melléklete helyébe az 1. melléklet lép.
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
