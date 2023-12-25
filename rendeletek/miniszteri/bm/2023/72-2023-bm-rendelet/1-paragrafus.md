@@ -1,1 +1,3 @@
-1. § Hatályát veszti az egészségügyi szolgáltatónál képződő hulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló 12/2017. (VI. 12.) EMMI rendelet 8. § (1) bekezdésében az „A speciális egészségügyi veszélyes hulladék fertőtlenítésekor az országos környezetvédelmi hatóság által engedélyezett technológia alkalmazható.” szövegrész.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
