@@ -1,1 +1,3 @@
-3. § A 44/2000. (XII. 27.) EüM rendelet 12. melléklete helyébe az 1. melléklet lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

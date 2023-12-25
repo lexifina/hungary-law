@@ -1,11 +1,3 @@
-4. § Hatályát veszti a 44/2000. (XII. 27.) EüM rendelet
+4. §[^5]
 
-a) 1. § (2) bekezdése,
-
-b) 8. § (2) bekezdésében az „a veszélyes anyagokról országos nyilvántartást,” szövegrész,
-
-c) 5. melléklet 1., 2., 5. és 6. pontja,
-
-d) 8. melléklete,
-
-e) 13. melléklet címében a „járási hivatalnak történő” szövegrész.
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
