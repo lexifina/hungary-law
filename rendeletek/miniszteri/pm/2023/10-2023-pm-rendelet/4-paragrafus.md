@@ -1,3 +1,3 @@
-4. § Az R. 54. §-a a következő d)–f) ponttal egészül ki:
+4. §[^4]
 
-(Ez a rendelet)
+[^4]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
