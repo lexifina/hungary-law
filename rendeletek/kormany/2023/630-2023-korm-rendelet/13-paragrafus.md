@@ -1,3 +1,3 @@
-13. § Az R. 18. § (5) bekezdés b) pontja helyébe a következő rendelkezés lép:
+13. §[^14]
 
-(Ha ugyanazon adóssal szemben biztosított és nem biztosított követelés is fennáll, a költségek és a kármegtérülések biztosító és biztosított közötti megosztására és elszámolására az alábbi szabályokat kell alkalmazni:)
+[^14]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
