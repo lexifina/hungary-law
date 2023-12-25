@@ -1,3 +1,3 @@
-16. § A Rendelet 26/ZI. §-a helyébe a következő rendelkezés lép:
+16. §[^17]
 
-„26/ZI. § A támogatás megújuló energia előállítására és tárolására, valamint megújuló hidrogén előállítására irányuló, a 2. mellékletben szereplő tevékenységekhez kapcsolódó beruházásokhoz vehető igénybe.”
+[^17]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

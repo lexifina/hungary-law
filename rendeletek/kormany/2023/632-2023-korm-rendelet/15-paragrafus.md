@@ -1,3 +1,3 @@
-15. § A Rendelet 15/X. alcím címe helyébe a következő rendelkezés lép:
+15. §[^16]
 
-„15/X. A támogatás célja és szempontrendszere”
+[^16]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

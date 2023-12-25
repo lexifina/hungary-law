@@ -1,3 +1,3 @@
-5. § A Rendelet 9/B. § (5) bekezdés b) pontja helyébe a következő rendelkezés lép:
+5. §[^6]
 
-(A kiegészítő energetikai beruházás)
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

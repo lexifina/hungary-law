@@ -1,3 +1,3 @@
-28. § (1) A Rendelet 1. melléklete helyébe az 1. melléklet lép.
+28. §[^29]
 
-(2) A Rendelet 2. melléklete a 2. melléklet szerint módosul.
+[^29]: A 28. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

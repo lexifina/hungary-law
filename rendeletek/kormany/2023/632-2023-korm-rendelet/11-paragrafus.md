@@ -1,3 +1,3 @@
-11. § A Rendelet 18. § (5) bekezdés d) pontja helyébe a következő rendelkezés lép:
+11. §[^12]
 
-(Az immateriális javaknak az alábbi feltételeknek kell megfelelniük:)
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

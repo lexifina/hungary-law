@@ -1,3 +1,3 @@
-21. § A Rendelet 26/ZZ. § (3) bekezdése helyébe a következő rendelkezés lép:
+21. §[^22]
 
-„(3) Az e rendelet alapján odaítélhető támogatás mértéke nem haladhatja meg a 2 millió eurónak megfelelő forintösszeget.”
+[^22]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

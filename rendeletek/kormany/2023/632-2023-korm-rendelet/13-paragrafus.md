@@ -1,3 +1,3 @@
-13. § A Rendelet 15/V. alcím címe helyébe a következő rendelkezés lép:
+13. §[^14]
 
-„15/V. A támogatásban részesíthetők köre, a támogatás területi hatálya”
+[^14]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

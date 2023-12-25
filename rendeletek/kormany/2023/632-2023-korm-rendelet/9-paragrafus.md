@@ -1,3 +1,3 @@
-9. § A Rendelet 16. § (1) bekezdése a következő e) és f) ponttal egészül ki:
+9. §[^10]
 
-(Ha)
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

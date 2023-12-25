@@ -1,3 +1,3 @@
-20. § A Rendelet 15/ZA. alcím címe helyébe a következő rendelkezés lép:
+20. §[^21]
 
-„15/ZA. A támogatás nyújtásának feltételei”
+[^21]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
