@@ -1,5 +1,5 @@
 ## 4. Az egyes büntetőeljárási cselekményekre és a büntetőeljárásban részt vevő személyekre vonatkozó szabályokról szóló 12/2018. (VI. 12.) IM rendelet módosítása
 
-9. § Az egyes büntetőeljárási cselekményekre és a büntetőeljárásban részt vevő személyekre vonatkozó szabályokról szóló 12/2018. (VI. 12.) IM rendelet [a továbbiakban: 12/2018. (VI. 12.) IM rendelet] 7. §-a a következő (4) bekezdéssel egészül ki:
+9. §[^10]
 
-„(4) Ha a sértett életkora nem állapítható meg, de megalapozottan feltehető, hogy a tizennyolcadik életévét nem töltötte be, akkor őt a különleges bánásmód biztosítása szempontjából tizennyolcadik életévét be nem töltött személynek kell tekinteni.”
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

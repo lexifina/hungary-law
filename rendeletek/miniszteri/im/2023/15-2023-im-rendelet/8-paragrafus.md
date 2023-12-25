@@ -1,9 +1,3 @@
-8. § A 9/2018. (VI. 11.) IM rendelet
+8. §[^9]
 
-a) 32. melléklete helyébe az 1. melléklet,
-
-b) 33. melléklete helyébe a 2. melléklet,
-
-c) 37. melléklete helyébe a 3. melléklet
-
-lép.
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

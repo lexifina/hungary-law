@@ -1,3 +1,3 @@
-13. § A 12/2018. (VI. 12.) IM rendelet 66. §-a a következő f) ponttal egészül ki:
+13. §[^14]
 
-(Ez a rendelet)
+[^14]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
