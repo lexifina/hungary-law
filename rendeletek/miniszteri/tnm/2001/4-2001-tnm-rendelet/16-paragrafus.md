@@ -1,1 +1,0 @@
-## 15. § A tényleges állományú tábornok a miniszter által adományozott jelvényt, a hivatásos állománykategóriát kifejező hímzett jelvényt a társasági zubbonyon színes hímzett kivitelben, arany alapszínben, a fehér ingen színes műselyemmel hímzett (mosható) kivitelben, sárga alapszínben viseli.
