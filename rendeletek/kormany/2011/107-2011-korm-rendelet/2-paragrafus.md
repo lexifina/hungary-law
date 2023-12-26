@@ -142,6 +142,8 @@ a támogatás megfizetésével egyidejűleg – ide nem értve a Tao. tv. 24/A. 
 
 (9)[^47] A látvány-csapatsport támogatás keretében közvetítő eljárását igénybe venni, közvetítői tevékenység ellenértékét elszámolni nem lehet.
 
+(10)[^48] A Tao. tv. 22/C. § (3a) bekezdése, valamint 24/A. § (9) bekezdése szerinti kiegészítő sportfejlesztési támogatás végső felhasználója kizárólag a Tao. tv. 22/C. § (1) bekezdése szerinti támogatott szervezet lehet.
+
 [^1]: Az 1. § a 96/2016. (V. 2.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^2]: A 2. § (1) bekezdés 1. pontja a 164/2017. (VI. 28.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: A 2. § (1) bekezdés 2. pontja az 503/2013. (XII. 29.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
@@ -189,3 +191,4 @@ a támogatás megfizetésével egyidejűleg – ide nem értve a Tao. tv. 24/A. 
 [^45]: A 2. § (7) bekezdése a 96/2016. (V. 2.) Korm. rendelet 12. § c) pontja, a 318/2018. (XII. 27.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
 [^46]: A 2. § (8) bekezdését a 268/2011. (XII. 16.) Korm. rendelet 1. § (4) bekezdése iktatta be.
 [^47]: A 2. § (9) bekezdését a 318/2018. (XII. 27.) Korm. rendelet 5. § (7) bekezdése iktatta be.
+[^48]: A 2. § (10) bekezdését a 631/2023. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
