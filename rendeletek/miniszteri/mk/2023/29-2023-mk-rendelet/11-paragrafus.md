@@ -1,0 +1,1 @@
+11. § A ruházati termékek és felszerelési cikkek megrongálódása, megsemmisülése vagy elvesztése esetén – a kártérítési felelősség megállapításától függetlenül – haladéktalanul intézkedni kell a ruházati termékek és felszerelési cikkek javításáról, pótlásáról, amelynek a költségét a polgári nemzetbiztonsági szolgálat előlegezi meg.

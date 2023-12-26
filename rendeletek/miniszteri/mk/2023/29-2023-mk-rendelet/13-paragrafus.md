@@ -1,0 +1,1 @@
+13. § A használatra kiadott munkaruházatot, továbbá a kiadott egyéni védőfelszerelést mennyiségben és értékben kell nyilvántartani. A nyilvántartás nyilvántartó lap, felszerelési lap vagy elektronikus nyilvántartás alkalmazásával vezethető.

@@ -1,0 +1,9 @@
+# 29/2023. (XII. 18.) MK rendelet
+
+a polgári nemzetbiztonsági szolgálatok hivatásos állományának ruházati ellátásáról és öltözködési szabályzatáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-29-20-7G
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2023-12-26 | 2023-29-20-7G.1 | 29/2023. (XII. 18.) MK rendelet |
