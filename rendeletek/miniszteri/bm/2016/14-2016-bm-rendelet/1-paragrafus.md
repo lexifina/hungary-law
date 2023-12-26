@@ -16,10 +16,11 @@ e) a büntetés-végrehajtási szervezet igényjogosult állományára,
 
 f) a hivatásos katasztrófavédelmi szerv igényjogosult állományára,
 
-g) az Alkotmányvédelmi Hivatal (a továbbiakban: AH), a Nemzetbiztonsági Szakszolgálat (a továbbiakban: NBSZ), valamint a Terrorelhárítási Információs és Bűnügyi Elemző Központ (a továbbiakban: TIBEK) igényjogosult állományára,
+g)[^2]
 
 h) a rendvédelmi oktatási intézmény nem hivatásos állományának ösztöndíjas hallgatóira – a tisztjelölti állomány kivételével –, tanulóira, továbbá
 
 i) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) 2. § 29. pontja szerinti szolgálati nyugdíjasokra.
 
 [^1]: Az 1. § a 20/2019. (V. 15.) BM rendelet 10. §-ával megállapított szöveg.
+[^2]: Az 1. § g) pontját a 29/2023. (XII. 18.) MK rendelet 22. § a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 20. §-át.
