@@ -1,1 +1,0 @@
-18. § A 9. § a gyermekek szexuális bántalmazása, szexuális kizsákmányolása és a gyermekpornográfia elleni küzdelemről szóló 2011/93/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
