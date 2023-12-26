@@ -1,1 +1,0 @@
-2. § A 107/2011. (VI. 30.) Korm. rendelet 10. § (2) bekezdésétől eltérően a támogatott szervezet módosítási kérelme a sportfejlesztési programot jóváhagyó határozatban nem szereplő jogcím, aljogcím támogatására is irányulhat.
