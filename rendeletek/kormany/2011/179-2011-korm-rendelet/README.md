@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-179-20-
 | 2021-01-01 | 2011-179-20-22.9 | 118/2013. (IV. 23.) Korm. rendelet |
 | 2023-04-27 | 2011-179-20-22.10 | 141/2023. (IV. 24.) Korm. rendelet |
 | 2023-09-01 | 2011-179-20-22.11 | 118/2013. (IV. 23.) Korm. rendelet |
+| 2023-12-27 | 2011-179-20-22.12 | 612/2023. (XII. 22.) Korm. rendelet |

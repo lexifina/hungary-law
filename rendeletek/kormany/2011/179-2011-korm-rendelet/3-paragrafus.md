@@ -14,7 +14,7 @@ d)[^13] a köznevelési intézmény a képzés indítását a közlekedési hat�
 
 (3)[^14]
 
-(3a)[^15] A járművezető vizsgabiztosok, a szakoktatók és az iskolavezetők képzését és továbbképzését – a közúti közlekedésről szóló 1988. évi I. törvény alapján – a KTI Közlekedéstudományi Intézet Nonprofit Korlátolt Felelősségű Társaság országosan végzi a képzésre, továbbképzésre vonatkozó ügyviteli, dokumentálási, tantervi és vizsgakövetelmények, valamint egyéb szabályzatok alapján.
+(3a)[^15] A járművezető vizsgabiztosok, a szakoktatók és az iskolavezetők képzését és továbbképzését – a közúti közlekedésről szóló 1988. évi I. törvény alapján – a KTI Magyar Közlekedéstudományi és Logisztikai Intézet Nonprofit Korlátolt Felelősségű Társaság országosan végzi a képzésre, továbbképzésre vonatkozó ügyviteli, dokumentálási, tantervi és vizsgakövetelmények, valamint egyéb szabályzatok alapján.
 
 (4) A képzési engedély alapján az ország egész területén végezhető képzés.
 
@@ -28,4 +28,4 @@ d)[^13] a köznevelési intézmény a képzés indítását a közlekedési hat�
 [^12]: A 3. § (2) bekezdés b) pontja a 118/2013. (IV. 23.) Korm. rendelet 9. § d) pontja szerint módosított szöveg.
 [^13]: A 3. § (2) bekezdés d) pontja a 118/2013. (IV. 23.) Korm. rendelet 9. § e) pontja szerint módosított szöveg.
 [^14]: A 3. § (3) bekezdése a 118/2013. (IV. 23.) Korm. rendelet 10. § (2) bekezdése alapján nem lép hatályba.
-[^15]: A 3. § (3a) bekezdését a 118/2013. (IV. 23.) Korm. rendelet 3. §-a iktatta be, szövege a 285/2018. (XII. 21.) Korm. rendelet 2. §-ával megállapított, a 248/2019. (X. 24.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^15]: A 3. § (3a) bekezdését a 118/2013. (IV. 23.) Korm. rendelet 3. §-a iktatta be, szövege a 285/2018. (XII. 21.) Korm. rendelet 2. §-ával megállapított, a 248/2019. (X. 24.) Korm. rendelet 11. § b) pontja, a 612/2023. (XII. 22.) Korm. rendelet 27. §-a szerint módosított szöveg.
