@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-176-20-
 | 2018-01-01 | 1997-176-20-22.11 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2021-07-16 | 1997-176-20-22.12 | 53/2004. (III. 31.) Korm. rendelet |
 | 2022-01-01 | 1997-176-20-22.13 | 789/2021. (XII. 27.) Korm. rendelet |
+| 2023-12-27 | 1997-176-20-22.14 | 612/2023. (XII. 22.) Korm. rendelet |

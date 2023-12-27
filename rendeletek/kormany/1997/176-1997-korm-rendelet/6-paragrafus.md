@@ -1,4 +1,4 @@
-6. §[^13] (1)[^14] A zajgátló védőövezetet a légiközlekedési hatóság határozatban jelöli ki.
+6. §[^13] (1)[^14] A zajgátló védőövezetet a repülőtér üzemben tartójának kérelmére a légiközlekedési hatóság határozatban jelöli ki.
 
 (2) Az (1) bekezdésben megjelölt határozatnak a következőket kell tartalmaznia:
 
@@ -25,7 +25,7 @@ f) a zajcsökkentés és a zajterhelés ellenőrzése érdekében a repülőtér
 (7) A környezetvédelmi hatóságnak zajvédelmi szempontból a zajgátló védőövezet kijelölésére vonatkozó határozatot kell alapul vennie a környezetvédelmi engedély kiadásánál.
 
 [^13]: A 6. § az 53/2004. (III. 31.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^14]: A 6. § (1) bekezdése a 168/2007. (VI. 28.) Korm. rendelet 5. § (1) bekezdése és a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 67. pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^14]: A 6. § (1) bekezdése a 612/2023. (XII. 22.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^15]: A repülőterek környezetében létesítendő zajgátló védőövezetek kijelölésének, hasznosításának és megszüntetésének részletes műszaki szabályairól szóló 18/1997. (X. 11.) KHVM–KTM együttes rendelet. Az állami repülőterek környezetében létesítendő zajgátló védőövezetek kijelölésének, hasznosításának és megszüntetésének részletes műszaki követelményeiről szóló 43/2002. (VIII. 12.) HM–KvVM együttes rendelet.
 [^16]: A 6. § (4) bekezdése a 159/2010. (V. 6.) Korm. rendelet 45. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 43. §-át.
 [^17]: A 6. § (6) bekezdése a 366/2004. (XII. 26.) Korm. rendelet 1. §-ával megállapított szöveg.

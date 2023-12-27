@@ -1,5 +1,3 @@
-## 20. §[^32]
-
 21. §[^33] (1) Az Lt. 39. § (2) bekezdése alapján kiadott miniszteri rendeletekben meghatározott esetekben a repülőtér üzemben tartójának a környezet zajterhelésének folyamatos megfigyelése és az előírt repülési eljárások betartásának ellenőrzése érdekében zajmonitor rendszert kell kiépítenie és üzemeltetnie.
 
 (2) Olyan repülőtér esetében, amelyen a légiforgalmi szolgáltatást a repülőtér üzemben tartójától elkülönült szervezet végzi, a zajmonitor rendszer üzemeltetéséhez szükséges repülési információkat (pl. járatazonosító, magassági jelek, futópálya-felhasználás) és a zajmonitor rendszer által előállított adatokat a repülőtér üzemben tartója és a légiforgalmi szolgáltatásért felelős szervezet köteles egymásnak kölcsönösen, térítésmentesen szolgáltatni. A kölcsönös információszolgáltatás részletes szabályait megállapodásban rögzítik, amelyet a gazdasági és közlekedési miniszter hagy jóvá.
@@ -16,7 +14,6 @@
 
 (7) A zajvédelmi bizottság összetételét, feladatát és véleményezési jogkörét, valamint működési szabályait külön jogszabály[^37] határozza meg.
 
-[^32]: A 20. §-t a 457/2017. (XII. 28.) Korm. rendelet 48. §-a hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^33]: A 21. § az 53/2004. (III. 31.) Korm. rendelet 12. §-ával megállapított szöveg.
 [^34]: A 21. § (5) bekezdése a 168/2007. (VI. 28.) Korm. rendelet 5. § (1) bekezdése szerint módosított szöveg.
 [^35]: A 21. § (5a) bekezdését a 135/2016. (VI. 10.) Korm. rendelet 1. §-a iktatta be.

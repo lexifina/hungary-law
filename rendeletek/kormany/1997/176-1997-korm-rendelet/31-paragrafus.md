@@ -1,8 +1,8 @@
-## 30. §[^52] Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+## 30. §[^53] Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
-31. §[^53] Ez a rendelet az Unió repülőterein a zajvédelemmel összefüggő üzemeltetési korlátozások bevezetésére vonatkozó szabályok és eljárások megállapításáról a kiegyensúlyozott megközelítés jegyében, valamint a 2002/30/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i, 598/2014/EU európai parlamenti és tanácsi rendelet végrehajtását szolgálja.
+31. §[^54] Ez a rendelet az Unió repülőterein a zajvédelemmel összefüggő üzemeltetési korlátozások bevezetésére vonatkozó szabályok és eljárások megállapításáról a kiegyensúlyozott megközelítés jegyében, valamint a 2002/30/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i, 598/2014/EU európai parlamenti és tanácsi rendelet végrehajtását szolgálja.
 
-Melléklet a 176/1997. (X. 11.) Korm. rendelethez[^54]
+Melléklet a 176/1997. (X. 11.) Korm. rendelethez[^55]
 
 A Budapest Liszt Ferenc Nemzetközi Repülőtéren zajgátló védőövezet hiányában betartandó előírások
 
@@ -12,7 +12,7 @@ A Budapest Liszt Ferenc Nemzetközi Repülőtéren zajgátló védőövezet hiá
 
 3. A zajcsökkentés érdekében meghatározott repülési eljárások
 
-3.1. Az 1. ábra szerinti ARR31L, ARR13L és DEP13R le- és felszállási irányokat csak korlátozott mértékben lehet igénybe venni. A repülőtéren egy negyedévben végrehajtott összes le- és felszállási művelet tekintetében az egyes irányokra a megengedett forgalomnagyság megoszlása a következő: ARR31L=10%; ARR13L=5%; DEP13R=5%. A légiforgalmi irányításnak biztosítania kell, hogy a korlátozott irányok használata során az irányokra számított százalékos értékek megengedett mértékének túllépése az ARR31L és DEP13R irányokban legfeljebb +5% legyen.
+3.1. Az 1. ábra szerinti ARR31L, ARR13L és DEP13R le- és felszállási irányokat csak korlátozott mértékben lehet igénybe venni. A repülőtéren egy negyedévben végrehajtott összes le- és felszállási művelet tekintetében az egyes irányokra a megengedett forgalomnagyság megoszlása a következő: ARR31L=10%; ARR13L=5%; DEP13R=5%. A légiforgalmi irányításnak biztosítania kell, hogy a korlátozott irányok használata során az irányokra számított százalékos értékek megengedett mértékének túllépése az ARR31L és DEP13Rirányokban legfeljebb +5% legyen.
 
 3.2. Az ARR13L leszállási irányra engedélyezett forgalomnagyság nem léphető túl. Az ARR13L irányt csak a legalább a nemzetközi polgári repülésről Chicagóban, 1944. december 7. napján aláírt Egyezmény (Chicagói Egyezmény) 16. függeléke I. kötetének 3. fejezete szerinti zaj követelményeket kielégítő repülőgépek vehetik igénybe munkanapokon a nappali időszakban (6 és 22 óra között).
 
@@ -40,6 +40,6 @@ A Budapest Liszt Ferenc Nemzetközi Repülőtéren zajgátló védőövezet hiá
 
 6. A repülőtér üzemben tartója negyedévenként köteles tájékoztatni a légiközlekedési hatóságot a forgalommegoszlás alakulásáról.
 
-[^52]: A 30. § második mondatát a 118/2008. (V. 8.) Korm. rendelet 1. § 1320. pontja hatályon kívül helyezte.
-[^53]: A 31. §-t a 135/2016. (VI. 10.) Korm. rendelet 5. §-a iktatta be.
-[^54]: A mellékletet az 53/2004. (III. 31.) Korm. rendelet 16. §-a iktatta be, szövege a 135/2016. (VI. 10.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^53]: A 30. § második mondatát a 118/2008. (V. 8.) Korm. rendelet 1. § 1320. pontja hatályon kívül helyezte.
+[^54]: A 31. §-t a 135/2016. (VI. 10.) Korm. rendelet 5. §-a iktatta be.
+[^55]: A mellékletet az 53/2004. (III. 31.) Korm. rendelet 16. §-a iktatta be, szövege a 135/2016. (VI. 10.) Korm. rendelet 6. §-ával megállapított szöveg.
