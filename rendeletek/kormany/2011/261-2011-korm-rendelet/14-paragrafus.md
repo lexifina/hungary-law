@@ -4,18 +4,18 @@
 
 (2) A kérelemben nyilatkozni kell arról, hogy a gazdálkodó szervezet, valamint a 9. § (1) bekezdésében megjelölt személyek megfelelnek a jó hírnév követelményének, a szakmai irányító ezen felül a szakmai alkalmasság követelményének is, továbbá hogy a gazdálkodó szervezet teljesíti a pénzügyi helyzettel kapcsolatos követelményeket.
 
-(3)[^39]
+(3)[^40]
 
-(3a)[^40]
+(3a)[^41]
 
-(3b)[^41] Ha a kérelmező cégjegyzékben nyilvántartott cég és képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, a közlekedési hatóság az iratot, valamint a cég cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+(3b)[^42] Ha a kérelmező cégjegyzékben nyilvántartott cég és képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, a közlekedési hatóság az iratot, valamint a cég cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
-(3c)[^42] A (3) bekezdés b) pontjában meghatározott okmányt csak abban az esetben kell csatolni, ha a közlekedési hatóság által vezetett elektronikus nyilvántartásban az igazoló okmány megléte az eljáró hatóság által nem ellenőrizhető.
+(3c)[^43] A (3) bekezdés b) pontjában meghatározott okmányt csak abban az esetben kell csatolni, ha a közlekedési hatóság által vezetett elektronikus nyilvántartásban az igazoló okmány megléte az eljáró hatóság által nem ellenőrizhető.
 
-(4)–(5)[^43]
+(4)–(5)[^44]
 
-[^39]: A 14. § (3) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 360. §-a hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^40]: A 14. § (3a) bekezdését a 228/2012. (VIII. 23.) Korm. rendelet 6. § (4) bekezdése iktatta be, hatályon kívül helyezte a 457/2017. (XII. 28.) Korm. rendelet 360. §-a. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^41]: A 14. § (3b) bekezdését a 355/2012. (XII. 13.) Korm. rendelet 45. § (2) bekezdése iktatta be, szövege a 393/2017. (XII. 13.) Korm. rendelet 40. §-a szerint módosított szöveg.
-[^42]: A 14. § (3c) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 148. § (2) bekezdése iktatta be. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^43]: A 14. § (4)–(5) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 360. §-a hatályon kívül helyezte. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^40]: A 14. § (3) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 360. §-a hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^41]: A 14. § (3a) bekezdését a 228/2012. (VIII. 23.) Korm. rendelet 6. § (4) bekezdése iktatta be, hatályon kívül helyezte a 457/2017. (XII. 28.) Korm. rendelet 360. §-a. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^42]: A 14. § (3b) bekezdését a 355/2012. (XII. 13.) Korm. rendelet 45. § (2) bekezdése iktatta be, szövege a 393/2017. (XII. 13.) Korm. rendelet 40. §-a szerint módosított szöveg.
+[^43]: A 14. § (3c) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 148. § (2) bekezdése iktatta be. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^44]: A 14. § (4)–(5) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 360. §-a hatályon kívül helyezte. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
