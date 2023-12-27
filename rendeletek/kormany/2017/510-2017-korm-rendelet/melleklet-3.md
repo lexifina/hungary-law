@@ -1,6 +1,6 @@
 3. melléklet az 510/2017. (XII. 29.) Korm. rendelethez
 
-## Csak csónakok fogadására alkalmas kikötőkre vonatkozó követelmények
+Csak csónakok fogadására alkalmas kikötőkre vonatkozó követelmények
 
 1. A kikötőnek az alábbi követelményeknek kell megfelelnie:
 

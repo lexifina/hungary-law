@@ -16,7 +16,7 @@ b) a módosított műszaki tervrészletet,
 
 c) a műszaki leírás változása esetén, módosított műszaki leírást
 
-## kell csatolni.
+kell csatolni.
 
 (3) A hajózási hatóság újonnan készített – teljes körű – műszaki tervek bemutatására kötelezheti a kérelmezőt, ha a módosítás az engedélyezett műszaki tervek több részletére terjed ki.
 
