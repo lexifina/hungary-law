@@ -4,7 +4,7 @@ a) típusengedély és
 
 b) üzembehelyezési engedély
 
-## szükséges.
+szükséges.
 
 (2) Az (1) bekezdés a) és b) pontján túl a nem interoperábilis vasúti jármű
 
@@ -16,7 +16,7 @@ c) sorozatban történő gyártásának megkezdéséhez típusengedély,
 
 d) átalakításához, korszerűsítéséhez, felújításához átalakítási engedély
 
-## szükséges.
+szükséges.
 
 (3) Az engedélyezési eljárás során a benyújtott dokumentációk alapján azt kell igazolni, hogy a vasúti jármű megfelel a működési helye szerinti pályahálózatnak és a helyhez kötött berendezéseknek, az éghajlati feltételeknek, az energiaellátási rendszernek, a jelző-, irányító- és vezérlőrendszernek, a nyomtávnak és a pályahálózatra jellemző szelvényeknek, a legnagyobb engedélyezett tengelyterhelésnek és egyéb hálózati kikötéseknek.
 

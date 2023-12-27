@@ -17,3 +17,5 @@ d) teherkocsikra, ideértve a tehergépkocsik szállítására tervezett jármű
 e) a vasúti pálya, pályahálózat és tartozékai építését és karbantartását szolgáló mobil berendezésekre és
 
 f) segély- és mentőszerelvényekbe sorozott járművekre
+
+terjed ki.

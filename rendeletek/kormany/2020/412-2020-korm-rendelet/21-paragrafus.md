@@ -1,5 +1,3 @@
-## nyújthatja be.
-
 21. § (1) A típusengedély iránti kérelemhez mellékelni kell
 
 a) előzetes típusengedéllyel rendelkező jármű esetében az 1. melléklet 4. pontjában felsorolt dokumentumokat és az igazgatási szolgáltatási díj befizetésének igazolását,

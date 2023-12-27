@@ -6,7 +6,7 @@ b) a nemzeti járműnyilvántartás tartalmának módosítása, valamint
 
 c) a vasúti jármű nyilvántartásból való törlése
 
-## iránti kérelmet.
+iránti kérelmet.
 
 (2) Az első nyilvántartásba vételhez kiállított kérelemmel együtt be kell nyújtani a magyar pályaszámmal rendelkező vasúti járművekről pályaszámonként kiállított, a hatóság honlapján közzétett adattartalommal rendelkező, a járműtípusra vonatkozó adatlapot is.
 

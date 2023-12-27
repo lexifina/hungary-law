@@ -6,7 +6,7 @@ b) a jármű megsemmisülését és
 
 c) a nemzeti vasúti járműnyilvántartásban szereplő jármű esetén az arra vonatkozó döntését, hogy a járművet már nem kívánja nyilvántartásba vetetni,
 
-## bejelenti a hatóság részére.
+bejelenti a hatóság részére.
 
 (2) Amennyiben a vasúti jármű nemzeti vasúti járműnyilvántartásban szereplő valamely szervezete – tulajdonos, üzembentartó, karbantartásért felelős szervezet – megváltozik, az új szervezet ezt haladéktalanul bejelenti a hatóság részére. A hatóság a bejelentésről értesíti a nemzeti vasúti járműnyilvántartásban bejegyzett szervezetet, és felhívja, hogy a bejelentésben foglaltakra 15 napon belül nyilatkozzon. A hatóság azt követően jegyzi be az új szervezetet a nemzeti vasúti járműnyilvántartásba, ha az előző szervezet a bejelentésben foglalt változásokat megerősítette.
 

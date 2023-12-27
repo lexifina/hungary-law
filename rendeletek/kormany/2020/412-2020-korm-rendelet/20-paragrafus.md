@@ -5,3 +5,5 @@
 a) a vasúti jármű magyarországi forgalmazója,
 
 b) EGT-tagállamok valamelyikében érvényes üzembehelyezési engedéllyel vagy azzal egyenértékű engedéllyel rendelkező vasúti jármű esetén a tulajdonos vagy magyarországi meghatalmazottja
+
+nyújthatja be.

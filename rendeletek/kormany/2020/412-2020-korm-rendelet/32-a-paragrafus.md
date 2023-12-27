@@ -8,7 +8,7 @@ b) tevékenységét a műszaki engedélyben foglaltaktól eltérően gyakorolja,
 
 c) jogszabályban meghatározott változásbejelentési kötelezettségének nem tesz eleget,
 
-## a közlekedési hatóság a műszaki engedélyben meghatározott valamennyi vagy egyes tevékenységet – több műhely esetén egyes műhelyekre vonatkozóan is – korlátozhatja, és határidő tűzésével az engedélyest a jogszerű állapot helyreállítására kötelezheti.
+a közlekedési hatóság a műszaki engedélyben meghatározott valamennyi vagy egyes tevékenységet – több műhely esetén egyes műhelyekre vonatkozóan is – korlátozhatja, és határidő tűzésével az engedélyest a jogszerű állapot helyreállítására kötelezheti.
 
 (2) Ha az (1) bekezdésben meghatározott határidőn belül a jogszerű állapot helyreállítása nem történik meg, vagy ha a közlekedési hatóság a vasúti járművek ellenőrzése során olyan, a vasúti közlekedés biztonságát vagy egyéb, az élet- és vagyonbiztonságot veszélyeztető hiányosságot állapít meg, ami a műhely szakszerűtlen munkavégzésére vezethető vissza, az engedélyes valamennyi vagy egyes tevékenységét – több műhely esetén egyes műhelyekre vonatkozóan is – felfüggeszti a jogszerű állapot helyreállításáig.
 

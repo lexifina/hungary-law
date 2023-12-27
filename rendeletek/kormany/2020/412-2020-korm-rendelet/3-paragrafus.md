@@ -10,7 +10,7 @@ a) forgalomba hozatali járműengedély és
 
 b) járműtípus-engedély
 
-## szükséges.
+szükséges.
 
 (2)[^1] Az interoperábilis vasúti jármű beszerzésére, korszerűsítésére, valamint átalakítására vonatkozó közbeszerzési eljárás megindítását megelőzően a közbeszerzési eljárás alapján megkötendő szerződés műszaki feltételeinek igazolására elvi előzetes típusengedély szükséges.
 
@@ -22,7 +22,7 @@ b) a nem magyarországi pályaszámú, TEN, RIV vagy RIC jellel – kivéve az e
 
 c) a rendkívüli küldeményként közlekedő
 
-## vasúti jármű belföldi vasúti hálózaton való közlekedtetéséhez.
+vasúti jármű belföldi vasúti hálózaton való közlekedtetéséhez.
 
 (4)[^2] A vasúti jármű üzembentartója, gyártója vagy tulajdonosa kérelmére a hatóság megvizsgálja
 
@@ -30,7 +30,7 @@ a) a belföldi vasúti pályahálózaton való közlekedtetésre szánt – a ha
 
 b) a vasúti jármű átalakításához, korszerűsítéséhez szükséges műszaki feltételeket,
 
-## amely alapján az elvi előzetes típusengedélyben az átalakításra, korszerűsítésre, és a forgalombahozatalra vonatkozó műszaki feltételeket határoz meg.
+amely alapján az elvi előzetes típusengedélyben az átalakításra, korszerűsítésre, és a forgalombahozatalra vonatkozó műszaki feltételeket határoz meg.
 
 (5)[^3] Az elvi előzetes típusengedély módosítása iránti kérelmet az elvi előzetes típusengedély hatályának fennállása alatt legfeljebb egy alkalommal lehet előterjeszteni.
 
