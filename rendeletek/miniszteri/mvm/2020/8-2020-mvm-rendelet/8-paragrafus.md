@@ -1,1 +1,3 @@
-## 7. § Ha a bíróság jogerős ítéletével megállapítja a szerző, illetve a szerzői vagyoni jogok jogosultjának személyét vagy egyéb, a nyilvántartás szempontjából releváns tényeket, adatokat, a nyilatkozattételre jogosult személy bármikor kérheti a korábban bejegyzett adatok módosítását. Az erre irányuló kérelmet az üzemeltetőhöz kell benyújtani. A kérelemben meg kell jelölni a nyilvántartásban szerzői vagyoni jogok jogosultjaként szereplő, nyilatkozattételre jogosult személy nevét, valamint az építészeti alkotásnak a nyilvántartásban szereplő adatait. A kérelemhez csatolni kell a bíróság jogerős ítéletét.
+8. §[^11] A 6. és 7. § szerinti esetekben az adatokat a jogerős bírósági ítéletben foglaltak szerint a Dokumentációs Központ módosítja, az ügyszám feltüntetésével.
+
+[^11]: A 8. § a 23/2023. (XII. 19.) ÉKM rendelet 2. § c) pontja szerint módosított szöveg.

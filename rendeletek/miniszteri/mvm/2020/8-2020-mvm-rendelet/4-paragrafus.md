@@ -6,4 +6,6 @@
 
 (3) Önkéntes nyilatkozat megtétele esetén a 2. alcímben foglaltak szerint kell eljárni azzal, hogy a nyilatkozat hatályossá válásához a nyilatkozattételre jogosult személyen kívüli egyéb személy jóváhagyására – a 3. § (3) bekezdésében foglaltakat ide nem értve – nincs szükség.
 
-(4) Amennyiben az építészeti alkotáson másnak is fennáll szerzői vagyoni jogi jogosultsága, az adatok módosítását ő is kérheti. A módosítást az önkéntes nyilatkozatot tevőnek jóvá kell hagynia. Ha az önkéntes nyilatkozatot tevő a módosítással nem ért egyet, az üzemeltető a 6. és 7. § szerint jár el.
+(4)[^6] Amennyiben az építészeti alkotáson másnak is fennáll szerzői vagyoni jogi jogosultsága, az adatok módosítását ő is kérheti. A módosítást az önkéntes nyilatkozatot tevőnek jóvá kell hagynia. Ha az önkéntes nyilatkozatot tevő a módosítással nem ért egyet, a Dokumentációs Központ a 6. és 7. § szerint jár el.
+
+[^6]: A 4. § (4) bekezdése a 23/2023. (XII. 19.) ÉKM rendelet 2. § c) pontja szerint módosított szöveg.
