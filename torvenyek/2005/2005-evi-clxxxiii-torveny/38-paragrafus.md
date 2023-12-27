@@ -8,4 +8,4 @@
 
 (2) Nem vonható ki az országos törzshálózati vasúti pályák köréből a transzeurópai vasúti közlekedési hálózat részeként működő vasútvonal.
 
-(3) A kizárólag a Magyar Honvédség által honvédelmi célra használt saját célú vasúti pályahálózatok a magyar állam tulajdonában és az MH Katonai Közlekedési Központ üzemeltetésében állnak.
+(3) A kizárólag a Magyar Honvédség által honvédelmi célra használt saját célú vasúti pályahálózatok a magyar állam tulajdonában és az MH Logisztikai Támogató Parancsnokság üzemeltetésében állnak.

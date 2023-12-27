@@ -6,6 +6,6 @@
 
 (3) Ha az ügyfél a kérelmet hiányosan nyújtotta be, a vasúti igazgatási szerv a kérelem beérkezésétől számított tizenöt napon belül hiánypótlásra hívja fel.
 
-(4)
+(4) A vasúti igazgatási szerv határozata valamennyi ügyfélre nézve kötelező és azt más közigazgatási hatóság nem vizsgálhatja felül.
 
 (5) A vasúti igazgatási szerv a 9/E. § (1) bekezdése szerinti eljárásában az eljárást felfüggeszti, ha a vasúti igazgatási szerv adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan az eljárásban döntés nem hozható.

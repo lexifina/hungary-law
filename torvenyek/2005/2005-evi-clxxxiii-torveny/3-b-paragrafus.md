@@ -10,7 +10,17 @@
 
 (6) A miniszter korlátozhatja a nem az Európai Unió tagja harmadik ország vonatkozásában a vasúti pályahálózathoz való hozzáférési jogot a harmadik országból, illetve annak irányába olyan hálózatokon végzett szolgáltatások esetében, amelyek nyomtávolsága eltér a pályahálózat-működtető által működtetett vasúti hálózat általánosan alkalmazott nyomtávolságától, ha versenytorzulás jelentkezik az állam és az adott harmadik ország közötti, határokon átnyúló vasúti közlekedésben. A miniszter a korlátozás bevezetésére vonatkozó határozattervezetet benyújtja a Bizottságnak, és konzultál a többi tagállammal.
 
-(7) A miniszter látja el – az általa kijelölt szervezet útján – a vasúti közlekedés biztonságát és környezetvédelmét szolgáló kutatási, fejlesztési és koordinációs feladatokat, valamint az átjárhatósági rendszerelemek és kapcsolódási pontok rendszerszintű együttműködésének átfogó ellenőrzését, a vonatkozó európai uniós előírásoknak való teljes körű adminisztrációs megfelelésének biztosítását. A kijelölt szervezet számára – a jogszabályban meghatározott forrásból a miniszter által vezetett minisztérium igazgatása terhére – a miniszter döntése alapján támogatás is nyújtható.
+(7) A miniszter látja el – az általa kijelölt szervezet útján –
+
+a) a vasúti közlekedés biztonságát és környezetvédelmét szolgáló kutatási, fejlesztési és koordinációs feladatokat,
+
+b) az átjárhatósági rendszerelemek és kapcsolódási pontok rendszerszintű együttműködésének átfogó ellenőrzését,
+
+c) a vonatkozó európai uniós előírásoknak való teljes körű adminisztrációs megfelelés biztosítását,
+
+d) a vasúti rendszert érintő jelentős változtatások által felmerülő kockázatok kezelésének ellenőrzését.
+
+(7a) A (7) bekezdés szerinti kijelölt szervezet számára – jogszabályban meghatározott forrásból, a miniszter által vezetett minisztérium igazgatási előirányzata terhére – a miniszter döntése alapján támogatás is nyújtható.
 
 (8) Országos jelentőségű vasútvonalat működtető független pályahálózat-működtető esetében a 67/P. § (3) bekezdésében foglalt feladatokat a Vasúti Pályakapacitás-elosztó Szervezet (a továbbiakban: VPSZ) látja el a díjbeszedés kivételével, amelyet a független pályahálózat-működtető is elláthat.
 
@@ -35,3 +45,5 @@ c) a pályázaton való részvétel feltételeit (pl. részvételi díj, biztos�
 (12) A koncessziós társaság a koncesszió időtartama alatt, a koncessziós szerződés alapján, az általa létesített vagy fejlesztett, felújított, karbantartott és üzemeltetett vasúti pályahálózat használóitól nyílt hozzáférésű vasúti pályahálózat esetén hálózat-hozzáférési díjat szed, nem nyílt hozzáférésű pályahálózat esetén a vasúti pályahálózat használatáért díjat szedhet.
 
 (13) A koncessziós szerződés egy alkalommal – eredeti időtartamának legfeljebb felével – külön pályázat kiírása nélkül meghosszabbítható.
+
+(14) A miniszter megállapítja a Vasutak Együttműködési Szervezete tagállamainak vasúti társaságai között létrejött, a nemzetközi teherkocsi használati szabályokról szóló megállapodásban (a továbbiakban: PGV megállapodás) a Magyarországot megillető két szavazaton belül a PGV megállapodásban részes, Magyarországon bejegyzett vasúti társaságokat megillető részarányok meghatározásának módszerét.

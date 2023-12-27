@@ -6,6 +6,6 @@
 
 (3) Az e § szerinti eljárást követően nem kell alkalmazni
 
-a) a pályahálózat-működtető üzleti tervére vonatkozó 12–13. §-t a vasúti piac működése szempontjából stratégiai jelentőséggel nem bíró helyi és térségi vasúti pályahálózatokra,
+a) a 12–13. §-t a vasúti piac működése szempontjából stratégiai jelentőséggel nem bíró helyi és térségi vasúti pályahálózatokra,
 
-b) a nyílt hozzáférésre, a kapacitáselosztásra és a hálózat hozzáférési díjakra vonatkozó 49–67/W. §-t a vasúti piac működése szempontjából stratégiai jelentőséggel nem bíró helyi vasúti pályahálózatokra.
+b) az 50–66 §, és 67/A–67/W. §-t a vasúti piac működése szempontjából stratégiai jelentőséggel nem bíró helyi vasúti pályahálózatokra.

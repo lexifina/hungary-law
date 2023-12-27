@@ -16,6 +16,8 @@ be) a 79/B. § (1) bekezdés f) pontja szerinti jogvita esetén elrendelheti új
 
 bf) a pályahálózat-működtető részére fizetendő (elszámolandó) díjakkal kapcsolatos jogvita esetén megtiltja a jogszerűtlen ellenérték további alkalmazását, egyidejűleg megállapítja a jogszerű ellenértéket és kötelezheti a vasúti társaságot a jogszerű ellenérték alkalmazására.
 
+bg) a 79/B. § (1) bekezdés b)–d) pontjai alapján indított jogvitás eljárás esetén a vasúti igazgatási szerv határozhat úgy, hogy a döntés semmiféle változtatást nem igényel, vagy a bb) alpontban hozott döntés esetén iránymutatását a határozatba foglalja.
+
 (2) A vasúti igazgatási szerv az (1) bekezdés b) pontjában meghatározott jogkövetkezmények közül egyidejűleg többet is alkalmazhat.
 
 (3) Ha a vasúti igazgatási szerv az eljárás során más jogszabály megsértésére utaló körülményt észlel, köteles azt a hatáskörrel rendelkező hatóságnak, így különösen a Gazdasági Versenyhivatalnak (a továbbiakban: versenyhatóság) jelezni.

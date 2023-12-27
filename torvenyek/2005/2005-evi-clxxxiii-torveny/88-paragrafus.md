@@ -12,7 +12,7 @@
 
 5. a kapacitáselosztás körébe tartozó szolgáltatások nyújtására vonatkozóan a VPSZ és a pályahálózat-működtető között fennálló jogviszony feltételeit, ideértve az e szolgáltatások ellenértékeként a pályahálózat-működtető által fizetendő megbízási díj mértékét,
 
-6. a vasúti vizsgaközpont, valamint vasúti képzési módszertani központ kijelölését,
+6. a vasúti vizsgaközpont, valamint vasúti képzési módszertani központ kijelölését, a vasúti vizsgaközpont tevékenységének részletes szabályait,
 
 7. a jogszabályban meghatározott vasúti munkaköröket betöltő munkavállalókkal szemben támasztott egészségügyi követelményeket és az egészségügyi vizsgálat feltételeit, valamint az egészségi alkalmasság megállapítását végző szerv vagy személyek kijelölését, az egészségi alkalmasság vizsgálatát és véleményezését végző személyek nyilvántartásának részletes szabályait,
 
@@ -68,7 +68,7 @@ rendeletben állapítsa meg.
 
 2. a vasúti tevékenység megkezdésének és folytatásának bejelentésére vonatkozó anyagi jogi szabályokat,
 
-3.
+3. a PGV megállapodásban a Magyarországon bejegyzett, a PGV megállapodásban részes vasúti társaságokat megillető két szavazat elosztásának módszerét,
 
 4. a vasúti pályahálózathoz történő nyílt hozzáférés keretében nyújtandó szolgáltatásokra, valamint az azok igénybevételére vonatkozó részletes szabályokat,
 
@@ -150,7 +150,7 @@ rendeletben állapítsa meg.
 
 36. közutaknak és magánutaknak turisztikai hajtánypálya által történő keresztezésére vonatkozó szabályokat
 
-37. a 3/B. § (7) bekezdésében meghatározott szervezet kijelölését és a szervezet által ellátandó, a vasúti közlekedés biztonságát és környezetvédelmét szolgáló kutatási, fejlesztési és koordinációs, valamint az átjárhatósági rendszerelemek és kapcsolódási pontok rendszerintegrációjának ellenőrzésére, a vonatkozó európai uniós előírásoknak való teljes körű adminisztrációs megfelelésének biztosítására vonatkozó feladatokat,
+37. a 3/B. § (7) bekezdésében meghatározott szervezet kijelölését és a szervezet által ellátandó, a vasúti közlekedés biztonságát és környezetvédelmét szolgáló kutatási, fejlesztési és koordinációs, az átjárhatósági rendszerelemek és kapcsolódási pontok rendszerintegrációjának ellenőrzésére, a vonatkozó európai uniós előírásoknak való teljes körű adminisztrációs megfelelésének biztosítására vonatkozó, továbbá a vasúti rendszert érintő jelentős változások által felmerülő kockázatok kezelésének ellenőrzésével kapcsolatos feladatokat,
 
 38.
 

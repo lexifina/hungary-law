@@ -11,3 +11,5 @@
 a) határozatának meghozatala előtt ezektől az igazgatási szervezetektől megkéri az összes szükséges információt, valamint
 
 b) a más EGT-tagállam igazgatási szervének illetékességébe tartozó eljárás esetén – a panaszkezelés vagy vizsgálat céljából – az illetékes EGT-tagállam igazgatási szervének átadja a szükséges információkat.
+
+(5) A vasúti igazgatási szerv a (4) bekezdés a) pontjában kapott információkat kizárólag a panasz elbírálása vagy a vizsgálat céljából használhatja fel a (4) bekezdés szerinti eljárásokban.
