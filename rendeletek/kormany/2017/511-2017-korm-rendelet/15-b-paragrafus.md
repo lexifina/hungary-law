@@ -20,7 +20,7 @@ g) a műhelykártyát meghamisítja, vagy
 
 h) az adatletöltési, adattovábbítási vagy adatmegőrzési kötelezettségének nem tesz eleget,
 
-## a közlekedési hatóság a műhelyt a tevékenység végzésétől első alkalommal történő elkövetés esetén 30 napig, második alkalommal történő elkövetés esetén 90 napig eltiltja.
+a közlekedési hatóság a műhelyt a tevékenység végzésétől első alkalommal történő elkövetés esetén 30 napig, második alkalommal történő elkövetés esetén 90 napig eltiltja.
 
 (4) Ha a műhelyengedélyt a közlekedési hatóság a 15/A. § f) pontja szerint visszavonja, a menetíró szerelőműhely részére újabb műhelyengedély legkorábban a visszavonásról szóló határozat véglegessé válásának napját követő egy év elteltével adható.
 

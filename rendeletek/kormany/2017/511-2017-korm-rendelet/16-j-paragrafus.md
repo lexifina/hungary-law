@@ -7,3 +7,7 @@
 (4) A muzeális jármű-igazolás valamint a muzeális jellegű járműhöz kiadott – az (1) bekezdés szerinti esetleges korlátozásokat is tartalmazó – „Műszaki Adatlap” alapján a közlekedési igazgatási hatóság a járművet a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló kormányrendelet szerinti hatósági engedéllyel és jelzéssel látja el.
 
 (5) A muzeális jellegű jármű műszaki alkalmasságának időbeli hatályát a muzeális minősítő vizsgálat során a forgalomban való részvétel feltételeként meghatározott korlátozások és a jármű fajtához e rendeletben meghatározottak alapulvételével kell megállapítani, de nem haladhatja meg az 5 évet.
+
+(6)[^19] Az első magyarországi forgalomba helyezés során muzeális járműként forgalomba helyezett járműnek a muzeális jelleg megszűnését követő ismételt forgalomba helyezésére a közúti járművek műszaki megvizsgálásról szóló miniszteri rendelet szerinti egyedi forgalomba helyezési eljárás szerint, a járműre az első magyarországi forgalomba helyezésének időpontjában hatályos egyedi forgalomba helyezési feltételek teljesülése esetén kerülhet sor.
+
+[^19]: A 16/J. § (6) bekezdését a 612/2023. (XII. 22.) Korm. rendelet 53. §-a iktatta be.
