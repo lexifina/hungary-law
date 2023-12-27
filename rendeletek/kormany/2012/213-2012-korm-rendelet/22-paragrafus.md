@@ -10,7 +10,7 @@ b) a poggyásszal kapcsolatos előírásokra és
 
 c) az igénybe vehető szolgáltatásokra
 
-## ki kell terjednie.
+ki kell terjednie.
 
 (2) A szolgáltató és az autóbusz-állomást üzemeltető az utasok tájékoztatását kiadványokkal, hirdetményekkel – ideértve a hivatalos honlapon közzétett hirdetményeket is –, a kiszolgáló személyzet által adott szóbeli tájékoztatás útján, információs berendezésekkel, szükség szerint információs szolgálattal látja el.
 

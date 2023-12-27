@@ -1,4 +1,4 @@
-## 2/A. [^6] Hatósági ellenőrzés
+## 2/A. [^2] Hatósági ellenőrzés
 
 2/A. § (1) Az autóbuszos piacfelügyeleti és utasjogi ügyben eljáró kormánytisztviselő ellenőrzési jogosultságát – a próbavásárlás vagy a próbaként történő szolgáltatás igénybevétele
 
@@ -30,4 +30,4 @@ az őket terhelő kötelezettségek tekintetében helyszíni, dokumentum alapú 
 
 (10) Az autóbuszos hatóság az engedély nélküli tevékenységet végző autóbusszal személyszállítási szolgáltatásokat végző szolgáltatók vonatkozásában indított eljárásai során jogosult az ilyen tevékenységet végzők adatait megismerni, az ilyen tevékenységet végzőket adatszolgáltatásra, nyilatkozattételre kötelezni, székhelyét és telephelyeit ellenőrizni, valamint a műszaki kérdések tekintetében a közlekedési hatóság együttműködésével az adott tevékenység ellátásához szükséges műszaki feltételek meglétét is megvizsgálni.
 
-[^6]: A 2/A. alcímet (2/A. §) az 516/2017. (XII. 29.) Korm. rendelet 25. §-a iktatta be.
+[^2]: A 2/A. alcímet (2/A. §) az 516/2017. (XII. 29.) Korm. rendelet 25. §-a iktatta be.

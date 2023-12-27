@@ -14,7 +14,7 @@ Azonos elbírálás alá eső utasok között a jelentkezés sorrendje az irány
 
 (3) Regionális és elővárosi személyszállítási szolgáltatás esetében az utasok elszállításának sorrendje a következő:
 
-a)[^7] az utazáshoz előre váltott menetjeggyel rendelkező utasok,
+a)[^3] az utazáshoz előre váltott menetjeggyel rendelkező utasok,
 
 b) bérlettel vagy más utazási okmánnyal rendelkezők,
 
@@ -24,4 +24,4 @@ Azonos elbírálás alá eső utasok között a jelentkezés sorrendje az irány
 
 (4) Helyi személyszállítási szolgáltatás esetében az utasok elszállítása érkezésük sorrendjében történik.
 
-[^7]: A 7. § (3) bekezdés a) pontja az 516/2017. (XII. 29.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^3]: A 7. § (3) bekezdés a) pontja az 516/2017. (XII. 29.) Korm. rendelet 26. §-ával megállapított szöveg.
