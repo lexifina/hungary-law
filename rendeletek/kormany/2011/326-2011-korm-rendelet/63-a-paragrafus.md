@@ -20,7 +20,7 @@ járműre,
 
 5. a jármű származás-ellenőrzési nyilvántartásba vételével egyidejűleg,
 
-6. a forgalomba helyezésre nem kötelezett lassú járművek közül a következő mezőgazdasági erőgépekre:
+6.[^332] a forgalomba helyezésre nem kötelezett lassú járművek és önjáró munkagépek közül a következő mezőgazdasági erőgépekre:
 
 a) a magajáró mezőgazdasági és erdészeti betakarító gépekre (arató-cséplő gépek, szecskázó gépek, cukorrépa betakarító gépek, zöldségbetakarító gépek, szőlőkombájnok, fakombájnok és erdészeti kiközelítők),
 
@@ -33,6 +33,8 @@ d) a speciális magajáró eszközhordozó alvázakra,
 e) a mezőgazdasági tevékenységre alkalmazandó magajáró rakodógépekre,
 
 amelyek tervezési sebességük szerint 25 km/óránál gyorsabb sebességgel haladni nem képesek, vagy amelyeknek megengedett legnagyobb sebességét a típusbizonyítvány vagy a közlekedési hatóság 25 km/óra értékben határozta meg,
+
+f) a – közlekedési hatóság által kiadott műszaki adatlap alapján – pótkocsi vontatására nem alkalmas traktorokra, amelyek tervezési sebességük szerint 40 km/óránál gyorsabb sebességgel haladni nem képesek,
 
 7. a fő tevékenysége szerint járműgyártó gazdálkodó szervezetnek az általa gyártott vagy tesztelési célból részére üzemeltetésre átadott, de forgalomba még nem helyezett járművei tesztelésére,
 
@@ -69,3 +71,4 @@ amelyek tervezési sebességük szerint 25 km/óránál gyorsabb sebességgel ha
 (7) Az „I” betűjelű ideiglenes rendszámtábla kiadásának jogalapját az ideiglenes rendszámtáblák nyilvántartásában és a forgalmi engedélyben jelölni kell.
 
 [^331]: A 15/A. alcímet (63/A. §) a 303/2021. (VI. 1.) Korm. rendelet 12. §-a iktatta be.
+[^332]: A 63/A. § (2) bekezdés 6. pontja a 613/2023. (XII. 22.) Korm. rendelet 4. §-ával megállapított szöveg.

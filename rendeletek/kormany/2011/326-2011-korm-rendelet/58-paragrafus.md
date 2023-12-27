@@ -1,10 +1,10 @@
 ## 13. egyénileg kiválasztott és az egyedileg előállított rendszámtábla
 
-58. § (1)[^297] Ha közrendbe, közerkölcsbe vagy jogszabályba nem ütközik, igazgatási szolgáltatási díj megfizetése ellenében, kérelemre engedélyezhető
+58. § (1)[^297] Igazgatási szolgáltatási díj megfizetése ellenében, kérelemre engedélyezhető
 
-a) az 53. § (2) bekezdés c) pont ca) alpontja szerinti sorozatban előállítható, de még le nem gyártott vagy legyártott de még járműre ki nem adott rendszámtábla kiválasztása (a továbbiakban: egyénileg kiválasztott rendszámtábla),
+a) az 53. § (2) bekezdés c) pont ca) alpontja szerinti sorozatban előállítható, de még le nem gyártott vagy legyártott, de még járműre ki nem adott rendszámtábla (a továbbiakban együtt: egyénileg kiválasztott rendszámtábla) kiválasztása,
 
-b) az 53. § (2) bekezdés c) pont ca) alpontja szerinti legalább 3, legfeljebb 6 folyamatos betűjelből és legalább 1, legfeljebb 4 folyamatos számjegyből, együttesen 7 jelből álló rendszámtábla legyártása és használata (a továbbiakban: egyedileg előállított rendszámtábla).
+b) ha közrendbe, közerkölcsbe vagy jogszabályba nem ütközik, az 53. § (2) bekezdés c) pont ca) alpontja szerinti legalább 3, legfeljebb 6 folyamatos betűjelből és legalább 1, legfeljebb 4 folyamatos számjegyből, együttesen 7 jelből álló rendszámtábla (a továbbiakban: egyedileg előállított rendszámtábla) legyártása és használata.
 
 (1a)[^298] Az (1) bekezdésben meghatározott egyedileg előállított és egyénileg kiválasztott rendszámtábla betűjelei helyén ékezetes magánhangzók nem állhatnak, a számjegyeinek helyén nem szerepelhet kizárólag nulla számjegyekből álló érték.
 
@@ -34,7 +34,7 @@ a) a B és a C típus felső sorában 4 karakter, alsó sorában 3 karakter hely
 
 b) az E típus felső sorában 1, középső és alsó sorában 3-3 karakter helyezkedik el.
 
-[^297]: Az 58. § (1) bekezdése a 303/2021. (VI. 1.) Korm. rendelet 9. § (1) bekezdésével megálapított szöveg.
+[^297]: Az 58. § (1) bekezdése a 612/2023. (XII. 22.) Korm. rendelet 31. §-ával megállapított szöveg.
 [^298]: Az 58. § (1a) bekezdését a 303/2021. (VI. 1.) Korm. rendelet 9. § (1) bekezdése iktatta be.
 [^299]: Az 58. § (1b) bekezdését a 303/2021. (VI. 1.) Korm. rendelet 9. § (1) bekezdése iktatta be.
 [^300]: Az 58. § (3) bekezdése a 265/2020. (VI. 11.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.

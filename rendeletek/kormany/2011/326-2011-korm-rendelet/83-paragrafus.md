@@ -1,17 +1,17 @@
-83. § (1)[^385] A törzskönyv elvesztésekor, eltulajdonításakor, megsemmisülésekor annak sorszámát a közlekedési igazgatási hatóság értesítése alapján a Nyilvántartó a Hivatalos Értesítőben és a kormányzati honlapon közzéteszi.
+83. § (1)[^386] A törzskönyv elvesztésekor, eltulajdonításakor, megsemmisülésekor annak sorszámát a közlekedési igazgatási hatóság értesítése alapján a Nyilvántartó a Hivatalos Értesítőben és a kormányzati honlapon közzéteszi.
 
-(2)[^386] A törzskönyv eltulajdonításának bejelentése esetén a rendőrségi feljelentést, az okmány elvesztésének, megsemmisülésének vagy megtalálásának bejelentése esetén az erről felvett jegyzőkönyvet okmánytári alapiratként a közlekedési igazgatási hatóság a Nyilvántartónak továbbítja. Az elektronikus úton indított törzskönyv pótlás esetében az ügyfél elektronikus úton tett nyilatkozata elektronikus úton kerül a Nyilvántartónak továbbításra.
+(2)[^387] A törzskönyv eltulajdonításának bejelentése esetén a rendőrségi feljelentést, az okmány elvesztésének, megsemmisülésének vagy megtalálásának bejelentése esetén az erről felvett jegyzőkönyvet okmánytári alapiratként a közlekedési igazgatási hatóság a Nyilvántartónak továbbítja. Az elektronikus úton indított törzskönyv pótlás esetében az ügyfél elektronikus úton tett nyilatkozata elektronikus úton kerül a Nyilvántartónak továbbításra.
 
-(3)[^387]
+(3)[^388]
 
 (4) Amennyiben a törzskönyv – megrongálódása ellenére – kétséget kizáróan azonosításra alkalmas, az új törzskönyv kiállításának kezdeményezése közzététel nélkül elvégezhető.
 
-(5)[^388] Nem kell pótolni a törzskönyvet, ha annak elvesztése, megsemmisülése, megrongálódása az átírását megelőzően történt, és a jármű tulajdonjogának jogszerű megszerzését az ügyfél az eljárásban hitelt érdemlően igazolja.
+(5)[^389] Nem kell pótolni a törzskönyvet, ha annak elvesztése, megsemmisülése, megrongálódása az átírását megelőzően történt, és a jármű tulajdonjogának jogszerű megszerzését az ügyfél az eljárásban hitelt érdemlően igazolja.
 
-(6)[^389]
+(6)[^390]
 
-[^385]: A 83. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 614. §-a, a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés b) pontja szerint módosított szöveg.
-[^386]: A 83. § (3) bekezdése a 668/2020. (XII. 28.) Korm. rendelet 28. § (4) bekezdésével megállapított szöveg.
-[^387]: A 83. § (3) bekezdését a 668/2020. (XII. 28.) Korm. rendelet 28. § (6) bekezdése hatályon kívül helyezte.
-[^388]: A 83. § (5) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 45. § 23. pontja szerint módosított szöveg.
-[^389]: A 83. § (6) bekezdését a 668/2020. (XII. 28.) Korm. rendelet 28. § (6) bekezdése hatályon kívül helyezte.
+[^386]: A 83. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 614. §-a, a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés b) pontja szerint módosított szöveg.
+[^387]: A 83. § (3) bekezdése a 668/2020. (XII. 28.) Korm. rendelet 28. § (4) bekezdésével megállapított szöveg.
+[^388]: A 83. § (3) bekezdését a 668/2020. (XII. 28.) Korm. rendelet 28. § (6) bekezdése hatályon kívül helyezte.
+[^389]: A 83. § (5) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 45. § 23. pontja szerint módosított szöveg.
+[^390]: A 83. § (6) bekezdését a 668/2020. (XII. 28.) Korm. rendelet 28. § (6) bekezdése hatályon kívül helyezte.
