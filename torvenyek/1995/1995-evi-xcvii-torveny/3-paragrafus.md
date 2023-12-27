@@ -2,7 +2,7 @@
 
 3. § (1) A légiközlekedés hatósági feladatait légiközlekedési hatóság látja el. A légiközlekedési hatóság az e törvényben, a polgári légi közlekedés területén alkalmazandó közös szabályokról és az Európai Unió Repülésbiztonsági Ügynökségének létrehozásáról és a 2111/2005/EK, az 1008/2008/EK, a 996/2010/EU, a 376/2014/EU európai parlamenti és tanácsi rendelet és a 2014/30/EU és a 2014/53/EU európai parlamenti és tanácsi irányelv módosításáról, valamint az 552/2004/EK és a 216/2008/EK európai parlamenti és tanácsi rendelet és a 3922/91/EGK tanácsi rendelet hatályon kívül helyezéséről szóló 2018. július 4-i (EU) 2018/1139 tanácsi rendeletben (a továbbiakban: 2018/1139/EU európai parlamenti és tanácsi rendelet) és annak végrehajtási rendeleteiben meghatározott feladatai ellátását az előírt feltételek teljesülése esetén minősített szervezetekre átruházhatja.
 
-(1a) Az e §-ban meghatározott eljárások tekintetében sommás eljárásnak nincs helye.
+(1a) Az e §-ban és a 33. § (1) bekezdésében meghatározott eljárások tekintetében sommás eljárásnak nincs helye.
 
 (1b) Ha a légiközlekedési hatóság által kiadott engedéllyel vagy tanúsítással kapcsolatos hivatalbóli eljárásban az ügyfél a hatóság erre irányuló felhívása ellenére – a hatóság által előírt határidőn belül – adatszolgáltatási kötelezettségét nem teljesíti, a hatóság az engedélyt vagy tanúsítást felfüggesztheti az adatszolgáltatási kötelezettség teljesítéséig. Ha a légiközlekedési hatóság által kiadott engedéllyel vagy tanúsítással kapcsolatos hivatalbóli eljárásban az ügyfél más tudomása ellenére az ügy szempontjából jelentős adatot valótlanul állít, a hatóság – az általános közigazgatási rendtartásról szóló törvényben foglalt jogkövetkezmények alkalmazásán túl – az engedélyt vagy tanúsítást egytől három évig terjedő időtartamra felfüggesztheti. Az ügyfél mindkét esetben a felfüggesztett engedélyt vagy tanúsítást köteles a hatóság számára visszaszolgáltatni.
 
@@ -50,7 +50,7 @@ m) repülésbiztonsági szervezet engedélyezése,
 
 n) az állami célú légiközlekedéssel összefüggő repülésbiztonsági szervezet engedélyezése,
 
-o) az állami légijárművekkel és a pilóta nélküli állami légijárművekkel előforduló légiközlekedési balesetekkel és repülőeseményekkel kapcsolatos közigazgatási hatósági eljárás lefolytatása,
+o)
 
 p) az állami repülések céljára szolgáló repülőtér és a közös felhasználású repülőtér létesítésének, fejlesztésének és megszüntetésének engedélyezése.
 
@@ -68,17 +68,21 @@ c) a légiközlekedési szakszemélyzet szakirányú képzéséhez, vizsgáztat�
 
 d) repülésszimulációs oktatóeszköz engedélyének kiadására és módosítására irányuló,
 
-e) a léginavigációs szolgálatok tanúsítására, valamint felügyeletére irányuló, valamint hatósági eljárásokban,
+e) a léginavigációs szolgálatok tanúsítására, valamint felügyeletére irányuló,
 
-f) a repülés-egészségügyi központok engedélyeinek kiadására és módosítására irányuló hatósági eljárásokban,
+f) a repülés-egészségügyi központok engedélyeinek kiadására és módosítására irányuló,
 
-g) az állami repülések céljára szolgáló repülőtér és a közös felhasználású repülőtér esetében a harmadik fél részére történő földi kiszolgálást végzők, valamint a saját kiszolgálásra jogosult repülőtér-használók kiválasztására irányuló hatósági eljárásokban,
+g) az állami repülések céljára szolgáló repülőtér és a közös felhasználású repülőtér esetében a harmadik fél részére történő földi kiszolgálást végzők, valamint a saját kiszolgálásra jogosult repülőtér-használók kiválasztására irányuló,
 
-h) az állami repülések céljára szolgáló repülőtér és a közös felhasználású repülőtér zajgátló védőövezetének kijelölésére irányuló hatósági eljárásokban,
+h) az állami repülések céljára szolgáló repülőtér és a közös felhasználású repülőtér zajgátló védőövezetének kijelölésére irányuló,
 
-i) az állami légiközlekedési szakszemélyzet szakirányú képzéséhez szükséges engedélyek, képző szervezet engedélyek kiadására és módosítására irányuló hatósági eljárásokban,
+i) az állami légiközlekedési szakszemélyzet szakirányú képzéséhez szükséges engedélyek, képző szervezet engedélyek kiadására és módosítására irányuló,
 
-j) állami légiközlekedési szakszemélyzet oktatására használt repülésszimulációs oktatóeszköz engedélyének kiadására és módosítására irányuló hatósági eljárásokban.
+j) állami légiközlekedési szakszemélyzet oktatására használt repülésszimulációs oktatóeszköz engedélyének kiadására és módosítására irányuló,
+
+k) az állami légijárművekkel és a pilóta nélküli állami légijárművekkel előforduló balesetekkel és repülőeseményekkel kapcsolatos közigazgatási,
+
+l) az állami légijármű és a pilóta nélküli állami légijármű típusalkalmassági vizsgálatára irányuló
 
 hatósági eljárásokban.
 
@@ -98,7 +102,7 @@ f) légiközlekedés védelmi tiszt kijelölésének jóváhagyására irányul�
 
 g) az állami légijármű és a pilóta nélküli állami légijármű nyilvántartásba vételére irányuló hatósági eljárásokban,
 
-h) az állami légijármű és a pilóta nélküli állami légijármű típusalkalmassági vizsgálatára irányuló hatósági eljárásokban,
+h)
 
 i) az állami repülések céljára szolgáló repülőtér és a közös felhasználású repülőtér repülőtérrendjének jóváhagyására irányuló hatósági eljárásokban.
 
@@ -132,7 +136,7 @@ d)
 
 (2o) A katonai légügyi hatóság eljárásában a tevékenység végzésétől történő eltiltás legfeljebb a döntés véglegessé válásától számított 365 napra szólhat. A katonai légügyi hatóság intézkedhet továbbá a tevékenység végzésének feltételhez kötéséről.
 
-(3) A légiközlekedési hatóság eljárásáért jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetni. Az igazgatási szolgáltatási díj fizetésének feltételeit, módját és a díj összegét a miniszter az államháztartásért felelős miniszterrel egyetértésben rendeletben állapítja meg.
+(3) A légiközlekedési hatóság eljárásáért jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetni. Az igazgatási szolgáltatási díj fizetésének feltételeit, módját és a díj összegét a miniszter az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítja meg.
 
 (3a) A légiközlekedési hatósági eljárással összefüggő igazgatási szolgáltatási díj fizetése alól mentesül a Magyar Honvédség és a honvédelemért felelős miniszter közvetlen irányítása alá tartozó, nem gazdasági társasági formában működő szervezet.
 
