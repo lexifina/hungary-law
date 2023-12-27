@@ -16,7 +16,7 @@
 
 | 7 | 12 (1) Felsőgalla – Tatabánya elágazás |
 
-| 8 | 13 Környe – Ugod |
+| 8 | 13 Veszprémvarsány–Franciavágás |
 
 | 9 | 14 Pápa – Csorna |
 
@@ -50,7 +50,7 @@
 
 | 24 | 48 Keszőhidegkút-Gyönk – Tamási |
 
-| 25 | 49 Lepsény – Mezőhídvég |
+| 25 |  |
 
 | 26 | 50 Dombóvár – Bátaszék |
 
@@ -68,7 +68,7 @@
 
 | 33 | 75 Vác – Balassagyarmat |
 
-| 34 | 76 Diósjenő – Romhány |
+| 34 |  |
 
 | 35 | 78 (1) Galgamácsa – Balassagyarmat – Nógrádszakál |
 
@@ -80,7 +80,7 @@
 
 | 39 | 88 Hejőkeresztúr – Mezőcsát |
 
-| 40 | 95 Rudabánya – Kazincbarcika |
+| 40 |  |
 
 | 41 | 98 Szerencs – Hidasnémeti |
 
@@ -116,7 +116,7 @@
 
 | 57 | 125a Mezőhegyes – Battonya |
 
-| 58 | 126 Kisszénás – Kondoros |
+| 58 |  |
 
 | 59 | 127 (1) Gyoma – Szeghalom |
 
@@ -136,9 +136,9 @@
 
 | 67 | 147 Kiskunfélegyháza – Szentes – Orosháza |
 
-| 68 | 148 Kecskemét KK – Kiskörös KK |
+| 68 |  |
 
-| 69 | 149 Törökfái – Kiskunmajsa KK |
+| 69 |  |
 
 | 70 | 151 Kunszentmiklós-Tass – Dunapataj |
 
@@ -164,9 +164,9 @@
 
 | 81 | 343 Dorog – Dorogi Mészkőhegy |
 
-| 82 | 350 Ajka – Csinger |
+| 82 |  |
 
-| 83 | 351 Ajka – Padragkút |
+| 83 |  |
 
 | 84 | 352 Tapolca – Zalahaláp |
 
@@ -174,7 +174,7 @@
 
 | 86 | 354 Balatonszentgyörgy elágazás – Sármellék |
 
-| 87 | 360 Pécsbánya-rendező – Pécsbánya-telep |
+| 87 |  |
 
 | 88 | 370 Sajóecseg – Sajóbábony |
 
@@ -188,4 +188,4 @@
 
 | 93 | 392 Bácsalmás – Csikéria |
 
-[^2]: Az 1. melléklet a 259/2017. (IX. 11.) Korm. rendelet 11. §-a, a 340/2022. (IX. 7.) Korm. rendelet 1. §-a, az 52/2023. (II. 23.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^2]: Az 1. melléklet a 259/2017. (IX. 11.) Korm. rendelet 11. §-a, a 340/2022. (IX. 7.) Korm. rendelet 1. §-a, az 52/2023. (II. 23.) Korm. rendelet 1. §-a, a 612/2023. (XII. 22.) Korm. rendelet 46-47. §-a szerint módosított szöveg.
