@@ -68,6 +68,8 @@ c) a hatóságnak és a szakhatóságnak a hiánypótlásra az adott ügyfajtár
 
 (22)[^65] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 495/2023. (XI. 2.) Korm. rendelettel (a továbbiakban: Módr14.) megállapított 1. melléklet 1.2.165–1.2.167. alpontját a Módr14. hatálybalépésekor[^66] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
+(23)[^67] E rendeletnek a közlekedési igazgatással összefüggő egyes közlekedési tárgyú kormányrendeletek módosításáról szóló 612/2023. (XII. 22.) Korm. rendelettel (a továbbiakban: Módr15.) megállapított 1. melléklet 1. pont 1.1. alpont 1.1.70. és 1.1.86. pontját, 1. pont 1.7. alpont 1.7.10., 1.7.20. és 1.7.21. pontját a Módr15. hatálybalépésekor[^68] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
 [^23]: A 7. § (2) bekezdés d) pontját a 441/2015. (XII. 28.) Korm. rendelet 185. § a) pontja hatályon kívül helyezte.
 [^24]: A 7. § (3) bekezdését a 376/2013. (X. 25.) Korm. rendelet 2. §-a iktatta be.
 [^25]: A hatálybalépés időpontja 2013. október 26.
@@ -112,3 +114,5 @@ c) a hatóságnak és a szakhatóságnak a hiánypótlásra az adott ügyfajtár
 [^64]: A hatálybalépés időpontja 2023. szeptember 15.
 [^65]: A 7. § (22) bekezdését a 495/2023. (XI. 2.) Korm. rendelet 1. §-a iktatta be.
 [^66]: A hatálybalépés időpontja 2023. november 3.
+[^67]: A 7. § (23) bekezdését a 612/2023. (XII. 22.) Korm. rendelet 39. §-a iktatta be.
+[^68]: A hatálybalépés időpontja 2023. december 27.

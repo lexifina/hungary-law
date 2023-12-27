@@ -140,7 +140,7 @@
 
 ## 1.1.69. A Szeged és Pécs közötti közúti kapcsolat fejlesztése.
 
-## 1.1.70. Az M81 Komárom – Kisigmánd (M1 autópálya) – Kisbér – Székesfehérvár (M7 autópálya) – Sárbogárd (M8 gyorsforgalmi út) között gyorsforgalmi út megvalósítása.
+## 1.1.70. Az M200 Komárom – Kisigmánd (M1 autópálya) – Kisbér – Székesfehérvár (M7 autópálya) – Sárbogárd (M8 gyorsforgalmi út) között gyorsforgalmi út megvalósítása.
 
 ## 1.1.71. Az M2 gyorsforgalmi út, Vác-dél és Vác-észak közötti szakasz fejlesztése.
 
@@ -171,6 +171,8 @@
 ## 1.1.84. Az M44 gyorsforgalmi út Békéscsaba és Méhkerék, országhatár közötti szakasz megvalósítása.
 
 ## 1.1.85. Kaposvár–Szigetvár gyorsforgalmi összeköttetése.
+
+## 1.1.86. Az M3 autópálya Gödöllő (M31 csomópont) – Gyöngyös nyugati csomópont 2×3 sávra bővítése.
 
 ## 1.2. Főutak
 
@@ -1106,7 +1108,7 @@
 
 ## 1.7.9. Az M8 gyorsforgalmi út M7–Dunaújváros szakaszhoz kapcsolódóan Sárbogárd térségében üzemmérnökségi telep megvalósítása.
 
-## 1.7.10. Az M8 gyorsforgalmi út Dunavecse–Kecskemét szakaszhoz kapcsolódóan Szabadszállás térségében üzemmérnökségi telep megvalósítása.
+## 1.7.10. Az M8 gyorsforgalmi út Dunavecse–Kecskemét szakaszhoz kapcsolódóan Dunavecse térségében üzemmérnökségi telep megvalósítása.
 
 ## 1.7.11. Az M49 gyorsforgalmi út M3 autópálya – Mátészalka – országhatár projekthez kapcsolódóan Kocsord–Győrtelek térségében üzemmérnökségi telep megvalósítása.
 
@@ -1125,6 +1127,10 @@
 ## 1.7.18. Az M0 Észak projektekhez kapcsolódóan Solymár készenléti telep megvalósítása.
 
 ## 1.7.19. Az M0 gyorsforgalmi út M5 autópálya csomópontjának, valamint az M5 autópálya Alsónémedi, Gyál csomópontjának fejlesztése, az M5 autópálya – M0 autóút – M51 autóút által határolt fejlesztési területet feltáró új helyi, magán és országos mellékutak létesítése és a meglévő utak fejlesztése (Gyálon a Gorcsev Iván utca meghosszabbítása Budapest XXIII. kerület határáig), valamint az M0 autóúton és az M51 autóúton az 5. számú főút és az M5 autópálya csomópontjai között új csomópontok létesítése.
+
+## 1.7.20. Az M86 gyorsforgalmi út Répcelak üzemmérnökségi telep megvalósítása.
+
+## 1.7.21. A Szolnok-nyugat üzemmérnökség telep megvalósítása.
 
 ## 1.8. Kerékpárutak
 
@@ -2156,6 +2162,6 @@
 
 ## 5.6. Békéscsabai repülőtér kifutópályájának meghosszabbítása.
 
-1/a. melléklet a 345/2012. (XII. 6.) Korm. rendelethez[^69]
+1/a. melléklet a 345/2012. (XII. 6.) Korm. rendelethez[^71]
 
-[^69]: Az 1/a. mellékletet a 226/2015. (VIII. 7.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 236/2020. (V. 26.) Korm. rendelet 9. § b) pontja.
+[^71]: Az 1/a. mellékletet a 226/2015. (VIII. 7.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 236/2020. (V. 26.) Korm. rendelet 9. § b) pontja.
