@@ -28,8 +28,9 @@ b) azt az országos lefedettséget biztosító műszaki vizsgálóállomás kér
 
 c) az (5) bekezdésben előírt bejelentési kötelezettségének az országos lefedettséget biztosító műszaki vizsgálóállomás nem tesz eleget,
 
-d) a közlekedési hatóság ellenőrzése során megállapítást nyert, hogy az országos lefedettséget biztosító műszaki vizsgálóállomások részét képező műszaki vizsgálóállomások bármelyike a jogszabályokban meghatározott kötelezettségeit az első megszegéstől számított 2 éven belül további 4 esetben megszegte, vagy a vizsgálatok során a mérőműszereket jogellenesen befolyásolta, vagy szándékosan valótlan adatot rögzített.
+d)[^9] a közlekedési hatóság ellenőrzése során megállapítást nyert, hogy az országos lefedettséget biztosító műszaki vizsgálóállomások részét képező műszaki vizsgálóállomások bármelyike a 12. § a), c), d) vagy f) pontja szerinti jogsértést az első megszegéstől számított 2 éven belül további 4 esetben elkövette, vagy a vizsgálatok során a mérőműszereket jogellenesen befolyásolta, vagy szándékosan valótlan adatot rögzített.
 
 [^6]: A 2/A. §-t a 722/2020. (XII. 31.) Korm. rendelet 37. §-a iktatta be.
 [^7]: A 2/A. § (3) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 259. §-a szerint módosított szöveg.
 [^8]: A 2/A. § (3a) bekezdését a 789/2021. (XII. 27.) Korm. rendelet 60. §-a iktatta be.
+[^9]: A 2/A. § (7) bekezdés d) pontja a 613/2023. (XII. 22.) Korm. rendelet 6. §-ával megállapított szöveg.

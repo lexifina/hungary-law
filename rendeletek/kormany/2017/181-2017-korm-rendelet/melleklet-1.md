@@ -1,281 +1,107 @@
-1. melléklet a 181/2017. (VII. 5.) Korm. rendelethez[^38]
+1. melléklet a 181/2017. (VII. 5.) Korm. rendelethez[^43]
 
-1. Forgalomba helyezés előtti műszaki vizsgálat keretében érvényes általános forgalomba helyezési engedély (ÁFE) vagy típusbizonyítvány alapján kiadott megfelelőségi nyilatkozat felhasználásával végzett műszaki megvizsgálás)
+Az engedély iránti kérelem tartalmi elemei
 
-|  | A | B |
+1. Műszaki vizsgálati eljárások megnevezése:
 
-| 1. | Kategóriák | Alkalmazható alvizsgák |
+a) forgalomba helyezés előtti vizsgálat: érvényes általános forgalomba helyezési engedély (ÁFE) vagy típusbizonyítvány alapján kiadott megfelelőségi nyilatkozat felhasználásával végzett műszaki vizsgálat;
 
-| 2. | M1 |  |  |  |  |  |  |  |  |  |  |
+b) időszakos vizsgálat: műszaki vizsgálat, valamint időszakos műszaki vizsgálathoz kapcsolódó adatmódosítás, amennyiben a hatósági elírás következménye és az elírás ténye a vizsgálathoz kapcsolódó iratokban egyértelműen dokumentálásra kerül (a módosítható adatok felsorolása a HKR rendszerben található);
 
-| 3. | M2 |  |  |  |  |  |  |  |  |  |  |
+c) korlátozott időszakos vizsgálat: új jármű kereskedelmi forgalomba hozatala során, a vonószerkezettel felszerelt jármű vontatásra való alkalmasságának megállapítását, vagy a megkülönböztető- és figyelmeztető jelzést adó készülékek felszerelésének megállapítását követően a Műszaki adatlap adatainak módosításával új Műszaki adatlap kiadása;
 
-| 4. | M3 |  |  |  |  |  |  |  |  |  |  |
+d) egyéb, a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendeletben nevesített műszaki vizsgálati eljárás.
 
-| 5. | N1 |  |  |  |  |  |  |  |  |  |  |
+2. Járműkategóriák:
 
-| 6. | N2 |  |  |  |  |  |  |  |  |  |  |
+| sorszám | A | B |
 
-| 7. | N3 |  |  |  |  |  |  |  |  |  |  |
+| 1. | 1. Motor-kerékpárok |
 
-| 8. | O1 |  |  |  |  |  |  |  |  |  |  |
+| 2. |  | L1e |
 
-| 9. | O2 |  |  |  |  |  |  |  |  |  |  |
+| 3. |  | L3e, L4e |
 
-| 10. | O3 |  |  |  |  |  |  |  |  |  |  |
+| 4. |  | L2e |
 
-| 11. | O4 |  |  |  |  |  |  |  |  |  |  |
+| 5. |  | L5e |
 
-| 12. | L3e |  |  |  |  |  |  |  |  |  |  |
+| 6. |  | L6e |
 
-| 13. | L4e |  |  |  |  |  |  |  |  |  |  |
+| 7. |  | L7e |
 
-| 14. | L5e |  |  |  |  |  |  |  |  |  |  |
+| 8. | 2. Személy-gépjárművek |
 
-| 15. | L7e |  |  |  |  |  |  |  |  |  |  |
+| 9. | 3 500 kg-ig | M1, M2 |
 
-| 16. | LJ |  |  |  |  |  |  |  |  |  |  |
+| 10. | > 3 500 kg | M1, M2 |
 
-| 17. | T1 |  |  |  |  |  |  |  |  |  |  |
+| 11. | > 3 500 kg | M2, M3 |
 
-| 18. | T2 |  |  |  |  |  |  |  |  |  |  |
+| 12. | 3. Teher-gépjárművek |
 
-| 19. | T3 |  |  |  |  |  |  |  |  |  |  |
+| 13. | 3 500 kg-ig | N1 |
 
-| 20. | T4 |  |  |  |  |  |  |  |  |  |  |
+| 14. | > 3 500 kg | N2, N3 |
 
-| 21. | T5 |  |  |  |  |  |  |  |  |  |  |
+| 15. | 4. Az N kategóriából származtatott különleges gépjárművek, valamint a 40 km/h feletti tervezési sebességű mezőgazdasági vontatók |
 
-| 22. | Ra1, Rb1 |  |  |  |  |  |  |  |  |  |  |
+| 16. | 3 500 kg-ig | N1 |
 
-| 23. | Ra2, Rb2 |  |  |  |  |  |  |  |  |  |  |
+| 17. | > 3 500 kg | N2, N3, T1b, T2b, T3b, T4.1b, T4.2b, T4.3b, T5 |
 
-| 24. | Ra3, Rb3 |  |  |  |  |  |  |  |  |  |  |
+| 18. | 5. Pótkocsik |
 
-| 25. | Ra4, Rb4 |  |  |  |  |  |  |  |  |  |  |
+| 19. | 750 kg-ig | O1 |
 
-| 26. | Sb2 |  |  |  |  |  |  |  |  |  |  |
+| 20. | > 750–3 500 kg | O2, R1, R2, S1, lassú jármű pótkocsija |
 
-| 27. | További, kérelmezett alvizsgák: |  |  |  |  |  |  |  |  |  |  |
+| 21. | > 3 500 kg | O3, O4, R3, R4, S2, lassú jármű pótkocsija |
 
-## Magyarázat:
+| 22. | 6. Mezőgazdasági vontatók legfeljebb 40 km/h tervezési sebességgel és lassú járművek |
 
-## V4*4 (összkerékhajtás vizsgálata)
+| 23. |  | T1-T4, lassú járművek |
 
-## V2T (2-nél több tengely)
+| 24. | 7. További, az 1–6. pontban nem szereplő járművek |
 
-## VTACHO (mentíró, illetve sebességkorlátozó berendezés)
+3. A közlekedés hatósági műszaki vizsgálatokhoz kapcsolódó egyéb eljárásai (alvizsgák):
 
-## További kérelmezett alvizsgák:…
+1. V4×4 (Összkerékhajtás vizsgálata);
 
-2. Időszakos műszaki vizsgálat keretében végzett műszaki megvizsgálás, valamint időszakos műszaki vizsgálathoz kapcsolódó adatmódosítás, amennyiben a hatósági elírás következménye és az elírás ténye a vizsgaanyagban egyértelműen dokumentálásra kerül (a módosítható adatok felsorolása a HKR rendszerben található)
+2. V2T (2-nél több tengely);
 
-|  | A | B |
+3. MNK (Autóbusz minősítése nemzetközi forgalomra);
 
-| 1. | Kategóriák | Alkalmazható alvizsgák |
+4. MKOZ (Autóbusz minősítése közforgalmú személyszállításra);
 
-| 2. | M1 |  |  |  |  |  |  |  |  |  |  |
+5. LVR (Légfékrendszer vizsgálata);
 
-| 3. | M2 |  |  |  |  |  |  |  |  |  |  |
+6. VTACHO (Menetíró, valamint sebességkorlátozó berendezés);
 
-| 4. | M3 |  |  |  |  |  |  |  |  |  |  |
+7. MADR (Veszélyesáru-szállításra minősítés, jóváhagyási igazolás kiadása, hosszabbítása);
 
-| 5. | N1 |  |  |  |  |  |  |  |  |  |  |
+8. VKÜL [Az 5/1990. (IV. 12.) KöHÉM rendelet 20. § (2) bekezdés szerinti különleges felépítmények vizsgálata, kivéve ADR hatálya alá tartozó, valamint az üzemeltetés szempontjából külön engedélyhez kötött járművek];
 
-| 6. | N2 |  |  |  |  |  |  |  |  |  |  |
+9. CEMT (Közlekedésbiztonsági igazolás);
 
-| 7. | N3 |  |  |  |  |  |  |  |  |  |  |
+10. NK (N2/N3 jármű minősítése nemzetközi forgalomra);
 
-| 8. | O1 |  |  |  |  |  |  |  |  |  |  |
+11. VÁE (Jóváhagyási igazolásra nem kötelezett veszélyes anyagot szállító / ADR hatálya alá tartozó jármű műszaki vizsgálata);
 
-| 9. | O2 |  |  |  |  |  |  |  |  |  |  |
+12. GAZ (Gáz-benzin kettős üzemű járművek vizsgálata);
 
-| 10. | O3 |  |  |  |  |  |  |  |  |  |  |
+13. MEGKÜL (megkülönböztető, illetve figyelmeztető jelzéssel ellátott járművek vizsgálata);
 
-| 11. | O4 |  |  |  |  |  |  |  |  |  |  |
+14. M100 (Autóbusz 100 km-es minősítése);
 
-| 12. | L3e |  |  |  |  |  |  |  |  |  |  |
+15. MOKT (Oktató jármű időszakos vizsgálata);
 
-| 13. | L4e |  |  |  |  |  |  |  |  |  |  |
+16. MOZG (Mozgássérült jármű időszakos vizsgálata);
 
-| 14. | L5e |  |  |  |  |  |  |  |  |  |  |
+17. BEÜT (Alvázszám beütés);
 
-| 15. | L7e |  |  |  |  |  |  |  |  |  |  |
+18. LA (lassulásméréssel végzett fékhatásmérés);
 
-| 16. | LJ |  |  |  |  |  |  |  |  |  |  |
+19. egyéb, jogszabályban nevesített, a közlekedési hatósági műszaki vizsgálathoz kapcsolódó eljárás.
 
-| 17. | T1 |  |  |  |  |  |  |  |  |  |  |
-
-| 18. | T2 |  |  |  |  |  |  |  |  |  |  |
-
-| 19. | T3 |  |  |  |  |  |  |  |  |  |  |
-
-| 20. | T4 |  |  |  |  |  |  |  |  |  |  |
-
-| 21. | T5 |  |  |  |  |  |  |  |  |  |  |
-
-| 22. | Ra1, Rb1 |  |  |  |  |  |  |  |  |  |  |
-
-| 23. | Ra2, Rb2 |  |  |  |  |  |  |  |  |  |  |
-
-| 24. | Ra3, Rb3 |  |  |  |  |  |  |  |  |  |  |
-
-| 25. | Ra4, Rb4 |  |  |  |  |  |  |  |  |  |  |
-
-| 26. | Sb2 |  |  |  |  |  |  |  |  |  |  |
-
-## Magyarázat:
-
-## V4×4 (Összkerékhajtás vizsgálata)
-
-## V2T (2-nél több tengely)
-
-## MNK (Autóbusz minősítése nemzetközi forgalomra)
-
-## MKOZ (Autóbusz minősítése közforgalmú személyszállításra)
-
-## LVR (Légfékrendszer vizsgálata)
-
-## VTACHO (Menetíró, valamint sebességkorlátozó berendezés)
-
-## MADR (Veszélyesáru-szállításra minősítés)
-
-## VKÜL (Az 5/1990. (IV. 12.) KöHÉM rendelet 20. § (2) bekezdés szerinti különleges felépítmények vizsgálata, kivéve ADR hatálya alá tartozó, valamint az üzemeltetés szempontjából külön engedélyhez kötött járművek /pl. sportcélú, megkülönböztetett jelzéssel ellátott/)
-
-## CEMT (Közlekedésbiztonsági igazolás)
-
-## NK (N2/N3 M2/M3 jármű minősítése nemzetközi forgalomra)
-
-## VÁE (Műszaki vizsga veszélyes anyagot szállító /ADR hatálya alá tartozó/ járműre)
-
-## MUND (Undort keltő anyag szállítására alkalmasság minősítése)
-
-## GAZ (Gáz-benzin kettős üzemű járművek vizsgálata)
-
-## MEGKÜL (megkülönböztető és/vagy figyelmeztető jelzéssel ellátott járművek vizsgálata)
-
-## További kérelmezett alvizsgák:
-
-## * (Kivéve az első minősítő vizsgálat)
-
-3. Korlátozott időszakos műszaki vizsgálat keretében végzett műszaki megvizsgálás
-
-|  | A | B |
-
-| 1-. | Kategóriák | Alkalmazható alvizsgák |
-
-| 2. | M1 |  |  |  |  |  |  |  |  |  |  |
-
-| 3. | M2 |  |  |  |  |  |  |  |  |  |  |
-
-| 4. | M3 |  |  |  |  |  |  |  |  |  |  |
-
-| 5. | N1 |  |  |  |  |  |  |  |  |  |  |
-
-| 6. | N2 |  |  |  |  |  |  |  |  |  |  |
-
-| 7. | N3 |  |  |  |  |  |  |  |  |  |  |
-
-| 8. | O1 |  |  |  |  |  |  |  |  |  |  |
-
-| 9. | O2 |  |  |  |  |  |  |  |  |  |  |
-
-| 10. | O3 |  |  |  |  |  |  |  |  |  |  |
-
-| 11. | O4 |  |  |  |  |  |  |  |  |  |  |
-
-| 12. | L3e |  |  |  |  |  |  |  |  |  |  |
-
-| 13. | L4e |  |  |  |  |  |  |  |  |  |  |
-
-| 14. | L5e |  |  |  |  |  |  |  |  |  |  |
-
-| 15. | L7e |  |  |  |  |  |  |  |  |  |  |
-
-| 16. | LJ |  |  |  |  |  |  |  |  |  |  |
-
-| 17. | T1 |  |  |  |  |  |  |  |  |  |  |
-
-| 18. | T2 |  |  |  |  |  |  |  |  |  |  |
-
-| 19. | T3 |  |  |  |  |  |  |  |  |  |  |
-
-| 20. | T4 |  |  |  |  |  |  |  |  |  |  |
-
-| 21. | T5 |  |  |  |  |  |  |  |  |  |  |
-
-| 22. | Ra1, Rb1 |  |  |  |  |  |  |  |  |  |  |
-
-| 23. | Ra2, Rb2 |  |  |  |  |  |  |  |  |  |  |
-
-| 24. | Ra3, Rb3 |  |  |  |  |  |  |  |  |  |  |
-
-| 25. | Ra4, Rb4 |  |  |  |  |  |  |  |  |  |  |
-
-| 26. | Sb2 |  |  |  |  |  |  |  |  |  |  |
-
-## Magyarázat:
-
-## MEGKÜL (megkülönböztető és/vagy figyelmeztető jelzéssel ellátott járművek vizsgálata)
-
-## VON (vonószerkezettel felszerelt jármű vontatásra való alkalmasságának típusbizonyítvány
-
-## alapján történő megállapítása)”
-
-4. Jármű honosítási eljárás lefolytatása
-
-|  | A | B |
-
-| 1. | Kategóriák |  |
-
-| 2. | M1 |  |
-
-| 3. | M2 |  |
-
-| 4. | M3 |  |
-
-| 5. | N1 |  |
-
-| 6. | N2 |  |
-
-| 7. | N3 |  |
-
-| 8. | O1 |  |
-
-| 9. | O2 |  |
-
-| 10. | O3 |  |
-
-| 11. | O4 |  |
-
-| 12. | L3e |  |
-
-| 13. | L4e |  |
-
-| 14. | L5e |  |
-
-| 15. | L7e |  |
-
-| 16. | LJ |  |
-
-| 17. | T1 |  |
-
-| 18. | T2 |  |
-
-| 19. | T3 |  |
-
-| 20. | T4 |  |
-
-| 21. | T5 |  |
-
-| 22. | Ra1, Rb1 |  |
-
-| 23. | Ra2, Rb2 |  |
-
-| 24. | Ra3, Rb3 |  |
-
-| 25. | Ra4, Rb4 |  |
-
-| 26. | Sb2 |  |
-
-[^38]: Az 1. melléklet a 722/2020. (XII. 31.) Korm. rendelet 47. §-ával megállapított szöveg.
+[^43]: Az 1. melléklet a 613/2023. (XII. 22.) Korm. rendelet 13. §-ával megállapított szöveg.

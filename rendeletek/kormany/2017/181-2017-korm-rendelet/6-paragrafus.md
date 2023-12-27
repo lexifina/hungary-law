@@ -1,3 +1,3 @@
-6. §[^15]
+6. §[^18]
 
-[^15]: A 6. §-t a 722/2020. (XII. 31.) Korm. rendelet 48. § a) pontja hatályon kívül helyezte.
+[^18]: A 6. §-t a 722/2020. (XII. 31.) Korm. rendelet 48. § a) pontja hatályon kívül helyezte.

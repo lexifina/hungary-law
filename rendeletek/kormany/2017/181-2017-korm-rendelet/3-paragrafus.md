@@ -4,12 +4,22 @@ a) annak a telephelynek a címét, amelyen a kérelmező szervezet a vizsgáló�
 
 b) a kérelmező szervezet elektronikus levelezési címét, telefonos elérhetőségét, pénzforgalmi számlájának számát és az azt vezető pénzügyi intézmény nevét, valamint képviselőjének és telephelyvezetőjének a nevét,
 
-c) annak a járműkategóriának az 1. melléklet szerinti megnevezését, amelyre a kérelmező szervezet a vizsgálóállomást működtetni kívánja,
+c)[^10] az 1. melléklet szerinti
 
-d) annak a közúti járművek műszaki megvizsgálásáról szóló rendeletben nevesített eljárásnak a megjelölését, amely szerint a kérelmező szervezet a vizsgálóállomást működtetni kívánja, valamint
+ca) műszaki vizsgálati eljárás megnevezését,
 
-e)[^9]
+cb) járműkategória megnevezését és
+
+cc) a közlekedési hatósági műszaki vizsgálatokhoz kapcsolódó egyéb eljárás (a továbbiakban: alvizsga) megjelölését,
+
+amelyre a kérelmező szervezet a vizsgálóállomást működtetni kívánja,
+
+d)[^11]
+
+e)[^12]
 
 (2) A díjat telephelyenként kell megfizetni.
 
-[^9]: A 3. § (1) bekezdés e) pontja a 457/2017. (XII. 28.) Korm. rendelet 611. §-a alapján nem lép hatályba.
+[^10]: A 3. § (1) bekezdés c) pontja a 613/2023. (XII. 22.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^11]: A 3. § (1) bekezdés d) pontját a 613/2023. (XII. 22.) Korm. rendelet 14. § a) pontja hatályon kívül helyezte.
+[^12]: A 3. § (1) bekezdés e) pontja a 457/2017. (XII. 28.) Korm. rendelet 611. §-a alapján nem lép hatályba.
