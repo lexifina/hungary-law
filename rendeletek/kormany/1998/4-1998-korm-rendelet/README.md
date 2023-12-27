@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-4-20-22
 | 2023-01-01 | 1998-4-20-22.26 | 304/2011. (XII. 23.) Korm. rendelet |
 | 2023-05-27 | 1998-4-20-22.27 | 199/2023. (V. 22.) Korm. rendelet |
 | 2023-12-21 | 1998-4-20-22.28 | 409/2022. (X. 24.) Korm. rendelet |
+| 2023-12-27 | 1998-4-20-22.29 | 612/2023. (XII. 22.) Korm. rendelet |

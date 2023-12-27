@@ -1,4 +1,4 @@
-8/C. §[^94] (1) A Felületen a HungaroControl Zrt. biztosítja az általa nyilvántartott aktuális légtéradatok megjelenítését.
+8/C. §[^95] (1) A Felületen a HungaroControl Zrt. biztosítja az általa nyilvántartott aktuális légtéradatok megjelenítését.
 
 (2) A Felület az aktuális légtéradatokon kívül, az arra jogosult szervezetek adatfeltöltése alapján tartalmazza
 
@@ -6,7 +6,7 @@ a) a 4/A. § n) és o) pontja szerinti légtérkorlátozások,
 
 b) a földfelszíntől számított legfeljebb 150 méteres magasságon, pilóta nélküli állami légijárműtől eltérő állami légijárművel végrehajtott repülések védelme érdekében meghatározott légterek, valamint
 
-c)[^95] az (5), (6) és (6a) bekezdésben foglalt műveleti korlátozással érintett légtér
+c)[^96] az (5), (6) és (6a) bekezdésben foglalt műveleti korlátozással érintett légtér
 
 adatait.
 
@@ -26,13 +26,13 @@ b) az Alkotmányvédelmi Hivatal,
 
 c) a Nemzetbiztonsági Szakszolgálat,
 
-d)[^96] Nemzeti Információs Központ,
+d)[^97] Nemzeti Információs Központ,
 
 e) az Országgyűlési Őrség,
 
 f) a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság,
 
-g)[^97] a Honvéd Vezérkar főnöke által kijelölt szervezetek a (2) bekezdés b) pontja szerinti légterek vonatkozásában,
+g)[^98] a Honvéd Vezérkar főnöke által kijelölt szervezetek a (2) bekezdés b) pontja szerinti légterek vonatkozásában,
 
 h) a Katonai Nemzetbiztonsági Szolgálat,
 
@@ -46,11 +46,13 @@ l) az Információs Hivatal,
 
 m) a Büntetés-végrehajtás Országos Parancsnoksága.
 
-n)[^98] a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 136. §-a szerinti jogi személy.
+n)[^99] a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 136. §-a szerinti jogi személy.
 
-(4)[^99] A belügyminiszter által a (3) bekezdés a)–d), f) és m) pontjában meghatározott szervezetek közül kijelölt szervezet a 4/A. § n) és o) pontjában foglalt adatokat, az Országgyűlési Őrség a 4/A. § n) pontjában foglalt adatokat, a légiközlekedési hatóság a 4/A. § i)–l) pontjában foglalt adatokat tölti fel a Felületre.
+o)[^100] a Nemzeti Adó- és Vámhivatal.
 
-(5) Az Országgyűlési Őrség, a Katonai Nemzetbiztonsági Szolgálat és a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 1. § (5) bekezdésében felsorolt szerv
+(4)[^101] A belügyminiszter által a (3) bekezdés a)–d), f) és m) pontjában meghatározott szervezetek közül kijelölt szervezet a 4/A. § n) és o) pontjában foglalt adatokat, az Országgyűlési Őrség a 4/A. § n) pontjában foglalt adatokat, a légiközlekedési hatóság a 4/A. § i)–l) pontjában foglalt adatokat tölti fel a Felületre.
+
+(5)[^102] Az Országgyűlési Őrség, a Katonai Nemzetbiztonsági Szolgálat, a Nemzeti Adó- és Vámhivatal és a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 1. § (5) bekezdésében felsorolt szerv
 
 a) a Magyarország érdekei szempontjából különösen fontos védett személyek védelme,
 
@@ -68,11 +70,11 @@ f) közlekedési baleset helyszínén és annak környezetében a vonatkozó elj
 
 (6) A közlekedési baleset vagy egyéb közlekedési esemény kivizsgálása érdekében a közlekedésbiztonsági szerv az érintett légtérben a pilóta nélküli légijármű-műveletet a védelemhez arányosan szükséges mértékben korlátozza. A korlátozás az esemény kezdetétől számított 12 órára rendelhető el, és alkalmanként további 12 órával meghosszabbítható, legfeljebb az elrendelésre okot adó esemény végéig.
 
-(6a)[^100] A médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 136. §-a szerinti jogi személy a közfeladatai teljesítése során az érintett légtérben a (3) bekezdés a)–m) pontjában meghatározott szervek érdekeit nem sértve a pilóta nélküli légijármű-műveletet a közfeladat teljesítéséhez arányosan szükséges mértékben és a közfeladat teljesítéséhez szükséges, de legfeljebb 3 óra időtartamra korlátozhatja. A korlátozás egy alkalommal 3 órával meghosszabbítható, de legfeljebb a műveletre okot adó esemény végéig. A műveleti korlátozást, valamint annak meghosszabbítását a Felületen fel kell tüntetni.
+(6a)[^103] A médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 136. §-a szerinti jogi személy a közfeladatai teljesítése során az érintett légtérben a (3) bekezdés a)–m) pontjában meghatározott szervek érdekeit nem sértve a pilóta nélküli légijármű-műveletet a közfeladat teljesítéséhez arányosan szükséges mértékben és a közfeladat teljesítéséhez szükséges, de legfeljebb 3 óra időtartamra korlátozhatja. A korlátozás egy alkalommal 3 órával meghosszabbítható, de legfeljebb a műveletre okot adó esemény végéig. A műveleti korlátozást, valamint annak meghosszabbítását a Felületen fel kell tüntetni.
 
-(7)[^101] A pilóta nélküli légijárműveknek az (5), (6) és (6a) bekezdésben meghatározott műveleti korlátozását az azt elrendelő szerv vagy szervezet a Felületen azonnal feltünteti.
+(7)[^104] A pilóta nélküli légijárműveknek az (5), (6) és (6a) bekezdésben meghatározott műveleti korlátozását az azt elrendelő szerv vagy szervezet a Felületen azonnal feltünteti.
 
-(8)[^102] Pilóta nélküli légijármű, pilóta nélküli állami légijármű az (5), (6) és (6a) bekezdésben meghatározott műveleti korlátozással érintett légtérben, a (3) bekezdés a)–m) pontjában meghatározott szervek érdekeit nem sértve, a korlátozást elrendelő szerv vagy szervezet egyedi engedélye vagy szóbeli intézkedése alapján, az abban meghatározott feltételekkel működtethető
+(8)[^105] Pilóta nélküli légijármű, pilóta nélküli állami légijármű az (5), (6) és (6a) bekezdésben meghatározott műveleti korlátozással érintett légtérben, a (3) bekezdés a)–m) pontjában, valamint o) pontjában meghatározott szervek érdekeit nem sértve, a korlátozást elrendelő szerv vagy szervezet egyedi engedélye vagy szóbeli intézkedése alapján, az abban meghatározott feltételekkel működtethető
 
 a) a 4/A. § n) és o) pontja szerinti helyszíneken,
 
@@ -88,15 +90,19 @@ f) a bűncselekmény helyszínén,
 
 g) a nyomozási cselekmény helyszínén,
 
-h) a Rendőrségről szóló törvényben meghatározott rendőrséget alkotó szervek a Rendőrségről szóló törvényben, valamint a nemzetbiztonsági szolgálatok a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott feladataik teljesítéséhez szükséges helyszínen vagy
+h) a Rendőrségről szóló törvényben meghatározott rendőrséget alkotó szervek a Rendőrségről szóló törvényben, valamint a nemzetbiztonsági szolgálatok a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott feladataik teljesítéséhez szükséges helyszínen,
 
-i) közveszély helyszínén
+i) közveszély helyszínén vagy
+
+j) a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény (a továbbiakban: Nemzeti Adó- és Vámhivatalról szóló törvény) 4. §-ában meghatározott szervek a Nemzeti Adó- és Vámhivatalról szóló törvényben meghatározott feladataik teljesítéséhez szükséges helyszínen,
 
 amennyiben az (5), (6) és (6a) bekezdésben meghatározott légtér nem lapol át a 4/A. § a)–m) pontjában meghatározott légterek valamelyikével.
 
 (9) Az (5) bekezdésben meghatározott műveleti korlátozás a (8) bekezdés c)–g) pontjaiban, valamint i) pontjában meghatározott esetekben a korlátozásra okot adó esemény időtartamára, de legfeljebb az esemény kezdetétől számított 12 órára rendelhető el, amely alkalmanként további 12 órával meghosszabbítható, legfeljebb az elrendelésre okot adó esemény végéig. A korlátozást elrendelő döntésben meg kell határozni a korlátozás pontos kezdő és befejező időpontját, amelyet a 4/C. § (1) bekezdésében meghatározott Felületen fel kell tüntetni.
 
-(10)[^103] Az (5) bekezdés c) pontjában meghatározott célú műveleti korlátozás az Országgyűlési Őrségnek az Országgyűlésről szóló 2012. évi XXXVI. törvényben meghatározott feladatai teljesítése során, az említett törvényben meghatározott intézkedésekben és eljárásokban a helyszínen meghatározott feladatok ellátásának időtartamára, de legfeljebb 24 órára írható elő, amely egy alkalommal 24 órával meghosszabbítható, legfeljebb az elrendelésre okot adó esemény kezdetétől annak végéig, amelyet a Felületen fel kell tüntetni.
+(10)[^106] Az (5) bekezdés c) pontjában meghatározott célú műveleti korlátozás az Országgyűlési Őrségnek az Országgyűlésről szóló 2012. évi XXXVI. törvényben meghatározott feladatai teljesítése során, az említett törvényben meghatározott intézkedésekben és eljárásokban a helyszínen meghatározott feladatok ellátásának időtartamára, de legfeljebb 24 órára írható elő, amely egy alkalommal 24 órával meghosszabbítható, legfeljebb az elrendelésre okot adó esemény kezdetétől annak végéig, amelyet a Felületen fel kell tüntetni.
+
+(10a)[^107] Az (5) bekezdés a) pontjában meghatározott célú műveleti korlátozás az általános rendőrségi feladatok ellátására létrehozott szervnek és a Terrorelhárítási Központnak a védett személyek és a kijelölt létesítmények védelméről szóló 160/1996. (XI. 5.) Korm. rendelet 1. § (1) bekezdés a) pontjában és (2) bekezdés a) pontjában, az Országgyűlési Őrségnek az Országgyűlésről szóló 2012. évi XXXVI. törvény 125. § (2) bekezdés a) pontjában foglalt feladata teljesítése céljából – a légiközlekedési hatóságnak a légiközlekedés zavartalan működését biztosító feladatait nem sértve, a légiközlekedési hatóság előzetes hozzájárulásában foglaltak szerint – a (9) és (10) bekezdésben meghatározott időtartamon túl, de legfeljebb 6 hónapig is előírható korlátozás, amely mindaddig ismételten legfeljebb 6 hónappal meghosszabbítható, amíg a korlátozás oka fennáll. A korlátozást a 4/C. § (1) bekezdésében meghatározott Felületen fel kell tüntetni.
 
 (11) Az (5) bekezdésben meghatározott műveleti korlátozás
 
@@ -108,18 +114,24 @@ c) a hivatásos katasztrófavédelmi szervek a katasztrófavédelemről és a ho
 
 d) a büntetés-végrehajtási szervezet szervei a büntetés-végrehajtási szervezetről szóló törvényben
 
+e)[^108] a Nemzeti Adó- és Vámhivatalról szóló törvény 4. §-ában meghatározott szervek a Nemzeti Adó- és Vámhivatalról szóló törvényben
+
 meghatározott feladatai teljesítése során az említett törvényekben meghatározott intézkedésekben és eljárásokban, a helyszínen meghatározott feladatok ellátásának időtartamára, de legfeljebb 12 órára írható elő, amely a korlátozást elrendelő szerv felettes szerve engedélyével alkalmanként további 12 órával meghosszabbítható, legfeljebb az elrendelésre okot adó esemény végéig. A korlátozást elrendelő döntésben meg kell határozni a korlátozás pontos kezdő és befejező időpontját, amelyet a 4/C. § (1) bekezdésében meghatározott Felületen fel kell tüntetni.
 
-(12)[^104] Ha az (5), (6) és (6a) bekezdésben meghatározott műveleti korlátozás UAS művelet céljára kijelölt eseti légteret érint, a távoli pilóta vagy a pilóta nélküli állami légijármű kezelő a korlátozás feltüntetését követően haladéktalanul értesíti az 5. § (1) bekezdés e) pontjában, vagy ha ilyet megbíztak, akkor az f) pontjában meghatározott személyt vagy szervezetet az 5/A. § (2) bekezdésében meghatározott, az ATS Központ felé teljesítendő tájékoztatás érdekében.
+(12)[^109] Ha az (5), (6) és (6a) bekezdésben meghatározott műveleti korlátozás UAS művelet céljára kijelölt eseti légteret érint, a távoli pilóta vagy a pilóta nélküli állami légijármű kezelő a korlátozás feltüntetését követően haladéktalanul értesíti az 5. § (1) bekezdés e) pontjában, vagy ha ilyet megbíztak, akkor az f) pontjában meghatározott személyt vagy szervezetet az 5/A. § (2) bekezdésében meghatározott, az ATS Központ felé teljesítendő tájékoztatás érdekében.
 
-[^94]: A 8/C. §-t a 39/2021. (II. 2.) Korm. rendelet 7. § (1) bekezdése iktatta be.
-[^95]: A 8/C. § (2) bekezdés c) pontja a 472/2021. (VIII. 6.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
-[^96]: A 8/C. § (3) bekezdés d) pontja a 239/2022. (VI. 30.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
-[^97]: A 8/C. § (3) bekezdés g) pontja az 592/2023. (XII. 20.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
-[^98]: A 8/C. § (3) bekezdés n) pontját a 472/2021. (VIII. 6.) Korm. rendelet 2. §-a iktatta be.
-[^99]: A 8/C. § (4) bekezdése a 789/2021. (XII. 27.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^100]: A 8/C. § (6a) bekezdését a 472/2021. (VIII. 6.) Korm. rendelet 1. §-a iktatta be.
-[^101]: A 8/C. § (7) bekezdése a 472/2021. (VIII. 6.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
-[^102]: A 8/C. § (8) bekezdése a 699/2021. (XII. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^103]: A 8/C. § (10) bekezdése a 789/2021. (XII. 27.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^104]: A 8/C. § (12) bekezdése a 472/2021. (VIII. 6.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^95]: A 8/C. §-t a 39/2021. (II. 2.) Korm. rendelet 7. § (1) bekezdése iktatta be.
+[^96]: A 8/C. § (2) bekezdés c) pontja a 472/2021. (VIII. 6.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^97]: A 8/C. § (3) bekezdés d) pontja a 239/2022. (VI. 30.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
+[^98]: A 8/C. § (3) bekezdés g) pontja az 592/2023. (XII. 20.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
+[^99]: A 8/C. § (3) bekezdés n) pontját a 472/2021. (VIII. 6.) Korm. rendelet 2. §-a iktatta be.
+[^100]: A 8/C. § (3) bekezdés o) pontját a 612/2023. (XII. 22.) Korm. rendelet 7. § (1) bekezdése iktatta be.
+[^101]: A 8/C. § (4) bekezdése a 789/2021. (XII. 27.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^102]: A 8/C. § (5) bekezdés nyitó szövegrésze a 612/2023. (XII. 22.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^103]: A 8/C. § (6a) bekezdését a 472/2021. (VIII. 6.) Korm. rendelet 1. §-a iktatta be.
+[^104]: A 8/C. § (7) bekezdése a 472/2021. (VIII. 6.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^105]: A 8/C. § (8) bekezdése a 612/2023. (XII. 22.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^106]: A 8/C. § (10) bekezdése a 789/2021. (XII. 27.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^107]: A 8/C. § (10a) bekezdését a 612/2023. (XII. 22.) Korm. rendelet 7. § (3) bekezdése iktatta be.
+[^108]: A 8/C. § (11) bekezdés e) pontját a 612/2023. (XII. 22.) Korm. rendelet 7. § (4) bekezdése iktatta be.
+[^109]: A 8/C. § (12) bekezdése a 472/2021. (VIII. 6.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
