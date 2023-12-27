@@ -8,4 +8,6 @@ c) közúti vagy telephelyi ellenőrzést végző hatóságra (a továbbiakban: 
 
 d) utazó munkavállalókra
 
+terjed ki.
+
 [^1]: Az 1. § a 66/2022. (II. 28.) Korm. rendelet 1. §-ával megállapított szöveg.

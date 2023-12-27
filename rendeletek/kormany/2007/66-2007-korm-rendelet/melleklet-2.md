@@ -46,7 +46,7 @@
 
 2. melléklet a 66/2007. (IV. 4.) Korm. rendelethez[^53]
 
-## Az ellenőrző szervek által egységesen alkalmazott ellenőrző eszközök
+Az ellenőrző szervek által egységesen alkalmazott ellenőrző eszközök
 
 Az e rendelet hatálya alá tartozó közúti és telephelyi ellenőrzést végző ellenőrnek rendelkeznie kell a következő eszközökkel:
 

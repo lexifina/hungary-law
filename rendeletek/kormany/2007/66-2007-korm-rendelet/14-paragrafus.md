@@ -12,4 +12,6 @@ b) legalább 50%-át telephelyi ellenőrzés keretében, és
 
 c) a menetíró készülék rendeltetésszerű működését befolyásoló eszközök feltárása érdekében az ellenőrzés alá vont járművek legalább 10%-át
 
+ellenőrizzék.
+
 [^28]: A 14. § a 66/2022. (II. 28.) Korm. rendelet 6. §-ával megállapított szöveg.

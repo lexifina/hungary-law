@@ -4,7 +4,7 @@ a) a közúti szállításra vonatkozó egyes szociális jogszabályokkal kapcso
 
 b) a menetíró készülékek közúti ellenőrzések alkalmával és jogosultsággal rendelkező műhelyek által végzett ellenőrzésével kapcsolatos helyes végrehajtási gyakorlatra vonatkozó iránymutatásokról szóló, 2009. január 23-i 2009/60/EK bizottsági ajánlás.
 
-c)[^46] a közúti szállítási ágazatban dolgozó járművezetők kiküldetésére vonatkozó különös szabályoknak a 96/71/EK irányelv és a 2014/67/EU irányelv tekintetében való meghatározásáról, a 2006/22/EK irányelvnek a végrehajtási követelmények tekintetében történő módosításáról, valamint az 1024/2012/EU rendelet módosításáról szóló, 2020. július 15-i (EU) 2020/1057 európai parlamenti és tanácsi irányelv 2. és 6. cikke.
+c)[^46] a közúti szállítási ágazatban dolgozó járművezetők kiküldetésére vonatkozó különös szabályoknak a 96/71/EK irányelv és a 2014/67/EU irányelv tekintetében való meghatározásáról, a 2006/22/EK irányelvnek a végrehajtási követelmények tekintetében történő módosításáról, valamint az 1024/2012/EU rendelet módosításáról szóló, 2020. július 15-i (EU) 2020/1057 európai parlamenti és tanácsi irányelv.
 
 (2)[^47] Ez a rendelet
 
@@ -20,8 +20,10 @@ e)[^50] a közúti fuvarozói szakma gyakorlására vonatkozó feltételek köz�
 
 f)[^51] az 1071/2009/EK rendeletnek, az 1072/2009/EK rendeletnek és az 1024/2012/EU rendeletnek a közúti fuvarozási ágazati fejleményekre tekintettel történő módosításáról szóló, 2020. július 15-i (EU) 2020/1055 európai parlamenti és tanácsi rendelet, 2. cikk 6. pontjának
 
+végrehajtásához szükséges rendelkezéseket állapít meg.
+
 [^45]: A 21. § a 272/2009. (XII. 1.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^46]: A 21. § (1) bekezdés c) pontját a 66/2022. (II. 28.) Korm. rendelet 10. § (1) bekezdése iktatta be.
+[^46]: A 21. § (1) bekezdés c) pontját a 66/2022. (II. 28.) Korm. rendelet 10. § (1) bekezdése iktatta be, szövege a 613/2023. (XII. 22.) Korm. rendelet 1. § (2) bekezdése szerint módosított szöveg.
 [^47]: A 21. § (2) bekezdése a 8/2016. (II. 9.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^48]: A 21. § (2) bekezdés c) pontját a 476/2016. (XII. 27.) Korm. rendelet 2. §-a iktatta be.
 [^49]: A 21. § (2) bekezdés d) pontját a 66/2022. (II. 28.) Korm. rendelet 10. § (2) bekezdése iktatta be.

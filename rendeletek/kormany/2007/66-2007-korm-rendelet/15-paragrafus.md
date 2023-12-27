@@ -1,5 +1,3 @@
-## ellenőrizzék.
-
 15. § (1)[^29] Az ellenőrző szervek az általuk végzett ellenőrzésekről nyilvántartást vezetnek, és azt a honlapjukon közzéteszik. A nyilvántartás legalább a (2)–(6) bekezdésekben meghatározott adatokat tartalmazza.
 
 (2) A közúti ellenőrzésről vezetett nyilvántartás tartalmazza:

@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-66-20-2
 | 2017-01-27 | 2007-66-20-22.11 | 476/2016. (XII. 27.) Korm. rendelet |
 | 2021-03-11 | 2007-66-20-22.12 | 116/2021. (III. 10.) Korm. rendelet |
 | 2022-03-05 | 2007-66-20-22.13 | 66/2022. (II. 28.) Korm. rendelet |
+| 2023-12-27 | 2007-66-20-22.14 | 613/2023. (XII. 22.) Korm. rendelet |

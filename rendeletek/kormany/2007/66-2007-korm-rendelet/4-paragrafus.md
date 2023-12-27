@@ -30,7 +30,7 @@ d) a szállítás felrakó- és lerakóhelye szerint (a szállítás kezdő- és
 
 e)[^10] a beépített menetíró kivitele (analóg vagy digitális)
 
-## alapján.
+alapján.
 
 (5)[^11] Az (1) bekezdésben meghatározott ellenőrzéseket a közúti ellenőrzés során az 1. melléklet I. részében meghatározott vizsgálati célok együttes vagy külön-külön történő vizsgálatával kell elvégezni.
 

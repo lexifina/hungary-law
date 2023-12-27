@@ -6,7 +6,7 @@ a) közúti ellenőrzés keretében a közlekedési hatóság, a rendőrség és
 
 b)[^3] telephelyi ellenőrzés keretében az üzembentartó telephelyén a közlekedési hatóság, a rendőrség, foglalkoztatás-felügyeleti hatóság, valamint a 11. § szerinti esetben a vámhatóság
 
-## ellenőrzi.
+ellenőrzi.
 
 (2)[^4] A közlekedésért felelős miniszter látja el az 561/2006/EK európai parlamenti és tanácsi rendeletben, valamint a 165/2014/EU európai parlamenti és tanácsi rendeletben meghatározott rendelkezések ellenőrzéséhez kapcsolódó tagállami koordináció, adatgyűjtés és adatszolgáltatás feladatát.
 
