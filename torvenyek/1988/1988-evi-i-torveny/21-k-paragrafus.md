@@ -38,6 +38,18 @@ h) a (4) bekezdés alapján közvetlen adathozzáféréssel átvett adatok,
 
 i) a (5) bekezdés alapján a járművek közúti és telephelyi ellenőrzése során közvetlen adathozzáféréssel átvett adatok.
 
+(3a) A közút – 33. § (1) bekezdés b) pont ba) alpontjában meghatározott – kezelője a közútkezelői hozzájárulás tekintetében érintett járműkategóriában egyedi adatlekérdezés útján jogosult a Nemzeti Tengelysúlymérő Rendszer alábbi adatainak átvételére:
+
+a) a jármű honossága, rendszáma,
+
+b) a jármű össztömege és tengelyterhelése,
+
+c) a jármű tengelyeinek száma, a tengelyek közötti távolság,
+
+d) az úthasználat helye és ideje,
+
+e) a járműről és hatósági jelzéséről készített képfelvételek.
+
 (4) A közlekedési hatóság a tengelysúlymérő-rendszer keretében az (1) bekezdés a) pont szerinti feladatai körében az ellenőrzésre való kiválasztáshoz, közvetlen adathozzáféréssel átveheti
 
 a) a járműnyilvántartásból az ellenőrzött jármű

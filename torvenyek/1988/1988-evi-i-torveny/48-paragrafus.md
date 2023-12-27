@@ -20,7 +20,7 @@ a) a Kormány, hogy
 
 7. a közlekedési hatóság vagy hatóságok kijelölését,
 
-8. a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának általános szabályait, továbbá a vizsgaközpont kijelölését,
+8. a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának általános szabályait, a vizsgaközpont kijelölését és a vizsgaközpont tevékenységének részletes szabályait,
 
 9. a közúti közlekedés szabályait,
 
@@ -198,7 +198,7 @@ b) a miniszter, hogy
 
 36. a közút lakott területen kívüli szakasza mellett a közlekedés biztonságát elősegítő közérdekű tájékoztató táblák szakmai tartalmát, valamint engedélyezésüket meghatározó testület létrehozásának, valamint a testület eljárásának részletes szabályait,
 
-37. a közúti forgalom biztonságát veszélyeztető módon veszteglő jármű elszállításának, tárolásának és értékesítésének szabályait,
+37. a közúti forgalom biztonságát veszélyeztető módon veszteglő, a közútkezelői feladatok ellátását, valamint a közúti ellenőrzéseket akadályozó, továbbá a közút területén hátrahagyott járművek elszállításának, tárolásának és értékesítésének szabályait,
 
 38. a közút és műtárgyai tervezésére, építésére, valamint a forgalom biztonságát és forgalmi rendjét meghatározó technikai eszközökre, továbbá a közutak kezelésére vonatkozó jogszabályi szintű szabályozást nem igénylő műszaki előírások, útmutatók megalkotására és kiadására, közzétételére vonatkozó eljárási szabályokat,
 
@@ -242,7 +242,7 @@ d) a közlekedésrendészetért felelős miniszter, hogy a közlekedésrendésze
 
 e) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a közlekedési hatóság eljárási, felügyeleti és egyéb díjait, valamint a díjaknak az eljáró hatóság és a vizsgaközpont, továbbá az irányítási, a felügyeleti és az ellenőrzési feladatot ellátó szervezetek közötti megosztása szabályait,
 
-f) a miniszter, hogy a 18. § (7) bekezdésében, a 20. § (1) bekezdésében és a 29/A. § (1) bekezdésében meghatározott bírság felhasználásának rendjét az államháztartásért felelős miniszterrel egyetértésben,
+f) a miniszter, hogy a 18. § (7) bekezdésében, a 20. § (1) bekezdésében és a 29/A. § (1) bekezdésében meghatározott bírság felhasználásának rendjét, az azzal összefüggő szabályokat az államháztartásért felelős miniszterrel egyetértésben,
 
 g) a miniszter, hogy az államháztartásért felelős miniszterrel és az útdíjfizetési-szolgáltatásért felelős miniszterrel egyetértésben
 

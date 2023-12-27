@@ -16,7 +16,7 @@ e) az engedélyezési eljárásokban hatásterületnek minősül azon ingatlanok
 
 (5) Az elsőfokú határozat ellen nem nyújthat be fellebbezést az az ügyfél, aki az eljárás megindításáról szóló szabályszerű értesítés ellenére az első fokú engedélyezési eljárásban nem vett részt.
 
-(6) A hatóság az eljárás megindításáról a kormányrendeletben meghatározott adatbázisban regisztrált, ügyfélnek minősülő szervezetet az általa megadott elektronikus levélcímen értesíti az eljárás megindításától számított nyolc napon belül.
+(6)
 
 (7) Ha jogszabály az engedélyezési eljárás során helyszíni szemle tartását írja elő, a közmeghallgatás a helyszíni szemlével együtt lebonyolítható.
 

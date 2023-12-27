@@ -4,7 +4,7 @@ a) a helyi közutak, valamint a helyi önkormányzat tulajdonában álló közfo
 
 b) az országos közutak, valamint az állam tulajdonában álló közforgalom elől el nem zárt magánutak, terek, parkok és egyéb közterületek vonatkozásában a Kormány rendeletében kijelölhet olyan várakozási területet, amelynek a járművel történő, várakozási célú használatáért várakozási díjat kell fizetni.
 
-(2) A díj fizetési kötelezettség alá eső várakozási területen – a lehetőségekhez képest egyenlő megoszlásban, illetve a mozgáskorlátozottak által jellemzően igénybe vett közintézmények elérhető közelségében – minden megkezdett ötven várakozási helyből ki kell jelölni legalább egy, a mozgáskorlátozottak számára fenntartott várakozási helyet.
+(2) A díjfizetési kötelezettség alá eső várakozási területen – a lehetőségekhez képest egyenlő megoszlásban, illetve a mozgáskorlátozottak által jellemzően igénybe vett közintézmények elérhető közelségében – minden megkezdett ötven várakozási helyből ki kell jelölni legalább egy, a mozgáskorlátozottak számára fenntartott várakozási helyet.
 
 (3) Díjfizetési kötelezettség olyan várakozási terület tekintetében és időszakra rendelhető el, amelyen az adott időszakban a járművek várakozására alkalmas helyek átlagos foglaltsága (a továbbiakban: telítettség) a 70%-ot meghaladja. A 70%-os telítettségi mutatót nem kell alkalmazni e törvény hatálybalépése előtt kijelölt várakozási területek tekintetében.
 

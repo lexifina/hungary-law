@@ -20,7 +20,7 @@ b) a vállalkozás járműveit érintő közúti ellenőrzések időpontja és t
 
 c) a vállalkozás járműveit érintő műszaki vizsgálatok időpontja és jellege (időszakos vagy önkéntes vizsgálat),
 
-d) a vállalkozás tulajdonában, üzemben tartásában vagy használatában lévő, M2, M3, N2, N3, O3, valamint O4 kategóriájú, közúti ellenőrzésben vagy jogsértésben érintett járművek azonosító adatai,
+d) a vállalkozás tulajdonában, üzemben tartásában vagy használatában lévő, M1, M2, M3, N1, N2, N3, O1, O2, O3, valamint O4 kategóriájú, közúti ellenőrzésben vagy jogsértésben érintett járművek azonosító adatai,
 
 e) a vállalkozással összefüggésbe hozható jogsértések adatai:
 

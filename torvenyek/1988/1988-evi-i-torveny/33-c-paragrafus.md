@@ -14,7 +14,7 @@ d) a díjköteles útszakasz azonnali elhagyását elrendelni,
 
 e) a jogosulatlan úthasználat tényének megállapítása esetén az erről készített jegyzőkönyvnek az út használatáért díjszedésre, valamint a díjfizetés ellenőrzésére jogosult szerv vagy szervezet részére történő átadásával az úthasználót a pótdíj megfizetésére kötelezni.
 
-(2) Az (1) bekezdésben meghatározott intézkedésekről jegyzőkönyv, az úthasználó személyazonosító okmányairól és a gépjármű azonosító okmányairól másolat készítésére kizárólag jogsértés megállapítása esetén kerül sor.
+(2) Az (1) bekezdésben meghatározott intézkedésekről – jogsértés megállapítása esetén – jegyzőkönyvet, az úthasználó személyazonosító okmányairól és a gépjármű azonosító okmányairól – ha rendelkezésre áll – másolatot kell készíteni.
 
 (3) Az (1) bekezdés a)–b) és d)–e) pont szerinti intézkedések megtételére, valamint ezen tevékenységhez kapcsolódóan a 33/B. § (4) bekezdés szerinti adatkezelésre a rendőrség általános rendőrségi feladatok ellátására létrehozott szerve is jogosult.
 
