@@ -8,7 +8,7 @@ b) a tiszta és energiahatékony közúti járművek használatának előmozdít
 
 c) a 2012/34/EU európai parlamenti és tanácsi irányelvnek a belföldi vasúti személyszállítási szolgáltatások piacának megnyitása és a vasúti infrastruktúra irányítása tekintetében történő módosításáról szóló, 2016. december 14-i 2016/2370 európai parlamenti és tanácsi irányelv
 
-d) az intelligens közlekedési rendszereknek a közúti közlekedés területén történő kiépítésére, valamint a más közlekedési módokhoz való kapcsolódására vonatkozó keretről szóló, 2010. július 7-i 2010/40/EU európai parlamenti és tanácsi irányelv.
+d)
 
 (2) Ez a törvény a következő rendeletek végrehajtásához szükséges rendelkezéseket állapítja meg:
 

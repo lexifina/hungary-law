@@ -20,7 +20,7 @@ f) a közlekedési szolgáltató belső szabályozásainak a közszolgáltatási
 
 g) a közlekedési szolgáltató a közszolgáltatási szerződéssel összefüggő pénzügyi gazdálkodására.
 
-(4) Az ellátásért felelős a közszolgáltatási szerződésben rögzített személyszállítási közszolgáltatások mennyiségi és minőségi előírásai betartásának folyamatos nyomon követése érdekében a közszolgáltatási szerződésben a (3) bekezdés a)–c) pontjában foglaltak teljesülésére vonatkozó szolgáltatási szint-mérési rendszert határoz meg és működtet.
+(4) Az ellátásért felelős a közszolgáltatási szerződésben rögzített személyszállítási közszolgáltatások mennyiségi és minőségi előírásai betartásának folyamatos nyomon követése érdekében a közszolgáltatási szerződésben a (3) bekezdés a)–c) pontjában foglaltak teljesülésére vonatkozó szolgáltatási szint-mérési rendszert határoz meg és a szolgáltatók bevonásával működtet.
 
 (5) Az ellátásért felelős a közszolgáltatások ellentételezésére fordított közforrások felhasználásának ellenőrzése érdekében a közszolgáltatási szerződésben a (3) bekezdés d)–g) pontjára kiterjedő pénzügyi és gazdálkodási jellegű ellenőrzési rendszert határoz meg és működtet.
 
