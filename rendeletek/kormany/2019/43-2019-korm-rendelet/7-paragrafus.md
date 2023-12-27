@@ -22,7 +22,7 @@ b) a közlekedésszervezőt, valamint
 
 c) az üzemeltetőt
 
-## az őket terhelő kötelezettségek tekintetében próbavásárlással, helyszíni, dokumentumalapú ellenőrzés keretében, valamint elektronikai eszközök útján ellenőrizheti.
+az őket terhelő kötelezettségek tekintetében próbavásárlással, helyszíni, dokumentumalapú ellenőrzés keretében, valamint elektronikai eszközök útján ellenőrizheti.
 
 (8) Az ellenőrzés során az autóbuszos hatóság jogosult eljárni minden olyan gazdálkodó szervezettel szemben, amely autóbuszos személyszállítási vagy ahhoz kapcsolódó kiegészítő (például telephely-szolgáltató, kiszolgálólétesítményt üzemeltető) tevékenységet végez.
 

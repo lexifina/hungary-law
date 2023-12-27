@@ -15,3 +15,5 @@ d) a közlekedési igazgatási feladatokkal összefüggő hatósági feladatokat
 a) – az autóbusszal személyszállítási engedély nélkül végzett közúti személyszállítási tevékenység mint piactorzító magatartás kivételével – a közúti árufuvarozáshoz, személyszállításhoz és a közúti közlekedéshez kapcsolódó egyes rendelkezések megsértése esetén kiszabható bírságok összegéről, valamint a bírságolással összefüggő hatósági feladatokról szóló kormányrendelet mellékleteiben vagy
 
 b) a vasúti és autóbuszos személyszállítást igénybe vevő utasok jogainak védelméről szóló kormányrendeletben
+
+foglalt valamely jogsértésnek felel meg.
