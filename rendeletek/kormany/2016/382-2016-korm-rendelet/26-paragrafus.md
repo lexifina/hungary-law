@@ -148,6 +148,8 @@ l)[^191] az Unió területén közlekedő haszonjárművek közlekedésre való 
 
 m)[^192] a belvízi hajózásban szükséges szakmai képesítések elismeréséről, valamint a 91/672/EGK és a 96/50/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2397 európai parlamenti és tanácsi irányelvnek
 
+n)[^193] a transzeurópai közlekedési hálózat (TEN-T) megvalósításának előmozdítását célzó egyszerűsítési intézkedésekről szóló, 2021. július 7-i (EU) 2021/1187 európai parlamenti és tanácsi irányelvnek
+
 való megfelelést szolgálja.
 
 [^170]: A 26. § (1) bekezdése a 233/2017. (VIII. 14.) Korm. rendelet 15. §-ával megállapított szöveg.
@@ -173,3 +175,4 @@ való megfelelést szolgálja.
 [^190]: A 26. § (4) bekezdés g) pontja a 267/2018. (XII. 20.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^191]: A 26. § (4) bekezdés l) pontját a 289/2018. (XII. 21.) Korm. rendelet 27. § (2) bekezdése iktatta be.
 [^192]: A 26. § (4) bekezdés m) pontját a 66/2022. (II. 28.) Korm. rendelet 16. §-a iktatta be.
+[^193]: A 26. § (4) bekezdés n) pontját a 612/2023. (XII. 22.) Korm. rendelet 48. §-a iktatta be.

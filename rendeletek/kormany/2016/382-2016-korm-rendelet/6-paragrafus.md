@@ -1,5 +1,3 @@
-## 5/B. §[^86] A Kormány muzeális minősítő szervezetként a Magyar Autóklubot jelöli ki. A muzeális jellegű járművekre vonatkozó szakmai szabályok kidolgozására, kiadására, valamint a muzeális járművek tekintetében a nyilvántartás vezetésére jogosult szervezetként, a muzeális minősítő rendszer működtetőjeként a Kormány a KTI Közlekedéstudományi Intézet Nonprofit Kft.-t jelöli ki.
-
 ## 4. A vasúti közlekedési hatóság kijelölése
 
 6. §[^87] (1) Vasúti közlekedési hatóságként a Kormány a (3) bekezdésben foglalt kivétellel a minisztert jelöli ki.
@@ -22,7 +20,6 @@ b) – a létfontosságú rendszerelem vasúti kapcsolata esetén – a logiszti
 
 tartozó létfontosságú rendszerek és létesítmények azonosítása, kijelölése, kijelölésének visszavonása és védelme tekintetében ágazati kijelölő hatóságként és helyszíni ellenőrzést lefolytató szervként.
 
-[^86]: Az 5/B. §-t a 360/2019. (XII. 30.) Korm. rendelet 158. § (4) bekezdése iktatta be, szövege az 524/2021. (IX. 8.) Korm. rendelet 7. §-ával megállapított szöveg.
 [^87]: A 6. § a 473/2016. (XII. 27.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
 [^88]: A 6. § (5) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 84. §-a szerint módosított szöveg.
 [^89]: A 6. § (7) bekezdését a 161/2019. (VII. 4.) Korm. rendelet 23. § (2) bekezdése iktatta be.

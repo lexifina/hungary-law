@@ -55,3 +55,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-382-20-
 | 2023-05-27 | 2016-382-20-22.47 | 789/2021. (XII. 27.) Korm. rendelet |
 | 2023-07-19 | 2016-382-20-22.48 | 307/2023. (VII. 11.) Korm. rendelet |
 | 2023-09-01 | 2016-382-20-22.49 | 410/2023. (VIII. 30.) Korm. rendelet |
+| 2023-12-27 | 2016-382-20-22.50 | 360/2019. (XII. 30.) Korm. rendelet |
