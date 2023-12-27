@@ -10,7 +10,7 @@ ba) a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbia
 
 bb) a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény (a továbbiakban: Szabs. tv.) szerinti ittas vezetés (Szabs. tv. 217. §), a légiközlekedési biztonságát és védelmét szolgáló szabályok megszegése (Szabs. tv. 228. §) elkövetésének alapos gyanúja esetén szabálysértési eljárás hatálya alá kerül annak lezárásáig vagy
 
-c)[^49] az engedélyes 27/2014. (IV. 30) NFM rendeletben meghatározottak szerint egészségileg alkalmatlan állapotban lát el szakszolgálati tevékenységet, addig az időpontig, ameddig a repülőorvosi vizsgálat az egészségügyi alkalmasságot meg nem állapítja.
+c)[^51] az engedélyes 27/2014. (IV. 30) NFM rendeletben meghatározottak szerint egészségileg alkalmatlan állapotban lát el szakszolgálati tevékenységet, addig az időpontig, ameddig a repülőorvosi vizsgálat az egészségügyi alkalmasságot meg nem állapítja.
 
 (2) Az (1) bekezdés b) pontjában meghatározott esetben – amennyiben a szakszolgálati engedélybe vagy a betétlapra több jogosítás is be van jegyezve és a megállapított eltérés nem jelenti a többi jogosítás gyakorlásához szükséges feltételek nem teljesítését – a légiközlekedési hatóság felfüggesztheti csak a szakszolgálati engedélybe vagy a betétlapra bejegyzett azon jogosítást is, amellyel összefüggésben a légiközlekedési szabályokat az engedélyes megszegte.
 
@@ -18,4 +18,4 @@ c)[^49] az engedélyes 27/2014. (IV. 30) NFM rendeletben meghatározottak szerin
 
 (4) A szakszolgálati engedély, a betétlap vagy a jogosítás engedélyese a szakszolgálati engedélyéhez, a betétlapjához vagy a felfüggesztett jogosításához kapcsolódó jogosultságokat a felfüggesztés időtartama alatt nem gyakorolhatja.
 
-[^49]: A 77. § (1) bekezdés c) pontja a 713/2020. (XII. 30.) Korm. rendelet 59. § a) pontja szerint módosított szöveg.
+[^51]: A 77. § (1) bekezdés c) pontja a 713/2020. (XII. 30.) Korm. rendelet 59. § a) pontja szerint módosított szöveg.
