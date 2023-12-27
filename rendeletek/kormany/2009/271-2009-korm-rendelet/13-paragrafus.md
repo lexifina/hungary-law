@@ -1,6 +1,6 @@
 ## A felek jogai és kötelezettségei
 
-13. § (1)[^43] A vasúti társaság az EU rendelet 7. cikk (1) bekezdésében foglaltakon túl köteles az utast a menetrendben foglalt feltételek szerint, biztonságosan szállítani.
+13. § (1)[^46] A vasúti társaság az EU rendelet 7. cikk (1) bekezdésében foglaltakon túl köteles az utast a menetrendben foglalt feltételek szerint, biztonságosan szállítani.
 
 (2) Az utas jogosult a vonaton utazni, a kiszolgáló létesítményeket, berendezéseket használni, a személyszállításhoz kapcsolódó szolgáltatásokat igénybe venni.
 
@@ -12,10 +12,10 @@
 
 (6) Az utas a személyszállítás (fel- és leszállás, várakozás, utazás) során tartózkodni köteles a közlekedés biztonságát, a közlekedési eszközök, az utaskiszolgáló létesítmények és berendezések épségét, az utastársak kényelmét és nyugalmát zavaró magatartástól.
 
-(7)[^44] A vasúti társaság üzletszabályzatában meghatározza a fogyatékossággal élő és csökkent mozgásképességű személy segítségnyújtásra irányuló igénye benyújtásának módját és a benyújtásra nyitva álló határidőt.
+(7)[^47] A vasúti társaság üzletszabályzatában meghatározza a fogyatékossággal élő és csökkent mozgásképességű személy segítségnyújtásra irányuló igénye benyújtásának módját és a benyújtásra nyitva álló határidőt.
 
-(8)[^45] A (7) bekezdés szerinti határidő legfeljebb az utazás tervezett megkezdését megelőző 36 óra lehet.
+(8)[^48] A (7) bekezdés szerinti határidő legfeljebb az utazás tervezett megkezdését megelőző 36 óra lehet.
 
-[^43]: A 13. § (1) bekezdése a 223/2023. (VI. 6.) Korm. rendelet 10. § i) pontja szerint módosított szöveg.
-[^44]: A 13. § (7) bekezdését a 328/2013. (IX. 3.) Korm. rendelet 17. § c) pontja hatályon kívül helyezte, újonnan a 223/2023. (VI. 6.) Korm. rendelet 5. §-a iktatta be.
-[^45]: A 13. § (8) bekezdését a 223/2023. (VI. 6.) Korm. rendelet 5. §-a iktatta be.
+[^46]: A 13. § (1) bekezdése a 223/2023. (VI. 6.) Korm. rendelet 10. § i) pontja szerint módosított szöveg.
+[^47]: A 13. § (7) bekezdését a 328/2013. (IX. 3.) Korm. rendelet 17. § c) pontja hatályon kívül helyezte, újonnan a 223/2023. (VI. 6.) Korm. rendelet 5. §-a iktatta be.
+[^48]: A 13. § (8) bekezdését a 223/2023. (VI. 6.) Korm. rendelet 5. §-a iktatta be.

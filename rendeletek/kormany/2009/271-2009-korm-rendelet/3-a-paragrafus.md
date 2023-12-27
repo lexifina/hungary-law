@@ -1,3 +1,3 @@
-3/A. §[^13] Az EU rendeletben foglaltakat a szigorúan történelmi vagy turisztikai céllal működtetett személyszállítási szolgáltatásokra – az EU rendelet 13. és 14. cikke kivételével – nem kell alkalmazni.
+3/A. §[^14] Az EU rendeletben foglaltakat a szigorúan történelmi vagy turisztikai céllal működtetett személyszállítási szolgáltatásokra – az EU rendelet 13. és 14. cikke kivételével – nem kell alkalmazni.
 
-[^13]: A 3/A. §-t a 223/2023. (VI. 6.) Korm. rendelet 3. §-a iktatta be.
+[^14]: A 3/A. §-t a 223/2023. (VI. 6.) Korm. rendelet 3. §-a iktatta be.

@@ -24,6 +24,8 @@ j)[^9] elektronikus bérlet: olyan, elektronikus adathordozón rögzített, szem
 
 k)[^10] területi érvényességű menetjegy: viszonylatmegjelölés nélküli, nem távolságalapú díjszámítás alapján árazott menetjegy.
 
+l)[^11] személyhez kötött utazási jogosultság: a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 2. § 52. pontjában meghatározott fogalom.
+
 [^3]: A 2. § b) pontja a 134/2022. (IV. 7.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^4]: A 2. § c) pontja a 328/2013. (IX. 3.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
 [^5]: A 2. § f) pontja a 223/2023. (VI. 6.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
@@ -32,3 +34,4 @@ k)[^10] területi érvényességű menetjegy: viszonylatmegjelölés nélküli, 
 [^8]: A 2. § i) pontját a 328/2013. (IX. 3.) Korm. rendelet 6. §-a iktatta be.
 [^9]: A 2. § j) pontját a 134/2022. (IV. 7.) Korm. rendelet 2. § (2) bekezdése iktatta be.
 [^10]: A 2. § k) pontját a 91/2023. (III. 23.) Korm. rendelet 8. §-a iktatta be.
+[^11]: A 2. § l) pontját a 612/2023. (XII. 22.) Korm. rendelet 20. §-a iktatta be.
