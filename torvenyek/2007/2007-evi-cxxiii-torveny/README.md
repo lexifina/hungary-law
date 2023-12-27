@@ -43,3 +43,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-123-00-00
 | 2022-01-01 | 2021. évi CXXII. törvény | 2007-123-00-00.41 |
 | 2023-01-01 | 2022. évi XXII. törvény | 2007-123-00-00.42 |
 | 2023-07-01 | 2023. évi XLIV. törvény | 2007-123-00-00.44 |
+| 2023-12-27 | 2023. évi CVII. törvény | 2007-123-00-00.46 |
