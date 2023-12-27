@@ -1,3 +1,3 @@
-8. §[^1]
+8. §[^8]
 
-[^1]: A 8. § a 10. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^8]: A 8. § a 10. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.

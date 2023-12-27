@@ -1,20 +1,22 @@
 9. § (1) Hatályát veszti az R.
 
-a) 10. § (2c) bekezdése,
+a)[^9]
 
-b) 14. § (7) bekezdésében az „ , és azt az utánpótlás-nevelés központi költségvetési támogatására kell fordítani” szövegrész,
+b)[^10]
 
-c)[^2]
+c)[^11]
 
 (2) Hatályát veszti az R.
 
-a)[^3]
+a)[^12]
 
-b)[^4]
+b)[^13]
 
-c)[^5]
+c)[^14]
 
-[^2]: A 9. § (1) bekezdés c) pontja a 10. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
-[^3]: A 9. § (2) bekezdés a) pontja a 10. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
-[^4]: A 9. § (2) bekezdés b) pontja a 10. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
-[^5]: A 9. § (2) bekezdés c) pontja a 10. § (3) bekezdés alapján 2024. február 15-én lép hatályba.
+[^9]: A 9. § (1) bekezdés a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 9. § (1) bekezdés b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 9. § (1) bekezdés c) pontja a 10. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^12]: A 9. § (2) bekezdés a) pontja a 10. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^13]: A 9. § (2) bekezdés b) pontja a 10. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^14]: A 9. § (2) bekezdés c) pontja a 10. § (3) bekezdés alapján 2024. február 15-én lép hatályba.

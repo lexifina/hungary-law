@@ -1,3 +1,3 @@
-3. § Az R. 10. § (2) bekezdése helyébe a következő rendelkezés lép:
+3. §[^3]
 
-„(2) A támogatott szervezet – a módosítás okáról való tudomásszerzéstől számított 30 napon belül – a támogatási időszak során egy alkalommal kérelmezheti a jóváhagyást végző szervezetnél a támogatási időszakra vonatkozó sportfejlesztési programban meghatározott szakmai program támogatási jogcímek közötti módosítását. A módosítási kérelem nem irányulhat a 4. § (7) bekezdése szerint jóváhagyott, igénybe vehető támogatási jogcím alapján nyújtott támogatás legnagyobb mértékének és – az (5a) és (6) bekezdésben foglaltak kivételével – a sportfejlesztési program szerinti összes támogatás összegének növelésére. A módosítási kérelemhez a 4. § (2) bekezdésében meghatározott dokumentumokat, nyilatkozatokat kell csatolni a jóváhagyást végző szervezet részére.”
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
