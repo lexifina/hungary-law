@@ -24,6 +24,10 @@ k)[^11] a kétoldalú közúti áru- és személyszállításról szóló nemzet
 
 l)[^12] a személygépkocsival díj ellenében végzett közúti személyszállításról szóló kormányrendeletben
 
+m)[^13] a Kkt.-ban,
+
+n)[^14] egyrészről az Európai Unió és az Európai Atomenergia-közösség, másrészről Nagy-Britannia és Észak-Írország Egyesült Királysága között megkötött kereskedelmi és együttműködési megállapodásban
+
 meghatározott, a közúti közlekedési szolgáltatások végzéséhez előírt engedélyekre és okmányokra vonatkozó rendelkezést megsérti.
 
 [^2]: A 2. § nyitó szövegrésze a 791/2021. (XII. 27.) Korm. rendelet 3. §-a szerint módosított szöveg.
@@ -37,3 +41,5 @@ meghatározott, a közúti közlekedési szolgáltatások végzéséhez előírt
 [^10]: A 2. § j) pontja a 171/2014. (VII. 18.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
 [^11]: A 2. § k) pontja a 171/2014. (VII. 18.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
 [^12]: A 2. § l) pontját a 171/2014. (VII. 18.) Korm. rendelet 12. §-a hatályon kívül helyezte, újonnan a 176/2015. (VII. 7.) Korm. rendelet 30. § (2) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 26. §-át.
+[^13]: A 2. § m) pontját a 612/2023. (XII. 22.) Korm. rendelet 13. §-a iktatta be.
+[^14]: A 2. § n) pontját a 612/2023. (XII. 22.) Korm. rendelet 13. §-a iktatta be.

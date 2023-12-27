@@ -1,6 +1,6 @@
-9/A. §[^35] (1) A Kkt. 20. § (1) bekezdés h) pontjához kapcsolódóan a 14. mellékletben meghatározott egyes jogsértések esetén az elkövetőre a jogsértéshez meghatározott összegű bírságot kell kiszabni.
+9/A. §[^38] (1) A Kkt. 20. § (1) bekezdés h) pontjához kapcsolódóan a 14. mellékletben meghatározott egyes jogsértések esetén az elkövetőre a jogsértéshez meghatározott összegű bírságot kell kiszabni.
 
-(2)[^36] Az (1) bekezdés szerinti, egy időpontban elkövetett jogsértő magatartások miatt megállapított bírság együttes összege üzembentartó esetén nem haladhatja meg a 780 000 forintot, járművezető esetén a 195 000 forintot.
+(2)[^39] Az (1) bekezdés szerinti, egy időpontban elkövetett jogsértő magatartások miatt megállapított bírság együttes összege üzembentartó esetén nem haladhatja meg a 780 000 forintot, járművezető esetén a 195 000 forintot.
 
 (3) E rendelet alkalmazásában:
 
@@ -8,5 +8,5 @@ a) komoly hiányosság: a közúti járművek műszaki megvizsgálásáról szó
 
 b) veszélyes hiányosság: a közúti járművek műszaki megvizsgálásáról szóló miniszteri rendelet 10. számú melléklet III. rész 1. táblázata, valamint a IV. rész 2. táblázata szerinti veszélyes hiányosság.
 
-[^35]: A 9/A. §-t a 289/2018. (XII. 21.) Korm. rendelet 6. §-a iktatta be, szövege az 595/2020. (XII. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^36]: A 9/A. § (2) bekezdése a 393/2023. (VIII. 14.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^38]: A 9/A. §-t a 289/2018. (XII. 21.) Korm. rendelet 6. §-a iktatta be, szövege az 595/2020. (XII. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^39]: A 9/A. § (2) bekezdése a 393/2023. (VIII. 14.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.

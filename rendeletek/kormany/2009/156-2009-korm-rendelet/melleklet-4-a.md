@@ -146,6 +146,6 @@
 
 | 73 | M7 | Menetíró készüléket befolyásoló eszköz járműbe vagy menetíró készülékbe történő beépítése | NSJ | 390 000 | a menetíró szerelőműhely üzeme |
 
-4/A. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^87]
+4/A. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^90]
 
-[^87]: A 4/A. mellékletet a 476/2016. (XII. 27.) Korm. rendelet 7. § (5) bekezdése iktatta be, szövege a 393/2023. (VIII. 14.) Korm. rendelet 4. § (5) bekezdésével megállapított szöveg.
+[^90]: A 4/A. mellékletet a 476/2016. (XII. 27.) Korm. rendelet 7. § (5) bekezdése iktatta be, szövege a 393/2023. (VIII. 14.) Korm. rendelet 4. § (5) bekezdésével megállapított szöveg.

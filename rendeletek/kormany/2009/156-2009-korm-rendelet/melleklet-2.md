@@ -108,6 +108,6 @@
 
 | 54 | 27. | A szerződéses kötelezettségekre alkalmazandó jog megsértése | SJ | 260 000 | szállító |
 
-2. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^84]
+2. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^87]
 
-[^84]: A 2. melléklet a 393/2023. (VIII. 14.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^87]: A 2. melléklet a 393/2023. (VIII. 14.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
