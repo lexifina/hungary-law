@@ -1,8 +1,6 @@
-## végrehajtásához szükséges rendelkezéseket állapít meg.
-
 1. melléklet a 8/2016. (XII. 6.) NMHH rendelethez
 
-## Alapvető követelmények
+Alapvető követelmények
 
 1. Általános követelmények
 

@@ -9,3 +9,5 @@
 a) egy adott területen fennálló vagy előre látható elektromágneses összeférhetőségi probléma megoldására irányuló, illetve
 
 b) nyilvános elektronikus hírközlő hálózat, vagy adó vagy vevőállomás védelme érdekében biztonsági okból szükséges és pontosan meghatározott spektrum helyzetekben biztonsági célokat szolgáló,
+
+az elektronikus hírközlésről szóló törvényben meghatározott hatósági intézkedést foganatosít, ezen intézkedést nyolc napon belül bejelenti a Bizottságnak és értesíti a többi tagállamot.

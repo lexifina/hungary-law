@@ -1,6 +1,6 @@
 2. melléklet a 8/2016. (XII. 6.) NMHH rendelethez
 
-## A. MODUL: BELSŐ GYÁRTÁSELLENŐRZÉS
+A. MODUL: BELSŐ GYÁRTÁSELLENŐRZÉS
 
 1. A belső gyártásellenőrzés az a megfelelőségértékelési eljárás, amellyel a gyártó eleget tesz az e melléklet 2., 3., 4. és 5. pontjában foglalt kötelezettségeknek, továbbá biztosítja és saját felelősségére kijelenti, hogy a szóban forgó készülék megfelel e rendeletnek.
 
