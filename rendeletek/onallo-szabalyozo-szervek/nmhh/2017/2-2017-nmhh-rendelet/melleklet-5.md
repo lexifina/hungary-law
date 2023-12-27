@@ -28,7 +28,7 @@
 
 5. melléklet a 2/2017. (I. 17.) NMHH rendelethez
 
-## Az EU-megfelelőségi nyilatkozat tartalma
+Az EU-megfelelőségi nyilatkozat tartalma
 
 A
 

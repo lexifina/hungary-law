@@ -64,7 +64,7 @@
 
 3. melléklet a 2/2017. (I. 17.) NMHH rendelethez
 
-## H MODUL: A TELJES MINŐSÉGBIZTOSÍTÁSON ALAPULÓ MEGFELELŐSÉG
+H MODUL: A TELJES MINŐSÉGBIZTOSÍTÁSON ALAPULÓ MEGFELELŐSÉG
 
 1. A teljes minőségbiztosításon alapuló megfelelőség az a megfelelőségértékelési eljárás, amellyel a gyártó eleget tesz a 2. és 5. pontban megállapított kötelezettségeknek, továbbá biztosítja és saját felelősségére kijelenti, hogy a szóban forgó rádióberendezés megfelel e rendeletnek.
 
