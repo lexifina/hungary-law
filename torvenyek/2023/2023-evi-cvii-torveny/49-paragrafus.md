@@ -7,15 +7,3 @@ a) a polgári légi közlekedés védelmének közös szabályairól és a 2320/
 b) a fenntartható légi közlekedés egyenlő versenyfeltételeinek biztosításáról szóló, 2023. október 18-i (EU) 2023/2405 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
-
-|
-
-Novák Katalin s. k.,
-
-köztársasági elnök
-
-|
-
-Dr. Latorcai János s. k.,
-
-az Országgyűlés alelnöke

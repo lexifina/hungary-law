@@ -1,5 +1,3 @@
-## „34. tájékozódást segítő jelzést megjelenítő reklámcélú eszköz: a közúton közlekedők tájékozódását megkönnyítő vagy azt segítő, különböző szolgáltatások igénybevételének, kulturális, idegenforgalmi vagy egyéb tevékenység végzésének lehetőségét úticélként megjelölő, továbbá ezek irányát, távolságát vagy helyszínét mutató jelzést megjelenítő, közvilágítási-, villany- és telefonoszlopon elhelyezhető berendezés, amely tartalmazhat a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény 3. § d) pontjában meghatározott szót, szóösszetételt, grafikai vagy egyéb ábrát, illetve szöveges vagy képi megjelenítést, jelet; a tájékozódást segítő jelzést megjelenítő reklámcélú eszköz nem minősül a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény 3. § d) pontjában meghatározott gazdasági reklámnak, reklámtáblának, reklámhordozónak, sem egyéb reklámcélú berendezésnek;”
-
 9. § (1) A közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdés a) pont 8. alpontja helyébe a következő rendelkezés lép:
 
 (Felhatalmazást kap

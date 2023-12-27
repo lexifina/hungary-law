@@ -1,5 +1,3 @@
-## „e) a közvilágítási-, villany- és telefonoszlopon elhelyezett tájékozódást segítő jelzést megjelenítő reklámcélú eszköz nem minősül a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény 3. § d) pontja szerinti gazdasági reklámnak.”
-
 2. § A közúti közlekedésről szóló 1988. évi I. törvény 14/A. §-a helyébe a következő rendelkezés lép:
 
 „14/A. § (1) Az országos közúton a közút kezelője – a rendőrség értesítésével – elszállíthatja azt a járművet, amely
