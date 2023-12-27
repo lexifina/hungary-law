@@ -8,25 +8,27 @@
 
 4. egyenruházati bolt: az igényjogosult állomány ruházati ellátását biztosító, a Bv. Holding Kft. által működtetett, ruházati termékek és felszerelési cikkek forgalmazására kijelölt bolt;
 
+4a.[^3] formaruha: a hivatásos és a nem hivatásos állomány egy meghatározott csoportjának (különösen: ügyfélszolgálati munkatársak, hallgatói állomány, tanulói állomány) egységes megjelenését biztosító öltözéke;
+
 5. helyi szerv: a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény végrehajtásáról szóló 154/2015. (VI. 19.) Korm. rendelet 1. mellékletében meghatározott, a Hszt. alkalmazásában helyi szervnek minősülő szerv;
 
 6. igényjogosult: az 1. §-ban meghatározott rendvédelmi feladatokat ellátó szervek hivatásos állománya, valamint a rendvédelmi oktatási intézmények tanulói és hallgatói állománya;
 
-7.[^3] középfokú szakirányító szerv: a központi szerv, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv, továbbá – a hallgatók vonatkozásában – a Nemzeti Közszolgálati Egyetem Rendészettudományi Kar (a továbbiakban: NKE-RTK);
+7.[^4] középfokú szakirányító szerv: a központi szerv, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv, továbbá – a hallgatók vonatkozásában – a Nemzeti Közszolgálati Egyetem Rendészettudományi Kar (a továbbiakban: NKE-RTK);
 
 8. Központi Ellátó Szerv: a központosított ellátásba vont termékek beszerzését végző szerv;
 
-9.[^4] központi szerv: az általános rendőrségi feladatok ellátására létrehozott szerv, a terrorizmust elhárító szerv, az idegenrendészeti szerv, a büntetés-végrehajtási szervezet, valamint a hivatásos katasztrófavédelmi szerv vonatkozásában a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény végrehajtásáról szóló 154/2015. (VI. 19.) Korm. rendelet 1. mellékletében meghatározott, a Hszt. alkalmazásában központi szervnek minősülő szerv, az általános rendőrségi feladatok ellátására létrehozott szerv központi szerve a rendvédelmi technikumok vonatkozásában is ellátja a központi szerv feladatait;
+9.[^5] központi szerv: az általános rendőrségi feladatok ellátására létrehozott szerv, a terrorizmust elhárító szerv, az idegenrendészeti szerv, a büntetés-végrehajtási szervezet, valamint a hivatásos katasztrófavédelmi szerv vonatkozásában a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény végrehajtásáról szóló 154/2015. (VI. 19.) Korm. rendelet 1. mellékletében meghatározott, a Hszt. alkalmazásában központi szervnek minősülő szerv, az általános rendőrségi feladatok ellátására létrehozott szerv központi szerve a rendvédelmi technikumok vonatkozásában is ellátja a központi szerv feladatait;
 
 10. központosított beszerzésű termék: a miniszter által meghatározott termékkör, amelynek az önálló szerv részére történő biztosítása a Központi Ellátó Szerv feladata;
 
-10a.[^5] megengedett öltözet: azon egyenruházati termék és felszerelési cikk, melynek rendszeresítése megtörtént, de az igényjogosult ruházati ellátási normájába nem került be, vagy új termék fejlesztését követően kiváltással kikerült onnan;
+10a.[^6] megengedett öltözet: azon egyenruházati termék és felszerelési cikk, melynek rendszeresítése megtörtént, de az igényjogosult ruházati ellátási normájába nem került be, vagy új termék fejlesztését követően kiváltással kikerült onnan;
 
 11. miniszter: a rendvédelmi feladatokat ellátó szervet irányító miniszter;
 
-12.[^6] önálló szerv: a rendőrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv, a rendvédelmi oktatási intézmények;
+12.[^7] önálló szerv: a rendőrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv, a rendvédelmi oktatási intézmények;
 
-13.[^7] ruházati szakszolgálat: a ruházati ellátással kapcsolatos feladatokat ellátó személyek, szervezetek és szervezeti elemek rendszere;
+13.[^8] ruházati szakszolgálat: a ruházati ellátással kapcsolatos feladatokat ellátó személyek, szervezetek és szervezeti elemek rendszere;
 
 14. ruházati termék és felszerelési cikk:
 
@@ -40,7 +42,7 @@ d) a munka- és védőruházat, illetve a védőeszközök, védőfelszerelések
 
 e) a ruházati egységfelszerelési anyagok,
 
-f)[^8] a hivatásos állománykategóriát kifejező jelvény, a karjelvény, a testületi jelvény, a névkitűző, a rendfokozati jelzések, a kitüntetések és tartozékaik, valamint
+f)[^9] a hivatásos állománykategóriát kifejező jelvény, a karjelvény, a testületi jelvény, a névkitűző, a rendfokozati jelzések, a kitüntetések és tartozékaik, valamint
 
 g) a javító- és karbantartóanyagok;
 
@@ -48,12 +50,13 @@ g) a javító- és karbantartóanyagok;
 
 16. területi szerv: a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény végrehajtásáról szóló 154/2015. (VI. 19.) Korm. rendelet 1. mellékletében meghatározott, a Hszt. alkalmazásában területi szervnek minősülő szerv;
 
-17.[^9] végrehajtó szervezeti egység: a területi szerv, a büntetés-végrehajtási szervezet esetében a területi és helyi szerv, valamint a rendvédelmi technikumok.
+17.[^10] végrehajtó szervezeti egység: a területi szerv, a büntetés-végrehajtási szervezet esetében a területi és helyi szerv, valamint a rendvédelmi technikumok.
 
-[^3]: A 2. § 7. pontja a 29/2016. (VII. 15.) BM rendelet 45. § a) pontja, a 37/2016. (IX. 1.) BM rendelet 20. § (2) bekezdés a) pontja, a 29/2023. (XII. 18.) MK rendelet 22. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 20. §-át.
-[^4]: A 2. § 9. pontja a 29/2017. (XI. 6.) BM rendelet 12. § a) pontja, a 20/2019. (V. 15.) BM rendelet 11. § a) pontja, a 18/2020. (VI. 30.) BM rendelet 16. § a) pontja szerint módosított szöveg.
-[^5]: A 2. § 10a. pontját a 29/2017. (XI. 6.) BM rendelet 1. §-a iktatta be.
-[^6]: A 2. § 12. pontja a 29/2016. (VII. 15.) BM rendelet 45. § a) pontja, a 37/2016. (IX. 1.) BM rendelet 20. § (2) bekezdés b) pontja, a 29/2023. (XII. 18.) MK rendelet 22. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 20. §-át.
-[^7]: A 2. § 13. pontja a 29/2016. (VII. 15.) BM rendelet 45. § b) pontja, a 29/2023. (XII. 18.) MK rendelet 22. § c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 20. §-át.
-[^8]: A 2. § 14. pont f) alpontja a 6/2022. (IV. 14.) BM rendelet 9. § a) pontja szerint módosított szöveg.
-[^9]: A 2. § 17. pontja a 29/2017. (XI. 6.) BM rendelet 12. § a) pontja, a 18/2020. (VI. 30.) BM rendelet 16. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § 4a. pontját az 55/2023. (XII. 19.) BM rendelet 1. §-a iktatta be.
+[^4]: A 2. § 7. pontja a 29/2016. (VII. 15.) BM rendelet 45. § a) pontja, a 37/2016. (IX. 1.) BM rendelet 20. § (2) bekezdés a) pontja, a 29/2023. (XII. 18.) MK rendelet 22. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 20. §-át.
+[^5]: A 2. § 9. pontja a 29/2017. (XI. 6.) BM rendelet 12. § a) pontja, a 20/2019. (V. 15.) BM rendelet 11. § a) pontja, a 18/2020. (VI. 30.) BM rendelet 16. § a) pontja szerint módosított szöveg.
+[^6]: A 2. § 10a. pontját a 29/2017. (XI. 6.) BM rendelet 1. §-a iktatta be.
+[^7]: A 2. § 12. pontja a 29/2016. (VII. 15.) BM rendelet 45. § a) pontja, a 37/2016. (IX. 1.) BM rendelet 20. § (2) bekezdés b) pontja, a 29/2023. (XII. 18.) MK rendelet 22. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 20. §-át.
+[^8]: A 2. § 13. pontja a 29/2016. (VII. 15.) BM rendelet 45. § b) pontja, a 29/2023. (XII. 18.) MK rendelet 22. § c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 20. §-át.
+[^9]: A 2. § 14. pont f) alpontja a 6/2022. (IV. 14.) BM rendelet 9. § a) pontja szerint módosított szöveg.
+[^10]: A 2. § 17. pontja a 29/2017. (XI. 6.) BM rendelet 12. § a) pontja, a 18/2020. (VI. 30.) BM rendelet 16. § a) pontja szerint módosított szöveg.

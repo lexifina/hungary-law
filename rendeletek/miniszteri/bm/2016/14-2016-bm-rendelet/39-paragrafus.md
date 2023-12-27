@@ -1,6 +1,6 @@
-## 21. [^50] A rendvédelmi technikumok tanulóinak ruházati ellátása
+## 21. [^54] A rendvédelmi technikumok tanulóinak ruházati ellátása
 
-39. § (1)[^51] A rendvédelmi technikumok tanulóit az első tanév első hónapjában a rendvédelmi technikumi, valamint a gyakorlati képzéshez szükséges, a 7. melléklet szerinti ruházattal kell ellátni. Az ellátást a Központi Ellátó Szerv biztosítja az Országos Rendőr-főkapitányság költségvetése terhére.
+39. § (1)[^55] A rendvédelmi technikumok tanulóit az első tanév első hónapjában a rendvédelmi technikumi, valamint a gyakorlati képzéshez szükséges, a 7. melléklet szerinti ruházattal kell ellátni. Az ellátást a Központi Ellátó Szerv biztosítja az Országos Rendőr-főkapitányság költségvetése terhére.
 
 (2) A tanuló részére használatra kiadott ruházati ellátmány az Országos Rendőr-főkapitányság tulajdonát képezi, amíg a tanuló kinevezésével a hivatásos szolgálati jogviszony létre nem jön.
 
@@ -14,5 +14,5 @@
 
 (7) Az igényjogosult a ruházati utánpótlási ellátmányra, a tanulói jogviszonyba történő kinevezést követő tizenharmadik hónap első napjától jogosult, feltéve, hogy ez idő alatt a szolgálati beosztásba történő kinevezésére sor kerül.
 
-[^50]: A 21. alcím címe a 18/2020. (VI. 30.) BM rendelet 16. § a) pontja szerint módosított szöveg.
-[^51]: A 39. § (1) bekezdése a 18/2020. (VI. 30.) BM rendelet 16. § a) és c) pontja szerint módosított szöveg.
+[^54]: A 21. alcím címe a 18/2020. (VI. 30.) BM rendelet 16. § a) pontja szerint módosított szöveg.
+[^55]: A 39. § (1) bekezdése a 18/2020. (VI. 30.) BM rendelet 16. § a) és c) pontja szerint módosított szöveg.

@@ -10,7 +10,7 @@ d) az az áthelyezett vagy vezényelt igényjogosult, aki további használatra 
 
 e) az az igényjogosult, akinek a 12 hónapot meghaladó tartamú rendelkezési állományba helyezése megszűnt, és a besorolásának megfelelő ruházati ellátási norma cikkösszetétele, illetve tartalma a rendelkezési állományban töltött időtartam alatt megváltozott.
 
-(2)[^24] Az alapellátás-kiegészítésben részesülő igényjogosult ruházati utánpótlási ellátmányra jogosult.
+(2)[^26] Az alapellátás-kiegészítésben részesülő igényjogosult ruházati utánpótlási ellátmányra jogosult.
 
 (3) A polgári ruhás alapellátási normába átsorolt igényjogosult részére a ruházati ellátási normában szereplő polgári ruhapénzt nem lehet kifizetni.
 
@@ -18,4 +18,4 @@ e) az az igényjogosult, akinek a 12 hónapot meghaladó tartamú rendelkezési 
 
 (5) Az alapellátás-kiegészítési ellátmánnyal való elszámolást a 21. §-ban foglaltaknak megfelelően kell végrehajtani.
 
-[^24]: A 15. § (2) bekezdése a 6/2022. (IV. 14.) BM rendelet 8. § 4. pontja szerint módosított szöveg.
+[^26]: A 15. § (2) bekezdése a 6/2022. (IV. 14.) BM rendelet 8. § 4. pontja szerint módosított szöveg.

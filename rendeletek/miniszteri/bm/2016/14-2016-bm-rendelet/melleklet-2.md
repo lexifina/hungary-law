@@ -58,7 +58,7 @@
 
 ## * Az egyenruházati cikkeknél és a ruházati felszereléseknél meghatározott tervezett viselési idők azt az időtartamot határozzák meg, aminek elteltét követően az állománynak a ruházati termékeket – ha a szolgálati feladatokat kizárólag adott ruházatban látja el – pótolni indokolt. Az azonos funkciójú (szolgálati, gyakorló-, speciális vagy munkaruházati) termékek vegyes használata mellett a ruházati cikkek tervezett viselési ideje meghosszabbodik. A ruházati szemléken a pótlandó termékek körét a termékek használtsági foka alapján kell meghatározni, figyelembe véve a ruházati utánpótlási ellátmány összegét, terhelhetőségét. A szolgálati feladatok ellátása során megsérült ruházat – az önálló szerv költségvetése terhére történő – kártérítésénél a tervezett viselési időket figyelembe kell venni.
 
-2. melléklet a 14/2016. (V. 10.) BM rendelethez[^70]
+2. melléklet a 14/2016. (V. 10.) BM rendelethez[^75]
 
 ## Az általános rendőrségi feladatok ellátására létrehozott szerv hivatásos állományára vonatkozó ruházati ellátási normák
 
@@ -72,13 +72,13 @@
 
 | 3 | 1. gyakorló ruházat | 14M e. r. gyakorló bakancs* | pár | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 
-| 4 | 10M e. r. gyakorló nadrág | db | 2 | 1 | 1 | 1 | 1 | 2 | 1 | 1 | 1 |
+| 4 | 22M gyakorló nadrág**** | db | 2 | 1 | 1 | 1 | 1 | 2 | 1 | 1 | 1 |
 
 | 5 | Gyakorló póló, sötétkék | db | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |
 
 | 5a | Teniszing, sötétkék* | db | 4 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |
 
-| 6 | 10M e. r. gyakorló zubbony, felirattal | db | 1 | 1 | 1 | 1 | 1 | 2 | 1 | 1 | 1 |
+| 6 | 22M gyakorló zubbony, tépőzáras felirattal**** | db | 1 | 1 | 1 | 1 | 1 | 2 | 1 | 1 | 1 |
 
 | 7 | 10M e. r. gyakorló dzseki, felirattal | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 
@@ -200,7 +200,9 @@ A csapatszolgálati feladatokat ellátó állomány (csapatszolgálati századok
 
 *** A polgári ruhás- és a senior alapellátási normába sorolt állomány részére a szolgálati feladatok függvényében az alegységkészletből kell biztosítani.
 
-****
+**** Alapfelszerelésként és alapellátás-kiegészítésként 2024. január 1-jétől a felszerelők részére kell kiadni.
+
+Más igényjogosultak esetében a normában előírt mennyiséget a korábban rendszeresített hasonló termék kiváltja mindaddig, amíg a 22M gyakorló zubbony, tépőzáras felirattal és 22M gyakorló nadrág termékekkel nem kerülnek ellátásra.
 
 ***** Alapfelszerelésként és alapellátás-kiegészítésként a felszerelők és azok részére kell kiadni, akiknek a ruházati normabesorolása megváltozik. A tiszthelyettes vagy zászlós rendfokozati állománycsoportba tartozó férfi állomány a lábbeli költségtérítésre nem jogosult, ők a ruházati ellátási norma 8. sora szerint kiadott 12M e. r. szolgálati félcipőt használják társasági cipőként. A női állomány részére, valamint a tiszti, főtiszti vagy tábornoki rendfokozati állománycsoportba tartozó férfi állomány részére a termék természetbeni biztosítása helyett vagy mellett (a ruházati ellátási normától függően) lábbeli költségtérítés kerül kifizetésre, amelynek összege a 12M e. r. szolgálati félcipő mindenkori beszerzési értéke. A lábbeli költségtérítés elszámolási rendje megegyezik a ruházati utánpótlási ellátmány elszámolási rendjével. A beszerzendő termékre vonatkozó paraméterek nők esetében: fekete színű, díszítőelemektől mentes, maximum 7 cm sarokmagasságú, bőr lábbeli, nem megfelelő a velúr, nubuk vagy lakk cipő, férfiak esetében: fekete színű, díszítőelemektől mentes, klasszikus fazonú, fekete bőr, fűzős lábbeli, nem megfelelő a velúr, nubuk vagy lakk cipő.
 
@@ -374,13 +376,17 @@ c) Ha az igényjogosult, egyenruhás alapellátási normába sorolt az E1-E2 nor
 
 | 18 | Motoros nadrág mellrésszel (speciális szolgálati feladatot ellátók öltözetéhez) | – |
 
-| 19 | Vízirendészeti teniszing, fehér (speciális szolgálati feladatot ellátók öltözetéhez) | – |
+| 19 | Teniszing, fehér | – |
 
 | 20 | Viharruha, kétrészes (speciális szolgálati feladatot ellátók öltözetéhez) | – |
 
 | 21 | Vízirendészeti rövidnadrág (speciális szolgálati feladatot ellátók öltözetéhez) | – |
 
 | 22 | Vízirendészeti hosszúnadrág (speciális szolgálati feladatot ellátók öltözetéhez) | – |
+
+| 23 | 10M e. r. gyakorló nadrág | 2028. december 31. |
+
+| 24 | 10M e. r. gyakorló zubbony, tépőzáras felirattal | 2028. december 31. |
 
 6. A megengedett öltözetként viselhető társasági öltözet cikkösszetétele:
 
@@ -470,7 +476,7 @@ c) Ha az igényjogosult, egyenruhás alapellátási normába sorolt az E1-E2 nor
 
 | 4 |  | 12M e. r. gyakorló bakancs, nyári | pár |  | 1 | 1 | 1 |  |  |  |
 
-| 5 |  | 10M e. r. gyakorló nadrág | db | 1 | 1 | 2 | 1 | 1 | 1 | 1 |
+| 5 |  | 22M gyakorló nadrág**** | db | 1 | 1 | 2 | 1 | 1 | 1 | 1 |
 
 | 6 |  | 12M e. r. gyakorló nadrág, nyári | db |  | 1 | 2 | 1 |  |  |  |
 
@@ -480,7 +486,7 @@ c) Ha az igényjogosult, egyenruhás alapellátási normába sorolt az E1-E2 nor
 
 | 9 |  | KR ünnepi teniszing, fehér | db | 2 | 2 | 4 | 2* | 2* | 2* | 2* |
 
-| 10 |  | 10M e. r. gyakorló zubbony, KR felirattal | db | 1 | 1 | 2 | 1 | 1 | 1 | 1 |
+| 10 |  | 22M gyakorló zubbony, tépőzáras KR felirattal**** | db | 1 | 1 | 2 | 1 | 1 | 1 | 1 |
 
 | 11 |  | 12M e. r gyakorló zubbony, nyári KR felirattal | db |  | 1 | 2 | 1 |  |  |  |
 
@@ -580,7 +586,7 @@ a) Megjegyzés:
 
 *** A polgári ruhás alapellátási normába sorolt állomány részére a szolgálati feladatok függvényében az alegységkészletből kell biztosítani.
 
-****
+**** Alapfelszerelésként és alapellátás-kiegészítésként 2024. január 1-jétől az új felszerelők részére kell kiadni. Más igényjogosultak esetében a normában előírt mennyiséget a korábban rendszeresített hasonló termék kiváltja mindaddig, amíg a 22M gyakorló zubbony, tépőzáras KR felirattal és 22M gyakorló nadrág termékekkel nem kerülnek ellátásra.
 
 ***** Alapfelszerelésként és alapellátás-kiegészítésként a felszerelők és azok részére kell kiadni, akiknek a ruházati normabesorolása megváltozik. A tiszthelyettes vagy zászlós rendfokozati állománycsoportba tartozó férfi állomány a lábbeli költségtérítésre nem jogosult, ők a ruházati ellátási norma 13. sora szerint kiadott 12M e. r. szolgálati félcipőt használják társasági cipőként. A női állomány részére, valamint tiszti, főtiszti vagy tábornoki rendfokozati állománycsoportba tartozó férfi állomány részére a termék természetbeni biztosítása helyett vagy mellett (a ruházati ellátási normától függően) lábbeli költségtérítés kerül kifizetésre, amelynek összege a 12M e. r. szolgálati félcipő mindenkori beszerzési értéke. A lábbeli költségtérítés elszámolási rendje megegyezik a ruházati utánpótlási ellátmány elszámolási rendjével. A beszerzendő termékre vonatkozó paraméterek nők esetében: fekete színű, díszítőelemektől mentes, maximum 7 cm sarokmagasságú, bőr lábbeli, nem megfelelő a velúr, nubuk vagy lakk cipő, férfiak esetében: fekete színű, díszítőelemektől mentes, klasszikus fazonú, fekete bőr, fűzős lábbeli, nem megfelelő a velúr, nubuk vagy lakk cipő.
 
@@ -686,4 +692,4 @@ bg) E1: Egyenruhás alapellátási norma a Személy- és Objektumvédelmi Igazga
 
 | 18 | Fonott kardtartó, rejtett | db | 1 | 5 év |
 
-[^70]: A 2. melléklet a 29/2017. (XI. 6.) BM rendelet 11. § (1) bekezdése, a 28/2018. (X. 15.) BM rendelet 10. §-a, a 29/2019. (VII. 17.) BM rendelet 1. § a) pontja, a 47/2019. (XII. 18.) BM rendelet 2. §-a, a 9/2020. (IV. 16.) BM rendelet 4. §-a, a 16/2021. (VI. 24.) BM rendelet 7. § a) pontja, a 6/2022. (IV. 14.) BM rendelet 7. § (1) bekezdése, a 73/2022. (XII. 27.) BM rendelet 1. §-a szerint módosított szöveg. [A 6/2022. (IV. 14.) BM rendelet 7. § (1) bekezdésében foglalt azon módosítás, mely szerint a 2. melléklet 7. pontjában foglalt táblázat I:14 mezőjében hatályát veszti az „a” szövegrész, nem vezethető át.]
+[^75]: A 2. melléklet a 29/2017. (XI. 6.) BM rendelet 11. § (1) bekezdése, a 28/2018. (X. 15.) BM rendelet 10. §-a, a 29/2019. (VII. 17.) BM rendelet 1. § a) pontja, a 47/2019. (XII. 18.) BM rendelet 2. §-a, a 9/2020. (IV. 16.) BM rendelet 4. §-a, a 16/2021. (VI. 24.) BM rendelet 7. § a) pontja, a 6/2022. (IV. 14.) BM rendelet 7. § (1) bekezdése, a 73/2022. (XII. 27.) BM rendelet 1. §-a, az 55/2023. (XII. 19.) BM rendelet 8. § (1) bekezdése szerint módosított szöveg. [A 6/2022. (IV. 14.) BM rendelet 7. § (1) bekezdésében foglalt azon módosítás, mely szerint a 2. melléklet 7. pontjában foglalt táblázat I:14 mezőjében hatályát veszti az „a” szövegrész, nem vezethető át.]

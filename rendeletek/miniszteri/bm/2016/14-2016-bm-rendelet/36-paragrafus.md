@@ -1,6 +1,6 @@
 ## 35. § A használatra – természetben vagy készpénzben – kiadott munkaruházatot, továbbá a természetben kiadott egyéni védőeszközt vagy védőruházatot mennyiségben és értékben kell nyilvántartani. A nyilvántartás nyilvántartó lap, felszerelési lap vagy elektronikus nyilvántartás alkalmazásával vezethető.
 
-## V. Fejezet[^47]
+## V. Fejezet[^51]
 
 ## AZ NKE-RTK HALLGATÓINAK, VALAMINT A RENDVÉDELMI TECHNIKUMOK TANULÓINAK RUHÁZATI ELLÁTÁSA
 
@@ -14,4 +14,4 @@
 
 (4) Az egyetemi formaruházati termékek karbantartását a hallgató maga végzi.
 
-[^47]: Az V. fejezet címe a 18/2020. (VI. 30.) BM rendelet 16. § b) pontja szerint módosított szöveg.
+[^51]: Az V. fejezet címe a 18/2020. (VI. 30.) BM rendelet 16. § b) pontja szerint módosított szöveg.

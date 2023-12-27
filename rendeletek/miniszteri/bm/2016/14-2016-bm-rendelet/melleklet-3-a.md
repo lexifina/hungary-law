@@ -1,4 +1,4 @@
-3/A. melléklet a 14/2016. (V. 10.) BM rendelethez[^72]
+3/A. melléklet a 14/2016. (V. 10.) BM rendelethez[^77]
 
 ## Az idegenrendészeti szerv hivatásos állományára vonatkozó ruházati ellátási normák
 
@@ -12,13 +12,13 @@
 
 | 3. | 1. gyakorló ruházat | 14M e. r. gyakorló bakancs | pár | 1 | 1 | 1 |
 
-| 4. | 10M e. r. gyakorló nadrág | db | 1 | 1 | 1 |
+| 4. | 22M gyakorló nadrág** | db | 1 | 1 | 1 |
 
 | 5. | Gyakorló póló, sötétkék | db | 4 | 2 | 2 |
 
 | 6. | Teniszing, sötétkék | db |  | 2 | 2 |
 
-| 7. | 10M e. r. gyakorló zubbony, felirattal | db | 1 | 1 | 1 |
+| 7. | 22M gyakorló zubbony, tépőzáras felirattal** | db | 1 | 1 | 1 |
 
 | 8. | 10M e. r. gyakorló dzseki, felirattal | db | 1 | 1 | 1 |
 
@@ -86,6 +86,8 @@ a) Megjegyzés:
 
 * Alapfelszerelésként és alapellátás-kiegészítésként a felszerelők és azok részére kell kiadni, akiknek a ruházati normabesorolása megváltozik. A tiszthelyettes vagy zászlós rendfokozati állománycsoportba tartozó férfi állomány részére a társasági cipőként történő használatra 12M e. r. szolgálati félcipőt kell kiadni. A termék természetbeni biztosítása helyett a női állomány részére, valamint a tiszti, főtiszti rendfokozati állománycsoportba tartozó férfi állomány részére lábbeli költségtérítés kerül kifizetésre, amelynek összege a 12M e. r. szolgálati félcipő mindenkori beszerzési értéke. A lábbeli költségtérítés elszámolási rendje megegyezik a ruházati utánpótlási ellátmány elszámolási rendjével. A beszerzendő termékre vonatkozó paraméterek nők esetében: fekete színű, díszítőelemektől mentes, maximum 7 cm sarokmagasságú, bőr lábbeli, nem megfelelő a velúr, nubuk vagy lakk cipő, férfiak esetében: fekete színű, díszítőelemektől mentes, klasszikus fazonú, fekete bőr, fűzős lábbeli, nem megfelelő a velúr, nubuk vagy lakk cipő.
 
+** Alapfelszerelésként és alapellátás kiegészítésként a felszerelők és azok részére kell kiadni, akiknek a ruházati normabesorolása megváltozik. Más igényjogosultak esetében a normában előírt mennyiséget a korábban rendszeresített hasonló termék – mindaddig, amíg megengedett öltözetként viselhető – kiváltja.
+
 b) Rövidítések:
 
 ba) P: Polgári ruhás alapellátási norma (férfi/női)
@@ -96,4 +98,24 @@ bc) T2: Tábornoki alapellátási norma (női)
 
 2. Az idegenrendészeti szerv hivatásos állománya ügyfélszolgálati feladatok ellátása esetén a szolgálati feladatokat formaruházatban látja el.
 
-[^72]: A 3/A. mellékletet a 47/2019. (XII. 18.) BM rendelet 3. §-a iktatta be, szövege a 6/2022. (IV. 14.) BM rendelet 7. § (3) bekezdése szerint módosított szöveg.
+3. A hivatásos állomány az alább felsorolt termékeket megengedett öltözetként viselheti.
+
+|  | A | B |
+
+| 1 | termék megnevezése | viselési határidő |
+
+| 2 | 12M e. r. gyakorló nadrág, nyári | – |
+
+| 3 | 12M e. r. gyakorló zubbony, nyári | – |
+
+| 4 | 12M e. r. gyakorló bakancs nyári | – |
+
+| 5 | 10M e. r. gyakorló bakancs | – |
+
+| 6 | Teniszing, sötétkék | – |
+
+| 7 | 10M e. r. gyakorló nadrág | 2028. 12. 31. |
+
+| 8 | 10M e. r. gyakorló zubbony, felirattal | 2028. 12. 31. |
+
+[^77]: A 3/A. mellékletet a 47/2019. (XII. 18.) BM rendelet 3. §-a iktatta be, szövege a 6/2022. (IV. 14.) BM rendelet 7. § (3) bekezdése, az 55/2023. (XII. 19.) BM rendelet 8. § (2) bekezdése szerint módosított szöveg.
