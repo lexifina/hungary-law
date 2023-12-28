@@ -1,5 +1,3 @@
-## A felségjel
-
 ## 1. A felségjel egyenlőszárú, fehér szegéllyel keretezett háromszög, amelynek magassága a háromszög alapjának kétszerese. A befogók mentén piros és fehér sáv húzódik, amelyek szélessége az alap egyhatod része. A háromszög maradék területe zöld színű.
 
 ## 1.1. A felségjelgrafikai megjelenítése
@@ -16,7 +14,7 @@
 
 5. melléklet a 15/2021. (VIII. 11.) HM rendelethez
 
-## A történelmi zászlósor
+A történelmi zászlósor
 
 1. Honfoglaláskori zászló
 

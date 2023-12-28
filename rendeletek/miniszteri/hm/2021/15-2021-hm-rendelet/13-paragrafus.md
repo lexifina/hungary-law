@@ -8,6 +8,6 @@ b) részlegesen összeválogatva vagy
 
 c) egyedileg
 
-## is meg lehet jeleníteni.
+is meg lehet jeleníteni.
 
 (2) A történelmi zászlósor elemeit, valamint azok leírását az 5. melléklet tartalmazza.

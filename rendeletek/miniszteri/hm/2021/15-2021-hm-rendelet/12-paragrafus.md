@@ -20,6 +20,6 @@ f) tűzszerész járőrhajón a kódlobogó-tároló dobozon,
 
 g) parancsnoki motorcsónakon a hajó tetején és a felépítményen mindkét oldalon
 
-## kell elhelyezni.
+kell elhelyezni.
 
 (4) A felségjel részletes leírását a 4. melléklet tartalmazza.

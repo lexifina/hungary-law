@@ -1,8 +1,6 @@
-## 17. §[^1]
-
 1. melléklet a 15/2021. (VIII. 11.) HM rendelethez
 
-## A csapatzászló és a zászlószalagok
+A csapatzászló és a zászlószalagok
 
 1. A csapatzászló
 
@@ -27,5 +25,3 @@
 1.3.1. 238 centiméter hosszú, henger alakú, skarlátszínűre lakkozott, alsó harmadánál szétcsavarható rúd. A szétcsavarás helyénél sárgaréz gyűrűk, alsó végén sárgaréz kupak zárja le.
 
 1.4. A csapatzászló grafikai megjelenítése
-
-[^1]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

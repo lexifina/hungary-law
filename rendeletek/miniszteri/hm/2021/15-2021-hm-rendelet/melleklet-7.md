@@ -1,5 +1,3 @@
-## A Magyar Honvédséghez köthető megjelölések
-
 ## 1. A Magyar Honvédség főparancsnoka lobogója
 
 ## 1.1. A fehér alapszínű lobogólap mindkét oldalán Magyarország két angyal által tartott címere látható. A korona aranyszínű. A lobogólap széleit a hosszabb oldalakon 9–9, a rövidebb oldalakon 5–5, 19 centiméter alapú, 18 centiméterre benyúló, váltakozva piros és zöld ékekből álló pártázat övezi. A sarkokban a piros ékek között zöld körcikkszerű befejezés van. A lobogó magassága 140centiméter, a hossza 220 centiméter. A címer magassága a koronával együtt 86 centiméter. A címertartó angyalok magassága 76 centiméter.
@@ -20,15 +18,21 @@
 
 ## 3.3. A Magyar Honvédség emblémája grafikai megjelenítése
 
-## 4. A Magyar Honvédség Parancsnoksága emblémája
+## 4.[^11] A Honvéd Vezérkar emblémája
 
-## 4.1. Az embléma alapformája álló, hasított pajzs, alapszíne barna. A pajzs homorú tetejű, levágott sarkú, levágott félkör oldalú, csücskös talpú. Központi eleme a karmai között Szent István kardját tartó, kiterjesztett szárnyú turulmadár. A turulmadár fölött négy darab hatágú csillag található vízszintesen egymás mellett. Az elemet jobbról cserfaág, balról olajfaág övezi. Az ágak találkozási pontjában a nemzeti színű „Magyar Honvédség pajzs” található. A pajzs felső részének ívét követve fekete betűkkel „MAGYAR HONVÉDSÉG”, az alsó részen „PARANCSNOKSÁGA” felirat olvasható (Century 751 No2 BT / bold). Az emblémát nemzeti színű szegély övezi.
+## 4.1. Az embléma alapformája álló, aszimmetrikus, háromszög alapú pajzs és a Magyar Honvédség címerében is megjelenő turulmadár stilizált ötvözete. A madár ölelő szárnyai formázzák a pajzsot, amelynek bal felső sarka a turulmadár fejének stilizált oldalnézete.
 
-## Az alacsony láthatóságú embléma esetén a pajzs alapszíne zöld, amelyen a Magyar Honvédség emblémája szürke színű. A pajzs szegélye, valamint a felirat fekete színű.
+## Az embléma színvilága a magyar trikolor enyhén módosított alapszínei, amelyben a turul feje és a pajzsot formázó jobb szárnyának felső sávja piros (P4073). Ezt a madár szemét szimbolizáló, hegyére állított háromszög formájú alakzatból kiinduló, előbb szélesedő, majd elkeskenyedő és elágazó íves fehér vonal határolja el a madár ölelő, bal szárnyának belső feléből látszó részletétől, amelynek kitöltő színe zöld (P7077).
 
-## 4.2. A Magyar Honvédség Parancsnoksága emblémája grafikai megjelenítése
+## A pajzsot formázó szárny ívelt középső sávja fehér (P66), benne négy, egymás mellett elhelyezett hatágú zöld (P7077) csillaggal, amelyeknek elrendezése követi a sáv ívelt formáját. A pajzs talpának háromszögében lévő utolsó sáv színe zöld (P7077).
 
-## 4.3. A Magyar Honvédség Parancsnoksága alacsony láthatóságú emblémája grafikai megjelenítése
+## Az emblémát világosszürke (P595) színű szegély övezi.
+
+## Az alacsony láthatóságú embléma esetén a bézs, fekete és szürke árnyalatai helyettesítik a trikolor színeit: a piros helyett bézs (P91), a zöld helyett világosszürke (P595), az ezüst helyett sötétszürke (P2), amely szín e változatban a négy csillag színét is adja. A fehér (P66) sáv változatlan.
+
+## 4.2. A Honvéd Vezérkar emblémájának grafikai megjelenítése:
+
+## 4.3. A Honvéd Vezérkar alacsony láthatóságú emblémájának grafikai megjelenítése:
 
 ## 5. Honvéd Kadétprogram logója
 
@@ -62,7 +66,7 @@
 
 7. melléklet a 15/2021. (VIII. 11.) HM rendelethez
 
-## A zászlóadományozás
+A zászlóadományozás
 
 1. A zászló adományozásához a társasági, műveleti vagy kiképzési egyenruhában – a tisztek és altisztek lehetőség szerint karddal felszerelve – kivonult (al)egység az ünnepség megtartására kijelölt helyszín vagy erre az alkalomra felállított sátor elé áll. A helyszín, a HM Tábori Lelkészi Szolgálat közreműködése esetén, lehet templom vagy kápolnasátor is.
 
@@ -81,3 +85,5 @@
 8. Ha sor kerül zászlószalag(ok) felkötésére, az ezt követően történhet meg.
 
 9. A zászló ezt követően az MH Alaki Szabályzatában meghatározott helyére lép, majd pedig az ünnepség a szokásos módon, Szózattal és esetleges díszmenettel zárul.
+
+[^11]: A 6. melléklet 4. pontja a 40/2023. (XII. 27.) HM rendelet 1. §-ával megállapított szöveg.
