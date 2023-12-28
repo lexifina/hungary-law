@@ -292,7 +292,7 @@ XII. Tulajdonosi joggyakorló: az Energiaügyi Minisztérium
 
 | 2. | NHKV Nemzeti Hulladékgazdálkodási Koordináló és Vagyonkezelő Zártkörűen Működő Részvénytársaság | 01-10-048725 | 2026. december 31. |
 
-| 3. |  |  |  |
+| 3. | HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-142626 | 2026. december 31. |
 
 | 4. | Nemzeti Vízművek Zártkörűen Működő Részvénytársaság | 01-10-141112 | 2026. december 31. |
 
@@ -310,6 +310,30 @@ XII. Tulajdonosi joggyakorló: az Energiaügyi Minisztérium
 
 | 11. | NFFKÜ – Nemzetközi Fejlesztési és Forráskoordinációs Ügynökség Zártkörűen Működő Részvénytársaság | 01-10-047549 | 2026. december 31. |
 
+| 12. | Nemzeti Üzleti Szolgáltató Zártkörűen Működő Részvénytársaság | 01-10-141870 | 2026. december 31. |
+
+| 13. | ALFÖLDVÍZ Regionális Víziközmű-szolgáltató Zártkörűen Működő Részvénytársaság | 04-10-001580 | 2026. december 31. |
+
+| 14. | BORSODVÍZ Önkormányzati Közüzemi Szolgáltató Zártkörűen Működő Részvénytársaság | 05-10-000142 | 2026. december 31. |
+
+| 15. | DMRV Duna Menti Regionális Vízmű Zártkörűen Működő Részvénytársaság | 13-10-040189 | 2026. december 31. |
+
+| 16. | Dunántúli Regionális Vízmű Zártkörűen Működő Részvénytársaság | 14-10-300050 | 2026. december 31. |
+
+| 17. | Északdunántúli Vízmű Zártkörűen Működő Részvénytársaság | 11-10-001450 | 2026. december 31. |
+
+| 18. | ÉRV. Északmagyarországi Regionális Vízművek Zártkörűen Működő Részvénytársaság | 05-10-000123 | 2026. december 31. |
+
+| 19. | FEJÉRVÍZ Fejér Megyei Önkormányzatok Víz- és Csatornamű Zártkörűen Működő Részvénytársaság | 07-10-001122 | 2026. december 31. |
+
+| 20. | Tiszamenti Regionális Vízművek Zártkörűen Működő Részvénytársaság | 16-10-001558 | 2026. december 31. |
+
+| 21. | Kiskunsági Víziközmű-Szolgáltató Kft. | 03-09-126654 | 2026. december 31. |
+
+| 22. | Mezőföldi Regionális Víziközmű Korlátolt Felelősségű Társaság | 17-09-001805 | 2026. december 31. |
+
+| 23. | BARANYA-VÍZ Víziközmű Szolgáltató Zártkörűen Működő Részvénytársaság | 02-10-060389 | 2026. december 31. |
+
 XIII. Tulajdonosi joggyakorló: a területfejlesztési miniszter
 
 |  | A | B | C |
@@ -326,4 +350,4 @@ XIII. Tulajdonosi joggyakorló: a területfejlesztési miniszter
 
 XIV. Tulajdonosi joggyakorló: a nemzetpolitikáért, nemzetiségpolitikáért, egyházpolitikáért és egyházdiplomáciáért felelős miniszter
 
-[^3]: Az 1. melléklet a 7. §, a 2/2022. (VI. 20.) GFM rendelet 1. §-a és 3. §-a, a 3/2022. (VII. 13.) GFM rendelet 1–2. §-a, az 5/2022. (VII. 27.) GFM rendelet 1. § (1) és (2) bekezdése és 2. §-a, a 7/2022. (VIII. 11.) GFM rendelet 1. §-a, a 8/2022. (VIII. 31.) GFM rendelet 1. és 3. §-a, a 10/2022. (X. 5.) GFM rendelet 1. §-a, a 14/2022. (XI. 21.) GFM rendelet 1. § a) pontja és a 3. §-a, a 16/2022. (XII. 6.) GFM rendelet 1. §-a, a 18/2022. (XII. 20.) GFM rendelet 1. és 2. §-a, a 20/2022. (XII. 27.) GFM rendelet 1. §-a, az 1/2023. (I. 9.) GFM rendelet 1. §-a, a 3/2023. (III. 30.) GFM rendelet 1. §-a, a 4/2023. (IV. 11.) GFM rendelet 1. §-a, az 5/2023. (IV. 17.) GFM rendelet 2. §-a, a 6/2023. (IV. 27.) GFM rendelet 1. § a)-b) pontja és 2. §-a, a 7/2023. (V. 16.) GFM rendelet 1. §-a és 3. §-a, a 10/2023. (VI. 16.) GFM rendelet 1. §-a és 3. § (2) bekezdése, a 18/2023. (VIII. 18.) GFM rendelet 1. §-a és 2. §-a, a 19/2023. (VIII. 24.) GFM rendelet 1. §-a, a 23/2023. (VIII. 30.) GFM rendelet 1. §-a, a 27/2023. (IX. 29.) GFM rendelet 1. §-a, a 28/2023. (XI. 6.) GFM rendelet 1. §-a, a 29/2023. (XI. 29.) GFM rendelet 1. és 2. §-a, a 32/2023. (XII. 15.) GFM rendelet 1. §-a és 3. §-a, a 33/2023. (XII. 15.) GFM rendelet 1. §-a, a 34/2023. (XII. 20.) GFM rendelet 1. §-a, a 35/2023. (XII. 20.) GFM rendelet 1. §-a szerint módosított szöveg.
+[^3]: Az 1. melléklet a 7. §, a 2/2022. (VI. 20.) GFM rendelet 1. §-a és 3. §-a, a 3/2022. (VII. 13.) GFM rendelet 1–2. §-a, az 5/2022. (VII. 27.) GFM rendelet 1. § (1) és (2) bekezdése és 2. §-a, a 7/2022. (VIII. 11.) GFM rendelet 1. §-a, a 8/2022. (VIII. 31.) GFM rendelet 1. és 3. §-a, a 10/2022. (X. 5.) GFM rendelet 1. §-a, a 14/2022. (XI. 21.) GFM rendelet 1. § a) pontja és a 3. §-a, a 16/2022. (XII. 6.) GFM rendelet 1. §-a, a 18/2022. (XII. 20.) GFM rendelet 1. és 2. §-a, a 20/2022. (XII. 27.) GFM rendelet 1. §-a, az 1/2023. (I. 9.) GFM rendelet 1. §-a, a 3/2023. (III. 30.) GFM rendelet 1. §-a, a 4/2023. (IV. 11.) GFM rendelet 1. §-a, az 5/2023. (IV. 17.) GFM rendelet 2. §-a, a 6/2023. (IV. 27.) GFM rendelet 1. § a)-b) pontja és 2. §-a, a 7/2023. (V. 16.) GFM rendelet 1. §-a és 3. §-a, a 10/2023. (VI. 16.) GFM rendelet 1. §-a és 3. § (2) bekezdése, a 18/2023. (VIII. 18.) GFM rendelet 1. §-a és 2. §-a, a 19/2023. (VIII. 24.) GFM rendelet 1. §-a, a 23/2023. (VIII. 30.) GFM rendelet 1. §-a, a 27/2023. (IX. 29.) GFM rendelet 1. §-a, a 28/2023. (XI. 6.) GFM rendelet 1. §-a, a 29/2023. (XI. 29.) GFM rendelet 1. és 2. §-a, a 32/2023. (XII. 15.) GFM rendelet 1. §-a és 3. §-a, a 33/2023. (XII. 15.) GFM rendelet 1. §-a, a 34/2023. (XII. 20.) GFM rendelet 1. §-a, a 35/2023. (XII. 20.) GFM rendelet 1. §-a, a 42/2023. (XII. 27.) GFM rendelet 1. §-a, a 43/2023. (XII. 27.) GFM rendelet 1. §-a, a 44/2023. (XII. 27.) GFM rendelet 1. §-a, a 45/2023. (XII. 27.) GFM rendelet 1. §-a, a 46/2023. (XII. 27.) GFM rendelet 1. §-a, a 47/2023. (XII. 27.) GFM rendelet 1. §-a, a 48/2023. (XII. 27.) GFM rendelet 1. §-a, a 49/2023. (XII. 27.) GFM rendelet 1. §-a, az 50/2023. (XII. 27.) GFM rendelet 1. §-a, az 51/2023. (XII. 27.) GFM rendelet 1. §-a, az 52/2023. (XII. 27.) GFM rendelet 1. §-a, az 53/2023. (XII. 27.) GFM rendelet 1. §-a, az 54/2023. (XII. 27.) GFM rendelet 1. §-a szerint módosított szöveg.

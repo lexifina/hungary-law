@@ -1,9 +1,3 @@
-|  | A | B | C |
-
-|  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
-
-| 1. | Nemzeti Üzleti Szolgáltató Zártkörűen Működő Részvénytársaság | 01-10-141870 | 2026. december 31. |
-
 4. melléklet az 1/2022. (V. 26.) GFM rendelethez[^6]
 
 A Kormány egyedi határozatában meghatározott tulajdonosi joggyakorlók
