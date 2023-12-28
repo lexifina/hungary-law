@@ -1,1 +1,3 @@
-51. § Az R12. 2. melléklete a 6. melléklet szerint módosul.
+51. §[^62]
+
+[^62]: Az 51. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

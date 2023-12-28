@@ -1,1 +1,3 @@
-27. § Az R5. 3. § (3a) bekezdésében a „Közlekedéstudományi” szövegrész helyébe a „Magyar Közlekedéstudományi és Logisztikai” szöveg lép.
+27. §[^38]
+
+[^38]: A 27. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

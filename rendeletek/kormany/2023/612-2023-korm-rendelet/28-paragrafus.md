@@ -1,5 +1,3 @@
-28. § Hatályát veszti az R5.
+28. §[^39]
 
-a) 6. § (1a) bekezdése,
-
-b) 6. § (2a)–(2g) bekezdése.
+[^39]: A 28. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

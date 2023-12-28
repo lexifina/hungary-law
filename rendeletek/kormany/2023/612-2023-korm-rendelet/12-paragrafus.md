@@ -1,5 +1,5 @@
 ## 5. A vízi személyszállítás feltételeiről szóló 261/2008. (XI. 3.) Korm. rendelet módosítása
 
-12. § A vízi személyszállítás feltételeiről szóló 261/2008. (XI. 3.) Korm. rendelet 12. § (4) bekezdése helyébe a következő rendelkezés lép:
+12. §[^13]
 
-„(4) A vízi járműbe bevitt kistestű (legfeljebb 10 kg tömegű) kutyáért a díjszabás legfeljebb a teljes árú menetjegy 50%-ának, nagytestű (10 kg feletti tömegű) kutyáért a díjszabás a teljes árú menetjegy 100%-ának megfelelő összegű viteldíj fizetését írhatja elő, egyéb kézipoggyász fuvarozásáért a hajózási vállalkozás díjat nem követelhet. A segítő kutya kiképzésének, vizsgáztatásának és alkalmazhatóságának szabályairól szóló miniszteri rendelet szerinti segítő kutya, valamint a rendvédelmi, a honvédelmi és a hatósági feladatokat ellátó szolgálati kutya, továbbá a mindezen célból kiképzés alatt álló kutya díjmentesen, zárt szállító eszköz mellőzésével szállítható, azzal, hogy a kiképzés alatt álló kutya csak kiképzővel utazhat, valamint egy kiképzővel egy kiképzés alatt álló kutya utazhat. A szájkosár, póráz és zárt szállítóeszköz mellőzhető a segítő kutya segítségnyújtása esetén.”
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

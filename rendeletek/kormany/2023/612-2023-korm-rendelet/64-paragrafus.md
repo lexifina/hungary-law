@@ -1,1 +1,3 @@
-64. § Hatályát veszti az R15. 43. § (2) bekezdés b) és c) pontja.
+64. §[^75]
+
+[^75]: A 64. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,7 +1,3 @@
-## „e) egyrészről az Európai Unió és az Európai Atomenergia-közösség, másrészről Nagy-Britannia és Észak-Írország Egyesült Királysága között megkötött kereskedelmi és együttműködési megállapodásban”
+15. §[^16]
 
-## [meghatározott, a vezetési és pihenőidőre, valamint az ezekkel összefüggő okmányokra vonatkozó rendelkezést megsérti.]
-
-15. § Az R3. 5. §-a a következő f) ponttal egészül ki:
-
-[A Kkt. 20. § (1) bekezdés d) pontjához kapcsolódóan – ha jogszabály eltérően nem rendelkezik – a 4. mellékletben meghatározott összegű bírságot köteles fizetni az, aki]
+[^16]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

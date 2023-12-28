@@ -1,5 +1,5 @@
 ## 13. Az autóbuszos személyszállítási szolgáltatásnak a 181/2011/EU rendeletben nem szabályozott részletes feltételeire, az abban foglaltak alóli mentességekre, az autóbuszos személyszállítási szolgáltatási feltételekre, valamint a közúti személyszállítási üzletszabályzatra vonatkozó szabályokról szóló 213/2012. (VII. 30.) Korm. rendelet módosítása
 
-37. § Az autóbuszos személyszállítási szolgáltatásnak a 181/2011/EU rendeletben nem szabályozott részletes feltételeire, az abban foglaltak alóli mentességekre, az autóbuszos személyszállítási szolgáltatási feltételekre, valamint a közúti személyszállítási üzletszabályzatra vonatkozó szabályokról szóló 213/2012. (VII. 30.) Korm. rendelet (a továbbiakban: R8.) 16. § (3) bekezdése helyébe a következő rendelkezés lép:
+37. §[^48]
 
-„(3) A segítő kutya kiképzésének, vizsgáztatásának és alkalmazhatóságának szabályairól szóló miniszteri rendelet szerinti segítő kutya, valamint a rendvédelmi, a honvédelmi és a hatósági feladatokat ellátó szolgálati kutya, továbbá a mindezen célból kiképzés alatt álló kutya díjmentesen, az (1) bekezdés és a (2) bekezdés első fordulatában foglalt korlátozások mellőzésével szállítható, azzal, hogy a kiképzés alatt álló kutya csak kiképzővel utazhat, valamint egy kiképzővel egy kiképzés alatt álló kutya utazhat. A (2) bekezdés első mondatában foglalt korlátozások mellőzhetőek a segítő kutya segítségnyújtása esetén.”
+[^48]: A 37. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

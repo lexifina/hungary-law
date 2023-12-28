@@ -1,1 +1,3 @@
-44. § Az R9. 7. § (2) bekezdésében a „Közlekedéstudományi” szövegrész helyébe a „Magyar Közlekedéstudományi és Logisztikai” szöveg lép.
+44. §[^55]
+
+[^55]: A 44. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

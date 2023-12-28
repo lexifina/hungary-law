@@ -1,1 +1,3 @@
-58. § Az R14. 8/A. § (2) bekezdésében a „(3)” szövegrész helyébe a „(2c)” szöveg lép.
+58. §[^69]
+
+[^69]: Az 58. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

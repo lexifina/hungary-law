@@ -1,3 +1,5 @@
 ## 21. Az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló 531/2017. (XII. 29.) Korm. rendelet módosítása
 
-56. § Hatályát veszti az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló 531/2017. (XII. 29.) Korm. rendelet 1. melléklet 10. Közlekedési ügyek pontjában foglalt táblázat 113. sora.
+56. §[^67]
+
+[^67]: Az 56. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

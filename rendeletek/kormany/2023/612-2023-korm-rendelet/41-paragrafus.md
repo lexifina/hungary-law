@@ -1,1 +1,3 @@
-41. § A 345/2012. (XII. 6.) Korm. rendelet 1. melléklete az 5. melléklet szerint módosul.
+41. §[^52]
+
+[^52]: A 41. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

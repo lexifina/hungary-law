@@ -1,1 +1,3 @@
-30. § Az R6. 4/A. § (7) bekezdésében az „engedéllyel vagy” szövegrész helyébe az „engedéllyel, vagy” szöveg és a „végzett fuvarozás” szövegrész helyébe a „végzett, továbbá kabotázs fuvarozás” szöveg lép.
+30. §[^41]
+
+[^41]: A 30. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

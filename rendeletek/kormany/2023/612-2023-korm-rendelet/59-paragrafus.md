@@ -1,5 +1,3 @@
-59. § Hatályát veszti az R14.
+59. §[^70]
 
-a) 52. § (2) bekezdése és
-
-b) 3. melléklete.
+[^70]: Az 59. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

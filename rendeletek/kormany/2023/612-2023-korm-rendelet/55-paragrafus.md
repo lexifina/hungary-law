@@ -1,1 +1,3 @@
-55. § Hatályát veszti az R13. 16/L. § (7) bekezdése.
+55. §[^66]
+
+[^66]: Az 55. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

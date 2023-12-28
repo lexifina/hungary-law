@@ -1,3 +1,3 @@
-33. § Az R7. 97. § (1) bekezdés e) pontja helyébe a következő rendelkezés lép:
+33. §[^44]
 
-(Az ellenőrző hatósági személy a hatósági engedélyt és jelzést a helyszínen elveszi, ha)
+[^44]: A 33. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

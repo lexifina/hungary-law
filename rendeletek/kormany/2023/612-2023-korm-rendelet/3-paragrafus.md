@@ -1,3 +1,3 @@
-3. § Az R1. 6. § (1) bekezdése helyébe a következő rendelkezés lép:
+3. §[^3]
 
-„(1) A zajgátló védőövezetet a repülőtér üzemben tartójának kérelmére a légiközlekedési hatóság határozatban jelöli ki.”
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

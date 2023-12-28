@@ -1,35 +1,35 @@
 19. § Az R3.
 
-a)[^6]
+a)[^20]
 
-b)[^7]
+b)[^21]
 
-c)[^8]
+c)[^22]
 
-d)[^9]
+d)[^23]
 
-e)[^10]
+e)[^24]
 
-f)[^11]
+f)[^25]
 
-g)[^12]
+g)[^26]
 
-h)[^13]
+h)[^27]
 
-i)[^14]
+i)[^28]
 
-j)[^15]
+j)[^29]
 
-k)[^16]
+k)[^30]
 
-[^6]: A 19. § a) pontja a 66. § (3) bekezdés alapján 2024. január 7-én lép hatályba.
-[^7]: A 19. § b) pontja a 66. § (3) bekezdés alapján 2024. január 7-én lép hatályba.
-[^8]: A 19. § c) pontja a 66. § (3) bekezdés alapján 2024. január 7-én lép hatályba.
-[^9]: A 19. § d) pontja a 66. § (3) bekezdés alapján 2024. január 7-én lép hatályba.
-[^10]: A 19. § e) pontja a 66. § (3) bekezdés alapján 2024. január 7-én lép hatályba.
-[^11]: A 19. § f) pontja a 66. § (3) bekezdés alapján 2024. január 7-én lép hatályba.
-[^12]: A 19. § g) pontja a 66. § (3) bekezdés alapján 2024. január 7-én lép hatályba.
-[^13]: A 19. § h) pontja a 66. § (3) bekezdés alapján 2024. január 7-én lép hatályba.
-[^14]: A 19. § i) pontja a 66. § (3) bekezdés alapján 2024. január 7-én lép hatályba.
-[^15]: A 19. § j) pontja a 66. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
-[^16]: A 19. § k) pontja a 66. § (3) bekezdés alapján 2024. január 7-én lép hatályba.
+[^20]: A 19. § a) pontja a 66. § (3) bekezdés alapján 2024. január 7-én lép hatályba.
+[^21]: A 19. § b) pontja a 66. § (3) bekezdés alapján 2024. január 7-én lép hatályba.
+[^22]: A 19. § c) pontja a 66. § (3) bekezdés alapján 2024. január 7-én lép hatályba.
+[^23]: A 19. § d) pontja a 66. § (3) bekezdés alapján 2024. január 7-én lép hatályba.
+[^24]: A 19. § e) pontja a 66. § (3) bekezdés alapján 2024. január 7-én lép hatályba.
+[^25]: A 19. § f) pontja a 66. § (3) bekezdés alapján 2024. január 7-én lép hatályba.
+[^26]: A 19. § g) pontja a 66. § (3) bekezdés alapján 2024. január 7-én lép hatályba.
+[^27]: A 19. § h) pontja a 66. § (3) bekezdés alapján 2024. január 7-én lép hatályba.
+[^28]: A 19. § i) pontja a 66. § (3) bekezdés alapján 2024. január 7-én lép hatályba.
+[^29]: A 19. § j) pontja a 66. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^30]: A 19. § k) pontja a 66. § (3) bekezdés alapján 2024. január 7-én lép hatályba.

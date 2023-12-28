@@ -1,3 +1,3 @@
-32. § Az R7. 91. §-a a következő (8) bekezdéssel egészül ki:
+32. §[^43]
 
-„(8) A (6) és (7) bekezdésben meghatározott eljárás során a 75/D. § (1) bekezdés e) pontját nem kell alkalmazni.”
+[^43]: A 32. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

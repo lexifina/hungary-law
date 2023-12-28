@@ -1,5 +1,5 @@
 ## 14. Az egyes közlekedésfejlesztési projektekkel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 345/2012. (XII. 6.) Korm. rendelet módosítása
 
-39. § Az egyes közlekedésfejlesztési projektekkel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 345/2012. (XII. 6.) Korm. rendelet [a továbbiakban: 345/2012. (XII. 6.) Korm. rendelet] 7. §-a a következő (23) bekezdéssel egészül ki:
+39. §[^50]
 
-„(21) E rendeletnek a közlekedési igazgatással összefüggő egyes közlekedési tárgyú kormányrendeletek módosításáról szóló 612/2023. (XII. 22.) Korm. rendelettel (a továbbiakban: Módr15.) megállapított 1. melléklet 1. pont 1.1. alpont 1.1.70. és 1.1.86. pontját, 1. pont 1.7. alpont 1.7.10., 1.7.20. és 1.7.21. pontját a Módr15. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
+[^50]: A 39. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

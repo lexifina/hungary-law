@@ -1,3 +1,3 @@
-23. § Az R4. 20. §-a a következő (2a) bekezdéssel egészül ki:
+23. §[^34]
 
-„(2a) A segítő kutya kiképzésének, vizsgáztatásának és alkalmazhatóságának szabályairól szóló miniszteri rendelet szerinti segítő kutya, valamint a rendvédelmi, a honvédelmi és a hatósági feladatokat ellátó szolgálati kutya, továbbá a mindezen célból kiképzés alatt álló kutya díjmentesen, az (1) bekezdés és a (2) bekezdés első fordulatában foglalt korlátozások mellőzésével szállítható, azzal, hogy a kiképzés alatt álló kutya csak kiképzővel utazhat, valamint egy kiképzővel egy kiképzés alatt álló kutya utazhat. A (2) bekezdés első mondatában foglalt korlátozások mellőzhetőek a segítő kutya segítségnyújtása esetén.”
+[^34]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

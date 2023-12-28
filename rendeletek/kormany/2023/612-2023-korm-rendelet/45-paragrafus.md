@@ -1,3 +1,5 @@
 ## 16. Az üvegházhatású gázok kibocsátásával, valamint az éghajlatváltozással kapcsolatos nemzeti jelentés tartalmáról és elkészítésének módjáról, az adatszolgáltatás rendjéről, illetve az adatszolgáltatási kötelezettség megszegése esetén fizetendő bírságról szóló 278/2014. (XI. 14.) Korm. rendelet módosítása
 
-45. § Az üvegházhatású gázok kibocsátásával, valamint az éghajlatváltozással kapcsolatos nemzeti jelentés tartalmáról és elkészítésének módjáról, az adatszolgáltatás rendjéről, illetve az adatszolgáltatási kötelezettség megszegése esetén fizetendő bírságról szóló 278/2014. (XI. 14.) Korm. rendelet 1. mellékletében foglalt táblázat A:13 mezőjében a „Közlekedés-tudományi Intézet” szövegrész helyébe a „KTI Magyar Közlekedéstudományi és Logisztikai Intézet Nonprofit Korlátolt Felelősségű Társaság” szöveg lép.
+45. §[^56]
+
+[^56]: A 45. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
