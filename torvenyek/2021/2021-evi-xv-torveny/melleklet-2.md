@@ -4,8 +4,6 @@ Az Alapítvány vagyonkezelésébe kerülő állami tulajdonú ingatlanok
 
 |
 
-SORSZÁM
-
 |
 
 TELEPÜLÉS

@@ -37,3 +37,27 @@ Nemzeti Ménesbirtok és Tangazdaság Zrt.
 |
 
 részvények 100%-a
+
+|
+
+3
+
+|
+
+ATEV Fehérjefeldolgozó Zrt.
+
+|
+
+részvények 74,13%-a
+
+|
+
+4
+
+|
+
+CONCORDIA KÖZRAKTÁR Kereskedelmi Zrt.
+
+|
+
+részvények 100%-a
