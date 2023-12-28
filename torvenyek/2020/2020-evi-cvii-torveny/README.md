@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-107-00-00
 | --- | --- | --- |
 | 2021-01-01 | 2020. évi CVII. törvény | 2020-107-00-00.0 (közlönyállapot) |
 | 2021-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2020-107-00-00.1 |
+| 2023-12-28 | 2023. évi LXXXVII. törvény | 2020-107-00-00.2 |
