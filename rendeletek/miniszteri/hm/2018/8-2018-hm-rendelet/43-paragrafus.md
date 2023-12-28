@@ -2,7 +2,7 @@
 
 (2)[^96] Az EU-beosztást betöltő esetén alkalmazni kell a 14–18. §, valamint a 32. § rendelkezéseit, ha az EU az EU-beosztást betöltő részére hasonló juttatást nem biztosít. Ebben az esetben a 37. §-t is alkalmazni kell azzal az eltéréssel, hogy az utazási kölcsön összege 6000 EUR vagy annak megfelelő összegű USD vagy GBP, amit legkésőbb a folyósítást követő 12 hónapon belül kell a Honvédség részére átutalással visszatéríteni.
 
-(3)[^97] Az EU-beosztást betöltő részére, kérelme alapján, kiegészítő átalány-költségtérítés folyósítható, ha azt az EU-beosztást betöltő számára az EU által folyósított rendszeres juttatások és az állomáshely megélhetési költségeinek mértéke indokolja. A kiegészítő átalány-költségtérítés iránti kérelmet az illetékes logisztikai ellátó szerv javaslatával ellátva a Magyar Honvédség parancsnokának helyetteséhez kell benyújtani.
+(3)[^97] Az EU-beosztást betöltő részére, kérelme alapján, kiegészítő átalány-költségtérítés folyósítható, ha azt az EU-beosztást betöltő számára az EU által folyósított rendszeres juttatások és az állomáshely megélhetési költségeinek mértéke indokolja. A kiegészítő átalány-költségtérítés iránti kérelmet az illetékes logisztikai ellátó szerv javaslatával ellátva a Honvéd Vezérkar Főnökének helyetteséhez kell benyújtani.
 
 (4) Kiegészítő átalány-költségtérítés legfeljebb
 
@@ -19,5 +19,5 @@ különbözetének erejéig nyújtható.
 (7) A kiegészítő átalány-költségtérítés összegét abban a pénznemben kell megállapítani és folyósítani, amelyben az állomáshely szerinti országra meghatározott ellátmányalap a 2. mellékletben rögzítésre került. Ha a 2. mellékletben az állomáshely szerinti országra meghatározott ellátmányalap pénzneme eltér az EU által folyósított juttatások pénznemétől, az EU által folyósított juttatásokat a (3) bekezdés szerinti kérelem benyújtását megelőző hónap 15. napján érvényes, az MNB által közzétett hivatalos devizaárfolyamon kell átszámítani.
 
 [^96]: A 43. § (2) bekezdése a 3/2021. (I. 14.) HM rendelet 12. § 14. pontja, a 19/2021. (IX. 21.) HM rendelet 12. § e) pontja szerint módosított szöveg.
-[^97]: A 43. § (3) bekezdése a 2/2019. (I. 31.) HM rendelet 37. § 13. pontja szerint módosított szöveg.
+[^97]: A 43. § (3) bekezdése a 2/2019. (I. 31.) HM rendelet 37. § 13. pontja, a 35/2023. (XII. 27.) HM rendelet 1. § c) pontja szerint módosított szöveg.
 [^98]: A 43. § (4) bekezdés a) pontja a 2/2019. (I. 31.) HM rendelet 37. § 14. pontja szerint módosított szöveg.

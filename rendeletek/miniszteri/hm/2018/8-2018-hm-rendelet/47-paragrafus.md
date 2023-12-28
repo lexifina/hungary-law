@@ -6,7 +6,7 @@
 
 (4) A (2) bekezdéstől eltérően, ha az állomáshely sajátosságai a készpénzben történő kifizetést nem teszik lehetővé, az állomány tagjának arról kell nyilatkoznia, hogy az 53. § (2) bekezdése alapján mekkora összegű havi előleget kíván felvenni a külföldi szolgálat megkezdése előtt.
 
-(5)[^107] A (4) bekezdés szerinti állomáshelyeket a Magyar Honvédség Parancsnoksága határozza meg.
+(5)[^107] A (4) bekezdés szerinti állomáshelyeket a Honvéd Vezérkar határozza meg.
 
 (6) A töredék havi külszolgálati ellátmány kiszámításánál a tárgyhó naptári napjainak számát kell alapul venni.
 
@@ -18,5 +18,5 @@ b)[^108] külföldi szolgálat megszűnése vagy megszüntetése esetén törté
 
 [^105]: A 47. § (1) bekezdése a 3/2021. (I. 14.) HM rendelet 12. § 19. pontja, a 19/2021. (IX. 21.) HM rendelet 12. § g) pontja szerint módosított szöveg.
 [^106]: A 47. § (2) bekezdése a 17/2020. (XII. 12.) HM rendelet 41. § (1) bekezdésével megállapított szöveg.
-[^107]: A 47. § (5) bekezdése a 2/2019. (I. 31.) HM rendelet 37. § 15. pontja szerint módosított szöveg.
+[^107]: A 47. § (5) bekezdése a 2/2019. (I. 31.) HM rendelet 37. § 15. pontja, a 35/2023. (XII. 27.) HM rendelet 1. § d) pontja szerint módosított szöveg.
 [^108]: A 47. § (7) bekezdés b) pontja a 17/2020. (XII. 12.) HM rendelet 41. § (2) bekezdésével megállapított, a 3/2021. (I. 14.) HM rendelet 12. § 20. pontja szerint módosított szöveg.

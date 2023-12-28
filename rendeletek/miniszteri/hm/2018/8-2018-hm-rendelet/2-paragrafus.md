@@ -94,7 +94,7 @@ a) a Honvédség központi logisztikai gazdálkodási és ellátási felelőssé
 
 b) a KNBSZ-nek az e tevékenység tekintetében feladat- és hatáskörrel rendelkező szervezeti egysége az állomány (2) bekezdés b) pontja szerinti tagja esetén és
 
-c)[^11] a Magyar Honvédség Parancsnokságának alárendelt, e tevékenység tekintetében feladat- és hatáskörrel rendelkező honvédelmi szervezet az állomány (2) bekezdés c), d) és e) pontja szerinti tagja esetén.
+c)[^11] a Honvéd Vezérkarnak alárendelt, e tevékenység tekintetében feladat- és hatáskörrel rendelkező honvédelmi szervezet az állomány (2) bekezdés c), d) és e) pontja szerinti tagja esetén.
 
 (4) Az illetékes pénzügyi ellátó szerv
 
@@ -118,7 +118,7 @@ d)[^13] a honvédelmi szervezetek pénzügyi és számviteli ellátási-utaltsá
 [^8]: A 2. § (1) bekezdés 15. pontja a 26/2022. (XII. 28.) HM rendelet 2. § 2. pontja szerint módosított szöveg.
 [^9]: A 2. § (1) bekezdés 17a. pontját a 22/2023. (XII. 14.) HM rendelet 1. §-a iktatta be.
 [^10]: A 2. § (2) bekezdés b) pontja a 2/2019. (I. 31.) HM rendelet 37. § 3. pontja szerint módosított szöveg.
-[^11]: A 2. § (3) bekezdés c) pontja a 2/2019. (I. 31.) HM rendelet 37. § 4. pontja szerint módosított szöveg.
+[^11]: A 2. § (3) bekezdés c) pontja a 2/2019. (I. 31.) HM rendelet 37. § 4. pontja, a 35/2023. (XII. 27.) HM rendelet 1. § b) pontja szerint módosított szöveg.
 [^12]: A 2. § (4) bekezdés c) pontja a 2/2019. (I. 31.) HM rendelet 37. § 5. pontja szerint módosított szöveg.
 [^13]: A 2. § (4) bekezdés d) pontja a 3/2021. (I. 14.) HM rendelet 1. §-ával megállapított szöveg.
 [^14]: A 2. § (5) bekezdése a 4/2022. (II. 17.) HM rendelet 26. §-ával megállapított szöveg.
