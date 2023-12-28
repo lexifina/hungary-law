@@ -21,3 +21,7 @@ d) a kormányzati célú hálózatokról szóló 346/2010. (XII. 28.) Korm. rend
 e) a villamos energiáról szóló törvény, a földgázellátásról szóló törvény, a távhőszolgáltatásról szóló törvény és az atomenergiáról szóló törvény szerinti engedélyesek által az engedélyköteles tevékenységhez kapcsolódóan kötött bérleti szerződések esetén,
 
 f) az állami hulladékgazdálkodási feladatok ellátásában részt vevő gazdasági társaságok által olyan ingatlanokra kötött szerződések esetén, amelyeken az állami hulladékgazdálkodási feladat ellátásához szükséges működtető vagyon található.
+
+g)[^1] a légiközlekedésről szóló 1995. évi XCVII. törvény 45. § (6) bekezdése szerinti gazdasági társaság szerződései esetén.
+
+[^1]: Az 1. § (6) bekezdés g) pontját a 644/2023. (XII. 28.) Korm. rendelet 7. §-a iktatta be.
