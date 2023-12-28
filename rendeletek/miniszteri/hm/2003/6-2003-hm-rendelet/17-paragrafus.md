@@ -24,7 +24,7 @@ Az előoldal tartalma:
 
 – a ,,KELT:'' felirat és a kiadás dátuma. A dátumot a kiadmányozó írja be,
 
-–[^32] a „A FUTÁR ALÁÍRÁSA”, továbbá a „Katonai Futárszolgálat vezetője” felirat, és az aláírás helyét jelölő szaggatott vonal. Használatba vétel előtt a futár aláírás minta céljából írja alá az igazolványt. Az MH futárszolgálati tevékenység végzéséért felelős szervezetének vezetője (parancsnoka) aláírásával hitelesíti az igazolványt.
+–[^34] a „A FUTÁR ALÁÍRÁSA”, továbbá a „Katonai Futárszolgálat vezetője” felirat, és az aláírás helyét jelölő szaggatott vonal. Használatba vétel előtt a futár aláírás minta céljából írja alá az igazolványt. Az MH futárszolgálati tevékenység végzéséért felelős szervezetének vezetője (parancsnoka) aláírásával hitelesíti az igazolványt.
 
 A hátoldal tartalma:
 
@@ -44,4 +44,4 @@ A belföldi katonai futárigazolvány védelme
 
 A belföldi katonai futárigazolvány hitelesítés után, a fizikai behatások, továbbá illetéktelen személyek hozzáférhetősége elleni védelem céljából, műanyag tokba lehegesztésre kerül.
 
-[^32]: A mellékletben „az előoldal tartalma:” szövegrész alatt a hetedik francia bekezdése a 27/2005. (VII. 12.) HM rendelet 5. §-ával megállapított, valamint a 36/2007. (VIII. 29.) HM rendelet 7. § (2) bekezdése szerint módosított szöveg.
+[^34]: A mellékletben „az előoldal tartalma:” szövegrész alatt a hetedik francia bekezdése a 27/2005. (VII. 12.) HM rendelet 5. §-ával megállapított, valamint a 36/2007. (VIII. 29.) HM rendelet 7. § (2) bekezdése szerint módosított szöveg.

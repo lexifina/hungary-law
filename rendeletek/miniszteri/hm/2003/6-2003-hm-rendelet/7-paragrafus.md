@@ -1,12 +1,12 @@
 ## Külföldi minősítésű küldemény továbbítása
 
-7. § (1)[^14] A BKFSZ-be bekapcsolt katonai szervezetek között továbbítható a minősített adat védelméről szóló 2009. évi CLV. törvény 3. § 1. pont b) alpontban meghatározott korlátozottan megismerhető adatot tartalmazó küldemény, valamint az a külföldi minősítésű és jelölésű küldemény, amelyre a feladó az átadás-átvételnél és a továbbítás során két fő továbbításra jogosult személy folyamatos jelenlétét (kétszemélyes ellenőrzésű küldemény) határozza meg.[^15]
+7. § (1)[^16] A BKFSZ-be bekapcsolt katonai szervezetek között továbbítható a minősített adat védelméről szóló 2009. évi CLV. törvény 3. § 1. pont b) alpontban meghatározott korlátozottan megismerhető adatot tartalmazó küldemény, valamint az a külföldi minősítésű és jelölésű küldemény, amelyre a feladó az átadás-átvételnél és a továbbítás során két fő továbbításra jogosult személy folyamatos jelenlétét (kétszemélyes ellenőrzésű küldemény) határozza meg.[^17]
 
-(2)[^16] A katonai szervezetek által feladásra kerülő és részükre címzett kétszemélyes ellenőrzésű küldemény továbbításához – előzetes igénybejelentés után – az MH futárszolgálati tevékenység végzéséért felelős szervezetének futárát kell igénybe venni.
+(2)[^18] A katonai szervezetek által feladásra kerülő és részükre címzett kétszemélyes ellenőrzésű küldemény továbbításához – előzetes igénybejelentés után – az MH futárszolgálati tevékenység végzéséért felelős szervezetének futárát kell igénybe venni.
 
-(3)[^17] Külföldi minősítésű küldemény továbbítását, kezelését és őrzését a futár, futárkísérő és a minősített küldeménykezelő a nemzetközi szerződés alapján átvett, vagy nemzetközi kötelezettségvállalás alapján készült minősített adat védelmének eljárási szabályairól szóló 179/2003. (XI. 5.) Korm. rendelet előírásai szerint végezhetik. Rendelkezniük kell a Nemzeti Biztonsági Felügyelet részletes feladatairól és működési rendjéről, valamint az iparbiztonsági ellenőrzések részletes szabályairól szóló 180/2003. (XI. 5) Korm. rendelet 6. §-a szerinti, a Nemzeti Biztonsági Felügyelet által kiadott Személyi Biztonsági Tanúsítvánnyal.
+(3)[^19] Külföldi minősítésű küldemény továbbítását, kezelését és őrzését a futár, futárkísérő és a minősített küldeménykezelő a nemzetközi szerződés alapján átvett, vagy nemzetközi kötelezettségvállalás alapján készült minősített adat védelmének eljárási szabályairól szóló 179/2003. (XI. 5.) Korm. rendelet előírásai szerint végezhetik. Rendelkezniük kell a Nemzeti Biztonsági Felügyelet részletes feladatairól és működési rendjéről, valamint az iparbiztonsági ellenőrzések részletes szabályairól szóló 180/2003. (XI. 5) Korm. rendelet 6. §-a szerinti, a Nemzeti Biztonsági Felügyelet által kiadott Személyi Biztonsági Tanúsítvánnyal.
 
-[^14]: A 7. § (1) bekezdése a 11/2010. (V. 12.) HM rendelet 2. § e) pontja szerint módosított szöveg.
-[^15]: A belföldi Állami Futárszolgálat tevékenységének szabályozásáról szóló, módosított 44/1998. (X. 14.) BM rendelet 20/A. § (2) bekezdésében előírt kétszemélyes ellenőrzésű jelöléssel ellátott küldemények az ÁFSZ-nek nem adhatók át.
-[^16]: A 7. § (2) bekezdése a 36/2007. (VIII. 29.) HM rendelet 7. § (2) bekezdése szerint módosított szöveg.
-[^17]: A 7. § (3) bekezdése a 27/2005. (VII. 12.) HM rendelet 6. §-ának c) pontja szerint módosított szöveg.
+[^16]: A 7. § (1) bekezdése a 11/2010. (V. 12.) HM rendelet 2. § e) pontja szerint módosított szöveg.
+[^17]: A belföldi Állami Futárszolgálat tevékenységének szabályozásáról szóló, módosított 44/1998. (X. 14.) BM rendelet 20/A. § (2) bekezdésében előírt kétszemélyes ellenőrzésű jelöléssel ellátott küldemények az ÁFSZ-nek nem adhatók át.
+[^18]: A 7. § (2) bekezdése a 36/2007. (VIII. 29.) HM rendelet 7. § (2) bekezdése szerint módosított szöveg.
+[^19]: A 7. § (3) bekezdése a 27/2005. (VII. 12.) HM rendelet 6. §-ának c) pontja szerint módosított szöveg.

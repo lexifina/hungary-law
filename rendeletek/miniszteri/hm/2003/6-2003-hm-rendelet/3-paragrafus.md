@@ -1,9 +1,9 @@
 ## A belföldi katonai futárszolgálat szervei
 
-## 3. §[^6] A BKFSZ szervei:
+## 3. §[^7] A BKFSZ szervei:
 
 a) az MH futárszolgálati tevékenység végzéséért felelős szervezete,
 
 b) katonai szervezet állományába tartozó futár- és táboriposta-állomás, futár- és táboriposta-raj, futár- és táboriposta-részleg.
 
-[^6]: A 3. § a 36/2007. (VIII. 29.) HM rendelet 2. §-ával megállapított szöveg.
+[^7]: A 3. § a 36/2007. (VIII. 29.) HM rendelet 2. §-ával megállapított szöveg.

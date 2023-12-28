@@ -2,7 +2,7 @@
 
 8. § (1) A futár köteles a küldeményt átvenni és azt az átvételre jogosult személynek átadni.
 
-(2)[^18]
+(2)[^20]
 
 (3) Igazoltatás, fokozott ellenőrzés során a futárjárat személyazonossága megállapításáig tartóztatható fel. Gépjárműve átvizsgálására, illetőleg személyi szabadsága korlátozására bűncselekmény gyanúja esetén kerülhet sor. A lezárt küldemény nem bontható fel. Az intézkedést végrehajtó személy gondoskodik a küldemény őrzéséről.
 
@@ -14,4 +14,4 @@
 
 (7) A katonai szervezetek segítséget nyújtanak a veszélybe került vagy feladata végrehajtásának érdekében segítségre szoruló futárjáratnak.
 
-[^18]: A 8. § (2) bekezdését a 17/2022. (XII. 28.) HM rendelet 2. §-a hatályon kívül helyezte.
+[^20]: A 8. § (2) bekezdését a 17/2022. (XII. 28.) HM rendelet 2. §-a hatályon kívül helyezte.

@@ -24,13 +24,13 @@
 
 10. Esetenként kijelölt futárgépjármű-vezető: a minősített küldemény biztonságos szállítását végző, esetenként kijelölt katona, feladatát fegyveresen látja el.
 
-11. Esetenként kijelölt futárjárat: minősített küldemény továbbítására egyszeri alkalommal kijelölt személyek (futárjárat-parancsnok, futárkísérő, futárgépjármű-vezető). Feladatát a parancsnok (vezető, törzsfőnök, útbaindító) által meghatározott időben és útvonalon látja el.
+11.[^3] Esetenként kijelölt futárjárat: minősített küldemény továbbítására egyszeri alkalommal kijelölt személyek (futárjárat-parancsnok, futárkísérő, futárgépjármű-vezető). Feladatát a parancsnok, vezető, törzsigazgató, törzsfőnök, útbaindító által meghatározott időben és útvonalon látja el.
 
 12. Futárjárat: menetrend szerinti futárjárat, külön futárjárat, esetenként kijelölt futárjárat.
 
-13.[^3] Minősített küldemény: minősített adatot tartalmazó küldemény.
+13.[^4] Minősített küldemény: minősített adatot tartalmazó küldemény.
 
-14.[^4] Külföldi minősítésű küldemény: a minősített adat védelméről szóló 2009. évi CLV. törvény 3. § 1. pont b) alpontban meghatározott korlátozottan megismerhető adatot tartalmazó küldemény.
+14.[^5] Külföldi minősítésű küldemény: a minősített adat védelméről szóló 2009. évi CLV. törvény 3. § 1. pont b) alpontban meghatározott korlátozottan megismerhető adatot tartalmazó küldemény.
 
 15. Kétszemélyes ellenőrzésű küldemény: az a külföldi minősítésű és jelölésű küldemény, amelyre a feladó az átadás-átvételnél és a továbbítás során két fő továbbításra jogosult személy folyamatos jelenlétét határozza meg.
 
@@ -46,7 +46,7 @@
 
 21. Bekapcsolt szerv: BKFSZ szolgáltatását igénybe vevő katonai szervezet, polgári szerv.
 
-22.[^5] Minősített küldeménykezelő: az MH futárszolgálati tevékenység végzéséért felelős szervezetében rendszeresített beosztást betöltő személy, aki az érkező és a kimenő minősített küldemény, külföldi minősítésű küldemény kezelését, okmányozását, zsákolását és továbbításra történő átadását, átvételét végzi.
+22.[^6] Minősített küldeménykezelő: az MH futárszolgálati tevékenység végzéséért felelős szervezetében rendszeresített beosztást betöltő személy, aki az érkező és a kimenő minősített küldemény, külföldi minősítésű küldemény kezelését, okmányozását, zsákolását és továbbításra történő átadását, átvételét végzi.
 
 23. Nyílt küldeménykezelő: rendszeresített beosztást betöltő személy. Feladata az adott katonai szervezet címére érkezett és az általa címzett nyílt szolgálati, hivatalos, postai és magánküldemény átvétele, átadása (kezelése, okmányolása, szétosztása), feladása, átvétele a postai szolgáltatóhelynél.
 
@@ -67,6 +67,7 @@
 31. Küldeménycímke: kódszámzáras irattáskára, futártáskára, vas iratdobozra felcsatolható fém- vagy bőrtokban elhelyezett ,,EZ EGY HIVATALOS KATONAI KÜLDEMÉNY, HA MEGTALÁLTA KÉREM, JUTTASSA EL – FELNYITÁS NÉLKÜL – A LEGKÖZELEBBI KATONAI SZERVEZETHEZ VAGY A RENDŐRSÉGHEZ'' feliratot tartalmazó kartonpapír.
 
 [^2]: Az 1. § a 27/2005. (VII. 12.) HM rendelet 1. §-ával megállapított szöveg.
-[^3]: A 2. § 13. pontja a 11/2010. (V. 12.) HM rendelet 2. § a) pontja szerint módosított szöveg.
-[^4]: A 2. § 14. pontja a 11/2010. (V. 12.) HM rendelet 2. § b) pontja szerint módosított szöveg.
-[^5]: A 2. § 22. pontja a 36/2007. (VIII. 29.) HM rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § 11. pontja a 23/2023. (XII. 27.) HM rendelet 1. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § 13. pontja a 11/2010. (V. 12.) HM rendelet 2. § a) pontja szerint módosított szöveg.
+[^5]: A 2. § 14. pontja a 11/2010. (V. 12.) HM rendelet 2. § b) pontja szerint módosított szöveg.
+[^6]: A 2. § 22. pontja a 36/2007. (VIII. 29.) HM rendelet 1. §-ával megállapított szöveg.
