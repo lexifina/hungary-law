@@ -1,0 +1,3 @@
+17. § A Rendelet 55. §-a a következő (9) bekezdéssel egészül ki:
+
+„(9) E rendeletnek a fejezeti és központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 17/2022. (XII. 1.) MK rendelet uniós támogatási szabályok változásával összefüggő módosításáról szóló 30/2023. (XII. 27.) MK rendelettel (a továbbiakban: Módr5.) megállapított 2. § (2) bekezdését, 3. § (1) bekezdését, 7. § (6) bekezdését, 7. § (7) bekezdés c) pontját, 11. § (2) bekezdését, 34. § (5) bekezdését, 4. alcímét, 7. alcímét, 10–12. alcímét, 14–16. alcímét, 23–24. alcímét, valamint 26. alcímét a Módr5. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.”
