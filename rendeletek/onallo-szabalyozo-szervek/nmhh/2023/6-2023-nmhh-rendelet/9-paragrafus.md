@@ -1,5 +1,3 @@
-9. § Az R2. 7. §-a a következő (10a) és (10b) bekezdéssel egészül ki:
+9. §[^10]
 
-„(10a) A 3. § (4) bekezdése szerinti rádióberendezés esetén a (9) bekezdés szerinti használati és kezelési útmutatóban fel kell tüntetni a rádióberendezés töltésével és a kompatibilis töltőberendezésekkel kapcsolatos műszaki előírásokat.
-
-(10b) A (10a) bekezdés szerinti információkat a gyártó a 7. melléklet 4. pontjában meghatározottak szerint a címkén is feltünteti. A címkének nyomtatott formában szerepelnie kell a használati és kezelési útmutatóban. Emellett nyomtatott formában vagy matricaként el kell helyezni a csomagoláson, csomagolás hiányában pedig matricaként a rádióberendezésen. Ha a rádióberendezés mérete vagy jellege ezt nem teszi lehetővé, a címkét a rádióberendezést kísérő külön dokumentumként ki is lehet nyomtatni. A címkét a rádióberendezés-végfelhasználó részére történő forgalmazás során jól látható és olvasható módon kell elhelyezni, távértékesítés esetén pedig a feltüntetett ár közelében kell megjeleníteni.”
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

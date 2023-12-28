@@ -1,5 +1,5 @@
 ## 2. A rádióberendezésekről szóló 2/2017. (I. 17.) NMHH rendelet módosítása
 
-5. § A rádióberendezésekről szóló 2/2017. (I. 17.) NMHH rendelet (a továbbiakban: R2.) 1. § (2) bekezdés c) pontja helyébe a következő rendelkezés lép:
+5. §[^6]
 
-(A rendelet hatálya nem terjed ki)
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
