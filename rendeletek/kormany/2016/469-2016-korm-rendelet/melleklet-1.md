@@ -1,5 +1,3 @@
-## 6–7. §[^4]
-
 1. melléklet a 469/2016. (XII. 23.) Korm. rendelethez
 
 A KÁBER-be bejelentendő adatok köre:
@@ -113,5 +111,3 @@ A KÁBER-be bejelentendő adatok köre:
 6.3. Fővállalkozó kivitelező (alvállalkozó kivitelező) adatai
 
 7. Az adatszolgáltatók adatai (név, székhely, telefon, e-mail, irányító/felügyeleti szerv vezetőinek, kapcsolattartóinak neve, beosztása, telefonszáma és e-mail címe)
-
-[^4]: A 6–7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
