@@ -4,6 +4,6 @@
 
 a) 10 000 000 Ft értékhatárig a HM központi pénzügyi feladatok ellátásáért felelős szervének vezetője,
 
-b)[^43] 10 000 000 Ft értékhatár felett a HM KÁT.
+b)[^45] 10 000 000 Ft értékhatár felett a HM KÁT.
 
-[^43]: A 44. § b) pontja a 17/2020. (XII. 12.) HM rendelet 8. § e) pontja szerint módosított szöveg.
+[^45]: A 44. § b) pontja a 17/2020. (XII. 12.) HM rendelet 8. § e) pontja szerint módosított szöveg.
