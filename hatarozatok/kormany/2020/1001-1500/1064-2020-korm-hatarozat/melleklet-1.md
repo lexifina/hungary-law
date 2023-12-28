@@ -20,7 +20,7 @@
 
 ## Felelős: emberi erőforrások minisztere, a miniszterelnök általános helyettese, a miniszterelnök kabinetfőnöke, Miniszterelnökséget vezető miniszter, innovációért és technológiáért felelős miniszter, külgazdasági és külügyminiszter, honvédelmi miniszter, az Eötvös Loránd Kutatási Hálózat elnöke, a Központi Statisztikai Hivatal elnöke
 
-## Határidő: 2022. december 31., a Bethlen Gábor Alap fejezet javára biztosított 3 312 200 000 forint tekintetében 2023. december 31.
+## Határidő: 2022. december 31., a Bethlen Gábor Alap fejezet javára biztosított 3 312 200 000 forint tekintetében 2024. december 31.
 
 1. melléklet az 1064/2020. (II. 28.) Korm. határozathoz[^2]
 
@@ -94,5 +94,5 @@
 
 |  | Bethlen Gábor Alap; Határtalanul! program | 2 100 000 000 |
 
-[^1]: A 4. pont az 1596/2020. (IX. 21.) Korm. határozat 2. pontja, az 1584/2022. (XI. 30.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^1]: A 4. pont az 1596/2020. (IX. 21.) Korm. határozat 2. pontja, az 1584/2022. (XI. 30.) Korm. határozat 2. pontja, az 1611/2023. (XII. 28.) Korm. határozat 2. pontja szerint módosított szöveg.
 [^2]: Az 1. melléklet az 1210/2020. (V. 8.) Korm. határozat 6. és 7. pontja szerint módosított szöveg.
