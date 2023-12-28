@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-38-00-00
 | 2023-06-29 | 2023. évi XLI. törvény | 2020-38-00-00.9 |
 | 2023-07-01 | 2023. évi XLI. törvény | 2020-38-00-00.10 |
 | 2023-12-21 | 2023. évi LXXXV. törvény | 2020-38-00-00.11 |
+| 2023-12-28 | 2023. évi LXXXVII. törvény | 2020-38-00-00.12 |
