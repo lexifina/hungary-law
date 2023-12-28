@@ -1,15 +1,21 @@
-23. § (1) A kultúrát és a kulturális örökség megőrzését előmozdító támogatás beruházási, működési vagy zenei és irodalmi alkotások kiadásához nyújtott támogatásként nyújtható.
+23. § (1) Beruházási támogatás keretében a tárgyi eszközök és az immateriális javak következő költségei számolhatók el:
 
-(2) A támogatás – a nyomtatott vagy elektronikus formában közzétett sajtótermék és magazin kivételével – a következőkhöz nyújtható:
+a) az infrastruktúra építésének, korszerűsítésének, bővítésének, megvásárlásának, megőrzésének és fejlesztésének költsége, ha az infrastruktúra időbeli vagy térbeli kapacitását évente legalább 80%-ban kulturális célra használják,
 
-a) múzeum, levéltár, könyvtár, művészeti és kulturális központ vagy kulturális tér, színház, filmszínház, operaház, koncertterem, egyéb élő előadásokat bemutató szervezet, filmművészeti örökséggel foglalkozó intézmény és egyéb hasonló művészeti és kulturális infrastruktúra, szervezet és intézmény,
+b) a kulturális örökség megszerzésének költsége, ideértve a kulturális örökség bérletének, birtokátruházásának és a kulturális örökség áthelyezésének költségeit is,
 
-b) tárgyi kulturális örökség, régészeti lelőhely, emlékmű, történelmi emlékhely és épület, a kulturális örökséghez kapcsolódó természeti örökség, kulturális vagy természeti örökséggé nyilvánított örökség,
+c) a tárgyi és szellemi kulturális örökség védelmének, megőrzésének, újjáépítésének és helyreállításának költsége, különösen a megfelelő körülmények között történő tárolás költsége, a speciális eszközök, anyagok használatából fakadó többletköltség, valamint a dokumentációs, kutatási, digitalizálási és publikációs költség,
 
-c) a szellemi kulturális örökség valamennyi formája (különösen népi hagyományok, kézművesség),
+d) a közönség kulturális örökséghez való hozzáférésének javítását szolgáló intézkedések költsége, különösen a digitalizálással és más új technológiákkal, a speciális szükségletű személyek hozzáférési lehetőségeinek javításával kapcsolatos, valamint a prezentációk, programok és látogatók tekintetében a kulturális sokszínűség elősegítésével kapcsolatos költség,
 
-d) művészeti vagy kulturális esemény, előadás, fesztivál, kiállítás és hasonló kulturális tevékenység,
+e) a kulturális projektek és tevékenységek, együttműködési és csereprogramok, valamint ösztöndíjak költsége, ideértve a kiválasztási eljárás, a marketing és a projekt eredményeként közvetlenül felmerülő költségeket is.
 
-e) kulturális és művészeti oktatási tevékenység, a kulturális kifejezésmódok sokfélesége védelmének és támogatásának jelentőségét tudatosító oktatási és társadalmi célú figyelemfelhívó programok, ideértve az új technológiák alkalmazását is e célokra,
+(2) Beruházási támogatás esetén a támogatás összege nem haladhatja meg az elszámolható költség és a beruházás megvalósításából származó működési eredmény különbségét, azzal, hogy az infrastruktúra üzemeltetője – a támogatást nyújtó döntésétől függően – jogosult észszerű nyereséget szerezni.
 
-f) zenei és irodalmi alkotások írása, szerkesztése, gyártása, terjesztése, digitalizálása, kiadása és fordítása.
+(3) A működési eredmény mértékét
+
+a) előzetesen, megalapozott előrejelzések alapján, vagy
+
+b) visszafizetési mechanizmus alkalmazásával utólag
+
+kell levonni az elszámolható költségekből.

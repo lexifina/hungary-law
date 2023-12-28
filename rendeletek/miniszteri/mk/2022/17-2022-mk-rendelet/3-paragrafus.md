@@ -10,7 +10,11 @@
 
 2. alapkutatás: a 651/2014/EU bizottsági rendelet 2. cikk 84. pontja szerinti kísérleti vagy elméleti munka, amelyet elsősorban a jelenségek vagy megfigyelhető tények hátterével kapcsolatos új ismeretek megszerzésének érdekében folytatnak anélkül, hogy kilátásba helyeznék azok közvetlen üzleti alkalmazását vagy felhasználását;
 
+2a.[^12] alépítmény: olyan föld alatti csövek vagy kábelcsatornák, amelyekben a széles sávú hálózat (optikai, réz- vagy koaxiális) kábelei futnak;
+
 3. alkalmazott kutatás: a 651/2014/EU bizottság rendelet 2. cikk 85. pontja szerinti tervezett kutatás vagy kritikus vizsgálat, melynek célja új ismeretek és szakértelem megszerzése új termékek, eljárások vagy szolgáltatások kifejlesztéséhez vagy a létező termékek, eljárások vagy szolgáltatások jelentős mértékű fejlesztésének elősegítéséhez;
+
+3a.[^13] azonos vagy hasonló tevékenység: a 651/2014/EU bizottsági rendelet 2. cikk 50. pontja szerinti tevékenység;
 
 4. állami támogatás: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet (a továbbiakban: Atr.) 2. § 1. pontja szerinti támogatás;
 
@@ -32,7 +36,15 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 10. bérköltség: a támogatás kedvezményezettje által ténylegesen fizetendő teljes összeg, amely egy meghatározott időszakban magában foglalja az adózás előtti bruttó bért, a kötelező járulékokat a 651/2014/EU bizottsági rendelet 2. cikk 31. pontja szerint;
 
+10a.[^14] csatlakoztatható helyszínek: a 651/2014/EU bizottsági rendelet 2. cikk 139a. pontja szerinti helyszínek;
+
 11. csoportmentességi rendeletek: a 651/2014/EU bizottsági rendelet, a 702/2014/EU bizottsági rendelet és az 1388/2014/EU bizottsági rendelet;
+
+11a.[^15] csúcsidő: a nap szokásosan egyórás időszaka, amikor a hálózat általában teljes terhelés alatt van;
+
+11b.[^16] csúcsidei feltételek: azok a feltételek, amelyeket a hálózat a „csúcsidőben” várhatóan tapasztal;
+
+11c.[^17] dedikált infrastruktúra: az előzetesen azonosítható vállalkozás számára épített és az ő igényeihez szabott infrastruktúra;
 
 12. diszkont kamatláb: az Atr. 2. § 3. pontja szerinti kamatláb;
 
@@ -52,6 +64,8 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 20. eredeti létesítmény: áttelepítés esetén az Európai Gazdasági Térségről szóló megállapodás egyik szerződő felének területén található azon létesítmény, amelyből a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó áthelyezi az azonos vagy hasonló tevékenységét vagy annak egy részét;
 
+20a.[^18] felhordó hálózat: a 651/2014/EU bizottsági rendelet 2. cikk 137a. pontja szerinti hálózat;
+
 21. fizikai átengedés: a 651/2014/EU bizottsági rendelet 2. cikk 136. pontja szerinti függetlenítés;
 
 22. földi kiszolgálás: a 651/2014/EU bizottsági rendelet 2. cikk 151. pontja szerinti kiszolgálás;
@@ -60,15 +74,19 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 24. független magánbefektető: az a magánbefektető, aki a befektetés tárgyát képező kis- és középvállalkozásnak nem részvényese, különösen a tulajdonosi szerkezettől függetlenül az üzleti angyal és a pénzügyi közvetítő, ha az teljes mértékben viseli befektetése kockázatát;
 
+24a.[^19] hatékony együttműködés: a 651/2014/EU bizottsági rendelet 2. cikk 90. pontja szerinti együttműködés;
+
 25. hátrányos helyzetű munkavállaló: a 651/2014/EU bizottsági rendelet 2. cikk 4. pontja szerinti munkavállaló;
 
 26. helyi infrastruktúra: az az infrastruktúra, ami helyi szinten járul hozzá az üzleti és fogyasztói környezet korszerűsítéséhez és ipari bázisok fejlesztéséhez;
 
 27. hitel: az a megállapodás, amiben a hitelező kötelezi magát, hogy meghatározott pénzösszeget meghatározott időre a hitelfelvevő rendelkezésére bocsát, és amely a hitelfelvevőt arra kötelezi, hogy meghatározott időszakon belül visszafizesse az összeget, különösen a kölcsön vagy egyéb finanszírozási eszköz, ideértve a lízinget is, amely a hitelező számára elsődlegesen minimumhozamot nyújt, azzal, hogy már meglévő hitel kiváltása nem finanszírozható;
 
-28. hivatásos csapat: az a sportvállalkozás, amely hivatásos sportolót alkalmaz;
+28.[^20] hivatásos csapat: az a sportszervezet, amely hivatásos sportolót alkalmaz;
 
 29. hivatásos sportoló: az a sportoló, aki jövedelemszerzési céllal, foglalkozásszerűen vagy más módon, ellenszolgáltatás fejében folytat sporttevékenységet;
+
+29a.[^21] hozzáférési hálózat: a 651/2014/EU bizottsági rendelet 2. cikk 137c. pontja szerinti hozzáférési hálózat;
 
 30. hozzáférési infrastruktúra: a 651/2014/EU bizottsági rendelet 2. cikk 159. pontja szerinti infrastruktúra;
 
@@ -144,7 +162,7 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 66. működési eredmény: a beruházásnak az Sztv. 3. § (4) bekezdés 5. pontja szerinti hasznos élettartama alatt elért – a projektkockázat és a tőkeköltség alapján a támogatást nyújtó által jóváhagyott diszkonttényezővel diszkontált – bevételei, csökkentve az ugyanezen diszkonttényezővel diszkontált működési költségekkel, így különösen a személyi jellegű ráfordítással, anyagköltséggel, szerződéses szolgáltatással, a távközléssel, az energiával és a karbantartással, bérleti díjjal, az adminisztrációval összefüggő költséggel, kivéve az olyan értékcsökkenési és a finanszírozási költséget, amelyet beruházási támogatásból már fedeztek, azzal, hogy ha a számítás eredménye negatív, a működési eredmény nulla;
 
-67.[^12] nagyberuházás: az induló beruházás, amelyhez kapcsolódóan az elszámolható költségek összege – az összeszámítási szabályt figyelembe véve – jelenértéken meghaladja az 50 millió eurónak megfelelő forintösszeget;
+67.[^22] nagyberuházás: az induló beruházás, amelyhez kapcsolódóan az elszámolható költségek összege – az összeszámítási szabályt figyelembe véve – jelenértéken meghaladja az 50 millió eurónak megfelelő forintösszeget;
 
 68. nagykereskedelmi hozzáférés: a 651/2014/EU bizottsági rendelet 2. cikk 139. pontja szerinti hozzáférés;
 
@@ -154,11 +172,13 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 71. nehéz helyzetben lévő vállalkozás: az Atr. 6. § (4a) és (4b) bekezdésében meghatározott vállalkozás;
 
-72. összeszámítási szabály: a nagyberuházás elszámolható költségei kiszámításakor egyetlen beruházásnak kell tekinteni a kérelemben szereplő beruházást és a kérelmet benyújtó beruházó, valamint a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó által a kérelemben szereplő beruházás megkezdésétől számított háromszor háromszázhatvanöt napos időszakon belül a kérelemben szereplő beruházással azonos megyében megkezdett, regionális beruházási támogatásban részesülő beruházást;
+72.[^23] összeszámítási szabály: a nagyberuházás elszámolható költségei kiszámításakor egyetlen beruházásnak kell tekinteni a kérelemben szereplő beruházást és a kérelmet benyújtó beruházó, valamint a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó által a kérelemben szereplő beruházás megkezdésétől számított háromszor háromszázhatvanöt napos időszakon belül a kérelemben szereplő beruházással azonos vármegyében megkezdett, ugyanazon vagy hasonló tevékenységhez kapcsolódó, regionális beruházási támogatásban részesülő beruházást;
 
 73. pályázat: támogatási program végrehajtása érdekében megjelentetett pályázati felhívás, pályázati útmutató vagy pályázati kiírás a támogatási programban való részvételre;
 
 74. pénzügyi közvetítő: a 651/2014/EU bizottsági rendelet 2. cikk 34. pontja szerinti pénzügyi intézmény;
+
+74a.[^24] releváns időtáv: a 651/2014/EU bizottsági rendelet 2. cikk 139f. pontja szerinti időtáv;
 
 75. regionális beruházási támogatás: a 651/2014/EU bizottsági rendelet 2. cikk 41. pontja szerinti támogatás;
 
@@ -177,6 +197,8 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 82. szállítás: a 651/2014/EU bizottsági rendelet 2. cikk 5. pontja szerinti ellenszolgáltatás fejében végzett légi, tengeri, közúti, vasúti vagy belvízi úton történő személyszállítás vagy áruszállítási szolgáltatás;
 
 83. széles sávú alaphálózat: a 651/2014/EU bizottsági rendelet 2. cikk 133. pontja szerinti alaphálózat;
+
+83a.[^25] széles sávú infrastruktúra: a 651/2014/EU bizottsági rendelet 2. cikk 137. pontja szerinti infrastruktúra;
 
 84. személyi jellegű ráfordítás: a 651/2014/EU bizottsági rendelet 2. cikk 88. pontja szerinti ráfordítás;
 
@@ -218,6 +240,22 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 103. újgenerációs hozzáférési hálózat: a 651/2014/EU bizottsági rendelet 2. cikk 138. pontja szerinti hálózat.
 
+104.[^26] válságtámogatás: az „Az állami támogatásokra vonatkozó, az Ukrajna elleni orosz agresszióval összefüggésben a gazdaság támogatását célzó ideiglenes válság- és átállási keret” című, 2023. március 17-i, 2023/C 101/03. számú európai bizottsági közlemény 2.1. szakasza szerinti támogatás.
+
 (2) Az (1) bekezdés 29. pontja szerinti ellenszolgáltatás meghaladja a részvételi költségeket, és a sportoló jövedelmének jelentős részét kell kitennie, függetlenül attól, hogy a sportoló és az érintett sportvállalkozás kötött-e munka- vagy más, munkavégzésre irányuló szerződést. Nem minősül ellenszolgáltatásnak a sportrendezvényen való részvételhez kapcsolódó utazási és szállásköltségek megtérítése.
 
-[^12]: A 3. § (1) bekezdés 67. pontja a 20/2022. (XII. 27.) MK rendelet 12. § a) pontja szerint módosított szöveg.
+[^12]: A 3. § (1) bekezdés 2a. pontját a 30/2023. (XII. 27.) MK rendelet 1. § (1) bekezdése iktatta be.
+[^13]: A 3. § (1) bekezdés 3a. pontját a 30/2023. (XII. 27.) MK rendelet 1. § (2) bekezdése iktatta be.
+[^14]: A 3. § (1) bekezdés 10a. pontját a 30/2023. (XII. 27.) MK rendelet 1. § (3) bekezdése iktatta be.
+[^15]: A 3. § (1) bekezdés 11a. pontját a 30/2023. (XII. 27.) MK rendelet 1. § (4) bekezdése iktatta be.
+[^16]: A 3. § (1) bekezdés 11b. pontját a 30/2023. (XII. 27.) MK rendelet 1. § (5) bekezdése iktatta be.
+[^17]: A 3. § (1) bekezdés 11c. pontját a 30/2023. (XII. 27.) MK rendelet 1. § (6) bekezdése iktatta be.
+[^18]: A 3. § (1) bekezdés 20a. pontját a 30/2023. (XII. 27.) MK rendelet 1. § (7) bekezdése iktatta be.
+[^19]: A 3. § (1) bekezdés 24a. pontját a 30/2023. (XII. 27.) MK rendelet 1. § (8) bekezdése iktatta be.
+[^20]: A 3. § (1) bekezdés 28. pontja a 30/2023. (XII. 27.) MK rendelet 14. § c) pontja szerint módosított szöveg.
+[^21]: A 3. § (1) bekezdés 29a. pontját a 30/2023. (XII. 27.) MK rendelet 1. § (9) bekezdése iktatta be.
+[^22]: A 3. § (1) bekezdés 67. pontja a 20/2022. (XII. 27.) MK rendelet 12. § a) pontja szerint módosított szöveg.
+[^23]: A 3. § (1) bekezdés 72. pontja a 30/2023. (XII. 27.) MK rendelet 14. § d) pontja szerint módosított szöveg.
+[^24]: A 3. § (1) bekezdés 74a. pontját a 30/2023. (XII. 27.) MK rendelet 1. § (10) bekezdése iktatta be.
+[^25]: A 3. § (1) bekezdés 83a. pontját a 30/2023. (XII. 27.) MK rendelet 1. § (11) bekezdése iktatta be.
+[^26]: A 3. § (1) bekezdés 104. pontját a 30/2023. (XII. 27.) MK rendelet 1. § (12) bekezdése iktatta be.

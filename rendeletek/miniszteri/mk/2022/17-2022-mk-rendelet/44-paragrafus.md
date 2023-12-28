@@ -1,5 +1,11 @@
-44. § (1) A kikötői infrastruktúra működtetésével, építésével vagy fejlesztésével harmadik felet megbízni, a kikötői infrastruktúrát bérbe adni vagy a kikötői infrastruktúra működtetését, építését vagy fejlesztését koncesszióba adni csak átlátható és megkülönböztetésmentes módon, versenyeztetés útján és a vonatkozó jogszabályok betartásával lehet. A versenyeztetés során a megbízás vagy koncesszió tárgyát illetően nem írható elő olyan, a pályázó által teljesítendő feltétel vagy kötelezettség, amely a pályázót a kikötői infrastruktúra saját céljaira történő hasznosításában korlátozná, kivéve, ha a korlátozás jogszabályból vagy hatósági határozatból ered.
+44. § (1) A támogatás összege nem haladhatja meg az elszámolható költségeknek és a beruházás, illetve a kotrás működési eredményének a különbségét.
 
-(2) Ha a kikötői infrastruktúra felhasználása (különösen bérlése) nagy sebességű elektronikus hírközlő hálózatok kiépítése érdekében szükséges, arra versenyeztetés nélkül, az elektronikus hírközlési törvény és a vonatkozó jogszabályok betartásával kerülhet sor.
+(2) A működési eredmény mértékét
 
-(3) A kikötői infrastruktúrához való hozzáférést az érdekelt felhasználók számára egyenlő és piaci feltételek mellett, megkülönböztetésmentes módon kell biztosítani.
+a) előzetesen, megalapozott előrejelzések alapján, vagy
+
+b) visszafizetési mechanizmus alkalmazásával utólag
+
+kell levonni az elszámolható költségekből.
+
+(3) A 2,2 millió eurónak megfelelő forintösszeget meg nem haladó támogatás esetén a támogatás összege az (1)–(2) bekezdésben meghatározott módszertől eltérően is meghatározható, azzal, hogy a támogatási intenzitás nem haladhatja meg az elszámolható költségek 80%-át.

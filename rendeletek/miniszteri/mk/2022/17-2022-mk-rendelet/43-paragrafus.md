@@ -1,15 +1,21 @@
-43. § (1) A támogatási összeg nem haladhatja meg az elszámolható költségeknek és a beruházás, valamint a kotrás működési eredményének a különbségét.
+43. § (1) A támogatás keretében a 42. § (1) bekezdés szerinti tevékenységekhez kapcsolódó költségek számolhatók el, ideértve a tervezés költségeit is.
 
-(2) A működési eredmény mértékét megalapozott előrejelzések alapján kell meghatározni, és
+(2) A villamos energiát, hidrogént, ammóniát és metanolt biztosító elektromos és hidrogéntöltő infrastruktúrákhoz nyújtott támogatás esetén a töltőinfrastruktúra megépítésének, telepítésének, korszerűsítésének és bővítésének költségei számolhatók el.
 
-a) előzetesen vagy
+(3) A (2) bekezdés szerinti tevékenységek esetén az elszámolható költségek
 
-b) visszafizetési mechanizmus alkalmazásával utólag
+a) a töltőinfrastruktúrának és a kapcsolódó műszaki berendezéseknek a költségei, ideértve a rögzített, mobil vagy úszó létesítményeket,
 
-kell levonni az elszámolható költségekből.
+b) a töltőinfrastruktúrának a hálózathoz, illetve a helyi villamosenergia- vagy hidrogéntermelő vagy -tároló egységhez való csatlakoztatásához szükséges bármilyen elektromos vagy egyéb komponensek – többek között elektromos kábelek és transzformátorok – telepítésének vagy korszerűsítésének költségei,
 
-(3) A maximális támogatási intenzitás nem haladhatja meg az elszámolható költségek 100%-át.
+c) az építési munkálatok, a földterület- vagy útátalakítás költségei, a telepítési és a vonatkozó engedélyek beszerzési költségei,
 
-(4) A 2 millió eurónak megfelelő forintösszeget meg nem haladó támogatás esetén a támogatás összege
+d) a megújuló villamos energia vagy a megújuló hidrogén helyszíni előállításának beruházási költségei,
 
-az (1)–(3) bekezdésben meghatározott módszertől eltérően is meghatározható, azzal, hogy a támogatási intenzitás nem haladhatja meg az elszámolható költségek 80%-át.
+e) a megújuló villamos energia vagy a hidrogén tárolóegységeinek beruházási költségei.
+
+(4) A (3) bekezdés d) pontja esetén a termelő létesítmény névleges termelési kapacitása nem haladhatja meg a csatlakoztatott töltőinfrastruktúra maximális névleges teljesítményét vagy töltési kapacitását.
+
+(5) Amennyiben a támogatás hidrogént biztosító töltőinfrastruktúra megépítésére, telepítésére vagy korszerűsítésére irányul, a kedvezményezett kötelezettséget vállal arra, hogy a támogatott töltőinfrastruktúra legkésőbb 2036. január 1-jétől kizárólag megújuló hidrogént fog szolgáltatni.
+
+(6) Amennyiben a támogatás ammóniát vagy metanolt biztosító töltőinfrastruktúra megépítésére, telepítésére vagy korszerűsítésére irányul, a kedvezményezett kötelezettséget vállal arra, hogy a támogatott töltőinfrastruktúra legkésőbb 2036. január 1-jétől kizárólag olyan ammóniát vagy metanolt fog szolgáltatni, amelynek energiatartalma a biomasszától eltérő megújuló forrásokból származik, és amelyet az (EU) 2018/2001 irányelvben és annak végrehajtási vagy felhatalmazáson alapuló jogi aktusaiban a nem biológiai eredetű megújuló folyékony és gáznemű közlekedési üzemanyagokra vonatkozóan meghatározott módszerekkel összhangban állítottak elő.

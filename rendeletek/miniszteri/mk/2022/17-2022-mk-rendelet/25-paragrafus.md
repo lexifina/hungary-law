@@ -1,37 +1,19 @@
-25. § (1) Működési támogatás esetén a támogatás összege nem haladhatja meg a releváns időszakban keletkező működési veszteséget.
+25. § (1) A 22. § (2) bekezdés f) pontja szerinti támogatás esetén
 
-(2) Működési támogatás esetén a támogatás a működési veszteségen felül fedezetet nyújthat az észszerű nyereségre is.
+a) a támogatási intenzitás nem haladhatja meg az elszámolható költségek 70%-át, vagy
 
-(3) A kedvezményezett a működésből származó veszteség és észszerű nyereség összegét előzetesen, megalapozott előrejelzések alapján határozza meg.
+b) a támogatás összege nem haladhatja meg az elszámolható költségek és a projektből származó bevételek jelenértékének különbségét, azzal, hogy a bevételeket az elszámolható költségekből előzetesen vagy visszakövetelési mechanizmus alkalmazásával kell levonni.
 
-(4) Az (1) és a (2) bekezdésben meghatározottak teljesítése – a (3) bekezdéstől eltérően – visszafizetési mechanizmus alkalmazásával utólag is biztosítható.
+(2) A 22. § (2) bekezdés f) pontja szerinti támogatás keretében a zenei és irodalmi kiadói költségek számolhatók el, különösen
 
-(5) A működési támogatás elszámolható költségei:
+a) a szerző díjazása, ideértve a szerzői joggal kapcsolatos költséget is,
 
-a) a kulturális intézmény vagy örökségi helyszín állandó vagy időszakos tevékenységéhez (különösen kiállításokhoz, előadásokhoz, rendezvényekhez és hasonló kulturális tevékenységekhez) kapcsolódó, a szokásos üzletmenetben felmerülő költség,
+b) a fordító díjazása,
 
-b) a kulturális és művészeti oktatási tevékenység költsége, a kulturális kifejezésmódok sokfélesége védelmének és népszerűsítésének fontosságát tudatosító oktatási és társadalmi célú figyelemfelhívó programok költsége (különösen az új technológiák e célokra történő alkalmazásának költsége),
+c) a szerkesztő díjazása,
 
-c) a közönség kulturális intézményhez vagy örökségi helyszínhez és tevékenységhez való hozzáférésének javítását szolgáló költség (különösen a digitalizálással, egyéb új technológiákkal és a speciális szükségletű személyek hozzáférési lehetőségeinek javításával kapcsolatos költség),
+d) az egyéb szerkesztési költség, ideértve a korrektúrázás, javítás, lektorálás költségét is,
 
-d) közvetlenül a kulturális projekthez vagy tevékenységhez kapcsolódó működési költség, így különösen
+e) az elrendezés és nyomdai előkészítés költsége és
 
-da) az ingatlanok és kulturális helyszínek bérletének, lízingjének költsége,
-
-db) a kulturális projektekhez vagy tevékenységekhez közvetlenül kapcsolódó utazási, anyag- és felszerelési költség,
-
-dc) a kiállítások és díszletek építészeti elemeinek költsége,
-
-dd) az eszközökhöz, szoftverekhez és felszerelésekhez igénybe vett hitel vagy lízing költsége,
-
-de) az eszközök, szoftverek, felszerelések amortizációja, ha e költséget nem fedezte beruházási támogatás,
-
-df) szerzői jogi védelem alatt álló alkotásokhoz és egyéb kapcsolódó szellemi tulajdonjogi védelem alatt álló tartalmakhoz való hozzáférésre vonatkozó jogokkal kapcsolatos költség,
-
-dg) a marketing költsége,
-
-dh) a projekt vagy tevékenység eredményeként közvetlenül felmerült költség,
-
-e) a kulturális intézmény, örökségi helyszín vagy projekt személyi jellegű ráfordítása,
-
-f) a külső tanácsadással és külső szolgáltatók által biztosított támogató szolgáltatásokkal kapcsolatos, közvetlenül a projekt eredményeként felmerülő költség.
+f) a nyomtatás vagy elektronikus közzététel költsége.

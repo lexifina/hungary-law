@@ -1,5 +1,5 @@
-## 18.[^34]
+## 18.[^61]
 
 31. §
 
-[^34]: A 18. alcímet (31. §-t) a 26/2023. (IX. 21.) MK rendelet 11. § l) pontja hatályon kívül helyezte.
+[^61]: A 18. alcímet (31. §-t) a 26/2023. (IX. 21.) MK rendelet 11. § l) pontja hatályon kívül helyezte.

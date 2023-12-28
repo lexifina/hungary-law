@@ -28,7 +28,7 @@
 
 12. [^7] 7., 9., 14., 15., 16. és 19. sora alapján a 651/2014/EU bizottsági rendelet 31. cikke szerinti képzési támogatás;
 
-13. [^8] 7., 15. és 25. sora alapján a 651/2014/EU bizottsági rendelet 52. cikke szerinti széles sávú infrastruktúrára irányuló támogatás;
+13. [^8] 7., 15. és 25. sora alapján a 651/2014/EU bizottsági rendelet 52. cikke szerinti helyhez kötött széles sávú infrastruktúra kiépítéséhez nyújtott támogatás;
 
 14. 6., 9., 13., 14., 16. és 19. sora alapján a 651/2014/EU bizottsági rendelet 53. cikke szerinti kultúrát és kulturális örökség megőrzését előmozdító támogatás;
 
@@ -56,7 +56,7 @@
 [^5]: A 2. § (2) bekezdés 4. pontja a 28/2023. (XII. 6.) MK rendelet 4. § a) pontja szerint módosított szöveg.
 [^6]: A 2. § (2) bekezdés 7. pontja a 28/2023. (XII. 6.) MK rendelet 3. § b) pontja szerint módosított szöveg.
 [^7]: A 2. § (2) bekezdés 12. pontja a 28/2023. (XII. 6.) MK rendelet 4. § a) pontja szerint módosított szöveg.
-[^8]: A 2. § (2) bekezdés 13. pontja a 28/2023. (XII. 6.) MK rendelet 4. § a) pontja szerint módosított szöveg.
+[^8]: A 2. § (2) bekezdés 13. pontja a 28/2023. (XII. 6.) MK rendelet 4. § a) pontja, a 30/2023. (XII. 27.) MK rendelet 14. § a) pontja szerint módosított szöveg.
 [^9]: A 2. § (2) bekezdés 17. pontja a 28/2023. (XII. 6.) MK rendelet 3. § c) pontja szerint módosított szöveg.
-[^10]: A 2. § (2) bekezdés 20. pontja a 28/2023. (XII. 6.) MK rendelet 3. § d) pontja szerint módosított szöveg.
+[^10]: A 2. § (2) bekezdés 20. pontja a 28/2023. (XII. 6.) MK rendelet 3. § d) pontja szerint módosított szöveg. [A 2. § (2) bekezdés 20. pontban a 30/2023. (XII. 27.) MK rendelet 14. § b) pontja által elrendelt módosítás, amely szerint a „4–28.” szövegrész helyébe a „4–19. és 22–28.” szöveg lép, nem vezethető át.]
 [^11]: A 2. § (3) bekezdését a 26/2023. (IX. 21.) MK rendelet 11. § b) pontja hatályon kívül helyezte.

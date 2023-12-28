@@ -1,4 +1,4 @@
-56. §[^65] E rendelet
+56. §[^92] E rendelet
 
 a) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet,
 
@@ -16,4 +16,4 @@ g) az Európai Unió működéséről szóló szerződés 107. és 108. cikkéne
 
 hatálya alá tartozó támogatást tartalmaz.
 
-[^65]: Az 56. § a 26/2023. (IX. 21.) MK rendelet 8. §-ával megállapított szöveg.
+[^92]: Az 56. § a 26/2023. (IX. 21.) MK rendelet 8. §-ával megállapított szöveg.

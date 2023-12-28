@@ -1,43 +1,23 @@
-## 26. A kis- és középvállalkozásoknak nyújtott beruházási támogatás
+## 26.[^78] A kis- és középvállalkozásoknak nyújtott beruházási támogatás
 
-49. § (1) Azon, kizárólag kis- és középvállalkozások által megvalósítani kívánt beruházások támogathatók az elszámolható költségeket figyelembe véve kisvállalkozás esetén legfeljebb 20%-os, középvállalkozás esetén legfeljebb 10%-os támogatási intenzitással, amelyek megfelelnek a következő feltételeknek.
+49. § (1) A kis- és középvállalkozásnak nyújtott beruházási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) kis- és középvállalkozás induló beruházásához nyújtható.
 
-(2) A beruházás elszámolható költségei lehetnek
+(2) A támogatási intenzitás nem haladhatja meg kisvállalkozás esetén az elszámolható költségek 20%-át, középvállalkozás esetén az elszámolható költségek 10%-át.
 
-a) a tárgyi eszközökre és immateriális javakra irányuló beruházási költségek,
+(3) A támogatás keretében
 
-b) a közvetlenül a beruházási projekt által létrehozott munkahelyek két évre számított, becsült bérköltsége vagy
+a) a beruházás érdekében felmerült tárgyi eszközök és immateriális javak, beleértve a beruházáshoz és annak üzembe helyezéséhez közvetlenül kapcsolódó egyszeri, nem amortizálható költségeket is,
 
-c) az a) és b) pontok együtt.
+b) a közvetlenül a beruházási projekt által létrehozott munkahelyek két évre számított, becsült bérköltsége,
 
-(3) A beruházás
+c) – ha a kapott összeg nem haladja meg az a) és b) pont szerinti összeg közül a magasabbat, akkor – az a) és b) pontban szereplő költségtípusok kombinációja
 
-a) olyan tárgyi eszközök és immateriális javak megszerzésére irányul, amely új létesítmény létrehozásához, meglévő létesítmény bővítéséhez, egy létesítmény termékpalettájának további, új termékekkel történő bővítéséhez vagy egy meglévő létesítmény teljes termelési folyamatának alapvető megváltoztatásához kapcsolódik, vagy
+számolható el.
 
-b) olyan létesítmény eszközeinek megvásárlásában valósul meg, amelyben teljesülnek a következő, konjunktív feltételek:
+(4) A támogatás a 13/D. § (2)–(5) bekezdése, (6) bekezdés a)–d) pontja, (7)–(8) bekezdése, valamint (9) bekezdés a)–c) pontja szerinti feltételekkel nyújtható.
 
-ba) a létesítményt bezárták vagy a megvásárlás hiányában bezárták volna,
+(5) A (3) bekezdés b) pontja szerinti elszámolható költség esetén akkor nyújtható támogatás, ha a kis- és középvállalkozás a beruházás megkezdésekor már létező, továbbá a beruházással létrejött új munkahelyeket a munkahely első betöltésétől számított legalább három évig fenntartja.
 
-bb) az eszközöket a vevőtől független harmadik felektől vásárolják meg, kivéve, ha egy kisvállalkozást az eredeti tulajdonos családtagjai vagy korábbi munkavállalók vesznek át,
+(6) A beruházás megkezdésének napja a 13. § (4) bekezdése szerint kerül meghatározásra.
 
-bc) az ügyletet piaci feltételek mellett bonyolítják le.
-
-A vállalkozásban történő részesedésszerzés önmagában nem minősül beruházásnak.
-
-(4) Az immateriális javakra vonatkozóan a következő feltételek mindegyikének teljesülnie kell:
-
-a) kizárólag a támogatásban részesülő létesítményben használhatók fel,
-
-b) értékcsökkenési leírás alá eső eszközöknek minősülnek,
-
-c) a vevőtől független harmadik felektől, piaci feltételek mellett kerültek megvásárlásra,
-
-d) legalább három évig a vállalkozás eszközei között kerülnek feltüntetésre.
-
-(5) A közvetlenül a beruházási projekt által létrehozott munkahelyekre vonatkozóan a következő feltételeknek kell teljesülniük:
-
-a) a munkahelyeket a beruházás befejezésétől számított három éven belül kell létrehozni,
-
-b) az előző tizenkét hónap átlagához képest az érintett létesítményben foglalkoztatottak számának nettó növekedését kell eredményeznie, valamint
-
-c) a létrehozott munkahelyeket az álláshely első betöltésétől számított legalább három évig fenn kell tartani.
+[^78]: A 26. alcím (49. §) a 30/2023. (XII. 27.) MK rendelet 13. §-ával megállapított szöveg.

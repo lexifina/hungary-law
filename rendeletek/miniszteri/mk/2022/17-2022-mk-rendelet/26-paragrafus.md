@@ -1,1 +1,3 @@
-26. § A 2 millió eurónak megfelelő forintösszeget meg nem haladó beruházási vagy működési támogatás esetén a támogatás összege a 24. § (1) és (2) bekezdésében, valamint a 25. § (1)–(4) bekezdésében meghatározott módszerek alkalmazásától eltérően is meghatározható, azzal, hogy a támogatási intenzitás nem haladhatja meg az elszámolható költségek 80%-át.
+26. §[^56]
+
+[^56]: A 26. §-t a 30/2023. (XII. 27.) MK rendelet 8. §-a hatályon kívül helyezte.
