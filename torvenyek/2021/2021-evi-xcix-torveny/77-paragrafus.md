@@ -2,4 +2,4 @@
 
 (2) A 74. § (2)–(5) bekezdését azokra a jelen alcím hatálybalépésekor folyamatban lévő csődeljárásokra és felszámolási eljárásokra kell alkalmazni, amelyek esetében az eljárás megindítására vonatkozó kérelmet 2021. április 17-én vagy azt követően nyújtották be, vagy a felszámolás hivatalból történő elrendelésére e törvény hatálybalépését követően kerül sor.
 
-(3) Ha 2023. december 31-ig legalább a 69. § (8) és (9) bekezdése, illetve a 76. § (2) bekezdése szerinti feltétel teljesült, a leválasztás e törvény 2023. december 31-én hatályos rendelkezései alapján 2023. december 31-ét követően is lefolytatható.
+(3) Ha 2024. december 31-ig legalább a 69. § (8) és (9) bekezdése, illetve a 76. § (2) bekezdése szerinti feltétel teljesült, a leválasztás e törvény 2024. december 31-én hatályos rendelkezései alapján 2024. december 31-ét követően is lefolytatható.
