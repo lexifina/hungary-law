@@ -8,8 +8,6 @@ c) 6. § (1) bekezdésében az „a (2)–(3c) és (3e) bekezdésben” szövegr
 
 d) 6. § (3e) bekezdésében a „terek, parkok” szövegrészek helyébe a „terek, közparkok” szöveg,
 
-e) 8. § (15) bekezdésében a „szerződés” szövegrész helyébe a „szerződési” szöveg,
+e)
 
-f) 12. § (8a) bekezdésében a „g) pontjában” szövegrész helyébe a „g) és h) pontjában” szöveg
-
-lép.
+f)
