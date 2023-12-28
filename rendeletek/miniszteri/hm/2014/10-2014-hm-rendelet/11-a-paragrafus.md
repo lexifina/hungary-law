@@ -1,14 +1,14 @@
-11/A. §[^73] (1)[^74] A hősi halottá nyilvánított hivatásos vagy szerződéses katonának a halál bekövetkezésekor vele ténylegesen együtt élő özvegye, vagy a (7) bekezdésben meghatározott feltételeknek megfelelő túlélő élettársa, az előbbiek hiányában a hősi halott saját háztartásában eltartott gyermeke részére egyszeri pénzbeli támogatás nyújtható
+11/A. §[^74] (1)[^75] A hősi halottá nyilvánított hivatásos vagy szerződéses katonának a halál bekövetkezésekor vele ténylegesen együtt élő özvegye, vagy a (7) bekezdésben meghatározott feltételeknek megfelelő túlélő élettársa, az előbbiek hiányában a hősi halott saját háztartásában eltartott gyermeke részére egyszeri pénzbeli támogatás nyújtható
 
-a)[^75] tulajdoni formától függetlenül lakás vásárlásához, vagy
+a)[^76] tulajdoni formától függetlenül lakás vásárlásához, vagy
 
-b)[^76] pénzintézeti lakáshitelből fennálló tartozás csökkentéséhez,
+b)[^77] pénzintézeti lakáshitelből fennálló tartozás csökkentéséhez,
 
 feltéve, hogy az R. 179. § (3) bekezdés a) pontjában meghatározott kizáró ok a pénzintézeti lakáshitellel megszerzett ingatlan kivételével az igénylő esetében nem áll fent.
 
 (2) Ha a hősi halott saját háztartásában eltartott gyermeket hagyott hátra, lakásvásárláshoz az egyszeri pénzbeli támogatás csak akkor nyújtható, ha a lakás tulajdonjogát az eltartott gyermek, több gyermek esetén az eltartott gyermekek egymás között egyenlő arányban szerzik meg.
 
-(2a)[^77] Ha a hősi halott saját háztartásában eltartott gyermeket nem hagyott hátra, lakásvásárláshoz az egyszeri pénzbeli támogatás csak akkor nyújtható, ha a lakás kizárólagos tulajdonjogát az özvegy, túlélő élettárs szerzi meg.
+(2a)[^78] Ha a hősi halott saját háztartásában eltartott gyermeket nem hagyott hátra, lakásvásárláshoz az egyszeri pénzbeli támogatás csak akkor nyújtható, ha a lakás kizárólagos tulajdonjogát az özvegy, túlélő élettárs szerzi meg.
 
 (3) Az egyszeri pénzbeli támogatás összege
 
@@ -32,8 +32,8 @@ b) a halál bekövetkezésekor fennálló együttélés folyamatosan, legalább 
 
 (8) Az egyszeri pénzbeli támogatás iránti igény a hősi halottá nyilvánítástól számított egy éves jogvesztő határidőn belül nyújtható be. A támogatás nyújtására e rendelet sorrendiségi szabályainak mellőzésével kerülhet sor.
 
-[^73]: A 11/A. §-t a 9/2017. (VIII. 31.) HM rendelet 16. §-a iktatta be.
-[^74]: A 11/A. § (1) bekezdés nyitó szövegrésze a 9/2017. (VIII. 31.) HM rendelet 20. § a) pontja szerint módosított szöveg.
-[^75]: A 11/A. § (1) bekezdés a) pontja a 22/2018. (XII. 28.) HM rendelet 6. § (16) bekezdésével megállapított szöveg.
-[^76]: A 11/A. § (1) bekezdés b) pontja a 9/2021. (III. 2.) HM rendelet 34. § e) pontja szerint módosított szöveg.
-[^77]: A 11/A. § (2a) bekezdését a 9/2021. (III. 2.) HM rendelet 33. §-a iktatta be.
+[^74]: A 11/A. §-t a 9/2017. (VIII. 31.) HM rendelet 16. §-a iktatta be.
+[^75]: A 11/A. § (1) bekezdés nyitó szövegrésze a 9/2017. (VIII. 31.) HM rendelet 20. § a) pontja szerint módosított szöveg.
+[^76]: A 11/A. § (1) bekezdés a) pontja a 22/2018. (XII. 28.) HM rendelet 6. § (16) bekezdésével megállapított szöveg.
+[^77]: A 11/A. § (1) bekezdés b) pontja a 9/2021. (III. 2.) HM rendelet 34. § e) pontja szerint módosított szöveg.
+[^78]: A 11/A. § (2a) bekezdését a 9/2021. (III. 2.) HM rendelet 33. §-a iktatta be.

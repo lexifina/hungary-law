@@ -1,6 +1,6 @@
 8. § (1) A helyi lakásgazdálkodási szerv a lakáspénzre való jogosultság fennállását szükség szerint, de évente legalább egy alkalommal, február 1. és március 31. között ellenőrzi.
 
-(2)[^63] A helyi lakásgazdálkodási szerv az ellenőrzés során a támogatott személyt a 6. § (1) bekezdés 2–6. és 9–11. pontja vonatkozásában 30 napos határidővel nyilatkozattételre, a támogatásnak a rendeletben meghatározott célra történő felhasználása és annak vonatkozásában, hogy bérleti vagy lízingdíj tartozása nem áll fent, igazolásra hívja fel.
+(2)[^64] A helyi lakásgazdálkodási szerv az ellenőrzés során a támogatott személyt a 6. § (1) bekezdés 2–6. és 9–11. pontja vonatkozásában 30 napos határidővel nyilatkozattételre, a támogatásnak a rendeletben meghatározott célra történő felhasználása és annak vonatkozásában, hogy bérleti vagy lízingdíj tartozása nem áll fent, igazolásra hívja fel.
 
 (3) A helyi lakásgazdálkodási szerv a (2) bekezdés szerint megtett nyilatkozat, saját nyilvántartásai, a rendelkezésére bocsátott egyéb lakhatás-támogatási adatok, valamint a tudomására jutott egyéb tények, információk alapján, az állományilletékes parancsnok és a folyósító pénzügyi szerv szükség szerinti bevonásával ellenőrzi a lakáspénzre való jogosultság fennállását.
 
@@ -12,4 +12,4 @@
 
 (7) A folyósításért felelős pénzügyi szerv a megelőző év december 31. napján lakáspénzben, albérleti díj hozzájárulásban, lakbértámogatásban vagy lakásüzemeltetési hozzájárulásban részesülő személyekről az (5) bekezdésben megjelölt határidőn belül, a személy- és adóigazgatási azonosító adatok, valamint természetes, a pénzügyi és az adóazonosító adatok, valamint a lakhatási támogatás fajtájának és összegének megjelölésével tájékoztatja a helyi lakásgazdálkodási szerveket.
 
-[^63]: A 8. § (2) bekezdése a 22/2018. (XII. 28.) HM rendelet 6. § (13) bekezdésével megállapított szöveg.
+[^64]: A 8. § (2) bekezdése a 22/2018. (XII. 28.) HM rendelet 6. § (13) bekezdésével megállapított szöveg.
