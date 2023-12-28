@@ -1,6 +1,6 @@
 ## 3/A. Állami vagyonelemek ingyenes tulajdonba adása Nagyvisnyó Község Önkormányzata részére
 
-4/A. § (1) Az Nvtv. 13. § (3) bekezdése, valamint a Vtv. 36. § (1) bekezdése alapján az állam tulajdonában lévő Nagyvisnyó külterület 0341/1 helyrajzi számú ingatlant (ezen alcím alkalmazásában a továbbiakban: ingatlan) ingyenesen, nyilvántartási értéken az általa vállalt közfeladatok hatékonyabb ellátása érdekében, a természetvédelmi-, sport-, ifjúsági- valamint egyéb feladatai ellátásának elősegítése céljából Nagyvisnyó Község Önkormányzata tulajdonába kerül.
+4/A. § (1) Az Nvtv. 13. § (3) bekezdése, valamint a Vtv. 36. § (1) bekezdése alapján az állam tulajdonában lévő Nagyvisnyó külterület 0341/1 helyrajzi számú ingatlant (ezen alcím alkalmazásában a továbbiakban: ingatlan) ingyenesen, nyilvántartási értéken az általa vállalt közfeladatok hatékonyabb ellátása érdekében, a természetvédelem, sport és ifjúsági ügyek, valamint egyéb feladatai ellátásának elősegítése céljából Nagyvisnyó Község Önkormányzata tulajdonába kerül.
 
 (2) Nagyvisnyó Község Önkormányzata az (1) bekezdés szerinti ingatlant terhekkel együtt szerzi meg. Az (1) bekezdés szerinti tulajdonátruházás feltétele, hogy Nagyvisnyó Község Önkormányzata az (1) bekezdés szerinti ingatlant terhelő kötelezettségeket a (3) bekezdés szerinti szerződés alapján teljes-körűen átvállalja.
 

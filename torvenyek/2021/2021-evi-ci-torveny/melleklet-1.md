@@ -239,3 +239,19 @@ belterület
 |
 
 4477/1
+
+|
+
+15.
+
+|
+
+Békéscsaba
+
+|
+
+belterület
+
+|
+
+3240/2/A/48
