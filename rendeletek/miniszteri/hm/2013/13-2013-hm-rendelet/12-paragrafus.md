@@ -26,7 +26,7 @@ k)[^52] az állomány volt tagja, akit a miniszter rehabilitált és erre külö
 
 l)[^53] az MH személyi állományába tartozásra figyelemmel a „Közszolgálat halottjává”, illetve a „Honvédelmi szervezet saját halottjává” nyilvánított elhunyt özvegye, élettársa és árvaellátásra jogosult hozzátartozói,
 
-m)[^54] az MH PK különös méltánylást érdemlő egyedi esetben – így különösen családi és vagyoni körülményeire tekintettel – alkalmanként, határozott időre megadott engedélyével az a legalább 20 évig honvédelmi szervezetnél vagy a miniszter tulajdonosi joggyakorlása alá tartozó gazdasági társaságnál foglalkoztatott személy, akinek a jogviszonya szervezeti átalakítás következtében szűnt meg,
+m)[^54] a HVKF különös méltánylást érdemlő egyedi esetben – így különösen családi és vagyoni körülményeire tekintettel – alkalmanként, határozott időre megadott engedélyével az a legalább 20 évig honvédelmi szervezetnél vagy a miniszter tulajdonosi joggyakorlása alá tartozó gazdasági társaságnál foglalkoztatott személy, akinek a jogviszonya szervezeti átalakítás következtében szűnt meg,
 
 n)[^55] az állományból kivált személy, aki szolgálati kötelmekkel összefüggő balesete vagy megbetegedése a szolgálat vagy a honvédelem ügye érdekében kifejtett kiemelkedő, különleges tevékenység, bátor helytállás, hősies magatartás tanúsítása során vagy azzal összefüggésben következett be, és ennek elismerésére a „Hazáért Érdemjelet” adományozták részére.
 
@@ -52,7 +52,7 @@ c) az MH regenerálódást segítő és rekreációt végző szervezete által �
 [^51]: A 12. § (1) bekezdés j) pontja a 25/2016. (XII. 22.) HM rendelet 59. § (1) bekezdésével megállapított szöveg.
 [^52]: A 12. § (1) bekezdés k) pontja a 25/2016. (XII. 22.) HM rendelet 59. § (1) bekezdésével megállapított szöveg.
 [^53]: A 12. § (1) bekezdés l) pontját a 25/2016. (XII. 22.) HM rendelet 59. § (2) bekezdése iktatta be.
-[^54]: A 12. § (1) bekezdés m) pontját a 4/2017. (IV. 28.) HM rendelet 7. §-a iktatta be, szövege az 5/2019. (IV. 11.) HM rendelet 9. § h) pontja szerint módosított szöveg.
+[^54]: A 12. § (1) bekezdés m) pontját a 4/2017. (IV. 28.) HM rendelet 7. §-a iktatta be, szövege az 5/2019. (IV. 11.) HM rendelet 9. § h) pontja, a 29/2023. (XII. 27.) HM rendelet 1. § c) pontja szerint módosított szöveg.
 [^55]: A 12. § (1) bekezdés n) pontját az 5/2019. (IV. 11.) HM rendelet 4. § (1) bekezdése iktatta be.
 [^56]: A 12. § (3) bekezdése a 19/2018. (XII. 20.) HM rendelet 5. § (3) bekezdésével megállapított szöveg.
 [^57]: A 12. § (3) bekezdés a) pontja az 5/2019. (IV. 11.) HM rendelet 9. § j) pontja szerint módosított szöveg.

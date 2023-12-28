@@ -2,7 +2,7 @@
 
 (2) A különleges regeneráló pihenés biztosításának lehetőségét
 
-a)[^44] a 8. § (1) bekezdés a), b) és c) pontja szerinti állomány tekintetében a miniszter, a Honvédelmi Minisztérium parlamenti államtitkára, a Honvédelmi Minisztérium közigazgatási államtitkára és az MH PK,
+a)[^44] a 8. § (1) bekezdés a), b) és c) pontja szerinti állomány tekintetében a miniszter, a Honvédelmi Minisztérium parlamenti államtitkára, a Honvédelmi Minisztérium közigazgatási államtitkára és a HVKF,
 
 b) a Katonai Nemzetbiztonsági Szolgálat vonatkozásában a 8. § (1) bekezdés a), b) és c) pontja szerinti állomány tekintetében a Katonai Nemzetbiztonsági Szolgálat főigazgatója
 
@@ -33,7 +33,7 @@ vehetik igénybe.
 (8) A különleges regeneráló pihenést a 8. § (1) bekezdése szerinti állomány tagja az éves alap- és pótszabadsága terhére veheti igénybe.
 
 [^43]: A 11/A. §-t a 6/2016. (IV. 15.) HM rendelet 4. §-a iktatta be, szövege a 4/2017. (IV. 28.) HM rendelet 6. §-ával megállapított szöveg.
-[^44]: A 11/A. § (2) bekezdés a) pontja az 5/2019. (IV. 11.) HM rendelet 9. § h) pontja szerint módosított szöveg.
+[^44]: A 11/A. § (2) bekezdés a) pontja az 5/2019. (IV. 11.) HM rendelet 9. § h) pontja, a 29/2023. (XII. 27.) HM rendelet 1. § c) pontja szerint módosított szöveg.
 [^45]: A 11/A. § (3) bekezdése a 19/2018. (XII. 20.) HM rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^46]: A 11/A. § (6) bekezdése a 19/2018. (XII. 20.) HM rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^47]: A 11/A. § (7) bekezdése a 19/2018. (XII. 20.) HM rendelet 4. § (2) bekezdésével megállapított szöveg.
