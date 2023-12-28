@@ -1,3 +1,3 @@
-11. § Az R3. 14. § (1) bekezdés e) és f) pontja helyébe a következő rendelkezések lépnek:
+11. §[^11]
 
-(A közlekedési hatóság az engedélyt visszavonja, ha)
+[^11]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

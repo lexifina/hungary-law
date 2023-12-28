@@ -1,3 +1,3 @@
-4. § Az R2. 63/A. § (2) bekezdés 6. pontja helyébe a következő rendelkezés lép:
+4. §[^4]
 
-(A közlekedési igazgatási hatóság kérelemre „I” betűjelű ideiglenes rendszámtáblát ad ki:)
+[^4]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
