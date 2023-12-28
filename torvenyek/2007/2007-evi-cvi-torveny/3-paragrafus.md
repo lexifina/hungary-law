@@ -12,7 +12,7 @@ b) azon állami tulajdonban álló ingatlanok felett, amelyek egy része a Nemze
 
 c)
 
-d) a víziközmű-szolgáltató társaságok állami tulajdonú társasági részesedése felett a Nemzeti Vízművek Zártkörűen Működő Részvénytársaság
+d) a víziközmű-szolgáltató társaságok állami tulajdonú társasági részesedése felett – ha miniszteri rendelet eltérően nem rendelkezik – a Nemzeti Vízművek Zártkörűen Működő Részvénytársaság
 
 gyakorolja.
 
