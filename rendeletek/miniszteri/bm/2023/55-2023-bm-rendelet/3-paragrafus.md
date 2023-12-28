@@ -1,5 +1,3 @@
-3. § A belügyminiszter irányítása alá tartozó szervek egyenruha-ellátásra jogosult személyi állományának ruházati és öltözködési szabályzatáról, valamint a különleges foglalkoztatási állomány ruházati, fegyverzeti, kényszerítőeszköz- és világítástechnikai felszereléséről szóló 14/2016. (V. 10.) BM rendelet 21. § (7) és (8) bekezdése helyébe a következő rendelkezések lépnek:
+3. §[^4]
 
-„(7) Ha az igényjogosult a ruházati utánpótlási ellátmánnyal nem, vagy csak részben számol el, az el nem számolt összeg tekintetében a számla benyújtására nyitva álló határidő elteltét követő 30 napon belül visszafizetési kötelezettség terheli. Ezen időtartam eredménytelen elteltét követően a ruházati utánpótlási ellátmányt biztosító szervezeti egység megkeresi az illetményt folyósító szervet a visszatérítendő összegnek az igényjogosult következő havi illetményéből történő levonása érdekében.
-
-(8) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv hivatásos állománya tagjának vagy a hivatásos állomány oda vezényelt tagjának a ruházati ellátmány jogszerű felhasználását az igényjogosult nevére és lakóhelyének címére kiállított számlával kell igazolnia. A számlát elszámolás céljából a ruházati utánpótlási ellátmányt biztosító szervezeti egységhez kell benyújtani.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

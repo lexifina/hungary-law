@@ -1,3 +1,3 @@
-6. § A belügyminiszter irányítása alá tartozó szervek egyenruha-ellátásra jogosult személyi állományának ruházati és öltözködési szabályzatáról, valamint a különleges foglalkoztatási állomány ruházati, fegyverzeti, kényszerítőeszköz- és világítástechnikai felszereléséről szóló 14/2016. (V. 10.) BM rendelet 49. § (5) bekezdése helyébe a következő rendelkezés lép:
+6. §[^7]
 
-„(5) A hivatásos katasztrófavédelmi szerv tűzoltási, műszaki mentési tevékenységet végző, készenléti jellegű állományának szolgálati feladatok végrehajtása során a 10M e. r. gyakorló dzsekin, 10M e. r. gyakorló zubbonyon, vagy a 22M gyakorló zubbony könnyített, tépőzáras felirattal megnevezésű ruházaton a szolgálati jelvényt nem kell viselnie.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
