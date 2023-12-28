@@ -58,7 +58,7 @@
 
 ## Magyar Művészeti Akadémia elnöke
 
-## Határidő: 2022. december 31., a Bethlen Gábor Alap fejezet javára biztosított 801 020 000 forint tekintetében 2023. december 31.
+## Határidő: 2022. december 31., a Bethlen Gábor Alap fejezet javára biztosított 801 020 000 forint tekintetében 2024. december 31.
 
 ## d) az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 250 000 000 forint egyszeri átcsoportosítását rendeli el, a 3. melléklet szerint;
 
@@ -118,7 +118,7 @@
 
 1. melléklet az 1034/2022. (II. 1.) Korm. határozathoz
 
-[^1]: Az 1. pont c) pontja az 1584/2022. (XI. 30.) Korm. határozat 10. pontja szerint módosított szöveg.
+[^1]: Az 1. pont c) pontja az 1611/2023. (XII. 28.) Korm. határozat 5. pontja szerint módosított szöveg.
 [^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^4]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
