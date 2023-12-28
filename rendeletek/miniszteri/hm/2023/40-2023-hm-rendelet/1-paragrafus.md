@@ -1,0 +1,1 @@
+1. § A katonai jelképekről és jelzésekről, valamint a Magyar Honvédséghez köthető megjelölésekről és használatuk engedélyezéséről szóló 15/2021. (VIII. 11.) HM rendelet (a továbbiakban: R.) 6. melléklete az 1. melléklet szerint módosul.
