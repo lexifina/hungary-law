@@ -30,7 +30,7 @@ b) az a) pont szerinti költségvetési szerv irányítása vagy felügyelete al
 
 c) a Kormány által alapított, valamint a Kormány vagy a Kormány tagja alapítói joggyakorlása alá tartozó alapítvány és közalapítvány,
 
-d)[^8] – a Magyar Nemzeti Bank, valamint a Magyar Nemzeti Banknak a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 8:2. §-a szerinti többségi befolyása alatt álló vagy az állami vagyonról szóló 2007. évi CVI. törvény 42/A. § (1) bekezdése szerinti kivezetésre szánt állami vagyon körébe tartozó gazdasági társaság kivételével – azon gazdasági társaság, amely felett az állam a Ptk. 8:2. §-a szerinti többségi befolyással vagy közvetett befolyással rendelkezik,
+d)[^8] – a Magyar Nemzeti Bank, valamint a Magyar Nemzeti Banknak a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 8:2. §-a szerinti többségi befolyása alatt álló, továbbá az állami vagyonról szóló 2007. évi CVI. törvény 42/A. § (1) bekezdése szerinti kivezetésre szánt állami vagyon körébe tartozó, valamint a légiközlekedésről szóló 1995. évi XCVII. törvény 45. § (6) bekezdése szerinti gazdasági társaság kivételével – azon gazdasági társaság, amely felett az állam a Ptk. 8:2. §-a szerinti többségi befolyással vagy közvetett befolyással rendelkezik,
 
 e) az a)–d) pontba nem tartozó olyan szervezet, amely a csatlakozást önként vállalja.
 
@@ -129,7 +129,7 @@ e rendelet szabályai ennek a dolognak az egyidejű beszerzésére is alkalmazha
 [^5]: Az 1. § (1a) bekezdés e) pontja a 21/2022. (I. 25.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
 [^6]: Az 1. § (1a) bekezdés f) pontját a 21/2022. (I. 25.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^7]: Az 1. § (1a) bekezdés g) pontját a 245/2022. (VII. 8.) Korm. rendelet 12. §-a iktatta be, szövege a 602/2022. (XII. 28.) Korm. rendelet 8. §-a szerint módosított szöveg.
-[^8]: Az 1. § (2) bekezdés d) pontja a 827/2021. (XII. 28.) Korm. rendelet 32. §-ával megállapított szöveg.
+[^8]: Az 1. § (2) bekezdés d) pontja a 644/2023. (XII. 28.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^9]: Az 1. § (2a) bekezdését a 649/2020. (XII. 23.) Korm. rendelet 4. § (3) bekezdése iktatta be.
 [^10]: Az 1. § (6) bekezdés f) pontja a 21/2022. (I. 25.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^11]: Az 1. § (6) bekezdés g) pontját a 649/2020. (XII. 23.) Korm. rendelet 4. § (5) bekezdése iktatta be, szövege a 21/2022. (I. 25.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
