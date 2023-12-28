@@ -1,6 +1,6 @@
 ## 6c.[^94] Válságtámogatás
 
-7/E. § (1)[^95] Az orosz–ukrán konfliktus miatt gazdasági nehézségekkel küzdő agrárvállalkozások és élelmiszer-feldolgozó vállalkozások részére nyújtandó válságtámogatás igénybevételének általános feltételeiről szóló 25/2022. (VIII. 31.) AM rendelethez kapcsolódó egyes agrártámogatási rendeletek módosításáról szóló 26/2022. (VIII. 31.) AM rendelet hatálybalépésének napja és 2023. december 31. napja között hatályossá vált hitelszerződésekhez kapcsolódó, a 2. § (8) bekezdése szerinti kamattámogatás, kezességi díjtámogatás, a 2. § (8d) bekezdés a) pontja szerinti kamattámogatás és kezelési költség támogatás, a 2. § (8d) bekezdés b) pontja szerinti kezességi díjtámogatás, a 2. § (8e) bekezdése szerinti kamattámogatás, valamint a 2. § (8g) bekezdése szerinti kamattámogatás – figyelemmel a 2. § (1) és (3) bekezdésében foglaltakra – válságtámogatásként is igényelhető.
+7/E. § (1)[^95] Az orosz–ukrán konfliktus miatt gazdasági nehézségekkel küzdő agrárvállalkozások és élelmiszer-feldolgozó vállalkozások részére nyújtandó válságtámogatás igénybevételének általános feltételeiről szóló 25/2022. (VIII. 31.) AM rendelethez kapcsolódó egyes agrártámogatási rendeletek módosításáról szóló 26/2022. (VIII. 31.) AM rendelet hatálybalépésének napja és 2024. június 30. napja között hatályossá vált hitelszerződésekhez kapcsolódó, a 2. § (8) bekezdése szerinti kamattámogatás, kezességi díjtámogatás, a 2. § (8d) bekezdés a) pontja szerinti kamattámogatás és kezelési költség támogatás, a 2. § (8d) bekezdés b) pontja szerinti kezességi díjtámogatás, a 2. § (8e) bekezdése szerinti kamattámogatás, valamint a 2. § (8g) bekezdése szerinti kamattámogatás – figyelemmel a 2. § (1) és (3) bekezdésében foglaltakra – válságtámogatásként is igényelhető.
 
 (2)[^96] A mezőgazdasági vállalkozás által igénybe vehető válságtámogatás összege legfeljebb
 
@@ -51,5 +51,5 @@ e) arról, hogy a gazdasági nehézsége összefüggésben áll az Oroszország 
 (10) Válságtámogatás igénylése esetén nem kell alkalmazni a 6. § (3) bekezdésében és a 7/A–7/D. §-ban foglaltakat.
 
 [^94]: A 6c. alcímet (7/E. §) a 26/2022. (VIII. 31.) AM rendelet 1. §-a iktatta be.
-[^95]: A 7/E. § (1) bekezdése a 25/2023. (IX. 28.) GFM rendelet 2. §-ával megállapított szöveg.
+[^95]: A 7/E. § (1) bekezdése a 25/2023. (IX. 28.) GFM rendelet 2. §-ával megállapított, a 38/2023. (XII. 27.) GFM rendelet 1. §-a szerint módosított szöveg.
 [^96]: A 7/E. § (2) bekezdése a 34/2022. (X. 28.) AM rendelet 3. §-ával megállapított szöveg.
