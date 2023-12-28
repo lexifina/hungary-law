@@ -26,9 +26,9 @@
 
 ## * Ha a javasolt személy nem magyar állampolgár, kérem a javaslati laphoz csatolni az adott ország illetékesének hozzájárulását!
 
-9.[^77] melléklet a 15/2013. (VIII. 22.) HM rendelethez
+9. melléklet a 15/2013. (VIII. 22.) HM rendelethez[^83]
 
-## Nyilatkozat
+Nyilatkozat
 
 1. Alulírott hozzájárulok ahhoz, hogy a ....................................................................................................................... miniszteri elismerés adományozásának előkészítése céljából a Magyar Honvédség központi személyügyi szerve, a ..................................................................................................................... Munkacsoport (a továbbiakban: Munkacsoport), a Munkacsoport titkára természetes személyazonosító adataimat (név, születés dátuma, anyja neve), lakcím adataimat, valamint az adományozásra irányuló javaslat megalapozásához szükséges személyes adataimat (a javaslat alapjául szolgáló tevékenység leíró adatai, időtartama, korábbi elismerések adományozásának ténye és időpontja) a javaslattétel beérkezésének napjától számított 5 évig kezelje.
 
@@ -50,4 +50,4 @@ Kelt
 
 elismerésre javasolt aláírása
 
-[^77]: A 9. melléklet a 14/2015. (XII. 17.) HM rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^83]: A 9. melléklet a 14/2015. (XII. 17.) HM rendelet 11. § (3) bekezdésével megállapított szöveg.

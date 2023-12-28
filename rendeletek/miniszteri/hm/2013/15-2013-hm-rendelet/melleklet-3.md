@@ -1,10 +1,10 @@
 3. melléklet a 15/2013. (VIII. 22.) HM rendelethez
 
-## Kitüntető Címek és Címek leírása
+Kitüntető Címek és Címek leírása
 
 1. Honvédelemért Kitüntető Cím:
 
-a)[^74] Babérkoszorúval ékesített fokozat: leírása az I. fokozatéval egyezik meg azzal, hogy a kereszt alatt körbefutó, 5 mm széles, zöld, zománcozott cser- és babérkoszorú van.
+a)[^80] Babérkoszorúval ékesített fokozat: leírása az I. fokozatéval egyezik meg azzal, hogy a kereszt alatt körbefutó, 5 mm széles, zöld, zománcozott cser- és babérkoszorú van.
 
 b) I. fokozat: középpont felé összefutó szárú ezüstszínű kereszt sötétzöld zománcszegéllyel, közepén Magyarország zománcozott címerével. A felfüggesztésnél az ellenkarikán aranyszínű akantuszlevél.
 
@@ -34,7 +34,7 @@ c) Bronz fokozat: bronzszínű babérkoszorú és címer, sötétzöld tűzzomá
 
 A szalag háromszög alakúra hajtott, színe fokozatonként mustársárga, szürke, bordó, középen a nemzeti színeket tartalmazó sávval.
 
-4.[^75]
+4.[^81]
 
-[^74]: A 3. melléklet 1. pont a) alpontja a 14/2015. (XII. 17.) HM rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^75]: A 3. melléklet 4. pontját a 20/2018. (XII. 28.) HM rendelet 90. § d) pontja hatályon kívül helyezte.
+[^80]: A 3. melléklet 1. pont a) alpontja a 14/2015. (XII. 17.) HM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^81]: A 3. melléklet 4. pontját a 20/2018. (XII. 28.) HM rendelet 90. § d) pontja hatályon kívül helyezte.

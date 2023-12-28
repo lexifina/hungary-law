@@ -1,5 +1,3 @@
-## adományozható.
-
 ## II. Fejezet
 
 ## A SZOLGÁLATI JELEK

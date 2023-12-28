@@ -22,6 +22,6 @@ bc) II. fokozata 20 év után,
 
 bd) III. fokozata 10 év után
 
-## adományozandó a tényleges szolgálati viszonyban töltött idő figyelembevételével.
+adományozandó a tényleges szolgálati viszonyban töltött idő figyelembevételével.
 
 (2) Tiszti, Altiszti-legénységi Szolgálati Jel adományozható az állomány tagjának akkor is, ha a szolgálatból történő végleges kiválás évében éri el tényleges szolgálati ideje az (1) bekezdésben meghatározott időtartamot.

@@ -10,7 +10,7 @@ a) kormánytisztviselőknek, közalkalmazottaknak és munkavállalóknak, évent
 
 b) a személyi állomány tagjának nem minősülő személyeknek, évente összesen legfeljebb 200 fő részére
 
-## adományozható.
+adományozható.
 
 (2) Ugyanazon személy részére
 

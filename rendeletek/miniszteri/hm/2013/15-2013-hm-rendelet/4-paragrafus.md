@@ -13,3 +13,5 @@
 a) a személyi állomány tagjának, és
 
 b) különös méltánylást érdemlő hősies, bátor, példamutató helytállásért az a) pont alá nem tartozó személynek
+
+adományozható.

@@ -1,5 +1,3 @@
-## E L Ő T E R J E S Z T É S
-
 ## Magyarország köztársasági elnökéhez a
 
 ## (a kitüntetés megnevezése)

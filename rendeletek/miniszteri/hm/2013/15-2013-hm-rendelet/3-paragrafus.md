@@ -10,6 +10,6 @@
 
 (6) A Díjak leírását a 6. melléklet tartalmazza.
 
-(7)[^5] A Magyar Honvédség parancsnoka által adományozható elismerések leírását a 7. melléklet tartalmazza.
+(7)[^5] A Honvéd Vezérkar főnöke által adományozható elismerések leírását a 7. melléklet tartalmazza.
 
-[^5]: A 3. § (7) bekezdése a 20/2018. (XII. 28.) HM rendelet 89. § b) pontja szerint módosított szöveg.
+[^5]: A 3. § (7) bekezdése a 20/2018. (XII. 28.) HM rendelet 89. § b) pontja, a 30/2023. (XII. 27.) HM rendelet 1. § a) pontja szerint módosított szöveg.

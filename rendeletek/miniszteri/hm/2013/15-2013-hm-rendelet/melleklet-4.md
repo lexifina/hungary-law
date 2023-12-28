@@ -1,6 +1,6 @@
 4. melléklet a 15/2013. (VIII. 22.) HM rendelethez
 
-## Emlékérmek leírása
+Emlékérmek leírása
 
 1. Sebesülési Emlékérem leírása: 38 mm átmérőjű, ezüstszínű peremes érem, előlapján két keresztbe tett kardra helyezett magyar államcímerrel. Az érem peremével párhuzamosan fent „SEBESÜLÉSÉRT” felirat olvasható, lent vörös zománccsík fut. A hátlapon a peremmel párhuzamos babérkoszorúval keretezett mezőbe a sebesülés helyszínét (város, ország) és évét lehet bevésni.
 

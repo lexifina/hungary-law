@@ -1,8 +1,8 @@
 ## HARMADIK RÉSZ
 
-## A MAGYAR HONVÉDSÉG PARANCSNOKA ÁLTAL ALAPÍTHATÓ ÉS ADOMÁNYOZHATÓ ELISMERÉSEK[^48]
+## A HONVÉD VEZÉRKAR FŐNÖKE ÁLTAL ALAPÍTHATÓ ÉS ADOMÁNYOZHATÓ ELISMERÉSEK[^50]
 
-## VIII/A. Fejezet[^49]
+## VIII/A. Fejezet[^51]
 
 ## AZ ÉRDEMJELEK
 
@@ -16,7 +16,7 @@ b) ezüst vagy
 
 c) bronz
 
-## fokozatú Kiváló Szolgálatteljesítésért Érdemjel adományozható.
+fokozatú Kiváló Szolgálatteljesítésért Érdemjel adományozható.
 
 (2) Kiváló Szolgálatteljesítésért Érdemjel évente
 
@@ -26,5 +26,7 @@ b) ezüst fokozatban legfeljebb 30 fő,
 
 c) bronz fokozatban legfeljebb 50 fő
 
-[^48]: A Harmadik rész címe a 20/2018. (XII. 28.) HM rendelet 89. § h) pontja szerint módosított szöveg.
-[^49]: A VIII/A. fejezetet (38/A–38/C. §) a 20/2018. (XII. 28.) HM rendelet 85. §-a iktatta be.
+részére adományozható.
+
+[^50]: A Harmadik rész címe a 20/2018. (XII. 28.) HM rendelet 89. § h) pontja, a 30/2023. (XII. 27.) HM rendelet 1. § e) pontja szerint módosított szöveg.
+[^51]: A VIII/A. fejezetet (38/A–38/C. §) a 20/2018. (XII. 28.) HM rendelet 85. §-a iktatta be.

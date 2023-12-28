@@ -10,6 +10,6 @@ b) ezüst fokozatban legfeljebb 3 fő,
 
 c) bronz fokozatban legfeljebb 4 fő
 
-## részére adományozható.
+részére adományozható.
 
 (3) A Magyar Hadisírgondozásért Kitüntető Cím azonos fokozata ugyanazon személy részére legfeljebb két alkalommal adományozható.

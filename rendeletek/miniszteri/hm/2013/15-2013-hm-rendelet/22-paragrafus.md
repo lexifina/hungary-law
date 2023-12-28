@@ -12,7 +12,7 @@ c) tiszti állománycsoport esetén dísztőr ezüst kivitelben, és
 
 d) altiszti állománycsoport esetén dísztőr bronz kivitelben
 
-## adományozható.
+adományozható.
 
 (3) Az életút elismerésére, a személyi állományból történő kiválás alkalmából egyéb emléktárgy is adományozható.
 

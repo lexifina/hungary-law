@@ -1,4 +1,4 @@
-## 30. [^47] Posztumusz elismerés
+## 30. [^49] Posztumusz elismerés
 
 37/A. § (1) Posztumusz elismerés adományozható
 
@@ -8,4 +8,4 @@ b) különös méltánylást érdemlő hősies, bátor, példamutató helytáll�
 
 (2) A posztumusz elismerés adományozására a VII. Fejezetet alkalmazni kell.
 
-[^47]: A 30. alcím (37/A–38. §) a 2/2021. (I. 14.) HM rendelet 1. §-ával megállapított szöveg.
+[^49]: A 30. alcím (37/A–38. §) a 2/2021. (I. 14.) HM rendelet 1. §-ával megállapított szöveg.
