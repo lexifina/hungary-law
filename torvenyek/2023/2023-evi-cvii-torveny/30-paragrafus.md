@@ -1,3 +1,1 @@
-30. § A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 77. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) A vasúti igazgatási szerv adatszolgáltatásra kötelezheti a pályahálózat-működtetőt az 56. § (3) bekezdése alapján létrejött együttműködésével kapcsolatban. Az eljárásba bevont pályahálózat-működtető képviselője a vasúti igazgatási szerv által meghatározott határidőn, de legfeljebb 8 napon belül rendelkezésre bocsátja a nemzetközi menetvonallal kapcsolatos panaszkezeléshez vagy vizsgálathoz szükséges, az eljárásban részt vevő pályahálózat-működtető székhelye szerinti tagállam igazgatási szervezete által igényelt információt. Az igazgatási szervezet jogosult az érintett nemzetközi menetvonallal kapcsolatos ilyen természetű információkat az eljárásban részt vevő vasúti igazgatási szerveknek továbbítani.”
+### 30. §

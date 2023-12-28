@@ -1,7 +1,3 @@
 ## 6. A személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény módosítása
 
-38. § A személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 51. §-a a következő (12)–(13) bekezdéssel egészül ki:
-
-„(12) A 35/A. § szerinti Központi Rendszerként működő, az IKOP-3.1.0-15-2017-00014 és az IKOP-3.2.0-15-2017-00028. azonosítószámú Helyközi Közösségi Közlekedési Információs Rendszer (HKIR) projektben létrehozott vagyonelemeket, vagyoni értékű jogokat a Nemzeti Mobilfizetési Zártkörűen Működő Részvénytársaság és a KTI Kft., mint a közforgalmú személyszállítási szolgáltatásokhoz kapcsolódó adatok, adatbázisok és elektronikus adatkommunikációs technológiák egységességét és átjárhatóságát biztosító műszaki és technológiai előírásokról, a központi adatbázisokról és az azokhoz kapcsolódó központi szolgáltatásokról, továbbá a működtető szervezetek kijelöléséről szóló kormányrendelet szerinti Központi Rendszert működtető átadó szervezetek 2024. március 1-jével térítésmentesen kötelesek átadni a MÁV-START Vasúti Személyszállító Zárkörűen Működő Részvénytársaság és a VOLÁNBUSZ Közlekedési zártkörűen működő Részvénytársaság, mint a közforgalmú személyszállítási szolgáltatásokhoz kapcsolódó adatok, adatbázisok és elektronikus adatkommunikációs technológiák egységességét és átjárhatóságát biztosító műszaki és technológiai előírásokról, a központi adatbázisokról és az azokhoz kapcsolódó központi szolgáltatásokról, továbbá a működtető szervezetek kijelöléséről szóló kormányrendelet szerinti Központi Rendszert működtető átvevő szervezetek részére.
-
-(13) A (12) bekezdésben foglalt vagyonelemek, vagyoni értékű jogok átadására nem kell alkalmazni a társasági adóról szóló 1996. évi LXXXI. törvény 18. §-ának rendelkezéseit.”
+### 38. §

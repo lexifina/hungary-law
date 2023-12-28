@@ -1,8 +1,8 @@
 24. § Hatályát veszti a légiközlekedésről szóló 1995. évi XCVII. törvény
 
-a) 3. § (2b) bekezdés o) pontja,
+a)
 
-b) 3. § (2e) bekezdés h) pontja,
+b)
 
 c)
 

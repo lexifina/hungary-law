@@ -4,9 +4,9 @@
 
 2.
 
-3. 3. § (3) bekezdésében az „államháztartásért” szövegrész helyébe az „adópolitikáért” szöveg,
+3.
 
-4. 15. § (2) bekezdésében az „államháztartásért” szövegrész helyébe az „adópolitikáért” szöveg,
+4.
 
 5.
 
