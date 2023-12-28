@@ -1,8 +1,8 @@
 ## 4. Nevelési támogatás
 
-10. §[^37] (1)[^38] Évente egy alkalommal – a gyermekes családok élethelyzetének javítása érdekében – gyermekenként bruttó 50 000 Ft összegű nevelési támogatásban kell részesíteni az állomány tárgyév augusztus 1-jén szolgálati viszonyban álló tagját és a tárgyév augusztus 1-jén jogviszonyban álló honvédelmi alkalmazottat,
+10. §[^38] (1)[^39] Évente egy alkalommal – a gyermekes családok élethelyzetének javítása érdekében – gyermekenként bruttó 50 000 Ft összegű nevelési támogatásban kell részesíteni az állomány tárgyév augusztus 1-jén szolgálati viszonyban álló tagját és a tárgyév augusztus 1-jén jogviszonyban álló honvédelmi alkalmazottat,
 
-a)[^39] ha a vele közös háztartásban élő vérszerinti, örökbefogadott, mostoha- vagy nevelt gyermekére tekintettel – ideértve a szülők által időszakonként felváltva gondozott, nevelt gyermeket is – az állomány tagja, a honvédelmi alkalmazott vagy a vele közös háztartásban élő házastársa vagy élettársa
+a)[^40] ha a vele közös háztartásban élő vérszerinti, örökbefogadott, mostoha- vagy nevelt gyermekére tekintettel – ideértve a szülők által időszakonként felváltva gondozott, nevelt gyermeket is – az állomány tagja, a honvédelmi alkalmazott vagy a vele közös háztartásban élő házastársa vagy élettársa
 
 aa) családi pótlékra jogosult,
 
@@ -14,7 +14,7 @@ ad) családi pótlékra nem jogosult, de gyermeke tárgyév szeptember 1-jén a 
 
 b) ha gyermeke saját jogán családi pótlékban részesül.
 
-(2)[^40] Az (1) bekezdés a) pont ab) alpontja szerinti nevelési támogatás nem illeti meg az állomány tagját vagy a honvédelmi alkalmazottat, ha gyermeke tanulmányait szünetelteti vagy félévet halaszt. Nem minősül szüneteltetésnek, ha a hallgató a Nemzeti Közszolgálati Egyetem Hadtudományi és Honvédtisztképző Karán kötelező alapkiképzésen vesz részt.
+(2)[^41] Az (1) bekezdés a) pont ab) alpontja szerinti nevelési támogatás nem illeti meg az állomány tagját vagy a honvédelmi alkalmazottat, ha gyermeke tanulmányait szünetelteti vagy félévet halaszt. Nem minősül szüneteltetésnek, ha a hallgató a Nemzeti Közszolgálati Egyetem Hadtudományi és Honvédtisztképző Karán kötelező alapkiképzésen vesz részt.
 
 (3) Az (1) bekezdésben meghatározott nevelési támogatás 25%-kal megnövelt összegére jogosult az állomány szolgálati kötelmekkel összefüggő baleset vagy betegség következtében elhunyt volt tagjának – ideértve az önkéntes tartalékost is – az (1) bekezdés szerinti feltételeknek megfelelő gyermeke, valamint a hősi halott árvaellátásban részesülő, az (1) bekezdés szerinti feltételeknek megfelelő gyermeke is.
 
@@ -22,13 +22,13 @@ b) ha gyermeke saját jogán családi pótlékban részesül.
 
 (5) Az állomány (3) és (4) bekezdésbe nem tartozó, elhunyt volt tagjának, valamint az elhunyt nyugállományú katona (1) bekezdés szerinti feltételeknek megfelelő gyermeke is jogosult az (1) bekezdés szerinti juttatásra.
 
-(6)[^41] A honvéd altiszt-jelölt az állomány tagjára vonatkozó szabályok szerint jogosult nevelési támogatásra.
+(6)[^42] A honvéd altiszt-jelölt az állomány tagjára vonatkozó szabályok szerint jogosult nevelési támogatásra.
 
-(7)[^42] Az (1) bekezdés a) pont aa) alpontjától eltérően, a tárgyévi nevelési támogatásra jogosult az állomány tagja, a honvédelmi alkalmazott akkor is, ha az (1) bekezdés a) pontja szerinti gyermek a tárgyév szeptember 30-ig megszületik, örökbefogadásra vagy nevelésbe vételre kerül.
+(7)[^43] Az (1) bekezdés a) pont aa) alpontjától eltérően, a tárgyévi nevelési támogatásra jogosult az állomány tagja, a honvédelmi alkalmazott akkor is, ha az (1) bekezdés a) pontja szerinti gyermek a tárgyév szeptember 30-ig megszületik, örökbefogadásra vagy nevelésbe vételre kerül.
 
-[^37]: A 10. § a 12/2018. (VII. 27.) HM rendelet 28. §-ával megállapított szöveg.
-[^38]: A 10. § (1) bekezdés nyitó szövegrésze a 20/2018. (XII. 28.) HM rendelet 75. § g) és h) pontja, az 1/2021. (I. 14.) HM rendelet 6. § a) pontja, a 20/2022. (XII. 28.) HM rendelet 3. § g) pontja szerint módosított szöveg.
-[^39]: A 10. § (1) bekezdés a) pont nyitó szövegrésze a 20/2018. (XII. 28.) HM rendelet 75. § e) pontja, a 20/2022. (XII. 28.) HM rendelet 3. § d) pontja szerint módosított szöveg.
-[^40]: A 10. § (2) bekezdése a 20/2018. (XII. 28.) HM rendelet 75. § g) pontja, a 20/2022. (XII. 28.) HM rendelet 3. § g) pontja szerint módosított szöveg.
-[^41]: A 10. § (6) bekezdése a 7/2022. (IV. 14.) HM rendelet 13. § a) pontja szerint módosított szöveg.
-[^42]: A 10. § (7) bekezdése a 20/2018. (XII. 28.) HM rendelet 75. § e) pontja, a 20/2022. (XII. 28.) HM rendelet 3. § d) pontja szerint módosított szöveg.
+[^38]: A 10. § a 12/2018. (VII. 27.) HM rendelet 28. §-ával megállapított szöveg.
+[^39]: A 10. § (1) bekezdés nyitó szövegrésze a 20/2018. (XII. 28.) HM rendelet 75. § g) és h) pontja, az 1/2021. (I. 14.) HM rendelet 6. § a) pontja, a 20/2022. (XII. 28.) HM rendelet 3. § g) pontja szerint módosított szöveg.
+[^40]: A 10. § (1) bekezdés a) pont nyitó szövegrésze a 20/2018. (XII. 28.) HM rendelet 75. § e) pontja, a 20/2022. (XII. 28.) HM rendelet 3. § d) pontja szerint módosított szöveg.
+[^41]: A 10. § (2) bekezdése a 20/2018. (XII. 28.) HM rendelet 75. § g) pontja, a 20/2022. (XII. 28.) HM rendelet 3. § g) pontja szerint módosított szöveg.
+[^42]: A 10. § (6) bekezdése a 7/2022. (IV. 14.) HM rendelet 13. § a) pontja szerint módosított szöveg.
+[^43]: A 10. § (7) bekezdése a 20/2018. (XII. 28.) HM rendelet 75. § e) pontja, a 20/2022. (XII. 28.) HM rendelet 3. § d) pontja szerint módosított szöveg.

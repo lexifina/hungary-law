@@ -4,16 +4,16 @@
 
 ## 11. A segély
 
-19. § (1)[^68] Az állomány tagja, a tényleges szolgálatot teljesítő önkéntes tartalékos katona, honvédelmi alkalmazott részére kérelmére – súlyos anyagi megterheléssel járó körülményeinek enyhítésére – parancsnoki segély, magasabb parancsnoki segély, valamint a HM közigazgatási államtitkár által engedélyezett segély adható.
+19. § (1)[^69] Az állomány tagja, a tényleges szolgálatot teljesítő önkéntes tartalékos katona, honvédelmi alkalmazott részére kérelmére – súlyos anyagi megterheléssel járó körülményeinek enyhítésére – parancsnoki segély, magasabb parancsnoki segély, valamint a HM közigazgatási államtitkár által engedélyezett segély adható.
 
-(2)[^69] A honvéd altiszt-jelölt az állomány tagjaira vonatkozó szabályok szerint parancsnoki, illetve magasabb parancsnoki segélyben részesíthető, azzal az eltéréssel, hogy
+(2)[^70] A honvéd altiszt-jelölt az állomány tagjaira vonatkozó szabályok szerint parancsnoki, illetve magasabb parancsnoki segélyben részesíthető, azzal az eltéréssel, hogy
 
-a)[^70] a parancsnok a rendelkezésre álló segélykeret terhére alkalmanként legfeljebb a 20. § (1) bekezdésében meghatározott összeg 50%-ának megfelelő összegű parancsnoki segély folyósítását engedélyezheti, és
+a)[^71] a parancsnok a rendelkezésre álló segélykeret terhére alkalmanként legfeljebb a 20. § (1) bekezdésében meghatározott összeg 50%-ának megfelelő összegű parancsnoki segély folyósítását engedélyezheti, és
 
 b) a magasabb parancsnoki segély összege legfeljebb a 20. § (2) bekezdésében meghatározott összeg 50%-a lehet.
 
 (3) Az állomány azon tagja, aki születési támogatásban, illetve a kegyeleti gondoskodásról szóló HM rendelet szerinti temetési segélyben részesült, vagy indokai alapján temetési segélyben részesíthető, a támogatás, illetve a segély alapjául szolgáló körülményei, indokai alapján az (1) bekezdés szerinti segélyben nem részesíthető.
 
-[^68]: A 19. § (1) bekezdése a 20/2018. (XII. 28.) HM rendelet 75. § l) pontja, a 20/2022. (XII. 28.) HM rendelet 3. § d) pontja szerint módosított szöveg.
-[^69]: A 19. § (2) bekezdés nyitó szövegrésze a 7/2022. (IV. 14.) HM rendelet 13. § a) pontja szerint módosított szöveg.
-[^70]: A 19. § (2) bekezdés a) pontja a 6/2015. (VI. 22.) HM rendelet 2. § a) pontja, a 13/2021. (VII. 15.) HM rendelet 14. §-a szerint módosított szöveg.
+[^69]: A 19. § (1) bekezdése a 20/2018. (XII. 28.) HM rendelet 75. § l) pontja, a 20/2022. (XII. 28.) HM rendelet 3. § d) pontja szerint módosított szöveg.
+[^70]: A 19. § (2) bekezdés nyitó szövegrésze a 7/2022. (IV. 14.) HM rendelet 13. § a) pontja szerint módosított szöveg.
+[^71]: A 19. § (2) bekezdés a) pontja a 6/2015. (VI. 22.) HM rendelet 2. § a) pontja, a 13/2021. (VII. 15.) HM rendelet 14. §-a szerint módosított szöveg.
