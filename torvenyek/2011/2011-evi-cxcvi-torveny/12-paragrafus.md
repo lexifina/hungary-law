@@ -20,7 +20,7 @@ h) az állami tulajdonba tartozó nemzetközi kereskedelmi repülőtér létreho
 
 i) az országos közutak és műtárgyaik, állam kizárólagos tulajdonát képező, országos jelentőségű vasútvonal, valamint azt magába foglaló pályahálózat létrehozása és működtetése,
 
-j) állami tulajdont képező terek, parkok és közkertek felszíne alatt építmény létrehozása és működtetése,
+j) állami tulajdont képező terek, közparkok és közkertek felszíne alatt építmény létrehozása és működtetése,
 
 k) a földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvény szerinti biztonsági földgáztároló létrehozása és annak működtetése,
 
@@ -44,7 +44,7 @@ c) a menetrend szerinti helyi személyszállítási szolgáltatás és a menetre
 
 d) a törzsvagyon részét képező helyi közművek létrehozása és működtetése,
 
-e) a törzsvagyon részét képező terek, parkok felszíne alatt építmény létrehozása és működtetése,
+e) a törzsvagyon részét képező terek, közparkok felszíne alatt építmény létrehozása és működtetése,
 
 f) a helyi önkormányzat kizárólagos tulajdonában álló – külön törvény rendelkezése alapján részére átadott – vizek, közcélú vízi létesítmények működtetése.
 

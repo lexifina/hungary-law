@@ -18,7 +18,7 @@ e) az 1. mellékletben meghatározott csatornák, tározók, árvízvédelmi fő
 
 f) az országos közutak és azok műtárgyai, ide nem értve a közút tartozékát képező, az ingatlan-nyilvántartásban várakozóhelyként, pihenőhelyként feltüntetett önálló ingatlant, valamint a közúti közlekedésről szóló törvény szerinti útcsatlakozást,
 
-g) állami tulajdonban álló terek, parkok, közkertek,
+g) állami tulajdonban álló terek, közparkok, közkertek,
 
 h) az 1. mellékletben meghatározott országos törzshálózati vasúti pályák és azok tartozékai,
 
