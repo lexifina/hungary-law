@@ -12,11 +12,11 @@ e) kiadmányozó szerv:
 
 ea) a Magyar Honvédség (a továbbiakban: MH) központi protokoll és rendezvényszervezésért felelős szervezete,
 
-eb) az MH Parancsnoksága (a továbbiakban: MHP) szervezeti és működési szabályzatában kijelölt önálló szervezeti egységei, ha a kiutazást az MH parancsnoka hagyja jóvá vagy engedélyezi, valamint a missziós feladatok esetében,
+eb)[^2] a Honvéd Vezérkar (a továbbiakban: HVK) szervezeti és működési szabályzatában kijelölt önálló szervezeti egységei, ha a kiutazást a Honvéd Vezérkar főnöke hagyja jóvá vagy engedélyezi, valamint a missziós feladatok esetében,
 
 ec) a honvédelmi szervezet külföldi képviseletét ellátó szervezet vagy a külföldi magyar katonai képviselet,
 
-ed) az MH parancsnoka külön felhatalmazása alapján az MH tartósan külföldön állomásozó, az MHP válságkezelő és béketámogató műveletekben részt vevő, területileg elkülönült szervezeti egysége az állományába tartozó személyek határátlépése esetén,
+ed)[^3] a Honvéd Vezérkar főnöke külön felhatalmazása alapján az MH tartósan külföldön állomásozó, a HVK válságkezelő és béketámogató műveletekben részt vevő, területileg elkülönült szervezeti egysége az állományába tartozó személyek határátlépése esetén,
 
 ee) az MH Pápa Bázisrepülőtér, a Nehéz Légiszállító Ezred állományában szolgálatot teljesítő magyar személyi állomány vonatkozásában, a Nehéz Légiszállító Ezred feladatainak végrehajtása esetén,
 
@@ -25,3 +25,6 @@ ef) az HQ MND-C a hadosztály-parancsnokság állományában szolgálatot teljes
 f) menetparancs: a NATO-SOFA Megállapodás I. Cikk 1. pont a) alpontja szerinti fegyveres erők tagjai számára az erre feljogosított szervek által meghatározott formában és tartalommal kiadmányozott, a NATO-SOFA Megállapodás III. Cikk 2. pont b) alpontjában meghatározott, határátlépést segítő okmány, amely igazolja az egyén vagy csoport fegyveres erőkhöz való tartozását és az elrendelt utazást vagy csapatmozgást,
 
 g) programfelelős szerv: a külföldre utazással járó feladat végrehajtásáért felelős szerv, kétség esetén az a szerv, amelynek állományába tartozik a menetparancsban birtokosként megjelölt személy.
+
+[^2]: A 2. § e) pont eb) alpontja a 39/2023. (XII. 27.) HM rendelet 1. § a)-b) pontja szerint módosított szöveg.
+[^3]: A 2. § e) pont ed) alpontja a 39/2023. (XII. 27.) HM rendelet 1. § b)-c) pontja szerint módosított szöveg.
