@@ -6,6 +6,8 @@ Honvédelmi egészségkárosodási ellátás megállapításhoz
 
 A honvédelmi egészségkárosodási ellátás megállapításhoz csak a hiánytalanul kitöltött és aláírt nyomtatvány fogadható el.
 
+6K83258_0
+
 | Állomány tagjának adatai |  |
 
 | Név: | Rendfokozat: |

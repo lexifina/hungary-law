@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-24-20-1
 | 2017-10-19 | 2016-24-20-15.3 | 14/2017. (X. 18.) HM rendelet |
 | 2019-01-01 | 2016-24-20-15.4 | 20/2018. (XII. 28.) HM rendelet |
 | 2022-02-18 | 2016-24-20-15.5 | 4/2022. (II. 17.) HM rendelet |
+| 2023-12-28 | 2016-24-20-15.6 | 10/2024. (VI. 28.) HM rendelet |
