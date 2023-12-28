@@ -1,4 +1,4 @@
-## 19. §[^71] Ez a rendelet
+## 19. §[^72] Ez a rendelet
 
 a) a közös agrárpolitika finanszírozásáról, irányításáról és monitoringjáról és a 352/78/EGK, a 165/94/EK, a 2799/98/EK, a 814/2000/EK, az 1290/2005/EK és a 485/2008/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1306/2013/EU európai parlamenti és tanácsi rendelet,
 
@@ -10,4 +10,4 @@ d) a borágazatban megvalósuló nemzeti támogatási programok tekintetében az
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^71]: A 19. § a 22/2021. (VI. 3.) AM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^72]: A 19. § a 22/2021. (VI. 3.) AM rendelet 4. § (2) bekezdésével megállapított szöveg.
