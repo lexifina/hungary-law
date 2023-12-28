@@ -88,9 +88,9 @@ I. FEJEZET
 
 állományába tartozó katonák részére.
 
-19. Az MH parancsnoka (a továbbiakban: MH PK) indokolt esetben a katonák részére a szolgálati feladatok ellátása során, e szabályzat rendelkezéseitől eltérő öltözet viselését írhatja elő.
+19.[^4] A Honvéd Vezérkar Főnöke (a továbbiakban: HVKF) indokolt esetben a katonák részére a szolgálati feladatok ellátása során, e szabályzat rendelkezéseitől eltérő öltözet viselését írhatja elő.
 
-20. Az MH PK külön intézkedésben határozza meg a légiutas kísérő állomány formaruházatának viselési szabályait.
+20.[^5] A HVKF külön intézkedésben határozza meg a légiutas kísérő állomány formaruházatának viselési szabályait.
 
 21. A katonának a 18–20. pont alapján meghatározott eltérő öltözet viselése esetén is rendelkeznie kell gyakorló, köznapi és társasági öltözettel.
 
@@ -246,7 +246,7 @@ azonban a járműről történő távozás előtt e ruházati könnyítéseket k
 
 54.4. A Szolgálati Szabályzatban meghatározott magatartási szabályokkal összhangban, a tényleges katonai szolgálatot teljesítő katona – az 54.8. pont kivételével – a munkavédelmi és műveleti körülményeknek megfelelő ápolt arcszőrzetet viselhet, amely maximális hossza 1,5 cm lehet. A szakállat viselő katona nyaka legyen borotvált.
 
-54.5. A honvédségi szervezetek állománya részére az MH PK, a HM és a HM szervezetek, valamint a KNBSZ állománya részére a munkáltatói jogkör gyakorlója indoklással határozza meg azon katonai és szolgálati tevékenységek, illetve alkalmak körét, amikor a katona arcszőrzetet – bajusz kivételével – nem viselhet.
+54.5.[^6] A honvédségi szervezetek állománya részére a HVKF, a HM és a HM szervezetek, valamint a KNBSZ állománya részére a munkáltatói jogkör gyakorlója indoklással határozza meg azon katonai és szolgálati tevékenységek, illetve alkalmak körét, amikor a katona arcszőrzetet – bajusz kivételével – nem viselhet.
 
 54.6. Az állományilletékes parancsnok, vezető által – a bajusz kivételével – megtiltható az arcszőrzet viselete, ha az akadályozza a katonai tevékenység ellátását, veszélyezteti a katona életét, testi épségét, egészségét, illetve a szolgálati tevékenység biztonságát, továbbá ha az nem felel meg az általános higiénés követelményeknek.
 
@@ -2954,7 +2954,7 @@ EGYES DÍSZÍTŐELEMEK, RUHADARABOK, RENDFOKOZATI JELZÉSEK ÉS FELSZERELÉSI T�
 
 186. Díszzsinór
 
-186.1. Aranyszínű szárnysegédi díszzsinórt visel a köznapi és a társasági zubbonyon a köztársasági elnök főhadsegédje, a miniszteri parancsőrtiszt, a HM altiszti főreferens és az MH PK-nak, valamint az MH parancsnokhelyettesének segédtisztje.
+186.1.[^7] Aranyszínű szárnysegédi díszzsinórt visel a köznapi és a társasági zubbonyon a köztársasági elnök főhadsegédje, a miniszteri parancsőrtiszt, a HM altiszti főreferens és a HVKF-nek, valamint a Honvéd Vezérkar főnöke helyetteseinek segédtisztje.
 
 186.2. A katonazenekarok tiszti és zászlósi állománya aranyszínű díszzsinórt, altiszti állománya ezüstszínű díszzsinórt visel a díszzubbonyon.
 
@@ -3130,7 +3130,7 @@ KITÜNTETÉSEK, SZOLGÁLATI JELEK ÉS JELVÉNYEK VISELÉSÉNEK RENDJE
 
 205. A köztársasági elnök, a Kormány, a honvédelmi miniszter, továbbá a jogszabályban feljogosított vagy az adományozásra miniszteri engedéllyel rendelkező más szerv által alapított és adományozott kitüntetést, szolgálati jelet, kitüntető címet, miniatűr jelvényt a honvédelmi szervezet katona állománya az egyenruhán viseli.
 
-206. Az Észak-atlanti Szerződés Szervezete (a továbbiakban: NATO) és Európai Unió (a továbbiakban: EU) tagállamai, valamint nemzetközi szervezetek által adományozott kitüntetésektől eltérő külföldi kitüntetést csak az hordhat, aki erre a honvédelmi minisztertől, vagy átruházott jogkörben az MH PK-tól engedélyt kapott.
+206.[^8] Az Észak-atlanti Szerződés Szervezete (a továbbiakban: NATO) és Európai Unió (a továbbiakban: EU) tagállamai, valamint nemzetközi szervezetek által adományozott kitüntetésektől eltérő külföldi kitüntetést csak az hordhat, aki erre a honvédelmi minisztertől, vagy átruházott jogkörben a HVKF-től engedélyt kapott.
 
 207. Az adományozott kitüntetéseket szalagsávon kell viselni, azonban ezen kitüntetések eredeti formában – kivéve az 1948–1990 között alapítottakat – a 208. pontban meghatározottak szerint is viselhetők.
 
@@ -3637,3 +3637,8 @@ viselendő.
 237. A kötött téli kesztyű – mind a kihordás alatt lévő 90 M és 2000 M általános, a 93 M ejtőernyős és repülőszerelő, repülőműszaki, mind a 15 M gyakorló öltözetekhez – 2025. december 31-ig viselhető.
 
 [^3]: Az 1. melléklet 4. pont 4.1. alpontja a 29/2022. (XII. 28.) HM rendelet 2. §-a szerint módosított szöveg.
+[^4]: Az 1. melléklet 19. pontja a 42/2023. (XII. 27.) HM rendelet 1. § a) pontja szerint módosított szöveg.
+[^5]: Az 1. melléklet 20. pontja a 42/2023. (XII. 27.) HM rendelet 1. § b) pontja szerint módosított szöveg.
+[^6]: Az 1. melléklet 54. pont 54.5. alpontja a 42/2023. (XII. 27.) HM rendelet 1. § c) pontja szerint módosított szöveg.
+[^7]: Az 1. melléklet 186. pont 186.1. alpontja a 42/2023. (XII. 27.) HM rendelet 1. § d) és e) pontja szerint módosított szöveg.
+[^8]: Az 1. melléklet 206. pontja a 42/2023. (XII. 27.) HM rendelet 1. § f) pontja szerint módosított szöveg.
