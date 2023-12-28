@@ -34,7 +34,7 @@
 
 | Felelős: | az Országgyűlés Hivatala főigazgatója Köztársasági Elnöki Hivatal hivatalvezetője Miniszterelnökséget vezető miniszter Miniszterelnöki Kabinetirodát vezető miniszter |
 
-| Határidő: | 2023. december 31., a Nemzeti Információs Központ cím javára biztosított 1 407 603 278 forint tekintetében 2024. február 28. |
+| Határidő: | 2023. december 31., a Nemzeti Információs Központ cím javára biztosított 1 407 603 278 forint tekintetében 2024. február 28., a Kormányzati infokommunikációs szolgáltatások jogcímcsoport javára biztosított 690 414 000 forint tekintetében 2024. június 30. |
 
 ## 1.3. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 1 167 996 151 forint egyszeri átcsoportosítását rendeli el, a 2. melléklet szerint;
 
@@ -80,7 +80,7 @@
 
 1. melléklet az 1066/2023. (III. 8.) Korm. határozathoz
 
-[^1]: Az 1. pont 1.2. alpontja az 1560/2023. (XII. 13.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^1]: Az 1. pont 1.2. alpontja az 1560/2023. (XII. 13.) Korm. határozat 3. pontja, az 1611/2023. (XII. 28.) Korm. határozat 7. pontja szerint módosított szöveg.
 [^2]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^4]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
