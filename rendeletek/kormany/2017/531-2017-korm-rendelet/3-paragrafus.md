@@ -1,5 +1,3 @@
-## 2. § Ha az 1. melléklet eltérően nem rendelkezik, a szakhatóság eljárására irányadó ügyintézési határidő tizenöt nap.
-
 3. § (1) A szélerőmű vagy szélerőmű park építési és használatbavételi engedélyezési eljárásában a szakhatósági eljárás során a szakhatóság – az építési engedély iránti kérelem és mellékletei megküldése mellett – beszerzi a településfejlesztésért és településrendezésért, az iparügyekért, a környezetvédelemért, a természetvédelemért, valamint az energiapolitikáért felelős miniszterek képviselőinek részvételével működő bizottság (e § alkalmazásában a továbbiakban: Bizottság) véleményét. A szakhatóság a szakhatósági állásfoglalás kiadása során mérlegeli a Bizottságtól beszerzett véleményt.
 
 (2)[^14] Az olyan építési és használatbavételi engedélyezési eljárásokban, amelyekben a szakhatóságként kijelölt fővárosi és vármegyei kormányhivatal jár el első fokon, eljárásában maga vizsgálja a szakkérdést.
