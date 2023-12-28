@@ -1,6 +1,26 @@
-3. számú melléklet a 220/2004. (VII. 21.) Korm. rendelethez[^210]
+| a) a külön jogszabály alapján elkészítendő önellenőrzési terv készítését és annak jóváhagyását elmulasztotta | 300 000 Ft/év |
 
-## A szennyvízkibocsátás engedélyezéséhez benyújtandó engedélykérelmi dokumentáció tartalmi követelményei
+| b) az önellenőrzési tervét a vízvédelmi hatóság általi felszólításra sem készíti el | 1 000 000 Ft/eset |
+
+| c) a jóváhagyott önellenőrzési terv teljesítését elmulasztotta | 300 000 Ft/eset |
+
+| d) vízhasználatáról és a kibocsátott szennyvizéről szándékosan valótlan adatot közöl | 1 000 000 Ft/eset |
+
+| e) nem készíti el szennyezéscsökkentési ütemtervét, a vízvédelmi hatóság által előírt határidőig | 200 000 Ft/év és 10 000 000 Ft/év között (a telepü- lési szennyvíz el- vezetése esetében a bírságot a tele- pülés LE terhelés nagyságrendje függvényében egyedileg kell megállapítani) |
+
+| f) szennyezéscsökkentési ütemtervét nem a jóváhagyott ütemezés szerint végzi | 500 000 Ft/ellenőrzés |
+
+| g) a szennyvízkibocsátására vonatkozó (jogszabályban, illetve hatósági kötelezésben előírt) adatszolgáltatási kötelezettségét határidőre, illetve a vízvédelmi hatóság felszólítására sem teljesíti | 1 000 000 Ft/eset |
+
+| h) engedélyköteles tevékenységet, illetve az ehhez tartozó technológia üzemeltetését hatósági engedély nélkül kezdi meg, és szennyvízkibocsátást folytat | 100 000 Ft/nap |
+
+| i) engedélyezéshez szükséges adatokban bekövetkezett változást nem jelenti be a területileg illetékes vízvédelmi hatóságnak és nem kéri az engedély módosítását, valamint a vízvédelmi hatóság általi felszólításra a módosításhoz szükséges meglévő engedélyét, továbbá a kibocsátására jellemző szennyező anyagokra vonatkozó nyilatkozatát a hatóság részére az előírt határidőre nem küldi meg | 200 000 Ft/eset |
+
+| j) vagy felszíni vízbe, csapadékvízelvezető hálózatba engedély nélküli szennyvíz- (használtvíz) bevezetését a hatóság által előírt határidőre nem szünteti meg, illetve a 12. § (5) bekezdés szerinti tilalmat megszegi és közcsatornába hulladékot (így különösen: élelmiszer hulladékot) bocsát | 200 000 Ft/eset |
+
+3. számú melléklet a 220/2004. (VII. 21.) Korm. rendelethez[^211]
+
+A szennyvízkibocsátás engedélyezéséhez benyújtandó engedélykérelmi dokumentáció tartalmi követelményei
 
 A) A tartalmi követelményekre vonatkozó általános előírások
 
@@ -152,4 +172,4 @@ cb) a vízgyűjtőterületen működő, a környezetre veszélyt jelentő, nagyo
 
 cc) a vízgyűjtőterületen leeresztett nem közművel összegyűjtött háztartási szennyvíz mennyisége, minősége.
 
-[^210]: A 3. számú melléklet a 457/2017. (XII. 28.) Korm. rendelet 135. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^211]: A 3. számú melléklet a 457/2017. (XII. 28.) Korm. rendelet 135. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

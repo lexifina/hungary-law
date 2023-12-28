@@ -1,4 +1,4 @@
-## 45. §[^206] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
+## 45. §[^207] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 a) a települési szennyvíz kezeléséről szóló, 1991. május 21-i 91/271/EGK tanácsi irányelv,
 
@@ -14,7 +14,7 @@ f) az Európai Szennyezőanyag-kibocsátási és -szállítási Nyilvántartás 
 
 g) a vízpolitika területén a környezetminőségi előírásokról, a 82/176/EGK, a 83/513/EGK, a 84/156/EGK és a 86/280/EGK tanácsi irányelv módosításáról és az azt követő hatályon kívül helyezéséről, valamint a 2000/60/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2008. december 16-i 2008/105/EK európai parlamenti és a tanácsi irányelv,
 
-h)[^207] a 2000/60/EK és a 2008/105/EK irányelvnek a vízpolitika terén elsőbbséginek minősülő anyagok tekintetében történő módosításáról szóló, 2013. augusztus 12-i 2013/39/EU európai parlamenti és tanácsi irányelv.
+h)[^208] a 2000/60/EK és a 2008/105/EK irányelvnek a vízpolitika terén elsőbbséginek minősülő anyagok tekintetében történő módosításáról szóló, 2013. augusztus 12-i 2013/39/EU európai parlamenti és tanácsi irányelv.
 
-[^206]: A 45. § a 230/2010. (VIII. 18.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^207]: A 45. § h) pontját a 248/2015. (IX. 8.) Korm. rendelet 7. §-a iktatta be.
+[^207]: A 45. § a 230/2010. (VIII. 18.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^208]: A 45. § h) pontját a 248/2015. (IX. 8.) Korm. rendelet 7. §-a iktatta be.

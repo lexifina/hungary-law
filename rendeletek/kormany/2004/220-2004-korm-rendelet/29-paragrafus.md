@@ -1,6 +1,6 @@
-## 28/A. §[^93] Az önellenőrzésre köteles kibocsátó folyamatosan üzemnaplót köteles vezetni. A hatóság az üzemnapló vezetését ellenőrzi és ha megállapítja, hogy az nem felel meg a használt és szennyvizek kibocsátásának ellenőrzésére vonatkozó részletes szabályokról szóló miniszteri rendeletben előírt tartalmi követelményeknek, az üzemeltetőt a hiányosságok megszüntetésére kötelezi.
+## 28/A. §[^94] Az önellenőrzésre köteles kibocsátó folyamatosan üzemnaplót köteles vezetni. A hatóság az üzemnapló vezetését ellenőrzi és ha megállapítja, hogy az nem felel meg a használt és szennyvizek kibocsátásának ellenőrzésére vonatkozó részletes szabályokról szóló miniszteri rendeletben előírt tartalmi követelményeknek, az üzemeltetőt a hiányosságok megszüntetésére kötelezi.
 
-29. §[^94] (1) A kibocsátó önellenőrzésének megfelelőségét, valamint az önellenőrzésre nem kötelezett, illetve nem vállalkozott kibocsátó esetében a befogadóra vonatkozó határértékek betartását a vízvédelmi hatóság, továbbá közcsatornába bocsátás esetében a küszöbértékek betartását a vízvédelmi hatóság és a szolgáltató (a továbbiakban együtt: ellenőrzésre jogosult) ellenőrzi.
+29. §[^95] (1) A kibocsátó önellenőrzésének megfelelőségét, valamint az önellenőrzésre nem kötelezett, illetve nem vállalkozott kibocsátó esetében a befogadóra vonatkozó határértékek betartását a vízvédelmi hatóság, továbbá közcsatornába bocsátás esetében a küszöbértékek betartását a vízvédelmi hatóság és a szolgáltató (a továbbiakban együtt: ellenőrzésre jogosult) ellenőrzi.
 
 (2) A kibocsátási határérték betartását az engedélyben meghatározott mintavételi helyen:
 
@@ -14,5 +14,5 @@ alapján kell megállapítani.
 
 (4) Önellenőrzésre nem kötelezett kibocsátóknál folyamatos szennyvízkibocsátás esetén az ellenőrzésre jogosult helyszíni ellenőrzést tarthat, idényüzem esetében a (3) bekezdés rendelkezéseit kell megfelelően alkalmazni.
 
-[^93]: A 28/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 134. § (5) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^94]: A 29. § a 457/2017. (XII. 28.) Korm. rendelet 134. § (6) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^94]: A 28/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 134. § (5) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^95]: A 29. § a 457/2017. (XII. 28.) Korm. rendelet 134. § (6) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

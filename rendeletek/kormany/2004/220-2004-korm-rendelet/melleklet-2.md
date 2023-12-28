@@ -270,9 +270,9 @@
 
 ## (11) Ez az 1,3,5,7,9,11-hexabróm-ciklododekánra (CAS 25637–99–4), az 1,2,5,6,9,10-hexabróm-ciklododekánra (CAS 3194–55–6), az α-hexabróm-ciklododekánra (CAS 134237–50–6), a β-hexabróm-ciklododekánra (CAS 134237–51–7) és a γ-hexabróm-ciklododekánra (CAS 134237–52–8) vonatkozik.
 
-2. számú melléklet a 220/2004. (VII. 21.) Korm. rendelethez[^209]
+2. számú melléklet a 220/2004. (VII. 21.) Korm. rendelethez[^210]
 
-## 2/I. A csatornabírság és a vízszennyezési bírság számítása
+2/I. A csatornabírság és a vízszennyezési bírság számítása
 
 1. A küszöbértékeknek, illetve a kibocsátási határértékeknek való megfelelést az engedélyben meghatározott mintavételi helyen vett szennyvízminta vizsgálata alapján kell megállapítani.
 
@@ -300,21 +300,21 @@ ahol
 
 | k | = a fajlagos bírságtétel az adott szennyező anyagra vonatkozóan [Ft/kg] |
 
-A küszöbérték, határérték fölött kibocsátott szennyezési koncentrációból számolt szennyezőanyag mennyiség (Mf) kiszámítása:
+## A küszöbérték, határérték fölött kibocsátott szennyezési koncentrációból számolt szennyezőanyag mennyiség (Mf) kiszámítása:
 
-Mf = Mt – Me
+## Mf = Mt – Me
 
-ahol
+## ahol
 
 | Mt | = a tényleges szennyezőanyag-kibocsátás tömegárama a bírságolási időszakra, azaz az ellenőrzés szerint kibocsátott szennyezőanyag mennyiség (kg/bírságolási időszak), |
 
-és
+## és
 
-Mt = Ci × Qt
+## Mt = Ci × Qt
 
 | Me | = az engedélyezett, küszöbérték határérték és szennyvízhozam alapján meghatározott szennyezőanyag mennyiség tömegáramban (kg/bírságolási időszak), azaz a kibocsátásra engedélyezett maximális szennyezőanyag mennyiség, |
 
-és
+## és
 
 a) települési tisztítóból való kibocsátás esetében, valamint olyan egyéb kibocsátások esetében, ahol a ténylegesen kibocsátott szennyvízmennyiség nem haladja meg a bírságolási időszakra számolt engedélyezett szennyvízmennyiséget
 
@@ -332,15 +332,15 @@ Me = Ce × Qe
 
 | Qe | = az engedélyben előírt kibocsátható szennyvízmennyiség alapján a bírságolási időszakra számolt engedélyezett szennyvízmennyiség [m3/bírságolási időszak]. |
 
-Megjegyzés: A Qe engedélyezése során a kibocsátó adatszolgáltatását kell figyelembe venni azzal, hogy az engedélyeztetni kívánt kibocsátandó szennyvízmennyiség megadásánál az erre vonatkozó kérelmét a vízszolgáltatóval kötött szerződésével, a termelő kapacitási adatokkal, valamint saját vízbázisának víztermelési adataival indokolnia kell.
+## Megjegyzés: A Qe engedélyezése során a kibocsátó adatszolgáltatását kell figyelembe venni azzal, hogy az engedélyeztetni kívánt kibocsátandó szennyvízmennyiség megadásánál az erre vonatkozó kérelmét a vízszolgáltatóval kötött szerződésével, a termelő kapacitási adatokkal, valamint saját vízbázisának víztermelési adataival indokolnia kell.
 
-A Qe engedélyezett szennyvízmennyiség-kibocsátás mértékét a hatóság – az előző évi ellenőrzésen alapuló kibocsátás (Qt) alapján – módosíthatja.
+## A Qe engedélyezett szennyvízmennyiség-kibocsátás mértékét a hatóság – az előző évi ellenőrzésen alapuló kibocsátás (Qt) alapján – módosíthatja.
 
-Amennyiben az engedélyben előírt technológiai határérték [kg vízszennyezőanyag/tonna termék] dimenzióban van megadva, akkor a kibocsátásra engedélyezett maximális szennyezőanyag mennyiség [Me] értékét a következő képlettel kell kiszámolni:
+## Amennyiben az engedélyben előírt technológiai határérték [kg vízszennyezőanyag/tonna termék] dimenzióban van megadva, akkor a kibocsátásra engedélyezett maximális szennyezőanyag mennyiség [Me] értékét a következő képlettel kell kiszámolni:
 
-Me = T × Cf
+## Me = T × Cf
 
-ahol:
+## ahol:
 
 | T | = a termelés jellemző volumenadata a bírságolási időszakra |
 
@@ -440,13 +440,13 @@ Az engedélyben előírt követelményeket ki nem elégítő mérési eredménye
 
 | 96–110 | 9 | 236–251 | 18 |  |  |
 
-A települési tisztító megfelelő működéséhez szükséges további követelmények a nem megfelelő mérési eredményekre vonatkozóan:
+## A települési tisztító megfelelő működéséhez szükséges további követelmények a nem megfelelő mérési eredményekre vonatkozóan:
 
-aa) Ha a megengedett esetek száma nagyobb 1-nél, de kisebb mint 10, akkor azok egymást követő mérésekhez nem tartozhatnak. Ha a mérési gyakoriság nagyobb mint 126, akkor 2-nél, ha nagyobb mint 300, akkor 3-nál több egymás mellett lévő meg nem engedett mérési eredmény nem fordulhat elő.
+## aa) Ha a megengedett esetek száma nagyobb 1-nél, de kisebb mint 10, akkor azok egymást követő mérésekhez nem tartozhatnak. Ha a mérési gyakoriság nagyobb mint 126, akkor 2-nél, ha nagyobb mint 300, akkor 3-nál több egymás mellett lévő meg nem engedett mérési eredmény nem fordulhat elő.
 
-ab) A dikromátos oxigénfogyasztás (KOIk) és a biokémiai oxigénigény (BOI5) esetében az üzemszerű működés közben vett minta engedélyben előírtaknak nem megfelelő mérési eredménye sem haladhatja meg 100%-kal a koncentrációban meghatározott engedélyezett határértéket. Az összes lebegőanyag (ÖLA) esetében a nem megfelelő mérési eredmény nem haladhatja meg 150%-kal a koncentrációban meghatározott engedélyezett határértéket.
+## ab) A dikromátos oxigénfogyasztás (KOIk) és a biokémiai oxigénigény (BOI5) esetében az üzemszerű működés közben vett minta engedélyben előírtaknak nem megfelelő mérési eredménye sem haladhatja meg 100%-kal a koncentrációban meghatározott engedélyezett határértéket. Az összes lebegőanyag (ÖLA) esetében a nem megfelelő mérési eredmény nem haladhatja meg 150%-kal a koncentrációban meghatározott engedélyezett határértéket.
 
-ac) A külön jogszabály34 szerinti érzékeny területeken lévő felszíni vizekbe vezetés esetén az összes foszfor (Pösszes) és összes nitrogén (Nösszes) esetében a mérési eredmények éves átlaga (a nem megfelelő mérési eredményeket is beleszámolva), meg kell feleljen az engedélyben előírt határértéknek.
+## ac) A külön jogszabály34 szerinti érzékeny területeken lévő felszíni vizekbe vezetés esetén az összes foszfor (Pösszes) és összes nitrogén (Nösszes) esetében a mérési eredmények éves átlaga (a nem megfelelő mérési eredményeket is beleszámolva), meg kell feleljen az engedélyben előírt határértéknek.
 
 b) Az egyéb kibocsátások (nem települési tisztítóból való kibocsátás) esetében egy adott szennyező anyagnak a maximális koncentrációjú kibocsátása nem haladhatja meg 100%-kal az engedélyezett határértéket. (Ha ennek nem felel meg, akkor az önellenőrzési tervben rögzített egyik mintavételi időponttól a következő mintavételi időpontig kell a bírságszámítási időszakot figyelembe venni).
 
@@ -472,9 +472,9 @@ ahol
 
 | Mr | = a nem szennyvízzel okozott rendkívüli szennyezés szennyező anyagának teljes (becsült) mennyisége |
 
-_____________
+## _____________
 
-34 A települési szennyvízkibocsátás szempontjából érzékeny felszíni vizek és vízgyűjtőterületük kijelöléséről szóló 240/2000. (XII. 23.) Korm. rendelet.
+## 34 A települési szennyvízkibocsátás szempontjából érzékeny felszíni vizek és vízgyűjtőterületük kijelöléséről szóló 240/2000. (XII. 23.) Korm. rendelet.
 
 | R | = rendkívüli szennyezési szorzótényező, melynek értékei a 36. § (4) bekezdés |
 
@@ -736,24 +736,4 @@ A bírság számításánál és megállapításánál többszörös bírságol�
 
 A vízvédelmi bírság mértéke, ha a kibocsátó
 
-| a) a külön jogszabály alapján elkészítendő önellenőrzési terv készítését és annak jóváhagyását elmulasztotta | 300 000 Ft/év |
-
-| b) az önellenőrzési tervét a vízvédelmi hatóság általi felszólításra sem készíti el | 1 000 000 Ft/eset |
-
-| c) a jóváhagyott önellenőrzési terv teljesítését elmulasztotta | 300 000 Ft/eset |
-
-| d) vízhasználatáról és a kibocsátott szennyvizéről szándékosan valótlan adatot közöl | 1 000 000 Ft/eset |
-
-| e) nem készíti el szennyezéscsökkentési ütemtervét, a vízvédelmi hatóság által előírt határidőig | 200 000 Ft/év és 10 000 000 Ft/év között (a telepü- lési szennyvíz el- vezetése esetében a bírságot a tele- pülés LE terhelés nagyságrendje függvényében egyedileg kell megállapítani) |
-
-| f) szennyezéscsökkentési ütemtervét nem a jóváhagyott ütemezés szerint végzi | 500 000 Ft/ellenőrzés |
-
-| g) a szennyvízkibocsátására vonatkozó (jogszabályban, illetve hatósági kötelezésben előírt) adatszolgáltatási kötelezettségét határidőre, illetve a vízvédelmi hatóság felszólítására sem teljesíti | 1 000 000 Ft/eset |
-
-| h) engedélyköteles tevékenységet, illetve az ehhez tartozó technológia üzemeltetését hatósági engedély nélkül kezdi meg, és szennyvízkibocsátást folytat | 100 000 Ft/nap |
-
-| i) engedélyezéshez szükséges adatokban bekövetkezett változást nem jelenti be a területileg illetékes vízvédelmi hatóságnak és nem kéri az engedély módosítását, valamint a vízvédelmi hatóság általi felszólításra a módosításhoz szükséges meglévő engedélyét, továbbá a kibocsátására jellemző szennyező anyagokra vonatkozó nyilatkozatát a hatóság részére az előírt határidőre nem küldi meg | 200 000 Ft/eset |
-
-| j) vagy felszíni vízbe, csapadékvízelvezető hálózatba engedély nélküli szennyvíz- (használtvíz) bevezetését a hatóság által előírt határidőre nem szünteti meg, illetve a 12. § (5) bekezdés szerinti tilalmat megszegi és közcsatornába hulladékot (így különösen: élelmiszer hulladékot) bocsát | 200 000 Ft/eset |
-
-[^209]: A 2. számú melléklet a Magyar Közlöny 2004. évi 116. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 208/2006. (X. 16.) Korm. rendelet 12. §-a és 13. §-ának a) pontja, az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) és (5) bekezdése, az 558/2013. (XII. 31.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^210]: A 2. számú melléklet a Magyar Közlöny 2004. évi 116. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 208/2006. (X. 16.) Korm. rendelet 12. §-a és 13. §-ának a) pontja, az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) és (5) bekezdése, az 558/2013. (XII. 31.) Korm. rendelet 4. §-a szerint módosított szöveg.

@@ -1,6 +1,6 @@
-5. számú melléklet a 220/2004. (VII. 21.) Korm. rendelethez[^219]
+5. számú melléklet a 220/2004. (VII. 21.) Korm. rendelethez[^220]
 
-## A monitoring jelentés, illetve záródokumentáció tartalmi követelményei
+A monitoring jelentés, illetve záródokumentáció tartalmi követelményei
 
 1. A károsodott felszíni víz megjelölése, lehatárolása
 
@@ -42,4 +42,4 @@ h) Javaslat az esetleges módosításokra
 
 8. Egyebek
 
-[^219]: Az 5. számú mellékletet a 93/2007. (IV. 26.) Korm. rendelet 7. §-a iktatta be. Alkalmazására lásd e módosító rendelet 8. §-át.
+[^220]: Az 5. számú mellékletet a 93/2007. (IV. 26.) Korm. rendelet 7. §-a iktatta be. Alkalmazására lásd e módosító rendelet 8. §-át.
