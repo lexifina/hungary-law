@@ -8,6 +8,8 @@ b)[^3] a miniszter mint fejezetet irányító szerv irányítása alá tartozó 
 
 c)[^4] Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 41. § (6) bekezdése alapján létesített gazdálkodó szervezet, nonprofit szervezet vagy egyéb szervezet
 
+valósít meg és az 1. mellékletben nevesítésre kerül.
+
 [^1]: Az 1. § nyitó szövegrésze a 652/2020. (XII. 23.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § a) pontja a 652/2020. (XII. 23.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^3]: Az 1. § b) pontja a 652/2020. (XII. 23.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.

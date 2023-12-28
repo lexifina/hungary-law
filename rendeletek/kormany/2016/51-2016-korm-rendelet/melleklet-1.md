@@ -1,6 +1,6 @@
 ## 8. § E rendelet rendelkezéseit a hatálybalépését követően megkötött 6. § szerinti szerződésekre kell alkalmazni.
 
-1. melléklet az 51/2016. (III. 17.) Korm. rendelethez[^12]
+1. melléklet az 51/2016. (III. 17.) Korm. rendelethez[^15]
 
 Kijelölt építési beruházások
 
@@ -48,4 +48,4 @@ Kijelölt építési beruházások
 
 | 21. | A Védelmi Innovációs Kutatóintézet Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság három telephelyén, Budapesten (lágymányosi egyetemi campuson), Szegeden (Szegedi Tudományegyetem Tudományos és Innovációs Parkjában), Zalaegerszegen (ZalaZONE Ipari Parkban) megvalósítandó beruházások |
 
-[^12]: Az 1. melléklet a 179/2016. (VII. 1.) Korm. rendelet 1. §-a, a 269/2016. (VIII. 31.) Korm. rendelet 3. §-a, a 110/2017. (IV. 28.) Korm. rendelet 1. §-a, a 316/2018. (XII. 27.) Korm. rendelet 1. §-a, a 242/2019. (X. 16.) Korm. rendelet 1. §-a, az 514/2020. (XI. 24.) Korm. rendelet 1. §-a, a 652/2020. (XII. 23.) Korm. rendelet 1. §-a, a 225/2021. (V. 4.) Korm. rendelet 5. §-a, a 341/2021. (VI. 15.) Korm. rendelet 1. §-a, a 603/2021. (X. 29.) Korm. rendelet 1–2. §-a, a 725/2021. (XII. 20.) Korm. rendelet 1. §-a, a 300/2022. (VIII. 9.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^15]: Az 1. melléklet a 179/2016. (VII. 1.) Korm. rendelet 1. §-a, a 269/2016. (VIII. 31.) Korm. rendelet 3. §-a, a 110/2017. (IV. 28.) Korm. rendelet 1. §-a, a 316/2018. (XII. 27.) Korm. rendelet 1. §-a, a 242/2019. (X. 16.) Korm. rendelet 1. §-a, az 514/2020. (XI. 24.) Korm. rendelet 1. §-a, a 652/2020. (XII. 23.) Korm. rendelet 1. §-a, a 225/2021. (V. 4.) Korm. rendelet 5. §-a, a 341/2021. (VI. 15.) Korm. rendelet 1. §-a, a 603/2021. (X. 29.) Korm. rendelet 1–2. §-a, a 725/2021. (XII. 20.) Korm. rendelet 1. §-a, a 300/2022. (VIII. 9.) Korm. rendelet 1. §-a szerint módosított szöveg.
