@@ -1,3 +1,3 @@
-12. §[^34]
+12. §[^35]
 
-[^34]: A 12. §-t a 22/2021. (XI. 5.) HM rendelet 12. §-a hatályon kívül helyezte.
+[^35]: A 12. §-t a 22/2021. (XI. 5.) HM rendelet 12. §-a hatályon kívül helyezte.
