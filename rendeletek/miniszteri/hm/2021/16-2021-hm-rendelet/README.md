@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-16-20-1
 | 2022-02-18 | 2021-16-20-15.2 | 4/2022. (II. 17.) HM rendelet |
 | 2022-12-30 | 2021-16-20-15.3 | 39/2022. (XII. 29.) HM rendelet |
 | 2023-10-27 | 2021-16-20-15.4 | 21/2023. (X. 26.) HM rendelet |
+| 2023-12-28 | 2021-16-20-15.6 | 41/2023. (XII. 27.) HM rendelet |

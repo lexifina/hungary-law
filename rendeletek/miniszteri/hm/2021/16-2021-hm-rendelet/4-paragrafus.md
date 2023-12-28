@@ -1,0 +1,3 @@
+4. §[^4] Az elutasított pályázati anyagot – ideértve a Honvéd Vezérkar Főnöke (a továbbiakban: HVKF) által jóvá nem hagyott és az alkalmatlan minősítés miatt kizárt pályázó anyagát is – az elutasítás indokait magában foglaló értesítéssel együtt a pályázók részére az állományilletékes katonai szervezet visszaküldi. Az alkalmasnak minősített pályázókat az állományilletékes katonai szervezet értesíti a pályázatuk elfogadásáról, és egyben tájékoztatja őket az alkalmassági vizsgálat végrehajtásáról, valamint az ösztöndíjszerződés megkötésének helyéről és idejéről.
+
+[^4]: A 4. § a 41/2023. (XII. 27.) HM rendelet 1. § c) pontja szerint módosított szöveg.
