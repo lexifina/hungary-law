@@ -16,7 +16,7 @@ b) az a) pontban szabályozott költségvetési szerv irányítása vagy felügy
 
 c) a Kormány által alapított, illetve a Kormány vagy a Kormány tagja alapítói joggyakorlása alá tartozó alapítvány és közalapítvány,
 
-d)[^5] a Magyar Nemzeti Bank, valamint a Magyar Nemzeti Banknak a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 8:2. §-a szerinti többségi befolyása alatt álló gazdasági társaság kivételével azon gazdasági társaság, amelyben az állam a Ptk. 8:2. §-a szerinti többségi befolyást gyakorol,
+d)[^5] a Magyar Nemzeti Bank, valamint a Magyar Nemzeti Banknak a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 8:2. §-a szerinti többségi befolyása alatt álló, valamint a légiközlekedésről szóló 1995. évi XCVII. törvény 45. § (6) bekezdése szerinti gazdasági társaság kivételével azon gazdasági társaság, amelyben az állam a Ptk. 8:2. §-a szerinti többségi befolyást gyakorol,
 
 e)[^6] olyan szervezet, amely
 
@@ -104,7 +104,7 @@ i)[^19] a DMÜ e rendelet szerinti feladatait és az ezzel összefüggő eljár�
 [^2]: Az 1. § (1) bekezdés c) pontját a 419/2023. (VIII. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^3]: Az 1. § (2) bekezdés záró szövegrésze a 182/2019. (VII. 26.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
 [^4]: Az 1. § (2) bekezdés a) pontja a 239/2022. (VI. 30.) Korm. rendelet 38. § a) pontja szerint módosított szöveg.
-[^5]: Az 1. § (2) bekezdés d) pontja a 182/2019. (VII. 26.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^5]: Az 1. § (2) bekezdés d) pontja a 644/2023. (XII. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^6]: Az 1. § (2) bekezdés e) pontja a 683/2020. (XII. 28.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^7]: Az 1. § (2a) bekezdését az 50/2019. (III. 14.) Korm. rendelet 3. §-a iktatta be, szövege a 683/2020. (XII. 28.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^8]: Az 1. § (2b) bekezdéseét a 83/2019. (IV. 18.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 683/2020. (XII. 28.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
