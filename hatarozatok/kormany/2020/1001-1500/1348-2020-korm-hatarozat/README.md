@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1348-30
 | 2020-07-01 | 2020-1348-30-22.2 | 2010: CXXX. törvény |
 | 2022-01-20 | 2020-1348-30-22.3 | 1007/2022. (I. 20.) Korm. határozat |
 | 2022-11-30 | 2020-1348-30-22.5 | 1584/2022. (XI. 30.) Korm. határozat |
+| 2023-12-28 | 2020-1348-30-22.6 | 1611/2023. (XII. 28.) Korm. határozat |
