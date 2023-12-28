@@ -1,6 +1,6 @@
 ## 18. Tisztítószer norma szerinti ellátás
 
-## 32. §[^118] Tisztítószer norma szerinti ellátásra jogosultak:
+## 32. §[^119] Tisztítószer norma szerinti ellátásra jogosultak:
 
 a) a személyi állomány részére élelmezési ellátást végző konyhák és éttermek, és
 
@@ -8,4 +8,4 @@ b) a nyugállományú katonák, a honvédségi nyugdíjasok és közeli hozzáta
 
 az ott étkező igényjogosultak létszáma után főétkezésenként.
 
-[^118]: A 32. § a 12/2019. (XII. 10.) HM rendelet 7. §-ával megállapított szöevg.
+[^119]: A 32. § a 12/2019. (XII. 10.) HM rendelet 7. §-ával megállapított szöevg.

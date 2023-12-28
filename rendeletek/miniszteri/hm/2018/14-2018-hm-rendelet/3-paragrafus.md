@@ -1,4 +1,4 @@
-3. §[^12] (1) A személyi állomány tagja az e rendeletben meghatározott esetekben térítésmentes természetbeni élelmezési ellátásra jogosult, amelyet a természetbeni ellátás feltételeinek hiánya esetén, továbbá e rendeletben meghatározott esetekben készpénzben kell megváltani (a továbbiakban: készpénz-megváltás).
+3. §[^13] (1) A személyi állomány tagja az e rendeletben meghatározott esetekben térítésmentes természetbeni élelmezési ellátásra jogosult, amelyet a természetbeni ellátás feltételeinek hiánya esetén, továbbá e rendeletben meghatározott esetekben készpénzben kell megváltani (a továbbiakban: készpénz-megváltás).
 
 (2) A Hvt. 59. § (1) bekezdés i) pontja szerinti feladatot – a Hjt. 42. § (2) bekezdés a) pontja alapján vezényléssel, illetve a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 53. §-a alapján kinevezéstől eltérő foglalkoztatás (e § alkalmazásában a továbbiakban együtt: vezénylés) keretében – végrehajtó, a 19. § (1) bekezdés 3. pontja alapján élelmezési ellátásra jogosult részére a készpénz-megváltás terhére, ha a vásárolt vagy természetbeni ellátás központilag nem biztosítható, kérelem alapján legfeljebb 30 napos időtartamra előleg folyósítható vagy fizethető ki.
 
@@ -14,4 +14,4 @@ b) a (2) bekezdés alapján megállapított készpénz-megváltás pontos össze
 
 (6) Az e rendelet szerint jogosult személy élelmezési ellátásra csak egy jogcímen lehet jogosult. Ha e rendelet szerint a személyi állomány részére több jogcímen is megállapítható a jogosultság, részére a magasabb értékű norma szerinti ellátást kell biztosítani.
 
-[^12]: A 3. § a 27/2022. (XII. 28.) HM rendelet 3. §-ával megállapított szöveg.
+[^13]: A 3. § a 27/2022. (XII. 28.) HM rendelet 3. §-ával megállapított szöveg.

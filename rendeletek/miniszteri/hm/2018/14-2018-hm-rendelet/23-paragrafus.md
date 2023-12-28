@@ -18,9 +18,9 @@
 
 8. az élelmezési állománytáblás szaktechnikai eszközök – üzemeltetési utasításban előírt vagy jogszabályban meghatározott – időszakos felülvizsgálat után,
 
-9.[^104] eldobható élelmezési felszerelés utánpótlási norma fedélzeti ellátás adagszáma után,
+9.[^105] eldobható élelmezési felszerelés utánpótlási norma fedélzeti ellátás adagszáma után,
 
-10.[^105] a repülőgép fedélzeti kiszolgáló konyhafelszerelés és egyéb fogyóanyag utánpótlási norma, konyhánként évente.
+10.[^106] a repülőgép fedélzeti kiszolgáló konyhafelszerelés és egyéb fogyóanyag utánpótlási norma, konyhánként évente.
 
-[^104]: A 23. § 9. pontját a 12/2019. (XII. 10.) HM rendelet 6. §-a iktatta be.
-[^105]: A 23. § 10. pontját a 12/2019. (XII. 10.) HM rendelet 6. §-a iktatta be.
+[^105]: A 23. § 9. pontját a 12/2019. (XII. 10.) HM rendelet 6. §-a iktatta be.
+[^106]: A 23. § 10. pontját a 12/2019. (XII. 10.) HM rendelet 6. §-a iktatta be.

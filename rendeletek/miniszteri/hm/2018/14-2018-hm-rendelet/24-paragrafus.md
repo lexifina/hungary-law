@@ -1,6 +1,6 @@
 ## 11. Védőital norma szerinti ellátás
 
-24. § (1)[^106] Védőital norma szerinti ellátásra a személyi állomány az alábbi esetekben jogosult:
+24. § (1)[^107] Védőital norma szerinti ellátásra a személyi állomány az alábbi esetekben jogosult:
 
 1. ha a szabadtéren vagy fűtetlen zárt térben történő munkavégzés, szolgálatteljesítés idejének legalább 50%-ban és legalább 4 óra időtartamban a hőmérséklet nem éri el a +10 °C -t, az ott szolgálati tevékenységet ellátó személyi állomány részére legalább +50 °C-ot elérő hőmérsékletű teaitalt kell biztosítani a szükséges mennyiségben; ahol a teaital elkészítésének tárgyi, higiéniai és infrastrukturális feltételei adottak, ott a nyersanyag kiadása legfeljebb két napra előre is lehetséges; ha az előző körülmények közötti munkavégzés parancs szerint eléri a 10 órát, a tényleges munkaidőre a 2. számú védőital norma kétszeresen számítandó fel,
 
@@ -8,9 +8,9 @@
 
 3. a zárt térben munkát végzők részére vezetékes ivóvíz vételi lehetőséget kell biztosítani, norma felszámítására nem jogosít.
 
-(2)[^107]
+(2)[^108]
 
 (3) Az (1) bekezdés 1. és 2. pontja szerinti védőital-ellátást úgy kell megszervezni, hogy a szolgálati tevékenység, munkavégzés megkezdésétől a védőital-kiszolgálás lehetősége folyamatosan biztosított legyen.
 
-[^106]: A 24. § (1) bekezdés nyitó szövegrésze a 8/2019. (VII. 4.) HM rendelet 12. § f) pontja szerint módosított szöveg.
-[^107]: A 24. § (2) bekezdését a 27/2022. (XII. 28.) HM rendelet 21. §-a hatályon kívül helyezte.
+[^107]: A 24. § (1) bekezdés nyitó szövegrésze a 8/2019. (VII. 4.) HM rendelet 12. § f) pontja szerint módosított szöveg.
+[^108]: A 24. § (2) bekezdését a 27/2022. (XII. 28.) HM rendelet 21. §-a hatályon kívül helyezte.

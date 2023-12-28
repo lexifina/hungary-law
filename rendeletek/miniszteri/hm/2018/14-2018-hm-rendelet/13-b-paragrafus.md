@@ -1,5 +1,5 @@
-13/B. §[^73] (1) A szállító-repülőgép szakszemélyzete a protokolláris HM utasításban meghatározott személyi kategóriákba tartozó személyek utazásai során a III. számú élelmezési norma szerinti térítésmentes természetbeni élelmezési ellátásra jogosult.
+13/B. §[^74] (1) A szállító-repülőgép szakszemélyzete a protokolláris HM utasításban meghatározott személyi kategóriákba tartozó személyek utazásai során a III. számú élelmezési norma szerinti térítésmentes természetbeni élelmezési ellátásra jogosult.
 
 (2) Az (1) bekezdés szerinti fedélzeti ellátást a protokollfeladatok végzésére kijelölt katonai szervezet biztosítja.
 
-[^73]: A 13/B. §-t a 9/2019. (VIII. 30.) HM rendelet 9. §-a iktatta be.
+[^74]: A 13/B. §-t a 9/2019. (VIII. 30.) HM rendelet 9. §-a iktatta be.

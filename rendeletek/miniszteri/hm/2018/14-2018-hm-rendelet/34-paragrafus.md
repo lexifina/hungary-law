@@ -2,7 +2,7 @@
 
 34. § (1) Étkezéstérítésre kötelezett beosztásban szolgálatot teljesítőnek, illetve ilyen munkakörben munkát végzőnek minősülnek az MH katonai szervezeteinél
 
-a)[^122] az élelmezési szakterület vezetéséért felelős tiszt, altiszt, honvédelmi alkalmazott,
+a)[^123] az élelmezési szakterület vezetéséért felelős tiszt, altiszt, honvédelmi alkalmazott,
 
 b) az ellátó-, logisztikai tiszt, altiszt, beosztott altiszt, élelmezési ellátó szakasz-, illetve rajparancsnok,
 
@@ -36,9 +36,9 @@ beosztású vagy munkakörű, vagy legalább négy órában e feladatkörben ren
 
 (3) Az (1) és (2) bekezdés alapján étkezéstérítésre kötelezett személy térítési díja az I. számú élelmezési norma ebédétkezés nyersanyag-költségének bruttó összege.
 
-(4)[^123] Az e rendelet alapján egyéb jogcímen térítésmentes természetbeni ellátásra jogosultak mentesülnek az étkezéstérítési kötelezettség alól.
+(4)[^124] Az e rendelet alapján egyéb jogcímen térítésmentes természetbeni ellátásra jogosultak mentesülnek az étkezéstérítési kötelezettség alól.
 
 (5) Azon személyek térítési kötelezettségét, akik élelmezési gazdálkodást nem folytató katonai szervezetnél töltenek be étkezéstérítésre kötelezett beosztást, az állományilletékes parancsnok vagy a munkáltatói jogkör gyakorlója a vezénylési időszakra külön parancsban vagy határozatban állapítja meg.
 
-[^122]: A 34. § (1) bekezdés a) pontja a 27/2022. (XII. 28.) HM rendelet 17. § (1) bekezdésével megállapított szöveg.
-[^123]: A 34. § (4) bekezdése a 27/2022. (XII. 28.) HM rendelet 17. § (2) bekezdésével megállapított szöveg.
+[^123]: A 34. § (1) bekezdés a) pontja a 27/2022. (XII. 28.) HM rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^124]: A 34. § (4) bekezdése a 27/2022. (XII. 28.) HM rendelet 17. § (2) bekezdésével megállapított szöveg.

@@ -1,6 +1,6 @@
 7. § (1) Ha az e rendelet szerint élelmezési ellátásra jogosult vagy ellátandó személy élelmezési ellátása az állami protokolláris vendéglátás, valamint a személyi és rendezvényi reprezentáció szabályait meghatározó HM utasítás alapján, illetve a honvédelmi szervezetek által egyéb módon biztosított, az e rendelet szerinti ellátásra nem jogosult.
 
-(2)[^19] A speciális élelmiszert fogyasztó személyi állomány részére – az MH szakorvos évente felülvizsgált javaslata és a csapatorvos engedélye alapján – készpénz-megváltást, valamint az étkezéstérítésre kötelezett állomány esetén a kötelezettség alóli mentességet biztosíthat az állományilletékes parancsnok. A vegetáriánus életmódot folytató, valamint saját elhatározásból speciális diétát követő személyek részére készpénz-megváltás nem biztosítható.
+(2)[^20] A speciális élelmiszert fogyasztó személyi állomány részére – az MH szakorvos évente felülvizsgált javaslata és a csapatorvos engedélye alapján – készpénz-megváltást, valamint az étkezéstérítésre kötelezett állomány esetén a kötelezettség alóli mentességet biztosíthat az állományilletékes parancsnok. A vegetáriánus életmódot folytató, valamint saját elhatározásból speciális diétát követő személyek részére készpénz-megváltás nem biztosítható.
 
 (3) Munkaidőre, szolgálatteljesítési időre eső főétkezésen
 
@@ -14,4 +14,4 @@ c) a vacsorát kell érteni, ha a tevékenység időtartama eléri a 4 órát é
 
 (5) A honvédségi ösztöndíjas élelmezési ellátására a katonai szervezetnél eltöltendő szakmai gyakorlat alatt, valamint a felkészítő táborokban való részvétel napjaira a személyi állományra vonatkozó szabályok vonatkoznak.
 
-[^19]: A 7. § (2) bekezdése a 27/2022. (XII. 28.) HM rendelet 5. §-ával megállapított szöveg.
+[^20]: A 7. § (2) bekezdése a 27/2022. (XII. 28.) HM rendelet 5. §-ával megállapított szöveg.
