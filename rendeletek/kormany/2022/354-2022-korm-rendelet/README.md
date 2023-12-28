@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-354-20-
 | 2023-02-02 | 2022-354-20-22.6 | 27/2023. (II. 1.) Korm. rendelet |
 | 2023-03-17 | 2022-354-20-22.7 | 84/2023. (III. 16.) Korm. rendelet |
 | 2023-06-27 | 2022-354-20-22.8 | 251/2023. (VI. 22.) Korm. rendelet |
+| 2023-12-28 | 2022-354-20-22.9 | 594/2023. (XII. 20.) Korm. rendelet |
