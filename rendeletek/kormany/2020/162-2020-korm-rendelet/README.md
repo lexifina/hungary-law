@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-162-20-
 | 2021-02-03 | 2020-162-20-22.5 | 41/2021. (II. 2.) Korm. rendelet |
 | 2022-01-01 | 2020-162-20-22.6 | 827/2021. (XII. 28.) Korm. rendelet |
 | 2023-01-01 | 2020-162-20-22.7 | 611/2022. (XII. 28.) Korm. rendelet |
+| 2023-12-28 | 2020-162-20-22.8 | 644/2023. (XII. 28.) Korm. rendelet |

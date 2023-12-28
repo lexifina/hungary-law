@@ -4,7 +4,7 @@ a) a Kormány irányítása vagy felügyelete alá tartozó költségvetési sze
 
 b) az a) pontban szabályozott költségvetési szerv irányítása vagy felügyelete alá tartozó központi, területi és helyi költségvetési szerv vagy intézmény,
 
-c)[^10] – a Magyar Nemzeti Bank, illetve a Magyar Nemzeti Banknak a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 8:2. §-a szerinti többségi befolyása alatt álló vagy az állami vagyonról szóló 2007. évi CVI. törvény 42/A. § (1) bekezdése szerinti kivezetésre szánt állami vagyon körébe tartozó gazdasági társaság kivételével – azon gazdasági társaság, amelyben az állam a Ptk. 8:2. §-a szerinti többségi befolyást gyakorol,
+c)[^10] – a Magyar Nemzeti Bank, illetve a Magyar Nemzeti Banknak a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 8:2. §-a szerinti többségi befolyása alatt álló, továbbá az állami vagyonról szóló 2007. évi CVI. törvény 42/A. § (1) bekezdése szerinti kivezetésre szánt állami vagyon körébe tartozó, valamint a légiközlekedésről szóló 1995. évi XCVII. törvény 45. § (6) bekezdése szerinti gazdasági társaság kivételével – azon gazdasági társaság, amelyben az állam a Ptk. 8:2. §-a szerinti többségi befolyást gyakorol,
 
 d) az a–c) pontba tartozó szervezet által alapított vagy alapítói joggyakorolása alatt álló alapítvány és közalapítvány – a (3) bekezdésben meghatározott kivétellel –,
 
@@ -25,7 +25,7 @@ csatlakozást önként vállalja (a továbbiakban együttesen: önkéntes csatla
 (3)[^15] E rendelet hatálya nem terjed ki a vagyonkezelő alapítványokról szóló 2019. évi XIII. törvény szerint a Kormány által alapított vagyonkezelő alapítványokra, a tulajdonukban álló gazdálkodó szervezetekre, gazdasági társaságokra, valamint a tulajdonukban álló, illetve fenntartói joggyakorlásuk alá tartozó intézményekre.
 
 [^9]: A 2. § (1) bekezdés nyitó szövegrésze az 590/2020. (XII. 17.) Korm. rendelet 11. § 3. pontja szerint módosított szöveg.
-[^10]: A 2. § (1) bekezdés c) pontja a 827/2021. (XII. 28.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^10]: A 2. § (1) bekezdés c) pontja a 644/2023. (XII. 28.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^11]: A 2. § (1) bekezdés e) pontja az 590/2020. (XII. 17.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^12]: A 2. § (1) bekezdés f) pontja az 590/2020. (XII. 17.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^13]: A 2. § (1) bekezdés g) pontja a 41/2021. (II. 2.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
