@@ -6,16 +6,16 @@ a) az 1. melléklet szerinti munkáltatói jogköröket,
 
 b) állományilletékes parancsnoki jogköröket, és
 
-c)[^387] a Hjt. szerint a miniszter hatáskörébe utalt munkáltatói jogkörök esetén – az MH PK egyidejű tájékoztatása mellett – javaslattételi jogot
+c)[^399] a Hjt. szerint a miniszter hatáskörébe utalt munkáltatói jogkörök esetén – a HVKF egyidejű tájékoztatása mellett – javaslattételi jogot
 
 gyakorol.
 
-(2)[^388] A Hjt. 196. §-ának alkalmazása esetén az MH PK (1) bekezdés c) pontja szerinti egyidejű tájékoztatása kizárt.
+(2)[^400] A Hjt. 196. §-ának alkalmazása esetén a HVKF (1) bekezdés c) pontja szerinti egyidejű tájékoztatása kizárt.
 
 (3) A KNBSZ főigazgatójának munkáltatói jogkörét a miniszter magához vonhatja.
 
-(4)[^389] A KNBSZ személyügyi szerve vezetőjének munkáltatói jogköreit a főigazgató magához vonhatja.
+(4)[^401] A KNBSZ személyügyi szerve vezetőjének munkáltatói jogköreit a főigazgató magához vonhatja.
 
-[^387]: A 167. § (1) bekezdés c) pontja a 20/2018. (XII. 28.) HM rendelet 71. § 2. pontja szerint módosított szöveg.
-[^388]: A 167. § (2) bekezdése a 20/2018. (XII. 28.) HM rendelet 71. § 2. pontja szerint módosított szöveg.
-[^389]: A 167. § (4) bekezdését a 10/2016. (VI. 29.) HM rendelet 26. §-a iktatta be.
+[^399]: A 167. § (1) bekezdés c) pontja a 20/2018. (XII. 28.) HM rendelet 71. § 2. pontja, a 26/2023. (XII. 27.) HM rendelet 1. § b) pontja szerint módosított szöveg.
+[^400]: A 167. § (2) bekezdése a 20/2018. (XII. 28.) HM rendelet 71. § 2. pontja, a 26/2023. (XII. 27.) HM rendelet 1. § b) pontja szerint módosított szöveg.
+[^401]: A 167. § (4) bekezdését a 10/2016. (VI. 29.) HM rendelet 26. §-a iktatta be.

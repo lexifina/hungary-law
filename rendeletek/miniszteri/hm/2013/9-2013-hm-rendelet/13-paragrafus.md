@@ -1,6 +1,6 @@
 ## 6. Munkáltató döntések, jognyilatkozatok tartalmi követelményei és kiadásuk rendje
 
-13. §[^74] (1) A munkáltatói döntés, jognyilatkozat – ha jogszabály másként nem rendelkezik – tartalmazza különösen
+13. §[^78] (1) A munkáltatói döntés, jognyilatkozat – ha jogszabály másként nem rendelkezik – tartalmazza különösen
 
 a) a munkáltatói jogkört gyakorló beosztásának megnevezését, és az irat jellegét,
 
@@ -14,9 +14,9 @@ e) a munkáltatói döntés hatálybalépésének időpontját, illetve időtart
 
 f) indokolást, kivéve, ha az indokolási kötelezettséget a Hjt. kizárja, és
 
-g)[^75] a Hjt. 7. § (9) bekezdésének megfelelő tartalmú tájékoztatást a jogorvoslatról.
+g)[^79] a Hjt. 7. § (9) bekezdésének megfelelő tartalmú tájékoztatást a jogorvoslatról.
 
 (2) A Hjt. 51. § (1) bekezdése szerinti megállapodást az (1) bekezdés a)–e) pontjában meghatározott tartalommal a központi személyügyi szerv készíti elő.
 
-[^74]: A 13. § a 4/2015. (VI. 22.) HM rendelet 4. §-ával megállapított szöveg.
-[^75]: A 13. § (1) bekezdés g) pontja a 10/2017. (VIII. 31.) HM rendelet 25. § h) pontja szerint módosított szöveg.
+[^78]: A 13. § a 4/2015. (VI. 22.) HM rendelet 4. §-ával megállapított szöveg.
+[^79]: A 13. § (1) bekezdés g) pontja a 10/2017. (VIII. 31.) HM rendelet 25. § h) pontja szerint módosított szöveg.

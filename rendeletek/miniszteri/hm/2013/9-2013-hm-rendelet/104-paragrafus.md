@@ -1,3 +1,3 @@
-104. §[^270]
+104. §[^282]
 
-[^270]: A 104. §-t a 13/2020. (X. 14.) HM rendelet 32. § 14. pontja hatályon kívül helyezte.
+[^282]: A 104. §-t a 13/2020. (X. 14.) HM rendelet 32. § 14. pontja hatályon kívül helyezte.

@@ -2,6 +2,6 @@
 
 (2) A tényleges szolgálatteljesítés elhalasztása vagy az átütemezése kérelemre engedélyezhető annak az önkéntes tartalékos katonának is, aki a munkavégzéshez szükséges szaktudás megszerzésére irányuló képzésben vesz részt, és az önkéntes tartalékos katonai szolgálatra történő behívás számára aránytalan nehézséggel vagy hátránnyal járna.
 
-(3)[^469] Az (1) és a (2) bekezdés szerinti kérelemhez csatolni kell a hallgatói vagy tanulói jogviszony igazolása céljából a kérelmező érvényes diákigazolványának másolatát.
+(3)[^485] Az (1) és a (2) bekezdés szerinti kérelemhez csatolni kell a hallgatói vagy tanulói jogviszony igazolása céljából a kérelmező érvényes diákigazolványának másolatát.
 
-[^469]: A 252. § (3) bekezdése a 21/2023. (X. 26.) HM rendelet 1. §-ával megállapított szöveg.
+[^485]: A 252. § (3) bekezdése a 21/2023. (X. 26.) HM rendelet 1. §-ával megállapított szöveg.

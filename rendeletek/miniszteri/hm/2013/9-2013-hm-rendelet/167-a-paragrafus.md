@@ -1,0 +1,3 @@
+167/A. §[^402] A KNBSZ főigazgatója tábornokot a HVKF egyidejű tájékoztatásával nyilváníthat a „Katonai szolgálat halottjává”.
+
+[^402]: A 167/A. §-t a 20/2018. (XII. 28) HM rendelet 51. §-a iktatta be, szövege a 26/2023. (XII. 27.) HM rendelet 1. § b) pontja szerint módosított szöveg.

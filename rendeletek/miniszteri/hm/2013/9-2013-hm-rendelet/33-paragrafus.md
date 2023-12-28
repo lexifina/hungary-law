@@ -1,6 +1,6 @@
 ## 11. Tájékoztatási kötelezettség
 
-33. §[^148] (1) A szolgálati viszony létesítésére vonatkozó munkáltatói jogkört gyakorló által kijelölt személy írásban, legkésőbb a szolgálatteljesítés első napján tájékoztatja az állomány tagját
+33. §[^154] (1) A szolgálati viszony létesítésére vonatkozó munkáltatói jogkört gyakorló által kijelölt személy írásban, legkésőbb a szolgálatteljesítés első napján tájékoztatja az állomány tagját
 
 a) a munkáltatói jogkör gyakorlásának rendjéről,
 
@@ -40,4 +40,4 @@ n) a hatóság megnevezéséről, amely részére a munkáltató a szolgálati v
 
 (6) Az (1) bekezdésben meghatározottak változásáról az állomány tagját legkésőbb a változás hatálybalépésének időpontjában írásban tájékoztatni kell. A változásról szóló írásos tájékoztatási kötelezettség akkor mellőzhető, ha a tájékoztatás a (3) és (4) bekezdés szerint történt.
 
-[^148]: A 33. § a 6/2023. (IV. 3.) HM rendelet 3. §-ával megállapított szöveg.
+[^154]: A 33. § a 6/2023. (IV. 3.) HM rendelet 3. §-ával megállapított szöveg.

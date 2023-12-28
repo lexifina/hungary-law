@@ -1,8 +1,8 @@
 ## 15. A rendelkezési állomány
 
-48/A. §[^171] (1)[^172]
+48/A. §[^177] (1)[^178]
 
 (2) Az állomány Hjt. 58/A. § (1) bekezdése szerint rendelkezési állományba tartozó tagja szolgálati viszonyával kapcsolatos személyügyi ügyeinek intézését a központi személyügyi szerv végzi.
 
-[^171]: A 48/A. §-t a 10/2017. (VIII. 31.) HM rendelet 11. §-a iktatta be.
-[^172]: A 48/A. § (1) bekezdését a 12/2018. (VII. 27.) HM rendelet 23. § b) pontja hatályon kívül helyezte.
+[^177]: A 48/A. §-t a 10/2017. (VIII. 31.) HM rendelet 11. §-a iktatta be.
+[^178]: A 48/A. § (1) bekezdését a 12/2018. (VII. 27.) HM rendelet 23. § b) pontja hatályon kívül helyezte.
