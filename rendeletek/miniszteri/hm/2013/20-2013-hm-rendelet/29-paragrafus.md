@@ -1,3 +1,3 @@
-## 28. §[^55]
+29. §[^58]
 
-[^55]: A 28. §-t a 27/2021. (XII. 17.) HM rendelet 18. § j) pontja hatályon kívül helyezte.
+[^58]: A 29–30. §-t a 23/2016. (XII. 21.) HM rendelet 5. §-a iktatta be, hatályon kívül helyezte e módosító rendelet 6. §-a.

@@ -1,8 +1,10 @@
-2. melléklet a 20/2013. (IX. 16.) HM rendelethez[^59]
+2. melléklet a 20/2013. (IX. 16.) HM rendelethez[^62]
 
 1. A KIEGÉSZÍTŐ RUHÁZATI ELLÁTMÁNY ÖSSZETÉTELE ÉS MENNYISÉGE
 
 (A kiegészítő ellátmány körébe az ékítmények nem tartoznak bele, azt az igényjogosult a ruházati utalványfüzete terhére köteles átvenni.)
+
+## 1X10864_0
 
 |  | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z |
 
@@ -494,7 +496,7 @@ SZOLGÁLATOT TELJESÍTŐ TISZTEK ÉS ALTISZTEK KIEGÉSZÍTŐ RUHÁZATI ELLÁTMÁ
 
 |  | A | B | C |
 
-| 1 | Megnevezés | Mértékegység | Mennyiség |
+|  | Megnevezés | Mértékegység | Mennyiség |
 
 | 2 | Társasági zubbony | db | 1 |
 
@@ -730,4 +732,4 @@ SZOLGÁLATOT TELJESÍTŐ TISZTEK ÉS ALTISZTEK KIEGÉSZÍTŐ RUHÁZATI ELLÁTMÁ
 
 | 49 | Fekete deréköv | 1 darab | szükség szerint |  |
 
-[^59]: A 2. melléklet a 27/2021. (XII. 17.) HM rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^62]: A 2. melléklet a 27/2021. (XII. 17.) HM rendelet 16. § (2) bekezdésével megállapított szöveg.

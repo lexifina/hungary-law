@@ -13,3 +13,5 @@ d) szerződéses utánpótlási,
 e) nyugdíjas, valamint
 
 f) pót
+
+utalványfüzet.

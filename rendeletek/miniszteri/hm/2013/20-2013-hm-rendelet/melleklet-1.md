@@ -1,10 +1,12 @@
-## 31. §[^57] E rendeletnek a ruházati ellátásról szóló 20/2013. (IX. 16.) HM rendelet módosításáról szóló 14/2020. (X. 14.) HM rendelettel megállapított rendelkezéseit a 2015. évi és azt követő ruházati illetményeket tartalmazó utalványfüzetek vonatkozásában kell alkalmazni.
+## 31. §[^60] E rendeletnek a ruházati ellátásról szóló 20/2013. (IX. 16.) HM rendelet módosításáról szóló 14/2020. (X. 14.) HM rendelettel megállapított rendelkezéseit a 2015. évi és azt követő ruházati illetményeket tartalmazó utalványfüzetek vonatkozásában kell alkalmazni.
 
-1. melléklet a 20/2013. (IX. 16.) HM rendelethez[^58]
+1. melléklet a 20/2013. (IX. 16.) HM rendelethez[^61]
 
 1. AZ ALAPFELSZERELÉSI RUHÁZATI ILLETMÉNYBE TARTOZÓ ELLÁTMÁNY ÖSSZETÉTELE ÉS MENNYISÉGE
 
 1.1. Köznapi, társasági és hallgatói díszruházat
+
+## 2X02416_0
 
 |  | A | B | C | D | E | F | G | H | I | J | K | L | M | N |
 
@@ -372,5 +374,5 @@
 
 | 8 | Sportzokni | pár | 2 | 2 | 2 | 2 | 2 | 2 | Kiadást követően az igényjogosult tulajdonába kerül. |
 
-[^57]: A 31. §-t a 14/2020. (X. 14.) HM rendelet 2. §-a iktatta be.
-[^58]: Az 1. melléklet a 7/2022. (IV. 14.) HM rendelet 23. §-ával megállapított szöveg.
+[^60]: A 31. §-t a 14/2020. (X. 14.) HM rendelet 2. §-a iktatta be.
+[^61]: Az 1. melléklet a 7/2022. (IV. 14.) HM rendelet 23. §-ával megállapított szöveg.

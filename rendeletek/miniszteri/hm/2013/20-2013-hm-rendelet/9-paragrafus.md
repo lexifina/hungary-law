@@ -16,6 +16,6 @@ g) a felmentési idő azon időtartamára, amelyre az igényjogosultat a szolgá
 
 (2) Az (1) bekezdésben meghatározott okok miatti távollét időtartamát egész hónapokban kell számítani, minden megkezdett hónap egész hónapnak számít.
 
-(3)[^30] Az (1) bekezdés szerinti időtartamokra arányosított ruházati illetmény összegével az utánpótlási ruházati illetményt csökkenteni kell.
+(3)[^31] Az (1) bekezdés szerinti időtartamokra arányosított ruházati illetmény összegével az utánpótlási ruházati illetményt csökkenteni kell.
 
-[^30]: A 9. § (3) bekezdését a 27/2021. (XII. 17.) HM rendelet 7. §-a iktatta be.
+[^31]: A 9. § (3) bekezdését a 27/2021. (XII. 17.) HM rendelet 7. §-a iktatta be.

@@ -2,7 +2,7 @@
 
 ## 3. Az egyenruházati ellátásra jogosultak köre, a ruházati illetmények és az ellátás rendszere
 
-## 3. §[^18] Az igényjogosultak egyenruházati ellátása
+## 3. §[^19] Az igényjogosultak egyenruházati ellátása
 
 a) próbaidős,
 
@@ -12,4 +12,6 @@ c) utánpótlási, valamint
 
 d) kiegészítő
 
-[^18]: A 3. § nyitó szövegrésze a 27/2021. (XII. 17.) HM rendelet 17. § f) pontja szerint módosított szöveg.
+ruházati illetmények terhére valósul meg.
+
+[^19]: A 3. § nyitó szövegrésze a 27/2021. (XII. 17.) HM rendelet 17. § f) pontja szerint módosított szöveg.

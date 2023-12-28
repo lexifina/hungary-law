@@ -1,6 +1,8 @@
-3. melléklet a 20/2013. (IX. 16.) HM rendelethez[^60]
+3. melléklet a 20/2013. (IX. 16.) HM rendelethez[^63]
 
 1. A TÖRZSEK ÉS KONTINGENSEK ÉS FELAJÁNLOTT ERŐK RUHÁZATI NORMÁINAK ÖSSZETÉTELE ÉS MENNYISÉGE
+
+## 1X10875_0
 
 |  | A | B | C | D | E | F |
 
@@ -166,4 +168,4 @@
 
 15: A felajánlott erők vonatkozásában a készenlét időszakában a szakanyagok központi raktárban, „pool készletben” kerülnek megalakításra. A szakanyagok kiadására tényleges feladat elrendelés esetén kerül sor.
 
-[^60]: A 3. melléklet a 27/2021. (XII. 17.) HM rendelet 16. § (3) bekezdésével megállapított szöveg.
+[^63]: A 3. melléklet a 27/2021. (XII. 17.) HM rendelet 16. § (3) bekezdésével megállapított szöveg.

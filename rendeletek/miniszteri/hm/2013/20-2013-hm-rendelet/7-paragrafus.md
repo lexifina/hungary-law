@@ -6,7 +6,7 @@ a) az ezredes dandártábornoki kinevezésekor,
 
 b) az őrmester és a törzsőrmester tisztté, a főtörzsőrmester zászlóssá vagy tisztté történő előléptetésekor,
 
-c)[^26] a honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) 57. § (1) bekezdése alapján a magasabb rendfokozatba
+c)[^27] a honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) 57. § (1) bekezdése alapján a magasabb rendfokozatba
 
 ca) kinevezett ezredes,
 
@@ -24,13 +24,13 @@ h) az MH nemzeti honvéd díszegységének díszelgő öltözetet viselő hivat�
 
 i) a repülőhajózó fegyvernemi azonosítóval meghatározott beosztásban szolgálatot teljesítő tiszt és altiszt, valamint
 
-j)[^27] a Magyarország határain kívüli nemzetközi válságreagáló és béketámogató műveletekben résztvevő hivatásos és szerződéses állomány, valamint ÖT katona.
+j)[^28] a Magyarország határain kívüli nemzetközi válságreagáló és béketámogató műveletekben résztvevő hivatásos és szerződéses állomány, valamint ÖT katona.
 
-k)[^28] a légiutas-kísérési feladatokban részt vevő hivatásos és szerződéses állomány és
+k)[^29] a légiutas-kísérési feladatokban részt vevő hivatásos és szerződéses állomány és
 
-l)[^29] a repülőszerelő fegyvernemi azonosítóval meghatározott beosztásban szolgálatot teljesítő hivatásos és szerződéses tiszt, altiszt, illetve legénységi állomány.
+l)[^30] a repülőszerelő fegyvernemi azonosítóval meghatározott beosztásban szolgálatot teljesítő hivatásos és szerződéses tiszt, altiszt, illetve legénységi állomány.
 
-[^26]: A 7. § (2) bekezdés c) pontja a 27/2021. (XII. 17.) HM rendelet 17. § k) pontja szerint módosított szöveg.
-[^27]: A 7. § (2) bekezdés j) pontja a 27/2021. (XII. 17.) HM rendelet 17. § j) pontja szerint módosított szöveg.
-[^28]: A 7. § (2) bekezdés k) pontját a 27/2021. (XII. 17.) HM rendelet 6. §-a iktatta be.
-[^29]: A 7. § (2) bekezdés l) pontját a 27/2021. (XII. 17.) HM rendelet 6. §-a iktatta be.
+[^27]: A 7. § (2) bekezdés c) pontja a 27/2021. (XII. 17.) HM rendelet 17. § k) pontja szerint módosított szöveg.
+[^28]: A 7. § (2) bekezdés j) pontja a 27/2021. (XII. 17.) HM rendelet 17. § j) pontja szerint módosított szöveg.
+[^29]: A 7. § (2) bekezdés k) pontját a 27/2021. (XII. 17.) HM rendelet 6. §-a iktatta be.
+[^30]: A 7. § (2) bekezdés l) pontját a 27/2021. (XII. 17.) HM rendelet 6. §-a iktatta be.

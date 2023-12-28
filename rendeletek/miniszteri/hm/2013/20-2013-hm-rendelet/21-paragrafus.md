@@ -1,6 +1,6 @@
 ## 8. Az egyenruházat tényleges biztosításának szabályai
 
-21. §[^47] (1) A természetbeni ellátásra jogosultat – a logisztikai utaltsági rendnek megfelelően – az ellátásért felelős ruházati szakterület a ruházati raktári készletéből látja el mérethelyes ruházattal.
+21. §[^48] (1) A természetbeni ellátásra jogosultat – a logisztikai utaltsági rendnek megfelelően – az ellátásért felelős ruházati szakterület a ruházati raktári készletéből látja el mérethelyes ruházattal.
 
 (2) A hivatásos és szerződéses tiszt, altiszt első ellátmányként a 15 M gyakorló ruházattal történő ellátását az ellátásért felelős ruházati szakterület hajtja végre.
 
@@ -22,6 +22,7 @@
 
 (11) A természetben ellátottól a jogviszonyának megszűnésével egyidejűleg a kiadott egyenruházatot azonnali hatállyal be kell vonni.
 
-(12) Közjogi méltóságok, politikai felsővezetők, közigazgatási államtitkárok, helyettes államtitkárok, illetve a természetbeni ellátásra jogosultak részére kiadott ruházati szakanyagok egyedi elbírálás alapján a Magyar Honvédség Parancsnoksága Logisztikai és Gazdálkodási Csoportfőnökség csoportfőnökének engedélyével saját tulajdonba adhatók.
+(12)[^49] Közjogi méltóságok, politikai felsővezetők, közigazgatási államtitkárok, helyettes államtitkárok, illetve a természetbeni ellátásra jogosultak részére kiadott ruházati szakanyagok egyedi elbírálás alapján a Honvéd Vezérkar főnöke által kijelölt vezető engedélyével saját tulajdonba adhatók.
 
-[^47]: A 21. § a 27/2021. (XII. 17.) HM rendelet 12. §-ával megállapított szöveg.
+[^48]: A 21. § a 27/2021. (XII. 17.) HM rendelet 12. §-ával megállapított szöveg.
+[^49]: A 21. § (12) bekezdése a 31/2023. (XII. 27.) HM rendelet 1. §-a szerint módosított szöveg.

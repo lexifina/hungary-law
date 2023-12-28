@@ -1,4 +1,4 @@
-4. melléklet a 20/2013. (IX. 16.) HM rendelethez[^61]
+4. melléklet a 20/2013. (IX. 16.) HM rendelethez[^64]
 
 AZ ÁGYFELSZERELÉS ÖSSZETÉTELE ÉS MENNYISÉGE
 
@@ -32,4 +32,4 @@ AZ ÁGYFELSZERELÉS ÖSSZETÉTELE ÉS MENNYISÉGE
 
 | 13 | Hálózsák | db |  |  | 1 |
 
-[^61]: A 4. melléklet a 27/2021. (XII. 17.) HM rendelet 16. § (4) bekezdésével megállapított szöveg.
+[^64]: A 4. melléklet a 27/2021. (XII. 17.) HM rendelet 16. § (4) bekezdésével megállapított szöveg.
