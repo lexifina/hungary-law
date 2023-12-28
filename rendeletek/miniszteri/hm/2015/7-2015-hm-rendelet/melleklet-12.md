@@ -14,7 +14,7 @@
 
 | 7. | Z6 – Század vezénylő zászlós | 40 140 |
 
-12. melléklet a 7/2015. (VI. 22.) HM rendelethez[^262]
+12. melléklet a 7/2015. (VI. 22.) HM rendelethez[^267]
 
 Eltérő illetménymegállapításra jogosító szolgálati beosztások
 
@@ -24,10 +24,10 @@ Eltérő illetménymegállapításra jogosító szolgálati beosztások
 
 3. Rendezvényszervezési, valamint sajtó, tájékoztatás, kommunikáció fegyvernemi, szakági alcsoportokba tartozó szolgálati beosztás
 
-4.[^263] A HM-ben rendszeresített szolgálati beosztás
+4.[^268] A HM-ben rendszeresített szolgálati beosztás
 
-5.[^264] Az MH 30. Kinizsi Pál Páncélozott Gyalogdandár 1. gránátos zászlóaljánál rendszeresített szolgálati beosztás
+5.[^269] Az MH 30. Kinizsi Pál Páncélozott Gyalogdandár 1. gránátos zászlóaljánál rendszeresített szolgálati beosztás
 
-[^262]: A 12. mellékletet a 13/2021. (VII. 15.) HM rendelet 29. §-a iktatta be.
-[^263]: A 12. melléklet 4. pontját a 4/2023. (III. 8.) HM rendelet 2. §-a iktatta be.
-[^264]: A 12. melléklet 5. pontját a 16/2023. (VIII. 30.) HM rendelet 3. §-a iktatta be.
+[^267]: A 12. mellékletet a 13/2021. (VII. 15.) HM rendelet 29. §-a iktatta be.
+[^268]: A 12. melléklet 4. pontját a 4/2023. (III. 8.) HM rendelet 2. §-a iktatta be.
+[^269]: A 12. melléklet 5. pontját a 16/2023. (VIII. 30.) HM rendelet 3. §-a iktatta be.

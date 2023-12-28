@@ -1,5 +1,5 @@
 ## 28. A megbízás miatti kiegészítő illetmény
 
-47. §[^74]
+47. §[^77]
 
-[^74]: A 47. §-t a 20/2018. (XII. 28.) HM rendelet 105. § b) pontja hatályon kívül helyezte.
+[^77]: A 47. §-t a 20/2018. (XII. 28.) HM rendelet 105. § b) pontja hatályon kívül helyezte.

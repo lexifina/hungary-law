@@ -44,3 +44,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-7-20-15
 | 2023-07-05 | 2015-7-20-15.36 | 14/2023. (VII. 4.) HM rendelet |
 | 2023-08-31 | 2015-7-20-15.37 | 16/2023. (VIII. 30.) HM rendelet |
 | 2023-09-13 | 2015-7-20-15.38 | 20/2023. (IX. 12.) HM rendelet |
+| 2023-12-28 | 2015-7-20-15.39 | 20/2018. (XII. 28.) HM rendelet |

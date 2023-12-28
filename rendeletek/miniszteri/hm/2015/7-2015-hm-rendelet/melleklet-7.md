@@ -38,8 +38,8 @@
 
 | 19 | dandártábornok | 20.000 | - | 41.435 | - |
 
-7. melléklet a 7/2015. (VI. 22.) HM rendelethez[^256]
+7. melléklet a 7/2015. (VI. 22.) HM rendelethez[^261]
 
 Az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 256/2013. (VII. 5.) Korm. rendelet 1. melléklete szerinti egészségügyi munkakörök és az egészségügyi katonai beosztások megnevezésének megfeleltetése
 
-[^256]: A 7. mellékletet a 25/2016. (XII. 22.) HM rendelet 90. §-a iktatta be, szövege a 4/2022. (II. 17.) HM rendelet 21. §-ával megállapított szöveg.
+[^261]: A 7. mellékletet a 25/2016. (XII. 22.) HM rendelet 90. §-a iktatta be, szövege a 4/2022. (II. 17.) HM rendelet 21. §-ával megállapított szöveg.
