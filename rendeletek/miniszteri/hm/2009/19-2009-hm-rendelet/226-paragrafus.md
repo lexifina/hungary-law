@@ -14,7 +14,7 @@ e) szakmailag közreműködik a lakás, személygépkocsi-tároló és szálló 
 
 f) elbírálja az irányítása alá tartozó szervek által hozott döntések ellen benyújtott kérelmeket, panaszokat, közérdekű bejelentéseket, előkészíti az ezekkel összefüggő felsőbb szintű vezetői döntéseket,
 
-g)[^357] az MH parancsnokának írásbeli közlése alapján meghatározza a központi feladat végrehajtásához szükséges lakásszámot, azt zárolja, illetőleg a zárolás alól feloldja,
+g)[^357] a Honvéd Vezérkar főnökének írásbeli közlése alapján meghatározza a központi feladat végrehajtásához szükséges lakásszámot, azt zárolja, illetőleg a zárolás alól feloldja,
 
 h)[^358] javaslatot tesz a közigazgatási államtitkárnak a HM rendelkezésű lakásnak kívülálló személy vagy szervezet részére történő bérbeadására,
 
@@ -43,7 +43,7 @@ s)[^362] intézkedik a lakás, személygépkocsi tároló, szálló férőhely b
 t)[^363] dönt a honvédelmi szervezet állományába nem tartozó, a 169. § (5) bekezdésben meghatározott személy részére történő szálló férőhely juttatás ügyében.
 
 [^356]: A 226. § d) pontja a 4/2012. (IV. 5.) HM rendelet 16. §-ával megállapított szöveg.
-[^357]: A 226. § g) pontja a 22/2018. (XII. 28.) HM rendelet 4. § t) pontja szerint módosított szöveg.
+[^357]: A 226. § g) pontja a 22/2018. (XII. 28.) HM rendelet 4. § t) pontja, a 24/2023. (XII. 27.) HM rendelet 1. § (2) bekezdése szerint módosított szöveg.
 [^358]: A 226. § h) pontja a 9/2017. (VIII. 31.) HM rendelet 8. § n) pontja szerint módosított szöveg.
 [^359]: A 226. § i) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (8) bekezdés a) pontja szerint módosított szöveg.
 [^360]: A 226. § j) pontja a 10/2014. (VII. 25.) HM rendelet 54. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 17–18. §-át.

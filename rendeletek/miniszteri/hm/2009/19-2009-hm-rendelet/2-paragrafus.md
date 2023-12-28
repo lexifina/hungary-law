@@ -2,7 +2,7 @@
 
 2. § (1) A rendelet alkalmazási köre kiterjed
 
-a)[^2] a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 80. § 13. pontja szerinti honvédelmi szervezet (a továbbiakban: honvédelmi szervezet) állományában lévő hivatásos és szerződéses katonára, a honvéd tisztjelölt kivételével,
+a)[^2] a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 3. § 14. pontja szerinti honvédelmi szervezet (a továbbiakban: honvédelmi szervezet) állományában lévő hivatásos és szerződéses katonára, a honvéd tisztjelölt kivételével,
 
 b)[^3] a honvédelmi szervezet
 
@@ -28,7 +28,7 @@ a)[^8] a hivatásos állománynak arra a korábbi tagjára, aki a honvédek jog�
 
 b)[^9] a hivatásos, a hivatásos állományból szolgálati nyugállományba helyezett katonának, valamint az állomány hősi halott tagjának özvegyére, az 5. § (1) bekezdés c) pontja szerinti feltétekkel rendelkező túlélő élettársára, továbbá a hősi halott saját háztartásában eltartott gyermekére.
 
-[^2]: A 2. § (1) bekezdés a) pontja a 7/2022. (IV. 14.) HM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § (1) bekezdés a) pontja a 7/2022. (IV. 14.) HM rendelet 1. §-ával megállapított, a 24/2023. (XII. 27.) HM rendelet 1. § (1) bekezdése szerint módosított szöveg.
 [^3]: A 2. § (1) bekezdés b) pontja a 9/2021. (III. 2.) HM rendelet 1. §-ával megállapított szöveg.
 [^4]: A 2. § (1) bekezdés c) pontja a 22/2018. (XII. 28.) HM rendelet 4. § c) pontja szerint módosított szöveg.
 [^5]: A 2. § (1) bekezdés d) pontja a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja szerint módosított szöveg.
