@@ -1,0 +1,7 @@
+2. § (1) A körözési nyilvántartási rendszer egyes nyilvántartásai részére történő adatközlésről és a körözési eljárás lefolytatásának részletes szabályairól, valamint egyes miniszteri rendeletek módosításáról szóló 63/2013. (XI. 28.) BM rendelet 14. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Ha cselekvőképtelen vagy cselekvőképességében részlegesen korlátozott, illetve egészségi állapota, kora vagy más ok miatt magáról gondoskodni képtelen, törvényes képviselőjét vagy gondnokát is tájékoztatni kell arról, hogy a felkutatott személy eltűnt személyként körözés hatálya alatt áll.”
+
+(2) A körözési nyilvántartási rendszer egyes nyilvántartásai részére történő adatközlésről és a körözési eljárás lefolytatásának részletes szabályairól, valamint egyes miniszteri rendeletek módosításáról szóló 63/2013. (XI. 28.) BM rendelet 14. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) Az (1) bekezdés szerinti esetben az értesített személyt – ha a bejelentést nem ő tette – nyilatkoztatni kell arról, hogy a felkutatott személy tartózkodási helye közölhető-e a bejelentővel. Ha a bejelentő a kiskorú elhelyezésére vonatkozó szülői felügyeleti jogában nem korlátozott – az (1) bekezdés alapján tájékoztatott személytől különböző – törvényes képviselő, úgy a megállapított tartózkodási hely közlése részére nem tagadható meg, kivéve, ha a megállapított tartózkodási hely közlésének a megtagadását – a hatáskörrel rendelkező hatóság adatai alapján – bűnügyi vagy gyermekvédelmi érdek indokolja.”
