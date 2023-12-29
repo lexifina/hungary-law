@@ -22,7 +22,7 @@
 
 ## 1.5. Ha több célra kívánja forgalmazni a biocid terméket, valamennyi terméktípus felsorolandó
 
-## 1.6. Engedély száma (ha a termék engedélyköteles)
+## 1.6.[^84]
 
 ## 1.7. Hatóanyag vagy hatóanyagok megnevezése, gyártójának neve, székhelye és telephelye címe.
 
@@ -32,7 +32,7 @@
 
 ## 1.9. Pontos és részletes összetétel [megnevezés (szabadnév, IUPAC/CA név), CAS-/EU-szám, mennyiség]
 
-## 1.10. A bejelentéshez az igazgatási szolgáltatási díj befizetésének igazolását, valamint a Kbtv. szerint veszélyesnek minősülő biocid termékek esetében az 1907/2006/EK európai parlamenti és tanácsi rendelet szerint elkészített biztonsági adatlapot csatolni kell
+## 1.10.[^85] Veszélyesnek minősülő biocid termékek esetében az 1907/2006/EK európai parlamenti és tanácsi rendelet szerint elkészített biztonsági adatlap
 
 ## 1.11. Dátum, név
 
@@ -86,7 +86,7 @@
 
 ## 4.6. Dátum, aláírás
 
-2. melléklet a 316/2013. (VIII. 28.) Korm. rendelethez[^77]
+2. melléklet a 316/2013. (VIII. 28.) Korm. rendelethez[^86]
 
 1. Az emberek és állatok általi fogyasztásra szánt ivóvíz, valamint a használati melegvíz, az uszoda és egyéb fürdőzésre használt vizek fertőtlenítésére használt szerek, továbbá az algásodásgátló biocid termékek kérelméhez szükséges adatok és dokumentumok
 
@@ -119,6 +119,10 @@
 1.14. Más (hazai vagy külföldi) engedély, illetve vizsgálati eredmény, ha rendelkezésre áll
 
 1.15. A címketerv, használati útmutató
+
+1.16.[^87] Az 528/2012/EU európai parlamenti és tanácsi rendelet 22. cikk (2) bekezdése szerinti biocid termék jellemzőinek összefoglalójának tervezete
+
+1.17.[^88] Annak hitelt érdemlő igazolása (pl. beszállítói nyilatkozat, számla vagy szerződés), hogy a termékben található hatóanyag(ok) az 528/2012/EU európai parlamenti és tanácsi rendelet 95. cikk (1) bekezdése szerinti listán szereplő cégtől származó hatóanyagok. Szállítói lánc esetén a tagok közötti kapcsolatok igazolása, oly módon, hogy a termékben szereplő hatóanyag(ok) a kérelmezőtől egyértelműen visszakövethető(k) legyen(ek) a fentiek szerint megadott céghez.
 
 2. Irtószerek kérelméhez szükséges adatok és dokumentumok
 
@@ -158,6 +162,10 @@
 
 2.18. A gyártó cég nyilatkozata a kérelmező magyarországi forgalmazási jogáról és névhasználatáról
 
+2.19.[^89] Az 528/2012/EU európai parlamenti és tanácsi rendelet 22. cikk (2) bekezdése szerinti biocid termék jellemzőinek összefoglalójának tervezete
+
+2.20.[^90] Annak hitelt érdemlő igazolása (pl. beszállítói nyilatkozat, számla vagy szerződés), hogy a termékben található hatóanyag(ok) az 528/2012/EU európai parlamenti és tanácsi rendelet 95. cikk (1) bekezdése szerinti listán szereplő cégtől származó hatóanyagok. Szállítói lánc esetén a tagok közötti kapcsolatok igazolása, oly módon, hogy a termékben szereplő hatóanyag(ok) a kérelmezőtől egyértelműen visszakövethető(k) legyen(ek) a fentiek szerint megadott céghez.
+
 3. A 24/D. § (4) bekezdésében felsorolt fertőtlenítőszerek kérelmének adattartalma és a csatolandó dokumentumok
 
 3.1. A biocid termék gyártója (név, cím, telefon, e-mail cím)
@@ -194,6 +202,10 @@
 
 3.17. Állattartó telepek fertőtlenítésére szolgáló termék esetén annak az időtartamnak a meghatározása, amelynek letelte után az állatok beengedhetők a fertőtlenített helyiségekbe
 
+3.18.[^91] Az 528/2012/EU európai parlamenti és tanácsi rendelet 22. cikk (2) bekezdése szerinti biocid termék jellemzőinek összefoglalójának tervezete
+
+3.19.[^92] Annak hitelt érdemlő igazolása (pl. beszállítói nyilatkozat, számla vagy szerződés), hogy a termékben található hatóanyag(ok) az 528/2012/EU európai parlamenti és tanácsi rendelet 95. cikk (1) bekezdése szerinti listán szereplő cégtől származó hatóanyagok. Szállítói lánc esetén a tagok közötti kapcsolatok igazolása, oly módon, hogy a termékben szereplő hatóanyag(ok) a kérelmezőtől egyértelműen visszakövethető(k) legyen(ek) a fentiek szerint megadott céghez.
+
 4. A 24/D. § (5) bekezdése szerinti, kizárólag lakossági felhasználásra kerülő fertőtlenítő szerek kérelmének adattartalma és a csatolandó dokumentumok
 
 4.1. A biocid termék gyártója (név, cím, telefon, e-mail cím)
@@ -219,6 +231,10 @@
 4.11. Termékminta
 
 4.12. Címke vagy címketerv / Használati utasítás
+
+4.13.[^93] Az 528/2012/EU európai parlamenti és tanácsi rendelet 22. cikk (2) bekezdése szerinti biocid termék jellemzőinek összefoglalójának tervezete
+
+4.14.[^94] Annak hitelt érdemlő igazolása (pl. beszállítói nyilatkozat, számla vagy szerződés), hogy a termékben található hatóanyag(ok) az 528/2012/EU európai parlamenti és tanácsi rendelet 95. cikk (1) bekezdése szerinti listán szereplő cégtől származó hatóanyagok. Szállítói lánc esetén a tagok közötti kapcsolatok igazolása, oly módon, hogy a termékben szereplő hatóanyag(ok) a kérelmezőtől egyértelműen visszakövethető(k) legyen(ek) a fentiek szerint megadott céghez.
 
 5. A 24/E. §-ban felsorolt fertőtlenítőszerek kérelméhez szükséges adatok és dokumentumok
 
@@ -246,4 +262,20 @@
 
 5.12. Toxikológiai, ökotoxikológiai vizsgálati dokumentáció
 
-[^77]: A 2. mellékletet az 507/2017. (XII. 29.) Korm. rendelet 46. § (2) bekezdése iktatta be.
+5.13.[^95] Az 528/2012/EU európai parlamenti és tanácsi rendelet 22. cikk (2) bekezdése szerinti biocid termék jellemzőinek összefoglalójának tervezete
+
+5.14.[^96] Annak hitelt érdemlő igazolása (pl. beszállítói nyilatkozat, számla vagy szerződés), hogy a termékben található hatóanyag(ok) az 528/2012/EU európai parlamenti és tanácsi rendelet 95. cikk (1) bekezdése szerinti listán szereplő cégtől származó hatóanyagok. Szállítói lánc esetén a tagok közötti kapcsolatok igazolása, oly módon, hogy a termékben szereplő hatóanyag(ok) a kérelmezőtől egyértelműen visszakövethető(k) legyen(ek) a fentiek szerint megadott céghez.
+
+[^84]: Az 1. melléklet 1. pont 1.6. alpontját a 659/2023. (XII. 28.) Korm. rendelet 41. § (1) bekezdése hatályon kívül helyezte.
+[^85]: Az 1. melléklet 1. pont 1.10. alpontja a 659/2023. (XII. 28.) Korm. rendelet 41. § (1) bekezdésével megállapított szöveg.
+[^86]: A 2. mellékletet az 507/2017. (XII. 29.) Korm. rendelet 46. § (2) bekezdése iktatta be.
+[^87]: A 2. melléklet 1. pont 1.16. alpontját a 659/2023. (XII. 28.) Korm. rendelet 41. § (2) bekezdése iktatta be.
+[^88]: A 2. melléklet 1. pont 1.17. alpontját a 659/2023. (XII. 28.) Korm. rendelet 41. § (2) bekezdése iktatta be.
+[^89]: A 2. melléklet 2. pont 2.19. alpontját a 659/2023. (XII. 28.) Korm. rendelet 41. § (2) bekezdése iktatta be.
+[^90]: A 2. melléklet 2. pont 2.20. alpontját a 659/2023. (XII. 28.) Korm. rendelet 41. § (2) bekezdése iktatta be.
+[^91]: A 2. melléklet 3. pont 3.18. alpontját a 659/2023. (XII. 28.) Korm. rendelet 41. § (2) bekezdése iktatta be.
+[^92]: A 2. melléklet 3. pont 3.19. alpontját a 659/2023. (XII. 28.) Korm. rendelet 41. § (2) bekezdése iktatta be.
+[^93]: A 2. melléklet 4. pont 4.13. alpontját a 659/2023. (XII. 28.) Korm. rendelet 41. § (2) bekezdése iktatta be.
+[^94]: A 2. melléklet 4. pont 4.14. alpontját a 659/2023. (XII. 28.) Korm. rendelet 41. § (2) bekezdése iktatta be.
+[^95]: A 2. melléklet 5. pont 5.13. alpontját a 659/2023. (XII. 28.) Korm. rendelet 41. § (2) bekezdése iktatta be.
+[^96]: A 2. melléklet 5. pont 5.14. alpontját a 659/2023. (XII. 28.) Korm. rendelet 41. § (2) bekezdése iktatta be.

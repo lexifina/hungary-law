@@ -1,0 +1,3 @@
+24/A. §[^62] A 24/F. § (1) bekezdésében foglaltak sérelme nélkül, az 528/2012/EU európai parlamenti és tanácsi rendelet V. Melléklete szerinti 1., 2., 3., 4. és 5. terméktípusba tartozó biocid termékek, valamint a 14., 18. és 19. terméktípusba tartozó azon biocid termékek, melyek az egészségügyi kártevőirtószerekkel, valamint gázosítószerekkel végzett tevékenység szabályairól szóló miniszteri rendelet szerint irtószernek minősülnek, az országos tisztifőorvos által kiadott engedély alapján hozhatók forgalomba és használhatók fel.
+
+[^62]: A 24/A. §-t az 507/2017. (XII. 29.) Korm. rendelet 44. §-a iktatta be, szövege a 659/2023. (XII. 28.) Korm. rendelet 37. §-ával megállapított szöveg.
