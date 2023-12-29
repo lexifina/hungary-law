@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-1002-30
 | 2021-12-20 | 2021-1002-30-22.4 | 1927/2021. (XII. 20.) Korm. határozat |
 | 2022-11-07 | 2021-1002-30-22.5 | 1534/2022. (XI. 7.) Korm. határozat |
 | 2023-04-28 | 2021-1002-30-22.6 | 1168/2023. (IV. 28.) Korm. határozat |
+| 2023-12-29 | 2021-1002-30-22.7 | 1621/2023. (XII. 29.) Korm. határozat |
