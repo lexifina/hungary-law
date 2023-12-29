@@ -1,0 +1,13 @@
+89. § A 74. § tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 39. cikk (5) bekezdése szerinti előzetes bejelentése megtörtént.
+
+|
+
+Novák Katalin s. k.,
+
+köztársasági elnök
+
+|
+
+Dr. Latorcai János s. k.,
+
+az Országgyűlés alelnöke

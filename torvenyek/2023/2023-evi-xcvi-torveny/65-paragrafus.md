@@ -1,0 +1,1 @@
+65. § Hatályát veszti az egyes közjegyzői nemperes eljárásokról szóló 2008. évi XLV. törvény 27/B. § (1) bekezdésében a „követelést terhelő zálogjognak a hitelbiztosítéki nyilvántartásba történő bejegyzésével a” szövegrész.
