@@ -114,20 +114,24 @@
 
 | 55. | Szeged, Dóm tér és a Szegedi Tudományegyetem Auditórium Maximum épülete | Szeged, Dóm tér és Egyetem u. 2. |
 
-| 56. | Szécsény, Forgách-kastély és a ferences kolostor | Szécsény, Ady Endre út 7. és Haynald u. 9. |
+| 56. | Szirák, Teleki-Degenfeld kastély | Szirák, Petőfi utca 26. |
 
-| 57. | Tatabánya, Turul emlékmű | Tatabánya, Kő-hegy |
+| 57. | Szécsény, Forgách-kastély és a ferences kolostor | Szécsény, Ady Endre út 7. és Haynald u. 9. |
 
-| 58. | Tápióbicskei csatatér | Nagykáta 0133/2 helyrajzi számú ingatlan |
+| 58. | Szolnoki csatatér | 789/10 helyrajzi számú ingatlan |
 
-| 59. | Tihany, bencés apátság | Tihany, I. András tér 1. |
+| 59. | Tatabánya, Turul emlékmű | Tatabánya, Kő-hegy |
 
-| 60. | Vác, Hétkápolna, honvédemlékmű | Vác, Derecske dűlő 2., a Szent László út – Gödöllői út kereszteződése |
+| 60. | Tápióbicskei csatatér | Nagykáta 0133/2 helyrajzi számú ingatlan |
 
-| 61. | Veszprém, Vár utca | Veszprém, Vár u. |
+| 61. | Tihany, bencés apátság | Tihany, I. András tér 1. |
 
-| 62. | Visegrád, vár | Visegrád, Várhegy és Fő u. 23–43. |
+| 62. | Vác, Hétkápolna, honvédemlékmű | Vác, Derecske dűlő 2., a Szent László út–Gödöllői út kereszteződése |
 
-| 63. | Vizsoly, református templom | Vizsoly, Szent János u. 80. |
+| 63. | Veszprém, Vár utca | Veszprém, Vár u. |
 
-[^1]: Az 1. melléklet a 248/2023. (VI. 22.) Korm. rendelet 1. §-ával megállapított szöveg.
+| 64. | Visegrád, vár | Visegrád, Várhegy és Fő u. 23–43. |
+
+| 65. | Vizsoly, református templom | Vizsoly, Szent János u. 80. |
+
+[^1]: Az 1. melléklet a 660/2023. (XII. 28.) Korm. rendelet 5. §-ával megállapított szöveg.

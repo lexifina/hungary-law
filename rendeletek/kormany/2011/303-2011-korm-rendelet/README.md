@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-303-20-
 | 2022-07-28 | 2011-303-20-22.10 | 264/2022. (VII. 27.) Korm. rendelet |
 | 2023-03-11 | 2011-303-20-22.11 | 73/2023. (III. 10.) Korm. rendelet |
 | 2023-06-23 | 2011-303-20-22.12 | 248/2023. (VI. 22.) Korm. rendelet |
+| 2023-12-29 | 2011-303-20-22.13 | 660/2023. (XII. 28.) Korm. rendelet |
