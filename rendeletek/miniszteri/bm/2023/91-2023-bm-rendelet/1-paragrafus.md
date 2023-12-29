@@ -1,0 +1,3 @@
+1. § Az Országgyűlési Őrség hivatásos állományú tagjainak szolgálatképes állapota megállapítása érdekében a befolyásoltság kiszűrése céljából elvégezhető vizsgálatok köréről és a vizsgálat végrehajtásának szabályairól szóló 25/2015. (VI. 15.) BM rendelet 5. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A minta levételét az Országgyűlési Őrségnél foglalkoztatott hivatásos állomány alkalmasságvizsgálatáról, valamint egészségügyi és pszichológiai ellátásáról szóló 43/2022. (XII. 19.) BM rendelet 2. § 22. pontja szerinti rendvédelmi alapellátó orvos (a továbbiakban: alapellátó orvos) végzi. Ha az alapellátó orvos igénybevétele akadályba ütközik, mintavétel érdekében a területileg illetékes egészségügyi szolgáltató ügyeletes orvosát kell igénybe venni.”
