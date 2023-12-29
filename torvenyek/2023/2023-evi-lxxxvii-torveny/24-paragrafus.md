@@ -1,5 +1,3 @@
 ## 6. A postai szolgáltatásokról szóló 2012. évi CLIX. törvény módosítása
 
-24. § A postai szolgáltatásokról szóló 2012. évi CLIX. törvény (a továbbiakban: Postatv.) 15. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az egyetemes postai szolgáltató az egyetemes postai szolgáltatás nyújtását köteles úgy megszervezni és működtetni, hogy az átfutási idő az (1) és (2) bekezdésben meghatározottak szerint teljesüljön, feltételezve, hogy belföldi forgalomban a küldemény felvétele, az Európai Unió tagállamai közötti forgalomban a küldemény külföldi postai szolgáltatótól való feladást követő munkanapon történő átvétele az aktuális felvételi vagy átvételi ponton a meghatározott tárgynapi utolsó gyűjtési időpont előtt megtörténik. Ha a belföldi forgalomban a küldemény felvétele, az Európai Unió tagállamai közötti forgalomban a küldemény külföldi postai szolgáltatótól való átvétele az utolsó gyűjtési időpontot követően valósul meg, a következő gyűjtési napot kell az átfutási idő meghatározásánál számításba venni.”
+### 24. §
