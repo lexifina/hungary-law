@@ -1,1 +1,3 @@
-1. § A honvédelmi egészségkárosodási ellátással kapcsolatos eljárásrendről szóló 24/2016. (XII. 22.) HM rendelet 2. § (2) bekezdésében a „Magyar Honvédség parancsnokán” szövegrész helyébe a „Honvéd Vezérkar főnökén” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
