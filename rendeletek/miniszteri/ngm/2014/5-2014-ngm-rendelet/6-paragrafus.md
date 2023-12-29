@@ -1,5 +1,3 @@
-## 5. §
-
 ## 6. Meghagyással kapcsolatos ágazati feladatok
 
 6. § (1) A meghagyásba bevont gazdasági szerveket az 1. melléklet tartalmazza.
@@ -14,7 +12,7 @@ c) a meghagyásba bevont gazdasági szerv székhelye szerint illetékes megyei, 
 
 d) a meghagyásba bevont gazdasági szerv székhelye szerint illetékes polgármester
 
-## részére.
+részére.
 
 (3) A minisztérium ágazati irányítása alá tartozó tevékenységet végző gazdasági társaság is kezdeményezheti a meghagyásba történő bevonását. A gazdasági társaság kérelmét a minisztérium belgazdasági-szabályozási ügyekért felelős állami vezetője részére kell eljuttatnia.
 

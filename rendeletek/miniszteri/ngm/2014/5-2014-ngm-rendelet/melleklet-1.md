@@ -1,5 +1,3 @@
-## 10. §[^2]
-
 1. melléklet az 5/2014. (II. 7.) NGM rendelethez[^3]
 
 A nemzetgazdasági miniszter által meghagyásba bevont gazdasági szervek
@@ -50,11 +48,11 @@ A nemzetgazdasági miniszter által meghagyásba bevont gazdasági szervek
 
 | 21. | UNION PLUS Kft. | 1201 Budapest, Köztemető u. 29. |
 
-| 22. | ÁBRÁND-TEXTIL Termelő és Kereskedelmi Kft. | 3980 Sátoraljaújhely, Kazinczy u. 35. |
+| 22. |  |  |
 
-| 23. | Kalocsai Konfekcióipari Termelő és Kereskedelmi Kft. | 6300 Kalocsa, Szent István Király út 26. |
+| 23. |  |  |
 
-| 24. | Ipoly Cipőgyár Termelő és Szolgáltató Kft. | 2660 Balassagyarmat, Madách u. 2. |
+| 24. |  |  |
 
 | 25. | HM Zrínyi Térképészeti és Kommunikációs Szolgáltató Nkft. | 1087 Budapest, Kerepesi út 29/B. |
 
@@ -66,5 +64,4 @@ A nemzetgazdasági miniszter által meghagyásba bevont gazdasági szervek
 
 | 29. | Érv Kft. | 2092 Budakeszi, Mezei M. u. 3/A. |
 
-[^2]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: Az 1. melléklet a 10/2020. (X. 21.) PM rendelet 10. §-a szerint módosított szöveg.
+[^3]: Az 1. melléklet a 10/2020. (X. 21.) PM rendelet 10. §-a, a 89/2023. (XII. 28.) BM rendelet 1. §-a szerint módosított szöveg.

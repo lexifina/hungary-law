@@ -5,3 +5,5 @@
 a) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve és
 
 b) a miniszter honvédelmi feladatai koordinálására kijelölt hivatali egysége
+
+részére.
