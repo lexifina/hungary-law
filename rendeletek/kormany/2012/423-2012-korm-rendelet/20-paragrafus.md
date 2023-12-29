@@ -1,4 +1,4 @@
-20. §[^150] Ha a jelentkező a honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) 214. § (1a) bekezdése szerinti önkéntes tartalékos katonaként
+20. §[^154] Ha a jelentkező a honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) 214. § (1a) bekezdése szerinti önkéntes tartalékos katonaként
 
 a) szakkiképzés nélkül legalább hat hónapos szolgálatot teljesített, 16 többletpontra,
 
@@ -8,4 +8,4 @@ c) a b) pontot folytatólagosan követő hat hónapos szolgálati ideje alatt a 
 
 jogosult.
 
-[^150]: A 20. § a 339/2022. (IX. 7.) Korm. rendelet - a Magyar Közlöny 2022. évi 146. számában megjelent helyesbítésnek megfelelő - 14. §-ával megállapított szöveg.
+[^154]: A 20. § a 339/2022. (IX. 7.) Korm. rendelet - a Magyar Közlöny 2022. évi 146. számában megjelent helyesbítésnek megfelelő - 14. §-ával megállapított szöveg.

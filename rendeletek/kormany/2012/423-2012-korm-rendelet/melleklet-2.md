@@ -2,7 +2,7 @@
 
 A felvételi eljárás során figyelembe vehető érettségi vizsgatárgyak
 
-1.[^241] a kötelező érettségi vizsgatárgyak
+1.[^247] a kötelező érettségi vizsgatárgyak
 
 a) magyar nyelv és irodalom
 
@@ -14,7 +14,7 @@ d) magyar nyelven, illetve a nemzetiségi és két tanítási nyelvű iskolákba
 
 e) magyar nyelven, illetve a nemzetiségi és két tanítási nyelvű iskolákban a tanítás nyelvén letett matematika
 
-f)[^242] az élő idegen nyelv vizsgatárgy esetében az angol, német, francia, olasz, orosz, spanyol, portugál, arab, héber, kínai, holland, japán és finn nyelvekből, valamint a nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény 22. § (1) bekezdése szerinti nemzetiségek által használt nyelvként elismert nyelvből, továbbá a latin nyelvből tett vizsga, amennyiben az adott idegen nyelvből az érettségi vizsga szabályzatának kiadásáról szóló 100/1997. (VI. 13.) Korm. rendelet 12. § (1) bekezdése alapján érettségi vizsga tehető;
+f)[^248] az élő idegen nyelv vizsgatárgy esetében az angol, német, francia, olasz, orosz, spanyol, portugál, arab, héber, kínai, holland, japán és finn nyelvekből, valamint a nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény 22. § (1) bekezdése szerinti nemzetiségek által használt nyelvként elismert nyelvből, továbbá a latin nyelvből tett vizsga, amennyiben az adott idegen nyelvből az érettségi vizsga szabályzatának kiadásáról szóló 100/1997. (VI. 13.) Korm. rendelet 12. § (1) bekezdése alapján érettségi vizsga tehető;
 
 2. a választható közismereti vizsgatárgyak közül a magyar nyelven, a nemzetiségi és két tanítási nyelvű iskolákban a tanítás nyelvén letett
 
@@ -40,29 +40,29 @@ j) katonai alapismeretek
 
 k) gazdasági ismeretek
 
-l)[^243]
+l)[^249]
 
-m)[^244] dráma
+m)[^250] dráma
 
-n)[^245] ének-zene
+n)[^251] ének-zene
 
-o)[^246] vizuális kultúra;
+o)[^252] vizuális kultúra;
 
-p)[^247] mozgóképkultúra és médiaismeret,
+p)[^253] mozgóképkultúra és médiaismeret,
 
-q)[^248] filozófia;
+q)[^254] filozófia;
 
-r)[^249] honvédelmi alapismeretek;
+r)[^255] honvédelmi alapismeretek;
 
-s)[^250] digitális kultúra;
+s)[^256] digitális kultúra;
 
-t)[^251] állampolgári ismeretek;
+t)[^257] állampolgári ismeretek;
 
-u)[^252] közigazgatási ismertek;
+u)[^258] közigazgatási ismertek;
 
-v)[^253] fenntarthatóság.
+v)[^259] fenntarthatóság.
 
-3.[^254] a választható szakmai előkészítő vizsgatárgyak közül a magyar nyelven, a nemzetiségi és két tanítási nyelvű iskolákban a tanítás nyelvén letett
+3.[^260] a választható szakmai előkészítő vizsgatárgyak közül a magyar nyelven, a nemzetiségi és két tanítási nyelvű iskolákban a tanítás nyelvén letett
 
 a) egészségügyi alapismeretek,
 
@@ -90,23 +90,23 @@ l) vendéglátás-idegenforgalom alapismeretek,
 
 m) faipari alapismeretek,
 
-n)[^255] ágazati, ágazaton kívüli vagy ágazaton belüli specializáció szakmai érettségi vizsgatárgy;
+n)[^261] ágazati, ágazaton kívüli vagy ágazaton belüli specializáció szakmai érettségi vizsgatárgy;
 
-4.[^256]
+4.[^262]
 
-[^241]: A 2. melléklet 1. pontja a 746/2021. (XII. 21.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
-[^242]: A 2. melléklet 1. pont f) alpontját a 746/2021. (XII. 21.) Korm. rendelet 11. § (1) bekezdése iktatta be, szövege a 2/2022. (I. 7.) Korm. rendelet 6. §-a szerint módosított szöveg.
-[^243]: A 2. melléklet 2. pont l) alpontját a 746/2021. (XII. 21.) Korm. rendelet 13. § b) pontja hatályon kívül helyezte.
-[^244]: A 2. melléklet 2. pont m) alpontját a 407/2017. (XII. 15.) Korm. rendelet 28. § (1) bekezdése iktatta be, szövege a 661/2020. (XII. 24.) Korm. rendelet 20. § (2) bekezdésével megállapított szöveg.
-[^245]: A 2. melléklet 2. pont n) alpontját a 407/2017. (XII. 15.) Korm. rendelet 28. § (1) bekezdése iktatta be.
-[^246]: A 2. melléklet 2. pont o) alpontját a 407/2017. (XII. 15.) Korm. rendelet 28. § (1) bekezdése iktatta be.
-[^247]: A 2. melléklet 2. pont p) alpontját a 661/2020. (XII. 24.) Korm. rendelet 20. § (2) bekezdése iktatta be.
-[^248]: A 2. melléklet 2. pont q) alpontját a 661/2020. (XII. 24.) Korm. rendelet 20. § (2) bekezdése iktatta be.
-[^249]: A 2. melléklet 2. pont r) alpontját a 746/2021. (XII. 21.) Korm. rendelet 11. § (1) bekezdése iktatta be.
-[^250]: A 2. melléklet 2. pont s) alpontját a 746/2021. (XII. 21.) Korm. rendelet 11. § (1) bekezdése iktatta be.
-[^251]: A 2. melléklet 2. pont t) alpontját a 746/2021. (XII. 21.) Korm. rendelet 11. § (1) bekezdése iktatta be.
-[^252]: A 2. melléklet 2. pont u) alpontját a 746/2021. (XII. 21.) Korm. rendelet 11. § (1) bekezdése iktatta be.
-[^253]: A 2. melléklet 2. pont v) alpontját a 746/2021. (XII. 21.) Korm. rendelet 11. § (1) bekezdése iktatta be.
-[^254]: A 2. melléklet 3. pontja a 345/2015. (XI. 19.) Korm. rendelet 45. § (1) bekezdésével megállapított szöveg.
-[^255]: A 2. melléklet 3. pont n) alpontja az 59/2016. (III. 25.) Korm. rendelet 9. § b) pontjával megállapított, a 18/2018. (II. 14.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
-[^256]: A 2. melléklet 4. pontját az 502/2013. (XII. 29.) Korm. rendelet 23. § (2) bekezdése iktatta be, hatályon kívül helyezte a 746/2021. (XII. 21.) Korm. rendelet 13. § c) pontja.
+[^247]: A 2. melléklet 1. pontja a 746/2021. (XII. 21.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
+[^248]: A 2. melléklet 1. pont f) alpontját a 746/2021. (XII. 21.) Korm. rendelet 11. § (1) bekezdése iktatta be, szövege a 2/2022. (I. 7.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^249]: A 2. melléklet 2. pont l) alpontját a 746/2021. (XII. 21.) Korm. rendelet 13. § b) pontja hatályon kívül helyezte.
+[^250]: A 2. melléklet 2. pont m) alpontját a 407/2017. (XII. 15.) Korm. rendelet 28. § (1) bekezdése iktatta be, szövege a 661/2020. (XII. 24.) Korm. rendelet 20. § (2) bekezdésével megállapított szöveg.
+[^251]: A 2. melléklet 2. pont n) alpontját a 407/2017. (XII. 15.) Korm. rendelet 28. § (1) bekezdése iktatta be.
+[^252]: A 2. melléklet 2. pont o) alpontját a 407/2017. (XII. 15.) Korm. rendelet 28. § (1) bekezdése iktatta be.
+[^253]: A 2. melléklet 2. pont p) alpontját a 661/2020. (XII. 24.) Korm. rendelet 20. § (2) bekezdése iktatta be.
+[^254]: A 2. melléklet 2. pont q) alpontját a 661/2020. (XII. 24.) Korm. rendelet 20. § (2) bekezdése iktatta be.
+[^255]: A 2. melléklet 2. pont r) alpontját a 746/2021. (XII. 21.) Korm. rendelet 11. § (1) bekezdése iktatta be.
+[^256]: A 2. melléklet 2. pont s) alpontját a 746/2021. (XII. 21.) Korm. rendelet 11. § (1) bekezdése iktatta be.
+[^257]: A 2. melléklet 2. pont t) alpontját a 746/2021. (XII. 21.) Korm. rendelet 11. § (1) bekezdése iktatta be.
+[^258]: A 2. melléklet 2. pont u) alpontját a 746/2021. (XII. 21.) Korm. rendelet 11. § (1) bekezdése iktatta be.
+[^259]: A 2. melléklet 2. pont v) alpontját a 746/2021. (XII. 21.) Korm. rendelet 11. § (1) bekezdése iktatta be.
+[^260]: A 2. melléklet 3. pontja a 345/2015. (XI. 19.) Korm. rendelet 45. § (1) bekezdésével megállapított szöveg.
+[^261]: A 2. melléklet 3. pont n) alpontja az 59/2016. (III. 25.) Korm. rendelet 9. § b) pontjával megállapított, a 18/2018. (II. 14.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^262]: A 2. melléklet 4. pontját az 502/2013. (XII. 29.) Korm. rendelet 23. § (2) bekezdése iktatta be, hatályon kívül helyezte a 746/2021. (XII. 21.) Korm. rendelet 13. § c) pontja.

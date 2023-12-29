@@ -1,4 +1,4 @@
-5. § (1)[^14] A Tájékoztatóban megjelenő felvételi hirdetmény tartalmazza azt a maximális és minimális hallgatói kapacitást, amelyet a felsőoktatási intézmény – a különböző finanszírozási formákban együttesen, figyelembe véve az Nftv. 73. § (3) bekezdés h) pont hb) alpontja szerinti fenntartói hozzájárulást, valamint a rendelkezésére álló személyi és tárgyi feltételeket – szakonként, az adott évben meghirdet. A Tájékoztató szakos hallgatói kapacitásként a Hivatal által a működési engedélyben szereplő maximális hallgatói létszám alapulvételével kiszámított létszámkereteken belüli, a fenntartó által is jóváhagyott létszámot tartalmazhat.
+5. § (1)[^14] A Tájékoztató tartalmazza a képzési területenként a magyar állami ösztöndíjas képzésre felvehető maximális kapacitást, amelyet a felsőoktatási intézmény figyelembe véve az Nftv. 73. § (3) bekezdés h) pont hb) alpontja szerinti fenntartói hozzájárulást, valamint a rendelkezésére álló személyi és tárgyi feltételeket, képzési területenként, az adott évben meghirdet. A Tájékoztató a Hivatal által a működési engedélyben szereplő maximális hallgatói létszám alapulvételével kiszámított létszámkereteken belüli, a fenntartó által is jóváhagyott létszámot tartalmazhat.
 
 (2) A Tájékoztató a felsőoktatási intézmény által meghirdetett minden egyes felsőoktatási szakképzésre, alapképzési szakra és osztatlan képzésre vonatkozóan tartalmazza
 
@@ -28,7 +28,7 @@ l)[^21]
 
 m)[^22]
 
-n)[^23] az állami ösztöndíjas finanszírozási formájú meghirdetések esetében a felvehető minimális és maximális hallgatói létszámot, az önköltséges képzések esetében a képzés indításának a lehetőségét,
+n)[^23] az állami ösztöndíjas finanszírozási formájú meghirdetések esetében képzési területenként felvehető maximális hallgatói létszámot, az önköltséges képzések esetében a képzés indításának lehetőségét,
 
 o)[^24] az intézményi és az alkalmassági vizsga követelményeit,
 
@@ -46,7 +46,7 @@ p)[^25] a pontszámításhoz figyelembe vehető tantárgyakat és érettségi vi
 
 (7) A fizetési kötelezettségeket és a lehetséges juttatásokat Magyarország törvényes fizetőeszközében kell közölni.
 
-[^14]: Az 5. § (1) bekezdése a 661/2020. (XII. 24.) Korm. rendelet 5. §-ával megállapított, a 339/2022. (IX. 7.) Korm. rendelet 22. § 2. pontja szerint módosított szöveg.
+[^14]: Az 5. § (1) bekezdése a 648/2023. (XII. 28.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^15]: Az 5. § (2) bekezdés c) pontja a 345/2015. (XI. 19.) Korm. rendelet 34. § (2) bekezdésével megállapított szöveg.
 [^16]: Az 5. § (2) bekezdés d) pontját a 339/2022. (IX. 7.) Korm. rendelet 23. § 4. pontja hatályon kívül helyezte.
 [^17]: Az 5. § (2) bekezdés f) pontját a 339/2022. (IX. 7.) Korm. rendelet 23. § 4. pontja hatályon kívül helyezte.
@@ -55,7 +55,7 @@ p)[^25] a pontszámításhoz figyelembe vehető tantárgyakat és érettségi vi
 [^20]: Az 5. § (2) bekezdés k) pontja a 339/2022. (IX. 7.) Korm. rendelet 23. § 3. pontja szerint módosított szöveg. [Az 5. § (2) bekezdés k) pontban a 339/2022. (IX. 7.) Korm. rendelet 23. § 5. pontja által elrendelt módosítás, amely szerint hatályát veszti az „és a többletpontokkal” szövegrész, nem vezethető át.]
 [^21]: Az 5. § (2) bekezdés l) pontját a 339/2022. (IX. 7.) Korm. rendelet 23. § 4. pontja hatályon kívül helyezte.
 [^22]: Az 5. § (2) bekezdés m) pontját a 339/2022. (IX. 7.) Korm. rendelet 23. § 4. pontja hatályon kívül helyezte.
-[^23]: Az 5. § (2) bekezdés n) pontját a 339/2022. (IX. 7.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^23]: Az 5. § (2) bekezdés n) pontját a 339/2022. (IX. 7.) Korm. rendelet 3. § (1) bekezdése iktatta be, szövege a 648/2023. (XII. 28.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^24]: Az 5. § (2) bekezdés o) pontját a 339/2022. (IX. 7.) Korm. rendelet 3. § (1) bekezdése iktatta be.
 [^25]: Az 5. § (2) bekezdés p) pontját a 339/2022. (IX. 7.) Korm. rendelet 3. § (1) bekezdése iktatta be.
 [^26]: Az 5. § (2b) bekezdését a 339/2022. (IX. 7.) Korm. rendelet 3. § (2) bekezdése iktatta be.

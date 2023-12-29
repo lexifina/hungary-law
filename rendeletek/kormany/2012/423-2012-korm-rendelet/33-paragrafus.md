@@ -1,6 +1,6 @@
 ## 32. § A mesterképzést hirdető intézmények, illetve a mesterképzésre jelentkezők tekintetében a 3–31. §-okat a jelen fejezetben foglalt eltérésekkel kell alkalmazni.
 
-33. § (1) A Tájékoztatóban közzé kell tenni az állami ösztöndíjas mesterképzésre felvehető hallgatói létszám – miniszter által meghatározott – intézmények közötti elosztását.
+33. § (1)[^191]
 
 (2) A Tájékoztató az adott intézmény által meghirdetett mesterszakokra vonatkozóan az 5. §-ban meghatározottakon felül tartalmazza
 
@@ -13,3 +13,5 @@ c) az alapképzési, mesterképzési szakokon, illetve a korábbi egyetemi vagy 
 d) a tanári mesterképzési szakra történő jelentkezés, illetve felvétel speciális szabályait;
 
 e) az intézmény szabályzatában meghatározott felvételi feltételek, követelmények körét, ezek figyelembevételének módját, feltételeit.
+
+[^191]: A 33. § (1) bekezdését a 648/2023. (XII. 28.) Korm. rendelet 8. § b) pontja hatályon kívül helyezte.

@@ -1,3 +1,3 @@
-21. §[^152]
+21. §[^156]
 
-[^152]: A 21. §-t a 339/2022. (IX. 7.) Korm. rendelet 23. § 27. pontja hatályon kívül helyezte.
+[^156]: A 21. §-t a 339/2022. (IX. 7.) Korm. rendelet 23. § 27. pontja hatályon kívül helyezte.

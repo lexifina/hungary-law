@@ -1,9 +1,9 @@
-29. § (1)[^179] A jelentkezők a felvételi eljárás során tett egyes cselekményeket elektronikusan végzik.
+29. § (1)[^183] A jelentkezők a felvételi eljárás során tett egyes cselekményeket elektronikusan végzik.
 
-(2)[^180] Az elektronikus ügyintézést támogató információs rendszer létrehozásáról és üzemeltetéséről a Hivatal gondoskodik oly módon, hogy a rendszerben elvégzett minden egyes műveletre – különösen az adatok módosítására – vonatkozóan ellenőrizhető legyen a művelet elvégzésének időpontja és megállapítható legyen a műveletet végző személye.
+(2)[^184] Az elektronikus ügyintézést támogató információs rendszer létrehozásáról és üzemeltetéséről a Hivatal gondoskodik oly módon, hogy a rendszerben elvégzett minden egyes műveletre – különösen az adatok módosítására – vonatkozóan ellenőrizhető legyen a művelet elvégzésének időpontja és megállapítható legyen a műveletet végző személye.
 
-(3)[^181] A Hivatal teljes körű tájékoztatást ad a jelentkezők és a felsőoktatási intézmények számára az elektronikus ügyintézés feltételeiről, módjáról, illetve teljes körű útmutatást ad a rendszer szolgáltatásairól, funkcióiról, használatáról.
+(3)[^185] A Hivatal teljes körű tájékoztatást ad a jelentkezők és a felsőoktatási intézmények számára az elektronikus ügyintézés feltételeiről, módjáról, illetve teljes körű útmutatást ad a rendszer szolgáltatásairól, funkcióiról, használatáról.
 
-[^179]: A 29. § (1) bekezdése a 335/2014. (XII. 18.) Korm. rendelet 17. § l) pontja és 18. § (1) bekezdés e) pontja szerint módosított szöveg.
-[^180]: A 29. § (2) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 46. § 20. pontja szerint módosított szöveg.
-[^181]: A 29. § (3) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 46. § 19. pontja szerint módosított szöveg.
+[^183]: A 29. § (1) bekezdése a 335/2014. (XII. 18.) Korm. rendelet 17. § l) pontja és 18. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^184]: A 29. § (2) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 46. § 20. pontja szerint módosított szöveg.
+[^185]: A 29. § (3) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 46. § 19. pontja szerint módosított szöveg.
