@@ -252,6 +252,14 @@ IV. A Terrorelhárítási Központ szakmai tevékenységét értékelő teljesí
 
 5.2. a Terrorelhárítási Központ műveleti egységeinek az ügyelet által történő riasztása hatékonysága, szakszerűsége
 
+## 6. képzési terület
+
+## 6.1. a Terrorelhárítási Központ műveleti, személyvédelmi, felderítési szakterületének képzésre kötelezett állománya képzései, valamint a Terrorelhárítási Központ szakterületeihez tartozó nemzetközi képzések szervezésének színvonala
+
+## 6.2. a Terrorelhárítási Központ műveleti, személyvédelmi, felderítési szakterületének képzésre kötelezett állománya képzései, valamint a Terrorelhárítási Központ szakterületeihez tartozó nemzetközi képzések végrehajtásának eredményessége
+
+## 6.3. a Terrorelhárítási Központ szervezeti elemeitől érkező megkeresések végrehajtásának színvonala
+
 V. A Nemzeti Védelmi Szolgálat szakmai tevékenységét értékelő teljesítménymutatók
 
 1. a végrehajtott kifogástalan életvitel ellenőrzések szakszerűsége és színvonala
@@ -370,4 +378,4 @@ VII. A hivatásos katasztrófavédelmi szerv szakmai tevékenységét értékel�
 
 5.3. az iparbiztonsági szakterületi gyakorlatok megfelelősége
 
-[^72]: A 8. melléklet a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 8. és 23. pontja, a 76/2015. (XII. 22.) BM rendelet 17. § g) pontja, a 40/2017. (XII. 29.) BM rendelet 7. § (3) bekezdése, a 21/2018. (VI. 29.) BM rendelet 16. § (2) bekezdése, a 27/2019. (VI. 28.) BM rendelet 38. §-a, a 14/2021. (VI. 16.) BM rendelet 6. §-a szerint módosított szöveg.
+[^72]: A 8. melléklet a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 8. és 23. pontja, a 76/2015. (XII. 22.) BM rendelet 17. § g) pontja, a 40/2017. (XII. 29.) BM rendelet 7. § (3) bekezdése, a 21/2018. (VI. 29.) BM rendelet 16. § (2) bekezdése, a 27/2019. (VI. 28.) BM rendelet 38. §-a, a 14/2021. (VI. 16.) BM rendelet 6. §-a, a 87/2023. (XII. 28.) BM rendelet 1. §-a szerint módosított szöveg.
