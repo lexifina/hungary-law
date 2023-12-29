@@ -8,8 +8,8 @@
 
 (4) A (2) bekezdés szerinti szolgáltatásokat a Szolgáltatóközpont a 2022. január 31-én hatályos szerződési feltételek szerint nyújtja.
 
-(5)[^6] Az 1. melléklet szerinti egészséginformatikai szolgáltatásokhoz szükséges vagyoni elemekre vonatkozó, a Kormány irányítása vagy felügyelete alatt álló költségvetési szervnél lévő vagyonkezelési jogok és kötelezettségek, valamint a 2. melléklet szerinti egészséginformatikai szolgáltatásokhoz szükséges vagyoni elemekre vonatkozó, az Országos Kórházi Főigazgatóságnál (a továbbiakban: OKFŐ) lévő vagyonkezelési jogok és kötelezettségek 2022. február 1-jén a Szolgáltatóközpontra szállnak át. Az érintett költségvetési szerv és a Szolgáltatóközpont e rendelet hatálybalépését követő 30 napon belül jegyzőkönyvben rögzítik az érintett vagyonkezelési jogok és kötelezettségek körét, valamint a vagyonelemek értékét.
+(5)[^7] Az 1. melléklet szerinti egészséginformatikai szolgáltatásokhoz szükséges vagyoni elemekre vonatkozó, a Kormány irányítása vagy felügyelete alatt álló költségvetési szervnél lévő vagyonkezelési jogok és kötelezettségek, valamint a 2. melléklet szerinti egészséginformatikai szolgáltatásokhoz szükséges vagyoni elemekre vonatkozó, az OKFŐ-nél lévő vagyonkezelési jogok és kötelezettségek 2022. február 1-jén a Szolgáltatóközpontra szállnak át. Az érintett költségvetési szerv és a Szolgáltatóközpont e rendelet hatálybalépését követő 30 napon belül jegyzőkönyvben rögzítik az érintett vagyonkezelési jogok és kötelezettségek körét, valamint a vagyonelemek értékét.
 
 (6) Az OKFŐ által az 1. melléklet szerinti egészséginformatikai szolgáltatások esetében, azok igénybevételére kötött szerződéseiből származó jogok és kötelezettségek 2022. február 1-jén a Szolgáltatóközpontra szállnak át, az ilyen szerződések esetében a Szolgáltatóközpont az igénybevételre kötelezett szervezet jogutódjaként helyébe lép.
 
-[^6]: A 8. § (5) bekezdése a 630/2022. (XII. 30.) Korm. rendelet 35. § a) pontja szerint módosított szöveg.
+[^7]: A 8. § (5) bekezdése a 659/2023. (XII. 28.) Korm. rendelet 60. §-a szerint módosított szöveg.

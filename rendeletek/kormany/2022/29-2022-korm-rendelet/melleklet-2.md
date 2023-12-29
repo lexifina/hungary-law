@@ -16,11 +16,11 @@ e) egészséginformatikai információbiztonsági szolgáltatások
 
 2. Az 1. pont szerinti szolgáltatások igénybevételére kötelezett szervek
 
-a)[^17] Belügyminisztérium
+a)[^18] Belügyminisztérium
 
 b) Nemzeti Egészségbiztosítási Alapkezelő
 
-c)[^18] Nemzeti Népegészségügyi és Gyógyszerészeti Központ
+c)[^19] Nemzeti Népegészségügyi és Gyógyszerészeti Központ
 
 d) Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet
 
@@ -34,5 +34,5 @@ h) közfinanszírozott állami fenntartású fekvőbeteg-szakellátó intézmén
 
 i) közfinanszírozott állami fenntartású járóbeteg-szakellátó intézmények
 
-[^17]: A 2. melléklet 2. pont a) alpontja a 238/2022. (VI. 30.) Korm. rendelet 219. §-a szerint módosított szöveg.
-[^18]: A 2. melléklet 2. pont c) alpontja a 334/2023. (VII. 20.) Korm. rendelet 68. §-ával megállapított szöveg.
+[^18]: A 2. melléklet 2. pont a) alpontja a 238/2022. (VI. 30.) Korm. rendelet 219. §-a szerint módosított szöveg.
+[^19]: A 2. melléklet 2. pont c) alpontja a 334/2023. (VII. 20.) Korm. rendelet 68. §-ával megállapított szöveg.
