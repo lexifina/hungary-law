@@ -1,5 +1,5 @@
 ## 2. A harmadik országokban történő borpromóció támogatásáról szóló 3/2020. (II. 28.) AM rendelet módosítása
 
-3. § A harmadik országokban történő borpromóció támogatásáról szóló 3/2020. (II. 28.) AM rendelet [a továbbiakban: 3/2020. (II. 28.) AM rendelet] a következő 18/B. §-sal egészül ki:
+3. §[^4]
 
-„18/B. § E rendeletnek az Európai Unió területén történő borpromóció támogatásáról szóló 2/2020. (II. 28.) AM rendelet és a harmadik országokban történő borpromóció támogatásáról szóló 3/2020. (II. 28.) AM rendelet módosításáról szóló 189/2023. (XII. 27.) AM rendelettel módosított 16. § (4) bekezdését a 15. § (7) bekezdés d) pontja szerint benyújtott kifizetési kérelmek tekintetében is alkalmazni kell.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

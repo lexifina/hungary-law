@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-189-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2023-12-28 | 2023-189-20-7R.1 | 189/2023. (XII. 27.) AM rendelet |
+| 2023-12-29 | 2023-189-20-7R.2 | 2010. évi CXXX. törvény |

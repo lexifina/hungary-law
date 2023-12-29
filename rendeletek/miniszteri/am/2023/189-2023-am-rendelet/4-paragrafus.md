@@ -1,1 +1,3 @@
-4. § A 3/2020. (II. 28.) AM rendelet 16. § (4) bekezdésében a „hatvan” szövegrész helyébe a „száznyolcvan” szöveg lép.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
