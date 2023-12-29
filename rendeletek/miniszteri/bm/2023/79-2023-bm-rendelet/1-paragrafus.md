@@ -1,0 +1,1 @@
+1. § A belügyminiszter irányítása alatt álló fegyveres szervek és hivatásos állományú tagjainak kártérítési felelősségéről szóló 23/1997. (III. 19.) BM rendelet 2. § (3) bekezdésében a „3 munkanapon” szövegrész helyébe a „15 munkanapon” szöveg lép.
