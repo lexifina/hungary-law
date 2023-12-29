@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-44-20-0
 | 2023-01-01 | 2012-44-20-0A.21 | 51/2022. (XII. 27.) BM rendelet |
 | 2023-02-01 | 2012-44-20-0A.22 | 2/2023. (I. 30.) BM rendelet |
 | 2023-05-18 | 2012-44-20-0A.23 | 11/2023. (V. 10.) MK rendelet |
+| 2023-12-29 | 2012-44-20-0A.24 | 85/2023. (XII. 28.) BM rendelet |

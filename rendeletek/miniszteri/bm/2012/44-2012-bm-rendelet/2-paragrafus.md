@@ -1,5 +1,3 @@
-## 1. §[^1] A rendelet hatálya kiterjed a belügyminiszter vezetése, irányítása vagy felügyelete alá tartozó szervekkel (a továbbiakban: belügyi szerv) hivatásos szolgálati, rendvédelmi igazgatási szolgálati, közalkalmazotti, valamint igazságügyi alkalmazotti jogviszonyban (a továbbiakban együtt: szolgálati jogviszony) álló személyekre (a továbbiakban együtt: dolgozó).
-
 ## 2. §[^2] E rendelet alkalmazásában
 
 1. akadálymentesítés: a személyi jövedelemadóról szóló törvényben (a továbbiakban: Szja. törvény) ekként meghatározott fogalom;
@@ -62,9 +60,11 @@ b) három-négy személy esetében legfeljebb négy lakószoba,
 
 c) minden további személy esetében egy lakószobával nő;
 
-[^1]: Az 1. § a 16/2014. (II. 28.) BM rendelet 10. § (1) bekezdésével megállapított, a 11/2019. (IV. 8.) BM rendelet 12. § a) pontja szerint módosított szöveg.
+10.[^7] más foglalkoztató: a más szervhez vezénylésben részes – a belügyi szervtől különböző – szerv;
+
 [^2]: A 2. § az 1/2018. (I. 18.) BM rendelet 2. §-ával megállapított szöveg.
 [^3]: A 2. § 3. pontja a 31/2018. (XII. 19.) BM rendelet 9. § (1) bekezdésével megállapított, a 11/2019. (IV. 8.) BM rendelet 12. § b) pontja szerint módosított szöveg.
 [^4]: A 2. § 6a. pontját a 7/2021. (III. 10.) BM rendelet 1. §-a iktatta be.
 [^5]: A 2. § 7a. pontját a 11/2019. (IV. 8.) BM rendelet 7. §-a iktatta be.
 [^6]: A 2. § 9. pontját a 31/2018. (XII. 19.) BM rendelet 9. § (2) bekezdése iktatta be.
+[^7]: A 2. § 10. pontját a 85/2023. (XII. 28.) BM rendelet 2. §-a iktatta be.
