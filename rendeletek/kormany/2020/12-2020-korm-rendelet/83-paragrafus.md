@@ -14,11 +14,11 @@
 
 7. gyakorolja a szakképzési centrumot megillető tulajdonosi jogokat az olyan gazdasági társaságokban, gazdálkodó szervezetekben, amelyekben a szakképzési centrum részesedéssel rendelkezik,
 
-8.[^166] munkáltatói jogkört gyakorol – az e rendeletben meghatározott eltéréssel – az Szkt. 40. § (1) bekezdés e) pontja szerinti munkakörben foglalkoztatott alkalmazottak felett,
+8.[^167] munkáltatói jogkört gyakorol – az e rendeletben meghatározott eltéréssel – az Szkt. 40. § (1) bekezdés e) pontja szerinti munkakörben foglalkoztatott alkalmazottak felett,
 
-9.[^167] gondoskodik a gazdasági vezetői feladatok ellátásáról, valamint a jogszabályoknak megfelelő pénzügyi-szakmai kompetencia biztosításáról,
+9.[^168] gondoskodik a gazdasági vezetői feladatok ellátásáról, valamint a jogszabályoknak megfelelő pénzügyi-szakmai kompetencia biztosításáról,
 
 10. feladatai ellátása során a főigazgató tekintetében fennálló együttműködési, tájékoztatási kötelezettségének köteles eleget tenni.
 
-[^166]: A 83. § 8. pontja a 319/2020. (VII. 1.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^167]: A 83. § 9. pontja a 319/2020. (VII. 1.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^167]: A 83. § 8. pontja a 319/2020. (VII. 1.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^168]: A 83. § 9. pontja a 319/2020. (VII. 1.) Korm. rendelet 7. §-ával megállapított szöveg.

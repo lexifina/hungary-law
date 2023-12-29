@@ -18,10 +18,10 @@ a) létesítéséről,
 
 b) nevéről,
 
-c)[^173] átalakításáról és megszüntetéséről,
+c)[^174] átalakításáról és megszüntetéséről,
 
 d) az évente felvehető tanulók, illetve képzésben részt vevők létszámáról, és
 
 e) az igazgató megbízásáról és felmentéséről.
 
-[^173]: A 90. § (2) bekezdés c) pontja a 292/2023. (VII. 6.) Korm. rendelet 48. § 36. pontja szerint módosított szöveg.
+[^174]: A 90. § (2) bekezdés c) pontja a 292/2023. (VII. 6.) Korm. rendelet 48. § 36. pontja szerint módosított szöveg.

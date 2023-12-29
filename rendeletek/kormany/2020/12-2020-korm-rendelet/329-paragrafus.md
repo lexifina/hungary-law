@@ -18,12 +18,8 @@
 
 9. a minimális (kötelező) eszközök és felszerelések meglétére,
 
-10.[^398] a szakképzésben való ingyenes részvétel, a szakképzési tankönyvek és a tanulói felszerelések biztosítására,
+10.[^406] a szakképzésben való ingyenes részvétel, a szakképzési tankönyvek és a tanulói felszerelések biztosítására,
 
 11. a fegyelmi eljárás megszervezésére, lefolytatására és a döntéshozatalra,
 
-12. a fenntartó jogszabályban meghatározott feladata ellátására
-
-vonatkozó rendelkezések megtartását.
-
-[^398]: A 329. § 10. pontja a 380/2021. (VI. 30.) Korm. rendelet 58. § 86. pontja szerint módosított szöveg.
+[^406]: A 329. § 10. pontja a 380/2021. (VI. 30.) Korm. rendelet 58. § 86. pontja szerint módosított szöveg.

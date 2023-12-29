@@ -12,7 +12,7 @@ aa) alapító okiratának, módosító okiratának és megszüntető okiratának
 
 ab) nevét, alapfeladatának jogszabály szerinti megnevezését és valamennyi feladatellátási helyét,
 
-ac)[^145] az önálló költségvetéssel rendelkező szakképző intézmény esetében adószámát és pénzforgalmi számlaszámát,
+ac)[^146] az önálló költségvetéssel rendelkező szakképző intézmény esetében adószámát és pénzforgalmi számlaszámát,
 
 b) a nyilvántartásba vétel, létesítés napját,
 
@@ -20,4 +20,4 @@ c) a jogutódlással, átalakulással, fenntartóváltozással, a szakképző in
 
 d) a megszűnésről szóló alapítói határozatot, a megszüntető okiratot, a megszűnés idejét és módját, valamint a megszűnt szakképző intézmény iratainak őrzési helyét.
 
-[^145]: A 73. § a) pont ac) alpontja a 319/2020. (VII. 1.) Korm. rendelet 24. § 7. pontja szerint módosított szöveg.
+[^146]: A 73. § a) pont ac) alpontja a 319/2020. (VII. 1.) Korm. rendelet 24. § 7. pontja szerint módosított szöveg.

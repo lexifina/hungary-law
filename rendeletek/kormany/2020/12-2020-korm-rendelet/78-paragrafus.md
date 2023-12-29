@@ -1,8 +1,8 @@
 ## 26. Az Szkt. 123. § (1) bekezdés 2. pontjához
 
-78. §[^154] (1) A Kormány szakképzési intézményfenntartó központként
+78. §[^155] (1) A Kormány szakképzési intézményfenntartó központként
 
-a)[^155] a 94. § (1) bekezdés a) és c) pontjában meghatározott fenntartói irányítási hatáskör, a szakképző intézmény gazdálkodásának ellenőrzése, továbbá az Szkt. 26. § (5) bekezdése szerinti egyetértési jogkör tekintetében a Nemzeti Szakképzési és Felnőttképzési Hivatalt,
+a)[^156] a 94. § (1) bekezdés a) és c) pontjában meghatározott fenntartói irányítási hatáskör, a szakképző intézmény gazdálkodásának ellenőrzése, továbbá az Szkt. 26. § (5) bekezdése szerinti egyetértési jogkör tekintetében a Nemzeti Szakképzési és Felnőttképzési Hivatalt,
 
 b) – az általa alapított szakképzési centrum részeként működő szakképző intézmény vonatkozásában –
 
@@ -14,5 +14,5 @@ jelöli ki.
 
 (2) E feladatkörében a szakképzési intézményfenntartó központ a szakképzésért felelős miniszter által alapított szakképzési centrum részeként működő szakképző intézmény felett gyakorolja a fenntartó jogszabályban meghatározott fenntartói irányítási hatásköreit és teljesíti a fenntartó jogszabályban meghatározott kötelezettségeit.
 
-[^154]: A 78. § a 238/2022. (VI. 30.) Korm. rendelet 196. §-ával megállapított szöveg.
-[^155]: A 78. § (1) bekezdés a) pontja a 292/2023. (VII. 6.) Korm. rendelet 47. § 30. pontja szerint módosított szöveg.
+[^155]: A 78. § a 238/2022. (VI. 30.) Korm. rendelet 196. §-ával megállapított szöveg.
+[^156]: A 78. § (1) bekezdés a) pontja a 292/2023. (VII. 6.) Korm. rendelet 47. § 30. pontja szerint módosított szöveg.
