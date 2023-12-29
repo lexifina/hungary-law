@@ -68,7 +68,7 @@ Az országos gyógyintézetek és az országos társgyógyintézetek
 
 2.2.1. Törökbálinti Tüdőgyógyintézet
 
-2.2.2. Veszprém Vármegyei Tüdőgyógyintézet
+2.2.2.[^3] Farkasgyepűi Tüdőgyógyintézet
 
 2.3. Az Országos Mozgásszervi Intézet irányítása alá tartozó országos társgyógyintézet
 
@@ -77,3 +77,5 @@ Az országos gyógyintézetek és az országos társgyógyintézetek
 2.4. Az Országos Onkológiai Intézet irányítása alá tartozó országos társgyógyintézet
 
 2.4.1. Mátrai Gyógyintézet
+
+[^3]: Az 5. melléklet 2. pont 2.2. alpont 2.2.2. pontja a 659/2023. (XII. 28.) Korm. rendelet 61. §-a szerint módosított szöveg.
