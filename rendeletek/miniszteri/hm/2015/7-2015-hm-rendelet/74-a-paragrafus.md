@@ -1,8 +1,8 @@
-74/A. §[^193] (1) A szolgálati járandóságban nem részesülő önkéntes védelmi tartalékos katona egyszeri alkalommal a honvédelmi illetményalap 45%-ában megállapított szerződéskötési díjra jogosult.
+74/A. §[^196] (1) A szolgálati járandóságban nem részesülő önkéntes védelmi tartalékos katona egyszeri alkalommal a honvédelmi illetményalap 45%-ában megállapított szerződéskötési díjra jogosult.
 
 (2) A szolgálati járandóságban nem részesülő önkéntes területvédelmi tartalékos katona egyszeri alkalommal a honvédelmi illetményalap 75%-ában megállapított szerződéskötési díjra jogosult, ha az önkéntes tartalékos katonai szolgálatot legalább két évre vállalja.
 
-(3)[^194] Nem jogosult a (2) bekezdés szerinti szerződéskötési díjra az önkéntes területvédelmi tartalékos katona a 66. § (2) bekezdése és a 73/D. §-a szerinti esetekben.
+(3)[^197] Nem jogosult a (2) bekezdés szerinti szerződéskötési díjra az önkéntes területvédelmi tartalékos katona a 66. § (2) bekezdése és a 73/D. §-a szerinti esetekben.
 
 (4) A szolgálati járandóságban nem részesülő önkéntes műveleti tartalékos katona teljesített szolgálati évenként utólag rendelkezésre állási díjra jogosult, melynek összege a minimálbér 150%-a.
 
@@ -10,7 +10,7 @@
 
 (6) A Hjt. 215. § (5) bekezdés b) pontja szerinti esetben a teljesített szolgálati évek utáni rendelkezésre állási díj – a szolgálathalasztás időtartamán kívüli időszakra eső – időarányos összegben jár.
 
-(6a)[^195] Az önkéntes tartalékos katona elhalálozása esetén a (4) és (5) bekezdés szerinti rendelkezésre állási díj időarányos, a halál bekövetkezésének napjáig járó összegét az örökös vagy törvényes képviselője részére a jogerős hagyatékátadó végzés vagy öröklési bizonyítvány állományilletékes honvédelmi szervezet részére történő bemutatásának és az arról készült másolat benyújtásának napját követő hónap végéig kell folyósítani.
+(6a)[^198] Az önkéntes tartalékos katona elhalálozása esetén a (4) és (5) bekezdés szerinti rendelkezésre állási díj időarányos, a halál bekövetkezésének napjáig járó összegét az örökös vagy törvényes képviselője részére a jogerős hagyatékátadó végzés vagy öröklési bizonyítvány állományilletékes honvédelmi szervezet részére történő bemutatásának és az arról készült másolat benyújtásának napját követő hónap végéig kell folyósítani.
 
 (7) A (4) és (5) bekezdés szerinti esetben a rendelkezésre állási díj összegének megállapítása során az annak alapját képező, leszolgált év utolsó napján érvényes minimálbér összegét kell figyelembe venni.
 
@@ -20,6 +20,6 @@
 
 (10) A szerződéskötési díjat a szerződés aláírását követő negyedik hónap 5. napjáig kell kifizetni.
 
-[^193]: A 74/A. §-t a 25/2016. (XII. 22.) HM rendelet 88. §-a iktatta be, szövege az 5/2017. (V. 17.) HM rendelet 5. §-ával megállapított szöveg.
-[^194]: A 74/A. § (3) bekezdése a 10/2017. (VIII. 31.) HM rendelet 72. § g) pontja szerint módosított szöveg.
-[^195]: A 74/A. § (6a) bekezdését a 12/2018. (VII. 27.) HM rendelet 45. §-a iktatta be.
+[^196]: A 74/A. §-t a 25/2016. (XII. 22.) HM rendelet 88. §-a iktatta be, szövege az 5/2017. (V. 17.) HM rendelet 5. §-ával megállapított szöveg.
+[^197]: A 74/A. § (3) bekezdése a 10/2017. (VIII. 31.) HM rendelet 72. § g) pontja szerint módosított szöveg.
+[^198]: A 74/A. § (6a) bekezdését a 12/2018. (VII. 27.) HM rendelet 45. §-a iktatta be.

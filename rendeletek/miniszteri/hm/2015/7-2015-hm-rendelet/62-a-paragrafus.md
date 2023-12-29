@@ -1,4 +1,4 @@
-## IV/A. Fejezet[^158]
+## IV/A. Fejezet[^161]
 
 ## EGYES EGÉSZSÉGÜGYI MUNKAKÖRŰ KATONÁK ILLETMÉNYÉRE VONATKOZÓ ELTÉRŐ SZABÁLYOK
 
@@ -8,13 +8,13 @@
 
 a) orvos, szakorvos, fogorvos, szakfogorvos, gyógyszerész, szakgyógyszerész beosztásban szolgálatot teljesítő egészségügyi katona,
 
-b)[^159] a miniszter rendeletében meghatározott munkakörben foglalkoztatott egyéb, nem egészségügyi egyetemi végzettséggel, valamint nem egészségügyi egyetemi végzettséggel és egészségügyi felsőfokú szakirányú szakképesítéssel rendelkező egészségügyi katona, és
+b)[^162] a miniszter rendeletében meghatározott munkakörben foglalkoztatott egyéb, nem egészségügyi egyetemi végzettséggel, valamint nem egészségügyi egyetemi végzettséggel és egészségügyi felsőfokú szakirányú szakképesítéssel rendelkező egészségügyi katona, és
 
 c) az egészségügyről szóló törvény szerinti egészségügyi felsőfokú szakirányú szakmai képzést lezáró szakvizsga megszerzését megelőzően – az ilyen szakvizsga megszerzése feltételeként előírt felsőfokú szakképesítéssel rendelkező és ezen szakképesítéshez kötött munkakörben – foglalkoztatott rezidens.
 
 (2) Az egészségügyi munkakörű katona tekintetében e rendeletet az e fejezetben foglalt eltérésekkel megfelelően kell alkalmazni.
 
-(3)[^160] Az egészségügyi munkakörű katona esetében nem alkalmazható
+(3)[^163] Az egészségügyi munkakörű katona esetében nem alkalmazható
 
 a) az I–II. Fejezet a 3. § kivételével,
 
@@ -28,6 +28,6 @@ e) a VI–VIII. Fejezet.
 
 (4) Az egészségügyi munkakörű katona esetében az 59. § alkalmazása során a Hjt. 122. § (1) bekezdése szerinti illetményelemek helyett a külön jogszabály alapján rá irányadó illetményelemeket kell figyelembe venni.
 
-[^158]: A IV/A. fejezetet (62/A. §) a 13/2021. (VII. 15.) HM rendelet 27. §-a iktatta be.
-[^159]: A 62/A. § (1) bekezdés b) pontja a 23/2021. (XI. 29.) HM rendelet 6. §-a szerint módosított szöveg.
-[^160]: A 62/A. § (3) bekezdése a 23/2021. (XI. 29.) HM rendelet 3. §-ával megállapított szöveg.
+[^161]: A IV/A. fejezetet (62/A. §) a 13/2021. (VII. 15.) HM rendelet 27. §-a iktatta be.
+[^162]: A 62/A. § (1) bekezdés b) pontja a 23/2021. (XI. 29.) HM rendelet 6. §-a szerint módosított szöveg.
+[^163]: A 62/A. § (3) bekezdése a 23/2021. (XI. 29.) HM rendelet 3. §-ával megállapított szöveg.
