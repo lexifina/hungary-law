@@ -1,4 +1,4 @@
-4. melléklet a 489/2015. (XII. 30.) Korm. rendelethez[^21]
+4. melléklet a 489/2015. (XII. 30.) Korm. rendelethez[^22]
 
 1. A kötelezően mérendő minták és mennyiségek
 
@@ -14,7 +14,7 @@
 
 | 5 | Felszíni víz | a) Cs-137 aktivitáskoncentráció, b) maradék béta és gamma sugárzó izotópok aktivitás- koncentrációja | a) Cs-137 aktivitáskoncentráció b) maradék béta és gamma sugárzó izotópok aktivitás-koncentrációja |
 
-| 6 | Ivóvíz | a) H-3, Sr-90, Cs-137 aktivitáskoncentráció b) természetes radionuklidok aktivitáskoncentrációja a 201/2001. (X. 25.) Korm. rendelet szerint c) radon aktivitás-koncentrációja d) indikatív dózis | a) H-3, Sr-90, Cs-137 aktivitáskoncentráció b) természetes radionuklidok aktivitás-koncentrációja a 201/2001. (X. 25.) Korm. rendelet szerint c) radon aktivitás-koncentrációja d) indikatív dózis |
+| 6 | Ivóvíz | a) H-3, Sr-90, Cs-137 aktivitáskoncentráció b) természetes radionuklidok aktivitáskoncentrációja az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló Korm. rendelet szerint c) radon aktivitás-koncentrációja d) indikatív dózis | a) H-3, Sr-90, Cs-137 aktivitáskoncentráció b) természetes radionuklidok aktivitás-koncentrációja az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló Korm. rendelet szerint c) radon aktivitás-koncentrációja d) indikatív dózis |
 
 | 7 | Tej | Cs-137, Sr-90 és K-40 aktivitáskoncentráció | Cs-137, Sr-90, K-40 aktivitáskoncentráció |
 
@@ -50,4 +50,4 @@
 
 (b) = Becquerel személyenként és naponta.
 
-[^21]: A 4. melléklet a 36/2020. (III. 5.) Korm. rendelet 17. § b)–d) pontja szerint módosított szöveg.
+[^22]: A 4. melléklet a 36/2020. (III. 5.) Korm. rendelet 17. § b)–d) pontja, a 659/2023. (XII. 28.) Korm. rendelet 48. §-a szerint módosított szöveg.
