@@ -1,4 +1,4 @@
-2. melléklet az 58/2015. (X. 27.) BM rendelethez[^27]
+2. melléklet az 58/2015. (X. 27.) BM rendelethez[^28]
 
 A rendvédelmi szerv által üzemben tartott kényszerszállító járművekre vonatkozó eltérő rendelkezésekről
 
@@ -50,13 +50,13 @@ b) a fogvatartotti utasülés az ENSZ–EGB 107. számú Előírás figyelmen k�
 
 c) a fogvatartotti utasteret határoló rácsos szerkezetek anyagait úgy kell megválasztani, hogy veszélyhelyzet bekövetkezése esetén tegye lehetővé a műszaki mentés gyors végrehajtását;
 
-d)[^28] az M3 járműkategóriájú kényszerszállító jármű egy légterű felügyelői és cellaterének vészkijárataként a hátsó – tengelyek közötti – utas ajtót, valamint a minimum 500×700 mm szabad nyílásméretű tetőszellőzőt kell figyelembe venni;
+d)[^29] az M3 járműkategóriájú kényszerszállító jármű egy légterű felügyelői és cellaterének vészkijárataként a hátsó – tengelyek közötti – utas ajtót, valamint a minimum 500×700 mm szabad nyílásméretű tetőszellőzőt kell figyelembe venni;
 
-e)[^29] az M3 járműkategóriájú kényszerszállító jármű csoportos elkülönítő terének vészkijárataként a speciális szerszámmal bontható rácsozatú tetőszellőzőt kell figyelembe venni;
+e)[^30] az M3 járműkategóriájú kényszerszállító jármű csoportos elkülönítő terének vészkijárataként a speciális szerszámmal bontható rácsozatú tetőszellőzőt kell figyelembe venni;
 
-f)[^30] a gépkocsivezető számára műszaki megoldással biztosítani kell, hogy az M3 járműkategóriájú kényszerszállító jármű külső vésznyitóit kapcsoló segítségével hatástalaníthassa.
+f)[^31] a gépkocsivezető számára műszaki megoldással biztosítani kell, hogy az M3 járműkategóriájú kényszerszállító jármű külső vésznyitóit kapcsoló segítségével hatástalaníthassa.
 
-[^27]: A 2. melléklet a 9/2016. (III. 17.) BM rendelet 6. §-ával megállapított szöveg.
-[^28]: A 2. melléklet 3. pont d) alpontját a 34/2020. (IX. 16.) BM rendelet 7. §-a iktatta be.
-[^29]: A 2. melléklet 3. pont e) alpontját a 34/2020. (IX. 16.) BM rendelet 7. §-a iktatta be.
-[^30]: A 2. melléklet 3. pont f) alpontját a 34/2020. (IX. 16.) BM rendelet 7. §-a iktatta be.
+[^28]: A 2. melléklet a 9/2016. (III. 17.) BM rendelet 6. §-ával megállapított szöveg.
+[^29]: A 2. melléklet 3. pont d) alpontját a 34/2020. (IX. 16.) BM rendelet 7. §-a iktatta be.
+[^30]: A 2. melléklet 3. pont e) alpontját a 34/2020. (IX. 16.) BM rendelet 7. §-a iktatta be.
+[^31]: A 2. melléklet 3. pont f) alpontját a 34/2020. (IX. 16.) BM rendelet 7. §-a iktatta be.

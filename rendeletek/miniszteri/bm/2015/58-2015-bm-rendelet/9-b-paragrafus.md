@@ -1,4 +1,4 @@
-## 4/A. [^21] A rendvédelmi szerv által üzemben tartott különleges rendeltetésű rendvédelmi járműre vonatkozó különös szabályok
+## 4/A. [^22] A rendvédelmi szerv által üzemben tartott különleges rendeltetésű rendvédelmi járműre vonatkozó különös szabályok
 
 9/B. § (1) A különleges rendeltetésű rendvédelmi jármű a rendvédelmi szerv vagyonkezelésében és használatában lévő, új gyártású, új építésű, továbbá összeépítéssel vagy átalakítással megépített, nem polgári felhasználási célra tervezett gépjármű, amely felszerelésénél, védelmi fokozatánál, terepjáró képességénél, egyéb speciális tulajdonságánál vagy felszereltségénél fogva megkönnyíti vagy lehetővé teszi a bűncselekmények elkövetőivel szembeni fellépést, az élet- és vagyonmentést vagy a katasztrófaelhárítást.
 
@@ -14,4 +14,4 @@ c) kielégíti az MR. rendelet 5. §-ában meghatározott, egyéb járművekre v
 
 d) kielégíti az MR. rendelet 7. § (1) bekezdés a) és b) pontjában foglaltakat.
 
-[^21]: A 4/A. alcímet (9/B–9/D. §) a 18/2017. (VII. 11.) BM rendelet 3. §-a iktatta be.
+[^22]: A 4/A. alcímet (9/B–9/D. §) a 18/2017. (VII. 11.) BM rendelet 3. §-a iktatta be.

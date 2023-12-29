@@ -8,7 +8,7 @@ a) rendőrségi szolgálati jármű esetében piros, sárga, kék,
 
 b) katasztrófavédelmi szolgálati jármű esetében piros, sárga, zöld,
 
-c)[^8] büntetés-végrehajtási szolgálati jármű esetében piros, sárga, szürke
+c)[^9] büntetés-végrehajtási szolgálati jármű esetében piros, sárga, szürke
 
 fényvisszaverő jelzéssel is.
 
@@ -20,4 +20,4 @@ fényvisszaverő jelzéssel is.
 
 (7) Az 1. § (1) bekezdésben meghatározott szerv vezetője rendelkezik a (3) bekezdésben meghatározott fényvisszaverő jelzés, a (4) bekezdésben meghatározott fény- és hangjelzést adó készülék, valamint a (6) bekezdésben meghatározott jelzés elhelyezésének módjáról.
 
-[^8]: A 6. § (3) bekezdés c) pontját a 34/2020. (IX. 16.) BM rendelet 2. §-a iktatta be.
+[^9]: A 6. § (3) bekezdés c) pontját a 34/2020. (IX. 16.) BM rendelet 2. §-a iktatta be.

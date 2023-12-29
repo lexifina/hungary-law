@@ -1,4 +1,4 @@
-## 4/C. [^23] A rendvédelmi szerv által üzemben tartott többcélú személyszállító járműre vonatkozó egyéb előírások
+## 4/C. [^24] A rendvédelmi szerv által üzemben tartott többcélú személyszállító járműre vonatkozó egyéb előírások
 
 9/F. § (1) A többcélú személyszállító jármű átszerelését kiképzett szakszemélyzet végzi előzetes elrendelés alapján. Az átszerelésről jóváhagyó jegyzőkönyvet kell készíteni az elrendelő személy ellenjegyzésével.
 
@@ -6,4 +6,4 @@
 
 (3) A sebesültszállító vagy törzsvezetési pont jármű forgalomba helyezését, valamint időszakos műszaki vizsgálatát az M3 járműkategóriára vonatkozó előírások szerint kell végrehajtani, és a forgalomba helyezési eljárásban, valamint a műszaki vizsgálat során a típusengedélyt, a hordágyrögzítési pont kialakításának megfelelőségét igazoló, akkreditált intézet által kiállított igazoló jegyzőkönyvet, továbbá az átszerelést jóváhagyó jegyzőkönyvet is be kell mutatni.
 
-[^23]: A 4/C. alcímet (9/F. §) a 34/2020. (IX. 16.) BM rendelet 5. §-a iktatta be.
+[^24]: A 4/C. alcímet (9/F. §) a 34/2020. (IX. 16.) BM rendelet 5. §-a iktatta be.
