@@ -1,6 +1,6 @@
-## 17.[^107] Sport népszerűsítésével, diák- és szabadidősporttal kapcsolatos támogatások
+## 17.[^134] Sport népszerűsítésével, diák- és szabadidősporttal kapcsolatos támogatások
 
-48. § (1) A Szabadidősport támogatása előirányzat terhére nyújtott költségvetési támogatás tekintetében
+48. § (1)[^135] A Sport népszerűsítésével, diák- és szabadidősporttal kapcsolatos támogatások előirányzat terhére nyújtott költségvetési támogatás tekintetében
 
 a) a szabadidősport-rendezvény megrendezésével közvetlenül összefüggő kiadások,
 
@@ -26,14 +26,15 @@ k) a versenyrendezés (ideértve a jogdíjakat is) és más szakmai rendezvénye
 
 l) a hazai és külföldi szakmai programokon való részvétel költségei (ideértve a sportdiplomáciai feladatokkal összefüggő költségeket is)
 
-m)[^108] országos jelleggel működő szabadidősport szövetségek szakmai feladatai és azok ellátásához kapcsolódó működési költségek,
+m)[^136] országos jelleggel működő szabadidősport szövetségek szakmai feladatai és azok ellátásához kapcsolódó működési költségek,
 
-n)[^109] országos jelleggel megvalósuló szabadidősport programok működtetésének költségei
+n)[^137] országos jelleggel megvalósuló szabadidősport programok működtetésének költségei
 
 számolhatók el.
 
 (2) A költségvetési támogatás legfeljebb tíz százalékáig a sportrendezvény kommunikációjával kapcsolatos költségek elszámolhatók.
 
-[^107]: A 17. alcím címe az 552/2022. (XII. 22.) Korm. rendelet 18. §-ával megállapított szöveg.
-[^108]: A 48. § (1) bekezdés m) pontját a 279/2018. (XII. 21.) Korm. rendelet 22. §-a iktatta be.
-[^109]: A 48. § (1) bekezdés n) pontját a 279/2018. (XII. 21.) Korm. rendelet 22. §-a iktatta be.
+[^134]: A 17. alcím címe az 552/2022. (XII. 22.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^135]: A 48. § (1) bekezdés nyitó szövegrésze a 658/2023. (XII. 28.) Korm. rendelet 5. § 24. pontja szerint módosított szöveg.
+[^136]: A 48. § (1) bekezdés m) pontját a 279/2018. (XII. 21.) Korm. rendelet 22. §-a iktatta be.
+[^137]: A 48. § (1) bekezdés n) pontját a 279/2018. (XII. 21.) Korm. rendelet 22. §-a iktatta be.

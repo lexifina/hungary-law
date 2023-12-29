@@ -16,46 +16,61 @@ c) az államháztartásról szóló törvény végrehajtásáról szóló 368/20
 
 1. állami támogatás: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet (a továbbiakban: Atr.) 2. § 1. pontja szerinti támogatás,
 
-2. átlátható formában nyújtott támogatás: olyan támogatás, amelynél előzetesen, kockázatértékelés nélkül kiszámítható a bruttó támogatástartalom,
+2.[^2]
 
-3.[^2] csoportmentességi rendeletek: a 651/2014/EU bizottsági rendelet, az Európai Unió működéséről szóló szerződés (a továbbiakban: EUMSz) 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdészeti ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2014. június 25-i 702/2014/EU bizottsági rendelet (HL L 193., 2014.7.1., 1–75. o.), és az Európai Unió működéséről szóló szerződés (a továbbiakban: EUMSz) 107. és 108. cikke alkalmazásában a halászati és akvakultúra-termékek előállításával, feldolgozásával és forgalmazásával foglalkozó vállalkozások számára nyújtott támogatások bizonyos fajtáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2014. december 16-i 1388/2014/EU bizottsági rendelet (HL L 369., 2014.12.24., 37–63. o),
+3.[^3]
 
-4. diszkont kamatláb: az Atr. 2. § 3. pontja szerinti kamatláb,
+4.[^4]
 
-5. egy és ugyanazon vállalkozás: az 1407/2013/EU bizottsági rendelet 2. cikk (2) bekezdése szerinti vállalkozás,
+5.[^5]
 
-6. elsődleges mezőgazdasági termelés: az EUMSz I. mellékletében felsorolt növények vagy állati eredetű termék előállítása, ide nem értve bármely, azok lényegi tulajdonságát megváltoztató tevékenységet,
+6.[^6]
 
-7. ésszerű nyereség: a 651/2014/EU bizottsági rendelet 2. cikk 142. pontja szerinti nyereség,
+7.[^7]
 
-8. hivatásos csapat: olyan sportszervezet, amely hivatásos sportolót alkalmaz,
+8.[^8]
 
-9. hivatásos sportoló: olyan sportoló, aki a 651/2014/EU bizottsági rendelet 2. cikk 143. pontja szerinti sporttevékenységet végez,
+9.[^9]
 
 10. immateriális javak: a 651/2014/EU bizottsági rendelet 2. cikk 30. pontja szerinti javak,
 
-10a.[^3]
+10a.[^10]
 
-11. mezőgazdasági termék: a 651/2014/EU bizottsági rendelet 2. cikk 11. pontja szerinti termék,
+11.[^11]
 
-12. mezőgazdasági termék feldolgozása: a 651/2014/EU bizottsági rendelet 2. cikk 10. pontja szerinti tevékenység,
+12.[^12]
 
-13. mezőgazdasági termék forgalmazása: a 651/2014/EU bizottsági rendelet 2. cikk 8. pontja szerinti tevékenység,
+13.[^13]
 
-14. multifunkcionális szabadidős létesítmény: a 651/2014/EU bizottsági rendelet 55. cikk (3) bekezdése szerinti létesítmény,
+14.[^14]
 
-15. működési eredmény: a beruházásnak a számvitelről szóló 2000. évi C. törvény (a továbbiakban: számvitelről szóló törvény) 3. § (4) bekezdés 5. pontja szerinti hasznos élettartama alatt diszkontált bevételek és diszkontált működési költségek (pl. személyi jellegű ráfordítás, anyagköltség, szerződéses szolgáltatás, a távközlés, az energia és a karbantartás költsége, bérleti díj, adminisztrációs költség, kivéve az olyan értékcsökkenési és a finanszírozási költséget, amelyet beruházási támogatásból már fedeztek) közötti pozitív előjelű különbség,
+15.[^15]
 
-16. nehéz helyzetben lévő vállalkozás: az Atr. 6. §-ában meghatározott vállalkozás,
+16.[^16]
 
 17. saját forrás: a kedvezményezett által a projekthez igénybe vett, állami támogatást, valamint az Európai Unió intézményei, ügynökségei, közös vállalkozásai vagy más szervei által központilag kezelt, a tagállam ellenőrzése alá közvetlenül vagy közvetve nem tartozó uniós finanszírozást nem tartalmazó forrás,
 
-18. támogatási intenzitás: az Atr. 2. § 15. pontja szerinti intenzitás,
+18.[^17]
 
-19. támogatástartalom: az Atr. 2. § 19. pontja szerinti tartalom,
+19.[^18]
 
 20. tárgyi eszköz: a 651/2014/EU bizottsági rendelet 2. cikk 29. pontja szerinti eszköz.
 
 [^1]: Az 1. § (1) bekezdés a) pontja az 552/2022. (XII. 22.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^2]: Az 1. § (2) bekezdés 3. pontja a 240/2022. (VI. 30.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
-[^3]: Az 1. § (2) bekezdés 10a. pontját a 282/2018. (XII. 21.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte az 565/2020. (XII. 8.) Korm. rendelet 27. § (2) bekezdés a) pontja.
+[^2]: Az 1. § (2) bekezdés 2. pontját a 658/2023. (XII. 28.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^3]: Az 1. § (2) bekezdés 3. pontját a 658/2023. (XII. 28.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^4]: Az 1. § (2) bekezdés 4. pontját a 658/2023. (XII. 28.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^5]: Az 1. § (2) bekezdés 5. pontját a 658/2023. (XII. 28.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^6]: Az 1. § (2) bekezdés 6. pontját a 658/2023. (XII. 28.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^7]: Az 1. § (2) bekezdés 7. pontját a 658/2023. (XII. 28.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^8]: Az 1. § (2) bekezdés 8. pontját a 658/2023. (XII. 28.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^9]: Az 1. § (2) bekezdés 9. pontját a 658/2023. (XII. 28.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^10]: Az 1. § (2) bekezdés 10a. pontját a 282/2018. (XII. 21.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte az 565/2020. (XII. 8.) Korm. rendelet 27. § (2) bekezdés a) pontja.
+[^11]: Az 1. § (2) bekezdés 11. pontját a 658/2023. (XII. 28.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^12]: Az 1. § (2) bekezdés 12. pontját a 658/2023. (XII. 28.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^13]: Az 1. § (2) bekezdés 13. pontját a 658/2023. (XII. 28.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^14]: Az 1. § (2) bekezdés 14. pontját a 658/2023. (XII. 28.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^15]: Az 1. § (2) bekezdés 15. pontját a 658/2023. (XII. 28.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^16]: Az 1. § (2) bekezdés 16. pontját a 658/2023. (XII. 28.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^17]: Az 1. § (2) bekezdés 18. pontját a 658/2023. (XII. 28.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^18]: Az 1. § (2) bekezdés 19. pontját a 658/2023. (XII. 28.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.

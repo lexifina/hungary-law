@@ -4,7 +4,7 @@
 
 a) felfüggeszti vagy visszavonja a Gerevich Aladár-sportösztöndíját annak
 
-aa)[^73] a versenyzőnek, akivel szemben a doppingellenes tevékenység szabályairól szóló kormányrendelet alapján doppingeljárás megindítására kerül sor – ideértve a versenyző pozitív vizsgálati eredményről szóló értesítését is –, vagy a lefolytatott doppingeljárás eredményeként jogerős eltiltás büntetés kerül kiszabásra, vagy akinek a válogatott kerettagsága megszűnik,
+aa)[^76] a versenyzőnek, akivel szemben a doppingellenes tevékenység szabályairól szóló kormányrendelet alapján doppingeljárás megindítására kerül sor – ideértve a versenyző pozitív vizsgálati eredményről szóló értesítését is –, vagy a lefolytatott doppingeljárás eredményeként jogerős eltiltás büntetés kerül kiszabásra, vagy akinek a válogatott kerettagsága megszűnik,
 
 ab) a sportszakembernek, akivel szemben a doppingellenes tevékenység szabályairól szóló kormányrendelet alapján doppingeljárás megindítására kerül sor vagy a lefolytatott doppingeljárás eredményeként jogerős eltiltás büntetés kerül kiszabásra, vagy akinek a versenyzőt felkészítő jogosultsága megszűnik,
 
@@ -16,7 +16,7 @@ bb) amellyel szemben az országos sportági szakszövetség, országos sportági
 
 c) felfüggeszti vagy – a meghatározott időszakra vonatkozó költségvetési támogatás esetén – visszavonja annak a sportszövetségnek a költségvetési támogatását,
 
-ca) amelynek a b) pontban meghatározott sportszervezeta tagja, illetve amelynek versenyrendszerében részt vesz, és
+ca)[^77] amelynek a b) pontban meghatározott sportszervezet a tagja, illetve amelynek versenyrendszerében részt vesz, és
 
 cb) amely sportszövetség – a nemzeti doppingellenes szervezet vezetőjének tájékoztatása szerint – nem tesz eleget a doppingellenes tevékenység szabályairól szóló kormányrendeletben meghatározott feladatainak.
 
@@ -32,4 +32,5 @@ b) a doppingvétséget a sportág utánpótláskorú versenyzőjének sérelmér
 
 c) a doppingvétséget a sportbeli dopping elleni nemzetközi egyezmény kihirdetéséről szóló kormányrendeletben foglalt, tiltott szereket és módszereket meghatározó jegyzékben szereplő anabolikus szerekkel, peptid hormonokkal (ennek mimetikumaival és analógjaival) vagy antiösztrogén szerekkel összefüggésben követik el.
 
-[^73]: A 27. § (1) bekezdés a) pont aa) alpontja az 552/2022. (XII. 22.) Korm. rendelet 24. § k) pontja szerint módosított szöveg.
+[^76]: A 27. § (1) bekezdés a) pont aa) alpontja az 552/2022. (XII. 22.) Korm. rendelet 24. § k) pontja szerint módosított szöveg.
+[^77]: A 27. § (1) bekezdés c) pont ca) alpontja a 658/2023. (XII. 28.) Korm. rendelet 5. § 6. pontja szerint módosított szöveg.

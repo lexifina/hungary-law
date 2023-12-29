@@ -1,4 +1,4 @@
-38/B. §[^83] (1) A miniszter a Versenysport és szakmai feladatok támogatása előirányzat terhére költségvetési támogatást nyújthat a hazai rendezésű nemzetközi sport- és sportdiplomáciai események megrendezésével összefüggő költségek fedezetéhez:
+38/B. §[^98] (1) A miniszter a Versenysport és szakmai feladatok támogatása előirányzat terhére költségvetési támogatást nyújthat a hazai rendezésű nemzetközi sport- és sportdiplomáciai események megrendezésével összefüggő költségek fedezetéhez:
 
 a) nemzetközi jelentőségű és turisztikai vonzerővel bíró sportesemény,
 
@@ -18,6 +18,7 @@ ha az adott sport- és sportdiplomáciai eseményhez 500 millió forintot meg ne
 
 (2) Az NSÜ NZrt. a Nemzeti Kommunikációs Hivatal jogállásáról és a kormányzati kommunikációs beszerzésekről szóló 162/2020. (IV. 30.) Korm. rendelet [a továbbiakban: 162/2020. (IV. 30.) Korm. rendelet] szerinti szponzorációs igényt bejelenti az NKOH felé.
 
-(3) Ha a miniszter 15 millió forintot elérő támogatási összegről döntött, úgy a 4. mellékletben foglalt táblázat G:3 mezőjében meghatározott szervezet a 162/2020. (IV. 30.) Korm. rendelet szerint jár el. A támogatási szerződés e bekezdés szerinti kötelezettséget tartalmazza.
+(3)[^99] Ha a miniszter 15 millió forintot elérő támogatási összegről döntött, úgy a kérelmező a 162/2020. (IV. 30.) Korm. rendelet szerint jár el. A támogatási szerződés e bekezdés szerinti kötelezettséget tartalmazza.
 
-[^83]: A 38/B. §-t az 552/2022. (XII. 22.) Korm. rendelet 13. §-a iktatta be.
+[^98]: A 38/B. §-t az 552/2022. (XII. 22.) Korm. rendelet 13. §-a iktatta be.
+[^99]: A 38/B. § (3) bekezdése a 658/2023. (XII. 28.) Korm. rendelet 5. § 16. pontja szerint módosított szöveg.

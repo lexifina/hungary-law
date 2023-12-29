@@ -1,4 +1,4 @@
-37. § (1) A 4. mellékletben foglalt táblázat F:3 mező 5.1. pontja szerinti költségvetési támogatás felhasználása során a következő tételek számolhatók el:
+37. § (1)[^91] A nem olimpiai sportágak szakszövetségei és országos sportági szövegségei, valamint az olimpiai sportágak szakszövetségei és országos sportági szövetségei nem olimpiai szakágai, továbbá a Nemzeti Versenysport Szövetség szakmai programjainak és az Stv.-ben, valamint az alapszabályában meghatározott feladatainak megvalósításával összefüggő működését szolgáló költségvetési támogatás felhasználása során a következő tételek számolhatók el:
 
 1. a hazai és külföldi versenyeken, edzőtáborokban, más szakmai programokon való részvétel, továbbá a felkészülés szakmai költségei,
 
@@ -32,7 +32,7 @@
 
 16. sportszakemberek képzésének és továbbképzésének díjai.
 
-(2) A 4. mellékletben foglalt táblázat F:3 mező 5.2. pontja szerinti költségvetési támogatás felhasználása során az (1) bekezdés 1–9. pontjában meghatározott tételek számolhatók el.
+(2)[^92] A Nemzetközi Világjátékok Szövetségének (GAIFS) IWGA Világjátékaira, a Küzdősportok Világjátékaira, a nem olimpiai sportágak részére rendezett sport világeseményekre való felkészülés szakmai feladatainak ellátását, az e versenyeken való részvételt, továbbá az Európai Olimpiai Bizottság által rendezett Európai Játékokon, és a Nemzeti Olimpiai Bizottságok Szövetsége (ANOC) által megrendezett versenyeken részt vevő nem olimpiai sportágak felkészülését szolgáló költségvetési támogatás felhasználása során az (1) bekezdés 1–9. pontjában meghatározott tételek számolhatók el.
 
 (3) A költségvetési támogatások összegének meghatározásakor az országos sportági szakszövetségek, országos sportági szövetségek esetében a következő feltételeket kell figyelembe venni:
 
@@ -42,9 +42,9 @@ b) a szövetségi tagszervezetek száma több mint húsz,
 
 c) a sportági eredményesség (IWGA Világjátékokon, világbajnokságon elért 1–8. helyezés, Európa-bajnokságon elért 1–6. helyezés).
 
-(4) Ha az országos sportági szakszövetség, országos sportági szövetség a (3) bekezdésben meghatározott feltételek közül kettőnek nem felel meg, a 4. mellékletben foglalt táblázat F:3 mező 5.1. pontja szerinti költségvetési támogatása az adott évben nem lehet több egymillió-ötszázezer forintnál.
+(4)[^93] Ha az országos sportági szakszövetség, országos sportági szövetség a (3) bekezdésben meghatározott feltételek közül kettőnek nem felel meg, az (1) bekezdés szerinti költségvetési támogatása az adott évben nem lehet több egymillió-ötszázezer forintnál.
 
-(5) Ha az országos sportági szakszövetség, országos sportági szövetség a (3) bekezdésben meghatározott feltételek közül legalább kettőnek megfelel, a 4. mellékletben foglalt táblázat F:3 mező 5.1 pontjában foglaltak költségvetési támogatására rendelkezésre álló összeg
+(5)[^94] Ha az országos sportági szakszövetség, országos sportági szövetség a (3) bekezdésben meghatározott feltételek közül legalább kettőnek megfelel, az (1) bekezdésben foglaltak költségvetési támogatására rendelkezésre álló összeg
 
 a) huszonöt százalékának felosztása a Nemzeti Versenysport Szövetség szakmai javaslata és a sportági eredményesség alapján történik,
 
@@ -64,4 +64,10 @@ bf) egyéb, előre nem számszerűsíthető szempontok, így a sportág szállí
 
 számítandó.
 
-(6) A 4. mellékletben foglalt táblázat F:3 mező 5.2. és 5.3. pontja szerinti költségvetési támogatásról a miniszter a Nemzeti Versenysport Szövetség szakmai javaslatára figyelemmel dönt.
+(6)[^95] A (2) bekezdés szerinti, és a versenysport fejlesztésére irányuló szakmai feladatok megvalósítását szolgáló költségvetési támogatásról a miniszter a Nemzeti Versenysport Szövetség szakmai javaslatára figyelemmel dönt.
+
+[^91]: A 37. § (1) bekezdés nyitó szövegrésze a 658/2023. (XII. 28.) Korm. rendelet 5. § 11. pontja szerint módosított szöveg.
+[^92]: A 37. § (2) bekezdése a 658/2023. (XII. 28.) Korm. rendelet 5. § 12. pontja szerint módosított szöveg.
+[^93]: A 37. § (4) bekezdése a 658/2023. (XII. 28.) Korm. rendelet 5. § 13. pontja szerint módosított szöveg.
+[^94]: A 37. § (5) bekezdés nyitó szövegrésze a 658/2023. (XII. 28.) Korm. rendelet 5. § 14. pontja szerint módosított szöveg.
+[^95]: A 37. § (6) bekezdése a 658/2023. (XII. 28.) Korm. rendelet 5. § 15. pontja szerint módosított szöveg.

@@ -1,3 +1,3 @@
-41. §[^88]
+41. §[^114]
 
-[^88]: A 41. § az 552/2022. (XII. 22.) Korm. rendelet 12. §-a alapján hatályát vesztette.
+[^114]: A 41. § az 552/2022. (XII. 22.) Korm. rendelet 12. §-a alapján hatályát vesztette.

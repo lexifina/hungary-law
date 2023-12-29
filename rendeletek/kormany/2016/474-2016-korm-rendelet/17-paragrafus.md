@@ -14,17 +14,17 @@
 
 6.[^39] természetes személy esetén születési nevét, anyja születési nevét, lakcímét, adóazonosító jelét, fizetési számlaszámát,
 
-7. a sportköztestületnek nyújtott működési célú költségvetési támogatás esetén a kedvezményezett költségvetését,
+7.[^40]
 
-8.[^40] a sportköztestületnek nyújtott működési célú költségvetési támogatás kivételével a felhasználás részletes leírását, azaz a tervezett program szakmai tervét és az 1. melléklet szerinti költségtervét,
+8.[^41] a sportköztestületnek nyújtott működési célú költségvetési támogatás kivételével a felhasználás részletes leírását, azaz a tervezett program szakmai és költségtervét,
 
 9. a támogatott tevékenységhez szükséges jogerős hatósági engedélyeket, az építésiengedély-köteles tevékenységekhez szükséges jogerős építésügyi hatósági engedély kivételével,
 
-10.[^41] építésiengedély-köteles tevékenység esetén a jogerős építési engedélyt – amennyiben arra a támogatási szerződés lehetőséget biztosít, legkésőbb a beruházás kivitelezésének megkezdéséhez szükséges támogatási részösszeg átutalásáig, annak feltételeként –, vagy építéshatósági vagy tervezői nyilatkozatot arról, hogy a beruházás nem építésiengedély-köteles,
+10.[^42] építésiengedély-köteles tevékenység esetén a jogerős építési engedélyt – amennyiben arra a támogatási szerződés lehetőséget biztosít, legkésőbb a beruházás kivitelezésének megkezdéséhez szükséges támogatási részösszeg átutalásáig, annak feltételeként –, vagy építéshatósági vagy tervezői nyilatkozatot arról, hogy a beruházás nem építésiengedély-köteles,
 
-11.[^42] beruházási célú költségvetési támogatás esetén – a támogatási szerződésben foglaltaknak megfelelően – a kedvezményezett, valamint a tulajdonos vagy – amennyiben van – a vagyonkezelő nyilatkozatát arról, hogy a 11a. pont szerint tizenöt évig vagy a 11b. pont szerint öt évig biztosítja a létesítmény támogatási szerződésben foglalt célú fenntartását, üzemeltetését,
+11.[^43] beruházási célú költségvetési támogatás esetén – a támogatási szerződésben foglaltaknak megfelelően – a kedvezményezett, valamint a tulajdonos vagy – amennyiben van – a vagyonkezelő nyilatkozatát arról, hogy a 11a. pont szerint tizenöt évig vagy a 11b. pont szerint öt évig biztosítja a létesítmény támogatási szerződésben foglalt célú fenntartását, üzemeltetését,
 
-11a.[^43] sportcélú ingatlanra irányuló építésiengedély-köteles tevékenységgel összefüggő felhalmozási célú költségvetési támogatás esetén – amennyiben arra a támogatási szerződés lehetőséget biztosít, legkésőbb a támogatás, vagy a támogatás első részletének kedvezményezett részére történő átutalásáig, annak feltételeként –:
+11a.[^44] sportcélú ingatlanra irányuló építésiengedély-köteles tevékenységgel összefüggő felhalmozási célú költségvetési támogatás esetén – amennyiben arra a támogatási szerződés lehetőséget biztosít, legkésőbb a támogatás, vagy a támogatás első részletének kedvezményezett részére történő átutalásáig, annak feltételeként –:
 
 a) a kedvezményezett nyilatkozatát arról, hogy a tárgyi eszköz üzembe helyezését követően tizenöt évig biztosítja a létesítmény támogatási szerződésben foglalt célú fenntartását, üzemeltetését,
 
@@ -38,7 +38,7 @@ bc) a használó vagy a kedvezményezett és a tulajdonos között létrejött, 
 
 bd) a használó vagy a kedvezményezett és a vagyonkezelő között létrejött, továbbá a vagyonkezelő és a tulajdonos között létrejött fenti feltételeket tartalmazó szerződést vagy egyéb jognyilatkozatot,
 
-11b.[^44] sportcélú ingatlanra irányuló nem építésiengedély-köteles tevékenységgel összefüggő felhalmozási célú költségvetési támogatás esetén – amennyiben arra a támogatási szerződés lehetőséget biztosít, legkésőbb a támogatás, vagy a támogatás első részletének kedvezményezett részére történő átutalásáig, annak feltételeként –:
+11b.[^45] sportcélú ingatlanra irányuló nem építésiengedély-köteles tevékenységgel összefüggő felhalmozási célú költségvetési támogatás esetén – amennyiben arra a támogatási szerződés lehetőséget biztosít, legkésőbb a támogatás, vagy a támogatás első részletének kedvezményezett részére történő átutalásáig, annak feltételeként –:
 
 a) a kedvezményezett nyilatkozatát arról, hogy a tárgyi eszköz üzembe helyezését követően öt évig biztosítja a létesítmény támogatási szerződésben foglalt célú fenntartását, üzemeltetését,
 
@@ -60,25 +60,25 @@ bd) a használó vagy a kedvezményezett és a vagyonkezelő között létrejöt
 
 15. a kedvezményezett nyilatkozatát arról, hogy a sportrendezvények biztonságáról szóló kormányrendeletben meghatározott, a sportrendezvények biztonságos lebonyolításával összefüggő kötelezettségeinek eleget tesz,
 
-16. a kedvezményezett igazolását arról, hogy a 32. § (3) bekezdés és a 38. § (2) bekezdés szerinti önrész rendelkezésére áll,
+16.[^46] a kedvezményezett igazolását arról, hogy a saját forrás – ha az előírásra került –, rendelkezésére áll,
 
 17. a kedvezményezett nyilatkozatát az 1407/2013/EU bizottsági rendelet szerinti csekély összegű (de minimis) támogatásról.
 
-18.[^45] beruházási célú költségvetési támogatás esetén a forrás felhasználására vonatkozó ütemtervet (negyedéves bontásban) tartalmazó kedvezményezetti nyilatkozatot.
+18.[^47] beruházási célú költségvetési támogatás esetén a forrás felhasználására vonatkozó ütemtervet (negyedéves bontásban) tartalmazó kedvezményezetti nyilatkozatot.
 
-(1a)[^46] Támogatási szerződés ötmilliárd forintot el nem érő összegű költségvetési támogatás esetén is köthető.
+(1a)[^48] Támogatási szerződés ötmilliárd forintot el nem érő összegű költségvetési támogatás esetén is köthető.
 
-(1b)[^47] Az (1) bekezdésben meghatározott dokumentumok – az (1) bekezdés 1–4. pontjában foglaltak kivételével – elektronikus úton is benyújthatóak.
+(1b)[^49] Az (1) bekezdésben meghatározott dokumentumok – az (1) bekezdés 1–4. pontjában foglaltak kivételével – elektronikus úton is benyújthatóak.
 
 (2) Az (1) bekezdés 6. pontjában meghatározott személyes adatok kedvezményezett részéről történő szolgáltatása önkéntes, de azok támogató részére való rendelkezésre bocsátása és a kezelésükhöz való hozzájárulás a költségvetési támogatás feltételét képezi.
 
-(2a)[^48] Az (1) bekezdés 11–11b. pontja szerinti tulajdonosi nyilatkozatot a tulajdonos a kedvezményezett kérelmének beérkezését követő 60 napon belül köteles a kedvezményezett részére kiadni vagy a kérelmet elutasítani. Ha a tulajdonos a kérelem beérkezését követő 60 napon belül nem válaszol a kedvezményezettnek, a tulajdonosi nyilatkozatot megadottnak kell tekinteni. A kedvezményezett ebben az esetben a tulajdonoshoz benyújtott kérelmének tértivevénnyel kézbesített másolatát, valamint a tulajdonos válaszának hiányáról büntetőjogi felelőssége tudatában tett nyilatkozatát csatolja a támogató felé.
+(2a)[^50] Az (1) bekezdés 11–11b. pontja szerinti tulajdonosi nyilatkozatot a tulajdonos a kedvezményezett kérelmének beérkezését követő 60 napon belül köteles a kedvezményezett részére kiadni vagy a kérelmet elutasítani. Ha a tulajdonos a kérelem beérkezését követő 60 napon belül nem válaszol a kedvezményezettnek, a tulajdonosi nyilatkozatot megadottnak kell tekinteni. A kedvezményezett ebben az esetben a tulajdonoshoz benyújtott kérelmének tértivevénnyel kézbesített másolatát, valamint a tulajdonos válaszának hiányáról büntetőjogi felelőssége tudatában tett nyilatkozatát csatolja a támogató felé.
 
-(3)[^49] A támogató a kedvezményezettet hiánypótlásra szólítja fel, ha a kedvezményezett nem nyújtja be a támogatási szerződés megkötéséhez szükséges dokumentumokat. Hiánypótlásra két alkalommal, az első felszólítás kézhezvételétől számított harminc napon belül, valamint a második felszólítás kézhezvételétől számított tizenöt napon belül van lehetőség, a határidő elmulasztása esetén igazolásnak nincs helye. A hiánypótlások időtartama a támogatási szerződés megkötésére meghatározott határidőbe nem számít bele.
+(3)[^51] A támogató a kedvezményezettet hiánypótlásra szólítja fel, ha a kedvezményezett nem nyújtja be a támogatási szerződés megkötéséhez szükséges dokumentumokat. Hiánypótlásra két alkalommal, az első felszólítás kézhezvételétől számított harminc napon belül, valamint a második felszólítás kézhezvételétől számított tizenöt napon belül van lehetőség, a határidő elmulasztása esetén igazolásnak nincs helye. A hiánypótlások időtartama a támogatási szerződés megkötésére meghatározott határidőbe nem számít bele.
 
-(4) A 32. § (2) bekezdése szerinti esetben a kezesi felelősséggel helytálló sportszövetségnek az (1) bekezdés 2. pontja szerinti dokumentumot, valamint a tartozás visszafizetése esetére az azonnali beszedési megbízás alkalmazására vonatkozó meghatalmazást kell csatolnia.
+(4)[^52] A 38/A. § (3) bekezdése szerinti esetben a kezesi felelősséggel helytálló sportszövetségnek az (1) bekezdés 2. pontja szerinti dokumentumot, valamint a tartozás visszafizetése esetére az azonnali beszedési megbízás alkalmazására vonatkozó meghatalmazást kell csatolnia.
 
-(5)[^50] A támogatási szerződés megkötésének feltétele, hogy a kedvezményezettnek esedékessé vált, és meg nem fizetett köztartozása nem áll fenn, és erről a kedvezményezett benyújtja a támogató részére a Nemzeti Adó- és Vámhivataltól (a továbbiakban: adóhatóság) származó vagy az adóhatóság által vezetett, jogszabállyal rendszeresített nyilvános és közhiteles nyilvántartásából lekérdezett harminc napnál nem régebbi igazolást.
+(5)[^53] A támogatási szerződés megkötésének feltétele, hogy a kedvezményezettnek esedékessé vált, és meg nem fizetett köztartozása nem áll fenn, és erről a kedvezményezett benyújtja a támogató részére a Nemzeti Adó- és Vámhivataltól (a továbbiakban: adóhatóság) származó vagy az adóhatóság által vezetett, jogszabállyal rendszeresített nyilvános és közhiteles nyilvántartásából lekérdezett harminc napnál nem régebbi igazolást.
 
 [^33]: A 7. alcím címe a 279/2018. (XII. 21.) Korm. rendelet 25. § a) pontja, az 552/2022. (XII. 22.) Korm. rendelet 25. § c) pontja szerint módosított szöveg.
 [^34]: A 17. § (1) bekezdés nyitó szövegrésze a 279/2018. (XII. 21.) Korm. rendelet 25. § b) pontja, az 552/2022. (XII. 22.) Korm. rendelet 25. § d) pontja szerint módosított szöveg.
@@ -87,14 +87,17 @@ bd) a használó vagy a kedvezményezett és a vagyonkezelő között létrejöt
 [^37]: A 17. § (1) bekezdés 3. pontja a 206/2019. (VIII. 23.) Korm. rendelet 17. § a) pontja, a 472/2020. (X. 29.) Korm. rendelet 18. § (1) bekezdés e) pontja szerint módosított szöveg.
 [^38]: A 17. § (1) bekezdés 4. pontja a 472/2020. (X. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított, az 552/2022. (XII. 22.) Korm. rendelet 24. § h) pontja szerint módosított szöveg.
 [^39]: A 17. § (1) bekezdés 6. pontja a 206/2019. (VIII. 23.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
-[^40]: A 17. § (1) bekezdés 8. pontja az 552/2022. (XII. 22.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^41]: A 17. § (1) bekezdés 10. pontja a 279/2018. (XII. 21.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^42]: A 17. § (1) bekezdés 11. pontja az 552/2022. (XII. 22.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
-[^43]: A 17. § (1) bekezdés 11a. pontját a 279/2018. (XII. 21.) Korm. rendelet 13. § (2) bekezdése iktatta be, szövege az 552/2022. (XII. 22.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
-[^44]: A 17. § (1) bekezdés 11b. pontját a 279/2018. (XII. 21.) Korm. rendelet 13. § (2) bekezdése iktatta be, szövege az 552/2022. (XII. 22.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
-[^45]: A 17. § (1) bekezdés 18. pontját az 552/2022. (XII. 22.) Korm. rendelet 7. § (4) bekezdése iktatta be.
-[^46]: A 17. § (1a) bekezdését a 206/2019. (VIII. 23.) Korm. rendelet 7. §-a iktatta be.
-[^47]: A 17. § (1b) bekezdését az 552/2022. (XII. 22.) Korm. rendelet 7. § (5) bekezdése iktatta be.
-[^48]: A 17. § (2a) bekezdését a 472/2020. (X. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
-[^49]: A 17. § (3) bekezdése a 279/2018. (XII. 21.) Korm. rendelet 13. § (3) bekezdésével megállapított szöveg.
-[^50]: A 17. § (5) bekezdése a 472/2020. (X. 29.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
+[^40]: A 17. § (1) bekezdés 7. pontját a 658/2023. (XII. 28.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte.
+[^41]: A 17. § (1) bekezdés 8. pontja az 552/2022. (XII. 22.) Korm. rendelet 7. § (2) bekezdésével megállapított, a 658/2023. (XII. 28.) Korm. rendelet 5. § 3. pontja szerint módosított szöveg.
+[^42]: A 17. § (1) bekezdés 10. pontja a 279/2018. (XII. 21.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^43]: A 17. § (1) bekezdés 11. pontja az 552/2022. (XII. 22.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^44]: A 17. § (1) bekezdés 11a. pontját a 279/2018. (XII. 21.) Korm. rendelet 13. § (2) bekezdése iktatta be, szövege az 552/2022. (XII. 22.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^45]: A 17. § (1) bekezdés 11b. pontját a 279/2018. (XII. 21.) Korm. rendelet 13. § (2) bekezdése iktatta be, szövege az 552/2022. (XII. 22.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^46]: A 17. § (1) bekezdés 16. pontja a 658/2023. (XII. 28.) Korm. rendelet 5. § 4. pontja szerint módosított szöveg.
+[^47]: A 17. § (1) bekezdés 18. pontját az 552/2022. (XII. 22.) Korm. rendelet 7. § (4) bekezdése iktatta be.
+[^48]: A 17. § (1a) bekezdését a 206/2019. (VIII. 23.) Korm. rendelet 7. §-a iktatta be.
+[^49]: A 17. § (1b) bekezdését az 552/2022. (XII. 22.) Korm. rendelet 7. § (5) bekezdése iktatta be.
+[^50]: A 17. § (2a) bekezdését a 472/2020. (X. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^51]: A 17. § (3) bekezdése a 279/2018. (XII. 21.) Korm. rendelet 13. § (3) bekezdésével megállapított szöveg.
+[^52]: A 17. § (4) bekezdése a 658/2023. (XII. 28.) Korm. rendelet 5. § 5. pontja szerint módosított szöveg.
+[^53]: A 17. § (5) bekezdése a 472/2020. (X. 29.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
