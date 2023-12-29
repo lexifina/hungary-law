@@ -2,7 +2,7 @@
 
 ## (Az Ebtv. 27. §-ához)
 
-12. § (1)[^300] Az Ebtv. 27. § (1) és (2) bekezdésében meghatározott esetekben a harmadik állam területén igénybe vett egészségügyi szolgáltatás és sürgősségi betegszállítás költségének megtérítésére vonatkozó kérelemhez csatolni kell a külföldi számlát vagy ennek másolatát, a számla hiteles fordítását és az annak kiegyenlítésére vonatkozó igazolást, továbbá ha a számlából nem állapítható meg az igénybe vett egészségügyi szolgáltatás, az erre vonatkozó igazolást vagy kórházi zárójelentést és ezek fordítását.
+12. § (1)[^300] Az Ebtv. 27. § (1) és (2) bekezdésében meghatározott esetekben a harmadik állam területén igénybe vett egészségügyi szolgáltatás és sürgősségi betegszállítás költségének megtérítésére vonatkozó kérelemhez csatolni kell a külföldi számlát, a számla fordítását és az annak kiegyenlítésére vonatkozó igazolást, továbbá ha a számlából nem állapítható meg az igénybe vett egészségügyi szolgáltatás, az erre vonatkozó igazolást vagy kórházi zárójelentést és ezek fordítását.
 
 (2)[^301]
 
@@ -18,7 +18,7 @@
 
 (8)[^307] A közszolgálati, kormányzati szolgálati, közalkalmazotti vagy egészségügyi szolgálati jogviszonyban álló tartósan harmadik állam területén foglalkoztatott biztosított, illetve a vele együtt ott tartózkodó eltartott házastársa, élettársa és gyermeke által a harmadik állam területén igénybe vett egészségügyi ellátás költségének megtérítése esetén megfelelően alkalmazni kell az (1) és (3) bekezdésben foglaltakat.
 
-(9)[^308] A (8) bekezdésben foglaltakat megfelelően alkalmazni kell abban az esetben is, ha a közszolgálati, kormányzati szolgálati, közalkalmazotti vagy egészségügyi szolgálati jogviszonyban álló tartósan valamely EGT tagállamban foglalkoztatott biztosított, illetve a vele együtt ott tartózkodó eltartott házastársa, élettársa és gyermeke az Ebtv. 27. §-ának (7) bekezdése alapján az indokoltan igénybe vett egészségügyi ellátás felmerült és igazolt költsége 85 százalékának megtérítését kéri.
+(9)[^308] A (8) bekezdésben foglaltakat megfelelően alkalmazni kell abban az esetben is, ha a közszolgálati, kormányzati szolgálati, közalkalmazotti vagy egészségügyi szolgálati jogviszonyban álló tartósan valamely EGT tagállamban foglalkoztatott biztosított, illetve a vele együtt ott tartózkodó eltartott házastársa, élettársa és gyermeke az Ebtv. 27. §-ának (7) bekezdése alapján az indokoltan igénybe vett egészségügyi ellátás felmerült és igazolt költsége 100 százalékának megtérítését kéri.
 
 (10)[^309] Az egészségügyi ellátás az Ebtv. 27. §-ának (4) bekezdésében foglaltak mellett akkor tekinthető indokoltnak, ha
 
@@ -28,15 +28,21 @@ b) a külföldi ellátás költsége nem haladja meg a belföldi ellátás, vala
 
 c) a haza- és visszaszállítás – a sürgős szükség esetét nem kimerítve – a biztosított állapotában rosszabbodást okoz.
 
-(11)[^310] Az Ebtv. 27. §-ának (5) bekezdése szerinti költségek megtérítése, továbbá, amennyiben az arra jogosult az Ebtv. 27. §-ának (7) bekezdésében biztosított választási lehetőségével élve az általa indokoltan igénybe vett egészségügyi ellátás felmerült és igazolt költsége 85 százalékának megtérítését kéri, annak megtérítése is a Budapest Főváros Kormányhivatala kizárólagos hatáskörébe tartozik. A megtérítési igény érvényesítésére a foglalkoztató Budapest Főváros Kormányhivatalával megállapodást köthet.
+(11)[^310] Budapest Főváros Kormányhivatala kizárólagos hatáskörébe tartozik
 
-(12)[^311] A Budapest Főváros Kormányhivatala az igazolt költség 85 százalékát a szolgáltatás igénybevételekor érvényes, a Magyar Nemzeti Bank által közzétett középárfolyamon számított forintösszeg alapulvételével téríti meg.
+a) az Ebtv. 27. § (5) bekezdése szerinti költségek, továbbá
+
+b) az Ebtv. 27. § (7) bekezdésében biztosított választási lehetőséggel élő kérelmére az általa indokoltan igénybe vett egészségügyi ellátás felmerült és igazolt költség 100 százalékának
+
+a megtérítése. A megtérítési igény érvényesítésére a foglalkoztató Budapest Főváros Kormányhivatalával megállapodást köthet. Tervezett ellátást kizárólag a NEAK előzetes engedélyének birtokában lehet igénybe venni és utólagosan megtéríttetni.
+
+(12)[^311] A Budapest Főváros Kormányhivatala az igazolt költség 100 százalékát a szolgáltatás igénybevételekor érvényes, a Magyar Nemzeti Bank által közzétett középárfolyamon számított forintösszeg alapulvételével téríti meg.
 
 (13)[^312]
 
 (14)[^313] Az Ebtv. 27. §-ának (10) bekezdése alapján történő engedélyezés során a NEAK az ellátásra szoruló betegségének súlyosságát, az egészségügyi ellátás jellegét és várható időtartamát mérlegeli.
 
-[^300]: A Vhr. 12. § (1) bekezdése a 172/2016. (VII. 1.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^300]: A Vhr. 12. § (1) bekezdése a 172/2016. (VII. 1.) Korm. rendelet 6. §-ával megállapított, a 659/2023. (XII. 28.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
 [^301]: A Vhr. 12. §-ának (2) bekezdését a 111/2004. (IV. 28.) Korm. rendelet 9. §-ának (3) bekezdése hatályon kívül helyezte.
 [^302]: A Vhr. 12. § (3) bekezdése a 113/2005. (VI. 25.) Korm. rendelet 13. § (2) bekezdésével megállapított, valamint a 182/2009. (IX. 10.) Korm. rendelet 129. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^303]: A Vhr. 12. § új (4) bekezdését a 113/2005. (VI. 25.) Korm. rendelet 13. § (3) bekezdése iktatta be, szövege a 325/2011. (XII. 28.) Korm. rendelet 10. § (2) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
@@ -44,9 +50,9 @@ c) a haza- és visszaszállítás – a sürgős szükség esetét nem kimerítv
 [^305]: A Vhr. 12. §-a eredeti (5) bekezdésének számozását (6) bekezdésre változtatta a 113/2005. (VI. 25.) Korm. rendelet 13. § (3) bekezdése, szövegét e módosító rendelet 13. § (4) bekezdése állapította meg. A Vhr. 12. § (6) bekezdése a 339/2013. (IX. 25.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
 [^306]: A Vhr. 12. §-ának új (6) bekezdését a 203/1999. (XII. 26.) Korm. rendelet 4. §-a iktatta be, mely az eredeti (6)–(9) bekezdések számozását (7)–(10) bekezdésre változtatta; a (6) bekezdés számozását (7) bekezdésre változtatta a 113/2005. (VI. 25.) Korm. rendelet 13. § (3) bekezdése, szövege a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
 [^307]: A Vhr. 12. §-ának (7) – eredeti (6) – bekezdését a 232/1998. (XII. 30.) Korm. rendelet 5. §-ának (2) bekezdése iktatta be, számozását (8) bekezdésre változtatta a 113/2005. (VI. 25.) Korm. rendelet 13. § (3) bekezdése, szövege e módosító rendelet 13. § (5) bekezdésével megállapított szöveg. A Vhr. 12. § (8) bekezdése a 217/2016. (VII. 22.) Korm. rendelet 7. § a) pontja, a 102/2019. (V. 6.) Korm. rendelet 2. § b) pontja, az 529/2020. (XI. 28.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
-[^308]: A Vhr. 12. §-ának új (9) bekezdését a 113/2005. (VI. 25.) Korm. rendelet 13. § (6) bekezdése iktatta be, egyidejűleg a korábbi (9)–(13) bekezdés számozását (10)–(14) bekezdésre változtatva. A Vhr. 12. § (9) bekezdése a 217/2016. (VII. 22.) Korm. rendelet 7. § b) pontja, a 102/2019. (V. 6.) Korm. rendelet 2. § b) pontja, az 529/2020. (XI. 28.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^308]: A Vhr. 12. §-ának új (9) bekezdését a 113/2005. (VI. 25.) Korm. rendelet 13. § (6) bekezdése iktatta be, egyidejűleg a korábbi (9)–(13) bekezdés számozását (10)–(14) bekezdésre változtatva. A Vhr. 12. § (9) bekezdése a 217/2016. (VII. 22.) Korm. rendelet 7. § b) pontja, a 102/2019. (V. 6.) Korm. rendelet 2. § b) pontja, az 529/2020. (XI. 28.) Korm. rendelet 1. § c) pontja, a 659/2023. (XII. 28.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
 [^309]: A Vhr. 12. § (8) – eredeti (7) – bekezdését a 232/1998. (XII. 30.) Korm. rendelet 5. § (2) bekezdése iktatta be, felvezető mondata a 111/2004. (IV. 28.) Korm. rendelet 9. § (4) bekezdésének e) pontja szerint módosított szöveg, számozását (10) bekezdésre változtatta a 113/2005. (VI. 25.) Korm. rendelet 13. § (6) bekezdése.
-[^310]: A Vhr. 12. § (9) bekezdése a 281/2004. (X. 20.) Korm. rendelet 8. § (1) bekezdésével megállapított, a 366/2010. (XII. 30.) Korm. rendelet 14. § 15. pontja, a 360/2019. (XII. 30.) Korm. rendelet 13. § (6) bekezdés c) és d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^311]: A Vhr. 12. § (10) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 129. §-a, a 366/2010. (XII. 30.) Korm. rendelet 14. § 16. pontja, a 360/2019. (XII. 30.) Korm. rendelet 13. § (6) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^310]: A Vhr. 12. § (11) bekezdése a 659/2023. (XII. 28.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^311]: A Vhr. 12. § (12) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 129. §-a, a 366/2010. (XII. 30.) Korm. rendelet 14. § 16. pontja, a 360/2019. (XII. 30.) Korm. rendelet 13. § (6) bekezdés c) pontja, a 659/2023. (XII. 28.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
 [^312]: A Vhr. 12. §-ának (11) bekezdését a 111/2004. (IV. 28.) Korm. rendelet 3. §-ának (3) bekezdése iktatta be, számozását (13) bekezdésre változtatta a 113/2005. (VI. 25.) Korm. rendelet 13. § (6) bekezdése. A Vhr. 12. § (13) bekezdését a 339/2013. (IX. 25.) Korm. rendelet 6. § b) pontja hatályon kívül helyezte.
 [^313]: A Vhr. 12. § (12) bekezdését a 281/2004. (X. 20.) Korm. rendelet 8. §-ának (2) bekezdése iktatta be, számozását (14) bekezdésre változtatta a 113/2005. (VI. 25.) Korm. rendelet 13. § (6) bekezdése, szövege a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
