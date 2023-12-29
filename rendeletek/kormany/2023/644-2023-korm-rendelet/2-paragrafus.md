@@ -1,7 +1,5 @@
-## „m) a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv, a Miniszterelnöki Kormányiroda, a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv irányítása vagy felügyelete alá tartozó központi, területi és helyi költségvetési szerv vagy intézmény, és a Magyar Nemzeti Bank, illetve a Magyar Nemzeti Banknak a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 8:2. §-a szerinti többségi befolyása alatt álló, továbbá a légiközlekedésről szóló 1995. évi XCVII. törvény 45. § (6) bekezdése szerinti gazdasági társaság kivételével azon állami tulajdonú gazdasági társaság, amelyben az állam a Ptk. 8:2. §-a szerinti többségi befolyást gyakorol, valamint a Kormány által alapított, illetve a Kormány vagy a Kormány tagja alapítói joggyakorlása alá tartozó alapítvány és közalapítvány részére biztosítja az 1. melléklet II. pont, 3.2.1. alpontjában meghatározott szolgáltatásokat.”
-
 ## 2. Az állami beruházások központi nyilvántartásáról és ellenőrzéséről, valamint az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet módosításáról szóló 469/2016. (XII. 23.) Korm. rendelet módosítása
 
-2. § Az állami beruházások központi nyilvántartásáról és ellenőrzéséről, valamint az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet módosításáról szóló 469/2016. (XII. 23.) Korm. rendelet 1. § (2) bekezdése helyébe a következő rendelkezés lép:
+2. §[^3]
 
-„(2) E rendelet hatálya nem terjed ki a minősített adat védelméről szóló 2009. évi CLV. törvény 3. § 1. pontja szerinti adatot tartalmazó, továbbá a honvédelmi, katonai, valamint nemzetbiztonsági célú és rendeltetésű építményeket érintő, valamint a légiközlekedésről szóló 1995. évi XCVII. törvény 45. § (6) bekezdése szerinti gazdasági társaság által megvalósított beruházásokra.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
