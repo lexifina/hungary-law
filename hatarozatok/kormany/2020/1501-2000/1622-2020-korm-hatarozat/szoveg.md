@@ -4,7 +4,7 @@ A Kormány a Nemzeti Köznevelési Infrastruktúra Fejlesztési Program II. üte
 
 2. egyetért azzal, hogy a Beruházás keretében létrejövő vagyonelemek a Dunakeszi Tankerületi Központ vagyonkezelésébe kerüljenek;
 
-3.[^1] a Beruházás előkészítése és megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 446 660 094 forintban határozza meg;
+3.[^1] a Beruházás előkészítése és megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 463 034 475 forintban határozza meg;
 
 4. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy gondoskodjon a 3. pont szerinti összeg 2020. évi részének finanszírozása érdekében 6 096 000 forint rendelkezésre állásáról a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XLV. Kiemelt kormányzati magasépítési beruházások fejezet, 2. Programszerű magasépítési beruházások cím, 2. Tanterem fejlesztések előkészítése és megvalósítása alcímen;
 
@@ -20,4 +20,4 @@ pénzügyminiszter
 
 Határidő: a felmerülés ütemében
 
-[^1]: A 3. pont az 1432/2023. (X. 5.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^1]: A 3. pont az 1619/2023. (XII. 29.) Korm. határozat 4. pontja szerint módosított szöveg.
