@@ -2,9 +2,9 @@
 
 5. § (1)[^6] Külföldi gyógykezelésre irányuló kérelem benyújtása esetén a NEAK a kérelem beérkezésétől számított 8 napon belül megvizsgálja, hogy az ellátás Magyarországon a társadalombiztosításba befogadott-e.
 
-(2)[^7] Ha az ellátás a társadalombiztosításba befogadott, a NEAK további 15 napon belül megvizsgálja, hogy a beteget Magyarországon a kérelemben megjelölt orvosilag indokolt időn belül el tudja-e látni közfinanszírozott egészségügyi szolgáltató. Ha szükséges, a NEAK szakértő igénybevételével a kérelemben feltüntetett adatokat felülvizsgálja.
+(2)[^7] Ha az ellátás a társadalombiztosításba befogadott, a NEAK további 15 napon belül megvizsgálja, hogy a beteget Magyarországon a kérelemben megjelölt orvosilag indokolt időn belül el tudja-e látni közfinanszírozott egészségügyi szolgáltató. Ha szükséges, a NEAK szakértő igénybevételével a kérelemben feltüntetett adatokat felülvizsgálja; a szakértő az orvosszakmai véleményét a dokumentumok beérkezésétől számított 15 napon belül adja meg.
 
-(3)[^8] Ha a külföldi gyógykezelésre jogosult személyt Magyarországon közfinanszírozott egészségügyi szolgáltató el tudja látni a kérelemben megjelölt orvosilag indokolt időn belül, a NEAK elutasítja a kérelmet, és javaslatot tesz a hazai közfinanszírozott egészségügyi szolgáltatóra. A NEAK előzetesen tájékozódik a hazai közfinanszírozott egészségügyi szolgáltató fogadókészségéről.
+(3)[^8] Ha a külföldi gyógykezelésre jogosult személyt Magyarországon közfinanszírozott egészségügyi szolgáltató el tudja látni a kérelemben megjelölt orvosilag indokolt időn belül, a NEAK elutasítja a kérelmet, és javaslatot tesz a hazai közfinanszírozott egészségügyi szolgáltatóra. A NEAK előzetesen tájékozódik a hazai közfinanszírozott egészségügyi szolgáltató fogadókészségéről, kivéve a területi ellátási kötelezettséggel rendelkező egészségügyi szolgáltatót.
 
 (4)[^9] Ha az ellátás orvosilag indokolt időn belül hazai közfinanszírozott egészségügyi szolgáltatónál nem biztosítható, a NEAK megvizsgálja, hogy a kérelemben a beteg által megjelölt szolgáltatónál az ellátás biztosítható-e. Ennek keretében a NEAK vizsgálhatja az ellátás minőségét és biztonságát, illetve figyelembe veszi a költséghatékonysági szempontokat is. A költséghatékonysági szempontoknak akkor felel meg a külföldi egészségügyi szolgáltató, ha az ellátás költsége az ellátásra vonatkozó magyarországi belföldi költség mértékét jelentősen nem haladja meg. A költségmérték jelentős meghaladásának kell tekinteni, ha a költség több mint 30%-kal haladja meg az ellátásra vonatkozó magyarországi belföldi költség mértékét.
 
@@ -15,8 +15,8 @@
 (7)[^12] Az e § szerinti külföldi gyógykezelés megtérítésére az uniós rendeletek szabályai szerint kerül sor. A külföldi gyógykezelés költségei kötelezően meg nem térítendő részére vonatkozóan, ideértve az utazás és a kísérő költségeit is, a NEAK – a beteg kérésének és a kezelőorvos javaslatának a figyelembevételével – méltányosságból támogatást nyújthat.
 
 [^6]: Az 5. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^7]: Az 5. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés e) pontja szerint módosított szöveg.
-[^8]: Az 5. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés c) és f) pontja szerint módosított szöveg.
+[^7]: Az 5. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés e) pontja, a 659/2023. (XII. 28.) Korm. rendelet 45. § a) pontja szerint módosított szöveg.
+[^8]: Az 5. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés c) és f) pontja, a 659/2023. (XII. 28.) Korm. rendelet 45. § b) pontja szerint módosított szöveg.
 [^9]: Az 5. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés e) pontja szerint módosított szöveg.
 [^10]: Az 5. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés c) és f) pontja szerint módosított szöveg.
 [^11]: Az 5. § (6) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés c) pontja szerint módosított szöveg.

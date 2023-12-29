@@ -1,6 +1,6 @@
 ## 7. Adatgyűjtés
 
-## 17. §[^41] A NEAK a külföldi gyógykezelésekkel összefüggésben a következő adatok gyűjtéséről gondoskodik:
+## 17. §[^42] A NEAK a külföldi gyógykezelésekkel összefüggésben a következő adatok gyűjtéséről gondoskodik:
 
 a) benyújtott kérelmek száma, ellátások szerinti bontásban (OENO-kód szerint), valamint az 5. §, a 7. § és a 9. § szerinti bontásban,
 
@@ -14,9 +14,9 @@ e) az ETT felülvizsgálati kérelmet támogató vagy elutasító döntéseinek 
 
 f) a 7. § (3) bekezdése szerinti megtérítések száma,
 
-g)[^42] a 8. § (4) bekezdése szerint benyújtott kérelmek száma és tárgya, valamint a 8. § szerinti megtérítések száma, és
+g)[^43] a 8. § (4) bekezdése szerint benyújtott kérelmek száma és tárgya, valamint a 8. § szerinti megtérítések száma, és
 
 h) a 9. § (7) és (8) bekezdése szerinti megtérítések száma.
 
-[^41]: A 17. § nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés f) pontja szerint módosított szöveg.
-[^42]: A 17. § g) pontja a 413/2015. (XII. 23.) Korm. rendelet 70. § b) pontja szerint módosított szöveg.
+[^42]: A 17. § nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^43]: A 17. § g) pontja a 413/2015. (XII. 23.) Korm. rendelet 70. § b) pontja szerint módosított szöveg.

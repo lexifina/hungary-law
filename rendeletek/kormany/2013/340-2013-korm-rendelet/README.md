@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-340-20-
 | 2020-07-02 | 2013-340-20-22.14 | 316/2020. (VII. 1.) Korm. rendelet |
 | 2021-01-01 | 2013-340-20-22.15 | 516/2020. (XI. 25.) Korm. rendelet |
 | 2023-01-01 | 2013-340-20-22.16 | 360/2019. (XII. 30.) Korm. rendelet |
+| 2023-12-29 | 2013-340-20-22.17 | 379/2016. (XII. 2.) Korm. rendelet |

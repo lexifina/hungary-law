@@ -108,8 +108,8 @@
 
 ## A kérelem benyújtójának aláírása
 
-3. melléklet a 340/2013. (IX. 25.) Korm. rendelethez[^53]
+3. melléklet a 340/2013. (IX. 25.) Korm. rendelethez[^54]
 
 Külföldi gyógykezelés az uniós rendeletek alapján – bírálati lap
 
-[^53]: A 3. melléklet a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés i)–k) pontja szerint módosított szöveg.
+[^54]: A 3. melléklet a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés i)–k) pontja szerint módosított szöveg.
