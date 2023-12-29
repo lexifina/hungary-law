@@ -1,0 +1,1 @@
+1. § E rendelet hatálya – az állami sportcélú támogatások kivételével – a Magyarország központi költségvetéséről szóló törvény 1. melléklet XIII. Honvédelmi Minisztérium fejezetébe sorolt központi kezelésű kiadási előirányzatokra (a továbbiakban: előirányzatok) terjed ki.
