@@ -2,11 +2,11 @@
 
 2. § (1)[^2] A (2) bekezdésben foglalt eltérésekkel a 649/2012/EU rendeletben előírt igazgatási feladatok végrehajtására a Kormány nemzeti hatóságként
 
-a)[^3] a növényvédő szerek és termésnövelő anyagok esetében a Nemzeti Élelmiszerlánc-biztonsági Hivatalt, növény- és talajvédelmi jogkörében,
+a)[^3] a 649/2012/EU rendelet szerinti növényvédő szerként használt peszticidek esetében a Nemzeti Élelmiszerlánc-biztonsági Hivatalt, növény- és talajvédelmi jogkörében,
 
-b)[^4] az ipari vegyi anyagok és készítmények esetében az országos tisztifőorvost
+b)[^4] a 649/2012/EU rendelet szerinti ipari vegyi anyagok és egyéb peszticidek esetében az országos tisztifőorvost
 
-## jelöli ki.
+jelöli ki.
 
 (2)[^5] A 649/2012/EU rendelet 18. és 19. cikkében előírt ellenőrzési funkciók végrehajtására a Kormány
 
@@ -14,9 +14,9 @@ a)[^6] a termékek harmadik országba történő kivitelének és onnan történ
 
 b)[^7] az a) pontban foglaltak kivételével a termékek harmadik országba történő kivitelének és onnan történő behozatalának ellenőrzése, valamint a végrehajtás belföldi ellenőrzése tekintetében fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalát (a továbbiakban: járási hivatal)
 
-## jelöli ki.
+jelöli ki.
 
-(3)[^8] A 649/2012/EU rendelet hatálya alá tartozó áru behozatala esetén a (2) bekezdés a) pontja szerinti feladatkörében a Nemzeti Adó és Vámhivatal illetékes szerve ellenőrzi a behozatalt lehetővé tevő határozat meglétét.
+(3)[^8] A 649/2012/EU rendelet I. melléklet 1.3. részében feltüntetett anyagot, vagy ilyen anyagot tartalmazó áru behozatala esetén a (2) bekezdés a) pontja szerinti feladatkörében a Nemzeti Adó és Vámhivatal illetékes szerve ellenőrzi a behozatalt lehetővé tevő határozat meglétét.
 
 (4)[^9] Ha a Nemzeti Adó és Vámhivatal illetékes szerve a (3) bekezdés szerinti ellenőrzés során a 649/2012/EU rendelet szerinti, a behozatalt lehetővé tevő határozat hiányát állapítja meg vagy valószínűsíti, az árut feltartóztatja, és erről a megfelelő eljárás lefolytatása érdekében haladéktalanul értesíti az az ellenőrzés helye szerint illetékes járási hivatalt. Az ilyen árut átmeneti megőrzés alatt álló árunak kell tekinteni.
 
@@ -34,12 +34,12 @@ b) a vámáru-nyilatkozat alapján ellenőrzi a kiviteli bejelentés megtételé
 
 [^1]: Az 1. § a 447/2012. (XII. 29.) Korm. rendelet 74. § a) és b) pontja szerint módosított szöveg.
 [^2]: A 2. § (1) bekezdés nyitó szövegrésze a 447/2012. (XII. 29.) Korm. rendelet 74. § c) pontja szerint módosított szöveg.
-[^3]: A 2. § (1) bekezdés a) pontja a 351/2010. (XII. 30.) Korm. rendelet 243. § (1) bekezdésével megállapított, a 23/2012. (II. 29.) Korm. rendelet 44. §-a szerint módosított szöveg.
-[^4]: A 2. § (1) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 134. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdés a) pontja a 351/2010. (XII. 30.) Korm. rendelet 243. § (1) bekezdésével megállapított, a 23/2012. (II. 29.) Korm. rendelet 44. §-a, a 659/2023. (XII. 28.) Korm. rendelet 30. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § (1) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 134. § (2) bekezdés a) pontja, a 659/2023. (XII. 28.) Korm. rendelet 30. § b) pontja szerint módosított szöveg.
 [^5]: A 2. § (2) bekezdés nyitó szövegrésze a 447/2012. (XII. 29.) Korm. rendelet 74. § c) és d) pontja szerint módosított szöveg.
 [^6]: A 2. § (2) bekezdés a) pontja a 486/2015. (XII. 29.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
 [^7]: A 2. § (2) bekezdés b) pontja a 351/2010. (XII. 30.) Korm. rendelet 243. § (2) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 134. § a) pontja szerint módosított szöveg.
-[^8]: A 2. § (3) bekezdése a 447/2012. (XII. 29.) Korm. rendelet 74. § c) pontja, a 486/2015. (XII. 29.) Korm. rendelet 24. § b) pontja szerint módosított szöveg.
+[^8]: A 2. § (3) bekezdése a 447/2012. (XII. 29.) Korm. rendelet 74. § c) pontja, a 486/2015. (XII. 29.) Korm. rendelet 24. § b) pontja, a 659/2023. (XII. 28.) Korm. rendelet 30. § c) pontja szerint módosított szöveg.
 [^9]: A 2. § (4) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 243. § (2) bekezdése, a 447/2012. (XII. 29.) Korm. rendelet 74. § c) pontja, a 70/2015. (III. 30.) Korm. rendelet 134. § b) pontja, a 486/2015. (XII. 29.) Korm. rendelet 24. § b) pontja szerint módosított szöveg.
 [^10]: A 2. § (5) bekezdés nyitó szövegrésze a 447/2012. (XII. 29.) Korm. rendelet 74. § c) pontja, a 486/2015. (XII. 29.) Korm. rendelet 24. § b) pontja szerint módosított szöveg.
 [^11]: A 2. § (5) bekezdés a) pontja a 447/2012. (XII. 29.) Korm. rendelet 74. § e) pontja, a 486/2015. (XII. 29.) Korm. rendelet 24. § b) pontja szerint módosított szöveg.
