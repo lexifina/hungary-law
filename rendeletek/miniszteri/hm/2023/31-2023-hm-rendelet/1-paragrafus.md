@@ -1,1 +1,3 @@
-1. § A ruházati ellátásról szóló 20/2013. (IX. 16.) HM rendelet 21. § (12) bekezdésében a „Magyar Honvédség Parancsnoksága Logisztikai és Gazdálkodási Csoportfőnökség csoportfőnökének” szövegrész helyébe a „Honvéd Vezérkar főnöke által kijelölt vezető” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
