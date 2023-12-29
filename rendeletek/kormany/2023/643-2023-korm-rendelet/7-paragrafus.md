@@ -1,0 +1,1 @@
+7. § Az R2. 2. §-ában az „az kultúráért és innovációért felelős miniszter mint a Kormány vállalkozásfejlesztésért felelős tagjának” szövegrész helyébe az „a vállalkozásfejlesztésért felelős miniszter” szöveg lép.

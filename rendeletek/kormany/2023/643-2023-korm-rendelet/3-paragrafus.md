@@ -1,0 +1,1 @@
+3. § Az R1. 1. § (1) bekezdés a) pontjában az „az elkülönített állami pénzalap és a központi költségvetésben meghatározott célelőirányzat kezelője” szövegrész helyébe az „a központi költségvetés kis- és középvállalkozásoknak támogatást nyújtó fejezetének irányítója” szöveg lép.
