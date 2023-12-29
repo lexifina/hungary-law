@@ -1,4 +1,4 @@
-## 53/A. §[^102] A temetkezési szolgáltató az eltemettetésre kötelezett személy megbízása alapján az elhalálozással kapcsolatosan az egészségügyi intézmény, valamint az állami és önkormányzati szervek előtt az eltemettetésre kötelezett személy képviseletében a következő ügyekben járhat el:
+## 53/A. §[^103] A temetkezési szolgáltató az eltemettetésre kötelezett személy megbízása alapján az elhalálozással kapcsolatosan az egészségügyi intézmény, valamint az állami és önkormányzati szervek előtt az eltemettetésre kötelezett személy képviseletében a következő ügyekben járhat el:
 
 a) halottvizsgálati bizonyítvány átvétele,
 
@@ -20,4 +20,4 @@ i) temetőn, temetkezési emlékhelyen kívüli ravatalozás engedélyezése,
 
 j) 15 napon túli temetés engedélyezése.
 
-[^102]: Az 53/A. §-t a 441/2016. (XII. 16.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+[^103]: Az 53/A. §-t a 441/2016. (XII. 16.) Korm. rendelet 4. § (1) bekezdése iktatta be.
