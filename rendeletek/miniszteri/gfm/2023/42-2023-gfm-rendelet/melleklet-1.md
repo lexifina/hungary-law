@@ -1,13 +1,3 @@
-1. melléklet a 42/2023. (XII. 27.) GFM rendelethez
+1. melléklet a 42/2023. (XII. 27.) GFM rendelethez[^4]
 
-A Rendelet 1. melléklet XII. pontjában foglalt táblázat a következő 12. sorral egészül ki:
-
-|  | (A | B | C |
-
-|  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége) |
-
-„
-
-| 12. | Nemzeti Üzleti Szolgáltató Zártkörűen Működő Részvénytársaság | 01-10-141870 | 2026. december 31. |
-
-”
+[^4]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
