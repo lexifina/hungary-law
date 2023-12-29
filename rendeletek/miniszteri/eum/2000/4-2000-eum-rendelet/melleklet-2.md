@@ -1,86 +1,80 @@
-## --------------
+|  | A | B |
 
-## Megnevezés Raktári szám
+| 1. | Megnevezés | Raktári szám |
 
-## --------------
+| 2. | Egészségügyi személyi lap (pótlap) | A.3510-170 |
 
-## Egészségügyi személyi lap (pótlap) A.3510–170
+| 3. | Ápolási dokumentáció | A.3510-271 |
 
-## Ápolási dokumentáció A.3510–271
+| 4. | Gyermek-egészségügyi törzslap | C.3341-24/a |
 
-## Gyermek-egészségügyi törzslap C.3341–24/a
+| 5. | Fertőzőbeteg nyilvántartás | C.3337-21 |
 
-## Fertőzőbeteg nyilvántartás C.3337–21
+| 6. | Védőoltási kimutatás | C.3334-5 |
 
-## Védőoltási kimutatás C.3334–5
+| 7. | Kimutatás iskoláskorú gyermekek védőoltásáról | C.3334-19 |
 
-## Kimutatás iskoláskorú gyermekek védőoltásáról C.3334–19
+| 8. | Kimutatás ................ betegség megelőzése céljából végzett védőoltásokról | C.3334-20 |
 
-## Kimutatás ...... betegség megelőzése céljából végzett védőoltásokról C.3334–20
+| 9. | Terhesgondozási jegyzék | C.Sz 3341-29 |
 
-## Terhesgondozási jegyzék C.Sz 3341–29
+| 10. | Terhesgondozási összesítő | C.3341-50 |
 
-## Terhesgondozási összesítő C.3341–50
+| 11. | Körzeti gyermekorvosi munka forgalmi összesítője | C.3341-13/b |
 
-## Körzeti gyermekorvosi munka forgalmi összesítője C.3341–13/b
+| 12. | Halottvizsgálati bizonyítvány | C.3110-49 |
 
-## Halottvizsgálati bizonyítvány C.3110–49
+| 13. | Lábcédula | C.3410-14/b |
 
-## Lábcédula C.3410–14/b
+| 14. | Fertőzőbeteg bejelentés | C.3337-19 |
 
-## Fertőzőbeteg bejelentés C.3337–19
+| 15. | Fertőzőbeteg kijelentés | C.3337-20 |
 
-## Fertőzőbeteg kijelentés C.3337–20
+| 16. | Orvosi beutalás – javaslat – igazolás | A.3510-64 |
 
-## Orvosi beutalás – javaslat – igazolás A.3510–64
+| 17. | Nemzeti Egészségbiztosítási Alapkezelő vénye | – |
 
-## Nemzeti Egészségbiztosítási Alapkezelő vénye
+| 18. | Beutaló szakrendelésre (konzílium) felülvéleményezésre | A.3510-65 |
 
-## Beutaló szakrendelésre (konzílium) felülvéleményezésre A.3510–65
+| 19. | Beutaló fekvőbeteg-gyógyintézetbe | A.3510-89 |
 
-## Beutaló fekvőbeteg-gyógyintézetbe A.3510–89
+| 20. | Betegszállítási utalvány | A.3510-40 |
 
-## Betegszállítási utalvány A.3510–40
+| 21. | Útiköltség igazolvány | A.3510-128/b |
 
-## Útiköltség igazolvány A.3510–128/b
+| 22. | Oltási lap | C.3334-18 |
 
-## Látlelet A.3510–274
+| 23. | Gyógyszer, vegyszer, kötszer igénylőtömb | C.3410-254/a |
 
-## Oltási lap C.3334–18
+| 24. | Kézbesítő könyv | 3230-29 |
 
-## Gyógyszer, vegyszer, kötszer igénylőtömb C.3410–254/a
+| 25. | Ellenőrző napló | C.5200-6 |
 
-## Kézbesítő könyv 3230–29
+| 26. | Iktatókönyv | – |
 
-## Ellenőrző napló C.5200–6
+| 27. | Gyermek-egészségügyi kiskönyv | C.3341-49 |
 
-## Iktatókönyv
+| 28. | Egészségügyi Könyv | C.3341-49/új[^*] |
 
-## Gyermekegészségügyi kiskönyv C.3341–49
+| 29. | Iskolások egészségügyi törzslapja | A. Tü 13 |
 
-## Egészségügyi Könyv C.3341-49/új*
+| 30. | Orvosi igazolás a keresőképtelen (terhességi) állományba vételről | A.3510-140/a |
 
-## Iskolások egészségügyi törzslapja A. Tü 13
+| 31. | Orvosi napló a keresőképtelenek nyilvántartására | A.3510-172 |
 
-## Orvosi igazolás a keresőképtelen (terhességi) állományba vételről A.3510–140/a
+| 32. | Orvosi igazolás és táppénzutalvány | A.3517-25 |
 
-## Orvosi napló a keresőképtelenek nyilvántartására A.3510–172
+| 33. | Bejelentés foglalkozási megbetegedésről (mérgezésről) | C.3160-1 |
 
-## Orvosi igazolás és táppénzutalvány A.3517–25
+| 34. | Mérgezési eset bejelentőlap | C.3165-10 |
 
-## Bejelentés foglalkozási megbetegedésről (mérgezésről) C.3160–1
+| 35. | Magasabb összegű családi pótlék igazolás | A.3520-34 RF/A |
 
-## Mérgezési eset bejelentőlap C.3165–10
+| 36. | Alkalmassági vélemény a gépjárművezető-jelölt gépjárművezető egészségi alkalmasságról | A.3510-265/N |
 
-## Magasabb összegű családi pótlék igazolás A.3520–34 RF/A
+| 37. | Orvosi beutaló az orvosszakértői szervhez és a rehabilitációs szakértői szervhez, a munkaképesség-változás, a fogyatékosság véleményezése és a keresőképesség felülbírálata céljából | A.3510-90 |
 
-## Alkalmassági vélemény a gépjárművezető-jelölt gépjárművezető egészségi alkalmasságról A.3510–265/N
-
-## Orvosi beutaló az orvosszakértői szervhez és a rehabilitációs szakértői szervhez, a munkaképesség-változás, a fogyatékosság véleményezése és a keresőképesség felülbírálata céljából A. 3510–90
-
-## Külön jogszabály szerinti adatlap a fejlődési szint megítéléséhez az iskolai felkészítés elősegítésére
-
-## *2009. szeptember 1-je után született gyermekek esetében
+| 38. | Külön jogszabály szerinti adatlap a fejlődési szint megítéléséhez az iskolai felkészítés elősegítésére | – |
 
 2. számú melléklet a 4/2000. (II. 25.) EüM rendelethez
 
@@ -105,3 +99,5 @@ Az ápolói tevékenység tartalma a háziorvosi szolgálatban
 9. Sürgős orvosi beavatkozást igénylő esetben – amikor a háziorvos, illetve az ügyeletes orvos kihívására nincs lehetőség – a mentőszolgálat útján a beteg sürgős ellátásának megszervezése.
 
 10. A betegellátás során a szociális alapellátás körében működő házi segítőszolgálattal, a kórházi ápolást kiváltó otthoni szakápolást nyújtó szolgáltatókkal és szükség esetén a védőnői szolgálattal való együttműködés.
+
+[^*]: 2009. szeptember 1-je után született gyermekek esetében
