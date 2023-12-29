@@ -1,5 +1,3 @@
-## 11. § A 2 000 000 eurónak megfelelő forintösszeget meg nem haladó beruházási vagy működési támogatás esetén a támogatás összege a 9. § (1) és (2) bekezdésében, valamint a 10. § (1)–(4) bekezdésében meghatározott módszerek alkalmazásától eltérően is meghatározható azzal, hogy a támogatási intenzitás nem haladhatja meg az elszámolható költségek 80%-át.
-
 12. § (1) A 8. § (2) bekezdés f) pontja szerinti tevékenységekhez nyújtott kulturális támogatás esetén
 
 a) a támogatási intenzitás nem haladhatja meg az elszámolható költségek 70%-át, vagy
