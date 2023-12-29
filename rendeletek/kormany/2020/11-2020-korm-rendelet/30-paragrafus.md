@@ -1,4 +1,4 @@
-30. § (1)[^94] A felnőttképző jogszabálysértő tevékenysége súlyosabban minősül,
+30. § (1)[^96] A felnőttképző jogszabálysértő tevékenysége súlyosabban minősül,
 
 a) ha nem tesz eleget az Fktv. 17. §-ában meghatározott tájékoztatási kötelezettségeinek, illetve hirdetései és tájékoztatói nem felelnek meg az Fktv. 17/A. §-ában foglaltaknak,
 
@@ -12,7 +12,7 @@ bc) a képzés befejezését követően és a képzés díjának teljes körű m
 
 bd) az Fktv. 15. §-ában meghatározott adatszolgáltatási kötelezettségét nem teljesíti.
 
-(2)[^95] Ismételt jogszabálysértésnek minősül, ha a felnőttképző a jogszabálysértést megállapító végleges döntésben foglaltakkal megegyező tartalmú jogszabálysértést követ el a döntés véglegessé válásától számított két éven belül.
+(2)[^97] Ismételt jogszabálysértésnek minősül, ha a felnőttképző a jogszabálysértést megállapító végleges döntésben foglaltakkal megegyező tartalmú jogszabálysértést követ el a döntés véglegessé válásától számított két éven belül.
 
-[^94]: A 30. § (1) bekezdése a 631/2022. (XII. 30.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^95]: A 30. § (2) bekezdése a 318/2020. (VII. 1.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
+[^96]: A 30. § (1) bekezdése a 631/2022. (XII. 30.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^97]: A 30. § (2) bekezdése a 318/2020. (VII. 1.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
