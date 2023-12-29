@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-51-20-8
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2023-12-28 | 2023-51-20-8P.1 | 51/2023. (XII. 27.) GFM rendelet |
+| 2023-12-29 | 2023-51-20-8P.2 | 2010. évi CXXX. törvény |
