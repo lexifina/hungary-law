@@ -1,0 +1,1 @@
+2. § Hatályát veszti az R1. 17. § (1a) bekezdés b) pontjában a „szolgálati beosztás hiányában a rendelkezési állományba tartozás tényét, a szolgálati beosztáshoz meghatározott előmeneteli rendet,” szövegrész.
