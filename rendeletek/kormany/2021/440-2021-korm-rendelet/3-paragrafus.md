@@ -1,3 +1,3 @@
-## 2. §[^3] Az 1. § szerinti feladatokat az IFKA az kultúráért és innovációért felelős miniszter mint a Kormány vállalkozásfejlesztésért felelős tagjának szakmai iránymutatásainak megfelelően látja el.
+3. §[^10] A Kormány a speciális vállalkozói célcsoportok támogatásának ellátására a SEED Kisvállalkozás-fejlesztési Alapítványt jelöli ki.
 
-[^3]: A 2. § a 238/2022. (VI. 30.) Korm. rendelet 213. §-a szerint módosított szöveg.
+[^10]: A 3. § a 643/2023. (XII. 28.) Korm. rendelet 6. §-ával megállapított szöveg.
