@@ -12,7 +12,7 @@
 
 ## b) a tárgyhéten keresőképtelen állományba vett betegek esetén
 
-## – táppénzes naplószámát,
+## – Napló számát,
 
 ## – TAJ számát (GYÁP esetén a beteg gyermek TAJ számát),
 
@@ -20,7 +20,7 @@
 
 ## – a felvétel módját jelölő kódot,
 
-## – a táppénz jellegét jelölő kódot,
+## – a keresőképtelenség jellegét jelölő kódot,
 
 ## – a keresőképtelenséget indokló diagnózis BNO kódját,
 
@@ -28,7 +28,7 @@
 
 ## c) a tárgyhéten keresőképtelen állományból kiírt betegek esetén
 
-## – a táppénzes napló számát,
+## – a Napló számát,
 
 ## – TAJ számát (GYÁP esetén a beteg gyermek TAJ számát),
 
@@ -36,9 +36,9 @@
 
 ## – a megszüntetés módját jelölő kódot;
 
-## d)[^64] a jelentéskészítés dátumát.
+## d)[^66] a jelentéskészítés dátumát.
 
-4. számú melléklet a 102/1995. (VIII. 25.) Korm. rendelethez[^65]
+4. számú melléklet a 102/1995. (VIII. 25.) Korm. rendelethez[^67]
 
 ORVOSI BEUTALÓ
 
@@ -158,5 +158,5 @@ címe: .........................................................................
 
 IV. A beutalót kiállító orvos adatai
 
-[^64]: A 3. számú melléklet d) pontja a 287/2018. (XII. 21.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^65]: A 4. számú mellékletet a 252/2003. (XII. 23.) Korm. rendelet 13. §-a iktatta be, szövege a 95/2013. (III. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 15. § (12) bekezdés i)–k) pontja szerint módosított szöveg.
+[^66]: A 3. számú melléklet d) pontja a 287/2018. (XII. 21.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^67]: A 4. számú mellékletet a 252/2003. (XII. 23.) Korm. rendelet 13. §-a iktatta be, szövege a 95/2013. (III. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 15. § (12) bekezdés i)–k) pontja szerint módosított szöveg. [A 659/2023. (XII. 28.) Korm. rendelet 4. § b) pontja által elrendelt módosítás, amely szerint a 4. melléklet III. rész 3. pontjában a „táppénzfolyósító szerv” szövegrész helyébe a „táppénz megállapítására hatáskörrel rendelkező szerv” szöveg lép, nem vezethető át.]

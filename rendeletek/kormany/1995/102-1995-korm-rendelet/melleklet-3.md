@@ -62,6 +62,6 @@
 
 | Veszélyeztetett terhesség | „9 |
 
-3. számú melléklet a 102/1995. (VIII. 25.) Korm. rendelethez[^63]
+3. számú melléklet a 102/1995. (VIII. 25.) Korm. rendelethez[^65]
 
-[^63]: A 3. számú mellékletet a 127/1999. (VIII. 13.) Korm. rendelet 4. §-ának (3) bekezdése iktatta be, szövege a 237/2020. (V. 26.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^65]: A 3. számú mellékletet a 127/1999. (VIII. 13.) Korm. rendelet 4. § (3) bekezdése iktatta be, szövege a 237/2020. (V. 26.) Korm. rendelet 3. § a) pontja, a 659/2023. (XII. 28.) Korm. rendelet 4. § g), i) és j) pontja szerint módosított szöveg.

@@ -2,7 +2,7 @@
 
 | ………. év ……………………….. hó |
 
-| Sor- szám | A keresőképtelen személy adatai | Kórisme | FM* | T* | K* |
+| Sor- szám | A keresőképtelen személy adatai | Kórisme | FM* | KK* | K* |
 
 |  | neve: szül. éve: lakcíme: | fogl.: |  |  |  |  |
 
@@ -44,7 +44,7 @@
 
 | TAJ száma | BNO kód: |  |  |  |  |  |
 
-| FM* T* K* | = = = | Felvétel módja (kód) Táppénz jellege (kód) Megszűntetés (kiírás) módja (kód) |
+| FM* KK* K* | = = = | Felvétel módja (kód) Keresőképtelenség jellege (kód) Megszűntetés (kiírás) módja (kód) |
 
 | Napló |
 
@@ -52,6 +52,6 @@
 
 | -tól | -ig |
 
-2. számú melléklet a 102/1995. (VIII. 25.) Korm. rendelethez[^62]
+2. számú melléklet a 102/1995. (VIII. 25.) Korm. rendelethez[^64]
 
-[^62]: A 2. számú melléklet a 127/1999. (VIII. 13.) Korm. rendelet 4. §-ának (2) bekezdésével, valamint 2. számú mellékletével megállapított, a 73/2011. (IV. 29.) Korm. rendelet 1. § (1) bekezdése, a 137/2012. (VI. 29.) Korm. rendelet 95. § (1) bekezdése, a 287/2018. (XII. 21.) Korm. rendelet 3. § (1) bekezdése, a 313/2020. (VI. 30.) Korm. rendelet 2. § (1) bekezdése és 3. §-a szerint módosított szöveg.
+[^64]: A 2. számú melléklet a 127/1999. (VIII. 13.) Korm. rendelet 4. §-ának (2) bekezdésével, valamint 2. számú mellékletével megállapított, a 73/2011. (IV. 29.) Korm. rendelet 1. § (1) bekezdése, a 137/2012. (VI. 29.) Korm. rendelet 95. § (1) bekezdése, a 287/2018. (XII. 21.) Korm. rendelet 3. § (1) bekezdése, a 313/2020. (VI. 30.) Korm. rendelet 2. § (1) bekezdése és 3. §-a szerint módosított szöveg.
