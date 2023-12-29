@@ -13,3 +13,5 @@
 (5) A Hatóság hatáskörébe tartozó ügyre vonatkozó kérelem kormányablaknál nem terjeszthető elő.
 
 (6) A Hatóság elnökének rendelete közérdeken alapuló kényszerítő indok alapján, meghatározott ügyekben kötelezővé teheti valamely okirat vagy más irat bizonyítási eszközként történő alkalmazását.
+
+(7) A Hatóság szervezeti és működési szabályzata a Hatóság elnökének hatáskörébe tartozó egyes ügyekben a kiadmányozási jogot a Hatóságnál közszolgálati jogviszonyban álló köztisztviselőre átruházhatja, aki a döntés meghozatala során a Hatóság elnöke nevében jár el.
