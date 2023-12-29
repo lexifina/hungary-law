@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-14-20-0
 | 2023-01-01 | 2016-14-20-0A.20 | 29/2017. (XI. 6.) BM rendelet |
 | 2023-12-26 | 2016-14-20-0A.21 | 29/2016. (VII. 15.) BM rendelet |
 | 2023-12-27 | 2016-14-20-0A.22 | 55/2023. (XII. 19.) BM rendelet |
+| 2023-12-29 | 2016-14-20-0A.23 | 29/2017. (XI. 6.) BM rendelet |
