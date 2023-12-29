@@ -1,15 +1,13 @@
-## 11. Innovációs klaszterre nyújtott támogatás
+## 11.[^63] Innovációs klaszterre nyújtott támogatás
 
-17. § (1) Az innovációs klaszterre nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) kizárólag a klasztert működtető klaszterszervezet részére nyújtható.
+17. § (1) Az innovációs klaszterhez nyújtott támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) a klaszter tulajdonosának beruházási támogatásként, a klaszter üzemeltetőjének működési támogatásként nyújtható.
 
-(2) Az innovációs klaszter létrehozására vagy korszerűsítésére beruházási támogatás nyújtható, melynek keretében az immateriális javakra és a tárgyi eszközre irányuló beruházási költség számolható el.
+(2) Ha a tulajdonos és az üzemeltető nem azonos, az innovációs klaszter üzemeltetője kizárólag önálló jogi személyiséggel rendelkező jogalany vagy önálló jogi személyiséggel nem rendelkező vállalkozások konzorciuma lehet.
 
-(3) Az innovációs klaszter működtetésére működési támogatás nyújtható, melynek időtartama nem haladhatja meg a 10 évet.
+(3) A tulajdonos, az üzemeltető, illetve a konzorcium tagjai minden esetben kötelesek a tulajdonosi, üzemeltetői és használati tevékenységek költségeiről és bevételeiről elkülönített számviteli nyilvántartást vezetni.
 
-(4) A (3) bekezdés szerinti támogatás esetén a következő tevékenységekhez kapcsolódó személyi jellegű ráfordítások és az általános költségeket is tartalmazó adminisztratív költségek számolhatók el:
+(4) A klaszter irodaterületéhez, létesítményeihez és tevékenységeihez való hozzáférésre és a klaszter beruházási költségeit legalább 10%-ban finanszírozó vállalkozás esetén a 16. § (5) bekezdésében foglaltak megfelelően alkalmazandók.
 
-a) az együttműködés és információ-megosztás elősegítésére, illetve a specializált, személyre szabott üzleti szolgáltatás nyújtásának vagy közvetítésének javítására szolgáló klaszterélénkítés,
+(5) A klaszter létesítményeinek használatáért és a klasztertevékenységben való részvételért szokásos piaci árat kell fizetni, azzal, hogy annak hiányában a költségeket és az észszerű nyereséget magában foglaló árat kell felszámítani.
 
-b) az újabb vállalkozások és szervezetek klaszterhez történő csatlakozása, valamint a klaszter ismertségének növelése érdekében végzett marketingtevékenység,
-
-c) a klaszter létesítményeinek kezelése, az ismeretmegosztás, kapcsolatépítés és nemzetközi együttműködés támogatására szolgáló képzési programok, műhelytalálkozók és konferenciák szervezése.
+[^63]: A 11. alcím (17–19. §) a 8/2023. (XII. 28.) MVM rendelet 14. §-ával megállapított szöveg.

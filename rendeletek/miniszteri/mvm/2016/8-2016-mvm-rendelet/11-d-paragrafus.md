@@ -1,22 +1,22 @@
-11/D. § (1) A támogatás keretében elszámolható
+11/D. §[^55] (1) A támogatás keretében elszámolható
 
 a) a beruházás érdekében felmerült tárgyi eszközök és immateriális javak költsége,
 
-b) a beruházás által létrehozott munkahelyek két évre számított becsült bérköltsége, vagy
+b) a beruházás által létrehozott munkahelyek két évre számított becsült bérköltsége vagy
 
 c) az a) és b) pontban szereplő költségtípusok kombinációja, ha az így kapott összeg nem haladja meg az a) és b) pont szerinti összeg közül a magasabbat.
 
 (2) Az elszámolható költség az (1) bekezdés a) pontja szerinti esetben a következők szerint határozható meg:
 
-a) tárgyi eszköz esetén az Sztv. 47–48. §-a és 51. §-a szerinti költsége,
+a) a tárgyi eszköznek az Sztv. 47., 48. és 51. §-a szerinti költsége,
 
-b) immateriális javak esetén a vagyoni értékű jogok és a szellemi termékek (a továbbiakban: támogatható immateriális javak) Sztv. 47–48. §-a és 51. §-a szerinti költsége,
+b) immateriális javak esetén a vagyoni értékű jogok és a szellemi termékek (a továbbiakban: támogatható immateriális javak) Sztv. 47., 48. és 51. §-a szerinti költsége,
 
 c) létesítmény felvásárlása esetén a tárgyi eszközök és a támogatható immateriális javak vételára,
 
 d) az ingatlan, gép, berendezés bérleti díjának a fenntartási időszak végéig elszámolt összege.
 
-(3) Az (1) bekezdés b) pontja szerinti esetben a beruházás üzembe helyezését követő háromszor háromszázhatvanöt napon belül újonnan létrehozott munkahelyeken foglalkoztatott munkavállalók – Sztv. 79. §-a szerint elszámolható – személyi jellegű ráfordításának – ide nem értve az egyéb személyi jellegű kifizetéseket – 24 havi összege a munkakör betöltésének napjától számítva.
+(3) A (2) bekezdés c) pontja szerinti esetben ha a tárgyi eszköz és az immateriális javak beszerzéséhez a vásárlást megelőzően már nyújtottak támogatást, ezen tárgyi eszköz és immateriális javak költségét le kell vonni a létesítmény felvásárlásához kapcsolódó elszámolható költségekből. Ha egy kisvállalkozást az eredeti tulajdonos családtagjai vagy korábbi munkavállalók vesznek át, a tárgyi eszköznek és az immateriális javaknak a vevőtől független harmadik féltől való megvásárlására vonatkozó feltételnek nem kell teljesülnie.
 
 (4) A tárgyi eszköz bérléséhez kapcsolódó költség elszámolható, ha
 
@@ -24,13 +24,13 @@ a) a földterületre vagy épületre vonatkozó bérleti jogviszony nagyvállalk
 
 b) a pénzügyi lízing formájában beszerzett üzemre, gépre, berendezésre vonatkozó szerződés tartalmazza az eszköznek a bérleti időtartam lejáratakor történő megvásárlására vonatkozó kötelezettséget.
 
-(5) Tárgyi eszköz esetén az elszámolható költséget a szokásos piaci áron kell figyelembe venni, ha az a beruházó és a beruházótól nem független harmadik vállalkozás között a szokásos piaci ártól eltérő áron kötött szerződés alapján merült fel.
+(5) Tárgyi eszköz esetén az elszámolható költséget a szokásos piaci áron kell figyelembe venni, ha az a beruházó és a beruházótól nem független harmadik vállalkozás között a szokásos piaci áránál magasabb áron kötött szerződés alapján merült fel.
 
 (6) Az immateriális javak költsége elszámolható, ha
 
 a) azokat kizárólag a támogatásban részesült létesítményben használják fel,
 
-b) azok az Sztv. előírásai szerinti terv szerinti értékcsökkenési leírás alá esnek,
+b) az az Sztv. előírásai szerinti terv szerinti értékcsökkenési leírás alá esik,
 
 c) azokat szokásos piaci feltételek mellett, a vevőtől független harmadik féltől vásárolják meg,
 
@@ -44,19 +44,13 @@ f) azok költsége nagyvállalkozás esetén az elszámolható költségek legfe
 
 a) a szinten tartást szolgáló tárgyi eszköz és immateriális javak költsége,
 
-b) a korábban már használatba vett olyan tárgyi eszköz és támogatható immateriális javak költsége, amelyre a beruházó, más társaság vagy egyéni vállalkozó állami támogatást vett igénybe,
+b) a kérelem benyújtásának napja előtt felmerült költség, ráfordítás.
 
-c) az olyan tárgyi eszköz és támogatható immateriális javak költsége, amelyet a beruházó nehéz helyzetben lévő vagy csődeljárás, felszámolás vagy kényszertörlési eljárás alatt álló beruházótól szerzett be,
+(8) Az (1) bekezdés b) pontja szerinti esetben a beruházás üzembe helyezését követő háromszor háromszázhatvanöt napon belül újonnan létrehozott munkahelyeken foglalkoztatott munkavállalók – Sztv. 79. §-a szerint elszámolható – személyi jellegű ráfordításának – ide nem értve az egyéb személyi jellegű kifizetéseket – 24 havi összege számolható el a munkakör betöltésének napjától számítva.
 
-d) a kérelem benyújtásának napja előtt felmerült költség, ráfordítás,
+(9) Az (1) bekezdés b) pontja szerinti elszámolható költség esetén akkor nyújtható támogatás, ha
 
-e) a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 4. § 31/c. pontja szerinti személygépkocsi költsége,
-
-f) nagyvállalkozásnál a korábban már használatba vett vagy harmadik személy által használatba vett tárgyi eszköz költsége, kivéve létesítmény felvásárlása esetén a beszerzett eszköz vételárát.
-
-(8) Az (1) bekezdés b) pontja szerinti elszámolható költség esetén akkor nyújtható támogatás, ha
-
-a) a beruházás a kedvezményezett vállalkozásnál foglalkoztatottak számának nettó növekedését eredményezi a beruházás megkezdését megelőző 12 hónap átlagához képest,
+a) a beruházás a kedvezményezettnél foglalkoztatottak számának nettó növekedését eredményezi a beruházás megkezdését megelőző 12 hónap átlagához képest, azt követően, hogy a megszüntetett munkahelyek száma levonásra került a b) pont szerinti időszak alatt létrehozott munkahelyek számából,
 
 b) a munkahelyeket a beruházás befejezésétől számított három éven belül betöltik,
 
@@ -64,4 +58,4 @@ c) kis- és középvállalkozás esetén a beruházó a beruházás megkezdések
 
 d) nagyvállalkozás esetén a beruházó a beruházás megkezdésekor már létező, továbbá a beruházással létrejött új munkahelyeket a munkahely első betöltésétől számított legalább öt évig az érintett területen fenntartja.
 
-(9) Ha a tárgyi eszköz és az immateriális javak beszerzéséhez a vásárlást megelőzően már nyújtottak támogatást, ezen tárgyi eszköz és immateriális javak költségét le kell vonni a létesítmény felvásárlásához kapcsolódó elszámolható költségekből. Ha egy kisvállalkozást az eredeti tulajdonos családtagjai vagy korábbi munkavállalók vesznek át, a tárgyi eszköznek és az immateriális javaknak a vevőtől független harmadik féltől való megvásárlására vonatkozó feltételnek nem kell teljesülnie.
+[^55]: A 11/D. § a 8/2023. (XII. 28.) MVM rendelet 11. §-ával megállapított szöveg.

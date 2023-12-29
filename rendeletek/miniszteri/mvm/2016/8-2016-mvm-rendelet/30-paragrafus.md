@@ -1,9 +1,23 @@
 ## 20. Környezetvédelmi tanulmányhoz nyújtott támogatás
 
-30. § (1) A 17. alcím szerinti beruházáshoz közvetlenül kapcsolódó környezetvédelmi tanulmányhoz nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) esetén a támogatási intenzitás nem haladhatja meg az elszámolható költségek 50%-át.
+30. §[^75] (1) A környezetvédelmi tanulmányhoz és tanácsadási szolgáltatáshoz nyújtott támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) a 651/2014/EU bizottsági rendelet 7. szakasza szerint támogatható beruházásokhoz közvetlenül kapcsolódó tanulmányhoz vagy tanácsadási szolgáltatáshoz – ideértve az energetikai auditot is – nyújtható.
 
-(2) A támogatási intenzitás a 24. § (2) bekezdése szerint növelhető.
+(2) Nem nyújtható támogatás a 2012/27/EU európai parlamenti és tanácsi irányelv szerinti, kötelezően előírt energiaaudithoz, ide nem értve a kötelezően előírt energiaauditon felül végrehajtott energiaauditot.
 
-(3) A támogatás keretében környezetvédelmi tanulmány (például energiaaudit) költsége számolható el.
+(3) A támogatás nyújtásának nem feltétele, hogy a 651/2014/EU rendelet 7. szakasza szerinti beruházások a támogatott környezetvédelmi tanulmány és tanácsadási szolgáltatás megállapításainak megfelelően valósuljanak meg.
 
-(4) Az energiahatékonyságról, a 2009/125/EK és a 2010/30/EU irányelv módosításáról, valamint a 2004/8/EK és a 2006/32/EK irányelv hatályon kívül helyezéséről szóló 2012/27/EU európai parlamenti és tanácsi irányelv (a továbbiakban: 2012/27/EU európai parlamenti és tanácsi irányelv) által kötelezően előírt energiaauditon felül végrehajtott energiaaudit kivételével nem nyújtható támogatás nagyvállalkozás részére a 2012/27/EU európai parlamenti és tanácsi irányelv 8. cikk (4) bekezdése szerinti energiaaudithoz.
+(4) A támogatás keretében elszámolható
+
+a) a környezetvédelmi tanulmány és tanácsadási szolgáltatás teljes költsége, amennyiben a környezetvédelmi tanulmány és tanácsadási szolgáltatás kizárólag a 651/2014/EU rendelet 7. szakasza szerinti támogatható beruházásokhoz kapcsolódik,
+
+b) a környezetvédelmi tanulmány és tanácsadási szolgáltatásnak a 651/2014/EU rendelet 7. szakasza szerinti beruházásokhoz kapcsolódó költsége, amennyiben a környezetvédelmi tanulmány és tanácsadási szolgáltatásnak csak egy része vonatkozik a 651/2014/EU rendelet 7. szakasza szerinti támogatható beruházásokra.
+
+(5) A támogatási intenzitás nem haladhatja meg az elszámolható költségek 60%-át.
+
+(6) A támogatási intenzitás
+
+a) középvállalkozás részére készített tanulmány és nyújtott tanácsadási szolgáltatás esetén 10 százalékponttal,
+
+b) kisvállalkozás részére készített tanulmány és nyújtott tanácsadási szolgáltatás esetén 20 százalékponttal növelhető.
+
+[^75]: A 30. § a 8/2023. (XII. 28.) MVM rendelet 20. §-ával megállapított szöveg.

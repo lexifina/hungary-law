@@ -1,1 +1,3 @@
-11/F. § Kutatási infrastruktúra fejlesztéséhez akkor nyújtható támogatás, ha az infrastruktúrához való hozzáférést több felhasználó számára átlátható és megkülönböztetésmentes módon biztosítják.
+11/F. §[^57]
+
+[^57]: A 11/F. §-t a 8/2023. (XII. 28.) MVM rendelet 25. § c) pontja hatályon kívül helyezte.

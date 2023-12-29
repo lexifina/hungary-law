@@ -1,4 +1,4 @@
-14. § (1) Az elszámolható költségeket a kutatás-fejlesztés valamely meghatározott kategóriájához kell rendelni.
+14. § (1)[^60] Az elszámolható költségeket a kutatás-fejlesztési projekt valamely meghatározott kategóriájához kell rendelni.
 
 (2) A 13. § (2) bekezdés a)–c) pontja esetén a támogatás keretében elszámolható
 
@@ -13,3 +13,5 @@ d) a szerződéses kutatás, a külső forrásokból szokásos piaci feltételek
 e) a további általános és egyéb működési költség, beleértve az anyagok, a fogyóeszközök és hasonló termékek költségeit, amelyek közvetlenül a projekt folyamán merülnek fel.
 
 (3) A 13. § (2) bekezdés d) pontja esetén a támogatás keretében a megvalósíthatósági tanulmány költsége számolható el.
+
+[^60]: A 14. § (1) bekezdése a 8/2023. (XII. 28.) MVM rendelet 24. § 13. pontja szerint módosított szöveg.

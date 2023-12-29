@@ -1,19 +1,19 @@
 ## 19. Energetikai célú infrastruktúrához nyújtott beruházási támogatás
 
-29. § (1) Az energetikai célú infrastruktúrához nyújtott beruházási támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) az Atr. 25. § (1) bekezdése szerinti támogatott területeken energetikai célú infrastruktúra létrehozásához, korszerűsítéséhez és bővítéséhez nyújtható.
+29. §[^73] (1) Az energetikai célú infrastruktúrához nyújtott beruházási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) energetikai célú infrastruktúra létrehozásához, korszerűsítéséhez és bővítéséhez nyújtható.
 
-(2) A támogatás összege nem haladhatja meg az elszámolható költségek és a támogatott infrastruktúra működési eredménye közötti különbséget.
+(2) Nem nyújtható támogatás
 
-(3) A működési eredmény mértékét
+a) a belső energiapiacra vonatkozó jogszabályok szerint harmadik felek hozzáférésére vagy díjakra vonatkozó szabályozás alól részben vagy egészében mentesülő energetikai infrastruktúrához, valamint
 
-a) megalapozott előrejelzések alapján kell meghatározni és előzetesen, vagy
+b) villamosenergiatároló és gáztározó projektekhez kapcsolódó beruházáshoz.
 
-b) visszafizetési mechanizmus alkalmazásával utólag
+(3) A gázinfrastruktúrára irányuló támogatás abban az esetben nyújtható, amennyiben a támogatás következtében
 
-kell levonni az elszámolható költségekből.
+a) az infrastruktúra kizárólag hidrogén vagy megújuló gázok használatára alkalmas,
 
-(4) A támogatás keretében a beruházás költsége számolható el.
+b) az infrastruktúra kizárólag hidrogén és megújuló gázok használatára alkalmas, vagy
 
-(5) Az energetikai célú infrastruktúrának a belső energiapiaci szabályozással összhangban lévő teljes körű tarifa- és hozzáférési szabályozás hatálya alá kell tartoznia.
+c) az infrastruktúrát 50%-ot meghaladó mértékben hidrogén és megújuló gázok szállítására használják.
 
-(6) Nem nyújtható támogatás villamosenergia- és gáztározó projektekhez, valamint kőolaj-infrastruktúrához kapcsolódó beruházáshoz.
+[^73]: A 29. § a 8/2023. (XII. 28.) MVM rendelet 18. §-ával megállapított szöveg.

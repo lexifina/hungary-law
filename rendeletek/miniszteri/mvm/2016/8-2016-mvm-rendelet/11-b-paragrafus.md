@@ -1,15 +1,15 @@
-11/B. § Nem nyújtható támogatás
+11/B. §[^52] Nem nyújtható támogatás
 
 a) acélipari tevékenységhez,
 
-b) hajógyártási tevékenységhez,
+b) lignitipari tevékenységhez,
 
 c) szénipari tevékenységhez,
 
-d) szintetikusszál-ipari tevékenységhez,
+d) ellenszolgáltatásért végzett légi, tengeri, közúti, vasúti és belvízi úton történő személy- vagy áruszállítási szolgáltatás nyújtásához vagy a kapcsolódó infrastruktúrához,
 
-e) ellenszolgáltatásért végzett légi, tengeri, közúti, vasúti és belvízi úton történő személy- vagy áruszállítási szolgáltatás nyújtásához vagy a kapcsolódó infrastruktúrához,
+e) energiatermelési, energiatárolási, energiaátviteli, energiaelosztási tevékenységhez és energetikai célú infrastruktúra létrehozását szolgáló beruházáshoz, továbbá
 
-f) energiatermelési, energiaelosztási tevékenységhez és energetikai célú infrastruktúra létrehozását szolgáló beruházáshoz,
+f) szélessávú ágazatban végzett tevékenységhez.
 
-g) a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-i 1379/2013/EU európai parlamenti és tanácsi rendeletben meghatározott akvakultúra-termékek termelését, feldolgozását és értékesítését szolgáló beruházáshoz.
+[^52]: A 11/B. § a 8/2023. (XII. 28.) MVM rendelet 10. §-ával megállapított szöveg.

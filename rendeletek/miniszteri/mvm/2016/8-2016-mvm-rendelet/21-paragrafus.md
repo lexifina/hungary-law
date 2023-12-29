@@ -12,4 +12,6 @@ d) a további általános és egyéb működési költség, ideértve az anyagok
 
 (2) A támogatási intenzitás nagyvállalkozás esetén nem haladhatja meg az elszámolható költségek 15%-át, kis- és középvállalkozás esetén az elszámolható költségek 50%-át.
 
-(3) Nagyvállalkozásnak akkor nyújtható támogatás, ha az a támogatott tevékenység során ténylegesen együttműködik kis- és középvállalkozással és, ha az együttműködő kis- és középvállalkozás viseli az összes elszámolható költség legalább 30%-át.
+(3)[^65] Nagyvállalkozásnak akkor nyújtható támogatás, ha az a támogatott tevékenység során hatékony együttműködést folytat kis- és középvállalkozással és, ha az együttműködő kis- és középvállalkozás viseli az összes elszámolható költség legalább 30%-át.
+
+[^65]: A 21. § (3) bekezdése a 8/2023. (XII. 28.) MVM rendelet 24. § 14. pontja szerint módosított szöveg.
