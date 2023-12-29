@@ -6,9 +6,9 @@
 
 165. § (1) Az államháztartás információs rendszerében
 
-a)[^730] a központi költségvetésről szóló törvényben megállapított bevételi és kiadási előirányzatokról, azok Országgyűlés, Kormány hatáskörében végzett módosításairól, átcsoportosításairól, továbbá azoknak az egységes rovatrend szerinti előirányzatairól, az előirányzatok módosításairól, átcsoportosításairól és az államháztartás központi alrendszerébe tartozó költségvetési szervek kötelezettségvállalásairól, más fizetési kötelezettségeikről, követeléseiről, és a kiadások és bevételek pénzforgalmi teljesítéséről a Kincstár, és
+a)[^731] a központi költségvetésről szóló törvényben megállapított bevételi és kiadási előirányzatokról, azok Országgyűlés, Kormány hatáskörében végzett módosításairól, átcsoportosításairól, továbbá azoknak az egységes rovatrend szerinti előirányzatairól, az előirányzatok módosításairól, átcsoportosításairól és az államháztartás központi alrendszerébe tartozó költségvetési szervek kötelezettségvállalásairól, más fizetési kötelezettségeikről, követeléseiről, és a kiadások és bevételek pénzforgalmi teljesítéséről a Kincstár, és
 
-b)[^731] a helyi önkormányzatok, helyi nemzetiségi önkormányzatok általános működéséhez és ágazati feladataihoz kapcsolódó támogatások előirányzatainak módosításairól, átcsoportosításairól a helyi önkormányzatokért felelős miniszter, a nemzetiségi önkormányzatok költségvetési támogatását biztosító előirányzatok módosításairól, átcsoportosításairól a nemzetiségpolitikáért felelős állami szerv
+b)[^732] a helyi önkormányzatok, helyi nemzetiségi önkormányzatok általános működéséhez és ágazati feladataihoz kapcsolódó támogatások előirányzatainak módosításairól, átcsoportosításairól a helyi önkormányzatokért felelős miniszter, a nemzetiségi önkormányzatok költségvetési támogatását biztosító előirányzatok módosításairól, átcsoportosításairól a nemzetiségpolitikáért felelős állami szerv
 
 nyilvántartást vezet.
 
@@ -20,5 +20,5 @@ b) az előirányzatnak, és azok módosításának, átcsoportosításának egys
 
 c) az előirányzatok módosításának, átcsoportosításának hatásköreire.
 
-[^730]: Az Ávr. 165. § (1) bekezdés a) pontja a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 56. pontja, a 801/2021. (XII. 28.) Korm. rendelet 15. § 7. pontja szerint módosított szöveg.
-[^731]: Az Ávr. 165. § (1) bekezdés b) pontja a 413/2012. (XII. 29.) Korm. rendelet 39. § 40. pontja szerint módosított szöveg.
+[^731]: Az Ávr. 165. § (1) bekezdés a) pontja a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 56. pontja, a 801/2021. (XII. 28.) Korm. rendelet 15. § 7. pontja szerint módosított szöveg.
+[^732]: Az Ávr. 165. § (1) bekezdés b) pontja a 413/2012. (XII. 29.) Korm. rendelet 39. § 40. pontja szerint módosított szöveg.

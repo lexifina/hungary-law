@@ -1,8 +1,8 @@
-167/J. §[^811] (1)[^812] A törzskönyvi nyilvántartás fennálló és törölt adatai – a törzskönyvi jogi személy vezetőjének vagy a vezetői jogok gyakorlására ideiglenesen jogosult személy adóazonosító jelének kivételével –, az alapító okiratok és a megszüntető okiratok nyilvánosak, azokat bárki megtekintheti, azokról feljegyzést készíthet, továbbá azok adatai – a törzskönyvi jogi személy vezetőjének vagy a vezetői jogok gyakorlására ideiglenesen jogosult személy adóazonosító jelének kivételével – elektronikus úton is hozzáférhetők. A Kincstár a törzskönyvi nyilvántartás (2) bekezdés szerinti adatait honlapján keresztül is elérhetővé teszi.
+167/J. §[^812] (1)[^813] A törzskönyvi nyilvántartás fennálló és törölt adatai – a törzskönyvi jogi személy vezetőjének vagy a vezetői jogok gyakorlására ideiglenesen jogosult személy adóazonosító jelének kivételével –, az alapító okiratok és a megszüntető okiratok nyilvánosak, azokat bárki megtekintheti, azokról feljegyzést készíthet, továbbá azok adatai – a törzskönyvi jogi személy vezetőjének vagy a vezetői jogok gyakorlására ideiglenesen jogosult személy adóazonosító jelének kivételével – elektronikus úton is hozzáférhetők. A Kincstár a törzskönyvi nyilvántartás (2) bekezdés szerinti adatait honlapján keresztül is elérhetővé teszi.
 
 (2) A törzskönyvi jogi személynek a Kincstár honlapján közzéteendő, azon elérhető és kereshető adatai:
 
-1.[^813] a törzskönyvi jogi személy megnevezése, székhelye, PIR száma, adószáma, statisztikai számjele és államháztartási egyedi azonosító száma, a költségvetési szervként működő köznevelési intézmény, szakképző intézmény és felsőoktatási intézmény OM azonosítója, valamint a szociális, gyermekjóléti és gyermekvédelmi feladatot ellátó költségvetési szerv ágazati azonosítója,
+1.[^814] a törzskönyvi jogi személy megnevezése, székhelye, PIR száma, adószáma, statisztikai számjele és államháztartási egyedi azonosító száma, a költségvetési szervként működő köznevelési intézmény, szakképző intézmény és felsőoktatási intézmény OM azonosítója, valamint a szociális, gyermekjóléti és gyermekvédelmi feladatot ellátó költségvetési szerv ágazati azonosítója,
 
 2. a törzskönyvi jogi személy alaptevékenységének államháztartási szakágazata és fő TEÁOR kódja,
 
@@ -10,7 +10,7 @@
 
 a) központi alrendszerébe tartozó költségvetési szerv esetében annak fejezetrend szerinti besorolása,
 
-b)[^814] önkormányzati alrendszerébe tartozó törzskönyvi jogi személy esetében a vármegye száma, pénzügyi körzet száma és neve, társulási körzet száma,
+b)[^815] önkormányzati alrendszerébe tartozó törzskönyvi jogi személy esetében a vármegye száma, pénzügyi körzet száma és neve, társulási körzet száma,
 
 4. a törzskönyvi jogi személy vezetőjének neve és kinevezésének időpontja,
 
@@ -20,13 +20,13 @@ b)[^814] önkormányzati alrendszerébe tartozó törzskönyvi jogi személy ese
 
 7. a költségvetési szerv és a jogszabály alapján a költségvetési szervek gazdálkodására vonatkozó szabályokat alkalmazó egyéb jogi személy alapítójának, irányító szervének vagy felügyeleti szervének és – ha van – fenntartójának megnevezése, székhelye, PIR száma,
 
-8.[^815] a társulásban résztvevő, illetve közös önkormányzati hivatalt létrehozó települési önkormányzatok neve, székhelye, PIR száma, társulási megállapodás szerinti székhely önkormányzat neve, székhelye, PIR száma,
+8.[^816] a társulásban résztvevő, illetve közös önkormányzati hivatalt létrehozó települési önkormányzatok neve, székhelye, PIR száma, társulási megállapodás szerinti székhely önkormányzat neve, székhelye, PIR száma,
 
-9.[^816] a költségvetési szerv alapító okirata, módosító okirata és az alapító okirat módosításokkal egységes szerkezetbe foglalt változata, továbbá megszüntető okirata digitalizált vagy elektronikus formában.
+9.[^817] a költségvetési szerv alapító okirata, módosító okirata és az alapító okirat módosításokkal egységes szerkezetbe foglalt változata, továbbá megszüntető okirata digitalizált vagy elektronikus formában.
 
-[^811]: Az Ávr. 167/J. §-a 175/2015. (VII. 7.) Korm. rendelet 26. §-ával megállapított szöveg.
-[^812]: Az Ávr. 167/J. § (1) bekezdése a 175/2018. (IX. 27.) Korm. rendelet 7. § 3. pontja szerint módosított szöveg.
-[^813]: Az Ávr. 167/J. § (2) bekezdés 1. pontja a 13/2020. (II. 7.) Korm. rendelet 64. § 5. pontja szerint módosított szöveg.
-[^814]: Az Ávr. 167/J. § (2) bekezdés 3. pont b) alpontja a 264/2016. (VIII. 31.) Korm. rendelet 25. § 26. pontja, a 480/2022. (XI. 28.) Korm. rendelet 12. § 9. pontja szerint módosított szöveg.
-[^815]: Az Ávr. 167/J. § (2) bekezdés 8. pontja a 264/2016. (VIII. 31.) Korm. rendelet 25. § 27. pontja szerint módosított szöveg.
-[^816]: Az Ávr. 167/J. § (2) bekezdés 9. pontja a 243/2015. (IX. 8.) Korm. rendelet 11. § 20. pontja, a 310/2018. (XII. 27.) Korm. rendelet 31. § 43. pontja szerint módosított szöveg.
+[^812]: Az Ávr. 167/J. §-a 175/2015. (VII. 7.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^813]: Az Ávr. 167/J. § (1) bekezdése a 175/2018. (IX. 27.) Korm. rendelet 7. § 3. pontja szerint módosított szöveg.
+[^814]: Az Ávr. 167/J. § (2) bekezdés 1. pontja a 13/2020. (II. 7.) Korm. rendelet 64. § 5. pontja szerint módosított szöveg.
+[^815]: Az Ávr. 167/J. § (2) bekezdés 3. pont b) alpontja a 264/2016. (VIII. 31.) Korm. rendelet 25. § 26. pontja, a 480/2022. (XI. 28.) Korm. rendelet 12. § 9. pontja szerint módosított szöveg.
+[^816]: Az Ávr. 167/J. § (2) bekezdés 8. pontja a 264/2016. (VIII. 31.) Korm. rendelet 25. § 27. pontja szerint módosított szöveg.
+[^817]: Az Ávr. 167/J. § (2) bekezdés 9. pontja a 243/2015. (IX. 8.) Korm. rendelet 11. § 20. pontja, a 310/2018. (XII. 27.) Korm. rendelet 31. § 43. pontja szerint módosított szöveg.
