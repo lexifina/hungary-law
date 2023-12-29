@@ -1,0 +1,3 @@
+1. § A rendőrségi fogdák rendjéről szóló 56/2014. (XII. 5.) BM rendelet 15. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Ha a fogvatartott a hatóság tagja általi bántalmazását panaszolja, az egészségügyi ellátás folyamatos működtetésének egyes szervezési kérdéseiről szóló 47/2004. (V. 11.) ESZCSM rendelet 2. melléklete szerinti adattartalmú orvosi látleletet is kell készíttetni. A fogvatartást végrehajtó szerv az orvosi látlelet és vélemény alapján a bántalmazásról szóló panaszt jegyzőkönyvben rögzíti, amelyet a fogvatartásért felelős az orvosi látlelettel együtt a büntetés-végrehajtás törvényességi felügyeletét ellátó ügyésznek megküld.”
