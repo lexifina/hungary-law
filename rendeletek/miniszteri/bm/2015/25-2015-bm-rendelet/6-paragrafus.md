@@ -16,6 +16,6 @@ b) a hivatásos állomány vizsgálat alá vont tagjánál vagy közvetlen körn
 
 c) a hivatásos állomány vizsgálat alá vont tagjánál a kábítószer-fogyasztás egyéb testi jelei (például tűszúrások nyomai)
 
-## fedezhetőek fel.
+fedezhetőek fel.
 
 (3) A vizsgálat során tapasztaltakat összességükben kell megítélni. Mivel egyes testi és pszichikai tünetek előidézésére egyéb állapotok – különösen fáradtság, esetleges betegség – is alkalmasak, illetve egyéb testi jelnek oka lehet más beavatkozás – így különösen egészségügyi kezelés – is, ezért a hivatásos állomány vizsgálat alá vont tagját mindezekre vonatkozóan nyilatkoztatni kell.

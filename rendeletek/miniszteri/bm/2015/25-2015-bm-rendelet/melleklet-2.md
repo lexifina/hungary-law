@@ -12,7 +12,7 @@
 
 ## * A kívánt részt alá kell húzni!
 
-2. melléklet a 25/2015. (VI. 15.) BM. rendelethez[^2]
+2. melléklet a 25/2015. (VI. 15.) BM. rendelethez[^3]
 
 ## .......................................
 
@@ -124,4 +124,4 @@ __________
 
 * A kívánt részt alá kell húzni!
 
-[^2]: A 2. melléklet a 33/2019. (VIII. 30.) BM rendelet 9. §-a szerint módosított szöveg.
+[^3]: A 2. melléklet a 33/2019. (VIII. 30.) BM rendelet 9. §-a szerint módosított szöveg.

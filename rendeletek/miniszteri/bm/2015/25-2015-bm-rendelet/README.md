@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-25-20-0
 | --- | --- | --- |
 | 2015-07-01 | 2015-25-20-0A.1 | 25/2015. (VI. 15.) BM rendelet |
 | 2019-09-07 | 2015-25-20-0A.2 | 33/2019. (VIII. 30.) BM rendelet |
+| 2023-12-29 | 2015-25-20-0A.3 | 91/2023. (XII. 28.) BM rendelet |
