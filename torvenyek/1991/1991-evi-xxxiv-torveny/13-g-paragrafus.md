@@ -7,3 +7,5 @@
 (4) A kártyaelfogadói szerződésben lévő fizetési számla számának módosítását a szerencsejáték-szervezést végző személy (szervezet) kérésére a pénzforgalmi szolgáltató abban az esetben végezheti el, ha a szerencsejáték-szervező a szerencsejáték-felügyeleti hatóság honlapján közzétett, az engedélyesek közhiteles hatósági nyilvántartásában szerepel.
 
 (5) Az (1)–(4) bekezdésben foglaltakat az EGT-államban bejegyzett gazdasági társaság magyarországi fióktelepe részére történő pénzforgalmi számlanyitásra is alkalmazni kell azzal, hogy a szerencsejáték szervezésére vonatkozó jogosultságot a fióktelep a szerencsejáték-felügyeleti hatóság által az EGT-állami gazdasági társaság részére kiadott engedéllyel igazolja.
+
+(6) A pénzforgalmi szolgáltató (1)–(2) bekezdés szerinti kötelezettsége nem áll fenn a szerencsejáték-felügyeleti hatóság által engedélyezett szerencsejáték-szervezői tevékenységhez kapcsolódóan értékesítési vagy közvetítő tevékenységet szerződéses jogviszony alapján végző személyre, szervezetre vonatkozóan, ha az ilyen személy, szervezet ezen jogviszony fennállását a pénzforgalmi szolgáltató felé írásban igazolja.

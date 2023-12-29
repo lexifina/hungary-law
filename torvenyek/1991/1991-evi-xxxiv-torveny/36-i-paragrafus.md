@@ -1,9 +1,9 @@
-36/I. § (1) Az ideiglenes hozzáférhetetlenné tételre vonatkozó kötelezettség az elrendelést követő 365 nap elteltével megszűnik.
+36/I. § (1) A hozzáférhetetlenné tételt, illetve az ideiglenes hozzáférhetetlenné tételt a szerencsejáték-felügyeleti hatóság megszünteti, ha
 
-(2) Az ideiglenes hozzáférhetetlenné tételt a szerencsejáték-felügyeleti hatóság annak megszűnése előtt megszünteti, ha
+a) az elrendelés oka megszűnt,
 
-a) az elrendelés oka megszűnt, vagy
+b) a büntetőügyben eljáró bíróság, ügyészség vagy nyomozó hatóság, illetve az NMHH tájékoztatása alapján az elektronikus adattal kapcsolatban elektronikus adat ideiglenes hozzáférhetetlenné tétele kényszerintézkedés, illetve elektronikus adat végleges hozzáférhetetlenné tétele intézkedés elrendelése vagy végrehajtása van folyamatban, vagy
 
-b) a büntetőügyben eljáró bíróság, ügyészség vagy nyomozó hatóság, illetve az NMHH tájékoztatása alapján az elektronikus adattal kapcsolatban elektronikus adat ideiglenes hozzáférhetetlenné tétele kényszerintézkedés, illetve elektronikus adat végleges hozzáférhetetlenné tétele intézkedés elrendelése vagy végrehajtása van folyamatban.
+c) a rendelkezés elektronikus hírközlési szolgáltatók általi végrehajtása a megadott adattartalommal kétséges lehet.
 
-(3) A határozatra a 36/G. § (2)–(3) bekezdésében foglaltakat megfelelően kell alkalmazni.
+(2) A megszüntető döntésre a 36/G. § (2)–(4) bekezdésében foglaltakat kell alkalmazni.

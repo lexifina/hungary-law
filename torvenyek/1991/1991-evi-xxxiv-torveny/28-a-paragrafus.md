@@ -12,4 +12,4 @@
 
 (7) A szerencsejáték-felügyeleti hatóság a nemzetközi együttműködés keretében szervezett totalizatőri rendszerű lóversenyfogadás esetén sorsolás alkalmazását a nemzetközi együttműködés keretében valamennyi szerencsejáték-szervező által kialakított és elfogadott játékszabályoknak megfelelően engedélyezi.
 
-(8) A szerencsejáték-szervező lehetőséget biztosíthat a fogadónak arra, hogy a tétfizetést követően – a tét egésze, vagy egy része vonatkozásában –, a fogadási esemény kimenetelének bekövetkezése előtt, a játéktervben meghatározott esetekben korai kifizetésre váljon jogosulttá. A korai kifizetés könyvviteli elszámolása a számvitelről szóló törvény szerinti előleg szabályainak megfelelően történik. A korai kifizetésre a nyereménykifizetésre vonatkozó szabályok irányadók.
+(8) A szerencsejáték-szervező lehetőséget biztosíthat a fogadónak arra, hogy a tétfizetést követően – a tét egésze, vagy egy része vonatkozásában –, a fogadási esemény kimenetelének bekövetkezése előtt, a játéktervben meghatározott esetekben korai kifizetésre váljon jogosulttá. A korai kifizetésre a nyereménykifizetésre vonatkozó szabályok irányadók.
