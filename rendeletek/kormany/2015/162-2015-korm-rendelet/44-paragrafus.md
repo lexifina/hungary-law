@@ -1,3 +1,3 @@
-44. §[^163]
+44. §[^164]
 
-[^163]: A 36–47. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^164]: A 36–47. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

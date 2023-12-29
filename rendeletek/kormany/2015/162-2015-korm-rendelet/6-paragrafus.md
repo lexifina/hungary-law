@@ -14,20 +14,20 @@ bc) 12 hónap időtartamot meghaladó képzési elemnél arányosan az éves ren
 
 nem haladja meg.
 
-(2a)[^25] Az 1 hónapnál rövidebb időtartamú képzési elem csak akkor fogadható el, ha a jelölt azt teljes időtartamában teljesítette.
+(2a)[^26] Az 1 hónapnál rövidebb időtartamú képzési elem csak akkor fogadható el, ha a jelölt azt teljes időtartamában teljesítette.
 
-(3)[^26] A (2) bekezdésben foglaltak alkalmazása érdekében az egyetem kérésére a rezidens szabadságának, illetve betegszabadságának időtartamára vonatkozó információkat az OKFŐ az egyetem rendelkezésére bocsátja.
+(3)[^27] A (2) bekezdésben foglaltak alkalmazása érdekében az egyetem kérésére a rezidens szabadságának, illetve betegszabadságának időtartamára vonatkozó információkat az OKFŐ az egyetem rendelkezésére bocsátja.
 
 (4) Ha a képzési elem teljesítése során igénybe vett szabadság vagy betegszabadság időtartama a (2) bekezdés b) pontja szerinti időtartamot meghaladja, az adott képzési elem a szabadság vagy betegszabadság időtartamának megfelelő azon szakterület szerinti gyakorlati idő igazolásával elismerhető el, amelynek elismerésére a szabadság vagy betegszabadság miatt nem került sor.
 
-(5)[^27]
+(5)[^28]
 
-(6)[^28]
+(6)[^29]
 
-(7)[^29]
+(7)[^30]
 
-[^25]: A 6. § (2a) bekezdését a 333/2015. (XI. 10.) Korm. rendelet 4. §-a iktatta be.
-[^26]: A 6. § (3) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
-[^27]: A 6. § (5) bekezdését az 529/2020. (XI. 28.) Korm. rendelet 20. § c) pontja hatályon kívül helyezte.
-[^28]: A 6. § (6) bekezdését az 529/2020. (XI. 28.) Korm. rendelet 20. § c) pontja hatályon kívül helyezte.
-[^29]: A 6. § (7) bekezdését az 529/2020. (XI. 28.) Korm. rendelet 20. § c) pontja hatályon kívül helyezte.
+[^26]: A 6. § (2a) bekezdését a 333/2015. (XI. 10.) Korm. rendelet 4. §-a iktatta be.
+[^27]: A 6. § (3) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^28]: A 6. § (5) bekezdését az 529/2020. (XI. 28.) Korm. rendelet 20. § c) pontja hatályon kívül helyezte.
+[^29]: A 6. § (6) bekezdését az 529/2020. (XI. 28.) Korm. rendelet 20. § c) pontja hatályon kívül helyezte.
+[^30]: A 6. § (7) bekezdését az 529/2020. (XI. 28.) Korm. rendelet 20. § c) pontja hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-16/A. §[^61] (1) A rezidens illetménye nem lehet alacsonyabb az Eszjtv. 1. melléklet szerinti illetménynél.
+16/A. §[^62] (1) A rezidens illetménye nem lehet alacsonyabb az Eszjtv. 1. melléklet szerinti illetménynél.
 
 (2) A rezidens szakképzése ideje alatt történő foglalkoztatásához kapcsolódó támogatás az alábbiakat foglalja magában:
 
@@ -8,4 +8,4 @@ b) azon rezidensek esetében, akik után az elsődleges képzőhely nem jogosult
 
 (3) Az Eszjtv. hatálya alá nem tartozó rezidensek munkabére nem lehet alacsonyabb, mint az Eszjtv. 1. melléklete szerinti illetmény.
 
-[^61]: A 16/A. §-t a 287/2018. (XII. 21.) Korm. rendelet 37. §-a iktatta be, szövege a 260/2021. (V. 20.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^62]: A 16/A. §-t a 287/2018. (XII. 21.) Korm. rendelet 37. §-a iktatta be, szövege a 260/2021. (V. 20.) Korm. rendelet 3. §-ával megállapított szöveg.

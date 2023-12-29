@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-162-20-
 | 2022-11-01 | 2015-162-20-22.19 | 359/2016. (XI. 23.) Korm. rendelet |
 | 2023-01-01 | 2015-162-20-22.21 | 616/2022. (XII. 29.) Korm. rendelet |
 | 2023-04-01 | 2015-162-20-22.20 | 359/2016. (XI. 23.) Korm. rendelet |
+| 2023-12-29 | 2015-162-20-22.23 | 659/2023. (XII. 28.) Korm. rendelet |
