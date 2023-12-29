@@ -1,5 +1,5 @@
 ## 83. Átmeneti rendelkezések
 
-278. §[^514]
+278. §[^516]
 
-[^514]: A 278. §-t a 13/2020. (X. 14.) HM rendelet 32. § 15. pontja hatályon kívül helyezte.
+[^516]: A 278. §-t a 13/2020. (X. 14.) HM rendelet 32. § 15. pontja hatályon kívül helyezte.

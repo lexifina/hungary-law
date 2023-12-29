@@ -1,12 +1,12 @@
-248. § (1)[^477] A központi katonai igazgatási szerv az önkéntes tartalékos katonát a kiképzésre, felkészítésre történő behívás időpontjáról, helyszínéről és a tényleges szolgálat várható időtartamáról a behívás előtt 60 nappal elsődlegesen elektronikus úton vagy – ha ez nem lehetséges – postai úton értesíti. Az értesítés kézbesítése sikertelenségének a tényleges szolgálatteljesítés megkezdésére nincs halasztó hatálya.
+248. § (1)[^479] A központi katonai igazgatási szerv az önkéntes tartalékos katonát a kiképzésre, felkészítésre történő behívás időpontjáról, helyszínéről és a tényleges szolgálat várható időtartamáról a behívás előtt 60 nappal elsődlegesen elektronikus úton vagy – ha ez nem lehetséges – postai úton értesíti. Az értesítés kézbesítése sikertelenségének a tényleges szolgálatteljesítés megkezdésére nincs halasztó hatálya.
 
-(2)[^478] A központi katonai igazgatási szerv a behívóparancsot a kiképzésre, felkészítésre, valamint az előre megtervezett tényleges szolgálatteljesítésre történő bevonulás időpontja előtt legalább 30 nappal az önkéntes tartalékos katona részére elektronikus vagy postai úton kézbesíti.
+(2)[^480] A központi katonai igazgatási szerv a behívóparancsot a kiképzésre, felkészítésre, valamint az előre megtervezett tényleges szolgálatteljesítésre történő bevonulás időpontja előtt legalább 30 nappal az önkéntes tartalékos katona részére elektronikus vagy postai úton kézbesíti.
 
-(3)[^479] A (2) bekezdéstől eltérően a központi katonai igazgatási szerv
+(3)[^481] A (2) bekezdéstől eltérően a központi katonai igazgatási szerv
 
-a)[^480] a bevonulási parancsot – ha azt a feladat végrehajtása megköveteli – telefonon vagy elektronikus úton a vármegyei, fővárosi, illetve járási, fővárosi kerületi katonai igazgatási összekötő beosztásra szerződést kötött, illetve a területi védelmi bizottság munkáját támogató önkéntes műveleti tartalékos katonák, a területvédelmi feladatok ellátása érdekében a vármegyei, járási szervezeti elemeknél beosztásra szerződést kötött önkéntes műveleti tartalékos katonák és az önkéntes területvédelmi tartalékos katonák részére a bevonulás időpontja előtt legalább 3 nappal, vagy
+a)[^482] a bevonulási parancsot – ha azt a feladat végrehajtása megköveteli – telefonon vagy elektronikus úton a vármegyei, fővárosi, illetve járási, fővárosi kerületi katonai igazgatási összekötő beosztásra szerződést kötött, illetve a területi védelmi bizottság munkáját támogató önkéntes műveleti tartalékos katonák, a területvédelmi feladatok ellátása érdekében a vármegyei, járási szervezeti elemeknél beosztásra szerződést kötött önkéntes műveleti tartalékos katonák és az önkéntes területvédelmi tartalékos katonák részére a bevonulás időpontja előtt legalább 3 nappal, vagy
 
-b)[^481] a bevonulási parancsot – ha a Honvédség erőinek igénybevételére a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény (a továbbiakban: Kat.) 3. § 9. pontja szerinti katasztrófaveszély időszakában, vagy a Hvt. 59. § (1) bekezdés i) pontja szerinti feladat végrehajtása alatt kerül sor – telefonon vagy elektronikus úton
+b)[^483] a bevonulási parancsot – ha a Honvédség erőinek igénybevételére a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény (a továbbiakban: Kat.) 3. § 9. pontja szerinti katasztrófaveszély időszakában, vagy a Hvt. 59. § (1) bekezdés i) pontja szerinti feladat végrehajtása alatt kerül sor – telefonon vagy elektronikus úton
 
 ba) az önkéntes műveleti tartalékos katona részére – az a) pontban meghatározott személyek kivételével – a bevonulás időpontja előtt legalább 8 nappal, és
 
@@ -16,14 +16,14 @@ c) a bevonulási parancsot a KNBSZ állományába tartozó önkéntes műveleti 
 
 is közölheti.
 
-(4)[^482] A (3) bekezdés szerint közölt bevonulási parancs esetében a központi katonai igazgatási szerv az önkéntes tartalékos katona munkáltatóját a közlést követő napon elektronikus úton vagy telefonon értesíti a tervezett bevonulási időpontról.
+(4)[^484] A (3) bekezdés szerint közölt bevonulási parancs esetében a központi katonai igazgatási szerv az önkéntes tartalékos katona munkáltatóját a közlést követő napon elektronikus úton vagy telefonon értesíti a tervezett bevonulási időpontról.
 
-(5)[^483] A központi katonai igazgatási szerv az önkéntes tartalékos katona munkáltatóját a behívás céljától függetlenül tájékoztatja a behívás időpontjáról, helyszínéről és a tényleges szolgálat várható időtartamáról.
+(5)[^485] A központi katonai igazgatási szerv az önkéntes tartalékos katona munkáltatóját a behívás céljától függetlenül tájékoztatja a behívás időpontjáról, helyszínéről és a tényleges szolgálat várható időtartamáról.
 
-[^477]: A 248. § (1) bekezdése a 20/2018. (XII. 28) HM rendelet 62. § (1) bekezdésével megállapított szöveg.
-[^478]: A 248. § (2) bekezdése a 20/2018. (XII. 28) HM rendelet 62. § (1) bekezdésével megállapított szöveg.
-[^479]: A 248. § (3) bekezdése a 12/2018. (VII. 27.) HM rendelet 17. § (1) bekezdésével megállapított szöveg.
-[^480]: A 248. § (3) bekezdés a) pontja a 19/2022. (XII. 28.) HM rendelet 3. §-ával megállapított szöveg.
-[^481]: A 248. § (3) bekezdés b) pont nyitó szövegrésze a 19/2022. (XII. 28.) HM rendelet 5. § i) pontja szerint módosított szöveg.
-[^482]: A 248. § (4) bekezdése a 20/2018. (XII. 28) HM rendelet 62. § (2) bekezdésével megállapított, a 13/2020. (X. 14.) HM rendelet 31. § m) pontja szerint módosított szöveg.
-[^483]: A 248. § (5) bekezdését a 12/2018. (VII. 27.) HM rendelet 17. § (2) bekezdése iktatta be, szövege a 20/2018. (XII. 28) HM rendelet 62. § (2) bekezdésével megállapított szöveg.
+[^479]: A 248. § (1) bekezdése a 20/2018. (XII. 28) HM rendelet 62. § (1) bekezdésével megállapított szöveg.
+[^480]: A 248. § (2) bekezdése a 20/2018. (XII. 28) HM rendelet 62. § (1) bekezdésével megállapított szöveg.
+[^481]: A 248. § (3) bekezdése a 12/2018. (VII. 27.) HM rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^482]: A 248. § (3) bekezdés a) pontja a 19/2022. (XII. 28.) HM rendelet 3. §-ával megállapított szöveg.
+[^483]: A 248. § (3) bekezdés b) pont nyitó szövegrésze a 19/2022. (XII. 28.) HM rendelet 5. § i) pontja szerint módosított szöveg.
+[^484]: A 248. § (4) bekezdése a 20/2018. (XII. 28) HM rendelet 62. § (2) bekezdésével megállapított, a 13/2020. (X. 14.) HM rendelet 31. § m) pontja szerint módosított szöveg.
+[^485]: A 248. § (5) bekezdését a 12/2018. (VII. 27.) HM rendelet 17. § (2) bekezdése iktatta be, szövege a 20/2018. (XII. 28) HM rendelet 62. § (2) bekezdésével megállapított szöveg.

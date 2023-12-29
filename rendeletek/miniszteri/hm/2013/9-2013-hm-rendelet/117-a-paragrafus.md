@@ -1,4 +1,4 @@
-## VI. Fejezet[^320]
+## VI. Fejezet[^322]
 
 ## SZOLGÁLATTELJESÍTÉSI IDŐ
 
@@ -12,9 +12,9 @@
 
 (4) A munkáltatói jogkört gyakorló a szolgálatteljesítési idő adott napra vonatkozó beosztását – továbbá szolgálatteljesítési időkeret alkalmazása esetén a heti pihenőnap kijelölését – előre nem látható körülmény esetén legalább kettő nappal korábban módosíthatja. A módosítást az állomány tagjával a helyben szokásos módon kell közölni.
 
-(5)[^321] Az állományilletékes parancsnok az állomány általános szolgálati rendben szolgálatot teljesítő tagjának indokolt kérelmére legfeljebb 1 évre, a napi szolgálatteljesítési idő kezdő és befejező időpontját érintően eltérő munkarendet is engedélyezhet, feltéve, hogy az engedély megadása a honvédelmi szervezet működőképességének fenntartását nem akadályozza.
+(5)[^323] Az állományilletékes parancsnok az állomány általános szolgálati rendben szolgálatot teljesítő tagjának indokolt kérelmére legfeljebb 1 évre, a napi szolgálatteljesítési idő kezdő és befejező időpontját érintően eltérő munkarendet is engedélyezhet, feltéve, hogy az engedély megadása a honvédelmi szervezet működőképességének fenntartását nem akadályozza.
 
-(6)[^322] A Hjt. 98. § (1) bekezdése szerinti katonai szakmai felkészítésnek minősül
+(6)[^324] A Hjt. 98. § (1) bekezdése szerinti katonai szakmai felkészítésnek minősül
 
 a) a katonai végzettséggel nem rendelkezők tiszti alaptanfolyama,
 
@@ -28,9 +28,9 @@ e) az Egységes Zászlóstanfolyam,
 
 f) a KNBSZ főigazgatója által belső rendelkezésben meghatározott szakmai tanfolyam,
 
-g)[^323] a Hjt. 216. § (3) bekezdése szerinti, az önkéntes tartalékos beosztásra történő felkészítése és
+g)[^325] a Hjt. 216. § (3) bekezdése szerinti, az önkéntes tartalékos beosztásra történő felkészítése és
 
-(7)[^324] Az MH EK-ban a teljes napi munkaidőből 6 órát kell a munkavégzés helyén töltenie
+(7)[^326] Az MH EK-ban a teljes napi munkaidőből 6 órát kell a munkavégzés helyén töltenie
 
 a) a szolgálatteljesítési helyén legalább napi 3 órán át sugárártalomnak kitett beosztásban foglalkoztatottnak,
 
@@ -44,11 +44,11 @@ e) a gyógytornásznak, gyógymasszőrnek, ha kizárólag beosztásának megfele
 
 f) a betegek, ápoltak oktatását, foglalkoztatását nem órarend szerint végzőknek.
 
-(8)[^325] A (7) bekezdés alapján a teljes napi munkaidőből fennmaradó időt a (7) bekezdés szerint foglalkoztatott személynek a munkáltató által meghatározott helyen a szakmai kompetenciáinak bővítésével, adminisztrációs feladatok ellátásával kell töltenie.
+(8)[^327] A (7) bekezdés alapján a teljes napi munkaidőből fennmaradó időt a (7) bekezdés szerint foglalkoztatott személynek a munkáltató által meghatározott helyen a szakmai kompetenciáinak bővítésével, adminisztrációs feladatok ellátásával kell töltenie.
 
-[^320]: A VI. fejezet (117/A–126/B. §) a 4/2015. (VI. 22.) HM rendelet 22. §-ával megállapított szöveg.
-[^321]: A 117/A. § (5) bekezdését a 10/2016. (VI. 29.) HM rendelet 23. §-a iktatta be.
-[^322]: A 117/A. § (6) bekezdését a 4/2020. (II. 28.) HM rendelet 9. §-a iktatta be.
-[^323]: A 117/A. § (6) bekezdés g) pontja a 6/2023. (IV. 3.) HM rendelet 11. § b) pontja szerint módosított szöveg.
-[^324]: A 117/A. § (7) bekezdését a 8/2021. (II. 27.) HM rendelet 2. §-a iktatta be.
-[^325]: A 117/A. § (8) bekezdését a 8/2021. (II. 27.) HM rendelet 2. §-a iktatta be.
+[^322]: A VI. fejezet (117/A–126/B. §) a 4/2015. (VI. 22.) HM rendelet 22. §-ával megállapított szöveg.
+[^323]: A 117/A. § (5) bekezdését a 10/2016. (VI. 29.) HM rendelet 23. §-a iktatta be.
+[^324]: A 117/A. § (6) bekezdését a 4/2020. (II. 28.) HM rendelet 9. §-a iktatta be.
+[^325]: A 117/A. § (6) bekezdés g) pontja a 6/2023. (IV. 3.) HM rendelet 11. § b) pontja szerint módosított szöveg.
+[^326]: A 117/A. § (7) bekezdését a 8/2021. (II. 27.) HM rendelet 2. §-a iktatta be.
+[^327]: A 117/A. § (8) bekezdését a 8/2021. (II. 27.) HM rendelet 2. §-a iktatta be.
