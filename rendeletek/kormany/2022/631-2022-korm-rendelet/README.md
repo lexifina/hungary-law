@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-631-20-
 | 2023-01-02 | 2022-631-20-22.2 | 2010. évi CXXX. törvény |
 | 2023-03-01 | 2022-631-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2023-03-02 | 2022-631-20-22.4 | 2010. évi CXXX. törvény |
+| 2023-12-29 | 2022-631-20-22.7 | 647/2023. (XII. 28.) Korm. rendelet |
