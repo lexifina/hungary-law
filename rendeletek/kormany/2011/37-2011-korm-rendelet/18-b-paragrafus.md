@@ -1,7 +1,39 @@
-18/B. § (1) A csoportmentességi rendeletek alapján a miniszternek 2016. július 1-jét megelőzően bejelentett és 2016. július 1-jén még hatályos támogatási intézkedés vonatkozásában a támogatást nyújtó 2016. szeptember 15-éig megküldi a miniszternek a 18/A. § (1) bekezdés c) pontja, (2) bekezdés c) pontja vagy (3) bekezdés c) pontja szerinti nyilatkozatot.
+18/B. §[^167] (1) A 18/A. § (1) bekezdés a) pontja szerinti utólagos tájékoztatási kötelezettség keretében a támogatást nyújtó megküldi a miniszter részére
 
-(2) Ha az Európai Bizottság a közzétételi kötelezettség alkalmazására a 2015/1589/EU tanácsi rendelet 21. cikk (2) bekezdése szerinti tájékoztatás vagy a 2015/1589/EU tanácsi rendelet 22. cikke szerinti megfelelő intézkedésekre vonatkozó ajánlás keretében tesz javaslatot, a támogatást nyújtó a közzétételi kötelezettség teljesítéséhez szükséges adatszolgáltatás módjáról a 23. § (1) bekezdése szerinti felhívástól számított tizenöt napon belül nyilatkozik a miniszter részére.
+a) a bejelentéssel egyidejűleg az 5. melléklet szerinti adatlapot,
 
-(3) Az (1) és (2) bekezdés, valamint a 18/A. § (4) bekezdése szerinti nyilatkozatnak tartalmaznia kell a kapcsolattartó szervezeti egység megnevezését, valamint a kapcsolattartó személy nevét, postacímét, telefonszámát és elektronikus levélcímét.
+b) az elfogadott támogatási intézkedés teljes szövegéhez vezető weboldal elérhetőségét az intézkedés hatálybalépését követő tíz munkanapon belül
 
-(4) Ha a támogatást nyújtó módosítani kívánja a közzétételi kötelezettség teljesítéséhez szükséges adatszolgáltatás módját, erről köteles tájékoztatni a minisztert a soron következő adatszolgáltatása előtt legalább tizenöt nappal.
+annak érdekében, hogy a miniszter a 651/2014/EU bizottsági rendelet 11. cikk (1) bekezdés a) pontja szerinti kötelezettséget határidőben teljesíteni tudja.
+
+(2) A 18/A. § (2) bekezdés a) pontja szerinti előzetes tájékoztatási kötelezettség keretében a támogatást nyújtó megküldi a miniszter részére
+
+a) a bejelentéssel egyidejűleg az 5/A. melléklet szerinti adatlapot,
+
+b) a támogatási intézkedés teljes szövegét a támogatási program hatálybalépését vagy az ad hoc támogatás odaítélését húsz munkanappal megelőzően
+
+annak érdekében, hogy a miniszter a 702/2014/EU bizottsági rendelet 9. cikk (1) bekezdése szerinti kötelezettséget határidőben teljesíteni tudja.
+
+(3) A 18/A. § (3) bekezdés a) pontja szerinti utólagos tájékoztatási kötelezettség keretében a támogatást nyújtó megküldi a miniszter részére
+
+a) a bejelentéssel egyidejűleg az 5/C. melléklet szerinti adatlapot,
+
+b) az elfogadott támogatási intézkedés teljes szövegéhez vezető weboldal elérhetőségét az intézkedés hatálybalépését követő tíz munkanapon belül
+
+annak érdekében, hogy a miniszter az (EU) 2022/2472 bizottsági rendelet 11. cikk (1) bekezdése szerinti kötelezettséget határidőben teljesíteni tudja.
+
+(4) A 18/A. § (4) bekezdés a) pontja szerinti utólagos tájékoztatási kötelezettség keretében a támogatást nyújtó megküldi a miniszter részére
+
+a) a bejelentéssel egyidejűleg az 5/B. melléklet szerinti adatlapot,
+
+b) az elfogadott támogatási intézkedés teljes szövegéhez vezető weboldal elérhetőségét az intézkedés hatálybalépését követő tíz munkanapon belül
+
+annak érdekében, hogy a miniszter az (EU) 2022/2473 bizottsági rendelet 11. cikk (2) bekezdése szerinti kötelezettséget határidőben teljesíteni tudja.
+
+(5) A támogatást nyújtó
+
+a) biztosítja, hogy a támogatási intézkedés (1)–(4) bekezdésben említett teljes szövege – az ahhoz vezető weboldalon – a támogatás nyújtásától számított 10 évig elérhető,
+
+b) közzéteszi az 1370/2007/EU európai parlamenti és tanácsi rendelet 7. cikk (3) bekezdésében foglalt információkat a miniszter egyidejű tájékoztatása mellett.
+
+[^167]: A 18/B. § a 639/2023. (XII. 28.) Korm. rendelet 6. §-ával megállapított szöveg.

@@ -56,11 +56,11 @@ b) az EUMSz 106. cikk (2) bekezdése alapján általános gazdasági érdekű sz
 
 9.[^20] kis- és középvállalkozás: a 651/2014/EU bizottsági rendelet I. melléklete szerinti vállalkozás,
 
-9a.[^21] közvetett adatszolgáltatás: a Támogatásokat Vizsgáló Iroda honlapján (tvi.kormany.hu) elérhető dokumentumminta felhasználásával a miniszter részére történő adatszolgáltatás,
+9a.[^21] kötelező adatszolgáltatás: a Támogatásokat Vizsgáló Iroda (a továbbiakban: TVI) honlapján (tvi.kormany.hu) elérhető dokumentumminta vagy elektronikus formanyomtatvány útján a miniszter részére történő adatszolgáltatás,
 
-9b.[^22] közvetlen adatszolgáltatás: a Támogatásokat Vizsgáló Iroda honlapján (tvi.kormany.hu) keresztül elérhető internetes oldalon található, a támogatást nyújtó által kitöltendő elektronikus formanyomtatvány útján történő adatszolgáltatás,
+9b.[^22]
 
-9c.[^23] közzétételi kötelezettség: a 651/2014/EU bizottsági rendelet 9. cikk (1) bekezdés c) pontja, a 702/2014/EU bizottsági rendelet 9. cikk (2) bekezdés c) pontja, az (EU) 2022/2472 bizottsági rendelet 9. cikk (1) bekezdés c) pontja, az (EU) 2022/2473 bizottsági rendelet 9. cikk (1) bekezdés c) pontja, valamint az Európai Bizottság állami támogatási tárgyú határozata vagy más uniós állami támogatási szabály szerinti közzétételi kötelezettség, amely közvetlen adatszolgáltatás vagy közvetett adatszolgáltatás (a továbbiakban együtt: adatszolgáltatás módja) formájában teljesíthető,
+9c.[^23] közzétételi kötelezettség: a 651/2014/EU bizottsági rendelet 9. cikk (1) bekezdés c) pontja, a 702/2014/EU bizottsági rendelet 9. cikk (2) bekezdés c) pontja, az (EU) 2022/2472 bizottsági rendelet 9. cikk (1) bekezdés c) pontja, az (EU) 2022/2473 bizottsági rendelet 9. cikk (1) bekezdés c) pontja, valamint az Európai Bizottság állami támogatási tárgyú határozata vagy más uniós állami támogatási szabály szerinti közzétételi kötelezettség,
 
 9d.[^24] közzétételi kötelezettség hatálya alá tartozó támogatás: a közzétételi kötelezettség hatálya alá tartozó ad hoc támogatás vagy támogatási program keretében egyedi kedvezményezetteknek odaítélt támogatás,
 
@@ -145,9 +145,9 @@ c) egyébként jogosult a vállalkozás vezető tisztségviselői vagy felügyel
 [^18]: A 2. § 6e. pontját a 156/2022. (IV. 19.) Korm. rendelet 1. § (3) bekezdése iktatta be.
 [^19]: A 2. § 7. pontja a 38/2016. (III. 3.) Korm. rendelet 12. § 5. pontja szerint módosított szöveg.
 [^20]: A 2. § 9. pontja a 158/2014. (VI. 30.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 554. § b) pontja szerint módosított szöveg.
-[^21]: A 2. § 9a. pontját a 177/2016. (VII. 1.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^22]: A 2. § 9b. pontját a 177/2016. (VII. 1.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^23]: A 2. § 9c. pontját a 177/2016. (VII. 1.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 365/2023. (VIII. 3.) Korm. rendelet 7. § 3. pontja szerint módosított szöveg.
+[^21]: A 2. § 9a. pontját a 177/2016. (VII. 1.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 639/2023. (XII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^22]: A 2. § 9b. pontját a 177/2016. (VII. 1.) Korm. rendelet 1. § (3) bekezdése iktatta be, a 639/2023. (XII. 28.) Korm. rendelet 8. § 1. pontja hatályon kívül helyezte.
+[^23]: A 2. § 9c. pontját a 177/2016. (VII. 1.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 365/2023. (VIII. 3.) Korm. rendelet 7. § 3. pontja, a 639/2023. (XII. 28.) Korm. rendelet 8. § 2. pontja szerint módosított szöveg.
 [^24]: A 2. § 9d. pontját a 177/2016. (VII. 1.) Korm. rendelet 1. § (3) bekezdése iktatta be.
 [^25]: A 2. § 9e. pontját a 156/2022. (IV. 19.) Korm. rendelet 1. § (4) bekezdése iktatta be.
 [^26]: A 2. § 9f. pontját a 156/2022. (IV. 19.) Korm. rendelet 1. § (4) bekezdése iktatta be.

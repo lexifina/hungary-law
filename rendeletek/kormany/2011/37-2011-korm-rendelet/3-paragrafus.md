@@ -36,15 +36,15 @@ d)[^49] a kijelölt kapcsolattartó szervezeti egység megnevezését és a kapc
 
 da) a 7. § (1) bekezdése szerinti bejelentés,
 
-db) a 18/A–18/D. § szerinti tájékoztatási és közzétételi kötelezettség,
+db)[^50] a 18/A–18/D. § szerinti tájékoztatási, jelentéstételi és közzétételi kötelezettség,
 
-dc) a 20. § (5) bekezdése és a 21. § (3) bekezdése szerinti beszámolási kötelezettség,
+dc)[^51]
 
-dd) a 34. § szerinti éves jelentéstételi kötelezettség
+dd)[^52]
 
 teljesítése vonatkozásában,
 
-e)[^50] az egyedi támogatás vagy a támogatási program
+e)[^53] az egyedi támogatás vagy a támogatási program
 
 ea) tervezett átlagos éves költségvetését és
 
@@ -52,15 +52,18 @@ eb) teljes költségvetését.
 
 (2) A támogatási tervezetben az állami támogatás formája különösen vissza nem térítendő és visszatérítendő pénzeszközök nyújtásaként, kamatmentes hitelként, kedvezményes kamatozású hitelként, kamattámogatásként, kedvezményes feltételű kezességvállalásként, állami tőkejuttatásként, adókedvezményként, adóalap- kedvezményként, ingyenesen és kedvezményes feltételek mellett nyújtott szolgáltatásként, ingatlanjuttatásként, követelésről való lemondásként, tartozásátvállalásként, kedvezményes bérletként vagy kedvezményes lízingként határozható meg.
 
-(3)[^51] Ha uniós jogi aktus másként nem rendelkezik, nem fizethető ki támogatás azon szervezet részére, amely az Európai Bizottság támogatás visszafizetésére kötelező határozatának nem tett eleget.
+(3)[^54] Ha uniós jogi aktus másként nem rendelkezik, nem fizethető ki támogatás azon szervezet részére, amely a támogatás odaítélésekor még nem tett eleget valamennyi, az Európai Bizottság uniós versenyjogi értelemben vett állami támogatás visszafizetésére kötelező, Magyarországnak címzett határozata alapján fennálló visszafizetési kötelezettségének.
 
-(4)[^52] Ha a 3. § (1) bekezdés d) pontja szerinti adatok bármelyike megváltozik, erről a támogatást nyújtó köteles haladéktalanul, de legkésőbb a változás időpontját követő tizenöt napon belül tájékoztatni a minisztert.
+(4)[^55] Ha a 3. § (1) bekezdés d) pontja szerinti adatok bármelyike megváltozik, erről a támogatást nyújtó köteles haladéktalanul, de legkésőbb a változás időpontját követő tizenöt napon belül tájékoztatni a minisztert.
 
 [^45]: A 3. § (1) bekezdés nyitó szövegrésze a 679/2021. (XII. 3.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
 [^46]: A 3. § (1) bekezdés b) pont bj) alpontja a 38/2016. (III. 3.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^47]: A 3. § (1) bekezdés b) pont bk) alpontját a 221/2014. (IX. 4.) Korm. rendelet 544. § (1) bekezdése iktatta be.
 [^48]: A 3. § (1) bekezdés c) pontját a 221/2014. (IX. 4.) Korm. rendelet 544. § (2) bekezdése iktatta be.
 [^49]: A 3. § (1) bekezdés d) pontját a 221/2014. (IX. 4.) Korm. rendelet 544. § (2) bekezdése iktatta be, szövege a 177/2016. (VII. 1.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^50]: A 3. § (1) bekezdés e) pontját a 165/2018. (IX. 11.) Korm. rendelet 2. §-a iktatta be.
-[^51]: A 3. § (3) bekezdését az 550/2013. (XII. 30.) Korm. rendelet 67. § (5) bekezdése iktatta be, szövege a 409/2016. (XII. 13.) Korm. rendelet 4. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^52]: A 3. § (4) bekezdését újonnan a 177/2016. (VII. 1.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^50]: A 3. § (1) bekezdés d) pont db) alpontja a 639/2023. (XII. 28.) Korm. rendelet 7. § 1. pontja szerint módosított szöveg.
+[^51]: A 3. § (1) bekezdés d) pont dc) alpontját a 639/2023. (XII. 28.) Korm. rendelet 8. § 3. pontja hatályon kívül helyezte.
+[^52]: A 3. § (1) bekezdés d) pont dd) alpontját a 639/2023. (XII. 28.) Korm. rendelet 8. § 3. pontja hatályon kívül helyezte.
+[^53]: A 3. § (1) bekezdés e) pontját a 165/2018. (IX. 11.) Korm. rendelet 2. §-a iktatta be.
+[^54]: A 3. § (3) bekezdését az 550/2013. (XII. 30.) Korm. rendelet 67. § (5) bekezdése iktatta be, szövege a 409/2016. (XII. 13.) Korm. rendelet 4. § (1) bekezdés a) pontja, a 639/2023. (XII. 28.) Korm. rendelet 7. § 3. pontja szerint módosított szöveg.
+[^55]: A 3. § (4) bekezdését újonnan a 177/2016. (VII. 1.) Korm. rendelet 2. § (2) bekezdése iktatta be.

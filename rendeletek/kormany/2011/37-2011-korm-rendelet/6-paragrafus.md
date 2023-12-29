@@ -1,26 +1,20 @@
-6. § (1)[^57] Ha uniós állami támogatási szabály másként nem rendelkezik, nehéz helyzetben lévő vállalkozás nem részesülhet állami támogatásban.
+6. § (1)[^60] Ha uniós állami támogatási szabály másként nem rendelkezik, nehéz helyzetben lévő vállalkozás nem részesülhet állami támogatásban.
 
-(1a)[^58] Az Európai Bizottságnak 2014. augusztus 1-jét megelőzően bejelentett, létező támogatásnak minősülő támogatási program esetén egy vállalkozás a (2) és (3) bekezdés szerinti feltételek valamelyikének fennállása esetén akkor tekinthető nehéz helyzetben lévőnek, ha képtelen – akár saját erejéből, akár a tulajdonosai, részvényesei vagy hitelezői által biztosított források révén – arra, hogy megállítsa a veszteségek halmozódását, amely valamely hatóság beavatkozása nélkül azt eredményezné, hogy rövid- vagy középtávon feladja üzleti tevékenységét.
+(1a)[^61]
 
-(2) Valamely vállalkozás méretétől, illetve a körülményektől függetlenül akkor minősül nehéz helyzetben lévőnek, ha
+(2)[^62]
 
-a) korlátolt felelősségi alapon működő társaság esetén jegyzett tőkéjének több mint a fele nincs meg, és annak több mint egynegyede az előző 12 hónap során veszett el,
+(3)[^63]
 
-b) olyan társaság esetén, ahol legalább egyes tagok korlátlan felelősséggel bírnak a társaság tartozásai tekintetében, a társaság könyveiben kimutatott tőkének több mint a fele nincs meg, és annak több mint egynegyede az előző 12 hónap során veszett el vagy
+(4)[^64]
 
-c)[^59] az adott vállalkozás – függetlenül a jogi formától – a saját joga alapján megfelel a fizetésképtelenségi eljárásról szóló uniós rendelet szerinti fizetésképtelenségi eljárás kritériumainak.
+(4a)[^65] Ha uniós állami támogatási tárgyú szabály másként nem rendelkezik, a vállalkozást akkor kell nehéz helyzetben lévőnek tekinteni, ha legalább az alábbi kategóriák egyikébe beletartozik:
 
-(3) Valamely vállalkozás a (2) bekezdésben meghatározott feltételek hiányában különösen olyan esetekben is nehéz helyzetben lévőnek tekintendő, ha veszteségei nőnek, forgalma csökken, leltári készletei felhalmozódnak, fölös kapacitása megemelkedik, megrendelés-állománya jelentős mértékben csökken, pénzforgalma csökken, adóssága nő, a nettó eszközérték leírása csökken vagy teljesen leírásra kerül.
+a)[^66] olyan társaság esetén, ahol a tagok felelőssége a társaság tartozásai tekintetében korlátozott, így különösen a részvénytársaság és a korlátolt felelősségű társaság esetében, ha a vállalkozás névértéken felüli befizetést is magában foglaló jegyzett tőkéjének több mint a felét felhalmozott veszteségei miatt elvesztette, különösen amennyiben a felhalmozott veszteségeknek saját forrásnak minősülő elemből történő levonásakor a jegyzett tőke felét meghaladó negatív eredmény keletkezik,
 
-(4)[^60]
+b)[^67] olyan társaság esetén, ahol legalább egyes tagok korlátlan felelősséggel bírnak a társaság tartozásai tekintetében, így különösen a közkereseti társaság, betéti társaság, közös vállalat, egyesülés és egyéni cég esetében, amennyiben a vállalkozás a saját tőkéjének több mint felét felhalmozott veszteségei miatt elvesztette,
 
-(4a)[^61] Ha a támogatási intézkedés a 651/2014/EU bizottsági rendelet, a 702/2014/EU bizottsági rendelet, az (EU) 2022/2472 bizottsági rendelet és az (EU) 2022/2473 bizottsági rendelet hatálya alá tartozó állami támogatásnak minősül, a vállalkozást akkor kell nehéz helyzetben lévőnek tekinteni, ha legalább az alábbi kategóriák egyikébe beletartozik:
-
-a)[^62] olyan társaság esetén, ahol a tagok felelőssége a társaság tartozásai tekintetében korlátozott, így különösen a részvénytársaság és a korlátolt felelősségű társaság esetében, ha a vállalkozás névértéken felüli befizetést is magában foglaló jegyzett tőkéjének több mint a felét felhalmozott veszteségei miatt elvesztette, különösen amennyiben a felhalmozott veszteségeknek saját forrásnak minősülő elemből történő levonásakor a jegyzett tőke felét meghaladó negatív eredmény keletkezik,
-
-b)[^63] olyan társaság esetén, ahol legalább egyes tagok korlátlan felelősséggel bírnak a társaság tartozásai tekintetében, így különösen a közkereseti társaság, betéti társaság, közös vállalat, egyesülés és egyéni cég esetében, amennyiben a vállalkozás a saját tőkéjének több mint felét felhalmozott veszteségei miatt elvesztette,
-
-c)[^64] olyan vállalkozás, amely ellen a fizetésképtelenségi eljárásról szóló uniós rendelet szerinti fizetésképtelenségi eljárás indult, vagy ellene hitelezői kérelmére a saját joga alapján ilyen fizetésképtelenségi eljárás indítható,
+c)[^68] olyan vállalkozás, amely ellen a fizetésképtelenségi eljárásról szóló uniós rendelet szerinti fizetésképtelenségi eljárás indult, vagy ellene hitelezői kérelmére a saját joga alapján ilyen fizetésképtelenségi eljárás indítható,
 
 d) olyan vállalkozás, amely
 
@@ -30,44 +24,32 @@ db) szerkezetátalakítási támogatásban részesült és továbbra is a szerke
 
 e) kis- és középvállalkozások kivételével olyan vállalkozás, amely esetében az előző két évben a könyv szerinti idegen tőke és saját tőke aránya meghaladta a 7,5-et és a kamatok, adózás és értékcsökkenési leírás előtti eredménnyel számolt kamatfedezeti ráta kevesebb volt 1,0-nél.
 
-(4b)[^65] A 651/2014/EU bizottsági rendelet hatálya alá tartozó állami támogatások esetében a (4a) bekezdés a) és b) pontját nem kell alkalmazni
+(4b)[^69] A 651/2014/EU bizottsági rendelet hatálya alá tartozó állami támogatások esetében a (4a) bekezdés a) és b) pontját nem kell alkalmazni
 
 a) a kevesebb, mint három éve létező kis- és középvállalkozások esetében és
 
-b) a kockázatfinanszírozási támogatásra való jogosultság szempontjából olyan kis- és középvállalkozások esetében, amelyeknél az első kereskedelmi értékesítéstől számítva hét év még nem telt el, ha a kis- és középvállalkozás a kiválasztott pénzügyi közvetítő hivatalos átvilágítása alapján kockázatfinanszírozási befektetésre jogosult.
+b)[^70] a kockázatfinanszírozási támogatásra való jogosultság szempontjából a 651/2014/EU bizottsági rendelet 21. cikk (3) bekezdés b) pontjában foglaltaknak megfelelő olyan kis- és középvállalkozások esetében, amelyek a kiválasztott pénzügyi közvetítő hivatalos átvilágítása alapján kockázatfinanszírozási befektetésre jogosult.
 
-(5)[^66] A támogatást nyújtó dönt a (3) bekezdés szerinti feltétel fennállásáról.
+(5)[^71]
 
-(6)[^67] Az Európai Bizottságnak 2014. augusztus 1-jén vagy azt követően bejelentett, létező támogatásnak minősülő támogatási program vagy egyedi támogatás esetén egy vállalkozás a (7) bekezdés szerinti feltételek valamelyikének fennállása esetén akkor tekinthető nehéz helyzetben lévőnek, ha valamely hatóság beavatkozása nélkül rövid- vagy középtávon feladná üzleti tevékenységét.
+(6)[^72]
 
-(7)[^68] Valamely vállalkozás akkor minősül nehéz helyzetben lévőnek, ha
+(7)[^73]
 
-a)[^69] olyan társaság esetén, ahol a tagok felelőssége a társaság tartozásai tekintetében korlátozott, így különösen a részvénytársaság és a korlátolt felelősségű társaság esetében, ha a vállalkozás névértéken felüli befizetést is magában foglaló jegyzett tőkéjének több mint a felét felhalmozott veszteségei miatt elvesztette, különösen amennyiben a felhalmozott veszteségeknek saját forrásnak minősülő elemből történő levonásakor a jegyzett tőke felét meghaladó negatív eredmény keletkezik,
+(8)[^74]
 
-b)[^70] olyan társaság esetén, ahol legalább egyes tagok korlátlan felelősséggel bírnak a társaság tartozásai tekintetében, így különösen a közkereseti társaság, betéti társaság, közös vállalat, egyesülés és egyéni cég esetében, amennyiben a vállalkozás a saját tőkéjének több mint felét felhalmozott veszteségei miatt elvesztette,
-
-c)[^71] olyan vállalkozás, amely ellen a fizetésképtelenségi eljárásról szóló uniós rendelet szerinti fizetésképtelenségi eljárás indult, vagy ellene hitelezői kérelmére a saját joga alapján ilyen fizetésképtelenségi eljárás indítható,
-
-d)[^72]
-
-e) kis- és középvállalkozások kivételével olyan vállalkozás, amely esetében az előző két évben a könyv szerinti idegen tőke és saját tőke aránya meghaladta a 7,5-et és a kamatok, adózás és értékcsökkenési leírás előtti eredménnyel számolt kamatfedezeti ráta kevesebb volt 1,0-nél.
-
-(8)[^73] A kevesebb, mint három éve létező kis- és középvállalkozást csak a (7) bekezdés c) pontja szerinti feltétel fennállása esetén kell nehéz helyzetben lévőnek tekinteni.
-
-[^57]: A 6. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 555. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^58]: A 6. § (1a) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 546. § (1) bekezdése iktatta be, szövege a 38/2016. (III. 3.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 679/2021. (XII. 3.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
-[^59]: A 6. § (2) bekezdés c) pontja a 409/2016. (XII. 13.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^60]: A 6. § (4) bekezdését a 365/2023. (VIII. 3.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
-[^61]: A 6. § (4a) bekezdését a 158/2014. (VI. 30.) Korm. rendelet 3. § (2) bekezdése iktatta be, nyitó szövegrésze a 221/2014. (IX. 4.) Korm. rendelet 554. § c) pontja, a 365/2023. (VIII. 3.) Korm. rendelet 7. § 6. pontja szerint módosított szöveg.
-[^62]: A 6. § (4a) bekezdés a) pontja a 409/2016. (XII. 13.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 483/2017. (XII. 28.) Korm. rendelet 3. §-a szerint módosított szöveg.
-[^63]: A 6. § (4a) bekezdés b) pontja a 409/2016. (XII. 13.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^64]: A 6. § (4a) bekezdés c) pontja a 409/2016. (XII. 13.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^65]: A 6. § (4b) bekezdését a 158/2014. (VI. 30.) Korm. rendelet 3. § (2) bekezdése iktatta be, nyitó szövegrésze a 221/2014. (IX. 4.) Korm. rendelet 554. § d) pontja szerint módosított szöveg.
-[^66]: A 6. § (5) bekezdését a 381/2012. (XII. 19.) Korm. rendelet 2. §-a iktatta be.
-[^67]: A 6. § (6) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 546. § (2) bekezdése iktatta be, szövege a 38/2016. (III. 3.) Korm. rendelet 3. § (3) bekezdésével megállapított, a 679/2021. (XII. 3.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
-[^68]: A 6. § (7) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 546. § (2) bekezdése iktatta be, nyitó szövegrésze a 38/2016. (III. 3.) Korm. rendelet 13. § e) pontja szerint módosított szöveg.
-[^69]: A 6. § (7) bekezdés a) pontja a 409/2016. (XII. 13.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^70]: A 6. § (7) bekezdés b) pontja a 409/2016. (XII. 13.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^71]: A 6. § (7) bekezdés c) pontja a 409/2016. (XII. 13.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^72]: A 6. § (7) bekezdés d) pontját a 38/2016. (III. 3.) Korm. rendelet 13. § f) pontja hatályon kívül helyezte.
-[^73]: A 6. § (8) bekezdését a 38/2016. (III. 3.) Korm. rendelet 3. § (4) bekezdése iktatta be.
+[^60]: A 6. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 555. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^61]: A 6. § (1a) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 546. § (1) bekezdése iktatta be, , a 639/2023. (XII. 28.) Korm. rendelet 8. § 4. pontja hatályon kívül helyezte.
+[^62]: A 6. § (2) bekezdését a 639/2023. (XII. 28.) Korm. rendelet 8. § 4. pontja hatályon kívül helyezte.
+[^63]: A 6. § (3) bekezdését a 639/2023. (XII. 28.) Korm. rendelet 8. § 4. pontja hatályon kívül helyezte.
+[^64]: A 6. § (4) bekezdését a 365/2023. (VIII. 3.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
+[^65]: A 6. § (4a) bekezdését a 158/2014. (VI. 30.) Korm. rendelet 3. § (2) bekezdése iktatta be, nyitó szövegrésze a 221/2014. (IX. 4.) Korm. rendelet 554. § c) pontja, a 365/2023. (VIII. 3.) Korm. rendelet 7. § 6. pontja, a 639/2023. (XII. 28.) Korm. rendelet 7. § 4. pontja szerint módosított szöveg.
+[^66]: A 6. § (4a) bekezdés a) pontja a 409/2016. (XII. 13.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 483/2017. (XII. 28.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^67]: A 6. § (4a) bekezdés b) pontja a 409/2016. (XII. 13.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^68]: A 6. § (4a) bekezdés c) pontja a 409/2016. (XII. 13.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^69]: A 6. § (4b) bekezdését a 158/2014. (VI. 30.) Korm. rendelet 3. § (2) bekezdése iktatta be, nyitó szövegrésze a 221/2014. (IX. 4.) Korm. rendelet 554. § d) pontja szerint módosított szöveg.
+[^70]: A 6. § (4b) bekezdés b) pontja a 639/2023. (XII. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^71]: A 6. § (5) bekezdését a 381/2012. (XII. 19.) Korm. rendelet 2. §-a iktatta be, a 639/2023. (XII. 28.) Korm. rendelet 8. § 4. pontja hatályon kívül helyezte.
+[^72]: A 6. § (6) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 546. § (2) bekezdése iktatta be, a 639/2023. (XII. 28.) Korm. rendelet 8. § 4. pontja hatályon kívül helyezte.
+[^73]: A 6. § (7) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 546. § (2) bekezdése iktatta be, a 639/2023. (XII. 28.) Korm. rendelet 8. § 4. pontja hatályon kívül helyezte.
+[^74]: A 6. § (8) bekezdését a 38/2016. (III. 3.) Korm. rendelet 3. § (4) bekezdése iktatta be, a 639/2023. (XII. 28.) Korm. rendelet 8. § 4. pontja hatályon kívül helyezte.
