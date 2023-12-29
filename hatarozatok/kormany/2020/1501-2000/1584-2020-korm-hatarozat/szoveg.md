@@ -6,13 +6,13 @@ a) Budapest Főváros Önkormányzata, valamint Budapest Főváros III. Kerület
 
 b) az utánpótlás-nevelés fontosságát és társadalmi értékét szem előtt tartva továbbra is elkötelezett a Kovács Katalin Nemzeti Kajak-Kenu Sportakadémia létrehozása iránt, az érintett önkormányzatok álláspontjára figyelemmel ugyanakkor a létesítmény a fővárosban nem tud megvalósulni;
 
-2.[^1] egyetért a Kovács Katalin Nemzeti Kajak-Kenu Sportakadémia Velencei-tónál történő létrehozására irányuló beruházás (a továbbiakban: Beruházás) részére bemutatott koncepció szerinti előkészítésével, az ingatlan-nyilvántartás szerinti, Sukoró külterület 019/1, 019/16, 019/17 és 019/18 helyrajzi számú, valamint Velence belterület 4514, 4515 és 4516 helyrajzi számú ingatlanokon (a továbbiakban együtt: Ingatlanok);
+2.[^1] egyetért a Kovács Katalin Nemzeti Kajak-Kenu Sportakadémia Velencei-tónál történő létrehozására irányuló beruházás (a továbbiakban: Beruházás) részére bemutatott koncepció szerinti előkészítésével, az ingatlan-nyilvántartás szerinti Sukoró külterület 019/1, 019/16 és 019/17 helyrajzi számú, valamint Velence belterület 4514, 4515 és 4516 helyrajzi számú ingatlanokon, továbbá az ingatlanokból telekalakítás útján létrejövő ingatlanokon (a továbbiakban együtt: Ingatlanok);
 
 3. a Beruházás előkészítésének kormányzati felelőseként a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert jelöli ki, az emberi erőforrások minisztere bevonásával;
 
 4. egyetért azzal, hogy a Beruházás előkészítését és megvalósítását a Beruházási Ügynökség végezze, a háromszoros olimpiai és harmincegyszeres világbajnok Kovács Katalin, valamint a Magyar Kajak-Kenu Szövetség közreműködésének a biztosításával;
 
-5. egyetért azzal, hogy a Beruházás során létrejövő vagyon kezelője a Nemzeti Sportközpontok legyen, azzal, hogy a Kovács Katalin Nemzeti Kajak-Kenu Sportakadémiát egy erre a célra létrehozásra kerülő alapítvány üzemelteti;
+5.[^2] egyetért azzal, hogy a Kovács Katalin Nemzeti Kajak-Kenu Sportakadémiát a Kovács Katalin Nemzeti Kajak-Kenu Akadémia Alapítvánnyal (nyilvántartási szám: 13 01 0004146) (a továbbiakban: Alapítvány) együttműködve, sportszakmai koncepciójának és véleményének figyelembevételével a Nemzeti Sportinfrastruktúra Ügynökség (a továbbiakban: Ügynökség) üzemeltesse;
 
 6. a Beruházásnak az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet 4. § a), c), f), g), l) és m) pontja szerinti előkészítési fázisai 2021. január 20. napjáig történő megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 161 290 000 forintban határozza meg;
 
@@ -78,7 +78,15 @@ emberi erőforrások minisztere
 
 Határidő: a feltételes közbeszerzési eljárást követő 60 napon belül
 
-16.[^2]
+16.[^3] az állami vagyonról szóló 2007. évi CVI. törvény 24. § (2) bekezdés e) pontja alapján úgy határoz, hogy az Ingatlanok, illetve az azokból telekalakítással létrejövő sportingatlanok versenyeztetés mellőzésével, határozatlan időre az Alapítvány használatába adja, azok sport céljára történő megőrzése, a sportról szóló 2004. évi I. törvény 49. § r) pontjában és 52. § b) pontjában meghatározott közfeladatok megvalósítása, valamint a helyi közösség és a Velencei-tó környezetében található települések számára történő sportcélú hasznosítása mint társadalompolitikai és egyéb szempontok szerinti közérdekű célok ellátásának elősegítése érdekében;
 
-[^1]: A 2. pont az 1671/2021. (IX. 28.) Korm. határozat 2. pontja szerint módosított szöveg.
-[^2]: A 16. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+17.[^4] felhívja a honvédelmi minisztert, hogy az Ügynökség útján tegye meg a szükséges intézkedéseket az Ingatlanok, illetve az azokból telekalakítással létrejövő ingatlanok használatba adására vonatkozó megállapodás Alapítvánnyal történő megkötése érdekében.
+
+| Felelős: | honvédelmi miniszter |
+
+| Határidő: | az e határozat közzétételét követő 60 napon belül |
+
+[^1]: A 2. pont az 1617/2023. (XII. 29.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^2]: Az 5. pont az 1617/2023. (XII. 29.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: A 16. pont az 1617/2023. (XII. 29.) Korm. határozat 2. pontjával megállapított szöveg.
+[^4]: A 17. pontot az 1617/2023. (XII. 29.) Korm. határozat 2. pontja iktatta be.
