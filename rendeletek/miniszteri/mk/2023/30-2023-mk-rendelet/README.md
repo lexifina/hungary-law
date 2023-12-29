@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-30-20-7
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2023-12-28 | 2023-30-20-7G.1 | 30/2023. (XII. 27.) MK rendelet |
+| 2023-12-29 | 2023-30-20-7G.2 | 2010. évi CXXX. törvény |
