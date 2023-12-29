@@ -8,7 +8,7 @@ a) a katonai szervezeteknél külön HM utasításban foglaltak szerint,
 
 b) a rendvédelmi szerveknél minden év november 30-ig
 
-## részvételi tervet készít.
+részvételi tervet készít.
 
 (2)[^10] Az állományilletékes parancsnok az ejtőernyős állomány beiskolázásával kapcsolatos döntését a MH Szárazföldi Parancsnokság parancsnokával egyeztetve hozza meg.
 
