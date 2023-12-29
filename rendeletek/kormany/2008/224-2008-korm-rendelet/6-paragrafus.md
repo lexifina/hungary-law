@@ -1,5 +1,3 @@
-## végrehajtásához szükséges rendelkezéseket állapítja meg.
-
 6. §[^37] (1)[^38] A 2011. január 1-jét megelőzően kiszabott, 2011. január 1-jét követően esedékes kémiai terhelési bírságot a 3. §-ban foglaltak megfelelő alkalmazásával azon megyei fővárosi és megyei kormányhivatal számlájára kell megfizetni, amelynek illetékességi területén működő járási népegészségügyi intézet a bírságot kiszabta.
 
 (2)[^39] Ha a bírságot 2011. január 1-jét megelőzően az Állami Népegészségügyi és Tisztiorvosi Szolgálat regionális intézete szabta ki, a bírságot az eljárt regionális intézet székhelye szerint illetékes fővárosi és megyei kormányhivatal számlájára kell megfizetni. A bírságfizetésre kötelezetteket a fővárosi és megyei kormányhivatal írásban tájékoztatja a számlaszám változásáról, ha

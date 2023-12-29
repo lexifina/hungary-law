@@ -42,11 +42,11 @@ d)[^15] a (2) bekezdés a) pontja alá nem tartozó, az Európai Vegyianyag-ügy
 
 e)[^16] a szállítói lánc tagjainak adatszolgáltatási kötelezettségét meghatározó előírásokat, így az 1907/2006/EK európai parlamenti és tanácsi rendelet 7. cikk (3) bekezdésében, 8. cikk (2) bekezdésében, 14. cikk (7) bekezdésében, 31. cikkében, 32. cikkében, 33. cikkében, 34. cikkében, 35. cikkében, 36. cikkében, 37. cikk (7) bekezdésében, 38. cikk (1), (3) és (4) bekezdésében és 66. cikk (1) bekezdésében előírtakat megsérti;
 
-f)[^17] a kémiai biztonsági értékelés és jelentés elkészítésére és a kockázatcsökkentési, kockázatkezelési intézkedések meghatározására, alkalmazására és ajánlására vonatkozó kötelezettségeket meghatározó rendelkezéseket, így a Kbtv. 19–21. §-aiban, valamint az 1907/2006/EK európai parlamenti és tanácsi rendelet 14. cikkében, 37. cikkében és 60. cikk (10) bekezdésében előírtakat megsérti;
+f)[^17] a kémiai biztonsági értékelés és jelentés elkészítésére és a kockázatcsökkentési, kockázatkezelési intézkedések meghatározására, alkalmazására és ajánlására vonatkozó kötelezettségeket meghatározó rendelkezéseket, így a Kbtv. 20–21. §-ában, valamint az 1907/2006/EK európai parlamenti és tanácsi rendelet 14. cikkében, 37. cikkében és 60. cikk (10) bekezdésében előírtakat megsérti;
 
 g)[^18] a 649/2012/EU európai parlamenti és tanácsi rendelet 7. cikkében, 8. cikkében, 11. cikk (4) bekezdésében, 14. cikk (4), (6), (8), (10) és (11) bekezdésében foglalt rendelkezéseket megsérti;
 
-h)[^19] a veszélyes anyag és a veszélyes keverék osztályozására, csomagolására, feliratozására, címkézésére vonatkozó előírásokat, így a Kbtv. 3. §-ában és 14–16. §-ában, az 1907/2006/EK európai parlamenti és tanácsi rendelet 65. cikkében és az 1272/2008/EK európai parlamenti és tanácsi rendelet 4. cikkében, valamint azzal összhangban
+h)[^19] a veszélyes anyag és a veszélyes keverék osztályozására, csomagolására, feliratozására, címkézésére vonatkozó előírásokat, így a Kbtv. 14–16. §-ában, az 1907/2006/EK európai parlamenti és tanácsi rendelet 65. cikkében és az 1272/2008/EK európai parlamenti és tanácsi rendelet 4. cikkében, valamint azzal összhangban
 
 ha)[^20] az osztályozás során az 1272/2008/EK európai parlamenti és tanácsi rendelet 5. cikkében, 6. cikkében, 7. cikkében, 8. cikkében, 9. cikkében, 10. cikkében, 11. cikkében, 12. cikkében, 13. cikkében, 14. cikkében, 15. cikkében és 61. cikkében foglaltakat megsérti,
 
@@ -80,9 +80,9 @@ l)[^25] a méregközpontba történő bejelentésre vonatkozó kötelezettségé
 [^14]: Az 1. § (3) bekezdés c) pontja a 316/2013. (VIII. 28.) Korm. rendelet 27. § (2) bekezdésével megállapított szöveg.
 [^15]: Az 1. § (3) bekezdés d) pontja a 123/2009. (VI. 12.) Korm. rendelet 7. § (4) bekezdés b) pontja, a 145/2010. (IV. 29.) Korm. rendelet 2. § c) és i)–j) pontja, valamint a 3. § a)–b) pontja szerint módosított szöveg.
 [^16]: Az 1. § (3) bekezdés e) pontja a 145/2010. (IV. 29.) Korm. rendelet 2. § c) pontja, valamint a 3. § a) pontja szerint módosított szöveg.
-[^17]: Az 1. § (3) bekezdés f) pontja a 145/2010. (IV. 29.) Korm. rendelet 2. § c) pontja, valamint a 3. § a) pontja szerint módosított szöveg.
+[^17]: Az 1. § (3) bekezdés f) pontja a 145/2010. (IV. 29.) Korm. rendelet 2. § c) pontja, valamint a 3. § a) pontja, a 659/2023. (XII. 28.) Korm. rendelet 27. §-a szerint módosított szöveg.
 [^18]: Az 1. § (3) bekezdés g) pontja a 145/2010. (IV. 29.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 447/2012. (XII. 29.) Korm. rendelet 71. § a) és b) pontja szerint módosított szöveg.
-[^19]: Az 1. § (3) bekezdés h) pontja a 145/2010. (IV. 29.) Korm. rendelet 1. § (2) bekezdésével megállapított, nyitó szövegrésze a 192/2015. (VII. 21.) Korm. rendelet 39. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^19]: Az 1. § (3) bekezdés h) pontja a 145/2010. (IV. 29.) Korm. rendelet 1. § (2) bekezdésével megállapított, nyitó szövegrésze a 192/2015. (VII. 21.) Korm. rendelet 39. § (1) bekezdés a) pontja, a 659/2023. (XII. 28.) Korm. rendelet 28. §-a szerint módosított szöveg.
 [^20]: Az 1. § (3) bekezdés h) pont ha) alpontja a 192/2015. (VII. 21.) Korm. rendelet 39. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^21]: Az 1. § (3) bekezdés h) pont hb) alpontja a 192/2015. (VII. 21.) Korm. rendelet 39. § (1) bekezdés c) pontja szerint módosított szöveg.
 [^22]: Az 1. § (3) bekezdés i) pontja a 145/2010. (IV. 29.) Korm. rendelet 2. § g) pontja szerint módosított szöveg.

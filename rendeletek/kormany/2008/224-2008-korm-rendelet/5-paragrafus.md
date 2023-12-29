@@ -1,5 +1,3 @@
-## 4. §[^31]
-
 5. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
 
 (2) A 2. § (2) bekezdése 2009. január 1-jén lép hatályba.
@@ -22,7 +20,8 @@ e)[^35] a környezetben tartósan megmaradó szerves szennyező anyagokról szó
 
 f)[^36] az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról szóló 1272/2008/EK európai parlamenti és tanácsi rendeletnek egy, az egészséget érintő vészhelyzetre való reagálással kapcsolatos harmonizált információkról szóló melléklet hozzáadásával történő módosításáról szóló, 2017. március 22-i (EU) 2017/542 bizottsági rendelet
 
-[^31]: A 4. §-t a 316/2013. (VIII. 28.) Korm. rendelet 27. § (4) bekezdése hatályon kívül helyezte.
+végrehajtásához szükséges rendelkezéseket állapítja meg.
+
 [^32]: Az 5. § (5) bekezdés b) pontja a 123/2009. (VI. 12.) Korm. rendelet 7. § (4) bekezdés a) pontja, a 447/2012. (XII. 29.) Korm. rendelet 71. § c) pontja szerint módosított szöveg.
 [^33]: Az 5. § (5) bekezdés c) pontját a 145/2010. (IV. 29.) Korm. rendelet 1. § (4) bekezdése iktatta be.
 [^34]: Az 5. § (5) bekezdés d) pontját a 316/2013. (VIII. 28.) Korm. rendelet 27. § (3) bekezdése iktatta be.
