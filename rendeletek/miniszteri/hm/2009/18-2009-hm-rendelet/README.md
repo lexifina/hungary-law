@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-18-20-1
 | 2017-01-01 | 2009-18-20-15.9 | 28/2016. (XII. 23.) HM rendelet |
 | 2017-12-02 | 2009-18-20-15.10 | 16/2017. (XI. 27.) HM rendelet |
 | 2022-03-03 | 2009-18-20-15.11 | 5/2022. (II. 28.) HM rendelet |
+| 2023-12-29 | 2009-18-20-15.12 | 48/2023. (XII. 28.) HM rendelet |
