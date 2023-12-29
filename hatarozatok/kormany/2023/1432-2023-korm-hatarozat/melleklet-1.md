@@ -14,9 +14,9 @@
 
 ## ad) 17. Magyar Államkincstár központi székháza földszinti pénztárterme helyreállításának megvalósítása jogcímcsoport javára 118 895 854 forint,
 
-## ae) 24. Jedlik Ányos Gimnázium felújításának további előkészítése és megvalósítása jogcímcsoport javára 1 328 604 249 forint,
+## ae)[^1]
 
-## b) 1. Magasépítési beruházások cím, 2. Programszerű magasépítési beruházások alcím, 2. Tanterem fejlesztések előkészítése és megvalósítása jogcímcsoport javára 25 871 034 forint,
+## b)[^2]
 
 ## c) 2. Közlekedési beruházások cím, 1. Közlekedési célú központi kezelésű előirányzatok alcím, 2. Állami közútfejlesztési beruházások jogcímcsoport javára 1 160 836 373 forint,
 
@@ -42,7 +42,7 @@
 
 | Határidő: | az 1.2. alpont szerinti források rendelkezésre állását követően azonnal |
 
-## 2.[^1]
+## 2.[^3]
 
 1. melléklet az 1432/2023. (X. 5.) Korm. határozathoz
 
@@ -92,4 +92,6 @@
 
 |  | 15–17. Közműfejlesztési beruházások összesen | 791 146 823 |
 
-[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont 1.2. pont ae) alpontját az 1619/2023. (XII. 29.) Korm. határozat 5. pontja hatályon kívül helyezte.
+[^2]: Az 1. pont 1.2. pont b) alpontját az 1619/2023. (XII. 29.) Korm. határozat 5. pontja hatályon kívül helyezte.
+[^3]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
