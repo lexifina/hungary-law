@@ -1,1 +1,3 @@
-1. § A lakáspénz és az egyszeri pénzbeli támogatás bevezetéséről szóló 10/2014. (VII. 25.) HM rendelet 4/B. § (1) bekezdésében az „a Magyar Honvédség parancsnokának” szövegrész helyébe az „a Honvéd Vezérkar Főnökének” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
