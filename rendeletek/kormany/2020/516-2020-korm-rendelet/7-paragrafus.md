@@ -22,7 +22,7 @@ h) 1/I. § (3), (6) és (7) bekezdése
 
 szerinti feladatok ellátására.
 
-(4)[^17]
+(4)[^17] A Kormány a térségi betegút-szervezésért felelős szervként – országos illetékességgel – az OKFŐ-t jelöli ki.
 
 (5)[^18]
 
@@ -62,7 +62,7 @@ szerinti feladatok ellátására.
 
 (12)[^21]
 
-[^17]: A 7. § (4) bekezdését a 630/2022. (XII. 30.) Korm. rendelet 25. § a) pontja hatályon kívül helyezte.
+[^17]: A 7. § (4) bekezdését a 630/2022. (XII. 30.) Korm. rendelet 25. § a) pontja hatályon kívül helyezte, újonnan a 659/2023. (XII. 28.) Korm. rendelet 58. §-a iktatta be.
 [^18]: A 7. § (5) bekezdését a 630/2022. (XII. 30.) Korm. rendelet 25. § a) pontja hatályon kívül helyezte.
 [^19]: A 7. § (6) bekezdését a 630/2022. (XII. 30.) Korm. rendelet 25. § a) pontja hatályon kívül helyezte.
 [^20]: A 7. § (6a) bekezdését a 29/2022. (I. 28.) Korm. rendelet 11. §-a iktatta be, a 630/2022. (XII. 30.) Korm. rendelet 25. § a) pontja hatályon kívül helyezte.
