@@ -4,7 +4,7 @@
 
 a) a haderőnemi repülőegységek repüléseinek (ejtőernyős ugrásainak) megszervezésével, végrehajtásával, irányításával és biztosításával kapcsolatos alapelveket;
 
-b)[^85] az MHP vezető beosztású személyeinek és az alárendelt repülőcsapatok parancsnokainak repülései (ejtőernyős ugrásai) megszervezésével, biztosításával és ellenőrzésével kapcsolatos kötelmeit;
+b)[^85] a HVK vezető beosztású személyeinek és az alárendelt repülőcsapatok parancsnokainak repülései (ejtőernyős ugrásai) megszervezésével, biztosításával és ellenőrzésével kapcsolatos kötelmeit;
 
 c) a repülések (ejtőernyős ugrások) engedélyezésének és a jogosultságok megszerzésének irányelveit;
 
@@ -29,7 +29,7 @@ e) a repülések szabályait különleges körülmények között (repülés nag
 (5)[^88] A rendvédelmi kiképző repülések végrehajtására a rendvédelmi szervek belső rendelkezéseit kell alkalmazni.
 
 [^84]: A 83. § (1) bekezdésének bevezető szövegrésze a 12/2009. (VIII. 19.) HM rendelet 30. § (2) bekezdése szerint módosított szöveg.
-[^85]: A 83. § (1) bekezdés b) pontja a 11/2021. (IV. 1.) HM rendelet 7. § b) pontja szerint módosított szöveg.
+[^85]: A 83. § (1) bekezdés b) pontja a 47/2023. (XII. 28.) HM rendelet 1. § d) pontja szerint módosított szöveg.
 [^86]: A 83. § (2) bekezdésének bevezető szövegrésze a 12/2009. (VIII. 19.) HM rendelet 30. § (2) bekezdése szerint módosított szöveg.
 [^87]: A 83. § (4) bekezdése a 12/2009. (VIII. 19.) HM rendelet 27. § (1) bekezdésével megállapított szöveg.
 [^88]: A 83. § (5) bekezdését a 12/2009. (VIII. 19.) HM rendelet 27. § (2) bekezdése iktatta be.
