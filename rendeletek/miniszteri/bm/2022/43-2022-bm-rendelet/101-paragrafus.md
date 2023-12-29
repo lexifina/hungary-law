@@ -1,6 +1,6 @@
 ## 26. A felülvizsgálati eljárás elrendelése, megszüntetése
 
-101. § (1)[^10] A 100. § (1) bekezdése szerinti minősítésről a minősítést adó orvos a II. Fejezetben foglaltak szerint kiállított minősítő dokumentumot öt napon belül megküldi az Országgyűlési Őrség személyügyi szervének. A személyügyi szerv a minősítő dokumentum alapján – „Alkalmas kategória-váltással” minősítés esetén –, ha a hivatásos állomány tagja számára a végzettségének, képzettségének megfelelő beosztás nem biztosítható, vagy a neki felajánlott alacsonyabb szolgálati beosztást nem fogadja el, tizenöt munkanapon belül előkészíti a felülvizsgálati eljárás elrendelését. A személyügyi szerv ennek keretében intézkedik
+101. § (1)[^11] A 100. § (1) bekezdése szerinti minősítésről a minősítést adó orvos a II. Fejezetben foglaltak szerint kiállított minősítő dokumentumot öt napon belül megküldi az Országgyűlési Őrség személyügyi szervének. A személyügyi szerv a minősítő dokumentum alapján – „Alkalmas kategória-váltással” minősítés esetén –, ha a hivatásos állomány tagja számára a végzettségének, képzettségének megfelelő beosztás nem biztosítható, vagy a neki felajánlott alacsonyabb szolgálati beosztást nem fogadja el, tizenöt munkanapon belül előkészíti a felülvizsgálati eljárás elrendelését. A személyügyi szerv ennek keretében intézkedik
 
 a) a rendvédelmi alapellátó orvos véleményének,
 
@@ -70,4 +70,4 @@ f) valamennyi rendelkezésre álló – különösen az egy éven belüli – fe
 
 g) a baleset, fokozott expozíciós eset, foglalkozási betegség esetén a minősítő határozatot, és ha van, a baleseti jegyzőkönyvet.
 
-[^10]: A 101. § (1) bekezdése a 24/2023. (VI. 30.) BM rendelet 60. §-ával megállapított szöveg.
+[^11]: A 101. § (1) bekezdése a 24/2023. (VI. 30.) BM rendelet 60. §-ával megállapított szöveg.
