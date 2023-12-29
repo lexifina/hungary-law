@@ -1,1 +1,0 @@
-A kémiai biztonságról szóló 2000. évi XXV. törvény (a továbbiakban: Kbtv.) 34. §-a (4) bekezdésének h) pontjában kapott felhatalmazás alapján – a 25. § tekintetében a pénzügyminiszterrel egyetértésben – a következőket rendeljük el:
