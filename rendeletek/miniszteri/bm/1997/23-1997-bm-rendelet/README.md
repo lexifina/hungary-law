@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-23-20-0
 | 2022-08-01 | 1997-23-20-0A.15 | 5/2022. (III. 31.) BM rendelet |
 | 2023-02-01 | 1997-23-20-0A.16 | 40/2017. (XII. 29.) BM rendelet |
 | 2023-07-01 | 1997-23-20-0A.17 | 24/2023. (VI. 30.) BM rendelet |
+| 2023-12-29 | 1997-23-20-0A.18 | 40/2017. (XII. 29.) BM rendelet |
