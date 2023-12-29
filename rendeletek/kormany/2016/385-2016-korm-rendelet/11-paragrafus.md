@@ -1,4 +1,4 @@
-11. §[^33] A Kormány egészségügyi államigazgatási szervként az NNGYK-t, a kormányhivatalt és a járási hivatalt jelöli ki
+11. §[^41] A Kormány egészségügyi államigazgatási szervként az NNGYK-t, a kormányhivatalt és a járási hivatalt jelöli ki
 
 a) az Eüak. 5. § (3) bekezdése,
 
@@ -10,13 +10,13 @@ ca) 23. § d) pontja,
 
 cb) 24. § e) és f) pontja,
 
-d)[^34] az Ehi. 4. § (6) bekezdés h) pontja,
+d)[^42] az Ehi. 4. § (6) bekezdés h) pontja,
 
-e)[^35] az Eütv. 123. § (1) bekezdés a) pontja és (2) bekezdése
+e)[^43] az Eütv. 123. § (1) bekezdés a) pontja és (2) bekezdése
 
-f) [^36] az egészségügyi alapellátásról szóló 2015. évi CXXIII. törvény 14. § (1) bekezdése
+f) [^44] az egészségügyi alapellátásról szóló 2015. évi CXXIII. törvény 14. § (1) bekezdése
 
-[^33]: A 11. § nyitó szövegrésze az 514/2022. (XII. 13.) Korm. rendelet 3. § c) pontja, a 334/2023. (VII. 20.) Korm. rendelet 49. § c) pontja szerint módosított szöveg.
-[^34]: A 11. § d) pontját a 164/2018. (IX. 11.) Korm. rendelet 3. §-a iktatta be.
-[^35]: A 11. § e) pontját a 190/2019. (VII. 30.) Korm. rendelet 4. §-a iktatta be, szövege a 706/2021. (XII. 15.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
-[^36]: A 11. § f) alpontját a 286/2023. (VI. 30.) Korm. rendelet 51. §-a iktatta be.
+[^41]: A 11. § nyitó szövegrésze az 514/2022. (XII. 13.) Korm. rendelet 3. § c) pontja, a 334/2023. (VII. 20.) Korm. rendelet 49. § c) pontja szerint módosított szöveg.
+[^42]: A 11. § d) pontját a 164/2018. (IX. 11.) Korm. rendelet 3. §-a iktatta be.
+[^43]: A 11. § e) pontját a 190/2019. (VII. 30.) Korm. rendelet 4. §-a iktatta be, szövege a 706/2021. (XII. 15.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^44]: A 11. § f) alpontját a 286/2023. (VI. 30.) Korm. rendelet 51. §-a iktatta be.
