@@ -28,7 +28,9 @@ c) látlelet készítése és kiadása
 
 az adott vármegyében az irányító vármegyei intézmény által kijelölt, (1) bekezdés szerinti osztályon történik.
 
-(2)[^55] Speciális sürgősségi centrumot egy-egy térség ellátására az egyetemek, egyes országos gyógyintézetek és országos társ-gyógyintézetek, illetve speciális kórházi osztállyal rendelkező egészségügyi szolgáltatók a következő szakterületeken működtetnek:
+(1b)[^55] Az (1a) bekezdés c) pontja szerinti látleletet a 2. melléklet szerinti adattartalommal kell elkészíteni.
+
+(2)[^56] Speciális sürgősségi centrumot egy-egy térség ellátására az egyetemek, egyes országos gyógyintézetek és országos társ-gyógyintézetek, illetve speciális kórházi osztállyal rendelkező egészségügyi szolgáltatók a következő szakterületeken működtetnek:
 
 a) szívsebészet a progresszivitás harmadik szintjén,
 
@@ -44,15 +46,16 @@ f) neurológia stroke ellátással együtt a progresszivitás második és harma
 
 g) infektológia a progresszivitás harmadik szintjén.
 
-h)[^56] emelt biztonságú pszichiátriai ellátás.
+h)[^57] emelt biztonságú pszichiátriai ellátás.
 
-(3)[^57] Speciális akut ellátási centrumot egy-egy térség ellátására reumatológia szakterületen a progresszivitás harmadik szintjén levő országos gyógyintézetek és országos társ-gyógyintézetek működtetnek.
+(3)[^58] Speciális akut ellátási centrumot egy-egy térség ellátására reumatológia szakterületen a progresszivitás harmadik szintjén levő országos gyógyintézetek és országos társ-gyógyintézetek működtetnek.
 
-(4)[^58] Speciális akut sportsérülés ellátási centrumot ortopédia szakterületen, a progresszivitás második szintjén levő Országos Sportegészségügyi Intézet működtet.
+(4)[^59] Speciális akut sportsérülés ellátási centrumot ortopédia szakterületen, a progresszivitás második szintjén levő Országos Sportegészségügyi Intézet működtet.
 
 [^53]: A 19. § a 41/2014. (VI. 30.) EMMI rendelet 10. §-ával megállapított szöveg.
 [^54]: A 19. § (1a) bekezdését a 23/2023. (VI. 30.) BM rendelet 19. §-a iktatta be.
-[^55]: A 19. § (2) bekezdés nyitó szövegrésze a 38/2017. (XII. 29.) EMMI rendelet 5. §-a szerint módosított szöveg.
-[^56]: A 19. § (2) bekezdés h) pontját a 41/2023. (IX. 27.) BM rendelet 2. §-a iktatta be.
-[^57]: A 19. § (3) bekezdését a 44/2018. (XII. 19.) EMMI rendelet 4. §-a iktatta be.
-[^58]: A 19. § (4) bekezdését az 50/2020. (XII. 28.) EMMI rendelet 3. §-a iktatta be.
+[^55]: A 19. § (1b) bekezdését a 81/2023. (XII. 28.) BM rendelet 1. §-a iktatta be.
+[^56]: A 19. § (2) bekezdés nyitó szövegrésze a 38/2017. (XII. 29.) EMMI rendelet 5. §-a szerint módosított szöveg.
+[^57]: A 19. § (2) bekezdés h) pontját a 41/2023. (IX. 27.) BM rendelet 2. §-a iktatta be.
+[^58]: A 19. § (3) bekezdését a 44/2018. (XII. 19.) EMMI rendelet 4. §-a iktatta be.
+[^59]: A 19. § (4) bekezdését az 50/2020. (XII. 28.) EMMI rendelet 3. §-a iktatta be.
