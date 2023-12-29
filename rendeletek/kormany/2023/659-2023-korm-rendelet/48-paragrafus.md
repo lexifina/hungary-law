@@ -1,0 +1,3 @@
+## 18. A lakosság természetes és mesterséges eredetű sugárterhelését meghatározó környezeti sugárzási helyzet ellenőrzési rendjéről és a kötelezően mérendő mennyiségek köréről szóló 489/2015. (XII. 30.) Korm. rendelet módosítása
+
+48. § A lakosság természetes és mesterséges eredetű sugárterhelését meghatározó környezeti sugárzási helyzet ellenőrzési rendjéről és a kötelezően mérendő mennyiségek köréről szóló 489/2015. (XII. 30.) Korm. rendelet [a továbbiakban: 489/2015. (XII. 30.) Korm. rendelet] 4. mellékletében foglalt 1. táblázat B:6 és C:6 mezőjében az „a 201/2001. (X. 25.) Korm. rendelet” szövegrész helyébe az „az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló Korm. rendelet” szöveg lép.
