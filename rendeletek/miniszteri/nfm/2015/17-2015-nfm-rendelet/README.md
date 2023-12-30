@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-17-20-2
 | 2017-10-02 | 2015-17-20-2W.2 | 37/2017. (IX. 29.) NFM rendelet |
 | 2017-12-31 | 2015-17-20-2W.3 | 47/2017. (XII. 20.) NFM rendelet |
 | 2018-04-01 | 2015-17-20-2W.4 | 37/2017. (IX. 29.) NFM rendelet |
+| 2023-12-30 | 2015-17-20-2W.5 | 32/2023. (XII. 29.) EM rendelet |
