@@ -2,6 +2,6 @@
 
 (2) A 284–289. § és a 11. melléklet 2016. július 1-jén lép hatályba.
 
-(3) A 369. § 2024. január 1-jén lép hatályba.
+(3) A 369. § 2025. január 1-jén lép hatályba.
 
-(4) A 370. § 2024. január 1-jén lép hatályba.
+(4) A 370. § 2025. január 1-jén lép hatályba.
