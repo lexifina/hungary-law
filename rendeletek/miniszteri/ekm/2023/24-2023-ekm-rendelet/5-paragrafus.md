@@ -1,0 +1,1 @@
+5. § Az előirányzatok felhasználása során felmerülő költségek, így különösen a Magyar Államkincstár (a továbbiakban: Kincstár) által a pénzforgalmi szolgáltatások nyújtásáért felszámított díj és a postaköltség fedezetét az előirányzat terhére kell biztosítani.
