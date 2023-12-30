@@ -8,6 +8,6 @@
 
 (5) A vitarendezési eljárást lezáró döntés alapján hozott véglegessé vált határozat alapján az adóhatóság az érintett személy eredeti adókötelezettségét határozattal haladéktalanul módosítja, mely határozat az elévülésre tekintet nélkül végrehajtható. Az érintett személy a módosítás eredményeként őt terhelő adófizetési kötelezettség után késedelmi pótlék és adóbírság fizetésére nem kötelezhető, illetve a részére visszatérítendő adó után kamatra nem jogosult.
 
-(6) Amennyiben az adóhatóság az érintett személy eredeti adókötelezettségének módosításáról nem hoz határozatot, a határozathozatalra kötelezés iránt az érintett személy bírósághoz fordulhat. A perre a Fővárosi Törvényszék rendelkezik hatáskörrel és kizárólagos illetékességgel. A perben a bíróság a mulasztási per szabályai szerint jár el azzal, hogy a bíróság döntésével szemben fellebbezésnek és perújításnak nincs helye.
+(6) Amennyiben az adóhatóság az érintett személy eredeti adókötelezettségének módosításáról nem hoz határozatot, a határozathozatalra kötelezés iránt az érintett személy bírósághoz fordulhat. A perben a bíróság a mulasztási per szabályai szerint jár el azzal, hogy a bíróság döntésével szemben fellebbezésnek és perújításnak nincs helye.
 
 (7) A vitarendezési eljárás eredménytelenül lezárul, ha az érintett személy a rendelkezésére álló határidőn belül nem teszi meg a (2) bekezdésben szereplő nyilatkozatot.

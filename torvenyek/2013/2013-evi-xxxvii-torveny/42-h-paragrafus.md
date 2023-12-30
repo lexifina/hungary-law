@@ -18,7 +18,7 @@ b) lemond a vitás kérdés rendezéséhez kapcsolódó minden egyéb jogorvosla
 
 (6) A kölcsönös megállapodás alapján hozott véglegessé vált határozat alapján az adóhatóság az érintett személy eredeti adókötelezettségét határozattal haladéktalanul módosítja, amely határozat az elévülésre tekintet nélkül végrehajtható. Az érintett személy a módosítás eredményeként őt terhelő adófizetési kötelezettség után késedelmi pótlék és adóbírság fizetésére nem kötelezhető, illetve a részére visszatérítendő adó után kamatra nem jogosult.
 
-(7) Amennyiben az adóhatóság az érintett személy eredeti adókötelezettségének módosításáról nem hoz határozatot, a határozathozatalra kötelezés iránt az érintett személy bírósághoz fordulhat. A perre a Fővárosi Törvényszék rendelkezik hatáskörrel és kizárólagos illetékességgel. A perben a bíróság a mulasztási per szabályai szerint jár el azzal, hogy a bíróság döntésével szemben fellebbezésnek és perújításnak nincs helye.
+(7) Amennyiben az adóhatóság az érintett személy eredeti adókötelezettségének módosításáról nem hoz határozatot, a határozathozatalra kötelezés iránt az érintett személy bírósághoz fordulhat. A perben a bíróság a mulasztási per szabályai szerint jár el azzal, hogy a bíróság döntésével szemben fellebbezésnek és perújításnak nincs helye.
 
 (8) Amennyiben a kölcsönös egyeztető eljárásban az érintett államok illetékes hatóságai nem jutnak megállapodásra a vitás kérdés rendezésének módjáról, akkor e tényről a magyar illetékes hatóság tájékoztatja az érintett személyt, ismertetve a megállapodás meghiúsulásának általános okait.
 
