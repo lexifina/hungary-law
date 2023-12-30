@@ -1,5 +1,3 @@
-## Az R1. 1. melléklet 1. pontja helyébe a következő rendelkezés lép:
+2. melléklet a 643/2023. (XII. 28.) Korm. rendelethez[^10]
 
-## „1. központi költségvetésben meghatározott előirányzat neve;”
-
-2. melléklet a 643/2023. (XII. 28.) Korm. rendelethez
+[^10]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

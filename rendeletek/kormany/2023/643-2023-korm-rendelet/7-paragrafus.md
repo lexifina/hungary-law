@@ -1,1 +1,3 @@
-7. § Az R2. 2. §-ában az „az kultúráért és innovációért felelős miniszter mint a Kormány vállalkozásfejlesztésért felelős tagjának” szövegrész helyébe az „a vállalkozásfejlesztésért felelős miniszter” szöveg lép.
+7. §[^8]
+
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

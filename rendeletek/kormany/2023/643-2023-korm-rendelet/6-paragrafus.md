@@ -1,3 +1,3 @@
-6. § Az R2. 3. §-a helyébe a következő rendelkezés lép:
+6. §[^7]
 
-„3. § A Kormány a speciális vállalkozói célcsoportok támogatásának ellátására a SEED Kisvállalkozás-fejlesztési Alapítványt jelöli ki.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
