@@ -1,0 +1,5 @@
+98. § Az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény a következő 20/B. §-sal egészül ki:
+
+„20/B. § (1) E törvénynek a közbiztonság megerősítése és a migráció elleni küzdelem érdekében szükséges törvények módosításáról szóló 2023. évi XCI. törvénnyel megállapított 8. § (6) bekezdését, 8. § (8) bekezdés b) pontját, 8. § (10) bekezdés b) pontját, 8. § (15) bekezdését és 1/A. mellékletét első alkalommal a 2024. március hónapra járó illetmények megállapításakor kell alkalmazni.
+
+(2) E törvénynek a közbiztonság megerősítése és a migráció elleni küzdelem érdekében szükséges törvények módosításáról szóló 2023. évi XCI. törvénnyel megállapított 4. § (7a) és (7b) bekezdése alapján fennálló összeférhetetlenséget az országos gyógyintézet, a vármegyei és városi fekvőbeteg-szakellátást nyújtó egészségügyi intézmény, valamint az irányító vármegyei intézményi feladatokat ellátó klinikai központ intézményvezetője 2024. február 15. napjáig köteles megszüntetni. Ha az intézményvezető e kötelezettségének nem tesz eleget, a vezetői megbízását vissza kell vonni.”

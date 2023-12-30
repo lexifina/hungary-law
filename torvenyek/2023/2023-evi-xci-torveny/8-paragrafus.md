@@ -1,0 +1,1 @@
+8. § Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 14/A. § (3) bekezdésében az „egy éven belüli” szövegrész helyébe a „három éven belüli” szöveg lép.

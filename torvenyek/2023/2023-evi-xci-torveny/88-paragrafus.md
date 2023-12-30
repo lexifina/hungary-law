@@ -1,0 +1,1 @@
+88. § Hatályát veszti a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 140. § (9) bekezdésében, valamint 289/L. § (13) bekezdésében a „pihenőnapon,” szövegrész.
