@@ -1,3 +1,1 @@
-40. § (1) A nemzeti adatvagyon körébe tartozó nem személyes és nem védett adat további felhasználás céljából történő rendelkezésre bocsátása nem utasítható el önmagában alapvető elektronikus információbiztonsági követelmények biztosítására történő hivatkozással, ha az adat egyébként jogszabály alapján további felhasználás céljára rendelkezésre bocsátható.
-
-(2) Ha a dinamikus adatoknak közvetlenül azok gyűjtése utáni további felhasználás célját szolgáló – az (1) bekezdésben említett – rendelkezésre bocsátása meghaladná a közfeladatot ellátó szerv, illetve a szolgáltatást nyújtó pénzügyi vagy technikai lehetőségeit, vagy egyébként aránytalan erőfeszítést jelentene, a dinamikus adatokat egy olyan időkereten belül vagy olyan ideiglenes technikai korlátozásokkal kell további felhasználás céljából rendelkezésre bocsátani, amely nem akadályozza szükségtelenül e dinamikus adatok gazdasági és társadalmi potenciáljának kiaknázását.
+### 40. §

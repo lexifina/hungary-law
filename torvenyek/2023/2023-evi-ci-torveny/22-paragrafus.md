@@ -1,3 +1,1 @@
-22. § (1) A nemzeti adatvagyon körébe tartozó, nem személyes és nem védett adatokat a közfeladatot ellátó szerv elsősorban az interoperabilitást biztosító nyílt szabványoknak megfelelő, informatikai eszközzel automatikusan feldolgozható, nyílt formátumban, az adathoz kapcsolódó – az információbiztonsági követelmények és a személyes adatok védelmének sérelme nélkül rendelkezésre bocsátható – metaadatokkal együttesen, a rendelkezésre álló nyelven bocsátja a NAVÜ rendelkezésére. Amennyiben az adatok nyílt formátumban nem állnak rendelkezésre, a közfeladatot ellátó szerv a rendelkezésére álló formátumban bocsátja a NAVÜ rendelkezésére az adatokat.
-
-(2) A NAVÜ biztosítja, hogy a Nemzeti Közadatportál együttműködjön az európai adatok hivatalos portáljával annak érdekében, hogy a nemzeti adatvagyon körébe tartozó nyílt hozzáférésű adatok metaadatai az európai adatok hivatalos portálján is automatikus úton megjelenjenek.
+### 22. §

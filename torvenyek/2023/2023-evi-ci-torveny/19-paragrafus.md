@@ -1,19 +1,13 @@
 ## 13. Egyablakos tájékoztatási és kapcsolattartási szolgáltatás
 
-19. § (1) A NAVÜ az egyablakos tájékoztatási és kapcsolattartási szolgáltatást kizárólagos jelleggel, közfeladatként nyújtja. Ennek keretében a Nemzeti Közadatportálon közzéteszi a további felhasználással kapcsolatos információkat minden közfeladatot ellátó szervre vonatkozóan, így különösen:
+19. § (1)
 
-a) a további felhasználásra rendelkezésre bocsátható adatok metaadatait,
+(2)
 
-b) a további felhasználásra rendelkezésre bocsátható adatok igénylésének és teljesítésének feltételeit, valamint
+(3)
 
-c) az egyablakos tájékoztatási és kapcsolattartási szolgáltatás igénybevételével kapcsolatos díjfizetésre vonatkozó feltételeket.
+(4)
 
-(2) Az (1) bekezdés szerinti szolgáltatás keretében a NAVÜ ellátja az adatkormányzási rendelet szerinti egyablakos információs pont feladatait.
+(5)
 
-(3) Az (1) bekezdés b) pontja szerinti igények benyújtása, az igények kezeléséhez kapcsolódó teljes körű elektronikus ügyintézés és kapcsolattartás, valamint az igények teljesítése – beleértve a szükséges nyilatkozatok megtételét és a nyilatkozatokat tartalmazó, digitális tartalomként feldolgozható elektronikus másolatok hozzáférhetővé tételét – a Nemzeti Közadatportálon keresztül történik.
-
-(4) A Nemzeti Közadatportál által nyújtott egyes szolgáltatások igénybevétele és az egyes adatkészletekhez való hozzáférés információbiztonsági okokból elektronikus azonosításhoz köthető. A szolgáltató jogosult a Nemzeti Közadatportált használó természetes személyek személyes adatainak – nevének, felhasználói nevének, jelszavának, egyedi felhasználói azonosítójának, szervezeti beosztásának, postai és elektronikus levélcímének, telefonszámának – kezelésére. A regisztrációs nyilvántartást vezető szolgáltató a kezelt személyes adatokat a regisztráció megszüntetésére vonatkozó bejelentést követő 8 napon belül törli és az érintett hozzáférési lehetőségét megszünteti. Az elektronikus azonosítás feltételeit és részletes szabályait a Kormány rendeletben állapítja meg.
-
-(5) A Nemzeti Közadatportálon keresztül benyújtott igényt, egyéb megkeresést vagy kérdést a Nemzeti Közadatportál automatikusan az illetékes közfeladatot ellátó szervnek továbbítja. Ha a továbbítás bármely ok miatt nem lehetséges, a NAVÜ a megkeresést vagy igényt a kijelölt – adatkormányzási rendelet szerinti – illetékes szerv részére továbbítja.
-
-(6) A közfeladatot ellátó szerv haladéktalanul köteles tájékoztatni a NAVÜ-t, amennyiben valamely adathasznosítás-támogatási szolgáltatás nyújtására közreműködőt vesz igénybe.
+(6)

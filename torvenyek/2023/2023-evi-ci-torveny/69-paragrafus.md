@@ -1,33 +1,15 @@
 ## 37. A nemzeti adatvagyon körébe tartozó, nem személyes és nem védett adat további felhasználására vonatkozó megállapodás szabályai
 
-69. § (1) A szolgáltató a közadatok további felhasználás céljára történő rendelkezésre bocsátásáról megállapodást köt az igénylővel.
+69. § (1)
 
-(2) A 33. alcím szerinti egyszerűsített igénybevételi eljárásban a megállapodás a Nemzeti Közadatportálon közzétett általános szerződési feltételek elfogadásával jön létre.
+(2)
 
-(3) A 34. alcím szerinti automatizált igénybevételi eljárásban a megállapodás a Nemzeti Közadatportálon közzétett általános szerződési feltételek alapján az adatok kiadására vonatkozó automatikus döntéshozatali eljárásban meghozott döntés közlésével jön létre.
+(3)
 
-(4) Az általános igénybevételi eljárásban megkötött további felhasználásra vonatkozó megállapodás tartalmazza legalább
+(4)
 
-a) a felek megnevezését;
+(5)
 
-b) a további felhasználás céljából rendelkezésre bocsátott adatok megnevezését;
+(6)
 
-c) a b) pontban meghatározott adatok átadásának időpontját, az átadás módját, formátumát;
-
-d) a b) pontban meghatározott adatok további felhasználás céljából történő rendelkezésre bocsátásáért megállapított díj mértékét;
-
-e) a d) pontban meghatározott díj megfizetésének határidejét és módját;
-
-f) a b) pontban meghatározott adatok további felhasználásának feltételekhez kötése esetén az adatok felhasználásának részletes feltételeit.
-
-(5) A (4) bekezdés f) pontja szerinti feltételek
-
-a) kizárólag közérdekű célból állapíthatóak meg;
-
-b) objektívek, arányosak és megkülönböztetéstől mentesek;
-
-c) nem korlátozhatják szükségtelenül a további felhasználás lehetőségeit, nem szolgálhatnak a verseny korlátozására és nem ütközhetnek a további felhasználásra vonatkozó, az e törvényben meghatározott más rendelkezésekbe.
-
-(6) A szolgáltató a közadatok további felhasználás céljából történő rendelkezésre bocsátás feltételeit általános szerződési feltételekben is meghatározhatja.
-
-(7) A (6) bekezdés szerint meghatározott általános szerződési feltételeket a szolgáltató közfeladatot ellátó szerv a Nemzeti Közadatportálon elektronikus úton, feldolgozható formában közzéteszi.
+(7)
