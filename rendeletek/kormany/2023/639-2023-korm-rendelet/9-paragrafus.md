@@ -1,7 +1,3 @@
-9. § A 37/2011. (III. 22.) Korm. rendelet
+9. §[^9]
 
-a) 1. melléklete az 1. melléklet szerint,
-
-b) 5. melléklete a 2. melléklet szerint
-
-módosul.
+[^9]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
