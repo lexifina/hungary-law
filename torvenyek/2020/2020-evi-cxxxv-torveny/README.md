@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-135-00-00
 | 2022-01-01 | 2021. évi CXLVII. törvény | 2020-135-00-00.3 |
 | 2022-08-01 | 2022. évi XIX. törvény | 2020-135-00-00.4 |
 | 2023-01-01 | 2022. évi XXIV. törvény | 2020-135-00-00.5 |
+| 2023-12-30 | 2023. évi XCI. törvény | 2020-135-00-00.6 |
