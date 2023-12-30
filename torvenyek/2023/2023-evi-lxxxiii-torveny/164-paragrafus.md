@@ -4,4 +4,6 @@ a)
 
 b)
 
-c)
+c) 113. § (4) bekezdésében a „hatvan” szövegrész helyébe a „harminc” szöveg
+
+lép.

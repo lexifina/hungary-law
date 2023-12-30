@@ -1,3 +1,29 @@
 ## 6. A jövedéki adóról szóló 2016. évi LXVIII. törvény módosítása
 
-### 68. §
+68. § (1) A jövedéki adóról szóló 2016. évi LXVIII. törvény (a továbbiakban: Jöt.) 53. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Jövedéki terméket az Európai Unió területén adófelfüggesztési eljárás keretében szállíthat – ideértve azt az esetet is, ha a terméket harmadik országon keresztül szállítják – az adóraktár engedélyese adóraktárból vagy bejegyzett feladó az importálás helyéről
+
+a) adóraktárba;
+
+b) másik tagállambeli bejegyzett kereskedő számára;
+
+c) exportálás céljából arra a helyre, ahol a jövedéki termék elhagyja az Európai Unió területét;
+
+d) másik tagállambeli
+
+da) diplomáciai és konzuli képviselet és annak tagjai,
+
+db) nemzetközi szervezet és annak tagjai – a nemzetközi egyezményekben vagy székhely egyezményekben foglaltak szerint adómentesként meghatározott fogyasztás erejéig –,
+
+dc) az Észak-atlanti Szerződésben részes állam fegyveres erői – kivéve az adóraktár helye szerinti tagállam fegyveres erejét –, polgári állománya és étterme, kantinja,
+
+dd) a tagállam közös biztonság- és védelempolitika keretében folytatott uniós tevékenység végrehajtása céljából végzett védelmi feladat ellátásában részt vevő fegyveres erői – kivéve az adóraktár helye szerinti tagállam fegyveres erejét –, polgári állománya és étterme, kantinja
+
+számára; vagy
+
+e) a kilépési vámhivatalnak minősülő árutovábbítási műveletet indító vámhivatalba, ha a jövedéki terméket a vámjogszabályok szerinti kivitelre átengedést követően külső árutovábbítási eljárás alá vonják.”
+
+(2) A Jöt. 53. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Az adófelfüggesztési eljárás keretében végzett szállítás akkor fejeződik be, amikor a címzett átveszi a jövedéki terméket, amikor a jövedéki termék elhagyja az Európai Unió területét vagy amikor külső árutovábbítási eljárás alá vonják.”

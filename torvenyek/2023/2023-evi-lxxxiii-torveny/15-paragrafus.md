@@ -1,1 +1,5 @@
-### 15. §
+15. § Az Szja tv. a következő 107. §-sal egészül ki:
+
+„107. § (1) A 2023. szeptember 12. napja és az egyes adótörvények módosításáról szóló 2023. évi LXXXIII. törvénnyel megállapított 65/C. § hatálybalépésének napja között megvalósuló vagyonátadás adókötelezettsége tekintetében a vagyonrendelő, az alapító, vagy a csatlakozó magánszemély választása szerint e törvény ezen időszak alatt hatályos 65/C. §-a szerinti rendelkezést, vagy az egyes adótörvények módosításáról szóló 2023. évi LXXXIII. törvénnyel megállapított rendelkezést alkalmazhatja, azzal, hogy ez utóbbi esetben a vagyonátadót és a vagyonkezelőt, magánalapítványt terhelő kötelezettségeket az egyes adótörvények módosításáról szóló 2023. évi LXXXIII. törvény hatálybalépését követő 15. napig kell teljesíteni.
+
+(2) Nem kell osztalékból származó jövedelmet megállapítani az induló tőke terhére történő azon vagyonjuttatás után, melynek értéke – több alkalommal történő juttatás esetén ezen értékek összege – nem haladja meg a 2023. szeptember 11-i indulótőke értékét, ide nem értve a 65/C. § (2) bekezdésében meghatározott esetet.”

@@ -1,1 +1,3 @@
-### 142. §
+142. § Az Avt. 88. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Megkeresésre történő végrehajtás esetén az árverésen kívüli értékesítéshez a behajtást kérő, illetve a behajtást kérő hatóság beleegyezése is szükséges, kivéve, ha az értékesítésből befolyó vételárból a végrehajtási költségek, továbbá valamennyi követelés megtérül. A behajtást kérő, illetve a behajtást kérő hatóság az adóhatóság felhívására 8 napon belül elektronikus úton nyilatkozik a beleegyezéséről vagy annak hiányáról. Ha a behajtást kérő, illetve a behajtást kérő hatóság a felhívásnak a megadott határidőn belül nem tesz eleget, a beleegyezését megadottnak kell tekinteni.”
