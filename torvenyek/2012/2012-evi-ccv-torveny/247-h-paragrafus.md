@@ -1,4 +1,4 @@
-247/H. § (1) A Módtv.-vel megállapított 104. § helyett a 2023. december 31-ig elrendelt és teljesített túlszolgálatokra a (2)–(8) bekezdést kell alkalmazni.
+247/H. § (1) A Módtv.-vel megállapított 104. § helyett a 2024. december 31-ig elrendelt és teljesített túlszolgálatokra a (2)–(8) bekezdést kell alkalmazni.
 
 (2) Az állomány tagjának évi százötven óráig terjedő túlszolgálatáért annak időtartamával azonos mértékű szabadidő jár. A szabadidőt a túlszolgálatot követően nyomban, de legkésőbb harminc napon belül kell kiadni.
 
@@ -20,4 +20,4 @@ amelyet legkésőbb a tárgyhónapot követő havi illetménnyel együtt kell ki
 
 (8) A túlszolgálat elrendelésének, nyilvántartásának és elszámolásának rendjét a miniszter rendeletben határozza meg.
 
-(9) A 2024. január 1-jét megelőző időpontban kezdődött és 2024. január 1-jén még folyamatban lévő szolgálatteljesítési időkeret elszámolására az elszámoláskor hatályos rendelkezéseket kell alkalmazni.
+(9) A 2025. január 1-jét megelőző időpontban kezdődött és 2025. január 1-jén még folyamatban lévő szolgálatteljesítési időkeret elszámolására az elszámoláskor hatályos rendelkezéseket kell alkalmazni.

@@ -4,10 +4,10 @@ a) a nő 1 évesnél fiatalabb – kórházi ápolás alatt álló – beteg gye
 
 b) az állomány tagja beteg gyermeke ápolása címén, a gyermek betegségét megállapító orvosi igazolás alapján az abban foglalt időtartamra a gyermek 1 éves koráig,
 
-c) az állomány tagja 1 évesnél idősebb, de 3 évesnél fiatalabb beteg gyermek ápolása címén évenként és gyermekenként 84 naptári napon át,
+c) az állomány tagja 1 évesnél idősebb, de 3 évesnél fiatalabb beteg gyermek ápolása címén évenként és gyermekenként 84, egyedülálló szülőnek 168 naptári napon át,
 
-d) az állomány tagja 3 évesnél idősebb, de 6 évesnél fiatalabb beteg gyermek ápolása címén évenként és gyermekenként 42, egyedülállónak 84 naptári napon át,
+d) az állomány tagja 3 évesnél idősebb, de 6 évesnél fiatalabb beteg gyermek ápolása címén évenként és gyermekenként 42, egyedülálló szülőnek 84 naptári napon át,
 
-e) az állomány tagja 6 évesnél idősebb, de 12 évesnél fiatalabb beteg gyermek ápolása címén évenként és gyermekenként 14, egyedülállónak 28 naptári napon át.
+e) az állomány tagja 6 évesnél idősebb, de 12 évesnél fiatalabb beteg gyermek ápolása címén évenként és gyermekenként 14, egyedülálló szülőnek 28 naptári napon át.
 
 (2) A gyermek ápolására kapott egészségügyi szabadság (1) bekezdés a) és b) pontja szerinti mértéke – ha mindkét szülő az állomány tagja – a szülőket együttesen illeti meg. A gyermekápolás céljából nyújtott egészségügyi szabadság az (1) bekezdés c)–e) pontjában meghatározott időtartama a szülőket külön-külön illeti meg, ha mindkét szülő az állomány tagja.
