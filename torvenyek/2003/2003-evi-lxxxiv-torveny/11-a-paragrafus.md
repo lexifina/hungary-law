@@ -14,19 +14,31 @@ kell alkalmazni.
 
 (2a) A (2) bekezdés szerinti szabályokat az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény (a továbbiakban: Eszjtv.) előírásaira figyelemmel kell alkalmazni.
 
-(3) Az alkalmazott egészségügyi dolgozókat
-
-a) a munkakör ellátásához előírt iskolai végzettség, egészségügyi szakképesítés, továbbá a munkájuk ellátásához közvetlenül kapcsolódó, azt közvetlenül segítő doktori cím, tudományos fokozat, valamint akadémiai tagság, szakmai gyakorlat, publikációs tevékenység, és minősítés (a továbbiakban együtt: szakmai követelmények) alapján besorolási osztályokba, és
-
-b) a jogviszonyban töltött idő alapján fizetési fokozatba
-
-kell sorolni.
+(3) Az alkalmazott egészségügyi dolgozókat a munkakör ellátásához előírt iskolai végzettség, egészségügyi szakképesítés, valamint – az e törvényben meghatározott eltérő besorolási szempontok kivételével – a jogviszonyban töltött idő alapján fizetési osztályba kell sorolni.
 
 (3a) Az Eszjtv. 8. § (3) bekezdése szerinti egészségügyi szolgálati jogviszonyban álló személyt az egészségügyi szolgálati jogviszonyban töltött ideje alapján kell fizetési fokozatba sorolni.
 
+(3b) Az egészségügyi szakdolgozót és egyes egészségügyben dolgozót a Kormány rendeletében meghatározottak szerinti alap vagy kiemelt fizetési osztályba kell besorolni. A Kormány azon munkaköröket sorolja kiemelt fizetési osztályba, ahol az egészségügyi dolgozó
+
+a) fokozott fizikai és pszichés körülmények között,
+
+b) fokozottabb kockázattal, nagyobb munkaterheléssel járó munkaterületen,
+
+c) különösen nagy felelősséggel járó szakterületen,
+
+d) kiemelt ellátást végző területen vagy
+
+e) speciális kompetenciákat igénylő szakmában
+
+végez egészségügyi tevékenységet.
+
+(3c) A miniszter az egészségügyi szolgáltató által ellátott egészségügyi szakmák összetételére, az egyes szakmákhoz az ellátási terület szerint tartozó ellátandó betegkör nagyságára, valamint – amennyiben ez az adott szakma szerint mérhető – a jellemző népegészségügyi és demográfiai összetétele alapján az ellátásba kerülésének valószínűségére figyelemmel megállapítja az ágazati előmeneteli szabályok hatálya alá tartozó egyes egészségügyi szolgáltatóknál kiemelt fizetési osztályban foglalkoztatható egészségügyi szakdolgozók és egyes egészségügyben dolgozók számát.
+
+(3d) A miniszter a (3c) bekezdés alapján megállapított létszámot a honlapján közzéteszi.
+
 (4) Az orvos, fogorvos, szakorvos, szakfogorvos munkakörben (a továbbiakban együtt: orvos munkakörben) foglalkoztatott – ideértve a 12/H. §-ban említett oktató orvos munkakörben foglalkoztatottakat is – egészségügyi dolgozó havi alapbére (garantált illetménye) nem lehet kevesebb, mint az 1. melléklet szerinti összeg.
 
-(5) A Kormány által rendeletben meghatározott munkakörben foglalkoztatott egészségügyi szakdolgozó és egészségügyben dolgozó havi alapbére (garantált illetménye) nem lehet kevesebb, mint a 2. melléklet szerint számított összeg.
+(5) A Kormány által rendeletben meghatározott munkakörben foglalkoztatott egészségügyi szakdolgozó és egészségügyben dolgozó havi alapbére – a (10) bekezdés szerinti eltéréssel – a (3) és (3b) bekezdés szerinti besorolás alapján az Eszjtv. 1/A. melléklet szerinti határok között a munkáltató által megállapított összeg.
 
 (6) A Kormány által rendeletben meghatározott munkakörben foglalkoztatott, felsőfokú végzettséggel rendelkező egészségügyi dolgozó havi alapbére (illetménye) nem lehet kevesebb, mint a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) szerinti besorolási illetmény és havi 41435 Ft egyösszegű illetmény- vagy bérnövelés együttes összege.
 
