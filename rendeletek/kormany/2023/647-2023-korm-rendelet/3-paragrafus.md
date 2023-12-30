@@ -1,7 +1,3 @@
-3. § A 11/2020. Korm. rendelet
+3. §[^4]
 
-a) 15. § (1) bekezdésében a „kétévenként” szövegrész helyébe a „három évenként” szöveg,
-
-b) 15. § (3) bekezdésében a „legalább nyolc,” szövegrész helyébe a „legalább hét” szöveg
-
-lép.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
