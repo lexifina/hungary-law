@@ -1,0 +1,5 @@
+3. § (1) A társadalombiztosítási azonosító jellel (a továbbiakban: TAJ-szám) rendelkező érintett a 2. § (1) bekezdés a) pontja szerinti digitális Covid-igazolványt az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: Eüsztv.) szerinti, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatással történő azonosítást követően mobiltelefonos applikációban, valamint az EESZT portálján letölthető formátumban is kérheti.
+
+(2) A papíralapú igazolványt az Eüsztv. szerinti, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatással történő azonosítást követően az EESZT portáljáról az érintett saját maga kinyomtathatja, amely hiteles, ha az megfelel a korábbi uniós rendeletben foglalt feltételeknek, és a korábbi uniós rendelet szerinti interoperábilis vonalkód informatikai eszközzel történő kiolvasása megerősíti a benne foglalt adatokat.
+
+(3) Az érintett részére – az érintett kérésére – a papíralapú igazolványt az egészségügyi ellátás keretében az érintett háziorvosa kinyomtatja.
