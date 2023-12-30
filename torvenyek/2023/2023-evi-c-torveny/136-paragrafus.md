@@ -1,5 +1,1 @@
-### 136. § [Országos és helyi szabályoktól való eltérés]
-
-(1) Műemlékvédelmi érdekből a műemléken végzett építési tevékenység vagy beavatkozás során az országos építési követelményektől, a településrendezési tervtől, annak részeként a helyi építési szabályzattól a tervezés folyamán és a hatósági eljárásban el lehet térni. Az eltérést írásban indokolni kell. Az országos építési követelményektől és nemzeti szabványoktól való eltérést a műemléki értékek megőrzése érdekében előnyben kell részesíteni, ha az alkalmazandó megoldás az élet- és vagyonbiztonság követelményeinek megfelel, vagy az élet- és vagyonbiztonság más módon biztosítható. Ebben az esetben is meg kell azonban felelnie a közhasználatú építménynek az egyenlő esélyű hozzáférés, valamint az akadálymentesség követelményének.
-
-(2) A műemléki sajátos helyszínen a területet érintő, jogszabályban meghatározott változtatást, beavatkozást a védett műemléki érték településképi, illetve tájképi megjelenésének és érvényesülésének kell alárendelni.
+### 136. §

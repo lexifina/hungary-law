@@ -50,19 +50,7 @@
 
 ## „57a. Vízparti Terv: a Kormány rendeletében megállapított, területi tervnek minősülő, a Balaton vízparti területeinek területfelhasználását rögzítő terv;”
 
-(11) A Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény 11. §-a helyébe a következő rendelkezés lép:
-
-„11. § (1) Az országos területfelhasználási kategóriák területén belül a településrendezési tervben, a 90. § (2) bekezdése figyelembevételével
-
-a) az erdőgazdálkodási térség területének 95%-át erdőterület övezetként, a térséget lefedő erdők övezetére vonatkozó szabályok szerint, valamint az erdőtelepítésre javasolt terület övezetére vonatkozó szabályok figyelembevételével kell lehatárolni,
-
-b) a mezőgazdasági térség területének legalább 75%-át mezőgazdasági terület övezetébe kell sorolni, a fennmaradó részen nagyvárosias lakóterület és vegyes terület építési övezet nem jelölhető ki,
-
-c) a vízgazdálkodási térség területét – a 2019. március 15-ét megelőzően már jogszerűen kijelölt beépítésre szánt területek kivételével – vízgazdálkodási terület, vízgazdálkodási célú erdőterület, vízgazdálkodási célú mezőgazdasági terület, természetközeli terület, zöldterület, továbbá különleges beépítésre nem szánt honvédelmi, katonai és nemzetbiztonsági célú terület vagy honvédelmi célú erdőterület övezetbe kell sorolni, és a működési területével érintett vízügyi igazgatási szervvel egyeztetve kell pontosítani,
-
-d) a települési térség területén bármely építési övezet, övezet kijelölhető, amennyiben más jogszabály előírásával nem ellentétes.
-
-(2) A településrendezési terv készítése vagy módosítása során a zöldterület övezet és az erdőterület övezet együttes kiterjedése nem csökkenhet.”
+(11)
 
 (12) A Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény 12. §-a helyébe a következő rendelkezés lép:
 
@@ -78,15 +66,7 @@ b) az a) pont szerinti csereterület nem áll rendelkezésre, de a településre
 
 (4) A (2) és (3) bekezdés szerinti, az új beépítésre szánt területtel egyidejűleg kijelölésre kerülő zöldterületnek a települési önkormányzat tulajdonában kell állnia, vagy a települési önkormányzati tulajdonba adásról az önkormányzat képviselő-testületének településrendezési szerződést kell kötnie azzal, hogy a településrendezési szerződésnek a településrendezési terv elfogadásával egy időben kell hatályba lépnie.”
 
-(13) A Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény 19. § (1) bekezdése a következő 14–16. ponttal egészül ki:
-
-(Az országos övezetek a következők:)
-
-## „14. ásványi nyersanyagvagyon övezete,
-
-## 15. rendszeresen belvízjárta terület övezete,
-
-## 16. földtani veszélyforrás terület övezete.”
+(13)
 
 (14) A Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény 22. §-a helyébe a következő rendelkezés lép:
 
@@ -480,29 +460,29 @@ h) a 83. § (1) bekezdésének alkalmazásakor a tómeder övezetének lehatáro
 
 (43) A Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény
 
-1. 4. § 7. pontjában az „országos, kiemelt térségi és vármegyei” szövegrész helyébe az „országos és kiemelt térségi” szöveg és a „kiemelt térségi és vármegyei területrendezési tervek” szövegrész helyébe a „kiemelt térségi területrendezési tervek” szöveg,
+1.
 
-2. 4. § 49. pontjában az „országos, kiemelt térségi és vármegyei” szövegrész helyébe az „országos és kiemelt térségi” szöveg,
+2.
 
-3. 4. § 50. pontjában az „országos, kiemelt térségi és vármegyei” szövegrész helyébe az „országos és kiemelt térségi” szöveg,
+3.
 
 4. 4. § 51. pontjában az „egyedileg meghatározott és lehatárolt” szövegrész helyébe az „egyedileg szabályozott és a Vízparti Tervben lehatárolt” szöveg,
 
-5. 4. § 56. pontjában az „országos, kiemelt térségi és vármegyei” szövegrész helyébe az „országos és kiemelt térségi” szöveg,
+5.
 
-6. 8. § (1) bekezdésében az „országos, kiemelt térségi és vármegyei” szövegrész helyébe az „országos és kiemelt térségi” szöveg,
+6.
 
 7. 10. § (1) bekezdés c) pontjában a „90%-át” szövegrész helyébe a „90%-át, legfeljebb 110%-át” szöveg,
 
-8. 15. § (2) bekezdés a) pontjában az „a kiemelt térségi, illetve vármegyei” szövegrész helyébe az „az országos, illetve kiemelt térségi” szöveg,
+8.
 
-9. 15. § (2) bekezdés b) pontjában az „a kiemelt térségi, illetve vármegyei” szövegrész helyébe az „az országos, illetve kiemelt térségi” szöveg,
+9.
 
-10. 19. § (4) bekezdésében a „8. és 10–12. pontjaiban” szövegrész helyébe a „8., 10–12. és 14–16. pontjában” szöveg,
+10.
 
 11. 23. § (2) bekezdésében az „állami igazgatási szervek vagyok azok területi szervei” szövegrész helyébe a „téradatgazdák” szöveg és az „államigazgatási szervnek” szövegrész helyébe a „téradatgazdának” szöveg,
 
-12. 23. § (2) bekezdésében a „készítésénél a kiemelt térségi és vármegyei” szövegrész helyébe a „készítésénél az országos és a kiemelt térségi” szöveg és a „kiemelt térségi és vármegyei” szövegrész helyébe a „kiemelt térségi” szöveg,
+12.
 
 13. 25. § (1) bekezdésében a „tervben olyan” szövegrész helyébe a „tervben csak olyan” szöveg,
 
@@ -548,7 +528,7 @@ h) a 83. § (1) bekezdésének alkalmazásakor a tómeder övezetének lehatáro
 
 34. 87. § (1) bekezdés d) pontjában az „elhelyezhető, legfeljebb 30” szövegrész helyébe az „építhető, legfeljebb 10” szöveg,
 
-35. 90. § (2) bekezdésében az „A vármegyei területrendezési terv hatálya alá tartozó” szövegrész helyébe az „A Budapesti Agglomeráció Területrendezési Terve vagy a Balaton Kiemelt Üdülőkörzet Területrendezési Terve hatálya alá nem tartozó” szöveg,
+35.
 
 36. 93. § (4) bekezdésében a „Balaton vízparti területeire vonatkozó közcélú területfelhasználási tervet” szövegrész helyébe a „Vízparti Tervet” szöveg,
 
@@ -558,70 +538,122 @@ h) a 83. § (1) bekezdésének alkalmazásakor a tómeder övezetének lehatáro
 
 (44) Hatályát veszti a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény
 
-1. 3. § (1) bekezdésében a „vármegyei területrendezési terv, a” szövegrész,
+1.
 
-2. 3. § (2) és (3) bekezdése,
+2.
 
-3. 3. § (5) bekezdésében az „és az e törvénnyel összhangban lévő vármegyei területrendezési terv” szövegrész,
+3.
 
-4. 4. § 2. pontjában a „ , valamint a vármegyei területrendezési tervben” szövegrész,
+4.
 
-5. 4. § 8. pontjában az „és vármegyei” szövegrész,
+5.
 
-6. 4. § 9. pontjában a „ , valamint a vármegyei területrendezési tervben” szövegrész,
+6.
 
-7. 4. § 13. pontjában a „ , valamint a vármegyei területrendezési tervben” szövegrész,
+7.
 
-8. 4. § 17. pontjában az „és vármegyei” szövegrész,
+8.
 
-9. 4. § 19. pontjában a „ , valamint a vármegyei területrendezési tervben” szövegrész,
+9.
 
 10. 4. § 20. pontja,
 
-11. 4. § 24. pontjában az „és a vármegyei” szövegrész és az „és a vármegye” szövegrész,
+11.
 
-12. 4. § 25. pontjában az „és vármegyei” szövegrész,
+12.
 
-13. 4. § 30. pontjában az „és vármegyei” szövegrész,
+13.
 
-14. 4. § 33. pontjában az „és vármegyei” szövegrész,
+14.
 
-15. 4. § 36. pontjában az „és vármegyei” szövegrész,
+15.
 
-16. 4. § 38. pontjában a „ , valamint a vármegyei területrendezési tervben” szövegrész,
+16.
 
-17. 4. § 43. pontjában a „ , valamint a vármegyei területrendezési tervben” szövegrész,
+17.
 
-18. 4. § 44. pontja,
+18.
 
-19. 4. § 55. pontjában az „és vármegyei” szövegrész,
+19.
 
-20. 4. § 57. pontjában a „ , valamint a vármegyei területrendezési tervben” szövegrész,
+20.
 
-21. 4. § 59. pontjában az „és vármegyei” szövegrész,
+21.
 
-22. 5. § (2) bekezdés 1. pontjában az „és vármegyei” szövegrész,
+22.
 
-23. 5. § (2) bekezdés 2. pontja,
+23.
 
-24. 5. § (2) bekezdés 3. pontjában az „és a vármegyei” szövegrész,
+24.
 
-25. 9. § (3) bekezdése,
+25.
 
-26. 10. §-a,
+26.
 
-27. 15. § (1) bekezdés nyitó szövegrészében az „ , illetve a vármegyék” szövegrész,
+27.
 
-28. 16. § (1) bekezdésében az „és vármegyei” szövegrész,
+28.
 
-29. 17. § (1) bekezdésében az „és a vármegyei” szövegrész,
+29.
 
-30. 17. § (2) bekezdésében az „és a vármegyei” szövegrész,
+30.
 
-31. 17. § (3) bekezdésében az „és vármegyei” szövegrész,
+31.
 
-32. 17. § (4) bekezdésében az „és a vármegyei” szövegrész,
+32.
 
-33. 18. § (1) bekezdésében az „és vármegyei” szövegrész,
+33.
 
-34. 19. § (3) bekezdése,
+34.
+
+35.
+
+36.
+
+37.
+
+38.
+
+39.
+
+40. 23. § (1) bekezdésében a „ , kivéve a 22. § szerinti esetet” szövegrész,
+
+41.
+
+42. 23. § (2) bekezdésében a „ , kivéve a 22. § szerinti esetet” szövegrész,
+
+43.
+
+44.
+
+45.
+
+46.
+
+47. 48. §-a,
+
+48. 62. § (1) bekezdésében az „ingatlan-nyilvántartás szerint” szövegrész és a „közparkként vagy közkertként nyilvántartott” szövegrész,
+
+49. 63. § (2) bekezdés a) pontja,
+
+50. 65. § (1) bekezdésében az „ingatlan-nyilvántartás szerint” szövegrész és a „közparkként vagy közkertként nyilvántartott” szövegrész,
+
+51. 66. § (1) bekezdésében a „közparknak vagy közkertnek nem minősülő” szövegrész,
+
+52. 67. §-a,
+
+53. 84. § (2) bekezdés b) pontjában a „ , kivéve, ha helyi építési szabályzat más mértéket állapított meg” szövegrész,
+
+54.
+
+55. 88. § (2) bekezdés e) pontja,
+
+56. 88. § (3) bekezdése,
+
+57.
+
+58.
+
+59. 93. § (2) bekezdésében az „A balatoni partvonal-szabályozási terv tárgyában kiadott miniszteri rendeletben rögzített szabályozási partvonalat a településrendezési tervben szerepeltetni kell.” szövegrész,
+
+60.

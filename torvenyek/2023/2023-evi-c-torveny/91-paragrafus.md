@@ -1,11 +1,1 @@
-### 91. § [A kártalanítási kötelezettség teljesítése]
-
-(1) A kártalanítást az köteles megfizetni, akinek az érdekében az építési korlátozás történt. Ha nem határozzák meg azt, akinek az érdekében a korlátozás történt, a kártalanítási kötelezettség a települési önkormányzatot terheli. A fővárosban a kártalanítás a fővárosi és a kerületi önkormányzatot érdekeltségük arányában terheli. Ha az, akinek az érdekében a kártalanítási kötelezettséggel járó előírás szükségessé vált, a tilalom vagy a korlátozás elrendelése után jogutód nélkül megszűnt, és a települési önkormányzat az előírást fenntartja, a kártalanítási kötelezettség szintén az önkormányzatot terheli.
-
-(2) A kártalanítási igény a vagyoni hátrány keletkezése napján válik esedékessé. Ez az időpont a helyi építési szabályzat és a külön önkormányzati rendelet hatálybalépésének, vagy a hatósági határozat véglegessé válásának a napja. A főváros esetében a megállapodás megkötésére irányuló kérelmet a fővárosi önkormányzatnak a területileg illetékes kerületi önkormányzathoz, a területileg illetékes kerületi önkormányzatnak a fővárosi önkormányzathoz nyolc napon belül írásban továbbítani kell. Ebben az esetben úgy kell tekinteni, mintha a kérelmező a kérelmét mindkét önkormányzathoz beadta volna.
-
-(3) Ha a szerződő felek között – a kérelem benyújtásától számított egy éven belül – nem jön létre megállapodás, akkor kártalanítási eljárást kell lefolytatni, amelyet a fővárosi és vármegyei kormányhivatal folytat le a kisajátítási kártalanítás szabályai szerint, az e törvényben meghatározott eltérésekkel. A kártalanítás tárgyában hozott közigazgatási határozattal szembeni közigazgatási pert a kártalanítás megfizetésére kötelezett ellen is meg kell indítani.
-
-(4) A tulajdonost, haszonélvezőt a 90. § (4) bekezdésében foglalt eljárás lefolytatása esetén megilleti a (2) bekezdés szerinti kártalanítás, és a 90. § (4) bekezdésében szabályozott ingatlan megvételének követelése a (2) bekezdés szerinti kérelem benyújtásának minősül. Az adásvétellel, kisajátítással történő kártalanítás esetében a vételárba az addig kifizetett kártalanítást be kell számítani.
-
-(5) A fővárosban a tulajdonos a 90. § (4) bekezdése szerinti igényét – választása szerint – a fővárosi vagy kerületi önkormányzatnál terjesztheti elő azzal, hogy a megvétel vagy a kisajátítás tekintetében a (2) bekezdés fővárosra vonatkozó rendelkezéseit kell alkalmazni.
+### 91. §

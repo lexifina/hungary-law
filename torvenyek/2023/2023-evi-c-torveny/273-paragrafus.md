@@ -26,12 +26,6 @@ e) 6. § (3c) bekezdésében az „és közkertek tulajdonjogát” szövegrész
 
 f) 6. § (3e) bekezdésében az „és közkertek tekintetében” szövegrészek helyébe a „ , közkertek és a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény szerinti balatoni közstrandok tekintetében” szöveg,
 
-g) 13. § (9) bekezdés c) pontjában az „az épített környezet átalakításáról és védelméről” szövegrész helyébe az „a magyar építészetről” szöveg
+g)
 
-lép.
-
-(4) Hatályát veszti a nemzeti vagyonról szóló 2011. évi CXCVI. törvény
-
-a) 2. melléklet III. pont 5. alpontjában foglalt táblázat 5.2. sora,
-
-b) 2. melléklet III. pont 18. alpontjában foglalt táblázat 18.26. sora.
+(4)
