@@ -1,0 +1,1 @@
+1. § E rendelet hatálya a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény XLV. Állami beruházások fejezetben eredeti előirányzatként megállapított, valamint a költségvetési év során megállapított új központi kezelésű kiadási előirányzataira terjed ki.

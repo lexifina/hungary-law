@@ -1,0 +1,1 @@
+6. § Hatályát veszti a XLVII. Gazdaság-újraindítási Alap fejezetnek a kiemelt kormányzati magasépítési beruházásokat finanszírozó központi kezelésű kiadási előirányzatai felhasználásáról szóló 29/2021. (XII. 30.) NVTNM rendelet.
