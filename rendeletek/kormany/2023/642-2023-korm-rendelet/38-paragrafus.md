@@ -1,3 +1,3 @@
-38. §[^37]
+38. §[^38]
 
-[^37]: A 38. § a 39. § (3) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^38]: A 38. § a 39. § (3) bekezdés alapján 2024. január 1-jén lép hatályba.
