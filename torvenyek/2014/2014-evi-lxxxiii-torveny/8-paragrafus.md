@@ -12,7 +12,7 @@ központi nyilvántartást (a továbbiakban: NEK központi nyilvántartás) veze
 
 a) regisztrált, kártyával nem rendelkező kártyafelhasználó esetében
 
-aa) a kártyafelhasználó természetes személyazonosító adatait és
+aa) a kártyafelhasználó természetes személyazonosító adatait, személyi azonosítóját, állampolgárságát, nemét és
 
 ab) a kapcsolati kódot,
 
@@ -48,7 +48,7 @@ d) – ha a kártyafelhasználó elhunyt – a kártyafelhasználó halálának 
 
 a) regisztrált, kártyával nem rendelkező kártyafelhasználó esetében
 
-aa) a kártyafelhasználó természetes személyazonosító adatait,
+aa) a kártyafelhasználó természetes személyazonosító adatait, állampolgárságát, nemét és
 
 ab) a személyazonosításra alkalmas, bemutatott okmány számát, típusát és érvényességi idejét,
 
@@ -107,3 +107,5 @@ f) (3) bekezdés d) pontjában megjelölt adatainak forrása a 9. § (8) bekezd�
 (7) A NEK központi nyilvántartás – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartásnak minősül.
 
 (8) A működtető hivatalból köteles a NEK központi nyilvántartásában a jogszabálysértő bejegyzést törölni, a hibás bejegyzést javítani vagy az elmulasztott bejegyzést pótolni.
+
+(9) A működtető a 6/A. § (1) bekezdés szerint megismert és a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény 32. § 29. pontja és 36. § 28. pontja szerint kezelt személyi azonosítót csak belső azonosítóként a kártyafelhasználói regisztráció és a kártyakibocsátás céljából a személyiadat- és lakcímnyilvántartásból történő adatigénylésre használhatja fel.
