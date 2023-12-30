@@ -12,7 +12,7 @@ c) az általa foglalkoztatott sportszakemberek képesítési követelményeit, t
 
 (3) A sportakadémia a sportolója részére egyéni képességfejlesztési tervet és karriertervet készít.
 
-(4)[^5] A sportakadémia a sportág országos sportági szakszövetsége (a továbbiakban: szakszövetség) utánpótlás korosztályok számára kiírt és szervezett korosztályos versenyrendszereiben, valamint legalább a legalacsonyabb osztályú országos felnőtt versenyrendszerében és a nemzetközi együttműködés keretében szervezett versenyeken való részvétellel biztosítja a sportoló versenyzési lehetőségét.
+(4)[^6] A sportakadémia a sportág országos sportági szakszövetsége (a továbbiakban: szakszövetség) utánpótlás korosztályok számára kiírt és szervezett korosztályos versenyrendszereiben, valamint legalább a legalacsonyabb osztályú országos felnőtt versenyrendszerében és a nemzetközi együttműködés keretében szervezett versenyeken való részvétellel biztosítja a sportoló versenyzési lehetőségét.
 
 (5) A sportakadémia gondoskodik a sportoló rendszeres sportegészségügyi vizsgálatáról és állapotfelméréséről, élettani és teljesítménydiagnosztikai vizsgálatáról, valamint a sportoló részére rendszeres és szükség szerinti sportpszichológiai szolgáltatásról.
 
@@ -22,4 +22,4 @@ c) az általa foglalkoztatott sportszakemberek képesítési követelményeit, t
 
 (8) Ha a sportakadémia kizárólag az utánpótláskorú sportolók sporttevékenységét szervezi, megállapodást köthet más sportszervezettel a szakszövetség legalább legalacsonyabb osztályú országos felnőtt versenyrendszerében, bajnokságában való részvétel érdekében. Ebben az esetben a sportakadémia nem adhat át állami támogatást a sportszervezet részére, amennyiben az hivatásos sportszervezet.
 
-[^5]: A 3. § (4) bekezdése a 704/2020. (XII. 29.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^6]: A 3. § (4) bekezdése a 704/2020. (XII. 29.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.

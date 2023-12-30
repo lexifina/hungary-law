@@ -1,5 +1,3 @@
-## Módszertani központok
-
 |  | A | B |
 
 | 1 | Sportág | Módszertani központok |
@@ -8,7 +6,7 @@
 
 | 3 | kosárlabda | „Rátgéber Kosárlabda Akadémia” Alapítvány |
 
-| 4 | labdarúgás | Felcsúti Utánpótlás Neveléséért Alapítvány |
+| 4 | labdarúgás | Nemzeti Sportügynökség Nonprofit Zártkörűen Működő Részvénytársaság |
 
 | 5 | jégkorong | Ifjabb Ocskay Gábor Jégkorong Akadémia Nonprofit Kft. |
 
@@ -16,7 +14,7 @@
 
 | 7 | birkózás | Kozma István Magyar Birkózó Akadémia Alapítvány |
 
-2. melléklet a 303/2019. (XII. 12.) Korm. rendelethez[^40]
+2. melléklet a 303/2019. (XII. 12.) Korm. rendelethez[^49]
 
 Kiemelt sportágak
 
@@ -52,4 +50,4 @@ Kiemelt sportágak
 
 | 16. | vívás |
 
-[^40]: A 2. mellékletet az 545/2021. (IX. 24.) Korm. rendelet 10. §-a iktatta be.
+[^49]: A 2. mellékletet az 545/2021. (IX. 24.) Korm. rendelet 10. §-a iktatta be.

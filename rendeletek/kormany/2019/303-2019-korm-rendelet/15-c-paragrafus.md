@@ -1,4 +1,4 @@
-## 10/B. [^33] Kiemelt régiós alközpont
+## 10/B. [^39] Kiemelt régiós alközpont
 
 15/C. § (1) A sportakadémiák hatékony működése érdekében a kiemelt régiós alközpont a kiválasztás, képzés-nevelés oldalán segíti a sportolók tudatos sportágspecifikus feláramoltatását az állami sportakadémiai rendszerbe.
 
@@ -30,7 +30,7 @@ d) az Országos Sportegészségügyi Intézettel.
 
 (6) Ha a kiemelt régiós alközpont Tao. tv. szerinti látvány-csapatsport támogatás igénybevételére jogosult, a működési célú állami támogatás mellett igénybe veheti a Tao. tv. szerinti látvány-csapatsport támogatást, illetve egyéb állami sportcélú támogatást. A miniszter egyedi döntésével a kiemelt régiós alközpont felhalmozási célú állami támogatásban részesíthető.
 
-(7)[^34] A támogatás felhasználása során a 2/A. §-ban meghatározott utánpótlás korosztályok alsó határa a kiemelt régiós alközpontok esetében nem alkalmazandó. A kiemelt régiós alközpontok az állami sportcélú támogatást a teljes utánpótlás korosztályra – ideértve a pre-akadémiai korosztályt is – felhasználhatják. A kiemelt régiós alközpontok esetében a támogatás felhasználásának rendje a szövetségi versenyeztetés szabályainak legalsó versenykorosztályához igazodik.
+(7)[^40] A támogatás felhasználása során a 2/A. §-ban meghatározott utánpótlás korosztályok alsó határa a kiemelt régiós alközpontok esetében nem alkalmazandó. A kiemelt régiós alközpontok az állami sportcélú támogatást a teljes utánpótlás korosztályra – ideértve a pre-akadémiai korosztályt is – felhasználhatják. A kiemelt régiós alközpontok esetében a támogatás felhasználásának rendje a szövetségi versenyeztetés szabályainak legalsó versenykorosztályához igazodik.
 
-[^33]: A 10/B. alcímet (15/C. §) az 545/2021. (IX. 24.) Korm. rendelet 8. §-a iktatta be.
-[^34]: A 15/C. § (7) bekezdését a 31/2022. (II. 4.) Korm. rendelet 3. §-a iktatta be.
+[^39]: A 10/B. alcímet (15/C. §) az 545/2021. (IX. 24.) Korm. rendelet 8. §-a iktatta be.
+[^40]: A 15/C. § (7) bekezdését a 31/2022. (II. 4.) Korm. rendelet 3. §-a iktatta be.
