@@ -1,3 +1,3 @@
-1. § Az Országgyűlési Őrségnél foglalkoztatott hivatásos állomány alkalmasságvizsgálatáról, valamint egészségügyi és pszichológiai ellátásáról szóló 43/2022. (XII. 19.) BM rendelet 6. §-a helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„6. § Nem kerül sor alkalmasságvizsgálatra a hivatásos állomány azon tagja esetében, aki a Hszt. 77. § (1) bekezdés b) és f)–j) pontja szerinti rendelkezési állományban van, de nem tölt be szolgálati beosztást, esetükben alkalmasságvizsgálatot a rendelkezési állomány megszűnését megelőzően olyan időben kell kezdeményezni és a 63. §-ban foglaltak szerint elvégezni, hogy annak eredménye legkésőbb a rendelkezési állomány megszűnése napján ismert legyen.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
