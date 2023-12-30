@@ -1,3 +1,3 @@
-4. § A KK rendelet 7. § (2) bekezdése helyébe a következő rendelkezés lép:
+4. §[^5]
 
-„(2) A legkisebb kamatláb meghatározására a szerződéskötés napján, illetve állami támogatást tartalmazó hitelek esetén az állami támogatási szabályoknak megfelelően, az 1. § (1c) bekezdése szerinti hitelviszonyt megtestesítő értékpapír esetén a jegyzés napján kerül sor, amely kamatláb rögzített a teljes futamidő alatt. A versenyképességet javító hitelek esetén a kamatlábat a hitel Eximbank általi, belső szabályzataiban és a termékleírásokban rögzített jóváhagyásának napján – a teljes futamidőre – kell rögzíteni. A rögzített legkisebb kamatlábnak a futamidő alatt történő módosítására kivételesen, az árazást meghatározó paraméterekben bekövetkezett változás esetén, az Eximbank belső szabályzatában meghatározott feltételek szerint kerülhet sor.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-5. § A KK rendelet 8. § (1) bekezdése helyébe a következő rendelkezés lép:
+5. §[^6]
 
-„(1) A versenyképességet javító refinanszírozási hitelek, valamint a (2) bekezdésben meghatározott kivétellel a refinanszírozási exporthitelek, egyéb export célú refinanszírozási hitelek, export előfinanszírozási refinanszírozási hitelek és az exportkövetelések megvásárlásához nyújtott refinanszírozási hitelek legkisebb kamatlába a 7. § (1) bekezdésében meghatározott legkisebb kamatláb mínusz 3,5%. Az e bekezdésben meghatározott refinanszírozási hitelek legkisebb kamatlábának meghatározására a szerződéskötés napján, illetve állami támogatást tartalmazó hitelek esetén az állami támogatási szabályoknak megfelelően kerül sor, és rögzített a teljes futamidő alatt.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
