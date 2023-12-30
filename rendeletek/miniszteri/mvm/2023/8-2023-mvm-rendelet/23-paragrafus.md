@@ -1,3 +1,3 @@
-23. § Az R. 43. § e) pontja helyébe a következő rendelkezés lép:
+23. §[^24]
 
-(Ez a rendelet)
+[^24]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
