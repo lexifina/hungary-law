@@ -1,3 +1,3 @@
-1. melléklet a 89/2023. (XII. 28.) BM rendelethez
+1. melléklet a 89/2023. (XII. 28.) BM rendelethez[^3]
 
-Hatályát veszti a nemzetgazdasági miniszter feladatkörét érintő ágazati honvédelmi feladatokról szóló 5/2014. (II. 7.) NGM rendelet 1. mellékletében foglalt táblázat 22–24. sora.
+[^3]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
