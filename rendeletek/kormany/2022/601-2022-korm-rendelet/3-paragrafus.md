@@ -34,8 +34,20 @@
 
 16. részt vesz a teljesítménykeret létrehozásában, elkészíti a KAP Stratégiai Terv éves és záró jelentését,
 
-17. feladatkörét érintően a KAP Stratégiai Tervben szereplő intézkedésekkel kapcsolatban megteszi a szükséges büntetőeljáráshoz kapcsolódó feljelentéseket és bűnügyi jelzéseket,
+17.[^7] feladatkörét érintően a KAP Stratégiai Tervben szereplő intézkedésekkel kapcsolatban megteszi a szükséges büntetőeljáráshoz kapcsolódó feljelentéseket és bűnügyi jelzéseket, amelyekről, valamint a hozzá beérkező büntető eljárással kapcsolatos megkeresésekről tizenöt napon belül tájékoztatja a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 29/B. §-a szerinti Belső Ellenőrzési és Integritási Igazgatóságot (a továbbiakban: Igazgatóság),
 
-18. az EMGA és az EMVA (a továbbiakban együtt: KAP Alapok) tekintetében gyakorolja a 2. § (2) bekezdés b) pontjában és a 2. § (3) bekezdésében meghatározott irányítási jogköröket – a 4. § (1) bekezdés a) pontja szerinti feladat kivételével – a Nemzeti Kifizető Ügynökség tevékenységét érintően, valamint
+18.[^8] az EMGA és az EMVA (a továbbiakban együtt: KAP Alapok) tekintetében gyakorolja a 2. § (2) bekezdés b) pontjában és a 2. § (3) bekezdésében meghatározott irányítási jogköröket – a 4. § (1) bekezdés a) pontja szerinti feladat kivételével – a Nemzeti Kifizető Ügynökség tevékenységét érintően,
 
 19. részt vesz az Európai Unió illetékes szervei által végzett, a KAP Alapokból származó támogatások felhasználását érintő ellenőrzéseken.
+
+20.[^9] a Nemzeti Kifizető Ügynökséggel együttműködve kidolgozza és rendszeresen felülvizsgálja az ARACHNE kockázatértékelő eszköz alkalmazására és eredményeinek felhasználására vonatkozó módszertant,
+
+21.[^10] feladatkörében használja a palyazat.gov.hu oldal összeférhetetlenség bejelentését (palyazat.gov.hu/osszeferhetetlenseg) és a közérdekű bejelentést (www.anti-lop.hu) biztosító elektronikus felületeit, valamint
+
+22.[^11] az 1. § a) és b) pontja szerinti agrártámogatások jellegétől függően jogszabályban vagy pályázati felhívásban meghatározza az ARACHNE kockázatértékelő eszköz részére megküldendő adatok körét.
+
+[^7]: A 3. § 17. pontja a 668/2023. (XII. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^8]: A 3. § 18. pontja a 668/2023. (XII. 29.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
+[^9]: A 3. § 20. pontját a 668/2023. (XII. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^10]: A 3. § 21. pontját a 668/2023. (XII. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^11]: A 3. § 22. pontját a 668/2023. (XII. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.

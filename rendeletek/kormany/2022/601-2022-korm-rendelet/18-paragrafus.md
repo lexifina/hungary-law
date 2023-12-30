@@ -12,6 +12,25 @@ d) a gyakorlati tapasztalatokat és elméleti ismereteket magában foglaló köz
 
 e) a környezeti monitoringhoz szükséges mérések elvégzése, az eredmények és a javaslatok bemutatása;
 
-f) a szaktanácsadásra, képzésre, bemutató üzemi programra (a továbbiakban együtt: tudásátadási szolgáltatás) vonatkozó igény felmérése; és
+f)[^23]
 
-g) a tudásátadási szolgáltatást nyújtó szolgáltatók akkreditálása, képzése.
+g)[^24]
+
+(3)[^25] A miniszter a NAK útján látja el a KAP Alapokból finanszírozott, valamint a nemzeti agrártámogatásokhoz szükséges szaktanácsadással kapcsolatos következő feladatokat:
+
+a) a szaktanácsadásra, képzésre, bemutató üzemi programra (a továbbiakban együtt: tudásátadási szolgáltatás) vonatkozó igény felmérése; és
+
+b) a tudásátadási szolgáltatást nyújtó szolgáltatók akkreditálása, képzése.
+
+(4)[^26] A miniszter a NAK útján látja el a KAP Alapokból finanszírozott, valamint a nemzeti agrártámogatásokhoz szükséges általános tanácsadással kapcsolatos következő feladatokat:
+
+a) a kedvezményezetteknek szóló egyes, e rendelet hatálya alá tartozó intézkedésekhez kapcsolódóan személyre szabott tanácsadás;
+
+b) gazdaságirányítási és adminisztratív adatok és jelentéstétel megszervezéséhez és fejlesztéséhez kapcsolódó személyre szabott tanácsadás;
+
+c) más, a (3) bekezdés a) pontban foglaltakon kívüli tudásátadásra irányuló intézkedésekben való részvételhez kapcsolódó tanácsadás.
+
+[^23]: A 18. § (2) bekezdés f) pontját a 668/2023. (XII. 29.) Korm. rendelet 9. § c) pontja hatályon kívül helyezte.
+[^24]: A 18. § (2) bekezdés g) pontját a 668/2023. (XII. 29.) Korm. rendelet 9. § c) pontja hatályon kívül helyezte.
+[^25]: A 18. § (3) bekezdését a 668/2023. (XII. 29.) Korm. rendelet 8. §-a iktatta be.
+[^26]: A 18. § (4) bekezdését a 668/2023. (XII. 29.) Korm. rendelet 8. §-a iktatta be.

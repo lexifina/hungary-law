@@ -42,11 +42,21 @@ g) közreműködik a Nemzeti Kifizető Ügynökség intézményi szakmai és fel
 
 h) az intézkedések végrehajtása tekintetében a Nemzeti Kifizető Ügynökségnek adatot szolgáltat,
 
-i) az intézkedések végrehajtásához a Nemzeti Kifizető Ügynökség által kiadott szabályzatokat, utasításokat és egyéb, a végrehajtás és a jogalkalmazás módját érintő dokumentumait véleményezi, továbbá
+i)[^3] az intézkedések végrehajtásához a Nemzeti Kifizető Ügynökség által kiadott szabályzatokat, utasításokat és egyéb, a végrehajtás és a jogalkalmazás módját érintő dokumentumait véleményezi,
 
 j) a Nemzeti Kifizető Ügynökség megkeresésére állásfoglalást ad ki az intézkedések vonatkozásában.
+
+k)[^4] meghatározza a csalás megelőzéséhez, azonosításához, jelentéséhez, valamint a jogosulatlanul kifizetett összegek visszafizettetéséhez, szankcionálásához szükséges feladatokat, kidolgozza az erre vonatkozó eljárást és módszertant,
+
+l)[^5] gondoskodik a csalás elleni tudatosság növeléséről, továbbá
+
+m)[^6] együttműködik a csalások hatékony és eredményes megelőzése, felderítése és szankcionálása érdekében az érintett intézményekkel.
 
 (4) A gazdaságfejlesztésért felelős miniszter az Agrár Széchenyi Kártya Konstrukciókkal kapcsolatos nemzeti intézkedés tekintetében gyakorolja az Áht. 9. § h) és i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket, amelynek keretében ellátja a (3) bekezdés a)–d), f), h)–j) pontjában foglalt feladatokat.
 
 [^1]: A 2. § (1) bekezdés f) pontját a 139/2023. (IV. 24.) Korm. rendelet 1. §-a iktatta be.
 [^2]: A 2. § (1) bekezdés g) pontját a 139/2023. (IV. 24.) Korm. rendelet 1. §-a iktatta be.
+[^3]: A 2. § (3) bekezdés i) pontja a 668/2023. (XII. 29.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § (3) bekezdés k) pontját a 668/2023. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
+[^5]: A 2. § (3) bekezdés l) pontját a 668/2023. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
+[^6]: A 2. § (3) bekezdés m) pontját a 668/2023. (XII. 29.) Korm. rendelet 1. §-a iktatta be.

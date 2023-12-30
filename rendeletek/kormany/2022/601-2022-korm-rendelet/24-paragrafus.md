@@ -1,4 +1,4 @@
-24. § (1)[^8] Az 1. §, valamint a 2007–2013 és a 2014–2022 programozási időszak szerinti agrártámogatásokhoz kapcsolódó elháríthatatlan külső ok (vis maior) elismerésére irányuló eljárásban végrehajtásban közreműködő szervként jár el
+24. § (1)[^28] Az 1. §, valamint a 2007–2013 és a 2014–2022 programozási időszak szerinti agrártámogatásokhoz kapcsolódó elháríthatatlan külső ok (vis maior) elismerésére irányuló eljárásban végrehajtásban közreműködő szervként jár el
 
 a) a mezőgazdasági üzem földterületét sújtó természeti csapás, illetve szélsőséges időjárási körülmény (földrengés, árvíz, szélvihar, aszály, belvíz, tűzeset, jégkár, fagykár stb.) tekintetében az agrárkár-megállapító szervként eljáró vármegyei kormányhivatal,
 
@@ -14,4 +14,4 @@ annak elbírálása kérdésében, hogy az adott vis maior esemény a vis maior 
 
 (2) Ha a vis maior esemény kiterjed az ország jelentős részére, vagy az adott intézkedés tekintetében különösen nagyszámú érintettre, akkor a vis maior esemény megállapításának jóváhagyási feltételeit a Nemzeti Kifizető Ügynökség állapítja meg.
 
-[^8]: A 24. § (1) bekezdése a 139/2023. (IV. 24.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^28]: A 24. § (1) bekezdése a 139/2023. (IV. 24.) Korm. rendelet 5. §-ával megállapított szöveg.
