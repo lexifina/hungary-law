@@ -1,1 +1,0 @@
-17. § E törvénynek az egyes közlekedési tárgyú törvények módosításáról szóló 2021. évi LIX. törvénnyel (a továbbiakban: Módtv3.) megállapított 6/T. §-át, a Módtv3. hatálybalépése előtt létrejött jogviszonyokra is alkalmazni kell.

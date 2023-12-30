@@ -1,1 +1,0 @@
-10. § A Kúria a felülvizsgálati ellenkérelemnek (csatlakozó felülvizsgálati kérelemnek) a Kúriához való érkezését, illetve a felülvizsgálati ellenkérelem előterjesztésére megállapított határidő eredménytelen leteltét követő kilencven napon belül dönt.
