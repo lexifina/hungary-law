@@ -1,4 +1,4 @@
-## 57. §[^258] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló kormányrendeletek módosításáról szóló 174/2021. (IV. 9.) Korm. rendelettel (a továbbiakban: Módr49.) módosított 3. § (4) bekezdését, 4. § (1) és (2) bekezdését, 6. § (3a) bekezdését, megállapított 6/N. §-át és 2. mellékletében foglalt táblázat 62. sorát a Módr49. hatálybalépésekor[^259] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 57. §[^259] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló kormányrendeletek módosításáról szóló 174/2021. (IV. 9.) Korm. rendelettel (a továbbiakban: Módr49.) módosított 3. § (4) bekezdését, 4. § (1) és (2) bekezdését, 6. § (3a) bekezdését, megállapított 6/N. §-át és 2. mellékletében foglalt táblázat 62. sorát a Módr49. hatálybalépésekor[^260] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^258]: Az 57. §-t a 174/2021. (IV. 9.) Korm. rendelet 4. §-a iktatta be.
-[^259]: A hatálybalépés időpontja 2021. április 10.
+[^259]: Az 57. §-t a 174/2021. (IV. 9.) Korm. rendelet 4. §-a iktatta be.
+[^260]: A hatálybalépés időpontja 2021. április 10.

@@ -274,8 +274,12 @@
 
 | 127. | Budapesti ingatlanon lakó rendeltetésű és azokat kiszolgáló építmények fejlesztésére irányuló beruházás | Budapest XII. kerület belterület 10733/10, 10735, 10736/2, 10737 helyrajzi számú ingatlanok | Budapest Főváros Kormányhivatalát vezető főispán |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^427]
+| 128. | Központi telephely és logisztikai terület fejlesztése Budapest X. kerületében | Budapest közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti Budapest belterület 42537/1 és 42537/3 helyrajzi számú ingatlanok | Budapest Főváros Kormányhivatalát vezető főispán |
+
+| 129. | Autóipari gyártócsarnok létrehozására irányuló beruházás Miskolc város területén | Miskolc város belterületén fekvő, az ingatlan-nyilvántartás szerinti 47511/48 helyrajzi számú ingatlan | Borsod-Abaúj-Zemplén Vármegyei Kormányhivatalt vezető főispán |
+
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^430]
 
 A 2. mellékletben foglalt táblázat 7 és 7a sora szerinti beruházások közlekedési kapacitásbővítéssel összefüggő útszélesítései
 
-[^427]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^430]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
