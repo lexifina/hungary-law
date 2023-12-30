@@ -72,6 +72,8 @@ a megállapításáról szóló értesítés esetén a behajtást kérő megkere
 
 25. a csődeljárásról és a felszámolási eljárásról szóló törvény 33/A. §-a szerinti, az állami adó- és vámhatóság kérelmére meghozott, biztosíték nyújtásra kötelező jogerős végzés.
 
+26. a nemzetközi adóegyezmények alapján indított adókövetelések behajtására irányuló megkeresés, valamint a határon átnyúló hitelezői igénybejelentések esetén a magyar adóhatóság követelését tartalmazó hátraléki kimutatás.
+
 (2) Az okirat végrehajthatóságához külön intézkedésre nincs szükség.
 
 (3) A tartozás után felszámított pótlék, kamat, a végrehajtási költségátalány és költségminimum az adótartozásra vonatkozó végrehajtható okirat alapján hajtható végre.

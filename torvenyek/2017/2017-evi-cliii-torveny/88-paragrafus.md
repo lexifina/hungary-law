@@ -4,7 +4,7 @@
 
 (2) Az árverésen kívüli értékesítés jogkövetkezményei megegyeznek az árverési értékesítés jogkövetkezményeivel.
 
-(3) Megkeresésre történő végrehajtás esetén az árverésen kívüli értékesítéshez a behajtást kérő, illetve a behajtást kérő hatóság beleegyezése is szükséges, kivéve, ha az értékesítésből befolyó vételárból a végrehajtási költségek, továbbá valamennyi követelés megtérül.
+(3) Megkeresésre történő végrehajtás esetén az árverésen kívüli értékesítéshez a behajtást kérő, illetve a behajtást kérő hatóság beleegyezése is szükséges, kivéve, ha az értékesítésből befolyó vételárból a végrehajtási költségek, továbbá valamennyi követelés megtérül. A behajtást kérő, illetve a behajtást kérő hatóság az adóhatóság felhívására 8 napon belül elektronikus úton nyilatkozik a beleegyezéséről vagy annak hiányáról. Ha a behajtást kérő, illetve a behajtást kérő hatóság a felhívásnak a megadott határidőn belül nem tesz eleget, a beleegyezését megadottnak kell tekinteni.
 
 (4) Ingatlan árverésen kívüli értékesítéséhez az ingatlan-nyilvántartásba bejegyzett, a Vht. 137. §-ban fel nem sorolt jogok jogosultjainak a beleegyezése is szükséges.
 

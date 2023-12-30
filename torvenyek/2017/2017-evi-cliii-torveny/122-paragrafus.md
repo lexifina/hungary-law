@@ -6,19 +6,21 @@
 
 (1b) A behajtást kérő hatóság előtt ügyfélként eljáró személyt kérelmére az adóhatóság – az Art. 127–128. §-ában foglaltakra is figyelemmel – tájékoztatja a végrehajtási ügy állásáról
 
+(1c) Ha a meghatározott cselekmény építmény elbontására vagy jókarbantartási kötelezettség teljesítésére irányul, az adóhatóság végrehajtásra történő megkeresésének feltétele, hogy a behajtást kérő hatóság az építésügyi hatósági kötelezés tényét, mint jogilag jelentős tényt az ingatlan-nyilvántartásba feljegyeztesse.
+
 (2) Az állami adó- és vámhatóság – a (3) bekezdés szerinti eljárási bírság kilátásba helyezése mellett – felhívja az adóst a meghatározott cselekmény önkéntes teljesítésére, továbbá tájékoztatja a teljesítés elmaradásának következményeiről.
 
-(3) Az önkéntes teljesítés elmaradása esetén az állami adó- és vámhatóság a meghatározott cselekmény végrehajtása érdekében az adóssal szemben a 22. § alkalmazásával eljárási bírságot szabhat ki.
+(3) Az önkéntes teljesítés elmaradása esetén az állami adó- és vámhatóság a meghatározott cselekmény végrehajtása érdekében az adóssal szemben a 22. § alkalmazásával eljárási bírságot szabhat ki. Az állami adó- és vámhatóság az eljárási bírságot kiszabó végzésben határidő tűzésével ismételten felhívja az adóst a kötelezettsége önkéntes teljesítésére. A kötelezettség határidőben történő teljesítése esetén az e bekezdés szerint kiszabott bírság mérsékelhető vagy elengedhető.
 
 (4) Ha az adós jogi személy vagy egyéb szervezet, a (3) bekezdésben említett eljárási bírságot mind a jogi személlyel vagy egyéb szervezettel szemben, mind a vezető tisztségviselőjével szemben egyidejűleg ki lehet szabni.
 
-(5) Ha az adós az eljárási bírságot kiszabó végzésben megállapított határidő alatt sem teljesítette a kötelezettségét, az eljárási bírság egy alkalommal ismételten kiszabható.
+(5) Ha az adós az eljárási bírságot kiszabó végzésben megállapított határidő alatt sem teljesítette a kötelezettségét, az eljárási bírság egy alkalommal ismételten kiszabható. A végzésben az állami adó- és vámhatóság az adóst határidő tűzésével ismételten felhívja az önkéntes teljesítésre. A kötelezettség határidőben történő teljesítése esetén az e bekezdés szerint kiszabott bírság mérsékelhető vagy elengedhető.
 
 (6) Az állami adó- és vámhatóság a meghatározott cselekményt az adós költségére és veszélyére – akár pénzügyőri munkakört betöltő foglalkoztatottjának intézkedésével vagy kényszerítő eszköz alkalmazásával – elvégzi, ha
 
 a) az adós az ismételten kiszabott eljárási bírság ellenére sem teljesítette a meghatározott cselekményt, vagy
 
-b) a meghatározott cselekmény végrehajtása nem tűr halasztást.
+b) a meghatározott cselekmény végrehajtása – az életet, egészséget, testi épséget közvetlenül veszélyeztető helyzet megszüntetése érdekében – nem tűr halasztást.
 
 (7) Az állami adó- és vámhatóság az elvégzendő cselekmény pontos meghatározása, valamint közreműködő szervezet kirendelése érdekében, valamint az eljárás minden szakaszában igénybe veheti a behajtást kérő hatóság – különösen személyes megjelenéssel vagy soron kívüli adatszolgáltatással megvalósuló – közreműködését. A behajtást kérő hatóság köteles az állami adó- és vámhatóság felhívásában foglaltaknak – költség felszámítása nélkül – eleget tenni.
 
