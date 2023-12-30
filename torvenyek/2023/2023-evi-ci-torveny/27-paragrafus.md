@@ -1,0 +1,5 @@
+27. § (1) A Nemzeti Adatvagyon Tanács javaslatára egyes egyértelműen azonosítható és körülírtható igénytípusok teljesítésére vonatkozóan a miniszter általános jelleggel előzetes döntési álláspontot adhat a NAVÜ részére. Az olyan igénytípusba tartozó igényeket, amelyekre a miniszter előzetes álláspontot adott ki, nem kell felterjeszteni a miniszter részére.
+
+(2) A NAVÜ az (1) bekezdés szerinti igénytípusok teljesítésére keretmegállapodást köthet az igénylővel azzal, hogy a keretmegállapodás hatálybalépéséhez a miniszter jóváhagyása szükséges. A miniszter által jóváhagyott keretmegállapodás alapján benyújtott szolgáltatási igényt szintén nem kell felterjeszteni a miniszternek.
+
+(3) Arra az esetre, ha az igény teljesítéséhez személytelenítés, kulcsszolgáltatás, összekapcsolás vagy idősoros elemzés szükséges, a NAVÜ a 82. § szerinti adatszolgáltatást végzők, valamint az egyes szolgáltatások nyújtói részére meghatározza a személytelenítéssel, kulcsszolgáltatással, összekapcsolással vagy idősoros elemzéssel kapcsolatos követelményeket.

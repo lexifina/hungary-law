@@ -1,0 +1,3 @@
+13. § (1) Ha a NAVÜ feladatainak ellátása során, továbbá, ha valamely más, adatelemzési szolgáltatás nyújtására kijelölt szolgáltató elemzéseinek eredményéből a társadalmat, a gazdaságot vagy a környezetet fenyegető, lényeges kockázatokat azonosít, arról – a miniszter útján, általános kormányzati tájékoztató jelentés formájában – haladéktalanul tájékoztatást ad a Kormány számára.
+
+(2) Amennyiben a feltárt kockázat indokolja, a NAVÜ a miniszternél kezdeményezi az (1) bekezdés szerinti jelentésnek a – minősített adat védelméről szóló 2009. évi CLV. törvény (a továbbiakban: Mavtv.) szerinti – minősítését.

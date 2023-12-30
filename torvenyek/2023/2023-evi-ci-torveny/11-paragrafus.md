@@ -1,0 +1,5 @@
+11. § (1) A NAVÜ az e törvényben meghatározott, valamint a számára kormányrendeletben előírt szolgáltatásokat nyújtja.
+
+(2) A NAVÜ üzemelteti és fenntartja a Nemzeti Közadatportált, továbbá biztosítja az ott elérhető szolgáltatásokat. E feladatai keretében a NAVÜ a személyes és védett adatot nem tartalmazó adatkészletek és nyilvántartások tekintetében az adatbirtokos közfeladatot ellátó szerv külön engedélye nélkül jogosult az adatok kezelésére és a Nemzeti Adatvagyon Leltárban kiadásra megjelölt adatok közzétételére. Ez a felhatalmazás nem érinti a közfeladatot ellátó szerveknek az általuk kezelt, a nemzeti adatvagyon körébe tartozó adatokra vonatkozó önálló kezelési jogát, valamint az e törvény szerinti igény teljesítésének kötelezettségét.
+
+(3) A NAVÜ vezeti a regisztrációköteles adathasznosítás-támogatási szolgáltatások nyilvántartását, ennek részeként nyilvántartja kapcsolattartás céljából a szolgáltató által megadott kapcsolattartó személyek nevét, szervezeti beosztását, postai és elektronikus levélcímét, telefonszámát.
