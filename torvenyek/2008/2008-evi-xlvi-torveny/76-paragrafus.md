@@ -214,4 +214,6 @@ c) a b) pont alapján meghatározott feltételeknek nem megfelelő étrend-kieg�
 
 d) a vitaminok, ásványi anyagok és bizonyos egyéb anyagok élelmiszerekhez történő hozzáadására, az ilyen élelmiszerek bejelentésére, értékelésére
 
+e) az étrend-kiegészítők előállítására és forgalomba hozatalára
+
 vonatkozó előírásokat.
