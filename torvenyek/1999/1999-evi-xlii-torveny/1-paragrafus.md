@@ -42,9 +42,9 @@ q) utántöltő flakon: az elektronikus cigaretta utántöltésére szolgáló, 
 
 r) patron: egyes elektronikus cigaretták használatához szükséges, jellemzően egyszer használatos (nem utántölthető) bármilyen formában nikotint tartalmazó folyadékot tartalmazó tartály;
 
-s) dohányzást imitáló elektronikus eszköz: olyan elektronikus termék, amely szopókán keresztül nikotinmentes pára fogyasztását teszi lehetővé;
+s) dohányzást imitáló elektronikus eszköz: olyan egyszer használatos (eldobható), vagy nikotinmentes utántöltő flakonnal utántölthető vagy nikotinmentes patronnal működő (többször használható) elektronikus termék, amely szopókán keresztül nikotinmentes pára fogyasztását teszi lehetővé; annak bármely alkatrésze, beleértve a tartályokat és a patron vagy tartály nélküli készüléket is;
 
-t) nikotinmentes utántöltő flakon: dohányzást imitáló elektronikus eszköz utántöltésére szolgáló, vagy használatát lehetővé tevő nikotinmentes folyadékot tartalmazó tartály, ideértve a nikotinmentes folyadékot tartalmazó egyszer használatos (nem utántölthető) tartályt is;
+t) nikotinmentes utántöltő flakon: dohányzást imitáló elektronikus eszköz utántöltésére szolgáló, nikotinmentes folyadékot tartalmazó tartály;
 
 u) füst nélküli dohánytermék: olyan dohánytermék, amelynek a felhasználása nem jár égési folyamattal, beleértve a rágódohányt, a tüsszentésre szolgáló dohányterméket és a szájon át fogyasztott dohányterméket;
 
@@ -59,3 +59,5 @@ w) új dohánytermék-kategóriák kiegészítő terméke: olyan áru, amely az 
 x) elektronikuscigaretta-azonosító szám: az elektronikus cigarettákra és az utántöltő flakonokra vonatkozó értesítések közös formátumának meghatározásáról szóló, 2015. november 24-i (EU) 2015/2183 bizottsági végrehajtási határozatban meghatározott közös adatbeviteli kapun bejelentett termékek azonosítására szolgáló szám;
 
 y) a dohányzást helyettesítő nikotintartalmú termék: olyan – dohányt nem tartalmazó, és elektronikus cigarettának, továbbá utántöltő flakonnak vagy patronnak nem minősülő – nikotint tartalmazó termék, amely nem minősül gyógyszernek, és amelynek hatóanyaga szájon át (nyálkahártyán keresztül) jut el az emberi szervezetbe.
+
+z) nikotinmentes patron: a nikotinmentes utántöltő flakonok azon fajtája, amely egyes dohányzást imitáló elektronikus eszközök használatához szükséges, jellemzően egyszer használatos (nem utántölthető) bármilyen formában nikotinmentes folyadékot tartalmazó tartály.
