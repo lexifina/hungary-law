@@ -18,8 +18,14 @@ b) a munkáltatóéval azonos, vagy ahhoz hasonló tevékenységet is végző, i
 
 (7) A (6) bekezdés b) pontja az egészségügyi szolgáltatónál, valamint az egészségügyért felelős miniszter ágazati irányítási jogkörébe tartozó, egészségügyi szolgáltatást nem nyújtó költségvetési szervnél létesített, egészségügyi tevékenyég végzésére irányuló, az egészségügyi szolgálati jogviszonyhoz kapcsolódó munkakörre, vezetői megbízásra nem alkalmazandó.
 
+(7a) Az országos gyógyintézet, a vármegyei és városi fekvőbeteg-szakellátást nyújtó egészségügyi intézmény, valamint az irányító vármegyei intézményi feladatokat ellátó klinikai központ intézményvezetőjének vezetői megbízatásával összeférhetetlen az egészségügyi szolgáltatást is nyújtó, illetve a munkáltatóval rendszeres gazdasági kapcsolatban álló más gazdasági társaságban betöltött vezető tisztségviselői, felügyelőbizottsági tagság.
+
+(7b) Az országos gyógyintézet, a vármegyei és városi fekvőbeteg-szakellátást nyújtó egészségügyi intézmény, valamint az irányító vármegyei intézményi feladatokat ellátó klinikai központ intézményvezetője és közeli hozzátartozója – a nyilvánosan működő részvénytársaságban való részvényszerzés kivételével – egészségügyi szolgáltatást is nyújtó gazdasági társaságban nem szerezhet részesedést.
+
 (8) Az egészségügyi szolgálati jogviszonyban álló személy köteles a munkáltatónak haladéktalanul írásban bejelenteni, ha vele szemben az egészségügyi szolgálati jogviszony létesítésekor vagy fennállása alatt az e törvényben meghatározott összeférhetetlenségi ok merült fel, vagy ha az egészségügyi szolgálati jogviszonyának fennállása alatt összeférhetetlen helyzetbe került. A munkáltató köteles haladéktalanul írásban felszólítani az egészségügyi szolgálati jogviszonyban álló személyt, hogy az összeférhetetlenséget harminc napon belül szüntesse meg, vagy köteles a szükséges intézkedést megtenni az összeférhetetlenség kizárására.
 
 (9) Ha az egészségügyi szolgálati jogviszonyban álló személy az összeférhetetlenséget a felszólítástól számított harminc napon belül nem szüntette meg, az egészségügyi szolgálati jogviszonya e törvény erejénél fogva megszűnik.
 
-(10) Az egészségügyi szolgáltató vezetője az Eütev. 1. §-a szerinti gyógyító-megelőző tevékenységet az Eütev. 15/F. §-ban foglalt kivétellel nem folytathat azzal, hogy ezen tevékenység végzési ideje a gyakorlati időbe, illetve a kötelező továbbképzésbe beszámít.
+(10) Az egészségügyi szolgáltató vezetője az Eütev. 1. §-a szerinti gyógyító-megelőző tevékenységet az általa vezetett egészségügyi szolgáltatónál, a működési nyilvántartás megújítása céljából, a továbbképzése alapján szükséges gyakorlati pontok megszerzése érdekében és az ahhoz szükséges mértékben végezhet.
+
+(11) A (10) bekezdés szerinti tevékenységet, az ott meghatározott feltételekkel az intézményvezető más állami fenntartású egészségügyi szolgáltatónál is végezheti, ha az általa vezetett intézmény az adott szakmában gyógyító-megelőző tevékenységet nem végez.

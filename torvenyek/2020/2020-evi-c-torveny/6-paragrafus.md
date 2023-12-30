@@ -8,13 +8,11 @@ b) 6–10. fizetési osztályban és a felsőoktatási intézményben oktatói, 
 
 alapszabadság illeti meg.
 
-(2) Az (1) bekezdés hatálya alá nem tartozó, az Eütev. 2. melléklete szerint
+(2) Az (1) bekezdés hatálya alá nem tartozó, az 1/A. melléklet szerinti
 
-a) az „A”, „B”, „C” és „D” fizetési osztályba sorolt egészségügyi dolgozó évi húsz munkanap,
+a) I–II. fizetési osztályba sorolt egészségügyi dolgozó évi húsz munkanap,
 
-b) az „E”, „F”, „G”, „H”, „I” és „J” fizetési osztályba sorolt egészségügyi dolgozó évi huszonegy munkanap
-
-alapszabadságra és a fizetési fokozatának megfelelő számú munkanap pótszabadságra jogosult. Az 1. melléklet szerinti 1. fizetési fokozatban az egészségügyi szolgálati jogviszonyban álló személyt e címen pótszabadság nem illeti meg.
+b) III–V. fizetési osztályba sorolt egészségügyi dolgozó évi huszonegy munkanap alapszabadságra és az egészségügyi szolgálati jogviszonyban töltött idejének megfelelő Eütev. 2. melléklet szerinti fizetési fokozatnak megfelelő számú munkanap pótszabadságra jogosult. Az 1. melléklet szerinti illetmény- vagy bértáblákhoz tartozó 1. fizetési fokozatban az egészségügyi szolgálati jogviszonyban álló személyt e címen pótszabadság nem illeti meg.
 
 (3) Az (1) és (2) bekezdés alá nem tartozó egészségügyi szolgálati jogviszonyban álló személy az Mt.-ben meghatározott szabadságra jogosult.
 

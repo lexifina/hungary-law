@@ -55,3 +55,5 @@ a) az állami fenntartású egészségügyi szolgáltató esetén a munkáltató
 b) azt a szervet, amely egészségügyi szolgálati jogviszonyban álló személy további munkavégzésre irányuló jogviszonyát (ideértve más keresőfoglalkoztatást, valamint díjazás ellenében folytatott tevékenységet is), illetve a gyakorolható tevékenység végzésére irányuló jogviszonyt előzetesen engedélyezheti.
 
 (3) Felhatalmazást kap a Kormány arra, hogy rendeletben jelölje ki azt a szervet, amely a 4. § (2) bekezdése szerinti engedély megadására jogosult, valamint rendeletben határozza meg – szakmakóddal együtt – azokat a szakmákat, amelyek esetében megadható a 4. § (2) bekezdése szerinti engedély.
+
+(4) Felhatalmazást kap a Kormány arra, hogy rendeletben jelölje ki azt a szervet, amely a 20/A. § (2) bekezdése szerinti engedély megadására jogosult, valamint rendeletben határozza meg az engedély megadásának feltételeit, ideértve a 20/A. § (2a) bekezdése szerinti ellátási érdek meghatározását is.
