@@ -1,4 +1,4 @@
-8. § (1) Az ösztöndíj és a lakhatási támogatás a hallgatói jogviszonyban álló ösztöndíjas részére tanulmányai során folyósítható, ha az adott tanulmányi időszakban aktív hallgatói jogviszonnyal rendelkezik.
+8. § (1)[^14] Az ösztöndíj , a lakhatási támogatás és az utazási támogatás a hallgatói jogviszonyban álló ösztöndíjas részére tanulmányai során folyósítható, ha az adott tanulmányi időszakban aktív hallgatói jogviszonnyal rendelkezik.
 
 (2) Annak az ösztöndíjasnak, aki az Ösztöndíjprogram keretében oklevelet szerez a tavaszi félév végén, és az adott évi új pályázati eljárásban magasabb képzési szinten ösztöndíjat nyer, az oklevélszerzés félévében hatályos ösztöndíjas szerződése az adott év augusztus 31-ig meghosszabbodik, és megilletik az ösztöndíjas juttatások.
 
@@ -13,3 +13,5 @@ b) vállalják az ösztöndíjas magyar nyelvi képzését az ösztöndíjas fel
 (5) Az intézmények a Stipendium Hungaricum programban kötött keretmegállapodásban, valamint az Ösztöndíjprogram működési szabályzatában és végrehajtási útmutatójában meghatározott feltételek szerint vehetnek részt a programban.
 
 (6) A (4) bekezdés b) pontja szerinti képzés nyújtásáért az intézmény jogosult a képzési költségén felül a magyar nyelvi képzési átalánytámogatásra.
+
+[^14]: A 8. § (1) bekezdése a 666/2023. (XII. 29.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.

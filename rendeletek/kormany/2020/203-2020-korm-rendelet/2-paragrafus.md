@@ -6,7 +6,7 @@
 
 (3) A miniszter a kiválasztási eljárásban közreműködő testületet hozhat létre.
 
-(4)[^2] Az ösztöndíjak és az Ösztöndíjprogram működtetésének pénzügyi fedezetét a külpolitikáért felelős miniszter által vezetett minisztérium (a továbbiakban: minisztérium) költségvetési fejezetében kell tervezni. A minisztérium a költségvetési fejezet terhére az Ösztöndíjprogramban részt vevő felsőoktatási intézmények (a továbbiakban: intézmények) rendelkezésére bocsátja az ösztöndíjak (megélhetési támogatás), a lakhatási támogatás, az oktatás önköltsége, valamint az egészségügyi hozzájárulás, a szervezési átalány és a magyar nyelvi képzési átalány összegét, illetve biztosítja az ösztöndíjprogram működtetésének költségeit a Közalapítvány számára, továbbá biztosítja a minisztérium által közvetlenül ellátandó feladatok végrehajtását.
+(4)[^2] Az ösztöndíjak és az Ösztöndíjprogram működtetésének pénzügyi fedezetét a külpolitikáért felelős miniszter által vezetett minisztérium (a továbbiakban: minisztérium) költségvetési fejezetében kell tervezni. A minisztérium a költségvetési fejezet terhére az Ösztöndíjprogramban részt vevő felsőoktatási intézmények (a továbbiakban: intézmények) rendelkezésére bocsátja támogatói okirat vagy fejezetek közötti megállapodás formájában az ösztöndíjak (megélhetési támogatás), a lakhatási támogatás, az utazási támogatás, az oktatás önköltsége, valamint az egészségügyi hozzájárulás, a szervezési átalány és a magyar nyelvi képzési átalány összegét, illetve biztosítja az ösztöndíjprogram működtetésének költségeit a Közalapítvány számára, továbbá biztosítja a minisztérium által közvetlenül ellátandó feladatok végrehajtását.
 
 (4a)[^3] Az e rendelet alapján nyújtott költségvetési támogatásra a Stipendium Hungaricumról szóló 285/2013. (VII. 26.) Korm. rendelet 2. § (3c)–(3d) bekezdését kell alkalmazni.
 
@@ -26,10 +26,13 @@ a) ösztöndíj (megélhetési támogatás),
 
 b) kollégiumi elhelyezés vagy lakhatási támogatás.
 
+c)[^6] utazási támogatás.
+
 (7) Az ösztöndíj (megélhetési támogatás) mértékét – az államháztartásért felelős miniszter egyetértésével – és feltételeit a miniszter határozza meg.
 
 [^1]: A 2. § (1) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 202. §-a szerint módosított szöveg.
-[^2]: A 2. § (4) bekezdése az 581/2021. (X. 12.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § (4) bekezdése az 581/2021. (X. 12.) Korm. rendelet 15. § a) pontja, a 666/2023. (XII. 29.) Korm. rendelet 4. § a)-b) pontja szerint módosított szöveg.
 [^3]: A 2. § (4a) bekezdését az 581/2021. (X. 12.) Korm. rendelet 9. §-a iktatta be.
 [^4]: A 2. § (5) bekezdés c) pontja az 581/2021. (X. 12.) Korm. rendelet 10. §-ával megállapított szöveg.
 [^5]: A 2. § (5) bekezdés d) pontja az 581/2021. (X. 12.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^6]: A 2. § (6) bekezdés c) pontját a 666/2023. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
