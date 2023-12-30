@@ -1,11 +1,3 @@
-4. § Az R. 38. § (1) bekezdése helyébe a következő rendelkezés lép:
+4. §[^5]
 
-„(1) A sportinformációs rendszer működtetésével, üzemeltetésével, szakmai ügyvitel- és rendszerszervezésével, továbbfejlesztésével kapcsolatos feladatok keretében támogatható a rendszer adattörzs bővítéséhez és frissítéséhez kapcsolódó feladatok folyamatos ellátása, ennek keretében
-
-a) a funkcionalitás javítása és az esetleges redundanciák kiküszöbölését célzó informatikai-paraméterezési feladatok elvégzése,
-
-b) a rendszer használatába bevont szervezetek adminisztrátori struktúrájának kialakítása,
-
-c) a rendszer széles körben történő megismeréséhez és használatához szükséges kommunikációs és disszeminációs, különösen médiakampányok lebonyolítása, és
-
-d) a sportinformációs rendszer támogatása, valamint jogszabálykövetési feladatok ellátása.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
