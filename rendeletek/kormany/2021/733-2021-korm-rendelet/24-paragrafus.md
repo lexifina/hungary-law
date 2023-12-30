@@ -4,6 +4,6 @@
 
 (3) Nem tehet érdemi intézkedést az ügyben az, aki az (1) bekezdés szerint bejelentette összeférhetetlenségét, és az, aki a rá vonatkozóan megtett (2) bekezdés szerinti bejelentésben foglaltakat elismerte.
 
-(4)[^11] A (2) bekezdés szerinti bejelentésről az irányító hatóság haladéktalanul tájékoztatja Belső Ellenőrzési és Integritási Igazgatóságot.
+(4)[^13] A (2) bekezdés szerinti bejelentésről az irányító hatóság haladéktalanul tájékoztatja Belső Ellenőrzési és Integritási Igazgatóságot.
 
-[^11]: A 24. § (4) bekezdését a 197/2023. (V. 22.) Korm. rendelet 10. §-a iktatta be.
+[^13]: A 24. § (4) bekezdését a 197/2023. (V. 22.) Korm. rendelet 10. §-a iktatta be.

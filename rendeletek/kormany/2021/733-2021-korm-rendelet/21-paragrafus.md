@@ -14,10 +14,12 @@ f) az a)–e) pont szerinti személy hozzátartozója,
 
 g) akitől az ügy elfogulatlan megítélése egyéb okból nem várható,
 
-h) a II. Fejezet szerinti intézményrendszer azon személye és szervezeti egysége, amely érintett az V–VII. fejezet szerinti eljárásrendi cselekmények elvégzésében.
+h)[^9]
 
-(2) Ha egy személy összeférhetetlensége az (1) bekezdés a)–f) és h) pontja alapján nem volna megállapítható, de az (EU, Euratom) 2018/1046 európai parlamenti és tanácsi rendelet 61. cikk (3) bekezdése szerinti valamely összeférhetetlenségi ok rá nézve teljesül vagy annak kockázata vagy látszata objektíven fennáll, akkor ezen személyt az (1) bekezdés g) pontja szerint kell minősíteni.
+(2)[^10] Ha egy személy összeférhetetlensége az (1) bekezdés a)–f) alapján nem volna megállapítható, de az (EU, Euratom) 2018/1046 európai parlamenti és tanácsi rendelet 61. cikk (3) bekezdése szerinti valamely összeférhetetlenségi ok rá nézve teljesül vagy annak kockázata vagy látszata objektíven fennáll, akkor ezen személyt az (1) bekezdés g) pontja szerint kell minősíteni.
 
 (3) A 3. § 4a. pontjában foglaltak szerint irányító hatóságként a X. Fejezet szerinti szabálytalansági eljárás során eljáró szervezeti egységet az (1) és (2) bekezdésre figyelemmel kell kijelölni.
 
 [^8]: A 21. § a 197/2023. (V. 22.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^9]: A 21. § (1) bekezdés h) pontját a 667/2023. (XII. 29.) Korm. rendelet 11. § a) pontja hatályon kívül helyezte.
+[^10]: A 21. § (2) bekezdése a 667/2023. (XII. 29.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.

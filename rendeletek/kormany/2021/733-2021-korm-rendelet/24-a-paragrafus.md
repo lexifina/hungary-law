@@ -1,4 +1,4 @@
-24/A. §[^12] (1) Bárki jogosult anonim módon bejelenteni a ww w. palyazat .gov. hu oldalon, ha az ügyben összeférhetetlenség vagy annak kockázata vagy látszata fennállását észleli.
+24/A. §[^14] (1) Bárki jogosult anonim módon bejelenteni a ww w. palyazat .gov. hu oldalon, ha az ügyben összeférhetetlenség vagy annak kockázata vagy látszata fennállását észleli.
 
 (2) A Belső Ellenőrzési és Integritási Igazgatóság az (1) bekezdés szerinti megalapozott bejelentésről haladéktalanul tájékoztatja az irányító hatóságot irányító helyettes államtitkárt.
 
@@ -16,4 +16,4 @@ b) nyilvánvalóan alaptalan.
 
 (7) A Belső Ellenőrzési és Integritási Igazgatóság az (1) bekezdés szerinti bejelentések vizsgálata során keletkezett dokumentumokat a vizsgálatok lezárásától számított öt évig megőrzi.
 
-[^12]: A 24/A. §-t a 197/2023. (V. 22.) Korm. rendelet 11. §-a iktatta be.
+[^14]: A 24/A. §-t a 197/2023. (V. 22.) Korm. rendelet 11. §-a iktatta be.

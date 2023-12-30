@@ -8,6 +8,6 @@ a) a kedvezményezett több részletben igényli a támogatási előleget, vagy
 
 b) a kedvezményezett egy összegben igényli a támogatási előleget, de az irányító hatóság a projekt költségei felmerülését mérlegelve a részletekben történő kifizetés mellett dönt.
 
-(3)[^29] A támogatási előleggel való részleges vagy teljes elszámolást követően az előleg a 121. § szerinti vagy a támogató rendelkezésére álló biztosítéki érték mértékéig, összegéig újra igényelhető, ha erre a felhívás vagy a támogatási szerződés lehetőséget biztosít.
+(3)[^34] A támogatási előleggel való részleges vagy teljes elszámolást követően az előleg a 121. § szerinti vagy a támogató rendelkezésére álló biztosítéki érték mértékéig, összegéig újra igényelhető, ha erre a felhívás vagy a támogatási szerződés lehetőséget biztosít.
 
-[^29]: A 122. § (3) bekezdését a 126/2022. (III. 28.) Korm. rendelet 2. §-a iktatta be, szövege a 197/2023. (V. 22.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^34]: A 122. § (3) bekezdését a 126/2022. (III. 28.) Korm. rendelet 2. §-a iktatta be, szövege a 197/2023. (V. 22.) Korm. rendelet 19. §-ával megállapított szöveg.

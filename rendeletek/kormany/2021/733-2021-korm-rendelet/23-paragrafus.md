@@ -24,8 +24,8 @@ c) az a) és b) pont szerinti személy hozzátartozója az eljárásban támogat
 
 (4) A közreműködő szervezet akkor sem járhat el, ha az ügy elfogulatlan megítélése tőle az (1) bekezdésben fel nem sorolt egyéb okból nem várható.
 
-(4a)[^10] Ha a közreműködő szervezet összeférhetetlensége az (1) vagy a (2) bekezdés alapján nem volna megállapítható, de az (EU, Euratom) 2018/1046 európai parlamenti és tanácsi rendelet 61. cikk (3) bekezdése szerinti valamely összeférhetetlenségi ok rá nézve teljesül, vagy annak kockázata vagy látszata objektíven fennáll, akkor a közreműködő szervezetet a (4) bekezdés szerint kell minősíteni.
+(4a)[^12] Ha a közreműködő szervezet összeférhetetlensége az (1) vagy a (2) bekezdés alapján nem volna megállapítható, de az (EU, Euratom) 2018/1046 európai parlamenti és tanácsi rendelet 61. cikk (3) bekezdése szerinti valamely összeférhetetlenségi ok rá nézve teljesül, vagy annak kockázata vagy látszata objektíven fennáll, akkor a közreműködő szervezetet a (4) bekezdés szerint kell minősíteni.
 
 (5) Ha a közreműködő szervezet az (1), a (2) vagy a (4) bekezdésben meghatározott okból nem járhat el, akkor helyette az irányító hatóság folytatja le az eljárást.
 
-[^10]: A 23. § (4a) bekezdését a 197/2023. (V. 22.) Korm. rendelet 9. §-a iktatta be.
+[^12]: A 23. § (4a) bekezdését a 197/2023. (V. 22.) Korm. rendelet 9. §-a iktatta be.

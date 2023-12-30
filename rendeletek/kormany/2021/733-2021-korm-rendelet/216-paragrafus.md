@@ -14,7 +14,7 @@ c) javaslatot tehet a kedvezményezettnek az e rendelet hatálya alá tartozó t
 
 d) uniós jogi aktusban meghatározott egyéb jogkövetkezményt alkalmazhat.
 
-e)[^42] a 111. § (2) bekezdése szerinti százalékos átalány költséget arányosan csökkentheti.
+e)[^52] a 111. § (2) bekezdése szerinti százalékos átalány költséget arányosan csökkentheti.
 
 (3) Az irányító hatóság a szabálytalansággal arányos jogkövetkezményt állapít meg.
 
@@ -22,4 +22,4 @@ e)[^42] a 111. § (2) bekezdése szerinti százalékos átalány költséget ar�
 
 (5) Ha szabálytalanság megállapításra nem kerül sor, de jogsértő helyzet megszüntetése szükséges, az irányító hatóság a támogatási jogviszonyt érintő intézkedést rendelhet el.
 
-[^42]: A 216. § (2) bekezdés e) pontját a 197/2023. (V. 22.) Korm. rendelet 30. §-a iktatta be.
+[^52]: A 216. § (2) bekezdés e) pontját a 197/2023. (V. 22.) Korm. rendelet 30. §-a iktatta be.

@@ -1,4 +1,4 @@
-26. §[^17] Az irányító hatóság gondoskodik annak az eljárási cselekménynek a felülvizsgálatáról és szükség szerint helyesbítéséről vagy megismétléséről, amelyben az összeférhetetlen személy közreműködött, és amely az ügy érdemére kihathat, valamint egyéb intézkedést hozhat, így különösen
+26. §[^19] Az irányító hatóság gondoskodik annak az eljárási cselekménynek a felülvizsgálatáról és szükség szerint helyesbítéséről vagy megismétléséről, amelyben az összeférhetetlen személy közreműködött, és amely az ügy érdemére kihathat, valamint egyéb intézkedést hozhat, így különösen
 
 a) a támogatási döntést visszavonja,
 
@@ -12,4 +12,4 @@ e) kezdeményezi a 17/A. § c) pontjában meghatározott jogszabály szerinti fe
 
 f) bűncselekmény elkövetésének gyanúja esetén feljelentést tesz.
 
-[^17]: A 26. § a 197/2023. (V. 22.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^19]: A 26. § a 197/2023. (V. 22.) Korm. rendelet 13. §-ával megállapított szöveg.

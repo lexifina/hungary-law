@@ -6,10 +6,10 @@ b) jogerős végzéssel elrendelt kényszertörlési, felszámolási, csőd-, v�
 
 c) a támogatási szerződés megkötésének feltételeként meghatározott nyilatkozatot nem teszi meg, dokumentumot nem nyújtja be vagy ezek valamelyikét visszavonja,
 
-d)[^24] nem felel meg az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 50. § (1) bekezdése és 50/B. §-a szerinti követelményeknek,
+d)[^28] nem felel meg az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 50. § (1) bekezdése és 50/B. §-a szerinti követelményeknek,
 
 e) mesterségesen teremtette meg a támogatási jogosultság megszerzéséhez szükséges körülményeket azzal a céllal, hogy a támogatási rendszer céljaival ellentétesen előnyhöz jusson.
 
 (2) Az irányító hatóság az (1) bekezdés szerinti esetben a támogatási döntést visszavonja.
 
-[^24]: A 78. § (1) bekezdés d) pontja a 197/2023. (V. 22.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^28]: A 78. § (1) bekezdés d) pontja a 197/2023. (V. 22.) Korm. rendelet 17. §-ával megállapított szöveg.
