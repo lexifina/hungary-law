@@ -6,7 +6,7 @@
 
 (3) A szabadságot kettőnél több részletben csak a foglalkoztatott kérésére lehet kiadni.
 
-(4) Az (1) bekezdés szerinti vezető az általa meghatározott szabadság kezdő napját legalább hatvan nappal előbb köteles közölni a foglalkoztatottal. Ennek meghatározása során figyelemmel kell lennie arra, hogy a szabadság kiadása a foglalkoztató NAV szerv működőképességét ne veszélyeztesse.
+(4) Az (1) bekezdés szerinti vezető az általa meghatározott szabadság kezdő napját legalább harminc nappal előbb köteles közölni a foglalkoztatottal. Ennek meghatározása során figyelemmel kell lennie arra, hogy a szabadság kiadása a foglalkoztató NAV szerv működőképességét ne veszélyeztesse.
 
 (5) Indokolt esetben – figyelemmel a rendeltetésszerű joggyakorlás követelményeire is – a (4) bekezdésben meghatározott időtartamnál rövidebb idővel is közölhető a szabadság kezdő napja az érintettel.
 

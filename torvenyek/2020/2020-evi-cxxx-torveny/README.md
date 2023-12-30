@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-130-00-00
 | 2023-05-15 | 2023. évi IX. törvény | 2020-130-00-00.9 |
 | 2023-07-15 | 2023. évi LIX. törvény | 2020-130-00-00.10 |
 | 2023-12-01 | 2023. évi LXXXIII. törvény | 2020-130-00-00.13 |
+| 2023-12-30 | 2023. évi LXXXIII. törvény | 2020-130-00-00.14 |

@@ -14,7 +14,7 @@ b) az érintett előmeneteléhez előírt vizsgakötelezettség törvény szerin
 
 c) a tisztviselő munkavégzési helyének kizárólag a település területén belüli megváltoztatásához, továbbá a pénzügyőr munkavégzési helyének az adott NAV szerven belüli módosításához,
 
-d) azonos besorolású más munkakörbe helyezéséhez, kivéve, ha a pénzügyőri munkakört betöltő pénzügyőr tisztviselői munkakörbe, illetve a tisztviselői munkakört betöltő foglalkoztatott pénzügyőri munkakörbe kerül áthelyezésre,
+d) azonos besorolású más munkakörbe, valamint az I. besorolási osztály C besorolási kategóriájába tartozó munkakörből alacsonyabb besorolású munkakörbe helyezéséhez, kivéve, ha a pénzügyőri munkakört betöltő pénzügyőr tisztviselői munkakörbe, illetve a tisztviselői munkakört betöltő foglalkoztatott pénzügyőri munkakörbe kerül áthelyezésre,
 
 e) az érintett alacsonyabb besorolású munkakörbe helyezéséhez, ha az érintett teljesítménye – az általa betöltött munkakör alapján – átlag alatti fokozatú, azzal, hogy az érintettet a szervezeti egység és a munkavégzési hely megváltoztatása nélkül kell alacsonyabb besorolású munkakörben tovább foglalkoztatni, és ha ilyen munkakör a szervezeti egység, illetve a munkavégzési hely megváltoztatása nélkül nem biztosítható, a szervezeti egység, illetve a (6) bekezdésben foglalt korlátozás figyelembevételével a munkavégzési hely is megváltoztatható, a tisztviselő esetében kizárólag a település területén belül,
 
