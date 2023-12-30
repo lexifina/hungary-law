@@ -1,0 +1,1 @@
+1. § Az egyes állami tulajdonban álló gazdasági társaságok felett az államot megillető tulajdonosi jogok és kötelezettségek összességét gyakorló személyek kijelöléséről szóló 1/2022. (V. 26.) GFM rendelet 1. melléklet XII. pontjában foglalt táblázat A:5 mezőjében a „Nyugat-Balkáni Zöld Központ” szövegrész helyébe az „Energiastratégia Intézet” szöveg lép.
