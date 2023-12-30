@@ -1,4 +1,4 @@
-1. számú melléklet a 18/1998. (VI. 3.) NM rendelethez[^209]
+1. számú melléklet a 18/1998. (VI. 3.) NM rendelethez[^215]
 
 A) Személyazonosító adatokkal együtt jelentendő
 
@@ -5166,7 +5166,7 @@ Paratífusz, BNO10: A01.4
 
 1. Kórokozó:
 
-Salmonella Paratyphi-A (A01.1), Salmonella Paratyphi-B (A01.2), Salmonella Paratyphi-C (A01.3).
+Salmonella Paratyphi-A (A01.1), Salmonella Paratyphi-B (A01.2)) – a Salmonella Paratyphi B var. L(+) tartrate+ kivételével – Salmonella Paratyphi-C (A01.3).
 
 2. Teendők a beteggel
 
@@ -5194,41 +5194,39 @@ Klinikai kritérium
 
 Bármely személy, akinél jelentkezik az alábbi két kritérium legalább egyike:
 
-- folyamatos/hosszantartó láz,
+– folyamatos/hosszantartó láz,
 
 vagy
 
 az alábbi négy tünet közül legalább kettő:
 
-- fejfájás,
+– fejfájás,
 
-- relatív bradycardia,
+– relatív bradycardia,
 
-- száraz köhögés,
+– száraz köhögés,
 
-- hasmenés vagy székrekedés, rossz közérzet vagy hasi fájdalom.
+– hasmenés vagy székrekedés, rossz közérzet vagy hasi fájdalom.
 
 Epidemiológiai kritérium
 
 Az alábbi epidemiológiai kapcsolatok legalább egyike:
 
-- szennyezett élelmiszer fogyasztása,
+– szennyezett élelmiszer fogyasztása,
 
-- emberről emberre való terjedés,
+– emberről emberre való terjedés,
 
-- közös expozíció.
+– közös expozíció.
 
 Laboratóriumi kritérium
 
-A S.Paratyphi izolálása és azonosítása vérből, székletből vagy vizeletből.
+A S. Paratyphi izolálása és azonosítása vérből, székletből vagy vizeletből.
 
 2.2. Elkülönítés:
 
 Kötelező, kórházban, fertőző osztályon. A beteget addig kell elkülöníteni, amíg a klinikai tünetek megszűnése és az antibiotikus terápia befejezését követő 48 óra múlva, egymást követő napokon vett 3 széklet és vizeletminta vizsgálata negatív eredményt nem ad. Ha a vizsgálatsorozatból egy is pozitív, az elkülönítés megszüntethető, de a gyógyultat járványügyi ellenőrzés alatt kell tartani mindaddig, amíg a kórokozó hordozás meg nem szűnik.
 
-A járványügyi ellenőrzés alatt álló személyeket el kell tiltani a 0-6 éves gyermekek közösségének látogatásától vagy ilyen közösségekben, intézményekben gyermekek ellátásával kapcsolatos veszélyeztető munkakörtől,
-
-a közvetlen betegellátás során étel- és gyógyszerkiosztás végzésétől; illetve hőkezelés nélkül közvetlenül közfogyasztásra kerülő élelmiszerek, ételek, italok kezelésétől: közétkeztetésben, vízművekben való foglalkoztatástól; anyatej adásától, illetve anyatej kezeléstől.
+A járványügyi ellenőrzés alatt álló személyeket el kell tiltani a 0–6 éves gyermekek közösségének látogatásától vagy ilyen közösségekben, intézményekben gyermekek ellátásával kapcsolatos veszélyeztető munkakörtől, a közvetlen betegellátás során étel- és gyógyszerkiosztás végzésétől; illetve hőkezelés nélkül közvetlenül közfogyasztásra kerülő élelmiszerek, ételek, italok kezelésétől: közétkeztetésben, vízművekben való foglalkoztatástól; anyatej adásától, illetve anyatej kezeléstől.
 
 2.3. Mikrobiológiai vizsgálat:
 
@@ -5238,7 +5236,7 @@ Kötelező.
 
 2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-Kötelező. Diagnosztikus célra járványügyi feladat ellátásra kijelölt vagy a referencia-laboratóriumba beküldendő széklet és vizelet, továbbá sterilen, alvadásgátló nélkül vett vér. Az első mintákat lehetőleg az antibiotikum terápia megkezdése előtt a betegség első napjaiban kell venni. A vizsgálatokat - ha a tenyésztés negatív eredményű - célszerű 3 héten belül többször megismételni, akkor is, ha a beteg időközben antibiotikum kezelésben részesül.
+Kötelező. Diagnosztikus célra járványügyi feladat ellátásra kijelölt vagy a referencia-laboratóriumba beküldendő széklet és vizelet, továbbá sterilen, alvadásgátló nélkül vett vér. Az első mintákat lehetőleg az antibiotikum terápia megkezdése előtt a betegség első napjaiban kell venni. A vizsgálatokat – ha a tenyésztés negatív eredményű – célszerű 3 héten belül többször megismételni, akkor is, ha a beteg időközben antibiotikum kezelésben részesül.
 
 A kórokozó kitenyésztése a beteg váladékaiból igazolja, az ismételt szerológiai vizsgálatokban észlelt titeremelkedés megerősíti a diagnózist.
 
@@ -5262,9 +5260,9 @@ Kötelező.
 
 3.3. Járványügyi megfigyelés:
 
-A beteggel érintkezett személyeket 10 napra járványügyi megfigyelés alá kell helyezni, és ezen időre ki kell tiltani a felsorolt munkakörökből és intézményekből. A beteggel érintkezett és járványügyi megfigyelés alá helyezett személyek foglalkozásukat, tevékenységüket, illetve közösségek látogatását csak akkor folytathatják, ha a megfigyelési idő második hetében elkezdett, egymást követő napokon vett 2 széklet- és vizeletminta vizsgálata negatív eredményt adott. 0-6 éves gyermekek közösségében történt megbetegedés esetén 10 napi felvételi zárlatot kell elrendelni.
+A beteggel érintkezett személyeket 10 napra járványügyi megfigyelés alá kell helyezni, és ezen időre ki kell tiltani a felsorolt munkakörökből és intézményekből. A beteggel érintkezett és járványügyi megfigyelés alá helyezett személyek foglalkozásukat, tevékenységüket, illetve közösségek látogatását csak akkor folytathatják, ha a megfigyelési idő második hetében elkezdett, egymást követő napokon vett 2 széklet- és vizeletminta vizsgálata negatív eredményt adott. 0–6 éves gyermekek közösségében történt megbetegedés esetén 10 napi felvételi zárlatot kell elrendelni.
 
-Ha a megbetegedést kórházi osztályon észlelték, a beteg elkülönítése után a vele érintkezett ápoltakat és az ápoló személyzetet 10 napra járványügyi megfigyelés alá kell helyezni és el kell végezni a széklet- és vizeletvizsgálatokat. Az esemény, továbbá az osztály adottságaitól függően 10 napos felvételi zárlat is elrendelhető. Megbetegedés vagy tünetmentes ürítés esetén értelemszerűen az előző pontokban felsoroltak szerint kell eljárni (elkülönítés, járványügyi ellenőrzés, munkából való kitiltás stb.). Ha a beteggel érintkezett ápoltak alapbetegsége megengedi, hazabocsáthatók, de otthonukban a járványügyi megfigyelést folytatni kell, és ezt zárójelentésükre fel kell jegyezni, a lakóhely szerint illetéke s járási hivatal egyidejű értesítése mellett.
+Ha a megbetegedést kórházi osztályon észlelték, a beteg elkülönítése után a vele érintkezett ápoltakat és az ápoló személyzetet 10 napra járványügyi megfigyelés alá kell helyezni és el kell végezni a széklet- és vizeletvizsgálatokat. Az esemény, továbbá az osztály adottságaitól függően 10 napos felvételi zárlat is elrendelhető. Megbetegedés vagy tünetmentes ürítés esetén értelemszerűen az előző pontokban felsoroltak szerint kell eljárni (elkülönítés, járványügyi ellenőrzés, munkából való kitiltás stb.). Ha a beteggel érintkezett ápoltak alapbetegsége megengedi, hazabocsáthatók, de otthonukban a járványügyi megfigyelést folytatni kell, és ezt zárójelentésükre fel kell jegyezni, a lakóhely szerint illetékes járási hivatal egyidejű értesítése mellett.
 
 A fertőzés forrását fel kell kutatni. A beteg környezetében kórokozó-hordozásra irányuló székletszűrő vizsgálatot kell végezni. A felderített pozitív személyeket járványügyi ellenőrzés alá kell helyezni, és a velük kapcsolatos eljárásokat és laboratóriumi vizsgálataikat az e rendeletben foglaltak szerint kell elvégezni.
 
@@ -6292,7 +6290,7 @@ Bejelentésre kötelezett a valószínűsíthető vagy a megerősített eset.
 
 Gyanús eset
 
--
+–
 
 Valószínűsíthető eset
 
@@ -6308,35 +6306,35 @@ Klinikai kritérium
 
 Az alábbi tünetek közül legalább egy:
 
-- hasmenés,
+– hasmenés,
 
-- láz,
+– láz,
 
-- hasi fájdalom,
+– hasi fájdalom,
 
-- hányás.
+– hányás.
 
 Epidemiológiai kritérium
 
 Az alábbi epidemiológiai kapcsolatok legalább egyike:
 
-- szennyezett élelmiszerrel/ivóvízzel való expozíció,
+– szennyezett élelmiszerrel/ivóvízzel való expozíció,
 
-- emberről emberre való terjedés,
+– emberről emberre való terjedés,
 
-- állatról emberre való terjedés,
+– állatról emberre való terjedés,
 
-- közös expozíció,
+– közös expozíció,
 
-- környezeti expozíció.
+– környezeti expozíció.
 
 Laboratóriumi kritérium
 
 Teljesül az alábbi két kritérium legalább egyike:
 
-- A Salmonella izolálása - és S.Typhi és S.Paratyphi kizárása - székletből, vizeletből, vérből, vagy a test egy meghatározott helyéről (pl. fertőzött seb) vagy más, normálisan steril helyről (pl. liquor, csont, synovialis folyadék, stb.) vett mintából.
+– A Salmonella izolálása – a Paratyphus, illetve a Typhus abdominalis betegségnél meghatározott kórokozók kivételével – székletből, vizeletből, vérből, vagy a test egy meghatározott helyéről (pl. fertőzött seb) vagy más, normálisan steril helyről (pl. liquor, csont, synovialis folyadék stb.) vett mintából.
 
-- A Salmonella (az S. Typhi és S. Paratyphi kivételével) nukleinsavának kimutatása klinikai mintában.
+– A Salmonella (a Paratyphus, illetve a Typhus abdominalis betegségnél meghatározott kórokozók kivételével) nukleinsavának kimutatása klinikai mintában.
 
 2.2. Elkülönítés:
 
@@ -6354,7 +6352,7 @@ Kötelező. Járvány gyanúja esetén az addig még nem vizsgált betegek első
 
 2.3.3. Felszabadító vizsgálat:
 
-A klinikai gyógyulást követően székletbakteriológiai ellenőrző (felszabadító) vizsgálatot kizárólag azon személyeknél kell elvégezni, akik 0-3 éves gyermekek közösségébe járnak, akik szociális, illetve egészségügyi intézmények ápoltjai, gondozottjai, akik anyatejet adnak vagy anyatejet kezelnek. Az ilyen személyek a közösség, intézmény látogatását, illetve tevékenységüket csak akkor folytathatják, ha a gyógyulás után két nap múlva elkezdett, két egymást követő napon levett egy-egy székletminta bakteriológiai vizsgálata negatív eredménnyel jár. A felszabadító vizsgálat során pozitívnak bizonyult személyeket a kórokozó-hordozás időtartamára járványügyi ellenőrzés alá kell helyezni, és a 0-3 éves gyermekek közösségének látogatását, illetve anyatej adását és kezelését csak akkor folytathatják, ha a székletbakteriológiai vizsgálatuk egy alkalommal negatív eredményt ad.
+A klinikai gyógyulást követően székletbakteriológiai ellenőrző (felszabadító) vizsgálatot kizárólag azon személyeknél kell elvégezni, akik 0–3 éves gyermekek közösségébe járnak, akik szociális, illetve egészségügyi intézmények ápoltjai, gondozottjai, akik anyatejet adnak vagy anyatejet kezelnek. Az ilyen személyek a közösség, intézmény látogatását, illetve tevékenységüket csak akkor folytathatják, ha a gyógyulás után két nap múlva elkezdett, két egymást követő napon levett egy-egy székletminta bakteriológiai vizsgálata negatív eredménnyel jár. A felszabadító vizsgálat során pozitívnak bizonyult személyeket a kórokozó-hordozás időtartamára járványügyi ellenőrzés alá kell helyezni, és a 0–3 éves gyermekek közösségének látogatását, illetve anyatej adását és kezelését csak akkor folytathatják, ha a székletbakteriológiai vizsgálatuk egy alkalommal negatív eredményt ad.
 
 2.4. Fertőtlenítés:
 
@@ -6372,9 +6370,9 @@ Az azonos ételt fogyasztók (10-nél több személy esetén 20%-uk, de legaláb
 
 3.3. Járványügyi megfigyelés:
 
-A beteg környezetében vizsgált és pozitívnak bizonyult személyeket a kórokozó-hordozás időtartamára járványügyi ellenőrzés alá kell helyezni, és a 0-3 éves gyermekek közösségének látogatását, illetve anyatej adását és kezelését csak akkor folytathatják, ha a székletbakteriológiai vizsgálatuk egy alkalommal negatív eredményt ad.
+A beteg környezetében vizsgált és pozitívnak bizonyult személyeket a kórokozó-hordozás időtartamára járványügyi ellenőrzés alá kell helyezni, és a 0–3 éves gyermekek közösségének látogatását, illetve anyatej adását és kezelését csak akkor folytathatják, ha a székletbakteriológiai vizsgálatuk egy alkalommal negatív eredményt ad.
 
-Gyermekközösségekben, intézményekben előforduló halmozott, járványos megbetegedések esetén (0-3 éves korig) 5 napos felvételi zárlatot kell elrendelni a szükség szerinti kiterjedésben, és el kell végezni valamennyi gyermek székletvizsgálatát. Ezen gyermekintézményekben a baktériumürítőket ki kell tiltani, illetve a bentlakásos intézményekben el kell különíteni, amíg székletvizsgálati eredményük negatív eredményt nem ad.
+Gyermekközösségekben, intézményekben előforduló halmozott, járványos megbetegedések esetén (0–3 éves korig) 5 napos felvételi zárlatot kell elrendelni a szükség szerinti kiterjedésben, és el kell végezni valamennyi gyermek székletvizsgálatát. Ezen gyermekintézményekben a baktériumürítőket ki kell tiltani, illetve a bentlakásos intézményekben el kell különíteni, amíg székletvizsgálati eredményük negatív eredményt nem ad.
 
 Kórházi osztályon észlelt megbetegedés esetén az újszülött, koraszülött és csecsemőosztályokon az érintett ápolási egységre, halmozott előfordulás esetén az egész osztályra 5 napos felvételi zárlatot kell elrendelni. Alapbetegségüktől függően a tünetmentes kórokozó-ürítőket haza lehet bocsátani, de a járványügyi ellenőrzést otthon folytatni kell. Ezért a beteg zárójelentésében fel kell tüntetni azt a dátumot, amikor az elbocsátott a salmonellosisban szenvedő beteggel utoljára érintkezett. Erről a járási hivatalt is értesíteni kell. Egyéb kórházi osztályon a fenti rendszabályokat csak ismételt megbetegedések (kórházi járvány) esetén kell alkalmazni.
 
@@ -6748,44 +6746,4 @@ IFA-módszerrel,
 
 A valószínűsíthető eset laboratóriumi feltétele
 
-Az alábbi két feltétel legalább egyike:
-
-- a SARS koronavírus irányában végzett egyetlen pozitív eredményű antitest-vizsgálat,
-
-- a SARS koronavírus irányában egyetlen klinikai mintán és egyetlen teszttel végzett, pozitív eredménnyel zárult P CR-vizsgálat.
-
-2.2. Elkülönítés:
-
-Kötelező. A kijelölt fekvőbeteg osztályon, illetve az Dél-Pesti Centrumkórházban az erre kijelölt kórtermekben kell elhelyezni, a légúti izoláció szabályait betartva.
-
-2.3. Mikrobiológiai vizsgálat:
-
-2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
-
-Kötelező.
-
-2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
-
-Kötelező. Torokváladék, légúti váladék mintát, bronchoalveoláris mosófolyadékot, 5 ml natív és 5 ml alvadásában heparinnal gátolt vérmintát, haemokultúrát, vizeletmintát, illetve post mortem vett szövetmintákat (lehetőség szerint fagyasztott metszeteket) kell az NNGYK illetékes laboratóriumának előzetes tájékoztatását követően, a biztonságos mintacsomagolás és szállítás szabályai szerint biztonsági szállítódobozban, futárral eljuttatni.
-
-2.3.3. Felszabadító vizsgálat:
-
-Nem szükséges.
-
-2.4. Fertőtlenítés:
-
-Szigorított folyamatos és szigorított zárófertőtlenítést szükséges végezni.
-
-3. Teendők a beteg környezetében
-
-3.1. A beteggel kontaktusba kerültek felkutatása:
-
-Kötelező.
-
-3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
-
-Nem szükséges.
-
-3.3. Járványügyi megfigyelés:
-
-[^209]: Az 1. számú melléklet a 12/2019. (VII. 3.) EMMI rendelet 4. § (1) bekezdésével megállapított, a 45/2022. (XII. 20.) BM rendelet 7. § a) pontja, a 28/2023. (VIII. 10.) BM rendelet 6. § 4-84. pontja szerint módosított szöveg.
+[^215]: Az 1. számú melléklet a 12/2019. (VII. 3.) EMMI rendelet 4. § (1) bekezdésével megállapított, a 45/2022. (XII. 20.) BM rendelet 7. § a) pontja, a 28/2023. (VIII. 10.) BM rendelet 6. § 4-84. pontja, a 102/2023. (XII. 29.) BM rendelet 6. § (1) bekezdése szerint módosított szöveg.

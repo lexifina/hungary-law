@@ -1,6 +1,6 @@
-## Egyéb szűrővizsgálatok[^120]
+## Egyéb szűrővizsgálatok[^126]
 
-22. §[^121] (1) Önkéntesen kezdeményezett, a szexuális úton terjedő fertőzések kimutatására irányuló orvosi vizsgálat térítésköteles elvégzésére és erről orvosi igazolás kiállítására a bőr- és nemibeteg gondozó egészségügyi szolgáltató, valamint a bőr- és nemibeteg szakorvosi tevékenységre engedéllyel rendelkező egészségügyi szolgáltató (a továbbiakban együtt: szolgáltató) jogosult.
+22. §[^127] (1) Önkéntesen kezdeményezett, a szexuális úton terjedő fertőzések kimutatására irányuló orvosi vizsgálat térítésköteles elvégzésére és erről orvosi igazolás kiállítására a bőr- és nemibeteg gondozó egészségügyi szolgáltató, valamint a bőr- és nemibeteg szakorvosi tevékenységre engedéllyel rendelkező egészségügyi szolgáltató (a továbbiakban együtt: szolgáltató) jogosult.
 
 (2) Az orvosi igazoláshoz szükséges laboratóriumi vizsgálatokat az e rendeletben és külön jogszabályban meghatározott intézményekben, mikrobiológiai laboratóriumokban kell elvégezni, illetve elvégeztetni.
 
@@ -30,5 +30,5 @@ kell elvégezni.
 
 (12) A bőr- és nemibeteg gondozó egészségügyi szolgáltató az önkéntesen kezdeményezett, a szexuális úton terjedő fertőzések kimutatására irányuló orvosi vizsgálat elvégzését és fertőzés kizárása esetén az orvosi igazolás kiállítását nem tagadhatja meg a jelentkezőtől.
 
-[^120]: A 22. §-t megelőző alcímet a 3/2012. (I. 3.) NEFMI rendelet 1. §-a iktatta be.
-[^121]: A 22. §-t a 13/2008. (IV. 8.) EüM rendelet 7. § (2) bekezdése hatályon kívül helyezte, újonnan a 3/2012. (I. 3.) NEFMI rendelet 1. §-a iktatta be.
+[^126]: A 22. §-t megelőző alcímet a 3/2012. (I. 3.) NEFMI rendelet 1. §-a iktatta be.
+[^127]: A 22. §-t a 13/2008. (IV. 8.) EüM rendelet 7. § (2) bekezdése hatályon kívül helyezte, újonnan a 3/2012. (I. 3.) NEFMI rendelet 1. §-a iktatta be.
