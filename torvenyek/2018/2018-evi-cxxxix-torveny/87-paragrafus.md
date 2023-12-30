@@ -14,7 +14,7 @@ cb) az I. osztályú borszőlő termőhelyi kataszteri területen a legalább 80
 
 építhető és bővíthető;
 
-d) szakrális építmény, amely a szőlőhegyek tájképéhez hagyományosan hozzátartozó tájképformáló elem – szőlőműveléssel nem hasznosított területen is – a telek méretétől függetlenül elhelyezhető, legfeljebb 30 m2 bruttó alapterülettel, legfeljebb 3%-os beépítettséggel;
+d) szakrális építmény, amely a szőlőhegyek tájképéhez hagyományosan hozzátartozó tájképformáló elem – szőlőműveléssel nem hasznosított területen is – a telek méretétől függetlenül építhető, legfeljebb 10 m2 bruttó alapterülettel, legfeljebb 3%-os beépítettséggel;
 
 e) a szőlőművelés tényét a terület pontosan meghatározott százalékában az illetékes hegybíró nyilatkozatával kell igazolni;
 

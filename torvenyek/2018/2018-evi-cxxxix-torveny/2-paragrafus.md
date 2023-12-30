@@ -10,4 +10,6 @@
 
 (5) A XII. Fejezetben foglalt rendelkezések területi hatálya a Balaton Kiemelt Üdülőkörzet parti és partközeli településeire terjed ki, amelyek jegyzékét az 1/3. melléklet tartalmazza.
 
-(6) A XIII. Fejezetben foglalt rendelkezések területi hatálya a Balaton vízparti területeire terjed ki, amelyek területi lehatárolását a területrendezésért felelős miniszter rendelete állapítja meg.
+(6) A XIII. Fejezetben foglalt rendelkezések területi hatálya a Balaton vízparti területeire terjed ki, amelyek területi lehatárolását a Vízparti Terv állapítja meg.
+
+(7) A Balatoni főépítész – a települések építészeti minőségének biztosítása és értékes településképének fennmaradása érdekében – a magyar építészetről szóló törvény szerinti feladatokat látja el.

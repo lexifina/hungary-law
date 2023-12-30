@@ -6,7 +6,7 @@ a) az erdőgazdálkodási térség területének legalább 95%-át erdőgazdálk
 
 b) a mezőgazdasági térség területének legalább 95%-át mezőgazdasági térség kategóriába kell sorolni;
 
-c) a települési térség területének legalább 90%-át települési térségbe kell sorolni.
+c) a települési térség területének legalább 90%-át, legfeljebb 110%-át települési térségbe kell sorolni.
 
 (2) A vízgazdálkodási térség területét vízgazdálkodási térség kategóriába kell sorolni, és a működési területével érintett vízügyi igazgatási szervvel egyeztetve kell pontosítani.
 

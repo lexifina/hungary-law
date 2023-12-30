@@ -1,0 +1,19 @@
+70/A. § (1) A Balaton vízparti területein a magyar állam tulajdonában álló, országos jelentőségű védett természeti területnek nem minősülő, zöldterület, közlekedési terület vagy – parti sétány érintettsége esetén – vízgazdálkodási terület övezetbe sorolt földrészlet – ideértve az e törvény hatálybalépését követően telekalakítás eredményeként kialakult földrészletet – tulajdonjogát kizárólag a közigazgatási területével érintett települési önkormányzat szerezheti meg.
+
+(2) A part közcélú megközelíthetőségének biztosítása érdekében a Balaton vízparti területein zöldterület, beépítésre nem szánt különleges strandterület, közlekedési terület övezetekkel érintett, védett természeti területnek nem minősülő, tómeder övezetébe nem tartozó földrészletre – beleértve az e törvény hatályba lépését követően telekalakítás eredményeként kialakult földrészleteket is – a közigazgatási területével érintett települési önkormányzatnak elővásárlási joga áll fenn. Az elővásárlási joggal érintett földrészlet tekintetében – sorrendben a közigazgatási területével érintett települési önkormányzatot követően – a magyar államot is megilleti az elővásárlási jog. A települési önkormányzatot megillető elővásárlási jogot az önkormányzat kérésére, a magyar államot megillető elővásárlási jogot az elővásárlási jog gyakorlására törvényben meghatározott szerv felhívására az ingatlan-nyilvántartásba be kell jegyezni.
+
+(3) A tómeder övezetében lévő, a magyar állam vagy a közigazgatási területével érintett önkormányzat tulajdonában lévő földrészlet tulajdonjogát kizárólag a magyar állam szerezheti meg.
+
+(4) A tómeder övezetében lévő, a (3) bekezdés hatálya alá nem tartozó földrészletre a magyar államnak elővásárlási joga áll fenn. A magyar államot megillető elővásárlási jogot az elővásárlási jog gyakorlására törvényben meghatározott szerv felhívására az ingatlan-nyilvántartásba be kell jegyezni.
+
+(5) Azon ingatlan, amelyet – a Vízparti Tervvel összhangban – zöldterületként, közlekedési területként vagy más közhasználatú területként jelöl ki a helyi építési szabályzat, a közhasználatúság biztosítása és a parti sétány kialakítása érdekében, terület- vagy településrendezési célból, a kisajátításról szóló törvényben foglaltak szerint kisajátítható.
+
+(6) Ha az ingatlan rendeltetését, használati módját a helyi építési szabályzat e törvénnyel, a Balaton vízparti településrendezési és építési követelményekkel és a Vízparti Tervvel való összhang megteremtése érdekében állapítja meg másként, vagy azt korlátozza, és ebből a tulajdonosnak, haszonélvezőnek kára származik, a tulajdonost, haszonélvezőt egyösszegű, az Méptv. 90. § (2) és (3) bekezdése szerinti kártalanítás illeti meg. A kártalanításra – a (8) bekezdésben meghatározott kivétellel – a magyar állam kötelezett.
+
+(7) Nem jár kártalanítás az Méptv. 90. § (5) és (6) bekezdésében rögzített esetekben.
+
+(8) Kisajátítási kártalanításra, kártalanításra a települési önkormányzat kötelezett, ha e törvénytől, a Vízparti Terv településrendezési tervben történő alkalmazásának szabályaitól, a Balaton vízparti településrendezési és építési követelményektől vagy a Vízparti Tervtől függetlenül rendelkezik a helyi építési szabályzat az övezeti átsorolásról, állapítja meg másként vagy korlátozza az ingatlan rendeltetését, használati módját.
+
+(9) A kártalanítási igény a vagyoni hátrány keletkezésekor válik esedékessé. Ez az időpont a helyi építési szabályzat hatálybalépésének napja. A kártalanítás a felek megállapodásának tárgya. Ha a felek között – a kérelem benyújtásától számított egy éven belül – nem jön létre megállapodás, akkor kártalanítási eljárást kell lefolytatni, amelyet az illetékes vármegyei kormányhivatal folytat le a kisajátítási kártalanítás szabályai szerint, az e törvényben meghatározott eltérésekkel.
+
+(10) A kártalanítás tárgyában hozott közigazgatási határozattal szembeni közigazgatási perre az Méptv. 91. § (3) bekezdésében foglaltakat kell alkalmazni.

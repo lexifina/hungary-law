@@ -1,25 +1,13 @@
-73. § (1) E § alkalmazásában zöldterület: a Balaton vízparti területére eső, a településrendezési tervben zöldterületként kijelölt, valamint az e törvény felhatalmazása alapján kiadott miniszteri rendeletben zöldterületként kijelölt terület.
+73. § (1) A Balaton vízparti területein az állami vagy önkormányzati tulajdonú, közparkként, közkertként nyilvántartott vagy ekként funkcionáló közhasználatú területeket a Vízparti Tervben zöldterületként kell jelölni. A Vízparti Tervben megállapított zöldterületen a településrendezési tervben kizárólag zöldterület övezet, kivételes jelleggel – meglévő közút szabályozási vonalának kismértékű korrekciója esetén – közlekedési terület jelölhető ki.
 
-(2) E § szerinti zöldterületen más építési övezet, övezet csak közfeladat ellátása érdekében, az átsorolni kívánt zöldterülettel legalább azonos alapterületű új zöldterület egyidejű kijelölésével és az alábbi feltételek egyidejű teljesülése esetén jelölhető ki:
+(2) A Vízparti Tervben nem zöldterületként megállapított, de a Vízparti Terv alapján felülvizsgált településrendezési tervben a Balaton vízparti területein kijelölt zöldterület övezete más övezetbe csak legalább azonos kiterjedésű új zöldterület egyidejű kijelölésével és az alábbi feltételek teljesülése esetén sorolható át:
 
-a) az átsorolni kívánt zöldterület nem tartozik természetvédelmi oltalom alá,
+a) a településrendezési tervben a vízparti területen jelölt parti sétány hossza nem csökken,
 
-b) a vízparti területen jelölt közhasználatú parti sétány hossza nem csökken,
+b) az újonnan zöldterületbe sorolni kívánt terület nem tartozik országos természetvédelmi oltalom alá, ide nem értve, ha a település teljes vízparti területe természetvédelmi oltalom alatt áll, és
 
-c) a vízparti területen jelölt közhasználatú parti sétány legalább 5 méter szélességgel a természetes vízparti vegetáció sérelme nélkül biztosítható,
+c) az újonnan zöldterületbe sorolni kívánt terület településszerkezeti adottságainál fogva – ideértve az elhelyezkedését és a szomszédos építési övezetekkel, övezetekkel való kapcsolatát – az átsorolni kívánt zöldterülettel azonos vagy előnyösebb funkciót tud betölteni a település zöldfelületi rendszerében.
 
-d) az újonnan zöldterületbe sorolni kívánt ingatlan a települési önkormányzat vagy az állam tulajdonában van,
+(3) A Balaton vízparti területein a településrendezési tervben kijelölt zöldterületen a telekre meghatározandó megengedett legnagyobb beépítettség 3%, a megengedett legnagyobb beépítési magasság 4,5 m. Zöldterületen kizárólag szállás jellegű rendeltetést nem tartalmazó vendéglátó rendeltetésű épület, a pihenést és testedzést szolgáló műtárgy, a terület rendeltetésszerű használatához és fenntartásához szükséges építmény (tisztálkodó helyiség, öltöző, illemhely, tároló), valamint – ha a helyi építési szabályzat kifejezetten megengedi – engedélyezett csónakkikötő esetén a horgászati tevékenységhez kapcsolódó építmény építhető.
 
-e) az újonnan zöldterületbe sorolni kívánt ingatlan vízparti területen van, vagy az átsorolást követően megmaradó és az újonnan zöldterületbe sorolni kívánt terület összefüggő zöldterületet alkot,
-
-f) az ingatlan-nyilvántartás szerint állami vagy önkormányzati tulajdonban álló zöldterület (közpark vagy közkert) esetén az átsorolás legfeljebb az átsorolással érintett zöldterület 5%-ára, egyéb zöldterületek esetén 15%-ára terjed ki, és
-
-g) az átsorolni kívánt zöldterület nem váltható ki természetvédelmi oltalom alatt álló terület zöldterületi kijelölésével.
-
-(3) Az átsorolást követően az újonnan zöldterület övezetbe sorolt ingatlanon további átsorolás nem hajtható végre.
-
-(4) Az átsorolás következtében újonnan kijelölt zöldterületen létrehozandó közparkot vagy közkertet legkésőbb az átsorolt zöldterület területének tényleges csökkentéséig meg kell valósítani, és az ingatlan-nyilvántartásba közparkként vagy közkertként bejegyezni.
-
-(5) Zöldterületen – ide nem értve a már meglévő, felöltött zagyterek területén kialakított zöldterületet – nem alakítható ki olyan vízfelület és medencés kikötő, amely a tómederrel közvetlenül érintkezik.
-
-(6) Zöldterületen csak szállásférőhelyet nem tartalmazó vendéglátó rendeltetésű épület, pihenést és testedzést szolgáló műtárgy és a terület rendeltetésszerű használatához szükséges építmény helyezhető el, legfeljebb 4,5 m beépítési magassággal, legfeljebb 3%-os beépíthetőséggel.
+(4) A 71/A. § (3) bekezdésében foglaltaktól eltérően zöldterületen nem alakítható ki olyan vízfelület és medencés kikötő, amely a tómederrel közvetlenül érintkezik.

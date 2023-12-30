@@ -12,7 +12,7 @@ c) a tervezett funkció működéséhez szükséges – a megközelítést és a
 
 d) a közművek kiépítettek vagy kiépítésük lehetősége és feltételei biztosítottak, és
 
-e) amennyiben indokolt, az a)–d) pontokban foglalt településfejlesztési célok és feladatok biztosításának és megvalósításának érdekében a települési önkormányzat az Étv. 30/A. §-a szerinti településrendezési szerződéseket az érintett tulajdonosokkal megkötötte.
+e) amennyiben indokolt, az a)–d) pontokban foglalt településfejlesztési célok és feladatok biztosításának és megvalósításának érdekében a települési önkormányzat a Méptv. 92. §-a szerinti településrendezési szerződéseket az érintett tulajdonosokkal megkötötte.
 
 (3) A kertes mezőgazdasági térségnek az I. és II. osztályú borszőlő termőhelyi kataszterhez, az ökológiai hálózat magterületéhez vagy az ökológiai hálózat ökológiai folyosójához tartozó területe nem minősíthető beépítésre szánt területté.
 

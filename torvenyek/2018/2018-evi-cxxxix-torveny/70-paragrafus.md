@@ -2,44 +2,62 @@
 
 ## A BALATON VÍZPARTI TERÜLETEI
 
-## 43. A követelmények érvényesítése a rendeleti szintű szabályozásban, valamint a közcélú területfelhasználással összefüggő kisajátítás és kártalanítás
+## 43. A Balaton vízparti területeire vonatkozó rendeleti szintű szabályozás követelményei és a közcélú területfelhasználással összefüggő kisajátítás és kártalanítás
 
-70. § (1) A Balaton vízparti területei területfelhasználásának meghatározása során a környezet-, táj- és természetvédelmi érdekeket, valamint a turizmus és az idegenforgalom további fejlesztését biztosító területfelhasználást össze kell hangolni a Balaton mindenki számára történő elérhetőségét biztosító közérdekkel.
+70. § (1) A Balaton vízparti területeire vonatkozóan e törvény felhatalmazása alapján kiadott kormányrendelet állapítja meg
 
-(2) Az (1) bekezdésben foglaltak érvényesülése érdekében a Balaton vízparti területeinek közcélú területfelhasználása tárgyában e törvény felhatalmazása alapján kiadott miniszteri rendelet tartalmazza legalább
+a) a Vízparti Tervet,
 
-a) a strandok, kempingek, zöldterületek és kikötők területének,
+b) a Vízparti Terv településrendezési tervben történő alkalmazásának szabályait, valamint
 
-b) a vízgazdálkodási területek,
+c) a sajátos településrendezési és építési követelményeket (a továbbiakban: Balaton vízparti településrendezési és építési követelmények).
 
-c) a Balaton elérhetőségét biztosító közterületek és a közhasználat elől el nem zárható területek,
+(2) A szabályozási partvonal meghatározása során a Vízparti Terv biztosítja az alábbi kiemelten közérdekű célok érvényesülését:
 
-d) a beépítésre szánt területek,
+a) a vízpart megközelíthetőségét,
 
-e) a természetes partszakaszok,
+b) a parti sétány kialakíthatóságát, valamint
 
-f) a strandolásra alkalmas és hajók kikötésére felhasználható partszakaszok, továbbá
+c) a közhasználatú területek (így különösen a strand és zöldterület) kijelölésének és bővítésének lehetőségét.
 
-g) a parti sétányok
+(3) A Balaton vízparti területei a tómedren kívül legalább
 
-lehatárolását.
+a) a tómederrel közvetlen kapcsolatban lévő természetes vagy természetközeli élőhelyekre,
 
-(3) A településrendezési tervet az e törvény felhatalmazása alapján kiadott 48. § (2) bekezdése szerinti kormányrendelettel, a 48. § (4) bekezdés szerinti miniszteri rendelettel, továbbá a (2) bekezdés szerinti miniszteri rendelettel összhangban kell elkészíteni vagy módosítani.
+b) a tómeder és a parti sétány elérését, valamint a vízparti közösségi turisztikai célok megvalósulását biztosító területekre, valamint
 
-(4) Ahol e fejezet a vízparti területekre vonatkozóan külön előírásokat nem tartalmaz, ott az e törvény felhatalmazása alapján kiadott, 48. § (2) bekezdése szerinti kormányrendelet előírásait, az ezzel összhangban álló OTÉK követelményeket, valamint a településtervek tartalmáról, elkészítésének és elfogadásának rendjéről, valamint egyes településrendezési sajátos jogintézmények tárgyában kiadott kormányrendelet előírásait kell alkalmazni.
+c) a 71/B. § (1) bekezdésében meghatározott beépítetlenül megőrzendő parti területsávra
 
-(5) Azon ingatlan, amelyet – az e törvény felhatalmazása alapján kiadott (2) bekezdés szerinti miniszteri rendelettel összhangban – zöldterületként, illetve parti sétányként jelöl ki a helyi építési szabályzat, zöldterület esetében a zöldterületté, parti sétány esetében a zöldterületté, közlekedési területté, vízgazdálkodási területté vagy különleges kikötő terület közhasználat elől el nem zárható területévé alakítás érdekében, terület- vagy településrendezési célból, a kisajátításról szóló törvényben foglaltak szerint kisajátítható.
+terjednek ki.
 
-(5a) A jogi vagy szabályozási partvonallal határos földrészletre – a védett természeti területek kivételével – a közigazgatási területével érintett települési önkormányzatnak elővásárlási joga áll fenn. A jogi vagy szabályozási partvonallal határos földrészlet tekintetében – sorrendben a közigazgatási területével érintett települési önkormányzatot követően – az államot is megilleti az elővásárlási jog. A települési önkormányzatot megillető elővásárlási jogot az önkormányzat kérésére, az államot megillető elővásárlási jogot az elővásárlási jog gyakorlására törvényben meghatározott szerv kérésére az ingatlan-nyilvántartásba be kell jegyezni.
+(4) A Balaton vízparti területei területfelhasználásának meghatározása során a környezet-, táj- és természetvédelmi érdekeket, valamint a turizmus és az idegenforgalom további fejlesztését biztosító területfelhasználást össze kell hangolni a Balaton mindenki számára történő elérhetőségét biztosító közérdekkel.
 
-(6) Ha az ingatlan rendeltetését, használati módját a helyi építési szabályzat a (2) bekezdés szerinti miniszteri rendelettel összhangban állapítja meg másként, vagy azt korlátozza, és ebből a tulajdonosnak, haszonélvezőnek kára származik, a tulajdonost, haszonélvezőt egyösszegű, az Étv. 30. § (2) és (3) bekezdése szerinti kártalanítás illeti meg.
+(5) A (4) bekezdésben foglaltak érvényesülése érdekében a Vízparti Terv keret jelleggel határozza meg a Balaton vízparti területeinek térszerkezetét és közcélú területfelhasználását, tartalmazza az e törvény céljának megvalósulását biztosító, védelemmel és korlátozásokkal érintett területeket, valamint a területrendezési jellegű szabályozási elemeket.
 
-(7) Nem jár kártalanítás az Étv. 30. § (5) és (5a) bekezdéseiben rögzített esetekben.
+(6) A Vízparti Terv tartalmazza legalább
 
-(8) Kisajátítási kártalanításra, illetve kártalanításra a magyar állam kötelezett, ha a helyi építési szabályzat a (2) bekezdés szerinti miniszteri rendelet alapján sorolja az érintett ingatlant az (5) bekezdés szerinti övezetbe, illetve állapítja meg másként vagy korlátozza a (6) bekezdés szerint az ingatlan rendeltetését, használati módját.
+a) a szabályozási partvonal,
 
-(9) Kisajátítási kártalanításra, kártalanításra a települési önkormányzat akkor kötelezett, ha a (2) bekezdés szerinti miniszteri rendelettől függetlenül rendelkezik a helyi építési szabályzat az övezeti átsorolásról, állapítja meg másként vagy korlátozza az ingatlan rendeltetését, használati módját.
+b) a strandok, kempingek, kikötők, egyéb különleges területek és zöldterületek,
 
-(10) A kártalanítási igény a vagyoni hátrány keletkezésekor válik esedékessé. Ez az időpont a helyi építési szabályzat hatálybalépésének napja. A kártalanítás a felek megállapodásának tárgya. Ha a felek között – a kérelem benyújtásától számított egy éven belül – nem jön létre megállapodás, akkor kártalanítási eljárást kell lefolytatni, amelyet az illetékes vármegyei kormányhivatal folytat le a kisajátítási kártalanítás szabályai szerint, az e törvényben meghatározott eltérésekkel.
+c) a jellemzően természetközeli állapotban megőrzött, beépítetlen területek,
 
-(11) A kártalanítás tárgyában hozott közigazgatási határozattal szembeni közigazgatási perre az Étv. 30. § (8) bekezdésében foglaltakat kell alkalmazni.
+d) a Balaton elérhetőségét biztosító közhasználatú területek,
+
+e) a beépítetlenül megőrzendő parti területsáv,
+
+f) a természetes partszakaszok és a természetes partszakaszon kikötő létesítése céljából vizsgálat alá vonható helyek,
+
+g) a közhasználathoz kapcsolódó fürdőzésre felhasználható partszakaszok,
+
+h) a hajók kikötésére felhasználható partszakaszok, valamint
+
+i) a parti sétánnyal érintett partszakaszok
+
+lehatárolását, illetve kijelölését.
+
+(7) A településrendezési tervet az Méptv.-vel, e fejezettel, a Balaton vízparti településrendezési és építési követelményekkel és a Vízparti Tervvel összhangban kell elkészíteni vagy módosítani.
+
+(8) Ha e fejezet és a Balaton vízparti településrendezési és építési követelmények a Balaton vízparti területeire vonatkozóan külön előírásokat nem tartalmaznak, ott az OTÉK követelményeket, valamint a településtervek tartalmáról, elkészítésének és elfogadásának rendjéről, valamint egyes településrendezési sajátos jogintézmények tárgyában kiadott kormányrendelet előírásait kell alkalmazni.
+
+(9) Helyi építési szabályzat a Balaton vízparti településrendezési és építési követelményeknél szigorúbbat megállapíthat, helyi építési szabályzat ilyen előírásainak hiányában az építési tevékenység során a Balaton vízparti településrendezési és építési követelményeket kell alkalmazni, az egyéb jogszabályokban foglalt előírások mellett. Az OTÉK-nak a Balaton vízparti településrendezési és építési követelményekkel összhangban nem álló vagy annál enyhébb szabályait a Balaton vízparti területei vonatkozásában nem lehet alkalmazni.

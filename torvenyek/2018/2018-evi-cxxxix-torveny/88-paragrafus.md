@@ -12,13 +12,13 @@
 
 a) a területrendezési tervek, valamint a településrendezési terv készítése során az országos, a kiemelt térségi és a vármegyei övezetek területi érintettségével kapcsolatosan állásfoglalásra kötelezett államigazgatási szervek körét és az eljárás részletes szabályait,
 
-b) a Balaton vízparti területeire vonatkozó közcélú területfelhasználási terv területi hatálya kijelölésének szempontjait, a terv tartalmi követelményeit és készítésének részletes szabályait,
+b) a szabályozási partvonalat, a Balaton vízparti területeit és azok területfelhasználását rögzítő Vízparti Tervet,
 
-c) a Balaton vízparti területein a kikötők létesítése feltételeinek szabályait,
+c) a Vízparti Terv településrendezési tervben történő alkalmazására vonatkozó szabályokat és a Balaton vízparti településrendezési és építési követelményeket,
 
-d) a Balaton vízparti területeire – az e törvényben nem szabályozott – sajátos településrendezési és építési követelményeket, ideértve ezeknek a helyi építési szabályzatban történő alkalmazására vonatkozó szabályokat,
+d) a balatoni kikötők létesítésének terület- és településrendezési szempontú feltételeinek szabályait,
 
-e) a balatoni partvonal-szabályozási terv készítésére vonatkozó szabályokat és tartalmi követelményeit,
+e) a csónakkikötőt érintő természetvédelmi hatósági hozzájárulás során mérlegelendő természet- és tájvédelmi követelményeket,
 
 f) a hegybírók e törvény által meghatározott feladatainak részletes szabályait,
 
@@ -34,13 +34,13 @@ c) a Budapesti Agglomeráció Területrendezési Tervének hatálya alá tartoz�
 
 d) a Balaton Kiemelt Üdülőkörzet Területrendezési Tervének hatálya alá tartozóan az ásványi nyersanyagvagyon övezete, a földtani veszélyforrás terület övezete, a rendszeresen belvízjárta terület övezet, a vízeróziónak kitett terület övezete és az általános mezőgazdasági terület övezete térképi lehatárolását, az övezeti szabályokat, valamint egyes országos övezetek kiegészítő szabályait,
 
-e) a Balaton vízparti területeinek lehatárolását és a Balaton vízparti területeire vonatkozó közcélú területfelhasználást
+e)
 
 f) a vízpart-rehabilitácós szabályozási követelményekkel érintett területet és a vízpart-rehabilitációs tanulmányterv elfogadását
 
 rendeletben állapítsa meg.
 
-(3) Felhatalmazást kap a vízgazdálkodásért felelős miniszter, hogy a balatoni partvonal-szabályozási tervet rendeletben állapítsa meg.
+(3)
 
 (4) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy a kultúráért, a környezet- és természetvédelemért, valamint a turizmusért felelős miniszterrel egyetértésben a borszőlő termőhelyi kataszteri területbe tartozó, kiemelkedő értékű tájelemet képviselő – történeti, termelési és turisztikai szempontból – egyedi értékű dűlőket lehatárolja, és e területek kivételes értékeinek megőrzésére vonatkozó követelményeket rendeletben szabályozza.
 

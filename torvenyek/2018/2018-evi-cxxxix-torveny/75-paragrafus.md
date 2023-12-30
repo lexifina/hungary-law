@@ -1,23 +1,15 @@
 ## 47. Kemping és strand
 
-75. § (1) A vízparti kemping területén tulajdoni formától függetlenül kereskedelmi célú szállásférőhely, vendéglátó épület és pihenést, testedzést szolgáló építmény helyezhető el. Lakóépület és lakás nem alakítható ki.
+75. § (1) A Balaton vízparti területein a Vízparti Tervben megállapított kemping területén a településrendezési tervben kizárólag különleges kempingterület építési övezet vagy övezet, továbbá zöldterület, különleges strandterület, illetve közlekedési terület övezet jelölhető ki.
 
-(2) A Balaton vízparti területein lévő kempinget különleges kemping terület építési övezetbe vagy övezetbe kell sorolni, amelynek beépítettsége legfeljebb 15% lehet.
+(2) A Balaton vízparti területein a településrendezési tervben kijelölt különleges kempingterületen a telekre meghatározandó megengedett legnagyobb beépítettség építési övezet kijelölése esetén 15%. Különleges kempingterületen kizárólag kereskedelmi célú szállás jellegű és vendéglátó rendeltetésű épület, valamint a pihenést, testedzést szolgáló műtárgy helyezhető el, apartmanház, lakóépület nem építhető, lakás nem alakítható ki.
 
-(3) A kemping területének más övezetbe történő besorolása csak
+(3) A Balaton vízparti területein a Vízparti Tervben megállapított strand területén a településrendezési tervben kizárólag különleges strandterület vagy zöldterület övezet jelölhető ki, kivételes jelleggel – meglévő közút szabályozási vonalának kismértékű korrekciója esetén – közlekedési terület övezet is kijelölhető.
 
-a) zöldterületként legfeljebb 3%-os beépítettséggel, vagy
+(4) A Balaton vízparti területein a településrendezési tervben kijelölt különleges strandterületen
 
-b)
+a) a telekre meghatározandó megengedett legnagyobb beépítettség 10%,
 
-valósítható meg.
+b) a telekre meghatározandó megengedett legkisebb zöldfelület 70%, és
 
-(4) A strand beépített területe legfeljebb a terület 10%-a lehet.
-
-(5) A strand területének legalább 65%-át fásított zöldfelületként kell kialakítani és fenntartani.
-
-(6) Strand területén – tulajdoni formától függetlenül –
-
-a) csak vendéglátó épület, pihenést, testedzést, valamint az átöltözést és tisztálkodást szolgáló építmény helyezhető el,
-
-b) lakó- és üdülőépület, szállásférőhely, lakás nem alakítható ki.
+c) kizárólag vendéglátó épület, pihenést, testedzést, valamint az átöltözést és tisztálkodást szolgáló építmény helyezhető el, apartmanház, szállás jellegű, lakó- és üdülőépület nem építhető, lakás nem alakítható ki.

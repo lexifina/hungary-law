@@ -2,4 +2,4 @@
 
 (2) A közforgalmi személyhajózási kikötő területén lévő, menetrend szerinti hajóforgalom célját szolgáló móló közhasználat elől nem zárható el.
 
-(3) Új, saját használatú és közforgalmú – csónak és hajó – kikötő létesítési feltételeit a Kormány rendeletben határozza meg.
+(3) A balatoni kikötők létesítésének terület- és településrendezési szempontú feltételeit a Kormány rendeletben határozza meg.

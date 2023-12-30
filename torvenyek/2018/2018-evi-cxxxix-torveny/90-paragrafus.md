@@ -21,3 +21,5 @@ a) építési övezetet, övezetet említ, azon települési területfelhasznál
 b) településrendezési tervet említ, azon településszerkezeti tervet
 
 is érteni kell a 2021. július 1-jét követően elfogadott településrendezési tervek hatálybalépéséig.
+
+(5) A Budapesti Agglomeráció Területrendezési Terve vagy a Balaton Kiemelt Üdülőkörzet Területrendezési Terve hatálya alá nem tartozó településrendezési eszközöket 2027. június 30-ig felülvizsgálni és szükség esetén módosítani kell.

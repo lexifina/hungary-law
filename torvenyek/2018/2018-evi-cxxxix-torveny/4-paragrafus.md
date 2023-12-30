@@ -6,7 +6,9 @@
 
 2. ásványi nyersanyagvagyon övezete: kiemelt térség esetében a területrendezésért felelős miniszter rendeletében, valamint a vármegyei területrendezési tervben megállapított övezet, amelyben a megállapított bányatelekkel lefedett, valamint bányatelekkel le nem fedett, az állam kizárólagos tulajdonát képező, az állami ásványi nyersanyag és geotermikus energiavagyon nyilvántartás szerint nyilvántartott ásványi nyersanyagvagyon területei találhatók;
 
-3. Balaton vízparti területei: a Balaton tómedrének a partvonallal érintkező legfeljebb 500 méter széles sávja, valamint a tómedertől számítva a szárazulaton, a területrendezésért felelős miniszter rendeletében lehatárolt olyan terület, amely a part menti területek közcélú használatának szabályozását igényli;
+3. Balaton vízparti területei: a Balaton tómedre, valamint e törvényben meghatározottak alapján a Vízparti Tervben a szárazulaton lehatárolt olyan terület, amely a part menti területek közcélú használatának szabályozását igényli;
+
+3a. balatoni közstrand: az állam vagy a helyi önkormányzat tulajdonában álló, a Vízparti Tervben közhasználatú strandként vagy – fürdőzésre felhasználható partszakasszal vagy fürdőzésre felhasználható hellyel közvetlenül vagy közvetve érintett – zöldterületként jelölt terület, amelynek – ingyenes vagy szolgáltatás ellenértékeként térítés fejében történő – közcélú használata azonos feltételekkel bárki számára biztosított vagy biztosítandó, és amelyen a közhasználat fenntartása, illetve biztosítása országos érdekből hosszú távon szükséges;
 
 4. borszőlő termőhelyi kataszteri terület övezete: a BKÜTrT-ben egyedileg meghatározott és lehatárolt övezet, amelybe a szőlő termőhelyi kataszteri I. és II. osztályú területek tartoznak, ahol hosszú távú cél a minőségi szőlő- és bortermő területek védelme;
 
@@ -40,7 +42,7 @@
 
 19. jó termőhelyi adottságú szántók övezete: a területrendezésért felelős miniszter rendeletében megállapított, kiemelt térségi területrendezési terv esetében a területrendezésért felelős miniszter rendeletében, valamint a vármegyei területrendezési tervben alkalmazott övezet, amelybe jó növénytermesztési feltételekkel rendelkező szántóterületek tartoznak;
 
-20. kemping: a településrendezési tervben kempingként kijelölt, vagy az e törvény felhatalmazása alapján a Balaton vízparti területeinek közcélú területfelhasználása tárgyában kiadott miniszteri rendeletben kempingként kijelölt terület, vagy más jogszabály szerinti kemping;
+20.
 
 21. kertes mezőgazdasági terület övezete: a BKÜTrT-ben egyedileg meghatározott és lehatárolt övezet, amelybe a beépítésre nem szánt mezőgazdasági területek közül azok a zártkerti vagy zártkerti művelésből kivett mezőgazdasági területek tartoznak, amelyek fekvése, szerkezete, telekstruktúrája, hasznosítása módja és intenzitása, valamint beépítettsége eltér az általános mezőgazdasági terület övezetének területeitől, így kisüzemi használatú telkekből (földrészletekből) állnak, és ahol a kert, szőlő és gyümölcsös művelési ágak dominálnak;
 
@@ -74,11 +76,11 @@
 
 36. ökológiai hálózat pufferterületének övezete: az OTrT-ben megállapított, kiemelt térségi és vármegyei területrendezési tervben alkalmazott övezet, amelybe olyan rendeltetésű területek tartoznak, amelyek megakadályozzák vagy mérséklik azon tevékenységek negatív hatását, amelyek a magterületek és az ökológiai folyosók állapotát kedvezőtlenül befolyásolhatják vagy rendeltetésükkel ellentétesek;
 
-37. parti sétány: valamennyi Balaton-parti településen, a Balaton vízparti területein kijelölt közhasználatú terület;
+37. parti sétány: a Balaton vízparti területein belül a vízparton a partközeli tartózkodás lehetőségét biztosító, gyalogosan járható közhasználatú terület;
 
 38. rendszeresen belvízjárta terület övezete: kiemelt térség esetében a területrendezésért felelős miniszter rendeletében, valamint a vármegyei területrendezési tervben megállapított övezet, amelybe a síkvidéki vagy enyhe lejtésviszonyokkal rendelkező területek azon mélyebb részei tartoznak, ahol a helyi csapadék egy része átmeneti vízfelesleg formájában, nagyobb mennyiségben és gyakorisággal összegyűlik;
 
-39. strand: a Balaton vízparti területeire vonatkozólag az ingatlan-nyilvántartásban strandként vagy strandfürdőként bejegyzett, vagy a településrendezési tervben vagy jogszabályban strandterületként kijelölt terület, vagy strandként engedélyezett és üzemeltetett terület, valamint jogszabályban természetes fürdőhelyként meghatározott terület;
+39. szabályozási partvonal: a Balaton (tervezett) tómedrét és a szárazulati területhasználatot elválasztó megszakítás nélküli vonal, melyet e törvény felhatalmazása alapján Vízparti Terv rögzít;
 
 40. szőlő-, gyümölcs- és kertművelésű térség: a BKÜTrT-ben egyedileg meghatározott területfelhasználási kategória, amelybe a kertes mezőgazdasági terület övezete mellett az árutermelő méretű és szerepű szőlő, gyümölcsös ültevény és kert területek tartoznak;
 
@@ -102,7 +104,7 @@
 
 50. térségi területfelhasználási kategória: országos, kiemelt térségi és vármegyei területrendezési tervben alkalmazott, a térségben jellemző területfelhasználásnak megfelelően lehatárolt területi egység;
 
-51. tómeder övezete: a BKÜTrT-ben egyedileg meghatározott és lehatárolt övezet, amelybe a Balaton szabályozási partvonala által meghatározott meder területe tartozik;
+51. tómeder övezete: a BKÜTrT-ben egyedileg szabályozott és a Vízparti Tervben lehatárolt övezet, amelybe a Balaton szabályozási partvonala által meghatározott meder területe tartozik;
 
 52. történelmi sportterület: a BATrT. alkalmazásában az 1914. év előtt sportolási célra használt terület;
 
@@ -115,6 +117,8 @@
 56. vízgazdálkodási térség: országos, kiemelt térségi és vármegyei területrendezési tervben megállapított területfelhasználási kategória, amelybe Magyarország vízfolyásai, állóvizei, illetve azok parti sávjai tartoznak;
 
 57. vízminőség-védelmi terület övezete: a területrendezésért felelős miniszter rendeletében megállapított, kiemelt térségi területrendezési terv esetében a miniszteri rendeletben, valamint a vármegyei területrendezési tervben alkalmazott övezet, amelybe a felszíni és felszín alatti vizek, az emberi fogyasztásra, használatra szánt vizek és a vízkivételi művek, továbbá a halak életfeltételeinek biztosítása érdekében kijelölt vizek megóvását szolgáló védelem alatt álló területek tartoznak;
+
+57a. Vízparti Terv: a Kormány rendeletében megállapított, területi tervnek minősülő, a Balaton vízparti területeinek területfelhasználását rögzítő terv;
 
 58. VTT-tározók: Vásárhelyi-terv továbbfejlesztése keretében megvalósuló vízkár-elhárítási célú szükségtározók;
 

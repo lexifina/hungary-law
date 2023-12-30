@@ -1,1 +1,1 @@
-### 69. §
+69. § Az 50. § (2) bekezdés b) pontjának alkalmazása során a parti településeknek a Balaton vízparti területein kívül kijelölt erdőterületeinek megszüntetése esetén azok nem pótolhatók a Balaton vízparti területein.

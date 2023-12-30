@@ -8,7 +8,7 @@ a) az erdőgazdálkodási térség területét az erdők övezetére és az erd�
 
 b) erdőterület övezetbe sorolt erdőterület a település közigazgatási területén összességében nem csökkenhet;
 
-c) a mezőgazdasági térség területét elsődlegesen általános mezőgazdasági terület, tájgazdálkodási mezőgazdasági terület vagy természetközeli terület települési övezetbe kell sorolni, továbbá mezőgazdasági térség területén új nagyvárosias lakóterület és új üdülőterület nem jelölhető ki;
+c) a mezőgazdasági térség területét elsődlegesen általános mezőgazdasági terület, tájgazdálkodási mezőgazdasági terület vagy természetközeli terület övezetbe kell sorolni, továbbá mezőgazdasági térség területén új nagyvárosias lakóterület és új üdülőterület nem jelölhető ki;
 
 d) szőlő-, gyümölcs- és kertművelésű térség területét általános mezőgazdasági terület, tájgazdálkodási mezőgazdasági terület, kertes mezőgazdasági terület vagy természetközeli terület övezetbe kell sorolni az e törvény által lehatárolt kertes mezőgazdasági terület övezete és a területrendezésért felelős miniszter 19. § (4) bekezdése szerinti miniszteri rendeletében lehatárolt általános mezőgazdasági terület övezete, továbbá a valós területhasználat alapján, azzal, hogy a térség területén nagyvárosias lakóterület és üdülőterület nem jelölhető ki;
 
@@ -24,6 +24,6 @@ i) a sajátos területfelhasználású térség területe – legfeljebb 5% elt�
 
 j) a településrendezési tervben új ipari gazdasági terület nem jelölhető ki;
 
-k) a település központi belterületén lévő vagy ahhoz közvetlenül kapcsolódó általános gazdasági terület és kereskedelmi szolgáltató gazdasági terület építési övezet legfeljebb 50%-os, valamint az egyéb ipari terület legfeljebb 40%-os beépítettségű lehet, továbbá az új telephelyek területén a meghatározható legkisebb zöldfelület aránya 30%, amelyet fás növényzettel fedetten, a telekhatár mentén takarást biztosítva kell kialakítani;
+k) a település központi belterületén lévő vagy ahhoz közvetlenül kapcsolódó általános gazdasági terület és kereskedelmi szolgáltató gazdasági terület építési övezet legfeljebb 50%-os, valamint az egyéb ipari terület legfeljebb 40%-os beépítettségű lehet, továbbá az új telephelyek területén a meghatározható legkisebb zöldfelület aránya 30%, amelyet háromszintű növényzettel fedetten, a telekhatár mentén takarást biztosítva kell kialakítani;
 
-l) a település központi belterületétől elkülönülő gazdasági terület építési övezet területén az új kereskedelmi, szolgáltató terület, valamint az egyéb ipari terület beépítettsége legfeljebb 30%-os lehet, továbbá az új telephelyek területén a meghatározható legkisebb zöldfelület aránya 50%, amelyet fás növényzettel fedetten kell kialakítani.
+l) a település központi belterületétől elkülönülő gazdasági terület építési övezet területén az új kereskedelmi, szolgáltató terület, valamint az egyéb ipari terület beépítettsége legfeljebb 30%-os lehet, továbbá az új telephelyek területén a meghatározható legkisebb zöldfelület aránya 50%, amelyet háromszintű növényzettel fedetten kell kialakítani.

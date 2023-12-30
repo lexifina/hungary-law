@@ -1,6 +1,6 @@
 ## 14. Ökológiai hálózat ökológiai folyosójának övezete
 
-26. § (1) Az ökológiai hálózat ökológiai folyosójának övezetében csak olyan vármegyei területfelhasználási kategória és vármegyei övezet, valamint a településrendezési tervben olyan övezet és építési övezet jelölhető ki, amely az ökológiai hálózat magterülete és az ökológiai hálózat ökológiai folyosója természetes és természetközeli élőhelyeit és azok kapcsolatait nem károsítja.
+26. § (1) Az ökológiai hálózat ökológiai folyosójának övezetében csak olyan vármegyei területfelhasználási kategória és vármegyei övezet, valamint a településrendezési tervben csak olyan övezet és építési övezet jelölhető ki, amely az ökológiai hálózat magterülete és az ökológiai hálózat ökológiai folyosója természetes és természetközeli élőhelyeit és azok kapcsolatait nem károsítja.
 
 (2) Az ökológiai hálózat ökológiai folyosójának övezetében új beépítésre szánt terület nem jelölhető ki, kivéve, ha
 
