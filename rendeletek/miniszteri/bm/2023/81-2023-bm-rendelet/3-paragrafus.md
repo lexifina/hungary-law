@@ -1,7 +1,3 @@
-3. § Az egészségügyi ellátás folyamatos működtetésének egyes szervezési kérdéseiről szóló 47/2004. (V. 11.) ESZCSM rendelet
+3. §[^4]
 
-a) 8. § (3) bekezdésében az „a melléklet” szövegrész helyébe az „az 1. melléklet” szöveg, valamint
-
-b) Melléklet címében a „Melléklet” szövegrész helyébe az „1. melléklet” szöveg
-
-lép.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
