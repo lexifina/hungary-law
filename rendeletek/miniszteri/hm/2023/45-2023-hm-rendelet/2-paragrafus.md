@@ -1,1 +1,3 @@
-2. § Hatályát veszti az R1. 17. § (1a) bekezdés b) pontjában a „szolgálati beosztás hiányában a rendelkezési állományba tartozás tényét, a szolgálati beosztáshoz meghatározott előmeneteli rendet,” szövegrész.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
