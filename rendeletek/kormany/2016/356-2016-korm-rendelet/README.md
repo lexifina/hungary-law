@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-356-20-
 | 2019-06-21 | 2016-356-20-22.4 | 143/2019. (VI. 20.) Korm. rendelet |
 | 2021-07-16 | 2016-356-20-22.5 | 420/2021. (VII. 15.) Korm. rendelet |
 | 2022-12-23 | 2016-356-20-22.6 | 546/2022. (XII. 22.) Korm. rendelet |
+| 2023-12-30 | 2016-356-20-22.7 | 670/2023. (XII. 29.) Korm. rendelet |

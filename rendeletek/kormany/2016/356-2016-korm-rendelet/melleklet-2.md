@@ -1,3 +1,3 @@
-2. melléklet a 356/2016. (XI. 18.) Korm. rendelethez[^8]
+2. melléklet a 356/2016. (XI. 18.) Korm. rendelethez[^12]
 
-[^8]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
