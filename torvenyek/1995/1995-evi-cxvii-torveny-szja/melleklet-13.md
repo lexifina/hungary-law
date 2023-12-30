@@ -1,0 +1,33 @@
+13. számú melléklet a személyi jövedelemadóról szóló 1995. évi CXVII. törvényhez
+
+A vállalkozói adókedvezményekről
+
+A vállalkozói jövedelem szerinti adózást alkalmazó egyéni vállalkozó a vállalkozói személyi jövedelemadóját az e mellékletben foglalt vállalkozói adókedvezményekkel csökkentheti.
+
+1–8. Kisvállalkozások adókedvezménye
+
+9. A 250 főnél kevesebb alkalmazottat foglalkoztató egyéni vállalkozó hitelszerződés (ideértve a pénzügyi lízinget is) alapján kizárólag üzemi célt szolgáló tárgyi eszköz beszerzéséhez, előállításához pénzügyi intézménytől igénybe vett hitel kamata alapján adókedvezményt vehet igénybe.
+
+10. Az adókedvezmény a 9. pontban meghatározott hitelre az adóévben fizetett kamat teljes összege a hitelszerződés megkötésének időpontjától függetlenül.
+
+11.
+
+12. A magánszemély által az adóévben érvényesített adókedvezmény összege az állami támogatásokra vonatkozó rendelkezések alkalmazásában az egyéni vállalkozó választása szerint
+
+a) agrár csoportmentességi (ABER) támogatásnak vagy mezőgazdasági csekély összegű (de minimis) támogatásnak minősül, ha a beruházás elsődleges mezőgazdasági termelést szolgál,
+
+b) halászati csekély összegű (de minimis) támogatásnak minősül, ha a beruházás a halászati és akvakultúra-termékek piacának közös szervezéséről szóló, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint az 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-i 1379/2013/EU rendelet I. mellékletében felsorolt halászati és akvakultúra-termékek előállításával, feldolgozásával és forgalmazásával kapcsolatos tevékenységet szolgál,
+
+c) agrár csoportmentességi (ABER) támogatásnak, az adóévben igénybe vett csekély összegű (de minimis) támogatásnak vagy a kis- és középvállalkozásoknak nyújtott állami támogatásra vonatkozó bizottsági rendeletben foglaltak szerinti támogatásnak minősül, ha a beruházás mezőgazdasági termék feldolgozását vagy forgalmazását szolgálja,
+
+d) minden más esetben az adóévben igénybe vett csekély összegű (de minimis) támogatásnak vagy a kis- és középvállalkozásoknak nyújtott állami támogatásra vonatkozó bizottsági rendeletben foglaltak szerinti támogatásnak minősül.
+
+13. Az egyéni vállalkozó az adókedvezményt abban az adóévben – utoljára abban az adóévben, amelyben a hitelt az eredeti szerződés szerint vissza kell fizetnie – veheti igénybe, amelynek utolsó napján a tárgyi eszköz nyilvántartásában szerepel.
+
+14. Az egyéni vállalkozónak az igénybe vett adókedvezményt késedelmi pótlékkal növelten kell visszafizetnie, ha
+
+a) a hitelszerződés megkötésének évét követő négy éven belül a beruházást nem helyezi üzembe, kivéve, ha az üzembe helyezés elháríthatatlan külső ok miatti megrongálódás következtében maradt el,
+
+b) a tárgyi eszközt az üzembe helyezésének adóévében vagy azt követő három évben elidegeníti.
+
+Ezt a rendelkezést kell alkalmazni, ha a magánszemély egyéni vállalkozói jogállása az említett időszak alatt bármely okból megszűnt (ide nem értve, ha annak oka cselekvőképességének elvesztése vagy a halála).
