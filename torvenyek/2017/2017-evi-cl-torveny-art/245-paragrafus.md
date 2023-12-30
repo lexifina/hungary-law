@@ -6,7 +6,7 @@ a) be nem jelentett foglalkoztatottat foglalkoztat vagy foglalkoztatott,
 
 b) igazolatlan eredetű árut forgalmaz,
 
-c) az adóköteles tevékenység célját szolgáló ugyanazon helyiségében (műhely, üzlet, telep stb.) az első ellenőrzéstől számított egy éven belül második alkalommal mulasztotta el számla- vagy nyugtakibocsátási kötelezettségét, vagy
+c) az adóköteles tevékenység célját szolgáló helyiségében (műhely, üzlet, telep stb.) elmulasztotta számla- vagy nyugtakibocsátási kötelezettségét, vagy
 
 d) a pénztárgép kötelező használatával és üzemeltetésével kapcsolatos, jogszabályban meghatározott kötelezettségét megszegte.
 

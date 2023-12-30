@@ -8,7 +8,7 @@ b) szerepel a nagy összegű adótartozással rendelkező adózók közzététel
 
 c) szerepel a be nem jelentett foglalkoztatottat foglalkoztató adózók közzétételi listáján,
 
-d) egy éven belül az állami adó- és vámhatóság ismételt üzletlezárás intézkedést alkalmazott vele szemben,
+d) az állami adó- és vámhatóság üzletlezárás intézkedést alkalmazott vele szemben,
 
 e) kényszertörlési eljárás alatt áll,
 
