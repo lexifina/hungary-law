@@ -1,7 +1,3 @@
-## 8. § A Minősítő Bizottság a pályázatokról köteles pályázatonként külön indokolással ellátott értékelést és döntési javaslatot tartalmazó beszámolót készíteni a miniszter részére. A Minősítő Bizottság ennek során
+8. §[^7]
 
-a) megállapítja, hogy a pályázatok érvényesek-e és megfelelnek-e a kiírási feltételeknek;
-
-b) a pályázatokat a kiírásban megadott szempontoknak megfelelően elemzi és
-
-c) javaslatot tesz a nyertes pályázó személyére.
+[^7]: A 8. §-t a 34/2023. (XII. 29.) EM rendelet 2. §-a hatályon kívül helyezte.
