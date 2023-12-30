@@ -1,7 +1,3 @@
-5. § Hatályát veszti az Szkr.
+5. §[^6]
 
-a) 130. § a) pontjában az „– az igazgatói megbízás és annak visszavonása kivételével –” szövegrész,
-
-b) 311. §-ában az „a honvédelem,” szövegrész,
-
-c) 316. § (1) bekezdésében az „Az ügyrend hatálybalépéséhez a szakképzésért felelős miniszter jóváhagyása szükséges.” szövegrész.
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
