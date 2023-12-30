@@ -2,7 +2,7 @@
 
 1. melléklet a 24/2013. (V. 29.) NFM rendelethez
 
-## A víziközművagyon-leltár részletezése
+A víziközművagyon-leltár részletezése
 
 I. Felszín alatti vízkivétel
 

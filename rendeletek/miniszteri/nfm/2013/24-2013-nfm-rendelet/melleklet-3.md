@@ -1,6 +1,8 @@
+## *Az EOV koordináták rögzítése mellőzhető, ha azokra vonatkozó mérési eredmények nem állnak rendelkezésre.
+
 3. melléklet a 24/2013. (V. 29.) NFM rendelethez
 
-## Víziközmű-objektum műszaki jellemzői
+Víziközmű-objektum műszaki jellemzői
 
 1. Vízkivételek
 

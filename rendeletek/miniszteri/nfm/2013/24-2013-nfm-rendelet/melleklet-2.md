@@ -1,6 +1,6 @@
 2. melléklet a 24/2013. (V. 29.) NFM rendelethez
 
-## A víziközművagyon-leltár minimális adattartalma
+A víziközművagyon-leltár minimális adattartalma
 
 1. táblázat: Vonalas víziközműobjektum-csoportok
 
@@ -18,7 +18,7 @@
 
 | n |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-*Az EOV koordináták rögzítése mellőzhető, ha azokra vonatkozó mérési eredmények nem állnak rendelkezésre.
+## *Az EOV koordináták rögzítése mellőzhető, ha azokra vonatkozó mérési eredmények nem állnak rendelkezésre.
 
 2. táblázat: Pontszerű víziközmű-objektumok
 
@@ -35,5 +35,3 @@
 | [...] |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | n |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-*Az EOV koordináták rögzítése mellőzhető, ha azokra vonatkozó mérési eredmények nem állnak rendelkezésre.

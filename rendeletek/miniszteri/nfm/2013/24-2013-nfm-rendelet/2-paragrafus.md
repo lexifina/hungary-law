@@ -12,4 +12,6 @@
 
 (4) Víziközművagyon-értékelést olyan gazdasági társaság végezhet, amely szerepel az ingatlanvagyon-értékelői névjegyzékben és a vagyonértékelés végrehajtásához a környezetvédelmi, természetvédelmi, vízgazdálkodási és tájvédelmi szakértői tevékenységről szóló 297/2009. (XII. 21.) Korm. rendelet 1. számú melléklet 3.2–3.4. pontjában meghatározott vízgazdálkodási részszakterületeken szakértői jogosultsággal rendelkező személyt vesz igénybe.
 
-(5) Értékelési tanúsítványt olyan személy állíthat ki, aki rendelkezik az önkormányzati és területfejlesztési miniszter hatáskörébe tartozó szakképesítések szakmai és vizsgakövetelményeinek kiadásáról szóló miniszteri rendelet szerinti ingatlanvagyon-értékelő és -közvetítő szakképesítéssel, továbbá szerepel az ingatlanvagyon-értékelői névjegyzékben.
+(5)[^1] Értékelési tanúsítványt olyan személy állíthat ki, aki rendelkezik a helyi önkormányzatokért felelős miniszter hatáskörébe tartozó szakképesítések szakmai és vizsgakövetelményeinek kiadásáról szóló miniszteri rendelet szerinti ingatlanvagyon-értékelő és -közvetítő szakképesítéssel, továbbá szerepel az ingatlanvagyon-értékelői névjegyzékben.
+
+[^1]: A 2. § (5) bekezdése a 31/2023. (XII. 29.) EM rendelet 1. § a) pontja szerint módosított szöveg.

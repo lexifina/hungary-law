@@ -12,7 +12,7 @@ A víziközmű-szolgáltató honlapján közzéteendő adatok köre
 
 | 4. | A víziközmű-szolgáltatónak az ellátásért felelőssel kötött megállapodásai | A változásokat követően azonnal | Az előző állapot archívumban tartásával. |
 
-| 5. | A víziközmű-szolgáltató üzletszabályzata | A változásokat követően azonnal | Az előző állapot törlendő |
+| 5. | A víziközmű-szolgáltató üzletszabályzata | A változásokat követően azonnal | Az előző állapot 5 évig archívumban tartása[^3] |
 
 | 6. | A víziközmű-szolgáltató által szolgáltatott ivóvíz és kibocsátott tisztított szennyvíz vonatkozásában a víziközmű-szolgáltató számára előírt és megvizsgált vízminták laboreredményei (a mintavétel helyének és időpontjának megadásával együtt) a jogszabályban rögzített minőségi paraméterekkel vagy határértékkel összehasonlítható módon. A jogszabályban meghatározott határérték túllépése esetén információ a vízellátás korlátozásáról vagy betiltásáról, az átmeneti vízellátás módjáról és a vízminőség javítására meghozott intézkedésekről | A változást követően azonnal | Az előző állapot törlendő |
 
@@ -23,3 +23,5 @@ A víziközmű-szolgáltató honlapján közzéteendő adatok köre
 | 9. | A szolgáltatásért fizetendő (előzetes) díjkalkulátor vagy számolási tábla | A változásokat követően azonnal | Az előző állapot törlendő |
 
 | 10. | A jóváhagyott beszerzési szabályzat | A változásokat követően azonnal | Az előző állapot törlendő |
+
+[^3]: A 4. mellékletben foglalt táblázat C:5 mezője a 31/2023. (XII. 29.) EM rendelet 1. § c) pontjával megállapított szöveg.
