@@ -1,0 +1,1 @@
+1. § A bányászati koncessziós pályázati eljárásról szóló 8/2014. (II. 18.) NFM rendelet (a továbbiakban: Rendelet) 3. §-ában a „bányafelügyelet” szövegrész helyébe a „miniszter által vezetett minisztérium” szöveg lép.

@@ -1,0 +1,1 @@
+A bányászatról szóló 1993. évi XLVIII. törvény 50/A. § (2) bekezdés o) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 160. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
