@@ -1,5 +1,3 @@
-## Gördülő fejlesztési terv a 20.. - 20.. időszakra
-
 ## BERUHÁZÁSOK ÖSSZEFOGLALÓ TÁBLÁZATA
 
 ## A tervet benyújtó szervezet megnevezése: …………………………………………………… ellátásért felelős / ellátásért felelősök képviselője / víziközmű-szolgáltató*
@@ -11,6 +9,8 @@
 ## A Vksztv. 11. § (4) bekezdés szerinti véleményező fél megnevezése:……………………………………………………
 
 ## Víziközmű-rendszer kódja**:……………………………………………………
+
+## 5K20797_0
 
 | A | B | C | D | E | F | G | H | I |
 
@@ -63,6 +63,8 @@ Víziközmű-szolgáltatási ágazat megnevezése: ………………………�
 A Vksztv. 11. § (4) bekezdés szerinti véleményező fél megnevezése:……………………………………………………
 
 Víziközmű-rendszer kódja**:……………………………………………………
+
+5K20798_0
 
 | A | B | C | D | E | F | G | H | I |
 
