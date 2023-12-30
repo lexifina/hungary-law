@@ -68,6 +68,14 @@ b) a másik tagállamból belföldön keresztül egy másik tagállamba e-EKO-va
 
 c) a 3. § (2) bekezdés 21. pontja szerinti jármű üzemanyagtartályában vagy kiegészítő üzemanyagtartályában található üzemanyag tagállamok közötti szállítása.
 
+(5a) Kereskedelmi célú szállításnak minősül a belföldről, az (1a) bekezdés szerinti belföldi feladótól, másik tagállamon keresztül, az (1b) szerinti belföldi címzett részére végzett szállítás.
+
+(5b) Az (5a) bekezdés szerinti esetben
+
+a) a feladó az e-EKO-n megadja a szállítási útvonalat,
+
+b) az állami adó- és vámhatóság az e-EKO-t megküldi a címzettnek.
+
 (6) A másik tagállamba szabadforgalomban, kereskedelmi céllal szállított jövedéki termék feladása esetén az 54. § (2)–(3) bekezdését, (4) bekezdés a) pontját, (6) bekezdését és (7) bekezdés b) pontját kell alkalmazni azzal az eltéréssel, hogy e-TKO alatt e-EKO-t, az adófelfüggesztési eljárás alatt pedig szabadforgalomban végzett kereskedelmi célú szállítást kell érteni, továbbá a rendeltetési hely csak ugyanazon tagállamon belüli, ugyanazon címzett által üzemeltetett szállítási helyre vagy a feladás helyére módosítható.
 
 (7) Az állami adó- és vámhatóság a másik tagállam illetékes hatóságától kapott e-EKO-t megküldi a címzettnek.

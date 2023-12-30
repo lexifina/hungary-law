@@ -4,6 +4,8 @@
 
 (2) Az állami adó- és vámhatóság a jövedéki termék harmadik országba történő kiszállításáról kiállított papíralapú okmány másolatát megküldi a jövedéki termék feladójának vagy annak megérkezéséről tájékoztatja a jövedéki termék feladóját.
 
+(2a) Ha az 53. § (1) bekezdés c) és e) pontja szerinti esetben üzemszünet alatt a számítógépes rendszer nem érhető el a feladás helye szerinti tagállamban, akkor a belföldi feladó a 952/2013/EU rendeletben meghatározott nyilatkozattevő rendelkezésére bocsátja az üzemszünet ideje alatt kiállított papírlapú okmány egy példányát – amelynek tartalma megfelel a kiviteli árunyilatkozatban bejelentett jövedéki terméknek – vagy az okmány egyedi azonosítóját.
+
 (3) Az üzemszünet végét vagy az e-TKO megküldését követően, ha a kivitel helye belföld, az állami adó- és vámhatóság haladéktalanul kiállítja és a feladás helye szerinti tagállam illetékes hatóságának megküldi az elektronikus kiviteli elismervényt.
 
 (4) Ezt követően az adófelfüggesztési eljárás keretében végzett szállításra vonatkozó általános szabályokat kell alkalmazni.

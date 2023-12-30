@@ -132,7 +132,7 @@ b) adózatlan jövedéki termék adófelfüggesztési eljáráson kívüli birto
 
 c) jövedéki termék adófelfüggesztési eljáráson kívüli előállítása, ideértve a szabálytalanság esetét is,
 
-d) jövedéki termék importálása, kivéve, ha a jövedéki termék adófelfüggesztési eljárás alá kerül, és a jövedéki termék szabálytalan behozatala, kivéve, ha a vámtartozás a 952/2013/EU rendelet 124. cikke (1) bekezdés e), f), g), vagy k) pontja alapján kiegyenlítésre került;
+d) jövedéki termék importálása, kivéve, ha a jövedéki termék adófelfüggesztési eljárás alá kerül, és a jövedéki termék szabálytalan behozatala, kivéve, ha a vámtartozás a 952/2013/EU rendelet 124. cikke (1) bekezdés e), f), g), vagy k) pontja alapján megszűnt;
 
 43a. szabálytalan behozatal: olyan jövedéki terméknek az Európai Unió területére való behozatala, amelyeket nem bocsátottak a 952/2013/EU rendelet 201. cikkével összhangban szabad forgalomba, és amelyekre vonatkozóan a 952/2013/EU rendelet 79. cikk (1) bekezdésével összhangban vámtartozás keletkezett, illetve keletkezett volna, ha az áruk vámkötelesek lennének;
 

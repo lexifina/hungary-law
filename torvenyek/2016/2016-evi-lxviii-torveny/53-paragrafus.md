@@ -10,7 +10,7 @@ a) adóraktárba;
 
 b) másik tagállambeli bejegyzett kereskedő számára;
 
-c) exportálás céljából arra a helyre, ahol a jövedéki termék elhagyja az Európai Unió területét; vagy
+c) exportálás céljából arra a helyre, ahol a jövedéki termék elhagyja az Európai Unió területét;
 
 d) másik tagállambeli
 
@@ -18,12 +18,14 @@ da) diplomáciai és konzuli képviselet és annak tagjai,
 
 db) nemzetközi szervezet és annak tagjai – a nemzetközi egyezményekben vagy székhely egyezményekben foglaltak szerint adómentesként meghatározott fogyasztás erejéig –,
 
-dc) az Észak-atlanti Szerződésben részes állam fegyveres erői – kivéve az adóraktár helye szerinti tagállam fegyveres erejét –, polgári állománya és étterme, kantinja
+dc) az Észak-atlanti Szerződésben részes állam fegyveres erői – kivéve az adóraktár helye szerinti tagállam fegyveres erejét –, polgári állománya és étterme, kantinja,
 
 dd) a tagállam közös biztonság- és védelempolitika keretében folytatott uniós tevékenység végrehajtása céljából végzett védelmi feladat ellátásában részt vevő fegyveres erői – kivéve az adóraktár helye szerinti tagállam fegyveres erejét –, polgári állománya és étterme, kantinja
 
-számára.
+számára; vagy
+
+e) a kilépési vámhivatalnak minősülő árutovábbítási műveletet indító vámhivatalba, ha a jövedéki terméket a vámjogszabályok szerinti kivitelre átengedést követően külső árutovábbítási eljárás alá vonják.
 
 (2) Az adófelfüggesztési eljárás keretében végzett szállítás akkor kezdődik, amikor a jövedéki termék elhagyja az adóraktár területét vagy amikor a bejegyzett feladó által feladott jövedéki termék vámjogi szabadforgalomba bocsátásra kerül.
 
-(3) Az adófelfüggesztési eljárás keretében végzett szállítás akkor fejeződik be, amikor a címzett átveszi a jövedéki terméket vagy amikor a jövedéki termék elhagyja az Európai Unió területét.
+(3) Az adófelfüggesztési eljárás keretében végzett szállítás akkor fejeződik be, amikor a címzett átveszi a jövedéki terméket, amikor a jövedéki termék elhagyja az Európai Unió területét vagy amikor külső árutovábbítási eljárás alá vonják.

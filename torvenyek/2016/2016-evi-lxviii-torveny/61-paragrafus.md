@@ -8,7 +8,7 @@
 
 a) a rendeltetési hely szerinti tagállam illetékes hatóságának – megfelelő bizonyíték alapján – a jövedéki termék rendeltetési helyre történő megérkezéséről kiállított igazolása, vagy
 
-b) a kivitel helye szerinti tagállam illetékes hatóságának a jövedéki termék Európai Unió területének elhagyásáról kiállított igazolása
+b) a kivitel helye szerinti tagállam illetékes hatóságának a jövedéki termék Európai Unió területének elhagyásáról – beleértve a harmadik országban zárult külső árutovábbítási eljárás esetét is – kiállított igazolása
 
 szolgálhat.
 
