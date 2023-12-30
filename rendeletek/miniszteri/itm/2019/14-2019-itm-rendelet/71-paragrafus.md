@@ -1,13 +1,5 @@
-## 37. A belvízi kikötő fejlesztéséhez nyújtott beruházási támogatás
+## 37.[^116]
 
-71. § (1) A belvízi kikötő fejlesztéséhez nyújtott beruházási támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) belvízi kikötő
+71. §
 
-a) kikötői infrastruktúrájának és hozzáférési infrastruktúrájának létrehozására, cseréjére vagy korszerűsítésére irányuló beruházáshoz, valamint
-
-b) kotrásához
-
-nyújtható.
-
-(2) A támogatás keretében az (1) bekezdés szerinti tevékenységekhez kapcsolódó költségek számolhatók el, beleértve a tervezés költségeit.
-
-(3) Nem számolhatók el a szállítással össze nem függő tevékenységekhez, így különösen a kikötő területén működő ipari gyártólétesítményekhez, irodahelyiségekhez és üzletekhez, valamint a kikötői felépítményekhez kapcsolódó költségek.
+[^116]: A 37. alcímet (71–73. §-t) a 24/2023. (XII. 29.) ÉKM rendelet 66. § b) pontja hatályon kívül helyezte.

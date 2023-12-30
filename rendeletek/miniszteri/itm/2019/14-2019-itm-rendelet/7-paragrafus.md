@@ -48,6 +48,9 @@ b) működési támogatás esetében meghaladja a vállalkozásonként évente 7
 
 16. helyi infrastruktúrára irányuló beruházási támogatás esetében egyazon infrastruktúra esetében meghaladja a 10 millió eurónak vagy 20 millió eurónak megfelelő forintösszeget,
 
-17. regionális repülőterekre irányuló támogatás esetében meghaladja a támogatási kategóriára vonatkozó szabályokban meghatározott mértéket,
+17.[^79]
 
-18. belvízi kikötőkre irányuló támogatás esetében meghaladja projektenként a 40 millió eurónak megfelelő forintösszeget.
+18.[^80]
+
+[^79]: A 7. § 17. pontját a 24/2023. (XII. 29.) ÉKM rendelet 66. § e) pontja hatályon kívül helyezte.
+[^80]: A 7. § 18. pontját a 24/2023. (XII. 29.) ÉKM rendelet 66. § e) pontja hatályon kívül helyezte.

@@ -4,10 +4,10 @@
 
 (3) A támogatási intenzitás legmagasabb mértéke nagyberuházás esetén az Atr. 25. § (3) bekezdésében meghatározott mérték.
 
-(4)[^83] Nagyberuházás esetén az odaítélhető összes állami támogatás összegéből le kell vonni a beruházás megkezdését megelőző háromszor háromszázhatvanöt napos időszakban a kedvezményezett által vagy a kedvezményezettől független harmadik félnek nem minősülő beruházó által azonos vármegyében megkezdett beruházáshoz vagy beruházásokhoz odaítélt állami támogatás jelenértéken meghatározott összegét.
+(4)[^109] Nagyberuházás esetén az odaítélhető összes állami támogatás összegéből le kell vonni a beruházás megkezdését megelőző háromszor háromszázhatvanöt napos időszakban a kedvezményezett által vagy a kedvezményezettől független harmadik félnek nem minősülő beruházó által azonos vármegyében megkezdett beruházáshoz vagy beruházásokhoz odaítélt állami támogatás jelenértéken meghatározott összegét.
 
 (5) Ha az összeszámítási szabály figyelembevétele nélkül az adott beruházáshoz nyújtható állami támogatás jelenértéken kisebb, mint a (4) bekezdés szerint meghatározott támogatási összeg, akkor ez a kisebb összeg az odaítélhető állami támogatás felső korlátja. Ellenkező esetben állami támogatás a (4) bekezdésben meghatározott összegig nyújtható.
 
 (6) Annak kiszámításakor, hogy egy nagyberuházás elszámolható költsége eléri-e a jelenértéken 50 000 000 eurónak megfelelő forintösszeget, a beruházás elszámolható költségeibe tartozó tételek vagy a létrehozott új munkahelyek személyi jellegű ráfordításai közül a nagyobb értékűt kell elszámolható költségként figyelembe venni.
 
-[^83]: A 49. § (4) bekezdése a 6/2022. (XII. 27.) EM rendelet 2. § b) pontja szerint módosított szöveg.
+[^109]: A 49. § (4) bekezdése a 6/2022. (XII. 27.) EM rendelet 2. § b) pontja szerint módosított szöveg.

@@ -1,12 +1,10 @@
-## nyújtható.
-
-## 4/A. §[^39] Az EUMSz 107. cikk (1) bekezdése szerinti állami támogatások esetében a 2. mellékletben foglalt táblázat
+## 4/A. §[^59] Az EUMSz 107. cikk (1) bekezdése szerinti állami támogatások esetében a 2. mellékletben foglalt táblázat
 
 1. 8., 12., 13. és 15. sora alapján az 1407/2013/EU bizottsági rendelet szerinti csekély összegű támogatás;
 
 2. 13. sora alapján az 1408/2013/EU bizottsági rendelet szerinti mezőgazdasági csekély összegű támogatás;
 
-3. 6., 8. és 15. sora alapján az 1370/2007/EK európai parlamenti és tanácsi rendelet szerinti személyszállítási közszolgáltatásért járó ellentételezés;
+3.[^60] 15. sora alapján az 1370/2007/EK európai parlamenti és tanácsi rendelet szerinti személyszállítási közszolgáltatásért járó ellentételezés;
 
 4. 13. és 15. sora alapján a 2012/21/EU bizottsági határozat szerinti közszolgáltatás ellentételezése formájában nyújtott állami támogatás;
 
@@ -50,24 +48,28 @@
 
 24. 13., 14. és 15. sora alapján a 651/2014/EU bizottsági rendelet 56. cikke szerinti helyi infrastruktúrára irányuló támogatás;
 
-25. [^40] 13. sora alapján az Európai Bizottság SA.46515 (2016/N) és SA.59053 (2020/N) számú határozatában foglaltakkal összhangban a 2014–2020 időszakra vonatkozó, az agrár- és erdészeti ágazatban nyújtott állami támogatásokról szóló európai uniós iránymutatások (2014/C 204/01) 1.1.10.1. pontja szerinti, a tudástranszferhez és tájékoztatási tevékenységekhez nyújtott támogatás, 1.1.10.2. pontja szerinti, a tanácsadási szolgáltatásokhoz nyújtott támogatás, 1.1.11. pontja szerinti, a mezőgazdasági ágazatban folytatott együttműködés céljából, valamint 1.3.2. pontja szerinti, a mezőgazdasági termékekkel kapcsolatos promóciós intézkedésekhez kapcsolódó támogatás;
+25.[^61] 13. sora alapján az Európai Bizottság SA.46515 (2016/N) és SA.59053 (2020/N) számú határozatában foglaltakkal összhangban a 2014–2020 időszakra vonatkozó, az agrár- és erdészeti ágazatban nyújtott állami támogatásokról szóló európai uniós iránymutatások (2014/C 204/01) 1.1.10.1. pontja szerinti, a tudástranszferhez és tájékoztatási tevékenységekhez nyújtott támogatás, 1.1.10.2. pontja szerinti, a tanácsadási szolgáltatásokhoz nyújtott támogatás, 1.1.11. pontja szerinti, a mezőgazdasági ágazatban folytatott együttműködés céljából, valamint 1.3.2. pontja szerinti, a mezőgazdasági termékekkel kapcsolatos promóciós intézkedésekhez kapcsolódó támogatás;
 
-26. [^41]
+26.[^62]
 
-27. [^42]
+27.[^63]
 
 28. 13. sora alapján a mezőgazdasági és az erdészeti ágazatban nyújtott állami támogatásokról szóló európai uniós iránymutatásnak megfelelően jóváhagyott SA.37599 sz. bizottsági határozat szerinti mezőgazdasági ágazatban megvalósuló technikai segítségnyújtáshoz nyújtott támogatás;
 
-29. [^43]
+29.[^64]
 
 30. 13. sora alapján a 702/2014/EU bizottsági rendelet 14. cikke szerinti, az elsődleges mezőgazdasági termeléshez kapcsolódó, mezőgazdasági üzemekben végrehajtott, tárgyi eszközökre vagy immateriális javakra irányuló beruházásokhoz nyújtott támogatás;
 
 31. 13. sora alapján az 1388/2014/EU bizottsági rendelet 42. cikke szerinti halászati és akvakultúra-termékek feldolgozásához nyújtott támogatás;
 
-32. 8. sora alapján a 651/2014/EU bizottsági rendelet 56a. cikke szerinti regionális repülőterekre irányuló támogatás, vagy az Európai Bizottság előzetes jóváhagyását igénylő támogatási intézkedés esetén az Európai Bizottságnak a repülőtereknek és a légitársaságoknak nyújtott állami támogatásról szóló közleménye (2014/C99/03) szerinti támogatás
+32.[^65]
 
-[^39]: A 4/A. §-t az 59/2020. (XII. 30.) ITM rendelet 4. §-a iktatta be, szövege a 70/2021. (XII. 30.) ITM rendelet 4. §-ával megállapított szöveg.
-[^40]: A 4/A. § 25. pontja a 28/2022. (XI. 29.) TIM rendelet 3. §-ával megállapított szöveg.
-[^41]: A 4/A. § 26. pontját a 28/2022. (XI. 29.) TIM rendelet 22. § c) pontja hatályon kívül helyezte.
-[^42]: A 4/A. § 27. pontját a 28/2022. (XI. 29.) TIM rendelet 22. § c) pontja hatályon kívül helyezte.
-[^43]: A 4/A. § 29. pontját a 28/2022. (XI. 29.) TIM rendelet 22. § c) pontja hatályon kívül helyezte.
+nyújtható.
+
+[^59]: A 4/A. §-t az 59/2020. (XII. 30.) ITM rendelet 4. §-a iktatta be, szövege a 70/2021. (XII. 30.) ITM rendelet 4. §-ával megállapított szöveg.
+[^60]: A 4/A. § 3. pontja a 24/2023. (XII. 29.) ÉKM rendelet 66. § d) pontja szerint módosított szöveg.
+[^61]: A 4/A. § 25. pontja a 28/2022. (XI. 29.) TIM rendelet 3. §-ával megállapított szöveg.
+[^62]: A 4/A. § 26. pontját a 28/2022. (XI. 29.) TIM rendelet 22. § c) pontja hatályon kívül helyezte.
+[^63]: A 4/A. § 27. pontját a 28/2022. (XI. 29.) TIM rendelet 22. § c) pontja hatályon kívül helyezte.
+[^64]: A 4/A. § 29. pontját a 28/2022. (XI. 29.) TIM rendelet 22. § c) pontja hatályon kívül helyezte.
+[^65]: A 4/A. § 32. pontját a 24/2023. (XII. 29.) ÉKM rendelet 66. § d) pontja hatályon kívül helyezte.

@@ -2,9 +2,9 @@
 
 a) a 0,4 millió eurót,
 
-b)[^72]
+b)[^96]
 
-c)[^73] az Atr. 25. § (1) bekezdése szerinti régióban letelepedett vállalkozás esetén a 0,8 millió eurót.
+c)[^97] az Atr. 25. § (1) bekezdése szerinti régióban letelepedett vállalkozás esetén a 0,8 millió eurót.
 
-[^72]: A 14. § b) pontját a 28/2022. (XI. 29.) TIM rendelet 22. § f) pontja hatályon kívül helyezte.
-[^73]: A 14. § c) pontja a 28/2022. (XI. 29.) TIM rendelet 10. §-ával megállapított szöveg.
+[^96]: A 14. § b) pontját a 28/2022. (XI. 29.) TIM rendelet 22. § f) pontja hatályon kívül helyezte.
+[^97]: A 14. § c) pontja a 28/2022. (XI. 29.) TIM rendelet 10. §-ával megállapított szöveg.

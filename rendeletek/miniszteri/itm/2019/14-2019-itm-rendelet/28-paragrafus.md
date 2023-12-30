@@ -4,7 +4,7 @@ a) 45%-át a 30. § (2) és (3) bekezdése esetén,
 
 b) 30%-át a 30. § (4) bekezdése esetén.
 
-(2)[^77] A támogatási intenzitás
+(2)[^101] A támogatási intenzitás
 
 a) középvállalkozás esetén 10 százalékponttal, kisvállalkozás esetén 20 százalékponttal,
 
@@ -16,4 +16,4 @@ növelhető.
 
 (4) Ha az ajánlattételi eljárás korlátozott költségvetése miatt nem részesülhet valamennyi ajánlattevő támogatásban, a támogatás kizárólag az ajánlattevők ajánlatának megfelelően nyújtható, a későbbi tárgyalás lehetőségének kizárásával.
 
-[^77]: A 28. § (2) bekezdése a 28/2022. (XI. 29.) TIM rendelet 12. §-ával megállapított szöveg.
+[^101]: A 28. § (2) bekezdése a 28/2022. (XI. 29.) TIM rendelet 12. §-ával megállapított szöveg.

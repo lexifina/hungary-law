@@ -8,7 +8,7 @@ c) szénipari tevékenységhez,
 
 d) szintetikusszál-ipari tevékenységhez,
 
-e) ellenszolgáltatásért végzett légi, tengeri, közúti, vasúti és belvízi úton történő személy- vagy áruszállítási szolgáltatás nyújtásához vagy a kapcsolódó infrastruktúrához,
+e)[^108]
 
 f) energiatermelési, energiaelosztási tevékenységhez és energetikai célú infrastruktúra létrehozását szolgáló beruházáshoz,
 
@@ -17,3 +17,5 @@ g) a halászati és akvakultúra-termékek piacának közös szervezéséről, a
 h) széles sávú infrastruktúra kiépítéséhez, kivéve a 49. §-ban meghatározott feltételekkel,
 
 i) kutatási infrastruktúra fejlesztéséhez, kivéve az 51. §-ban meghatározott feltételekkel.
+
+[^108]: A 48. § e) pontját a 24/2023. (XII. 29.) ÉKM rendelet 66. § f) pontja hatályon kívül helyezte.
