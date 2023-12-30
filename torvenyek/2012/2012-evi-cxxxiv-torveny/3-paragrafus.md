@@ -60,7 +60,7 @@ c) az új dohánytermék-kategóriák kiegészítő terméke,
 
 d) az elektronikus cigaretta,
 
-e) az utántöltő flakon, patron, nikotinmentes utántöltő flakon,
+e) az utántöltő flakon, patron, nikotinmentes utántöltő flakon, nikotinmentes patron,
 
 f) a dohányzást imitáló elektronikus eszköz,
 

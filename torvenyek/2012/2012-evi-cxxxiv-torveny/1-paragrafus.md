@@ -8,7 +8,7 @@ c) dohánylevél töltő,
 
 d) elektronikus cigaretta,
 
-e) utántöltő flakon, patron, nikotinmentes utántöltő flakon,
+e) utántöltő flakon, patron, nikotinmentes utántöltő flakon, nikotinmentes patron,
 
 f) dohányzást imitáló elektronikus eszköz,
 
