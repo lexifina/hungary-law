@@ -1,1 +1,3 @@
-49. § Hatályát veszti a 489/2015. (XII. 30.) Korm. rendelet 1. melléklet 1.2.1. pont 1.2.1.1. alpontjában a „201/2001. (X. 25.)” szövegrész.
+49. §[^55]
+
+[^55]: A 49. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-5. § Hatályát veszti a 102/1995. (VIII. 25.) Korm. rendelet 10. § (5) bekezdésében a „vagy a 6. számú mellékletnek” szövegrész.
+5. §[^5]
+
+[^5]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

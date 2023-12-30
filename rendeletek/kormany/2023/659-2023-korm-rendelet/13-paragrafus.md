@@ -1,5 +1,5 @@
 ## 3. Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet módosítása
 
-13. § Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet [a továbbiakban: 43/1999. (III. 3.) Korm. rendelet] „Elszámoláshoz kapcsolódó egyéb rendelkezések” alcíme a következő 6/G. §-sal egészül ki:
+13. §[^19]
 
-„6/G. § A finanszírozó évente egy alkalommal, legkésőbb a naptári év október 31. napjáig jóváhagyásra megküldi a fenntartó részére a fenntartásában álló, Közbeszerzési és Ellátási Főigazgatóság által üzemeltetett egészségügyi intézmények következő évi üzemeltetési költségének E. Alapra eső részére vonatkozó számítást. Az adatszolgáltatás az intézmények elmúlt évi teljesítménye alapján számított üzemeltetési költség becslésén alapul, amelyet intézményenként kell közölni. A fenntartó jóváhagyását követően a finanszírozó a fenntartó által jóváhagyott összeget 12 havi egyenlő részletben (a következő naptári év január-december hónapjaiban) levonja az érintett intézmények részére fizetendő havi finanszírozási díjból.”
+[^19]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

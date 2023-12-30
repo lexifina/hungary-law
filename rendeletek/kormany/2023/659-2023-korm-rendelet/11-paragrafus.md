@@ -1,17 +1,22 @@
 11. § A 217/1997. (XII. 1.) Korm. rendelet
 
-a) 12. § (9) bekezdésében a „85” szövegrész helyébe a „100” szöveg,
+a)[^11]
 
-b) 12. § (12) bekezdésében a „85 százalékát” szövegrész helyébe a „100 százalékát” szöveg,
+b)[^12]
 
-c) 12/A. § (12) bekezdésében a „nemzetközi egyezmény” szövegrész helyébe a „nemzetközi egyezmény – kivéve a kettős biztosítás tilalmáról nem rendelkező nemzetközi egyezményeket – ” szöveg,
+c)[^13]
 
-d)[^2]
+d)[^14]
 
-e) 45. § (6) bekezdésében a „NEAK általi” szövegrész helyébe a „NEAK általi – elsősorban bankszámlára történő – visszafizetését” szöveg,
+e)[^15]
 
-f) 49/E. § (2) bekezdésében a „bejelentésekor” szövegrész helyébe a „bejelentésekor a kettős biztosítás tilalmáról rendelkező nemzetközi egyezmények esetében” szöveg
+f)[^16]
 
 lép.
 
-[^2]: A 11. § d) pontja a 63. § (4) bekezdés alapján 2024. február 1-jén lép hatályba.
+[^11]: A 11. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 11. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 11. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 11. § d) pontja a 63. § (4) bekezdés alapján 2024. február 1-jén lép hatályba.
+[^15]: A 11. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 11. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-20. § A 43/1999. (III. 3.) Korm. rendelet 35. mellékletében foglalt táblázat 18. sor C oszlopában a „90” szövegrész helyébe az „50” szöveg lép.
+20. §[^26]
+
+[^26]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

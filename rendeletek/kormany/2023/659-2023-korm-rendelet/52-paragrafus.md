@@ -1,3 +1,3 @@
-52. § A 385/2016. (XII. 2.) Korm. rendelet 10. § (1) bekezdés f) pontja helyébe a következő rendelkezés lép:
+52. §[^58]
 
-(A Kormány egészségügyi államigazgatási szervként az NNGYK-t és a kormányhivatalt jelöli ki)
+[^58]: Az 52. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

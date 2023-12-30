@@ -1,5 +1,5 @@
 ## 5. A pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló 63/2006. (III. 27.) Korm. rendelet módosítása
 
-23. §[^5]
+23. §[^29]
 
-[^5]: A 23. § a 63. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^29]: A 23. § a 63. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.

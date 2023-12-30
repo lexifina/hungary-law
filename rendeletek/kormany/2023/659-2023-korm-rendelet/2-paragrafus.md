@@ -1,3 +1,3 @@
-2. § A 102/1995. (VIII. 25.) Korm. rendelet 13. § (1) bekezdése helyébe a következő rendelkezés lép:
+2. §[^2]
 
-„(1) Ha a biztosított a táppénzre való jogosultság időtartamát kimerítette, és erről az orvos értesítést kap a táppénz megállapítására hatáskörrel rendelkező szervtől, az orvos a keresőképtelenségét „L” kóddal lezárja, és a lezárás tényét a beteg egészségügyi dokumentációjában rögzíti. A továbbra is fennálló keresőképtelenség esetén a biztosított kérésére kiadja az 5. számú melléklet szerinti igazolást, az Orvosi Naplóban új sorszámon, „L” kóddal jelöli a keresőképtelenség felvételének módját a 8. számú melléklet szerinti heti jelentésben.”
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

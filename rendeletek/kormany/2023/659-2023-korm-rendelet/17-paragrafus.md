@@ -1,3 +1,3 @@
-17. § A 43/1999. (III. 3.) Korm. rendelet 44. §-a a következő (4) bekezdéssel egészül ki:
+17. §[^23]
 
-„(4) Az R. 8. számú mellékletében szereplő PET/CT vizsgálatért járó finanszírozási díjat a NEAK akkor utalványozza, ha a szolgáltató a PET Várólistára történő regisztrációs kötelezettségét teljesítette és a vizsgálat eredményét a várólista rendszerbe feltöltötte.”
+[^23]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-39. § A 316/2013. (VIII. 28.) Korm. rendelet a következő 25/B. §-sal egészül ki:
+39. §[^45]
 
-„25/B. § Hatályát veszti a biocid termékek előállításának és forgalomba hozatalának feltételeiről szóló 38/2003. (VII. 7.) ESzCsM–FVM–KvVM együttes rendelet.”
+[^45]: A 39. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

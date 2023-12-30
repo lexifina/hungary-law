@@ -1,3 +1,3 @@
-24. § A 63/2006 (III. 27.) Korm. rendelet 43. § (3) bekezdése helyébe a következő rendelkezés lép:
+24. §[^30]
 
-„(3) Az (1) bekezdés szerinti folyamatos elektronikus adatkapcsolat zavartalan gyógyszertári működéséhez szükséges feltételek teljesítését a NEAK hatósági ellenőrzés keretében megvizsgálja és igazolja. A közgyógyellátás keretében gyógyszer kiszolgáltatásra való jogosultságot tanúsító iratot a gyógyszertárban jól látható helyre ki kell függeszteni. Az ellenőrzés elősegítése érdekében a NEAK a Magyar Gyógyszerészi Kamarával közös ajánlást dolgoz ki, amelyet a NEAK, illetve a Magyar Gyógyszerészi Kamara a honlapján közzétesz.”
+[^30]: A 24. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

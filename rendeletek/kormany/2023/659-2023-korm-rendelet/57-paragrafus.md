@@ -1,1 +1,3 @@
-57. § Hatályát veszti az 531/2017. (XII. 29.) Korm. rendelet 1. melléklet 2. pontjában foglalt táblázat 19. sora.
+57. §[^63]
+
+[^63]: Az 57. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

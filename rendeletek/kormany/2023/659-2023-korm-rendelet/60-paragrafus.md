@@ -1,1 +1,3 @@
-60. § A 29/2022. (I. 31.) Korm. rendelet 8. § (5) bekezdésében az „Országos Kórházi Főigazgatóságnál (a továbbiakban: OKFŐ)” szövegrész helyébe az „OKFŐ-nél” szöveg lép.
+60. §[^66]
+
+[^66]: A 60. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

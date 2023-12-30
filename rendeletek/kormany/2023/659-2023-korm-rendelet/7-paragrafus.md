@@ -1,7 +1,3 @@
-7. § (1) A 217/1997. (XII. 1.) Korm. rendelet 12/A. §-a a következő (7b) bekezdéssel egészül ki:
+7. §[^7]
 
-„(7b) A Tbj. 43. § (1) bekezdés a) pontjában meghatározott személyi kör esetében az EU kártya érvényességi ideje legfeljebb 6 hónap, azzal, hogy a kérelem előterjesztésekor hitelt érdemlő módon igazolni kell az egészségügyi szolgáltatási járulék folyamatos befizetésének tényét.”
-
-(2) A 217/1997. (XII. 1.) Korm. rendelet 12/A. §-a a következő (9a) bekezdéssel egészül ki:
-
-„(9a) Azt a Tbj. szerint külföldinek minősülő eltartott hozzátartozót, aki a főbiztosított jogán jogosultság igazolást kap a külföldi biztosító – a szociális biztonsági rendszerek koordinálásáról szóló, 2004. április 29-i 883/2004/EK európai parlamenti és tanácsi rendeletre – alapozott kérésére, a fő biztosított foglalkoztatójának székhelye szerint illetékes egészségbiztosítási pénztári feladatkörében eljáró kormányhivatal hivatalból TAJ számmal látja el. A kormányhivatal a NEAK által biztosított központi informatikai rendszeren keresztül kéri a Kincstártól a TAJ szám képzését, és az adatátadást követően a képzett TAJ számról, valamint a TAJ számot igazoló hatósági igazolvány átvételének lehetőségéről értesíti a főbiztosítottat. A TAJ számot igazoló hatósági igazolványt az érintett – érvényességi időn belül – a főbiztosított jogosultság igazolását kiállító kormányhivatalnál átveheti vagy a kérelmező nyilatkozata alapján a kormányhivatal gondoskodik a postai kézbesítésről.”
+[^7]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

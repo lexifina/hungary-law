@@ -1,3 +1,3 @@
-3. § A 102/1995. (VIII. 25.) Korm. rendelet 16. §-a a következő (5) bekezdéssel egészül ki:
+3. §[^3]
 
-„(5) Az egyes közegészségügyi és járványügyi, valamint egészségbiztosítási tárgyú kormányrendeletek módosításáról szóló 659/2023. (XII. 28.) Korm. rendelettel megállapított 2. § (2) bekezdését a nem finanszírozott ellátás igénybevétele miatti keresőképtelenség esetén a 2024. június 30-át követően kezdődő esetek igazolása során kell alkalmazni.”
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
