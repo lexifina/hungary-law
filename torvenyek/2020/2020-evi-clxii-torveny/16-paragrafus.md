@@ -4,4 +4,4 @@
 
 (3) A 3. § (1) bekezdés d) pont db) alpontja, (4) és (5) bekezdése, a 7. § (1) bekezdés c) pontja, a 37–42. §, a 45. §, a 46. § (1) bekezdése, a 47–53. § 2021. április 1-jén lép hatályba.
 
-(4) Az 55. § 2024. január 1-jén lép hatályba.
+(4) Az 55. § 2025. január 1-jén lép hatályba.
