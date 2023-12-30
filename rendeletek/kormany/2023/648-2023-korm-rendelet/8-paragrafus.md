@@ -1,7 +1,3 @@
-## lép.
+8. §[^9]
 
-8. § Hatályát veszti a 423/2012. (XII. 29.) Korm. rendelet
-
-a) 25. § (1) bekezdése,
-
-b) 33. § (1) bekezdése.
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
