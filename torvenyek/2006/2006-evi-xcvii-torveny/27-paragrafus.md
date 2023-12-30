@@ -6,7 +6,7 @@
 
 (2) Amennyiben a miniszter azt állapítja meg, hogy az alapszabály jogszabálysértő, illetve más kamarai szabályzat vagy kamarai szerv, illetve tisztségviselő határozata jogszabálysértő vagy alapszabály-ellenes (a továbbiakban együtt: jogsértő), megfelelő határidő kitűzésével felhívja az érintett kamarai szervet, tisztségviselőt a jogsértés megszüntetésére. A kamarai szerv (tisztségviselő) köteles – a miniszter felhívásában megadott határidőn belül – a jogsértést megszüntetni vagy egyet nem értéséről a minisztert tájékoztatni.
 
-(3)
+(3) A miniszter törvényességi felügyeleti jogkörében vizsgálja a szakmai kamarák választásainak jogszerűségét, a vizsgálat keretében az ellenőrzéshez szükséges mértékben, az ellenőrzés lefolytatásának végéig jogosult kezelni a szakmai kamarák tagsági adatait, valamint a szakmai kamarai tagok természetes személyazonosító adatait és a választáshoz használt egyéb azonosító adatait.
 
 (4)
 
