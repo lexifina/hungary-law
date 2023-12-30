@@ -20,9 +20,9 @@
 
 | Határidő: | a 2. pont szerinti források rendelkezésre állását követően azonnal |
 
-## 4. A Kerepesi Széchenyi István Általános Iskola és Alapfokú Művészeti Iskola tanterem építéséről szóló 1622/2020. (X. 1.) Korm. határozat 3. pontjában a „446 660 094” szövegrész helyébe a „463 034 475” szöveg lép.
+## 4.[^1]
 
-## 5. A Kormány hatályon kívül helyezi az építési beruházások megvalósítására kötött szerződések módosításának kezdeményezéséről szóló 13/2023. (I. 24.) Korm. rendelet alapján a rendes üzleti kockázat mértékét meghaladó költségnövekménnyel érintett szerződések módosításához szükséges forrás biztosításáról szóló 1432/2023. (X. 5.) Korm. határozat 1.2. ae) és 1.2. b) alpontját.
+## 5.[^2]
 
 1. melléklet az 1619/2023. (XII. 29.) Korm. határozathoz
 
@@ -71,3 +71,6 @@
 | 19. | Tanterem tervezése és kivitelezése Kerepesen | 42 155 415 |
 
 |  | 8–19. Magasépítési beruházások összesen | 5 826 190 839 |
+
+[^1]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
