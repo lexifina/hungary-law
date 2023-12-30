@@ -20,7 +20,9 @@ b) a helyi önkormányzat tulajdonában álló terek, közparkok, közkertek,
 
 c) a helyi önkormányzat tulajdonában álló nemzetközi kereskedelmi repülőtér, a hozzá tartozó légiforgalmi távközlő, rádiónavigációs és fénytechnikai berendezésekkel és eszközökkel, továbbá a légiforgalmi irányító szolgálat elhelyezését szolgáló létesítményekkel együtt, valamint
 
-d) a helyi önkormányzat tulajdonában álló – külön törvény rendelkezése alapján részére átadott –vizek, közcélú vízi létesítmények, ide nem értve a vízi közműveket.
+d) a helyi önkormányzat tulajdonában álló – külön törvény rendelkezése alapján részére átadott –vizek, közcélú vízi létesítmények, ide nem értve a vízi közműveket,
+
+e) a helyi önkormányzat tulajdonában álló, a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény szerinti balatoni közstrandok.
 
 (4) Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősül a 2. mellékletben meghatározott, valamint törvényben vagy a helyi önkormányzat rendeletében ekként meghatározott a helyi önkormányzat tulajdonában álló vagyonelem.
 

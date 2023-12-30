@@ -28,7 +28,9 @@ j) a barlang,
 
 k) a rádióspektrum, valamint az elektronikus hírközlő hálózat működéséhez, az elektronikus hírközlési szolgáltatások nyújtásához vagy az elektronikus hírközlőhálózatok és szolgáltatások együttműködéséhez szükséges, az információ vagy a jelzés célba juttatására szolgáló, annak címzettjét meghatározó betűkből, számokból vagy jelekből álló karaktersorozat,
 
-l) a földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvény szerinti biztonsági földgáztároló.
+l) a földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvény szerinti biztonsági földgáztároló,
+
+m) az állam tulajdonában álló, a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény szerinti balatoni közstrandok.
 
 (1a) Az állam kizárólagos tulajdonába tartozik – tekintettel az Országház rendeltetésszerű működtetéséhez szükséges műszaki kapcsolatára –
 
