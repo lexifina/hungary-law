@@ -1,3 +1,3 @@
-1. § A sportakadémiákról szóló 303/2019. (XII. 12.) Korm. rendelet (a továbbiakban: Rendelet) 2/A. § d)–f) pontja helyébe a következő rendelkezések lépnek:
+1. §[^2]
 
-(E rendelet alkalmazásában sportakadémiai utánpótlás korosztályok:)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
