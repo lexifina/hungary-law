@@ -1,3 +1,3 @@
-5. § A Korm. rendelet 5. §-a a következő (9) bekezdéssel egészül ki:
+5. §[^6]
 
-„(9) Az (1)–(8) bekezdés szabályait az iránymutatás az összeférhetetlenségek költségvetési rendelet szerinti elkerüléséről és kezeléséről szóló bizottsági közleménnyel (2021/C 121/01) összhangban kell értelmezni és alkalmazni.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

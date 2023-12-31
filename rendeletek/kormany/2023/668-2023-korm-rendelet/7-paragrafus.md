@@ -1,3 +1,3 @@
-7. § A Korm. rendelet 6. § (2) bekezdése a következő f) ponttal egészül ki:
+7. §[^8]
 
-(A Nemzeti KAP Monitoring Bizottságba tanácskozási joggal rendelkező tagot delegálhat)
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
