@@ -1,4 +1,4 @@
-1. melléklet a 12/2006. (III. 23.) EüM rendelethez[^12]
+1. melléklet a 12/2006. (III. 23.) EüM rendelethez[^18]
 
 Különös szempontok az azbesztexpozíciónak kitett munkavállalók munkaköri alkalmasságának orvosi vizsgálatához
 
@@ -28,4 +28,4 @@ E megbetegedé seket külön jogszabály szerint be kell jelenteni és ki kell v
 
 4. A foglalkozás-egészségügyi szolgálat orvosa dönt a további vizsgálatokról, illetve javaslatot tesz további vizsgálatokra (pl. köpetcitológiai vizsgálat, CT) a foglalkozás-orvostan mindenkori állásának megfelelően.
 
-[^12]: Az 1. melléklet a 62/2016. (XII. 29.) NGM rendelet 60. § (5) bekezdésével megállapított szöveg.
+[^18]: Az 1. melléklet a 62/2016. (XII. 29.) NGM rendelet 60. § (5) bekezdésével megállapított szöveg.

@@ -1,8 +1,8 @@
 16. § (1) Az azbeszt-expozícióban történő foglalkoztatás előtt és a foglalkoztatás során a munkavállaló munkaköri alkalmasságának orvosi vizsgálatát és véleményezését, beleértve a záróvizsgálatot is, a munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről, valamint a foglalkozási eredetű rákkeltő anyagok elleni védekezésről és az általuk okozott egészségkárosodások megelőzéséről szóló külön jogszabályokban meghatározottak szerint kell elvégezni. A vizsgálatnak ki kell terjednie a légzésfunkció vizsgálatára és a mellkas évenkénti röntgenvizsgálatára.
 
-(2)[^7] Az azbesztexpozícióban foglalkoztatott munkavállalók orvosi vizsgálatánál figyelembe veendő különös szempontokat az 1. melléklet tartalmazza.
+(2)[^12] Az azbesztexpozícióban foglalkoztatott munkavállalók orvosi vizsgálatánál figyelembe veendő különös szempontokat az 1. melléklet tartalmazza.
 
-(3)[^8] A foglalkozás-egészségügyi szolgálat az azbesztexpozíciónak kitett munkavállalóról a külön jogszabály szerint vezeti az egészségügyi dokumentációt. Az egészségügyi dokumentáció másolatát kérésre az illetékes munkavédelmi hatóság rendelkezésére kell bocsátani. A munkavállaló számára biztosítani kell a rá vonatkozó egészségügyi dokumentáció megismerésének lehetőségét.
+(3)[^13] A foglalkozás-egészségügyi szolgálat az azbesztexpozíciónak kitett munkavállalóról a külön jogszabály szerint vezeti az egészségügyi dokumentációt. Az egészségügyi dokumentáció másolatát kérésre az illetékes munkavédelmi hatóság rendelkezésére kell bocsátani. A munkavállaló számára biztosítani kell a rá vonatkozó egészségügyi dokumentáció megismerésének lehetőségét.
 
 (4) Az (1) bekezdés szerinti vizsgálatot végző foglalkozás-egészségügyi szolgálat orvosa javaslatot tesz a munkavállaló számára szükséges egyéni védő- és megelőző intézkedésekre, ami szükség esetén a munkavállalónak az azbeszt-expozíció alóli kivonása is lehet.
 
@@ -16,5 +16,5 @@ b) javaslatot tesz az egészségi állapotuk orvosi ellenőrzésének az azbeszt
 
 (7) A kizárólag a 3. § (2) bekezdés szerinti kockázatnak kitett munkavállalók egészségügyi alkalmasságának elbírálását az (1)–(6) bekezdésben írtaktól eltérően, a munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló jogszabály előírásai szerint kell végezni.
 
-[^7]: A 16. § (2) bekezdése a 62/2016. (XII. 29.) NGM rendelet 60. § (4) bekezdésével megállapított szöveg.
-[^8]: A 16. § (3) bekezdése a 18/2007. (V. 10.) SZMM rendelet 20. § (9) bekezdése, a 9/2015. (III. 31.) NGM rendelet 39. § c) pontja szerint módosított szöveg.
+[^12]: A 16. § (2) bekezdése a 62/2016. (XII. 29.) NGM rendelet 60. § (4) bekezdésével megállapított szöveg.
+[^13]: A 16. § (3) bekezdése a 18/2007. (V. 10.) SZMM rendelet 20. § (9) bekezdése, a 9/2015. (III. 31.) NGM rendelet 39. § c) pontja szerint módosított szöveg.
