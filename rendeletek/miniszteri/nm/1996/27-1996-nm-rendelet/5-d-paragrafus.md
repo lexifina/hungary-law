@@ -1,19 +1,6 @@
-5/D. §[^47] (1) A munkavédelmi hatóság a bejelentett foglalkozási betegségekkel, fokozott expozíciós esetekkel kapcsolatos vizsgálati lapokat, jegyzőkönyveket munkáltatók szerint az alábbi csoportosításban tartja nyilván:
-
-a) a bejelentés dátuma,
-
-b) diagnózis,
-
-c) halálos vagy tömeges foglalkozási betegség,
-
-d) keresőképtelenséggel járó foglalkozási betegség,
-
-e) keresőképtelenséggel nem járó foglalkozási betegség,
-
-f) fokozott expozíció (anyagonként), valamint
-
-g) kiváltó ok, munkakörülmény, rendelkezésre álló higiénés adat.
+5/D. §[^47] (1)[^48]
 
 (2) A munkahigiénés és foglalkozás-egészségügyi szerv az Országos Statisztikai Adatszolgáltatási Program (OSAP) által előírt jelentési rendnek megfelelően évenként országos összesítő jelentést készít.
 
 [^47]: Az 5/D. §-t a 10/2019. (IX. 4.) PM rendelet 11. §-a iktatta be.
+[^48]: Az 5/D. § (1) bekezdését az 57/2023. (XII. 28.) GFM rendelet 5. § b) pontja hatályon kívül helyezte.

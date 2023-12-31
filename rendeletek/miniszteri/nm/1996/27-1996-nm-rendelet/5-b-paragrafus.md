@@ -1,8 +1,8 @@
-5/B. §[^44] (1) A munkáltató az általa kivizsgált fokozott expozíciós esetről – a miniszter honlapján közzétett módon – jegyzőkönyvet készít. A jegyzőkönyvet a fokozott expozícióval érintett munkavállalókra vonatkozóan személyenként kell kitölteni.
+5/B. §[^43] (1) A munkáltató az általa kivizsgált fokozott expozíciós esetről – a miniszter honlapján közzétett módon – jegyzőkönyvet készít. A jegyzőkönyvet a fokozott expozícióval érintett munkavállalókra vonatkozóan személyenként kell kitölteni.
 
 (2) A jegyzőkönyv tartalmazza:
 
-a)[^45] a bejelentésazonosítót, a vármegyekódot;
+a)[^44] a bejelentésazonosítót, a vármegyekódot;
 
 b) a fokozott expozíció megnevezését, valamint az előfordulás egyedi vagy tömeges jellegét;
 
@@ -42,5 +42,5 @@ a) a zaj okozta fokozott expozíciós eset bejelentésének alapjául szolgáló
 
 b) a fokozott vegyi expozíciós eset bejelentésének alapjául szolgáló biológiai expozíciós mutatók laboratóriumi vizsgálati eredményeit, valamint a munkahelyi levegőszennyezettség meghatározására irányuló vizsgálatok eredményeit.
 
-[^44]: Az 5/B. §-t a 10/2019. (IX. 4.) PM rendelet 11. §-a iktatta be.
-[^45]: Az 5/B. § (2) bekezdés a) pontja a 28/2022. (XII. 30.) GFM rendelet 3. § c) pontja szerint módosított szöveg.
+[^43]: Az 5/B. §-t a 10/2019. (IX. 4.) PM rendelet 11. §-a iktatta be.
+[^44]: Az 5/B. § (2) bekezdés a) pontja a 28/2022. (XII. 30.) GFM rendelet 3. § c) pontja szerint módosított szöveg.

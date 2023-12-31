@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-27-20-3
 | 2022-01-01 | 1996-27-20-3D.19 | 3/2012. (II. 10.) NGM rendelet |
 | 2023-01-01 | 1996-27-20-3D.20 | 28/2022. (XII. 30.) GFM rendelet |
 | 2023-01-02 | 1996-27-20-3D.21 | 10/2019. (IX. 4.) PM rendelet |
+| 2023-12-31 | 1996-27-20-3D.22 | 57/2023. (XII. 28.) GFM rendelet |
