@@ -1,4 +1,4 @@
-1. melléklet a 69/2016. (III. 31.) Korm. rendelethez[^47]
+1. melléklet a 69/2016. (III. 31.) Korm. rendelethez[^48]
 
 A koncessziós társaság miniszter részére nyújtott adatszolgáltatásának elemei
 
@@ -28,7 +28,7 @@ A koncessziós társaság miniszter részére nyújtott adatszolgáltatásának 
 
 2.1.1.1. Összes települési hulladék
 
-2.1.1.2. Közszolgáltatói résztevékenységből származó hulladék
+2.1.1.2.[^49] Közszolgáltatási résztevékenységből származó hulladék
 
 2.1.1.3. Intézményi résztevékenységből származó hulladék
 
@@ -108,4 +108,5 @@ A koncessziós társaság miniszter részére nyújtott adatszolgáltatásának 
 
 | 6. | Fogyasztóvédelmi bírságok összege |  | forint |
 
-[^47]: Az 1. melléklet a 277/2023. (VI. 29.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^48]: Az 1. melléklet a 277/2023. (VI. 29.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^49]: Az 1. melléklet 2.1.1.2. pontja a 675/2023. (XII. 29.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.

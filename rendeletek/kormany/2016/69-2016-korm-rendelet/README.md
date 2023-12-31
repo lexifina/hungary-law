@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-69-20-2
 | 2023-04-30 | 2016-69-20-22.10 | 105/2018. (VI. 15.) Korm. rendelet |
 | 2023-07-01 | 2016-69-20-22.11 | 277/2023. (VI. 29.) Korm. rendelet |
 | 2023-07-31 | 2016-69-20-22.14 | 277/2023. (VI. 29.) Korm. rendelet |
+| 2023-12-31 | 2016-69-20-22.15 | 675/2023. (XII. 29.) Korm. rendelet |
