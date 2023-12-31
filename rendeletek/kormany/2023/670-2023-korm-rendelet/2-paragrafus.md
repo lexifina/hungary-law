@@ -1,9 +1,3 @@
-2. § A Korm. rendelet 2. §-a helyébe a következő rendelkezés lép:
+2. §[^3]
 
-„2. § (1) A Beruházásokkal összefüggésben
-
-a) építészeti-műszaki tervpályázati eljárást nem kell lefolytatni,
-
-b) építészeti-műszaki tervtanácsi véleményt nem kell beszerezni.
-
-(2) Az Uszoda beruházás tekintetében az (1) bekezdés b) pontja nem alkalmazandó.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
