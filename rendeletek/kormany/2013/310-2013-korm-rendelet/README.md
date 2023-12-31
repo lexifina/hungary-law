@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-310-20-
 | 2021-04-01 | 2013-310-20-22.10 | 70/2016. (III. 31.) Korm. rendelet |
 | 2022-01-01 | 2013-310-20-22.11 | 70/2015. (III. 30.) Korm. rendelet |
 | 2023-01-01 | 2013-310-20-22.12 | 70/2015. (III. 30.) Korm. rendelet |
+| 2023-12-31 | 2013-310-20-22.14 | 158/2021. (III. 31.) Korm. rendelet |

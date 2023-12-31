@@ -94,7 +94,7 @@ b) a tervezési területen működő komposztáló telepek, átrakóállomások,
 
 c) a fejlesztést vagy felszámolást, illetve utógondozást igénylő hulladékgazdálkodási létesítmények, hulladéklerakók meghatározása, állapotának bemutatása, tulajdonosának, üzemeltetőjének megnevezése, a telephely jellemzőinek általános ismertetése.
 
-2.1.4. Be kell mutatni a tervezési területen működő közszolgáltató által végzett hulladékgazdálkodási tevékenységeket, valamint a hulladékgazdálkodási közszolgáltatás által a tervezési terület hulladékgazdálkodására gyakorolt hatását, különös tekintettel a Ht. 76. § (1) bekezdés i) pont ib) alpontjában foglaltakra.
+2.1.4. Be kell mutatni a tervezési területen működő hulladékgazdálkodási közszolgáltatási résztevékenységet ellátó koncessziós társaság, koncesszori alvállalkozó által végzett hulladékgazdálkodási tevékenységeket, valamint a hulladékgazdálkodási közszolgáltatási résztevékenységnek a tervezési terület hulladékgazdálkodására gyakorolt hatását, különös tekintettel a Ht. 76. § (1) bekezdés i) pont ib) alpontjában foglaltakra.
 
 2.1.5. Be kell mutatni azokat az intézkedéseket, melyek az újrafeldolgozásra vagy egyéb hasznosításra alkalmas hulladék lerakásának korlátozására irányulnak, különös tekintettel a Ht. 76. § (1) bekezdés i) pont ia) alpontjában foglaltakra.
 
@@ -136,4 +136,4 @@ A hulladékgazdálkodási terven belül a megelőzési program önálló szerkez
 
 Az összefoglalásban be kell mutatni a tervezési időszak alatt várható eredményeket, valamint a hulladékgazdálkodás további fejlesztésének lehetőségeit.
 
-[^13]: A 2. melléklet a 158/2021. (III. 31.) Korm. rendelet 13. § (1) bekezdése szerint módosított szöveg.
+[^13]: A 2. melléklet a 158/2021. (III. 31.) Korm. rendelet 13. § (1) bekezdése, a 675/2023. (XII. 29.) Korm. rendelet 8. §-a szerint módosított szöveg.
