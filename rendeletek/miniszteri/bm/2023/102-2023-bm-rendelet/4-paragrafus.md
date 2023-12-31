@@ -1,3 +1,3 @@
-4. § A 18/1998. (VI. 3.) NM rendelet 23/B. §-a helyébe a következő rendelkezés lép:
+4. §[^4]
 
-„23/B. § Az egészségügyi szolgáltató elvégezteti az általa foglalkoztatott egészségügyi dolgozók kanyaró elleni védőoltásra, illetve a kanyaró immunstátuszra vonatkozó dokumentáció ellenőrzését a foglalkozás-egészségügyi alapellátó szolgáltató által elvégzett munkaköri alkalmassági vizsgálat keretében. Amennyiben sem a kanyaró elleni védőoltásról, sem az immunstátuszról (ellenanyagok jelenlétéről) nem áll rendelkezésre dokumentáció, a munkavállalót vagy egy adag kombinált, kanyaró elleni komponenst is tartalmazó védőoltásban lehet részesíteni, vagy kanyaró elleni védettségre vonatkozó ellenanyag-vizsgálatot kell végezni. Amennyiben az ellenanyag-vizsgálat alapján a munkavállaló védett, a védőoltás beadása nem indokolt. Amennyiben az ellenanyag-vizsgálat alapján a dolgozó nem védett, a munkavállalónak fel kell ajánlani a kanyaró elleni védőoltást.”
+[^4]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

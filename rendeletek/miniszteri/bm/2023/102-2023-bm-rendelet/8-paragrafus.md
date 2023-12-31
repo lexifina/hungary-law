@@ -1,10 +1,11 @@
 8. § Hatályát veszti a 18/1998. (VI. 3.) NM rendelet
 
-a)[^1]
+a)[^8]
 
-b)[^2]
+b)[^9]
 
-c) 6. § (4) bekezdés b) pontja.
+c)[^10]
 
-[^1]: A 8. § a) pontja a 9. § (2) bekezdés alapján 2024. május 1-jén lép hatályba.
-[^2]: A 8. § b) pontja a 9. § (2) bekezdés alapján 2024. május 1-jén lép hatályba.
+[^8]: A 8. § a) pontja a 9. § (2) bekezdés alapján 2024. május 1-jén lép hatályba.
+[^9]: A 8. § b) pontja a 9. § (2) bekezdés alapján 2024. május 1-jén lép hatályba.
+[^10]: A 8. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

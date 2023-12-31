@@ -1,3 +1,3 @@
-6. § (1) A 18/1998. (VI. 3.) NM rendelet 1. melléklete az 1. melléklet szerint módosul.
+6. §[^6]
 
-(2) A 18/1998. (VI. 3.) NM rendelet 4. melléklete a 2. melléklet szerint módosul.
+[^6]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

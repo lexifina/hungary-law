@@ -1,3 +1,3 @@
-2. § A 18/1998. (VI. 3.) NM rendelet 16. § (2) bekezdés f) pontja helyébe a következő rendelkezés lép:
+2. §[^2]
 
-(A kormányhivatal)
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
