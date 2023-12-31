@@ -1,30 +1,22 @@
 ### 273. § [A nemzeti vagyonról szóló 2011. évi CXCVI. törvény módosítása]
 
-(1) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény 4. § (1) bekezdése a következő m) ponttal egészül ki:
+(1)
 
-(Az állam kizárólagos tulajdonába tartozik)
-
-## „m) az állam tulajdonában álló, a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény szerinti balatoni közstrandok.”
-
-(2) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény 5. § (3) bekezdése a következő e) ponttal egészül ki:
-
-(A helyi önkormányzat kizárólagos tulajdonát képező nemzeti vagyonba tartoznak)
-
-## „e) a helyi önkormányzat tulajdonában álló, a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény szerinti balatoni közstrandok.”
+(2)
 
 (3) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény
 
-a) 4. § (1) bekezdés l) pontjában a „földgáztároló.” szövegrész helyébe a „földgáztároló,” szöveg,
+a)
 
-b) 5. § (3) bekezdés d) pontjában a „közműveket.” szövegrész helyébe a „közműveket,” szöveg,
+b)
 
-c) 6. § (3a) bekezdésében az „és közkertek tulajdonközössége” szövegrész helyébe a „ , közkertek és a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény szerinti balatoni közstrandok tulajdonközössége” szöveg,
+c)
 
-d) 6. § (3b) bekezdésében az „és közkertek tulajdonjogát” szövegrész helyébe a „ , közkertek és a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény szerinti balatoni közstrandok tulajdonjogát” szöveg,
+d)
 
-e) 6. § (3c) bekezdésében az „és közkertek tulajdonjogát” szövegrész helyébe a „ , közkertek és a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény szerinti balatoni közstrandok tulajdonjogát” szöveg,
+e)
 
-f) 6. § (3e) bekezdésében az „és közkertek tekintetében” szövegrészek helyébe a „ , közkertek és a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény szerinti balatoni közstrandok tekintetében” szöveg,
+f)
 
 g)
 
