@@ -1,4 +1,4 @@
-10. § (1) A közszolgáltató a hulladékgyűjtő udvarban átvett és tárolt, valamint a hulladékgyűjtő udvarból elszállított hulladékról a telephelyen, naprakész módon üzemnaplót vezet.
+10. § (1)[^18] A hulladékgazdálkodási közszolgáltatási résztevékenységet ellátó koncessziós társaság, koncesszori alvállalkozó a hulladékgyűjtő udvarban átvett és tárolt, valamint a hulladékgyűjtő udvarból elszállított hulladékról a telephelyen, naprakész módon üzemnaplót vezet.
 
 (2) Az üzemnaplót a következő tartalommal kell vezetni:
 
@@ -6,15 +6,15 @@ a) a hulladékgyűjtő udvarban átvett és onnan elszállított hulladék menny
 
 b) a hulladék átvételének és elszállításának időpontja;
 
-c) a hulladékot a közszolgáltatónak átadó gazdálkodó szervezet neve, címe, székhelye (ha a hulladék átadója gazdálkodó szervezet);
+c)[^19] a hulladékot a hulladékgazdálkodási közszolgáltatási résztevékenységet ellátó koncessziós társaságnak, koncesszori alvállalkozónak átadó gazdálkodó szervezet neve, címe, székhelye (ha a hulladék átadója gazdálkodó szervezet);
 
-d) annak adatai, akinek részére a közszolgáltató a hulladékgyűjtő udvarban tárolt hulladékot átadja (ha a hulladékot nem a közszolgáltató kezeli);
+d)[^20] annak adatai, akinek részére a hulladékgazdálkodási közszolgáltatási résztevékenységet ellátó koncessziós társaság, koncesszori alvállalkozó a hulladékgyűjtő udvarban tárolt hulladékot átadja;
 
 e) az üzemvitellel kapcsolatos rendkívüli események (így különösen betörés, lopás, baleset); valamint
 
 f) a hatósági ellenőrzések megállapításai és az ezek hatására tett intézkedések.
 
-(3)[^2] A közszolgáltató a hulladékgyűjtő udvar részletes működési és ellenőrzési szabályait üzemeltetési szabályzatban rögzíti. A közszolgáltató az üzemeltetési szabályzat 1 példányát a hulladékgazdálkodási engedélyezési eljárás iránti kérelemhez csatolja. A hulladékgyűjtő udvar csak az üzemeltetési szabályzatban foglaltak szerint, a hulladékgazdálkodási hatóság általi jóváhagyását követően üzemeltethető.
+(3)[^21] A hulladékgazdálkodási közszolgáltatási résztevékenységet ellátó koncessziós társaság, koncesszori alvállalkozó a hulladékgyűjtő udvar részletes működési és ellenőrzési szabályait üzemeltetési szabályzatban rögzíti. A hulladékgazdálkodási közszolgáltatási résztevékenységet ellátó koncessziós társaság, koncesszori alvállalkozó az üzemeltetési szabályzat 1 példányát a hulladékgazdálkodási engedélyezési eljárás iránti kérelemhez csatolja. A hulladékgyűjtő udvar csak az üzemeltetési szabályzatban foglaltak szerint, a hulladékgazdálkodási hatóság általi jóváhagyását követően üzemeltethető.
 
 (4) Az üzemeltetési szabályzatban legalább
 
@@ -42,7 +42,7 @@ vonatkozó előírásokat kell meghatározni.
 
 (6) A hulladékgyűjtő udvar átvétellel, tárolással és előkezeléssel kapcsolatos hulladékgazdálkodási tevékenységet végző szakszemélyzetének hulladékgazdálkodási vagy környezetvédelmi szakirányú képesítéssel vagy szakoktatásban való részvételt igazoló dokumentummal kell rendelkeznie.
 
-(7) A közszolgáltató, valamint a települési önkormányzat
+(7)[^22] A hulladékgazdálkodási közszolgáltatási résztevékenységet ellátó koncessziós társaság, koncesszori alvállalkozó, valamint a települési önkormányzat
 
 a) a hulladékgyűjtő udvar elérhetőségéről és működési rendjéről;
 
@@ -56,4 +56,11 @@ a lakosságot a hulladékgyűjtő udvar bejáratánál, honlapján és a helyben
 
 (9) Veszélyes hulladék tárolása esetén a hulladékgyűjtő udvar kialakítására és üzemeltetésére a 2. melléklet szerinti műszaki előírásokat is alkalmazni kell.
 
-[^2]: A 10. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 255. § (3) bekezdés a) pontja, a 312/2021. (VI. 7.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+(10)[^23] Ezen alcím rendelkezéseit az 1. mellékletben felsorolt állami hulladékgazdálkodási közfeladat körébe nem tartozó hulladék esetében azzal az eltéréssel kell alkalmazni, hogy a tevékenységet a koncessziós társaság nem a hulladékgazdálkodási közszolgáltatási résztevékenység ellátása keretében végzi.
+
+[^18]: A 10. § (1) bekezdése a 675/2023. (XII. 29.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^19]: A 10. § (2) bekezdés c) pontja a 675/2023. (XII. 29.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
+[^20]: A 10. § (2) bekezdés d) pontja a 675/2023. (XII. 29.) Korm. rendelet 11. § b) pontja és 12. §-a szerint módosított szöveg.
+[^21]: A 10. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 255. § (3) bekezdés a) pontja, a 312/2021. (VI. 7.) Korm. rendelet 12. § a) pontja, a 675/2023. (XII. 29.) Korm. rendelet 11. § e) pontja szerint módosított szöveg.
+[^22]: A 10. § (7) bekezdés nyitó szövegrésze a 675/2023. (XII. 29.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^23]: A 10. § (10) bekezdését a 675/2023. (XII. 29.) Korm. rendelet 10. §-a iktatta be.

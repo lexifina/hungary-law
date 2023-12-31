@@ -10,13 +10,13 @@
 
 4. hulladékgyűjtő pont: a hulladékgyűjtő sziget és a speciális gyűjtőhely;
 
-5. hulladékgyűjtő sziget: különböző fajtájú, hasznosításra alkalmas hulladék elkülönített gyűjtésére és a közszolgáltatónak történő átadására szolgáló, felügyelet nélküli, közterületen kialakított, folyamatosan a lakosság rendelkezésére álló hulladékgyűjtő pont, amelyre gyűjtőedényt telepítettek;
+5.[^1] hulladékgyűjtő sziget: különböző fajtájú, hasznosításra alkalmas hulladék elkülönített gyűjtésére és a hulladékgazdálkodási közszolgáltatási résztevékenységet ellátó koncessziós társaságnak, koncesszori alvállalkozónak történő átadására szolgáló, felügyelet nélküli, közterületen kialakított, folyamatosan a lakosság rendelkezésére álló hulladékgyűjtő pont, amelyre gyűjtőedényt telepítettek;
 
-6. hulladékgyűjtő udvar: az 1. mellékletben meghatározott hulladék átvételére és elszállításig történő tárolására szolgáló, közszolgáltató által üzemeltetett, felügyelettel biztosított telephely;
+6.[^2] hulladékgyűjtő udvar: az 1. mellékletben meghatározott hulladék átvételére és elszállításig történő tárolására szolgáló, hulladékgazdálkodási közszolgáltatási résztevékenységet ellátó koncessziós társaság, koncesszori alvállalkozó által üzemeltetett, felügyelettel biztosított telephely;
 
 7. hulladékkezelő létesítmény: az átrakóállomás, a válogatómű, a hulladék előkezelését biztosító telephely, berendezés, valamint a hulladékhasznosító és a hulladékártalmatlanító létesítmény;
 
-8.[^1] hulladéktároló hely: olyan, e rendeletben meghatározott műszaki kialakítással rendelkező terület vagy építmény, amely a gyűjtő, a kereskedő vagy a hulladékkezelő által átvett, illetve összegyűjtött hulladék hasznosításig vagy ártalmatlanításig történő tárolására szolgál, ideértve a hulladékgazdálkodással kapcsolatos ártalmatlanítási és hasznosítási műveletek felsorolásáról szóló 43/2016. (VI. 28.) FM rendelet 1. mellékletének D12 ártalmatlanítási műveletét is;
+8.[^3] hulladéktároló hely: olyan, e rendeletben meghatározott műszaki kialakítással rendelkező terület vagy építmény, amely a gyűjtő, a kereskedő vagy a hulladékkezelő által átvett, illetve összegyűjtött hulladék hasznosításig vagy ártalmatlanításig történő tárolására szolgál, ideértve a hulladékgazdálkodással kapcsolatos ártalmatlanítási és hasznosítási műveletek felsorolásáról szóló 43/2016. (VI. 28.) FM rendelet 1. mellékletének D12 ártalmatlanítási műveletét is;
 
 9. komposztáló telep: olyan hulladékhasznosító létesítmény, ahol a biológiailag lebomló hulladék komposztálását végzik;
 
@@ -34,4 +34,6 @@
 
 (2) Az e rendeletben meg nem határozott fogalmak tekintetében a Ht.-ben, az egészségügyről szóló törvényben, a biohulladék kezeléséről és a komposztálás műszaki követelményeiről szóló miniszteri rendeletben, valamint a hulladékkal kapcsolatos nyilvántartási és adatszolgáltatási kötelezettségekről szóló kormányrendeletben meghatározott fogalmakat kell alkalmazni.
 
-[^1]: A 2. § (1) bekezdés 8. pontja a 196/2016. (VII. 13.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^1]: A 2. § (1) bekezdés 5. pontja a 675/2023. (XII. 29.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdés 6. pontja a 675/2023. (XII. 29.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdés 8. pontja a 196/2016. (VII. 13.) Korm. rendelet 4. §-a szerint módosított szöveg.

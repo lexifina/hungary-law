@@ -2,7 +2,7 @@
 
 ## ** A **-gal megjelölt hulladékot valamennyi hulladékgyűjtő udvarban kötelezően át kell venni a hulladékgyűjtő udvar gyűjtési kapacitásának erejéig.
 
-## 4K13715_0
+## 3X12372M.docx
 
 | A | B | C | D |
 
@@ -248,7 +248,7 @@
 
 |  |  | 20 01 19* | növényvédő szer** |
 
-|  |  | 20 01 21* | fénycsövek és egyéb higanytartalmú hulladék |
+|  |  | 20 01 21* | fénycsövek és egyéb higanytartalmú hulladék** |
 
 |  |  | 20 01 23* | klór-fluor-szénhidrogént tartalmazó kiselejtezett berendezés |
 
