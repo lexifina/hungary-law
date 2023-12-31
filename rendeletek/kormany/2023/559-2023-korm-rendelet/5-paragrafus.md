@@ -1,0 +1,1 @@
+5. § A környezetben tartósan megmaradó szerves szennyező anyagokról szóló 2019/1021/EU rendelet I. és II. mellékletében szereplő anyagokat tartalmazó biológiailag lebomló hulladék nem komposztálható, erjesztési maradékká nem alakítható.

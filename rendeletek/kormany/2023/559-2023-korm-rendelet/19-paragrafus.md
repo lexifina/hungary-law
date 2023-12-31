@@ -1,0 +1,1 @@
+19. § Aki az e rendelet hatálybalépését megelőzően az élelmiszer-hulladékáról a nem emberi fogyasztásra szánt állati eredetű melléktermékekre vonatkozó állategészségügyi szabályok megállapításáról szóló rendelet (a továbbiakban: Rendelet) szabályai szerint gondoskodott, az ezen tevékenységét e rendelet hatálybalépését követően is a Rendelet szabályainak megfelelően folytathatja.
