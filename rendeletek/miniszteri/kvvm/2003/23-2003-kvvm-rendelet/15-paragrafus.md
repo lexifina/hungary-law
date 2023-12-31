@@ -1,1 +1,0 @@
-## 14. § A hulladékkezelési engedélynek – a külön jogszabályban12 meghatározottakon túl – tartalmaznia kell az e rendelet 1. számú melléklete alapján a kezelhető biohulladék megnevezését, tervezett mennyiségét, összetételét, valamint a kezelés során felhasználásra kerülő segédanyagokat.
