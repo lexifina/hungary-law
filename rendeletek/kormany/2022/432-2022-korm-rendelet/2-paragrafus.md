@@ -24,8 +24,9 @@
 
 (12) Amennyiben a koncessziós időszak utolsó napjáig már kevesebb mint 10 év van hátra, a gördülő fejlesztési rendszertervet a koncessziós társaság a koncessziós időszak utolsó napjáig tartó időtartamra köteles évenként felülvizsgálni.
 
-(13) Ha a miniszter a jóváhagyásra előírt határidőn belül nem nyilatkozik, úgy kell tekinteni, hogy a jogszerű hallgatással létrehozott határozatban a gördülő fejlesztési rendszertervet jóváhagyta.
+(13)[^4]
 
 [^1]: A 2. § (1) bekezdése az 5. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^2]: A 2. § (3) bekezdése az 5. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^3]: A 2. § (4) bekezdését az 5. § (2) bekezdése hatályon kívül helyezte.
+[^4]: A 2. § (13) bekezdését a 675/2023. (XII. 29.) Korm. rendelet 24. §-a hatályon kívül helyezte.
