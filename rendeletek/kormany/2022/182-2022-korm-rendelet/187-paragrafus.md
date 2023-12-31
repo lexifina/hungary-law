@@ -1,8 +1,8 @@
 ## VI. Fejezet
 
-## 18.[^82] Stratégiai Kabinet
+## 18.[^84] Stratégiai Kabinet
 
-187. §[^83] (1)[^84] A Stratégiai Kabinet a Kormány vagy a miniszterelnök által meghatározott, így különösen
+187. §[^85] (1)[^86] A Stratégiai Kabinet a Kormány vagy a miniszterelnök által meghatározott, így különösen
 
 1. az aktív Magyarországért,
 
@@ -110,15 +110,15 @@
 
 való felelősségi körökben a Kormány ügydöntő jogkörrel rendelkező szerve.
 
-(2)[^85] A Stratégiai Kabinet – az (1) bekezdésben foglaltakon túl – a Kormány ügydöntő jogkörrel rendelkező szerve bármely olyan előterjesztés és jelentés kapcsán, amely napirendre felvételét a Stratégiai Kabinet elnöke kéri.
+(2)[^87] A Stratégiai Kabinet – az (1) bekezdésben foglaltakon túl – a Kormány ügydöntő jogkörrel rendelkező szerve bármely olyan előterjesztés és jelentés kapcsán, amely napirendre felvételét a Stratégiai Kabinet elnöke kéri.
 
-(3)[^86] A Miniszterelnökséget vezető miniszter – a (4) bekezdésében meghatározott kivétellel – vezeti a Stratégiai Kabinet üléseit.
+(3)[^88] A Miniszterelnökséget vezető miniszter – a (4) bekezdésében meghatározott kivétellel – vezeti a Stratégiai Kabinet üléseit.
 
-(4)[^87] Az európai uniós ügyekért felelős miniszter vezeti a Stratégiai Kabinet ülését, amikor a Stratégiai Kabinet az (1) bekezdés 9–11. pontja szerinti felelősségi körbe tartozó előterjesztést, illetve jelentést tárgyal.
+(4)[^89] Az európai uniós ügyekért felelős miniszter vezeti a Stratégiai Kabinet ülését, amikor a Stratégiai Kabinet az (1) bekezdés 9–11. pontja szerinti felelősségi körbe tartozó előterjesztést, illetve jelentést tárgyal.
 
-[^82]: A 18. alcím címe az 531/2023. (XII. 5.) Korm. rendelet 8. §-a szerint módosított szöveg.
-[^83]: A 187. § a 261/2022. (VII. 21.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^84]: A 187. § (1) bekezdése a 314/2023. (VII. 17.) Korm. rendelet 21. §-ával megállapított, nyitó szövegrésze az 531/2023. (XII. 5.) Korm. rendelet 8. §-a szerint módosított szöveg.
-[^85]: A 187. § (2) bekezdése az 531/2023. (XII. 5.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^86]: A 187. § (3) bekezdését az 531/2023. (XII. 5.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^87]: A 187. § (4) bekezdését az 531/2023. (XII. 5.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^84]: A 18. alcím címe az 531/2023. (XII. 5.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^85]: A 187. § a 261/2022. (VII. 21.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^86]: A 187. § (1) bekezdése a 314/2023. (VII. 17.) Korm. rendelet 21. §-ával megállapított, nyitó szövegrésze az 531/2023. (XII. 5.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^87]: A 187. § (2) bekezdése az 531/2023. (XII. 5.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^88]: A 187. § (3) bekezdését az 531/2023. (XII. 5.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^89]: A 187. § (4) bekezdését az 531/2023. (XII. 5.) Korm. rendelet 3. § (2) bekezdése iktatta be.

@@ -1,3 +1,3 @@
-198. §[^98] Az Energiaügyi Minisztérium a Magyarország minisztériumainak felsorolásáról szóló 2022. évi II. törvény szerinti Technológiai és Ipari Minisztérium átnevezésével működik tovább.
+198. §[^101] Az Energiaügyi Minisztérium a Magyarország minisztériumainak felsorolásáról szóló 2022. évi II. törvény szerinti Technológiai és Ipari Minisztérium átnevezésével működik tovább.
 
-[^98]: A 198. §-t a 467/2022. (XI. 21.) Korm. rendelet 13. §-a iktatta be.
+[^101]: A 198. §-t a 467/2022. (XI. 21.) Korm. rendelet 13. §-a iktatta be.

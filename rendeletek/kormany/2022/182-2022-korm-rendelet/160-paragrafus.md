@@ -10,7 +10,7 @@
 
 4. körforgásos gazdaságra történő átállásért és a termékértéklánc-felügyeletért,
 
-5. hulladékgazdálkodási közszolgáltatási és szolgáltatási díj megállapításáért,
+5.[^64] hulladékgazdálkodási közszolgáltatási és hulladékgazdálkodási intézményi résztevékenység ellátásával összefüggő díj megállapításáért,
 
 6. hulladékgazdálkodásért,
 
@@ -26,3 +26,4 @@ felelős tagja.
 
 [^62]: A 15. alcím címe a 467/2022. (XI. 21.) Korm. rendelet 16. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^63]: A 160. § a 467/2022. (XI. 21.) Korm. rendelet 10. §-ával megállapított, ugyanezen módosító rendelet 16. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^64]: A 160. § 5. pontja a 675/2023. (XII. 29.) Korm. rendelet 23. §-a szerint módosított szöveg.
