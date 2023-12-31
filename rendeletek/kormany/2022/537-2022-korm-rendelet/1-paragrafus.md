@@ -1,1 +1,0 @@
-1. § A központi költségvetés kiegészítő támogatási előleget biztosít az egyházi fenntartó részére a bevett egyház és annak belső egyházi jogi személye, valamint az egyházi fenntartású felsőoktatási intézmény által fenntartott köznevelési és szakképző intézményeket érintő energiaár-növekedésből adódó 2022. évi többletkiadások ellentételezéséhez.

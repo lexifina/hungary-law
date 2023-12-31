@@ -1,1 +1,0 @@
-3. § A kiegészítő támogatásra a Vhr. elszámolásra, ellenőrzésére és visszafizetésére vonatkozó szabályait nem kell alkalmazni, de a kiegészítő támogatást a bevett egyház köteles elkülönítetten nyilvántartani és a támogatás teljes összegét az 1. § szerinti célokra fordítani.
