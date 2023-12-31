@@ -1,3 +1,1 @@
-78. § A Be. 73. §-a a következő (6a) bekezdéssel egészül ki:
-
-„(6a) A nyomozó hatóság a vádemelés előtt az (5) bekezdés b) pontjában meghatározott esetben a törvényes képviselőt kizárhatja az eljárásból, ha az ügyészség döntésének beszerzése olyan késedelemmel járna, amely az eljárási cselekmény eredményességét veszélyeztetné. Ebben az esetben a nyomozó hatóság nyolc napon belül kezdeményezi az ügyészségnél a törvényes képviselő kizárását. Ha az ügyészség a törvényes képviselő kizárását nem rendeli el, a törvényes képviselő távollétében az általa képviselt tanú vagy terhelt vallomása bizonyítékként nem használható fel, kivéve, ha a tanú vagy a terhelt a törvényes képviselő távollétében tett vallomását a törvényes képviselő jelenlétében is fenntartja.”
+### 78. §
