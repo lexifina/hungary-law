@@ -28,7 +28,7 @@ A környezetben tartósan megmaradó szerves szennyező anyagokról szóló, 201
 
 1.12. Hexaklór-butadién.
 
-1.13.[^12] Perfluor-oktánsav (PFOA), a PFOA sói és a PFOA-rokon vegyületek.
+1.13.[^13] Perfluor-oktánsav (PFOA), a PFOA sói és a PFOA-rokon vegyületek.
 
 2. Nem szándékos előállításból származó anyagok:
 
@@ -76,7 +76,7 @@ A környezetben tartósan megmaradó szerves szennyező anyagokról szóló, 201
 
 3.14. Pentaklór-fenol, valamint annak sói és észterei.
 
-3.15.[^13] Dikofol.
+3.15.[^14] Dikofol.
 
-[^12]: Az 1. melléklet 1. pont 1.13. alpontját a 681/2020. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
-[^13]: Az 1. melléklet 2. pont 3.15. alpontját a 681/2020. (XII. 28.) Korm. rendelet 3. §-a iktatta be.
+[^13]: Az 1. melléklet 1. pont 1.13. alpontját a 681/2020. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
+[^14]: Az 1. melléklet 2. pont 3.15. alpontját a 681/2020. (XII. 28.) Korm. rendelet 3. §-a iktatta be.
