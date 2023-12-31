@@ -4,4 +4,4 @@
 
 (2)
 
-(3)
+(3) Hatályát veszti a Ht. 18. §-a.
