@@ -1,1 +1,0 @@
-7. § Az Országgyűlés jóváhagyja, hogy az államháztartásért felelős miniszter – a Gst. 11. § (1) bekezdésében foglalt felhatalmazás alapján – a Kincstári Egységes Számla (a továbbiakban: KESZ) folyamatos likviditása érdekében 403 545,7 millió forint összegű devizakötvény kibocsátást hajtott végre.

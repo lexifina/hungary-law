@@ -1,1 +1,0 @@
-13. § Az Országgyűlés jóváhagyja, hogy az Európai Gazdasági Térség Finanszírozási Mechanizmus és a Norvég Finanszírozási Mechanizmus, valamint a Svájci–Magyar Együttműködési Program II forrásaira 2020. évben nem történt kötelezettségvállalás.
