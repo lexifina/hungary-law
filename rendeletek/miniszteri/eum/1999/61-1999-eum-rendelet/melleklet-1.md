@@ -10,10 +10,10 @@ A foglalkozási tevékenységek típusainak tájékoztató jegyzéke
 
 4. Az egészségügyi és szociális ellátásban végzett munkák, beleértve az elkülönítő, valamint a kórbonctani részlegeket.
 
-5.[^29] A klinikai, állatorvosi diagnosztikai laboratóriumokban végzett munkák a diagnosztikai mikrobiológiai laboratóriumok kivételével.
+5.[^33] A klinikai, állatorvosi diagnosztikai laboratóriumokban végzett munkák a diagnosztikai mikrobiológiai laboratóriumok kivételével.
 
 6. A hulladék megsemmisítő, ártalmatlanító létesítményekben végzett munkák.
 
 7. A szennyvíztisztító berendezésekben, járható szelvényű szennyvízelvezető művekben végzett munkák.
 
-[^29]: Az 1. számú melléklet 5. pontja a 32/2021. (VII. 26.) ITM rendelet 6. §-ával megállapított szöveg.
+[^33]: Az 1. számú melléklet 5. pontja a 32/2021. (VII. 26.) ITM rendelet 6. §-ával megállapított szöveg.

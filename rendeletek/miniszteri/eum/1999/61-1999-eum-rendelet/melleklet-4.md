@@ -1,4 +1,4 @@
-4. számú melléklet a 61/1999. (XII. 1.) EüM rendelethez[^31]
+4. számú melléklet a 61/1999. (XII. 1.) EüM rendelethez[^35]
 
 Védelmi intézkedésekre és szintekre vonatkozó jelzések
 
@@ -52,4 +52,4 @@ Védelmi intézkedésekre és szintekre vonatkozó jelzések
 
 2.3. *** Légzsilip: csak egy légzsilipen át lehet bejutni, ami egy, a laboratóriumtól elkülönített kis helyiség. A zsilip fehér oldalát a fekete oldaltól öltözővel vagy zuhanyzóval és lehetőleg olyan ajtókkal kell elszigetelni, amelyek egyidejűleg nem nyithatóak.
 
-[^31]: A 4. számú melléklet a 40/2020. (XI. 4.) ITM rendelet 2. § b) pontjával megállapított szöveg.
+[^35]: A 4. számú melléklet a 40/2020. (XI. 4.) ITM rendelet 2. § b) pontjával megállapított szöveg.

@@ -56,6 +56,6 @@
 
 ## 2.3. *** Légzsilip: csak egy légzsilipen át lehet bejutni, ami egy, a laboratóriumtól elkülönített kis helyiség. A zsilip fehér oldalát a fekete oldaltól öltözővel vagy zuhanyzóval és lehetőleg olyan ajtókkal kell elszigetelni, amelyek egyidejűleg nem nyithatóak.
 
-6. számú melléklet a 61/1999. (XII. 1.) EüM rendelethez[^33]
+6. számú melléklet a 61/1999. (XII. 1.) EüM rendelethez[^37]
 
-[^33]: A 6. számú mellékletet a 62/2016. (XII. 29.) NGM rendelet 51. § (4) bekezdése iktatta be, szövege a 28/2022. (XII. 30.) GFM rendelet 6. § b) pontja szerint módosított szöveg.
+[^37]: A 6. számú mellékletet a 62/2016. (XII. 29.) NGM rendelet 51. § (4) bekezdése iktatta be, a 60/2023. (XII. 28.) GFM rendelet 3. § e) pontja hatályon kívül helyezte.

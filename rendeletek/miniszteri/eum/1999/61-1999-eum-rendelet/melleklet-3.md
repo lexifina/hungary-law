@@ -2,7 +2,7 @@
 
 ## [Lásd: 2/1998. (I. 16.) MüM rendelet a munkahelyi egészségvédelmi és biztonsági jelzésekről]
 
-3. számú melléklet a 61/1999. (XII. 1.) EüM rendelethez[^30]
+3. számú melléklet a 61/1999. (XII. 1.) EüM rendelethez[^34]
 
 Biológiai tényezők csoportba való sorolása
 
@@ -1376,4 +1376,4 @@ Az ilyen munkavállalók többletkockázatát a jogszabály által előírt kock
 
 | 42. | Trichophyton spp. | 2 |  |
 
-[^30]: A 3. számú melléklet a 32/2021. (VII. 26.) ITM rendelet 7. §-ával megállapított szöveg.
+[^34]: A 3. számú melléklet a 32/2021. (VII. 26.) ITM rendelet 7. §-ával megállapított szöveg.
