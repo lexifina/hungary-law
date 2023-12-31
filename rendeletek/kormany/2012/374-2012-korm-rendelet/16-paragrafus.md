@@ -164,6 +164,10 @@
 
 82. [^82] a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének a tudományos és műszaki fejlődéshez történő hozzáigazítás céljából, a hat vegyértékű króm helyiségfűtésre és vízmelegítésre szolgáló gázabszorpciós hőszivattyúkban korróziógátló szerként való felhasználására vonatkozó mentesség tekintetében történő módosításáról szóló, 2022. október 28-i (EU) 2023/171 felhatalmazáson alapuló bizottsági irányelvnek
 
+83. [^83] a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének a higany kapilláris reométerek olvadéknyomás-jelátalakítóiban, bizonyos feltételek mellett történő használatára vonatkozó mentesség tekintetében, a tudományos és műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2023. május 4-i (EU) 2023/1437 felhatalmazáson alapuló bizottsági irányelvnek,
+
+84. [^84] a 2011/65/EU európai parlamenti és tanácsi irányelvnek az in vitro diagnosztikai orvostechnikai eszközökben használt érzékelők alapanyagaként szolgáló polivinilkloridban lévő ólomra vonatkozó mentesség tekintetében történő módosításáról szóló, 2023. május 16-i (EU) 2023/1526 felhatalmazáson alapuló bizottsági irányelvnek
+
 [^27]: A 16. § a 258/2014. (X. 10.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^28]: A 16. § 28. pontját a 365/2015. (XII. 2.) Korm. rendelet 1. §-a iktatta be.
 [^29]: A 16. § 29. pontját a 365/2015. (XII. 2.) Korm. rendelet 1. §-a iktatta be.
@@ -220,3 +224,5 @@
 [^80]: A 16. § 80. pontját a 43/2023. (II. 20.) Korm. rendelet 1. §-a iktatta be.
 [^81]: A 16. § 81. pontját a 43/2023. (II. 20.) Korm. rendelet 1. §-a iktatta be.
 [^82]: A 16. § 82. pontját a 261/2023. (VI. 28.) Korm. rendelet 1. §-a iktatta be.
+[^83]: A 16. § 83. pontját a 633/2023. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
+[^84]: A 16. § 84. pontját a 633/2023. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
