@@ -1,3 +1,1 @@
-102. § A foglalkoztatást elősegítő szolgáltatásokról és támogatásokról, valamint a foglalkoztatás felügyeletéről szóló 2020. évi CXXXV. törvény 10. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) Az (1) vagy (2) bekezdésben foglalt intézkedés nem alkalmazható, ha a foglalkoztató a TAJ számmal nem rendelkező foglalkoztatott részére a foglalkoztatás megkezdése előtt kérte a TAJ szám kiadását a székhelye szerint illetékes egészségbiztosítási pénztári feladatkörében eljáró kormányhivataltól, valamint a TAJ számot az adatképzésről kapott értesítéstől számított nyolc napon belül az adóhatóságnak bejelentette.”
+### 102. §

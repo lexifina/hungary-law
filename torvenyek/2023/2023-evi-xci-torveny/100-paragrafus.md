@@ -1,1 +1,1 @@
-100. § Az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény 20/A. § (2) bekezdésében az „ide nem értve” szövegrész helyébe a „kivéve” szöveg, a „kötött szerződést” szövegrész helyébe a „kötött szerződést, és az ellátási érdekből a Kormány által kijelölt szerv előzetes engedélyével létesített szerződést” szöveg lép.
+### 100. §

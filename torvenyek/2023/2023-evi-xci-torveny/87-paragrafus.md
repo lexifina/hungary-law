@@ -6,10 +6,10 @@ b)
 
 c)
 
-d) 343. § (3) bekezdésében a „2024. január 1-jén” szövegrész helyébe a „2025. január 1-jén” szöveg,
+d)
 
-e) 343. § (4) bekezdésében a „2024. január 1-jén” szövegrész helyébe a „2025. január 1-jén” szöveg,
+e)
 
-f) 350. § (4) bekezdésében a „2023. december 31-ig” szövegrész helyébe a „2024. december 31-ig” szöveg
+f)
 
 lép.
