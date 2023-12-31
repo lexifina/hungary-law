@@ -1,0 +1,1 @@
+4. § A 27/1996. NM rendelet 4. § (3) bekezdésében az „az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény (a továbbiakban: Eüak.) 15. §-ának (1) bekezdésében” szövegrész helyébe az „az Eüak. 15/A. § (1) bekezdésében” szöveg lép.
