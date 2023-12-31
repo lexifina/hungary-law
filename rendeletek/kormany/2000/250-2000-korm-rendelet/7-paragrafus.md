@@ -106,6 +106,8 @@ A hátrasorolt kötelezettségeken belül a könyvviteli nyilvántartásokban el
 
 (17)[^96] A valós értéken történő értékelés esetén a mérlegben a forrásokon belül a hitelintézetekkel szembeni kötelezettségek és az ügyfelekkel szembeni kötelezettségek, illetve az egyéb kötelezettségek után külön-külön önálló tételként kell bemutatni az értékpapír kölcsön ügyletből a kölcsönbe vevőnél keletkezett kötelezettséghez kapcsolódó értékelési különbözet összegét, illetve a származékos ügyletek negatív értékelési különbözetének összegét.
 
+(18)[^97] A pénzügyi intézmény saját döntése alapján a mérlegben kimutathatja a Tv. 3. § (16) bekezdése szerinti halasztott adókövetelést és halasztott adókötelezettséget, a Tv. halasztott adóra vonatkozó előírásainak alkalmazásával.
+
 [^79]: A 7. § (1) bekezdésének a) pontja a 291/2001. (XII. 26.) Korm. rendelet 5. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 22. §-a (1) bekezdésének b) pontja alapján rendelkezéseit először a 2002. évben induló üzleti évről készített éves beszámolóra kell alkalmazni.
 [^80]: A 7. § (1) bekezdésének c) pontját a 291/2001. (XII. 26.) Korm. rendelet 5. §-ának (2) bekezdése iktatta be, szövege a 484/2015. (XII. 29.) Korm. rendelet 59. § (1) bekezdésével megállapított szöveg.
 [^81]: A 7. § (1) bekezdésének d) pontját a 291/2001. (XII. 26.) Korm. rendelet 5. §-ának (2) bekezdése iktatta be, szövege a 484/2015. (XII. 29.) Korm. rendelet 59. § (1) bekezdésével megállapított szöveg.
@@ -124,3 +126,4 @@ A hátrasorolt kötelezettségeken belül a könyvviteli nyilvántartásokban el
 [^94]: A 7. § (13) bekezdését az 518/2013. (XII. 30.) Korm. rendelet 35. § 1. pontja hatályon kívül helyezte.
 [^95]: A 7. § (14) bekezdés a) pontja a 480/2016. (XII. 28.) Korm. rendelet 41. §-ával megállapított szöveg.
 [^96]: A 7. § (17) bekezdését a 238/2003. (XII. 17.) Korm. rendelet 4. § (2) bekezdése iktatta be, e módosító rendelet 18. § (1)–(2) bekezdése alapján a rendelkezést először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, illetve a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
+[^97]: A 7. § (18) bekezdését a 642/2023. (XII. 28.) Korm. rendelet 14. §-a iktatta be.

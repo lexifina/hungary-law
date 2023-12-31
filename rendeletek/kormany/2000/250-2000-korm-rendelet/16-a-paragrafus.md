@@ -1,6 +1,6 @@
-## Sajátos szállításos repo ügyletek elszámolása[^233]
+## Sajátos szállításos repo ügyletek elszámolása[^234]
 
-16/A. §[^234] (1) Sajátos szállításos repo ügyletnek minősül az olyan szállításos repo ügylet, amely megfelel az alábbi feltételeknek:
+16/A. §[^235] (1) Sajátos szállításos repo ügyletnek minősül az olyan szállításos repo ügylet, amely megfelel az alábbi feltételeknek:
 
 a) az értékpapír eladási ára a piaci értékével összhangban kerül meghatározásra,
 
@@ -28,5 +28,5 @@ akkor a felek közötti szerződés szerint az ügyletet le kell zárni, vagy az
 
 (7) A (6) bekezdés esetében a futamidő végén történő visszaszolgáltatás érdekében beszerzett értékpapírt a repoba adóval szembeni kötelezettség csökkentésével egyidejűleg kell a könyvekből kivezetni és azok értéke között fennálló különbözetet a kamatbevételek, illetve a kamatráfordítások között kell elszámolni, jellegétől függően.
 
-[^233]: A 16/A. §-t megelőző alcímet a 246/2008. (X. 10.) Korm. rendelet 1. §-a iktatta be.
-[^234]: A 16/A. §-t a 246/2008. (X. 10.) Korm. rendelet 1. §-a iktatta be.
+[^234]: A 16/A. §-t megelőző alcímet a 246/2008. (X. 10.) Korm. rendelet 1. §-a iktatta be.
+[^235]: A 16/A. §-t a 246/2008. (X. 10.) Korm. rendelet 1. §-a iktatta be.

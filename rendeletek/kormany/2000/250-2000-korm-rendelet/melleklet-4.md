@@ -388,9 +388,9 @@ Az összevont (konszolidált) éves beszámolót készítő pénzügyi intézmé
 
 ## „,,c) Konszolidációból adódó (számított) társasági adókövetelés''”
 
-3. A Források ,,4. Egyéb kötelezettségek'' sora kiegészül az alábbi c) ponttal:
+3.[^379] A Források ,,4. Egyéb kötelezettségek'' sora kiegészül az alábbi d) ponttal:
 
-## „,,c) Konszolidációból adódó (számított) társasági adókötelezettség''”
+## „,,d) Konszolidációból adódó (számított) társasági adókötelezettség''”
 
 4. A Források ,,7. Hátrasorolt kötelezettségek'' sorának ,,a) alárendelt kölcsöntőke'' pontja kiegészül az alábbi aa) alponttal:
 
@@ -399,3 +399,5 @@ Az összevont (konszolidált) éves beszámolót készítő pénzügyi intézmé
 ## – leányvállalatból, közös vezetésű vállalkozásból''”
 
 5. A Források kiegészülnek a következő 16–18. ponttal:
+
+[^379]: A 4. melléklet 3. pontja a 642/2023. (XII. 28.) Korm. rendelet 16. § 3. pontja szerint módosított szöveg.

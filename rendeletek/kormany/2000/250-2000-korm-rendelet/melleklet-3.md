@@ -214,12 +214,14 @@
 
 ## 20. Adófizetési kötelezettség
 
-## 21. Adózott eredmény (±19-20)
+## 20/A. Halasztott adókülönbözet (±)
+
+## 21. Adózott eredmény (±19–20±20/A)
 
 ## 22. Általános tartalékképzés, felhasználás (±)
 
 ## 23. Tárgyévi eredmény (21-22)
 
-3. számú melléklet a 250/2000. (XII. 24.) Korm. rendelethez[^375]
+3. számú melléklet a 250/2000. (XII. 24.) Korm. rendelethez[^378]
 
-[^375]: A 3. számú melléklet a 238/2003. (XII. 17.) Korm. rendelet 17. §-a, a 343/2019. (XII. 23.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^378]: A 3. számú melléklet a 238/2003. (XII. 17.) Korm. rendelet 17. §-a, a 343/2019. (XII. 23.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
