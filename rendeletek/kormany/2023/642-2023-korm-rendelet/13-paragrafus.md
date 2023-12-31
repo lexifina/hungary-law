@@ -1,3 +1,3 @@
-13. §[^13]
+13. §[^9]
 
-[^13]: A 13. § a 39. § (3) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^9]: A 13. § a 39. § (3) bekezdés alapján 2024. január 1-jén lép hatályba.

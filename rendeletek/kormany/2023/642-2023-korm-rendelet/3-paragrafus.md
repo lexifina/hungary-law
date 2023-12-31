@@ -1,3 +1,9 @@
-3. §[^3]
+3. § A Biztkr.
 
-[^3]: A 3. § a 39. § (2) bekezdés alapján 2023. december 31-én lép hatályba.
+1. 1. számú melléklete az 1. melléklet szerint,
+
+2. 2. számú melléklete a 2. melléklet szerint,
+
+3. 4. számú melléklete a 3. melléklet szerint,
+
+4. 5. számú melléklete a 4. melléklet szerint

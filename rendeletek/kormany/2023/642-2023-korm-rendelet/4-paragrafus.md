@@ -1,3 +1,3 @@
-4. §[^4]
+## módosul.
 
-[^4]: A 4. § a 39. § (2) bekezdés alapján 2023. december 31-én lép hatályba.
+4. § A Biztkr. 14. §-ában a „92. §” szövegrész helyébe a „92. § (1)–(4)” szöveg lép.

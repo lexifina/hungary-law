@@ -1,3 +1,9 @@
-9. melléklet a 642/2023. (XII. 28.) Korm. rendelethez[^44]
+## A Hitkr. 5. számú melléklet 4. pontja helyébe a következő rendelkezés lép:
 
-[^44]: A 9. melléklet a 39. § (2) bekezdés alapján 2023. december 31-én lép hatályba.
+## „4. Az eredménykimutatás „20. Adófizetési kötelezettség” sora a következő a)–b) ponttal egészül ki:
+
+## a) „konszolidálásból adódó (számított) társasági adókülönbözet (±)
+
+## b) halasztott adókülönbözet (±)””
+
+9. melléklet a 642/2023. (XII. 28.) Korm. rendelethez

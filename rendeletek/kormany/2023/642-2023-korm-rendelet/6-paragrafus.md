@@ -1,3 +1,3 @@
-6. §[^6]
+6. §[^2]
 
-[^6]: A 6. § a 39. § (3) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^2]: A 6. § a 39. § (3) bekezdés alapján 2024. január 1-jén lép hatályba.

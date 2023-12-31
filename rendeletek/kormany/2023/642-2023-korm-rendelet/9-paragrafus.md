@@ -1,3 +1,3 @@
-9. §[^9]
+9. §[^5]
 
-[^9]: A 9. § a 39. § (3) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^5]: A 9. § a 39. § (3) bekezdés alapján 2024. január 1-jén lép hatályba.

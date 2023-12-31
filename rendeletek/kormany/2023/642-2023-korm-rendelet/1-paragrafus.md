@@ -1,5 +1,5 @@
 ## 1. A biztosítók éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló 192/2000. (XI. 24.) Korm. rendelet módosítása
 
-1. §[^1]
+1. § A biztosítók éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló 192/2000. (XII. 24.) Korm. rendelet (a továbbiakban: Biztkr.) 3. §-a a következő (6) bekezdéssel egészül ki:
 
-[^1]: Az 1. § a 39. § (2) bekezdés alapján 2023. december 31-én lép hatályba.
+„(6) A biztosító saját döntése alapján a mérlegben kimutathatja a Tv. 3. § (16) bekezdése szerinti halasztott adókövetelést és halasztott adókötelezettséget, a Tv. halasztott adóra vonatkozó előírásainak alkalmazásával.”

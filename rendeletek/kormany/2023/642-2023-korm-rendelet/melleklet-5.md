@@ -1,3 +1,9 @@
-5. melléklet a 642/2023. (XII. 28.) Korm. rendelethez[^42]
+## A Biztkr. 5. számú melléklet 4. pontja helyébe a következő rendelkezés lép:
 
-[^42]: Az 5. melléklet a 39. § (2) bekezdés alapján 2023. december 31-én lép hatályba.
+## „4. A „15. Adófizetési kötelezettség” sor az alábbi sorokkal egészül ki:
+
+## 15/A) Konszolidálásból adódó (számított) társasági adókülönbözet (±)
+
+## 15/B) Halasztott adókülönbözet (±)”
+
+5. melléklet a 642/2023. (XII. 28.) Korm. rendelethez
