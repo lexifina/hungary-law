@@ -28,9 +28,10 @@ meghatározott hulladékfajtára vonatkozó adatot is tartalmaznia kell.
 
 a) a Ht. 12. § (2a) bekezdése szerinti nevelési-oktatási intézménynek a területén kialakított átvételi helyen átvett papírhulladékról;
 
-b) a hulladéktermelőnek – a Ht. 66. § (1) bekezdésében foglaltakra tekintettel – a hulladékgazdálkodási közszolgáltatás körébe tartozó hulladékról;
+b)[^13] a hulladéktermelőnek – a Ht. 66. § (1) bekezdésében foglaltakra tekintettel – a hulladékgazdálkodási közszolgáltatási résztevékenység körébe tartozó hulladékról;
 
 c) a hulladéktermelőnek, illetve a speciális gyűjtőhely üzemeltetőjének a gyűjtőhelyen átadott vagy gyűjtőedényben elhelyezett települési hulladékról.
 
 [^11]: A 3. § (1) bekezdése a 196/2016. (VII. 13.) Korm. rendelet 5. § (3) bekezdés a) pontja szerint módosított szöveg.
 [^12]: A 3. § (6) bekezdése a 71/2016. (III. 31.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^13]: A 3. § (6) bekezdés b) pontja a 675/2023. (XII. 29.) Korm. rendelet 13. §-a szerint módosított szöveg.

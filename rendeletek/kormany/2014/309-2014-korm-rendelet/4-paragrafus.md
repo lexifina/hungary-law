@@ -18,6 +18,6 @@ a) a veszélyes hulladékra vonatkozó adatokról, és
 
 b) a 314/2005. Korm. rendeletben meghatározott egységes környezethasználati engedélyhez kötött tevékenységek végzése során képződő hulladékra vonatkozó adatokról.
 
-(6)[^13] A veszélyes hulladék szállítója a nyilvántartás-vezetési kötelezettséget úgy teljesíti, hogy a veszélyes hulladékkal kapcsolatos egyes tevékenységek részletes szabályairól szóló 225/2015. (VIII. 7.) Korm. rendelet 7. §-ában meghatározott, teljeskörűen kitöltött szállítási lapot időrendben, papír vagy elektronikus formában tárolja és megőrzi, valamint az illetékes hatóságnak ellenőrzés céljából rendelkezésre bocsátja.
+(6)[^14] A veszélyes hulladék szállítója a nyilvántartás-vezetési kötelezettséget úgy teljesíti, hogy a veszélyes hulladékkal kapcsolatos egyes tevékenységek részletes szabályairól szóló 225/2015. (VIII. 7.) Korm. rendelet 7. §-ában meghatározott, teljeskörűen kitöltött szállítási lapot időrendben, papír vagy elektronikus formában tárolja és megőrzi, valamint az illetékes hatóságnak ellenőrzés céljából rendelkezésre bocsátja.
 
-[^13]: A 4. § (6) bekezdését a 158/2021. (III. 31.) Korm. rendelet 24. §-a iktatta be.
+[^14]: A 4. § (6) bekezdését a 158/2021. (III. 31.) Korm. rendelet 24. §-a iktatta be.
