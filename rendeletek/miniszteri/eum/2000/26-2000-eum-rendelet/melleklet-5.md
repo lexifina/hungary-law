@@ -2,7 +2,7 @@
 
 A vinil-klorid monomer expozíció hatásának kitett munkavállalók egészségvédelmére vonatkozó előírások
 
-1.[^74] Megelőző műszaki intézkedésekkel a munkavégzés helyének vinil-klorid monomer (a továbbiakban: VCM) koncentrációját a lehető legkisebbre kell csökkenteni. Ennek érdekében a VCM
+1.[^75] Megelőző műszaki intézkedésekkel a munkavégzés helyének vinil-klorid monomer (a továbbiakban: VCM) koncentrációját a lehető legkisebbre kell csökkenteni. Ennek érdekében a VCM
 
 a) gyártásával, visszanyerésével, raktározásával, áttöltésével, szállításával vagy bármely egyéb módon történő felhasználásával történő munkavégzés során, továbbá
 
@@ -10,7 +10,7 @@ b) polivinil-kloriddá (a továbbiakban: PVC) történő átalakítása esetén
 
 valamennyi munkahelyen ellenőrizni kell a VCM-koncentrációt.
 
-2.[^75] A VCM munkahelyi levegőben megengedett határértékét a kémiai kóroki tényezők hatásának kitett munkavállalók egészségének és biztonságának védelméről szóló rendelet tartalmazza.
+2.[^76] A VCM munkahelyi levegőben megengedett határértékét a kémiai kóroki tényezők hatásának kitett munkavállalók egészségének és biztonságának védelméről szóló rendelet tartalmazza.
 
 3.1. A VCM-határérték betartásának ellenőrzésekor a munkatérben a mérési pontokat úgy kell kijelölni, hogy a mért eredmények a lehető legpontosabban reprezentálják a munkavállalókat érő VCM expozíció mértékét.
 
@@ -40,7 +40,7 @@ ad) a máj és a lép fibrosisa (hasonló a Banti-szindromához),
 
 ae) légzésfunkciós zavarok,
 
-af)[^76] thrombocytopenia,
+af)[^77] thrombocytopenia,
 
 ag) máj-angiosarcoma (miután a VCM genotoxikus és rákkeltő, biztonságos védelmet a daganatos megbetegedés ellen az MK érték sem nyújt);
 
@@ -82,6 +82,6 @@ g) krónikus bőrártalom,
 
 h) túlzott alkoholfogyasztás és/vagy kábítószer-élvezet.
 
-[^74]: Az 5. számú melléklet 1. pontja a 12/2002. (XI. 16.) ESZCSM rendelet 13. §-a (1) bekezdésének g) pontja szerint módosított szöveg.
-[^75]: Az 5. számú melléklet 2. pontja a 32/2021. (VII. 26.) ITM rendelet 15. §-ával megállapított szöveg.
-[^76]: Az 5. számú melléklet 6.1. pontjának af) alpontja a 12/2002. (XI. 16.) ESZCSM rendelet 13. §-a (1) bekezdésének g) pontja szerint módosított szöveg.
+[^75]: Az 5. számú melléklet 1. pontja a 12/2002. (XI. 16.) ESZCSM rendelet 13. §-a (1) bekezdésének g) pontja szerint módosított szöveg.
+[^76]: Az 5. számú melléklet 2. pontja a 32/2021. (VII. 26.) ITM rendelet 15. §-ával megállapított szöveg.
+[^77]: Az 5. számú melléklet 6.1. pontjának af) alpontja a 12/2002. (XI. 16.) ESZCSM rendelet 13. §-a (1) bekezdésének g) pontja szerint módosított szöveg.

@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-26-20-0
 | 2021-07-27 | 2000-26-20-0B.25 | 32/2021. (VII. 26.) ITM rendelet |
 | 2022-01-01 | 2000-26-20-0B.26 | 51/2011. (XII. 23.) NGM rendelet |
 | 2023-01-01 | 2000-26-20-0B.27 | 55/2023. (XII. 28.) GFM rendelet |
+| 2023-12-31 | 2000-26-20-0B.28 | 62/2023. (XII. 28.) GFM rendelet |
