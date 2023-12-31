@@ -1,6 +1,6 @@
 ## 7. Az engedélyezésre vonatkozó közös szabályok
 
-14. § (1)[^60] Ha a hulladékgazdálkodási engedély vagy a minősítési engedély (a továbbiakban együtt: engedély) jogosultjának – a hulladékgazdálkodási tevékenységét nem érintő – adataiban az engedélyben meghatározottakhoz képest változás következik be, az engedély jogosultja a változást – annak bekövetkezésétől számított 15 napon belül – a hulladékgazdálkodási hatóságnak bejelenti. A hulladékgazdálkodási tevékenységet érintő változást az engedély jogosultja előzetesen köteles bejelenteni. A bejelentés alapján a hulladékgazdálkodási hatóság az engedélyt módosítja.
+14. § (1)[^60] Ha a hulladékgazdálkodási engedély jogosultjának – a hulladékgazdálkodási tevékenységét nem érintő – adataiban az engedélyben meghatározottakhoz képest változás következik be, az engedély jogosultja a változást – annak bekövetkezésétől számított 15 napon belül – a hulladékgazdálkodási hatóságnak bejelenti. A hulladékgazdálkodási tevékenységet érintő változást az engedély jogosultja előzetesen köteles bejelenteni. A bejelentés alapján a hulladékgazdálkodási hatóság az engedélyt módosítja.
 
 (2)[^61] Az engedély jogosultja a hulladékgazdálkodási tevékenység folytatásának megszüntetését, befejezését – a megszüntetést, befejezést megelőzően legalább 30 nappal – a hulladékgazdálkodási hatóságnak bejelenti.
 
@@ -12,7 +12,7 @@
 
 (6)[^65] A hulladékgazdálkodási hatóság a szakhatóság megkeresése során a kérelmet és mellékleteit kizárólag elektronikus úton bocsátja a szakhatóság rendelkezésére.
 
-[^60]: A 14. § (1) bekezdése a 368/2014. (XII. 30.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 441/2015. (XII. 28.) Korm. rendelet 187. §-a, a 312/2021. (VI. 7.) Korm. rendelet 7. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^60]: A 14. § (1) bekezdése a 368/2014. (XII. 30.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 441/2015. (XII. 28.) Korm. rendelet 187. §-a, a 312/2021. (VI. 7.) Korm. rendelet 7. § (3) bekezdés b) pontja, a 675/2023. (XII. 29.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
 [^61]: A 14. § (2) bekezdése a 312/2021. (VI. 7.) Korm. rendelet 7. § (3) bekezdés a) pontja szerint módosított szöveg.
 [^62]: A 14. § (3) bekezdése a 370/2014. (XII. 30.) Korm. rendelet 12. § 24. pontja, a 312/2021. (VI. 7.) Korm. rendelet 7. § (3) bekezdés a) pontja szerint módosított szöveg.
 [^63]: A 14. § (4) bekezdése a 370/2014. (XII. 30.) Korm. rendelet 12. § 25. pontja, a 312/2021. (VI. 7.) Korm. rendelet 7. § (3) bekezdés a) pontja szerint módosított szöveg.
