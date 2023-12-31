@@ -2,29 +2,35 @@
 
 1. § (1) E rendelet hatálya
 
-a) a hulladékgazdálkodási közszolgáltatás körébe tartozó hulladékra, valamint
+a)[^2] a hulladékgazdálkodási közszolgáltatási résztevékenység körébe tartozó hulladékra, valamint
 
-b) a hulladékgazdálkodási közszolgáltatás körébe tartozó hulladékkal kapcsolatos tevékenységekre
+b)[^3] a hulladékgazdálkodási közszolgáltatási résztevékenység körébe tartozó hulladékkal kapcsolatos tevékenységekre
 
-c)[^1] a hulladékgazdálkodási közszolgáltatási feladatok ellátásába bevont vagyonelemek átruházásra és az azokkal kapcsolatos – a hulladékról szóló 2012. évi CLXXXV. törvény (a továbbiakban: Ht.) 92/G. § (1) bekezdésében meghatározott – szerződéses jogviszonyokra (a továbbiakban együtt: szerződéses jogviszony),
+c)[^4] a hulladékgazdálkodási közszolgáltatási résztevékenység feladatainak ellátásába bevont vagyonelemek átruházásra és az azokkal kapcsolatos – a hulladékról szóló 2012. évi CLXXXV. törvény (a továbbiakban: Ht.) 92/G. § (1) bekezdésében meghatározott – szerződéses jogviszonyokra (a továbbiakban együtt: szerződéses jogviszony),
 
-d)[^2] a hulladékgazdálkodási közszolgáltatás teljesítésével összefüggő szerződésekre és kötelezettségvállalásokra,
+d)[^5]
 
-e)[^3] a hulladékgazdálkodási közszolgáltatók és közszolgáltatói alvállalkozók Országos Hulladékgazdálkodási Közszolgáltatási Tervnek (a továbbiakban: OHKT) való megfelelősége megállapítására
+e)[^6]
 
 terjed ki.
 
-(2) E rendelet hatálya a gazdálkodó szervezet ingatlanhasználó tevékenysége során képződött háztartási hulladékhoz hasonló hulladék részét képező elkülönítetten gyűjtött hulladékra akkor terjed ki, ha azt a gazdálkodó szervezet ingatlanhasználó a közszolgáltatónak adja át kezelésre.
+(2)[^7]
 
-(3) E rendelet alkalmazásában hulladékgazdálkodási közszolgáltatás körébe tartozó hulladékkal kapcsolatos tevékenységnek minősül
+(3)[^8] E rendelet alkalmazásában hulladékgazdálkodási közszolgáltatási résztevékenység körébe tartozó hulladékkal kapcsolatos tevékenységnek minősül
 
-a) a hulladékgazdálkodási közszolgáltatás körébe tartozó hulladék átvétele, gyűjtése, szállítása, kereskedelme, közvetítése, kezelése;
+a)[^9] a hulladékgazdálkodási közszolgáltatási résztevékenység körébe tartozó hulladék átvétele, gyűjtése, szállítása, kereskedelme, közvetítése, előkezelése, kezelésre történő átadása;
 
-b) a hulladékgazdálkodási közszolgáltatás körébe tartozó hulladék gyűjtését, kezelését végző hulladékgazdálkodási létesítmények üzemeltetése.
+b)[^10] a hulladékgazdálkodási közszolgáltatási résztevékenység körébe tartozó hulladék gyűjtését, előkezelését végző hulladékgazdálkodási létesítmények üzemeltetése.
 
-(4)[^4] E rendelet alkalmazásában hulladékgazdálkodási közszolgáltatás teljesítésével összefüggő kötelezettségvállalásnak minősül az a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) jóváhagyásához kötött kötelezettségvállalás, amely a közszolgáltató számára fizetési kötelezettséget keletkeztet, valamint a fizetési kötelezettséggel együtt járó, jóváhagyáshoz kötött szerződésmódosítás.
+(4)[^11]
 
-[^1]: Az 1. § (1) bekezdés c) pontját a 312/2021. (VI. 7.) Korm. rendelet 15. § (1) bekezdése iktatta be.
-[^2]: Az 1. § (1) bekezdés d) pontját a 312/2021. (VI. 7.) Korm. rendelet 15. § (1) bekezdése iktatta be.
-[^3]: Az 1. § (1) bekezdés e) pontját a 312/2021. (VI. 7.) Korm. rendelet 15. § (1) bekezdése iktatta be.
-[^4]: Az 1. § (4) bekezdését a 312/2021. (VI. 7.) Korm. rendelet 15. § (2) bekezdése iktatta be.
+[^2]: Az 1. § (1) bekezdés a) pontja a 675/2023. (XII. 29.) Korm. rendelet 14. § 1. pontja szerint módosított szöveg.
+[^3]: Az 1. § (1) bekezdés b) pontja a 675/2023. (XII. 29.) Korm. rendelet 14. § 1. pontja szerint módosított szöveg.
+[^4]: Az 1. § (1) bekezdés c) pontját a 312/2021. (VI. 7.) Korm. rendelet 15. § (1) bekezdése iktatta be, szövege a 675/2023. (XII. 29.) Korm. rendelet 14. § 2. pontja szerint módosított szöveg.
+[^5]: Az 1. § (1) bekezdés d) pontját a 312/2021. (VI. 7.) Korm. rendelet 15. § (1) bekezdése iktatta be, a 675/2023. (XII. 29.) Korm. rendelet 15. § a) pontja hatályon kívül helyezte.
+[^6]: Az 1. § (1) bekezdés e) pontját a 312/2021. (VI. 7.) Korm. rendelet 15. § (1) bekezdése iktatta be, a 675/2023. (XII. 29.) Korm. rendelet 15. § a) pontja hatályon kívül helyezte.
+[^7]: Az 1. § (2) bekezdését a 675/2023. (XII. 29.) Korm. rendelet 15. § b) pontja hatályon kívül helyezte.
+[^8]: Az 1. § (3) bekezdés nyitó szövegrésze a 675/2023. (XII. 29.) Korm. rendelet 14. § 1. pontja szerint módosított szöveg.
+[^9]: Az 1. § (3) bekezdés a) pontja a 675/2023. (XII. 29.) Korm. rendelet 14. § 1. és 3. pontja szerint módosított szöveg.
+[^10]: Az 1. § (3) bekezdés b) pontja a 675/2023. (XII. 29.) Korm. rendelet 14. § 1. és 4. pontja szerint módosított szöveg.
+[^11]: Az 1. § (4) bekezdését a 312/2021. (VI. 7.) Korm. rendelet 15. § (2) bekezdése iktatta be, a 675/2023. (XII. 29.) Korm. rendelet 15. § c) pontja hatályon kívül helyezte.
