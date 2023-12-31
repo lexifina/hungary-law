@@ -251,3 +251,15 @@ d) az összevont alapon kezelendő vállalatcsoport esetében a jogügylet alapj
 (116) E törvénynek a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 4. § 25a. pontját, 22/B. § (1) bekezdés k) pontját és (20)–(35) bekezdését az adózó választása szerint alkalmazhatja a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvény vonatkozó rendelkezéseinek hatálybalépését megelőzően a 22/B. § (3) bekezdése alapján benyújtott bejelentésre, kérelemre, azzal a feltétellel, hogy a beruházás vonatkozásában a 22/B. § (21) bekezdése szerinti kérelmet az adópolitikáért felelős miniszterhez benyújtja és az igényelt átmeneti fejlesztési adókedvezmény összege nem haladja meg a 22/B. § (3) bekezdése alapján eredetileg igényelt fejlesztési adókedvezmény összegét.
 
 (117) E törvénynek a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 4. § 18/b. pontját a hatálybalépését követően értékesített, kivezetett részesedésre kell alkalmazni.
+
+(118) A globális minimum-adószintet biztosító kiegészítő adókról és ezzel összefüggésben egyes adótörvények módosításáról szóló 2023. évi LXXXIV. törvénnyel megállapított 22/G. § szerinti adókedvezmény az adózó választása szerint első alkalommal a 2024. adóévi elszámolható költségre alkalmazható.
+
+(119) Az adózó a 2023. december 31. napját megelőző napon bejelentett részesedésnek nem minősülő részesedését a 2023. adóévre vonatkozó éves társasági adóbevallás benyújtására nyitva álló határidő utolsó napjáig utólag bejelentheti az állami adó- és vámhatóságnak feltéve, hogy a részesedés a bejelentéskor megfelel a 4. § 5. pontjában foglalt rendelkezésnek. A határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye.
+
+(120) A (119) bekezdés szerinti választás esetén az adózó a részesedés független felek által alkalmazandó piaci értéke és könyv szerinti értéke 2023. december 31-én fennálló nyereségjellegű különbözetének 20 százaléka, mint adóalap után a 19. §-ban meghatározott adómértékkel számított adót az éves társasági adóbevallás benyújtására nyitva álló határidő utolsó napjáig bevallja és megfizeti. Az e bekezdés szerinti adóalap és adó terhére csökkentés nem érvényesíthető.
+
+(121) Az adózónak a (120) bekezdés szerinti bevallása benyújtásakor rendelkeznie kell független könyvvizsgáló vagy a részesedés értékeléséhez szükséges szakértelemmel rendelkező szakértő jelentésével, amely alátámasztja a részesedés független felek által alkalmazandó piaci értékét.
+
+(122) A (119) bekezdés szerint bejelentett részesedésekkel kapcsolatos társasági adóalap meghatározása során a későbbiekben úgy kell eljárni figyelemmel a (120) bekezdés alapján már leadózott összegre, mintha a részesedés szerzési (bekerülési) értéke a részesedés független felek által alkalmazandó 2023. december 31-én fennálló piaci értéke lenne.
+
+(123) A (119)–(122) bekezdésben foglaltak alátámasztása céljából az adózó külön nyilvántartást vezet.

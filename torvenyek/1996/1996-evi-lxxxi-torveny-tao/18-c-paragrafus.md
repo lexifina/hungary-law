@@ -104,7 +104,7 @@ b) növeli az Ltp. szerinti kiegyenlítési tartalék felhasználásának (csök
 
 (20) A 18/A. § (1) bekezdése szerinti adózó nem jogosult csökkenteni a korrigált adózás előtti eredményt a 7. § (1) bekezdés t) pontja és a 7. § (17)–(18) bekezdései alapján a számvitelről szóló törvény III. fejezete szerinti beszámolóról (könyvvezetésről) az IFRS-ek szerinti beszámolóra (könyvvezetésre) történő áttérés következtében (kizárólag az áttérés miatt) elszámolt alapkutatás, alkalmazott kutatás, kísérleti fejlesztés közvetlen költségével, vagy az áttérés következtében (kizárólag az áttérés miatt) nyilvántartásba vett kísérleti fejlesztés aktivált értékével (szellemi termékkel).
 
-(21)
+(21) A 18/A. § (1) bekezdése szerinti adózó nem jogosult a 22/G. §-ban foglalt adókedvezményre a számvitelről szóló törvény III. Fejezete szerinti beszámolóról (könyvvezetésről) az IFRS-ek szerinti beszámolóra (könyvvezetésre) történő áttérés következtében, kizárólag az áttérés miatt elszámolt alapkutatás, alkalmazott kutatás, kísérleti fejlesztés közvetlen költségére vonatkozóan.
 
 (22) Amennyiben a 18/A. § (1) bekezdése szerinti tag (részvényes, üzletrész-tulajdonos) olyan jegyzett tőke tőkekivonás útján történő leszállítást hajt végre, amelyet az IFRS-ek szerint nem részesedés kivezetésként (részbeni kivezetésként) mutat ki, de a számvitelről szóló törvény szerint részesedés kivezetésként (részbeni kivezetésként) mutatna ki, akkor erre a leszállításra vonatkozóan (ideértve a leszállításból eredően a részesedésre elszámolt értékvesztést is) a társasági adóalapját külön nyilvántartás alapján úgy határozza meg, mintha ezt a leszállítást a számvitelről szóló törvény szerint számolta volna el.
 
