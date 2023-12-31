@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-192-20-
 | 2019-01-01 | 2000-192-20-22.19 | 309/2018. (XII. 27.) Korm. rendelet |
 | 2021-01-01 | 2000-192-20-22.20 | 295/2015. (X. 8.) Korm. rendelet |
 | 2023-01-01 | 2000-192-20-22.21 | 616/2020. (XII. 21.) Korm. rendelet |
+| 2023-12-31 | 2000-192-20-22.22 | 642/2023. (XII. 28.) Korm. rendelet |

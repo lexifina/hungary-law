@@ -16,4 +16,7 @@ A nem biztosítási tevékenység oszlopban a biztosítási tevékenységnek nem
 
 (5) A mérleg tartalmára vonatkozó Tv. szerinti előírásokat e rendelet 4–6. §-ai figyelembevételével kell alkalmazni.
 
+(6)[^16] A biztosító saját döntése alapján a mérlegben kimutathatja a Tv. 3. § (16) bekezdése szerinti halasztott adókövetelést és halasztott adókötelezettséget, a Tv. halasztott adóra vonatkozó előírásainak alkalmazásával.
+
 [^15]: A 3. § (3) bekezdése a 334/2005. (XII. 29.) Korm. rendelet 22. §-ával megállapított, záró szövegrésze a 397/2007. (XII. 27.) Korm. rendelet 10. § (2) bekezdése, a 46/2015. (III. 12.) Korm. rendelet 1. § (4) bekezdés d) pontja szerint módosított szöveg.
+[^16]: A 3. § (6) bekezdését a 642/2023. (XII. 28.) Korm. rendelet 1. §-a iktatta be.

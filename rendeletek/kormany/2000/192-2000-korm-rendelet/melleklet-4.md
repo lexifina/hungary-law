@@ -78,7 +78,7 @@
 
 ## D) Adózott eredmény (±C–16)
 
-## E)[^166]
+## E)[^173]
 
 ## Az eredménykimutatás egyes tételeire vonatkozó
 
@@ -88,13 +88,13 @@
 
 ## 2. A saját tulajdonú, saját használatú ingatlanok bevételkorrekcióját a 02. Biztosítástechnikai bevételek befektetésekből és a 09. Befektetések bevételei sorban kell kimutatni, a működési költségek között ilyen jogcímen elszámolt tételek összegével megegyezően.
 
-4. számú melléklet a 192/2000. (XI. 24.) Korm. rendelethez[^167]
+4. számú melléklet a 192/2000. (XI. 24.) Korm. rendelethez[^174]
 
 ## Az összevont (konszolidált) mérleg előírt tagolása a következő kiegészítésekkel tér el az 1. számú melléklet szerinti mérleg tagolásától:
 
-1. A B) Befektetések pont kiegészül az alábbi VII. sorral:
+1.[^175] A B) Befektetések pont kiegészül az alábbi VIII. sorral:
 
-## „,,VII. Tőkekonszolidációs különbözet leányvállalatokból, társult vállalkozásokból''”
+## „,,VIII. Tőkekonszolidációs különbözet leányvállalatokból, társult vállalkozásokból''”
 
 2. A D) Követelések pont kiegészül az alábbi VII. sorral:
 
@@ -116,7 +116,9 @@
 
 ## „,,B/1. Tőkekonszolidációs különbözet leányvállalatokból''”
 
-5. A G) Kötelezettség pont kiegészül az alábbi VIII. sorral:
+5.[^176] A G) Kötelezettség pont kiegészül az alábbi IX. sorral:
 
-[^166]: A 3. számú melléklet E) pontját a 484/2015. (XII. 29.) Korm. rendelet 3. § (3) bekezdése hatályon kívül helyezte.
-[^167]: A 4. számú melléklet a 235/2003. (XII. 17.) Korm. rendelet 13. §-a szerint módosított szöveg, e módosító rendelet 14. § (1) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, (3) bekezdése alapján a 2003. évi üzleti évről készített beszámolóra is alkalmazhatók.
+[^173]: A 3. számú melléklet E) pontját a 484/2015. (XII. 29.) Korm. rendelet 3. § (3) bekezdése hatályon kívül helyezte.
+[^174]: A 4. számú melléklet a 235/2003. (XII. 17.) Korm. rendelet 13. §-a szerint módosított szöveg, e módosító rendelet 14. § (1) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, (3) bekezdése alapján a 2003. évi üzleti évről készített beszámolóra is alkalmazhatók.
+[^175]: A 4. számú melléklet 1. pontja a 642/2023. (XII. 28.) Korm. rendelet 3. § 3. pontja szerint módosított szöveg.
+[^176]: A 4. számú melléklet 5. pontja a 642/2023. (XII. 28.) Korm. rendelet 3. § 3. pontja szerint módosított szöveg.

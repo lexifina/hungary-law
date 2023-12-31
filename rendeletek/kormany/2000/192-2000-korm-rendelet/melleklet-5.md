@@ -1,4 +1,4 @@
-## „,,VIII. Konszolidálásból adódó (számított) társasági adó tartozás''”
+## „,,IX. Konszolidálásból adódó (számított) társasági adó tartozás''”
 
 5. számú melléklet a 192/2000. (XI. 24.) Korm. rendelethez
 
@@ -18,10 +18,13 @@
 
 ## „,,C/11/A) Adósságkonszolidálás miatt keletkező – eredményt csökkentő – konszolidációs különbözet''”
 
-4. A ,,15. Adófizetési kötelezettség'' sor az alábbi sorral egészül ki:
+4.[^177] A „15. Adófizetési kötelezettség” sor az alábbi sorokkal egészül ki:
 
-## „,,15/A) Konszolidálásból adódó (számított) társasági adókülönbözet (±)''”
+## 15/A) Konszolidálásból adódó (számított) társasági adókülönbözet (±)
 
-5.[^168]
+## 15/B) Halasztott adókülönbözet (±)
 
-[^168]: Az 5. számú melléklet 5. pontját a 484/2015. (XII. 29.) Korm. rendelet 3. § (4) bekezdése hatályon kívül helyezte.
+5.[^178]
+
+[^177]: Az 5. számú melléklet 4. pontja a 642/2023. (XII. 28.) Korm. rendelet 3. § 4. pontjával megállapított szöveg.
+[^178]: Az 5. számú melléklet 5. pontját a 484/2015. (XII. 29.) Korm. rendelet 3. § (4) bekezdése hatályon kívül helyezte.
