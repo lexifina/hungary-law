@@ -1,1 +1,3 @@
-1. § A Magyar Energetikai és Közmű-szabályozási Hivatal miniszter részére történő víziközmű-szolgáltatáshoz kapcsolódó adatszolgáltatásának rendjéről szóló 17/2015. (IV. 9.) NFM rendelet 3. §-ában a „szerinti javaslatban” szövegrész helyébe a „szerinti lakossági és nem lakossági felhasználókra vonatkozó javaslatban” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
