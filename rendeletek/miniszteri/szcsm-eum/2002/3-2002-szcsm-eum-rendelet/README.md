@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-3-20-85
 | 2019-09-12 | 2002-3-20-85.10 | 10/2019. (IX. 4.) PM rendelet |
 | 2020-06-30 | 2002-3-20-85.11 | 27/2010. (XII. 31.) NGM rendelet |
 | 2023-01-01 | 2002-3-20-85.12 | 27/2010. (XII. 31.) NGM rendelet |
+| 2023-12-31 | 2002-3-20-85.13 | 63/2023. (XII. 28.) GFM rendelet |

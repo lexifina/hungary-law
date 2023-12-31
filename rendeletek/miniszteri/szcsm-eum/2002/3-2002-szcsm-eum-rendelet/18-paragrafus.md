@@ -12,7 +12,7 @@
 
 (5) Az öltözőt el kell látni olyan berendezéssel, amely biztosítja, hogy valamennyi munkavállaló a ruházatát a munkavégzés időtartama alatt elzárva tarthassa. A munkaruházat szellőzését és száradását annak őrzési ideje alatt biztosítani kell.
 
-(6)[^6] Ha a munkakörülmények úgy kívánják – különösen veszélyes anyagok, nedvesség, szennyeződés esetén –, külön öltözőszekrényt kell biztosítani azokon a szekrényeken kívül, ahol a munkavállalók az utcai ruhájukat tartják.
+(6)[^11] Ha a munkakörülmények úgy kívánják – különösen veszélyes anyagok, nedvesség, szennyeződés esetén –, külön öltözőszekrényt kell biztosítani azokon a szekrényeken kívül, ahol a munkavállalók az utcai ruhájukat tartják.
 
 (7) Az öltözőt a munkavállalók tevékenysége, a munkáltatói tevékenység jellege, illetve a munkafolyamat tisztasága alapján az alábbi tisztasági fokozatok egyikébe kell besorolni, illetve ez alapján a helyiségeket kialakítani és a felszerelést biztosítani:
 
@@ -30,4 +30,4 @@ e) ,,E'' fertőző, mérgező.
 
 (9) Ha fogasos (ruhatári) öltöző kerül kialakításra, akkor a munkavállalók részére személyi értéktárgyaik megőrzéséhez zárható fiókokat kell rendszeresíteni.
 
-[^6]: A 18. § (6) bekezdése a 28/2007. (IX. 29.) SZMM rendelet 3. §-ával megállapított szöveg, e módosító rendelet 9. § (2) bekezdése alapján a 2007. október 7-ét megelőzően alapított munkáltatók a módosított kötelezettségeknek legkésőbb 2008. január 1-jéig kell, hogy megfeleljenek.
+[^11]: A 18. § (6) bekezdése a 28/2007. (IX. 29.) SZMM rendelet 3. §-ával megállapított szöveg, e módosító rendelet 9. § (2) bekezdése alapján a 2007. október 7-ét megelőzően alapított munkáltatók a módosított kötelezettségeknek legkésőbb 2008. január 1-jéig kell, hogy megfeleljenek.

@@ -10,6 +10,6 @@
 
 | Nehéz fizikai munka | 0,014 | 50 |
 
-2. számú melléklet a 3/2002. (II. 8.) SZCSM–EüM együttes rendelethez[^15]
+2. számú melléklet a 3/2002. (II. 8.) SZCSM–EüM együttes rendelethez[^20]
 
-[^15]: A 2. számú melléklet a 28/2005. (XII. 28.) FMM–EüM együttes rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^20]: A 2. számú melléklet a 28/2005. (XII. 28.) FMM–EüM együttes rendelet 2. § (2) bekezdése szerint módosított szöveg.

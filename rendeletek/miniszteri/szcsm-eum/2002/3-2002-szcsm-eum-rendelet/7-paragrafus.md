@@ -14,14 +14,22 @@
 
 (7) A munkáltató köteles biztosítani, hogy a munkavállalót ne érje nagyfokú hősugárzás. A hősugárzás akkor minősül nagyfokúnak, ha a léghőmérséklet és a glóbuszhőmérséklet különbsége meghaladja a (K) EH érték meghatározásához minimálisan megkívánt +5 °C hőfokkülönbség háromszorosát.
 
-(8)[^2] A klímakörnyezet kedvezőtlen hatásainak megelőzése céljából munkaszervezési intézkedéseket kell tenni. A munkaidő részeként óránként legalább 5, de legfeljebb 10 perces pihenőidőt kell közbeiktatni, ha a munkahelyi klíma zárt téri munkahelyen a 24 °C (K) EH értéket meghaladja, valamint a hidegnek minősülő munkahelyeken. A munkahely hidegnek minősül, ha a várható napi középhőmérséklet a munkaidő 50%-nál hosszabb időtartamban szabadtéri munkahelyen a +4 °C-ot vagy zárt téri munkahelyen a +10 °C-ot nem éri el.
+(8)[^3] A klímakörnyezet kedvezőtlen hatásainak megelőzése céljából munkaszervezési intézkedéseket kell tenni. A munkaidő részeként óránként legalább 5, legfeljebb 10 perces pihenőidőt kell közbeiktatni a melegnek vagy hidegnek minősülő munkahelyeken.
+
+(8a)[^4] A munkahely melegnek minősül, ha a munkahelyi klíma a munkahelyen a 24 °C (K) EH értéket meghaladja, vagy szabadtéri munkahelyen a napi középhőmérséklet legalább 1 napig meghaladja a 25 °C-ot, és az országos tisztifőorvos a hőség miatt a figyelmeztetést vagy a hőségriasztást kiadta.
+
+(8b)[^5] A munkahely hidegnek minősül, ha a várható napi középhőmérséklet a munkaidő 50%-ánál hosszabb időtartamban szabadtéri munkahelyen a +4 °C-ot vagy zárt téri munkahelyen a +10 °C-ot nem éri el.
 
 (9) A 24 °C (K) EH érték feletti hőhatással járó munkahelyeken a munkába lépést követően, továbbá három hetet meghaladó munkaszünet utáni újbóli munkafelvétel esetén munkaszervezéssel kell biztosítani a hőalkalmazkodás feltételeit. Ennek érdekében a napi hőhatás időtartama az alkalmazkodási folyamat kezdetén nem haladhatja meg a 2 órát és a munka nehézségi foka a közepesen nehéz fizikai munkának megfelelő 14,0 kJ/min értéket. Az adott munkakörrel járó terhelési szintet 2 hét alatt fokozatosan kell elérni.
 
-(10) Ha a munkahelyi klíma zárttéri és szabadtéri munkahelyen a 24 °C (K) EH értéket meghaladja, a munkavállalók részére igény szerint, de legalább félóránként védőitalt kell biztosítani. A folyadékveszteséget általában 14–16 °C hőmérsékletű ivóvízzel kell pótolni. E célra alkalmas azonos hőmérsékletű ízesített, alkoholmentes ital is, amelynek cukortartalma az ital 4 súlyszázalékát nem haladja meg, vagy amely mesterséges édesítőszerrel ízesített.
+(10)[^6] A melegnek minősülő munkahelyeken a munkavállalók részére igény szerint, de legalább félóránként védőitalt kell biztosítani. A folyadékveszteséget általában 14–16 °C hőmérsékletű ivóvízzel kell pótolni. E célra alkalmas azonos hőmérsékletű ízesített, alkoholmentes ital is, amelynek cukortartalma az ital 4 súlyszázalékát nem haladja meg, vagy amely mesterséges édesítőszerrel ízesített.
 
-(11) A hidegnek minősülő munkahelyen a munkavállalók részére +50 °C hőmérsékletű teát kell kiszolgáltatni. A tea ízesítéséhez a (9) bekezdésben előírtak figyelembevételével cukrot, illetve édesítőszert kell biztosítani.
+(11)[^7] A hidegnek minősülő munkahelyen a munkavállalók részére +50 °C hőmérsékletű teát kell kiszolgáltatni. A tea ízesítéséhez a (10) bekezdésben előírtak figyelembevételével cukrot, illetve édesítőszert kell biztosítani.
 
 (12) A védőital és a tea elfogyasztásához legalább a dolgozók létszámát elérő mennyiségben, személyenként és egyéni használatra kiadott ivópoharakról kell gondoskodni. A védőital, valamint a tea készítése, tárolása, kiszolgálása a közegészségügyi követelmények betartása mellett történhet.
 
-[^2]: A 7. § (8) bekezdése a 10/2019. (IX. 4.) PM rendelet 19. §-ával megállapított szöveg.
+[^3]: A 7. § (8) bekezdése a 63/2023. (XII. 28.) GFM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^4]: A 7. § (8a) bekezdését a 63/2023. (XII. 28.) GFM rendelet 1. § (1) bekezdése iktatta be.
+[^5]: A 7. § (8b) bekezdését a 63/2023. (XII. 28.) GFM rendelet 1. § (1) bekezdése iktatta be.
+[^6]: A 7. § (10) bekezdése a 63/2023. (XII. 28.) GFM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^7]: A 7. § (11) bekezdése a 63/2023. (XII. 28.) GFM rendelet 2. § c) pontja szerint módosított szöveg.

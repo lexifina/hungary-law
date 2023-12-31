@@ -2,9 +2,9 @@
 
 24. § (1) A munkahelyeken a zaj hangnyomásszintje nem haladhatja meg az 5. számú mellékletben, továbbá a külön jogszabályban megadott értékeket.
 
-(2)[^11] A munkahelyeken a munkavállaló testére áttevődő rezgés vonatkozásában a rezgésexpozíciónak kitett munkavállalókra vonatkozó minimális egészségi és munkabiztonsági követelményekről szóló külön jogszabály előírásait kell alkalmazni.
+(2)[^16] A munkahelyeken a munkavállaló testére áttevődő rezgés vonatkozásában a rezgésexpozíciónak kitett munkavállalókra vonatkozó minimális egészségi és munkabiztonsági követelményekről szóló külön jogszabály előírásait kell alkalmazni.
 
-(3)[^12]
+(3)[^17]
 
 (4) Annak érdekében, hogy a zaj- és rezgésterhelés a megengedett értéket ne haladja meg, a munkaeszköz típusának kiválasztásánál figyelembe kell venni az annak használata során keletkező zaj és rezgés mértékét.
 
@@ -12,5 +12,5 @@
 
 (6) A kéz-kar rezgés expozíciójával járó munkavégzés során, ha nem biztosított a 2. számú melléklet 2. táblázata szerint könnyűnek minősülő fizikai munkavégzés munkakörnyezeti előírásainak megfelelő klíma, a munkavállalót – a lokális lehűlés elleni végtagvédelem érdekében – egyéni védőeszközzel kell ellátni.
 
-[^11]: A 24. § (2) bekezdése a 8/2005. (VI. 24.) FMM–EüM együttes rendelet 1. §-ával megállapított szöveg.
-[^12]: A 24. § (3) bekezdését a 8/2005. (VI. 24.) FMM–EüM együttes rendelet 2. §-ának (2) bekezdése hatályon kívül helyezte.
+[^16]: A 24. § (2) bekezdése a 8/2005. (VI. 24.) FMM–EüM együttes rendelet 1. §-ával megállapított szöveg.
+[^17]: A 24. § (3) bekezdését a 8/2005. (VI. 24.) FMM–EüM együttes rendelet 2. §-ának (2) bekezdése hatályon kívül helyezte.
