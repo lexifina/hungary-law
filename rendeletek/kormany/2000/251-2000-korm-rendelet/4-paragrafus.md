@@ -68,6 +68,8 @@ pénzösszeg részletezésben.
 
 (11)[^39] A befektetési vállalkozás által nyújtott befektetési és pénzügyi szolgáltatás tekintetében nem alkalmazható a Tv. 28. §-a (2) bekezdésének b) pontjában a befejezetlen, még ki nem számlázott szolgáltatás készletként történő kimutatására előírt rendelkezés.
 
+(12)[^40] A befektetési vállalkozás saját döntése alapján a mérlegben kimutathatja a Tv. 3. § (16) bekezdése szerinti halasztott adókövetelést és halasztott adókötelezettséget, a Tv. halasztott adóra vonatkozó előírásainak alkalmazásával.
+
 [^33]: A 4. § (3) bekezdésének d) pontja a 292/2001. (XII. 26.) Korm. rendelet 4. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 16. §-ának (1) bekezdése alapján rendelkezéseit először a 2002. évben induló üzleti évről készített éves beszámolóra kell alkalmazni.
 [^34]: A 4. § (6) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 71. § (1) bekezdésével megállapított szöveg.
 [^35]: A 4. § (7) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 71. § (2) bekezdésével megállapított szöveg.
@@ -75,3 +77,4 @@ pénzösszeg részletezésben.
 [^37]: A 4. § (9) bekezdése a 292/2001. (XII. 26.) Korm. rendelet 4. §-ának (2) bekezdésével megállapított szöveg, e módosító rendelet 16. §-ának (1) bekezdése alapján rendelkezéseit először a 2002. évben induló üzleti évről készített éves beszámolóra kell alkalmazni.
 [^38]: A 4. § (9) bekezdés a) pontja a 484/2015. (XII. 29.) Korm. rendelet 71. § (3) bekezdésével megállapított szöveg.
 [^39]: A 4. § (11) bekezdését a 334/2005. (XII. 29.) Korm. rendelet 15. §-a iktatta be. E módosító rendelet 37. § (1)–(2) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2005. évi üzleti évről készített beszámolóra is alkalmazható.
+[^40]: A 4. § (12) bekezdését a 642/2023. (XII. 28.) Korm. rendelet 17. §-a iktatta be.

@@ -94,7 +94,7 @@
 
 ## Ebből: kapcsolt vállalkozásnak adott
 
-## 14.[^149] Részesedések, értékpapírok, tartósan adott kölcsönök, bankbetétek értékvesztése
+## 14.[^151] Részesedések, értékpapírok, tartósan adott kölcsönök, bankbetétek értékvesztése
 
 ## 15. Pénzügyi műveletek egyéb ráfordításai
 
@@ -108,7 +108,9 @@
 
 ## XII. Adófizetési kötelezettség
 
-## D. Adózott eredmény (±C-XII)
+## XII/A.[^152] Halasztott adókülönbözet (±)
+
+## D.[^153] Adózott eredmény (±C–XII±XII/A)
 
 ## XIII. Általános tartalékképzés, felhasználás (±)
 
@@ -126,7 +128,7 @@ Az anyavállalatnak minősülő befektetési vállalkozás összevont (konszolid
 
 ## – társult vállalkozásokból''”
 
-2.[^150] A B/II. pont kiegészül az alábbi 12. sorral:
+2.[^154] A B/II. pont kiegészül az alábbi 12. sorral:
 
 ## „,,12. Konszolidációból adódó (számított) társasági adókövetelés''”
 
@@ -146,8 +148,10 @@ Az anyavállalatnak minősülő befektetési vállalkozás összevont (konszolid
 
 ## „ ,,4. Tőkekonszolidációs különbözet leányvállalatokból''”
 
-5.[^151] Az ,,A'' változatú mérleg F/III. pontja és a ,,B'' változatú mérleg D. pontja az alábbi 15. sorral egészül ki:
+5.[^155] Az ,,A'' változatú mérleg F/III. pontja és a ,,B'' változatú mérleg D. pontja az alábbi 15. sorral egészül ki:
 
-[^149]: A 2. melléklet az „Az eredménykimutatás tagolása:” cím 14. sora a 480/2016. (XII. 28.) Korm. rendelet 69. § 1. pontjával megállapított szöveg.
-[^150]: A 3. számú melléklet 2. pontja a 241/2003. (XII. 17.) Korm. rendelet 8. §-a szerint módosított szöveg.
-[^151]: A 3. számú melléklet 5. pontja a 241/2003. (XII. 17.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^151]: A 2. melléklet az „Az eredménykimutatás tagolása:” cím 14. sora a 480/2016. (XII. 28.) Korm. rendelet 69. § 1. pontjával megállapított szöveg.
+[^152]: A 2. számú melléklet XII/A. pontját a 642/2023. (XII. 28.) Korm. rendelet 19. § 1. pontja iktatta be.
+[^153]: A 2. számú melléklet D. pontját a 642/2023. (XII. 28.) Korm. rendelet 19. § 1. pontja iktatta be.
+[^154]: A 3. számú melléklet 2. pontja a 241/2003. (XII. 17.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^155]: A 3. számú melléklet 5. pontja a 241/2003. (XII. 17.) Korm. rendelet 8. §-a szerint módosított szöveg.
