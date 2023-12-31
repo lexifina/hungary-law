@@ -38,8 +38,8 @@
 
 ## * A megfelelő rész aláhúzandó!
 
-2. számú melléklet az 50/1999. (XI. 3.) EüM rendelethez[^18]
+2. számú melléklet az 50/1999. (XI. 3.) EüM rendelethez[^20]
 
 A képernyő előtti munkavégzéssel kapcsolatban leggyakrabban panaszokat okozó látórendszeri eltérések
 
-[^18]: A 2. számú mellékletet a 3/2002. (VIII. 30.) ESZCSM rendelet 3. §-a iktatta a szövegbe.
+[^20]: A 2. számú mellékletet a 3/2002. (VIII. 30.) ESZCSM rendelet 3. §-a iktatta a szövegbe.

@@ -10,7 +10,7 @@
 
 ## – Fiatalkori rejtett fénytörési hiba
 
-3. számú melléklet az 50/1999. (XI. 3.) EüM rendelethez[^19]
+3. számú melléklet az 50/1999. (XI. 3.) EüM rendelethez[^21]
 
 A képernyős munkahely kialakításának minimális követelményei
 
@@ -58,7 +58,7 @@ b) A szék magassága legyen könnyen állítható.
 
 c) A szék támlája legyen magasságában állítható és dönthető.
 
-d)[^20] Igény esetén lábtámaszt vagy saroktámaszt, illetve kartámaszt kell biztosítani.
+d)[^22] Igény esetén lábtámaszt vagy saroktámaszt, illetve kartámaszt kell biztosítani.
 
 2. KÖRNYEZET
 
@@ -88,7 +88,7 @@ a) A munkahelyhez tartozó berendezések nem fejleszthetnek olyan mennyiségű h
 
 b) A használó legyen védve a sugárzó és áramló hőhatásoktól és az asztal alatt hőt termelő berendezésektől.
 
-c)[^21] A páratartalmat megfelelő szinten kell biztosítani és tartani.
+c)[^23] A páratartalmat megfelelő szinten kell biztosítani és tartani.
 
 2.6. Sugárzás
 
@@ -110,6 +110,6 @@ e) alkalmazni kell a szoftver-ergonómia elveit, különösen az ember által v�
 
 f) a rendszerek biztosítsanak visszajelzést a munkavállalóknak a teljesítményükről.
 
-[^19]: A rendelet eredeti mellékletének jelölését 3. számú mellékletre változtatta, egyidejűleg az 1–2. számú mellékletet beiktatta a 3/2002. (VIII. 30.) ESZCSM rendelet 3. §-a.
-[^20]: A 3. számú melléklet 1.5. pontjának d) alpontja a 66/2003. (XII. 11.) ESZCSM rendelet 4. §-ának (1) bekezdésével megállapított szöveg.
-[^21]: A 3. számú melléklet 2.5. pontjának c) alpontját a 66/2003. (XII. 11.) ESZCSM rendelet 4. §-ának (2) bekezdése iktatta szövegbe.
+[^21]: A rendelet eredeti mellékletének jelölését 3. számú mellékletre változtatta, egyidejűleg az 1–2. számú mellékletet beiktatta a 3/2002. (VIII. 30.) ESZCSM rendelet 3. §-a.
+[^22]: A 3. számú melléklet 1.5. pontjának d) alpontja a 66/2003. (XII. 11.) ESZCSM rendelet 4. §-ának (1) bekezdésével megállapított szöveg.
+[^23]: A 3. számú melléklet 2.5. pontjának c) alpontját a 66/2003. (XII. 11.) ESZCSM rendelet 4. §-ának (2) bekezdése iktatta szövegbe.
