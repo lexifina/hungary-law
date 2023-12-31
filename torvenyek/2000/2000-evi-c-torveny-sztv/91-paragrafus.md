@@ -4,7 +4,7 @@ a) a tárgyévben foglalkoztatott munkavállalók átlagos statisztikai állomá
 
 b) részvénytársaságnál a kibocsátott részvények számát és névértékét részvény-típusonként (fajtánként) csoportosítva (ezen belül külön feltüntetve a tárgyévben kibocsátottakat), a kibocsátott átváltoztatható és átváltozó kötvények számát és névértékét, továbbá az opciós utalvány, opció, illetve hasonló értékpapír vagy jog meglétét, jelezve azok számát és a hozzájuk kapcsolódó jogokat;
 
-c) azokat az összegeket, amelyek az értékelés következtében a társasági adó megállapításánál módosító tételt jelentenek; ha a tétel átmeneti jellegű, a jövőbeni hatást is be kell mutatni;
+c) azokat az összegeket, amelyek az értékelés következtében a társasági adó, a kisvállalati adó megállapításánál módosító tételt jelentenek; ha a tétel átmeneti jellegű, a jövőbeni hatást is be kell mutatni;
 
 d) azon egyéb bevételek és egyéb ráfordítások, illetve pénzügyi műveletek bevételei és ráfordításai tételeinek társasági adóra gyakorolt számszerűsített hatását, amelyek jelentős összegűek;
 

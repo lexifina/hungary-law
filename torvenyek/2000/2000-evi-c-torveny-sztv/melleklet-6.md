@@ -52,9 +52,11 @@ II. Az összevont (konszolidált) eredménykimutatás előírt tagolása a köve
 
 „13/b. Kapott osztalékok egyéb részesedési viszonyban lévő vállalkozástól”
 
-4. A „X. Adófizetési kötelezettség” sor az alábbi sorral egészül ki:
+## 4. Az „X. Adófizetési kötelezettség” sor az alábbi sorokkal egészül ki:
 
-„X/A. Konszolidálásból adódó (számított) társasági adókülönbözet (—)”
+## X/A. Konszolidálásból adódó (számított) társasági adókülönbözet (±)
+
+## X/B. Halasztott adókülönbözet (±)
 
 5. Az „Adózott eredmény” sor után az alábbi sorokat kell felvenni:
 

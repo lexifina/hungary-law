@@ -94,4 +94,4 @@ C. Adózás előtti eredmény (±A±B)
 
 X. Adófizetési kötelezettség
 
-D. Adózott eredmény (±C–X)
+X/1. Halasztott adókülönbözet (±)

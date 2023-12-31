@@ -62,6 +62,8 @@ III. Befektetett pénzügyi eszközök
 
 10. Befektetett pénzügyi eszközök értékelési különbözete
 
+## IV. Halasztott adókövetelés
+
 B. Forgóeszközök
 
 I. Készletek
@@ -190,6 +192,8 @@ II. Hosszú lejáratú kötelezettségek
 
 9. Egyéb hosszú lejáratú kötelezettségek
 
+## 10. Halasztott adókötelezettség
+
 III. Rövid lejáratú kötelezettségek
 
 1. Rövid lejáratú kölcsönök
@@ -285,6 +289,8 @@ III. Befektetett pénzügyi eszközök
 9. Befektetett pénzügyi eszközök értékhelyesbítése
 
 10. Befektetett pénzügyi eszközök értékelési különbözete
+
+## IV. Halasztott adókövetelés
 
 B. Forgóeszközök
 
@@ -411,6 +417,8 @@ I. Hosszú lejáratú kötelezettségek
 8. Tartós kötelezettségek egyéb részesedési viszonyban lévő vállalkozással szemben
 
 9. Egyéb hosszú lejáratú kötelezettségek
+
+## 10. Halasztott adókötelezettség
 
 II. Hátrasorolt kötelezettségek
 

@@ -1,3 +1,5 @@
+## A következő sorok értelemszerűen megegyeznek a 2. számú melléklet 13–22. és VIII–X/1., valamint a B–D. soraival.
+
 4. számú melléklet a 2000. évi C. törvényhez
 
 Az egyszerűsített mérleg előírt tagolása

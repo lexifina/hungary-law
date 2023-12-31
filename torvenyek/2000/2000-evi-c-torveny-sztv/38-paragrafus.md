@@ -14,7 +14,7 @@ d) a 36. § (1) bekezdésének f) pontja alapján tőketartalékba helyezett ös
 
 a) a visszavásárolt saját részvények, saját üzletrészek, továbbá a visszaváltható részvények könyv szerinti értékét,
 
-b)
+b) a halasztott adókövetelés mérleg szerinti értékét,
 
 c) az alapítás-átszervezés aktivált értékéből, továbbá a kísérleti fejlesztés aktivált értékéből még le nem írt összeget,
 

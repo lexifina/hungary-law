@@ -1,3 +1,5 @@
+## D. Adózott eredmény (±C–X±X/1)
+
 3. számú melléklet a 2000. évi C. törvényhez
 
 Az eredménykimutatás előírt tagolása (forgalmi költség eljárással)
@@ -35,5 +37,3 @@ VI. Egyéb ráfordítások
 Ebből: értékvesztés
 
 A. Üzemi (üzleti) tevékenység eredménye (±III–IV+V–VI)
-
-A következő sorok értelemszerűen megegyeznek a 2. számú melléklet 13–22. és VIII–X., valamint a B–D. soraival.
