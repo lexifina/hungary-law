@@ -10,7 +10,7 @@
 
 5.
 
-6. 131. § (14) bekezdés i) pontjában a „folyósító szervet, az irányító hatóságot,” szöveg helyébe a „folyósító szervet, a központi költségvetési támogatásról döntő szervet, az irányító hatóságot,” szöveg,
+6.
 
 7.
 
@@ -20,7 +20,7 @@
 
 10.
 
-11. 157. § (1) bekezdés d) pontjában, az „egy éven belül az állami adó- és vámhatóság ismételt üzletlezárás” szövegrész helyébe az „az állami adó- és vámhatóság üzletlezárás” szöveg,
+11.
 
 12.
 
