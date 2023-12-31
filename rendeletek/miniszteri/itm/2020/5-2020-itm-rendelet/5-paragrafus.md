@@ -22,15 +22,15 @@ a) a veszélyes anyagok azonosításáról,
 
 b) a veszélyes anyagok koncentrációjának légzési zónában, személyi mintavétellel történő méréséről,
 
-c)[^6]
+c)[^7]
 
 d) a 4. § (2) bekezdése szerinti biológiai monitorozás elvégzéséről.
 
 (5) Az expozíció mértékét az expozíciós koncentráció vagy az expozíciós terhelés és az expozíciós idő szorzatából kell meghatározni.
 
-(6) A (4) bekezdés c) pontja szerinti expozíciós terhelés meghatározásánál a munkavállaló szervezetébe felszívódó veszélyes anyagok tekintetében
+(6)[^8] A expozíciós terhelés meghatározásánál a munkavállaló szervezetébe felszívódó veszélyes anyagok tekintetében
 
-a)[^7] az 1. melléklet 1. pont 1.1. alpont I oszlopában foglalt értékek szerint a határértékkel rendelkező anyagokat,
+a)[^9] az 1. melléklet 1. pont 1.1. alpont I oszlopában foglalt értékek szerint a határértékkel rendelkező anyagokat,
 
 b) az a) alpontban nem szereplő, bőrön át felszívódó anyagok közül
 
@@ -48,9 +48,11 @@ kell figyelembe venni.
 
 (10) A munkáltató által korábban nem alkalmazott veszélyes vegyi anyaggal csak akkor kezdhető meg a tevékenység, ha a kockázatbecslés megtörtént, és a kockázatkezelésre – a kockázatok elkerülésére vagy eltűrhető szintűre csökkentésére – a megfelelő intézkedéseket meghatározták, bevezették és dokumentálták.
 
-(11) A munkáltató a kockázatbecslés alapján a kémiai biztonságról szóló 2000. évi XXV. törvény 19. §-ával összhangban a 6. §-ban foglaltak szerinti általános, valamint – ha ez a feltárt kockázatok mérsékléséhez nem elégséges – a 7–13., a 17. és a 20. §-ban foglaltak szerinti különleges megelőző és védő intézkedéseket foganatosít.
+(11)[^10] A munkáltató a kockázatbecslés alapján a 6. §-ban foglaltak szerinti általános, valamint – ha ez a feltárt kockázatok mérsékléséhez nem elégséges – a 7–13., a 17. és a 20. §-ban foglaltak szerinti különleges megelőző és védő intézkedéseket foganatosít.
 
 (12) Ha az (1) és (2) bekezdésben foglaltak alapján végzett kockázatelemzés eredménye azt mutatja, hogy a munkahelyen alkalmazott vegyi anyagok felhasznált mennyisége miatt a munkavállalók egészségét és biztonságát fenyegető veszély elhanyagolható mértékű, továbbá a megtett megelőző intézkedések összhangban állnak a 6. § (1)–(3) bekezdésében foglaltakkal, a 7–13. §-ban meghatározott intézkedéseket nem kell alkalmazni.
 
-[^6]: Az 5. § (4) bekezdés c) pontját a 32/2021. (VII. 26.) ITM rendelet 25. § b) pontja hatályon kívül helyezte.
-[^7]: Az 5. § (6) bekezdés a) pontja a 29/2022. (XII. 30.) GFM rendelet 4. § a) pontja szerint módosított szöveg.
+[^7]: Az 5. § (4) bekezdés c) pontját a 32/2021. (VII. 26.) ITM rendelet 25. § b) pontja hatályon kívül helyezte.
+[^8]: Az 5. § (6) bekezdés nyitó szövegrésze a 68/2023. (XII. 28.) GFM rendelet 4. § a) pontja szerint módosított szöveg.
+[^9]: Az 5. § (6) bekezdés a) pontja a 29/2022. (XII. 30.) GFM rendelet 4. § a) pontja szerint módosított szöveg.
+[^10]: Az 5. § (11) bekezdése a 68/2023. (XII. 28.) GFM rendelet 4. § b) pontja szerint módosított szöveg.

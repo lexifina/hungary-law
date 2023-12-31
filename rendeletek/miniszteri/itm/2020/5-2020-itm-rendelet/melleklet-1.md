@@ -1,4 +1,4 @@
-1. melléklet az 5/2020. (II. 6.) ITM rendelethez[^16]
+1. melléklet az 5/2020. (II. 6.) ITM rendelethez[^19]
 
 Veszélyes anyagok a munkahelyi levegőben
 
@@ -388,7 +388,7 @@ Veszélyes anyagok a munkahelyi levegőben
 
 | 190 | EGYÉB SZERVETLEN KRÓMVEGYÜLETEK [a króm (VI) vegyületek kivételével] (Cr-ra számítva) |  | 0,5 |  | 2 |  | i, sz, BEM |  | T |
 
-| 191 | KRÓM (VI) SZERVETLEN VEGYÜLETEK [Cr (VI)–ra számítva] |  | 0,01 |  |  |  | k(1A vagy 1B), BEM | EU6 | T |
+| 191 | KRÓM (VI) VEGYÜLETEK [Cr (VI)-ra számítva] |  | 0,01 |  |  |  | k (1A vagy 1B), BEM | EU6 | T |
 
 | 192 | KUMOL | 98-82-8 | 50 | 10 | 250 | 50 | b, i | EU8 | R |
 
@@ -556,7 +556,7 @@ Veszélyes anyagok a munkahelyi levegőben
 
 | 274 | SALÉTROMSAV | 7697-37-2 |  |  | 2,6 | 1 | i, m | EU2 |  |
 
-| 275 | SÓSAV | 7647-01-0 | 8 | 5 | 165 | 10 | i, m | EU1 | N |
+| 275 | SÓSAV | 7647-01-0 | 8 | 5 | 15 | 10 | i, m | EU1 | N |
 
 | 276 | STRONCIUM-KROMÁT [Cr (VI)–ra számítva] | 7789-06-2 | 0,005 |  |  |  | k(1B) |  | T |
 
@@ -645,6 +645,8 @@ Veszélyes anyagok a munkahelyi levegőben
 | 318 | p-XILOL | 106-42-3 | 221 | 50 | 442 | 100 | b, BEM | EU1 | R |
 
 | 319 | XILIDIN(ek) | 1300-73-8 | 10 | 2 |  |  | b |  | T |
+
+| 320 | DÍZEL-KIPUFOGÓGÁZ (elemi szénként mérve) |  | 0,05 |  |  |  |  | EU6 |  |
 
 1.1.1. Az 1.1. táblázatban a nem gőz-/gázállapotú veszélyes anyagok határértékei a belélegezhető frakcióra vonatkoznak (MSZ EN 481).
 
@@ -756,4 +758,4 @@ Veszélyes anyagok a munkahelyi levegőben
 
 1.5.3. Nyolc órát meghaladó napi, vagy 40 órát meghaladó heti munkaidő-beosztás esetén a számításokban a korrigált ÁK-értékeket kell alkalmazni, ahol ez releváns.
 
-[^16]: Az 1. melléklet a 29/2022. (XII. 30.) GFM rendelet 3. § a) pontja és 4. § c) pontja szerint módosított szöveg. [A 6/2020. (II. 7.) ITM rendelet 12. § a) pontjával elrendelt módosítás nem vezethető át.]
+[^19]: Az 1. melléklet a 29/2022. (XII. 30.) GFM rendelet 3. § a) pontja és 4. § c) pontja, a 68/2023. (XII. 28.) GFM rendelet 3. § (1) bekezdése szerint módosított szöveg. [A 6/2020. (II. 7.) ITM rendelet 12. § a) pontjával elrendelt módosítás nem vezethető át.]

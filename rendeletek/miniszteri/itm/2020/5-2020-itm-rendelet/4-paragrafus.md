@@ -14,4 +14,7 @@ b) a nemzeti vagy nemzetközi jártassági vizsgálatban írásban igazolt módo
 
 laboratórium végezhet.
 
+(5)[^6] A biológiai monitorozás költségei a munkáltatót terhelik.
+
 [^5]: A 4. § (4) bekezdés a) pontja a 32/2021. (VII. 26.) ITM rendelet 24. § c) pontja szerint módosított szöveg.
+[^6]: A 4. § (5) bekezdését a 68/2023. (XII. 28.) GFM rendelet 1. §-a iktatta be.
