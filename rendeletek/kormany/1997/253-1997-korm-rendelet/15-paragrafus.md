@@ -1,3 +1,3 @@
-15. §[^68]
+15. §[^69]
 
-[^68]: A 15. §-t és az azt megelőző alcímet a 90/2012. (IV. 26.) Korm. rendelet 31. § 8. pontja hatályon kívül helyezte.
+[^69]: A 15. §-t és az azt megelőző alcímet a 90/2012. (IV. 26.) Korm. rendelet 31. § 8. pontja hatályon kívül helyezte.

@@ -1,6 +1,6 @@
-## A közúti közlekedési terület[^111]
+## A közúti közlekedési terület[^112]
 
-26. §[^112] (1) A közúti közlekedési terület az országos és a helyi közút, a kerékpárút, a gépjármű-várakozóhely (parkoló) – a közterületnek nem minősülő telken megvalósuló kivételével –, a járda és gyalogút (sétány), köztér, mindezek csomópontja, vízelvezetési rendszere és környezetvédelmi építményei, a közúti közlekedés, továbbá a közmű és a hírközlés építményei elhelyezésére szolgál.
+26. §[^113] (1) A közúti közlekedési terület az országos és a helyi közút, a kerékpárút, a gépjármű-várakozóhely (parkoló) – a közterületnek nem minősülő telken megvalósuló kivételével –, a járda és gyalogút (sétány), köztér, mindezek csomópontja, vízelvezetési rendszere és környezetvédelmi építményei, a közúti közlekedés, továbbá a közmű és a hírközlés építményei elhelyezésére szolgál.
 
 (2) A közút elhelyezése céljára – más jogszabályi előírás hiányában – legalább a következő szélességű területet kell biztosítani, a vonalvezetési jellemzők figyelembevételével:
 
@@ -24,5 +24,5 @@ h) gyalogút esetén 3 m.
 
 (4) A közúti közlekedési területen a közlekedést kiszolgáló épület, valamint a területet igénybe vevők ellátását szolgáló iroda, kereskedelmi, szolgáltató, raktár- és szállásjellegű épület helyezhető el. Lakás – a helyi építési szabályzatban meghatározott számban és módon elhelyezett szolgálati lakás kivételével – nem helyezhető el.
 
-[^111]: A 26. §-t megelőző alcím címet a 420/2021. (VII. 15.) Korm. rendelet 20. §-a iktatta be.
-[^112]: A 26. § a 420/2021. (VII. 15.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^112]: A 26. §-t megelőző alcím címet a 420/2021. (VII. 15.) Korm. rendelet 20. §-a iktatta be.
+[^113]: A 26. § a 420/2021. (VII. 15.) Korm. rendelet 20. §-ával megállapított szöveg.

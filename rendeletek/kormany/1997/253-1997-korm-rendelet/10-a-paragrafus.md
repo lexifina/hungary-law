@@ -2,7 +2,7 @@
 
 (2)[^49] Az Agglomerációs településen az új lakóterület kijelölésével összefüggésben, a településtervben és a sajátos jogintézmények alkalmazásával biztosítani kell
 
-a) a lakóterületen a villamosenergia-ellátás és a víziközmű-ellátás, a közúthálózat vonatkozásában a szilárd burkolatú közutak, gépjármű-várakozóhelyek, gyalogjárdák, továbbá a közvilágítás, a csapadékvíz-elvezető rendszer és a hulladékgazdálkodási közszolgáltatás, a lakóterület beépítésével egy időben történő megvalósulását;
+a)[^50] a lakóterületen a villamosenergia-ellátás és a víziközmű-ellátás, a közúthálózat vonatkozásában a szilárd burkolatú közutak, gépjármű-várakozóhelyek, gyalogjárdák, továbbá a közvilágítás, a csapadékvíz-elvezető rendszer és a hulladékgazdálkodási közszolgáltatási résztevékenység, a lakóterület beépítésével egy időben történő megvalósulását;
 
 b) az óvodai, általános iskolai és egészségügyi alapellátásban, a lakosságszám növekedéséből származó kapacitásigény kiszolgálását
 
@@ -16,3 +16,4 @@ d) a lakóterület területhatárán belül legalább egy játszóteret és pihe
 
 [^48]: A 10/A. §-t a 269/2019. (XI. 19.) Korm. rendelet 1. §-a iktatta be.
 [^49]: A 10/A. § (2) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^50]: A 10/A. § (2) bekezdés a) pontja a 675/2023. (XII. 29.) Korm. rendelet 1. §-a szerint módosított szöveg.

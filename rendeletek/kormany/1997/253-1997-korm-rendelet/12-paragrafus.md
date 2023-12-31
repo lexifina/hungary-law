@@ -1,8 +1,8 @@
 ## Kisvárosias lakóterület
 
-12. § (1)[^56] A kisvárosias lakóterület alacsony intenzitású lakótelepek területe és a sűrű beépítésű, több önálló rendeltetési egységet magába foglaló, 12,5 m-es beépítési magasságot meg nem haladó elsősorban lakó rendeltetésű épületek elhelyezésére szolgál.
+12. § (1)[^57] A kisvárosias lakóterület alacsony intenzitású lakótelepek területe és a sűrű beépítésű, több önálló rendeltetési egységet magába foglaló, 12,5 m-es beépítési magasságot meg nem haladó elsősorban lakó rendeltetésű épületek elhelyezésére szolgál.
 
-(2)[^57] Kisvárosias lakóterületen elhelyezhető épület – a lakó rendeltetésen kívül – :
+(2)[^58] Kisvárosias lakóterületen elhelyezhető épület – a lakó rendeltetésen kívül – :
 
 a) kereskedelmi, szolgáltató,
 
@@ -18,11 +18,11 @@ f) sport
 
 rendeltetést is tartalmazhat.
 
-(3)[^58]
+(3)[^59]
 
-(4)[^59]
+(4)[^60]
 
-[^56]: A 12. § (1) bekezdése a 314/2012. (XI. 8.) Korm. rendelet 55. § a) és b) pontja, a 420/2021. (VII. 15.) Korm. rendelet 38. § 13. pontja szerint módosított szöveg. [A 12. § (1) bekezdésében a 420/2021. (VII. 15.) Korm. rendelet 39. § 2. pontjával elrendelt módosítás, amely szerint hatályát veszti a „12,5 m-es beépítési magasságot meghaladó” szövegrész, nem vezethető át.]
-[^57]: A 12. § (2) bekezdése a 90/2012. (IV. 26.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^58]: A 12. § (3) bekezdését a 90/2012. (IV. 26.) Korm. rendelet 31. § 4. pontja hatályon kívül helyezte.
-[^59]: A 12. § (4) bekezdését a 90/2012. (IV. 26.) Korm. rendelet 31. § 4. pontja hatályon kívül helyezte.
+[^57]: A 12. § (1) bekezdése a 314/2012. (XI. 8.) Korm. rendelet 55. § a) és b) pontja, a 420/2021. (VII. 15.) Korm. rendelet 38. § 13. pontja szerint módosított szöveg. [A 12. § (1) bekezdésében a 420/2021. (VII. 15.) Korm. rendelet 39. § 2. pontjával elrendelt módosítás, amely szerint hatályát veszti a „12,5 m-es beépítési magasságot meghaladó” szövegrész, nem vezethető át.]
+[^58]: A 12. § (2) bekezdése a 90/2012. (IV. 26.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^59]: A 12. § (3) bekezdését a 90/2012. (IV. 26.) Korm. rendelet 31. § 4. pontja hatályon kívül helyezte.
+[^60]: A 12. § (4) bekezdését a 90/2012. (IV. 26.) Korm. rendelet 31. § 4. pontja hatályon kívül helyezte.

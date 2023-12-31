@@ -1,6 +1,6 @@
 ## A telek beépítésének feltételei
 
-33. §[^166] (1) Épület csak olyan telken vagy építési telken helyezhető el,
+33. §[^167] (1) Épület csak olyan telken vagy építési telken helyezhető el,
 
 a) amelynek megközelíthetősége – beépítésre nem szánt területen a honvédelmi, katonai és nemzetbiztonsági célú épület elhelyezésére szolgáló telek kivételével – gépjárművel közterületről vagy magánútról közvetlenül biztosított,
 
@@ -14,4 +14,4 @@ e) amelyhez a gépjárművek elhelyezése a 42. §-ban előírtak szerinti bizto
 
 (2) Az (1) bekezdés b)–d) pontjában előírtak a környezettudatos energiagazdálkodás eszközeivel közüzemi szolgáltatással vagy egyedi módon teljesíthetők az övezetre előírt teljes közművesítettség esetében is.
 
-[^166]: A 33. § a 90/2012. (IV. 26.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^167]: A 33. § a 90/2012. (IV. 26.) Korm. rendelet 24. §-ával megállapított szöveg.

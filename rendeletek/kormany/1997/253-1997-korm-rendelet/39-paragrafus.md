@@ -1,6 +1,6 @@
 ## Építmény elhelyezése közterületen
 
-39. § (1)[^208] Közterületen, közterület alatt és közterület fölött építményt, építményrészt elhelyezni, kialakítani csak a helyi építési szabályzat alapján, valamint a 35. § (8) bekezdése és (9) bekezdése b) pontja, továbbá a 40. § előírásai szerint lehet.
+39. § (1)[^209] Közterületen, közterület alatt és közterület fölött építményt, építményrészt elhelyezni, kialakítani csak a helyi építési szabályzat alapján, valamint a 35. § (8) bekezdése és (9) bekezdése b) pontja, továbbá a 40. § előírásai szerint lehet.
 
 (2) A járdán építmény, köztárgy, berendezés csak abban az esetben állhat, ha
 
@@ -10,10 +10,10 @@ b) a rendeltetésszerű használata a gyalogosok közlekedését nem zavarja, bi
 
 c) a járművezetők kilátását nem gátolja, a közúti forgalmi jelzések felismerését nem akadályozza, a közút forgalmát nem veszélyezteti,
 
-d)[^209] a közművek elhelyezését, üzemeltetését, karbantartását nem akadályozza.
+d)[^210] a közművek elhelyezését, üzemeltetését, karbantartását nem akadályozza.
 
-(3)[^210] A járdán építmények, köztárgyak, berendezések, korlátok csak az előírt szélességű gyalogossáv és az úttest felőli biztonsági sáv közötti berendezési sávban állhatnak. Növényzet a gyalogossáv és a telekhatár közötti területen is telepíthető. A kijelölt gyalogos-átkelőhelyektől a forgalom haladási irányával ellenkező irányban, továbbá a gyalogos-átkelőhely nélküli forgalmi csomópontban az úttest szegélyének sarokpontjától mért 5,00 m-en belüli részén 0,50 m-nél magasabb építmény, kilátást zavaró köztárgy, berendezés és növényzet nem állhat.
+(3)[^211] A járdán építmények, köztárgyak, berendezések, korlátok csak az előírt szélességű gyalogossáv és az úttest felőli biztonsági sáv közötti berendezési sávban állhatnak. Növényzet a gyalogossáv és a telekhatár közötti területen is telepíthető. A kijelölt gyalogos-átkelőhelyektől a forgalom haladási irányával ellenkező irányban, továbbá a gyalogos-átkelőhely nélküli forgalmi csomópontban az úttest szegélyének sarokpontjától mért 5,00 m-en belüli részén 0,50 m-nél magasabb építmény, kilátást zavaró köztárgy, berendezés és növényzet nem állhat.
 
-[^208]: A 39. § (1) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 13. §-ával megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^209]: A 39. § (2) bekezdés d) pontja a 217/2018. (XI. 27.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
-[^210]: A 39. § (3) bekezdése a 90/2012. (IV. 26.) Korm. rendelet 32. § 30. pontja szerint módosított szöveg.
+[^209]: A 39. § (1) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 13. §-ával megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^210]: A 39. § (2) bekezdés d) pontja a 217/2018. (XI. 27.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
+[^211]: A 39. § (3) bekezdése a 90/2012. (IV. 26.) Korm. rendelet 32. § 30. pontja szerint módosított szöveg.
