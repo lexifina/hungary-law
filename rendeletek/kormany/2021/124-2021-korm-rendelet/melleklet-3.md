@@ -12,6 +12,6 @@
 
 | 6. | Kereskedelem, közvetítés, szállítás, gyűjtés engedélyezése (az országos hulladékgazdálkodási hatóság eljárása). | A környezeti zaj és rezgés elleni védelem követelményeinek, a levegőtisztaság-védelmi előírásoknak, a földtani közeg védelme követelményeinek, valamint ha a hulladékgazdálkodási tevékenység külterületen, illetve belterület esetén természeti területen, országos jelentőségű védett természeti területen, Natura 2000 területen, barlang védőövezetén folyik, továbbá ha barlangot, egyedi tájértéket közvetlenül érint, a természet védelmére vonatkozó nemzeti és európai uniós jogi követelményeknek, a tájvédelem jogszabályban rögzített követelményeinek való megfelelés vizsgálata. | IGEN | NEM | NEM |
 
-3. melléklet a 124/2021. (III. 12.) Korm. rendelethez[^21]
+3. melléklet a 124/2021. (III. 12.) Korm. rendelethez[^22]
 
-[^21]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
