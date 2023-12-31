@@ -1,3 +1,3 @@
-4. § A Rendelet 112. § (1) bekezdése helyébe a következő rendelkezés lép:
+4. §[^5]
 
-„(1) A kedvezményezettnek az átalány alapján elszámolt költségeket alátámasztó dokumentumokat nem kell benyújtania az irányító hatóságnak, az irányító hatóság azokat helyszíni ellenőrzés keretében sem ellenőrizheti.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

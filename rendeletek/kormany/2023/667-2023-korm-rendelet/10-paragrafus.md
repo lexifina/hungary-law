@@ -1,7 +1,3 @@
-10. § A Rendelet
+10. §[^11]
 
-a) 168. § (2) bekezdésében a „záró projektfenntartási jelentésről” szövegrész helyébe a „ZPFJ-ről” szöveg,
-
-b) 175. §-ában a „záró projektfenntartási jelentés (a továbbiakban: ZPFJ)” szövegrész helyébe a „ZPFJ” szöveg
-
-lép.
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

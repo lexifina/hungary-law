@@ -1,5 +1,3 @@
-11. § Hatályát veszti a Rendelet
+11. §[^12]
 
-a) 21. § (1) bekezdés h) pontja,
-
-b) 21. § (2) bekezdésében az „és h) pontja” szövegrész.
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
