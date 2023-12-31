@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-292-20-
 | 2018-12-18 | 2013-292-20-22.13 | 249/2018. (XII. 17.) Korm. rendelet |
 | 2023-01-01 | 2013-292-20-22.14 | 368/2014. (XII. 30.) Korm. rendelet |
 | 2023-04-30 | 2013-292-20-22.15 | 107/2023. (III. 30.) Korm. rendelet |
+| 2023-12-31 | 2013-292-20-22.16 | 675/2023. (XII. 29.) Korm. rendelet |

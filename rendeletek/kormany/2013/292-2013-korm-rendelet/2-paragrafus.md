@@ -1,0 +1,3 @@
+2. §[^12] Az ideiglenes ellátást és a szükségellátást megelőzően a településen hulladékgazdálkodási közszolgáltatási résztevékenységet végző gazdálkodó szervezet a folyamatos ellátás biztosítása érdekében – a személyes adatok kivételével – az ideiglenes ellátáshoz vagy a szükségellátáshoz kapcsolódó, hulladékszállításhoz és hulladékkezelésre történő átadáshoz szükséges adatokat a katasztrófavédelmi szerv és a Koordináló szerv részére annak felhívására haladéktalanul átadja.
+
+[^12]: A 2. § a 330/2016. (XI. 4.) Korm. rendelet 7. § b) pontja, a 249/2018. (XII. 17.) Korm. rendelet 4. §-a, a 675/2023. (XII. 29.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.
