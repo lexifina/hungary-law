@@ -16,13 +16,13 @@ I. Fejezet
 
 1.2.[^3] Nem tartozik a szabályzat hatálya alá a zárt technológiai láncba (géprendszerbe) beépített és csak a gépet kiszolgáló emelőszerkezet és azok teherfelvevő eszközei, a felvonó, az úszólétesítményeken lévő emelőgép, valamint a földmunkagép, kivéve, ha az emelőgép (daru) üzemmódban működik.
 
-1.3.[^4] Nem tartozik továbbá a szabályzat hatálya alá a kiszolgált technológiába épített vagy ahhoz telepített, és kizárólag egy meghatározott munkadarab megfogására alkalmas emelőgép 200 kg megengedett teherbírás alatt és legfeljebb 2,00 m emelési magasságig, amennyiben:
+1.3.[^4] Nem tartozik továbbá a szabályzat hatálya alá a kiszolgált technológiába épített vagy ahhoz telepített, és kizárólag egy meghatározott munkadarab megfogására alkalmas emelőgép 200 kg megengedett teherbírás alatt és legfeljebb 2,00 m emelési magasságig, valamint a hajtató kertészetekben alkalmazott kertészeti művelőkocsi, amennyiben:
 
-– a gyártó a használati utasításában meghatározta a felülvizsgálatok rendjét és módját, és a munkáltató a felülvizsgálatot annak megfelelően végzi el,
+– a gyártó a használati utasításban meghatározta a felülvizsgálatok rendjét, módját, amelyek szerint a munkáltató elvégzi vagy elvégezteti az előírt felülvizsgálatokat, és a szükséges karbantartásokat,
 
-– a munkáltató igazolt módon gondoskodik a kezelő balesetmentes munkavégzéséhez szükséges oktatásáról és meggyőződik a szakmai ismeretek elsajátításáról, valamint
+– a munkáltató gondoskodik a használatra jogosult kezelő kijelöléséről, a rendeltetés szerinti használatot biztosító elméleti és gyakorlati oktatás végrehajtásáról, és meggyőződik azok készség szintű elsajátításáról, valamint
 
-– a munkáltató kockázatértékelése alapján gondoskodik az emelőgép veszélymentes üzemeltetéséről.
+– a munkáltató kockázatértékelése alapján gondoskodik az emelőgép, illetve a kertészeti művelőkocsi biztonságos használatáról.
 
 2. Fogalommeghatározások
 
@@ -74,9 +74,9 @@ Aki az emelőgép jelen szabályzat szerinti időszakos vizsgálatának elvégz�
 
 Aki az emelőgép tulajdonosa vagy bérbe adója, illetve aki az emelőgépet üzemelteti.
 
-2.11. Teherfelvevő eszköz
+2.11.[^5] Teherfelvevő eszköz
 
-A gépek biztonsági követelményeiről és megfelelőségének tanúsításáról szóló 21/1998. (IV. 17.) IKIM rendelet[^5] szerint.
+A gépek biztonsági követelményeiről és megfelelőségének tanúsításáról szóló 16/2008. (VIII. 30.) NFGM rendelet szerint.
 
 2.12. Irányító
 
@@ -1535,8 +1535,8 @@ egyéb emelőszerkezetekre
 [^1]: A 2. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 11. §-ának 32. pontja hatályon kívül helyezte.
 [^2]: A melléklet I. Fejezetének 1.1. alpontja a 135/2004. (XII. 16.) GKM rendelet 1. §-ával megállapított szöveg.
 [^3]: A melléklet I. Fejezetének 1.2. alpontja a 135/2004. (XII. 16.) GKM rendelet 1. §-ával megállapított szöveg.
-[^4]: A melléklet I. fejezet 1. alcím 1.3. pontját a 17/2013. (VI. 4.) NGM rendelet 11. § (1) bekezdése iktatta be.
-[^5]: A 21/1998. (IV. 17.) IKIM rendeletet a 16/2008. (VIII. 30.) NFGM rendelet hatályon kívül helyezte 2009. december 29. napjával.
+[^4]: A Melléklet I. fejezet 1. pont 1.3. alpontját a 17/2013. (VI. 4.) NGM rendelet 11. § (1) bekezdése iktatta be, szövege az 58/2023. (XII. 28.) GFM rendelet 1. §-ával megállapított szöveg.
+[^5]: A Melléklet I. fejezet 2. pont 2.11. alpontja az 58/2023. (XII. 28.) GFM rendelet 1. §-ával megállapított szöveg.
 [^6]: A melléklet I. Fejezetének 4.5. alpontja a 135/2004. (XII. 16.) GKM rendelet 1. §-ával megállapított szöveg.
 [^7]: A melléklet I. Fejezetének 5.1. alpontja a 135/2004. (XII. 16.) GKM rendelet 1. §-ával megállapított, az 54/2021. (XI. 5.) ITM rendelet 10. §-a szerint módosított szöveg.
 [^8]: A munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló 33/1998. (VI. 24.) NM rendelet.
