@@ -1,0 +1,3 @@
+## 3. A jövedelem-hozzászámítási szabály beszámítási mechanizmusa
+
+10. § Amennyiben a Magyarországon található anyavállalat közvetett tulajdonosi részesedéssel rendelkezik egy alacsony adóterhelésű csoporttagban egy olyan közbenső anyavállalaton vagy részleges tulajdonban álló anyavállalaton keresztül, amely az adott adóévben elismert jövedelem-hozzászámítási szabály hatálya alá tartozik, az 5–8. § szerinti IIR adót csökkenteni kell az IIR adónak az elsőként említett anyavállalatnak tulajdonítható részarányával megegyező azon összeggel, amely a közbenső anyavállalat vagy a részleges tulajdonban álló anyavállalat által fizetendő.

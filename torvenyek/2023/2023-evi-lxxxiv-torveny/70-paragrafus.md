@@ -1,0 +1,5 @@
+70. § Az Szt. 177. §-a a következő (94) és (95) bekezdéssel egészül ki:
+
+„(94) E törvénynek a globális minimum-adószintet biztosító kiegészítő adókról és ezzel összefüggésben egyes adótörvények módosításáról szóló 2023. évi LXXXIV. törvénnyel megállapított 3. § (16) bekezdését, 37. § (8) és (9) bekezdését, 38. § (3) bekezdés b) pontját, 45/A. §-át, 87. § (2), (2a) és (3) bekezdését, 91. § c) pontját, 92. § (5) bekezdését, 132. §-át, valamint az 1., 2., 3. és 6. számú mellékletét először a 2024. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+
+(95) E törvénynek a globális minimum-adószintet biztosító kiegészítő adókról és ezzel összefüggésben egyes adótörvények módosításáról szóló 2023. évi LXXXIV. törvénnyel megállapított 3. § (16) bekezdését, 37. § (8) és (9) bekezdését, 38. § (3) bekezdés b) pontját, 45/A. §-át, 87. § (2), (2a) és (3) bekezdését, 91. § c) pontját, 92. § (5) bekezdését, 132. §-át, valamint az 1., 2., 3. és 6. számú mellékletét a 2023. évben induló üzleti évről készített beszámolóra is alkalmazni lehet.”

@@ -1,0 +1,5 @@
+8. § (1) A jövedelem-hozzászámítási szabály szerint keletkezik kiegészítő adókötelezettsége az adóévben Magyarországon illetőséggel rendelkező részleges tulajdonban álló anyavállalatnak, egy másik államban illetőséggel rendelkező vagy illetőség nélküli, alacsony adóterhelésű csoporttagjára tekintettel.
+
+(2) A jövedelem-hozzászámítási szabály szerint keletkezik kiegészítő adókötelezettsége az adóévben Magyarországon illetőséggel rendelkező részleges tulajdonban álló anyavállalatnak saját magára és Magyarországon illetőséggel rendelkező alacsony adóterhelésű csoporttagjára tekintettel, amennyiben Magyarország alacsony adóterhelésű államnak minősül az adott vállalatcsoport vonatkozásában.
+
+(3) Az (1) és (2) bekezdés nem alkalmazandó abban az esetben, ha a részleges tulajdonban álló anyavállalatban lévő tulajdonosi részesedések – közvetlenül vagy közvetve – egy másik, részleges tulajdonban álló anyavállalat tulajdonában vannak, amely az adóévben elismert jövedelem-hozzászámítási szabályt köteles alkalmazni.
