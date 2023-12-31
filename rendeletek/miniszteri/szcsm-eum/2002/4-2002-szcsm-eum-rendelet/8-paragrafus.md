@@ -1,4 +1,4 @@
-## 8. § A koordinátor feladatai az építőipari kivitelezési tevékenységgel összefüggésben a következők:
+8. §[^10] A biztonsági és egészségvédelmi koordinátor feladatai az építőipari kivitelezési tevékenységgel összefüggésben a következők:
 
 a) a meghatározott követelmények megvalósulásának összehangolása annak érdekében, hogy a munkáltató és – amennyiben a munkavállalók érdekében ez szükséges – a munkát személyesen végző önálló vállalkozók a 10. §-ban meghatározottakat, továbbá a 6. § (2) bekezdés b) pontjában megállapított biztonsági és egészségvédelmi tervben meghatározottakat megvalósítsák;
 
@@ -9,3 +9,5 @@ c) közreműködés az építési munkahelyen egyidejűleg tevékenykedő, illet
 d) a munkafolyamatok ellenőrzésének összehangolása;
 
 e) a szükséges intézkedések megtétele annak érdekében, hogy az építési munkahelyre kizárólag csak az arra jogosultak léphessenek be.
+
+[^10]: A 8. § nyitó szövegrésze a 64/2023. (XII. 28.) GFM rendelet 4. § e) pontja szerint módosított szöveg.

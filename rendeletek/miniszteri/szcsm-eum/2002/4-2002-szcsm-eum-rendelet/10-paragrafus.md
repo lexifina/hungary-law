@@ -1,5 +1,3 @@
-## 9. § A koordinátor megbízása vagy foglalkoztatása nem érinti a megbízónak (foglalkoztatónak) és a felelős műszaki vezetőnek a munkavédelemre vonatkozó szabályokban megállapított felelősségét.
-
 ## Az építési munkahelyeken biztosítandó minimális követelmények
 
 ## 10. § Az Mvt. 54. §-ának (1) bekezdésében meghatározott általános és a 49. §-ának (1) bekezdésében leírt személyi feltételek mellett különösen meg kell valósítani az alábbiakat:

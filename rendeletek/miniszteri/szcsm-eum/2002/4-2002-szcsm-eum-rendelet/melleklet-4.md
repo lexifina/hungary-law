@@ -104,7 +104,7 @@ ea) ülve végzett szellemi és könnyű fizikai munkánál: 0,1 m/s,
 
 eb) helyváltoztatással járó könnyű fizikai munkánál: 0,2 m/s.
 
-5.6.[^4] A szellőztetési rendszerek üzembe helyezése során mérésekkel kell meggyőződni az elegendő mennyiségű és minőségű levegő meglétéről. Az ezt tanúsító mérési dokumentumok megőrzéséről a munkáltató gondoskodik. A munkáltató jogutód nélküli megszűnése esetén a mérési dokumentumokat át kell adni a munkavédelmi hatóságnak.
+5.6.[^16] A szellőztetési rendszerek üzembe helyezése során mérésekkel kell meggyőződni az elegendő mennyiségű és minőségű levegő meglétéről. Az ezt tanúsító mérési dokumentumok megőrzéséről a munkáltató gondoskodik. A munkáltató jogutód nélküli megszűnése esetén a mérési dokumentumokat át kell adni a munkavédelmi hatóságnak.
 
 6. Munkavégzés veszélyes körülmények között
 
@@ -118,11 +118,11 @@ eb) helyváltoztatással járó könnyű fizikai munkánál: 0,2 m/s.
 
 7.1. A munkavégzés teljes időtartalma alatt az alkalmazott munkamódszereket, a munka jellegét és az ott dolgozó munkavállalók megterhelését figyelembe véve az emberi szervezet számára megfelelő hőmérsékletet kell biztosítani.
 
-7.2. A klímakörnyezet kedvezőtlen hatásainak megelőzése céljából munkaszervezési intézkedéseket kell tenni. Óránként legalább 5, de legfeljebb 10 perces pihenőidőt kell közbeiktatni, ha a munkahelyen a munkahelyi klíma a 24 °C (K) EH értéket meghaladja, valamint a hidegnek minősülő munkahelyen.
+7.2.[^17] A klímakörnyezet kedvezőtlen hatásainak megelőzése céljából munkaszervezési intézkedéseket kell tenni. Óránként legalább 5, legfeljebb 10 perces pihenőidőt kell közbeiktatni a melegnek vagy hidegnek minősülő munkahelyeken. A munkahely melegnek minősül, ha a munkahelyi klíma a munkahelyen a 24 °C (K) EH értéket meghaladja vagy szabadtéri munkahelyen a napi középhőmérséklet legalább 1 napig meghaladja a 25 °C-ot és az országos tisztifőorvos a hőség miatt a figyelmeztetést vagy a hőségriasztást kiadta.
 
 A munkahely hidegnek minősül, ha a hőmérséklet a munkaidő 50%-ánál hosszabb időtartamban, szabadtéri munkahelyen a +4 °C-ot, illetve zárttéri munkahelyen a +10 °C-ot nem éri el.
 
-7.3. Ha a munkahelyi klíma zárttéri vagy szabadtéri munkahelyen a 24 °C (K) EH értéket meghaladja, a munkavállalók részére igény szerint, de legalább félóránként védőitalt kell biztosítani. A folyadékveszteséget általában 14–16 °C hőmérsékletű ivóvízzel kell pótolni. E célra alkalmas azonos hőmérsékletű ízesített, alkoholmentes ital is, amelynek cukortartalma az ital 4 súlyszázalékát nem haladja meg, vagy az mesterséges édesítőszerrel ízesített.
+7.3.[^18] A melegnek minősülő munkahelyeken a munkavállalók részére igény szerint, de legalább félóránként védőitalt kell biztosítani. A folyadékveszteséget általában 14–16 °C hőmérsékletű ivóvízzel kell pótolni. E célra alkalmas azonos hőmérsékletű ízesített, alkoholmentes ital is, amelynek cukortartalma az ital 4 súlyszázalékát nem haladja meg, vagy az mesterséges édesítőszerrel ízesített.
 
 7.4. A hidegnek minősülő munkahelyen a munkavállaló részére +50 °C hőmérsékletű teát kell kiszolgáltatni. A tea ízesítéséhez a 7.3. pontban előírtak figyelembevételével cukrot, illetve édesítőszert kell biztosítani.
 
@@ -556,7 +556,7 @@ Tiszta oxigént befújni tilos!
 
 14.2.4. Olvasztási munkákhoz az olvasztóüstöt legfeljebb a 3/4 részéig szabad megtölteni. Az olvasztandó anyag szennyeződést ne tartalmazzon és biztosítani kell, hogy idegen anyag az olvasztás időtartama alatt az olvasztó edénybe ne kerülhessen. Forró bitumennek vízzel vagy vizes felülettel való közvetlen érintkezését meg kell akadályozni. Az olvasztóüstöt jól zárható üstfedővel kell ellátni. Az olvasztóüst mellett tűzoltási céllal megfelelő mennyiségű homokot és lapátokat kell készenlétben tartani.
 
-14.2.5. Az olvasztóüstből a forró anyag kiszedéséhez legalább 1,5 m hosszú mérőedényt kell alkalmazni.
+14.2.5.[^19] Az olvasztóüstből a forró anyag kiszedéséhez legalább 1,5 m hosszú merőedényt kell alkalmazni.
 
 14.2.6. Az üstre a szétfröccsenést megakadályozó csatornát kell szerelni. A forró bitumenbe az olvasztani kívánt anyagot az edény fala mentén kell becsúsztatni.
 
@@ -830,7 +830,7 @@ Az állványpadozat alátámasztására ereszcsatornát, erkélypárkányt, vill
 
 6.15.1.6. Az állványpadozat anyaga teljesen egészséges, kifogástalan minőségű, legalább II. minőségi osztályú, a végein vasalattal ellátott fűrészelt fenyőáru legyen.
 
-6.15.1.7. Az állványpadozat széle és az építmény síkja között legfeljebb 30 milliméter lehet.
+6.15.1.7.[^20] Az állványpadozat széle és az építmény síkja között legfeljebb 30 cm lehet.
 
 Amennyiben a munka jellege vagy az építmény homlokzati alakja ezt nem teszi lehetővé, akkor vagy a belső oldalt is el kell látni védőkorláttal, vagy egyéni védőeszközzel kell biztosítani a védelmet.
 
@@ -1532,4 +1532,8 @@ A puttony alatti terület megközelítését kényszerkapcsolatban működő kor
 
 15.24. A betonszivattyú- és a csővezetéknek a munka befejezése utáni átfújásakor, illetve tisztításakor senki sem tartózkodhat a cső kiömlő végénél. Ekkor a cső végét rögzíteni kell.
 
-[^4]: A 4. számú melléklet I. rész 5. pont 5.6. alpontja a 27/2010. (XII. 31.) NGM rendelet 30. § (2) bekezdésével megállapított, a 9/2015. (III. 31.) NGM rendelet 29. §-a szerint módosított szöveg.
+[^16]: A 4. számú melléklet I. rész 5. pont 5.6. alpontja a 27/2010. (XII. 31.) NGM rendelet 30. § (2) bekezdésével megállapított, a 9/2015. (III. 31.) NGM rendelet 29. §-a szerint módosított szöveg.
+[^17]: A 4. melléklet I. pont 7.2. alpontja a 64/2023. (XII. 28.) GFM rendelet 3. §-ával megállapított szöveg.
+[^18]: A 4. melléklet I. pont 7.3. alpontja a 64/2023. (XII. 28.) GFM rendelet 3. §-ával megállapított szöveg.
+[^19]: A 4. számú melléklet II. pont 14.2.5. alpontja a 64/2023. (XII. 28.) GFM rendelet 4. § g) pontja szerint módosított szöveg.
+[^20]: A 4. számú melléklet III. pont 6.15.1.7. alpontja a 64/2023. (XII. 28.) GFM rendelet 4. § h) pontja szerint módosított szöveg.
