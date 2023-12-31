@@ -1,7 +1,3 @@
-3. § Hatályát veszti az R. 1. melléklet
+3. §[^4]
 
-a) 1.47. pontja,
-
-b) 1.50. pontja,
-
-c) 1.59.3–1.59.5., 1.59.28., 1.59.37., 1.59.40. pontja.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

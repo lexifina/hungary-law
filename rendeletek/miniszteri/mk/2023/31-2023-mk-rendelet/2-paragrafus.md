@@ -1,1 +1,3 @@
-2. § Az R. 1. melléklet 1.59.8. pontjában a „Hajózási Információs Rendszer (HIR),” szövegrész helyébe a „Hajózási Információs Rendszer (HIR), HIR 2,” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
