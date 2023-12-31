@@ -1,6 +1,6 @@
 2. számú melléklet az 5/1993. (XII. 26.) MüM rendelethez[^38]
 
-Munkavédelmi (munkabiztonsági) szakképesítéssel rendelkező személy foglalkoztatásának feltételei
+Munkavédelmi (munkabiztonsági) szakmai képesítéssel rendelkező személy foglalkoztatásának feltételei
 
 1. A munkáltatók tevékenységük alapján a következő munkavédelmi szempontú veszélyességi osztályba tartoznak az EU tagországok számára kötelezően alkalmazandó, a gazdasági tevékenységek egységes ágazati osztályozási rendszere: TEÁOR ’08 alapján.
 
@@ -242,39 +242,39 @@ d) 501–1000 munkavállaló között;
 
 e) 1000 munkavállaló felett.
 
-3. Az 1. és 2. pontban leírt szempontok alapján besorolt munkáltató – a 4–5. pontokban meghatározott eltérés figyelembevételével – legalább az alábbiakban meghatározott létszámú és munkavédelmi szakképesítésű személyt köteles, minimálisan az e pontban megállapított munkaidőtartamot kitöltő, munkavédelmi tevékenységre foglalkoztatni:
+3. Az 1. és 2. pontban leírt szempontok alapján besorolt munkáltató – a 4–5. pontban meghatározott eltérés figyelembevételével – legalább az alábbiakban meghatározott létszámú és munkavédelmi szakképesítésű személyt köteles, minimálisan az e pontban megállapított munkaidőtartamot kitöltő, munkavédelmi tevékenységre foglalkoztatni:
 
-I/a) egy fő középfokú munkavédelmi szakképesítésű heti négy órára,
+## I/a) egy fő középfokú munkavédelmi szakmai képesítéssel rendelkező személyt heti négy órára,
 
-I/b) egy fő középfokú munkavédelmi szakképesítésű napi három órára,
+## I/b) egy fő középfokú munkavédelmi szakmai képesítéssel rendelkező személyt napi három órára,
 
-I/c) egy fő középfokú munkavédelmi szakképesítésű napi hat órára,
+## I/c) egy fő középfokú munkavédelmi szakmai képesítéssel rendelkező személyt napi hat órára,
 
-I/d) egy fő felsőfokú munkavédelmi szakképesítésű teljes munkaidővel,
+## I/d) egy fő felsőfokú munkavédelmi szakmai képesítéssel rendelkező személyt teljes munkaidővel,
 
-I/e) egy fő felsőfokú munkavédelmi szakképesítésű teljes munkaidővel és minden megkezdett 400 munkavállaló után további egy-egy fő középfokú munkavédelmi szakképesítésű teljes munkaidővel,
+## I/e) egy fő felsőfokú munkavédelmi szakmai képesítéssel rendelkező személyt teljes munkaidővel és minden megkezdett 400 munkavállaló után további egy-egy fő középfokú munkavédelmi szakmai képesítéssel rendelkező személyt teljes munkaidővel,
 
-II/a) egy fő középfokú munkavédelmi szakképesítésű heti egy órára,
+## II/a) egy fő középfokú munkavédelmi szakmai képesítéssel rendelkező személyt heti egy órára,
 
-II/b) egy fő középfokú munkavédelmi szakképesítésű napi egy órára,
+## II/b) egy fő középfokú munkavédelmi szakmai képesítéssel rendelkező személyt napi egy órára,
 
-II/c) egy fő középfokú munkavédelmi szakképesítésű napi két órára,
+## II/c) egy fő középfokú munkavédelmi szakmai képesítéssel rendelkező személyt napi két órára,
 
-II/d) egy fő középfokú munkavédelmi szakképesítésű teljes munkaidővel,
+## II/d) egy fő középfokú munkavédelmi szakmai képesítéssel rendelkező személyt teljes munkaidővel,
 
-II/e) egy fő felsőfokú munkavédelmi szakképesítésű teljes munkaidővel és minden megkezdett 800 munkavállaló után további egy-egy fő középfokú munkavédelmi szakképesítésű teljes munkaidővel,
+## II/e) egy fő felsőfokú munkavédelmi szakmai képesítéssel rendelkező személyt teljes munkaidővel és minden megkezdett 800 munkavállaló után további egy-egy fő középfokú munkavédelmi szakmai képesítéssel rendelkező személyt teljes munkaidővel,
 
-III/a) egy fő középfokú munkavédelmi szakképesítésű heti egy órára,
+## III/a) egy fő középfokú munkavédelmi szakmai képesítéssel rendelkező személyt heti egy órára,
 
-III/b) egy fő középfokú munkavédelmi szakképesítésű napi egy órára,
+## III/b) egy fő középfokú munkavédelmi szakmai képesítéssel rendelkező személyt napi egy órára,
 
-III/c) egy fő középfokú munkavédelmi szakképesítésű napi egy órára,
+## III/c) egy fő középfokú munkavédelmi szakmai képesítéssel rendelkező személyt napi egy órára,
 
-III/d) egy fő középfokú munkavédelmi szakképesítésű napi négy órára,
+## IIII/d) egy fő középfokú munkavédelmi szakmai képesítéssel rendelkező személyt napi négy órára,
 
-III/e) egy fő felsőfokú munkavédelmi szakképesítésű teljes munkaidővel.
+## III/e) egy fő felsőfokú munkavédelmi szakmai képesítéssel rendelkező személyt teljes munkaidővel és minden megkezdett 1500 munkavállaló után további egy-egy fő középfokú munkavédelmi szakmai képesítéssel rendelkező személy teljes munkaidővel.
 
-4. A legfeljebb 9 fő munkavállalót foglalkoztató munkáltató (mikrovállalkozás) esetén, továbbá ha a munkáltató a tevékenysége alapján a II. vagy III. veszélyességi osztályba tartozik, és 50 főnél kevesebb munkavállalót foglalkoztat (kisvállalkozás), akkor külön szakember kijelölése (foglalkoztatása) helyett kijelölt munkavállalójával vagy természetes személy munkaadóként maga is elláthatja az egészséget nem veszélyeztető és biztonságos munkavégzés munkáltatói feladatait, amennyiben a kijelölt személy vagy ő maga rendelkezik az azok ellátásához a munkáltató tényleges szakmai tevékenységére tekintettel szükséges ismeretekkel, készséggel és jártassággal. Valamennyi esetben (kijelölés, foglalkoztatás vagy a munkavédelmi feladatok személyes ellátása) a munkáltató kötelessége továbbá, hogy a munkavédelemre vonatkozó szabályokban előírt munkabiztonsági szaktevékenység elvégzésére munkavédelmi (bányászati) szakképesítésű személyt vegyen igénybe. Ez a személy lehet a kijelölt (foglalkoztatott) szakember vagy – a szakképzettségi feltétel fennállása esetén – a természetes személy munkáltató is.
+4. A legfeljebb 9 fő munkavállalót foglalkoztató munkáltató (mikrovállalkozás) esetén, továbbá ha a munkáltató a tevékenysége alapján a II. vagy III. veszélyességi osztályba tartozik, és 50 főnél kevesebb munkavállalót foglalkoztat (kisvállalkozás), akkor külön szakember kijelölése (foglalkoztatása) helyett kijelölt munkavállalójával vagy természetes személy munkaadóként maga is elláthatja az egészséget nem veszélyeztető és biztonságos munkavégzés munkáltatói feladatait, amennyiben a kijelölt személy vagy ő maga rendelkezik az azok ellátásához a munkáltató tényleges szakmai tevékenységére tekintettel szükséges ismeretekkel, készséggel és jártassággal. Valamennyi esetben (kijelölés, foglalkoztatás vagy a munkavédelmi feladatok személyes ellátása) a munkáltató kötelessége továbbá, hogy a munkavédelemre vonatkozó szabályokban előírt munkabiztonsági szaktevékenység elvégzésére munkavédelmi (bányászati) szakmai képesítéssel rendelkező személyt vegyen igénybe. Ez a személy lehet a kijelölt (foglalkoztatott) szakember vagy – a szakképzettségi feltétel fennállása esetén – a természetes személy munkáltató is.
 
 5. Az 1. és a 2. pont szerinti besorolásról és ez alapján a 3. pont szerinti foglalkoztatásról a munkáltató saját felelősséggel gondoskodik.
 
@@ -292,4 +292,4 @@ Tanulókat, hallgatókat abban az arányban kell a munkavállalói létszámhoz 
 
 7. A munkáltató köteles a besorolását veszélyességi osztály vagy létszám kategória megváltozásakor módosítani és a besorolás megfelelősségét évenként felülvizsgálni, valamint mindezt írásban dokumentálni.
 
-[^38]: A Vhr. 2. számú melléklete az 5/2010. (III. 9.) SZMM rendelet 8. § (2) bekezdésével megállapított, a 41/2011. (X. 14.) NGM rendelet 9. §-a, 10. § (1) bekezdése, a 33/2016. (IX. 8.) NGM rendelet 2. § (1) bekezdése, a 62/2016. (XII. 29.) NGM rendelet 45. § (3) bekezdése szerint módosított szöveg.
+[^38]: A Vhr. 2. számú melléklete az 5/2010. (III. 9.) SZMM rendelet 8. § (2) bekezdésével megállapított, a 41/2011. (X. 14.) NGM rendelet 9. §-a, 10. § (1) bekezdése, a 33/2016. (IX. 8.) NGM rendelet 2. § (1) bekezdése, a 62/2016. (XII. 29.) NGM rendelet 45. § (3) bekezdése, az 56/2023. (XII. 28.) GFM rendelet 3. §-a szerint módosított szöveg.
