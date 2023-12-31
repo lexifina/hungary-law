@@ -1,1 +1,0 @@
-80. § A XLVIII. Európai Unióból érkező Járvány Elleni Támogatások Alapja fejezetben elszámolt bevétel erejéig a XLVIII. Európai Unióból Érkező Járvány Elleni Támogatások Alapja fejezet kiadási előirányzatáról kiadás teljesíthető.

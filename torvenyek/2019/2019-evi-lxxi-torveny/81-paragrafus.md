@@ -1,1 +1,0 @@
-81. § A Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény módosításáról szóló 2020. évi LX. törvény (a továbbiakban: Kvtvmód. tv.) 5. §-ával megállapított 39. § (6) és (8) bekezdését a Kvtvmód. tv. hatálybalépése napjától kell alkalmazni.

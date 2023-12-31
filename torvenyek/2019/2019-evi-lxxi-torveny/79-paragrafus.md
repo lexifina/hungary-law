@@ -1,1 +1,0 @@
-79. § A XLVII. Gazdaságvédelmi Alap fejezet, 1. Gazdaságvédelmi Programok cím előirányzata terhére a Kormány jóváhagyásával előirányzat-módosítási kötelezettség nélkül az eredeti előirányzaton felül kiadás teljesíthető.

@@ -1,1 +1,0 @@
-78. § A XLVI. Járvány Elleni Védekezési Alap fejezet, 1. Járvány Elleni Védekezés Központi Tartaléka cím előirányzata terhére előirányzat-módosítási kötelezettség nélkül az eredeti előirányzaton felül kiadás teljesíthető.
