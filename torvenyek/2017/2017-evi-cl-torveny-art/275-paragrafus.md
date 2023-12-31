@@ -27,3 +27,5 @@ e) a nem a visszatérítés helye szerinti tagállamban, hanem egy másik tagál
 a) a 2006/112/EK irányelvnek a termékek távértékesítésére és bizonyos belföldi termékértékesítésekre vonatkozó rendelkezések tekintetében történő módosításáról szóló, 2019. november 21-i (EU) 2019/1995 tanácsi irányelv,
 
 b) az (EU) 2017/2455 és az (EU) 2019/1995 irányelvnek a Covid19-világjárvány miatt szükségessé vált, az átültetési határidő és az alkalmazás kezdőnapja tekintetében történő módosításáról szóló, 2020. július 20-i (EU) 2020/1109 tanácsi határozat.
+
+(8) E törvénynek a globális minimum-adószintet biztosító kiegészítő adókról és ezzel összefüggésben egyes adótörvények módosításáról szóló LXXXIV. törvény által megállapított 227/B. és 274/R. §-a, valamint 2. melléklet A) Általános rendelkezések pont 3. alpontja az Unióban a multinacionális vállalatcsoportokra és a nagy volumenű belföldi vállalatcsoportokra vonatkozó globális minimum-adószint biztosításáról szóló 2022. december 14-i (EU) 2022/2523 tanácsi irányelvnek való megfelelést szolgálja.

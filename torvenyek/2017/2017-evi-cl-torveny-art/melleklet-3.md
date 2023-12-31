@@ -8,7 +8,7 @@
 
 ## 2. A havi vagy évközi adóbevallásra nem kötelezett adózó valamennyi adóról a megállapításra előírt időszakonkénti részletezésben éves bevallást tesz.
 
-## 3. Az adózó valamennyi adóról – az általános forgalmi adó, a jövedéki adó, a társasági adó (adóelőleg) és az 50. § (2) bekezdése szerinti bevallás kivételével –, ha az adóévet megelőző második évben a nettó módon számított elszámolandó általános forgalmi adója vagy a nettó módon számított jövedéki adója vagy a természetes személyektől általa levont jövedelemadó-előleg vagy a természetes személyektől általa levont jövedelemadó-előleg és jövedelemadó együttes összege
+## 3. Az adózó valamennyi adóról – az általános forgalmi adó, a jövedéki adó, a társasági adó (adóelőleg), globális minimum-adószintet biztosító kiegészítő adók és az 50. § (2) bekezdése szerinti bevallás kivételével –, ha az adóévet megelőző második évben a nettó módon számított elszámolandó általános forgalmi adója vagy a nettó módon számított jövedéki adója vagy a természetes személyektől általa levont jövedelemadó-előleg vagy a természetes személyektől általa levont jövedelemadó-előleg és jövedelemadó együttes összege
 
 ## 3.1. a tízmillió forintot elérte havonta,
 
@@ -247,15 +247,3 @@
 ## fizeti meg.
 
 ## 4.2. A Tbj. 43. §-a alapján fizetendő egészségügyi szolgáltatási járulék
-
-## A természetes személy a Tbj. 43. § (1) bekezdése alapján előírt járulékfizetési kötelezettségét a tárgyhót követő hónap 12. napjáig vagy az állami adó és vámhatóság által meghatározott időpontig teljesíti.
-
-## 5. Játékadó
-
-## 5.1. Az adózó – az 5.2. alpontban foglalt kivétellel – a játékadót a tárgyhót követő hó huszadik napjáig, a nem folyamatosan szervezett sorsolásos játék esetén a sorsolás napját követő hó huszadik napjáig vallja be és fizeti meg.
-
-## 5.2. A játékautomata éves adóját az adózó az erre vonatkozó bevallás benyújtásával egyidejűleg fizeti meg.
-
-## 6. Rehabilitációs hozzájárulás
-
-## 6.1. Az adózó a rehabilitációs célú hozzájárulásra a jogszabályban előírt módon számított előleget az I–III. negyedévben a negyedévet követő hó huszadik napjáig fizeti meg.
