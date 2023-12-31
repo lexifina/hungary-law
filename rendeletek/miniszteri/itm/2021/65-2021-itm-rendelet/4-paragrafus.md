@@ -4,7 +4,7 @@
 
 (2) Az oktatási hivatal a beérkezéstől számított 8 napon belül ellenőrzi, hogy a létesítési dokumentum teljes körű-e, és hiányos benyújtás esetén a felsőoktatási intézményt határidő tűzésével a létesítési dokumentum kiegészítésére hívja fel.
 
-(3) Ha a Magyar Felsőoktatási Akkreditációs Bizottság és a Felsőoktatási Tervezési Testület a képzés létesítését támogatta, továbbá alapképzési szak létesítése esetében a Magyar Rektori Konferencia az alapképzési szak létesítését támogatta, és a létesítési dokumentum hiánytalan, az oktatási hivatal a létesítési dokumentum beérkezésétől számított 8 napon belül, illetve a hiánypótlási felhívásban meghatározott határidő elteltével – a benyújtott, kiegészített létesítési dokumentum megküldésével – a miniszternél kezdeményezi az új felsőoktatási szakképzés és szakképzettség, illetve alapképzési és mesterképzési szak és szakképzettség képesítési jegyzékbe történő felvételét, valamint a szak képzési és kimeneti követelményeinek közzétételét.
+(3)[^2] Ha a Magyar Felsőoktatási Akkreditációs Bizottság a képzés létesítését támogatta, továbbá alapképzési szak létesítése esetében a Magyar Rektori Konferencia az alapképzési szak létesítését támogatta, és a létesítési dokumentum hiánytalan, az oktatási hivatal a létesítési dokumentum beérkezésétől számított 8 napon belül, illetve a hiánypótlási felhívásban meghatározott határidő elteltével – a benyújtott, kiegészített létesítési dokumentum megküldésével – a miniszternél kezdeményezi az új felsőoktatási szakképzés és szakképzettség, illetve alapképzési és mesterképzési szak és szakképzettség képesítési jegyzékbe történő felvételét, valamint a szak képzési és kimeneti követelményeinek közzétételét.
 
 (4) A létesítési dokumentumnak tartalmaznia kell
 
@@ -30,6 +30,9 @@ e) alapképzési szak létesítése esetén a Magyar Rektori Konferencia képzé
 
 f) a Magyar Felsőoktatási Akkreditációs Bizottság 5. § (1) bekezdése szerinti véleményét;
 
-g) a Felsőoktatási Tervezési Testület 5. § (3) bekezdése szerinti véleményét;
+g)[^3]
 
 h) az alapképzési, mesterképzési szak vagy felsőoktatási szakképzés képzési és kimeneti követelményeiről a felsőoktatási intézmény – Nftv. 12. § (3) bekezdés e) pont ea) alpontja és h) pont hf) alpontja alapján hozott – szenátusi döntésének hitelesített kivonatát, ha a létesítés kezdeményezője felsőoktatási intézmény.
+
+[^2]: A 4. § (3) bekezdése a 11/2023. (XII. 23.) KIM rendelet 3. § a) pontja szerint módosított szöveg.
+[^3]: A 4. § (4) bekezdés g) pontját a 11/2023. (XII. 23.) KIM rendelet 3. § b) pontja hatályon kívül helyezte.

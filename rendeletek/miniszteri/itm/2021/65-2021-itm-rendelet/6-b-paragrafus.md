@@ -1,4 +1,4 @@
-6/B. §[^3] (1) A 2. mellékletében foglalt táblázat
+6/B. §[^6] (1) A 2. mellékletében foglalt táblázat
 
 a) C:33 mezője szerinti informatikus könyvtáros,
 
@@ -40,4 +40,4 @@ c) C: 252 mezője szerinti formatervező művész
 
 szak hallgatói a műszaki képzési terület szakjain megszerezhető horizontális kompetenciákkal összevethető ismereteket is szereznek.
 
-[^3]: A 6/B. §-t az 5/2023. (VII. 27.) KIM rendelet 8. §-a iktatta be.
+[^6]: A 6/B. §-t az 5/2023. (VII. 27.) KIM rendelet 8. §-a iktatta be.

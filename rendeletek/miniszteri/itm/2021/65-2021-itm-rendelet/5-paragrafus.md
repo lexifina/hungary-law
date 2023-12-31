@@ -6,4 +6,6 @@ b) a képzési és kimeneti követelmény alapján, a szakon a szakképzettség 
 
 (2) Az (1) bekezdésben foglaltakon túlmenően a felsőoktatási intézmény felkérésére a Magyar Felsőoktatási Akkreditációs Bizottság szakmai szempontrendszere alapján az Nftv. 67. § (4) bekezdése szerinti szakvéleményt készít a felsőoktatási szakképzés, az alap- és mesterképzés indításának nyilvántartásba vételéhez a szak képzési és kimeneti követelményei alapján elkészített szakindítási dokumentumról véleményt nyilvánítva arról, hogy az adott képzés indításának feltételei fennállnak-e a felsőoktatási intézménynél.
 
-(3) A Felsőoktatási Tervezési Testület arról ad véleményt, hogy munkaerőpiaci, foglalkoztatási szempontból indokolt-e a szak felsőoktatási képesítési jegyzékbe történő felvétele.
+(3)[^4]
+
+[^4]: Az 5. § (3) bekezdését a 11/2023. (XII. 23.) KIM rendelet 3. § c) pontja hatályon kívül helyezte.

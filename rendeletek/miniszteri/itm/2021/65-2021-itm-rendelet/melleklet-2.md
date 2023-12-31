@@ -62,10 +62,10 @@
 
 | 20. | légijármű-vezetés felsőoktatási szakképzés | Professional Pilot Training | légijármű-vezető | Professional Pilot | 5 |
 
-| 21.[^5] | Társadalom-tudomány | Social Science | társadalmi integráció felsőoktatási szakképzés | Social Integration | integrációs asszisztens | Social Integration Assistant | 5 |
+| 21.[^10] | Társadalom-tudomány | Social Science | társadalmi integráció felsőoktatási szakképzés | Social Integration | integrációs asszisztens | Social Integration Assistant | 5 |
 
 2. melléklet a 65/2021. (XII. 29.) ITM rendelethez
 
 Alapképzések és alapképzésben szerezhető szakképzettségek jegyzéke
 
-[^5]: Az 1. mellékletben foglalt táblázat 21. sorát az 5/2023. (VII. 27.) KIM rendelet 10. § (1) bekezdése iktatta be.
+[^10]: Az 1. mellékletben foglalt táblázat 21. sorát az 5/2023. (VII. 27.) KIM rendelet 10. § (1) bekezdése iktatta be.
