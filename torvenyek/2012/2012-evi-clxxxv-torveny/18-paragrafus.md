@@ -1,1 +1,1 @@
-18. § Hulladéklerakó létesítményhez kapcsolódó tevékenység esetében a hulladékgazdálkodási hatóság a 92. § (2) bekezdésében foglaltakra tekintettel az ártalmatlanításra vonatkozó hulladékgazdálkodási engedélyben meghatározza a hulladéklerakón a települési hulladék részeként elhelyezhető biológiailag lebomló szerves anyag mennyiségét.
+### 18. §

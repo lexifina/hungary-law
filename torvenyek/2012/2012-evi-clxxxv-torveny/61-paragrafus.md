@@ -110,15 +110,17 @@ vonatkozó adatokat.
 
 (24) A (4) bekezdésben, és a 12. § (1) bekezdésben foglaltak megsértése esetén a hulladékgazdálkodási hatóság a magyar állam javára a követelés és kamatai összegéig jelzáloggal terheli meg a (3) bekezdésben meghatározott ingatlant, az ingatlanügyi hatóság a hulladékgazdálkodási hatóság megkeresésére a jelzálogjogot az ingatlan-nyilvántartásba soron kívül bejegyzi.
 
-(24a) A (3) bekezdés szerint kötelezett ingatlantulajdonos esetében a hulladék felszámolásával összefüggésben felmerült költségek tekintetében a hulladékgazdálkodási hatóság a tartozást a kötelezett kérelmére különös méltánylást igénylő esetekben mérsékelheti vagy elengedheti, illetve a végrehajtást a (3) bekezdésben meghatározott ingatlanra korlátozhatja.
+(24a) A hulladék felszámolásának a hulladékgazdálkodási hatóság általi foganatosítása során felmerült, a kötelezett által megtérítendő költségek megfizetési kötelezettségét a hulladékgazdálkodási hatóság – a (3) bekezdés szerint kötelezett ingatlantulajdonos kérelmére – különös méltánylást igénylő esetben mérsékelheti vagy a megtérítési kötelezettség alól felmentést adhat, illetve a végrehajtást a (3) bekezdésben meghatározott ingatlanra korlátozhatja.
 
-(24b) Természetes személy esetében különös méltánylást igénylő eset az, ha a tartozás megfizetése a kötelezett és a vele együtt élő hozzátartozók megélhetését súlyosan veszélyeztetné vagy a kötelezett számára súlyosan aránytalan megterhelést jelentene.
+(24b) Természetes személy esetében különös méltánylást igénylő eset az, ha a költség megfizetése a kötelezett és a vele együtt élő hozzátartozók megélhetését súlyosan veszélyeztetné vagy a kötelezett számára súlyosan aránytalan megterhelést jelentene.
 
-(24c) Vállalkozási tevékenységet elsődlegesen nem folytató, nem természetes személy esetében különös méltánylást igénylő eset, ha a tartozás megfizetése a kötelezett számára az elsődlegesen végzett tevékenységét veszélyezhető, súlyosan aránytalan megterhelést jelentene.
+(24c) Vállalkozási tevékenységet elsődlegesen nem folytató, nem természetes személy esetében különös méltánylást igénylő eset, ha a költség megfizetése a kötelezett számára az elsődlegesen végzett tevékenységét veszélyeztető, súlyosan aránytalan terhet jelentene.
 
-(24d) A tartozás mérséklése esetén hulladékgazdálkodási hatóság a megfizetendő összeget a kötelezett teljesítőképességéhez mérten állapítja meg.
+(24d) A költség mérséklése esetén hulladékgazdálkodási hatóság a megfizetendő összeget a kötelezett teljesítőképességéhez mérten állapítja meg.
 
-(25) Az (1)–(4) bekezdésben foglaltakat a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) hatálya alá tartozó ingatlanok tekintetében azzal az eltéréssel kell alkalmazni, hogy az Nvtv. 6. § (9) bekezdése szerint az elhagyott hulladék felszámolására kötelezett az elhagyott hulladékról való tudomásszerzést követően haladéktalanul megteszi a bejelentést – a hulladék elhagyójának beazonosításához rendelkezésére álló adatok átadásával együtt – a hulladékgazdálkodási hatóságnak, és – a koncessziós társaság vagy a koncesszori alvállalkozó útján – a tudomásszerzéstől számított 30 napon belül gondoskodik az elhagyott hulladék felszámolásáról, és a (4) bekezdés szerinti teljes bizonyító erejű magánokiratot, valamint a hulladék felszámolásával összefüggésben felmerült költségei kimutatását megküldi a hulladékgazdálkodási hatóságnak.
+(24e) A (24a) bekezdés szerinti kérelem a költség megfizetéséről rendelkező döntés véglegessé válásától számított 90 napon belül nyújtható be a végrehajtást elrendelő hatóságnál.
+
+(25) Az (1)–(4) bekezdésben foglaltakat a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) hatálya alá tartozó ingatlanok tekintetében azzal az eltéréssel kell alkalmazni, hogy az Nvtv. 6. § (9) bekezdése szerint az elhagyott hulladék felszámolására kötelezett az elhagyott hulladékról való tudomásszerzést követően haladéktalanul megteszi a bejelentést – a hulladék elhagyójának beazonosításához rendelkezésére álló adatok átadásával együtt – a hulladékgazdálkodási hatóságnak, és – a 31. § (2) bekezdése szerint – a tudomásszerzéstől számított 30 napon belül gondoskodik az elhagyott hulladék felszámolásáról, és a (4) bekezdés szerinti teljes bizonyító erejű magánokiratot, valamint a hulladék felszámolásával összefüggésben felmerült költségei kimutatását megküldi a hulladékgazdálkodási hatóságnak.
 
 (26)
 

@@ -52,7 +52,7 @@ d) a hulladékudvarok listáját,
 
 13. javaslatot tesz a hulladékstátusz megszűnésére vonatkozó hazai jogszabályokra, egyéb szabályozókra,
 
-14. a miniszter egyetértésével kidolgozza a hulladékgazdálkodási szabványokat és öko-címkéket,
+14. a miniszter egyetértésével felülvizsgálja és kidolgoztatja a hulladékgazdálkodási szabványokat és öko-címkéket,
 
 15. gondoskodik a körforgásos gazdaság és a hulladékgazdálkodás területén az iskolarendszeren kívüli hatósági jellegű képzések és vizsgáztatás szervezéséről, illetve végzéséről,
 

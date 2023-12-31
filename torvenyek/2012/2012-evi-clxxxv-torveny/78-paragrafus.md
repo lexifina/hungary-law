@@ -4,15 +4,21 @@
 
 ## 34. Az állam feladatai
 
-78. § (1) Az állam a körforgásos gazdaságra történő átállás, illetve a hulladékgazdálkodásért, azok felügyeletéért, valamint az azokkal összefüggő állami feladatok ellátásáért való felelőssége körében
+78. § (1) Az állam a körforgásos gazdaságra történő átállásért, illetve a hulladékgazdálkodásért, azok felügyeletéért, valamint az azokkal összefüggő állami feladatok ellátásáért való felelőssége körében
 
-a) működteti a hulladékgazdálkodási minőségbiztosítási rendszert,
+a) az e törvényben meghatározottak szerinti ellátja a hulladékgazdálkodási tevékenység szakmai irányítását, felügyeletét,
 
-b) az e törvény szerinti hatósági intézkedések megalapozása céljából állami laboratóriumokat működtet,
+b) működteti a hulladékgazdálkodási minőségbiztosítási rendszert,
 
-c) a Magyarország központi költségvetéséről szóló törvényben külön az elhagyott hulladék felszámolása, továbbá jogszabályban állami feladatként meghatározott, a körforgásos gazdaságra történő átállással és a hulladékgazdálkodási vizsgálatok fedezetére célelőirányzatot biztosít, valamint
+c) az e törvény szerinti hatósági intézkedések megalapozása céljából állami laboratóriumokat működtet,
 
-d) ellátja a hulladékgazdálkodási ágazattal összefüggő piacfelügyeleti feladatokat.
+d) részt vesz az elhagyott hulladék felszámolásával, továbbá jogszabályban állami feladatként meghatározott, a körforgásos gazdaságra történő átállással és a hulladékgazdálkodási vizsgálatokkal összefüggő feladatok ellátásában,
+
+e) ellátja a hulladékgazdálkodási ágazattal összefüggő piacfelügyeleti feladatokat, a hulladékgazdálkodás szabályozási feladatait, és meghatározza a hulladékgazdálkodás fejlesztésének irányait, országos céljait,
+
+f) részt vesz a települési hulladék állami hulladékgazdálkodási közfeladatot meghaladó kezelési feladatainak ellátásában, valamint
+
+g) együttműködik a hulladékgazdálkodási tevékenység ellátásban részt vevő szervezetekkel.
 
 (2) Az állam az (1) bekezdésben foglaltak figyelembevételével – az éves költségvetési törvényben meghatározott módon – a központi költségvetésben biztosítja a hulladékgazdálkodási hatóság nemzeti és nemzetközi követelményeknek megfelelő szintű működésének fedezetét.
 

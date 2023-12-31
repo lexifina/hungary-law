@@ -50,11 +50,11 @@ d) jogi személy, valamint jogi személyiséggel nem rendelkező szervezet ügyf
 
 (8) A tanúsító szervezet az általa vezetett nyilvántartásból – a tanúsítási rendszerében részt vevő, hulladékgazdálkodási tevékenységet végző gazdasági szereplővel, a szerződéskötéssel, a gazdasági szereplők ellenőrzésének és tanúsításának folyamatával kapcsolatban – a hulladékgazdálkodási hatóság részére az e törvényben meghatározott feladatok ellátása céljából e törvény végrehajtására kiadott rendeletben meghatározottak szerint köteles adatot szolgáltatni.
 
-(9) A hulladékgazdálkodási hatóság a 86. § (9) bekezdésben foglaltakra tekintettel az e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint nyilvántartást vezet, melynek célja a kiemelt szabályszegést elkövetők ellenőrizhetőségének biztosítása.
+(9) A hulladékgazdálkodási hatóság a 86. § (9) bekezdésben foglaltakra tekintettel az e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint nyilvántartást vezet, melynek célja a kiemelt hulladékjogi szabályszegést elkövetők ellenőrizhetőségének biztosítása.
 
 (10) A nyilvántartás tartalmazza
 
-a) a nyilvántartási számot,
+a)
 
 b) a természetes személy elkövető esetén
 
@@ -66,9 +66,9 @@ bc) születési helyét és idejét,
 
 bd) állampolgárságát,
 
-c) a jogi személy, jogi személyiséggel nem rendelkező szervezet elkövető cégjegyzékszámát vagy nyilvántartási számát, honossága szerinti állam megnevezését,
+c) a jogi személy, jogi személyiséggel nem rendelkező szervezet elkövető nevét, cégjegyzékszámát vagy nyilvántartási számát, honossága szerinti állam megnevezését,
 
-d) annak a költségvetési évnek meghatározását, amely esetében a 86. § (9) bekezdésben meghatározott bírságösszeg – a hatóság végleges döntésével – kiszabásra került,
+d) annak a költségvetési évnek a megjelölését, amely esetében a kiemelt hulladékjogi szabályszegés ténye megállapításra került,
 
 e) a d) pontban foglalt bírság vonatkozásában
 
@@ -80,14 +80,16 @@ ec) a bírságot kiszabó döntés véglegessé válásának időpontját,
 
 ed) a bírságot kiszabó döntés ügyiratszámát,
 
-ee) a bírság típusát és összegét,
+ee) a bírság típusát és összegét, valamint
 
-ef) a jogsértés megnevezését,
+ef)
 
 eg) a jogsértés időpontját,
 
-eh) a jogsértés leírását, valamint
+eh)
 
-ei) azon hulladékgazdálkodási bírságot kiszabó döntés véglegessé válásának napját, amely alapján a kiemelt hulladékjogi szabályszegés megvalósulását megállapította.
+ei)
+
+(10a) A nyilvántartás (10) bekezdés c) és e) pontjában meghatározott adata a jogi személy és a jogi személyiséggel nem rendelkező szervezet esetében nyilvánosan hozzáférhető.
 
 (11) A nyilvántartás archív állományában lévő adatokat az archív állományba kerüléstől számított öt év elteltével a hatóság törli a nyilvántartásból.

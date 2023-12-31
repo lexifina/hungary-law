@@ -34,9 +34,9 @@ f) ellátja az elhagyott hulladék felszámolására vonatkozó jogszabályokban
 
 (4e) Az állam koordináló szervet hoz létre
 
-a) az állam tulajdonában álló valamennyi, az állami hulladékgazdálkodási közfeladat ellátását szolgáló hulladékgazdálkodási eszközzel összefüggő vagyonkezelői feladat, és
+a) az állam tulajdonában álló valamennyi, az állami hulladékgazdálkodási közfeladat ellátását szolgáló hulladékgazdálkodási eszközzel összefüggő vagyonkezelői, valamint jogszabály által ráruházott egyéb feladat,
 
-b) a 2023. július 1-et megelőző időszakra vonatkozóan, a 2023. július 1-jét megelőző időszakban Koordináló szervként működött gazdasági társaságtól (a továbbiakban: Korábbi Koordináló szerv) átvett számlázási, kintlévőség-kezelési, szolgáltatásidíj-elszámolási és ezekhez kapcsolódó ügyfélszolgálati feladat
+b) a 2023. július 1-et megelőző időszakra vonatkozóan, a 2023. július 1-jét megelőző időszakban Koordináló szervként működött gazdasági társaságtól (a továbbiakban: Korábbi Koordináló szerv) átvett számlázási, kintlévőség-kezelési, szolgáltatásidíj-elszámolási és ezekhez kapcsolódó ügyfélszolgálati feladat, és
 
 c) ha a koncessziós társaság és az állam között a hulladékgazdálkodási közszolgáltatási résztevékenység számlázása tárgyában szerződés jön létre, e szerződés alapján a hulladékgazdálkodási közszolgáltatási résztevékenység számlázási feladatai
 
@@ -50,7 +50,7 @@ ellátására.
 
 (4i) A (4e) bekezdésben meghatározott feladatokat a kizárólagos állami tulajdonban álló Koordináló szervként az NHKV Nemzeti Hulladékgazdálkodási Koordináló és Vagyonkezelő Zártkörűen Működő Részvénytársaság látja el.
 
-(5) A Koordináló szerv térítésmentesen jogosult az elszámolási, számlázási, és kintlevőség-kezelési feladatkörében a 38. § (3) bekezdésében meghatározott személyes adatok körére kiterjedő eseti és csoportos adatszolgáltatást kérni a személyiadat- és lakcímnyilvántartás, valamint az ingatlan-nyilvántartás szerveitől.
+(5) A Koordináló szerv térítésmentesen jogosult az elszámolási, számlázási, és kintlévőség-kezelési feladatkörében a 38. § (3) bekezdésében meghatározott személyes adatok körére kiterjedő eseti és csoportos adatszolgáltatást kérni a személyiadat- és lakcímnyilvántartás, valamint az ingatlan-nyilvántartás szerveitől. A Koordináló szerv a 38. § (3) bekezdésében meghatározott személyes adatokat az elszámolási, számlázási, és kintlévőség-kezelési feladatok ellátása során, valamint e feladatok ellátását követő 5 évig kezeli a követelése behajthatósága céljából.
 
 (5a) A koncessziós társaság jogosult az elszámolási, számlázási, és kintlévőség-kezelési feladatkörében a 38. § (3) bekezdésében meghatározott személyes adatok körére kiterjedő eseti és csoportos adatszolgáltatást kérni a személyiadat- és lakcímnyilvántartás, valamint az ingatlan-nyilvántartás szerveitől. A koncessziós társaság a 38. § (3) bekezdésében meghatározott adatokat a hulladékgazdálkodási közszolgáltatási résztevékenység ellátását, illetve jogszabályban foglalt kötelezettségei teljesítését követő 5 évig kezeli a követelése behajthatósága céljából.
 

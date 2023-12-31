@@ -10,7 +10,13 @@
 
 (3) Az elkülönített hulladékgyűjtési rendszert a hulladékgazdálkodási közszolgáltatási résztevékenységet ellátó koncessziós társaság úgy alakítja ki, hogy
 
-a) legalább a települési papír-, üveg-, műanyag, fém- és zöldhulladék elkülönített gyűjtése biztosított legyen;
+a) legalább
+
+aa) a települési papír-, üveg-, műanyag, fém- és zöldhulladék, és
+
+ab) a háztartásokban képződő biohulladék
+
+elkülönített gyűjtése biztosított legyen;
 
 b) a házhoz menő gyűjtés minél több fajtájú és jellegű települési hulladék esetében biztosított legyen;
 

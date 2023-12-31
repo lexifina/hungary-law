@@ -25,3 +25,7 @@ teljesíti.
 (8) A Koordináló szerv a 49. § (1) bekezdésében meghatározott kötelezettségét 2023. évre vonatkozóan 2023. január 1. és 2023. június 30. közötti időszakra teljesíti.
 
 (9) A koncessziós társaság a 49. § (1) bekezdésében meghatározott kötelezettségét első alkalommal a 2023. július 1. és 2023. december 31. közötti időszakra teljesíti 2023. szeptember 30-ig.
+
+(10) E törvénynek a környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény, valamint a hulladékról szóló 2012. évi CLXXXV. törvény módosításáról szóló 2023. évi CXX. törvénnyel (a továbbiakban: Módtv3.) megállapított 61. § (24a)–(24d) bekezdése a Módtv3. hatálybalépésekor már véglegessé vált határozatban megállapított fizetési kötelezettség vonatkozásában a 2024. június 30. napjáig benyújtott kérelem esetében alkalmazható.
+
+(11) Ha a hulladékgazdálkodási tevékenység végzéséhez szükséges hatósági engedélyekkel, hozzájárulásokkal, bejelentésekkel vagy kapcsolódó tulajdonosi hozzájárulásokkal rendelkező valamely szervezettől (átadó) a hulladékgazdálkodási létesítmény, eszköz tulajdonjogát vagy használatának jogát a koncesszor vagy a koncessziós társaság, illetve annak közvetlen vagy közvetett részesedésével működő gazdasági társaság megszerzi, a hulladékgazdálkodási tevékenység végzéséhez szükséges hatósági engedélyek, hozzájárulások, bejelentések vagy kapcsolódó tulajdonosi hozzájárulások vonatkozásában a létesítmény, eszköz birtokbaadásával egyidejűleg az átvevő mint jogutód a törvény erejénél fogva a korábbi jogosult helyébe lép.

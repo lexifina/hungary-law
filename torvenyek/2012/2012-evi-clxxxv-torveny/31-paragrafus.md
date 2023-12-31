@@ -12,7 +12,7 @@ ab) a koncesszori alvállalkozónak történő átadás,
 
 ac) a hulladék aa) vagy ab) alpontban meghatározottak által üzemeltetett hulladékgyűjtő ponton, hulladékgyűjtő udvarban vagy visszaváltó berendezéseken keresztül történő átadás,
 
-ad) a koncessziós társasággal kötött megállapodás alapján üzemeltetett hulladék átvételi helyen, illetve az átvételre kötelezettnek történő átadás, vagy
+ad) a koncessziós társasággal kötött megállapodás alapján üzemeltetett hulladék átvételi helyen, illetve az átvételre kötelezettnek történő átadás, valamint – ha a hulladék szállítására a 14. § (1) bekezdése alapján engedély vagy nyilvántartásba vétel nélkül kerül sor – a koncessziós társasággal szerződéses jogviszonyban álló átrakó vagy hulladékkezelő létesítmény, komposztáló üzemeltetését végző személy részére történő átadás, vagy
 
 ae) koncessziós szerződés megkötésének hiányában az aa)–ad) alpont helyett az állam által kijelölt jogi személynek történő átadás,
 

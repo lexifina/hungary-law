@@ -2,7 +2,7 @@
 
 88. § (1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza:
 
-1. a koncessziós társaság hulladékgazdálkodási közszolgáltatási résztevékenységét, a hulladékgazdálkodási közszolgáltatási résztevékenység körébe tartozó hulladékkal kapcsolatos tevékenységek végzésének feltételeit, valamint az állami hulladékgazdálkodási közfeladat részeként a hulladékgazdálkodási közszolgáltatási résztevékenység ellátásának és igénybevételének szabályait;
+1. a koncessziós társaság hulladékgazdálkodási közszolgáltatási résztevékenységét, a hulladékgazdálkodási közszolgáltatási résztevékenység körébe tartozó hulladékkal kapcsolatos tevékenységek végzésének feltételeit, valamint az állami hulladékgazdálkodási közfeladat részeként a hulladékgazdálkodási közszolgáltatási résztevékenység ellátásának és igénybevételének, szabályait, a közszolgáltatási díjhátralék jelzálogként történő bejegyzése kezdeményezésének feltételeit, továbbá a hulladékgazdálkodási közszolgáltatási résztevékenység körébe tartozó hulladékkal kapcsolatos hulladékkezelés egyes előírásait;
 
 2. a termelési hulladék és a gazdálkodó szervezet ingatlanhasználónál képződő hulladékgazdálkodási intézményi résztevékenység körébe tartozó hulladék képződése megelőzésének, valamint a termelési hulladékkal és a gazdálkodó szervezet ingatlanhasználónál képződő hulladékgazdálkodási intézményi résztevékenység körébe tartozó hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait;
 
@@ -32,7 +32,7 @@
 
 14. a gépjárművek hulladékká válását megelőző tevékenységek, valamint a hulladékká vált gépjárművekkel kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait;
 
-15. – a 15a. pont kivételével – az építési-bontási hulladék képződésének megelőzésével kapcsolatos tevékenységek, az építési-bontási törmelék újrahasználatának, valamint az építési-bontási hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait;
+15. – a 15a. pont kivételével – az építési-bontási hulladék képződésének megelőzésével kapcsolatos tevékenységek, az építési-bontási anyag újrahasználatának, valamint az építési-bontási hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait;
 
 15a. az országos vagy helyi közúton végzett állami beruházások kapcsán, valamint az országos vasúti pályahálózaton és a térségi, elővárosi vasúti pályahálózaton végzett építési tevékenységekhez kapcsolódó hulladékképződés megelőzésével kapcsolatos tevékenységek részletes szabályait;
 
@@ -42,7 +42,7 @@
 
 18.
 
-19. a pénzügyi biztosíték, a céltartalék képzésére kötelezettek körét, a pénzügyi biztosíték, a céltartalék formáját és mértékét, felhasználásának feltételeit, elszámolásának és nyilvántartásának szabályait, a környezetvédelmi biztosítás részletes szabályait, valamint a gyártók biztosítékadására vonatkozó részletes szabályokat;
+19. a pénzügyi biztosíték, a céltartalék és a környezetvédelmi biztosítás képzésére kötelezettek körére, azok formájára, mértékére, felhasználásának feltételeire, elszámolására, nyilvántartására, a megkötésük és megszűnésük módjára és tartalmára, a hulladékgazdálkodási hatóság ezekkel összefüggő eljárására, valamint a gyártók biztosítékadására vonatkozó részletes szabályokat;
 
 20. az életciklus-szemléleten alapuló vizsgálati elemzés elvégzésének részletes szabályait;
 
@@ -100,7 +100,7 @@
 
 46. a gördülő fejlesztési rendszerterv jóváhagyásának, felülvizsgálatának, a jóváhagyott terv végrehajtása ellenőrzésének szabályait.
 
-47. a hulladékgazdálkodási hatóság közigazgatási jogköre gyakorlásával és a közigazgatási feladataival összefüggő nyilvántartás adattartalmával és vezetésével kapcsolatos részletes szabályokat.
+47. a hulladékgazdálkodási hatóság közigazgatási jogköre gyakorlásával és a közigazgatási feladataival összefüggő nyilvántartás adattartalmával és vezetésével, valamint a 78/C. § (10a) bekezdése szerinti közzététellel kapcsolatos részletes szabályokat.
 
 (1a) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a hulladékgazdálkodási hatóságot és a hulladékgazdálkodási szakhatóságot.
 
@@ -130,7 +130,7 @@
 
 12. a 78. § (7) bekezdése szerinti nemzeti célértékeket;
 
-13. a hulladékgazdálkodási közszolgáltatási résztevékenységre vonatkozó díjképzés átláthatóságának biztosítása érdekében a hulladékgazdálkodási közszolgáltatási résztevékenységet ellátó koncessziós társaság által közérdekből közzéteendő adatok – különösen a hulladékgazdálkodási közszolgáltatási résztevékenységgel kapcsolatos díjmegállapítás, költségek, bevételek, kiadások, beruházások, valamint az ezzel összefüggő műszaki információk – körét és a közzététel módját;
+13. a hulladékgazdálkodási közszolgáltatási résztevékenységre vonatkozó díjképzés átláthatóságának biztosítása érdekében a hulladékgazdálkodási közszolgáltatási résztevékenységet ellátó koncessziós társaság által közérdekből közzéteendő adatok – különösen a hulladékgazdálkodási közszolgáltatási résztevékenységgel kapcsolatos díjmegállapítás, költség-, bevétel- és kiadáskategóriák, beruházások, valamint az ezzel összefüggő információk – körét és a közzététel módját;
 
 14. a 47/A. § (1) bekezdésében meghatározott díjakat, a díjalkalmazási feltételeket, a díjmegfizetés rendjét;
 
