@@ -1,6 +1,6 @@
 ## 4. A koncessziós társaság jogai és kötelezettségei
 
-5. § (1)[^1]
+5. § (1) A koncessziós társaság a használt sütőolaj elkülönített gyűjtéséről országos lefedettséggel gondoskodik.
 
 (2) A használt sütőolaj gyűjtése érdekében a koncessziós társaság az egyenlő bánásmód követelményeire, valamint a speciális gyűjtőhely kialakításához szükséges feltételekre figyelemmel választja ki a gyűjtésbe bevont szervezeteket. A használt sütőolaj gyűjtésébe bevonható szervezetek számát a koncessziós társaság határozza meg, a rendelkezésére álló gyűjtőedények számára, illetve a gyűjtés országosan kiegyensúlyozott mértékű elhelyezkedésére és indokoltságára figyelemmel.
 
@@ -19,5 +19,3 @@ a) a természetes személy hulladékbirtokosnál keletkezett és általa önkén
 b) a hulladéktermelő gazdálkodó szervezet hulladékbirtokosnál keletkezett és általa elkülönítetten gyűjtött használt sütőolajat a gazdálkodó szervezeteknél képződő, a hulladékgazdálkodási intézményi résztevékenység körébe tartozó, elkülönítetten gyűjtött hulladék képződésének megelőzésével, valamint e hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályairól szóló kormányrendelet alapján
 
 átveszi.
-
-[^1]: Az 5. § (1) bekezdése a 6. § (2) bekezdés alapján 2023. december 31-én lép hatályba.
