@@ -36,7 +36,7 @@ i)[^10]
 
 (4) A (3) bekezdés alá nem sorolható, környezetveszélyeztetéssel, illetőleg környezetkárosítással nem járó egyéb jogsértés esetén az alapbírság hatezer forint.
 
-(5)[^11] Az alapbírság összege az e § (3)–(4) bekezdéseiben és a 2. § (3) bekezdésében meghatározott összegek 25 és 100%-a között állapítható meg – az e § (3) bekezdés e) pontja szerinti esetek kivételével, – ha az elkövető a következményeket felszámolta és a jogellenes állapotot megszüntette a bírságot megállapító határozat kiadásáig.
+(5)[^11] Az alapbírság összege az e § (3)–(4) bekezdéseiben meghatározott összegek 25 és 100%-a között állapítható meg – az e § (3) bekezdés e) pontja szerinti esetek kivételével, – ha az elkövető a következményeket felszámolta és a jogellenes állapotot megszüntette a bírságot megállapító határozat kiadásáig.
 
 [^1]: Az 1. § (1) bekezdése a 286/2006. (XII. 23.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (3) bekezdésének a) pontja a 192/2003. (XI. 26.) Korm. rendelet 11. §-ának (4) bekezdésével megállapított, a 313/2005. (XII. 25.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
@@ -48,4 +48,4 @@ i)[^10]
 [^8]: Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendeletet.
 [^9]: Az 1. § (3) bekezdésének h) pontját a 264/2004. (IX. 23.) Korm. rendelet 20. §-ának (1) bekezdése iktatta be, hatályon kívül helyezte a 313/2005. (XII. 25.) Korm. rendelet 16. § b) pontja.
 [^10]: Az 1. § (3) bekezdésének i) pontját a 109/2005. (VI. 23.) Korm. rendelet 13. §-a iktatta be, hatályon kívül helyezte a 313/2005. (XII. 25.) Korm. rendelet 16. § b) pontja.
-[^11]: Az 1. § (5) bekezdése a 313/2005. (XII. 25.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
+[^11]: Az 1. § (5) bekezdése a 313/2005. (XII. 25.) Korm. rendelet 16. § a) pontja, a 675/2023. (XII. 29.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
