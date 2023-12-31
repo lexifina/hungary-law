@@ -51,3 +51,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1990-100-00-00
 | 2022-09-01 | 2022. évi XIII. törvény | 1990-100-00-00.82 |
 | 2023-01-01 | 2022. évi XXII. törvény | 1990-100-00-00.83 |
 | 2023-09-01 | 2023. évi LVIII. törvény | 1990-100-00-00.85 |
+| 2023-12-31 | 2023. évi LXXXIV. törvény | 1990-100-00-00.86 |
