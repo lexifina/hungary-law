@@ -1,16 +1,18 @@
 39. § (1) Az erdészeti hatóság az erdészeti mérő- és megfigyelő rendszer szolgáltatta eredmények alapján gondoskodik a szükségessé váló megelőző – a károk mérséklését szolgáló –, valamint a károsodott terület helyreállítását biztosító intézkedések megtételéről vagy kezdeményezéséről.
 
-(2) Az erdészeti mérő- és megfigyelőrendszer működtetése során
+(2)[^44] Az erdészeti mérő- és megfigyelőrendszer működtetése során
 
-a)[^40] az NFK gondoskodik a 38. § (2) bekezdés a) és f)–k) pontjai szerinti,
+a) az NFK gondoskodik a 38. § (2) bekezdés a) és f)–h) pontja szerinti,
 
-b)[^41] a Soproni Egyetem (a továbbiakban: SOE) gondoskodik a 38. § (2) bekezdés b)–c) pontjai szerinti, valamint – az Országos Erdőkár Nyilvántartás adatainak felhasználásával – a 38. § (2) bekezdés d) pontja szerinti,
+b) a Soproni Egyetem (a továbbiakban: SOE) gondoskodik – az Országos Erdőkár Nyilvántartás adatainak felhasználásával – a 38. § (2) bekezdés b)–d) pontja szerinti,
 
-c)[^42] az NFK és a SOE – a szakmai irányító szervük által meghatározott feladatmegosztás alapján – együttesen gondoskodik a 38. § (2) bekezdés e) pontja szerinti
+c) az NFK és a SOE – a szakmai irányító szervük által meghatározott feladatmegosztás alapján – együttesen gondoskodik a 38. § (2) bekezdés e) pontja szerinti,
 
-alrendszerekben folyó adatgyűjtésről, és kiértékelésről.
+d) a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) gondoskodik a 38. § (2) bekezdés i)–k) pontja szerinti
 
-(3)[^43] Az NFK ellátja az erdővédelmi mérő és megfigyelő rendszer nemzeti és nemzetközi szintű koordinációs feladatait. Ennek keretében – a SOE közreműködésével – gondoskodik:
+alrendszerekben folyó adatgyűjtésről és kiértékelésről.
+
+(3)[^45] Az NFK ellátja az erdővédelmi mérő és megfigyelő rendszer nemzeti és nemzetközi szintű koordinációs feladatait. Ennek keretében – a SOE és a NÉBIH közreműködésével – gondoskodik:
 
 a) a rendszer egyes elemeinek összehangolásáról,
 
@@ -24,10 +26,8 @@ e) a nemzeti és nemzetközi együttműködésből származó információk szé
 
 f) az adatok tárolásáról.
 
-(4)[^44] Az NFK gondoskodik a vizsgálati adatokat és eredményeket tartalmazó adatállományok teljes körének – a 38. § (2) bekezdés szerinti alrendszerenként történő – hosszú távú, biztonságos tárolásáról és archiválásáról.
+(4)[^46] Az NFK gondoskodik a vizsgálati adatokat és eredményeket tartalmazó adatállományok teljes körének – a 38. § (2) bekezdés szerinti alrendszerenként történő – hosszú távú, biztonságos tárolásáról és archiválásáról.
 
-[^40]: A 39. § (2) bekezdés a) pontja a 63/2020. (XII. 16.) AM rendelet 14. § 2. pontja szerint módosított szöveg.
-[^41]: A 39. § (2) bekezdés b) pontja a 4/2021. (II. 23.) AM rendelet 10. § a) pontja szerint módosított szöveg.
-[^42]: A 39. § (2) bekezdés c) pontja a 63/2020. (XII. 16.) AM rendelet 14. § 2. pontja, a 4/2021. (II. 23.) AM rendelet 10. § b) pontja szerint módosított szöveg.
-[^43]: A 39. § (3) bekezdés nyitó szövegrésze a 63/2020. (XII. 16.) AM rendelet 14. § 3. pontja, a 4/2021. (II. 23.) AM rendelet 10. § b) pontja szerint módosított szöveg.
-[^44]: A 39. § (4) bekezdése a 63/2020. (XII. 16.) AM rendelet 14. § 3. pontja szerint módosított szöveg.
+[^44]: A 39. § (2) bekezdése a 183/2023. (XII. 27.) AM rendelet 3. §-ával megállapított szöveg.
+[^45]: A 39. § (3) bekezdés nyitó szövegrésze a 63/2020. (XII. 16.) AM rendelet 14. § 3. pontja, a 4/2021. (II. 23.) AM rendelet 10. § b) pontja, a 183/2023. (XII. 27.) AM rendelet 5. § b) pontja szerint módosított szöveg.
+[^46]: A 39. § (4) bekezdése a 63/2020. (XII. 16.) AM rendelet 14. § 3. pontja szerint módosított szöveg.

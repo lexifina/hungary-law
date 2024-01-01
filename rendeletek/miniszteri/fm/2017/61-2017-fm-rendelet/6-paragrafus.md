@@ -1,4 +1,4 @@
-## 5. §[^13] Erdőben, kerítés létesítésekor és fenntartásakor – ha az turistaútvonalat, erdei kerékpáros turista útvonalat vagy erdei kerékpáros ösvényt keresztez – biztosítani kell a gyalogos vagy kerékpáros áthaladás biztonságos lehetőségét.
+## 5. §[^14] Erdőben, kerítés létesítésekor és fenntartásakor – ha az turistaútvonalat, erdei kerékpáros turista útvonalat vagy erdei kerékpáros ösvényt keresztez – biztosítani kell a gyalogos vagy kerékpáros áthaladás biztonságos lehetőségét.
 
 6. § (1) Az erdészeti magánút építésének engedélyezésére irányuló kérelemhez csatolt engedélyezési tervnek az alábbiakat kell tartalmaznia:
 
@@ -15,6 +15,8 @@ e) a minta-keresztszelvényeket és keresztszelvényeket,
 f) a földtömeg számítást és elosztást, valamint
 
 g) a részletes műtárgy terveket.
+
+(1a)[^15] Ha az erdészeti hatóság elvi engedélyezési eljárás keretében engedélyezte az erdő igénybevételét erdészeti magánút építése céljából, akkor az erdészeti magánút építésének engedélyezésére irányuló kérelemnek az (1) bekezdés szerinti kötelező mellékletei közül csak azokat kell a hatósághoz benyújtani, amelyek az elvi igénybevételi eljárás során még nem kerültek benyújtásra. A kérelmező egyúttal nyilatkozik arról, hogy az elvi engedélyezési eljárásban benyújtott dokumentumokkal megegyező tartalommal kívánja létesíteni a magánutat.
 
 (2) Az erdészeti magánút építésének engedélyezésére irányuló kérelemben igazolni kell, hogy a terv megfelel a vonatkozó jogszabályi és szakmai előírásoknak, valamint hogy az érintett közművek kezelői az erdészeti magánút építéséhez hozzájárultak (közműnyilatkozatok).
 
@@ -38,4 +40,5 @@ a) az épített közelítő nyom műszaki leírását,
 
 b) az épített közelítő nyom nyomvonalát ábrázoló erdészeti térkép mellékletet.
 
-[^13]: Az 5. § az 51/2020. (X. 16.) AM rendelet 2. § b) pontja szerint módosított szöveg.
+[^14]: Az 5. § az 51/2020. (X. 16.) AM rendelet 2. § b) pontja szerint módosított szöveg.
+[^15]: A 6. § (1a) bekezdését a 183/2023. (XII. 27.) AM rendelet 1. §-a iktatta be.

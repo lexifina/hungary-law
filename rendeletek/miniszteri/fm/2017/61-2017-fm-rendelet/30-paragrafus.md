@@ -26,7 +26,7 @@ g) az erdő javasolt üzemmódját,
 
 h) a telepítendő földterület termőhelyi viszonyait bemutató, az erdőtelepítés fő- és elegyfafajainak alkalmazhatóságát alátámasztó, az erdészeti termőhely-feltárásról szóló jogszabály szerinti termőhely-feltárási szakvéleményt,
 
-i)[^31] a telepíteni tervezett fő- és elegyfafajokat, illetve fajtákat, erdőszegély tervezése esetén a cserjefajokat, azok elegyarányát, az elegyítés tervezett módjait, a létrehozni kívánt faállománytípust, illetve szabad rendelkezésű erdő esetén faállománytípus csoportot, hektáronként és fafajonként a műszaki befejezéshez szükséges darabszámokat,
+i)[^34] a telepíteni tervezett fő- és elegyfafajokat, illetve fajtákat, erdőszegély tervezése esetén a cserjefajokat, azok elegyarányát, az elegyítés tervezett módjait, a létrehozni kívánt faállománytípust, illetve szabad rendelkezésű erdő esetén faállománytípus csoportot, hektáronként és fafajonként a műszaki befejezéshez szükséges darabszámokat,
 
 j) az ültetési hálózatot (magvetés esetén a sortávolságot), a felhasználni kívánt szaporítóanyag minőségét és mennyiségét, a talaj-előkészítés, valamint az ültetés, illetve magvetés módját,
 
@@ -56,12 +56,13 @@ v) a környezeti hatások jelentőségének vizsgálatára szolgáló – a kör
 
 (2) Szabad rendelkezésű erdő létrehozására irányuló bejelentéshez egyszerűsített erdőtelepítési-kivitelezési tervet kell csatolni, amelynek az (1) bekezdésben felsorolt tervrészek közül a földterület erdészeti azonosítójának megnevezése kivételével az a) pontban, az erdő tervezett rendeltetéséhez és üzemmódjához adott hozzájáruló nyilatkozat kivételével a b), c), e), i), n) és s) pontokban foglaltakat kell tartalmaznia.
 
-(3) Az erdőtelepítési-kivitelezési tervet három példányban kell elkészíteni.
+(3)[^35] A nem elektronikus úton benyújtott erdőtelepítési-kivitelezési tervet két példányban kell a hatóság részére benyújtani.
 
-(4)[^32] Az erdészeti hatóság az erdőtelepítés befejezetté nyilvánítása során az erdőtelepítés fafajösszetétele és minősége tekintetében azt vizsgálja, hogy az erdőtelepítési tervben meghatározott célállományt alapul véve a meghatározott fafajú, másfél méter magasságú, és ép vezérhajtású faegyedek egyenletes eloszlás mellett a telepítési kiviteli tervben meghatározott egyedszámban jelen vannak-e. Ha a telepítési kivitelezési terv az egyedszámot nem tartalmazza, akkor a telepítés befejezéséhez a 8. mellékletben meghatározott faegyed-szám az irányadó.
+(4)[^36] Az erdészeti hatóság az erdőtelepítés befejezetté nyilvánítása során az erdőtelepítés fafajösszetétele és minősége tekintetében azt vizsgálja, hogy az erdőtelepítési tervben meghatározott célállományt alapul véve a meghatározott fafajú, másfél méter magasságú, és ép vezérhajtású faegyedek egyenletes eloszlás mellett a telepítési kiviteli tervben meghatározott egyedszámban jelen vannak-e. Ha a telepítési kivitelezési terv az egyedszámot nem tartalmazza, akkor a telepítés befejezéséhez a 8. mellékletben meghatározott faegyed-szám az irányadó.
 
-(5)[^33] Az erdészeti hatóság a (4) bekezdés szerint erdőtelepítés befejezetté nyilvánításnál meghatározott egyedszámnál kevesebbel is engedélyezheti az erdőtelepítés befejezetté nyilvánítását, ha az erdőtelepítési kivitelezési terv szerinti állományalkotó főfafajú egyedek átlagos magassága meghaladja a 2 métert és az erdősítési részterületen ezek Evt. 5. § 12. pont szerinti záródása meghaladja a 80%-ot.
+(5)[^37] Az erdészeti hatóság a (4) bekezdés szerint erdőtelepítés befejezetté nyilvánításnál meghatározott egyedszámnál kevesebbel is engedélyezheti az erdőtelepítés befejezetté nyilvánítását, ha az erdőtelepítési kivitelezési terv szerinti állományalkotó főfafajú egyedek átlagos magassága meghaladja a 2 métert és az erdősítési részterületen ezek Evt. 5. § 12. pont szerinti záródása meghaladja a 80%-ot.
 
-[^31]: A 30. § (1) bekezdés i) pontja a 13/2020. (IV. 8.) AM rendelet 9. § e) pontja szerint módosított szöveg.
-[^32]: A 30. § (4) bekezdése a 13/2020. (IV. 8.) AM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^33]: A 30. § (5) bekezdését a 13/2020. (IV. 8.) AM rendelet 4. § (2) bekezdése iktatta be.
+[^34]: A 30. § (1) bekezdés i) pontja a 13/2020. (IV. 8.) AM rendelet 9. § e) pontja szerint módosított szöveg.
+[^35]: A 30. § (3) bekezdése a 183/2023. (XII. 27.) AM rendelet 2. §-ával megállapított szöveg.
+[^36]: A 30. § (4) bekezdése a 13/2020. (IV. 8.) AM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^37]: A 30. § (5) bekezdését a 13/2020. (IV. 8.) AM rendelet 4. § (2) bekezdése iktatta be.

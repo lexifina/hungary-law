@@ -8,4 +8,6 @@ c) erdősítési célállomány a 8. melléklet szerinti célállománynak a 9. 
 
 felel meg.
 
-(2) Az (1) bekezdés szerinti változásokat az erdészeti hatóság 2018. július 1-jéig az Adattáron átvezeti.
+(2)[^67]
+
+[^67]: A 65. § (2) bekezdését a 183/2023. (XII. 27.) AM rendelet 6. § b) pontja hatályon kívül helyezte.

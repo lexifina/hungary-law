@@ -32,7 +32,7 @@ b) az a) pont alá nem tartozó, egyéb fásítások esetén az ingatlan-nyilvá
 
 c) az ingatlan-nyilvántartásban Állami I. megnevezésű, művelés alól kivett területként nyilvántartott és nem a vagyonkezelő használatában álló fásítások esetén a vagyonkezelő egyetértésével az ingatlan használatára szerződés alapján jogosult személy vagy szerv, vagy ezek megbízottja
 
-d)[^54] termőföld más célú hasznosítása esetén az engedély jogosultja vagy annak megbízottja
+d)[^56] termőföld más célú hasznosítása esetén az engedély jogosultja vagy annak megbízottja
 
 jogosult.
 
@@ -62,7 +62,7 @@ k) keltezés.
 
 (4) Ha a bejelentő a (3) bekezdés h) pontja szerint úgy nyilatkozik, hogy a szabad rendelkezésű erdőt mezőgazdasági művelésbe vonja, akkor a bejelentéséhez csatolni kell
 
-a)[^55] az ingatlan-nyilvántartási célú földmérési és térképészeti tevékenység részletes szabályairól szóló 8/2018. (VI. 29.) AM rendelet szerint elkészített változási vázrajzot és területkimutatást, illetve
+a)[^57] az ingatlan-nyilvántartási célú földmérési és térképészeti tevékenység részletes szabályairól szóló 8/2018. (VI. 29.) AM rendelet szerint elkészített változási vázrajzot és területkimutatást, illetve
 
 b) ha az igénybevétel teljes földrészletet, vagy teljes alrészletet érint, a tervezett művelési ág változás határainak és föld-, illetve alrészletenkénti területének ábrázolását az állami ingatlan-nyilvántartási térképi adatbázisból kiadott 30 napnál nem régebbi másolaton feltüntetve.
 
@@ -82,5 +82,5 @@ e) keltezés.
 
 (7) Ha a faanyag kitermelése kizárólag saját felhasználásra történik, a jogosult erdészeti szakszemélyzet ellenjegyzése nem szükséges, de erről a tényről a bejelentőnek nyilatkoznia kell.
 
-[^54]: A 44. § (2) bekezdés d) pontját a 23/2023. (V. 10.) AM rendelet 29. § (1) bekezdése iktatta be.
-[^55]: A 44. § (4) bekezdés a) pontja a 23/2023. (V. 10.) AM rendelet 30. § b) pontja szerint módosított szöveg.
+[^56]: A 44. § (2) bekezdés d) pontját a 23/2023. (V. 10.) AM rendelet 29. § (1) bekezdése iktatta be.
+[^57]: A 44. § (4) bekezdés a) pontja a 23/2023. (V. 10.) AM rendelet 30. § b) pontja szerint módosított szöveg.

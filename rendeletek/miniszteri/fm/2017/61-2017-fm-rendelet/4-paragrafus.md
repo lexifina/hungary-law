@@ -1,6 +1,6 @@
 ## 3. Az erdészeti létesítményekre vonatkozó szabályok
 
-4. § (1) Az Evt. 15. § (4) bekezdés szerint bejelentés köteles erdei közjóléti létesítményt létesíteni, bővíteni, korszerűsíteni, illetve megszüntetni az erdőgazdálkodó előzetes hozzájárulásával lehet.
+4. § (1)[^12] Az Evt. 15. § (4) bekezdés szerint bejelentés köteles erdei közjóléti létesítményt létesíteni, bővíteni, illetve megszüntetni az erdőgazdálkodó előzetes hozzájárulásával lehet.
 
 (2) Az Evt. 15. § (4) bekezdés szerinti, valamint az Evt. 15. § (7) bekezdés szerinti bejelentés a következő adatokat tartalmazza:
 
@@ -30,6 +30,7 @@ f) engedélyköteles erdészeti létesítménynek minősülő erdei közjóléti
 
 g) ha a bejelentést nem az erdőgazdálkodó nyújtotta be, az erdőgazdálkodó hozzájáruló nyilatkozatát.
 
-(5)[^12] Erdei közjóléti berendezés vagy erdei közjóléti létesítmény bejelentésekor igazolni kell, hogy annak létesítése megfelel a vonatkozó jogszabályi és szakmai előírásoknak.
+(5)[^13] Erdei közjóléti berendezés vagy erdei közjóléti létesítmény bejelentésekor igazolni kell, hogy annak létesítése megfelel a vonatkozó jogszabályi és szakmai előírásoknak.
 
-[^12]: A 4. § (5) bekezdése az 51/2020. (X. 16.) AM rendelet 2. § a) pontja szerint módosított szöveg.
+[^12]: A 4. § (1) bekezdése a 183/2023. (XII. 27.) AM rendelet 6. § a) pontja szerint módosított szöveg.
+[^13]: A 4. § (5) bekezdése az 51/2020. (X. 16.) AM rendelet 2. § a) pontja szerint módosított szöveg.
