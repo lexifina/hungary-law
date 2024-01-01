@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-283-20-
 | 2021-09-16 | 2012-283-20-22.9 | 538/2021. (IX. 15.) Korm. rendelet |
 | 2022-07-01 | 2012-283-20-22.10 | 538/2021. (IX. 15.) Korm. rendelet |
 | 2023-07-20 | 2012-283-20-22.11 | 331/2023. (VII. 19.) Korm. rendelet |
+| 2024-01-01 | 2012-283-20-22.12 | 610/2023. (XII. 22.) Korm. rendelet |

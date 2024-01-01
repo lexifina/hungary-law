@@ -1,3 +1,3 @@
-7. §[^17]
+7. §[^18]
 
-[^17]: A 7. §-t az 538/2021. (IX. 15.) Korm. rendelet 11. § c) pontja hatályon kívül helyezte.
+[^18]: A 7. §-t az 538/2021. (IX. 15.) Korm. rendelet 11. § c) pontja hatályon kívül helyezte.

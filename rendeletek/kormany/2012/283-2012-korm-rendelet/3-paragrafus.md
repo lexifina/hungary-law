@@ -22,7 +22,10 @@ cc) a köznevelési intézményben, szakképző intézményben teljesített öss
 
 (2) A szakterületi tudás csak a tanári felkészítés követelményeinek teljesítésével eredményez tanári szakképzettséget. A tanári felkészítés e rendelet szerinti tanárszakokon közös követelményekre épül.
 
-(3)[^5] Az összefüggő egyéni iskolai gyakorlat csak akkor kezdhető meg, ha a hallgató a tanári szakképzettség megszerzéséhez szükséges tanulmányi és vizsgakövetelményeket – kétszakos képzésben mind a két tanárszakján – eredményesen teljesítette. A gyakorlat a két tanárszakon egy időben, ugyanazon félévben, a felsőoktatási intézmény és a köznevelési vagy szakképző intézmény együttműködésében megvalósuló képzés.
+(2a)[^5] Az 5. § (1) bekezdés c) pontja szerinti – nem tanári mesterszakkal, illetve osztatlan szakkal párhuzamosan felvett – tanári mesterszakon az 1. melléklet szerinti tanárszaknak megfeleltethető tanári szakképzettség a nem tanári mesterszakon, illetve osztatlan szakon megszerzett mesterfokozat és szakképzettség birtokában szerezhető.
+
+(3)[^6] Az összefüggő egyéni iskolai gyakorlat csak akkor kezdhető meg, ha a hallgató a tanári szakképzettség megszerzéséhez szükséges tanulmányi és vizsgakövetelményeket – kétszakos képzésben mind a két tanárszakján – eredményesen teljesítette. A gyakorlat a két tanárszakon egy időben, ugyanazon félévben, a felsőoktatási intézmény és a köznevelési vagy szakképző intézmény együttműködésében megvalósuló képzés.
 
 [^4]: A 3. § (1) bekezdése az 538/2021. (IX. 15.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^5]: A 3. § (3) bekezdése az 538/2021. (IX. 15.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^5]: A 3. § (2a) bekezdését a 610/2023. (XII. 22.) Korm. rendelet 20. §-a iktatta be.
+[^6]: A 3. § (3) bekezdése az 538/2021. (IX. 15.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
