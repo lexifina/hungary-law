@@ -1,0 +1,1 @@
+1. § A szarvasmarha gümőkór elleni védekezésről szóló 56/2019. (XII. 12.) AM rendelet 10. § (2) bekezdésében a „helyben szokásos módon” szövegrész helyébe a „vármegyei kormányhivatal honlapján” szöveg lép.
