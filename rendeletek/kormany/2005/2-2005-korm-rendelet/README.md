@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-2-20-22
 | 2021-07-16 | 2005-2-20-22.27 | 420/2021. (VII. 15.) Korm. rendelet |
 | 2022-02-01 | 2005-2-20-22.28 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2023-04-30 | 2005-2-20-22.29 | 360/2019. (XII. 30.) Korm. rendelet |
+| 2024-01-01 | 2005-2-20-22.30 | 360/2019. (XII. 30.) Korm. rendelet |

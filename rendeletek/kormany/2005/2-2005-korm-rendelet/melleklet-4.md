@@ -6,7 +6,7 @@
 
 ## a) a környezet, a természet és a táj védelmére kiterjedően:
 
-## az országos környezetvédelmi és természetvédelemi hatóság, levegőtisztaság-védelem vonatkozásában az Országos Meteorológiai Szolgálat bevonásával;
+## az országos környezetvédelmi és természetvédelemi hatóság, levegőtisztaság-védelem vonatkozásában a HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaság bevonásával;
 
 ## b) környezet- és település-egészségügyre kiterjedően:
 
@@ -62,7 +62,7 @@
 
 ## c) környezet- és település-egészségügyre kiterjedően:
 
-## közegészségügyi hatáskörében eljáró fővárosi és megyei kormányhivatal.
+## közegészségügyi hatáskörében eljáró fővárosi és vármegyei kormányhivatal.
 
 ## d) a felszíni és a felszín alatti vizek minőségi és mennyiségi védelmére kiterjedően:
 
@@ -78,19 +78,19 @@
 
 ## b) az épített környezet védelmére kiterjedően:
 
-## az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal;
+## az állami főépítészi hatáskörében eljáró fővárosi és vármegyei kormányhivatal;
 
 ## c) erdővédelemre kiterjedően:
 
-## erdészeti feladatkörében eljáró megyei kormányhivatal;
+## erdészeti feladatkörében eljáró vármegyei kormányhivatal;
 
 ## d) talajvédelemre kiterjedően:
 
-## talajvédelmi feladatkörében eljáró megyei kormányhivatal;
+## talajvédelmi feladatkörében eljáró vármegyei kormányhivatal;
 
 ## e) a termőföld mennyiségi védelmére kiterjedően:
 
-## a földvédelmi feladatkörében eljáró fővárosi és megyei kormányhivatal,
+## a földvédelmi feladatkörében eljáró fővárosi és vármegyei kormányhivatal,
 
 ## f) földtani és ásványvagyon védelemre kiterjedően:
 
@@ -110,7 +110,7 @@
 
 ## j) súlyos ipari balesetek megelőzésére kiterjedően:
 
-## a megyei, fővárosi katasztrófavédelmi igazgatóság.
+## a vármegyei, fővárosi katasztrófavédelmi igazgatóság.
 
 4. számú melléklet a 2/2005. (I. 11.) Korm. rendelethez
 
