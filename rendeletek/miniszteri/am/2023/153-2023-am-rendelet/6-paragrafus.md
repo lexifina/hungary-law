@@ -1,0 +1,1 @@
+6. § A szakmaközi szervezet a 4. § (2) bekezdése szerinti beszámolóját a 2023. év tekintetében a Tej Szakmaközi Szervezet és Terméktanácsnál működő Közösségi Marketing Alapba történő befizetésről szóló piacszervezési intézkedés kiterjesztéséről szóló 67/2020. (XII. 21.) AM rendeletben foglaltak szerint készíti el, és 2024. május 31-ig hozza nyilvánosságra a honlapján.
