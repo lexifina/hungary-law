@@ -1,1 +1,0 @@
-## „c) az Európai Közösséget létrehozó Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról szóló 800/2008/EK rendelet (általános csoportmentességi rendelet) 6. cikk (1) bekezdése i)–j) pontjaiban foglalt feltételek fennállásáról.”
