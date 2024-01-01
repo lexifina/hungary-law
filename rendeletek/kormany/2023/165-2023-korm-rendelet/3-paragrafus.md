@@ -1,1 +1,0 @@
-3. § A 2016. évi LXVI. törvény 261. § (1) bekezdésében foglaltaktól eltérően – a 2016. évi LXVI. törvény 261. § (1) bekezdése szerinti szolgáltatások mellett – turizmusfejlesztési hozzájárulás köteles az e rendelet 2. §-a szerinti szolgáltatás is.
