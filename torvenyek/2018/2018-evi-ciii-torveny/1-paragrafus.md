@@ -34,6 +34,6 @@ ha) a magyar állampolgár és az a személy, akit törvény alapján a magyar �
 
 hb) a szabad mozgás és tartózkodás jogával rendelkező személy, aki a szabad mozgás és a három hónapot meghaladó tartózkodás jogát – a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény szerint – Magyarország területén gyakorolja, és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint Magyarországon bejelentett lakóhellyel rendelkezik,
 
-hc) a harmadik országbeli állampolgár, ha a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény alapján bevándorolt vagy letelepedett jogállással rendelkezik,
+hc) a harmadik országbeli állampolgár, ha a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény alapján huzamos tartózkodási jogosultsággal rendelkezik,
 
-hd) a hontalan, ha a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény alapján ilyen jogállásúnak ismerték el.
+hd) a hontalan, ha a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény alapján ilyen jogállásúnak ismerték el.
