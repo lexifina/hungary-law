@@ -38,6 +38,10 @@
 
 (19)[^100] E rendeletnek a számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló 603/2022. (XII. 28.) Korm. rendelettel megállapított 14. § (1) bekezdését a 2022. évben induló üzleti évről készített beszámolóra is alkalmazni lehet.
 
+(20)[^101] E rendeletnek a számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló 642/2023. (XII. 28.) Korm. rendelettel megállapított 5. § (8) bekezdését és 10. § (1) bekezdését először a 2024. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+
+(21)[^102] E rendeletnek a számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló 642/2023. (XII. 28.) Korm. rendelettel megállapított 5. § (8) bekezdését és 10. § (1) bekezdését a 2023. évben induló üzleti évről készített beszámolóra is alkalmazni lehet.
+
 [^83]: A 24. §-t a 345/2010. (XII. 28.) Korm. rendelet 28. §-a iktatta be.
 [^84]: A 25. §-t a 114/2012. (VI. 8.) Korm. rendelet 8. §-a iktatta be.
 [^85]: A 25. § (4) bekezdését a 382/2012. (XII. 19.) Korm. rendelet 14. §-a iktatta be.
@@ -56,3 +60,5 @@
 [^98]: A 25. § (17) bekezdését a 343/2019. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
 [^99]: A 25. § (18) bekezdését a 603/2022. (XII. 28.) Korm. rendelet 4. §-a iktatta be.
 [^100]: A 25. § (19) bekezdését a 603/2022. (XII. 28.) Korm. rendelet 4. §-a iktatta be.
+[^101]: A 25. § (20) bekezdését a 642/2023. (XII. 28.) Korm. rendelet 8. §-a iktatta be.
+[^102]: A 25. § (21) bekezdését a 642/2023. (XII. 28.) Korm. rendelet 8. §-a iktatta be.

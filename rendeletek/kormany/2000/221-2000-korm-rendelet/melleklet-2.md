@@ -1,4 +1,4 @@
-2. számú melléklet a 221/2000. (XII. 19.) Korm. rendelethez[^105]
+2. számú melléklet a 221/2000. (XII. 19.) Korm. rendelethez[^107]
 
 Az eredménykimutatás előírt tagolása
 
@@ -36,7 +36,7 @@ V. Egyéb bevételek
 
 2. Jutaléktól eltérő egyéb bevételek
 
-3.[^106] Felügyeleti tevékenységből származó bevételek
+3.[^108] Felügyeleti tevékenységből származó bevételek
 
 VI. Céltartalék felhasználás
 
@@ -90,8 +90,8 @@ XIX. Ráfordítások összesen
 
 XX. Tárgyévi eredmény
 
-XXI–XXIII.[^107]
+XXI–XXIII.[^109]
 
-[^105]: A 2. számú melléklet a 242/2003. (XII. 17.) Korm. rendelet 9. §-a szerint módosított szöveg, e módosító rendelet 10. §-ának (1) és (2) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban előírásait a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
-[^106]: A 2. számú melléklet V. rész 3. pontját az 518/2013. (XII. 30.) Korm. rendelet 8. §-a iktatta be.
-[^107]: A 2. számú melléklet XXI–XXIII. pontját a 484/2015. (XII. 29.) Korm. rendelet 31. § (2) bekezdése hatályon kívül helyezte.
+[^107]: A 2. számú melléklet a 242/2003. (XII. 17.) Korm. rendelet 9. §-a szerint módosított szöveg, e módosító rendelet 10. §-ának (1) és (2) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban előírásait a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
+[^108]: A 2. számú melléklet V. rész 3. pontját az 518/2013. (XII. 30.) Korm. rendelet 8. §-a iktatta be.
+[^109]: A 2. számú melléklet XXI–XXIII. pontját a 484/2015. (XII. 29.) Korm. rendelet 31. § (2) bekezdése hatályon kívül helyezte.

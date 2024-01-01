@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-221-20-
 | 2020-01-01 | 2000-221-20-22.16 | 343/2019. (XII. 23.) Korm. rendelet |
 | 2022-12-23 | 2000-221-20-22.17 | 547/2022. (XII. 22.) Korm. rendelet |
 | 2023-01-01 | 2000-221-20-22.18 | 603/2022. (XII. 28.) Korm. rendelet |
+| 2024-01-01 | 2000-221-20-22.19 | 642/2023. (XII. 28.) Korm. rendelet |
