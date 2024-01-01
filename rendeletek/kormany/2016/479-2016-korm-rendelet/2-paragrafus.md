@@ -34,7 +34,7 @@ terjed ki.
 
 a)[^1] a közhasznú szervezetként működő felsőoktatási intézmény,
 
-b)[^2] az Országos Tudományos Diákköri Tanács,
+b)[^2] a Doktoranduszok Országos Szövetsége, az Országos Tudományos Diákköri Tanács,
 
 c) a Magyar Felsőoktatási Akkreditációs Bizottság,
 
@@ -51,5 +51,5 @@ h) az európai kutatási infrastruktúráért felelős konzorcium, valamint
 i) a Magyar Szénhidrogén Készletező Szövetség.
 
 [^1]: A 2. § (2) bekezdés a) pontját a 445/2017. (XII.27.) Korm. rendelet 37. pont 1. pontja hatályon kívül helyezte, újonnan a 616/2020. (XII. 21.) Korm. rendelet 21. § (1) bekezdése iktatta be.
-[^2]: A 2. § (2) bekezdés b) pontja a 616/2020. (XII. 21.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^2]: A 2. § (2) bekezdés b) pontja a 642/2023. (XII. 28.) Korm. rendelet 31. §-ával megállapított szöveg.
 [^3]: A 2. § (2) bekezdés d) pontja a 616/2020. (XII. 21.) Korm. rendelet 21. § (3) bekezdésével megállapított szöveg.
