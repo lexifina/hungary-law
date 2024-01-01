@@ -1,5 +1,3 @@
-## 10. §[^14]
+## 10. § A 78/2012. (XII. 28.) BM rendelet Melléklete az 5. melléklet szerint módosul.
 
 ## 6. A kéményseprő-ipari tevékenység ellátásának szakmai szabályairól szóló 21/2016. (VI. 9.) BM rendelet módosítása
-
-[^14]: A 10. § a 14. § (5) bekezdése alapján 2024. január 1-jén lép hatályba.
