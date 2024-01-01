@@ -30,4 +30,4 @@ A nyugellátást havonta, forintban kell folyósítani, legkorábban attól a na
 
 (7) Az esedékessé vált és fel nem vett nyugellátást az esedékességtől számított öt éven belül lehet felvenni.
 
-(8) A nyugdíjfolyósító szerv a késedelmesen folyósított nyugellátás összege után – a határidő lejártát követő naptól – a Polgári Törvénykönyv szerinti késedelmi kamatot (a továbbiakban: késedelmi kamat) fizet.
+(8) A nyugdíjfolyósító szerv a késedelmesen folyósított nyugellátás összege után – a határidő lejártát követő naptól – a Polgári Törvénykönyv szerinti késedelmi kamatot (a továbbiakban: késedelmi kamat) fizet, ha a késedelmi kamat összege meghaladja az 1000 forintot.

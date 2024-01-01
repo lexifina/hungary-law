@@ -1,14 +1,12 @@
 72. § (1)
 
-(2) Az ügyintézési határidő tárgyév április 15-én jár le, ha
+(2) Az ügyintézési határidő a tárgyévi nyugdíj-megállapításhoz tartozó valorizációs szorzószámok hatálybalépését követő tizenötödik napon jár le, ha
 
 a) az öregségi nyugdíj megállapítása iránti kérelmet a tárgyévi nyugdíj-megállapításhoz tartozó valorizációs szorzószámok hatálybalépését megelőzően nyújtották be, vagy
 
-b) a hozzátartozói nyugellátás megállapítása iránti kérelmet a tárgyévi nyugdíj-megállapításhoz tartozó szorzószámok hatálybalépését megelőzően nyújtották be, és a hozzátartozói nyugellátás megállapításához a valorizációs szorzószámokat alkalmazni kell,
+b) a hozzátartozói nyugellátás megállapítása iránti kérelmet a tárgyévi nyugdíj-megállapításhoz tartozó valorizációs szorzószámok hatálybalépését megelőzően nyújtották be, és a hozzátartozói nyugellátás megállapításához a valorizációs szorzószámokat alkalmazni kell,
 
-c)
-
-és az általános ügyintézési határidő tárgyév április 15-ét megelőzően telik le.
+és az általános ügyintézési határidő a tárgyévi nyugdíj-megállapításhoz tartozó valorizációs szorzószámok hatálybalépését követő tizenötödik napot megelőzően telik le.
 
 (3) A nyugdíj-biztosítási igazgatási szerv által nyilvántartott adatokról szóló kivonat vagy hatósági bizonyítvány kiadásának ügyintézési határideje tizenöt nap.
 

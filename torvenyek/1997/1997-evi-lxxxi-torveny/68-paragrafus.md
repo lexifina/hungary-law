@@ -1,1 +1,1 @@
-### 68. §
+68. § Biztonságos kézbesítési szolgáltatási címmel rendelkező ügyfél esetén a nyugdíjbiztosítási igazgatási szervként eljáró fővárosi és vármegyei kormányhivatal a küldeményt – az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 15. §-ában foglaltak szerint – az ügyfél biztonságos kézbesítési szolgáltatási címére kézbesíti, ha ezt az ügyfél az ügyintézési rendelkezésében nem zárta ki.

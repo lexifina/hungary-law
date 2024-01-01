@@ -8,7 +8,7 @@ a) a nyugellátást jogszabálysértően állapították meg az igénylőnek já
 
 b) a nyugellátás összegét jogszerűen állapították meg, de a magasabb összegben vagy az igénylő számára egyébként kedvezőbb módon történő újra megállapítás az azóta tudomására jutott tények, adatok vagy bizonyítékok alapján indokolt.
 
-(1b) Az (1) bekezdés és az (1a) bekezdés a) pontja szerinti esetben, valamint ha a nyugellátást a nyugdíjbiztosítási igazgatási szerv vagy a nyugdíjfolyósító szerv jogszabálysértése miatt nem folyósították, a jogszabálysértés megállapításától számított öt éven belül járó összeget és a késedelmi kamatot ki kell fizetni a jogosultnak.
+(1b) Az (1) bekezdés és az (1a) bekezdés a) pontja szerinti esetben, valamint ha a nyugellátást a nyugdíjbiztosítási igazgatási szerv vagy a nyugdíjfolyósító szerv jogszabálysértése miatt nem folyósították, a jogszabálysértés megállapításától számított öt éven belül járó összeget és az 1000 forintot meghaladó összegű késedelmi kamatot ki kell fizetni a jogosultnak.
 
 (1c) Az (1a) bekezdés b) pontja szerinti esetben az újra megállapítás iránti eljárás megindulását megelőző hat hónapon belül járó összeget ki kell fizetni a jogosultnak.
 
@@ -16,13 +16,13 @@ b) a nyugellátás összegét jogszerűen állapították meg, de a magasabb ös
 
 (3) Abban az esetben, ha az (1)–(1b) bekezdés szerinti jogszabálysértésért a nyugdíjbiztosítási igazgatási szervet, a foglalkoztatót vagy egyéb szervet is felelősség terhel, a késedelmi kamatot közrehatásuk arányában kötelesek megfizetni. Ha a közrehatásuk aránya nem állapítható meg, a késedelmi kamat fizetési kötelezettség egyenlő arányban áll fenn.
 
-(4) A (2) és (3) bekezdés szerinti kötelezettet a késedelmi kamat megfizetésére a nyugdíjbiztosítási igazgatási szerv határozatban kötelezi.
+(4) A (2) és (3) bekezdés szerinti kötelezettet a késedelmi kamat megfizetésére a nyugdíjbiztosítási igazgatási szerv határozatban kötelezi, ha a késedelmi kamat összege meghaladja az 1000 forintot.
 
 (4a)
 
 (5)
 
-(6) Ha a nyugellátást jogszabálysértően állapították meg az igénylőnek járónál magasabb összegben, vagy az igénylő számára egyébként kedvezőbb módon, a nyugdíjbiztosítási igazgatási szerv a nyugellátást egy ízben, az azt megállapító döntés véglegessé válásától számított öt éven belül, a nyugellátás eredeti kezdő időpontjában alkalmazandó jogszabályok alapján, hivatalból alacsonyabb összegben, vagy az igénylő számára egyébként kedvezőtlenebb módon újra megállapítja.
+(6) Ha a nyugellátást jogszabálysértően állapították meg az igénylőnek járónál magasabb összegben, vagy az igénylő számára egyébként kedvezőbb módon, a nyugdíjbiztosítási igazgatási szerv a nyugellátást egy ízben, az azt megállapító döntés véglegessé válásától számított öt éven belül, a nyugellátás eredeti kezdő időpontjában alkalmazandó jogszabályok alapján, hivatalból alacsonyabb összegben, illetve az igénylő számára egyébként kedvezőtlenebb módon újra megállapítja. Nem állapítható meg újra a nyugellátás alacsonyabb összegben, ha a különbség nem haladja meg a havi 1000 forintot, és a magasabb összegű jogellenes megállapítás az igénylőnek nem róható fel.
 
 (7) Ha a nyugdíjbiztosítási igazgatási szerv jogszabálysértően arra nem jogosultnak állapított meg nyugellátást, a nyugellátást az azt megállapító döntés véglegessé válásától számított öt éven belül, hivatalból megszünteti.
 
