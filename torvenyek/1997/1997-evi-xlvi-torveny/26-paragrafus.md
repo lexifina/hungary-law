@@ -2,7 +2,7 @@
 
 ## A KAMARA ÁLLAMI FELÜGYELETE
 
-26. § (1) A kamara törvényességi felügyeletét a vadgazdálkodásért felelős miniszter (a továbbiakban: miniszter) látja el.
+26. § (1) A kamara törvényességi felügyeletét a miniszter látja el.
 
 (2) Jogszabálysértés esetén – határidő tűzésével – a miniszter felhívja a kamara elnökét a jogszabálysértés megszüntetésére.
 
