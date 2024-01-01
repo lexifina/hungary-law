@@ -1,0 +1,3 @@
+## 2. Az ásványi nyersanyagok és a geotermikus energia fajlagos értékének, valamint az értékszámítás módjának meghatározásáról szóló 54/2008. (III. 20.) Korm. rendelet módosítása
+
+2. § Az ásványi nyersanyagok és a geotermikus energia fajlagos értékének, valamint az értékszámítás módjának meghatározásáról szóló 54/2008. (III. 20.) Korm. rendelet 1. mellékletében foglalt táblázat G:103–G:105 mezőjében a „p = a Platts Dutch TTF Day ahead bevallási időszak napi árainak (EUR/MWh) számtani átlaga + 1,05 EUR/MWh” szövegrész helyébe a „p = a GTFTX00 szimbólumú Platts Dutch TTF Day ahead földgáz jegyzésár bevallási időszakra elérhető napi záró jegyzésárainak számtani átlaga (EUR/MWh) + 1,05 EUR/MWh” szöveg lép.
