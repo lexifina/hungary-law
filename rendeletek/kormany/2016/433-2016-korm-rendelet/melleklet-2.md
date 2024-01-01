@@ -1,6 +1,6 @@
 2. melléklet a 433/2016. (XII. 15.) Korm. rendelethez
 
-## A projekt folyamatos szakmai és pénzügyi értékelésének szempontjai
+A projekt folyamatos szakmai és pénzügyi értékelésének szempontjai
 
 1. Szakmai értékelés: feladata a projekt megvalósítása során folytatott munka folyamatosságának, eredményességének és további támogathatóságának véleményezése (figyelembe véve a projekt vállalásait, pénzügyi/szakmai mérföldköveit). Az értékelésnek ki kell terjednie az alábbiak vizsgálatára:
 

@@ -1,6 +1,6 @@
 3. melléklet a 433/2016. (XII. 15.) Korm. rendelethez
 
-## A projekt szakmai fenntartási és haladási beszámolója értékelésének szempontjai
+A projekt szakmai fenntartási és haladási beszámolója értékelésének szempontjai
 
 1. Szakmai értékelés: feladata a projekt megvalósításával elvégzett munka eredményességének véleményezése, részletes tudományos értékelés, szakmai vita bemutatásával. Az értékelésnek ki kell terjednie az alábbiak vizsgálatára:
 

@@ -2,7 +2,7 @@
 
 1. melléklet a 433/2016. (XII. 15.) Korm. rendelethez
 
-## A projektek értékelésének választható szempontjai
+A projektek értékelésének választható szempontjai
 
 1. A kutatási/megvalósítási terv értékelése: értékelni kell a projekt KFI szakmai tartalmát, és azt, hogy a projekt sikeres megvalósítása hozzájárul-e az érintett szakterület, tudományág fejlődéséhez.
 
