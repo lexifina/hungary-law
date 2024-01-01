@@ -1,3 +1,3 @@
-## 38. §[^2]
+39. §[^7]
 
-[^2]: A 38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 39. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

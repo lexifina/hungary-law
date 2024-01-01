@@ -10,7 +10,7 @@ a) munkáltató szerv és a személyügyi központ kijelölt felhasználója ese
 
 b) szolgáltatást igénybe vevő tisztviselő esetén az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény szerinti, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatással
 
-## kell azonosítani, és a rendszer adataihoz történő hozzáférését a KSzSzK jogosultsági rendszerén keresztül kell biztosítani.
+kell azonosítani, és a rendszer adataihoz történő hozzáférését a KSzSzK jogosultsági rendszerén keresztül kell biztosítani.
 
 (5) A jogosultsági rendszer megfelelő működéséért a személyügyi központ felel mint a legmagasabb szintű felhasználói jogosultsággal rendelkező felhasználó (a továbbiakban: KSzSzK adminisztrátor).
 

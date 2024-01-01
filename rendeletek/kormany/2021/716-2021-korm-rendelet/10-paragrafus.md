@@ -8,7 +8,7 @@ a) a munkáltató szervek körében elektronikus pályázati eljáráshoz, tobor
 
 b) a közigazgatási és kormányzati igazgatási szervek részére elektronikus kiválasztási eljáráshoz
 
-## hozzáférést biztosít.
+hozzáférést biztosít.
 
 (2) A KÖZSZOLGÁLLÁS interfészen keresztül kapcsolatban áll
 
