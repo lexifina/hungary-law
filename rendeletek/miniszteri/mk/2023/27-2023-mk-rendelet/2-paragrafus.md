@@ -1,3 +1,7 @@
-2. §[^4]
+2. § Hatályát veszti az NFM rendelet
 
-[^4]: A 2. § a 3. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+a) 1. § 4–6. pontja,
+
+b) 3. §-a,
+
+c) 5. §-a.
