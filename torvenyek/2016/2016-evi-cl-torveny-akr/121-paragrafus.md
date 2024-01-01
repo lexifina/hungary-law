@@ -8,7 +8,7 @@ a) megteszi a szükséges intézkedést a jogszabálysértő mulasztás felszám
 
 b) gyakorolja a (2) bekezdésben szabályozott felügyeleti jogkört.
 
-(2) Ha a hatóság döntése jogszabályt sért, a felügyeleti szerv legfeljebb egy ízben – a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvény 5/A. §-ába ütköző esetben a büntetőügyben hozott határozat közlésétől számított egy éven belül, a (3) bekezdésben meghatározott időtartamon túl is – azt megváltoztatja vagy megsemmisíti, és szükség esetén a döntést hozó hatóságot új eljárásra utasítja.
+(2) Ha a hatóság döntése jogszabályt sért, a felügyeleti szerv legfeljebb egy ízben – a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvény 5/A. §-ába ütköző esetben a büntetőügyben hozott határozat közlésétől számított egy éven belül, a (3) bekezdésben meghatározott időtartamon túl is – azt megváltoztatja vagy megsemmisíti, és szükség esetén a döntést hozó hatóságot új eljárásra utasítja. A megváltoztatás vagy megsemmisítés keresettel támadott döntés esetében a védirat továbbítását követően kizárólag a 115. § (6) bekezdése szerint lehetséges.
 
 (3) A hatóság döntése nem változtatható meg és nem semmisíthető meg, ha
 

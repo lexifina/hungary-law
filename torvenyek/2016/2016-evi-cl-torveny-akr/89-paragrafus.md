@@ -6,7 +6,7 @@ a) a döntés rendelkező részét és indokolásának kivonatát, valamint
 
 b) azt a figyelemfelhívást, hogy a döntés a hatóságnál megtekinthető.
 
-(2) A közleményt a hatóság a hirdetőtábláján, valamint a honlapján helyezi el.
+(2) A közleményt a hatóság a honlapján helyezi el.
 
 (3) A hatóság közhírré teszi azt a véglegessé vált vagy azonnal végrehajthatóvá nyilvánított döntést,
 

@@ -10,7 +10,7 @@ c) azt törvény vagy kormányrendelet előírja.
 
 (2) A hirdetmény tartalmazza
 
-a) a kifüggesztés, a honlapon történő közzététel esetén a közzététel napját,
+a) a honlapon történő közzététel esetén a közzététel napját,
 
 b) az eljáró hatóság megnevezését,
 
@@ -20,4 +20,4 @@ d) az ügyfél nevét és utolsó ismert lakcímét (székhelyét), továbbá
 
 e) azt a figyelemfelhívást, hogy a hatóság az ügyben döntést hozott, de annak kézbesítése akadályba ütközött, ezért az ügyfél vagy képviselője a döntést a hatóságnál átveheti.
 
-(3) A hirdetményt a hatóság hirdetőtábláján, valamint a honlapján helyezi el.
+(3) A hirdetményt a hatóság a honlapján helyezi el.

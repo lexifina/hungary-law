@@ -14,6 +14,6 @@
 
 a) az a nap, amelyen azt írásban vagy szóban közölték, vagy
 
-b) a hirdetmény kifüggesztését követő tizenötödik nap.
+b) a hirdetmény honlapon történő közzétételét követő tizenötödik nap.
 
 (6) A hatóság védelmi helyzet elrendelésének alapjául szolgáló ok, életveszéllyel vagy súlyos kárral fenyegető helyzet esetén a döntést az ügyféllel szóban vagy a döntés tartalmának megismerésére alkalmas egyéb módon közli, amiről a hatóság feljegyzést készít. A hatóság a döntést utólag írásban közli. A döntés közlésének napja ilyenkor – kizárólag a jogorvoslati határidők számításának szempontjából – az írásbeli közlés napja.
