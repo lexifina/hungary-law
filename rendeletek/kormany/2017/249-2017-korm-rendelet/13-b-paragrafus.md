@@ -1,6 +1,6 @@
-## 4/B. [^31] A küszöbértékek a digitális infrastruktúra ágazatban
+## 4/B. [^32] A küszöbértékek a digitális infrastruktúra ágazatban
 
-13/B. §[^32] (1) A Vhr. 3. mellékletében foglalt táblázat 28–30. sora szerinti helyhez kötött internet-hozzáférési (elérési) szolgáltatás, nomadikus internet-hozzáférési (elérési) szolgáltatás, valamint mobil internet-hozzáférési (elérési) szolgáltatás esetében a releváns ellátási szint meghatározásához a küszöbértékek a 13/A. § (1) bekezdés a–c) pontjában foglaltak szerint alakulnak.
+13/B. §[^33] (1) A Vhr. 3. mellékletében foglalt táblázat 28–30. sora szerinti helyhez kötött internet-hozzáférési (elérési) szolgáltatás, nomadikus internet-hozzáférési (elérési) szolgáltatás, valamint mobil internet-hozzáférési (elérési) szolgáltatás esetében a releváns ellátási szint meghatározásához a küszöbértékek a 13/A. § (1) bekezdés a–c) pontjában foglaltak szerint alakulnak.
 
 (2) A Vhr. 3. mellékletében foglalt táblázat 31. sora szerinti adatkicserélő (IXP) szolgáltatás esetében alapvető szolgáltatásokat nyújtó szereplőként jelölhető ki
 
@@ -20,5 +20,5 @@ a) minden olyan alapvető szolgáltatásokat nyújtó szereplőként kijelölt e
 
 b) minden olyan TLD regisztrátor szolgáltató, aki legalább 100 000 regisztrált TLD domain nevet kezel.
 
-[^31]: A 4/B. alcímet (13/B. §) a 375/2020. (VII. 30.) Korm. rendelet 99. §-a iktatta be.
-[^32]: A 13/B. §-t a 375/2020. (VII. 30.) Korm. rendelet 99. §-a iktatta be.
+[^32]: A 4/B. alcímet (13/B. §) a 375/2020. (VII. 30.) Korm. rendelet 99. §-a iktatta be.
+[^33]: A 13/B. §-t a 375/2020. (VII. 30.) Korm. rendelet 99. §-a iktatta be.

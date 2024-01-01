@@ -1,6 +1,6 @@
-## 4/C. [^33] Rendkívüli események
+## 4/C. [^34] Rendkívüli események
 
-13/C. §[^34] (1) Infokommunikációs technológiák ágazatban rendkívüli eseménynek minősül
+13/C. §[^35] (1) Infokommunikációs technológiák ágazatban rendkívüli eseménynek minősül
 
 a) létesítmény, szolgáltatás nyújtását érintő igénybe vett közműszolgáltatások előreláthatóan 4 órát meghaladó kimaradása,
 
@@ -20,17 +20,17 @@ ce) az olyan, a kábeltelevíziós, digitális földfelszíni vagy műholdas mű
 
 cf) a postai szolgáltatás normál üzemmenetét 5 órát meghaladóan akadályozó zavar,
 
-cg)[^35] különleges jogrend, katasztrófaveszély, összehangolt védelmi tevékenység idején vagy váratlan támadás esetén bekövetkezett minden olyan esemény, amely az elektronikus hírközlési, a postai és a műsorszórás szolgáltatás ellátásának megszűnéséhez, átalakításához vezet,
+cg)[^36] különleges jogrend, katasztrófaveszély, összehangolt védelmi tevékenység idején vagy váratlan támadás esetén bekövetkezett minden olyan esemény, amely az elektronikus hírközlési, a postai és a műsorszórás szolgáltatás ellátásának megszűnéséhez, átalakításához vezet,
 
 d) az, ha az illetékes hatóság a kijelölt létfontosságú rendszerelemnél egészségügyi zárlatot rendel el,
 
 e) a humánerőforrás olyan mértékű kritikus hiánya, ami a tevékenység leállításához, szüneteltetéséhez vezethet.
 
-f)[^36] különleges jogrend, katasztrófaveszély, összehangolt védelmi tevékenység idején vagy váratlan támadás esetén bekövetkezett minden olyan esemény, amely a meteorológiai infrastruktúrán keresztül történő hivatalos meteorológiai információ szolgáltatás ellátásának megszűnéséhez, átalakításához vezet.
+f)[^37] különleges jogrend, katasztrófaveszély, összehangolt védelmi tevékenység idején vagy váratlan támadás esetén bekövetkezett minden olyan esemény, amely a meteorológiai infrastruktúrán keresztül történő hivatalos meteorológiai információ szolgáltatás ellátásának megszűnéséhez, átalakításához vezet.
 
 (2) Az (1) bekezdés szerinti rendkívüli eseményekkel kapcsolatos, az Lrtv. 6. § (11) bekezdésében előírt tájékoztatási kötelezettségnek az NMHH Hivatala irányába az NMHH Adatkapun keresztül, az NMHH Adatkapu működésképtelensége esetén elektronikus levélben, az elektronikus levelező rendszer működésképtelensége esetén telefonon vagy telefaxon, az előbbiekhez szükséges hálózati hozzáférés hiányában futár útján kell eleget tenni.
 
-[^33]: A 4/C. alcímet (13/C. §) a 375/2020. (VII. 30.) Korm. rendelet 99. §-a iktatta be.
-[^34]: A 13/C. §-t a 375/2020. (VII. 30.) Korm. rendelet 99. §-a iktatta be.
-[^35]: A 13/C. § (1) bekezdés c) pont cg) alpontja a 35/2023. (II. 9.) Korm. rendelet 10. § e) pontja szerint módosított szöveg.
-[^36]: A 13/C. § (1) bekezdés f) pontját a 35/2023. (II. 9.) Korm. rendelet 7. §-a iktatta be.
+[^34]: A 4/C. alcímet (13/C. §) a 375/2020. (VII. 30.) Korm. rendelet 99. §-a iktatta be.
+[^35]: A 13/C. §-t a 375/2020. (VII. 30.) Korm. rendelet 99. §-a iktatta be.
+[^36]: A 13/C. § (1) bekezdés c) pont cg) alpontja a 35/2023. (II. 9.) Korm. rendelet 10. § e) pontja szerint módosított szöveg.
+[^37]: A 13/C. § (1) bekezdés f) pontját a 35/2023. (II. 9.) Korm. rendelet 7. §-a iktatta be.
