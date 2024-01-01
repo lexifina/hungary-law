@@ -1,6 +1,6 @@
 2. számú melléklet a 12/1996. (VII. 4.) KTM rendelethez
 
-## A teljes körű felülvizsgálati dokumentáció kötelező tartalma
+A teljes körű felülvizsgálati dokumentáció kötelező tartalma
 
 1. Általános adatok
 
