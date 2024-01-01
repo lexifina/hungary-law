@@ -2,6 +2,8 @@
 
 5. § (1) A vámhatóság haladéktalanul, de legkésőbb a nyilatkozattételtől, adatszolgáltatástól vagy az adatok megismerésétől számított 15 napon belül továbbítja a pénzügyi információs egységként működő hatóság részére a Rendelet 3. és 4. cikke szerint közölt, valamint e törvény alapján végzett vámellenőrzést követően hivatalból összeállított nyilatkozatban foglalt – ideértve a büntetendő cselekményhez kapcsolódó, a Rendelet szerinti küszöbértéket el nem érő készpénzre vonatkozó – adatokat.
 
+(1a) A vámhatóság megjelöli azokat az (1) bekezdés alapján továbbított adatokat, amelyek pénzmosásra, terrorizmus finanszírozására vagy a készpénz büntetendő vagy jogsértő cselekményből való származására utalnak.
+
 (2) A vámhatóság továbbítja a tagállamok illetékes hatóságai számára a vámellenőrzés alapján hivatalból összeállított nyilatkozatban foglalt – ideértve a büntetendő cselekményhez kapcsolódó, a Rendelet szerinti küszöbértéket el nem érő készpénzre vonatkozó – adatokat, valamint – ha a rendelkezésre álló információk alapján a készpénz büntetendő cselekményhez kapcsolódik – a Rendelet 3. és 4. cikke szerint közölt, valamint a kockázatokkal kapcsolatos, személyes adat jellegétől megfosztott adatokat, továbbá a kockázatelemzés eredményeit.
 
 (3) Ha a rendelkezésre álló információk alapján a készpénz büntetendő cselekményhez kapcsolódik, a vámhatóság a (2) bekezdés szerinti adatokat továbbítja az Európai Bizottság, valamint – ha a büntetendő cselekmény a hatáskörébe tartozik – az Europol részére.
