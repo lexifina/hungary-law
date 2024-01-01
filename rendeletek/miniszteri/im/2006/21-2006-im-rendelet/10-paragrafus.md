@@ -22,6 +22,8 @@
 
 (10)[^39] Ha a cég a cégjegyzékből jogutód nélkül kerül törlésre, és a törölt cég más cég fennálló cégjegyzékadatai között mint a Ctv. 24. § (1) bekezdés h) pontja szerinti személy szerepel, a törölt céget a cégbíróság automatikus végzéssel törli a cégjegyzékből. Más esetben az informatikai rendszer csupán jelzi a cégbíróság számára a cég törlésének tényét.
 
+(11)[^40] Az informatikai rendszer biztosítja, hogy ha valamely rovat alrovatszámát a cégjegyzék más rovat adattartalmaként feltünteti, az alrovatszám változása esetén az alrovatra történő hivatkozás automatikusan átvezetésre kerül az érintett másik rovatban.
+
 [^31]: A 10. § (2) bekezdése a 10/2012. (II. 29.) KIM rendelet 6. §-ával megállapított szöveg.
 [^32]: A 10. § (2a) bekezdését a 12/2014. (II. 28.) KIM rendelet 5. § (3) bekezdése iktatta be.
 [^33]: A 10. § (4) bekezdése a 21/2018. (VII. 4.) IM rendelet 3. § (1) bekezdésével megállapított szöveg.
@@ -31,3 +33,4 @@
 [^37]: A 10. § (8) bekezdését a 21/2018. (VII. 4.) IM rendelet 3. § (2) bekezdése iktatta be.
 [^38]: A 10. § (9) bekezdését a 21/2018. (VII. 4.) IM rendelet 3. § (2) bekezdése iktatta be.
 [^39]: A 10. § (10) bekezdését a 21/2018. (VII. 4.) IM rendelet 3. § (2) bekezdése iktatta be.
+[^40]: A 10. § (11) bekezdését a 19/2023. (XII. 12.) IM rendelet 1. §-a iktatta be.

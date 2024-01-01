@@ -36,3 +36,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-21-20-0
 | 2022-09-01 | 2006-21-20-06.36 | 6/2022. (IV. 4.) IM rendelet |
 | 2023-01-01 | 2006-21-20-06.37 | 38/2022. (XII. 27.) IM rendelet |
 | 2023-08-20 | 2006-21-20-06.38 | 12/2014. (II. 28.) KIM rendelet |
+| 2024-01-01 | 2006-21-20-06.39 | 12/2014. (II. 28.) KIM rendelet |

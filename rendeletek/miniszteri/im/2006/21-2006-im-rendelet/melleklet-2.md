@@ -24,7 +24,9 @@
 
 ## hb) A cég cégjegyzékszáma (Az eredeti cégbejegyzési eljárás során kapott cégjegyzékszámot kell megadni.)
 
-## i) Átalakulás, egyesülés, szétválás vagy határokon átnyúló átalakulás, egyesülés, szétválás bejegyzésének kérelme esetén annak jelölése, ha az új adatok, illetve a módosuló adatok változásának időpontját az átalakulás, egyesülés, szétválás napjával kéri bejegyezni. (Az egyes rovatoknál a kezdő időpontot, valamint a változások időpontját nem kell megadni, a 16. rovat vagy a 63. rovat egyértelmű kitöltése azonban szükséges.)j) Annak jelölése, ha a 2007. évi CXL. törvény 13/A-13/D. § szerinti határokon átnyúló egyesülésben átvevő társaságként való részvétel céljára alapított társaság bejegyzését kéri.
+## i) Átalakulás, egyesülés, szétválás vagy határokon átnyúló átalakulás, egyesülés, szétválás bejegyzésének kérelme esetén annak jelölése, ha az új adatok, illetve a módosuló adatok változásának időpontját az átalakulás, egyesülés, szétválás napjával kéri bejegyezni. (Az egyes rovatoknál a kezdő időpontot, valamint a változások időpontját nem kell megadni, a 16. rovat vagy a 63. rovat egyértelmű kitöltése azonban szükséges.)
+
+## j)
 
 ## k) A mellékletek száma fajtánként és nyelvenként részletezve (Meg kell adni a kérelemhez benyújtott mellékleteket fajtánként részletezve. A cégbejegyzési kérelemhez csatolható a cégiratoknak az Európai Unió bármely hivatalos nyelvén készült hiteles fordítása. Ebben az esetben meg kell adni a csatolt melléklet nyelvét is. A magyar nyelvű cégiratoknál nem szükséges feltüntetni a nyelvet. Amennyiben olyan okiratot csatolnak, amelyben egymás mellett szerepel a magyar nyelvű szöveg, valamint annak fordítása (tükörfordítás), akkor az ilyen okiratot egy okiratnak kell tekinteni, de nyelvként meg kell jelölni – vesszővel elválasztva – a magyar nyelvet és az idegen nyelvet is. Az Európai Unió hivatalos nyelvei: a magyaron kívül angol, bolgár, cseh, dán, észt, finn, francia, görög, holland, horvát, ír, lengyel, lett, litván, máltai, német, olasz, portugál, román, spanyol, svéd, szlovák, szlovén.)
 
@@ -282,13 +284,15 @@
 
 ## ac) Adóazonosító jel
 
-## ad) Annak jelölése, ha külföldi személy és magyar adóazonosító jellel nem rendelkezik
+## ad) Külföldi közteherviselési azonosító az ország megadásával
 
-## ae) Annak jelölése, ha a felügyelőbizottsági tag munkavállalói küldött
+## ae) Annak jelölése, ha külföldi személy, azonban külföldi közteherviselési azonosítóval és magyar adóazonosító jellel sem rendelkezik
 
-## af) Lakóhely / külföldi lakóhely
+## af) Annak jelölése, ha a felügyelőbizottsági tag munkavállalói küldött
 
-## ag) Külföldi lakóhellyel rendelkező személy esetén a kézbesítési megbízott adatai
+## ag) Lakóhely / külföldi lakóhely
+
+## ah) Külföldi lakóhellyel rendelkező személy esetén a kézbesítési megbízott adatai
 
 ## b) A felügyelőbizottsági tag(ok) adatai nem természetes személy esetén:
 
@@ -337,6 +341,8 @@
 ## ac) Szétválás módja:
 
 ## – kiválás
+
+## – leválás
 
 ## – különválás
 
@@ -846,6 +852,14 @@
 
 ## fi) Külföldi szervezet esetén a kézbesítési megbízott adatai
 
+## g) A zálogjoggal biztosított követelés összege vagy az az összeg, amelynek erejéig a zálogjogosult kielégítést kereshet (megadása kötelező):
+
+## ga) Az összeg számmal megadva
+
+## gb) A pénznem rövidítéssel megadva
+
+## h) Annak jelölése, ha az üzletrészt terhelő elidegenítési és terhelési tilalmat vagy elidegenítési tilalmat kötöttek ki
+
 ## 4.3.) 3. cégformától függő rovat: Közös tulajdonú üzletrész esetén a tulajdonosok adatai (legalább két tulajdonost kell megadni, valamennyi tulajdonost meg kell adni):
 
 ## a) Természetes személy(ek) adatai (több is megadható):
@@ -897,6 +911,112 @@
 ## c) Tulajdonosi jogviszony kezdete
 
 ## d) Annak jelölése, ha a tulajdonos e jogállását bizalmi vagyonkezelőként szerezte meg
+
+## 4.4.) 4. cégformától függő rovat: Az üzletrészen alapított zálogjog alzálogjogának adatai:
+
+## a) Az üzletrészt terhelő zálogjog jogosultjának (alzálog-kötelezett) adatai természetes személy esetén:
+
+## aa) Név
+
+## ab) Anyja neve
+
+## ac) Lakóhely / külföldi lakóhely
+
+## ad) Külföldi lakóhellyel rendelkező személy esetén a kézbesítési megbízott adatai
+
+## ae) Az alzálog-kötelezettre vonatkozó alrovatszám
+
+## b) Az üzletrészt terhelő zálogjog jogosultjának (alzálog-kötelezett) adatai nem természetes személy esetén:
+
+## ba) Cég esetén cégjegyzékszám
+
+## bb) Cégnek nem minősülő egyéb szervezet esetén a nyilvántartási szám
+
+## bc) Cég (szervezet) esetén EUID
+
+## bd) Annak jelölése, ha a cég (szervezet) EUID-val nem rendelkezik
+
+## be) Külföldi szervezet esetén, ha ilyen adattal rendelkezik, a nyilvántartási szám
+
+## bf) Külföldi szervezet esetén, ha ilyen adattal rendelkezik, a nyilvántartási hatóság
+
+## bg) Elnevezés
+
+## bh) Székhely / külföldi székhely
+
+## bi) Külföldi szervezet esetén a kézbesítési megbízott adatai
+
+## bj) Az alzálog-kötelezettre vonatkozó alrovatszám
+
+## c) Az alzálogjogosult adatai természetes személy esetén:
+
+## ca) Név
+
+## cb) Anyja neve
+
+## cc) Adóazonosító jel
+
+## cd) Annak jelölése, ha külföldi személy, és magyar adóazonosító jellel sem rendelkezik
+
+## ce) Lakóhely / külföldi lakóhely
+
+## cf) Külföldi lakóhellyel rendelkező személy esetén a kézbesítési megbízott adatai
+
+## d) Az alzálogjogosult adatai nem természetes személy esetén:
+
+## da) Cég esetén cégjegyzékszám
+
+## db) Cégnek nem minősülő egyéb szervezet esetén a nyilvántartási szám
+
+## dc) Cég (szervezet) esetén EUID
+
+## dd) Annak jelölése, ha a cég (szervezet) EUID-val nem rendelkezik
+
+## de) Külföldi szervezet esetén, ha ilyen adattal rendelkezik, a nyilvántartási szám
+
+## df) Külföldi szervezet esetén, ha ilyen adattal rendelkezik, a nyilvántartási hatóság
+
+## dg) Elnevezés
+
+## dh) Székhely / külföldi székhely
+
+## di) Külföldi szervezet esetén a kézbesítési megbízott adatai
+
+## e) Az alzálogjogosulti bizományos adatai természetes személyes esetén:
+
+## ea) Név
+
+## eb) Anyja neve
+
+## ec) Adóazonosító jel
+
+## ed) Annak jelölése, ha külföldi személy, és magyar adóazonosító jellel sem rendelkezik
+
+## ee) Lakóhely / külföldi lakóhely
+
+## ef) Külföldi lakóhellyel rendelkező személy esetén a kézbesítési megbízott adatai
+
+## f) Az alzálogjogosulti bizományos adatai nem természetes személy esetén:
+
+## fa) Cég esetén cégjegyzékszám
+
+## fb) Cégnek nem minősülő egyéb szervezet esetén a nyilvántartási szám
+
+## fc) Cég (szervezet) esetén EUID
+
+## fd) Annak jelölése, ha a cég (szervezet) EUID-val nem rendelkezik
+
+## fe) Külföldi szervezet esetén, ha ilyen adattal rendelkezik, a nyilvántartási szám
+
+## ff) Külföldi szervezet esetén, ha ilyen adattal rendelkezik, a nyilvántartási hatóság
+
+## fg) Elnevezés
+
+## fh) Székhely / külföldi székhely
+
+## fi) Külföldi szervezet esetén a kézbesítési megbízott adatai
+
+## g) Annak jelölése, ha az üzletrészt terhelő elidegenítési és terhelési tilalmat vagy elidegenítési tilalmat kötöttek ki
 
 ## 5.) 10/Z A zártkörűen működő részvénytársaság
 
@@ -2010,6 +2130,6 @@
 
 ## g) Törölve (szükség szerint jelölendő, ha cégjegyzékből a rovat tartalmát törölni kérik)
 
-2. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^78]
+2. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^79]
 
-[^78]: A 2. számú melléklet az 1/2006. (VI. 26.) IRM rendelet 15. § (7) bekezdése, a 12/2020. (VIII. 4.) IM rendelet 2. §-a, a 38/2022. (XII. 27.) IM rendelet 5. § b) pontja szerint módosított szöveg.
+[^79]: A 2. számú melléklet az 1/2006. (VI. 26.) IRM rendelet 15. § (7) bekezdése, a 12/2020. (VIII. 4.) IM rendelet 2. §-a, a 38/2022. (XII. 27.) IM rendelet 5. § b) pontja szerint módosított szöveg.

@@ -6,6 +6,6 @@
 
 (3) Ha a cég az átalakulása során az átalakulás időpontját meghatározza [Ctv. 57. § (2) bekezdés], a jogelőd cég (cégek) cégjegyzékében is fel kell tüntetni azt az időpontot, amely a jogutód cég (cégek) cégjegyzékében az átalakulás időpontjaként szerepel.
 
-(4)[^49] Átalakulás, egyesülés, szétválás esetén a jogelőd és a jogutód cég(ek) cégjegyzékében is fel kell tüntetni, hogy átalakulásra, egyesülésre (beolvadás, összeolvadás) vagy szétválásra (kiválás, különválás) került sor. A cégjegyzék tartalmazza azt is, ha tőkeegyesítő társaságok határokon átnyúló egyesülésére került sor.
+(4)[^50] Átalakulás, egyesülés, szétválás esetén a jogelőd és a jogutód cég(ek) cégjegyzékében is fel kell tüntetni, hogy átalakulásra, egyesülésre (beolvadás, összeolvadás) vagy szétválásra (kiválás, különválás) került sor. A cégjegyzék tartalmazza azt is, ha tőkeegyesítő társaságok határokon átnyúló egyesülésére került sor.
 
-[^49]: A 13. § (4) bekezdését a 39/2015. (XII. 21.) IM rendelet 1. § (12) bekezdés a) pontja hatályon kívül helyezte, újonnan a 21/2018. (VII. 4.) IM rendelet 5. §-a iktatta be.
+[^50]: A 13. § (4) bekezdését a 39/2015. (XII. 21.) IM rendelet 1. § (12) bekezdés a) pontja hatályon kívül helyezte, újonnan a 21/2018. (VII. 4.) IM rendelet 5. §-a iktatta be.
