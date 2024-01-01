@@ -2,7 +2,7 @@
 
 a) a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) szerinti munkaviszonyban álló, vagy
 
-b) a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) szerinti közalkalmazotti jogviszonyban álló
+b) a köznevelési foglalkoztatotti jogviszonyban álló
 
 személyek TAJ számát, akik a munkakörükbe tartozó – így a köznevelési intézmény esetében különösen az Nkt. szerinti gazdasági, ügyviteli, műszaki, kisegítő és más – feladatokat a köznevelési intézmény, illetve a szakképző intézmény területén látják el.
 
@@ -12,4 +12,4 @@ személyek TAJ számát, akik a munkakörükbe tartozó – így a köznevelési
 
 (4) A köznevelési szerv, valamint a szakképzési szerv az (1) bekezdés szerint átadott adatokat – az (5) bekezdés szerinti kivétellel – a 74/C. § (1) bekezdése szerinti kormányrendelet hatálya alatt kezeli.
 
-(5) Az (1) bekezdés szerint átvett adatot haladéktalanul törölni kell akkor, ha a köznevelési intézmény, illetve a szakképző intézmény a köznevelési szervet, illetve a szakképzési szervet arról értesíti, hogy az érintett már nem áll vele az Mt. szerinti munkaviszonyban vagy Kjt. szerinti közalkalmazotti jogviszonyban, illetve, ha az érintett a munkakörét a továbbiakban már nem a köznevelési intézmény vagy a szakképző intézmény területén látja el.
+(5) Az (1) bekezdés szerint átvett adatot haladéktalanul törölni kell akkor, ha a köznevelési intézmény, illetve a szakképző intézmény a köznevelési szervet, illetve a szakképzési szervet arról értesíti, hogy az érintett már nem áll vele az Mt. szerinti munkaviszonyban vagy köznevelési foglalkoztatotti jogviszonyban, illetve, ha az érintett a munkakörét a továbbiakban már nem a köznevelési intézmény vagy a szakképző intézmény területén látja el.

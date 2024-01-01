@@ -2,7 +2,7 @@
 
 a) az Mt. szerinti munkaviszonyban álló, vagy
 
-b) a Kjt. szerinti közalkalmazotti jogviszonyban álló
+b) a köznevelési foglalkoztatotti jogviszonyban álló
 
 személyek TAJ számát, akik a munkakörükbe tartozó – különösen az Nkt. szerinti gazdasági, ügyviteli, műszaki, kisegítő és más – feladatokat a köznevelési intézmény területén látják el.
 
