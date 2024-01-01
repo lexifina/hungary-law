@@ -1,3 +1,3 @@
-5. §[^5]
+5. § A Hjt.vhr. a következő 117/A. § (6) bekezdése a következő h) ponttal egészül ki:
 
-[^5]: Az 5. § a 13. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[A Hjt. 98. § (1) bekezdése szerinti katonai szakmai felkészítésnek minősül]

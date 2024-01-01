@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-6-20-15
 | --- | --- | --- |
 | 2023-04-04 | 2023-6-20-15.1 | 6/2023. (IV. 3.) HM rendelet |
 | 2023-04-05 | 2023-6-20-15.2 | 2010. évi CXXX. törvény |
+| 2024-01-01 | 2023-6-20-15.3 | Nemzeti Jogszabálytár (egységes szerkezet) |

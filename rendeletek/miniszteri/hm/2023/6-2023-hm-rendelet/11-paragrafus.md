@@ -1,22 +1,18 @@
 11. § A Hjt.vhr.
 
-a)[^11]
+a)[^9]
 
-b)[^12]
+b)[^10]
 
-c)[^13]
+c) 166. § (2) bekezdésében a „26/A–26/C. §” szövegrész helyébe a „26/A–26/F. §” szöveg,
 
-d)[^14]
+d) 169/C. § (1) bekezdésében a „26/C. §-ban” szövegrész helyébe a „26/C. §-ban, a 26/E. §-ban és a 26/F. §-ban” szöveg,
 
-e)[^15]
+e) 169/C. § (2) bekezdésében a „26/C. §” szövegrész helyébe a „26/C. §, a 26/E. § és a 26/F. §” szöveg,
 
-f)[^16]
+f) 169/D. § (2) bekezdésében a „26/A–26/C. §-ban” szövegrész helyébe a „26/A–26/C. §-ban, valamint a 26/E. és 26/F. §-ban” szöveg
 
 lép.
 
-[^11]: A 11. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^12]: A 11. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^13]: A 11. § c) pontja a 13. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
-[^14]: A 11. § d) pontja a 13. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
-[^15]: A 11. § e) pontja a 13. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
-[^16]: A 11. § f) pontja a 13. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^9]: A 11. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 11. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
