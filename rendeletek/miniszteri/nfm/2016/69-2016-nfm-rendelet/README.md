@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-69-20-2
 | 2021-10-01 | 2016-69-20-2W.7 | 48/2021. (IX. 30.) ITM rendelet |
 | 2023-01-01 | 2016-69-20-2W.8 | 5/2022. (XII. 27.) EM rendelet |
 | 2023-10-01 | 2016-69-20-2W.9 | 19/2023. (IX. 29.) EM rendelet |
+| 2024-01-01 | 2016-69-20-2W.10 | 36/2023. (XII. 29.) EM rendelet |
