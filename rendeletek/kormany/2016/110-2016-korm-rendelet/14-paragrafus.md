@@ -1,5 +1,3 @@
-## 13. §[^33] Az értékelő a feladatelrendelő dokumentum 14. § (4) bekezdése szerinti elfogadásával egyidejűleg nyilatkozik az adott programozási időszakhoz kapcsolódó, az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló kormányrendeletben és a Magyarország Helyreállítási és Ellenállóképességi Terve végrehajtásának alapvető szabályairól és felelős intézményeiről szóló kormányrendeletben meghatározott összeférhetetlenség fennállásával összefüggésben, azzal, hogy az adott programozási időszakhoz kapcsolódó, az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló kormányrendeletben és a Magyarország Helyreállítási és Ellenállóképességi Terve végrehajtásának alapvető szabályairól és felelős intézményeiről szóló kormányrendeletben meghatározott összeférhetetlenségi, valamint titoktartási nyilatkozatot a monitoring és információs rendszerben teszi meg.
-
 ## 9. A feladatellátás rendje
 
 14. § (1) A miniszter vagy a minisztérium szervezeti egysége és az értékelő között a kapcsolattartás elektronikus úton történik, amelynek során az értékelő az egyedi azonosítószámát használja.
@@ -26,7 +24,6 @@ b) a feladatellátást – az összeférhetetlenség esetét kivéve – nem vá
 
 (6)[^39] A munkáltató utasítási joga az értékelendő támogatási kérelmek és közbeszerzések, valamint az értékelésre rendelkezésre álló határidő meghatározására terjed ki, egyebekben az értékelő feladatellátása során nem utasítható.
 
-[^33]: A 13. § a 124/2022. (III. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^34]: A 14. § (2) bekezdése a 172/2019. (VII. 12.) Korm. rendelet 5. §-ával megállapított, a 489/2021. (VIII. 13.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
 [^35]: A 14. § (3) bekezdése a 489/2021. (VIII. 13.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^36]: A 14. § (3) bekezdés a) pontja a 124/2022. (III. 28.) Korm. rendelet 4. §-ával megállapított szöveg.
