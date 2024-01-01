@@ -1,3 +1,7 @@
-23. §[^1]
+23. § E rendelet
 
-[^1]: A 23. § a 20. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+a) 1. melléklet címében a „2023. évi” szövegrész helyébe a „2024. évi” szöveg,
+
+b) 2. melléklet címében a „2023. évi” szövegrész helyébe a „2024. évi” szöveg
+
+lép.

@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-49-20-1
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2023-12-29 | 2023-49-20-15.1 | 49/2023. (XII. 28.) HM rendelet |
+| 2024-01-01 | 2023-49-20-15.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
