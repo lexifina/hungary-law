@@ -1,3 +1,1 @@
-43. §[^81]
-
-[^81]: A 43. § a 44. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+43. § A 285/2011. (XII. 22.) Korm. rendelet 3. § (1) bekezdésében a „kiküldetés időtartama” szövegrész helyébe a „kiküldetés, külföldi munkavégzés (a továbbiakban együtt: kiküldetés) időtartama” szöveg lép.

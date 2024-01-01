@@ -1,3 +1,3 @@
-39. §[^77]
+39. §[^70]
 
-[^77]: A 39. § a 44. § (3) bekezdés alapján 2024. január 21-én lép hatályba.
+[^70]: A 39. § a 44. § (3) bekezdés alapján 2024. január 21-én lép hatályba.

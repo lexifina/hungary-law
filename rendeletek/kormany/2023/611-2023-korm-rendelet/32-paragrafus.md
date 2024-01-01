@@ -1,3 +1,3 @@
-32. §[^60]
+32. §[^58]
 
-[^60]: A 32. § a 44. § (3) bekezdés alapján 2024. január 21-én lép hatályba.
+[^58]: A 32. § a 44. § (3) bekezdés alapján 2024. január 21-én lép hatályba.
