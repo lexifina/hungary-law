@@ -32,7 +32,7 @@ c) a hitelező nevében a fogyasztóval hitelszerződést köt,
 
 12. hiteltúllépés: fizetési számlához kapcsolódó olyan hitel, amelyet a hitelező a hitelkeret-szerződés szerinti összegét meghaladó összegben, vagy ilyen szerződés hiányában bocsát a fogyasztó rendelkezésére,
 
-13. jelzáloghitel: a Hpt.-ben ilyenként meghatározott fogalom,
+13. jelzáloghitel: a fogyasztó részére ingatlanon alapított jelzálog – ideértve az önálló zálogjogként alapított zálogjogot is – fedezete mellett nyújtott hitel vagy kölcsön, ideértve a halasztott fizetés vagy más ezekhez hasonló pénzügyi megoldás formájában nyújtott kölcsönt is,
 
 14. kamatperiódus: a hitelszerződésben meghatározott olyan időszak, amely alatt a kamat mértékét a hitelező nem jogosult egyoldalúan megváltoztatni,
 

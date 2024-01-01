@@ -13,3 +13,5 @@
 (8) Ha a fogyasztó jelzi előtörlesztési szándékát, a hitelező köteles papíron vagy más tartós adathordozón a fogyasztó rendelkezésére bocsátani az előtörlesztésre vonatkozó információkat, annak következményeinek számszerűsítését és a következmények megállapításánál alkalmazott ésszerű és indokolható feltételezéseket, ideértve a 24. § (1) bekezdés vagy az (1) és (2) bekezdés szerint érvényesíthető költségeket és azok megállapításának módját is.
 
 (9) A hitelező a fogyasztó előtörlesztési szándékának a bejelentését követően 5 munkanapon belül rendelkezésre bocsátja a szükséges információkat. A fogyasztó előtörlesztési szándéka alapján bejelentett előtörleszteni kívánt részlet hitelező rendelkezésére bocsátását követően legkésőbb 5 munkanapon belül elszámolja az előtörlesztett részletet.
+
+(10) A fennálló hiteltartozás kiváltása esetén a fogyasztó meghatalmazása alapján a hitelező köteles az új hitel folyósításához szükséges igazolásokat az új hitelező részére 15 munkanapon belül elektronikus úton megküldeni.

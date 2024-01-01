@@ -6,7 +6,7 @@
 
 (3) A hitelező az értékelési szakvéleményt tartós adathordozón rögzíti és nyilvántartásában megőrzi.
 
-(4) A jelzáloghitel fedezetéül szolgáló ingatlan hitelbiztosítéki értékét megállapító értékbecslőnek rendelkeznie kell
+(4) A jelzáloghitel fedezetéül szolgáló ingatlan hitelbiztosítéki értékét megállapító hitelnyújtás folyamatától független értékbecslőnek rendelkeznie kell
 
 a) ingatlanvagyon-értékelő és -közvetítői szakképesítéssel vagy
 

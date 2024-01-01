@@ -11,3 +11,5 @@
 (5) A hitelező jogosult a hitel folyósításával közvetlenül összefüggő, szerződésben meghatározott költségeinek folyósítási díjként történő megtérítésére, ennek mértéke azonban nem lehet magasabb a folyósított összeg 1%-ánál, és nem haladhatja meg a 200 000 forintot.
 
 (6) A hitelező jogosult a hitelkeret rendelkezésre tartásával összefüggésben, rendelkezésre tartási díjat megállapítani – a hitelkeret összegét alapul véve –, ennek mértéke azonban nem lehet magasabb a százalékban meghatározott ügyleti kamat 50%-ánál.
+
+(7) Jelzáloghitel esetén a hitelező a hitelszerződésből eredő tartozás megszűnését követő 10 munkanapon belül a fogyasztó rendelkezésére bocsátja a jelzálogjog ingatlan-nyilvántartásból való törléséhez szükséges okiratot.

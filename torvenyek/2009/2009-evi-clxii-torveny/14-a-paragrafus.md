@@ -8,7 +8,7 @@
 
 a) a hitelező a fogyasztó részére előírhatja, hogy rendelkezzen fizetési számlával, amely kizárólag a jelzáloghitel törlesztéséhez szükséges pénzeszközök elhelyezését szolgálja, és ezt díj-, költség- és egyéb fizetési kötelezettségmentesen kell a fogyasztó részére biztosítani,
 
-b) jelzáloghitel esetén a hitelező előírhatja a fogyasztó számára, hogy jelzáloghitel igénybevétele esetén rendelkezzen a hitelszerződéshez kapcsolódó megtakarítással, valamint életbiztosítással vagy a fedezetül szolgáló ingatlanra vonatkozó vagyonbiztosítással.
+b) jelzáloghitel esetén a hitelező előírhatja a fogyasztó számára, hogy jelzáloghitel igénybevétele esetén rendelkezzen a hitelszerződéshez kapcsolódó megtakarítással, valamint megtakarítási célú életbiztosítással vagy a fedezetül szolgáló ingatlanra vonatkozó vagyonbiztosítással.
 
 (4) A (3) bekezdés b) pontjában foglaltak esetén a hitelezőnek az általa előnyben részesített szolgáltatótól eltérő szolgáltató biztosítását is el kell fogadnia, ha az a hitelező által ajánlott biztosítással legalább egyenértékű a biztosítás összegét és a fedezet körét figyelembe véve.
 
