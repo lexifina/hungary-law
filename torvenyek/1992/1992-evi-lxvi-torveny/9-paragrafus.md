@@ -20,7 +20,7 @@ ga) a szabadságvesztés, kényszergyógykezelés, vagy pénzbírságot helyette
 
 gb) nem magyar állampolgár esetén Magyarország területének külföldi letelepedés szándékával történő elhagyását,
 
-gc) a bevándorlási engedély, letelepedési engedély, nemzeti letelepedési engedély EK letelepedési engedély, vagy az ideiglenes letelepedési engedély visszavonását, valamint a menekült vagy oltalmazott jogállás megszűnését,
+gc) a bevándorlási engedély, letelepedési engedély, nemzeti letelepedési engedély EK letelepedési engedély, az ideiglenes letelepedési engedély, a nemzeti tartózkodási kártya, az EU tartózkodási kártya, vagy az ideiglenes tartózkodási kártya visszavonását, valamint a menekült vagy oltalmazott jogállás megszűnését,
 
 gd) a magyar állampolgárság megszűnését,
 

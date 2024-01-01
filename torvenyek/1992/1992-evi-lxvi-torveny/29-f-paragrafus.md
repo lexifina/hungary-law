@@ -22,11 +22,11 @@ g) jogosulatlan felhasználása okán szabálysértési vagy büntetőeljárás 
 
 (5) Megszűnik a személyazonosító igazolványra való jogosultság, ha
 
-a) a menekültkénti elismerést, az oltalmazottkénti elismerést, illetve a bevándorolt, a letelepedett jogállású személy tartózkodásra jogosító engedélyét visszavonták, és más jogcímen nem szerzett jogosultságot az állandó személyazonosító igazolvány kiadására,
+a) a menekültkénti elismerést, az oltalmazottkénti elismerést, illetve a huzamos tartózkodási jogosultsággal rendelkező személy tartózkodásra jogosító engedélyét visszavonták, és más jogcímen nem szerzett jogosultságot az állandó személyazonosító igazolvány kiadására,
 
 b) a polgár magyar állampolgársága megszűnt,
 
-c) a bevándorolt, letelepedett jogállású polgár megszerzi a szabad mozgás és tartózkodás jogát, mindaddig, amíg e joga fennáll,
+c) a huzamos tartózkodási jogosultsággal rendelkező polgár megszerzi a szabad mozgás és tartózkodás jogát, mindaddig, amíg e joga fennáll,
 
 d) a nem magyar állampolgár Magyarország területét a külföldön történő letelepedés szándékával elhagyja.
 

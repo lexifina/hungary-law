@@ -16,7 +16,7 @@ c) a 18. életévét betöltötte, a kiállítás napjától számított 6 évet
 
 (3b)
 
-(4) A letelepedett jogállású személy állandó személyazonosító igazolványát az (1) és (1a) bekezdésben meghatározott érvényességi idővel, de legfeljebb a letelepedési engedélyébe, ideiglenes letelepedési engedélyébe, nemzeti letelepedési engedélyébe, illetve EK letelepedési engedélyébe bejegyzett érvényességi idővel kell kiállítani.
+(4) A huzamos tartózkodási jogosultsággal rendelkező személy állandó személyazonosító igazolványát az (1) és (1a) bekezdésben meghatározott érvényességi idővel, de legfeljebb a letelepedési engedélyébe, ideiglenes letelepedési engedélyébe, nemzeti letelepedési engedélyébe, EK letelepedési engedélyébe, ideiglenes tartózkodási kártyájába, nemzeti tartózkodási kártyájába, illetve EU tartózkodási kártyájába bejegyzett érvényességi idővel kell kiállítani.
 
 (4a) A menekült vagy oltalmazott jogállású személy állandó személyazonosító igazolványát – az (1a) bekezdésben meghatározott kivétellel – a menekültkénti vagy oltalmazottkénti státuszról rendelkező döntés meghozatalának napjától számított 4 évre kell kiállítani.
 

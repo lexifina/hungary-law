@@ -4,7 +4,7 @@ a) ellátja a nyilvántartással, valamint a személyazonosító igazolvány kia
 
 b) ellátja a szabad mozgás és tartózkodás jogával rendelkező személy személyi és lakcímadatainak nyilvántartásba vételével kapcsolatos – jogszabályban meghatározott – feladatokat;
 
-c) ellátja a menekült vagy oltalmazott jogállású személy utóbb megszerzett letelepedett jogállásának nyilvántartásba vételével kapcsolatos feladatokat;
+c) ellátja a menekült vagy oltalmazott jogállású személy utóbb megszerzett huzamos tartózkodási jogosultságának nyilvántartásba vételével kapcsolatos feladatokat;
 
 d) ellátja a 4. § (1) bekezdés c) pontja szerinti külföldön élő polgárok személyi és lakcímadatainak nyilvántartásba vételével kapcsolatos feladatokat;
 
@@ -22,4 +22,4 @@ j) törvény hatálya alá tartozó tevékenységével összefüggésben gondosk
 
 k) ellátja a személyazonosítás céljára szolgáló, illetve jogosultságot igazoló okmányok kiadásával kapcsolatosan hatáskörébe utalt, törvényben meghatározott adatkezelési feladatokat.
 
-l) ellátja a szabad mozgás és tartózkodás jogával rendelkező személy megszerzett letelepedett jogállásának nyilvántartásba vételével kapcsolatos feladatokat.
+l) ellátja a szabad mozgás és tartózkodás jogával rendelkező személy megszerzett huzamos tartózkodási jogosultságának nyilvántartásba vételével kapcsolatos feladatokat.

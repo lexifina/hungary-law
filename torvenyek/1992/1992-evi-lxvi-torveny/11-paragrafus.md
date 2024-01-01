@@ -6,7 +6,7 @@
 
 a) nevét;
 
-b) magyar vagy külföldi állampolgárságát, illetve hontalanságát, magyar állampolgársága keletkezésének, megszűnésének tényét és időpontját (a továbbiakban: állampolgárság), menekült vagy oltalmazott, bevándorolt, letelepedett jogállását, a szabad mozgás és tartózkodás jogával rendelkező személy esetében a szabad mozgáshoz és tartózkodáshoz való joggal történő rendelkezés tényét, illetve a 4. § (1) bekezdés c) pontja szerinti külföldön élő polgár esetén a honosítás vagy visszahonosítás tényét;
+b) magyar vagy külföldi állampolgárságát, illetve hontalanságát, magyar állampolgársága keletkezésének, megszűnésének tényét és időpontját (a továbbiakban: állampolgárság), menekült vagy oltalmazott jogállását, a huzamos tartózkodási jogosultságát, a szabad mozgás és tartózkodás jogával rendelkező személy esetében a szabad mozgáshoz és tartózkodáshoz való joggal történő rendelkezés tényét, illetve a 4. § (1) bekezdés c) pontja szerinti külföldön élő polgár esetén a honosítás vagy visszahonosítás tényét;
 
 c) nemét;
 
@@ -48,7 +48,7 @@ t) kártyaformátumú vezetői engedélye okmányazonosítóját, érvényesség
 
 (2) A nyilvántartás a szabad mozgás és tartózkodás jogával rendelkező személynek az (1) bekezdés a)–i) és l) pontja szerinti adatait, valamint személyi azonosítójáról és lakcíméről kiadott hatósági igazolványának okmányazonosítóját tartalmazza.
 
-(3) Ha a menekült vagy oltalmazott jogállású személy letelepedett jogállást szerez, a nyilvántartás mind a menekült, illetve oltalmazott, mind a letelepedett jogállását tartalmazza.
+(3) Ha a menekült vagy oltalmazott jogállású személy huzamos tartózkodási jogosultságot szerez, a nyilvántartás mind a menekült, illetve oltalmazott jogállását, mind a huzamos tartózkodási jogosultságát tartalmazza.
 
 (4) A nyilvántartás – a polgár írásbeli hozzájárulása esetén – tartalmazza a polgár ujjnyomatát az állandó személyazonosító igazolvány pótlása céljából.
 

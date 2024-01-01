@@ -16,7 +16,7 @@ e) a szülők a gyermek családi jogállása rendezésekor a gyámhatóságnak, 
 
 f) a konzuli tisztviselőnek olyan ügyek intézése során, amelyekben az eljárás lefolytatására hatáskörrel rendelkező hazai hatóság jogosult a személyazonosító jelet kérni;
 
-g) az idegenrendészeti szerveknek a bevándorlással, a letelepedéssel, illetőleg a tartózkodással kapcsolatos ügyintézés során.
+g) az idegenrendészeti szerveknek a huzamos tartózkodási jogosultsággal, illetőleg a tartózkodással kapcsolatos ügyintézés során.
 
 (2)
 
