@@ -50,6 +50,6 @@
 
 ## – a ,,használatkor az igazolványt a jármű szélvédője mögött úgy kell elhelyezni, hogy előlapja ellenőrzés céljából tisztán látható legyen'' szöveg.
 
-4. számú melléklet a 218/2003. (XII. 11.) Korm. rendelethez[^65]
+4. számú melléklet a 218/2003. (XII. 11.) Korm. rendelethez[^66]
 
-[^65]: A 4. melléklet a 789/2021. (XII. 27.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^66]: A 4. melléklet a 789/2021. (XII. 27.) Korm. rendelet 13. §-ával megállapított szöveg.

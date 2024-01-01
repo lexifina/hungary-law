@@ -31,3 +31,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-218-20-
 | 2021-07-01 | 2003-218-20-22.26 | 219/2019. (IX. 10.) Korm. rendelet |
 | 2022-01-01 | 2003-218-20-22.27 | 789/2021. (XII. 27.) Korm. rendelet |
 | 2023-01-01 | 2003-218-20-22.28 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2024-01-01 | 2003-218-20-22.29 | 561/2023. (XII. 14.) Korm. rendelet |
