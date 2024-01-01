@@ -12,6 +12,6 @@ határozza meg.
 
 (3) A védőövezet rendeltetése, hogy megakadályozza vagy mérsékelje azoknak a tevékenységeknek a hatását, amelyek a védett természeti terület állapotát vagy rendeltetését kedvezőtlenül befolyásolnák.
 
-(4) Az e törvény hatálybalépése előtt védetté nyilvánított természeti területek védőövezetét a törvény hatálybalépésétől számított 2 éven belül, a (2) bekezdésben meghatározott jogszabályban kell kijelölni.
+(4)
 
 (5) A védőövezet kiterjedését meghatározó jogszabály hatálybalépése előtt jogszerűen megkezdett tevékenységek folytatását a felmentésre [24. § (3) bekezdés b) pontja] vonatkozó szabály alkalmazásával biztosítani kell.
