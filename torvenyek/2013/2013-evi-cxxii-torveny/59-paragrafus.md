@@ -10,11 +10,13 @@ c) ha a földhasználó közeli hozzátartozója a használatba adó;
 
 d) a föld használati jogosultságának gazdaságátadási szerződéssel történő átadásával megvalósuló földhasználati szerződéshez;
 
-e) a mezőgazdasági termelőszervezet, mint földhasználó, és az annak legalább 25%-ban tulajdonos természetes személy tagja, illetve annak közeli hozzátartozója, továbbá legalább 3 éve foglalkoztatott alkalmazottja, mint használatba adó közötti földhasználati szerződéshez;
+e) a mezőgazdasági termelőszervezet mint földhasználó, és azon természetes személy, aki a mezőgazdasági termelőszervezetnek legalább egy éve legalább 25%-ban tulajdonosa vagy annak közeli hozzátartozója, vagy a mezőgazdasági termelőszervezet legalább 3 éve foglalkoztatott alkalmazottja, mint használatba adó közötti földhasználati szerződéshez;
 
 f) a 40. § (2)–(4) bekezdésben meghatározott földhasználati szerződéshez;
 
 g) tanya földhasználati jogosultságának az átengedéséhez.
+
+h) családi mezőgazdasági társaság, mint földhasználó, és annak tagja, mint használatba adó közötti földhasználati szerződéshez.
 
 (2) A mezőgazdasági igazgatási szerv kérelemre igazolást állít ki arról, hogy a földhasználati jogosultság megszerzéséről szóló szerződés hatályosságához az e törvény előírásai alapján nem kell a jóváhagyása.
 

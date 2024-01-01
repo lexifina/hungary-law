@@ -14,7 +14,7 @@ ba) a birtokában álló föld jogellenes más célú hasznosítása, vagy a has
 
 bb) jogerősen megállapított földhasználati díjtartozása áll fenn;
 
-bc) a földszerzéshez vállalt kötelezettség megsértése miatt a mezőgazdasági igazgatási szerv – az adás-vételi szerződés közlését megelőző 5 éven belül – véglegesen mulasztási bírságot szabott ki.
+bc) a földszerzéshez vállalt kötelezettség megsértése miatt a mezőgazdasági igazgatási szerv – az adás-vételi szerződés közlését megelőző 5 éven belül – végleges döntésében a 63. § (2) bekezdése szerinti bírságot szabott ki.
 
 (3) Az (1) bekezdésben foglaltakon túl, a mezőgazdasági igazgatási szerv – az adás-vételi szerződés vagy a csereszerződés jóváhagyását támogató helyi földbizottsági állásfoglalás ellenére – a 24. § (3) bekezdésében meghatározott körülmények figyelembevétele alapján megtagadhatja az adásvételi szerződés jóváhagyását.
 

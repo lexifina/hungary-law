@@ -10,7 +10,7 @@
 
 a) az eladó; vagy
 
-b) legalább három éve a vevő.
+b) legalább három éve a vevő, vagy a vevő legalább 25%-ban tulajdonában, vagy a vevő közeli hozzátartozójának legalább 25%-ban tulajdonában álló mezőgazdasági termelőszervezet.
 
 (5a) Több föld egybefoglalt vételáron történő eladása esetén a földműves tulajdonostársat a 18. § (3) bekezdése alapján megillető elővásárlási jog csak akkor gyakorolható, ha ezen elővásárlási jogosultság valamennyi érintett ingatlan vonatkozásában fennáll.
 

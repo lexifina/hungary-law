@@ -18,9 +18,9 @@ g) az olyan mezőgazdasági termelőszervezetet, amelynek a mezőgazdasági üze
 
 (3) Az (1) bekezdés a) pontjával megegyező ranghelyen illeti meg előhaszonbérleti jog
 
-a) az előhaszonbérleti joga gyakorlását megelőzően legalább 3 éve a föld fekvése szerinti település közigazgatási határától közúton vagy közforgalom elől el nem zárt magánúton legfeljebb 20 km távolságra fekvő településen állattartó telepet üzemeltető helyben lakó földművest vagy helybeli illetőségű mezőgazdasági termelőszervezetet, aki, illetve amely haszonbérletének a célja az állattartáshoz szükséges és azzal arányban álló takarmányszükséglet biztosítása és rendelkezik az e törvény végrehajtására kiadott rendeletben meghatározott állatsűrűséggel
+a) azt a helyben lakó földművest vagy helybeli illetőségű mezőgazdasági termelőszervezetet, aki, illetve amely az előhaszonbérleti joga gyakorlását megelőzően legalább 3 éve a föld fekvése szerinti település közigazgatási határától közúton vagy közforgalom elől el nem zárt magánúton legfeljebb 20 km távolságra fekvő településen állattartó telepet üzemeltet, és a haszonbérletének a célja az állattartáshoz szükséges és azzal arányban álló takarmányszükséglet biztosítása és rendelkezik a Fétv. végrehajtására kiadott rendeletben meghatározott állatsűrűséggel
 
-aa) rét, legelő (gyep), vagy fásított terület művelési ágban nyilvántartott föld haszonbérbe adása esetén szarvasmarhafélék, ló, szamár, öszvér, juh, kecske vagy méh állatfajok vonatkozásában,
+aa) rét, legelő (gyep) művelési ágban nyilvántartott föld haszonbérbe adása esetén szarvasmarhafélék, ló, szamár, öszvér, juh, kecske vagy méh állatfajok vonatkozásában,
 
 ab) szántó művelési ágban nyilvántartott föld haszonbérbe adása esetén az aa) alpontban fel nem sorolt állatfajok, valamint szarvasmarha vonatkozásában, továbbá engedély vagy bejelentés alapján nyilvántartásba vett takarmány-vállalkozásnak minősül;
 

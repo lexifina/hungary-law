@@ -16,7 +16,7 @@ b) társult erdőgazdálkodást folytat vagy az erdőnek minősülő földet erd
 
 c) vetőmagtermeléshez szükséges terület biztosítása céljából valamely érvényes jogcímen engedi át a használatot más személy részére.
 
-(3) A földhasználati jogosultság további feltétele, hogy a szerző fél a földhasználati jogosultság átengedéséről szóló szerződésben, illetve teljes bizonyító erejű magánokiratba vagy közokiratba foglaltan nyilatkozzon arról, hogy nincs jogerősen megállapított és fennálló földhasználati díjtartozása.
+(3) A földhasználati jogosultság további feltétele, hogy a szerző fél a földhasználati jogosultság átengedéséről szóló szerződésben nyilatkozzon arról, hogy nincs jogerősen megállapított és fennálló földhasználati díjtartozása.
 
 (4) A pályakezdő gazdálkodónak az (1)–(3) bekezdésben meghatározottakon túl kötelezettséget kell vállalnia arra, hogy
 

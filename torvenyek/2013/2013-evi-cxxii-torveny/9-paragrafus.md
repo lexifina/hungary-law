@@ -6,4 +6,4 @@ b) az államon kívüli más állam, illetve annak valamely tartománya, helyhat
 
 c) az e törvényben meghatározott esetek kivételével jogi személy.
 
-(2) A különválással, kiválással, egyesüléssel (beolvadással, összeolvadással), szervezeti formaváltozással (szervezeti átalakulás) létrejött jogi személy – ide nem értve a bevett egyházat, vagy annak belső egyházi jogi személyét – a jogelődje által a termőföldről szóló törvény szerint, vagy a termőföldről szóló törvény hatálybalépését megelőzően megszerezett tulajdonát képező föld tulajdonjogát nem szerezheti meg.
+(2) A különválással, kiválással, leválással, egyesüléssel (beolvadással, összeolvadással), szervezeti formaváltozással (szervezeti átalakulás) létrejött jogi személy – ide nem értve a bevett egyházat, vagy annak belső egyházi jogi személyét – a jogelődje által a termőföldről szóló törvény szerint, vagy a termőföldről szóló törvény hatálybalépését megelőzően megszerezett tulajdonát képező föld tulajdonjogát nem szerezheti meg.

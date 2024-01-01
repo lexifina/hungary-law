@@ -14,6 +14,8 @@ db) olyan jogi helyzetet nyer, amelynek révén a jövőben az előhaszonbérlet
 
 dc) birtokában álló föld jogellenes más célú hasznosítása, vagy a hasznosítási kötelezettség megsértése miatt az ingatlanügyi hatóság – a haszonbérleti szerződés közlését megelőző 5 éven belül – véglegesen földvédelmi bírságot szabott ki;
 
+dd) tekintetében, a föld tulajdonjogának vagy használati jogosultságának megsértése miatt, a mezőgazdasági igazgatási szerv – a haszonbérleti szerződés közlését megelőző 5 éven belül – végleges döntésében a 63. § (2) bekezdése szerint bírságot szabott ki;
+
 e) a jegyzék szerinti rangsor alapján az első helyen álló előhaszonbérletre jogosult(ak)nak, illetve a soron következő előhaszonbérletre jogosult(ak)nak, vagy a haszonbérleti szerződés szerinti haszonbérlőnek jogerősen megállapított földhasználati díjtartozása áll fenn;
 
 f) az erdőnek minősülő föld haszonbérbe adása esetén a szerződés nem felel meg az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvényben meghatározott feltételeknek.

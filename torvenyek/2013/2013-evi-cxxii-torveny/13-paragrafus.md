@@ -42,6 +42,8 @@ h) a föld megközelítését, illetve a föld használatát biztosító út kia
 
 i) állandó jellegű növényház létesítése.
 
+j) a föld művelési ágának megfelelő műveléshez, mezőgazdasági termeléshez vagy erdőgazdasági tevékenységhez közvetlenül kapcsolódó eszköz telepítése vagy építmény elhelyezése.
+
 (4) Ha a tulajdonjog átruházásáról szóló szerződés tárgyát képező föld harmadik személy használatában van, a szerző félnek kötelezettséget kell vállalnia, hogy a fennálló földhasználati jogviszony
 
 a) időtartamát nem hosszabbítja meg, és

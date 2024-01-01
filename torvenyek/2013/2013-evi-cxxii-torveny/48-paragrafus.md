@@ -4,7 +4,13 @@ a) a közeli hozzátartozók közötti,
 
 b) a föld használati jogosultságának gazdaságátadási szerződéssel történő átadásával megvalósuló,
 
-c) a mezőgazdasági termelőszervezet, mint földhasználó, és az annak legalább 25%-ban tulajdonos természetes személy tagja, illetve annak közeli hozzátartozója, továbbá legalább 3 éve foglalkoztatott alkalmazottja, mint használatba adó közötti,
+c) a mezőgazdasági termelőszervezet mint földhasználó, és azon természetes személy, aki
+
+ca) a mezőgazdasági termelőszervezetnek legalább 25%-ban tulajdonosa vagy annak közeli hozzátartozója, vagy
+
+cb) a mezőgazdasági termelőszervezet legalább 3 éve foglalkoztatott alkalmazottja,
+
+mint használatba adó közötti,
 
 d) erdőnek minősülő föld haszonbérbe adása esetén az erdőbirtokossági társulat, mint földhasználó és annak tagja, mint használatba adó közötti,
 

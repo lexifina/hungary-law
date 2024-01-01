@@ -22,7 +22,7 @@ a) mező-, erdőgazdasági tevékenységet, illetve kiegészítő tevékenysége
 
 b) a legalább 25%-ban tulajdonában álló, Magyarországon bejegyzett mezőgazdasági termelőszervezet olyan tagjának minősül, aki mező-, erdőgazdasági tevékenységet, illetve mező-, erdőgazdasági és az azokat kiegészítő tevékenységet személyes közreműködésként végzi;
 
-8.
+8. gazdasági év: a mezőgazdasági termékpiacok közös szervezésének létrehozásáról és a 922/72/EGK, a 234/79/EGK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013/EU európai parlamenti és tanácsi rendelet 6. cikkében meghatározott időszak;
 
 9. helyben lakó:
 
@@ -84,7 +84,7 @@ d) a mezőgazdasági és vidékfejlesztési támogatási szervnél pályakezdő 
 
 22a. rekreációs célú földszerzés: a földművesnek nem minősülő belföldi természetes személy vagy tagállami állampolgár által a települési önkormányzat, a fővárosban a fővárosi kerületi önkormányzat (a továbbiakban együtt: települési önkormányzat) tulajdonában álló és határozattal ilyen célú megszerzésre kijelölt, legfeljebb 1 hektár területnagyságú föld megszerzése abból a célból, hogy a szerző fél a földet a saját, valamint az együttélő családtagjai szükségleteit meg nem haladó mértékben használja és szedje annak hasznait;
 
-23. szomszédos föld: az olyan föld, amely – a település közigazgatási határától függetlenül – a jogügylet tárgyát képező földdel közvetlenül, illetve önálló helyrajzi szám alatt nyilvántartott út, vasút, kerékpárút, árok, csatorna közbeékelődésével közvetve érintkezik;
+23. szomszédos föld: az olyan föld, amely – a település közigazgatási határától függetlenül – a jogügylet tárgyát képező földdel közvetlenül érintkezik, illetve amelyet a jogügylet tárgyát képező földtől önálló helyrajzi szám alatt nyilvántartott út, vasút, kerékpárút, árok, csatorna, patak földrészlet vagy földrészletek közbeékelődése választ el;
 
 24. tagállami állampolgár: az Európai Unió tagállamának állampolgára, az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgára, valamint a nemzetközi szerződés alapján velük egy tekintet alá eső állam állampolgára, ide nem értve a belföldi természetes személyt;
 
