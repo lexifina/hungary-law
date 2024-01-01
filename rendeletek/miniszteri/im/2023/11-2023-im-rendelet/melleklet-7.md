@@ -1,3 +1,3 @@
-7. melléklet a 11/2023. (VII. 20.) IM rendelethez[^25]
+7. melléklet a 11/2023. (VII. 20.) IM rendelethez[^23]
 
-[^25]: A 7. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 7. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
