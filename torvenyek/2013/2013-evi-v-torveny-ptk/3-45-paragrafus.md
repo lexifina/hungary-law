@@ -2,6 +2,8 @@
 
 (1) A jogi személy különválás vagy kiválás útján több jogi személlyé szétválhat. Különválás esetén a jogi személy megszűnik, és vagyona a különválással létrejövő több jogi személyre mint jogutódra száll át. Kiválás esetén a jogi személy fennmarad, és vagyonának egy része a kiválással létrejövő jogi személyre mint jogutódra száll át.
 
+(1a) A kiválás történhet úgy is, hogy a szétváló jogi személy fennmarad, és vagyonának egy részével úgy hozza létre a jogutód jogi személyt, hogy annak egyedüli tagja lesz (leválás).
+
 (2) A jogi személy kiválással vagy különválással úgy is szétválhat, hogy
 
 a) a kiváló tag a jogi személy vagyonának egy részével már működő jogi személyhez mint jogutódhoz csatlakozik (beolvadásos kiválás);

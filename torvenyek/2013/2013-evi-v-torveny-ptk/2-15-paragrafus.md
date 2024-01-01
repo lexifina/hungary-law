@@ -17,3 +17,5 @@ esetén.
 (2) Nincs szükség a gyámhatóság jóváhagyására, ha a kiskorú ingatlanvagyonának megterhelésére az ingatlan ellenérték nélküli megszerzésével egyidejűleg, az ingyenes juttatást nyújtó személy javára történő haszonélvezet alapításával kerül sor.
 
 (3) Nincs szükség a gyámhatóság jóváhagyására, ha a jognyilatkozat érvényességét bírósági vagy közjegyzői eljárásban elbírálták.
+
+(4) Nincs szükség a gyámhatóság jóváhagyására nem tehermentes ingatlanszerzés esetén, ha a teher kizárólag ingatlan-nyilvántartásba bejegyzett közérdekű használati jog.
