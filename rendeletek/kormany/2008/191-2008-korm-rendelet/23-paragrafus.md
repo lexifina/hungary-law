@@ -1,0 +1,3 @@
+23. §[^183] Az alacsonyküszöbű ellátás, az utcai szociális munka, a krízisközpontok és a titkos menedékházak 2024–2026. évi finanszírozására általános pályázatot nem kell kiírni, a 2023. december 31-én hatályos finanszírozási szerződések hatálya 2026. december 31-éig meghosszabbodik. E szolgáltatások támogatása tekintetében a finanszírozási időszak 2026. december 31-éig tart.
+
+[^183]: A 23. §-t a 419/2015. (XII. 23.) Korm. rendelet 24. § 31. pontja hatályon kívül helyezte, újonnan a 448/2016. (XII. 19.) Korm. rendelet 38. §-a iktatta be, szövege a 659/2023. (XII. 28.) Korm. rendelet 29. §-ával megállapított szöveg.
