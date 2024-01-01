@@ -1,3 +1,1 @@
-5. §[^1]
-
-[^1]: Az 5. § a 4. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+5. § Hatályát veszti az önkormányzatok hulladékról szóló 2012. évi CLXXXV. törvény szerinti indokolt költségei mértékének megállapításáról szóló 5/2023. (IV. 6.) MEKH rendelet.
