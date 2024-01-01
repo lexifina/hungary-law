@@ -1,29 +1,41 @@
-36/A. § (1) A munkaadó az álláskeresési járadékra, valamint az álláskeresési segélyre való jogosultság, továbbá ezen ellátások összegének megállapításához szükséges adatok nyilvántartásához – az alkalmi foglalkoztatásnak minősülő munkaviszony és a nevelőszülői foglalkoztatási jogviszony esetét kivéve – a munkaviszony megszűnése, vagy megszüntetése esetén köteles két példányban az álláskeresési járadék és álláskeresési segély megállapításához szükséges igazolólapot (a továbbiakban: álláskeresési igazolólap) kiállítani.
+## Foglalkoztatási igazolás
 
-(2) Az álláskeresési igazolólap egy példányát a munkaadó az utolsó munkában töltött napon átadja a munkavállalónak, a másik példányát pedig – a munkavállaló részére az álláskeresési járadék és álláskeresési segély megállapíthatósága érdekében – öt évig megőrzi.
+36/A. § (1) A munkaadó – az alkalmi foglalkoztatásnak minősülő munkaviszony és a nevelőszülői foglalkoztatási jogviszony esetét kivéve – a munkaviszony megszüntetésekor vagy megszűnésekor foglalkoztatási igazolást állít ki.
 
-(3) Ha a nevelőszülő a nevelőszülői foglalkoztatási jogviszony fennállása alatt álláskeresési járadék iránt kérelmet nyújt be, a munkaadót ennek tényéről tájékoztatja. A munkaadó a nevelőszülő tájékoztatását követő öt napon belül a nevelőszülői foglalkoztatási jogviszonyról két példányban álláskeresési igazolólapot állít ki, és annak egy példányát a nevelőszülőnek átadja. Az álláskeresési igazolólapot az álláskeresési járadék iránti kérelem benyújtását megelőző hónap utolsó napjáig terjedő időszakra kell kiállítani. A munkaadó az álláskeresési igazolólap másik példányát a nevelőszülői foglalkoztatási jogviszony megszűnését követő öt évig megőrzi.
+(2) A foglalkoztatási igazolás tartalmazza
 
-(4) Az (1) bekezdés szerinti álláskeresési igazolólap tartalmazza:
+1. a munkaadó adatait: nevét, székhelyét, adószámát és a gazdasági tevékenységek egységes ágazati osztályozási rendszer számát, jogállásváltás esetén a jogelőd munkáltató adatait: nevét, címét, adószámát, a munkavállaló által munkaviszonyban töltött idő időtartamát, a munkavállaló foglalkoztatási jogviszonyának megjelölését,
 
-a) a munkaadó adatait: nevét, címét, adószámát és a tevékenységek egységes ágazati osztályozási rendszer számát,
+2. a munkavállaló természetes személyazonosító adatait, társadalombiztosítási azonosító jelét (a továbbiakban: TAJ szám) és adóazonosító jelét,
 
-b) a munkavállaló adatait: nevét, születési nevét, anyja nevét, születési helyét és idejét, a Társadalombiztosítási Azonosító Jelét (a továbbiakban: TAJ szám), lakóhelyét, tartózkodási helyét,
+3. a munkavállaló munkaviszonyának típusát,
 
-c) a munkavállalónak az 58. § (5) bekezdés a) pontja szerinti munkaviszonyára vonatkozó adatait:
+4. a munkavállaló munkakörének megnevezését,
 
-ca) munkakört FEOR szerinti besorolásban,
+5. a munkaviszony kezdetét és végét, a munkaadónál munkaviszonyban töltött időtartamot,
 
-cb) munkaviszony kezdetét és végét,
+a) a munkaviszony megszűnésének időpontját megelőző négy naptári negyedév kezdő napját, az időszak kezdetét,
 
-cc) a munkaviszony megszűnésének időpontját megelőző négy naptári negyedév kezdő napját, az időszak kezdetét,
+b) a munkaviszony megszűnésének időpontját megelőző négy naptári negyedév kezdő napjától számított négy naptári negyedévben elért társadalombiztosítási járulékalap összegét forintban meghatározva, valamint azon hónapoknak a számát, amelyekben a munkavállalónak volt járulékalapja,
 
-cd) a munkaviszony megszűnésének időpontját megelőző négy naptári negyedév kezdő napjától számított négy naptári negyedévben elért társadalombiztosítási járulékalap összegét forintban meghatározva, valamint azon hónapoknak a számát, amelyekben a munkavállalónak volt járulékalapja, az érintett hónapok számát,
+6. a munkavállalónak a munkaviszony megszűnésekor, megszüntetésekor irányadó munkabérét, egyéb járandóságát, távolléti díját,
 
-ce) a munkaviszony fennállása alatt az utolsó, legalább hat hónapig betöltött munkakört FEOR szerinti besorolásban,
+7. a munkavállalót megillető végkielégítés összegét, ha arra jogosult volt,
 
-cf) a munkaviszony időtartama alatt igénybe vett 30 napot meghaladó mértékű fizetés nélküli szabadság(ok) időtartamát,
+8. a munkabérből határozat vagy jogszabály alapján levonandó tartozást és ennek jogosultját, vagy azt, hogy a munkavállalónak nincsen tartozása,
 
-cg) a jogviszony 58. § (6) bekezdés a) vagy b) pontja szerinti megszűnését, megszüntetését,
+9. a munkaviszony megszüntetésének vagy megszűnésének jogcímét,
 
-ch) a munkaviszonyként felsorolt jogviszonyokra a megszűnésekor, megszüntetésekor irányadó, szerződésben megállapított alapbért, illetményt vagy díjazás összegét.
+10. a munkaadó által a munkavállaló részére kiadott apasági szabadság vagy szülői szabadság tartamát, feltüntetve a korábbi munkaadó által kiadott apasági szabadság vagy szülői szabadság tartamát is,
+
+11. a tárgyévben fennállt biztosítási idő kezdetének és végének időpontját, a tárgyévre, illetve a tárgyévtől eltérő időre levont járulékok összegét, valamint az egyes járulékokból érvényesített családi járulékkedvezmény összegét,
+
+12. a munkaadó által az adóévben kifizetett jövedelem és a levont adóelőlegek összegét,
+
+13. társadalombiztosítási kifizetőhellyel rendelkező munkaadó esetén a biztosítási jogviszony megszüntetésekor a biztosítási jogviszony megszűnését közvetlenül megelőző két éven belül folyósított táppénz, baleseti táppénz, csecsemőgondozási díj, örökbefogadói díj és gyermekgondozási díj időtartamát.
+
+(3) Jogszabály a munkaviszony megszüntetése vagy megszűnése esetén a foglalkoztatási igazolás tekintetében a (2) bekezdésben megjelölteken felül további adattartalmat is megállapíthat.
+
+(4) A foglalkoztatási igazolást a munkaadó felmondás esetén az utolsó munkában töltött napot, egyéb esetben a munkaviszony megszűnését követő öt munkanapon belül kiadja a munkavállaló részére. A foglalkoztatási igazolás kiadását a munkavállaló papír alapon is kérheti a munkaadótól.
+
+(5) Ha a nevelőszülő a nevelőszülői foglalkoztatási jogviszony fennállása alatt álláskeresési járadék iránt kérelmet nyújt be, a munkaadót ennek tényéről tájékoztatja. A munkaadó a nevelőszülő tájékoztatását követő öt napon belül a nevelőszülői foglalkoztatási jogviszonyról foglalkoztatási igazolást állít ki, és annak egy példányát a nevelőszülőnek átadja. A foglalkoztatási igazolást az álláskeresési járadék iránti kérelem benyújtását megelőző hónap utolsó napjáig terjedő időszakra kell kiállítani. A munkaadó a foglalkoztatási igazolás másik példányát a nevelőszülői foglalkoztatási jogviszony megszűnését követő öt évig megőrzi.

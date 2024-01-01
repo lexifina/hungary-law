@@ -1,4 +1,4 @@
-39/A. § (1) Az Alapért a miniszter felelős. A miniszter e felelőssége keretében – a képzési alaprész és a közfoglalkoztatás támogatására fordítható költségvetési kiadási előirányzat felhasználása kivételével – rendelkezik az Alappal.
+39/A. § (1) Az Alapért a foglalkoztatáspolitikáért felelős miniszter (a továbbiakban: miniszter) felelős. A miniszter e felelőssége keretében – a képzési alaprész és a közfoglalkoztatás támogatására fordítható költségvetési kiadási előirányzat felhasználása kivételével – rendelkezik az Alappal.
 
 (2) A képzési alaprész felhasználásáért a szakképzésért felelős miniszter a szakképzésről szóló törvényben meghatározottak szerint felelős.
 
