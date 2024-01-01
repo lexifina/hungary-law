@@ -2,8 +2,10 @@
 
 a) 5. § (1) bekezdés d) pontja szerint elhelyezett kötelező tartalék összege után – a betétre fizetendő kamaton túl –,
 
-b) szerinti minimálisan tartandó kötelező tartalék Tartalékrendelet 5. § (1) bekezdés d) pontja szerinti betéttel csökkentett összegének 25%-a után
+b)[^1] szerinti kötelező tartalék Tartalékrendelet 5. § (1) bekezdés d) pontja szerinti betéttel csökkentett összegének 25%-a után
 
 a Magyar Nemzeti Bank (a továbbiakban: MNB) kamatot nem fizet.
 
 (2) A kötelező tartalék Tartalékrendelet 5. § (1) bekezdés d) pontja szerinti betéttel csökkentett összegének az (1) bekezdés b) pontjában meghatározott mértékét meghaladó összege után az MNB jegybanki alapkamatot fizet.
+
+[^1]: Az 1. § (1) bekezdés b) pontja a 7. § (2) bekezdése szerint módosított szöveg.
