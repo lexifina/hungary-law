@@ -1,4 +1,4 @@
-6. §[^7] (1) A területi környezetvédelmi hatóság 200 000 forint összegű környezetvédelmi bírságot szab ki
+6. §[^8] (1) A területi környezetvédelmi hatóság 200 000 forint összegű környezetvédelmi bírságot szab ki
 
 a) a 2. § (1) bekezdése szerinti értesítés megküldésére vonatkozó kötelezettség elmulasztása,
 
@@ -34,4 +34,4 @@ esetén.
 
 (5) Az (1)–(4) bekezdés szerinti bírság ismételten kiszabható.
 
-[^7]: A 6. § a 312/2021. (VI. 7.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^8]: A 6. § a 312/2021. (VI. 7.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.

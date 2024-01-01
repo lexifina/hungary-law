@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-105-20-
 | 2019-05-25 | 2019-105-20-22.2 | 2010: CXXX. törvény |
 | 2021-06-22 | 2019-105-20-22.3 | 312/2021. (VI. 7.) Korm. rendelet |
 | 2023-01-01 | 2019-105-20-22.4 | 616/2022. (XII. 29.) Korm. rendelet |
+| 2024-01-01 | 2019-105-20-22.5 | 591/2023. (XII. 20.) Korm. rendelet |

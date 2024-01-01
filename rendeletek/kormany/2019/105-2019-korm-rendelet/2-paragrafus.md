@@ -4,7 +4,7 @@
 
 (3) A 2017/852/EU európai parlamenti és tanácsi rendelet 8. cikk (3) bekezdésében meghatározott feltételeknek megfelelő értesítést a területi környezetvédelmi hatóság 8 napon belül megküldi a környezetvédelemért felelős miniszternek (a továbbiakban: miniszter).
 
-(4) Az értesítés értékelését – szükség szerint a Herman Ottó Intézet Nonprofit Korlátolt Felelősségű Társaság szakmai véleményének beszerzésével – a miniszter készíti el.
+(4)[^1] Az értesítés értékelését – szükség szerint a HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaság szakmai véleményének beszerzésével – a miniszter készíti el.
 
 (5) A (4) bekezdés szerinti értékelést követően a miniszter megküldi az értesítést az Európai Unió Bizottsága (a továbbiakban: Bizottság) részére.
 
@@ -13,3 +13,5 @@
 (7) A (6) bekezdés alapján kapott tájékoztatást a területi környezetvédelmi hatóság a gazdasági szereplőnek megküldi.
 
 (8) Hozzáadott higanyt tartalmazó új termék gyártására vagy forgalmazására irányuló tevékenységgel kapcsolatos engedély nem adható ki a Bizottság 2017/852/EU európai parlamenti és tanácsi rendelet 8. cikk (6) bekezdése szerinti határozata elfogadását megelőzően.
+
+[^1]: A 2. § (4) bekezdése az 591/2023. (XII. 20.) Korm. rendelet 24. §-a szerint módosított szöveg.
