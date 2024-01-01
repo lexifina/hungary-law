@@ -4,7 +4,7 @@
 
 2.
 
-3.
+3. 30/A. § (5) bekezdésében az „A (3)” szövegrész helyébe az „A kötelező visszaváltási díjas rendszerbe tartozó, kormányrendeletben meghatározott termékek kivételével a (3)” szöveg,
 
 4.
 
