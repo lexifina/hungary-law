@@ -14,7 +14,7 @@ ellenőrzése céljából megkeresheti a személyiadat- és lakcímnyilvántart�
 
 a) természetes személyazonosító adatok,
 
-b) állampolgárság, hontalanság, menekült, bevándorolt, letelepedett vagy EGT-állampolgár jogállás,
+b) állampolgárság, hontalanság, menekült vagy EGT-állampolgár jogállás, huzamos tartózkodási jogosultság,
 
 c) lakcím,
 
@@ -30,7 +30,7 @@ fb) a külföldre utazásról szóló 1998. évi XII. törvény 24. §-ának f) 
 
 fc) a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 8. § (1) bekezdés b) pontjának ba)-bb) alpontja szerinti tények,
 
-fd) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 76. §-ának d) pontja, 80. §-ának b) és c) pontja, valamint a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 95. §-a (1) bekezdésének g) pontja, 96. §-a (1) bekezdésének g) pontja, továbbá 100. §-a (1) bekezdésének b) és c) pontja szerinti tények.
+fd) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 76. §-ának d) pontja, 80. §-ának b) és c) pontja, valamint a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 254. § (1) bekezdés g) pontja, 256. § (1) bekezdés f) pontja, 261. § (1) bekezdés b) és c) pontja szerinti tények.
 
 (5) A végrehajtó a végrehajtási eljárásban részt vevő képviselő képviseleti jogosultságát
 
