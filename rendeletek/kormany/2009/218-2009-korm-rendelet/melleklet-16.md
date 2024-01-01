@@ -38,7 +38,7 @@
 
 | 19. | 4. A Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény szerinti egyedileg meghatározott vármegyei övezetek |  | vármegyei önkormányzat |
 
-16. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^169]
+16. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^170]
 
 A Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvény 1/1. mellékletében felsorolt, a Budapesti Agglomerációhoz tartozó település településrendezési tervének készítése vagy módosítása során előzetes adatszolgáltatásra kötelezett államigazgatási szervek
 
@@ -78,4 +78,4 @@ A Magyarország és egyes kiemelt térségeinek területrendezési tervéről sz
 
 | 17. | A Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény szerinti egyedileg meghatározott vármegyei övezetek |  | vármegyei önkormányzat |
 
-[^169]: A 16. mellékletet a 121/2019. (V. 27.) Korm. rendelet 17. § (5) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 76. § d) pontja, a 30/2020. (II. 28.) Korm. rendelet 13. § e)–f) pontja, a 420/2021. (VII. 15.) Korm. rendelet 52. § d) pontja, a 825/2021. (XXII. 28.) Korm. rendelet 22. § d) pontja, a 616/2022. (XII. 29.) Korm. rendelet 104. § d) pontja, a 433/2023. (IX. 21.) Korm. rendelet 1. § c) pontja és 2. 0 c) pontja szerint módosított szöveg.
+[^170]: A 16. mellékletet a 121/2019. (V. 27.) Korm. rendelet 17. § (5) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 76. § d) pontja, a 30/2020. (II. 28.) Korm. rendelet 13. § e)–f) pontja, a 420/2021. (VII. 15.) Korm. rendelet 52. § d) pontja, a 825/2021. (XXII. 28.) Korm. rendelet 22. § d) pontja, a 616/2022. (XII. 29.) Korm. rendelet 104. § d) pontja, a 433/2023. (IX. 21.) Korm. rendelet 1. § c) pontja és 2. 0 c) pontja szerint módosított szöveg.

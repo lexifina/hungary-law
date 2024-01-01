@@ -52,6 +52,8 @@ e)[^158] Herman Ottó Intézet Nonprofit Kft..
 
 f)[^159] területi hulladékgazdálkodási hatóság
 
+16.[^160] HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaság
+
 [^147]: A 10. melléklet
 [^148]: A 10. melléklet 1. pontját a 25/2014. (II. 7.) Korm. rendelet 17. § f) pontja hatályon kívül helyezte.
 [^149]: A 10. melléklet 3. pont nyitó szövegrésze a 25/2014. (II. 7.) Korm. rendelet 16. § k) pontja, az 511/2021. (IX. 3.) Korm. rendelet 3. §-a szerint módosított szöveg.
@@ -65,3 +67,4 @@ f)[^159] területi hulladékgazdálkodási hatóság
 [^157]: A 10. melléklet 15. pont a) alpontja a 379/2016. (XII. 2.) Korm. rendelet 144. § (2) bekezdés a) pontjával megállapított szöveg.
 [^158]: A 10. melléklet 15. pont e) alpontja a 379/2016. (XII. 2.) Korm. rendelet 144. § (2) bekezdés b) pontjával megállapított szöveg.
 [^159]: A 10. melléklet 15. pont f) alpontját a 60/2023. (II. 28.) Korm. rendelet 21. § (1) bekezdése iktatta be.
+[^160]: A 10. melléklet 16. pontját az 591/2023. (XII. 20.) Korm. rendelet 9. §-a iktatta be.
