@@ -1,3 +1,5 @@
+## 3X09392.pdf
+
 3. melléklet a 388/2017. (XII. 13.) Korm. rendelethez[^9]
 
-[^9]: A 3. melléklet az 581/2022. (XII. 23.) Korm. rendelet 3. § (3) bekezdésével megállapított, a 286/2023. (VI. 30.) Korm. rendelet 56. § és 57. § a) pontja, a 334/2023. (VII. 20.) Korm. rendelet 54. §-a szerint módosított szöveg.
+[^9]: A 3. melléklet az 529/2023. (XII. 1.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
