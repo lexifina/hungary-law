@@ -81,3 +81,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-3-00-00
 | 2023-07-01 | 2023. évi XXXVIII. törvény | 1993-3-00-00.130 |
 | 2023-07-22 | 2023. évi LX. törvény | 1993-3-00-00.133 |
 | 2023-11-19 | 2023. évi XXXVIII. törvény | 1993-3-00-00.131 |
+| 2024-01-01 | 2023. évi XC. törvény | 1993-3-00-00.132 |

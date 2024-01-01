@@ -10,7 +10,7 @@ ab) belföldi lakó- vagy tartózkodási helyét,
 
 ac) Társadalombiztosítási Azonosító Jelét;
 
-b) az ellátást kérelmező, a jogosult állampolgárságát, illetve bevándorolt, letelepedett, menekült, oltalmazott vagy hontalan jogállását;
+b) az ellátást kérelmező, a jogosult állampolgárságát, huzamos tartózkodási jogosultságát, illetve menekült, oltalmazott vagy hontalan jogállását;
 
 c) a jogosultsági feltételekre és az azokban bekövetkezett változásokra vonatkozó adatokat;
 

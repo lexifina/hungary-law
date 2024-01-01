@@ -2,7 +2,7 @@
 
 a) magyar állampolgárokra,
 
-b) bevándoroltakra és letelepedettekre,
+b) huzamos tartózkodási jogosultsággal rendelkezőkre,
 
 c) hontalanokra,
 

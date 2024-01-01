@@ -10,7 +10,7 @@ b) a közgyógyellátásra való jogosultság, valamint az igazolványok kiadás
 
 c) az Országos Szociálpolitikai Szakértői Névjegyzékkel, valamint a szakértők tevékenységével összefüggő részletes szabályokat;
 
-d) a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályait;
+d) a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályait, valamint a szociális vetítési alap összegét;
 
 e) a személyes gondoskodást nyújtó ellátásokért fizetendő térítési díjak megállapításának részletes szabályait,
 

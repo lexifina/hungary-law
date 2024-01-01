@@ -2,7 +2,7 @@
 
 (2) Ha az (1) bekezdés szerinti cselekmény nem vezet eredményre, a fennmaradó tartozás végrehajtását az Ákr. 134. § (1) bekezdésének megfelelően kell foganatosítani.
 
-(3) Nem kell végrehajtást lefolytatni, ha a megtérítésre kötelezett személy terhére nyilvántartott követelés összege az 1000 Ft-ot nem haladja meg.
+(3) Nem kell végrehajtást lefolytatni, ha a megtérítésre kötelezett személy terhére nyilvántartott követelés összege a 10 000 Ft-ot nem haladja meg.
 
 (4) A megtérítésre kötelezett személy halála esetén a követelés meg nem térült összegét – a hagyaték erejéig – az örököstől kell behajtani. A hozzátartozót megillető pénzbeli ellátásból – ide nem értve a jogosult által a halála hónapjában már fel nem vett és az örökös hozzátartozó által felvehető ellátást – a meg nem térített összeget nem lehet levonni.
 

@@ -6,7 +6,7 @@ a) a kérelmező természetes személyazonosító adatai és Társadalombiztosí
 
 b) a kérelmező telefonszáma, lakó- és tartózkodási helye, értesítési címe,
 
-c) a kérelmező állampolgársága, bevándorolt, letelepedett vagy menekült, hontalan jogállása, a szabad mozgás és tartózkodás jogára vonatkozó adat,
+c) a kérelmező állampolgársága, huzamos tartózkodási jogosultsága vagy menekült, hontalan jogállása, a szabad mozgás és tartózkodás jogára vonatkozó adat,
 
 d) a kérelmező cselekvőképességére vonatkozó adat,
 
