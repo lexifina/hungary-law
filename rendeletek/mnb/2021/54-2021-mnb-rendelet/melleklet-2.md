@@ -2,7 +2,7 @@
 
 ## I.
 
-## 3X08788M.docx
+## 3X08872M.docx
 
 |  | MNB azonosító kód | Megnevezés | Az adatszolgáltatók köre | Az adatszolgáltatás |
 
@@ -40,7 +40,7 @@
 
 | 16 | E23 | A központi értéktárnál vezetett egyesített összevont értékpapírszámlákon és biztosíték értékpapír letéti számlákon lévő értékpapír-állományok | központi értéktári tevékenységet végző szervezet, az ezen típusú EGT-fióktelep | havi | elektronikus úton (ERA rendszer) | tárgyidőszakot követő hónap 3. munkanap |
 
-| 17 | E24 | A hitelintézetek saját tulajdonában lévő értékpapírok állományának napi adatai | a hitelintézeti csoporthoz tartozó, nem csoportvezető, magyarországi székhelyű bank kivételével a bank, az ezen típusú EGT-fióktelep, valamint a kijelölt szakosított hitelintézet | napi | elektronikus úton (ERA rendszer) | tárgyidőszakot követő munkanap 14 óra |
+| 17 | E24 | A hitelintézetek saját tulajdonában lévő értékpapírok állományának napi adatai | a hitelintézeti csoporthoz tartozó, nem csoportvezető, magyarországi székhelyű bank kivételével a bank, az ezen típusú EGT-fióktelep, valamint a kijelölt szakosított hitelintézet | napi | elektronikus úton (ERA rendszer) | tárgyidőszakot követő munkanap 13 óra |
 
 | 18 | E27 | Értékpapírok központi értéktár által kiadott ISIN kódjai és egyéb alapadatai | központi értéktári tevékenységet végző szervezet, az ezen típusú EGT-fióktelep | napi | elektronikus úton (ERA rendszer) | tárgynapot követő munkanap 9 óra |
 
@@ -58,9 +58,9 @@
 
 | 25 | E60 | Adatszolgáltatás repótípusú és egyéb értékpapír ügyletekről | bank, szakosított hitelintézet, letétkezelési tevékenységet végző szövetkezeti hitelintézet, befektetési vállalkozás és egyéb szervezet, az ezen típusú EGT-fióktelep, ÁKK Zrt. | havi | elektronikus úton (ERA rendszer) | tárgyidőszakot követő hónap 5. munkanap |
 
-| 26 | E61 | A Magyarországon és külföldön kibocsátott jelzáloglevelek adatai | jelzálog-hitelintézet, az ezen típusú EGT-fióktelep | havi | elektronikus úton (ERA rendszer) | tárgyidőszakot követő hónap 8. munkanap |
+| 26 | E61 | A Magyarországon és külföldön kibocsátott jelzáloglevelek adatai | jelzálog-hitelintézet, az ezen típusú EGT-fióktelep | havi, eseti | elektronikus úton (ERA rendszer) | havi adatszolgáltatás tekintetében a tárgyidőszakot követő hónap 8. munkanap; eseti adatszolgáltatás tekintetében az MNB eseti adatszolgáltatásra való felhívásától számított 10. munkanap |
 
-| 27 | E62 | Az állampapírnak nem minősülő, Magyarországon és külföldön kibocsátott kötvények adatai | kötvényt kibocsátó önkormányzat, jogi személyiséggel rendelkező gazdálkodó szervezet, jogi személyiséggel rendelkező külföldi gazdálkodó szervezet magyarországi fióktelepe | havi | elektronikus úton (ERA rendszer) | tárgyidőszakot követő hónap 8. munkanap |
+| 27 | E62 | Az állampapírnak nem minősülő, Magyarországon és külföldön kibocsátott kötvények adatai | kötvényt kibocsátó önkormányzat, jogi személyiséggel rendelkező gazdálkodó szervezet, jogi személyiséggel rendelkező külföldi gazdálkodó szervezet magyarországi fióktelepe | havi, eseti | elektronikus úton (ERA rendszer) | havi adatszolgáltatás tekintetében a tárgyidőszakot követő hónap 8. munkanap; eseti adatszolgáltatás tekintetében az MNB eseti adatszolgáltatásra való felhívásától számított 10. munkanap |
 
 | 28 | E64 | Hitelintézetek és befektetési szolgáltatást végző szervezetek által kibocsátott, hitelviszonyt megtestesítő értékpapírok adatai, illetve a letétkezelési tevékenységet végző szervezetek tulajdonában lévő és az általuk letétkezelt, hitelviszonyt megtestesítő értékpapírokra vonatkozó ár-információk | bank, szakosított hitelintézet, letétkezelési tevékenységet végző szövetkezeti hitelintézet, befektetési vállalkozás és egyéb szervezet, az ezen típusú EGT-fióktelep | havi | elektronikus úton (ERA rendszer) | tárgyidőszakot követő hónap 8. munkanap |
 
@@ -69,6 +69,8 @@
 | 30 | F02 | Biztosítók statisztikai mérlege | biztosító, az ezen típusú EGT-fióktelep | negyedéves | elektronikus úton (ERA rendszer) | tárgyidőszakot követő hónap 13. munkanap |
 
 | 31 | F07 | Befektetési alapok statisztikai mérlege | befektetésialap | havi | elektronikus úton (ERA rendszer) | tárgyidőszakot követő hónap 6. munkanap |
+
+| 31a | F10 | Bizalmi vagyonkezelők által kezelt vagyon mérlege | bizalmi vagyonkezelői tevékenységet végző szervezet | éves | elektronikus úton (ERA rendszer) | tárgyidőszakot követő év február 28. |
 
 | 32 | F20 | Költségvetési szervek mérlegjelentése alrendszerenként (vagyonmérleg) | MÁK | negyedéves | elektronikus úton (ERA rendszer) | a feldolgozást követő munkanap |
 
@@ -86,7 +88,7 @@
 
 | 38 | F58 | A Magyar Államkincstár havi jelentése az állami költségvetés alrendszereinek adatairól | MÁK | havi | elektronikus úton (ERA rendszer) | tárgyidőszakot követő hónap 5., illetve 15. nap |
 
-| 39 | F59 | A Magyar Államkincstár negyedéves jelentése az értékpapírokhoz kapcsolódó pénzszámlák és a nem költségvetési szervek részére vezetett számlák állományáról | MÁK | negyedéves | elektronikus úton (ERA rendszer) | tárgyidőszakot követő hónap utolsó munkanap |
+| 39 | F59 | A Magyar Államkincstár negyedéves jelentése az értékpapírokhoz kapcsolódó pénzszámlák és a nem költségvetési szervek részére vezetett számlák állományáról | MÁK | negyedéves | elektronikus úton | tárgyidőszakot követő hónap utolsó munkanap |
 
 | 40 | F68 | Az államháztartás központi alrendszerébe tartozó költségvetési szervek tartozásállománya | MÁK | havi | elektronikus úton (ERA rendszer) | tárgyidőszakot követő hónap utolsó munkanap |
 
@@ -100,11 +102,11 @@
 
 | 45 | F97 | Évközi mérlegjelentés | kijelölt – pénzügyi intézménynek nem minősülő – jogi személy | egyedi elrendelés alapján, negyedéves | elektronikus úton (ERA rendszer) | tárgyidőszakot követő hónap 30. nap |
 
-| 46 | F98 | Éves beszámolót készítő vállalatok mérlege és eredménykimutatása | Igazságügyi Minisztérium | éves | elektronikus úton (elektronikus adathordozó) | tárgyidőszakot követő évjúlius 31. |
+| 46 | F98 | Éves beszámolót készítő vállalatok mérlege és eredménykimutatása | Igazságügyi Minisztérium | éves | elektronikus úton (elektronikus adathordozó) | tárgyidőszakot követő év július 31. és december 31. |
 
 | 47 | F99 | Vagyonkezelő és csoportfinanszírozó tevékenységet végző vállalatok pénzügyi adatai | kijelölt – a 2. melléklet I. A. pontja szerinti Z) Zártkörű pénzügyi közvetítők szektorába sorolt – gazdasági szervezet | egyedi elrendelés alapján, negyedéves | elektronikus úton (ERA rendszer) | tárgyidőszakot követő hónap 30. nap |
 
-| 48 | J01 | Természetes személyek anonimizált jövedelmi és munkatörténeti adatai | MÁK | éves | elektronikus úton (elektronikus adathordozó) | tárgyidőszakot követő év október 31. |
+| 48 | J01 | Természetes személyek anonimizált jövedelmi és munkatörténeti adatai | MÁK | éves | elektronikus úton (ERA rendszer) | tárgyidőszakot követő év október 31. |
 
 | 48a | J02 | Családtámogatást igénylő természetes személyekre, a támogatásokra és a támogatott ingatlanra vonatkozó egyes adatok | MÁK | éves | elektronikus úton (elektronikus adathordozó) | október 31. |
 
@@ -112,7 +114,11 @@
 
 | 49 | K02 | Napi jelentés a bankközi forinthitelek és forintbetétek kamatlábáról | bank, szakosított hitelintézet, az ezen típusú EGT-fióktelep | napi | elektronikus úton (ERA rendszer) | tárgynapot követő munkanap 8:30 óra |
 
-| 50 | K04 | Jelentés a mérlegen belüli külföldi bankközi ügyletek kamatlábáról és a mérlegen belüli belföldi bankközi ügyletek kamatlábáról | bank, szakosított hitelintézet, az ezen típusú EGT-fióktelep | havi | elektronikus úton (ERA rendszer) | tárgyidőszakot követő hónap 5. munkanap |
+| 50 | K04 | Havi jelentés a mérlegen belüli bankközi ügyletek fennálló állományáról és kamatlábáról | bank, szakosított hitelintézet, az ezen típusú EGT-fióktelep | havi | elektronikus úton (ERA rendszer) | tárgyidőszakot követő hónap 5. munkanap |
+
+| 50a | K05 | Napi jelentés a mérlegen belüli bankközi ügyletek állományáról és kamatlábáról | bank, szakosított hitelintézet, az ezen típusú EGT-fióktelep | napi | elektronikus úton (ERA rendszer) | tárgynapot követő munkanap 12 óra |
+
+| 50b | K10 | Napi jelentés a nem bankközi overnight forinthitelek és forintbetétek kamatlábáról | bank, szakosított hitelintézet, az ezen típusú EGT-fióktelep | napi | elektronikus úton (ERA rendszer) | tárgynapot követő munkanap 14 óra |
 
 | 51 | K12 | Napi jelentés a bankközi overnight forinthitelek és forintbetétek kamatlábáról | bank, szakosított hitelintézet, az ezen típusú EGT-fióktelep | napi | elektronikus úton (ERA rendszer) | tárgynapot követő munkanap 8 óra |
 
@@ -128,7 +134,7 @@
 
 | 57 | L12 | Heti KHR adatok | KHR-t működtető pénzügyi vállalkozás | heti | elektronikus úton (ERA rendszer, űrlap), fokozott biztonságú vagy minősített elektronikus aláírással ellátva | tárgyidőszakot követő hét 2. munkanap 10 óra |
 
-| 58 | L70 | Projektfinanszírozási hitelek, konszolidációs körön kívüli társasággal szembeni, ingatlanfinanszírozáshoz kapcsolódó kitettségek és értékesítési célú ingatlanok | kijelölt bank | egyedi elrendelés alapján, negyedéves | elektronikus úton (ERA rendszer), fokozott biztonságú vagy minősített elektronikus aláírással ellátva | első negyedév tekintetében: a tárgyidőszakot követő második hónap 12. nap; második – negyedik negyedév tekintetében: a tárgyidőszakot követő második hónap 11. nap; |
+| 58 |  |  |  |  |  |  |
 
 | 59 | L71 | Negyedéves jelentés a kockázattal súlyozott kitettségek megoszlásáról | hitelintézet, a nem EGT-államban székhellyel rendelkező hitelintézet magyarországi fióktelepeként működő hitelintézet (a továbbiakban: harmadik országbeli hitelintézet fióktelepe) kivételével | negyedéves | elektronikus úton (ERA rendszer), fokozott biztonságú vagy minősített elektronikus aláírással ellátva | első negyedév tekintetében: a tárgyidőszakot követő második hónap 12. nap; második – negyedik negyedév tekintetében: a tárgyidőszakot követő második hónap 11. nap; |
 
@@ -148,6 +154,8 @@
 
 | 67 | M05 | A hitelintézetek statisztikai mérlegének részletezése – derivatívák | hitelintézet, az ezen típusú EGT-fióktelep | havi | elektronikus úton (ERA rendszer) | a naptári negyedév első két hónapja tekintetében: tárgyidőszakot követő hónap 11. munkanap; a naptári negyedév utolsó hónapja tekintetében előzetes: tárgyidőszakot követő hónap 11. munkanap; végleges: első negyedév utolsó hónapja tekintetében a tárgyidőszakot követő második hónap 12. nap, második – negyedik negyedév utolsó hónapja tekintetében a tárgyidőszakot követő második hónap 11. nap; |
 
+| 67a | M06 | A hitelintézetek statisztikai mérlegének tartalékköteles sorai, valamint az értékpapírkölcsön ügyletekhez tartozó készpénzóvadék összege – napi záróállományok | a kötelező jegybanki tartalék kiszámításáról, illetve képzésének és elhelyezésének módjáról szóló MNB rendelet szerinti tartalékköteles hitelintézet | havi | elektronikus úton (ERA rendszer) | tárgyidőszakot követő hónap 11. munkanap |
+
 | 68 | M11 | A hitelintézetek statisztikai mérlege és eredménykimutatása (éves auditált adatok) | hitelintézet, az ezen típusú EGT-fióktelep | éves | elektronikus úton (ERA rendszer) | záró-közgyűlést követő 15. munkanap, de legkésőbb a tárgyévet követő év május 31. |
 
 | 69 | P03 | Eseti felvigyázói értesítések | központi szerződő fél, az ezen típusú EGT-fióktelep | eseti | elektronikus úton (ERA rendszer) | az eseményt követő munkanap |
@@ -165,6 +173,8 @@
 | 75 | P15 | Elektronikus pénz – forgalmi és a visszaélésekre vonatkozó adatok | pénzforgalmi szolgáltató, pénzforgalmi szolgáltatást nem nyújtó elektronikuspénz-kibocsátó intézmény, az ezen típusú EGT-fióktelepek, ATM szolgáltatást közvetlenül nyújtó vagy készpénzfelvételi funkcióval rendelkező POS berendezést üzemeltető, pénzforgalmi szolgáltatónak nem minősülő jogi személy, valamint a kijelölt, Magyarország területén határon átnyúló szolgáltatás keretében pénzforgalmi szolgáltatást nyújtó, más EGT-államban székhellyel rendelkező pénzforgalmi szolgáltató és Magyarország területén határon átnyúló szolgáltatás keretében elektronikuspénz-kibocsátási tevékenységet végző, pénzforgalmi szolgáltatást nem nyújtó, más EGT-államban székhellyel rendelkező elektronikuspénz-kibocsátó intézmény | negyedéves | elektronikus úton (ERA rendszer) | tárgyidőszakot követő hónap utolsó munkanap |
 
 | 76 | P23 | Kimutatás a helyi bankjegyfeldolgozásról és bankjegyforgalmazásról | bank, az ezen típusú EGT-fióktelep | havi | elektronikus úton (ERA rendszer) | tárgyidőszakot követő hónap 10. munkanap |
+
+| 76a | P24 | Napi forint készpénzforgalmi jelentés | bank, az ezen típusú EGT-fióktelep | napi | elektronikus úton (ERA rendszer) | a tárgynapot követő második munkanap 12 óra |
 
 | 77 | P26 | Kimutatás a pénzfeldolgozási tevékenységről | pénzfeldolgozási tevékenység végzésére vonatkozó engedéllyel rendelkező szervezet és kijelölt hitelintézet | havi | elektronikus úton (ERA rendszer) | tárgyidőszakot követő hónap 10. munkanap |
 
@@ -190,7 +200,7 @@
 
 | 88 | P51 | Napi valutaforgalmi jelentés | bank, az ezen típusú EGT-fióktelep | napi | elektronikus úton (ERA rendszer) | a tárgynapot követő második munkanap 8 óra |
 
-| 89 | P53 | Jelentés a forintbankjegy-kereskedelemről | hitelintézet, az ezen típusú EGT-fióktelep, Magyar Posta Zrt. (a továbbiakban: Magyar Posta) | havi | elektronikus úton (ERA rendszer) | tárgyidőszakot követő hónap 5. munkanap |
+| 89 |  |  |  |  |  |  |
 
 | 90 | P54 | Jelentés a kibocsátott forgatható utalványokról | kiegészítő pénzügyi szolgáltatásként forgatható utalványt kibocsátó szervezet | havi | elektronikus úton (ERA rendszer) | a tárgyidőszakot követő hónap 20. munkanap |
 
@@ -216,7 +226,7 @@
 
 | 101 | P68 | Leginkább releváns pénznemek meghatározása | központi értéktári tevékenységet végző szervezet, az ezen típusú EGT-fióktelep | éves | elektronikus úton (ERA rendszer, űrlap), fokozott biztonságú vagy minősített elektronikus aláírással ellátva | tárgyidőszakot követő év január 31. |
 
-| 102 | P69 | A pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény 55/A. § (2) bekezdéséhez kapcsolódó jelentés | pénzforgalmi szolgáltató, az ezen típusú EGT-fióktelep | éves | elektronikus úton (ERA rendszer, űrlap), fokozott biztonságú vagy minősített elektronikus aláírással ellátva | tárgyidőszakot követő év március 31. |
+| 102 | P69 | A pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény 55/A. § (2) bekezdéséhez kapcsolódó jelentés | pénzforgalmi szolgáltató és az ezen típusú EGT-fióktelep, a Posta Elszámoló Központot működtető intézmény, a MÁK és a pénzforgalmi szolgáltatásai nyújtásához az anyavállalatával teljesen megegyező számlavezető rendszert használó EGT-fióktelep kivételével | éves | elektronikus úton (ERA rendszer, űrlap) | tárgyidőszakot követő év március 31. |
 
 | 103 | P70 | A célra rendelt interfész egyes követelményeinek nemteljesítésére vonatkozó eseti adatszolgáltatás | tartalékmechanizmus létrehozása alól mentesített számlavezető pénzforgalmi szolgáltató, az ezen típusú EGT-fióktelep | eseti | elektronikus úton (ERA rendszer, űrlap), fokozott biztonságú vagy minősített elektronikus aláírással ellátva | az (EU) 2015/2366 európai parlamenti és tanácsi irányelvnek az erős ügyfél-hitelesítésre, valamint a közös és biztonságos nyílt kommunikációs standardokra vonatkozó szabályozástechnikai standardok tekintetében történő kiegészítéséről szóló 2017. november 27-i (EU) 2018/389 felhatalmazáson alapuló bizottsági rendelet (a továbbiakban: SCAr.) 33. cikk (6) bekezdés a) és d) pontjában meghatározott feltételek két egymást követő naptári héten át tartó nemteljesítését követő munkanap |
 
@@ -233,6 +243,8 @@
 | 109 | P76 | Azonnali elszámolás tranzakciós adatai | az azonnali átutalási megbízás elszámolását és teljesítését végző belföldi fizetési rendszerhez kapcsolódó közvetlen vagy közvetett résztvevő, a szakosított hitelintézet és a MÁK kivételével | heti | elektronikus úton (ERA rendszer, űrlap), fokozott biztonságú vagy minősített elektronikus aláírással ellátva | a tárgyidőszakot követő 4. munkanap |
 
 | 110 | P81 | Napi valutaszállítási jelentés | kijelölt, pénzfeldolgozási tevékenység végzésére vonatkozó engedéllyel rendelkező szervezet | napi | elektronikus úton (ERA rendszer) | a tárgynapot követő munkanap 12 óra |
+
+| 110a | P82 | A nyílt bankoláshoz kapcsolódó egyes adatok | pénzforgalmi szolgáltató, az ezen típusú EGT-fióktelep | eseti | elektronikus úton (ERA rendszer, űrlap) | az adatok változását követő munkanap |
 
 | 111 | R01 | Tőkebefektetésben érintett adatszolgáltatók végső befektetőjének és nem-rezidens partnereinek törzsadatai | az R02, R03, R12, R13 vagy R29 MNB azonosító kódú adatszolgáltatás teljesítésére kötelezett gazdasági szervezet | az R02, R03, R12, R13 vagy R29 MNB azonosító kódú adatszolgáltatás első alkalommal történő teljesítésekor, ezt követően változás esetén | elektronikus úton (ERA rendszer) | az R02, R03, R12 vagy R13 MNB azonosító kódú adatszolgáltatáshoz kapcsolódóan azok tárgyidőszakát követő hónap 9. munkanap; az R29 MNB azonosító kódú adatszolgáltatáshoz kapcsolódóan annak tárgyidőszakát követő év június 20. |
 
@@ -340,6 +352,6 @@
 
 | 7 | Z07 | Anonimizált konszolidált biztosított betéti adatok | Országos Betétbiztosítási Alap | megállapodás szerint | elektronikus úton (elektronikus adathordozó) | megállapodás szerint |
 
-2. melléklet az 54/2021. (XI. 23.) MNB rendelethez[^10]
+2. melléklet az 54/2021. (XI. 23.) MNB rendelethez[^12]
 
-[^10]: A 2. melléklet a 62/2021. (XII. 9.) MNB rendelet 3. §-a, a 22/2022. (VI. 11.) MNB rendelet 5. §-a, a 44/2022. (IX. 30.) MNB rendelet 3. §-a, a 49/2022. (XI. 22.) MNB rendelet 1. § b) pontja, az 58/2022. (XII. 22.) MNB rendelet 2. §-a, a 21/2023. (V. 11.) MNB rendelet 1. §-a, az 54/2023. (XI. 20.) MNB rendelet 2. § (1) bekezdés b) pontja szerint módosított szöveg. [ A 2. melléklet I.A.!. pontjában a 49/2022. (XI. 22.) MNB rendelet 1. § b) pontja (2. melléklet 29. pont a) alpontja által elrendelt módosítás, amely szerint a „szervezetekről is listát publikál az 5.2.2. alpontban foglaltak szerint” szövegrész helyébe a „szervezeteket is felteszi a 3. melléklet 1. pontja szerinti, az MNB honlapján közzétett listára” szöveg lép, nem vezethető át. ]
+[^12]: A 2. melléklet a 62/2021. (XII. 9.) MNB rendelet 3. §-a, a 22/2022. (VI. 11.) MNB rendelet 5. §-a, a 44/2022. (IX. 30.) MNB rendelet 3. §-a, a 49/2022. (XI. 22.) MNB rendelet 1. § b) pontja, az 58/2022. (XII. 22.) MNB rendelet 2. §-a, a 21/2023. (V. 11.) MNB rendelet 1. §-a, az 53/2023. (XI. 20.) MNB rendelet 2. § b) pontja, az 54/2023. (XI. 20.) MNB rendelet 2. § (1) bekezdés b) pontja szerint módosított szöveg. [ A 2. melléklet I.A.!. pontjában a 49/2022. (XI. 22.) MNB rendelet 1. § b) pontja (2. melléklet 29. pont a) alpontja által elrendelt módosítás, amely szerint a „szervezetekről is listát publikál az 5.2.2. alpontban foglaltak szerint” szövegrész helyébe a „szervezeteket is felteszi a 3. melléklet 1. pontja szerinti, az MNB honlapján közzétett listára” szöveg lép, nem vezethető át. ]
