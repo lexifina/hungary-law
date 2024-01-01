@@ -1,1 +1,0 @@
-2. § Magyarország a nemzetközi fejlesztési együttműködési tevékenységét nemzetközi kötelezettségeivel összhangban, nemzeti érdekeit is tükröző külkapcsolatai alapján, az ország teherbíró képességének, valamint külpolitikai és külgazdasági prioritásainak figyelembevételével valósítja meg.

@@ -1,1 +1,0 @@
-4. § Magyarország a nemzetközi humanitárius jog, a nemzetközi menekültjog és a nemzetközi emberi jogi egyezmények alapján, az európai uniós szakpolitikával összhangban nemzetközi humanitárius segítségnyújtási tevékenységét végez.
