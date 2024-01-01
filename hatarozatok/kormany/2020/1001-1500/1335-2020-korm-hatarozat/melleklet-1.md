@@ -6,21 +6,7 @@
 
 ## 4.[^4] egyetért azzal, hogy a Beruházások előkészítése során a 233/2018. (XII. 6.) Korm. rendelet 2. § (2) bekezdés d), e), n) és p) pontja szerinti előkészítési fázisok kerüljenek megvalósításra, és egyetért azzal, hogy a Beruházások előkészítésére és a Helyreállítási Feladatok megvalósítására a 2020. évben összesen 866 500 000 forint kerüljön biztosításra, valamint hogy a Beruházások előkészítését és a Helyreállítási Feladatokat legkésőbb 2026. január 31. napjáig kell megvalósítani;
 
-## 5.[^5] az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva, a Beruházások előkészítési feladatainak finanszírozása érdekében a 2020. évben összesen 160 000 000 forint egyszeri átcsoportosítását rendeli el a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelési előirányzatok cím, 1. Célelőirányzatok alcím, 6. Nemzeti Sírkerthez és Emlékhelyekhez kapcsolódó kiadások jogcímcsoport javára, elszámolási és a fel nem használt, valamint a nem rendeltetésszerűen felhasznált rész tekintetében visszafizetési kötelezettséggel, az 1. melléklet szerint;
-
-## Az átcsoportosítás tekintetében
-
-## Felelős: pénzügyminiszter
-
-## Miniszterelnökséget vezető miniszter
-
-## Határidő: azonnal
-
-## Az elszámolás és a fel nem használt, valamint a nem rendeltetésszerűen felhasznált rész visszafizetése tekintetében
-
-## Felelős: Miniszterelnökséget vezető miniszter
-
-## Határidő: 2024. január 31.
+## 5.[^5]
 
 ## 5a.[^6] felhívja a pénzügyminisztert, hogy a Miniszterelnökséget vezető miniszter bevonásával gondoskodjon 706 500 000 forint forrás biztosításáról Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 6. Nemzeti Sírkerthez és Emlékhelyekhez kapcsolódó kiadások jogcímcsoport javára;
 
@@ -90,85 +76,13 @@
 
 ## Határidő: a forrás rendelkezésre állását követően azonnal
 
-1. melléklet az 1335/2020. (VI. 22.) Korm. határozathoz
-
-0X03928_0
-
-| XI. Miniszterelnökség |
-
-| XV. Pénzügyminisztérium |
-
-| ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA |
-
-| Költségvetési év: 2020. |
-
-| forintban |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XI. |  |  |  |  |  | Miniszterelnökség |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 30 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 1 |  |  |  |  |  | Célelőirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 331684 |  |  |  | 6 |  |  |  |  |  | Nemzeti Sírkerthez és Emlékhelyekhez kapcsolódó kiadások |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | 160 000 000 |  |  |  |
-
-|  | XV. |  |  |  |  |  | Pénzügyminisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 26 |  |  |  |  |  | Központi kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 2 |  |  |  |  |  | Központi tartalékok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 375739 |  |  |  | 4 |  |  |  |  |  | Beruházás Előkészítési Alap |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | -160 000 000 |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| forintban |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | B E V É T E L | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| forintban |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | T Á M O G A T Á S | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XI. |  |  |  |  |  | Miniszterelnökség |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 30 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 1 |  |  |  |  |  | Célelőirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 331684 |  |  |  | 6 |  |  |  |  |  | Nemzeti Sírkerthez és Emlékhelyekhez kapcsolódó kiadások |  |  |  |  |  |  |  |  | 160 000 000 |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Az adatlap 1 eredeti példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) | Összesen |  | I.n.év | II. n.év | III.n.év | IV.n.év |
-
-|  |  |  | időarányos |  |  |  |  |  |  |  |  |
-
-|  |  | teljesítésarányos |  |  |  |  |  |  |  |
-
-| Magyar Államkincstár | 1 példány |  |  | egyéb: |  | azonnal |  | 160 000 000 |  | 160 000 000 |  |  |
-
-| * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+1. melléklet az 1335/2020. (VI. 22.) Korm. határozathoz[^14]
 
 [^1]: Az 1. pont az 1133/2022. (III. 8.) Korm. határozat 1. pontjával megállapított, az 1217/2023. (VI. 5.) Korm. határozat 1. pont a) pontja szerint módosított szöveg.
 [^2]: A 2. pont a 2013/2020. (XII. 24.) Korm. határozat 1. pontjával megállapított szöveg.
-[^3]: A 3. pont a 2013/2020. (XII. 24.) Korm. határozat 1. pontjával megállapított, az 1217/2023. (VI. 5.) Korm. határozat 1. pont b) alpontja szerint módosított szöveg.
+[^3]: A 3. pont a 2013/2020. (XII. 24.) Korm. határozat 1. pontjával megállapított, az 1217/2023. (VI. 5.) Korm. határozat 1. pont b) pontja szerint módosított szöveg.
 [^4]: A 4. pont az 1133/2022. (III. 8.) Korm. határozat 2. pontjával megállapított, az 1217/2023. (VI. 5.) Korm. határozat 1. pont c)-d) alpontja és 2. pontja szerint módosított szöveg.
-[^5]: Az 5. pont a 2013/2020. (XII. 24.) Korm. határozat 6. pontja, az 1133/2022. (III. 8.) Korm. határozat 6. pontja szerint módosított szöveg.
+[^5]: Az 5. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
 [^6]: Az 5a. pontot a 2013/2020. (XII. 24.) Korm. határozat 2. pontja iktatta be.
 [^7]: A 6a. pontot a 2013/2020. (XII. 24.) Korm. határozat 3. pontja iktatta be.
 [^8]: A 7a. pontot a 2013/2020. (XII. 24.) Korm. határozat 4. pontja iktatta be.
@@ -177,3 +91,4 @@
 [^11]: A 11. pontot a 2013/2020. (XII. 24.) Korm. határozat 5. pontja iktatta be.
 [^12]: A 12. pontot az 1133/2022. (III. 8.) Korm. határozat 4. pontja iktatta be.
 [^13]: A 13. pontot az 1133/2022. (III. 8.) Korm. határozat 5. pontja iktatta be.
+[^14]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.

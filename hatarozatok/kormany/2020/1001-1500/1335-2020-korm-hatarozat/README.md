@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1335-30
 | 2020-12-24 | 2020-1335-30-22.2 | 2013/2020. (XII. 24.) Korm. határozat |
 | 2022-03-09 | 2020-1335-30-22.3 | 1133/2022. (III. 8.) Korm. határozat |
 | 2023-06-05 | 2020-1335-30-22.5 | 1133/2022. (III. 8.) Korm. határozat |
+| 2024-01-01 | 2020-1335-30-22.4 | 2011: CXCV. törvény |
