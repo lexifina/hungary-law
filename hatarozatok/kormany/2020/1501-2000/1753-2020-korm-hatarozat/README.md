@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1753-30
 | --- | --- | --- |
 | 2020-11-11 | 2020-1753-30-22.1 | 1753/2020. (XI. 11.) Korm. határozat |
 | 2021-12-20 | 2020-1753-30-22.2 | 1929/2021. (XII. 20.) Korm. határozat |
+| 2024-01-01 | 2020-1753-30-22.3 | 2011: CXCV. törvény |
