@@ -1,4 +1,4 @@
-53. § (1) Lőfegyverhasználatnak csak a szándékosan, személyre leadott lövés minősül.
+53. § (1) Lőfegyverhasználatnak csak a szándékosan, emberre leadott lövés minősül.
 
 (2) Ha e törvény szerint a lőfegyverhasználat feltétele fennáll, a rendőr bármely dolgot fegyverként használhat. A lőfegyver használatára vonatkozó szabályokat ebben az esetben is értelemszerűen alkalmazni kell.
 

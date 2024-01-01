@@ -1,5 +1,11 @@
-55. § Nincs helye lőfegyverhasználatnak — a fegyveresen vagy felfegyverkezve elkövetett támadás, fegyveres ellenállás leküzdése, illetőleg a tömegben lévő személlyel szembeni használat (57. §) kivételével — ha
+55. § Nincs helye lőfegyverhasználatnak
 
-a) olyan személy életét vagy testi épségét veszélyezteti, akivel szemben a lőfegyverhasználat feltételei nem állnak fenn;
+a) – a fegyveresen vagy felfegyverkezve elkövetett támadás, fegyveres ellenállás leküzdése, illetve a tömegben lévő személlyel szembeni használat (57. §) kivételével –, ha olyan személy életét vagy testi épségét veszélyezteti, akivel szemben a lőfegyverhasználat feltételei nem állnak fenn;
 
-b) a rendőri intézkedés célja tárgyra vagy állatra leadott lövéssel is elérhető.
+b) abban az esetben, ha a rendőri intézkedés célja
+
+ba) állatra leadott lövéssel, vagy
+
+bb) a kényszerítő eszköz alkalmazásának a helyettesítésével (15/A. §)
+
+is elérhető.
