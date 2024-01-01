@@ -1,3 +1,3 @@
-63. §[^421]
+63. §[^422]
 
-[^421]: A 63. §-t a 256/2005. (XII. 7.) Korm. rendelet 28. § (1) bekezdésének d) pontja hatályon kívül helyezte.
+[^422]: A 63. §-t a 256/2005. (XII. 7.) Korm. rendelet 28. § (1) bekezdésének d) pontja hatályon kívül helyezte.

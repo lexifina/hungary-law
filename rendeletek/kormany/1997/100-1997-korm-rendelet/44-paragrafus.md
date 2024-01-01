@@ -1,6 +1,6 @@
-44. § (1)[^278] Az érettségi vizsga eredményét, a vizsgabizottság még nem ismertetett döntéseit a vizsgázók és a vizsgabizottság tagjai jelenlétében az elnök az eredményhirdető értekezleten ismerteti. Az eredmény kihirdetése nyilvános. A vizsgabizottság elnöke a vizsgaeredmények kihirdetése előtt röviden értékeli az érettségi vizsgát.
+44. § (1)[^279] Az érettségi vizsga eredményét, a vizsgabizottság még nem ismertetett döntéseit a vizsgázók és a vizsgabizottság tagjai jelenlétében az elnök az eredményhirdető értekezleten ismerteti. Az eredmény kihirdetése nyilvános. A vizsgabizottság elnöke a vizsgaeredmények kihirdetése előtt röviden értékeli az érettségi vizsgát.
 
-(2)[^279] Az eredményhirdető értekezleten ismertetett vizsgabizottsági döntések elleni jogorvoslatra rendelkezésre álló időt az értekezletet követő első naptól kell számítani.
+(2)[^280] Az eredményhirdető értekezleten ismertetett vizsgabizottsági döntések elleni jogorvoslatra rendelkezésre álló időt az értekezletet követő első naptól kell számítani.
 
-[^278]: A 44. § (1) bekezdése a 233/2004. (VIII. 6.) Korm. rendelet 53. §-a szerint módosított szöveg.
-[^279]: A 44. § (2) bekezdése a 36/2015. (III. 6.) Korm. rendelet 11. § k) pontja szerint módosított szöveg.
+[^279]: A 44. § (1) bekezdése a 233/2004. (VIII. 6.) Korm. rendelet 53. §-a szerint módosított szöveg.
+[^280]: A 44. § (2) bekezdése a 36/2015. (III. 6.) Korm. rendelet 11. § k) pontja szerint módosított szöveg.

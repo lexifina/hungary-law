@@ -42,9 +42,11 @@ e) 0–24% elérése esetén elégtelen (1).
 
 (6a)[^269] A szakgimnáziumban, szakképző iskolában és a technikumban az érettségi vizsgára felkészítő két évfolyamos képzésekben tanulói jogviszonyban tett, valamint a középiskola elvégzése után, tanulói jogviszonyon kívül befejezett érettségi vizsgák esetében az érettségi bizonyítvány kiállítható akkor is, ha a vizsgázó sikeresen teljesítette a kötelező vizsgatárgyak érettségi vizsgáit, és az iskolai rendszerű nevelésben-oktatásban szerzett, államilag elismert szakképesítéssel vagy szakmával rendelkezik.
 
-(6c)[^270] Technikumban a tanulói jogviszonyban az érettségi bizonyítvány akkor állítható ki, ha a vizsgázó sikeresen teljesítette a kötelező vizsgatárgyak érettségi vizsgáit, és emellett a technikum szakmai programjában számára előírt szakmai vizsgát sikeresen letette.
+(6b)[^270] Szakgimnáziumban tanulói jogviszonyban az érettségi bizonyítvány kiállítható akkor is, ha a vizsgázó sikeresen teljesítette a kötelező vizsgatárgyak érettségi vizsgáit, és emellett a szakgimnázium pedagógiai programjában számára előírt képesítő vizsgát sikeresen letette.
 
-(7)[^271] A kétszintű érettségi vizsga bevezetése előtt tett tantárgyi érettségi vizsga a kétszintű rendszerben középszinten tett érettségi vizsgának minősül, és az érdemjegyek a következő százalékos teljesítésnek felelnek meg:
+(6c)[^271] Technikumban a tanulói jogviszonyban az érettségi bizonyítvány akkor állítható ki, ha a vizsgázó sikeresen teljesítette a kötelező vizsgatárgyak érettségi vizsgáit, és emellett a technikum szakmai programjában számára előírt szakmai vizsgát sikeresen letette.
+
+(7)[^272] A kétszintű érettségi vizsga bevezetése előtt tett tantárgyi érettségi vizsga a kétszintű rendszerben középszinten tett érettségi vizsgának minősül, és az érdemjegyek a következő százalékos teljesítésnek felelnek meg:
 
 a) jeles (5) 100%,
 
@@ -54,7 +56,7 @@ c) közepes (3) 59%,
 
 d) elégséges (2) 39%.
 
-(8)[^272] Pótló érettségi vizsga esetén az előzőleg sikeresen teljesített vizsgarészeket – amíg a központi vizsgakövetelmények az adott vizsgatárgyban nem változnak – nem kell megismételni.
+(8)[^273] Pótló érettségi vizsga esetén az előzőleg sikeresen teljesített vizsgarészeket – amíg a központi vizsgakövetelmények az adott vizsgatárgyban nem változnak – nem kell megismételni.
 
 [^259]: A 41. § a 78/2002. (IV. 13.) Korm. rendelet 16. §–ával megállapított szöveg.
 [^260]: A 41. § (1) bekezdése a 253/2006. (XII. 7.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
@@ -67,6 +69,7 @@ d) elégséges (2) 39%.
 [^267]: A 41. § eredeti (4) bekezdésének számozását a 71/2003. (V. 27.) Korm. rendelet 6. § (3) bekezdése (5) bekezdésre változtatta, hatályon kívül helyezte a 6/2008. (I. 22.) Korm. rendelet 12. § (4) bekezdésének c) pontja.
 [^268]: A 41. § eredeti (5) bekezdésének számozását (6) bekezdésre változtatta a 71/2003. (V. 27.) Korm. rendelet 6. § (3) bekezdése, szövege a 233/2004. (VIII. 6.) Korm. rendelet 29. §-ának (3) bekezdésével megállapított szöveg.
 [^269]: A 41. § (6a) bekezdését a 65/2021. (II. 15.) Korm. rendelet 7. § (1) bekezdése iktatta be.
-[^270]: A 41. § (6c) bekezdését a 65/2021. (II. 15.) Korm. rendelet 7. § (3) bekezdése iktatta be.
-[^271]: A 41. § (7) bekezdését a 71/2003. (V. 27.) Korm. rendelet 6. § (4) bekezdése iktatta a szövegbe.
-[^272]: A 41. § (8) bekezdését a 233/2004. (VIII. 6.) Korm. rendelet 29. § (4) bekezdése iktatta be, szövege a 65/2021. (II. 15.) Korm. rendelet 13. § (1) bekezdés 24. pontja szerint módosított szöveg.
+[^270]: A 41. § (6b) bekezdését a 65/2021. (II. 15.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^271]: A 41. § (6c) bekezdését a 65/2021. (II. 15.) Korm. rendelet 7. § (3) bekezdése iktatta be.
+[^272]: A 41. § (7) bekezdését a 71/2003. (V. 27.) Korm. rendelet 6. § (4) bekezdése iktatta a szövegbe.
+[^273]: A 41. § (8) bekezdését a 233/2004. (VIII. 6.) Korm. rendelet 29. § (4) bekezdése iktatta be, szövege a 65/2021. (II. 15.) Korm. rendelet 13. § (1) bekezdés 24. pontja szerint módosított szöveg.

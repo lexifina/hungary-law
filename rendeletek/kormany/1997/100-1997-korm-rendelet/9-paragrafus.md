@@ -24,7 +24,7 @@ g) ismétlő
 
 (3)[^30] Előrehozott érettségi vizsga a tanulói jogviszony fennállása alatt, az érettségi bizonyítvány megszerzése előtt egyes érettségi vizsgatárgyból első alkalommal letett érettségi vizsga, amely letehető
 
-a)[^31] a 12. § (1) bekezdésében meghatározott idegen nyelvekből, informatikából a középiskolai tanulmányok befejező tanévét megelőző második tanév május–júniusi vizsgaidőszakában, valamint az azt követő vizsgaidőszakokban, továbbá
+a)[^31] a 12. § (1) bekezdésében meghatározott idegen nyelvekből a középiskolai tanulmányok befejező tanévét megelőző második tanév május–júniusi vizsgaidőszakában, valamint az azt követő vizsgaidőszakokban, továbbá
 
 b)[^32] olyan érettségi vizsgatárgyból, amelyeknél a tanuló számára az adott vizsgatárgy vizsgájára való jelentkezés feltételeinek teljesítéséhez szükséges tantárgy, tantárgyak tanítása a középiskola helyi tanterve szerint a középiskolai tanulmányok befejező tanévét megelőző tanévek valamelyikében lezárul, először a középiskolai tanulmányok befejező tanévét megelőző második tanév május–júniusi vizsgaidőszakában, valamint az azt követő vizsgaidőszakokban.
 
@@ -54,7 +54,7 @@ d) az érettségi bizonyítvány megszerzése előtti szintemelő érettségi vi
 
 [^29]: A 9. § (1) bekezdésének második mondata a 233/2004. (VIII. 6.) Korm. rendelet 53. §-a, záró szövegrésze a 6/2008. (I. 22.) Korm. rendelet 12. § (3) bekezdésének e) pontja szerint módosított szöveg.
 [^30]: A 9. § (3) bekezdése a 417/2020. (VIII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^31]: A 9. § (3) bekezdés a) pontja a 165/2022. (IV. 28.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^31]: A 9. § (3) bekezdés a) pontja a 165/2022. (IV. 28.) Korm. rendelet 6. § a) pontja és 7. § (1) bekezdése szerint módosított szöveg.
 [^32]: A 9. § (3) bekezdés b) pontja a 165/2022. (IV. 28.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
 [^33]: A 9. § (3a) bekezdését a 278/2019. (XI. 21.) Korm. rendelet 1. §-a iktatta be.
 [^34]: A 9. § (4) bekezdése a 233/2004. (VIII. 6.) Korm. rendelet 5. §-ának (1) bekezdésével megállapított szöveg.

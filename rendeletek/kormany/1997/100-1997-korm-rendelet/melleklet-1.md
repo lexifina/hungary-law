@@ -1,3 +1,3 @@
-1. számú melléklet a 100/1997. (VI. 13.) Korm. rendelethez[^424]
+1. számú melléklet a 100/1997. (VI. 13.) Korm. rendelethez[^425]
 
-[^424]: Az 1. számú melléklet a 221/2014. (IX. 4.) Korm. rendelet 172. § b) pontja szerint módosított szöveg.
+[^425]: Az 1. számú melléklet a 221/2014. (IX. 4.) Korm. rendelet 172. § b) pontja szerint módosított szöveg.
