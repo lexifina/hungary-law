@@ -18,22 +18,12 @@
 
 ## d) egyetért az Aquinói Szent Tamás Közéleti Műhely működésének és programjainak támogatásával;
 
-## e) a d) alpont szerinti cél érdekében az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva 30 000 000 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet LXV. Bethlen Gábor Alap fejezet, 4. Nemzetpolitikai célú támogatások cím terhére, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 33. Civil és non-profit szervezetek támogatása jogcímcsoport javára, az 1. melléklet szerint.
+## e)[^1]
 
-## Felelős: pénzügyminiszter
+## 2.[^2]
 
-## a miniszterelnök általános helyettese
+1. melléklet az 1387/2020. (VII. 10.) Korm. határozathoz[^3]
 
-## Miniszterelnökséget vezető miniszter
-
-## Határidő: azonnal
-
-## 2.[^1]
-
-1. melléklet az 1387/2020. (VII. 10.) Korm. határozathoz
-
-XI. Miniszterelnökség
-
-XLII. A költségvetés közvetlen bevételei és kiadásai
-
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont e) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
