@@ -1,4 +1,4 @@
-9/A. §[^13] (1) A közszolgálati tisztviselő gyermeke nyolcéves koráig, valamint a gondozást végző közszolgálati tisztviselő kérheti
+9/A. §[^16] (1) A közszolgálati tisztviselő gyermeke nyolcéves koráig, valamint a gondozást végző közszolgálati tisztviselő kérheti
 
 a) a munkavégzés helyének módosítását,
 
@@ -16,4 +16,4 @@ b) az (1) bekezdés szerinti atipikus foglalkoztatásra való áttérés általa
 
 (3) A közszolgálati tisztviselő kérelmének elfogadásáról vagy elutasításáról a munkáltatói jogkör gyakorlója tizenöt napon belül írásban köteles nyilatkozni. A kérelem elutasítását a munkáltatói jogkör gyakorlója köteles írásban megindokolni.
 
-[^13]: A 9/A. §-t az 534/2022. (XII. 21.) Korm. rendelet 7. §-a iktatta be.
+[^16]: A 9/A. §-t az 534/2022. (XII. 21.) Korm. rendelet 7. §-a iktatta be.
