@@ -2,9 +2,9 @@
 
 a)
 
-b)
+b) 20. § (4) bekezdés c) pontjában a „keresőtevékenység folytatása céljából,” szövegrész,
 
-c)
+c) 20. § (5) bekezdésében a „vagy hatvanhat munkanapon” szövegrész,
 
 d)
 
@@ -12,8 +12,8 @@ e)
 
 f)
 
-g)
+g) 54. § (6) bekezdés d) pontjában a „vagy” szövegrész,
 
-h)
+h) 73. § (1) bekezdés e) pontjában az „és” szövegrész,
 
-i)
+i) 73. § (1) bekezdés f) pontja.

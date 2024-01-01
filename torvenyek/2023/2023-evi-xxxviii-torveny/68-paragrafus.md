@@ -4,13 +4,13 @@ a)
 
 b)
 
-c)
+c) 54. § (6) bekezdés e) pontjában a „kerül.” szövegrész helyébe a „kerül, vagy” szöveg,
 
-d)
+d) 54. § (8) bekezdésében a „pontja alapján” szövegrész helyébe a „pontja, valamint a (6a) bekezdés alapján” szöveg,
 
-e)
+e) 63. § (2) bekezdésében a „kifogással élhet” szövegrész helyébe a „végrehajtási kifogással élhet” szöveg,
 
-f)
+f) 73. § (1) bekezdés d) pontjában az „időpontja;” szövegrész helyébe az „időpontja és” szöveg,
 
 g)
 
