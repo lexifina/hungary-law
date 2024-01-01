@@ -1,11 +1,17 @@
-## 9. § A Kormány nemzeti felsőoktatási kiválóság ösztöndíjat alapít.
+10. § (1) A hallgató kutatói kiválóságának támogatásaként EKÖP ösztöndíj adományozható annak a kiváló kutatási, innovációs, illetve művészeti teljesítményt nyújtó,
 
-10. §[^5] (1) A hallgató kutatói kiválóságának támogatásaként nemzeti felsőoktatási kiválóság ösztöndíj adományozható annak a kiváló teljesítményt nyújtó, alapképzésben, mesterképzésben vagy doktori képzésben részt vevő hallgatónak, aki felsőoktatási intézmény keretében az ösztöndíjas jogviszony alatt kutatási tevékenységet végez.
+a) alapképzésben részt vevő hallgatónak,
 
-(2)[^6] Az ösztöndíjas jogviszony feltétele, hogy a hallgató az ösztöndíjas jogviszony létesítésekor igazolni tudja az aktív hallgatói jogviszonyát. Alapképzésen teljes idejű képzés igazolható, mesterképzésen, valamint doktori képzésen bármely munkarendben végzett tanulmány igazolható. A pályázat benyújtásának nem feltétele a hallgatói jogviszony megléte, az ösztöndíjra pályázhatnak a felsőoktatási felvételi eljárásra jelentkezők is.
+b) mesterképzésben részt vevő hallgatónak,
 
-(3)[^7] Az ösztöndíj feltételeként meghatározott kutatási eredmény – vagy a pályázati kiírásban, valamint az ösztöndíjprogram működési szabályzatában meghatározott egyéb teljesítés – más állami ösztöndíj-támogatás eredményeként nem számolható el.
+c) doktori képzésben részt vevő hallgatónak, vagy
 
-[^5]: A 10. § az 59/2016. (III. 25.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^6]: A 10. § (2) bekezdése a 407/2017. (XII. 15.) Korm. rendelet 30. §-ával megállapított szöveg.
-[^7]: A 10. § (3) bekezdése a 4/2019. (I. 24.) Korm. rendelet 7. §-ával megállapított szöveg.
+d) oktatónak, kutatónak, aki a doktori fokozatot 5 éven belül szerezte és
+
+aki felsőoktatási intézmény keretében az ösztöndíjas jogviszony alatt kutatási tevékenységet végez.
+
+(2) Az (1) bekezdés d) pontja szerinti időtartam vonatkozásában a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) 45. § (2) bekezdése szerinti feltételek fennállása esetén a felsőoktatási intézmény méltányosságot gyakorolhat.
+
+(3) Az EKÖP kerettel rendelkező felsőoktatási intézmény köteles valamennyi az (1) bekezdés szerinti képzési szinten – amennyiben ilyen képzést indít – meghirdetni az EKÖP ösztöndíj pályázatot, amelynek időpontjáról tájékoztatja az EKÖP Tanácsot.
+
+(4) Az EKÖP ösztöndíj feltételeként meghatározott kutatási vagy egyéb eredmény állami ösztöndíj-támogatás eredményeként nem számolható el.
