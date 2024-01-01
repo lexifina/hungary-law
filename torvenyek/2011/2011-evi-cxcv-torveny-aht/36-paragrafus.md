@@ -42,7 +42,7 @@ b) – a központi költségvetésről szóló törvény eltérő rendelkezése 
 
 (4g) A Kormány a (4f) bekezdés szerint adott felhatalmazása a tárgyévi és éven túli kötelezettségek együttes összegét tartalmazza, továbbá a felhatalmazásnak a beruházás megvalósításáról szóló, a megvalósításban érintett felek által kölcsönösen elfogadott szerződésen – így különösen kivitelezési szerződésen – kell alapulnia.
 
-(4h) A (4g) bekezdés szerinti felhatalmazás összeghatár meghatározásával is megadható, ebben az esetben a kötelezettségvállalás végleges – a beruházás megvalósításáról szóló, a megvalósításban érintett felek által kölcsönösen elfogadott szerződésnek megfelelő – összegéről a kötelezettségvállalással érintett költségvetési fejezetet irányító szerv vezetője az államháztartásért felelős minisztert írásban tájékoztatja.
+(4h) A (4g) bekezdés szerinti felhatalmazás összeghatár meghatározásával is megadható, ebben az esetben a kötelezettségvállalás végleges – a beruházás megvalósításáról szóló, a megvalósításban érintett felek által kölcsönösen elfogadott szerződésnek megfelelő – összegéről a kötelezettségvállalással érintett költségvetési fejezetet irányító szerv vezetője az állami beruházásokért felelős minisztert, valamint az államháztartásért felelős minisztert írásban tájékoztatja.
 
 (4i) A Kormány által adott felhatalmazás kiterjedhet a Beruházási Alappal érintett beruházások előkészítésére, továbbá az e beruházásokhoz közvetlenül szükséges ingatlanszerzésre is. Ebben az esetben a (4g) és (4h) bekezdésben foglaltakat a beruházás előkészítésére, valamint az ingatlanszerzésre irányuló szerződésre kell alkalmazni.
 
