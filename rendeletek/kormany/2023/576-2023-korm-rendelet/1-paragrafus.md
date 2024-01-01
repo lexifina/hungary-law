@@ -1,0 +1,3 @@
+1. § A Nemzeti Rendezvényszervező Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság kijelöléséről és egyes feladatainak meghatározásáról szóló 591/2022. (XII. 28.) Korm. rendelet 13. §-a a következő (7) bekezdéssel egészül ki:
+
+„(7) A 2023. január 1-jét követően megrendezésre kerülő sportesemények megszervezésével kapcsolatos feladatokra 2022. december 31-ig létrejött és 2023. december 31. napján folyamatban lévő támogatási jogviszonyok tekintetében a Nemzeti Sportügynökség az NRÜ Zrt. jogutódja, amelyhez harmadik fél hozzájárulása nem szükséges, a jogutódlásról a szerződésben, megállapodásban részes feleket értesíteni kell.”
