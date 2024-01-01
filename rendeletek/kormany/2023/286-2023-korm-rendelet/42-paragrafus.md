@@ -1,5 +1,5 @@
 ## 12. A dohánytermékek előállításáról, forgalomba hozataláról és ellenőrzéséről, a kombinált figyelmeztetésekről, valamint az egészségvédelmi bírság alkalmazásának részletes szabályairól szóló 39/2013. (II. 14.) Korm. rendelet módosításáról
 
-42. §[^52]
+42. §[^46]
 
-[^52]: A 42. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^46]: A 42. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
