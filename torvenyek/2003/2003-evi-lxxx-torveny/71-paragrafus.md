@@ -16,4 +16,8 @@ d) a jogi segítő tevékenységének gyakorlása jogszabály megkerülésére v
 
 (3a) A (3) bekezdés a) pont szerinti azon feltételt, hogy a jogi segítő – vagy más ügyvéd megbízottal nem rendelkező jogi segítő szervezet esetében a nevében eljáró ügyvéd – fegyelmi felelősségét megállapították, a jogi segítségnyújtó szolgálat megkeresésére az ügyvédi kamara a 66. § (4c) bekezdésében meghatározottak szerint igazolja.
 
+(3b) Ha a jogi segítségnyújtó szolgálat a jogi segítőt a 71. § (3) bekezdésben foglalt okból törli a névjegyzékből, a jogi segítőt a szerződés felmondásától számított további három évig nem lehet ismételten felvenni a névjegyzékbe.
+
+(3c) Az a jogi segítő, akinek a szolgáltatási szerződése a 71. § (3) bekezdés szerint felmondásra került, a felmondástól számított három évig nem köthet jogi segítő szervezettel jogi szolgáltatásra irányuló megbízási szerződést.
+
 (4) A jogi segítő a szerződést akkor mondhatja fel, ha a névjegyzékbe történő felvétel feltételei megszűntek, vagy ha a jogi segítői névjegyzékbe felvett ügyvéd igazolja, hogy a szolgáltatási szerződésből eredő kötelezettségek teljesítése egyéb ügyvédi tevékenységének végzését lehetetlenné teszi. A jogi segítő a szerződés felmondását tartalmazó nyilatkozatát elektronikus kapcsolattartás útján nyújtja be a jogi segítségnyújtó szolgálatnak. Az elektronikus úton való kapcsolattartásra az E-ügyintézési törvény rendelkezéseit kell alkalmazni.

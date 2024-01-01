@@ -10,7 +10,7 @@ c) átmeneti szállást igénybe vevő hajléktalan személy,
 
 d) menekült, menedékes, menekültkénti vagy menedékeskénti, illetve hontalankénti elismerését kérő, továbbá az ideiglenes vagy kiegészítő védelemben részesítését kérő személy, valamint a dublini átadás végrehajtása érdekében menekültügyi őrizetbe vett külföldi, a jövedelmi és vagyoni helyzetéről tett nyilatkozata alapján a számára biztosított ellátásra és támogatásra jogosult,
 
-e) vízumkiadása, tartózkodási engedély vagy letelepedett jogállás megszerzése, illetve honosítás iránti üggyel kapcsolatban jogi segítségnyújtást kérő olyan személy, akinek a felmenője magyar állampolgár vagy az volt, továbbá a visszahonosításra irányuló eljárásban részt vevő személy,
+e) vízumkiadása, tartózkodási engedély vagy huzamos tartózkodási jogosultság megszerzése, illetve honosítás iránti üggyel kapcsolatban jogi segítségnyújtást kérő olyan személy, akinek a felmenője magyar állampolgár vagy az volt, továbbá a visszahonosításra irányuló eljárásban részt vevő személy,
 
 f) a családjában olyan gyermeket gondoz, akinek a rendszeres gyermekvédelmi kedvezményre való jogosultságát megállapították,
 
