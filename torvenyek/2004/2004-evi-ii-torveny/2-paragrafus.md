@@ -98,7 +98,7 @@ a) az a magyar állampolgár, aki rendelkezik Magyarország területén a polgá
 
 b) az az EGT-állampolgár, illetve családtagja, aki rendelkezik Magyarország területén a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel és életvitelszerűen Magyarország területén lakik;
 
-c) az a harmadik országbeli állampolgár, aki EK vagy nemzeti letelepedési engedéllyel rendelkezik és életvitelszerűen Magyarország területén lakik.
+c) az a harmadik országbeli állampolgár, aki EK letelepedési engedéllyel, nemzeti letelepedési engedéllyel, EU tartózkodási kártyával vagy nemzeti tartózkodási kártyával rendelkezik és életvitelszerűen Magyarország területén lakik.
 
 35. életvitelszerűség: életvitelszerűen Magyarország területén lakik az a magyar, EGT-állampolgár, vagy harmadik országbeli állampolgár, aki a 31/B. § (2a) bekezdése szerinti gyártási időszak (előkészítés) kezdetének napját megelőző hároméves időszakban Magyarország területén megszakítás nélkül bejelentett lakóhellyel rendelkezik.
 
