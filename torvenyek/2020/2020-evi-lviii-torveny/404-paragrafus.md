@@ -4,6 +4,6 @@
 
 (2) Az (1) bekezdés szerint megkezdett tevékenység az engedélyre jogszabályban meghatározott leghosszabb hatályossági idő végéig folytatható.
 
-(3) A bejelentő kérelmére a hatóság az (1) bekezdés szerinti joghatás beálltáról a bejelentőt értesíti. Az értesítés iránti kérelem akár a bejelentéssel egyidejűleg, akár azt követően a (2) bekezdés szerinti hatályossági idő végéig előterjeszthető.
+(3) A hatóság az (1) bekezdés szerinti joghatás beálltáról – ha az értesítés mellőzését nem kérte a bejelentő – 5 napon belül tájékoztatja a bejelentőt. Az értesítés kézhezvétele nélkül is gyakorolható a tevékenység, ha az (1) bekezdésben meghatározott feltételek fennállnak.
 
 (4) A bejelentés alapján történő joggyakorlás a felügyeleti díjjal kapcsolatos kötelezettségeket nem érinti.

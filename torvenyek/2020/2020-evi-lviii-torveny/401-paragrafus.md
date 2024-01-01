@@ -2,11 +2,7 @@
 
 401. § (1) A bejelentést az engedélykérelemre jogszabályban előírt adattartalommal kell benyújtani.
 
-(2) A bejelentéshez mellékelni kell az engedélykérelem jogszabályban előírt mellékleteit. A bejelentéshez okiratot kell mellékelni, amelyben a bejelentő
-
-a) tájékoztatást ad a joggyakorlás által érintett további ügyfelek személyéről, és
-
-b) nyilatkozik arról, hogy a további ügyfeleket a bejelentés benyújtásának szándékáról, a benyújtás időpontjáról és az eljáró hatóságról tájékoztatta.
+(2) A bejelentéshez mellékelni kell az engedélykérelem jogszabályban előírt mellékleteit.
 
 (3) A bejelentés kizárólag elektronikus úton tehető meg. E fejezet alkalmazásában elektronikus úton megtett bejelentésnek minősül az ügyfélkapu útján, elektronikus űrlap útján, általános célú elektronikus kérelem űrlap szolgáltatás útján, valamint e-mail útján megtett bejelentés is. Ha jogszabály az engedélyezésre az elektronikus benyújtás valamely módját vagy módjait kizárólagosan előírja, a bejelentést csak azon a módon vagy módokon lehet megtenni.
 

@@ -77,3 +77,7 @@ vonatkozó szabályait.
 (5) Az e fejezet szerinti bejelentés alapján történő joggyakorlás lehetőségét törvény nem zárhatja ki.
 
 (6) Az ügyfél dönthet úgy, hogy a tevékenységet az e fejezet szerinti bejelentés helyett engedély alapján kívánja végezni. Ha az ügyfél bejelentés helyett engedélykérelmet terjeszt elő, e fejezet rendelkezései az adott ügyben nem alkalmazhatók.
+
+(7) Amennyiben az ügyfél az e fejezet hatálya alá tartozó eljárásokban engedélyezési eljárást indít – feltéve, hogy a kérelem benyújtásától számított öt napon belül nem merül fel a kérelem visszautasításának, az eljárás megszüntetésének, felfüggesztésének vagy a kérelem elutasításának szükségessége, illetve a 403. § szerinti körülmény –, a hatóság elektronikus úton felhívja a kérelmező figyelmét arra, hogy a tevékenység engedély helyett bejelentés alapján is végezhető. A figyelemfelhívás kiterjed a bejelentés intézésének teljes körű ismertetésére, ideértve a közérdek érvényre juttatása körében alkalmazandó szabályokat is.
+
+(8) Ha a kérelmező a (7) bekezdés szerinti felhívásban foglalt határidőben úgy nyilatkozik, hogy a kérelmét bejelentésként kéri kezelni, úgy e fejezet szerint kell eljárni. Ebben az esetben a hatóság gondoskodik a megfizetett díj e fejezet szerinti részének visszafizetéséről.
