@@ -4,6 +4,6 @@
 
 (3) Átértékelés esetében az eszközöket piaci értékükön, a kötelezettségeket az elfogadott, illetve a várható összegben kell a vagyonmérlegben szerepeltetni.
 
-(4)
+(4) Leválás során – ha törvény eltérően nem rendelkezik – a kiválásra vonatkozó előírásokat kell megfelelően alkalmazni.
 
 (5)

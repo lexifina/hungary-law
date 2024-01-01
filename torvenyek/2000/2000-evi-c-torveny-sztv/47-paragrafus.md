@@ -10,7 +10,7 @@ b) az előzetesen felszámított, de le nem vonható általános forgalmi adó,
 
 c) a jogszabályon alapuló hatósági igazgatási, szolgáltatási díj,
 
-d) az egyéb hatósági igazgatási, szolgáltatási eljárási díj (környezetvédelmi termékdíj, szakértői díj),
+d) az egyéb hatósági igazgatási, szolgáltatási eljárási díj (környezetvédelmi termékdíj, visszaváltási díj, szakértői díj),
 
 e) a vásárolt vételi opció díja [a 47. § (12) bekezdésében, valamint a 61. § (2) bekezdésében foglaltak kivételével].
 

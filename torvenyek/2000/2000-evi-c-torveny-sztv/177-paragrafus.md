@@ -192,6 +192,96 @@ a képesítés megszerzését megelőző számviteli, pénzügyi, ellenőrzési 
 
 (91) E törvénynek a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 134/G. § (3a) bekezdését először a 2024. június 22-én vagy azt követően induló üzleti évről készített beszámolóra kell alkalmazni.
 
+(92) E törvénynek az egyes adótörvények módosításáról szóló 2023. évi LXXXIII. törvénnyel megállapított 3. § (7) bekezdés 1. pontját, 26. § (3) bekezdését, 29. § (8) bekezdését, 37. § (1) bekezdés g) és h) pontját, 45. § (5) bekezdését, 47. § (2) bekezdés d) pontját, 48. § (4) bekezdését, 72. § (4) bekezdés d) pontját, 73. § (2) bekezdés f) pontját, 78. § (2) és (5) bekezdését, 81. § (2) bekezdés r) pontját először a 2024. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+
+(93) E törvénynek az egyes adótörvények módosításáról szóló 2023. évi LXXXIII. törvénnyel megállapított 3. § (7) bekezdés 1. pontját, 26. § (3) bekezdését, 37. § (1) bekezdés g) és h) pontját, 45. § (5) bekezdését, 48. § (4) bekezdését, 72. § (4) bekezdés d) pontját a 2023. évben induló üzleti évről készített beszámolóra is alkalmazni lehet.
+
 (94) E törvénynek a globális minimum-adószintet biztosító kiegészítő adókról és ezzel összefüggésben egyes adótörvények módosításáról szóló 2023. évi LXXXIV. törvénnyel megállapított 3. § (16) bekezdését, 37. § (8) és (9) bekezdését, 38. § (3) bekezdés b) pontját, 45/A. §-át, 87. § (2), (2a) és (3) bekezdését, 91. § c) pontját, 92. § (5) bekezdését, 132. §-át, valamint az 1., 2., 3. és 6. számú mellékletét először a 2024. évben induló üzleti évről készített beszámolóra kell alkalmazni.
 
 (95) E törvénynek a globális minimum-adószintet biztosító kiegészítő adókról és ezzel összefüggésben egyes adótörvények módosításáról szóló 2023. évi LXXXIV. törvénnyel megállapított 3. § (16) bekezdését, 37. § (8) és (9) bekezdését, 38. § (3) bekezdés b) pontját, 45/A. §-át, 87. § (2), (2a) és (3) bekezdését, 91. § c) pontját, 92. § (5) bekezdését, 132. §-át, valamint az 1., 2., 3. és 6. számú mellékletét a 2023. évben induló üzleti évről készített beszámolóra is alkalmazni lehet.
+
+(96) Az a közérdeklődésre számot tartó gazdálkodónak minősülő vállalkozó, amelynél
+
+a) az üzleti évet megelőző két – egymást követő – üzleti évben a mérleg fordulónapján a következő három mutatóérték közül bármelyik kettő meghaladta az alábbi határértéket:
+
+aa) a mérlegfőösszeg a 10 000 millió forintot,
+
+ab) az éves nettó árbevétel a 20 000 millió forintot,
+
+ac) az üzleti évben átlagosan foglalkoztatottak száma a 250 főt, és
+
+b) az adott üzleti évben átlagosan foglalkoztatottak száma meghaladja az 500 főt,
+
+e törvénynek a fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény (a továbbiakban: Mód2. törvény) által megállapított fenntarthatósági jelentésre vonatkozó előírásait először a 2024. évben induló üzleti évre alkalmazza.
+
+(97) Az az összevont (konszolidált) éves beszámolót készítő, közérdeklődésre számot tartó gazdálkodónak minősülő anyavállalat, amelynél
+
+a) az üzleti évet megelőző két – egymást követő – üzleti évben a mérleg fordulónapján a következő három mutatóérték közül bármelyik kettő meghaladja az alábbi határértékeket:
+
+aa) a mérlegfőösszeg a 10 000 millió forintot,
+
+ab) az éves nettó árbevétel a 20 000 millió forintot,
+
+ac) az üzleti évben átlagosan foglalkoztatottak száma a 250 főt, és
+
+b) az adott üzleti évben átlagosan foglalkoztatottak száma meghaladja az 500 főt,
+
+e törvénynek a Mód2. törvény által megállapított összevont (konszolidált) fenntarthatósági jelentésre vonatkozó előírásait először a 2024. évben induló üzleti évre alkalmazza.
+
+(98) Az a vállalkozó, amelynél az üzleti évet megelőző két – egymást követő – üzleti évben a mérleg fordulónapján a következő három mutatóérték közül bármelyik kettő meghaladta az alábbi határértéket:
+
+a) a mérlegfőösszeg a 10 000 millió forintot,
+
+b) az éves nettó árbevétel a 20 000 millió forintot,
+
+c) az üzleti évben átlagosan foglalkoztatottak száma a 250 főt,
+
+e törvénynek a Mód2. törvény által megállapított fenntarthatósági jelentésre vonatkozó előírásait először a 2025. évben induló üzleti évre alkalmazza.
+
+(99) Az az összevont (konszolidált) éves beszámolót készítő anyavállalat, amelynél az üzleti évet megelőző két – egymást követő – üzleti évben a mérleg fordulónapján a következő három mutatóérték közül bármelyik kettő meghaladja az alábbi határértékeket:
+
+a) a mérlegfőösszeg a 10 000 millió forintot,
+
+b) az éves nettó árbevétel a 20 000 millió forintot,
+
+c) az üzleti évben átlagosan foglalkoztatottak száma a 250 főt,
+
+e törvénynek a Mód2. törvény által megállapított összevont (konszolidált) fenntarthatósági jelentésre vonatkozó előírásait először a 2025. évben induló üzleti évre alkalmazza.
+
+(100) Az a mikrogazdálkodónak nem minősülő vállalkozó, amelynek átruházható értékpapírjait az Európai Gazdasági Térség valamely államának szabályozott piacán kereskedésre befogadták, e törvénynek a Mód2. törvény által megállapított fenntarthatósági jelentésre vonatkozó előírásait először a 2026. évben induló üzleti évre alkalmazza.
+
+(101) Az az (EU) 575/2013 rendelet 4. cikke (1) bekezdésének 145. pontjában meghatározott kisméretű és nem összetett intézmény,
+
+a) amelynél az üzleti évet megelőző két – egymást követő – üzleti évben a mérleg fordulónapján a következő három mutatóérték közül bármelyik kettő meghaladta az alábbi határértéket:
+
+aa) a mérlegfőösszeg a 10 000 millió forintot,
+
+ab) az éves nettó árbevétel a 20 000 millió forintot,
+
+ac) az üzleti évben átlagosan foglalkoztatottak száma a 250 főt, vagy
+
+b) olyan, mikrogazdálkodónak nem minősülő vállalkozás, amelynek átruházható értékpapírjait az Európai Gazdasági Térség valamely államának szabályozott piacán kereskedésre befogadták,
+
+e törvénynek a Mód2. törvény által megállapított fenntarthatósági jelentésre vonatkozó előírásait először a 2026. évben induló üzleti évre alkalmazza.
+
+(102) Az a 2009/138/EK európai parlamenti és tanácsi irányelv 13. cikkének 2. pontjában meghatározott zárt biztosító, és a 2009/138/EK európai parlamenti és tanácsi irányelv 13. cikkének 5. pontjában meghatározott zárt viszontbiztosító,
+
+a) amelynél az üzleti évet megelőző két – egymást követő – üzleti évben a mérleg fordulónapján a következő három mutatóérték közül bármelyik kettő meghaladta az alábbi határértéket:
+
+aa) a mérlegfőösszeg a 10 000 millió forintot,
+
+ab) az éves nettó árbevétel a 20 000 millió forintot,
+
+ac) az üzleti évben átlagosan foglalkoztatottak száma a 250 főt, vagy
+
+b) olyan, mikrogazdálkodónak nem minősülő vállalkozó, amelynek átruházható értékpapírjait az Európai Gazdasági Térség valamely államának szabályozott piacán kereskedésre befogadták,
+
+e törvénynek a Mód2. törvény által megállapított fenntarthatósági jelentésre vonatkozó előírásait először a 2026. évben induló üzleti évre alkalmazza.
+
+(103) Az uniós tagállam jogának a hatálya alá nem tartozó vállalkozó 95/G. § szerinti leányvállalata, illetve fióktelepe e törvénynek a Mód2. törvény által megállapított 95/G. §-át először a 2028. évben induló üzleti évre alkalmazza.
+
+(104) E törvénynek a Mód2. törvény által megállapított 95/E. § (1) bekezdés a) pontja hatálya alá nem tartozó azon vállalkozó, amelynek átruházható értékpapírjait az Európai Gazdasági Térség valamely államának szabályozott piacán kereskedésre befogadták, dönthet úgy, hogy a 2028. január 1-je előtt kezdődő üzleti évekre vonatkozó üzleti jelentésében nem szerepeltet fenntarthatósági jelentést. Ebben az esetben a vállalkozó az üzleti jelentésében röviden ismerteti, hogy miért nem készített fenntarthatósági jelentést.
+
+(105) E törvénynek a Mód2. törvény által megállapított 134/K. §-a a 2030. január 7-e előtt végződő üzleti évre alkalmazható.
+
+(106) E törvénynek a Mód2. törvény által megállapított 94/B. §-át először a 2023. évben induló üzleti évre kell alkalmazni.

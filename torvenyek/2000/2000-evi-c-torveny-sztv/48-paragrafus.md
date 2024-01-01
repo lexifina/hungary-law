@@ -4,7 +4,7 @@
 
 (3) Az eszköz értékét növelő bekerülési (beszerzési) értékként kell figyelembe venni az eszköz használati értékét növelő munkafolyamatok, illetve megmunkálás ellenértékét jelentő bérmunkadíjat.
 
-(4) Az eszköz értékét növelő bekerülési (beszerzési) értékként kell figyelembe venni ingatlan beszerzése esetén az ingatlan értékébe – szerződés alapján – beszámított, korábban a bérleti jog megvásárlása címén fizetett, bérleti jogként kimutatott (még le nem írt) összeget.
+(4) Az eszköz értékét növelő bekerülési (beszerzési) értékként kell figyelembe venni ingatlan beszerzése esetén az ingatlan értékébe – szerződés alapján – beszámított, korábban a bérleti jog, építményi jog megvásárlása címén fizetett, bérleti jogként, építményi jogként kimutatott (még le nem írt) összeget.
 
 (5) Importbeszerzésként kell elszámolni a terméknek (az eszköznek) a külkereskedelmi termékforgalomban külfölditől történő beszerzését (termékimport), továbbá a belföldön, illetve külföldön igénybe vett, külföldiek által nyújtott szolgáltatást (szolgáltatásimport), függetlenül attól, hogy az ellenértéket devizában, valutában, exportáruval, exportszolgáltatással vagy forintban egyenlítik ki. A köz- és magánvámraktárból történő beszerzés a vámjogszabályokban rögzített feltételek szerint minősül importbeszerzésnek.
 

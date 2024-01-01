@@ -12,9 +12,9 @@ e) az eredménytartalékból lekötött tartalék visszavezetett összegét a le
 
 f) a pénzmozgással, illetve az eszközmozgással egyidejűleg a jogszabály alapján eredménytartalékba helyezett pénzeszközöket, átvett eszközök értékét,
 
-g) a pótbefizetés összegét a lekötött tartalékkal szemben, ha a pótbefizetésből származó követeléséről a gazdasági társaság tulajdonosa (tagja) lemond, a lemondás időpontjával.
+g) a pótbefizetés összegét a lekötött tartalékkal szemben, ha a pótbefizetésből származó követeléséről a vállalkozó tulajdonosa (tagja) lemond, a lemondás időpontjával.
 
-h) az osztalék miatti kötelezettség elengedett összegét, ha a jóváhagyott osztalékból származó követelését a gazdasági társaság tulajdonosa (tagja) elengedi, az elengedés időpontjával.
+h) az osztalék miatti kötelezettség elengedett összegét, ha a jóváhagyott osztalékból származó követelését a vállalkozó tulajdonosa (tagja) elengedi, az elengedés időpontjával.
 
 (2) Az eredménytartalék csökkenéseként kell kimutatni:
 

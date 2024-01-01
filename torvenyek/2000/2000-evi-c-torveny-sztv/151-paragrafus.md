@@ -4,11 +4,11 @@ a) olyan természetes személyt köteles megbízni, illetve ezen feladatok végz
 
 b) olyan számviteli szolgáltatást nyújtó társaságot köteles megbízni, amelynek a feladat irányításával, vezetésével, a beszámoló elkészítésével megbízott tagja, alkalmazottja megfelel az a) pontban meghatározott követelményeknek.
 
-(2) Az (1) bekezdésben előírt kötelezettség alól mentesül az a vállalkozó, amelynél az éves (éves szintre átszámított) nettó árbevétel az üzleti évet megelőző két üzleti év átlagában – ennek hiányában a tárgyévben várhatóan – a 10 millió forintot nem haladja meg.
+(2) Az (1) bekezdésben előírt kötelezettség alól mentesül az a vállalkozó, amelynél az éves (éves szintre átszámított) nettó árbevétel az üzleti évet megelőző két üzleti év átlagában – ennek hiányában a tárgyévben várhatóan – a 20 millió forintot nem haladja meg.
 
 (3) A könyvviteli szolgáltatás végzésére jogosító engedéllyel rendelkezőkről nyilvántartást kell vezetni. A könyvviteli szolgáltatás végzésére jogosult, mérlegképes könyvelői szakképesítéssel rendelkezők, továbbá az okleveles könyvvizsgálói szakképesítéssel rendelkező nem kamarai tagok nyilvántartását a könyvviteli szolgáltatást végzők nyilvántartásba vételét végző szervezet (a továbbiakban: nyilvántartásba vételt végző szervezet), az aktív és a tagságát szüneteltető kamarai tag könyvvizsgálók nyilvántartását a Magyar Könyvvizsgálói Kamara vezeti. A könyvviteli szolgáltatás végzésére jogosító engedély megadásával egyidejűleg a nyilvántartásba vételt végző szervezet hivatalból hatósági igazolványt állít ki. A nyilvántartás vezetésének célja annak hiteles dokumentálása, hogy a könyvviteli szolgáltatás végzésére jogosult természetes személy rendelkezik a tevékenység végzéséhez jogszabályban előírt ismeretekkel és szakmai gyakorlattal. A nyilvántartásban szereplő természetes személyek nyilvános adatainak, az azokban bekövetkező változásoknak a közzététele az ellenőrzés lehetőségének megteremtését, illetve az időszerű tájékoztatást szolgálja.
 
-(4) A mérlegképes könyvelői szakképesítéssel rendelkezők, valamint az okleveles könyvvizsgálói szakképesítéssel rendelkező nem kamarai tagok könyvviteli szolgáltatási tevékenysége engedélyezésének és az engedély visszavonásának, a könyvviteli szolgáltatás végzésére jogosultak nyilvántartásba vételének és a nyilvántartásból való törlésének, a 152/B. § szerinti bejelentésnek és a határon átnyúló könyvviteli szolgáltatást végzők nyilvántartásba vételének és a nyilvántartásból való törlésének, a nyilvántartásba vételt végző szervezet kijelölésének, a nyilvántartás vezetésének, valamint a nyilvántartásba vett személyek kötelező szakmai továbbképzésének, a továbbképzés ellenőrzésének, a továbbképzés szervezésére és lebonyolítására jelentkező szervezetek akkreditációs eljárásának, továbbá a továbbképzési programok és szakmai kiadványok kreditpont-minősítési eljárásának a részletes szabályait a Kormány rendeletben állapítja meg, azzal, hogy az eljárások során méltányossági eljárásnak nincs helye.
+(4) A mérlegképes könyvelői szakképesítéssel rendelkezők, valamint az okleveles könyvvizsgálói szakképesítéssel rendelkező nem kamarai tagok könyvviteli szolgáltatási tevékenysége engedélyezésének és az engedély visszavonásának, a könyvviteli szolgáltatás végzésére jogosultak nyilvántartásba vételének és a nyilvántartásból való törlésének, a 152/B. § szerinti bejelentésnek és a határon átnyúló könyvviteli szolgáltatást végzők nyilvántartásba vételének és a nyilvántartásból való törlésének, a nyilvántartásba vételt végző szervezet kijelölésének, a nyilvántartás vezetésének, valamint a nyilvántartásba vett személyek kötelező szakmai továbbképzésének, a továbbképzés ellenőrzésének, a továbbképzés szervezésére és lebonyolítására jelentkező szervezetek akkreditációs eljárásának, továbbá a továbbképzési programok kreditpont-minősítési eljárásának a részletes szabályait a Kormány rendeletben állapítja meg, azzal, hogy az eljárások során méltányossági eljárásnak nincs helye.
 
 (5) A mérlegképes könyvelői szakképesítéssel rendelkezők, valamint az okleveles könyvvizsgálói szakképesítéssel rendelkező nem kamarai tagok,
 
@@ -28,7 +28,7 @@ af) regisztrálási szakterületét;
 
 b) részére az a) pont szerinti kérelem alapján a könyvviteli szolgáltatás végzésére jogosító engedélyt meg kell adni, és egyidejűleg őket a (3) bekezdés szerinti nyilvántartásba fel kell venni, ha
 
-ba) mérlegképes könyvelői vagy okleveles könyvvizsgálói szakképesítéssel rendelkeznek,
+ba) mérlegképes könyvelői szakképesítéssel, illetve hatósági képesítéssel vagy okleveles könyvvizsgálói szakképesítéssel rendelkeznek,
 
 bb) a ba) alpont szerinti szakképesítés megszerzését követően, az a) pont szerinti kérelem benyújtását megelőzően legalább 3 éves, dokumentumokkal alátámasztott számviteli, pénzügyi, vagy ellenőrzési gyakorlattal rendelkeznek,
 
@@ -116,7 +116,7 @@ d) államilag elismert idegennyelv-tudását igazoló, eredményes nyelvvizsga (
 
 (11) A nyilvántartásba vételt végző szervezet a tárgyévben nyilvántartásba vett és nyilvántartásból törölt természetes személyek (10) bekezdés szerinti nyilvános adatait, valamint a nyilvántartásba vettek ezen adataiban bekövetkezett változásokat az egységes Kormányzati Portálon évente közzéteszi, továbbá internetes honlapján valamennyi nyilvántartásba vett természetes személy előbbi adatait nyilvánosságra hozza, és biztosítja, hogy a nyilvános adatokról a nyilvántartásba vételt végző szervezettől bárki tájékoztatást kapjon.
 
-(12) A mérlegképes könyvelői szakmai képzés programkövetelményét a számviteli szabályozásért felelős miniszter (a továbbiakban: miniszter) állapítja meg.
+(12) A mérlegképes könyvelői szakmai képzés programkövetelményét, és a mérlegképes könyvelői hatósági képesítés szakmai és vizsgakövetelményét a számviteli szabályozásért felelős miniszter (a továbbiakban: miniszter) állapítja meg.
 
 (13) A nyilvántartásból törölt természetes személyek adatait a nyilvántartásba vételt végző szervezet a törlést követő 10 évig köteles megőrizni.
 

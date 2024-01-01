@@ -18,9 +18,9 @@ c) az üzleti évben átlagosan foglalkoztatottak száma az 50 főt.
 
 (6) Egyszerűsített éves beszámolóját – saját választása alapján – a 6. § (5) bekezdés szerinti kormányrendeletben foglaltaknak megfelelően (mikrogazdálkodói egyszerűsített éves beszámoló) is elkészítheti a könyvvizsgálatra nem kötelezett vállalkozó, ha két egymást követő üzleti évben a mérleg fordulónapján a következő, a nagyságot jelző három mutatóérték közül bármelyik kettő nem haladja meg az alábbi határértéket:
 
-a) a mérlegfőösszeg a 100 millió forintot,
+a) a mérlegfőösszeg a 150 millió forintot,
 
-b) az éves nettó árbevétel a 200 millió forintot,
+b) az éves nettó árbevétel a 300 millió forintot,
 
 c) az üzleti évben átlagosan foglalkoztatottak száma a 10 főt.
 

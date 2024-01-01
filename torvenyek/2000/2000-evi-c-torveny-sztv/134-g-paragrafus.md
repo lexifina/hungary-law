@@ -14,4 +14,6 @@ b) a leányvállalat internetes honlapján, amennyiben a 134/E. § (7) bekezdés
 
 c) a fióktelep internetes honlapján, amennyiben a 134/E. § (10) bekezdése alkalmazandó.
 
+(3a) A (3) bekezdés szerinti közzététel során a közzétett adatok folyamatos megtekinthetőségét legalább 5 egymást követő évig kell biztosítani.
+
 (4) A vállalkozó az üzleti évről készített társaságiadó-információkat tartalmazó jelentést, valamint adott esetben a 134/E. § (8) és (12) bekezdés szerinti nyilatkozatot legalább 8 évig köteles megőrizni.

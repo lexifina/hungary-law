@@ -36,6 +36,8 @@ p) a térítés nélkül átadott eszközök – a részesedések, az értékpap
 
 q) az üzletág értékesítésének veszteségét [a kivezetett eszközök és az átvállalt kötelezettségek (ideértve a céltartalékokat és az időbeli elhatárolásokat is) könyv szerinti értéke közötti különbözetnek, valamint a kapott (járó) vagy fizetett (fizetendő) összegnek a veszteségjellegű különbözetét].
 
+r) a vállalkozó által – a nem újrahasználható termék után – a koncessziós társaságnak fizetett (fizetendő) kötelező visszaváltási díj összegét.
+
 (3) Az egyéb ráfordítások között kell kimutatni:
 
 a) a 41. § (1)–(2) és (4) bekezdése szerint az üzleti évben képzett céltartalék összegét, a képzett céltartalékot növelő összeget;

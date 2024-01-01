@@ -20,7 +20,7 @@ b) az értékesített göngyöleg betétdíjas árának számla, nyugta szerinti
 
 c) a gazdasági társaságnál a jegyzett tőkének tőkekivonással történő leszállításakor a bevont részvények, üzletrészek, egyéb társasági részesedések ellenében átadott vásárolt és saját termelésű készletek – általános forgalmi adót nem tartalmazó – számlázott, a létesítő okiratban, annak módosításában, illetve az arra jogosult testület határozatában rögzített értékének összegét,
 
-d) a befektetett eszközök használati, üzemeltetési, kezelési jogának átengedéséért kapott – általános forgalmi adót nem tartalmazó – számlázott ellenértéket,
+d) a befektetett eszközök használati, építményi, üzemeltetési, kezelési jogának átengedéséért kapott – általános forgalmi adót nem tartalmazó – számlázott ellenértéket,
 
 e)
 

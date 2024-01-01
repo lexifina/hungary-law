@@ -13,3 +13,5 @@
 (7) Gazdasági társaság beolvadása esetén a külső tulajdonosnál a megszűnt gazdasági társaságban lévő tulajdoni részesedést jelentő befektetés ellenében kapott részesedés bekerülési (beszerzési) értéke a megszűnt részesedésre jutó – a megszűnt gazdasági társaság végleges vagyonmérlege szerinti – saját tőke összege.
 
 (8) A 27. § (4a) bekezdés szerinti tulajdoni részesedés esetén – jogszabály eltérő rendelkezése hiányában – a (3)–(7) bekezdések megfelelő alkalmazásával kell eljárni.
+
+(9) Leválás keretében a vagyonátadás (eszközök és kötelezettségek) teljesítését és az ellenében kapott részesedés könyvekbe történő felvételét a gazdasági társaságok alapítására vonatkozó számviteli szabályok megfelelő alkalmazásával kell elszámolni.

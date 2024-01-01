@@ -174,7 +174,7 @@ bc) a szerződések egyidejűleg, vagy egymást szorosan követően valósulnak 
 
 (7) E törvény alkalmazásában
 
-1. igénybe vett szolgáltatás: minden olyan szolgáltatás, amely nem tartozik a közvetített szolgáltatás, illetve az egyéb szolgáltatás közé; különösen az utazásszervezés, a szállítás-rakodás, a raktározás, a csomagolás, a kölcsönzés, a bérlet, a bérmunka, az eszközök karbantartása, a postai és távközlési szolgáltatás, a mosás és vegytisztítás, a bizományi tevékenység, az ügyletszerzés, az oktatás és továbbképzés, a hirdetés, a reklám és propaganda, a piackutatás, a könyvkiadás, a lapkiadás, a szállodai szolgáltatás, a vendéglátás, a kutatás és kísérleti fejlesztés, a tervezés és lebonyolítás, a könyvvizsgálat, a könyvviteli szolgáltatás;
+1. igénybe vett szolgáltatás: minden olyan szolgáltatás, amely nem tartozik a közvetített szolgáltatás, illetve az egyéb szolgáltatás közé; különösen az utazásszervezés, a szállítás-rakodás, a raktározás, a csomagolás, a kiterjesztett gyártói felelősség, a kölcsönzés, a bérlet, a bérmunka, az eszközök karbantartása, a postai és távközlési szolgáltatás, a mosás és vegytisztítás, a bizományi tevékenység, az ügyletszerzés, az oktatás és továbbképzés, a hirdetés, a reklám és propaganda, a piackutatás, a könyvkiadás, a lapkiadás, a szállodai szolgáltatás, a vendéglátás, a kutatás és kísérleti fejlesztés, a tervezés és lebonyolítás, a könyvvizsgálat, a könyvviteli szolgáltatás;
 
 2. egyéb szolgáltatás: a pénzügyi, a befektetési, a biztosítási, a hatósági igazgatási, az egyéb hatósági szolgáltatás;
 
@@ -379,3 +379,5 @@ c) amennyiben egy eszköz vagy kötelezettség állományba vételkori bekerül�
 4. mérlegfordulónapi adókulcs: az az adókulcs, amely mérlegfordulónapon kihirdetett és vonatkozni fog arra a következő üzleti év(ek)re, amely(ek)ben a halasztott adókövetelés vagy halasztott adókötelezettség realizálódik;
 
 5. halasztott adókövetelés, halasztott adókötelezettség könyv szerinti értéke: a halasztott adókövetelés számított értékéből az az összeg, amely várhatóan realizálódik a későbbi üzleti év(ek)ben, a halasztott adókötelezettség esetében a könyv szerinti érték megegyezik a halasztott adókötelezettség számított értékével.
+
+(17) E törvény alkalmazásában kulcsfontosságú immateriális erőforrások: olyan fizikai formát nem öltő erőforrások, amelyektől a vállalkozó üzleti modellje alapvető módon függ, és amelyek a vállalkozó számára az értékteremtés forrásai, függetlenül attól, hogy a mérlegben szerepelnek-e vagy sem.

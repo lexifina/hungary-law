@@ -26,7 +26,7 @@ f) a (hitelesítő, korlátozott, elutasító) könyvvizsgálói záradékot vag
 
 g) hivatkozást bármely olyan kérdésre, amelyre a könyvvizsgáló hangsúlyosan fel kívánja hívni a figyelmet anélkül, hogy az a könyvvizsgáló véleményét minősítette volna (figyelemfelhívó megjegyzés);
 
-h) a könyvvizsgáló véleményét arról, hogy az üzleti jelentés összhangban van-e a beszámolóval, illetve az e törvény, illetve egyéb más jogszabály vonatkozó előírásaival;
+h) a könyvvizsgáló véleményét arról, hogy az üzleti jelentés összhangban van-e a beszámolóval, illetve az e törvény, illetve egyéb más jogszabály vonatkozó előírásaival (ide nem értve a III/A. Fejezet és a VI/C. Fejezet fenntarthatósági jelentésre vonatkozó előírásait);
 
 i) a könyvvizsgáló nyilatkozatát arra vonatkozóan, hogy tudomására jutott-e bármilyen lényeges hibás állítás az üzleti jelentésben és az összevont (konszolidált) üzleti jelentésben, és ha igen, akkor a szóban forgó hibás állítás milyen jellegű;
 
@@ -38,7 +38,7 @@ l) a könyvvizsgálatért személyében felelős könyvvizsgáló nevét, aláí
 
 m) könyvvizsgáló cég esetén – az l) pontban foglaltak mellett – a társaság képviseletére jogosult személy nevét, aláírását, a társaság megnevezését, székhelyét, kamarai nyilvántartási számát is;
 
-n) a könyvvizsgáló nyilatkozatát arról, hogy az üzleti jelentés tartalmazza-e a 95/C. §, illetve a 134. § (5) bekezdés szerinti nem pénzügyi kimutatást.
+n) a könyvvizsgáló nyilatkozatát arról, hogy az üzleti jelentés tartalmazza-e a III/A. Fejezet, illetve a VI/C. Fejezet szerinti fenntarthatósági jelentést;
 
 o) a könyvvizsgáló véleményét arról, hogy azon vállalkozó pénzügyi kimutatásai, amelynek értékpapírjait az Európai Gazdasági Térség bármely államának szabályozott piacán forgalmazzák, megfelelnek a 2004/109/EK európai parlamenti és tanácsi irányelvnek az egységes elektronikus beszámolási formátumot meghatározó szabályozástechnikai standardok tekintetében történő kiegészítéséről szóló 2018. december 17-i 2019/815 bizottsági felhatalmazáson alapuló rendeletében foglalt előírásoknak.
 

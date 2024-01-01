@@ -1,0 +1,7 @@
+## Bizonyossági vélemény
+
+95/H. § (1) A fenntarthatósági minősítéssel rendelkező kamarai tag könyvvizsgáló, könyvvizsgáló cég korlátozott bizonyosságot nyújtó megbízás alapján véleményt ad arról, hogy a fenntarthatósági jelentés teljesíti-e az e fejezet fenntarthatósági jelentésre vonatkozó előírásait, beleértve a fenntarthatósági jelentés fenntarthatósági beszámolási standardoknak való megfelelését, a vállalkozó által az említett fenntarthatósági beszámolási standardoknak megfelelően jelentett információk azonosítására szolgáló folyamatot és a fenntarthatósági jelentés megjelölésére vonatkozó követelmény teljesítését a 95/I. § (1) bekezdésével összhangban, valamint, hogy teljesíti-e az (EU) 2020/852 rendelet 8. cikkében szereplő beszámolási követelményeket.
+
+(2) Az (1) bekezdés szerinti bizonyossági vélemény nyújtásával az éves beszámoló jogszabályi kötelezettségen alapuló könyvvizsgálatával megbízott kamarai tag könyvvizsgálótól, könyvvizsgáló cégtől eltérő kamarai tag könyvvizsgáló, könyvvizsgáló cég is megbízható.
+
+(3) Ha az éves beszámoló jogszabályi kötelezettségen alapuló könyvvizsgálatát és a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtását egyazon kamarai tag könyvvizsgáló, könyvvizsgáló cég végzi, a kamarai tag könyvvizsgáló, könyvvizsgáló cég fenntarthatósági jelentéssel kapcsolatos véleménye belefoglalható az éves beszámolóhoz kapcsolódó független könyvvizsgálói jelentésébe.

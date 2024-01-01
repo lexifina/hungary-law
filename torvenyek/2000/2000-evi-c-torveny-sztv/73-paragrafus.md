@@ -12,6 +12,8 @@ d) az értékesített és később visszavett, a két időpont között használ
 
 e) a vásárolt és saját termelésű készlet értékesítéséhez kapcsolódó visszáru, valamint az értékesített és később visszavett betétdíjas göngyöleg helyesbítő számviteli bizonylatban rögzített – általános forgalmi adót nem tartalmazó – értékét (a helyesbítés a visszaszállítás, a visszavétel időpontjára vonatkozik).
 
+f) az újrahasználható termék és az önkéntes visszaváltási díjas termék után a helyesbítő számviteli bizonylatban rögzített, visszafizetett visszaváltási díj összegét (a helyesbítés a visszafizetés időpontjára vonatkozik).
+
 (3) Az értékesítés nettó árbevételét növelő tételként kell elszámolni a vásárolt és saját termelésű készlet értékesítéséhez, a szolgáltatásnyújtáshoz kapcsolódóan utólag felszámított felár, az eladási árat növelő korrekciók helyesbítő számviteli bizonylatban rögzített – általános forgalmi adót nem tartalmazó – értékét (a helyesbítés a teljesítés időpontjára vonatkozik).
 
 (4) Az értékesítés nettó árbevételét módosítja az a felek között utólag elszámolt, a szokásos piaci ár és az alkalmazott ellenérték alapján számított különbözet, amellyel a Tao. törvény 18. §-a alapján az értékesítőnek az értékesítésre tekintettel a társasági adó alapját módosítani kellene, amennyiben a különbözetet a könyvviteli elszámolásában az értékesítés nettó árbevétele módosításaként nem szerepeltetné.
