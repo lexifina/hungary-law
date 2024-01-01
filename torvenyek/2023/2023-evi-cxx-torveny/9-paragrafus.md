@@ -1,3 +1,1 @@
-9. § A hulladékról szóló 2012. évi CLXXXV. törvény 72. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) Az állami felelősségi körbe tartozó kármentesítési vagy környezetvédelmi feladatok lebonyolításáért felelős, a feladat ellátására jogszabályban kijelölt, a feladatok végrehajtását a központi költségvetésből származó források alapján ellátó, kizárólagos állami tulajdonú gazdasági társaság mentesül a 70. § (2) bekezdése szerinti kötelezettség alól, ha az esetlegesen bekövetkező környezetkárosodás felszámolásáért, valamint a rekultivációs és utógondozási feladatok ellátásáért a tulajdonosi joggyakorló mögöttes felelősséget vállal.”
+### 9. §

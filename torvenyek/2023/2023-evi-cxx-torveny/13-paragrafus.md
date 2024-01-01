@@ -1,7 +1,1 @@
-## „19. a pénzügyi biztosíték, a céltartalék és a környezetvédelmi biztosítás képzésére kötelezettek körére, azok formájára, mértékére, felhasználásának feltételeire, elszámolására, nyilvántartására, a megkötésük és megszűnésük módjára és tartalmára, a hulladékgazdálkodási hatóság ezekkel összefüggő eljárására, valamint a gyártók biztosítékadására vonatkozó részletes szabályokat;”
-
-13. § A hulladékról szóló 2012. évi CLXXXV. törvény 92/K. §-a a következő (10) és (11) bekezdéssel egészül ki:
-
-„(10) E törvénynek a környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény, valamint a hulladékról szóló 2012. évi CLXXXV. törvény módosításáról szóló 2023. évi CXX. törvénnyel (a továbbiakban: Módtv3.) megállapított 61. § (24a)–(24d) bekezdése a Módtv3. hatálybalépésekor már véglegessé vált határozatban megállapított fizetési kötelezettség vonatkozásában a 2024. június 30. napjáig benyújtott kérelem esetében alkalmazható.
-
-(11) Ha a hulladékgazdálkodási tevékenység végzéséhez szükséges hatósági engedélyekkel, hozzájárulásokkal, bejelentésekkel vagy kapcsolódó tulajdonosi hozzájárulásokkal rendelkező valamely szervezettől (átadó) a hulladékgazdálkodási létesítmény, eszköz tulajdonjogát vagy használatának jogát a koncesszor vagy a koncessziós társaság, illetve annak közvetlen vagy közvetett részesedésével működő gazdasági társaság megszerzi, a hulladékgazdálkodási tevékenység végzéséhez szükséges hatósági engedélyek, hozzájárulások, bejelentések vagy kapcsolódó tulajdonosi hozzájárulások vonatkozásában a létesítmény, eszköz birtokbaadásával egyidejűleg az átvevő mint jogutód a törvény erejénél fogva a korábbi jogosult helyébe lép.”
+### 13. §

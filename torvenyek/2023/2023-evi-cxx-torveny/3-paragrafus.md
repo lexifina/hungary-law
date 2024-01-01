@@ -1,5 +1,1 @@
-## „26d. hulladékgazdálkodási tevékenység: a hulladékgazdálkodás körébe tartozó tevékenységek összessége, amely az állami hulladékgazdálkodási közfeladat ellátásán túl magában foglalja a települési önkormányzatok által végzett hulladékgazdálkodási közfeladatok ellátását, valamint az egyéb gazdálkodó szervezetek által végzett hulladékgazdálkodási műveletek biztosítását is;”
-
-3. § A hulladékról szóló 2012. évi CLXXXV. törvény 32/A. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A Koordináló szerv térítésmentesen jogosult az elszámolási, számlázási, és kintlévőség-kezelési feladatkörében a 38. § (3) bekezdésében meghatározott személyes adatok körére kiterjedő eseti és csoportos adatszolgáltatást kérni a személyiadat- és lakcímnyilvántartás, valamint az ingatlan-nyilvántartás szerveitől. A Koordináló szerv a 38. § (3) bekezdésében meghatározott személyes adatokat az elszámolási, számlázási, és kintlévőség-kezelési feladatok ellátása során, valamint e feladatok ellátását követő 5 évig kezeli a követelése behajthatósága céljából.”
+### 3. §
