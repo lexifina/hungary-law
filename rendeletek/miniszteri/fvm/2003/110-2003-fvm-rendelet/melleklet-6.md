@@ -84,7 +84,7 @@
 
 ## legyenek.
 
-## 1.1.2.4.2.[^117] A maggyűjtés az állományok fokozatos, több évre elhúzódó, folyamatosan csak néhány fát érintő kitermelésével is megengedett. Az ilyen fakitermelést a NÉBIH-nek az erdőterület fekvése szerint illetékes területi szervével egyeztetni kell.
+## 1.1.2.4.2.[^123] A maggyűjtés az állományok fokozatos, több évre elhúzódó, folyamatosan csak néhány fát érintő kitermelésével is megengedett. Az ilyen fakitermelést a NÉBIH-nek az erdőterület fekvése szerint illetékes területi szervével egyeztetni kell.
 
 ## (3) Az engedélyezés általános feltételei:
 
@@ -96,7 +96,7 @@
 
 ## 1.1.2.5.1. Az állományoknak elsősorban fahozam, törzsalak, egyenesség és egészségi állapot tekintetében kell más állományokhoz viszonyítva kitűnniük. Fajhibridek előfordulása csak kismértékben engedhető meg.
 
-## 1.1.2.5.2.[^118] A maggyűjtés az állományok fokozatos, több évre elhúzódó, folyamatosan csak néhány fát érintő kitermelésével javasolt. A fakitermelést a NÉBIH-nek az erdőterület fekvése szerint illetékes területi szervével egyeztetni kell.
+## 1.1.2.5.2.[^124] A maggyűjtés az állományok fokozatos, több évre elhúzódó, folyamatosan csak néhány fát érintő kitermelésével javasolt. A fakitermelést a NÉBIH-nek az erdőterület fekvése szerint illetékes területi szervével egyeztetni kell.
 
 ## 1.1.2.5.3. Az engedélyezés általános feltételei:
 
@@ -130,17 +130,17 @@
 
 ## 1.2.1. Kezdeményezés
 
-## 1.2.1.1.[^119] Törzskönyvezésre javaslatot tehet az erdő tulajdonosa (kezelője), a Soproni Egyetem, az erdészeti hatáskörben eljáró vármegyei kormányhivatal, a Nemzeti Földügyi Központ, a nemzeti park igazgatóságok, valamint hivatalból a NÉBIH.
+## 1.2.1.1.[^125] Törzskönyvezésre javaslatot tehet az erdő tulajdonosa (kezelője), a Soproni Egyetem, az erdészeti hatáskörben eljáró vármegyei kormányhivatal, a Nemzeti Földügyi Központ, a nemzeti park igazgatóságok, valamint hivatalból a NÉBIH.
 
-## 1.2.1.2.[^120] A törzskönyvezés kezdeményezője a kérelmét 1 példányban megküldi a NÉBIH részére a ,,Magtermelő állomány-törzslap'' című nyomtatványon.
+## 1.2.1.2.[^126] A törzskönyvezés kezdeményezője a kérelmét 1 példányban megküldi a NÉBIH részére a ,,Magtermelő állomány-törzslap'' című nyomtatványon.
 
-## 1.2.1.3.[^121] A NÉBIH, ha az állomány a bejelentőív adatai alapján az 1.1. rész szerinti követelményeknek megfelel, az állományt törzskönyvi előjegyzésbe veszi.
+## 1.2.1.3.[^127] A NÉBIH, ha az állomány a bejelentőív adatai alapján az 1.1. rész szerinti követelményeknek megfelel, az állományt törzskönyvi előjegyzésbe veszi.
 
 ## 1.2.2. Helyszíni bizottsági minősítés
 
-## 1.2.2.1.[^122] A NÉBIH a beérkezett javaslat helyszíni elbírálására bírálóbizottságot kér fel.
+## 1.2.2.1.[^128] A NÉBIH a beérkezett javaslat helyszíni elbírálására bírálóbizottságot kér fel.
 
-## 1.2.2.2.[^123] A bírálóbizottságba tagot jelöl az erdő tulajdonosa (kezelője), a Soproni Egyetem, az erdészeti hatáskörben eljáró vármegyei kormányhivatal, valamint a NÉBIH. Védett természeti területen a nemzeti park igazgatóságok is tagot küldhetnek.
+## 1.2.2.2.[^129] A bírálóbizottságba tagot jelöl az erdő tulajdonosa (kezelője), a Soproni Egyetem, az erdészeti hatáskörben eljáró vármegyei kormányhivatal, valamint a NÉBIH. Védett természeti területen a nemzeti park igazgatóságok is tagot küldhetnek.
 
 ## 1.2.2.3. A bírálóbizottság az állományokat helyszíneli, ellenőrzi határait és az üzemtervnek való megfelelést. Mintaterületet jelöl ki, és az egyedek bonitálásával megállapítja a minőségi jellemzőket. Az állomány fenotípusos minősítése a bírálóbizottság feladata.
 
@@ -222,21 +222,21 @@
 
 ## 1.2.4.2. A ,,Vizsgált'' kategóriába sorolás feltétele, hogy a populáció fenotípusosan mutatkozó kedvező tulajdonságainak öröklődése a 3. és 4. számú melléklet szerint nyerjen bizonyítást.
 
-## 1.2.4.3.[^124] A Bizottság javaslata alapján a NÉBIH a követelményeknek megfelelt állomány törzskönyvezi, illetve a követelményeknek meg nem felelő állományt törli a törzskönyvi előjegyzésből.
+## 1.2.4.3.[^130] A Bizottság javaslata alapján a NÉBIH a követelményeknek megfelelt állomány törzskönyvezi, illetve a követelményeknek meg nem felelő állományt törli a törzskönyvi előjegyzésből.
 
-## 1.2.4.4.[^125] A ,,Magtermelő állomány-törzslap'' című nyomtatványt jóváhagyás után a NÉBIH köteles megküldeni:
+## 1.2.4.4.[^131] A ,,Magtermelő állomány-törzslap'' című nyomtatványt jóváhagyás után a NÉBIH köteles megküldeni:
 
 ## a) az erdő kezelője részére 1 példányban,
 
-## b)[^126] az erdészeti hatáskörben eljáró vármegyei kormányhivatalnak és a Nemzeti Földügyi Központnak 1-1 példányban,
+## b)[^132] az erdészeti hatáskörben eljáró vármegyei kormányhivatalnak és a Nemzeti Földügyi Központnak 1-1 példányban,
 
-## c)[^127] védett természeti területek esetében vagy egyéb szükséges esetben a nemzeti park igazgatóság részére 1 példányban.
+## c)[^133] védett természeti területek esetében vagy egyéb szükséges esetben a nemzeti park igazgatóság részére 1 példányban.
 
 ## A törzskönyvet minden év december 31-ével naprakésszé kell tenni.
 
 ## 1.3. Ellenőrzési feladatok
 
-## 1.3.1.[^128] A magtermelő állományokat a NÉBIH időarányosan, de legalább 5 évente ellenőrzi, amelynek főbb szempontjai a következők:
+## 1.3.1.[^134] A magtermelő állományokat a NÉBIH időarányosan, de legalább 5 évente ellenőrzi, amelynek főbb szempontjai a következők:
 
 ## a) az állomány beazonosíthatóságának ellenőrzése (MÁ jelek a határon), az erdőtervi adatok naprakésszé tétele törzslapon,
 
@@ -246,7 +246,7 @@
 
 ## d) az állománykezelési teendők meghatározása, különös tekintettel a következő 5 évre.
 
-## 1.3.2.[^129] A magtermelő állományokban előírt erdőgazdálkodási feladatok teljesítésének ellenőrzését az illetékes erdészeti hatáskörben eljáró vármegyei kormányhivatal) végzi szakmai felügyeleti jogkörében.
+## 1.3.2.[^135] A magtermelő állományokban előírt erdőgazdálkodási feladatok teljesítésének ellenőrzését az illetékes erdészeti hatáskörben eljáró vármegyei kormányhivatal) végzi szakmai felügyeleti jogkörében.
 
 ## 1.4. Állománykezelési irányelvek
 
@@ -264,7 +264,7 @@
 
 ## 1.4.7. A mageredetű vagy egyszer sarjaztatott akácállományok génkészlete egy alkalommal megőrizhető gyökérsarjról való felújítással.
 
-## 1.4.8.[^130] Az erdőgazdálkodó egyedi állománykezelési útmutató elkészítésével kutatási vagy oktatási intézményt, illetve szakértőt megbízhat. Ennek 1-1 példányát ,,Törzslap''-hoz való csatolás céljából az erdészeti hatáskörben eljáró vármegyei kormányhivatalnak, a Nemzeti Földügyi Központnak és a NÉBIH-nek meg kell küldeni.
+## 1.4.8.[^136] Az erdőgazdálkodó egyedi állománykezelési útmutató elkészítésével kutatási vagy oktatási intézményt, illetve szakértőt megbízhat. Ennek 1-1 példányát ,,Törzslap''-hoz való csatolás céljából az erdészeti hatáskörben eljáró vármegyei kormányhivatalnak, a Nemzeti Földügyi Központnak és a NÉBIH-nek meg kell küldeni.
 
 ## 1.5. Az állományok törzsültetvénykénti megszüntetése (törzskönyvből való törlés)
 
@@ -272,7 +272,7 @@
 
 ## 1.5.2. Kivételes esettől eltekintve, törlést csak az állomány egészségi állapotának súlyos megromlása vagy felújulása miatt lehet kezdeményezni.
 
-## 1.5.3.[^131] A törzskönyvből való törlésről a NÉBIH dönt és arról értesíti az erdő kezelőjét, valamint védett természeti területen a természetvédelmi hatóságot.
+## 1.5.3.[^137] A törzskönyvből való törlésről a NÉBIH dönt és arról értesíti az erdő kezelőjét, valamint védett természeti területen a természetvédelmi hatóságot.
 
 ## 2. Magtermesztő ültetvények
 
@@ -282,7 +282,7 @@
 
 ## 2.1.2. Fatermesztési (gazdasági) célú magtermesztő ültetvény létesítéshez csak ,,szuperelit'' szaporítási fokozatú szaporítóanyag használható fel.
 
-## 2.1.3.[^132] A NÉBIH a 2.1.1. és 2.1.2. pontok szerinti előírásoktól eltekinthet, illetve a továbbiakban részletezett követelményszintet mérsékelheti, ha a magtermesztő ültetvény elsődleges célja valamely populáció genetikai készletének megőrzése, de az ültetvényt alkotó komponensek beazonosíthatóságától nem tekinthet el.
+## 2.1.3.[^138] A NÉBIH a 2.1.1. és 2.1.2. pontok szerinti előírásoktól eltekinthet, illetve a továbbiakban részletezett követelményszintet mérsékelheti, ha a magtermesztő ültetvény elsődleges célja valamely populáció genetikai készletének megőrzése, de az ültetvényt alkotó komponensek beazonosíthatóságától nem tekinthet el.
 
 ## 2.1.4. Az ültetvényben levő törzsfaklónok, illetve -családok száma biztosítani kell a szabad beporzással keletkezett utódnemzedék kellő genetikai sokszínűségét. Egy ültetvényben legkevesebb 30 klón, illetve család kell legyen. Kevesebb komponens egyedi mérlegelés esetén akkor lehetséges, ha a 4. és 5. számú melléklet szerinti összehasonlító vizsgálatok eredményei ezt indokolják. Szabadbeporzású magtermesztő ültetvény esetében azonban ez az érték 15-nél kevesebb nem lehet.
 
@@ -306,7 +306,7 @@
 
 ## 2.3.1. Magtermesztő ültetvény létesítése
 
-## 2.3.1.1.[^133] Magtermesztő ültetvény létesítésének szándékát a NÉBIH-nek előzetesen be kell jelenteni, és az erdészeti genetikai ismeretekkel rendelkező szakértő által készített, de legalább felülvizsgált (ez esetben ő a felelős tervező) kiviteli tervdokumentációt a NÉBIH-hel jóvá kell hagyatni.
+## 2.3.1.1.[^139] Magtermesztő ültetvény létesítésének szándékát a NÉBIH-nek előzetesen be kell jelenteni, és az erdészeti genetikai ismeretekkel rendelkező szakértő által készített, de legalább felülvizsgált (ez esetben ő a felelős tervező) kiviteli tervdokumentációt a NÉBIH-hel jóvá kell hagyatni.
 
 ## 2.3.1.2. A kiviteli tervnek tartalmazni kell:
 
@@ -332,7 +332,7 @@
 
 ## 2.3.3. Törzskönyvezés és a törzskönyv vezetése
 
-## 2.3.3.1.[^134] Termőre forduláskor az ültetvényt a NÉBIH minősíti, és ellenőrzi, hogy a klónösszetétel megfelel-e a kiviteli tervdokumentációnak, és kielégítő-e az izoláció. Jelentős eltérésnek számít az 5%-nál nagyobb számú, az összeállítástól eltérő klón.
+## 2.3.3.1.[^140] Termőre forduláskor az ültetvényt a NÉBIH minősíti, és ellenőrzi, hogy a klónösszetétel megfelel-e a kiviteli tervdokumentációnak, és kielégítő-e az izoláció. Jelentős eltérésnek számít az 5%-nál nagyobb számú, az összeállítástól eltérő klón.
 
 ## 2.3.3.2. Csak az a magtermesztő ültetvény minősíthető és törzskönyvezhető, továbbá vetőmagja akkor engedélyezhető az elismeréskor (fajta esetén) vagy törzskönyvi előjegyzéskor meghatározott OECD kategóriában forgalomba hozatalra, illetve felhasználásra, melynek klónösszetétele és klónaránya megfelel az elismeréskor meghatározottnak és minden egyes egyede azonosítható, valamint nemkívánatos idegen pollentől megfelelően izolált.
 
@@ -364,7 +364,7 @@
 
 ## 2.5. Ellenőrzési feladatok
 
-## 2.5.1.[^135] A NÉBIH, illetve az illetékes növény- és talajvédelmi hatáskörében eljáró vármegyei kormányhivatal évente ellenőrzi az ültetvényeket, amelynek főbb szempontjai:
+## 2.5.1.[^141] A NÉBIH, illetve az illetékes növény- és talajvédelmi hatáskörében eljáró vármegyei kormányhivatal évente ellenőrzi az ültetvényeket, amelynek főbb szempontjai:
 
 ## a) az egészségi állapot megítélése,
 
@@ -374,11 +374,11 @@
 
 ## d) a maggyűjtés ellenőrzése az OECD követelményrendszer szerint.
 
-## 2.5.2.[^136] A szakmai követelmények súlyos megsértése esetén a NÉBIH az ültetvényt zár alá helyezi.
+## 2.5.2.[^142] A szakmai követelmények súlyos megsértése esetén a NÉBIH az ültetvényt zár alá helyezi.
 
 ## 2.6. Törzskönyvből való törlés
 
-## 2.6.1.[^137] Az ültetvényt a gazdálkodó a NÉBIH engedélye nélkül megszüntetheti, ha azt saját pénzügyi forrásából létesítette és üzemeltette. Ez esetben a megszüntetést a NÉBIH-nek köteles bejelenteni. Amennyiben az ültetvény létesítése és üzemeltetése részben vagy egészben állami pénzből történt, az ültetvény megszüntetéséhez a NÉBIH előzetes engedélye szükséges. A döntés főbb szempontjai:
+## 2.6.1.[^143] Az ültetvényt a gazdálkodó a NÉBIH engedélye nélkül megszüntetheti, ha azt saját pénzügyi forrásából létesítette és üzemeltette. Ez esetben a megszüntetést a NÉBIH-nek köteles bejelenteni. Amennyiben az ültetvény létesítése és üzemeltetése részben vagy egészben állami pénzből történt, az ültetvény megszüntetéséhez a NÉBIH előzetes engedélye szükséges. A döntés főbb szempontjai:
 
 ## a) az ország távlati szaporítóanyag igényének kielégítéséhez szükség van-e az ültetvényre,
 
@@ -386,7 +386,7 @@
 
 ## c) az ültetvény egészségi állapota.
 
-## 2.6.2.[^138] A NÉBIH, illetve az illetékes növény- és talajvédelmi hatáskörében eljáró vármegyei kormányhivatal kezdeményezheti a továbbszaporításra a 2.6.1. pont alapján alkalmatlanná vált ültetvény törzskönyvből való törlését és felszámolását.
+## 2.6.2.[^144] A NÉBIH, illetve az illetékes növény- és talajvédelmi hatáskörében eljáró vármegyei kormányhivatal kezdeményezheti a továbbszaporításra a 2.6.1. pont alapján alkalmatlanná vált ültetvény törzskönyvből való törlését és felszámolását.
 
 ## 3. Anyatelepek
 
@@ -408,13 +408,13 @@
 
 ## 3.3. Az anyatelepek létesítése és minősítése
 
-## 3.3.1.[^139] Törzsanyatelepet, törzsállományt és központi anyatelepet csak a NÉBIH engedélyével és a fajtafenntartó hozzájárulásával szabad létesíteni. Üzemi anyatelep létesítésének szándékát az a NÉBIH-nek be kell jelenteni, kérve a szükséges elit dugvány fémzárolását.
+## 3.3.1.[^145] Törzsanyatelepet, törzsállományt és központi anyatelepet csak a NÉBIH engedélyével és a fajtafenntartó hozzájárulásával szabad létesíteni. Üzemi anyatelep létesítésének szándékát az a NÉBIH-nek be kell jelenteni, kérve a szükséges elit dugvány fémzárolását.
 
 ## 3.3.2. Az anyatelepről egyszerűsített kiviteli dokumentációt kell benyújtani, a faj, a fajta, a darabszám, a sor- és tőtávolság, a művelési mód megadásával. Csatolni kell az áttekintő megvalósulási vázlatot, valamint a felhasznált növényanyag származási igazolványának adatait.
 
-## 3.3.3.[^140] A NÉBIH az új anyatelepet törzskönyvi előjegyzésbe veszi és egyedi azonosító kóddal látja el.
+## 3.3.3.[^146] A NÉBIH az új anyatelepet törzskönyvi előjegyzésbe veszi és egyedi azonosító kóddal látja el.
 
-## 3.3.4.[^141] A NÉBIH a minősítő szemlén – szükség szerint szakértő bevonásával – minősíti az anyatelepet, különös tekintettel a fajtaazonosságra és az egészségi állapotra, és a fajtatiszta, egészséges, megfelelő kultúrállapotban lévő anyatelepet törzskönyvezi.
+## 3.3.4.[^147] A NÉBIH a minősítő szemlén – szükség szerint szakértő bevonásával – minősíti az anyatelepet, különös tekintettel a fajtaazonosságra és az egészségi állapotra, és a fajtatiszta, egészséges, megfelelő kultúrállapotban lévő anyatelepet törzskönyvezi.
 
 ## 3.4. Az anyatelep fenntartása
 
@@ -440,44 +440,44 @@
 
 ## 3.5. Ellenőrzési feladatok
 
-## 3.5.1.[^142] A NÉBIH, illetve az illetékes növény- és talajvédelmi hatáskörében eljáró vármegyei kormányhivatal évente a helyszínen ellenőrzi az anyatelep továbbszaporításra alkalmas voltát, a fajtaazonosság, a kultúrállapot, a növényegészségügyi helyzet, valamint a megtermelt szaporítóanyag hozama és életképessége alakulását.
+## 3.5.1.[^148] A NÉBIH, illetve az illetékes növény- és talajvédelmi hatáskörében eljáró vármegyei kormányhivatal évente a helyszínen ellenőrzi az anyatelep továbbszaporításra alkalmas voltát, a fajtaazonosság, a kultúrállapot, a növényegészségügyi helyzet, valamint a megtermelt szaporítóanyag hozama és életképessége alakulását.
 
-## 3.5.2.[^143] A NÉBIH időközönként az egyes anyatelepek szaporítóanyaga összehasonlító kitermesztésével ellenőrzi a kibocsátott szaporítóanyag fajtatisztaságát, egyöntetűségét és életerejét.
+## 3.5.2.[^149] A NÉBIH időközönként az egyes anyatelepek szaporítóanyaga összehasonlító kitermesztésével ellenőrzi a kibocsátott szaporítóanyag fajtatisztaságát, egyöntetűségét és életerejét.
 
 ## 3.6. Törzskönyvből való törlés
 
-## 3.6.1.[^144] A klóngyűjtemény és a központi anyatelep megszüntetéséhez a NÉBIH előzetes engedélye szükséges.
+## 3.6.1.[^150] A klóngyűjtemény és a központi anyatelep megszüntetéséhez a NÉBIH előzetes engedélye szükséges.
 
-## 3.6.2.[^145] Üzemi anyatelepet a gazdálkodó a NÉBIH előzetes engedélye nélkül is megszüntethet, de a NÉBIH tekintetében bejelentési kötelezettséggel tartozik. A továbbszaporításra alkalmatlan anyatelepet a NÉBIH törli a törzskönyvből.
+## 3.6.2.[^151] Üzemi anyatelepet a gazdálkodó a NÉBIH előzetes engedélye nélkül is megszüntethet, de a NÉBIH tekintetében bejelentési kötelezettséggel tartozik. A továbbszaporításra alkalmatlan anyatelepet a NÉBIH törli a törzskönyvből.
 
 6. számú melléklet a 110/2003. (X. 21.) FVM rendelethez
 
-[^117]: Az 5. számú melléklet 1.1.2.4.2. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § i) pontja szerint módosított szöveg.
-[^118]: Az 5. számú melléklet 1.1.2.5.2. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § i) pontja szerint módosított szöveg.
-[^119]: Az 5. számú melléklet 1.2.1.1. alpontja a 42/2017. (VIII. 17.) FM rendelet 56. § 19. pontja, a 46/2020. (IX. 23.) AM rendelet 1. § (2) bekezdés h) pontja, a 4/2021. (II. 23.) AM rendelet 1. § a) pontja, a 79/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
-[^120]: Az 5. számú melléklet 1.2.1.2. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
-[^121]: Az 5. számú melléklet 1.2.1.3. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § d) pontja szerint módosított szöveg.
-[^122]: Az 5. számú melléklet 1.2.2.1. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § d) pontja szerint módosított szöveg.
-[^123]: Az 5. számú melléklet 1.2.2.2. alpontja a 42/2017. (VIII. 17.) FM rendelet 56. § 19. pontja, a 46/2020. (IX. 23.) AM rendelet 1. § (2) bekezdés b) pontja, a 4/2021. (II. 23.) AM rendelet 1. § b) pontja, a 79/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
-[^124]: Az 5. számú melléklet 1.2.4.3. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
-[^125]: Az 5. számú melléklet 1.2.4.4. alpont nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 30. § b) és p) pontja szerint módosított szöveg.
-[^126]: Az 5. számú melléklet 1.2.4.4. alpont b) alpontja a 42/2017. (VIII. 17.) FM rendelet 56. § 20. pontja, a 46/2020. (IX. 23.) AM rendelet 1. § (2) bekezdés i) pontja, a 79/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
-[^127]: Az 5. számú melléklet 1.2.4.4. alpont c) alpontja a 70/2013. (VII. 31.) VM rendelet 30. § r) pontja szerint módosított szöveg.
-[^128]: Az 5. számú melléklet 1.3.1. alpont nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
-[^129]: Az 5. számú melléklet 1.3.2. alpontja a 42/2017. (VIII. 17.) FM rendelet 56. § 2. pontja, a 46/2020. (IX. 23.) AM rendelet 1. § (2) bekezdés b) pontja, a 79/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
-[^130]: Az 5. számú melléklet 1.4.8. alpontja 19/2014. (III. 12.) VM rendelet 11. § e) pontja, a 42/2017. (VIII. 17.) FM rendelet 56. § 20. pontja, a 46/2020. (IX. 23.) AM rendelet 1. § (2) bekezdés j) pontja, a 79/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
-[^131]: Az 5. számú melléklet 1.5.3. pontja a 183/2009. (XII. 30.) FVM rendelet 2. § (4) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 30. § b) és p) pontja, a 15/2015. (III. 31.) FM rendelet 9. §-a szerint módosított szöveg. [Az 5. számú melléklet 1.5.3. pontjában a 42/2017. (VIII. 17.) FM rendelet 56. § 21. pontjával elrendelt módosítás, amely szerint a szerint a „természetvédelmi hatóság” szövegrész helyébe a „területi természetvédelmi hatóság” szöveg lép, nem vezethető át.]
-[^132]: Az 5. számú melléklet 2.1.3. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § d) pontja szerint módosított szöveg.
-[^133]: Az 5. számú melléklet 2.3.1.1. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § i) és o) pontja szerint módosított szöveg.
-[^134]: Az 5. számú melléklet 2.3.3.1. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
-[^135]: Az 5. számú melléklet 2.5.1. pont nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 56. § 5. pontja, a 46/2020. (IX. 23.) AM rendelet 1. § (2) bekezdés b) pontja, a 79/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
-[^136]: Az 5. számú melléklet 2.5.2. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
-[^137]: Az 5. számú melléklet 2.6.1. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja, a 19/2014. (III. 12.) VM rendelet 11. § f) pontja szerint módosított szöveg.
-[^138]: Az 5. számú melléklet 2.6.2. pontja a 42/2017. (VIII. 17.) FM rendelet 56. § 5. pontja, a 46/2020. (IX. 23.) AM rendelet 1. § (2) bekezdés b) pontja, a 79/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
-[^139]: Az 5. számú melléklet 3.3.1. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § b) és i) pontja szerint módosított szöveg.
-[^140]: Az 5. számú melléklet 3.3.3. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § d) pontja szerint módosított szöveg.
-[^141]: Az 5. számú melléklet 3.3.4. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § d) pontja szerint módosított szöveg.
-[^142]: Az 5. számú melléklet 3.5.1. pontja a 42/2017. (VIII. 17.) FM rendelet 56. § 5. pontja, a 46/2020. (IX. 23.) AM rendelet 1. § (2) bekezdés b) pontja, a 79/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
-[^143]: Az 5. számú melléklet 3.5.2. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § d) pontja szerint módosított szöveg.
-[^144]: Az 5. számú melléklet 3.6.1. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
-[^145]: Az 5. számú melléklet 3.6.2. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
+[^123]: Az 5. számú melléklet 1.1.2.4.2. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § i) pontja szerint módosított szöveg.
+[^124]: Az 5. számú melléklet 1.1.2.5.2. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § i) pontja szerint módosított szöveg.
+[^125]: Az 5. számú melléklet 1.2.1.1. alpontja a 42/2017. (VIII. 17.) FM rendelet 56. § 19. pontja, a 46/2020. (IX. 23.) AM rendelet 1. § (2) bekezdés h) pontja, a 4/2021. (II. 23.) AM rendelet 1. § a) pontja, a 79/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
+[^126]: Az 5. számú melléklet 1.2.1.2. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
+[^127]: Az 5. számú melléklet 1.2.1.3. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § d) pontja szerint módosított szöveg.
+[^128]: Az 5. számú melléklet 1.2.2.1. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § d) pontja szerint módosított szöveg.
+[^129]: Az 5. számú melléklet 1.2.2.2. alpontja a 42/2017. (VIII. 17.) FM rendelet 56. § 19. pontja, a 46/2020. (IX. 23.) AM rendelet 1. § (2) bekezdés b) pontja, a 4/2021. (II. 23.) AM rendelet 1. § b) pontja, a 79/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
+[^130]: Az 5. számú melléklet 1.2.4.3. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
+[^131]: Az 5. számú melléklet 1.2.4.4. alpont nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 30. § b) és p) pontja szerint módosított szöveg.
+[^132]: Az 5. számú melléklet 1.2.4.4. alpont b) alpontja a 42/2017. (VIII. 17.) FM rendelet 56. § 20. pontja, a 46/2020. (IX. 23.) AM rendelet 1. § (2) bekezdés i) pontja, a 79/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
+[^133]: Az 5. számú melléklet 1.2.4.4. alpont c) alpontja a 70/2013. (VII. 31.) VM rendelet 30. § r) pontja szerint módosított szöveg.
+[^134]: Az 5. számú melléklet 1.3.1. alpont nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
+[^135]: Az 5. számú melléklet 1.3.2. alpontja a 42/2017. (VIII. 17.) FM rendelet 56. § 2. pontja, a 46/2020. (IX. 23.) AM rendelet 1. § (2) bekezdés b) pontja, a 79/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
+[^136]: Az 5. számú melléklet 1.4.8. alpontja 19/2014. (III. 12.) VM rendelet 11. § e) pontja, a 42/2017. (VIII. 17.) FM rendelet 56. § 20. pontja, a 46/2020. (IX. 23.) AM rendelet 1. § (2) bekezdés j) pontja, a 79/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
+[^137]: Az 5. számú melléklet 1.5.3. pontja a 183/2009. (XII. 30.) FVM rendelet 2. § (4) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 30. § b) és p) pontja, a 15/2015. (III. 31.) FM rendelet 9. §-a szerint módosított szöveg. [Az 5. számú melléklet 1.5.3. pontjában a 42/2017. (VIII. 17.) FM rendelet 56. § 21. pontjával elrendelt módosítás, amely szerint a szerint a „természetvédelmi hatóság” szövegrész helyébe a „területi természetvédelmi hatóság” szöveg lép, nem vezethető át.]
+[^138]: Az 5. számú melléklet 2.1.3. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § d) pontja szerint módosított szöveg.
+[^139]: Az 5. számú melléklet 2.3.1.1. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § i) és o) pontja szerint módosított szöveg.
+[^140]: Az 5. számú melléklet 2.3.3.1. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
+[^141]: Az 5. számú melléklet 2.5.1. pont nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 56. § 5. pontja, a 46/2020. (IX. 23.) AM rendelet 1. § (2) bekezdés b) pontja, a 79/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
+[^142]: Az 5. számú melléklet 2.5.2. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
+[^143]: Az 5. számú melléklet 2.6.1. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja, a 19/2014. (III. 12.) VM rendelet 11. § f) pontja szerint módosított szöveg.
+[^144]: Az 5. számú melléklet 2.6.2. pontja a 42/2017. (VIII. 17.) FM rendelet 56. § 5. pontja, a 46/2020. (IX. 23.) AM rendelet 1. § (2) bekezdés b) pontja, a 79/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
+[^145]: Az 5. számú melléklet 3.3.1. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § b) és i) pontja szerint módosított szöveg.
+[^146]: Az 5. számú melléklet 3.3.3. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § d) pontja szerint módosított szöveg.
+[^147]: Az 5. számú melléklet 3.3.4. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § d) pontja szerint módosított szöveg.
+[^148]: Az 5. számú melléklet 3.5.1. pontja a 42/2017. (VIII. 17.) FM rendelet 56. § 5. pontja, a 46/2020. (IX. 23.) AM rendelet 1. § (2) bekezdés b) pontja, a 79/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
+[^149]: Az 5. számú melléklet 3.5.2. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § d) pontja szerint módosított szöveg.
+[^150]: Az 5. számú melléklet 3.6.1. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
+[^151]: Az 5. számú melléklet 3.6.2. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.

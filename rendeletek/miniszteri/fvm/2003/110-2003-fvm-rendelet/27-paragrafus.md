@@ -6,6 +6,6 @@
 
 (2) Ez a rendelet a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között társulás létesítéséről szóló, Brüsszelben 1991. december 16-án aláírt Európai Megállapodás tárgykörében, az azt kihirdető 1994. évi I. törvény 3. §-ával összhangban az erdészeti szaporítóanyagok forgalmazásáról szóló, a Tanács 1999/105/EK irányelvével összeegyeztethető szabályozást tartalmaz.
 
-(3)[^102] Az R. követelményei szerint előállított, a rendelet hatálybalépésekor a NÉBIH által már szemlézett szaporítóanyagok a rendelet hatálybalépését követően is forgalomba hozhatók.
+(3)[^108] Az R. követelményei szerint előállított, a rendelet hatálybalépésekor a NÉBIH által már szemlézett szaporítóanyagok a rendelet hatálybalépését követően is forgalomba hozhatók.
 
-[^102]: A 27. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
+[^108]: A 27. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.

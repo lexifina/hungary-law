@@ -1,12 +1,12 @@
-## A)[^146]
+## A)[^152]
 
 ## Az 1. számú melléklet A. részében felsorolt fajok vetőmag tételeivel szembeni követelmények
 
-## 1.[^147] Az 1. számú melléklet A. részében felsorolt fajok vetőmagtételeit csak akkor lehet forgalmazni, ha a magtétel eléri a 99%-os fajtisztasági szintet.
+## 1.[^153] Az 1. számú melléklet A. részében felsorolt fajok vetőmagtételeit csak akkor lehet forgalmazni, ha a magtétel eléri a 99%-os fajtisztasági szintet.
 
-## 2.[^148] Az 1. pont rendelkezéseitől eltérően az 1. számú melléklet A. részében felsorolt, közeli rokonságban álló fajok esetében – a mesterséges hibridek kivételével – fel kell tüntetni, ha a magtétel fajtisztasága nem éri el a 99%-ot.
+## 2.[^154] Az 1. pont rendelkezéseitől eltérően az 1. számú melléklet A. részében felsorolt, közeli rokonságban álló fajok esetében – a mesterséges hibridek kivételével – fel kell tüntetni, ha a magtétel fajtisztasága nem éri el a 99%-ot.
 
-## B)[^149]
+## B)[^155]
 
 ## Az 1. számú melléklet A. részében felsorolt fajok és mesterséges hibridek növényi részeivel szembeni követelmények
 
@@ -72,7 +72,7 @@
 
 | S2 | 30 | 4,00 |
 
-## D)[^150]
+## D)[^156]
 
 ## Az 1. számú melléklet A. részében felsorolt fajok és mesterséges hibridek ültetési anyagával szembeni követelmények
 
@@ -450,8 +450,8 @@
 
 7. számú melléklet a 110/2003. (X. 21.) FVM rendelethez
 
-[^146]: A 6. számú melléklet A) pont címe a 28/2019. (VI. 20.) AM rendelet 10. § b) pontja szerint módosított szöveg.
-[^147]: A 6. számú melléklet A) pont 1. alpontja a 28/2019. (VI. 20.) AM rendelet 10. § b) pontja szerint módosított szöveg.
-[^148]: A 6. számú melléklet A) pont 2. alpontja a 28/2019. (VI. 20.) AM rendelet 10. § b) pontja szerint módosított szöveg.
-[^149]: A 6. számú melléklet B) pontja a 28/2019. (VI. 20.) AM rendelet 10. § l) pontja szerint módosított szöveg.
-[^150]: A 6. számú melléklet D) pont címe a 28/2019. (VI. 20.) AM rendelet 10. § b) pontja szerint módosított szöveg.
+[^152]: A 6. számú melléklet A) pont címe a 28/2019. (VI. 20.) AM rendelet 10. § b) pontja szerint módosított szöveg.
+[^153]: A 6. számú melléklet A) pont 1. alpontja a 28/2019. (VI. 20.) AM rendelet 10. § b) pontja szerint módosított szöveg.
+[^154]: A 6. számú melléklet A) pont 2. alpontja a 28/2019. (VI. 20.) AM rendelet 10. § b) pontja szerint módosított szöveg.
+[^155]: A 6. számú melléklet B) pontja a 28/2019. (VI. 20.) AM rendelet 10. § l) pontja szerint módosított szöveg.
+[^156]: A 6. számú melléklet D) pont címe a 28/2019. (VI. 20.) AM rendelet 10. § b) pontja szerint módosított szöveg.
