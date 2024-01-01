@@ -112,7 +112,7 @@ A gyújtószikra-érzékeny pirotechnikai terméket nem éghető védőfóliáva
 
 3.33. Az indítást végző pirotechnikus folyamatosan figyelemmel kíséri a pirotechnikai termékek működését, és ha rendellenességet tapasztal, az indítást a hiba elhárításáig szünetelteti.
 
-3.34. Az Országos Meteorológiai Szolgálat által közzétett narancs vagy piros riasztási fokozat esetében, illetve erős szélben (a széliránytól függetlenül, ha a szél sebessége a kilövés irányától a pirotechnikai terméket a védőterületén kívülre eltéríti) a pirotechnikai termék felhasználásának lebonyolítását a felelős pirotechnikus elhalasztja, vagy ha már elkezdték, úgy a működtetést – ha ez lehetséges – leállítja.
+3.34.[^154] A HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaság által közzétett narancs vagy piros riasztási fokozat esetében, illetve erős szélben (a széliránytól függetlenül, ha a szél sebessége a kilövés irányától a pirotechnikai terméket a védőterületén kívülre eltéríti) a pirotechnikai termék felhasználásának lebonyolítását a felelős pirotechnikus elhalasztja, vagy ha már elkezdték, úgy a működtetést – ha ez lehetséges – leállítja.
 
 3.35. Ha a felelős pirotechnikus a működtetés során a közbiztonságra veszélyt észlel, – ha ez lehetséges – leállítja pirotechnikai termékek további felhasználását.
 
@@ -186,11 +186,11 @@ rendelkezik vészkapcsolóval, és
 
 6.3. A felelős pirotechnikus a felhasználás során indított, de el nem működött pirotechnikai terméket összegyűjti, az eredetileg nem izzógyújtóval szerelt termékről az izzógyújtót leszereli, és külön-külön tároló eszközbe teszi. A felszerelést kizárólag ezt követően szabad visszabontani. Nagy kiterjedésű telepítés esetében az elkülönülő részek visszabontását más részektől függetlenül is meg lehet kezdeni.
 
-6.4.[^154] A felelős pirotechnikus az eszközöket, az ellenőrzött területet és környezetét is átvizsgálja, hogy az esetleg tűz keletkezését kiváltó parázs, zsarátnok ne maradjon.
+6.4.[^155] A felelős pirotechnikus az eszközöket, az ellenőrzött területet és környezetét is átvizsgálja, hogy az esetleg tűz keletkezését kiváltó parázs, zsarátnok ne maradjon.
 
-6.5.[^155] A felelős pirotechnikus az ellenőrzött terület megtisztítását és ellenőrzését követően az ellenőrzött területet határoló kordont lebontja.
+6.5.[^156] A felelős pirotechnikus az ellenőrzött terület megtisztítását és ellenőrzését követően az ellenőrzött területet határoló kordont lebontja.
 
-6.6.[^156] A felelős pirotechnikus a helyszínt akkor hagyhatja el, ha az ellenőrzött területet átvizsgálta, és azt rendben levőnek találta. A távozás időpontját az engedélyen fel kell jegyezni.
+6.6.[^157] A felelős pirotechnikus a helyszínt akkor hagyhatja el, ha az ellenőrzött területet átvizsgálta, és azt rendben levőnek találta. A távozás időpontját az engedélyen fel kell jegyezni.
 
 6.7. A pirotechnikai termék felhasználása során keletkező hulladék pirotechnikai anyagot a felelős pirotechnikus összegyűjti, és átadja egy olyan vállalkozásnak, amely jogosult annak megsemmisítésére.
 
@@ -201,6 +201,7 @@ rendelkezik vészkapcsolóval, és
 [^151]: A 4. melléklet 3.19. pontja a 288/2016. (IX. 22.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
 [^152]: A 4. melléklet 3.22. pontja a 100/2015. (IV. 20.) Korm. rendelet 27. § (3) bekezdésével megállapított szöveg.
 [^153]: A 4. melléklet 3.30. pontja a 100/2015. (IV. 20.) Korm. rendelet 26. § (1) bekezdés 24. pontja szerint módosított szöveg.
-[^154]: A 4. melléklet 6.4. pontja a 100/2015. (IV. 20.) Korm. rendelet 26. § (1) bekezdés 25. pontja szerint módosított szöveg.
-[^155]: A 4. melléklet 6.5. pontja a 100/2015. (IV. 20.) Korm. rendelet 26. § (1) bekezdés 25–26. pontja szerint módosított szöveg.
-[^156]: A 4. melléklet 6.6. pontja a 100/2015. (IV. 20.) Korm. rendelet 26. § (1) bekezdés 25. pontja szerint módosított szöveg.
+[^154]: A 4. melléklet 3.34. pontja az 591/2023. (XII. 20.) Korm. rendelet 14. §-a szerint módosított szöveg.
+[^155]: A 4. melléklet 6.4. pontja a 100/2015. (IV. 20.) Korm. rendelet 26. § (1) bekezdés 25. pontja szerint módosított szöveg.
+[^156]: A 4. melléklet 6.5. pontja a 100/2015. (IV. 20.) Korm. rendelet 26. § (1) bekezdés 25–26. pontja szerint módosított szöveg.
+[^157]: A 4. melléklet 6.6. pontja a 100/2015. (IV. 20.) Korm. rendelet 26. § (1) bekezdés 25. pontja szerint módosított szöveg.
