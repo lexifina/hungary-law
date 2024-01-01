@@ -1,4 +1,4 @@
-2. melléklet a 4/2008. (VIII. 1.) ÖM rendelethez[^21]
+2. melléklet a 4/2008. (VIII. 1.) ÖM rendelethez[^25]
 
 1. A vármegyék erdőtűz-veszélyeztetettségi besorolása a következő tényezők figyelembevételével történik:
 
@@ -34,4 +34,4 @@
 
 3.5. Budapest (főváros) és csatoltan – a Pilis és a Budai-hegység fenyvesei, illetve a sűrű beépítés miatt – Budajenő, Budakalász, Budakeszi, Budaörs, Csobánka, Nagykovácsi, Perbál, Pilisborosjenő, Piliscsaba, Pilisszentiván, Pilisszentkereszt, Pilisszántó, Pilisvörösvár, Pomáz, Páty, Solymár, Szentendre, Üröm.
 
-[^21]: A 2. melléklet az 53/2022. (XII. 27.) BM rendelet 3. §-ával megállapított szöveg.
+[^25]: A 2. melléklet az 53/2022. (XII. 27.) BM rendelet 3. §-ával megállapított szöveg.
