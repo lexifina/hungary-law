@@ -1,3 +1,3 @@
-89. §[^339]
+89. §[^341]
 
-[^339]: A 89. §-t a 352/2023. (VII. 27.) Korm. rendelet 8. § i) pontja hatályon kívül helyezte.
+[^341]: A 89. §-t a 352/2023. (VII. 27.) Korm. rendelet 8. § i) pontja hatályon kívül helyezte.
