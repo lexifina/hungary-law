@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-38-00-00
 | 2022-01-01 | 2021. évi CXXXIV. törvény | 1996-38-00-00.24 |
 | 2023-01-01 | 2022. évi XXII. törvény | 1996-38-00-00.25 |
 | 2023-09-01 | 2023. évi XXXI. törvény | 1996-38-00-00.26 |
+| 2024-01-01 | 2023. évi XC. törvény | 1996-38-00-00.27 |
