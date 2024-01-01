@@ -1,23 +1,11 @@
-## 1. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (2) bekezdésében biztosított jogkörében eljárva 9 120 000 000 forint egyszeri átcsoportosítását rendeli el a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 1. melléklet XLVII. Gazdaságvédelmi Alap fejezet, 1. Gazdaságvédelmi programok cím (a továbbiakban: GVP előirányzat) terhére, az 1. melléklet szerint;
-
-## Felelős: pénzügyminiszter
-
-## Határidő: azonnal
+## 1.[^1]
 
 ## 2. a Kvtv. 79. §-ában biztosított jogkörében eljárva jóváhagyja a GVP előirányzatnak az 1. pont szerinti átcsoportosítás alapján az eredeti előirányzaton felül – az eddig jóváhagyotton túl – további 9 120 000 000 forinttal történő túlteljesülését;
 
-## 3. az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 397 466 634 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 21. Központi kezelésű előirányzatok cím, 4. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, a 2. melléklet szerint.
+## 3.[^2]
 
-## Az átcsoportosítás tekintetében
+1. melléklet az 1502/2020. (VIII. 11.) Korm. határozathoz[^3]
 
-## Felelős: pénzügyminiszter
-
-## Határidő: azonnal
-
-## Az elszámolás és a visszatérítési kötelezettség tekintetében
-
-## Felelős: a miniszterelnök általános helyettese
-
-## Határidő: 2021. december 31.
-
-1. melléklet az 1502/2020. (VIII. 11.) Korm. határozathoz
+[^1]: Az 1. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 3. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
