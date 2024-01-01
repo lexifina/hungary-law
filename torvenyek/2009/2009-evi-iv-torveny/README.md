@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-4-00-00
 | 2010-12-23 | 2010. évi CLVIII. törvény | 2009-4-00-00.4 |
 | 2012-01-01 | 2011. évi CCI. törvény | 2009-4-00-00.5 |
 | 2014-01-01 | 2013. évi CCXXXVI. törvény | 2009-4-00-00.6 |
+| 2024-01-01 | 2023. évi XC. törvény | 2009-4-00-00.7 |
