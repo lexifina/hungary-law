@@ -10,11 +10,11 @@ d) Európai Uniós Ügyek Minisztériuma,
 
 e) Építési és Közlekedési Minisztérium,
 
-f) Gazdaságfejlesztési Minisztérium,
+f) Honvédelmi Minisztérium,
 
-g) Honvédelmi Minisztérium,
+g) Igazságügyi Minisztérium,
 
-h) Igazságügyi Minisztérium,
+h) Közigazgatási és Területfejlesztési Minisztérium,
 
 i) Kulturális és Innovációs Minisztérium,
 
@@ -22,6 +22,8 @@ j) Külgazdasági és Külügyminisztérium,
 
 k) Miniszterelnöki Kabinetiroda,
 
-l) Miniszterelnökség és
+l) Miniszterelnökség,
 
-m) Pénzügyminisztérium.
+m) Nemzetgazdasági Minisztérium és
+
+n) Pénzügyminisztérium.
