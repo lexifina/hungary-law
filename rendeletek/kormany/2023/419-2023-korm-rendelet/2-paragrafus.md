@@ -1,9 +1,10 @@
-2. § (1)[^8]
+2. § (1)[^4]
 
-(2)[^9]
+(2)[^5]
 
-(3)[^10]
+(3) Az R. 4. § (2a) bekezdése a következő c) ponttal egészül ki:
 
-[^8]: A 2. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: A 2. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^10]: A 2. § (3) bekezdése a 15. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+(A DMÜ – a DKÜ-vel e rendelet szerint együttműködve –)
+
+[^4]: A 2. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 2. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

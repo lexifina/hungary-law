@@ -2,12 +2,10 @@
 
 14. § Hatályát veszti az R.
 
-a)[^52]
+a) 7. § c) és d) pontja,
 
-b)[^53]
+b) 11. § (9) bekezdése, valamint
 
-c)[^54]
+c)[^33]
 
-[^52]: A 14. § a) pontja a 15. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
-[^53]: A 14. § b) pontja a 15. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
-[^54]: A 14. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^33]: A 14. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
