@@ -1,4 +1,4 @@
-## 5. §[^8] A rendeltetésmódosítási hatóság a döntés meghozatalához szükséges tényállás tisztázásának keretében vizsgálja, hogy a meglévő állapotot rögzítő építészeti-műszaki dokumentáció tartalma a valóságnak megfelel-e, valamint hogy az érintett építményben a rendeltetésmódosítási engedélyhez kötött tevékenységet megkezdték-e.
+## 5. §[^10] A rendeltetésmódosítási hatóság a döntés meghozatalához szükséges tényállás tisztázásának keretében vizsgálja, hogy a meglévő állapotot rögzítő építészeti-műszaki dokumentáció tartalma a valóságnak megfelel-e, valamint hogy az érintett építményben a rendeltetésmódosítási engedélyhez kötött tevékenységet megkezdték-e.
 
 ## 5. A döntés közlése
 
@@ -12,7 +12,7 @@ b) a tűzvédelmi hatósággal, az egészségügyi államigazgatási szervvel, a
 
 (3) A (2) bekezdés b) pontjában meghatározott hatóságoknak a rájuk vonatkozó jogszabályok alapján az építménnyel kapcsolatosan lefolytatható hatósági eljárását a rendeltetésmódosítási eljárás nem zárja ki.
 
-(4)[^9] A rendeltetésmódosítási hatóság a végleges rendeltetésmódosítási engedélyt a véglegessé válás időpontjának tudomásra jutásától számított három napon belül a kérelmezőnek a kapcsolattartás módjára megjelölt rendelkezésének megfelelően megküldi.
+(4)[^11] A rendeltetésmódosítási hatóság a végleges rendeltetésmódosítási engedélyt a véglegessé válás időpontjának tudomásra jutásától számított három napon belül a kérelmezőnek a kapcsolattartás módjára megjelölt rendelkezésének megfelelően megküldi.
 
-[^8]: Az 5. § a 360/2019. (XII. 30.) Korm. rendelet 195. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^9]: A 6. § (4) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 195. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^10]: Az 5. § a 360/2019. (XII. 30.) Korm. rendelet 195. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^11]: A 6. § (4) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 195. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
