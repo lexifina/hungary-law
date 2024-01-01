@@ -1,6 +1,6 @@
 ## 3X05335.pdf
 
-4. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^102]
+4. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^103]
 
 A köztársasági elnöknek
 
@@ -250,4 +250,4 @@ Kelt: ..........................................................................
 
 |  | .................................................................... a kérelmet átvevő aláírása |
 
-[^102]: A 4. számú melléklet a 417/2012. (XII. 29.) Korm. rendelet 8. § (4) bekezdésével megállapított szöveg.
+[^103]: A 4. számú melléklet a 417/2012. (XII. 29.) Korm. rendelet 8. § (4) bekezdésével megállapított szöveg.

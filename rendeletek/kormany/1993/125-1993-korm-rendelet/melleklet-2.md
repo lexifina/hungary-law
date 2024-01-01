@@ -1,5 +1,5 @@
 ## 3X05318.pdf
 
-2. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^100]
+2. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^101]
 
-[^100]: A 2. számú melléklet a 28/2020. (II. 28.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^101]: A 2. számú melléklet a 28/2020. (II. 28.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.

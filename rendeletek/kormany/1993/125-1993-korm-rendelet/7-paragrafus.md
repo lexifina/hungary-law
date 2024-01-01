@@ -1,3 +1,3 @@
-7. §[^52]
+7. §[^53]
 
-[^52]: A 7. §-t a 128/2003. (VIII. 19.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte.
+[^53]: A 7. §-t a 128/2003. (VIII. 19.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte.
