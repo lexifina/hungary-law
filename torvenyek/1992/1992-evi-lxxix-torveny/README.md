@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-79-00-00
 | 2013-07-06 | 2013. évi CXXVII. törvény | 1992-79-00-00.14 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 1992-79-00-00.15 |
 | 2020-01-01 | 2019. évi CX. törvény | 1992-79-00-00.16 |
+| 2024-01-01 | 2023. évi XC. törvény | 1992-79-00-00.17 |

@@ -4,7 +4,7 @@ a) a Magyarország területén lakóhellyel rendelkező magyar állampolgár,
 
 b) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény szerint a szabad mozgás és a három hónapot meghaladó tartózkodás jogával rendelkező személy, amennyiben a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel rendelkezik, valamint
 
-c) az a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személy, aki bevándorolt vagy letelepedett jogállású.
+c) az a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény hatálya alá tartozó személy, aki huzamos tartózkodási jogosultsággal rendelkezik.
 
 (2) A terhesgondozás keretében
 
