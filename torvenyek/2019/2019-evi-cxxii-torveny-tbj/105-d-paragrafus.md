@@ -1,1 +1,3 @@
 105/D. § Az egyes adótörvények módosításáról szóló 2023. évi LXXXIII. törvénnyel megállapított 34. § (6) bekezdését és 80. § (2) bekezdését az átalányadózást alkalmazó, a 42. § (2) bekezdés a)–b) pontjában nem említett egyéni vállalkozó már a 2023. január havi, illetve az azt követő hónapok járulékkötelezettségének a megállapítása során alkalmazhatja.
+
+105/D. § A légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 40. § (4) bekezdés f) pontját és (5) bekezdését a 2023. december 31-ét követően megkezdett szünetelés esetében kell alkalmazni. A 2024. január 1-jén folyamatban lévő szünetelés esetén a 2023. december 31-én hatályos szabályokat kell alkalmazni.

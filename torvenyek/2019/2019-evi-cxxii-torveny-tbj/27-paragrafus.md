@@ -6,9 +6,11 @@ a) az Szja tv. szerint összevont adóalapba tartozó önálló és nem önáll�
 
 b) az a) ponttól eltérően, ha nemzetközi szerződés alapján Magyarországnak nem áll fenn adóztatási joga, vagy kettős adózást kizáró egyezmény hiányában adóelőleg megállapítási kötelezettség nem keletkezik,
 
-ba) az alapbér, (ha a munkát külföldi jog hatálya alá tartozó munkaszerződés alapján végzik, a szerződésben meghatározott díj havi összege), de legalább a tárgyévet megelőző év július hónapjára a Központi Statisztikai Hivatal által a teljes munkaidőben alkalmazásban állók tekintetében közzétett nemzetgazdasági szintű bruttó átlagkereset, vagy – ha a munkát munkavégzésre irányuló egyéb jogviszony alapján végzik – a szerződésben meghatározott díj havi összege, vagy
+ba) az alapbér, (ha a munkát külföldi jog hatálya alá tartozó munkaszerződés alapján végzik, a szerződésben meghatározott díj havi összege), de legalább a tárgyévet megelőző év július hónapjára közzétett nemzetgazdasági szintű bruttó átlagkereset, vagy – ha a munkát munkavégzésre irányuló egyéb jogviszony alapján végzik – a szerződésben meghatározott díj havi összege, vagy
 
-bb) a tevékenység ellenértékeként a tárgy hónapban megszerzett – munkaviszony esetében a tárgyhónapra elszámolt – jövedelem, ha az nem éri el az alapbér (szerződésben meghatározott díj havi összege) vagy a tárgyévet megelőző év július hónapjára a Központi Statisztikai Hivatal által a teljes munkaidőben alkalmazásban állók tekintetében közzétett nemzetgazdasági szintű bruttó átlagkereset közül az egyiket.
+bb) a tevékenység ellenértékeként a tárgy hónapban megszerzett – munkaviszony esetében a tárgyhónapra elszámolt – jövedelem, ha az nem éri el az alapbér (szerződésben meghatározott díj havi összege) vagy a tárgyévet megelőző év július hónapjára közzétett nemzetgazdasági szintű bruttó átlagkereset közül az egyiket;
+
+bc) a tevékenység ellenértékeként harmadik ország állampolgára által a tárgyhónapban megszerzett – munkaviszony esetében a tárgyhónapra elszámolt – jövedelem.
 
 (2) A 6. § (1) bekezdés a) pontjában meghatározott esetben a járulékalap havonta legalább a minimálbér 30 százaléka (a továbbiakban: járulékfizetési alsó határ), azzal, hogy ha
 

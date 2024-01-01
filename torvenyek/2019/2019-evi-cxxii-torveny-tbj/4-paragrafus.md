@@ -6,7 +6,7 @@
 
 1. Belföldi:
 
-1.1. Magyarország területén a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény szerint bejelentett lakóhellyel rendelkező magyar állampolgár, a bevándorolt és a letelepedett jogállású, valamint a menekültként vagy oltalmazottként elismert személy,
+1.1. Magyarország területén a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény szerint bejelentett lakóhellyel rendelkező magyar állampolgár, a huzamos tartózkodási jogosultsággal rendelkező, valamint a menekültként vagy oltalmazottként elismert személy,
 
 1.2. a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személy (a továbbiakban: a szabad mozgás és tartózkodás jogával rendelkező személy), aki a szabad mozgás és a három hónapot meghaladó tartózkodás jogát Magyarország területén gyakorolja, és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel rendelkezik, valamint
 
@@ -143,3 +143,5 @@ abban az esetben is, ha a nyugellátás folyósítása szünetel.
 21.4. az egyéni cég tagja,
 
 21.5. 21.5. a betéti társaság, a közkereseti társaság és a korlátolt felelősségű társaság olyan természetes személy tagja, aki a társaság ügyvezetését nem munkaviszony alapján látja el, kivéve, ha az 1. alpont szerint társas vállalkozónak minősül.
+
+22. Nemzetgazdasági szintű bruttó átlagkereset: a Központi Statisztikai Hivatal által a Hivatalos Értesítőben közzétett, teljes munkaidőben alkalmazásban állókra tekintettel megállapított bruttó átlagkereset.

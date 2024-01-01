@@ -14,6 +14,6 @@ d) az Szja tv. 1/B. §-ának hatálya alá tartozó természetes személyre.
 
 a) a magyar jogszabályok szerint be nem jegyzett külföldi munkáltató által Magyarország területén foglalkoztatott, harmadik állam állampolgárságával rendelkező és külföldinek minősülő munkavállalóra, ha a munkavégzésre kiküldetés, kirendelés vagy munkaerő-kölcsönzés keretében kerül sor, feltéve, hogy e munkavégzés a két évet nem haladja meg, és az előző belföldi munkavégzés befejezésétől számítva három év eltelt;
 
-b) az Nftv. 44. § (1) bekezdés a) pontja szerint a hallgatói munkaszerződés alapján létrejött jogviszonyra.
+b) az Nftv. 44. § (1) bekezdés a) pontja szerint a hallgatói munkaszerződés alapján létrejött jogviszonyra;
 
 c) az Szja tv. 1. számú melléklet 4. pont 4.51. alpontja szerinti munkaviszonyra vagy díjazás ellenében munkavégzésre irányuló egyéb (megbízási szerződés, egyéni vállalkozónak nem minősülő vállalkozási szerződés alapján létrejött) jogviszonyra.
