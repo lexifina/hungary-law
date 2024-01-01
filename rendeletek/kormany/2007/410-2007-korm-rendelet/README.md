@@ -37,3 +37,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-410-20-
 | 2022-03-05 | 2007-410-20-22.36 | 138/2013. (V. 10.) Korm. rendelet |
 | 2023-01-01 | 2007-410-20-22.37 | 616/2022. (XII. 29.) Korm. rendelet |
 | 2023-09-01 | 2007-410-20-22.38 | 393/2023. (VIII. 14.) Korm. rendelet |
+| 2024-01-01 | 2007-410-20-22.39 | 612/2023. (XII. 22.) Korm. rendelet |

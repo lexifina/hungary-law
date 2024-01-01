@@ -10,7 +10,7 @@
 
 | 4 |  | J3 | 45 500 | 130 000 | 195 000 |
 
-| 5 |  | J4 | 52 000 | 143 000 | 214 500 |
+| 5 |  | J4, J5[^67] | 52 000 | 143 000 | 214 500 |
 
 | 6 | 2. | Az ED törvény 14. § b) pontja szerinti szabályszegés esetén |
 
@@ -20,7 +20,7 @@
 
 | 9 |  | J3 | 36 400 | 124 000 | 156 000 |
 
-| 10 |  | J4 | 46 800 | 114 400 | 175 500 |
+| 10 |  | J4, J5[^68] | 46 800 | 114 400 | 175 500 |
 
 | 11 | 3. | Az ED törvény 14. § c) pontja szerinti szabályszegés esetén |
 
@@ -30,6 +30,9 @@
 
 | 14 |  | J3 | 45 500 | 130 000 | 195 000 |
 
-| 15 |  | J4 | 52 000 | 143 000 | 214 500 |
+| 15 |  | J4, J5[^69] | 52 000 | 143 000 | 214 500 |
 
 [^66]: A 9. mellékletet a 175/2013. (V. 31.) Korm. rendelet 2. §-a iktatta be, szövege a 393/2023. (VIII. 14.) Korm. rendelet 1. § h) pontjával megállapított szöveg.
+[^67]: A 9. mellékletben foglalt táblázat B:5 mezője a 612/2023. (XII. 22.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^68]: A 9. mellékletben foglalt táblázat B:10 mezője a 612/2023. (XII. 22.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^69]: A 9. mellékletben foglalt táblázat B:15 mezője a 612/2023. (XII. 22.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
