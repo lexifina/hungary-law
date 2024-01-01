@@ -2,7 +2,7 @@
 
 104. § (1) A közjegyző, a közjegyzőhelyettes vagy a közjegyzőjelölt szolgálatból történő felfüggesztése a törvény erejénél fogva következik be, ha
 
-a) közvádra üldözendő, 3 évnél súlyosabb szabadságvesztés büntetéssel fenyegetett, szándékos bűncselekmény miatt büntetőeljárás hatálya alatt áll,
+a) közvádra üldözendő, 5 évnél súlyosabb szabadságvesztés büntetéssel fenyegetett, szándékos bűncselekmény miatt ellene vádat emeltek,
 
 b) letartóztatását, előzetes kényszergyógykezelését vagy olyan bűnügyi felügyeletét rendelték el a büntetőeljárás során, amelynek során a bíróság a terhelt számára előírta, hogy meghatározott területet, illetve lakást, egyéb helyiséget, intézményt vagy ahhoz tartozó bekerített helyet engedély nélkül nem hagyhat el, vagy
 

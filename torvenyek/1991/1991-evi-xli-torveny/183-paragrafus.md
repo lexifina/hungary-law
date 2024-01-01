@@ -4,7 +4,7 @@
 
 a) a közjegyzők működésének folyamatosságához szükséges átmeneti intézkedéseket,
 
-b) a közjegyzői állások számát és székhelyét, valamint hagyatéki ügyekben a közjegyzők illetékességét a Magyar Országos Közjegyzői Kamara és az Országos Bírósági Hivatal elnöke véleményének ismeretében, továbbá a közjegyzői állások betöltésének részletes feltételeit,
+b) a közjegyzői állások számát és székhelyét, a közjegyzők illetékességi területét, valamint hagyatéki ügyekben az azonos illetékességi területen működő közjegyzők között érvényesülő ügyelosztási rendet a Magyar Országos Közjegyzői Kamara és az Országos Bírósági Hivatal elnöke véleményének ismeretében, továbbá a közjegyzői állások betöltésének részletes feltételeit,
 
 c)
 
@@ -22,7 +22,7 @@ i) a közjegyzői levéltár anyagának nyilvántartásával, szakszerű, bizton
 
 j) a közjegyzői pályázati eljárás részletes szabályait, és a közjegyzői kinevezéshez készített kamarai javaslatban szereplő pályázati rangsor kialakítása során figyelembe vehető szempontokat és azokhoz rendelhető pontszámokat,
 
-k) a közjegyző okirat-szerkesztési eljárására irányuló kérelem tartalmi és formai követelményeit,
+k) a közjegyző okirat-szerkesztési, az okirat megőrzése iránti, a pénz, értéktárgy és értékpapír bizalmi őrzése iránti eljárására irányuló kérelem tartalmi és formai követelményeit,
 
 l) a közjegyzői vizsga részletes szabályait.
 

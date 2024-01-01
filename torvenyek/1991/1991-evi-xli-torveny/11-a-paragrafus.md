@@ -24,7 +24,7 @@ g) tartós vagy állandó helyettes kirendelése és a kirendelés visszavonása
 
 (4) A kamarai hatósági eljárást első fokon a területi kamara elnöksége folytatja le, az elnökség döntése elleni fellebbezést az országos kamara bírálja el.
 
-(5)
+(5) Ha a területi kamara elnökségének hatáskörébe tartozó kamarai hatósági eljárás nyilvántartásba vagy névjegyzékbe való bejegyzésre vagy törlésre irányul, a nyilvántartásba való bejegyzésre vagy törlésre a területi kamara elnöksége haladéktalanul köteles.
 
 (6) Az általános közigazgatási rendtartásról szóló törvény kizárásra vonatkozó szabályait e törvény kizárási szabályaival együtt kell alkalmazni.
 

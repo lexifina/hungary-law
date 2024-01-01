@@ -48,15 +48,17 @@
 
 24. a közjegyzői eljárásokban az elektronikus ügyintézés egyes kérdéseiről,
 
-25. a közjegyzői okiratszerkesztésre vonatkozó egyes formai követelményekről, és
+25. a közjegyzői okiratszerkesztésre vonatkozó egyes formai követelményekről,
 
-26. minden olyan kérdésről, amelyre jogszabály vagy a szervezeti és működési szabályzata feljogosítja.
+26. minden olyan kérdésről, amelyre jogszabály vagy a szervezeti és működési szabályzata feljogosítja,
 
-27. az elektronikus hírközlő eszköz vagy más személyazonosítást lehetővé tevő elektronikus eszköz útján való tanácskozás és döntéshozatal szabályairól, továbbá a titkos szavazás lebonyolításának módjáról.
+27. az elektronikus hírközlő eszköz vagy más személyazonosítást lehetővé tevő elektronikus eszköz útján való tanácskozás és döntéshozatal szabályairól, továbbá a titkos szavazás lebonyolításának módjáról, és
+
+28. a közjegyzői pályázatok benyújtásával és elbírálásával kapcsolatos, jogszabályban nem rendezett kérdésekről.
 
 (2) Az országos kamara szervezeti és működési szabályzatot készít, amelyben rögzíti saját szervezetét, működési és gazdálkodási rendjét, a területi kamarákkal és a területi elnökségekkel összefüggő jogait, valamint kapcsolattartásuk rendjét.
 
-(3) A területi és az országos kamara szervezeti és működési szabályzata, valamint az (1) bekezdés 1., 6., 9., 10., 11., 20., 21. és 23. pontjában felsorolt szabályzatok kiemelt szabályzatok.
+(3) A területi és az országos kamara szervezeti és működési szabályzata, valamint az (1) bekezdés 1., 6., 9., 10., 11., 20., 21., 23. és 28. pontjában felsorolt szabályzatok kiemelt szabályzatok.
 
 (4) Az országos kamara szabályzata a területi kamarákra, a területi kamara tagjaira, és a területi kamara által a kamarai nyilvántartásba vett személyekre kötelező.
 

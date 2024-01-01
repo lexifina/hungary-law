@@ -4,7 +4,7 @@
 
 (2) A Budapesten működő közjegyzők illetékessége a főváros egész területére kiterjed.
 
-(3) Az igazságügyért felelős miniszter (a továbbiakban: miniszter) rendelettel állapítja meg annak a közjegyzőnek az illetékességi területét, akinek a székhelyén nem működik bíróság.
+(3) Az igazságügyért felelős miniszter (a továbbiakban: miniszter) rendelettel állapítja meg a közjegyzők illetékességi területét és a hagyatéki eljárásban alkalmazandó ügyelosztási rendet.
 
 (4) A közjegyző helyszíni eljárást az illetékességi területén folytathat.
 
