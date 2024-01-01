@@ -1,3 +1,3 @@
-17. §[^18]
+17. §[^17]
 
-[^18]: A 17. § a 66. § (3) bekezdés alapján 2024. január 7-én lép hatályba.
+[^17]: A 17. § a 66. § (3) bekezdés alapján 2024. január 7-én lép hatályba.

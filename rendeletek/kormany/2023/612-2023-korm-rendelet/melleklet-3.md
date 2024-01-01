@@ -1,3 +1,3 @@
-3. melléklet a 612/2023. (XII. 22.) Korm. rendelethez[^79]
+3. melléklet a 612/2023. (XII. 22.) Korm. rendelethez[^76]
 
-[^79]: A 3. melléklet a 66. § (3) bekezdés alapján 2024. január 7-én lép hatályba.
+[^76]: A 3. melléklet a 66. § (3) bekezdés alapján 2024. január 7-én lép hatályba.
