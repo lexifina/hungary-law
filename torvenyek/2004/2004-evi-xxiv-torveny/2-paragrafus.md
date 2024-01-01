@@ -125,3 +125,5 @@ cc) megfelel a 2. mellékletben meghatározott követelményeknek;
 50. egyedi jóváhagyást igénylő lőfegyver: az a lőfegyver, amelynek az engedély nélküli megszerzését és tartását, illetve amelyre nézve az adott tevékenység engedély nélküli végzését e törvény kizárja;
 
 51. működőképes lőfegyver: a 16. pontban meghatározott légfegyver, valamint a 29. pont b)–d) alpontjában meghatározott tűzfegyver kivételével a tűzfegyver.
+
+52. a lőfegyverhez (tűzfegyverhez) tartozó (használható) lőszer: kaliberjelére való tekintet nélkül a jogszerűen tartott lőfegyverhez (tűzfegyverhez) rendeltetésszerűen használható lőszer, ha annak a lőfegyverrel (tűzfegyverrel) – az engedélyezett célra – történő együttes használatát a jogszabály nem zárja ki.
