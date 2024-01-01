@@ -5,5 +5,3 @@
 ## „3. számú melléklet a 2010. évi CXLVI. törvényhez
 
 ## A Műsorszolgáltatás Támogató és Vagyonkezelő Alap 2011. évi költségvetése
-
-## | | M Ft-ban | | 2011. év | 1. | | Átvállalt üzembentartási díj és költségvetési hozzájárulások | 57 700,000 | | | 1.1. | Átvállalt üzembentartási díj | | 29 458,500 | | 1.2. | Költségvetési hozzájárulás | | 28 241,500 | 2. | | Médiaszolgáltatási díj | 4 129,187 | | | 2.1. | MTM-SBS Televízió Zrt. | | 1 032,630 | | 2.2. | Magyar RTL Televízió Zrt. | | 938,012 | | 2.3. | 1. sz. orsz. ker. r. jogosultság (Advenio Zrt.) | | 564,186 | | 2.4. | 2. sz. orsz. ker. r. jogosultság (FM 1 Zrt.) | | 380,846 | | 2.5. | nem országos műsorszolgáltatási jogosultságok | | 1 213,513 | 3. | | Pályázati díjak | 26,000 | | 4. | | Kötbér, kártérítés, bírság | 143,592 | | 5. | | Önkéntes befizetések | – | | 6. | | Egyéb bevételek | 40,000 | | 7. | | JBE Kereskedelmi Televíziók reklámbevételeiből származó összeg | 1 000,000 | | 8. | | A Magyar Rádió Művészeti együttesének támogatása | 1 000,000 | | | | Költségvetési bevételek összesen | 64 038,779 |

@@ -24,4 +24,4 @@
 
 (8) A Kormány nem polgári célú frekvenciagazdálkodással kapcsolatos közigazgatási feladatait a Hivatal látja el.
 
-(9)
+(9) A Hivatal törvényben meghatározottak szerint – a reklámhordozók, valamint reklámhordozót tartó berendezések elhelyezésével összefüggő településkép-védelem körében – közreműködik az országos településkép-védelmi feladatok ellátásában, e feladatkörében vezeti az országos reklámkatasztert.

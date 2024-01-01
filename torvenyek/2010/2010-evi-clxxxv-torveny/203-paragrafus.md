@@ -122,7 +122,7 @@ d) információk megtalálását elősegítő segédeszközöket biztosít az ig
 
 33. Közszolgálati médiavagyon: a közszolgálati médiaszolgáltató, jogelődei, valamint az Alap által megrendelt, bármilyen jogcímen készített, adásvétel útján beszerzett, felhasználási szerződéssel vagy egyéb megállapodás útján részben vagy egészben megszerzett, vagy készített filmalkotások és más audiovizuális művek, rádiós műsorszámok, hangfelvételek és a médiaszolgáltatáshoz kapcsolódó egyéb, kulturális értéket képviselő dokumentumok, fényképek szerzői és szomszédos jogai, vagy ezek bármely felhasználási jogai, valamint e műveket tartalmazó fizikai hordozók (például: lemezek, szalagok, kazetták, papíralapú dokumentumok, kották), továbbá a jelmezek, kellékek, díszletek és egyéb szerzői művek, amennyiben a művel kapcsolatos szerzői és szomszédos jogok a törvény hatálybalépését megelőzően a közszolgálati médiaszolgáltató jogelődei valamelyikét vagy a törvény hatálybalépését követően az Alapot illetik meg vagy illették meg, valamint amelyekre vonatkozóan e törvény hatálybalépését követően a közszolgálati médiaszolgáltató jogelődei szereztek, vagy maga a közszolgálati médiaszolgáltató szerez jogot.
 
-34. Közzététel: a Hatóság hirdetőtábláján történő kifüggesztés, illetve a Hatóság internetes honlapján történő megjelentetés. A közzététel időpontja a hirdetőtáblán történő kifüggesztés napja.
+34. Közzététel: a Hatóság internetes honlapján történő megjelentetés. A közzététel időpontja a honlapra kihelyezés napja.
 
 35. Lekérhető médiaszolgáltatás: olyan médiaszolgáltatás, amelyben a médiaszolgáltató által összeállított műsorkínálat alapján a felhasználó egyéni kérés alapján, az általa kiválasztott időpontban tekintheti, illetve hallgathatja meg a műsorszámokat.
 
