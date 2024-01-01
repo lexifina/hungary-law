@@ -1,1 +1,1 @@
-269. § A fiatalkorúakat betételhelyezésre, hitelfelvételre vagy egyéb pénzügyi szolgáltatás igénybevételére felhívó reklámot hitelintézet mint reklámozó esetében legalább két országos napilapban, szövetkezeti hitelintézet mint reklámozó esetében pedig legalább egy napilapban és egy országos napilapban közzé kell tenni.
+269. § A fiatalkorúakat betételhelyezésre, hitelfelvételre vagy egyéb pénzügyi szolgáltatás igénybevételére felhívó reklámot a hitelintézet, illetve a szövetkezeti hitelintézet mint reklámozó köteles a honlapján közzétenni.

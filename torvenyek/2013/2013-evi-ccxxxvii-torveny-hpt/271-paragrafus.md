@@ -8,7 +8,7 @@ b) az ügyfelek számára ajánlott pénzügyi és kiegészítő pénzügyi szol
 
 c) a kamatokat, szolgáltatási díjakat, az ügyfelet terhelő egyéb költségeket, a késedelmi kamatokat, valamint a kamatszámítás módszerét.
 
-(1a) Ha az általános szerződési feltételt is tartalmazó üzletszabályzat, valamint bármely egyéb szabályzat módosítása fogyasztóval már megkötött szerződést is érint, a pénzügyi intézmény az internetes honlapján könnyen elérhető módon legalább 5 évig a módosítást megelőzően hatályos üzletszabályzatát, valamint egyéb szabályzatát is hozzáférhetővé teszi. Ha a pénzügyi intézmény nem rendelkezik internetes honlappal, a korábban hatályos üzletszabályzathoz, valamint egyéb szabályzathoz történő hozzáférést az ügyfélfogadásra nyitva álló helyiségében biztosítja.
+(1a) Ha az általános szerződési feltételt is tartalmazó üzletszabályzat, valamint bármely egyéb szabályzat módosítása fogyasztóval már megkötött szerződést is érint, a pénzügyi intézmény az internetes honlapján könnyen elérhető módon legalább 5 évig a módosítást megelőzően hatályos üzletszabályzatát, valamint egyéb szabályzatát is hozzáférhetővé teszi.
 
 (2) A pénzügyi intézmény az ügyfél kérésére ingyenesen rendelkezésre bocsátja
 

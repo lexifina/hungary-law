@@ -1,1 +1,1 @@
-240. § Az OBA a 237. §-ban foglalt kizárás esetén – huszonnégy órán belül – írásban tájékoztatja a kizárás tényéről és okáról a Felügyeletet. Az OBA erről negyvennyolc órán belül legalább két országos napilapban felhívást tesz közzé.
+240. § Az OBA a 237. §-ban foglalt kizárás esetén – huszonnégy órán belül – írásban tájékoztatja a kizárás tényéről és okáról a Felügyeletet. Az OBA erről negyvennyolc órán belül a honlapján felhívást tesz közzé.

@@ -344,7 +344,7 @@ amelynek fizetésképtelenné válása vagy nem prudens működése rendszerkock
 
 108. tartós adathordozó: olyan eszköz, amely az ügyfél számára lehetővé teszi a neki címzett adatoknak az adat céljának megfelelő ideig történő tartós tárolását és a tárolt adatok változatlan formában és tartalommal történő megjelenítését;
 
-108a. teljes bizonyító erejű magánokirat: az e törvény hatálya alá tartozó pénzügyi intézmény és az ügyfele között létrejött szerződés, és az e törvény hatálya alá tartozó magánokirati formában tett jognyilatkozat akkor is teljes bizonyító erejű magánokiratnak minősül, ha az megfelel a polgári perrendtartásról szóló 2016. évi CXXX. törvény 325. § (1) bekezdés b) pontjában foglaltaknak azzal az eltéréssel, hogy ha a tanú a pénzügyi intézmény munkavállalója, akkor a lakóhelye vagy tartózkodási helye helyett együttesen a munkáltatója címét (székhelyét, telephelyét, fióktelepét), valamint a személyazonosításra alkalmas hatósági igazolvány típusát és számát is feltüntetheti a magánokiraton;
+108a. teljes bizonyító erejű magánokirat: az e törvény hatálya alá tartozó pénzügyi intézmény és az ügyfele között létrejött szerződés, és az e törvény hatálya alá tartozó magánokirati formában tett jognyilatkozat – ide értve a 7. § (3) bekezdés l) pontja szerinti tevékenység keretében tett jognyilatkozatot is – akkor is teljes bizonyító erejű magánokiratnak minősül, ha az megfelel a polgári perrendtartásról szóló 2016. évi CXXX. törvény 325. § (1) bekezdés b) pontjában foglaltaknak azzal az eltéréssel, hogy ha a tanú a pénzügyi intézmény munkavállalója, akkor a lakóhelye vagy tartózkodási helye helyett együttesen a munkáltatója címét (székhelyét, telephelyét, fióktelepét), valamint a munkavállaló azonosítása érdekében az érintett pénzügyi intézmény elektronikus rendszereiben a munkavállalóra vonatkozó, egyedileg generált és nyilvántartott azonosítóját szükséges feltüntetnie a magánokiraton;
 
 109. teljes hiteldíj mutató: a fogyasztónak nyújtott hitelről szóló törvényben meghatározott fogalom;
 
@@ -488,7 +488,13 @@ d) az önkéntes kölcsönös biztosító pénztár által nyújtott tagi kölcs
 
 e) az önkormányzat által adott lakáscélú vagy szociális kölcsön.
 
-f) a tőkévé konvertálható kölcsönnek a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény szerinti korlátozott körű, egy naptári évben legfeljebb tizenöt alkalommal történő nyújtása, amennyiben a nyújtott kölcsönök összesített állománya természetes személy esetében legfeljebb ötszázmillió forint, jogi személy esetében legfeljebb kettőmilliárd forint.
+f) a tőkévé konvertálható kölcsönnek a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény szerinti korlátozott körű, egy naptári évben legfeljebb tizenöt alkalommal történő nyújtása, amennyiben a nyújtott kölcsönök összesített állománya
+
+fa) természetes személy esetében a Ptk. 8:1. § (1) bekezdés 2. pontja szerinti hozzátartozóival összeszámítottan legfeljebb kettőmilliárd forint azzal, hogy egy vállalkozás részére átadott összeg legfeljebb százötvenmillió forint lehet,
+
+fb) jogi személy esetében a kapcsolt vállalkozásaival összeszámítottan legfeljebb kettőmilliárd forint azzal, hogy egy vállalkozás részére átadott összeg legfeljebb százötvenmillió forint lehet
+
+ide nem értve a pénzügyi intézmény által kötött ilyen ügyleteket.
 
 (6) Nem minősül pénzügyi lízingnek az anyavállalat és a leányvállalata közötti lízing, ide nem értve a pénzügyi intézmény által kötött ilyen ügyletet.
 

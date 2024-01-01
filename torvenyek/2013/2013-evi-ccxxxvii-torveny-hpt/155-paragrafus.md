@@ -16,7 +16,7 @@ cc) szakirányú felsőfokú végzettséggel és vállalkozásnál vagy a közig
 
 cd) nem szakirányú felsőfokú iskolai végzettséggel, de azonos típusú vagy hasonló méretű pénzügyi intézménynél, befektetési vállalkozásnál szerzett legalább hatéves szakirányú vezetői gyakorlattal.
 
-(2) Az (1) bekezdés b) pontja szerinti kérelem tartalmazza a kinevezni tervezett vagy megválasztani kívánt személy szakmai önéletrajzát, valamint az (1) bekezdésben meghatározott feltételek teljesítésére vonatkozó okiratokat vagy azok hiteles másolatát, valamint az érintett személynek a 137. § (6) bekezdésében meghatározott büntetőeljárásra vonatkozó nyilatkozatát.
+(2) Az (1) bekezdés szerinti pályázathoz csatolni kell a kinevezni tervezett vagy megválasztani kívánt személy szakmai önéletrajzát, az (1) bekezdésben meghatározott feltételek teljesítésére vonatkozó okiratokat vagy azok hiteles másolatát, valamint az érintett személynek a 137. § (6) bekezdésében meghatározott büntetőeljárásra vonatkozó nyilatkozatát.
 
 (3) Az (1) bekezdés c) pont ca)–cc) alpontja alkalmazásában szakirányú felsőfokú iskolai végzettségűnek minősül, aki
 
@@ -44,4 +44,4 @@ cb) pénzügyi intézménynél, az MNB-nél, a Pénzügyi Szervezetek Állami Fe
 
 cc) más gazdasági területen szerzett legalább hároméves vezetői gyakorlattal.
 
-(5) A (4) bekezdés b) pontja szerinti kérelem tartalmazza a kinevezni vagy megválasztani tervezett személy szakmai önéletrajzát, valamint a (4) bekezdésben meghatározott feltételek teljesítésére vonatkozó okiratokat vagy azok hiteles másolatát, valamint az érintett személynek a 137. § (6) bekezdésben meghatározott büntetőeljárásra vonatkozó nyilatkozatát.
+(5) A (4) bekezdés szerinti pályázathoz csatolni kell a kinevezni tervezett vagy megválasztani kívánt személy szakmai önéletrajzát, az (1) bekezdésben meghatározott feltételek teljesítésére vonatkozó okiratokat vagy azok hiteles másolatát, valamint az érintett személynek a 137. § (6) bekezdésében meghatározott büntetőeljárásra vonatkozó nyilatkozatát.

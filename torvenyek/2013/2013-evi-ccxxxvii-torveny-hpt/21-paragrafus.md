@@ -10,9 +10,11 @@ a) akinek vezető állású személye – ideértve az egyéni vállalkozót is 
 
 aa) büntetlen előéletű,
 
-ab) jó üzleti hírnévvel rendelkezik,
+ab) nem áll közgazdasági vagy pénzügyi jellegű munkakör vagy tevékenység vonatkozásában foglalkozástól vagy tevékenységtől eltiltás hatálya alatt,
 
-ac) legalább három év szakirányú szakmai gyakorlattal, valamint a közvetítőkre előírt szakmai végzettséggel rendelkezik,
+ac) jó üzleti hírnévvel rendelkezik,
+
+ad) legalább három év szakirányú szakmai gyakorlattal, valamint a közvetítőkre előírt szakmai végzettséggel rendelkezik,
 
 b) akinek mindenkor rendelkezésére áll a tevékenységéből eredő károk biztosításához szükséges felelősségbiztosítás.
 

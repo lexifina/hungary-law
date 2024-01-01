@@ -2,7 +2,27 @@
 
 (1a) A Felügyelet az e törvényben foglalt, továbbá a jelzáloghitel nyújtására vonatkozó előírások felügyeleti ellenőrzésével kapcsolatos hatáskörének gyakorlása érdekében, a jelzáloghitel közvetítői tevékenységet végző közvetítő másik EGT-államban létesített fióktelepéhez a másik EGT-állam illetékes felügyeleti hatóságainak tájékoztatását követően helyszíni vizsgálót rendelhet ki.
 
-(2) Ha a Felügyelet megállapítja, hogy a közvetítő fióktelepe megsértette a fogyasztónak nyújtott hitelről szóló törvényben, valamint végrehajtására kiadott jogszabályokban foglalt követelményeket, akkor kötelezi a fióktelepet a jogsértő helyzet megszüntetésére. Ha a Felügyelet határozata ellenére a fióktelep nem szünteti meg a jogsértő helyzetet, a Felügyeletnek meg kell tennie a szükséges intézkedéseket a szabályellenes helyzet megszüntetésére, amelyről egyidejűleg tájékoztatja a másik EGT-állam illetékes felügyeleti hatóságát.
+(2) Ha a Felügyelet megállapítja, hogy a közvetítő fióktelepe megsértette a fogyasztónak nyújtott hitelről szóló törvényben, az MNB tv.-ben, valamint a végrehajtási jogszabályokban foglalt, a (2a) bekezdésben meghatározott követelményeket, akkor kötelezi a fióktelepet a jogsértő helyzet megszüntetésére. Ha a Felügyelet határozata ellenére a fióktelep nem szünteti meg a jogsértő helyzetet, a Felügyeletnek meg kell tennie a szükséges intézkedéseket a szabályellenes helyzet megszüntetésére, amelyről egyidejűleg tájékoztatja a másik EGT-állam illetékes felügyeleti hatóságát.
+
+(2a) A Felügyelet által a közvetítő fióktelepénél vizsgált követelmények:
+
+a) a kereskedelmi kommunikációra,
+
+b) a hitelszerződés megkötését megelőző tájékoztatásra,
+
+c) a közvetítő tájékoztatási kötelezettségére,
+
+d) a jelzáloghitelek feltételeinek kialakítására, a hiteltanácsadásra, a kapcsolódó szolgáltatás nyújtására,
+
+e) a foglalkoztatottak szakmai ismereteire,
+
+f) a teljes hiteldíj mutató számítására,
+
+g) a fogyasztóra vonatkozó információk bekérésére és ellenőrzésére és
+
+h) a Pénzügyi Békéltető Testület eljárásához kapcsolódó kötelezettségre
+
+vonatkozó előírások.
 
 (3) Ha a fióktelep a Felügyelet intézkedése ellenére továbbra is megsérti az (1) bekezdésben foglalt jogszabályi követelményeket, a Felügyelet megtilthatja a fióktelep számára jelzáloghitel közvetítői tevékenysége Magyarországon történő további folytatását, amelyről a Felügyelet haladéktalanul tájékoztatja az Európai Bizottságot.
 

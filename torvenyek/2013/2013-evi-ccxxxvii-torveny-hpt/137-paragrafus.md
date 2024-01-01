@@ -20,6 +20,8 @@ c) büntetett előéletű;
 
 d) nem rendelkezik jó üzleti hírnévvel.
 
+e) közgazdasági vagy pénzügyi jellegű munkakör vagy tevékenység vonatkozásában foglalkozástól vagy tevékenységtől eltiltás hatálya alatt áll.
+
 (5) Hitelintézetnél nem lehet vezető állású személy – a felügyeleti jogkörrel rendelkező vezető testület tagja kivételével – a (4) bekezdésben foglaltakon túl az sem, aki
 
 a) nem rendelkezik legalább háromévi – a banki vagy vállalati gazdálkodás vagy a közigazgatás pénzügyi, illetve gazdasági területén szerzett – vezetői gyakorlattal,

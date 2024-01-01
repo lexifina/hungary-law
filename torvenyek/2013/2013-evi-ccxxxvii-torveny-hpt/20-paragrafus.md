@@ -16,7 +16,7 @@ e) a folytatni kívánt tevékenységekre vonatkozó, az általános szerződés
 
 f) nyilatkozatot arra vonatkozóan, hogy a tevékenységét mikor kívánja megkezdeni,
 
-g) az Országos Betétbiztosítási Alapnak (a továbbiakban: OBA) megküldött csatlakozási nyilatkozat másolatát kivéve, ha a fióktelep formában működő hitelintézetnek e törvény alapján nem szükséges csatlakoznia az OBA-hoz,
+g)
 
 h) nyilatkozatot arról, hogy a jogszabályban meghatározott adatszolgáltatások teljesítésére felkészült, valamint az adatszolgáltatáshoz felhasznált számítógépes programok tesztfuttatási eredményeit,
 
