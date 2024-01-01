@@ -1,6 +1,6 @@
 5. § E törvény alkalmazásában felügyeletet ellátó szerv az 1. § (1) bekezdés
 
-a) a)–e) pontjában meghatározott szolgáltatók vonatkozásában a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró MNB (a továbbiakban: Felügyelet);
+a) a)–e) pontjában meghatározott szolgáltatók és az 1. § (1b) bekezdésében meghatározott személyek vonatkozásában a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró MNB (a továbbiakban: Felügyelet);
 
 b) i) pontjában meghatározott szolgáltatók vonatkozásában a Szabályozott Tevékenységek Felügyeleti Hatósága;
 

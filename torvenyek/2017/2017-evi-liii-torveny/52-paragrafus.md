@@ -1,4 +1,4 @@
-52. § (1) A pénzügyi információs egység nemzetközi információcsere és együttműködés keretében az e törvény, valamint a Közösség területére belépő, illetve a Közösség területét elhagyó készpénz ellenőrzéséről szóló, 2005. október 26-i 1889/2005/EK európai parlamenti és tanácsi rendelet végrehajtásáról szóló törvény alapján tudomására jutott információt – az alapbűncselekmény típusától függetlenül – továbbíthatja a külföldi pénzügyi információs egység, valamint az Europol részére.
+52. § (1) A pénzügyi információs egység nemzetközi információcsere és együttműködés keretében az e törvény, valamint a készpénz ellenőrzéséről szóló törvény alapján tudomására jutott információt – az alapbűncselekmény típusától függetlenül – továbbíthatja a külföldi pénzügyi információs egység, valamint az Europol részére.
 
 (2) A pénzügyi információs egység a külföldi pénzügyi információs egység információcsere iránti megkeresésének megválaszolását, illetve az azzal kapcsolatos tájékoztatást megtagadja, ha
 

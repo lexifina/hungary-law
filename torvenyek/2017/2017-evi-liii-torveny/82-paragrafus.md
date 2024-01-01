@@ -10,6 +10,16 @@ c) a biztosítási és viszontbiztosítási üzleti tevékenység megkezdésér�
 
 d) a pénzügyi és egyéb információk bizonyos bűncselekmények megelőzése, felderítése, nyomozása és a vádeljárás lefolytatása céljából történő felhasználásának megkönnyítését szolgáló szabályok megállapításáról, valamint a 2000/642/IB tanácsi határozat hatályon kívül helyezéséről szóló, 2019. június 20-i (EU) 2019/1153 európai parlamenti és tanácsi irányelvnek
 
+e) a belső piaci szolgáltatásokról szóló, 2006. december 27-i 2006/123/EK európai parlamenti és tanácsi irányelvnek
+
 való megfelelést szolgálja.
 
-(2) E törvény a pénzátutalásokat kísérő adatokról és a 1781/2006/EK rendelet hatályon kívül helyezéséről szóló, 2015. május 20-i (EU) 2015/847 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+(2) E törvény
+
+a) a pénzátutalásokat kísérő adatokról és a 1781/2006/EK rendelet hatályon kívül helyezéséről szóló, 2015. május 20-i (EU) 2015/847 európai parlamenti és tanácsi rendelet,
+
+b) az (EU) 2022/1231 tanácsi végrehajtási rendelettel módosított, a belarusz helyzetre és Belarusznak az Ukrajna elleni orosz agresszióban való részvételére tekintettel hozott korlátozó intézkedésekről szóló, 2006. május 18-i 765/2006/EK tanácsi rendelet 1j–1l. és 1u–1zb. cikke és
+
+c) az (EU) 2022/1269 tanácsi rendelettel módosított, az ukrajnai helyzetet destabilizáló orosz intézkedések miatt hozott korlátozó intézkedésekről szóló, 2014. július 31-i 833/2014/EU tanácsi rendelet 5–5i. és 5l–5n. cikke
+
+végrehajtásához szükséges rendelkezéseket állapít meg.

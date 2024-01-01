@@ -16,7 +16,7 @@ f) a tulajdonosi érdekeltség jellegét és mértékét.
 
 (2) A szolgáltató az (1) bekezdésben meghatározott adatokon kívül az ügyféltől az arra vonatkozó nyilatkozat megtételét is köteles kérni, hogy a tényleges tulajdonosa kiemelt közszereplőnek minősül-e. Ha a tényleges tulajdonos kiemelt közszereplő, a nyilatkozatnak tartalmaznia kell, hogy a 4. § (2) bekezdés mely pontja alapján minősül kiemelt közszereplőnek.
 
-(3) Ha kétség merül fel a tényleges tulajdonos kilétével kapcsolatban, a szolgáltató megtesz minden további, a felügyeletet ellátó szerv által meghatározott intézkedést mindaddig, amíg nem bizonyosodik meg a tényleges tulajdonos személyéről, ideértve az ügyfél tulajdonosi és irányítási rendszerének megértését is.
+(3) A szolgáltató megtesz minden további, a felügyeletet ellátó szerv által meghatározott intézkedést mindaddig, amíg nem bizonyosodik meg a tényleges tulajdonos személyéről, ideértve az ügyfél tulajdonosi és irányítási rendszerének megértését is.
 
 (4) A szolgáltató köteles a tényleges tulajdonos személyazonosságára vonatkozó adat ellenőrzésére a részére bemutatott okirat, nyilvánosan hozzáférhető nyilvántartás vagy más olyan nyilvántartás alapján, amelynek kezelőjétől törvény alapján adatigénylésre jogosult.
 
@@ -29,3 +29,13 @@ f) a tulajdonosi érdekeltség jellegét és mértékét.
 (7) A szolgáltató köteles nyilvántartást vezetni a tényleges tulajdonos azonosítása és személyazonosságának igazoló ellenőrzése érdekében az (1)–(6) bekezdés alapján megtett intézkedésekről.
 
 (8) Ha a jogi személy vagy jogi személyiséggel nem rendelkező szervezet ügyfél tényleges tulajdonosa a 3. § 38. pont f) alpontja alapján a vezető tisztségviselő, a szolgáltató köteles a vezető tisztségviselőt azonosítani és személyazonosságának igazoló ellenőrzését elvégezni. A szolgáltató köteles rögzíteni az elvégzett ügyfél-átvilágítási intézkedéseket, valamint az arra vonatkozó információt is, ha ezen intézkedéseket nem tudta végrehajtani.
+
+(9) A jogi személy vagy jogi személyiséggel nem rendelkező szervezet ügyfél – a 7–10. § szerinti ügyfél-átvilágítással és a 12. § (3) bekezdésében foglalt kötelezettség teljesítésével összefüggésben – nyilvántartja a tényleges tulajdonosaira vonatkozó, az (1) és (2) bekezdés szerinti adatokat, és gondoskodik ezen adatok naprakészen tartásáról.
+
+(10) A jogi személy vagy jogi személyiséggel nem rendelkező szervezet ügyfél tényleges tulajdonosa a jogi személy vagy jogi személyiséggel nem rendelkező szervezet ügyfelet
+
+a) az (1) és (2) bekezdés szerinti adatokról az ügyfél felhívására, illetve
+
+b) az (1) és (2) bekezdés szerinti adatok változásáról
+
+haladéktalanul tájékoztatja.

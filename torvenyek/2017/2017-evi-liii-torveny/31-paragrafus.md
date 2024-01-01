@@ -2,4 +2,4 @@
 
 (2) A szolgáltató a kijelölt személy nevéről, beosztásáról, elérhetőségéről a tevékenysége megkezdésének időpontjától, valamint az ezekben bekövetkezett változásról a változástól számított öt munkanapon belül köteles tájékoztatni a pénzügyi információs egységet.
 
-(3) A szolgáltató nevében a kijelölt személy a bejelentést a pénzügyi információs egységnek védelemmel ellátott elektronikus üzenet formájában továbbítja, amelynek beérkezéséről a pénzügyi információs egység elektronikus üzenet formájában haladéktalanul értesíti a bejelentést küldő szolgáltatót.
+(3) A szolgáltató nevében a kijelölt személy a bejelentést és annak mellékleteit a pénzügyi információs egység által meghatározott formában, védelemmel ellátott elektronikus üzenetben továbbítja a pénzügyi információs egységnek, amelynek beérkezéséről a pénzügyi információs egység elektronikus üzenetben haladéktalanul értesíti a bejelentést küldő szolgáltatót.

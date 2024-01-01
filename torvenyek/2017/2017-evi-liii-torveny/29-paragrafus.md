@@ -2,6 +2,8 @@
 
 (2) A miniszter tájékoztatja a Bizottságot és a tagállamokat a koordinált nemzeti kockázatértékelés mindenkori aktualizált eredményeiről.
 
+(2a) Az európai felügyeleti hatóságok számára a Felügyelet továbbítja a koordinált nemzeti kockázatértékelés mindenkori aktualizált eredményeit.
+
 (3) A miniszter nyilvánosságra hozza a koordinált nemzeti kockázatértékelés mindenkori aktualizált eredményeinek minősített adatokat nem tartalmazó összefoglalását.
 
 (4) A koordinált nemzeti kockázatértékelés elkészítésében közreműködő szervek – a nemzetközi együttműködésüket szabályozó rendelkezéseknek is megfelelő módon – információt szolgáltathatnak az Európai Unió tagállamai által készített kockázatértékeléshez.

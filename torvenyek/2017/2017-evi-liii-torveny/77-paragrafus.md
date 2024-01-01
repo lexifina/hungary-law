@@ -10,7 +10,7 @@ b) a belső ellenőrző és információs rendszer működtetésére,
 
 c) az egyszerűsített és a fokozott ügyfél-átvilágítás esetköreire és azok felügyeleti jóváhagyásának szabályaira,
 
-d) az auditált elektronikus hírközlő eszköz és működtetésének minimum követelményeire, auditálásának módjára, valamint az ilyen eszköz útján végzett ügyfél-átvilágítás végrehajtására,
+d) az auditált elektronikus hírközlő eszköz és működtetésének, belső szabályozásának minimum-követelményeire, auditálásának módjára, valamint az ilyen eszköz útján végzett ügyfél-átvilágítás végrehajtására,
 
 e) a megerősített eljárás esetköreire és feltételrendszerére,
 
@@ -20,7 +20,7 @@ g) a képzési programra,
 
 h) az ügylet felfüggesztésére
 
-i) a tényleges tulajdonos személyazonosságának megállapítása érdekében megteendő intézkedésekre
+i) a tényleges tulajdonos kilétének, valamint az ügyfél tulajdonosi és irányítási szerkezetének megértése és megállapítása érdekében megteendő intézkedésekre.
 
 vonatkozó részletszabályokat.
 
@@ -30,9 +30,9 @@ a) a belső kockázatértékelés elkészítésének szabályrendszerére,
 
 b) a belső ellenőrző és információs rendszer működtetésére,
 
-c) az egyszerűsített és a fokozott ügyfél-átvilágítás esetköreire és azok felügyeleti jóváhagyásának szabályaira,
+c) a fokozott ügyfél-átvilágítás esetköreire, valamint az egyszerűsített ügyfél-átvilágítás során alkalmazandó küszöbértékre és határidőre,
 
-d) az auditált elektronikus hírközlő eszköz és működtetésének minimum követelményeire, auditálásának módjára, valamint az ilyen eszköz útján végzett ügyfél-átvilágítás végrehajtására,
+d) az auditált elektronikus hírközlő eszköz és működtetésének, belső szabályozásának minimum-követelményeire, auditálásának módjára, valamint az ilyen eszköz útján végzett ügyfél-átvilágítás végrehajtására,
 
 e) a megerősített eljárás esetköreire és feltételrendszerére,
 
@@ -42,7 +42,11 @@ g) a képzési programra,
 
 h) az ügylet felfüggesztésére
 
-i) i) a tényleges tulajdonos személyazonosságának megállapítása érdekében megteendő intézkedésekre
+i) a tényleges tulajdonos kilétének, valamint az ügyfél tulajdonosi és irányítási szerkezetének megértése és megállapítása érdekében megteendő intézkedésekre,
+
+j) a külső ellenőrzési funkció szakmai követelményeire és igénybevételének kötelező eseteire, valamint
+
+k) a szolgáltató által az üzleti kapcsolat jellegének és céljának megállapítása érdekében tett intézkedésekre
 
 vonatkozó részletszabályokat.
 

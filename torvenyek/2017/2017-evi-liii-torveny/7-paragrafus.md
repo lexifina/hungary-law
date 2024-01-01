@@ -1,6 +1,6 @@
 ## 4. Ügyfél-átvilágítási intézkedések
 
-7. § (1) A szolgáltató köteles a 6. § (1) bekezdés a) és e)–h) pontjában meghatározott esetben az ügyfelet, annak meghatalmazottját, a szolgáltatónál eljáró rendelkezésre jogosultat, továbbá a szolgáltatónál eljáró képviselőt azonosítani és személyazonosságának igazoló ellenőrzését elvégezni.
+7. § (1) A szolgáltató köteles a 6. § (1) bekezdés a) és e)–h) pontjában meghatározott esetben az ügyfelet, annak a szolgáltatónál eljáró meghatalmazottját, rendelkezésre jogosultját, továbbá képviselőjét azonosítani és személyazonosságának igazoló ellenőrzését elvégezni.
 
 (2) A szolgáltató az azonosítás során az alábbi adatokat köteles rögzíteni:
 
@@ -68,7 +68,7 @@ c) bírósági vagy hatósági nyilvántartásba vétel iránti kérelem bírós
 
 (8) A pénzmosás és a terrorizmus finanszírozása megelőzése és megakadályozása, az e törvényben meghatározott kötelezettségek megfelelő teljesítése, az ügyfél-átvilágítási kötelezettség teljes körű végrehajtása, valamint a felügyeleti tevékenység hatékony ellátása céljából a szolgáltató a személyazonosság igazoló ellenőrzése érdekében
 
-a) a b) pontban meghatározott eset kivételével, a (2) bekezdésben meghatározott adatokat tartalmazó, a (3) bekezdés alapján bemutatott okiratról – ideértve az okiratban feltüntetett valamennyi személyes adatot –, a lakcímet igazoló hatósági igazolvány személyi azonosítót igazoló oldala kivételével másolatot készít, vagy
+a) a b) pontban meghatározott eset kivételével, a (2) bekezdésben meghatározott adatokat tartalmazó, a (3) bekezdés alapján bemutatott okiratról – ideértve az okiratban feltüntetett valamennyi személyes adatot –, a lakcímet igazoló hatósági igazolvány személyi azonosítót igazoló hátoldala kivételével másolatot készít, vagy
 
 b) a (2) bekezdésben meghatározott adatok vonatkozásában a (3) bekezdés alapján elvégzett közhiteles nyilvántartásból történő adatlekérdezés eredményét rögzíti és nyilvántartja.
 

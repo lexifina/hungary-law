@@ -22,7 +22,7 @@ i) játékkaszinót, kártyatermet működtetőre vagy távszerencsejátéknak n
 
 j) nemesfémmel vagy az ezekből készült tárgyakkal kereskedőre;
 
-k) árukereskedőre, amennyiben tevékenysége folytatása során hárommillió forintot elérő vagy meghaladó összegű készpénzfizetést fogad el;
+k) árukereskedőre, amennyiben tevékenysége folytatása során hárommillió forintot elérő vagy meghaladó összegű készpénzfizetést teljesít vagy fogad el;
 
 l) ügyvédre, ügyvédi irodára, európai közösségi jogászra, európai közösségi jogászi irodára (a továbbiakban együtt: ügyvéd), kamarai jogtanácsosra, közjegyzőre;
 
@@ -32,23 +32,27 @@ n) virtuális és törvényes fizetőeszközök, illetve virtuális fizetőeszk�
 
 o) letétkezelő pénztárca-szolgáltatóra;
 
-p) kulturális javak (műalkotások, régiségek) kereskedelmével vagy közvetítésével foglalkozó szolgáltatóra olyan ügyletek vagy ügyletsorozatok vonatkozásában, amelyek értéke eléri vagy meghaladja a hárommillió forintot;
+p) kulturális javak (műalkotások, régiségek) forgalmazásával vagy közvetítésével foglalkozó szolgáltatóra olyan ügyletek vagy ügyletsorozatok vonatkozásában, amelyek értéke eléri vagy meghaladja a hárommillió forintot;
 
-q) kulturális javak (műalkotások, régiségek) tárolásával vagy kereskedelmével szabadkikötőkben foglalkozó vagy közvetítőként szabadkikötőkben eljáró szolgáltatóra olyan ügyletek vagy ügyletsorozatok vonatkozásában, amelyek értéke eléri vagy meghaladja a hárommillió forintot; és
+q) kulturális javak (műalkotások, régiségek) tárolásával vagy forgalmazásával szabadkikötőkben foglalkozó vagy közvetítőként szabadkikötőkben eljáró szolgáltatóra olyan ügyletek vagy ügyletsorozatok vonatkozásában, amelyek értéke eléri vagy meghaladja a hárommillió forintot; és
 
 r) székhelyszolgáltatóra.
 
-(1a) E törvény hatálya kiterjed arra, aki Magyarország területén vagy az Európai Unió más tagállamában vagy harmadik országban rendelkezik székhellyel, és Magyarországon létesített tartós, üzleti egysége révén – ideértve a fióktelepet is – az ügyfelek számára állandó belföldi jelenlét formájában közvetlenül kínál az (1) bekezdésben meghatározott szolgáltatást Magyarországon
+(1a) E törvény hatálya akkor terjed ki arra, aki Magyarország területén kívül az Európai Unió más tagállamában vagy harmadik országban rendelkezik székhellyel, ha az az (1) bekezdésben meghatározott szolgáltatók által nyújtható szolgáltatást Magyarországon létesített tartós üzleti egysége révén az ügyfelek számára állandó belföldi jelenlét formájában közvetlenül nyújtja [az (1) bekezdésben és e bekezdésben meghatározottak a továbbiakban együtt: szolgáltató].
 
-[az (1) bekezdésben és e bekezdésben meghatározottak a továbbiakban együtt: szolgáltató].
+(1b) E törvény hatálya kiterjed a 30. §, a 32. § (2) bekezdése, a 33. § (1) bekezdése, a 34. §, a 35. §, a 42. §, az 54. § (2) bekezdése, a 61. § (1)–(3) és (5) bekezdése, valamint a 68. § (2) bekezdése tekintetében a központi kapcsolattartó pontra.
+
+(1c) Az (1) bekezdés p) és q) pontjában meghatározott szolgáltatók vonatkozásában forgalmazási tevékenység alatt értékesítési vagy felvásárlási tevékenységet kell érteni.
 
 (2) E törvény hatálya kiterjed arra, aki
 
-a) a szolgáltató ügyfele, vagy annak rendelkezésre jogosultja, képviselője, meghatalmazottja;
+a) a szolgáltató ügyfele, vagy az ügyfél szolgáltatónál eljáró rendelkezésre jogosultja, képviselője, meghatalmazottja;
 
-b) a szolgáltató vezetője, foglalkoztatottja, illetve segítő családtagja,
+b) a szolgáltató vezetője, foglalkoztatottja, illetve segítő családtagja;
 
-c) kamarai jogtanácsos irányításával ügyvédi kamarai nyilvántartásba vett jogi előadóként (a továbbiakban: jogi előadó) ügyvédi tevékenységet gyakorol.
+c) kamarai jogtanácsos irányításával ügyvédi kamarai nyilvántartásba vett jogi előadóként (a továbbiakban: jogi előadó) ügyvédi tevékenységet gyakorol; valamint
+
+d) a jogi személy vagy jogi személyiséggel nem rendelkező szervezet ügyfél tényleges tulajdonosa, a 9. § (10) bekezdés vonatkozásában.
 
 (3) E törvény hatálya kiterjed az 5. §-ban meghatározott felügyeletet ellátó szervre.
 

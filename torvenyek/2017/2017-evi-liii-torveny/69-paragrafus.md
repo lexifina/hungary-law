@@ -60,6 +60,8 @@ e) a felelős személyek által a felügyeletet ellátó szervvel szemben tanús
 
 f) a jogsértés időtartamára, ismétlődésére vagy gyakoriságára.
 
+g) a szabályszegéssel vagy mulasztással előidézett kockázatra.
+
 (5) Az (1) bekezdés l) pontjában foglalt intézkedés mellett a szolgáltatóval szemben az (1) bekezdésben meghatározott intézkedést kell alkalmazni abban az esetben is, ha a szolgáltató jogi személy vagy jogi személyiséggel nem rendelkező szervezet, és a szolgáltató vezetője a szolgáltató javára sérti meg e törvény rendelkezéseit.
 
 (6) Az (1) bekezdés l) pontjában foglalt intézkedés mellett a szolgáltatóval szemben az (1) bekezdésben meghatározott intézkedést kell alkalmazni abban az esetben is, ha a szolgáltató jogi személy vagy jogi személyiséggel nem rendelkező szervezet, és a szolgáltató foglalkoztatottja vagy segítő családtagja a szolgáltató javára sérti meg e törvény rendelkezéseit úgy, hogy a szolgáltató vezetője felügyeleti vagy ellenőrzési kötelezettségének a teljesítése a jogsértést megakadályozhatta volna.

@@ -6,7 +6,7 @@
 
 (3) A szakmai titok megtartásának kötelezettsége nem áll fenn a büntetőeljárás során a Felügyelettel, az ügyészséggel, a nyomozó hatósággal és az előkészítő eljárást folytató szervvel szemben.
 
-(4) Az (1) és (2) bekezdésben meghatározottak megsértése nélkül a Felügyelet információcserét folytathat az Európai Unió más tagállamain belül a hitelintézetek és pénzügyi szolgáltatók felügyeletét ellátó szervekkel, beleértve az Európai Központi Bankot is.
+(4) Az (1) és (2) bekezdésben meghatározottaktól eltérően a Felügyelet információcserét folytathat az Európai Unió más tagállamain belül a hitelintézetek és pénzügyi szolgáltatók felügyeletét ellátó szervekkel, beleértve az Európai Központi Bankot is.
 
 (5) A Felügyelet az (1) bekezdésben meghatározott szakmai titkokat kizárólag az alábbi célokra használhatja fel:
 

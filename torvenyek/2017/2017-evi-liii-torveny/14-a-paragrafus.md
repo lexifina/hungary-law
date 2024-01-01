@@ -1,4 +1,4 @@
-14/A. § (1) A 6. § (1) bekezdés b)–d) és i) pontjában meghatározott ügyleti megbízás teljesítése esetén a szolgáltató köteles az ügyfelet, annak meghatalmazottját, a rendelkezésre jogosultat, továbbá a képviselőt a 7. § (2) bekezdésében meghatározott valamennyi adatra vonatkozóan azonosítani, személyazonosságának igazoló ellenőrzését elvégezni és a 7. § (3) bekezdése szerinti okiratáról másolatot készíteni, köteles továbbá a 8–9/A. §-ban meghatározott ügyfél-átvilágítási intézkedéseket elvégezni.
+14/A. § (1) A 6. § (1) bekezdés b)–d) és i) pontjában meghatározott ügyleti megbízás teljesítése esetén a szolgáltató köteles az ügyfelet, valamint annak a szolgáltatónál eljáró meghatalmazottját, rendelkezésre jogosultját, továbbá képviselőjét a 7. § (2) bekezdésében meghatározott valamennyi adatra vonatkozóan azonosítani, személyazonosságának igazoló ellenőrzését elvégezni és a 7. § (3) bekezdése szerinti okiratáról másolatot készíteni, köteles továbbá a 8–9/A. §-ban meghatározott ügyfél-átvilágítási intézkedéseket elvégezni.
 
 (2) A szolgáltató a 6. § (1) bekezdésében meghatározott esetben az ügyletre vonatkozóan az alábbi adatokat köteles rögzíteni:
 

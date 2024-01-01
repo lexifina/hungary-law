@@ -10,7 +10,7 @@ c) az e törvényből eredő kötelezettség megsértésére vonatkozó szolgál
 
 belső ellenőrző és információs rendszerek működéséről.
 
-(2) Az (1) bekezdésben meghatározott rendszernek biztosítania kell, hogy a szolgáltató teljeskörűen és gyorsan teljesíthesse a pénzügyi információs egységtől, az 5. §-ban meghatározott felügyeletet ellátó szervtől vagy bűnmegelőzési, bűnüldözési feladatot ellátó szervektől érkező megkereséseket vagy adatkéréseket.
+(2) Az (1) bekezdésben meghatározott rendszernek biztosítania kell, hogy a szolgáltató teljeskörűen és gyorsan teljesíthesse a pénzügyi információs egységtől, az 5. §-ban meghatározott felügyeletet ellátó szervtől vagy bűnmegelőzési, bűnüldözési feladatot ellátó szervektől érkező megkereséseket vagy adatkéréseket, valamint a szolgáltató gondoskodik arról, hogy az (1) bekezdésben meghatározott rendszer által jelzett ügyletek kivizsgálása a belső szabályzatban rögzített eljárásrendben és határidőkkel megtörténik.
 
 (3) Az (1) bekezdés c) pontjában meghatározott rendszer ezenfelül kiterjed a szolgáltató vezetője, foglalkoztatottja és segítő családtagja által az e törvény rendelkezéseinek a szolgáltató általi megsértése esetén küldhető értesítés teljesítése érdekében – a szolgáltató típusára és méretére tekintettel – kialakított és névtelenséget biztosító belső rendszer működtetésére is.
 
@@ -18,4 +18,4 @@ belső ellenőrző és információs rendszerek működéséről.
 
 (5) A szolgáltató köteles a tevékenységének megkezdését követő öt munkanapon belül kijelölni – a szervezet sajátosságaitól, különösen annak méretétől és a vezetői szintek számától függően – egy vagy több, a belső szabályzatában meghatározott vezetőt, aki az e törvényből eredő kötelezettségeknek a szolgáltató foglalkoztatottja általi végrehajtásáért felelősséggel tartozik.
 
-(6) Az 1. § (1) bekezdés a–d) pontja szerinti szolgáltató esetében az (5) bekezdés szerinti vezető az e törvényből és annak felhatalmazásán alapuló jogszabályból eredő feladatok ellátásához szükséges megfelelő ismeretekkel rendelkezik, és az irányítási funkciót betöltő testületnek közvetlenül jelentési kötelezettséggel tartozik. Az 1. § (1) bekezdés a) pontja szerinti szolgáltató esetében az (5) bekezdés szerinti vezető az (5) bekezdésben meghatározott feladatain túlmenően kizárólag jogszabály-megfelelőségi, illetve biztonsági feladatokat láthat el.
+(6) Az 1. § (1) bekezdés a–d) pontja szerinti szolgáltató esetében az (5) bekezdés szerinti vezető az e törvényből és annak felhatalmazásán alapuló jogszabályból eredő feladatok ellátásához szükséges megfelelő ismeretekkel rendelkezik, és az irányítási funkciót betöltő testületnek közvetlenül jelentési kötelezettséggel tartozik. Az 1. § (1) bekezdés a) pontja szerinti szolgáltató esetében az (5) bekezdés szerinti vezető a 3. § 23a. pontja szerinti feladatain túlmenően kizárólag jogszabály-megfelelőségi, illetve biztonsági feladatokat láthat el.

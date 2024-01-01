@@ -6,7 +6,17 @@
 
 2. anyavállalat: minden olyan vállalkozás, amely egy másik vállalkozás működésére ellenőrző befolyást gyakorol;
 
+2a. atipikus pénzügyi jellegű korlátozó intézkedés:
+
+a) a belarusz helyzetre és Belarusznak az Ukrajna elleni orosz agresszióban való részvételére tekintettel hozott korlátozó intézkedésekről szóló, 2006. május 18-i 765/2006/EK tanácsi rendelet 1j–1l. és 1u–1zb. cikkében és
+
+b) az ukrajnai helyzetet destabilizáló orosz intézkedések miatt hozott korlátozó intézkedésekről szóló, 2014. július 31-i 833/2014/EU tanácsi rendelet 5–5i és 5l–5n. cikkében
+
+meghatározott intézkedés.
+
 3. azonosítás: a 7. § (2) bekezdésében, a 8. § (2) és (3) bekezdésében, valamint a 9. § (1) és (2) bekezdésében meghatározott adatok visszakereshető módon történő rögzítése;
+
+3a. azonosító okmány: magyar állampolgár esetében a személyazonosság igazolására alkalmas hatósági igazolvány; külföldi állampolgár esetében az úti okmány vagy a személyazonosító igazolvány;
 
 4. árukereskedő: aki termék gazdasági tevékenység keretében történő értékesítését végzi a vásárló, a kereskedő, illetve a feldolgozó részére;
 
@@ -45,6 +55,8 @@ d) a befolyással rendelkező személy tőkekapcsolat nélkül gyakorol jelentő
 17. ingatlanügylettel kapcsolatos tevékenység: ingatlan tulajdonjoga átruházásának üzletszerű közvetítése, ingatlan bérleti jogának üzletszerű közvetítése, ha a havi bérleti díj összege ügyletenként az ötszázezer forintot eléri vagy meghaladja, valamint saját tulajdonú ingatlan üzletszerű adásvétele;
 
 18. jogi személyiséggel nem rendelkező szervezet: nem jogi személy és nem természetes személy jogalany;
+
+18a. kijelölt felelős vezető: az irányítási funkciót betöltő testület azon tagja, illetve irányítási funkciót betöltő testület hiányában a szolgáltató azon felsővezetője, aki a szolgáltató 65. §-ban meghatározott belső szabályzatában került kijelölésre, és aki a pénzmosás és a terrorizmusfinanszírozás megelőzésével és megakadályozásával kapcsolatos követelmények és elvárások szolgáltató általi végrehajtásáért felel;
 
 19. kockázatérzékenységi megközelítés: az üzleti kapcsolat vagy ügyleti megbízás jellege és összege, valamint az ügyfél körülményei alapján a 65. §-ban meghatározott belső szabályzatban a belső kockázatértékelés alapján rögzített, a pénzmosás és a terrorizmus finanszírozása megelőzésére és megakadályozására irányuló eljárás;
 
@@ -102,7 +114,7 @@ l) a befektetési alapkezelő befektetési jegy forgalmazási tevékenysége tek
 
 m) piacműködtető, a tőkepiacról szóló 2001. évi CXX. törvényben (a továbbiakban: Tpt.), illetve a Bszt.-ben meghatározott tevékenysége tekintetében;
 
-28a. pénzeszköz forrásának igazolása: az ügyletben szereplő pénzeszközök törvényes forrását megerősítő adat vagy azt igazoló dokumentum, így különösen az öröklésből, kártérítésből, polgári jogi jogviszonyokból származó szerződés vagy egyéb hivatalos dokumentum a kapcsolódó jogosultságok nevesítésével, munkaviszonyból származó bérjövedelem-igazolás, külszolgálatért kapott jövedelemigazolás, egyéb jövedelemigazolás, árfolyamnyereséghez, nyereményhez, osztalékhoz kapcsolódó igazoló dokumentum;
+28a. pénzeszköz forrásának igazolása: az ügyletben szereplő pénzeszköz és virtuális fizetőeszköz törvényes forrását megerősítő adat vagy azt igazoló dokumentum, így különösen az öröklésből, kártérítésből, polgári jogi jogviszonyokból származó szerződés vagy egyéb hivatalos dokumentum a kapcsolódó jogosultságok nevesítésével, munkaviszonyból származó bérjövedelem-igazolás, külszolgálatért kapott jövedelemigazolás, egyéb jövedelemigazolás, árfolyamnyereséghez, nyereményhez, osztalékhoz kapcsolódó igazoló dokumentum;
 
 29. pénzügyi vállalkozás: a Hpt.-ben meghatározott pénzügyi vállalkozás;
 
@@ -114,7 +126,7 @@ m) piacműködtető, a tőkepiacról szóló 2001. évi CXX. törvényben (a tov
 
 32. személyazonosság igazolására alkalmas hatósági igazolvány: személyazonosító igazolvány, útlevél, valamint kártya formátumú vezetői engedély;
 
-33. személyazonosság igazoló ellenőrzése: az ügyfél, a meghatalmazott, a rendelkezésre jogosult, továbbá a képviselő személyazonosságának a 7. § (3)–(9) bekezdésében meghatározottak szerinti, továbbá a tényleges tulajdonos személyazonosságának a 8. § (5) bekezdésében és a 9. § (4) bekezdésében meghatározottak szerinti ellenőrzése;
+33. személyazonosság igazoló ellenőrzése: az ügyfél, valamint az ügyfél szolgáltatónál eljáró meghatalmazottja, rendelkezésre jogosultja, továbbá képviselője személyazonosságának a 7. § (3)–(9) bekezdésében meghatározottak szerinti, továbbá a tényleges tulajdonos személyazonosságának a 8. § (5) bekezdésében és a 9. § (4) bekezdésében meghatározottak szerinti ellenőrzése;
 
 34. szolgáltató vezetője: az a természetes személy, aki a jogi személy vagy jogi személyiséggel nem rendelkező szervezet szolgáltató képviseletére, nevében döntési jogkör gyakorlására vagy az ezen szolgáltatón belüli irányítási jogkör gyakorlására jogosult;
 
@@ -124,13 +136,19 @@ a) megfelelő ismeretekkel rendelkezik arra vonatkozóan, hogy a szolgáltató m
 
 b) megfelelő vezetői hatáskörrel rendelkezik ahhoz, hogy a kockázati kitettséget befolyásoló döntéseket kezdeményezzen vagy hozzon;
 
+35a. tartós üzleti egység:
+
+a) a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény szerinti telephely, továbbá minden egyéb olyan tartós, önállósult üzleti (üzemi) letelepedéssel járó hely, amely a szolgáltató székhelyétől eltérő helyen található,
+
+b) a külföldi székhelyű szolgáltató, ha az a határon átnyúló szolgáltatását egy jogilag különálló szervezet, közvetítő igénybevételével nyújtja;
+
 36. terrorizmus finanszírozása: az 1978. évi IV. törvény 261. § (1) és (2) bekezdése szerinti bűncselekmény elkövetéséhez szükséges anyagi eszköz szolgáltatása vagy gyűjtése, illetve a Btk. 318. §-ában meghatározott elkövetési magatartások;
 
 37. ténylegesen összefüggő, több ügyleti megbízás:
 
 a) azon ügyletek, amelyekre vonatkozóan egy éven belül ugyanazon ügyfél ugyanazon jogcímen, ugyanazon tárgyra ad megbízást,
 
-b) a pénzváltó iroda esetében azon százezer forintot elérő vagy meghaladó összegű ügyletek, amelyekre vonatkozóan egy héten belül ugyanazon ügyfél megbízást ad,
+b) a pénzváltó iroda, valamint a virtuális és törvényes fizetőeszközök, illetve virtuális fizetőeszközök közötti átváltási szolgáltatásokat nyújtó szolgáltató esetében azon százezer forintot elérő vagy meghaladó összegű ügyletek, amelyekre vonatkozóan egy héten belül ugyanazon ügyfél megbízást ad,
 
 c) az 1. § (1) bekezdés k) pontjában meghatározott szolgáltató vonatkozásában a részletvétel alapján történő fizetések, fizetési megbízások;
 

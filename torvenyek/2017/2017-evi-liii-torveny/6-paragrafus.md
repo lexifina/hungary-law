@@ -18,6 +18,6 @@ g) ha a korábban rögzített ügyfélazonosító adatok valódiságával vagy m
 
 h) ha az ügyfél-azonosító adatokban bekövetkezett változás kerül átvezetésre és kockázatérzékenységi megközelítés alapján szükséges az ügyfél-átvilágítás ismételt elvégzése;
 
-i) háromszázezer forintot elérő, illetve azt meghaladó összegű pénzváltás esetén.
+i) háromszázezer forintot elérő, illetve azt meghaladó összegű pénzváltás és virtuális fizetőeszköz átváltás esetén.
 
 (2) Az (1) bekezdés b), c) és i) pontjában meghatározott átvilágítási kötelezettség kiterjed az egymással ténylegesen összefüggő, több ügyleti megbízásra, ha ezek együttes értéke eléri az (1) bekezdés b), c) és i) pontjában meghatározott összeget. Ebben az esetben az átvilágítást azon ügyleti megbízás elfogadásakor kell végrehajtani, amellyel az ügyleti megbízások együttes értéke eléri az (1) bekezdés b), c) és i) pontjában meghatározott összeget.
