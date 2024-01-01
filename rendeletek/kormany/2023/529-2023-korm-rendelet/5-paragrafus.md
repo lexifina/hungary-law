@@ -1,3 +1,1 @@
-5. §[^15]
-
-[^15]: Az 5. § a 4. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+5. § Ez a rendelet a 13. mellékletben meghatározott uniós jogi aktusok átültetését, illetve végrehajtását szolgálja.

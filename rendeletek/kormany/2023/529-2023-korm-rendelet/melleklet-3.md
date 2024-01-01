@@ -1,3 +1,7 @@
-3. melléklet az 529/2023. (XII. 1.) Korm. rendelethez[^18]
+## „2. melléklet a 388/2017. (XII. 13.) Korm. rendelethez
 
-[^18]: A 3. melléklet a 4. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+## 3X09392.pdf
+
+## ”
+
+3. melléklet az 529/2023. (XII. 1.) Korm. rendelethez
