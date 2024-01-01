@@ -1,0 +1,1 @@
+A Kormány a számvitelről szóló 2000. évi C. törvény 178. § (1) bekezdés i) pontjában, valamint az adózás rendjéről szóló 2017. évi CL. törvény 268. § (1) bekezdés 17a. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
