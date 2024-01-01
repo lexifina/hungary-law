@@ -1,12 +1,6 @@
 ## 1. egyetért a megszüntetésre kerülő Rendszerváltás Történetét Kutató Intézet és Archívum (a továbbiakban: RETÖRKI) közfeladatait 2021. január 1-jétől ellátó Rendszerváltás Történetét Kutató Intézet és Archívum Nonprofit Korlátolt Felelősségű Társaság működésének támogatásával;
 
-## 2. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva – az 1. pontban foglalt cél megvalósítása érdekében – elrendeli 275 750 000 forint egyszeri átcsoportosítását a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 8. Egyéb történetkutató intézetek cím, 1. Rendszerváltás Történetét Kutató Intézet és Archívum alcím terhére, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 11. Kulturális feladatok és szervezetek támogatása alcím, 7. Kulturális társadalmi, civil és nonprofit szervezetek támogatása jogcímcsoport javára, az 1. melléklet szerint;
-
-## Felelős: pénzügyminiszter
-
-## emberi erőforrások minisztere
-
-## Határidő: a 2021. évi központi költségvetés végrehajtása során
+## 2.[^1]
 
 ## 3. felhívja a pénzügyminisztert, hogy – az emberi erőforrások minisztere bevonásával – gondoskodjon az 1. pontban foglalt cél megvalósítása érdekében 145 672 800 forint többletforrás biztosításáról a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 11. Kulturális feladatok és szervezetek támogatása alcím, 7. Kulturális társadalmi, civil és nonprofit szervezetek támogatása jogcímcsoport javára;
 
@@ -40,68 +34,7 @@
 
 ## Határidő: 2021. május 30.
 
-1. melléklet az 1896/2020. (XII. 9.) Korm. határozathoz
+1. melléklet az 1896/2020. (XII. 9.) Korm. határozathoz[^2]
 
-| XX. Emberi Erőforrások Minisztériuma ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA Költségvetési év: 2021. forintban |
-
-| Államháztartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XX. |  |  |  |  |  | Emberi Erőforrások Minisztériuma |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 8 |  |  |  |  |  | Egyéb történetkutató intézetek |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 341 217 |  |  | 1 |  |  |  |  |  | Rendszerváltás Történetét Kutató Intézet és Archívum |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K1 |  |  |  |  |  | Személyi juttatások |  |  |  |  |  |  |  |  | -163 150 000 |  |  |  |
-
-|  |  |  |  |  |  | K3 |  |  |  |  |  | Dologi kiadások |  |  |  |  |  |  |  |  | -108 400 000 |  |  |  |
-
-|  |  |  |  |  |  | K6 |  |  |  |  |  | Beruházások |  |  |  |  |  |  |  |  | -4 200 000 |  |  |  |
-
-|  |  | 20 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 11 |  |  |  |  |  | Kulturális feladatok és szervezetek támogatása |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 295 268 |  |  |  | 7 |  |  |  |  |  | Kulturális társadalmi, civil és nonprofit szervezetek támogatása |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K3 |  |  |  |  |  | Dologi kiadások |  |  |  |  |  |  |  |  | 145 000 |  |  |  |
-
-|  |  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | 271 405 000 |  |  |  |
-
-|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | 4 200 000 |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |
-
-| forintban |
-
-| Államháztartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | B E V É T E L | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |
-
-| forintban |
-
-| Államháztartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | T Á M O G A T Á S | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XX. |  |  |  |  |  | Emberi Erőforrások Minisztériuma |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 20 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 11 |  |  |  |  |  | Kulturális feladatok és szervezetek támogatása |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 295 268 |  |  |  | 7 |  |  |  |  |  | Kulturális társadalmi, civil és nonprofit szervezetek támogatása |  |  |  |  |  |  |  |  | 275 750 000 |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) - időszakra |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Az adatlap 1 eredeti példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) | Összesen |  | I. n.év | II. n.év | III. n.év | IV. n.év |
-
-| Magyar Államkincstár 1 példány | időarányos teljesítésarányos egyéb: 2021.01.31 | 275 750 000 |  | 275 750 000 |  |  |  |
-
-| * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+[^1]: A 2. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
