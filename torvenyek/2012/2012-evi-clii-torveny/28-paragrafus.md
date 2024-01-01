@@ -1,1 +1,0 @@
-28. § Felhatalmazást kap a Kormány, hogy rendeletben szabályozza az e törvény alapján a megyei intézményfenntartó központok fenntartásából a települési önkormányzatok fenntartásába kerülő intézmények átadás-átvételi eljárására, valamint a feladat ellátásához szükséges vagyon átadására vonatkozó szabályokat.
