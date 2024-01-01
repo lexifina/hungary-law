@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-481-20-
 | --- | --- | --- |
 | 2023-11-01 | 2023-481-20-22.1 | 481/2023. (X. 31.) Korm. rendelet |
 | 2023-11-02 | 2023-481-20-22.2 | 2010. évi CXXX. törvény |
+| 2024-01-01 | 2023-481-20-22.3 | 599/2023. (XII. 22.) Korm. rendelet |
