@@ -12,7 +12,7 @@ b) a gyermekét a bíróság a letartóztatás elrendelésekor ideiglenes hatál
 
 (2) A Be. 299. § (2) bekezdésében és 688. § (4) bekezdésében meghatározott esetekben – az ott meghatározott időtartamban – a letartóztatás rendőrségi fogdában is végrehajtható.
 
-(2a) A Be. 830. § (6) és (8) bekezdésében meghatározott esetben, tömeges bevándorlás okozta válsághelyzetben az őrizet és a letartóztatás rendőrségi fogdában vagy a menedékjogról és a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személyek elhelyezésére, ellátására és fogvatartására szolgáló létesítményben is végrehajtható.
+(2a) A Be. 830. § (6) és (8) bekezdésében meghatározott esetben, tömeges bevándorlás okozta válsághelyzetben az őrizet és a letartóztatás rendőrségi fogdában vagy a menedékjogról és a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény hatálya alá tartozó személyek elhelyezésére, ellátására és fogvatartására szolgáló létesítményben is végrehajtható.
 
 (3) Ha a letartóztatott pszichiátriai kezelése szükséges, de előzetes kényszergyógykezelésének elrendelésére nincs alap, a letartóztatást – a bíróság rendelkezése alapján – az IMEI-ben kell végrehajtani. A letartóztatás IMEI-ben történő végrehajtását a bíróság haladéktalanul megszünteti, ha az az IMEI szakorvosának véleménye vagy igazságügyi pszichiátriai szakértői vizsgálat alapján már nem indokolt.
 
