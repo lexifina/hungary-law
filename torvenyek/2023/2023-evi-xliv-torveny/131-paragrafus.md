@@ -1,1 +1,3 @@
-### 131. §
+131. § A Hegyk. tv. 19. §-a a következő (3a) bekezdéssel egészül ki:
+
+„(3a) Az (1) bekezdés b) pontjában meghatározott tagsági viszonyból eredő jogait természetes személy csak személyesen, jogi személy és jogi személyiséggel nem rendelkező szervezet a törvényes képviselője, tulajdonosa vagy az általa kijelölt olyan személy útján gyakorolhatja, akit legalább heti húsz órában határozatlan idejű munkaviszonyban foglalkoztat. A jogi személy és jogi személyiséggel nem rendelkező szervezet tisztségviselőként megválasztott képviselőre is alkalmazni kell a 13. § (2) bekezdés d) és e) pontjában foglaltakat.”
