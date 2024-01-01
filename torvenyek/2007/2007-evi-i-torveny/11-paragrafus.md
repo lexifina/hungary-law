@@ -12,7 +12,7 @@ a) a házasság jogerős felbontását vagy érvénytelenítését megelőzően 
 
 b) bírósági döntés szerint a volt házastárs is gyakorolja a szülői felügyeleti jogot az EGT-állampolgár – Magyarország területén tartózkodó – gyermeke felett, vagy megegyezés alapján felelős a kiskorú felügyeletéért,
 
-c) azt rendkívüli méltánylást érdemlő körülmények indokolják, különösen ha sérelmére az EGT-állampolgár házastárs a házasság fennállása alatt szándékos bűncselekményt követett el, vagy a házasságkötés előtt letelepedett jogállással rendelkezett, vagy
+c) azt rendkívüli méltánylást érdemlő körülmények indokolják, különösen ha sérelmére az EGT-állampolgár házastárs a házasság fennállása alatt szándékos bűncselekményt követett el, vagy a házasságkötés előtt a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény (a továbbiakban: Btátv.) szerinti huzamos tartózkodási jogosultsággal rendelkezett, vagy
 
 d) megegyezés vagy bírósági döntés alapján a volt házastárs rendelkezik a kiskorú gyermek láthatásának jogával, feltéve, hogy a megegyezés vagy a bíróság rendelkezése szerint a láthatásra Magyarország területén kerül sor.
 

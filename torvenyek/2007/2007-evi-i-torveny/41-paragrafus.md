@@ -14,4 +14,4 @@ a) a kiutasításra azért kerül sor, mert a visszairányítást – a visszair
 
 b) a kiutasítást kiskorúval szemben rendelték el.
 
-(6) Az idegenrendészeti hatóság intézkedik a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 2. § j) pontja szerinti SIS figyelmeztető jelzés rendszerben való rögzítésére, ha azt EGT-állampolgár családtagja vonatkozásában rendelték el.
+(6) Az idegenrendészeti hatóság intézkedik a Btátv. szerinti SIS figyelmeztető jelzés rendszerben való rögzítésére, ha azt EGT-állampolgár családtagja vonatkozásában rendelték el.

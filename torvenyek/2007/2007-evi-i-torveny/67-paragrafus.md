@@ -12,4 +12,4 @@ e) a munkavégzés megszűnésének, vagy meghiúsulásának időpontja.
 
 (2) Az eljáró idegenrendészeti hatóság az (1) bekezdésben meghatározott kötelezettségét elmulasztó munkáltatót közrendvédelmi bírsággal sújthatja.
 
-(3) A munkáltató az (1) bekezdés szerinti bejelentését elektronikus azonosítását követően elektronikus úton is megteheti.
+(3) A munkáltató az (1) bekezdés szerinti bejelentését elektronikus azonosítását követően az idegenrendészeti ügyindítási elektronikus felületen elektronikus úton teljesíti.
