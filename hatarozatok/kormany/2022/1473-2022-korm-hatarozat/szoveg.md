@@ -12,10 +12,12 @@ b) amennyiben az a) alpont szerinti intézkedés alapján további intézkedés 
 
 c) amennyiben az a) és b) alpont szerinti intézkedések további intézkedést tesznek szükségessé, úgy a vagyonértékesítés kapcsán megtenni tervezett intézkedéseket is;
 
-4. egyetért azzal, hogy a miniszteri biztos vezetésével, a belügyminiszter, a pénzügyminiszter, valamint a technológiai és ipari miniszter által delegált személyek részvételével alakuljon munkacsoport a beérkező menedzsmenttervek értékelése érdekében;
+4.[^1] egyetért azzal, hogy a miniszteri biztos vezetésével, a közigazgatási és területfejlesztési miniszter, a pénzügyminiszter, valamint a technológiai és ipari miniszter által delegált személyek részvételével alakuljon munkacsoport a beérkező menedzsmenttervek értékelése érdekében;
 
 5. felhívja a Miniszterelnökséget vezető minisztert, hogy a miniszteri biztos útján a Kormány számára tegyen javaslatot a 3. és 4. pontban lefolytatott egyeztetések eredménye alapján.
 
 | Felelős: | Miniszterelnökséget vezető miniszter |
 
 | Határidő: | folyamatos |
+
+[^1]: A 4. pont az 1597/2023. (XII. 22.) Korm. határozat 9. pontja szerint módosított szöveg.
