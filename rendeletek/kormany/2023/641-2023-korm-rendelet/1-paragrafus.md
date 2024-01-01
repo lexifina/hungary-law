@@ -1,0 +1,5 @@
+1. § A Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény veszélyhelyzet ideje alatti eltérő szabályairól szóló 489/2023. (XI. 2.) Korm. rendelet [a továbbiakban: 489/2023. (XI. 2.) Korm. rendelet] a következő 3/A. §-sal kiegészülve lép hatályba:
+
+„3/A. § (1) A Kvtv. 1. mellékletétől eltérően a Kvtv. 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet a 2. cím, 2. alcímen belül az 1. A GFM tulajdonosi joggyakorlása alá tartozó társaságok forrásjuttatásai jogcímcsoporttal egészül ki.
+
+(2) A Kvtv. 4. mellékletétől eltérően a Kvtv. 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet 2. cím, 2. alcím, 1. A GFM tulajdonosi joggyakorlása alá tartozó társaságok forrásjuttatásai jogcímcsoport előirányzat terhére előirányzat-módosítási kötelezettség nélkül a rendelkezésre álló előirányzaton felül kiadás teljesíthető a Kormány jóváhagyásával, amennyiben e túllépéssel is teljesül az államadósság-mutató csökkenése a 2024. évben.”
