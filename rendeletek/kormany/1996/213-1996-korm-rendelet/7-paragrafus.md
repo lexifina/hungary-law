@@ -1,3 +1,3 @@
-## 6. §[^30]
+7. §[^34]
 
-[^30]: A 6. §-t a 182/2009. (IX. 10.) Korm. rendelet 97. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^34]: A 7. §-t a 20/2007. (II. 20.) Korm. rendelet 14. § (1) bekezdése hatályon kívül helyezte.
