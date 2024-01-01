@@ -6,15 +6,7 @@
 
 ## 4. a Beruházásnak az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet 4. § c) és m) pontja szerinti előkészítési fázisai 2020. augusztus 31. napjáig történő teljesítése érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 90 000 000 forintban határozza meg;
 
-## 5. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva a 4. pont szerinti előkészítési fázisok végrehajtásának finanszírozása érdekében 90 000 000 forint egyszeri átcsoportosítását rendeli el a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 1. melléklet XLV. Kiemelt kormányzati magasépítési beruházások fejezet, 2. Programszerű magasépítési beruházások cím, 2. Tanterem fejlesztések előkészítése és megvalósítása alcím javára, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 3. Nemzeti Sportközpontok cím terhére;
-
-## Felelős: pénzügyminiszter
-
-## emberi erőforrások minisztere
-
-## nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
-
-## Határidő: azonnal
+## 5.[^1]
 
 ## 6. egyetért azzal, hogy a Beruházás keretében megvalósításra kerülő szakképző intézmény fenntartója a Magyar Ökumenikus Segélyszervezet legyen;
 
@@ -38,7 +30,7 @@
 
 ## Határidő: 2020. június 30.
 
-## 10.[^1]
+## 10.[^2]
 
 1. melléklet az 1193/2020. (IV. 30.) Korm. határozathoz
 
@@ -96,4 +88,5 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 5. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
