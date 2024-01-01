@@ -10,7 +10,7 @@ a) az épület rendeltetésszerű használatát biztosító különböző techni
 
 b) az épületen belül vagy azzal szomszédos épületben folytatott termelő vagy szolgáltató tevékenységtől, illetve az ehhez alkalmazott géptől, berendezéstől, egyéb zajforrástól
 
-## származó zaj terhelési határértékeit a 4. melléklet tartalmazza.
+származó zaj terhelési határértékeit a 4. melléklet tartalmazza.
 
 (5) A (4) bekezdés szerinti követelmények mellett a (4) bekezdés b) pontja szerinti zajforrásoktól származó zajterhelésre (az építőipari kivitelezési tevékenységtől származó zajterhelés kivételével) a 4. melléklet 1., 2., 3., 4. sorszám szerinti helyiségekben az ott meghatározott határértékeknél 5 dB-lel kisebb értékeket kell teljesíteni.
 

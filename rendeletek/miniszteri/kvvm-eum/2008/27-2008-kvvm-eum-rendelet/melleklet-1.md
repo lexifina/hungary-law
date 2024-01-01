@@ -2,7 +2,7 @@
 
 1. melléklet a 27/2008. (XII. 3.) KvVM–EüM együttes rendelethez[^13]
 
-## Üzemi és szabadidős létesítményektől származó zaj terhelési határértékei a zajtól védendő területeken
+Üzemi és szabadidős létesítményektől származó zaj terhelési határértékei a zajtól védendő területeken
 
 1. Az üzemi és szabadidős zajforrások zajterhelési határértékei a 2. § (3)–(4) bekezdésében és a 2. pontban foglalt kivételekkel
 

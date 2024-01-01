@@ -4,7 +4,7 @@ a) az 1. melléklet 1. pontja szerinti vagy
 
 b) az 1. melléklet 2.1. pontja szerinti
 
-## zajterhelési határértékből kiindulva állapítja meg.
+zajterhelési határértékből kiindulva állapítja meg.
 
 (2) Az 1. melléklet 2.1. pontjának alkalmazása esetén:
 

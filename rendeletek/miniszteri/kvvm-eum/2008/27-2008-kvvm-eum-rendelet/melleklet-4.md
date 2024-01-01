@@ -1,25 +1,35 @@
-## A közlekedéstől származó zaj terhelési határértékei a zajtól védendő területeken
+4. melléklet a 27/2008. (XII. 3.) KvVM–EüM együttes rendelethez[^16]
 
-| Sor- szám | Zajtól védendő terület | Határérték (LTH) az LAM’kö megítélési szintre* (dB) |
+A zaj terhelési határértékei az épületek zajtól védendő helyiségeiben
 
-| kiszolgáló úttól, lakóúttól származó zajra | az országos közúthálózatba tartozó mellékutaktól, a települési önkormányzat tulajdonában lévő gyűjtőutaktól és külterületi közutaktól, a vasúti mellékvonaltól és pályaudvarától, a repülőtértől, illetve a nem nyilvános fel- és leszállóhelyektől** származó zajra | az országos közúthálózatba tartozó gyorsforgalmi utaktól és főutaktól, a települési önkormányzat tulajdonában lévő belterületi gyorsforgalmi utaktól, belterületi elsőrendű főutaktól és belterületi másodrendű főutaktól, az autóbusz-pályaudvartól, a vasúti fővonaltól és pályaudvarától, a repülőtértől, illetve a nem nyilvános fel- és leszállóhelytől*** származó zajra |
+1. A zajtól védendő helyiségek zajterhelési határértékei
 
-| nappal 06–22 óra | éjjel 22–06 óra | nappal 06–22 óra | éjjel 22–06 óra | nappal 06–22 óra | éjjel 22–06 óra |
+|  | A | B | C |
 
-| 1. | Üdülőterület, különleges területek közül az egészségügyi terület | 50 | 40 | 55 | 45 | 60 | 50 |
+| 1 | Zajtól védendő helyiség | Határérték (LTH) az LAM megítélési szintre (dB) |
 
-| 2. | Lakóterület (kisvárosias, kertvárosias, falusias, telepszerű beépítésű), különleges területek közül az oktatási létesítmények területei, és a temetők, a zöldterület | 55 | 45 | 60 | 50 | 65 | 55 |
+| 2 | nappal 06–22 óra | éjjel 22–06 óra |
 
-| 3. | Lakóterület (nagyvárosias beépítésű), a vegyes terület | 60 | 50 | 65 | 55 | 65 | 55 |
+| 3 | 1. Kórtermek és betegszobák | 35 | 30 |
 
-| 4. | Gazdasági terület | 65 | 55 | 65 | 55 | 65 | 55 |
+| 4 | 2. Tantermek, előadótermek oktatási intézményekben, foglalkoztató termek, hálóhelyiségek bölcsődékben és óvodákban | 40 | – |
 
-## Megjegyzés:
+| 5 | 3. Lakószobák lakóépületekben | 40 | 30 |
 
-## * Értelmezése a zajkibocsátási határértékek megállapításának, valamint a zaj- és rezgéskibocsátás ellenőrzésének módjáról szóló 93/2007. (XII. 18.) KvVM rendelet 6. számú melléklet 1.1 pontja és 9. számú melléklet 1.1. pontja szerint.
+| 6 | 4. Lakószobák szállodákban és szálló jellegű épületekben | 45 | 35 |
 
-## ** Olyan repülőterek, vagy nem nyilvános fel- és leszállóhelyek, ahol 5,7 tonna maximális felszálló tömegnél kisebb, légcsavaros repülőgépek, illetve 2,73 tonna maximális felszálló tömegnél kisebb helikopterek közlekednek.
+| 7 | 5. Étkezőkonyha, étkezőhelyiség lakóépületekben | 45 | – |
 
-## *** Olyan repülőterek, vagy nem nyilvános fel- és leszállóhelyek, ahol 5,7 tonna maximális felszálló tömegű vagy annál nagyobb, légcsavaros repülőgépek, 2,73 tonna maximális felszálló tömegű vagy annál nagyobb helikopterek, valamint sugárhajtású légijárművek közlekednek.
+| 8 | 6. Szállodák, szálló jellegű épületek, közösségi lakóépületek közös helyiségei | 50 | – |
 
-4. melléklet a 27/2008. (XII. 3.) KvVM–EüM együttes rendelethez
+| 9 | 7. Éttermek, eszpresszók | 55 | – |
+
+| 10 | 8. Nagy- és kiskereskedelmi épületek eladóterei, vendéglátó helyiségei, a váróterem | 60 | – |
+
+1.1. Az 1. pontban foglalt táblázat B:1–C:1 mezőjének értelmezése:
+
+1.1.1. Az 1. pontban foglalt táblázat B:1–C:1 mezőjében foglaltak értelmezése a 6. § (1) bekezdésével kapcsolatos ügyekben az MSZ 15601–2:2007 és az MSZ 18150–1 szabvány szerint, de nem a legnagyobb értéket adó mérési pontban, hanem térbeli átlagos hangnyomásszintként; mérése az MSZ EN ISO 140–5 szabvány szerint.
+
+1.1.2. Az 1. pontban foglalt táblázat B:1–C:1 mezőjében foglaltak értelmezése és mérése a 6. § (4) bekezdés b) pontjával kapcsolatos ügyekben az MSZ 18150–1 szabvány szerint.
+
+[^16]: A 4. melléklet a 48/2023. (XII. 29.) EM rendelet 1. § c) pontjával megállapított szöveg.

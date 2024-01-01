@@ -12,7 +12,7 @@ a) zajtól védett területen helyezkedik el, a 3. mellékletben meghatározott 
 
 b) zajtól nem védett területen helyezkedik el, a 3. mellékletben az üdülő területi besorolásnak megfelelő
 
-## zajterhelési határértéknek kell teljesülni a területén.
+zajterhelési határértéknek kell teljesülni a területén.
 
 (4) A 3. melléklet határértékeinek új közlekedési zajforrás létesítése esetén a meglévő védendő területen kell teljesülniük.
 

@@ -12,7 +12,7 @@ b) az üdülőterületeken, az egészségügyi területen a zajtól védendő é
 
 c) a temetők teljes területén
 
-## kell teljesülniük.
+kell teljesülniük.
 
 (2)[^9] Az épületek (épületrészek) azon homlokzata előtt, amelyen 45 dB-nél nagyobb beltéri zajterhelési határértékű helyiség (4. melléklet), orvosi rendelő, hivatali épület irodahelyiség nyílászárója van, az (1) bekezdés a) pontja szerinti helyeken a zajterhelés nem haladhatja meg jelentős mértékben a 2. § (3)–(4) bekezdés, valamint az 1., a 2. és a 3. melléklet szerinti határértéket.
 

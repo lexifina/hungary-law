@@ -12,7 +12,7 @@ a)[^3] zajtól védett területen helyezkedik el, az 1. melléklet 1. pontjában
 
 b)[^4] zajtól nem védett területen helyezkedik el, az 1. melléklet 1. pontjában az üdülő területi besorolásnak megfelelő
 
-## zajterhelési határértéknek kell teljesülni a területén.
+zajterhelési határértéknek kell teljesülni a területén.
 
 (4)[^5] A nem közterületen megtartott, a környezeti zaj és rezgés elleni védelem egyes szabályairól szóló rendelet szerinti alkalmi rendezvény esetében e rendelet alkalmazása során
 
