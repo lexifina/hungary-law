@@ -14,7 +14,11 @@ c) az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú t�
 
 d) a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló 17/2016. (II. 10.) Korm. rendelet
 
-## szerinti kölcsön minősül.
+e)[^1] a kistelepüléseken nyújtható otthonteremtési támogatásokról szóló 302/2023. (VII. 11.) Korm. rendelet, valamint
+
+f)[^2] a családok otthonteremtését támogató kedvezményes CSOK Plusz hitelprogramról szóló 518/2023. (XI. 30.) Korm. rendelet
+
+szerinti kölcsön minősül.
 
 (2) Az állami kezességvállalás feltétele, hogy a foglalkoztatott a hitelcél szerinti ingatlanban legalább 50% tulajdoni hányaddal rendelkezzen.
 
@@ -25,3 +29,8 @@ a) a NAV Szj. tv. 172. § (2) bekezdés a)–d) pontjában meghatározott felté
 b) a NAV Szj. tv. 172. § (2) bekezdés e) pontjában meghatározott feltétel fennállását a hiteligénylő által benyújtott hatósági bizonyítvány,
 
 c) a NAV Szj. tv. 172. § (2) bekezdés f) pontja szerinti, a hitelfelvevő, illetve a vele közös háztartásban élő házas- vagy élettársa korábbi állami kezességvállalással biztosított hitelrészének kiegyenlítését vagy ilyen hitelrész fenn nem állását a hitelfelvevő nyilatkozata
+
+alapján ellenőrzi.
+
+[^1]: Az 57. § (1) bekezdés e) pontját az 518/2023. (XI. 30.) Korm. rendelet 64. §-a iktatta be.
+[^2]: Az 57. § (1) bekezdés f) pontját az 518/2023. (XI. 30.) Korm. rendelet 64. §-a iktatta be.

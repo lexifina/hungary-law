@@ -10,7 +10,7 @@ a) I. besorolási osztályba tartozó foglalkoztatott vagy
 
 b) vezetői munkakört betöltő foglalkoztatott
 
-## jelölhető ki.
+jelölhető ki.
 
 (3) Vezetői munkakört betöltő foglalkoztatott esetén a NAV adott szervének a fegyelmi eljárás alá vont személlyel legalább azonos vezetői munkakört betöltő foglalkoztatottai közül kell kijelölni a vizsgálóbiztost.
 

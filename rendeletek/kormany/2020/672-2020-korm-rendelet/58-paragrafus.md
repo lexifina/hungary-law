@@ -1,5 +1,3 @@
-## alapján ellenőrzi.
-
 58. § (1) Az új, használatbavételi engedéllyel, a használatbavétel tudomásulvételét igazoló hatósági bizonyítvánnyal vagy a bejelentéshez kötött épület felépítésének megtörténtéről szóló hatósági bizonyítvánnyal még nem rendelkező lakás építése vagy vásárlása esetén az állami kezességvállalással biztosított hitelrész összegének meghatározásánál a hitelcél szerinti, fedezetül szolgáló ingatlan várható hitelbiztosítéki értékét kell figyelembe venni.
 
 (2) A használatbavételi engedéllyel, a használatbavétel tudomásulvételét igazoló hatósági bizonyítvánnyal vagy a bejelentéshez kötött épület felépítésének megtörténtéről szóló hatósági bizonyítvánnyal már rendelkező új lakás vásárlása vagy használt lakás vásárlása esetén az állami kezességvállalással biztosított hitelrész összegét a fedezetül szolgáló, hitelcél szerinti ingatlan hitelbírálatakor megállapított hitelbiztosítéki értéke alapján kell meghatározni. Az ingatlan hitelbiztosítéki értékének futamidő alatt történő változása nem érinti az állami kezességvállalással biztosított hitelrész összegét.

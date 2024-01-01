@@ -12,6 +12,6 @@ b) az összekötő tiszti szolgálat teljesítése céljából tartós külszolg
 
 c) a NAV Szj. tv. 60. § (1) bekezdés c) pontja alapján történő külföldre vezénylés esetén, az Európai Unió intézményeiben nemzeti szakértőként foglalkoztatott köztisztviselőkről, kormánytisztviselőkről és a fegyveres szervek hivatásos állományú tagjairól szóló kormányrendeletben
 
-## meghatározottak szerint jogosult.
+meghatározottak szerint jogosult.
 
 (4) Ha a külföldre vezénylés a NAV Szj. tv. 62. §-ában meghatározott szolgálatteljesítésre irányul, a 21–28. §-t nem kell alkalmazni.

@@ -1,5 +1,3 @@
-## 109–114. §[^1]
-
 1. melléklet a 672/2020. (XII. 28.) Korm. rendelethez
 
 I. A 24. § (3) bekezdése szerinti alapellátmány mértéke
@@ -75,5 +73,3 @@ III. A 24. § (6) bekezdése szerinti beosztási pótlék mértéke
 | 9. | beosztott tiszthelyettes | 30 euró/hó |
 
 IV. A 28. § (2) bekezdése szerinti kiküldetési ellátmány mértéke
-
-[^1]: A 109–114. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

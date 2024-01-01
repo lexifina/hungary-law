@@ -12,6 +12,6 @@ ba) szakértő igénybevételével kerül sor, illetve
 
 bb) ha a NAV Szj. tv. 204. § (3) bekezdés a) pontja alapján kerül sor,
 
-## és a szakértő eljárásának, illetve a megrongált dolog kijavításának az időtartama a vizsgálóbiztos (meghosszabbított) vizsgálati határidejét meghaladja, a vizsgálóbiztosnak a vizsgálatot a kár összegének megállapítását követő 8 napon belül kell befejeznie;
+és a szakértő eljárásának, illetve a megrongált dolog kijavításának az időtartama a vizsgálóbiztos (meghosszabbított) vizsgálati határidejét meghaladja, a vizsgálóbiztosnak a vizsgálatot a kár összegének megállapítását követő 8 napon belül kell befejeznie;
 
 c) nem alkalmazhatók a fegyelmi eljárásnak az egyszerűsített eljárásra, a póteljárásra, a fegyelmi tanácsra és a tárgyalás tartására vonatkozó rendelkezései.

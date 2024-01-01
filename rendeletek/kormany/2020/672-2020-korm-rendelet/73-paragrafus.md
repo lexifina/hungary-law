@@ -8,7 +8,7 @@ c) a vizsgálóbiztosi jelentés megküldésére, az első tárgyalás tartásá
 
 d) a fegyelmi tanács ügyet lezáró döntését tartalmazó fegyelmi határozat írásba foglalására vonatkozó határidő egy alkalommal 8 munkanappal
 
-## meghosszabbítható.
+meghosszabbítható.
 
 (2) Ha a fegyelmi vétséget többen követték el, és velük szemben a vizsgálatot párhuzamosan ugyanaz a vizsgálóbiztos folytatja, úgy – indokolt esetben, figyelemmel a rendeltetésszerű joggyakorlás követelményére – az (1) bekezdés b)–d) pontjától eltérően
 
@@ -38,7 +38,7 @@ db) három vagy négy eljárás alá vont esetében további 5 munkanappal,
 
 dc) öt vagy több eljárás alá vont esetében további 10 munkanappal,
 
-## meghosszabbítható.
+meghosszabbítható.
 
 (3) Az (1) és (2) bekezdés szerinti határidő meghosszabbításról a fegyelmi jogkör gyakorlója dönt, az (1) bekezdés b) pontja szerinti esetekben, a vizsgálóbiztosi jelentés megküldésére vonatkozó határidő meghosszabbítása esetén, illetve a (2) bekezdés a) és b) pontja szerinti esetekben a vizsgálóbiztos javaslatára.
 

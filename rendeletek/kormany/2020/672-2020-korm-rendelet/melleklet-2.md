@@ -18,7 +18,7 @@
 
 Munkaköri kulcsszámok és a devizaellátmányhoz meghatározható szorzószámok az összekötő tisztek tartós külszolgálatra külföldre vezénylése esetében
 
-| Kulcsszám | Munkakör | Szorzószám |
+|  | Munkakör | Szorzószám |
 
 | 1. | Összekötő főtanácsos | 3,20–4,00 |
 

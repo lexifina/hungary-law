@@ -14,7 +14,7 @@ f) személyre szóló élet- és balesetbiztosításra és
 
 g) képzési költségek megtérítésére
 
-## jogosult a NAV-tól.
+jogosult a NAV-tól.
 
 (2) A NAV Szj. tv. 60. § (1) bekezdés c) pontja alapján külföldre vezényelt a külföldi szolgálatteljesítési hely, valamint a rendfokozati állománycsoporthoz tartozás figyelembevételével az 1. mellékletben meghatározott mértékű kiküldetési ellátmányra jogosult.
 

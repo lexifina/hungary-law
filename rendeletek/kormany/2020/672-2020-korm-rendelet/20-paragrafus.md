@@ -10,7 +10,7 @@ d) a NAV-ot terhelő költségek, és
 
 e) a szolgálati érdek
 
-## figyelembevételével dönt. A miniszter nem köteles indokolni a döntését.
+figyelembevételével dönt. A miniszter nem köteles indokolni a döntését.
 
 (2) A NAV Szj. tv. 60. § (1) bekezdés b) pontja alapján a külföldre vezénylés akkor rendelhető el, ha a pénzügyőr
 

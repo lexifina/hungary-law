@@ -12,6 +12,6 @@ e) vezetői munkakört be nem töltő, tudományos fokozattal rendelkező eseté
 
 f) egyéb vezetői munkakört betöltő esetében legfeljebb 695 700 forint
 
-## lehet.
+lehet.
 
 (2) Az (1) bekezdésben nem említett oktatói, nevelői munkakört ellátó kirendelt vagy vezényelt részére a kimagasló szakmai tudás és tevékenység elismeréseként az NKE Fenntartójának egyetértésével megállapított rendészeti felsőoktatási illetménykiegészítés nem haladhatja meg a 154 600 forintot.
