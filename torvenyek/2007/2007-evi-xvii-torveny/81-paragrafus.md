@@ -110,4 +110,6 @@ rendeletben állapítsa meg.
 
 (6) Felhatalmazást kap a kormányzati stratégiák kidolgozásának támogatásáért felelős miniszter, hogy a társadalompolitika összehangolásáért felelős miniszterrel egyetértésben rendeletben állapítsa meg a közösségi bormarketing támogatások igénybevételének szabályait.
 
-(6) Felhatalmazást kap a gazdaságfejlesztésért felelős miniszter, hogy az agrárpolitikáért felelős miniszterrel egyetértésben az Agrár Széchenyi Kártya Program működésének és igénybevételének szabályait rendeletben állapítsa meg.
+(6)
+
+(7) Felhatalmazást kap a gazdaságfejlesztésért felelős miniszter, hogy az agrárpolitikáért felelős miniszterrel egyetértésben az Agrár Széchenyi Kártya Program működésének és igénybevételének szabályait rendeletben állapítsa meg.

@@ -38,7 +38,7 @@ c) a hirdetményi kézbesítésen kívül igénybe vehető egyéb közlési mód
 
 (12) A hirdetmény tartalmazza
 
-a) a kifüggesztés napját,
+a) a közzététel napját,
 
 b) a mezőgazdasági és vidékfejlesztési támogatási szerv megnevezését,
 
@@ -48,8 +48,8 @@ d) az ügyfél nevét és az ügyfél-nyilvántartási rendszerben rögzített l
 
 e) azt a figyelemfelhívást, hogy a mezőgazdasági és vidékfejlesztési támogatási szerv az ügyben döntést hozott, de annak kézbesítése meghiúsult, ezért az ügyfél vagy képviselője a döntést a mezőgazdasági és vidékfejlesztési támogatási szervnél átveheti.
 
-(13) A hirdetményt a mezőgazdasági és vidékfejlesztési támogatási szerv hirdetőtáblájára ki kell függeszteni, és a szerv elektronikus tájékoztatásra szolgáló honlapján közzé kell tenni.
+(13) A hirdetményt a mezőgazdasági és vidékfejlesztési támogatási szerv elektronikus tájékoztatásra szolgáló honlapján közzé kell tenni.
 
-(14) A hirdetmény mezőgazdasági és vidékfejlesztési támogatási szerv hirdetőtábláján való kifüggesztésének és elektronikus tájékoztatásra szolgáló honlapján való megjelentetésének azonos napon kell megtörténnie. A hirdetményi közléshez kapcsolódó határidők számításánál a hirdetménynek a mezőgazdasági és vidékfejlesztési támogatási szerv hirdetőtábláján való kifüggesztését kell alapul venni. Hirdetményi közlés esetén a hirdetmény mezőgazdasági és vidékfejlesztési támogatási szerv hirdetőtábláján való kifüggesztésének és levételének napját az iraton meg kell jelölni, az internetes honlapon történő közzététel idejét pedig visszakereshető módon dokumentálni kell.
+(14) A hirdetményi közléshez kapcsolódó határidők számításánál a hirdetménynek a mezőgazdasági és vidékfejlesztési támogatási szerv honlapján történő közzétételét kell alapul venni. Hirdetményi közlés esetén az internetes honlapon történő közzététel idejét visszakereshető módon dokumentálni kell.
 
 (15) Ha a hirdetményi úton történő közlés feltételei már nem állnak fenn, a mezőgazdasági és vidékfejlesztési támogatási szerv haladéktalanul gondoskodik a hirdetmény eltávolításáról, és a kapcsolattartás általános szabályai szerint felveszi a kapcsolatot az ügyféllel.
