@@ -48,3 +48,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-46-00-00
 | 2022-12-01 | 2022. évi XLVIII. törvény | 2012-46-00-00.43 |
 | 2023-01-01 | 2022. évi XLVIII. törvény | 2012-46-00-00.41 |
 | 2023-09-28 | 2023. évi LXI. törvény | 2012-46-00-00.45 |
+| 2024-01-01 | 2023. évi CXVI. törvény | 2012-46-00-00.48 |

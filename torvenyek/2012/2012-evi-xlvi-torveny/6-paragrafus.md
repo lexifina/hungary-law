@@ -14,7 +14,7 @@ c) az ingatlanrendező földmérő minősítési eljárásáért,
 
 d) a földmérő igazolvány kiadása iránti eljárásért,
 
-e) a levegőből végzett távérzékelés engedélyezéséért és a távérzékelt adatok minősítési célú vizsgálatáért,
+e)
 
 f) a b) pont szerinti eljárás soron kívüli lefolytatásáért,
 
