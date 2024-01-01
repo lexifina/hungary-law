@@ -1,10 +1,13 @@
-## 2/A. §[^34] A tételes elszámolás alá eső hatóanyagok jegyzékét, kódját, az elszámolásra jogosult intézetek körét, valamint az adott hatóanyag alkalmazására vonatkozó szakmai és finanszírozási feltételeket – ideértve, amennyiben van, az új beteg bevonására vonatkozó szakmai feltételeket – az 1/A. számú melléklet tartalmazza.
+2/B. §[^35] (1) A tételes elszámolás alá eső hatóanyagok elszámolására jogosult intézetek körét a NEAK honlapján közleményben teszi közzé. A közleményben korábban nem szereplő elszámolásra jogosult intézet a közzétételt követő hónaptól jogosult az elszámolásra.
 
-2/B. §[^35] (1)[^36] Az egészségügyi szolgáltató az 1/A. számú melléklet szerinti tételes elszámolású gyógyszerek intézményi körének bővítésére irányuló kérelmét az egészségügyi szakmai kollégium illetékes tagozata és az NNGYK támogató nyilatkozatával az egészségbiztosításért felelős miniszternél kezdeményezi. Az egészségbiztosításért felelős miniszter döntése meghozatala érdekében a NEAK-tól tájékoztatást kér arra vonatkozóan, hogy a kérelem jár-e országos keretemeléssel a beszerzett gyógyszer vonatkozásában.
+(2) Az egészségügyi szolgáltató tételes elszámolású gyógyszerek intézményi körének bővítésére irányuló kérelmét az egészségügyi szakmai kollégium illetékes tagozatának véleményével együtt a NEAK-nál kezdeményezi. A NEAK arra vonatkozó tájékoztatásával együtt, hogy a kérelem jár-e országos keretemeléssel a beszerzett gyógyszer vonatkozásában, továbbítja a kérelmet az egészségbiztosításért felelős miniszter részére. Az egészségbiztosításért felelős miniszter a kérelem kézhezvételét követő 15 napon belül értesíti a NEAK-ot az intézményi kör bővítésére vonatkozó döntéséről. A hozzájárulást a NEAK 15 napon belül közleményében teszi közzé.
 
-(2)[^37] A NEAK a tételes elszámolás alá eső hatóanyagokat tartalmazó gyógyszereket természetben, vagy ha ez valamilyen okból átmenetileg nem lehetséges, pénzügyi keret formájában biztosítja az 1/A. számú melléklet szerinti egészségügyi szolgáltatóknak.
+(3) A (2) bekezdés szerinti döntés meghozatala során az egészségbiztosításért felelős miniszter a következő szempontokat veszi figyelembe:
 
-[^34]: A 2/A. §-t a 9/2013. (I. 31.) EMMI rendelet 1. §-a iktatta be.
-[^35]: A 2/B. §-t a 9/2013. (I. 31.) EMMI rendelet 1. §-a iktatta be.
-[^36]: A 2/B. § (1) bekezdése a 36/2014. (IV. 30.) EMMI rendelet 1. §-ával megállapított, az 54/2016. (XII. 30.) EMMI rendelet 2. § c) pontja, a 28/2023. (VIII. 10.) BM rendelet 1. § b) pontja szerint módosított szöveg.
-[^37]: A 2/B. § (2) bekezdése a 36/2014. (IV. 30.) EMMI rendelet 4. §-a, az 54/2016. (XII. 30.) EMMI rendelet 2. § d) pontja szerint módosított szöveg.
+a) az egészségügyi szakmai kollégium illetékes tagozatának szakmai véleménye szerint a befogadáshoz szükséges személyi feltételek rendelkezésre állnak-e,
+
+b) a NEAK tájékoztatását arról, hogy a kérelem jár-e országos keretemeléssel a beszerzett gyógyszer vonatkozásában, és ha igen, annak forrása rendelkezésre áll-e.
+
+(4) A NEAK a tételes elszámolás alá eső hatóanyagokat tartalmazó gyógyszereket természetben, vagy ha ez valamilyen okból átmenetileg nem lehetséges, pénzügyi keret formájában biztosítja az (1) bekezdés szerinti közleményben szereplő egészségügyi szolgáltatóknak.
+
+[^35]: A 2/B. §-t a 9/2013. (I. 31.) EMMI rendelet 1. §-a iktatta be, szövege az 50/2023. (XII. 12.) BM rendelet 1. §-ával megállapított szöveg.
