@@ -1,6 +1,6 @@
 3. melléklet a 118/2011. (XII. 15.) VM rendelethez
 
-## A közúti tartálykocsikra, valamint azok töltőállomásaira előírt követelmények
+A közúti tartálykocsikra, valamint azok töltőállomásaira előírt követelmények
 
 1. Csőcsatlakoztatók
 

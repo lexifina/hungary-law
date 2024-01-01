@@ -1,8 +1,6 @@
-## 11. §[^22]
-
 1. melléklet a 118/2011. (XII. 15.) VM rendelethez
 
-## A tárolótelepeken telepített tárolóberendezésekre vonatkozó követelmények
+A tárolótelepeken telepített tárolóberendezésekre vonatkozó követelmények
 
 1. A föld feletti tárolóberendezések külső falát és tetejét olyan festékkel kell befesteni, amelynek 70% vagy ennél nagyobb az összes sugárzóhő-visszaverési tényezője.
 
@@ -22,7 +20,6 @@
 
 9.[^26] Az úszótetős tartályok kivételével a véggázkezelő berendezéssel ellátott tárolóberendezéseket fel kell szerelni olyan kijelző berendezéssel, amely folyamatosan, véletlenszerű ellenőrzések esetében is lehetővé teszi az ellenőrző műszaki biztonsági hatóság vagy környezetvédelmi hatóság számára annak megállapítását, hogy a véggázkezelő berendezés működik-e.
 
-[^22]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^23]: Az 1. melléklet 4. pontja a 38/2014. (IV. 4.) VM rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^24]: Az 1. melléklet 7. pontja a 38/2014. (IV. 4.) VM rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^25]: Az 1. melléklet 8. pontja a 15/2015. (III. 31.) FM rendelet 30. § h) pontja szerint módosított szöveg.

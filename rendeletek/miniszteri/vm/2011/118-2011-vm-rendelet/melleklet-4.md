@@ -1,6 +1,6 @@
 4. melléklet a 118/2011. (XII. 15.) VM rendelethez
 
-## A töltőállomásokra vonatkozó követelmények
+A töltőállomásokra vonatkozó követelmények
 
 1. A töltőállomások benzintároló tartályait csak olyan gőzvisszavezető rendszerhez csatlakoztatható módon lehet létesíteni és üzemeltetni, amely a szállítótartályba vezeti vissza (gázinga) az átfejtéskor kiszorított benzingőzöket.
 

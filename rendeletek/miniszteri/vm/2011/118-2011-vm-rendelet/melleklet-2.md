@@ -1,6 +1,6 @@
 2. melléklet a 118/2011. (XII. 15.) VM rendelethez
 
-## A szállítótartályokra, töltő- és ürítőberendezésekre és a tartálytisztításra előírt követelmények
+A szállítótartályokra, töltő- és ürítőberendezésekre és a tartálytisztításra előírt követelmények
 
 1. A szállítótartályokat úgy kell megtervezni és üzemeltetni, hogy a maradék gőzök ne kerüljenek a környezetbe a benzin töltése és lefejtése során.
 

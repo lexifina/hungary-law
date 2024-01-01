@@ -1,6 +1,6 @@
 ## 2. Értelmező rendelkezések
 
-## 2. §
+2. §
 
 1. I. fázisú benzingőz-visszanyerő rendszer: a benzingőzökből benzin visszanyerésére szolgáló berendezés egy tárolótelepen lévő minden puffertartály-rendszert is beleértve, ideértve az olyan berendezést, amely benzin tárolásakor és a tárolótelepekről a töltőállomások részére történő elosztásakor benzingőz kibocsátásának megakadályozására és visszavezetésére szolgál;
 
@@ -14,11 +14,11 @@
 
 6. benzingőz/benzin arány: a II. fázisú benzingőz-visszanyerő rendszeren áthaladó benzingőz légköri nyomáson mért térfogatának és a kútoszlopnál mért benzin térfogatának az aránya;
 
-7.[^1]
+7. [^1]
 
-8.[^2] felújítás: meglévő töltőállomás műtárgyainak olyan átalakítása, amely az éghető folyadékok és olvadékok tárolótartályairól szóló miniszteri rendelet szerint létesítési vagy használatbavételi engedély birtokában végezhető el;
+8. [^2] felújítás: meglévő töltőállomás műtárgyainak olyan átalakítása, amely az éghető folyadékok és olvadékok tárolótartályairól szóló miniszteri rendelet szerint létesítési vagy használatbavételi engedély birtokában végezhető el;
 
-9.[^3] forgalom: a szállító tartályokból a töltőállomásra lefejtett benzin éves mennyisége, amelyet az egy naptári évnél hosszabb ideje működő töltőállomásoknál az előző évben lefejtett mennyiség alapján, az ennél rövidebb ideje működő vagy engedélyezés alatt álló töltőállomásoknál a tervezett éves lefejtésre kerülő mennyiség alapján kell meghatározni;
+9. [^3] forgalom: a szállító tartályokból a töltőállomásra lefejtett benzin éves mennyisége, amelyet az egy naptári évnél hosszabb ideje működő töltőállomásoknál az előző évben lefejtett mennyiség alapján, az ennél rövidebb ideje működő vagy engedélyezés alatt álló töltőállomásoknál a tervezett éves lefejtésre kerülő mennyiség alapján kell meghatározni;
 
 10. hajó: a víziközlekedésről szóló törvény szerinti, kizárólag vagy jellemzően belvízi utakon közlekedő hajó;
 
@@ -38,7 +38,7 @@
 
 18. töltőhely: tárolótelepen lévő szerkezet, amelynél egy adott időpontban csak egyetlen közúti tartálykocsiba tölthető benzin;
 
-19.[^4] új töltőállomás: olyan töltőállomás, amely a 11. pont szerint nem minősül meglévő töltőállomásnak;
+19. [^4] új töltőállomás: olyan töltőállomás, amely a 11. pont szerint nem minősül meglévő töltőállomásnak;
 
 20. véggázkezelő berendezés: az a berendezés és műszaki eljárás, így különösen a gőzvisszatartó berendezés (úszófedeles tartály), adszorpciós eljárás vagy véggázégetés, amellyel a tárolóberendezésből vagy szállítótartályból kilépő levegő benzingőz tartalmát csökkentik.
 
