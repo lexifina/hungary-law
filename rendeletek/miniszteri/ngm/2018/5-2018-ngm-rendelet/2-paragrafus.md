@@ -2,9 +2,9 @@
 
 ## 2. Közreműködő szervezetek névjegyzéke
 
-2. § (1) Ha az Avt. szerinti meghatározott cselekmény végrehajtásához olyan szakértelem, hatósági engedély vagy eszköz szükséges, amellyel a végrehajtást foganatosító állami adó- és vámhatóság nem rendelkezik, és a beszerzés nem tartozik a közbeszerzésekről szóló törvény hatálya alá, az állami adó- és vámhatóság az e célból létrehozott névjegyzékben (a továbbiakban: névjegyzék) nyilvántartott közreműködő szervezetet vesz igénybe.
+2. § (1)[^1] Az Avt. 123. § (2) bekezdése szerinti, meghatározott cselekmény végrehajtásához szükséges közreműködő szervezeteket az állami adó- és vámhatóság a közreműködő szervezetek névjegyzékében (a továbbiakban: névjegyzék) tevékenységi körök szerint, elektronikusan tartja nyilván. A közreműködő szervezetek a névjegyzékbe földrajzi területenként vagy országosan regisztrálhatnak.
 
-(2) A közreműködő szervezetek névjegyzékéről az állami adó- és vámhatóság elektronikus nyilvántartást vezet, amelyben az állami adó- és vámhatóság által meghatározott tevékenységi körök szerint tartja nyilván a közreműködő szervezeteket.
+(2)[^2]
 
 (3) A nyilvántartás tartalmazza a közreműködő szervezet
 
@@ -30,21 +30,11 @@ a) elveszti a névjegyzékben rögzített engedélyköteles tevékenységi kör 
 
 b) valamely tevékenységi kör tekintetében a továbbiakban nem kíván lehetséges ajánlattételre felhívottként szerepelni.
 
-(8) A közreműködő szervezetet az állami adó- és vámhatóság törli a névjegyzékből, ha a
-
-a) közreműködő szervezet a köztartozásmentes adózói adatbázisból törlésre került,
-
-b) nem természetes személy közreműködő szervezet jogutód nélkül megszűnt, vagy a természetes személy közreműködő szervezet elhunyt,
-
-c) közreműködő szervezet az ajánlattételi eljárásban ismételten elmulasztotta az árajánlat benyújtását,
-
-d) közreműködő szervezet a kijelölés ellenére a végzésben foglaltakat – neki felróható okból – nem teljesítette, vagy
-
-e) közreműködő szervezet a névjegyzékből való törlését maga kérte.
+(8)[^3]
 
 (9) Ha a közreműködő szervezetet az állami adó- és vámhatóság törli a névjegyzékből, ennek tényéről a közreműködő szervezetet a törléstől számított 8 napon belül értesíti.
 
-(10) Ha a közreműködő szervezet a (8) bekezdés c) vagy d) pontja alapján került törlésre a névjegyzékből, a szervezet a törlés napjától számított 12 hónapon belül a névjegyzékbe nem vehető fel újra.
+(10)[^4]
 
 (11) Az állami adó- és vámhatóság honlapján negyedévente, az adott negyedévre vonatkozóan közzéteszi a névjegyzékben szereplő
 
@@ -53,3 +43,8 @@ a) közreműködő szervezetek nevét és adóazonosító számát,
 b) jogi személyek és egyéb szervezetek nyilvántartási számát és székhelyét,
 
 c) természetes személyek lakcímét.
+
+[^1]: A 2. § (1) bekezdése a 8/2023. (XII. 6.) PM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § (2) bekezdését a 8/2023. (XII. 6.) PM rendelet 4. § a) pontja hatályon kívül helyezte.
+[^3]: A 2. § (8) bekezdését a 8/2023. (XII. 6.) PM rendelet 4. § b) pontja hatályon kívül helyezte.
+[^4]: A 2. § (10) bekezdését a 8/2023. (XII. 6.) PM rendelet 4. § c) pontja hatályon kívül helyezte.
