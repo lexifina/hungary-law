@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-329-20-
 | 2022-07-15 | 2019-329-20-22.11 | 245/2022. (VII. 8.) Korm. rendelet |
 | 2023-01-01 | 2019-329-20-22.12 | 245/2022. (VII. 8.) Korm. rendelet |
 | 2023-12-28 | 2019-329-20-22.15 | 644/2023. (XII. 28.) Korm. rendelet |
+| 2024-01-01 | 2019-329-20-22.13 | 634/2023. (XII. 23.) Korm. rendelet |

@@ -1,3 +1,3 @@
-16. §[^86]
+16. §[^73] E rendeletnek a központi beszerző szerv kijelöléséről, a védelmi és biztonsági feladatokkal összefüggő beszerzések körének meghatározásáról és a védelmi és biztonsági feladatokkal összefüggő beszerzések központosított rendszeréről szóló 329/2019. (XII. 20.) Korm. rendelet módosításáról, valamint egyes kormányrendeletek módosításáról szóló 634/2023. (XII. 23.) Korm. rendelettel módosított rendelkezéseit a már benyújtott beszerzési tervek, illetve már benyújtott beszerzési igények esetén is alkalmazni kell.
 
-[^86]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^73]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 634/2023. (XII. 23.) Korm. rendelet 11. §-a iktatta be.

@@ -1,45 +1,29 @@
-7. § (1)[^47] A VBÜ a beérkezéstől számított 5 munkanapon belül hiánypótlás vagy átdolgozás céljából visszaküldheti a beszerzési tervet az érintett szervezet részére, ha azt észleli, hogy az
+7. §[^53] (1) A VBÜ az érintett szervezet által megküldött beszerzési terveket a beérkezéstől számított 10 munkanapon belül minősíti, amely határidőbe a (2) és (4) bekezdés szerinti átdolgozás vagy hiánypótlás teljesítésének időtartama nem számít be.
 
-a) formailag vagy tartalmilag nem megfelelő vagy
+(2) A VBÜ a beszerzési tervet a beérkezéstől számított 10 munkanapon belül átdolgozásra vagy hiánypótlásra visszaküldheti az érintett szervezetnek, ha a benyújtott beszerzési terv tartalmilag vagy formailag nem megfelelő, vagy hiányos.
 
-b) hiányos.
+(3) A beszerzési terv (2) bekezdés szerinti visszaküldésekor a VBÜ
 
-(1a)[^48] A VBÜ az ismételt megküldéstől számított 5 munkanapon belül újabb hiánypótlást vagy átdolgozást rendelhet el, ha a korábbi hiánypótlási felhívásban nem szereplő hiányt észlel.
+a) megjelöli a hiánypótlás vagy átdolgozás kérésének indokát,
 
-(2) Ha a VBÜ véleménye szerint a beszerzési terv nem áll összhangban a kormányzati védelmi fejlesztések irányával, vagy annak egyes elemei nem tartoznak e rendelet hatálya alá, erről értesíti az érintett szervezetet.
+b) – ha az indokolt – javaslatot tesz az érintett szervezet részére a beszerzési terv átdolgozásának szempontjaira,
 
-(3) Az (1) és (2) bekezdésben meghatározott esetben a VBÜ megjelöli a hiánypótlás vagy az átdolgozás szükségességének az okát, és ennek keretében – ha az indokolt – javaslatot tesz az érintett szervezet részére a beszerzési terv átdolgozásának szempontjaira. A VBÜ a beszerzési terv ismételt megküldésére legfeljebb 10 munkanapos határidőt állapít meg.
+c) értesíti az érintett szervezetet, ha véleménye szerint a beszerzési terv nem áll összhangban a kormányzati védelmi fejlesztések irányával, vagy annak egyes elemei nem tartoznak e rendelet hatálya alá.
 
-(4)[^49] Az érintett szervezet a beszerzési tervet a (3) bekezdésben meghatározott hiánypótlás vagy átdolgozás nélkül ismételten megküldheti. Az ismételt megküldését követően a beszerzési tervet a VBÜ az érintett szervezet által megküldött tartalommal köteles – az (5) és a (6) bekezdésnek megfelelően – megküldeni a Védelmi Tanács részére.
+(4) A VBÜ a beszerzési terv ismételt megküldésére legfeljebb 10 munkanapos határidőt állapít meg. A VBÜ az ismételt megküldéstől számított 5 munkanapon belül újabb hiánypótlást vagy átdolgozást rendelhet el, ha a korábbi hiánypótlási felhívásban nem szereplő hiányt észlel.
 
-(5) A VBÜ az érintett szervezet által megküldött beszerzési terveket összesíti és véleményezi. A VBÜ a véleményében bemutatja a (2) és a (3) bekezdésben meghatározott körülményeket, és a beszerzési terveket
+(5) A VBÜ minősítése alapján a beszerzési terv
 
-a) „végrehajtásra javasolt”,
+a) „megvalósítható” vagy
 
-b) „végrehajtásra részben javasolt” vagy
+b) „nem megvalósítható”
 
-c) „végrehajtásra nem javasolt”
+lehet.
 
-jelöléssel látja el.
+(6) A VBÜ az (5) bekezdés szerinti minősítést követően a beszerzési tervet nyilvántartásba veszi, és a döntést 2 munkanapon belül közli az érintett szervezettel.
 
-(6)[^50] Az (5) bekezdés szerinti véleményezést követően a VBÜ a beszerzési tervet nyilvántartásba veszi, és a nyilvántartásba vételt követő munkanapon megküldi a Védelmi Tanács részére.
+(7) A VBÜ által az (5) bekezdés b) pontja szerint minősített beszerzési terv – átdolgozást követően – ismételten előterjeszthető.
 
-(7)[^51] A beszerzési tervet a Védelmi Tanács a 9. § (2)–(5) bekezdése alapján véleményezi, és a véleményezést követően a Kormány következő ülésén előterjeszti.
+(8) Az érintett szervezet az (5) bekezdés a) pontja szerint minősített beszerzési terv módosítását bármikor kezdeményezheti az (1)–(7) bekezdésben meghatározottak szerint.
 
-(8)[^52] A Védelmi Tanácsot a (7) bekezdés szerinti véleményének kialakítása során a VBÜ (5) bekezdés a)–c) pontja szerinti jelölése nem köti.
-
-(9) A beszerzési terv a Kormány jóváhagyását és a Kormány ügyrendje szerinti határozat kézbesítését követően hajtható végre.
-
-(10)[^53] A VBÜ a (6) bekezdés szerinti nyilvántartásba vételt, továbbá a Kormány döntését – az e döntésről való tudomásszerzéstől számított 2 munkanapon belül – közli az érintett szervezettel.
-
-(11) A Kormány által elutasított beszerzési terv – az átdolgozást követően – véleményezés, valamint jóváhagyás céljából ismételten előterjeszthető.
-
-(12) Az (5) és a (6) bekezdés szerinti véleményezést, illetve nyilvántartásba vételt, továbbá a (9) bekezdés szerinti jóváhagyást követően a beszerzési terv módosítását az érintett szervezet bármikor kezdeményezheti. Ebben az esetben az (1)–(11) bekezdésben foglalt rendelkezéseket megfelelően alkalmazni kell.
-
-[^47]: A 7. § (1) bekezdés nyitó szövegrésze a 649/2020. (XII. 23.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.
-[^48]: A 7. § (1a) bekezdését a 649/2020. (XII. 23.) Korm. rendelet 4. § (15) bekezdése iktatta be.
-[^49]: A 7. § (4) bekezdése a 183/2022. (V. 24.) Korm. rendelet 10. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^50]: A 7. § (6) bekezdése a 183/2022. (V. 24.) Korm. rendelet 10. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^51]: A 7. § (7) bekezdése a 183/2022. (V. 24.) Korm. rendelet 10. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^52]: A 7. § (8) bekezdése a 183/2022. (V. 24.) Korm. rendelet 10. § (1) bekezdés e) pontja szerint módosított szöveg.
-[^53]: A 7. § (10) bekezdése a 649/2020. (XII. 23.) Korm. rendelet 4. § (16) bekezdésével megállapított szöveg.
+[^53]: A 7. § a 634/2023. (XII. 23.) Korm. rendelet 7. §-ával megállapított szöveg.
