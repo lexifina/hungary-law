@@ -1,3 +1,0 @@
-## 10. Az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvény módosítása
-
-16. § Az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvény 46. § (9) bekezdésének a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 92/L. § (4) bekezdését megállapító rendelkezése az „az országos jelentési rendszert működtető szervet” szövegrész helyett az „a kincstárt” szöveggel lép hatályba.
