@@ -1,7 +1,0 @@
-517. § Az új Be. 153. §-a a következő szöveggel lép hatályba:
-
-„153. § (1) A meghatalmazás alapján eljáró védő és jogi képviselő a bíróságnak, az ügyészségnek vagy a nyomozó hatóságnak benyújtott első beadványa mellékleteként csatolja az elektronikus okiratként rendelkezésre álló vagy az általa digitalizált meghatalmazást, ha a meghatalmazás rendelkezési nyilvántartásba vételét még nem jelentették be. A bíróság, az ügyészség, illetve a nyomozó hatóság – ha e tekintetben alapos kétsége merül fel – digitalizált meghatalmazás esetén az eredeti meghatalmazás bemutatására hívja fel a védőt és a jogi képviselőt az egyezőség megállapítása érdekében.
-
-(2) A meghatalmazott védővel vagy jogi képviselővel eljáró, de saját személyében elektronikus útra nem köteles büntetőeljárásban részt vevő személy a meghatalmazás visszavonására irányuló nyilatkozatát papíralapon is benyújthatja. A meghatalmazás visszavonásával egyidejűleg a büntetőeljárásban részt vevő személy nyilatkozik arról, hogy a nyilatkozat benyújtását követően jogi képviselővel, illetve meghatalmazott védővel vagy anélkül kíván-e eljárni.
-
-(3) Ha a büntetőeljárásban részt vevő személy a meghatalmazás visszavonását követően meghatalmazott védővel, illetve jogi képviselővel jár el, a meghatalmazás visszavonásával egyidejűleg csatolja az eljáró új védő, illetve jogi képviselő meghatalmazását.”
