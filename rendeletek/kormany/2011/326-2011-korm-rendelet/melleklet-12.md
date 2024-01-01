@@ -238,10 +238,10 @@ A regisztrációs matrica tartalmi elemei
 
 3. A Magyarország hivatalos címere
 
-4.[^613] A vonalkód, 2D kód
+4.[^623] A vonalkód, 2D kód
 
 5. A jármű rendszáma
 
 6. A regisztrációs matrica egyedi sorszáma
 
-[^613]: A 12. melléklet 4. pontja a 303/2021. (VI. 1.) Korm. rendelet 28. § l) pontja, a 251/2022. (VII. 13.) Korm. rendelet 1. § k) pontja szerint módosított szöveg.
+[^623]: A 12. melléklet 4. pontja a 303/2021. (VI. 1.) Korm. rendelet 28. § l) pontja, a 251/2022. (VII. 13.) Korm. rendelet 1. § k) pontja szerint módosított szöveg.

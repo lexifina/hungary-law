@@ -1,6 +1,6 @@
 ## 85. § A forgalomból végleg kivont jármű törzskönyvét érvényteleníteni kell.
 
-86. § (1)[^399] A törzskönyv kiadásáig a jármű tulajdonjogát igazolhatja:
+86. § (1)[^401] A törzskönyv kiadásáig a jármű tulajdonjogát igazolhatja:
 
 a) a jármű kereskedelmi értékesítéséről szóló, a jármű azonosító adatait tartalmazó számla,
 
@@ -22,10 +22,10 @@ i) a fődarabok megvásárlásáról szóló számlák és az összeépítési e
 
 j) a járműkísérő lap.
 
-(2)[^400] Ha a tulajdonjog igazolásához több okirat is szükséges, azt a közlekedési igazgatási hatóság együttesen is megkövetelheti. A tulajdonjog igazolásához – az (1) bekezdésben meghatározott – okirat eredeti vagy hitelesített példánya, illetve, ha az nem magyar nyelven került kiállításra, annak hiteles, magyar nyelvű fordítása is szükséges.
+(2)[^402] Ha a tulajdonjog igazolásához több okirat is szükséges, azt a közlekedési igazgatási hatóság együttesen is megkövetelheti. A tulajdonjog igazolásához – az (1) bekezdésben meghatározott – okirat eredeti vagy hitelesített példánya, illetve, ha az nem magyar nyelven került kiállításra, annak hiteles, magyar nyelvű fordítása is szükséges. A közlekedési igazgatási hatóság eltekinthet a nem magyar nyelvű irat hiteles magyar fordításának beszerzésétől, ha a közlekedési igazgatási hatóság valamely ügyintézője az adott nyelvből államilag elismert, legalább középfokú nyelvvizsgával rendelkezik.
 
-(3)[^401] Az (1) és (2) bekezdésben meghatározott elektronikus okiratokat, valamint nem elektronikus okiratok közlekedési igazgatási hatóság által hitelesített másolatát a közlekedési igazgatási hatóság a kérelemhez csatolja.
+(3)[^403] Az (1) és (2) bekezdésben meghatározott elektronikus okiratokat, valamint nem elektronikus okiratok közlekedési igazgatási hatóság által hitelesített másolatát a közlekedési igazgatási hatóság a kérelemhez csatolja.
 
-[^399]: A 86. § (1) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 31. §-ával megállapított szöveg.
-[^400]: A 86. § (2) bekezdése a 375/2021. (VI. 30.) Korm. rendelet 16. § 17. pontja szerint módosított szöveg.
-[^401]: A 86. § (3) bekezdését a 375/2021. (VI. 30.) Korm. rendelet 14. § (15) bekezdése iktatta be.
+[^401]: A 86. § (1) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 31. §-ával megállapított szöveg.
+[^402]: A 86. § (2) bekezdése az 561/2023. (XII. 14.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^403]: A 86. § (3) bekezdését a 375/2021. (VI. 30.) Korm. rendelet 14. § (15) bekezdése iktatta be.
