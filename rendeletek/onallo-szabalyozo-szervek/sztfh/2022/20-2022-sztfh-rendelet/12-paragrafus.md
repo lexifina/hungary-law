@@ -76,7 +76,7 @@ b) a kérelmezett kutatási terület azon részére, amelyet a bányavállalkoz�
 
 c)[^32] a kérelmezett kutatási terület azon részére, amely
 
-ca) más jogosult geotermikus kutatási engedélyét vagy geotermikus védőidomát érinti, vagy
+ca)[^33] más jogosult geotermikus kutatási engedélyét vagy geotermikus védőidomát érinti, a Bt. 21/A. § (2a) bekezdésében foglaltak kivételével, vagy
 
 cb) kőolaj, földgáz, valamint a szén-dioxid gáz kitermelésére vagy a földalatti gáztárolásra megállapított bányatelek területét vagy kőolaj, földgáz, valamint szén-dioxid gáz kutatási területét érinti, és a kutatás bányászati jog jogosultja általi megtagadását a bányafelügyelet megalapozottnak tekintette,
 
@@ -88,17 +88,17 @@ f) ha a kérelmező vagy kapcsolt vállalkozása geotermikus energia kinyerésé
 
 g) ha az engedélyezni kért kutatási terület (térrész) nagysága a kérelmező indokai alapján nem megalapozott, vagy
 
-h)[^33] ha a kutatási terület átfedésben van olyan térrésszel, amelynek tekintetében európai uniós vagy állami támogatással megvalósuló termálvíz kitermelésére vonatkozó beruházásra vízügyi hatósági engedélyt adtak ki.
+h)[^34] ha a kutatási terület átfedésben van olyan térrésszel, amelynek tekintetében európai uniós vagy állami támogatással megvalósuló termálvíz kitermelésére vonatkozó beruházásra vízügyi hatósági engedélyt adtak ki.
 
-(10a)[^34] Ha azonos területre, térrészre több geotermikus kutatási engedély iránti kérelmet nyújtanak be, a bányafelügyelet felhívására (a továbbiakban: felhívás) a kérelmezők egyeztetnek a kutatási területek tekintetében.
+(10a)[^35] Ha azonos területre, térrészre több geotermikus kutatási engedély iránti kérelmet nyújtanak be, a bányafelügyelet felhívására (a továbbiakban: felhívás) a kérelmezők egyeztetnek a kutatási területek tekintetében.
 
-(10b)[^35] A bányafelügyelet a felhívást az utolsóként benyújtott kérelem beérkezését követő 8 napon belül bocsátja ki. A bányafelügyelet a felhívást nem bocsátja ki, ha kérelem elutasítása vagy visszautasítása eredményeként nincs folyamatban azonos területre, térrészre több geotermikus kutatás engedélyezésére irányuló eljárás.
+(10b)[^36] A bányafelügyelet a felhívást az utolsóként benyújtott kérelem beérkezését követő 8 napon belül bocsátja ki. A bányafelügyelet a felhívást nem bocsátja ki, ha kérelem elutasítása vagy visszautasítása eredményeként nincs folyamatban azonos területre, térrészre több geotermikus kutatás engedélyezésére irányuló eljárás.
 
-(10c)[^36] A kérelmezők az egyeztetést a felhívást követő 30 napon belül folytatják le, és annak eredményéről közös nyilatkozatban tájékoztatják a bányafelügyeletet. Eredményes egyeztetés esetén a kérelmezők a benyújtott kérelmek módosítására irányuló kérelmüket is benyújtják.
+(10c)[^37] A kérelmezők az egyeztetést a felhívást követő 30 napon belül folytatják le, és annak eredményéről közös nyilatkozatban tájékoztatják a bányafelügyeletet. Eredményes egyeztetés esetén a kérelmezők a benyújtott kérelmek módosítására irányuló kérelmüket is benyújtják.
 
-(10d)[^37] Ha a kérelmezők az egyeztetés alapján a kérelmüket nem módosítják úgy, hogy azok azonos területre, térrészre ne vonatkozzanak, a bányafelügyelet a kérelmezettől eltérően állapíthatja meg a kutatási területet.
+(10d)[^38] Ha a kérelmezők az egyeztetés alapján a kérelmüket nem módosítják úgy, hogy azok azonos területre, térrészre ne vonatkozzanak, a bányafelügyelet a kérelmezettől eltérően állapíthatja meg a kutatási területet.
 
-(10e)[^38] A bányafelügyelet a (10d) bekezdés szerinti esetben különösen az alábbiakat mérlegelve hoz döntést:
+(10e)[^39] A bányafelügyelet a (10d) bekezdés szerinti esetben különösen az alábbiakat mérlegelve hoz döntést:
 
 a) a kérelmezők rendelkeznek-e a kinyert hő hasznosítására vagy villamosenergia-termelésre vonatkozó engedéllyel vagy jognyilatkozattal, figyelemmel a minél korábbi hasznosítás megvalósítására,
 
@@ -108,7 +108,7 @@ c) a geotermikusenergia-kutatást egy időben több bányavállalkozó végezhes
 
 d) a módosított kutatási területek alkalmasak legyenek a tervezett kutatás elvégzésére és a tervezett hőhasznosítás, villamosenergia-termelés vagy hő- és villamosenergia-termelés együttes megvalósítására.
 
-(11) A bányavállalkozó a kutatási területet vagy annak egy részét a geotermikus védőidom megállapítási kérelem benyújtásáig visszaadhatja. A bányafelügyelet a terület-visszaadást akkor fogadja el, ha a visszaadásra bejelentett területen a bányakárokat megtérítették, továbbá a tájrendezési, környezetvédelmi, földvédelmi és talajvédelmi kötelezettségeket teljesítették. A kutatási terület visszaadását elfogadó határozat véglegessé válásának napján a kutatási engedély a visszaadott terület tekintetében hatályát veszti.
+(11)[^40] A bányavállalkozó a kutatási területet vagy annak egy részét a geotermikus védőidom megállapítási kérelem benyújtásáig visszaadhatja. A bányafelügyelet a terület-visszaadást akkor fogadja el, ha a visszaadásra bejelentett területen a bányakárokat megtérítették, továbbá a tájrendezési, környezetvédelmi, földvédelmi és talajvédelmi kötelezettségeket teljesítették. A kutatási terület visszaadását elfogadó határozat véglegessé válásának napján a kutatási engedély a visszaadott terület tekintetében megszűnik.
 
 [^19]: A 6. alcím (12-15/F. §) a 6/2023. (II. 28.) SZTFH rendelet 3. §-ával megállapított szöveg.
 [^20]: A 12. § (1) bekezdés c) pontja a 9/2023. (V. 12.) SZTFH rendelet 3. § a) pontja szerint módosított szöveg.
@@ -124,9 +124,11 @@ d) a módosított kutatási területek alkalmasak legyenek a tervezett kutatás 
 [^30]: A 12. § (7) bekezdés c) pontja a 9/2023. (V. 12.) SZTFH rendelet 3. § f) pontja szerint módosított szöveg.
 [^31]: A 12. § (7a) bekezdését a 9/2023. (V. 12.) SZTFH rendelet 1. § (3) bekezdése iktatta be.
 [^32]: A 12. § (10) bekezdés c) pontja a 9/2023. (V. 12.) SZTFH rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^33]: A 12. § (10) bekezdés h) pontja a 9/2023. (V. 12.) SZTFH rendelet 1. § (5) bekezdésével megállapított szöveg.
-[^34]: A 12. § (10a) bekezdését a 9/2023. (V. 12.) SZTFH rendelet 1. § (6) bekezdése iktatta be.
-[^35]: A 12. § (10b) bekezdését a 9/2023. (V. 12.) SZTFH rendelet 1. § (6) bekezdése iktatta be.
-[^36]: A 12. § (10c) bekezdését a 9/2023. (V. 12.) SZTFH rendelet 1. § (6) bekezdése iktatta be.
-[^37]: A 12. § (10d) bekezdését a 9/2023. (V. 12.) SZTFH rendelet 1. § (6) bekezdése iktatta be.
-[^38]: A 12. § (10e) bekezdését a 9/2023. (V. 12.) SZTFH rendelet 1. § (6) bekezdése iktatta be.
+[^33]: A 12. § (10) bekezdés c) pont ca) alpontja a 25/2023. (XII. 22.) SZTFH rendelet 10. § a) pontja szerint módosított szöveg.
+[^34]: A 12. § (10) bekezdés h) pontja a 9/2023. (V. 12.) SZTFH rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^35]: A 12. § (10a) bekezdését a 9/2023. (V. 12.) SZTFH rendelet 1. § (6) bekezdése iktatta be.
+[^36]: A 12. § (10b) bekezdését a 9/2023. (V. 12.) SZTFH rendelet 1. § (6) bekezdése iktatta be.
+[^37]: A 12. § (10c) bekezdését a 9/2023. (V. 12.) SZTFH rendelet 1. § (6) bekezdése iktatta be.
+[^38]: A 12. § (10d) bekezdését a 9/2023. (V. 12.) SZTFH rendelet 1. § (6) bekezdése iktatta be.
+[^39]: A 12. § (10e) bekezdését a 9/2023. (V. 12.) SZTFH rendelet 1. § (6) bekezdése iktatta be.
+[^40]: A 12. § (11) bekezdése a 25/2023. (XII. 22.) SZTFH rendelet 10. § b) pontja szerint módosított szöveg.

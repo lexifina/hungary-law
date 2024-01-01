@@ -8,6 +8,8 @@ c) a kinyerés tervezett időtartamát.
 
 (2) Vízügyi igazgatósági vagyonkezelésben lévő vizek érintettsége esetén a kérelmező a kérelemhez mellékeli a vízügyi igazgatóságnak a vízgazdálkodási hatósági jogkör gyakorlásáról szóló kormányrendelet 1/J. §-a szerinti vagyonkezelői hozzájárulását, ha a 12. § (1) bekezdése szerinti kérelemhez mellékelt vagyonkezelői hozzájárulásban a vízügyi igazgatóság nem tudott teljes körű nyilatkozatot adni.
 
+(2a)[^42] A bányavállalkozó az (1) bekezdés szerinti kérelemhez mellékeli a Bt. 21/B. § (3a) bekezdése szerinti jognyilatkozatot vagy szándéknyilatkozatot.
+
 (3) A geotermikus védőidomra az elfogadott kutatási zárójelentésben lévő és a kérelemben megadott adatokra és információkra alapozottan a bányavállalkozó javaslatot tesz.
 
 (4) A bányavállalkozó geotermikus védőidomra vonatkozó javaslatát a bányafelügyelet ellenőrzi, és a geotermikus védőidomot ennek figyelembevételével jelöli ki.
@@ -24,8 +26,11 @@ c) a 150 m-nél nagyobb mélységű felszín alatti víztermelő és besajtoló 
 
 (7) A geotermikus védőidomot megállapító határozat – az általános közigazgatási rendtartásról szóló törvényben előírtakon túl – tartalmazza
 
-a) a geotermikus védőidom lehatárolását,
+a)[^43] a geotermikus védőidom egyértelmű meghatározásához szükséges EOV rendszer szerinti koordinátákkal történő lehatárolását,
 
 b) a geotermikus védőidomon belüli létesítményeket és
 
 c) a Bt. 21/B. § (4) bekezdésében foglaltakat.
+
+[^42]: A 15/A. § (2a) bekezdését a 25/2023. (XII. 22.) SZTFH rendelet 6. §-a iktatta be.
+[^43]: A 15/A. § (7) bekezdés a) pontja a 25/2023. (XII. 22.) SZTFH rendelet 10. § c) pontja szerint módosított szöveg.

@@ -4,7 +4,7 @@
 
 (2) A bánya bezárására (megszüntetésére), a mező felhagyására készített műszaki üzemi tervnek tartalmaznia kell
 
-a)[^78] a bányabezárás, mezőfelhagyás környezetre gyakorolt hatásának vizsgálatát, kivéve, ha a bányászati tevékenység végzése tekintetében rendelkezésre áll olyan hatályos környezetvédelmi (működési) engedély, egységes környezethasználati engedély, amely rendelkezik a bánya bezárásáról, mező felhagyásáról,
+a)[^91] a bányabezárás, mezőfelhagyás környezetre gyakorolt hatásának vizsgálatát, kivéve, ha a bányászati tevékenység végzése tekintetében rendelkezésre áll olyan hatályos környezetvédelmi (működési) engedély, egységes környezethasználati engedély, amely rendelkezik a bánya bezárásáról, mező felhagyásáról,
 
 b) a külszín, valamint a felszín alatti vizek, természeti értékek megóvására szolgáló műszaki-biztonsági intézkedéseket,
 
@@ -38,7 +38,7 @@ e) a környezetvédelmi térképet,
 
 f) a külön jogszabályban előírt környezetvédelmi engedélyt,
 
-g) a 31. § (12) bekezdése szerinti okiratot, ha a bányabezárás során a végállapoti rézsűk és bányatalp kialakításának kivételével ásványi nyersanyag kitermelést is terveznek.
+g)[^92] a 30. § (12) bekezdése szerinti okiratot, ha a bányabezárás során a végállapoti rézsűk és bányatalp kialakításának kivételével ásványi nyersanyag kitermelést is terveznek.
 
 (5) Ha a kérelmező a kérelemhez a (4) bekezdés f) pontja szerinti dokumentumot nem mellékeli, annak beszerzéséről a bányafelügyelet gondoskodik.
 
@@ -48,7 +48,7 @@ g) a 31. § (12) bekezdése szerinti okiratot, ha a bányabezárás során a vé
 
 (8) A műszaki üzemi tervet jóváhagyó határozatnak – az általános közigazgatási rendtartásról szóló törvényben előírtakon túl – tartalmaznia kell a bányabezárás során elvégzendő intézkedéseket, feladatokat és azok teljesítési idejét.
 
-(8a)[^79] Ha a bányafelügyelet a Bt. 30. § (5) bekezdése alapján kötelezte a bányavállalkozót a bánya bezárására, a bánya bezárására vonatkozó műszaki üzemi tervben csak a végállapoti rézsűk és a bányatalp kialakításához szükséges ásványi nyersanyag kitermelés engedélyezhető.
+(8a)[^93] Ha a bányafelügyelet a Bt. 30. § (5) bekezdése alapján kötelezte a bányavállalkozót a bánya bezárására, a bánya bezárására vonatkozó műszaki üzemi tervben csak a végállapoti rézsűk és a bányatalp kialakításához szükséges ásványi nyersanyag kitermelés engedélyezhető.
 
 (9) A megszűnt föld alatti bánya nyitva maradó térségének más célú hasznosítása a hatóság által akkor engedélyezhető, ha
 
@@ -62,5 +62,43 @@ c) a hasznosító biztosítékot ad a nyitva maradó bányatérséggel összefü
 
 (11) A kitermelés befejezésére, a bányabezárásra vonatkozó műszaki üzemi terv végrehajtását, a tájrendezés befejezését a bányavállalkozó 30 napon belül köteles a bányafelügyeletnek bejelenteni. A bányabezárás és a tájrendezés végrehajtásáról és a bányászati tevékenység befejezéséről a bányafelügyelet határoz. E határozat véglegessé válását követően a bányatelek törléséről a bányafelügyelet határozatot hoz, ingatlan-nyilvántartásba bejegyzett bányatelek esetében a végleges határozattal megkeresi az ingatlanügyi hatóságot a bányatelek ingatlan-nyilvántartásból való törlése céljából.
 
-[^78]: A 42. § (2) bekezdés a) pontja a 40/2022. (XII. 19.) SZTFH rendelet 41. § (1) bekezdésével megállapított szöveg.
-[^79]: A 42. § (8a) bekezdését a 40/2022. (XII. 19.) SZTFH rendelet 41. § (2) bekezdése iktatta be.
+(12)[^94] Bezárt bánya földalatti bányatérségeinek más célú hasznosítása iránti kérelem tartalmazza
+
+a) a hasznosítás célját, időtartamát,
+
+b) a hasznosítani kívánt bányatérségek azonosítását,
+
+c) a hasznosítani kívánt bányatérségek kialakításához, fenntartásához, valamint a szellőztetési követelmények biztosításához szükséges munkák, eszközök felsorolását és azok indokolását,
+
+d) a bányatérségek hasznosítására és fenntartására vonatkozó műszaki tervet,
+
+e) a bányatérségek üzemeltetéséért felelős személyek azonosító adatait és
+
+f) a bánya megszüntetési állapotát tükröző bányatérkép alapján készített, a hasznosításhoz szükséges bányatérségeket ábrázoló térképet, amely tartalmazza
+
+fa) a nyitott bányatérségeket, az áthúzó légáramokat, azok irányát,
+
+fb) a légterelésre és a légmennyiség szabályozására szolgáló létesítményeket, eszközöket és
+
+fc) a főszellőztető- és segédszellőztető-gépeket.
+
+(13)[^95] A más célú hasznosítással kapcsolatos biztosítékadásra a 41. § (3)–(9) bekezdését kell alkalmazni.
+
+(14)[^96] A bányafelügyeletnek a (12) bekezdés szerinti hasznosítást engedélyező határozata tartalmazza
+
+a) a hasznosítással érintett bányatérségek meghatározását,
+
+b) a hasznosítás időtartamát,
+
+c) a hasznosításhoz szükséges bányatérségek kialakításához, fenntartásához szükséges munkák engedélyezését,
+
+d) a hasznosításra vonatkozó biztonsági feltételeket és
+
+e) a biztosíték elfogadására vonatkozó rendelkezést.
+
+[^91]: A 42. § (2) bekezdés a) pontja a 40/2022. (XII. 19.) SZTFH rendelet 41. § (1) bekezdésével megállapított szöveg.
+[^92]: A 42. § (4) bekezdés g) pontja a 25/2023. (XII. 22.) SZTFH rendelet 10. § k) pontja szerint módosított szöveg.
+[^93]: A 42. § (8a) bekezdését a 40/2022. (XII. 19.) SZTFH rendelet 41. § (2) bekezdése iktatta be.
+[^94]: A 42. § (12) bekezdését a 25/2023. (XII. 22.) SZTFH rendelet 8. §-a iktatta be.
+[^95]: A 42. § (13) bekezdését a 25/2023. (XII. 22.) SZTFH rendelet 8. §-a iktatta be.
+[^96]: A 42. § (14) bekezdését a 25/2023. (XII. 22.) SZTFH rendelet 8. §-a iktatta be.

@@ -2,7 +2,7 @@
 
 (2) A biztonsági övezeten belül tilos
 
-a)[^61] – a 38. §-ban foglaltak és a bányászati létesítmény, valamint a szállító- és elosztóvezeték állagát, üzemeltetését, karbantartását és hibaelhárítását nem akadályozó kerítés építése kivételével – az építési tevékenység, továbbá bármilyen építmény elhelyezése,
+a)[^71] – a 38. §-ban foglaltak és a bányászati létesítmény, valamint a szállító- és elosztóvezeték állagát, üzemeltetését, karbantartását és hibaelhárítását nem akadályozó kerítés építése kivételével – az építési tevékenység, továbbá bármilyen építmény elhelyezése,
 
 b) a tűzrakás vagy anyagok égetése,
 
@@ -12,17 +12,17 @@ d) a kőolaj- és földgázbányászati létesítmények, valamint a szállító
 
 e) a robbantási tevékenység és a szeizmikus mérés,
 
-f)[^62] a bányászati létesítmény, valamint a szállító- és elosztóvezeték állagát, üzemeltetését, karbantartását és hibaelhárítását akadályozó anyagok elhelyezése,
+f)[^72] a bányászati létesítmény, valamint a szállító- és elosztóvezeték állagát, üzemeltetését, karbantartását és hibaelhárítását akadályozó anyagok elhelyezése,
 
 g) az árasztásos öntözés, továbbá rizstelep, halastó, víztározó, zagytér és állattartó telep létesítése, valamint
 
 h) szállítóvezeték, továbbá környezete védelme érdekében kijelölt biztonsági övezet esetén járművek állandó vagy ideiglenes tárolása.
 
-(3)[^63] A bányászati létesítmények és a szállítóvezeték részét képező állomások és fáklyák biztonsági övezetének teljes terjedelmében, valamint – ha a biztonsági övezet a 2 métert eléri – az elosztóvezeték tengelyétől mért 2-2 méteres, a szállítóvezeték, az egyéb gáz és gáztermék vezeték és a célvezeték tengelyétől mért 5-5 méteres, továbbá az energiaellátó, a távfelügyeleti, a hírközlési és a korrózióvédelemi kábelek tengelyétől mért 1-1 méteres biztonsági övezet részben tilos
+(3)[^73] A bányászati létesítmények és a szállítóvezeték részét képező állomások és fáklyák biztonsági övezetének teljes terjedelmében, valamint – ha a biztonsági övezet a 2 métert eléri – az elosztóvezeték tengelyétől mért 2-2 méteres, a szállítóvezeték, az egyéb gáz és gáztermék vezeték és a célvezeték tengelyétől mért 5-5 méteres, továbbá az energiaellátó, a távfelügyeleti, a hírközlési és a korrózióvédelemi kábelek tengelyétől mért 1-1 méteres biztonsági övezet részben tilos
 
-a)[^64] a bányászati létesítmény és a vezeték épségét veszélyeztető vagy az üzemeltetést, karbantartást és hibaelhárítást akadályozó növény ültetése,
+a)[^74] a bányászati létesítmény és a vezeték épségét veszélyeztető vagy az üzemeltetést, karbantartást és hibaelhárítást akadályozó növény ültetése,
 
-b)[^65] a bányászati létesítmény és a vezeték épségét veszélyeztető vagy az üzemeltetést, karbantartást és hibaelhárítást akadályozó szőlő- és egyéb kordonok elhelyezése,
+b)[^75] a bányászati létesítmény és a vezeték épségét veszélyeztető vagy az üzemeltetést, karbantartást és hibaelhárítást akadályozó szőlő- és egyéb kordonok elhelyezése,
 
 c) a 0,6 m-nél nagyobb mélységű talajművelés,
 
@@ -36,16 +36,16 @@ e) a tereprendezés.
 
 (6) Az (1) bekezdés szerinti létesítmény jelzéseinek, felszíni műtárgyainak eltakarása, megrongálása, és eltávolítása tilos. A biztonsági övezettel érintett ingatlan tulajdonosa, kezelője vagy használója a biztonsági övezetre vonatkozó tilalmakat és korlátozásokat köteles betartani, továbbá nem végezhet olyan tevékenységet, amely a tilalmak és a korlátozások teljesülését veszélyeztetné. Ha a biztonsági övezettel érintett ingatlan tulajdonosa, kezelője vagy használója megsérti a tilalmakat vagy korlátozásokat, köteles az eredeti állapotot helyreállítani és a keletkezett kárt megtéríteni.
 
-(7)[^66] A biztonsági övezetre előírt tilalmak és korlátozások megtartását az üzemeltető vagy megbízottja rendszeresen ellenőrzi, és azok megsértése esetén a biztonsági övezettel érintett ingatlan tulajdonosát, kezelőjét vagy használóját határidő tűzésével felszólítja a jogsértő állapot megszüntetésére és az eredeti állapot helyreállítására. Ha a határidő eredménytelenül telik el, az üzemeltető vagy megbízottja ezt haladéktalanul bejelenti a bányafelügyeletnek a szükséges hatósági intézkedések megtétele érdekében. Ha biztonsági okokból azonnali intézkedés megtétele szükséges, az üzemeltető vagy megbízottja közvetlenül intézkedhet a jogsértő állapot megszüntetése iránt, amit az ingatlan tulajdonosa, kezelőjét vagy használója tűrni köteles.
+(7)[^76] A biztonsági övezetre előírt tilalmak és korlátozások megtartását az üzemeltető vagy megbízottja rendszeresen ellenőrzi, és azok megsértése esetén a biztonsági övezettel érintett ingatlan tulajdonosát, kezelőjét vagy használóját határidő tűzésével felszólítja a jogsértő állapot megszüntetésére és az eredeti állapot helyreállítására. Ha a határidő eredménytelenül telik el, az üzemeltető vagy megbízottja ezt haladéktalanul bejelenti a bányafelügyeletnek a szükséges hatósági intézkedések megtétele érdekében. Ha biztonsági okokból azonnali intézkedés megtétele szükséges, az üzemeltető vagy megbízottja közvetlenül intézkedhet a jogsértő állapot megszüntetése iránt, amit az ingatlan tulajdonosa, kezelőjét vagy használója tűrni köteles.
 
-(7a)[^67] A bányafelügyelet a biztonsági övezet megsértőjét határidő tűzésével kötelezi a jogsértő állapot megszüntetésére.
+(7a)[^77] A bányafelügyelet a biztonsági övezet megsértőjét határidő tűzésével kötelezi a jogsértő állapot megszüntetésére.
 
 (8) A biztonsági övezet kérelemre módosítható, ha a műszaki-biztonsági feltételek lehetővé teszik.
 
-[^61]: A 37. § (2) bekezdés a) pontja a 40/2022. (XII. 19.) SZTFH rendelet 39. § (1) bekezdésével megállapított szöveg.
-[^62]: A 37. § (2) bekezdés f) pontja a 40/2022. (XII. 19.) SZTFH rendelet 39. § (2) bekezdésével megállapított szöveg.
-[^63]: A 37. § (3) bekezdés nyitó szövegrésze a 21/2023. (XI. 9.) SZTFH rendelet 3. § c) pontja szerint módosított szöveg.
-[^64]: A 37. § (3) bekezdés a) pontja a 40/2022. (XII. 19.) SZTFH rendelet 39. § (3) bekezdésével megállapított szöveg.
-[^65]: A 37. § (3) bekezdés b) pontja a 40/2022. (XII. 19.) SZTFH rendelet 39. § (3) bekezdésével megállapított szöveg.
-[^66]: A 37. § (7) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 39. § (4) bekezdésével megállapított szöveg.
-[^67]: A 37. § (7a) bekezdését a 40/2022. (XII. 19.) SZTFH rendelet 39. § (4) bekezdése iktatta be.
+[^71]: A 37. § (2) bekezdés a) pontja a 40/2022. (XII. 19.) SZTFH rendelet 39. § (1) bekezdésével megállapított szöveg.
+[^72]: A 37. § (2) bekezdés f) pontja a 40/2022. (XII. 19.) SZTFH rendelet 39. § (2) bekezdésével megállapított szöveg.
+[^73]: A 37. § (3) bekezdés nyitó szövegrésze a 21/2023. (XI. 9.) SZTFH rendelet 3. § c) pontja szerint módosított szöveg.
+[^74]: A 37. § (3) bekezdés a) pontja a 40/2022. (XII. 19.) SZTFH rendelet 39. § (3) bekezdésével megállapított szöveg.
+[^75]: A 37. § (3) bekezdés b) pontja a 40/2022. (XII. 19.) SZTFH rendelet 39. § (3) bekezdésével megállapított szöveg.
+[^76]: A 37. § (7) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 39. § (4) bekezdésével megállapított szöveg.
+[^77]: A 37. § (7a) bekezdését a 40/2022. (XII. 19.) SZTFH rendelet 39. § (4) bekezdése iktatta be.

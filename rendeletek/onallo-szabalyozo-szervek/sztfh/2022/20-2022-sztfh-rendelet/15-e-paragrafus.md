@@ -1,4 +1,4 @@
-15/E. § A geotermikus energia kinyerésére és hasznosítására vonatkozó szerződés – az általános közigazgatási rendtartásról szóló törvényben előírtakon túl – tartalmazza
+15/E. §[^47] A geotermikus energia kinyerésére és hasznosítására vonatkozó szerződés – az általános közigazgatási rendtartásról szóló törvényben előírtakon túl – tartalmazza különösen
 
 a) a geotermikus energia kinyerésének célját, a geotermikus energiát felhasználó adatait,
 
@@ -19,3 +19,5 @@ h) a szerződésmódosítás – ideértve a szerződés időtartamának módos�
 i) a szerződés megszűnésének eseteit és
 
 j) a szerződésfelmondási okokat.
+
+[^47]: A 15/E. § nyitó szövegrésze a 25/2023. (XII. 22.) SZTFH rendelet 10. § e) pontja szerint módosított szöveg.
