@@ -4,11 +4,7 @@ A Kormány – a mezőhegyesi ménesbirtoknak a magyar állattenyésztésben és
 
 2. egyetért a Beruházásnak a Társaság tőkeemelése útján történő részbeni finanszírozásával, legfeljebb 8 500 000 000 forint összegben;
 
-3. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 21. Központi kezelésű előirányzatok címnek az 1. A mezőhegyesi Nemzeti Ménesbirtok és Tangazdaság Zártkörűen Működő Részvénytársaság által ellátott állami feladatok koordinálásáért felelős kormánybiztos tulajdonosi joggyakorlásával kapcsolatos kiadások alcímmel és az 1. Nemzeti Ménesbirtok és Tangazdaság Zrt. tőkeemelése jogcímcsoporttal történő kiegészítését;
-
-Felelős: pénzügyminiszter
-
-Határidő: azonnal
+3.[^1]
 
 4. a 2. pontban foglaltak alapján felhívja a pénzügyminisztert, hogy a mezőhegyesi Nemzeti Ménesbirtok és Tangazdaság Zártkörűen Működő Részvénytársaság által ellátott állami feladatok koordinálásáért felelős kormánybiztos bevonásával gondoskodjon a tőkeemeléshez szükséges többletforrás biztosításáról a 2020. évben a 3. pont szerinti előirányzat, a 2021. évben a XXII. Miniszterelnöki Kormányiroda fejezetben létrehozandó előirányzat javára, a következő ütemezésben:
 
@@ -49,3 +45,5 @@ Határidő: a 4. pontban meghatározott források rendelkezésre állását köv
 Felelős: a mezőhegyesi Nemzeti Ménesbirtok és Tangazdaság Zártkörűen Működő Részvénytársaság által ellátott állami feladatok koordinálásáért felelős kormánybiztos
 
 Határidő: folyamatos
+
+[^1]: A 3. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
