@@ -6,7 +6,7 @@
 
 a) magyar állampolgár, illetve a szabad mozgás és tartózkodás jogával rendelkező személy, vagy
 
-b) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozik, és Magyarországon lakóhellyel vagy tartózkodási engedéllyel rendelkezik, vagy
+b) a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény hatálya alá tartozik, és Magyarországon lakóhellyel vagy tartózkodási engedéllyel rendelkezik, vagy
 
 c) az a) és b) pont alá nem tartozó külföldi állampolgár nemzetközi egyezmény vagy viszonosság alapján, és
 
