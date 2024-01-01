@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-78-20-0
 | 2020-01-09 | 2012-78-20-0A.6 | 1/2020. (I. 8.) BM rendelet |
 | 2022-01-01 | 2012-78-20-0A.7 | 1/2020. (I. 8.) BM rendelet |
 | 2023-01-01 | 2012-78-20-0A.8 | 24/2021. (VII. 30.) BM rendelet |
+| 2024-01-01 | 2012-78-20-0A.9 | 1/2020. (I. 8.) BM rendelet |

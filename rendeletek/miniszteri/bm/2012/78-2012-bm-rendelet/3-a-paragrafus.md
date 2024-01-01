@@ -974,15 +974,13 @@ H.2. A polgárok személyi adatainak, lakcímének nyilvántartásával és a k�
 
 | Irattári tételszám | Tétel megnevezése | Megőrzési idő (év) | Lt. |
 
-| H201 | A személyiadat- és lakcímnyilvántartás manuális (kartonos) állományának történeti adatai, a lecserélt nyilvántartó kartonok | 1 | – |
+| H201 | A polgárok személyi adatainak és lakcímének nyilvántartásával kapcsolatos ügyek | 5 | – |
 
-| H202 | A polgárok személyi adatainak és lakcímének nyilvántartásával kapcsolatos ügyek | 5 | – |
+| H202 | A címnyilvántartással kapcsolatos ügyek | 2 | – |
 
-| H203 | A címnyilvántartással kapcsolatos ügyek | 2 | – |
+| H203 | A központi címregiszterrel kapcsolatos ügyek alapiratai | NS | HN |
 
-| H204 | A központi címregiszterrel kapcsolatos ügyek alapiratai | NS | HN |
-
-| H205 | A központi címregiszterrel kapcsolatos ügyek egyéb iratai | 2 | – |
+| H204 | A központi címregiszterrel kapcsolatos ügyek egyéb iratai | 2 | – |
 
 H.3. Választásokkal kapcsolatos ügyek
 
@@ -1515,4 +1513,4 @@ X.3. Fegyveres biztonsági őrség
 | X302 | Rendészeti ügyek | 2 | – |
 
 [^2]: A 3/A. §-t a 24/2021. (VII. 30.) BM rendelet 9. §-a iktatta be.
-[^3]: A melléklet az 1/2020. (I. 8.) BM rendelet 1. §-ával megállapított, a 46/2021. (XII. 22.) BM rendelet 9. §-a szerint módosított szöveg.
+[^3]: A melléklet az 1/2020. (I. 8.) BM rendelet 1. §-ával megállapított, a 46/2021. (XII. 22.) BM rendelet 9. §-a, a 24/2021. (VII. 30.) BM rendelet 10. §-a szerint módosított szöveg.
