@@ -12,7 +12,7 @@ d) jogerős határozattal a Kamarából való kizárás fegyelmi büntetéssel s
 
 e) kamarai tagdíjfizetési kötelezettségének felszólítás ellenére sem tett eleget;
 
-f) magyar állampolgársága, valamely EGT-állam állampolgársága, letelepedett vagy bevándorolt státusza megszűnik;
+f) magyar állampolgársága, valamely EGT-állam állampolgársága, huzamos tartózkodási jogosultsága megszűnik;
 
 g) cselekvőképességét érintő gondnokság vagy támogatott döntéshozatal hatálya alá helyezik;
 

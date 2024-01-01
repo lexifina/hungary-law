@@ -4,7 +4,7 @@
 
 (2) A Kamarába való felvételre jogosult, aki
 
-a) magyar állampolgár, valamely EGT-állam állampolgára, letelepedett vagy bevándorló;
+a) magyar állampolgár, valamely EGT-állam állampolgára, huzamos tartózkodási jogosultsággal rendelkezik;
 
 b) büntetlen előéletű;
 

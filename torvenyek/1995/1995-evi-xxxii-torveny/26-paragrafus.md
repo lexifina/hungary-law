@@ -4,7 +4,7 @@
 
 (2) A Kamara annak engedélyezi szabadalmi ügyvivőjelölti tevékenység folytatását, aki
 
-a) magyar állampolgár, valamely EGT-állam állampolgára, letelepedett vagy bevándorolt;
+a) magyar állampolgár, valamely EGT-állam állampolgára, vagy huzamos tartózkodási jogosultsággal rendelkezik;
 
 b) büntetlen előéletű;
 
@@ -50,7 +50,7 @@ c) aki büntetett előéletű, vagy a szabadalmi ügyvivői foglalkozástól elt
 
 d) akit jogerős határozattal a szabadalmi ügyvivőjelöltek névjegyzékéből való törlés fegyelmi büntetéssel sújtottak;
 
-e) akinek magyar állampolgársága, valamely EGT-állam állampolgársága, letelepedett vagy bevándorolt státusza megszűnik;
+e) akinek magyar állampolgársága, valamely EGT-állam állampolgársága, huzamos tartózkodási jogosultsága megszűnik;
 
 f) akit cselekvőképességet korlátozó vagy kizáró gondnokság alá helyeztek;
 
