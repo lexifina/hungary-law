@@ -1,0 +1,3 @@
+1. § Az egyes sajátos ipari építményekre vonatkozó építésügyi hatósági eljárások szabályairól szóló 31/2014. (II. 12.) Korm. rendelet 8. alcíme a következő 16/A. §-sal egészül ki:
+
+„16/A. § Az építési engedély jogosultja az építési engedély birtokában jogosult – az illetékes hatóság előzetes értesítése mellett – az engedélyben foglaltak szerinti sajátos építményt – az építményen belüli veszélyes berendezéseknek egyéb jogszabályban előírt próbaüzem elrendelésére vonatkozó hatósági döntések kiadását követően – próbaüzemben működtetni, valamint a próbaüzem megkezdése és a használatbavételi engedély kiadása közötti átmeneti időszakban az építményben termelő tevékenységet folytatni.”
