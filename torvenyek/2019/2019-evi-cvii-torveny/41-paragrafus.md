@@ -2,7 +2,7 @@
 
 (1) A köztisztviselőt – a (9) bekezdésben foglalt kivétellel – felmentése és a különleges jogállású szerv jogutód nélküli megszűnése esetén végkielégítés illeti meg.
 
-(2) A végkielégítés összege, ha a köztisztviselő közszolgálati jogviszonyban töltött ideje legalább
+(2) A végkielégítés összege, ha a köztisztviselő foglalkoztatási jogviszonyban töltött ideje legalább
 
 a) három év: egyhavi,
 

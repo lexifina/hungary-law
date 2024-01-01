@@ -20,7 +20,7 @@ h) közszolgálati jogviszonyát megszüntető iratot,
 
 i) hatályban lévő fegyelmi büntetését kiszabó határozatot, valamint
 
-j) közszolgálati igazolásának másolatát
+j) foglalkoztatási igazolásának másolatát
 
 együttesen kell tárolni (a továbbiakban együtt: személyi anyag).
 

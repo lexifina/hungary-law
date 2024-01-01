@@ -6,6 +6,6 @@
 
 (3) Végleges áthelyezéskor a köztisztviselő az áthelyezést kezdeményező szervnél új kinevezést kap.
 
-(4) Végleges áthelyezés esetén a közszolgálati igazolást, valamint a köztisztviselő illetményét és egyéb járandóságait ki kell adni.
+(4) Végleges áthelyezés esetén a foglalkoztatási igazolást, valamint a köztisztviselő illetményét és egyéb járandóságait ki kell adni.
 
 (5) Végleges áthelyezés esetén a köztisztviselő jogviszonyát folyamatosnak kell tekinteni.

@@ -36,6 +36,6 @@ b) konzultáció: a különleges jogállású szerv és a szakszervezet között
 
 (14) Nem lehet jogosultságot vagy juttatást valamely szakszervezethez való tartozástól vagy az attól való távolmaradástól függővé tenni.
 
-(15) A különleges jogállású szerv szakszervezeti tagdíj levonásáért és a szakszervezet részére történő átutalásáért ellenértéket nem követelhet.
+(15)
 
-(16) A munkavállalói érdekképviseleti tagdíjfizetés önkéntességéről szóló 1991. évi XXIX. törvénytől eltérően a különleges jogállású szerv a köztisztviselők illetményéből a szakszervezeti tagdíjat a különleges jogállású szerv és a köztisztviselő erre vonatkozó megállapodása esetén vonja le.
+(16) A munkavállalói érdekképviseleti tagdíjfizetés önkéntességéről szóló 1991. évi XXIX. törvénytől eltérően a különleges jogállású szerv a köztisztviselők illetményéből szakszervezeti vagy egyéb érdekképviseleti tagdíjat nem vonhat le és nem utalhat tovább.

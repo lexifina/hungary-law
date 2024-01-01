@@ -32,6 +32,8 @@ g) a 38. § (5) bekezdése szerinti jogviszony-létesítés esetén a két jogvi
 
 h) az állami vezetői szolgálati jogviszonyban, politikai felsővezetőként politikai szolgálati jogviszonyban töltött időt
 
+i) a költségvetési intézménynél egészségügyi szolgálati jogviszonyban, köznevelési foglalkoztatotti jogviszonyban töltött időt
+
 kell figyelembe venni.
 
 (4) A köztisztviselő nem jogosult szolgálati elismerésre, ha másik foglalkoztatási jogviszonyban azt már megkapta.
