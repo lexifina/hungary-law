@@ -4,6 +4,6 @@
 
 (3) Nem kell ellenőrző orvosi vizsgálatot kezdeményezni, ha szolgálatképtelenség miatt az egészségügyi szabadságot a hivatásos állomány várandós nő tagja vonatkozásában rendelik el.
 
-(4)[^4]
+(4)[^6]
 
-[^4]: A 7. § (4) bekezdését a 24/2023. (VI. 30.) BM rendelet 55. § c) pontja hatályon kívül helyezte.
+[^6]: A 7. § (4) bekezdését a 24/2023. (VI. 30.) BM rendelet 55. § c) pontja hatályon kívül helyezte.

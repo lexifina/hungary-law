@@ -1,8 +1,8 @@
-23. §[^12] (1) A FÜV bizottság minősítése lehet
+23. §[^14] (1) A FÜV bizottság minősítése lehet
 
 a) „Hivatásos szolgálatra alkalmas”,
 
-b)[^13] „Hivatásos szolgálatra alkalmatlan” vagy
+b)[^15] „Hivatásos szolgálatra alkalmatlan” vagy
 
 c) „Szolgálati beosztásának ellátására alkalmatlan”.
 
@@ -12,5 +12,5 @@ c) „Szolgálati beosztásának ellátására alkalmatlan”.
 
 (4) A „Szolgálati beosztásának ellátására alkalmatlan” minősítés akkor adható, ha a hivatásos állomány tagja a 14. § (2) bekezdése szerinti egészségi minimumfeltételeknek megfelel, és az általa betöltött szolgálati beosztás a rendvédelmi szerv vezetője által kiadott közjogi szervezetszabályozó eszközben nem a Rendelet szerinti I. alkalmasságvizsgálati kategóriába tartozik.
 
-[^12]: A 23. § a 24/2023. (VI. 30.) BM rendelet 52. §-ával megállapított szöveg.
-[^13]: [A 23. § (1) bekezdés b) pontjában a 24/2023. (VI. 30.) BM rendelet 54. § b) pontja által elrendelt módosítás, amely szerint a „ „Hivatásos szolgálatra alkalmatlan”. ” szövegrész helyébe a „ „Hivatásos szolgálatra alkalmatlan”, vagy” szöveg lép, nem vezethető át.]
+[^14]: A 23. § a 24/2023. (VI. 30.) BM rendelet 52. §-ával megállapított szöveg.
+[^15]: [A 23. § (1) bekezdés b) pontjában a 24/2023. (VI. 30.) BM rendelet 54. § b) pontja által elrendelt módosítás, amely szerint a „ „Hivatásos szolgálatra alkalmatlan”. ” szövegrész helyébe a „ „Hivatásos szolgálatra alkalmatlan”, vagy” szöveg lép, nem vezethető át.]

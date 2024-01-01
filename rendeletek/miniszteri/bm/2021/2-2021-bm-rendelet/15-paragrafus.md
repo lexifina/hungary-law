@@ -1,6 +1,6 @@
 ## 8. A felülvizsgálati eljárás elrendelése, megszüntetése
 
-15. § (1)[^8] A 14. § (1) bekezdése szerinti minősítésről a minősítést adó orvos a Rendeletben foglaltak szerint kiállított minősítő dokumentumot öt napon belül megküldi a hivatásos állomány tagját alkalmazó rendvédelmi szerv személyügyi szervének. A személyügyi szerv a minősítő dokumentum alapján – „Alkalmas kategória-váltással” minősítés esetén –, ha a hivatásos állomány tagja számára a végzettségének, képzettségének megfelelő beosztás nem biztosítható, vagy a neki felajánlott alacsonyabb szolgálati beosztást nem fogadja el, tizenöt munkanapon belül előkészíti a felülvizsgálati eljárás elrendelését. A személyügyi szerv ennek keretében intézkedik
+15. § (1)[^10] A 14. § (1) bekezdése szerinti minősítésről a minősítést adó orvos a Rendeletben foglaltak szerint kiállított minősítő dokumentumot öt napon belül megküldi a hivatásos állomány tagját alkalmazó rendvédelmi szerv személyügyi szervének. A személyügyi szerv a minősítő dokumentum alapján – „Alkalmas kategória-váltással” minősítés esetén –, ha a hivatásos állomány tagja számára a végzettségének, képzettségének megfelelő beosztás nem biztosítható, vagy a neki felajánlott alacsonyabb szolgálati beosztást nem fogadja el, tizenöt munkanapon belül előkészíti a felülvizsgálati eljárás elrendelését. A személyügyi szerv ennek keretében intézkedik
 
 a) a rendvédelmi alapellátó orvos véleményének,
 
@@ -56,7 +56,7 @@ f) a szolgálati elöljáró aláírását.
 
 (5) A FÜV Bizottságnak megküldendő dokumentáció tartalmazza
 
-a)[^9] a hivatásos állomány tagjának betegsége vagy balesete miatt a Rendelet alapján a másodfokú soron kívüli alkalmasságvizsgálaton vagy a másodfokú ismételt alkalmasságvizsgálaton „Alkalmatlan” minősítés alapjául szolgáló egészségügyi dokumentációt,
+a)[^11] a hivatásos állomány tagjának betegsége vagy balesete miatt a Rendelet alapján a másodfokú soron kívüli alkalmasságvizsgálaton vagy a másodfokú ismételt alkalmasságvizsgálaton „Alkalmatlan” minősítés alapjául szolgáló egészségügyi dokumentációt,
 
 b) a hivatásos állomány tagjának egészségügyi törzskönyvét és annak tartozékait,
 
@@ -70,5 +70,5 @@ f) valamennyi rendelkezésre álló – különösen az egy éven belüli – fe
 
 g) a baleset, fokozott expozíciós eset, foglalkozási betegség esetén a minősítő határozatot, és ha van, a baleseti jegyzőkönyvet.
 
-[^8]: A 15. § (1) bekezdése a 24/2023. (VI. 30.) BM rendelet 50. §-ával megállapított szöveg.
-[^9]: A 15. § (5) bekezdés a) pontja a 24/2023. (VI. 30.) BM rendelet 55. § f) pontja szerint módosított szöveg.
+[^10]: A 15. § (1) bekezdése a 24/2023. (VI. 30.) BM rendelet 50. §-ával megállapított szöveg.
+[^11]: A 15. § (5) bekezdés a) pontja a 24/2023. (VI. 30.) BM rendelet 55. § f) pontja szerint módosított szöveg.

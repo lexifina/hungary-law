@@ -20,7 +20,7 @@ e) a minősítést,
 
 f) a FÜV bizottság elnökének és tagjainak aláírását.
 
-g)[^10] az (1) bekezdés szerinti döntés meghozatalának helyét és idejét.
+g)[^12] az (1) bekezdés szerinti döntés meghozatalának helyét és idejét.
 
 (3) Az (1) bekezdés b) pontja szerinti orvos-szakmai vélemény tartalmazza
 
@@ -38,7 +38,7 @@ f) az önvédelmi lőfegyverrel vagy vadászfegyverrel rendelkezők esetében az
 
 g) a FÜV bizottság elnökének és tagjainak aláírását.
 
-h)[^11] az (1) bekezdés szerinti döntés meghozatalának helyét és idejét.
+h)[^13] az (1) bekezdés szerinti döntés meghozatalának helyét és idejét.
 
-[^10]: A 22. § (2) bekezdés g) pontját a 24/2023. (VI. 30.) BM rendelet 51. § (1) bekezdése iktatta be.
-[^11]: A 22. § (3) bekezdés h) pontját a 24/2023. (VI. 30.) BM rendelet 51. § (2) bekezdése iktatta be.
+[^12]: A 22. § (2) bekezdés g) pontját a 24/2023. (VI. 30.) BM rendelet 51. § (1) bekezdése iktatta be.
+[^13]: A 22. § (3) bekezdés h) pontját a 24/2023. (VI. 30.) BM rendelet 51. § (2) bekezdése iktatta be.
