@@ -1,4 +1,4 @@
-64/A. §[^225] (1) Ha a felhasználó az elszámolás alapjául szolgáló fogyasztásmérő rendellenes működését vagy hibáját, sérülését észleli, köteles azt a víziközmű-szolgáltatónak haladéktalanul bejelenteni. A víziközmű-szolgáltató a bejelentéstől számított 8 napon belül köteles a kifogásolt fogyasztásmérőt ellenőrizni. Ha a fogyasztásmérő hibáját az ellenőrzés alátámasztja, a fogyasztásmérő cseréjéről annak tulajdonosa haladéktalanul köteles gondoskodni.
+64/A. §[^226] (1) Ha a felhasználó az elszámolás alapjául szolgáló fogyasztásmérő rendellenes működését vagy hibáját, sérülését észleli, köteles azt a víziközmű-szolgáltatónak haladéktalanul bejelenteni. A víziközmű-szolgáltató a bejelentéstől számított 8 napon belül köteles a kifogásolt fogyasztásmérőt ellenőrizni. Ha a fogyasztásmérő hibáját az ellenőrzés alátámasztja, a fogyasztásmérő cseréjéről annak tulajdonosa haladéktalanul köteles gondoskodni.
 
 (2) Ha valószínűsíthető, hogy a fogyasztásmérő rendellenesen működik, vagy ha az (1) bekezdésben meghatározott ellenőrzés során a megfelelő működés kérdésben a felek között vita alakul ki, a felhasználó, az elkülönített vízhasználó vagy a víziközmű-szolgáltató kezdeményezi az elszámolás alapjául szolgáló fogyasztásmérő mérésügyi hatósággal történő metrológiai pontossági ellenőrzését, és ha indokolt, független szakértővel történő metrológiai szerkezeti vizsgálatát (a továbbiakban együtt: pontossági vizsgálat).
 
@@ -18,4 +18,4 @@ b) nem felelt meg, a fogyasztásmérő (5) bekezdésben meghatározott cseréjé
 
 (8) Ha a fogyasztásmérő rendellenes működése, vagy hibája, sérülése valamelyik fél szerződésszegő magatartásának a következménye, a fogyasztásmérő (5) bekezdésben meghatározott cseréjének és a pontossági vizsgálat elvégzésének díja, a szerződésszegés egyéb jogkövetkezményeivel együtt a szerződésszegő felet terheli.
 
-[^225]: A 64/A. §-t a 367/2015. (XII. 2.) Korm. rendelet 13. §-a iktatta be.
+[^226]: A 64/A. §-t a 367/2015. (XII. 2.) Korm. rendelet 13. §-a iktatta be.

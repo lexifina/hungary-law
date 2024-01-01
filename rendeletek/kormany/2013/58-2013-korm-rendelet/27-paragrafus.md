@@ -1,8 +1,8 @@
 27. § (1) A működési engedély módosítására irányuló eljárásra az engedélyezés szabályai az irányadók.
 
-(2)[^95]
+(2)[^98]
 
-(3)[^96]
+(3)[^99]
 
-[^95]: A 27. § (2) bekezdését a 243/2023. (VI. 20.) Korm. rendelet 18. § a) pontja hatályon kívül helyezte.
-[^96]: A 27. § (3) bekezdését a 243/2023. (VI. 20.) Korm. rendelet 18. § a) pontja hatályon kívül helyezte.
+[^98]: A 27. § (2) bekezdését a 243/2023. (VI. 20.) Korm. rendelet 18. § a) pontja hatályon kívül helyezte.
+[^99]: A 27. § (3) bekezdését a 243/2023. (VI. 20.) Korm. rendelet 18. § a) pontja hatályon kívül helyezte.

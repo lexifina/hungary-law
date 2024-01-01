@@ -1,10 +1,10 @@
-## 69. §[^247] Ha az ellenőrzés során az ellenőrzést végző szerződésszegést vagy más rendellenességet állapít meg, arról a bizonyítás érdekében fényképet vagy digitális felvételt is köteles készíteni. A fogyasztásmérő vagy bármely részének leszerelése esetén, a leszerelést megelőzően a fogyasztásmérőről és annak részeiről, valamint a leszerelést követően azok becsomagolt állapotáról fényképet vagy digitális felvételt kell készíteni.
+## 69. §[^248] Ha az ellenőrzés során az ellenőrzést végző szerződésszegést vagy más rendellenességet állapít meg, arról a bizonyítás érdekében fényképet vagy digitális felvételt is köteles készíteni. A fogyasztásmérő vagy bármely részének leszerelése esetén, a leszerelést megelőzően a fogyasztásmérőről és annak részeiről, valamint a leszerelést követően azok becsomagolt állapotáról fényképet vagy digitális felvételt kell készíteni.
 
-70. § (1)[^248] A víziközmű-szolgáltató részéről szerződésszegésnek minősül, ha
+70. § (1)[^249] A víziközmű-szolgáltató részéről szerződésszegésnek minősül, ha
 
 a) nem értesíti az előírt határidőben a felhasználót az előre tervezett karbantartási, felújítási vagy fejlesztési munkák miatti szünetelés időpontjáról és várható időtartamáról,
 
-b)[^249] a szolgáltatás minősége a jogszabályokban, a működési engedélyében, az üzemeltetési szerződésben vagy az üzletszabályzatában előírtaknak nem felel meg,
+b)[^250] a szolgáltatás minősége a jogszabályokban, a működési engedélyében, az üzemeltetési szerződésben vagy az üzletszabályzatában előírtaknak nem felel meg,
 
 c) a szolgáltatást a szerződésben rögzített időpontban nem kezdi meg, vagy jogellenesen szünetelteti,
 
@@ -24,19 +24,19 @@ c) a szerződésben foglalt adatváltozás bejelentési kötelezettségének nem
 
 d) a víziközmű-szolgáltatást a jogszabályokban előírtaktól eltérő módon, szabálytalanul veszi igénybe,
 
-e)[^250] a fogyasztásmérő ellenőrzését, a hibás fogyasztásmérő javítását, hitelesítési vagy egyéb okból történő cseréjét, vagy a fogyasztásmérő leolvasását a szerződésben előírtak szerint a víziközmű-szolgáltató részére nem teszi lehetővé, vagy – ha erre jogszabály vagy megállapodás a felhasználót kötelezi – ezek javításáról vagy a cseréjéről, továbbá a vízmérési hely karbantartásáról, a fogyasztásmérő elfagyás elleni védelméről nem gondoskodik,
+e)[^251] a fogyasztásmérő ellenőrzését, a hibás fogyasztásmérő javítását, hitelesítési vagy egyéb okból történő cseréjét, vagy a fogyasztásmérő leolvasását a szerződésben előírtak szerint a víziközmű-szolgáltató részére nem teszi lehetővé, vagy – ha erre jogszabály vagy megállapodás a felhasználót kötelezi – ezek javításáról vagy a cseréjéről, továbbá a vízmérési hely karbantartásáról, a fogyasztásmérő elfagyás elleni védelméről nem gondoskodik,
 
 f) az üzletszabályzatban foglalt egyéb kötelezettségeit nem teljesíti.
 
-(3)[^251] Lejárt hitelességű vagy lejárt kalibrációval rendelkező fogyasztásmérő esetében a víziközmű-szolgáltató vagy a felhasználó a szerződésszegés jogkövetkezménye alól akkor mentesül, ha bizonyítja, hogy a fogyasztásmérő megfelelő időben történő hitelesítése, cseréje vagy leszerelést megakadályozó zárral, illetve plombával történő ellátása a másik fél érdekkörében fennálló okból nem vezetett eredményre.
+(3)[^252] Lejárt hitelességű vagy lejárt kalibrációval rendelkező fogyasztásmérő esetében a víziközmű-szolgáltató vagy a felhasználó a szerződésszegés jogkövetkezménye alól akkor mentesül, ha bizonyítja, hogy a fogyasztásmérő megfelelő időben történő hitelesítése, cseréje vagy leszerelést megakadályozó zárral, illetve plombával történő ellátása a másik fél érdekkörében fennálló okból nem vezetett eredményre.
 
-(4)–(5)[^252]
+(4)–(5)[^253]
 
 (6) A felhasználó szerződésszegését a víziközmű-szolgáltató köteles bizonyítani.
 
-[^247]: A 69. § a 292/2014. (XI. 26.) Korm. rendelet 37. § 37. pontja szerint módosított szöveg.
-[^248]: A 70. § (1) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 18. §-ával megállapított szöveg.
-[^249]: A 70. § (1) bekezdés b) pontja a 243/2023. (VI. 20.) Korm. rendelet 17. § 18. pontja szerint módosított szöveg.
-[^250]: A 70. § (2) bekezdés e) pontja a 292/2014. (XI. 26.) Korm. rendelet 18. § (2) bekezdésével megállapított, a 367/2015. (XII. 2.) Korm. rendelet 27. § 24. pontja szerint módosított szöveg.
-[^251]: A 70. § (3) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 18. § (3) bekezdésével megállapított szöveg.
-[^252]: A 70. § (4)–(5) bekezdését a 292/2014. (XI. 26.) Korm. rendelet 38. § (1) bekezdés 11. pontja hatályon kívül helyezte.
+[^248]: A 69. § a 292/2014. (XI. 26.) Korm. rendelet 37. § 37. pontja szerint módosított szöveg.
+[^249]: A 70. § (1) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^250]: A 70. § (1) bekezdés b) pontja a 243/2023. (VI. 20.) Korm. rendelet 17. § 18. pontja szerint módosított szöveg.
+[^251]: A 70. § (2) bekezdés e) pontja a 292/2014. (XI. 26.) Korm. rendelet 18. § (2) bekezdésével megállapított, a 367/2015. (XII. 2.) Korm. rendelet 27. § 24. pontja szerint módosított szöveg.
+[^252]: A 70. § (3) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 18. § (3) bekezdésével megállapított szöveg.
+[^253]: A 70. § (4)–(5) bekezdését a 292/2014. (XI. 26.) Korm. rendelet 38. § (1) bekezdés 11. pontja hatályon kívül helyezte.

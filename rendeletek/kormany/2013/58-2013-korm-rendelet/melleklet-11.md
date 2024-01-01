@@ -134,7 +134,7 @@
 
 | Név (születési név) | Születési hely és idő | Lakóhely | Korlátozottság jellege* |
 
-## * Annak megjelölése, hogy a fogyatékkel élő felhasználó fogyatékossági támogatásban részesül-e, vagy a víziközmű-szolgáltatás felfüggesztése, korlátozása a lakossági felhasználó vagy a vele közös háztartásban élő személy életét vagy egészségét közvetlenül veszélyezteti-e.
+## * Annak megjelölése, hogy a fogyatékkal élő felhasználó fogyatékossági támogatásban részesül-e, vagy a víziközmű-szolgáltatás felfüggesztése, korlátozása a lakossági felhasználó vagy a vele közös háztartásban élő személy életét vagy egészségét közvetlenül veszélyezteti-e.
 
 ## A táblázatban fel kell tüntetni az igénylőt, akit a fogyatékossága okán különleges bánásmódban kell részesíteni a vízfelhasználás során.
 
@@ -202,7 +202,7 @@
 
 ## A C) részt a fogyatékkal élő személyt kezelő orvos – ennek hiányában a háziorvos – tölti ki a következők szerint:
 
-## a) a Rendelet 88/D. § (1) bekezdés b) pont bb) alpontját kell megjelölni, ha a fogyatékkel élő személy fogyatékossági támogatásban részesül,
+## a) a Rendelet 88/D. § (1) bekezdés b) pont bb) alpontját kell megjelölni, ha a fogyatékkal élő személy fogyatékossági támogatásban részesül,
 
 ## b) a Rendelet 88/D. § (1) bekezdése b) pont bc) alpontját kell megjelölni, ha a vízszolgáltatás felfüggesztése vagy korlátozása a lakossági felhasználó vagy a vele közös háztartásban élő személy életét vagy egészségét közvetlenül veszélyezteti.
 
@@ -218,7 +218,7 @@
 
 ## A nyilvántartásba történő felvételt követő évtől a védendő felhasználó minden év március 31-ig köteles igazolni, hogy védettsége továbbra is fennáll. Nem kell évenkénti igazolást benyújtania a fogyatékkal élő felhasználók nyilvántartásában szereplő személynek, ha az állapotában, illetve a háztartásában lakó fogyatékkal élő személy állapotában – orvosi szakvéleménnyel igazolhatóan – nem várható jelentős javulás.
 
-11. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^397]
+11. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^403]
 
 ## A Vksztv. 6. § (6) bekezdésében meghatározott kérelemhez az üzemeltetés alatt álló vízilétesítmény esetén mellékelni kell:
 
@@ -258,4 +258,4 @@
 
 6. a vízilétesítményhez csatlakozott lakossági felhasználók számát.
 
-[^397]: A 11. mellékletet a 243/2023. (VI. 20.) Korm. rendelet 16. § (6) bekezdése iktatta be.
+[^403]: A 11. mellékletet a 243/2023. (VI. 20.) Korm. rendelet 16. § (6) bekezdése iktatta be.

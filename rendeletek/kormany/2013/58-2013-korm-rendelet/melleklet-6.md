@@ -80,7 +80,7 @@
 
 ## A locsolási vízmérő telepítése során nem követelmény az önálló mérőakna kialakítása. A mérőeszköz állagának megóvása és a fagyvédelem biztosítása a felhasználó kötelessége.
 
-6. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^384]
+6. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^390]
 
 Cégjogi esemény, befolyásszerzés előzetes hozzájáruláshoz benyújtandó iratok és adatok
 
@@ -122,4 +122,4 @@ Cégjogi esemény, befolyásszerzés előzetes hozzájáruláshoz benyújtandó 
 
 1.9.3. ha a befolyásszerző gazdasági társaság, a döntéshozójának a befolyásszerzés megvalósításáról szóló döntése, valamint a víziközmű-szolgáltató döntéshozójának a befolyásszerzés megvalósításáról szóló döntése, vagy a befolyásszerző, illetve a víziközmű-szolgáltató nyilatkozata arról, hogy a befolyásszerzés kérdésében a létesítő okirat szerint nem szükséges döntést hoznia.
 
-[^384]: A 6. mellékletet a 292/2014. (XI. 26.) Korm. rendelet 38. § (1) bekezdés 25. pontja hatályon kívül helyezte, újonnan a 243/2023. (VI. 20.) Korm. rendelet 16. § (4) bekezdése iktatta be.
+[^390]: A 6. mellékletet a 292/2014. (XI. 26.) Korm. rendelet 38. § (1) bekezdés 25. pontja hatályon kívül helyezte, újonnan a 243/2023. (VI. 20.) Korm. rendelet 16. § (4) bekezdése iktatta be.

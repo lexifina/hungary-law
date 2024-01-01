@@ -136,19 +136,19 @@ i. zártsorú beépítés esetén az épület külső falsíkja,
 
 ii. nem zártsorú beépítés esetén az ingatlan határvonala,
 
-bb) kényszeráramoltatású rendszer esetén
+bb)[^22] kényszeráramoltatású bekötővezeték esetén a telekhatáron belül, attól legfeljebb 1 méter távolságra telepített házi szennyvízbeemelőben vagy szerelvényaknában található öblítőcsonk törzshálózat felőli oldalán beépített elzáró-szerelvény kimeneti oldala, ezek hiányában
 
-i. az ingatlanon keletkezett szennyvizet gravitációs szennyvíz törzshálózatba juttató rendszer szennyvízbeemelő szivattyújának szívócsonkja vagy szennyvízbevezető rácsozata,
+i. zártsorú beépítés esetén az épület külső falsíkja,
 
-ii. az ingatlan szennyvízeit kényszeráramoltatású szennyvíztörzshálózatba juttató rendszer esetén az átemelőszivattyú elhelyezésétől függetlenül szennyvíz beemelő szivattyújának szívócsonkja, vagy szennyvízbevezető rácsozata, vagy a vákuumszelep elhelyezkedésétől függetlenül a vákuumszelep felhasználó felöli oldala,
+ii. nem zártsorú beépítés esetén az ingatlan határvonala,
 
-bc)[^22] a víziközmű-szolgáltató és a felhasználó közötti közszolgáltatási szerződésben meghatározott pont,
+bc)[^23] a víziközmű-szolgáltató és a felhasználó közötti közszolgáltatási szerződésben meghatározott pont,
 
-bd)[^23] a víziközmű-szolgáltató által üzemeltetett törzshálózaton a közszolgáltatási szerződésben meghatározott pont,
+bd)[^24] a víziközmű-szolgáltató által üzemeltetett törzshálózaton a közszolgáltatási szerződésben meghatározott pont,
 
 be) a szennyvíz-átadó rendszerének átadási pontja;
 
-38.[^24] szolgáltatott ivóvíz: közszolgáltatási jogviszony keretében a felhasználó részére a szolgáltatási ponton, vagy közvetlenül a víziközmű-elosztóhálózat vízvételezés céljára alkalmas szerelvényein keresztül, továbbá a szállított vízből biztosított ivóvíz;
+38.[^25] szolgáltatott ivóvíz: közszolgáltatási jogviszony keretében a felhasználó részére a szolgáltatási ponton, vagy közvetlenül a víziközmű-elosztóhálózat vízvételezés céljára alkalmas szerelvényein keresztül, továbbá a szállított vízből biztosított ivóvíz;
 
 39. tartós adathordozó: olyan informatikai eszköz, amely birtokosa számára lehetővé teszi a neki címzett adatoknak az adat céljának megfelelő ideig történő tartós tárolását és a tárolt adatok változatlan formában és tartalommal történő elektronikus megjelenítését;
 
@@ -162,13 +162,13 @@ b) kezdi meg a felszíni vizek minősége védelmének szabályairól szóló 22
 
 c) legalább 20%-kal tartósan megnöveli az e rendelet hatálybalépését megelőző időszakhoz képest a Szennyezőanyag listában meghatározott anyagok felhasználását;
 
-42.[^25] üzem: az a természetes vagy – a lakásszövetkezetek kivételével – jogi személy, aki (amely) a Szennyezőanyag listában meghatározott anyagot használ, továbbá a Szennyezőanyag listában meg nem jelölt anyagokat a küszöbérték 10%-át elérő mértékben bocsát be a közműves szennyvízelvezető műbe;
+42.[^26] üzem: az a természetes vagy – a lakásszövetkezetek kivételével – jogi személy, aki (amely) a Szennyezőanyag listában meghatározott anyagot használ, továbbá a Szennyezőanyag listában meg nem jelölt anyagokat a küszöbérték 10%-át elérő mértékben bocsát be a közműves szennyvízelvezető műbe;
 
-43.[^26] víziközmű-hálózat: az ivóvíz-törzshálózat, a szennyvízelvezető törzshálózat a kapcsolódó víziközmű rendszerelemek, valamint az ivóvíz és a szennyvíz bekötővezetékek együttesen;
+43.[^27] víziközmű-hálózat: az ivóvíz-törzshálózat, a szennyvízelvezető törzshálózat a kapcsolódó víziközmű rendszerelemek, valamint az ivóvíz és a szennyvíz bekötővezetékek együttesen;
 
-44.[^27] víziközmű-szolgáltató: hatályos víziközmű-szolgáltatói engedéllyel rendelkező gazdasági társaság;
+44.[^28] víziközmű-szolgáltató: hatályos víziközmű-szolgáltatói engedéllyel rendelkező gazdasági társaság;
 
-45.[^28] vízzárósági próba: az épített, zártszelvényű, gravitációs elven működő folyadékszállító hálózatok és tároló medencék minőségvizsgálatára előírt módszer.
+45.[^29] vízzárósági próba: az épített, zártszelvényű, gravitációs elven működő folyadékszállító hálózatok és tároló medencék minőségvizsgálatára előírt módszer.
 
 [^1]: Az 1. § 1a. pontját a 367/2015. (XII. 2.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^2]: Az 1. § 5. pontja a 292/2014. (XI. 26.) Korm. rendelet 37. § 1. pontja szerint módosított szöveg.
@@ -191,10 +191,11 @@ c) legalább 20%-kal tartósan megnöveli az e rendelet hatálybalépését mege
 [^19]: Az 1. § 33. pontja a 292/2014. (XI. 26.) Korm. rendelet 37. § 5. pontja szerint módosított szöveg.
 [^20]: Az 1. § 35. pontja a 342/2016. (XI. 17.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^21]: Az 1. § 37. pont a) pont ab) alpontja az 53/2014. (III. 3.) Korm. rendelet 39. § (4) bekezdés a) pontja szerint módosított szöveg.
-[^22]: Az 1. § 37. pont b) alpont bc) alpontja az 53/2014. (III. 3.) Korm. rendelet 39. § (4) bekezdés a) pontja szerint módosított szöveg.
-[^23]: Az 1. § 37. pont b) alpont bd) alpontja az 53/2014. (III. 3.) Korm. rendelet 39. § (4) bekezdés a) pontja szerint módosított szöveg.
-[^24]: Az 1. § 38. pontja az 53/2014. (III. 3.) Korm. rendelet 39. § (4) bekezdés a) pontja szerint módosított szöveg.
-[^25]: Az 1. § 42. pontja az 53/2014. (III. 3.) Korm. rendelet 39. § (5) bekezdés a) pontja szerint módosított szöveg.
-[^26]: Az 1. § 43. pontja a 342/2016. (XI. 17.) Korm. rendelet 40. § a) pontja szerint módosított szöveg.
-[^27]: Az 1. § 44. pontja a 342/2016. (XI. 17.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^28]: Az 1. § 45. pontja a 292/2014. (XI. 26.) Korm. rendelet 37. § 7. pontja szerint módosított szöveg.
+[^22]: Az 1. § 37. pont b) alpont bb) pontja az 598/2023. (XII. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^23]: Az 1. § 37. pont b) alpont bc) alpontja az 53/2014. (III. 3.) Korm. rendelet 39. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^24]: Az 1. § 37. pont b) alpont bd) alpontja az 53/2014. (III. 3.) Korm. rendelet 39. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^25]: Az 1. § 38. pontja az 53/2014. (III. 3.) Korm. rendelet 39. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^26]: Az 1. § 42. pontja az 53/2014. (III. 3.) Korm. rendelet 39. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^27]: Az 1. § 43. pontja a 342/2016. (XI. 17.) Korm. rendelet 40. § a) pontja szerint módosított szöveg.
+[^28]: Az 1. § 44. pontja a 342/2016. (XI. 17.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^29]: Az 1. § 45. pontja a 292/2014. (XI. 26.) Korm. rendelet 37. § 7. pontja szerint módosított szöveg.

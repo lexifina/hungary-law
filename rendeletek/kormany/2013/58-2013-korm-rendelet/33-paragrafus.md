@@ -1,3 +1,3 @@
-33. §[^105]
+33. §[^108]
 
-[^105]: A 33. §-t a 342/2016. (XI. 17.) Korm. rendelet 40. § e) pontja hatályon kívül helyezte.
+[^108]: A 33. §-t a 342/2016. (XI. 17.) Korm. rendelet 40. § e) pontja hatályon kívül helyezte.

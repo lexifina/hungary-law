@@ -20,8 +20,8 @@ g) a beépítés tényét, szolgáltatás elvégzését igazoló képanyagok dok
 
 h) a terv- és megvalósulási dokumentáció eltérését bemutató, indokolással ellátott értékelést;
 
-i)[^356] engedélyköteles vízilétesítmény esetén a végleges vízjogi üzemeltetési vagy vízjogi fennmaradási engedélyt, ennek hiányában legalább az engedély kiadására irányuló eljárás megindításáról szóló igazolást.
+i)[^360] engedélyköteles vízilétesítmény esetén a végleges vízjogi üzemeltetési vagy vízjogi fennmaradási engedélyt, ennek hiányában legalább az engedély kiadására irányuló eljárás megindításáról szóló igazolást.
 
 (4) A Hivatal az elvégzett fejlesztések értékarányosságát is jogosult ellenőrizni.
 
-[^356]: A 90/G. § (3) bekezdés i) pontja a 457/2017. (XII. 28.) Korm. rendelet 437. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^360]: A 90/G. § (3) bekezdés i) pontja a 457/2017. (XII. 28.) Korm. rendelet 437. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

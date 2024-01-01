@@ -2,13 +2,13 @@
 
 ## A VÍZIKÖZMŰ-FEJLESZTÉSI HOZZÁJÁRULÁS ALKALMAZÁSÁNAK SZABÁLYAI
 
-90. § (1)–(2)[^341]
+90. § (1)–(2)[^345]
 
-(3)[^342] A víziközmű-fejlesztési hozzájárulás mértéke az igényelt víziközmű-szolgáltatáshoz szükséges fejlesztés költségeinek arányos része.
+(3)[^346] A víziközmű-fejlesztési hozzájárulás mértéke az igényelt víziközmű-szolgáltatáshoz szükséges fejlesztés költségeinek arányos része.
 
-(4)[^343]
+(4)[^347]
 
-(5)[^344] A víziközmű-szolgáltató megállapítja a szolgáltatási kapacitást (kvótát vagy kontingenst), amely alapján a víziközmű-fejlesztési hozzájárulás megfizetésre kerül. A hozzájárulás megfizetését követően válik jogosulttá a felhasználó a szolgáltatás igénybevételére.
+(5)[^348] A víziközmű-szolgáltató megállapítja a szolgáltatási kapacitást (kvótát vagy kontingenst), amely alapján a víziközmű-fejlesztési hozzájárulás megfizetésre kerül. A hozzájárulás megfizetését követően válik jogosulttá a felhasználó a szolgáltatás igénybevételére.
 
 (6) A víziközmű-szolgáltatónak a víziközmű-fejlesztési hozzájárulással kapcsolatos befizetésekről ellátásért felelősönkénti bontásban nyilvántartást kell vezetni.
 
@@ -24,7 +24,7 @@ d) a befizetett víziközmű-fejlesztési hozzájárulás összege.
 
 (8) A víziközmű-szolgáltatónak olyan nyilvántartást kell vezetnie, amelyből egyértelműen megállapítható, hogy adott évben mely víziközmű-fejlesztésekre használt fel befizetett víziközmű-fejlesztési hozzájárulást az összeg megjelölésével.
 
-[^341]: A 90. § (1)–(2) bekezdését a 367/2015. (XII. 2.) Korm. rendelet 28. § (1) bekezdés 6. pontja hatályon kívül helyezte.
-[^342]: A 90. § (3) bekezdése a 342/2016. (XI. 17.) Korm. rendelet 39. § 28. pontja szerint módosított szöveg.
-[^343]: A 90. § (4) bekezdését a 367/2015. (XII. 2.) Korm. rendelet 28. § (1) bekezdés 6. pontja hatályon kívül helyezte.
-[^344]: A 90. § (5) bekezdése a 342/2016. (XI. 17.) Korm. rendelet 32. §-ával megállapított szöveg.
+[^345]: A 90. § (1)–(2) bekezdését a 367/2015. (XII. 2.) Korm. rendelet 28. § (1) bekezdés 6. pontja hatályon kívül helyezte.
+[^346]: A 90. § (3) bekezdése a 342/2016. (XI. 17.) Korm. rendelet 39. § 28. pontja szerint módosított szöveg.
+[^347]: A 90. § (4) bekezdését a 367/2015. (XII. 2.) Korm. rendelet 28. § (1) bekezdés 6. pontja hatályon kívül helyezte.
+[^348]: A 90. § (5) bekezdése a 342/2016. (XI. 17.) Korm. rendelet 32. §-ával megállapított szöveg.
