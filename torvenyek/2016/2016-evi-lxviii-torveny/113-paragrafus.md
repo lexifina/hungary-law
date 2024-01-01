@@ -14,6 +14,6 @@ a) az üzemanyagtöltő-állomáson üzemanyagkártyával megvásárolt, vagy
 
 b) belföldi telephelyén üzemanyag-tárolásra rendszeresített üzemanyag-tankoló automatával ellátott tartályból elektronikus mérőeszközön keresztül betöltött
 
-kereskedelmi gázolaj után a 110. § (1) bekezdés c) pont ca) alpontja szerinti adómérték alkalmazása esetén literenként 3,5 Ft, a 110. § (1) bekezdés c) pont cb) lpontja szerinti adómérték alkalmazása esetén literenként 13,5 Ft visszaigénylésére.
+kereskedelmi gázolaj után a 110. § (1) bekezdés c) pont ca) alpontja szerinti adómérték alkalmazása esetén literenként 10 Ft, a 110. § (1) bekezdés c) pont cb) alpontja szerinti adómérték alkalmazása esetén literenként 20 Ft visszaigénylésére.
 
 (6) E § szerinti adó-visszaigénylés – a 112. § (1) bekezdés b) pontjától eltérően – a 3. § (2) bekezdés 20. pontja szerinti jelölőanyagot nem tartalmazó gázolaj után érvényesíthető.

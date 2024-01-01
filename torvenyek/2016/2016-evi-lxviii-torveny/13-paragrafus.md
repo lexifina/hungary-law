@@ -6,7 +6,7 @@ b) a diplomáciai és konzuli képviselet tagja és a nemzetközi szervezet tagj
 
 viszonosság esetén jogosult, amelynek megléte tekintetében a külpolitikáért felelős miniszter nyilatkozata az irányadó.
 
-(2) A diplomáciai és konzuli képviselet tagja és a nemzetközi szervezet tagja – törvényben kihirdetett nemzetközi szerződés eltérő rendelkezése hiányában – az általa megfizetett adóból naptári évenként legfeljebb 300 ezer forintot igényelhet vissza, amely összegbe bele kell számítani az általános forgalmi adóról szóló törvény (a továbbiakban: áfatörvény) szerint visszaigényelt általános forgalmi adó összegét is.
+(2) A diplomáciai és konzuli képviselet tagja és a nemzetközi szervezet tagja – törvényben kihirdetett nemzetközi szerződés eltérő rendelkezése hiányában – az általa megfizetett adóból naptári évenként legfeljebb 600 ezer forintot igényelhet vissza, amely összegbe bele kell számítani az általános forgalmi adóról szóló törvény (a továbbiakban: áfatörvény) szerint visszaigényelt általános forgalmi adó összegét is.
 
 (3) A szeszes italok meghatározásáról, megnevezéséről, kiszereléséről, címkézéséről, és földrajzi jelzéseinek oltalmáról, valamint az 1576/89/EK tanácsi rendelet hatályon kívül helyezéséről szóló 2008. január 15-i 110/2008/EK európai parlamenti és tanácsi rendelet hatálya alá tartozó szeszes ital tekintetében – törvényben kihirdetett nemzetközi szerződés eltérő rendelkezése hiányában –
 

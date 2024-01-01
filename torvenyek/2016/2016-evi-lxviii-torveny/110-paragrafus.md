@@ -1,22 +1,22 @@
 110. § (1) Az adó mértéke
 
-a) a benzinre
+a) a benzinre,
 
-aa) ha a kőolaj (3) bekezdés szerinti világpiaci ára az 50 amerikai dollár (a továbbiakban: USD)/hordó értéket meghaladja, 120 000 Ft/ezer liter,
+aa) ha a kőolaj (3) bekezdés szerinti világpiaci ára az 50 amerikai dollár (a továbbiakban: USD)/hordó értéket meghaladja, 152 550 Ft/ezer liter,
 
-ab) ha a kőolaj (3) bekezdés szerinti világpiaci ára nem haladja meg az 50 USD/hordó értéket, 125 000 Ft/ezer liter,
+ab) ha a kőolaj (3) bekezdés szerinti világpiaci ára nem haladja meg az 50 USD/hordó értéket, 157 550 Ft/ezer liter,
 
-b) a petróleumra
+b) a petróleumra,
 
-ba) ha a kőolaj (3) bekezdés szerinti világpiaci ára meghaladja az 50 USD/hordó értéket, 124 200 Ft/ezer liter,
+ba) ha a kőolaj (3) bekezdés szerinti világpiaci ára meghaladja az 50 USD/hordó értéket, 152 550 Ft/ezer liter,
 
-bb) ha a kőolaj (3) bekezdés szerinti világpiaci ára nem haladja meg az 50 USD/hordó értéket, 129 200 Ft/ezer liter,
+bb) ha a kőolaj (3) bekezdés szerinti világpiaci ára nem haladja meg az 50 USD/hordó értéket, 157 550 Ft/ezer liter,
 
-c) a gázolajra üzemanyagkénti vagy tüzelő-, fűtőanyagkénti kínálás, értékesítés vagy felhasználás esetén
+c) a gázolajra üzemanyagkénti vagy tüzelő-, fűtőanyagkénti kínálás, értékesítés vagy felhasználás esetén,
 
-ca) ha a kőolaj (3) bekezdés szerinti világpiaci ára meghaladja az 50 USD/hordó értéket, 110 350 Ft/ezer liter,
+ca) ha a kőolaj (3) bekezdés szerinti világpiaci ára meghaladja az 50 USD/hordó értéket, 142 900 Ft/ezer liter,
 
-cb) ha a kőolaj (3) bekezdés szerinti világpiaci ára nem haladja meg az 50 USD/hordó értéket, 120 350 Ft/ezer liter,
+cb) ha a kőolaj (3) bekezdés szerinti világpiaci ára nem haladja meg az 50 USD/hordó értéket, 152 900 Ft/ezer liter,
 
 d) a fűtőolajra tüzelő-, fűtőanyagkénti kínálás, értékesítés vagy felhasználás esetén 5375 Ft/ezer kilogramm, üzemanyagkénti kínálás, értékesítés vagy felhasználás esetén 116 000 Ft/ezer kilogramm,
 
@@ -32,7 +32,7 @@ i) – figyelemmel a 94. § (2) bekezdésére is – az E85 esetében a termék 
 
 j) a 2207 10 00-2207 20 00 KN-kód szerinti alkoholtermék bioüzemanyag esetében a 132. § (2) bekezdés b) pontja szerinti adómérték,
 
-k) a tiszta növényi olajat előállító által a 117. § (1) bekezdésben meghatározott mennyiségben és célra felhasznált tiszta növényi olaj esetében a c) pont ca) alpontja szerinti adómérték alkalmazása esetén az adómérték 18%-a, a c) pont cb) alpontja szerinti adómérték alkalmazása esetén az adómérték 16,5%-a, egyébként 110 350 Ft/ezer liter.
+k) a tiszta növényi olajat előállító által a 117. § (1) bekezdésében meghatározott mennyiségben és célra felhasznált tiszta növényi olaj esetében a c) pont ca) alpontja szerinti adómérték alkalmazása esetén az adómérték 14%-a, a c) pont cb) alpontja szerinti adómérték alkalmazása esetén az adómérték 13%-a, egyébként a c) pont szerinti adómérték.
 
 (2) Az adó mértéke az (1) bekezdésben meg nem határozott energiatermékre
 

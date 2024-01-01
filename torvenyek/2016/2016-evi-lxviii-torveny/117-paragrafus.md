@@ -8,7 +8,7 @@ b) olyan erdő után, amelyben erdőgazdálkodási tevékenységet folytat, az e
 
 c) olyan vízjogi üzemeltetési engedély szerinti halastó után, amelyben halgazdálkodási tevékenységet folytat, – a tóterület nettó üzemelő vízfelületét figyelembe véve – közvetlenül a halgazdálkodáshoz
 
-felhasznált, évente hektáronként legfeljebb 97 liter gázolaj megfizetett adója a 110. § (1) bekezdés c) pont ca) alpontja szerinti adómérték alkalmazása esetén 82 százalékának, a 110. § (1) bekezdés c) pont cb) alpontja szerinti adómérték alkalmazása esetén 83,5 százalékának visszaigénylésére jogosult.
+felhasznált, évente hektáronként legfeljebb 97 liter gázolaj megfizetett adója a 110. § (1) bekezdés c) pont ca) alpontja szerinti adómérték alkalmazása esetén 86 százalékának, a 110. § (1) bekezdés c) pont cb) alpontja szerinti adómérték alkalmazása esetén 87 százalékának visszaigénylésére jogosult.
 
 (2) Ha a mezőgazdasági termelő a földművelési, az erdőfelújítási és halgazdálkodási munkákhoz gépi bérmunka-szolgáltatást vesz igénybe, a gépi bérmunka-szolgáltatás során felhasznált, a gépi bérmunka-szolgáltatást végző által kiállított számlán feltüntetett gázolajmennyiség után is jogosult az (1) bekezdésben meghatározott visszatérítésre.
 
