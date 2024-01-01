@@ -18,7 +18,7 @@
 
 ## [Az Art.]
 
-## „37. 100. § (2) bekezdésében az „egyszerűsített ellenőrzés kivételével” szövegrész helyébe a „egyszerűsített ellenőrzés, egyes gazdasági események valódiságának vizsgálatára irányuló ellenőrzés kivételével” szöveg, illetve a „kérheti” szövegrész helyébe az „egy alkalommal kérheti” szöveg;
+## „37. 100. § (2) bekezdésében az „egyszerűsített ellenőrzés kivételével” szövegrész helyébe a „egyszerűsített ellenőrzés, egyes gazdasági események valódiságának vizsgálatára irányuló ellenőrzés kivételével” szöveg, illetve a „kérheti” szövegrész helyébe az „egy alkalommal kérheti” szöveg;”
 
 ## [lép]
 
