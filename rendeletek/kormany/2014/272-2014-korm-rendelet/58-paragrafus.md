@@ -6,13 +6,13 @@
 
 58. § (1) A támogatást igénylőnek az irányító hatósághoz benyújtott támogatási kérelemmel kell igényelnie a támogatást.
 
-(2)[^413] A támogatási kérelmet a felhívásban meghatározott elektronikus alkalmazással kell elkészíteni és benyújtani. A támogatási kérelem akkor minősül benyújtottnak, ha a támogatást igénylő a támogatási kérelem elektronikus benyújtásáról nyilatkozott és a nyilatkozatot az egységes működési kézikönyvben és a felhívásban meghatározott módon az irányító hatósághoz benyújtotta.
+(2)[^417] A támogatási kérelmet a felhívásban meghatározott elektronikus alkalmazással kell elkészíteni és benyújtani. A támogatási kérelem akkor minősül benyújtottnak, ha a támogatást igénylő a támogatási kérelem elektronikus benyújtásáról nyilatkozott és a nyilatkozatot az egységes működési kézikönyvben és a felhívásban meghatározott módon az irányító hatósághoz benyújtotta.
 
-(2a)[^414] Az 57/B. § (4) bekezdése szerinti benyújtás esetén a (2) bekezdést nem kell alkalmazni.
+(2a)[^418] Az 57/B. § (4) bekezdése szerinti benyújtás esetén a (2) bekezdést nem kell alkalmazni.
 
-(3)[^415] A támogatást igénylő a támogatás igénylésével egyidejűleg hozzájárulását adja ahhoz, hogy a támogató
+(3)[^419] A támogatást igénylő a támogatás igénylésével egyidejűleg hozzájárulását adja ahhoz, hogy a támogató
 
-a)[^416] EMVA forrás esetén a 908/2014/EU bizottsági végrehajtási rendelet 57. cikk szerinti adatokat,
+a)[^420] EMVA forrás esetén a 908/2014/EU bizottsági végrehajtási rendelet 57. cikk szerinti adatokat,
 
 b) más ESB alap támogatásának elnyerése esetén
 
@@ -28,19 +28,19 @@ nyilvánosságra hozza, valamint a támogatást igénylő által rendelkezésre 
 
 (4) A támogatási kérelem monitoring és információs rendszerbe történő beérkezéséről a támogatást igénylő értesítést kap.
 
-(5)[^417] A támogatási kérelem benyújtása, valamint a felhívásban meghatározott jogosultsági feltételek teljesítése nem jelent alanyi jogosultságot a támogatásra, arról csak a kiválasztási szempontokra és forrásra tekintettel hozható döntés.
+(5)[^421] A támogatási kérelem benyújtása, valamint a felhívásban meghatározott jogosultsági feltételek teljesítése nem jelent alanyi jogosultságot a támogatásra, arról csak a kiválasztási szempontokra és forrásra tekintettel hozható döntés.
 
-(6)[^418] Ha a felhívás úgy rendelkezik, idegen nyelven kiállított dokumentum benyújtása esetében a támogatást igénylőnek csatolnia kell a dokumentum szakfordító vagy szakfordító-lektor által készített magyar nyelvű fordítását is.
+(6)[^422] Ha a felhívás úgy rendelkezik, idegen nyelven kiállított dokumentum benyújtása esetében a támogatást igénylőnek csatolnia kell a dokumentum szakfordító vagy szakfordító-lektor által készített magyar nyelvű fordítását is.
 
-(7)[^419] A támogatást igénylő a támogatási kérelmét a támogatási döntés meghozataláig elektronikusan – az elektronikus alkalmazások használatának szabályai szerint – visszavonhatja. A támogatási kérelem visszavonását az irányító hatóság tudomásul veszi, és erről értesíti a támogatást igénylőt. A visszavonás tudomásulvételével szemben a támogatást igénylő nem élhet kifogással.
+(7)[^423] A támogatást igénylő a támogatási kérelmét a támogatási döntés meghozataláig elektronikusan – az elektronikus alkalmazások használatának szabályai szerint – visszavonhatja. A támogatási kérelem visszavonását az irányító hatóság tudomásul veszi, és erről értesíti a támogatást igénylőt. A visszavonás tudomásulvételével szemben a támogatást igénylő nem élhet kifogással.
 
-(8)[^420] EMVA forrásból nyújtott támogatás esetén a (7) bekezdést a 809/2014/EU bizottsági végrehajtási rendeletben foglalt eltérésekkel kell alkalmazni.
+(8)[^424] EMVA forrásból nyújtott támogatás esetén a (7) bekezdést a 809/2014/EU bizottsági végrehajtási rendeletben foglalt eltérésekkel kell alkalmazni.
 
-[^413]: Az 58. § (2) bekezdése a 156/2022. (IV. 19.) Korm. rendelet 17. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^414]: Az 58. § (2a) bekezdését a 466/2015. (XII. 29.) Korm. rendelet 15. §-a iktatta be.
-[^415]: Az 58. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 31. § (1) bekezdésével megállapított szöveg.
-[^416]: Az 58. § (3) bekezdés a) pontja a 247/2016. (VIII. 17.) Korm. rendelet 25. § (1) bekezdés 4. pontja szerint módosított szöveg.
-[^417]: Az 58. § (5) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 31. § (2) bekezdése iktatta be.
-[^418]: Az 58. § (6) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 31. § (2) bekezdése iktatta be.
-[^419]: Az 58. § (7) bekezdését a 247/2016. (VIII. 17.) Korm. rendelet 10. §-a iktatta be.
-[^420]: Az 58. § (8) bekezdését a 247/2016. (VIII. 17.) Korm. rendelet 10. §-a iktatta be.
+[^417]: Az 58. § (2) bekezdése a 156/2022. (IV. 19.) Korm. rendelet 17. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^418]: Az 58. § (2a) bekezdését a 466/2015. (XII. 29.) Korm. rendelet 15. §-a iktatta be.
+[^419]: Az 58. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 31. § (1) bekezdésével megállapított szöveg.
+[^420]: Az 58. § (3) bekezdés a) pontja a 247/2016. (VIII. 17.) Korm. rendelet 25. § (1) bekezdés 4. pontja szerint módosított szöveg.
+[^421]: Az 58. § (5) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 31. § (2) bekezdése iktatta be.
+[^422]: Az 58. § (6) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 31. § (2) bekezdése iktatta be.
+[^423]: Az 58. § (7) bekezdését a 247/2016. (VIII. 17.) Korm. rendelet 10. §-a iktatta be.
+[^424]: Az 58. § (8) bekezdését a 247/2016. (VIII. 17.) Korm. rendelet 10. §-a iktatta be.

@@ -1,4 +1,4 @@
-89/C. §[^594] (1) Az irányító hatóság a támogatási szerződés módosítása révén a projekt 2021–2027 programozási időszakban végrehajtott operatív program felhívása kerete terhére történő finanszírozására térhet át (ezen alcím alkalmazásában a továbbiakban: áttérés), ha
+89/C. §[^598] (1) Az irányító hatóság a támogatási szerződés módosítása révén a projekt 2021–2027 programozási időszakban végrehajtott operatív program felhívása kerete terhére történő finanszírozására térhet át (ezen alcím alkalmazásában a továbbiakban: áttérés), ha
 
 a) a projekt keretében megvalósított tevékenység megfelel valamely, a 256/2021. (V. 18.) Korm. rendelet szerint meghirdetett felhívás céljának és követelményeinek,
 
@@ -12,4 +12,4 @@ e) az áttérés megfelel az Európai Regionális Fejlesztési Alapra, az Európ
 
 (2) Az áttérést az irányító hatóság kezdeményezi.
 
-[^594]: A 89/C. §-t a 463/2022. (XI. 15.) Korm. rendelet 2. §-a iktatta be.
+[^598]: A 89/C. §-t a 463/2022. (XI. 15.) Korm. rendelet 2. §-a iktatta be.
