@@ -76,7 +76,7 @@
 
 3. számú melléklet a 25/1997. (VIII. 1.) PM rendelethez[^25]
 
-## Költségalapú módszer
+Költségalapú módszer
 
 A költségalapú érték-megközelítés lényege, hogy az ingatlan újra-előállítási költségéből le kell vonni az idő múlása miatti avulást, majd ehhez kell hozzáadni a felépítményekhez tartozó földterület értékét. Ez a módszer fejezi ki legkevésbé a tényleges piaci viszonyokat. Építés alatt lévő létesítménynél, károsodott létesítménynél, takart műtárgynál, valamint olyan esetekben alkalmazható, ha más módszer nem áll rendelkezésre. A módszer fő lépései:
 

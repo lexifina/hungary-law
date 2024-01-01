@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-25-20-5
 | 2016-06-30 | 1997-25-20-53.5 | 21/2016. (VI. 29.) NGM rendelet |
 | 2021-02-05 | 1997-25-20-53.6 | 4/2021. (II. 2.) PM rendelet |
 | 2022-01-01 | 1997-25-20-53.7 | 14/2021. (XII. 8.) PM rendelet |
+| 2024-01-01 | 1997-25-20-53.8 | 26/2005. (VIII. 11.) PM rendelet |

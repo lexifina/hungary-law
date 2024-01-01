@@ -1,6 +1,6 @@
 1. számú melléklet a 25/1997. (VIII. 1.) PM rendelethez[^23]
 
-## Piaci összehasonlító adatok elemzésén alapuló értékelés
+Piaci összehasonlító adatok elemzésén alapuló értékelés
 
 A piaci összehasonlító adatok elemzésén alapuló értékelés már megtörtént, konkrét és ismert adásvételi ügyletek árainak a vizsgált esetre való kiterjesztésével, összehasonlításával történik.
 

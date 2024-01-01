@@ -152,7 +152,7 @@
 
 2. számú melléklet a 25/1997. (VIII. 1.) PM rendelethez[^24]
 
-## Hozamszámításon alapuló értékelési módszer
+Hozamszámításon alapuló értékelési módszer
 
 A hozamszámításon alapuló értékelés az ingatlan jövőbeni hasznainak és az ezek megszerzése érdekében felmerülő kiadások különbségéből (tiszta jövedelmek) vezeti le az értéket. Az érték megállapítása azon az elven alapszik, hogy bármely eszköz értéke annyi, mint a belőle származó tiszta jövedelmek jelenértéke. A hozamszámítás lépései összefoglalva:
 
