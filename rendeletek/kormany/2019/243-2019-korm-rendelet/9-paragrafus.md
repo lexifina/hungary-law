@@ -2,7 +2,7 @@
 
 a) – természetes személy bejelentő esetén – feltünteti a személyazonosító adatait;
 
-b) – gazdálkodó szervezet bejelentő esetén – nyilatkozik arról, hogy a kérelmezőt érintően társasági formaváltás, átalakulás, változás nincs folyamatban;
+b)[^3] – gazdálkodó szervezet bejelentő esetén – nyilatkozik arról, hogy a kérelmezőt érintően társasági formaváltás, átalakulás, változás nincs folyamatban, nyilatkozik továbbá az 1. § 3. pontja szerinti tényleges tulajdonosáról;
 
 c) nyilatkozik arról, hogy rendelkezik általános szerződési feltételekkel (a továbbiakban: ÁSZF);
 
@@ -21,3 +21,5 @@ fc) elektromobilitás szolgáltatás nyújtására irányuló tevékenység foly
 (2) Az elektromobilitás szolgáltató az elektromobilitás szolgáltatás tevékenységgel való felhagyás tervezett időpontját legalább 75 nappal megelőzően bejelenti a Hivatalnak. A Hivatal a bejelentés alapján törli az elektromobilitás szolgáltatót a nyilvántartásából.
 
 (3) A Hivatal a bejelentési kötelezettség teljesítéséhez kötött tevékenységek végzésének alapjául szolgáló feltételek fennállását rendszeresen hivatalból felülvizsgálja.
+
+[^3]: A 9. § (1) bekezdés b) pontja a 680/2023. (XII. 29.) Korm. rendelet 22. §-ával megállapított szöveg.
