@@ -2,15 +2,15 @@
 
 ## valamint azok fagyasztva tárolásának szabályai
 
-4. § (1)[^10] Ivarsejt, illetve embrió a 4. számú mellékletben meghatározott esetekben, az ott meghatározott céllal tárolható fagyasztva. A fagyasztva tárolás során az egészségügyi szolgáltatónak az egészségügyi szolgáltatások nyújtásához szükséges szakmai minimumfeltételekről szóló miniszteri rendeletben meghatározott feltételeknek eleget kell tennie.
+4. § (1)[^14] Ivarsejt, illetve embrió a 4. számú mellékletben meghatározott esetekben, az ott meghatározott céllal tárolható fagyasztva. A fagyasztva tárolás során az egészségügyi szolgáltatónak az egészségügyi szolgáltatások nyújtásához szükséges szakmai minimumfeltételekről szóló miniszteri rendeletben meghatározott feltételeknek eleget kell tennie.
 
-(2) Adományozott hímivarsejtet reprodukciós eljáráshoz történő felhasználását megelőzően legalább 6 hónapig fagyasztva kell tárolni, felhasználni a hímivarsejtet abban az esetben lehet, ha a donor – a 18/1998. (VI. 3.) NM rendelet 24. § (3) bekezdésében foglaltak szerinti – szűrési eredményei negatívak. A fagyasztva tároláshoz ugyanazon személyek ivarsejtjeiből származó embriók közül egyidejűleg legalább kettőt kell lefagyasztani.
+(2)[^15] Adományozott hímivarsejtet reprodukciós eljáráshoz történő felhasználását megelőzően legalább 6 hónapig fagyasztva kell tárolni, felhasználni a hímivarsejtet abban az esetben lehet, ha a donor – a fertőző betegségek és a járványok megelőzése érdekében szükséges járványügyi intézkedésekről szóló 18/1998. (VI. 3.) NM rendelet 24. § (3) bekezdésében foglaltak szerinti – szűrési eredményei negatívak.
 
 (3) Ivarsejt nem tárolható, ha az nem felel meg a 6. számú mellékletben foglaltaknak.
 
 (4) Az adományozó, illetve a letevő a 7. számú melléklet szerinti ,,Rendelkezési nyilatkozat ivarsejt felhasználásáról'' elnevezésű nyomtatványon gyakorolja az adományozott, illetve letétbe helyezett ivarsejtekkel kapcsolatos rendelkezési jogát.
 
-(5)[^11] A kérelmezők együttesen, az 1/A. § a) és b) pontja szerinti kérelmező egyedül – az Eütv. 168. §-ának (2) bekezdése szerinti tájékoztatás után – a 8. számú melléklet szerinti „Rendelkezési nyilatkozat fagyasztva tárolt embriókról” elnevezésű nyomtatványon gyakorolják az embriókkal kapcsolatos rendelkezési jogot, és azon megjelölhetik, hogy a rendelkezési jog megszűnése esetére
+(5)[^16] A kérelmezők együttesen, az 1/A. § a) és b) pontja szerinti kérelmező egyedül – az Eütv. 168. §-ának (2) bekezdése szerinti tájékoztatás után – a 8. számú melléklet szerinti „Rendelkezési nyilatkozat fagyasztva tárolt embriókról” elnevezésű nyomtatványon gyakorolják az embriókkal kapcsolatos rendelkezési jogot, és azon megjelölhetik, hogy a rendelkezési jog megszűnése esetére
 
 a) hozzájárulnak az embrióadományozáshoz, illetve
 
@@ -22,5 +22,6 @@ c) kérik az embriók megsemmisítését.
 
 (7) Amennyiben a fagyasztva tárolás helyéről az ivarsejtet vagy az embriót nem a letevő kívánságára szállítják más egészségügyi szolgáltatóhoz, az egészségügyi szolgáltatónak a szállítás során biztosítani kell a sérülésmentességet, továbbá a letevőt az átszállításról haladéktalanul tájékoztatnia kell.
 
-[^10]: A 4. § (1) bekezdése a 44/2016. (XII. 28.) EMMI rendelet 16. §-a szerint módosított szöveg.
-[^11]: A 4. § (5) bekezdése a 32/2006. (VIII. 23.) EüM rendelet 3. §-ával megállapított szöveg.
+[^14]: A 4. § (1) bekezdése a 44/2016. (XII. 28.) EMMI rendelet 16. §-a szerint módosított szöveg.
+[^15]: A 4. § (2) bekezdése a 70/2023. (XII. 23.) BM rendelet 7. §-ával megállapított szöveg.
+[^16]: A 4. § (5) bekezdése a 32/2006. (VIII. 23.) EüM rendelet 3. §-ával megállapított szöveg. [A 4. § (5) bekezdésben a 70/2023. (XII. 23.) BM rendelet 9. § b) pontja által elrendelt módosítás, amely szerint az "embriók" szövegrész helyébe az "embrió vagy embriók" szöveg lép, nem vezethető át.]

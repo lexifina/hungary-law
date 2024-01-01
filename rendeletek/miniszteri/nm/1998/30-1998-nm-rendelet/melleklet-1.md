@@ -1,52 +1,71 @@
-1. számú melléklet a 30/1998. (VI. 24.) NM rendelethez
+1. számú melléklet a 30/1998. (VI. 24.) NM rendelethez[^22]
 
-Az elvégezhető asszisztált reprodukciós eljárások
+Az elvégezhető asszisztált reprodukciós beavatkozások
 
-1. In vitro fertilizáció és embriótranszfer (IVF–ET)
+1. Gyógyszeres stimuláció
 
-2.[^17] In vitro fertilizáció és embriótranszfer adományozott vagy saját célra lefagyasztott ivarsejtekkel
+1.1. Gyógyszeres stimuláció petesejtnyerés céljából
 
-2.1. Adományozott vagy saját célra lefagyasztott spermiummal
+1.2. Gyógyszeres stimuláció nem petesejtnyerés céljából
 
-2.2. Adományozott vagy saját célra lefagyasztott női ivarsejttel
+2. Petesejtleszívás
 
-3. Embriótranszfer adományozott embrióval
+3. Konvencionális in vitro fertilizáció
 
-4. Gaméta intrafallopiális transzfer (GIFT)
+4. Intracitoplazmatikus spermium injektálás (ICSI)
 
-5. In vitro fertilizáció és intratubáris
+4.1. Intracitoplazmatikus spermium injektálás (ICSI)
 
-5.1. Pronukleáris stádium transzfer (PROST)
+4.2. Intracitoplazmatikus spermium injektálás (ICSI) és mikrosebészeti mellékhere (epididymális) sperma aspiráció (ICSI – MESA)
 
-5.2. Zigótatranszfer (ZIFT)
+4.3. Intracitoplazmatikus spermium injektálás és herei (testicular) sperma extrakció (ICSI – TESE)
 
-5.3. Embriótranszfer (TET)
+5. Spermiumok feldolgozása és felhasználása termékenyítéshez
 
-6. Intracitoplazmatikus spermium injektálás (ICSI)
+5.1. Saját, frissen adott/nyert spermiumok feldolgozása és felhasználása termékenyítéshez
 
-6.1. Intracitoplazmatikus spermium injektálás (ICSI)
+5.2. Saját, fagyasztva tárolt spermium feldolgozása és felhasználása termékenyítéshez
 
-6.2. Intracitoplazmatikus spermium injektálás és mikrosebészeti mellékherei (epididymális) sperma aspiráció (ICSI – MESA)
+5.3. Donor, fagyasztva tárolt spermiumok feldolgozása és felhasználása termékenyítéshez
 
-6.3. Intracitoplazmatikus spermium injektálás és testicular sperma extrakció (ICSI – TESA)
+6. Nem petesejtnyerés során nyert petesejtek felhasználása in vitro fertilizációs kezelések során
 
-7. Asszisztált hatching (AH)
+6.1. Saját, fagyasztva tárolt petesejt felhasználása
 
-8. Embriófagyasztás
+6.2. Donor petesejt felhasználás
 
-8.1. In vitro fertilizáció embriófagyasztással
+7. Embriótenyésztés
 
-8.2. In vitro fertilizáció és embriótranszfer embriófagyasztással
+7.1. Rövid idejű embriótenyésztés
 
-8.3. Embriótranszfer fagyasztva tárolt embrió felolvasztását követően
+7.2. Kiterjesztett embriótenyésztés
 
-8.4.[^18] In vitro fertilizáció felolvasztott női ivarsejt megtermékenyítésével létrehozott embrióval
+8. Preimplantációs genetikai teszt
 
-9. Mesterséges ondóbevitel
+9. Asszisztált hatching
 
-9.1. Férj (AIH) vagy élettárs (AIP) hímivarsejtjeivel
+10. Embriótranszfer friss embrióval
 
-9.2. Idegen férfi (AID) hímivarsejtjeivel
+11. Embriótranszfer fagyasztott embrióval
 
-[^17]: Az 1. számú melléklet 2. pontja a 68/2013. (XI. 15.) EMMI rendelet 4. §-ával megállapított szöveg.
-[^18]: Az 1. számú melléklet 8.4. pontját a 68/2013. (XI. 15.) EMMI rendelet 4. §-a iktatta be.
+11.1. Embriótranszfer saját kezelésből származó, fagyasztva tárolt embrióval
+
+11.2. Embriótranszfer donor embrióval
+
+12. Ivarsejtfagyasztás
+
+12.1. Spermiumfagyasztás
+
+12.2. Petesejtfagyasztás
+
+13. Embriófagyasztás
+
+14. Ovuláció indukció
+
+15. Mesterséges ondóbevitel – elvégzésének feltétele a 14. pont elvégzése
+
+15.1. Mesterséges ondóbevitel férj (AIH) vagy élettárs (AIP) hímivarsejtjeivel
+
+15.2. Mesterséges ondóbevitel idegen férfi (AID) hímivarsejtjeivel
+
+[^22]: Az 1. melléklet a 70/2023. (XII. 23.) BM rendelet 8. §-ával megállapított szöveg.
