@@ -1,12 +1,6 @@
 ## 1. felhívja a külgazdasági és külügyminisztert, hogy gondoskodjon a magyar állampolgárok testi épségének védelme és válsághelyzetből történő hatékony kimenekítése érdekében szükséges intézkedések megszervezéséről és megtételéről;
 
-## 2. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 1. melléklet XVIII. Külgazdasági és Külügyminisztérium fejezet, 7. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 38. A magyar állampolgárok testi épségének védelme és kimenekítése válsághelyzetből jogcímcsoporttal történő kiegészítését;
-
-## Felelős: pénzügyminiszter
-
-## külgazdasági és külügyminiszter
-
-## Határidő: azonnal
+## 2.[^1]
 
 ## 3. felhívja a pénzügyminisztert, hogy külgazdasági és külügyminiszter bevonásával az 1. pontban meghatározott célkitűzések megvalósítása érdekében gondoskodjon a Kvtv. 1. melléklet XVIII. Külgazdasági és Külügyminisztérium fejezeten belül egyszeri jelleggel forrás biztosításáról a XVIII. Külgazdasági és Külügyminisztérium fejezet, 7. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 38. A magyar állampolgárok testi épségének védelme és kimenekítése válsághelyzetből jogcímcsoport javára;
 
@@ -43,3 +37,5 @@
 |  |  |  |  | A magyar állampolgárok testi épségének védelme és kimenekítése válsághelyzetből | Az előirányzat fedezetet biztosít a külföldi válsághelyzet esetén önhibájukon kívül külföldön rekedt magyar állampolgárok védelmének, ellátásának, hazaszállításának, valamint biztonságuk külföldön történő biztosításának finanszírozásához, továbbá szükség esetén a belföldi ellátást biztosító, külképviseletek közreműködésével megvalósuló kiadások teljesítésére. Az előirányzat jogszabályban, valamint a Kormány határozatában foglalt döntés, továbbá a külgazdasági és külügyminiszter egyedi döntése alapján használható fel. | természetes személyek, (magyar és külföldi) gazdasági társaságok, civil szervezetek, közalapítványok, társulások, egyéni vállalkozók, köztestületek, szövetkezetek, költségvetési szervek, kormányzati vagy önkormányzati szervek, illetve az általuk fenntartott intézmények | egyedi döntés alapján, támogatási szerződéssel | előleg biztosítható | költségvetési támogatás esetén közvetlen kifizetéssel egy összegben és/vagy részletekben, időarányosan vagy teljesítésarányosan |  | Ávr. 84. § (2) bekezdés a) pontja szerinti felhatalmazó nyilatkozat |  |  |  |
 
 | egyedi döntés alapján | egyéb kifizetés esetén közvetlen kifizetéssel egy összegben és/vagy részletekben, teljesítésarányosan; előirányzat- átcsoportosítással |  |
+
+[^1]: A 2. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
