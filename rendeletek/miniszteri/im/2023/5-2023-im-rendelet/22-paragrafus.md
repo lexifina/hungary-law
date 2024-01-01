@@ -1,1 +1,1 @@
-22. §
+22. § Az alapvizsgán a vizsgázó bemutatja, hogy ismeri és a békéltető testületi eljárás során alkalmazni tudja az Fgytv. 1. melléklet 1. pontjában meghatározott tárgykörökhöz kapcsolódó jogszabályokat.

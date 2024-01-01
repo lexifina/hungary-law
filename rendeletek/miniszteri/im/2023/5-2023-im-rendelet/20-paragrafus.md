@@ -1,5 +1,3 @@
-## 6.[^1]
+## 6. A békéltető testületi alapvizsga
 
-20. §
-
-[^1]: A 6. alcím (20-25. §) a 26. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+20. § A békéltető testületi alapvizsga (a továbbiakban: alapvizsga) célja a békéltető testületek egységes joggyakorlatának kialakítása a szakmai irányító iránymutatása alapján, továbbá az, hogy az alapvizsgára jelentkező személy (a továbbiakban: vizsgázó) bemutassa a békéltető testületi tagi és elnöki feladatkör ellátásához szükséges elméleti ismereteit, gyakorlati szaktudását és jogalkalmazási készségét.

@@ -2,4 +2,6 @@
 
 (2) A költségtérítés összegét a békéltető testület elnöke hagyja jóvá.
 
-(3) Az eljárásban részt vevő tag költségei megtérítését költségátalány formájában is igényelheti. Ennek összege ügyenként ötszáz forint.
+(3)[^3] Az eljárásban részt vevő tag költségei megtérítését költségátalány formájában is igényelheti. Ennek összege ügyenként ezer forint.
+
+[^3]: A 18. § (3) bekezdése a 29. § c) pontja szerint módosított szöveg. A 27. § alapján a 2024. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
