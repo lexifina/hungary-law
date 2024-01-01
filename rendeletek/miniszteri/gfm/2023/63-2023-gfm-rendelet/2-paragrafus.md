@@ -1,9 +1,3 @@
-2. § A 3/2002. SzCsM–EüM együttes rendelet
+2. §[^3]
 
-a) 6. § (6) bekezdésében az „üzembe helyezése során” szövegrész helyébe a „létesítéséhez kapcsolódóan a használatbavétel során” szöveg,
-
-b) 6. § (7) bekezdésében a „biztonsági felülvizsgálat” szövegrész helyébe az „ellenőrző felülvizsgálat” szöveg,
-
-c) 7. § (11) bekezdésében a „(9) bekezdésben” szövegrész helyébe a „(10) bekezdésben” szöveg
-
-lép.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
