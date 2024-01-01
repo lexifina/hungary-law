@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-11-20-7
 | 2022-02-12 | 2019-11-20-7R.17 | 39/2020. (VII. 30.) AM rendelet |
 | 2022-12-28 | 2019-11-20-7R.18 | 160/2022. (XII. 27.) AM rendelet |
 | 2023-07-21 | 2019-11-20-7R.19 | 43/2023. (VII. 20.) AM rendelet |
+| 2024-01-01 | 2019-11-20-7R.20 | 184/2023. (XII. 27.) AM rendelet |

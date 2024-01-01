@@ -36,10 +36,11 @@ b)[^9]
 
 (8) A támogatási kérelemben megjelölt állatok vonatkozásában a támogatási kérelem benyújtása előtt megkezdett tevékenység nem támogatható.
 
-(9) A (6) bekezdés b) pontja szerinti igazolásban meghatározott létszámot meghaladó igény nem támogatható.
+(9)[^11]
 
 [^6]: Az 5. § (1) bekezdése a 160/2022. (XII. 27.) AM rendelet 4. §-ával megállapított szöveg. [Ugyanezen módosító rendelet 9. § b) pontja által elrendelt módosítás, amely szerint a "megyei" szövegrész helyébe a "vármegyei" szöveg lép, nem vezethető át.]
 [^7]: Az 5. § (2) bekezdés b) pontja a 43/2023. (VII. 20.) AM rendelet 2. §-ával megállapított szöveg.
 [^8]: Az 5. § (2) bekezdés h) pontját a 18/2021. (IV. 14.) AM rendelet 24. §-a hatályon kívül helyezte.
 [^9]: Az 5. § (6) bekezdés b) pontját a 18/2021. (IV. 14.) AM rendelet 24. §-a hatályon kívül helyezte.
 [^10]: Az 5. § (7a) bekezdését a 18/2021. (IV. 14.) AM rendelet 21. §-a iktatta be.
+[^11]: Az 5. § (9) bekezdését a 184/2023. (XII. 27.) AM rendelet 1. §-a hatályon kívül helyezte.
