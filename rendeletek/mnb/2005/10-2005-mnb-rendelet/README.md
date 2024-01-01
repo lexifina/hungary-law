@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-10-20-2
 | 2023-04-01 | 2005-10-20-2C.13 | 11/2023. (III. 31.) MNB rendelet |
 | 2023-07-01 | 2005-10-20-2C.14 | 25/2023. (VI. 14.) MNB rendelet |
 | 2023-11-01 | 2005-10-20-2C.15 | 49/2023. (X. 24.) MNB rendelet |
+| 2024-01-01 | 2005-10-20-2C.16 | 53/2023. (XI. 20.) MNB rendelet |

@@ -1,8 +1,8 @@
 3. §[^1] (1) A kötelező tartalékráta mértékét a kötelező tartalékráta mértékéről szóló MNB rendelet (a továbbiakban: rátarendelet) határozza meg a tartalékalapba tartozó források alábbi kategóriái szerint:
 
-a) betétek, amelyeknek a lejárata a tartalékköteles hitelintézet számviteli nyilvántartásában történő megjelenés időpontjában a jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank alapvető feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről szóló MNB rendelet (a továbbiakban: adatszolgáltatási rendelet) alapján meghaladja a két évet,
+a) betétek, amelyek eredeti lejárata a jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank alapvető feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről szóló MNB rendelet (a továbbiakban: adatszolgáltatási rendelet) alapján meghaladja a két évet,
 
-b) felvett hitelek, amelyeknek a lejárata a tartalékköteles hitelintézet számviteli nyilvántartásában történő megjelenés időpontjában az adatszolgáltatási rendelet alapján meghaladja a két évet,
+b) felvett hitelek, amelyek eredeti lejárata az adatszolgáltatási rendelet alapján meghaladja a két évet,
 
 c) hitelviszonyt megtestesítő értékpapírok, feltéve, hogy az értékpapír lejárata a kibocsátáskor meghaladja a két évet,
 
@@ -10,12 +10,12 @@ d) repók,
 
 e) a tartalékalapba tartozó és az a)–d) pontban nem említett valamennyi egyéb forrás.
 
-(2) A kötelező tartalék összege a tartalékköteles hitelintézet tartalékalapjába tartozó források (3), illetve (4) bekezdés szerint meghatározott állománya és a rátarendeletben meghatározott megfelelő tartalékráta szorzata.
+(2) A kötelező tartalék összege a tartalékköteles hitelintézet tartalékalapjába tartozó források (3) bekezdés szerint meghatározott állománya és a rátarendeletben meghatározott megfelelő tartalékráta szorzata.
 
-(3) A tartalékköteles hitelintézet tartalékalapját az adatszolgáltatási rendeletben előírt – külföldi fióktelepek adatait nem tartalmazó – A hitelintézetek statisztikai mérlege és eredménykimutatása (MNB azonosító kód: M01) megnevezésű adatszolgáltatásban szereplő, 2023. március 31. napjára vonatkozó állományi adatok (a továbbiakban: Statisztikai mérleg adatok) alapján az MNB állapítja meg, és a kötelező tartalék összegéről legkésőbb öt MNB munkanappal a teljesítési tárgyidőszak kezdete előtt írásban értesíti a tartalékköteles hitelintézetet.
+(3) A tartalékköteles hitelintézet tartalékalapját az adatszolgáltatási rendeletben előírt, „A hitelintézetek statisztikai mérlegének tartalékköteles sorai, valamint az értékpapírkölcsön ügyletekhez tartozó készpénzóvadék összege – napi záróállományok” (MNB azonosító kód: M06) megnevezésű, havi gyakoriságú adatszolgáltatásban (a továbbiakban: M06 MNB azonosító kódú adatszolgáltatás) jelentett, a teljesítési tárgyidőszakot megelőző második hónap naptári napjainak átlagára vonatkozó állományi adatok alapján az MNB állapítja meg. Amennyiben a tartalékköteles hitelintézet elmulasztja az M06 MNB azonosító kódú adatszolgáltatás adatszolgáltatási rendeletben előírtak szerinti teljesítését, akkor tartalékalapját az MNB becsléssel állapítja meg, figyelembe véve a tartalékköteles hitelintézet által korábban teljesített M06 MNB azonosító kódú adatszolgáltatásokat és egyéb, az MNB rendelkezésére álló információkat.
 
-(4) A (3) bekezdéstől eltérően, amennyiben a hitelintézet 2023. július 1-jét követően szerez tevékenységi (működési) engedélyt vagy az 1. § b) pontja szerinti fióktelep cégbejegyzésére ezt követően kerül sor, az MNB a tartalékköteles hitelintézet tartalékalapját a teljesítési tárgyidőszakot megelőző második hónapra vonatkozó Statisztikai mérleg adatok alapján állapítja meg.
+(4) Az MNB a kötelező tartalék előzetes összegéről legkésőbb öt MNB munkanappal a teljesítési tárgyidőszak kezdete előtt, írásban értesíti a tartalékköteles hitelintézetet. Az MNB a teljesítési tárgyidőszak kezdete előtti második MNB munkanap végéig a (3) bekezdésben meghatározottak alapján megállapítja a tartalékköteles hitelintézet kötelező tartalékának végleges összegét, és amennyiben ez az összeg különbözik a kötelező tartalék előzetes összegétől, a végleges összegről legkésőbb a teljesítési tárgyidőszak kezdete előtti MNB munkanapon, írásban értesíti a tartalékköteles hitelintézetet.
 
-(5) A tartalékköteles hitelintézet kötelező tartalékának összegét nem érinti, ha a kötelező tartalék összegének megállapítása után a tartalékköteles hitelintézet módosítja az adott teljesítési tárgyidőszakra vonatkozó, a kötelező tartalék alapjául szolgáló Statisztikai mérleg adatokat.
+(5) A tartalékköteles hitelintézet kötelező tartalékának összegét nem érinti, ha a kötelező tartalék végleges összegének megállapítása után a tartalékköteles hitelintézet módosítja a kötelező tartalék alapjául szolgáló M06 MNB azonosító kódú adatszolgáltatását.
 
-[^1]: A 3. § a 25/2023. (VI. 14.) MNB rendelet 1. §-ával megállapított szöveg.
+[^1]: A 3. § az 53/2023. (XI. 20.) MNB rendelet 1. § (1) bekezdésével megállapított szöveg.
