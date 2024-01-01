@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-36-20-8
 | 2017-12-27 | 2006-36-20-82.16 | 64/2017. (XII. 22.) FM rendelet |
 | 2020-09-28 | 2006-36-20-82.17 | 37/2014. (XII. 17.) FM rendelet |
 | 2023-01-01 | 2006-36-20-82.18 | 37/2014. (XII. 17.) FM rendelet |
+| 2024-01-01 | 2006-36-20-82.19 | 163/2023. (XII. 27.) AM rendelet |
