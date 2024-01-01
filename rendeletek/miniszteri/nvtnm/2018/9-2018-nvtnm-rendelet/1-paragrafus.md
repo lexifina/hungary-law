@@ -8,6 +8,6 @@ c) az M6 autópálya III. fázisa és az M60 autópálya megvalósítása célj�
 
 d) az M6 autópálya II. fázisa megvalósítása céljából 2008. július 16-án megkötött koncessziós szerződéssel érintett M6 autópálya 76+200 km és 141+300 km szelvény közötti gyorsforgalmi út és tartozékai állami tulajdonban álló, koncesszióba adott vagyonelemei
 
-felett az államot megillető tulajdonosi jogok és kötelezettségek összességének gyakorlójaként 2023. december 31-ig az állami vagyon felügyeletéért felelős minisztert jelölöm ki.
+felett az államot megillető tulajdonosi jogok és kötelezettségek összességének gyakorlójaként 2024. december 31-ig az állami vagyon felügyeletéért felelős minisztert jelölöm ki.
 
-[^2]: Az 1. § záró szövegrésze a 4/2022. (VII. 14.) GFM rendelet 1. §-a, a 24/2022. (XII. 29.) GFM rendelet 1. §-a szerint módosított szöveg.
+[^2]: Az 1. § záró szövegrésze a 4/2022. (VII. 14.) GFM rendelet 1. §-a, a 72/2023. (XII. 29.) GFM rendelet 1. §-a szerint módosított szöveg.
