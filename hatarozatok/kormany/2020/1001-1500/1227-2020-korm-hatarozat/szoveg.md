@@ -8,11 +8,7 @@ b) határon túli magyar kézilabdasport fejlesztési feladatainak támogatásá
 
 nyújtandó költségvetési támogatás biztosításával;
 
-2. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 23. Sporttevékenység támogatása alcímet a 36. Magyar Kézilabda Szövetség szakmai feladatainak támogatása jogcímcsoporttal egészíti ki;
-
-Felelős: pénzügyminiszter
-
-Határidő: azonnal
+2.[^1]
 
 3. felhívja a pénzügyminisztert, hogy az emberi erőforrások minisztere bevonásával gondoskodjon az 1. pont a) alpontja szerinti támogatási cél megvalósításához szükséges 1 380 000 000 forint rendelkezésre állásáról a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 23. Sporttevékenység támogatása alcím, 36. Magyar Kézilabda Szövetség szakmai feladatainak támogatása jogcímcsoport javára;
 
@@ -35,3 +31,5 @@ Határidő: a felmerülés ütemében
 Felelős: emberi erőforrások minisztere
 
 Határidő: a 3. és 4. pont alapján ütemezetten biztosított források rendelkezésre állását követő 30 napon belül
+
+[^1]: A 2. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
