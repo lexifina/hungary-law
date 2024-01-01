@@ -1,6 +1,6 @@
 ## Az irattári tételek kialakítása
 
-10. § (1)[^30] Az ügyiratokat és a nyilvántartott egyéb iratokat – a szerv ügyköreit az azonos tárgyú egyedi ügyekig lemenő részletességgel felsoroló jegyzék segítségével – tárgyi alapon kell tételekbe sorolni. Az irattári tétel egy vagy több tárgykör (ügykör) irataiból is kialakítható, annak figyelembevételével, hogy:
+10. § (1)[^31] Az ügyiratokat és a nyilvántartott egyéb iratokat – a szerv ügyköreit az azonos tárgyú egyedi ügyekig lemenő részletességgel felsoroló jegyzék segítségével – tárgyi alapon kell tételekbe sorolni. Az irattári tétel egy vagy több tárgykör (ügykör) irataiból is kialakítható, annak figyelembevételével, hogy:
 
 a) egy irattári tételbe csak azonos értékű, levéltári megőrzést igénylő vagy meghatározott időtartam eltelte után selejtezhető iratok sorolhatók be;
 
@@ -16,4 +16,4 @@ b) az a) pont szerinti nyilvántartások alapirataiból, ha azokat külön iratt
 
 c) a választott testületek, bizottságok, valamint a szerv működése szempontjából meghatározó jelentőségű, rendszeresen megtartott értekezletek irataiból (ideértve az előterjesztéseket, a jegyzőkönyveket vagy emlékeztetőket és a határozatokat is), továbbá a belső utasításokból.
 
-[^30]: A 10. § (1) bekezdés nyitó szövegrésze a 196/2013. (VI. 13.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^31]: A 10. § (1) bekezdés nyitó szövegrésze a 196/2013. (VI. 13.) Korm. rendelet 6. §-a szerint módosított szöveg.

@@ -1,3 +1,3 @@
-## 37. §[^87] A küldemény munkahelyről történő kiviteléről, munkahelyen kívüli tanulmányozásáról, feldolgozásáról, tárolásáról belső szabályzatban kell rendelkezni.
+## 37. §[^89] A küldemény munkahelyről történő kiviteléről, munkahelyen kívüli tanulmányozásáról, feldolgozásáról, tárolásáról belső szabályzatban kell rendelkezni.
 
-[^87]: A 37. § a 64/2010. (III. 18.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^89]: A 37. § a 64/2010. (III. 18.) Korm. rendelet 13. §-ával megállapított szöveg.

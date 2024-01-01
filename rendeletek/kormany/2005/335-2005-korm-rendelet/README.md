@@ -49,3 +49,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-335-20-
 | 2023-07-07 | 2005-335-20-22.44 | 281/2023. (VI. 29.) Korm. rendelet |
 | 2023-07-14 | 2005-335-20-22.47 | 306/2023. (VII. 11.) Korm. rendelet |
 | 2023-08-01 | 2005-335-20-22.48 | 573/2020. (XII. 9.) Korm. rendelet |
+| 2024-01-01 | 2005-335-20-22.46 | 137/2019. (VI. 11.) Korm. rendelet |

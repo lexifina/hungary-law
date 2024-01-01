@@ -1,6 +1,6 @@
 ## Szignálás
 
-51. § (1)[^130] Az ügykezelő az érkezett iratot köteles a jogosult szervezeti egység vezetőjének vagy a vezető megbízottjának továbbítani, aki kijelöli az ügyintézést végző személyt (szignálás). Az iratkezelési szabályzat rendelkezhet úgy, hogy meghatározott iratcsoport(ok) esetén:
+51. § (1)[^132] Az ügykezelő az érkezett iratot köteles a jogosult szervezeti egység vezetőjének vagy a vezető megbízottjának továbbítani, aki kijelöli az ügyintézést végző személyt (szignálás). Az iratkezelési szabályzat rendelkezhet úgy, hogy meghatározott iratcsoport(ok) esetén:
 
 a) az iratot a szervezeti egység vezetőjének szignálása nélkül az adott szervezeti egység ügyrendjében kijelölt azon ügyintézőhöz kell továbbítani, aki jogosult az ügyben eljárni, az iratkezelési feljegyzéseket megtenni;
 
@@ -12,4 +12,4 @@ b) iratkezelési szoftver által biztosított automatikus szignálás is elvége
 
 (4) A szervezeti egység vezetője elrendelheti az irat bemutatás előtti iktatását.
 
-[^130]: Az 51. § (1) bekezdése a 196/2013. (VI. 13.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^132]: Az 51. § (1) bekezdése a 196/2013. (VI. 13.) Korm. rendelet 27. §-ával megállapított szöveg.
