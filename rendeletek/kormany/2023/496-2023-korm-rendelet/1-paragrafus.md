@@ -1,0 +1,1 @@
+1. § A lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény végrehajtásáról szóló 231/2019. (X. 4.) Korm. rendelet (a továbbiakban: R.) 5. melléklete helyébe az 1. melléklet lép.

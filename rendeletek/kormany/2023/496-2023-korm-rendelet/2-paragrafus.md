@@ -1,0 +1,1 @@
+2. § Az R. 28. § (1) bekezdés c) pont ca) alpontjában a „személyek” szövegrész helyébe a „személyek és vallási közösségek egyházi személyei, illetve vallásos szertartást hivatásszerűen végző tagjai” szöveg lép.
