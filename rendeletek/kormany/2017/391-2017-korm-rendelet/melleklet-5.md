@@ -6,9 +6,13 @@
 
 | Értékelési időszak: …-tól …-ig. |
 
+## 7K33724_1
+
 | Teljesítmény szintje | Kategória |
 
 | Súlyozott eredmény | % |
+
+## 7K33724_2
 
 | SZEMÉLYI ADATOK |
 
@@ -20,6 +24,8 @@
 
 | Szervezeti egység: |  |
 
+## 7K33724_3
+
 | MUNKAKÖRI EGYÉNI TELJESÍTMÉNYKÖVETELMÉNYEK ÉRTÉKELÉSE - ∑ Kategória - % | Kategória - % |
 
 | Sz. | Feladat megnevezése | Vezetői értékelés |
@@ -29,6 +35,8 @@
 | 2. |  |  |
 
 | 3. |  |  |
+
+## 7K33724_4
 
 | KOMPETENCIÁK ÉRTÉKELÉSE ∑ Kategória - % | Kategória - % |
 
@@ -63,6 +71,8 @@
 | 14. | Problémamegoldás |  |
 
 | 15. | Erőforrásokkal való gazdálkodás (csak a vezető munkakört betöltők értékelésének értékelési tényezői) |  |
+
+## 7K33724_5
 
 | AJÁNLOTT ELEMEK ∑ Kategória - % | Kategória - % |
 

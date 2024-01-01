@@ -1,22 +1,18 @@
-## A vízügyi igazgatási szerveknél foglalkoztatott közalkalmazottak fizetési fokozatai és az azokhoz tartozó illetmények alsó és felső határai
-
-## A) Általános iskolai végbizonyítványt vagy OKJ-s (alap vagy közép) végzettséget vagy szakmunkás bizonyítványt igénylő munkakörökhöz tartozó munkaköri kategóriák fizetési fokozatai és az azokhoz tartozó illetmények alsó és felső határai
-
 |  | A | B | C | D | E |
 
 | 1. | Fizetési fokozat | Szolgálati idő (év) | Alsó határ (Ft) | Felső határ (Ft) |
 
-| 2. | 1 | 0 | 3 | 210 000 | 298 000 |
+| 2. | 1 | 0 | 3 | kötelező legkisebb munkabér | 298 000 |
 
-| 3. | 2 | 4 | 7 | 212 000 | 334 000 |
+| 3. | 2 | 4 | 7 | kötelező legkisebb munkabér | 334 000 |
 
-| 4. | 3 | 8 | 14 | 214 000 | 359 000 |
+| 4. | 3 | 8 | 14 | kötelező legkisebb munkabér | 359 000 |
 
-| 5. | 4 | 15 | 23 | 216 000 | 379 000 |
+| 5. | 4 | 15 | 23 | kötelező legkisebb munkabér | 379 000 |
 
-| 6. | 5 | 24 | 34 | 218 000 | 399 000 |
+| 6. | 5 | 24 | 34 | kötelező legkisebb munkabér | 399 000 |
 
-| 7. | 6 | 35– |  | 220 000 | 409 000 |
+| 7. | 6 | 35– |  | kötelező legkisebb munkabér | 409 000 |
 
 ## B) Gimnáziumi, szakgimnáziumi, szakközépiskolai érettségit vagy gimnáziumi, szakgimnáziumi, szakközépiskolai érettségi és OKJ-s (közép vagy felső) végzettséget vagy szaktechnikusi bizonyítványt igénylő munkakörökhöz tartozó munkaköri kategóriák fizetési fokozatai és az azokhoz tartozó illetmények alsó és felső határai
 
@@ -24,17 +20,15 @@
 
 | 1. | Fizetési fokozat | Szolgálati idő (év) | Alsó határ (Ft) | Felső határ (Ft) |
 
-| 2. | 1 | 0 | 3 | 273 000 | 316 000 |
+| 2. | 1 | 0 | 7 | garantált bérminimum | 340 000 |
 
-| 3. | 2 | 4 | 7 | 283 000 | 340 000 |
+| 3. | 2 | 8 | 14 | garantált bérminimum | 360 000 |
 
-| 4. | 3 | 8 | 14 | 293 000 | 360 000 |
+| 4. | 3 | 15 | 23 | garantált bérminimum | 390 000 |
 
-| 5. | 4 | 15 | 23 | 302 000 | 390 000 |
+| 5. | 4 | 24 | 34 | garantált bérminimum | 420 000 |
 
-| 6. | 5 | 24 | 34 | 312 000 | 420 000 |
-
-| 7. | 6 | 35– |  | 316 000 | 460 000 |
+| 6. | 5 | 35– |  | garantált bérminimum | 460 000 |
 
 ## C) Középfokú végzettséget igénylő kiemelt munkaköri kategóriákhoz (Kiemelt ügyintéző I.) tartozó illetmények alsó és felső határai
 
@@ -42,7 +36,7 @@
 
 | 1. | Alsó határ (Ft) | Felső határ (Ft) |
 
-| 2. | 316 000 | 575 000 |
+| 2. | garantált bérminimum | 575 000 |
 
 ## D) Felsőfokú végzettséget igénylő munkakörökhöz tartozó munkaköri kategóriák fizetési fokozatai és az azokhoz tartozó illetmények alsó és felső határai
 
@@ -50,9 +44,9 @@
 
 | 1. | Fizetési fokozat | Szolgálati idő (év) | Alsó határ (Ft) | Felső határ (Ft) |
 
-| 2. | 1 | 0 | 3 | 286 000 | 370 000 |
+| 2. | 1 | 0 | 3 | garantált bérminimum | 370 000 |
 
-| 3. | 2 | 4 | 7 | 315 000 | 400 000 |
+| 3. | 2 | 4 | 7 | garantált bérminimum | 400 000 |
 
 | 4. | 3 | 8 | 14 | 340 000 | 440 000 |
 
@@ -76,9 +70,9 @@
 
 | 1. | Munkakör | Alsó határ (Ft) | Felső határ (Ft) |
 
-| 2. | Főigazgató | 850 000 | 1 004 000 |
+| 2. | Főigazgató | 850 000 | 1 500 000 |
 
-| 3. | Főigazgató-helyettes | 800 000 | 970 000 |
+| 3. | Főigazgató-helyettes | 800 000 | 1 300 000 |
 
 | 4. | Főosztályvezető | 530 000 | 800 000 |
 
@@ -92,7 +86,7 @@
 
 | 1. | Munkakör | Alsó határ (Ft) | Felső határ (Ft) |
 
-| 2. | Igazgató | 750 000 | 927 000 |
+| 2. | Igazgató | 750 000 | 1 200 000 |
 
 | 3. | Igazgató-helyettes | 530 000 | 800 000 |
 

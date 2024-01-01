@@ -1,5 +1,3 @@
-## A vízügyi igazgatási szerveknél foglalkoztatott közalkalmazott által betölthető munkaköri kategóriák és munkakörök, valamint a munkakörök betöltéséhez szükséges képesítési követelmények
-
 ## A) Általános iskolai végbizonyítványt vagy OKJ-s (alap vagy közép) végzettséget vagy szakmunkás bizonyítványt igénylő munkaköri kategóriák és munkakörök
 
 |  | A | B | C |
@@ -375,3 +373,5 @@
 | 81. | Kiemelt műszaki referens |  |
 
 2. melléklet a 391/2017. (XII. 13.) Korm. rendelethez
+
+A vízügyi igazgatási szerveknél foglalkoztatott közalkalmazott által betölthető vezetői munkaköri kategóriák és vezetői munkakörök

@@ -6,9 +6,13 @@
 
 ## Minősítési időszak: ...-tól ...-ig.
 
+## 7K33727_0
+
 | Minősítés szintje | Kategória |
 
 | Minősítés eredménye | % |
+
+## 7K33727_1
 
 | SZEMÉLYI ADATOK |
 
@@ -24,6 +28,8 @@
 
 | Szervezeti egység: |  |
 
+## 7K33727_2
+
 | ÉVES TELJESÍTMÉNYÉRTÉKELÉS EREDMÉNYE | Értékelés % |
 
 | Munkaköri egyéni teljesítménykövetelmények | % |
@@ -34,6 +40,8 @@
 
 | Stratégia egyéni teljesítménykövetelmények | % |
 
+## 7K33727_3
+
 | MINŐSÍTÉS |
 
 | 1. | A minősített képességeinek és munkavégzésével összefüggő személyes tulajdonságainak értékelése |
@@ -41,6 +49,8 @@
 | 2. | A minősített munkakörének ellátására való alkalmasságának értékelése |
 
 | 3. | A minősített fejleszthetőségére és előmenetelére vonatkozó következtetések |
+
+## 7K33727_4
 
 | AZ ÉRTÉKELŐ VEZETŐ JAVASLATA SZEMÉLYZETI INTÉZKEDÉSEK MEGTÉTELÉRE (A megfelelő aláhúzandó) |
 
@@ -92,9 +102,13 @@ az alap- és középfokú végzettséget igénylő munkakört betöltő közalka
 
 Minősítési időszak: ...-tól ...-ig.
 
+7K33729_0
+
 | Minősítés szintje | Kategória |
 
 | Minősítés eredménye | % |
+
+7K33729_1
 
 | SZEMÉLYI ADATOK |
 
@@ -110,6 +124,8 @@ Minősítési időszak: ...-tól ...-ig.
 
 | Szervezeti egység: |  |
 
+7K33729_2
+
 | ÉVES TELJESÍTMÉNYÉRTÉKELÉS EREDMÉNYE | Értékelés % |
 
 | Munkaköri egyéni teljesítménykövetelmények | % |
@@ -118,6 +134,8 @@ Minősítési időszak: ...-tól ...-ig.
 
 | Egyéni fejlesztési célok | % |
 
+7K33729_3
+
 | MINŐSÍTÉS |
 
 | 1. | A minősített képességeinek és munkavégzésével összefüggő személyes tulajdonságainak értékelése |
@@ -125,6 +143,8 @@ Minősítési időszak: ...-tól ...-ig.
 | 2. | A minősített munkakörének ellátására való alkalmasságának értékelése |
 
 | 3. | A minősített fejleszthetőségére és előmenetelére vonatkozó következtetések |
+
+7K33729_4
 
 | AZ ÉRTÉKELŐ VEZETŐ JAVASLATA SZEMÉLYZETI INTÉZKEDÉSEK MEGTÉTELÉRE (A megfelelő aláhúzandó) |
 

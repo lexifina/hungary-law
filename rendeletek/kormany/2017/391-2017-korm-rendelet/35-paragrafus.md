@@ -6,7 +6,7 @@ a) a felsőfokú végzettséget igénylő munkakört és a vezetői munkakört b
 
 b) az alap- és középfokú iskolai végzettséget igénylő munkakört betöltő közalkalmazott esetében a 8. melléklet
 
-## szerinti minősítő lapon a tárgyévet követő év január 31-éig.
+szerinti minősítő lapon a tárgyévet követő év január 31-éig.
 
 (2) A minősítés szintjei azonosak a teljesítményértékelés 6. mellékletben meghatározott teljesítményfokozatával.
 

@@ -1,5 +1,3 @@
-## A vízügyi igazgatási szerveknél foglalkoztatott közalkalmazott
-
 ## teljesítményértékelésének százalékos értéksávjai, a hozzá kapcsolódó teljesítményfokozatok és teljesítményszintek
 
 |  | A | B | C |

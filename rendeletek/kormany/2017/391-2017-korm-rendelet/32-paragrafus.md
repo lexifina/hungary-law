@@ -1,5 +1,3 @@
-## kell figyelembe venni.
-
 ## 12. A teljesítményértékelés szintjei
 
 32. § (1) Az értékelt személy teljesítményét 0–100%-ig terjedő, öt teljesítményfokozatra bontott mérőskálán kell értékelni.

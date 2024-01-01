@@ -1,5 +1,3 @@
-## A vízügyi igazgatási szerveknél foglalkoztatott közalkalmazott által betölthető vezetői munkaköri kategóriák és vezetői munkakörök
-
 ## A) Az Országos Vízügyi Főigazgatóságon betölthető vezetői munkakörök
 
 |  | A | B |
@@ -42,6 +40,10 @@
 
 | 8. | Szolgálatvezető |
 
-3. melléklet a 391/2017. (XII. 13.) Korm. rendelethez[^14]
+3. melléklet a 391/2017. (XII. 13.) Korm. rendelethez[^15]
 
-[^14]: A 3. melléklet a 683/2021. (XII. 6.) Korm. rendelet 2. §-ával megállapított szöveg.
+A vízügyi igazgatási szerveknél foglalkoztatott közalkalmazottak fizetési fokozataiés az azokhoz tartozó illetmények alsó és felső határai
+
+A) Általános iskolai végbizonyítványt vagy OKJ-s (alap vagy közép) végzettséget vagy szakmunkás bizonyítványt igénylő munkakörökhöz tartozó munkaköri kategóriák fizetési fokozatai és az azokhoz tartozó illetmények alsó és felső határai
+
+[^15]: A 3. melléklet az 558/2023. (XII. 13.) Korm. rendelet 2. §-ával megállapított szöveg.
