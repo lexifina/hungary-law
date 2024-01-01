@@ -1,4 +1,4 @@
-14/B. §[^89] (1) Az elosztó okosmérőt szerel fel a kisfeszültségen a 3 × 80 A vagy az alatti csatlakozással rendelkező felhasználó részére, ha a felhasználási helyen indirekt mérés vagy előre fizetős mérés kialakítására nem került sor, és
+14/B. §[^101] (1) Az elosztó okosmérőt szerel fel a kisfeszültségen a 3 × 80 A vagy az alatti csatlakozással rendelkező felhasználó részére, ha a felhasználási helyen indirekt mérés vagy előre fizetős mérés kialakítására nem került sor, és
 
 a) a felhasználási helynek – a villamosenergia-ellátási szabályzatokban meghatározottak szerint külön mért berendezések áramköreinek teljesítménye nélkül – számított teljesítménye – új felhasználási hely csatlakozása vagy a felhasználási hely teljesítménybővítése esetén – eléri vagy meghaladja a 3 × 32 A-t, vagy
 
@@ -18,6 +18,7 @@ b) a felhasználási helyen nincs indirekt vagy előre fizetős mérő felszerel
 
 (5) Az okosmérő és az okosméréshez kapcsolódó rendszer minimális működési és műszaki követelményeit az elosztói szabályzat tartalmazza. A minimális működési és műszaki követelmények meghatározása során figyelembe kell venni az intelligens fogyasztásmérő rendszerek bevezetésének előkészítéséről szóló, 2012. március 9-i 2012/148/EU bizottsági ajánlásban foglaltakat, a vonatkozó európai szabványokat vagy azt teljesítő egyenértékű műszaki megoldásokat, a legjobb gyakorlatokat, valamint az okosmérővel való mérés és a villamosenergia-rendszer fejlesztési lehetőségeit.
 
-(6) Az elosztó – az okosmérővel rendelkező felhasználók profil alapú elszámolásból való kikerülésére való felkészülés céljából – a villamosenergia-kereskedő kérése esetén anonimizálást követően átadja a villamosenergia-kereskedővel jogviszonyban álló, okosmérővel rendelkező felhasználók tekintetében rendelkezésére álló, kiegyenlítő energia elszámolási mérési időintervallumának megfelelő gyakoriságú mérési adatait.
+(6)[^102] Az elosztó – az okosmérővel rendelkező felhasználók profil alapú elszámolásból való kikerülésére való felkészülés céljából – a villamosenergia-kereskedő kérése esetén átadja a villamosenergia-kereskedővel jogviszonyban álló, okosmérővel rendelkező felhasználók tekintetében rendelkezésére álló, kiegyenlítő energia elszámolási mérési időintervallumának megfelelő gyakoriságú mérési adatait.
 
-[^89]: A Vhr. 14/B. §-át a 401/2020. (VIII. 17.) Korm. rendelet 7. §-a iktatta be, szövege a 787/2021. (XII. 27.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^101]: A Vhr. 14/B. §-át a 401/2020. (VIII. 17.) Korm. rendelet 7. §-a iktatta be, szövege a 787/2021. (XII. 27.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^102]: A Vhr. 14/B. § (6) bekezdése a 680/2023. (XII. 29.) Korm. rendelet 18. § d) pontja szerint módosított szöveg.

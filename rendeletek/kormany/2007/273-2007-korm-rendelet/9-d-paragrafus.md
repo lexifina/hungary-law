@@ -1,14 +1,14 @@
-## Nagy- vagy középfeszültségű hálózatra történő termelői csatlakozás korlátja[^62]
+## Nagy- vagy középfeszültségű hálózatra történő termelői csatlakozás korlátja[^73]
 
 9/D. § (1) Az átviteli rendszerirányító az üzemi szabályzatban meghatározott objektív és transzparens feltételek szerint a VET 16. § n) pontjában és a VET 35. § (8) bekezdésében foglaltakkal összhangban hathavi rendszerességgel meghatározza a villamosenergia-rendszer üzembiztonsága – így különösen a villamosenergia-rendszer teljesítmény-egyensúlyának és a kiegyenlítő szabályozási kapacitásoknak a biztosíthatósága – szempontjából a villamosenergia-rendszerbe befogadható nap- és szélerőművi teljesítőképesség korlátját.
 
 (2) A befogadható nap- és szélerőművi teljesítőképesség hálózati engedélyesek közötti felosztásának módját az üzemi szabályzat határozza meg.
 
-(3) A hálózati engedélyes a nagy- és középfeszültségű hálózatra vonatkozó, a befogadható nap- és szélerőművi teljesítőképesség-korlátot meghaladó nap- és szélerőművi csatlakozási igényt – a megkötött csatlakozási szerződésnek a csatlakozási pont módosításával, a betáplálási teljesítmény növekedésével vagy az elsődleges energiaforrás változásával nem járó módosítását ide nem értve – elutasítja, kivéve, ha
+(3)[^74] A hálózati engedélyes a nagy- és középfeszültségű hálózatra vonatkozó, a befogadható nap- és szélerőművi teljesítőképesség-korlátot meghaladó nap- és szélerőművi csatlakozási igényt – a megkötött csatlakozási szerződésnek a csatlakozási pont módosításával, a betáplálási teljesítmény növekedésével vagy csatlakozási pont mögötti nap- és szélerőművi névleges teljesítőképesség növekedésével nem járó módosítását ide nem értve – elutasítja, kivéve, ha
 
 a) a rendszerhasználó a csatlakozás során vállalja azokat az üzemi szabályzatban meghatározott műszaki feltételeket, amelyek a villamosenergia-rendszer teljesítmény-egyensúlyának fenntartását biztosítják, vagy
 
-b) a csatlakozási igény a megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló kormányrendelet szerinti pályázati eljárástól függő erőművi beruházáshoz kapcsolódik, amelynek keretében a rendszerhasználó vállalja azokat a műszaki feltételeket, amelyek a villamosenergia-rendszer teljesítmény-egyensúlyának fenntartását biztosítják.
+b) a csatlakozási igény a megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló kormányrendelet szerinti, nap- és szélerőművi termelői csatlakozás korlátját figyelembe vevő pályázati eljárástól függő erőművi beruházáshoz kapcsolódik, amelynek keretében rendszerhasználó vállalja azokat a műszaki feltételeket, amely a villamosenergia-rendszer teljesítmény egyensúlyának fenntartását biztosítják.
 
 (4) A hálózati engedélyes a pályázati eljárásban érintett csatlakozási igényre a pályázat eredményétől függő feltételes műszaki-gazdasági tájékoztatást ad.
 
@@ -18,4 +18,5 @@ b) a csatlakozási igény a megújuló energiaforrásból termelt villamos energ
 
 (7) Ha a hálózati engedélyes a (6) bekezdésben meghatározott eljárás esetén új csatlakozási pontot jelöl ki, az eljárás során megvizsgálja, hogy az elosztó hálózati szűk keresztmetszet kezelése milyen elosztói rugalmassági szolgáltatás beszerzésével valósítható meg. Invertert tartalmazó erőmű esetén az elosztói rugalmassági szolgáltatás lehetőségének vizsgálata során a hálózati engedélyes figyelembe veszi az inverter meddőteljesítmény szabályozó képességét is. A hálózati engedélyes a (6) bekezdés szerinti műszaki feltételek meghatározása során figyelembe veszi az elvégzett vizsgálat eredményét.
 
-[^62]: A Vhr. „Nagy- vagy középfeszültségű hálózatra történő termelői csatlakozás korlátja” alcímét (Vhr. 9/D. §) a 146/2022. (IV. 14.) Korm. rendelet 1. §-a iktatta be.
+[^73]: A Vhr. „Nagy- vagy középfeszültségű hálózatra történő termelői csatlakozás korlátja” alcímét (Vhr. 9/D. §) a 146/2022. (IV. 14.) Korm. rendelet 1. §-a iktatta be.
+[^74]: A Vhr. 9/D. § (3) bekezdése a 680/2023. (XII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.

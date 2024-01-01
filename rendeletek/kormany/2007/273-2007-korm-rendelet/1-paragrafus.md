@@ -40,7 +40,7 @@
 
 16a.[^16] végszámla: a felhasználó részére a hálózathasználati vagy a villamosenergia-vásárlási szerződés megszűnését követően kiállított, az adott időszak alatti mérőállás szerinti fogyasztáson és a zónaidőkhöz rendelt tarifák szorzatán alapuló számla;
 
-17.[^17] tényleges tulajdonos: a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény 3. § 38. pont a)–c) alpontjában meghatározott személy;
+17.[^17]
 
 18.[^18] energetikai auditálás: olyan eljárás, amelynek révén megfelelő ismereteket gyűjtenek valamely épület vagy épületcsoport, ipari művelet vagy létesítmény, magán- vagy közszolgáltatás aktuális energiafogyasztási profiljára vonatkozóan, továbbá amely meghatározza és számszerűsíti a költséghatékony energia-megtakarítási lehetőségeket, és rögzíti azok eredményeit;
 
@@ -62,6 +62,10 @@
 
 27.[^27] indirekt mérés: kiegészítő készülékként mérőváltót tartalmazó fogyasztásmérő berendezéssel megvalósított mérés.
 
+29.[^28] erőművi telephely: olyan ingatlan, vagy – ha az erőműegység legalább egy berendezése más ingatlanon helyezkedik el – összefüggő, egymással határos ingatlanokat magába foglaló földrajzi terület, ahol a termelő egy vagy több erőműegységben villamosenergiát termel. Az erőművi telephely kiterjed valamennyi olyan ingatlanra, ingatlanrészre, amely az erőműegység berendezéseinek elhelyezésére szolgál;
+
+30.[^29] szaldó elszámolás: olyan elszámolás, amely alapján a háztartási méretű kiserőmű által termelt, a közcélú hálózatba összesen betáplált és a közcélú hálózatból vételezett villamos energiát havi vagy éves elszámolási időszakonként a mérési intervallumokban mért, irányonként elkülönített és összegzett mennyiségek különbsége alapján számolják el.
+
 (2) Az (1) bekezdésben nem szereplő fogalmakat a villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: VET) 3. §-a szerint kell értelmezni.
 
 [^1]: A Vhr. 1. § (1) bekezdés 1. pontja a 100/2011. (VI. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
@@ -80,7 +84,7 @@
 [^14]: A Vhr. 1. § (1) bekezdés 14. pontja a 100/2011. (VI. 29.) Korm. rendelet 24. § (1) bekezdése, a 787/2021. (XII. 7.) Korm. rendelet 21. § 1. pontja szerint módosított szöveg.
 [^15]: A Vhr. 1. § (1) bekezdés 14a. pontját a 100/2011. (VI. 29.) Korm. rendelet 1. § (4) bekezdése iktatta be.
 [^16]: A Vhr. 1. § (1) bekezdés 16a. pontját a 100/2011. (VI. 29.) Korm. rendelet 1. § (5) bekezdése iktatta be.
-[^17]: A Vhr. 1. § (1) bekezdés 17. pontját újonnan a 787/2021. (XII. 27.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^17]: A Vhr. 1. § (1) bekezdés 17. pontját újonnan a 787/2021. (XII. 27.) Korm. rendelet 1. § (2) bekezdése iktatta be, a 680/2023. (XII. 29.) Korm. rendelet 18. § a) pontja hatályon kívül helyezte.
 [^18]: A Vhr. 1. § (1) bekezdés 18. pontját a 64/2009. (III. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 123/2015. (V. 26.) Korm. rendelet 16. §-a szerint módosított szöveg.
 [^19]: A Vhr. 1. § (1) bekezdés 19. pontját a 64/2009. (III. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^20]: A Vhr. 1. § (1) bekezdés 20. pontját a 64/2009. (III. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be.
@@ -91,3 +95,5 @@
 [^25]: A Vhr. 1. § (1) bekezdés 25. pontját a 787/2021. (XII. 27.) Korm. rendelet 1. § (3) bekezdése iktatta be.
 [^26]: A Vhr. 1. § (1) bekezdés 26. pontját a 787/2021. (XII. 27.) Korm. rendelet 1. § (3) bekezdése iktatta be.
 [^27]: A Vhr. 1. § (1) bekezdés 27. pontját a 787/2021. (XII. 27.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^28]: A Vhr. 1. § (1) bekezdés 29. pontját a 680/2023. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
+[^29]: A Vhr. 1. § (1) bekezdés 30. pontját a 680/2023. (XII. 29.) Korm. rendelet 1. §-a iktatta be.

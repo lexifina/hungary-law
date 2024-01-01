@@ -1,4 +1,4 @@
-13. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^590]
+13. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^624]
 
 Magánvezeték létesítése, bővítése és megszüntetése iránti engedély kérelemhez benyújtandó dokumentumok
 
@@ -20,12 +20,4 @@ Magánvezeték létesítése, bővítése és megszüntetése iránti engedély 
 
 8. A magánvezetékre kapcsolni tervezett felhasználók, vételezők kapcsolódási pontjainak számát, és ezek – kapcsolódási pontonként felhasználókra és vételezőkre egyenként elkülönített – kapcsolódási teljesítményét (kVA).
 
-9. Nyilatkozatot arról, hogy a magánvezetékről háztartási célra villamosenergia-vételezés nem történik, vagy háztartási célra történő vételezés esetén annak igazolása, hogy a vételező a kérelmezővel munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban áll.
-
-10. Nyilatkozatot arról, hogy a kérelmező – a hálózati engedélyes által a magánvezeték létesítésére vonatkozó engedélyezési eljárásban adott hozzájárulásában meghatározott – a magánvezeték közcélú hálózathoz való csatlakozásának műszaki feltételeit betartja.
-
-II. Magánvezeték bővítése iránti engedélykérelemhez az I. pont szerinti dokumentumok közül azon dokumentumokat kell benyújtani, amelyek tartalmában a magánvezeték létesítési engedély kiadását vagy legutolsó módosítását követően változás történt.
-
-III. Magánvezeték megszüntetése iránti engedélykérelemhez az e rendelet 76. § (2) bekezdésében foglaltak teljesülését igazoló dokumentumok kell benyújtani.
-
-[^590]: A Vhr. 13. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (9) bekezdésével megállapított szöveg.
+[^624]: A Vhr. 13. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (9) bekezdésével megállapított szöveg.

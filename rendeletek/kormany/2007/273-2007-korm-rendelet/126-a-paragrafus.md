@@ -1,3 +1,3 @@
-126/A. §[^474] A hálózati engedélyes az e rendeletnek az egyes energetikai tárgyú kormányrendeletek módosításáról szóló 75/2011. (V. 2.) Korm. rendelettel megállapított 88. § (5) bekezdése szerinti kiválasztási eljárást lefolytatni, és a kiszervezés előzetes jóváhagyására irányuló kérelmét a Hivatalhoz benyújtani első alkalommal 2014. április 4-ig köteles.
+126/A. §[^501]
 
-[^474]: A Vhr. 126/A. §-t a 75/2011. (V. 2.) Korm. rendelet 9. §-a iktatta be.
+[^501]: A Vhr. 126/A. §-t a 75/2011. (V. 2.) Korm. rendelet 9. §-a iktatta be, az 590/2023. (XII. 20.) Korm. rendelet 2. § a) pontja hatályon kívül helyezte.

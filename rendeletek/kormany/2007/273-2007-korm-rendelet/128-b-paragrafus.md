@@ -1,3 +1,3 @@
-128/B. §[^480] Az a társasház, amelynek a közös tulajdonában lévő helyiségei a szociális közműszolgáltatás kialakítása érdekében egyes kormányrendeletek módosításáról szóló 119/2013. (IV. 23.) Korm. rendelet (a továbbiakban: Mód. rendelet) hatálybalépését megelőzően a villamosenergia-ellátásból fizetési késedelem miatt kikapcsolásra kerültek, a VET 63/B. §-a szerinti feltételek fennállása esetén a Mód. rendelet hatálybalépését követő 20. napig kezdeményezheti a villamosenergia-kereskedőnél és az elosztónál a minimális szolgáltatás igénybevételét.
+128/B. §[^507]
 
-[^480]: A Vhr. 128/B. §-át a 119/2013. (IV. 23.) Korm. rendelet 10. §-a iktatta be.
+[^507]: A Vhr. 128/B. §-át a 119/2013. (IV. 23.) Korm. rendelet 10. §-a iktatta be, az 590/2023. (XII. 20.) Korm. rendelet 2. § d) pontja hatályon kívül helyezte.

@@ -1,10 +1,10 @@
 ## (A VET 32. §-ához)
 
-## Az elosztó hálózati veszteség beszerzése[^64]
+## Az elosztó hálózati veszteség beszerzése[^76]
 
-10. § (1)[^65] Az elosztó az elosztó hálózati veszteség pótlásához szükséges energia beszerzésére vonatkozó ajánlati felhívását a honlapján, és az Elosztói Szabályzatban meghatározattak szerint közzé teszi.
+10. § (1)[^77] Az elosztó az elosztó hálózati veszteség pótlásához szükséges energia beszerzésére vonatkozó ajánlati felhívását a honlapján, és az Elosztói Szabályzatban meghatározattak szerint közzé teszi.
 
 (2) Az ajánlati felhívásban meg kell határozni az ajánlattétel határidejét, az ajánlatok értékelésének szempontjait, valamint azon követelményeket és műszaki feltételeket, amelyeket az ajánlattevőnek teljesítenie kell.
 
-[^64]: A Vhr. 10. §-át megelőző alcímet a 187/2008. (VII. 24.) Korm. rendelet 2. §-a iktatta be.
-[^65]: A Vhr. 10. § (1) bekezdése a 100/2011. (VI. 29.) Korm. rendelet 24. § (2) bekezdése szerint módosított szöveg.
+[^76]: A Vhr. 10. §-át megelőző alcímet a 187/2008. (VII. 24.) Korm. rendelet 2. §-a iktatta be.
+[^77]: A Vhr. 10. § (1) bekezdése a 100/2011. (VI. 29.) Korm. rendelet 24. § (2) bekezdése szerint módosított szöveg.
