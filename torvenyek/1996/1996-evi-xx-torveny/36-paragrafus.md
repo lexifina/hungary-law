@@ -55,3 +55,5 @@
 26. a halottvizsgálatról és a halottakkal kapcsolatos eljárásról szóló kormányrendeletben megjelölt személy vagy szerv a haláleset bejelentéséhez;
 
 27. az arcképelemzési nyilvántartás vezetéséért, valamint az arcképelemző rendszer működtetéséért felelős központi szerv az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 6. § (1) bekezdése szerinti nyilvántartással kapcsolatos feladata ellátásához.
+
+28. az egységes elektronikuskártya-kibocsátási keretrendszerről szóló 2014. évi LXXXIII. törvény szerinti működtető a kártyafelhasználói regisztrációhoz kapcsolódóan, valamint a kártyakibocsátáshoz a személyiadat- és lakcímnyilvántartásból történő adatkérés céljából.

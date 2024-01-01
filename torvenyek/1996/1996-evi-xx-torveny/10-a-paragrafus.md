@@ -44,7 +44,7 @@ p) az élelmiszerlánc-felügyeleti szerv által megállapított FELIR azonosít
 
 (6) A természetes személyek összerendelési nyilvántartása számára összerendelési kapcsolati kód képzésére kötelezett alábbi adatkezelő szervek az összerendelési nyilvántartást vezető szervet a természetes személy következő adataiban bekövetkező változások esetén értesítik az összerendelési kapcsolati kód megszüntetéséről:
 
-a) a személyiadat- és lakcímnyilvántartás szerve a titkosított összerendelési kapcsolati kóddal rendelkező természetes személy külföldre távozásáról, elhalálozásáról (ideértve a holtnak nyilvánítást és a halál tényének bírói megállapítását), személyi azonosítójának változásáról, a 100 évesnél idősebb, külföldön élő magyar állampolgár a nyilvántartásból korhatár miatt történő kikerüléséről, a letelepedett, menekült, oltalmazott e jogállásának megszűnéséről, a szabad mozgás és tartózkodás jogával rendelkező személy engedélyének visszavonásáról, illetve a magyar állampolgárság visszavonásáról;
+a) a személyiadat- és lakcímnyilvántartás szerve a titkosított összerendelési kapcsolati kóddal rendelkező természetes személy külföldre távozásáról, elhalálozásáról (ideértve a holtnak nyilvánítást és a halál tényének bírói megállapítását), személyi azonosítójának változásáról, a 100 évesnél idősebb, külföldön élő magyar állampolgár a nyilvántartásból korhatár miatt történő kikerüléséről, a huzamos tartózkodási jogosultsággal rendelkező személy, menekült, oltalmazott e jogállásának megszűnéséről, a szabad mozgás és tartózkodás jogával rendelkező személy engedélyének visszavonásáról, illetve a magyar állampolgárság visszavonásáról;
 
 b) a központi idegenrendészeti nyilvántartás szerve a külföldi természetes személy jogállásának megszűnéséről;
 
@@ -72,7 +72,7 @@ k) az élelmiszerlánc-felügyeleti szerv a FELIR azonosító törléséről.
 
 (9) Az összerendelési nyilvántartásból az összerendelési bejegyzést az alábbi megszüntetési okokhoz tartozó változás dátumától számított 15 év elteltével kell törölni (fizikai törlés):
 
-a) a személyiadat- és lakcímnyilvántartás hatálya alá tartozó természetes személy külföldre távozása, elhalálozása (ideértve a holtnak nyilvánítást és a halál tényének bírói megállapítását), a 100 évesnél idősebb külföldön élő magyar állampolgár a nyilvántartásból korhatár miatt történő kikerülése, a letelepedett, menekült, oltalmazott e jogállásának megszűnése, a szabad mozgás és tartózkodás jogával rendelkező személy engedélyének visszavonása, illetve a magyar állampolgárság visszavonása,
+a) a személyiadat- és lakcímnyilvántartás hatálya alá tartozó természetes személy külföldre távozása, elhalálozása (ideértve a holtnak nyilvánítást és a halál tényének bírói megállapítását), a 100 évesnél idősebb külföldön élő magyar állampolgár a nyilvántartásból korhatár miatt történő kikerülése, a huzamos tartózkodási jogosultsággal rendelkező személy, menekült, oltalmazott e jogállásának megszűnése, a szabad mozgás és tartózkodás jogával rendelkező személy engedélyének visszavonása, illetve a magyar állampolgárság visszavonása,
 
 b) a központi idegenrendészeti nyilvántartás hatálya alá tartozó külföldi természetes személy tartózkodási jogcímének megszűnése,
 

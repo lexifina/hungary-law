@@ -1,0 +1,1 @@
+10/G. § Az összerendelési nyilvántartást vezető szerv az összerendelési nyilvántartásból kormányrendeletben megadott szabályok szerint adatot szolgáltat a nemzeti adatvagyon hasznosításának rendszeréről és az egyes szolgáltatásokról szóló 2023. évi törvény szerinti adat-összekapcsolási szolgáltatás végrehajtásához.

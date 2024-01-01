@@ -24,7 +24,7 @@
 
 11. az idegenrendészeti szerv és a központi menekültügyi szerv a törvényben meghatározott feladataik ellátásához;
 
-12. a rendőrség a polgári kézilőfegyverekkel, lőszerekkel, gáz- és riasztófegyverekkel, ipari célokat szolgáló robbantóanyagokkal, pirotechnikai termékek gyártásával, forgalmazásával, a kábítószerekkel és pszichotrop anyagokkal kapcsolatos engedélyezési és nyilvántartási eljáráshoz;
+12. a rendőrség a polgári kézilőfegyverekkel, lőszerekkel, gáz- és riasztófegyverekkel, ipari célokat szolgáló robbantóanyagokkal, pirotechnikai tevékenységekkel, a kábítószerekkel és pszichotrop anyagokkal, személy- és vagyonvédelmi, valamint magánnyomozói tevékenységgel, továbbá a rendészeti feladatokat ellátó személyekkel kapcsolatos engedélyezési és nyilvántartási eljárásokhoz;
 
 13. a bűntettesek nyilvántartását kezelő szerv;
 
@@ -57,3 +57,5 @@
 27. a halottvizsgálatról és a halottakkal kapcsolatos eljárásról szóló kormányrendeletben megjelölt személy vagy szerv a haláleset bejelentéséhez;
 
 28. az arcképelemzési nyilvántartás vezetéséért, valamint az arcképelemző rendszer működtetéséért felelős központi szerv az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 6. § (1) bekezdése szerinti nyilvántartással kapcsolatos feladata ellátásához.
+
+29. az egységes elektronikuskártya-kibocsátási keretrendszerről szóló 2014. évi LXXXIII. törvény szerinti működtető a kártyafelhasználói regisztrációhoz kapcsolódóan, valamint a kártyakibocsátáshoz a személyiadat- és lakcímnyilvántartásból történő adatkérés céljából.

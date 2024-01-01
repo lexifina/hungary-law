@@ -45,3 +45,5 @@ s) az önkormányzati adóhatóság a gépjárműadóról szóló 1991. évi LXX
 t) a Kormányzati Személyügyi Döntéstámogató Rendszerről szóló törvény 2. §-a szerinti szervezet, valamint a Kormányzati Személyügyi Döntéstámogató Rendszer a Kormányzati Személyügyi Döntéstámogató Rendszerbe történő adatszolgáltatás érdekében.
 
 u) az egészségügyről szóló törvény szerinti védettségi igazolványt kiállító hatóság, a védettségi igazolvány kiállítása érdekében.
+
+v) a sportról szóló törvény szerinti sportszervezetek, sportszövetségek, sportköztestületek, egyéb adatszolgáltatók a nemzeti sportinformációs rendszerbe történő adatszolgáltatás, valamint a sportpolitikáért felelős miniszter a nemzeti sportinformációs rendszer működtetése érdekében.
