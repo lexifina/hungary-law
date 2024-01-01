@@ -1,5 +1,3 @@
-## 7. §[^26]
-
 8. §[^27] (1)[^28] A Natura 2000 terület fenntartási céljainak elérését nem veszélyeztető vagy nem sértő és a Natura 2000 terület jelölésekor jogszerűen, végleges engedélynek megfelelően folytatott tevékenység korlátozás nélkül folytatható.
 
 (2) A védett természeti területnek nem minősülő Natura 2000 területen tilos engedély nélkül vagy az engedélytől eltérő módon olyan tevékenységet folytatni, illetve olyan beruházást végezni, amely – a 4. § (1) bekezdésére figyelemmel – a terület védelmi céljainak a megvalósítását akadályozza.
@@ -12,7 +10,6 @@
 
 (6)[^32] A (2)–(3) bekezdésen túlmenően a természetvédelmi hatóság védett természeti területnek nem minősülő Natura 2000 területen korlátozza, felfüggeszti vagy megtiltja a lehatárolásának alapjául szolgáló madárfaj, közösségi és kiemelt közösségi jelentőségű faj állománya, illetve közösségi és kiemelt közösségi jelentőségű élőhelytípus súlyos vagy helyrehozhatatlan károsodásának veszélyével járó, engedélyhez nem kötött, a mező-, illetve erdőgazdálkodás körén kívül eső tevékenységeket. Ugyanígy jár el a természetvédelmi hatóság a földhasználati szabályokat sértő, engedélyhez nem kötött mező- és erdőgazdálkodási tevékenységek esetén.
 
-[^26]: A 7. §-t a 201/2006. (X. 2.) Korm. rendelet 16. § (1) bekezdése hatályon kívül helyezte.
 [^27]: A 8. § a 201/2006. (X. 2.) Korm. rendelet 7. §-ával megállapított szöveg.
 [^28]: A 8. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 141. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^29]: A 8. § (3) bekezdése a 713/2020. (XII. 30.) Korm. rendelet 9. §-ával megállapított szöveg.

@@ -26,7 +26,13 @@ c)[^44] az a)–b) pontok alá nem tartozó esetekben a természetvédelmi ható
 
 (11)[^47] A beruházás engedélyezése előtt az eljáró hatóság köteles közmeghallgatást tartani, ha a beruházás az 1–4. számú mellékletben meghatározott fajok és élőhelytípusok természetvédelmi helyzetében olyan változást okozhat, amely miatt az e fajok és élőhelytípusok által az érintett nyilvánosság részére nyújtott szolgáltatás jelentős romlása következhet be. E bekezdésben foglaltakat nem kell alkalmazni az államtitkot vagy szolgálati titkot, illetőleg alapvető biztonsági, nemzetbiztonsági érdeket érintő vagy különleges biztonsági intézkedést igénylő beszerzések sajátos szabályairól szóló külön jogszabály hatálya alá tartozó beruházások esetén, valamint a jelölt Natura 2000 területek vonatkozásában.
 
-(12)[^48]
+(12)[^48] A közmeghallgatás a különböző helyszínen jelen lévők között, egy időben, valós idejű kommunikációt lehetővé tévő, kép és hang egyidejű továbbítására alkalmas elektronikus hírközlő eszköz útján is megtartható.
+
+(13)[^49] Ha a (11) és (12) bekezdésben foglaltaktól eltérően a közmeghallgatásra az érintettek személyes megjelenése nélkül, honlapon való közzététel útján kerül sor, az eljáró hatóság a honlapján közzéteszi mindazon információkat – így különösen iratokat, kép- és hangfelvételeket, internetes hivatkozásokat –, amelyek az érintettek közmeghallgatásban való részvétele szempontjából lényegesek. A közzététel tartalmazza azt a határidőt, amelyen belül az érintettek észrevételeket tehetnek, és kérdéseket tehetnek fel.
+
+(14)[^50] A hatóság a közmeghallgatás eredményessége érdekében a (13) bekezdésben foglaltakon kívül más alkalmas eszközt – így különösen helyi műsorszóró szolgáltatást, interaktív kommunikációt lehetővé tevő információtechnikát, hirdetményi vagy közösségi felületeket – is igénybe vehet.
+
+(15)[^51] Az eljáró hatóság – szükség szerint az érintett egyéb szervek, illetve a kérelmező ügyfél bevonásával – a (13) bekezdés szerint beérkezett észrevételekkel kapcsolatos tájékoztatását a honlapján közzéteszi. Ha az észrevételek sajátosságai megkívánják, a hatóság írásbelinek nem minősülő elektronikus úton tájékoztatja az ügyfelet.
 
 [^41]: A 10. § a 266/2008. (XI. 6.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^42]: A 10. § (2) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 33. pontja szerint módosított szöveg, e módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
@@ -35,4 +41,7 @@ c)[^44] az a)–b) pontok alá nem tartozó esetekben a természetvédelmi ható
 [^45]: A 10. § (9) bekezdése a 70/2015. (III. 30.) Korm. rendelet 67. § c) pontja szerint módosított szöveg.
 [^46]: A 10. § (10) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 374. § (2) bekezdésével megállapított, az 527/2013. (XII. 30.) Korm. rendelet 29. §-a, a 70/2015. (III. 30.) Korm. rendelet 67. § c) pontja szerint módosított szöveg.
 [^47]: A 10. § (11) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 374. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^48]: A 10. § (12) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 376. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^48]: A 10. § (12) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 376. §-a hatályon kívül helyezte, újonnan az 561/2023. (XII. 14.) Korm. rendelet 6. §-a iktatta be.
+[^49]: A 10. § (13) bekezdését az 561/2023. (XII. 14.) Korm. rendelet 6. §-a iktatta be.
+[^50]: A 10. § (14) bekezdését az 561/2023. (XII. 14.) Korm. rendelet 6. §-a iktatta be.
+[^51]: A 10. § (15) bekezdését az 561/2023. (XII. 14.) Korm. rendelet 6. §-a iktatta be.

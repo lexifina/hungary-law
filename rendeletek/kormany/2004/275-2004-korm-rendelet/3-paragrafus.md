@@ -10,4 +10,6 @@ c) a jóváhagyott Natura 2000 területekre, valamint
 
 d) a különleges természetmegőrzési, illetve kiemelt jelentőségű természetmegőrzési területekre
 
+[a továbbiakban az a)–d) pontok együtt: Natura 2000 terület] kell alkalmazni.
+
 [^11]: A 3. § a 201/2006. (X. 2.) Korm. rendelet 3. §-ával megállapított szöveg.

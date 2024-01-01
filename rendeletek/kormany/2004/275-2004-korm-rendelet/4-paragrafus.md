@@ -1,5 +1,3 @@
-## [a továbbiakban az a)–d) pontok együtt: Natura 2000 terület] kell alkalmazni.
-
 ## Natura 2000 területek lehatárolásának és fenntartásának célja[^12]
 
 4. §[^13] (1) A Natura 2000 területek lehatárolásának és fenntartásának célja az azokon található, az 1–3. számú mellékletben meghatározott fajok és a 4. számú mellékletben meghatározott élőhelytípusok kedvező természetvédelmi helyzetének megőrzése, fenntartása, helyreállítása, valamint a Natura 2000 területek lehatárolásának alapjául szolgáló természeti állapot, illetve a fenntartó gazdálkodás feltételeinek biztosítása.
@@ -10,7 +8,7 @@ a) az ország társadalmi-gazdasági fejlődését biztosító – törvényben 
 
 b) a kulturális igények és sajátosságok, valamint a helyi és térségi jellegzetességek figyelembevételével
 
-## kell megvalósítani.
+kell megvalósítani.
 
 (3) A Natura 2000 területen található közösségi jelentőségű és a kiemelt közösségi jelentőségű fajok, illetve élőhelytípusok kedvező természetvédelmi helyzetének megőrzését, fenntartását, valamint helyreállítását szolgáló intézkedéseket a következők állapítják meg:
 
