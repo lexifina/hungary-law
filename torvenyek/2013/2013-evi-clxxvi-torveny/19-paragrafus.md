@@ -2,7 +2,7 @@
 
 (2) A szétválásról szóló közleményben az átalakulásnál előírt elemeken túl meg kell jelölni:
 
-a) a szétválás módját (különválás, kiválás), külön feltüntetve, ha a szétválás beolvadásos kiválással vagy beolvadásos különválással történik;
+a) a szétválás módját (különválás, kiválás, leválás), külön feltüntetve, ha a szétválás beolvadásos kiválással vagy beolvadásos különválással történik;
 
 b) a szétváló jogi személyt megillető jogok és terhelő kötelezettségek megosztására vonatkozó megállapodás legfontosabb rendelkezéseit, különösen a vagyonmegosztás arányát;
 

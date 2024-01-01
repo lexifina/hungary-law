@@ -2,7 +2,7 @@
 
 a) a szétváló jogi személy típusát – gazdasági társaság esetén formáját –, nevét, székhelyét és nyilvántartási számát és a létrejövő jogi személyek típusát – gazdasági társaság esetén formáját –, nevét és székhelyét;
 
-b) a szétválás módját (különválás, kiválás);
+b) a szétválás módját (különválás, kiválás, leválás);
 
 c) a vagyonmegosztási javaslatot, vagyis a vagyon felosztását a szétváló jogi személy tagjai között, valamint ehhez kapcsolódóan a szétváló jogi személyt megillető jogok és kötelezettségek megosztására irányuló javaslatot; továbbá a jogelőd vagyonának a jogutódok közti megosztása tervezett arányát;
 

@@ -1,1 +1,1 @@
-### 32. §
+32. § A továbbműködő (fennmaradó) nyilvánosan működő részvénytársaság és a leválással létrejövő jogi személy a nyilvánosan működő részvénytársaságnak a leválás előtt keletkezett kötelezettségeiért egyetemlegesen köteles helytállni. A jogutódok egymás közötti viszonyában az elszámolás alapja a vagyonmegosztás aránya. A 10. § (2)–(5) bekezdése nem alkalmazandó.

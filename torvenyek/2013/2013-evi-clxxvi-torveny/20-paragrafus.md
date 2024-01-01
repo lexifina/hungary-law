@@ -1,4 +1,4 @@
-20. § (1) Kiválás esetén a jogelőd továbbműködő jogi személyt, beolvadásos kiválás és beolvadásos különválás esetén a már működő jogi személyt, amelyhez a kiváló, különváló tag csatlakozik, a szétválás bejegyzésekor a bíróság nem törli a nyilvántartásból.
+20. § (1) Kiválás esetén a jogelőd továbbműködő jogi személyt, beolvadásos kiválás és beolvadásos különválás esetén a már működő jogi személyt, amelyhez a kiváló, különváló tag csatlakozik, a szétválás bejegyzésekor a bíróság nem törli a nyilvántartásból. Leválás esetén a jogelőd továbbműködő jogi személyt, amelyből a leválással keletkező jogi személy kiválik, a szétválás bejegyzésekor a bíróság nem törli a nyilvántartásból.
 
 (2) Ha a szétválás bejegyzése során a jogelőd jogi személy nyilvántartásból való törlésére nem kerül sor, a 6. § (6) bekezdése és a 11. § (1a)–(1c) bekezdése alkalmazásában a jogelőd jogi személy törlésének hatálya alatt a szétválási kérelemben a jogelőd továbbműködő jogi személy törölni kért nyilvántartási adata törlésének hatályát kell érteni.
 
