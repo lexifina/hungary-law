@@ -4,25 +4,25 @@
 
 | 1. | hónap | szerződött egyetemes szolgáltató | nem földgáztárolóból származó földgázforrás mennyisége (kWh) | földgáztárolóból származó földgázforrás mennyisége (kWh) | földgázforrás ára (forint/kWh) |
 
-| 2. | október | MVM Next Energiakereskedelmi Zrt. | 748 454 659 | 1 618 823 341 | 5,651 |
+| 2. | január | MVM Next Energiakereskedelmi Zrt. | 1 771 806 100 | 4 477 895 850 | 4,367 |
 
-| 3. | november | MVM Next Energiakereskedelmi Zrt. | 1 317 002 832 | 2 848 529 168 | 5,651 |
+| 3. | február | MVM Next Energiakereskedelmi Zrt. | 1 456 542 473 | 3 681 128 255 | 4,367 |
 
-| 4. | december | MVM Next Energiakereskedelmi Zrt. | 1 913 873 858 | 4 139 494 142 | 5,651 |
+| 4. | március | MVM Next Energiakereskedelmi Zrt. | 1 209 461 243 | 3 056 678 427 | 4,367 |
 
-2. melléklet a 67/2016. (XII. 29.) NFM rendelethez[^51]
+2. melléklet a 67/2016. (XII. 29.) NFM rendelethez[^57]
 
-1. Az MVM CEEnergy Zrt. mint az egyetemes szolgáltatót ellátó földgázkereskedő által a 2. § (1) bekezdése szerint értékesítendő földgázforrás legmagasabb hatósági ára és mennyisége 2023. negyedik negyedévre:
+1. Az MVM CEEnergy Zrt. mint az egyetemes szolgáltatót ellátó földgázkereskedő által a 2. § (1) bekezdése szerint értékesítendő földgázforrás legmagasabb hatósági ára és mennyisége 2024. első negyedévre:
 
 |  | A | B | C | D |
 
 | 1. | hónap | szerződött egyetemes szolgáltató | földgázforrás mennyisége (kWh) | földgázforrás mennyiségarányos díja (forint/kWh) |
 
-| 2. | október | MVM Next Energiakereskedelmi Zrt. | 0 | – |
+| 2. | január | MVM Next Energiakereskedelmi Zrt. | 0 | – |
 
-| 3. | november | MVM Next Energiakereskedelmi Zrt. | 0 | – |
+| 3. | február | MVM Next Energiakereskedelmi Zrt. | 0 | – |
 
-| 4. | december | MVM Next Energiakereskedelmi Zrt. | 0 | – |
+| 4. | március | MVM Next Energiakereskedelmi Zrt. | 0 | – |
 
 2. A 2. § szerinti földgázforrás átvételéhez kapcsolódóan felmerülő nem mennyiségarányos szállítási és tárolási költségek:
 
@@ -32,4 +32,4 @@
 
 | 2. | MVM Next Energiakereskedelmi Zrt. | – |
 
-[^51]: A 2. melléklet a 19/2023. (IX. 29.) EM rendelet 2. § (1) bekezdés b) pontjával megállapított szöveg.
+[^57]: A 2. melléklet a 35/2023. (XII. 29.) EM rendelet 3. § b) pontjával megállapított szöveg.
