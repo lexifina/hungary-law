@@ -32,6 +32,8 @@ n) az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény
 
 o) a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény. 2019. január 1. és 2019. december 31. között hatályos 1. mellékletében meghatározott gazdasági társaságnál, annak jogelődjénél vagy jogutódjánál munkaviszonyban
 
+p) a pedagógusok új életpályájáról szóló törvény hatálya alá tartozó munkáltatónál köznevelési foglalkoztatotti jogviszonyban, valamint munkaviszonyban
+
 töltött időt.
 
 (2) A honvédelmi alkalmazott fizetési fokozatának megállapításánál az (1) bekezdésen túlmenően figyelembe kell venni

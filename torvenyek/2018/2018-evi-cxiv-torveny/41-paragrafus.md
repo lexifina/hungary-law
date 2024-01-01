@@ -1,23 +1,11 @@
-41. § (1) A honvédelmi szervezet a honvédelmi alkalmazotti jogviszony megszűnésekor a honvédelmi alkalmazott részére honvédelmi alkalmazotti igazolást ad.
+41. § A honvédelmi alkalmazotti jogviszony megszűnésekor kiállításra kerülő foglalkoztatási igazolás a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 36/A. § (2) bekezdésében foglalt adatokon túl a honvédelmi alkalmazottak esetében tartalmazza
 
-(2) A honvédelmi alkalmazotti igazolás tartalmazza
+a) a honvédelmi alkalmazott pénztártag által választott magánnyugdíjpénztár megnevezését, címét, pénzforgalmi számlaszámát,
 
-a) a honvédelmi alkalmazott természetes személyi azonosító adatait (név, születési név, anyja neve, születési hely, év, hónap, nap),
+b) a 16. § (8) bekezdésében meghatározottakat és a szülési szabadság időtartamát,
 
-b) a honvédelmi alkalmazott társadalombiztosítási azonosító jelét, a honvédelmi alkalmazott pénztártag által választott magánnyugdíjpénztár megnevezését, címét, pénzforgalmi számlaszámát,
+c) a honvédelmi alkalmazotti jogviszony megszűnésének évében munkában nem töltött minden olyan időt, amely alatt a honvédelmi alkalmazott illetményben részesült,
 
-c) a honvédelmi alkalmazott munkakörét,
+d) a jubileumi jutalom kifizetését és ennek időpontját, valamint
 
-d) a honvédelmi szervezetnél honvédelmi alkalmazotti jogviszonyban töltött idő tartamát,
-
-e) a 16. § (8) bekezdés a)–c) pontjában meghatározottakat és a szülési szabadság időtartamát,
-
-f) minden olyan, a honvédelmi alkalmazotti jogviszony megszűnésének évében munkában nem töltött időt, amely alatt a honvédelmi alkalmazott illetményben részesült,
-
-g) a honvédelmi alkalmazott illetményéből jogerős határozat vagy jogszabály alapján levonandó tartozást, illetve ennek jogosultját, vagy pedig azt, hogy a honvédelmi alkalmazott illetményét tartozás nem terheli,
-
-h) a jubileumi jutalom kifizetését és ennek időpontját,
-
-i) a honvédelmi alkalmazott 42. § (7) bekezdésében meghatározott, emelt összegű végkielégítésben való részesülését, továbbá
-
-j) a honvédelmi alkalmazotti jogviszony megszűnésének módját.
+e) a honvédelmi alkalmazott 42. § (7) bekezdésében meghatározott, emelt összegű végkielégítésben való részesülését.

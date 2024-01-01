@@ -10,7 +10,7 @@ a) büntetlen előéletű,
 
 b) tizennyolcadik életévét betöltött,
 
-c) magyar állampolgárságú, vagy külön jogszabály szerint a szabad mozgás és tartózkodás jogával rendelkező, illetve bevándorolt vagy letelepedett,
+c) magyar állampolgárságú, vagy külön jogszabály szerint a szabad mozgás és tartózkodás jogával rendelkező, illetve huzamos tartózkodási jogosultsággal rendelkező,
 
 d) cselekvőképes,
 
