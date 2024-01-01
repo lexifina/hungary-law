@@ -1,13 +1,13 @@
-93. §[^321] (1) Azon támogatott személyek tekintetében, akiknél a gyermekvállalási határidő a veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendelet szerinti veszélyhelyzet kezdete és a Módr6. hatálybalépése[^322] közötti időszakban telt le, a Módr6.-tal megállapított 34. § (3) bekezdését, valamint 57. § (1), (3) és (10) bekezdését azzal az eltéréssel kell alkalmazni, hogy az azokban foglalt 30 napos, 90 napos, illetve 120 napos határidő számításának kezdő időpontja a Módr6. hatálybalépésének napja.
+93. §[^335] (1) Azon támogatott személyek tekintetében, akiknél a gyermekvállalási határidő a veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendelet szerinti veszélyhelyzet kezdete és a Módr6. hatálybalépése[^336] közötti időszakban telt le, a Módr6.-tal megállapított 34. § (3) bekezdését, valamint 57. § (1), (3) és (10) bekezdését azzal az eltéréssel kell alkalmazni, hogy az azokban foglalt 30 napos, 90 napos, illetve 120 napos határidő számításának kezdő időpontja a Módr6. hatálybalépésének napja.
 
-(2) Ha az (1) bekezdés szerinti esetben a családi otthonteremtési kedvezmény visszafizetésére való felhívás a Módr6. hatálybalépését[^323] megelőzően már megtörtént, akkor azt a Módr6. hatálybalépését követő öt napon belül – a támogatott személy egyidejű értesítése mellett – hivatalból vissza kell vonni.
+(2) Ha az (1) bekezdés szerinti esetben a családi otthonteremtési kedvezmény visszafizetésére való felhívás a Módr6. hatálybalépését[^337] megelőzően már megtörtént, akkor azt a Módr6. hatálybalépését követő öt napon belül – a támogatott személy egyidejű értesítése mellett – hivatalból vissza kell vonni.
 
-(3) Azon igénylő tekintetében, akinél a Módr6. hatálybalépése[^324] napján a Módr6.-tal megállapított 31/A. § szerinti egyéves határidőből kevesebb, mint 90 nap van hátra, a 31/A. §-t azzal az eltéréssel kell alkalmazni, hogy a családi otthonteremtési kedvezmény iránti kérelmét a Módr6. hatálybalépését követő 90 napon belül nyújthatja be.
+(3) Azon igénylő tekintetében, akinél a Módr6. hatálybalépése[^338] napján a Módr6.-tal megállapított 31/A. § szerinti egyéves határidőből kevesebb, mint 90 nap van hátra, a 31/A. §-t azzal az eltéréssel kell alkalmazni, hogy a családi otthonteremtési kedvezmény iránti kérelmét a Módr6. hatálybalépését követő 90 napon belül nyújthatja be.
 
-(4) A Módr6.-tal megállapított 15. §-t a Módr6. hatálybalépése[^325] előtt megkezdett, folyamatban lévő eljárásokra, illetve 49. § (1) bekezdését a már létrejött támogatási jogviszonyokra is alkalmazni kell.
+(4) A Módr6.-tal megállapított 15. §-t a Módr6. hatálybalépése[^339] előtt megkezdett, folyamatban lévő eljárásokra, illetve 49. § (1) bekezdését a már létrejött támogatási jogviszonyokra is alkalmazni kell.
 
-[^321]: A 93. §-t az 530/2021. (IX. 14.) Korm. rendelet – az 541/2021. (IX. 24.) Korm. rendelet 5. § (1) bekezdésével megállapított – 8. §-a iktatta be.
-[^322]: A hatálybalépés időpontja 2021. szeptember 29.
-[^323]: A hatálybalépés időpontja 2021. szeptember 29.
-[^324]: A hatálybalépés időpontja 2021. szeptember 29.
-[^325]: A hatálybalépés időpontja 2021. szeptember 29.
+[^335]: A 93. §-t az 530/2021. (IX. 14.) Korm. rendelet – az 541/2021. (IX. 24.) Korm. rendelet 5. § (1) bekezdésével megállapított – 8. §-a iktatta be.
+[^336]: A hatálybalépés időpontja 2021. szeptember 29.
+[^337]: A hatálybalépés időpontja 2021. szeptember 29.
+[^338]: A hatálybalépés időpontja 2021. szeptember 29.
+[^339]: A hatálybalépés időpontja 2021. szeptember 29.

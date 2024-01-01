@@ -1,8 +1,8 @@
-## 9. [^243] A családi otthonteremtési kedvezmény központi költségvetéssel való elszámolásának szabályai
+## 9. [^255] A családi otthonteremtési kedvezmény központi költségvetéssel való elszámolásának szabályai
 
 61. § (1) A családi otthonteremtési kedvezményt az állam nevében a Kincstár nyújtja.
 
-(2)[^244] A hitelintézetet az általa jogszerűen folyósított
+(2)[^256] A hitelintézetet az általa jogszerűen folyósított
 
 a) családi otthonteremtési kedvezmény összege után
 
@@ -34,11 +34,12 @@ egyszeri költségtérítés illeti meg, amelyet az a) pont esetén a családi o
 
 (9) Ha a Kincstár a hitelintézet utólagos ellenőrzése során a hitelintézet terhére jogosulatlan támogatáslehívást állapít meg, a hitelintézet azt a Kincstár megállapításait tartalmazó dokumentum kézhezvételét követően a Ptk. szerinti, vállalkozások közötti fizetési késedelem esetére meghatározott késedelmi kamattal növelt összegben köteles a Kincstár által vezetett, 10032000-01034004 számú „Különleges bevételek” számlára megfizetni.
 
-(10) A Kincstár az (5) bekezdés szerinti ellenőrzése során a hitelintézetnél helyszíni ellenőrzést végezhet, és a szükséges információk, dokumentumok bekérésére vagy azokba a helyszínen történő betekintésre jogosult.
+(10)[^257] A Kincstár az (5) bekezdés és a 63. § szerinti ellenőrzése során a hitelintézetnél helyszíni ellenőrzést végezhet, és a szükséges információk, dokumentumok bekérésére vagy azokba a helyszínen történő betekintésre jogosult.
 
 (11) Ha a Kincstár az (5) bekezdés szerinti ellenőrzés során a hitelintézet elszámolásában szabálytalanságot tár fel, az elszámolással kapcsolatos követelést a hitelintézettel szemben a polgári jog szabályai szerint érvényesíti.
 
 (12) A hitelintézet a támogatásokat az eAdaton elérhető tájékoztató szerinti formában tartja nyilván.
 
-[^243]: A 9. alcím (61–62. §) a 101/2019. (V. 2.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^244]: A 61. § (2) bekezdése a 150/2022. (IV. 14.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^255]: A 9. alcím (61–62. §) a 101/2019. (V. 2.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^256]: A 61. § (2) bekezdése a 150/2022. (IV. 14.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^257]: A 61. § (10) bekezdése a 649/2023. (XII. 28.) Korm. rendelet 19. § (7) bekezdés n) pontja szerint módosított szöveg.
