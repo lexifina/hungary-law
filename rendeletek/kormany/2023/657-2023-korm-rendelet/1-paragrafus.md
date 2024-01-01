@@ -1,0 +1,3 @@
+1. § A vizsgálóállomás engedélyezésének részletes eljárási szabályairól szóló 181/2017. (VII. 20.) Korm. rendelet (a továbbiakban: R.) a következő 6. §-sal egészül ki:
+
+„6. § A közlekedési hatóság a vizsgálóállomás engedélyezése iránti kérelmet elutasítja, ha a vállalkozás vezető tisztségviselője, képviseleti joggal rendelkező egyéb személy az engedély iránti kérelem benyújtását megelőző három éven belül vezető tisztséget töltött be olyan vállalkozásban, amelynek a közlekedési hatóság visszavonta az engedélyét – a vezetői tisztségviselés időtartama alatt – a 14. § (1) bekezdés e) vagy f) pontjában foglaltak miatt.”
