@@ -60,6 +60,8 @@
 
 (30)[^201] A (28) bekezdés szerinti céltartalékot az annak fedezetére szolgáló pénzeszköz fel nem használt összegének az Mpt. 24. § (13) bekezdése szerint a Nyugdíjreform és Adósságcsökkentő Alap részére történő átadásakor meg kell szüntetni.
 
+(31)[^202] A pénztár folyamatosan biztosítja a fedezeti, a működési, a likviditási és kockázati céltartalékok állományának és az egyes alapokhoz rendelt, azok fedezetét képező eszközök állományának az alaponkénti egyezőségét, valamint a függő tételek állománya és az azok fedezetét képező eszközök állománya egyezőségét.
+
 [^181]: A 42. § (1) bekezdése a 287/2002. (XII. 23.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg, e módosító rendelet 28. § (1) bekezdése alapján a rendelkezést először a 2003. évről készített negyedéves és éves pénztári beszámolóra kell alkalmazni.
 [^182]: A 42. § (2) bekezdése a 396/2007. (XII. 27.) Korm. rendelet 78. §-a szerint módosított szöveg, alkalmazására lásd e módosító rendelet 78. §-át.
 [^183]: A 42. § (3) bekezdése a 114/2012. (VI. 8.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
@@ -81,3 +83,4 @@
 [^199]: A 42. § (28) bekezdését a 87/2011. (V. 31.) Korm. rendelet 14. § (3) bekezdése iktatta be.
 [^200]: A 42. § (29) bekezdését a 87/2011. (V. 31.) Korm. rendelet 14. § (3) bekezdése iktatta be.
 [^201]: A 42. § (30) bekezdését a 87/2011. (V. 31.) Korm. rendelet 14. § (3) bekezdése iktatta be.
+[^202]: A 42. § (31) bekezdését a 642/2023. (XII. 28.) Korm. rendelet 10. §-a iktatta be.

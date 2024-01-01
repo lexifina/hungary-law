@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-222-20-
 | 2017-01-01 | 2000-222-20-22.24 | 480/2016. (XII. 28.) Korm. rendelet |
 | 2019-01-01 | 2000-222-20-22.25 | 287/2002. (XII. 23.) Korm. rendelet |
 | 2020-01-01 | 2000-222-20-22.26 | 343/2019. (XII. 23.) Korm. rendelet |
+| 2024-01-01 | 2000-222-20-22.27 | 642/2023. (XII. 28.) Korm. rendelet |
