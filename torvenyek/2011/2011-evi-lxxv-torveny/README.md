@@ -39,3 +39,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-75-00-00
 | 2020-08-13 | 2020. évi LXXX. törvény | 2011-75-00-00.32 |
 | 2021-12-01 | 2021. évi XCIX. törvény | 2011-75-00-00.33 |
 | 2023-01-01 | 2022. évi XXII. törvény | 2011-75-00-00.34 |
+| 2024-01-01 | 2023. évi XC. törvény | 2011-75-00-00.35 |
