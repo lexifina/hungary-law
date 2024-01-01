@@ -26,7 +26,7 @@ cc) székhelye az Európai Unió tagállamában, az Európai Gazdasági Térség
 
 2a. építményi jog: a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) ÖTÖDIK KÖNYV XXXII/A. Fejezete szerinti építményi jog.
 
-3. forgalomképtelen nemzeti vagyon: az a nemzeti vagyon, amely az e törvényben meghatározott kivétellel nem idegeníthető el –, vagyonkezelői jog, kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog, építményi jog, jogszabályon alapuló, továbbá az ingatlanra közérdekből jogszabályban feljogosított szervek javára alapított használati jog, vezetékjog vagy ugyanezen okokból alapított szolgalom, továbbá a helyi önkormányzat javára alapított vezetékjog kivételével – nem terhelhető meg, biztosítékul nem adható, azon osztott tulajdon nem létesíthető;
+3. forgalomképtelen nemzeti vagyon: az a nemzeti vagyon, amely az e törvényben meghatározott kivétellel nem idegeníthető el –, vagyonkezelői jog, kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog, építményi jog, jogszabályon alapuló, továbbá az ingatlanra közérdekből jogszabályban feljogosított szervek javára alapított használati jog, továbbá a helyi önkormányzat javára alapított vezetékjog kivételével – nem terhelhető meg, biztosítékul nem adható, azon osztott tulajdon nem létesíthető;
 
 3a. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet;
 
@@ -97,6 +97,8 @@ bd) a ba) alpontban meghatározott személyek együtt vagy külön-külön 100%-
 be) a bd) alpont szerinti gazdálkodó szervezet 100%-os tulajdonában álló gazdálkodó szervezet.
 
 c) az egyházi jogi személy, valamint a közfeladatot ellátó közérdekű vagyonkezelő alapítvány és az általa fenntartott felsőoktatási intézmény a tevékenysége ellátásához szükséges nemzeti vagyon tekintetében.
+
+d) a nemzeti vagyonba tartozó víziközmű-létesítmények tekintetében az állam 100%-os tulajdonában álló gazdálkodó szervezet és a helyi önkormányzat közös – együttesen 100%-os – tulajdonában álló gazdálkodó szervezet.
 
 20. összetett vízilétesítmény: olyan vízilétesítmény, mely más létesítményeket, vizeket is magába foglal; az összetett vízilétesítmény része a létesítmények, vizek között lévő földterület is.
 
