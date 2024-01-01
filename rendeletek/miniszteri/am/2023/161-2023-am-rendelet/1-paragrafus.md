@@ -1,0 +1,1 @@
+1. § A gyümölcs és zöldség ellenőrzéséről szóló 82/2004. (V. 11.) FVM rendelet [a továbbiakban: 82/2004. (V. 11.) FVM rendelet] 8. § (1) bekezdésében a „telefaxon” szövegrész helyébe az „elektronikus úton” szöveg lép.
