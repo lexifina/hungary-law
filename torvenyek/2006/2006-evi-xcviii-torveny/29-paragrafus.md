@@ -6,7 +6,7 @@
 
 a) új gyógyszerformára és új beviteli formára,
 
-b) új indikációra,
+b) új indikációra, vagy új BNO kódot nem érintő indikációs változásra,
 
 c) új hatóanyagra,
 

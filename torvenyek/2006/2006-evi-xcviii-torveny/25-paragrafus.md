@@ -1,4 +1,4 @@
-25. § (1) Amennyiben a forgalomba hozatali engedély jogosultja az egészségbiztosítási szerv 23. § szerinti határozatának véglegessé válását követően a befogadott és támogatással forgalmazható gyógyszer árát érintő változtatással kíván élni, új kérelmet kell előterjesztenie a támogatás iránt.
+25. § (1) Amennyiben a forgalomba hozatali engedély jogosultja az egészségbiztosítási szerv 23. § szerinti határozatának véglegessé válását követően a befogadott és támogatással forgalmazható gyógyszer árát, illetve a finanszírozás – döntésben megjelölt – kezdőnapját érintő változtatással kíván élni, új kérelmet kell előterjesztenie a támogatás iránt.
 
 (2) Abban az esetben, ha az egészségbiztosítási szerv a 23. § (6) bekezdése szerinti eljárását követően valamely gyógyszer, tápszer
 
