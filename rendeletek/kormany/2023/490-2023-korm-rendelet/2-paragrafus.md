@@ -1,3 +1,3 @@
-2. §[^2]
+2. § A Vhr. 4. § (2a) bekezdés c) pontja helyébe a következő rendelkezés lép:
 
-[^2]: A 2. § a 13. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+(Az adatszolgáltatásban az útdíjszedő tételesen kimutatja)

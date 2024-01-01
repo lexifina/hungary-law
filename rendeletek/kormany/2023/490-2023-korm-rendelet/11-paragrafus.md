@@ -1,32 +1,25 @@
 11. § Hatályát veszti a Vhr.
 
-a)[^12]
+a) 9. alcíme,
 
-b)[^13]
+b) 23. § (3) bekezdése,
 
-c)[^14]
+c) 24. § (2) bekezdésében a „vagy előre feltöltött egyenlege terhére” szövegrész,
 
-d)[^15]
+d) 24. § (6) bekezdésében az „illetve annak viszonteladója” szövegrész,
 
-e)[^16]
+e) 28. § (1) bekezdés b) pontja,
 
-f)[^17]
+f)[^7]
 
-g)[^18]
+g)[^8]
 
-h)[^19]
+h)[^9]
 
-i)[^20]
+i) 28. § (5) bekezdése,
 
-j)[^21]
+j) 44. § (2) bekezdésében a „viszonteladók” szövegrész.
 
-[^12]: A 11. § a) pontja a 13. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
-[^13]: A 11. § b) pontja a 13. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
-[^14]: A 11. § c) pontja a 13. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
-[^15]: A 11. § d) pontja a 13. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
-[^16]: A 11. § e) pontja a 13. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
-[^17]: A 11. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^18]: A 11. § g) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^19]: A 11. § h) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^20]: A 11. § i) pontja a 13. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
-[^21]: A 11. § j) pontja a 13. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^7]: A 11. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 11. § g) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 11. § h) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
