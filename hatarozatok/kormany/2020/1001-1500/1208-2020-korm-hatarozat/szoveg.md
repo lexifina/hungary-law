@@ -8,11 +8,7 @@ A Kormány a Beruházási Előkészítési Alap terhére biztosított források 
 
 4. a Beruházásnak az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet 4. § a), c), e), f), l), n), o) és p) pontja szerinti előkészítési fázisai 2021. június 30. napjáig történő teljesítése érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 297 563 000 forintban határozza meg;
 
-5. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva, a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XLV. Kiemelt kormányzati magasépítési beruházások fejezet, 1. Egyedi magasépítési beruházások címet a 15. Nyíregyháza Spartacus-Bozsik József Labdarúgó Akadémia örökösföldi edzőközpont előkészítése alcímmel egészíti ki;
-
-Felelős: pénzügyminiszter
-
-Határidő: azonnal
+5.[^1]
 
 6. felhívja a pénzügyminisztert, hogy gondoskodjon a 4. pont szerinti összeg 2020. évi részének finanszírozása érdekében 142 940 000 forint rendelkezésre állásáról az 5. pont szerinti előirányzaton;
 
@@ -40,6 +36,7 @@ Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 Határidő: a Beruházás megvalósítását célzó feltételes közbeszerzési eljárást követően
 
-10.[^1]
+10.[^2]
 
-[^1]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 5. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
