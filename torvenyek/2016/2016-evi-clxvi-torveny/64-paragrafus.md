@@ -1,3 +1,0 @@
-## 11. A központi hivatalok felülvizsgálatával és a járási (fővárosi kerületi) hivatalok megerősítésével összefüggő egyes törvények módosításáról, valamint egyes költségvetési szervek feladatainak átadásáról szóló 2016. évi CIV. törvény módosítása
-
-64. § A központi hivatalok felülvizsgálatával és a járási (fővárosi kerületi) hivatalok megerősítésével összefüggő egyes törvények módosításáról, valamint egyes költségvetési szervek feladatainak átadásáról szóló 2016. évi CIV. törvény 17. § (8) bekezdésének a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 131/A. § (1) bekezdését megállapító rendelkezése az „és az utcai szociális munka” szövegrész helyett az „ , az utcai szociális munka és a fejlesztő foglalkoztatás” szöveggel lép hatályba.
