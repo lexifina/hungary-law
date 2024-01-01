@@ -1,3 +1,3 @@
 3. §[^3]
 
-[^3]: A 3. § az 5. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^3]: A 3. § a 99/2023. (XII. 28.) BM rendelet 1. §-a alapján nem lép hatályba.
