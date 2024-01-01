@@ -1,6 +1,6 @@
 ## 1. Egyes ingatlanok fővárosi önkormányzat részére történő átadása
 
-1. § (1) Budapest közigazgatási területén a fővárosi kerületi önkormányzatok és az állam tulajdonában álló, a Duna partvonalával közvetlenül határos
+1. § (1) Budapest közigazgatási területén a fővárosi kerületi önkormányzatok, valamint az állam tulajdonában álló, a Duna partvonalával közvetlenül határos
 
 a) budai és pesti alsó rakparton lévő ingatlanok, valamint kikötőhelyek és kikötői infrastruktúra,
 
