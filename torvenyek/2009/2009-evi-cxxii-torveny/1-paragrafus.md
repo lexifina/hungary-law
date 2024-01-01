@@ -11,3 +11,9 @@ d) állami részvényes:
 da) a magyar állam, vagy
 
 db) olyan gazdasági társaság, amelyben a magyar állam a szavazatok legalább 90%-át biztosító befolyással rendelkezik (a továbbiakban: állami gazdasági társaság).
+
+e) hitelminősítő intézet: a hitelminősítő intézetekről szóló, 2009. szeptember 16-i 1060/2009/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1060/2009/EK rendelet) szerint nyilvántartásba vett hitelminősítő intézet,
+
+f) hitelminősítési szolgáltatás: a 1060/2009/EK rendelet szerinti hitelminősítés,
+
+g) pénzügyi eszköz: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvény szerinti pénzügyi eszköz.
