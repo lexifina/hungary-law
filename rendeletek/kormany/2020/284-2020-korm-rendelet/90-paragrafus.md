@@ -1,5 +1,3 @@
-## 89. §[^65]
-
 ## V. Fejezet
 
 ## ZÁRÓ RENDELKEZÉSEK
@@ -13,5 +11,3 @@
 (3) A 84. § 2021. január 1-jén lép hatályba.
 
 (4) A 92. § 2021. július 1-jén lép hatályba.
-
-[^65]: A 89. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

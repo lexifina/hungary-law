@@ -1,3 +1,3 @@
-## 43. §[^19]
+44. §[^21]
 
-[^19]: A 43. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 44. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

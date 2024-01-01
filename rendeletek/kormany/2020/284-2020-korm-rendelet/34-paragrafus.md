@@ -1,5 +1,5 @@
-## 33. §[^9]
-
 ## 20. Átmeneti rendelkezések
 
-[^9]: A 33. §-t a 92. § hatályon kívül helyezte.
+34. §[^11]
+
+[^11]: A 34. §-t a 92. § hatályon kívül helyezte.

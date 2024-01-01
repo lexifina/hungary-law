@@ -1,5 +1,5 @@
-## 74. §[^50]
-
 ## 38. Az adósságrendezésben részt vevő természetes személyek lakhatási feltételeinek megtartása céljából nyújtott törlesztési támogatásról szóló 274/2015. (IX. 21.) Korm. rendelet módosítása
 
-[^50]: A 74. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+75. §[^52]
+
+[^52]: A 75. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

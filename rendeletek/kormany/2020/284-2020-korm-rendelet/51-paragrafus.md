@@ -1,3 +1,3 @@
-## 50. §[^26]
+51. §[^28]
 
-[^26]: Az 50. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: Az 51. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

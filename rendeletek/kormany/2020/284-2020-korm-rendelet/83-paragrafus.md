@@ -1,5 +1,5 @@
-## 82. §[^58]
-
 ## 43. Az elektronikus ügyintézés részletszabályairól szóló 451/2016. (XII. 19.) Korm. rendelet módosítása
 
-[^58]: A 82. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+83. §[^60]
+
+[^60]: A 83. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

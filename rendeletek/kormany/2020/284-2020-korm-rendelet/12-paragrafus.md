@@ -18,7 +18,7 @@ g) 19. § (4) bekezdésében,
 
 h) 22. § (2) bekezdésében
 
-## foglalt, a veszélyhelyzet kezdetét követően lejáró határidők a veszélyhelyzet megszűnését követő 30. napig meghosszabbodnak.
+foglalt, a veszélyhelyzet kezdetét követően lejáró határidők a veszélyhelyzet megszűnését követő 30. napig meghosszabbodnak.
 
 (2) A kölcsönkérelem – az egyéb jogosultsági feltételek fennállása esetén – a veszélyhelyzet megszűnését követő 30. napig akkor is benyújtható, ha a feleség a veszélyhelyzet ideje alatt töltötte be a 41. életévét.
 

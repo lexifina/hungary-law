@@ -6,7 +6,7 @@ a) az első sikeres nyelvvizsga és az első emelt szintű idegen nyelvből tett
 
 b) a közlekedési alapismeretek tanfolyam és vizsga díjához nyújtott támogatásról szóló 55/2018. (III. 23.) Korm. rendelet 2. §-ában
 
-## meghatározott életkort a veszélyhelyzet ideje alatt töltötte be, az R2., illetve a közlekedési alapismeretek tanfolyam és vizsga díjához nyújtott támogatásról szóló 55/2018. (III. 23.) Korm. rendelet szerinti állami támogatásra való jogosultságát a (2) és (3) bekezdésben foglaltak szerint érvényesítheti.
+meghatározott életkort a veszélyhelyzet ideje alatt töltötte be, az R2., illetve a közlekedési alapismeretek tanfolyam és vizsga díjához nyújtott támogatásról szóló 55/2018. (III. 23.) Korm. rendelet szerinti állami támogatásra való jogosultságát a (2) és (3) bekezdésben foglaltak szerint érvényesítheti.
 
 (2) Jogosult az első sikeres nyelvvizsga és az első emelt szintű idegen nyelvből tett érettségi vizsga díjához nyújtott állami támogatásra az az (1) bekezdés a) pontja szerinti személy is, akinél
 
@@ -16,7 +16,7 @@ b) az R2. 1. § 1. pont c) alpontja szerinti esetben az egyenértékűséget iga
 
 c) az R2. 1. § 1. pont d) alpontja szerinti esetben honosítási határozat kiállításának napja
 
-## a 2020. december 31-éig terjedő időszakra esik.
+a 2020. december 31-éig terjedő időszakra esik.
 
 (3) Jogosult a közlekedési alapismeretek tanfolyam és vizsga díjához nyújtott állami támogatásra az az (1) bekezdés b) pontja szerinti személy is, akinél a sikeres közlekedési alapismeretek vizsga napja a 2020. december 31-éig terjedő időszakra esik.
 
