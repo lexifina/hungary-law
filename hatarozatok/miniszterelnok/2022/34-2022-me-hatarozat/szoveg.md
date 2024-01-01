@@ -18,7 +18,7 @@ dr. Horvát Szilárdot,
 
 Márkus Ferencet,
 
-Nagy Balázst és
+Nagy Balázst[^1] és
 
 dr. Szilágyi Péter Ferencet
 
@@ -27,3 +27,5 @@ a Miniszterelnökség helyettes államtitkárává
 2022. június 12-ei hatállyal
 
 kinevezem.
+
+[^1]: A 109/2023. (XII. 22.) ME határozat alapján Nagy Balázs tekintetében akként módosul, hogy a „Miniszterelnökség” szövegrész helyébe a „Közigazgatási és Területfejlesztési Minisztérium” szöveg lép.
