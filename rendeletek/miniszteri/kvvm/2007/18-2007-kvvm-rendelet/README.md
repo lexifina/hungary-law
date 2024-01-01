@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-18-20-0
 | 2015-01-01 | 2007-18-20-0N.6 | 38/2014. (XII. 17.) FM rendelet |
 | 2015-04-01 | 2007-18-20-0N.7 | 18/2014. (III. 10.) VM rendelet |
 | 2018-01-01 | 2007-18-20-0N.8 | 70/2017. (XII. 29.) FM rendelet |
+| 2024-01-01 | 2007-18-20-0N.9 | 25/2007. (VII. 30.) KvVM rendelet |
