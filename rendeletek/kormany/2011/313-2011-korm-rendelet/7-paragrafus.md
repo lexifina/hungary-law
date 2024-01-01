@@ -16,7 +16,7 @@ e)[^13] a praxisjog elidegenítésére nyitva álló határidő eredménytelenü
 
 (4)[^14] A működési engedély kiadására hatáskörrel rendelkező egészségügyi államigazgatási szerv az (1) bekezdés b)–c) pontjában foglaltak fennállását a praxisengedély kiadásától számított 5 évenként, a (3) bekezdésben foglaltakat a vonatkozó jogszabályokban meghatározott időszakonként ellenőrzi.
 
-(5) A praxisengedély visszavonását – az állami adóhatóság kivételével – a 6. § szerinti szervek is kezdeményezhetik.
+(5)[^15] A praxisengedély visszavonását a 6. § szerinti szerv is kezdeményezheti.
 
 (6) A praxisengedély visszavonásáról szóló határozatot közölni kell az önkormányzattal és azokkal a szervekkel, amelyekkel a praxisengedélyre vonatkozó határozatot közölték.
 
@@ -24,3 +24,4 @@ e)[^13] a praxisjog elidegenítésére nyitva álló határidő eredménytelenü
 [^12]: A 7. § (1) bekezdés d) pontja a 447/2012. (XII. 29.) Korm. rendelet 77. § b) pontja, a 286/2023. (VI. 30.) Korm. rendelet 41. § b) pontja szerint módosított szöveg.
 [^13]: A 7. § (1) bekezdés e) pontja a 137/2012. (VI. 29.) Korm. rendelet 77. §-ával megállapított szöveg.
 [^14]: A 7. § (4) bekezdése a 286/2023. (VI. 30.) Korm. rendelet 41. § c) pontja szerint módosított szöveg.
+[^15]: A 7. § (5) bekezdése az 561/2023. (XII. 14.) Korm. rendelet 21. §-ával megállapított szöveg.
