@@ -32,15 +32,15 @@ vonatkozásában.
 
 (4) Ha a visszafizetésre kötelezett a szolgálati viszonyának megszűnését követő 2 éven belül hivatásos, szerződéses vagy önkéntes tartalékos szolgálati viszonyt létesít, köteles az állományilletékes parancsnokot tájékoztatni a képzési támogatás tekintetében még fennálló tartozásáról.
 
-(5)[^505] Az állomány tagja kérelmére mentesül a (4) bekezdés szerinti szolgálati jogviszony, valamint a Hjt. 212. § (4) bekezdése szerinti tényleges szolgálatteljesítés időtartamára eső képzési költség visszafizetése alól, ha erről a központi személyügyi szerv vezetőjével kiegészítő megállapodást köt. A kiegészítő megállapodás tartalmazza a (4) bekezdés szerinti szolgálati jogviszonyban kötelezően eltöltendő időtartamot és a (6) bekezdés szerinti kötelezettségvállalást is.
+(5)[^511] Az állomány tagja kérelmére mentesül a (4) bekezdés szerinti szolgálati jogviszony, valamint a Hjt. 212. § (4) bekezdése szerinti tényleges szolgálatteljesítés időtartamára eső képzési költség visszafizetése alól, ha erről a központi személyügyi szerv vezetőjével kiegészítő megállapodást köt. A kiegészítő megállapodás tartalmazza a (4) bekezdés szerinti szolgálati jogviszonyban kötelezően eltöltendő időtartamot és a (6) bekezdés szerinti kötelezettségvállalást is.
 
-(6)[^506] A kiegészítő megállapodásban a visszafizetésre kötelezett kötelezettséget vállal arra, hogy szolgálati viszonyának az előírt időtartamból még hátralévő idő elteltét megelőző megszűnése esetén az időarányosan még fennálló tartozást megfizeti. A tartozás a szolgálati viszony megszűnését követő naptól esedékes. Ha a szolgálati viszony hónap közben szűnik meg, a megkezdett hónap teljes hónapnak minősül.
+(6)[^512] A kiegészítő megállapodásban a visszafizetésre kötelezett kötelezettséget vállal arra, hogy szolgálati viszonyának az előírt időtartamból még hátralévő idő elteltét megelőző megszűnése esetén az időarányosan még fennálló tartozást megfizeti. A tartozás a szolgálati viszony megszűnését követő naptól esedékes. Ha a szolgálati viszony hónap közben szűnik meg, a megkezdett hónap teljes hónapnak minősül.
 
-(7)[^507] A kiegészítő megállapodást közjegyzői okiratba kell foglaltatni. A közjegyzői okirat elkészítésével kapcsolatos költségek a megtérítésre kötelezettet terhelik.
+(7)[^513] A kiegészítő megállapodást közjegyzői okiratba kell foglaltatni. A közjegyzői okirat elkészítésével kapcsolatos költségek a megtérítésre kötelezettet terhelik.
 
-(8)[^508] A kérelmet az állományilletékes parancsnok útján a központi személyügyi szerv vezetőjéhez kell benyújtani.
+(8)[^514] A kérelmet az állományilletékes parancsnok útján a központi személyügyi szerv vezetőjéhez kell benyújtani.
 
-[^505]: A 266. § (5) bekezdése a 6/2023. (IV. 3.) HM rendelet 7. §-ával megállapított szöveg.
-[^506]: A 266. § (6) bekezdése a 6/2023. (IV. 3.) HM rendelet 7. §-ával megállapított szöveg.
-[^507]: A 266. § (7) bekezdése a 6/2023. (IV. 3.) HM rendelet 7. §-ával megállapított szöveg.
-[^508]: A 266. § (8) bekezdését a 6/2023. (IV. 3.) HM rendelet 7. §-a iktatta be.
+[^511]: A 266. § (5) bekezdése a 6/2023. (IV. 3.) HM rendelet 7. §-ával megállapított szöveg.
+[^512]: A 266. § (6) bekezdése a 6/2023. (IV. 3.) HM rendelet 7. §-ával megállapított szöveg.
+[^513]: A 266. § (7) bekezdése a 6/2023. (IV. 3.) HM rendelet 7. §-ával megállapított szöveg.
+[^514]: A 266. § (8) bekezdését a 6/2023. (IV. 3.) HM rendelet 7. §-a iktatta be.

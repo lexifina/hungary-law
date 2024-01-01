@@ -1,3 +1,3 @@
-72. §[^238]
+72. §[^241]
 
-[^238]: A 72. §-t a 20/2018. (XII. 28.) HM rendelet 72. § 7. pontja hatályon kívül helyezte.
+[^241]: A 72. §-t a 20/2018. (XII. 28.) HM rendelet 72. § 7. pontja hatályon kívül helyezte.

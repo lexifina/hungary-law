@@ -1,4 +1,4 @@
-17. § (1)[^83] Az állomány tagja havi illetményéről kiadott illetmény-megállapításról szóló munkáltatói döntés a 13. §-ban meghatározottakon túl tartalmazza különösen
+17. § (1)[^84] Az állomány tagja havi illetményéről kiadott illetmény-megállapításról szóló munkáltatói döntés a 13. §-ban meghatározottakon túl tartalmazza különösen
 
 a) az illetmény-megállapítás okának megnevezését, a kapcsolódó munkáltatói döntés számát,
 
@@ -6,7 +6,7 @@ b) az illetmény-megállapítás alapjául szolgáló szolgálati beosztás megn
 
 c) az állomány Hjt. 123. § (4) bekezdés a), c) vagy f) pontjának hatálya alá tartozó tagja esetén az alapilletmény alapját képező besorolási osztály és besorolási kategória számát,
 
-d)[^84] a Hjt. 123. § (4) bekezdés d) vagy e) pontjának hatálya alá, vagy a Hjt. 46. § (1) bekezdés f)–i), k)–s), u) és v) pontja alapján rendelkezési állományba tartozó tagja esetén az alapilletmény megállapításának alapját képező konkrét jogszabályhelyre történő utalást,
+d)[^85] a Hjt. 123. § (4) bekezdés d) vagy e) pontjának hatálya alá, vagy a Hjt. 46. § (1) bekezdés f)–i), k)–s), u) és v) pontja alapján rendelkezési állományba tartozó tagja esetén az alapilletmény megállapításának alapját képező konkrét jogszabályhelyre történő utalást,
 
 e) az alapilletmény szorzószámát és összegét,
 
@@ -20,25 +20,25 @@ i) az állomány tagját megillető egyes illetményelemek együttes összegét,
 
 j) a megállapított besorolás szerinti illetményre való jogosultság kezdő napját.
 
-(1a)[^85] A Hjt. 122. § (1a) bekezdése szerinti illetménymegállapítás esetén az (1) bekezdésben foglaltaktól eltérően az illetménymegállapításról szóló munkáltatói döntés a 13. §-ban meghatározottakon túl tartalmazza különösen
+(1a)[^86] A Hjt. 122. § (1a) bekezdése szerinti illetménymegállapítás esetén az (1) bekezdésben foglaltaktól eltérően az illetménymegállapításról szóló munkáltatói döntés a 13. §-ban meghatározottakon túl tartalmazza különösen
 
-a)[^86] az illetménymegállapítás okának megnevezését, a kapcsolódó miniszteri döntés számát,
+a)[^87] az illetménymegállapítás okának megnevezését, a kapcsolódó miniszteri döntés számát,
 
-b)[^87] az illetménymegállapítás alapjául szolgáló szolgálati beosztás megnevezését, rendszeresített rendfokozatot,
+b)[^88] az illetménymegállapítás alapjául szolgáló szolgálati beosztás megnevezését, rendszeresített rendfokozatot,
 
 c) az illetmény összegét, valamint
 
 d) a megállapított illetményre való jogosultság kezdő napját.
 
-(2)[^88] A Hjt. 122. § (4) bekezdése szerinti illetményváltozásról szóló értesítés a 13. §-on túl tartalmazza különösen
+(2)[^89] A Hjt. 122. § (4) bekezdése szerinti illetményváltozásról szóló értesítés a 13. §-on túl tartalmazza különösen
 
-a)[^89] az értesítés okát,
+a)[^90] az értesítés okát,
 
 b) a módosuló illetményelemek megnevezését,
 
-c)[^90] az értesítés szerint módosuló illetményre való jogosultság kezdőnapját, az (1) bekezdés e)–h) pontja szerinti elemeket, és
+c)[^91] az értesítés szerint módosuló illetményre való jogosultság kezdőnapját, az (1) bekezdés e)–h) pontja szerinti elemeket, és
 
-d)[^91] az (1) bekezdés i) pontja szerinti elemet.
+d)[^92] az (1) bekezdés i) pontja szerinti elemet.
 
 (3) Az állományilletékes parancsnok havonta megállapítja az állomány tagja eseti illetménypótlékra vagy eseti kiegészítő illetményre való jogosultságát, meghatározza annak mértékét. Az erről szóló munkáltatói döntésnek a 13. §-on túl tartalmaznia kell különösen
 
@@ -50,15 +50,15 @@ c) a megállapított eseti illetménypótlék megnevezését, a pótlék összeg
 
 d) a megállapított eseti kiegészítő illetmény megnevezését, és annak összegét.
 
-(4)[^92]
+(4)[^93]
 
-[^83]: A 17. § (1) bekezdése a 4/2015. (VI. 22.) HM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^84]: A 17. § (1) bekezdés d) pontja a 25/2016. (XII. 22.) HM rendelet 45. § a) pontja szerint módosított szöveg.
-[^85]: A 17. § (1a) bekezdését a 13/2021. (VII. 15.) HM rendelet 2. §-a iktatta be.
-[^86]: A 17. § (1a) bekezdés a) pontja a 45/2023. (XII. 28.) HM rendelet 1. § a) pontja szerint módosított szöveg.
-[^87]: A 17. § (1a) bekezdés b) pontja a 45/2023. (XII. 28.) HM rendelet 2. §-a szerint módosított szöveg.
-[^88]: A 17. § (2) bekezdés nyitó szövegrésze a 4/2015. (VI. 22.) HM rendelet 27. § 15. pontja szerint módosított szöveg.
-[^89]: A 17. § (2) bekezdés a) pontja a 10/2016. (VI. 29.) HM rendelet 7. §-ával megállapított szöveg.
-[^90]: A 17. § (2) bekezdés c) pontja a 4/2015. (VI. 22.) HM rendelet 27. § 16. pontja szerint módosított szöveg.
-[^91]: A 17. § (2) bekezdés d) pontja a 4/2015. (VI. 22.) HM rendelet 27. § 17. pontja szerint módosított szöveg.
-[^92]: A 17. § (4) bekezdését a 4/2015. (VI. 22.) HM rendelet 6. § (2) bekezdése iktatta be, hatályon kívül helyezte a 13/2020. (X. 14.) HM rendelet 32. § 2. pontja.
+[^84]: A 17. § (1) bekezdése a 4/2015. (VI. 22.) HM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^85]: A 17. § (1) bekezdés d) pontja a 25/2016. (XII. 22.) HM rendelet 45. § a) pontja szerint módosított szöveg.
+[^86]: A 17. § (1a) bekezdését a 13/2021. (VII. 15.) HM rendelet 2. §-a iktatta be.
+[^87]: A 17. § (1a) bekezdés a) pontja a 45/2023. (XII. 28.) HM rendelet 1. § a) pontja szerint módosított szöveg.
+[^88]: A 17. § (1a) bekezdés b) pontja a 45/2023. (XII. 28.) HM rendelet 2. §-a szerint módosított szöveg.
+[^89]: A 17. § (2) bekezdés nyitó szövegrésze a 4/2015. (VI. 22.) HM rendelet 27. § 15. pontja szerint módosított szöveg.
+[^90]: A 17. § (2) bekezdés a) pontja a 10/2016. (VI. 29.) HM rendelet 7. §-ával megállapított szöveg.
+[^91]: A 17. § (2) bekezdés c) pontja a 4/2015. (VI. 22.) HM rendelet 27. § 16. pontja szerint módosított szöveg.
+[^92]: A 17. § (2) bekezdés d) pontja a 4/2015. (VI. 22.) HM rendelet 27. § 17. pontja szerint módosított szöveg.
+[^93]: A 17. § (4) bekezdését a 4/2015. (VI. 22.) HM rendelet 6. § (2) bekezdése iktatta be, hatályon kívül helyezte a 13/2020. (X. 14.) HM rendelet 32. § 2. pontja.

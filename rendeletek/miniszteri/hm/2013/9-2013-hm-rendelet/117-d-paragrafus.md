@@ -1,3 +1,3 @@
-## 31/C. [^330] A merevszárnyú szállító légijármű szakszemélyzetre irányadó repülési szolgálati idő
+## 31/C. [^334] A merevszárnyú szállító légijármű szakszemélyzetre irányadó repülési szolgálati idő
 
-[^330]: A 31/C. alcímet (117/D–117/F. §) a 20/2018. (XII. 28) HM rendelet 44. §-a iktatta be.
+[^334]: A 31/C. alcímet (117/D–117/F. §) a 20/2018. (XII. 28) HM rendelet 44. §-a iktatta be.

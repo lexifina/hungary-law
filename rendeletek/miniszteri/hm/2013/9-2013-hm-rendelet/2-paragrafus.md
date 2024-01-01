@@ -6,18 +6,18 @@
 
 (3) A köztársasági elnök jogköreit kivéve az állomány kettős rendfokozattal rendszeresített szolgálati beosztást betöltő tagja esetén a munkáltatói jogkör gyakorlóját a szolgálati beosztás rendszeresített rendfokozata határozza meg.
 
-(4)[^25]
+(4)[^26]
 
-(5)[^26] A munkáltatói jogkört gyakorló hatáskörébe tartozó egyes ügyekben a kiadmányozási jogot az általa vezetett honvédelmi szervezet szervezeti és működési szabályzatában vagy az általa vezetett szervezeti egység ügyrendjében az adott honvédelmi szervezettel politikai szolgálati jogviszonyban álló személyre, illetve kormányzati szolgálati, honvédelmi alkalmazotti jogviszonyban vagy a Honvédséggel szolgálati viszonyban álló, vezető beosztást, munkakört vagy álláshelyet betöltő személyre ruházhatja, aki a döntés meghozatala során a munkáltatói jogkört gyakorló nevében és hatáskörében jár el.
+(5)[^27] A munkáltatói jogkört gyakorló hatáskörébe tartozó egyes ügyekben a kiadmányozási jogot az általa vezetett honvédelmi szervezet szervezeti és működési szabályzatában vagy az általa vezetett szervezeti egység ügyrendjében az adott honvédelmi szervezettel politikai szolgálati jogviszonyban álló személyre, illetve kormányzati szolgálati, honvédelmi alkalmazotti jogviszonyban vagy a Honvédséggel szolgálati viszonyban álló, vezető beosztást, munkakört vagy álláshelyet betöltő személyre ruházhatja, aki a döntés meghozatala során a munkáltatói jogkört gyakorló nevében és hatáskörében jár el.
 
-(6)[^27] Az (5) bekezdés szerinti esetben a munkáltatói döntésben fel kell tüntetni a munkáltatói jogkört gyakorló és a kiadmányozási jog gyakorlójának beosztását vagy munkakörét, valamint azt, hogy a kiadmányozási jog gyakorlója a munkáltatói jogkört gyakorló nevében jár el.
+(6)[^28] Az (5) bekezdés szerinti esetben a munkáltatói döntésben fel kell tüntetni a munkáltatói jogkört gyakorló és a kiadmányozási jog gyakorlójának beosztását vagy munkakörét, valamint azt, hogy a kiadmányozási jog gyakorlója a munkáltatói jogkört gyakorló nevében jár el.
 
-(7)[^28] A kiadmányozási jog átruházása nem érinti a munkáltatói jogkört gyakorló személyét, döntési jogát és felelősségét, valamint – ha a jogorvoslatot jogszabály biztosítja – a jogorvoslat igénybevételének lehetőségét, az elbírálás rendjét és jogosultját.
+(7)[^29] A kiadmányozási jog átruházása nem érinti a munkáltatói jogkört gyakorló személyét, döntési jogát és felelősségét, valamint – ha a jogorvoslatot jogszabály biztosítja – a jogorvoslat igénybevételének lehetőségét, az elbírálás rendjét és jogosultját.
 
-(8)[^29] A munkáltatói jogkört gyakorlót – távolléte vagy akadályoztatása esetén, valamint ha a beosztás ideiglenesen megüresedett – az erre jogszabályban vagy szervezeti és működési szabályzatban kijelölt személy vagy személyek helyettesíthetik.
+(8)[^30] A munkáltatói jogkört gyakorlót – távolléte vagy akadályoztatása esetén, valamint ha a beosztás ideiglenesen megüresedett – az erre jogszabályban vagy szervezeti és működési szabályzatban kijelölt személy vagy személyek helyettesíthetik.
 
-[^25]: A 2. § (4) bekezdését a 18/2015. (XII. 22.) HM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 20/2018. (XII. 28.) HM rendelet 72. § 1. pontja.
-[^26]: A 2. § (5) bekezdését a 10/2016. (VI. 29.) HM rendelet 2. §-a iktatta be, szövege a 20/2018. (XII. 28.) HM rendelet 2. § (1) bekezdésével megállapított, a 4/2020. (II. 28.) HM rendelet 18. § b) pontja, a 19/2022. (XII. 28.) HM rendelet 5. § c) pontja szerint módosított szöveg.
-[^27]: A 2. § (6) bekezdését a 10/2016. (VI. 29.) HM rendelet 2. §-a iktatta be.
-[^28]: A 2. § (7) bekezdését a 10/2016. (VI. 29.) HM rendelet 2. §-a iktatta be.
-[^29]: A 2. § (8) bekezdését a 10/2016. (VI. 29.) HM rendelet 2. §-a iktatta be, szövege a 20/2018. (XII. 28.) HM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^26]: A 2. § (4) bekezdését a 18/2015. (XII. 22.) HM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 20/2018. (XII. 28.) HM rendelet 72. § 1. pontja.
+[^27]: A 2. § (5) bekezdését a 10/2016. (VI. 29.) HM rendelet 2. §-a iktatta be, szövege a 20/2018. (XII. 28.) HM rendelet 2. § (1) bekezdésével megállapított, a 4/2020. (II. 28.) HM rendelet 18. § b) pontja, a 19/2022. (XII. 28.) HM rendelet 5. § c) pontja szerint módosított szöveg.
+[^28]: A 2. § (6) bekezdését a 10/2016. (VI. 29.) HM rendelet 2. §-a iktatta be.
+[^29]: A 2. § (7) bekezdését a 10/2016. (VI. 29.) HM rendelet 2. §-a iktatta be.
+[^30]: A 2. § (8) bekezdését a 10/2016. (VI. 29.) HM rendelet 2. §-a iktatta be, szövege a 20/2018. (XII. 28.) HM rendelet 2. § (2) bekezdésével megállapított szöveg.

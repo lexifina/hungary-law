@@ -1,9 +1,9 @@
-46. § (1)[^166] A miniszter a 45. § (2) bekezdése szerinti feltételek, a HVKF a katonai felsővezetői szakirányú továbbképzési szakra vonatkozó követelmény teljesítése alól szolgálati beosztásba történő áthelyezés vagy kinevezés során az állomány tagját szolgálati érdekből mentesítheti. A mentesítés a szolgálati beosztás betöltésének időtartamára szól.
+46. § (1)[^169] A miniszter a 45. § (2) bekezdése szerinti feltételek, a HVKF a katonai felsővezetői szakirányú továbbképzési szakra vonatkozó követelmény teljesítése alól szolgálati beosztásba történő áthelyezés vagy kinevezés során az állomány tagját szolgálati érdekből mentesítheti. A mentesítés a szolgálati beosztás betöltésének időtartamára szól.
 
-(2)[^167] Nem feltétele a katonai felsővezetői szakirányú továbbképzési szak elvégzése a szolgálati beosztás betöltésének, ha a szolgálati beosztás az NKE-nek a Honvédségnél létrehozott munkaköri jegyzékében kerül rendszeresítésre.
+(2)[^170] Nem feltétele a katonai felsővezetői szakirányú továbbképzési szak elvégzése a szolgálati beosztás betöltésének, ha a szolgálati beosztás az NKE-nek a Honvédségnél létrehozott munkaköri jegyzékében kerül rendszeresítésre.
 
-(3)[^168] A katonai felsővezetői szakirányú továbbképzési szak elvégzésével azonos a KNBSZ és az NKE együttműködési keretében megszervezett felsővezetői nemzetbiztonsági tanfolyam teljesítése.
+(3)[^171] A katonai felsővezetői szakirányú továbbképzési szak elvégzésével azonos a KNBSZ és az NKE együttműködési keretében megszervezett felsővezetői nemzetbiztonsági tanfolyam teljesítése.
 
-[^166]: A 46. § (1) bekezdése a 20/2018. (XII. 28.) HM rendelet 15. § (1) bekezdésével megállapított, a 26/2023. (XII. 27.) HM rendelet 1. § b) pontja szerint módosított szöveg.
-[^167]: A 46. § (2) bekezdése a 12/2018. (VII. 27.) HM rendelet 22. § d) pontja szerint módosított szöveg.
-[^168]: A 46. § (3) bekezdését a 20/2018. (XII. 28.) HM rendelet 15. § (2) bekezdése iktatta be.
+[^169]: A 46. § (1) bekezdése a 20/2018. (XII. 28.) HM rendelet 15. § (1) bekezdésével megállapított, a 26/2023. (XII. 27.) HM rendelet 1. § b) pontja szerint módosított szöveg.
+[^170]: A 46. § (2) bekezdése a 12/2018. (VII. 27.) HM rendelet 22. § d) pontja szerint módosított szöveg.
+[^171]: A 46. § (3) bekezdését a 20/2018. (XII. 28.) HM rendelet 15. § (2) bekezdése iktatta be.

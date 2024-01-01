@@ -2,6 +2,6 @@
 
 (2) A döntési lapon rögzített döntésről a KNBSZ személyügyi szervének vezetője egyéni vagy összesítő határozatot hoz.
 
-(3)[^405] A 17/A. § (1) bekezdésétől eltérően a KNBSZ állománya esetében a KNBSZ személyügyi szervének vezetője végzi a miniszter hatáskörébe tartozó személyügyi döntések, a köztársasági elnök jogköreivel összefüggő, a személyügyi szakterületet érintő miniszteri előterjesztések előkészítését, valamint ezen állomány vonatkozásában kiadmányozza a döntési lap alapján meghozott határozatokat, ha a munkáltatói jogkört gyakorló a miniszter.
+(3)[^409] A 17/A. § (1) bekezdésétől eltérően a KNBSZ állománya esetében a KNBSZ személyügyi szervének vezetője végzi a miniszter hatáskörébe tartozó személyügyi döntések, a köztársasági elnök jogköreivel összefüggő, a személyügyi szakterületet érintő miniszteri előterjesztések előkészítését, valamint ezen állomány vonatkozásában kiadmányozza a döntési lap alapján meghozott határozatokat, ha a munkáltatói jogkört gyakorló a miniszter.
 
-[^405]: A 168. § (3) bekezdését a 20/2018. (XII. 28) HM rendelet 52. §-a iktatta be, szövege a 4/2020. (II. 28.) HM rendelet 10. §-ával megállapított szöveg.
+[^409]: A 168. § (3) bekezdését a 20/2018. (XII. 28) HM rendelet 52. §-a iktatta be, szövege a 4/2020. (II. 28.) HM rendelet 10. §-ával megállapított szöveg.

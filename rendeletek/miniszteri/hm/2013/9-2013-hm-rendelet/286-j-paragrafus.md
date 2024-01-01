@@ -1,7 +1,7 @@
-286/J. §[^546] (1) Az állomány azon tagja, aki a honvédek jogállásáról szóló 2012. évi CCV. törvény egyes rendelkezéseinek végrehajtásáról szóló 9/2013. (VIII. 12.) HM rendelet módosításáról szóló 6/2023. (IV. 3.) HM rendelet (a továbbiakban: Módr3.) hatálybalépését[^547] megelőző napon olyan általános előmeneteli rendű zászlós rendfokozattal rendszeresített beosztást tölt be, amely a Módr3. hatálybalépése alapján az 5. mellékletben kettős rendfokozattal rendszeresített beosztásra változik, e beosztásban személyügyi eljárás lefolytatása nélkül is tovább foglalkoztatható.
+286/J. §[^552] (1) Az állomány azon tagja, aki a honvédek jogállásáról szóló 2012. évi CCV. törvény egyes rendelkezéseinek végrehajtásáról szóló 9/2013. (VIII. 12.) HM rendelet módosításáról szóló 6/2023. (IV. 3.) HM rendelet (a továbbiakban: Módr3.) hatálybalépését[^553] megelőző napon olyan általános előmeneteli rendű zászlós rendfokozattal rendszeresített beosztást tölt be, amely a Módr3. hatálybalépése alapján az 5. mellékletben kettős rendfokozattal rendszeresített beosztásra változik, e beosztásban személyügyi eljárás lefolytatása nélkül is tovább foglalkoztatható.
 
-(2) Az állománytáblákban szereplő azon beosztások, amelyek a Módr3. hatálybalépését[^548] megelőző napon általános előmeneteli rendű zászlós rendfokozattal rendszeresített beosztásként kerültek rendszeresítésre, és a Módr3.-mal megállapított 5. melléklet alapján kettős rendfokozatúvá változnak, külön állománytábla-módosítás nélkül is kettős rendfokozattal rendszeresített beosztásnak minősülnek.
+(2) Az állománytáblákban szereplő azon beosztások, amelyek a Módr3. hatálybalépését[^554] megelőző napon általános előmeneteli rendű zászlós rendfokozattal rendszeresített beosztásként kerültek rendszeresítésre, és a Módr3.-mal megállapított 5. melléklet alapján kettős rendfokozatúvá változnak, külön állománytábla-módosítás nélkül is kettős rendfokozattal rendszeresített beosztásnak minősülnek.
 
-[^546]: A 286/J. §-t a 6/2023. (IV. 3.) HM rendelet 8. §-a iktatta be.
-[^547]: A hatálybalépés időpontja 2023. április 4.
-[^548]: A hatálybalépés időpontja 2023. április 4.
+[^552]: A 286/J. §-t a 6/2023. (IV. 3.) HM rendelet 8. §-a iktatta be.
+[^553]: A hatálybalépés időpontja 2023. április 4.
+[^554]: A hatálybalépés időpontja 2023. április 4.

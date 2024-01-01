@@ -1,4 +1,4 @@
-4/A. §[^52] (1) A Hjt. 140. § (6) bekezdése szerinti céljuttatás alapjául szolgáló célfeladat (a továbbiakban: célfeladat) meghatározása tekintetében az európai uniós forrásból vagy nemzetközi megállapodás alapján egyéb programból származó támogatásból megvalósuló feladatok ellátására jogosult kedvezményezett honvédelmi szervezet (a továbbiakban: kedvezményezett honvédelmi szervezet) vezetője gyakorolja az állomány célfeladattal érintett tagja vonatkozásában a munkáltatói jogkört.
+4/A. §[^53] (1) A Hjt. 140. § (6) bekezdése szerinti céljuttatás alapjául szolgáló célfeladat (a továbbiakban: célfeladat) meghatározása tekintetében az európai uniós forrásból vagy nemzetközi megállapodás alapján egyéb programból származó támogatásból megvalósuló feladatok ellátására jogosult kedvezményezett honvédelmi szervezet (a továbbiakban: kedvezményezett honvédelmi szervezet) vezetője gyakorolja az állomány célfeladattal érintett tagja vonatkozásában a munkáltatói jogkört.
 
 (2) Ha az állomány célfeladattal érintett tagja tekintetében nem a kedvezményezett honvédelmi szervezet vezetője minősül állományilletékes parancsnoknak, az állomány célfeladattal érintett tagja tekintetében a célfeladat meghatározása tekintetében a munkáltatói jogkört a kedvezményezett honvédelmi szervezet vezetője és az érintett állományilletékes parancsnoka együttesen gyakorolja. Az érintett állományilletékes parancsnok e jogkörét a célfeladat meghatározására irányuló, (4) bekezdés szerinti megállapodáshoz adott előzetes írásbeli egyetértési jog útján gyakorolja. Az egyetértés megkérésével egyidejűleg az állományilletékes parancsnokot az elrendelni kívánt célfeladat kapcsán a (4) bekezdés b)–d) pontja szerinti információkról kell tájékoztatni.
 
@@ -18,4 +18,4 @@ e) a céljuttatás kifizetésének feltételeit és módját, és
 
 f) részben vagy egészében európai uniós forrás terhére megvalósuló projekt kapcsán végzett célfeladat esetében a projekt számát és elnevezését.
 
-[^52]: A 4/A. §-t a 10/2016. (VI. 29.) HM rendelet 5. §-a iktatta be.
+[^53]: A 4/A. §-t a 10/2016. (VI. 29.) HM rendelet 5. §-a iktatta be.
