@@ -34,4 +34,8 @@
 
 16. egyéb, az eljárással összefüggésben felmerült pénzkiadás.
 
+17.[^1] a keresetlevél előterjesztésével kapcsolatban felmerült költség, amennyiben a hatóság a keresetlevél alapján módosítja vagy visszavonja döntését.
+
 (2) A végrehajtási eljárásban való rendőri közreműködés jogszabályban meghatározott költségtérítésének összege végrehajtási költség.
+
+[^1]: Az 1. § (1) bekezdés 17. pontját az 561/2023. (XII. 14.) Korm. rendelet 44. §-a iktatta be.
