@@ -6,7 +6,7 @@ a) a tárgyhónapban beszedett teljes bevételt,
 
 b) a jogszabályban kijelölt tulajdonosi joggyakorló által elfogadott éves üzleti tervében meghatározott működési költségek tárgyhavi átalányösszegét,
 
-c) a tárgyhónapban a használatidíj-szedéssel összefüggésben keletkezett észszerű nyereségének összegét,
+c)[^1] a tárgyhónapra a használatidíj-szedéssel összefüggésben felszámított észszerű nyereségének összegét,
 
 d) a tárgyhónapban beszedett teljes bevétellel összefüggésben felmerült költségeknek az útdíjszolgáltatási gazdasági társaság által a tárgyhónapban tényszerűen megfizetett összegét (pl. jutalék, költségátalány, szolgáltatási díj),
 
@@ -19,3 +19,5 @@ e) azokat a tárgyhavi költségeket, amelyeket azon vagyontárgyakra fordított
 (5) Az útdíjszolgáltatási gazdasági társaság a kiállított számla végösszegének pénzügyi teljesítéséről az átutalást igazoló bizonylat általa ellenjegyzett másolatát megküldi a miniszter részére. A Magyar Államkincstár a számlakivonat megküldésével tájékoztatást ad az útdíjszolgáltatási gazdasági társaság részére a kiállított számla összegének beérkezéséről.
 
 (6) Az ebben a rendeletben nem szabályozott kérdésekben a miniszter és az útdíjszolgáltatási gazdasági társaság a Kkt. 33/A. § (6) bekezdése alapján megkötött szerződésben rendelkezik.
+
+[^1]: Az 1. § (2) bekezdés c) pontja a 490/2023. (XI. 2.) Korm. rendelet 12. §-ával megállapított szöveg.
