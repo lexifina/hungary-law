@@ -2,7 +2,7 @@
 
 Tulajdonosi jogokat gyakorló miniszterek, minisztériumok
 
-I. Tulajdonosi joggyakorló: a Gazdaságfejlesztési Minisztérium
+I. Tulajdonosi joggyakorló: a Nemzetgazdasági Minisztérium
 
 |  | A | B | C |
 
@@ -28,13 +28,15 @@ I. Tulajdonosi joggyakorló: a Gazdaságfejlesztési Minisztérium
 
 | 10. | NTH Nemzeti Tőkeholding Zártkörűen Működő Részvénytársaság | 01-10-142117 | 2026. december 31. |
 
+| 11. | Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság | 01-10-041364 | 2026. december 31. |
+
 II. Tulajdonosi joggyakorló: a Miniszterelnöki Kabinetiroda
 
 |  | A | B | C |
 
 |  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
 
-| 1. |  |  |  |
+| 1. | Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság | 01-09-996479 | 2026. december 31. |
 
 | 2. | Szerencsejáték Zártkörűen Működő Részvénytársaság | 01-10-041628 | 2026. december 31. |
 
@@ -48,7 +50,7 @@ II. Tulajdonosi joggyakorló: a Miniszterelnöki Kabinetiroda
 
 | 7. |  |  |  |
 
-| 8. | Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság | 01-10-041364 | 2026. december 31. |
+| 8. |  |  |  |
 
 | 9. |  |  |  |
 
@@ -66,9 +68,9 @@ III. Tulajdonosi joggyakorló: a Miniszterelnökség
 
 | 1. | Várkapitányság Integrált Területfejlesztési Központ Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-140096 | 2026. december 31. |
 
-| 2. | Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság | 01-09-996479 | 2026. december 31. |
+| 2. |  |  |  |
 
-| 3. | Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság | 01-09-916308 | 2026. december 31. |
+| 3. |  |  |  |
 
 | 4. | Pro Populo Carpathico Nonprofit Korlátolt Felelősségű Társaság | 15-09-085768 | 2026. december 31. |
 
@@ -162,7 +164,7 @@ VII. Tulajdonosi joggyakorló: a Honvédelmi Minisztérium
 
 | 1. | Katonai Emlékpark Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 07-09-018249 | 2026. december 31. |
 
-| 2. | HM Zrínyi Térképészeti és Kommunikációs Szolgáltató Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 01-09-920090 | 2026. december 31. |
+| 2. | HM Zrínyi Geoinformációs és Toborzástámogató Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 01-09-920090 | 2026. december 31. |
 
 | 3. | Nemzeti Sportügynökség Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-141742 | 2026. december 31. |
 
@@ -334,20 +336,20 @@ XII. Tulajdonosi joggyakorló: az Energiaügyi Minisztérium
 
 | 23. | BARANYA-VÍZ Víziközmű Szolgáltató Zártkörűen Működő Részvénytársaság | 02-10-060389 | 2026. december 31. |
 
-XIII. Tulajdonosi joggyakorló: a területfejlesztési miniszter
+## XIII. Tulajdonosi joggyakorló: a Közigazgatási és Területfejlesztési Minisztérium
 
 |  | A | B | C |
 
 |  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
 
-| 1. | Magyar Fejlesztésösztönző Iroda Nonprofit Korlátolt Felelősségű Társaság | 01-09-380926 | 2026. december 31. |
+| 1. | BTTF Badacsony és térsége Turisztikai Fejlesztő Nonprofit Zártkörűen Működő Részvénytársaság | 19-10-500364 | 2026. december 31. |
 
-| 2. | BTTF Badacsony és térsége Turisztikai Fejlesztő Nonprofit Zártkörűen Működő Részvénytársaság | 19-10-500364 | 2026. december 31. |
+| 2. | Magyar Fejlesztésösztönző Iroda Nonprofit Korlátolt Felelősségű Társaság | 01-09-380926 | 2026. december 31. |
 
-| 3. | Új Világ Nonprofit Szolgáltató Korlátolt Felelősségű Társaság | 01-09-278283 | 2026. december 31. |
+| 3. | Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság | 01-09-916308 | 2026. december 31. |
 
-| 4. |  |  |  |
+| 4. | Új Világ Nonprofit Szolgáltató Korlátolt Felelősségű Társaság | 01-09-278283 | 2026. december 31. |
 
 XIV. Tulajdonosi joggyakorló: a nemzetpolitikáért, nemzetiségpolitikáért, egyházpolitikáért és egyházdiplomáciáért felelős miniszter
 
-[^3]: Az 1. melléklet a 7. §, a 2/2022. (VI. 20.) GFM rendelet 1. §-a és 3. §-a, a 3/2022. (VII. 13.) GFM rendelet 1–2. §-a, az 5/2022. (VII. 27.) GFM rendelet 1. § (1) és (2) bekezdése és 2. §-a, a 7/2022. (VIII. 11.) GFM rendelet 1. §-a, a 8/2022. (VIII. 31.) GFM rendelet 1. és 3. §-a, a 10/2022. (X. 5.) GFM rendelet 1. §-a, a 14/2022. (XI. 21.) GFM rendelet 1. § a) pontja és a 3. §-a, a 16/2022. (XII. 6.) GFM rendelet 1. §-a, a 18/2022. (XII. 20.) GFM rendelet 1. és 2. §-a, a 20/2022. (XII. 27.) GFM rendelet 1. §-a, az 1/2023. (I. 9.) GFM rendelet 1. §-a, a 3/2023. (III. 30.) GFM rendelet 1. §-a, a 4/2023. (IV. 11.) GFM rendelet 1. §-a, az 5/2023. (IV. 17.) GFM rendelet 2. §-a, a 6/2023. (IV. 27.) GFM rendelet 1. § a)-b) pontja és 2. §-a, a 7/2023. (V. 16.) GFM rendelet 1. §-a és 3. §-a, a 10/2023. (VI. 16.) GFM rendelet 1. §-a és 3. § (2) bekezdése, a 18/2023. (VIII. 18.) GFM rendelet 1. §-a és 2. §-a, a 19/2023. (VIII. 24.) GFM rendelet 1. §-a, a 23/2023. (VIII. 30.) GFM rendelet 1. §-a, a 27/2023. (IX. 29.) GFM rendelet 1. §-a, a 28/2023. (XI. 6.) GFM rendelet 1. §-a, a 29/2023. (XI. 29.) GFM rendelet 1. és 2. §-a, a 32/2023. (XII. 15.) GFM rendelet 1. §-a és 3. §-a, a 33/2023. (XII. 15.) GFM rendelet 1. §-a, a 34/2023. (XII. 20.) GFM rendelet 1. §-a, a 35/2023. (XII. 20.) GFM rendelet 1. §-a, a 42/2023. (XII. 27.) GFM rendelet 1. §-a, a 43/2023. (XII. 27.) GFM rendelet 1. §-a, a 44/2023. (XII. 27.) GFM rendelet 1. §-a, a 45/2023. (XII. 27.) GFM rendelet 1. §-a, a 46/2023. (XII. 27.) GFM rendelet 1. §-a, a 47/2023. (XII. 27.) GFM rendelet 1. §-a, a 48/2023. (XII. 27.) GFM rendelet 1. §-a, a 49/2023. (XII. 27.) GFM rendelet 1. §-a, az 50/2023. (XII. 27.) GFM rendelet 1. §-a, az 51/2023. (XII. 27.) GFM rendelet 1. §-a, az 52/2023. (XII. 27.) GFM rendelet 1. §-a, az 53/2023. (XII. 27.) GFM rendelet 1. §-a, az 54/2023. (XII. 27.) GFM rendelet 1. §-a, a 70/2023. (XII. 29.) GFM rendelet 1. §-a, 73/2023. (XII. 29.) GFM rendelet 1. §-a szerint módosított szöveg.
+[^3]: Az 1. melléklet a 7. §, a 2/2022. (VI. 20.) GFM rendelet 1. §-a és 3. §-a, a 3/2022. (VII. 13.) GFM rendelet 1–2. §-a, az 5/2022. (VII. 27.) GFM rendelet 1. § (1) és (2) bekezdése és 2. §-a, a 7/2022. (VIII. 11.) GFM rendelet 1. §-a, a 8/2022. (VIII. 31.) GFM rendelet 1. és 3. §-a, a 10/2022. (X. 5.) GFM rendelet 1. §-a, a 14/2022. (XI. 21.) GFM rendelet 1. § a) pontja és a 3. §-a, a 16/2022. (XII. 6.) GFM rendelet 1. §-a, a 18/2022. (XII. 20.) GFM rendelet 1. és 2. §-a, a 20/2022. (XII. 27.) GFM rendelet 1. §-a, az 1/2023. (I. 9.) GFM rendelet 1. §-a, a 3/2023. (III. 30.) GFM rendelet 1. §-a, a 4/2023. (IV. 11.) GFM rendelet 1. §-a, az 5/2023. (IV. 17.) GFM rendelet 2. §-a, a 6/2023. (IV. 27.) GFM rendelet 1. § a)-b) pontja és 2. §-a, a 7/2023. (V. 16.) GFM rendelet 1. §-a és 3. §-a, a 10/2023. (VI. 16.) GFM rendelet 1. §-a és 3. § (2) bekezdése, a 18/2023. (VIII. 18.) GFM rendelet 1. §-a és 2. §-a, a 19/2023. (VIII. 24.) GFM rendelet 1. §-a, a 23/2023. (VIII. 30.) GFM rendelet 1. §-a, a 27/2023. (IX. 29.) GFM rendelet 1. §-a, a 28/2023. (XI. 6.) GFM rendelet 1. §-a, a 29/2023. (XI. 29.) GFM rendelet 1. és 2. §-a, a 32/2023. (XII. 15.) GFM rendelet 1. §-a és 3. §-a, a 33/2023. (XII. 15.) GFM rendelet 1. §-a, a 34/2023. (XII. 20.) GFM rendelet 1. §-a, a 35/2023. (XII. 20.) GFM rendelet 1. §-a, a 42/2023. (XII. 27.) GFM rendelet 1. §-a, a 43/2023. (XII. 27.) GFM rendelet 1. §-a, a 44/2023. (XII. 27.) GFM rendelet 1. §-a, a 45/2023. (XII. 27.) GFM rendelet 1. §-a, a 46/2023. (XII. 27.) GFM rendelet 1. §-a, a 47/2023. (XII. 27.) GFM rendelet 1. §-a, a 48/2023. (XII. 27.) GFM rendelet 1. §-a, a 49/2023. (XII. 27.) GFM rendelet 1. §-a, az 50/2023. (XII. 27.) GFM rendelet 1. §-a, az 51/2023. (XII. 27.) GFM rendelet 1. §-a, az 52/2023. (XII. 27.) GFM rendelet 1. §-a, az 53/2023. (XII. 27.) GFM rendelet 1. §-a, az 54/2023. (XII. 27.) GFM rendelet 1. §-a, a 70/2023. (XII. 29.) GFM rendelet 1. §-a, a 71/2023. (XII. 29.) GFM rendelet 1–3. §-a, a 73/2023. (XII. 29.) GFM rendelet 1. §-a szerint módosított szöveg.
