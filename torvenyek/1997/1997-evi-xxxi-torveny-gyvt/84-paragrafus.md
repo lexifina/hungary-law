@@ -10,7 +10,7 @@ a) ideiglenes hatállyal nevelőszülőnél, gyermekotthonban vagy más bentlak�
 
 b) a gyermek szülei hozzájárultak a gyermek ismeretlen személy által történő örökbefogadásához,
 
-c) a gyermek szülei ismeretlen helyen tartózkodnak, a gyermek a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény, valamint a menedékjogról szóló törvény szerint kísérő nélküli kiskorúnak minősül vagy a szülők bármilyen más okból nem gyakorolják szülői felügyeleti jogukat, és egyik esetben sem lehetséges családbafogadó gyám kirendelése,
+c) a gyermek szülei ismeretlen helyen tartózkodnak, a gyermek a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény, valamint a menedékjogról szóló törvény szerint kísérő nélküli kiskorúnak minősül vagy a szülők bármilyen más okból nem gyakorolják szülői felügyeleti jogukat, és egyik esetben sem lehetséges családbafogadó gyám kirendelése,
 
 d) nevelésbe vette a gyermeket,
 

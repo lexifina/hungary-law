@@ -10,7 +10,7 @@ d) a gyermeket családba fogadják,
 
 e) a gyermeket örökbe fogadják,
 
-f) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény, valamint a menedékjogról szóló törvény szerint kísérő nélküli kiskorúnak minősülő gyermek a gondozási helyéről engedély nélkül eltávozott és oda hatvan napon belül nem tért vissza.
+f) a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény, valamint a menedékjogról szóló törvény szerint kísérő nélküli kiskorúnak minősülő gyermek a gondozási helyéről engedély nélkül eltávozott és oda hatvan napon belül nem tért vissza.
 
 (2) A gyámhatóság az ideiglenes hatályú elhelyezés során a gyermek gondozási helyét megváltoztatja, ha megállapítja, hogy az ideiglenes hatályú elhelyezés feltételei fennállnak, azonban
 

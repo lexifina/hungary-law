@@ -90,6 +90,16 @@ bc) a javítóintézet igazgatójának és otthonvezetőjének, valamint a gyerm
 
 (10a) A (2) bekezdés b) pontjában meghatározott gyermekek napközbeni ellátását nyújtó bölcsődében, mini bölcsődében, a (3) bekezdésben meghatározott gyermekvédelmi szakellátást nyújtó intézményben és az (5) bekezdésben meghatározott javítóintézeti nevelést nyújtó intézményben – a Kjt.-nek a szociális, valamint a gyermekjóléti és gyermekvédelmi ágazatban történő végrehajtásáról szóló kormányrendeletben meghatározott – pedagógus-munkakörben foglalkoztatott felsőfokú végzettségű (a továbbiakban: pedagógus-munkakörben foglalkoztatott) személy tekintetében e törvény bérpótlékra vonatkozó rendelkezéseit is alkalmazni kell.
 
+(10b) A pedagógus-munkakörben foglalkoztatott személy előmeneteli és illetményrendszerére
+
+a) a pedagógusok új életpályájáról szóló 2023. évi LII. törvény 96. § (1) bekezdését, 97. § (1)–(2) és (4)–(8) bekezdését, 98. § (1)–(2), (6) és (8) bekezdését, 104. § (3) és (4) bekezdését, 159. §-át, 160. § (2) és (6) bekezdését, és
+
+b) a Kjt. 66. § (2) bekezdését, 67. §-át, 69. §-át, 70. §-át, 72. §-át, 74. §-át, 75. §-át, 77. § (1) és (2) bekezdését, 78. §-át, 78/A. §-át, 79. §-át és 79/A. §-át
+
+kell alkalmazni.
+
+(10c) A pedagógus-munkakörben foglalkoztatott személy tekintetében a pedagógusok új életpályájáról szóló 2023. évi LII. törvény 45. § (7) és (8) bekezdését, valamint 94. § (8) és (9) bekezdését is alkalmazni kell.
+
 (11) Ha a pedagógus-munkakörben foglalkoztatott személy foglalkoztatása a (3) bekezdésben meghatározott gyermekvédelmi szakellátást nyújtó intézményben vagy az (5) bekezdésben meghatározott javítóintézeti nevelést nyújtó intézményben történik, heti teljes munkaideje 40 óra, amelynek 80%-a kötött munkaidő. A kötött munkaidőt a munkáltató által, a munkakörhöz kapcsolódóan meghatározott feladatok ellátásával kell tölteni. A munkaidő fennmaradó részében a pedagógus-munkakörben foglalkozatott személy a feladatainak beosztását maga határozza meg.
 
 (11a) Ha a pedagógus-munkakörben foglalkoztatott személy foglalkoztatása a (2) bekezdés b) pontjában meghatározott gyermekek napközbeni ellátását nyújtó bölcsődében, mini bölcsődében történik, heti teljes munkaideje 40 óra, amelyből napi 7 óra, az Nktv. 4. § 25. pontja szerinti sajátos nevelési igényű gyermekek (a továbbiakban: sajátos nevelési igényű gyermek), valamint a korai fejlesztésre és gondozásra jogosult gyermekek nevelését, gondozását végző speciális csoportban kisgyermeknevelőként pedagógus-munkakörben foglalkoztatott, a pszichológus, valamint a gyógypedagógus esetén napi 6 óra kötött munkaidő. A kötött munkaidőt a munkáltató által, a munkakörhöz kapcsolódóan meghatározottak szerint a gyermekek közvetlen nevelésére, gondozására kell fordítani. A munkaidő fennmaradó részében a pedagógus-munkakörben foglalkoztatott személy részére a bölcsődei nevelést, gondozást előkészítő, azzal összefüggő egyéb feladatok elvégzése, gyakornok szakmai segítése és eseti helyettesítés ellátása rendelhető el.
@@ -98,7 +108,7 @@ bc) a javítóintézet igazgatójának és otthonvezetőjének, valamint a gyerm
 
 (13) A kötött munkaidőnek a neveléssel, fejlesztéssel és vizsgálattal lekötött munkaidőn túl fennmaradó részében a pedagógus-munkakörben foglalkoztatott személy, ha foglalkoztatása a (3) bekezdésben meghatározott gyermekvédelmi szakellátást nyújtó intézményben vagy az (5) bekezdésben meghatározott javítóintézeti nevelést nyújtó intézményben történik, a (12) bekezdés szerinti feladatokkal összefüggő előkészítő, értékelő, adminisztratív és egyéb feladatokat, továbbá eseti helyettesítést lát el.
 
-(14) A pedagógus-munkakörben foglalkoztatott személyt és a pedagógus-munkakörből nyugdíjba vonult személyt az Nktv. szerinti pedagógusigazolvány illeti meg.
+(14) A pedagógus-munkakörben foglalkoztatott személyt és a pedagógus-munkakörből nyugdíjba vonult személyt a pedagógusok új életpályájáról szóló 2023. évi LII. törvény szerinti pedagógusigazolvány illeti meg.
 
 (15) A pedagógus-munkakörben foglalkoztatott személyt a Kjt.-nek a szociális, valamint a gyermekjóléti és gyermekvédelmi ágazatban történő végrehajtásáról szóló kormányrendeletben foglaltak szerint pótszabadság illeti meg.
 
@@ -108,4 +118,4 @@ a) bejelenti az intézményt a köznevelés információs rendszerébe, és
 
 b) a köznevelés információs rendszere alkalmazotti nyilvántartásába (a továbbiakban: alkalmazotti nyilvántartás) a pedagógus-munkakörben foglalkoztatottakról a pedagógus előmeneteli rendszer működtetésével összefüggésben adatot rögzít.
 
-(17) Az alkalmazotti nyilvántartás a pedagógiai-szakmai ellenőrzés időpontjának és megállapításainak kivételével tartalmazza az Nktv. 44. § (7) bekezdésében foglalt adatokat, valamint a szociális szakvizsga megszerzésének idejét.
+(17) Az alkalmazotti nyilvántartás a pedagógiai-szakmai ellenőrzés időpontjának és megállapításainak kivételével tartalmazza az oktatási nyilvántartásról szóló 2018. évi LXXXIX. törvény 1. melléklet II. pontjában foglalt adatokat, valamint a szociális szakvizsga megszerzésének idejét.

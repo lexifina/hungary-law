@@ -68,7 +68,7 @@ ha az e törvényben és más jogszabályban meghatározott feltételek szerint,
 
 sz) családbafogadó gyám: az a gyámként kirendelt személy, akinél a gyámhatóság a gyermeket ideiglenes hatállyal elhelyezte, vagy akinél a bíróság a gyermeket elhelyezte, vagy aki a gyermeket a gyámhatóság hozzájárulásával családba fogadta, kivéve, ha a gyermeket ideiglenes hatállyal nevelőszülőnél, gyermekotthonban vagy más bentlakásos intézményben helyezték el, vagy akit a gyámhatóság a Ptk. 4:226. és 4:227. §-a szerint más okból rendelt ki gyámként a gyermekvédelmi gyámság alatt nem álló gyermek számára,
 
-t) személyazonosító adat: az érintett személy természetes személyazonosító adatai, neme, állampolgársága, bevándorolt, letelepedett, oltalmazott vagy menekült jogállása, lakó- és tartózkodási helye,
+t) személyazonosító adat: az érintett személy természetes személyazonosító adatai, neme, állampolgársága, huzamos tartózkodási jogosultsága, oltalmazott vagy menekült jogállása, lakó- és tartózkodási helye,
 
 ty) megelőző pártfogó felügyelő: az a pártfogó felügyelő, akit a bűnmegelőzés érdekében a szabálysértés vagy bűncselekmény elkövetése miatt indult gyámhatósági eljárás során a pártfogó felügyelői szolgálat kijelölt a védelembe vett vagy nevelésbe vett gyermek részére.
 

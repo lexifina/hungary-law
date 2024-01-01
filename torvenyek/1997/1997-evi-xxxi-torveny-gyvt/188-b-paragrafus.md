@@ -1,5 +1,0 @@
-188/B. § (1) E törvénynek az egyes gyermekvédelmi és szociális tárgyú törvények módosításáról szóló 2020. évi CXLVII. törvénnyel megállapított 28. §-ában foglaltakat azon személyek esetén is alkalmazni kell, akiknek bentlakásos szociális intézményben történő gondozása 2021. január 1-jén fennáll, és az azt megelőző 3 éven belül állapítottak meg számukra otthonteremtési támogatást bentlakásos szociális intézménybe fizetendő egyszeri hozzájárulásra vagy belépési hozzájárulásra.
-
-(2) E törvénynek az egyes gyermekvédelmi és szociális tárgyú törvények módosításáról szóló 2020. évi CXLVII. törvénnyel megállapított 66/D. § (1) bekezdés d) pontjában és 66/H. § (5) bekezdésében foglaltakat a 2021. január 1-jén fennálló nevelőszülői foglalkoztatási jogviszonyban állókra is alkalmazni kell.
-
-(3) E törvénynek az egyes gyermekvédelmi és szociális tárgyú törvények módosításáról szóló 2020. évi CXLVII. törvénnyel megállapított 66/E. § (1) bekezdésében foglaltakat a 2020. december 31-ét követően indult felmondási eljárásokban kell alkalmazni.

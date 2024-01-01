@@ -2,7 +2,7 @@
 
 4. § (1) A törvény hatálya kiterjed
 
-a) a (3) bekezdésben foglalt eltéréssel Magyarország területén tartózkodó magyar állampolgárságú, valamint – ha nemzetközi szerződés másként nem rendelkezik – a letelepedett, bevándorolt, illetve befogadott jogállású, továbbá a magyar hatóságok által menekültként, oltalmazottként, illetve hontalanként elismert gyermekre, fiatal felnőttre és szüleire;
+a) a (3) bekezdésben foglalt eltéréssel Magyarország területén tartózkodó magyar állampolgárságú, valamint – ha nemzetközi szerződés másként nem rendelkezik – a huzamos tartózkodási jogosultsággal rendelkező, illetve befogadott jogállású, továbbá a magyar hatóságok által menekültként, oltalmazottként, illetve hontalanként elismert gyermekre, fiatal felnőttre és szüleire;
 
 b) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény (a továbbiakban: Szmtv.) szerint a szabad mozgás és tartózkodás jogával rendelkező személyre, amennyiben az ellátás igénylésének időpontjában az Szmtv.-ben meghatározottak szerint a szabad mozgás és a három hónapot meghaladó tartózkodási jogát Magyarország területén gyakorolja, és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel rendelkezik;
 

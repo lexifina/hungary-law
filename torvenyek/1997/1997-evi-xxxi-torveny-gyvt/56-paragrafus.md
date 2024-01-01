@@ -9,3 +9,5 @@
 (5) A gyermek, fiatal felnőtt ellátására szolgáló nevelési ellátmány és családi pótlék fogadása érdekében létesített bankszámla és az ahhoz kapcsolódó bankkártya költségei a nevelési ellátmányból is fedezhetőek.
 
 (6) A gyermek, fiatal felnőtt saját keresményéből a nevelőszülői háztartás költségeihez nem köteles hozzájárulni.
+
+(7) A nevelési ellátmány és a különleges, speciális vagy kettős szükségletű gyermek után járó magasabb összegű nevelési ellátmány legalacsonyabb összegét a központi költségvetésről szóló törvény állapítja meg.
