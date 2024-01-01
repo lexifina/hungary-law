@@ -4,7 +4,7 @@
 
 (2) Az (1) bekezdés szerinti névjegyzék – az 1. melléklet 1.1–1.6., 1.8–1.9., 1.13., 1.15., pontjában, 1.20.1. és 1.20.2. alpontjában, valamint 1.24. és 1.25. pontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
-(3) Az 1. melléklet 1.14.1. és 1.14.3–1.14.5. alpontja szerint nyilvántartott igazságügyi szakértőnek az 1. melléklet 1.1., 1.7–1.11. pontjában, 1.12.1. alpontjában, 1.13. pontjában, 1.14.4. és 1.14.5. alpontjában, 1.15. pontjában, 1.19. pontjában, valamint 1.21–1.24. és 1.25. pontjában foglalt adatai nyilvánosak, azokat az igazságügyi szakértői névjegyzéket vezető hatóság a kormányzati portálon közzéteszi.
+(3) Az 1. melléklet 1.14.1. és 1.14.3–1.14.5. alpontja szerint nyilvántartott igazságügyi szakértőnek az 1. melléklet 1.1., 1.7–1.11. pontjában, 1.12.1. alpontjában, 1.13. pontjában, 1.14.4. és 1.14.5. alpontjában, 1.15. pontjában, 1.16. pontjában, 1.19. pontjában, valamint 1.21–1.24. és 1.25. pontjában foglalt adatai nyilvánosak, azokat az igazságügyi szakértői névjegyzéket vezető hatóság a kormányzati portálon közzéteszi.
 
 (4) A névjegyzék (3) bekezdésben fel nem sorolt adatai nem nyilvánosak, azokról csak törvényben foglalt esetben, az arra jogosult részére adható tájékoztatás. A névjegyzéket vezető hatóság az 1. melléklet 1.12.2. és 1.12.3. alpontjában, valamint 1.17. pontjában foglalt adatok kivételével a nyilvántartás adatait a Kamara részére átadja, azokat a Kamara e törvény rendelkezései szerint nyilvántartja és kezeli.
 

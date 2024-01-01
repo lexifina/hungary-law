@@ -37,3 +37,9 @@ A Kamara által a szakértőjelöltekről vezetett szakértőjelölti nyilvánta
 1.16. a szakértőjelölt tevékenységével kapcsolatos közlemények („közlemények”);
 
 1.17. a szakértőjelölti névjegyzékbe történő bejegyzés időpontja.
+
+1.18. a mentor szakértői névjegyzék szerinti neve;
+
+1.19. a mentor szakértői igazolványszáma;
+
+1.20. a mentor nyilvántartási száma.
