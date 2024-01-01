@@ -45,3 +45,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-331-20-
 | 2022-08-01 | 2006-331-20-22.45 | 208/2022. (VI. 14.) Korm. rendelet |
 | 2023-01-01 | 2006-331-20-22.47 | 616/2022. (XII. 29.) Korm. rendelet |
 | 2023-03-07 | 2006-331-20-22.46 | 70/2015. (III. 30.) Korm. rendelet |
+| 2024-01-01 | 2006-331-20-22.48 | 174/2012. (VII. 26.) Korm. rendelet |

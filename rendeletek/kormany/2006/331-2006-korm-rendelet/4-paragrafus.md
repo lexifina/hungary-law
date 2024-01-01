@@ -40,7 +40,7 @@ o)[^36] dönt a családi pótlék természetbeni formában történő nyújtás�
 
 p)[^37] kezdeményezi a folyósító szervnél a családi pótlék folyósítás szüneteltetésének megszüntetését, felülvizsgálja a családi pótlék folyósításának szüneteltetését,
 
-q)[^38] megkeresi az adóhatóságot a gondozási díj behajtása érdekében,
+q)[^38]
 
 r)[^39] a gyermek gondozási helyére vonatkozó javaslat kialakítása érdekében felkérhet az illetékességi területén kívüli más vármegyei (fővárosi) gyermekvédelmi szakértői bizottságot szakvélemény elkészítésére.
 
@@ -62,6 +62,6 @@ s)[^40] a büntetés-végrehajtási intézet megkeresésére az elítélt kiskor
 [^35]: A 4. § n) pontját a 173/2009. (VIII. 29.) Korm. rendelet 48. §-a iktatta be, szövege a 353/2014. (XII. 29.) Korm. rendelet 51. §-ával megállapított szöveg.
 [^36]: A 4. § o) pontját a 174/2012. (VII. 26.) Korm. rendelet 42. § (4) bekezdése iktatta be.
 [^37]: A 4. § p) pontját a 174/2012. (VII. 26.) Korm. rendelet 42. § (4) bekezdése iktatta be, szövege a 448/2016. (XII. 19.) Korm. rendelet 26. § b) pontja, a 31/2020. (II. 29.) Korm. rendelet 7. § (3) bekezdés b) pontja szerint módosított szöveg.
-[^38]: A 4. § q) pontját a 174/2012. (VII. 26.) Korm. rendelet 42. § (4) bekezdése iktatta be.
+[^38]: A 4. § q) pontját a 174/2012. (VII. 26.) Korm. rendelet 42. § (4) bekezdése iktatta be, az 561/2023. (XII. 14.) Korm. rendelet 9. §-a hatályon kívül helyezte.
 [^39]: A 4. § r) pontját a 257/2013. (VII. 5.) Korm. rendelet 21. §-a iktatta be, szövege a a 616/2022. (XII. 29.) Korm. rendelet 69. § a) pontja szerint módosított szöveg.
 [^40]: A 4. § s) pontját a 10/2021. (I. 20.) Korm. rendelet 11. §-a iktatta be.
