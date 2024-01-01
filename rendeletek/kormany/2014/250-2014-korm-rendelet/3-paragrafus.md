@@ -32,7 +32,7 @@ l)[^11] ellátja mindazokat a feladatokat, amelyeket jogszabály, kormányhatár
 
 m)[^12] a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv, a Miniszterelnöki Kormányiroda, a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv irányítása vagy felügyelete alá tartozó központi, területi és helyi költségvetési szerv vagy intézmény, és a Magyar Nemzeti Bank, illetve a Magyar Nemzeti Banknak a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 8:2. §-a szerinti többségi befolyása alatt álló, továbbá a légiközlekedésről szóló 1995. évi XCVII. törvény 45. § (6) bekezdése szerinti gazdasági társaság kivételével azon állami tulajdonú gazdasági társaság, amelyben az állam a Ptk. 8:2. §-a szerinti többségi befolyást gyakorol, valamint a Kormány által alapított, illetve a Kormány vagy a Kormány tagja alapítói joggyakorlása alá tartozó alapítvány és közalapítvány részére biztosítja az 1. melléklet II. pont, 3.2.1. alpontjában meghatározott szolgáltatásokat.
 
-n)[^13] az állami, Egészségbiztosítási Alapból finanszírozott és az Országos Kórházi Főigazgatóság fenntartása alá tartozó, aktív fekvőbeteg-ellátást nyújtó fővárosi költségvetési intézmények (a továbbiakban: kórház) részére a 3. mellékletben meghatározott ingatlanüzemeltetési szolgáltatásokat biztosítja.
+n)[^13] az állami, Egészségbiztosítási Alapból finanszírozott és az Országos Kórházi Főigazgatóság fenntartása alá tartozó, aktív fekvőbeteg-ellátást nyújtó fővárosi és vármegyei költségvetési intézmények (a továbbiakban: kórház) részére a 3. mellékletben meghatározott ingatlanüzemeltetési szolgáltatásokat biztosítja.
 
 (1a)[^14] A Főigazgatóság az (1) bekezdés a), b) és d) pontjában meghatározott szervezeteknek a 2. mellékletben meghatározott szolgáltatásokat abban az esetben nyújtja, ha azt az (1) bekezdés a), b) és d) pontjában meghatározott szerv kifejezetten igényli, és biztosítja az ahhoz szükséges költségvetési fedezetet.
 
@@ -90,7 +90,7 @@ megállapodást köthet. A megállapodásban rendelkezni kell a Főigazgatóság
 [^10]: A 3. § (1) bekezdés i) pontja a 771/2021. (XII. 23.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
 [^11]: A 3. § (1) bekezdés l) pontja a 384/2020. (VIII. 7.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
 [^12]: A 3. § (1) bekezdés m) pontját a 72/2019. (IV. 4.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 644/2023. (XII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^13]: A 3. § (1) bekezdés n) pontját a 83/2023. (III. 16.) Korm. rendelet 4. §-a iktatta be.
+[^13]: A 3. § (1) bekezdés n) pontját a 83/2023. (III. 16.) Korm. rendelet 4. §-a iktatta be, szövege ugyanezen módosító rendelet 6. §-a szerint módosított szöveg.
 [^14]: A 3. § (1a) bekezdését a 293/2017. (X. 10.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 168/2018. (IX. 17.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
 [^15]: A 3. § (1b) bekezdését a 293/2017. (X. 10.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 168/2018. (IX. 17.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
 [^16]: A 3. § (2) bekezdését a 293/2017. (X. 10.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
