@@ -10,4 +10,4 @@
 
 a) az a nap, amelyen azt írásban vagy szóban közölték, vagy
 
-b) a hirdetmény kifüggesztését követő tizenötödik nap.
+b) a hirdetmény honlapon történő közzétételét követő tizenötödik nap.
