@@ -1,4 +1,4 @@
-## 40. §[^70] Temetési hely, sírbolt felnyitását a népegészségügyi feladatkörében eljáró járási hivatal engedélyében és a szabályzatban foglaltak szerint kell elvégezni. Exhumálás, hamvak kivétele céljából történő felnyitás esetén a temető üzemeltetője legkésőbb a munka megkezdése előtt 10 nappal a temetőben (hirdetőtáblán) a sírhelytábla, sírhelysor, temetési hely számát, a sírjelen feltüntetett adatok körét és az exhumálás idejét tartalmazó közleményt helyez el.
+## 40. §[^73] Temetési hely, sírbolt felnyitását a népegészségügyi feladatkörében eljáró járási hivatal engedélyében és a szabályzatban foglaltak szerint kell elvégezni. Exhumálás, hamvak kivétele céljából történő felnyitás esetén a temető üzemeltetője legkésőbb a munka megkezdése előtt 10 nappal a temetőben (hirdetőtáblán) a sírhelytábla, sírhelysor, temetési hely számát, a sírjelen feltüntetett adatok körét és az exhumálás idejét tartalmazó közleményt helyez el.
 
 ## A nyilvántartás
 
@@ -6,7 +6,7 @@
 
 (2) A holttestmaradványok közös sírba helyezése esetén a temetőben vezetett nyilvántartó könyv rovatába a közös sírba történő helyezést, időpontjának és a közös sírnak a megjelölésével be kell jegyezni.
 
-(3)[^71] Az üzemeltető a sírbolt könyv és a nyilvántartó könyv adatait elektronikus adathordozón is tárolhatja. Elektronikus nyilvántartás esetén hiteles biztonsági másolat készítése vagy párhuzamos manuális nyilvántartás vezetése szükséges.
+(3)[^74] Az üzemeltető a sírbolt könyv és a nyilvántartó könyv adatait elektronikus adathordozón is tárolhatja. Elektronikus nyilvántartás esetén hiteles biztonsági másolat készítése vagy párhuzamos manuális nyilvántartás vezetése szükséges.
 
-[^70]: A 40. § a 457/2017. (XII. 28.) Korm. rendelet 78. § (4) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^71]: A 41. § (3) bekezdését a 121/2005. (VI. 28.) Korm. rendelet 13. §-a iktatta a szövegbe.
+[^73]: A 40. § a 457/2017. (XII. 28.) Korm. rendelet 78. § (4) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^74]: A 41. § (3) bekezdését a 121/2005. (VI. 28.) Korm. rendelet 13. §-a iktatta a szövegbe.

@@ -1,6 +1,6 @@
-## A temetkezési szolgáltatás engedélyezése[^113]
+## A temetkezési szolgáltatás engedélyezése[^121]
 
-59. §[^114] (1)[^115] A Kormány a temetkezési szolgáltatási tevékenységeket engedélyező hatóságként, valamint a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szolgáltatás felügyeletét ellátó hatóságként
+59. §[^122] (1)[^123] A Kormány a temetkezési szolgáltatási tevékenységeket engedélyező hatóságként, valamint a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szolgáltatás felügyeletét ellátó hatóságként
 
 a) a temetkezési szolgáltatás tekintetében – a c) pontban foglaltak kivételével – a temetkezési szolgáltató telephelye, ennek hiányában székhelye,
 
@@ -18,9 +18,9 @@ a) a szolgáltatás nyújtására szolgáló telephely, illetve telephelyek cím
 
 b) az adott telephely tekintetében az ott folytatni kívánt temetkezési szolgáltatási, illetve az azzal összefüggő hűtésre, illetőleg a halottszállító jármű tárolására vonatkozó tevékenységet és
 
-c)[^116] a Tv. 30. § (2) bekezdés b) és e) pontja szerinti szakképesítéssel rendelkező személyek nevét és azt, hogy tevékenységüket milyen jogviszonyban látják el.
+c)[^124] a Tv. 30. § (2) bekezdés b) és e) pontja szerinti szakképesítéssel rendelkező személyek nevét és azt, hogy tevékenységüket milyen jogviszonyban látják el.
 
-(4)[^117] A temetkezési szolgáltatási tevékenység engedélyezése során vizsgálni kell a vagyoni biztosítékra, valamint az összeférhetetlenségre, szakképesítésre vonatkozó előírásokat. A szolgáltatás nyújtására szolgáló telephely vonatkozásában vizsgálandóak a tulajdonosi, használati jogok gyakorlásának feltételei.
+(4)[^125] A temetkezési szolgáltatási tevékenység engedélyezése során vizsgálni kell a vagyoni biztosítékra, valamint az összeférhetetlenségre, szakképesítésre vonatkozó előírásokat. A szolgáltatás nyújtására szolgáló telephely vonatkozásában vizsgálandóak a tulajdonosi, használati jogok gyakorlásának feltételei.
 
 (5) Ha a telephelyen a holttest temetésre való előkészítését és hűtését végzik, a kérelemben meg kell jelölni:
 
@@ -34,14 +34,14 @@ d) az ivóvízellátás, a szennyvízgyűjtés módját és a szennyvíz-elhelye
 
 (6) A szennyvízgyűjtés és -elhelyezés módját a kérelemben akkor is meg kell jelölni, ha a telephelyen halottszállító jármű fertőtlenítésénél szennyvíz nem keletkezik.
 
-(7)[^118] A járási hivatal a kérelem elbírálásához adatszolgáltatás iránti kérelemmel fordul az okiratban foglalt adatokról nyilvántartást vezető hatósághoz vagy bírósághoz.
+(7)[^126] A járási hivatal a kérelem elbírálásához adatszolgáltatás iránti kérelemmel fordul az okiratban foglalt adatokról nyilvántartást vezető hatósághoz vagy bírósághoz.
 
-(8)[^119]
+(8)[^127]
 
-[^113]: Az 59. § előtti alcímet a 121/2005. (VI. 28.) Korm. rendelet 25. §-a iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 177. §-ával megállapított szöveg.
-[^114]: Az 59. § a 182/2009. (IX. 10.) Korm. rendelet 176. § (5) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^115]: Az 59. § (1) bekezdése a 379/2013. (X. 25.) Korm. rendelet 27. § (1) bekezdésével megállapított, záró szövegrésze a 616/2022. (XII. 29.) Korm. rendelet 35. §-a szerint módosított szöveg.
-[^116]: Az 59. § (3) bekezdés c) pontja a 379/2013. (X. 25.) Korm. rendelet 27. § (2) bekezdésével megállapított szöveg.
-[^117]: Az 59. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 78. § (6) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^118]: Az 59. § (7) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 22. § d) pontja, a 457/2017. (XII. 28.) Korm. rendelet 79. § c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^119]: Az 59. § (8) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 35. § (2) bekezdése iktatta be, hatályon kívül helyezte a 457/2017. (XII. 28.) Korm. rendelet 80. § c) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^121]: Az 59. § előtti alcímet a 121/2005. (VI. 28.) Korm. rendelet 25. §-a iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 177. §-ával megállapított szöveg.
+[^122]: Az 59. § a 182/2009. (IX. 10.) Korm. rendelet 176. § (5) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^123]: Az 59. § (1) bekezdése a 379/2013. (X. 25.) Korm. rendelet 27. § (1) bekezdésével megállapított, záró szövegrésze a 616/2022. (XII. 29.) Korm. rendelet 35. §-a szerint módosított szöveg.
+[^124]: Az 59. § (3) bekezdés c) pontja a 379/2013. (X. 25.) Korm. rendelet 27. § (2) bekezdésével megállapított szöveg.
+[^125]: Az 59. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 78. § (6) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^126]: Az 59. § (7) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 22. § d) pontja, a 457/2017. (XII. 28.) Korm. rendelet 79. § c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^127]: Az 59. § (8) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 35. § (2) bekezdése iktatta be, hatályon kívül helyezte a 457/2017. (XII. 28.) Korm. rendelet 80. § c) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
