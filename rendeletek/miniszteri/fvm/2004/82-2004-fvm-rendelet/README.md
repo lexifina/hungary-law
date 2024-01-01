@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-82-20-8
 | 2019-04-06 | 2004-82-20-82.12 | 63/2005. (VII. 12.) FVM rendelet |
 | 2020-09-28 | 2004-82-20-82.13 | 63/2005. (VII. 12.) FVM rendelet |
 | 2023-01-01 | 2004-82-20-82.14 | 63/2005. (VII. 12.) FVM rendelet |
+| 2024-01-01 | 2004-82-20-82.15 | 63/2005. (VII. 12.) FVM rendelet |

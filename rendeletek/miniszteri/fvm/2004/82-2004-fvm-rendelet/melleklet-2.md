@@ -76,7 +76,7 @@ A gyümölcs és zöldség megfelelőségi vizsgálat elvégzésének helyére v
 
 3. Egyéb követelmények
 
-3.1. Lehetőség iroda (íróasztal, telefon, fax, írógép, számítógép) használatára.
+3.1.[^30] Lehetőség iroda (íróasztal, telefon, írógép, számítógép) használatára.
 
 3.2. A vizsgálathoz:
 
@@ -93,3 +93,5 @@ d) kézi refraktométer.
 4. Import vizsgálat feltételei
 
 Az 1–3. pontokban foglaltakon túlmenően kijelölésre csak vámkezelést biztosító hely kerülhet. Jelentős forgalmat bonyolító helyeken (pl. nagybani piac) állandó irodahelyiség biztosítása is szükséges, ingyenes helyiséghasználati joggal.
+
+[^30]: A 2. melléklet 3. pont 3.1. alpontja a 161/2023. (XII. 27.) AM rendelet 2. §-a szerint módosított szöveg.

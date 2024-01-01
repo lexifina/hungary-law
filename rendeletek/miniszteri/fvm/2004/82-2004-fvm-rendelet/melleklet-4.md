@@ -40,7 +40,7 @@
 
 ## Szaporítóanyag szemle időpontja: .................................... Ellenőrző felügyelő neve: ...........................................
 
-4. számú melléklet a 82/2004. (V. 11.) FVM rendelethez[^31]
+4. számú melléklet a 82/2004. (V. 11.) FVM rendelethez[^32]
 
 AZ ENSZ/EGB FFV-37 SZÁMÚ, A GÖRÖGDINNYÉRE VONATKOZÓ FORGALMAZÁSI-MINŐSÉG ELŐÍRÁSA
 
@@ -224,4 +224,4 @@ ________________
 
 4 A teljes nevet fel kell tűntetni.
 
-[^31]: A 4. számú mellékletet a 64/2011. (VII. 11.) VM rendelet 2. §-a iktatta be. E módosító rendelet 4. § (1) bekezdése alapján – a 2011. július 14-én a végső fogyasztó számára már forgalmazásra kerülő termékek kivételével – a már forgalomba hozott termékekre is alkalmazni kell.
+[^32]: A 4. számú mellékletet a 64/2011. (VII. 11.) VM rendelet 2. §-a iktatta be. E módosító rendelet 4. § (1) bekezdése alapján – a 2011. július 14-én a végső fogyasztó számára már forgalmazásra kerülő termékek kivételével – a már forgalomba hozott termékekre is alkalmazni kell.
