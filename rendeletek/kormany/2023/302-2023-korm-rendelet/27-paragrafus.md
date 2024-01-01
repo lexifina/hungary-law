@@ -1,0 +1,1 @@
+27. § A családi otthonteremtési kedvezményre való jogosultságot és a kedvezmény mértékét a kérelem benyújtásakor hatályos jogszabályok alapján kell megállapítani. A jogosultság feltételeinek meglétét az igénylő a 30. § (1) bekezdése szerinti dokumentumokkal igazolja a hitelintézet számára.

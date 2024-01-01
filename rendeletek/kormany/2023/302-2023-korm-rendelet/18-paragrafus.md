@@ -1,0 +1,1 @@
+18. § A 15. § (7) bekezdés i) pontja, illetve a 17. § (1) bekezdése szerinti időszakban a lakásra a támogatott személynek lakásbiztosítással kell rendelkeznie. A lakásbiztosítás jellemzőit a támogatási szerződés tartalmazza.

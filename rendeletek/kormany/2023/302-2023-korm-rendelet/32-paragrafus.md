@@ -1,0 +1,1 @@
+32. § A nem magyar állampolgár támogatott személy a tartózkodási jogosultsága fennállását évente, legkésőbb január 31-ig igazolja a hitelintézet részére. A nem magyar állampolgár támogatott személy a tartózkodási jogosultságában bekövetkezett változást 8 napon belül köteles a hitelintézetnek bejelenteni.

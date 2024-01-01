@@ -1,0 +1,1 @@
+62. § Felhatalmazást kap az általános politikai koordinációért felelős miniszter, hogy az e rendelet szerinti családi otthonteremtési kedvezményre és az otthonteremtési kamattámogatásra vonatkozó hitelintézeti reklámok, hirdetések részletes szabályait rendeletben állapítsa meg.
