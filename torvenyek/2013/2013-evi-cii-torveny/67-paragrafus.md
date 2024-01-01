@@ -12,13 +12,13 @@ e) a nem fogható hal és más hasznos víziállat kifogását (gyűjtését) me
 
 f) a halgazdálkodási kíméleti területen a tilalom feloldásáig halászati, horgászati vagy egyéb tevékenységet – ideértve gépi meghajtású vízi jármű használatát –, vadászatot, fürdőzést végző;
 
-g) a halfogásra jogosító okmányok nélkül halfogásra alkalmas állapotban lévő eszközzel halgazdálkodási vízterületen vagy annak partján tartózkodó és a 43. § (2) bekezdés a) pontja szerinti pótlást elmulasztó;
+g) a horgászokmányok vagy halászati engedély nélkül halfogásra alkalmas állapotban lévő eszközzel halgazdálkodási vízterületen vagy annak partján, haltermelési létesítményen vagy annak partján tartózkodó és a 38. § (4) bekezdés a) pontja vagy a 39. § (12) bekezdés a) pontja szerinti pótlást elmulasztó;
 
 h) a törvényben foglalt tilalmakat és korlátozásokat megszegve halfogásra alkalmas állapotban lévő eszközzel halgazdálkodási vízterületen vagy annak partján tartózkodó;
 
-i) a horgász regisztráció, a halászati engedély, állami horgászjegy, turista állami horgászjegy, állami halászjegy igénylése, halfogásra jogosító okmány kiváltása során valótlan adatot szolgáltató, illetve a halfogásra jogosító okmány kiváltására nem jogosult személy részére okmányt értékesítő;
+i) a horgász regisztráció, a halászati engedély, állami horgászokmány igénylése és kiváltása során valótlan adatot szolgáltató, illetve a horgászokmány kiváltására nem jogosult személy részére okmányt értékesítő;
 
-j) halfogásra jogosító okmányok nélkül halfogásra alkalmas állapotban lévő horgászkészséggel haltermelési létesítményen vagy annak partján tartózkodó és a 43. § (2) bekezdés a) pontja szerinti pótlást elmulasztó;
+j)
 
 k) a hal élőhelyén kialakult természeti egyensúly megbontására alkalmas szervezetet, táplálékanyagot, szennyezőanyagot halgazdálkodási vízterületre kijuttató;
 
@@ -62,7 +62,7 @@ személlyel szemben.
 
 (4) A halgazdálkodási hatóság halvédelmi bírságot szab ki az igazolatlan eredetű, nem nyomon követhető halat, halterméket vagy más hasznos víziállatot forgalmazó természetes vagy jogi személlyel szemben.
 
-(5) A halgazdálkodási hatóság halvédelmi bírságot szab ki a 38. § (2) bekezdése alapján kiadott halászati engedély 38. § (3) bekezdésében meghatározott rendelkezését megsértő természetes személlyel vagy jogi személlyel szemben.
+(5) A halgazdálkodási hatóság halvédelmi bírságot szab ki a 38. § (2) bekezdése alapján kiadott halászati engedély 38. § (8) bekezdésében meghatározott rendelkezését megsértő természetes személlyel vagy jogi személlyel szemben.
 
 (6) A halgazdálkodási hatóság az általa kiszabott halvédelmi bírság fizetési kötelezettségének teljesítése érdekében a halvédelmi bírság megfizetésére kötelezett részére fizetési halasztást vagy részletekben történő teljesítést (a továbbiakban együtt: fizetési könnyítés) engedélyezhet, amennyiben a kötelezett a teljesítési határidő lejárta előtt fizetési könnyítést kérelmez, továbbá a fizetési nehézség a kérelmezőnek nem róható fel, vagy annak elkerülése érdekében úgy járt el, ahogy az az adott helyzetben tőle elvárható.
 

@@ -8,6 +8,8 @@ b) a horgászokra, a rekreációs halászokra, valamint a tagjának vagy tagszer
 
 meghatározott közfeladatokat látja el.
 
+(1a) A horgászszövetség a horgászsport tekintetében ellátja a sportról szóló 2004. évi I. törvényben (a továbbiakban: Stv.) az országos sportági szakszövetség számára meghatározott feladatokat. A horgászszövetség az országos sportági szakszövetségi feladatokat – az e törvény szerinti közfeladatainak ellátásához kapcsolódó szervezeti működésére tekintettel – külön erre irányuló bírósági nyilvántartásba vétel nélkül is elláthatja. A horgászszövetséget megfelelően megilletik az Stv. által az országos sportági szakszövetségekre vonatkozóan meghatározott jogok és terhelik az Stv.-ben meghatározott kötelezettségek.
+
 (2) A vízterületek halállományának, életközösségének fenntartása és védelme, az élőhelynek megfelelő állományi sokszínűség fenntartása és kialakítása érdekében előírt feladatok:
 
 a) az őshonos halfajok állományi védelmének elősegítése,

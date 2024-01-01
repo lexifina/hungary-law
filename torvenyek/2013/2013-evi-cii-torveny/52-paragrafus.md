@@ -1,6 +1,6 @@
 ## 16. Halgazdálkodási adatok szolgáltatása és gyűjtése
 
-52. § (1) A halgazdálkodásra jogosult – e törvény végrehajtására kiadott rendeletben meghatározottak szerint – minden tervezett haltelepítését köteles a telepítés napját megelőzően legalább 3 nappal megelőzően bejelenteni a halgazdálkodási hatóságnak, valamint a horgászszövetségnek, majd a ténylegesen kihelyezett halmennyiségekről a telepítés napját követő 8 napon belül a telepítést megelőző bejelentéssel megegyező formában és módon realizációs bejelentésben köteles beszámolni.
+52. § (1) A halgazdálkodásra jogosult – e törvény végrehajtására kiadott rendeletben meghatározottak szerint – minden tervezett haltelepítését köteles bejelenteni a halgazdálkodási hatóságnak, valamint a horgászszövetségnek, majd a ténylegesen kihelyezett halmennyiségekről bejelentésben köteles beszámolni.
 
 (2) A halgazdálkodási hatóság a haltelepítéseket a helyszínen ellenőrizheti, a dokumentumokba betekinthet.
 

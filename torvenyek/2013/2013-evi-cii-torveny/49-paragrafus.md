@@ -1,6 +1,6 @@
-49. § (1) A halgazdálkodásra jogosult köteles 5 évre szóló halgazdálkodási tervet készíteni minden olyan nyilvántartott halgazdálkodási vízterületre, amelyre nézve területi jegyet ad ki, vagy amelyen horgászati célú haltermelést végez. A halgazdálkodási tervet a halgazdálkodási hatóság hagyja jóvá.
+49. § (1) A halgazdálkodásra jogosult köteles halgazdálkodási tervet készíteni minden olyan nyilvántartott halgazdálkodási vízterületre, amelyre nézve területi jegyet ad ki, vagy amelyen horgászati célú haltermelést végez. A halgazdálkodási tervet a halgazdálkodási hatóság hagyja jóvá.
 
-(1a) A soron következő halgazdálkodási terv, – ha a haszonbérleti szerződés 5 éven belül jár le – a haszonbérleti szerződés érvényességének utolsó napjáig szóló időszakra hagyható jóvá.
+(1a) A halgazdálkodási terv legfeljebb a haszonbérleti szerződés érvényességének utolsó napjáig szóló időszakra hagyható jóvá.
 
 (2) Ha a halgazdálkodási terv jóváhagyását követően a halállomány vagy a hal élőhelyének állapotában bekövetkezett jelentős változás miatt szükséges, a halgazdálkodási hatóság a halgazdálkodásra jogosult által benyújtott halgazdálkodási terv módosítását jóváhagyja, vagy a halgazdálkodási tervet hivatalból módosítja.
 

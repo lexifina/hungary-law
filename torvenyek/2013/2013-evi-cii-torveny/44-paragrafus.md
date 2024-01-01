@@ -1,6 +1,8 @@
-## 13. A területi jegy
+## 13. A területi jegy és a kiegészítő jegy
 
 44. § (1) A halgazdálkodásra jogosult területi jegy adásával a feljogosított személy részére horgászati vagy rekreációs halászati lehetőséget biztosíthat. Területi jegyet két vagy több halgazdálkodásra jogosult együttesen is kiadhat.
+
+(1a) A nyilvántartott halgazdálkodási vízterületre kiadott területi jegy térbeli, időbeli vagy halfogási módszerre, lehetőségre vonatkozó kiterjesztése céljából a halgazdálkodásra jogosult kiegészítő jegyet adhat ki. A kiegészítő jegy kizárólag az adott nyilvántartott halgazdálkodási vízterületre kiadott területi jeggyel együtt érvényes.
 
 (2) Területi jegy csak nyilvántartott halgazdálkodási vízterületre adható ki.
 

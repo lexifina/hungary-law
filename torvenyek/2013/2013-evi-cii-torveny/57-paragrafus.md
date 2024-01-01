@@ -12,9 +12,9 @@ b) a működési helye szerinti halgazdálkodási hatóság által kiadott szolg
 
 (4) A társadalmi halőr jogosult
 
-a) a halfogásra jogosító okmányok ellenőrzésére és a 45. § (1) bekezdése alapján azok átvételére,
+a) a horgászokmányok és halászati engedélyek ellenőrzésére és a 45. § (1) bekezdése alapján azok átvételére,
 
-b) halászati, horgászati jogsértés gyanúja esetén a halfogásra jogosító okmányok visszatartására a hivatásos halőrnek történő átadásáig, illetve bűncselekmény vagy szabálysértés gyanúja esetén a halfogásra jogosító okmányok visszatartására a hivatásos halőr vagy a rendőrség megérkezéséig,
+b) halászati, horgászati jogsértés gyanúja esetén a horgászokmányok vagy halászati engedélyek visszatartására a hivatásos halőrnek történő átadásáig, illetve bűncselekményre vagy szabálysértésre utaló körülmény esetén a horgászokmányok vagy halászati engedélyek visszatartására a hivatásos halőr vagy a rendőrség megérkezéséig,
 
 c) a kifogott hal fajának, méretének, tömegének ellenőrzésére, valamint halászati, horgászati jogsértés gyanúja esetén
 
@@ -22,4 +22,4 @@ ca) a hal visszatartására a hivatásos halőr megérkezéséig, vagy
 
 cb) a hal visszaengedésére.
 
-(5) A társadalmi halőr jogosult a (4) bekezdésben foglalt intézkedése keretében a halfogásra jogosító okmányokban foglalt személyes adatok kezelésére az intézkedése alapján indult eljárás megindításáig.
+(5) A társadalmi halőr jogosult a (4) bekezdésben foglalt intézkedése keretében a horgászokmányokban vagy halászati engedélyekben foglalt személyes adatok kezelésére az intézkedése alapján indult eljárás megindításáig.

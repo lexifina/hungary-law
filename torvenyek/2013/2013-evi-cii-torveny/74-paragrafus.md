@@ -19,3 +19,7 @@
 (8)
 
 (9) Azon nyilvántartott halgazdálkodási vízterület esetében, melyen a haszonbérleti szerződés 2015. december 31-ig megszűnik és az államot megillető halgazdálkodási jog kijelöléssel történő haszonbérbe adása, vagy vagyonkezelési szerződés útján történő átengedése nem valósul meg, – amennyiben a haszonbérlő legkésőbb 2015. december 31-ig nem kezdeményezi a haszonbérleti szerződés megszüntetését, illetve a halgazdálkodási jog gyakorlásáról nem mond le – a haszonbérleti szerződés időtartamának meghosszabbított hatálya 2016. december 31. A meghosszabbítás időtartamára vonatkozóan a haszonbérlő halgazdálkodási terv készítésére kötelezett.
+
+(10) Az állami horgászvizsga letételének igazolására 2024. január 1-jét követően a horgászszövetségi szakrendszerben regisztrálók esetében a 2019. január 1-jét követően kiállított horgászvizsga bizonyítvány fogadható el.
+
+(11) Az állami horgászjegy és horgász fogási napló kiváltásához korábbi érvényes horgászjegy bemutatásakor 2024. január 1-jét követően a horgászszövetségi szakrendszerben 2019. január 1-jét követően rögzített horgászjegy fogadható el.

@@ -6,7 +6,7 @@
 
 2. csatorna: egy vagy egyidejűleg több vízgazdálkodási feladat (vízátvezetés, vízpótlás, belvízelvezetés, mezőgazdasági és egyéb vízszolgáltatás) ellátására alkalmas vízilétesítmény;
 
-3. fogási napló: a horgászat vagy halászat során kifogott halak – nyilvántartott halgazdálkodási vízterületenkénti, halfajonkénti, naponta kifogott mennyiségenkénti – kötelező bejegyzésére rendszeresített űrlap;
+3. fogási napló: a horgászat vagy halászat napjainak, az azok során kifogott halak – halgazdálkodási vízterületenkénti, halfajonkénti, vagy halkategóriánkénti, naponta kifogott mennyiségenkénti – kötelező bejegyzésére rendszeresített űrlap vagy elektronikus alkalmazás;
 
 3a. gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet;
 
@@ -50,13 +50,21 @@ felhasználásával történik;
 
 16a. horgászati célú halgazdálkodás: olyan halgazdálkodási forma, ahol a fő tevékenység a horgászat vagy a horgászathoz szükséges halállomány biztosítása;
 
-17. horgászkészség: horgászati célú, halfogásra alkalmas eszköz, amely legalább horgászbotból, horgászzsinórból áll, és legfeljebb három horoggal van felszerelve;
+16b. horgászkészség: horgászati célú, halfogásra alkalmas eszköz, amely legalább horgászbotból, horgászzsinórból áll, és legfeljebb három horoggal van felszerelve;
+
+17. horgászokmány: az állami horgászokmánynak minősülő Magyar Horgászkártya, az állami horgászjegy, a horgász fogási napló, a turista állami horgászjegy, az állami halászjegy, a halász fogási napló, valamint a területi jegy és a kiegészítő területi jegy;
 
 17a. horgászszervezet: a horgászszövetség, valamint annak bírósági nyilvántartásba vett horgászati célú halgazdálkodást folytató tagszervezete, cégbíróságon bejegyzett, horgászati célú halgazdálkodást folytató gazdálkodó szervezet tagja, továbbá a bírósági nyilvántartásba vett horgászegyesület;
 
 17b. horgászszövetség: a Magyar Országos Horgász Szövetség mint a horgászok és a horgászszervezetek országos érdekképviseletét és koordinációját ellátó, bírósági nyilvántartásba vett szervezet;
 
+17c. horgászszövetségi applikáció: a horgászszövetség kizárólagos tulajdonában álló és a megbízásából üzemeltetett, térítésmentesen letölthető, a nyilvántartott horgászok, illetve a gondviselő esetében a horgászszövetségi szakrendszer adatait felhasználó, illetve oda adatokat biztosító, mobil eszközökre optimalizált online informatikai alkalmazás, amely térerőtől függetlenül alkalmas a nyilvántartási adatok, az érvényes horgászokmányok és az állami horgászvizsga hiteles igazolására, a horgásznapi jelenléti és az elviteli fogási adatok rögzítésére;
+
+17d. horgászszövetségi szakrendszer: a horgászok és a gondviselők regisztrációs, nyilvántartási és horgászokmány-kiadási, állami horgászvizsgáztatási, valamint a horgászszervezetek támogatását és az elektronizációt szolgáló, a horgászszövetség kizárólagos tulajdonában álló és a megbízásából üzemeltetett online informatikai rendszer;
+
 18. ívóhely: az ivarérett halak csoportosan vagy párosan felkeresett szaporodási helye, ahol az ívási felület és az ívási feltételek rendelkezésre állnak a szaporodáshoz;
+
+18a. kiegészítő jegy: olyan, a halgazdálkodásra jogosult által kiadható, a területi jegyhez kapcsolódó horgászokmány, amely a területi jeggyel nem biztosított, a horgászrendben meghatározott opcionális vagy speciális kiegészítő horgászati lehetőségeket külön díj fizetése ellenében, meghatározott időszakra biztosítja;
 
 19. más hasznos víziállat: a rák, a béka, a kagyló, a pióca, a csővájó féreg, az árvaszúnyog, egyéb haltáplálék-szervezet, valamint ezek egyedfejlődési alakjai;
 
@@ -68,7 +76,7 @@ felhasználásával történik;
 
 23. telepítés: a hal vagy más hasznos víziállat egyedének vagy állományának hasznosítási céllal történő kihelyezése halgazdálkodási vízterületre;
 
-24. turista állami horgászjegy: olyan, magyar és külföldi állampolgárok számára, meghatározott díj ellenében, meghatározott időszakra, meghatározott szabályok szerinti horgászatra feljogosító állami horgászjegy, amely a törvény hatálya alá tartozó vízterületeken lehetővé teszi a horgászatot;
+24. területi jegy: olyan, a halgazdálkodásra jogosult által kiadható horgászokmány, amely a horgászrendben meghatározott általános horgászati lehetőségeket a megjelölt nyilvántartott halgazdálkodási vízterületen díj fizetése ellenében, meghatározott időszakra biztosítja;
 
 25. vermelőhely: a vizek azon mederrésze, általában mélyebb mederalakulata, amelyet a halak a téli, hideg vízhőmérsékletű időszakban csoportosan vagy tömegesen felkeresnek, és ahol viszonylagos nyugalmi állapotban töltik a téli időszakot;
 

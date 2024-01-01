@@ -16,7 +16,7 @@ e) a kiadott halászati engedélyek és engedélyesek adatai, a kiadott fogási 
 
 f) a halászati engedély, állami halászjegy, illetve állami horgászjegy alapján végzett halfogások adatai,
 
-g) a 42. § (1) bekezdésében meghatározott nyilvántartás adatai.
+g) a 38/A. § (1) bekezdésében meghatározott nyilvántartás adatai.
 
 (4) Az Adattár működtetése céljából:
 

@@ -28,7 +28,7 @@ c)
 
 (7) Az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény szerint alkalmazott hivatásos halőr az ott meghatározott intézkedések és kényszerítő eszközök alkalmazásán túl a halgazdálkodási vízterületen és annak partján jogosult:
 
-a) azt a személyt, aki halgazdálkodási vízterületen, haltermelési létesítményen, vagy azok partján halászik, horgászik, halfogásra alkalmas állapotban lévő halászeszközzel vagy horgászkészséggel tartózkodik, illetve egyéb, hal fogására irányuló tevékenységet végez, vagy ahhoz előkészül, valamint más hasznos víziállatot gyűjt, a személyazonosságot igazoló és a halfogásra jogosító okmányok bemutatására felszólítani,
+a) azt a személyt, aki halgazdálkodási vízterületen, haltermelési létesítményen, vagy azok partján halászik, horgászik, halfogásra alkalmas állapotban lévő halászeszközzel vagy horgászkészséggel tartózkodik, illetve egyéb, hal fogására irányuló tevékenységet végez, valamint más hasznos víziállatot gyűjt, a személyazonosság igazolására alkalmas hatósági igazolvány és a horgászokmányok vagy halászati engedély bemutatására felszólítani,
 
 b) a halászó, horgászó személyt a birtokában lévő hal kifogására való jogosultságának igazolására felszólítani, a jogosultság hiányában kifogott, illetve birtokolt halat a vízbe kíméletesen visszahelyeztetni, az élettelen halat elismervény ellenében visszatartani,
 
@@ -58,7 +58,7 @@ f) az e törvény végrehajtására kiadott rendeletben, illetve a helyi horgás
 
 (7a) Az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény szerint alkalmazott hivatásos halőr az ott meghatározott intézkedések és kényszerítő eszközök alkalmazásán túl a haltermelési létesítményen és annak partján jogosult:
 
-a) azt a személyt, aki a haltermelési létesítményen, annak partján horgászik, vagy ahhoz előkészül, a halfogásra jogosító okmányok bemutatására felszólítani,
+a) azt a személyt, aki a haltermelési létesítményen, annak partján horgászik, a horgászokmányok bemutatására felszólítani,
 
 b) a horgászó személyt a birtokában lévő hal kifogására való jogosultságának igazolására felszólítani, a jogosultság hiányában kifogott halat a vízbe kíméletesen visszahelyeztetni, az élettelen halat elismervény ellenében visszatartani,
 

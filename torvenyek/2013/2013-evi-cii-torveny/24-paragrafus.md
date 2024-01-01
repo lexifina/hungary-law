@@ -10,7 +10,7 @@ ab) az állam 100%-os tulajdonában álló olyan gazdálkodó szervezet részér
 
 b) az a) pontba nem tartozó nyilvántartott halgazdálkodási vízterület esetén haszonbérleti szerződéssel
 
-ba) a miniszter általi kijelölés útján a horgászszövetség részére,
+ba) a miniszter általi kijelölés útján a horgászszövetség vagy mintagazdaság részére,
 
 bb) nyilvános pályáztatás útján természetes személy vagy jogi személy részére.
 
