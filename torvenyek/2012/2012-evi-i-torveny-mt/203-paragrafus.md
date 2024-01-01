@@ -30,7 +30,7 @@ n) a 208–211. §-ban
 
 foglaltak nem alkalmazhatók.
 
-(2) A munkaviszony megszűnésekor a 80. §-ban meghatározott igazolásokat nem kell kiadni.
+(2)
 
 (3) A napi munkaidő – munkaidőkeret vagy elszámolási időszak hiányában is – beosztható egyenlőtlenül.
 
