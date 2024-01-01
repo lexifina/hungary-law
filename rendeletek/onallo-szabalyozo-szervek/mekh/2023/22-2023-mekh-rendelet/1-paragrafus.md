@@ -1,0 +1,1 @@
+1. § E rendelet hatálya a víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény (a továbbiakban: Vksztv.) 31/A. § (1) bekezdése szerinti ideiglenes szolgáltatást végző szerződött víziközmű-szolgáltatókra (a továbbiakban: víziközmű-szolgáltató) terjed ki.
