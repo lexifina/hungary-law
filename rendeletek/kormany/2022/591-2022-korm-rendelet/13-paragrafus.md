@@ -15,3 +15,7 @@ b) belépni a folyamatban lévő peres és nemperes eljárásokba.
 (5) Az (1) bekezdésben meghatározott feladatokhoz kapcsolódó egyéb jogviszonyokban, az azokhoz kapcsolódó biztosítéki és egyéb szerződésekben, részletfizetési megállapodásokban, együttműködési megállapodásokban, valamint mindezekhez kapcsolódó valamennyi jog és kötelezettség tekintetében 2023. január 1-jétől az NRÜ Zrt. a Nemzeti Sportügynökség és az MTÜ jogutódja, amelyhez harmadik fél hozzájárulása nem szükséges, a jogutódlásról a szerződésben, megállapodásban részes feleket értesíteni kell.
 
 (6) Az (5) bekezdésben foglalt rendelkezés nem terjed ki a 2023. június 30-i, vagy azt megelőző felhasználási záródátumú azon támogatási szerződésekre, amelyek az e rendelet hatályba lépéséig megrendezett sporteseményekkel összefüggésben kerültek megkötésre.
+
+(7)[^9] A 2023. január 1-jét követően megrendezésre kerülő sportesemények megszervezésével kapcsolatos feladatokra 2022. december 31-ig létrejött és 2023. december 31. napján folyamatban lévő támogatási jogviszonyok tekintetében a Nemzeti Sportügynökség az NRÜ Zrt. jogutódja, amelyhez harmadik fél hozzájárulása nem szükséges, a jogutódlásról a szerződésben, megállapodásban részes feleket értesíteni kell.
+
+[^9]: A 13. § (7) bekezdését az 576/2023. (XII. 18.) Korm. rendelet 1. §-a iktatta be.
