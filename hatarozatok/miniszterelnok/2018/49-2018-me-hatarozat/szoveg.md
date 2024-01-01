@@ -30,7 +30,7 @@ dr. Schmitt Pál Pétert
 
 – 2018. június 6-ai hatállyal –,
 
-dr. Kretter Diánát és
+dr. Kretter Diánát[^1] és
 
 Tarjánné dr. Molnár Eleonórát
 
@@ -43,3 +43,5 @@ Szalay-Bobrovniczky Vincét
 a Miniszterelnökség helyettes államtitkárává
 
 kinevezem.
+
+[^1]: A 109/2023. (XII. 22.) ME határozat alapján dr. Kretter Diána tekintetében akként módosul, hogy a „Miniszterelnökség” szövegrész helyébe a „Közigazgatási és Területfejlesztési Minisztérium” szöveg lép.
