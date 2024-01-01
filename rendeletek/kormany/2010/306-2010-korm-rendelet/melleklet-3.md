@@ -1,3 +1,3 @@
-3. melléklet a 306/2010. (XII. 23.) Korm. rendelethez[^142]
+3. melléklet a 306/2010. (XII. 23.) Korm. rendelethez[^147]
 
-[^142]: A 3. melléklet a 10/2016. (II. 9.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^147]: A 3. melléklet a 10/2016. (II. 9.) Korm. rendelet 2. §-a szerint módosított szöveg.

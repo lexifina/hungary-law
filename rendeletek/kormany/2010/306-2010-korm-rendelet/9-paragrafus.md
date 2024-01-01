@@ -42,11 +42,11 @@ a regionális laboratóriumot üzemeltető vármegyei kormányhivatal bevonásá
 
 (3) A levegőterheltségi vizsgálatok kiterjednek minden olyan légköri (időjárási) jelenségre is, amely a levegő minőségét bármilyen módon és mértékben befolyásolhatja.
 
-(4) Az OLM által mért levegőterheltségi adatok interneten keresztül történő elérhetőségét, és a nyilvánosság folyamatos tájékoztatását, a környezetvédelemért felelős miniszter által vezetett minisztérium honlapja biztosítja.
+(4)[^44] Az OLM által mért levegőterheltségi adatok interneten keresztül történő elérhetőségét, és a nyilvánosság folyamatos tájékoztatását, a környezetvédelemért felelős miniszter az LRK útján biztosítja.
 
 (5) A levegőterheltségi szintet átlagértékek mutatják be. A tájékoztatás szennyezőanyagonként a határértékeket, a célértékeket, a tájékoztatási és riasztási küszöbértékeket, és a túllépéseket, továbbá az egyes légszennyező anyagok emberi egészségre, illetve a természetes környezetre gyakorolt hatásait tartalmazza.
 
-(6)[^44] A levegőterheltségi szint adatai
+(6)[^45] A levegőterheltségi szint adatai
 
 a) a folyamatosan mért kén-dioxid, nitrogén-dioxid, PM10, PM2,5, ózon és szén-monoxid esetén legalább napi, a benzol által okozott levegőterheltségi szint – 12 hónap átlagértékeinek formájában megadott – adatai legalább háromhavi,
 
@@ -59,4 +59,5 @@ c) az egyéb időszakos mérés esetén az értékelések éves
 [^41]: A 9. § (1b) bekezdését a 292/2015. (X. 8.) Korm. rendelet 14. §-a iktatta be.
 [^42]: A 9. § (2) bekezdése a 292/2015. (X. 8.) Korm. rendelet 15. §-ával megállapított szöveg.
 [^43]: A 9. § (2a) bekezdését a 292/2015. (X. 8.) Korm. rendelet 16. §-a iktatta be, záró szövegrésze a 20/2017. (II. 2.) Korm. rendelet 8. §-a, a 616/2022. (XII. 29.) Korm. rendelet 116. §-a szerint módosított szöveg.
-[^44]: A 9. § (6) bekezdése a 292/2015. (X. 8.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^44]: A 9. § (4) bekezdése az 591/2023. (XII. 20.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^45]: A 9. § (6) bekezdése a 292/2015. (X. 8.) Korm. rendelet 17. §-ával megállapított szöveg.
