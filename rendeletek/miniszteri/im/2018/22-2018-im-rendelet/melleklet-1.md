@@ -1,4 +1,4 @@
-1. melléklet a 22/2018. (VIII. 23.) IM rendelethez[^27]
+1. melléklet a 22/2018. (VIII. 23.) IM rendelethez[^33]
 
 Egyoldalú kötelezettségvállaló nyilatkozat minta a 37/B. §-hoz
 
@@ -20,6 +20,8 @@ Alulírott Adós / Adósok kötelezi magát / kötelezik magukat arra, hogy a K�
 
 – új lakóingatlan vásárlása /
 
+– új lakóingatlan vásárlása, valamint ezen ingatlan bővítése /
+
 – használt lakóingatlan vásárlása /
 
 – használt lakóingatlan felújításának finanszírozása /
@@ -34,7 +36,7 @@ Alulírott Adós / Adósok kötelezi magát / kötelezik magukat arra, hogy a K�
 
 a saját erő kiegészítéseként.
 
-3. A Kamattámogatás jogalapja: az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló 16/2016. (II. 10.) Korm. rendelet / a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló 17/2016. (II. 10.) Korm. rendelet / az otthonteremtési kamattámogatásról szóló 341/2011. (XII. 29.) Korm. rendelet / a fiatalok, valamint a többgyermekes családok lakáscélú kölcsöneinek állami támogatásáról szóló 134/2009. (VI. 23.) Korm. rendelet (a továbbiakban: Rendelet).
+3. A Kamattámogatás jogalapja: az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló 16/2016. (II. 10.) Korm. rendelet / a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló 17/2016. (II. 10.) Korm. rendelet / az otthonteremtési kamattámogatásról szóló 341/2011. (XII. 29.) Korm. rendelet / a fiatalok, valamint a többgyermekes családok lakáscélú kölcsöneinek állami támogatásáról szóló 134/2009. (VI. 23.) Korm. rendelet / a kistelepüléseken nyújtható otthonteremtési támogatásokról szóló 302/2023. (VII. 11.) Korm. rendelet / a családok otthonteremtését támogató kedvezményes CSOK Plusz hitelprogramról szóló 518/2023. (XI. 30.) Korm. rendelet (a továbbiakban: Rendelet).
 
 4. A Kölcsön adatai:
 
@@ -68,7 +70,7 @@ Ha az első esedékesség napja a hónap 29. (huszonkilencedik), 30. (harmincadi
 
 5.4. A Kamattámogatással érintett időszak: ...... év / hónap, azaz ...... év / hónap. A Kamattámogatással érintett időszak a folyósítást követő napon / a használatbavételi engedély / használatbavétel tudomásulvételét igazoló hatósági bizonyítvány / az egyszerű bejelentéshez kötött épület felépítésének megtörténtéről szóló hatósági bizonyítvány bemutatását követő napon kezdődik. A Kamattámogatással érintett időszak kezdetéig az Adós / Adósok a szerződéses ügyleti kamatot köteles / kötelesek megfizetni a Hitelező részére.
 
-5.5. A kamatperiódus időtartama: a szerződéses ügyleti kamat, és az Adós / Adósok által fizetendő kamat mértéke kamatperiódusonként változó mértékű, pontos mértékét a folyósítás napján és az egyes kamatperiódusok kezdő napján a Hitelező állapítja meg. Az első kamatperiódus kezdő időpontja – várhatóan – ...... (......) év ...... hónap ...... (......) napja, a kamatperiódusok a kezdő időponttól számított ......, azaz ...... éves időtartamúak, a futamidő lejártáig. Az Adós / Adósok által fizetendő kamat az egyes kamatperiódusok alatt nem változtatható.
+5.5. A kamatperiódus időtartama: a szerződéses ügyleti kamat, és az Adós/Adósok által fizetendő kamat mértéke kamatperiódusonként változó mértékű, pontos mértékét a folyósítás napján és az egyes kamatperiódusok kezdő napján a Hitelező állapítja meg. Az első kamatperiódus kezdő időpontja – várhatóan – ...... (......) év ...... hónap ...... (......) napja, a kamatperiódusok a kezdő időponttól számított ......, azaz ...... éves / változó kamatperiódus esetén a kezdő időponttól számított egymást követő ......-......-...... azaz ......-......-...... éves, ezt követően ......, azaz ...... éves időtartamúak, a futamidő lejártáig. Az Adós/Adósok által fizetendő kamat az egyes kamatperiódusok alatt nem változtatható.
 
 5.6. A késedelmi kamat mértéke a Kölcsönszerződés létrejöttekor: évi ......%, azaz ...... százalék.
 
@@ -138,9 +140,11 @@ Ha a Zálogtárgyként lekötött ingatlanra bármilyen ügyben végrehajtási j
 
 11.2. Ha az Adósnak/Adósoknak a Kölcsönszerződés szerinti Kölcsön és az ahhoz kapcsolódó Kamattámogatás igénybevételéhez szükséges feltételek meglétével kapcsolatos, a Hitelező vagy az igénybevétel feltételeire vonatkozó igazolást kibocsátó részére tett nyilatkozata valótlan adatot tartalmaz, akkor a folyósított összeget az igénybevétel napjától jogszabály szerint számított kamatával együtt köteles / kötelesek visszafizetni. A támogatás visszavonásának napjától kezdődően az Adós/Adósok a Kölcsönszerződés szerinti szerződéses ügyleti kamat mindenkori hatályos mértékét köteles/kötelesek megfizetni a Hitelezőnek.
 
-11.3. Ha az Adós / Adósok bármelyike a Kölcsönszerződés saját magára vonatkozóan történő megszüntetését kezdeményezi, és a kölcsönkérelem benyújtásakor a Rendeletben foglalt feltétel személyére vonatkozóan teljesült, az Adóst / Adósokat Kamattámogatás-visszafizetési kötelezettség nem terheli, azonban a kötelemben maradó Adós / Adósok a Kamattámogatásra a Kölcsönszerződés módosítását követően − a Kölcsönszerződésben megjelölt kivétellel − nem jogosult / jogosultak.[^10.]
+11.3. Ha az Adós/Adósok bármelyike a Kölcsönszerződés saját magára vonatkozóan történő megszüntetését kezdeményezi, és a kölcsönkérelem benyújtásakor a Rendeletben foglalt feltétel személyére vonatkozóan teljesült, az Adóst/Adósokat Kamattámogatás-visszafizetési kötelezettség nem terheli, azonban a kötelemben maradó Adós/Adósok a Kamattámogatásra a Kölcsönszerződés módosítását követően − a Kölcsönszerződésben megjelölt kivétellel − nem jogosult/jogosultak.[^10.]
 
-11.4. Ha a Kamattámogatással érintett ingatlan vonatkozásában a támogatott személy / személyek valamelyike a Kölcsönszerződés módosításának időpontjáig a Rendeletben írt kötelezettségét nem teljesíti, az Adóst / Adósokat a Kamattámogatás igénybevételétől esedékes – a Rendelet szerinti kamatfizetési kötelezettséggel növelt – visszafizetési kötelezettség terheli, és a kötelemben maradó Adós / Adósok a Kamattámogatásra nem jogosult / jogosultak.[^11.]
+11.4. Ha a Kamattámogatással érintett ingatlan vonatkozásában a támogatott személy/személyek valamelyike a Kölcsönszerződés módosításának időpontjáig a Rendeletben írt kötelezettségét nem teljesíti, az Adóst/Adósokat a Kamattámogatás igénybevételétől esedékes – a Rendelet szerinti kamatfizetési kötelezettséggel növelt – visszafizetési kötelezettség terheli, és a kötelemben maradó Adós/Adósok a Kamattámogatásra nem jogosult/jogosultak.[^11.]
+
+11.5. Ha az Adós/Adósok a Kölcsönszerződés szerinti kamattámogatás összegét a gyermekvállalási határidő lejártát megelőzően önként visszafizeti/visszafizetik, akkor azt az igénybevételétől számított – a Rendelet szerinti mértékben növelt – kamattal együtt köteles/kötelesek visszafizetni.[^11/a.]
 
 II. A Jelzálogszerződésből eredő kötelezettségek[^12.]
 
@@ -198,7 +202,7 @@ V. Hiteles kiadmány
 
 Az Adós / Adósok és a Zálogkötelezett / Zálogkötelezettek /, valamint a Haszonélvező / Haszonélvezők (a továbbiakban: Ügyfél) akként rendelkeznek, hogy jelen közjegyzői okiratról hiteles kiadmány, másolat és bizonyítvány az Ügyfélnek, továbbá a Hitelezőnek és a Zálogjogosultnak adható ki.
 
-[^27]: Az 1. mellékletet a 21/2020. (XII. 31.) IM rendelet 2. §-a iktatta be, szövege a 2/2021. (III. 29.) IM rendelet 1. §-ával megállapított, a 16/2021. (XII. 1.) IM rendelet 2. §-a, a 32/2022. (XII. 22.) IM rendelet 2. §-a szerint módosított szöveg.
+[^33]: Az 1. mellékletet a 21/2020. (XII. 31.) IM rendelet 2. §-a iktatta be, szövege a 2/2021. (III. 29.) IM rendelet 1. §-ával megállapított, a 16/2021. (XII. 1.) IM rendelet 2. §-a, a 32/2022. (XII. 22.) IM rendelet 2. §-a, a 21/2023. (XII. 28.) IM rendelet 3. §-a szerint módosított szöveg.
 [^1.]: Az okiratminta kitöltése során tartalmi változtatásnak vagy kiegészítésnek nincs helye, annak szövege csak annyiban bővíthető, amennyiben a szöveg bővítését az okiratminta pontozott vonal használatával megengedi. A / jellel jelölt vagylagosság esetén kizárólag a megfelelő fordulatot kell feltüntetni, a többi törlendő. Az okiratmintából csak azok a szövegrészek hagyhatók el, amelyek elhagyását az okiratminta megengedi.
 [^2.]: Több adós esetén többször feltüntethető.
 [^3.]: Kizárólag több jogosult félként való részvétele esetén kell feltüntetni.
@@ -208,8 +212,9 @@ Az Adós / Adósok és a Zálogkötelezett / Zálogkötelezettek /, valamint a H
 [^7.]: Ha az előtörlesztési díj nincs maximalizálva, az erre vonatkozó fordulat törlendő.
 [^8.]: Kedvezmény alkalmazása hiányában a rendelkezés további szövege törlendő.
 [^9.]: Kizárólag akkor kell feltüntetni, ha a Kölcsönügylet tartalmaz erre vonatkozó rendelkezést.
-[^10.]: Kizárólag az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló 16/2016. (II. 10.) Korm. rendelet, a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló 17/2016. (II. 10.) Korm. rendelet, valamint az otthonteremtési kamattámogatásról szóló 341/2011. (XII. 29.) Korm. rendelet vonatkozásában létrejött Kölcsönszerződés esetén alkalmazandó.
-[^11.]: Kizárólag az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló 16/2016. (II. 10.) Korm. rendelet, a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló 17/2016. (II. 10.) Korm. rendelet, valamint az otthonteremtési kamattámogatásról szóló 341/2011. (XII. 29.) Korm. rendelet vonatkozásában létrejött Kölcsönszerződés esetén alkalmazandó.
+[^10.]: Kizárólag az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló 16/2016. (II. 10.) Korm. rendelet, a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló 17/2016. (II. 10.) Korm. rendelet, az otthonteremtési kamattámogatásról szóló 341/2011. (XII. 29.) Korm. rendelet, a kistelepüléseken nyújtható otthonteremtési támogatásokról szóló 302/2023. (VII. 11.) Korm. rendelet, valamint a családok otthonteremtését támogató kedvezményes CSOK Plusz hitelprogramról szóló 518/2023. (XI. 30.) Korm. rendelet vonatkozásában létrejött Kölcsönszerződés esetén alkalmazandó.
+[^11.]: Kizárólag az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló 16/2016. (II. 10.) Korm. rendelet, a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló 17/2016. (II. 10.) Korm. rendelet, az otthonteremtési kamattámogatásról szóló 341/2011. (XII. 29.) Korm. rendelet, a kistelepüléseken nyújtható otthonteremtési támogatásokról szóló 302/2023. (VII. 11.) Korm. rendelet, valamint a családok otthonteremtését támogató kedvezményes CSOK Plusz hitelprogramról szóló 518/2023. (XI. 30.) Korm. rendelet vonatkozásában létrejött Kölcsönszerződés esetén alkalmazandó.
+[^11/a.]: Kizárólag az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló 16/2016. (II. 10.) Korm. rendelet, valamint a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló 17/2016. (II. 10.) Korm. rendelet, a kistelepüléseken nyújtható otthonteremtési támogatásokról szóló 302/2023. (VII. 11.) Korm. rendelet, valamint a családok otthonteremtését támogató kedvezményes CSOK Plusz hitelprogramról szóló 518/2023. (XI. 30.) Korm. rendelet vonatkozásában létrejött Kölcsönszerződés esetén alkalmazandó.
 [^12.]: A haszonélvezőre vonatkozó szövegrészeket csak akkor kell feltüntetni, ha az ügyletben haszonélvező is szerepel, egyébként törlendő.
 [^13.]: Több zálogkötelezett esetén többször feltüntethető.
 [^14.]: Több haszonélvező esetén többször feltüntethető.
