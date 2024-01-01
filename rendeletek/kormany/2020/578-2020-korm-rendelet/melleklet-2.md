@@ -1,6 +1,6 @@
 2. melléklet az 578/2020. (XII. 14.) Korm. rendelethez
 
-## A FELIR nyilvántartásba vételi eljáráshoz szükséges adatok
+A FELIR nyilvántartásba vételi eljáráshoz szükséges adatok
 
 1. Az ügyfél azonosítására szolgáló adatok
 

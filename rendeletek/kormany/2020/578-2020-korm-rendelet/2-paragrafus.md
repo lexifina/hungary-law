@@ -8,7 +8,7 @@ a) az elektronikus ügyintézés és a bizalmi szolgáltatások általános szab
 
 b) természetes személyek személyesen vagy elektronikus úton
 
-## tehetik meg.
+tehetik meg.
 
 (3) A bejelentést elektronikus úton, a NÉBIH honlapján rendszeresített Ügyfélprofil Rendszeren keresztül kell benyújtani, a Központi Azonosítási Ügynök rendszeren keresztül történő azonosítást követően.
 

@@ -1,8 +1,8 @@
-## 10. §[^1] Ez a rendelet a megújuló energiaforrásokból előállított energia használatának előmozdításáról szóló, 2018. december 11-i (EU) 2018/2001 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+## 10. §[^3] Ez a rendelet a megújuló energiaforrásokból előállított energia használatának előmozdításáról szóló, 2018. december 11-i (EU) 2018/2001 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 1. melléklet az 578/2020. (XII. 14.) Korm. rendelethez
 
-## FELIR azonosító köteles tevékenységek
+FELIR azonosító köteles tevékenységek
 
 A következő tevékenységek kizárólag FELIR azonosító megléte esetén végezhetőek:
 
@@ -96,7 +96,7 @@ A következő tevékenységek kizárólag FELIR azonosító megléte esetén vé
 
 45. faanyag-kereskedelmi lánchoz tartozó tevékenység;
 
-46.[^2] a megújuló energiaforrásokból előállított energia használatát szolgáló biomassza, köztes termék, bioüzemanyag, folyékony bio-energiahordozók és biomasszából előállított tüzelőanyagok termeléséhez kapcsolódó gazdasági tevékenység.
+46.[^4] a megújuló energiaforrásokból előállított energia használatát szolgáló biomassza, köztes termék, bioüzemanyag, folyékony bio-energiahordozók és biomasszából előállított tüzelőanyagok termeléséhez kapcsolódó gazdasági tevékenység.
 
-[^1]: A 10. §-t a 824/2021. (XII. 28.) Korm. rendelet 8. §-a iktatta be.
-[^2]: Az 1. melléklet 46. pontja a 824/2021. (XII. 28.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^3]: A 10. §-t a 824/2021. (XII. 28.) Korm. rendelet 8. §-a iktatta be.
+[^4]: Az 1. melléklet 46. pontja a 824/2021. (XII. 28.) Korm. rendelet 9. §-ával megállapított szöveg.

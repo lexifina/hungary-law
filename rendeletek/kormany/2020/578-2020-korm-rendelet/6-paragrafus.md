@@ -10,12 +10,15 @@ c) az ügyfél elektronikus úton kezdeményezte a FELIR nyilvántartásba véte
 
 d) az ügyfél tevékenysége tekintetében a FELIR-ben nem történik adatforgalom egy naptári éven belül, és a NÉBIH felszólítása ellenére az ügyfél nem nyilatkozik 30 napon belül tevékenysége aktív állapotával kapcsolatban.
 
-(2) A NÉBIH a FELIR azonosító felfüggesztését megszünteti, és az azonosítót visszaállítja az ügyfél kérelmére, ha az ügyfél
+(2)[^1] A NÉBIH a FELIR azonosító felfüggesztését megszünteti, és az azonosítót hivatalból visszaállítja, ha az ügyfél
 
 a) a hatóság hozzájárulásával a tevékenység folytatására ismét jogosulttá válik, és ezt az eljáró szerv rögzíti a FELIR-ben,
 
 b) bejelenti szüneteltetett, megszüntetett tevékenysége újrakezdését, és azt az eljáró szerv rögzíti a FELIR-ben,
 
-c) új tevékenység megkezdését jelenti be, és a tevékenység végzése FELIR azonosító köteles,
+c) új tevékenység megkezdését jelenti be, mely tevékenység végzése FELIR azonosító köteles, és azt az eljáró szerv rögzíti a FELIR-ben.
 
-d) az (1) bekezdés d) pontja szerinti felfüggesztés esetén ezt kérelmezi, és nem áll fenn a FELIR azonosító felfüggesztésének az (1) bekezdés a)–c) pontjában meghatározott egyik esete sem.
+(3)[^2] A NÉBIH a FELIR azonosító felfüggesztését megszünteti, és az azonosítót az ügyfél kérelmére visszaállítja, ha az ügyfél az (1) bekezdés d) pontja szerinti felfüggesztés esetén ezt kérelmezi, és nem áll fenn a FELIR azonosító felfüggesztésének az (1) bekezdés a)–c) pontjában meghatározott egyik esete sem.
+
+[^1]: A 6. § (2) bekezdése az 596/2023. (XII. 21.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^2]: A 6. § (3) bekezdését az 596/2023. (XII. 21.) Korm. rendelet 12. §-a iktatta be.
