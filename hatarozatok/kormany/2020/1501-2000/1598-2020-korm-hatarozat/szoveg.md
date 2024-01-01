@@ -48,17 +48,9 @@ A Kormány a Klíma- és Természetvédelmi Akciótervben foglaltak alapján, az
 
 1.9. és úgy dönt, hogy az önkormányzati koordinációt – a Miniszterelnökség útján a fővárosi és megyei kormányhivatalok bevonásával – a Belügyminisztérium lássa el;
 
-2. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 38. Egyéb feladatok alcímnek a 36. Illegális hulladéklerakás felszámolásának támogatása jogcímcsoporttal történő kiegészítését;
+2.[^3]
 
-Felelős: pénzügyminiszter
-
-Határidő: azonnal
-
-3. az Áht. 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet címrendjének a 31. Tisztítsuk meg az Országot! pályázati támogatás címmel történő kiegészítését;
-
-Felelős: pénzügyminiszter
-
-Határidő: azonnal
+3.[^4]
 
 4. felhívja a pénzügyminisztert, hogy gondoskodjon az 1. pont szerinti feladatok és a 8. pont 8.3. alpont 8.3.5. pontjának végrehajtásához
 
@@ -98,15 +90,15 @@ Határidő: azonnal
 
 5.1.8. építési és bontási hulladék pilot: Sümeg,
 
-5.2.[^3] pályázati konstrukció kimunkálásáról a civil szervezetek, gazdálkodó szervezetek és egyházi jogi személyek támogatása érdekében, illetve egyedi támogatás biztosításáról a civil szervezetek támogatása érdekében, és a támogatási szerződések megkötéséről azzal, hogy a gazdasági társaságok a hulladék összegyűjtésére nem, csak a szállítására és a deponálására pályázhatnak,
+5.2.[^5] pályázati konstrukció kimunkálásáról a civil szervezetek, gazdálkodó szervezetek és egyházi jogi személyek támogatása érdekében, illetve egyedi támogatás biztosításáról a civil szervezetek támogatása érdekében, és a támogatási szerződések megkötéséről azzal, hogy a gazdasági társaságok a hulladék összegyűjtésére nem, csak a szállítására és a deponálására pályázhatnak,
 
 5.3. az applikáció és a háttéradatbázis működtetéséről, továbbfejlesztéséről legfeljebb 800 000 000 forint felhasználásával,
 
 5.4. a koordináló miniszter által ellátott projektmenedzsment feladatok ellátásáról legfeljebb 50 000 000 forint felhasználásával;
 
-5.5.[^4] ingatlanvédelmi eszközökre (így különösen kamera, sorompó, drón) fordítandó pályázati konstrukció kimunkálásáról a közreműködő szervezetek, az állami tulajdonú gazdasági társaságok támogatása érdekében, valamint a támogatási szerződések megkötéséről 1 000 000 000 forint felhasználásával,
+5.5.[^6] ingatlanvédelmi eszközökre (így különösen kamera, sorompó, drón) fordítandó pályázati konstrukció kimunkálásáról a közreműködő szervezetek, az állami tulajdonú gazdasági társaságok támogatása érdekében, valamint a támogatási szerződések megkötéséről 1 000 000 000 forint felhasználásával,
 
-5.6.[^5] az 5.2., 5.4. és 5.5. alpontban meghatározott feladatnak – az IFKA Iparfejlesztési Közhasznú Nonprofit Korlátolt Felelősségű Társaság közreműködésével történő – végrehajtásáról 8 137 486 378 forint felhasználásával;
+5.6.[^7] az 5.2., 5.4. és 5.5. alpontban meghatározott feladatnak – az IFKA Iparfejlesztési Közhasznú Nonprofit Korlátolt Felelősségű Társaság közreműködésével történő – végrehajtásáról 8 137 486 378 forint felhasználásával;
 
 Felelős: innovációért és technológiáért felelős miniszter
 
@@ -146,7 +138,7 @@ fordítható;
 
 8.4. a Projekt adminisztrációjával, koordinációjával kapcsolatos projektmenedzsment-jellegű feladatokra a támogatás legfeljebb 5%-a számolható el, ezen felül bérköltség elszámolására nincs mód;
 
-8.5.[^6] az önkormányzatok belügyminiszter által történő támogatása esetén – a 8.4. alpontban jelzetteken túl – az alábbi korlátokkal nyújtható támogatás:
+8.5.[^8] az önkormányzatok belügyminiszter által történő támogatása esetén – a 8.4. alpontban jelzetteken túl – az alábbi korlátokkal nyújtható támogatás:
 
 8.5.1. a hulladék elszállításának és kezelésének költségére legfeljebb
 
@@ -170,7 +162,7 @@ belügyminiszter
 
 Határidő: 2020. december 31.
 
-9.[^7] felhívja az innovációért és technológiáért felelős minisztert, hogy a Projekt I. ütemére biztosított pályázati forrás felhasználását követően haladéktalanul készítsen előterjesztést a Kormány részére a következő ütemben elvégzendő feladatokról és azok forrásigényéről;
+9.[^9] felhívja az innovációért és technológiáért felelős minisztert, hogy a Projekt I. ütemére biztosított pályázati forrás felhasználását követően haladéktalanul készítsen előterjesztést a Kormány részére a következő ütemben elvégzendő feladatokról és azok forrásigényéről;
 
 Felelős: innovációért és technológiáért felelős miniszter
 
@@ -196,8 +188,10 @@ Határidő: folyamatos
 
 [^1]: Az 1. pont 1.2. alpontja az 1862/2020. (XI. 30.) Korm. határozat 5. pont a) alpontja, az 1491/2021. (VII. 16.) Korm. határozat 2. pont a) alpontja, az 1986/2021. (XII. 27.) Korm. határozat a) pontja szerint módosított szöveg.
 [^2]: Az 1. pont 1.5. alpontja az 1862/2020. (XI. 30.) Korm. határozat 5. pont b) alpontja, az 1491/2021. (VII. 16.) Korm. határozat 2. pont b) alpontja, az 1986/2021. (XII. 27.) Korm. határozat b) pontja szerint módosított szöveg.
-[^3]: Az 5. pont 5.2. alpontja az 1862/2020. (XI. 30.) Korm. határozat 2. pontjával megállapított szöveg.
-[^4]: Az 5. pont 5.5. alpontját az 1862/2020. (XI. 30.) Korm. határozat 3. pontja iktatta be.
-[^5]: Az 5. pont 5.6. alpontját az 1862/2020. (XI. 30.) Korm. határozat 3. pontja iktatta be.
-[^6]: A 8. pont 8.5. alpont nyitó szövegrésze az 1491/2021. (VII. 16.) Korm. határozat 2. pont c) alpontja szerint módosított szöveg.
-[^7]: A 9. pont az 1491/2021. (VII. 16.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: A 2. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került
+[^4]: A 3. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került
+[^5]: Az 5. pont 5.2. alpontja az 1862/2020. (XI. 30.) Korm. határozat 2. pontjával megállapított szöveg.
+[^6]: Az 5. pont 5.5. alpontját az 1862/2020. (XI. 30.) Korm. határozat 3. pontja iktatta be.
+[^7]: Az 5. pont 5.6. alpontját az 1862/2020. (XI. 30.) Korm. határozat 3. pontja iktatta be.
+[^8]: A 8. pont 8.5. alpont nyitó szövegrésze az 1491/2021. (VII. 16.) Korm. határozat 2. pont c) alpontja szerint módosított szöveg.
+[^9]: A 9. pont az 1491/2021. (VII. 16.) Korm. határozat 1. pontjával megállapított szöveg.
