@@ -1,3 +1,3 @@
 ## Összeférhetetlenség
 
-105. §
+### 105. §

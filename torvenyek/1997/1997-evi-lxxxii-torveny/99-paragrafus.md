@@ -10,4 +10,4 @@ b) az Alap tagja az igazgatóság felszólítása ellenére sem tett eleget az A
 
 (3) Az Alapból történő kizárás nem érinti a tagság fennállása alatt keletkezett követelésekért való helytállást.
 
-(4) A kizárásról az Alap a Felügyeletet egy munkanapon belül értesíti. A Felügyelet a kizárt pénztár tevékenységi engedélyét azonnali hatállyal visszavonja, s erről haladéktalanul, legkésőbb nyolc napon belül 2 országos napilapban hirdetményt tesz közzé.
+(4) A kizárásról az Alap a Felügyeletet egy munkanapon belül értesíti. A Felügyelet a kizárt pénztár tevékenységi engedélyét azonnali hatállyal visszavonja, s ezt haladéktalanul, legkésőbb nyolc napon belül a pénztár és a Felügyelet honlapján közzéteszi.

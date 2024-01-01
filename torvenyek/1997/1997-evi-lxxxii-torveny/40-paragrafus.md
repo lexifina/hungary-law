@@ -24,7 +24,7 @@ h) elfogadja ügyrendjét.
 
 (4) Az igazgatótanács az SzMSz-ben meghatározott időközönként, de legalább háromhavonként ülést tart. Ülést kell tartania ezen időszakon belül akkor is, ha azt közgyűlési határozat vagy a Felügyelet előírta, illetve az ellenőrző bizottság, az igazgatótanács tagjainak egyharmada vagy az ügyvezető kéri. Az ügyvezető az igazgatótanács ülésein tanácskozási joggal részt vesz.
 
-(5) Az igazgatótanács ülés megtartása nélkül távbeszélőn, telefaxon, telexen, elektronikus levélben (e-mail) is hozhat érvényes határozatot, ha az igazgatótanácsi tagok SzMSz-ben meghatározott hányada, de legalább a fele szavazatát teljes bizonyító erejű magánokiratba foglalja, és az SzMSz-ben meghatározott időtartamon, de legfeljebb 8 napon belül megküldi a pénztár székhelyére.
+(5) Az igazgatótanács ülés megtartása nélkül távbeszélőn, elektronikus levélben (e-mail) is hozhat érvényes határozatot, ha az igazgatótanácsi tagok SzMSz-ben meghatározott hányada, de legalább a fele szavazatát teljes bizonyító erejű magánokiratba foglalja, és az SzMSz-ben meghatározott időtartamon, de legfeljebb 8 napon belül megküldi a pénztár székhelyére.
 
 (6) Az igazgatótanács ülése határozatképes, ha azon a tagoknak legalább a fele jelen van.
 

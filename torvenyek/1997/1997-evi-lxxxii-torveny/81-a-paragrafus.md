@@ -1,3 +1,3 @@
 ## Ágazatok szétválása
 
-81/A. §
+### 81/A. §
