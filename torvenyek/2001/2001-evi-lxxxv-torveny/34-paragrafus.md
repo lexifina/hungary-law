@@ -14,7 +14,7 @@ c) kérheti nem magyar állampolgár érintett személyazonosságának megválto
 
 a) sürgősségi intézkedés keretében ideiglenesen, a megkeresésben foglalt időtartamra biztosíthatja az érintett Magyarország területén való elhelyezését;
 
-b) a Program keretében ellátja a külföldről Magyarországra költöztetett személy, valamint a külföldön megindított büntetőeljárásban részt vevő, de Magyarországon élő magyar vagy letelepedett külföldi állampolgár védelmét;
+b) a Program keretében ellátja a külföldről Magyarországra költöztetett személy, valamint a külföldön megindított büntetőeljárásban részt vevő, de Magyarországon élő magyar vagy huzamos tartózkodási jogosultsággal rendelkező külföldi állampolgár védelmét;
 
 c) közreműködhet a megkereső hatóság védelmi programjában részt vevő magyar állampolgár érintett személyazonosságának megváltoztatásában.
 
