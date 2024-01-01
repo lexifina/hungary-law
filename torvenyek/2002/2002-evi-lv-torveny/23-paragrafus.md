@@ -4,7 +4,7 @@
 
 ## A közvetítő felkérése
 
-23. § (1) A felek közös megegyezés alapján az általuk választott természetes személy vagy jogi személy közvetítőként történő felkérését írásban, telefax útján vagy elektronikus levélben kezdeményezhetik. Ha csak az egyik fél kezdeményezi az eljárás lefolytatását, a közvetítő közreműködhet abban, hogy a többi fél a kezdeményezéshez csatlakozzon; e közreműködésért ellenérték nem állapítható meg. A felek – ha annak igénye felmerül – egyidejűleg több természetes személy vagy jogi személy felkérését is kezdeményezhetik.
+23. § (1) A felek közös megegyezés alapján az általuk választott természetes személy vagy jogi személy közvetítőként történő felkérését írásban vagy elektronikus levélben kezdeményezhetik. Ha csak az egyik fél kezdeményezi az eljárás lefolytatását, a közvetítő közreműködhet abban, hogy a többi fél a kezdeményezéshez csatlakozzon; e közreműködésért ellenérték nem állapítható meg. A felek – ha annak igénye felmerül – egyidejűleg több természetes személy vagy jogi személy felkérését is kezdeményezhetik.
 
 (2) A jogi személy a felkérésről értesíti az ügyben közvetítőként eljáró alkalmazottját.
 

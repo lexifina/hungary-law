@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2002-55-00-00
 | 2021-01-01 | 2020. évi CLXVIII. törvény | 2002-55-00-00.22 |
 | 2021-07-01 | 2021. évi LI. törvény | 2002-55-00-00.23 |
 | 2021-08-01 | 2021. évi LI. törvény | 2002-55-00-00.24 |
+| 2024-01-01 | 2023. évi XCVI. törvény | 2002-55-00-00.25 |

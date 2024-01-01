@@ -2,7 +2,7 @@
 
 6. § (1) A névjegyzék tartalmazza a természetes személy
 
-a) családi és utónevét,
+a) családi és utónevét, valamint születési nevét,
 
 b) születési helyét, idejét, anyja nevét,
 
@@ -16,19 +16,19 @@ f) által megjelölt idegen nyelvet, amelyen közvetítést vállal,
 
 g) szakterületét, amelyet a bejelentésben megjelölt,
 
-h) irodájának címét,
+h) irodájának címét (postacímét), telefonszámát, e-mail címét,
 
 i) által megjelölt annak a jogi személynek a címét, amelynek alkalmazottjaként a közvetítői tevékenységet folytatja, vagy a közvetítői tevékenység folytatására megjelölt hely címét, ha az eltér a jogi személy székhelyétől,
 
-j)
+j) közvetítői tevékenységével kapcsolatos közleményeit „közlemények” megjelöléssel,
 
-k) lakcímét (postacímét, telefon-, telefaxszámát, e-mail címét),
+k) lakcímét (postacímét), telefonszámát, e-mail címét,
 
 l)
 
-m) szakmai testületi tagságát, a szakmai testület pontos megjelölésével, és
+m) szakmai testületi tagságát, a szakmai testület pontos megjelölésével,
 
-n) közvetítői igazolványának számát,
+n) közvetítői igazolványának számát, és
 
 o) 38/G. § szerinti alávetési nyilatkozat megtételének tényét.
 
@@ -36,15 +36,17 @@ o) 38/G. § szerinti alávetési nyilatkozat megtételének tényét.
 
 a) elnevezését,
 
-b) székhelyét,
+b) székhelyét, telefonszámát, e-mail címét,
 
-c) nyilvántartását vezető bíróság vagy egyéb hatóság (a továbbiakban együtt: hatóság) elnevezését, továbbá nyilvántartási számát,
+c) nyilvántartását vezető bíróság vagy egyéb hatóság (a továbbiakban együtt: hatóság) elnevezését, továbbá nyilvántartási számát, valamint adószámát,
 
 d) az 5. § (3) bekezdésének b) pontjában meghatározott alkalmazottjának az (1) bekezdésben felsorolt adatait,
 
-e) által a közvetítői tevékenység folytatására megjelölt hely címét, ha az eltér a székhelyétől, és
+e) által a közvetítői tevékenység folytatására megjelölt hely címét, ha az eltér a székhelyétől,
 
-f) névjegyzékbe vételének időpontját, a határozat számát.
+f) névjegyzékbe vételének időpontját, a határozat számát és
+
+g) közvetítői tevékenységével kapcsolatos közleményeit „közlemények” megjelöléssel.
 
 (2a) Az (1) és (2) bekezdés szerinti névjegyzék – az (1) bekezdés a)–c), k) és m) pontjában, valamint a (2) bekezdés a)–c) pontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 

@@ -1,3 +1,1 @@
-9. § (1) A miniszter hivatalból indult eljárásban a közvetítőt a névjegyzékbe történő felvételét követően közvetítői minőségének igazolására szolgáló arcképes közvetítői igazolvánnyal látja el. A közvetítői igazolvány kizárólag postai úton, hivatalos iratként küldhető meg a közvetítő részére.
-
-(2)
+9. § A miniszter hivatalból indult eljárásban a közvetítőt a névjegyzékbe történő felvételét követően közvetítői minőségének igazolására szolgáló arcképes közvetítői igazolvánnyal látja el. A miniszter a kiállított közvetítői igazolványt a közvetítőnek az átvétel igazolása mellett átadja, vagy azt postai úton, hivatalos iratként megküldi a közvetítő részére.
