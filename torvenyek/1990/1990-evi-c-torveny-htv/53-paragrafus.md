@@ -100,7 +100,11 @@ Az adóalap 20%-át a székhelye és a Htv. 52. § 31. pont baa) alpontja szerin
 
 2.4.2. A vezetékes távközlési tevékenységet végző vállalkozó – a 3. számú melléklet 1. és 2.1. pontjától eltérően – a helyi iparűzési adóalapját a székhelye, telephelye szerinti települések között a vezetékes távközlési szolgáltatást igénybe vevő előfizetője részére nyújtott szolgáltatás helyének címe, valamint – ha a vállalkozó vezeték nélküli távközlési szolgáltatást is nyújt – a vezeték nélküli távközlési szolgáltatást igénybe vevő előfizetője számlázási címe alapján a településen az adóév első napján, a vezetékes vagy vezeték nélküli távközlési szolgáltatást igénybe vevő előfizetők számának az összes, vezetékes és vezeték nélküli távközlési szolgáltatást igénybe vevő előfizetője adóév első napja szerinti számában képviselt aránya szerint osztja meg.
 
-3. Az egyes településekre eső adóalapok együttes összege egyenlő a vállalkozó adóalapjának összegével.
+## 2.5. A légi személyszállítást végző vállalkozó – az 1. és 2.1. ponttól eltérően – a helyi iparűzési adóalapját a székhelye, telephelye szerinti települések között a következők szerint köteles megosztani:
+
+## A vállalkozónak az adóalap 20%-át a székhelye és az 52. § 31. pont a) alpontja szerinti telephely(ek) szerinti települések között az 1. vagy a 2.1. pont szerinti megosztási módszer alkalmazásával kell megosztani. Az adóalap 80%-át a vállalkozónak a székhelye és az 52. § 31. pont f) alpontja szerinti telephelye szerinti települések között a székhely, telephely szerinti településről az adóévben induló járatok utasai számának a vállalkozó összes, székhely, telephely szerinti településről induló járata utasai számában képviselt aránya szerint kell megosztania. Amennyiben a székhelynek vagy az 52. § 31. pont f) alpont szerinti telephelynek minősülő repülőtér több önkormányzat illetékességi területén helyezkedik el, akkor a repülőtérre jutó adóalapot a repülőtér alapterületének az egyes önkormányzatok illetékességi területére eső részeinek arányában kell megosztani.
+
+3. Az egyes településekre eső adóalapok együttes összege egyenlő a vállalkozó adóalapjának összegével, azzal, hogy e szabályt nem kell alkalmazni, ha kizárólag a kerekítési szabályok alkalmazásának kötelezettségéből eredően keletkezik eltérés.
 
 4. Az adóelőleg számításánál ugyanazt a módszert kell alkalmazni, mint az adó számításánál.
 

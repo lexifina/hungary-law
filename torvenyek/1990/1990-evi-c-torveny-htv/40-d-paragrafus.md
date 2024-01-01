@@ -14,7 +14,9 @@ e) az IFRS 16 Lízingek című standard szerinti operatív lízingnek megfelelő
 
 f) a nem a szokásos tevékenység keretében keletkezett áruértékesítésből, szolgáltatásnyújtásból származó bevétellel
 
-feltéve, ha az az IFRS-ek alkalmazásával az (1) bekezdés szerint bevételnek vagy a (2) bekezdés szerint bevételt növelő tételnek minősül.
+g) az emissziós jogok értékesítéséből származó bevétellel
+
+.
 
 (3) Az (1) bekezdés szerinti bevételt csökkenteni kell:
 
