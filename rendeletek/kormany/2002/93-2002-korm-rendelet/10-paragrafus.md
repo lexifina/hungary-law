@@ -8,7 +8,7 @@
 
 (3)[^82] A nyilvántartásba vett személyek szakmai továbbképzésének szervezésére és lebonyolítására jelentkező szervezetek 10/A. § (1) bekezdése szerinti akkreditációs eljárásával, valamint a kreditpont-minősítési eljárással kapcsolatos tájékoztatót a nyilvántartásba vételt végző szervezet közzéteszi az egységes Kormányzati Portálon.
 
-(4)[^83] Az (1) bekezdés szerinti továbbképzési kötelezettség teljesítése szempontjából – a 10/B. § (7) és (12) bekezdésében foglaltakon túlmenően – az olyan továbbképző szervezet által folytatott, kreditpont-minősítési eljárás során minősített képzésen való részvétel fogadható el, amely szervezet megfelel a 10/A. §-ban meghatározott akkreditációs feltételeknek. Az akkreditált szervezetek nyilvános adatait a nyilvántartásba vételt végző szervezet az egységes Kormányzati Portálon, a 10/A. § (1) bekezdés szerinti akkreditációs eljárás befejezését követő hónap végéig közzéteszi.
+(4)[^83] Az (1) bekezdés szerinti továbbképzési kötelezettség teljesítése szempontjából – a 10/B. § (7) bekezdésében foglaltakon túlmenően – az olyan továbbképző szervezet által folytatott, kreditpont-minősítési eljárás során minősített képzésen való részvétel fogadható el, amely szervezet megfelel a 10/A. §-ban meghatározott akkreditációs feltételeknek. Az akkreditált szervezetek nyilvános adatait a nyilvántartásba vételt végző szervezet az egységes Kormányzati Portálon, a 10/A. § (1) bekezdés szerinti akkreditációs eljárás befejezését követő hónap végéig közzéteszi.
 
 (5)[^84]
 
@@ -18,5 +18,5 @@
 [^80]: A 10. § (1b) bekezdését az 518/2013. (XII. 30.) Korm. rendelet 46. §-a iktatta be.
 [^81]: A 10. § (2) bekezdését a 357/2012. (XII. 13.) Korm. rendelet 17. § d) pontja hatályon kívül helyezte.
 [^82]: A 10. § (3) bekezdése a 357/2012. (XII. 13.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^83]: A 10. § (4) bekezdése a 357/2012. (XII. 13.) Korm. rendelet 9. § (3) bekezdésével megállapított, a 484/2015. (XII. 29.) Korm. rendelet 86. § 2. pontja szerint módosított szöveg.
+[^83]: A 10. § (4) bekezdése a 357/2012. (XII. 13.) Korm. rendelet 9. § (3) bekezdésével megállapított, a 484/2015. (XII. 29.) Korm. rendelet 86. § 2. pontja, a 642/2023. (XII. 28.) Korm. rendelet 28. § 2. pontja szerint módosított szöveg.
 [^84]: A 10. § (5) bekezdését a 357/2012. (XII. 13.) Korm. rendelet 17. § e) pontja hatályon kívül helyezte.

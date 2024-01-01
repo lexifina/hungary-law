@@ -2,7 +2,7 @@
 
 ## a szakmai továbbképzés szervezésére
 
-## és lebonyolítására jelentkező szervezetek (a továbbiakban: szervezet) akkreditáció iránti kérelméhez, valamint az akkreditációs nyilvántartás adataiban történt változás átvezetésének kérelméhez[^186]
+## és lebonyolítására jelentkező szervezetek (a továbbiakban: szervezet) akkreditáció iránti kérelméhez, valamint az akkreditációs nyilvántartás adataiban történt változás átvezetésének kérelméhez[^189]
 
 ## Az adatlap kötelező tartalmi elemei a következők:
 
@@ -22,37 +22,37 @@
 
 ## g) szervezet felelős vezetőjének elérhetősége (telefonszám, elektronikus elérhetőség),
 
-## h)[^187] a továbbképzéssel összefüggő kapcsolattartásra kijelölt személy vagy oktatásszervező neve, beosztása, elérhetősége,
+## h)[^190] a továbbképzéssel összefüggő kapcsolattartásra kijelölt személy vagy oktatásszervező neve, beosztása, elérhetősége,
 
-## i)[^188] a szervezet által vállalt továbbképzés szervezése (szakok megnevezése, azon belül csoportok száma),
+## i)[^191] a szervezet által vállalt továbbképzés szervezése (szakok megnevezése, azon belül csoportok száma),
 
-## j)[^189] a szervezet által az oktatásszervezés területén alkalmazott minőségirányítási rendszer leírása,
+## j)[^192] a szervezet által az oktatásszervezés területén alkalmazott minőségirányítási rendszer leírása,
 
-## k)[^190] a szervezet legalább 3 éves – a bejelentést megelőző öt évben pénzügyi, számviteli területen folytatott – oktatásszervezési vagy továbbképzési tevékenységének rövid bemutatása,
+## k)[^193] a szervezet legalább 3 éves – a bejelentést megelőző öt évben pénzügyi, számviteli területen folytatott – oktatásszervezési vagy továbbképzési tevékenységének rövid bemutatása,
 
-## l)[^191] a szervezet oktatói (vállalt továbbképzéseknek megfelelő) létszáma,
+## l)[^194] a szervezet oktatói (vállalt továbbképzéseknek megfelelő) létszáma,
 
-## m)[^192] a szervezet oktatóinak név szerinti felsorolása, valamint szakmai és oktatói tevékenységének bemutatása,
+## m)[^195] a szervezet oktatóinak név szerinti felsorolása, valamint szakmai és oktatói tevékenységének bemutatása,
 
-## n)[^193] az oktatás lebonyolításához szükséges tárgyi, technikai feltételek részletes bemutatása,
+## n)[^196] az oktatás lebonyolításához szükséges tárgyi, technikai feltételek részletes bemutatása,
 
-## o)[^194] a tervezett továbbképzés paramétereinek részletes bemutatása (ár, helyszín, egyéb szolgáltatás stb.),
+## o)[^197] a tervezett továbbképzés paramétereinek részletes bemutatása (ár, helyszín, egyéb szolgáltatás stb.),
 
-## p)[^195] a továbbképzés tervezett vagy meglévő nyilvántartási rendszerének bemutatása,
+## p)[^198] a továbbképzés tervezett vagy meglévő nyilvántartási rendszerének bemutatása,
 
-## q)[^196] szervezet cégjegyzékszáma, a szervezet adószáma
+## q)[^199] szervezet cégjegyzékszáma, a szervezet adószáma
 
-## r)[^197] tervezett elektronikus képzés esetén a szervezet elektronikus továbbképzési rendszerének bemutatása (technikai háttér, a képzés elérésének helye, megvalósításának módja, a naplózás, ellenőrzés módszere, igazolás kiállítása, a nyilvántartásba vételt végző szervezet tájékoztatásának módja stb.)
+## r)[^200] tervezett elektronikus képzés esetén a szervezet elektronikus továbbképzési rendszerének bemutatása (technikai háttér, a képzés elérésének helye, megvalósításának módja, a naplózás, ellenőrzés módszere, igazolás kiállítása, a nyilvántartásba vételt végző szervezet tájékoztatásának módja stb.)
 
-## s)[^198] a szervezet felnőttképzők nyilvántartásába történő felvétele során képzett nyilvántartásba vételi száma.
+## s)[^201] a szervezet felnőttképzők nyilvántartásába történő felvétele során képzett nyilvántartásba vételi száma.
 
 ## 2. Nyilatkozatok:
 
-## a)[^199] „Kijelentem, hogy a fenti kérelemben feltüntetett, valamint a könyvviteli szolgáltatást végzők nyilvántartásba vételéről szóló 93/2002. (V. 5.) Korm. rendelet szerinti feltételeket igazoló adatok a valóságnak megfelelnek.”
+## a)[^202] „Kijelentem, hogy a fenti kérelemben feltüntetett, valamint a könyvviteli szolgáltatást végzők nyilvántartásba vételéről szóló 93/2002. (V. 5.) Korm. rendelet szerinti feltételeket igazoló adatok a valóságnak megfelelnek.”
 
-## b)[^200] „Kijelentem, hogy a szervezet – a kérelem benyújtásának időpontjában – az adózás rendjéről szóló törvény szerint köztartozásmentes adózónak minősül.”
+## b)[^203] „Kijelentem, hogy a szervezet – a kérelem benyújtásának időpontjában – az adózás rendjéről szóló törvény szerint köztartozásmentes adózónak minősül.”
 
-## c)[^201] „Kijelentem, hogy a szervezet a felnőttképzési törvény szerinti felnőttképző.”
+## c)[^204] „Kijelentem, hogy a szervezet a felnőttképzési törvény szerinti felnőttképző.”
 
 ## d) „Kijelentem, hogy a szervezet megfelel a számvitelről szóló 2000. évi C. törvény 152. § (2a) és (2b) bekezdésében meghatározott követelménynek.”
 
@@ -68,34 +68,34 @@
 
 ## „Kijelentem, hogy a fenti adatváltozás az akkreditáció feltételeit nem érinti.”
 
-## e)[^202] az akkreditációval rendelkező szervezet felnőttképzők nyilvántartásába történő felvétele során képzett nyilvántartásba vételi száma.
+## e)[^205] az akkreditációval rendelkező szervezet felnőttképzők nyilvántartásába történő felvétele során képzett nyilvántartásba vételi száma.
 
-## 4. Dátum[^203]
+## 4. Dátum[^206]
 
-## 5. Bélyegző[^204]
+## 5. Bélyegző[^207]
 
-## 6. Cégszerű aláírás[^205]
+## 6. Cégszerű aláírás[^208]
 
-5. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^206]
+5. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^209]
 
-[^186]: Az adatlap letölthető: www.pm.gov.hu, www.magyarorszag.hu
-[^187]: A 4. számú melléklet 1. pont h) alpontja a 362/2014. (XII. 30.) Korm. rendelet 49. § (3) bekezdésével megállapított szöveg.
-[^188]: A 4. számú melléklet 1. pont i) alpontja a 362/2014. (XII. 30.) Korm. rendelet 49. § (3) bekezdésével megállapított szöveg.
-[^189]: A 4. számú melléklet 1. pont j) alpontja a 362/2014. (XII. 30.) Korm. rendelet 49. § (3) bekezdésével megállapított szöveg.
-[^190]: A 4. számú melléklet 1. pont k) alpontja a 362/2014. (XII. 30.) Korm. rendelet 49. § (3) bekezdésével megállapított, a 445/2017. (XII. 27.) Korm. rendelet 23. § 2. pontja szerint módosított szöveg.
-[^191]: A 4. számú melléklet 1. pont l) alpontja a 362/2014. (XII. 30.) Korm. rendelet 49. § (3) bekezdésével megállapított szöveg.
-[^192]: A 4. számú melléklet 1. pont m) alpontja a 362/2014. (XII. 30.) Korm. rendelet 49. § (3) bekezdésével megállapított szöveg.
-[^193]: A 4. számú melléklet 1. pont n) alpontja a 362/2014. (XII. 30.) Korm. rendelet 49. § (3) bekezdésével megállapított szöveg.
-[^194]: A 4. számú melléklet 1. pont o) alpontját a 362/2014. (XII. 30.) Korm. rendelet 49. § (3) bekezdése iktatta be.
-[^195]: A 4. számú melléklet 1. pont p) alpontját a 362/2014. (XII. 30.) Korm. rendelet 49. § (3) bekezdése iktatta be.
-[^196]: A 4. számú melléklet 1. pont q) alpontját a 484/2015. (XII. 29.) Korm. rendelet 85. § (2) bekezdése iktatta be.
-[^197]: A 4. számú melléklet 1. pont r) alpontját a 480/2016. (XII. 28.) Korm. rendelet 84. § 3. pontja iktatta be.
-[^198]: A 4. számú melléklet 1. pont s) alpontját a 616/2020. (XII. 21.) Korm. rendelet 14. § 1. pontja iktatta be.
-[^199]: A 4. számú melléklet 2. pont a) alpontja a 445/2017. (XII. 27.) Korm. rendelet 23. § 2. pontja szerint módosított szöveg.
-[^200]: A 4. számú melléklet 2. pont b) alpontja a 445/2017. (XII. 27.) Korm. rendelet 23. § 2. pontja szerint módosított szöveg.
-[^201]: A 4. számú melléklet 2. pont c) alpontja a 616/2020. (XII. 21.) Korm. rendelet 14. § 1. pontja szerint módosított szöveg.
-[^202]: A 4. számú melléklet 3. pont e) alpontját a 616/2020. (XII. 21.) Korm. rendelet 14. § 1. pontja iktatta be.
-[^203]: Akkor kötelező kitölteni, illetve feltüntetni, amennyiben a kérelmet papír alapon nyújtja be a kérelmező.
-[^204]: Akkor kötelező kitölteni, illetve feltüntetni, amennyiben a kérelmet papír alapon nyújtja be a kérelmező.
-[^205]: Akkor kötelező kitölteni, illetve feltüntetni, amennyiben a kérelmet papír alapon nyújtja be a kérelmező.
-[^206]: Az 5. számú mellékletet a 74/2009. (IV. 8.) Korm. rendelet 7. § (3) bekezdése iktatta be, hatályon kívül helyezte a 484/2015. (XII. 29.) Korm. rendelet 86. § 9. pontja.
+[^189]: Az adatlap letölthető: www.pm.gov.hu, www.magyarorszag.hu
+[^190]: A 4. számú melléklet 1. pont h) alpontja a 362/2014. (XII. 30.) Korm. rendelet 49. § (3) bekezdésével megállapított szöveg.
+[^191]: A 4. számú melléklet 1. pont i) alpontja a 362/2014. (XII. 30.) Korm. rendelet 49. § (3) bekezdésével megállapított szöveg.
+[^192]: A 4. számú melléklet 1. pont j) alpontja a 362/2014. (XII. 30.) Korm. rendelet 49. § (3) bekezdésével megállapított szöveg.
+[^193]: A 4. számú melléklet 1. pont k) alpontja a 362/2014. (XII. 30.) Korm. rendelet 49. § (3) bekezdésével megállapított, a 445/2017. (XII. 27.) Korm. rendelet 23. § 2. pontja szerint módosított szöveg.
+[^194]: A 4. számú melléklet 1. pont l) alpontja a 362/2014. (XII. 30.) Korm. rendelet 49. § (3) bekezdésével megállapított szöveg.
+[^195]: A 4. számú melléklet 1. pont m) alpontja a 362/2014. (XII. 30.) Korm. rendelet 49. § (3) bekezdésével megállapított szöveg.
+[^196]: A 4. számú melléklet 1. pont n) alpontja a 362/2014. (XII. 30.) Korm. rendelet 49. § (3) bekezdésével megállapított szöveg.
+[^197]: A 4. számú melléklet 1. pont o) alpontját a 362/2014. (XII. 30.) Korm. rendelet 49. § (3) bekezdése iktatta be.
+[^198]: A 4. számú melléklet 1. pont p) alpontját a 362/2014. (XII. 30.) Korm. rendelet 49. § (3) bekezdése iktatta be.
+[^199]: A 4. számú melléklet 1. pont q) alpontját a 484/2015. (XII. 29.) Korm. rendelet 85. § (2) bekezdése iktatta be.
+[^200]: A 4. számú melléklet 1. pont r) alpontját a 480/2016. (XII. 28.) Korm. rendelet 84. § 3. pontja iktatta be.
+[^201]: A 4. számú melléklet 1. pont s) alpontját a 616/2020. (XII. 21.) Korm. rendelet 14. § 1. pontja iktatta be.
+[^202]: A 4. számú melléklet 2. pont a) alpontja a 445/2017. (XII. 27.) Korm. rendelet 23. § 2. pontja szerint módosított szöveg.
+[^203]: A 4. számú melléklet 2. pont b) alpontja a 445/2017. (XII. 27.) Korm. rendelet 23. § 2. pontja szerint módosított szöveg.
+[^204]: A 4. számú melléklet 2. pont c) alpontja a 616/2020. (XII. 21.) Korm. rendelet 14. § 1. pontja szerint módosított szöveg.
+[^205]: A 4. számú melléklet 3. pont e) alpontját a 616/2020. (XII. 21.) Korm. rendelet 14. § 1. pontja iktatta be.
+[^206]: Akkor kötelező kitölteni, illetve feltüntetni, amennyiben a kérelmet papír alapon nyújtja be a kérelmező.
+[^207]: Akkor kötelező kitölteni, illetve feltüntetni, amennyiben a kérelmet papír alapon nyújtja be a kérelmező.
+[^208]: Akkor kötelező kitölteni, illetve feltüntetni, amennyiben a kérelmet papír alapon nyújtja be a kérelmező.
+[^209]: Az 5. számú mellékletet a 74/2009. (IV. 8.) Korm. rendelet 7. § (3) bekezdése iktatta be, hatályon kívül helyezte a 484/2015. (XII. 29.) Korm. rendelet 86. § 9. pontja.

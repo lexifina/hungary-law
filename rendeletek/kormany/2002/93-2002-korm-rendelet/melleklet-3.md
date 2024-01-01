@@ -1,3 +1,3 @@
-3. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^184]
+3. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^187]
 
-[^184]: A 3. számú melléklet a 131/2018. (VII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^187]: A 3. számú melléklet a 131/2018. (VII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
