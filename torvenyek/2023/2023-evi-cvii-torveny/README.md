@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2023-107-00-00
 | 2023-12-27 | 2023. évi CVII. törvény | 2023-107-00-00.0 (közlönyállapot) |
 | 2023-12-27 | Nemzeti Jogszabálytár (egységes szerkezet) | 2023-107-00-00.1 |
 | 2023-12-28 | 2010. évi CXXX. törvény | 2023-107-00-00.2 |
+| 2024-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2023-107-00-00.3 |

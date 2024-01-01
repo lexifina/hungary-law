@@ -1,1 +1,3 @@
-### 27. §
+27. § A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 44/A. § (16) bekezdése helyébe a következő rendelkezés lép:
+
+„(16) Országos, térségi, elővárosi és városi pályahálózatba tartozó vasútvonalak és a honvédelmi célra használt saját célú vasúti pályahálózatok és vasúti üzemi létesítmények létesítése, felújítása és fejlesztése során a helyi önkormányzati tulajdonban álló ingatlanokon az építtető vagy megbízottja az ingatlanra a tulajdonos előzetes tájékoztatása mellett beléphet, a beruházáshoz szükséges munkákat elvégezheti. Az ingatlan tulajdonosa vagy használója ezen munkák végzését tűrni köteles, azok végzését nem akadályozhatja, valamint ezekért ellenértéket nem számolhat fel.”
