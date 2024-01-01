@@ -22,14 +22,12 @@ Felelős: pénzügyminiszter
 
 Határidő: 2020. augusztus 31.
 
-4. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XV. Pénzügyminisztérium fejezet, 25. Fejezeti kezelésű előirányzatok cím, 5. Belgazdasági feladatok alcím, 8. Egészségipari vállalatok versenyképességének javítása jogcímcsoporttal történő kiegészítését;
-
-Felelős: pénzügyminiszter
-
-Határidő: 2020. július 15.
+4.[^1]
 
 5. felhívja a pénzügyminisztert, hogy a 2. pontban meghatározott célkitűzés megvalósítása érdekében gondoskodjon 50 000 000 000 forint forrás biztosításáról a XV. Pénzügyminisztérium fejezet, 25. Fejezeti kezelésű előirányzatok cím, 5. Belgazdasági feladatok alcím, 8. Egészségipari vállalatok versenyképességének javítása jogcímcsoport javára.
 
 Felelős: pénzügyminiszter
 
 Határidő: 2020. július 15.
+
+[^1]: A 4. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
