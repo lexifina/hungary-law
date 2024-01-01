@@ -1,0 +1,3 @@
+15. § Az R1. a következő 61/A. §-sal kiegészülve lép hatályba:
+
+„61/A. § A használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló 17/2016. (II. 10.) Korm. rendelet 7/A. alcíme alapján az e rendelet hatálybalépését megelőzően benyújtott, még el nem bírált preferált kistelepülésen igényelhető családi otthonteremtési kedvezmény, valamint otthonteremtési kamattámogatással érintett kölcsön iránti kérelmekre az e rendelet szabályait alkalmazni kell, ha ezt az igénylő kéri, és a benyújtott kérelmét e rendelet rendelkezései szerint módosítja.”
