@@ -26,7 +26,7 @@ aj) társadalombiztosítási azonosító jelére,
 
 ak) nemére,
 
-al) állampolgárságára, bevándorolt, letelepedett, menekült és oltalmazott jogállására és
+al) állampolgárságára, huzamos tartózkodási jogosultságára, menekült és oltalmazott jogállására és
 
 am) elhalálozása időpontjára
 

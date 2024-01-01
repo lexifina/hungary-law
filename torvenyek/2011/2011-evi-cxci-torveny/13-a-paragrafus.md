@@ -6,9 +6,9 @@ a) akinek a rehabilitációs hatóság komplex minősítése alapján az egészs
 
 b) akinek a rehabilitációs hatóság komplex minősítése alapján a rehabilitációja nem javasolt, vagy rehabilitálható, de a kivételes rokkantsági ellátás iránti kérelem benyújtásának időpontjában az öregségi nyugdíjkorhatár betöltéséig hátralevő időtartam az 5 évet nem haladja meg,
 
-c) akinek a megváltozott munkaképességű személyek ellátása iránti kérelmét a 2. § (1) bekezdés a) pontjában meghatározott biztosítási idő hiánya miatt elutasító döntés véglegessé vált és e döntésben foglaltak szerint rendelkezik a szükséges biztosítási idő legalább felével,
+c) akinek a megváltozott munkaképességű személyek ellátása iránti kérelmét a 2. § (1) bekezdés a) pontjában meghatározott biztosítási idő hiánya miatt elutasító döntés véglegessé vált és e döntésben foglaltak szerint rendelkezik a szükséges biztosítási idő legalább felével, és
 
-d) aki keresőtevékenységet nem végez és
+d)
 
 e) aki rendszeres pénzellátásban nem részesül.
 

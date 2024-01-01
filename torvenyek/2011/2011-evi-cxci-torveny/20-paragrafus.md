@@ -5,3 +5,5 @@
 (3) Az Ebtv. rendelkezéseinek (1) és (2) bekezdés szerinti alkalmazása során az egészségbiztosítás pénzbeli ellátásai alatt a megváltozott munkaképességű személyek ellátásait, az egészségbiztosító alatt a rehabilitációs hatóságot kell érteni.
 
 (4) Ha a jogosulatlan felvételre azért került sor, mert az ellátott EGT-államból vagy szociális biztonsági tárgyú nemzetközi egyezményben részes államból ugyanazon időszakra azonos típusú ellátásban részesült, a jogosulatlanul felvett rehabilitációs pénzbeli ellátást és rokkantsági ellátást – a felróhatóságtól függetlenül – akkor is vissza kell fizetni, ha a felvételtől számított kilencven nap eltelt.
+
+(5) Ha a jogalap nélkül felvett vagy fizetési számlára átutalt jogalap nélküli ellátás összege nem éri el a 10 000 Ft-ot, a visszafizetést és a megtérítést nem kell elrendelni.

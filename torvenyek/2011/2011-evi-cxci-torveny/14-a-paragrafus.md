@@ -1,1 +1,1 @@
-14/A. § A megváltozott munkaképességű személyek ellátásai 2. § szerinti jogosultsági feltételei tekintetében – a 2. § (1) bekezdés b) pontja szerinti feltétel kivételével – a kérelmező nyilatkozatával a hiányzó bizonyíték nem pótolható.
+14/A. § A megváltozott munkaképességű személyek ellátásai 2. § szerinti jogosultsági feltételei tekintetében a kérelmező nyilatkozatával a hiányzó bizonyíték nem pótolható.

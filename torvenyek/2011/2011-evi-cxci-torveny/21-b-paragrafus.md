@@ -20,7 +20,7 @@ aa) természetes személyazonosító adatait, társadalombiztosítási azonosít
 
 ab) nemét,
 
-ac) állampolgárságát, bevándorolt, letelepedett, menekült vagy oltalmazott jogállását,
+ac) állampolgárságát, huzamos tartózkodási jogosultságát, menekült vagy oltalmazott jogállását,
 
 ad) lakó- és tartózkodási helyét, értesítési címét, telefonszámát, elektronikus levélcímét, a közeli hozzátartozó írásbeli hozzájárulása esetén a közeli hozzátartozó nevét, telefonszámát, elektronikus levélcímét,
 

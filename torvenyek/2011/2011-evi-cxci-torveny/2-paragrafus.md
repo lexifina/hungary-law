@@ -10,9 +10,9 @@ ab) 10 éven belül legalább 2555 napon át vagy
 
 ac) 15 éven belül legalább 3650 napon át
 
-biztosított volt;
+biztosított volt, és
 
-b) keresőtevékenységet nem végez és
+b)
 
 c) rendszeres pénzellátásban nem részesül.
 
