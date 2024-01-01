@@ -38,7 +38,7 @@ q)[^14] a vízgazdálkodásért felelős miniszter hatáskörébe tartozó szab�
 
 r)[^15] energetikai szakreferens képesítések esetén a Magyar Energetikai és Közmű-szabályozási Hivatalt
 
-s)[^16] a környezetvédelemért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében a meteorológiai szolgáltatási tevékenység tekintetében az Országos Meteorológiai Szolgálatot
+s)[^16] a környezetvédelemért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében a meteorológiai szolgáltatási tevékenység tekintetében a HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaságot
 
 jelöli ki.
 
@@ -83,7 +83,7 @@ c) az a) és b) pontban nem említett esetekben az Etv. 60/B. §-a szerinti elj�
 [^13]: Az 1. § (2) bekezdés p) pontja a 393/2017. (XII. 13.) Korm. rendelet 25. §-a szerint módosított szöveg.
 [^14]: Az 1. § (2) bekezdés q) pontját az 527/2013. (XII. 30.) Korm. rendelet 59. § (2) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 112. § (9) bekezdés a) pontja szerint módosított szöveg.
 [^15]: Az 1. § (2) bekezdés r) pontját újonnan a 715/2020. (XII. 30.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^16]: Az 1. § (2) bekezdés s) pontját a 353/2021. (VI. 24.) Korm. rendelet 17. §-a iktatta be.
+[^16]: Az 1. § (2) bekezdés s) pontját a 353/2021. (VI. 24.) Korm. rendelet 17. §-a iktatta be, szövege az 591/2023. (XII. 20.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
 [^17]: Az 1. § (3) bekezdését a 13/2020. (II. 7.) Korm. rendelet 38. § 2. pontja hatályon kívül helyezte, újonnan a 30/2020. (II. 29.) Korm. rendelet 10. § (2) bekezdése iktatta be.
 [^18]: Az 1. § (3) bekezdés a) pontja a 70/2021. (II. 19.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
 [^19]: Az 1. § (3) bekezdés b) pontját a 403/2020. (VIII. 17.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.

@@ -80,7 +80,7 @@
 
 | 40. | Energetikai szakreferens | Magyar Energetikai és Közmű-szabályozási Hivatal |
 
-| 41. | Okleveles meteorológus | Országos Meteorológiai Szolgálat |
+| 41. | Okleveles meteorológus | HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaság |
 
 2. számú melléklet a 33/2008. (II. 21.) Korm. rendelethez[^83]
 
