@@ -1,3 +1,9 @@
-4. §[^4]
+4. § (1) A központi beszerző szerv kijelöléséről, a védelmi és biztonsági feladatokkal összefüggő beszerzések körének meghatározásáról és a védelmi és biztonsági feladatokkal összefüggő beszerzések központosított rendszeréről szóló 329/2019. (XII. 20.) Korm. rendelet (a továbbiakban: R.) 1. § (10) és (11) bekezdése helyébe a következő rendelkezések lépnek:
 
-[^4]: A 4. § a 16. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+„(10) Ha a (6) bekezdés f) pontja szerinti beszerzési tárgy vagy a (8) bekezdés szerinti, a beszerzés tárgyával – műszaki vagy gazdasági szempontból – funkcionális egységet képező dolog egyben a Nemzeti Hírközlési és Informatikai Tanácsról, valamint a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság és a kormányzati informatikai beszerzések központosított közbeszerzési rendszeréről szóló 301/2018. (XII. 27.) Korm. rendelet (a továbbiakban: DKÜ rendelet) hatálya alá is tartozik, az ilyen beszerzést az érintett szervezet a VBÜ Portálján kezdeményezi. A VBÜ az e rendelet szerinti eljárási cselekmény megtétele, valamint a döntés meghozatala előtt a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság egyetértését kéri az érintett beszerzés megvalósításával kapcsolatban. Amennyiben a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság 8 munkanapon belül nem nyilatkozik, úgy kell tekinteni, hogy a beszerzés megvalósítható.
+
+(11) A (10) bekezdéstől eltérően a VBÜ, egyetértés céljából, az érintett szervezet beszerzési tervének vagy beszerzési igényének minősített adatot tartalmazó részét – összhangban a DKÜ rendelet 7/A., 8/A., 9/A., 10/A. és 11/A. §-ában foglaltakkal – közvetlenül az e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszter részére küldi meg. Amennyiben az e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszter 8 munkanapon belül nem nyilatkozik, úgy kell tekinteni, hogy a beszerzés megvalósítható.”
+
+(2) Az R. 1. §-a a következő (16) bekezdéssel egészül ki:
+
+„(16) A (10) és (11) bekezdés, valamint a 3. § (2) bekezdés g) pontja szerinti határidő nem számít bele a VBÜ e rendelet szerinti eljárási határidőibe.”

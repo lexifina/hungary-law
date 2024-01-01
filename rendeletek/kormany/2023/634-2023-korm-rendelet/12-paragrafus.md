@@ -1,3 +1,9 @@
-12. §[^12]
+12. § Az R.
 
-[^12]: A 12. § a 16. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+a) 1. § (14) bekezdésében a „ , vagy a Kormány egyedi döntése alapján,” szövegrész helyébe az „az” szöveg,
+
+b) 6. § (1) bekezdés a) pontjában a „szeptember 30.” szövegrész helyébe az „október 30.” szöveg,
+
+c) 2. §-ában „Miniszterelnöki Kormányiroda” szövegrész helyébe a „Honvédelmi Minisztérium” szöveg
+
+lép.

@@ -1,3 +1,7 @@
-9. §[^9]
+9. § Az R. 11. § (16)–(18) bekezdése helyébe a következő rendelkezés lép:
 
-[^9]: A 9. § a 16. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+„(16) Ha az érintett szervezet beszerzési igénye keretmegállapodás alapján közvetlen megrendeléssel, írásbeli konzultációval vagy verseny újranyitásával valósítható meg, akkor a VBÜ erről az érintett szervezetet az igény Portálra való feltöltésétől számítva 5 munkanapon belül értesíti.
+
+(17) Az érintett szervezet a nemzetközi együttműködési programhoz való csatlakozási szándékát a szándék felmerülését követő 15 napon belül jelzi a VBÜ részére. Az érintett szervezet tájékoztatásában bemutatja a nemzetközi együttműködési program szerint általa tervezett beszerzési igényeit, a nemzetközi együttműködési programban való részvételének feltételeit. A VBÜ az érintett szervezet nemzetközi együttműködési programhoz való csatlakozási igényét a Védelmi Tanács részére megküldi. A Védelmi Tanács az érintett szervezet nemzetközi együttműködési programhoz való csatlakozási igényét véleményezi, és azt követően a Kormány következő ülésén előterjeszti. Az érintett szervezet a nemzetközi együttműködési programhoz a Kormány jóváhagyását követően csatlakozhat. A VBÜ a Kormány döntését e döntésről való tudomásszerzéstől számított 2 munkanapon belül közli az érintett szervezettel.
+
+(18) Az érintett szervezet (17) bekezdésben meghatározottak szerint jóváhagyott nemzetközi együttműködési program keretében megvalósítható beszerzési igényének végrehajtása során a 8. §-ban foglaltakat kell megfelelően alkalmazni.”
