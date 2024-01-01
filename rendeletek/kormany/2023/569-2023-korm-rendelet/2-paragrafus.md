@@ -1,3 +1,1 @@
-2. §[^1]
-
-[^1]: A 2. § a 4. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+2. § A Kormány az Egyezmény I. melléklete módosítását e rendelettel kihirdeti.

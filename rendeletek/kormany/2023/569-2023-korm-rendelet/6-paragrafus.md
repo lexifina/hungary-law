@@ -1,3 +1,1 @@
-6. §[^3]
-
-[^3]: A 6. § a 4. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+6. § Hatályát veszti a sportbeli dopping elleni nemzetközi egyezmény I. és II. melléklete módosításának kihirdetéséről szóló 542/2022. (XII. 22.) Korm. rendelet 2. § (1) bekezdése, 3. §-a, valamint 1. és 2. melléklete.
