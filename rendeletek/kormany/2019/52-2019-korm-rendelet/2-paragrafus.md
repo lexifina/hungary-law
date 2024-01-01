@@ -2,6 +2,8 @@
 
 ## 2. Az Ösztöndíjprogram szervezete és működtetése
 
-2. § (1) Az Ösztöndíjprogram működtetéséért a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter (a továbbiakban: miniszter) felel.
+2. § (1)[^1] Az Ösztöndíjprogram működtetéséért a kormányzati stratégiák kidolgozásának támogatásáért felelős miniszter (a továbbiakban: miniszter) felel.
 
 (2) A miniszternek az (1) bekezdés szerinti tevékenységében közreműködik a Program Irányító Bizottság (a továbbiakban: PIB).
+
+[^1]: A 2. § (1) bekezdése az 599/2023. (XII. 22.) Korm. rendelet 13. §-a szerint módosított szöveg.
