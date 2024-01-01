@@ -1,3 +1,3 @@
-## A gázveszélyes vízkészletet igénybe vevő vízilétesítmény vízjogi létesítési, valamint üzemeltetési engedélyének kiadására irányuló eljárás[^100]
+## A gázveszélyes vízkészletet igénybe vevő vízilétesítmény vízjogi létesítési, valamint üzemeltetési engedélyének kiadására irányuló eljárás[^102]
 
-[^100]: Az 5/E. §-t megelőző alcímet a 221/2014. (IX. 4.) Korm. rendelet 165. §-a iktatta be.
+[^102]: Az 5/E. §-t megelőző alcímet a 221/2014. (IX. 4.) Korm. rendelet 165. §-a iktatta be.

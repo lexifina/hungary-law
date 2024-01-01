@@ -1,4 +1,4 @@
-4/B. §[^61] (1) A mezőgazdasági célú, felszíni vízhasználatot biztosító vízilétesítmény bejelentés alapján, vízjogi engedély nélkül megszüntethető, ha a vízilétesítmény
+4/B. §[^62] (1) A mezőgazdasági célú, felszíni vízhasználatot biztosító vízilétesítmény bejelentés alapján, vízjogi engedély nélkül megszüntethető, ha a vízilétesítmény
 
 a) az 1. melléklet 4. pontja szerinti IV. felügyeleti kategóriába tartozik, és
 
@@ -38,4 +38,4 @@ c) bejelentés tudomásulvételétől számított egy éven belül ellenőrzést
 
 (4) A vízügyi hatóság a (2) bekezdés szerinti bejelentés vizsgálata során annak értékelése érdekében, hogy a vízilétesítmény megszüntetése megfelel-e a környezetvédelmi és természetvédelmi követelményeknek, a bejelentést továbbítja a környezetvédelmi és természetvédelmi hatóságnak, amely a bejelentéssel kapcsolatos szakvéleményét a bejelentés kézhezvételétől számított nyolc napon belül a vízügyi hatósággal közli.
 
-[^61]: A 4/B. §-t a 286/2019. (XII. 4.) Korm. rendelet 6. §-a iktatta be.
+[^62]: A 4/B. §-t a 286/2019. (XII. 4.) Korm. rendelet 6. §-a iktatta be.
