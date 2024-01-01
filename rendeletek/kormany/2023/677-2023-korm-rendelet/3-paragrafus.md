@@ -1,0 +1,15 @@
+3. § A Tszt. Vhr. 17/C. § (1a) bekezdése helyébe a következő rendelkezés lép, és a § a következő (1b)–(1e) bekezdéssel egészül ki:
+
+„(1a) A felhasználó köteles gondoskodni a közös használatú épületrészek kivételével az épületrészekben az elfogyasztott fűtési célú távhő elszámolása érdekében hiteles fűtési hőfogyasztás-mérő, valamint – ha használati meleg víz biztosítására is sor kerül – a használati meleg víz elszámolása érdekében hiteles fűtési hőfogyasztás-mérő és használati meleg víz vízmennyiség-mérő felszereléséről
+
+a) új csatlakozás esetén, ha az új épületben kerül kialakításra vagy
+
+b) meglévő épület esetén, ha az épületrészenkénti hiteles mérés utólagos kialakítása műszakilag megvalósítható és költséghatékony.
+
+(1b) Az épületrészenkénti hiteles mérés utólagos kialakítása akkor tekinthető műszakilag nem megvalósíthatónak, ha ehhez a felhasználási hely meglévő hőellátó rendszerének olyan átalakítása szükséges, amely csökkenti az egyes épületrészek megközelítésére, elhagyására rendelkezésre álló teret, épületstatikai szempontból nem megengedett, vagy az épületrészekben kialakított lakótér olyan mértékű megváltoztatásával jár, amely jelentősen hátrányosan befolyásolja a lakótér rendeltetésszerű használatát.
+
+(1c) A felhasználó a fűtési célú távhőfelhasználás épületrészenkénti hiteles mérés utólagos kialakításának költséghatékonyságát a 8. melléklet szerint elvégzett költséghatékonysági vizsgálat alapján állapítja meg. Meglévő fűtési költségmegosztó hiteles fűtési hőmennyiségmérőre történő cseréje nem tekinthető költséghatékonynak. Műszakilag megvalósítható és költséghatékony beruházás esetén a felhasználó a költséghatékonysági vizsgálat elvégzése utáni egy éven belül gondoskodik a közös használatú épületrészek kivételével a fűtési célú távhőfelhasználás épületrészenkénti hiteles mérésének kialakításáról és alkalmazásáról.
+
+(1d) Azon meglévő épület esetén, ahol az elfogyasztott fűtési célú távhő épületrészenkénti hiteles mérésének utólagos kialakítása műszakilag nem megvalósítható vagy nem költséghatékony, a felhasználónak meg kell vizsgálni a fűtési költségmegosztók alkalmazásának lehetőségét. Azokon a felhasználási helyeken, ahol a fűtés egyedi szabályozhatósága nem megoldott, a fűtési költségmegosztók alkalmazása nem tekinthető költséghatékony megoldásnak. A vizsgálat általános előírásait a műszaki megvalósíthatóság tekintetében az (1b) bekezdés, a költséghatékonyság tekintetében a 8. melléklet tartalmazza, amelyektől az önkormányzat képviselő-testülete – a Tszt. 6. § (2) bekezdés j) pontja szerint – a területi sajátosságokra tekintettel eltérő egyedi rendelkezéseket állapíthat meg. Műszakilag megvalósítható és költséghatékony beruházás esetén a felhasználó a költséghatékonysági vizsgálat elvégzése utáni egy éven belül gondoskodik a közös használatú épületrészek kivételével a fűtési költségmegosztók felszereléséről és alkalmazásáról.
+
+(1e) A tulajdonosi közösség képviselője vagy a megbízott nyilatkozik a távhőszolgáltató felé az (1c)–(1d) bekezdésben foglalt rendelkezések megfelelő alkalmazásáról.”

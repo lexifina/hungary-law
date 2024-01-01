@@ -1,0 +1,3 @@
+8. § A Tszt. Vhr. 24. §-a helyébe a következő rendelkezés lép:
+
+„24. § Ez a rendelet az energiahatékonyságról, a 2009/125/EK és a 2010/30/EU irányelv módosításáról, valamint a 2004/8/EK és a 2006/32/EK irányelv hatályon kívül helyezéséről szóló, 2012. október 25-i 2012/27/EU európai parlamenti és tanácsi irányelv 9a–9c. és 11a. cikkének, VIIa. mellékletének, valamint az energiahatékonyságról szóló 2012/27/EU irányelv módosításáról szóló, 2018. december 11-i (EU) 2018/2002 európai parlamenti és tanácsi irányelv 1. cikk 6., 8., 10. pontjának és Melléklet 4. pontjának való megfelelést szolgálja.”
