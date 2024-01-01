@@ -1,0 +1,1 @@
+4. § A felügyeleti hatóság az Európai Bizottság felé fennálló bejelentési kötelezettség teljesítése érdekében jogosult a nyilvántartásban szereplő adatok érintett szervezet általi rendkívüli felülvizsgálatát elrendelni.
