@@ -22,8 +22,8 @@ c) 2019. évi teljesítménykövetelményekről az értékelő vezető 2019. sze
 
 (8) A rendvédelmi alkalmazott belföldi kiküldetése esetén a belügyminiszter irányítása alá tartozó rendvédelmi feladatokat ellátó szervek hivatásos szolgálati viszonyban álló tagjai illetményének és egyéb juttatásainak megállapításáról, valamint a folyósítás szabályairól szóló 33/2015. (VI. 16.) BM rendelet 12. alcíme megfelelően alkalmazandó.
 
-(9)[^10]
+(9)[^11]
 
 (10) A rendőrségnél és a hivatásos katasztrófavédelmi szerv tekintetében a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvénynek a belügyminiszter ágazati irányítása alá tartozó egyes szerveknél történő végrehajtásáról szóló 37/2011. (X. 28.) BM rendelet (a továbbiakban: R.) 1. melléklete nem alkalmazható.
 
-[^10]: A 35. § (9) bekezdését az 5/2023. (III. 2.) MK rendelet 11. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 10. §-át.
+[^11]: A 35. § (9) bekezdését az 5/2023. (III. 2.) MK rendelet 11. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 10. §-át.

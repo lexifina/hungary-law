@@ -40,7 +40,7 @@ II. A terrorizmust elhárító szervnél
 
 ## főelőadó II., ha a munkakör betöltése élelmiszer szakfelügyelői vagy élelmiszer higiénikusi feladatok valamelyikének ellátását szolgálja.
 
-III.[^16] A büntetés-végrehajtási szervezetnél
+III.[^17] A büntetés-végrehajtási szervezetnél
 
 1. osztályvezető (ápolási igazgató),
 
@@ -76,4 +76,4 @@ IV. A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervn�
 
 ha a munkakör betöltése az orvos, egészségügyi asszisztens munkakörök valamelyikének ellátását szolgálja.
 
-[^16]: A 4. melléklet III. pontja a 21/2020. (VII. 9.) BM rendelet 6. §-a szerint módosított szöveg.
+[^17]: A 4. melléklet III. pontja a 21/2020. (VII. 9.) BM rendelet 6. §-a szerint módosított szöveg.
