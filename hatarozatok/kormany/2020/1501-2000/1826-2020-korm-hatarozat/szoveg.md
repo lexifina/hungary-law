@@ -18,13 +18,7 @@ külgazdasági és külügyminiszter
 
 Határidő: azonnal
 
-3. az 1. pont b) alpontjában foglalt feladat végrehajtása érdekében, az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XLVII. Gazdaságvédelmi Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 7. Gazdaságvédelmet szolgáló külügyi fejezeti kezelésű előirányzatok alcímének a 4. A koronavírus-járvány következtében szükségessé vált versenyképesség-növelő támogatás jogcímcsoporttal történő kiegészítését;
-
-Felelős: pénzügyminiszter
-
-külgazdasági és külügyminiszter
-
-Határidő: a 2021. évi központi költségvetési törvény végrehajtása során
+3.[^1]
 
 4. az 1. pont b) alpontjában foglalt feladat végrehajtása érdekében felhívja a külgazdasági és külügyminisztert, hogy a 2. pontban, valamint a Gazdaságvédelmi Akcióterv keretében a koronavírus-járvány következtében szükségessé vált versenyképesség-növelő támogatási előirányzat keretösszegének megemeléséről szóló 1367/2020. (VII. 4.) Korm. határozat (a továbbiakban: Korm. határozat) 2. pontjában meghatározott előirányzatok terhére rögzített kötelezettségvállalások 2020. évben pénzügyileg nem teljesült állományáról az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 149. § (1) bekezdésében foglaltakat megelőzően, soron kívül tájékoztassa a pénzügyminisztert;
 
@@ -38,6 +32,7 @@ Felelős: pénzügyminiszter
 
 Határidő: a Külgazdasági és Külügyminisztérium befizetési kötelezettségének teljesítését követően azonnal
 
-6.[^1]
+6.[^2]
 
-[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 3. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
