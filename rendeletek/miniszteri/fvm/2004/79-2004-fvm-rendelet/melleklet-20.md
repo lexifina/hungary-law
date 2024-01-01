@@ -246,8 +246,8 @@
 
 ## szakértő
 
-20. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^320]
+20. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^323]
 
 A vadászható állatok és a hullott agancs vadgazdálkodási értéke
 
-[^320]: A Vhr. 20. számú melléklete az 57/2023. (X. 16.) AM rendelet 27. § (10) bekezdésével megállapított szöveg.
+[^323]: A Vhr. 20. számú melléklete az 57/2023. (X. 16.) AM rendelet 27. § (10) bekezdésével megállapított szöveg.

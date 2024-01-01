@@ -1,4 +1,4 @@
-34. §[^99] (1) A vadászatra jogosult a hivatásos vadászként alkalmazni kívánt személy 9. számú melléklet szerinti rendelkezésre álló adatait megküldi a vadászati hatóság számára, amelyről a vadászati hatóság a hivatásos vadászként alkalmazni kívánt személy, valamint a vadászatra jogosult számára igazolást állít ki.
+34. §[^100] (1) A vadászatra jogosult a hivatásos vadászként alkalmazni kívánt személy 9. számú melléklet szerinti rendelkezésre álló adatait megküldi a vadászati hatóság számára, amelyről a vadászati hatóság a hivatásos vadászként alkalmazni kívánt személy, valamint a vadászatra jogosult számára igazolást állít ki.
 
 (2) A vadászatra jogosult az (1) bekezdés szerinti igazolás birtokában kezdeményezheti a rendőrségnél a szolgálati igazolvány kiállítását és a szolgálati jelvény kiadását.
 
@@ -12,4 +12,4 @@
 
 (7) A vadászatra jogosult a hivatásos vadász alkalmazásáról, szolgálati helyéről, továbbá alkalmazásának megszűnéséről – 15 napon belül – tájékoztatja a működési helye szerinti rendőrhatóságot, valamint a vadászkamarának a hivatásos vadász lakóhelye és működési helye szerint illetékes területi szervezetét.
 
-[^99]: A Vhr. 34. §-a az 57/2023. (X. 16.) AM rendelet 8. §-ával megállapított szöveg.
+[^100]: A Vhr. 34. §-a az 57/2023. (X. 16.) AM rendelet 8. §-ával megállapított szöveg.

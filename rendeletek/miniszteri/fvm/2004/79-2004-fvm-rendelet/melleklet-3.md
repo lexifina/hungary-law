@@ -1,4 +1,4 @@
-3. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^295]
+3. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^296]
 
 I. A VADASKERT LÉTESÍTÉSÉRE IRÁNYULÓ KÉRELEM TARTALMI KÖVETELMÉNYEI
 
@@ -11,6 +11,8 @@ I. A VADASKERT LÉTESÍTÉSÉRE IRÁNYULÓ KÉRELEM TARTALMI KÖVETELMÉNYEI
 1.2. a létesítendő vadaskert adatait (terület, külső kerítéshossz, tervezett vadállomány), a 2–5. pontban meghatározottak szerint;
 
 1.3. a mellékleteket.
+
+1.4. védett természeti terület vagy erdőterület esetében a környezetvédelmi engedély számát.
 
 2. A kérelemhez mellékletként csatolni kell:
 
@@ -44,7 +46,7 @@ h) állategészségügyi irányelvek (leggyakoribb állategészségügyi problé
 
 i) a vadászterület és a tervezett vadaskert térképi megjelenítése, különös tekintettel a külső, esetleg belső kerítések nyomvonalára, valamint az erdőre, a védett természeti területre, továbbá az érintett erdőterületre vonatkozó erdészeti üzemterv kivonata.
 
-2.3. A védett természeti terület vagy erdőterület esetében a területileg illetékes környezetvédelmi hatóságnál külön jogszabály szerint kezdeményezett környezeti hatásvizsgálat eredményeként kiadott környezetvédelmi engedélyt.
+2.3.
 
 2.4. A felszámolási tervet, amely tartalmazza
 
@@ -188,4 +190,4 @@ V. AZ APRÓVADTARTÓ TELEP LÉTESÍTÉSÉRE IRÁNYULÓ KÉRELEM TARTALMI KÖVETE
 
 4. Felszámolási terv az I. 2.4. pontban meghatározott tartalommal
 
-[^295]: A Vhr. korábbi 3. I. számú mellékletének számozását 3. számú mellékletre változtatta és szövegét megállapította a 24/2017. (V. 17.) FM rendelet 33. § (1) bekezdése, a melléklet szövege a 70/2017. (XII. 29.) FM rendelet 4. § (1) bekezdés d) pontja, az 57/2023. (X. 16.) AM rendelet 27. § (3) bekezdése szerint módosított szöveg. (A Vhr. 3. II. számú mellékletét a 24/2017. (V. 17.) FM rendelet 35. § (2) bekezdés 8. pontja hatályon kívül helyezte.)
+[^296]: A Vhr. korábbi 3. I. számú mellékletének számozását 3. számú mellékletre változtatta és szövegét megállapította a 24/2017. (V. 17.) FM rendelet 33. § (1) bekezdése, a melléklet szövege a 70/2017. (XII. 29.) FM rendelet 4. § (1) bekezdés d) pontja, az 57/2023. (X. 16.) AM rendelet 27. § (3) bekezdése, a 160/2023. (XII. 27.) AM rendelet 1. §-a és 2. § b) pontja szerint módosított szöveg. (A Vhr. 3. II. számú mellékletét a 24/2017. (V. 17.) FM rendelet 35. § (2) bekezdés 8. pontja hatályon kívül helyezte.)

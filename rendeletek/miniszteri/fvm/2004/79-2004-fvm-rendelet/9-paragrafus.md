@@ -6,7 +6,7 @@
 
 a) az ingatlan tulajdoni lapjának hiteles másolatát;
 
-b) az ingatlan tulajdonjogának földhivatali bejegyzéséről szóló határozat eredeti vagy közjegyző által hitelesített másolati példányát;
+b)[^35] az ingatlan tulajdonjogának földhivatali bejegyzéséről szóló határozat eredeti vagy másolati példányát;
 
 c) az ingatlanügyi hatóság által papíralapon vagy elektronikus adathordozón kiadott földkönyvet vagy tulajdonosi adatokkal kiegészített földkönyv kivonatot;
 
@@ -17,3 +17,4 @@ e) az ingatlan-nyilvántartási adatbázishoz adatátviteli vonalon való csatla
 (4) A tulajdonosi közösség tagjának tulajdonában álló föld tulajdonjogának első alkalommal történő igazolását mindaddig el kell fogadni, amíg a változást a (3) bekezdés szerinti okirattal igazolva be nem jelentették.
 
 [^34]: A Vhr. 9. §-a a 14/2016. (III. 2.) FM rendelet 5. §-ával megállapított szöveg.
+[^35]: A Vhr. 9. § (3) bekezdés b) pontja a 160/2023. (XII. 27.) AM rendelet 2. § a) pontja szerint módosított szöveg.

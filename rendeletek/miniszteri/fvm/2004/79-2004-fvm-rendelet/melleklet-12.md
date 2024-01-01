@@ -106,6 +106,6 @@
 
 ## 2. Szájmaszk
 
-12. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^304]
+12. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^305]
 
-[^304]: A Vhr. 12. számú mellékletét a 24/2017. (V. 17.) FM rendelet 35. § (2) bekezdés 9. pontja hatályon kívül helyezte.
+[^305]: A Vhr. 12. számú mellékletét a 24/2017. (V. 17.) FM rendelet 35. § (2) bekezdés 9. pontja hatályon kívül helyezte.

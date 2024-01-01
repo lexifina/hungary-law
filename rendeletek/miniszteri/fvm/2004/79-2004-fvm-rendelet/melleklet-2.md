@@ -1,4 +1,4 @@
-2. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^293]
+2. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^294]
 
 A TULAJDONOSI KÖZÖSSÉG VADÁSZATI JOG HASZNOSÍTÁSÁVAL ÖSSZEFÜGGÉSBEN KÉSZÍTETT MŰKÖDÉSI SZABÁLYZATÁNAK MINIMÁLIS ADATTARTALMA
 
@@ -40,9 +40,9 @@ A TULAJDONOSI KÖZÖSSÉG VADÁSZATI JOG HASZNOSÍTÁSÁVAL ÖSSZEFÜGGÉSBEN K�
 
 7.3. a számlavezető bank címe:
 
-8.[^294] A tulajdonosi közösség részére az adóhatóság által kiállított adószám.
+8.[^295] A tulajdonosi közösség részére az adóhatóság által kiállított adószám.
 
 9. Dátum, a közös képviselő és két tanú aláírása
 
-[^293]: A Vhr. 2. számú melléklete a 14/2016. (III. 2.) FM rendelet 8. §-ával megállapított szöveg.
-[^294]: A Vhr. 2. számú melléklet 8. pontja az 57/2023. (X. 16.) AM rendelet 27. § (2) bekezdésével megállapított szöveg.
+[^294]: A Vhr. 2. számú melléklete a 14/2016. (III. 2.) FM rendelet 8. §-ával megállapított szöveg.
+[^295]: A Vhr. 2. számú melléklet 8. pontja az 57/2023. (X. 16.) AM rendelet 27. § (2) bekezdésével megállapított szöveg.
