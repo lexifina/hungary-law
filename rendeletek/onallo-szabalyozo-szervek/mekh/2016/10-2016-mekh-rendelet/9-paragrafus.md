@@ -2,15 +2,17 @@
 
 (2)[^20] Kétirányú mérés esetén az elszámolás alapját képező villamosenergia-mennyiségeket az adott mérési ponton a nemzetközi üzemi és kereskedelmi szabályzatban rögzített elszámolási mérési intervallumokban, irányonként kell megállapítani. A forgalomarányos rendszerhasználati díjakat az adott elszámolási időszakban az irányonként elkülönített és összegzett villamosenergia-mennyiségek alapján, irányonként kell megfizetni.
 
-(2a)[^21] Háztartási méretű kiserőművek esetében a mérési intervallumokban mért, irányonként elkülönített és összegzett mennyiségek különbsége alapján kell a forgalomarányos rendszerhasználati díjakat megfizetni.
+(2a)[^21] A (2) bekezdéstől eltérően – a Vhr. 5. § (5)–(5b) bekezdését is figyelembe véve – az elosztóhoz 2023. szeptember 7. napjáig igazolt módon beérkezett létesítési vagy bővítési igénybejelentés alapján 2026. január 1. előtti létesítés vagy bővítés (az elosztói szabályzatban meghatározottak szerint üzembe helyezés) esetében a háztartási méretű kiserőmű üzembe helyezését követő 10 éves időszak végéig (bővítés esetén a bővített háztartási méretű kiserőmű egésze tekintetében a bővítés időpontjától számítva) a mérési intervallumokban mért, irányonként elkülönített és összegzett mennyiségek különbsége alapján kell a forgalomarányos rendszerhasználati díjakat megfizetni. A különbséget az éves mennyiségek különbsége alapján kell képezni
 
-(2b)[^22] A (2a) bekezdéstől eltérően a forgalomarányos rendszerhasználati díjakat az adott elszámolási időszakban az irányonként elkülönített és összegzett villamosenergia-mennyiségek alapján, irányonként kell elszámolni és megfizetni
+a) a 2023. szeptember 7-én üzemben lévő háztartási méretű kiserőmű esetében, ha a felhasználó vonatkozásában profilelszámolást alkalmaztak, vagy
 
-a) a háztartási méretű kiserőművel rendelkező felhasználó ez irányú kérése esetén,
+b) a 2023. szeptember 7-ig benyújtott igénybejelentés alapján 2023. szeptember 7. és 2025. december 31. között üzembe helyezett (beleértve a bővítést is) háztartási méretű kiserőmű esetében, ha az igénybejelentés időpontjában a felhasználó profilos elszámolásúnak minősült.
 
-b) a 2023. december 31. napját követően létesített (a rendszerhasználó által készre jelentetett) háztartási méretű kiserőmű esetében, valamint
+(2b)[^22] A (2a) bekezdéstől eltérően a forgalomarányos rendszerhasználati díjakat az adott elszámolási időszakban az irányonként elkülönített és összegzett villamosenergia-mennyiségek alapján, irányonként kell elszámolni és megfizetni,
 
-c) a 2024. január 1. előtt létesített (a rendszerhasználó által készre jelentetett) háztartási méretű kiserőmű névleges hatásos teljesítményének 2023. december 31. napját követő bővítése esetén a bővített háztartási méretű kiserőmű egésze tekintetében.
+a) ha a háztartási méretű kiserőművel rendelkező felhasználó ezt kéri, vagy
+
+b) a 2023. szeptember 7. előtt létesített (az elosztói szabályzatban meghatározottak szerint üzembe helyezett) háztartási méretű kiserőmű névleges hatásos teljesítményének 2023 szeptember 7. után kezdeményezett bővítése esetén a bővített háztartási méretű kiserőmű egésze tekintetében.
 
 (2c)[^23] A magánvezeték engedélyese vagy üzemeltetője által a hálózati engedélyes részére fizetendő forgalomarányos rendszerhasználati díjak elszámolásának alapját képező villamosenergia-mennyiségeket – a kereskedelmi szabályzatban rögzített elszámolási mérési intervallumok szerint – úgy kell megállapítani, hogy a közcélú hálózat és a magánvezeték közötti csatlakozási ponton mért, irányonként elkülönített és előjelhelyesen (a közcélú hálózatról történő vételezés pozitív, a közcélú hálózatba történő betáplálás negatív előjellel veendő figyelembe) összegzett villamosenergia-mennyiséghez
 
@@ -36,6 +38,6 @@ kell figyelembe venni.
 
 [^19]: A 9. § (1) bekezdése a 6/2017. (VII. 13.) MEKH rendelet 8. § (1) bekezdése szerint módosított szöveg.
 [^20]: A 9. § (2) bekezdése a 14/2021. (XI. 8.) MEKH rendelet 2. §-ával megállapított szöveg.
-[^21]: A 9. § (2a) bekezdését a 6/2017. (VII. 13.) MEKH rendelet 2. §-a iktatta be, szövege az 1/2021. (II. 10.) MEKH rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^22]: A 9. § (2b) bekezdését az 1/2021. (II. 10.) MEKH rendelet 2. § (3) bekezdése iktatta be.
+[^21]: A 9. § (2a) bekezdését a 6/2017. (VII. 13.) MEKH rendelet 2. §-a iktatta be, szövege a 13/2023. (IX. 13.) MEKH rendelet 1. §-ával megállapított szöveg.
+[^22]: A 9. § (2b) bekezdését az 1/2021. (II. 10.) MEKH rendelet 2. § (3) bekezdése iktatta be, szövege a 13/2023. (IX. 13.) MEKH rendelet 1. §-ával megállapított szöveg.
 [^23]: A 9. § (2c) bekezdését az 1/2021. (II. 10.) MEKH rendelet 2. § (3) bekezdése iktatta be.
