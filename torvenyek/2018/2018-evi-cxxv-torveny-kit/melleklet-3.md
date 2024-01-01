@@ -187,7 +187,3 @@
 ## IX.
 
 ## 1. az összeférhetetlenséggel összefüggő adatai, együttalkalmazási tilalomra vonatkozó adatok (gyakorolható tevékenység, továbbá a közérdekű önkéntes tevékenység végzésére irányuló jogviszony rá vonatkozó információk, illetve bejelentésének adata; további jogviszonyra vonatkozó adatok, előzetes engedélykérés információi)
-
-## X.
-
-## 1. az állami készfizető kezességvállalással összefüggő adatok (a hitelszerződést kötő pénzintézet neve, címe; az állami kezességvállalással biztosított hitel nagysága; a hitel lejártának időpontja)

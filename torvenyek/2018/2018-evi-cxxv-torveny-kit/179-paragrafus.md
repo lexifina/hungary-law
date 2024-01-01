@@ -20,7 +20,7 @@ h) kormányzati szolgálati jogviszonyát megszüntető iratot,
 
 i) hatályban lévő fegyelmi büntetését kiszabó határozatot, valamint
 
-j) közszolgálati igazolásának, korábbi foglalkoztatási jogviszony-igazolásának másolatát,
+j) foglalkoztatási igazolásának, korábbi foglalkoztatási jogviszony-igazolásának másolatát,
 
 k) végzettségét, szakképzettségét, szakképesítését igazoló okiratának másolatát,
 

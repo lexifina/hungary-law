@@ -7,3 +7,13 @@
 (3) Nem kell alkalmazni a (2) bekezdést, ha a helyettes államtitkár a kinevezésekor betöltötte az öregségi nyugdíjkorhatárt, és rendelkezett az öregségi teljes nyugdíjhoz szükséges szolgálati idővel.
 
 (4) A helyettes államtitkárnak a (2) bekezdés szerinti kezdeményezésre történő felmentése esetén a 233. § (2) és (3) bekezdését nem kell alkalmazni.
+
+(5) A helyettes államtitkár felmentése esetén a 232. § (4)–(8) bekezdését alkalmazni kell azzal, hogy
+
+a) közigazgatási államtitkár alatt helyettes államtitkárt,
+
+b) lemondási idő alatt a 233. § (2) és (3) bekezdése szerinti időtartamot,
+
+c) lemondási időre járó illetmény alatt a b) pont szerinti lemondási időre járó illetményt
+
+kell érteni.

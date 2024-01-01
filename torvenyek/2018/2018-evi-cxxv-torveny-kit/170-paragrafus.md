@@ -30,6 +30,6 @@
 
 (13) Nem lehet jogosultságot vagy juttatást valamely szakszervezethez való tartozástól vagy az attól való távolmaradástól függővé tenni.
 
-(14) A kormányzati igazgatási szerv szakszervezeti tagdíj levonásáért és a szakszervezet részére történő átutalásáért ellenértéket nem követelhet.
+(14)
 
-(15) A munkavállalói érdekképviseleti tagdíjfizetés önkéntességéről szóló 1991. évi XXIX. törvénytől eltérően a kormányzati igazgatási szerv a kormánytisztviselők illetményéből a szakszervezeti tagdíjat az erre vonatkozó megállapodása esetén vonja le.
+(15) A munkavállalói érdekképviseleti tagdíjfizetés önkéntességéről szóló 1991. évi XXIX. törvénytől eltérően a kormányzati igazgatási szerv a kormánytisztviselők illetményéből szakszervezeti vagy egyéb érdekképviseleti tagdíjat nem vonhat le és nem utalhat tovább.

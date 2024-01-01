@@ -20,6 +20,8 @@ a) a (2) bekezdés a) pontja szerinti esetben a feladat- és hatáskört átvev�
 
 b) a (2) bekezdés b) pontja szerinti esetben a kijelölt minisztérium.
 
+(5a) Ha a Kormány eredeti jogalkotói hatáskörben kiadott rendelete alapján a (2) bekezdés szerinti, a miniszter feladatainak ellátását korábban segítő szerv helyett a miniszter feladatainak ellátását másik – a (2) bekezdés szerinti – szerv segíti, a miniszter változatlan feladat- és hatásköre tekintetében – az ellátásához kapcsolódó egyéb feladatokra, jogosultságokra és kötelezettségekre kiterjedően – a (2) bekezdés szerinti, a miniszter feladatainak ellátását korábban segítő szerv jogutódja a miniszter feladatainak ellátását újonnan segítő (2) bekezdés szerinti szerv.
+
 (6) A Kormány eredeti jogalkotói hatáskörben kiadott rendelete alapján a (2) bekezdés b) pontja szerinti esetben a miniszter tevékenységét – ha a miniszter a miniszterelnök általános helyettese – több, a (2) bekezdés b) pontja szerinti szerv is segítheti.
 
 (7) A (6) bekezdés szerinti esetben a miniszter tevékenységének ellátását egy, a Kormány eredeti jogalkotói hatáskörben kiadott rendeletében meghatározott kabinet segítheti.

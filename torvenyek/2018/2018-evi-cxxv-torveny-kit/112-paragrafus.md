@@ -28,7 +28,7 @@ g) húsz év: nyolchavi,
 
 – a felmentési idő kezdetekor vagy a kormányzati igazgatási szerv jogutód nélküli megszűnésekor irányadó – illetményének megfelelő összeg.
 
-(3) A végkielégítés mértéke négyhavi illetmény összegével emelkedik, ha a kormánytisztviselő kormányzati szolgálati jogviszonya az öregségi nyugdíjra való jogosultság megszerzését megelőző öt éven belül szűnik meg. Nem illeti meg az emelt összegű végkielégítés a kormánytisztviselőt, ha valamelyik jogcímen korábban már emelt összegű végkielégítésben részesült. A kifizetett végkielégítés összegét fel kell tüntetni a közszolgálati igazoláson.
+(3) A végkielégítés mértéke négyhavi illetmény összegével emelkedik, ha a kormánytisztviselő kormányzati szolgálati jogviszonya az öregségi nyugdíjra való jogosultság megszerzését megelőző öt éven belül szűnik meg. Nem illeti meg az emelt összegű végkielégítés a kormánytisztviselőt, ha valamelyik jogcímen korábban már emelt összegű végkielégítésben részesült. A kifizetett végkielégítés összegét fel kell tüntetni a foglalkoztatási igazoláson.
 
 (4) A végkielégítés mértékének meghatározásakor csak a kormányzati szolgálati jogviszonyban eltöltött időt lehet figyelembe venni.
 
@@ -68,8 +68,20 @@ c) a kormánytisztviselőt a 107. § (1) bekezdés f) pontja alapján mentették
 
 (11) Ha a kormánytisztviselő a munkavégzési kötelezettség alóli mentesítés ideje alatt bármely költségvetési szervvel vagy költségvetési szerv legalább többségi befolyása alatt álló bármely gazdálkodó szervezettel teljes vagy részmunkaidős jogviszonyt létesít, végkielégítésre nem jogosult, azonban új jogviszonyában a végkielégítés alapjául szolgáló időszak számítása során a felmentéssel megszüntetett jogviszony alapján végkielégítésre jogosító idejét számításba kell venni.
 
-(12) Ha a kormánytisztviselő a jogviszony megszűnését vagy megszüntetését követő 30 napon belül újabb kormányzati szolgálati jogviszonyt létesít,
+(12) Ha a kormánytisztviselő a kormányzati szolgálati jogviszonya megszűnését vagy megszüntetését követő 180 napon belül az állam közvetlen vagy közvetett többségi befolyása alatt álló gazdasági társaságban vezető tisztségviselői tisztség betöltésére vagy munkavégzésre irányuló jogviszonyt, illetve a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény vagy az e törvény hatálya alá tartozó szervnél munkavégzésre irányuló jogviszonyt (a továbbiakban együtt e § alkalmazásában: új jogviszony) létesít,
 
-a) amennyiben végkielégítés illeti meg, egyhavi végkielégítésre jogosult, és a részére kifizetett végkielégítés összegének az egyhavi mértéken felüli részét az új jogviszony létesítésétől számított 30 napon belül a korábban őt foglalkoztató kormányzati igazgatási szerv részére köteles visszafizetni,
+a) amennyiben végkielégítés illeti meg, a kormányzati szolgálati jogviszony megszűnése és az új jogviszony létesítése közötti időtartamnak megfelelő, a (2)–(8) bekezdés szerint megállapított végkielégítés arányos összegére jogosult,
 
-b) új jogviszonyában a végkielégítés alapjául szolgáló időszak számítása során a korábbi jogviszony alapján végkielégítésre jogosító idejét három év jogviszonyban töltött idővel csökkentett mértékben figyelembe kell venni.
+b) a részére kifizetett végkielégítés összegének az a) pont szerinti időtartamra eső részén felüli összegét az új jogviszony létesítésétől számított 30 napon belül a korábban őt foglalkoztató kormányzati igazgatási szerv részére köteles visszafizetni,
+
+c) új jogviszonyában a végkielégítés alapjául szolgáló időszak számítása során a korábbi jogviszony alapján végkielégítésre jogosító idejét az a) pont szerinti időtartamra eső végkielégítési összegnek a (2) bekezdés szerint megfelelő mértékű jogviszonyban töltött idővel csökkentett mértékben figyelembe kell venni.
+
+(13) A (12) bekezdés b) pontjában foglaltaktól eltérően nem kell a végkielégítést visszafizetni, ha az új jogviszony keretében nem jár díjazás. Ha a kormánytisztviselő már visszafizette a végkielégítést, azt az őt korábban foglalkoztató kormányzati igazgatási szerv – a feltételek teljesülése esetén – a (14) bekezdés c) pontja szerinti tájékoztatást követő 30 napon belül köteles az érintett részére újra kifizetni.
+
+(14) A kormánytisztviselő köteles haladéktalanul tájékoztatni
+
+a) a korábban őt foglalkoztató kormányzati igazgatási szervet az új jogviszony létesítéséről,
+
+b) az új foglalkoztató szervet arról, hogy a (12) bekezdés hatálya alá tartozik,
+
+c) az őt korábban foglalkoztató kormányzati igazgatási szervet a (13) bekezdés szerinti feltétel teljesüléséről.
