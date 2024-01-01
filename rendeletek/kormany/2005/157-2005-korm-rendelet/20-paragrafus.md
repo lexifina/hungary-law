@@ -1,3 +1,3 @@
-20. §[^76]
+20. §[^90]
 
-[^76]: A Vhr. 20. §-át a 104/2011. (VI. 29.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^90]: A Vhr. 20. §-át a 104/2011. (VI. 29.) Korm. rendelet 5. §-a hatályon kívül helyezte.

@@ -30,7 +30,16 @@ c) fűtési költségmegosztás céljára alkalmazott hőfogyasztásmérő, ha t
 
 9. megbízott: az a gazdálkodó szervezet, amely a tulajdonosi közösséggel kötött megbízási szerződés alapján felszereli, működteti, karbantartja a költségmegosztókat, elvégzi a költségmegosztók időszakos ellenőrzését, leolvassa, kiértékeli a költségmegosztók adatait és kiszámítja a fűtési díjmegosztási arányokat, valamint a melegvíz- díjmegosztási arányokat.
 
+10.[^49] távolról leolvasható fogyasztásmérő készülék: olyan fogyasztásmérő készülék, amelynek leolvasása, adatainak rögzítése – az erre szolgáló technikai eszközökkel – az azt magába foglaló épületbe történő bejutás nélkül is lehetséges;
+
+11.[^50] távolról leolvasható költségmegosztó: olyan költségmegosztó, amelynek leolvasása, adatainak rögzítése – az erre szolgáló technikai eszközökkel – az azt magába foglaló épületbe történő bejutás nélkül is lehetséges;
+
+12.[^51] költségmegosztási rendszer: azonos típusú, egységes értékelési rendszerű, fűtési költségmegosztók vagy használati melegvíz-költségmegosztók rendszere.
+
 [^45]: A Vhr. 17/A. §-át megelőző alcímet a 104/2011. (VI. 29.) Korm. rendelet 1. §-a iktatta be.
 [^46]: A Vhr. 17/A. §-át a 104/2011. (VI. 29.) Korm. rendelet 1. §-a iktatta be.
 [^47]: A Vhr. 17/A. § 2. pontja a 281/2016. (IX. 21.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^48]: A Vhr. 17/A. § 2a. pontját a 281/2016. (IX. 21.) Korm. rendelet 2. §-a iktatta be.
+[^49]: A Vhr. 17/A. § 10. pontját a 677/2023. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
+[^50]: A Vhr. 17/A. § 11. pontját a 677/2023. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
+[^51]: A Vhr. 17/A. § 12. pontját a 677/2023. (XII. 29.) Korm. rendelet 1. §-a iktatta be.

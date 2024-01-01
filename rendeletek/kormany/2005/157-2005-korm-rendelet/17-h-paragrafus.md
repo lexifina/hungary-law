@@ -1,4 +1,4 @@
-17/H. §[^57] (1) Ha a tulajdonosi közösség költségmegosztók alkalmazásáról dönt, akkor gondoskodnia kell a költségmegosztók felszereléséről, működtetéséről, karbantartásáról, időszakos ellenőrzéséről, adatainak leolvasásáról, kiértékeléséről és a fűtési díjmegosztási arányok, valamint a melegvíz-díjmegosztási arányok kiszámításáról, továbbá viseli az ezekkel kapcsolatos költségeket.
+17/H. §[^70] (1)[^71] A felszerelt költségmegosztók és az egyedi szabályozók működtetéséről, karbantartásáról, időszakos ellenőrzéséről, adatainak leolvasásáról, kiértékeléséről és a fűtési díjmegosztási arányok, valamint a melegvíz-díjmegosztási arányok kiszámításáról a felhasználó gondoskodik és viseli az ezekkel kapcsolatos költségeket.
 
 (2) A tulajdonosi közösség az (1) bekezdésben foglalt feladatok ellátására vonatkozó kötelezettségét megbízott útján is teljesítheti.
 
@@ -32,11 +32,12 @@ j) az alkalmazott korrekciós tényezőket.
 
 (7) A díjmegosztási arányok utólagosan csak számítási hiba esetén, a tulajdonosi közösség képviselőjének a távhőszolgáltatóhoz írásban történt bejelentésére módosíthatók. A díjmegosztási arányok utólagos módosításáról szóló bejelentésről, a díjmegosztási arányok utólagos módosításáról, a módosítás okáról, tartalmáról és hatásairól a tulajdonosi közösség képviselője tájékoztatja a díjfizetőket.
 
-(8)[^58] Fűtési hőfogyasztás-mérő vagy vízmennyiség-mérő alkalmazása esetén a részszámla akkor alapulhat távhőszolgáltató általi statisztikai elemzéssel (becsléssel) megállapított energiamennyiségen, ha az adott időszakra vonatkozóan nem kerül sor
+(8)[^72] Fűtési hőfogyasztás-mérő vagy vízmennyiség-mérő alkalmazása esetén a részszámla akkor alapulhat távhőszolgáltató általi statisztikai elemzéssel (becsléssel) megállapított energiamennyiségen, ha az adott időszakra vonatkozóan nem kerül sor
 
 a) a fűtési hőfogyasztás-mérő és vízmennyiség-mérő leolvasására, vagy
 
 b) az a) pont szerinti leolvasás hiányában a felhasználó adatszolgáltatása keretében a fűtési hőfogyasztás-mérő és vízmennyiség-mérő mérőállásának bejelentésére a távhőszolgáltatónál.
 
-[^57]: A Vhr. 17/H. §-át a 104/2011. (VI. 29.) Korm. rendelet 1. §-a iktatta be.
-[^58]: A Vhr. 17/H. § (8) bekezdését a 123/2015. (V. 26.) Korm. rendelet 5. §-a iktatta be, szövege a 202/2016. (VII. 21.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^70]: A Vhr. 17/H. §-át a 104/2011. (VI. 29.) Korm. rendelet 1. §-a iktatta be.
+[^71]: A Vhr. 17/H. § (1) bekezdése a 677/2023. (XII. 29.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^72]: A Vhr. 17/H. § (8) bekezdését a 123/2015. (V. 26.) Korm. rendelet 5. §-a iktatta be, szövege a 202/2016. (VII. 21.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
