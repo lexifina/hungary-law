@@ -1,3 +1,0 @@
-## 17. Az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvény módosítása
-
-135. § Az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvény (a továbbiakban: Adómódtv.) 110. §-ának az Áfa tv. 58. § (1a) bekezdés b) pontját megállapító rendelkezése a „de legfeljebb az elszámolással vagy fizetéssel érintett időszak utolsó napját követő harmincadik nap” szövegrész helyett a „de legfeljebb az elszámolással vagy fizetéssel érintett időszak utolsó napját követő hatvanadik nap” szöveggel lép hatályba.
