@@ -14,6 +14,10 @@ c) az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú t�
 
 d) a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló 17/2016. (II. 10.) Korm. rendelet
 
+e)[^23] a kistelepüléseken nyújtható otthonteremtési támogatásokról szóló 302/2023. (VII. 11.) Korm. rendelet, valamint
+
+f)[^24] a családok otthonteremtését támogató kedvezményes CSOK Plusz hitelprogramról szóló 518/2023. (XI. 30.) Korm. rendelet
+
 szerinti kölcsön minősül.
 
 (2) Az állami kezességvállalás feltétele, hogy a kormánytisztviselő a hitelcél szerinti ingatlanban legalább 50% tulajdoni hányaddal rendelkezzen.
@@ -25,3 +29,6 @@ a) a Kit. 149. § (3) bekezdés a)–d) pontjában foglalt feltételek fennáll�
 b) a Kit. 149. § (3) bekezdés e) pontja szerinti, a hitelfelvevő, illetve a vele közös háztartásban élő házas- vagy élettársa korábbi állami kezességvállalással biztosított hitelrészének kiegyenlítését vagy ilyen hitelrész fenn nem állását a hitelfelvevő nyilatkozata
 
 alapján.
+
+[^23]: A 84. § (1) bekezdés e) pontját az 518/2023. (XI. 30.) Korm. rendelet 63. § (1) bekezdése iktatta be.
+[^24]: A 84. § (1) bekezdés f) pontját az 518/2023. (XI. 30.) Korm. rendelet 63. § (1) bekezdése iktatta be.
