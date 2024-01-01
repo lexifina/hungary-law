@@ -6,15 +6,7 @@
 
 ## c) a 2022. évben: 533 044 010 forint;
 
-## 2. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva, a Beruházás megvalósításához a 2020. évben 800 000 000 forint egyszeri átcsoportosítását rendeli el a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 78. Modern Városok Program jogcímcsoport terhére, a Kvtv. 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 14. Egyetemek, főiskolák cím javára, az 1. melléklet szerint;
-
-## Felelős: Miniszterelnökséget vezető miniszter
-
-## innovációért és technológiáért felelős miniszter
-
-## pénzügyminiszter
-
-## Határidő: azonnal
+## 2.[^1]
 
 ## 3. felhívja a pénzügyminisztert, hogy – az innovációért és technológiáért felelős miniszter bevonásával – gondoskodjon a Beruházás megvalósításához a 2020. évben szükséges 1 900 000 000 forint biztosításáról a Kvtv. 1. melléklet XLVII. Gazdaságvédelmi Alap fejezet terhére, a Kvtv. 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 14. Egyetemek, főiskolák cím javára;
 
@@ -42,62 +34,7 @@
 
 ## Határidő: a 2022. évi központi költségvetés tervezése során
 
-1. melléklet az 1691/2020. (X. 23.) Korm. határozathoz
+1. melléklet az 1691/2020. (X. 23.) Korm. határozathoz[^2]
 
-| XI. Miniszterelnökség XVII. Innovációs és Technológiai Minisztérium ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA Költségvetési év: 2020. forintban |
-
-| Államháztartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XI. |  |  |  |  |  | Miniszterelnökség |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 30 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 1 |  |  |  |  |  | Célelőirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 358951 |  |  |  | 78 |  |  |  |  |  | Modern Városok Program |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K6 |  |  |  |  |  | Beruházások |  |  |  |  |  |  |  |  | -800 000 000 |  |  |
-
-|  | XVII. |  |  |  |  |  | Innovációs és Technológiai Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 227942 |  | 14 |  |  |  |  |  | Egyetemek, főiskolák |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | ? |  |  | K6 |  |  |  |  |  | Beruházások |  |  |  |  |  |  |  |  | 800 000 000 |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |
-
-| forintban |
-
-| Államháztartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | B E V É T E L | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |
-
-| forintban |
-
-| Államháztartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | T Á M O G A T Á S | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XI. |  |  |  |  |  | Miniszterelnökség |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 30 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 1 |  |  |  |  |  | Célelőirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 358951 |  |  |  | 78 |  |  |  |  |  | Modern Városok Program |  |  |  |  |  |  |  |  |  |  | -800 000 000 |  |  |  |
-
-|  | XVII. |  |  |  |  |  | Innovációs és Technológiai Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 227942 |  | 14 |  |  |  |  |  | Egyetemek, főiskolák |  |  |  |  |  |  |  |  |  |  |  |  | 800 000 000 |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |
-
-| Az adatlap 1 eredti példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) | Összesen |  | I.n.év | II. n.év | III.n.év | IV.n.év |
-
-| Magyar Államkincstár | 1 példány | időarányos teljesítésarányos egyéb: azonnal | 800 000 000 |  |  |  |  | 800 000 000 |
-
-| * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+[^1]: A 2. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
