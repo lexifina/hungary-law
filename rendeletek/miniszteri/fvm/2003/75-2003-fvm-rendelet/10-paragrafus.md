@@ -12,7 +12,7 @@
 
 a) az egészségügyi alkalmasságot tanúsító orvosi bizonyítvány;
 
-b)[^37] a NÉBIH által szervezett és lebonyolított hatósági jellegű képzésen való részvételt igazoló dokumentum.
+b)[^37] a NÉBIH által szervezett és lebonyolított hatósági jellegű képzésen való részvételt igazoló dokumentum, melyet a NÉBIH a képzésen való részvételt követően megküld a Pest Vármegyei Kormányhivatal részére.
 
 (5a)[^38]
 
@@ -21,6 +21,6 @@ b)[^37] a NÉBIH által szervezett és lebonyolított hatósági jellegű képz�
 [^34]: A 10. § (1) bekezdése az 1/2019. (I. 15.) AM rendelet 15. § (1) bekezdésével megállapított, a 77/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
 [^35]: A 10. § (3) bekezdése a 119/2009. (IX. 10.) FVM rendelet 2. §-ával megállapított szöveg.
 [^36]: A 10. § (4) bekezdése az 1/2019. (I. 15.) AM rendelet 15. § (2) bekezdésével megállapított, a 77/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
-[^37]: A 10. § (5) bekezdés b) pontja a 23/2015. (V. 13.) FM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^37]: A 10. § (5) bekezdés b) pontja a 157/2023. (XII. 27.) AM rendelet 1. §-ával megállapított szöveg.
 [^38]: A 10. § (5a) bekezdését a 23/2015. (V. 13.) FM rendelet 2. § (2) bekezdése iktatta be, hatályon kívül helyezte az 1/2019. (I. 15.) AM rendelet 22. §-a.
 [^39]: A 10. § (6) bekezdése az 1/2019. (I. 15.) AM rendelet 15. § (3) bekezdésével megállapított szöveg.
