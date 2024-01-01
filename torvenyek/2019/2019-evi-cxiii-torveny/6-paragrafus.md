@@ -4,7 +4,7 @@
 
 (3) Az érvényes öntözésfejlesztési tervnek megfelelő öntözéses beruházáshoz és az öntözésfejlesztési tervet jóváhagyó határozatban meghatározott feltételek szerint történő öntözéses gazdálkodás végzéséhez nem kell lefolytatni a környezetvédelmi, természetvédelmi, talajvédelmi engedélyezési vagy szakhatósági eljárást.
 
-(4) Az érvényes öntözésfejlesztési terv az abban meghatározott természetvédelmi, környezetvédelmi, talajvédelmi előírások tekintetében hatósági engedélynek vagy szakhatósági állásfoglalásnak minősül. Az öntözésfejlesztési terv a kiadásától számított 20 évig hatályos.
+(4) Az érvényes öntözésfejlesztési terv az abban meghatározott természetvédelmi, környezetvédelmi, talajvédelmi előírások tekintetében hatósági engedélynek vagy szakhatósági állásfoglalásnak minősül. Az öntözésfejlesztési terv határozatlan időre szól.
 
 (5) Az öntözésfejlesztési terület kijelölését és az öntözésfejlesztési terveket a kormányzati honlapon közzé kell tenni.
 
