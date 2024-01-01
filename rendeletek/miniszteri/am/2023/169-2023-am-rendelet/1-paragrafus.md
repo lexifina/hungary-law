@@ -1,0 +1,1 @@
+1. § A sertésállományok Aujeszky-betegségtől való mentesítésének szabályairól és a mentesség fenntartásáról szóló 30/2009. (III. 27.) FVM rendelet 9. § (2), (3) és (4) bekezdésében a „félévente” szövegrész helyébe az „évente” szöveg lép.
