@@ -16,7 +16,7 @@ létesített, határozott időre szóló munkaviszony,
 
 4. külföldi személy: a magyar állampolgársággal nem rendelkező természetes személy,
 
-5. harmadik országbeli állampolgár: a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott harmadik országbeli állampolgár,
+5. harmadik országbeli állampolgár: a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben meghatározott harmadik országbeli állampolgár,
 
 6. tagállam: az Európai Unió tagállama, valamint az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá olyan állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján a szabad mozgás és tartózkodás joga tekintetében az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez,
 

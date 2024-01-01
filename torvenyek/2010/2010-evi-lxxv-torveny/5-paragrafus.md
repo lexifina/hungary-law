@@ -1,4 +1,4 @@
-5. § (1) Harmadik országbeli állampolgár – a bevándorolt vagy letelepedett jogállású személy kivételével – kizárólag mezőgazdasági idénymunka keretében foglalkoztatható e törvény szerint létesített munkaviszony alapján.
+5. § (1) Harmadik országbeli állampolgár – a huzamos tartózkodási jogosultsággal rendelkező személy kivételével – kizárólag mezőgazdasági idénymunka keretében foglalkoztatható e törvény szerint létesített munkaviszony alapján.
 
 (2) Az állami foglalkoztatási szerv a harmadik országbeli állampolgár kérelmére haladéktalanul megkeresi
 

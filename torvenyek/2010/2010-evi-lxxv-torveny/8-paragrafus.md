@@ -10,9 +10,11 @@ c) a filmipari statiszta alkalmi munkára irányuló egyszerűsített foglakozta
 
 azzal, hogy a mértéket száz forintra kerekítve kell meghatározni.
 
+(2a) A (2) bekezdés szerinti közteher szociális hozzájárulási adónak minősül, azzal hogy a Szocho tv. mentességeket és kedvezményeket megállapító rendelkezései nem alkalmazhatók. Az adókötelezettség teljesítésére és a közteher felosztására e törvény szabályait kell alkalmazni.
+
 (3) Az (1) és (2) bekezdésben szabályozott közteher megfizetésével nem terheli
 
-a) a munkáltatót szociális hozzájárulási adó és rehabilitációs hozzájárulás, valamint az Szja.tv.-ben a munkáltatóra előírt adóelőleg-levonási kötelezettség,
+a) a munkáltatót a Szocho tv. 1. § (1) bekezdése szerint terhelő szociális hozzájárulási adó és a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény szerinti rehabilitációs hozzájárulás, valamint az Szja tv.-ben a munkáltatóra előírt adóelőleg-levonási kötelezettség,
 
 b) a munkavállalót társadalombiztosítási járulékfizetési, és személyi jövedelemadóelőleg-fizetési kötelezettség.
 
