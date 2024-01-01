@@ -16,7 +16,7 @@
 
 (1h) Nemzeti Földalapba tartozó földrészlet árverés útján történő értékesítése során az elővásárlásra jogosult e jogát az árverésen történő részvétellel és a felajánlott legmagasabb összegű érvényes vételi ajánlattal megegyező összegű vételi ajánlat személyesen és haladéktalanul történő megtételével gyakorolhatja e törvény végrehajtására kiadott rendeletben meghatározottak szerint.
 
-(2) Az eladás, a haszonbérbe adás és a csere során a földbirtok-politikai irányelveknek megfelelően kell eljárni.
+(2) Az e törvény szerinti hasznosítás során a földbirtok-politikai irányelveknek megfelelően kell eljárni.
 
 (3) Az NFK a Nemzeti Földalapba tartozó földrészletet érintően csereszerződést elsősorban birtokösszevonási célú földcsere megvalósítása, állattenyésztő telep működésének biztosítása, vagy nemzetgazdasági szempontból kiemelt beruházás megvalósítása céljából köthet.
 
@@ -25,6 +25,22 @@
 (5) Az NFK megbízási szerződést köthet a (4) bekezdésben foglalt feladatok ellátása érdekében a földrészlet e törvény szerinti hasznosításáig, de legfeljebb egy gazdasági évre terjedő időszakra. A megbízási szerződés időtartama – a (6) bekezdésben meghatározott kivétellel – meghosszabbítással sem lehet egy gazdasági évnél hosszabb.
 
 (6) Ha az NFK vagy jogelődje a (4) bekezdésben foglalt feladatokat három egymást követő évben csak megbízási szerződés útján tudta ellátni, az NFK további három évre megbízási szerződést köthet a földrészletre.
+
+(6a) A megbízási szerződés megszűnik
+
+a) a határozott időtartam lejártával, a lejárat napján vagy a szerződésben meghatározott körülmény bekövetkeztével, a körülmény bekövetkeztének napján,
+
+b) közös megegyezéssel, a szerződő felek által meghatározott napon,
+
+c) a szerződésben meghatározottak szerint azonnali hatályú felmondással,
+
+d) a földrészlet állami tulajdonból történő kikerülése esetén az új tulajdonos tulajdonjoga ingatlan-nyilvántartási bejegyzésének napján,
+
+e) a földrészlet vagyonkezelésbe adása esetén, a vagyonkezelői jog ingatlan-nyilvántartási bejegyzésének napján,
+
+f) a Nemzeti Földalapba tartozó földrészlet ingatlan-nyilvántartás szerinti adatainak olyan megváltozása esetén, melynek következtében az kikerül e törvény hatálya alól, a tulajdonosi joggyakorlás átszállásának napján,
+
+g) földrészlet egyéb, e törvény szerinti hasznosítása esetén, a hasznosítás kezdőnapján.
 
 (7) Haszonbérleti szerződés vagy az (5) bekezdés szerinti megbízási szerződés alapján gyakorolt használati jogosultságért ellenértékként – e törvény végrehajtására kiadott rendeletben meghatározottak szerint – legalább a földnek az ingatlan-nyilvántartásban feltüntetett aranykoronában kifejezett kataszteri tiszta jövedelme kétezer-ötszázszorosának megfelelő forint összegű éves díjat kell fizetni.
 

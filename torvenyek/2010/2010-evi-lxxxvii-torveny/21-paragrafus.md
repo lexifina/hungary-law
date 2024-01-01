@@ -14,6 +14,8 @@ d) az ingatlan-nyilvántartásban művelés alól kivett, állandó jellegű nö
 
 e) olyan halastóként hasznosítható ingatlanra, amely esetében kizárólag a tómeder áll állami tulajdonban.
 
+f) a mező- és erdőgazdasági földek forgalmáról szóló törvényben, valamint a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló törvényben foglalt feltételek fennállása esetén, és ezen törvényekben foglaltak szerint, a rizstelephez tartozó földrészletre.
+
 (3a) Nyilvános pályáztatás vagy árverés mellőzésével köthető adásvételi szerződés olyan földrészletre, amely
 
 a) a kisajátításról szóló törvényben meghatározott közérdekű célok, vagy – amennyiben a közérdekű célt az érintett földrészlet vonatkozásában a nemzetgazdasági szempontból kiemelt beruházássá nyilvánító kormányrendelet megjelöli – nemzetgazdasági szempontból kiemelt beruházás megvalósításához szükséges;

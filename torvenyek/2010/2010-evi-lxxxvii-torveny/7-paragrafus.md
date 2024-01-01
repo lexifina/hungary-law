@@ -10,7 +10,7 @@ d) a 8. § (1) bekezdés d)–f) és h) pontjaiban foglaltak kivételével dönt
 
 e) a d) pontban foglaltak kivételével dönt az NFK-t érintő kötelezettség-vállalásról;
 
-f) elkészíti az 5. § szerinti beszámolót, az NFK államháztartási számviteli kormányrendelet szerinti elemi költségvetési beszámolót, valamint a rábízott földvagyonról szóló éves beszámolóját;
+f) elkészíti az NFK-nak az államháztartás számviteléről szóló kormányrendelet szerinti elemi költségvetési beszámolóját, valamint a rábízott földvagyonról szóló éves beszámolóját;
 
 g) képviseli az NFK-t harmadik személyekkel szemben;
 

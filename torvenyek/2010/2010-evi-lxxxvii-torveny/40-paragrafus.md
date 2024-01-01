@@ -1,1 +1,1 @@
-### 40. §
+40. § E törvénynek az egyes agrártárgyú törvények módosításáról szóló 2023. évi XCIV. törvénnyel (a továbbiakban: Módtv2.) megállapított 18. § (6a) bekezdését a Módtv2. hatálybalépésekor fennálló szerződések esetében is alkalmazni kell.

@@ -1,6 +1,6 @@
 17. § (1) A Nemzeti Földalapba tartozó földrészletekről és az azokon fennálló jogok jogosultjairól az NFK az e törvény végrehajtására kiadott jogszabályban meghatározottak szerint naprakész vagyonnyilvántartást vezet, amely tartalmazza
 
-a) a jogosultak adatai körében a vevő, a csereszerződést kötő fél, a haszonbérlő, a vagyonkezelő, az erdőgazdálkodó és a 18. § (5) bekezdése szerint megbízott személy, továbbá a tulajdonosi hozzájárulás jogosultjának a (2) bekezdésben meghatározott adatait,
+a) a jogosultak adatai körében az NFK-val kötött, tulajdonjog átruházásáról szóló és egyéb hasznosítási szerződés, valamint a tulajdonosi hozzájárulás jogosultjának a (2) bekezdésben meghatározott adatait,
 
 b) a hasznosítás módjára vonatkozó javaslatot.
 
