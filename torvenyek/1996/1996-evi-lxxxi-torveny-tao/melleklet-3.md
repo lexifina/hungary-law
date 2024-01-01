@@ -10,7 +10,15 @@ Nem a vállalkozási tevékenység érdekében felmerülő egyes költségek, r�
 
 A 8. § (1) bekezdésének d) pontja alkalmazásában nem a vállalkozási tevékenység érdekében felmerült költségnek, ráfordításnak minősül különösen:
 
-1.
+1. – a kettős nem adóztatás elkerülése érdekében – az a költség, ráfordítás, amely az e törvény felhatalmazása alapján kiadott miniszteri rendelet szerinti adózási szempontból nem együttműködő államban vagy a 19. § szerinti mértéknél alacsonyabb mértékű társasági adónak megfelelő adót (ideértve a nulla adómértéket és a társasági adónak megfelelő adó hiányát is) alkalmazó államban illetőséggel rendelkező külföldi személynek, ott fekvő telephelynek kifizetett (kifizetendő) jogdíj és kamat következtében merül fel, olyan mértékben, amilyen mértékben a külföldi személy, telephely a társasági adónak megfelelő adót nem fizette meg kivéve, ha a jogdíj, a kamat adóévi felmerülésének a fő célja adóelőnyön kívüli valós gazdasági, kereskedelmi előny, azzal, hogy ennek fennállását az adózó köteles bizonyítani. Az adózó bizonyítási kötelezettségét az éves bevallás benyújtásának napjáig, de legkésőbb annak határidejéig teljesíti, amelynek körében költségenként, ráfordításonként legalább az alábbi információkat veszi figyelembe:
+
+## a) a külföldi személy, külföldi telephely nevét, székhelyét, adószámát (vagy annak megfelelő azonosítót, ezek hiányában cégjegyzékszámát vagy nyilvántartási számát), a cégjegyzéket (nyilvántartását) vezető bíróság (hatóság) megnevezését és székhelyét,
+
+## b) a költség, ráfordítás hátteréül szolgáló szerződés tárgyát (tárgyait), megkötésének és módosításának időpontját, a szerződés időbeli hatályát, a teljesítés módját, feltételeit,
+
+## c) a költség, ráfordítás felmerülését megalapozó célokat, ennek részeként többek között a valós gazdasági kereskedelmi előnyök és az adózási előnyök számszerűsítését,
+
+## d) azon kamat, jogdíj összegét, amelyre a külföldi személy, telephely a társasági adónak megfelelő adót megfizette és ezt hitelt érdemlő módon igazolta;
 
 2.
 
@@ -32,7 +40,7 @@ b) a Büntető Törvénykönyvről szóló 2012. évi C. törvényben meghatáro
 
 bűncselekmény elkövetése érdekében vagy azzal összefüggésben merült fel;
 
-9. az a költség, ráfordítás, amely ellenőrzött külföldi társaság részére juttatott ellenérték következtében merült fel, kivéve, ha az adózó bizonyítja, hogy a költség, a ráfordítás vállalkozási tevékenységét szolgálja, figyelemmel a 13. pontban foglaltakra is. Az adózó a bizonyítási kötelezettsége körében szerződésenként külön nyilvántartás (azonos tárgyú szerződések esetében összevont nyilvántartás) készítésére kötelezett, amely tartalmazza az ügyletben részt vevő vállalkozások nevét, székhelyét, adószámát (vagy annak megfelelő azonosítót, ezek hiányában cégjegyzékszámát vagy nyilvántartási számát), a cégjegyzéket (nyilvántartását) vezető bíróság (hatóság) megnevezését és székhelyét, a szerződés tárgyát (tárgyait), megkötésének és módosításának időpontját, a szerződés időbeli hatályát, a teljesítés módját, feltételeit, a nyilvántartás elkészítésének időpontját, a költség, ráfordítás elszámolását megalapozó okokat;
+9. az a költség, ráfordítás, amely ellenőrzött külföldi társaság részére juttatott ellenérték következtében merült fel, kivéve, ha az adózó bizonyítja, hogy a költség, a ráfordítás vállalkozási tevékenységét szolgálja, figyelemmel a 13. pontban foglaltakra is. Az adózó a bizonyítási kötelezettsége körében szerződésenként külön nyilvántartás (azonos tárgyú szerződések esetében összevont nyilvántartás) készítésére kötelezett, amely tartalmazza az ügyletben részt vevő vállalkozások nevét, székhelyét, adószámát (vagy annak megfelelő azonosítót, ezek hiányában cégjegyzékszámát vagy nyilvántartási számát), a cégjegyzéket (nyilvántartását) vezető bíróság (hatóság) megnevezését és székhelyét, a szerződés tárgyát (tárgyait), megkötésének és módosításának időpontját, a szerződés időbeli hatályát, a teljesítés módját, feltételeit, a nyilvántartás elkészítésének időpontját, a költség, ráfordítás elszámolását megalapozó okokat. Nem kell még egyszer növelni az adózás előtti eredményt azzal a költséggel, ráfordítással, amellyel az adózó az 1. pont alapján adóalapját megnövelte;
 
 10. A bíróság előtt nem érvényesíthető, továbbá az elévült követelés miatt elszámolt ráfordítás.
 

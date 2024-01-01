@@ -116,7 +116,7 @@ fg) az a jövedelem, amely áruk és szolgáltatások kapcsolt vállalkozások s
 
 g) az e) pont eb) pontja alkalmazásában a működési költségek nem foglalják magukban a külföldi személy adóügyi illetősége, a külföldi telephely fekvése szerinti ország határain kívül értékesített áruk bekerülési értékét, valamint a kapcsolt vállalkozások részére teljesített kifizetések alapján elszámolt költséget, ráfordítást,
 
-h) nem minősül ellenőrzött külföldi társaságnak az a külföldi telephely, amely olyan az Európai Unió vagy az Európai Gazdasági Térség tagállamának nem minősülő államban fekszik, amellyel Magyarországnak a külföldi telephely jövedelemét a magyar társasági adózás alól mentesítő rendelkezést tartalmazó egyezménye áll fenn, és amely az említett egyezmény szerint telephelynek minősül;
+h) az a) pont alkalmazásában nem kell figyelembe venni a külföldi személy olyan állandó telephelyét, amely a külföldi személy illetősége szerinti államban adómentes vagy nem adóköteles,
 
 i) a 8. § (1) bekezdés f) pontja alkalmazásában nem mentesülhet az ellenőrzött külföldi társaság minősítés alól az e) pont szerint az a külföldi személy, amely az e törvény felhatalmazása alapján kiadott miniszteri rendelet szerinti adózási szempontból nem együttműködő államban rendelkezik illetőséggel és az a külföldi telephely, amely az e törvény felhatalmazása alapján kiadott miniszteri rendelet szerinti adózási szempontból nem együttműködő államban fekszik;
 
@@ -346,7 +346,7 @@ b) az ipari kibocsátásokról (a környezetszennyezés integrált megelőzése 
 
 37. vagyonkezelő alapítvány: a vagyonkezelő alapítványokról szóló törvény alapján vagyonkezelő alapítványként vagy közérdekű vagyonkezelő alapítványként nyilvántartásba vett jogi személy;
 
-38.
+38. villamosenergia-tároló: a villamos energiáról szóló törvény szerinti villamosenergia-tároló;
 
 39.
 

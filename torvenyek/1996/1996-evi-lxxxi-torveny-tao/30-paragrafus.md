@@ -8,7 +8,7 @@
 
 (3) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy az adózási szempontból nem együttműködő államok listáját rendeletben állapítsa meg.
 
-(4)
+(4) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy rendeletben szabályozza a villamosenergia-tároló létrehozatalára irányuló beruházás adókedvezményének részletes szabályait, igénylését, az adózó nyilvántartási és adatszolgáltatási kötelezettségét, az adópolitikáért felelős miniszter nyilvántartási, közzétételi és információszolgáltatási kötelezettségét.
 
 (5) E törvény hatálybalépésével egyidejűleg
 
