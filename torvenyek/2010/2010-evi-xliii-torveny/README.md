@@ -60,3 +60,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-43-00-00
 | 2023-01-01 | 2022. évi XLIV. törvény | 2010-43-00-00.53 |
 | 2023-05-11 | 2023. évi IX. törvény | 2010-43-00-00.54 |
 | 2023-12-22 | 2023. évi LXXXVIII. törvény | 2010-43-00-00.55 |
+| 2024-01-01 | 2023. évi CIX. törvény | 2010-43-00-00.56 |
