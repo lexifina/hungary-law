@@ -1,0 +1,5 @@
+## 1. A családok támogatásáról szóló 1998. évi LXXXIV. törvény végrehajtásáról szóló 223/1998. (XII. 30.) Korm. rendelet módosítása
+
+1. § A családok támogatásáról szóló 1998. évi LXXXIV. törvény végrehajtásáról szóló 223/1998. (XII. 30.) Korm. rendelet (a továbbiakban: Cst. vhr.) 7. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Ha az a gyermek, aki után vagy aki részére a tárgyév augusztus hónapjára iskoláztatási támogatást folyósítottak, és a tanulmányokat folytatóknak az Oktatási Hivatal vagy a Nemzeti Szakképzési és Felnőttképzési Hivatal által közölt adatállományában nem szerepel, a kormányhivatal vagy a családtámogatási kifizetőhely hiánypótlási felhívást bocsát ki az oktatási igazolványokról szóló kormányrendelet szerint a közreműködő intézmény által a tárgyidőszakra kiadott, érvényesítő matricával ellátott diákigazolvány-másolatnak vagy a közreműködő intézmény által kiadott, a diákigazolványra való jogosultságról szóló igazolás másolatának benyújtására. Külföldön folytatott tanulmányok esetén az intézmény által kiállított igazolás fogadható el.”
