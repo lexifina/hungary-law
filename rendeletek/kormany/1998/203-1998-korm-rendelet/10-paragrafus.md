@@ -1,5 +1,5 @@
 ## (A Bt. 24. §-ához)
 
-10. §[^61]
+10. §[^64]
 
-[^61]: A Vhr. 10. §-át a 26/2022. (I. 28.) Korm. rendelet 3. § 5. pontja hatályon kívül helyezte.
+[^64]: A Vhr. 10. §-át a 26/2022. (I. 28.) Korm. rendelet 3. § 5. pontja hatályon kívül helyezte.

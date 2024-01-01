@@ -41,3 +41,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-203-20-
 | 2022-02-01 | 1998-203-20-22.54 | 26/2022. (I. 28.) Korm. rendelet |
 | 2023-01-01 | 1998-203-20-22.55 | 606/2022. (XII. 28.) Korm. rendelet |
 | 2023-03-01 | 1998-203-20-22.56 | 606/2022. (XII. 28.) Korm. rendelet |
+| 2024-01-01 | 1998-203-20-22.57 | 651/2023. (XII. 28.) Korm. rendelet |

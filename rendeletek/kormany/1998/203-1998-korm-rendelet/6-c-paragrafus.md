@@ -1,3 +1,3 @@
-6/C. §[^46]
+6/C. §[^49]
 
-[^46]: A Vhr. 6/C. §-át a 26/2022. (I. 28.) Korm. rendelet 3. § 5. pontja hatályon kívül helyezte.
+[^49]: A Vhr. 6/C. §-át a 26/2022. (I. 28.) Korm. rendelet 3. § 5. pontja hatályon kívül helyezte.

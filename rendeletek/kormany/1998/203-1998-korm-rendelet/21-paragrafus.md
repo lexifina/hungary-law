@@ -1,5 +1,5 @@
 ## (A Bt. 34. §-ához)
 
-21. §[^94]
+21. §[^97]
 
-[^94]: A Vhr. 21. §-át a 26/2022. (I. 28.) Korm. rendelet 3. § 10. pontja hatályon kívül helyezte.
+[^97]: A Vhr. 21. §-át a 26/2022. (I. 28.) Korm. rendelet 3. § 10. pontja hatályon kívül helyezte.

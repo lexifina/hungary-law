@@ -1,3 +1,3 @@
-15. §[^73]
+15. §[^76]
 
-[^73]: A Vhr. 15. §-át a 26/2022. (I. 28.) Korm. rendelet 3. § 6. pontja hatályon kívül helyezte.
+[^76]: A Vhr. 15. §-át a 26/2022. (I. 28.) Korm. rendelet 3. § 6. pontja hatályon kívül helyezte.

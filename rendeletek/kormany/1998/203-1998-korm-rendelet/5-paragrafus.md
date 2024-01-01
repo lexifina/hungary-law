@@ -1,3 +1,3 @@
-5. §[^42]
+5. §[^45]
 
-[^42]: A Vhr. 5. §-át a 106/2005. (VI. 16.) Korm. rendelet 40. §-a (2) bekezdésének a) pontja hatályon kívül helyezte.
+[^45]: A Vhr. 5. §-át a 106/2005. (VI. 16.) Korm. rendelet 40. §-a (2) bekezdésének a) pontja hatályon kívül helyezte.

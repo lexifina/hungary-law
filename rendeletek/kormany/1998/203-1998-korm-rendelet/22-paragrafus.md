@@ -1,5 +1,5 @@
 ## (A Bt. 36. §-ához)
 
-22. §[^96]
+22. §[^99]
 
-[^96]: A Vhr. 22. §-át a 26/2022. (I. 28.) Korm. rendelet 3. § 10. pontja hatályon kívül helyezte.
+[^99]: A Vhr. 22. §-át a 26/2022. (I. 28.) Korm. rendelet 3. § 10. pontja hatályon kívül helyezte.
