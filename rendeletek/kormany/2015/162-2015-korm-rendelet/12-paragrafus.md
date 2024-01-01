@@ -18,7 +18,7 @@ ba) a szakképzési grémium díjazása és
 
 bb) a tutori díj.
 
-(2)[^47] Az (1) bekezdés a) pont aa) alpontja és b) pont ba) alpontja szerinti támogatások fedezetéül a miniszter által vezetett minisztériumnak (a továbbiakban: minisztérium) az egészségügyi szakképzési rendszer működésének fedezetéül szolgáló előirányzata, az (1) bekezdés a) pont ab) alpontja és b) pont bb) alpontja szerinti juttatások fedezetéül az OKFŐ költségvetési előirányzata szolgál.
+(2)[^47] Az (1) bekezdés szerinti támogatások fedezetéül az OKFŐ költségvetési előirányzata szolgál.
 
 (3) A támogatások és juttatások folyósítására a 3. § (5) bekezdésében meghatározott ideig kerül sor.
 
@@ -32,5 +32,5 @@ bb) a tutori díj.
 
 (8) Az egyetem (7) bekezdés szerinti tájékoztatása érdekében a rezidens szakmai gyakorlatát igazoló, az egyetem által az elsődleges képzőhely rendelkezésére bocsátott nyomtatványt a képzőhely minden hónap 5. napjáig elektronikus úton megküldi az egyetem részére.
 
-[^47]: A 12. § (2) bekezdése a 250/2017. (IX. 5.) Korm. rendelet 68. § d) pontja, az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^47]: A 12. § (2) bekezdése az 582/2023. (XII. 19.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^48]: A 12. § (7) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.

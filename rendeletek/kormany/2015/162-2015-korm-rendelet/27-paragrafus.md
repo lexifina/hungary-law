@@ -1,6 +1,6 @@
 ## 18. Az RTP működtetése
 
-## 27. §[^113] Az OKFŐ az RTP-vel kapcsolatos teljes körű koordinációs, kapcsolattartási, információs és pénzügyi-ügyviteli feladatokat lát el, ennek keretében különösen
+## 27. §[^114] Az OKFŐ az RTP-vel kapcsolatos teljes körű koordinációs, kapcsolattartási, információs és pénzügyi-ügyviteli feladatokat lát el, ennek keretében különösen
 
 a) kidolgozza és a miniszter jóváhagyását követően közzéteszi az ösztöndíj pályázati felhívását,
 
@@ -14,4 +14,4 @@ e) kapcsolatot tart az egyetemekkel, valamint az ösztöndíjas elsődleges kép
 
 f) évente beszámolót készít a miniszter számára az RTP végrehajtásáról.
 
-[^113]: A 27. § nyitó szövegrésze a 260/2021. (V.20.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^114]: A 27. § nyitó szövegrésze a 260/2021. (V.20.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.

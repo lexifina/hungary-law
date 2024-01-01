@@ -1,0 +1,3 @@
+35/H. §[^157] Az egészségügyi felsőfokú szakirányú szakképzési rendszerről, a Rezidens Támogatási Program ösztöndíjairól, valamint a fiatal szakorvosok támogatásáról szóló 162/2015. (VI. 30.) Korm. rendelet módosításáról szóló 582/2023. (XII. 19.) Korm. rendelettel módosított 16/A. § (2) bekezdés a) pontja szerinti támogatást első alkalommal a 2024. január hónapra esedékes illetmény megállapítása során kell alkalmazni, függetlenül attól, hogy az államilag támogatott szakképzésben részt vevő rezidens a szakképzését mikor kezdte meg.
+
+[^157]: A 35/H. §-t az 582/2023. (XII. 19.) Korm. rendelet 1. §-a iktatta be.
