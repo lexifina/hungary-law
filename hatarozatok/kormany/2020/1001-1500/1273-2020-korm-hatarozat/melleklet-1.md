@@ -1,54 +1,29 @@
 ## 1. A Kormány
 
-## a) az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (2) bekezdésében biztosított jogkörében eljárva 154 393 149 306 forint egyszeri átcsoportosítását rendeli el a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 1. melléklet XLVII. Gazdaságvédelmi Alap fejezet, 1. Gazdaságvédelmi programok cím terhére, az 1. melléklet szerint;
+## a)[^1]
 
-## Felelős: pénzügyminiszter
+## b)[^2]
 
-## Határidő: azonnal
+## c)[^3]
 
-## b) az Áht. 33. § (2) bekezdésében, valamint az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 153. §-ában biztosított jogkörében eljárva 1 671 274 344 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 43. Központi Maradványelszámolási Alap cím terhére, a 2. melléklet szerint;
+## d)[^4]
 
-## Felelős: pénzügyminiszter
+## e)[^5]
 
-## Határidő: azonnal
+## f)[^6] az Áht. 36. § (4b) bekezdésében, (4c) bekezdés a) pontjában, valamint az Ávr. 45/A. §-ában biztosított jogkörében eljárva egyetért azzal, hogy a honvédelmi miniszter – az irányítása alatt álló HM Védelemgazdasági Hivatal útján – a tatai Klapka György laktanya 20. épületének bővítése és felújítása érdekében a XIII. Honvédelmi Minisztérium fejezet, 1. Honvédelmi Minisztérium 2. Egyéb HM szervezetek költségvetési alcímen a 2020. évben 2 617 215 694 forint, a 2021. évben 6 300 000 000 forint, mindösszesen a 2020–2021. években 8 917 215 694 forint összegben kötelezettséget vállaljon.
 
-## c)[^1] az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 1 701 000 000 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 21. Központi kezelésű előirányzatok cím, 4. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, a 3. melléklet szerint;
+## 2.[^7]
 
-## Az átcsoportosítás tekintetében
+## 3.[^8]
 
-## Felelős: pénzügyminiszter
+1. melléklet az 1273/2020. (VI. 2.) Korm. határozathoz[^9]
 
-## Határidő: azonnal
-
-## Az elszámolás és a visszatérítési kötelezettség tekintetében
-
-## Felelős: a miniszterelnök általános helyettese
-
-## Határidő: 2024. december 31.
-
-## d) az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva – figyelemmel a Magyarország 2020. évi központi költségvetésének a veszélyhelyzettel összefüggő eltérő szabályairól szóló 92/2020. (IV. 6.) Korm. rendeletre – 3 464 100 000 forint egyszeri átcsoportosítását rendeli el, a 4. melléklet szerint;
-
-## Felelős: pénzügyminiszter
-
-## Határidő: azonnal
-
-## e) az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 100 000 000 forint egyszeri átcsoportosítását rendeli el, az 5. melléklet szerint;
-
-## Felelős: pénzügyminiszter
-
-## nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
-
-## Határidő: azonnal
-
-## f)[^2] az Áht. 36. § (4b) bekezdésében, (4c) bekezdés a) pontjában, valamint az Ávr. 45/A. §-ában biztosított jogkörében eljárva egyetért azzal, hogy a honvédelmi miniszter – az irányítása alatt álló HM Védelemgazdasági Hivatal útján – a tatai Klapka György laktanya 20. épületének bővítése és felújítása érdekében a XIII. Honvédelmi Minisztérium fejezet, 1. Honvédelmi Minisztérium 2. Egyéb HM szervezetek költségvetési alcímen a 2020. évben 2 617 215 694 forint, a 2021. évben 6 300 000 000 forint, mindösszesen a 2020–2021. években 8 917 215 694 forint összegben kötelezettséget vállaljon.
-
-## 2.[^3]
-
-## 3.[^4]
-
-1. melléklet az 1273/2020. (VI. 2.) Korm. határozathoz
-
-[^1]: Az 1. pont c) alpontja az 1007/2022. (I. 20.) Korm. határozat 2. pontja, az 1419/2023. (IX. 28.) Korm. határozat 10. pontja szerint módosított szöveg.
-[^2]: A 1. pont f) alpontja az 1899/2020. (XII. 14.) Korm. határozat 9. pontjával megállapított szöveg.
-[^3]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont a) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: Az 1. pont b) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: Az 1. pont c) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került. [Az 1281/2024. (IX. 17.) Korm. határozat 10. pontjában foglalt azon módosítás, amely szerint az 1. pont c) alpontjában a „2024. december 31.” szövegrész helyébe a „2026. június 30.” szöveg lép, nem vezethető át.]
+[^4]: Az 1. pont d) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^5]: Az 1. pont e) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^6]: A 1. pont f) alpontja az 1899/2020. (XII. 14.) Korm. határozat 9. pontjával megállapított szöveg.
+[^7]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
