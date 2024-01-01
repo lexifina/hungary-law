@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-12-20-5
 | 2020-11-25 | 1998-12-20-53.25 | 40/2012. (XII. 20.) NGM rendelet |
 | 2021-12-18 | 1998-12-20-53.26 | 40/2012. (XII. 20.) NGM rendelet |
 | 2023-01-01 | 1998-12-20-53.27 | 40/2012. (XII. 20.) NGM rendelet |
+| 2024-01-01 | 1998-12-20-53.28 | 40/2012. (XII. 20.) NGM rendelet |
