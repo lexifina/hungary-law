@@ -1,4 +1,4 @@
-15. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^126]
+15. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^128]
 
 Az egészségügyi szolgáltató és a védőnői szolgáltató által az illetmény- vagy bérnövelésére tekintettel igényelhető támogatási összeg fizetési osztályonként (Ft/hó)
 
@@ -122,4 +122,4 @@ Az egészségügyi szolgáltató és a védőnői szolgáltató által az illetm
 
 | 17 | 49–51 | 500 575 | 528 074 | 587 826 | 594 589 | 655 222 |
 
-[^126]: A 15. mellékletet a 139/2019. (VI. 14.) Korm. rendelet 7. § (2) bekezdés a) pontja iktatta be, szövege a 181/2023. (V. 16.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^128]: A 15. mellékletet a 139/2019. (VI. 14.) Korm. rendelet 7. § (2) bekezdés a) pontja iktatta be, szövege a 181/2023. (V. 16.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.

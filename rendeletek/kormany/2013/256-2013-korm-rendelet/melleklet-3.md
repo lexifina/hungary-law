@@ -78,11 +78,11 @@
 
 | 39. | Csolnoky Ferenc Kórház | Veszprém |
 
-| 40. | Csongrád-Csanád Vármegyei Dr. Bugyi István Kórház | Szentes |
+| 40. |  |  |
 
 | 41. | Csongrád-Csanád Vármegyei Egészségügyi Ellátó Központ Hódmezővásárhely- Makó | Hódmezővásárhely |
 
-| 42. | Csongrád-Csanád Vármegyei Mellkasi Betegségek Szakkórháza | Deszk |
+| 42. |  |  |
 
 | 43. | Csornai Margit Kórház | Csorna |
 
@@ -162,7 +162,7 @@
 
 | 81. | Gróf Esterházy Kórház és Rendelőintézeti Szakrendelő | Pápa |
 
-| 82. | Gróf Tisza István Kórház | Berettyóújfalu |
+| 82. |  |  |
 
 | 83. | Szent Kristóf Szakrendelő Újbudai Egészségügyi és Szolgáltató Közhasznú Nonprofit Kft. | Budapest |
 
@@ -220,7 +220,7 @@
 
 | 110. | Koch Róbert Kórház és Rendelőintézet | Edelény |
 
-| 111. | Komlói Egészségcentrum, Bányászati Utókezelő és Éjjeli Szanatórium Egészségügyi Központ | Komló |
+| 111. |  |  |
 
 | 112. | Komlós Településszolgáltatási Kft. | Tótkomlós |
 
@@ -276,7 +276,7 @@
 
 | 138. | Misszió Egészségügyi Központ | Veresegyház |
 
-| 139. | Mohácsi Kórház | Mohács |
+| 139. |  |  |
 
 | 140. | Móra-Vitál Térségi Egészségmegőrző és Szociális Nonprofit Közhasznú Kft. | Mórahalom |
 
@@ -414,7 +414,7 @@
 
 | 207. | Szentendre Város Egészségügyi Intézményei | Szentendre |
 
-| 208. | Szigetvári Kórház | Szigetvár |
+| 208. |  |  |
 
 | 209. | Szob Város Szakorvosi Rendelőintézete | Szob |
 
@@ -570,7 +570,11 @@
 
 | 285. | Orgovány Nagyközség Önkormányzata | Orgovány |
 
-3. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^114]
+| 286. | Tiszavasvári Településszolgáltatási és Vagyonkezelő Nonprofit Korlátolt Felelősségű Társaság | Tiszavasvári |
+
+| 287. | Nyíregyházi Szociális Gondozási és Egészségügyi Alapellátási Központ | Nyíregyháza |
+
+3. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^116]
 
 Az egészségügyi szakdolgozó munkakörének fizetési osztályba történő besorolása
 
@@ -650,4 +654,4 @@ kötött; valamint
 
 10. „J” fizetési osztályba kell sorolni a 8. MKKR szintű végzettséggel betölthető munkakört, amelynek ellátásához egyetemi (MSc) végzettségre és tudományos fokozatra van szükség.
 
-[^114]: A 3. mellékletet a 205/2016. (VII. 21.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte, újonnan a 238/2016. (VIII. 16.) Korm. rendelet 5. § (1) bekezdése iktatta be, szövege az 529/2020. (XI. 28.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^116]: A 3. mellékletet a 205/2016. (VII. 21.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte, újonnan a 238/2016. (VIII. 16.) Korm. rendelet 5. § (1) bekezdése iktatta be, szövege az 529/2020. (XI. 28.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
