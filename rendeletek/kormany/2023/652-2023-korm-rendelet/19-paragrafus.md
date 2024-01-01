@@ -1,0 +1,1 @@
+19. § Ez a rendelet a földgáz belső piacára vonatkozó közös szabályokról és a 2003/55/EK irányelv hatályon kívül helyezéséről szóló, 2009. július 13-i 2009/73/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
