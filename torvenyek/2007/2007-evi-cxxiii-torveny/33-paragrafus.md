@@ -1,4 +1,4 @@
-33. § (1) A kisajátítási határozat véglegessé válása után a határozatot a kisajátítást kérő, valamint az ingatlanügyi hatóság részére – részleges kisajátítás esetén utóbbi részére a kisajátítási tervet is mellékelve – meg kell küldeni. Ha a kisajátított ingatlanra végrehajtási jog volt bejegyezve, a határozatot az ügyben eljárt bírósági végrehajtóval, vagy a végrehajtást foganatosító egyéb szervvel is közölni kell. A határozat véglegessé válásáról a többi ügyfelet is értesíteni kell.
+33. § (1) A kisajátítási határozat véglegessé válása után a határozatot a kisajátítást kérő, valamint az ingatlanügyi hatóság részére – részleges kisajátítás esetén utóbbi részére a kisajátítási tervet is mellékelve – meg kell küldeni. Ha a kisajátított ingatlanra végrehajtási jog volt bejegyezve, a határozatot az ügyben eljárt bírósági végrehajtóval, vagy a végrehajtást foganatosító egyéb szervvel is közölni kell. A határozat véglegessé válásáról a többi ügyfelet a kisajátítási hatóság a honlapján történő közzététellel értesíti.
 
 (2) A véglegessé vált határozatot az adó helyesbítése, illetőleg kivetése céljából az illetékes helyi adóhatóságnak is meg kell küldeni.
 
