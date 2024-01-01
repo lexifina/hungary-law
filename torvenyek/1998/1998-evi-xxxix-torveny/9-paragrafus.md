@@ -18,6 +18,8 @@ b) az (1) bekezdés szerint kifizetőhelyet működtető foglalkoztató foglalko
 
 c) a pénzbeli egészségbiztosítási ellátások és a baleseti táppénz megállapítása, folyósítása és ellenőrzése céljából a (10) bekezdésben
 
+d) a pénzbeli egészségbiztosítási ellátásokkal, a baleseti táppénzzel, a nyugellátásokkal és a családtámogatási ellátásokkal kapcsolatban fennálló követelések keresetből történő levonása céljából a (10a) bekezdésben
+
 foglalt adattartalommal adatszolgáltatást teljesít elektronikus úton a Magyar Államkincstár részére.
 
 (8) A (7) bekezdés a) pontja szerinti adatszolgáltatás tartalmazza
@@ -55,6 +57,12 @@ g) jogviszonya szünetelésének időtartamát,
 h) jogviszonya szerinti munkakört (FEOR),
 
 i) jogviszonya szerinti munkaidő mértékét.
+
+(10a) A (7) bekezdés d) pontja szerinti adatszolgáltatás tartalmazza a biztosítotti nyilvántartásba bejelentett személy
+
+a) foglalkoztatójának nevét,
+
+b) foglalkoztatójának adószámát.
 
 (11) Az (1) bekezdés szerinti munkáltató és a (2) bekezdés szerinti magánszemély, jogi személy, illetve jogi személyiséggel nem rendelkező szervezet a kifizetőhely létesítése iránti kérelmet kizárólag az egészségbiztosító által erre a célra rendszeresített, a Kormány rendeletében megjelölt honlapon (a továbbiakban: központi honlap) közzétett űrlap alkalmazásával, kizárólagosan az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény szerinti elektronikus úton (a továbbiakban: elektronikus út) nyújthatja be.
 
