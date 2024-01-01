@@ -41,3 +41,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-84-00-00
 | 2023-01-01 | 2022. évi LXXIV. törvény | 2003-84-00-00.45 |
 | 2023-06-01 | 2023. évi XIX. törvény | 2003-84-00-00.46 |
 | 2023-12-30 | 2023. évi XCI. törvény | 2003-84-00-00.47 |
+| 2024-01-01 | 2023. évi XCI. törvény | 2003-84-00-00.48 |

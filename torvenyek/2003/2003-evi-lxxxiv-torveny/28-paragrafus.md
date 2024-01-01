@@ -10,7 +10,7 @@
 
 a) az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó
 
-aa) egészségügyi szakdolgozói, egészségügyben dolgozói, valamint felsőfokú végzettséggel betölthető munkakörök körét, a munkakörbe sorolás és a béremeléssel összefüggő besorolás részletes szabályait,
+aa) egészségügyi szakdolgozói, egyes egészségügyben dolgozói, valamint felsőfokú végzettséggel betölthető munkakörök körét, a munkakörbe sorolás és a béremeléssel összefüggő besorolás részletes szabályait, a besorolás alapjául szolgáló alap és kiemelt fizetési osztályokat,
 
 ab) az e törvényben foglalt feltételeknek megfelelő egészségügyi szolgáltató munkáltatók körét,
 
