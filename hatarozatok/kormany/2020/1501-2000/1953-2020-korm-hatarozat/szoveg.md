@@ -4,11 +4,7 @@ A Kormány az Országos Széchényi Könyvtár archívumainak elhelyezését szo
 
 2.[^1] a Beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 25 540 682 314 forintban határozza meg;
 
-3. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva, a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XLV. Kiemelt kormányzati magasépítési beruházások fejezet, 1. Egyedi magasépítési beruházások címet a 36. Országos Széchényi Könyvtár archivális raktárának megvalósítása alcímmel egészíti ki;
-
-Felelős: pénzügyminiszter
-
-Határidő: azonnal
+3.[^2]
 
 4. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon a 2. pont szerinti összeg 2021. évi részének finanszírozása érdekében 11 116 235 375 forint rendelkezésre állásáról a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XLVII. Gazdaságvédelmi Alap fejezet, 3. Gazdaságvédelmi Alap – Kiemelt Kormányzati Magasépítési Beruházások címen belül;
 
@@ -42,11 +38,12 @@ pénzügyminiszter
 
 Határidő: a 2021. év esetében a felmerülés ütemében a 2022. év esetében a központi költségvetés tervezése során
 
-8.[^2] felhívja az építési és beruházási minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon a 2. pont szerinti összeg 2023. évi részének rendelkezésre állásáról a Magyarország 2023. évi központi költségvetéséről szóló XXV. törvény 1. melléklet XLV. Kiemelt Kormányzati Magasépítési Beruházások fejezeten belül.
+8.[^3] felhívja az építési és beruházási minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon a 2. pont szerinti összeg 2023. évi részének rendelkezésre állásáról a Magyarország 2023. évi központi költségvetéséről szóló XXV. törvény 1. melléklet XLV. Kiemelt Kormányzati Magasépítési Beruházások fejezeten belül.
 
 | Felelős: | építési és beruházási miniszter pénzügyminiszter |
 
 | Határidő: | a 2023. évi központi költségvetés végrehajtása során, a felmerülés ütemében |
 
 [^1]: A 2. pont az 1492/2022. (X. 19.) Korm. határozat 36. pontja szerint módosított szöveg.
-[^2]: A 8. pontot az 1492/2022. (X. 19.) Korm. határozat 35. pontja iktatta be.
+[^2]: A 3. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: A 8. pontot az 1492/2022. (X. 19.) Korm. határozat 35. pontja iktatta be.
