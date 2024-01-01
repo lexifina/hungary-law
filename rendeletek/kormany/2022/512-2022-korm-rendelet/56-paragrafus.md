@@ -8,9 +8,9 @@
 
 (2) Az 1407/2013/EU bizottsági rendelet hatálya alá tartozó – Interreg CENTRAL EUROPE 2021–2027 program és Interreg Europe program forrásaiból megítélt vissza nem térítendő – támogatás kizárólag átlátható formában nyújtott támogatásként nyújtható.
 
-(3)[^43] A 651/2014/EU bizottsági rendelet hatálya alá tartozó vissza nem térítendő támogatás kizárólag átlátható formában nyújtott támogatásként nyújtható.
+(3)[^44] A 651/2014/EU bizottsági rendelet hatálya alá tartozó vissza nem térítendő támogatás kizárólag átlátható formában nyújtott támogatásként nyújtható.
 
-(4)[^44] Ha a támogatás nyújtása az uniós állami támogatási szabályok értelmében az Európai Bizottság előzetes jóváhagyásától függ, a támogatási döntés csak az Európai Bizottság jóváhagyó határozatának meghozatalát követően hajható végre.
+(4)[^45] Ha a támogatás nyújtása az uniós állami támogatási szabályok értelmében az Európai Bizottság előzetes jóváhagyásától függ, a támogatási döntés csak az Európai Bizottság jóváhagyó határozatának meghozatalát követően hajható végre.
 
-[^43]: Az 56. § (3) bekezdését a 339/2023. (VII. 25.) Korm. rendelet 34. §-a iktatta be. Alkalmazására lásd e módosító rendelet 59. §-át.
-[^44]: Az 56. § (4) bekezdését a 339/2023. (VII. 25.) Korm. rendelet 34. §-a iktatta be. Alkalmazására lásd e módosító rendelet 59. §-át.
+[^44]: Az 56. § (3) bekezdését a 339/2023. (VII. 25.) Korm. rendelet 34. §-a iktatta be. Alkalmazására lásd e módosító rendelet 59. §-át.
+[^45]: Az 56. § (4) bekezdését a 339/2023. (VII. 25.) Korm. rendelet 34. §-a iktatta be. Alkalmazására lásd e módosító rendelet 59. §-át.

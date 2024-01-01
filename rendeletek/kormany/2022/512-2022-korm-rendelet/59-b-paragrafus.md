@@ -1,4 +1,4 @@
-## 26/A.[^48] Az egyes támogatási kategóriákra vonatkozó közös szabályok
+## 26/A.[^49] Az egyes támogatási kategóriákra vonatkozó közös szabályok
 
 59/B. § (1) A partner a támogatással kapcsolatos okiratokat és dokumentumokat a támogatási döntés meghozatala napjától számított tíz évig megőrzi.
 
@@ -36,4 +36,4 @@ g) olyan feltétellel, amely az európai uniós jog megsértését eredményezi.
 
 (9) A több részletben kifizetett támogatást a támogatási döntés időpontja szerinti értékre kell a diszkont kamatláb alkalmazásával diszkontálni.
 
-[^48]: A 26/A. alcímet (59/B-59/E. §-t) a 339/2023. (VII. 25.) Korm. rendelet 38. §-a iktatta be. Alkalmazására lásd e módosító rendelet 59. §-át.
+[^49]: A 26/A. alcímet (59/B-59/E. §-t) a 339/2023. (VII. 25.) Korm. rendelet 38. §-a iktatta be. Alkalmazására lásd e módosító rendelet 59. §-át.

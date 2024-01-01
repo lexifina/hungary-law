@@ -60,7 +60,7 @@
 
 24. irányító hatóság: az (EU) 2021/1059 európai parlamenti és tanácsi rendelet 45. cikk (1) bekezdése alapján kijelölt szervezet,
 
-24a.[^9] irányító hatóság és közös titkárság: a DRP-ben részt vevő partnerországok által kijelölt integrált menedzsment szervezet, amely a területfejlesztés stratégiai tervezéséért felelős miniszter által vezetett minisztérium funkcionálisan önálló szervezeti egységeként az (EU) 2021/1059 európai parlamenti és tanácsi rendelet 46. cikke alapján az (EU) 2021/1060 rendelet 72. cikkében meghatározott, valamint a Programdokumentumban és a Programkiegészítő Dokumentumban lefektetett feladatokat látja el,
+24a.[^9] irányító hatóság és közös titkárság: a DRP-ben részt vevő partnerországok által kijelölt integrált menedzsment szervezet, amely a területfejlesztésért felelős miniszter által vezetett minisztérium funkcionálisan önálló szervezeti egységeként az (EU) 2021/1059 európai parlamenti és tanácsi rendelet 46. cikke alapján az (EU) 2021/1060 rendelet 72. cikkében meghatározott, valamint a Programdokumentumban és a Programkiegészítő Dokumentumban lefektetett feladatokat látja el,
 
 24b.[^10] kis összegű követelés: a kettőszázötven eurót meg nem haladó hazai társfinanszírozásra vonatkozó követelés, valamint a százezer forintot meg nem haladó uniós támogatás megelőlegezésére vonatkozó követelés,
 
@@ -126,7 +126,7 @@
 [^6]: A 2. § (1) bekezdés 11b. pontját a 339/2023. (VII. 25.) Korm. rendelet 26. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 59. §-át.
 [^7]: A 2. § (1) bekezdés 11c. pontját a 339/2023. (VII. 25.) Korm. rendelet 26. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 59. §-át.
 [^8]: A 2. § (1) bekezdés 14a. pontját a 339/2023. (VII. 25.) Korm. rendelet 26. § (3) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 59. §-át.
-[^9]: A 2. § (1) bekezdés 24a. pontját a 339/2023. (VII. 25.) Korm. rendelet 26. § (4) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 59. §-át.
+[^9]: A 2. § (1) bekezdés 24a. pontját a 339/2023. (VII. 25.) Korm. rendelet 26. § (4) bekezdése iktatta be, szövege az 599/2023. (XII. 22.) Korm. rendelet 44. §-a szerint módosított szöveg.. Alkalmazására lásd a 339/2023. (VII. 25.) Korm. rendelet 59. §-át.
 [^10]: A 2. § (1) bekezdés 24b. pontját a 339/2023. (VII. 25.) Korm. rendelet 26. § (4) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 59. §-át.
 [^11]: A 2. § (1) bekezdés 25a. pontját a 339/2023. (VII. 25.) Korm. rendelet 26. § (5) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 59. §-át.
 [^12]: A 2. § (1) bekezdés 25b. pontját a 339/2023. (VII. 25.) Korm. rendelet 26. § (5) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 59. §-át.
