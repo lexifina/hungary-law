@@ -12,7 +12,7 @@
 
 6. 7. § (8) bekezdés a) pontjában az „oldala” szövegrész helyébe a „hátoldala” szöveg,
 
-7. 10. § (3) bekezdésében, 14/A. § (4) bekezdésében, a 16. § (2) bekezdés a) pontjában, a 24/A. § (3) bekezdésében, valamint a 27. § (7) és (8) bekezdésében a „szolgáltató 65. § szerinti belső szabályzatában meghatározott vezetője” szövegrész helyébe a „szolgáltató kijelölt felelős vezetője” szöveg,
+7.
 
 8. 12. § (1) bekezdésében a „szolgáltató köteles” szövegrész helyébe a „szolgáltató – a (2a) bekezdés kivételével – köteles” szöveg,
 
@@ -28,7 +28,7 @@
 
 14. 14/A. § (1) bekezdésében az „annak meghatalmazottját, a rendelkezésre jogosultat, továbbá a képviselőt” szövegrész helyébe a „valamint annak a szolgáltatónál eljáró meghatalmazottját, rendelkezésre jogosultját, továbbá képviselőjét” szöveg,
 
-15. 16/A. § (1) bekezdés b) pontjában a „65. § szerinti belső szabályzatban meghatározott vezetője” szövegrész helyébe a „szolgáltató kijelölt felelős vezetője” szöveg,
+15.
 
 16. 17. § (1) bekezdésében az „a rendelkezésre jogosult, a képviselő vagy a meghatalmazott” szövegrész helyébe az „annak a szolgáltatónál eljáró meghatalmazottja, rendelkezésre jogosultja vagy képviselője” szöveg,
 

@@ -13,15 +13,3 @@ a) az (EU) 2022/1231 tanácsi végrehajtási rendelettel módosított, a belarus
 b) az (EU) 2022/1269 tanácsi rendelettel módosított, az ukrajnai helyzetet destabilizáló orosz intézkedések miatt hozott korlátozó intézkedésekről szóló, 2014. július 31-i 833/2014/EU tanácsi rendelet 5–5i. és 5l–5n. cikke
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
-
-|
-
-Novák Katalin s. k.,
-
-köztársasági elnök
-
-|
-
-Dr. Latorcai János s. k.,
-
-az Országgyűlés alelnöke
