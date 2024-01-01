@@ -1,7 +1,8 @@
 53. § (1) Az érdemjelek, kitüntető címek, egyéb miniszteri elismerések odaítélését rendvédelmi szervek esetében a szolgálati út betartásával kell kezdeményezni.
 
-(2) A polgármester és a jegyző elismerését bárki kezdeményezheti, az elismerésre a helyi önkormányzat képviselőtestülete és az illetékes kormányhivatal előzetes véleményezése alapján kerülhet sor.
+(2)[^149]
 
-(3)[^126]
+(3)[^150]
 
-[^126]: Az 53. § (3) bekezdését az 51/2014. (XI. 26.) BM rendelet 17. § (2) bekezdés 10. pontja hatályon kívül helyezte.
+[^149]: Az 53. § (2) bekezdését a 71/2023. (XII. 23.) BM rendelet 5. § 12. pontja hatályon kívül helyezte.
+[^150]: Az 53. § (3) bekezdését az 51/2014. (XI. 26.) BM rendelet 17. § (2) bekezdés 10. pontja hatályon kívül helyezte.

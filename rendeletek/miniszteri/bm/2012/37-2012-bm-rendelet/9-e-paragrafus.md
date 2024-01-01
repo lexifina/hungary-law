@@ -1,4 +1,4 @@
-## 9/E.[^19] Pro Sanitate díj
+## 9/E.[^22] Pro Sanitate díj
 
 9/E. § (1) A Pro Sanitate díj az egészségügyi ellátás érdekében kifejtett kiemelkedő szakmai vagy közszolgálati tevékenységért adományozható.
 
@@ -8,6 +8,7 @@
 
 (4) A Pro Sanitate díjjal díjazott emlékérmet, és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 98 milliméter. Az emlékérem egyoldalas, a gyógyító orvost és a betegét ábrázolja.
 
-(5) A Pro Sanitate díjhoz pénzjutalom jár. A Pro Sanitate díjjal járó pénzjutalom összege az illetményalap hatszorosának megfelelő összeg.
+(5)[^23] A Pro Sanitate díjhoz pénzjutalom adható. A Pro Sanitate díjjal adható pénzjutalom összege kizárólag az illetményalap hatszorosának megfelelő összeg lehet.
 
-[^19]: A 9/E. alcímet (9/E. §-t) a 39/2022. (XI. 22.) BM rendelet 2. § (3) bekezdése iktatta be.
+[^22]: A 9/E. alcímet (9/E. §-t) a 39/2022. (XI. 22.) BM rendelet 2. § (3) bekezdése iktatta be.
+[^23]: A 9/E. § (5) bekezdése a 84/2023. (XII. 28.) BM rendelet 5. §-ával megállapított szöveg.

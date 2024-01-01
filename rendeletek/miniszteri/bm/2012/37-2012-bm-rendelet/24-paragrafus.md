@@ -1,4 +1,4 @@
-## 22. [^63] Katasztrófavédelem Önkéntes Támogatásáért Emlékérem
+## 22. [^84] Katasztrófavédelem Önkéntes Támogatásáért Emlékérem
 
 24. § (1) A Katasztrófavédelem Önkéntes Támogatásáért Emlékérem a katasztrófavédelem területén végzett önkéntes tevékenység során egész évben nyújtott kiemelkedő teljesítményért, valamint a katasztrófavédelem támogatásáért végzett magas színvonalú, kiemelkedően eredményes önkéntes munka elismerésére adományozható.
 
@@ -8,4 +8,4 @@
 
 (4) A Katasztrófavédelem Önkéntes Támogatásáért Emlékérem leírását a 18. melléklet tartalmazza.
 
-[^63]: A 22. alcím (24. §) az 51/2014. (XI. 26.) BM rendelet 7. §-ával megállapított szöveg.
+[^84]: A 22. alcím (24. §) az 51/2014. (XI. 26.) BM rendelet 7. §-ával megállapított szöveg.

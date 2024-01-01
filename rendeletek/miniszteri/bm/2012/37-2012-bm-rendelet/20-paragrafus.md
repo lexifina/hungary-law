@@ -4,7 +4,7 @@
 
 (2) Több fokozatot adományozni ugyanazon személynek csak a fokozatok emelkedő sorrendjének betartásával lehet.
 
-(3)[^60]
+(3)[^81]
 
 (4) A Rendkívüli Helytállásért Érdemjel
 
@@ -18,4 +18,4 @@ fő részesíthető évente.
 
 (5) Az (1) bekezdés szerinti elismerés leírásának és viselési rendjének meghatározását a 14. melléklet tartalmazza.
 
-[^60]: A 20. § (3) bekezdését a 24/2023. (VI. 30.) BM rendelet 30. § b) pontja hatályon kívül helyezte.
+[^81]: A 20. § (3) bekezdését a 24/2023. (VI. 30.) BM rendelet 30. § b) pontja hatályon kívül helyezte.
