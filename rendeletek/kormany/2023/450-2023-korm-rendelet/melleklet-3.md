@@ -1,3 +1,5 @@
-3. melléklet a 450/2023. (X. 4.) Korm. rendelethez[^32]
+3. melléklet a 450/2023. (X. 4.) Korm. rendelethez[^15]
 
-[^32]: A 3. melléklet a 40. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+A kötelezően visszaváltási díjas termékek díjkódjai
+
+[^15]: A 3. melléklet a 674/2023. (XII. 29.) Korm. rendelet 34. §-ával megállapított szöveg.

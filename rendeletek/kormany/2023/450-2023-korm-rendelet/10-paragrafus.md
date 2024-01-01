@@ -1,17 +1,11 @@
 10. § (1) A gyártó a forgalmazóval kötött megállapodás alapján a kötelezően visszaváltási díjas terméknek nem minősülő terméket vagy csomagolást – meghatározott helyre történő visszajuttatásának ösztönzése érdekében – önkéntesen visszaváltási díjas termékké minősítheti.
 
-(2)[^6]
+(2) A gyártó gondoskodik az önkéntesen visszaváltási díjas termék esetén a terméken a „visszaváltható” megjelölés jól látható helyen, tartósan megmaradó és jól olvasható feltüntetéséről.
 
-(3)[^7]
+(3) A gyártó az önkéntesen visszaváltási díjas terméket, amely után a fogyasztó visszaváltási díjat fizetett, a forgalmazótól, a fogyasztótól visszaveszi, és a visszaváltási díjat részére visszafizeti.
 
-(4)[^8]
+(4) A gyártó a forgalmazóval kötött megállapodásban meghatározza az önkéntesen visszaváltási díjas terméke visszaváltáskori állapotára vonatkozó követelményeket, amelyek nem zárhatják ki a rendeltetésszerű használatból eredő változások esetén a termék visszaváltását.
 
-(5)[^9]
+(5) Az önkéntesen visszaváltási díjas termék visszaváltása feltételeinek változásáról – ide nem értve a díj változását – a gyártó a változások bevezetésének időpontja megjelölésével, legalább három hónappal a változás bevezetése előtt tájékoztatja a forgalmazót.
 
-(6)[^10]
-
-[^6]: A 10. § (2) bekezdése a 40. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
-[^7]: A 10. § (3) bekezdése a 40. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
-[^8]: A 10. § (4) bekezdése a 40. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
-[^9]: A 10. § (5) bekezdése a 40. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
-[^10]: A 10. § (6) bekezdése a 40. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+(6) Ha a gyártó felhagy az önkéntesen visszaváltási díjas termék gyártásával, a forgalmazótól és a fogyasztótól a terméket a gyártás megszüntetésétől számított legalább négy hónapig visszaváltja.

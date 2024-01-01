@@ -1,3 +1,1 @@
-46. §[^29]
-
-[^29]: A 46. § a 40. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+46. § Hatályát veszti a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló 80/2023. (III. 14.) Korm. rendelet 7. §-ában a „Betétdíjas termék gyártója a kiterjesztett gyártói felelősségi kötelezettségeit egyénileg teljesítheti.” szövegrész.

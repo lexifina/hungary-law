@@ -6,8 +6,10 @@
 
 (3) A regisztrációra vonatkozó részletes követelményeket a koncessziós társaság határozza meg és a honlapján közzéteszi. A regisztrációra vonatkozó követelmények változásáról a koncessziós társaság a változás bevezetésének időpontja megjelölésével, legalább 30 nappal a változás bevezetése előtt a honlapján tájékoztatást tesz közzé.
 
-(4)[^2]
+(4) Ha a gyártó az (1) bekezdés szerinti regisztrációs kötelezettségének nem tesz eleget, vagy ha a koncessziós társaság a regisztrációt megtagadja, a termék nem hozható forgalomba.
 
 (5) Ha az (1) bekezdés szerinti regisztráció során a koncessziós társaság megállapítja, hogy a termék speciális jellemzői miatt automata visszaváltó berendezéssel nem visszaváltható, akkor arra e rendelet kötelezően visszaváltási díjas termékekre vonatkozó szabályai e §-ban foglaltak kivételével nem alkalmazandók.
 
-[^2]: A 6. § (4) bekezdése a 40. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+(6)[^4] Ha a kötelezően visszaváltási díjas termék regisztrációjával kapcsolatos költségek mértéke a gyártó számára aránytalan terhet jelentene a termék számvitelről szóló törvény szerinti bekerülési értékéhez viszonyítva, a gyártó részletes indokolással ellátott írásbeli kérelme alapján a koncessziós társaság a regisztrációtól eltekinthet, azzal, hogy ez esetben a termékre az e rendelet kötelezően visszaváltási díjas termékre vonatkozó szabályai nem alkalmazandók.
+
+[^4]: A 6. § (6) bekezdését a 674/2023. (XII. 29.) Korm. rendelet 28. §-a iktatta be.

@@ -1,3 +1,1 @@
-27. §[^20]
-
-[^20]: A 27. § a 40. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+27. § A koncessziós társaság belső, független auditor által auditált önellenőrzési rendszert működtet a pénzügyi gazdálkodás, valamint a tevékenysége során gyűjtött adatok ellenőrizhetősége érdekében.

@@ -1,3 +1,3 @@
-5. melléklet a 450/2023. (X. 4.) Korm. rendelethez[^34]
+5. melléklet a 450/2023. (X. 4.) Korm. rendelethez[^17]
 
-[^34]: Az 5. melléklet a 40. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^17]: Az 5. melléklet a 674/2023. (XII. 29.) Korm. rendelet 37. §-a alapján nem lép hatályba.

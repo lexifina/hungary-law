@@ -1,3 +1,3 @@
-44. §[^27]
+44. §[^14]
 
-[^27]: A 44. § a 40. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^14]: A 44. § a 674/2023. (XII. 29.) Korm. rendelet 37. §-a alapján nem lép hatályba.

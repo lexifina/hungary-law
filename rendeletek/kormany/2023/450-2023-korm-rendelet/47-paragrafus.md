@@ -1,3 +1,1 @@
-47. §[^30]
-
-[^30]: A 47. § a 40. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+47. § Hatályát veszti a betétdíj alkalmazásának szabályairól szóló 209/2005. (X. 5.) Korm. rendelet.

@@ -1,3 +1,1 @@
-23. §[^16]
-
-[^16]: A 23. § a 40. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+23. § A koncessziós társaság a visszaváltási helyen gyűjtött, kötelezően visszaváltási díjas, nem újrahasználható termék hulladékának elszállítását oly módon és rendszerességgel látja el, hogy az a visszaváltásihely-üzemeltető kötelezettségeinek teljesítését és működését ne akadályozza. A koncessziós társaság az elszállítást hatékonyan és biztonságosan megszervezi a fogyasztótól átvett mennyiséghez igazodva. A koncessziós társaság a gyűjtési gyakoriságot a közegészségügyi követelmények és a hulladék tárolásához szükséges műszaki szempontok figyelembevételével úgy határozza meg, hogy a visszaváltott termék hulladékának rendszeres elszállítása, a kötelező visszaváltási díjas rendszer zökkenőmentes, gördülékeny és folyamatos működése biztosított legyen.

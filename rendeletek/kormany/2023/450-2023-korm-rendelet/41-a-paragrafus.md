@@ -1,0 +1,3 @@
+41/A. §[^13] A 41. § (2) bekezdésében foglaltaktól eltérően a Nemzeti Élelmiszerlánc-biztonsági Hivatal által legkésőbb 2023. december 31-ig kiadott forgalomba hozatali azonosítóval rendelkező borászati termék csomagolása, amely kötelezően visszaváltási díjas terméknek minősülne, a forgalomba hozatali azonosító érvényességi ideje alatt az e rendelet hatálybalépése előtt hatályos rendelkezések alapján forgalomba hozható és forgalmazható, ha a borászati terméket 2023. december 31. napjáig közvetlen fogyasztói csomagolással ellátták.
+
+[^13]: A 41/A. §-t a 674/2023. (XII. 29.) Korm. rendelet 33. §-a iktatta be.

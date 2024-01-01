@@ -1,3 +1,1 @@
-9. §[^5]
-
-[^5]: A 9. § a 40. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+9. § A gyártó a kötelezően visszaváltási díjas, újrahasználható termék forgalomba hozatala után csatlakozási és szolgáltatási díjat, a kötelezően visszaváltási díjas, nem újrahasználható termék esetén csatlakozási, szolgáltatási és visszaváltási díjat fizet a koncessziós társaság részére.

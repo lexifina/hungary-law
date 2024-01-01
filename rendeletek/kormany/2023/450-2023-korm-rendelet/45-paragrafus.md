@@ -1,3 +1,1 @@
-45. §[^28]
-
-[^28]: A 45. § a 40. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+45. § A kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló 80/2023. (III. 14.) Korm. rendelet 34. § (3) bekezdés b) pontjában a „díj megfizetéséig” szövegrész helyébe a „díj, kötelezően visszaváltási díjas termék esetén a visszaváltási díj megállapításának és alkalmazásának, valamint a visszaváltási díjas termék forgalmazásának részletes szabályairól szóló kormányrendelet szerinti csatlakozási és szolgáltatási díj megfizetéséig” szöveg lép.
