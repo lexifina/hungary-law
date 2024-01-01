@@ -6,7 +6,7 @@ a) az ideiglenes védelem időtartama lejár, vagy – a 19. § b) pontján alap
 
 b) az Európai Unió Tanácsa a 19. § a) pontja szerinti elismerést visszavonja;
 
-c) a menedékes Magyarországon letelepedett jogállást szerez;
+c) a menedékes Magyarországon huzamos tartózkodási jogosultságot szerez;
 
 d) a menedékest a menekültügyi hatóság menekültként vagy oltalmazottként ismeri el;
 

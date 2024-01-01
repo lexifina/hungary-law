@@ -14,7 +14,7 @@ e) kiutasításának vagy kiadatásának végrehajtására került sor az 54. §
 
 f) ujjnyomatának vagy arcképmásának rögzítését megakadályozza vagy lehetetlenné teszi.
 
-(3) A menekültügyi hatóság az eljárást megszüntető végzésében rendelkezik a külföldi humanitárius célból kiadott tartózkodási engedélyének visszavonásáról, és a (2) bekezdés a)–c) és f) pontján alapuló megszüntetés eseteiben rendelkezik a 45. § (5), (7) és (8) bekezdésében foglaltak szerint a külföldi a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény szerinti kiutasításáról, valamint törvényben meghatározott esetekben a kitoloncolásáról. Kitoloncolás elrendelése esetén meg kell állapítani a beutazási és tartózkodási tilalom időtartamát.
+(3) A menekültügyi hatóság az eljárást megszüntető végzésében rendelkezik a külföldi humanitárius célból kiadott tartózkodási engedélyének visszavonásáról, és a (2) bekezdés a)–c) és f) pontján alapuló megszüntetés eseteiben rendelkezik a 45. § (5), (7) és (8) bekezdésében foglaltak szerint a külföldi a Btátv. szerinti kiutasításáról, valamint törvényben meghatározott esetekben a kitoloncolásáról. Kitoloncolás elrendelése esetén meg kell állapítani a beutazási és tartózkodási tilalom időtartamát.
 
 (4) Az eljárást a (2) bekezdés a)–d) pontja alapján megszüntető végzéssel szemben közigazgatási pernek nincs helye.
 

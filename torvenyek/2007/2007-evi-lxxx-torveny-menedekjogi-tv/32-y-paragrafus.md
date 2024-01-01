@@ -18,7 +18,7 @@
 
 (8a) Megszűnik a végrehajtási eljárás
 
-a) az adóhatóságnak a végrehajtás eredménytelenségéről szóló értesítése és a behajtási eljárásának második alkalommal történő megszüntetése esetén;
+a) az adóhatóságnak a végrehajtás eredménytelenségéről szóló értesítése és a behajtási eljárásának a megszüntetése esetén;
 
 b) ha az adós meghal.
 
