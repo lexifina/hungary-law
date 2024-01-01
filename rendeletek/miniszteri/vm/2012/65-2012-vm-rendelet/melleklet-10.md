@@ -1,4 +1,4 @@
-10. melléklet a 65/2012. (VII. 4.) VM rendelethez[^91]
+10. melléklet a 65/2012. (VII. 4.) VM rendelethez[^93]
 
 A elsődleges előállítók kivételével a magyarországi székhelyű takarmány-vállalkozások engedélyezése, illetve bejelentésüket követő nyilvántartásba vétel során adandó regisztrációs szám képzése
 
@@ -26,4 +26,4 @@ Magyarországon:
 
 | 05 | Csongrád-Csanád | 10 | Jász-Nagykun-Szolnok | 15 | Szabolcs-Szatmár-Bereg | 20 | Budapest |
 
-[^91]: A 10. melléklet a 131/2022. (XII. 27.) AM rendelet 1. § c) és d) pontja szerint módosított szöveg.
+[^93]: A 10. melléklet a 131/2022. (XII. 27.) AM rendelet 1. § c) és d) pontja szerint módosított szöveg.

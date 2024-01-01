@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-65-20-2
 | 2017-08-18 | 2012-65-20-2Y.5 | 42/2017. (VIII. 17.) FM rendelet |
 | 2023-01-01 | 2012-65-20-2Y.6 | 42/2017. (VIII. 17.) FM rendelet |
 | 2023-05-15 | 2012-65-20-2Y.7 | 23/2023. (V. 10.) AM rendelet |
+| 2024-01-01 | 2012-65-20-2Y.8 | 176/2023. (XII. 27.) AM rendelet |
