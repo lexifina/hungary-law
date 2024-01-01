@@ -1,4 +1,4 @@
-## VIII/B. RÉSZ[^352]
+## VIII/B. RÉSZ[^355]
 
 ## ÁLLATGYÓGYÁSZATBAN HASZNÁLATOS GYÓGYHATÁSÚ KÉSZÍTMÉNYEK, ÁPOLÓSZEREK
 
@@ -12,4 +12,4 @@
 
 ## ÉS FELHASZNÁLÁSÁNAK FELTÉTELEI
 
-[^352]: A VIII/B. részt (114/L–T. §-t) a 33/2010. (IV. 7.) FVM rendelet 9. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^355]: A VIII/B. részt (114/L–T. §-t) a 33/2010. (IV. 7.) FVM rendelet 9. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.

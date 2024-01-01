@@ -1,3 +1,3 @@
-97. §[^299]
+97. §[^302]
 
-[^299]: A 97. §-t a 27/2021. (VIII. 11.) AM rendelet 38. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^302]: A 97. §-t a 27/2021. (VIII. 11.) AM rendelet 38. § (1) bekezdés a) pontja hatályon kívül helyezte.

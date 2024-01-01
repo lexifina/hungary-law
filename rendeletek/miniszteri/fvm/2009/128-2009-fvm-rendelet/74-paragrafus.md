@@ -40,6 +40,18 @@ g) „Az orvos kezéhez” kifejezést.
 
 (7)[^214] A bevételezett kábítószerként kezelendő készítmény nevét, gyártóját, gyártási számát, kiszerelését, a kiszerelés mennyiségét, az összesen bevételezett mennyiségét (ml-ben, gramm-ban kifejezve), a készleten lévő aktuális mennyiségét, a bevételezés idejét, a bevételezéshez tartozó vény sorszámát, a beszerzés helyét (cégnév, cím) a kábítószerként kezelendő készítmények rendeléséről és felhasználásáról szóló nyilvántartásban fel kell tüntetni. Felhasználáskor a nyilvántartásban rögzíteni kell a felhasználás időpontját, a felhasznált készítmény nevét, a készítmény felhasznált mennyiségét (ml, gramm), zárókészletét, a felhasználás célját (beteg állat adatai) és az állat tulajdonosának adatait (név, lakcím/telephely).
 
+(8)[^215] Élelmiszer-termelő állat részére antibiotikum-hatóanyagú készítmény rendelésére szolgáló vényt az erre hatósági bizonyítvánnyal rendelkező állatorvos adhat ki. A hatósági bizonyítvány megszerzésének feltétele a szakirányú graduális vagy iskolarendszeren kívüli hatósági jellegű képzés igazolt, sikeres elvégzése. Az iskolarendszeren kívüli hatósági jellegű képzést és a vizsgáztatást a NÉBIH szervezi, végzi, illetve e feladatokat az Állatorvostudományi Egyetemmel kötött megállapodás útján is elvégezheti. A NÉBIH a hatósági bizonyítványt a sikeres vizsgát követően adja ki, és az általa üzemeltetett FELIR rendszerben nyilvántartja a hatósági bizonyítvány megszerzésének tényét, amelyet a honlapján megjelentet. A hatósági bizonyítvány 5 évig érvényes, amelyet lejártát megelőzően újabb képzésen való részvétellel meg kell újítani.
+
+(9)[^216] A (8) bekezdés szerinti hatósági jellegű képzésnek legalább az alábbi témaköröket kell magába foglalnia:
+
+a) antibiotikumok alkalmazásának általános irányelvei, az antibiotikumok humángyógyászati fontossága, az antimikrobiális rezisztencia járványügyi és higiéniai vonatkozásai,
+
+b) az antibiotikumok engedélyezésének, forgalmazásának és felhasználásának irányelvei hazánkban és az Európai Unióban,
+
+c) antimikrobiális szerek helyes alkalmazása haszonállatokban és társállatoknál.
+
+(10)[^217] A (8) bekezdés szerinti hatósági jellegű képzés legalább 16 órás elméleti képzést foglal magában, és írásbeli vizsgával zárul.
+
 [^207]: A 74. § (1) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 3. pontja szerint módosított szöveg.
 [^208]: A 74. § (1) bekezdés a) pontja a 77/2013. (IX. 10.) VM rendelet 13. § 2. pontja szerint módosított szöveg.
 [^209]: A 74. § (3) bekezdése a 27/2021. (VIII. 11.) AM rendelet 26. § (1) bekezdésével megállapított szöveg.
@@ -48,3 +60,6 @@ g) „Az orvos kezéhez” kifejezést.
 [^212]: A 74. § (5a) bekezdését a 27/2021. (VIII. 11.) AM rendelet 26. § (2) bekezdése iktatta be.
 [^213]: A 74. § (6) bekezdését a 77/2013. (IX. 10.) VM rendelet 7. §-a iktatta be.
 [^214]: A 74. § (7) bekezdését a 77/2013. (IX. 10.) VM rendelet 7. §-a iktatta be.
+[^215]: A 74. § (8) bekezdését a 27/2021. (VIII. 11.) AM rendelet 26. § (3) bekezdése iktatta be.
+[^216]: A 74. § (9) bekezdését a 27/2021. (VIII. 11.) AM rendelet 26. § (3) bekezdése iktatta be.
+[^217]: A 74. § (10) bekezdését a 27/2021. (VIII. 11.) AM rendelet 26. § (3) bekezdése iktatta be.

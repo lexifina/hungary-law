@@ -1,3 +1,3 @@
-## 105. §[^316] A NÉBIH gondoskodik a lejárt, illetve fel nem használt állatgyógyászati készítmények megsemmisítését elősegítő begyűjtő rendszer létrehozásáról.
+## 105. §[^319] A NÉBIH gondoskodik a lejárt, illetve fel nem használt állatgyógyászati készítmények megsemmisítését elősegítő begyűjtő rendszer létrehozásáról.
 
-[^316]: A 105. § a 70/2013. (VII. 31.) VM rendelet 111. § 2. pontja szerint módosított szöveg.
+[^319]: A 105. § a 70/2013. (VII. 31.) VM rendelet 111. § 2. pontja szerint módosított szöveg.

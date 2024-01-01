@@ -1,4 +1,4 @@
-74/A. §[^215] (1) Élelmiszer-termelő állat részére az állattartó általi alkalmazás esetén legfeljebb hét nap időtartamú kezelésre elegendő mennyiségű antibiotikum-hatóanyagú készítmény rendelhető.
+74/A. §[^218] (1) Élelmiszer-termelő állat részére az állattartó általi alkalmazás esetén legfeljebb hét nap időtartamú kezelésre elegendő mennyiségű antibiotikum-hatóanyagú készítmény rendelhető.
 
 (2) Antibiotikum-hatóanyagú készítmény megrendelőnek nem minősülő állatorvosi vényen rendelhető.
 
@@ -44,7 +44,7 @@ h) a vény bal felső sarkában az „Rp.” betűk feltüntetése, a vény sors
 
 (6) Az elektronikus állatorvosi vény hitelességét a kiadást megelőzően az állatgyógyászati készítmény forgalmazója ellenőrzi.
 
-(7)[^216] Az elektronikus vény kiállítására szolgáló informatikai rendszer adataihoz annak működtetője, illetve üzemeltetője közvetlen és folyamatos hozzáférést biztosít a NÉBIH és a vármegyei kormányhivatalok számára hatósági ellenőrzés lefolytatása céljából.
+(7)[^219] Az elektronikus vény kiállítására szolgáló informatikai rendszer adataihoz annak működtetője, illetve üzemeltetője közvetlen és folyamatos hozzáférést biztosít a NÉBIH és a vármegyei kormányhivatalok számára hatósági ellenőrzés lefolytatása céljából.
 
 (8) A megrendelőn legalább az alábbi adatokat kell feltüntetni:
 
@@ -64,5 +64,5 @@ bc) felhasználási helye.
 
 (9) A megrendelőt vagy vényt a kiadás helyén 5 évig meg kell őrizni.
 
-[^215]: A 74/A. §-t a 27/2021. (VIII. 11.) AM rendelet 26. § (4) bekezdése iktatta be.
-[^216]: A 74/A. § (7) bekezdése a 23/2023. (V. 10.) AM rendelet 13. §-a szerint módosított szöveg.
+[^218]: A 74/A. §-t a 27/2021. (VIII. 11.) AM rendelet 26. § (4) bekezdése iktatta be.
+[^219]: A 74/A. § (7) bekezdése a 23/2023. (V. 10.) AM rendelet 13. §-a szerint módosított szöveg.

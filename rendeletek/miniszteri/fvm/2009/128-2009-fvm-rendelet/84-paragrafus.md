@@ -2,6 +2,6 @@
 
 ## HATÓSÁGI ELLENŐRZÉS ÉS SZANKCIÓK
 
-84. §[^261]
+84. §[^264]
 
-[^261]: A 84. §-t a 27/2021. (VIII. 11.) AM rendelet 38. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^264]: A 84. §-t a 27/2021. (VIII. 11.) AM rendelet 38. § (1) bekezdés a) pontja hatályon kívül helyezte.
