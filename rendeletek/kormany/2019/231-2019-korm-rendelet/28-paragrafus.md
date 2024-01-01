@@ -10,7 +10,7 @@ bb) a közfeladatot ellátó közérdekű vagyonkezelő alapítványok által fe
 
 c)[^5] azt a támogatást, amely
 
-ca) a szolgálati helynek minősülő magyarországi településen hitéleti szolgálatot teljesítő egyházi személyek – külön megállapodásban meghatározott, az egyház belső szabályai szerint felosztható és az egyház belső szabályai szerint kifizethető – jövedelempótlékához kapcsolódik,
+ca)[^6] a szolgálati helynek minősülő magyarországi településen hitéleti szolgálatot teljesítő egyházi személyek és vallási közösségek egyházi személyei, illetve vallásos szertartást hivatásszerűen végző tagjai – külön megállapodásban meghatározott, az egyház belső szabályai szerint felosztható és az egyház belső szabályai szerint kifizethető – jövedelempótlékához kapcsolódik,
 
 cb) a teljes egészében lezárt zsidó temetők vallási előírásokat és kegyeleti szempontokat tiszteletben tartó fenntartásához, a nem a zsidó hitközségek tulajdonában álló lezárt zsidó temetők fenntartásához és a használatban lévő zsidó temetők felújításához kapcsolódik,
 
@@ -18,29 +18,30 @@ cc) a jelentős zsidó múlttal rendelkező Budapest közigazgatási területén
 
 [a ca)–cc) alpont szerintiek a továbbiakban együtt: egyházi személyek jövedelempótléka és zsidó örökség ápolása céltámogatás],
 
-d)[^6] a külhoni magyar gyülekezetben magyar nyelven szolgálatot teljesítő egyházi személyek feladatvégzéséhez kapcsolódó támogatást,
+d)[^7] a külhoni magyar gyülekezetben magyar nyelven szolgálatot teljesítő egyházi személyek feladatvégzéséhez kapcsolódó támogatást,
 
 e) a kórházlelkészi szolgálat támogatását és
 
 f) a külhoni és diaszpórában élő magyarság hitéleti tevékenységének támogatását.
 
-(2)[^7]
+(2)[^8]
 
-(3)[^8]
+(3)[^9]
 
-(3a)[^9]
+(3a)[^10]
 
-(3b)[^10]
+(3b)[^11]
 
-(4)[^11]
+(4)[^12]
 
 [^2]: A 28. § (1) bekezdése a 325/2019. (XII. 19.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^3]: A 28. § (1) bekezdés b) pontja a 497/2021. (VIII. 16.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^4]: A 28. § (1) bekezdés b) pont ba) alpontja az 516/2022. (XII. 13.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^5]: A 28. § (1) bekezdés c) pontja az 516/2022. (XII. 13.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^6]: A 28. § (1) bekezdés d) pontja az 516/2022. (XII. 13.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
-[^7]: A 28. § (2) bekezdését az 516/2022. (XII. 13.) Korm. rendelet 7. § a) pontja hatályon kívül helyezte.
-[^8]: A 28. § (3) bekezdését az 516/2022. (XII. 13.) Korm. rendelet 7. § a) pontja hatályon kívül helyezte.
-[^9]: A 28. § (3a) bekezdését a 497/2021. (VIII. 16.) Korm. rendelet 1. § (3) bekezdése iktatta be, az 516/2022. (XII. 13.) Korm. rendelet 7. § a) pontja hatályon kívül helyezte.
-[^10]: A 28. § (3b) bekezdését a 497/2021. (VIII. 16.) Korm. rendelet 1. § (3) bekezdése iktatta be, az 516/2022. (XII. 13.) Korm. rendelet 7. § a) pontja hatályon kívül helyezte.
-[^11]: A 28. § (4) bekezdését az 516/2022. (XII. 13.) Korm. rendelet 7. § a) pontja hatályon kívül helyezte.
+[^6]: A 28. § (1) bekezdés c) pont ca) alpontja a 496/2023. (XI. 2.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^7]: A 28. § (1) bekezdés d) pontja az 516/2022. (XII. 13.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^8]: A 28. § (2) bekezdését az 516/2022. (XII. 13.) Korm. rendelet 7. § a) pontja hatályon kívül helyezte.
+[^9]: A 28. § (3) bekezdését az 516/2022. (XII. 13.) Korm. rendelet 7. § a) pontja hatályon kívül helyezte.
+[^10]: A 28. § (3a) bekezdését a 497/2021. (VIII. 16.) Korm. rendelet 1. § (3) bekezdése iktatta be, az 516/2022. (XII. 13.) Korm. rendelet 7. § a) pontja hatályon kívül helyezte.
+[^11]: A 28. § (3b) bekezdését a 497/2021. (VIII. 16.) Korm. rendelet 1. § (3) bekezdése iktatta be, az 516/2022. (XII. 13.) Korm. rendelet 7. § a) pontja hatályon kívül helyezte.
+[^12]: A 28. § (4) bekezdését az 516/2022. (XII. 13.) Korm. rendelet 7. § a) pontja hatályon kívül helyezte.

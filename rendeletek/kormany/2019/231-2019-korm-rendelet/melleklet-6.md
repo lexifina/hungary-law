@@ -1,34 +1,40 @@
 |  | A | B |
 
-|  | Egyház jogi személy neve | Támogatási arány (%) |
+| 1. | Egyházi jogi személy neve | Támogatási arány (%) |
 
-| 1 | Magyar Katolikus Egyház | 71,9274 |
+| 2. | Magyar Katolikus Egyház, Magyar Katolikus Püspöki Konferencia | 71,6231 |
 
-| 2 | Magyarországi Református Egyház | 20,0549 |
+| 3. | Magyarországi Református Egyház | 19,9801 |
 
-| 3 | Magyarországi Evangélikus Egyház | 3,3984 |
+| 4. | Magyarországi Evangélikus Egyház | 3,3839 |
 
-| 4 | Magyarországi Zsidó Hitközségek Szövetsége | 1,5908 |
+| 5. | Magyarországi Zsidó Hitközségek Szövetsége | 1,5842 |
 
-| 5 | Budai Szerb Ortodox Egyházmegye | 0,1068 |
+| 6. | Budai Szerb Ortodox Egyházmegye | 0,1064 |
 
-| 6 | Konstantinápolyi Egyetemes Patriarchátus – Magyarországi Ortodox Exarchátus | 0,0285 |
+| 7. | Konstantinápolyi Egyetemes Patriarchatus – Magyarországi Ortodox Exarchatus | 0,0284 |
 
-| 7 | Magyarországi Román Ortodox Egyház | 0,1495 |
+| 8. | Magyarországi Román Ortodox Egyházmegye | 0,1489 |
 
-| 8 | Magyar Unitárius Egyház Magyarországi Egyházkerülete (Magyarországi Unitárius Egyház) | 0,0285 |
+| 9. | Magyar Unitárius Egyház Magyarországi Egyházkerülete (Magyarországi Unitárius Egyház) | 0,0284 |
 
-| 9 | Magyarországi Baptista Egyház | 0,3773 |
+| 10. | Magyarországi Baptista Egyház | 0,3757 |
 
-| 10 | Magyar Pünkösdi Egyház | 0,3189 |
+| 11. | Magyar Pünkösdi Egyház | 0,3176 |
 
-| 11 | Egységes Magyarországi Izraelita Hitközség (Statusquo Ante) | 0,9524 |
+| 12. | Egységes Magyarországi Izraelita Hitközség (Statusquo Ante) | 0,9485 |
 
-| 12 | Magyarországi Autonóm Orthodox Izraelita Hitközség | 0,0952 |
+| 13. | Magyarországi Autonóm Orthodox Izraelita Hitközség | 0,0948 |
 
-| 13 | Magyarhoni Zsidó Imaegylet Egyesület | 0,9714 |
+| 14. | Magyarhoni Zsidó Imaegylet Egyesület | 0,9674 |
 
-6. melléklet a 231/2019. (X. 4.) Korm. rendelethez[^26]
+| 15. | Magyarországi Metodista Egyház | 0,2139 |
+
+| 16. | Orosz Ortodox Egyház Magyar Egyházmegyéje (Moszkvai Patriarchátus) | 0,1804 |
+
+| 17. | Magyarországi Bolgár Ortodox Egyház | 0,0183 |
+
+6. melléklet a 231/2019. (X. 4.) Korm. rendelethez[^27]
 
 1. Az egyházi gyűjtemények és kulturális intézmények támogatása előirányzat felhasználásáról szóló beszámoló adattartalma
 
@@ -536,4 +542,4 @@
 
 11. Megvalósított szakmai program részletes kifejtése (országonként bemutatva az elvégzett tevékenységeket, különösen a felújításokat és beruházásokat)
 
-[^26]: A 6. mellékletet az 516/2022. (XII. 13.) Korm. rendelet 5. §-a iktatta be.
+[^27]: A 6. mellékletet az 516/2022. (XII. 13.) Korm. rendelet 5. §-a iktatta be.
