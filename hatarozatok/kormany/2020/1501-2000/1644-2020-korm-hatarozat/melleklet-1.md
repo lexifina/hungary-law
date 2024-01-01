@@ -1,12 +1,4 @@
-## 1. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva Magyarország 2020. évi központi költségvetésének címrendjét 2020. október 8-ai fordulónappal az 1. melléklet szerint módosítja;
-
-## Felelős: pénzügyminiszter
-
-## Miniszterelnökséget vezető miniszter
-
-## emberi erőforrások minisztere
-
-## Határidő: azonnal
+## 1.[^1]
 
 ## 2. felhívja az emberi erőforrások miniszterét, hogy gondoskodjon a Magyar Államkincstárnál
 
@@ -24,15 +16,7 @@
 
 ## Határidő: azonnal
 
-## 4. az Áht. 33. § (1) bekezdésében biztosított jogkörében eljárva – 2021. január 1-jei fordulónappal – a Magyarország 2021. évi központi költségvetésének címrendjét a 2. melléklet szerint módosítja;
-
-## Felelős: pénzügyminiszter
-
-## Miniszterelnökséget vezető miniszter
-
-## emberi erőforrások minisztere
-
-## Határidő: 2021. január 5.
+## 4.[^2]
 
 ## 5. felhívja a pénzügyminisztert, hogy a Magyar Államkincstár útján intézkedjen a 4. pont szerinti címrendi változás 2021. január 1-jei határnappal történő átvezetéséről.
 
@@ -40,4 +24,8 @@
 
 ## Határidő: 2021. január 5.
 
-1. melléklet az 1644/2020. (X. 7.) Korm. határozathoz
+1. melléklet az 1644/2020. (X. 7.) Korm. határozathoz[^3]
+
+[^1]: Az 1. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 4. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
