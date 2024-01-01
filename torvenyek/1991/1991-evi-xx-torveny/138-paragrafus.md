@@ -38,21 +38,21 @@ r) dönt a költségvetési szerv alapításáról, annak gazdálkodási jogkör
 
 (2) A képviselőtestület adóügyi feladata és hatásköre:
 
-a) megállapítja — a jogszabály keretei között — közművesítési fokonként a telekadó tételeket;
+a)
 
-b) mellőzheti a telekadó tételek megállapítását a nem fejlődő települések (településrészek) esetében;
+b)
 
-c) megállapítja a magánszemélyek földadójának tételeit az országos adótételek alsó és felső határa között;
+c)
 
-d) a magánszemélyek földadójának tételeit az átlagosnál kedvezőbb gazdasági adottságok esetén az országos adótételek felső határánál legfeljebb 30%-kal magasabb mértékben határozza meg;
+d)
 
 e) elemi kár mértékének megállapítására kárbecslő bizottságot hoz létre;
 
-f) meghatározza a házadóban az alapadót növelő és csökkentő tényezőket, valamint az övezeti besorolást;
+f)
 
-g) megállapítja a nem lakás céljára szolgáló építmények adójában az övezeti besorolást, valamint az alapadót növelő és csökkentő körülményeket.
+g) megállapítja a nem lakás céljára szolgáló építmények adójában az övezeti besorolást.
 
-h) megállapítja — a gépjárműadóról szóló törvény keretei között — a belföldi gépjárműadó tételeit.
+h)
 
 (3) A települési önkormányzat képviselőtestülete:
 

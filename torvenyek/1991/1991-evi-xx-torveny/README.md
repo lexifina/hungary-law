@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-20-00-00
 | 2020-03-01 | 2019. évi CX. törvény | 1991-20-00-00.53 |
 | 2021-07-02 | 2021. évi LXXXIX. törvény | 1991-20-00-00.54 |
 | 2023-01-01 | 2022. évi XXII. törvény | 1991-20-00-00.55 |
+| 2024-01-01 | 2023. évi LXX. törvény | 1991-20-00-00.56 |
