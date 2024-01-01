@@ -1,1 +1,0 @@
-28. § Ha e törvénynek a 17. § (1) bekezdése szerinti kiemelt térségi fejlesztési tanácsokat érintő rendelkezései módosulnak, úgy a kiemelt térségi fejlesztési tanácsok a módosító rendelkezések hatálybalépését követő tanácsülésen, de legkésőbb a módosító rendelkezések hatálybalépését követő második hónap utolsó napjáig módosítják a szervezeti és működési szabályzatukat.
