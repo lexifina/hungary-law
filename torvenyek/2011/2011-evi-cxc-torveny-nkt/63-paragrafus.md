@@ -24,30 +24,18 @@ k) az oktatási jogok biztosához forduljon.
 
 (2) Az (1) bekezdés j) pontjában meghatározott jog megilleti azt is, akit pedagógus-munkakörből helyeztek nyugállományba.
 
-(3) A munkáltató a pedagógus-munkakörben, a pedagógiai előadó és pedagógiai szakértői munkakörben, továbbá a szabadidő-szervező, pedagógiai asszisztens és gyógypedagógiai asszisztens munkakörökben foglalkoztatottak részére – kérelemre – pedagógusigazolvány kiadását kezdeményezi a központi adatszolgáltatásra alkalmas rendszeren keresztül a hivatalnál. Az e munkakörökből nyugállományba vagy korhatár előtti ellátásba helyezett személyek részére az utolsó munkáltató kezdeményezi a pedagógusigazolvány kiadását. A pedagógusigazolvány elkészítéséről a hivatal gondoskodik.
+(3)
 
-(3a) A pedagógusigazolvány kiadására irányuló kérelem tartalmazza:
+(3a)
 
-a) a pedagógus személyazonosító adatait (családi és utónevét, születési családi és utónevét, anyja születési családi és utónevét, születési helyét és idejét) és
+(3b)
 
-b) a pedagógus oktatási azonosító számát.
+(3c)
 
-(3b) A pedagógusigazolványt a hivatal küldi meg a jogosult részére a közreműködő intézménybe.
-
-(3c) A pedagógusigazolvány tartalmazza:
-
-a) a pedagógus családi és utónevét,
-
-b) a pedagógus oktatási azonosító számát,
-
-c) a pedagógusigazolvány kiállításának időpontját,
-
-d) a pedagógusigazolvány egyedi azonosítóját.
-
-(3d) A hivatal a pedagógusigazolvány kiállítása céljából kezeli a (3a) és (3c) bekezdésben felsorolt, valamint a kedvezményre való jogosultság igazolásához szükséges adatokat.
+(3d)
 
 (3e)
 
-(4) A pedagógusigazolvány elkészítésére irányuló eljárásban a munkáltató – ha jogszabály másként nem rendelkezik – a központi adatszolgáltatásra alkalmas rendszerrel, elektronikus úton terjeszti elő a pedagógusigazolvány elkészítésére irányuló kérelmet, és tesz jogszabályban meghatározott más eljárási cselekményeket. A munkáltató az eljárás során – ha jogszabály másként nem rendelkezik – a központi adatszolgáltatásra alkalmas rendszerrel elektronikus úton tart kapcsolatot a hivatallal. A pedagógusigazolvány igénylésének, elkészítésének és nyilvántartásának további szabályait jogszabály határozza meg.
+(4)
 
-(5) A munkáltató a pedagógus kérelmét a kérelem benyújtásától számított nyolc napon belül továbbítja a hivatal részére.
+(5)

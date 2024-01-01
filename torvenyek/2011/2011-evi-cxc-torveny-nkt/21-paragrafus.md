@@ -68,7 +68,7 @@ b) a nyilvántartásba vétel, létesítés napját,
 
 c) a fenntartó képviseletére jogosult személy nevét,
 
-d) a jogutódlással, átalakulással, fenntartóváltozással, intézményi átszervezéssel kapcsolatos alapítói, fenntartói határozatok számát és a döntést tartalmazó határozatokat,
+d) a jogutódlással, átalakulással, fenntartóváltozással, intézményi átszervezéssel kapcsolatos alapítói, fenntartói határozatok számát és a döntést tartalmazó határozatokat, valamint a 84. § (2a) bekezdése szerinti előzetes vizsgálat és a 84. § (2b) bekezdése szerinti nyomon követés eredményét tartalmazó határozatot,
 
 e) a megszűnésről szóló alapítói, fenntartói határozatot, a megszüntető okiratot, a megszűnés idejét és módját, valamint a megszűnt intézmény iratainak őrzési helyét.
 

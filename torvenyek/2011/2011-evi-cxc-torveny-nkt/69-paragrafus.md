@@ -2,13 +2,13 @@
 
 a) felel az intézmény szakszerű és törvényes működéséért, fenntartó által rendelkezésre bocsátott eszközök tőle elvárható gondossággal való kezeléséért – önálló költségvetéssel nem rendelkező intézmény kivételével – az intézmény gazdálkodásáért,
 
-b) önálló költségvetéssel nem rendelkező intézmény igazgatója kivételével gyakorolja a munkáltatói jogokat a köznevelési intézményben foglalkoztatottak felett,
+b)
 
 c) dönt az intézmény működésével kapcsolatban minden olyan ügyben, amelyet jogszabály, kollektív szerződés, közalkalmazotti szabályzat nem utal más hatáskörébe,
 
 d) felelős az intézményi szabályzatok elkészítéséért,
 
-e) jóváhagyja az intézmény pedagógiai programját,
+e)
 
 f) képviseli az intézményt.
 
@@ -40,6 +40,6 @@ k) a pedagógus etika normáinak betartásáért és betartatásáért.
 
 (4) A nevelési-oktatási intézmény igazgatójának munkáját a nevelőtestület és a szülők közössége a vezetői megbízásának második és negyedik évében személyazonosításra alkalmatlan kérdőíves felmérés alapján értékeli. Az országos pedagógiai-szakmai ellenőrzés az igazgató munkájának ellenőrzése és értékelése során a kérdőíves felmérés eredményét is figyelembe veszi.
 
-(5) A nevelési-oktatási intézmény vezetője munkaideje felhasználását és beosztását, az 5. mellékletben foglalt tanórák, foglalkozások megtartásának kötelezettségén kívül maga jogosult meghatározni.
+(5)
 
-(6) A korábban legalább két ciklust intézményvezetőként dolgozó pedagógus „címzetes igazgatói” pótlékban részesülhet, ha intézményvezetői megbízásának lejártát vagy megszűnését követően továbbra is az intézményben marad alkalmazásban. A pótlék mértéke a volt intézményvezető korábbi vezetői pótlékának huszonöt százaléka.
+(6)

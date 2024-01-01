@@ -1,8 +1,8 @@
-## 34. Pedagógusok és alkalmazottak
+## 34. Pedagógusok , nevelő-oktató munkát segítő munkakörben foglalkoztatottak és egyéb alkalmazottak
 
-61. § (1) Nevelő-oktató munka – óvodai nevelés, iskolai nevelés és oktatás, kollégiumi nevelés-oktatás, pedagógiai szakszolgálat keretében gyermekekkel, tanulókkal való pedagógiai célú közvetlen foglalkozás – pedagógus-munkakörben, az óraadó és az egyházi szolgálati jogviszonyban foglalkoztatott kivételével, közalkalmazotti jogviszonyban vagy munkaviszonyban látható el. Pedagógus-munkakör ellátására – az óraadó kivételével – polgári jogi jogviszony nem létesíthető. A tankerületi központ által fenntartott köznevelési intézményben köznevelési alapfeladat-ellátásra létesített munkakörben foglalkoztatottak a tankerületi központtal közalkalmazotti jogviszonyban állnak. Ettől eltérően, idegen nyelven folytatott nevelési, oktatási tevékenység ellátása érdekében anyanyelvi tanárként történő foglalkoztatásra sor kerülhet a nemzetközi szerződés vagy tárcaközi megállapodás alapján, Magyarországon tevékenykedő szervezettel létesített munkaviszonyban történő kirendeléssel is.
+61. § (1)
 
-(2) A pedagógiai szakszolgálatok feladatait és a pedagógiai-szakmai szolgáltatásokat szakirányú felsőfokú végzettségű szakember látja el.
+(2)
 
 (3) A nevelő- és oktatómunkát, a pedagógiai szakszolgálatokat és a pedagógiai-szakmai szolgáltatások ellátását szakképzett szakemberek segítik. Nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatott szakember az igazgató döntése alapján szakkört, érdeklődési kört, önképzőkört, egyéni vagy csoportos felzárkóztató, fejlesztő vagy tehetségfejlesztő foglalkozást, közösségi szolgálattal kapcsolatos foglalkozást, diákönkormányzati foglalkozást, felzárkóztató, tehetség-kibontakoztató, speciális ismereteket adó egyéni vagy csoportos, közösségi fejlesztést megvalósító csoportos, a szabadidő eltöltését szolgáló csoportos, a tanulókkal való törődést és gondoskodást biztosító egyéni, a kollégiumi közösségek működésével összefüggő csoportos kollégiumi, valamint szakkollégiumi foglalkozást tarthat, ha annak megfelelő végzettséggel, szakképzettséggel rendelkezik, valamint az igazgató a foglalkozás megtartásához szükséges tapasztalatáról, hozzáértéséről meggyőződött.
 
@@ -24,16 +24,12 @@ d) nyilvántartásba-vételi száma.
 
 (4d) A köznevelési szaktanácsadói névjegyzékbe történő felvételre, a névjegyzékből történő törlésre és eltiltásra, a hatósági ellenőrzésre és a személyes adatok kezelésre vonatkozó eljárás során a 82. § (9) bekezdését kell alkalmazni.
 
-(5) A köznevelési intézmények feladatainak ellátásában gazdasági, ügyviteli, műszaki, kisegítő és más alkalmazottak vesznek részt. Gazdasági, ügyviteli, műszaki, kisegítő munkakörökben az ellátandó feladatoktól függően ajánlott megoldani a foglalkoztatást. Az állami fenntartású nevelési-oktatási és pedagógiai szakszolgálati intézményekben – a honvédelemért felelős miniszter vagy a rendvédelmi szervet irányító miniszter által alapított és fenntartott, intézmények kivételével – gazdasági, ügyviteli, műszaki, kisegítő munkakörökben alkalmazottak létszáma legfeljebb a pedagógusok teljes munkaidőre számított létszámának húsz százaléka, szakképző iskolában harminc százaléka, kollégiumban ötven százaléka lehet.
+(5)
 
-(6) A tankerületi központ által fenntartott köznevelési intézményben az e törvényben foglalt kivétellel a munkáltatói jogokat az illetékes tankerületi központ vezetője gyakorolja. A tankerületi központ által fenntartott köznevelési intézmény vezetője az adott köznevelési intézmény alkalmazottjai tekintetében – a bérgazdálkodást érintő döntések, a kinevezés és a közalkalmazotti jogviszony megszüntetése kivételével – gyakorolja a munkáltatói jogokat. A tankerületi központ által fenntartott köznevelési intézményben a pedagógus és nevelő-oktató munkát közvetlenül segítő munkakörben alkalmazottat a köznevelési intézmény vezetője javaslatára a tankerületi központ vezetője nevezi ki és menti fel. Ha a köznevelési intézmény vezetője javaslatával a tankerületi központ vezetője nem ért egyet, a pedagógus és nevelő-oktató munkát közvetlenül segítő munkakörben alkalmazott kinevezéséről vagy felmentéséről az oktatási központ vezetője dönt. Ha a tankerületi központ által fenntartott köznevelési intézményben a pedagógus vagy a nevelő-oktató munkát közvetlenül segítő alkalmazott a közalkalmazotti jogviszonyból eredő lényeges kötelezettségét szándékosan vagy súlyos gondatlansággal jelentős mértékben megszegi, vagy olyan magatartást tanúsít, amely a közalkalmazotti jogviszony fenntartását lehetetlenné teszi, felmentéséhez nincs szükség a köznevelési intézmény vezetőjének egyetértésére.
+(6)
 
-(7) A köznevelési intézményben történő foglalkoztatás esetén nem összeférhetetlen,
+(7)
 
-a) ha a magasabb vezető, vezető, továbbá a pénzügyi kötelezettségvállalásra jogosult a Polgári Törvénykönyv szerinti hozzátartozójával irányítási, felügyeleti, ellenőrzési vagy elszámolási kapcsolatba kerülne, valamint
+(8)
 
-b) a közalkalmazottak jogállásáról szóló törvényben foglaltaktól eltérően, ha a tankerületi központ által fenntartott köznevelési intézményben közalkalmazotti jogviszonyban álló személy polgári jogi jogviszony alapján lát el a tankerületi központ által fenntartott más köznevelési intézményben egyébként a munkakörébe tartozó feladatokat.
-
-(8) Ahol a Munka Törvénykönyve vagy a közalkalmazottak jogállásáról szóló törvény munkáltatóról rendelkezik, azon a tankerületi központot, továbbá – az igazgató számára e törvény által biztosított munkáltatói jogok tekintetében – a tankerületi központ által fenntartott köznevelési intézményt kell érteni.
-
-(9) A közalkalmazotti jogviszony vagy munkaviszony létesítésével és megszüntetésével összefüggésben a munkáltató jogszabályban meghatározott feltételekkel igénybe veheti, és foglalkoztatottjai számára nyújthatja a kormányzati igazgatásról szóló 2018. évi CXXV. törvény szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott szolgáltatásokat.
+(9)

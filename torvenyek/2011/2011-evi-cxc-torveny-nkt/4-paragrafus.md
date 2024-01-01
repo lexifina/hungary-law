@@ -116,7 +116,7 @@ lehet,
 
 19. nevelési év: az óvodában szeptember 1-jétől a következő év augusztus 31-éig tartó időszak,
 
-20. nevelőtestület: a nevelési-oktatási intézményben közalkalmazotti jogviszony, munkaviszony, egyházi szolgálati jogviszony keretében pedagógus-munkakörben, valamint a felsőfokú végzettséggel rendelkező, nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatottak közössége,
+20. nevelőtestület: a nevelési-oktatási intézményben köznevelési foglalkoztatotti jogviszony, egyházi szolgálati jogviszony keretében pedagógus-munkakörben, a felsőfokú végzettséggel rendelkező, nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottak közössége,
 
 21. óraadó: megbízási szerződés keretében legfeljebb heti tizennégy óra vagy foglalkozás megtartására alkalmazott pedagógus, oktató,
 
@@ -128,7 +128,7 @@ lehet,
 
 25. sajátos nevelési igényű gyermek, tanuló: az a különleges bánásmódot igénylő gyermek, tanuló, aki a szakértői bizottság szakértői véleménye alapján mozgásszervi, érzékszervi (látási, hallási), értelmi vagy beszédfogyatékos, több fogyatékosság együttes előfordulása esetén halmozottan fogyatékos, autizmus spektrum zavarral vagy egyéb pszichés fejlődési zavarral (súlyos tanulási, figyelem- vagy magatartásszabályozási zavarral) küzd,
 
-26. szakalkalmazotti értekezlet: a vezetőkből és a köznevelési intézmény alapító okiratában meghatározott alapfeladatra létesített munkakörökben közalkalmazotti jogviszony vagy munkaviszony keretében foglalkoztatottakból állók közössége,
+26. szakalkalmazotti értekezlet: a vezetőkből és a köznevelési intézmény alapító okiratában meghatározott alapfeladatra létesített munkakörökben köznevelési foglalkoztatotti jogviszony vagy munkaviszony keretében foglalkoztatottakból állók közössége,
 
 27. székhely: az alapító okiratban, szakmai alapdokumentumban meghatározott, a köznevelési intézmény alapfeladatának ellátását szolgáló feladatellátási hely, ahol képviseleti jogának gyakorlására jogosult vezetőjének munkahelye található,
 

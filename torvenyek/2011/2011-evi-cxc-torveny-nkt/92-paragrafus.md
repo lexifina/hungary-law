@@ -4,7 +4,7 @@ a) menekült, oltalmazott, menedékes, valamint a menedékjogról szóló 2007. 
 
 b) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény szerint a szabad mozgás és tartózkodás jogát Magyarországon gyakorolja,
 
-c) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozik és bevándorolt vagy letelepedett jogállású, vagy Magyarország területén való tartózkodásra jogosító engedéllyel rendelkezik.
+c) a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény hatálya alá tartozik és huzamos tartózkodási jogosultsággal, vagy Magyarország területén való tartózkodásra jogosító engedéllyel rendelkezik.
 
 (2) A feltételek meglétét a tanuló nevelési-oktatási intézménybe történő felvételénél igazolni kell.
 

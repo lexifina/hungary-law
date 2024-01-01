@@ -56,32 +56,32 @@ b) iskolaorvos vagy iskolavédőnő útján biztosítja.
 
 (1e) Az intézmény igazgatója az e § szerinti esetkörben egy esetleges rosszullét esetén az Eütv.-vel összhangban álló speciális ellátási eljárásrendet alakít ki.
 
-(2) A pedagógus hétévenként legalább egy alkalommal – jogszabályban meghatározottak szerint – továbbképzésben vesz részt. Megszüntethető – munkaviszony esetében felmondással, közalkalmazotti jogviszony esetében az alkalmatlanság jogcímén történő felmentéssel – annak a pedagógusnak a munkaviszonya, közalkalmazotti jogviszonya, aki a továbbképzésben önhibájából nem vett részt, vagy tanulmányait nem fejezte be sikeresen. Az első továbbképzés a Pedagógus II. fokozat megszerzésére irányuló első minősítés előtt kötelező. Mentesül a továbbképzési kötelezettség alól az a pedagógus, aki betöltötte az 55. életévét. Nem kell továbbképzésben részt venni annak a pedagógusnak, aki pedagógus-szakvizsgát tett, a vizsgák letétele utáni hét évben.
+(2)
 
-(3) A Pedagógus II., a Mesterpedagógus és a Kutatótanár fokozatból eggyel alacsonyabb fokozatba kerül visszasorolásra az a pedagógus, aki a fokozatba lépését követő kilencedik tanév végéig önhibájából nem teljesíti a pedagógus-továbbképzésben történő részvételi kötelezettségét.
+(3)
 
 (4) A továbbképzési kötelezettség teljesítése szempontjából az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározottakon kívül csak olyan továbbképzés vehető figyelembe, amelynek programját a hivatal jóváhagyta és a program alkalmazására engedélyt adott. A pedagógus-továbbképzési programok engedélyezése és szervezése – a felnőttképzés adatszolgáltatási rendszerére vonatkozó előírások kivételével – nem tartozik a felnőttképzésről szóló törvény hatálya alá. A pedagógus-továbbképzések nyilvántartását és ellenőrzését a hivatal látja el.
 
 (4a) Az Mt. 46. § (1) bekezdés j) pontja alkalmazásakor nem tartozik a munkáltató képzési politikája körébe a pedagógusok e törvény alapján kötelező továbbképzése.
 
-(5) A nevelési-oktatási és a pedagógiai szakszolgálati intézményekben pedagógus-munkakörökben dolgozó pedagógus heti teljes munkaidejének nyolcvan százalékát (a továbbiakban: kötött munkaidő) az intézményvezető által – az e törvény keretei között – meghatározott feladatok ellátásával köteles tölteni, a munkaidő fennmaradó részében a munkaideje beosztását vagy felhasználását maga jogosult meghatározni.
+(5)
 
-(6) A teljes munkaidő hatvan százalékában – azaz huszonnégy órában – (a továbbiakban: neveléssel-oktatással lekötött munkaidő) tanórai és egyéb foglalkozások megtartása rendelhető el, amelybe bele kell számítani heti két-két óra időtartamban a pedagógus által ellátott osztályfőnöki, kollégiumi, tanulócsoport-vezetői, vagy munkaközösség vezetéssel összefüggő feladatok, továbbá heti egy óra időtartamban a tanulók nevelési-oktatási intézményen belüli önszerveződésének segítésével összefüggő feladatok időtartamát. E szabályokat kell alkalmazni abban az esetben is, ha e törvény egyes pedagógus munkakörök esetében az e bekezdésben foglaltaktól eltérően határozza meg a munkaidő egyes feladatokra fordítandó részeinek arányát.. A kötött munkaidő fennmaradó részében a pedagógus a nevelés-oktatást előkészítő, nevelés-oktatással összefüggő egyéb feladatokat, tanulói felügyeletet, továbbá eseti helyettesítést lát el.
+(6)
 
-(7) Az intézményvezető a kötött munkaidőben ellátandó feladatok elosztásánál biztosítja az arányos és egyenletes feladatelosztást a nevelőtestület tagjai között.
+(7)
 
-(8) Az óvodapedagógusnak a kötött munkaidejét a gyermekekkel való közvetlen, a teljes óvodai életet magában foglaló foglalkozásra kell fordítania, a munkaidő fennmaradó részében, legfeljebb heti négy órában a nevelést előkészítő, azzal összefüggő egyéb pedagógiai feladatok, a nevelőtestület munkájában való részvétel, gyakornok szakmai segítése, továbbá eseti helyettesítés rendelhető el az óvodapedagógus számára.
+(8)
 
-(9) A vezetőpedagógus neveléssel-oktatással lekötött munkaideje gyakorló óvodában a teljes munkaideje hatvan százaléka, más gyakorló nevelési-oktatási intézményben, gyakorló szakszolgálati intézményben a teljes munkaideje harminc százaléka lehet.
+(9)
 
-(10) A gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézményben pedagógus-munkakört betöltő neveléssel-oktatással lekötött munkaideje a teljes munkaideje ötven százaléka.
+(10)
 
-(11) A gyakornoknak a neveléssel-oktatással lekötött munkaideje tanítók, általános és középiskolai tanárok esetében a teljes munkaideje ötven százaléka, óvodapedagógusok esetében hatvanöt százaléka lehet.
+(11)
 
-(11a) Az óvoda-, iskolapszichológus neveléssel-oktatással lekötött munkaideje – teljes munkaidőben történő foglalkoztatás esetében – heti huszonkettő óra. Az óvoda-, iskolapszichológus a neveléssel-oktatással lekötött munkaidőben végzi a gyermekek, tanulók egyéni vagy csoportos szűrésével, vizsgálatával, konzultációval, tanácsadással (a továbbiakban: közvetlen pszichológiai foglalkozás) kapcsolatos, továbbá a gyermekekkel, tanulókkal, pedagógusokkal és szülőkkel való hatékony együttműködés kialakítását célzó feladatokat. Az óvoda-, iskolapszichológus további heti tíz órában a közvetlen pszichológiai foglalkozások szervezésével, előkészítésével kapcsolatos feladatokat látja el, részt vesz a pedagógiai szakszolgálat óvoda-, iskolapszichológus koordinátora által szervezett szakmai feladatokban, szükség esetén előkészíti a gyermek, tanuló szakellátásba történő irányítását, a munkaidő fennmaradó részében pedig a munkaköréhez szükséges információk feldolgozásával, az óvodai, iskolai dokumentáció elkészítésével kapcsolatos feladatokat, továbbá a szakmai fejlődéséhez szükséges tevékenységeket végez. A közvetlen pszichológiai foglalkozás heti előírt időkerete indokolt esetben a nevelési, tanítási év alatt az egyes hetek között átcsoportosítható. Részmunkaidős foglalkoztatás esetén a koordinátorral való kapcsolattartáson kívül a munkavégzés valamennyi időkerete arányosan csökken.
+(11a)
 
-(12) Az iskolai, kollégiumi könyvtárostanár, könyvtárostanító a neveléssel-oktatással lekötött munkaidő keretében biztosítja a könyvtár nyitva tartását, a könyvtári órákat. Munkaköri feladatként a kötött munkaidő többi része hetven százaléka – a könyvtár zárva tartása mellett – a munkahelyen végzett könyvtári munkára (az állomány gyarapítása, gondozása, könyvtári kutatómunka), iskolai kapcsolattartásra, a további harminc százaléka a munkahelyen kívül végzett felkészülésre, könyvtári kapcsolatépítésre, állománygyarapításra, továbbá a pedagógus-munkakörrel összefüggő más tevékenység ellátására szolgál.
+(12)
 
-(13) A pedagógiai szakszolgálat intézményében alkalmazott pedagógusok teljes munkaidőben történő foglalkoztatás esetében heti huszonegy órában a neveléssel-oktatással lekötött munkaidőben végzik a gyermekek, tanulók vizsgálatával, egyéni vagy csoportos foglalkoztatásával, a tanácsadással, gondozói tanfolyamok megtartásával (a továbbiakban: közvetlen foglalkozás) kapcsolatos feladatokat.
+(13)
 
-(14) A nevelési-oktatási intézmény, a pedagógiai szakszolgálat vezetője a heti teljes munkaidőnek az 5. melléklet vagy a pedagógiai szakszolgálatokra vonatkozó miniszteri rendelet szerint tanórákkal vagy foglalkozásokkal le nem kötött részében látja el a magasabb vezetői, vezetői megbízással kapcsolatos feladatokat. A nevelési-oktatási intézményben foglalkoztatott magasabb vezető vagy vezető megbízással rendelkező pedagógus heti tanóráinak, foglalkozásainak számát az 5. melléklet határozza meg. Az iskolában foglalkoztatott magasabb vezető vagy vezető megbízással rendelkező pedagógus heti tanóráinak, foglalkozásainak száma az általa az intézményben tanított tantárgynak – a köznevelésért felelős miniszter által kiadott kerettanterv alapján készült helyi tanterv szerinti – heti óraszámával azonos, amennyiben olyan tantárgyat tanít, amelynek a helyi tanterv szerinti óraszáma magasabb, mint az 5. mellékletben az adott intézményre és vezetőre meghatározott heti tanórák, foglalkozások száma.
+(14)

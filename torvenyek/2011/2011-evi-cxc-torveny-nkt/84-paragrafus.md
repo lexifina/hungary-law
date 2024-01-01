@@ -2,6 +2,10 @@
 
 (2) A fenntartó – önálló költségvetéssel rendelkező intézmény esetében a nevelési-oktatási intézmény költségvetésében – gondoskodik az iskolaszék, az óvodaszék, a szülői szervezet, továbbá az iskolai, kollégiumi diákönkormányzat működési feltételeiről.
 
+(2a) A fenntartó – azon fenntartói döntést megelőzően, amely az alapító okiratnak, szakmai alapdokumentumnak a 21. § (3) bekezdés c)–g) pontjában meghatározott bármely tartalmi elemére vonatkozó módosításával járna – vizsgálja az általános iskolai feladatellátás vonatkozásában azoknak a feltételeknek a teljesülését, hogy a módosítás végrehajtása esetén kialakítható-e a hátrányos helyzetű tanulók kiegyenlített, az azonos évfolyamok párhuzamos osztályai közti huszonöt százalékos különbséget meg nem haladó aránya az átszervezéssel érintett nevelési-oktatási intézményben, valamint biztosítható-e a sajátos nevelési igényű tanulók ellátásának folyamatossága.
+
+(2b) Amennyiben a fenntartó a (2a) bekezdés szerinti vizsgálat alapján intézményi átszervezésről dönt, úgy az általános iskolai beiratkozás során évente nyomon követi, hogy biztosított-e a hátrányos helyzetű tanulók egyenletes aránya, valamint a sajátos nevelési igényű tanulók ellátásának folyamatossága az átszervezéssel érintett nevelési-oktatási intézményben, és a feltételek kedvező alakulásának fenntartása érdekében meghatározza a szükséges intézkedéseket.
+
 (3) A fenntartó tanítási évben, továbbá – a július-augusztus hónapok kivételével – nevelési évben
 
 a) iskolát nem indíthat, továbbá iskolát, kollégiumot, óvodát nem szervezhet át, nem szüntethet meg, fenntartói jogát nem adhatja át,

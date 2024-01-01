@@ -1,5 +1,1 @@
-66/A. § (1) A 66. § (1) bekezdés b) pontja szerinti feltétellel összefüggésben az alkalmazással vagy megbízási jogviszonnyal érintett személyre – ha a jogviszonyával összefüggésben törvény eltérően nem rendelkezik – a (2) és (3) bekezdést kell alkalmazni.
-
-(2) Azt a tényt, hogy az alkalmazással vagy megbízási jogviszonnyal érintett személy megfelel a 66. § (1) bekezdés b) pontjában meghatározott feltételeknek, az alkalmazással vagy megbízási jogviszonnyal érintett személy hatósági bizonyítvánnyal igazolja.
-
-(3) A munkáltató vagy a megbízási jogviszonyt megbízóként létesíteni kívánó személy a 66. § (1) bekezdés b) pontja szerinti feltétel ellenőrzése céljából kezeli az alkalmazással vagy megbízási jogviszonnyal érintett személy azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalmaz. A megismert személyes adatokat a munkáltató vagy a megbízási jogviszonyt megbízóként létesíteni kívánó személy az alkalmazás vagy a megbízás létesítésével összefüggésben meghozott döntés időpontjáig vagy – a köznevelésben alkalmazás vagy megbízási jogviszony esetén – annak megszűnéséig vagy megszüntetéséig kezeli.
+### 66/A. §

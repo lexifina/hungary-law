@@ -1,8 +1,8 @@
 32. § (1) Ha a nevelési-oktatási intézményt egyházi jogi személy vagy a vallási egyesület tartja fenn:
 
-a) a pedagógusok és egyéb munkavállalók alkalmazása során világnézeti és hitéleti szempontokat érvényesíthet, alkalmazási feltételként írhat elő,
+a)
 
-b) az igazgató-helyettesek megbízása során a fenntartó egyetértési jogot gyakorol,
+b)
 
 c) a fenntartó az iskola számára előírhatja valamely – a köznevelésért felelős miniszter által kiadott – kerettanterv választását és meghatározhatja az intézményben használható tankönyveket, taneszközöket,
 
@@ -12,9 +12,9 @@ e) korlátozhatja, kizárhatja a 63. § (1) bekezdés d) pontjában szabályozot
 
 f) SZMSZ-ében és házirendjében a jogi személyiséggel rendelkező vallási közösség tanításával összefüggő viselkedési és megjelenési szabályokat, kötelességeket, jogokat és hitéleti tevékenységet írhat elő,
 
-g) az f) pont szerint meghatározott kötelességek megszegése, elmulasztása miatt a gyermek, tanuló és a pedagógus ellen fegyelmi eljárás indítható,
+g) az f) pont szerint meghatározott kötelességek megszegése, elmulasztása miatt a gyermek, tanuló ellen fegyelmi eljárás indítható,
 
-h) és az iskola tananyagában a hittan mint tantárgy szerepel, az állami intézményekre megállapított pedagóguslétszámon felül alkalmazott hitoktatónak, hittantanárnak egyházi felsőoktatási intézményben vagy a vallási egyesület által fenntartott felsőoktatási intézményben szerzett hitoktatói, hittantanári vagy a hitélettel kapcsolatos felsőfokú képesítéssel vagy pedagógus szakképzettséggel és az egyházi jogi személy által kibocsátott hitoktatói képesítéssel, továbbá a az egyház belső szabálya alapján illetékes egyházi jogi személy vagy a vallási egyesület általi megbízással kell rendelkeznie,
+h)
 
 i) a nevelési-oktatási intézmény házirendje a fenntartó jóváhagyásával válik érvényessé,
 

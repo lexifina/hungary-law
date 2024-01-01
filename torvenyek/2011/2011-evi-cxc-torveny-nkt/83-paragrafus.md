@@ -14,7 +14,7 @@ d) meghatározza az adott nevelési évben indítható óvodai csoportok számá
 
 e) ellenőrizheti a köznevelési intézmény gazdálkodását, működésének törvényességét, hatékonyságát, a szakmai munka eredményességét, nevelési-oktatási intézményben továbbá a gyermek- és ifjúságvédelmi tevékenységet, a tanuló- és gyermekbaleset megelőzése érdekében tett intézkedéseket; ha a fenntartó nem települési önkormányzat, a tanuló- és gyermekbalesetet jelenti a nevelési-oktatási intézmény székhelye szerint illetékes köznevelési feladatokat ellátó hatóságnak,
 
-f) a köznevelési intézmény vezetőjének megbízása, kinevezése, a megbízás visszavonása, a jogviszony megszüntetésének jogával kapcsolatos, e törvényben foglalt korlátozó rendelkezések keretei között gyakorolja a munkáltatói jogokat a köznevelési intézmény vezetője felett,
+f)
 
 g) jóváhagyja a köznevelési intézmény SZMSZ-ét, pedagógiai programját, éves munkatervét, továbbképzési programját, tantárgyfelosztását,
 
