@@ -10,11 +10,11 @@ a) az elkésett, vagy
 
 b) a kifogás hiányait az előterjesztője felhívás ellenére nem pótolta.
 
-(5) A kifogást visszautasító végzést a kifogás előterjesztőjének kell kézbesíteni, aki a végzés ellen fellebbezéssel élhet.
+(5) A kifogást visszautasító vagy elutasító végzést a kifogás előterjesztőjének kell kézbesíteni, aki a végzés ellen fellebbezéssel élhet. A bizonyítvány e végzés elleni fellebbezésre tekintet nélkül joghatás kiváltására alkalmas.
 
-(6) Szabályszerű kifogás esetén a közjegyző végzéssel a bizonyítvány hatálytalanságát állapítja meg. A végzést és az annak alapjául szolgáló kifogást a bizonyítvánnyal együtt a közjegyző kézbesíti a kérelmezőnek, aki a bizonyítvány hatálytalanságát megállapító végzés ellen fellebbezhet.
+(6) Ha a közjegyző a kifogásnak helyt ad, a bizonyítvány hatálytalanságát végzéssel állapítja meg. A végzést és az annak alapjául szolgáló kifogást a hatálytalanná nyilvánított bizonyítvánnyal együtt a közjegyző kézbesíti a kérelmezőnek, aki a bizonyítvány hatálytalanságát megállapító végzés ellen fellebbezhet.
 
-(7) Ha a bizonyítvány ellen szabályszerű kifogást nem terjesztettek elő, a bizonyítványt a kérelmezőnek kézbesíteni kell. A kérelmező a bizonyítvány ellen fellebbezhet.
+(7) Ha a bizonyítvány ellen kifogást nem terjesztettek elő, vagy a kifogást a közjegyző visszautasította, vagy elutasította, a bizonyítványt a kérelmezőnek kézbesíteni kell. A kérelmező a bizonyítvány ellen fellebbezhet.
 
 (8) A bizonyítvány ellen a kérelmezőn kívül más nem fellebbezhet. A bizonyítványban foglaltakat sérelmesnek tartó fél – a (2) bekezdésben meghatározott határidő eltelte után – az igényeit a kérelmezővel szemben bírósági úton érvényesítheti. A per tárgya kizárólag annak a megállapítása is lehet, hogy a bizonyítvány szerinti jogosultság a bizonyítvány szerinti kérelmezőt nem illeti meg.
 

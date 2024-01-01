@@ -2,9 +2,9 @@
 
 a) a kérelmezőnek (alzálogjog jogosultjának) a Pp. szerinti azonosító adatait;
 
-b) annak a jogosultnak (zálogjogosultnak) a Pp. szerinti azonosító adatait, akinek a kérelmező – a kérelmező állítása szerint – a Polgári Törvénykönyv 5:140. § (1) bekezdés a) pontja alapján a jogait gyakorolja, vagy akinek a Polgári Törvénykönyv 5:140. § (1) bekezdés b) pontja alapján a helyébe lépett;
+b) az ellenérdekű félnek (alzálogjog kötelezettjének) mint kérelmezettnek a Pp. szerinti azonosító adatait;
 
-c) az ellenérdekű fél (alzálogjog kötelezettjének) mint kérelmezett Pp. szerinti azonosító adatait;
+c) annak az ingatlannak az adatait, amelyet a főzálogjog terhel;
 
 d) ha a jogosult vagy az ellenérdekű fél halála esetén az ő örököse, dologi hagyományosa (ezen alcím alkalmazásában a továbbiakban együtt: örökös), megszűnése esetén jogutóda ismert, az ő ismert Pp. szerinti azonosító adatait;
 
