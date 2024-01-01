@@ -30,7 +30,7 @@ k) a hatósági megkeresés vagy a döntés postára adásának napjától annak
 
 l) a bizonyítási eljárás lezárását követően MNB-hez érkezett iratbetekintésre irányuló kérelem elbírálása során hozott végzés meghozatalától, vagy az iratbetekintés korlátozás nélkül történő engedélyezése esetén az ügyfél tájékoztatásától a kérelem alapján megvalósuló iratbetekintés napjáig terjedő időtartam.
 
-(5) A napokban megállapított határidőbe nem számít bele a határidő kezdetére okot adó cselekmény vagy körülmény bekövetkezésének, a közlésnek, a kézbesítésnek, a hirdetmény kifüggesztésének és levételének, valamint a közhírré tétel napja. A hónapokban vagy években megállapított határidő azon a napon jár le, amely számánál fogva megfelel a kezdőnapnak, ha pedig ez a nap a lejárat hónapjában hiányzik, a hónap utolsó napján. Az órákban megállapított határidő az okot adó cselekményt követő óra első percében kezdődik.
+(5) A napokban megállapított határidőbe nem számít bele a határidő kezdetére okot adó cselekmény vagy körülmény bekövetkezésének, a közlésnek, a kézbesítésnek, a hirdetmény honlapon történő közzétételének és törlésének, valamint a közhírré tétel napja. A hónapokban vagy években megállapított határidő azon a napon jár le, amely számánál fogva megfelel a kezdőnapnak, ha pedig ez a nap a lejárat hónapjában hiányzik, a hónap utolsó napján. Az órákban megállapított határidő az okot adó cselekményt követő óra első percében kezdődik.
 
 (6) A postán küldött beadvány és megkeresés előterjesztési ideje a postára adás napja. A határozott naphoz kötött jogszerzés a nap kezdetén következik be. A határidő elmulasztása vagy a késedelem jogkövetkezménye a határidő utolsó napjának elteltével áll be.
 

@@ -1,4 +1,4 @@
-93. § (1) Engedély nélkül végzett tevékenység megállapítása esetén az MNB
+93. § (1) Engedély nélkül vagy bejelentés hiányában végzett tevékenység megállapítása esetén az MNB
 
 a) megtiltja a tevékenység végzését,
 
@@ -8,13 +8,7 @@ c) intézkedést, kivételes intézkedést alkalmaz, illetve
 
 d) piacfelügyeleti bírságot szab ki.
 
-(2) Bejelentés hiányában végzett tevékenység esetén az MNB
-
-a) megtiltja a tevékenység végzését,
-
-b) intézkedést, kivételes intézkedést alkalmaz, illetve
-
-c) piacfelügyeleti bírságot szab ki.
+(2)
 
 (3) Az MNB
 

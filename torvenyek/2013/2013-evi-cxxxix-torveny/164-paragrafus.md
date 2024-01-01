@@ -8,7 +8,7 @@
 
 (4) A bíróság ítéletében meghatározza azoknak a jogosult fogyasztóknak a körét és az azonosíthatóságukhoz szükséges adatokat, amelyek tekintetében a jogsértés tényét megállapította, illetve amelyek jogosultak az ítéletbeli kötelezés teljesítésének követelésére.
 
-(5) A bíróság az ítéletben feljogosíthatja az MNB-t, hogy a jogsértő költségére az ítéletet országos napilapban közzétegye, illetve egyéb, a jogsértés jellege által indokolt formában nyilvánosságra hozza.
+(5) A bíróság az ítéletben feljogosíthatja az MNB-t, hogy a jogsértő költségére az ítéletet a honlapján közzétegye, illetve egyéb, a jogsértés jellege által indokolt formában nyilvánosságra hozza.
 
 (6) Ha a bíróság ítéletében a jogsértés tényének megállapításán túl a 39. §-ban meghatározott törvények hatálya alá tartozó személyt vagy szervezetet meghatározott követelés teljesítésére is kötelezte, a jogsértő köteles a (4) bekezdés szerint meghatározott jogosult fogyasztó igényét az ítéletnek megfelelően kielégíteni. Önkéntes teljesítés hiányában a jogosult fogyasztó kérheti az ítélet bírósági végrehajtását. A fogyasztó jogosultságát a bíróság az ítéletben meghatározott feltételek alapján a végrehajtási lap kiállítására irányuló eljárásában vizsgálja.
 

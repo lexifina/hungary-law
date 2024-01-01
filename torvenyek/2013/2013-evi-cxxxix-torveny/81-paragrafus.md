@@ -28,7 +28,7 @@ e) belföldi fogyasztói jogvita: bármely fogyasztói jogvita, kivéve a 125. �
 
 f) határon átnyúló fogyasztói jogvita: bármely fogyasztói jogvita, kivéve a belföldi fogyasztói jogvitát.
 
-(3) A fogyasztóvédelmi eljárás kérelemre történő megindításának feltétele, hogy a fogyasztó a 39. §-ban meghatározott törvények hatálya alá tartozó személynél vagy szervezetnél, e személy vagy szervezet által meghatározott és közzétett elérhetőségein keresztül – személyesen, telefonon, postai úton, telefaxon, az erre a célra üzemeltetett informatikai rendszeren keresztül – azonosítására alkalmas tartalommal, szóban vagy írásban a személy vagy szervezet szolgáltatásával vagy eljárásával kapcsolatos panaszát már korábban előterjesztette, azonban
+(3) A fogyasztóvédelmi eljárás kérelemre történő megindításának feltétele, hogy a fogyasztó a 39. §-ban meghatározott törvények hatálya alá tartozó személynél vagy szervezetnél, e személy vagy szervezet által meghatározott és közzétett elérhetőségein keresztül – személyesen, telefonon, postai úton, az erre a célra üzemeltetett informatikai rendszeren keresztül – azonosítására alkalmas tartalommal, szóban vagy írásban a személy vagy szervezet szolgáltatásával vagy eljárásával kapcsolatos panaszát már korábban előterjesztette, azonban
 
 a) a panaszára nem kapott választ,
 

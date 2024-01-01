@@ -10,4 +10,4 @@ b) a Pénzügyi Békéltető Testületnek nem volt hatásköre az eljárásra,
 
 c) a kérelem meghallgatás nélküli elutasításának lett volna helye.
 
-(4) A 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet az ajánlás hatályon kívül helyezését a (3) bekezdésben foglaltakon túl – az ajánlás részére történt kézbesítésétől számított tizenöt napon belül – akkor is kérheti a Fővárosi Törvényszéktől, ha az ajánlás tartalma nem felel meg a jogszabályoknak.
+(4) A 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet az ajánlás és a 113. § (2) bekezdése szerinti eljárásban meghozott kötelezést tartalmazó határozat hatályon kívül helyezését a (3) bekezdésben foglaltakon túl – az ajánlás vagy a 113. § (2) bekezdése szerinti eljárásban meghozott kötelezést tartalmazó határozat részére történt kézbesítésétől számított tizenöt napon belül – akkor is kérheti a Fővárosi Törvényszéktől, ha az ajánlás vagy a 113. § (2) bekezdése szerinti eljárásban meghozott kötelezést tartalmazó határozat tartalma nem felel meg a jogszabályoknak.
