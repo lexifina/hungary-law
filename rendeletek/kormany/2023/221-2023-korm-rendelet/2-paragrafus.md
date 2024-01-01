@@ -1,3 +1,1 @@
-2. §[^2]
-
-[^2]: A 2. § a 3. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+2. § Hatályát veszti a Kr. 6/C. § (2b) bekezdése.
