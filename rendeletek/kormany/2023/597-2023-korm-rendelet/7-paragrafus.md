@@ -1,5 +1,3 @@
-## 4.[^4]
+## 4. A közfeladatot ellátó szervek iratkezelésének általános követelményeiről szóló 335/2005. (XII. 29.) Korm. rendelet módosítása
 
-7. §
-
-[^4]: A 4. alcím a 19. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+7. § A közfeladatot ellátó szervek iratkezelésének általános követelményeiről szóló 335/2005. (XII. 29.) Korm. rendelet 2. melléklete a 2. melléklet szerint módosul.

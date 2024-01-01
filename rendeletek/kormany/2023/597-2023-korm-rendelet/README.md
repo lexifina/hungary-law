@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-597-20-
 | --- | --- | --- |
 | 2023-12-22 | 2023-597-20-22.1 | 597/2023. (XII. 21.) Korm. rendelet |
 | 2023-12-23 | 2023-597-20-22.2 | 2010. évi CXXX. törvény |
+| 2024-01-01 | 2023-597-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
