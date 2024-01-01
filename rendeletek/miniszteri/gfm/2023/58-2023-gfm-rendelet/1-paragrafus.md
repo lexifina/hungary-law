@@ -1,1 +1,3 @@
-1. § Az Emelőgép Biztonsági Szabályzat kiadásáról szóló 47/1999. (VIII. 4.) GM rendelet (a továbbiakban: 47/1999. GM rendelet) Melléklete az 1. melléklet szerint módosul.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
