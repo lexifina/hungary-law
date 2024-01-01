@@ -2,6 +2,6 @@
 
 21. § Nem lép hatályba az egyes törvényeknek a közigazgatás fejlesztésével összefüggő módosításáról szóló 2023. évi XXI. törvény
 
-a) 32. § (2) bekezdése,
+a)
 
-b) 32. § (3) bekezdése.
+b)
