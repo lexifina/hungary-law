@@ -12,4 +12,6 @@
 
 (6) Ha a felperes a bíróság által meghatározott határidőn belül nem nyilatkozik, és a jogsérelem orvoslása érdekében tett cselekmény a kereseti kérelemnek eleget tett, a bíróság az eljárást megszünteti, és az alperest a felperes, valamint a felperest támogató érdekelt perköltségének megfizetésére kötelezi. Az eljárás részben való megszüntetése folytán a közigazgatási szervet terhelő költségek megfizetéséről a bíróság az eljárást befejező határozatában dönt.
 
-(7) Ha a közigazgatási szerv a jogsérelmet a védirat felterjesztésére nyitva álló határidőn belül orvosolja, a védiratban erre utalni, és a jogsérelem orvoslása érdekében tett döntés másolatát, vagy a cselekményt egyéb módon alátámasztó iratot a védirathoz csatolni kell.
+(7) Ha a közigazgatási szerv a jogsérelmet a keresetlevél felterjesztésére nyitva álló határidőn belül orvosolja, felhívja a felperest nyilatkozattételre arra tekintettel, hogy a jogsérelem orvoslását elfogadja-e. Ha a felperes nem nyilatkozik határidőben arról, hogy a jogsérelem orvoslását nem fogadja el, akkor a keresetlevelet nem kell továbbítani a bírósághoz, hanem hatálytalannak kell tekinteni.
+
+(8) Ha a felperes a jogsérelem orvoslásával nem ért egyet, a védiratban utalni kell a jogsérelem orvoslására, a jogsérelem orvoslására tett cselekmény felperes vagy más általi időközbeni megtámadására és e keresetlevélhez kapcsolódó intézkedésekre, továbbá a felperes nyilatkozatát, valamint a jogsérelem orvoslása érdekében tett döntés másolatát, vagy a cselekményt egyéb módon alátámasztó iratot a védirathoz csatolni kell.
