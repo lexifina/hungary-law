@@ -1,0 +1,3 @@
+1. § A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet (a továbbiakban: R.) 38. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) Ha a kifizetőhelynek az egészségbiztosítási pénzbeli ellátás vagy a baleseti táppénz iránti kérelem elbírálása során, a tényállás tisztázása keretében korábban más kifizetőhely vagy az egészségbiztosító által folyósított egészségbiztosítási pénzbeli ellátásra vagy baleseti táppénzre vonatkozó adatokat kell beszereznie, akkor a kifizetőhelynek a székhelye szerinti illetékes kormányhivatalhoz kell megkereséssel fordulnia. A kormányhivatal a kifizetőhely megkeresésére tekintettel az Ebtv. 79/B. § (2) bekezdés 11. pontja szerinti adatszolgáltatást teljesít.”
