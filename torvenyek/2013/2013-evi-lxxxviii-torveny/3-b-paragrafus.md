@@ -2,7 +2,7 @@
 
 a) a személyiadat- és lakcímnyilvántartás hatálya alá tartozó személyek esetében a személyiadat- és lakcímnyilvántartást kezelő szerv által kezelt adatokkal,
 
-b) a központi idegenrendészeti nyilvántartás hatálya alá tartozó személyek esetében a központi idegenrendészeti nyilvántartásnak a Harmtv. 95. §-a, 96. §-a, 98. §-a és 99. §-a szerinti résznyilvántartásait vezető szerv által kezelt adatokkal,
+b) a központi idegenrendészeti nyilvántartás hatálya alá tartozó személyek esetében a központi idegenrendészeti nyilvántartásnak a Btátv. 254. §-a, 256. §-a, 258. §-a és 259. §-a szerinti résznyilvántartásait vezető szerv által kezelt adatokkal,
 
 c) a menekültügyi nyilvántartást hatálya alá tartozó személyek esetében a menekültügyi nyilvántartást vezető szerv által kezelt adatokkal.
 
