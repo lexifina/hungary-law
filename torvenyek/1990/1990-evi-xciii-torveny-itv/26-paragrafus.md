@@ -96,7 +96,13 @@ d) az ingatlan forgalmi értékéből az épület forgalmi értékének megfelel
 
 e) a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti földhasználat megszerzése, és annak megszüntetésével bekövetkező vagyonszerzés.
 
-f) lakás tulajdonjogának, lakás tulajdoni hányadának az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló 16/2016. (II. 10.) Korm. rendelet 2020. október 1-jén hatályos 1. § a) pontja, vagy a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló 17/2016. (II. 10.) Korm. rendelet 2020. október 1-jén hatályos 1. § (2) bekezdése szerinti családi otthonteremtési kedvezmény (a továbbiakban együtt: családi otthonteremtési kedvezmény) felhasználásával történő megszerzése.
+f) a lakás tulajdonjogának, tulajdoni hányadának
+
+fa) az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló 16/2016. (II. 10.) Korm. rendelet 2020. október 1-jén hatályos 1. § a) pontja, vagy a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló 17/2016. (II. 10.) Korm. rendelet 2020. október 1-jén hatályos 1. § (2) bekezdése, valamint a kistelepüléseken nyújtható otthonteremtési támogatásokról szóló 302/2023. (VII. 11.) Korm. rendelet 2024. január 1-jén hatályos 1. § (2) bekezdés a) pontja szerinti családi otthonteremtési kedvezmény (a továbbiakban együtt: családi otthonteremtési kedvezmény) felhasználásával történő megszerzése,
+
+fb) a családok otthonteremtését támogató kedvezményes CSOK Plusz hitelprogramról szóló 518/2023. (XI. 30.) Korm. rendelet 2024. január 1-jén hatályos 2. § (1) bekezdése szerinti kedvezményes kölcsön (a továbbiakban: CSOK Plusz kölcsön) felhasználásával történő megszerzése;
+
+g) az egyéni vállalkozó eszközeinek a vállalkozói tevékenység folytatása céljából alapított egyszemélyes korlátolt felelősségű társaság vagy egyéni cég általi megszerzése.
 
 (2a) Az (1) bekezdés a) pontja szerinti illetékmentesség alkalmazása során az állami adóhatóság a vagyonszerzés után megállapított illetéket – a megfizetés tekintetében – felfüggeszti. Az állami adóhatóság a lakóházépítésre meghatározott 4 éves határidő (a továbbiakban e bekezdés alkalmazásában: határidő) elteltét követő 15 napon belül megkeresi az illetékes építésügyi hatóságot a lakóház felépítésének igazolása céljából. Az állami adóhatóság a felfüggesztett illetéket törli, ha
 
@@ -116,9 +122,9 @@ Ha a határidő lejártáig az építésügyi hatóság által – a vagyonszerz
 
 (2f) Ha a magánszemély vagyonszerző a természetes személyek adósságrendezéséről szóló törvény rendelkezései szerint bíróságon kívüli vagy bírósági adósságrendezést kezdeményezett, és az említett eljárások időszaka alatt a lakóház építésére alkalmas telektulajdont értékesítik, akkor a 87. § (2) bekezdése nem alkalmazható, továbbá – ha a telektulajdont megszerző vevő nyilatkozik arról, hogy a megszerzett telek után az (1) bekezdés a) pontja szerinti mentességet igénybe kívánja venni vagy a telektulajdont megszerzőnek a telekre elővásárlási joga van – az említett eljárások alá vont magánszemélynek a (2a) bekezdés szerint felfüggesztett illetéket nem kell megfizetni.
 
-(2g) Ha a vagyonszerző az (1a) bekezdés f) pontja szerinti illetékmentességre jogosító családi otthonteremtési kedvezmény teljes összegét bármely okból visszafizette, vagy a hatóság annak visszafizetését rendelte el, az állami adóhatóság az erről való tudomásszerzést követően – az (1a) bekezdés f) pontjában foglaltak alkalmazását mellőzve – a lakás illetékkötelezettség keletkezésekor fennálló forgalmi értéke és az illetékkötelezettség keletkezésekor hatályos rendelkezések alapulvételével kiszabja a visszterhes vagyonátruházási illetéket.
+(2g) Ha a vagyonszerző az (1a) bekezdés f) pontja szerinti illetékmentességre jogosító családi otthonteremtési kedvezmény vagy családok otthonteremtési kamattámogatása teljes összegét bármely okból visszafizette, vagy a hatóság annak visszafizetését rendelte el, az állami adóhatóság az erről való tudomásszerzést követően – az (1a) bekezdés f) pontjában foglaltak alkalmazását mellőzve – a lakás illetékkötelezettség keletkezésekor fennálló forgalmi értéke és az illetékkötelezettség keletkezésekor hatályos rendelkezések alapulvételével kiszabja a visszterhes vagyonátruházási illetéket.
 
-(2h) Nem kell a (2g) bekezdést alkalmazni, ha az (1a) bekezdés f) pontja szerinti illetékmentességre jogosító családi otthonteremtési kedvezmény teljes összegének visszafizetése kizárólag a családi otthonteremtési kedvezményben részesülő egészségi állapotára tekintettel meghiúsult gyermekvállalás miatt vált szükségessé.
+(2h) Nem kell a (2g) bekezdést alkalmazni, ha az (1a) bekezdés f) pontja szerinti illetékmentességre jogosító családi otthonteremtési kedvezmény vagy családok otthonteremtési kamattámogatása teljes összegének visszafizetése kizárólag a családi otthonteremtési kedvezményben vagy CSOK Plusz kölcsönben részesülő egészségi állapotára tekintettel meghiúsult gyermekvállalás miatt vált szükségessé.
 
 (3) Ha az (1) bekezdés j) pontjában említett csereingatlan a kisajátítottnál értékesebb, vagy ha a megszerzett ingatlan forgalmi értéke a kártalanítási összeget, illetőleg ennek a vevőre eső arányos részét meghaladja, az illetékmentesség a többletre nem terjed ki.
 
@@ -178,23 +184,23 @@ ab) a kisajátítás alapjául szolgáló közérdekű célra történő elidege
 
 ac) a birtokösszevonási célú földcsere,
 
-b) nem minősül az (1) bekezdés p) pont pb) és pc) alpontjaiban foglalt feltételek megszegésének, ha a vagyonszerző a termőföld használatát, hasznosítását a földművesnek minősülő, Polgári Törvénykönyv szerinti közeli hozzátartozója vagy a legalább 25%-ban tulajdonában, vagy a közeli hozzátartozójának legalább 25%-ban tulajdonában álló, a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti mezőgazdasági termelőszervezet javára engedi át, feltéve, hogy az 5 éves időtartam hátralévő részére
+b) nem minősül az (1) bekezdés p) pont pb) és pc) alpontjaiban foglalt feltételek megszegésének, ha a vagyonszerző a termőföld használatát, hasznosítását a földművesnek minősülő, Polgári Törvénykönyv szerinti közeli hozzátartozója vagy a legalább 25%-ban tulajdonában, vagy a közeli hozzátartozójának legalább 25%-ban tulajdonában álló, a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti mezőgazdasági termelőszervezet vagy olyan erdőbirtokossági társulat javára engedi át, amelyben a vagyonszerző vagy a közeli hozzátartozója társulati érdekeltséggel rendelkezik, vagy erdőkezelésbe adja, feltéve, hogy az 5 éves időtartam hátralévő részére
 
-ba) a mezőgazdasági termelőszervezet vagy a közeli hozzátartozó vállalja, hogy a termőföldet mező-, illetve erdőgazdasági tevékenység céljára hasznosítja, továbbá
+ba) a mezőgazdasági termelőszervezet, az erdőbirtokossági társulat, az erdőkezelő vagy a közeli hozzátartozó vállalja, hogy a termőföldet mező-, illetve erdőgazdasági tevékenység céljára hasznosítja, továbbá
 
-bb) a termőföld használatának, hasznosításának mezőgazdasági termelőszervezet részére történő átengedése esetén a vagyonszerző, illetve közeli hozzátartozója vállalja, hogy a mezőgazdasági termelőszervezetben fennálló tulajdoni hányada nem csökken 25% alá.
+bb) a termőföld használatának, hasznosításának mezőgazdasági termelőszervezet részére történő átengedése esetén a vagyonszerző, illetve közeli hozzátartozója vállalja, hogy a mezőgazdasági termelőszervezetben fennálló tulajdoni hányada nem csökken 25% alá vagy erdőbirtokossági társulat részére történő átengedés esetén a vagyonszerző, illetve közeli hozzátartozója vállalja, hogy az erdőbirtokossági társulati tagságát fenntartja.
 
 (18a) Az (1) bekezdés p) pontja szerinti feltételek fennállásáról és vállalásáról a vagyonszerzőnek legkésőbb a fizetési meghagyás jogerőre emelkedéséig, véglegessé válásáig kell nyilatkoznia az állami adóhatóságnál. Ha az eredetileg vállalt 5 év letelte előtt
 
 a) a vagyonszerző a termőföldet – a (18) bekezdésben meghatározott tulajdonszerzési módok kivételével – elidegeníti,
 
-b) a vagyonszerző a termőföldön – használatának, hasznosításának a (18) bekezdés szerinti mezőgazdasági termelőszervezet vagy közeli hozzátartozója javára, az ott meghatározott módon történő átengedése kivételével – vagyoni értékű jogot alapít, vagy
+b) a vagyonszerző a termőföldön – használatának, hasznosításának a (18) bekezdés szerinti mezőgazdasági termelőszervezet, erdőbirtokossági társulat, erdőkezelő vagy közeli hozzátartozója javára, az ott meghatározott módon történő átengedése kivételével – vagyoni értékű jogot alapít, vagy
 
-c) a vagyonszerző a termőföldet saját maga vagy a (18) bekezdés szerinti mezőgazdasági termelőszervezet vagy közeli hozzátartozója igazolhatóan nem mező-, illetve erdőgazdasági tevékenység céljára hasznosítja,
+c) a vagyonszerző a termőföldet saját maga vagy a (18) bekezdés szerinti mezőgazdasági termelőszervezet, erdőbirtokossági társulat, erdőkezelő vagy közeli hozzátartozója igazolhatóan nem mező-, illetve erdőgazdasági tevékenység céljára hasznosítja,
 
-d) a vagyonszerző vagy a vagyonszerző közeli hozzátartozója a mezőgazdasági termelőszervezetben fennálló tulajdoni hányadát 25% alá csökkenti,
+d) a vagyonszerző vagy a vagyonszerző közeli hozzátartozója a mezőgazdasági termelőszervezetben fennálló tulajdoni hányadát 25% alá csökkenti, vagy az erdőbirtokossági társulati tagságát nem tartja fenn,
 
-az egyébként járó illeték kétszeresét kell megfizetnie, kivéve a vagyonszerző elhalálozásának az esetét. Ha a vagyonszerző vagy a (18) bekezdés szerinti mezőgazdasági termelőszervezet vagy közeli hozzátartozó által vállalt feltételek csak a termőföld meghatározott tulajdoni hányada tekintetében teljesültek, az egyébként járó illeték kétszeresét kizárólag azon tulajdoni hányad vonatkozásában kell megfizetni, amelyre a feltételek nem teljesültek.
+az egyébként járó illeték kétszeresét kell megfizetnie, kivéve a vagyonszerző elhalálozásának az esetét. Ha a vagyonszerző vagy a (18) bekezdés szerinti mezőgazdasági termelőszervezet, erdőbirtokossági társulat, erdőkezelő vagy közeli hozzátartozó által vállalt feltételek csak a termőföld meghatározott tulajdoni hányada tekintetében teljesültek, az egyébként járó illeték kétszeresét kizárólag azon tulajdoni hányad vonatkozásában kell megfizetni, amelyre a feltételek nem teljesültek.
 
 (19) Az (1) bekezdés y) pontja szerinti illetékmentességet:
 

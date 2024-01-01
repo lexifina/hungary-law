@@ -6,7 +6,7 @@ a) a vagyonszerzési illetékekkel kapcsolatos ügyiratok kezelésének, az ille
 
 b) az eljárási illetékek megfizetésére és a megfizetés ellenőrzésére vonatkozó részletes szabályokat,
 
-c) az illetékbélyegek előállításával, forgalomba hozatalával és forgalmazásával kapcsolatos szabályokat,
+c)
 
 d) a bírósági eljárási illeték utólagos elszámolással történő megfizetése iránt kezdeményezett eljárásért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat,
 

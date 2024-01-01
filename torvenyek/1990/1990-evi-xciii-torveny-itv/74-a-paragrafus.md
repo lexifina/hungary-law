@@ -1,10 +1,10 @@
 ## Az eljárási illeték megfizetésére vonatkozó közös szabályok
 
-74/A. § (1) Az illetékbélyeggel megfizetett illetéket az eljárást kezdeményező iratra (jegyzőkönyvre) vagy ezek hiányában az eljárás során létrejött iratra kell felragasztani. A lerovandó eljárási illeték összegét kerekíteni kell oly módon, hogy az 50 forint alatti maradékot el kell hagyni, az 50 forintot és az azt meghaladó összeget pedig 100 forintnak kell számolni.
+74/A. § (1)
 
-(2) Az eljárást kezdeményező iratra ragasztott illetékbélyeget az ügyfélnek átírnia vagy azon bármiféle megjelölést alkalmaznia nem szabad. A bélyeget az eljáró hatóság értékteleníti felülbélyegezéssel, amelynél az eljárást kezdeményezték.
+(2)
 
-(2a) Ha az illetékbélyeget tartalmazó iratot jogszabály rendelkezése alapján nem az eljáró hatóság veszi át és érkezteti, az illetékbélyeget az irat átvételére és érkeztetésére jogosult szerv értékteleníti.
+(2a)
 
 (3) A 73. § (2) bekezdés b) pontjában szabályozott illetékfizetés esetén az eljárási illetéket megfizetettnek kell tekinteni, a bizonylatot pedig az ügyirathoz kell csatolni.
 

@@ -16,4 +16,4 @@ bb) a pénzügyi lízingszerződésen alapuló tulajdonjog-bejegyzés iránti k�
 
 naptári évének utolsó napjától számított 5 év elteltével évül el.
 
-(4) Az illeték megállapításához való jog a 26. § (2g) bekezdése szerinti esetben annak a naptári évnek az utolsó napjától számított 5 év elteltével évül el, amely évben a vagyonszerző a családi otthonteremtési kedvezményt visszafizette vagy a hatóság annak visszafizetését rendelte el.
+(4) Az illeték megállapításához való jog a 26. § (2g) bekezdése szerinti esetben annak a naptári évnek az utolsó napjától számított 5 év elteltével évül el, amely évben a vagyonszerző a családi otthonteremtési kedvezményt vagy családok otthonteremtési kamattámogatását visszafizette vagy a hatóság annak visszafizetését rendelte el.

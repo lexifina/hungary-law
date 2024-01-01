@@ -86,7 +86,7 @@ c) testvér: az a személy, akinek legalább az egyik szülője (örökbefogadó
 
 a) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény szerint a szabad mozgás és tartózkodás jogával rendelkezik,
 
-b) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozik, és bevándorolt vagy letelepedett jogállású;
+b) a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény hatálya alá tartozik, és huzamos tartózkodási jogosultsággal rendelkezik;
 
 c) külön jogszabály értelmében menekültnek minősül.
 

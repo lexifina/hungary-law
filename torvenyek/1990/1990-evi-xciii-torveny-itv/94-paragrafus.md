@@ -1,6 +1,6 @@
 94. § (1) A megrongálódott, a tévesen felragasztott, továbbá a feleslegessé vált illetékbélyeg értékét az ügyfél részére vissza kell téríteni.
 
-(2) A visszatérítés az illetékbélyeg, illetőleg az illetékbélyeggel ellátott irat benyújtása mellett az eljáró hatóság székhelye vagy az ügyfél lakóhelye (székhelye) szerint illetékes állami adóhatóságnál írásban kérhető.
+(2) A visszatérítés az illetékbélyeg, illetőleg az illetékbélyeggel ellátott irat benyújtása mellett az ügyfél lakóhelye (székhelye) szerint illetékes állami adóhatóságnál írásban kérhető.
 
 (3) Nincs helye a visszatérítésnek, ha
 

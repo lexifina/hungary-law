@@ -1,6 +1,6 @@
 ## A bírósági eljárási illeték megfizetése
 
-74. § (1) A bírósági eljárási illetéket – a technikai feltételek megléte esetén – elektronikus fizetési és elszámolási rendszeren keresztül vagy illetékbélyeggel az eljárást kezdeményező iraton kell megfizetni, kivéve, ha jogszabály más fizetési módot is megenged, vagy ha az illeték viseléséről a bíróság az eljárást befejező határozatában dönt.
+74. § (1) A bírósági eljárási illetéket – a technikai feltételek megléte esetén – elektronikus fizetési és elszámolási rendszeren keresztül kell megfizetni, kivéve, ha jogszabály más fizetési módot is megenged, vagy ha az illeték viseléséről a bíróság az eljárást befejező határozatában dönt.
 
 (1a) A 10 000 forintot meghaladó eljárási illeték kiszabás alapján készpénz-átutalási megbízás útján vagy az állami adóhatóság által meghatározott számlaszámra átutalással, illetve amennyiben erre lehetőség van, bankkártyával is megfizethető. Ebben az esetben az illetékköteles iratot annak egy másolatával az illetékes állami adóhatósághoz kell benyújtani. Az állami adóhatóság az irat illetékkiszabásra történő bemutatását az eredeti iraton igazolja, és arra felvezeti az ügy adóhatósági ügyszámát is. Az állami adóhatóság az e bejelentés alapján hozott fizetési meghagyást – annak véglegessé válását követő 8 munkanapon belül – az eljáró bíróságnak is megküldi.
 
@@ -9,6 +9,26 @@
 (1c) Az (1b) bekezdés szerint bevallott illetéket az állami adóhatóság elektronikus bírósági eljárási illetékbevételi számlája javára átutalással kell megfizetni, legkésőbb a bevallás benyújtását követő munkanapon. Az átutalás közlemény rovatában fel kell tüntetni az ügyszámot és az eljárást kezdeményező fél adószámát vagy adóazonosító jelét.
 
 (1d) Az (1b) bekezdés szerinti bevallás, továbbá az önellenőrzéssel módosított, javított bevallás (a továbbiakban együtt: bevallás) tartalmáról az állami adóhatóság legkésőbb annak beérkezésétől számított 8. munkanapon papír alapú igazolást küld az eljárást kezdeményező fél (vagy képviselője) és az eljáró bíróság részére, amennyiben az állami adóhatóság az eljárást kezdeményező fél adószámláján nem tart nyilván 5000 forintot meghaladó önadózással teljesítendő bírósági eljárási illetéktartozást. Az igazolás tartalmazza a bevallott illeték összegét, az állami adóhatóság által kiadott ügyszámot, valamint a bevallásban szereplő valamennyi adatot. Az eljárást kezdeményező fél az eredeti igazolást az eljárást kezdeményező irathoz köteles csatolni.
+
+(1e) A bírósági eljárásban elektronikus kapcsolattartásra nem kötelezett fél a bírósági eljárási illetéket készpénz-átutalási megbízással is megfizetheti azon bíróság Magyar Államkincstárnál (a továbbiakban: Kincstár) vezetett illetékbevételi számlája javára, amely bíróság előtti eljárásban az illetékfizetési kötelezettség keletkezik. A feladóvevényt az illetékköteles irathoz kell csatolni. A készpénz-átutalási megbízás közlemény rovatában fel kell tüntetni az eljáró bíróság nevét, az eljárási illetékfizetésre kötelezett fél nevét és – ha az ismert – a beadvány bírósági lajstromszámát. A készpénz-átutalási megbízással történő illetékfizetés tényét az eljáró bíróság a Kincstártól kapott illetékbevételi számlakivonat adatai alapján, a számlaforgalomba történő betekintéssel ellenőrzi.
+
+(1f) Amennyiben a bírósági eljárási illetéket az elektronikus úton történő kapcsolattartásra nem kötelezett fél a bíróság Kincstárnál vezetett illetékbevételi számlájára készpénz-átutalási megbízással fizeti meg
+
+a) a fellebbezési illetéket
+
+aa) ha a fellebbezett határozatot járásbíróság, kerületi bíróság vagy törvényszék hozta, a határozatot hozó bíróság székhelye szerinti törvényszék;
+
+ab) ha a fellebbezett határozatot ítélőtábla hozta, a határozatot hozó ítélőtábla;
+
+b) a csatlakozó fellebbezési illetéket a fellebbezési eljárást lefolytató törvényszék vagy ítélőtábla;
+
+c) a felülvizsgálati illetéket a felülvizsgálati kérelemmel érintett határozatot hozó elsőfokú bíróság székhelye szerinti törvényszék;
+
+d) a csatlakozó felülvizsgálati illetéket a Kúria
+
+illetékbevételi számlájára kell teljesíteni.
+
+(1g) Ha készpénz-átutalási megbízás útján anélkül fizettek illetéket, hogy bírósági eljárást kezdeményeztek volna, a megfizetett illeték visszatérítése iránti kérelem az állami adóhatóságnak címezve annál a bíróságnál terjeszthető elő, amelynek illetékbevételi számlájára az illetéket megfizették. A kérelemhez csatolni kell a feladóvevényt. A kérelemben meg kell jelölni a befizető nevét (elnevezését), lakóhelyét (székhelyét), adóazonosító számát, az illetékbevételi számla számát és a befizetés napját. A bíróság a kérelem megküldésével egyidejűleg az állami adóhatóságot tájékoztatja arról, hogy a kérelemben megjelölt befizetésre hivatkozással indult-e eljárás, illetve a befizetést bírósági eljárásban felhasználták-e. A bíróság által továbbított kérelem alapján az illeték visszatérítése ügyében az állami adóhatóság az adó-visszatérítés általános szabályai szerint jár el.
 
 (2) Ha az illeték megfizetését a kötelezett felhívás ellenére elmulasztotta, de a beadványt nem utasították vissza, a meg nem fizetett illetéket a mulasztási bírsággal együtt lelet alapján az állami adóhatóság előírja.
 
