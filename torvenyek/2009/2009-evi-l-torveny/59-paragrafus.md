@@ -6,7 +6,7 @@
 
 (2a) Az európai fizetési meghagyásos eljárásban a Pp. 148. §-a nem alkalmazható.
 
-(3) Az európai fizetési meghagyásos eljárásban kézbesítési megbízottat jelölni nem kell és a fizetési meghagyás végrehajtói kézbesítésének nincs helye. Ha az iratokat belföldön kell kézbesíteni, a kézbesítésre e törvény, a Pp., valamint a hivatalos iratok kézbesítésére vonatkozó jogszabály rendelkezéseit, másik tagállamba történő kézbesítés esetén pedig a polgári és kereskedelmi ügyekben keletkezett bírósági és bíróságon kívüli iratok tagállamokban történő kézbesítéséről szóló 1393/2007/EK európai parlamenti és tanácsi rendeletet kell alkalmazni.
+(3) Az európai fizetési meghagyásos eljárásban kézbesítési megbízottat jelölni nem kell és a fizetési meghagyás végrehajtói kézbesítésének nincs helye. Ha az iratokat belföldön kell kézbesíteni, a kézbesítésre e törvény, a Pp., valamint a hivatalos iratok kézbesítésére vonatkozó jogszabály rendelkezéseit, másik tagállamba történő kézbesítés esetén pedig a tagállamokban a polgári és kereskedelmi ügyekben a bírósági és bíróságon kívüli iratok kézbesítéséről (iratkézbesítés) szóló, 2020. november 25-i (EU) 2020/1784 európai parlamenti és tanácsi rendeletet kell alkalmazni.
 
 (4) A kérelemnek a rendelet 11. cikke szerint történő elutasítása esetén a jogosult a bíróságnál keresetet indíthat, ebben az esetben a 25. § (4) bekezdését megfelelően alkalmazni kell.
 

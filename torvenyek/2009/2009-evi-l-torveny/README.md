@@ -33,3 +33,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-50-00-00
 | 2020-01-01 | 2019. évi CXII. törvény | 2009-50-00-00.28 |
 | 2020-02-01 | 2019. évi CXVII. törvény | 2009-50-00-00.29 |
 | 2023-10-01 | 2023. évi XXXI. törvény | 2009-50-00-00.30 |
+| 2024-01-01 | 2023. évi XCVI. törvény | 2009-50-00-00.31 |

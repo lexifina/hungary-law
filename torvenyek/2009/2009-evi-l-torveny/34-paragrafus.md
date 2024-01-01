@@ -14,7 +14,7 @@ e) a másik fél kérelmére, ha a megszűnt félnek nincs jogutódja;
 
 f) a 30. § (2) bekezdésében meghatározott esetben;
 
-g) a 15. § (3) bekezdésének b) pontjában, a 17. § (4) bekezdésében, illetve a 18. § (2) bekezdésében meghatározott esetben.
+g) a 15. § (3) bekezdésének b) pontjában, a 17. § (5) bekezdésében, illetve a 18. § (2) bekezdésében meghatározott esetben.
 
 (2) A közjegyző az (1) bekezdés a), d), f) és g) pontja esetében az eljárást annak bármely szakában hivatalból megszüntetni köteles.
 

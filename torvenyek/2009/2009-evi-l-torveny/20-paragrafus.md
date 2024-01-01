@@ -1,8 +1,8 @@
 20. § (1) A kérelemben fel kell tüntetni:
 
-a) a felek nevét, eljárásbeli állását, a jogosult Pp. szerinti azonosító adatait, a kötelezett ismert Pp. szerinti azonosító adatait, de legalább lakóhelyét vagy székhelyét, valamint perbeli cselekvőképessége hiányában vagy nem természetes személy kötelezett esetén törvényes képviselőjének a nevét és kézbesítési címét, továbbá – ha a kötelezett azzal rendelkezik – a kötelezett adószámát;
+a) a felek nevét, eljárásbeli állását, a jogosult Pp. szerinti azonosító adatait, valamint – ha azzal rendelkezik – az adószámát, a kötelezett ismert, Pp. szerinti azonosító adatait, de legalább lakóhelyét vagy székhelyét, valamint perbeli cselekvőképessége hiányában vagy nem természetes személy kötelezett esetén törvényes képviselőjének a nevét és kézbesítési címét, továbbá – ha a kötelezett, illetve a képviselője azzal rendelkezik – a kötelezett, illetve a képviselő adószámát;
 
-b) meghatalmazottal történő eljárás esetén a jogosult képviselőjének a nevét, kézbesítési címét, telefonszámát, elektronikus levélcímét;
+b) meghatalmazottal történő eljárás esetén a jogosult képviselőjének a nevét, kézbesítési címét, telefonszámát, elektronikus levélcímét, továbbá – ha azzal rendelkezik – adószámát;
 
 c) külföldi székhelyű vállalkozás esetén a 3. § (6) bekezdés szerinti képviselet nevét, székhelyét és azonosító adatait;
 
