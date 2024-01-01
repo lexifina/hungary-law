@@ -1,1 +1,1 @@
-108/C. § A 108/B. §-ban meghatározott nyilvántartás vezetésének célja a 108/B. § (1) bekezdésben meghatározott szervezetek és személyek tekintetében fennálló, nemzetközi szerződésekben foglalt, illetve a nemzetközi jog általánosan elismert szabályaiból eredő és a magyar jogszabályokban meghatározott jogállás biztosítása. Az adatok kezelése, amennyiben jogszabály hosszabb időt nem állapít meg, 30 év.
+### 108/C. §

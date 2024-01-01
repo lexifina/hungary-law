@@ -1,1 +1,1 @@
-84. § Az idegenrendészeti hatóság egyszeri utazásra jogosító úti okmányt adhat ki a harmadik országbeli állampolgár részére az állandó tartózkodási helye szerinti országba történő visszatéréséhez, ha elveszett vagy megsemmisült úti okmánya nem pótolható.
+### 84. §

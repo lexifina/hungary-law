@@ -1,1 +1,1 @@
-20/F. § Az Európai Unió tagállama által vállalaton belüli áthelyezés céljából kiadott tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár vállalaton belüli áthelyezés céljából tartózkodási engedélyt (hosszú távú mobilitási engedély) kap, ha rendelkezik a 13. § (1) bekezdés a) és d) pontjában, valamint 20/E. § (1) bekezdés a)–b) és f)–i) pontjában meghatározott feltételekkel.
+### 20/F. §

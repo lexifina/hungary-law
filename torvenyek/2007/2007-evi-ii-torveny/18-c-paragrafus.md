@@ -1,1 +1,1 @@
-18/C. § A 18. § (1) bekezdés b) és d) pontjaiban foglalt esetben családi együttélés céljából kérelmezett tartózkodási engedély kiadása vagy meghosszabbítása megtagadható, illetve a kiadott tartózkodási engedély visszavonható.
+### 18/C. §

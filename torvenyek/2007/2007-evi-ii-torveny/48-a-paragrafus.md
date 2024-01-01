@@ -1,3 +1,1 @@
-48/A. § (1) Ha a harmadik országbeli állampolgár kiutasítására irányuló idegenrendészeti eljárás során arra utaló tény merül fel, hogy a dublini rendeletek alkalmazásának feltételei állnak fenn, és a harmadik országbeli állampolgár a menedékjogi törvény szerinti elismerés iránti kérelmet nem terjesztett elő, az idegenrendészeti hatóság kezdeményezi a menekültügyi hatóságnál, hogy a dublini eljárást folytassa le, és annak befejezéséig az idegenrendészeti eljárást felfüggeszti.
-
-(2) Az (1) bekezdés szerinti eljárást felfüggesztő végzéssel szemben jogorvoslatnak nincs helye.
+### 48/A. §

@@ -1,1 +1,1 @@
-101. § Az idegenrendészeti hatóság a harmadik országbeli állampolgár szálláshelyének, lakóhelyének bejelentésével összefüggő, a 73. § (1) és (2) bekezdésében szereplő adatokat a bejelentéstől számított öt évig kezeli.
+### 101. §

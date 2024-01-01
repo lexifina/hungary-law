@@ -1,1 +1,1 @@
-105. § Az idegenrendészeti hatóság a Dublini Egyezmény hatékony alkalmazása érdekében az ujjnyomatok összehasonlítására irányuló „Eurodac” létrehozásáról szóló, 2000. december 11-i, 2725/2000/EK tanácsi rendelet 8. cikk (1) pontjában meghatározott adatokat kezeli.
+### 105. §

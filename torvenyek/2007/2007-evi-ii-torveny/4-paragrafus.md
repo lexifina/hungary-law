@@ -1,1 +1,1 @@
-4. § E törvényt a diplomáciai vagy egyéb személyes mentességet élvező, illetve nemzetközi szerződés alapján beutazó harmadik országbeli állampolgárra akkor kell alkalmazni, ha nemzetközi szerződés másként nem rendelkezik.
+### 4. §

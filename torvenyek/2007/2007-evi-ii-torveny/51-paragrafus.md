@@ -1,7 +1,3 @@
 ## A visszairányítás és a kiutasítás elrendelésére, illetve végrehajtására vonatkozó tilalom
 
-51. § (1) A visszairányítás, illetve a kiutasítás nem rendelhető el és nem hajtható végre olyan ország területére, amely az érintett tekintetében nem minősül biztonságos származási vagy biztonságos harmadik országnak, így különösen, ahol a harmadik országbeli állampolgár faji, vallási, nemzeti hovatartozása, egy meghatározott társadalmi csoporthoz tartozása vagy politikai véleménye miatt üldöztetés veszélyének lenne kitéve, továbbá olyan állam területére vagy olyan terület határára sem, ahol nyomós oknál fogva tartani lehet attól, hogy a visszairányított, illetve a kiutasított harmadik országbeli állampolgár az Alaptörvény XIV. cikk (3) bekezdésében meghatározott magatartásnak lenne kitéve (non-refoulement).
-
-(2) Ha a harmadik országbeli állampolgár menekültügyi eljárás alatt áll, a visszairányítás, illetve a kiutasítás nem rendelhető el és nem hajtható végre, ha a harmadik országbeli állampolgár külön törvényben meghatározottak szerint jogosult Magyarország területén való tartózkodásra.
-
-(3) A harmadik országbeli állampolgár a menedékjogról szóló törvényben meghatározott időtartamban áll menekültügyi eljárás hatálya alatt.
+### 51. §
