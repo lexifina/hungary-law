@@ -8,11 +8,11 @@
 
 a) a 45. §-t, az 53/A. §-t, az 53/B. §-t, az 54. § (1)–(3) bekezdését, az 55/A. §-t, valamint az 59. §-t, azzal, hogy e rendelkezések alkalmazásában ügyfél alatt a bejelentőt, a panaszost, illetve a bejelentettet, valamint azt kell érteni, akinek a magatartására a panasz vonatkozik, továbbá
 
-b) a bejelentéssel kapcsolatos eljárásban a 48. § (2) bekezdését, az 55/B. § (1), (2) és (7) bekezdését, az 55/C. §-t, az 55/D. §-t, az 56. §-t, a 63. § (8) bekezdés 1., 10. és 17. pontját, valamint a 64. §-t azzal, hogy a 63. § (8) bekezdés 10. pontjának alkalmazásában ügyfél alatt a bejelentőt kell érteni, illetve
+b) a bejelentéssel kapcsolatos eljárásban a 48. § (2) bekezdését, az 55/B. § (1), (2) és (7) bekezdését, az 55/C. §-t, az 55/D. §-t, az 56. §-t, a 63. § (8) bekezdés 1., 9., 10. és 17. pontját, valamint a 64. §-t azzal, hogy a 63. § (8) bekezdés 10. pontjának alkalmazásában ügyfél alatt a bejelentőt kell érteni, illetve
 
 c) a panasszal kapcsolatos eljárásban az 55/C. § (1) bekezdését.
 
-(3) A bejelentő vagy a panaszos kérelmére a Gazdasági Versenyhivatal titokban tartja azt a tényt, hogy a Gazdasági Versenyhivatalnál bejelentéssel vagy panasszal élt.
+(3) A bejelentő kérelmére a Gazdasági Versenyhivatal titokban tartja azt a tényt, hogy a Gazdasági Versenyhivatalnál bejelentéssel élt. A Gazdasági Versenyhivatal titokban tartja azt a tényt, hogy a panaszos a Gazdasági Versenyhivatalnál panasszal élt.
 
 (4) A bejelentéssel és a panasszal kapcsolatos eljárás irataiba kizárólag a bejelentő, illetve a panaszos tekinthet be a bejelentés tárgyában való döntéshozatalt, illetve a panasszal kapcsolatos eljárás lezárultát követően azzal, hogy korlátozottan megismerhető adat csak akkor ismerhető meg, ha az iratbetekintést kérő igazolja, hogy az érintett adat védelmét szabályozó külön törvényben az adat megismerésére meghatározott különös feltételek fennállnak.
 

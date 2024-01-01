@@ -28,8 +28,12 @@ c) az (1) bekezdés c) pontja szerinti esetben a 75. § (1) bekezdése szerinti 
 
 ca) a 75. § (3) bekezdés b) pontja szerint módosítja,
 
-cb) a 75. § (6) bekezdése szerint visszavonja, bírságot szab ki, illetve a 78. § (8) bekezdése szerinti figyelmeztetést alkalmaz,
+cb) a 75. § (6) bekezdése szerint visszavonja,
 
-cc) a 75. § (6a) bekezdése szerint visszavonhatja, vagy
+cc) a 75. § (5) bekezdése szerint visszavonja, vagy (6a) bekezdése szerint visszavonhatja,
 
-d) az (1) bekezdés d) pontja szerinti esetben elrendeli a kötelezettség végrehajtását, bírságot szab ki, vagy a 78. § (8) bekezdése szerinti figyelmeztetést alkalmaz.
+d) az (1) bekezdés d) pontja szerinti esetben elrendeli a kötelezettség végrehajtását, vagy
+
+e) amennyiben a c) pont cb) alpontjának vagy a d) pontnak az alkalmazása nem indokolt, az eljáró versenytanács megállapítja a kötelezettség nem teljesítését, és bírságot szabhat ki.
+
+(7) A (6) bekezdés d) pontja szerinti végrehajtásra a XII/A. Fejezet rendelkezéseit kell alkalmazni azzal, hogy a végrehajtást az eljáró versenytanács rendeli el.

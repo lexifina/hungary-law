@@ -12,6 +12,8 @@ c) a 64/B. § (1)–(3) és (6) bekezdése szerinti adatszolgáltatási kötelez
 
 d) a megjelenési kötelezettség elmulasztását.
 
+e) a 65/C. § (6) bekezdése szerinti tételes indokolási és az irat vagy iratrész egyértelmű azonosítását lehetővé tevő megjelölési kötelezettség elmulasztását.
+
 (2) Eljárási bírság szabható ki az ügyféllel szemben, ha az irányításkorlátozó előírást megszegi.
 
 (3) Az eljárási bírság legkisebb összege vállalkozás esetében kétszázezer, vállalkozásnak nem minősülő természetes személy esetében ötvenezer forint, legmagasabb összege vállalkozás vagy vállalkozások társulása esetében az eljárási bírságot kiszabó végzés meghozatalát megelőző üzleti évben elért nettó árbevétel egy százaléka, vállalkozásnak nem minősülő természetes személy esetében ötszázezer forint.

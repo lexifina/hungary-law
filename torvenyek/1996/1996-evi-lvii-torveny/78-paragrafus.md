@@ -14,7 +14,7 @@ e) az összefonódás-bejelentésben – az összefonódás vizsgálatának elre
 
 f) a versenyfelügyeleti eljárásban a határozat szempontjából lényeges tényt neki felróhatóan félrevezetően közölt, és ezért a 30. § alapján vagy a 75. § (1) bekezdése alapján hozott határozatot vissza kell vonni.
 
-(1a) Az eljáró versenytanács bírságot szab ki vagy a (8) bekezdés szerinti figyelmeztetést alkalmaz azzal szemben, aki határidőben nem teljesítette
+(1a) Az eljáró versenytanács bírságot szabhat ki azzal szemben, aki határidőben nem teljesítette
 
 a) a 75. § szerinti kötelezettségvállalást, kivéve, ha a kötelezettségvállalást előíró határozatnak a 75. § (6) bekezdése szerinti visszavonása folytán az ügyben a versenyfelügyeleti eljárás újból megindult, vagy
 
