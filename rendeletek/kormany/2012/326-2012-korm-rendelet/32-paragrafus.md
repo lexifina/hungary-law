@@ -1,5 +1,0 @@
-32. §[^41] (1) A támogatást igénylő a pályázat benyújtásával egyidejűleg hozzájárulását adja ahhoz, hogy a támogató a támogatás elnyerése esetén a kedvezményezett nevét, a projekt tárgyát, a projekt megvalósítási helyét, a támogatás összegét, a támogatási intenzitást, a támogatási döntés időpontját az év és a hónap megjelölésével nyilvánosságra hozza, valamint a támogatást igénylő által rendelkezésre bocsátott adatokat a vonatkozó jogszabályok figyelembevételével nyilvántartsa és kezelje.
-
-(2) A támogatást igénylő a pályázat benyújtásával vállalja, hogy a támogatás végrehajtásában érintett szervekkel elsődlegesen elektronikusan, az informatikai rendszeren keresztül tart kapcsolatot, és tudomásul veszi, hogy az informatikai rendszeren keresztül kapott értesítések és közölt információk – ha a pályázati felhívás vagy a támogatási szerződés eltérően nem rendelkezik – hiteles és hivatalos iratnak, illetve információnak minősülnek, melynek kézhezvételéhez – annak tartalmától függően – jogkövetkezmény fűződik.
-
-[^41]: A 32. § a 35/2016. (II. 29.) Korm. rendelet 11. §-ával megállapított szöveg.

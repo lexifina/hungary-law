@@ -1,1 +1,0 @@
-## 104. § Az ellenőrzés során készített jelentésnek tartalmaznia kell az ellenőrzött időszakra vonatkozóan az ellenőrzött kiadások összegét évek, finanszírozási mechanizmusok, programok, valamint projektek szerinti bontásban.

@@ -1,3 +1,0 @@
-47. § (1) A program operátor köteles gondoskodni a kiválasztási eljárással kapcsolatos minden dokumentum megőrzéséről legalább a záró program jelentés donor országok általi jóváhagyását követő három évig.
-
-(2) A kiválasztási folyamatban és a támogatásra vonatkozó döntés előkészítésében és meghozatalában részt vevő személy vagy szervezet képviseletére jogosult személy a kiválasztási folyamattal kapcsolatos tevékenysége megkezdésekor köteles teljes bizonyító erejű magánokiratban nyilatkozatni arról, hogy a 18. § szerinti összeférhetetlenség vele szemben nem áll fenn, a támogatásra vonatkozó döntés előkészítése és meghozatala során tudomására jutott minősített adatot, üzleti vagy fizetési titkot megőrzi. A nyilatkozatot a program operátor részére kell megküldeni.

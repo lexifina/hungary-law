@@ -1,1 +1,0 @@
-## 91. § Az igazoló hatóság köteles a program operátor, illetve a nemzeti kapcsolattartó által benyújtott kifizetési ütemezések figyelembevételével a tárgyévre és az azt követő évre vonatkozó kifizetési előrejelzéseket programonként február 20-ig, május 20-ig, szeptember 20-ig és december 10-ig megküldeni a Finanszírozási Mechanizmus Iroda részére.
