@@ -1,14 +1,14 @@
-## 26/B. §[^101] Az üzemeltető a 26/A. § (1) bekezdésében meghatározottak szerint a Hatóság jogszerű hallgatása alapján a VET 133. § (3) bekezdésében meghatározott jogosultságokat gyakorolhatja, és a hatóság 15 nap elteltével rávezeti az igénybejelentésre és annak az üzemeltető birtokában levő másolati példányára, hogy a bejelentés alapján a VET 133. § (3) bekezdése szerinti jogosultságok megilletik az üzemeltetőt, vagy a Hatóságnál levő példányról az üzemeltető kérésére másolatot ad ki.
+## 26/B. §[^102] Az üzemeltető a 26/A. § (1) bekezdésében meghatározottak szerint a Hatóság jogszerű hallgatása alapján a VET 133. § (3) bekezdésében meghatározott jogosultságokat gyakorolhatja, és a hatóság 15 nap elteltével rávezeti az igénybejelentésre és annak az üzemeltető birtokában levő másolati példányára, hogy a bejelentés alapján a VET 133. § (3) bekezdése szerinti jogosultságok megilletik az üzemeltetőt, vagy a Hatóságnál levő példányról az üzemeltető kérésére másolatot ad ki.
 
 ## HASZNÁLATBAVÉTELI ENGEDÉLYEZÉSI ELJÁRÁSOK
 
-27. § (1)[^102] Az erőmű, illetve a belső kezelőterű átalakító vagy kapcsoló berendezés a villamosmű műszaki biztonsági követelményeire vonatkozó külön jogszabályban meghatározott üzembehelyezési eljárás lefolytatását követően helyezhető üzembe és üzemeltethető a végleges használatbavételi engedély kiadásáig. Az üzembehelyezési eljárás feltételeit az engedélyes biztosítja.
+27. § (1)[^103] Az erőmű, illetve a belső kezelőterű átalakító vagy kapcsoló berendezés a villamosmű műszaki biztonsági követelményeire vonatkozó külön jogszabályban meghatározott üzembehelyezési eljárás lefolytatását követően helyezhető üzembe és üzemeltethető a végleges használatbavételi engedély kiadásáig. Az üzembehelyezési eljárás feltételeit az engedélyes biztosítja.
 
-(2)[^103] Az építési engedély alapján megépített erőművet, illetve a belső kezelőterű átalakító vagy kapcsoló berendezést – az (1) bekezdés szerinti üzemeltetési lehetőséget nem korlátozva – véglegesen használatba venni a Hatóság végleges használatbavételi engedélye birtokában szabad.
+(2)[^104] Az építési engedély alapján megépített erőművet, illetve a belső kezelőterű átalakító vagy kapcsoló berendezést – az (1) bekezdés szerinti üzemeltetési lehetőséget nem korlátozva – véglegesen használatba venni a Hatóság végleges használatbavételi engedélye birtokában szabad.
 
-(3)[^104] A használatbavételi engedély iránti kérelmet a 3. számú melléklet 8. pontja és a 7. számú melléklet szerinti tartalommal kell benyújtani a Hatósághoz.
+(3)[^105] A használatbavételi engedély iránti kérelmet a 3. számú melléklet 8. pontja és a 7. számú melléklet szerinti tartalommal kell benyújtani a Hatósághoz.
 
-[^101]: A 26/B. §-t a 441/2015. (XII. 28.) Korm. rendelet 99. § (8) bekezdése iktatta be, szövege a 787/2021. (XII. 27.) Korm. rendelet 25. §-ával megállapított szöveg.
-[^102]: A 27. § (1) bekezdése a 37/2021. (II. 2.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^103]: A 27. § (2) bekezdése a 37/2021. (II. 2.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^104]: A 27. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 211. § (18) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^102]: A 26/B. §-t a 441/2015. (XII. 28.) Korm. rendelet 99. § (8) bekezdése iktatta be, szövege a 787/2021. (XII. 27.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^103]: A 27. § (1) bekezdése a 37/2021. (II. 2.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^104]: A 27. § (2) bekezdése a 37/2021. (II. 2.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^105]: A 27. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 211. § (18) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

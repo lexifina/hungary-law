@@ -1,4 +1,4 @@
-4. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^179]
+4. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^181]
 
 1. A villamosenergia-ipari építésügyi hatósági engedélyezési eljárásokban érintettségüktől függően közreműködő közművek, kezelők és üzemeltetők
 
@@ -56,8 +56,8 @@
 
 | 4. | A kulturális örökségvédelmi hatósági nyilvántartásban szereplő nyilvántartott vagy védetté nyilvánított régészeti lelőhelyen, régészeti védőövezet területén, műemléki területen megvalósuló vagy műemléket vagy műemlék telkét érintő építmény engedélyezésére irányuló eljárás. | Annak elbírálása kérdésében, hogy az építmény vagy tevékenység a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. |
 
-| 5. |  |  |
+| 5. | Szélerőmű és szélerőmű park létesítésének vagy bővítésének építési engedélyezési eljárása, meglévő szélerőmű vagy szélerőmű park fennmaradási engedélyezési eljárása során | A területrendezési, valamint a településrendezési és építési követelményeknek való megfelelés vizsgálata. |
 
 | 6. | Napelemes erőmű létesítésének vagy bővítésének építési engedélyezési eljárása, meglévő napelemes erőmű fennmaradási engedélyezési eljárása során | A területrendezési és településrendezési előírásoknak való megfelelés vizsgálata. |
 
-[^179]: A 4. számú melléklet a 360/2019. (XII. 30.) Korm. rendelet 58. § (2) bekezdés a) pontjával megállapított, a 677/2020. (XII. 28.) Korm. rendelet 21. §-a, a 26/2022. (I. 28.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^181]: A 4. számú melléklet a 360/2019. (XII. 30.) Korm. rendelet 58. § (2) bekezdés a) pontjával megállapított, a 677/2020. (XII. 28.) Korm. rendelet 21. §-a, a 26/2022. (I. 28.) Korm. rendelet 6. §-a, a 650/2023. (XII. 28.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.

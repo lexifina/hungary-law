@@ -1,3 +1,3 @@
-40. §[^141]
+40. §[^142]
 
-[^141]: A 40. §-t a 80/2018. (IV. 20.) Korm. rendelet 7. § c) pontja hatályon kívül helyezte.
+[^142]: A 40. §-t a 80/2018. (IV. 20.) Korm. rendelet 7. § c) pontja hatályon kívül helyezte.

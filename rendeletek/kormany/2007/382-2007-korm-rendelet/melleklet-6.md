@@ -1,4 +1,4 @@
-6. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^181]
+6. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^183]
 
 Az üzembe helyezési eljárás lefolytatásáról szóló bejelentés adattartalma
 
@@ -26,4 +26,4 @@ d) kivitelezés befejezési időpontja.
 
 7. Az üzembe helyezési eljárás ideje.
 
-[^181]: A 6. számú melléklet a 457/2017. (XII. 28.) Korm. rendelet 213. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^183]: A 6. számú melléklet a 457/2017. (XII. 28.) Korm. rendelet 213. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
