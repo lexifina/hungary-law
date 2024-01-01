@@ -30,15 +30,15 @@
 
 | 14. | Nemzeti Fertőző Betegségek Regisztere | Országos Hematológiai és Infektológiai Intézet |
 
-| 15. | Nemzeti In Vitro Fertilizációs, Szülészeti és Perinatális Regiszter | Állami Egészségügyi Ellátó Központ |
+| 15. | Nemzeti In Vitro Fertilizációs, Szülészeti és Perinatális Regiszter | Országos Kórházi Főigazgatóság[^38] |
 
-| 16. | Nemzeti Vesepótló Ellátások Regisztere | Állami Egészségügyi Ellátó Központ |
+| 16. | Nemzeti Vesepótló Ellátások Regisztere | Országos Kórházi Főigazgatóság[^39] |
 
 | 17. | Nemzeti Újszülöttkori Hallásszűrés Regiszter | Heim Pál Országos Gyermekgyógyászati Intézet |
 
 | 18. | Nemzeti Veleszületett Szívbetegség Regiszter | Gottsegen György Országos Kardiológiai Intézet |
 
-2. melléklet a 49/2018. (XII. 28.) EMMI rendelethez[^38]
+2. melléklet a 49/2018. (XII. 28.) EMMI rendelethez[^40]
 
 A népegészségügyi szempontból kiemelt jelentőségű vagy egyébként jelentős költségteherrel járó megbetegedések
 
@@ -78,4 +78,6 @@ A népegészségügyi szempontból kiemelt jelentőségű vagy egyébként jelen
 
 18. Veleszületett szívrendellenesség (a diagnózis – a haláloki diagnózisokat is beleértve – a BNO 10. revíziója Q20–Q26, Q87–Q89, Q96 tételeinek valamelyike)
 
-[^38]: A 2. melléklet a 37/2020. (X. 30.) EMMI rendelet 20. § (2) bekezdésével megállapított szöveg.
+[^38]: Az 1. mellékletben foglalt táblázat B:15 mezője a 70/2023. (XII. 23.) BM rendelet 18. §-ával megállapított szöveg.
+[^39]: Az 1. mellékletben foglalt táblázat B:16 mezője a 70/2023. (XII. 23.) BM rendelet 18. §-ával megállapított szöveg.
+[^40]: A 2. melléklet a 37/2020. (X. 30.) EMMI rendelet 20. § (2) bekezdésével megállapított szöveg.

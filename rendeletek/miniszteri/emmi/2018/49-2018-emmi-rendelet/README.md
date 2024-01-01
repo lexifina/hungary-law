@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-49-20-5
 | 2020-10-31 | 2018-49-20-5H.3 | 37/2020. (X. 30.) EMMI rendelet |
 | 2023-01-01 | 2018-49-20-5H.4 | 37/2020. (X. 30.) EMMI rendelet |
 | 2023-08-11 | 2018-49-20-5H.5 | 28/2023. (VIII. 10.) BM rendelet |
+| 2024-01-01 | 2018-49-20-5H.6 | 70/2023. (XII. 23.) BM rendelet |
