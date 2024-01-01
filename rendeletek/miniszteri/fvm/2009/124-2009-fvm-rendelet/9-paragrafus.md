@@ -10,7 +10,7 @@
 
 (4)[^13] A kifizetési kérelmek vizsgálata az Adattárnak a kifizetési kérelem az adott évi kérelembenyújtási időszak – jogvesztő hatállyal bíró – utolsó napja szerinti állapot alapján történik.
 
-(5)[^14] A 3. § c) pontja szerinti célprogram esetében a kifizetési kérelem benyújtásakor a kérelmezett rész-erdőrészlet területméretét igazolni kell. Igazolásként kizárólag a kérelmezett rész-erdőrészlet külső töréspontjainak Egységes Országos Vetületi Rendszerben legalább 2 méteres pontossággal meghatározott koordinátáit bizonyító mérési jegyzőkönyv másolati példánya fogadható el. A másolati példányt a kifizetési kérelemmel egyidejűleg az erdőrészlet fekvése szerint illetékes vármegyei kormányhivatalhoz postai úton kell megküldeni.
+(5)[^14] A 3. § c) pontja szerinti célprogram esetében a kifizetési kérelem benyújtásakor a kérelmezett rész-erdőrészlet területméretét igazolni kell. Igazolásként kizárólag a kérelmezett rész-erdőrészlet külső töréspontjainak Egységes Országos Vetületi Rendszerben legalább 2 méteres pontossággal meghatározott koordinátáit bizonyító mérési jegyzőkönyv másolati példánya fogadható el. A másolati példányt a kifizetési kérelemmel egyidejűleg az erdőrészlet fekvése szerint illetékes vármegyei kormányhivatalhoz postai vagy elektronikus úton kell megküldeni.
 
 (6) Az ügyfél a célprogramban vállalt tevékenységet a támogatási határozat közléséig csak saját felelősségére kezdheti meg.
 
@@ -35,6 +35,6 @@ b) a 3. § e) pont ea) és eb) alpontja szerinti célprogramok esetén a támoga
 [^11]: A 8. § a 139/2009. (X. 22.) FVM rendelet 15. § (3) bekezdésével megállapított, a 37/2017. (XII. 27.) MvM rendelet 18. § a) pontja szerint módosított szöveg.
 [^12]: A 9. § (2) bekezdése a 139/2009. (X. 22.) FVM rendelet 15. § (4) bekezdésével megállapított, a 28/2015. (VI. 9.) MvM rendelet 30. §-a szerint módosított szöveg.
 [^13]: A 9. § (4) bekezdése a 28/2015. (VI. 9.) MvM rendelet 29. § a) pontja szerint módosított szöveg.
-[^14]: A 9. § (5) bekezdése a 30/2013. (IV. 30.) VM rendelet 7. § (1) bekezdésével megállapított, a 28/2015. (VI. 9.) MvM rendelet 29. § b) pontja, a 115/2022. (XII. 27.) AM rendelet 1. §-a szerint módosított szöveg.
+[^14]: A 9. § (5) bekezdése a 30/2013. (IV. 30.) VM rendelet 7. § (1) bekezdésével megállapított, a 28/2015. (VI. 9.) MvM rendelet 29. § b) pontja, a 115/2022. (XII. 27.) AM rendelet 1. §-a, a 170/2023. (XII. 27.) AM rendelet 1. §-a szerint módosított szöveg.
 [^15]: A 9. § (9) bekezdését a 44/2012. (V. 3.) VM rendelet 16. §-a iktatta be.
 [^16]: A 9. § (10) bekezdését a 104/2012. (X. 1.) VM rendelet 5. §-a iktatta be.
