@@ -1,6 +1,6 @@
-## 4. §[^10] Figyelemmel az (EU) 2018/1806 európai parlamenti és tanácsi rendeletre, száznyolcvan napon belül kilencven napot meg nem haladó, tervezett tartózkodás céljából vízummentes beutazásra és száznyolcvan napon belül kilencven napot meg nem haladó tartózkodásra jogosult
+## 4. §[^11] Figyelemmel az (EU) 2018/1806 európai parlamenti és tanácsi rendeletre, száznyolcvan napon belül kilencven napot meg nem haladó, tervezett tartózkodás céljából vízummentes beutazásra és száznyolcvan napon belül kilencven napot meg nem haladó tartózkodásra jogosult
 
-a)[^11] az a menekültként vagy hontalanként elismert harmadik országbeli állampolgár, aki az (EU) 2018/1806 európai parlamenti és tanácsi rendelet II. mellékletében szereplő állam által kiállított úti okmánnyal rendelkezik,
+a)[^12] az a menekültként vagy hontalanként elismert harmadik országbeli állampolgár, aki az (EU) 2018/1806 európai parlamenti és tanácsi rendelet II. mellékletében szereplő állam által kiállított úti okmánnyal rendelkezik,
 
 b) katasztrófa vagy baleset során a segély- vagy mentő légi jármű személyzetének tagjaként szolgálatot teljesítő, továbbá a segítségnyújtásban közreműködő harmadik országbeli állampolgár,
 
@@ -12,5 +12,5 @@ e) a tengerhajózási személyzet tagja, és
 
 f) a nemzetközi belvízi utakon közlekedő úszólétesítmény személyzetének tagja.
 
-[^10]: A 4. § a 96/2010. (III. 31.) Korm. rendelet 10. §-ával megállapított, nyitó szövegrésze a 447/2013. (XI. 28.) Korm. rendelet 5. § (3) bekezdése, a 636/2020. (XII. 22.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
-[^11]: A 4. § a) pontja a 636/2020. (XII. 22.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^11]: A 4. § a 96/2010. (III. 31.) Korm. rendelet 10. §-ával megállapított, nyitó szövegrésze a 447/2013. (XI. 28.) Korm. rendelet 5. § (3) bekezdése, a 636/2020. (XII. 22.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^12]: A 4. § a) pontja a 636/2020. (XII. 22.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.

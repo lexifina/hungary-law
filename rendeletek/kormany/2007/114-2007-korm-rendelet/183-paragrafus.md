@@ -16,31 +16,31 @@ f) a Tanács 2004/81/EK irányelve (2004. április 29.) a harmadik országok emb
 
 g) a Tanács 2004/82/EK irányelve (2004. április 29.) a fuvarozóknak az utasokkal kapcsolatos adatok közlésére vonatkozó kötelezettségéről;
 
-h)–i)[^622]
+h)–i)[^626]
 
 j) a Tanács 1994. november 30-i határozata a Tanács által az Európai Unióról szóló Egyezmény K. 3. (2) Cikke alapján elfogadott közös intézkedésről a valamely tagállamban lakó harmadik országbeli iskolai tanulók utazási lehetőségéről;
 
-k)[^623] a harmadik országbeli állampolgárok magas szintű képzettséget igénylő munkavállalás céljából való beutazásának és tartózkodásának feltételeiről és a 2009/50/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2021. október 20-i (EU) 2021/1883 európai parlamenti és tanácsi irányelv,
+k)[^627] a harmadik országbeli állampolgárok magas szintű képzettséget igénylő munkavállalás céljából való beutazásának és tartózkodásának feltételeiről és a 2009/50/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2021. október 20-i (EU) 2021/1883 európai parlamenti és tanácsi irányelv,
 
-l)[^624] a 70. § (1) és (3) bekezdése, a 151. §-a és a 152. §-a az illegálisan tartózkodó harmadik országbeli állampolgárokat foglalkoztató munkáltatókkal szembeni szankciókra és intézkedésekre vonatkozó minimumszabályokról szóló 2009.június 18-i 2009/52/EK európai parlamenti és tanácsi irányelve,
+l)[^628] a 70. § (1) és (3) bekezdése, a 151. §-a és a 152. §-a az illegálisan tartózkodó harmadik országbeli állampolgárokat foglalkoztató munkáltatókkal szembeni szankciókra és intézkedésekre vonatkozó minimumszabályokról szóló 2009.június 18-i 2009/52/EK európai parlamenti és tanácsi irányelve,
 
-m)[^625] a 100. § (3) bekezdése, a 102. §-a, a 107. § (3) bekezdése, a 108. § (2) bekezdése, a 117. §-a a 2003/109/EK tanácsi irányelv hatályának a nemzetközi védelmet élvező személyekre történő kiterjesztése tekintetében a fenti irányelv módosításáról szóló, 2011. május 11-i 2011/51/EU európai parlamenti és a tanácsi irányelve,
+m)[^629] a 100. § (3) bekezdése, a 102. §-a, a 107. § (3) bekezdése, a 108. § (2) bekezdése, a 117. §-a a 2003/109/EK tanácsi irányelv hatályának a nemzetközi védelmet élvező személyekre történő kiterjesztése tekintetében a fenti irányelv módosításáról szóló, 2011. május 11-i 2011/51/EU európai parlamenti és a tanácsi irányelve,
 
-n)[^626] a Benelux Gazdasági Unió államai, a Németországi Szövetségi Köztársaság és a Francia Köztársaság kormányai között a közös határaikon történő ellenőrzések fokozatos megszüntetéséről szóló, 1985. június 14-i schengeni megállapodás végrehajtásáról szóló egyezmény (Schengeni Végrehajtási Egyezmény) 25. cikke [54. §; 119/A. §]
+n)[^630] a Benelux Gazdasági Unió államai, a Németországi Szövetségi Köztársaság és a Francia Köztársaság kormányai között a közös határaikon történő ellenőrzések fokozatos megszüntetéséről szóló, 1985. június 14-i schengeni megállapodás végrehajtásáról szóló egyezmény (Schengeni Végrehajtási Egyezmény) 25. cikke [54. §; 119/A. §]
 
-o)[^627] a harmadik országbeli állampolgárok valamely tagállam területén való tartózkodására és munkavállalására vonatkozó összevont engedélyre irányuló összevont kérelmezési eljárásról, valamint a harmadik országból származó, valamely tagállam területén jogszerűen tartózkodó munkavállalók közös jogairól szóló, 2011. december 13-i, 2011/98/EU európai parlamenti és tanácsi irányelv,
+o)[^631] a harmadik országbeli állampolgárok valamely tagállam területén való tartózkodására és munkavállalására vonatkozó összevont engedélyre irányuló összevont kérelmezési eljárásról, valamint a harmadik országból származó, valamely tagállam területén jogszerűen tartózkodó munkavállalók közös jogairól szóló, 2011. december 13-i, 2011/98/EU európai parlamenti és tanácsi irányelv,
 
-p)[^628] a harmadik országbeli állampolgárok idénymunkásként való munkavállalás céljából való belépésének és tartózkodásának feltételeiről szóló, 2014. február 26-i 2014/36/EU európai parlamenti és tanácsi irányelv;
+p)[^632] a harmadik országbeli állampolgárok idénymunkásként való munkavállalás céljából való belépésének és tartózkodásának feltételeiről szóló, 2014. február 26-i 2014/36/EU európai parlamenti és tanácsi irányelv;
 
-r)[^629] a harmadik országbeli állampolgárok vállalaton belüli áthelyezés keretében történő belépésének és tartózkodásának feltételeiről szóló, 2014. május 15-i 2014/66/EU európai parlamenti és tanácsi irányelv;
+r)[^633] a harmadik országbeli állampolgárok vállalaton belüli áthelyezés keretében történő belépésének és tartózkodásának feltételeiről szóló, 2014. május 15-i 2014/66/EU európai parlamenti és tanácsi irányelv;
 
-s)[^630] a harmadik országbeli állampolgárok kutatás, tanulmányok folytatása, gyakorlat, önkéntes szolgálat, diákcsereprogramok vagy oktatási projektek, és au pair tevékenység céljából történő beutazásának és tartózkodásának feltételeiről szóló, 2016. május 11-i 2016/801/EU európai parlamenti és tanácsi irányelv.
+s)[^634] a harmadik országbeli állampolgárok kutatás, tanulmányok folytatása, gyakorlat, önkéntes szolgálat, diákcsereprogramok vagy oktatási projektek, és au pair tevékenység céljából történő beutazásának és tartózkodásának feltételeiről szóló, 2016. május 11-i 2016/801/EU európai parlamenti és tanácsi irányelv.
 
-(2)[^631] Ez a rendelet
+(2)[^635] Ez a rendelet
 
-a)[^632] a vízumok egységes formátumának meghatározásáról szóló, 1995. május 29-i 1683/95/EK tanácsi rendelet, valamint a vízumok egységes formátumának meghatározásáról szóló 1683/95/EK tanácsi rendelet módosításáról szóló, 2017. július 4-i (EU) 2017/1370 európai parlamenti és tanácsi rendelet,
+a)[^636] a vízumok egységes formátumának meghatározásáról szóló, 1995. május 29-i 1683/95/EK tanácsi rendelet, valamint a vízumok egységes formátumának meghatározásáról szóló 1683/95/EK tanácsi rendelet módosításáról szóló, 2017. július 4-i (EU) 2017/1370 európai parlamenti és tanácsi rendelet,
 
-b)[^633] a külső határok átlépésekor vízumkötelezettség alá eső, illetve az e kötelezettség alól mentes harmadik országbeli állampolgárok országainak felsorolásáról szóló, 2018. november 14-i (EU) 2018/1806 európai parlamenti és tanácsi rendelet,
+b)[^637] a külső határok átlépésekor vízumkötelezettség alá eső, illetve az e kötelezettség alól mentes harmadik országbeli állampolgárok országainak felsorolásáról szóló, 2018. november 14-i (EU) 2018/1806 európai parlamenti és tanácsi rendelet,
 
 c) az érintett tagállam által el nem ismert útiokmányok birtokosai részére a tagállamok által kiadott vízumok beillesztésére szolgáló űrlapok egységes formátumáról szóló, 2002. február 18-i 333/2002/EK tanácsi rendelet,
 
@@ -58,9 +58,9 @@ i) a tagállamok külső szárazföldi határain való kishatárforgalom szabál
 
 j) a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet) című, 2008. július 9-i 767/2008/EK európai parlamenti és tanácsi rendelet,
 
-k)[^634] a Közösségi Vízumkódex létrehozásáról (vízumkódex) szóló, 2009. július 13-i 810/2009/EK európai parlamenti és tanácsi rendelet, valamint a Közösségi Vízumkódex (vízumkódex) létrehozásáról szóló 810/2009/EK rendelet módosításáról szóló, 2019. június 20-i (EU) 2019/1155 európai parlamenti és tanácsi rendelet,
+k)[^638] a Közösségi Vízumkódex létrehozásáról (vízumkódex) szóló, 2009. július 13-i 810/2009/EK európai parlamenti és tanácsi rendelet, valamint a Közösségi Vízumkódex (vízumkódex) létrehozásáról szóló 810/2009/EK rendelet módosításáról szóló, 2019. június 20-i (EU) 2019/1155 európai parlamenti és tanácsi rendelet,
 
-l)[^635] a Schengeni Információs Rendszernek a jogellenesen tartózkodó harmadik országbeli állampolgárok visszaküldése céljából történő használatáról szóló, 2018. november 28-i (EU) 2018/1860 európai parlamenti és tanácsi rendelet és a határforgalom-ellenőrzés terén a Schengeni Információs Rendszer létrehozásáról, működéséről és használatáról, a Schengeni Megállapodás végrehajtásáról szóló egyezmény módosításáról, valamint az 1987/2006/EK rendelet módosításáról és hatályon kívül helyezéséről szóló, 2018. november 28-i (EU) 2018/1861 európai parlamenti és tanácsi rendelet,
+l)[^639] a Schengeni Információs Rendszernek a jogellenesen tartózkodó harmadik országbeli állampolgárok visszaküldése céljából történő használatáról szóló, 2018. november 28-i (EU) 2018/1860 európai parlamenti és tanácsi rendelet és a határforgalom-ellenőrzés terén a Schengeni Információs Rendszer létrehozásáról, működéséről és használatáról, a Schengeni Megállapodás végrehajtásáról szóló egyezmény módosításáról, valamint az 1987/2006/EK rendelet módosításáról és hatályon kívül helyezéséről szóló, 2018. november 28-i (EU) 2018/1861 európai parlamenti és tanácsi rendelet,
 
 m) a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni határ-ellenőrzési kódex) létrehozásáról szóló 562/2006/EK európai parlamenti és tanácsi rendelet, a Schengeni Megállapodás végrehajtásáról szóló egyezmény, a 810/2009/EK európai parlamenti és tanácsi rendelet, az 1683/95/EK tanácsi rendelet, az 539/2001/EK tanácsi rendelet, valamint a 767/2008/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2013. június 26-i 610/2013/EU európai parlamenti és tanácsi rendelet,
 
@@ -70,13 +70,13 @@ o) az egy harmadik ország állampolgára által a tagállamok egyikében benyú
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-(3)[^636] Ez a rendelet a külső határok átlépésekor vízumkötelezettség alá eső, illetve az e kötelezettség alól mentes harmadik országbeli állampolgárok országainak felsorolásáról szóló (EU) 2018/1806 rendeletnek az Egyesült Királyság Unióból való kilépése tekintetében történő módosításáról szóló, 2019. április 10-i (EU) 2019/592 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+(3)[^640] Ez a rendelet a külső határok átlépésekor vízumkötelezettség alá eső, illetve az e kötelezettség alól mentes harmadik országbeli állampolgárok országainak felsorolásáról szóló (EU) 2018/1806 rendeletnek az Egyesült Királyság Unióból való kilépése tekintetében történő módosításáról szóló, 2019. április 10-i (EU) 2019/592 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-(4)[^637] E rendelet 29. §-a és 107. §-a az uniós polgárok személyazonosító igazolványai és a szabad mozgás jogával élő uniós polgárok és azok családtagjai részére kiállított tartózkodási okmányok biztonságának megerősítéséről szóló, 2019. június 20-i (EU) 2019/1157 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+(4)[^641] E rendelet 29. §-a és 107. §-a az uniós polgárok személyazonosító igazolványai és a szabad mozgás jogával élő uniós polgárok és azok családtagjai részére kiállított tartózkodási okmányok biztonságának megerősítéséről szóló, 2019. június 20-i (EU) 2019/1157 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-I. melléklet a 114/2007. (V. 24.) Korm. rendelethez[^638]
+I. melléklet a 114/2007. (V. 24.) Korm. rendelethez[^642]
 
-II. melléklet a 114/2007. (V. 24.) Korm. rendelethez[^639]
+II. melléklet a 114/2007. (V. 24.) Korm. rendelethez[^643]
 
 1. Vízumokmány: a vízumok egységes formátumának meghatározásáról szóló, 1995. május 29-i 1683/95/EK tanácsi rendeletben, a vízumok egységes formátumának meghatározásáról szóló 1683/95/EK tanácsi rendelet módosításáról szóló, 2002. február 18-i 334/2002/EK tanácsi rendeletben és a vízumok egységes formátumának meghatározásáról szóló 1683/95/EK tanácsi rendelet módosításáról szóló, 2017. július 4-i (EU) 2017/1370 európai parlamenti és tanácsi rendeletben meghatározott formájú és adattartalmú okmány.
 
@@ -124,7 +124,7 @@ bc) „Jövedelemszerzés”
 
 bd) „Vállalaton belül áthelyezett személy / ICT”
 
-be)[^640]
+be)[^644]
 
 bf) „Családi együttélés”
 
@@ -158,9 +158,9 @@ bt) „Tanulmányi”
 
 bu) „Egyéb”
 
-bv)[^641] „Fehér Kártya”
+bv)[^645] „Fehér Kártya”
 
-bw)[^642]
+bw)[^646]
 
 c) a humanitárius tartózkodási engedély esetén:
 
@@ -176,11 +176,11 @@ d) az EK letelepedési engedély esetén:
 
 da) „Huzamos tartózkodási engedéllyel rendelkező – EK”
 
-e)[^643] az Szmtv. 95. § (4), (7), (9) és (11) bekezdése alapján kiadott nemzeti letelepedési engedély esetén: „Kilépési megállapodás 18. cikk (1) bekezdése alapján”
+e)[^647] az Szmtv. 95. § (4), (7), (9) és (11) bekezdése alapján kiadott nemzeti letelepedési engedély esetén: „Kilépési megállapodás 18. cikk (1) bekezdése alapján”
 
-f)[^644] az Szmtv. 95. § (16) bekezdése alapján kiadott tartózkodási engedély esetén „Munkavállalás”
+f)[^648] az Szmtv. 95. § (16) bekezdése alapján kiadott tartózkodási engedély esetén „Munkavállalás”
 
-g)[^645] az Szmtv. 95. § (17) bekezdése alapján kiadott tartózkodási engedély esetén „Jövedelemszerzés”
+g)[^649] az Szmtv. 95. § (17) bekezdése alapján kiadott tartózkodási engedély esetén „Jövedelemszerzés”
 
 6. Megjegyzések a 3. pont szerinti okmányok hátoldalán:
 
@@ -190,7 +190,7 @@ aa) „2007. évi CLIII. törvény alapján visszaélés szankcionálandó”
 
 b) a tartózkodási engedély esetén:
 
-ba)[^646] EU Kék Kártya esetén: „Munkavégzésre jogosult …-nál/-nél”; továbbá ha az okmány birtokosa az Európai Unió valamely tagállama általi nemzetközi védelemben részesül: „[Tagállam neve]-ban/-ben, [dátum]-án/-én nemzetközi védelemben részesült”
+ba)[^650] EU Kék Kártya esetén: „Munkavégzésre jogosult …-nál/-nél”; továbbá ha az okmány birtokosa az Európai Unió valamely tagállama általi nemzetközi védelemben részesül: „[Tagállam neve]-ban/-ben, [dátum]-án/-én nemzetközi védelemben részesült”
 
 bb) Munkavállalás célú tartózkodási engedély esetén: „Munkavégzésre jogosult ...-nál/-nél”
 
@@ -226,17 +226,17 @@ d) az ideiglenes letelepedési engedély esetén:
 
 Nemzetközi védelem keletkezésének időpontja: ...” (ha az engedélyest korábban a menekültügyi hatóság vagy bíróság vagy az Európai Unió tagállama menekültként elismerte vagy kiegészítő védelemben részesítette, és az EK letelepedési engedély kiállításakor ez a jogállás fennáll)
 
-e)[^647] az 5. pont e) alpontja szerint kiadott nemzeti letelepedési engedély esetén: „Nemzeti letelepedési engedély”
+e)[^651] az 5. pont e) alpontja szerint kiadott nemzeti letelepedési engedély esetén: „Nemzeti letelepedési engedély”
 
-7.[^648] A regionális igazgatóság az Szmtv. 95. § (4), (7), (9) és (11) bekezdése alapján kiadott nemzeti letelepedési engedély esetén az engedély típusa rovatban az „Az EUSZ 50. cikke” szöveget tünteti fel.
+7.[^652] A regionális igazgatóság az Szmtv. 95. § (4), (7), (9) és (11) bekezdése alapján kiadott nemzeti letelepedési engedély esetén az engedély típusa rovatban az „Az EUSZ 50. cikke” szöveget tünteti fel.
 
-8.[^649] A regionális igazgatóság az Szmtv. 95. § (16) és (17) bekezdése alapján kiadott tartózkodási engedély esetén az engedély típusa rovatban az „Az EUSZ 50. cikke – Határ menti ingázó munkavállaló” szöveget tünteti fel.
+8.[^653] A regionális igazgatóság az Szmtv. 95. § (16) és (17) bekezdése alapján kiadott tartózkodási engedély esetén az engedély típusa rovatban az „Az EUSZ 50. cikke – Határ menti ingázó munkavállaló” szöveget tünteti fel.
 
 III. melléklet a 114/2007. (V. 24.) Korm. rendelethez
 
 Tartózkodási engedély okmányok
 
-1–2.[^650]
+1–2.[^654]
 
 3. Humanitárius tartózkodási engedély okmány menedékjogot kérő számára
 
@@ -270,7 +270,7 @@ Az okmány adattartalma a következő:
 
 12. egyéb megjegyzések
 
-IV. melléklet a 114/2007. (V. 24.) Korm. rendelethez[^651]
+IV. melléklet a 114/2007. (V. 24.) Korm. rendelethez[^655]
 
 I. Rövid távú mobilitási igazolás/short term mobility certificate
 
@@ -410,9 +410,9 @@ A közösségi szállás házirendje
 
 11. Az elhelyezett a szálláshelyen köteles olyan magatartást tanúsítani, amellyel a többi elhelyezett jogait nem sérti, nyugalmát nem zavarja.
 
-12.[^652] Az elhelyezett a szálláshelyről történő 24 órát meg nem haladó eltávozás esetén köteles a szállás rendjének fenntartása, mások nyugalmának biztosítása érdekében a napirendben foglaltakat betartani.
+12.[^656] Az elhelyezett a szálláshelyről történő 24 órát meg nem haladó eltávozás esetén köteles a szállás rendjének fenntartása, mások nyugalmának biztosítása érdekében a napirendben foglaltakat betartani.
 
-VI. melléklet a 114/2007. (V. 24.) Korm. rendelethez[^653]
+VI. melléklet a 114/2007. (V. 24.) Korm. rendelethez[^657]
 
 Az emberkereskedelem áldozatává vált harmadik országbeli állampolgár
 
@@ -566,38 +566,38 @@ Minden kérelmező és befogadott (tehát az együtt érkező házastárs, kisko
 
 A nyilatkozatot nyomtatott betűvel kell kitölteni!
 
-VII. melléklet a 114/2007. (V. 24.) Korm. rendelethez[^654]
+VII. melléklet a 114/2007. (V. 24.) Korm. rendelethez[^658]
 
-[^622]: A 183. § (1) bekezdés h)–i) pontját a 411/2017. (XII. 15.) Korm. rendelet 35. § c) pontja hatályon kívül helyezte.
-[^623]: A 183. § (1) bekezdés k) pontját a 168/2011. (VIII. 24.) Korm. rendelet 18. §-a iktatta be, szövege a 280/2023. (VI. 29.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^624]: A 183. § (1) bekezdés l) pontját a 168/2011. (VIII. 24.) Korm. rendelet 18. §-a iktatta be.
-[^625]: A 183. § (1) bekezdés m) pontját a 81/2012. (IV. 18.) Korm. rendelet 10. §-a iktatta be.
-[^626]: A 183. § (1) bekezdés n) pontját a 15/2013. (I. 28.) Korm. rendelet 35. § (5) bekezdése iktatta be.
-[^627]: A 183. § (1) bekezdés o) pontját a 446/2013. (XI. 28.) Korm. rendelet 10. §-a iktatta be.
-[^628]: A 183. § (1) bekezdés p) pontját a 113/2016. (V. 30.) Korm. rendelet 55. §-a iktatta be.
-[^629]: A 183. § (1) bekezdés r) pontját a 113/2016. (V. 30.) Korm. rendelet 55. §-a iktatta be.
-[^630]: A 183. § (1) bekezdés s) pontját a 411/2017. (XII. 15.) Korm. rendelet 32. §-a iktatta be.
-[^631]: A 183. § (2) bekezdése a 267/2019. (XI. 19.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^632]: A 183. § (2) bekezdés a) pontja a 202/2020. (V. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^633]: A 183. § (2) bekezdés b) pontja a 636/2020. (XII. 22.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^634]: A 183. § (2) bekezdés k) pontja a 189/2020. (V. 7.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^635]: A 183. § (2) bekezdés l) pontja az 565/2021. (X. 4.) Korm. rendelet 24. §-ával megállapított szöveg.
-[^636]: A 183. § (3) bekezdését a 636/2020. (XII. 22.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^637]: A 183. § (4) bekezdését a 259/2021. (V. 20.) Korm. rendelet 16. §-a iktatta be.
-[^638]: Az I. mellékletet a 96/2010. (III. 31.) Korm. rendelet 25. §-a hatályon kívül helyezte.
-[^639]: A II. melléklet a 202/2020. (V. 14.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^640]: A II. melléklet 5. pont b) alpont be) pontját a 628/2022. (XII. 30.) Korm. rendelet 17. § h) pontja hatályon kívül helyezte.
-[^641]: A II. melléklet 5. pont b) alpont bv) alpontját a 636/2020. (XII. 22.) Korm. rendelet 4. §-a iktatta be, szövege a 696/2021. (XII. 13.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^642]: A II. melléklet 5. pont b) alpont bw) alpontját a 636/2020. (XII. 22.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 696/2021. (XII. 13.) Korm. rendelet 11. §-a.
-[^643]: A II. melléklet 5. pont e) alpontját a 636/2020. (XII. 22.) Korm. rendelet 4. §-a iktatta be, szövege a 696/2021. (XII. 13.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
-[^644]: A II. melléklet 5. pont f) alpontját a 696/2021. (XII. 13.) Korm. rendelet 9. §-a iktatta be.
-[^645]: A II. melléklet 5. pont g) alpontját a 696/2021. (XII. 13.) Korm. rendelet 9. §-a iktatta be.
-[^646]: A II. melléklet 6. pont b) alpont ba) pontja a 280/2023. (VI. 29.) Korm. rendelet 18. §-ával megállapított szöveg.
-[^647]: A II. melléklet 6. pont e) alpontját a 636/2020. (XII. 22.) Korm. rendelet 4. §-a iktatta be, szövege a 696/2021. (XII. 13.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
-[^648]: A II. melléklet 7. pontját a 696/2021. (XII. 13.) Korm. rendelet 9. §-a iktatta be.
-[^649]: A II. melléklet 8. pontját a 696/2021. (XII. 13.) Korm. rendelet 9. §-a iktatta be.
-[^650]: A III. melléklet 1–2. pontját a 290/2010. (XII. 21.) Korm. rendelet 126. § (3) bekezdése hatályon kívül helyezte.
-[^651]: A IV. mellékletet a 290/2010. (XII. 21.) Korm. rendelet 126. § (3) bekezdése hatályon kívül helyezte, újonnan a 411/2017. (XII. 15.) Korm. rendelet 33. § (2) bekezdése iktatta be.
-[^652]: Az V. melléklet 12. pontját a 409/2012. (XII. 28.) Korm. rendelet 30. §-a iktatta be.
-[^653]: A VI. melléklet a 62/2016. (III. 31.) Korm. rendelet 3. § b) és e) pontja, a 379/2016. (XII. 2.) Korm. rendelet 96. § h) pontja, a 126/2019. (V. 30.) Korm. rendelet 13. § (4) bekezdés k)–l) pontja, a 629/2022. (XII. 30.) Korm. rendelet 30. §-a szerint módosított szöveg.
-[^654]: A VII. mellékletet a 409/2012. (XII. 28.) Korm. rendelet 31. § b) pontja hatályon kívül helyezte.
+[^626]: A 183. § (1) bekezdés h)–i) pontját a 411/2017. (XII. 15.) Korm. rendelet 35. § c) pontja hatályon kívül helyezte.
+[^627]: A 183. § (1) bekezdés k) pontját a 168/2011. (VIII. 24.) Korm. rendelet 18. §-a iktatta be, szövege a 280/2023. (VI. 29.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^628]: A 183. § (1) bekezdés l) pontját a 168/2011. (VIII. 24.) Korm. rendelet 18. §-a iktatta be.
+[^629]: A 183. § (1) bekezdés m) pontját a 81/2012. (IV. 18.) Korm. rendelet 10. §-a iktatta be.
+[^630]: A 183. § (1) bekezdés n) pontját a 15/2013. (I. 28.) Korm. rendelet 35. § (5) bekezdése iktatta be.
+[^631]: A 183. § (1) bekezdés o) pontját a 446/2013. (XI. 28.) Korm. rendelet 10. §-a iktatta be.
+[^632]: A 183. § (1) bekezdés p) pontját a 113/2016. (V. 30.) Korm. rendelet 55. §-a iktatta be.
+[^633]: A 183. § (1) bekezdés r) pontját a 113/2016. (V. 30.) Korm. rendelet 55. §-a iktatta be.
+[^634]: A 183. § (1) bekezdés s) pontját a 411/2017. (XII. 15.) Korm. rendelet 32. §-a iktatta be.
+[^635]: A 183. § (2) bekezdése a 267/2019. (XI. 19.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^636]: A 183. § (2) bekezdés a) pontja a 202/2020. (V. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^637]: A 183. § (2) bekezdés b) pontja a 636/2020. (XII. 22.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^638]: A 183. § (2) bekezdés k) pontja a 189/2020. (V. 7.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^639]: A 183. § (2) bekezdés l) pontja az 565/2021. (X. 4.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^640]: A 183. § (3) bekezdését a 636/2020. (XII. 22.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^641]: A 183. § (4) bekezdését a 259/2021. (V. 20.) Korm. rendelet 16. §-a iktatta be.
+[^642]: Az I. mellékletet a 96/2010. (III. 31.) Korm. rendelet 25. §-a hatályon kívül helyezte.
+[^643]: A II. melléklet a 202/2020. (V. 14.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^644]: A II. melléklet 5. pont b) alpont be) pontját a 628/2022. (XII. 30.) Korm. rendelet 17. § h) pontja hatályon kívül helyezte.
+[^645]: A II. melléklet 5. pont b) alpont bv) alpontját a 636/2020. (XII. 22.) Korm. rendelet 4. §-a iktatta be, szövege a 696/2021. (XII. 13.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^646]: A II. melléklet 5. pont b) alpont bw) alpontját a 636/2020. (XII. 22.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 696/2021. (XII. 13.) Korm. rendelet 11. §-a.
+[^647]: A II. melléklet 5. pont e) alpontját a 636/2020. (XII. 22.) Korm. rendelet 4. §-a iktatta be, szövege a 696/2021. (XII. 13.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
+[^648]: A II. melléklet 5. pont f) alpontját a 696/2021. (XII. 13.) Korm. rendelet 9. §-a iktatta be.
+[^649]: A II. melléklet 5. pont g) alpontját a 696/2021. (XII. 13.) Korm. rendelet 9. §-a iktatta be.
+[^650]: A II. melléklet 6. pont b) alpont ba) pontja a 280/2023. (VI. 29.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^651]: A II. melléklet 6. pont e) alpontját a 636/2020. (XII. 22.) Korm. rendelet 4. §-a iktatta be, szövege a 696/2021. (XII. 13.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^652]: A II. melléklet 7. pontját a 696/2021. (XII. 13.) Korm. rendelet 9. §-a iktatta be.
+[^653]: A II. melléklet 8. pontját a 696/2021. (XII. 13.) Korm. rendelet 9. §-a iktatta be.
+[^654]: A III. melléklet 1–2. pontját a 290/2010. (XII. 21.) Korm. rendelet 126. § (3) bekezdése hatályon kívül helyezte.
+[^655]: A IV. mellékletet a 290/2010. (XII. 21.) Korm. rendelet 126. § (3) bekezdése hatályon kívül helyezte, újonnan a 411/2017. (XII. 15.) Korm. rendelet 33. § (2) bekezdése iktatta be.
+[^656]: Az V. melléklet 12. pontját a 409/2012. (XII. 28.) Korm. rendelet 30. §-a iktatta be.
+[^657]: A VI. melléklet a 62/2016. (III. 31.) Korm. rendelet 3. § b) és e) pontja, a 379/2016. (XII. 2.) Korm. rendelet 96. § h) pontja, a 126/2019. (V. 30.) Korm. rendelet 13. § (4) bekezdés k)–l) pontja, a 629/2022. (XII. 30.) Korm. rendelet 30. §-a szerint módosított szöveg.
+[^658]: A VII. mellékletet a 409/2012. (XII. 28.) Korm. rendelet 31. § b) pontja hatályon kívül helyezte.

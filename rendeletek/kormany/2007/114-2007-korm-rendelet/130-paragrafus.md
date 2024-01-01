@@ -1,10 +1,10 @@
 ## A kijelölt helyen való tartózkodás elrendelése
 
-130. § (1)[^471] A idegenrendészeti hatóság a harmadik országbeli állampolgár számára – a (4)–(6) bekezdésben meghatározott kivétellel – kötelező tartózkodási helyként
+130. § (1)[^473] A idegenrendészeti hatóság a harmadik országbeli állampolgár számára – a (4)–(6) bekezdésben meghatározott kivétellel – kötelező tartózkodási helyként
 
 a) a harmadik országbeli állampolgár bejelentett szálláshelyét,
 
-b)[^472]
+b)[^474]
 
 c) a harmadik országbeli állampolgár eltartására kötelezhető hozzátartozó szálláshelyét, lakóhelyét, tartózkodási helyét,
 
@@ -20,7 +20,7 @@ jelölhet ki.
 
 (3) Befogadó állomáson kizárólag
 
-a)[^473]
+a)[^475]
 
 b) kiskorú harmadik országbeli állampolgár és a felügyeletét gyakorló szülő
 
@@ -30,13 +30,13 @@ helyezhető el.
 
 (5) Ha harmadik országbeli állampolgár az emberkereskedelem áldozata, részére az emberkereskedelem áldozatai elhelyezését szolgáló befogadó állomást vagy szerződés alapján fenntartott más szálláshelyet lehet kijelölni.
 
-(6)[^474] Az (1) és (2) bekezdésben meghatározott lehetőségek hiányában az idegenrendészeti hatóság a harmadik országbeli állampolgár számára kötelező tartózkodási helyként meghatározott vármegye közigazgatási területét vagy befogadó állomás vagy közösségi szállás területét jelölheti ki.
+(6)[^476] Az (1) és (2) bekezdésben meghatározott lehetőségek hiányában az idegenrendészeti hatóság a harmadik országbeli állampolgár számára kötelező tartózkodási helyként meghatározott vármegye közigazgatási területét vagy befogadó állomás vagy közösségi szállás területét jelölheti ki.
 
-(7)[^475] A (6) bekezdés szerinti szálláson a harmadik országbeli állampolgár kizárólag elhelyezésre jogosult, egyéb ellátás nem illeti meg.
+(7)[^477] A (6) bekezdés szerinti szálláson a harmadik országbeli állampolgár kizárólag elhelyezésre jogosult, egyéb ellátás nem illeti meg.
 
-(8)[^476] A (6) bekezdés szerinti szálláson a Tv. 62. § (2) bekezdés b) pontjában foglaltak szerint az idegenrendészeti hatóság határozza meg, hogy a harmadik országbeli állampolgár a szállást milyen feltételekkel hagyhatja el.
+(8)[^478] A (6) bekezdés szerinti szálláson a Tv. 62. § (2) bekezdés b) pontjában foglaltak szerint az idegenrendészeti hatóság határozza meg, hogy a harmadik országbeli állampolgár a szállást milyen feltételekkel hagyhatja el.
 
-(9)[^477] A (6) bekezdés szerinti szálláson tartózkodó harmadik országbeli állampolgár köteles
+(9)[^479] A (6) bekezdés szerinti szálláson tartózkodó harmadik országbeli állampolgár köteles
 
 a) a szállás rendjét megtartani, az erre vonatkozó előírásokat teljesíteni,
 
@@ -46,13 +46,13 @@ c) a szükséges orvosi vizsgálatnak, járványügyi intézkedésnek – beleé
 
 d) a szállás berendezési, felszerelési tárgyait megóvni, a károkozástól tartózkodni, a szándékosan okozott kárt megtéríteni.
 
-(10)[^478] A Tv. 62. § (3a) bekezdésének alkalmazása esetén a kötelező tartózkodási helyként kijelölt tranzitzóna engedély nélküli elhagyásának megakadályozását a Rendőrség végzi.
+(10)[^480] A Tv. 62. § (3a) bekezdésének alkalmazása esetén a kötelező tartózkodási helyként kijelölt tranzitzóna engedély nélküli elhagyásának megakadályozását a Rendőrség végzi.
 
-[^471]: A 130. § (1) bekezdése a 221/2013. (VI. 24.) Korm. rendelet 25. §-ával megállapított szöveg.
-[^472]: A 130. § (1) bekezdés b) pontját a 628/2022. (XII. 30.) Korm. rendelet 17. § f) pontja hatályon kívül helyezte.
-[^473]: A 130. § (3) bekezdés a) pontját a 113/2016. (V. 30.) Korm. rendelet 56. § (3) bekezdés c) pontja hatályon kívül helyezte.
-[^474]: A 130. § (6) bekezdése a 70/2017. (III. 31.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 77. § b) pontja szerint módosított szöveg.
-[^475]: A 130. § (7) bekezdését a 70/2017. (III. 31.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^476]: A 130. § (8) bekezdését a 70/2017. (III. 31.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^477]: A 130. § (9) bekezdését a 70/2017. (III. 31.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^478]: A 130. § (10) bekezdését a 70/2017. (III. 31.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^473]: A 130. § (1) bekezdése a 221/2013. (VI. 24.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^474]: A 130. § (1) bekezdés b) pontját a 628/2022. (XII. 30.) Korm. rendelet 17. § f) pontja hatályon kívül helyezte.
+[^475]: A 130. § (3) bekezdés a) pontját a 113/2016. (V. 30.) Korm. rendelet 56. § (3) bekezdés c) pontja hatályon kívül helyezte.
+[^476]: A 130. § (6) bekezdése a 70/2017. (III. 31.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 77. § b) pontja szerint módosított szöveg.
+[^477]: A 130. § (7) bekezdését a 70/2017. (III. 31.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^478]: A 130. § (8) bekezdését a 70/2017. (III. 31.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^479]: A 130. § (9) bekezdését a 70/2017. (III. 31.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^480]: A 130. § (10) bekezdését a 70/2017. (III. 31.) Korm. rendelet 3. § (2) bekezdése iktatta be.

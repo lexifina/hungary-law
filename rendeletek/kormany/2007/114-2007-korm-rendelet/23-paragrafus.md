@@ -1,3 +1,3 @@
-23. §[^65]
+23. §[^66]
 
-[^65]: A 23. §-t a 96/2010. (III. 31.) Korm. rendelet 25. §-a hatályon kívül helyezte.
+[^66]: A 23. §-t a 96/2010. (III. 31.) Korm. rendelet 25. §-a hatályon kívül helyezte.

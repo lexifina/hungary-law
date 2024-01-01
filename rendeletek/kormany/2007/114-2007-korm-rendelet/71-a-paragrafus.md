@@ -1,4 +1,4 @@
-71/A. §[^221] (1) A beutazásra és tartózkodásra vonatkozó szabályokat azon harmadik országbeli állampolgár vonatkozásában, akinek a beutazása és tartózkodása a Tv. 13. § (2) bekezdése alapján került engedélyezésre arra figyelemmel, hogy biztonsága származási országában a magyar szervezetekkel való együttműködése vagy hozzátartozójának együttműködése miatt került veszélybe, a (2)–(6) bekezdésben foglalt eltérésekkel kell alkalmazni.
+71/A. §[^222] (1) A beutazásra és tartózkodásra vonatkozó szabályokat azon harmadik országbeli állampolgár vonatkozásában, akinek a beutazása és tartózkodása a Tv. 13. § (2) bekezdése alapján került engedélyezésre arra figyelemmel, hogy biztonsága származási országában a magyar szervezetekkel való együttműködése vagy hozzátartozójának együttműködése miatt került veszélybe, a (2)–(6) bekezdésben foglalt eltérésekkel kell alkalmazni.
 
 (2) Az (1) bekezdés szerinti harmadik országbeli állampolgár három hónapig jogosult az idegenrendészeti hatóság által fenntartott valamely befogadó intézményben (a továbbiakban: befogadó intézmény) elhelyezésre és ellátásra.
 
@@ -26,4 +26,4 @@ d) a befogadó intézmény berendezési, felszerelési tárgyait megóvni, a ká
 
 (6) Az (1) bekezdés szerinti harmadik országbeli állampolgár, aki nem áll társadalombiztosítási jogviszonyban, a beutazást követő 18 hónapig egészségügyi ellátásra a menedékjogról szóló 2007. évi LXXX. törvény végrehajtásáról szóló 301/2007. (XI. 9.) Korm. rendelet 26–28. §-ában foglaltak szerint jogosult azzal, hogy a költségek megtérítését az idegenrendészeti hatóság végzi.
 
-[^221]: A 71/A. §-t az 533/2021. (IX. 14.) Korm. rendelet 1. §-a iktatta be.
+[^222]: A 71/A. §-t az 533/2021. (IX. 14.) Korm. rendelet 1. §-a iktatta be.

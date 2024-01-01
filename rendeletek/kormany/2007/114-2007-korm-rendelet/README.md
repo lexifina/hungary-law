@@ -70,3 +70,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-114-20-
 | 2023-07-01 | 2007-114-20-22.72 | 280/2023. (VI. 29.) Korm. rendelet |
 | 2023-09-01 | 2007-114-20-22.75 | 375/2023. (VIII. 10.) Korm. rendelet |
 | 2023-11-19 | 2007-114-20-22.73 | 280/2023. (VI. 29.) Korm. rendelet |
+| 2024-01-01 | 2007-114-20-22.74 | 280/2023. (VI. 29.) Korm. rendelet |

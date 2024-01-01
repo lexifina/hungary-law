@@ -1,9 +1,9 @@
-## Kishatárforgalmi engedély[^76]
+## Kishatárforgalmi engedély[^77]
 
-28/A. §[^77] (1) A tagállamok külső szárazföldi határain való kishatárforgalom szabályainak meghatározásáról, valamint a Schengeni Egyezmény rendelkezéseinek módosításáról szóló, 2006. december 20-i, 1931/2006/EK európai parlamenti és tanácsi rendeletben meghatározott, külön nemzetközi szerződés szerinti kishatárforgalmi engedély (a továbbiakban: kishatárforgalmi engedély) kiadására irányuló idegenrendészeti eljárás a nemzetközi szerződésben meghatározott konzuli szolgálat konzuli tisztviselőjének a hatáskörébe tartozik.
+28/A. §[^78] (1) A tagállamok külső szárazföldi határain való kishatárforgalom szabályainak meghatározásáról, valamint a Schengeni Egyezmény rendelkezéseinek módosításáról szóló, 2006. december 20-i, 1931/2006/EK európai parlamenti és tanácsi rendeletben meghatározott, külön nemzetközi szerződés szerinti kishatárforgalmi engedély (a továbbiakban: kishatárforgalmi engedély) kiadására irányuló idegenrendészeti eljárás a nemzetközi szerződésben meghatározott konzuli szolgálat konzuli tisztviselőjének a hatáskörébe tartozik.
 
-(2)[^78] A kishatárforgalmi engedélyt a II. melléklet 2. pontja szerinti formában kell kiállítani.
+(2)[^79] A kishatárforgalmi engedélyt a II. melléklet 2. pontja szerinti formában kell kiállítani.
 
-[^76]: A 28/A. §-t megelőző alcímet a 327/2007. (XII. 11.) Korm. rendelet 5. §-a iktatta be.
-[^77]: A 28/A. §-t a 327/2007. (XII. 11.) Korm. rendelet 5. §-a iktatta be.
-[^78]: A 28/A. § (2) bekezdése a 96/2010. (III. 31.) Korm. rendelet 24. § e) pontja szerint módosított szöveg.
+[^77]: A 28/A. §-t megelőző alcímet a 327/2007. (XII. 11.) Korm. rendelet 5. §-a iktatta be.
+[^78]: A 28/A. §-t a 327/2007. (XII. 11.) Korm. rendelet 5. §-a iktatta be.
+[^79]: A 28/A. § (2) bekezdése a 96/2010. (III. 31.) Korm. rendelet 24. § e) pontja szerint módosított szöveg.

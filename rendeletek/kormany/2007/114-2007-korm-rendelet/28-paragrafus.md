@@ -1,3 +1,3 @@
-28. §[^75]
+28. §[^76]
 
-[^75]: A 27–28. §-t a 96/2010. (III. 31.) Korm. rendelet 25. §-a hatályon kívül helyezte.
+[^76]: A 27–28. §-t a 96/2010. (III. 31.) Korm. rendelet 25. §-a hatályon kívül helyezte.
