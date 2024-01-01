@@ -4,13 +4,9 @@ A Kormány a sportinfrastruktúra-fejlesztések megvalósításával összefügg
 
 2.[^2] a Beruházás előkészítése és megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 6 943 987 609 forintban határozza meg;
 
-3. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva, a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XLV. Kiemelt kormányzati magasépítési beruházások fejezet, 1. Egyedi magasépítési beruházások címet a 34. Kisvárdai Multifunkciós Sportcsarnok előkészítése és megvalósítása alcímmel egészíti ki;
+3.[^3]
 
-Felelős: pénzügyminiszter
-
-Határidő: azonnal
-
-4.[^3] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon a 2. pont szerinti összeg 2021. évi részének rendelkezésre állásáról a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XLVII. Gazdaságvédelmi Alap fejezet, 3. Gazdaságvédelmi Alap – Kiemelt Kormányzati Magasépítési Beruházások címen belül;
+4.[^4] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon a 2. pont szerinti összeg 2021. évi részének rendelkezésre állásáról a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XLVII. Gazdaságvédelmi Alap fejezet, 3. Gazdaságvédelmi Alap – Kiemelt Kormányzati Magasépítési Beruházások címen belül;
 
 Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
@@ -18,7 +14,7 @@ pénzügyminiszter
 
 Határidő: a felmerülés ütemében
 
-5.[^4] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy gondoskodjon a pénzügyminiszter bevonásával a kisvárdai multifunkciós sportcsarnok építéséről szóló 1832/2020. (XI. 20.) Korm. határozat módosításáról szóló 1044/2022. (II. 4.) Korm. határozattal módosított 2. pont szerinti összeg 2022. évre tervezett összeget meghaladó részének rendelkezésre állásáról a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 3. Gazdaság-újraindítási Alap – Kiemelt Kormányzati Magasépítési Beruházások cím, 1. Egyedi magasépítési beruházások alcím, 19. Kisvárdai Multifunkciós Sportcsarnok előkészítése és megvalósítása jogcímcsoport javára;
+5.[^5] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy gondoskodjon a pénzügyminiszter bevonásával a kisvárdai multifunkciós sportcsarnok építéséről szóló 1832/2020. (XI. 20.) Korm. határozat módosításáról szóló 1044/2022. (II. 4.) Korm. határozattal módosított 2. pont szerinti összeg 2022. évre tervezett összeget meghaladó részének rendelkezésre állásáról a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 3. Gazdaság-újraindítási Alap – Kiemelt Kormányzati Magasépítési Beruházások cím, 1. Egyedi magasépítési beruházások alcím, 19. Kisvárdai Multifunkciós Sportcsarnok előkészítése és megvalósítása jogcímcsoport javára;
 
 Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
@@ -26,7 +22,7 @@ pénzügyminiszter
 
 Határidő: a felmerülés ütemében
 
-5a.[^5] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy gondoskodjon a pénzügyminiszter bevonásával a 2. pont szerinti összeg 2023–2024. évi részének rendelkezésre állásáról az adott évi központi költségvetés kiemelt kormányzati magasépítési beruházásokat finanszírozó fejezetében;
+5a.[^6] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy gondoskodjon a pénzügyminiszter bevonásával a 2. pont szerinti összeg 2023–2024. évi részének rendelkezésre állásáról az adott évi központi költségvetés kiemelt kormányzati magasépítési beruházásokat finanszírozó fejezetében;
 
 Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
@@ -34,7 +30,7 @@ pénzügyminiszter
 
 Határidő: a 2023–2024. évi központi költségvetés tervezése során
 
-5b.[^6] felhívja az építési és beruházási minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon az egyes kivitelezés alatt álló beruházások megvalósításához szükséges többletforrások biztosításáról szóló 1492/2022. (X. 19.) Korm. határozattal módosított 2. pont szerinti összeg 2023. évre tervezett összeget meghaladó részének rendelkezésre állásáról a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 1. melléklet XLV. Kiemelt Kormányzati Magasépítési Beruházások fejezeten belül;
+5b.[^7] felhívja az építési és beruházási minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon az egyes kivitelezés alatt álló beruházások megvalósításához szükséges többletforrások biztosításáról szóló 1492/2022. (X. 19.) Korm. határozattal módosított 2. pont szerinti összeg 2023. évre tervezett összeget meghaladó részének rendelkezésre állásáról a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 1. melléklet XLV. Kiemelt Kormányzati Magasépítési Beruházások fejezeten belül;
 
 | Felelős: | építési és beruházási miniszter pénzügyminiszter |
 
@@ -52,12 +48,13 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: 2021. március 31.
 
-8.[^7]
+8.[^8]
 
 [^1]: Az 1. pont az 1044/2022. (II. 4.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
 [^2]: A 2. pont az 1492/2022. (X. 19.) Korm. határozat 32. pontja szerint módosított szöveg.
-[^3]: A 4. pont az 1044/2022. (II. 4.) Korm. határozat 3. pont c) alpontja szerint módosított szöveg.
-[^4]: Az 5. pont az 1044/2022. (II. 4.) Korm. határozat 1. pontjával megállapított szöveg.
-[^5]: Az 5a. pontot az 1044/2022. (II. 4.) Korm. határozat 2. pontja iktatta be.
-[^6]: Az 5b. pontot az 1492/2022. (X. 19.) Korm. határozat 31. pontja iktatta be.
-[^7]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 3. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^4]: A 4. pont az 1044/2022. (II. 4.) Korm. határozat 3. pont c) alpontja szerint módosított szöveg.
+[^5]: Az 5. pont az 1044/2022. (II. 4.) Korm. határozat 1. pontjával megállapított szöveg.
+[^6]: Az 5a. pontot az 1044/2022. (II. 4.) Korm. határozat 2. pontja iktatta be.
+[^7]: Az 5b. pontot az 1492/2022. (X. 19.) Korm. határozat 31. pontja iktatta be.
+[^8]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
