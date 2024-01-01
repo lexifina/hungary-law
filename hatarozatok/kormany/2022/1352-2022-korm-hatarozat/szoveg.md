@@ -400,15 +400,15 @@ d) a Miniszterelnöki Kormányiroda közigazgatási államtitkára,
 
 e) az államháztartásért felelős miniszter által kijelölt államtitkár vagy helyettes államtitkár,
 
-f) a gazdaságfejlesztési miniszter által kijelölt államtitkár vagy helyettes államtitkár,
+f)[^3] a nemzetgazdasági miniszter által kijelölt államtitkár vagy helyettes államtitkár,
 
 g) az igazoló hatóság vezetője,
 
 h) a Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság vezérigazgatója.
 
-i)[^3] a Digitális Magyarország Ügynökség Zártkörűen Működő Részvénytársaság vezérigazgatója vagy az általa delegált személy.
+i)[^4] a Digitális Magyarország Ügynökség Zártkörűen Működő Részvénytársaság vezérigazgatója vagy az általa delegált személy.
 
-j)[^4] a Helyreállítási és Ellenállóképességi Terv (a továbbiakban: HET) végrehajtásáért felelős nemzeti hatóság (a továbbiakban: nemzeti hatóság) vezetője.
+j)[^5] a Helyreállítási és Ellenállóképességi Terv (a továbbiakban: HET) végrehajtásáért felelős nemzeti hatóság (a továbbiakban: nemzeti hatóság) vezetője.
 
 (2) Az FKB tagját az FKB tagja által kijelölt vezető jogállású – döntéshozatalra és állásfoglalásra feljogosított – személy helyettesítheti.
 
@@ -446,15 +446,15 @@ b) az FKB titkárságának vezetője.
 
 a) javaslatot dolgoz ki, állást foglal a Kormány számára a hosszú és középtávú fejlesztési és tervezési feladatokról, az Európai Unió pénzügyi támogatásainak igénybevételéhez szükséges tervekről, a programokról, azok végrehajtásáról, a támogatások felhasználásához szükséges intézményrendszer kialakításáról, valamint az e témakörökben indokolt szabályozásról,
 
-b)[^5] összehangolja az európai uniós források – ideértve az európai uniós agrár- és vidékfejlesztési alapokat, valamint a Helyreállítási és Ellenállóképességi Eszközt is – eredményes felhasználásával kapcsolatos feladatokat, ennek érdekében tájékoztatást kér az operatív program és a HET intézkedéseinek, indikátorainak, mérföldköveinek előrehaladásáról, a kormányjelentések és az európai uniós jelentések tartalmáról,
+b)[^6] összehangolja az európai uniós források – ideértve az európai uniós agrár- és vidékfejlesztési alapokat, valamint a Helyreállítási és Ellenállóképességi Eszközt is – eredményes felhasználásával kapcsolatos feladatokat, ennek érdekében tájékoztatást kér az operatív program és a HET intézkedéseinek, indikátorainak, mérföldköveinek előrehaladásáról, a kormányjelentések és az európai uniós jelentések tartalmáról,
 
 c) megtárgyalja és véleményezi a Kormány döntését nem igénylő ágazati fejlesztési tervet, programot, stratégiát a fejlesztéspolitikával való összhang megteremtése és a központi koordináció biztosítása érdekében,
 
 d) megtárgyalja a Kormány döntését igénylő fejlesztéspolitikai tárgyú, illetve azzal összefüggő fejlesztési, tervezési és végrehajtási dokumentumokat, és döntési javaslatot tesz azokra,
 
-e)[^6] döntési javaslatot tesz az operatív program, az azzal és a HET-tel összefüggő stratégiai dokumentumok – így különösen az éves fejlesztési keret és a HET intézkedési lista –, valamint az irányító hatóság és a nemzeti hatóság munkatervének elfogadásáról és módosításáról szóló tervezetre vonatkozóan, ennek keretében véleményezi az éves fejlesztési keret, a HET intézkedési lista és a munkaterv intézkedéseivel elérni kívánt célokat, azok mérhető indikátorait, a lehetséges kedvezményezettek körét, a támogatás formáját, mértékét, a támogatható tevékenységet, a támogatni tervezett projektek számát és a támogatási értéket, valamint ezek éves ütemezését,
+e)[^7] döntési javaslatot tesz az operatív program, az azzal és a HET-tel összefüggő stratégiai dokumentumok – így különösen az éves fejlesztési keret és a HET intézkedési lista –, valamint az irányító hatóság és a nemzeti hatóság munkatervének elfogadásáról és módosításáról szóló tervezetre vonatkozóan, ennek keretében véleményezi az éves fejlesztési keret, a HET intézkedési lista és a munkaterv intézkedéseivel elérni kívánt célokat, azok mérhető indikátorait, a lehetséges kedvezményezettek körét, a támogatás formáját, mértékét, a támogatható tevékenységet, a támogatni tervezett projektek számát és a támogatási értéket, valamint ezek éves ütemezését,
 
-f)[^7] megtárgyalja a kiemelt projektről szóló előterjesztést, és – figyelemmel az érintett operatív program és a HET tartalmára, célrendszerére, továbbá a rendelkezésre álló források felhasználásának időbeli korlátaira – javaslatot tesz annak Kormány általi megtárgyalására,
+f)[^8] megtárgyalja a kiemelt projektről szóló előterjesztést, és – figyelemmel az érintett operatív program és a HET tartalmára, célrendszerére, továbbá a rendelkezésre álló források felhasználásának időbeli korlátaira – javaslatot tesz annak Kormány általi megtárgyalására,
 
 g) megtárgyalja a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet vonatkozásában a hárommilliárd forintot, a 2021–2027 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 256/2021. (V. 18.) Korm. rendelet vonatkozásában pedig az ötmilliárd forintot meghaladó támogatási igényű projektjavaslatokat – ideértve azt is, ha a projekt elszámolható összköltsége a költségnövekménnyel együtt a jelzett értékhatárt meghaladja –, és döntési javaslatot tesz azokra,
 
@@ -462,9 +462,9 @@ h) véleményezi a nagyprojektekre vonatkozóan az Európai Bizottság számára
 
 i) véleményezi a fejlesztéspolitikai szempontból kiemelt jelentőségű ügyeket, projekteket és a komplex programokat,
 
-j)[^8] az FKB elnöke döntése alapján véleményezi a projektkiválasztás elbírálási szempontjait az operatív programok vonatkozásában, az a) pontban meghatározottakon kívüli eljárásrendi szabályokról és utasításokról szóló dokumentumokat, és javaslatot tesz azokra,
+j)[^9] az FKB elnöke döntése alapján véleményezi a projektkiválasztás elbírálási szempontjait az operatív programok vonatkozásában, az a) pontban meghatározottakon kívüli eljárásrendi szabályokról és utasításokról szóló dokumentumokat, és javaslatot tesz azokra,
 
-k)[^9] nyomon követi az irányító hatóságok és a nemzeti hatóság munkatervének megvalósulását, azok végrehajtásáról tájékoztatást kérhet,
+k)[^10] nyomon követi az irányító hatóságok és a nemzeti hatóság munkatervének megvalósulását, azok végrehajtásáról tájékoztatást kérhet,
 
 l) részt vesz a fejlesztéspolitikai célok teljesülése érdekében a fejlesztéspolitikát érintő jogszabályok előkészítésében,
 
@@ -474,17 +474,17 @@ n) az európai uniós fejlesztési forrásokból megvalósuló fejlesztések ös
 
 o) véleményezi a közreműködő szervezetek kialakításának, kiválasztásának módszerét, feltételrendszerét, nyomon követi tevékenységüket, e szervezetektől rendszeresen beszámolót, tájékoztatót kérhet.
 
-p)[^10] megtárgyalja a HET-re vonatkozó hiteltámogatás felvételéről és a hitelfelvétel indokoltságát alátámasztó dokumentációról szóló előterjesztést,
+p)[^11] megtárgyalja a HET-re vonatkozó hiteltámogatás felvételéről és a hitelfelvétel indokoltságát alátámasztó dokumentációról szóló előterjesztést,
 
-q)[^11] biztosítja a HET, az egyéb közvetlen és közvetett, továbbá a megosztott irányítású európai uniós források kiegészítő jellegét, összhangját, következetességét a forrástervezés és a végrehajtás során,
+q)[^12] biztosítja a HET, az egyéb közvetlen és közvetett, továbbá a megosztott irányítású európai uniós források kiegészítő jellegét, összhangját, következetességét a forrástervezés és a végrehajtás során,
 
-r)[^12] figyelemmel kíséri a kettős finanszírozás elkerülését célzó intézkedéseket.
+r)[^13] figyelemmel kíséri a kettős finanszírozás elkerülését célzó intézkedéseket.
 
-55. (1)[^13] Az 54. pontban meghatározott tárgykörbe tartozó előterjesztés és jelentés a Gazdasági Kabinet napirendjére csak akkor vehető fel, ha azt az FKB előzetesen megtárgyalta, vagy azt az előterjesztő az FKB-val előzetesen egyeztette.
+55. (1)[^14] Az 54. pontban meghatározott tárgykörbe tartozó előterjesztés és jelentés a Gazdasági Kabinet napirendjére csak akkor vehető fel, ha azt az FKB előzetesen megtárgyalta, vagy azt az előterjesztő az FKB-val előzetesen egyeztette.
 
 (2) Az (1) bekezdésben foglaltaktól indokolt esetben és kizárólag akkor lehet eltérni, ha ahhoz a miniszterelnök, az európai uniós források felhasználásáért felelős miniszter vagy az FKB elnöke hozzájárul.
 
-56.[^14] Ha az FKB a feladatkörébe tartozó előterjesztést megvitatta, és a Gazdasági Kabinet általi megtárgyalásra javasolta, az előterjesztés közvetlenül benyújtható a Gazdasági Kabinet ülésére.
+56.[^15] Ha az FKB a feladatkörébe tartozó előterjesztést megvitatta, és a Gazdasági Kabinet általi megtárgyalásra javasolta, az előterjesztés közvetlenül benyújtható a Gazdasági Kabinet ülésére.
 
 16. A Nemzetbiztonsági Munkacsoport
 
@@ -582,7 +582,7 @@ IV. A KORMÁNYZATI DÖNTÉSHOZATAL ÁTALÁNOS HATÁSKÖRŰ POLITIKAI DÖNTÉSHOZ
 
 (2) A Kormány a feladat- és hatáskörét a miniszterelnök vezetésével, testületként gyakorolja.
 
-18/A.[^15] A Kormány ülésének előkészítése
+18/A.[^16] A Kormány ülésének előkészítése
 
 63/a. A Kormány ülésének előkészítésében közreműködik az Alkotmányossági Előkészítő Munkacsoport és a Kormányzati Költségvetési Előkészítő Munkacsoport.
 
@@ -678,7 +678,7 @@ b) az a) pont alá nem tartozó érintett minisztereket.
 
 64. A Kormány rendszeresen tart ülést.
 
-65. (1)[^16] Az előterjesztés vagy jelentés a kormányülés napirendjére – az FKB, a Honvédelmi és Rendészeti Munkacsoport, valamint a Nemzetbiztonsági Munkacsoport által tárgyalt előterjesztések és jelentések kivételével – akkor vehető fel, ha azt a Közigazgatási Államtitkári Értekezlet megtárgyalta. E szabály alkalmazása alól a Miniszterelnöki Kormányiroda közigazgatási államtitkára javaslatára a miniszterelnök és a Miniszterelnöki Kabinetirodát vezető miniszter kivételt tehet.
+65. (1)[^17] Az előterjesztés vagy jelentés a kormányülés napirendjére – az FKB, a Honvédelmi és Rendészeti Munkacsoport, valamint a Nemzetbiztonsági Munkacsoport által tárgyalt előterjesztések és jelentések kivételével – akkor vehető fel, ha azt a Közigazgatási Államtitkári Értekezlet megtárgyalta. E szabály alkalmazása alól a Miniszterelnöki Kormányiroda közigazgatási államtitkára javaslatára a miniszterelnök és a Miniszterelnöki Kabinetirodát vezető miniszter kivételt tehet.
 
 (2) Az ülés napirendjének javaslatát – a Közigazgatási Államtitkári Értekezlet a kabinet állásfoglalásainak figyelembevételével – a Miniszterelnöki Kormányiroda közigazgatási államtitkárának javaslatára a miniszterelnök hagyja jóvá, és a Miniszterelnöki Kormányiroda közigazgatási államtitkára küldi ki, legkésőbb az ülést megelőző második munkanapon, az ülés résztvevőinek.
 
@@ -754,9 +754,9 @@ d) elvi állásfoglalást fogad el.
 
 78. A Kormány döntései szövegének véglegesítéséről az ülés összefoglalója alapján a Miniszterelnöki Kormányiroda közigazgatási államtitkára gondoskodik, és felterjesztésében azt a miniszterelnök – akadályoztatása esetén a miniszterelnök helyettese – írja alá.
 
-78/a.[^17] A 77. pont alapján történő felterjesztéshez a Miniszterelnöki Kabinetirodát vezető miniszter jóváhagyása szükséges, melynek beszerzéséről a Miniszterelnöki Kormányiroda közigazgatási államtitkára gondoskodik.
+78/a.[^18] A 77. pont alapján történő felterjesztéshez a Miniszterelnöki Kabinetirodát vezető miniszter jóváhagyása szükséges, melynek beszerzéséről a Miniszterelnöki Kormányiroda közigazgatási államtitkára gondoskodik.
 
-79.[^18] Ha a Kormány az előterjesztett javaslatot érdemben megváltoztatta, a szükséges utóegyeztetéseket – a 78. és 78/a. pont szerinti eljárást megelőzően – a Kormány, ennek hiányában a Miniszterelnöki Kormányiroda közigazgatási államtitkára által kijelölt politikai felsővezető, közigazgatási államtitkár vagy helyettes államtitkár koordinálja.
+79.[^19] Ha a Kormány az előterjesztett javaslatot érdemben megváltoztatta, a szükséges utóegyeztetéseket – a 78. és 78/a. pont szerinti eljárást megelőzően – a Kormány, ennek hiányában a Miniszterelnöki Kormányiroda közigazgatási államtitkára által kijelölt politikai felsővezető, közigazgatási államtitkár vagy helyettes államtitkár koordinálja.
 
 80. A Kormány rendeleteit, határozatait, elvi állásfoglalásait és irányelveit az üléstől számított nyolc munkanapon belül kell kihirdetni (közzétenni), illetve az érdekeltek részére megküldeni, kivéve, ha a miniszterelnök más határidőt állapít meg.
 
@@ -828,7 +828,7 @@ V. A KORMÁNYZATI DÖNTÉSHOZATAL KÜLÖNÖS HATÁSKÖRŰ POLITIKAI DÖNTÉSHOZ�
 
 23. Különös hatáskörű politikai döntéshozó fórumok
 
-93.[^19] A kormányzati döntéshozatal különös hatáskörű politikai döntéshozó fóruma – a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 8. § (1) bekezdése alapján létrehozott és működtetett –
+93.[^20] A kormányzati döntéshozatal különös hatáskörű politikai döntéshozó fóruma – a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 8. § (1) bekezdése alapján létrehozott és működtetett –
 
 a) Stratégiai Kabinet,
 
@@ -840,25 +840,25 @@ d) Nemzetpolitikai Kabinet.
 
 94. A kabinet működésének célja a Kormány döntéseinek előkészítése, valamint döntés a Kormány hatáskörébe tartozó ügyekben.
 
-24.[^20] A Stratégiai Kabinet
+24.[^21] A Stratégiai Kabinet
 
-95.[^21] (1) A Stratégiai Kabinet elnöke a Miniszterelnökséget vezető miniszter.
+95.[^22] (1) A Stratégiai Kabinet elnöke a Miniszterelnökséget vezető miniszter.
 
 (2) A Stratégiai Kabinet elnökének jogkörét – az (1) bekezdésben foglaltaktól eltérően – az európai uniós ügyekért felelős miniszter gyakorolja a 99. pont (1) bekezdés 9–11. pontja szerinti felelősségi körbe tartozó ügyekben.
 
-96.[^22] (1) A Stratégiai Kabinet tagja – az elnökén kívül –
+96.[^23] (1) A Stratégiai Kabinet tagja – az elnökén kívül –
 
 a) a belügyminiszter,
 
 b) az európai uniós ügyekért felelős miniszter,
 
-c) a gazdaságfejlesztési miniszter,
+c)[^24] a nemzetgazdasági miniszter,
 
 d) a kultúráért és innovációért felelős miniszter,
 
 e) a Miniszterelnöki Kabinetirodát vezető miniszter,
 
-f) a területfejlesztési miniszter,
+f)[^25] a közigazgatási és területfejlesztési miniszter,
 
 g) a tárgyalt napirendi pont tekintetében az előterjesztő (jelentés esetén a benyújtó) miniszter vagy miniszterek és
 
@@ -866,7 +866,7 @@ h) a miniszterelnök politikai igazgatója.
 
 (2) A 95. pont (2) bekezdése szerinti esetben a Miniszterelnökséget vezető minisztert az (1) bekezdés szerinti tagokéval azonos jogok illetik meg a Stratégiai Kabinet ülésén.
 
-97.[^23] (1) A Stratégiai Kabinet ülésén állandó meghívottként részt vesz
+97.[^26] (1) A Stratégiai Kabinet ülésén állandó meghívottként részt vesz
 
 a) a Miniszterelnöki Kormányiroda közigazgatási államtitkára és
 
@@ -874,13 +874,13 @@ b) a kormányzati egyeztetések koordinálásáért, valamint az Országos Beruh
 
 (2) A Stratégiai Kabinet ülésén – a 96. pont (1) bekezdése szerinti minisztereken túl – bármely miniszter részt vehet a hozzászólás jogával, amennyiben a részvételi szándékát előzetesen jelzi a Stratégiai Kabinet elnökénél.
 
-97/A.[^24] A Stratégiai Kabinet – a Stratégiai Kabinet elnökének döntése alapján – félévente két alkalommal kép és hang közvetítésére alkalmas elektronikus eszköz útján is tarthat ülést.
+97/A.[^27] A Stratégiai Kabinet – a Stratégiai Kabinet elnökének döntése alapján – félévente két alkalommal kép és hang közvetítésére alkalmas elektronikus eszköz útján is tarthat ülést.
 
-98. (1)[^25] Ha a Stratégiai Kabinet döntésének előrelátható költségvetési hatásai szükségessé teszik, a pénzügyminiszter a Stratégiai Kabinet ülésétől számított öt munkanapon belül kifogással élhet a döntéssel szemben.
+98. (1)[^28] Ha a Stratégiai Kabinet döntésének előrelátható költségvetési hatásai szükségessé teszik, a pénzügyminiszter a Stratégiai Kabinet ülésétől számított öt munkanapon belül kifogással élhet a döntéssel szemben.
 
-(2)[^26] Az (1) bekezdés szerinti, határidőben tett kifogás esetén az előterjesztést a Kormány napirendjére tűzi. Kifogás hiányában a Stratégiai Kabinet döntése szerint kell eljárni.
+(2)[^29] Az (1) bekezdés szerinti, határidőben tett kifogás esetén az előterjesztést a Kormány napirendjére tűzi. Kifogás hiányában a Stratégiai Kabinet döntése szerint kell eljárni.
 
-99. (1)[^27] A Stratégiai Kabinet feladatai a Kormány vagy a miniszterelnök által meghatározott, így különösen
+99. (1)[^30] A Stratégiai Kabinet feladatai a Kormány vagy a miniszterelnök által meghatározott, így különösen
 
 1. az aktív Magyarországért,
 
@@ -896,7 +896,7 @@ b) a kormányzati egyeztetések koordinálásáért, valamint az Országos Beruh
 
 7. az egészségügyért,
 
-8. a Magyar Falu Program, valamint a Modern Városok Program működtetéséért,
+8.[^31] a Magyar Falu Program működtetéséért,
 
 9. az európai uniós ügyek koordinációjáért,
 
@@ -988,13 +988,13 @@ b) a kormányzati egyeztetések koordinálásáért, valamint az Országos Beruh
 
 való felelősségi körökbe tartozó előterjesztésekre és jelentésekre terjednek ki.
 
-(2)[^28] A Stratégiai Kabinet feladatai – az (1) bekezdésben foglaltakon túl – kiterjednek minden olyan előterjesztésre és jelentésre, amelynek napirendre felvételét a Stratégiai Kabinet ülését vezető miniszter kéri.
+(2)[^32] A Stratégiai Kabinet feladatai – az (1) bekezdésben foglaltakon túl – kiterjednek minden olyan előterjesztésre és jelentésre, amelynek napirendre felvételét a Stratégiai Kabinet ülését vezető miniszter kéri.
 
 25. A Gazdasági Kabinet
 
-100.[^29] A Gazdasági Kabinet elnöke a gazdaságfejlesztési miniszter.
+100.[^33] A Gazdasági Kabinet elnöke a nemzetgazdasági miniszter.
 
-101.[^30] A Gazdasági Kabinet tagja – az elnökén kívül –
+101.[^34] A Gazdasági Kabinet tagja – az elnökén kívül –
 
 a) az agrárminiszter,
 
@@ -1008,13 +1008,13 @@ e) a külgazdasági és külügyminiszter,
 
 f) a Miniszterelnöki Kabinetirodát vezető miniszter,
 
-g) a területfejlesztési miniszter,
+g)[^35] a közigazgatási és területfejlesztési miniszter,
 
 h) a tárgyalt napirendi pont tekintetében az előterjesztő (jelentés esetén a benyújtó) miniszter vagy miniszterek és
 
 i) a miniszterelnök politikai igazgatója.
 
-102.[^31] (1) A Gazdasági Kabinet ülésén állandó meghívottként részt vesz
+102.[^36] (1) A Gazdasági Kabinet ülésén állandó meghívottként részt vesz
 
 a) a Miniszterelnöki Kormányiroda közigazgatási államtitkára és
 
@@ -1024,7 +1024,7 @@ b) a kormányzati egyeztetések koordinálásáért, valamint az Országos Beruh
 
 (3) A Gazdasági Kabinet – a Gazdasági Kabinet elnökének döntése alapján – félévente két alkalommal kép és hang közvetítésére alkalmas elektronikus eszköz útján is tarthat ülést.
 
-103.[^32] (1) A Gazdasági Kabinet feladatai a Kormány vagy a miniszterelnök által meghatározott, így különösen
+103.[^37] (1) A Gazdasági Kabinet feladatai a Kormány vagy a miniszterelnök által meghatározott, így különösen
 
 1. az adópolitikáért,
 
@@ -1170,7 +1170,7 @@ c) az FKB feladat- és hatáskörébe tartozó előterjesztésre és jelentésre
 
 (3) A Gazdasági Kabinet feladatai – az (1) és (2) bekezdésben foglaltakon túl – kiterjednek minden olyan előterjesztésre és jelentésre, amely napirendre felvételét a Gazdasági Kabinet elnöke kéri.
 
-26.[^33]
+26.[^38]
 
 104.
 
@@ -1300,17 +1300,17 @@ való felelősségi körökbe tartozó előterjesztésekre és jelentésekre ter
 
 120. (1) A kabinet elnöke és – e határozat eltérő rendelkezésének a hiányában – tagja a kabinet ülésén személyesen köteles részt venni.
 
-(2)[^34]
+(2)[^39]
 
-(3)[^35]
+(3)[^40]
 
-(4)[^36] A Nemzetpolitikai Kabinet kivételével a kabinet tagja nem helyettesíthető. A Nemzetpolitikai Kabinet tagja a Nemzetpolitikai Kabinetet vezető kormánytag engedélyével helyettesíthető.
+(4)[^41] A Nemzetpolitikai Kabinet kivételével a kabinet tagja nem helyettesíthető. A Nemzetpolitikai Kabinet tagja a Nemzetpolitikai Kabinetet vezető kormánytag engedélyével helyettesíthető.
 
-(5)[^37]
+(5)[^42]
 
 (6) A Védelmi Tanács ülésén a külgazdasági és külügyminisztert – a 112. pont (2) bekezdése szerinti esetben személyes megjelenés hiányában is – az általa kijelölt államtitkár helyettesítheti.
 
-(7)[^38] A miniszterelnök politikai igazgatója tanácskozási joggal részt vesz a Nemzetpolitikai Kabinet munkájában. A miniszterelnök politikai igazgatója e kabinet ülésén helyettesíthető. A miniszterelnök politikai igazgatóját az általa kijelölt helyettes államtitkár helyettesítheti.
+(7)[^43] A miniszterelnök politikai igazgatója tanácskozási joggal részt vesz a Nemzetpolitikai Kabinet munkájában. A miniszterelnök politikai igazgatója e kabinet ülésén helyettesíthető. A miniszterelnök politikai igazgatóját az általa kijelölt helyettes államtitkár helyettesítheti.
 
 (8) A kabinet ülésére más személyt a kabinet elnöke hívhat meg.
 
@@ -1322,11 +1322,11 @@ való felelősségi körökbe tartozó előterjesztésekre és jelentésekre ter
 
 122. (1) Előterjesztés vagy jelentés a kabinet ülésének napirendjére akkor vehető fel, ha a Közigazgatási Államtitkári Értekezlet, illetve annak állandó vagy eseti munkabizottsága megtárgyalta, és napirendre tűzését javasolta. E szabály alkalmazása alól a Miniszterelnöki Kormányiroda közigazgatási államtitkára javaslatára a kabinet vezetője kivételt tehet.
 
-(2)[^39] A kabinet ülésének napirendi javaslatát a Közigazgatási Államtitkári Értekezlet, valamint annak állandó vagy eseti munkabizottsága állásfoglalásainak figyelembevételével a Miniszterelnöki Kormányiroda közigazgatási államtitkárának javaslatára
+(2)[^44] A kabinet ülésének napirendi javaslatát a Közigazgatási Államtitkári Értekezlet, valamint annak állandó vagy eseti munkabizottsága állásfoglalásainak figyelembevételével a Miniszterelnöki Kormányiroda közigazgatási államtitkárának javaslatára
 
 a) a Stratégiai Kabinet esetében a Miniszterelnökséget vezető miniszter, a 95. pont (2) bekezdése szerinti esetben az európai uniós ügyekért felelős miniszter,
 
-b) a Gazdasági Kabinet esetében a gazdaságfejlesztési miniszter,
+b)[^45] a Gazdasági Kabinet esetében a nemzetgazdasági miniszter,
 
 c) a Védelmi Tanács esetében a Védelmi Tanács elnöke, illetve annak akadályoztatása esetén a Védelmi Tanács titkára,
 
@@ -1368,7 +1368,7 @@ c) nem fogadja el az előterjesztést, nem veszi tudomásul a jelentést.
 
 126. A kabinet a feladatkörében javaslatot tesz kormányrendeletnek és kormányhatározatnak a 77. pontban foglaltak szerinti kiadására, valamint a Kormány nevében irányelvet vagy elvi állásfoglalást fogad el.
 
-126/a.[^40] A 125. pont a) alpontja és a 126. pont szerinti esetben a 78/a. pontban foglaltak szerint kell eljárni.
+126/a.[^46] A 125. pont a) alpontja és a 126. pont szerinti esetben a 78/a. pontban foglaltak szerint kell eljárni.
 
 127. A Védelmi Tanács
 
@@ -1382,11 +1382,11 @@ szóló napirendi pontok kapcsán véleményt alakít ki.
 
 128. A kabinet az általa megtárgyalt előterjesztés további közigazgatási egyeztetését rendelheti el.
 
-129.[^41] Ha a kabinet az előterjesztett javaslatot érdemben megváltoztatta, a szükséges utóegyeztetéseket
+129.[^47] Ha a kabinet az előterjesztett javaslatot érdemben megváltoztatta, a szükséges utóegyeztetéseket
 
 a) a Stratégiai Kabinet esetében a Miniszterelnökséget vezető miniszter által, a 95. pont (2) bekezdése szerinti esetben az európai uniós ügyekért felelős miniszter által kijelölt politikai felsővezető, közigazgatási államtitkár vagy helyettes államtitkár,
 
-b) a Gazdasági Kabinet esetében a gazdaságfejlesztési miniszter,
+b)[^48] a Gazdasági Kabinet esetében a nemzetgazdasági miniszter,
 
 c) a Védelmi Tanács esetében a nemzetbiztonsági főtanácsadó,
 
@@ -1396,11 +1396,11 @@ koordinálja.
 
 130. A kabinet döntéseit, annak véglegesítése előtt a kabinet vezetője a Miniszterelnöki Kormányiroda közigazgatási államtitkára útján – tájékoztatás céljából – minden kormánytag részére megküldi.
 
-131. (1)[^42] A kabinet döntései szövegének véglegesítéséről az ülés összefoglalója alapján a Miniszterelnöki Kormányiroda közigazgatási államtitkára gondoskodik, és azt
+131. (1)[^49] A kabinet döntései szövegének véglegesítéséről az ülés összefoglalója alapján a Miniszterelnöki Kormányiroda közigazgatási államtitkára gondoskodik, és azt
 
 a) a Stratégiai Kabinet esetében a Miniszterelnökséget vezető miniszter, a 95. pont (2) bekezdése szerinti esetben az európai uniós ügyekért felelős miniszter,
 
-b) a Gazdasági Kabinet esetében a gazdaságfejlesztési miniszter,
+b)[^50] a Gazdasági Kabinet esetében a nemzetgazdasági miniszter,
 
 c) a Védelmi Tanács esetében a nemzetbiztonsági főtanácsadó,
 
@@ -1430,48 +1430,56 @@ VI. ZÁRÓ RENDELKEZÉSEK
 
 136. Ez a határozat a közzétételét követő napon lép hatályba.
 
-137.[^43]
+137.[^51]
 
 [^1]: A 17. pont 1. bekezdése az 1340/2023. (VII. 31.) Korm. határozat 6. pontjával megállapított szöveg.
 [^2]: A 35. pont (2) bekezdése az 1529/2023. (XII. 5.) Korm. határozat 1. pontjával megállapított szöveg.
-[^3]: Az 51. pont (1) bekezdés i) pontját az 1390/2022. (VIII. 11.) Korm. határozat 1. pontja iktatta be.
-[^4]: Az 51. pont (1) bekezdés j) pontját az 1610/2022. (XII. 9.) Korm. határozat 1. pontja iktatta be.
-[^5]: Az 54. pont (2) bekezdés b) pontja az 1610/2022. (XII. 9.) Korm. határozat 2. pontjával megállapított szöveg.
-[^6]: Az 54. pont (2) bekezdés e) pontja az 1610/2022. (XII. 9.) Korm. határozat 3. pontjával megállapított szöveg.
-[^7]: Az 54. pont (2) bekezdés f) pontja az 1610/2022. (XII. 9.) Korm. határozat 3. pontjával megállapított szöveg.
-[^8]: Az 54. pont (2) bekezdés j) pontja az 1610/2022. (XII. 9.) Korm. határozat 5. pont a) alpontja szerint módosított szöveg.
-[^9]: Az 54. pont (2) bekezdés k) pontja az 1610/2022. (XII. 9.) Korm. határozat 5. pont b) alpontja szerint módosított szöveg.
-[^10]: Az 54. pont (2) bekezdés p) pontját az 1610/2022. (XII. 9.) Korm. határozat 4. pontja iktatta be.
-[^11]: Az 54. pont (2) bekezdés q) pontját az 1610/2022. (XII. 9.) Korm. határozat 4. pontja iktatta be.
-[^12]: Az 54. pont (2) bekezdés r) pontját az 1610/2022. (XII. 9.) Korm. határozat 4. pontja iktatta be.
-[^13]: Az 55. pont (1) bekezdése az 1529/2023. (XII. 5.) Korm. határozat 2. pontjával megállapított szöveg.
-[^14]: Az 56. pont az 1529/2023. (XII. 5.) Korm. határozat 3. pontjával megállapított szöveg.
-[^15]: A 18/A. alcímet (63/a-63/e. pontot) az 1529/2023. (XII. 5.) Korm. határozat 4. pontja iktatta be.
-[^16]: A 65. pont (1) bekezdése az 1529/2023. (XII. 5.) Korm. határozat 22. pont a) pontja szerint módosított szöveg.
-[^17]: A 78/a. pontot az 1529/2023. (XII. 5.) Korm. határozat 5. pontja iktatta be.
-[^18]: A 79. pont az 1529/2023. (XII. 5.) Korm. határozat 22. pont b) pontja szerint módosított szöveg.
-[^19]: A 93. pont az 1529/2023. (XII. 5.) Korm. határozat 6. pontjával megállapított szöveg.
-[^20]: A 24. alcím címe az 1529/2023. (XII. 5.) Korm. határozat 22. pont c) pontja szerint módosított szöveg.
-[^21]: A 95. pont az 1529/2023. (XII. 5.) Korm. határozat 7. pontjával megállapított szöveg.
-[^22]: A 96. pont az 1529/2023. (XII. 5.) Korm. határozat 8. pontjával megállapított szöveg.
-[^23]: A 97. pont az 1529/2023. (XII. 5.) Korm. határozat 9. pontjával megállapított szöveg.
-[^24]: A 97/A. pontot az 1529/2023. (XII. 5.) Korm. határozat 10. pontja iktatta be.
-[^25]: A 98. pont (1) bekezdése az 1529/2023. (XII. 5.) Korm. határozat 22. pont d) pontja szerint módosított szöveg.
-[^26]: A 98. pont (2) bekezdése az 1529/2023. (XII. 5.) Korm. határozat 22. pont c) pontja szerint módosított szöveg.
-[^27]: A 99. pont (1) bekezdése az 1340/2023. (VII. 31.) Korm. határozat 8. pontjával megállapított, az 1529/2023. (XII. 5.) Korm. határozat 22. pont c) pontja szerint módosított szöveg.
-[^28]: A 99. pont (2) bekezdése az 1529/2023. (XII. 5.) Korm. határozat 11. pontjával megállapított szöveg.
-[^29]: A 100. pont az 1529/2023. (XII. 5.) Korm. határozat 12. pontjával megállapított szöveg.
-[^30]: A 101. pont az 1529/2023. (XII. 5.) Korm. határozat 13. pontjával megállapított szöveg.
-[^31]: A 102. pont az 1529/2023. (XII. 5.) Korm. határozat 14. pontjával megállapított szöveg.
-[^32]: A 103. pont az 1529/2023. (XII. 5.) Korm. határozat 15. pontjával megállapított szöveg.
-[^33]: A 26. alcímet (104-107. pontot) az 1529/2023. (XII. 5.) Korm. határozat 23. pont b) alpontja visszavonta.
-[^34]: A 120. pont (2) bekezdését az 1529/2023. (XII. 5.) Korm. határozat 23. pont a) alpontja visszavonta.
-[^35]: A 120. pont (3) bekezdését az 1529/2023. (XII. 5.) Korm. határozat 23. pont a) alpontja visszavonta.
-[^36]: A 120. pont (4) bekezdése az 1529/2023. (XII. 5.) Korm. határozat 16. pontjával megállapított szöveg.
-[^37]: A 120. pont (5) bekezdését az 1529/2023. (XII. 5.) Korm. határozat 23. pont a) alpontja visszavonta.
-[^38]: A 120. pont (7) bekezdése az 1529/2023. (XII. 5.) Korm. határozat 17. pontjával megállapított szöveg.
-[^39]: A 122. pont (2) bekezdése az 1529/2023. (XII. 5.) Korm. határozat 18. pontjával megállapított szöveg.
-[^40]: A 126/a. pontot az 1529/2023. (XII. 5.) Korm. határozat 19. pontja iktatta be.
-[^41]: A 129. pont az 1529/2023. (XII. 5.) Korm. határozat 20. pontjával megállapított szöveg.
-[^42]: A 131. pont (1) bekezdése az 1529/2023. (XII. 5.) Korm. határozat 21. pontjával megállapított szöveg.
-[^43]: A 137. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 51. pont (1) bekezdés f) pontja az 1597/2023. (XII. 22.) Korm. határozat 8. pont a) alpontja szerint módosított szöveg.
+[^4]: Az 51. pont (1) bekezdés i) pontját az 1390/2022. (VIII. 11.) Korm. határozat 1. pontja iktatta be.
+[^5]: Az 51. pont (1) bekezdés j) pontját az 1610/2022. (XII. 9.) Korm. határozat 1. pontja iktatta be.
+[^6]: Az 54. pont (2) bekezdés b) pontja az 1610/2022. (XII. 9.) Korm. határozat 2. pontjával megállapított szöveg.
+[^7]: Az 54. pont (2) bekezdés e) pontja az 1610/2022. (XII. 9.) Korm. határozat 3. pontjával megállapított szöveg.
+[^8]: Az 54. pont (2) bekezdés f) pontja az 1610/2022. (XII. 9.) Korm. határozat 3. pontjával megállapított szöveg.
+[^9]: Az 54. pont (2) bekezdés j) pontja az 1610/2022. (XII. 9.) Korm. határozat 5. pont a) alpontja szerint módosított szöveg.
+[^10]: Az 54. pont (2) bekezdés k) pontja az 1610/2022. (XII. 9.) Korm. határozat 5. pont b) alpontja szerint módosított szöveg.
+[^11]: Az 54. pont (2) bekezdés p) pontját az 1610/2022. (XII. 9.) Korm. határozat 4. pontja iktatta be.
+[^12]: Az 54. pont (2) bekezdés q) pontját az 1610/2022. (XII. 9.) Korm. határozat 4. pontja iktatta be.
+[^13]: Az 54. pont (2) bekezdés r) pontját az 1610/2022. (XII. 9.) Korm. határozat 4. pontja iktatta be.
+[^14]: Az 55. pont (1) bekezdése az 1529/2023. (XII. 5.) Korm. határozat 2. pontjával megállapított szöveg.
+[^15]: Az 56. pont az 1529/2023. (XII. 5.) Korm. határozat 3. pontjával megállapított szöveg.
+[^16]: A 18/A. alcímet (63/a-63/e. pontot) az 1529/2023. (XII. 5.) Korm. határozat 4. pontja iktatta be.
+[^17]: A 65. pont (1) bekezdése az 1529/2023. (XII. 5.) Korm. határozat 22. pont a) pontja szerint módosított szöveg.
+[^18]: A 78/a. pontot az 1529/2023. (XII. 5.) Korm. határozat 5. pontja iktatta be.
+[^19]: A 79. pont az 1529/2023. (XII. 5.) Korm. határozat 22. pont b) pontja szerint módosított szöveg.
+[^20]: A 93. pont az 1529/2023. (XII. 5.) Korm. határozat 6. pontjával megállapított szöveg.
+[^21]: A 24. alcím címe az 1529/2023. (XII. 5.) Korm. határozat 22. pont c) pontja szerint módosított szöveg.
+[^22]: A 95. pont az 1529/2023. (XII. 5.) Korm. határozat 7. pontjával megállapított szöveg.
+[^23]: A 96. pont az 1529/2023. (XII. 5.) Korm. határozat 8. pontjával megállapított szöveg.
+[^24]: A 96. pont (1) bekezdés c) pontja az 1597/2023. (XII. 22.) Korm. határozat 8. pont a) alpontja szerint módosított szöveg.
+[^25]: A 96. pont (1) bekezdés f) pontja az 1597/2023. (XII. 22.) Korm. határozat 8. pont b) alpontja szerint módosított szöveg.
+[^26]: A 97. pont az 1529/2023. (XII. 5.) Korm. határozat 9. pontjával megállapított szöveg.
+[^27]: A 97/A. pontot az 1529/2023. (XII. 5.) Korm. határozat 10. pontja iktatta be.
+[^28]: A 98. pont (1) bekezdése az 1529/2023. (XII. 5.) Korm. határozat 22. pont d) pontja szerint módosított szöveg.
+[^29]: A 98. pont (2) bekezdése az 1529/2023. (XII. 5.) Korm. határozat 22. pont c) pontja szerint módosított szöveg.
+[^30]: A 99. pont (1) bekezdése az 1340/2023. (VII. 31.) Korm. határozat 8. pontjával megállapított, az 1529/2023. (XII. 5.) Korm. határozat 22. pont c) pontja szerint módosított szöveg.
+[^31]: A 99. pont (1) bekezdés 8. pontja az 1597/2023. (XII. 22.) Korm. határozat 8. pont c) alpontja szerint módosított szöveg.
+[^32]: A 99. pont (2) bekezdése az 1529/2023. (XII. 5.) Korm. határozat 11. pontjával megállapított szöveg.
+[^33]: A 100. pont az 1529/2023. (XII. 5.) Korm. határozat 12. pontjával megállapított, az 1597/2023. (XII. 22.) Korm. határozat 8. pont a) pontja szerint módosított szöveg.
+[^34]: A 101. pont az 1529/2023. (XII. 5.) Korm. határozat 13. pontjával megállapított szöveg.
+[^35]: A 101. pont g) pontja az 1597/2023. (XII. 22.) Korm. határozat 8. pont b) alpontja szerint módosított szöveg.
+[^36]: A 102. pont az 1529/2023. (XII. 5.) Korm. határozat 14. pontjával megállapított szöveg.
+[^37]: A 103. pont az 1529/2023. (XII. 5.) Korm. határozat 15. pontjával megállapított szöveg.
+[^38]: A 26. alcímet (104-107. pontot) az 1529/2023. (XII. 5.) Korm. határozat 23. pont b) alpontja visszavonta.
+[^39]: A 120. pont (2) bekezdését az 1529/2023. (XII. 5.) Korm. határozat 23. pont a) alpontja visszavonta.
+[^40]: A 120. pont (3) bekezdését az 1529/2023. (XII. 5.) Korm. határozat 23. pont a) alpontja visszavonta.
+[^41]: A 120. pont (4) bekezdése az 1529/2023. (XII. 5.) Korm. határozat 16. pontjával megállapított szöveg.
+[^42]: A 120. pont (5) bekezdését az 1529/2023. (XII. 5.) Korm. határozat 23. pont a) alpontja visszavonta.
+[^43]: A 120. pont (7) bekezdése az 1529/2023. (XII. 5.) Korm. határozat 17. pontjával megállapított szöveg.
+[^44]: A 122. pont (2) bekezdése az 1529/2023. (XII. 5.) Korm. határozat 18. pontjával megállapított szöveg.
+[^45]: A 122. pont (2) bekezdés b) pontja az 1597/2023. (XII. 22.) Korm. határozat 8. pont a) alpontja szerint módosított szöveg.
+[^46]: A 126/a. pontot az 1529/2023. (XII. 5.) Korm. határozat 19. pontja iktatta be.
+[^47]: A 129. pont az 1529/2023. (XII. 5.) Korm. határozat 20. pontjával megállapított szöveg.
+[^48]: A 129. pont b) pontja az 1597/2023. (XII. 22.) Korm. határozat 8. pont a) alpontja szerint módosított szöveg.
+[^49]: A 131. pont (1) bekezdése az 1529/2023. (XII. 5.) Korm. határozat 21. pontjával megállapított szöveg.
+[^50]: A 131. pont (1) bekezdés b) pontja az 1597/2023. (XII. 22.) Korm. határozat 8. pont a) alpontja szerint módosított szöveg.
+[^51]: A 137. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
