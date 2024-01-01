@@ -16,11 +16,7 @@ b) az utánpótlás-nevelés fontosságát és társadalmi értékét szem előt
 
 6. a Beruházásnak az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet 4. § a), c), f), g), l) és m) pontja szerinti előkészítési fázisai 2021. január 20. napjáig történő megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 161 290 000 forintban határozza meg;
 
-7. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: 2020. évi Kvtv.) 1. melléklet XLV. Kiemelt kormányzati magasépítési beruházások fejezet, 1. Egyedi magasépítési beruházások címnek a 20. Kovács Katalin Nemzeti Kajak-Kenu Sportakadémia előkészítése és megvalósítása alcímmel történő kiegészítését;
-
-Felelős: pénzügyminiszter
-
-Határidő: azonnal
+7.[^3]
 
 8. felhívja a pénzügyminisztert, hogy gondoskodjon a 6. pont szerinti összeg 2020. évi részének finanszírozása érdekében 68 580 000 forint rendelkezésre állásáról a 2020. évi Kvtv. 1. melléklet XLV. Kiemelt kormányzati magasépítési beruházások fejezet, 1. Egyedi magasépítési beruházások cím, 20. Kovács Katalin Nemzeti Kajak-Kenu Sportakadémia előkészítése és megvalósítása alcím javára;
 
@@ -78,9 +74,9 @@ emberi erőforrások minisztere
 
 Határidő: a feltételes közbeszerzési eljárást követő 60 napon belül
 
-16.[^3] az állami vagyonról szóló 2007. évi CVI. törvény 24. § (2) bekezdés e) pontja alapján úgy határoz, hogy az Ingatlanok, illetve az azokból telekalakítással létrejövő sportingatlanok versenyeztetés mellőzésével, határozatlan időre az Alapítvány használatába adja, azok sport céljára történő megőrzése, a sportról szóló 2004. évi I. törvény 49. § r) pontjában és 52. § b) pontjában meghatározott közfeladatok megvalósítása, valamint a helyi közösség és a Velencei-tó környezetében található települések számára történő sportcélú hasznosítása mint társadalompolitikai és egyéb szempontok szerinti közérdekű célok ellátásának elősegítése érdekében;
+16.[^4] az állami vagyonról szóló 2007. évi CVI. törvény 24. § (2) bekezdés e) pontja alapján úgy határoz, hogy az Ingatlanok, illetve az azokból telekalakítással létrejövő sportingatlanok versenyeztetés mellőzésével, határozatlan időre az Alapítvány használatába adja, azok sport céljára történő megőrzése, a sportról szóló 2004. évi I. törvény 49. § r) pontjában és 52. § b) pontjában meghatározott közfeladatok megvalósítása, valamint a helyi közösség és a Velencei-tó környezetében található települések számára történő sportcélú hasznosítása mint társadalompolitikai és egyéb szempontok szerinti közérdekű célok ellátásának elősegítése érdekében;
 
-17.[^4] felhívja a honvédelmi minisztert, hogy az Ügynökség útján tegye meg a szükséges intézkedéseket az Ingatlanok, illetve az azokból telekalakítással létrejövő ingatlanok használatba adására vonatkozó megállapodás Alapítvánnyal történő megkötése érdekében.
+17.[^5] felhívja a honvédelmi minisztert, hogy az Ügynökség útján tegye meg a szükséges intézkedéseket az Ingatlanok, illetve az azokból telekalakítással létrejövő ingatlanok használatba adására vonatkozó megállapodás Alapítvánnyal történő megkötése érdekében.
 
 | Felelős: | honvédelmi miniszter |
 
@@ -88,5 +84,6 @@ Határidő: a feltételes közbeszerzési eljárást követő 60 napon belül
 
 [^1]: A 2. pont az 1617/2023. (XII. 29.) Korm. határozat 3. pontja szerint módosított szöveg.
 [^2]: Az 5. pont az 1617/2023. (XII. 29.) Korm. határozat 1. pontjával megállapított szöveg.
-[^3]: A 16. pont az 1617/2023. (XII. 29.) Korm. határozat 2. pontjával megállapított szöveg.
-[^4]: A 17. pontot az 1617/2023. (XII. 29.) Korm. határozat 2. pontja iktatta be.
+[^3]: A 7. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^4]: A 16. pont az 1617/2023. (XII. 29.) Korm. határozat 2. pontjával megállapított szöveg.
+[^5]: A 17. pontot az 1617/2023. (XII. 29.) Korm. határozat 2. pontja iktatta be.

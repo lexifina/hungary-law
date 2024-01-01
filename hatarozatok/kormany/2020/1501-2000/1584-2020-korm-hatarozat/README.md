@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1584-30
 | 2020-09-12 | 2020-1584-30-22.2 | 2010: CXXX. törvény |
 | 2021-09-28 | 2020-1584-30-22.3 | 1671/2021. (IX. 28.) Korm. határozat |
 | 2023-12-29 | 2020-1584-30-22.4 | 1617/2023. (XII. 29.) Korm. határozat |
+| 2024-01-01 | 2020-1584-30-22.5 | 2011: CXCV. törvény |
