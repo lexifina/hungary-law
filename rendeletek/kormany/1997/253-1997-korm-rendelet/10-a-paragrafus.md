@@ -1,8 +1,8 @@
-10/A. §[^48] (1) A Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény (a továbbiakban: Trtv.) 1/1. melléklet 2–81. pontjában meghatározott településeken (a továbbiakban: Agglomerációs település) – a Trtv.-ben meghatározott követelmények teljesítése mellett – új lakóterület csak akkor jelölhető ki, ha a meglévő lakóterületek beépítettségének vizsgálatát követően megállapítható, hogy a lakóterületi fejlesztési igényt a település csak új lakóterület kijelölésével tudja biztosítani.
+10/A. §[^50] (1) A Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény (a továbbiakban: Trtv.) 1/1. melléklet 2–81. pontjában meghatározott településeken (a továbbiakban: Agglomerációs település) – a Trtv.-ben meghatározott követelmények teljesítése mellett – új lakóterület csak akkor jelölhető ki, ha a meglévő lakóterületek beépítettségének vizsgálatát követően megállapítható, hogy a lakóterületi fejlesztési igényt a település csak új lakóterület kijelölésével tudja biztosítani.
 
-(2)[^49] Az Agglomerációs településen az új lakóterület kijelölésével összefüggésben, a településtervben és a sajátos jogintézmények alkalmazásával biztosítani kell
+(2)[^51] Az Agglomerációs településen az új lakóterület kijelölésével összefüggésben, a településtervben és a sajátos jogintézmények alkalmazásával biztosítani kell
 
-a)[^50] a lakóterületen a villamosenergia-ellátás és a víziközmű-ellátás, a közúthálózat vonatkozásában a szilárd burkolatú közutak, gépjármű-várakozóhelyek, gyalogjárdák, továbbá a közvilágítás, a csapadékvíz-elvezető rendszer és a hulladékgazdálkodási közszolgáltatási résztevékenység, a lakóterület beépítésével egy időben történő megvalósulását;
+a)[^52] a lakóterületen a villamosenergia-ellátás és a víziközmű-ellátás, a közúthálózat vonatkozásában a szilárd burkolatú közutak, gépjármű-várakozóhelyek, gyalogjárdák, továbbá a közvilágítás, a csapadékvíz-elvezető rendszer és a hulladékgazdálkodási közszolgáltatási résztevékenység, a lakóterület beépítésével egy időben történő megvalósulását;
 
 b) az óvodai, általános iskolai és egészségügyi alapellátásban, a lakosságszám növekedéséből származó kapacitásigény kiszolgálását
 
@@ -14,6 +14,6 @@ c) a fővárossal való kapcsolatát biztosító úthálózati elemek, különö
 
 d) a lakóterület területhatárán belül legalább egy játszóteret és pihenést, rekreációt szolgáló zöldterületet.
 
-[^48]: A 10/A. §-t a 269/2019. (XI. 19.) Korm. rendelet 1. §-a iktatta be.
-[^49]: A 10/A. § (2) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^50]: A 10/A. § (2) bekezdés a) pontja a 675/2023. (XII. 29.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^50]: A 10/A. §-t a 269/2019. (XI. 19.) Korm. rendelet 1. §-a iktatta be.
+[^51]: A 10/A. § (2) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^52]: A 10/A. § (2) bekezdés a) pontja a 675/2023. (XII. 29.) Korm. rendelet 1. §-a szerint módosított szöveg.

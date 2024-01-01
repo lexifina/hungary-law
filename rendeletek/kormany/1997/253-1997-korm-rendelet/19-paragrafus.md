@@ -1,6 +1,6 @@
-## Kereskedelmi, szolgáltató gazdasági terület[^82]
+## Kereskedelmi, szolgáltató gazdasági terület[^85]
 
-19. §[^83] (1) A kereskedelmi, szolgáltató gazdasági terület a környezetre jelentős kedvezőtlen hatást nem gyakorló, jellemzően kereskedelmi, szolgáltató célú és raktárépületek elhelyezésére szolgál.
+19. §[^86] (1) A kereskedelmi, szolgáltató gazdasági terület a környezetre jelentős kedvezőtlen hatást nem gyakorló, jellemzően kereskedelmi, szolgáltató célú és raktárépületek elhelyezésére szolgál.
 
 (2) A kereskedelmi, szolgáltató gazdasági területen elhelyezhető épület az (1) bekezdésben foglaltakon kívül
 
@@ -16,5 +16,5 @@ rendeltetést is tartalmazhat.
 
 (3) Egy telken csak a gazdasági tevékenységi célú épületen belül, és kizárólag egy szolgálati és egy tulajdonosi lakás alakítható ki, a helyi építési szabályzatban meghatározott módon.
 
-[^82]: A 19. §-t megelőző alcím cím a 420/2021. (VII. 15.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^83]: A 19. § a 420/2021. (VII. 15.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^85]: A 19. §-t megelőző alcím cím a 420/2021. (VII. 15.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^86]: A 19. § a 420/2021. (VII. 15.) Korm. rendelet 13. §-ával megállapított szöveg.

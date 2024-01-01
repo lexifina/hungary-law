@@ -1,4 +1,4 @@
-## Egyéb ipari gazdasági terület[^85]
+## Egyéb ipari gazdasági terület[^88]
 
 20. § (1) Az egyéb ipari gazdasági terület elsősorban olyan gazdasági célú ipari, energiaszolgáltatási, településgazdálkodási építmények és raktárak elhelyezésére szolgál, amelyek más beépítésre szánt területen nem helyezhetők el, és nem tartoznak a 19/A. § (1) bekezdése szerinti tevékenységi körbe.
 
@@ -14,4 +14,4 @@ rendeltetést is tartalmazhat.
 
 (3) Az egyéb ipari gazdasági területen önálló lakóépület nem helyezhető el. Egy telken csak a gazdasági tevékenységi célú épületen belül, és kizárólag egy szolgálati lakás alakítható ki, a helyi építési szabályzatban meghatározott módon.
 
-[^85]: Az „Egyéb ipari gazdasági terület” alcím (20. §) a 420/2021. (VII. 15.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^88]: Az „Egyéb ipari gazdasági terület” alcím (20. §) a 420/2021. (VII. 15.) Korm. rendelet 15. §-ával megállapított szöveg.

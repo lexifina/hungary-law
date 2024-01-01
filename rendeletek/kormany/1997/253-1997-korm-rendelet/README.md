@@ -45,3 +45,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-253-20-
 | 2023-07-01 | 1997-253-20-22.58 | 253/2023. (VI. 23.) Korm. rendelet |
 | 2023-08-11 | 1997-253-20-22.59 | 378/2023. (VIII. 10.) Korm. rendelet |
 | 2023-12-31 | 1997-253-20-22.61 | 675/2023. (XII. 29.) Korm. rendelet |
+| 2024-01-01 | 1997-253-20-22.60 | 674/2023. (XII. 29.) Korm. rendelet |

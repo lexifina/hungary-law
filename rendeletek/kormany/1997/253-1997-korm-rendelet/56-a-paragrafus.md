@@ -1,6 +1,6 @@
-## Vagyonvédelem[^283]
+## Vagyonvédelem[^288]
 
-56/A. §[^284] (1) Az építményre vonatkozó – a rendeltetésszerűen elhelyezett (tárolt) vagyontárgyak értékét és fontosságát figyelembe vevő – vagyonbiztonsági elvárások mértékét a tervezési programban kell meghatározni.
+56/A. §[^289] (1) Az építményre vonatkozó – a rendeltetésszerűen elhelyezett (tárolt) vagyontárgyak értékét és fontosságát figyelembe vevő – vagyonbiztonsági elvárások mértékét a tervezési programban kell meghatározni.
 
 (2) Az építményt és annak részeit úgy kell tervezni, megvalósítani és fenntartani, hogy az ott rendeltetésszerűen elhelyezett (tárolt) vagyontárgyak a tervezési programban meghatározott módon biztonságban legyenek.
 
@@ -8,5 +8,5 @@
 
 (4) Az építmény egyes részeire, helyiségeire vonatkozó vagyonbiztonság mértéke az építmény egészére meghatározott vagyonbiztonság mértékétől eltérő lehet.
 
-[^283]: Az 56/A. §-t megelőző alcímet a 211/2012. (VII. 30.) Korm. rendelet 7. §-a iktatta be.
-[^284]: Az 56/A. §-t a 211/2012. (VII. 30.) Korm. rendelet 7. §-a iktatta be.
+[^288]: Az 56/A. §-t megelőző alcímet a 211/2012. (VII. 30.) Korm. rendelet 7. §-a iktatta be.
+[^289]: Az 56/A. §-t a 211/2012. (VII. 30.) Korm. rendelet 7. §-a iktatta be.

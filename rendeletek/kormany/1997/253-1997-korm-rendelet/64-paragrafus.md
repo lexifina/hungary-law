@@ -1,6 +1,6 @@
-## Lépcső, rámpa, lejtő, pihenő[^314]
+## Lépcső, rámpa, lejtő, pihenő[^319]
 
-64. §[^315] (1) A lépcsőt, rámpát és lejtőt úgy kell tervezni és megvalósítani, hogy az tegye lehetővé a használók biztonságos közlekedését.
+64. §[^320] (1) A lépcsőt, rámpát és lejtőt úgy kell tervezni és megvalósítani, hogy az tegye lehetővé a használók biztonságos közlekedését.
 
 (2) A lépcső lépcsőfokok és lépcsőpihenők sorozata, amely lehetővé teszi az eltérő szintek gyalogos megközelítését. A lépcsőkar a pihenők (szintek) közötti lépcsőszakasz. A lépcsőkaron belül csak azonos magasságú lépcsőfok lehet. A lépcsőkar legfeljebb 20 fellépést tartalmazhat.
 
@@ -14,5 +14,5 @@
 
 (7) A lépcsőkar és a lépcsőpihenő feletti szabad belmagasságnak legalább 2,20 m-nek kell lennie. Egy lakáson vagy üdülőegységen belüli, továbbá az időszakos használatú építményszintre vezető lépcső feletti legkisebb szabad belmagasság indokolt esetben 2,00 m lehet. A lépcsőkar feletti szabad belmagasságot a lépcső járóvonalán, a lépcsőfokok élére illesztett érintő vonaltól függőlegesen kell mérni.
 
-[^314]: A 64. §-t megelőző alcím a 211/2012. (VII. 30.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^315]: A 64. § a 211/2012. (VII. 30.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^319]: A 64. §-t megelőző alcím a 211/2012. (VII. 30.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^320]: A 64. § a 211/2012. (VII. 30.) Korm. rendelet 13. §-ával megállapított szöveg.

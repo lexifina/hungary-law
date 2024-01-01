@@ -1,6 +1,6 @@
 ## Vízgazdálkodási terület
 
-30. §[^147] (1) A vízgazdálkodási terület a vizek hasznosítását, megőrzését, ökológiai rendszerének védelmét, továbbá a lakossági rekreációt egymással összehangoltan szolgáló terület. Vízgazdálkodási terület
+30. §[^150] (1) A vízgazdálkodási terület a vizek hasznosítását, megőrzését, ökológiai rendszerének védelmét, továbbá a lakossági rekreációt egymással összehangoltan szolgáló terület. Vízgazdálkodási terület
 
 a) a folyóvizek medre,
 
@@ -28,4 +28,4 @@ a) az elsődleges levezetősávban épület, terepszint fölé emelkedő építm
 
 b) a másodlagos és az átmeneti levezetősávban, továbbá az áramlási holttérben építési tevékenység és építmény elhelyezése a nagyvízi meder, a parti sáv, a vízjárta és a fakadó vizek által veszélyeztetett területek használatáról, hasznosításáról, valamint a folyók esetében a nagyvízi mederkezelési terv készítésének rendjére és tartalmára vonatkozó szabályokról szóló kormányrendeletben foglaltakkal összhangban történhet.
 
-[^147]: A 30. § a 420/2021. (VII. 15.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^150]: A 30. § a 420/2021. (VII. 15.) Korm. rendelet 25. §-ával megállapított szöveg.

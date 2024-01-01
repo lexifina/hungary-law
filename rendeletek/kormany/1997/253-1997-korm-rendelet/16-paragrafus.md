@@ -1,12 +1,12 @@
-## Településközponti vegyes terület[^70]
+## Településközponti vegyes terület[^73]
 
-16. §[^71] (1)[^72] A településközponti vegyes terület – a településszerkezet központi vagy alközponti funkciójának ellátása érdekében – a település működését biztosító, a lakórendeltetést nem zavaró, jellemzően vegyes rendeltetésű épületek elhelyezésére szolgál.
+16. §[^74] (1)[^75] A településközponti vegyes terület – a településszerkezet központi vagy alközponti funkciójának ellátása érdekében – a település működését biztosító, a lakórendeltetést nem zavaró, jellemzően vegyes rendeltetésű épületek elhelyezésére szolgál.
 
 (2) A településközpont területen elhelyezhető épület – a lakó rendeltetésen kívül – :
 
 a) igazgatási, iroda,
 
-b)[^73] kereskedelmi, szolgáltató, szállásjellegű, munkásszállás,
+b)[^76] kereskedelmi, szolgáltató, szállásjellegű, munkásszállás,
 
 c) a terület azon részén, amelyben a gazdasági célú használat az elsődleges egyéb közösségi szórakoztató,
 
@@ -18,10 +18,10 @@ f) sport
 
 rendeltetést is tartalmazhat.
 
-(3)[^74] A településközponti vegyes területen lakóépület és lakás a helyi építési szabályzatban meghatározott számban és módon helyezhető el.
+(3)[^77] A településközponti vegyes területen lakóépület és lakás a helyi építési szabályzatban meghatározott számban és módon helyezhető el.
 
-[^70]: A 16. §-t megelőző alcím a 90/2012. (IV. 26.) Korm. rendelet 11. §-ával megállapított, a 420/2021. (VII. 15.) Korm. rendelet 38. § 15. pontja szerint módosított szöveg.
-[^71]: A 16. § a 90/2012. (IV. 26.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^72]: A 16. § (1) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^73]: A 16. § (2) bekezdés b) pontja a 420/2021. (VII. 15.) Korm. rendelet 38. § 16. pontja szerint módosított szöveg.
-[^74]: A 16. § (3) bekezdését a 420/2021. (VII. 15.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^73]: A 16. §-t megelőző alcím a 90/2012. (IV. 26.) Korm. rendelet 11. §-ával megállapított, a 420/2021. (VII. 15.) Korm. rendelet 38. § 15. pontja szerint módosított szöveg.
+[^74]: A 16. § a 90/2012. (IV. 26.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^75]: A 16. § (1) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^76]: A 16. § (2) bekezdés b) pontja a 420/2021. (VII. 15.) Korm. rendelet 38. § 16. pontja szerint módosított szöveg.
+[^77]: A 16. § (3) bekezdését a 420/2021. (VII. 15.) Korm. rendelet 11. § (2) bekezdése iktatta be.

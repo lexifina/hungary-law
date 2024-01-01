@@ -1,4 +1,4 @@
-1. számú melléklet a 253/1997. (XII. 20.) Korm. rendelethez[^495]
+1. számú melléklet a 253/1997. (XII. 20.) Korm. rendelethez[^504]
 
 Fogalommeghatározások
 
@@ -6,7 +6,7 @@ Fogalommeghatározások
 
 2. Alagsori helyiség, helyiségcsoport: olyan helyiség, helyiségcsoport, amelynek a padlószintje bárhol legfeljebb 0,70 m-rel kerül a terepcsatlakozás alá.
 
-3.[^496] Aula: fedett belső udvar.
+3.[^505] Aula: fedett belső udvar.
 
 4. Állagmegóvás: meglévő építmény, építményrész, önálló rendeltetési egység, helyiség kármegelőzése, kárelhárítása, rendeltetésszerű és biztonságos használatra alkalmassága érdekében végzett, az eredeti állagának visszaállítását szolgáló építési tevékenység.
 
@@ -16,7 +16,7 @@ Fogalommeghatározások
 
 7. Árkád: az építmény földszintjének a szabad tér felé jellemzően csak tartószerkezetével határolt és hosszoldalán nyitott, közterületi kapcsolat esetén többnyire közhasználat céljára szolgáló területe.
 
-8.[^497] Átalakítás: meglévő építmény, építményrész, önálló rendeltetési egység, helyiség alaprajzi elrendezésének vagy külső megjelenésének, megváltoztatása érdekében végzett, az építmény térfogatát nem növelő építési tevékenység.
+8.[^506] Átalakítás: meglévő építmény, építményrész, önálló rendeltetési egység, helyiség alaprajzi elrendezésének vagy külső megjelenésének, megváltoztatása érdekében végzett, az építmény térfogatát nem növelő építési tevékenység.
 
 9. Áthajtó: építményen átvezető, járműközlekedésre is szolgáló tér.
 
@@ -26,9 +26,9 @@ Fogalommeghatározások
 
 12. Átrium: belső udvar, -kert, e köré szerveződnek a helyiségek.
 
-12a.[^498] Beépítési magasság: az épületmagasság, a homlokzatmagasság és a párkánymagasság gyűjtőfogalma.
+12a.[^507] Beépítési magasság: az épületmagasság, a homlokzatmagasság és a párkánymagasság gyűjtőfogalma.
 
-13.[^499]
+13.[^508]
 
 14. Befogadóképesség: valamely területen, építményben, helyiségcsoportban, helyiségben az építmény, helyiség rendeltetése szerint megállapított mennyiségi mutatók szerint egyszerre, egy időpontban tartózkodó személyek megengedett száma, eszközök, tárgyak megengedett mennyisége.
 
@@ -40,7 +40,7 @@ Fogalommeghatározások
 
 18. Bruttó alapterület: épületszerkezetek alapterületével növelt nettó alapterület.
 
-19.[^500] Csoportház: építési telkenként egy vagy több önálló rendeltetési egységet (pl. lakást vagy üdülőegységet) magába foglaló, zártsorúan csatlakozó – többnyire egy ütemben, jellemzően azonos vagy hasonló építészeti kialakítású, egymástól független épületszerkezetekkel és közműbekötésekkel épített – épületek együttese. Lehet sorház, láncház, átriumház.
+19.[^509] Csoportház: építési telkenként egy vagy több önálló rendeltetési egységet (pl. lakást vagy üdülőegységet) magába foglaló, zártsorúan csatlakozó – többnyire egy ütemben, jellemzően azonos vagy hasonló építészeti kialakítású, egymástól független épületszerkezetekkel és közműbekötésekkel épített – épületek együttese. Lehet sorház, láncház, átriumház.
 
 20. Egészségügyi rendeltetés: az egészségügy körébe tartozó fekvő- és járóbeteg ellátás, megelőző, illetve utólagos ellátást végző egészségügyi szolgáltatás, gyógyszerellátás, valamint kutatás.
 
@@ -56,15 +56,15 @@ Fogalommeghatározások
 
 26. Életciklus: anyagok, szerkezetek használati időszakának egymást követő szakaszainak összessége a nyersanyagbeszerzéstől vagy természeti erőforrásból történő előállítástól a végső ártalmatlanításig.
 
-27.[^501] Építési határvonal: a telek előkertjét, oldalkertjét és hátsókertjét meghatározó elméleti vonal.
+27.[^510] Építési határvonal: a telek előkertjét, oldalkertjét és hátsókertjét meghatározó elméleti vonal.
 
-28.[^502] Építési hely: az építési teleknek, teleknek az elő-, oldal- és hátsókerti építési határvonalai által körülhatárolt beépíthető területrésze, amelyen – a védőtávolságok és más jogszabályi előírások megtartásával, vagy azon belül a szabályozási terven jelölt beépíthető területrészen – az építési övezeti, övezeti előírások szerinti telekbeépítettség mértékéig az épület (épületek) elhelyezhető (elhelyezhetők).
+28.[^511] Építési hely: az építési teleknek, teleknek az elő-, oldal- és hátsókerti építési határvonalai által körülhatárolt beépíthető területrésze, amelyen – a védőtávolságok és más jogszabályi előírások megtartásával, vagy azon belül a szabályozási terven jelölt beépíthető területrészen – az építési övezeti, övezeti előírások szerinti telekbeépítettség mértékéig az épület (épületek) elhelyezhető (elhelyezhetők).
 
-29.[^503] Építési övezet: a beépítésre szánt területeken belül – a 6. § (2), (4) és (5) bekezdésében foglaltak figyelembevételével – a területrészek sajátos építési használatának megfelelő besorolás, amelyhez az építés feltételei és módja, valamint a beépítés és a telekalakítás szabályai a helyi építési szabályzatban (kerületi építési szabályzatban) kerülnek meghatározásra.
+29.[^512] Építési övezet: a beépítésre szánt területeken belül – a 6. § (2), (4) és (5) bekezdésében foglaltak figyelembevételével – a területrészek sajátos építési használatának megfelelő besorolás, amelyhez az építés feltételei és módja, valamint a beépítés és a telekalakítás szabályai a helyi építési szabályzatban (kerületi építési szabályzatban) kerülnek meghatározásra.
 
 30. Építési telek: az a telek,
 
-a)[^504] amely beépítésre szánt területen, építési övezetben fekszik,
+a)[^513] amely beépítésre szánt területen, építési övezetben fekszik,
 
 b) az építési szabályoknak megfelelően kialakított,
 
@@ -76,11 +76,11 @@ d) amelynek a közterülettel vagy magánúttal közös határvonala legalább 3
 
 32. Épület legmagasabb pontja: az épületnek a terepcsatlakozáshoz, lejtős terepen a lejtőoldali alacsonyabb terepcsatlakozáshoz, valamely magas ponthoz, vagy valamely síkhoz viszonyított, helyi építési szabályzat által megállapított legfelső pontja. Ennek meghatározásánál a tető azon díszítő elemei, amelyek huzamos tartózkodásra szolgáló helyiséget nem tartalmaznak – kupola, saroktorony – valamint a tetőfelépítmények és az épület tetőzetén elhelyezett antenna, kémény és szellőző valamint tartozékaik figyelmen kívül hagyandók.
 
-33.[^505] Épületmagasság („Ém”): az épület valamennyi, külső és belső, sík vagy kiterített íves homlokzati felülete összegének (F) valamennyi, e felületek vízszintesen mért hosszának összegével (L) való osztásából (F/L) eredő érték.
+33.[^514] Épületmagasság („Ém”): az épület valamennyi, külső és belső, sík vagy kiterített íves homlokzati felülete összegének (F) valamennyi, e felületek vízszintesen mért hosszának összegével (L) való osztásából (F/L) eredő érték.
 
 34. Építményszint: az építmény mindazon használati szintje, amelyen helyiség van. Nem építményszint a padlás, valamint az a tetőszint, amelyen a felvonógépházon vagy a lépcsőház felső szintjén kívül más helyiség nincs.
 
-34a.[^506] Építmény térfogata: az építmény külső határoló szerkezeteinek (így különösen falak, pillérek, tetők) külső felületi síkjai által körbefogott térfogat.
+34a.[^515] Építmény térfogata: az építmény külső határoló szerkezeteinek (így különösen falak, pillérek, tetők) külső felületi síkjai által körbefogott térfogat.
 
 35. Fagyhatár: a rendezett terepcsatlakozástól mért azon talajmélység, ahol a talaj nem hűl tartósan 0 °C alá.
 
@@ -94,7 +94,7 @@ d) amelynek a közterülettel vagy magánúttal közös határvonala legalább 3
 
 40. Folyosó: önálló rendeltetési egységek, helyiségek megközelítésére, összekapcsolására szolgáló közös használatú közlekedő.
 
-41.[^507] Főépítmény: az építési övezet vagy övezet sajátos építési használatának megfelelően, a helyi építési szabályzatban meghatározott rendeltetésű építmény.
+41.[^516] Főépítmény: az építési övezet vagy övezet sajátos építési használatának megfelelően, a helyi építési szabályzatban meghatározott rendeltetésű építmény.
 
 42. Földszint: olyan építményszint, amelynek padlószintje legfeljebb 20%-ában és legfeljebb 0,70 m-rel kerül a csatlakozó rendezett terepszint alá.
 
@@ -106,15 +106,15 @@ d) amelynek a közterülettel vagy magánúttal közös határvonala legalább 3
 
 46. Hasznos alapterület: a nettó alapterületnek azon része, amelyen a belmagasság legalább 1,90 m.
 
-46a.[^508] Összes hasznos alapterület: az összes építményszint hasznos alapterülete.
+46a.[^517] Összes hasznos alapterület: az összes építményszint hasznos alapterülete.
 
 47. Hátsókert: az építési telek hátsó telekhatára és az e felé meghatározott építési határvonal (hátsókerti határvonal), valamint az oldalkertje(i) által határolt része.
 
 48. Helyiség: a rendeltetésének megfelelően épületszerkezettel minden irányból körülhatárolt, járófelülettel rendelkező tér, a beépítetlen tetőtér kivételével.
 
-49.[^509] Helyreállítás: építmény rendeltetésszerű és biztonságos használatra alkalmassá tétele érdekében végzett felújítási tevékenység az építményrész eredeti építészeti kialakításának lehetséges megtartása mellett.
+49.[^518] Helyreállítás: építmény rendeltetésszerű és biztonságos használatra alkalmassá tétele érdekében végzett felújítási tevékenység az építményrész eredeti építészeti kialakításának lehetséges megtartása mellett.
 
-50.[^510] Hitéleti rendeltetés: a vallási közösség vallási vagy azzal közvetlenül összefüggő más tevékenységéhez kapcsolódó használati cél.
+50.[^519] Hitéleti rendeltetés: a vallási közösség vallási vagy azzal közvetlenül összefüggő más tevékenységéhez kapcsolódó használati cél.
 
 51. Homlokzat: az építménynek a nézőpont felé eső legkülső pontjára illesztett függőleges felületre vetített, a terepcsatlakozása feletti része.
 
@@ -134,7 +134,7 @@ d) a magastető és oromfalainak 6,00 m-t meg nem haladó magasságú részét.
 
 A gömb, félgömb, donga vagy sátortető alakú építmények („tetőépítmények”) homlokzatmagasságát, ha az a 12,00 m magasságot nem haladja meg, a vetületmagasság felében, ha a 12,00 m magasságot meghaladja, a vetületmagasság 6,00 m-rel csökkentett értékében kell meghatározni.
 
-53.[^511] Huzamos tartózkodásra szolgáló helyiség: olyan helyiség, amelynek a használata folyamatosan négy óra időtartamot meghaladó, vagy amelynél a használatok közötti szünet időtartama a négy órát nem éri el, lakás esetén a nappali vagy nem nappali tartózkodásra szolgáló szoba, étkező.
+53.[^520] Huzamos tartózkodásra szolgáló helyiség: olyan helyiség, amelynek a használata folyamatosan négy óra időtartamot meghaladó, vagy amelynél a használatok közötti szünet időtartama a négy órát nem éri el, lakás esetén a nappali vagy nem nappali tartózkodásra szolgáló szoba, étkező.
 
 54. Ikerház: két szomszédos építési telek közös oldalhatárán álló, egymástól független épületszerkezetekkel és közműbekötésekkel megvalósított, tűzfalakkal csatlakozó két olyan önálló épület, amely külsőleg egy épület képét mutatja.
 
@@ -150,7 +150,7 @@ A gömb, félgömb, donga vagy sátortető alakú építmények („tetőépítm
 
 60. Kerítés: a telek területét a közterülettől, a telek közhasználat céljára átadott területétől, illetve a szomszédos telkek területétől vagy a telek különböző rendeltetésű vagy használatú részeit térben elválasztó, lehatároló építmény.
 
-61.[^512] Kerti építmény: a kerti tevékenységre, pihenésre, játékra, szórakozásra, kikapcsolódásra és tárolásra szolgáló műtárgy.
+61.[^521] Kerti építmény: a kerti tevékenységre, pihenésre, játékra, szórakozásra, kikapcsolódásra és tárolásra szolgáló műtárgy.
 
 62. Komposzttoalett: vízöblítés nélküli illemhely, amelyben a fekáliát, valamint szerves háztartási és kerti hulladékot zárt, hőszigetelt és szellőzéssel ellátott tartályban adalékanyag hozzáadásával, komposztálással humusszá alakítják.
 
@@ -162,7 +162,7 @@ A gömb, félgömb, donga vagy sátortető alakú építmények („tetőépítm
 
 66. Középmagas építmény: olyan építmény, amelyben a legfelső építményszint szintmagassága 13,65 m és 30,0 m között van.
 
-67.[^513] Közkert: egy meghatározott fő funkciót (játék, sport, pihenés stb.) szolgáló, közterületi zöldterület, amelyet bárki használhat.
+67.[^522] Közkert: egy meghatározott fő funkciót (játék, sport, pihenés stb.) szolgáló, közterületi zöldterület, amelyet bárki használhat.
 
 68. Közmű: termelő, elosztó, gyűjtő, továbbító, szabályozó, mérő rendeltetésű építmények, vezetékek, berendezések összessége, amely az egyes területfelhasználási egységek és az építmények rendeltetésszerű használatának biztosítása érdekében a fogyasztók vízellátási, szennyvízelvezetési és belterületi csapadékvíz elvezetési, gáz-, hő- és villamosenergia-ellátási, valamint hírközlési időszakos vagy folyamatos igényeit a település saját termelő, illetve előkészítő berendezései révén, vagy távvezetéki rendszerekhez kapcsolódva központosan, folyamatosan, kellő biztonsággal, közösségi úton, üzemszerűen működve elégíti ki.
 
@@ -170,7 +170,7 @@ A gömb, félgömb, donga vagy sátortető alakú építmények („tetőépítm
 
 70. Közösségi szórakoztató rendeltetés: rendezvény, előadás, kiállítás, táncmulatság, művelődés, szórakoztatás.
 
-71.[^514] Közpark: több funkciót szolgáló, közhasználatú közterületi zöldterület, amelyet bárki használhat.
+71.[^523] Közpark: több funkciót szolgáló, közhasználatú közterületi zöldterület, amelyet bárki használhat.
 
 72. Köztárgy: közterületen vagy közhasználat céljára átadott területen álló közcélú műtárgy.
 
@@ -198,11 +198,11 @@ A gömb, félgömb, donga vagy sátortető alakú építmények („tetőépítm
 
 84. Magastető: olyan tető, amelynek lejtése a 10%-ot meghaladja.
 
-84a.[^515] Megfelelő utcai légtérarány: a helyi építési szabályzatban meghatározott megengedett legnagyobb, vagy annál legkisebb utcai légtérarány.
+84a.[^524] Megfelelő utcai légtérarány: a helyi építési szabályzatban meghatározott megengedett legnagyobb, vagy annál legkisebb utcai légtérarány.
 
 85. Megújuló energiaforrás: megújuló, nem fosszilis forrásokból származó energia, nevezetesen szél-, nap-, aerotermikus, geotermikus, hidrotermikus energia, vízenergia, biomasszából, hulladéklerakó helyeken és szennyvíztisztító telepeken keletkező gázokból és biogázokból nyert energia.
 
-86.[^516] Melléképítmény: a telek és a telken álló főépítmény (főépítmények) rendeltetésszerű használatát, működtetését elősegítő, kiegészítő rendeltetésű építmény,:
+86.[^525] Melléképítmény: a telek és a telken álló főépítmény (főépítmények) rendeltetésszerű használatát, működtetését elősegítő, kiegészítő rendeltetésű építmény,:
 
 a) közmű-becsatlakozási műtárgy,
 
@@ -224,7 +224,7 @@ i) siló, ömlesztettanyag-, folyadék- és gáztároló,
 
 j) építménynek minősülő antennatartó szerkezet, zászlótartó oszlop.
 
-k)–l)[^517]
+k)–l)[^526]
 
 87. Mezőgazdasági birtoktest: a mezőgazdasági birtokközponthoz tartozó – a közigazgatási egységtől függetlenül – és attól legfeljebb 20 km-es távolságon belüli, az ingatlan-nyilvántartásban önálló helyrajzi számon bejegyzett termőföldterületek és az azokon lévő épületek által elfoglalt kivett területek összessége.
 
@@ -232,7 +232,7 @@ k)–l)[^517]
 
 89. Nevelési, oktatási rendeltetés: a gyermeknevelés, az alap-, közép-, és felsőfokú oktatási tevékenység, a szakképzés és a felnőttképzés, valamint továbbképzés.
 
-89a.[^518] Nyúlványos telek: a telekfelosztás során keletkező, telektömbön belüli olyan telek, amely csak – a ki- és bejárásra, valamint a közművek elhelyezésére alkalmas – nyúlványos résszel, nyéllel kapcsolódik a közterülethez vagy magánúthoz.
+89a.[^527] Nyúlványos telek: a telekfelosztás során keletkező, telektömbön belüli olyan telek, amely csak – a ki- és bejárásra, valamint a közművek elhelyezésére alkalmas – nyúlványos résszel, nyéllel kapcsolódik a közterülethez vagy magánúthoz.
 
 90. Olaszlépcső: ahol a belépő szélessége kiegészül egy lépéstávolság egész számú többszörösével, azaz „2m+sz = 60-64 + n*60-64” .
 
@@ -246,7 +246,7 @@ k)–l)[^517]
 
 95. Önálló rendeltetési egység: meghatározott rendeltetés céljára önmagában alkalmas helyiség vagy helyiségcsoport, amelynek a szabadból vagy az épületen belüli közös közlekedőből nyíló önálló bejárata van.
 
-96.[^519] Övezet: a beépítésre nem szánt területeken belül – a 6. § (3)–(5) bekezdésében foglaltak figyelembevételével – a területrészek sajátos építési használatnak megfelelő besorolás, amelyhez az építés feltételei és módja, a beépítés és a telekalakítás szabályai a helyi építési szabályzatban (kerületi építési szabályzatban) kerülnek meghatározásra.
+96.[^528] Övezet: a beépítésre nem szánt területeken belül – a 6. § (3)–(5) bekezdésében foglaltak figyelembevételével – a területrészek sajátos építési használatnak megfelelő besorolás, amelyhez az építés feltételei és módja, a beépítés és a telekalakítás szabályai a helyi építési szabályzatban (kerületi építési szabályzatban) kerülnek meghatározásra.
 
 97. Padlószint: födémszerkezetek vagy talajon fekvő aljzatszerkezetek járófelülete.
 
@@ -260,7 +260,7 @@ k)–l)[^517]
 
 102. Rendeltetés-módosítás: az építmény, az önálló rendeltetési egység, vagy a helyiség használati céljának megváltoztatása.
 
-102a.[^520] Saroktelek: olyan telek, amelynek van legalább két csatlakozó homlokvonala, amelyek egymással 45°–135° szöget zárnak be.
+102a.[^529] Saroktelek: olyan telek, amelynek van legalább két csatlakozó homlokvonala, amelyek egymással 45°–135° szöget zárnak be.
 
 103. iSport rendeltetés: sportolás, versenyzés, mérkőzés, egészségmegőrző mozgás.
 
@@ -270,7 +270,7 @@ k)–l)[^517]
 
 106. Szabad lépcső: építményhez közvetlenül kapcsolódó, legalább egy oldalról nyitott lépcső.
 
-107.[^521] Szabályozási vonal: a közterületet és az egyéb nem közterületet elválasztó meglévő, valamint a szabályozási terven meghatározott tervezett közterületi telekhatár.
+107.[^530] Szabályozási vonal: a közterületet és az egyéb nem közterületet elválasztó meglévő, valamint a szabályozási terven meghatározott tervezett közterületi telekhatár.
 
 108. Szintkülönbség: egymás feletti padlószintek közötti függőleges távolság.
 
@@ -278,21 +278,21 @@ k)–l)[^517]
 
 110. Szintterület: az összes építményszint bruttó alapterülete.
 
-110a.[^522] Szintterületi-mutató: az összes bruttó szintterület és a telekterület hányadosa.
+110a.[^531] Szintterületi-mutató: az összes bruttó szintterület és a telekterület hányadosa.
 
 111. Szociális rendeltetés: a szociális alapszolgáltatás, szakosított ellátás, a gyermekjóléti alapellátás és gyermekvédelmi szakellátás.
 
-112.[^523]
+112.[^532]
 
 113. Telek zöldfelülete: a teleknek a 25. § (1) bekezdése szerinti azon növényzettel borított területe (legkisebb zöldfelülete), ahol a termőtalaj és az eredeti altalaj, illetve a talajképző kőzet között nincs egyéb más réteg.
 
-114.[^524] Telek beépített területe: a telken álló épület 1,00 m-nél magasabbra emelkedő részeinek, az 1,00 m-es vízszintes síkban mért vetületi területeinek összege. A vetületi területek számítása során figyelmen kívül kell hagyni
+114.[^533] Telek beépített területe: a telken álló épület 1,00 m-nél magasabbra emelkedő részeinek, az 1,00 m-es vízszintes síkban mért vetületi területeinek összege. A vetületi területek számítása során figyelmen kívül kell hagyni
 
 a) mezőgazdasági, gazdasági és különleges beépítésre szánt területen a legfeljebb 9,00 m-es, egyéb területen a legfeljebb 4,50 m-es gerincmagasságú növényház (üvegház) és fóliasátor,
 
 b) az épülethez tartozó előlépcső, tornác, előtető, valamint a terepcsatlakozástól legalább 2,00 m-rel magasabban lévő erkély, függőfolyosó, ereszpárkány – az épület tömegétől kiálló részeinek – az épülettől számított 1,50 m-es sávba eső vízszintes vetületét.
 
-114a.[^525] Telek homlokvonala: a teleknek a közúttal vagy magánúttal közös határvonala.
+114a.[^534] Telek homlokvonala: a teleknek a közúttal vagy magánúttal közös határvonala.
 
 115. Telek legnagyobb beépítettsége: a telek beépített területének a telek teljes – nyúlványos telek esetében a teleknyúlvány területével csökkentett – területéhez viszonyított megengedett mértéke.
 
@@ -302,7 +302,7 @@ b) az épülethez tartozó előlépcső, tornác, előtető, valamint a terepcsa
 
 118. Település revitalizáció: a különösen értékes, elsősorban számos műemléki értékkel rendelkező, elavult, élettelen településrész „újraélesztése” a történeti érték megtartásával, minimális kiegészítő, nagyrészt helyreállító beavatkozással, szükség szerint rendeltetésmódosítással.
 
-119.[^526]
+119.[^535]
 
 120. Terasz: a rendezett terepen vagy épületrész zárófödémén kialakított helyiséghez, önálló rendeltetési egységhez vagy azok közös közlekedőihez kapcsolódó, járható szilárd burkolatú külső tartózkodótér.
 
@@ -312,7 +312,7 @@ b) az épülethez tartozó előlépcső, tornác, előtető, valamint a terepcsa
 
 123. Terepszint alatti építmény: olyan, szerkezetileg önálló építmény, amely földdel fedve is – a bejárat felőli oldal kivételével – legfeljebb 1,00 m-rel emelkedik ki a környező (szomszédos) és a csatlakozó terepszintből, legfeljebb bejárati vagy tereplejtő felőli homlokzatfelülete van, és legfeljebb a tereplejtő felőli és az olyan oldalhomlokzati felületrésze kerül a terepszint fölé, amelyhez a terepbevágásban közvetlenül kerti szabadlépcső vagy lejtő csatlakozik.
 
-124.[^527]
+124.[^536]
 
 125. Tetőfelépítmény: a tető fölé emelkedő, az épület rendeltetésszerű használatát biztosító épületrész, a kémények, a szellőzők és a tetőablakok kivételével (pl. felvonó gépház, lépcsőház tetőkijárata).
 
@@ -326,7 +326,7 @@ b) az épülethez tartozó előlépcső, tornác, előtető, valamint a terepcsa
 
 130. Többszintes növényállomány: a zöldfelületet egyszerre gyep-, cserje- és lombkoronaszinttel fedő növényzet.
 
-130a.[^528] Tömbtelek: az 1998. január 1-je előtti előírások alapján kialakított, több épülettel beépített építési telek.
+130a.[^537] Tömbtelek: az 1998. január 1-je előtti előírások alapján kialakított, több épülettel beépített építési telek.
 
 131. Tömegtartózkodásra szolgáló építmény: olyan építmény, amelyben tömegtartózkodásra szolgáló helyiség van, vagy amelyen bármikor egyidejűleg 300 főnél több személy tartózkodása várható.
 
@@ -334,9 +334,9 @@ b) az épülethez tartozó előlépcső, tornác, előtető, valamint a terepcsa
 
 133. Tűzfal: a vonatkozó műszaki követelménynek megfelelő tűzállósági határértékű, A1 tűzvédelmi osztályú térelhatároló folytonos függőleges falszerkezet, amelyet úgy kell kialakítani, hogy az általa elválasztott tűzszakaszok vagy építmények egyikének állékonyság-vesztése, illetve az ebből adódó oldalirányú erőhatás esetén is megőrizze tűzterjedést gátló képességeit.
 
-133a.[^529] Utcai légtérarány: a megengedett legnagyobb párkánymagasság és előkert nélküli beépítés esetén a kapcsolódó közterület átlagos szélességének, előkertes beépítés esetén a kapcsolódó előkerti építési határvonalak közötti távolság aránya.
+133a.[^538] Utcai légtérarány: a megengedett legnagyobb párkánymagasság és előkert nélküli beépítés esetén a kapcsolódó közterület átlagos szélességének, előkertes beépítés esetén a kapcsolódó előkerti építési határvonalak közötti távolság aránya.
 
-133b.[^530] Úszótelek: a 130a. pont szerinti tömbtelken álló külön tulajdonú épületek részére kialakított, önálló közterületi kapcsolattal nem rendelkező telek.
+133b.[^539] Úszótelek: a 130a. pont szerinti tömbtelken álló külön tulajdonú épületek részére kialakított, önálló közterületi kapcsolattal nem rendelkező telek.
 
 134. Üdülő rendeltetés: időszakosan a pihenést szolgáló használati cél.
 
@@ -346,39 +346,39 @@ b) az épülethez tartozó előlépcső, tornác, előtető, valamint a terepcsa
 
 137. Villamos kezelőhelyiség: villamos berendezés (transzformátor-, főkapcsoló és akkumulátor) elhelyezésére szolgáló helyiség.
 
-[^495]: Az 1. számú melléklet a 211/2012. (VII. 30.) Korm. rendelet 31. §-ával megállapított szöveg.
-[^496]: Az 1. számú melléklet 3. pontja a 788/2021. (XII. 27.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
-[^497]: Az 1. számú melléklet 8. pontja a 788/2021. (XII. 27.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
-[^498]: Az 1. melléklet 12a. pontját a 314/2012. (XI. 8.) Korm. rendelet 54. §-a iktatta be. Alkalmazására lásd e módosító rendelet 45–46. §-át.
-[^499]: Az 1. számú melléklet 13. pontját a 420/2021. (VII. 15.) Korm. rendelet 39. § 12. pontja hatályon kívül helyezte.
-[^500]: Az 1. számú melléklet 19. pontja a 217/2018. (XI. 27.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
-[^501]: Az 1. számú melléklet 27. pontja a 314/2012. (XI. 8.) Korm. rendelet 55. § j) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 45–46. §-át.
-[^502]: Az 1. számú melléklet 28. pontja a 314/2012. (XI. 8.) Korm. rendelet 55. § k) pontja, a 420/2021. (VII. 15.) Korm. rendelet 38. § 49. pontja szerint módosított szöveg.
-[^503]: Az 1. számú melléklet 29. pontja a 420/2021. (VII. 15.) Korm. rendelet 37. § (1) bekezdésével megállapított szöveg.
-[^504]: Az 1. számú melléklet 30. pont a) pontja a 420/2021. (VII. 15.) Korm. rendelet 38. § 50. pontja szerint módosított szöveg.
-[^505]: Az 1. melléklet 33. pontja a 275/2012. (IX. 28.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^506]: Az 1. számú melléklet 34a. pontját a 788/2021. (XII. 27.) Korm. rendelet 1. §-a iktatta be.
-[^507]: Az 1. számú melléklet 41. pontja a 420/2021. (VII. 15.) Korm. rendelet 37. § (1) bekezdésével megállapított szöveg.
-[^508]: Az 1. számú melléklet 46a. pontját a 456/2015. (XII. 29.) Korm. rendelet 7. §-a iktatta be.
-[^509]: Az 1. számú melléklet 49. pontja a 788/2021. (XII. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^510]: Az 1. számú melléklet 50. pontja a 297/2013. (VII. 29.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^511]: Az 1. számú melléklet 53. pontja a 420/2021. (VII. 15.) Korm. rendelet 37. § (1) bekezdésével megállapított szöveg.
-[^512]: Az 1. számú melléklet 61. pontja a 394/2012. (XII. 20.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
-[^513]: Az 1. számú melléklet 67. pontja a 420/2021. (VII. 15.) Korm. rendelet 39. § 13. pontja szerint módosított szöveg.
-[^514]: Az 1. számú melléklet 71. pontja a 420/2021. (VII. 15.) Korm. rendelet 39. § 14. pontja szerint módosított szöveg.
-[^515]: Az 1. számú melléklet 84a. pontját a 420/2021. (VII. 15.) Korm. rendelet 37. § (1) bekezdése iktatta be.
-[^516]: Az 1. számú melléklet 86. pont nyitó szövegrésze a 394/2012. (XII. 20.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
-[^517]: Az 1. számú melléklet 86. pont k)–l) pontját a 394/2012. (XII. 20.) Korm. rendelet 4. § c) pontja hatályon kívül helyezte.
-[^518]: Az 1. számú melléklet 89a. pontját a 253/2023. (VI. 23.) Korm. rendelet 2. §-a iktatta be.
-[^519]: Az 1. számú melléklet 96. pontja a 420/2021. (VII. 15.) Korm. rendelet 37. § (1) bekezdésével megállapított szöveg.
-[^520]: Az 1. számú melléklet 102a. pontját a 253/2023. (VI. 23.) Korm. rendelet 2. §-a iktatta be.
-[^521]: Az 1. számú melléklet 107. pontja a 420/2021. (VII. 15.) Korm. rendelet 37. § (1) bekezdésével megállapított szöveg.
-[^522]: Az 1. számú melléklet 110a. pontját a 420/2021. (VII. 15.) Korm. rendelet 37. § (1) bekezdése iktatta be.
-[^523]: Az 1. melléklet 112. pontját a 90/2023. (III. 22.) Korm. rendelet 4. § a) pontja hatályon kívül helyezte.
-[^524]: Az 1. számú melléklet 114. pont nyitó szövegrésze a 314/2012. (XI. 8.) Korm. rendelet 55. § l) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 45–46. §-át.
-[^525]: Az 1. számú melléklet 114a. pontját a 253/2023. (VI. 23.) Korm. rendelet 2. §-a iktatta be.
-[^526]: Az 1. számú melléklet 119. pontját a 314/2012. (XI. 8.) Korm. rendelet 56. § c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 45–46. §-át.
-[^527]: Az 1. számú melléklet 124. pontját a 420/2021. (VII. 15.) Korm. rendelet 39. § 15. pontja hatályon kívül helyezte.
-[^528]: Az 1. számú melléklet 130a. pontját a 253/2023. (VI. 23.) Korm. rendelet 2. §-a iktatta be.
-[^529]: Az 1. számú melléklet 133a. pontját a 420/2021. (VII. 15.) Korm. rendelet 37. § (1) bekezdése iktatta be.
-[^530]: Az 1. számú melléklet 133b. pontját a 253/2023. (VI. 23.) Korm. rendelet 2. §-a iktatta be.
+[^504]: Az 1. számú melléklet a 211/2012. (VII. 30.) Korm. rendelet 31. §-ával megállapított szöveg.
+[^505]: Az 1. számú melléklet 3. pontja a 788/2021. (XII. 27.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^506]: Az 1. számú melléklet 8. pontja a 788/2021. (XII. 27.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^507]: Az 1. melléklet 12a. pontját a 314/2012. (XI. 8.) Korm. rendelet 54. §-a iktatta be. Alkalmazására lásd e módosító rendelet 45–46. §-át.
+[^508]: Az 1. számú melléklet 13. pontját a 420/2021. (VII. 15.) Korm. rendelet 39. § 12. pontja hatályon kívül helyezte.
+[^509]: Az 1. számú melléklet 19. pontja a 217/2018. (XI. 27.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^510]: Az 1. számú melléklet 27. pontja a 314/2012. (XI. 8.) Korm. rendelet 55. § j) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 45–46. §-át.
+[^511]: Az 1. számú melléklet 28. pontja a 314/2012. (XI. 8.) Korm. rendelet 55. § k) pontja, a 420/2021. (VII. 15.) Korm. rendelet 38. § 49. pontja szerint módosított szöveg.
+[^512]: Az 1. számú melléklet 29. pontja a 420/2021. (VII. 15.) Korm. rendelet 37. § (1) bekezdésével megállapított szöveg.
+[^513]: Az 1. számú melléklet 30. pont a) pontja a 420/2021. (VII. 15.) Korm. rendelet 38. § 50. pontja szerint módosított szöveg.
+[^514]: Az 1. melléklet 33. pontja a 275/2012. (IX. 28.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^515]: Az 1. számú melléklet 34a. pontját a 788/2021. (XII. 27.) Korm. rendelet 1. §-a iktatta be.
+[^516]: Az 1. számú melléklet 41. pontja a 420/2021. (VII. 15.) Korm. rendelet 37. § (1) bekezdésével megállapított szöveg.
+[^517]: Az 1. számú melléklet 46a. pontját a 456/2015. (XII. 29.) Korm. rendelet 7. §-a iktatta be.
+[^518]: Az 1. számú melléklet 49. pontja a 788/2021. (XII. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^519]: Az 1. számú melléklet 50. pontja a 297/2013. (VII. 29.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^520]: Az 1. számú melléklet 53. pontja a 420/2021. (VII. 15.) Korm. rendelet 37. § (1) bekezdésével megállapított szöveg.
+[^521]: Az 1. számú melléklet 61. pontja a 394/2012. (XII. 20.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
+[^522]: Az 1. számú melléklet 67. pontja a 420/2021. (VII. 15.) Korm. rendelet 39. § 13. pontja szerint módosított szöveg.
+[^523]: Az 1. számú melléklet 71. pontja a 420/2021. (VII. 15.) Korm. rendelet 39. § 14. pontja szerint módosított szöveg.
+[^524]: Az 1. számú melléklet 84a. pontját a 420/2021. (VII. 15.) Korm. rendelet 37. § (1) bekezdése iktatta be.
+[^525]: Az 1. számú melléklet 86. pont nyitó szövegrésze a 394/2012. (XII. 20.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^526]: Az 1. számú melléklet 86. pont k)–l) pontját a 394/2012. (XII. 20.) Korm. rendelet 4. § c) pontja hatályon kívül helyezte.
+[^527]: Az 1. számú melléklet 89a. pontját a 253/2023. (VI. 23.) Korm. rendelet 2. §-a iktatta be.
+[^528]: Az 1. számú melléklet 96. pontja a 420/2021. (VII. 15.) Korm. rendelet 37. § (1) bekezdésével megállapított szöveg.
+[^529]: Az 1. számú melléklet 102a. pontját a 253/2023. (VI. 23.) Korm. rendelet 2. §-a iktatta be.
+[^530]: Az 1. számú melléklet 107. pontja a 420/2021. (VII. 15.) Korm. rendelet 37. § (1) bekezdésével megállapított szöveg.
+[^531]: Az 1. számú melléklet 110a. pontját a 420/2021. (VII. 15.) Korm. rendelet 37. § (1) bekezdése iktatta be.
+[^532]: Az 1. melléklet 112. pontját a 90/2023. (III. 22.) Korm. rendelet 4. § a) pontja hatályon kívül helyezte.
+[^533]: Az 1. számú melléklet 114. pont nyitó szövegrésze a 314/2012. (XI. 8.) Korm. rendelet 55. § l) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 45–46. §-át.
+[^534]: Az 1. számú melléklet 114a. pontját a 253/2023. (VI. 23.) Korm. rendelet 2. §-a iktatta be.
+[^535]: Az 1. számú melléklet 119. pontját a 314/2012. (XI. 8.) Korm. rendelet 56. § c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 45–46. §-át.
+[^536]: Az 1. számú melléklet 124. pontját a 420/2021. (VII. 15.) Korm. rendelet 39. § 15. pontja hatályon kívül helyezte.
+[^537]: Az 1. számú melléklet 130a. pontját a 253/2023. (VI. 23.) Korm. rendelet 2. §-a iktatta be.
+[^538]: Az 1. számú melléklet 133a. pontját a 420/2021. (VII. 15.) Korm. rendelet 37. § (1) bekezdése iktatta be.
+[^539]: Az 1. számú melléklet 133b. pontját a 253/2023. (VI. 23.) Korm. rendelet 2. §-a iktatta be.
