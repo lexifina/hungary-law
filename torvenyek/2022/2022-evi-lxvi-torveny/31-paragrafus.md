@@ -14,7 +14,7 @@ ba) a termékleírásban foglaltaktól való olyan mértékű vagy természetű 
 
 bb) az a) pont aa) alpontjában foglalt jogsértés 3 éven belül történő megismétlődése esetén.
 
-(2) Az (1) bekezdés b) pontjának megvalósulása esetén az ellenőrzést végző hatóság törli a gazdasági szereplőt a 27. § (3) bekezdése szerinti nyilvántartásból.
+(2) Az (1) bekezdés b) pontjának megvalósulása esetén az ellenőrzést végző hatóság törli a nyilvántartott gazdasági szereplőt a 27. § (3) bekezdése szerinti nyilvántartásból.
 
 (3) Ha az előállító, illetve forgalmazó az (1) bekezdés b) pontja alapján hozott tiltó határozat ellenére használja az oltalom alatt álló elnevezést, az ellenőrző hatóság intézkedésként elrendeli az oltalom alatt álló elnevezéssel ellátott termékek forgalomból való kivonását.
 

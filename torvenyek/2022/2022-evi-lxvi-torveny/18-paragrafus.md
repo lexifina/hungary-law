@@ -22,7 +22,7 @@ fedezetére.
 
 a) az (1) bekezdés a)–d) pontja szerinti költségek, díjak, valamint
 
-b) az Alap működéséhez kapcsolódó banki költségek
+b) az Alap működéséhez kapcsolódó költségek
 
 fedezhetők.
 
