@@ -10,6 +10,8 @@ b) kérheti átvételét azonos, illetve másik felsőoktatási intézmény ugya
 
 (2) A felsőoktatási intézmény a vele hallgatói jogviszonyban nem álló személyeket – részismereti képzés céljából – hallgatói jogviszony keretében, az intézmény bármely kurzusára, moduljára – külön felvételi eljárás nélkül – önköltséges képzésre felveheti. Az intézmény a tanulmányi teljesítményről a tanulmányi rendszeréből a tárgyleírást (tematika) is tartalmazó mikrotanúsítványt köteles kiállítani. Az elvégzett kurzus, modul teljesítése felsőfokú tanulmányokba a kreditátvitel szabályai szerint beszámítható.
 
+(2a) A felsőoktatási intézmény önköltséges részismereti képzés céljából hallgatójával is létesíthet újabb képzési jogviszonyt. A felsőoktatási intézmény a részismereti képzés eredményes elvégzéséről mikrotanúsítványt állít ki.
+
 (3) Az (1)–(2) bekezdésekben meghatározott kérelmek teljesítésének feltételeit a fogadó felsőoktatási intézmény határozza meg.
 
 (4) Aki a felsőoktatási intézménybe felvételt vagy átvételt nyert, a felvételről, átvételről szóló döntés véglegessé válását követően jogosult beiratkozással hallgatói jogviszonyt létesíteni, valamint köteles a 43. § (2) bekezdésében meghatározott kötelezettségek teljesítésére.

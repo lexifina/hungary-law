@@ -12,7 +12,7 @@
 
 a) a külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személyeket,
 
-b) az a) pont hatálya alá nem tartozó, Magyarország területén élő hontalant, menekültet, oltalmazottat, menedékest, befogadottat, bevándoroltat, letelepedettet,
+b) az a) pont hatálya alá nem tartozó, Magyarország területén élő hontalant, menekültet, oltalmazottat, menedékest, befogadottat, huzamos tartózkodási jogosultsággal rendelkezőt,
 
 c) nemzetközi megállapodás alapján a magyar állampolgárokkal azonos elbírálás alá eső külföldit,
 
@@ -20,7 +20,7 @@ d) azoknak az országoknak az állampolgárait, amelyekben a magyar állampolgá
 
 e) a szomszédos államokban élő magyarokról szóló törvény (a továbbiakban: kedvezménytörvény) hatálya alá tartozó, de magyar állampolgársággal vagy a szabad mozgás és tartózkodás jogával nem rendelkező személyt,
 
-f) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott – magát magyar nemzetiségűnek valló – harmadik országbeli állampolgárt, feltéve, hogy nem áll a kedvezménytörvény hatálya alatt és magyar állampolgársággal sem rendelkezik
+f) a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben meghatározott – magát magyar nemzetiségűnek valló – harmadik országbeli állampolgárt, feltéve, hogy nem áll a kedvezménytörvény hatálya alatt és magyar állampolgársággal sem rendelkezik
 
 g) a magas szintű képzettséget igénylő munkavállalás és tartózkodás céljából kiállított engedéllyel (EU Kék Kártyával) rendelkező harmadik országbeli állampolgárt,
 

@@ -92,6 +92,10 @@ g) a záróvizsgák szervezésének rendjét és értékelésének elveit,
 
 29. az alapnormatíva képzési területenként alkalmazandó súlyszorzóját.
 
+30. a felsőoktatási intézmények által kiállított okiratok külföldi felhasználásra történő felülhitelesítését,
+
+31. a mikrotanúsítvány kötelező tartalmi elemeit.
+
 (2) Felhatalmazást kap a Kormány, hogy
 
 a) a felsőoktatási intézmények nyilvántartását vezető szervet,

@@ -10,6 +10,10 @@ b) az Nkt. 67. §-a szerinti, a köznevelési intézmény intézményvezetői me
 
 rendelkezik.
 
+(1c) A tanárképző központ pedagógusképző központtá alakítható, amely esetben a feladatait a teljes pedagógusképzéshez kapcsolódóan látja el. Ebben az esetben a pedagógusképző központ az (1)–(1b) bekezdésben foglaltakon túlmenően önálló költségkerettel rendelkezhet, valamint feladata a köznevelés alapvető, tartalmi-szabályozó dokumentumát figyelembe vevő tartalmi összehangolás is.
+
+(1d) Az (1c) bekezdés szerinti pedagógusképző központ munkáját a tanárképzés területén a felsőoktatási intézmény tanárképzési tanácsa segíti, amelynek feladata többek között a tanárképzéssel összefüggő szakmai, tartalmi, gyakorlati képzéshez kapcsolódó feladatok összehangolásának támogatása, a mintatantervek, tantárgyleírások felülvizsgálata és a mindenkori köznevelés tartalmi szabályozó dokumentumainak történő megfelelés biztosítása. A tanárképzési tanács tagjai a gyakorlóiskolák és partnerintézmények szakvezetői, továbbá szakfelelősei. A tanárképzési tanács tagjainak legalább felét a szakfelelősök alkotják. A tanárképzési tanács tagjait a rektor nevezi ki öt évre.
+
 (2) A tanárképző központ koordinálja különösen a hallgatói meghallgatást, kiválasztást, felvételt, átvételt, a kreditelismerés, a pedagógiai szakképzés, a záróvizsga letételének folyamatát, és szervezi, ellenőrzi, valamint értékeli az iskolai gyakorlatot. Nyomon követi a hallgatói előremenetelt, pályakövetést végez.
 
 (3) A pedagógusképzést folytató felsőoktatási intézmények – alapfeladatuk keretében – részt vesznek a pedagógus-továbbképzésben. A pedagógus-továbbképzés szakmai jellegű koordinációjának biztosítása a tanárképző központ főigazgatójának a feladata.
