@@ -1,12 +1,4 @@
-## 1. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva Magyarország 2020. évi központi költségvetésének címrendjét 2020. április 30-ai fordulónappal az 1. melléklet szerint módosítja;
-
-## Felelős: pénzügyminiszter
-
-## a miniszterelnök kabinetfőnöke
-
-## Miniszterelnökséget vezető miniszter
-
-## Határidő: 2020. április 30.
+## 1.[^1]
 
 ## 2. felhívja a miniszterelnök kabinetfőnökét, hogy 2020. április 23-ig gondoskodjon a Magyar Államkincstárnál
 
@@ -24,12 +16,7 @@
 
 ## Határidő: 2020. április 30.
 
-1. melléklet az 1164/2020. (IV. 21.) Korm. határozathoz
+1. melléklet az 1164/2020. (IV. 21.) Korm. határozathoz[^2]
 
-| Eredeti előirányzattal rendelkező előirányzatok átrendezése |
-
-| ÁHT-T | ÚJ címrendi besorolás | Megnevezés | Régi címrendi besorolás |
-
-| Feje- zet | Cím | Alcím | Jog- cím- cso- port | Jog- cím | Feje- zet | Cím | Alcím | Jog- cím- cso- port | Jog- cím |
-
-| 359106 | 11 | 30 | 01 | 64 | 00 | Tihanyi Alapítvány támogatása | 21 | 20 | 01 | 08 | 00 |
+[^1]: Az 1. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
