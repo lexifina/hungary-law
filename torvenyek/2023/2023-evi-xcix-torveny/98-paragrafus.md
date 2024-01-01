@@ -1,0 +1,3 @@
+98. § A földgázellátásról szóló 2008. évi XL. törvény 89. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) A fogyasztói főelzáró ellenőrzése, szükség szerinti karbantartása, javítása, cseréje a földgázelosztó feladata saját költségén. A fogyasztásmérő berendezés hitelesítési cseréjével egyidejűleg – de nem sűrűbben, mint 10 évenként – a csatlakozóvezetéknek és a fogyasztói vezetéknek a csatlakozási nyomás névleges értékén szivárgás-ellenőrzéssel végzett gáztömörségi felülvizsgálata a földgázelosztó feladata saját költségén. Ha a felhasználási helyen nincs fogyasztásmérő berendezés, a felülvizsgálat 10 évenként esedékes. Az ingatlan tulajdonosa köteles tűrni és biztosítani a földgázelosztó számára a feladatok akadálytalan elvégzését.”

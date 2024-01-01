@@ -1,0 +1,1 @@
+32. § Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 57/D. § (1) bekezdés c) pontjában az „az ingatlan-nyilvántartásért” szövegrész helyébe az „a kormányzati stratégiák kidolgozásának támogatásáért” szöveg lép.

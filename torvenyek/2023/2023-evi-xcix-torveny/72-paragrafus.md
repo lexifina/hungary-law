@@ -1,0 +1,3 @@
+72. § A villamos energiáról szóló 2007. évi LXXXVI. törvény 75. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A működési engedély meghosszabbítására az engedély megadására vonatkozó szabályokat kell alkalmazni. A kiserőművi összevont engedély és a termelői működési engedély időbeli hatályát legkorábban az engedély lejárta előtt két évvel – atomerőmű és széntüzelésű erőmű esetén öt évvel – korábban lehet meghosszabbítani. A kiserőművi összevont engedély és a termelői működési engedély időbeli hatálya meghosszabbítására irányuló kérelmet legkésőbb az engedély lejárta előtt 180 nappal korábban kell benyújtani.”
