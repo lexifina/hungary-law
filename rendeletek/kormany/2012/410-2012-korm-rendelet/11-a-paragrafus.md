@@ -1,6 +1,6 @@
-11/A. §[^100] (1) Az Európai Bizottság által elfogadott nemzeti légiközlekedési kiosztási táblát a hatóság honlapján közleményben teszi közzé, és gondoskodik annak Hivatalos Értesítőben való közzétételéről.
+11/A. §[^104] (1) Az Európai Bizottság által elfogadott nemzeti légiközlekedési kiosztási táblát a hatóság honlapján közleményben teszi közzé, és gondoskodik annak Hivatalos Értesítőben való közzétételéről.
 
-(2) A nemzeti légiközlekedési kiosztási tábla alapján a hatóság – a jegyzékkezelő útján – minden év február 28-ig gondoskodik az üzembentartó forgalmi jegyzékben vezetett számláján az adott évre jóváhagyott kibocsátási egységek jóváírásáról.
+(2)[^105] A nemzeti légiközlekedési kiosztási tábla alapján a hatóság – a jegyzékkezelő útján – minden év június 30-ig gondoskodik az üzembentartó forgalmi jegyzékben vezetett számláján az adott évre jóváhagyott kibocsátási egységek jóváírásáról.
 
 (3) A 2003/87/EK európai parlamenti és tanácsi irányelv 28a. cikk (2) bekezdése értelmében az ezen irányelv 3f. cikk (2) bekezdése szerinti légiközlekedési új belépő kérelmet a hatóság honlapján közzétett módon kell benyújtani.
 
@@ -16,4 +16,5 @@ c) több légi jármű üzembentartó egyesült.
 
 (6) Az Ügkr. tv. 10. § (4) bekezdése szerinti, és ha szükséges a (3) bekezdés szerinti bejelentést követően a hatóság elkészíti a nemzeti légiközlekedési kiosztási tábla módosítására vonatkozó javaslatát, és jóváhagyásra megküldi azt az Európai Bizottságnak. Az Európai Bizottság jóváhagyását követően a hatóság közzéteszi a módosított nemzeti légiközlekedési kiosztási táblát.
 
-[^100]: A 11/A. §-t a 76/2019. (IV. 10.) Korm. rendelet 10. § b) pontja hatályon kívül helyezte, újonnan az 527/2020. (XI. 26.) Korm. rendelet 9. §-a iktatta be.
+[^104]: A 11/A. §-t a 76/2019. (IV. 10.) Korm. rendelet 10. § b) pontja hatályon kívül helyezte, újonnan az 527/2020. (XI. 26.) Korm. rendelet 9. §-a iktatta be.
+[^105]: A 11/A. § (2) bekezdése a 653/2023. (XII. 28.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.

@@ -1,3 +1,3 @@
-32. §[^177]
+32. §[^186]
 
-[^177]: A 25–32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^186]: A 25–32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

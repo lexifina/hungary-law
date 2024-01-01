@@ -1,8 +1,8 @@
-## 6/A. [^118] ÜHG-egységek visszaadása
+## 6/A. [^123] ÜHG-egységek visszaadása
 
-15/A. § (1) Az üzemeltető köteles a nyomon követett és hitelesített tárgyévi kibocsátásának megfelelő mennyiségű kibocsátási egységet a tárgyévet követő év április 30-ig visszaadni az (EU) 2019/1122 felhatalmazáson alapuló bizottsági rendelet 56. cikkének megfelelően. A visszaadási kötelezettség teljesítéséhez az üzemeltető a más tagállam hatáskörrel rendelkező hatósága által kiadott kibocsátási egységet is felhasználhatja.
+15/A. § (1)[^124] Az üzemeltető köteles a nyomon követett és hitelesített tárgyévi kibocsátásának megfelelő mennyiségű kibocsátási egységet a tárgyévet követő év szeptember 30-ig visszaadni az (EU) 2019/1122 felhatalmazáson alapuló bizottsági rendelet 56. cikkének megfelelően. A visszaadási kötelezettség teljesítéséhez az üzemeltető a más tagállam hatáskörrel rendelkező hatósága által kiadott kibocsátási egységet is felhasználhatja.
 
-(2) A légi jármű üzembentartó köteles a nyomon követett és hitelesített tárgyévi kibocsátásának megfelelő mennyiségű ÜHG-egységet a tárgyévet követő év április 30-ig az (EU) 2019/1122 felhatalmazáson alapuló bizottsági rendelet 56. cikkének megfelelően visszaadni.
+(2)[^125] A légi jármű üzembentartó köteles a nyomon követett és hitelesített tárgyévi kibocsátásának megfelelő mennyiségű ÜHG-egységet a tárgyévet követő év szeptember 30-ig az (EU) 2019/1122 felhatalmazáson alapuló bizottsági rendelet 56. cikkének megfelelően visszaadni.
 
 (3) Ha
 
@@ -20,6 +20,9 @@ akkor a részükre a nemzeti kiosztási táblában és a nemzeti légiközleked�
 
 (5) Nem vonatkozik a visszaadási kötelezettség az olyan hitelesített kibocsátásra, amelyet elkülönítettek, és a szén-dioxid geológiai tárolásáról szóló jogszabály szerinti tárolási engedéllyel rendelkező létesítménybe szállítottak állandó tárolás céljából.
 
-(6) A szén-dioxid geológiai tárolására használt tárolóhely üzemeltetője a bányászatról szóló törvényben meghatározott szivárgás esetén köteles a szivárgást követő év április 30-ig a környezetbe jutó üvegházhatású gázokkal egyenértékű kibocsátási egységet az állam részére visszaadni.
+(6)[^126] A szén-dioxid geológiai tárolására használt tárolóhely üzemeltetője a bányászatról szóló törvényben meghatározott szivárgás esetén köteles a szivárgást követő év szeptember 30-ig a környezetbe jutó üvegházhatású gázokkal egyenértékű kibocsátási egységet az állam részére visszaadni.
 
-[^118]: A 6/A. alcímet (15/A. §) az 527/2020. (XI. 26.) Korm. rendelet 11. §-a iktatta be.
+[^123]: A 6/A. alcímet (15/A. §) az 527/2020. (XI. 26.) Korm. rendelet 11. §-a iktatta be.
+[^124]: A 15/A. § (1) bekezdése a 653/2023. (XII. 28.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
+[^125]: A 15/A. § (2) bekezdése a 653/2023. (XII. 28.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
+[^126]: A 15/A. § (6) bekezdése a 653/2023. (XII. 28.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.

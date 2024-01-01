@@ -1,3 +1,3 @@
-23. §[^153]
+23. §[^161]
 
-[^153]: A 23. §-t az 527/2020. (XI. 26.) Korm. rendelet 16. § m) pontja hatályon kívül helyezte.
+[^161]: A 23. §-t az 527/2020. (XI. 26.) Korm. rendelet 16. § m) pontja hatályon kívül helyezte.

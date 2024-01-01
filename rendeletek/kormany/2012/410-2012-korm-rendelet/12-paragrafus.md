@@ -1,6 +1,6 @@
 ## 5. A létesítmény működésében bekövetkező változások
 
-12. §[^103] (1) Az (EU) 2019/331 felhatalmazáson alapuló rendelet 26. cikk (1) bekezdésében meghatározott létesítménybezárás esetén, ha a létesítmény már nem üzemel, és az üzemeltetés újraindítása műszakilag nem lehetséges, a hatóság a kibocsátási engedélyt visszavonja.
+12. §[^108] (1) Az (EU) 2019/331 felhatalmazáson alapuló rendelet 26. cikk (1) bekezdésében meghatározott létesítménybezárás esetén, ha a létesítmény már nem üzemel, és az üzemeltetés újraindítása műszakilag nem lehetséges, a hatóság a kibocsátási engedélyt visszavonja.
 
 (2) A hatóság az (1) bekezdésben foglaltakon túl a kibocsátási engedélyt visszavonja, ha
 
@@ -46,4 +46,4 @@ b) a kibocsátási egységek visszaadására irányuló kötelezettségét telje
 
 (13) A hatóság a kiosztás évét megelőző évben bezáró létesítmények listáját megküldi az Európai Bizottság részére, és a nemzeti kiosztási táblában – annak esetleges újbóli kereskedelmi rendszer hatálya alá való kerülését követő új belépő kérelméig – többet nem szerepelteti a létesítményt.
 
-[^103]: A 12. § az 527/2020. (XI. 26.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^108]: A 12. § az 527/2020. (XI. 26.) Korm. rendelet 10. §-ával megállapított szöveg.

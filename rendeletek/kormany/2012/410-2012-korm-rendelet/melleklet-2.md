@@ -14,9 +14,9 @@
 
 ## A.3.1 A létesítmény telephelyén végzett 2. melléklet szerinti tevékenység (tevékenységek) megnevezése.
 
-## A.3.2.[^180] A létesítmény telephelyére kiadott, a környezethasználat feltételeit megállapító határozat megnevezése, engedély száma, kiadásának dátuma, kiállító hatóság megnevezése és az engedély véglegessé válásának dátuma.
+## A.3.2.[^189] A létesítmény telephelyére kiadott, a környezethasználat feltételeit megállapító határozat megnevezése, engedély száma, kiadásának dátuma, kiállító hatóság megnevezése és az engedély véglegessé válásának dátuma.
 
-## A.3.3[^181] A próbaüzem és az üzemszerű működés megkezdésének tervezett ideje (éééé/hh/nn), a létesítmény státusza és annak leírása (folyamatos működés, tartalék üzemmód, készenléti üzemmód vagy szezonális üzemmód).
+## A.3.3[^190] A próbaüzem és az üzemszerű működés megkezdésének tervezett ideje (éééé/hh/nn), a létesítmény státusza és annak leírása (folyamatos működés, tartalék üzemmód, készenléti üzemmód vagy szezonális üzemmód).
 
 ## A.4 A LÉTESÍTMÉNY KIBOCSÁTÁSI KATEGÓRIÁJA
 
@@ -26,7 +26,7 @@
 
 ## b) B kategóriájú létesítmény: 50 000 tCO2(e) és 500 000 tCO2(e) között
 
-## c)[^182] C kategóriájú létesítmény 500 000 tCO2(e)-nél nagyobb.
+## c)[^191] C kategóriájú létesítmény 500 000 tCO2(e)-nél nagyobb.
 
 ## B. A KIBOCSÁTÁSOK NYOMON KÖVETÉSÉVEL KAPCSOLATOS ADATOK ÉS MÓDSZEREK (Nyomon követési Terv – NykT)
 
@@ -38,21 +38,21 @@
 
 ## B.2 KIBOCSÁTÁSI FORRÁSANYAGOK
 
-## B.2.1[^183] A kibocsátó források forrásanyagainak megnevezése, a forrásanyagból eredő kibocsátás meghatározáshoz választott módszertan és ehhez kapcsolódó adatmeghatározási szintek megjelölése és leírása a tevékenységi adat, a fűtőérték (tüzelőanyagoknál), a kibocsátási tényezők, az oxidációs vagy konverziós tényezők vonatkozásában a (EU) 2018/2066 bizottsági végrehajtási rendelet iránymutatásai alapján.
+## B.2.1[^192] A kibocsátó források forrásanyagainak megnevezése, a forrásanyagból eredő kibocsátás meghatározáshoz választott módszertan és ehhez kapcsolódó adatmeghatározási szintek megjelölése és leírása a tevékenységi adat, a fűtőérték (tüzelőanyagoknál), a kibocsátási tényezők, az oxidációs vagy konverziós tényezők vonatkozásában a (EU) 2018/2066 bizottsági végrehajtási rendelet iránymutatásai alapján.
 
 ## B.2.2 Az egyes forrásanyagokra adott esetben a fűtőérték, a széntartalom, a kibocsátási tényezők, az oxidációs vagy konverziós tényezők és biomassza-hányad meghatározása céljából a tüzelőanyagból és más anyagokból történő mintavételi módszerek leírása.
 
 ## B.2.3 Az egyes forrásanyagok fűtőértékének, széntartalmának, kibocsátási tényezőjének, oxidációs tényezőjének, konverziós tényezőjének vagy biomassza-hányadának meghatározásához használni kívánt adatok forrása vagy analitikai módszerek leírása, megnevezve a külső MSZ EN ISO 17025:2005. szabvány szerint akkreditált laboratóriumot és akkreditációs számát.
 
-## B.2.4[^184] Annak megjelölése, hogy a forrásanyag fő vagy kisebb jelentőségű forrásanyag-e figyelembe véve a (EU) 2018/2066 bizottsági végrehajtási rendelet iránymutatásait.
+## B.2.4[^193] Annak megjelölése, hogy a forrásanyag fő vagy kisebb jelentőségű forrásanyag-e figyelembe véve a (EU) 2018/2066 bizottsági végrehajtási rendelet iránymutatásait.
 
-## B.2.5.[^185] A mennyiségi adatokat mérő mőrőberendezés mérési pontossága, és annak megjelölése, hogy rendelkezik-e a fővárosi és vármegyei kormányhivatal által mérésügyi és műszaki biztonsági feladatkörében eljárva, a 127/1991. Korm. rendelet szerint szükséges, érvényes visszavezetettségű mérőrendszerek hitelességét és kalibrációját igazoló érvényes hitelesítési és kalibrálási bizonyítványokkal.
+## B.2.5.[^194] A mennyiségi adatokat mérő mőrőberendezés mérési pontossága, és annak megjelölése, hogy rendelkezik-e a fővárosi és vármegyei kormányhivatal által mérésügyi és műszaki biztonsági feladatkörében eljárva, a 127/1991. Korm. rendelet szerint szükséges, érvényes visszavezetettségű mérőrendszerek hitelességét és kalibrációját igazoló érvényes hitelesítési és kalibrálási bizonyítványokkal.
 
 ## B.2.6 Amennyiben a kibocsátási számítása az anyagmérlegen alapuló megközelítéssel történik, akkor meg kell jelölni a létesítmény területére belépő összes karbontartalmú forrásanyagot, a létesítmény területéről kilépő összes karbontartalmú forrásanyagot, valamint létesítményben készletként megmaradó összes karbontartalmú forrásanyagot, valamint mindezek mennyiségének és karbontartalmának meghatározáshoz kiválasztott adatmeghatározási szinteket, módszereket.
 
 ## C. NYILATKOZAT A CO2 ÁTADÁSÁRA IRÁNYULÓ SZERZŐDÉS(EK)RŐL
 
-## D.[^186] KIVÉTELES ELJÁRÁS
+## D.[^195] KIVÉTELES ELJÁRÁS
 
 ## Akkor, ha az úgynevezett kivételes eljárást ((EU) 2018/2066 bizottsági végrehajtási rendelet 22. cikke) alkalmazzák: a kivételes eljárás elvének és a bizonytalansági elemzésnek átfogó leírása.
 
@@ -96,7 +96,7 @@
 
 ## F.2.6 Annak megjelölése, hogy az üzemeltető rendelkezik-e az 1221/2009/EK európai parlamenti és tanácsi rendelet szerinti, a környezetvédelmi vezetési és hitelesítési rendszerben (EMAS) részt vevő szervezetek nyilvántartásáról szóló 308/2010. (XII. 23.) Korm. rendeletnek megfelelően nyilvántartott környezetvédelmi és tanúsítási (EMAS), ISO 14001 környezetirányítási, ISO 9001 minőségirányítási, valamint egyéb minőségirányítási rendszerrel, továbbá ezek keretében a vállalt üvegházhatást okozó gázok kibocsátásának nyomon követésére és jelentésére vonatkozó eljárásokról és ellenőrzési elemekről.
 
-## F.2.7[^187] A (EU) 2018/2066 bizottsági végrehajtási rendeletben meghatározott egyéb adatok és dokumentumok.
+## F.2.7[^196] A (EU) 2018/2066 bizottsági végrehajtási rendeletben meghatározott egyéb adatok és dokumentumok.
 
 ## F.3. Csatolandó dokumentumok a C. pontban felsorolt adatokkal kapcsolatosan:
 
@@ -106,7 +106,7 @@
 
 ## Hulladékégetés esetén tüzelőanyagként vagy alap-, illetve segédanyagként használatos hulladékok típusát a hulladékok jegyzékéről szóló 16/2001. (VII. 18.) KöM rendeletben meghatározott Európai Hulladék Katalógus szerinti osztályozás (EWC kódszám) alkalmazásával is meg kell jelölni.
 
-2. melléklet a 410/2012. (XII. 28.) Korm. rendelethez[^188]
+2. melléklet a 410/2012. (XII. 28.) Korm. rendelethez[^197]
 
 A kibocsátási engedélyhez kötött tevékenységek és üvegházhatású gázok
 
@@ -272,12 +272,12 @@ A kibocsátási engedélyhez kötött tevékenységek és üvegházhatású gáz
 
 2.10. Üveggyártás (XIII): 2008. január 1-jétől az üveggyártást folytató létesítmény esetében a telephelyen az üvegtermékek előállításakor keletkező valamennyi tüzelési eredetű kibocsátást figyelembe kell venni.
 
-[^180]: Az 1. melléklet A.3.2. pontja a 131/2015. (V. 27.) Korm. rendelet 17. § (1) bekezdésével megállapított, a 394/2016. (XII. 5.) Korm. rendelet 19. § a) pontja, a 457/2017. (XII. 28.) Korm. rendelet 422. § f) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^181]: Az 1. melléklet A.3.3. pontja a 178/2016. (VII. 1.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^182]: Az 1. melléklet 4. pont c) alpontja a 329/2013. (IX. 3.) Korm. rendelet 23. § (1) bekezdése szerint módosított szöveg.
-[^183]: Az 1. melléklet B.2.1 pontja az 527/2020. (XI. 26.) Korm. rendelet 15. § 39. pontja szerint módosított szöveg.
-[^184]: Az 1. melléklet B.2.4 pontja az 527/2020. (XI. 26.) Korm. rendelet 15. § 39. pontja szerint módosított szöveg.
-[^185]: Az 1. melléklet B.2.5. pontja a 131/2015. (V. 27.) Korm. rendelet 17. § (1) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 150. §-a szerint módosított szöveg.
-[^186]: Az 1. melléklet D. pontja az 527/2020. (XI. 26.) Korm. rendelet 15. § 39. pontja szerint módosított szöveg.
-[^187]: Az 1. melléklet F.2.7 pontja az 527/2020. (XI. 26.) Korm. rendelet 15. § 40. pontja szerint módosított szöveg.
-[^188]: A 2. melléklet a 178/2016. (VII. 1.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 394/2016. (XII. 5.) Korm. rendelet 17. §-a és 18. § c) pontja, a 76/2019. (IV. 10.) Korm. rendelet 9. § b) pontja, a 199/2020. (V. 13.) Korm. rendelet 2. § e) pontja szerint módosított szöveg.
+[^189]: Az 1. melléklet A.3.2. pontja a 131/2015. (V. 27.) Korm. rendelet 17. § (1) bekezdésével megállapított, a 394/2016. (XII. 5.) Korm. rendelet 19. § a) pontja, a 457/2017. (XII. 28.) Korm. rendelet 422. § f) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^190]: Az 1. melléklet A.3.3. pontja a 178/2016. (VII. 1.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^191]: Az 1. melléklet 4. pont c) alpontja a 329/2013. (IX. 3.) Korm. rendelet 23. § (1) bekezdése szerint módosított szöveg.
+[^192]: Az 1. melléklet B.2.1 pontja az 527/2020. (XI. 26.) Korm. rendelet 15. § 39. pontja szerint módosított szöveg.
+[^193]: Az 1. melléklet B.2.4 pontja az 527/2020. (XI. 26.) Korm. rendelet 15. § 39. pontja szerint módosított szöveg.
+[^194]: Az 1. melléklet B.2.5. pontja a 131/2015. (V. 27.) Korm. rendelet 17. § (1) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 150. §-a szerint módosított szöveg.
+[^195]: Az 1. melléklet D. pontja az 527/2020. (XI. 26.) Korm. rendelet 15. § 39. pontja szerint módosított szöveg.
+[^196]: Az 1. melléklet F.2.7 pontja az 527/2020. (XI. 26.) Korm. rendelet 15. § 40. pontja szerint módosított szöveg.
+[^197]: A 2. melléklet a 178/2016. (VII. 1.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 394/2016. (XII. 5.) Korm. rendelet 17. §-a és 18. § c) pontja, a 76/2019. (IV. 10.) Korm. rendelet 9. § b) pontja, a 199/2020. (V. 13.) Korm. rendelet 2. § e) pontja szerint módosított szöveg.

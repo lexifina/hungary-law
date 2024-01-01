@@ -1,4 +1,4 @@
-8/A. §[^74] (1) A létesítményeknek a 2021–2025 közötti kiosztási időszakban évente térítésmentesen kiosztható kibocsátásiegység-mennyiséget a II. Nemzeti Végrehajtási Intézkedés tartalmazza. Ezt követően ötévenként újabb Nemzeti Végrehajtási Intézkedések kerülnek elfogadásra. Az üzemeltető a Nemzeti Végrehajtási Intézkedések alapjául szolgáló adatszolgáltatásait akkreditált hitelesítő által hitelesítetten, a hatóság honlapján közzétett módon, határidőben készíti el és nyújtja be a miniszter részére.
+8/A. §[^75] (1) A létesítményeknek a 2021–2025 közötti kiosztási időszakban évente térítésmentesen kiosztható kibocsátásiegység-mennyiséget a II. Nemzeti Végrehajtási Intézkedés tartalmazza. Ezt követően ötévenként újabb Nemzeti Végrehajtási Intézkedések kerülnek elfogadásra. Az üzemeltető a Nemzeti Végrehajtási Intézkedések alapjául szolgáló adatszolgáltatásait akkreditált hitelesítő által hitelesítetten, a hatóság honlapján közzétett módon, határidőben készíti el és nyújtja be a miniszter részére.
 
 (2) Ha az üzemeltető egy Nemzeti Végrehajtási Intézkedés alapjául szolgáló adatszolgáltatása keretében egyes berendezései tekintetében a 8/B. § (1) bekezdése szerinti mentesítést kéri, úgy a következő kiosztási időszakban a mentesített berendezés tekintetében nem osztható ki ingyenes kibocsátási egység, és a Nemzeti Végrehajtási Intézkedés alapjául szolgáló adatszolgáltatást erre tekintettel kell elkészíteni. Az adott időszakra vonatkozó Európai Bizottság által jóváhagyott nemzeti kiosztási tábla alapján az abban foglalt térítésmentes kibocsátási egységek éves mennyiségéről a hatóság az üzemeltetők részére határozatot készít.
 
@@ -12,4 +12,4 @@
 
 (7) A (6) bekezdésben foglaltakkal egyidejűleg a hatóság gondoskodik a 2003/87/EK európai parlamenti és tanácsi irányelv 27a. cikke szerinti, az Európai Bizottság felé történő benyújtási és közzétételi kötelezettségéről.
 
-[^74]: A 8/A. §-t az 527/2020. (XI. 26.) Korm. rendelet 8. §-a iktatta be.
+[^75]: A 8/A. §-t az 527/2020. (XI. 26.) Korm. rendelet 8. §-a iktatta be.
