@@ -20,7 +20,7 @@ A hulladékgazdálkodási terv és a megelőzési program előkészítése sorá
 
 8. a területileg illetékes települési, fővárosi kerületi önkormányzat jegyzőjét, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyzőt a településrendezési követelményeknek és a helyi építési szabályzatnak való megfelelés vonatkozásában,
 
-9. az Országos Meteorológiai Szolgálatot a meteorológiai szakkérdések vonatkozásában,
+9. a HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaságot a meteorológiai szakkérdések vonatkozásában,
 
 10. a vármegyei katasztrófavédelmi igazgatóságot, a Fővárosi Katasztrófavédelmi Igazgatóságot a tűz- és katasztrófavédelmi szakkérdések vonatkozásában,
 
@@ -42,4 +42,4 @@ g) fogyasztóvédelmi hatáskörében eljárva a fogyasztóvédelmi szakkérdés
 
 h) népegészségügyi hatáskörében eljárva a környezetbiztonsági és a közegészségügyi szakkérdések vonatkozásában.
 
-[^12]: Az 1. melléklet a 70/2015. (III. 30.) Korm. rendelet 228. § (2) bekezdésével megállapított, a 70/2016. (III. 31.) Korm. rendelet 3. § 4. pontja, a 259/2016. (VIII. 31.) Korm. rendelet 30. §-a, a 379/2016. (XII. 2.) Korm. rendelet 239. § (1) bekezdés e)–h) pontja, a 132/2018. (VII. 23.) Korm. rendelet 9. § (3) bekezdése, a 825/2021. (XII. 28.) Korm. rendelet 33. §-a, a 616/2022. (XII. 29.) Korm. rendelet 163. §-a szerint módosított szöveg.
+[^12]: Az 1. melléklet a 70/2015. (III. 30.) Korm. rendelet 228. § (2) bekezdésével megállapított, a 70/2016. (III. 31.) Korm. rendelet 3. § 4. pontja, a 259/2016. (VIII. 31.) Korm. rendelet 30. §-a, a 379/2016. (XII. 2.) Korm. rendelet 239. § (1) bekezdés e)–h) pontja, a 132/2018. (VII. 23.) Korm. rendelet 9. § (3) bekezdése, a 825/2021. (XII. 28.) Korm. rendelet 33. §-a, a 616/2022. (XII. 29.) Korm. rendelet 163. §-a, az 591/2023. (XII. 20.) Korm. rendelet 15. §-a szerint módosított szöveg.
