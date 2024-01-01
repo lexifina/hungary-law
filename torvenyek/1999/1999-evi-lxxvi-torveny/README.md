@@ -37,3 +37,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-76-00-00
 | 2021-01-01 | 2020. évi CLII. törvény | 1999-76-00-00.44 |
 | 2021-06-01 | 2021. évi XXXVII. törvény | 1999-76-00-00.45 |
 | 2023-01-01 | 2022. évi LV. törvény | 1999-76-00-00.46 |
+| 2024-01-01 | 2023. évi LII. törvény | 1999-76-00-00.47 |
