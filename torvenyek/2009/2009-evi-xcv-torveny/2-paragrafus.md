@@ -27,3 +27,5 @@ eb) több mint 24 órás fogyaszthatósági idő esetén a fogyaszthatósági id
 ec) 3 hónapos minőségmegőrzési idő esetén a minőségmegőrzési idő utolsó két hetében,
 
 ed) több, mint 3 hónapos minőségmegőrzési idő esetén – ide nem értve azon termékeket, amelyeken nem szükséges a minőségmegőrzési idő feltüntetése – a minőségmegőrzési idő utolsó négy hetében.
+
+f) romlandó mezőgazdasági és élelmiszeripari termék: olyan mezőgazdasági és élelmiszeripari termék, amely jellegénél fogva vagy az adott feldolgozottsági szakaszában a begyűjtést, az előállítást vagy a feldolgozást követően várhatóan 30 napon belül értékesítésre alkalmatlanná válik.

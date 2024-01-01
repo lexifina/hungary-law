@@ -62,9 +62,9 @@ r) a kereskedő által forgalmazott termékmennyiség alapján érvényesíthet�
 
 s) ha a kereskedő a részére szállított termék után a beszállító által fizetendő népegészségügyi termékadó összegét a h) pontban foglalt határidőn belül nem téríti meg a beszállító részére;
 
-t) a (2b) vagy a (2c) bekezdésben foglalt rendelkezés be nem tartása;
+t) a (2b) vagy a (2f) bekezdésben foglalt rendelkezés be nem tartása;
 
-u)
+u) a termék beszállítóinak kifejezett hozzájárulása nélkül összehasonlító reklám alkalmazása;
 
 x) ha a beszállítóval szemben a kereskedő a beszerzési árat a beszállító tiltakozása ellenére egyoldalúan csökkenti, vagy ha a beszerzési ár csökkentésére irányuló szerződésmódosítás érdekében a kereskedő a beszállítót a szerződéses kapcsolat megszüntetésével, terméke rendelésének lemondásával, a rendelésállomány csökkentésével, eladásösztönző tevékenységek – így különösen az akciók és promóciók – lemondásával vagy más, a beszállítónak anyagi vagy erkölcsi veszteséget okozó eszközzel fenyegeti.
 
@@ -74,7 +74,7 @@ x) ha a beszállítóval szemben a kereskedő a beszerzési árat a beszállít�
 
 (2c) A terméket terhelő – a (2) bekezdés e) pontjának ed) alpontja, valamint a (2) bekezdés r) pontja szerinti – adómérték összegéről a beszállító tájékoztatja a kereskedőt.
 
-(2c) Amennyiben a (2) bekezdés h) pontjában meghatározott határidőn belül a fizetési teljesítésre nem kerül sor, a kereskedő a jegybanki alapkamat kétszeresével növelt kamat megfizetésére köteles. A szerződésnek tartalmaznia kell a kereskedő részéről a termék ellenértékére, valamint annak a jegybanki alapkamat kétszeresével növelt kamatára vonatkozó, a pénzforgalmi szolgáltatónak adott beszedési megbízás teljesítésére vonatkozó hozzájárulást, felhatalmazó nyilatkozatot, arra az esetre, ha a (2) bekezdés h) pontjában meghatározott határidőn belül a fizetési teljesítésre nem kerül sor.
+(2c)
 
 (2d) A (2) bekezdés x) pontjának alkalmazása során a kereskedő köteles igazolni, hogy a beszerzési ár csökkentésére nem a (2) bekezdés x) pontja szerinti módon került sor, ha az eljárás megindítására a beszállító bejelentése alapján került sor, és
 
@@ -87,6 +87,10 @@ c) a beszállító éves árbevétele meghaladja az 5 milliárd forintot, de nem
 d) a beszállító éves árbevétele meghaladja a 75 milliárd forintot, és a kereskedő árbevétele meghaladja a 200 milliárd forintot.
 
 (2e) A (2) bekezdés x) pontjának alkalmazása során az utolsó lezárt év szerinti árbevételt kell figyelembe venni azzal, hogy az Szt. szerint kapcsolt vállalkozási viszonyban álló beszállítók vagy kereskedők, továbbá közös beszerzés esetén a közös beszerzési szövetséget vagy ügyleti társulást alkotó, vagy a kereskedelmi szerződést közösen megkötő kereskedők árbevételét egybe kell számítani.
+
+(2f) Ha a (2) bekezdés h) pontjában meghatározott határidőn belül a fizetési teljesítésre nem kerül sor, a kereskedő a jegybanki alapkamat kétszeresével növelt kamat megfizetésére köteles. A szerződésnek tartalmaznia kell a kereskedő részéről a termék ellenértékére, valamint annak a jegybanki alapkamat kétszeresével növelt kamatára vonatkozó, a pénzforgalmi szolgáltatónak adott beszedési megbízás teljesítésére vonatkozó hozzájárulást, felhatalmazó nyilatkozatot, arra az esetre, ha a (2) bekezdés h) pontjában meghatározott határidőn belül a fizetési teljesítésre nem kerül sor.
+
+(2g) A (2) bekezdés m) pontja alkalmazásában nem minősül ésszerű határidőnek, ha romlandó mezőgazdasági és élelmiszeripari termék esetében a kereskedő a megrendelését a tervezett szállítást megelőző 30 napon belül mondja le.
 
 (3) A tisztességtelen forgalmazói magatartást tartalmazó, illetve az e törvényben szereplő tilalom megkerülésére irányuló szerződési kitétel semmis. Az (5) bekezdés szerinti üzletszabályzat nyilvánosságra hozatalának elmulasztása önmagában nem eredményezi az abban foglalt kitétel semmisségét.
 
