@@ -4,7 +4,7 @@ a) az egyes kereskedelmi építmények vonatkozásában a fenntarthatósági sze
 
 b) a rozsdaövezeti akcióterületekkel kapcsolatos ügyekért,
 
-c) az ingatlan-nyilvántartásért,
+c) a kormányzati stratégiák kidolgozásának támogatásáért,
 
 d) a kereskedelemért,
 

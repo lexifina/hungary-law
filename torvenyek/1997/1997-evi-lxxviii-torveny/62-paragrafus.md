@@ -277,3 +277,5 @@ szóló szabályokat,
 a) a fővárosi kerületi önkormányzat, hogy 2014. június 30-ig a fővárosi településszerkezeti terv területfelhasználásnak megfelelő egyéb alkalmazható keretövezetnek megfelelő építési övezetet, övezetet állapítson meg,
 
 b) a fővárosi önkormányzat, hogy 2014. június 30-ig, amennyiben a keretövezet változtatása szükséges, a fővárosi szabályozási kerettervet módosítsa.
+
+(9) Felhatalmazást kap a települési önkormányzat – a fővárosban kerületi önkormányzat –, hogy a (6) bekezdés 6. pontja szerinti helyi építési szabályzatban kijelölje a 19. § (6) bekezdése szerinti magasépítmények telepítésére alkalmas övezeteket és telkeket.
