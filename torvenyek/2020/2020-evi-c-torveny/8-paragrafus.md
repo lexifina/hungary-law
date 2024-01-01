@@ -66,6 +66,8 @@ m) e törvény hatálya alá nem tartozó magyarországi vagy külföldi egészs
 
 n) a honvédek jogállásáról szóló törvény szerinti hivatásos vagy szerződéses szolgálati viszonyban
 
+o) a pedagógusok új életpályájáról szóló törvény hatálya alá tartozó szervnél köznevelési foglalkoztatotti jogviszonyban, munkaviszonyban
+
 töltött időt.
 
 (9a) A (9) bekezdésben foglaltakon túl egészségügyi szolgálati jogviszonyban töltött időnek kell tekinteni

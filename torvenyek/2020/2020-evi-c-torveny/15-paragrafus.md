@@ -21,3 +21,5 @@
 (10) Az e törvény hatálya alá tartozó egészségügyi szolgáltatónál kollektív szerződés nem köthető.
 
 (11) Az állami fenntartású egészségügyi szolgáltatónál a Kormány és az érintett szakszervezetek megállapodásában rögzített sajátos szabályok mellett gyakorolható a sztrájk joga.
+
+(12) A munkavállalói érdekképviseleti tagdíjfizetés önkéntességéről szóló 1991. évi XXIX. törvénytől eltérően az állami fenntartású egészségügyi szolgáltató az egészségügyi szolgálati jogviszonyban álló személyek illetményéből szakszervezeti vagy egyéb érdekképviseleti tagdíjat nem vonhat le és nem utalhat tovább.

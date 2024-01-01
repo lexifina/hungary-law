@@ -18,7 +18,7 @@ g) az egészségügyi szolgálati jogviszonyban álló személy részére a munk
 
 h) az egészségügyi szolgáltatónál egészségügyi szolgálati jogviszonyban álló személy tekintetében
 
-ha) az egészségügyi szolgálati jogviszony létesítésénél a tizennyolcadik életév betöltésének, valamint a magyar állampolgársággal, a szabad mozgás és tartózkodás jogával rendelkezésnek, illetve bevándorolt vagy letelepedett státusz feltétele alóli mentesítést, illetve a magyar állampolgárság feltételét,
+ha) az egészségügyi szolgálati jogviszony létesítésénél a tizennyolcadik életév betöltésének, valamint a magyar állampolgársággal, a szabad mozgás és tartózkodás jogával rendelkezésnek, illetve a huzamos tartózkodási jogosultsággal való rendelkezésnek a feltétele alóli mentesítést, illetve a magyar állampolgárság feltételét,
 
 hb) a magasabb vezető, valamint a vezető megbízás körét, továbbá ezek e törvényben meghatározottakon túlmenő feltételeit,
 

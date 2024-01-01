@@ -23,3 +23,5 @@ c) a szabadságvesztés, a közérdekű munka tartamát.
 a) amennyiben végkielégítés illeti meg, egyhavi végkielégítésre jogosult, és a részére kifizetett végkielégítés összegének az egyhavi mértéken felüli részét az új jogviszony létesítésétől számított 30 napon belül a korábban őt foglalkoztató munkáltató részére köteles visszafizetni,
 
 b) új jogviszonyában a végkielégítés alapjául szolgáló időszak számítása során a korábbi jogviszony alapján végkielégítésre jogosító idejét három év jogviszonyban töltött idővel csökkentett mértékben figyelembe kell venni.
+
+(5) Nem jogosult végkielégítésre az egészségügyi szolgálati jogviszonyban álló személy, ha egészségügyi szolgálati jogviszonyának megszüntetésére a 12. § (6) bekezdése alapján kerül sor.
