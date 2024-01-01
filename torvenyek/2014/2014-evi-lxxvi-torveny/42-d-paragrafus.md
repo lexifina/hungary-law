@@ -1,33 +1,37 @@
 42/D. § (1)
 
-(2) Az MKH Titkárság tevékenységét – a szervezeti és működési szabályzatban foglaltak szerint – az elnök irányítja.
+(2) A HUN-REN Központ tevékenységét – a szervezeti és működési szabályzatban foglaltak szerint – az elnök irányítja.
 
 (3) Az elnök
 
-a) az MKH mint központi költségvetési fejezet tekintetében a fejezetet irányító szerv vezetője;
+a) a HUN-REN mint központi költségvetési fejezet tekintetében a fejezetet irányító szerv vezetője;
 
-b) kétévente az Országgyűlésnek, évente a Kormánynak beszámol az MKH működésének eredményeiről;
+b) kétévente az Országgyűlésnek, évente a Kormánynak beszámol a HUN-REN működésének eredményeiről;
 
-c) az MKH Titkárság vagyona tekintetében gyakorolja a tulajdonosi jogokat;
+c) a HUN-REN Központ vagyona tekintetében gyakorolja a tulajdonosi jogokat;
 
-d) képviseli az MKH Titkárságot;
+d) képviseli a HUN-REN Központot;
 
 e) munkáltatói jogot gyakorol
 
-ea) a főtitkár,
+ea) a vezérigazgató,
 
-eb) a főtitkárhelyettes
+eb)
 
 ec) a kutatóhelyek vezetői
 
 felett;
 
-f) a főtitkár útján gondoskodik az Irányító Testület döntéseinek végrehajtásáról,
+f) a vezérigazgató útján gondoskodik az Irányító Testület döntéseinek végrehajtásáról,
 
 g) ellátja az alapító okirat által hatáskörébe utalt további feladatokat.
 
-h) meghatározza a főtitkári és a főtitkárhelyettesi munkakör betöltését szolgáló nyilvános pályázati felhívás tartalmát; a nyilvános pályázati eljárás eredményére tekintettel kinevezi a főtitkárt és a főtitkárhelyettest;
+h)
 
-i) dönt az MKH Titkárság szabályzatairól.
+i) dönt a HUN-REN Központ szabályzatairól.
 
-(4) Az elnököt – akadályoztatása esetén – a főtitkár helyettesíti, egyebekben az elnök a (3) bekezdés c)–e) pontjában foglalt jogköreit vagy azok meghatározott részét a főtitkárra ruházhatja, aki ezt a jogát nem ruházhatja át.
+j) az igazgatási tevékenység ellátására valamennyi kutatóhelyre kiterjedő komplex szervezet- és vállalatirányítási rendszert működtet; valamint
+
+k) a kutatóhelyeken végzett kutatások hatékonyságmérése és -fejlesztése, a kutatási tevékenység minőségbiztosítása, a szolgáltató jelleg erősítése és átláthatóságának biztosítása céljából kutatási adatbázist hoz létre, amelynek részeként a kutatási adatokat – beleértve a kutatóhelyeken foglalkoztatottak személyes adatait – tartalmazó kutatási nyilvántartást vezet.
+
+(4) Az elnököt – akadályoztatása esetén – a vezérigazgató helyettesíti, egyebekben az elnök a (3) bekezdés c) és d) pontjában, e) pont ec) alpontjában, valamint j) és k) pontjában foglalt jogköreit vagy azok meghatározott részét a vezérigazgatóra ruházhatja, aki ezt a jogát nem ruházhatja át.

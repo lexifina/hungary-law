@@ -30,3 +30,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-76-00-00
 | 2023-08-14 | 2023. évi LIX. törvény | 2014-76-00-00.25 |
 | 2023-09-01 | 2023. évi XLI. törvény | 2014-76-00-00.23 |
 | 2023-12-21 | 2023. évi LXXXV. törvény | 2014-76-00-00.26 |
+| 2024-01-01 | 2023. évi LXXXV. törvény | 2014-76-00-00.24 |

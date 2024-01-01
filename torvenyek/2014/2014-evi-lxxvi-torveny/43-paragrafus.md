@@ -14,7 +14,7 @@ c) a hazai közfinanszírozású támogatással megvalósuló kutatás-fejleszt�
 
 d) a harmadik országbeli kutatókat fogadó kutatószervezetek akkreditációját, valamint a kutatási megállapodásra vonatkozó követelményeket,
 
-e)
+e) a technológia transzfer tevékenységgel összefüggő részletes szabályokat,
 
 f) a Magyar Formatervezési Tanács feladatainak, szervezetének és működésének részletes szabályait,
 

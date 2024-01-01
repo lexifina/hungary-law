@@ -4,7 +4,7 @@
 
 ## 1. A törvény hatálya
 
-1. § (1) E törvény hatálya a Magyarországon, közfinanszírozású támogatásból megvalósuló kutatás-fejlesztésre és innovációra, valamint az ezekhez kapcsolódóan Magyarországon nyújtott szolgáltatásokra terjed ki.
+1. § (1) E törvény hatálya a Magyarországon közfinanszírozású támogatásból megvalósuló kutatás-fejlesztésre és innovációra, az innovációs ökoszisztéma fejlesztésére, valamint az ezekhez kapcsolódóan Magyarországon nyújtott szolgáltatásokra terjed ki.
 
 (2) E törvény hatálya kiterjed továbbá
 
