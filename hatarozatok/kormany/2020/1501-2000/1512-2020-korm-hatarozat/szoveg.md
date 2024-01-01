@@ -8,11 +8,7 @@ A Kormány
 
 4. a Beruházásnak az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet 4. § c) és p) pontja szerinti előkészítési fázisaira a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 223 922 734 forintban határozza meg azzal, hogy az előkészítési fázisokat legkésőbb 2021. december 31. napjáig kell megvalósítani;
 
-5. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XLV. Kiemelt kormányzati magasépítési beruházások fejezet, 1. Egyedi magasépítési beruházások címnek a 26. Kiskörei Vízerőmű környezete turisztikai és sportcélú fejlesztésének előkészítése alcímmel történő kiegészítését;
-
-Felelős: pénzügyminiszter
-
-Határidő: azonnal
+5.[^1]
 
 6. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy gondoskodjon a 4. pont szerinti összeg 2020. évi részének rendelkezésre állásáról az 5. pont szerinti előirányzaton;
 
@@ -37,3 +33,5 @@ Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 aktív Magyarországért felelős kormánybiztos
 
 Határidő: a feltételes közbeszerzési eljárást követően, azonnal
+
+[^1]: Az 5. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
