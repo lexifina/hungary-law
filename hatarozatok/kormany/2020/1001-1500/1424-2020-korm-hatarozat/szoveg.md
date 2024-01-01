@@ -8,14 +8,12 @@ Felelős: innovációért és technológiáért felelős miniszter
 
 Határidő: 2020. augusztus 31.
 
-3. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 64. Belgazdasági feladatok alcím, 9. Az egészségipari ágazat technológiai korszerűsítésére irányuló támogatás jogcímcsoporttal történő kiegészítését;
-
-Felelős: pénzügyminiszter
-
-Határidő: azonnal
+3.[^1]
 
 4. felhívja a pénzügyminisztert, hogy az 1. pont szerinti fejlesztési elképzelések megvalósításának érdekében gondoskodjon 35 000 000 000 forint többletforrás biztosításáról a Kvtv. 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 64. Belgazdasági feladatok alcím, 9. Az egészségipari ágazat technológiai korszerűsítésére irányuló támogatás jogcímcsoport javára.
 
 Felelős: pénzügyminiszter
 
 Határidő: azonnal
+
+[^1]: A 3. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
