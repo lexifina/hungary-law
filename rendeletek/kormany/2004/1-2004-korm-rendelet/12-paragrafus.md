@@ -1,1 +1,0 @@
-## Operatív program irányító hatóság
