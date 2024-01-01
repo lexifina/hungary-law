@@ -1,5 +1,3 @@
-## 5. § Ez a rendelet a kihirdetését követő napon lép hatályba.
-
 1. melléklet a 226/2022. (VI. 28.) Korm. rendelethez
 
 1. Az 1. § (1) bekezdés b) pontjában foglalt szakképesítésként fogadható el a szakirányú felsőfokú végzettség, ennek keretében

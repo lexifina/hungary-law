@@ -6,7 +6,11 @@ b) a harmadik országok állampolgárai jogszabályszerű foglalkoztatásának t
 
 c) az e rendelet által előírt vagyoni biztosíték letétbe helyezését igazolja,
 
-d) a kérelem benyújtását megelőző üzleti évre vonatkozóan az éves átlagos statisztikai létszáma legalább 500 fő,
+d)[^1] a kérelem benyújtását megelőző 12 hónapra vonatkozóan
+
+da) a munkavállalók éves átlagos statisztikai állományi létszáma legalább 1000 fő, és
+
+db) a munkavállalók éves átlagos statisztikai állományi létszámából legalább 500 fő magyar állampolgárságú foglalkoztatott,
 
 e) megbízható üzleti háttérrel rendelkezik, és
 
@@ -27,3 +31,8 @@ c) akivel szemben nemzetbiztonsági kockázat nem állapítható meg.
 (5) Az Alkotmányvédelmi Hivatal az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló 531/2017. (XII. 29.) Korm. rendelet 1. melléklet 19. „Egyéb ügyek” táblázat 67. sora szerinti nyilvántartásba vételre irányuló eljáráson túl, felülvizsgálati eljárásban a foglalkoztató működése alatt bármikor vizsgálhatja, hogy a foglalkoztató működése körében nemzetbiztonsági kockázat megállapítható-e. Amennyiben felülvizsgálati eljárás során az Alkotmányvédelmi Hivatal nemzetbiztonsági kockázat fennállását állapítja meg a foglalkoztatóval szemben, értesíti a kormányhivatalt.
 
 (6) A minősített kölcsönbeadó legkorábban csak a törlést elrendelő határozat véglegessé válását követő két év elteltével vehető újra nyilvántartásba. Amennyiben a törlést az Alkotmányvédelmi Hivatal szakhatósági állásfoglalása alapján rendelték el és a felülvizsgálati eljárás eredményeképpen megállapítást nyer, hogy a nemzetbiztonsági kockázat már nem áll fenn, úgy a foglalkoztató a két év elteltét megelőzően is ismételten nyilvántartásba vehető.
+
+(7)[^2] A minősített kölcsönbeadó köteles az (1) bekezdés szerinti nyilvántartásba vételt követő létszámbővítését – naptári évenként összeszámítva – oly módon végrehajtani, hogy a foglalkoztatotti állományába kerülő munkavállalók 30 százaléka magyar állampolgár, illetve Magyarországgal szomszédos országból származó harmadik országbeli állampolgár legyen.
+
+[^1]: Az 1. § (1) bekezdés d) pontja a 688/2023. (XII. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (7) bekezdését a 688/2023. (XII. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.
