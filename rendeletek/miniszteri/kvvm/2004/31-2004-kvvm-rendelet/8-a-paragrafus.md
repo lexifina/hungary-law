@@ -1,10 +1,10 @@
-## 8. §[^13] A felszíni víztestek megfigyelése érdekében feltáró, operatív, illetve vizsgálati monitorozó programokat kell kialakítani.
+## 8. §[^22] A felszíni víztestek megfigyelése érdekében feltáró, operatív, illetve vizsgálati monitorozó programokat kell kialakítani.
 
-8/A. §[^14] (1) A feltáró monitorozó program célja a víztestek állapotának jellemzése, a hatásvizsgálat kiegészítése, információk gyűjtése az egyéb monitorozó programok tervezéséhez, a természeti viszonyokból és emberi tevékenységből származó hosszú távú változások értékelése. Feltáró monitorozást a 4. számú mellékletben meghatározott paraméterekre és az előírt mérési gyakorisággal kell folytatni.
+8/A. §[^23] (1) A feltáró monitorozó program célja a víztestek állapotának jellemzése, a hatásvizsgálat kiegészítése, információk gyűjtése az egyéb monitorozó programok tervezéséhez, a természeti viszonyokból és emberi tevékenységből származó hosszú távú változások értékelése. Feltáró monitorozást a 4. számú mellékletben meghatározott paraméterekre és az előírt mérési gyakorisággal kell folytatni.
 
-(2) A feltáró monitoring rendszer megfigyelési pontjait úgy kell megválasztani, hogy az ország felszíni vízkészletét alkotó víztestek, víztest-csoportok állapotának vizsgálatához összességében elegendő mennyiségű megfigyelési adat álljon rendelkezésre.
+(2)[^24] A feltáró monitoring rendszer megfigyelési pontjait úgy kell megválasztani, hogy az ország felszíni vízkészletét alkotó víztestek, víztest-csoportok állapotának vizsgálatához összességében elegendő mennyiségű megfigyelési adat álljon rendelkezésre. A feltáró monitoring helyek listáját a vízgyűjtő-gazdálkodás egyes szabályairól szóló kormányrendelet 21. § (2) bekezdése szerinti, hatévente korszerűsített és elfogadott vízgyűjtő-gazdálkodási tervben kell rögzíteni.
 
-(3) A tervezési alegység vízgyűjtő területén, illetőleg a részvízgyűjtőn – a 6. számú mellékletében felsorolt – megfigyelési helyek kijelölése a következőkön alapul:
+(3)[^25] A tervezési alegység vízgyűjtő területén, illetőleg a részvízgyűjtőn megfigyelési helyek kijelölése a következőkön alapul:
 
 a) a vízhozam a vízgyűjtő terület egészén belül jelentősnek tekinthető, ideértve a nagy folyókon kijelölt mintavételi helyeket, amikor a vízgyűjtő nagyobb, mint 2500 km2,
 
@@ -34,5 +34,7 @@ e) az egyéb vízgyűjtőbe vagy részvízgyűjtőbe jelentős mennyiségben bev
 
 (5) Amennyiben a feltáró megfigyelés eredménye alapján megállapítható, hogy a vizsgált víztest elérte a jó állapotot, és a vízgyűjtő-gazdálkodási terv készítése során végzett, a víztestet érő terhelések vizsgálata szerint nem feltételezhető a későbbiekben a terhelések és azok hatásainak változása, úgy a feltáró megfigyelést a továbbiakban elegendő minden harmadik vízgyűjtő-gazdálkodási terv időszakában elvégezni.
 
-[^13]: A 8. § a 34/2008. (XII. 31.) KvVM rendelet 3. §-ával megállapított szöveg.
-[^14]: A 8/A. §-t a 34/2008. (XII. 31.) KvVM rendelet 3. §-a iktatta be.
+[^22]: A 8. § a 34/2008. (XII. 31.) KvVM rendelet 3. §-ával megállapított szöveg.
+[^23]: A 8/A. §-t a 34/2008. (XII. 31.) KvVM rendelet 3. §-a iktatta be.
+[^24]: A 8/A. § (2) bekezdése a 103/2023. (XII. 29.) BM rendelet 5. §-ával megállapított szöveg.
+[^25]: A 8/A. § (3) bekezdés nyitó szövegrésze a 103/2023. (XII. 29.) BM rendelet 9. § c) pontja szerint módosított szöveg.

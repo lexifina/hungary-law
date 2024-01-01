@@ -1,72 +1,65 @@
-## Természetes állóvizek típusbesorolása
+## Állóvizek típusai
 
-|  | Típus | állóvíz (73 db) |
+|  | A | B | C | D | E | F |
 
-| 1 | Szerves – kis területű – sekély – benőtt vízfelületű – időszakos | (1 db) Péteri-tó |
+| 1. | Típus kód | Méret (felület) | Tengerszint feletti magasság | Geokémiai jelleg | Vízmélység | Vízborítás |
 
-| 2 | Szerves – kis területű – sekély – benőtt vízfelületű – állandó | (3 db) Egyeki-Holt-Tisza, Tiszacsegei Holt-Tisza, Kolon-tó |
+| 2. | 1 | 500 km2< | síkvidéki | meszes | átlag 3,5 m | állandó |
 
-| 3 | Szerves – kis területű – sekély – nyílt vízfelületű – állandó | (1 db) Belső-Béda holtág |
+| 3. | 2 | 10 - 75 km2 | síkvidéki | szikes | 1 - 1,5 m | állandó |
 
-| 4 | Szikes – kis területű – sekély – benőtt vízfelületű – időszakos | (7 db) Bába-szék, Észak-Böddi, Kis-rét, Sárszentágotai-sóstó, Nagyvadas-tó, Kisteleki Müller-szék, Lódri-tó |
+| 4. | 3 | 0,5 - 7 km2 | síkvidéki | szikes | 0,3 - 0,7 m | időszakos |
 
-| 5 | Szikes – kis területű – sekély – nyílt vízfelületű – időszakos | (7 db) Böddi-szék, Csikóspusztai-tó, Szabadszállási Büdös-szék, Zabszék, Pusztaszeri Büdösszék, Kelemenszék, Kardoskúti Fehér-tó |
+| 5. | 4 | 0,5 -1,5 km2 | síkvidéki | szikes | 1 - 2,5 m | állandó |
 
-| 6 | Szikes – kis területű – sekély – benőtt vízfelületű – állandó | (1 db) Velencei-tó nádas-lápi terület |
+| 6. | 5 (természetes tó, holtág) | 0,5 - 10 km2 | síkvidéki | meszes vagy szerves (mederanyag: tőzeg) | 0,5 - 5 m | állandó |
 
-| 7 | Szikes – kis területű – sekély – nyílt vízfelületű – állandó | (6 db) Szelidi-tó, Harangzugi Holt-Körös, Madarász-tó, Ősze-szék, Nagy-Széksóstó, Kanyari Holt-Tisza |
+| 7. | 5 (tározó) | 0,5 - 120 | síkvidéki | meszes vagy szerves | 1 - 4 m | állandó |
 
-| 8 | Szikes – közepes területű – sekély – nyílt vízfelületű – állandó | (1 db) Velencei-tó nyílt vizes terület |
+| 8. | 5 (bányató) | 0,5 - 5 | síkvidéki | meszes vagy szerves | 1 - 3 m | állandó |
 
-| 9 | Szikes – nagy területű – sekély – nyílt vízfelületű – állandó | (1 db) Fertő-tó |
+| 9. | 6 | 0,5 - 5 km2 | síkvidéki és dombvidéki | meszes | 4 - 18 m | állandó |
 
-| 10 | Meszes – kis területű – sekély – benőtt vízfelületű – időszakos | (1 db) Énekes-ér |
+| 10. | 7 | 0,1 - 2 km2 | síkvidéki és dombvidéki | meszes | 5 - 9 m | állandó |
 
-| 11 | Meszes – kis területű – sekély – nyílt vízfelületű – időszakos | (1 db) Nádas-tó |
+| 11. | 8 | 0,5 - 20 km2 | dombvidéki és síkvidéki | meszes | 0,5 - 3 m | időszakos |
 
-| 12 | Meszes – kis területű – sekély – benőtt vízfelületű – állandó | (8 db) Kadia Ó-Duna, Kelebiai-tavak, Kengyel-tó, Lipóti-morotvató, Montaj-tó, Pélyi-tó, Felső-Morotva, Szarvas-tó |
+## Állóvizek tipizálási szempontjai és paraméterei
 
-| 13 | Meszes – kis területű – sekély – nyílt vízfelületű – állandó | (25 db) Riha-tó, Keleti-holtág, Nagybaracskai Holt-Duna, Vadkerti-tó (Nagy-Büdös-tó), Vidre-éri tavak, Tiszakécskei Holt-Tisza, Faddi Holt-Duna, Tolnai Déli Holt-Duna, Tolnai Északi Holt-Duna, Szamossályi-Holt-Szamos, Tunyogmatolcsi-Holt-Szamos, Cibakházi Holt-Tisza, Fegyverneki Holt-Tisza, Gyova-Mámai Holt-Tisza, Halásztelek-Túrtő-Harcsás Holt-Körös, Szajoli Holt-Tisza, Kiskunhalasi Sós-tó, Félhalmi-holtágrendszer, Szarvas-Békésszentandrási holtágrendszer, Peresi holtágrendszer, Serházzugi Holt-Tisza, Tiszaugi Holt-Tisza, Nagyfai-holtág, Cserőközi Holt-Tisza, Bogyiszlói Holt-Duna |
+|  | A | B | C |
 
-| 14 | Meszes – kis területű – közepes mélységű – nyílt vízfelületű – állandó | (5 db) Atkai Holt-Tisza, Tiszadobi Holt-Tisza, Alcsi Holt-Tisza, Gyálai Holt-Tisza, Tiszaluci Holt-Tisza |
+| 1. | Szempont | Kategória | Értéktartomány |
 
-| 15 | Meszes – közepes területű – sekély – nyílt vízfelületű – állandó | (4 db) Tisza-tó: Tiszavalki-medence, Tisza-tó: Poroszlói-medence, Tisza-tó: Sarudi-medence, Csaj-tó |
+| 2. | Méret (felület) | kicsi | 0,5 – 1 km2 |
 
-| 16 | Meszes – nagy területű – közepes mélységű – nyílt vízfelületű – állandó | (1 db) Balaton |
+| közepes | 1 – 10 km2 |
 
-## Természetes állóvizek tipizálási szempontjai[^*]
+| nagy | 10 – 100 km2 |
 
-| Szempont | Kategória | Értéktartomány | 73 db |
+| nagyon nagy | 100 km2 < |
 
-| Felület kiterjedése | kis területű | <10 km2 | 66 |
+| 3. | Átlagmélység | nagyon sekély | <1 m |
 
-|  | közepes területű | 10–100 km2 | 5 |
+| sekély | 1 – 3 m |
 
-|  | nagy területű | >100 km2 | 2 |
+| közepes mélységű | 3 – 5 m |
 
-| Átlagmélység | sekély (nem rétegződő) | <3 m | 67 |
+| mély | 5 m < |
 
-|  | közepes mélységű (rétegződő átmeneti) | 3–7 m | 6 |
+| 4. | Tengerszint feletti magasság | síkvidéki | 200 mBf alatt (80-190 mBf között) |
 
-|  | mély (rétegződő) | >7 m | 0 |
+| dombvidéki | 120 mBf felett (128-541 mBf között) |
 
-| Tszf. magasság | síkvidéki | <200 mBf | 73 |
+| 5. | Geokémiai jelleg | meszes | mederanyag karbonátos, vagy törmelékes üledékes kőzet pH: 7,5 – 8,7 |
 
-| Hidrogeokémiai jelleg | szerves | – | 5 |
+| szikes | jelentős só és nátrium-hidrogénkarbonát tartalom vezetőképesség: 1500 µS/cm <, nátrium: 250 mg/l < |
 
-|  | szikes | – | 23 |
+| szerves | tőzeg anyagú meder, huminsavas víz |
 
-|  | meszes | – | 45 |
+| 6. | Vízborítás | állandó | nem időszakos |
 
-| Nyílt vízfelület aránya | nyílt vízfelületű | nyílt vízfelület | 52 |
+| időszakos | legalább 5 évente egyszer kiszárad |
 
-|  | benőtt vízfelületű | nyílt vízfelület | 21 |
+6. számú melléklet a 31/2004. (XII. 30.) KvVM rendelethez[^45]
 
-| Vízborítás | időszakos | – | 17 |
-
-|  | állandó | – | 56 |
-
-6. számú melléklet a 31/2004. (XII. 30.) KvVM rendelethez[^27]
-
-[^*]: A tótipológia szempontjából időszakosnak tekinthetők az évente legalább egyszer kiszáradó asztatikus, illetve a hazai felmérési adatok alapján az ötévente legalább egyszer kiszáradó szemisztatikus állóvizek.
-[^27]: A 6. számú mellékletet a 34/2008. (XII. 31.) KvVM rendelet 5. § (3) bekezdése iktatta be.
+[^45]: A 6. számú mellékletet a 34/2008. (XII. 31.) KvVM rendelet 5. § (3) bekezdése iktatta be, a 103/2023. (XII. 29.) BM rendelet 9. § e) pontja hatályon kívül helyezte.

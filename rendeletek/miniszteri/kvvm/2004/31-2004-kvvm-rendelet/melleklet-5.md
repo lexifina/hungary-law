@@ -1,6 +1,4 @@
-## A Víz Keretirányelv monitoring felszíni vizes alrendszerei, vizsgált paraméterek listája, mérési gyakoriság
-
-## I. Feltáró monitoring (surveillance) programok:
+## I. Feltáró monitoring (surveillance) programok:
 
 ## Állóvizekre vonatkozó program kódja: HUSWPS_1LW
 
@@ -8,103 +6,91 @@
 
 ## Az egyes alprogramok keretében vizsgált mintavételi helyek száma, illetve vizsgálandó paraméterek és gyakoriságok az alábbiak:
 
-## 1. Állóvizek
+## 1. Állóvizek
 
 ## (HUSWPS_1LW alprogram)
 
 ## Vizsgálandó minőségi elemek:
 
-| Minőségi elem | Gyakoriság (éven belül) | 6 éves cikluson belül |
+|  | A | B | C |
 
-| Fitoplankton | 6 | Évente |
+| 1. | Minőségi elem | Gyakoriság (éven belül) | 6 éves cikluson belül |
 
-| Makrofita | 1 | Évente |
+| 2. | Fitoplankton | 4 | Évente |
 
-| Fitobenton | 2 | Évente |
+| 3. | Makrofita | 1 | Évente |
 
-| Makrozoobenton | 1 | Évente |
+| 4. | Fitobenton | 2 | Évente |
 
-| Halak | 1 | 6 év alatt 1× |
+| 5. | Makrozoobenton | 1 | Évente |
 
-| Hidrológia | 365 | Évente |
+| 6. | Halak | 1 | 3 év alatt 1× |
 
-| Morfológia | 1 | 6 év alatt 1× |
+| 7. | Hidrológia | 365 | Évente |
 
-| Ökológiát támogató kémia |  |  |
+| 8. | Morfológia | 1 | 6 év alatt 1× |
 
-| „alapkémia” | 12 | Évente |
+| 9. | Ökológiát támogató kémia „alapkémia” | 12 | Évente |
 
-| Elsőbbségi anyagok |  |  |
+| 10. | Elsőbbségi anyagok (a vízgyűjtő-gazdálkodás egyes szabályairól szóló kormányrendelet 1. sz. melléklet, E. pontja) | 12 | 6 év alatt 2× |
 
-| (2000/60/EK X. melléklet) | 12 | 6 év alatt 1× |
+| 11. | Egyéb veszélyes anyagok | 12 | 6 év alatt 2× |
 
-| Egyéb veszélyes anyagok | 12 | 6 év alatt 1× |
+| 12. | Vízgyűjtő specifikus szennyező anyagok | 12 | 6 év alatt 2× |
 
-## Kivételek: A referencia helyeken a fitoplankton 9×, a fitobenton 2×, a makrofita 2×, a makrozoobenton 3× vizsgálandó évente. Az egyéb veszélyes anyagokból és az elsőbbségi anyagokból csak a természetes eredetű fémek (Hg, Cd, Pb, Cu, Zn, Cr, As és Ni) vizsgálatára kell, hogy sor kerüljön. A referencia helyek 6 évente 1× lesznek monitorozva.
-
-## 2. Vízfolyások
+## 2. Vízfolyások
 
 ## (HUSWPSW_1RW alprogram)
 
 ## Vizsgálandó minőségi elemek:
 
-| Minőségi elem | Gyakoriság (éven belül) | 6 éves cikluson belül |
+|  | A | B | C |
 
-| Fitoplankton | 4 | Évente |
+| 1. | Minőségi elem | Gyakoriság (éven belül) | 6 éves cikluson belül |
 
-| Makrofita | 1 | Évente |
+| 2. | Fitoplankton | 4 | Évente |
 
-| Fitobenton | 2 | Évente |
+| 3. | Makrofita | 1 | Évente |
 
-| Makrozoobenton | 2 | Évente |
+| 4. | Fitobenton | 2 | Évente |
 
-| Halak | 1 | 6 év alatt 1× |
+| 5. | Makrozoobenton | 2 | Évente |
 
-| Hidrológia | 365 | Évente |
+| 6. | Halak | 1 | 3 év alatt 1× |
 
-| Morfológia | 1 | 6 év alatt 1× |
+| 7. | Hidrológia | 365 | Évente |
 
-| Folytonosság | 1 | 6 év alatt 1× |
+| 8. | Morfológia | 1 | 6 év alatt 1× |
 
-| Ökológiát támogató kémia |  |  |
+| 9. | Folytonosság | 1 | 6 év alatt 1× |
 
-| „alapkémia” | 12 | Évente |
+| 10. | Ökológiát támogató kémia „alapkémia” | 12 | Évente |
 
-| Elsőbbségi anyagok |  |  |
+| 11. | Elsőbbségi anyagok (a vízgyűjtő-gazdálkodás egyes szabályairól szóló kormányrendelet 1. sz. melléklet, E. pontja) | 12 | 6 év alatt 2× |
 
-| (2000/60/EK X. melléklet) | 12 | 6 év alatt 1× |
+| 12. | Egyéb veszélyes anyagok | 12 | 6 év alatt 2× |
 
-| Egyéb veszélyes anyagok | 12 | 6 év alatt 1× |
+| 13. | Vízgyűjtő specifikus szennyező anyagok | 12 | 6 év alatt 2× |
 
-## Kivételek:
+## Megjegyzések:
 
-## – A fitoplankton és makrofita vizsgálatok csak a releváns folyó típusok esetén szükségesek.
+## - A fitoplankton és makrofita vizsgálatok csak a releváns vízfolyás típusok esetén szükségesek.
 
-## A fitoplankton szempontjából releváns típusok sorszáma:
+## A fitoplankton szempontjából releváns típusok: 4L, 7L, 8N, 9F, 9K, 10A
 
-## 14., 19., 20., 23., 24., 25. (egész évben)
-
-## 6., 7., 10., 13. (kisvízi időszakban)
-
-## A makrofita szempontjából releváns típusok sorszáma:
-
-## 9., 10., 13., 14., 15., 16., 17., 18., 19., 20., 21., 22., 23., 24.
-
-## – A folyók esetén az interkalibrációs helyeken (16 db) a makrozoobenton 3× vizsgálandó évente.
-
-## – A referencia helyeken a fitoplankton 9×, a fitobenton 2×, a makrofita 2×, a makrozoobenton 3× vizsgálandó évente. Az egyéb veszélyes anyagokból és az elsőbbségi anyagokból csak a természetes eredetű fémek (Hg, Cd, Pb, Cu, Zn, Cr, As és Ni) vizsgálatára kell, hogy sor kerüljön. A referencia helyek 6 évente 1× lesznek monitorozva.
+## A makrofita szempontjából releváns típusok: 1S, 1M, 2S, 2M, 3S, 3M, 4L, 5S, 5M, 6S, 6M, 7L
 
 ## II. Operatív monitoring programok:
 
 ## Az operatív monitoring alprogramok kialakítása a kockázat típusok esetén:
 
-## Állóvizekre vonatkozó alprogram kódjai:
+## Állóvizekre vonatkozó alprogramok kódjai:
 
 ## HUSWPO_1LWNO
 
 ## HUSWPO_1LWHM
 
-## Vízfolyásokra vonatkozó alprogram kódjai:
+## Vízfolyásokra vonatkozó alprogramok kódjai:
 
 ## HUSWPO_1RWPS
 
@@ -118,296 +104,446 @@
 
 ## HUSWPO_4RWHM
 
+## HUSWPO_5RWHM
+
+## HUSWPO_1RWSP
+
+## HUSWPO_2RWSP
+
 ## Az egyes alprogramok keretében vizsgált mintavételi helyek száma, illetve vizsgálandó paraméterek és gyakoriságok az alábbiak:
 
-## 1. Tápanyagtartalom miatt bizonytalan helyzetű állóvizek
+## 1. Tápanyagtartalom miatt kockázatos helyzetű állóvizek
 
 ## (HUSWPO_1LWNO alprogram)
 
 ## Vizsgálandó minőségi elemek:
 
-| Minőségi elem | Gyakoriság (éven belül) | 6 éves cikluson belül |
+|  | A | B | C |
 
-| Fitoplankton | 4 | évente |
+| 1. | Minőségi elem | Gyakoriság (éven belül) | 6 éves cikluson belül |
 
-| Fitobenton | 1 | évente |
+| 2. | Fitoplankton | 4 | 3 éven keresztül évente |
 
-| Makrofita | 1 | évente |
+| 3. | Fitobenton | 2 | 3 éven keresztül évente |
 
-| Makrozoobenton | 1 | évente |
+| 4. | Makrofita | 1 | 3 éven keresztül évente |
 
-| Halak | 1 | 6 évente 1× |
+| 5. | Hidrológia | 365 | 3 éven keresztül évente |
 
-| Hidrológia | 365 | évente |
+| 6. | Morfológia | 1 | 6 évente 1× |
 
-| Morfológia | 1 | 6 évente 1× |
+| 7. | Alapkémia | 4 | 3 éven keresztül évente |
 
-| Alapkémia | 4 | évente |
-
-## 2. Hidro-morfológiai beavatkozások miatt bizonytalan helyzetű állóvizek
+## 2. Hidromorfológiai beavatkozások miatt kockázatos helyzetű állóvizek
 
 ## (HUSWPO_1LWHM alprogram)
 
 ## Vizsgálandó minőségi elemek:
 
-| Minőségi elem | Gyakoriság (éven belül) | 6 éves cikluson belül |
+|  | A | B | C |
 
-| Fitoplankton | 4 | évente |
+| 1. | Minőségi elem | Gyakoriság (éven belül) | 6 éves cikluson belül |
 
-| Makrofita | 1 | évente |
+| 2. | Fitobenton | 1 | 3 éven keresztül évente |
 
-| Hidrológia | 365 | évente |
+| 3. | Makrozoobenton | 2 | 3 éven keresztül évente |
 
-| Alapkémia | 4 | évente |
+| 4. | Hidrológia | 365 | 3 éven keresztül évente |
 
-## 3. Veszélyes anyag miatt bizonytalan helyzetű vízfolyások
+| 5. | Alapkémia | 4 | 3 éven keresztül évente |
+
+## 3. Veszélyes anyag miatt kockázatos helyzetű vízfolyások
 
 ## (HUSWPO_1RWPS alprogram)
 
 ## Vizsgálandó minőségi elemek:
 
-| Minőségi elem | Gyakoriság (éven belül) | 6 éves cikluson belül |
+|  | A | B | C |
 
-| Makrozoobenton | 2 | évente |
+| 1. | Minőségi elem | Gyakoriság (éven belül) | 6 éves cikluson belül |
 
-| Halak | 1 | 6 évente 1× |
+| 2. | Makrozoobenton | 2 | 3 éven keresztül évente |
 
-| Hidrológia | 365 | évente |
+| 3. | Halak | 1 | 6 évente 1× |
 
-| 2000/60/EK X. mellékletben szereplő elsőbbségi anyagok közül azok esetén, amelyek a környezetminőségi határértéket meghaladják | 12 | évente |
+| 4. | Hidrológia | 365 | 3 éven keresztül évente |
 
-| Egyéb veszélyes anyagok közül, amelyek a környezetminőségi határértéket meghaladják | 12 | évente |
+| 5. | a vízgyűjtő-gazdálkodás egyes szabályairól szóló kormányrendelet 1. sz. melléklet, E. pontjában szereplő elsőbbségi anyagok közül azok, amelyek a környezetminőségi határértéket meghaladják | 4 | 3 éven keresztül évente |
 
-| Alapkémia | 4 | évente |
+| 6. | Egyéb veszélyes anyagok közül azok, amelyek a környezetminőségi határértéket meghaladják | 4 | 3 éven keresztül évente |
 
-## 4. Tápanyag és szervesanyag miatt bizonytalan helyzetű vízfolyások
+| 7. | Vízgyűjtő specifikus szennyező anyagok közül azok, amelyek a környezetminőségi határértéket meghaladják | 4 | 3 éven keresztül évente |
+
+| 8. | Alapkémia | 4 | 3 éven keresztül évente |
+
+## 4. Tápanyag- és szervesanyag-tartalom miatt kockázatos helyzetű vízfolyások
 
 ## (HUSWPO_1RWNO alprogram)
 
 ## Vizsgálandó minőségi elemek:
 
-| Minőségi elem | Gyakoriság (éven belül) | 6 éves cikluson belül |
+|  | A | B | C |
 
-| Fitoplankton | 4 | évente |
+| 1. | Minőségi elem | Gyakoriság (éven belül) | 6 éves cikluson belül |
 
-| Fitobenton | 1 | évente |
+| 2. | Fitoplankton | 4 | 3 éven keresztül évente |
 
-| Makrofita | 1 | évente |
+| 3. | Fitobenton | 2 | 3 éven keresztül évente |
 
-| Makrozoobenton | 1 | évente |
+| 4. | Makrofita | 1 | 3 éven keresztül évente |
 
-| Hidrológia | 365 | évente |
+| 5. | Makrozoobenton | 2 | 3 éven keresztül évente |
 
-| Alapkémia | 4 | évente |
+| 6. | Hidrológia | 365 | 3 éven keresztül évente |
 
-## 5. Hidro-morfológiai ok miatt bizonytalan helyzetű vízfolyások
+| 7. | Alapkémia | 4 | 3 éven keresztül évente |
 
-## (A hidro-morfológiai kockázat oka a hosszanti átjárhatóság akadályozottsága)
+## 5. Hidromorfológiai ok miatt kockázatos helyzetű vízfolyások
+
+## (A hidromorfológiai kockázat oka a hosszanti átjárhatóság akadályozottsága)
 
 ## (HUSWPO_1RWHM alprogram)
 
 ## Vizsgálandó minőségi elemek:
 
-| Minőségi elem | Gyakoriság (éven belül) | 6 éves cikluson belül |
+|  | A | B | C |
 
-| Halak | 1 | 3 évente 1× |
+| 1. | Minőségi elem | Gyakoriság (éven belül) | 6 éves cikluson belül |
 
-| Hidrológia | 365 | évente |
+| 2. | Makrozoobenton | 2 | 3 éven keresztül évente |
 
-| Morfológia | 1 | 6 évente 1× |
+| 3. | Hidrológia | 365 | 3 évente 1× |
 
-| Folytonosság | 1 | 6 évente1× |
+| 4. | Morfológia | 1 | 6 évente 1× |
 
-| Alapkémia | 4 | évente |
+| 5. | Folytonosság | 1 | 6 évente1× |
 
-## 6. Hidro-morfológiai ok miatt bizonytalan helyzetű vízfolyások
+| 6. | Alapkémia | 4 | 3 évente 1× |
 
-## (A hidro-morfológiai kockázat oka völgyzárógátas átfolyó tározó, duzzasztás, vízkivétel, vízmegosztás hatásai)
+## 6. Hidromorfológiai ok miatt kockázatos helyzetű vízfolyások
+
+## (A hidromorfológiai kockázat oka völgyzárógátas átfolyó tározó, duzzasztás, vízkivétel, vízmegosztás, természetes part menti növényzet hiánya hatásai)
 
 ## (HUSWPO_2RWHM alprogram)
 
 ## Vizsgálandó minőségi elemek:
 
-| Minőségi elem | Gyakoriság (éven belül) | 6 éves cikluson belül |
+|  | A | B | C |
 
-| Fitoplankton | 4 | évente |
+| 1. | Minőségi elem | Gyakoriság (éven belül) | 6 éves cikluson belül |
 
-| Fitobenton | 1 | évente |
+| 2. | Fitoplankton | 4 | 3 éven keresztül évente |
 
-| Hidrológia | 365 | évente |
+| 3. | Hidrológia | 365 | 3 éven keresztül évente |
 
-| Morfológia | 1 | 6 évente 1× |
+| 4. | Morfológia | 1 | 6 évente 1× |
 
-| Folytonosság | 1 | 6 évente 1× |
+| 5. | Folytonosság | 1 | 6 évente 1× |
 
-| Alapkémia | 4 | évente |
+| 6. | Alapkémia | 4 | 3 éven keresztül évente |
 
-## 7. Hidro-morfológiai ok miatt bizonytalan helyzetű vízfolyások
+## Megjegyzés:
 
-## (A hidro-morfológiai kockázat oka a keresztszelvény menti elváltozások, szabályozással kapcsolatos elváltozások hatásai)
+## - Természetes part menti növényzet hiánya hatás monitorozása: makrofita évi egy alkalommal három éven át.
+
+## 7. Hidromorfológiai ok miatt kockázatos helyzetű vízfolyások
+
+## (A hidromorfológiai kockázat oka a keresztszelvény menti elváltozások, szabályozással kapcsolatos elváltozások hatásai)
 
 ## (HUSWPO_3RWHM alprogram)
 
-| Minőségi elem | Gyakoriság (éven belül) | 6 éves cikluson belül |
+## Vizsgálandó minőségi elemek:
 
-| Makrozoobenton | 1 | évente |
+|  | A | B | C |
 
-| Halak | 1 | 6 évente 1× |
+| 1. | Minőségi elem | Gyakoriság (éven belül) | 6 éves cikluson belül |
 
-| Hidrológia | 365 | évente |
+| 2. | Fitobenton | 1 | 3 éven keresztül évente |
 
-| Morfológia | 1 | 6 évente 1× |
+| 3. | Makrofita | 1 | 3 éven keresztül évente |
 
-| Folytonosság | 1 | 6 évente 1× |
+| 4. | Makrozoobenton | 1 | 3 éven keresztül évente |
 
-| Alapkémia | 4 | évente |
+| 5. | Hidrológia | 365 | 3 éven keresztül évente |
 
-## 8. Hidro-morfológiai ok miatt bizonytalan helyzetű vízfolyások
+| 6. | Morfológia | 1 | 6 évente 1× |
 
-## (A hidro-morfológiai kockázat oka kotrás, burkolat hatásai)
+| 7. | Folytonosság | 1 | 6 évente 1× |
+
+| 8. | Alapkémia | 4 | 3 éven keresztül évente |
+
+## Megjegyzés:
+
+## - Keresztszelvény menti beavatkozások hatásának monitorozása: makrofita, évi egy alkalommal három éven át
+
+## - Szabályozás hatásának monitorozása: csak fitobenton és makrozoobenton vizsgálandó
+
+## 8. Hidromorfológiai ok miatt kockázatos helyzetű vízfolyások
+
+## (A hidromorfológiai kockázat oka kotrás, burkolat hatásai)
 
 ## (HUSWPO_4RWHM alprogram)
 
-| Minőségi elem | Gyakoriság (éven belül) | 6 éves cikluson belül |
+## Vizsgálandó minőségi elemek:
 
-| Makrofita | 1 | évente |
+|  | A | B | C |
 
-| Makrozoobenton | 1 | évente |
+| 1. | Minőségi elem | Gyakoriság (éven belül) | 6 éves cikluson belül |
 
-| Hidrológia | 365 | évente |
+| 2. | Fitobenton | 2 | 3 éven keresztül évente |
 
-| Morfológia | 1 | 6 évente 1× |
+| 3. | Hidrológia | 365 | 3 éven keresztül évente |
 
-| Folytonosság | 1 | 6 évente 1× |
+| 4. | Morfológia | 1 | 6 évente 1× |
 
-| Alapkémia | 4 | évente |
+| 5. | Folytonosság | 1 | 6 évente 1× |
 
-## A táblázatokban szereplő, fizikai, kémiai minőségi elemek csoportjához tartozó paraméterek:
+| 6. | Alapkémia | 4 | 3 éven keresztül évente |
+
+## 9. Hidromorfológiai ok miatt kockázatos helyzetű vízfolyások
+
+## (A hidromorfológiai kockázat oka fás növényzet hiánya a parton)
+
+## (HUSWPO_5RWHM alprogram)
+
+## Vizsgálandó minőségi elemek:
+
+|  | A | B | C |
+
+| 1. | Minőségi elem | Gyakoriság (éven belül) | 6 éves cikluson belül |
+
+| 2. | Fitobenton | 2 | 3 éven keresztül évente |
+
+| 3. | Makrofita | 1 | 3 éven keresztül évente |
+
+| 4. | Makrozoobenton | 1 | 3 éven keresztül évente |
+
+|  | Hidrológia | 365 | 3 éven keresztül évente |
+
+|  | Morfológia | 1 | 6 évente 1× |
+
+|  | Folytonosság | 1 | 6 évente 1× |
+
+## 10. Specifikus szennyezők miatti operatív program vízfolyásokra, szennyvízterhelés
+
+## HUSWPO_1RWSP
+
+## Vizsgálandó minőségi elemek:
+
+|  | A | B | C |
+
+| 1. | Minőségi elem | Gyakoriság (éven belül) | 6 éves cikluson belül |
+
+| 2. | Összes és oldott As, Cd, Hg, Ni, Cu, Cr, Pb, Zn | 4 | 3 |
+
+| 3. | Oktil- és nonil-fenolok, PFOA és PFOS | 4 | 3 |
+
+| 4. | Makrozoobenton | 2 | 3 éven keresztül évente |
+
+| 5. | Hal | 1 | 3 év alatt 1-szer |
+
+| 6. | Hidrológia | 365 | 3 éven keresztül évente |
+
+| 7. | Alapkémia | 4 | 3 éven keresztül évente |
+
+## 11. Specifikus szennyezők miatti operatív program vízfolyásokra, szennyvízterhelés, mezőgazdaságból eredő terhelés
+
+## HUSWPO_2RWSP
+
+## Vizsgálandó minőségi elemek:
+
+|  | A | B | C |
+
+| 1. | Minőségi elem | Gyakoriság (éven belül) | 6 éves cikluson belül |
+
+| 2. | A 2013/39 direktíva növényvédőszer-listája: Alaklór, Atrazin, Klórfenvinfosz, Klórpirifosz, Aldrin, Dieldrin, Endrin, Izodrin, DDT-k, Diuron, Endoszulfán, Hexaklór-benzol, Hexaklór-ciklohexán, Izoproturon, Pentaklór-fenol, Simazin, Trifluralin, Dikofol, Aklonifen, Bifenox, Cibutrin, Cipermetrin, Diklórfosz, Heptaklór és heptaklór-epoxid, Terbutrin | 4 május, június, július, augusztus hónapokban | 3 |
+
+| 3. | Vízgyűjtő specifikus szennyezők növényvédőszer komponensei 2,4-diklór-fenoxi-ecetsav (2,4-D), acetoklór, dimeténamid, glifozát és AMPA, imidakloprid, MCPA (2-metil-4-klór-fenoxi-ecetsav), metazaklór, metolaklór/S-metolaklór, nikoszulfuron, terbutilazin, tiakloprid, floraszulam, metribuzin, proszulfuron | 4 május, június, július, augusztus hónapokban | 3 |
+
+| 4. | Hidrológia | 365 | 3 éven keresztül évente |
+
+| 5. | Alapkémia | 4 | 3 éven keresztül évente |
+
+| 6. | Fitoplankton | 4 | 3 éven keresztül évente |
+
+| 7. | Makrofita | 1 | 3 éven keresztül évente |
+
+## A táblázatokban szereplő paraméterekre vonatkozó egyéb információk
+
+## I. Hidrológia
+
+## A hidrológiai méréseket kiépített vízrajzi állomás esetében kell adott gyakorisággal biztosítani. Ennek hiányában a vízminőségi mintavételekkel összehangoltan kell végrehajtani.
+
+## II. Fizikai, kémiai minőségi elemek csoportjához tartozó paraméterek
 
 ## Az alábbi paraméterek vizsgálatát az EU jelentésben szereplő módszertan szerint kell elvégezni:
 
-## Alapvető fizikai, kémiai paraméterek:
+## II.1. Alapvető fizikai, kémiai paraméterek („alapkémia”, a biológiai elemekre hatással levő kémiai és fizikai-kémiai elemek):
 
-## Átlátszóság (csak állóvizeknél)
+## a) Hőmérséklet
 
-## Hőmérséklet
+## b) Oldott oxigén
 
-## Oldott oxigén
+## c) Oxigén telítettség
 
-## Kémiai oxigénigény
+## d) Kémiai oxigénigény (KOICr)
 
-## Biokémiai oxigénigény
+## e) Biokémiai oxigénigény
 
-## Fajlagos elektromos vezetőképesség
+## f) TOC
 
-## pH
+## g) Klorid
 
-## Lúgosság
+## h) Fajlagos elektromos vezetőképesség
 
-## Orto-foszfát ion
+## i) pH
 
-## Összes foszfor
+## j) Orto-foszfát (PO4-P)
 
-## Ammónium ion
+## k) Összes foszfor
 
-## Nitrát ion
+## l) Ammónium (NH4-N)
 
-## Szerves nitrogén
+## m) Nitrit (NO2-N)
 
-## Összes nitrogén
+## n) Nitrát (NO3-N)
 
-## a-klorofill
+## o) Szerves nitrogén
 
-## Elsőbbségi anyagok: a 2000/60/EK irányelv X. melléklete szerinti listában szereplő anyagok
+## p) Összes nitrogén
 
-## Egyéb veszélyes anyagok:
+## II.2. Elsőbbségi anyagok: a a vízgyűjtő-gazdálkodás egyes szabályairól szóló kormányrendelet 1. sz. melléklet, E. pontja szerinti listában szereplő anyagok (Megjegyzés: A felszíni víz vízszennyezettségi határértékeiről és azok alkalmazásának szabályairól szóló miniszteri rendelet 1. mellékletének 2. pontjában meghatározott egyes EQS-ek az anyagok biológiailag hozzáférhető koncentrációjára vonatkoznak. Ezen anyagok vizsgálatakor a biológiailag hozzáférhető koncentráció meghatározásához szükséges paraméterek (pl. DOC) mérése is szükséges. A kadmium és vegyületei esetében az EQS-értékek a víz keménységétől függően változnak, ezért a „mg CaCO3/l” érték ismerete is szükséges a mért értékek kiértékeléséhez.)
 
-## DDT
+## II.3. Egyéb veszélyes anyagok:
 
-## Aldrin
+## a) DDT
 
-## Dieldrin
+## b) Aldrin
 
-## Endrin
+## c) Dieldrin
 
-## Isodrin
+## d) Endrin
 
-## Széntetraklorid
+## e) Isodrin
 
-## Tetraklór-etilén
+## f) Széntetraklorid
 
-## Triklór-etilén
+## g) Tetraklór-etilén
 
-## Réz
+## h) Triklór-etilén
 
-## Króm
+## i) Cianid
 
-## Cink
+## II.4. Vízgyűjtő specifikus szennyező anyagok:
 
-## Arzén
+## a) Réz
 
-## Cianid
+## b) Króm
 
-5. számú melléklet a 31/2004. (XII. 30.) KvVM rendelethez[^26]
+## c) Cink
 
-## Felszíni vizek tipológiája
+## d) Arzén
+
+## e) 2,4-diklór-fenoxi-ecetsav (2,4-D)
+
+## f) Acetoklór
+
+## g) Dimeténamid
+
+## h) Floraszulam
+
+## i) Imidakloprid
+
+## j) MCPA (2-metil-4-klór-fenoxi-ecetsav)
+
+## k) Metazaklór,
+
+## l) Metolaklór/s-metolaklór
+
+## m) Metribuzin
+
+## n) Nikoszulfuron
+
+## o) Proszulfuron
+
+## p) Terbutilazin
+
+## q) Tiakloprid
+
+5. melléklet a 31/2004. (XII. 30.) KvVM rendelethez[^44]
+
+Felszíni vizek tipológiája
 
 I. Vízfolyások tipológiája
 
-| Típus száma | „Felszíni víz-tájak” | A vízgyűjtő mérete | Hazai elnevezés |
+## Vízfolyások típusai
 
-| al-ökorégió | hidrogeokémiai jelleg | Mederanyag |
+|  | A | B | C | D | E | F |
 
-| 1 | hegyvidék | szilikátos | Durva | kicsi | patak |
+| 1. | Típus kód | Vízgyűjtő méret | Mederesés | Mederanyag | Geokémiai jelleg | Domborzati jelleg |
 
-| 2 |  | meszes | Durva | kicsi | patak |
+| 2. | 1S | kicsi | nagy esésű | durva | szilikátos | dombvidéki-hegyvidéki |
 
-| 3 |  |  |  | közepes | kis folyó |
+| 3. | 2S | kicsi | nagy esésű | durva | meszes | dombvidéki-hegyvidéki |
 
-| 4 | dombvidék | meszes | Durva | kicsi | patak |
+| 4. | 2M | közepes | nagy esésű | durva | meszes | dombvidéki-hegyvidéki |
 
-| 5 |  |  |  | közepes | kis folyó |
+| 5. | 3S | kicsi | közepes esésű | durva - közepes-finom | meszes | dombvidéki |
 
-| 6 |  |  |  | nagy | közepes folyó |
+| 6. | 3M | közepes | közepes esésű | durva - közepes-finom | meszes | dombvidéki |
 
-| 7 |  |  |  | nagyon nagy | nagy folyó |
+| 7. | 4L | nagy – nagyon nagy | közepes esésű | durva | meszes | dombvidéki |
 
-| 8 |  |  | közepes-finom | kicsi | csermely |
+| 8. | 5S | kicsi | kis esésű | durva | meszes | síkvidéki |
 
-| 9 |  |  |  | közepes | kis folyó |
+| 9. | 5M | közepes | kis esésű | durva | meszes | síkvidéki |
 
-| 10 |  |  |  | nagy | közepes folyó |
+| 10. | 6S | kicsi | kis esésű | közepes-finom | meszes | síkvidéki |
 
-| 11 | síkvidék | meszes | Durva | kicsi |  |
+| 11. | 6M | közepes | kis esésű | közepes-finom | meszes | síkvidéki |
 
-| 12 |  |  |  | közepes | kis folyó |
+| 12. | 7L | nagy | kis esésű | közepes-finom | meszes | síkvidéki |
 
-| 13 |  |  |  | nagy | közepes folyó |
+| 13. | 8N | nagyon nagy | kis esésű | közepes-finom | meszes | síkvidéki |
 
-| 14 |  |  |  | nagyon nagy | nagy folyó |
+| 14. | 9F | Duna méretű | közepes esésű | durva | meszes | síkvidéki |
 
-| 15 |  |  | közepes-finom | kicsi | csermely |
+| 15. | 9K | Duna méretű | kis esésű | durva | meszes | síkvidéki |
 
-| 16 |  |  |  | kicsi és kis esésű | ér |
+| 16. | 10A | Duna méretű | kis esésű | közepes-finom | meszes | síkvidéki |
 
-| 17 |  |  |  | közepes és kis esésű |  |
+## Vízfolyások tipizálási szempontjai és paraméterei
 
-| 18 |  |  |  | közepes | kis folyó |
+|  | A | B | C |
 
-| 19 |  |  |  | nagy | közepes folyó |
+| 1. | Szempont | Elnevezés | Értéktartomány |
 
-| 20 |  |  |  | nagyon nagy | nagy folyó |
+| 2. | Vízgyűjtő méret | Duna méretű | 100 000 km2 < (XXL) |
 
-| 21 |  | szerves | – | kicsi |  |
+| nagyon nagy | 10 000-100 000 km2 (XL) |
 
-| 22 |  |  |  | közepes |  |
+| nagy | 1000-10 000 km2 (L) |
 
-| 23 | Duna, Gönyű felett |
+| közepes | 100-1000 km2 (M) |
 
-| 24 | Duna, Gönyű és Baja között |
+| kicsi | 10-100 km2 (S) |
 
-| 25 | Duna, Baja alatt |
+| 3. | Mederesés (tengerszint feletti magasság) | nagy esésű | 2,5‰ < (hegyvidéki) |
+
+| közepes esésű | 0,15‰ – 2,5‰ (dombvidéki) |
+
+| kis esésű | <0,15 ‰ (síkvidéki) |
+
+| 4. | Mederanyag szemcsemérete | durva | szikla, kőtörmelék, kavics, homokos kavics |
+
+| közepes | durva-, közép- és finomhomok |
+
+| finom | kőzetliszt, agyag |
+
+| 5. | Geokémiai jelleg (meder alapkőzetének és vizének kölcsönhatásából kialakult minőség) | szilikátos | mederanyag vulkanikus, vagy metamorf kőzet |
+
+| meszes | mederanyag karbonátos, vagy törmelékes üledékes kőzet |
 
 II. Állóvizek tipológiája
 
-[^26]: Az 5. számú mellékletet a 34/2008. (XII. 31.) KvVM rendelet 5. § (4) bekezdése iktatta be.
+[^44]: Az 5. számú mellékletet a 34/2008. (XII. 31.) KvVM rendelet 5. § (4) bekezdése iktatta be, szövege a 103/2023. (XII. 29.) BM rendelet 7. § d) pontjával megállapított szöveg.

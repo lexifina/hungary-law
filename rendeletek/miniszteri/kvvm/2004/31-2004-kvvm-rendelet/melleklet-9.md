@@ -1,4 +1,4 @@
-9. melléklet 31/2004. (XII. 30.) KvVM rendelethez[^30]
+9. melléklet 31/2004. (XII. 30.) KvVM rendelethez[^48]
 
 A megfigyelési lista mintavételi helyei
 
@@ -16,4 +16,4 @@ A megfigyelési lista mintavételi helyei
 
 | 6. | Zagyva | Újszász | 101179446 |
 
-[^30]: A 9. mellékletet a 49/2015. (IX. 8.) BM rendelet 9. §-a iktatta be.
+[^48]: A 9. mellékletet a 49/2015. (IX. 8.) BM rendelet 9. §-a iktatta be.

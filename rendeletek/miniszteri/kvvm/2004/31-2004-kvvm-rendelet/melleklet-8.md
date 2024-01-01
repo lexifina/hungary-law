@@ -1,71 +1,69 @@
 ## A minőségi elemek megfigyelésénél referenciaként alkalmazható szabványosított módszerek
 
-| I. A minőségi elemek biológiai mintavételezésének szabványai |  |
+## I. A minőségi elemek biológiai mintavételezésének általános szabványai
 
-| EN ISO 5667-3:2012 | Vízminőség – Mintavétel – 3. rész: A minták tartósítása és kezelése |
+| MSZ EN ISO 5667-3:2013 | Vízminőség. Mintavétel. 3. rész: A vízminták tartósításának és kezelésének irányelvei (ISO 5667-3:2012) |
 
-| II. A fitoplanktonra vonatkozó szabványok |  |
+## II. A fitoplanktonra vonatkozó szabványok
 
-| EN 15204:2006 | Vízminőség – Útmutató szabvány a fitoplankton fordított mikroszkópos számlálására (Utermöhl-technika) |
+| MSZ EN 16698:2016 | Vízminőség. Útmutató a fitoplankton mennyiségi és minőségi mintavételéhez felszíni vizekből |
 
-| EN 15972:2011 | Vízminőség – Útmutató a tengeri fitoplankton kvantitatív és kvalitatív vizsgálatához |
+| MSZ EN 15204:2006 | Vízminőség. Útmutató szabvány a fitoplankton fordított mikroszkópos számlálására (Utermöhl-technika) |
 
-| ISO 10260:1992 | Vízminőség – A biokémiai paraméterek mérése – Az a-klorofill- koncentráció spektrometriás meghatározása |
+| MSZ ISO 10260:1992 | Vízminőség. A biokémiai paraméterek mérése. Az a-klorofill-koncentráció spektrometriás meghatározása |
 
-| III. Makroszkópikus gerinctelenekre vonatkozó szabványok |  |
+| MSZ EN 16695:2016 | Vízminőség. Útmutató a fitoplankton-biomassza becslésére |
 
-| EN ISO 10870:2012 | Vízminőség – Útmutató az édesvízi bentikus makrogerinctelenek mintavételi módszereinek és eszközeinek kiválasztásához |
+## III. Makroszkopikus gerinctelenekre vonatkozó szabványok
 
-| EN 15196:2006 | Vízminőség – Útmutatás a chironomidák (kétszárnyúak rendje) lárvái levedlett bőrének mintavételéhez és a minta kezeléséhez ökológiai értékelés céljából |
+| MSZ EN ISO 10870:2013 | Vízminőség. Útmutató az édesvízi bentikus makrogerinctelenek mintavételi módszereinek és eszközeinek kiválasztásához (ISO 10870:2012) |
 
-| EN 16150:2012 | Vízminőség – Útmutató a bentikus makrogerinctelenek időarányos Multi- Habitat eljáráson alapuló mintavételéhez |
+| MSZ EN 16150:2012 | Vízminőség. Útmutató a bentikus makrogerinctelenek időarányos Multi-Habitat eljáráson alapuló mintavételéhez átgázolható mélységű vízfolyásokból |
 
-| EN ISO 19493:2007 | Vízminőség – Útmutató szilárd aljzaton lévő élőlényközösségek tengerbiológiai vizsgálatához |
+| MSZ EN ISO 8689-1:2000 | Vízminőség. Folyók biológiai besorolása. 1. rész: Útmutató a bentikus makrogerinctelenek vizsgálataiból származó biológiai minőségi adatok értelmezéséhez (ISO 8689-1:2000) |
 
-| EN ISO 16665:2013 | Vízminőség – Útmutató a laza tengerfenék makrofaunájának mennyiségi mintavételéhez és a minta kezeléséhez |
+| MSZ EN ISO 8689-2:2000 | Vízminőség. Folyók biológiai besorolása. 2. rész: Útmutató a bentikus makrogerinctelenek vizsgálataiból származó biológiai minőségi adatok bemutatásához (ISO 8689-2:2000) |
 
-| MSZ EN 27828:1998 | Vízminőség – Biológiai mintavétel – Útmutató a vízi fenéklakó makroszkópikus gerinctelenek kézi hálós mintavételéhez |
+| MSZ EN ISO 10870:2013 | Vízminőség. Útmutató az édesvízi bentikus makrogerinctelenek mintavételi módszereinek és eszközeinek kiválasztásához (ISO 10870:2012) |
 
-| MSZ EN 28265:1998 | Vízminőség – A biológiai mintavétel módszerei – Útmutató a kavicsos aljzatú sekély édesvizekben élő fenéklakó makroszkópikus gerinctelenek gyűjtésére alkalmas mennyiségi mintavevők szerkezetéhez és használatához |
+| MSZ EN 16772:2016 | Vízminőség. Útmutató a gerinctelenek mintavételéhez a folyók hiporheális zónájában |
 
-| MSZ EN ISO 9391:2000 | Vízminőség – Mélyvízi makroszkópikus gerinctelenek mintavétele – Útmutató a telepítéshez, a minőségi és a mennyiségi mintavevők használatához |
+## IV. A makrofitára és a fitobentoszra vonatkozó szabványok
 
-| MSZ EN ISO 8689-1:2000 | Folyók biológiai osztályozása I. Rész: Iránymutatás a fenéklakó, makroszkópikus gerinctelenek áramló vizekben történő számbavételéből származó biológiai minőségi adatok értelmezéséhez |
+| MSZ EN 15460:2008 | Vízminőség. Útmutató szabvány tavakban lévő makrofiták felmérésére |
 
-| MSZ EN ISO 8689-2:2000 | Folyók biológiai osztályozása II. Rész: Iránymutatás a fenéklakó, makroszkópikus gerinctelenek áramló vizekben történő számbavételéből származó biológiai minőségi adatok bemutatásához |
+| MSZ EN 14184:2014 | Vízminőség. Útmutató a folyóvizek vízi makrofitáinak felméréséhez |
 
-| IV. A makrofitára és a fitobentoszra vonatkozó szabványok |  |
+| MSZ EN 15708:2010 | Vízminőség. Útmutató a fitobentosz felméréséhez, mintavételéhez és laboratóriumi vizsgálatához sekély folyóvizekben |
 
-| EN 15460:2007 | Vízminőség – Útmutató szabvány tavakban lévő makrofitonok felmérésére |
+| MSZ EN 13946:2014 | Vízminőség. Útmutató a folyók és tavak bentikus kovamoszatjainak rutinmintavételéhez és minta-előkészítéséhez |
 
-| EN 14184:2014 | Vízminőség – Útmutató szabvány vízi makrofitonok felméréséhez |
+| MSZ EN 14407:2014 | Vízminőség. Útmutató a folyókból és tavakból vett minták bentikus kovamoszatjainak azonosításához és számlálásához |
 
-| EN 15708:2009 | Vízminőség – Útmutató szabvány a fitobentosz felméréséhez, mintavételéhez és laboratóriumi vizsgálatához sekély folyóvizekben |
+## V. A halakra vonatkozó szabványok
 
-| EN 13946:2014 | Vízminőség – Útmutató folyók és tavak bentikus kovamoszatainak általános mintavételéhez és minta-előkészítéséhez |
+| MSZ EN 14962:2006 | Vízminőség. Útmutató a halak mintavételi módszereinek alkalmazási területéhez és kiválasztásához |
 
-| EN 14407:2014 | Vízminőség – Útmutató folyóvizekből és tavakból vett minták bentikus kovamoszatjainak azonosításához és számlálásához |
+| MSZ EN 14011:2003 | Vízminőség. Halak mintavétele elektromos halászati módszerrel |
 
-| V. A halakra vonatkozó szabványok |  |
+| MSZ EN 15910:2014 | Vízminőség. Útmutató a halbőség becslésére mobil hidroakusztikus módszerekkel |
 
-| EN 14962:2006 | Vízminőség – Útmutató a halak mintavételi módszereinek alkalmazási területéhez és kiválasztásához |
+| MSZ EN 14757:2015 | Vízminőség. Halak mintavétele több nyílásméretű kopoltyúhálókkal |
 
-| EN 14011:2003 | Vízminőség – Halak mintavétele elektromos halászati módszerrel |
+## VI. A hidromorfológiai jellemzők értékelésére vonatkozó szabványok
 
-| EN 15910:2014 | Vízminőség – Útmutató a halbőség becslésére mobil hidroakusztikus módszerekkel |
+| MSZ EN 14614:2005 | Vízminőség. Útmutató szabvány folyóvizek hidromorfológiai jellemzőinek értékeléséhez |
 
-| MSZ EN 14757:2006 | Vízminőség. Halak mintavétele több nyílásméretű eresztőhálóval |
+| MSZ EN 16039:2012 | Vízminőség. Útmutató szabvány a tavak hidromorfológiai jellemzőinek felméréséhez |
 
-| VI. A hidrológiai-morfológiai jellemzők értékelése |  |
+| MSZ EN 15843:2010 | Vízminőség. Útmutató a folyami hidromorfológiai változások mértékének meghatározásához |
 
-| MSZ EN 14614:2004 | Vízminőség – Útmutató szabvány folyóvizek hidro-morfológiai jellemzőinek értékeléséhez |
+| MSZ EN 16870:2017 | Vízminőség. Útmutató a tavi hidromorfológiai változások mértékének meghatározásához |
 
-| EN 16039:2012 | Vízminőség – Útmutató szabvány a tavak hidromorfológiai jellemzőinek felméréséhez |
+## VII. Szabványok a fizikai-kémiai paraméterekhez
 
-| VII. Szabványok a fizikai-kémiai paraméterekhez |  |
+| Bármely vonatkozó CEN/ISO szabvány |
 
-| Bármely vonatkozó CEN/ISO szabvány |  |
+8. melléklet a 31/2004. (XII. 30.) KvVM rendelethez[^47]
 
-8. melléklet a 31/2004. (XII. 30.) KvVM rendelethez[^29]
-
-[^29]: A 8. mellékletet a 49/2015. (IX. 8.) BM rendelet 8. §-a iktatta be, az 1/2023. (I. 12.) BM rendelet 3. §-a hatályon kívül helyezte.
+[^47]: A 8. mellékletet a 49/2015. (IX. 8.) BM rendelet 8. §-a iktatta be, az 1/2023. (I. 12.) BM rendelet 3. §-a hatályon kívül helyezte.

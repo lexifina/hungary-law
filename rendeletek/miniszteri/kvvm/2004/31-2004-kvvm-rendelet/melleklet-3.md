@@ -1,4 +1,4 @@
-3. melléklet a 31/2004. (XII. 30.) KvVM rendelethez[^24]
+3. melléklet a 31/2004. (XII. 30.) KvVM rendelethez[^42]
 
 ## Az osztályba sorolás
 
@@ -56,4 +56,4 @@ c) a 2., 5., 15., 20., 22., 23. és 28. sorszámú anyagok (olyan anyagok, amely
 
 Az ilyen további térképek készítése során törekedni kell annak biztosítására, hogy azok a vízgyűjtő terület szintjén és uniós szinten összehasonlíthatók legyenek egymással.
 
-[^24]: A 3. melléklet a 49/2015. (IX. 8.) BM rendelet 6. §-ával megállapított szöveg.
+[^42]: A 3. melléklet a 49/2015. (IX. 8.) BM rendelet 6. §-ával megállapított szöveg.
