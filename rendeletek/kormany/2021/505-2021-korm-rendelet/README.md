@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-505-20-
 | 2021-09-03 | 2021-505-20-22.1 | 505/2021. (VIII. 19.) Korm. rendelet |
 | 2022-07-01 | 2021-505-20-22.2 | 238/2022. (VI. 30.) Korm. rendelet |
 | 2022-07-30 | 2021-505-20-22.3 | 277/2022. (VII. 29.) Korm. rendelet |
+| 2024-01-01 | 2021-505-20-22.4 | 238/2022. (VI. 30.) Korm. rendelet |
