@@ -1,1 +1,1 @@
-21/C. § Felhatalmazást kap a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter, hogy rendeletben határozza meg az integrációs üzleti irányító szervezet Integrációs Szervezetből történő kilépésének, valamint az e törvényben meghatározott integrációs üzleti irányító szervezet feladatait ellátó pénzügyi intézmény kiválasztásának részletszabályait.
+### 21/C. §

@@ -2,7 +2,7 @@
 
 11/F. § (1) Az Integrációs Szervezetből az Integrációs Szervezet tagjai – ide nem értve a Holding Szövetkezetet – e törvény rendelkezései szerint, valamint az Integrációs Szervezet alapszabályának megfelelően léphetnek ki.
 
-(2) Az Integrációs Szervezetből kilépni kívánó tag a kilépési szándéknyilatkozat benyújtásával egyidejűleg az Integrációs Szervezet részére köteles megfizetni azt az összeget, amely a Központi Adatfeldolgozónak az utolsó elfogadott éves beszámolója szerinti teljes aktivált eszközállományának és a kilépni kívánó tag mérlegfőösszegének az egyetemleges felelősség mellett működő összes integrációs tag mérlegfőösszegéhez viszonyított arányában kerül megállapításra. Az Integrációs Szervezet a megfizetett összeget letétként kezeli a tagság megszűnéséig. A tagság megszűnésének időpontjában a megfizetett összeg – az Integrációs Szervezettel való elszámolást követően – a Központi Adatfeldolgozót illeti meg. Ha a kilépési szándéknyilatkozat visszavonásra kerül, a letét összegét az Integrációs Szervezet visszafizeti a tag részére.
+(2)
 
 (3)
 
