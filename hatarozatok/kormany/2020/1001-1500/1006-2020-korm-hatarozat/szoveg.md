@@ -18,11 +18,7 @@ c) a Kiállítás üzemeltetése érdekében a 2021. évben 120 000 000 forint
 
 biztosításával;
 
-4. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 50. Kulturális szakmai feladatok támogatása alcímnek a 19. Székesfehérvári Szent István Király Múzeum rekonstrukció programja jogcímcsoporttal történő kiegészítését;
-
-Felelős: pénzügyminiszter
-
-Határidő: azonnal
+4.[^1]
 
 5. felhívja az emberi erőforrások miniszterét, hogy intézkedjen a Beruházás megvalósítása érdekében a 3. pont a) alpontja szerint a 2020. évben szükséges összegből 317 337 000 forint egyszeri átcsoportosításáról a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 15. Magyarságkutató Intézet cím terhére, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 50. Kulturális szakmai feladatok támogatása alcím, 19. Székesfehérvári Szent István Király Múzeum rekonstrukció programja jogcímcsoport javára;
 
@@ -89,3 +85,5 @@ Határidő: a 2021. évi központi költségvetés tervezése során
 Felelős: emberi erőforrások minisztere
 
 Határidő: folyamatos
+
+[^1]: A 4. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
