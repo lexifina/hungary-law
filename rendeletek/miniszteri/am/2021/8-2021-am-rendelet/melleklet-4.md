@@ -1,6 +1,6 @@
 4. melléklet a 8/2021. (III. 10.) AM rendelethez
 
-## Az élelmiszerekben meg nem engedett mikroorganizmusok
+Az élelmiszerekben meg nem engedett mikroorganizmusok
 
 1. Baktériumok és azok toxinjai:
 

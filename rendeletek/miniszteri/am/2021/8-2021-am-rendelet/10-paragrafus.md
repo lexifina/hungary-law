@@ -12,7 +12,7 @@ d) megőrzött minták újbóli vizsgálatát vagy
 
 e) egy minta különböző jellemzőire kapott eredmények közötti korreláció vizsgálatát,
 
-## ha a rendelkezésére álló információk alapján a szolgáltató laboratórium vizsgálatával szemben kifogás merül fel a megrendelő részéről vagy a belső ellenőrzés során.
+ha a rendelkezésére álló információk alapján a szolgáltató laboratórium vizsgálatával szemben kifogás merül fel a megrendelő részéről vagy a belső ellenőrzés során.
 
 (2) Ha az (1) bekezdés szerinti vizsgálat eredménye a vonatkozó szakmai iránymutatások vagy nemzetközi szabvány által végzett értékelés alapján nem megfelelő, a laboratóriumvezető az adott vizsgálattípus végzését felfüggeszti, és elrendeli a nem megfelelőség kivizsgálását, a hibajavító, illetve megelőző tevékenységek elvégzését, és az (1) bekezdés szerinti vizsgálattal ismételten ellenőrzi a vizsgálat megfelelő kivitelezését.
 

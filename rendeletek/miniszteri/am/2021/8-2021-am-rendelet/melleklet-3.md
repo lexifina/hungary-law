@@ -58,7 +58,7 @@
 
 3. melléklet a 8/2021. (III. 10.) AM rendelethez
 
-## Az üzemi laboratórium működési feltételei
+Az üzemi laboratórium működési feltételei
 
 1. Minden üzemi laboratóriumnak meg kell felelnie az alábbi feltételeknek:
 
