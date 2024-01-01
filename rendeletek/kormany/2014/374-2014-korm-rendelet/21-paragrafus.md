@@ -10,17 +10,17 @@ b) az önálló földrészletek kiosztási sorrendjének meghatározására.
 
 (4) Tanya körüli földek kiadása a 11. § (3) bekezdésben foglaltak alapján történik.
 
-(4a)[^111] A sorsolás során a kérelmezők helyszíni használatát – a sorsoláson megjelent kérelmezők kérelmére – figyelembe kell venni és az új földrészletek sorrendjét a használatnak megfelelően kell kialakítani, feltéve, hogy
+(4a)[^113] A sorsolás során a kérelmezők helyszíni használatát – a sorsoláson megjelent kérelmezők kérelmére – figyelembe kell venni és az új földrészletek sorrendjét a használatnak megfelelően kell kialakítani, feltéve, hogy
 
-a)[^112] az nem ellentétes a Foktftv. 45. §-ában meghatározott szempontokkal és
+a)[^114] az nem ellentétes a Foktftv. 45. §-ában meghatározott szempontokkal és
 
 b) a visszamaradó tulajdoni hányadok egy földrészletben kialakíthatóak.
 
-(5)[^113] Ha a sorsolás során a Foktftv. 46. § (4) bekezdésében meghatározott területi minimumot (a továbbiakban: területi minimum) nem éri el a kérelmező tulajdoni hányadának megfelelő terület nagysága és az (1) bekezdés a) pontja szerinti megállapodást sem köt, akkor a kérelmező tulajdoni hányadát a többi területi minimumot el nem érő kérelmezővel együtt új önálló – területi minimumot meghaladó – osztatlan közös tulajdonban álló földrészletként, az utolsó kiosztásra került földrészletet követően kell kialakítani.
+(5)[^115] Ha a sorsolás során a Foktftv. 46. § (4) bekezdésében meghatározott területi minimumot (a továbbiakban: területi minimum) nem éri el a kérelmező tulajdoni hányadának megfelelő terület nagysága és az (1) bekezdés a) pontja szerinti megállapodást sem köt, akkor a kérelmező tulajdoni hányadát a többi területi minimumot el nem érő kérelmezővel együtt új önálló – területi minimumot meghaladó – osztatlan közös tulajdonban álló földrészletként, az utolsó kiosztásra került földrészletet követően kell kialakítani.
 
-(6)[^114] Ha az (5) bekezdés szerint kialakítandó új önálló földrészlet nem haladja meg a területi minimumot, akkor ezen tulajdoni hányadokat a visszamaradó földrészlethez kell rendelni.
+(6)[^116] Ha az (5) bekezdés szerint kialakítandó új önálló földrészlet nem haladja meg a területi minimumot, akkor ezen tulajdoni hányadokat a visszamaradó földrészlethez kell rendelni.
 
-[^111]: A 21. § (4a) bekezdését a 478/2015. (XII. 29.) Korm. rendelet 13. §-a iktatta be, szövege a 341/2016. (XI. 17.) Korm. rendelet 36. § j) pontja szerint módosított szöveg.
-[^112]: A 21. § (4a) bekezdés a) pontja a 454/2021. (VII. 30.) Korm. rendelet 7. § 23. pontja szerint módosított szöveg.
-[^113]: A 21. § (5) bekezdése a 341/2016. (XI. 17.) Korm. rendelet 32. §-ával megállapított, a 454/2021. (VII. 30.) Korm. rendelet 7. § 24. pontja szerint módosított szöveg.
-[^114]: A 21. § (6) bekezdését a 341/2016. (XI. 17.) Korm. rendelet 32. §-a iktatta be.
+[^113]: A 21. § (4a) bekezdését a 478/2015. (XII. 29.) Korm. rendelet 13. §-a iktatta be, szövege a 341/2016. (XI. 17.) Korm. rendelet 36. § j) pontja szerint módosított szöveg.
+[^114]: A 21. § (4a) bekezdés a) pontja a 454/2021. (VII. 30.) Korm. rendelet 7. § 23. pontja szerint módosított szöveg.
+[^115]: A 21. § (5) bekezdése a 341/2016. (XI. 17.) Korm. rendelet 32. §-ával megállapított, a 454/2021. (VII. 30.) Korm. rendelet 7. § 24. pontja szerint módosított szöveg.
+[^116]: A 21. § (6) bekezdését a 341/2016. (XI. 17.) Korm. rendelet 32. §-a iktatta be.

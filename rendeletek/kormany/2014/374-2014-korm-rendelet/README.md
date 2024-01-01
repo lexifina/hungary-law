@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-374-20-
 | 2020-05-13 | 2014-374-20-22.10 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2021-08-14 | 2014-374-20-22.11 | 454/2021. (VII. 30.) Korm. rendelet |
 | 2023-01-01 | 2014-374-20-22.12 | 478/2015. (XII. 29.) Korm. rendelet |
+| 2024-01-01 | 2014-374-20-22.13 | 79/2025. (IV. 17.) Korm. rendelet |
