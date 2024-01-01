@@ -1,0 +1,1 @@
+290. § Az e törvény hatálybalépése időpontjában a nyilvántartásban szereplő minősített munkaerő-kölcsönző a kormányhivatal felhívására köteles a 34. § (2) bekezdése szerinti regisztrációs díj befizetésére. Ezt követően a foglalkoztatási díj fizetési kötelezettségre a 34. § (4) bekezdésében foglaltak alkalmazandók.

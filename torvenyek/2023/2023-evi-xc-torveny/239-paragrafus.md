@@ -1,0 +1,1 @@
+239. § A gyógykezelési célú tartózkodási engedély kiadását vagy meghosszabbítását meg kell tagadni, illetve a kiadott gyógykezelési célú tartózkodási engedélyt vissza kell vonni a 226. § (1) bekezdés a)–c) és e) pontjában meghatározott esetkörökön felül akkor is, ha a harmadik országbeli állampolgár a 64. §-ban foglalt feltételeket nem teljesíti.

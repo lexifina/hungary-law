@@ -1,0 +1,1 @@
+253. § Az idegenrendészeti hatóság a központi idegenrendészeti nyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet, vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.

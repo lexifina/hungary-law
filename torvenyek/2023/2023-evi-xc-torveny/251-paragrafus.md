@@ -1,0 +1,1 @@
+251. § Az idegenrendészeti hatóság a harmadik országbeli állampolgárok törvény alapján nyilvántartott személyes adatait személyazonosítás, az okmányok hitelességének ellenőrzése, a jogszerű tartózkodás időtartamának megállapítása, illetve a párhuzamos eljárások megakadályozása céljából a központi idegenrendészeti nyilvántartás résznyilvántartásaiban kezeli.

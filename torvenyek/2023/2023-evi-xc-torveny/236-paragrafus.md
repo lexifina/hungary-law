@@ -1,0 +1,1 @@
+236. § A hivatalos célú tartózkodási engedély kiadását vagy meghosszabbítását meg kell tagadni, illetve a kiadott hivatalos célú tartózkodási engedélyt vissza kell vonni a 226. § (1) bekezdés a)–c) és e) pontjában meghatározott esetkörökön felül akkor is, ha a harmadik országbeli állampolgár az 60. §-ban foglalt feltételeket nem teljesíti.

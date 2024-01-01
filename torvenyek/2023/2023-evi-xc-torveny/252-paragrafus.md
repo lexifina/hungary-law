@@ -1,0 +1,3 @@
+252. § (1) A harmadik országbeli állampolgár magyarországi, illetve az Európai Unió valamely tagállamának területén történő tartózkodásának igazolása, valamint az ehhez fűződő jogok gyakorlása érdekében egymáshoz kapcsolódó tartózkodási jogcímek esetén az adatkezelés a legutolsó tartózkodási jogcímek kapcsán meghatározott ideig tart.
+
+(2) Az (1) bekezdés vonatkozásában egymáshoz kapcsolódó tartózkodási jogcímnek minősül minden olyan tartózkodási jogcím, melyek egymásnak feltételei vagy következményei, így különösen a tartózkodásra jogosító engedély meghosszabbítása, a huzamos tartózkodási jogcím megszerzésének feltételeként meghatározott rövidebb idejű tartózkodási jogcímek feltéve, hogy egymáshoz időben kapcsolódnak.

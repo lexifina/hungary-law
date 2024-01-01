@@ -1,0 +1,1 @@
+3. § E törvény alkalmazásában a rövid időtartamú magyarországi tartózkodás bármely száznyolcvan napon belül kilencven napot meg nem haladó tervezett magyarországi tartózkodás. A harmadik országbeli állampolgár rövid időtartamú tervezett magyarországi tartózkodását Magyarország az európai uniós szabályrendszer alapján teszi lehetővé.

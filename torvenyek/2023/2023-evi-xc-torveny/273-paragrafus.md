@@ -1,0 +1,15 @@
+## részére továbbíthat adatot.
+
+273. § (1) Az idegenrendészeti hatóság az idegenrendészeti résznyilvántartásokból a Nemzeti Információs Központnak az utasadatok kockázatelemzéséhez, elemzés-értékelés készítéséhez, valamint hírigény teljesítéséhez továbbíthat adatot.
+
+(2) A Nemzetközi Bűnügyi Együttműködési Központ, valamint a bűnüldöző szervek nemzetközi együttműködéséről szóló törvény alapján közvetlen információcserére feljogosított magyar bűnüldöző szerv az EGT-tagállam vagy harmadik ország bűnüldöző szerve részére a bűnüldöző szervek nemzetközi együttműködésének tárgyában létrehozott, törvénnyel kihirdetett nemzetközi szerződés alapján, az abban meghatározott adatkörben és célból az idegenrendészeti résznyilvántartásokból adatot továbbíthat.
+
+(3) Az idegenrendészeti hatóság a körözési nyilvántartási rendszer részére – az arcképmás nyilvántartásba vétele céljából – a körözési nyilvántartási rendszerről szóló törvényben meghatározottak szerint a 254. §, 256. §, 258. § és 259. § szerinti résznyilvántartások hatálya alá tartozó személyek arcképmását átadja.
+
+(4) A legfőbb ügyész, illetve az igazságügyért felelős miniszter a kegyelmi eljárás során a 262. § (1) bekezdés a), e) és f) pontja, valamint a 267. § (1) bekezdése szerinti résznyilvántartásokból igényelhet adatokat. Az igazságügyért felelős miniszter az egyes bírósági eljárások elhúzódásával kapcsolatos vagyoni elégtétel érvényesítésével összefüggő egyezségkötési eljárás és az alaptalanul alkalmazott szabadságkorlátozással összefüggő egyszerűsített kártalanítási eljárás során – az eljárás lefolytatásához szükséges természetes személyazonosító adatokról, lakcímadatokról és értesítésicím-adatokról – az idegenrendészeti résznyilvántartásokból igényelhet adatokat.
+
+(5) Az idegenrendészeti hatóság a központi idegenrendészeti nyilvántartáshoz a Magyar igazolvány, illetve a Magyar hozzátartozói igazolvány kiadása iránti kérelmet elbíráló hatóság részére a kérelem elbírálására irányuló eljárás során a jogosultsági feltételek vizsgálatához, továbbá az igazolvány visszavonására irányuló eljárás során a visszavonási ok fennállásának vizsgálatához a kiutasításra, a beutazási és tartózkodási tilalom fennállására, valamint a bevándorolt vagy huzamos tartózkodói jogállás fennállására vonatkozó adatok tekintetében közvetlen hozzáférést biztosít.
+
+(6) Az idegenrendészeti hatóság adatot szolgáltat a fővárosi és vármegyei kormányhivatalok részére a szociális igazgatásról és szociális ellátásokról szóló törvény szerinti pénzbeli és természetbeni szociális ellátások, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti gyermektartásdíj megelőlegezésének a jogosultság fennállásának elbírálása, az ellátás biztosítása, fenntartása és megszüntetése céljából.
+
+(7) Az általa eszközölt adattovábbításokat az idegenrendészeti hatóság nyilvántartja.

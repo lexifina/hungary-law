@@ -1,0 +1,1 @@
+5. § A harmadik országbeli állampolgár huzamos – e törvény eltérő rendelkezése hiányában határozatlan időre szóló – magyarországi tartózkodása az e törvényben meghatározott részletes feltételek fennállása esetén, abban az esetben engedélyezhető, ha a harmadik országbeli állampolgár a társadalmi együttélés feltételeit ismeri, és azokat betartja.

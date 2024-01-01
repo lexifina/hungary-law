@@ -1,0 +1,3 @@
+344. § A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 64. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Az eljáró idegenrendészeti hatóság a bíróság, az ügyészség, illetve a nyomozó hatóság a külföldre utazási korlátozás feloldása érdekében megküldött értesítése alapján, illetve amennyiben az EGT-állampolgár vagy családtag a külföldre utazásról szóló 1998. évi XII. törvény 16. § (1) bekezdés a)–f) pontja szerinti kényszerintézkedés hatálya alatt nem áll, a külföldre utazási korlátozást haladéktalanul törli és az EGT-állampolgár vagy családtag visszatartott úti okmányát visszaadja.”

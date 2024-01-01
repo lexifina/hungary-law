@@ -1,0 +1,7 @@
+## 46. Információáramlás az Európai Unió tagállamai között
+
+81. § (1) Az idegenrendészeti hatóság az ideiglenes tartózkodási kártya kiállításáról, illetve visszavonásáról – a visszavonás okának megjelölésével – értesíti az Európai Unió azon tagállamát, amelyik a harmadik országbeli állampolgár számára a huzamos tartózkodói jogállást igazoló EU tartózkodási engedélyt kiállította.
+
+(2) Ha a huzamos tartózkodói jogállást igazoló EU tartózkodási engedéllyel rendelkező harmadik országbeli állampolgárt az Európai Unió tagállama menekültként elismerte vagy kiegészítő védelemben részesítette, az idegenrendészeti hatóság az ideiglenes tartózkodási kártya kiállítása előtt a harmadik országbeli állampolgár természetes személyazonosító adatainak feltüntetésével megkeresi az EU tartózkodási engedélyt kiállító tagállamot annak ellenőrzése érdekében, hogy a menekültkénti elismerés vagy a kiegészítő védelem továbbra is fennáll-e.
+
+(3) Ha a huzamos tartózkodói jogállást igazoló EU tartózkodási engedéllyel rendelkező harmadik országbeli állampolgárt a magyar menekültügyi hatóság vagy bíróság menekültként elismeri, illetve kiegészítő védelemben részesíti az ideiglenes tartózkodási kártya kiállítása előtt, az idegenrendészeti hatóság a harmadik országbeli állampolgár természetes személyazonosító adatainak feltüntetésével megkeresi az EU tartózkodási engedélyt kiállító tagállamot annak érdekében, hogy az az EU tartózkodási engedély okmány „Megjegyzések” rovatát módosítsa.

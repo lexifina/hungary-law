@@ -1,0 +1,1 @@
+240. § A 226. § (1) bekezdés b), d) és e) pontjában foglalt esetben családi együttélés céljából kérelmezett tartózkodási engedély kiadása vagy meghosszabbítása megtagadható, illetve a kiadott tartózkodási engedély visszavonható.

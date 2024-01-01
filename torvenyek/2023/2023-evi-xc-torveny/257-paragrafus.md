@@ -1,0 +1,1 @@
+257. § A kishatárforgalmi engedély kiadásához rögzített, a 1030/2002/EK tanácsi rendelet, valamint a 380/2008/EK tanácsi rendelet szerinti arcképmás- és ujjnyomatadatot az idegenrendészeti hatóság a kishatárforgalmi engedély iránti kérelem tárgyában hozott véglegessé vált és végrehajtható döntésig kezeli, azt követően haladéktalanul törli.
