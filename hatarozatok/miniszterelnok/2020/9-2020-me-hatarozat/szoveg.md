@@ -4,7 +4,7 @@ dr. Bíró Attilát, a Miniszterelnökség helyettes államtitkárát e tisztsé
 
 – 2020. január 31-ei hatállyal – felmentem, egyidejűleg
 
-dr. Almási Győzőt
+dr. Almási Győzőt[^1]
 
 – 2020. február 1-jei hatállyal – a Miniszterelnökség helyettes államtitkárává kinevezem, továbbá
 
@@ -15,3 +15,5 @@ dr. Bíró Attilát
 – 2020. február 1-jei hatállyal – a Miniszterelnöki Kabinetiroda helyettes államtitkárává
 
 kinevezem.
+
+[^1]: A 109/2023. (XII. 22.) ME határozat alapján dr. Almási Győző tekintetében akként módosul, hogy a „Miniszterelnökség” szövegrész helyébe a „Közigazgatási és Területfejlesztési Minisztérium” szöveg lép.
