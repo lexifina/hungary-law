@@ -10,6 +10,12 @@ a) kontakt továbbképzés formájában, amelynek teljes időtartama alatt a ré
 
 b) elektronikus továbbképzés formájában, amelynek tananyaga elektronikus közvetítő felületen keresztül jut el a továbbképzésben részt vevőhöz, akinek a továbbképzésben való részvétele során kifejtett tevékenysége ezen elektronikus közvetítő felületen keresztül valósul meg. Az elektronikus továbbképzés lehet e-learning vagy online továbbképzés.
 
+(4a)[^25] E § alkalmazásában
+
+a) e-learning továbbképzés: olyan elektronikus képzés, amelyet a résztvevő az oktató előadásáról előre rögzített, kép- és hanganyagot tartalmazó felvétel vagy egyéb előre rögzített szöveges tananyag megtekintésével teljesít, hangot és képet továbbító elektronikus felületen keresztül, a rendelkezésére álló, az (5) bekezdés b) pont bd) alpontja szerinti időkereten belül saját időbeosztásában;
+
+b) online továbbképzés: olyan elektronikus képzés, amelyet a résztvevő valós időben zajló, élő előadás közvetítésének megtekintésével teljesít, hangot és képet továbbító elektronikus felületen keresztül, az élő előadás teljes időtartamában és azzal azonos időben.
+
 (5) A továbbképző szervezet a továbbképzési programot akkor szervezheti és bonyolíthatja elektronikus továbbképzési formában, valamint az elektronikus továbbképzési program akkor minősíthető kreditpontra, ha a továbbképző szervezet
 
 a) elektronikus továbbképzési rendszere által biztosított a résztvevő által teljesített továbbképzési program kezdeti és befejezési időpontjának perc pontosságú rögzítése, valamint a továbbképzésben való folyamatos jelenlétének ellenőrzése;
@@ -28,6 +34,7 @@ c) a résztvevő részére a továbbképzés teljesítéséről szóló igazolá
 
 (6) Az elektronikus továbbképzés teljesítéséért a továbbképző a továbbképzésben részt vevő személy számára csak akkor állíthat ki kreditpont-igazolást, ha a továbbképzés teljesítése az (5) bekezdés b) pontjában foglalt feltételeknek megfelel.
 
-(7)[^25] A továbbképzésben részt vevő személy továbbképzésének teljesítésébe csak akkor számítható be az elektronikus továbbképzésben való részvételért a továbbképzési program minősítésekor megállapított kreditpont, ha az elektronikus továbbképzést az (5) bekezdés b) pontjában foglalt szabályok szerint az adott továbbképzési évben teljesíti.
+(7)[^26] A továbbképzésben részt vevő személy továbbképzésének teljesítésébe csak akkor számítható be az elektronikus továbbképzésben való részvételért a továbbképzési program minősítésekor megállapított kreditpont, ha az elektronikus továbbképzést az (5) bekezdés b) pontjában foglalt szabályok szerint az adott továbbképzési évben teljesíti.
 
-[^25]: A 10. § (7) bekezdése a 343/2019. (XII. 23.) Korm. rendelet 32. § 2. pontja szerint módosított szöveg.
+[^25]: A 10. § (4a) bekezdését a 642/2023. (XII. 28.) Korm. rendelet 36. §-a iktatta be.
+[^26]: A 10. § (7) bekezdése a 343/2019. (XII. 23.) Korm. rendelet 32. § 2. pontja szerint módosított szöveg.
