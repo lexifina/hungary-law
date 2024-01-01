@@ -54,7 +54,7 @@ kötelesek e rendelet szerint eljárni. Az 1. számú melléklet 8. pont 8.1. é
 
 (2l)[^15] A Magyar Honvédség Egészségügyi Központ az Egészségbiztosítási Alapból finanszírozott, az 1. számú melléklet 7. és 8. pontja szerinti, valamint a központosított közbeszerzéshez önként csatlakozóként megfogalmazott beszerzési igényét a központi beszerző szervezet részére közvetlenül küldi meg.
 
-(2m)[^16] Az 1. számú melléklet 8. pont 8.3–8.5. alpontjában meghatározott szolgáltatások beszerzése során az állami, Egészségbiztosítási Alapból finanszírozott és az Országos Kórházi Főigazgatóság fenntartása alá tartozó, aktív fekvőbeteg-ellátást nyújtó fővárosi költségvetési intézmények e rendelet előírásai szerint kötelesek eljárni.
+(2m)[^16] Az 1. számú melléklet 8. pont 8.3–8.5. alpontjában meghatározott szolgáltatások beszerzése során az állami, Egészségbiztosítási Alapból finanszírozott és az Országos Kórházi Főigazgatóság fenntartása alá tartozó, aktív fekvőbeteg-ellátást nyújtó fővárosi és vármegyei költségvetési intézmények e rendelet előírásai szerint kötelesek eljárni.
 
 (2n)[^17] Nem kell alkalmazni e rendelet előírásait a Földmegfigyelési Információs Rendszerről szóló törvény végrehajtásáról és a kereskedelmi űrfelvétel beszerzések központosított közbeszerzési rendszeréről, valamint ezzel összefüggésben egyes kormányrendeletek módosításáról szóló 769/2021. (XII. 23.) Korm. rendelet szerinti beszerzések tekintetében.
 
@@ -77,7 +77,7 @@ kötelesek e rendelet szerint eljárni. Az 1. számú melléklet 8. pont 8.1. é
 [^13]: Az 1. § (2j) bekezdését a 648/2020. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 771/2021. (XII. 23.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
 [^14]: Az 1. § (2k) bekezdését a 648/2020. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^15]: Az 1. § (2l) bekezdését a 648/2020. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^16]: Az 1. § (2m) bekezdését újonnan a 83/2023. (III. 16.) Korm. rendelet 1. §-a iktatta be.
+[^16]: Az 1. § (2m) bekezdését újonnan a 83/2023. (III. 16.) Korm. rendelet 1. §-a iktatta be, szövege ugyanezen módosító rendelet 3. § (2) bekezdése szerint módosított szöveg.
 [^17]: Az 1. § (2n) bekezdését a 769/2021. (XII. 23.) Korm. rendelet 27. §-a iktatta be.
 [^18]: Az 1. § (3) bekezdése a 323/2015. (X. 30.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 41/2021. (II. 2.) Korm. rendelet 7. § a) pontja, a 330/2023. (VII. 19.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
 [^19]: Az 1. § (4) bekezdése a 165/2020. (IV. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
