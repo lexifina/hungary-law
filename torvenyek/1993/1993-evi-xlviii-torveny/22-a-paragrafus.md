@@ -10,7 +10,7 @@
 
 (5) Nem kell alkalmazni az (1) és (3) bekezdést akkor sem, ha egy területnél geológiai vagy termelési szempontok alátámasztják, hogy a területtel határos bányatelek jogosítottja kapjon arra kutatási engedélyt, kivéve, ha a területtel úgy szomszédos egy nem a kérelmező jogosultságában álló bányatelek, hogy a két bányatelek között a Hatóság elnökének e törvény végrehajtására kiadott rendelete (e § alkalmazásában a továbbiakban: rendelet) szerinti szénhidrogénre vonatkozó egy kutatási blokk területe kialakítható.
 
-(6) Ha a bányatelek jogosítottja kutatási adatokkal igazolja, hogy a bányatelek bővítéssel érintett terület kitermelhető ásványinyersanyag-vagyonnal rendelkezik, kutatás elvégzése nélkül kérelmezheti a bányatelkének módosítását.
+(6) Ha a bányatelek jogosítottja kutatási adatokkal igazolja, hogy a bányatelek bővítéssel érintett terület kitermelhető ásványinyersanyag-vagyonnal rendelkezik, kutatás elvégzése nélkül kérelmezheti a bányatelkének módosítását, kivéve, ha a bányatelekkel úgy szomszédos egy nem a kérelmező jogosultságában álló bányatelek, hogy a két bányatelek között a rendelet szerinti szénhidrogénre vonatkozó egy kutatási blokk területe kialakítható.
 
 (6a) Az (5) bekezdés szerinti terület nem lehet nagyobb, mint a rendelet szerinti szénhidrogénre vonatkozó egy kutatási blokk nagysága.
 

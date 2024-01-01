@@ -14,11 +14,11 @@ ab) a kutatási terület közigazgatási megjelölését az érintett települé
 
 ac) a kutatásra engedélyezett ásványi nyersanyag megnevezését,
 
-ad) a kutatási jog jogosítottjának nevét és lakóhelyét, illetve megnevezését és székhelyét,
+ad) a kutatási engedély vagy jogadomány jogosítottjának nevét és lakóhelyét, illetve megnevezését és székhelyét,
 
 ae) a kutatásra engedélyezett időtartamot,
 
-af) a kutatási jog visszavonása esetén, a kutatási jog megszűnésének napját,
+af) a kutatási engedély vagy jogadomány megszűnésének napját,
 
 b) a bányatelek esetében
 

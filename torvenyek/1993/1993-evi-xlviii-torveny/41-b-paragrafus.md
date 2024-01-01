@@ -1,4 +1,4 @@
-41/B. § (1) A 41. § (1), (3) és (4) bekezdésében, továbbá a 41/A. § (5) és (10) bekezdésében meghatározott jogsértések esetén közigazgatási szankcióként figyelmeztetés nem alkalmazható.
+41/B. § (1) A 31. § (2) bekezdésében, a 41. § (1), (3) és (4) bekezdésében, továbbá a 41/A. § (5) és (10) bekezdésében meghatározott jogsértések esetén közigazgatási szankcióként figyelmeztetés nem alkalmazható.
 
 (2) A bányafelügyelet nem alkalmazhat közigazgatási szankciót, ha
 

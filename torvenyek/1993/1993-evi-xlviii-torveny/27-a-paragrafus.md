@@ -1,4 +1,4 @@
-27/A. § (1) A bányafelügyelet az ásványvagyon-gazdálkodással kapcsolatos feladatkörében figyelemmel követi az ásványi nyersanyagok kutatásával, kitermelésével, kereskedelmével és nemzetgazdasági felhasználásával kapcsolatos gazdasági folyamatokat. A bányafelügyelet ennek keretében vizsgálja, hogy fennáll-e a piacfelügyeleti intézkedésre okot adó állapot.
+27/A. § (1) A bányafelügyelet az ásványvagyon-gazdálkodással kapcsolatos feladatkörében figyelemmel kíséri az ásványi nyersanyagok kutatásával, kitermelésével, kereskedelmével és nemzetgazdasági felhasználásával kapcsolatos gazdasági folyamatokat. A bányafelügyelet ennek keretében vizsgálja, hogy fennáll-e a piacfelügyeleti intézkedésre okot adó állapot.
 
 (2) Ha a Központi Statisztikai Hivatal által közzétett építőalapanyag-ipari árindex (a továbbiakban: árindex) havi értéke – 12 hónapon belül legalább két alkalommal – az előző év azonos időszakához mérten az építőalapanyag-ipari árak legalább 5%-os növekedését mutatja, a Hatóság elnöke rendeletben piacfelügyeleti intézkedésre okot adó állapotot vezethet be.
 

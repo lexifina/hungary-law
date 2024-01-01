@@ -28,9 +28,9 @@ j) a vízügyi és vízvédelmi hatóság,
 
 k) a honvédelemért felelős miniszter,
 
-l) a települési önkormányzat jegyzője, fővárosban a főjegyző,
+l)
 
-m) a közút kezelője,
+m)
 
 n) a vízvédelemért felelős miniszter által kijelölt szerv és
 
@@ -40,6 +40,8 @@ o) a természetvédelemért felelős miniszter által kijelölt szerv.
 
 (2c) A közreműködő szervezet a nyilatkozatában foglaltakhoz a koncessziós tevékenység teljesítéséhez szükséges hatósági eljárások tekintetében kötve van, kivéve, ha a nyilatkozat megadásakor fennálló állapotokhoz képest olyan változások történtek, amelyek alapján a nyilatkozatban foglaltak nem tarthatók fenn. A megváltozott körülményeket a közreműködő szervezetnek kell igazolni.
 
-(3) Ivóvíz-, ásvány-, gyógy- és hévízcélú hasznosításra már igénybevett vízadók, víztestek zárt területként nem jelölhetők ki.
+(2d) Ha a zárt terület elhelyezkedése alapján több közreműködő szervezet illetékessége is megállapítható, az a közreműködő szervezet jár el, amelynek illetékességi területén a zárt terület legnagyobb része található.
+
+(3) Ivó-, ásvány- és gyógyvízcélú hasznosításra már igénybe vett vízadók, víztestek zárt területként nem jelölhetők ki. Nem jelölhető ki zárt terület akkor sem, ha az már meglévő termálvíz-hasznosítást veszélyeztetne.
 
 (4) A koncessziós pályázatra kijelölni tervezett zárt területeket a bányafelügyelet közzéteszi. Koncessziós pályázatra kijelölni tervezett területre belföldi vagy külföldi jogi és természetes személy is tehet javaslatot. A bányafelügyelet a közzététel során a javaslatot csak akkor veszi figyelembe, ha az (1) bekezdés szerinti feltétel teljesül, és a kijelölés nem ütközik a (3) bekezdés rendelkezésébe.

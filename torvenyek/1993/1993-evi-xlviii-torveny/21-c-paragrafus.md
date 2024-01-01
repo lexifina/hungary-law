@@ -1,18 +1,30 @@
-21/C. § (1) Geotermikus energiát energetikai célra kinyerni és hasznosítani – a 21/B. § (6) bekezdése szerinti eset kivételével – a Hatósággal – a miniszter egyetértésével – kötött szerződés alapján lehet.
+21/C. § (1) Geotermikus energiát energetikai célra kinyerni és hasznosítani – a 21/B. § (6) bekezdése szerinti eset kivételével – a Hatósággal – a miniszter egyetértésével – kötött szerződés alapján lehet. A bányavállalkozó a szerződéskötés iránti kérelmet a geotermikus védőidomot kijelölő határozat véglegessé válásától számított hat hónapos jogvesztő határidőn belül nyújthatja be. A határidő elmulasztása esetén a bányavállalkozó kutatási engedélye megszűnik.
 
 (2) A szerződés megkötésének feltétele, hogy a bányavállalkozó
 
-a) rendelkezzen olyan jognyilatkozattal, illetve szándéknyilatkozattal, amely a kinyerni tervezett geotermikus energia hasznosítási célnak megfelelő felhasználását biztosítja,
+a) rendelkezzen olyan jognyilatkozattal, amely a kinyerni tervezett geotermikus energia hasznosítási célnak megfelelő felhasználását biztosítja,
 
 b) rendelkezzen geotermikus védőidomot kijelölő végleges határozattal és
 
 c) vállalja, hogy az adott hasznosítási célra felhasználni tervezett geotermikus energia éves mennyiségét kinyeri.
 
-(3) A szerződés legfeljebb harmincöt évi időtartamra köthető, amely egy alkalommal, legfeljebb az eredeti időtartam felével meghosszabbítható.
+(3) A szerződés legfeljebb harmincöt évi időtartamra köthető, amely két alkalommal, legfeljebb az eredeti időtartam felével meghosszabbítható.
 
 (4) A szerződés meghosszabbítását annak lejárata előtt legalább hat hónappal korábban kell kezdeményezni. A határidő elmulasztása esetén a szerződést meghosszabbítani nem lehet.
 
-(5) A szerződés tartalmazza a geotermikus energia-kinyerés célját, tervezett hasznosítási formáját és az alkalmazott kinyerési technológiát, valamint a (6) bekezdés szerinti vízvisszasajtolási kötelezettség teljesítésére vonatkozó rendelkezéseket.
+(5) A szerződés tartalmazza, különösen
+
+a) a geotermikusenergia-kinyerés célját,
+
+b) a hasznosítás formáját és az alkalmazott kinyerési technológiát,
+
+c) a hasznosítás megkezdésének időpontját,
+
+d) a kinyerni tervezett éves geotermikus energia mennyiségét, és
+
+e) a (6) bekezdés szerinti vízvisszasajtolási kötelezettség teljesítésére vonatkozó rendelkezéseket.
+
+(5a) A bányavállalkozó – a szerződés eltérő rendelkezése hiányában – a hasznosítást legkésőbb a szerződés hatálybalépését követő egy éven belül megkezdi. A határidő elmulasztása esetén a szerződés megszűnik, kivéve, ha a hasznosítás megkezdésének elmaradása a bányavállalkozónak nem róható fel.
 
 (6) A bányavállalkozó a kitermelt vizet a technikai és földtani lehetőségekhez képest teljes mértékben visszasajtolja.
 

@@ -238,6 +238,8 @@ k) a 27/C. § szerinti kiegészítő bányajáradékkal érintett termékek piac
 
 l) az építőipari nyers- és alapanyagok körét.
 
+m) a 25/A. § szerinti adatszolgáltatással érintett bányavállalkozók és az ásványi nyersanyagok körét, valamint az adatszolgáltatás rendjére és tartalmi követelményeire vonatkozó szabályokat.
+
 (2) Felhatalmazást kap a miniszter
 
 a)

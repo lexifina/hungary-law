@@ -38,10 +38,10 @@ d) az éves kitermelt ásványi nyersanyag mennyiségére, minőségére, a tár
 
 e) a kitermeléssel, kinyeréssel érintett bányatelek védnevére, szénhidrogén-kitermelés esetén a mező megnevezésére, és
 
-f) a bevallott bányajáradék összegére
+f) a bevallott éves bányajáradék összegére
 
 vonatkozó információ.
 
 (4) A bányavállalkozó és a földtani kutatásra jogosult felelős a szolgáltatott adatok valódiságáért, amelyet az állami földtani feladatokat ellátó szerv jogosult ellenőrizni.
 
-(5) Az állami földtani feladatokat ellátó szerv vezeti az állami ásványi nyersanyag és geotermikus energiavagyon, valamint az energetikai és ipari eredetű szén-dioxidot tároló földtani szerkezetek nyilvántartását, amelyekkel kapcsolatban a jogosult kérelmére, külön jogszabályban meghatározott díjazásért, igazolást ad ki.
+(5) Az állami földtani feladatokat ellátó szerv vezeti a geotermikus energiavagyon, valamint az energetikai és ipari eredetű szén-dioxidot tároló földtani szerkezetek nyilvántartását, amelyekkel kapcsolatban a jogosult kérelmére, külön jogszabályban meghatározott díjazásért, igazolást ad ki.

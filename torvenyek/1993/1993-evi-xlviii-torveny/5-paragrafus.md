@@ -28,7 +28,11 @@ l) a vizek kártételei elleni védelem és védekezés célját szolgáló köz
 
 m) az ásványvagyon-gazdálkodási célokat szolgáló, a szénhidrogén kutatása és kitermelése során alkalmazott rétegrepesztést, rétegsavazást, gázbesajtolást, rétegenergia-pótlást, valamint a rétegrepesztési technológia és rétegenergia-pótlás céljából alkalmazott vízbesajtolást.
 
+(1a) Az (1) bekezdés g) pontja vonatkozásában az a termálvíz-kitermelés minősül elsődlegesen gyógyászati vagy elsődlegesen mezőgazdasági célú termálvíz-kitermelésnek, amelynél a termálvíz felhasználására szolgáló rendszer első hőelvételi pontja gyógyászati vagy mezőgazdasági célt szolgál – ideértve azt az esetet is, ha a termálvíz hőfokát azért kell az első hőelvételi pontnál csökkenteni, hogy a gyógyászati vagy mezőgazdasági tevékenység során hasznosításra elérhető legyen – és mezőgazdasági hasznosítás esetén a kútból kinyerhető hő legalább felét hasznosítja.
+
 (2) A kőolaj- és földgázbányászatra jogosult bányavállalkozó – a Magyar Energetikai és Közmű-szabályozási Hivatal földgáztárolásra vonatkozó működési engedélyének birtokában – a bányafelügyeletnél kezdeményezheti a bányatelek föld alatti gáztárolásra történő kiterjesztésének engedélyezését, ha az a környezetet nem szennyezi, veszélyezteti vagy károsítja.
+
+(2a) Ha a bányafelügyelet a kőolaj- és földgázbányászatra jogosult bányavállalkozó kérelme alapján módosítja a bányatelek föld alatti gáztárolásra történő kiterjesztését engedélyező határozatát, a módosítást – a bányafelügyelet által megküldött végleges határozat alapján – a Magyar Energetikai és Közmű-szabályozási Hivatal a földgáztárolásra vonatkozó működési engedélyben átvezeti.
 
 (3) Az e törvény szerint engedélyköteles tevékenységeket a bányafelügyelet által kiadott engedélyek alapján lehet megkezdeni, és az abban foglalt feltételek szerint gyakorolni.
 
@@ -48,7 +52,7 @@ tartozása van, vagy
 
 b) a kérelmező a bányajáradék bevallására vonatkozó kötelezettségét nem teljesítette.
 
-(4b) A kérelmező nyilatkozik, hogy vele szemben a (4a) bekezdésben foglaltak nem állnak fenn. Ha a kérelmező valótlan nyilatkozatot tesz, a bányafelügyelet a kiadott engedélyt visszavonja.
+(4b)
 
 (5) Az e törvény alapján engedélyköteles bányászati tevékenységre vonatkozó jogvesztő határidőbe, illetve a bányászati tevékenység végzésére engedélyezett időtartamba nem számít bele az a kieső időtartam, amely – a hatóságnak az eljárás lefolytatásával összefüggő, az arra jogszabály alapján nyitva álló határidőn belül folytatott tevékenysége szerinti időtartamot ide nem értve – a bányavállalkozó önhibáján kívül a hatóság döntése, intézkedése vagy mulasztása miatt következett be. Az önhiba hiányát a bányavállalkozónak kell igazolnia.
 

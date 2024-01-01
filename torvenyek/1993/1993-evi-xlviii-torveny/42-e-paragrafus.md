@@ -8,7 +8,7 @@
 
 (4) A tárolóhelyet az üzemeltető csak a bányafelügyelet által kiadott tárolási engedély alapján üzemeltetheti.
 
-(5) Szén-dioxid geológiai tárolása vízoszlopban, valamint ivó-, ásvány-, gyógy- és hévízcélú hasznosításra már igénybevett, valamint ivóvíz, ásványvíz, gyógyvízhasznosításra alkalmas rétegekben, vízadókban, víztestekben nem engedélyezhető.
+(5) Szén-dioxid geológiai tárolása vízoszlopban, valamint ivó-, ásvány-, gyógy- és termálvízcélú hasznosításra már igénybevett, valamint ivóvíz, ásványvíz, gyógyvízhasznosításra alkalmas rétegekben, vízadókban, víztestekben nem engedélyezhető.
 
 (5a) A bányafelügyelet – nemzetközi szerződés eltérő rendelkezése hiányában – nem engedélyezheti a szén-dioxid tárolását olyan tárolókomplexummal rendelkező tárolóhelyen, amely legalább részben az Európai Unió tagállamának határán kívül esik.
 

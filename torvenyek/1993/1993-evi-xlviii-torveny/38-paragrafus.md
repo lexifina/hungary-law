@@ -1,18 +1,18 @@
 ## Felszíni ingatlantulajdon korlátozása
 
-38. § (1) Az ingatlan tulajdonosa (kezelője, használója) köteles tűrni, hogy a bányavállalkozó vagy a földtani kutatásra jogosult az ingatlanon megfigyeléseket, méréseket végezzen, jeleket helyezzen el. A bányavállalkozó, valamint a földtani kutatásra jogosult e tevékenységével és az ingatlan rendeltetésszerű használatának ideiglenes akadályozásával vagy zavarásával okozott károkat a bányakárokra vonatkozó szabályok szerint téríti meg.
+38. § (1) Az ingatlan tulajdonosa (kezelője, használója) köteles tűrni, hogy a bányavállalkozó vagy a földtani kutatásra jogosult az ingatlanon megfigyeléseket, méréseket végezzen, jeleket helyezzen el, a meglévő bányászati létesítményt megközelítse. A bányavállalkozó, valamint a földtani kutatásra jogosult e tevékenységével és az ingatlan rendeltetésszerű használatának ideiglenes akadályozásával vagy zavarásával okozott károkat a bányakárokra vonatkozó szabályok szerint téríti meg.
 
 (2) Az ingatlan tulajdonosa köteles tűrni, hogy a használaton kívüli mélyfúrás 36. § (4) bekezdése szerinti tulajdonosa vagy vagyonkezelője a mélyfúrás tájrendezését elvégezze. A tájrendezés során okozott károkat a mélyfúrás tulajdonosa vagy vagyonkezelője a bányakárokra vonatkozó szabályok szerint téríti meg.
 
-(3) Az (1) bekezdés szerinti tevékenységnek minősül a szeizmikus mérések helyszínére történő behajtás, a mérési pontok és nyomvonalak kitűzése, a mérések elvégzése, ideértve a többdimenziós szeizmikus méréseket és a felvételezést is. A geofizikai mérések elvégzése nem minősül a termőföld védelméről szóló törvényben meghatározott termőföld időleges más célú hasznosításának.
+(3) Az (1) bekezdés szerinti tevékenységnek minősül a szeizmikus mérések helyszínére történő behajtás, a mérési pontok és nyomvonalak kitűzése, a mérések elvégzése, ideértve a többdimenziós szeizmikus méréseket és a felvételezést is. A geofizikai mérések és az (1) bekezdés szerinti tevékenységek elvégzése nem minősül a termőföld védelméről szóló törvényben meghatározott termőföld időleges más célú hasznosításának.
 
-(4) Az ingatlan rendeltetésszerű használatát akadályozó bányászati létesítmény, szénhidrogén-szállítóvezeték, egyéb gáz- és gáztermékvezeték, valamint a kutatási műveletekhez szükséges berendezés elhelyezése érdekében – megállapodás hiányában – a bányavállalkozó és az egyéb gáz- és gáztermékvezeték üzemeltetője, továbbá az előkutatás végzésére jogosult az ingatlan használatára az építés, kutatás végzéséhez, annak befejezéséig, az ingatlan tulajdonosának fizetendő kártalanítás ellenében szolgalom alapítását igényelheti.
+(4) Az ingatlan rendeltetésszerű használatát akadályozó bányászati létesítmény, szénhidrogén-szállítóvezeték, egyéb gáz- és gáztermékvezeték, a kutatási műveletekhez szükséges berendezés, valamint ezek alkotórészei és tartozékai elhelyezése érdekében – megállapodás hiányában – a bányavállalkozó és az egyéb gáz- és gáztermékvezeték üzemeltetője, továbbá az előkutatás végzésére jogosult az ingatlan használatára az építés, kutatás végzéséhez, annak befejezéséig, az ingatlan tulajdonosának fizetendő kártalanítás ellenében, az építéssel, kutatással érintett területhez szükséges mértékben szolgalom (a továbbiakban: elhelyezési szolgalom) alapítását igényelheti.
 
-(5) Az ingatlan rendeltetésszerű használatát akadályozó bányászati létesítmény, szénhidrogén-szállítóvezeték és egyéb gáz- és gáztermékvezeték üzemelésének – beleértve az üzemelés megszüntetésével járó tevékenységet is – időtartamára a bányavállalkozó és az egyéb gáz- és gáztermékvezeték üzemeltető az ingatlan tulajdonosának fizetendő kártalanítás ellenében szolgalmi jog alapítását igényelheti. Az e törvény hatálya alá tartozó létesítmények rendeltetésszerű üzemeltetéséhez szükséges eszközök, energiaellátó, adatátviteli, katódvédelmi eszközök, technológiai célú csővezetékek és egyéb eszközök elhelyezése, üzemben tartása céljára a bányavállalkozó és az egyéb gáz- és gáztermékvezeték üzemeltetője a biztonsági övezet mértékében, az ingatlantulajdonosnak fizetendő kártalanítás ellenében szolgalom alapítását igényelheti.
+(5) Az ingatlan rendeltetésszerű használatát akadályozó bányászati létesítmény, szénhidrogén-szállítóvezeték és egyéb gáz- és gáztermékvezeték, valamint ezek alkotórészei és tartozékai üzemelésének – beleértve az üzemelés megszüntetésével járó tevékenységet is – időtartamára a bányavállalkozó és az egyéb gáz- és gáztermékvezeték üzemeltető az ingatlan tulajdonosának fizetendő kártalanítás ellenében a biztonsági övezet mértékéig szolgalom (a továbbiakban: üzemelési szolgalom) alapítását igényelheti.
 
-(6) A szolgalom alapján a bányavállalkozó, az egyéb gáz- és gáztermékvezeték üzemeltetője és az előkutatás végzésére jogosult a tevékenység végzéséhez szükséges mértékben az ingatlan igénybevételére, ellenőrzés, javítás, karbantartás, kapacitásfenntartás és -bővítés, az üzemelés és a biztonság fenntartása, az üzemzavar megelőzése és elhárítása érdekében szükséges intézkedések végrehajtására. Az ingatlan igénybevétele során okozott kárt a bányakárokra vonatkozó szabályok szerint kell megtéríteni.
+(6) Az elhelyezési szolgalom alapján a bányavállalkozó, az egyéb gáz- és gáztermékvezeték üzemeltetője és az előkutatás végzésére jogosult az építési tevékenység végzéséhez, illetve a kutatáshoz szükséges mértékben jogosult az ingatlan igénybevételére. Az üzemelési szolgalom alapján a bányavállalkozó, az egyéb gáz- és gáztermékvezeték üzemeltetője a tevékenység végzéséhez szükséges mértékben jogosult az ingatlan igénybevételére, ellenőrzés, javítás, karbantartás, kapacitásfenntartás és -bővítés, az üzemelés és a biztonság fenntartása, az üzemzavar megelőzése és elhárítása érdekében szükséges intézkedések végrehajtására. Az ingatlan igénybevétele során okozott kárt a bányakárokra vonatkozó szabályok szerint kell megtéríteni.
 
-(7) A szolgalom alapításáról, továbbá a kártalanítás módjáról és mértékéről a bányavállalkozónak, az egyéb gáz- és gáztermékvezeték üzemeltetőjének és az előkutatás végzésére jogosultnak az ingatlan tulajdonosával, vagyonkezelőjével vagy használójával – harminc napos válaszadási határidőt tartalmazó ajánlat megküldésével – kell az egyezség létrehozását megkísérelnie. Ha a használattal érintett ingatlan közös tulajdonban áll, a megállapodáshoz a tulajdonostársak tulajdoni hányad alapján számított többségi hozzájárulása szükséges. A szolgalom szerinti korlátozással megegyezően kell az ingatlanban keletkezett kárt megtéríteni.
+(7) A szolgalom alapításáról, továbbá a kártalanítás módjáról és mértékéről a bányavállalkozónak, az egyéb gáz- és gáztermékvezeték üzemeltetőjének és az előkutatás végzésére jogosultnak az ingatlan tulajdonosával vagy vagyonkezelőjével – harminc napos válaszadási határidőt tartalmazó ajánlat megküldésével – kell az egyezség létrehozását megkísérelnie. Ha a használattal érintett ingatlan közös tulajdonban áll, a megállapodáshoz a tulajdonostársak tulajdoni hányad alapján számított többségi hozzájárulása szükséges. A szolgalom szerinti korlátozással megegyezően kell az ingatlanban keletkezett kárt megtéríteni.
 
 (8) Közös tulajdonban álló ingatlan esetében a megállapodás megkötéséhez való hozzájárulást vélelmezni kell az olyan tulajdonostárs részéről, akinek a megállapodás tervezetének közlése
 
@@ -34,11 +34,11 @@ b) természetes személy esetén örököse, gazdálkodó szervezet esetén jogu
 
 (11) Nem lehet szolgalmi jogot alapítani, ha a bányászati létesítmény, a szénhidrogén-szállítóvezeték és az egyéb gáz- és gáztermékvezeték vasúti pályát, folyóvizek, csatornák területét érinti. Az ilyen terület építési tevékenységgel történő igénybevételére és a létesítmények üzemeltetésére az érintetteknek megállapodást kell kötni. A megállapodás alkalmas az építési jogosultság igazolására. A megállapodás nem korlátozhatja a (6) bekezdésben foglalt jogokat.
 
-(12) Nem alapítható szolgalom, ha a 32. § (4) bekezdése szerinti feltételek nem teljesülnek.
+(12) Nem alapítható szolgalom, ha a 32. § (4) bekezdése szerinti feltételek nem teljesülnek, vagy a bányászati létesítmény, szénhidrogén-szállítóvezeték, egyéb gáz- és gáztermékvezeték, valamint a kutatási műveletekhez szükséges berendezés elhelyezése az ingatlan használatát jelentősen akadályozná, vagy megszüntetné.
 
 (13) Megegyezés hiányában a szolgalom alapítását és az annak fejében járó kártalanítást a bányavállalkozó vagy az egyéb gáz- és gáztermékvezeték üzemeltetője kérelmére a bányafelügyelet állapítja meg. A megállapodáson és a hatósági határozaton alapuló jog a Polgári Törvénykönyvről szóló 2013. évi V. törvény 5:27. §-ában és 5:164. §-ában, valamint az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 16. § f) pontjában foglalt rendelkezések alkalmazása során azonos megítélés alá esik.
 
-(14) A szolgalom alapítására irányuló kérelemben meg kell jelölni a szolgalom célját és a szolgalom gyakorlása megkezdésének várható időpontját. A kérelemhez mellékelni kell
+(14) A szolgalom alapítására irányuló kérelemben meg kell jelölni a szolgalom célját és a szolgalom gyakorlása megkezdésének, elhelyezési szolgalom esetén befejezésének várható időpontját. A kérelemhez mellékelni kell
 
 a) a szolgalom alapítására vonatkozó szerződéses ajánlatot és annak közlését vagy a közlés sikertelenségét igazoló okiratot,
 
@@ -47,6 +47,14 @@ b) az ingatlan szolgalommal érintett részét ábrázoló, az ingatlanügyi hat
 c) a szolgalom alapítását kérő nyilatkozatát arról, hogy a kártalanításhoz szükséges pénzügyi fedezet rendelkezésére áll.
 
 (15) A bányafelügyelet a szolgalom alapítása esetén fizetendő kártalanítás megállapítására az igazságügyi szakértőkről szóló törvény szerinti szakértőt rendel ki, kivéve, ha a szolgalom alapítását kérő a szerződéses ajánlatát egy évnél nem régebbi igazságügyi szakértői vélemény alapján adta meg, és az igazságügyi szakértői véleményt a kérelméhez mellékeli. A szakértői vélemény ügyfelek részére történő megküldéséről a bányafelügyelet hivatalból gondoskodik.
+
+(15a) A kártalanítás összegének megállapítása során
+
+a) az összehasonlításra alkalmas ingatlanok helyben kialakult forgalmi értékét, vagy ha az ingatlan valóságos forgalmi értéke – összehasonlításra alkalmas ingatlanok, illetve ezek forgalmának hiányában, vagy forgalmukra jogszabályban elrendelt korlátozás, illetve más ok miatt – nem állapítható meg, az ingatlan településen belüli fekvését, közművekkel való ellátottságát, ennek hiányában a közművesítés lehetőségét, földrajzi és gazdasági adottságait, termőföld esetén a művelési ágat, a földminősítés szempontjait és az ingatlan jövedelmezőségét és
+
+b) az ingatlanhasználat korlátozásának időtartamát és mértékét, üzemelési szolgalom esetén a létesítmény biztonsági övezetében betartandó tilalmakat és korlátozásokat
+
+kell figyelembe venni.
 
 (16) A szolgalom alapítási eljárás eljárási költségeit – ideértve az eljárásban kirendelt ügygondnok vagy eseti gondnok díját és költségeit is – a szolgalom alapítását kérő viseli.
 
@@ -58,7 +66,7 @@ c) a szolgalom alapítását kérő nyilatkozatát arról, hogy a kártalanítá
 
 a) a kártalanításra jogosult a kártalanítási összeget nem veszi át,
 
-b) a kártalanításra jogosult lakóhelye, székhelye ismeretlen,
+b) a kártalanításra jogosult lakóhelye, székhelye ismeretlen, vagy személye bizonytalan, ideértve azt is, ha a közhiteles nyilvántartásba bejegyzett jogosult elhalálozott és az örökös ingatlanon fennálló jogának közhiteles nyilvántartásba történő bejegyzésére a szolgalom megállapító határozat véglegessé válásának időpontjáig nem került sor,
 
 c) a kártalanításra jogosult fizetési számlát nem jelöl meg és
 

@@ -8,7 +8,7 @@ ab) a bezárást követő időszakra vonatkozó terv elbírálására 45 nap,
 
 b) a bányatelek megállapítására indított eljárás során 60 nap,
 
-c) a kutatás engedélyezésére vonatkozó eljárás során 25 nap.
+c) a szilárd ásványinyersanyag-kutatás engedélyezésére vonatkozó eljárás során 25 nap.
 
 d) a magyar állam tulajdonosi jogait gyakorló szerv igénybejelentése esetén 55 nap.
 
@@ -50,4 +50,4 @@ e) ezek késedelmi kamatait.
 
 (8) Ha a kötelezett a fizetési kedvezményben foglaltak szerinti fizetési kötelezettségét nem teljesíti, a tartozás járulékaival együtt egy összegben esedékessé válik.
 
-(9)
+(9) A kérelemre indult bányafelügyeleti hatósági eljárás esetében az ügyintézési határidő a kérelemnek vagy a bejelentésnek a hatósághoz történő beérkezését követő első munkanapon kezdődik.

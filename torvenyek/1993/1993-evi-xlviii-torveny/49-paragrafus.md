@@ -12,15 +12,7 @@ b) halmazállapotától függetlenül a víz.
 
 2. ,,Ásványvagyon'' az ásványi nyersanyagoknak azon része, amelynek mennyiségét és minőségét földtani, valamint bányaműszaki és -gazdasági szempontok alapján becsléssel vagy számítással határozzák meg.
 
-3. „Ásványvagyon-gazdálkodás”: a bányafelügyelet azon döntéseinek és intézkedéseinek összessége, amely biztosítja
-
-a) az ásványi nyersanyagok mennyiségének, minőségének és lelőhelyeinek nyilvántartását, valamint a nyilvántartás vezetéséhez szükséges adatszolgáltatást,
-
-b) a megismert és nyilvántartott ásványvagyon megőrzését, védelmét, valamint az indokolatlan ásványi nyersanyag-kitermelések és -igénybevételek megakadályozását,
-
-c) az ásványi nyersanyagok kitermelése során a veszteségek csökkentését és
-
-d) a kitermelt ásványi nyersanyagokkal történő elszámolást, valamint a visszahagyott ásványvagyon további kitermelhetőségét.
+3.
 
 4. „Bányászat (bányászati tevékenység)”: ásványi nyersanyagok kutatása, feltárása és kitermelése, az e tevékenységek során keletkező hulladékok kezelése, valamint az ásványvagyon-gazdálkodás. Bányászati tevékenységnek minősül:
 
@@ -34,9 +26,11 @@ d) a bányászati tevékenység befejezését követő tájrendezés,
 
 e) a szénhidrogén tárolására alkalmas földtani szerkezetek kutatása, tárolásra történő kialakítása, igénybevétele és bezárása,
 
-f) a geotermikus energia kutatása, kinyerése és hasznosítása, továbbá
+f) a geotermikus energia kutatása, kinyerése és hasznosítása,
 
-g) az a)–f) pontokban meghatározott tevékenységek során keletkezett hulladék kezelése.
+g) az a)–f) pontokban meghatározott tevékenységek során keletkezett hulladék kezelése, továbbá
+
+h) a bányavállalkozó bányászati tevékenysége során felszín alatti víz járulékos kitermelését követően a kitermelt felszín alatti vízben oldott állapotban lévő ásványi nyersanyag kinyerése is.
 
 5. „Bányavállalkozó” a bányászati tevékenység végzésére jogosult jogi vagy természetes személy, továbbá
 
@@ -111,6 +105,10 @@ A bányavállalkozó tulajdonában lévő távadat-átviteli eszközök a száll
 24. „Zárt terület”: meghatározott ásványi nyersanyag kutatása, feltárása, kitermelése céljából lehatárolt, koncessziós pályázatra kijelölhető terület. Zárt területnek kell tekinteni a már megállapított bányászati joggal fedett területeket az adott ásványi nyersanyag vonatkozásában a jogosultság fennállása alatt.
 
 25. „Növelt hatékonyságú művelési eljárás”: olyan végső többletszénhidrogén-kihozatali eljárás, amely megnöveli az elsődleges és másodlagos művelési eljárásokkal kitermelhető szénhidrogén mennyiséget.
+
+25a. „Elsődleges művelési eljárás”: rétegenergiával, külső energia alkalmazása nélkül történő szénhidrogén kitermelési eljárás.
+
+25b. „Másodlagos művelési eljárás”: többlet szénhidrogén kitermelésére irányuló kívülről alkalmazott energia segítségével történő gáz, illetve víz besajtolásával történő művelési eljárás.
 
 26. „Szolgáltatásra köteles földtani adat”: azok a földtani adatok, amelyeket a földtani kutatás, a geotermikusenergia-kutatás, az ásványi nyersanyagkutatás vagy a kitermelés során a földtani kutatásra jogosult vagy a bányavállalkozó közvetlenül vagy a földtani alapadatok feldolgozásával közvetett módon megismer.
 

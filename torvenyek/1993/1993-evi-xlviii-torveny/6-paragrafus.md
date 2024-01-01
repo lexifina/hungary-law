@@ -1,4 +1,4 @@
-6. § (1) A hatósági engedély alapján gyakorolt bányászati jog kérelemre, a bányafelügyelet hozzájárulásával átruházható. A hozzájárulás iránti kérelmet – a (4) bekezdés szerinti esetek kivételével – az átvevő nyújtja be.
+6. § (1) A hatósági engedély alapján gyakorolt bányászati jog kérelemre, a bányafelügyelet hozzájárulásával átruházható. A hozzájárulás iránti kérelmet a bányászati jogot átvevő nyújtja be.
 
 (2) A bányászati jog átruházására vonatkozó szerződés a bányafelügyelet határozatának véglegessé válása napján válik hatályossá.
 

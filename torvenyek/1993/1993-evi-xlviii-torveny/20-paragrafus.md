@@ -102,7 +102,7 @@ c) egyéb közérdek
 
 (9) A bányajáradékot pénzben kell teljesíteni. A befizetett bányajáradék költségként számolható el.
 
-(10)
+(10) A bányajáradék fizetésére kötelezett a bányajáradék-önbevallást a benyújtását követő öt éven belül, a teljes, javított önbevallás ismételt benyújtásával és a bányajáradék megfizetésével vagy a többletként megfizetett bányajáradék visszaigénylésével helyesbítheti. Helyesbítés esetén az önbevallás benyújtására kötelezettel szemben szankció nem alkalmazható. A hibásan benyújtott önbevallás alapján teljesített többletbefizetés összegét vissza kell fizetni. Visszafizetés esetén az államot kamatfizetési kötelezettség nem terheli.
 
 (11) A bányajáradék pénzben kifejezett összege a kitermelt ásványi nyersanyag vagy geotermikus energia értékének e törvényben vagy a koncessziós szerződésben meghatározott százaléka. A bányajáradék számításának alapja az ásványi nyersanyag természetes előfordulási helyéről kitermelt, a bányanyíláson kiszállított, kútfejen vagy ennek hiányában a kútfejre visszaszármaztatott módon mért mennyiség értéke.
 
