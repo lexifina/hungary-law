@@ -11,3 +11,5 @@ c) súlyosan vagy ismételten megsértette
 ca) a Felügyelet feladatkörébe tartozó törvények vagy e törvények felhatalmazása alapján kiadott jogszabályok előírásait, és emiatt vele szemben a Felügyelet öt évnél nem régebbi jogerős vagy végleges határozatában a legmagasabb összegű bírságot szabta ki vagy a felmentését kezdeményezte, vagy a bíróság öt évnél nem régebbi jogerős határozatában felelősségét e jogszabályok megsértése miatt megállapította,
 
 cb) a tevékenységére vonatkozó külföldi jogszabályban meghatározott rendelkezéseket és emiatt az felügyelet öt évnél nem régebbi jogerős vagy végleges döntésében a legmagasabb összegű bírságot szabta ki vele szemben vagy a felmentését kezdeményezte, vagy a külföldi bíróság öt évnél nem régebbi jogerős döntésében felelősségét e jogszabályok megsértése miatt megállapította.
+
+d) közgazdasági vagy pénzügyi jellegű munkakör vagy tevékenység vonatkozásában foglalkozástól vagy tevékenységtől eltiltás hatálya alatt áll.

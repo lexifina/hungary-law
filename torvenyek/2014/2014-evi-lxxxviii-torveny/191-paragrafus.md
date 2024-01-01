@@ -12,7 +12,7 @@ e) a 183–184. §-ban, valamint a 185/A. §-ban foglaltak szerint a kielégít�
 
 f) a 193. § (3) bekezdésében meghatározott tájékoztató elektronikus elérésének módjáról.
 
-(2) A felszámoló az (1) bekezdésben meghatározott tájékoztatót köteles két országos napilapban is megjelentetni.
+(2)
 
 (3) A felszámoló a felszámolást elrendelő jogerős bírósági végzés közzétételét követő harminc napon belül köteles az (1) bekezdésben meghatározott tartalommal egyenként írásbeli tájékoztatást küldeni azon szerződőknek, biztosítottaknak, továbbá egyéb ismert hitelezőknek, akiknek állandó lakóhelye, székhelye vagy fióktelepe az Európai Unió másik tagállamában található.
 

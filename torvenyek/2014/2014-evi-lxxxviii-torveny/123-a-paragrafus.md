@@ -8,6 +8,8 @@ b) a szolgáltatás teljesítésének szabályai és a vonatkozó határidők,
 
 c) a kárkifizetés és szolgáltatás lehetséges formái, ideértve az egyezségi kárrendezést is.
 
+d) az értékcsökkenés alkalmazásának módszertana.
+
 (3) A biztosító köteles a kárrendezéshez nélkülözhetetlen dokumentumok beérkezésétől számított 15 napon belül, de ezek beérkezésének hiányában is legkésőbb a szolgáltatási igény benyújtásától számított egy hónapon belül a biztosítási szolgáltatásra jogosult személynek:
 
 a) kellően megindokolt javaslatot tenni a szolgáltatására azokban az esetekben, amelyekben a szolgáltatási kötelezettségének fennállását és a szolgáltatásának mértékét jogcímenként (beleértve a kamatra vonatkozó tájékoztatást) összegszerűen megállapította, vagy

@@ -1,6 +1,6 @@
 ## 172. A biztosításközvetítő és a kiegészítő biztosításközvetítői tevékenységet végző személy panaszkezelése
 
-382. § (1) A többes ügynök és az alkusz biztosítja, hogy az ügyfél és a fogyasztói érdekképviseleti szervek (a továbbiakban együtt e § alkalmazásában: ügyfél) a többes ügynök, az alkusz és – adott termék kapcsán – az általuk megbízott kiegészítő biztosításközvetítői tevékenységet végző személy magatartására, tevékenységére vagy mulasztására vonatkozó panaszát szóban (személyesen, telefonon) vagy írásban (személyesen vagy más által átadott irat útján, postai úton, telefaxon, elektronikus levélben) közölhesse.
+382. § (1) A többes ügynök és az alkusz biztosítja, hogy az ügyfél és a fogyasztói érdekképviseleti szervek (a továbbiakban együtt e § alkalmazásában: ügyfél) a többes ügynök, az alkusz és – adott termék kapcsán – az általuk megbízott kiegészítő biztosításközvetítői tevékenységet végző személy magatartására, tevékenységére vagy mulasztására vonatkozó panaszát szóban (személyesen, telefonon) vagy írásban (személyesen vagy más által átadott irat útján, postai úton, elektronikus levélben) közölhesse.
 
 (2) A többes ügynök és az alkusz panaszkezelési eljárására egyebekben a 159. § (2)–(5) bekezdése rendelkezéseit kell alkalmazni azzal, hogy ahol a rendelkezés biztosítót nevesít, azon a többes ügynököt és az alkuszt kell érteni.
 

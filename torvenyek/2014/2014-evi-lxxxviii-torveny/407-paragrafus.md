@@ -36,7 +36,7 @@ f) a biztosító vagy biztosítók, a többes ügynök, illetve az alkusz neve, 
 
 g) ügynök esetén a közvetített termékek 1. és 2. melléklet szerinti ágazati besorolása biztosítónként;
 
-h) a végzettség típusa (felsőfokú végzettség, szakképesítés vagy hatósági vizsga);
+h) a végzettség típusa (felsőfokú végzettség, közgazdasági középfokú végzettség, illetve szakképzettség, gazdaságtudományi szakképesítés, illetve szakképzettség, biztosításközvetítő szakképesítés vagy hatósági vizsga);
 
 i) státusza (aktív, inaktív);
 

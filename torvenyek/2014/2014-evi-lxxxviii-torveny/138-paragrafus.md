@@ -2,7 +2,7 @@
 
 a) a feladatkörében eljáró Felügyelettel,
 
-b) az előkészítő eljárást folytató szervvel, a nyomozó hatósággal és az ügyészséggel,
+b) az előkészítő eljárást folytató szervvel, a nyomozó hatósággal, az ügyészséggel, valamint a szabálysértési hatósági jogkörében eljáró rendőrséggel és a Nemzeti Adó- és Vámhivatallal,
 
 c) büntetőügyben, polgári peres vagy nemperes eljárásban, közigazgatási perben eljáró bírósággal, a bíróság által kirendelt szakértővel, továbbá a végrehajtási ügyben eljáró önálló bírósági végrehajtóval, a csődeljárásban eljáró vagyonfelügyelővel, a felszámolási eljárásban eljáró ideiglenes vagyonfelügyelővel, rendkívüli vagyonfelügyelővel, felszámolóval, a természetes személyek adósságrendezési eljárásában eljáró főhitelezővel, Családi Csődvédelmi Szolgálattal, családi vagyonfelügyelővel, bírósággal
 
@@ -38,7 +38,7 @@ r) a feladatkörében eljáró Nemzeti Adatvédelmi és Információszabadság H
 
 s) a bonus-malus rendszer, az abba való besorolás, illetve a káresetek igazolásának részletes szabályairól szóló miniszteri rendeletben meghatározott kártörténeti adatra és bonus-malus besorolásra nézve a rendeletben szabályozott esetekben a biztosítóval,
 
-t) a mezőgazdasági biztosítási szerződés díjához nyújtott támogatást igénybe vevő biztosítottak esetében az agrárkár-megállapító szervvel, a mezőgazdasági igazgatási szervvel, az agrárkár-enyhítési szervvel, valamint az agrárpolitikáért felelős miniszter által vezetett minisztérium irányítása alatt álló, gazdasági elemzésekkel foglalkozó intézménnyel,
+t) a lábon álló növénykultúrára kötött mezőgazdasági biztosítási szerződésekben szereplő biztosítottak esetében az agrárkár-megállapító szervvel, a mezőgazdasági igazgatási szervvel, az agrárkár-enyhítési szervvel, valamint az agrárpolitikáért felelős miniszter által vezetett minisztérium irányítása alatt álló, gazdasági elemzésekkel foglalkozó intézménnyel,
 
 u) a felszámoló szervezeteket nyilvántartó hatósággal,
 

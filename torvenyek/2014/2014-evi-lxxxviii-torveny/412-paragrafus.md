@@ -32,7 +32,7 @@ fc) fennállott jogviszony esetleges korlátozása, a jogviszony megszüntetés�
 
 g) ügynök esetén a közvetített termékek 1. és 2. melléklet szerinti ágazati besorolása;
 
-h) a végzettség típusa (felsőfokú végzettség, szakképesítés vagy hatósági vizsga), az ezt igazoló dokumentum másolata;
+h) a végzettség típusa (felsőfokú végzettség, közgazdasági középfokú végzettség, illetve szakképzettség, gazdaságtudományi szakképesítés, illetve szakképzettség, biztosításközvetítő szakképesítés vagy hatósági vizsga), az ezt igazoló dokumentum másolata;
 
 i) a biztosítótól, többes ügynöktől vagy alkusztól kilépett biztosításközvetítő természetes személy közvetítői igazolványa bevonásának ténye;
 
