@@ -46,7 +46,7 @@
 
 ## bb) az egyes kiadási részterületeken legalább 3% megtakarítás és ehhez kapcsolódóan hatékonyságnövekedési tartalék elérése, a felülvizsgálat eredményeitől függően egyes támogatási formák célzottabbá tétele, a költségvetési források prioritást élvező területek irányába történő átcsoportosítási lehetőségének feltárása az aktuális szakpolitikai célok figyelembevételével, mely célok a magyarországi demográfiai folyamatok kedvező irányba terelése, a családalapítás ösztönzése, a termékenységi arányszám növelése, a családok anyagi biztonságának erősítése, a munka és a családi élet jobb összeegyeztethetősége, valamint a hosszú távon kiszámítható családpolitika;
 
-## 7. felhívja a pénzügyminisztert, hogy – a belügyminiszter, az építési és közlekedési miniszter és a kultúráért és innovációért felelős miniszter bevonásával – készítsen előterjesztést a Kormány részére a 2024. évi felülvizsgálat munkatervéről, módszertanáról és annak részeként a megtakarítási és hatékonysági célokról;
+## 7.[^1] felhívja a pénzügyminisztert, hogy – a közigazgatási és területfejlesztési miniszter, az építési és közlekedési miniszter és a kultúráért és innovációért felelős miniszter bevonásával – készítsen előterjesztést a Kormány részére a 2024. évi felülvizsgálat munkatervéről, módszertanáról és annak részeként a megtakarítási és hatékonysági célokról;
 
 | Felelős: | pénzügyminiszter belügyminiszter építési és közlekedési miniszter kultúráért és innovációért felelős miniszter |
 
@@ -103,3 +103,5 @@
 1. melléklet az 1262/2023. (VII. 4.) Korm. határozathoz
 
 A közkiadások 2023. évi felülvizsgálatának munkaterve
+
+[^1]: A 7. pont az 1597/2023. (XII. 22.) Korm. határozat 10. pontja szerint módosított szöveg.
