@@ -1,0 +1,1 @@
+15. § A fenntarthatósági célú átvilágítási kötelezettségeket a vállalkozás a Hatóság elnökének rendeletében foglalt részletszabályok szerint teljesíti, a kötelezettségek teljesítését a miniszter rendeletében meghatározott módon és rendszerességgel dokumentálja, és a dokumentációt a keletkezésétől számított hét évig megőrzi.

@@ -1,0 +1,1 @@
+5. § A vállalkozás üzleti tevékenysége során a környezeti fenntarthatóság elvének érvényesülése érdekében figyelembe veszi a hosszú távú fenntarthatósági lehetőségeket, és gondoskodik azok implementálásáról az üzleti stratégiájába.

@@ -1,0 +1,3 @@
+24. § (1) Az ESG beszámolót magyar nyelven, elektronikus formában – a Hatóság elnökének rendeletében meghatározott tartalmi és formai követelményeknek megfelelően – kell elkészíteni, amelyet jogszabályban meghatározott módon a vállalkozás vagy az anyavállalat képviseletére jogosult személy köteles hitelesíteni. Az ESG beszámoló akkor hiteles, ha azt a vállalkozás képviseletére jogosult személy legalább fokozott biztonságú elektronikus aláírásával vagy bélyegzőjével és időbélyegzővel látta el.
+
+(2) Az ESG beszámoló részletes tartalmi követelményeit a Hatóság elnöke a Tanács véleményének kikérésével rendeletben állapítja meg.

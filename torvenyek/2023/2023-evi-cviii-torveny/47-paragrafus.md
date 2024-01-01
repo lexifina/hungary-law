@@ -1,0 +1,1 @@
+47. § A Hatóság a honlapján minden év június 30-ig közzéteszi az előző naptári évben végzett ellenőrzési tevékenységéről készített jelentést, amely tartalmazza a Hatóság által feltárt jogsértéseket és az elrendelt intézkedéseket.
