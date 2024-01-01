@@ -1,1 +1,0 @@
-## Elszámolás a svájci hatóságokkal

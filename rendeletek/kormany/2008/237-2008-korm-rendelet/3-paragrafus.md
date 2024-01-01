@@ -1,1 +1,0 @@
-## Összeférhetetlenség, adat- és titokvédelem

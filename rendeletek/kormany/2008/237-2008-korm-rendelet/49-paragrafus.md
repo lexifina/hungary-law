@@ -1,1 +1,0 @@
-## Ösztöndíj Alap
