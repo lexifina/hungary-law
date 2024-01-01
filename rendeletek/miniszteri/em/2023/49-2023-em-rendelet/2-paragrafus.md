@@ -1,0 +1,1 @@
+2. § Hatályát veszti levegőterheltségi szint és a helyhez kötött légszennyező források kibocsátásának vizsgálatával, ellenőrzésével, értékelésével kapcsolatos szabályokról szóló 6/2011. (I. 14.) VM rendelet 23/A. §-a.
