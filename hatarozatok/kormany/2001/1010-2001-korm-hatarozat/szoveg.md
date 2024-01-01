@@ -48,11 +48,11 @@ III.
 
 A Bizottság összetétele
 
-1. A Bizottság 11 tagból áll, tagjait a belügyminiszter egyetértésével a miniszter bízza meg.
+1.[^2] A Bizottság 11 tagból áll, tagjait a közigazgatási és területfejlesztési miniszter egyetértésével a miniszter bízza meg.
 
 2. A Bizottság tagjai közül elnököt és két elnökhelyettest választ.
 
-3. A Bizottság tagjainak megbízatása – a miniszter által a belügyminiszter egyetértésével történő – visszavonásáig érvényes. A visszavonásra a III/1. pontban foglaltakat megfelelően kell alkalmazni. A tisztség megszűnik továbbá a miniszterhez intézett írásbeli lemondással, illetve a tag halálával.
+3.[^3] A Bizottság tagjainak megbízatása – a miniszter által a közigazgatási és területfejlesztési miniszter egyetértésével történő – visszavonásáig érvényes. A visszavonásra a III/1. pontban foglaltakat megfelelően kell alkalmazni. A tisztség megszűnik továbbá a miniszterhez intézett írásbeli lemondással, illetve a tag halálával.
 
 4. A Bizottság tagjait díjazás illeti meg, melynek mértékét a miniszter évente határozza meg. A tagok jogosultak továbbá feladataik ellátásával kapcsolatos igazolt költségeik megtérítésére.
 
@@ -199,3 +199,5 @@ d) megszervezi és felelős a Titkárság működéséért, megállapítja annak
 e) tanácskozási joggal részt vesz a Bizottság ülésein.
 
 [^1]: A rendelet melléklete az 1130/2001. (XII. 10.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A Melléklet III. pont 1. alpontja az 1597/2023. (XII. 22.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^3]: A Melléklet III. pont 3. alpontja az 1597/2023. (XII. 22.) Korm. határozat 1. pontja szerint módosított szöveg.
