@@ -1,0 +1,1 @@
+1/C. § Az Egyetem alaptevékenységként – a szervezeti és működési szabályzatában kijelölt szervezeti egysége útján – ellátja az 1/B. § hatálya alá nem tartozó, kormányrendeletben meghatározott kormányzati képzési, oktatási feladatok ellátásához kapcsolódó központosított közbeszerzés során ajánlatkérésre feljogosított szervezet feladatait, valamint egyéb kapcsolódó feladatokat.
