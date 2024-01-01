@@ -20,9 +20,7 @@ e) öröklési per esetén – az a)–d) pont szerinti végzés hiányában –
 
 jogerőre emelkedésétől számított egy éven belül folyósítja az örökös vagy – az a) pont szerinti külön végzésbe foglalt öröklési bizonyítványban, a b) pont szerinti teljes hatályú hagyatékátadó végzésben, a c) pont szerinti teljes hatályúvá vált ideiglenes hatályú hagyatékátadó végzésben, a d) pont szerinti hagyatéki eljárást befejező végzés alapját képező bírósági határozatban, az e) pont szerinti esetben pedig a per érdemében hozott bírósági határozatban megjelölt arányban – az örökösök részére.”
 
-(3) A sportról szóló 2004. évi I. törvény 61. § (8) bekezdése helyébe a következő rendelkezés lép:
-
-„(8) A sportpolitikáért felelős miniszter a jogosulttal szemben az 59. § (7), (8) és (10) bekezdése, valamint a (2a) bekezdés szerinti bejelentési kötelezettség elmulasztása miatt közigazgatási bírságot szabhat ki.”
+(3)
 
 (4) A sportról szóló 2004. évi I. törvény 61. § (12) bekezdés a) pontja helyébe a következő rendelkezés lép:
 

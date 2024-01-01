@@ -12,7 +12,7 @@
 
 6. 22. § (3) bekezdésében az „fa) és fb) alpontjában” szövegrész helyébe az „fa), fb) és fh) alpontjában” szöveg,
 
-7. 22. § (4) és (5) bekezdésében az „fa) és fb) alpontja” szövegrész helyébe az „fa), fb) és fh) alpontja” szöveg,
+7.
 
 8. 22. § (7) bekezdésében a „90 nap” szövegrész helyébe a „60 nap” szöveg,
 
