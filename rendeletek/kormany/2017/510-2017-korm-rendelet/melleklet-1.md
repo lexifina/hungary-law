@@ -158,9 +158,9 @@ A kihelyezett mentőeszközöket jól láthatóan meg kell jelölni és azokat f
 
 5.17. Veszélyes áru rakodására szolgáló kikötőhöz vagy kikötőhelyhez 300 méternél kisebb távolságában nem tervezhető nyíltvízi fordítóhely, másik kikötő bejárata, utasforgalmi építmény (az üzemanyag-szolgáltató, illetve ipari tevékenységet végző helytől tartandó távolságot a hajózási hatóság esetenként állapítja meg).
 
-5.18.[^7] Veszélyes áru rakodására folyami nyíltvízi kikötő a hajózási hatóság elvi létesítési engedélye és előírásai alapján létesíthető.
+5.18.[^13] Veszélyes áru rakodására folyami nyíltvízi kikötő a hajózási hatóság elvi létesítési engedélye és előírásai alapján létesíthető.
 
-5.19.[^8]
+5.19.[^14]
 
 5.20. A 4.3., 6.1., 6.2., 8. osztályú (pl. mérgező, undort keltő, vízzel keveredve robbanó) veszélyes áru rakodására kizárólag medencés kikötő tervezhető, megfelelő környezetvédelmi berendezésekkel. A kikötő területén a szennyezet vízfelület elhatárolására alkalmas eszközt kell üzemkész állapotban tartani.
 
@@ -248,5 +248,5 @@ kell feltüntetni.
 
 6.4. Az átkelőhelyen (mindkét parton) és a személykikötőben a menetrend és díjszabás kifüggesztésére alkalmas táblát kell elhelyezni.
 
-[^7]: Az 1. melléklet 5. pont 5.18. alpontja a 193/2020. (V. 8.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^8]: Az 1. melléklet 5. pont 5.19. alpontját a 193/2020. (V. 8.) Korm. rendelet 2. §-a hatályon kívül helyezte.
+[^13]: Az 1. melléklet 5. pont 5.18. alpontja a 193/2020. (V. 8.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^14]: Az 1. melléklet 5. pont 5.19. alpontját a 193/2020. (V. 8.) Korm. rendelet 2. §-a hatályon kívül helyezte.

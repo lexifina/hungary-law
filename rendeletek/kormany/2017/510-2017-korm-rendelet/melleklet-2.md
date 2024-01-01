@@ -6,7 +6,7 @@
 
 1.1. Nagyhajók fogadására alkalmas hajóállomásoknál a kikötőbakokat öntöttvasból, vagy acélköpennyel ellátott vasbetonból kell készíteni és a talaj minőségétől függően legalább 1 m3-es alap (beton) tömbben kell elhelyezni. Az úszóművek kikötését biztosító támgerendáknak és a kialakított támfészkeknek alkalmasnak kell lennie a személykikötőben kiköthető összes úszólétesítmény egyidejű fogadására.
 
-1.2.[^9] Az egymás mellé köthető úszólétesítmények maximális számát úgy kell meghatározni, hogy a kapcsolódó víziúton a közlekedést és más hajózási létesítmény biztonságos üzemeltetését a kikötött vízijárművek ne akadályozzák. Nagyhajók fogadására alkalmas hajóállomásoknál egymás mellé köthető több úszólétesítményt csak úgy lehet elhelyezni, hogy az úszólétesítmények és a hajóállások rakpartra merőleges szélei között 5 méter biztonsági távolság maradjon.
+1.2.[^15] Az egymás mellé köthető úszólétesítmények maximális számát úgy kell meghatározni, hogy a kapcsolódó víziúton a közlekedést és más hajózási létesítmény biztonságos üzemeltetését a kikötött vízijárművek ne akadályozzák. Nagyhajók fogadására alkalmas hajóállomásoknál egymás mellé köthető több úszólétesítményt csak úgy lehet elhelyezni, hogy az úszólétesítmények és a hajóállások rakpartra merőleges szélei között 5 méter biztonsági távolság maradjon.
 
 1.3. Határkikötőben az úszóműves kikötőhelynek alkalmasnak kell lennie az utasokat szállító és a víziúton szállítható bármely áruval határvizsgálatra jelentkező úszólétesítmény kikötésére és a határvizsgálat idejére történő veszteglésre. Ellenkező esetben a határkikötő üzemben tartójának ezt kiváltó megoldást kell biztosítania.
 
@@ -122,4 +122,4 @@ Az állandó helyen telepített építményeket, úszólétesítményeket, beren
 
 6.6. Havarialekötő (külön jogszabályban meghatározottak szerint) vagy nagyvízi veszteglőhely esetében parti kikötés lehetőségét biztosítani kell.
 
-[^9]: A 2. melléklet 1.2. pontja a 612/2023. (XII. 22.) Korm. rendelet 51. §-ával megállapított szöveg.
+[^15]: A 2. melléklet 1.2. pontja a 612/2023. (XII. 22.) Korm. rendelet 51. §-ával megállapított szöveg.
