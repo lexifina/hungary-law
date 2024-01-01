@@ -1,3 +1,3 @@
-## 15–19. §[^8]
+20. §[^22]
 
-[^8]: A 15–19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 20. § a 659/2023. (XII. 28.) Korm. rendelet 42. §-a alapján nem lép hatályba.

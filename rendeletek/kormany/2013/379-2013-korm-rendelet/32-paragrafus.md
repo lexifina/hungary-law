@@ -1,3 +1,3 @@
-## 21–31. §[^10]
+32. §[^34]
 
-[^10]: A 21–31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^34]: A 32. § a 659/2023. (XII. 28.) Korm. rendelet 42. §-a alapján nem lép hatályba.
