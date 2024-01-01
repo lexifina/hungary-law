@@ -1,1 +1,0 @@
-## 4. § A 2. § (3) bekezdése szerint éves jelentésnek tartalmaznia kell az adott egészségügyi szolgáltató által végzett reprodukciós beavatkozások számát, típusát a kérelmező életkora szerinti bontásban, továbbá a meddőség okait, a létrejött terhességek és élveszületések számát.

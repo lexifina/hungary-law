@@ -1,107 +1,175 @@
-## 6. § Ez a rendelet 2009. január 1-jén lép hatályba, rendelkezéseit a folyamatban levő reprodukciós eljárások vonatkozásában is alkalmazni kell.
+1. számú melléklet a 339/2008. (XII. 30.) Korm. rendelethez[^14]
 
-1. számú melléklet
-
-a 339/2008. (XII. 30.) Korm. rendelethez[^10]
-
-## Adatszolgáltatás reprodukciós eljárás során elvégzett beavatkozásról
+Adatszolgáltatás reprodukciós eljárás során elvégzett beavatkozásról
 
 ## Az adatszolgáltatás során az alábbi adatok kerülnek továbbításra:
 
-1. ÁNTSZ azonosító
+1. Asszisztált Reprodukciós Centrum neve
 
-2. Intézményi törzsszám
+2. Kezelőorvos neve
 
-3. TAJ szám (A külföldi személyek esetén a TAJ szám: 000000000)
+3. Kezelőorvos pecsétszáma
 
-4.[^11] Egészségbiztosítási Alapból finanszírozott
+4. TAJ
 
-4/A.[^12] Nem magyar állampolgár esetén a költségviselő megnevezése
+5. Születési dátum
 
-5. Páciens születési éve
+6. Tartózkodási hely irányítószáma
 
-6. Férj/partner születési éve
+7. Diagnózis
 
-7.[^13] Összesen hányadik reprodukciós eljárás kezdődik most (megelőző szüléstől függetlenül összesen)
+8. Állampolgárság
 
-7/A.[^14] A jelenleg végzett humán reprodukciós eljárásból összesen hányadik kezdődik
+9. Testmagasság
 
-8. Korábbi friss embriótranszferek száma
+10. Testsúly
 
-9. Korábbi fagyasztott embriótranszferek száma
+11. Infertilitás időtartama
 
-9/A.[^15] Korábbi ivarsejttel végzett mesterséges ondóbevitelek száma
+12. Graviditás
 
-10. Kezelés javallata
+13. Paritás
 
-11. Kezelési ciklus (gyógyszeres kezelés/beültetés) kezdetének dátuma
+14. Korábbi mesterséges ondóbevitelek száma
 
-12. Gyógyszeres kezelés típusa
+15. Korábbi embrióelőállítás céljából elindított stimulációk száma
 
-13. Beavatkozás típusa
+16. Korábbi friss embriótranszferek száma
 
-14. Beavatkozás módja
+17. Korábbi krioprezervációt követő embriótranszferek száma
 
-15. Petesejtleszívás időpontja
+18. Kezelésben részt vevő egyedülálló-e
 
-15/A.[^16] Az ondóbevitel időpontja
+19. Férj/partner születési dátum
 
-16. Leszívott petesejtek száma összesen
+20. Férj/partner TAJ
 
-17. Ebből lefagyasztott petesejtek száma
+21. Kezelés javallatai
 
-18. Ebből adományozásra szánt petesejtek száma
+22. A kötelező egészségbiztosítás által finanszírozott-e a kezelés
 
-19. Petesejtek megtermékenyítése
+23. 6 hónapon belüli AMH-vizsgálat eredménye
 
-20. Megtermékenyült (PN2) petesejtek száma
+24. Stimuláció elindításának dátuma
 
-21. Felhasznált petesejtek száma
+25. Kezelés kórházi törzsszáma
 
-22. PN2-ből létrejött embriók száma
+26. Stimulációs protokoll
 
-23. Lefagyasztott petesejtből létrehozott embriók száma
+27. Kezelés célja
 
-24. Preimplantációs genetikai vizsgálat történt (PGD)
+28. Kiváltás napján 14 mm-nél nagyobb átlagolt átmérőjű tüszők száma
 
-25. Embrióvisszaültetés történt
+29. Petesejtleszívás dátuma
 
-26. Embrióvisszaültetés történt dátum
+30. Kinyert petesejtek száma
 
-27. Beültetett embriók száma
+31. Beavatkozás típusa
 
-28. Lefagyasztott embriók száma
+32. Leszívott és adományozott petesejtek száma
 
-29. A kezelések szövődményei (30 napon belül) – korházi felvétellel járó szövődmények
+33. Petesejtek adományozásának dátuma
 
-30. Anyai halálozási (30 napon belül)
+34. Befogadott petesejtek száma
 
-31. Klinikai terhesség
+35. Ivarsejt/embrió felolvasztásának dátuma
 
-32. Klinikai terhesség helye
+36. Felolvasztott ivarsejtek/embriók/tárolóegységek száma
 
-33. Ultrahanggal igazolt petezsákok száma
+37. Felolvasztás dátuma
 
-34. Embrióredukció történt
+38. Korábbi kezelés törzsszáma, amiből a petesejtek/embriók származnak
 
-35. Redukált magzatok száma
+39. A kezelés során feldolgozott és/vagy felhasznált spermiumok eredete
 
-36. Élveszülés
+40. Krioprezervált minta típusa
 
-37. Megszületett gyermekek száma
+41. Krioprezervált ivarsejtek/embriók/tárolóegységek száma
 
-38. Páciens testmagassága
+42. Krioprezervációs azonosító
 
-39. Páciens súlya
+43. Krioprezerváció dátuma
 
-40. Adományozott embriók száma
+44. Ivarsejt/embrió donor kódja
 
-41. Adományozás (petesejt/spermium/embrio) esetén a donorok száma
+45. Termékenyítésre kiválasztott petesejtek száma
 
-[^10]: Az 1. számú melléklet a 447/2012. (XII. 29.) Korm. rendelet 72. § (4) bekezdésével megállapított szöveg.
-[^11]: Az 1. számú melléklet 4. pontja a 379/2016. (XII. 2.) Korm. rendelet 125. § g) pontjával megállapított szöveg.
-[^12]: Az 1. számú melléklet 4/A. pontját az 520/2013. (XII. 30.) Korm. rendelet 58. §-a iktatta be.
-[^13]: Az 1. számú melléklet 7. pontja az 520/2013. (XII. 30.) Korm. rendelet 58. §-ával megállapított szöveg.
-[^14]: Az 1. számú melléklet 7/A. pontját az 520/2013. (XII. 30.) Korm. rendelet 58. §-a iktatta be.
-[^15]: Az 1. számú melléklet 9/A. pontját az 520/2013. (XII. 30.) Korm. rendelet 58. §-a iktatta be.
-[^16]: Az 1. számú melléklet 15/A. pontját az 520/2013. (XII. 30.) Korm. rendelet 58. §-a iktatta be.
+46. Érett petesejtek száma
+
+47. Termékenyítésre felhasznált petesejtek száma
+
+48. 2 pronukleusszal termékenyült embriók száma
+
+49. 1 pronukleusszal termékenyült embriók száma
+
+50. 3≤ pronukleusszal termékenyült embriók száma
+
+51. Érett, nem termékenyült petesejtek száma
+
+52. Elpusztult petesejtek száma
+
+53. Éretlen/abnormális petesejtek száma
+
+54. Adott fejlődési napon beavatkozás történt-e
+
+55. Beavatkozás típusa
+
+56. Sikeres biopszián átesett embriók száma
+
+57. Sikeresen fixált / csőbe helyezett mintával rendelkező embriók száma
+
+58. PGT-vizsgálat módszere
+
+59. PGT-vizsgálati minta típusa
+
+60. A sikeresen fixált / csőbe helyezett minták közül hány embrió esetében lehetett genetikai eredményt/diagnózist felállítani
+
+61. Ezek közül embrióbeültetésre a vizsgált szempontok alapján alkalmas embriók száma
+
+62. Ezek közül embrióbeültetésre a vizsgált szempontok alapján nem alkalmas embriók száma
+
+63. Ezek közül a beültetésre való alkalmasság szempontjából nem egyértelműen eldönthető embriók száma
+
+64. Embrióbeültetés dátuma
+
+65. Beültetett embriók száma
+
+66. A beültetett embrión PGT-vizsgálat történt-e
+
+67. PGT-vizsgálat eredménye
+
+68. Leszívás történt-e
+
+69. A kezelés saját vagy donor embrióval történik
+
+70. Embrió-felolvasztás történt-e
+
+71. Embrió sorsa
+
+72. Ovulációindukció történt-e
+
+73. Ovulációindukció dátuma
+
+74. Ondóminta-feldolgozás történt-e
+
+75. Inszemináció dátuma
+
+76. Ovulációindukció dátuma
+
+77. Freeze all kezelés elsődleges oka
+
+78. Kezelés leállításának oka
+
+79. Beültetés elmaradásának elsődleges oka
+
+80. „Late-onset” OHSS kialakult-e
+
+81. Klinikai terhesség kialakult-e
+
+82. Klinikai terhesség helye
+
+83. Ultrahanggal igazolt petezsákok száma
+
+84. Ultrahanggal igazolt életfunkcióval rendelkező embriók száma
+
+[^14]: Az 1. számú melléklet az 532/2023. (XII. 5.) Korm. rendelet 7. §-ával megállapított szöveg.
