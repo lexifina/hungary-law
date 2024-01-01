@@ -27,3 +27,10 @@ c) ikerszülés esetén a halott magzat, ha legalább az egyik magzat élve szü
 7. helyszíni halottvizsgálatot végző orvos: a 3. § (1) és (2) bekezdésében meghatározott orvos;
 
 8. temető: a temetőkről és a temetkezésről szóló törvény alapján temetőnek minősülő hely.
+
+9.[^1] helyszíni halottvizsgálat: haláleset helyén vagy a holttest feltalálási helyén végzett, a halál idejének, bekövetkezte módjának, okának feltárására irányuló vizsgálat;
+
+10.[^2] helyszíni halottvizsgálatot végző mentőtiszt: haláleset helyszínére érkezett, feladatkörében eljáró, a 3/A. § (1) és (2) bekezdésében meghatározott mentőtiszt.
+
+[^1]: Az 1. § 9. pontját a 377/2023. (VIII. 10.) Korm. rendelet 6. §-a iktatta be.
+[^2]: Az 1. § 10. pontját a 377/2023. (VIII. 10.) Korm. rendelet 6. §-a iktatta be.

@@ -1,43 +1,27 @@
-42. § (1)[^21] A halál okát megállapító orvos vagy a kórbonctani vizsgálatot, hatósági vagy igazságügyi boncolást végző intézmény a halottvizsgálati bizonyítvány kiállításáról – lehetőség szerint rövid úton – értesíti az eltemettetésre kötelezettet, majd a papír alapú halottvizsgálati bizonyítvány egy példányát átadja a holttest eltemettetésére kötelezett személynek vagy annak nevében eljáró temetkezési szolgáltatónak.
+42. §[^39] (1) A halál okát megállapító orvos vagy a kórbonctani vizsgálatot, hatósági vagy igazságügyi boncolást végző intézmény a halottvizsgálati bizonyítvány kiállításáról – haladéktalanul, de legkésőbb a kiállítástól számított 5 napon belül – értesíti az eltemettetésre kötelezettet, és
 
-(2)[^22] A halál okát megállapító orvos vagy a kórbonctani vizsgálatot, hatósági vagy igazságügyi boncolást végző intézmény a halottvizsgálati bizonyítvány egy példányát megküldi a népegészségügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatalnak, valamint ismeretlen személyazonosságú elhunyt esetén három példányát, egyéb esetben a Központi Statisztikai Hivatal (a továbbiakban: KSH) példányát a haláleset helye szerint illetékes anyakönyvvezetőnek.
+a) a halottvizsgálati bizonyítvány egy hiteles papíralapú másolatát átadja a holttest eltemettetésére kötelezett személynek, vagy
 
-(3)[^23] A haláleset helye szerint illetékes anyakönyvvezető a haláleset anyakönyvezése és a haláleset anyakönyvezése igazolásának a halottvizsgálati bizonyítványon történő feltüntetését követően minden hónap ötödik napjáig a halottvizsgálati bizonyítvány egy példányát megküldi a KSH-nak.
+b) a halottvizsgálati bizonyítvány eltemettetési célú részleges adattartalmú változatának egy hiteles papíralapú másolatát átadja a holttest eltemettetésére kötelezett személy nevében eljáró temetkezési szolgáltatónak.
 
-(4)[^24] Ha a halál okát megállapító orvos a perinatális halottvizsgálati bizonyítványt halva született magzatról állítja ki, annak egy-egy példányát megküldi a népegészségügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatalnak és a KSH-nak. Egyéb perinatális halálozás esetén a perinatális halottvizsgálati bizonyítványt a halottvizsgálati bizonyítvánnyal megegyező módon kell továbbítani.
+(2) Az elektronikus kapcsolattartáshoz szükséges feltételek meglétéről nyilatkozó, eltemettetésre kötelezett személy nevének, születési helyének és idejének, valamint anyja nevének, illetve a nevében eljáró temetkezési szolgáltató elektronikus kézbesítési címének megadása esetén a halál okát megállapító orvos gondoskodik a halottvizsgálati bizonyítvány, illetve annak eltemettetési célú részleges adattartalmú változata biztonságos kézbesítési szolgáltatás útján történő kézbesítéséről is.
 
-(5) A halottvizsgálati bizonyítványt legkésőbb a halálok megállapítása napját követő első munkanapon kell továbbítani.
-
-(6)[^25] Ha
+(3) Ha
 
 a) nincs az elhunyt eltemettetésére kötelezett személy,
 
 b) a halottvizsgálati bizonyítvány kiállításáról annak kiállítását követő 5 napon belül nem értesíthető az elhunyt eltemettetésére kötelezett személy, vagy
 
-c) a halottvizsgálati bizonyítványt az eltemettetésre kötelezett személy vagy a nevében eljáró temetkezési szolgáltató az (1) bekezdés szerinti értesítéstől számított 5 napon belül nem veszi át,
+c) az eltemettetésre kötelezett személy vagy a nevében eljáró temetkezési szolgáltató az (1) bekezdés szerinti értesítés kézhezvételétől számított 5 napon belül nem jelentkezik,
 
-a halál okát megállapító orvos a halottvizsgálati bizonyítványt – az a)–c) pontok szerinti tény közlése mellett – a köztemetés elrendelésére illetékes települési önkormányzatnak küldi meg.
+a halál okát megállapító orvos a halottvizsgálati bizonyítvány eltemettetési célú részleges adattartalmú változatát – az a)–c) pont szerinti tény közlése mellett – a köztemetésre illetékes települési önkormányzat jegyzőjének küldi meg.
 
-(7) Ha az eltemettetésre kötelezett a halottvizsgálati bizonyítvány kézhezvételét követő 8. napig a holttest temetésre való elszállításáról nem gondoskodott, a halottvizsgálatot végző orvos az eltemettetésre kötelezett nevének és lakcímének közlésével megküldi a halottvizsgálati bizonyítványt a köztemetésre illetékes települési önkormányzat jegyzőjének.
+(4) Ha az eltemettetésre kötelezett a halottvizsgálati bizonyítvány kézhezvételét követő 8. napig a holttest temetésre való elszállításáról nem gondoskodott, a halottvizsgálatot végző orvos az eltemettetésre kötelezett nevének és lakcímének közlésével megküldi a halottvizsgálati bizonyítvány eltemettetési célú részleges adattartalmú változatát a köztemetésre illetékes települési önkormányzat jegyzőjének.
 
-(8) Ha a biztonságos és szabályozott elektronikus ügyintézési szolgáltatás lehetővé teszi, az állami és önkormányzati szervek (ideértve a halottvizsgálatot végző orvost is) a halottvizsgálati bizonyítványt egymás között elektronikus úton továbbítják.
+(5) A halottvizsgálati bizonyítvány kiállítását és az epikrízis adatok megadását a (7) bekezdésben foglalt kivétellel a 43/A. § szerinti Elektronikus Halottvizsgálati Bizonyítványt Kiállító Rendszerben (a továbbiakban: eHVB rendszer) kell elvégezni. Az egyes adatokat azok megismerését követő egy munkanapon belül kell feltölteni az eHVB rendszerbe.
 
-(9) A halottvizsgálati bizonyítványt úgy kell továbbítani, hogy az anyakönyvvezető és a jegyző – a (6) és a (7) bekezdésben foglaltak kivételével – az 1. melléklet 25–31. pontjában és a 2. melléklet 24–26. pontjában foglalt adatokat ne ismerhesse meg.
+(6) Ha a halottvizsgálati bizonyítvány kitöltőjének az eHVB rendszerben rögzített adatokat érintő új tény jut a tudomására, az adatok eHVB rendszerben történő megfelelő módosításáról haladéktalanul, de legkésőbb a tudomásszerzést követő egy munkanapon belül gondoskodik. Ha a halottvizsgálati bizonyítvány kitöltője a halottvizsgálati bizonyítvány anyakönyvezési célú részleges adattartalmát érintő adatmódosítást a halottvizsgálati bizonyítvány anyakönyvezési célú részleges adattartalmának eHVB rendszerben történt rögzítését követően hajtotta végre, akkor e tényről, valamint a módosítás tartalmáról a haláleset helye szerint illetékes anyakönyvvezetőt – az elektronikus anyakönyvi nyilvántartás informatikai rendszerén (a továbbiakban: EAK rendszer) kívül, egyéb, igazolható módon – haladéktalanul, de legkésőbb egy munkanapon belül értesíti.
 
-(10)[^26] A helyszíni halottvizsgálatot végző orvos az elhalt személy vonatkozásában az általa kitöltött, 1. és 2. melléklet szerinti halottvizsgálati bizonyítvány adatait felhasználva a 4. melléklet szerinti részletezettségű adatokat – legkésőbb a halál tényének és idejének, valamint az elhunyt személyazonosságának megállapítását követő első munkanapon – a 43/A. § szerinti Elektronikus Halottvizsgálati Bizonyítványt Kiállító Rendszerben (a továbbiakban: eHVB rendszer) is rögzíti.
+(7) Ha a halottvizsgálat alkalmával az eHVB rendszer nem hozzáférhető, akkor a halottvizsgálati bizonyítvány papír alapon is kitölthető. Ilyen esetekben az eHVB rendszer hozzáférésének helyreállítását követően haladéktalanul, de legkésőbb a hozzáférés helyreállítását követő egy munkanapon belül el kell végezni az adatok feltöltését az eHVB rendszerbe, ideértve az epikrízis adatokat is. Ha a hozzáférés a halottvizsgálatot követő munkanapig nem áll helyre, akkor a halottvizsgálati bizonyítvány anyakönyvezési célú részleges adattartalmú változatát – az eHVB rendszerben történő adatrögzítési kötelezettség érintetlenül hagyása mellett – haladéktalanul papír alapon továbbítani kell a haláleset anyakönyvezésére illetékes anyakönyvvezető részére.
 
-(11)[^27] Amennyiben a helyszíni halottvizsgálatot végző orvosnak – a (10) bekezdésben rögzített adatok vonatkozásában – az eHVB rendszerben rögzített adatokat érintő új tény jut a tudomására, az adatok eHVB rendszerben történő megfelelő módosításáról haladéktalanul gondoskodik.
-
-(12)[^28] Abban az esetben, ha a halottvizsgálatot végző orvos az eHVB rendszerben az adatmódosítást a (11) bekezdésben meghatározott határidő elteltét követően hajtotta végre, e tényről, valamint a módosítás tartalmáról a haláleset helye szerint illetékes anyakönyvvezetőt haladéktalanul értesíti.
-
-(13)[^29] Az elektronikus anyakönyvi nyilvántartás informatikai rendszere a 4. mellékletben meghatározott adattartalmú halottvizsgálati bizonyítványt a haláleset anyakönyvezését követően az önkormányzati ASP rendszer hagyatéki alrendszere útján haladéktalanul továbbítja a hagyatéki leltár felvételére illetékes jegyzőnek.
-
-[^21]: A 42. § (1) bekezdése a 441/2016. (XII. 16.) Korm. rendelet 50. § b) pontja szerint módosított szöveg.
-[^22]: A 42. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 231. § b) pontja, az 572/2020. (XII. 9.) Korm. rendelet 61. § b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 166. §-a szerint módosított szöveg.
-[^23]: A 42. § (3) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 58. § (1) bekezdésével megállapított szöveg.
-[^24]: A 42. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 231. § b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 166. §-a szerint módosított szöveg.
-[^25]: A 42. § (6) bekezdése a 441/2016. (XII. 16.) Korm. rendelet 49. §-ával megállapított szöveg.
-[^26]: A 42. § (10) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 58. § (2) bekezdése iktatta be.
-[^27]: A 42. § (11) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 58. § (2) bekezdése iktatta be.
-[^28]: A 42. § (12) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 58. § (2) bekezdése iktatta be.
-[^29]: A 42. § (13) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 58. § (2) bekezdése iktatta be.
+[^39]: A 42. § a 377/2023. (VIII. 10.) Korm. rendelet 14. §-ával megállapított szöveg.

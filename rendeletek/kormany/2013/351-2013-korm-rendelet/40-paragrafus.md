@@ -1,17 +1,19 @@
 ## 13. A halottvizsgálati bizonyítvány
 
-40. § (1)[^17] A halottvizsgálat keretében – a 41. § (1) bekezdésében foglalt eset kivételével – az 1. mellékletben meghatározott adattartalmú halottvizsgálati bizonyítványt kell kitölteni, valamint a 4. mellékletben meghatározott adattartalmú halottvizsgálati bizonyítványt – az ismeretlen személyazonosságú elhunyt kivételével – a haláleset helye szerint illetékes anyakönyvvezetőnek elektronikus úton megküldeni.
+40. §[^37] (1) A halottvizsgálat keretében – a (2) bekezdésben foglalt eset kivételével – az 1. mellékletben meghatározott adattartalmú halottvizsgálati bizonyítványt kell kitölteni. A helyszíni halottvizsgálatot végző mentőtiszt a halottvizsgálati bizonyítvány 1. mellékletben foglalt táblázat 1–3. adatcsoportja, 4.1–4. és 4.6. pontja, valamint 4.7.1–3. és 4.7.5–14. alpontja szerinti adatok kitöltésére jogosult.
 
-(2) A halottvizsgálati bizonyítványban az 1. melléklet 1–18. pontja szerinti adatok kitöltésére a helyszíni halottvizsgálatot végző orvos jogosult.
+(2) A halva született magzat vagy élve született, de a szülést követő 168 órán belül elhalálozott gyermek esetén a halottvizsgálat keretében a 2. melléklet szerinti perinatális halottvizsgálati bizonyítványt kell kitölteni.
 
-(3) Természetes halál esetén, ha kórbonctani vizsgálatra nem kerül sor, a halottvizsgálati bizonyítványban az 1. melléklet 19–21., 23–27. és 31–32. pontjában foglalt adatokat a halál okát megállapító orvos tölti ki. A halottvizsgálati bizonyítványban az 1. melléklet 23–27. és 31–32. pontjában foglalt adatokat a helyszíni halottvizsgálattal egyidejűleg kell kitölteni.
+(3) A halottvizsgálati bizonyítvány adatait az 1. és a 2. melléklet tartalmazza. A halottvizsgálati bizonyítvány
 
-(4) Természetes halál esetén, ha kórbonctani vizsgálatra kerül sor, a halottvizsgálati bizonyítványban az 1. melléklet 19–20. pontjában, 23–27. és 31–32. pontjában foglalt adatokat a kórbonctani vizsgálatot végző orvos tölti ki.
+a) teljes adattartalmát a „C”,
 
-(5)[^18] Nem természetes halál esetén a halottvizsgálati bizonyítványban az 1. melléklet 20. pontjában, 21. a) pontjában és 22. pontjában foglalt adatokat az eljáró hatóság, 19. pontjában, 21. b) pontjában és 23–32. pontjában foglalt adatokat a hatósági vagy igazságügyi orvosi boncolás érdekében kirendelt orvos tölti ki.
+b) eltemettetési célú részleges adattartalmú változatának adattartalmát a „D”,
 
-(6)[^19] Természetes halál esetén, ha a holttest boncolására nem került sor, a holttest elhamvaszthatóságát a fővárosi és vármegyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala engedélyezi.
+c) anyakönyvezési célú részleges adattartalmú változatának adattartalmát az „E”,
 
-[^17]: A 40. § (1) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 56. §-ával megállapított szöveg.
-[^18]: A 40. § (5) bekezdése a 132/2019. (VI. 5.) Korm. rendelet 4. §-a szerint módosított szöveg.
-[^19]: A 40. § (6) bekezdése a 364/2014. (XII. 30.) Korm. rendelet 119. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 231. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 166. §-a szerint módosított szöveg.
+d) statisztikai célú részleges adattartalmú változatának adattartalmát az „F”
+
+oszlopban „X” jelzéssel ellátott adatok képezik. Halva született magzat esetén a halottvizsgálati bizonyítványnak nincs anyakönyvezési célú részleges adattartalmú változata, és a halottvizsgálati bizonyítvány anyakönyvezési célú felhasználására vonatkozó jogszabályi rendelkezéseket nem kell alkalmazni.
+
+[^37]: A 40. § a 377/2023. (VIII. 10.) Korm. rendelet 14. §-ával megállapított szöveg.

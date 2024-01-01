@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-351-20-
 | 2023-01-01 | 2013-351-20-22.18 | 70/2015. (III. 30.) Korm. rendelet |
 | 2023-07-01 | 2013-351-20-22.19 | 630/2022. (XII. 30.) Korm. rendelet |
 | 2023-08-11 | 2013-351-20-22.20 | 377/2023. (VIII. 10.) Korm. rendelet |
+| 2024-01-01 | 2013-351-20-22.21 | 377/2023. (VIII. 10.) Korm. rendelet |

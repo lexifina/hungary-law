@@ -8,7 +8,7 @@ c) – ha az a) és b) pontban foglaltaknak nincs helye – a hatóság a rendk�
 
 (2) Az (1) bekezdés a) pontja szerinti döntéssel szemben jogorvoslatnak nincs helye, a döntés azonnal végrehajtható.
 
-(3)[^4] Az (1) bekezdés b) pontja szerinti döntés azonnal végrehajtható. A végzéssel szemben 15 napon belül lehet fellebbezéssel élni. Eredményes fellebbezés esetén újbóli előzetes vizsgálatnak nincs helye.
+(3)[^17] Az (1) bekezdés b) pontja szerinti döntés azonnal végrehajtható. A végzéssel szemben 15 napon belül lehet fellebbezéssel élni. Eredményes fellebbezés esetén újbóli előzetes vizsgálatnak nincs helye.
 
 (4) Az (1) bekezdés b) pontja alapján a hatóság az egészségügyi adatok eredményes beszerzése nélkül csak akkor szüntetheti meg az eljárást, ha a halál rendkívüli jellege ezen adatok nélkül is egyértelműen és megalapozottan kizárható.
 
@@ -22,4 +22,4 @@ ab) az elhunyt külföldön élt és a külföldi lakcíme ismeretlen.
 
 b) fogvatartott, kényszergyógykezelt, ideiglenesen kényszergyógykezelt halála esetén a büntetést, az intézkedést vagy a kényszerintézkedést foganatosító szervvel és a büntetés-végrehajtás felett törvényességi felügyeletet ellátó ügyésszel is.
 
-[^4]: A 15. § (3) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 61. § a) pontja szerint módosított szöveg.
+[^17]: A 15. § (3) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 61. § a) pontja szerint módosított szöveg.
