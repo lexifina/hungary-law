@@ -1,1 +1,1 @@
-### 73. §
+73. § A mozgóképről szóló 2004. évi II. törvény 13. § (5) bekezdésében meghatározott gyártási költségvetési értékhatár a 2024. évben magyar filmalkotás esetén 459,2 millió forint, magyar részvételű koprodukciós filmalkotás esetén 735,4 millió forint.

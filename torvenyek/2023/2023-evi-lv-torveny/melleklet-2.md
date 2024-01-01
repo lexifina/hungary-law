@@ -1,3 +1,5 @@
+## 3X05394.pdf
+
 2. melléklet a 2023. évi LV. törvényhez
 
 A települési önkormányzatok általános működésének és ágazati feladatainak támogatása
